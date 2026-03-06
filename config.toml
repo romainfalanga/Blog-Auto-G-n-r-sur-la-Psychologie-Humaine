@@ -42,15 +42,15 @@ title = "Décode ton esprit — Comprends-toi grâce à la psychologie"
 [menu]
   [[menu.main]]
     name = "Contrôle des pensées"
-    url = "/reprendre-le-controle-de-ses-pensees/"
+    url = "/posts/reprendre-le-controle-de-ses-pensees/"
     weight = 1
   [[menu.main]]
     name = "Maîtrise des émotions"
-    url = "/comprendre-et-maitriser-ses-emotions/"
+    url = "/posts/comprendre-et-maitriser-ses-emotions/"
     weight = 2
   [[menu.main]]
     name = "Schémas répétitifs"
-    url = "/sortir-de-ses-schemas-repetitifs/"
+    url = "/posts/sortir-de-ses-schemas-repetitifs/"
     weight = 3
   [[menu.main]]
     name = "À propos"

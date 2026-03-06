@@ -19,10 +19,14 @@ from pathlib import Path
 MAMMOUTH_API_KEY = os.environ.get("MAMMOUTH_API_KEY")
 API_URL = "https://api.mammouth.ai/v1/chat/completions"
 MODEL = "gpt-4.1-mini"
-CONTENT_DIR = Path("content/posts")
-TRACKING_FILE = Path("scripts/generated_topics.json")
 SITE_NAME = "Décode ton esprit"
 BASE_URL = "https://decodetonsesprit.netlify.app"
+
+# Résoudre les chemins par rapport à la racine du repo (pas le répertoire courant)
+SCRIPT_DIR = Path(__file__).resolve().parent
+REPO_ROOT = SCRIPT_DIR.parent
+CONTENT_DIR = REPO_ROOT / "content" / "posts"
+TRACKING_FILE = SCRIPT_DIR / "generated_topics.json"
 
 # Import des listes depuis config.py
 from config import (
