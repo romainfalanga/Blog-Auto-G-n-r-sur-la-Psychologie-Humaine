@@ -1,0 +1,31 @@
+{{ define "main" }}
+<section class="hero">
+  <h1>Comprends-toi mieux grâce à la psychologie humaine</h1>
+  <p class="tagline">Chaque jour, de nouvelles histoires pour décoder votre fonctionnement intérieur. Biais cognitifs, émotions, schémas répétitifs : découvrez pourquoi vous pensez, ressentez et agissez comme vous le faites.</p>
+</section>
+
+<div class="container-wide">
+  {{ range .Site.Sections }}
+    {{ if eq .Section "posts" }}
+      {{ range .Sections }}
+      <section class="category-section">
+        <h2 class="category-section-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <div class="articles-grid">
+          {{ range first 3 .Pages }}
+          <div class="article-card">
+            <div class="card-meta">
+              <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+              {{ if .Params.readingTime }} &middot; {{ .Params.readingTime }} min{{ end }}
+            </div>
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <p class="card-excerpt">{{ .Summary | truncate 160 }}</p>
+          </div>
+          {{ end }}
+        </div>
+        <a href="{{ .Permalink }}" class="view-all">Voir tous les articles &rarr;</a>
+      </section>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</div>
+{{ end }}

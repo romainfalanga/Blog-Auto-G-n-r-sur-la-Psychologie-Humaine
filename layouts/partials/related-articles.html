@@ -1,0 +1,27 @@
+{{ if .Params.categories }}
+{{ $currentPage := . }}
+{{ $related := slice }}
+{{ range where .Site.RegularPages "Params.categories" "intersect" .Params.categories }}
+  {{ if ne .Permalink $currentPage.Permalink }}
+    {{ $related = $related | append . }}
+  {{ end }}
+{{ end }}
+{{ $related = first 3 $related }}
+{{ if $related }}
+<section class="related-articles">
+  <h2>Articles dans la même catégorie</h2>
+  <div class="articles-grid">
+    {{ range $related }}
+    <div class="article-card">
+      <div class="card-meta">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+        {{ if .Params.readingTime }} &middot; {{ .Params.readingTime }} min{{ end }}
+      </div>
+      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <p class="card-excerpt">{{ .Summary | truncate 160 }}</p>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+{{ end }}

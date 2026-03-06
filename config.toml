@@ -1,0 +1,60 @@
+baseURL = "https://decodetonsesprit.netlify.app/"
+languageCode = "fr"
+defaultContentLanguage = "fr"
+title = "Décode ton esprit — Comprends-toi grâce à la psychologie"
+
+[params]
+  description = "Un blog de psychologie vulgarisée pour mieux se comprendre soi-même. Découvrez vos biais cognitifs, apprenez à gérer vos émotions et libérez-vous de vos schémas répétitifs."
+  author = "Décode ton esprit"
+  siteName = "Décode ton esprit"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "friendly"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediaType = "application/rss+xml"
+    baseName = "feed"
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[pagination]
+  pagerSize = 10
+
+[permalinks]
+  posts = "/:sections/:slug/"
+
+[menu]
+  [[menu.main]]
+    name = "Contrôle des pensées"
+    url = "/reprendre-le-controle-de-ses-pensees/"
+    weight = 1
+  [[menu.main]]
+    name = "Maîtrise des émotions"
+    url = "/comprendre-et-maitriser-ses-emotions/"
+    weight = 2
+  [[menu.main]]
+    name = "Schémas répétitifs"
+    url = "/sortir-de-ses-schemas-repetitifs/"
+    weight = 3
+  [[menu.main]]
+    name = "À propos"
+    url = "/a-propos/"
+    weight = 4
+
+enableRobotsTXT = true

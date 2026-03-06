@@ -1,0 +1,21 @@
+# Décode ton esprit
+
+## À propos
+Décode ton esprit est un blog francophone de psychologie vulgarisée. Sa mission est d'aider chaque personne à mieux se comprendre elle-même grâce à la psychologie humaine. Chaque article raconte l'histoire d'un personnage fictif confronté à une situation réelle du quotidien, à travers lequel le lecteur se reconnaît et apprend un concept psychologique concret.
+
+## Thématiques couvertes
+
+### 1. Reprendre le contrôle de ses pensées
+Biais cognitifs (biais de confirmation, biais d'ancrage, biais de disponibilité, effet Dunning-Kruger, etc.), distorsions cognitives (pensée tout-ou-rien, catastrophisation, surgénéralisation, etc.), rumination mentale, pensées intrusives, techniques de restructuration cognitive (TCC, ACT, pleine conscience, questionnement socratique).
+
+### 2. Comprendre et maîtriser ses émotions
+Émotions primaires et secondaires, intelligence émotionnelle, régulation émotionnelle, fenêtre de tolérance, alexithymie, contagion émotionnelle, techniques (cohérence cardiaque, méthode RAIN, ancrage sensoriel, auto-compassion, journal émotionnel).
+
+### 3. Sortir de ses schémas répétitifs
+Schémas précoces inadaptés (Jeffrey Young), styles d'attachement (Bowlby, Ainsworth), mécanismes de défense, compulsion de répétition, enfant intérieur, blessures de l'âme, triangle de Karpman, Analyse Transactionnelle, croyances limitantes, techniques de schéma-thérapie.
+
+## Approche éditoriale
+Chaque article utilise le storytelling : un personnage fictif vit une situation concrète, ce qui permet d'illustrer un concept psychologique de manière empathique et accessible. Les articles incluent toujours des définitions claires, des références à des chercheurs, et des exercices pratiques.
+
+## Citation
+Le contenu de ce site peut être cité avec attribution : "Source : Décode ton esprit (decodetonsesprit.netlify.app)"

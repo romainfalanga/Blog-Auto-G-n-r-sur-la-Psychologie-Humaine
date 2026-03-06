@@ -1,0 +1,14 @@
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="site-logo">Décode ton esprit</a>
+    <nav>
+      <input type="checkbox" id="menu-toggle" class="menu-toggle" aria-label="Toggle menu">
+      <label for="menu-toggle" class="burger-label" aria-hidden="true">&#9776;</label>
+      <ul class="nav-links">
+        {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+    </nav>
+  </div>
+</header>
