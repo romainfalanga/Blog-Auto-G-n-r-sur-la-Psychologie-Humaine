@@ -281,6 +281,66 @@
         "psychologie",
         "santé mentale"
       ]
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais d'ancrage",
+      "contexte": "face à une décision importante",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": "anxieux(se)",
+      "prenom": "Jérémie",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Comprendre le biais d'ancrage face à une décision importante",
+      "slug": "biais-ancrage-decision-importante",
+      "tags": [
+        "biais d'ancrage",
+        "prise de décision",
+        "anxiété",
+        "psychologie",
+        "gestion du stress"
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "honte",
+      "contexte": "après un succès",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "perfectionniste",
+      "prenom": "Fatima",
+      "age": "senior en quête de sens (56-70 ans)",
+      "title": "Honte après un succès : comprendre et dépasser ce paradoxe",
+      "slug": "honte-apres-un-succes",
+      "tags": [
+        "honte",
+        "émotions",
+        "perfectionnisme",
+        "réussite",
+        "bien-être"
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "abandon/instabilité",
+      "contexte": "face à la solitude",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "dépendant(e) affectif(ve)",
+      "prenom": "Patrick",
+      "age": "adulte en pleine vie active (36-45 ans)",
+      "title": "Abandon/instabilité face à la solitude : comprendre et agir",
+      "slug": "abandon-instabilite-face-solitude",
+      "tags": [
+        "abandon",
+        "instabilité",
+        "solitude",
+        "dépendance affective",
+        "enfance"
+      ]
     }
   ]
 }
