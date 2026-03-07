@@ -221,6 +221,66 @@
         "jeux psychologiques",
         "développement personnel"
       ]
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet de leurre",
+      "contexte": "en famille",
+      "angle": "le témoignage (raconter l'histoire d'un personnage qui s'en sort)",
+      "profil": null,
+      "prenom": "Juliette",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Effet de leurre en famille : l’histoire de Juliette qui reprend le contrôle",
+      "slug": "effet-leurre-en-famille",
+      "tags": [
+        "effet de leurre",
+        "psychologie familiale",
+        "reprendre le contrôle",
+        "pensées négatives",
+        "bien-être"
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "irritabilité",
+      "contexte": "seul(e) face à soi-même",
+      "angle": "ce que dit la science (études et recherches)",
+      "profil": null,
+      "prenom": "Lucas",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Irritabilité seul face à soi-même : comprendre et apaiser ses tensions",
+      "slug": "irritabilite-seul-face-a-soi",
+      "tags": [
+        "irritabilité",
+        "émotions",
+        "gestion du stress",
+        "psychologie",
+        "bien-être"
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "le stress post-traumatique complexe (C-PTSD)",
+      "contexte": "lors d'un deuil",
+      "angle": "ce que dit la science (études et recherches)",
+      "profil": null,
+      "prenom": "Isabelle",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Comprendre le stress post-traumatique complexe (C-PTSD) lors d'un deuil",
+      "slug": "stress-post-traumatique-complexe-deuil",
+      "tags": [
+        "stress post-traumatique",
+        "C-PTSD",
+        "deuil",
+        "psychologie",
+        "santé mentale"
+      ]
     }
   ]
 }
