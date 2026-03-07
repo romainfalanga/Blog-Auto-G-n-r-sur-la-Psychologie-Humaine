@@ -5,9 +5,10 @@ en appelant l'API Mammouth (Gemini pour la suggestion, GPT pour la rédaction)
 et en créant des fichiers Markdown Hugo.
 
 Flux :
-1. Scan des articles existants sur le site
-2. Gemini analyse le contenu existant et suggère 3 sujets uniques
+1. Charger la matrice des combinaisons déjà réalisées (scripts/matrice_combinaisons.json)
+2. Gemini analyse la matrice et suggère 3 nouvelles combinaisons uniques
 3. GPT-4.1-mini rédige les articles sur les suggestions de Gemini
+4. La matrice est mise à jour avec les nouvelles combinaisons
 """
 
 import os
@@ -27,6 +28,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_ROOT = SCRIPT_DIR.parent
 CONTENT_DIR = REPO_ROOT / "content" / "posts"
 TRACKING_FILE = SCRIPT_DIR / "generated_topics.json"
+MATRIX_FILE = SCRIPT_DIR / "matrice_combinaisons.json"
 
 sys.path.insert(0, str(SCRIPT_DIR))
 
@@ -42,81 +44,117 @@ from config import (
 )
 
 # ============================================
-# SCAN DES ARTICLES EXISTANTS
+# MATRICE DES COMBINAISONS
 # ============================================
 
-def scan_existing_articles():
-    """Scanne tous les articles existants et extrait leurs métadonnées."""
-    articles = []
-
-    for category_dir in CONTENT_DIR.iterdir():
-        if not category_dir.is_dir():
-            continue
-        for md_file in category_dir.glob("*.md"):
-            if md_file.name == "_index.md":
-                continue
-            try:
-                content = md_file.read_text(encoding="utf-8")
-                meta = parse_front_matter(content)
-                if meta:
-                    articles.append(meta)
-            except Exception as e:
-                print(f"  Erreur lecture {md_file}: {e}")
-
-    return articles
+def load_matrix():
+    """Charge la matrice des combinaisons déjà réalisées."""
+    if MATRIX_FILE.exists():
+        try:
+            with open(MATRIX_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                if "articles" not in data:
+                    return {"articles": []}
+                return data
+        except (json.JSONDecodeError, IOError) as e:
+            print(f"  Attention: matrice corrompue, reinitialisation ({e})")
+    return {"articles": []}
 
 
-def parse_front_matter(content):
-    """Extrait les métadonnées du front matter YAML d'un fichier Markdown."""
-    if not content.startswith("---"):
-        return None
-
-    parts = content.split("---", 2)
-    if len(parts) < 3:
-        return None
-
-    front_matter = parts[1].strip()
-    meta = {}
-
-    for line in front_matter.split("\n"):
-        if ":" in line:
-            key, _, value = line.partition(":")
-            key = key.strip()
-            value = value.strip().strip('"').strip("'")
-
-            if key in ("title", "sujet", "contexte", "personnage", "description", "slug"):
-                meta[key] = value
-            elif key == "categories":
-                # Parse ["Catégorie"]
-                match = re.findall(r'"([^"]+)"', value)
-                if match:
-                    meta["category"] = match[0]
-            elif key == "tags":
-                match = re.findall(r'"([^"]+)"', value)
-                if match:
-                    meta["tags"] = match
-
-    return meta if meta.get("title") else None
+def save_matrix(data):
+    """Sauvegarde la matrice des combinaisons."""
+    with open(MATRIX_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def build_articles_summary(articles):
-    """Construit un résumé textuel de tous les articles existants pour Gemini."""
+def add_to_matrix(matrix, combo, metadata):
+    """Ajoute une combinaison à la matrice après génération de l'article."""
+    entry = {
+        "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+        "category_key": combo["category_key"],
+        "category_name": combo["category_name"],
+        "sujet": combo["sujet"],
+        "contexte": combo["contexte"],
+        "angle": combo["angle"],
+        "profil": combo.get("profil"),
+        "prenom": combo["prenom"],
+        "age": combo["age"],
+        "title": metadata.get("title", ""),
+        "slug": metadata.get("slug", ""),
+        "tags": metadata.get("tags", []),
+    }
+    matrix["articles"].append(entry)
+
+
+def build_matrix_summary(matrix):
+    """Construit un résumé de la matrice pour Gemini."""
+    articles = matrix.get("articles", [])
     if not articles:
-        return "Aucun article n'a encore été publié sur le site."
+        return "Aucun article n'a encore été généré."
 
-    summary_lines = [f"Le site compte actuellement {len(articles)} articles publiés :\n"]
+    lines = [f"ARTICLES DÉJÀ GÉNÉRÉS ({len(articles)} au total) :\n"]
+    for i, a in enumerate(articles, 1):
+        line = f"{i}. [{a['category_key']}] Sujet: \"{a['sujet']}\" | Contexte: \"{a['contexte']}\" | Angle: \"{a['angle']}\""
+        if a.get("title"):
+            line += f" | Titre: \"{a['title']}\""
+        if a.get("profil"):
+            line += f" | Profil: \"{a['profil']}\""
+        lines.append(line)
 
-    for i, art in enumerate(articles, 1):
-        line = f"{i}. [{art.get('category', '?')}] \"{art.get('title', '?')}\""
-        if art.get("sujet"):
-            line += f" — Sujet: {art['sujet']}"
-        if art.get("contexte"):
-            line += f" — Contexte: {art['contexte']}"
-        if art.get("tags"):
-            line += f" — Tags: {', '.join(art['tags'])}"
-        summary_lines.append(line)
+    # Ajouter un résumé des sujets/contextes utilisés par catégorie
+    lines.append("\nRÉSUMÉ PAR CATÉGORIE :")
+    for cat_key in ["cat1_pensees", "cat2_emotions", "cat3_schemas"]:
+        cat_articles = [a for a in articles if a["category_key"] == cat_key]
+        if cat_articles:
+            sujets_used = set(a["sujet"] for a in cat_articles)
+            contextes_used = set(a["contexte"] for a in cat_articles)
+            lines.append(f"  {cat_key}: {len(cat_articles)} articles, sujets utilisés: {sujets_used}, contextes utilisés: {contextes_used}")
+        else:
+            lines.append(f"  {cat_key}: 0 articles")
 
-    return "\n".join(summary_lines)
+    return "\n".join(lines)
+
+
+def migrate_tracking_to_matrix(matrix):
+    """Migre les données de generated_topics.json vers la matrice si nécessaire."""
+    if not TRACKING_FILE.exists():
+        return
+
+    try:
+        with open(TRACKING_FILE, "r", encoding="utf-8") as f:
+            tracking = json.load(f)
+    except (json.JSONDecodeError, IOError):
+        return
+
+    existing_combos = set()
+    for a in matrix.get("articles", []):
+        existing_combos.add(f"{a['category_key']}|{a['sujet']}|{a['contexte']}|{a['angle']}")
+
+    migrated = 0
+    for combo_str in tracking.get("generated", []):
+        if combo_str in existing_combos:
+            continue
+        parts = combo_str.split("|", 3)
+        if len(parts) == 4:
+            matrix["articles"].append({
+                "date": "migré",
+                "category_key": parts[0],
+                "category_name": CATEGORIES.get(parts[0], {}).get("name", parts[0]),
+                "sujet": parts[1],
+                "contexte": parts[2],
+                "angle": parts[3],
+                "profil": None,
+                "prenom": "",
+                "age": "",
+                "title": "",
+                "slug": "",
+                "tags": [],
+            })
+            migrated += 1
+
+    if migrated > 0:
+        print(f"  {migrated} combinaisons migrees depuis generated_topics.json")
+
 
 # ============================================
 # GEMINI : SUGGESTION DE SUJETS
@@ -140,171 +178,162 @@ def call_mammouth_api(model, system_prompt, user_prompt, temperature=0.85, max_t
 
     for attempt in range(retries):
         try:
-            response = requests.post(API_URL, headers=headers, json=data, timeout=120)
+            print(f"    [API] Appel {model} (tentative {attempt + 1}/{retries})...")
+            response = requests.post(API_URL, headers=headers, json=data, timeout=180)
             response.raise_for_status()
             result = response.json()
             return result["choices"][0]["message"]["content"]
+        except requests.exceptions.HTTPError as e:
+            print(f"    [API] Erreur HTTP {response.status_code}: {response.text[:300]}")
+            if attempt == retries - 1:
+                raise
         except Exception as e:
-            print(f"  Tentative {attempt + 1}/{retries} echouee : {e}")
+            print(f"    [API] Tentative {attempt + 1}/{retries} echouee: {e}")
             if attempt == retries - 1:
                 raise
 
     return None
 
 
-def build_gemini_prompt(articles_summary, tracking_data):
-    """Construit le prompt pour Gemini afin qu'il suggère des sujets uniques."""
+def build_gemini_prompt(matrix_summary):
+    """Construit le prompt pour Gemini avec des indices numériques pour fiabiliser le JSON."""
 
-    # Construire la liste des sujets disponibles par catégorie
-    available_subjects = {}
-    for cat_key, cat_data in CATEGORIES.items():
-        available_subjects[cat_data["name"]] = cat_data["sujets"]
+    # Construire les listes numérotées pour chaque dimension
+    cat1_sujets = CATEGORIES["cat1_pensees"]["sujets"]
+    cat2_sujets = CATEGORIES["cat2_emotions"]["sujets"]
+    cat3_sujets = CATEGORIES["cat3_schemas"]["sujets"]
 
-    # Construire la liste des combinaisons déjà utilisées
-    used_combos = tracking_data.get("generated", [])
-    used_text = "\n".join(f"- {c}" for c in used_combos) if used_combos else "Aucune combinaison utilisée."
+    cat1_list = "\n".join(f"  {i}: \"{s}\"" for i, s in enumerate(cat1_sujets))
+    cat2_list = "\n".join(f"  {i}: \"{s}\"" for i, s in enumerate(cat2_sujets))
+    cat3_list = "\n".join(f"  {i}: \"{s}\"" for i, s in enumerate(cat3_sujets))
+    contextes_list = "\n".join(f"  {i}: \"{c}\"" for i, c in enumerate(CONTEXTES))
+    angles_list = "\n".join(f"  {i}: \"{a}\"" for i, a in enumerate(ANGLES))
+    profils_list = "\n".join(f"  {i}: \"{p}\"" for i, p in enumerate(PROFILS))
 
-    system_prompt = """Tu es un directeur éditorial expert en psychologie vulgarisée. Tu analyses le contenu existant d'un blog de psychologie et tu proposes des sujets d'articles pertinents, originaux et complémentaires à ce qui existe déjà.
+    system_prompt = """Tu es un directeur éditorial expert en psychologie. Tu analyses le contenu existant d'un blog et proposes des sujets complémentaires.
 
-Tu dois éviter :
-- Les sujets déjà traités (même sous un angle différent, sauf si l'angle est VRAIMENT distinct)
-- Les combinaisons sujet+contexte trop proches de ce qui existe (ex: "colère en couple" et "frustration en couple" sont trop proches)
-- La redondance thématique (ne pas proposer 3 articles qui parlent tous de la même famille de concepts)
+RÈGLES :
+- Évite les sujets et combinaisons sujet+contexte déjà traités ou trop proches
+- Privilégie la diversité thématique entre les 3 suggestions
+- Choisis des combinaisons qui créent des articles intéressants et recherchés
 
-Tu dois privilégier :
-- La diversité des sujets au sein de chaque catégorie
-- Des combinaisons sujet+contexte qui créent des articles intéressants et recherchés
-- Des angles éditoriaux variés
-- Des contextes de vie différents de ceux déjà traités
+IMPORTANT : Réponds UNIQUEMENT avec du JSON valide. Pas de texte avant ni après. Pas de backticks."""
 
-IMPORTANT : Tu dois répondre UNIQUEMENT en JSON valide, sans aucun texte avant ou après."""
+    user_prompt = f"""{matrix_summary}
 
-    user_prompt = f"""Voici l'état actuel du blog "Décode ton esprit" :
+SUJETS DISPONIBLES PAR CATÉGORIE (utilise l'INDICE numérique) :
 
-{articles_summary}
+cat1_pensees:
+{cat1_list}
 
-COMBINAISONS DÉJÀ UTILISÉES (format: catégorie|sujet|contexte|angle) :
-{used_text}
+cat2_emotions:
+{cat2_list}
 
-SUJETS DISPONIBLES PAR CATÉGORIE :
+cat3_schemas:
+{cat3_list}
 
-1. CATÉGORIE "Reprendre le contrôle de ses pensées" (cat1_pensees) :
-{json.dumps(available_subjects["Reprendre le contrôle de ses pensées"], ensure_ascii=False, indent=2)}
+CONTEXTES DISPONIBLES (utilise l'INDICE numérique) :
+{contextes_list}
 
-2. CATÉGORIE "Comprendre et maîtriser ses émotions" (cat2_emotions) :
-{json.dumps(available_subjects["Comprendre et maîtriser ses émotions"], ensure_ascii=False, indent=2)}
+ANGLES DISPONIBLES (utilise l'INDICE numérique) :
+{angles_list}
 
-3. CATÉGORIE "Sortir de ses schémas répétitifs" (cat3_schemas) :
-{json.dumps(available_subjects["Sortir de ses schémas répétitifs"], ensure_ascii=False, indent=2)}
+PROFILS (utilise l'INDICE numérique, ou -1 pour aucun profil) :
+{profils_list}
 
-CONTEXTES DISPONIBLES :
-{json.dumps(CONTEXTES, ensure_ascii=False, indent=2)}
+Propose 3 combinaisons (1 par catégorie). Réponds en JSON :
 
-ANGLES ÉDITORIAUX DISPONIBLES :
-{json.dumps(ANGLES, ensure_ascii=False, indent=2)}
-
-PROFILS DE LECTEURS (optionnel, à utiliser 1 fois sur 3) :
-{json.dumps(PROFILS, ensure_ascii=False, indent=2)}
-
-Propose exactement 3 sujets d'articles (1 par catégorie) au format JSON suivant :
-
-```json
 [
-  {{
-    "category_key": "cat1_pensees",
-    "sujet": "le sujet exact de la liste ci-dessus",
-    "contexte": "le contexte exact de la liste ci-dessus",
-    "angle": "l'angle exact de la liste ci-dessus",
-    "profil": "le profil exact de la liste ci-dessus ou null",
-    "justification": "pourquoi ce sujet est pertinent et complémentaire"
-  }},
-  {{
-    "category_key": "cat2_emotions",
-    "sujet": "...",
-    "contexte": "...",
-    "angle": "...",
-    "profil": "... ou null",
-    "justification": "..."
-  }},
-  {{
-    "category_key": "cat3_schemas",
-    "sujet": "...",
-    "contexte": "...",
-    "angle": "...",
-    "profil": "... ou null",
-    "justification": "..."
-  }}
+  {{"cat": "cat1_pensees", "sujet_idx": 5, "contexte_idx": 2, "angle_idx": 0, "profil_idx": -1, "justification": "..."}},
+  {{"cat": "cat2_emotions", "sujet_idx": 12, "contexte_idx": 7, "angle_idx": 3, "profil_idx": 2, "justification": "..."}},
+  {{"cat": "cat3_schemas", "sujet_idx": 8, "contexte_idx": 1, "angle_idx": 5, "profil_idx": -1, "justification": "..."}}
 ]
-```
 
-RÈGLES STRICTES :
-- Chaque "sujet" DOIT être un élément EXACT de la liste de sujets de sa catégorie
-- Chaque "contexte" DOIT être un élément EXACT de la liste de contextes
-- Chaque "angle" DOIT être un élément EXACT de la liste d'angles
-- Chaque "profil" DOIT être un élément EXACT de la liste de profils, ou null
-- Les combinaisons NE DOIVENT PAS exister dans les combinaisons déjà utilisées
-- Réponds UNIQUEMENT avec le JSON, sans texte autour, sans backticks markdown"""
+Les indices doivent correspondre aux listes ci-dessus. Pas de texte autour du JSON."""
 
     return system_prompt, user_prompt
 
 
 def parse_gemini_suggestions(raw_response):
-    """Parse la réponse JSON de Gemini."""
-    # Nettoyer la réponse (enlever backticks markdown si présents)
+    """Parse la réponse JSON de Gemini et résout les indices."""
     cleaned = raw_response.strip()
-    if cleaned.startswith("```"):
-        cleaned = re.sub(r'^```(?:json)?\s*', '', cleaned)
-        cleaned = re.sub(r'\s*```$', '', cleaned)
+
+    # Enlever backticks markdown si présents
+    if "```" in cleaned:
+        match = re.search(r'\[[\s\S]*\]', cleaned)
+        if match:
+            cleaned = match.group(0)
+        else:
+            cleaned = re.sub(r'^```(?:json)?\s*', '', cleaned)
+            cleaned = re.sub(r'\s*```$', '', cleaned)
 
     try:
-        suggestions = json.loads(cleaned)
+        raw_suggestions = json.loads(cleaned)
     except json.JSONDecodeError as e:
         print(f"  Erreur parsing JSON Gemini: {e}")
-        print(f"  Réponse brute: {raw_response[:500]}")
+        print(f"  Reponse brute (500 premiers chars): {raw_response[:500]}")
         return None
 
-    if not isinstance(suggestions, list) or len(suggestions) != 3:
-        print(f"  Gemini n'a pas retourné exactement 3 suggestions (reçu: {len(suggestions) if isinstance(suggestions, list) else 'pas une liste'})")
+    if not isinstance(raw_suggestions, list) or len(raw_suggestions) != 3:
+        count = len(raw_suggestions) if isinstance(raw_suggestions, list) else "pas une liste"
+        print(f"  Gemini n'a pas retourne 3 suggestions (recu: {count})")
         return None
 
-    return suggestions
+    # Résoudre les indices vers les valeurs réelles
+    resolved = []
+    for s in raw_suggestions:
+        cat_key = s.get("cat", "")
+        if cat_key not in CATEGORIES:
+            print(f"  Categorie inconnue: {cat_key}")
+            return None
+
+        cat_sujets = CATEGORIES[cat_key]["sujets"]
+        sujet_idx = s.get("sujet_idx", -1)
+        contexte_idx = s.get("contexte_idx", -1)
+        angle_idx = s.get("angle_idx", -1)
+        profil_idx = s.get("profil_idx", -1)
+
+        # Validation des indices
+        if not (0 <= sujet_idx < len(cat_sujets)):
+            print(f"  Indice sujet invalide: {sujet_idx} (max {len(cat_sujets)-1}) pour {cat_key}")
+            return None
+        if not (0 <= contexte_idx < len(CONTEXTES)):
+            print(f"  Indice contexte invalide: {contexte_idx} (max {len(CONTEXTES)-1})")
+            return None
+        if not (0 <= angle_idx < len(ANGLES)):
+            print(f"  Indice angle invalide: {angle_idx} (max {len(ANGLES)-1})")
+            return None
+
+        profil = None
+        if 0 <= profil_idx < len(PROFILS):
+            profil = PROFILS[profil_idx]
+
+        resolved.append({
+            "category_key": cat_key,
+            "sujet": cat_sujets[sujet_idx],
+            "contexte": CONTEXTES[contexte_idx],
+            "angle": ANGLES[angle_idx],
+            "profil": profil,
+            "justification": s.get("justification", ""),
+        })
+
+    return resolved
 
 
-def validate_suggestion(suggestion, tracking_data):
-    """Vérifie qu'une suggestion de Gemini est valide."""
-    cat_key = suggestion.get("category_key")
-    if cat_key not in CATEGORIES:
-        return False, f"Catégorie inconnue: {cat_key}"
-
-    sujet = suggestion.get("sujet")
-    if sujet not in CATEGORIES[cat_key]["sujets"]:
-        return False, f"Sujet inconnu pour {cat_key}: {sujet}"
-
-    contexte = suggestion.get("contexte")
-    if contexte not in CONTEXTES:
-        return False, f"Contexte inconnu: {contexte}"
-
-    angle = suggestion.get("angle")
-    if angle not in ANGLES:
-        return False, f"Angle inconnu: {angle}"
-
-    profil = suggestion.get("profil")
-    if profil is not None and profil not in PROFILS:
-        return False, f"Profil inconnu: {profil}"
-
-    # Vérifier que la combinaison n'existe pas déjà
-    combo_id = f"{cat_key}|{sujet}|{contexte}|{angle}"
-    if combo_id in tracking_data.get("generated", []):
-        return False, f"Combinaison déjà utilisée: {combo_id}"
-
-    return True, "OK"
+def is_combo_used(matrix, cat_key, sujet, contexte):
+    """Vérifie si une combinaison catégorie+sujet+contexte a déjà été utilisée."""
+    for a in matrix.get("articles", []):
+        if a["category_key"] == cat_key and a["sujet"] == sujet and a["contexte"] == contexte:
+            return True
+    return False
 
 
-def get_gemini_suggestions(articles_summary, tracking_data):
+def get_gemini_suggestions(matrix):
     """Appelle Gemini pour obtenir des suggestions de sujets."""
-    system_prompt, user_prompt = build_gemini_prompt(articles_summary, tracking_data)
+    matrix_summary = build_matrix_summary(matrix)
+    system_prompt, user_prompt = build_gemini_prompt(matrix_summary)
 
-    print("  Appel Gemini (analyse du contenu existant)...")
+    print("  Appel Gemini (analyse de la matrice)...")
     raw_response = call_mammouth_api(
         model=MODEL_ANALYST,
         system_prompt=system_prompt,
@@ -313,42 +342,56 @@ def get_gemini_suggestions(articles_summary, tracking_data):
         max_tokens=2000
     )
 
+    if not raw_response:
+        print("  Gemini n'a pas repondu")
+        return None
+
     suggestions = parse_gemini_suggestions(raw_response)
     if not suggestions:
         return None
 
-    # Valider chaque suggestion
-    valid_suggestions = []
+    # Vérifier que les combinaisons ne sont pas déjà utilisées
+    all_valid = True
     for s in suggestions:
-        is_valid, msg = validate_suggestion(s, tracking_data)
-        if is_valid:
-            valid_suggestions.append(s)
-            print(f"  Suggestion validée [{s['category_key']}]: {s['sujet']} / {s['contexte']}")
+        if is_combo_used(matrix, s["category_key"], s["sujet"], s["contexte"]):
+            print(f"  Combinaison deja utilisee: {s['sujet']} / {s['contexte']}")
+            all_valid = False
         else:
-            print(f"  Suggestion rejetée: {msg}")
+            print(f"  Suggestion validee [{s['category_key']}]: {s['sujet']} / {s['contexte']} / {s['angle']}")
 
-    return valid_suggestions if len(valid_suggestions) == 3 else None
+    if not all_valid:
+        print("  Certaines suggestions sont des doublons, retry necessaire")
+        return None
+
+    # Vérifier qu'on a bien 1 par catégorie
+    cats = [s["category_key"] for s in suggestions]
+    if sorted(cats) != ["cat1_pensees", "cat2_emotions", "cat3_schemas"]:
+        print(f"  Les categories ne sont pas correctes: {cats}")
+        return None
+
+    return suggestions
+
 
 # ============================================
 # GÉNÉRATION ALÉATOIRE (FALLBACK)
 # ============================================
 
-def generate_combination(category_key, tracking_data):
-    """Génère une combinaison unique sujet + contexte + angle (fallback si Gemini échoue)."""
+def generate_random_combination(category_key, matrix):
+    """Génère une combinaison unique aléatoire (fallback si Gemini échoue)."""
     category = CATEGORIES[category_key]
-    max_attempts = 100
+    max_attempts = 200
 
     for _ in range(max_attempts):
         sujet = random.choice(category["sujets"])
         contexte = random.choice(CONTEXTES)
         angle = random.choice(ANGLES)
 
-        combo_id = f"{category_key}|{sujet}|{contexte}|{angle}"
-
-        if combo_id not in tracking_data["generated"]:
+        if not is_combo_used(matrix, category_key, sujet, contexte):
             profil = random.choice(PROFILS) if random.random() < 0.33 else None
             return {
                 "category_key": category_key,
+                "category_name": category["name"],
+                "category_slug": category["slug"],
                 "sujet": sujet,
                 "contexte": contexte,
                 "angle": angle,
@@ -356,6 +399,7 @@ def generate_combination(category_key, tracking_data):
             }
 
     raise Exception(f"Impossible de trouver une combinaison unique pour {category_key}")
+
 
 # ============================================
 # GPT : RÉDACTION DES ARTICLES
@@ -439,6 +483,7 @@ CONSIGNES SPÉCIFIQUES :
 
 MOT-CLÉ SEO À OPTIMISER : {combo['sujet']} {combo['contexte']}"""
 
+
 # ============================================
 # PARSING ET CRÉATION HUGO
 # ============================================
@@ -506,30 +551,10 @@ draft: false
     print(f"  Article cree : {file_path}")
     return file_path
 
+
 # ============================================
 # MAIN
 # ============================================
-
-def load_tracking():
-    """Charge le fichier de tracking des articles déjà générés."""
-    if TRACKING_FILE.exists():
-        try:
-            with open(TRACKING_FILE, "r", encoding="utf-8") as f:
-                data = json.load(f)
-                if "generated" not in data:
-                    return {"generated": []}
-                return data
-        except (json.JSONDecodeError, IOError) as e:
-            print(f"  Attention: fichier de tracking corrompu, reinitialisation ({e})")
-            return {"generated": []}
-    return {"generated": []}
-
-
-def save_tracking(data):
-    """Sauvegarde le fichier de tracking."""
-    with open(TRACKING_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-
 
 def main():
     print(f"\n{'='*60}")
@@ -539,23 +564,29 @@ def main():
     if not MAMMOUTH_API_KEY:
         raise ValueError("MAMMOUTH_API_KEY non definie !")
 
-    tracking = load_tracking()
     category_keys = ["cat1_pensees", "cat2_emotions", "cat3_schemas"]
 
-    # ── ÉTAPE 1 : Scanner les articles existants ──
-    print("ETAPE 1 : Scan des articles existants...")
-    existing_articles = scan_existing_articles()
-    articles_summary = build_articles_summary(existing_articles)
-    print(f"  {len(existing_articles)} articles trouves sur le site\n")
+    # ── ÉTAPE 1 : Charger la matrice des combinaisons ──
+    print("ETAPE 1 : Chargement de la matrice des combinaisons...")
+    matrix = load_matrix()
+
+    # Migrer les anciennes données si nécessaire
+    migrate_tracking_to_matrix(matrix)
+
+    print(f"  {len(matrix['articles'])} combinaisons dans la matrice\n")
 
     # ── ÉTAPE 2 : Demander à Gemini des suggestions intelligentes ──
     print("ETAPE 2 : Analyse par Gemini et suggestion de sujets...")
     suggestions = None
-    for attempt in range(2):
-        suggestions = get_gemini_suggestions(articles_summary, tracking)
-        if suggestions:
-            break
-        print(f"  Nouvelle tentative Gemini ({attempt + 2}/2)...")
+    for attempt in range(3):
+        try:
+            suggestions = get_gemini_suggestions(matrix)
+            if suggestions:
+                break
+        except Exception as e:
+            print(f"  Erreur Gemini tentative {attempt + 1}: {e}")
+        if attempt < 2:
+            print(f"  Nouvelle tentative Gemini ({attempt + 2}/3)...")
 
     # Fallback : si Gemini échoue, utiliser la méthode aléatoire
     use_gemini = suggestions is not None
@@ -567,7 +598,7 @@ def main():
     system_prompt = build_system_prompt()
 
     for i, cat_key in enumerate(category_keys):
-        print(f"\n  Categorie : {CATEGORIES[cat_key]['name']}")
+        print(f"\n  --- Categorie : {CATEGORIES[cat_key]['name']} ---")
 
         # Construire la combinaison (Gemini ou aléatoire)
         if use_gemini:
@@ -583,22 +614,13 @@ def main():
                 "prenom": random.choice(PRENOMS),
                 "age": random.choice(TRANCHES_AGE),
             }
-            combo_id = f"{cat_key}|{combo['sujet']}|{combo['contexte']}|{combo['angle']}"
-            tracking["generated"].append(combo_id)
             print(f"  [Gemini] Sujet : {combo['sujet']}")
             print(f"  [Gemini] Contexte : {combo['contexte']}")
             print(f"  [Gemini] Angle : {combo['angle']}")
             if s.get("justification"):
-                print(f"  [Gemini] Justification : {s['justification']}")
+                print(f"  [Gemini] Raison : {s['justification']}")
         else:
-            combo = generate_combination(cat_key, tracking)
-            combo["category_name"] = CATEGORIES[cat_key]["name"]
-            combo["category_slug"] = CATEGORIES[cat_key]["slug"]
-            tracking["generated"].append(
-                f"{cat_key}|{combo['sujet']}|{combo['contexte']}|{combo['angle']}"
-            )
-            combo["prenom"] = random.choice(PRENOMS)
-            combo["age"] = random.choice(TRANCHES_AGE)
+            combo = generate_random_combination(cat_key, matrix)
             print(f"  [Aleatoire] Sujet : {combo['sujet']}")
             print(f"  [Aleatoire] Contexte : {combo['contexte']}")
             print(f"  [Aleatoire] Angle : {combo['angle']}")
@@ -623,10 +645,13 @@ def main():
         print(f"  Creation du fichier Hugo...")
         create_hugo_post(combo, metadata, content)
 
-    # Sauvegarder le tracking
-    save_tracking(tracking)
+        # Ajouter à la matrice
+        add_to_matrix(matrix, combo, metadata)
+
+    # Sauvegarder la matrice
+    save_matrix(matrix)
     print(f"\n{'='*60}")
-    print(f"Generation terminee - {len(tracking['generated'])} combinaisons tracees")
+    print(f"Generation terminee - {len(matrix['articles'])} combinaisons dans la matrice")
     print(f"{'='*60}\n")
 
 
