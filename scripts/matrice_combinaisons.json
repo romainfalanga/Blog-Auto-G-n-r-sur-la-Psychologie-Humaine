@@ -119,6 +119,108 @@
         "pensées",
         "communication"
       ]
+    },
+    {
+      "date": "migré",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de projection",
+      "contexte": "en colocation",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": null,
+      "prenom": "",
+      "age": "",
+      "title": "",
+      "slug": "",
+      "tags": []
+    },
+    {
+      "date": "migré",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "indifférence",
+      "contexte": "en période de reconversion professionnelle",
+      "angle": "3 techniques/exercices pratiques",
+      "profil": null,
+      "prenom": "",
+      "age": "",
+      "title": "",
+      "slug": "",
+      "tags": []
+    },
+    {
+      "date": "migré",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "le syndrome de l'imposteur",
+      "contexte": "en société et dans les interactions sociales",
+      "angle": "3 techniques/exercices pratiques",
+      "profil": null,
+      "prenom": "",
+      "age": "",
+      "title": "",
+      "slug": "",
+      "tags": []
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet Dunning-Kruger",
+      "contexte": "à l'école ou aux études",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "haut potentiel intellectuel (HPI)",
+      "prenom": "Virginie",
+      "age": "adulte en pleine vie active (36-45 ans)",
+      "title": "Comprendre l’effet Dunning-Kruger à l’école ou aux études",
+      "slug": "effet-dunning-kruger-ecole-etudes",
+      "tags": [
+        "effet Dunning-Kruger",
+        "apprentissage",
+        "études",
+        "haut potentiel intellectuel",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "culpabilité",
+      "contexte": "en situation de conflit",
+      "angle": "comment s'en libérer concrètement",
+      "profil": "people pleaser (celui/celle qui veut plaire à tout le monde)",
+      "prenom": "Monique",
+      "age": "senior en quête de sens (56-70 ans)",
+      "title": "Se libérer de la culpabilité en situation de conflit : l’histoire de Monique",
+      "slug": "culpabilite-situation-conflit-monique",
+      "tags": [
+        "culpabilité",
+        "conflit",
+        "émotions",
+        "people pleaser",
+        "gestion émotionnelle"
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "les jeux psychologiques (triangle de Karpman : persécuteur, victime, sauveur)",
+      "contexte": "en amitié",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": null,
+      "prenom": "Moussa",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Comprendre les jeux psychologiques en amitié : le triangle de Karpman",
+      "slug": "jeux-psychologiques-triangle-karpman-amitie",
+      "tags": [
+        "psychologie",
+        "amitié",
+        "triangle de Karpman",
+        "jeux psychologiques",
+        "développement personnel"
+      ]
     }
   ]
 }
