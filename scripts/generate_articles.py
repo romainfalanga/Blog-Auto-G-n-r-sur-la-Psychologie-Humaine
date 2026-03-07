@@ -5,6 +5,7 @@ en appelant l'API Mammouth et en créant des fichiers Markdown Hugo.
 """
 
 import os
+import sys
 import json
 import random
 import requests
@@ -16,17 +17,20 @@ from pathlib import Path
 # CONFIGURATION
 # ============================================
 
-MAMMOUTH_API_KEY = os.environ.get("MAMMOUTH_API_KEY")
-API_URL = "https://api.mammouth.ai/v1/chat/completions"
-MODEL = "gpt-4.1-mini"
-SITE_NAME = "Décode ton esprit"
-BASE_URL = "https://decodetonsesprit.netlify.app"
-
 # Résoudre les chemins par rapport à la racine du repo (pas le répertoire courant)
 SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_ROOT = SCRIPT_DIR.parent
 CONTENT_DIR = REPO_ROOT / "content" / "posts"
 TRACKING_FILE = SCRIPT_DIR / "generated_topics.json"
+
+# Ajouter le dossier scripts/ au path Python pour l'import de config.py
+sys.path.insert(0, str(SCRIPT_DIR))
+
+MAMMOUTH_API_KEY = os.environ.get("MAMMOUTH_API_KEY")
+API_URL = "https://api.mammouth.ai/v1/chat/completions"
+MODEL = "gpt-4.1-mini"
+SITE_NAME = "Décode ton esprit"
+BASE_URL = "https://decodetonsesprit.netlify.app"
 
 # Import des listes depuis config.py
 from config import (
