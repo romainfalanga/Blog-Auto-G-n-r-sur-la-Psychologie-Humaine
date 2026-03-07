@@ -35,7 +35,7 @@ sys.path.insert(0, str(SCRIPT_DIR))
 MAMMOUTH_API_KEY = os.environ.get("MAMMOUTH_API_KEY")
 API_URL = "https://api.mammouth.ai/v1/chat/completions"
 MODEL_WRITER = "gpt-4.1-mini"
-MODEL_ANALYST = "gemini-2.5-flash-preview-05-20"
+MODEL_ANALYST = "gemini-3-flash-preview"
 SITE_NAME = "Décode ton esprit"
 
 from config import (
@@ -396,6 +396,8 @@ def generate_random_combination(category_key, matrix):
                 "contexte": contexte,
                 "angle": angle,
                 "profil": profil,
+                "prenom": random.choice(PRENOMS),
+                "age": random.choice(TRANCHES_AGE),
             }
 
     raise Exception(f"Impossible de trouver une combinaison unique pour {category_key}")
