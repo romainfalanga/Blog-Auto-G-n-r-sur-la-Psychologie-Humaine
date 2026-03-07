@@ -7,4 +7,4 @@ Vous choisissez toujours le même type de partenaire. Vous sabotez vos réussite
 
 Dans cette rubrique, vous plongerez dans les **schémas inconscients** qui guident vos choix, les **styles d'attachement** qui façonnent vos relations, et les **mécanismes de défense** qui vous protègent autant qu'ils vous emprisonnent.
 
-Chaque article raconte l'histoire de quelqu'un qui tourne en boucle — et qui trouve comment en sortir.
+Chaque article raconte l'histoire de quelqu'un qui tourne en boucle, et qui trouve comment en sortir.
