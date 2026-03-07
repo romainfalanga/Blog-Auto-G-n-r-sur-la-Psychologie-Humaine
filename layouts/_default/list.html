@@ -17,7 +17,7 @@
         <span>&middot;</span>
         <span>{{ if .Params.readingTime }}{{ .Params.readingTime }}{{ else }}{{ math.Round (div (float .WordCount) 250.0) }}{{ end }} min de lecture</span>
       </div>
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
       <p class="list-excerpt">{{ .Summary | truncate 160 }}</p>
     </li>
     {{ end }}

@@ -6,13 +6,13 @@
     {{ range .Site.Sections }}
       {{ range .Sections }}
         {{ if eq .Title $cat }}
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
           <span class="separator">&gt;</span>
         {{ end }}
       {{ end }}
     {{ end }}
   {{ else if .Parent }}
-    <a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a>
+    <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a>
     <span class="separator">&gt;</span>
   {{ end }}
   <span>{{ .Title }}</span>

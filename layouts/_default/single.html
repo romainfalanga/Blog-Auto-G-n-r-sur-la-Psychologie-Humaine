@@ -4,7 +4,7 @@
 
   {{ if .Params.categories }}
   <span class="category-badge">
-    <a href="{{ .Parent.Permalink }}">{{ index .Params.categories 0 }}</a>
+    <a href="{{ .Parent.RelPermalink }}">{{ index .Params.categories 0 }}</a>
   </span>
   {{ end }}
 
