@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="list-page">
-  <div class="category-header">
+  <div class="category-header reveal">
     <h1>{{ .Title }}</h1>
     {{ if .Content }}
     <div class="category-description">
@@ -11,7 +11,7 @@
 
   <div class="articles-grid">
     {{ range .Paginator.Pages }}
-    <article class="article-card">
+    <article class="article-card reveal-card">
       <div class="card-category-line">
         <span class="card-category-dot"></span>
         <span class="card-category-label">{{ if .Params.categories }}{{ index .Params.categories 0 }}{{ end }}</span>

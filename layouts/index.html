@@ -8,18 +8,28 @@
   {{ range .Site.Sections }}
     {{ if eq .Section "posts" }}
       {{ range .Sections }}
-      <section class="category-section">
+      <section class="category-section reveal">
         <h2 class="category-section-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         <div class="articles-grid">
           {{ range first 3 .Pages }}
-          <div class="article-card">
-            <div class="card-meta">
-              <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
-              {{ if .Params.readingTime }} &middot; {{ .Params.readingTime }} min{{ end }}
+          <article class="article-card reveal-card">
+            <div class="card-category-line">
+              <span class="card-category-dot"></span>
+              <span class="card-category-label">{{ $.Title | default .Section }}</span>
             </div>
-            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <h3 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
             <p class="card-excerpt">{{ .Summary | truncate 160 }}</p>
-          </div>
+            <div class="card-footer">
+              <div class="card-meta">
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+                {{ if .Params.readingTime }}
+                <span class="meta-sep">&middot;</span>
+                <span>{{ .Params.readingTime }} min</span>
+                {{ end }}
+              </div>
+              <a href="{{ .RelPermalink }}" class="card-read-more">Lire &rarr;</a>
+            </div>
+          </article>
           {{ end }}
         </div>
         <a href="{{ .RelPermalink }}" class="view-all">Voir tous les articles &rarr;</a>
