@@ -401,6 +401,66 @@
         "relation toxique",
         "psychologie"
       ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de négativité",
+      "contexte": "face à une décision importante",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "anxieux(se)",
+      "prenom": "Julien",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Comprendre le biais de négativité face à une décision importante",
+      "slug": "biais-negativite-decision-importante",
+      "tags": [
+        "biais de négativité",
+        "prise de décision",
+        "anxiété",
+        "psychologie",
+        "gestion émotionnelle"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "frustration",
+      "contexte": "au travail",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "perfectionniste",
+      "prenom": "Stéphane",
+      "age": "adulte en pleine vie active (36-45 ans)",
+      "title": "Frustration au travail : comprendre différence entre colère et déception",
+      "slug": "frustration-au-travail-colere-deception",
+      "tags": [
+        "frustration",
+        "travail",
+        "émotions",
+        "perfectionnisme",
+        "gestion émotionnelle"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "attachement anxieux-préoccupé (hyperactivation du système)",
+      "contexte": "en couple",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "dépendant(e) affectif(ve)",
+      "prenom": "Kévin",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Comprendre l'attachement anxieux-préoccupé en couple : le cas de Kévin",
+      "slug": "attachement-anxieux-preoccupe-couple",
+      "tags": [
+        "attachement anxieux",
+        "dépendance affective",
+        "couple",
+        "psychologie",
+        "schémas répétitifs"
+      ]
     }
   ]
 }
