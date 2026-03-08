@@ -734,10 +734,14 @@ hr {
   margin: 0 auto;
   padding: 0 var(--spacing-md);
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: flex-start;
   flex-wrap: wrap;
   gap: var(--spacing-md);
+}
+
+.footer-section {
+  text-align: center;
 }
 
 .footer-section h4 {
