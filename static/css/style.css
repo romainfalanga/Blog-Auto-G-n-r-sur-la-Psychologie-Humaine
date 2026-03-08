@@ -803,20 +803,30 @@ main {
    VIEW ALL LINK
    ======================================== */
 .view-all {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.3rem;
+  display: block;
   margin-top: var(--spacing-md);
-  font-weight: 600;
-  color: var(--color-accent);
+  padding: 0.65rem 2rem;
   font-size: 0.95rem;
-  transition: color 0.2s, gap 0.3s;
+  font-weight: 600;
+  color: var(--color-accent) !important;
+  text-decoration: none !important;
+  text-align: center;
+  border: 1.5px solid var(--color-accent);
+  border-radius: 24px;
+  background: transparent;
+  letter-spacing: 0.02em;
+  transition: background 0.25s ease, color 0.25s ease, box-shadow 0.25s ease, transform 0.2s ease;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .view-all:hover {
-  color: var(--color-accent-hover);
-  gap: 0.6rem;
+  background: var(--color-accent);
+  color: #fff !important;
   text-decoration: none;
+  box-shadow: 0 4px 16px rgba(74, 158, 142, 0.25);
+  transform: translateY(-2px);
 }
 
 /* ========================================
