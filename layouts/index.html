@@ -14,7 +14,6 @@
           {{ range first 3 .Pages }}
           <article class="article-card reveal-card">
             <h3 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-            <p class="card-excerpt">{{ .Summary | truncate 300 }}</p>
             <div class="card-footer">
               <div class="card-meta">
                 <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
