@@ -17,7 +17,7 @@ L’après-midi était presque terminé quand Moussa, 29 ans, s’installa à la
 
 Clara arriva, souriante mais avec cette pointe d’énervement qu’il connaissait bien. Sans même un bonjour posé, la conversation dévia rapidement vers un sujet sensible : Moussa avait raté leur dernier rendez-vous, et elle le lui reprochait, en le rendant presque responsable de ses propres frustrations. Au fond, Moussa sentait qu’il retombait dans une dynamique qu’il ne maîtrisait pas, comme s’il était coincé dans un scénario écrit d’avance. Il avait envie de dire stop, de sortir de ce cercle infernal, mais ne savait pas comment.
 
-Ce moment précis — cette tension palpable, le poids des reproches, et le désir mal exprimé d’aide — illustre parfaitement ce qu’on appelle les jeux psychologiques, notamment à travers le fameux triangle de Karpman. Moussa était en plein dedans sans le savoir.
+Ce moment précis illustre parfaitement ce qu’on appelle les jeux psychologiques, notamment à travers le fameux triangle de Karpman. Cette tension palpable, le poids des reproches, et le désir mal exprimé d’aide, tout cela faisait partie d’un schéma que Moussa ne comprenait pas encore. Moussa était en plein dedans sans le savoir.
 
 ## Qu'est-ce que les jeux psychologiques (triangle de Karpman : persécuteur, victime, sauveur) ?
 
