@@ -21,6 +21,20 @@
       });
     }, {threshold: 0.08, rootMargin: '0px 0px -40px 0px'});
     document.querySelectorAll('.reveal, .reveal-card').forEach(function(el){ io.observe(el); });
+
+    // Dynamic line-clamp: fill excerpt area completely
+    function adjustExcerpts(){
+      document.querySelectorAll('.article-card .card-excerpt').forEach(function(el){
+        el.style.webkitLineClamp = 'unset';
+        var lh = parseFloat(getComputedStyle(el).lineHeight);
+        var h = el.clientHeight;
+        if(lh > 0 && h > 0){
+          el.style.webkitLineClamp = Math.floor(h / lh);
+        }
+      });
+    }
+    adjustExcerpts();
+    window.addEventListener('resize', adjustExcerpts);
   })();
   </script>
 </body>

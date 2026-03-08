@@ -414,7 +414,7 @@ hr {
 .article-card h3 {
   font-size: 1.1rem;
   line-height: 1.4;
-  margin: 0 0 0.75rem 0;
+  margin: 0 0 0.4rem 0;
   font-family: var(--font-serif);
 }
 
@@ -438,17 +438,9 @@ hr {
   line-height: 1.65;
   margin: 0;
   flex-grow: 1;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
   overflow: hidden;
-  position: relative;
-}
-
-.article-card .card-excerpt::after {
-  content: "...";
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  padding-left: 2rem;
-  background: linear-gradient(to right, transparent, var(--color-card-bg) 40%);
 }
 
 /* Card footer — pushed to bottom by flex-grow on excerpt */
