@@ -20,7 +20,7 @@
           <span class="meta-sep">&middot;</span>
           <span>{{ if .Params.readingTime }}{{ .Params.readingTime }}{{ else }}{{ math.Round (div (float .WordCount) 250.0) }}{{ end }} min de lecture</span>
         </div>
-        <a href="{{ .RelPermalink }}" class="card-read-more">Lire l'article &rarr;</a>
+        <a href="{{ .RelPermalink }}" class="card-read-more">Lire</a>
       </div>
     </article>
     {{ end }}
