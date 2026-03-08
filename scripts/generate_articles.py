@@ -8,7 +8,9 @@ Flux :
 1. Charger la matrice des combinaisons déjà réalisées (scripts/matrice_combinaisons.json)
 2. Gemini analyse la matrice et suggère 3 nouvelles combinaisons uniques
 3. GPT-4.1-mini rédige les articles sur les suggestions de Gemini
-4. La matrice est mise à jour avec les nouvelles combinaisons
+4. Gemini vérifie chaque article : si des tirets cadratins (—) sont détectés,
+   Gemini reformule les passages concernés pour les supprimer
+5. La matrice est mise à jour avec les nouvelles combinaisons
 """
 
 import os
@@ -488,6 +490,74 @@ MOT-CLÉ SEO À OPTIMISER : {combo['sujet']} {combo['contexte']}"""
 
 
 # ============================================
+# GEMINI : VÉRIFICATION DES TIRETS CADRATINS
+# ============================================
+
+EMDASH = "\u2014"  # —
+
+
+def call_gemini_emdash_fix(content):
+    """Appelle Gemini pour reformuler les passages contenant des tirets cadratins."""
+    system_prompt = (
+        "Tu es un correcteur linguistique français expert. "
+        "On te donne un article de blog en Markdown. "
+        "Ton UNIQUE tâche : repérer tous les tirets cadratins (\u2014) présents dans le texte "
+        "et reformuler ces passages pour les remplacer par une ponctuation française standard "
+        "(virgules, parenthèses, deux-points, points). "
+        "Tu dois retourner l'article COMPLET avec les corrections appliquées, "
+        "sans rien supprimer ni modifier d'autre. "
+        "Conserve tout le formatage Markdown intact (titres, listes, gras, italique, etc.). "
+        "Ne rajoute AUCUN commentaire, AUCUNE explication. Retourne UNIQUEMENT l'article corrigé."
+    )
+
+    user_prompt = (
+        "Voici l'article à corriger. Remplace chaque tiret cadratin (\u2014) par une reformulation "
+        "naturelle avec une ponctuation standard (virgule, parenthèse, deux-points, point). "
+        "Retourne l'article complet corrigé, rien d'autre :\n\n"
+        f"{content}"
+    )
+
+    return call_mammouth_api(
+        model=MODEL_ANALYST,
+        system_prompt=system_prompt,
+        user_prompt=user_prompt,
+        temperature=0.3,
+        max_tokens=4500,
+        retries=2
+    )
+
+
+def verify_and_fix_emdashes(content, combo):
+    """Vérifie et corrige les tirets cadratins dans un article généré."""
+    emdash_count = content.count(EMDASH)
+
+    if emdash_count == 0:
+        print(f"  [Vérification] OK : aucun tiret cadratin détecté")
+        return content
+
+    print(f"  [Vérification] {emdash_count} tiret(s) cadratin(s) détecté(s), appel Gemini pour correction...")
+
+    try:
+        fixed_content = call_gemini_emdash_fix(content)
+
+        if fixed_content:
+            remaining = fixed_content.count(EMDASH)
+            if remaining == 0:
+                print(f"  [Vérification] Gemini a corrigé tous les tirets cadratins avec succès")
+                return fixed_content
+            else:
+                print(f"  [Vérification] Gemini a laissé {remaining} tiret(s), fallback mécanique...")
+                return fixed_content.replace(EMDASH, ",")
+        else:
+            print(f"  [Vérification] Gemini n'a pas répondu, fallback mécanique...")
+            return content.replace(EMDASH, ",")
+
+    except Exception as e:
+        print(f"  [Vérification] Erreur Gemini: {e}, fallback mécanique...")
+        return content.replace(EMDASH, ",")
+
+
+# ============================================
 # PARSING ET CRÉATION HUGO
 # ============================================
 
@@ -644,6 +714,9 @@ def main():
 
         print(f"  Parsing de la reponse...")
         metadata, content = parse_article_response(raw_response)
+
+        # Étape 3.5 : Vérification et correction des tirets cadratins (—)
+        content = verify_and_fix_emdashes(content, combo)
 
         print(f"  Creation du fichier Hugo...")
         create_hugo_post(combo, metadata, content)
