@@ -834,6 +834,10 @@ main {
    ======================================== */
 /* Mobile: ensure single-article has proper side margins */
 @media (max-width: 768px) {
+  .hero {
+    padding-top: 0.75rem;
+  }
+
   .single-article {
     padding: 0 1.25rem;
   }
@@ -853,6 +857,7 @@ main {
 }
 
 @media (max-width: 480px) {
+  .hero { padding-top: 0.5rem; }
   .hero h1 { font-size: 1.8rem; }
   .hero .tagline { font-size: 1rem; }
   .category-header h1 { font-size: 1.8rem; }
