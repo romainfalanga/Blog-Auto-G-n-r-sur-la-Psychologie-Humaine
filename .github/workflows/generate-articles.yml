@@ -2,7 +2,8 @@ name: Génération quotidienne d'articles
 
 on:
   schedule:
-    - cron: '0 12 * * *'
+    # 10h UTC = 12h heure française (été/CEST). En hiver (CET) : 11h.
+    - cron: '0 10 * * *'
   workflow_dispatch:
 
 permissions:
