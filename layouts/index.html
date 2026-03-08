@@ -7,7 +7,7 @@
 <div class="container-wide">
   {{ range .Site.Sections }}
     {{ if eq .Section "posts" }}
-      {{ range .Sections }}
+      {{ range .Sections.ByWeight }}
       <section class="category-section reveal">
         <h2 class="category-section-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         <div class="articles-grid">
@@ -28,7 +28,7 @@
           </article>
           {{ end }}
         </div>
-        <a href="{{ .RelPermalink }}" class="view-all">Voir tous les articles de cette catégorie</a>
+        <a href="{{ .RelPermalink }}" class="view-all">Voir tous les articles de la catégorie &laquo;&#8239;{{ .Title }}&#8239;&raquo;</a>
       </section>
       {{ end }}
     {{ end }}

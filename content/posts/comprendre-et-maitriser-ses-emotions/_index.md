@@ -1,6 +1,7 @@
 ---
 title: "Comprendre et maîtriser ses émotions"
 description: "Apprenez à identifier, comprendre et réguler vos émotions grâce à la psychologie. Colère, anxiété, tristesse, honte, jalousie : découvrez ce que vos émotions essaient de vous dire."
+weight: 2
 ---
 
 Vos émotions ne sont pas votre ennemi. Elles sont des messagères, parfois maladroites, souvent incomprises, mais toujours utiles.

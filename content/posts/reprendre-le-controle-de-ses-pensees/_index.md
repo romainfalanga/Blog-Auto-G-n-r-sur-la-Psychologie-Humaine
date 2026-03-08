@@ -1,6 +1,7 @@
 ---
 title: "Reprendre le contrôle de ses pensées"
 description: "Découvrez comment votre cerveau vous piège au quotidien et apprenez à reprendre le contrôle de vos pensées. Biais cognitifs, distorsions cognitives, rumination : comprenez vos mécanismes mentaux."
+weight: 1
 ---
 
 Votre cerveau produit environ 60 000 pensées par jour. La plupart sont automatiques, beaucoup sont négatives, et presque aucune n'est objective.
