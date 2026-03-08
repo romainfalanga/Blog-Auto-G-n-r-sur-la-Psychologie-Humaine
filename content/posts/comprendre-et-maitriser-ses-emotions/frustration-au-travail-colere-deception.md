@@ -25,7 +25,7 @@ Dans le cas de Stéphane, sa frustration naît du décalage entre son idéal de 
 
 ### Colère et déception : quelle différence dans la frustration au travail ?
 
-Souvent, on confond frustration avec **colère** — une émotion explosive qui pousse à réagir vivement — ou **déception** — un sentiment plus doux-amer lié à un espoir brisé. Pourtant, ces émotions sont distinctes :
+Souvent, on confond frustration avec **colère** (une émotion explosive qui pousse à réagir vivement) ou **déception** (un sentiment plus doux-amer lié à un espoir brisé). Pourtant, ces émotions sont distinctes :
 
 - La **colère** est une réaction émotionnelle intense, souvent dirigée contre une personne ou une situation perçue comme responsable de la contrariété. Par exemple, Stéphane aurait pu exploser contre son manager, le blâmer pour ces demandes répétées.
 - La **déception** est un sentiment plus calme, une tristesse liée à l’échec d’une attente, sans forcément d’agressivité. Stéphane peut aussi ressentir de la déception en réalisant que son travail ne sera jamais parfait selon ses critères.
@@ -58,7 +58,7 @@ Apprendre à gérer la frustration, c’est d’abord accepter qu’on ne peut p
 
 ### Le chemin de Stéphane vers une meilleure gestion de la frustration
 
-Après plusieurs semaines à appliquer ces techniques, Stéphane a commencé à ressentir un changement. Les retours de son manager n’étaient plus vus comme des échecs personnels, mais comme des étapes normales du travail d’équipe. Il a appris à distinguer quand il était en colère — une émotion passagère qu’il pouvait canaliser — et quand il était déçu, ce qui l’a encouragé à ajuster ses attentes.
+Après plusieurs semaines à appliquer ces techniques, Stéphane a commencé à ressentir un changement. Les retours de son manager n’étaient plus vus comme des échecs personnels, mais comme des étapes normales du travail d’équipe. Il a appris à distinguer quand il était en colère (une émotion passagère qu’il pouvait canaliser) et quand il était déçu, ce qui l’a encouragé à ajuster ses attentes.
 
 Il a aussi pris conscience que son perfectionnisme extrême était un levier puissant mais qu’il pouvait être tempéré pour éviter de s’épuiser. Cette nouvelle compréhension lui a offert plus de sérénité, et une motivation renouvelée pour continuer à progresser sans se sentir prisonnier de ses émotions.
 
