@@ -581,6 +581,66 @@
         "psychologie",
         "développement-personnel"
       ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de disponibilité",
+      "contexte": "face à une décision importante",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": "anxieux(se)",
+      "prenom": "Mehdi",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Comprendre le biais de disponibilité face à une décision importante",
+      "slug": "biais-disponibilite-decision-importante",
+      "tags": [
+        "biais de disponibilité",
+        "prise de décision",
+        "anxiété",
+        "psychologie",
+        "gestion pensée"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "impuissance",
+      "contexte": "face à la maladie",
+      "angle": "comment aider quelqu'un qui vit ça",
+      "profil": "empathe",
+      "prenom": "Kévin",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Impuissance face à la maladie : comment aider un proche en souffrance",
+      "slug": "impotence-face-maladie-aider-proche",
+      "tags": [
+        "impuissance",
+        "maladie",
+        "empathie",
+        "soutien émotionnel",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "exigences élevées/critique excessive",
+      "contexte": "avec ses enfants",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "perfectionniste",
+      "prenom": "Lucas",
+      "age": "senior en quête de sens (56-70 ans)",
+      "title": "Exigences élevées et critique excessive avec ses enfants : comment changer",
+      "slug": "exigences-elevees-critique-enfants",
+      "tags": [
+        "perfectionnisme",
+        "éducation",
+        "parentalité",
+        "schémas répétitifs",
+        "psychologie"
+      ]
     }
   ]
 }
