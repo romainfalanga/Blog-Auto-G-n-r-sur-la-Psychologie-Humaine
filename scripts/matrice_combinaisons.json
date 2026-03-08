@@ -521,6 +521,66 @@
         "psychologie",
         "gestion-argent"
       ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais d'attribution fondamentale",
+      "contexte": "face à l'autorité",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "ancien(ne) enfant parentifié(e)",
+      "prenom": "Juliette",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Comprendre le biais d'attribution fondamentale face à l'autorité",
+      "slug": "biais-attribution-fondamentale-autorite",
+      "tags": [
+        "biais d'attribution fondamentale",
+        "autorité",
+        "psychologie",
+        "pensées",
+        "enfant parentifié"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "trahison",
+      "contexte": "en amitié",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "empathe",
+      "prenom": "Kévin",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Trahison en amitié : comprendre la différence entre blessure et rancune",
+      "slug": "trahison-en-amitie-differences-clés",
+      "tags": [
+        "trahison",
+        "amitié",
+        "émotions",
+        "empathie",
+        "gestion-conflit"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "attachement évitant-dédaigneux (désactivation du système)",
+      "contexte": "dans l'intimité et la sexualité",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "évitant(e)",
+      "prenom": "Fatima",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Attachement évitant-dédaigneux dans l'intimité et la sexualité",
+      "slug": "attachement-evitant-dans-intimite",
+      "tags": [
+        "attachement-évitant",
+        "intimité",
+        "sexualité",
+        "psychologie",
+        "développement-personnel"
+      ]
     }
   ]
 }
