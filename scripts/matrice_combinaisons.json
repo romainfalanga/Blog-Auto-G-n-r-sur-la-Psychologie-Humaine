@@ -461,6 +461,66 @@
         "psychologie",
         "schémas répétitifs"
       ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de l'angle mort",
+      "contexte": "face à la solitude",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Djamila",
+      "age": "senior en quête de sens (56-70 ans)",
+      "title": "Comprendre le biais de l'angle mort face à la solitude",
+      "slug": "biais-angle-mort-solitude",
+      "tags": [
+        "biais de l'angle mort",
+        "solitude",
+        "psychologie",
+        "bien-être",
+        "reprise de contrôle"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "dette émotionnelle",
+      "contexte": "après un échec",
+      "angle": "comprendre ce que c'est (article explicatif)",
+      "profil": "évitant(e)",
+      "prenom": "Hugo",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Comprendre la dette émotionnelle après un échec : le cas d’Hugo",
+      "slug": "dette-emotionnelle-apres-echec",
+      "tags": [
+        "dette émotionnelle",
+        "gestion des émotions",
+        "échec",
+        "développement personnel",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "attachement sécure (caractéristiques, comment le développer)",
+      "contexte": "face à l'argent et aux finances",
+      "angle": "ce que dit la science (études et recherches)",
+      "profil": "dépendant(e) affectif(ve)",
+      "prenom": "Amina",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Attachement sécure face à l'argent : comprendre et progresser",
+      "slug": "attachement-secure-argent-finances",
+      "tags": [
+        "attachement-sécure",
+        "finances-personnelles",
+        "dépendance-affective",
+        "psychologie",
+        "gestion-argent"
+      ]
     }
   ]
 }
