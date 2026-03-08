@@ -13,10 +13,6 @@
   <div class="related-list">
     {{ range $related }}
     <a href="{{ .RelPermalink }}" class="related-item">
-      <span class="related-category">
-        <span class="card-category-dot"></span>
-        {{ if .Params.categories }}{{ index .Params.categories 0 }}{{ end }}
-      </span>
       <span class="related-title">{{ .Title }}</span>
       <span class="related-meta">
         <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>

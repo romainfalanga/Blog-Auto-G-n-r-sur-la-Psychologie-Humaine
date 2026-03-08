@@ -12,10 +12,6 @@
   <div class="articles-grid">
     {{ range .Paginator.Pages }}
     <article class="article-card reveal-card">
-      <div class="card-category-line">
-        <span class="card-category-dot"></span>
-        <span class="card-category-label">{{ if .Params.categories }}{{ index .Params.categories 0 }}{{ end }}</span>
-      </div>
       <h2 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
       <p class="card-excerpt">{{ .Summary | truncate 180 }}</p>
       <div class="card-footer">

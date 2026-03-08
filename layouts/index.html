@@ -13,10 +13,6 @@
         <div class="articles-grid">
           {{ range first 3 .Pages }}
           <article class="article-card reveal-card">
-            <div class="card-category-line">
-              <span class="card-category-dot"></span>
-              <span class="card-category-label">{{ $.Title | default .Section }}</span>
-            </div>
             <h3 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
             <p class="card-excerpt">{{ .Summary | truncate 160 }}</p>
             <div class="card-footer">
