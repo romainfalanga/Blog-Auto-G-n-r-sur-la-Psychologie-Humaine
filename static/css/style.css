@@ -288,7 +288,7 @@ hr {
    ======================================== */
 .hero {
   text-align: center;
-  padding: var(--spacing-xl) var(--spacing-md) var(--spacing-lg);
+  padding: var(--spacing-md) var(--spacing-md) var(--spacing-lg);
   max-width: var(--max-width);
   margin: 0 auto;
   animation: fadeIn 0.8s ease;
@@ -304,7 +304,7 @@ hr {
 .hero .tagline {
   font-size: 1.15rem;
   color: var(--color-text-light);
-  max-width: 600px;
+  max-width: 750px;
   margin: 0 auto;
   line-height: 1.7;
 }
