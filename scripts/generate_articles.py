@@ -421,6 +421,7 @@ MÉTHODE NARRATIVE OBLIGATOIRE :
 
 RÈGLES DE RÉDACTION :
 - Langue : français impeccable et fluide
+- N'utilise JAMAIS le tiret long (—) ni le tiret cadratin dans le texte. Utilise des virgules, des parenthèses ou reformule la phrase autrement. Ceci est une règle absolue.
 - Ton : accessible, empathique, bienveillant, non-jugeant, chaleureux
 - Vulgarise TOUJOURS les concepts complexes avec des mots simples et des métaphores du quotidien
 - Inclus des exemples concrets auxquels le lecteur s'identifie
