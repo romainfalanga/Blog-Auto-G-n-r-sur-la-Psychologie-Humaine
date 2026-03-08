@@ -39,4 +39,4 @@ jobs:
           git config user.name "Article Bot"
           git config user.email "bot@decode-ton-esprit.com"
           git add .
-          git diff --staged --quiet || (git commit -m "3 nouveaux articles - $(date +%Y-%m-%d)" && git push)
+          git diff --staged --quiet || (git commit -m "3 nouveaux articles - $(date +%Y-%m-%d)" && git pull --rebase && git push)
