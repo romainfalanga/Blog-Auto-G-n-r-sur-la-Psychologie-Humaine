@@ -437,20 +437,20 @@ hr {
   color: var(--color-text-light);
   line-height: 1.65;
   margin: 0;
-  flex-grow: 1;
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
 
-/* Card footer — pushed to bottom by flex-grow on excerpt */
+/* Card footer — pushed to bottom by margin-top auto */
 .card-footer {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 0.85rem;
-  margin-top: 1.25rem;
+  margin-top: auto;
+  padding-top: 1.25rem;
   padding-top: 0.85rem;
   border-top: 1px solid var(--color-border);
 }
