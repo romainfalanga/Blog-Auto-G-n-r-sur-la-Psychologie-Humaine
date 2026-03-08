@@ -15,7 +15,7 @@ draft: false
 
 Djamila, 62 ans, s’installe dans son fauteuil préféré avec une tasse de thé fumant. La lumière douce du matin caresse les murs de son salon. Pourtant, malgré ce décor apaisant, un sentiment d’isolement pèse lourd dans son cœur. Ses enfants sont loin, ses amis souvent occupés, et chaque jour se répète avec cette même absence de compagnie. Elle se surprend à penser que personne ne comprend vraiment ce qu’elle traverse, que sa solitude est unique, insurmontable.
 
-Ce matin-là, une notification sur son téléphone attira son attention : un message de son voisin, lui proposant un café. Djamila hésita longtemps avant de répondre, rattrapée par une voix intérieure qui lui murmurait : « Ils ne veulent pas vraiment de moi. » Ce doute lui semblait si évident, si vrai, qu’elle rejeta l’invitation. Plus tard, en regardant par la fenêtre, un pincement au cœur la saisit — pourquoi se sentait-elle ainsi, si isolée alors même que les autres semblaient présents ?
+Ce matin-là, une notification sur son téléphone attira son attention : un message de son voisin, lui proposant un café. Djamila hésita longtemps avant de répondre, rattrapée par une voix intérieure qui lui murmurait : « Ils ne veulent pas vraiment de moi. » Ce doute lui semblait si évident, si vrai, qu’elle rejeta l’invitation. Plus tard, en regardant par la fenêtre, un pincement au cœur la saisit : pourquoi se sentait-elle ainsi, si isolée alors même que les autres semblaient présents ?
 
 Sans le savoir, Djamila faisait face à ce qu’on appelle le biais de l’angle mort, un phénomène psychologique subtil qui l'empêchait de voir clairement certaines facettes de sa situation et de ses relations, surtout dans ce contexte de solitude.
 
