@@ -341,6 +341,66 @@
         "dépendance affective",
         "enfance"
       ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais du coût irrécupérable",
+      "contexte": "après une rupture amoureuse",
+      "angle": "pourquoi ça empire avec le temps si on ne fait rien",
+      "profil": "dépendant(e) affectif(ve)",
+      "prenom": "Bastien",
+      "age": "adulte en pleine vie active (36-45 ans)",
+      "title": "Biais du coût irrécupérable après une rupture amoureuse : comment s'en libérer",
+      "slug": "biais-cout-irrecoverable-rupture",
+      "tags": [
+        "biais du coût irrécupérable",
+        "rupture amoureuse",
+        "dépendance affective",
+        "psychologie",
+        "reprendre le contrôle"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "gratitude",
+      "contexte": "en tant que manager",
+      "angle": "comment aider quelqu'un qui vit ça",
+      "profil": "empathe",
+      "prenom": "Charlotte",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Cultiver la gratitude en tant que manager : le chemin de Charlotte",
+      "slug": "gratitude-en-tant-que-manager",
+      "tags": [
+        "gratitude",
+        "management",
+        "empathie",
+        "émotions",
+        "développement personnel"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "méfiance/abus",
+      "contexte": "sur les réseaux sociaux",
+      "angle": "les signes que vous êtes concerné(e)",
+      "profil": "survivant(e) de relation toxique",
+      "prenom": "Priya",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Méfiance/abus sur les réseaux sociaux : comment reconnaître les signes",
+      "slug": "mefiance-abus-reseaux-sociaux",
+      "tags": [
+        "méfiance",
+        "abus",
+        "réseaux sociaux",
+        "relation toxique",
+        "psychologie"
+      ]
     }
   ]
 }
