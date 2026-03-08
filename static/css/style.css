@@ -590,6 +590,65 @@ hr {
   margin-top: 0;
 }
 
+.related-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.related-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 1.15rem 0;
+  border-bottom: 1px solid var(--color-border);
+  text-decoration: none !important;
+  transition: background 0.2s, padding-left 0.3s;
+  border-radius: var(--radius);
+}
+
+.related-item:first-child {
+  border-top: 1px solid var(--color-border);
+}
+
+.related-item:hover {
+  background: var(--color-accent-light);
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.related-category {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--color-accent);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+}
+
+.related-title {
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  line-height: 1.4;
+  color: var(--color-text);
+  font-weight: 700;
+  transition: color 0.2s;
+}
+
+.related-item:hover .related-title {
+  color: var(--color-accent);
+}
+
+.related-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.78rem;
+  color: var(--color-text-light);
+}
+
 /* ========================================
    LIST PAGE (Category)
    ======================================== */
@@ -760,12 +819,44 @@ main {
 /* ========================================
    RESPONSIVE FINE-TUNING
    ======================================== */
+/* Mobile: ensure single-article has proper side margins */
+@media (max-width: 768px) {
+  .single-article {
+    padding: 0 1.25rem;
+  }
+
+  .single-article h1 {
+    font-size: 1.7rem;
+    line-height: 1.25;
+  }
+
+  .related-item {
+    padding: 1rem 0;
+  }
+
+  .related-title {
+    font-size: 0.95rem;
+  }
+}
+
 @media (max-width: 480px) {
   .hero h1 { font-size: 1.8rem; }
   .hero .tagline { font-size: 1rem; }
   .category-header h1 { font-size: 1.8rem; }
   .article-card { padding: 1.25rem; }
   .card-footer { flex-direction: column; align-items: flex-start; gap: 0.6rem; }
+
+  .single-article {
+    padding: 0 1rem;
+  }
+
+  .single-article h1 {
+    font-size: 1.5rem;
+  }
+
+  .pro-reminder {
+    padding: 1rem;
+  }
 }
 
 /* ========================================

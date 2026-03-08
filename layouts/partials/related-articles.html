@@ -10,16 +10,20 @@
 {{ if $related }}
 <section class="related-articles">
   <h2>Articles dans la même catégorie</h2>
-  <div class="articles-grid">
+  <div class="related-list">
     {{ range $related }}
-    <div class="article-card">
-      <div class="card-meta">
+    <a href="{{ .RelPermalink }}" class="related-item">
+      <span class="related-category">
+        <span class="card-category-dot"></span>
+        {{ if .Params.categories }}{{ index .Params.categories 0 }}{{ end }}
+      </span>
+      <span class="related-title">{{ .Title }}</span>
+      <span class="related-meta">
         <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
-        {{ if .Params.readingTime }} &middot; {{ .Params.readingTime }} min{{ end }}
-      </div>
-      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-      <p class="card-excerpt">{{ .Summary | truncate 160 }}</p>
-    </div>
+        <span class="meta-sep">&middot;</span>
+        <span>{{ if .Params.readingTime }}{{ .Params.readingTime }}{{ else }}{{ math.Round (div (float .WordCount) 250.0) }}{{ end }} min</span>
+      </span>
+    </a>
     {{ end }}
   </div>
 </section>
