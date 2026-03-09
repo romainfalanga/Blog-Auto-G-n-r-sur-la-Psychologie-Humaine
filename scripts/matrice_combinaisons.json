@@ -701,6 +701,66 @@
         "schémas répétitifs",
         "psychologie du travail"
       ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de conformité",
+      "contexte": "en situation de compétition",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "people pleaser (celui/celle qui veut plaire à tout le monde)",
+      "prenom": "Mei",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Comprendre le biais de conformité en situation de compétition",
+      "slug": "biais-conformite-competition",
+      "tags": [
+        "biais de conformité",
+        "compétition",
+        "psychologie sociale",
+        "people pleaser",
+        "contrôle des pensées"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "vulnérabilité",
+      "contexte": "lors d'un entretien d'embauche",
+      "angle": "le témoignage (raconter l'histoire d'un personnage qui s'en sort)",
+      "profil": "introverti(e)",
+      "prenom": "Hiroshi",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Apprendre la vulnérabilité lors d'un entretien d'embauche : le témoignage d'Hiroshi",
+      "slug": "vulnerabilite-entretien-embauche-hiroshi",
+      "tags": [
+        "vulnérabilité",
+        "entretien d'embauche",
+        "introversion",
+        "gestion émotions",
+        "développement personnel"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "la parentification",
+      "contexte": "avec ses parents",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "ancien(ne) enfant parentifié(e)",
+      "prenom": "Sarah",
+      "age": "senior en quête de sens (56-70 ans)",
+      "title": "Comprendre la parentification avec ses parents pour mieux avancer",
+      "slug": "parentification-avec-ses-parents",
+      "tags": [
+        "parentification",
+        "enfance",
+        "relations-familiales",
+        "développement-personnel",
+        "schémas-répétitifs"
+      ]
     }
   ]
 }
