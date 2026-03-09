@@ -17,7 +17,7 @@ Mélanie est assise à la table de la cuisine. Autour d’elle, ses deux enfants
 
 Elle serre sa tasse de café, le contenu brûlant réchauffe ses mains tremblantes. Elle se sent coupable de penser cela, parce qu’après tout, la vie est censée être juste, non ? Elle a toujours cru que si elle faisait tout ce qu’il faut, le monde lui rendrait au centuple. Pourtant, chaque affront, chaque reconnaissance manquée, chaque blessure ignorée, semble contredire cette attente. Mélanie sent une colère sourde monter en elle, mêlée à un profond découragement.  
 
-À cet instant précis, Mélanie réalise que cette conviction – que la justice régnera forcément, que chacun recevra ce qu’il mérite – l’empêche de lâcher prise et d’apaiser ses blessures. Cette idée ancrée en elle l’enferme dans un cercle vicieux d’exigences et de rancunes.  
+À cet instant précis, Mélanie réalise que cette conviction profonde (la certitude que la justice régnera forcément, que chacun recevra ce qu’il mérite) l’empêche de lâcher prise et d’apaiser ses blessures. Cette idée ancrée en elle l’enferme dans un cercle vicieux d’exigences et de rancunes.  
 
 ### Qu’est-ce que le biais du monde juste ?  
 
