@@ -821,6 +821,66 @@
         "relation-toxique",
         "psychologie"
       ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "comparaison injuste",
+      "contexte": "face à l'argent et aux finances",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": null,
+      "prenom": "Philippe",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Comparaison injuste face à l'argent et aux finances : comment s'en libérer",
+      "slug": "comparaison-injuste-argent-finances",
+      "tags": [
+        "comparaison injuste",
+        "finances personnelles",
+        "psychologie",
+        "développement personnel",
+        "gestion financière"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "ennui",
+      "contexte": "en tant que manager",
+      "angle": "comprendre ce que c'est (article explicatif)",
+      "profil": null,
+      "prenom": "Arjun",
+      "age": "senior en quête de sens (56-70 ans)",
+      "title": "Ennui en tant que manager : comment le comprendre et le surmonter",
+      "slug": "ennui-en-tant-que-manager",
+      "tags": [
+        "ennui",
+        "management",
+        "émotions",
+        "bien-être au travail",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "la situation étrange de Mary Ainsworth",
+      "contexte": "en amitié",
+      "angle": "3 techniques/exercices pratiques",
+      "profil": null,
+      "prenom": "Élodie",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Comprendre la situation étrange de Mary Ainsworth en amitié",
+      "slug": "situation-etrange-ainsworth-amitie",
+      "tags": [
+        "psychologie",
+        "amitié",
+        "attachement",
+        "schémas répétitifs",
+        "développement personnel"
+      ]
     }
   ]
 }
