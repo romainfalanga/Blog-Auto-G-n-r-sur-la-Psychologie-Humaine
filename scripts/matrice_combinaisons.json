@@ -641,6 +641,66 @@
         "schémas répétitifs",
         "psychologie"
       ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de statu quo",
+      "contexte": "face à une décision importante",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": "procrastinateur(trice)",
+      "prenom": "Mélanie",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Comprendre le biais de statu quo face à une décision importante",
+      "slug": "biais-statu-quo-decision-importante",
+      "tags": [
+        "biais de statu quo",
+        "prise de décision",
+        "procrastination",
+        "psychologie",
+        "développement personnel"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "rejet",
+      "contexte": "en société et dans les interactions sociales",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "timide",
+      "prenom": "Théo",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Rejet en société et dans les interactions sociales : comprendre et dépasser ses peurs",
+      "slug": "rejet-societe-interactions-sociales",
+      "tags": [
+        "rejet",
+        "émotions",
+        "timidité",
+        "interactions sociales",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "recherche d'approbation/reconnaissance",
+      "contexte": "au travail",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "people pleaser (celui/celle qui veut plaire à tout le monde)",
+      "prenom": "Aïssatou",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Comment la recherche d'approbation au travail sabote Aïssatou",
+      "slug": "recherche-approbation-reconnaissance-travail",
+      "tags": [
+        "recherche d'approbation",
+        "reconnaissance au travail",
+        "people pleaser",
+        "schémas répétitifs",
+        "psychologie du travail"
+      ]
     }
   ]
 }
