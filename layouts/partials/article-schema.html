@@ -4,13 +4,20 @@
   "@type": "Article",
   "headline": "{{ .Title }}",
   "description": "{{ .Description }}",
+  "image": "{{ "images/og-default.png" | absURL }}",
   "author": {
     "@type": "Organization",
-    "name": "{{ .Site.Params.siteName }}"
+    "name": "{{ .Site.Params.siteName }}",
+    "url": "{{ .Site.BaseURL }}"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "{{ .Site.Params.siteName }}"
+    "name": "{{ .Site.Params.siteName }}",
+    "url": "{{ .Site.BaseURL }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ "images/og-default.png" | absURL }}"
+    }
   },
   "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
   "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",

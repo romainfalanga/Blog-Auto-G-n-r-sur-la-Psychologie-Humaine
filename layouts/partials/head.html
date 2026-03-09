@@ -1,37 +1,94 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
+{{/* ── Titre dynamique ── */}}
 {{- if .IsHome }}
 <title>{{ .Site.Title }}</title>
 {{- else }}
 <title>{{ .Title }} | {{ .Site.Params.siteName }}</title>
 {{- end }}
 
+{{/* ── Meta description ── */}}
 <meta name="description" content="{{ .Description | default .Site.Params.description }}">
+<meta name="author" content="{{ .Site.Params.author }}">
+
+{{/* ── Canonical ── */}}
 <link rel="canonical" href="{{ .Permalink }}">
 
-<!-- Open Graph -->
-<meta property="og:title" content="{{ .Title }}">
+{{/* ── Langue ── */}}
+<meta property="og:locale" content="fr_FR">
+<link rel="alternate" hreflang="fr" href="{{ .Permalink }}">
+
+{{/* ── Favicons ── */}}
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#5BA8A0">
+<meta name="msapplication-TileColor" content="#5BA8A0">
+
+{{/* ── Open Graph ── */}}
+<meta property="og:title" content="{{ .Title | default .Site.Title }}">
 <meta property="og:description" content="{{ .Description | default .Site.Params.description }}">
 {{- if .IsPage }}
 <meta property="og:type" content="article">
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+<meta property="article:author" content="{{ .Site.Params.author }}">
+{{- if .Params.categories }}
+<meta property="article:section" content="{{ index .Params.categories 0 }}">
+{{- end }}
+{{- if .Params.tags }}
+{{- range .Params.tags }}
+<meta property="article:tag" content="{{ . }}">
+{{- end }}
+{{- end }}
 {{- else }}
 <meta property="og:type" content="website">
 {{- end }}
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Params.siteName }}">
-<meta property="og:locale" content="fr_FR">
+<meta property="og:image" content="{{ "images/og-default.png" | absURL }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{{ .Title | default .Site.Params.siteName }}">
 
-<!-- Twitter Card -->
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="{{ .Title }}">
+{{/* ── Twitter Card ── */}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ .Title | default .Site.Title }}">
 <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
+<meta name="twitter:image" content="{{ "images/og-default.png" | absURL }}">
+<meta name="twitter:image:alt" content="{{ .Title | default .Site.Params.siteName }}">
 
-<!-- Robots -->
-<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+{{/* ── Robots ── */}}
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 
-<!-- RSS -->
+{{/* ── RSS ── */}}
 <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "feed.xml" | absURL }}">
 
-<!-- CSS -->
+{{/* ── CSS ── */}}
 <link rel="stylesheet" href="/css/style.css">
+
+{{/* ── Schema.org WebSite (pour Sitelinks Search Box Google) ── */}}
+{{- if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Params.siteName }}",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.description }}",
+  "inLanguage": "fr",
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.siteName }}",
+    "url": "{{ .Site.BaseURL }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ "images/og-default.png" | absURL }}"
+    }
+  }
+}
+</script>
+{{- end }}
