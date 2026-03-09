@@ -761,6 +761,66 @@
         "développement-personnel",
         "schémas-répétitifs"
       ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais du monde juste",
+      "contexte": "en famille",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": "ancien(ne) enfant parentifié(e)",
+      "prenom": "Mélanie",
+      "age": "adulte en pleine vie active (36-45 ans)",
+      "title": "Comprendre le biais du monde juste en famille : l’histoire de Mélanie",
+      "slug": "biais-monde-juste-famille-melanie",
+      "tags": [
+        "biais du monde juste",
+        "famille",
+        "psychologie",
+        "parentification",
+        "bien-être mental"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "jalousie",
+      "contexte": "en situation de compétition",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "perfectionniste",
+      "prenom": "Clément",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Jalousie en situation de compétition : comprendre et maîtriser ses émotions",
+      "slug": "jalousie-en-competition-maitriser",
+      "tags": [
+        "jalousie",
+        "émotions",
+        "compétition",
+        "perfectionnisme",
+        "gestion émotionnelle"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "attachement désorganisé/craintif (oscillation)",
+      "contexte": "après une rupture amoureuse",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "survivant(e) de relation toxique",
+      "prenom": "Hiroshi",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Comprendre l'attachement désorganisé/craintif après une rupture amoureuse",
+      "slug": "attachement-desorganise-craintif-rupture",
+      "tags": [
+        "attachement-désorganisé",
+        "rupture-amoureuse",
+        "schémas-répétitifs",
+        "relation-toxique",
+        "psychologie"
+      ]
     }
   ]
 }
