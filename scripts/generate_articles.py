@@ -424,7 +424,7 @@ MÉTHODE NARRATIVE OBLIGATOIRE :
 
 RÈGLES DE RÉDACTION :
 - Langue : français impeccable et fluide
-- N'utilise JAMAIS le tiret long (—) ni le tiret cadratin dans le texte. Utilise des virgules, des parenthèses ou reformule la phrase autrement. Ceci est une règle absolue.
+- N'utilise JAMAIS le tiret long (—), le tiret cadratin ni le tiret semi-cadratin (–) comme ponctuation dans le texte. Utilise des virgules, des parenthèses ou reformule la phrase autrement. Les traits d'union (-) dans les mots composés (ex : moi-même, peut-être) sont autorisés. Ceci est une règle absolue.
 - Ton : accessible, empathique, bienveillant, non-jugeant, chaleureux
 - Vulgarise TOUJOURS les concepts complexes avec des mots simples et des métaphores du quotidien
 - Inclus des exemples concrets auxquels le lecteur s'identifie
@@ -495,16 +495,20 @@ MOT-CLÉ SEO À OPTIMISER : {combo['sujet']} {combo['contexte']}"""
 # ============================================
 
 EMDASH = "\u2014"  # —
+ENDASH = "\u2013"  # –
 
 
-def call_gemini_emdash_fix(content):
-    """Appelle Gemini pour reformuler les passages contenant des tirets cadratins."""
+def call_gemini_dash_fix(content):
+    """Appelle Gemini pour reformuler les passages contenant des tirets cadratins ou semi-cadratins utilisés comme ponctuation."""
     system_prompt = (
         "Tu es un correcteur linguistique français expert. "
         "On te donne un article de blog en Markdown. "
-        "Ton UNIQUE tâche : repérer tous les tirets cadratins (\u2014) présents dans le texte "
+        "Ton UNIQUE tâche : repérer tous les tirets cadratins (\u2014) et semi-cadratins (\u2013) "
+        "utilisés comme PONCTUATION dans le texte "
         "et reformuler ces passages pour les remplacer par une ponctuation française standard "
         "(virgules, parenthèses, deux-points, points). "
+        "ATTENTION : les traits d'union dans les mots composés (ex : moi-même, peut-être, c'est-à-dire) "
+        "doivent être CONSERVÉS tels quels, ce sont des traits d'union normaux (-), pas des tirets de ponctuation. "
         "Tu dois retourner l'article COMPLET avec les corrections appliquées, "
         "sans rien supprimer ni modifier d'autre. "
         "Conserve tout le formatage Markdown intact (titres, listes, gras, italique, etc.). "
@@ -512,8 +516,10 @@ def call_gemini_emdash_fix(content):
     )
 
     user_prompt = (
-        "Voici l'article à corriger. Remplace chaque tiret cadratin (\u2014) par une reformulation "
+        "Voici l'article à corriger. Remplace chaque tiret cadratin (\u2014) et semi-cadratin (\u2013) "
+        "utilisé comme ponctuation par une reformulation "
         "naturelle avec une ponctuation standard (virgule, parenthèse, deux-points, point). "
+        "Ne touche PAS aux traits d'union dans les mots composés. "
         "Retourne l'article complet corrigé, rien d'autre :\n\n"
         f"{content}"
     )
@@ -528,34 +534,45 @@ def call_gemini_emdash_fix(content):
     )
 
 
-def verify_and_fix_emdashes(content, combo):
-    """Vérifie et corrige les tirets cadratins dans un article généré."""
-    emdash_count = content.count(EMDASH)
+def _count_punctuation_dashes(content):
+    """Compte les tirets cadratins et semi-cadratins utilisés comme ponctuation (entourés d'espaces)."""
+    import re
+    # Tirets entourés d'espaces = ponctuation (pas des traits d'union dans des mots composés)
+    pattern = r' [–—] '
+    return len(re.findall(pattern, content))
 
-    if emdash_count == 0:
-        print(f"  [Vérification] OK : aucun tiret cadratin détecté")
+
+def verify_and_fix_emdashes(content, combo):
+    """Vérifie et corrige les tirets cadratins et semi-cadratins utilisés comme ponctuation."""
+    dash_count = _count_punctuation_dashes(content)
+
+    if dash_count == 0:
+        print(f"  [Vérification] OK : aucun tiret de ponctuation détecté")
         return content
 
-    print(f"  [Vérification] {emdash_count} tiret(s) cadratin(s) détecté(s), appel Gemini pour correction...")
+    print(f"  [Vérification] {dash_count} tiret(s) de ponctuation détecté(s), appel Gemini pour correction...")
 
     try:
-        fixed_content = call_gemini_emdash_fix(content)
+        fixed_content = call_gemini_dash_fix(content)
 
         if fixed_content:
-            remaining = fixed_content.count(EMDASH)
+            remaining = _count_punctuation_dashes(fixed_content)
             if remaining == 0:
-                print(f"  [Vérification] Gemini a corrigé tous les tirets cadratins avec succès")
+                print(f"  [Vérification] Gemini a corrigé tous les tirets de ponctuation avec succès")
                 return fixed_content
             else:
                 print(f"  [Vérification] Gemini a laissé {remaining} tiret(s), fallback mécanique...")
-                return fixed_content.replace(EMDASH, ",")
+                import re
+                return re.sub(r' [–—] ', ', ', fixed_content)
         else:
             print(f"  [Vérification] Gemini n'a pas répondu, fallback mécanique...")
-            return content.replace(EMDASH, ",")
+            import re
+            return re.sub(r' [–—] ', ', ', content)
 
     except Exception as e:
         print(f"  [Vérification] Erreur Gemini: {e}, fallback mécanique...")
-        return content.replace(EMDASH, ",")
+        import re
+        return re.sub(r' [–—] ', ', ', content)
 
 
 # ============================================

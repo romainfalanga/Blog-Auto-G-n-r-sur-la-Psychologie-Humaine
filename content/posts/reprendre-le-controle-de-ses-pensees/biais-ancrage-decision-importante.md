@@ -15,7 +15,7 @@ draft: false
 
 La lumière blafarde du matin traverse à peine les rideaux de l’appartement de Jérémie. Assis à sa table de cuisine, il fait tourner nerveusement un stylo entre ses doigts, le regard fixé sur un écran d’ordinateur où s’affiche une offre d’achat de voiture. Son cœur bat un peu plus vite que d’habitude. C’est un gros investissement, un pas important vers plus d’autonomie. Pourtant, il est paralysé, incapable de faire un choix clair. 
 
-Jérémie se remémore les premières discussions avec le vendeur, quand un chiffre – un prix – a été évoqué. Ce nombre semble s’être imposé dans son esprit comme une vérité immuable. Depuis, chaque option qu’il examine est comparée à cette première valeur, comme un point de référence fixe. Pourtant, il sent confusément qu’il pourrait rater quelque chose de mieux, ou payer trop cher. Son anxiété grandit avec le poids de cette décision, comme un brouillard épais qui l’empêche de voir clairement.
+Jérémie se remémore les premières discussions avec le vendeur, quand un chiffre (un prix) a été évoqué. Ce nombre semble s’être imposé dans son esprit comme une vérité immuable. Depuis, chaque option qu’il examine est comparée à cette première valeur, comme un point de référence fixe. Pourtant, il sent confusément qu’il pourrait rater quelque chose de mieux, ou payer trop cher. Son anxiété grandit avec le poids de cette décision, comme un brouillard épais qui l’empêche de voir clairement.
 
 Dans ce brouhaha mental, Jérémie ne se doute pas qu’il est sous l’emprise d’un phénomène bien connu en psychologie : le biais d’ancrage. Ce petit piège cognitif influence la manière dont il évalue cette décision importante, et c’est une erreur que beaucoup de personnes font sans le savoir.
 
