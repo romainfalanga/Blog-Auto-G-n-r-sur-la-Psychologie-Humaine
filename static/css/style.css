@@ -771,9 +771,26 @@ hr {
 }
 
 @media (max-width: 768px) {
-  .footer-inner { flex-direction: column; align-items: center; }
-  .footer-section { width: 100%; text-align: center; }
-  .footer-links { text-align: center; padding: 0; margin: 0; }
+  .footer-inner {
+    flex-direction: column;
+    align-items: center;
+  }
+  .footer-section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .footer-section h4 {
+    text-align: center;
+  }
+  .footer-links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+  }
 }
 
 /* ========================================
