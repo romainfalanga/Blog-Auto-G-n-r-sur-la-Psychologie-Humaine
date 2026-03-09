@@ -420,6 +420,7 @@ MÉTHODE NARRATIVE OBLIGATOIRE :
 - L'histoire sert de fil conducteur pour expliquer le concept et les solutions
 - Le personnage évolue au fil de l'article : il comprend son fonctionnement et commence à changer
 - L'histoire doit être réaliste, touchante, avec des détails sensoriels et émotionnels
+- TEMPS DE NARRATION : l'histoire DOIT être racontée au PRÉSENT de l'indicatif. Le personnage vit la scène en temps réel, comme si le lecteur assistait à la situation au moment où elle se produit (ex: "Sophie ouvre son ordinateur. Ses mains tremblent légèrement." et NON "Sophie a ouvert son ordinateur. Ses mains tremblaient."). Le présent crée une immersion immédiate et une connexion émotionnelle plus forte avec le lecteur.
 
 RÈGLES DE RÉDACTION :
 - Langue : français impeccable et fluide
@@ -478,7 +479,7 @@ PERSONNAGE DE L'HISTOIRE :
 - Situation : {combo['prenom']} vit une situation liée à "{combo['sujet']}" dans le contexte "{combo['contexte']}"
 
 CONSIGNES SPÉCIFIQUES :
-1. Commence par plonger le lecteur dans une scène de la vie de {combo['prenom']} (3-4 paragraphes immersifs)
+1. Commence par plonger le lecteur dans une scène de la vie de {combo['prenom']} (3-4 paragraphes immersifs). IMPORTANT : raconte l'histoire AU PRÉSENT, comme si elle se déroule sous les yeux du lecteur en ce moment même. {combo['prenom']} vit la situation en temps réel.
 2. Fais le lien entre la situation de {combo['prenom']} et le concept de "{combo['sujet']}"
 3. Explique le concept de manière simple et accessible, avec sa définition claire
 4. Montre comment ce concept se manifeste dans le contexte "{combo['contexte']}" avec d'autres exemples
