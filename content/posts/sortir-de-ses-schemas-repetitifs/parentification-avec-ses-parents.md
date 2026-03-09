@@ -13,9 +13,9 @@ contexte: "avec ses parents"
 draft: false
 ---
 
-Sarah était assise dans le salon de sa maison de campagne, le regard perdu à travers la fenêtre. Dehors, les feuilles d’automne dansaient au rythme d’un vent léger, apportant avec elles une sensation de changement. Pourtant à l’intérieur, Sarah ressentait un poids familier qui l’écrasait : la conversation téléphonique avec sa mère, survenue il y a seulement une heure. Sa mère lui avait encore une fois confié ses inquiétudes financières, comme si Sarah, à 62 ans, devait jouer le rôle de l’adulte responsable de la famille. Un soupir s’échappa de ses lèvres tandis qu’elle repensait à toutes ces années où elle avait endossé ce rôle, celui de la « grande » qui prenait soin.
+Sarah est assise dans le salon de sa maison de campagne, le regard perdu à travers la fenêtre. Dehors, les feuilles d’automne dansent au rythme d’un vent léger, apportant avec elles une sensation de changement. Pourtant à l’intérieur, Sarah ressent un poids familier qui l’écrase : la conversation téléphonique avec sa mère, survenue il y a seulement une heure. Sa mère lui a encore une fois confié ses inquiétudes financières, comme si Sarah, à 62 ans, devait jouer le rôle de l’adulte responsable de la famille. Un soupir s’échappe de ses lèvres tandis qu’elle repense à toutes ces années où elle a endossé ce rôle, celui de la « grande » qui prend soin.
 
-Chaque visite chez ses parents réveillait ce vieux réflexe de protection, cette nécessité d’être la pilier, l’intermédiaire, la confidente. Sarah avait grandi dans cette dynamique : ses propres besoins passaient souvent après ceux de ses parents, et elle se sentait coupable quand elle ne répondait pas immédiatement à leurs appels ou demandes. Un sentiment à la fois de devoir et d’épuisement, mêlé à une tendresse profonde. Mais quelle était cette étrange relation qui l’avait façonnée à ce point ? Pourquoi cette habitude de veiller sur ses parents, parfois même à ses dépens, la poursuivait-elle encore aujourd’hui ?
+Chaque visite chez ses parents réveille ce vieux réflexe de protection, cette nécessité d’être le pilier, l’intermédiaire, la confidente. Sarah a grandi dans cette dynamique : ses propres besoins passent souvent après ceux de ses parents, et elle se sent coupable quand elle ne répond pas immédiatement à leurs appels ou demandes. Un sentiment à la fois de devoir et d’épuisement, mêlé à une tendresse profonde. Mais quelle est cette étrange relation qui l’a façonnée à ce point ? Pourquoi cette habitude de veiller sur ses parents, parfois même à ses dépens, la poursuit-elle encore aujourd’hui ?
 
 Cette histoire, celle de Sarah, est celle de nombreux anciens enfants parentifiés. Pour mieux comprendre ce qu’elle vit, il est important d’explorer ce qu’est la parentification, notamment dans le contexte avec ses parents, et comment elle peut imprégner toute une vie.
 
@@ -25,7 +25,7 @@ La parentification est un mécanisme psychologique où un enfant est amené à j
 
 Ce phénomène peut se manifester de deux façons principales : la parentification instrumentale, où l’enfant assume des tâches concrètes comme s’occuper des frères et sœurs ou gérer le foyer, et la parentification émotionnelle, où l’enfant devient le soutien affectif des parents, écoutant leurs soucis, apaisant leurs angoisses, et devenant un refuge.
 
-Dans le cas de Sarah, ce fut surtout la parentification émotionnelle qui s’est imposée. Elle a appris très tôt à écouter les inquiétudes de ses parents, à minimiser ses propres émotions pour ne pas ajouter de poids, et à être ce pilier invisible mais essentiel.
+Dans le cas de Sarah, c’est surtout la parentification émotionnelle qui s’impose. Elle a appris très tôt à écouter les inquiétudes de ses parents, à minimiser ses propres émotions pour ne pas ajouter de poids, et à être ce pilier invisible mais essentiel.
 
 ## Comment la parentification se manifeste-t-elle avec ses parents ?  
 
@@ -35,7 +35,7 @@ La parentification peut prendre des formes variées dans la relation avec ses pa
 
 - **S’occuper des parents au-delà de l’âge adulte** : Lorsque l’on est adulte, et même senior, il arrive que la frontière entre soutien normal et parentification reste floue. Par exemple, gérer les rendez-vous médicaux de ses parents sans qu’ils ne demandent d’aide, ou ressentir qu’on doit être constamment disponible pour eux.
 
-- **Sacrifier ses propres besoins et émotions** : Sarah, comme beaucoup, avait appris à ignorer ses fatigues ou ses désirs pour ne pas « déranger » ses parents. Ce schéma peut perdurer longtemps après l’enfance, empêchant de se recentrer sur soi.
+- **Sacrifier ses propres besoins et émotions** : Sarah, comme beaucoup, a appris à ignorer ses fatigues ou ses désirs pour ne pas « déranger » ses parents. Ce schéma peut perdurer longtemps après l’enfance, empêchant de se recentrer sur soi.
 
 ## 3 techniques pour sortir de la parentification avec ses parents  
 
@@ -52,9 +52,9 @@ Sortir de la parentification est un chemin qui demande douceur et patience. Voic
 
 ## Le chemin de Sarah vers plus de liberté  
 
-Après avoir découvert la notion de parentification, Sarah a commencé à appliquer ces techniques. La première fois qu’elle a fixé une limite claire à sa mère, elle s’est sentie coupable, mais aussi soulagée. En notant ses émotions, elle a compris que son épuisement n’était pas simplement physique, mais aussi émotionnel. Et en exprimant avec tendresse ses besoins, elle a senti une nouvelle qualité dans leur relation, moins pesante.
+Après avoir découvert la notion de parentification, Sarah commence à appliquer ces techniques. La première fois qu’elle fixe une limite claire à sa mère, elle se sent coupable, mais aussi soulagée. En notant ses émotions, elle comprend que son épuisement n’est pas simplement physique, mais aussi émotionnel. Et en exprimant avec tendresse ses besoins, elle sent une nouvelle qualité dans leur relation, moins pesante.
 
-Petit à petit, Sarah a trouvé davantage de sérénité, se donnant la permission d’être simplement elle-même, sans le poids du rôle imposé. Ce chemin n’est pas linéaire, il demande du temps et parfois l’aide d’un professionnel, mais il ouvre la porte à une relation apaisée avec ses parents et surtout avec soi-même.
+Petit à petit, Sarah trouve davantage de sérénité, se donnant la permission d’être simplement elle-même, sans le poids du rôle imposé. Ce chemin n’est pas linéaire, il demande du temps et parfois l’aide d’un professionnel, mais il ouvre la porte à une relation apaisée avec ses parents et surtout avec soi-même.
 
 ### Un message d’espoir pour vous  
 

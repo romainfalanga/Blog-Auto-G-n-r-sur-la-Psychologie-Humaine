@@ -13,9 +13,9 @@ contexte: "en situation de compétition"
 draft: false
 ---
 
-Le soleil filtrait à travers les stores du bureau de Mei, dessinant des rayures lumineuses sur son clavier. Assise, le regard un peu ailleurs, elle survolait les propositions de stratégie pour le prochain grand projet de son équipe. Malgré son expertise, une légère angoisse lui nouait l’estomac. Dans cette phase cruciale de la compétition interne pour une promotion tant espérée, Mei sentait la pression grandir. Ses collègues défilaient autour de la table, exprimant des idées tranchées, certaines très éloignées de ce qu’elle pensait vraiment. Mais elle gardait le silence, hochant la tête en accord, un sourire poli figé sur son visage. Après tout, plaire à tout le monde était sa seconde nature.  
+Le soleil filtre à travers les stores du bureau de Mei, dessinant des rayures lumineuses sur son clavier. Assise, le regard un peu ailleurs, elle survole les propositions de stratégie pour le prochain grand projet de son équipe. Malgré son expertise, une légère angoisse lui noue l’estomac. Dans cette phase cruciale de la compétition interne pour une promotion tant espérée, Mei sent la pression grandir. Ses collègues défilent autour de la table, expriment des idées tranchées, certaines très éloignées de ce qu’elle pense vraiment. Mais elle garde le silence, hochant la tête en accord, un sourire poli figé sur son visage. Après tout, plaire à tout le monde est sa seconde nature.
 
-Lors d’une pause café un peu plus tard, Mei confia à une amie proche son mal-être. « Je sens que je me perds, que je dis ce que les autres veulent entendre et non ce que je pense. Mais si je ne suis pas comme eux, je risque de perdre leur soutien… » Ce dilemme la rongeait. Comment rester fidèle à elle-même dans cette ambiance où la compétition poussait chacun à s’aligner sur les idées dominantes ?  
+Lors d’une pause café un peu plus tard, Mei confie à une amie proche son mal-être. « Je sens que je me perds, que je dis ce que les autres veulent entendre et non ce que je pense. Mais si je ne suis pas comme eux, je risque de perdre leur soutien… » Ce dilemme la ronge. Comment rester fidèle à elle-même dans cette ambiance où la compétition pousse chacun à s’aligner sur les idées dominantes ?
 
 Cette scène illustre parfaitement ce que l’on appelle le biais de conformité, un phénomène psychologique puissant et souvent inconscient.  
 
@@ -59,9 +59,9 @@ Choisissez une situation à faible enjeu pour vous entraîner à partager une op
 
 ## Mei, ou le chemin vers l’authenticité  
 
-Après plusieurs semaines à appliquer ces techniques, Mei ressent un changement subtil mais profond. Lors de la prochaine réunion, alors que le consensus semblait évident, elle osa poser une question critique, exprimant un point de vue différent. Le silence qui s’en suivit n’était pas désagréable. Au contraire, cela ouvrit un débat riche d’idées nouvelles et, surtout, Mei sentit sa confiance grandir.  
+Après plusieurs semaines à appliquer ces techniques, Mei ressent un changement subtil mais profond. Lors de la réunion suivante, alors que le consensus semble évident, elle ose poser une question critique, exprimant un point de vue différent. Le silence qui suit n’est pas désagréable. Au contraire, cela ouvre un débat riche d’idées nouvelles et, surtout, Mei sent sa confiance grandir.
 
-Elle comprit que plaire à tout le monde était une quête impossible et que sa valeur ne dépendait pas uniquement de l’approbation des autres. En réapprenant à écouter sa propre voix, Mei reprit peu à peu le contrôle de ses pensées, même dans la compétition la plus acharnée.  
+Elle comprend que plaire à tout le monde est une quête impossible et que sa valeur ne dépend pas uniquement de l’approbation des autres. En réapprenant à écouter sa propre voix, Mei reprend peu à peu le contrôle de ses pensées, même dans la compétition la plus acharnée.  
 
 ## Conclusion : et si vous aussi vous repreniez le contrôle ?  
 

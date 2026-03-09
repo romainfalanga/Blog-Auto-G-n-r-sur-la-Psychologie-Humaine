@@ -13,9 +13,9 @@ contexte: "lors d'un entretien d'embauche"
 draft: false
 ---
 
-Le tic-tac de l’horloge semblait plus fort que jamais dans la petite salle d’attente. Hiroshi, 23 ans, serrait dans ses mains une feuille froissée – son CV. Son cœur battait à tout rompre, chaque respiration lui semblait un effort. L’idée d’entrer dans cette pièce, de faire face à un recruteur, le paralysait. Introverti de nature, il redoutait plus que tout ce moment, où il faudrait parler de lui, s’exposer, se révéler. Pourtant, c’était là, sa chance, celle qu’il avait attendue. Mais comment dépasser cette peur, ce sentiment d’être vulnérable ?
+Le tic-tac de l’horloge semble plus fort que jamais dans la petite salle d’attente. Hiroshi, 23 ans, serre dans ses mains une feuille froissée, son CV. Son cœur bat à tout rompre, chaque respiration lui semble un effort. L’idée d’entrer dans cette pièce, de faire face à un recruteur, le paralyse. Introverti de nature, il redoute plus que tout ce moment, où il faudra parler de lui, s’exposer, se révéler. Pourtant, c’est là, sa chance, celle qu’il attend depuis des semaines. Mais comment dépasser cette peur, ce sentiment d’être vulnérable ?
 
-Lorsque le secrétaire l’appela enfin, Hiroshi se leva, les jambes légèrement tremblantes. Il pénétra dans la salle lumineuse, où un homme souriant l’accueillit. Assis face à lui, Hiroshi sentit une boule grossir dans sa gorge. Il voulait donner une image forte, compétente, mais un poids invisible semblait l’empêcher d’être lui-même. Cette sensation, si familière, portait un nom : la vulnérabilité.
+Lorsque le secrétaire l’appelle enfin, Hiroshi se lève, les jambes légèrement tremblantes. Il pénètre dans la salle lumineuse, où un homme souriant l’accueille. Assis face à lui, Hiroshi sent une boule grossir dans sa gorge. Il veut donner une image forte, compétente, mais un poids invisible semble l’empêcher d’être lui-même. Cette sensation, si familière, porte un nom : la vulnérabilité.
 
 ## Qu’est-ce que la vulnérabilité ?
 
@@ -49,9 +49,9 @@ Identifiez un geste ou un objet (par exemple, serrer doucement votre pouce et vo
 
 ## Le cheminement d’Hiroshi : de la peur à l’acceptation
 
-Après plusieurs entretiens ratés où Hiroshi masquait ses émotions derrière un masque rigide, il décida de changer d’approche. Inspiré par la lecture d’un article sur la vulnérabilité, il s’entraîna à la visualisation positive avant chaque entretien. Il s’autorisa aussi à noter ses pensées anxieuses pour les transformer en encouragements. Lors d’un nouveau rendez-vous, au moment où sa voix trembla en parlant de son manque d’expérience, il posa discrètement sa main sur sa clé USB, son ancre, et poursuivit avec sincérité.
+Après plusieurs entretiens ratés où il masquait ses émotions derrière un masque rigide, Hiroshi décide de changer d’approche. Inspiré par la lecture d’un article sur la vulnérabilité, il s’entraîne à la visualisation positive avant chaque entretien. Il s’autorise aussi à noter ses pensées anxieuses pour les transformer en encouragements. Lors d’un nouveau rendez-vous, au moment où sa voix tremble en parlant de son manque d’expérience, il pose discrètement sa main sur sa clé USB, son ancre, et poursuit avec sincérité.
 
-Le recruteur, loin d’être déstabilisé, sembla au contraire toucher par son authenticité. Hiroshi quitta la salle avec la sensation d’avoir enfin été lui-même. Quelques jours plus tard, il reçut une offre d’emploi. Plus important encore, il avait découvert que montrer sa vulnérabilité pouvait devenir une belle force, une manière de se connecter réellement aux autres.
+Le recruteur, loin d’être déstabilisé, semble au contraire touché par son authenticité. Hiroshi quitte la salle avec la sensation d’avoir enfin été lui-même. Quelques jours plus tard, il reçoit une offre d’emploi. Plus important encore, il découvre que montrer sa vulnérabilité peut devenir une belle force, une manière de se connecter réellement aux autres.
 
 ## Conclusion : accueillir la vulnérabilité lors d’un entretien d’embauche, un pas vers soi
 
