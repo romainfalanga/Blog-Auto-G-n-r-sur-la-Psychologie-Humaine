@@ -881,6 +881,66 @@
         "schémas répétitifs",
         "développement personnel"
       ]
+    },
+    {
+      "date": "2026-03-10",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais d'optimisme",
+      "contexte": "en voyage ou en expatriation",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": "anxieux(se)",
+      "prenom": "Simone",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Biais d'optimisme en voyage : les erreurs courantes à éviter",
+      "slug": "biais-optimisme-voyage-expatriation",
+      "tags": [
+        "biais d'optimisme",
+        "voyage",
+        "expatriation",
+        "anxiété",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "nostalgie",
+      "contexte": "face au vieillissement",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "perfectionniste",
+      "prenom": "Mélanie",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Nostalgie face au vieillissement : comment la reconnaître chez les perfectionnistes",
+      "slug": "nostalgie-face-au-vieillissement-perfectionniste",
+      "tags": [
+        "nostalgie",
+        "vieillissement",
+        "émotions",
+        "perfectionnisme",
+        "bien-être"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "assujettissement",
+      "contexte": "face à l'autorité",
+      "angle": "comment s'en libérer concrètement",
+      "profil": "people pleaser (celui/celle qui veut plaire à tout le monde)",
+      "prenom": "Jérémie",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Assujettissement face à l'autorité : comment s'en libérer concrètement",
+      "slug": "assujettissement-face-a-lautorite-liberation",
+      "tags": [
+        "assujettissement",
+        "autorité",
+        "people-pleaser",
+        "psychologie",
+        "développement-personnel"
+      ]
     }
   ]
 }
