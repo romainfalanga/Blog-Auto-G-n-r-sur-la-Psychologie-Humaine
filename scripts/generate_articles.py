@@ -433,18 +433,32 @@ RÈGLES DE RÉDACTION :
 - Termine par l'évolution du personnage + un message d'espoir pour le lecteur
 - Longueur : entre 1800 et 2500 mots
 
+STRUCTURE OBLIGATOIRE DE L'ARTICLE (à respecter STRICTEMENT) :
+Tu DOIS structurer chaque article avec des titres Markdown H2 (##) et H3 (###). Voici le squelette EXACT à suivre :
+
+1. **Introduction narrative** (3-4 paragraphes SANS titre H2, directement le texte immersif du personnage)
+2. **## Qu'est-ce que [concept] ?** (H2 avec le nom du concept, définition claire, contexte scientifique, chercheur associé)
+3. **## Comment [concept] se manifeste-t-il [contexte] ?** (H2 sous forme de question, avec 2-3 sous-sections H3 montrant des manifestations concrètes)
+4. **## [N] techniques pour [verbe d'action] face à [concept]** (H2, puis chaque technique en H3 numéroté avec titre en gras : ### 1. **Titre de la technique**)
+5. **## [Prénom] commence à [verbe de transformation]** (H2, retour au personnage qui évolue grâce aux techniques)
+6. **---** (séparateur horizontal obligatoire avant la conclusion)
+7. **Conclusion** (3 paragraphes SANS titre H2 : bilan, message d'espoir, rappel professionnel)
+
+CHAQUE article DOIT contenir au minimum 4 titres H2 et 3 titres H3. Ne JAMAIS écrire un article en prose continue sans titres. C'est une règle ABSOLUE et NON NÉGOCIABLE.
+
 RÈGLES SEO :
 - Place le mot-clé principal naturellement dans le titre (H1), le premier paragraphe, au moins 2 sous-titres H2, et la conclusion
-- Structure avec des H2 et H3 clairs
 - Paragraphes courts (3-4 lignes max)
-- Utilise des listes à puces ou numérotées pour les techniques
+- Utilise des listes à puces ou numérotées pour les techniques et les exemples
 - Intègre 2-3 questions dans les H2 (ex: "Qu'est-ce que le biais de confirmation ?", "Comment se manifeste la peur de l'abandon au travail ?")
+- Maillage sémantique : utilise des synonymes et variantes du mot-clé principal dans les H2/H3 et le corps du texte
+- Chaque H2 doit idéalement contenir le mot-clé principal ou un synonyme proche
 
 RÈGLES GEO (pour être cité par les IA) :
 - Quand tu introduis un concept psychologique, donne UNE DÉFINITION CLAIRE EN UNE PHRASE au début de la section (ex: "Le biais de confirmation est la tendance à chercher et favoriser les informations qui confirment nos croyances existantes.")
 - Cite le nom du chercheur ou psychologue associé au concept quand c'est pertinent
 - Utilise des données chiffrées quand c'est possible (ex: "Selon une étude de 2019 publiée dans...")
-- Structure les techniques en listes numérotées avec des titres clairs
+- Structure les techniques en listes numérotées avec des titres clairs en H3
 
 RÈGLES ÉTHIQUES :
 - Ne donne JAMAIS de diagnostic médical
@@ -478,14 +492,16 @@ PERSONNAGE DE L'HISTOIRE :
 - Âge : {combo['age']}
 - Situation : {combo['prenom']} vit une situation liée à "{combo['sujet']}" dans le contexte "{combo['contexte']}"
 
-CONSIGNES SPÉCIFIQUES :
-1. Commence par plonger le lecteur dans une scène de la vie de {combo['prenom']} (3-4 paragraphes immersifs). IMPORTANT : raconte l'histoire AU PRÉSENT, comme si elle se déroule sous les yeux du lecteur en ce moment même. {combo['prenom']} vit la situation en temps réel.
-2. Fais le lien entre la situation de {combo['prenom']} et le concept de "{combo['sujet']}"
-3. Explique le concept de manière simple et accessible, avec sa définition claire
-4. Montre comment ce concept se manifeste dans le contexte "{combo['contexte']}" avec d'autres exemples
-5. Propose 2-3 techniques/exercices concrets que le lecteur peut appliquer
-6. Reviens à {combo['prenom']} pour montrer comment il/elle évolue en appliquant ces techniques
-7. Conclus avec un message d'espoir et une invitation à réfléchir sur soi
+CONSIGNES SPÉCIFIQUES (structure OBLIGATOIRE avec titres H2/H3 Markdown) :
+1. INTRODUCTION NARRATIVE (SANS titre H2) : 3-4 paragraphes immersifs plongeant le lecteur dans la vie de {combo['prenom']}. IMPORTANT : raconte AU PRÉSENT, comme si la scène se déroule sous les yeux du lecteur. {combo['prenom']} vit la situation en temps réel.
+2. ## Qu'est-ce que {combo['sujet']} ? (titre H2 OBLIGATOIRE) : Fais le lien avec la situation de {combo['prenom']}, puis explique le concept avec une définition claire en une phrase, le nom du chercheur associé, et un contexte scientifique.
+3. ## Comment {combo['sujet']} se manifeste dans le contexte "{combo['contexte']}" ? (titre H2 OBLIGATOIRE sous forme de question) : Détaille 2-3 manifestations concrètes avec des sous-titres H3 (###) pour chaque manifestation. Ajoute des exemples variés.
+4. ## 3 techniques pour [verbe d'action] face à {combo['sujet']} (titre H2 OBLIGATOIRE) : Présente chaque technique avec un sous-titre H3 numéroté et en gras (### 1. **Nom de la technique**). Chaque technique doit être détaillée sur un paragraphe complet avec un exercice concret.
+5. ## {combo['prenom']} commence à [verbe de transformation] (titre H2 OBLIGATOIRE) : Retour au personnage qui applique les techniques et évolue positivement.
+6. --- (séparateur horizontal OBLIGATOIRE)
+7. CONCLUSION (SANS titre H2) : 3 paragraphes avec bilan, message d'espoir, rappel bienveillant de consulter un professionnel.
+
+RAPPEL CRITIQUE : L'article DOIT contenir au minimum 4 titres ## (H2) et 3 titres ### (H3). Un article sans cette structure sera rejeté.
 
 MOT-CLÉ SEO À OPTIMISER : {combo['sujet']} {combo['contexte']}"""
 
@@ -573,6 +589,73 @@ def verify_and_fix_emdashes(content, combo):
         print(f"  [Vérification] Erreur Gemini: {e}, fallback mécanique...")
         import re
         return re.sub(r' [–—] ', ', ', content)
+
+
+# ============================================
+# VÉRIFICATION DE LA STRUCTURE H2/H3
+# ============================================
+
+def verify_article_structure(content, combo):
+    """Vérifie que l'article contient la structure H2/H3 obligatoire et le séparateur ---.
+    Si la structure est insuffisante, demande à Gemini de restructurer l'article."""
+    h2_count = len(re.findall(r'^## ', content, re.MULTILINE))
+    h3_count = len(re.findall(r'^### ', content, re.MULTILINE))
+    has_separator = '\n---\n' in content or content.strip().endswith('---')
+
+    print(f"  [Structure] H2: {h2_count}, H3: {h3_count}, Séparateur: {'oui' if has_separator else 'non'}")
+
+    if h2_count >= 4 and h3_count >= 3 and has_separator:
+        print(f"  [Structure] OK : structure conforme")
+        return content
+
+    print(f"  [Structure] INSUFFISANT : restructuration par Gemini...")
+
+    system_prompt = (
+        "Tu es un rédacteur SEO expert. On te donne un article de blog en Markdown qui manque de structure. "
+        "Tu dois le restructurer en ajoutant des titres H2 (##) et H3 (###) sans modifier le contenu textuel. "
+        "RÈGLES STRICTES :\n"
+        "- L'article DOIT contenir au minimum 4 titres ## (H2) et 3 titres ### (H3)\n"
+        "- Les H2 doivent suivre ce schéma : définition du concept, manifestations, techniques, évolution du personnage\n"
+        "- Les techniques doivent être en H3 numérotés : ### 1. **Titre**\n"
+        "- Ajoute un séparateur --- avant la conclusion finale\n"
+        "- NE MODIFIE PAS le texte existant, ajoute UNIQUEMENT les titres et le séparateur\n"
+        "- Conserve tout le formatage Markdown existant (listes, gras, italique)\n"
+        "- Retourne l'article complet restructuré, rien d'autre."
+    )
+
+    user_prompt = (
+        f"Voici un article sur \"{combo['sujet']}\" dans le contexte \"{combo['contexte']}\" "
+        f"avec le personnage {combo['prenom']}. "
+        f"Il lui manque des titres H2/H3. Restructure-le en suivant les règles. "
+        f"Retourne l'article complet restructuré :\n\n{content}"
+    )
+
+    try:
+        fixed = call_mammouth_api(
+            model=MODEL_ANALYST,
+            system_prompt=system_prompt,
+            user_prompt=user_prompt,
+            temperature=0.3,
+            max_tokens=4500,
+            retries=2
+        )
+
+        if fixed:
+            new_h2 = len(re.findall(r'^## ', fixed, re.MULTILINE))
+            new_h3 = len(re.findall(r'^### ', fixed, re.MULTILINE))
+            if new_h2 >= 4 and new_h3 >= 3:
+                print(f"  [Structure] Gemini a restructuré : H2={new_h2}, H3={new_h3}")
+                return fixed
+            else:
+                print(f"  [Structure] Restructuration insuffisante (H2={new_h2}, H3={new_h3}), conservation de l'original")
+                return content
+        else:
+            print(f"  [Structure] Gemini n'a pas répondu, conservation de l'original")
+            return content
+
+    except Exception as e:
+        print(f"  [Structure] Erreur Gemini: {e}, conservation de l'original")
+        return content
 
 
 # ============================================
@@ -735,6 +818,9 @@ def main():
 
         # Étape 3.5 : Vérification et correction des tirets cadratins (—)
         content = verify_and_fix_emdashes(content, combo)
+
+        # Étape 3.6 : Vérification de la structure H2/H3 obligatoire
+        content = verify_article_structure(content, combo)
 
         print(f"  Creation du fichier Hugo...")
         create_hugo_post(combo, metadata, content)
