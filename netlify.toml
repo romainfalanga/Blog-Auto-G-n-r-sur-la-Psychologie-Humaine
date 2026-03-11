@@ -1,18 +1,50 @@
 [build]
   publish = "public"
-  command = "hugo --minify -b $URL"
+  command = "hugo --minify"
 
 [build.environment]
   HUGO_VERSION = "0.140.0"
   HUGO_ENV = "production"
 
+# Redirection www -> non-www
+[[redirects]]
+  from = "https://www.decodetonesprit.fr/*"
+  to = "https://decodetonesprit.fr/:splat"
+  status = 301
+  force = true
+
+# Headers de sécurité globaux
 [[headers]]
   for = "/*"
   [headers.values]
     X-Frame-Options = "DENY"
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+    X-XSS-Protection = "1; mode=block"
 
+# Cache longue durée pour les assets statiques
+[[headers]]
+  for = "/css/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.png"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.svg"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Fichier llms.txt
 [[headers]]
   for = "/llms.txt"
   [headers.values]

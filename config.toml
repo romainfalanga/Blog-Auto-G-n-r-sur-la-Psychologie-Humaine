@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://decodetonesprit.fr/"
 languageCode = "fr"
 defaultContentLanguage = "fr"
 title = "Décode ton esprit — Comprends-toi grâce à la psychologie"
@@ -52,9 +52,5 @@ title = "Décode ton esprit — Comprends-toi grâce à la psychologie"
     name = "Schémas répétitifs"
     url = "/posts/sortir-de-ses-schemas-repetitifs/"
     weight = 3
-  [[menu.main]]
-    name = "À propos"
-    url = "/a-propos/"
-    weight = 4
 
 enableRobotsTXT = true

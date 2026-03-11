@@ -119,6 +119,888 @@
         "pensées",
         "communication"
       ]
+    },
+    {
+      "date": "migré",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de projection",
+      "contexte": "en colocation",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": null,
+      "prenom": "",
+      "age": "",
+      "title": "",
+      "slug": "",
+      "tags": []
+    },
+    {
+      "date": "migré",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "indifférence",
+      "contexte": "en période de reconversion professionnelle",
+      "angle": "3 techniques/exercices pratiques",
+      "profil": null,
+      "prenom": "",
+      "age": "",
+      "title": "",
+      "slug": "",
+      "tags": []
+    },
+    {
+      "date": "migré",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "le syndrome de l'imposteur",
+      "contexte": "en société et dans les interactions sociales",
+      "angle": "3 techniques/exercices pratiques",
+      "profil": null,
+      "prenom": "",
+      "age": "",
+      "title": "",
+      "slug": "",
+      "tags": []
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet Dunning-Kruger",
+      "contexte": "à l'école ou aux études",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "haut potentiel intellectuel (HPI)",
+      "prenom": "Virginie",
+      "age": "adulte en pleine vie active (36-45 ans)",
+      "title": "Comprendre l’effet Dunning-Kruger à l’école ou aux études",
+      "slug": "effet-dunning-kruger-ecole-etudes",
+      "tags": [
+        "effet Dunning-Kruger",
+        "apprentissage",
+        "études",
+        "haut potentiel intellectuel",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "culpabilité",
+      "contexte": "en situation de conflit",
+      "angle": "comment s'en libérer concrètement",
+      "profil": "people pleaser (celui/celle qui veut plaire à tout le monde)",
+      "prenom": "Monique",
+      "age": "senior en quête de sens (56-70 ans)",
+      "title": "Se libérer de la culpabilité en situation de conflit : l’histoire de Monique",
+      "slug": "culpabilite-situation-conflit-monique",
+      "tags": [
+        "culpabilité",
+        "conflit",
+        "émotions",
+        "people pleaser",
+        "gestion émotionnelle"
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "les jeux psychologiques (triangle de Karpman : persécuteur, victime, sauveur)",
+      "contexte": "en amitié",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": null,
+      "prenom": "Moussa",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Comprendre les jeux psychologiques en amitié : le triangle de Karpman",
+      "slug": "jeux-psychologiques-triangle-karpman-amitie",
+      "tags": [
+        "psychologie",
+        "amitié",
+        "triangle de Karpman",
+        "jeux psychologiques",
+        "développement personnel"
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet de leurre",
+      "contexte": "en famille",
+      "angle": "le témoignage (raconter l'histoire d'un personnage qui s'en sort)",
+      "profil": null,
+      "prenom": "Juliette",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Effet de leurre en famille : l’histoire de Juliette qui reprend le contrôle",
+      "slug": "effet-leurre-en-famille",
+      "tags": [
+        "effet de leurre",
+        "psychologie familiale",
+        "reprendre le contrôle",
+        "pensées négatives",
+        "bien-être"
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "irritabilité",
+      "contexte": "seul(e) face à soi-même",
+      "angle": "ce que dit la science (études et recherches)",
+      "profil": null,
+      "prenom": "Lucas",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Irritabilité seul face à soi-même : comprendre et apaiser ses tensions",
+      "slug": "irritabilite-seul-face-a-soi",
+      "tags": [
+        "irritabilité",
+        "émotions",
+        "gestion du stress",
+        "psychologie",
+        "bien-être"
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "le stress post-traumatique complexe (C-PTSD)",
+      "contexte": "lors d'un deuil",
+      "angle": "ce que dit la science (études et recherches)",
+      "profil": null,
+      "prenom": "Isabelle",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Comprendre le stress post-traumatique complexe (C-PTSD) lors d'un deuil",
+      "slug": "stress-post-traumatique-complexe-deuil",
+      "tags": [
+        "stress post-traumatique",
+        "C-PTSD",
+        "deuil",
+        "psychologie",
+        "santé mentale"
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais d'ancrage",
+      "contexte": "face à une décision importante",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": "anxieux(se)",
+      "prenom": "Jérémie",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Comprendre le biais d'ancrage face à une décision importante",
+      "slug": "biais-ancrage-decision-importante",
+      "tags": [
+        "biais d'ancrage",
+        "prise de décision",
+        "anxiété",
+        "psychologie",
+        "gestion du stress"
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "honte",
+      "contexte": "après un succès",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "perfectionniste",
+      "prenom": "Fatima",
+      "age": "senior en quête de sens (56-70 ans)",
+      "title": "Honte après un succès : comprendre et dépasser ce paradoxe",
+      "slug": "honte-apres-un-succes",
+      "tags": [
+        "honte",
+        "émotions",
+        "perfectionnisme",
+        "réussite",
+        "bien-être"
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "abandon/instabilité",
+      "contexte": "face à la solitude",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "dépendant(e) affectif(ve)",
+      "prenom": "Patrick",
+      "age": "adulte en pleine vie active (36-45 ans)",
+      "title": "Abandon/instabilité face à la solitude : comprendre et agir",
+      "slug": "abandon-instabilite-face-solitude",
+      "tags": [
+        "abandon",
+        "instabilité",
+        "solitude",
+        "dépendance affective",
+        "enfance"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais du coût irrécupérable",
+      "contexte": "après une rupture amoureuse",
+      "angle": "pourquoi ça empire avec le temps si on ne fait rien",
+      "profil": "dépendant(e) affectif(ve)",
+      "prenom": "Bastien",
+      "age": "adulte en pleine vie active (36-45 ans)",
+      "title": "Biais du coût irrécupérable après une rupture amoureuse : comment s'en libérer",
+      "slug": "biais-cout-irrecoverable-rupture",
+      "tags": [
+        "biais du coût irrécupérable",
+        "rupture amoureuse",
+        "dépendance affective",
+        "psychologie",
+        "reprendre le contrôle"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "gratitude",
+      "contexte": "en tant que manager",
+      "angle": "comment aider quelqu'un qui vit ça",
+      "profil": "empathe",
+      "prenom": "Charlotte",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Cultiver la gratitude en tant que manager : le chemin de Charlotte",
+      "slug": "gratitude-en-tant-que-manager",
+      "tags": [
+        "gratitude",
+        "management",
+        "empathie",
+        "émotions",
+        "développement personnel"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "méfiance/abus",
+      "contexte": "sur les réseaux sociaux",
+      "angle": "les signes que vous êtes concerné(e)",
+      "profil": "survivant(e) de relation toxique",
+      "prenom": "Priya",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Méfiance/abus sur les réseaux sociaux : comment reconnaître les signes",
+      "slug": "mefiance-abus-reseaux-sociaux",
+      "tags": [
+        "méfiance",
+        "abus",
+        "réseaux sociaux",
+        "relation toxique",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de négativité",
+      "contexte": "face à une décision importante",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "anxieux(se)",
+      "prenom": "Julien",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Comprendre le biais de négativité face à une décision importante",
+      "slug": "biais-negativite-decision-importante",
+      "tags": [
+        "biais de négativité",
+        "prise de décision",
+        "anxiété",
+        "psychologie",
+        "gestion émotionnelle"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "frustration",
+      "contexte": "au travail",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "perfectionniste",
+      "prenom": "Stéphane",
+      "age": "adulte en pleine vie active (36-45 ans)",
+      "title": "Frustration au travail : comprendre différence entre colère et déception",
+      "slug": "frustration-au-travail-colere-deception",
+      "tags": [
+        "frustration",
+        "travail",
+        "émotions",
+        "perfectionnisme",
+        "gestion émotionnelle"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "attachement anxieux-préoccupé (hyperactivation du système)",
+      "contexte": "en couple",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "dépendant(e) affectif(ve)",
+      "prenom": "Kévin",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Comprendre l'attachement anxieux-préoccupé en couple : le cas de Kévin",
+      "slug": "attachement-anxieux-preoccupe-couple",
+      "tags": [
+        "attachement anxieux",
+        "dépendance affective",
+        "couple",
+        "psychologie",
+        "schémas répétitifs"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de l'angle mort",
+      "contexte": "face à la solitude",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Djamila",
+      "age": "senior en quête de sens (56-70 ans)",
+      "title": "Comprendre le biais de l'angle mort face à la solitude",
+      "slug": "biais-angle-mort-solitude",
+      "tags": [
+        "biais de l'angle mort",
+        "solitude",
+        "psychologie",
+        "bien-être",
+        "reprise de contrôle"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "dette émotionnelle",
+      "contexte": "après un échec",
+      "angle": "comprendre ce que c'est (article explicatif)",
+      "profil": "évitant(e)",
+      "prenom": "Hugo",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Comprendre la dette émotionnelle après un échec : le cas d’Hugo",
+      "slug": "dette-emotionnelle-apres-echec",
+      "tags": [
+        "dette émotionnelle",
+        "gestion des émotions",
+        "échec",
+        "développement personnel",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "attachement sécure (caractéristiques, comment le développer)",
+      "contexte": "face à l'argent et aux finances",
+      "angle": "ce que dit la science (études et recherches)",
+      "profil": "dépendant(e) affectif(ve)",
+      "prenom": "Amina",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Attachement sécure face à l'argent : comprendre et progresser",
+      "slug": "attachement-secure-argent-finances",
+      "tags": [
+        "attachement-sécure",
+        "finances-personnelles",
+        "dépendance-affective",
+        "psychologie",
+        "gestion-argent"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais d'attribution fondamentale",
+      "contexte": "face à l'autorité",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "ancien(ne) enfant parentifié(e)",
+      "prenom": "Juliette",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Comprendre le biais d'attribution fondamentale face à l'autorité",
+      "slug": "biais-attribution-fondamentale-autorite",
+      "tags": [
+        "biais d'attribution fondamentale",
+        "autorité",
+        "psychologie",
+        "pensées",
+        "enfant parentifié"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "trahison",
+      "contexte": "en amitié",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "empathe",
+      "prenom": "Kévin",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Trahison en amitié : comprendre la différence entre blessure et rancune",
+      "slug": "trahison-en-amitie-differences-clés",
+      "tags": [
+        "trahison",
+        "amitié",
+        "émotions",
+        "empathie",
+        "gestion-conflit"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "attachement évitant-dédaigneux (désactivation du système)",
+      "contexte": "dans l'intimité et la sexualité",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "évitant(e)",
+      "prenom": "Fatima",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Attachement évitant-dédaigneux dans l'intimité et la sexualité",
+      "slug": "attachement-evitant-dans-intimite",
+      "tags": [
+        "attachement-évitant",
+        "intimité",
+        "sexualité",
+        "psychologie",
+        "développement-personnel"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de disponibilité",
+      "contexte": "face à une décision importante",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": "anxieux(se)",
+      "prenom": "Mehdi",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Comprendre le biais de disponibilité face à une décision importante",
+      "slug": "biais-disponibilite-decision-importante",
+      "tags": [
+        "biais de disponibilité",
+        "prise de décision",
+        "anxiété",
+        "psychologie",
+        "gestion pensée"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "impuissance",
+      "contexte": "face à la maladie",
+      "angle": "comment aider quelqu'un qui vit ça",
+      "profil": "empathe",
+      "prenom": "Kévin",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Impuissance face à la maladie : comment aider un proche en souffrance",
+      "slug": "impotence-face-maladie-aider-proche",
+      "tags": [
+        "impuissance",
+        "maladie",
+        "empathie",
+        "soutien émotionnel",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "exigences élevées/critique excessive",
+      "contexte": "avec ses enfants",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "perfectionniste",
+      "prenom": "Lucas",
+      "age": "senior en quête de sens (56-70 ans)",
+      "title": "Exigences élevées et critique excessive avec ses enfants : comment changer",
+      "slug": "exigences-elevees-critique-enfants",
+      "tags": [
+        "perfectionnisme",
+        "éducation",
+        "parentalité",
+        "schémas répétitifs",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de statu quo",
+      "contexte": "face à une décision importante",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": "procrastinateur(trice)",
+      "prenom": "Mélanie",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Comprendre le biais de statu quo face à une décision importante",
+      "slug": "biais-statu-quo-decision-importante",
+      "tags": [
+        "biais de statu quo",
+        "prise de décision",
+        "procrastination",
+        "psychologie",
+        "développement personnel"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "rejet",
+      "contexte": "en société et dans les interactions sociales",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "timide",
+      "prenom": "Théo",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Rejet en société et dans les interactions sociales : comprendre et dépasser ses peurs",
+      "slug": "rejet-societe-interactions-sociales",
+      "tags": [
+        "rejet",
+        "émotions",
+        "timidité",
+        "interactions sociales",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "recherche d'approbation/reconnaissance",
+      "contexte": "au travail",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "people pleaser (celui/celle qui veut plaire à tout le monde)",
+      "prenom": "Aïssatou",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Comment la recherche d'approbation au travail sabote Aïssatou",
+      "slug": "recherche-approbation-reconnaissance-travail",
+      "tags": [
+        "recherche d'approbation",
+        "reconnaissance au travail",
+        "people pleaser",
+        "schémas répétitifs",
+        "psychologie du travail"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de conformité",
+      "contexte": "en situation de compétition",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "people pleaser (celui/celle qui veut plaire à tout le monde)",
+      "prenom": "Mei",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Comprendre le biais de conformité en situation de compétition",
+      "slug": "biais-conformite-competition",
+      "tags": [
+        "biais de conformité",
+        "compétition",
+        "psychologie sociale",
+        "people pleaser",
+        "contrôle des pensées"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "vulnérabilité",
+      "contexte": "lors d'un entretien d'embauche",
+      "angle": "le témoignage (raconter l'histoire d'un personnage qui s'en sort)",
+      "profil": "introverti(e)",
+      "prenom": "Hiroshi",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Apprendre la vulnérabilité lors d'un entretien d'embauche : le témoignage d'Hiroshi",
+      "slug": "vulnerabilite-entretien-embauche-hiroshi",
+      "tags": [
+        "vulnérabilité",
+        "entretien d'embauche",
+        "introversion",
+        "gestion émotions",
+        "développement personnel"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "la parentification",
+      "contexte": "avec ses parents",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "ancien(ne) enfant parentifié(e)",
+      "prenom": "Sarah",
+      "age": "senior en quête de sens (56-70 ans)",
+      "title": "Comprendre la parentification avec ses parents pour mieux avancer",
+      "slug": "parentification-avec-ses-parents",
+      "tags": [
+        "parentification",
+        "enfance",
+        "relations-familiales",
+        "développement-personnel",
+        "schémas-répétitifs"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais du monde juste",
+      "contexte": "en famille",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": "ancien(ne) enfant parentifié(e)",
+      "prenom": "Mélanie",
+      "age": "adulte en pleine vie active (36-45 ans)",
+      "title": "Comprendre le biais du monde juste en famille : l’histoire de Mélanie",
+      "slug": "biais-monde-juste-famille-melanie",
+      "tags": [
+        "biais du monde juste",
+        "famille",
+        "psychologie",
+        "parentification",
+        "bien-être mental"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "jalousie",
+      "contexte": "en situation de compétition",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "perfectionniste",
+      "prenom": "Clément",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Jalousie en situation de compétition : comprendre et maîtriser ses émotions",
+      "slug": "jalousie-en-competition-maitriser",
+      "tags": [
+        "jalousie",
+        "émotions",
+        "compétition",
+        "perfectionnisme",
+        "gestion émotionnelle"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "attachement désorganisé/craintif (oscillation)",
+      "contexte": "après une rupture amoureuse",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "survivant(e) de relation toxique",
+      "prenom": "Hiroshi",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Comprendre l'attachement désorganisé/craintif après une rupture amoureuse",
+      "slug": "attachement-desorganise-craintif-rupture",
+      "tags": [
+        "attachement-désorganisé",
+        "rupture-amoureuse",
+        "schémas-répétitifs",
+        "relation-toxique",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "comparaison injuste",
+      "contexte": "face à l'argent et aux finances",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": null,
+      "prenom": "Philippe",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Comparaison injuste face à l'argent et aux finances : comment s'en libérer",
+      "slug": "comparaison-injuste-argent-finances",
+      "tags": [
+        "comparaison injuste",
+        "finances personnelles",
+        "psychologie",
+        "développement personnel",
+        "gestion financière"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "ennui",
+      "contexte": "en tant que manager",
+      "angle": "comprendre ce que c'est (article explicatif)",
+      "profil": null,
+      "prenom": "Arjun",
+      "age": "senior en quête de sens (56-70 ans)",
+      "title": "Ennui en tant que manager : comment le comprendre et le surmonter",
+      "slug": "ennui-en-tant-que-manager",
+      "tags": [
+        "ennui",
+        "management",
+        "émotions",
+        "bien-être au travail",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "la situation étrange de Mary Ainsworth",
+      "contexte": "en amitié",
+      "angle": "3 techniques/exercices pratiques",
+      "profil": null,
+      "prenom": "Élodie",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Comprendre la situation étrange de Mary Ainsworth en amitié",
+      "slug": "situation-etrange-ainsworth-amitie",
+      "tags": [
+        "psychologie",
+        "amitié",
+        "attachement",
+        "schémas répétitifs",
+        "développement personnel"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais d'optimisme",
+      "contexte": "en voyage ou en expatriation",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": "anxieux(se)",
+      "prenom": "Simone",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Biais d'optimisme en voyage : les erreurs courantes à éviter",
+      "slug": "biais-optimisme-voyage-expatriation",
+      "tags": [
+        "biais d'optimisme",
+        "voyage",
+        "expatriation",
+        "anxiété",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "nostalgie",
+      "contexte": "face au vieillissement",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "perfectionniste",
+      "prenom": "Mélanie",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Nostalgie face au vieillissement : comment la reconnaître chez les perfectionnistes",
+      "slug": "nostalgie-face-au-vieillissement-perfectionniste",
+      "tags": [
+        "nostalgie",
+        "vieillissement",
+        "émotions",
+        "perfectionnisme",
+        "bien-être"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "assujettissement",
+      "contexte": "face à l'autorité",
+      "angle": "comment s'en libérer concrètement",
+      "profil": "people pleaser (celui/celle qui veut plaire à tout le monde)",
+      "prenom": "Jérémie",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Assujettissement face à l'autorité : comment s'en libérer concrètement",
+      "slug": "assujettissement-face-a-lautorite-liberation",
+      "tags": [
+        "assujettissement",
+        "autorité",
+        "people-pleaser",
+        "psychologie",
+        "développement-personnel"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de groupe",
+      "contexte": "à l'école ou aux études",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": null,
+      "prenom": "Isabelle",
+      "age": "senior en quête de sens (56-70 ans)",
+      "title": "Comprendre le biais de groupe à l'école ou aux études",
+      "slug": "biais-groupe-ecole-etudes",
+      "tags": [
+        "biais de groupe",
+        "psychologie",
+        "études",
+        "prise de décision",
+        "développement personnel"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "nostalgie",
+      "contexte": "en amitié",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": null,
+      "prenom": "Nicolas",
+      "age": "adulte en pleine vie active (36-45 ans)",
+      "title": "Nostalgie en amitié : comprendre et dépasser ce sentiment complexe",
+      "slug": "nostalgie-en-amitie-comment-gerer",
+      "tags": [
+        "nostalgie",
+        "amitié",
+        "émotions",
+        "psychologie",
+        "bien-être"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "le gaslighting et la manipulation psychologique",
+      "contexte": "après un succès",
+      "angle": "comment aider quelqu'un qui vit ça",
+      "profil": "procrastinateur(trice)",
+      "prenom": "Priya",
+      "age": "adulte en pleine vie active (36-45 ans)",
+      "title": "Le gaslighting et la manipulation psychologique après un succès : comment aider",
+      "slug": "gaslighting-manipulation-apres-succes",
+      "tags": [
+        "gaslighting",
+        "manipulation psychologique",
+        "succès",
+        "soutien",
+        "psychologie vulgarisée"
+      ]
     }
   ]
 }

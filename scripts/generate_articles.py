@@ -8,7 +8,9 @@ Flux :
 1. Charger la matrice des combinaisons déjà réalisées (scripts/matrice_combinaisons.json)
 2. Gemini analyse la matrice et suggère 3 nouvelles combinaisons uniques
 3. GPT-4.1-mini rédige les articles sur les suggestions de Gemini
-4. La matrice est mise à jour avec les nouvelles combinaisons
+4. Gemini vérifie chaque article : si des tirets cadratins (—) sont détectés,
+   Gemini reformule les passages concernés pour les supprimer
+5. La matrice est mise à jour avec les nouvelles combinaisons
 """
 
 import os
@@ -418,9 +420,11 @@ MÉTHODE NARRATIVE OBLIGATOIRE :
 - L'histoire sert de fil conducteur pour expliquer le concept et les solutions
 - Le personnage évolue au fil de l'article : il comprend son fonctionnement et commence à changer
 - L'histoire doit être réaliste, touchante, avec des détails sensoriels et émotionnels
+- TEMPS DE NARRATION : l'histoire DOIT être racontée au PRÉSENT de l'indicatif. Le personnage vit la scène en temps réel, comme si le lecteur assistait à la situation au moment où elle se produit (ex: "Sophie ouvre son ordinateur. Ses mains tremblent légèrement." et NON "Sophie a ouvert son ordinateur. Ses mains tremblaient."). Le présent crée une immersion immédiate et une connexion émotionnelle plus forte avec le lecteur.
 
 RÈGLES DE RÉDACTION :
 - Langue : français impeccable et fluide
+- N'utilise JAMAIS le tiret long (—), le tiret cadratin ni le tiret semi-cadratin (–) comme ponctuation dans le texte. Utilise des virgules, des parenthèses ou reformule la phrase autrement. Les traits d'union (-) dans les mots composés (ex : moi-même, peut-être) sont autorisés. Ceci est une règle absolue.
 - Ton : accessible, empathique, bienveillant, non-jugeant, chaleureux
 - Vulgarise TOUJOURS les concepts complexes avec des mots simples et des métaphores du quotidien
 - Inclus des exemples concrets auxquels le lecteur s'identifie
@@ -475,7 +479,7 @@ PERSONNAGE DE L'HISTOIRE :
 - Situation : {combo['prenom']} vit une situation liée à "{combo['sujet']}" dans le contexte "{combo['contexte']}"
 
 CONSIGNES SPÉCIFIQUES :
-1. Commence par plonger le lecteur dans une scène de la vie de {combo['prenom']} (3-4 paragraphes immersifs)
+1. Commence par plonger le lecteur dans une scène de la vie de {combo['prenom']} (3-4 paragraphes immersifs). IMPORTANT : raconte l'histoire AU PRÉSENT, comme si elle se déroule sous les yeux du lecteur en ce moment même. {combo['prenom']} vit la situation en temps réel.
 2. Fais le lien entre la situation de {combo['prenom']} et le concept de "{combo['sujet']}"
 3. Explique le concept de manière simple et accessible, avec sa définition claire
 4. Montre comment ce concept se manifeste dans le contexte "{combo['contexte']}" avec d'autres exemples
@@ -484,6 +488,91 @@ CONSIGNES SPÉCIFIQUES :
 7. Conclus avec un message d'espoir et une invitation à réfléchir sur soi
 
 MOT-CLÉ SEO À OPTIMISER : {combo['sujet']} {combo['contexte']}"""
+
+
+# ============================================
+# GEMINI : VÉRIFICATION DES TIRETS CADRATINS
+# ============================================
+
+EMDASH = "\u2014"  # —
+ENDASH = "\u2013"  # –
+
+
+def call_gemini_dash_fix(content):
+    """Appelle Gemini pour reformuler les passages contenant des tirets cadratins ou semi-cadratins utilisés comme ponctuation."""
+    system_prompt = (
+        "Tu es un correcteur linguistique français expert. "
+        "On te donne un article de blog en Markdown. "
+        "Ton UNIQUE tâche : repérer tous les tirets cadratins (\u2014) et semi-cadratins (\u2013) "
+        "utilisés comme PONCTUATION dans le texte "
+        "et reformuler ces passages pour les remplacer par une ponctuation française standard "
+        "(virgules, parenthèses, deux-points, points). "
+        "ATTENTION : les traits d'union dans les mots composés (ex : moi-même, peut-être, c'est-à-dire) "
+        "doivent être CONSERVÉS tels quels, ce sont des traits d'union normaux (-), pas des tirets de ponctuation. "
+        "Tu dois retourner l'article COMPLET avec les corrections appliquées, "
+        "sans rien supprimer ni modifier d'autre. "
+        "Conserve tout le formatage Markdown intact (titres, listes, gras, italique, etc.). "
+        "Ne rajoute AUCUN commentaire, AUCUNE explication. Retourne UNIQUEMENT l'article corrigé."
+    )
+
+    user_prompt = (
+        "Voici l'article à corriger. Remplace chaque tiret cadratin (\u2014) et semi-cadratin (\u2013) "
+        "utilisé comme ponctuation par une reformulation "
+        "naturelle avec une ponctuation standard (virgule, parenthèse, deux-points, point). "
+        "Ne touche PAS aux traits d'union dans les mots composés. "
+        "Retourne l'article complet corrigé, rien d'autre :\n\n"
+        f"{content}"
+    )
+
+    return call_mammouth_api(
+        model=MODEL_ANALYST,
+        system_prompt=system_prompt,
+        user_prompt=user_prompt,
+        temperature=0.3,
+        max_tokens=4500,
+        retries=2
+    )
+
+
+def _count_punctuation_dashes(content):
+    """Compte les tirets cadratins et semi-cadratins utilisés comme ponctuation (entourés d'espaces)."""
+    import re
+    # Tirets entourés d'espaces = ponctuation (pas des traits d'union dans des mots composés)
+    pattern = r' [–—] '
+    return len(re.findall(pattern, content))
+
+
+def verify_and_fix_emdashes(content, combo):
+    """Vérifie et corrige les tirets cadratins et semi-cadratins utilisés comme ponctuation."""
+    dash_count = _count_punctuation_dashes(content)
+
+    if dash_count == 0:
+        print(f"  [Vérification] OK : aucun tiret de ponctuation détecté")
+        return content
+
+    print(f"  [Vérification] {dash_count} tiret(s) de ponctuation détecté(s), appel Gemini pour correction...")
+
+    try:
+        fixed_content = call_gemini_dash_fix(content)
+
+        if fixed_content:
+            remaining = _count_punctuation_dashes(fixed_content)
+            if remaining == 0:
+                print(f"  [Vérification] Gemini a corrigé tous les tirets de ponctuation avec succès")
+                return fixed_content
+            else:
+                print(f"  [Vérification] Gemini a laissé {remaining} tiret(s), fallback mécanique...")
+                import re
+                return re.sub(r' [–—] ', ', ', fixed_content)
+        else:
+            print(f"  [Vérification] Gemini n'a pas répondu, fallback mécanique...")
+            import re
+            return re.sub(r' [–—] ', ', ', content)
+
+    except Exception as e:
+        print(f"  [Vérification] Erreur Gemini: {e}, fallback mécanique...")
+        import re
+        return re.sub(r' [–—] ', ', ', content)
 
 
 # ============================================
@@ -643,6 +732,9 @@ def main():
 
         print(f"  Parsing de la reponse...")
         metadata, content = parse_article_response(raw_response)
+
+        # Étape 3.5 : Vérification et correction des tirets cadratins (—)
+        content = verify_and_fix_emdashes(content, combo)
 
         print(f"  Creation du fichier Hugo...")
         create_hugo_post(combo, metadata, content)

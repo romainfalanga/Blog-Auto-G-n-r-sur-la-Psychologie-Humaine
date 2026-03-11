@@ -1,28 +1,33 @@
 {{ define "main" }}
 <section class="hero">
   <h1>Comprends-toi mieux grâce à la psychologie humaine</h1>
-  <p class="tagline">Chaque jour, de nouvelles histoires pour décoder votre fonctionnement intérieur. Biais cognitifs, émotions, schémas répétitifs : découvrez pourquoi vous pensez, ressentez et agissez comme vous le faites.</p>
+  <p class="tagline">Chaque jour, trois personnages traversent des situations que vous connaissez peut-être : une pensée piégée par un biais cognitif, une émotion difficile à apprivoiser, un schéma qui se répète sans qu'on comprenne pourquoi. À travers ces histoires concrètes, nous explorons ensemble les mécanismes qui influencent vos pensées, les émotions qui guident vos choix, et les schémas répétitifs qui façonnent vos relations. La psychologie devient ainsi plus facile à comprendre, plus mémorable, et surtout plus utile au quotidien.</p>
 </section>
 
 <div class="container-wide">
   {{ range .Site.Sections }}
     {{ if eq .Section "posts" }}
-      {{ range .Sections }}
-      <section class="category-section">
+      {{ range .Sections.ByWeight }}
+      <section class="category-section reveal">
         <h2 class="category-section-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         <div class="articles-grid">
           {{ range first 3 .Pages }}
-          <div class="article-card">
-            <div class="card-meta">
-              <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
-              {{ if .Params.readingTime }} &middot; {{ .Params.readingTime }} min{{ end }}
+          <article class="article-card reveal-card">
+            <h3 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <div class="card-footer">
+              <div class="card-meta">
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+                {{ if .Params.readingTime }}
+                <span class="meta-sep">&middot;</span>
+                <span>{{ .Params.readingTime }} min</span>
+                {{ end }}
+              </div>
+              <a href="{{ .RelPermalink }}" class="card-read-more">Lire l'article</a>
             </div>
-            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-            <p class="card-excerpt">{{ .Summary | truncate 160 }}</p>
-          </div>
+          </article>
           {{ end }}
         </div>
-        <a href="{{ .RelPermalink }}" class="view-all">Voir tous les articles &rarr;</a>
+        <a href="{{ .RelPermalink }}" class="view-all">Voir tous les articles de la catégorie &laquo;&#8239;{{ .Title }}&#8239;&raquo;</a>
       </section>
       {{ end }}
     {{ end }}

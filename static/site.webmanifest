@@ -1,0 +1,27 @@
+{
+  "name": "Décode ton esprit",
+  "short_name": "Décode ton esprit",
+  "description": "Blog de psychologie vulgarisée pour mieux se comprendre soi-même",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAF8",
+  "theme_color": "#5BA8A0",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
