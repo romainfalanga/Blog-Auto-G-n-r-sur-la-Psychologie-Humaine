@@ -1061,6 +1061,66 @@
         "psychologie",
         "développement personnel"
       ]
+    },
+    {
+      "date": "2026-03-11",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet de halo",
+      "contexte": "face à une décision importante",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": "contrôlant(e)",
+      "prenom": "Céline",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Effet de halo face à une décision importante : erreurs à éviter",
+      "slug": "effet-de-halo-decision-importante",
+      "tags": [
+        "effet de halo",
+        "prise de décision",
+        "psychologie cognitive",
+        "gestion du stress",
+        "contrôle de soi"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "vide intérieur",
+      "contexte": "après une rupture amoureuse",
+      "angle": "comprendre ce que c'est (article explicatif)",
+      "profil": "dépendant(e) affectif(ve)",
+      "prenom": "Fabien",
+      "age": "adulte en pleine vie active (36-45 ans)",
+      "title": "Vide intérieur après une rupture amoureuse : comprendre et agir",
+      "slug": "vide-interieur-apres-rupture-amoureuse",
+      "tags": [
+        "vide intérieur",
+        "rupture amoureuse",
+        "dépendance affective",
+        "gestion émotions",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "contrôle de soi insuffisant",
+      "contexte": "au travail",
+      "angle": "les signes que vous êtes concerné(e)",
+      "profil": "hyperactif(ve) / TDAH",
+      "prenom": "Aïssatou",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Contrôle de soi insuffisant au travail : les signes à reconnaître",
+      "slug": "controle-de-soi-insuffisant-travail",
+      "tags": [
+        "contrôle de soi",
+        "TDAH",
+        "impulsivité",
+        "travail",
+        "gestion des émotions"
+      ]
     }
   ]
 }
