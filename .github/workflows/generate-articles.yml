@@ -38,5 +38,15 @@ jobs:
         run: |
           git config user.name "Article Bot"
           git config user.email "bot@decode-ton-esprit.com"
-          git add .
-          git diff --staged --quiet || (git commit -m "3 nouveaux articles - $(date +%Y-%m-%d)" && git pull --rebase && git push)
+          git add content/ scripts/matrice_combinaisons.json scripts/generated_topics.json
+          if git diff --staged --quiet; then
+            echo "Aucun changement détecté, rien à committer."
+            exit 0
+          fi
+          git commit -m "3 nouveaux articles - $(date +%Y-%m-%d)"
+          # Retry push up to 3 times in case of transient failures
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin main && break
+            echo "Tentative $i échouée, nouvelle tentative dans ${i}0 secondes..."
+            sleep $((i * 10))
+          done
