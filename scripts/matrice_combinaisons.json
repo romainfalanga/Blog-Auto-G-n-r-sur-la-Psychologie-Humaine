@@ -1001,6 +1001,66 @@
         "soutien",
         "psychologie vulgarisée"
       ]
+    },
+    {
+      "date": "2026-03-11",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet Zeigarnik",
+      "contexte": "en tant que manager",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "perfectionniste",
+      "prenom": "Mamadou",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Effet Zeigarnik en tant que manager : comment le détecter et le gérer",
+      "slug": "effet-zeigarnik-manager-perfectionniste",
+      "tags": [
+        "effet Zeigarnik",
+        "management",
+        "perfectionnisme",
+        "gestion du stress",
+        "contrôle des pensées"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "amertume",
+      "contexte": "en situation de conflit",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "empathe",
+      "prenom": "Adrien",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Amertume en situation de conflit : comprendre et agir",
+      "slug": "amertume-en-situation-de-conflit",
+      "tags": [
+        "amertume",
+        "gestion des émotions",
+        "empathie",
+        "conflit",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "les drivers/messages contraignants (sois parfait, fais plaisir, sois fort, dépêche-toi, fais des efforts)",
+      "contexte": "en période de reconversion professionnelle",
+      "angle": "comment s'en libérer concrètement",
+      "profil": "en burn-out",
+      "prenom": "Djamila",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Se libérer des drivers contraignants en reconversion pro",
+      "slug": "drivers-messages-contraignants-reconversion",
+      "tags": [
+        "drivers contraignants",
+        "reconversion professionnelle",
+        "burn-out",
+        "psychologie",
+        "développement personnel"
+      ]
     }
   ]
 }
