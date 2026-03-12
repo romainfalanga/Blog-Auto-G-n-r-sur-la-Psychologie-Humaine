@@ -739,28 +739,91 @@ def verify_article_structure(content, combo):
 # ============================================
 
 def parse_article_response(raw_response):
-    """Parse la réponse de l'API pour extraire les métadonnées et le contenu."""
-    lines = raw_response.strip().split("\n")
+    """Parse la réponse de l'API pour extraire les métadonnées et le contenu.
+    Gère plusieurs formats possibles de sortie GPT."""
+    cleaned = raw_response.strip()
+
+    # Enlever les backticks markdown si GPT a wrappé la réponse
+    if cleaned.startswith("```"):
+        cleaned = re.sub(r'^```(?:markdown)?\s*\n?', '', cleaned)
+        cleaned = re.sub(r'\n?```\s*$', '', cleaned)
+
+    lines = cleaned.split("\n")
 
     metadata = {}
     content_start = 0
 
+    # Patterns flexibles pour les métadonnées (gère espaces, **, #, etc.)
+    title_pattern = re.compile(r'^\s*\**\s*TITRE[_ ]SEO\s*\**\s*:\s*(.+)', re.IGNORECASE)
+    desc_pattern = re.compile(r'^\s*\**\s*META[_ ]DESCRIPTION\s*\**\s*:\s*(.+)', re.IGNORECASE)
+    slug_pattern = re.compile(r'^\s*\**\s*SLUG\s*\**\s*:\s*(.+)', re.IGNORECASE)
+    tags_pattern = re.compile(r'^\s*\**\s*TAGS\s*\**\s*:\s*(.+)', re.IGNORECASE)
+
     for i, line in enumerate(lines):
-        if line.startswith("TITRE_SEO:"):
-            metadata["title"] = line.replace("TITRE_SEO:", "").strip()
-        elif line.startswith("META_DESCRIPTION:"):
-            metadata["description"] = line.replace("META_DESCRIPTION:", "").strip()
-        elif line.startswith("SLUG:"):
-            metadata["slug"] = line.replace("SLUG:", "").strip()
-        elif line.startswith("TAGS:"):
-            metadata["tags"] = [t.strip() for t in line.replace("TAGS:", "").split(",")]
-        elif line.strip() == "---":
+        m = title_pattern.match(line)
+        if m:
+            metadata["title"] = m.group(1).strip().strip('"').strip("'")
+            continue
+        m = desc_pattern.match(line)
+        if m:
+            metadata["description"] = m.group(1).strip().strip('"').strip("'")
+            continue
+        m = slug_pattern.match(line)
+        if m:
+            metadata["slug"] = m.group(1).strip().strip('"').strip("'")
+            continue
+        m = tags_pattern.match(line)
+        if m:
+            raw_tags = m.group(1).strip()
+            metadata["tags"] = [t.strip().strip('"').strip("'") for t in raw_tags.split(",")]
+            continue
+        if line.strip() == "---":
             content_start = i + 1
             break
 
     content = "\n".join(lines[content_start:]).strip()
 
+    # Si aucun séparateur --- trouvé mais des métadonnées extraites,
+    # chercher le début du contenu après la dernière métadonnée
+    if content_start == 0 and metadata:
+        # Trouver la dernière ligne de métadonnée et prendre tout ce qui suit
+        last_meta_line = 0
+        for i, line in enumerate(lines):
+            if any(p.match(line) for p in [title_pattern, desc_pattern, slug_pattern, tags_pattern]):
+                last_meta_line = i
+        content = "\n".join(lines[last_meta_line + 1:]).strip()
+
     return metadata, content
+
+
+def validate_article(metadata, content, combo):
+    """Valide que l'article parsé est complet et conforme.
+    Retourne (True, message) si valide, (False, message) si invalide."""
+    issues = []
+
+    # Vérifier les métadonnées essentielles
+    if not metadata.get("title") or metadata["title"] == "Article du jour":
+        issues.append("titre manquant")
+    if not metadata.get("slug"):
+        issues.append("slug manquant")
+    if not metadata.get("description"):
+        issues.append("description manquante")
+    if not metadata.get("tags") or len(metadata.get("tags", [])) == 0:
+        issues.append("tags manquants")
+
+    # Vérifier la longueur du contenu (minimum 1000 mots)
+    word_count = len(content.split())
+    if word_count < 1000:
+        issues.append(f"contenu trop court ({word_count} mots, minimum 1000)")
+
+    # Vérifier la structure H2
+    h2_count = len(re.findall(r'^## ', content, re.MULTILINE))
+    if h2_count < 3:
+        issues.append(f"structure insuffisante ({h2_count} H2, minimum 3)")
+
+    if issues:
+        return False, "; ".join(issues)
+    return True, "OK"
 
 
 def create_hugo_post(combo, metadata, content):
@@ -879,18 +942,46 @@ def main():
         if combo.get('profil'):
             print(f"  Profil : {combo['profil']}")
 
-        print(f"  Appel GPT-5-mini pour redaction...")
-        article_prompt = build_article_prompt(combo)
-        raw_response = call_mammouth_api(
-            model=MODEL_WRITER,
-            system_prompt=system_prompt,
-            user_prompt=article_prompt,
-            temperature=0.85,
-            max_tokens=4500
-        )
+        # Rédaction avec retry si l'article est invalide
+        metadata = None
+        content = None
+        max_redaction_attempts = 3
 
-        print(f"  Parsing de la reponse...")
-        metadata, content = parse_article_response(raw_response)
+        for redaction_attempt in range(max_redaction_attempts):
+            attempt_label = f" (tentative {redaction_attempt + 1}/{max_redaction_attempts})" if redaction_attempt > 0 else ""
+            print(f"  Appel GPT-5-mini pour redaction{attempt_label}...")
+            article_prompt = build_article_prompt(combo)
+            raw_response = call_mammouth_api(
+                model=MODEL_WRITER,
+                system_prompt=system_prompt,
+                user_prompt=article_prompt,
+                temperature=0.85,
+                max_tokens=4500
+            )
+
+            if not raw_response:
+                print(f"  [Erreur] GPT n'a pas répondu, retry...")
+                continue
+
+            print(f"  Parsing de la reponse...")
+            metadata, content = parse_article_response(raw_response)
+
+            is_valid, validation_msg = validate_article(metadata, content, combo)
+            if is_valid:
+                print(f"  [Validation] Article valide : {len(content.split())} mots, {len(metadata.get('tags', []))} tags")
+                break
+            else:
+                print(f"  [Validation] Article INVALIDE : {validation_msg}")
+                if redaction_attempt < max_redaction_attempts - 1:
+                    print(f"  Nouvelle tentative de rédaction...")
+                else:
+                    print(f"  [Erreur] Échec après {max_redaction_attempts} tentatives, article ignoré pour cette catégorie")
+                    metadata = None
+                    content = None
+
+        if not metadata or not content:
+            print(f"  [SKIP] Catégorie {cat_key} ignorée (impossible de générer un article valide)")
+            continue
 
         # Étape 3.5 : Vérification et correction des tirets cadratins (—)
         content = verify_and_fix_emdashes(content, combo)
