@@ -1121,6 +1121,60 @@
         "travail",
         "gestion des émotions"
       ]
+    },
+    {
+      "date": "2026-03-12",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "lecture de pensée",
+      "contexte": "en couple",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "anxieux(se)",
+      "prenom": "Céline",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "",
+      "slug": "",
+      "tags": []
+    },
+    {
+      "date": "2026-03-12",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "déception",
+      "contexte": "après un échec",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "perfectionniste",
+      "prenom": "Virginie",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Déception après un échec : comprendre et rebondir",
+      "slug": "deception-apres-echec",
+      "tags": [
+        "déception",
+        "échec",
+        "perfectionnisme",
+        "émotions",
+        "résilience"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "isolement social/aliénation",
+      "contexte": "en société et dans les interactions sociales",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "introverti(e)",
+      "prenom": "Camille",
+      "age": "adulte en pleine vie active (36-45 ans)",
+      "title": "Isolement social/aliénation en société : comprendre et agir",
+      "slug": "isolement-social-alienation",
+      "tags": [
+        "isolement social",
+        "aliénation",
+        "introversion",
+        "enfance",
+        "relations sociales"
+      ]
     }
   ]
 }
