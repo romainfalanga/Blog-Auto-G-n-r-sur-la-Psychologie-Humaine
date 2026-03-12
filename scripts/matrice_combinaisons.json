@@ -1301,6 +1301,66 @@
         "mi-vie",
         "thérapie"
       ]
+    },
+    {
+      "date": "2026-03-12",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais rétrospectif",
+      "contexte": "après un succès",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "perfectionniste",
+      "prenom": "Amandine",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Comment le biais rétrospectif après un succès te piège",
+      "slug": "biais-retrospectif-apres-succes",
+      "tags": [
+        "biais rétrospectif",
+        "perfectionnisme",
+        "psychologie",
+        "prise de recul",
+        "développement personnel"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "embarras",
+      "contexte": "en société et dans les interactions sociales",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "timide",
+      "prenom": "Raphaël",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Embarras en société : comprendre la gêne et agir",
+      "slug": "embarras-en-societe-interactions",
+      "tags": [
+        "embarras",
+        "timidité",
+        "interactions sociales",
+        "gestion émotions",
+        "psychologie sociale"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "échec",
+      "contexte": "après un échec",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": "procrastinateur(trice)",
+      "prenom": "Anaïs",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Échec après un échec : comprendre ses causes profondes",
+      "slug": "echec-apres-un-echec",
+      "tags": [
+        "échec",
+        "procrastination",
+        "résilience",
+        "psychologie",
+        "auto-compassion"
+      ]
     }
   ]
 }
