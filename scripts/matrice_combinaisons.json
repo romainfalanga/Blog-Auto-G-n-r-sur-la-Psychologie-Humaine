@@ -1241,6 +1241,66 @@
         "assertivité",
         "santé-mentale"
       ]
+    },
+    {
+      "date": "2026-03-12",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet IKEA",
+      "contexte": "lors d'un entretien d'embauche",
+      "angle": "les idées reçues et mythes à déconstruire",
+      "profil": null,
+      "prenom": "Jérémie",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Effet IKEA lors d'un entretien d'embauche : mythes à déconstruire",
+      "slug": "effet-ikea-entretien-embauche",
+      "tags": [
+        "effet IKEA",
+        "entretien d'embauche",
+        "biais cognitif",
+        "confiance en soi",
+        "techniques pratiques"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "impuissance",
+      "contexte": "lors d'un deuil",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "hypersensible",
+      "prenom": "Quentin",
+      "age": "adulte en pleine vie active (36-45 ans)",
+      "title": "Impuissance lors d'un deuil : comprendre et reprendre la main",
+      "slug": "impuissance-deuil-reprendre-main",
+      "tags": [
+        "impuissance",
+        "deuil",
+        "hypersensibilité",
+        "gestion-des-emotions",
+        "résilience"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "génogramme simplifié",
+      "contexte": "seul(e) face à soi-même",
+      "angle": "les signes que vous êtes concerné(e)",
+      "profil": null,
+      "prenom": "Karim",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Génogramme simplifié seul(e) face à soi-même",
+      "slug": "genogramme-simplifie-seul-face-a-soi",
+      "tags": [
+        "génogramme",
+        "schémas familiaux",
+        "introspection",
+        "mi-vie",
+        "thérapie"
+      ]
     }
   ]
 }
