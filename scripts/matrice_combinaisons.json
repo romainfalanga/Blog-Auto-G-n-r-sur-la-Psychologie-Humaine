@@ -1181,6 +1181,66 @@
         "enfance",
         "relations sociales"
       ]
+    },
+    {
+      "date": "2026-03-12",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "méthode ABCDE d'Ellis",
+      "contexte": "face à l'autorité",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "survivant(e) de relation toxique",
+      "prenom": "Simone",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Méthode ABCDE d'Ellis face à l'autorité, reprendre le contrôle",
+      "slug": "methode-abcde-autorite",
+      "tags": [
+        "méthode-ABCDE",
+        "autorité",
+        "enfance",
+        "relations-toxiques",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "vide intérieur",
+      "contexte": "face à une décision importante",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": "ancien(ne) enfant parentifié(e)",
+      "prenom": "Agathe",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Vide intérieur face à une décision importante : comprendre et agir",
+      "slug": "vide-interieur-decision-parentification",
+      "tags": [
+        "vide intérieur",
+        "parentification",
+        "émotions",
+        "prise de décision",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "le gaslighting et la manipulation psychologique",
+      "contexte": "en période de reconversion professionnelle",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Gérard",
+      "age": "adulte en pleine vie active (36-45 ans)",
+      "title": "Le gaslighting et la manipulation psychologique en reconversion pro",
+      "slug": "gaslighting-manipulation-reconversion",
+      "tags": [
+        "gaslighting",
+        "manipulation psychologique",
+        "reconversion professionnelle",
+        "assertivité",
+        "santé-mentale"
+      ]
     }
   ]
 }
