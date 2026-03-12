@@ -36,7 +36,7 @@ sys.path.insert(0, str(SCRIPT_DIR))
 
 MAMMOUTH_API_KEY = os.environ.get("MAMMOUTH_API_KEY")
 API_URL = "https://api.mammouth.ai/v1/chat/completions"
-MODEL_WRITER = "gpt-4.1-mini"
+MODEL_WRITER = "gpt-5-mini"
 MODEL_ANALYST = "gemini-3-flash-preview"
 SITE_NAME = "Décode ton esprit"
 
