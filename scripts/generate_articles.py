@@ -7,10 +7,13 @@ et en créant des fichiers Markdown Hugo.
 Flux :
 1. Charger la matrice des combinaisons déjà réalisées (scripts/matrice_combinaisons.json)
 2. Gemini analyse la matrice et suggère 3 nouvelles combinaisons uniques
-3. GPT-4.1-mini rédige les articles sur les suggestions de Gemini
+3. GPT-5-mini rédige les articles sur les suggestions de Gemini
 4. Gemini vérifie chaque article : si des tirets cadratins (—) sont détectés,
    Gemini reformule les passages concernés pour les supprimer
-5. La matrice est mise à jour avec les nouvelles combinaisons
+5. Gemini vérifie la structure H2/H3 et restructure si nécessaire
+6. Gemini effectue une relecture qualité globale de chaque article
+   (cohérence, suppression des tournures IA, qualité rédactionnelle)
+7. La matrice est mise à jour avec les nouvelles combinaisons
 """
 
 import os
@@ -595,6 +598,79 @@ def verify_and_fix_emdashes(content, combo):
 # VÉRIFICATION DE LA STRUCTURE H2/H3
 # ============================================
 
+def call_gemini_quality_review(content, combo):
+    """Appelle Gemini pour une relecture qualité globale de l'article.
+    Vérifie la cohérence, supprime les tournures IA, et optimise la rédaction."""
+    system_prompt = (
+        "Tu es un relecteur professionnel spécialisé en articles de blog psychologie. "
+        "On te donne un article de blog en Markdown. Tu dois effectuer une relecture complète :\n\n"
+        "1. COHÉRENCE : vérifie que l'article est cohérent du début à la fin. "
+        "Le personnage, son histoire, le concept psychologique et les techniques doivent former un tout logique. "
+        "Corrige toute incohérence (contradictions, changements de prénom, de situation, de ton).\n\n"
+        "2. STYLE IA : repère et reformule toutes les tournures qui sonnent artificielles ou générées par IA. "
+        "Exemples de formulations à éliminer : \"Il est important de noter que\", \"Dans notre société actuelle\", "
+        "\"Force est de constater\", \"Il convient de souligner\", \"En définitive\", \"Il est essentiel de\", "
+        "\"N'hésitez pas à\", \"Il est crucial de\", \"Dans un monde où\", \"Qui n'a jamais\", "
+        "\"Et si on vous disait que\", \"Vous l'aurez compris\". "
+        "Remplace-les par des formulations naturelles, humaines et chaleureuses.\n\n"
+        "3. QUALITÉ RÉDACTIONNELLE : corrige les maladresses de style, les répétitions excessives, "
+        "les phrases trop longues ou alambiquées. Assure-toi que le ton reste accessible, empathique et bienveillant.\n\n"
+        "4. PONCTUATION : vérifie qu'il n'y a aucun tiret cadratin (—) ni semi-cadratin (–) utilisé comme ponctuation. "
+        "Si tu en trouves, reformule avec des virgules, parenthèses ou deux-points.\n\n"
+        "RÈGLES ABSOLUES :\n"
+        "- Conserve TOUTE la structure Markdown (titres H2, H3, listes, gras, italique, séparateur ---)\n"
+        "- Ne supprime AUCUNE section, ne raccourcis PAS l'article\n"
+        "- Conserve le même personnage, la même histoire, les mêmes techniques\n"
+        "- Retourne l'article COMPLET corrigé, rien d'autre. Aucun commentaire, aucune explication."
+    )
+
+    user_prompt = (
+        f"Voici un article sur \"{combo['sujet']}\" dans le contexte \"{combo['contexte']}\" "
+        f"avec le personnage {combo['prenom']} ({combo['age']}). "
+        f"Effectue une relecture qualité complète (cohérence, style IA, qualité rédactionnelle, ponctuation). "
+        f"Retourne l'article complet corrigé :\n\n{content}"
+    )
+
+    return call_mammouth_api(
+        model=MODEL_ANALYST,
+        system_prompt=system_prompt,
+        user_prompt=user_prompt,
+        temperature=0.3,
+        max_tokens=4500,
+        retries=2
+    )
+
+
+def gemini_quality_review(content, combo):
+    """Phase de relecture qualité par Gemini : cohérence, style IA, qualité rédactionnelle."""
+    print(f"  [Qualité] Relecture globale par Gemini...")
+
+    try:
+        reviewed = call_gemini_quality_review(content, combo)
+
+        if reviewed:
+            # Vérifier que Gemini n'a pas cassé la structure
+            h2_before = len(re.findall(r'^## ', content, re.MULTILINE))
+            h2_after = len(re.findall(r'^## ', reviewed, re.MULTILINE))
+            len_before = len(content.split())
+            len_after = len(reviewed.split())
+
+            # Accepter si la structure est préservée et la longueur raisonnable (pas moins de 70% de l'original)
+            if h2_after >= h2_before and len_after >= len_before * 0.7:
+                print(f"  [Qualité] Relecture terminée ({len_before} → {len_after} mots, structure préservée)")
+                return reviewed
+            else:
+                print(f"  [Qualité] Gemini a altéré la structure (H2: {h2_before}→{h2_after}, mots: {len_before}→{len_after}), conservation de l'original")
+                return content
+        else:
+            print(f"  [Qualité] Gemini n'a pas répondu, conservation de l'original")
+            return content
+
+    except Exception as e:
+        print(f"  [Qualité] Erreur Gemini: {e}, conservation de l'original")
+        return content
+
+
 def verify_article_structure(content, combo):
     """Vérifie que l'article contient la structure H2/H3 obligatoire et le séparateur ---.
     Si la structure est insuffisante, demande à Gemini de restructurer l'article."""
@@ -803,7 +879,7 @@ def main():
         if combo.get('profil'):
             print(f"  Profil : {combo['profil']}")
 
-        print(f"  Appel GPT-4.1-mini pour redaction...")
+        print(f"  Appel GPT-5-mini pour redaction...")
         article_prompt = build_article_prompt(combo)
         raw_response = call_mammouth_api(
             model=MODEL_WRITER,
@@ -821,6 +897,9 @@ def main():
 
         # Étape 3.6 : Vérification de la structure H2/H3 obligatoire
         content = verify_article_structure(content, combo)
+
+        # Étape 3.7 : Relecture qualité globale par Gemini (cohérence, style IA, rédaction)
+        content = gemini_quality_review(content, combo)
 
         print(f"  Creation du fichier Hugo...")
         create_hugo_post(combo, metadata, content)
