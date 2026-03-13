@@ -1361,6 +1361,46 @@
         "psychologie",
         "auto-compassion"
       ]
+    },
+    {
+      "date": "2026-03-13",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet de simple exposition",
+      "contexte": "sur les réseaux sociaux",
+      "angle": "comment s'en libérer concrètement",
+      "profil": "survivant(e) de relation toxique",
+      "prenom": "Adrien",
+      "age": "adulte en bilan de mi-vie (46-55 ans)",
+      "title": "Se libérer de l'effet de simple exposition sur les réseaux sociaux",
+      "slug": "effet-simple-exposition-reseaux",
+      "tags": [
+        "effet-de-simple-exposition",
+        "reseaux-sociaux",
+        "relations-toxiques",
+        "autoprotection",
+        "psychologie"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "manque affectif",
+      "contexte": "dans l'intimité et la sexualité",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "évitant(e)",
+      "prenom": "Bernard",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Manque affectif dans l'intimité et la sexualité",
+      "slug": "manque-affectif-intimite-sexualite",
+      "tags": [
+        "manque affectif",
+        "intimité",
+        "sexualité",
+        "attachement évitant",
+        "enfance"
+      ]
     }
   ]
 }
