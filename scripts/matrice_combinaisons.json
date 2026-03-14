@@ -1401,6 +1401,66 @@
         "attachement évitant",
         "enfance"
       ]
+    },
+    {
+      "date": "2026-03-14",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "catastrophisation (dramatisation)",
+      "contexte": "en couple",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "anxieux(se)",
+      "prenom": "Thibault",
+      "age": "jeune adulte (20-25 ans)",
+      "title": "Catastrophisation en couple : repérer et l'apaiser",
+      "slug": "catastrophisation-en-couple-apaiser",
+      "tags": [
+        "catastrophisation",
+        "anxiété",
+        "couple",
+        "psychologie",
+        "TCC"
+      ]
+    },
+    {
+      "date": "2026-03-14",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "envie",
+      "contexte": "en amitié",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "perfectionniste",
+      "prenom": "Maxime",
+      "age": "adulte en construction (26-35 ans)",
+      "title": "Envie en amitié : comprendre et agir quand ça serre",
+      "slug": "envie-en-amitie",
+      "tags": [
+        "envie",
+        "amitié",
+        "perfectionnisme",
+        "émotions",
+        "gestion-des-émotions"
+      ]
+    },
+    {
+      "date": "2026-03-14",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "droits personnels excessifs/grandiosité",
+      "contexte": "au travail",
+      "angle": "les signes que vous êtes concerné(e)",
+      "profil": "haut potentiel intellectuel (HPI)",
+      "prenom": "Simone",
+      "age": "adulte en pleine vie active (36-45 ans)",
+      "title": "Droits personnels excessifs/grandiosité au travail : signes chez HPI",
+      "slug": "grandiosite-droits-excessifs-travail",
+      "tags": [
+        "grandiosité",
+        "droits-personnels",
+        "narcissisme-professionnel",
+        "HPI",
+        "gestion-des-emotions"
+      ]
     }
   ]
 }
