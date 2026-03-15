@@ -13,19 +13,19 @@ contexte: "en tant que manager"
 draft: false
 ---
 
-Margot regarde fixement l’écran de son ordinateur. La réunion qu’il anime s’éternise, les voix s’entremêlent et les idées tournent en rond. Son regard se perd dans le vide, ses pensées vagabondent loin des chiffres et des rapports à analyser. Il sent une lourdeur s’installer dans sa poitrine, une sorte de vide intérieur qu’il n’arrive pas à ignorer. Le temps semble s’étirer, chaque seconde pesante s’accumule sur son épaule. Autour de lui, ses collègues discutent, mais pour Margot, tout paraît fade, sans saveur. C’est comme si la passion qui l’animait autrefois s’était éteinte, lentement, dans cet environnement qu’il connaît par cœur.  
+Margot regarde fixement l’écran de son ordinateur. La réunion qu’elle anime s’éternise, les voix s’entremêlent et les idées tournent en rond. Son regard se perd dans le vide, ses pensées vagabondent loin des chiffres et des rapports à analyser. Elle sent une lourdeur s’installer dans sa poitrine, une sorte de vide intérieur qu’elle n’arrive pas à ignorer. Le temps semble s’étirer, chaque seconde pesante s’accumule sur son épaule. Autour de lui, ses collègues discutent, mais pour Margot, tout paraît fade, sans saveur. C’est comme si la passion qui l’animait autrefois s’était éteinte, lentement, dans cet environnement qu’elle connaît par cœur.  
 
-Il jette un coup d’œil à sa montre. Encore deux heures avant la fin de la journée. Deux heures à supporter ce sentiment d’ennui qui le ronge. Margot, 62 ans, manager expérimenté, ressent cette lassitude profonde qui dépasse la simple fatigue. Il se surprend à rêver d’un projet nouveau, d’un défi stimulant, d’un changement qui redonnerait du sens à son travail. Mais pour l’instant, rien ne vient. Juste cet ennui qui s’installe et qui, petit à petit, sape son énergie.  
+Elle jette un coup d’œil à sa montre. Encore deux heures avant la fin de la journée. Deux heures à supporter ce sentiment d’ennui qui le ronge. Margot, 52 ans, manager expérimenté, ressent cette lassitude profonde qui dépasse la simple fatigue. Elle se surprend à rêver d’un projet nouveau, d’un défi stimulant, d’un changement qui redonnerait du sens à son travail. Mais pour l’instant, rien ne vient. Juste cet ennui qui s’installe et qui, petit à petit, sape son énergie.  
 
 L’ennui, qu’est-ce que c’est exactement ? Pour Margot, c’est un signal. Un indicateur que quelque chose ne fonctionne plus dans sa manière de vivre son rôle de manager. Ce n’est pas seulement une émotion désagréable, c’est un état psychologique bien défini que la psychologie humaine décrit comme le malaise ressenti lorsqu’une activité manque de stimulation, d’intérêt ou de sens.  
 
 ### Qu’est-ce que l’ennui ?  
 
-L’ennui se manifeste lorsque nous manquons de stimulation cognitive ou émotionnelle, ce qui provoque un état d’insatisfaction et d’agitation mentale. Selon les chercheurs, comme le psychologue John Eastwood, l’ennui est une « émotion résultant d’un conflit entre le désir de s’engager dans une activité et l’incapacité à y parvenir ». En clair, notre cerveau cherche un défi, une nouveauté, une raison d’être intéressé, mais il ne trouve rien.  
+L’ennui se manifeste lorsque nous manquons de stimulation cognitive ou émotionnelle, ce qui provoque un état d’insatisfaction et d’agitation mentale. Selon les chercheurs, comme le psychologue John Eastwood, l’ennui est une « émotion résultant d’un conflit entre le désir de s’engager dans une activité et l’incapacité à y parvenir ». En clair, notre cerveau cherche un défi, une nouveauté, une raison d’être intéressé, mais elle ne trouve rien.  
 
 Dans le contexte professionnel, en particulier chez les managers seniors comme Margot, l’ennui peut refléter une routine trop rigide, un manque de défis ou une perte de sens dans les missions quotidiennes. Ce sentiment peut entraîner démotivation, stress et même un désengagement progressif.  
 
-### Comment l’ennui se manifeste-t-il en tant que manager ?  
+### Comment l’ennui se manifeste-t-elle en tant que manager ?  
 
 Pour Margot, l’ennui prend la forme de réunions interminables où peu d’idées nouvelles émergent, ou de tâches répétitives qui ne sollicitent plus sa créativité. Mais ce n’est pas une situation isolée. Voici d’autres exemples typiques que vivent les managers :  
 
@@ -50,14 +50,14 @@ Que peut faire Margot, et vous aussi, pour transformer cet ennui en opportunité
 
 ### Margot reprend le contrôle  
 
-Quelques semaines plus tard, Margot entame une nouvelle habitude : chaque matin, il se réserve un quart d’heure pour écrire dans un carnet. Il note ses motivations, ses doutes, ses idées pour redynamiser son équipe. Il décide aussi d’expérimenter une nouvelle formule de réunion, plus interactive et participative. Peu à peu, il sent son esprit s’éveiller. Le poids de l’ennui s’allège, remplacé par une curiosité renouvelée.  
+Quelques semaines plus tard, Margot entame une nouvelle habitude : chaque matin, elle se réserve un quart d’heure pour écrire dans un carnet. Elle note ses motivations, ses doutes, ses idées pour redynamiser son équipe. Elle décide aussi d’expérimenter une nouvelle formule de réunion, plus interactive et participative. Peu à peu, elle sent son esprit s’éveiller. Le poids de l’ennui s’allège, remplacé par une curiosité renouvelée.  
 
-Lors d’une séance de coaching, il s’initie à la pleine conscience. Lorsqu’il sent l’ennui pointer, il s’autorise à le reconnaître sans frustration. Cette acceptation lui permet de mieux se recentrer, de retrouver un équilibre entre action et repos mental.  
+Lors d’une séance de coaching, elle s’initie à la pleine conscience. Lorsqu’elle sent l’ennui pointer, elle s’autorise à le reconnaître sans frustration. Cette acceptation lui permet de mieux se recentrer, de retrouver un équilibre entre action et repos mental.  
 
-Margot comprend que l’ennui n’est pas un ennemi, mais un signal précieux qui l’invite à repenser son rapport au travail et à lui-même.  
+Margot comprend que l’ennui n’est pas un ennemi, mais un signal précieux qui l’invite à repenser son rapport au travail et à elle-même.  
 
 ### En conclusion : et vous ?  
 
-L’ennui en tant que manager n’est pas une fatalité, mais une invitation à l’introspection et au changement. Il peut devenir un moteur de croissance personnelle et professionnelle si on sait l’écouter. Peut-être ressentez-vous, comme Margot, ce vide qui s’installe dans votre journée. Plutôt que de le subir, pourquoi ne pas le considérer comme un appel à redéfinir ce qui compte vraiment pour vous ?  
+L’ennui en tant que manager n’est pas une fatalité, mais une invitation à l’introspection et au changement. Elle peut devenir un moteur de croissance personnelle et professionnelle si on sait l’écouter. Peut-être ressentez-vous, comme Margot, ce vide qui s’installe dans votre journée. Plutôt que de le subir, pourquoi ne pas le considérer comme un appel à redéfinir ce qui compte vraiment pour vous ?  
 
 N’oubliez pas que chaque émotion, même l’ennui, porte en elle une richesse à découvrir. Si ce sentiment devient trop lourd ou envahissant, n’hésitez pas à consulter un professionnel pour vous accompagner dans votre cheminement. Vous avez en vous les ressources pour transformer cette étape en une nouvelle dynamique de vie.

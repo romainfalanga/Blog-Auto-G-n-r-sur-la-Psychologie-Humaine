@@ -13,17 +13,17 @@ contexte: "en couple"
 draft: false
 ---
 
-Camille reçoit un message et son cœur se serre avant même d'allumer l'écran. Il fixe la notification, l'odeur du café froid dans la cuisine remonte jusqu'à lui, et son esprit commence à dérouler un film où chaque détail devient la preuve d'un désastre imminent. "Si elle part, tout mon monde s'écroule", pense-t-il. Sa gorge se noue, comme si l'air venait à manquer.
+Camille reçoit un message et son cœur se serre avant même d'allumer l'écran. Elle fixe la notification, l'odeur du café froid dans la cuisine remonte jusqu'à lui, et son esprit commence à dérouler un film où chaque détail devient la preuve d'un désastre imminent. "Si elle part, tout mon monde s'écroule", pense-t-elle. Sa gorge se noue, comme si l'air venait à manquer.
 
-Il relit la petite phrase banale de sa compagne, la décortique, et la projette à nouveau dans sa tête avec des sous-titres alarmistes. La voix intérieure lui murmure des scénarios sombres qui s'enchaînent : disputes, rupture, solitude. Ses mains sur le téléphone sont légèrement moites et la pièce semble soudain plus étroite. Il sait au fond de lui que c'est excessif, pourtant l'image d'un départ irréversible s'impose, vive comme un éclair.
+Elle relit la petite phrase banale de sa compagne, la décortique, et la projette à nouveau dans sa tête avec des sous-titres alarmistes. La voix intérieure lui murmure des scénarios sombres qui s'enchaînent : disputes, rupture, solitude. Ses mains sur le téléphone sont légèrement moites et la pièce semble soudain plus étroite. Elle sait au fond de lui que c'est excessif, pourtant l'image d'un départ irréversible s'impose, vive comme un éclair.
 
-Dans le salon, la sonnette le ramène au présent. Sa compagne entre, sourit tranquillement, et il se surprend à guetter un reproche ou un signe d'indifférence qui ne vient pas. Il ressent un soulagement immédiat mêlé à une fatigue lourde, le prix que son corps paie pour cette alerte constante. Camille aimerait que cela s'arrête, mais il ne sait pas toujours à quel moment ses pensées basculent de la simple préoccupation au scénario catastrophe.
+Dans le salon, la sonnette le ramène au présent. Sa compagne entre, sourit tranquillement, et elle se surprend à guetter un reproche ou un signe d'indifférence qui ne vient pas. Elle ressent un soulagement immédiat mêlé à une fatigue lourde, le prix que son corps paie pour cette alerte constante. Camille aimerait que cela s'arrête, mais elle ne sait pas toujours à quel moment ses pensées basculent de la simple préoccupation au scénario catastrophe.
 
 ## Qu'est-ce que la catastrophisation ?
 
 La catastrophisation, ou dramatisation, est cette tendance à imaginer systématiquement le pire et à amplifier la portée négative d'un événement.
 
-Ce concept s'inscrit dans les distorsions cognitives décrites par Aaron T. Beck, psychologue et pionnier de la thérapie cognitive. Il a mis en lumière la façon dont nos pensées automatiques influencent nos émotions et nos comportements. Beck a observé que face à une situation neutre ou ambiguë, certaines personnes exagèrent les conséquences négatives, créant ainsi un cercle vicieux d'anxiété et d'évitement.
+Ce concept s'inscrit dans les distorsions cognitives décrites par Aaron T. Beck, psychologue et pionnier de la thérapie cognitive. Elle a mis en lumière la façon dont nos pensées automatiques influencent nos émotions et nos comportements. Beck a observé que face à une situation neutre ou ambiguë, certaines personnes exagèrent les conséquences négatives, créant ainsi un cercle vicieux d'anxiété et d'évitement.
 
 Pour Camille, la catastrophisation colore chaque silence ou message bref d'une nuance apocalyptique. Les recherches montrent que ces schémas de pensée sont fréquents chez les personnes anxieuses et qu'ils maintiennent le cerveau dans un état d'alerte permanent. Les thérapies cognitives et comportementales (TCC) indiquent qu'en travaillant sur ces pensées, on parvient à apaiser l'anxiété et à retrouver des relations plus sereines.
 
@@ -31,7 +31,7 @@ Pour Camille, la catastrophisation colore chaque silence ou message bref d'une n
 
 ### 1. Le silence interprété comme un rejet
 
-Camille perçoit un silence de quelques heures comme un signe de rupture. Quand sa partenaire met du temps à répondre, il imagine qu'elle est en colère, qu'elle s'ennuie ou qu'elle prépare son départ. Ce mécanisme transforme un simple délai en une preuve de désintérêt.
+Camille perçoit un silence de quelques heures comme un signe de rupture. Quand sa partenaire met du temps à répondre, elle imagine qu'elle est en colère, qu'elle s'ennuie ou qu'elle prépare son départ. Ce mécanisme transforme un simple délai en une preuve de désintérêt.
 
 Exemples :
 - Un message non lu devient le signe d'un manque d'affection.
@@ -72,7 +72,7 @@ Exercice concret :
 - Dès qu'une pensée comme "Elle va me quitter" apparaît, notez-la.
 - Posez-vous trois questions : Quelles sont les preuves concrètes qui soutiennent cette idée ? Quelles sont les preuves du contraire ? Quelle est la probabilité réelle que cela arrive (de 0 à 100 %) ?
 - Cherchez des contre-exemples : un moment complice récent, un projet commun, un geste tendre.
-- Remplacez la pensée initiale par une vision plus nuancée : "Je suis inquiet parce qu'elle ne répond pas, mais cela ne signifie pas qu'elle veut rompre."
+- Remplacez la pensée initiale par une vision plus nuancée : "Je suis inquiète parce qu'elle ne répond pas, mais cela ne signifie pas qu'elle veut rompre."
 
 Durée : 5 à 10 minutes sur le moment. Relire ses notes le soir aide à faire redescendre la pression.
 
@@ -98,7 +98,7 @@ Pourquoi ça marche : La respiration profonde calme le système nerveux, tandis 
 Explication pratique : La dramatisation se nourrit souvent du flou et des suppositions. Une communication sincère permet d'exprimer son inquiétude sans attaquer l'autre, afin d'obtenir des éclaircissements rassurants.
 
 Exercice concret (en 3 étapes) :
-- Étape 1, parler de soi : Exprimez votre ressenti sans accuser. Par exemple : "Quand je reçois un message très court, je me sens un peu inquiet."
+- Étape 1, parler de soi : Exprimez votre ressenti sans accuser. Par exemple : "Quand je reçois un message très court, je me sens un peu inquiète."
 - Étape 2, exprimer le besoin : Précisez ce qui vous aiderait. "J'ai besoin d'être rassuré sur le fait que tout va bien entre nous, même quand tu es très occupée."
 - Étape 3, ouvrir le dialogue : Posez une question ouverte. "Comment vis-tu ces moments où tu n'as pas le temps de répondre ?"
 
@@ -108,18 +108,18 @@ Pourquoi ça marche : Cette approche évite que l'autre se sente agressé. Elle 
 
 ## Camille commence à prendre du recul
 
-La première fois que Camille a testé la mise à l'épreuve de ses pensées, il a été surpris. Assis sur son canapé, il a écrit "Elle va me quitter" et s'est forcé à lister les preuves. Il a réalisé qu'il n'avait que trois indices très fragiles face à neuf preuves du contraire. La tension dans sa poitrine a diminué, comme si une pression s'évacuait enfin.
+La première fois que Camille a testé la mise à l'épreuve de ses pensées, elle a été surprise. Assise sur son canapé, elle a écrit "Elle va me quitter" et s'est forcée à lister les preuves. Elle a réalisé qu'elle n'avait que trois indices très fragiles face à neuf preuves du contraire. La tension dans sa poitrine a diminué, comme si une pression s'évacuait enfin.
 
-Le lendemain, il a essayé la respiration profonde après avoir reçu un message un peu sec. Il a inspiré, compté, puis s'est concentré sur le bruit de la rue et la couleur de ses rideaux. Le téléphone était toujours là, mais la panique n'a pas pris le dessus. Il s'est senti plus ancré, moins emporté par ses peurs.
+Le lendemain, elle a essayé la respiration profonde après avoir reçu un message un peu sec. Elle a inspiré, compté, puis s'est concentrée sur le bruit de la rue et la couleur de ses rideaux. Le téléphone était toujours là, mais la panique n'a pas pris le dessus. Elle s'est senti plus ancré, moins emporté par ses peurs.
 
-Plus tard, il a osé la communication vulnérable. Il a dit à sa compagne, d'une voix posée : "Quand tu réponds tard, je me sens parfois de côté et j'ai peur que tu t'éloignes. Est-ce que tu peux m'expliquer comment ça se passe pour toi dans ces moments-là ?" Elle l'a écouté et lui a expliqué son stress au travail, qui n'avait aucun lien avec lui. Entendre cette explication simple a balayé les doutes qu'il portait depuis des jours.
+Plus tard, elle a osé la communication vulnérable. Elle a dit à sa compagne, d'une voix posée : "Quand tu réponds tard, je me sens parfois de côté et j'ai peur que tu t'éloignes. Est-ce que tu peux m'expliquer comment ça se passe pour toi dans ces moments-là ?" Elle l'a écouté et lui a expliqué son stress au travail, qui n'avait aucun lien avec lui. Entendre cette explication simple a balayé les doutes qu'elle portait depuis des jours.
 
-Ces progrès demandent de la régularité. Camille remarque qu'il lui arrive encore de s'inquiéter, mais il reconnaît le mécanisme beaucoup plus vite. Il tient désormais un petit carnet pour transformer ses pensées sombres en réflexions plus réalistes. Chaque page remplie est une petite victoire sur son anxiété.
+Ces progrès demandent de la régularité. Camille remarque qu'elle lui arrive encore de s'inquiéter, mais elle reconnaît le mécanisme beaucoup plus vite. Elle tient désormais un petit carnet pour transformer ses pensées sombres en réflexions plus réalistes. Chaque page remplie est une petite victoire sur son anxiété.
 
 ---
 
-La catastrophisation dans le couple est un mécanisme éprouvant, mais il est possible de s'en libérer. En comprenant comment ces pensées fonctionnent, en apaisant son corps et en apprenant à parler de ses fragilités, on retrouve de la sérénité et de la présence dans la relation.
+La catastrophisation dans le couple est un mécanisme éprouvant, mais elle est possible de s'en libérer. En comprenant comment ces pensées fonctionnent, en apaisant son corps et en apprenant à parler de ses fragilités, on retrouve de la sérénité et de la présence dans la relation.
 
 Si vous vous reconnaissez dans le parcours de Camille, vous pouvez commencer par un geste simple : notez une pensée qui vous inquiète aujourd'hui et passez-la au filtre de la réalité. Chaque petit pas aide à construire de nouvelles habitudes plus douces.
 
-Sachez qu'il est tout à fait naturel de solliciter un soutien extérieur. Si l'anxiété reste trop lourde malgré vos efforts, un professionnel (psychologue ou thérapeute spécialisé) pourra vous proposer un accompagnement sur mesure. Il est possible d'apprendre à vivre avec moins de crainte et plus de confiance, un jour après l'autre.
+Sachez qu'elle est tout à fait naturel de solliciter un soutien extérieur. Si l'anxiété reste trop lourde malgré vos efforts, un professionnel (psychologue ou thérapeute spécialisé) pourra vous proposer un accompagnement sur mesure. Elle est possible d'apprendre à vivre avec moins de crainte et plus de confiance, un jour après l'autre.

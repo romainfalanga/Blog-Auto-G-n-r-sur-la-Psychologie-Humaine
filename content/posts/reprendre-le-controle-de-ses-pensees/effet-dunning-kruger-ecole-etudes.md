@@ -13,11 +13,11 @@ contexte: "à l'école ou aux études"
 draft: false
 ---
 
-Lucas serre la main moite, son cœur battant un rythme effréné. Elle vient de terminer sa présentation devant sa classe de master en sciences cognitives. Malgré des heures passées à préparer ses notes, à peaufiner son diaporama, un doute s’installe : a-t-elle vraiment maîtrisé le sujet ? Pourtant, quelques jours plus tôt, elle était persuadée d’être parfaitement prête, confiante, presque arrogante dans sa compréhension. Ce contraste la trouble. Comment a-t-elle pu surestimer ses compétences si facilement ?  
+Lucas serre la main moite, son cœur battant un rythme effréné. Il vient de terminer sa présentation devant sa classe de master en sciences cognitives. Malgré des heures passés à préparer ses notes, à peaufiner son diaporama, un doute s’installe : a-t-il vraiment maîtrisé le sujet ? Pourtant, quelques jours plus tôt, il était persuadée d’être parfaitement prêt, confiante, presque arrogante dans sa compréhension. Ce contraste la trouble. Comment a-t-il pu surestimer ses compétences si facilement ?  
 
-Assise dans la bibliothèque, Lucas feuillette ses cours, entourée du murmure des pages tournées et du grincement des chaises. Elle repense à ce moment embarrassant où son professeur a souligné plusieurs imprécisions dans son exposé. Ce sentiment d’incompétence inattendu lui semble presque étranger. Elle, qui a toujours excellé à l’école, se demande si ce n’est pas une simple maladresse. Pourtant, d’autres camarades, moins à l’aise dans le domaine, semblent parfois bien mieux comprendre les subtilités du sujet.  
+Assis dans la bibliothèque, Lucas feuillette ses cours, entourée du murmure des pages tournés et du grincement des chaises. Il repense à ce moment embarrassant où son professeur a souligné plusieurs imprécisions dans son exposé. Ce sentiment d’incompétence inattendu lui semble presque étranger. Il, qui a toujours excellé à l’école, se demande si ce n’est pas une simple maladresse. Pourtant, d’autres camarades, moins à l’aise dans le domaine, semblent parfois bien mieux comprendre les subtilités du sujet.  
 
-Lucas se souvient alors d’un concept qu’elle avait lu en psychologie : l’**effet Dunning-Kruger**. Ce terme bizarre, entendu dans une conférence, prend soudain tout son sens. Est-il possible que son jugement ait été biaisé ? Que son cerveau ait joué un tour à sa confiance ?  
+Lucas se souvient alors d’un concept qu’il avait lu en psychologie : l’**effet Dunning-Kruger**. Ce terme bizarre, entendu dans une conférence, prend soudain tout son sens. Est-il possible que son jugement ait été biaisé ? Que son cerveau ait joué un tour à sa confiance ?  
 
 ### Qu’est-ce que l’effet Dunning-Kruger ?  
 
@@ -30,7 +30,7 @@ C’est un phénomène paradoxal : la méconnaissance engendre une confiance exc
 Dans le contexte scolaire, cet effet est particulièrement fréquent, même chez les étudiants très motivés. Par exemple :  
 
 - Un élève débute en mathématiques et, après avoir compris quelques notions de base, se sent capable de résoudre tous les problèmes avancés. Il ne comprend pas pourquoi les exercices complexes lui échappent.  
-- Un étudiant en langues croit maîtriser parfaitement une langue après quelques semaines d’apprentissage, mais se heurte à des difficultés inattendues dans la compréhension orale ou la grammaire nuancée.  
+- Un étudiant en langues croit maîtriser parfaitement une langue après quelques semaines d’apprentissage, mais se heurte à des difficultés inattendus dans la compréhension orale ou la grammaire nuancée.  
 - Un haut potentiel intellectuel comme Lucas peut aussi tomber dans ce piège, car son aisance naturelle lui donne parfois une illusion de maîtrise rapide, alors que certains domaines nécessitent une expertise approfondie.  
 
 Ce biais complique l’apprentissage car il empêche la remise en question nécessaire à la progression. Il peut aussi générer du découragement lorsque la réalité rattrape la confiance initiale, comme Lucas l’a vécu lors de sa présentation.  
@@ -48,9 +48,9 @@ Ce biais complique l’apprentissage car il empêche la remise en question néce
 
 ### Lucas apprend à se connaître autrement  
 
-Après avoir découvert ces outils, Lucas décide d’appliquer ces conseils lors de ses études en neurosciences. Elle sollicite régulièrement l’avis de ses enseignants et intègre leurs remarques sans jugement, tout en tenant un carnet où elle note ses progrès mais aussi ses doutes.  
+Après avoir découvert ces outils, Lucas décide d’appliquer ces conseils lors de ses études en neurosciences. Il sollicite régulièrement l’avis de ses enseignants et intègre leurs remarques sans jugement, tout en tenant un carnet où il note ses progrès mais aussi ses doutes.  
 
-Petit à petit, elle se surprend à accepter ses limites sans crainte, à poser des questions plus souvent, et à voir ses compétences grandir réellement, sans faux-semblants. Cette nouvelle attitude l’apaise et rend son apprentissage plus riche, plus authentique.  
+Petit à petit, il se surprend à accepter ses limites sans crainte, à poser des questions plus souvent, et à voir ses compétences grandir réellement, sans faux-semblants. Cette nouvelle attitude l’apaise et rend son apprentissage plus riche, plus authentique.  
 
 ### Un message d’espoir pour tous les apprenants  
 

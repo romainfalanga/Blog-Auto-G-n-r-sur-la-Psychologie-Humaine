@@ -13,17 +13,17 @@ contexte: "après un succès"
 draft: false
 ---
 
-Le soleil filtrant à travers les rideaux dévoilait la pièce baignée d’une lumière douce. Stéphane, assise sur son fauteuil préféré, tenait entre ses mains un trophée brillant. Elle venait de recevoir un prix prestigieux pour son engagement associatif, une reconnaissance qu’elle avait longtemps espérée. Pourtant, son sourire était timide, presque gêné. Au fond d’elle, une sensation étrange l’envahissait. Elle avait réussi, mais au lieu de savourer ce moment, une petite voix interne lui murmurait qu’elle ne méritait pas autant d’attention.
+Le soleil filtrant à travers les rideaux dévoilait la pièce baignée d’une lumière douce. Stéphane, assis sur son fauteuil préféré, tenait entre ses mains un trophée brillant. Il venait de recevoir un prix prestigieux pour son engagement associatif, une reconnaissance qu’il avait longtemps espérée. Pourtant, son sourire était timide, presque gêné. Au fond de lui, une sensation étrange l’envahissait. Il avait réussi, mais au lieu de savourer ce moment, une petite voix interne lui murmurait qu’il ne méritait pas autant d’attention.
 
-Stéphane regarda autour d’elle, consciente du regard admiratif de ses proches. Pourtant, elle se sentait comme une imposture. Cette sensation la suivait partout, comme une ombre qu’elle ne parvenait pas à dissiper. Cette sensation, c’était de la honte après un succès. Un paradoxe déconcertant qu’elle n’aurait jamais imaginé vivre à 62 ans, après tant d’années de travail acharné.
+Stéphane regarda autour de lui, conscient du regard admiratif de ses proches. Pourtant, il se sentait comme une imposture. Cette sensation le suivait partout, comme une ombre qu’il ne parvenait pas à dissiper. Cette sensation, c’était de la honte après un succès. Un paradoxe déconcertant qu’il n’aurait jamais imaginé vivre à 45 ans, après tant d’années de travail acharné.
 
 ---
 
-### Qu’est-ce que la honte et comment se manifeste-t-elle après un succès ?
+### Qu’est-ce que la honte et comment se manifeste-t-il après un succès ?
 
 La honte est une émotion universelle définie comme une sensation douloureuse liée à la perception que nous ne sommes pas à la hauteur, ou que nous sommes "moins que" ce que les autres attendent. Contrairement à la culpabilité qui porte sur une action spécifique, la honte touche à l’identité profonde : "Je ne suis pas assez bien."
 
-Le psychologue américain Brené Brown, spécialiste des émotions humaines, explique que la honte est souvent liée à la peur du rejet social. Elle naît quand on croit que nos défauts ou nos imperfections sont visibles et condamnent notre valeur en tant que personne.
+Le psychologue américain Brené Brown, spécialiste des émotions humaines, explique que la honte est souvent liée à la peur du rejet social. Il naît quand on croit que nos défauts ou nos imperfections sont visibles et condamnent notre valeur en tant que personne.
 
 Dans le contexte particulier de la honte après un succès, cette émotion semble paradoxale. Comment peut-on se sentir honteux alors même qu’on vient d’être reconnu pour ses efforts ? Cela arrive souvent aux personnes perfectionnistes comme Stéphane, qui se fixent des standards très élevés. Le succès met en lumière leur travail, mais aussi les attentes qu’elles redoutent de ne pas toujours satisfaire. Elles craignent que ce succès les expose à la critique ou qu’il crée une pression pour être toujours au top.
 
@@ -33,9 +33,9 @@ Par exemple, imaginez un cadre qui obtient une promotion. Au lieu de se réjouir
 
 ### Honte et culpabilité : quelles différences ?
 
-Il est important de distinguer la honte de la culpabilité, deux émotions souvent confondues. La culpabilité concerne une action précise : "J’ai fait une erreur." Elle peut être constructive, incitant à réparer ou à s’améliorer.
+Il est important de distinguer la honte de la culpabilité, deux émotions souvent confondues. La culpabilité concerne une action précise : "J’ai fait une erreur." Il peut être constructive, incitant à réparer ou à s’améliorer.
 
-La honte, en revanche, touche à l’"être" : "Je suis une mauvaise personne." Elle est plus intense et paralysante, car elle remet en cause l’estime de soi globale. Cette distinction est essentielle pour comprendre pourquoi la honte après un succès est si difficile à vivre : la personne ne se sent pas juste fautive, mais fondamentalement insuffisante malgré les preuves du contraire.
+La honte, en revanche, touche à l’"être" : "Je suis une mauvaise personne." Il est plus intense et paralysante, car il remet en cause l’estime de soi globale. Cette distinction est essentielle pour comprendre pourquoi la honte après un succès est si difficile à vivre : la personne ne se sent pas juste fautive, mais fondamentalement insuffisante malgré les preuves du contraire.
 
 ---
 
@@ -57,15 +57,15 @@ La honte, en revanche, touche à l’"être" : "Je suis une mauvaise personne." 
 
 ### Stéphane, vers une nouvelle relation avec la réussite
 
-Après plusieurs semaines à appliquer ces techniques, Stéphane sentit un changement subtil mais profond. Lorsqu’elle repensait à son trophée, elle ne ressentait plus cette gêne paralysante. Elle comprenait que son perfectionnisme amplifiait sa honte, lui faisant croire qu’elle devait être irréprochable pour mériter.
+Après plusieurs semaines à appliquer ces techniques, Stéphane sentit un changement subtil mais profond. Lorsqu’il repensait à son trophée, il ne ressentait plus cette gêne paralysante. Il comprenait que son perfectionnisme amplifiait sa honte, lui faisant croire qu’il devait être irréprochable pour mériter.
 
-Elle s’autorisa à savourer ses succès, à reconnaître ses efforts sans s’auto-critiquer. Partager ses doutes avec son amie de longue date lui ouvrit aussi les yeux sur la normalité de ces émotions, même chez les personnes les plus accomplies.
+Il s’autorisa à savourer ses succès, à reconnaître ses efforts sans s’auto-critiquer. Partager ses doutes avec son amie de longue date lui ouvrit aussi les yeux sur la normalité de ces émotions, même chez les personnes les plus accomplies.
 
 ---
 
 ### Un message d’espoir pour vous, lecteurs perfectionnistes
 
-La honte après un succès peut sembler injuste et isolante, mais elle est plus commune qu’on ne le croit. Comprendre cette émotion, la différencier de la culpabilité, et apprendre à s’en détacher aide à retrouver une relation plus douce avec soi-même et ses accomplissements.
+La honte après un succès peut sembler injuste et isolante, mais il est plus commune qu’on ne le croit. Comprendre cette émotion, la différencier de la culpabilité, et apprendre à s’en détacher aide à retrouver une relation plus douce avec soi-même et ses accomplissements.
 
 Si vous vous reconnaissez dans l’histoire de Stéphane, rappelez-vous que votre valeur ne se mesure pas uniquement à vos succès ou à votre perfection. Vous avez le droit de vous sentir fier sans honte, et d’accueillir vos émotions avec bienveillance.
 

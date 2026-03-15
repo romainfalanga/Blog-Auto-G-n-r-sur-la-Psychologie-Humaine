@@ -13,7 +13,7 @@ contexte: "face à la solitude"
 draft: false
 ---
 
-Le bruit sourd de la pluie contre la fenêtre rythme ses pensées. Adrien, 39 ans, est assis seul dans son appartement, un peu perdu dans l’immensité de son salon vide. Ce soir encore, la solitude lui pèse comme un poids insupportable. Il regarde son téléphone, vide de messages, et sent ce vide grandir en lui. Il redoute l’idée que cette situation se répète, qu’il se retrouve encore abandonné, comme un enfant livré à lui-même.
+Le bruit sourd de la pluie contre la fenêtre rythme ses pensées. Adrien, 31 ans, est assis seul dans son appartement, un peu perdu dans l’immensité de son salon vide. Ce soir encore, la solitude lui pèse comme un poids insupportable. Il regarde son téléphone, vide de messages, et sent ce vide grandir en lui. Il redoute l’idée que cette situation se répète, qu’il se retrouve encore abandonné, comme un enfant livré à lui-même.
 
 Dans sa mémoire, des souvenirs remontent : les absences répétées d’un père souvent parti, une mère débordée qui ne semblait jamais vraiment disponible. Adrien se souvient de ces instants où il cherchait un signe d’attachement, une preuve que quelqu’un serait toujours là. Mais l’instabilité de son enfance a marqué sa façon de voir ses relations aujourd’hui. Chaque rupture, chaque distance, ravive cette blessure profonde.
 

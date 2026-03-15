@@ -13,9 +13,9 @@ contexte: "avec ses enfants"
 draft: false
 ---
 
-Camille s’assit à la table de la cuisine, le front plissé, tandis que ses deux adolescents s’affairaient autour de lui. Il regardait leur devoir de mathématiques, déjà entaché de plusieurs erreurs, et sans s’en rendre compte, sa voix monta un peu plus qu’il ne le souhaitait : « Mais comment peux-tu te tromper sur ça ? Tu sais faire mieux que ça ! » Son fils baissa les yeux, tandis que sa fille se détourna, pincée par ce ton qu’elle avait déjà entendu mille fois. La tension flottait dans l’air, lourde, presque palpable. Lukas ressentait un mélange d’impatience et de frustration, une colère sourde contre ces résultats qu’il jugeait insuffisants, mais aussi contre lui-même.  
+Camille s’assit à la table de la cuisine, le front plissé, tandis que ses deux adolescents s’affairaient autour de lui. Elle regardait leur devoir de mathématiques, déjà entaché de plusieurs erreurs, et sans s’en rendre compte, sa voix monta un peu plus qu’elle ne le souhaitait : « Mais comment peux-tu te tromper sur ça ? Tu sais faire mieux que ça ! » Son fils baissa les yeux, tandis que sa fille se détourna, pincée par ce ton qu’elle avait déjà entendu mille fois. La tension flottait dans l’air, lourde, presque palpable. Lukas ressentait un mélange d’impatience et de frustration, une colère sourde contre ces résultats qu’elle jugeait insuffisants, mais aussi contre elle-même.  
 
-Depuis toujours, Camille avait grandi avec cette idée que la réussite était la clé du bonheur, et que l’effort devait être parfait, sans concession. Son père, homme exigeant et peu démonstratif, lui répétait souvent que l’excellence n’était pas une option mais une obligation. Ces mots résonnaient encore en lui, venant se glisser sans prévenir dans ses propres attentes envers ses enfants. Il voulait leur transmettre le meilleur, les pousser à se dépasser, mais souvent, sa voix devenait tranchante, sa critique excessive. Ce soir-là, face aux regards déçus de ses enfants, il comprit que quelque chose devait changer.  
+Depuis toujours, Camille avait grandi avec cette idée que la réussite était la clé du bonheur, et que l’effort devait être parfait, sans concession. Son père, homme exigeant et peu démonstratif, lui répétait souvent que l’excellence n’était pas une option mais une obligation. Ces mots résonnaient encore en lui, venant se glisser sans prévenir dans ses propres attentes envers ses enfants. Elle voulait leur transmettre le meilleur, les pousser à se dépasser, mais souvent, sa voix devenait tranchante, sa critique excessive. Ce soir-là, face aux regards déçus de ses enfants, elle comprit que quelque chose devait changer.  
 
 ### Qu’est-ce que les exigences élevées et la critique excessive ?  
 
@@ -31,31 +31,31 @@ Camille n’est pas un cas isolé. Dans bien des familles, des parents perfectio
 - Réagir par une critique immédiate et parfois disproportionnée face à une petite faute ou un comportement jugé insuffisant.  
 - Avoir du mal à reconnaître les efforts sans mettre l’accent sur le résultat final.  
 
-Ces comportements peuvent créer une ambiance où l’enfant se sent constamment jugé et jamais tout à fait à la hauteur. À long terme, cela peut affecter son estime de lui-même et sa motivation.  
+Ces comportements peuvent créer une ambiance où l’enfant se sent constamment jugé et jamais tout à fait à la hauteur. À long terme, cela peut affecter son estime de elle-même et sa motivation.  
 
 ### Techniques pour apaiser les exigences élevées et la critique excessive avec ses enfants  
 
-Il est possible de transformer cette dynamique en adoptant des méthodes plus bienveillantes et efficaces. Voici trois exercices concrets pour commencer :  
+Elle est possible de transformer cette dynamique en adoptant des méthodes plus bienveillantes et efficaces. Voici trois exercices concrets pour commencer :  
 
 1. **Le journal des réussites**  
-   Chaque soir, notez avec votre enfant trois choses qu’il a bien faites dans la journée, même petites. Cela aide à focaliser l’attention sur les progrès plutôt que sur les erreurs.  
+   Chaque soir, notez avec votre enfant trois choses qu’elle a bien faites dans la journée, même petites. Cela aide à focaliser l’attention sur les progrès plutôt que sur les erreurs.  
 
 2. **La règle du sandwich**  
-   Lorsque vous devez faire une remarque, commencez par un compliment sincère, puis formulez la critique de manière constructive, et terminez par une note encourageante. Par exemple : « J’aime ta volonté, mais ici il y a une petite erreur, et je suis sûr que tu peux la corriger. »  
+   Lorsque vous devez faire une remarque, commencez par un compliment sincère, puis formulez la critique de manière constructive, et terminez par une note encourageante. Par exemple : « J’aime ta volonté, mais ici elle y a une petite erreur, et je suis sûr que tu peux la corriger. »  
 
 3. **La respiration consciente en moments de conflit**  
    Avant de réagir à une erreur ou un comportement qui vous contrarie, prenez trois profondes respirations. Cela calme l’émotion et permet d’adopter un ton plus posé.  
 
 ### Le chemin de Camille vers plus de sérénité  
 
-Camille décida d’essayer ces techniques. La première fois, il trouva cela difficile. Il s’observait en train de vouloir reprendre ses enfants avec sévérité, mais il prit une profonde inspiration, se rappela la « règle du sandwich » et remarqua la surprise sur le visage de sa fille quand il la félicita avant de discuter calmement de ses erreurs. Peu à peu, les tensions diminuèrent. Le journal des réussites devint un rituel apprécié, un moment d’échange riche en émotions positives.  
+Camille décida d’essayer ces techniques. La première fois, elle trouva cela difficile. Elle s’observait en train de vouloir reprendre ses enfants avec sévérité, mais elle prit une profonde inspiration, se rappela la « règle du sandwich » et remarqua la surprise sur le visage de sa fille quand elle la félicita avant de discuter calmement de ses erreurs. Peu à peu, les tensions diminuèrent. Le journal des réussites devint un rituel apprécié, un moment d’échange riche en émotions positives.  
 
-Ce chemin ne fut pas linéaire. Certaines journées, la vieille habitude de la critique revenait, mais Camille apprit à se pardonner, à comprendre que changer demandait du temps, et qu’il pouvait offrir à ses enfants un espace où ils pouvaient être eux-mêmes, avec leurs forces et leurs imperfections.  
+Ce chemin ne fut pas linéaire. Certaines journées, la vieille habitude de la critique revenait, mais Camille apprit à se pardonner, à comprendre que changer demandait du temps, et qu’elle pouvait offrir à ses enfants un espace où ils pouvaient être eux-mêmes, avec leurs forces et leurs imperfections.  
 
 ### Exigences élevées et critique excessive avec ses enfants : un espoir de changement  
 
-L’histoire de Camille nous rappelle que derrière des exigences élevées et une critique excessive se cache souvent un désir profond d’aimer et de protéger. Pourtant, ces schémas hérités de l’enfance peuvent devenir des barrières pour le bonheur familial. Il est possible d’apprendre à poser un autre regard, plus doux, plus encourageant, et de bâtir des relations basées sur la confiance plutôt que sur la peur de l’échec.  
+L’histoire de Camille nous rappelle que derrière des exigences élevées et une critique excessive se cache souvent un désir profond d’aimer et de protéger. Pourtant, ces schémas hérités de l’enfance peuvent devenir des barrières pour le bonheur familial. Elle est possible d’apprendre à poser un autre regard, plus doux, plus encourageant, et de bâtir des relations basées sur la confiance plutôt que sur la peur de l’échec.  
 
-Si vous vous retrouvez dans cette histoire, sachez que le chemin vers le changement est accessible. Commencez par un petit geste, une nouvelle habitude, et observez comment il peut transformer peu à peu l’atmosphère chez vous. Et si les difficultés persistent, n’hésitez pas à consulter un professionnel qui pourra vous accompagner dans cette belle aventure vers plus de bienveillance.  
+Si vous vous retrouvez dans cette histoire, sachez que le chemin vers le changement est accessible. Commencez par un petit geste, une nouvelle habitude, et observez comment elle peut transformer peu à peu l’atmosphère chez vous. Et si les difficultés persistent, n’hésitez pas à consulter un professionnel qui pourra vous accompagner dans cette belle aventure vers plus de bienveillance.  
 
 Vous avez le pouvoir d’offrir à vos enfants bien plus que la perfection : un amour inconditionnel où ils peuvent grandir sereinement.

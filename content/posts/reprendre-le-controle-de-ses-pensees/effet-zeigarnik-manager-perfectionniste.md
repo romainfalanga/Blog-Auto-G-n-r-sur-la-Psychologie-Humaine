@@ -13,11 +13,11 @@ contexte: "en tant que manager"
 draft: false
 ---
 
-Nadia est assis dans son bureau. Son regard se balade nerveusement entre l’écran de son ordinateur et la pile de dossiers sur la table. Il a commencé une présentation importante pour son équipe, mais une réunion impromptue l’a interrompu au milieu de la préparation. Il sent une tension sourde dans sa poitrine, une sorte de poids qui ne le quitte pas. Il jette un coup d’œil à son téléphone : depuis ce matin, trois notifications de mails non lus clignotent, mais il n’arrive pas à s’y plonger.
+Nadia est assise dans son bureau. Son regard se balade nerveusement entre l’écran de son ordinateur et la pile de dossiers sur la table. Elle a commencé une présentation importante pour son équipe, mais une réunion impromptue l’a interrompu au milieu de la préparation. Elle sent une tension sourde dans sa poitrine, une sorte de poids qui ne le quitte pas. Elle jette un coup d’œil à son téléphone : depuis ce matin, trois notifications de mails non lus clignotent, mais elle n’arrive pas à s’y plonger.
 
-Dans sa tête, les tâches s’amoncellent : finir la présentation, répondre aux mails, préparer le planning de la semaine, sans oublier les retours à faire à ses collaborateurs. Pourtant, il a décidé de ranger son bureau et de faire une pause café. Mais même en dehors de son bureau, il ne peut s’empêcher de divaguer sur ce qu’il n’a pas terminé. Le visage crispé, il sait qu’il doit faire plus, mieux, tout de suite.
+Dans sa tête, les tâches s’amoncellent : finir la présentation, répondre aux mails, préparer le planning de la semaine, sans oublier les retours à faire à ses collaborateurs. Pourtant, elle a décidé de ranger son bureau et de faire une pause café. Mais même en dehors de son bureau, elle ne peut s’empêcher de divaguer sur ce qu’elle n’a pas terminé. Le visage crispée, elle sait qu’elle doit faire plus, mieux, tout de suite.
 
-Nadia vit ce moment comme une petite guerre intérieure : impossible de se détacher de ces activités inachevées qui l’appellent sans cesse. Il ne comprend pas pourquoi il a tant de mal à se concentrer alors qu’il a simplement été interrompu. Il se sent coupable de ne pas avancer aussi vite qu’il le voudrait.  
+Nadia vit ce moment comme une petite guerre intérieure : impossible de se détacher de ces activités inachevées qui l’appellent sans cesse. Elle ne comprend pas pourquoi elle a tant de mal à se concentrer alors qu’elle a simplement été interrompu. Elle se sent coupable de ne pas avancer aussi vite qu’elle le voudrait.  
 
 ### Qu’est-ce que l’effet Zeigarnik ?  
 
@@ -25,7 +25,7 @@ L’effet Zeigarnik désigne la tendance naturelle de notre cerveau à mieux ret
 
 Ce phénomène a été découvert par la psychologue russe Bluma Zeigarnik dans les années 1920. Lors d’une expérience, elle s’est rendu compte que les personnes se souvenaient beaucoup mieux des tâches qu’elles n’avaient pas pu terminer que de celles qu’elles avaient achevées. Notre cerveau reste en quelque sorte en “alerte” face à ce qui est incomplet.  
 
-### Comment l’effet Zeigarnik se manifeste-t-il en tant que manager ?  
+### Comment l’effet Zeigarnik se manifeste-t-elle en tant que manager ?  
 
 Dans le rôle de manager, l’effet Zeigarnik peut se manifester de façon particulièrement frustrante, surtout pour les personnes perfectionnistes comme Nadia. Voici plusieurs situations courantes :  
 
@@ -42,7 +42,7 @@ Le perfectionnisme amplifie ce mécanisme : la peur de ne pas faire parfaitement
 Voici des méthodes simples et efficaces pour apaiser ce stress mental et mieux gérer les pensées liées aux tâches inachevées :  
 
 1. **Écrire et prioriser les tâches**  
-   Notez toutes les tâches inachevées sur une liste visible. Le simple fait de coucher ces éléments sur papier ou dans une application digitale libère une partie de la charge cognitive, car votre cerveau sait que l’information est enregistrée. Ensuite, classez-les par ordre de priorité. Cela vous permet d’aborder chaque chose à son moment sans être submergé.  
+   Notez toutes les tâches inachevées sur une liste visible. Le simple fait de coucher ces éléments sur papier ou dans une application digitale libère une partie de la charge cognitive, car votre cerveau sait que l’information est enregistrée. Ensuite, classez-les par ordre de priorité. Cela vous permet d’aborder chaque chose à son moment sans être submergée.  
 
 2. **Utiliser la technique Pomodoro**  
    Travaillez par intervalles de 25 minutes dédiés à une seule tâche, suivis de courtes pauses. Cela vous aide à avancer progressivement même sur des projets longs, en évitant la paralysie due à la peur de ne pas faire assez. Chaque session Pomodoro terminée réduit la charge mentale des tâches en cours.  
@@ -52,13 +52,13 @@ Voici des méthodes simples et efficaces pour apaiser ce stress mental et mieux 
 
 ### Retour à Nadia : le début d’un changement  
 
-Après avoir découvert ces techniques, Nadia décide de les mettre en pratique. Il écrit toutes ses tâches sur un carnet, ce qui lui permet de visualiser clairement ce qu’il doit faire. Ses dossiers ne lui semblent plus insurmontables.  
+Après avoir découvert ces techniques, Nadia décide de les mettre en pratique. Elle écrit toutes ses tâches sur un carnet, ce qui lui permet de visualiser clairement ce qu’elle doit faire. Ses dossiers ne lui semblent plus insurmontables.  
 
-Il utilise aussi la technique Pomodoro. Plutôt que d’essayer de finir toute sa présentation d’un coup, il travaille par petits intervalles. Il ressent une vraie satisfaction à chaque session terminée, et son anxiété s’apaise peu à peu.  
+Elle utilise aussi la technique Pomodoro. Plutôt que d’essayer de finir toute sa présentation d’un coup, elle travaille par petits intervalles. Elle ressent une vraie satisfaction à chaque session terminée, et son anxiété s’apaise peu à peu.  
 
-Lorsqu’il est interrompu, Nadia pratique une pause consciente : il ferme les yeux quelques secondes, respire profondément, et accepte que la présentation ne soit pas finie maintenant. Il sent cette petite voix intérieure qui lui demandait de finir tout de suite s’éloigner.  
+Lorsqu’elle est interrompu, Nadia pratique une pause consciente : elle ferme les yeux quelques secondes, respire profondément, et accepte que la présentation ne soit pas finie maintenant. Elle sent cette petite voix intérieure qui lui demandait de finir tout de suite s’éloigner.  
 
-Petit à petit, Nadia réussit à apprivoiser l’effet Zeigarnik en tant que manager perfectionniste. Il comprend que ses pensées obsédantes ne sont pas une faiblesse, mais un mécanisme naturel. En reprenant le contrôle, il gagne en sérénité et devient plus efficace.  
+Petit à petit, Nadia réussit à apprivoiser l’effet Zeigarnik en tant que manager perfectionniste. Elle comprend que ses pensées obsédantes ne sont pas une faiblesse, mais un mécanisme naturel. En reprenant le contrôle, elle gagne en sérénité et devient plus efficace.  
 
 ### Conclusion : un pas vers la maîtrise de soi  
 

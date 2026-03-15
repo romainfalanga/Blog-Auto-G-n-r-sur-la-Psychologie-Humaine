@@ -13,7 +13,7 @@ contexte: "en amitié"
 draft: false
 ---
 
-L’après-midi était presque terminé quand Thomas, 29 ans, s’installa à la terrasse de son café préféré. Il attendait Clara, une amie de longue date avec laquelle les retrouvailles avaient souvent été source de tensions. Alors qu’il sirotait son thé, son esprit vagabondait vers leurs derniers échanges : critiques voilées, gestes mal interprétés, et cette sensation récurrente d’être pris au piège dans des disputes sans fin. Ce jour-là, il voulait comprendre pourquoi leur amitié semblait parfois si compliquée, presque un jeu où chacun jouait un rôle sans jamais vraiment se sentir libre.
+L’après-midi était presque terminé quand Thomas, 34 ans, s’installa à la terrasse de son café préféré. Il attendait Clara, une amie de longue date avec laquelle les retrouvailles avaient souvent été source de tensions. Alors qu’il sirotait son thé, son esprit vagabondait vers leurs derniers échanges : critiques voilées, gestes mal interprétés, et cette sensation récurrente d’être pris au piège dans des disputes sans fin. Ce jour-là, il voulait comprendre pourquoi leur amitié semblait parfois si compliquée, presque un jeu où chacun jouait un rôle sans jamais vraiment se sentir libre.
 
 Clara arriva, souriante mais avec cette pointe d’énervement qu’il connaissait bien. Sans même un bonjour posé, la conversation dévia rapidement vers un sujet sensible : Thomas avait raté leur dernier rendez-vous, et elle le lui reprochait, en le rendant presque responsable de ses propres frustrations. Au fond, Thomas sentait qu’il retombait dans une dynamique qu’il ne maîtrisait pas, comme s’il était coincé dans un scénario écrit d’avance. Il avait envie de dire stop, de sortir de ce cercle infernal, mais ne savait pas comment.
 
