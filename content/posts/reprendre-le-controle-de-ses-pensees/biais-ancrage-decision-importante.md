@@ -52,7 +52,7 @@ Notez ce que vous pensez au moment de décider, puis relisez ces notes plusieurs
 
 ## Nadia commence à comprendre et à avancer  
 
-Après quelques jours passés à appliquer ces techniques, Nadia sent un apaisement naître en lui. Elle réalise que l’ancre initiale, ce premier prix, n’est qu’une information parmi d’autres et qu’elle peut choisir en conscience. Elle parvient à envisager l’achat d’une voiture selon ses besoins réels, plutôt que par peur de dépasser un chiffre fixé à la première rencontre.
+Après quelques jours passés à appliquer ces techniques, Nadia sent un apaisement naître en elle. Elle réalise que l’ancre initiale, ce premier prix, n’est qu’une information parmi d’autres et qu’elle peut choisir en conscience. Elle parvient à envisager l’achat d’une voiture selon ses besoins réels, plutôt que par peur de dépasser un chiffre fixé à la première rencontre.
 
 Elle se sent plus autonome, moins prisonnière de ses pensées anxieuses. Son dialogue intérieur devient plus doux, plus ouvert. La peur ne disparaît pas totalement, mais elle perd de son emprise. 
 

@@ -13,7 +13,7 @@ contexte: "en société et dans les interactions sociales"
 draft: false
 ---
 
-Mei ajuste sa veste sans vraiment regarder son reflet. Elle participe à une réunion informelle après le travail, entouré de collègues de longue date et de nouveaux visages. Son cœur remonte légèrement dans sa gorge quand une plaisanterie le place, sans qu'elle l'ait cherché, au centre de la conversation. Elle sent ses joues chauffer, sa voix se tasser, et tout à coup, elle a l'impression que tous les regards pèsent comme un poids humide sur ses épaules.
+Mei ajuste sa veste sans vraiment regarder son reflet. Elle participe à une réunion informelle après le travail, entourée de collègues de longue date et de nouveaux visages. Son cœur remonte légèrement dans sa gorge quand une plaisanterie la place, sans qu'elle l'ait cherché, au centre de la conversation. Elle sent ses joues chauffer, sa voix se tasser, et tout à coup, elle a l'impression que tous les regards pèsent comme un poids humide sur ses épaules.
 
 Elle voudrait sourire pour détendre l'atmosphère, mais son expression ressemble plutôt à une grimace. Elle entend un léger rire, distant, et son esprit s'emballe : "Ils pensent que je suis ridicule." Cette sensation lui est familière depuis sa jeunesse, et elle semble plus vive encore depuis qu'elle a franchi la quarantaine. Mei repense à son adolescence, aux discussions à la cantine où elle évitait les projecteurs. Elle se dit qu'elle est simplement timide, et que l'embarras dans ses interactions sociales finit toujours par le rattraper malgré ses efforts.
 

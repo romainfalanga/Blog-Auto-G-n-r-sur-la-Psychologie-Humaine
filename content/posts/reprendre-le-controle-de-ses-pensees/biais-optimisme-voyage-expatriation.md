@@ -21,13 +21,13 @@ Mais la fatigue pointe. Le décalage horaire, le rythme intense du voyage, les p
 
 Margot est en train de vivre ce qu’on appelle un biais d’optimisme, un phénomène psychologique qui pousse à surestimer la probabilité que des événements positifs arrivent et à sous-estimer les risques de difficultés ou d’échecs, surtout dans des contextes nouveaux comme un voyage ou une expatriation.  
 
-# Qu’est-ce que le biais d’optimisme ?  
+### Qu’est-ce que le biais d’optimisme ?
 
 Le biais d’optimisme est la tendance naturelle de notre esprit à croire que nous sommes moins susceptibles que les autres de vivre des expériences négatives. En d’autres termes, nous pensons souvent que « ça n’arrivera pas à moi ». Ce concept a été largement étudié par le psychologue Neil Weinstein dans les années 1980, qui a montré que cette illusion de contrôle et de chance influence beaucoup nos choix et nos comportements.  
 
 En voyage ou en expatriation, ce biais peut se manifester par exemple par l’idée que l’on s’adaptera aisément à une nouvelle culture sans difficultés, que tous les imprévus seront vite résolus, ou qu’on ne rencontrera pas de problèmes de santé ou de sécurité. Pourtant, cette confiance excessive peut conduire à sous-estimer les préparatifs nécessaires, à ignorer les signaux d’alerte, ou à repousser l’aide quand elle serait utile.  
 
-# Comment se manifeste le biais d’optimisme en voyage ou en expatriation ?  
+### Comment se manifeste le biais d’optimisme en voyage ou en expatriation ?
 
 Voici quelques exemples concrets que beaucoup rencontrent :  
 
@@ -37,7 +37,7 @@ Voici quelques exemples concrets que beaucoup rencontrent :
 
 Ces erreurs sont fréquentes, surtout chez les personnes anxieuses qui veulent compenser leurs inquiétudes par un optimisme forcé. Elles peuvent malheureusement aggraver le stress au lieu de l’apaiser.  
 
-# Comment mieux gérer le biais d’optimisme en voyage ou en expatriation ?  
+### Comment mieux gérer le biais d’optimisme en voyage ou en expatriation ?
 
 Voici trois techniques simples et pratiques à appliquer pour prendre du recul et retrouver un équilibre :  
 
@@ -50,13 +50,13 @@ Voici trois techniques simples et pratiques à appliquer pour prendre du recul e
 3. **La consultation différée**  
    Quand une pensée « tout ira bien » surgit, notez-la et attendez 24 heures avant de prendre une décision importante basée sur cette intuition. Ce délai aide à laisser émerger une vision plus nuancée, en évitant les conclusions hâtives dictées par un excès d’optimisme.  
 
-# Margot apprend à se réajuster  
+### Margot apprend à se réajuster
 
 Quelques jours plus tard, Margot est assise sur un banc, carnet à la main. Elle relit ses notes. Elle voit clairement les moments où son optimisme l’a aidée, mais aussi ceux où il l’a un peu trop bercée d’illusions. Elle repense à ce message de retard pour son accueil et à la panique qu’elle a évitée en appelant rapidement l’hôte pour confirmer un plan B.  
 
 Elle réalise que l’optimisme n’est pas mauvais en soi, mais qu’il doit être accompagné d’un regard lucide. En appliquant ses nouvelles techniques, Margot commence à sentir une forme de calme intérieur, moins envahi par l’angoisse, mieux préparé à faire face aux surprises de l’expatriation.  
 
-# Conclusion : et vous, comment gérez-vous le biais d’optimisme en voyage ou en expatriation ?  
+### Conclusion : et vous, comment gérez-vous le biais d’optimisme en voyage ou en expatriation ?
 
 Le biais d’optimisme peut sembler être un allié précieux quand on part à l’aventure, surtout pour apaiser une anxiété naturelle. Pourtant, sans équilibre, il nous expose à des erreurs évitables. Comprendre ce mécanisme psychologique permet de reprendre le contrôle de ses pensées et de mieux vivre ses expériences à l’étranger.  
 

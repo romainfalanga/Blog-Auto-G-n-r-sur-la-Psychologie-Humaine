@@ -17,7 +17,7 @@ Le soleil déclinait doucement sur l’horizon, colorant la pièce d’un orange
 
 Quelques jours plus tôt, Sophie lui avait confié vouloir un peu d’espace après une dispute anodine. Pourtant, cette « distance » résonnait pour Isabelle comme une menace, réveillant ses peurs intimes. Elle se surprenait à relire ses anciens textos, à scruter son téléphone pour un signe d’attention. Cette agitation constante l’épuisait, et elle se sentait encore plus isolé, enfermée dans une boucle qu’elle ne comprenait pas totalement.
 
-Cette souffrance, ce sentiment d’insécurité, n’était pas nouveau. Depuis l’enfance, Isabelle avait grandi avec des parents parfois présents, parfois distants, laissant en lui un besoin profond d’être rassuré, aimé, et jamais abandonnée. Ce schéma affectif répétitif, Isabelle allait peu à peu apprendre à le nommer : elle s’agissait d’un attachement anxieux-préoccupé, une forme d’hyperactivation du système d’attachement en couple.
+Cette souffrance, ce sentiment d’insécurité, n’était pas nouveau. Depuis l’enfance, Isabelle avait grandi avec des parents parfois présents, parfois distants, laissant en elle un besoin profond d’être rassurée, aimé, et jamais abandonnée. Ce schéma affectif répétitif, Isabelle allait peu à peu apprendre à le nommer : elle s’agissait d’un attachement anxieux-préoccupé, une forme d’hyperactivation du système d’attachement en couple.
 
 ## Qu'est-ce que l'attachement anxieux-préoccupé (hyperactivation du système) ?
 
