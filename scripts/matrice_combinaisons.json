@@ -1590,6 +1590,101 @@
       "resume_narratif": "Le dimanche 15 mars 2026, lors d'un repas chez Catherine, Patrick se retrouve incapable de manifester son empathie envers sa fille Stéphanie qui traverse une période difficile. Malgré un fort élan intérieur, il réagit par une banalité sur la météo pour masquer son émotion.",
       "evolution": "Patrick prend conscience que son surcontrôle émotionnel, hérité de l'éducation rigide de son père, agit désormais comme une prison qui l'empêche de se lier intimement avec ses enfants adultes.",
       "elements_cles": "Catherine (hôte), Stéphanie (fille), Marcel (père, source de l'inhibition), passé de chef d'équipe dans le BTP, concept du 'biais de l'angle mort face à la solitude' lu précédemment."
+    },
+    {
+      "date": "2026-03-15",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "overthinking (surpensée)",
+      "contexte": "au travail",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Sophie",
+      "age": "28 ans",
+      "title": "Overthinking (surpensée) au travail : le reconnaître enfin",
+      "slug": "overthinking-surpensee-travail",
+      "tags": [
+        "overthinking",
+        "surpensee",
+        "travail",
+        "gestion-du-stress",
+        "psychologie"
+      ],
+      "resume_narratif": "Tard le soir dans son appartement parisien, Sophie s'épuise à réécrire obsessionnellement une fonction de code pour une démo prévue le lendemain. Elle rumine également sur une remarque de son collègue Marc, interprétant un silence de réunion comme une perte de crédibilité totale.",
+      "evolution": "Sophie réalise que sa surpensée n'est pas de la rigueur mais un moteur d'épuisement qui la pousse à l'auto-critique systématique. Elle décide d'interrompre le cycle en documentant son état émotionnel sans chercher de solution immédiate.",
+      "elements_cles": {
+        "lieux": "Appartement parisien, bureau de Sophie",
+        "personnages": [
+          "Marc (collègue)",
+          "Claire (amie)"
+        ],
+        "antecedents": [
+          "Biais de confirmation",
+          "Syndrome de l'imposteur",
+          "Génogramme"
+        ],
+        "techniques": [
+          "Prise de notes dans un carnet",
+          "Respiration longue",
+          "Identification des métacroyances"
+        ]
+      }
+    },
+    {
+      "date": "2026-03-15",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "fatigue de compassion",
+      "contexte": "face à la maladie",
+      "angle": "comment aider quelqu'un qui vit ça",
+      "profil": null,
+      "prenom": "Camille",
+      "age": "42 ans",
+      "title": "Fatigue de compassion face à la maladie : comment aider au quotidien",
+      "slug": "fatigue-compassion-face-maladie",
+      "tags": [
+        "fatigue de compassion",
+        "soins",
+        "infirmiere",
+        "empathie",
+        "santé mentale"
+      ],
+      "resume_narratif": "Le 15 mars 2026, Camille se sent émotionnellement vide et anesthésiée face à la détresse d'un patient en cardiologie. Malgré le soutien de sa collègue Claire et la proposition d'aide de son mari David, elle s'enferme dans le déni et refuse de déléguer les tâches familiales auprès de ses enfants, Léo et Emma.",
+      "evolution": "Camille prend conscience que son don de soi sans limite a un coût réel et identifie son état comme de la fatigue de compassion. Elle commence à faire le lien entre son épuisement professionnel actuel et ses schémas passés liés à l'exigence maternelle et la parentification.",
+      "elements_cles": {
+        "personnages": [
+          "Claire (collègue)",
+          "David (mari)",
+          "Léo et Emma (enfants)",
+          "Françoise (mère)"
+        ],
+        "contexte": "Service de cardiologie, 15 mars 2026",
+        "progrès_antérieurs": "Exercices de respiration, gestion de la dramatisation, travail sur la parentification",
+        "action_symbolique": "Note le mot 'vide' sur un post-it dans son agenda"
+      }
+    },
+    {
+      "date": "2026-03-15",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "les jeux psychologiques (triangle de Karpman : persécuteur, victime, sauveur)",
+      "contexte": "en couple",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": null,
+      "prenom": "Thomas",
+      "age": "34 ans",
+      "title": "Les jeux psychologiques (triangle de Karpman) en couple",
+      "slug": "jeux-psychologiques-karpman-couple",
+      "tags": [
+        "triangle-de-karpman",
+        "couple",
+        "communication",
+        "limites",
+        "psychologie"
+      ],
+      "resume_narratif": "Le 15 mars 2026, lors d'une discussion tendue dans leur cuisine, Thomas tente d'imposer des solutions aux problèmes professionnels d'Émilie au lieu de l'écouter. Cette interaction déclenche un conflit où Thomas réalise qu'il a endossé son rôle habituel de sauveur au sein du triangle de Karpman.",
+      "evolution": "Thomas prend conscience que son automatisme de sauveur sert à masquer des angoisses plus profondes, notamment sa peur de décevoir et son appréhension face au sujet de la parentalité.",
+      "elements_cles": "Émilie (compagne), cuisine (lieu), 15 mars 2026, triangle de Karpman (sauveur), sujet de la parentalité, articles précédents (7 et 12 mars), exercices sur l'assujettissement."
     }
   ]
 }

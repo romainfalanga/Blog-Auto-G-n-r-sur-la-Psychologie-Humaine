@@ -93,6 +93,14 @@
           "category": "cat3_schemas",
           "titre": "Comprendre et vaincre le syndrome de l'imposteur en société",
           "slug": "syndrome-imposteur-societe-interactions"
+        },
+        {
+          "date": "2026-03-15",
+          "sujet": "overthinking (surpensée)",
+          "contexte": "au travail",
+          "category": "cat1_pensees",
+          "titre": "Overthinking (surpensée) au travail : le reconnaître enfin",
+          "slug": "overthinking-surpensee-travail"
         }
       ],
       "genre": "F"
@@ -178,6 +186,14 @@
           "category": "cat3_schemas",
           "titre": "Assujettissement face à l'autorité : comment s'en libérer concrètement",
           "slug": "assujettissement-face-a-lautorite-liberation"
+        },
+        {
+          "date": "2026-03-15",
+          "sujet": "les jeux psychologiques (triangle de Karpman : persécuteur, victime, sauveur)",
+          "contexte": "en couple",
+          "category": "cat3_schemas",
+          "titre": "Les jeux psychologiques (triangle de Karpman) en couple",
+          "slug": "jeux-psychologiques-karpman-couple"
         }
       ],
       "genre": "M"
@@ -258,6 +274,14 @@
           "category": "cat3_schemas",
           "titre": "Exigences élevées et critique excessive avec ses enfants : comment changer",
           "slug": "exigences-elevees-critique-enfants"
+        },
+        {
+          "date": "2026-03-15",
+          "sujet": "fatigue de compassion",
+          "contexte": "face à la maladie",
+          "category": "cat2_emotions",
+          "titre": "Fatigue de compassion face à la maladie : comment aider au quotidien",
+          "slug": "fatigue-compassion-face-maladie"
         }
       ],
       "genre": "F"
