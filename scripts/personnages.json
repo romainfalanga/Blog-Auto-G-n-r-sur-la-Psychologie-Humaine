@@ -55,7 +55,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-12",
           "sujet": "biais rétrospectif",
           "contexte": "après un succès",
           "category": "cat1_pensees",
@@ -63,7 +63,7 @@
           "slug": "biais-retrospectif-apres-succes"
         },
         {
-          "date": "",
+          "date": "2026-03-07",
           "sujet": "irritabilité",
           "contexte": "seul(e) face à soi-même",
           "category": "cat2_emotions",
@@ -71,7 +71,7 @@
           "slug": "irritabilite-seul-face-a-soi"
         },
         {
-          "date": "",
+          "date": "2026-03-12",
           "sujet": "génogramme simplifié",
           "contexte": "seul(e) face à soi-même",
           "category": "cat3_schemas",
@@ -79,7 +79,7 @@
           "slug": "genogramme-simplifie-seul-face-a-soi"
         },
         {
-          "date": "",
+          "date": "2026-03-12",
           "sujet": "échec",
           "contexte": "après un échec",
           "category": "cat3_schemas",
@@ -87,14 +87,15 @@
           "slug": "echec-apres-un-echec"
         },
         {
-          "date": "",
+          "date": "2026-03-07",
           "sujet": "le syndrome de l'imposteur",
           "contexte": "en société et dans les interactions sociales",
           "category": "cat3_schemas",
           "titre": "Comprendre et vaincre le syndrome de l'imposteur en société",
           "slug": "syndrome-imposteur-societe-interactions"
         }
-      ]
+      ],
+      "genre": "F"
     },
     {
       "id": "thomas",
@@ -147,7 +148,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-12",
           "sujet": "lecture de pensée",
           "contexte": "en couple",
           "category": "cat1_pensees",
@@ -155,7 +156,7 @@
           "slug": "lecture-de-pensee-en-couple"
         },
         {
-          "date": "",
+          "date": "2026-03-07",
           "sujet": "les jeux psychologiques (triangle de Karpman : persécuteur, victime, sauveur)",
           "contexte": "en amitié",
           "category": "cat3_schemas",
@@ -163,7 +164,7 @@
           "slug": "jeux-psychologiques-triangle-karpman-amitie"
         },
         {
-          "date": "",
+          "date": "2026-03-09",
           "sujet": "la situation étrange de Mary Ainsworth",
           "contexte": "en amitié",
           "category": "cat3_schemas",
@@ -171,14 +172,15 @@
           "slug": "situation-etrange-ainsworth-amitie"
         },
         {
-          "date": "",
+          "date": "2026-03-10",
           "sujet": "assujettissement",
           "contexte": "face à l'autorité",
           "category": "cat3_schemas",
           "titre": "Assujettissement face à l'autorité : comment s'en libérer concrètement",
           "slug": "assujettissement-face-a-lautorite-liberation"
         }
-      ]
+      ],
+      "genre": "M"
     },
     {
       "id": "camille",
@@ -234,7 +236,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-14",
           "sujet": "catastrophisation (dramatisation)",
           "contexte": "en couple",
           "category": "cat1_pensees",
@@ -242,7 +244,7 @@
           "slug": "catastrophisation-en-couple-apaiser"
         },
         {
-          "date": "",
+          "date": "2026-03-09",
           "sujet": "la parentification",
           "contexte": "avec ses parents",
           "category": "cat3_schemas",
@@ -250,14 +252,15 @@
           "slug": "parentification-avec-ses-parents"
         },
         {
-          "date": "",
+          "date": "2026-03-08",
           "sujet": "exigences élevées/critique excessive",
           "contexte": "avec ses enfants",
           "category": "cat3_schemas",
           "titre": "Exigences élevées et critique excessive avec ses enfants : comment changer",
           "slug": "exigences-elevees-critique-enfants"
         }
-      ]
+      ],
+      "genre": "F"
     },
     {
       "id": "lucas",
@@ -311,7 +314,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-11",
           "sujet": "biais de groupe",
           "contexte": "à l'école ou aux études",
           "category": "cat1_pensees",
@@ -319,7 +322,7 @@
           "slug": "biais-groupe-ecole-etudes"
         },
         {
-          "date": "",
+          "date": "2026-03-09",
           "sujet": "biais de conformité",
           "contexte": "en situation de compétition",
           "category": "cat1_pensees",
@@ -327,7 +330,7 @@
           "slug": "biais-conformite-competition"
         },
         {
-          "date": "",
+          "date": "2026-03-09",
           "sujet": "comparaison injuste",
           "contexte": "face à l'argent et aux finances",
           "category": "cat1_pensees",
@@ -335,14 +338,15 @@
           "slug": "comparaison-injuste-argent-finances"
         },
         {
-          "date": "",
+          "date": "2026-03-07",
           "sujet": "effet Dunning-Kruger",
           "contexte": "à l'école ou aux études",
           "category": "cat1_pensees",
           "titre": "Comprendre l’effet Dunning-Kruger à l’école ou aux études",
           "slug": "effet-dunning-kruger-ecole-etudes"
         }
-      ]
+      ],
+      "genre": "M"
     },
     {
       "id": "nadia",
@@ -396,7 +400,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-07",
           "sujet": "biais d'ancrage",
           "contexte": "face à une décision importante",
           "category": "cat1_pensees",
@@ -404,7 +408,7 @@
           "slug": "biais-ancrage-decision-importante"
         },
         {
-          "date": "",
+          "date": "2026-03-11",
           "sujet": "effet Zeigarnik",
           "contexte": "en tant que manager",
           "category": "cat1_pensees",
@@ -412,7 +416,7 @@
           "slug": "effet-zeigarnik-manager-perfectionniste"
         },
         {
-          "date": "",
+          "date": "2026-03-09",
           "sujet": "biais de statu quo",
           "contexte": "face à une décision importante",
           "category": "cat1_pensees",
@@ -420,7 +424,7 @@
           "slug": "biais-statu-quo-decision-importante"
         },
         {
-          "date": "",
+          "date": "2026-03-08",
           "sujet": "frustration",
           "contexte": "au travail",
           "category": "cat2_emotions",
@@ -428,7 +432,7 @@
           "slug": "frustration-au-travail-colere-deception"
         },
         {
-          "date": "",
+          "date": "2026-03-14",
           "sujet": "droits personnels excessifs/grandiosité",
           "contexte": "au travail",
           "category": "cat3_schemas",
@@ -436,14 +440,15 @@
           "slug": "grandiosite-droits-excessifs-travail"
         },
         {
-          "date": "",
+          "date": "2026-03-11",
           "sujet": "contrôle de soi insuffisant",
           "contexte": "au travail",
           "category": "cat3_schemas",
           "titre": "Contrôle de soi insuffisant au travail : les signes à reconnaître",
           "slug": "controle-de-soi-insuffisant-travail"
         }
-      ]
+      ],
+      "genre": "F"
     },
     {
       "id": "adrien",
@@ -497,7 +502,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-08",
           "sujet": "biais de négativité",
           "contexte": "face à une décision importante",
           "category": "cat1_pensees",
@@ -505,7 +510,7 @@
           "slug": "biais-negativite-decision-importante"
         },
         {
-          "date": "",
+          "date": "2026-03-12",
           "sujet": "déception",
           "contexte": "après un échec",
           "category": "cat2_emotions",
@@ -513,7 +518,7 @@
           "slug": "deception-apres-echec"
         },
         {
-          "date": "",
+          "date": "2026-03-11",
           "sujet": "nostalgie",
           "contexte": "en amitié",
           "category": "cat2_emotions",
@@ -521,14 +526,15 @@
           "slug": "nostalgie-en-amitie-comment-gerer"
         },
         {
-          "date": "",
+          "date": "2026-03-07",
           "sujet": "abandon/instabilité",
           "contexte": "face à la solitude",
           "category": "cat3_schemas",
           "titre": "Abandon/instabilité face à la solitude : comprendre et agir",
           "slug": "abandon-instabilite-face-solitude"
         }
-      ]
+      ],
+      "genre": "M"
     },
     {
       "id": "margot",
@@ -583,7 +589,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-10",
           "sujet": "biais d'optimisme",
           "contexte": "en voyage ou en expatriation",
           "category": "cat1_pensees",
@@ -591,7 +597,7 @@
           "slug": "biais-optimisme-voyage-expatriation"
         },
         {
-          "date": "",
+          "date": "2026-03-09",
           "sujet": "ennui",
           "contexte": "en tant que manager",
           "category": "cat2_emotions",
@@ -599,7 +605,7 @@
           "slug": "ennui-en-tant-que-manager"
         },
         {
-          "date": "",
+          "date": "2026-03-07",
           "sujet": "indifférence",
           "contexte": "en période de reconversion professionnelle",
           "category": "cat2_emotions",
@@ -614,7 +620,8 @@
           "titre": "Se libérer des drivers contraignants en reconversion professionnelle",
           "slug": "drivers-contraignants-reconversion-professionnelle"
         }
-      ]
+      ],
+      "genre": "F"
     },
     {
       "id": "youssef",
@@ -668,7 +675,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-08",
           "sujet": "biais de disponibilité",
           "contexte": "face à une décision importante",
           "category": "cat1_pensees",
@@ -676,14 +683,15 @@
           "slug": "biais-disponibilite-decision-importante"
         },
         {
-          "date": "",
+          "date": "2026-03-07",
           "sujet": "biais de projection",
           "contexte": "en colocation",
           "category": "cat1_pensees",
           "titre": "Comprendre le biais de projection en colocation : erreurs fréquentes",
           "slug": "biais-projection-en-colocation-erreurs"
         }
-      ]
+      ],
+      "genre": "M"
     },
     {
       "id": "isabelle",
@@ -736,7 +744,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-12",
           "sujet": "méthode ABCDE d'Ellis",
           "contexte": "face à l'autorité",
           "category": "cat1_pensees",
@@ -744,7 +752,7 @@
           "slug": "methode-abcde-autorite"
         },
         {
-          "date": "",
+          "date": "2026-03-08",
           "sujet": "biais d'attribution fondamentale",
           "contexte": "face à l'autorité",
           "category": "cat1_pensees",
@@ -752,7 +760,7 @@
           "slug": "biais-attribution-fondamentale-autorite"
         },
         {
-          "date": "",
+          "date": "2026-03-08",
           "sujet": "impuissance",
           "contexte": "face à la maladie",
           "category": "cat2_emotions",
@@ -760,14 +768,15 @@
           "slug": "impotence-face-maladie-aider-proche"
         },
         {
-          "date": "",
+          "date": "2026-03-08",
           "sujet": "attachement anxieux-préoccupé (hyperactivation du système)",
           "contexte": "en couple",
           "category": "cat3_schemas",
           "titre": "Comprendre l'attachement anxieux-préoccupé en couple : le cas de Kévin",
           "slug": "attachement-anxieux-preoccupe-couple"
         }
-      ]
+      ],
+      "genre": "F"
     },
     {
       "id": "patrick",
@@ -821,14 +830,15 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-08",
           "sujet": "biais de l'angle mort",
           "contexte": "face à la solitude",
           "category": "cat1_pensees",
           "titre": "Comprendre le biais de l'angle mort face à la solitude",
           "slug": "biais-angle-mort-solitude"
         }
-      ]
+      ],
+      "genre": "M"
     },
     {
       "id": "lea",
@@ -883,7 +893,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-09",
           "sujet": "jalousie",
           "contexte": "en situation de compétition",
           "category": "cat2_emotions",
@@ -891,7 +901,7 @@
           "slug": "jalousie-en-competition-maitriser"
         },
         {
-          "date": "",
+          "date": "2026-03-09",
           "sujet": "rejet",
           "contexte": "en société et dans les interactions sociales",
           "category": "cat2_emotions",
@@ -899,7 +909,7 @@
           "slug": "rejet-societe-interactions-sociales"
         },
         {
-          "date": "",
+          "date": "2026-03-14",
           "sujet": "envie",
           "contexte": "en amitié",
           "category": "cat2_emotions",
@@ -907,14 +917,15 @@
           "slug": "envie-en-amitie"
         },
         {
-          "date": "",
+          "date": "2026-03-08",
           "sujet": "attachement sécure (caractéristiques, comment le développer)",
           "contexte": "face à l'argent et aux finances",
           "category": "cat3_schemas",
           "titre": "Attachement sécure face à l'argent : comprendre et progresser",
           "slug": "attachement-secure-argent-finances"
         }
-      ]
+      ],
+      "genre": "F"
     },
     {
       "id": "karim",
@@ -969,14 +980,15 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-07",
           "sujet": "culpabilité",
           "contexte": "en situation de conflit",
           "category": "cat2_emotions",
           "titre": "Se libérer de la culpabilité en situation de conflit : l’histoire de Monique",
           "slug": "culpabilite-situation-conflit-monique"
         }
-      ]
+      ],
+      "genre": "M"
     },
     {
       "id": "monique",
@@ -1032,7 +1044,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-09",
           "sujet": "biais du monde juste",
           "contexte": "en famille",
           "category": "cat1_pensees",
@@ -1040,7 +1052,7 @@
           "slug": "biais-monde-juste-famille-melanie"
         },
         {
-          "date": "",
+          "date": "2026-03-12",
           "sujet": "impuissance",
           "contexte": "lors d'un deuil",
           "category": "cat2_emotions",
@@ -1048,14 +1060,15 @@
           "slug": "impuissance-deuil-reprendre-main"
         },
         {
-          "date": "",
+          "date": "2026-03-08",
           "sujet": "gratitude",
           "contexte": "en tant que manager",
           "category": "cat2_emotions",
           "titre": "Cultiver la gratitude en tant que manager : le chemin de Charlotte",
           "slug": "gratitude-en-tant-que-manager"
         }
-      ]
+      ],
+      "genre": "F"
     },
     {
       "id": "hugo",
@@ -1111,7 +1124,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-08",
           "sujet": "trahison",
           "contexte": "en amitié",
           "category": "cat2_emotions",
@@ -1119,7 +1132,7 @@
           "slug": "trahison-en-amitie-differences-clés"
         },
         {
-          "date": "",
+          "date": "2026-03-08",
           "sujet": "dette émotionnelle",
           "contexte": "après un échec",
           "category": "cat2_emotions",
@@ -1127,7 +1140,7 @@
           "slug": "dette-emotionnelle-apres-echec"
         },
         {
-          "date": "",
+          "date": "2026-03-11",
           "sujet": "vide intérieur",
           "contexte": "après une rupture amoureuse",
           "category": "cat2_emotions",
@@ -1135,14 +1148,15 @@
           "slug": "vide-interieur-apres-rupture-amoureuse"
         },
         {
-          "date": "",
+          "date": "2026-03-09",
           "sujet": "attachement désorganisé/craintif (oscillation)",
           "contexte": "après une rupture amoureuse",
           "category": "cat3_schemas",
           "titre": "Comprendre l'attachement désorganisé/craintif après une rupture amoureuse",
           "slug": "attachement-desorganise-craintif-rupture"
         }
-      ]
+      ],
+      "genre": "M"
     },
     {
       "id": "priya",
@@ -1196,7 +1210,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-09",
           "sujet": "vulnérabilité",
           "contexte": "lors d'un entretien d'embauche",
           "category": "cat2_emotions",
@@ -1204,7 +1218,7 @@
           "slug": "vulnerabilite-entretien-embauche-hiroshi"
         },
         {
-          "date": "",
+          "date": "2026-03-12",
           "sujet": "le gaslighting et la manipulation psychologique",
           "contexte": "en période de reconversion professionnelle",
           "category": "cat3_schemas",
@@ -1212,7 +1226,7 @@
           "slug": "gaslighting-manipulation-reconversion"
         },
         {
-          "date": "",
+          "date": "2026-03-11",
           "sujet": "le gaslighting et la manipulation psychologique",
           "contexte": "après un succès",
           "category": "cat3_schemas",
@@ -1220,14 +1234,15 @@
           "slug": "gaslighting-manipulation-apres-succes"
         },
         {
-          "date": "",
+          "date": "2026-03-08",
           "sujet": "attachement évitant-dédaigneux (désactivation du système)",
           "contexte": "dans l'intimité et la sexualité",
           "category": "cat3_schemas",
           "titre": "Attachement évitant-dédaigneux dans l'intimité et la sexualité",
           "slug": "attachement-evitant-dans-intimite"
         }
-      ]
+      ],
+      "genre": "F"
     },
     {
       "id": "stephane",
@@ -1281,7 +1296,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-07",
           "sujet": "effet de leurre",
           "contexte": "en famille",
           "category": "cat1_pensees",
@@ -1289,7 +1304,7 @@
           "slug": "effet-leurre-en-famille"
         },
         {
-          "date": "",
+          "date": "2026-03-11",
           "sujet": "effet de halo",
           "contexte": "face à une décision importante",
           "category": "cat1_pensees",
@@ -1297,7 +1312,7 @@
           "slug": "effet-de-halo-decision-importante"
         },
         {
-          "date": "",
+          "date": "2026-03-07",
           "sujet": "honte",
           "contexte": "après un succès",
           "category": "cat2_emotions",
@@ -1305,14 +1320,15 @@
           "slug": "honte-apres-un-succes"
         },
         {
-          "date": "",
+          "date": "2026-03-09",
           "sujet": "recherche d'approbation/reconnaissance",
           "contexte": "au travail",
           "category": "cat3_schemas",
           "titre": "Comment la recherche d'approbation au travail sabote Aïssatou",
           "slug": "recherche-approbation-reconnaissance-travail"
         }
-      ]
+      ],
+      "genre": "M"
     },
     {
       "id": "djamila",
@@ -1368,7 +1384,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-08",
           "sujet": "méfiance/abus",
           "contexte": "sur les réseaux sociaux",
           "category": "cat3_schemas",
@@ -1376,14 +1392,15 @@
           "slug": "mefiance-abus-reseaux-sociaux"
         },
         {
-          "date": "",
+          "date": "2026-03-07",
           "sujet": "le stress post-traumatique complexe (C-PTSD)",
           "contexte": "lors d'un deuil",
           "category": "cat3_schemas",
           "titre": "Comprendre le stress post-traumatique complexe (C-PTSD) lors d'un deuil",
           "slug": "stress-post-traumatique-complexe-deuil"
         }
-      ]
+      ],
+      "genre": "F"
     },
     {
       "id": "fabien",
@@ -1437,7 +1454,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-08",
           "sujet": "biais du coût irrécupérable",
           "contexte": "après une rupture amoureuse",
           "category": "cat1_pensees",
@@ -1445,7 +1462,7 @@
           "slug": "biais-cout-irrecoverable-rupture"
         },
         {
-          "date": "",
+          "date": "2026-03-11",
           "sujet": "amertume",
           "contexte": "en situation de conflit",
           "category": "cat2_emotions",
@@ -1453,14 +1470,15 @@
           "slug": "amertume-en-situation-de-conflit"
         },
         {
-          "date": "",
+          "date": "2026-03-12",
           "sujet": "vide intérieur",
           "contexte": "face à une décision importante",
           "category": "cat2_emotions",
           "titre": "Vide intérieur face à une décision importante : comprendre et agir",
           "slug": "vide-interieur-decision-parentification"
         }
-      ]
+      ],
+      "genre": "M"
     },
     {
       "id": "mei",
@@ -1515,7 +1533,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-12",
           "sujet": "effet IKEA",
           "contexte": "lors d'un entretien d'embauche",
           "category": "cat1_pensees",
@@ -1523,7 +1541,7 @@
           "slug": "effet-ikea-entretien-embauche"
         },
         {
-          "date": "",
+          "date": "2026-03-13",
           "sujet": "effet de simple exposition",
           "contexte": "sur les réseaux sociaux",
           "category": "cat1_pensees",
@@ -1531,14 +1549,15 @@
           "slug": "effet-simple-exposition-reseaux"
         },
         {
-          "date": "",
+          "date": "2026-03-12",
           "sujet": "embarras",
           "contexte": "en société et dans les interactions sociales",
           "category": "cat2_emotions",
           "titre": "Embarras en société : comprendre la gêne et agir",
           "slug": "embarras-en-societe-interactions"
         }
-      ]
+      ],
+      "genre": "F"
     },
     {
       "id": "bernard",
@@ -1591,7 +1610,7 @@
       },
       "historique_articles": [
         {
-          "date": "",
+          "date": "2026-03-10",
           "sujet": "nostalgie",
           "contexte": "face au vieillissement",
           "category": "cat2_emotions",
@@ -1599,7 +1618,7 @@
           "slug": "nostalgie-face-au-vieillissement-perfectionniste"
         },
         {
-          "date": "",
+          "date": "2026-03-12",
           "sujet": "isolement social/aliénation",
           "contexte": "en société et dans les interactions sociales",
           "category": "cat3_schemas",
@@ -1607,14 +1626,15 @@
           "slug": "isolement-social-alienation"
         },
         {
-          "date": "",
+          "date": "2026-03-13",
           "sujet": "manque affectif",
           "contexte": "dans l'intimité et la sexualité",
           "category": "cat3_schemas",
           "titre": "Manque affectif dans l'intimité et la sexualité",
           "slug": "manque-affectif-intimite-sexualite"
         }
-      ]
+      ],
+      "genre": "M"
     }
   ]
 }

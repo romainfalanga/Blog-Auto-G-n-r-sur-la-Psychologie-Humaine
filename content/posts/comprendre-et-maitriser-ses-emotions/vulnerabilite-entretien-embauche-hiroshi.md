@@ -13,9 +13,9 @@ contexte: "lors d'un entretien d'embauche"
 draft: false
 ---
 
-Le tic-tac de l’horloge semble plus fort que jamais dans la petite salle d’attente. Priya, 23 ans, serre dans ses mains une feuille froissée, son CV. Son cœur bat à tout rompre, chaque respiration lui semble un effort. L’idée d’entrer dans cette pièce, de faire face à un recruteur, le paralyse. Introverti de nature, il redoute plus que tout ce moment, où il faudra parler de lui, s’exposer, se révéler. Pourtant, c’est là, sa chance, celle qu’il attend depuis des semaines. Mais comment dépasser cette peur, ce sentiment d’être vulnérable ?
+Le tic-tac de l’horloge semble plus fort que jamais dans la petite salle d’attente. Priya, 33 ans, serre dans ses mains une feuille froissée, son CV. Son cœur bat à tout rompre, chaque respiration lui semble un effort. L’idée d’entrer dans cette pièce, de faire face à un recruteur, le paralyse. Introverti de nature, elle redoute plus que tout ce moment, où elle faudra parler de lui, s’exposer, se révéler. Pourtant, c’est là, sa chance, celle qu’elle attend depuis des semaines. Mais comment dépasser cette peur, ce sentiment d’être vulnérable ?
 
-Lorsque le secrétaire l’appelle enfin, Priya se lève, les jambes légèrement tremblantes. Il pénètre dans la salle lumineuse, où un homme souriant l’accueille. Assis face à lui, Priya sent une boule grossir dans sa gorge. Il veut donner une image forte, compétente, mais un poids invisible semble l’empêcher d’être lui-même. Cette sensation, si familière, porte un nom : la vulnérabilité.
+Lorsque le secrétaire l’appelle enfin, Priya se lève, les jambes légèrement tremblantes. Elle pénètre dans la salle lumineuse, où un homme souriant l’accueille. Assise face à lui, Priya sent une boule grossir dans sa gorge. Elle veut donner une image forte, compétente, mais un poids invisible semble l’empêcher d’être elle-même. Cette sensation, si familière, porte un nom : la vulnérabilité.
 
 ## Qu’est-ce que la vulnérabilité ?
 
@@ -25,7 +25,7 @@ Dans le contexte d’un entretien d’embauche, la vulnérabilité se manifeste 
 
 ## Comment la vulnérabilité se manifeste-t-elle lors d’un entretien d’embauche ?
 
-Imaginez Sarah, autre introvertie, qui lors d’un entretien, avoue avoir eu du mal à prendre la parole en public. Elle partage honnêtement les efforts qu’elle fait pour progresser, ce qui suscite l’empathie du recruteur. Ou encore Marc, qui, au moment de parler de son échec lors d’un précédent emploi, exprime son ressenti et ce qu’il a appris. Ces exemples montrent que se montrer vulnérable ne signifie pas se dévaloriser, mais au contraire, ouvrir la porte à une relation plus humaine.
+Imaginez Sarah, autre introvertie, qui lors d’un entretien, avoue avoir eu du mal à prendre la parole en public. Elle partage honnêtement les efforts qu’elle fait pour progresser, ce qui suscite l’empathie du recruteur. Ou encore Marc, qui, au moment de parler de son échec lors d’un précédent emploi, exprime son ressenti et ce qu’elle a appris. Ces exemples montrent que se montrer vulnérable ne signifie pas se dévaloriser, mais au contraire, ouvrir la porte à une relation plus humaine.
 
 Cela peut se traduire par :  
 - Exprimer ses émotions réelles, comme le trac ou l’excitation.  
@@ -49,14 +49,14 @@ Identifiez un geste ou un objet (par exemple, serrer doucement votre pouce et vo
 
 ## Le cheminement d’Priya : de la peur à l’acceptation
 
-Après plusieurs entretiens ratés où il masquait ses émotions derrière un masque rigide, Priya décide de changer d’approche. Inspiré par la lecture d’un article sur la vulnérabilité, il s’entraîne à la visualisation positive avant chaque entretien. Il s’autorise aussi à noter ses pensées anxieuses pour les transformer en encouragements. Lors d’un nouveau rendez-vous, au moment où sa voix tremble en parlant de son manque d’expérience, il pose discrètement sa main sur sa clé USB, son ancre, et poursuit avec sincérité.
+Après plusieurs entretiens ratés où elle masquait ses émotions derrière un masque rigide, Priya décide de changer d’approche. Inspiré par la lecture d’un article sur la vulnérabilité, elle s’entraîne à la visualisation positive avant chaque entretien. Elle s’autorise aussi à noter ses pensées anxieuses pour les transformer en encouragements. Lors d’un nouveau rendez-vous, au moment où sa voix tremble en parlant de son manque d’expérience, elle pose discrètement sa main sur sa clé USB, son ancre, et poursuit avec sincérité.
 
-Le recruteur, loin d’être déstabilisé, semble au contraire touché par son authenticité. Priya quitte la salle avec la sensation d’avoir enfin été lui-même. Quelques jours plus tard, il reçoit une offre d’emploi. Plus important encore, il découvre que montrer sa vulnérabilité peut devenir une belle force, une manière de se connecter réellement aux autres.
+Le recruteur, loin d’être déstabilisée, semble au contraire touchée par son authenticité. Priya quitte la salle avec la sensation d’avoir enfin été elle-même. Quelques jours plus tard, elle reçoit une offre d’emploi. Plus important encore, elle découvre que montrer sa vulnérabilité peut devenir une belle force, une manière de se connecter réellement aux autres.
 
 ## Conclusion : accueillir la vulnérabilité lors d’un entretien d’embauche, un pas vers soi
 
 La vulnérabilité lors d’un entretien d’embauche, loin d’être un obstacle, est une clé précieuse pour révéler votre humanité et créer un lien sincère. Comme Priya, vous pouvez apprendre à apprivoiser ce sentiment, à le considérer comme un allié plutôt qu’un ennemi.
 
-Si vous êtes introverti et que ces moments vous semblent intimidants, rappelez-vous que vous n’êtes pas seul. En vous préparant émotionnellement, en cultivant un dialogue intérieur bienveillant, et en utilisant des ancrages sensoriels, vous ouvrez la porte à une nouvelle façon d’être, plus authentique et plus libre.
+Si vous êtes introverti et que ces moments vous semblent intimidants, rappelez-vous que vous n’êtes pas seule. En vous préparant émotionnellement, en cultivant un dialogue intérieur bienveillant, et en utilisant des ancrages sensoriels, vous ouvrez la porte à une nouvelle façon d’être, plus authentique et plus libre.
 
 Enfin, n’hésitez pas à consulter un professionnel si la vulnérabilité ou le stress vous semblent insurmontables. Chaque pas vers la connaissance de soi est une victoire. Vous avez en vous cette force, il suffit parfois d’un peu de douceur et de courage pour la révéler.

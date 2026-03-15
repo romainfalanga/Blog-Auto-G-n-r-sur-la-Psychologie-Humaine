@@ -13,11 +13,11 @@ contexte: "en reconversion professionnelle"
 draft: false
 ---
 
-Margot fixe l'écran de son ordinateur portable, le curseur clignotant sur une page blanche. Il est 22h30. Sa femme dort depuis longtemps, la maison est silencieuse. À 58 ans, après trente ans dans la finance, il a pris la décision de se reconvertir dans l'accompagnement en gestion de carrière. Un projet mûri pendant des mois, une formation commencée avec enthousiasme. Pourtant ce soir, il est paralysé.
+Margot fixe l'écran de son ordinateur portable, le curseur clignotant sur une page blanche. Elle est 22h30. Sa femme dort depuis longtemps, la maison est silencieuse. À 58 ans, après trente ans dans la finance, elle a pris la décision de se reconvertir dans l'accompagnement en gestion de carrière. Un projet mûri pendant des mois, une formation commencée avec enthousiasme. Pourtant ce soir, elle est paralysée.
 
-Il doit rendre un mémoire de fin de module dans trois jours. Il a déjà rédigé quinze pages, effacé dix, recommencé, corrigé, reformulé. Chaque phrase lui semble bancale. Chaque argument, insuffisant. Il sent une voix intérieure qui murmure sans relâche : « Ce n'est pas assez bien. Recommence. Tu ne peux pas te permettre de rendre quelque chose de médiocre. » Margot serre les mâchoires. Ses épaules sont nouées. Il ouvre un nouveau document et recommence une fois de plus.
+Elle doit rendre un mémoire de fin de module dans trois jours. Elle a déjà rédigé quinze pages, effacé dix, recommencé, corrigé, reformulé. Chaque phrase lui semble bancale. Chaque argument, insuffisant. Elle sent une voix intérieure qui murmure sans relâche : « Ce n'est pas assez bien. Recommence. Tu ne peux pas te permettre de rendre quelque chose de médiocre. » Margot serre les mâchoires. Ses épaules sont nouées. Elle ouvre un nouveau document et recommence une fois de plus.
 
-Le lendemain matin, dans le métro, il consulte les messages de son groupe de formation. Plusieurs camarades partagent leurs avancées, demandent de l'aide, expriment leurs doutes. Margot lit, mais ne répond pas. Demander de l'aide, c'est montrer qu'il ne maîtrise pas la situation. Et ça, pour lui, c'est impensable. Il a toujours été celui qui gère, celui qui rassure les autres, celui qui ne fléchit pas. Même en pleine reconversion, à 58 ans, dans un domaine qu'il découvre à peine, il s'impose les mêmes exigences qu'au sommet de sa carrière en finance.
+Le lendemain matin, dans le métro, elle consulte les messages de son groupe de formation. Plusieurs camarades partagent leurs avancées, demandent de l'aide, expriment leurs doutes. Margot lit, mais ne répond pas. Demander de l'aide, c'est montrer qu'elle ne maîtrise pas la situation. Et ça, pour lui, c'est impensable. Elle a toujours été celui qui gère, celui qui rassure les autres, celui qui ne fléchit pas. Même en pleine reconversion, à 58 ans, dans un domaine qu'elle découvre à peine, elle s'impose les mêmes exigences qu'au sommet de sa carrière en finance.
 
 Ce que Margot ne voit pas encore, c'est que ces voix intérieures qui le poussent, le pressent et l'épuisent portent un nom en psychologie. Ce sont les drivers contraignants, et ils sont en train de saboter sa reconversion en silence.
 
@@ -41,15 +41,15 @@ La reconversion professionnelle est un terrain particulièrement fertile pour le
 
 ### Le driver « Sois parfait » en reconversion
 
-Margot en est l'illustration vivante. Son mémoire n'est jamais assez bon. Ses notes de cours doivent être irréprochables. Avant de poser une question en formation, il vérifie trois fois qu'elle n'est pas « stupide ». Ce driver transforme chaque étape d'apprentissage en examen de passage, et chaque imperfection en preuve d'incompétence.
+Margot en est l'illustration vivante. Son mémoire n'est jamais assez bon. Ses notes de cours doivent être irréprochables. Avant de poser une question en formation, elle vérifie trois fois qu'elle n'est pas « stupide ». Ce driver transforme chaque étape d'apprentissage en examen de passage, et chaque imperfection en preuve d'incompétence.
 
 ### Le driver « Sois fort » face au changement
 
-C'est celui qui empêche Margot de partager ses doutes avec son groupe de formation. Il se dit qu'un homme de 58 ans, ancien directeur financier, ne peut pas avouer qu'il se sent perdu. Résultat : il s'isole, accumule la fatigue émotionnelle et perd l'accès à l'une des ressources les plus précieuses d'une reconversion, le soutien collectif.
+C'est celui qui empêche Margot de partager ses doutes avec son groupe de formation. Elle se dit qu'un homme de 58 ans, ancien directeur financier, ne peut pas avouer qu'elle se sent perdue. Résultat : elle s'isole, accumule la fatigue émotionnelle et perd l'accès à l'une des ressources les plus précieuses d'une reconversion, le soutien collectif.
 
 ### Le driver « Fais des efforts » et l'épuisement
 
-Ce driver pousse à croire que si quelque chose semble facile, c'est que l'on ne travaille pas assez. Margot passe des heures supplémentaires sur des exercices que ses camarades bouclent en une soirée. Non pas parce qu'il est moins capable, mais parce que son driver lui interdit de considérer que « suffisant » peut être « bien ».
+Ce driver pousse à croire que si quelque chose semble facile, c'est que l'on ne travaille pas assez. Margot passe des heures supplémentaires sur des exercices que ses camarades bouclent en une soirée. Non pas parce qu'elle est moins capable, mais parce que son driver lui interdit de considérer que « suffisant » peut être « bien ».
 
 Selon une étude publiée dans le *Journal of Vocational Behavior* (2021), les personnes en reconversion professionnelle qui présentent des niveaux élevés de perfectionnisme (étroitement lié au driver « Sois parfait ») sont significativement plus susceptibles d'abandonner leur projet dans les six premiers mois. Les drivers ne sont pas de simples traits de caractère : ils ont un impact mesurable sur nos trajectoires.
 
@@ -59,7 +59,7 @@ La bonne nouvelle, c'est que les drivers contraignants, une fois identifiés, pe
 
 ### 1. **Identifier son driver dominant grâce au journal de bord**
 
-Pendant une semaine, notez chaque soir les moments de la journée où vous vous êtes senti sous pression, frustré ou bloqué. Pour chaque situation, posez-vous cette question : « Quelle petite voix me parlait à ce moment-là ? » Était-ce « Ce n'est pas assez bien » (Sois parfait) ? « Je ne dois pas montrer que c'est dur » (Sois fort) ? « Il faut que je fasse plus » (Fais des efforts) ? Au bout de quelques jours, un schéma apparaît clairement. Cette prise de conscience est le premier pas, et souvent le plus important.
+Pendant une semaine, notez chaque soir les moments de la journée où vous vous êtes senti sous pression, frustrée ou bloquée. Pour chaque situation, posez-vous cette question : « Quelle petite voix me parlait à ce moment-là ? » Était-ce « Ce n'est pas assez bien » (Sois parfait) ? « Je ne dois pas montrer que c'est dur » (Sois fort) ? « Il faut que je fasse plus » (Fais des efforts) ? Au bout de quelques jours, un schéma apparaît clairement. Cette prise de conscience est le premier pas, et souvent le plus important.
 
 ### 2. **Reformuler le message intérieur avec une permission**
 
@@ -78,13 +78,13 @@ Choisissez une tâche liée à votre reconversion et faites-la volontairement «
 
 ## Margot commence à desserrer l'étau
 
-Quelques semaines après avoir découvert le concept des drivers contraignants lors d'un atelier de développement personnel, Margot décide de tenter l'expérience. Il commence par le journal de bord. En trois jours, le constat est sans appel : « Sois parfait » et « Sois fort » sont ses deux piliers invisibles. Ils dictent presque chacune de ses décisions depuis des décennies.
+Quelques semaines après avoir découvert le concept des drivers contraignants lors d'un atelier de développement personnel, Margot décide de tenter l'expérience. Elle commence par le journal de bord. En trois jours, le constat est sans appel : « Sois parfait » et « Sois fort » sont ses deux piliers invisibles. Ils dictent presque chacune de ses décisions depuis des décennies.
 
-Un mardi soir, il fait quelque chose d'inédit. Il ouvre le groupe de discussion de sa formation et écrit : « Je galère sur le mémoire. Est-ce que quelqu'un veut qu'on en parle ensemble ? » Trois réponses arrivent en quelques minutes. L'une d'elles vient d'une camarade de 32 ans qui lui dit : « Merci d'avoir osé le dire. Je n'aurais jamais cru que quelqu'un comme toi pouvait douter aussi. »
+Un mardi soir, elle fait quelque chose d'inédit. Elle ouvre le groupe de discussion de sa formation et écrit : « Je galère sur le mémoire. Est-ce que quelqu'un veut qu'on en parle ensemble ? » Trois réponses arrivent en quelques minutes. L'une d'elles vient d'une camarade de 32 ans qui lui dit : « Merci d'avoir osé le dire. Je n'aurais jamais cru que quelqu'un comme toi pouvait douter aussi. »
 
-Margot sent quelque chose se fissurer en lui. Pas une rupture, mais une ouverture. Il comprend que la force qu'il s'imposait n'était pas de la solidité, mais de la rigidité. Et que cette rigidité l'empêchait d'apprendre, de se connecter aux autres, et finalement d'avancer dans sa reconversion.
+Margot sent quelque chose se fissurer en lui. Pas une rupture, mais une ouverture. Elle comprend que la force qu'elle s'imposait n'était pas de la solidité, mais de la rigidité. Et que cette rigidité l'empêchait d'apprendre, de se connecter aux autres, et finalement d'avancer dans sa reconversion.
 
-Il rend son mémoire le vendredi. Pas parfait. Pas irréprochable. Mais honnête, personnel, et terminé. C'est la première fois en trente ans qu'il autorise quelque chose d'imparfait à sortir de ses mains. Et contre toute attente, il se sent plus léger qu'il ne l'a été depuis des mois.
+Elle rend son mémoire le vendredi. Pas parfait. Pas irréprochable. Mais honnête, personnel, et terminé. C'est la première fois en trente ans qu'elle autorise quelque chose d'imparfait à sortir de ses mains. Et contre toute attente, elle se sent plus léger qu'elle ne l'a été depuis des mois.
 
 ---
 

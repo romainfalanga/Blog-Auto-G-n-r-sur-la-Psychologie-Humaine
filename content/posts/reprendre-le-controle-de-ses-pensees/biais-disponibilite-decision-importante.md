@@ -13,7 +13,7 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Youssef, 23 ans, est assis dans sa chambre, le regard fixé sur l’écran de son ordinateur portable. Devant lui, deux offres d’emploi brillent, chacune promettant un avenir très différent. Son cœur tambourine, son esprit tourbillonne entre doutes et peurs. La voix dans sa tête lui martèle que choisir la mauvaise option serait une erreur irrémédiable. Ce soir-là, les images des échecs de ses proches lui reviennent en mémoire : un cousin qui a perdu son emploi, une amie qui a fait faillite. Ces souvenirs envahissent son esprit, rendant la décision encore plus lourde à porter.
+Youssef, 29 ans, est assis dans sa chambre, le regard fixé sur l’écran de son ordinateur portable. Devant lui, deux offres d’emploi brillent, chacune promettant un avenir très différent. Son cœur tambourine, son esprit tourbillonne entre doutes et peurs. La voix dans sa tête lui martèle que choisir la mauvaise option serait une erreur irrémédiable. Ce soir-là, les images des échecs de ses proches lui reviennent en mémoire : un cousin qui a perdu son emploi, une amie qui a fait faillite. Ces souvenirs envahissent son esprit, rendant la décision encore plus lourde à porter.
 
 Youssef se sent paralysé. Chaque scénario négatif s’impose avec force, comme si c’était la seule réalité possible. Pourtant, il sait qu’il pourrait s’agir d’une exagération de ses inquiétudes. Mais alors, pourquoi son cerveau s’accroche-t-il à ces images négatives ? Pourquoi lui semble-t-il impossible de se détacher de ces expériences marquantes, même si elles sont rares ?
 

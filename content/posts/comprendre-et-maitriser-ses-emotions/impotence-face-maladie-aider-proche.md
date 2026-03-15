@@ -13,15 +13,15 @@ contexte: "face à la maladie"
 draft: false
 ---
 
-Isabelle serre les poings sur le rebord de la fenêtre. Dehors, le vent frais agite doucement les branches des arbres, mais dans sa chambre, l’air semble lourd, presque figé. Sa voix tremble quand il explique au téléphone les résultats médicaux inquiétants de sa mère. Il voudrait pouvoir faire quelque chose, n’importe quoi, mais il se sent complètement démuni. Chaque mot qu’il prononce semble s’évanouir dans le silence pesant de la pièce.  
+Isabelle serre les poings sur le rebord de la fenêtre. Dehors, le vent frais agite doucement les branches des arbres, mais dans sa chambre, l’air semble lourd, presque figée. Sa voix tremble quand elle explique au téléphone les résultats médicaux inquiétants de sa mère. Elle voudrait pouvoir faire quelque chose, n’importe quoi, mais elle se sent complètement démuni. Chaque mot qu’elle prononce semble s’évanouir dans le silence pesant de la pièce.  
 
-Le soir, allongé sur son canapé, Isabelle regarde des photos anciennes où sa mère sourit, rayonnante de santé. Ce contraste entre ces images et la réalité actuelle lui serre le cœur. Son esprit tourne en boucle, cherchant une solution, une action, un moyen de reprendre le contrôle. Mais à part l’attente, l’incertitude et cette sensation sourde de vide, il ne trouve rien.  
+Le soir, allongée sur son canapé, Isabelle regarde des photos anciennes où sa mère sourit, rayonnante de santé. Ce contraste entre ces images et la réalité actuelle lui serre le cœur. Son esprit tourne en boucle, cherchant une solution, une action, un moyen de reprendre le contrôle. Mais à part l’attente, l’incertitude et cette sensation sourde de vide, elle ne trouve rien.  
 
-Cette sensation d’impuissance face à la maladie est familière à Isabelle. Elle lui rappelle ces moments où, malgré son désir profond d’aider, il se heurte à une barrière invisible. Il ressent une frustration mêlée de tristesse, une douleur qu’aucune parole ne peut apaiser. Pourtant, il sait qu’il doit continuer, pour lui-même, pour sa mère, et pour toute la famille.  
+Cette sensation d’impuissance face à la maladie est familière à Isabelle. Elle lui rappelle ces moments où, malgré son désir profond d’aider, elle se heurte à une barrière invisible. Elle ressent une frustration mêlée de tristesse, une douleur qu’aucune parole ne peut apaiser. Pourtant, elle sait qu’elle doit continuer, pour elle-même, pour sa mère, et pour toute la famille.  
 
 ### Qu’est-ce que l’impuissance ?  
 
-L’impuissance est la sensation de ne pas pouvoir agir sur une situation ou d’être incapable de changer un événement, malgré nos efforts. En psychologie, ce terme renvoie souvent à un état où l’individu se sent bloqué, démuni face à une réalité qu’il perçoit comme incontrôlable. Le concept a été largement exploré par le psychologue Martin Seligman avec la notion de **« sentiment d’impuissance apprise »**, qui peut mener à la passivité ou à la résignation.  
+L’impuissance est la sensation de ne pas pouvoir agir sur une situation ou d’être incapable de changer un événement, malgré nos efforts. En psychologie, ce terme renvoie souvent à un état où l’individu se sent bloquée, démuni face à une réalité qu’elle perçoit comme incontrôlable. Le concept a été largement exploré par le psychologue Martin Seligman avec la notion de **« sentiment d’impuissance apprise »**, qui peut mener à la passivité ou à la résignation.  
 
 ### Comment se manifeste l’impuissance face à la maladie ?  
 
@@ -50,16 +50,16 @@ Si vous êtes une personne empathique, comme beaucoup de nos lecteurs, vous pouv
 
 ### L’évolution de Isabelle grâce à ces techniques  
 
-Au fil des semaines, Isabelle commence à mettre en pratique ces conseils. Lorsqu’il retrouve sa mère, il choisit d’abord de l’écouter vraiment, sans chercher à la rassurer à tout prix. Il remarque que ce simple changement allège la tension dans leur échange.  
+Au fil des semaines, Isabelle commence à mettre en pratique ces conseils. Lorsqu’elle retrouve sa mère, elle choisit d’abord de l’écouter vraiment, sans chercher à la rassurer à tout prix. Elle remarque que ce simple changement allège la tension dans leur échange.  
 
-Ensuite, il identifie avec elle des petites actions concrètes : l’organisation des rendez-vous, la recherche d’informations sur la maladie, et surtout, prendre chaque jour un moment pour se détendre ensemble. Ces gestes ramènent une lueur d’espoir et un sentiment d’appartenance.  
+Ensuite, elle identifie avec elle des petites actions concrètes : l’organisation des rendez-vous, la recherche d’informations sur la maladie, et surtout, prendre chaque jour un moment pour se détendre ensemble. Ces gestes ramènent une lueur d’espoir et un sentiment d’appartenance.  
 
-Enfin, chaque soir, Isabelle s’accorde un moment de respiration consciente. Il sent son anxiété diminuer, son esprit apaisé, ce qui lui permet d’être plus disponible et attentif à sa mère.  
+Enfin, chaque soir, Isabelle s’accorde un moment de respiration consciente. Elle sent son anxiété diminuer, son esprit apaisée, ce qui lui permet d’être plus disponible et attentif à sa mère.  
 
 ### Un message d’espoir pour vous, lecteur empathique  
 
-L’impuissance face à la maladie est une expérience profondément humaine, qui montre combien certains événements échappent à notre contrôle. Pourtant, même dans ces moments, il est possible de retrouver un chemin vers la sérénité en cultivant la présence, en valorisant les petites actions, et en prenant soin de soi.  
+L’impuissance face à la maladie est une expérience profondément humaine, qui montre combien certains événements échappent à notre contrôle. Pourtant, même dans ces moments, elle est possible de retrouver un chemin vers la sérénité en cultivant la présence, en valorisant les petites actions, et en prenant soin de soi.  
 
 Si vous traversez cette épreuve aux côtés d’un proche, rappelez-vous que votre simple présence est précieuse. N’hésitez pas à poser des limites pour ne pas vous épuiser et à consulter un professionnel si le poids émotionnel devient trop lourd.  
 
-Chaque pas, aussi petit soit-il, est une victoire contre ce sentiment d’impuissance. Comme Isabelle, vous pouvez apprendre à accueillir ces émotions, à les comprendre, et à avancer malgré tout, avec douceur et courage.
+Chaque pas, aussi petit soit-elle, est une victoire contre ce sentiment d’impuissance. Comme Isabelle, vous pouvez apprendre à accueillir ces émotions, à les comprendre, et à avancer malgré tout, avec douceur et courage.

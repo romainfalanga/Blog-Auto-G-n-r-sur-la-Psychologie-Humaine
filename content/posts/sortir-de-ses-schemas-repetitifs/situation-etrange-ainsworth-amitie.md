@@ -13,32 +13,32 @@ contexte: "en amitié"
 draft: false
 ---
 
-Thomas s’assoit sur ce banc du parc, entourée des éclats de rires de ses amis qui discutent à quelques mètres. Pourtant, elle sent une boule dans son ventre, un léger froid qui l'empêche de profiter pleinement. Malgré leur invitation, elle hésite à se joindre au groupe, craignant inconsciemment d’être rejetée ou ignorée. Ses pensées tournent en boucle : « Et si je dis quelque chose de mal ? Et si je ne suis pas assez intéressante ? » Elle fait un effort, sourit, mais son cœur bat vite. Tout à coup, elle se souvient d’une conversation récente où une amie proche lui a répondu froidement, sans explication. Ce souvenir ravive une vieille peur, comme un écho familier.  
+Thomas s’assoit sur ce banc du parc, entourée des éclats de rires de ses amis qui discutent à quelques mètres. Pourtant, il sent une boule dans son ventre, un léger froid qui l'empêche de profiter pleinement. Malgré leur invitation, il hésite à se joindre au groupe, craignant inconsciemment d’être rejeté ou ignorée. Ses pensées tournent en boucle : « Et si je dis quelque chose de mal ? Et si je ne suis pas assez intéressante ? » Il fait un effort, sourit, mais son cœur bat vite. Tout à coup, il se souvient d’une conversation récente où une amie proche lui a répondu froidement, sans explication. Ce souvenir ravive une vieille peur, comme un écho familier.  
 
-Dans ce moment, Thomas vit une expérience très proche de ce qu’on appelle « la situation étrange de Mary Ainsworth ». Elle ne le sait pas encore, mais cette petite peur, ce questionnement sur la sécurité dans ses relations amicales, trouve ses racines dans cette célèbre expérience psychologique.  
+Dans ce moment, Thomas vit une expérience très proche de ce qu’on appelle « la situation étrange de Mary Ainsworth ». Il ne le sait pas encore, mais cette petite peur, ce questionnement sur la sécurité dans ses relations amicales, trouve ses racines dans cette célèbre expérience psychologique.  
 
 ### Qu’est-ce que la situation étrange de Mary Ainsworth ?  
 
-La situation étrange est une expérience mise en place par la psychologue Mary Ainsworth dans les années 1970 pour étudier l’attachement chez les bébés. Elle consiste à observer comment un enfant réagit lorsque sa figure d’attachement principale (généralement la mère) quitte la pièce puis revient. Cette méthode révèle si l’enfant se sent sécurisé ou anxieux dans cette relation.  
+La situation étrange est une expérience mise en place par la psychologue Mary Ainsworth dans les annés 1970 pour étudier l’attachement chez les bébés. Il consiste à observer comment un enfant réagit lorsque sa figure d’attachement principale (généralement la mère) quitte la pièce puis revient. Cette méthode révèle si l’enfant se sent sécurisé ou anxieux dans cette relation.  
 
 En résumé, la situation étrange de Mary Ainsworth met en lumière la qualité du lien d’attachement : est-il sécurisant, évitant ou ambivalent ? Cela influence profondément nos comportements émotionnels plus tard, même à l’âge adulte, notamment dans nos relations d’amitié ou amoureuses.  
 
-### Comment la situation étrange de Mary Ainsworth se manifeste-t-elle en amitié ?  
+### Comment la situation étrange de Mary Ainsworth se manifeste-t-il en amitié ?  
 
 Chez les adultes, ce mécanisme d’attachement se traduit par la manière dont nous gérons la proximité et la distance avec nos amis. Par exemple :  
 
 - Une personne au style d’attachement sécurisé se sent à l’aise pour demander du soutien et offrir de la confiance.  
-- Une personne avec un attachement évitant peut éviter de s’ouvrir, craignant d’être vulnérable ou rejetée.  
-- Une personne avec un attachement anxieux peut être très inquiète de perdre ses amis, cherchant constamment des signes de réassurance.  
+- Une personne avec un attachement évitant peut éviter de s’ouvrir, craignant d’être vulnérable ou rejeté.  
+- Une personne avec un attachement anxieux peut être très inquiet de perdre ses amis, cherchant constamment des signes de réassurance.  
 
-Dans le cas d’Thomas, son hésitation et ses doutes révèlent une forme d’attachement anxieux. Elle redoute inconsciemment que ses amis la laissent tomber, comme le bébé dans l’expérience d’Ainsworth qui panique quand sa mère part. Cette peur l’empêche parfois de s’engager pleinement dans ses relations, ce qui crée un cercle vicieux.  
+Dans le cas d’Thomas, son hésitation et ses doutes révèlent une forme d’attachement anxieux. Il redoute inconsciemment que ses amis la laissent tomber, comme le bébé dans l’expérience d’Ainsworth qui panique quand sa mère part. Cette peur l’empêche parfois de s’engager pleinement dans ses relations, ce qui crée un cercle vicieux.  
 
 ### 3 techniques pratiques pour sortir des schémas liés à la situation étrange de Mary Ainsworth en amitié  
 
 Voici trois exercices simples qu’Thomas et vous pouvez essayer pour mieux comprendre et transformer ces comportements :  
 
 1. **Identifier ses déclencheurs émotionnels**  
-   - Prenez un carnet et notez les moments où vous ressentez une montée d’angoisse ou d’hésitation avec vos amis.  
+   - Prenez un carnet et notez les moments où vous ressentez une monté d’angoisse ou d’hésitation avec vos amis.  
    - Qu’est-ce qui se passe autour ? Une absence de réponse ? Un changement de ton ?  
    - Reconnaitre ces signes vous aide à mieux comprendre vos réactions automatiques et à ne plus les subir sans conscience.  
 
@@ -53,9 +53,9 @@ Voici trois exercices simples qu’Thomas et vous pouvez essayer pour mieux comp
 
 ### Thomas commence à évoluer grâce à ces techniques  
 
-Après plusieurs semaines à appliquer ces exercices, Thomas remarque un changement subtil mais profond. Lors d’une soirée avec ses amis, elle sent toujours un petit doute, mais elle le repère maintenant plus vite. Plutôt que de se refermer, elle inspire profondément et ose poser une question lorsqu’elle est incertaine. Elle sent aussi que ses amis répondent avec bienveillance, ce qui nourrit un sentiment de sécurité nouveau.  
+Après plusieurs semaines à appliquer ces exercices, Thomas remarque un changement subtil mais profond. Lors d’une soirée avec ses amis, il sent toujours un petit doute, mais il le repère maintenant plus vite. Plutôt que de se refermer, il inspire profondément et ose poser une question lorsqu’il est incertain. Il sent aussi que ses amis répondent avec bienveillance, ce qui nourrit un sentiment de sécurité nouveau.  
 
-Petit à petit, Thomas comprend que ces anciennes peurs ne la définissent pas. Elles sont des traces d’un passé qu’elle peut dépasser, en se donnant le droit d’être vulnérable et authentique dans ses relations.  
+Petit à petit, Thomas comprend que ces anciennes peurs ne la définissent pas. Elles sont des traces d’un passé qu’il peut dépasser, en se donnant le droit d’être vulnérable et authentique dans ses relations.  
 
 ### Conclusion : un message d’espoir pour vos amitiés  
 
