@@ -13,11 +13,11 @@ contexte: "en couple"
 draft: false
 ---
 
-Camille reçoit un message et son cœur se serre avant même d'allumer l'écran. Elle fixe la notification, l'odeur du café froid dans la cuisine remonte jusqu'à lui, et son esprit commence à dérouler un film où chaque détail devient la preuve d'un désastre imminent. "Si elle part, tout mon monde s'écroule", pense-t-elle. Sa gorge se noue, comme si l'air venait à manquer.
+Camille reçoit un message et son cœur se serre avant même d'allumer l'écran. Elle fixe la notification, l'odeur du café froid dans la cuisine remonte jusqu'à elle, et son esprit commence à dérouler un film où chaque détail devient la preuve d'un désastre imminent. "Si elle part, tout mon monde s'écroule", pense-t-elle. Sa gorge se noue, comme si l'air venait à manquer.
 
-Elle relit la petite phrase banale de sa compagne, la décortique, et la projette à nouveau dans sa tête avec des sous-titres alarmistes. La voix intérieure lui murmure des scénarios sombres qui s'enchaînent : disputes, rupture, solitude. Ses mains sur le téléphone sont légèrement moites et la pièce semble soudain plus étroite. Elle sait au fond de lui que c'est excessif, pourtant l'image d'un départ irréversible s'impose, vive comme un éclair.
+Elle relit la petite phrase banale de sa compagne, la décortique, et la projette à nouveau dans sa tête avec des sous-titres alarmistes. La voix intérieure lui murmure des scénarios sombres qui s'enchaînent : disputes, rupture, solitude. Ses mains sur le téléphone sont légèrement moites et la pièce semble soudain plus étroite. Elle sait au fond d'elle que c'est excessif, pourtant l'image d'un départ irréversible s'impose, vive comme un éclair.
 
-Dans le salon, la sonnette le ramène au présent. Sa compagne entre, sourit tranquillement, et elle se surprend à guetter un reproche ou un signe d'indifférence qui ne vient pas. Elle ressent un soulagement immédiat mêlé à une fatigue lourde, le prix que son corps paie pour cette alerte constante. Camille aimerait que cela s'arrête, mais elle ne sait pas toujours à quel moment ses pensées basculent de la simple préoccupation au scénario catastrophe.
+Dans le salon, la sonnette la ramène au présent. Sa compagne entre, sourit tranquillement, et elle se surprend à guetter un reproche ou un signe d'indifférence qui ne vient pas. Elle ressent un soulagement immédiat mêlé à une fatigue lourde, le prix que son corps paie pour cette alerte constante. Camille aimerait que cela s'arrête, mais elle ne sait pas toujours à quel moment ses pensées basculent de la simple préoccupation au scénario catastrophe.
 
 ## Qu'est-ce que la catastrophisation ?
 
@@ -53,7 +53,7 @@ Conséquences : tensions fréquentes, difficulté à écouter l'autre sans se br
 
 ### 3. L'anticipation de l'abandon et l'hypervigilance
 
-Plutôt que de vivre l'instant présent, Camille passe son temps à redouter l'avenir, et particulièrement la peur d'être quitté. Cette crainte le pousse à surveiller, questionner et parfois chercher à contrôler la situation. Cela crée un cercle vicieux : son anxiété peut amener l'autre à se replier, ce qui confirme alors le scénario redouté.
+Plutôt que de vivre l'instant présent, Camille passe son temps à redouter l'avenir, et particulièrement la peur d'être quitté. Cette crainte la pousse à surveiller, questionner et parfois chercher à contrôler la situation. Cela crée un cercle vicieux : son anxiété peut amener l'autre à se replier, ce qui confirme alors le scénario redouté.
 
 Exemples :
 - Chercher des indices cachés dans les messages par peur de l'abandon.

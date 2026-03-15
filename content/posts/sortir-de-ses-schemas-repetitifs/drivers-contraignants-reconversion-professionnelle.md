@@ -13,13 +13,13 @@ contexte: "en reconversion professionnelle"
 draft: false
 ---
 
-Margot fixe l'écran de son ordinateur portable, le curseur clignotant sur une page blanche. Elle est 22h30. Sa femme dort depuis longtemps, la maison est silencieuse. À 58 ans, après trente ans dans la finance, elle a pris la décision de se reconvertir dans l'accompagnement en gestion de carrière. Un projet mûri pendant des mois, une formation commencée avec enthousiasme. Pourtant ce soir, elle est paralysée.
+Margot fixe l'écran de son ordinateur portable, le curseur clignotant sur une page blanche. Il est 22h30. Sa femme dort depuis longtemps, la maison est silencieuse. À 52 ans, après vingt-cinq ans dans la finance, elle a pris la décision de se reconvertir dans l'accompagnement en gestion de carrière. Un projet mûri pendant des mois, une formation commencée avec enthousiasme. Pourtant ce soir, elle est paralysée.
 
 Elle doit rendre un mémoire de fin de module dans trois jours. Elle a déjà rédigé quinze pages, effacé dix, recommencé, corrigé, reformulé. Chaque phrase lui semble bancale. Chaque argument, insuffisant. Elle sent une voix intérieure qui murmure sans relâche : « Ce n'est pas assez bien. Recommence. Tu ne peux pas te permettre de rendre quelque chose de médiocre. » Margot serre les mâchoires. Ses épaules sont nouées. Elle ouvre un nouveau document et recommence une fois de plus.
 
-Le lendemain matin, dans le métro, elle consulte les messages de son groupe de formation. Plusieurs camarades partagent leurs avancées, demandent de l'aide, expriment leurs doutes. Margot lit, mais ne répond pas. Demander de l'aide, c'est montrer qu'elle ne maîtrise pas la situation. Et ça, pour lui, c'est impensable. Elle a toujours été celui qui gère, celui qui rassure les autres, celui qui ne fléchit pas. Même en pleine reconversion, à 58 ans, dans un domaine qu'elle découvre à peine, elle s'impose les mêmes exigences qu'au sommet de sa carrière en finance.
+Le lendemain matin, dans le métro, elle consulte les messages de son groupe de formation. Plusieurs camarades partagent leurs avancées, demandent de l'aide, expriment leurs doutes. Margot lit, mais ne répond pas. Demander de l'aide, c'est montrer qu'elle ne maîtrise pas la situation. Et ça, pour elle, c'est impensable. Elle a toujours été celle qui gère, celle qui rassure les autres, celle qui ne fléchit pas. Même en pleine reconversion, à 52 ans, dans un domaine qu'elle découvre à peine, elle s'impose les mêmes exigences qu'au sommet de sa carrière en finance.
 
-Ce que Margot ne voit pas encore, c'est que ces voix intérieures qui le poussent, le pressent et l'épuisent portent un nom en psychologie. Ce sont les drivers contraignants, et ils sont en train de saboter sa reconversion en silence.
+Ce que Margot ne voit pas encore, c'est que ces voix intérieures qui la poussent, la pressent et l'épuisent portent un nom en psychologie. Ce sont les drivers contraignants, et ils sont en train de saboter sa reconversion en silence.
 
 ## Qu'est-ce que les drivers contraignants ?
 
@@ -45,7 +45,7 @@ Margot en est l'illustration vivante. Son mémoire n'est jamais assez bon. Ses n
 
 ### Le driver « Sois fort » face au changement
 
-C'est celui qui empêche Margot de partager ses doutes avec son groupe de formation. Elle se dit qu'un homme de 58 ans, ancien directeur financier, ne peut pas avouer qu'elle se sent perdue. Résultat : elle s'isole, accumule la fatigue émotionnelle et perd l'accès à l'une des ressources les plus précieuses d'une reconversion, le soutien collectif.
+C'est celui qui empêche Margot de partager ses doutes avec son groupe de formation. Elle se dit qu'une femme de 52 ans, ancienne directrice financière, ne peut pas avouer qu'elle se sent perdue. Résultat : elle s'isole, accumule la fatigue émotionnelle et perd l'accès à l'une des ressources les plus précieuses d'une reconversion, le soutien collectif.
 
 ### Le driver « Fais des efforts » et l'épuisement
 
@@ -82,7 +82,7 @@ Quelques semaines après avoir découvert le concept des drivers contraignants l
 
 Un mardi soir, elle fait quelque chose d'inédit. Elle ouvre le groupe de discussion de sa formation et écrit : « Je galère sur le mémoire. Est-ce que quelqu'un veut qu'on en parle ensemble ? » Trois réponses arrivent en quelques minutes. L'une d'elles vient d'une camarade de 32 ans qui lui dit : « Merci d'avoir osé le dire. Je n'aurais jamais cru que quelqu'un comme toi pouvait douter aussi. »
 
-Margot sent quelque chose se fissurer en lui. Pas une rupture, mais une ouverture. Elle comprend que la force qu'elle s'imposait n'était pas de la solidité, mais de la rigidité. Et que cette rigidité l'empêchait d'apprendre, de se connecter aux autres, et finalement d'avancer dans sa reconversion.
+Margot sent quelque chose se fissurer en elle. Pas une rupture, mais une ouverture. Elle comprend que la force qu'elle s'imposait n'était pas de la solidité, mais de la rigidité. Et que cette rigidité l'empêchait d'apprendre, de se connecter aux autres, et finalement d'avancer dans sa reconversion.
 
 Elle rend son mémoire le vendredi. Pas parfait. Pas irréprochable. Mais honnête, personnel, et terminé. C'est la première fois en trente ans qu'elle autorise quelque chose d'imparfait à sortir de ses mains. Et contre toute attente, elle se sent plus léger qu'elle ne l'a été depuis des mois.
 

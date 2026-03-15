@@ -13,9 +13,9 @@ contexte: "lors d'un entretien d'embauche"
 draft: false
 ---
 
-Mei est assise dans une petite salle vitrée, ses doigts froissent la pochette de son portfolio. À 49 ans, en pleine période de bilan de mi-vie, elle attend son tour pour un entretien décisif. L'air sent le café tiède et le plastique des chaises, tandis que le gardien de l'immeuble pianote sur son clavier au fond du couloir. Mei regarde une dernière fois les graphiques qu'elle a préparés la veille : chaque chiffre lui rappelle une heure passée à ajuster une formule ou à peaufiner une mise en page.
+Mei est assise dans une petite salle vitrée, ses doigts froissent la pochette de son portfolio. À 22 ans, en pleine recherche d'emploi, elle attend son tour pour un entretien décisif. L'air sent le café tiède et le plastique des chaises, tandis que le gardien de l'immeuble pianote sur son clavier au fond du couloir. Mei regarde une dernière fois les graphiques qu'elle a préparés la veille : chaque chiffre lui rappelle une heure passée à ajuster une formule ou à peaufiner une mise en page.
 
-Elle répète silencieusement sa présentation. Les mots sont fluides à force de répétition, mais un nœud d'appréhension serre sa poitrine. Elle se dit que tout ce travail fait de sa proposition la meilleure, que ce qu'elle a construit mérite d'être reconnu. Elle ressent une fierté presque physique face à son propre travail, comme si chaque page du portfolio était une extension de elle-même. Pourtant, au fond, une petite voix doute : si le recruteur ne partage pas ce regard, que fera-t-elle ?
+Elle répète silencieusement sa présentation. Les mots sont fluides à force de répétition, mais un nœud d'appréhension serre sa poitrine. Elle se dit que tout ce travail fait de sa proposition la meilleure, que ce qu'elle a construit mérite d'être reconnu. Elle ressent une fierté presque physique face à son propre travail, comme si chaque page du portfolio était une extension d'elle-même. Pourtant, au fond, une petite voix doute : si le recruteur ne partage pas ce regard, que fera-t-elle ?
 
 Quand la responsable des ressources humaines ouvre la porte, Mei saisit sa pochette. Elle sent la texture du papier sous ses doigts et repense à ces longues heures d'assemblage. Elle entre, serre la main de son interlocutrice et sourit. La conversation s'engage et, très vite, elle sort de son sac un prototype, des exemples de rapports faits maison et une explication détaillée de sa démarche. À la moindre remarque du recruteur, elle sent son visage chauffer, prête à défendre chaque détail. Elle est convaincue que son attachement à ce qu'elle a fabriqué jouera en sa faveur. Elle ignore encore que ce sentiment porte un nom : l'effet IKEA.
 
@@ -49,7 +49,7 @@ Le piège consiste à confondre l'attachement affectif et la pertinence professi
 
 ### 3. Une sélection d'exemples biaisée
 
-Sous l'influence de l'effet IKEA, Mei choisit les parties de son travail dont elle est le plus fier pour défendre son profil, en laissant de côté les projets moins aboutis. Elle met en avant ses succès, non par arrogance, mais parce qu'elle est naturellement attiré par ce qu'elle a bâti de ses mains. Cela crée une vision partielle de ses compétences.
+Sous l'influence de l'effet IKEA, Mei choisit les parties de son travail dont elle est le plus fier pour défendre son profil, en laissant de côté les projets moins aboutis. Elle met en avant ses succès, non par arrogance, mais parce qu'elle est naturellement attirée par ce qu'elle a bâti de ses mains. Cela crée une vision partielle de ses compétences.
 
 Cela se traduit par :
 - L'oubli des erreurs passées qui témoignent pourtant d'une capacité d'apprentissage.

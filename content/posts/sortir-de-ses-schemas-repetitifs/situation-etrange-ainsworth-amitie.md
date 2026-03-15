@@ -19,7 +19,7 @@ Dans ce moment, Thomas vit une expérience très proche de ce qu’on appelle «
 
 ### Qu’est-ce que la situation étrange de Mary Ainsworth ?  
 
-La situation étrange est une expérience mise en place par la psychologue Mary Ainsworth dans les annés 1970 pour étudier l’attachement chez les bébés. Il consiste à observer comment un enfant réagit lorsque sa figure d’attachement principale (généralement la mère) quitte la pièce puis revient. Cette méthode révèle si l’enfant se sent sécurisé ou anxieux dans cette relation.  
+La situation étrange est une expérience mise en place par la psychologue Mary Ainsworth dans les années 1970 pour étudier l’attachement chez les bébés. Il consiste à observer comment un enfant réagit lorsque sa figure d’attachement principale (généralement la mère) quitte la pièce puis revient. Cette méthode révèle si l’enfant se sent sécurisé ou anxieux dans cette relation.  
 
 En résumé, la situation étrange de Mary Ainsworth met en lumière la qualité du lien d’attachement : est-il sécurisant, évitant ou ambivalent ? Cela influence profondément nos comportements émotionnels plus tard, même à l’âge adulte, notamment dans nos relations d’amitié ou amoureuses.  
 

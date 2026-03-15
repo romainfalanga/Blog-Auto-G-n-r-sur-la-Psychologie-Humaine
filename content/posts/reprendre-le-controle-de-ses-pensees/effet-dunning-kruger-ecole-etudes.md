@@ -13,9 +13,9 @@ contexte: "à l'école ou aux études"
 draft: false
 ---
 
-Lucas serre la main moite, son cœur battant un rythme effréné. Il vient de terminer sa présentation devant sa classe de master en sciences cognitives. Malgré des heures passés à préparer ses notes, à peaufiner son diaporama, un doute s’installe : a-t-il vraiment maîtrisé le sujet ? Pourtant, quelques jours plus tôt, il était persuadée d’être parfaitement prêt, confiante, presque arrogante dans sa compréhension. Ce contraste la trouble. Comment a-t-il pu surestimer ses compétences si facilement ?  
+Lucas serre la main moite, son cœur battant un rythme effréné. Il vient de terminer sa présentation devant sa classe de master en sciences cognitives. Malgré des heures passés à préparer ses notes, à peaufiner son diaporama, un doute s’installe : a-t-il vraiment maîtrisé le sujet ? Pourtant, quelques jours plus tôt, il était persuadé d’être parfaitement prêt, confiant, presque arrogant dans sa compréhension. Ce contraste le trouble. Comment a-t-il pu surestimer ses compétences si facilement ?  
 
-Assis dans la bibliothèque, Lucas feuillette ses cours, entourée du murmure des pages tournés et du grincement des chaises. Il repense à ce moment embarrassant où son professeur a souligné plusieurs imprécisions dans son exposé. Ce sentiment d’incompétence inattendu lui semble presque étranger. Il, qui a toujours excellé à l’école, se demande si ce n’est pas une simple maladresse. Pourtant, d’autres camarades, moins à l’aise dans le domaine, semblent parfois bien mieux comprendre les subtilités du sujet.  
+Assis dans la bibliothèque, Lucas feuillette ses cours, entouré du murmure des pages tournés et du grincement des chaises. Il repense à ce moment embarrassant où son professeur a souligné plusieurs imprécisions dans son exposé. Ce sentiment d’incompétence inattendu lui semble presque étranger. Lui, qui a toujours excellé à l’école, se demande si ce n’est pas une simple maladresse. Pourtant, d’autres camarades, moins à l’aise dans le domaine, semblent parfois bien mieux comprendre les subtilités du sujet.  
 
 Lucas se souvient alors d’un concept qu’il avait lu en psychologie : l’**effet Dunning-Kruger**. Ce terme bizarre, entendu dans une conférence, prend soudain tout son sens. Est-il possible que son jugement ait été biaisé ? Que son cerveau ait joué un tour à sa confiance ?  
 

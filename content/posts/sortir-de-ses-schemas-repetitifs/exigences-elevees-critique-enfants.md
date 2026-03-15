@@ -13,9 +13,9 @@ contexte: "avec ses enfants"
 draft: false
 ---
 
-Camille s’assit à la table de la cuisine, le front plissé, tandis que ses deux adolescents s’affairaient autour de lui. Elle regardait leur devoir de mathématiques, déjà entaché de plusieurs erreurs, et sans s’en rendre compte, sa voix monta un peu plus qu’elle ne le souhaitait : « Mais comment peux-tu te tromper sur ça ? Tu sais faire mieux que ça ! » Son fils baissa les yeux, tandis que sa fille se détourna, pincée par ce ton qu’elle avait déjà entendu mille fois. La tension flottait dans l’air, lourde, presque palpable. Lukas ressentait un mélange d’impatience et de frustration, une colère sourde contre ces résultats qu’elle jugeait insuffisants, mais aussi contre elle-même.  
+Camille s’assit à la table de la cuisine, le front plissé, tandis que ses deux adolescents s’affairaient autour d’elle. Elle regardait leur devoir de mathématiques, déjà entaché de plusieurs erreurs, et sans s’en rendre compte, sa voix monta un peu plus qu’elle ne le souhaitait : « Mais comment peux-tu te tromper sur ça ? Tu sais faire mieux que ça ! » Son fils baissa les yeux, tandis que sa fille se détourna, pincée par ce ton qu’elle avait déjà entendu mille fois. La tension flottait dans l’air, lourde, presque palpable. Camille ressentait un mélange d’impatience et de frustration, une colère sourde contre ces résultats qu’elle jugeait insuffisants, mais aussi contre elle-même.  
 
-Depuis toujours, Camille avait grandi avec cette idée que la réussite était la clé du bonheur, et que l’effort devait être parfait, sans concession. Son père, homme exigeant et peu démonstratif, lui répétait souvent que l’excellence n’était pas une option mais une obligation. Ces mots résonnaient encore en lui, venant se glisser sans prévenir dans ses propres attentes envers ses enfants. Elle voulait leur transmettre le meilleur, les pousser à se dépasser, mais souvent, sa voix devenait tranchante, sa critique excessive. Ce soir-là, face aux regards déçus de ses enfants, elle comprit que quelque chose devait changer.  
+Depuis toujours, Camille avait grandi avec cette idée que la réussite était la clé du bonheur, et que l’effort devait être parfait, sans concession. Son père, homme exigeant et peu démonstratif, lui répétait souvent que l’excellence n’était pas une option mais une obligation. Ces mots résonnaient encore en elle, venant se glisser sans prévenir dans ses propres attentes envers ses enfants. Elle voulait leur transmettre le meilleur, les pousser à se dépasser, mais souvent, sa voix devenait tranchante, sa critique excessive. Ce soir-là, face aux regards déçus de ses enfants, elle comprit que quelque chose devait changer.  
 
 ### Qu’est-ce que les exigences élevées et la critique excessive ?  
 
@@ -31,14 +31,14 @@ Camille n’est pas un cas isolé. Dans bien des familles, des parents perfectio
 - Réagir par une critique immédiate et parfois disproportionnée face à une petite faute ou un comportement jugé insuffisant.  
 - Avoir du mal à reconnaître les efforts sans mettre l’accent sur le résultat final.  
 
-Ces comportements peuvent créer une ambiance où l’enfant se sent constamment jugé et jamais tout à fait à la hauteur. À long terme, cela peut affecter son estime de elle-même et sa motivation.  
+Ces comportements peuvent créer une ambiance où l’enfant se sent constamment jugé et jamais tout à fait à la hauteur. À long terme, cela peut affecter son estime d'elle-même et sa motivation.  
 
 ### Techniques pour apaiser les exigences élevées et la critique excessive avec ses enfants  
 
-Elle est possible de transformer cette dynamique en adoptant des méthodes plus bienveillantes et efficaces. Voici trois exercices concrets pour commencer :  
+Il est possible de transformer cette dynamique en adoptant des méthodes plus bienveillantes et efficaces. Voici trois exercices concrets pour commencer :  
 
 1. **Le journal des réussites**  
-   Chaque soir, notez avec votre enfant trois choses qu’elle a bien faites dans la journée, même petites. Cela aide à focaliser l’attention sur les progrès plutôt que sur les erreurs.  
+   Chaque soir, notez avec votre enfant trois choses qu’il ou elle a bien faites dans la journée, même petites. Cela aide à focaliser l’attention sur les progrès plutôt que sur les erreurs.  
 
 2. **La règle du sandwich**  
    Lorsque vous devez faire une remarque, commencez par un compliment sincère, puis formulez la critique de manière constructive, et terminez par une note encourageante. Par exemple : « J’aime ta volonté, mais ici elle y a une petite erreur, et je suis sûr que tu peux la corriger. »  

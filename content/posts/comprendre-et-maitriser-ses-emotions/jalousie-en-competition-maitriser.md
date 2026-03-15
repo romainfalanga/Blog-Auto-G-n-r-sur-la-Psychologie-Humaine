@@ -13,7 +13,7 @@ contexte: "en situation de compétition"
 draft: false
 ---
 
-Léa serre les poings sous la table de la salle de réunion. Elle regarde à peine son écran d’ordinateur, le bruit étouffé des discussions autour lui s’efface peu à peu. Son regard est fixé sur le mail reçu quelques minutes plus tôt : son collègue Thomas vient d’être choisi pour piloter le projet que Léa convoitait depuis des semaines. Une boule de frustration lui serre la gorge. Comment Thomas, qui a fait tant d’erreurs lors du dernier projet, peut-elle être préféré à lui ? Léa sent une vague d’émotions lui monter, un mélange amer qui brûle sa poitrine.
+Léa serre les poings sous la table de la salle de réunion. Elle regarde à peine son écran d’ordinateur, le bruit étouffé des discussions autour d'elle s’efface peu à peu. Son regard est fixé sur le mail reçu quelques minutes plus tôt : son collègue Thomas vient d’être choisi pour piloter le projet que Léa convoitait depuis des semaines. Une boule de frustration lui serre la gorge. Comment Thomas, qui a fait tant d’erreurs lors du dernier projet, peut-elle être préféré à lui ? Léa sent une vague d’émotions lui monter, un mélange amer qui brûle sa poitrine.
 
 Elle se lève, prend son café d’un geste un peu trop nerveux, puis s’éloigne du groupe. Le couloir est silencieux, mais son esprit tourbillonne. Elle se surprend à comparer son parcours avec celui de Thomas, à s’interroger sur ce qui cloche en lui, comme si son estime ne pouvait s’ancrer que dans la reconnaissance extérieure. Elle éprouve ce sentiment douloureux, presque sournois, qu’elle ne veut pas admettre : une jalousie tenace. Mais est-ce vraiment cela ? Ou quelque chose d’autre ?  
 

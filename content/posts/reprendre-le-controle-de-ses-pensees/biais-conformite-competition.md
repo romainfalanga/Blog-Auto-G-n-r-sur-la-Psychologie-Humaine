@@ -21,7 +21,7 @@ Cette scène illustre parfaitement ce que l’on appelle le biais de conformité
 
 ## Qu’est-ce que le biais de conformité ?  
 
-Le biais de conformité est la tendance à adopter les comportements, opinions ou croyances du groupe, même si ceux-ci vont à l’encontre de notre propre jugement. Ce mécanisme a été largement étudié par le psychologue Solomon Asch dans les annés 1950. Ses expériences ont montré que les individus préfèrent parfois se conformer à une majorité erronée plutôt que de s’opposer, pour éviter le rejet social ou le conflit.  
+Le biais de conformité est la tendance à adopter les comportements, opinions ou croyances du groupe, même si ceux-ci vont à l’encontre de notre propre jugement. Ce mécanisme a été largement étudié par le psychologue Solomon Asch dans les années 1950. Ses expériences ont montré que les individus préfèrent parfois se conformer à une majorité erronée plutôt que de s’opposer, pour éviter le rejet social ou le conflit.  
 
 En d’autres termes, le biais de conformité agit comme un frein interne, nous poussant à suivre le courant pour maintenir notre place au sein d’un groupe, surtout quand l’enjeu est élevé.  
 
