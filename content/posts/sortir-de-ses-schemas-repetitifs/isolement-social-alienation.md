@@ -17,7 +17,7 @@ Bernard pousse la porte de la salle où la réunion d'équipe commence, son mant
 
 La voix du manager emplit la pièce, les mots s'alignent avec régularité, et Bernard observe au lieu de participer. Ses mains effleurent sa tasse de café, il en goûte l'amertume sans vraiment la ressentir. Il se revoit enfant, parlant peu à l'école, préférant le refuge des livres aux récréations bruyantes. Dans sa mémoire, l'éducation reçue à la maison se découpe en règles strictes, en silences et en compliments rares, comme si l'affection et la parole étaient des denrées précieuses qu'il fallait mesurer.
 
-Pendant la pause, des petits groupes se forment, rient et échangent des anecdotes. Bernard écoute, sentant son cœur s'accélérer. Il a l'impression d'être à l'extérieur d'un tableau où tout le monde dessine à la même cadence. Il repense aux recommandations de ses parents pour "rester discrète", et il comprend, avec une certain douleur, que son sentiment d'aliénation dans les interactions sociales possède des racines anciennes, ancrées dans son histoire personnelle.
+Pendant la pause, des petits groupes se forment, rient et échangent des anecdotes. Bernard écoute, sentant son cœur s'accélérer. Il a l'impression d'être à l'extérieur d'un tableau où tout le monde dessine à la même cadence. Il repense aux recommandations de ses parents pour "rester discrète", et il comprend, avec une certain douleur, que son sentiment d'aliénation dans les interactions sociales possède des racines anciennes, ancrées dans son histoire personnelle.
 
 ## Qu'est-ce que l'isolement social et l'aliénation ?
 
@@ -25,7 +25,7 @@ L'isolement social se définit par une faible quantité ou qualité de relations
 
 Le lien entre isolement et santé mentale a été largement étudié, notamment par Julianne Holt-Lunstad, qui démontre que la solitude a des conséquences réelles sur l'équilibre physique et psychique. Pour la dimension de l'aliénation, le sociologue et psychologue Seeman (1959) a mis en avant des formes de déconnexion liées à la perte de contrôle et au manque de sens social. Ces perspectives expliquent pourquoi se sentir seul en société n'est pas un simple mal-être passager, mais souvent le résultat d'un mélange entre histoire personnelle et comportements appris dès l'enfance.
 
-Les recherches montrent que l'isolement augmente la vulnérabilité face à la dépression ou à l'anxiété et modifie notre façon de réagir au stress. Ces donnés rappellent que ce sentiment d'aliénation, comme celui que traverse Bernard, mérite une attention bienveillante et des actions concrètes.
+Les recherches montrent que l'isolement augmente la vulnérabilité face à la dépression ou à l'anxiété et modifie notre façon de réagir au stress. Ces donnés rappellent que ce sentiment d'aliénation, comme celui que traverse Bernard, mérite une attention bienveillante et des actions concrètes.
 
 ## Comment l'isolement et l'aliénation se manifestent-ils dans les interactions sociales ?
 
@@ -36,7 +36,7 @@ Bernard est bien là, dans la salle de réunion, mais il reste silencieuse. Cett
 L'aliénation apparaît quand les échanges semblent vides de sens, ou quand on finit par croire que les autres ne peuvent pas comprendre notre monde intérieur. Bernard a l'impression que ses expériences ne trouvent pas d'écho, qu'il parle une langue différente. Cela crée une barrière émotionnelle où l'on finit par s'auto-exclure. On peut le ressentir en racontant un souvenir de week-end et en recevant une réponse banale : cela laisse un goût d'inachevé et renforce l'idée que s'ouvrir aux autres est inutile.
 
 ### L'évitement actif et le retrait progressif
-Peu à peu, l'évitement devient une stratégie de protection : on décline les invitations, on prétexte une fatigue, on se retire des événements. L'isolement social se construit ainsi, souvent sans bruit. Pour Bernard, refuser un déjeuner mène à refuser la proposition suivante et, sur le long terme, son cercle social se restreint. Cela commence parfois simplement en n'acceptant qu'une seul invitation par mois au lieu d'une par semaine.
+Peu à peu, l'évitement devient une stratégie de protection : on décline les invitations, on prétexte une fatigue, on se retire des événements. L'isolement social se construit ainsi, souvent sans bruit. Pour Bernard, refuser un déjeuner mène à refuser la proposition suivante et, sur le long terme, son cercle social se restreint. Cela commence parfois simplement en n'acceptant qu'une seul invitation par mois au lieu d'une par semaine.
 
 ## 3 techniques pour se reconnecter aux autres
 
@@ -50,12 +50,12 @@ Pourquoi ça marche : pour une personne réservée, l'idée d'une grande récept
 ### 2. La réécriture du script relationnel
 Le but est d'identifier les messages reçus dans l'enfance qui dictent le comportement actuel, pour les transformer en pensées plus aidantes.
 
-Exercice concret : dans un carnet, notez trois phrases entendus durant votre jeunesse qui influencent vos interactions (par exemple : "Ne parle pas trop" ou "Il ne faut pas montrer ses émotions"). Pour chaque phrase, écrivez une alternative positive que vous pouvez utiliser aujourd'hui, comme : "Je peux exprimer mon avis sans déranger personne". Pratiquez ensuite ces nouvelles formulations mentalement ou devant un miroir avant une rencontre. L'objectif est de remplacer un vieux réflexe par une intention nouvelle.
+Exercice concret : dans un carnet, notez trois phrases entendus durant votre jeunesse qui influencent vos interactions (par exemple : "Ne parle pas trop" ou "Il ne faut pas montrer ses émotions"). Pour chaque phrase, écrivez une alternative positive que vous pouvez utiliser aujourd'hui, comme : "Je peux exprimer mon avis sans déranger personne". Pratiquez ensuite ces nouvelles formulations mentalement ou devant un miroir avant une rencontre. L'objectif est de remplacer un vieux réflexe par une intention nouvelle.
 
 Pourquoi ça marche : beaucoup de nos habitudes sociales viennent de l'éducation. Les reformuler consciemment aide à désamorcer la culpabilité ou la peur de prendre trop de place.
 
 ### 3. L'exposition graduée aux situations sociales
-Cette technique consiste à planifier une monté progressive dans la difficulté des échanges, tout en restant maître de son rythme.
+Cette technique consiste à planifier une monté progressive dans la difficulté des échanges, tout en restant maître de son rythme.
 
 Exercice concret : dressez une liste d'activités sociales classées de 1 (facile) à 5 (très exigeant). Par exemple : 1) saluer un voisin, 2) déjeuner avec une personne de confiance, 3) participer dix minutes à une réunion, 4) assister à un moment convivial entre collègues, 5) prendre la parole en public. Bernard choisit un niveau et s'y tient une fois par semaine, jusqu'à se sentir à l'aise avant de passer au palier suivant. À chaque étape, il évalue son anxiété sur une échelle de 0 à 10 pour observer sa diminution avec le temps.
 
@@ -63,7 +63,7 @@ Pourquoi ça marche : l'exposition graduée permet au cerveau de constater que l
 
 ## Bernard retrouve le chemin du lien
 
-Bernard commence par un micro-engagement : il salue Julien, qui travaille dans l'open space, et lui demande des nouvelles de son dossier. Sa voix tremble un peu, il sent la chaleur de son café contre ses doigts, mais il retourne à son bureau avec une pointe de fierté. Il a franchi une étape. La première fois, son anxiété était à 6 sur 10, la deuxième fois, il est tombé à 4.
+Bernard commence par un micro-engagement : il salue Julien, qui travaille dans l'open space, et lui demande des nouvelles de son dossier. Sa voix tremble un peu, il sent la chaleur de son café contre ses doigts, mais il retourne à son bureau avec une pointe de fierté. Il a franchi une étape. La première fois, son anxiété était à 6 sur 10, la deuxième fois, il est tombé à 4.
 
 Ensuite, il reprend son carnet pour travailler sur ses anciens scripts. "On ne se plaint pas", lit-il. Il écrit en face : "Mes ressentis ont le droit d'exister." Il répète cette phrase, sentant sa voix s'affermir. Le soir, il se prépare mentalement avant une réunion. Lorsqu'on sollicite son avis, il le donne brièvement, en s'appuyant sur la phrase qu'il a préparée.
 
@@ -75,6 +75,6 @@ Avec le temps, les rencontres ne sont plus des montagnes insurmontables, mais de
 
 Le chemin pour sortir de l'isolement est progressif, et chaque petit pas compte. En comprenant l'origine de ses blocages, en testant des engagements légers et en s'exposant à son rythme, il est possible de reconstruire des liens qui respectent sa nature profonde.
 
-Ces changements demandent du temps et les moments de doute font parti du processus. Si le sentiment d'aliénation est trop lourd ou persistant, l'accompagnement par un professionnel peut offrir un soutien précieux et des outils complémentaires.
+Ces changements demandent du temps et les moments de doute font parti du processus. Si le sentiment d'aliénation est trop lourd ou persistant, l'accompagnement par un professionnel peut offrir un soutien précieux et des outils complémentaires.
 
 Bernard n'a pas transformé sa vie en un instant, mais il apprend à habiter le monde autrement, en s'autorisant quelques mots et quelques moments partagés. Pour vous aussi, il existe des étapes possibles, mesurées et respectueuses de votre rythme, pour retrouver le fil du lien social.

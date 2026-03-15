@@ -13,11 +13,11 @@ contexte: "en situation de conflit"
 draft: false
 ---
 
-Ce soir-là, Karim s’assoit lentement dans son fauteuil préféré, le regard encore chargé de l’échange houleux avec sa fille. Les murs de son salon semblent soudain un peu plus étroits, comme si l’air lui-même retenait sa respiration. Son cœur bat un peu plus fort, et cette petite boule au creux de son ventre ne veut pas disparaître. « Pourquoi ai-je réagi comme ça ? », se demande-t-il, la gorge serrée. Karim, 40 ans, a toujours voulu plaire, éviter les conflits, préserver l’harmonie familiale. Pourtant, aujourd’hui, le dialogue s’est transformé en confrontation, et il se retrouve submergé par une culpabilité qu’il connaît trop bien.  
+Ce soir-là, Karim s’assoit lentement dans son fauteuil préféré, le regard encore chargé de l’échange houleux avec sa fille. Les murs de son salon semblent soudain un peu plus étroits, comme si l’air lui-même retenait sa respiration. Son cœur bat un peu plus fort, et cette petite boule au creux de son ventre ne veut pas disparaître. « Pourquoi ai-je réagi comme ça ? », se demande-t-il, la gorge serrée. Karim, 40 ans, a toujours voulu plaire, éviter les conflits, préserver l’harmonie familiale. Pourtant, aujourd’hui, le dialogue s’est transformé en confrontation, et il se retrouve submergé par une culpabilité qu’il connaît trop bien.  
 
-Il repense à ses mots, à ce ton qu’il a osé lever, à ce silence lourd qui a suivi. La culpabilité l’envahit, ce sentiment insidieux qui la fait penser qu’il a fait du tort, qu’il aurait pu être différente, meilleure. Ce poids est d’autant plus grand qu’il se sent responsable non seulment de ses actes, mais aussi des émotions et du malaise de sa fille. Il aimerait pouvoir tout réparer, mais ne sait pas par où commencer.  
+Il repense à ses mots, à ce ton qu’il a osé lever, à ce silence lourd qui a suivi. La culpabilité l’envahit, ce sentiment insidieux qui le fait penser qu’il a fait du tort, qu’il aurait pu être différent, meilleur. Ce poids est d’autant plus grand qu’il se sent responsable non seulement de ses actes, mais aussi des émotions et du malaise de sa fille. Il aimerait pouvoir tout réparer, mais ne sait pas par où commencer.  
 
-La culpabilité en situation de conflit peut être une prison pour beaucoup, surtout pour les personnes comme Karim, qui aspirent à la paix et redoutent la désapprobation. Pourtant, comprendre ce qu’est réellement la culpabilité et comment il fonctionne peut être le premier pas vers la liberté intérieure.  
+La culpabilité en situation de conflit peut être une prison pour beaucoup, surtout pour les personnes comme Karim, qui aspirent à la paix et redoutent la désapprobation. Pourtant, comprendre ce qu’est réellement la culpabilité et comment elle fonctionne peut être le premier pas vers la liberté intérieure.  
 
 ## Qu’est-ce que la culpabilité ?  
 
@@ -46,7 +46,7 @@ Voici trois techniques simples que Karim a pu essayer, et que vous pouvez appliq
 
 ### 1. Reconnaître et nommer sa culpabilité sans jugement  
 
-La première étape est d’accueillir la culpabilité comme une émotion normale, sans se juger. Par exemple, Karim s’est surpris à se dire : « Je ressens de la culpabilité, c’est OK. » Cela permet de diminuer l’auto-reproche et d’observer cette émotion avec un peu de distance, comme si il était un nuage passager.  
+La première étape est d’accueillir la culpabilité comme une émotion normale, sans se juger. Par exemple, Karim s’est surpris à se dire : « Je ressens de la culpabilité, c’est OK. » Cela permet de diminuer l’auto-reproche et d’observer cette émotion avec un peu de distance, comme si elle était un nuage passager.  
 
 ### 2. Se poser des questions réalistes : « Est-ce que j’ai vraiment tort ? »  
 

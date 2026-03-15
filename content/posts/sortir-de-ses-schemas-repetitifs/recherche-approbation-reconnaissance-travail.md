@@ -13,15 +13,15 @@ contexte: "au travail"
 draft: false
 ---
 
-L’air est lourd dans la salle de réunion. Stéphane serre ses mains sur la table, sent son cœur battre un peu plus vite. Devant il, ses collègues échangent des regards et des sourires, tandis que le chef d’équipe félicite quelqu’un d’autre pour une idée. « Et moi... est-ce que j’ai fait assez ? », se demande-t-il au fond d’il-même. Comme souvent, Stéphane a passé la semaine à courir après les validations, à multiplier les petites attentions, à dire oui à tout, même quand il était épuisé.
+L’air est lourd dans la salle de réunion. Stéphane serre ses mains sur la table, sent son cœur battre un peu plus vite. Devant lui, ses collègues échangent des regards et des sourires, tandis que le chef d’équipe félicite quelqu’un d’autre pour une idée. « Et moi... est-ce que j’ai fait assez ? », se demande-t-il au fond de lui-même. Comme souvent, Stéphane a passé la semaine à courir après les validations, à multiplier les petites attentions, à dire oui à tout, même quand il était épuisé.
 
-Dans son bureau, il regarde le téléphone, hésite à envoyer un message à son responsable pour confirmer qu’il a bien terminé le rapport. Il redoute aussi le moment où il devra donner son avis en réunion. « Et si ce n’était pas assez pertinent ? » se répète-t-il. Stéphane est prise dans un tourbillon silencieux : celui de la recherche d’approbation au travail. Sans qu’il s’en rende compte, ce besoin profond d’être reconnue guide toutes ses actions, parfois au détriment de son bien-être.
+Dans son bureau, il regarde le téléphone, hésite à envoyer un message à son responsable pour confirmer qu’il a bien terminé le rapport. Il redoute aussi le moment où il devra donner son avis en réunion. « Et si ce n’était pas assez pertinent ? » se répète-t-il. Stéphane est pris dans un tourbillon silencieux : celui de la recherche d’approbation au travail. Sans qu’il s’en rende compte, ce besoin profond d’être reconnu guide toutes ses actions, parfois au détriment de son bien-être.
 
 ### Qu’est-ce que la recherche d’approbation/reconnaissance au travail ?
 
 La recherche d’approbation ou de reconnaissance au travail est la tendance à chercher constamment l’aval des autres pour se sentir valorisé et digne. C’est un besoin humain fondamental, mais qui devient problématique quand il prend le dessus, dictant nos choix et notre estime de soi. Le psychologue Carl Rogers a longtemps souligné que le besoin d’être accepté par les autres est normal, mais la dépendance excessive à cette reconnaissance peut limiter la liberté d’agir selon ses propres valeurs.
 
-Dans le cas d’Stéphane, ce besoin se manifeste sans qu’il le réalise vraiment. Il veut plaire à ses collègues, éviter les conflits, et surtout ne pas décevoir son chef. Ce schéma est fréquent chez les “people pleasers”, ces personnes qui ont du mal à dire non et à poser leurs limites, par peur d’être rejetés ou ignorées.
+Dans le cas d’Stéphane, ce besoin se manifeste sans qu’il le réalise vraiment. Il veut plaire à ses collègues, éviter les conflits, et surtout ne pas décevoir son chef. Ce schéma est fréquent chez les “people pleasers”, ces personnes qui ont du mal à dire non et à poser leurs limites, par peur d’être rejetés ou ignorées.
 
 ### Comment se manifeste la recherche d’approbation/reconnaissance au travail ?
 
@@ -32,7 +32,7 @@ Dans le quotidien professionnel, ce besoin peut passer par plusieurs comportemen
 - **Attendre des compliments pour se sentir légitime** : il note chaque petite louange comme une preuve qu’il vaut. L’absence de reconnaissance visible la plonge alors dans l’anxiété.  
 - **S’inquiéter excessivement de l’image qu’il renvoie** : il surveille ses propos et gestes, redoutant le moindre jugement.  
 
-Ces comportements sont des signaux que la recherche d’approbation est devenu une habitude inconscient, un schéma répétitif qui peut limiter l’épanouissement professionnel et personnel.
+Ces comportements sont des signaux que la recherche d’approbation est devenu une habitude inconscient, un schéma répétitif qui peut limiter l’épanouissement professionnel et personnel.
 
 ### 3 techniques pour s’en libérer et retrouver confiance
 
@@ -47,9 +47,9 @@ Prenez un carnet et notez ce qui est vraiment important pour vous dans votre tra
 3. **S’entraîner à dire non avec bienveillance**  
 Commencez par des refus simples, par exemple : « Merci pour ta proposition, je ne peux pas m’engager cette fois, mais n’hésite pas à me recontacter. » Cela vous aide à poser des limites claires sans jugements ni culpabilité.  
 
-### Le chemin d’Stéphane vers une meilleure estime d’il-même
+### Le chemin de Stéphane vers une meilleure estime de lui-même
 
-En appliquant ces techniques, Stéphane commence à sentir un léger changement. Lors d’une réunion, il prend le temps de respirer avant de répondre et ose exprimer une idée différente, même si il redoute un peu la réaction. Il relit régulièrement ses valeurs écrites et réalise qu’il souhaite plus de respect pour son temps et ses compétences. Peu à peu, il apprend à dire non, d’abord timidement, puis avec plus d’assurance.
+En appliquant ces techniques, Stéphane commence à sentir un léger changement. Lors d’une réunion, il prend le temps de respirer avant de répondre et ose exprimer une idée différente, même s'il redoute un peu la réaction. Il relit régulièrement ses valeurs écrites et réalise qu’il souhaite plus de respect pour son temps et ses compétences. Peu à peu, il apprend à dire non, d’abord timidement, puis avec plus d’assurance.
 
 Ce chemin n’est pas sans difficulté : l’envie de plaire ne disparaît pas du jour au lendemain, et parfois, la peur de décevoir ressurgit. Mais Stéphane comprend qu’il peut changer ses habitudes, pas en les niant, mais en les accueillant avec douceur et en choisissant ce qui lui fait du bien.
 

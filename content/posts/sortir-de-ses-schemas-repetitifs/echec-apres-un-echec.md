@@ -26,7 +26,7 @@ L'échec est l'expérience subjective de ne pas atteindre un objectif attendu. O
 
 Sur le plan scientifique, plusieurs chercheurs ont étudié pourquoi nous réagissons si différemment face aux obstacles. Carol Dweck a mis en lumière la notion d'état d'esprit fixe par opposition à l'état d'esprit de développement (fixed vs growth mindset). Elle montre que les personnes ayant un état d'esprit fixe voient l'échec comme une preuve d'incapacité, tandis que celles qui cultivent un état d'esprit de développement y voient une opportunité d'apprentissage (Dweck, 2006). Martin Seligman a, de son côté, proposé le concept d'impuissance apprise, qui explique comment des expériences négatives répétées peuvent mener à l'inactivité totale (Seligman, 1975). La manière dont nous attribuons les causes d'un échec (est-ce ma faute ? est-ce temporaire ?), étudiée par Bernard Weiner, aide aussi à comprendre pourquoi certains se blâment jusqu'à l'immobilisme.
 
-Enfin, la procrastination est intimement liée à ces réactions. Une méta-analyse de Piers Steel (2007) montre qu'elle touche environ 20 % des adultes et augmente face à des objectifs perçus comme menaçants. Comprendre ces mécanismes permet de repérer les racines des blocages d'Sophie.
+Enfin, la procrastination est intimement liée à ces réactions. Une méta-analyse de Piers Steel (2007) montre qu'elle touche environ 20 % des adultes et augmente face à des objectifs perçus comme menaçants. Comprendre ces mécanismes permet de repérer les racines des blocages de Sophie.
 
 ## Comment l'échec se manifeste-t-il concrètement ?
 ### 1. Rumination et auto-blâme prolongés
@@ -92,6 +92,6 @@ Le changement ne se fait pas en un jour, mais la répétition de ces petits pas 
 
 Vivre avec l'échec ne signifie pas devenir parfait instantanément, mais apprendre à réagir différemment. En changeant son regard sur les causes de nos revers, en découpant l'action et en s'exposant avec douceur au risque, on peut retrouver de l'élan. Ces outils ne suppriment pas la déception, ils la rendent simplement utile.
 
-Si vous vous reconnaissez dans le parcours d'Sophie, rappelez-vous que transformer des habitudes ancrées demande du temps. Chaque petit succès a de la valeur. La bienveillance envers soi-même est une force qui se cultive chaque jour. Vous avez aussi le droit de demander du soutien : si les échecs répétés deviennent trop lourds à porter, échanger avec un professionnel peut vous aider à trouver des solutions adaptées à votre situation.
+Si vous vous reconnaissez dans le parcours de Sophie, rappelez-vous que transformer des habitudes ancrées demande du temps. Chaque petit succès a de la valeur. La bienveillance envers soi-même est une force qui se cultive chaque jour. Vous avez aussi le droit de demander du soutien : si les échecs répétés deviennent trop lourds à porter, échanger avec un professionnel peut vous aider à trouver des solutions adaptées à votre situation.
 
 Rebondir est possible, non pas en oubliant le passé, mais en s'en servant comme d'une boussole. Donnez-vous le droit d'essayer, d'apprendre et de recommencer.

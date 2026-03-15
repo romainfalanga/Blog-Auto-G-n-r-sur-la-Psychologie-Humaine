@@ -13,9 +13,9 @@ contexte: "après un succès"
 draft: false
 ---
 
-Le soleil filtrant à travers les rideaux dévoilait la pièce baigné d’une lumière douce. Stéphane, assis sur son fauteuil préféré, tenait entre ses mains un trophée brillant. Il venait de recevoir un prix prestigieux pour son engagement associatif, une reconnaissance qu’il avait longtemps espérée. Pourtant, son sourire était timide, presque gêné. Au fond d’il, une sensation étrange l’envahissait. Il avait réussi, mais au lieu de savourer ce moment, une petite voix interne lui murmurait qu’il ne méritait pas autant d’attention.
+Le soleil filtrant à travers les rideaux dévoilait la pièce baignée d’une lumière douce. Stéphane, assis sur son fauteuil préféré, tenait entre ses mains un trophée brillant. Il venait de recevoir un prix prestigieux pour son engagement associatif, une reconnaissance qu’il avait longtemps espérée. Pourtant, son sourire était timide, presque gêné. Au fond de lui, une sensation étrange l’envahissait. Il avait réussi, mais au lieu de savourer ce moment, une petite voix interne lui murmurait qu’il ne méritait pas autant d’attention.
 
-Stéphane regarda autour d’il, conscient du regard admiratif de ses proches. Pourtant, il se sentait comme une imposture. Cette sensation la suivait partout, comme une ombre qu’il ne parvenait pas à dissiper. Cette sensation, c’était de la honte après un succès. Un paradoxe déconcertant qu’il n’aurait jamais imaginé vivre à 62 ans, après tant d’annés de travail acharné.
+Stéphane regarda autour de lui, conscient du regard admiratif de ses proches. Pourtant, il se sentait comme une imposture. Cette sensation le suivait partout, comme une ombre qu’il ne parvenait pas à dissiper. Cette sensation, c’était de la honte après un succès. Un paradoxe déconcertant qu’il n’aurait jamais imaginé vivre à 45 ans, après tant d’années de travail acharné.
 
 ---
 
@@ -25,9 +25,9 @@ La honte est une émotion universelle définie comme une sensation douloureuse l
 
 Le psychologue américain Brené Brown, spécialiste des émotions humaines, explique que la honte est souvent liée à la peur du rejet social. Il naît quand on croit que nos défauts ou nos imperfections sont visibles et condamnent notre valeur en tant que personne.
 
-Dans le contexte particulier de la honte après un succès, cette émotion semble paradoxale. Comment peut-on se sentir honteux alors même qu’on vient d’être reconnu pour ses efforts ? Cela arrive souvent aux personnes perfectionnistes comme Stéphane, qui se fixent des standards très élevés. Le succès met en lumière leur travail, mais aussi les attentes qu’elles redoutent de ne pas toujours satisfaire. Elles craignent que ce succès les expose à la critique ou qu’il crée une pression pour être toujours au top.
+Dans le contexte particulier de la honte après un succès, cette émotion semble paradoxale. Comment peut-on se sentir honteux alors même qu’on vient d’être reconnu pour ses efforts ? Cela arrive souvent aux personnes perfectionnistes comme Stéphane, qui se fixent des standards très élevés. Le succès met en lumière leur travail, mais aussi les attentes qu’elles redoutent de ne pas toujours satisfaire. Elles craignent que ce succès les expose à la critique ou qu’il crée une pression pour être toujours au top.
 
-Par exemple, imaginez un cadre qui obtient une promotion. Au lieu de se réjouir, il ressent une anxiété intense, comme si ce nouveau poste le rendait vulnérable aux jugements. Ou une artiste qui présente son œuvre au public et se trouve submergé par le doute et la peur que ses imperfections soient vues. Ces réactions traduisent une honte liée à l’image de soi, et non à une réelle faute.
+Par exemple, imaginez un cadre qui obtient une promotion. Au lieu de se réjouir, il ressent une anxiété intense, comme si ce nouveau poste le rendait vulnérable aux jugements. Ou une artiste qui présente son œuvre au public et se trouve submergée par le doute et la peur que ses imperfections soient vues. Ces réactions traduisent une honte liée à l’image de soi, et non à une réelle faute.
 
 ---
 
@@ -63,7 +63,7 @@ Il s’autorisa à savourer ses succès, à reconnaître ses efforts sans s’au
 
 ---
 
-### Un message d’espoir pour vous, lecteurs perfectionnistes
+### Un message d’espoir pour vous, lecteurs perfectionnistes
 
 La honte après un succès peut sembler injuste et isolante, mais il est plus commune qu’on ne le croit. Comprendre cette émotion, la différencier de la culpabilité, et apprendre à s’en détacher aide à retrouver une relation plus douce avec soi-même et ses accomplissements.
 

@@ -13,9 +13,9 @@ contexte: "seule(e) face à soi-même"
 draft: false
 ---
 
-Sophie s’assit lentement sur le canapé de son petit appartement, le bruit du vent contre la fenêtre semblait amplifier chaque son dans la pièce presque vide. Elle avait passée la journée seule, sans rencontrer personne, et pourtant, une colère sourde montait en lui, un agacement inexplicable qui le rongeait de l’intérieur. Un simple clic maladroit sur la télécommande suffisait à le faire fulminer, un soupir entendu à quelques mètres éveillait en lui une irritation diffuse. Elle sentait sa mâchoire se crisper, ses mains serrées en poings, comme si une tension invisible s’était installée en lui, prête à exploser.
+Sophie s’assit lentement sur le canapé de son petit appartement, le bruit du vent contre la fenêtre semblait amplifier chaque son dans la pièce presque vide. Elle avait passé la journée seule, sans rencontrer personne, et pourtant, une colère sourde montait en elle, un agacement inexplicable qui la rongeait de l’intérieur. Un simple clic maladroit sur la télécommande suffisait à la faire fulminer, un soupir entendu à quelques mètres éveillait en elle une irritation diffuse. Elle sentait sa mâchoire se crisper, ses mains serrées en poings, comme si une tension invisible s’était installée en elle, prête à exploser.
 
-Sophie n’était pas d’habitude quelqu’un de colérique. Mais ces derniers temps, elle vivait souvent ces moments où, seule face à elle-même, une vague d’irritabilité semblait l’envahir sans prévenir. Ce phénomène le déroutait : pourquoi se sentir aussi agité sans raison apparente ? Assise dans le silence de son appartement, elle se demandait s’elle était en train de perdre le contrôle, ou pire, s’elle devenait quelqu’un d’agaçant, même pour elle-même.
+Sophie n’était pas d’habitude quelqu’un de colérique. Mais ces derniers temps, elle vivait souvent ces moments où, seule face à elle-même, une vague d’irritabilité semblait l’envahir sans prévenir. Ce phénomène la déroutait : pourquoi se sentir aussi agité sans raison apparente ? Assise dans le silence de son appartement, elle se demandait s’elle était en train de perdre le contrôle, ou pire, si elle devenait quelqu’un d’agaçant, même pour elle-même.
 
 Pourtant, cette irritation, bien que pénible, était un signal. Un signal que les chercheurs en psychologie nomment simplement « irritabilité ». Mais qu’est-ce que l’irritabilité exactement ? Et pourquoi est-elle si fréquente quand on est seule avec soi-même ?  
 
@@ -27,7 +27,7 @@ Cette définition simple cache une complexité émotionnelle qui touche notre é
 
 ## Pourquoi l’irritabilité apparaît-elle surtout quand on est seule face à soi-même ?  
 
-Être seule avec ses pensées peut parfois ressembler à une confrontation difficile. Sans distractions, notre esprit a tendance à ruminer, à se focaliser sur des petites contrariétés, des inquiétudes ou des frustrations non résolues. Dans ce contexte, l’irritabilité peut devenir plus intense parce qu’elle n’y a plus d’interruptions extérieures pour détourner notre attention.  
+Être seule avec ses pensées peut parfois ressembler à une confrontation difficile. Sans distractions, notre esprit a tendance à ruminer, à se focaliser sur des petites contrariétés, des inquiétudes ou des frustrations non résolues. Dans ce contexte, l’irritabilité peut devenir plus intense parce qu’il n’y a plus d’interruptions extérieures pour détourner notre attention.  
 
 Par exemple, Sophie se retrouvait souvent à s’agacer contre le moindre bruit, contre une page internet qui tarde à charger, ou simplement contre son propre reflet dans le miroir, avec ce sentiment persistant d’insatisfaction. Ce phénomène est largement documenté. Une étude publiée en 2021 dans la revue *Emotion* a montré que les personnes isolées socialement ont tendance à ressentir plus d’irritabilité, car le cerveau interprète la solitude prolongée comme une forme de stress.  
 

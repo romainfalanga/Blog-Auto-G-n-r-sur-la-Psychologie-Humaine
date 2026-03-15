@@ -1,7 +1,7 @@
 ---
 title: "Se libérer de l'effet de simple exposition sur les réseaux sociaux"
 date: 2026-03-13T10:34:29+00:00
-description: "Comment l'effet de simple exposition sur les réseaux sociaux vous retient et 3 techniques concrètes pour reprendre le contrôle, avec l'histoire d'Mei."
+description: "Comment l'effet de simple exposition sur les réseaux sociaux vous retient et 3 techniques concrètes pour reprendre le contrôle, avec l'histoire de Mei."
 categories: ["Reprendre le contrôle de ses pensées"]
 tags: ["effet-de-simple-exposition", "reseaux-sociaux", "relations-toxiques", "autoprotection", "psychologie"]
 slug: "effet-simple-exposition-reseaux"

@@ -13,19 +13,19 @@ contexte: "à l'école ou aux études"
 draft: false
 ---
 
-La salle de classe est baigné d'une lumière froide de novembre. Lucas s'installe en bout de rangée, les mains croisées sur son bureau, le regard qui glisse discrètement vers ses camarades. À 47 ans, il a repris des études de psychologie à l'université après vingt ans dans le monde de l'entreprise. Il est la seul de sa génération dans ce groupe, entourée d'étudiants de 20 ans qui se connaissent, qui se retrouvent après les cours, qui partagent les mêmes références.
+La salle de classe est baignée d'une lumière froide de novembre. Lucas s'installe en bout de rangée, les mains croisées sur son bureau, le regard qui glisse discrètement vers ses camarades. À 24 ans, il a repris des études de psychologie à l'université après quelques années dans le monde de l'entreprise. Il est le seul de sa promotion à avoir déjà travaillé, entouré d'étudiants de 18 ans qui se connaissent, qui se retrouvent après les cours, qui partagent les mêmes références.
 
-Aujourd'hui, le professeur soumet un débat au groupe : quelle méthode de mémorisation est la plus efficace pour les examens ? En quelques minutes, la majorité des étudiants s'accordent sur la technique des flashcards, enthousiasme contagieux à l'appui. Lucas connaît pourtant une autre approche, affiné au fil de ses annés d'expérience professionnelle, qui lui a toujours mieux convenu. Il pose la main sur son stylo, hésite, puis se ravise. Le poids du consensus est écrasant. Et si il avait tort ? Et si tout le monde la regardait avec cette expression polie qui signifie qu'il ne comprend pas les codes ?
+Aujourd'hui, le professeur soumet un débat au groupe : quelle méthode de mémorisation est la plus efficace pour les examens ? En quelques minutes, la majorité des étudiants s'accordent sur la technique des flashcards, enthousiasme contagieux à l'appui. Lucas connaît pourtant une autre approche, affinée au fil de ses années d'expérience professionnelle, qui lui a toujours mieux convenu. Il pose la main sur son stylo, hésite, puis se ravise. Le poids du consensus est écrasant. Et s'il avait tort ? Et si tout le monde le regardait avec cette expression polie qui signifie qu'il ne comprend pas les codes ?
 
 Il se tait. Et ce silence-là, il ne le comprend pas encore tout à fait.
 
-Ce que vit Lucas en cet instant, c'est l'une des formes les plus courantes d'un mécanisme que les psychologues appellent le biais de groupe. Ce biais, profondément enraciné dans notre fonctionnement social, influence en silence une grande parti de nos décisions dans les environnements collectifs, et plus encore dans le monde de l'école et des études.
+Ce que vit Lucas en cet instant, c'est l'une des formes les plus courantes d'un mécanisme que les psychologues appellent le biais de groupe. Ce biais, profondément enraciné dans notre fonctionnement social, influence en silence une grande partie de nos décisions dans les environnements collectifs, et plus encore dans le monde de l'école et des études.
 
 ## Qu'est-ce que le biais de groupe ?
 
-Le biais de groupe est la tendance à adopter les opinions, comportements ou jugements du groupe auquel on appartint, souvent au détriment d'une analyse personnelle et critique. Plutôt que de raisonner en autonomie, on s'aligne sur la pensée dominante, parfois par peur du jugement, parfois par besoin d'appartenance, parfois simplement parce que la pression collective est difficile à percevoir et encore plus difficile à contester.
+Le biais de groupe est la tendance à adopter les opinions, comportements ou jugements du groupe auquel on appartient, souvent au détriment d'une analyse personnelle et critique. Plutôt que de raisonner en autonomie, on s'aligne sur la pensée dominante, parfois par peur du jugement, parfois par besoin d'appartenance, parfois simplement parce que la pression collective est difficile à percevoir et encore plus difficile à contester.
 
-Ce phénomène a été largement étudié depuis les travaux du psychologue Solomon Asch dans les annés 1950, qui a démontré expérimentalement que des individus pouvaient affirmer des choses manifestement fausses, simplement parce que le groupe l'affirmait. Irving Janis a ensuite approfondi ce concept sous le nom de « pensée de groupe » (groupthink), en montrant comment la cohésion sociale peut court-circuiter le raisonnement critique, même chez des personnes pourtant compétentes.
+Ce phénomène a été largement étudié depuis les travaux du psychologue Solomon Asch dans les annés 1950, qui a démontré expérimentalement que des individus pouvaient affirmer des choses manifestement fausses, simplement parce que le groupe l'affirmait. Irving Janis a ensuite approfondi ce concept sous le nom de « pensée de groupe » (groupthink), en montrant comment la cohésion sociale peut court-circuiter le raisonnement critique, même chez des personnes pourtant compétentes.
 
 Dans un contexte scolaire ou universitaire, ce biais prend une forme particulièrement insidieuse. Les jeunes adultes, encore en construction de leur identité, sont naturellement sensibles à l'approbation de leurs pairs. Mais même des adultes plus matures, comme Lucas, n'y échappent pas : le besoin d'intégration dans un nouveau groupe social peut réactiver des mécanismes d'adaptation très anciens.
 
@@ -61,7 +61,7 @@ Trouver une personne, un professeur, un camarade ou un mentor, à qui vous pouve
 
 Quelques semaines plus tard, Lucas arrive en cours avec quelque chose de différent dans le regard. Il a pris l'habitude d'écrire ses réflexions dans un carnet avant chaque séance. Ce soir-là, quand le professeur relance un débat sur les stratégies d'apprentissage, il prend la parole. Pas pour contredire, mais pour poser une question : « Est-ce que certains d'entre vous ont essayé de combiner plusieurs méthodes selon le type de contenu ? »
 
-Un silence, puis trois mains qui se lèvent. Une conversation s'ouvre, plus riche, plus nuancée que les précédentes. Lucas sent quelque chose se détendre en il. Ce n'est pas qu'il avait raison et les autres tort. C'est simplement qu'il a osé exister intellectuellement dans ce groupe.
+Un silence, puis trois mains qui se lèvent. Une conversation s'ouvre, plus riche, plus nuancée que les précédentes. Lucas sent quelque chose se détendre en lui. Ce n'est pas qu'il avait raison et les autres tort. C'est simplement qu'il a osé exister intellectuellement dans ce groupe.
 
 ---
 
