@@ -975,6 +975,14 @@
           "category": "cat2_emotions",
           "titre": "Se libérer de la culpabilité en situation de conflit : l’histoire de Monique",
           "slug": "culpabilite-situation-conflit-monique"
+        },
+        {
+          "date": "2026-03-15",
+          "sujet": "biais d'engagement/escalade d'engagement",
+          "contexte": "en famille",
+          "category": "cat1_pensees",
+          "titre": "Biais d'engagement en famille : quand on s'enlise",
+          "slug": "biais-engagement-famille"
         }
       ]
     },
@@ -1537,6 +1545,14 @@
           "category": "cat2_emotions",
           "titre": "Embarras en société : comprendre la gêne et agir",
           "slug": "embarras-en-societe-interactions"
+        },
+        {
+          "date": "2026-03-15",
+          "sujet": "fusion/personnalité atrophiée",
+          "contexte": "en période de reconversion professionnelle",
+          "category": "cat3_schemas",
+          "titre": "Fusion et personnalité atrophiée en reconversion pro",
+          "slug": "fusion-personnalite-reconversion"
         }
       ]
     },
@@ -1613,6 +1629,14 @@
           "category": "cat3_schemas",
           "titre": "Manque affectif dans l'intimité et la sexualité",
           "slug": "manque-affectif-intimite-sexualite"
+        },
+        {
+          "date": "2026-03-15",
+          "sujet": "apathie",
+          "contexte": "en situation de conflit",
+          "category": "cat2_emotions",
+          "titre": "Apathie en situation de conflit : comprendre et agir",
+          "slug": "apathie-conflit-bernard"
         }
       ]
     }

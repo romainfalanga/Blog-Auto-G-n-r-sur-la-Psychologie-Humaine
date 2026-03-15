@@ -1461,6 +1461,66 @@
         "HPI",
         "gestion-des-emotions"
       ]
+    },
+    {
+      "date": "2026-03-15",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais d'engagement/escalade d'engagement",
+      "contexte": "en famille",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "enfant unique / aîné(e) / cadet(te) / benjamin(e)",
+      "prenom": "Karim",
+      "age": "40 ans",
+      "title": "Biais d'engagement en famille : quand on s'enlise",
+      "slug": "biais-engagement-famille",
+      "tags": [
+        "biais d'engagement",
+        "escalade d'engagement",
+        "vie familiale",
+        "prise de décision",
+        "équilibre travail-famille"
+      ]
+    },
+    {
+      "date": "2026-03-15",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "apathie",
+      "contexte": "en situation de conflit",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "contrôlant(e)",
+      "prenom": "Bernard",
+      "age": "58 ans",
+      "title": "Apathie en situation de conflit : comprendre et agir",
+      "slug": "apathie-conflit-bernard",
+      "tags": [
+        "apathie",
+        "conflit",
+        "deuil",
+        "communication",
+        "gestion-des-emotions"
+      ]
+    },
+    {
+      "date": "2026-03-15",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "fusion/personnalité atrophiée",
+      "contexte": "en période de reconversion professionnelle",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": "en burn-out",
+      "prenom": "Mei",
+      "age": "22 ans",
+      "title": "Fusion et personnalité atrophiée en reconversion pro",
+      "slug": "fusion-personnalite-reconversion",
+      "tags": [
+        "fusion",
+        "enmeshment",
+        "reconversion-professionnelle",
+        "burn-out",
+        "identité"
+      ]
     }
   ]
 }
