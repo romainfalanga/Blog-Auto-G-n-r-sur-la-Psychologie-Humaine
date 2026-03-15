@@ -347,6 +347,8 @@ def build_personnage_context(perso):
 
 def call_mammouth_api(model, system_prompt, user_prompt, temperature=0.85, max_tokens=4500, retries=3):
     """Appelle l'API Mammouth avec le modèle spécifié."""
+    import time
+
     headers = {
         "Authorization": f"Bearer {MAMMOUTH_API_KEY}",
         "Content-Type": "application/json"
@@ -364,19 +366,63 @@ def call_mammouth_api(model, system_prompt, user_prompt, temperature=0.85, max_t
     for attempt in range(retries):
         try:
             print(f"    [API] Appel {model} (tentative {attempt + 1}/{retries})...")
-            response = requests.post(API_URL, headers=headers, json=data, timeout=180)
+            response = requests.post(API_URL, headers=headers, json=data, timeout=240)
             response.raise_for_status()
             result = response.json()
-            return result["choices"][0]["message"]["content"]
-        except requests.exceptions.HTTPError as e:
-            print(f"    [API] Erreur HTTP {response.status_code}: {response.text[:300]}")
-            if attempt == retries - 1:
-                raise
+
+            # Vérifier que la réponse contient bien du contenu
+            choices = result.get("choices", [])
+            if not choices:
+                print(f"    [API] Reponse vide (pas de choices), retry...")
+                if attempt < retries - 1:
+                    time.sleep(2 ** (attempt + 1))
+                continue
+
+            content = choices[0].get("message", {}).get("content", "")
+            if not content or not content.strip():
+                print(f"    [API] Contenu vide dans la reponse, retry...")
+                if attempt < retries - 1:
+                    time.sleep(2 ** (attempt + 1))
+                continue
+
+            # Vérifier le finish_reason
+            finish_reason = choices[0].get("finish_reason", "")
+            if finish_reason == "length":
+                print(f"    [API] Attention: reponse tronquee (max_tokens atteint)")
+
+            return content
+
+        except requests.exceptions.Timeout:
+            print(f"    [API] Timeout apres 240s (tentative {attempt + 1}/{retries})")
+            if attempt < retries - 1:
+                time.sleep(2 ** (attempt + 1))
+            elif attempt == retries - 1:
+                return None
+        except requests.exceptions.HTTPError:
+            status = response.status_code
+            print(f"    [API] Erreur HTTP {status}: {response.text[:300]}")
+            if status == 429:
+                # Rate limit : attendre plus longtemps
+                wait = 2 ** (attempt + 2)
+                print(f"    [API] Rate limit, attente {wait}s...")
+                time.sleep(wait)
+            elif status >= 500:
+                # Erreur serveur : retry avec backoff
+                if attempt < retries - 1:
+                    time.sleep(2 ** (attempt + 1))
+            else:
+                # Erreur client (400, 401) : ne pas retry
+                return None
+        except requests.exceptions.ConnectionError as e:
+            print(f"    [API] Erreur connexion: {e}")
+            if attempt < retries - 1:
+                time.sleep(2 ** (attempt + 1))
         except Exception as e:
             print(f"    [API] Tentative {attempt + 1}/{retries} echouee: {e}")
-            if attempt == retries - 1:
-                raise
+            if attempt < retries - 1:
+                time.sleep(2 ** (attempt + 1))
 
+    print(f"    [API] Echec apres {retries} tentatives pour {model}")
     return None
 
 
@@ -439,6 +485,15 @@ Les indices doivent correspondre aux listes ci-dessus. Pas de texte autour du JS
     return system_prompt, user_prompt
 
 
+def fix_json_trailing_commas(json_str):
+    """Corrige les virgules traînantes dans le JSON (fréquent avec Gemini).
+    Ex: {"a": 1,} -> {"a": 1} et [{"a": 1},] -> [{"a": 1}]"""
+    # Supprimer les virgules traînantes avant } ou ]
+    json_str = re.sub(r',\s*}', '}', json_str)
+    json_str = re.sub(r',\s*\]', ']', json_str)
+    return json_str
+
+
 def parse_gemini_suggestions(raw_response):
     """Parse la réponse JSON de Gemini et résout les indices."""
     cleaned = raw_response.strip()
@@ -451,6 +506,9 @@ def parse_gemini_suggestions(raw_response):
         else:
             cleaned = re.sub(r'^```(?:json)?\s*', '', cleaned)
             cleaned = re.sub(r'\s*```$', '', cleaned)
+
+    # Corriger les virgules traînantes (problème fréquent de Gemini)
+    cleaned = fix_json_trailing_commas(cleaned)
 
     try:
         raw_suggestions = json.loads(cleaned)
@@ -585,7 +643,8 @@ def generate_random_combination(category_key, matrix):
                 "age": "",     # Sera rempli par select_best_personnage
             }
 
-    raise Exception(f"Impossible de trouver une combinaison unique pour {category_key}")
+    print(f"  [ERREUR] Impossible de trouver une combinaison unique pour {category_key} après {max_attempts} tentatives")
+    return None
 
 
 # ============================================
@@ -1026,10 +1085,14 @@ def create_hugo_post(combo, metadata, content):
 
     tags_str = json.dumps(metadata.get("tags", []), ensure_ascii=False)
 
+    # Échapper les guillemets doubles dans le titre et la description pour éviter de casser le YAML
+    safe_title = metadata.get('title', 'Article du jour').replace('"', '\\"')
+    safe_description = metadata.get('description', '').replace('"', '\\"')
+
     front_matter = f"""---
-title: "{metadata.get('title', 'Article du jour')}"
+title: "{safe_title}"
 date: {date_str}
-description: "{metadata.get('description', '')}"
+description: "{safe_description}"
 categories: ["{combo['category_name']}"]
 tags: {tags_str}
 slug: "{metadata.get('slug', date_short)}"
@@ -1104,11 +1167,10 @@ def main():
     system_prompt = build_system_prompt()
 
     for i, cat_key in enumerate(category_keys):
-        print(f"\n  --- Categorie : {CATEGORIES[cat_key]['name']} ---")
-
         # Construire la combinaison (Gemini ou aléatoire)
         if use_gemini:
             s = suggestions[i]
+            print(f"\n  --- Categorie : {CATEGORIES[s['category_key']]['name']} ---")
             combo = {
                 "category_key": s["category_key"],
                 "category_name": CATEGORIES[s["category_key"]]["name"],
@@ -1124,7 +1186,11 @@ def main():
             if s.get("justification"):
                 print(f"  [Gemini] Raison : {s['justification']}")
         else:
+            print(f"\n  --- Categorie : {CATEGORIES[cat_key]['name']} ---")
             combo = generate_random_combination(cat_key, matrix)
+            if not combo:
+                print(f"  [SKIP] Catégorie {cat_key} ignorée (toutes les combinaisons épuisées)")
+                continue
             print(f"  [Aleatoire] Sujet : {combo['sujet']}")
             print(f"  [Aleatoire] Contexte : {combo['contexte']}")
             print(f"  [Aleatoire] Angle : {combo['angle']}")
