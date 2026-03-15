@@ -29,7 +29,7 @@ Ce concept a été étudié par plusieurs chercheurs en psychologie, notamment p
 
 La reconversion est une phase intense de remise en question et de changement. Elle génère souvent un cocktail d’émotions : excitation, peur, doute, mais aussi parfois indifférence. Ce dernier état peut apparaître lorsque la personne est submergée par l’incertitude ou le stress, ou lorsque l’enjeu semble trop grand pour être affronté.  
 
-Par exemple, Thomas, 52 ans, ancien manager devenu formateur, racontait comment il ne parvenait plus à ressentir la joie ou l’envie de travailler sur son projet. Chaque matin, il se levait, faisait ses tâches « mécaniquement », sans passion ni engagement. Ce sentiment d’indifférence l’isolait de ses proches et l’empêchait d’avancer.  
+Par exemple, Laurent, 52 ans, ancien manager devenu formateur, racontait comment il ne parvenait plus à ressentir la joie ou l’envie de travailler sur son projet. Chaque matin, il se levait, faisait ses tâches « mécaniquement », sans passion ni engagement. Ce sentiment d’indifférence l’isolait de ses proches et l’empêchait d’avancer.  
 
 Pour Margot, l’indifférence était un avertissement que son esprit et son corps lui lançaient. Elle avait besoin de reconnaître ce sentiment sans jugement, pour ensuite trouver des clés afin de le dépasser.  
 
