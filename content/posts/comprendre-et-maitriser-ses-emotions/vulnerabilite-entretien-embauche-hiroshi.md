@@ -1,27 +1,27 @@
 ---
-title: "Apprendre la vulnérabilité lors d'un entretien d'embauche : le témoignage d'Hiroshi"
+title: "Apprendre la vulnérabilité lors d'un entretien d'embauche : le témoignage d'Priya"
 date: 2026-03-09T16:20:53+00:00
-description: "Découvrez comment Hiroshi, introverti, a su transformer sa vulnérabilité en force lors d’un entretien d’embauche. Techniques simples à appliquer."
+description: "Découvrez comment Priya, introverti, a su transformer sa vulnérabilité en force lors d’un entretien d’embauche. Techniques simples à appliquer."
 categories: ["Comprendre et maîtriser ses émotions"]
 tags: ["vulnérabilité", "entretien d'embauche", "introversion", "gestion émotions", "développement personnel"]
 slug: "vulnerabilite-entretien-embauche-hiroshi"
 readingTime: 4
 wordCount: 913
-personnage: "Hiroshi"
+personnage: "Priya"
 sujet: "vulnérabilité"
 contexte: "lors d'un entretien d'embauche"
 draft: false
 ---
 
-Le tic-tac de l’horloge semble plus fort que jamais dans la petite salle d’attente. Hiroshi, 23 ans, serre dans ses mains une feuille froissée, son CV. Son cœur bat à tout rompre, chaque respiration lui semble un effort. L’idée d’entrer dans cette pièce, de faire face à un recruteur, le paralyse. Introverti de nature, il redoute plus que tout ce moment, où il faudra parler de lui, s’exposer, se révéler. Pourtant, c’est là, sa chance, celle qu’il attend depuis des semaines. Mais comment dépasser cette peur, ce sentiment d’être vulnérable ?
+Le tic-tac de l’horloge semble plus fort que jamais dans la petite salle d’attente. Priya, 23 ans, serre dans ses mains une feuille froissée, son CV. Son cœur bat à tout rompre, chaque respiration lui semble un effort. L’idée d’entrer dans cette pièce, de faire face à un recruteur, le paralyse. Introverti de nature, il redoute plus que tout ce moment, où il faudra parler de lui, s’exposer, se révéler. Pourtant, c’est là, sa chance, celle qu’il attend depuis des semaines. Mais comment dépasser cette peur, ce sentiment d’être vulnérable ?
 
-Lorsque le secrétaire l’appelle enfin, Hiroshi se lève, les jambes légèrement tremblantes. Il pénètre dans la salle lumineuse, où un homme souriant l’accueille. Assis face à lui, Hiroshi sent une boule grossir dans sa gorge. Il veut donner une image forte, compétente, mais un poids invisible semble l’empêcher d’être lui-même. Cette sensation, si familière, porte un nom : la vulnérabilité.
+Lorsque le secrétaire l’appelle enfin, Priya se lève, les jambes légèrement tremblantes. Il pénètre dans la salle lumineuse, où un homme souriant l’accueille. Assis face à lui, Priya sent une boule grossir dans sa gorge. Il veut donner une image forte, compétente, mais un poids invisible semble l’empêcher d’être lui-même. Cette sensation, si familière, porte un nom : la vulnérabilité.
 
 ## Qu’est-ce que la vulnérabilité ?
 
 La vulnérabilité est le fait de s’exposer émotionnellement, de montrer ses faiblesses ou ses doutes sans masque ni protection. Selon la psychologue Brené Brown, spécialiste de ce concept, la vulnérabilité est la capacité à s’ouvrir à l’incertitude, au risque et à l’émotion, ce qui, paradoxalement, est une force et non une faiblesse. 
 
-Dans le contexte d’un entretien d’embauche, la vulnérabilité se manifeste lorsque l’on dévoile nos limites, nos erreurs passées, nos craintes, ou simplement nos émotions comme le stress ou la timidité. Pour un introverti comme Hiroshi, cette mise à nu peut sembler insurmontable. Pourtant, c’est souvent en acceptant cette vulnérabilité que la communication devient authentique et que l’on crée un lien de confiance avec le recruteur.
+Dans le contexte d’un entretien d’embauche, la vulnérabilité se manifeste lorsque l’on dévoile nos limites, nos erreurs passées, nos craintes, ou simplement nos émotions comme le stress ou la timidité. Pour un introverti comme Priya, cette mise à nu peut sembler insurmontable. Pourtant, c’est souvent en acceptant cette vulnérabilité que la communication devient authentique et que l’on crée un lien de confiance avec le recruteur.
 
 ## Comment la vulnérabilité se manifeste-t-elle lors d’un entretien d’embauche ?
 
@@ -47,15 +47,15 @@ Notez les pensées négatives qui vous traversent, comme « je vais échouer » 
 ### 3. La technique de l’ancrage sensoriel  
 Identifiez un geste ou un objet (par exemple, serrer doucement votre pouce et votre index) que vous associez à un moment où vous vous êtes senti en sécurité. Pendant l’entretien, utilisez ce geste pour vous recentrer et accueillir sereinement vos émotions.
 
-## Le cheminement d’Hiroshi : de la peur à l’acceptation
+## Le cheminement d’Priya : de la peur à l’acceptation
 
-Après plusieurs entretiens ratés où il masquait ses émotions derrière un masque rigide, Hiroshi décide de changer d’approche. Inspiré par la lecture d’un article sur la vulnérabilité, il s’entraîne à la visualisation positive avant chaque entretien. Il s’autorise aussi à noter ses pensées anxieuses pour les transformer en encouragements. Lors d’un nouveau rendez-vous, au moment où sa voix tremble en parlant de son manque d’expérience, il pose discrètement sa main sur sa clé USB, son ancre, et poursuit avec sincérité.
+Après plusieurs entretiens ratés où il masquait ses émotions derrière un masque rigide, Priya décide de changer d’approche. Inspiré par la lecture d’un article sur la vulnérabilité, il s’entraîne à la visualisation positive avant chaque entretien. Il s’autorise aussi à noter ses pensées anxieuses pour les transformer en encouragements. Lors d’un nouveau rendez-vous, au moment où sa voix tremble en parlant de son manque d’expérience, il pose discrètement sa main sur sa clé USB, son ancre, et poursuit avec sincérité.
 
-Le recruteur, loin d’être déstabilisé, semble au contraire touché par son authenticité. Hiroshi quitte la salle avec la sensation d’avoir enfin été lui-même. Quelques jours plus tard, il reçoit une offre d’emploi. Plus important encore, il découvre que montrer sa vulnérabilité peut devenir une belle force, une manière de se connecter réellement aux autres.
+Le recruteur, loin d’être déstabilisé, semble au contraire touché par son authenticité. Priya quitte la salle avec la sensation d’avoir enfin été lui-même. Quelques jours plus tard, il reçoit une offre d’emploi. Plus important encore, il découvre que montrer sa vulnérabilité peut devenir une belle force, une manière de se connecter réellement aux autres.
 
 ## Conclusion : accueillir la vulnérabilité lors d’un entretien d’embauche, un pas vers soi
 
-La vulnérabilité lors d’un entretien d’embauche, loin d’être un obstacle, est une clé précieuse pour révéler votre humanité et créer un lien sincère. Comme Hiroshi, vous pouvez apprendre à apprivoiser ce sentiment, à le considérer comme un allié plutôt qu’un ennemi.
+La vulnérabilité lors d’un entretien d’embauche, loin d’être un obstacle, est une clé précieuse pour révéler votre humanité et créer un lien sincère. Comme Priya, vous pouvez apprendre à apprivoiser ce sentiment, à le considérer comme un allié plutôt qu’un ennemi.
 
 Si vous êtes introverti et que ces moments vous semblent intimidants, rappelez-vous que vous n’êtes pas seul. En vous préparant émotionnellement, en cultivant un dialogue intérieur bienveillant, et en utilisant des ancrages sensoriels, vous ouvrez la porte à une nouvelle façon d’être, plus authentique et plus libre.
 

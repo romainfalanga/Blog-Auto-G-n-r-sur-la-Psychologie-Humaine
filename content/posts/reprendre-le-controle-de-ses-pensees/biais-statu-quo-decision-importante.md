@@ -7,17 +7,17 @@ tags: ["biais de statu quo", "prise de décision", "procrastination", "psycholog
 slug: "biais-statu-quo-decision-importante"
 readingTime: 4
 wordCount: 911
-personnage: "Mélanie"
+personnage: "Nadia"
 sujet: "biais de statu quo"
 contexte: "face à une décision importante"
 draft: false
 ---
 
-Mélanie s’installa lourdement dans son fauteuil, les mains crispées sur une tasse de thé tiède. Le soleil déclinait, projetant une lumière orangée sur la pile de papiers et de notes éparpillées sur la table devant elle. Son regard errait entre un dossier d’inscription à une formation professionnelle et un email d’une offre d’emploi plus stable, mais moins stimulante. Depuis des semaines, elle repoussait cette décision qui semblait pourtant cruciale : devait-elle changer de voie professionnelle à 50 ans, ou rester dans son poste actuel où la routine avait gagné le terrain ?
+Nadia s’installa lourdement dans son fauteuil, les mains crispées sur une tasse de thé tiède. Le soleil déclinait, projetant une lumière orangée sur la pile de papiers et de notes éparpillées sur la table devant elle. Son regard errait entre un dossier d’inscription à une formation professionnelle et un email d’une offre d’emploi plus stable, mais moins stimulante. Depuis des semaines, elle repoussait cette décision qui semblait pourtant cruciale : devait-elle changer de voie professionnelle à 50 ans, ou rester dans son poste actuel où la routine avait gagné le terrain ?
 
-Le tic-tac de l’horloge semblait marké le rythme d’une bataille intérieure silencieuse. Mélanie sentait l’angoisse monter, un mélange de peur de l’inconnu et de confort familier. Chaque jour, elle se promettait de trancher, mais chaque soir, elle reportait encore. Le poids de cette indécision pesait sur son moral, rendant chaque petit pas vers un choix plus ardu. Pourquoi était-ce si difficile ? Pourquoi s’accrocher à cette inertie qui l’empêchait d’avancer ?
+Le tic-tac de l’horloge semblait marké le rythme d’une bataille intérieure silencieuse. Nadia sentait l’angoisse monter, un mélange de peur de l’inconnu et de confort familier. Chaque jour, elle se promettait de trancher, mais chaque soir, elle reportait encore. Le poids de cette indécision pesait sur son moral, rendant chaque petit pas vers un choix plus ardu. Pourquoi était-ce si difficile ? Pourquoi s’accrocher à cette inertie qui l’empêchait d’avancer ?
 
-Cette histoire de Mélanie illustre parfaitement ce que les psychologues appellent le biais de statu quo, une tendance humaine très courante qui nous pousse à préférer que les choses restent telles qu’elles sont, même lorsque changer serait bénéfique.
+Cette histoire de Nadia illustre parfaitement ce que les psychologues appellent le biais de statu quo, une tendance humaine très courante qui nous pousse à préférer que les choses restent telles qu’elles sont, même lorsque changer serait bénéfique.
 
 ## Qu’est-ce que le biais de statu quo ?  
 
@@ -33,7 +33,7 @@ Dans la vie quotidienne, ce biais peut surgir dans de nombreux domaines :
 - Quelqu’un reporte sans cesse la décision d’entamer un régime ou une activité sportive, préférant la familiarité d’une routine peu saine.
 - Un couple reste dans une relation difficile parce que l’idée de la rupture est angoissante.
 
-Dans le cas de Mélanie, ce biais se traduit par une procrastination paralysante. Elle sait qu’un changement pourrait lui apporter un nouveau souffle, une meilleure qualité de vie, mais la peur de quitter ce qu’elle connaît la bloque. La décision importante devient un poids qu’elle évite d’affronter pleinement.
+Dans le cas de Nadia, ce biais se traduit par une procrastination paralysante. Elle sait qu’un changement pourrait lui apporter un nouveau souffle, une meilleure qualité de vie, mais la peur de quitter ce qu’elle connaît la bloque. La décision importante devient un poids qu’elle évite d’affronter pleinement.
 
 ## 3 techniques pour surmonter le biais de statu quo face à une décision importante  
 
@@ -49,18 +49,18 @@ Le changement semble souvent énorme et insurmontable. Divisez votre décision e
 
 ### 3. Recentrer sur ses valeurs  
 
-Interrogez-vous sur ce qui compte vraiment pour vous, au-delà des habitudes et des peurs. Par exemple, Mélanie a réalisé que son besoin de créativité et de sens dépassait sa peur du changement. Se connecter à ses valeurs profondes donne le courage de dépasser la résistance au changement.
+Interrogez-vous sur ce qui compte vraiment pour vous, au-delà des habitudes et des peurs. Par exemple, Nadia a réalisé que son besoin de créativité et de sens dépassait sa peur du changement. Se connecter à ses valeurs profondes donne le courage de dépasser la résistance au changement.
 
-## Mélanie commence à changer  
+## Nadia commence à changer  
 
-En appliquant ces techniques, Mélanie se surprit à écrire une liste détaillée de ce que son travail actuel lui apportait, mais aussi de ce qu’il ne lui donnait plus. Elle visualisa aussi son quotidien après une formation, ressentant un mélange d’excitation et d’appréhension. Plutôt que de vouloir trancher tout de suite, elle s’engagea à contacter un centre de formation pour obtenir plus d’informations, un petit pas qui lui redonna confiance.
+En appliquant ces techniques, Nadia se surprit à écrire une liste détaillée de ce que son travail actuel lui apportait, mais aussi de ce qu’il ne lui donnait plus. Elle visualisa aussi son quotidien après une formation, ressentant un mélange d’excitation et d’appréhension. Plutôt que de vouloir trancher tout de suite, elle s’engagea à contacter un centre de formation pour obtenir plus d’informations, un petit pas qui lui redonna confiance.
 
-Au fil des jours, la peur qui paralysait Mélanie s’adoucit. Elle comprit que ne pas changer n’était pas une neutralité, mais une décision en soi, souvent dictée par la peur plus que par la raison. Ce regard nouveau lui permit de poser ses choix avec plus de sérénité.
+Au fil des jours, la peur qui paralysait Nadia s’adoucit. Elle comprit que ne pas changer n’était pas une neutralité, mais une décision en soi, souvent dictée par la peur plus que par la raison. Ce regard nouveau lui permit de poser ses choix avec plus de sérénité.
 
 ## Conclusion : et vous, êtes-vous prisonnier du biais de statu quo ?  
 
 Reconnaître le biais de statu quo face à une décision importante est déjà un pas immense vers la liberté personnelle. Il n’est pas honteux de ressentir cette peur, mais il est possible d’apprendre à l’apprivoiser. En visualisant, en avançant par petites étapes et en se reconnectant à ses valeurs, vous pouvez reprendre la main sur vos choix et arrêter de procrastiner.
 
-Comme Mélanie, offrez-vous la bienveillance d’un regard neuf sur vos décisions. Et surtout, n’hésitez pas à solliciter un professionnel si cette difficulté persiste et pèse trop sur votre bien-être : votre chemin vers le changement mérite un accompagnement adapté.
+Comme Nadia, offrez-vous la bienveillance d’un regard neuf sur vos décisions. Et surtout, n’hésitez pas à solliciter un professionnel si cette difficulté persiste et pèse trop sur votre bien-être : votre chemin vers le changement mérite un accompagnement adapté.
 
 Le pouvoir de changer est à votre portée, il suffit parfois d’un premier pas.
