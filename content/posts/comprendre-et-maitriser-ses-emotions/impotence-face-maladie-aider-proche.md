@@ -58,7 +58,7 @@ Enfin, chaque soir, Isabelle s’accorde un moment de respiration consciente. El
 
 ### Un message d’espoir pour vous, lecteur empathique  
 
-L’impuissance face à la maladie est une expérience profondément humaine, qui montre combien certains événements échappent à notre contrôle. Pourtant, même dans ces moments, elle est possible de retrouver un chemin vers la sérénité en cultivant la présence, en valorisant les petites actions, et en prenant soin de soi.  
+L’impuissance face à la maladie est une expérience profondément humaine, qui montre combien certains événements échappent à notre contrôle. Pourtant, même dans ces moments, il est possible de retrouver un chemin vers la sérénité en cultivant la présence, en valorisant les petites actions, et en prenant soin de soi.  
 
 Si vous traversez cette épreuve aux côtés d’un proche, rappelez-vous que votre simple présence est précieuse. N’hésitez pas à poser des limites pour ne pas vous épuiser et à consulter un professionnel si le poids émotionnel devient trop lourd.  
 

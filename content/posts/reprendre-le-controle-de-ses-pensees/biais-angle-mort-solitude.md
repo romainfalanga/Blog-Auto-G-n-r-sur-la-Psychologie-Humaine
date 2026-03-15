@@ -15,15 +15,15 @@ draft: false
 
 Patrick, 56 ans, s’installe dans son fauteuil préféré avec une tasse de thé fumant. La lumière douce du matin caresse les murs de son salon. Pourtant, malgré ce décor apaisant, un sentiment d’isolement pèse lourd dans son cœur. Ses enfants sont loin, ses amis souvent occupés, et chaque jour se répète avec cette même absence de compagnie. Il se surprend à penser que personne ne comprend vraiment ce qu’il traverse, que sa solitude est unique, insurmontable.
 
-Ce matin-là, une notification sur son téléphone attira son attention : un message de son voisin, lui proposant un café. Patrick hésita longtemps avant de répondre, rattrapée par une voix intérieure qui lui murmurait : « Ils ne veulent pas vraiment de moi. » Ce doute lui semblait si évident, si vrai, qu’il rejeta l’invitation. Plus tard, en regardant par la fenêtre, un pincement au cœur la saisit : pourquoi se sentait-il ainsi, si isolée alors même que les autres semblaient présents ?
+Ce matin-là, une notification sur son téléphone attira son attention : un message de son voisin, lui proposant un café. Patrick hésita longtemps avant de répondre, rattrapé par une voix intérieure qui lui murmurait : « Ils ne veulent pas vraiment de moi. » Ce doute lui semblait si évident, si vrai, qu’il rejeta l’invitation. Plus tard, en regardant par la fenêtre, un pincement au cœur le saisit : pourquoi se sentait-il ainsi, si isolé alors même que les autres semblaient présents ?
 
-Sans le savoir, Patrick faisait face à ce qu’on appelle le biais de l’angle mort, un phénomène psychologique subtil qui l'empêchait de voir clairement certains facettes de sa situation et de ses relations, surtout dans ce contexte de solitude.
+Sans le savoir, Patrick faisait face à ce qu’on appelle le biais de l’angle mort, un phénomène psychologique subtil qui l'empêchait de voir clairement certaines facettes de sa situation et de ses relations, surtout dans ce contexte de solitude.
 
 ## Qu’est-ce que le biais de l’angle mort ?
 
-Le biais de l’angle mort est la tendance à ne pas percevoir certains aspects de soi-même ou de sa réalité qui sont pourtant visibles pour les autres. En psychologie, ce concept s’inspire de l’angle mort en conduite automobile, cette zone invisible dans les rétroviseurs. Le psychologue Joseph Luft et Harry Ingham ont popularisé cette idée avec la "fenêtre de Johari" dans les annés 1950, montrant combien nous pouvons être aveugles à certains partis de notre propre comportement ou pensées.
+Le biais de l’angle mort est la tendance à ne pas percevoir certains aspects de soi-même ou de sa réalité qui sont pourtant visibles pour les autres. En psychologie, ce concept s’inspire de l’angle mort en conduite automobile, cette zone invisible dans les rétroviseurs. Le psychologue Joseph Luft et Harry Ingham ont popularisé cette idée avec la "fenêtre de Johari" dans les années 1950, montrant combien nous pouvons être aveugles à certaines parties de notre propre comportement ou pensées.
 
-Dans le contexte de la solitude, ce biais peut nous faire ignorer ou déformer des indices essentiels sur notre situation sociale, nos émotions ou la manière dont les autres nous perçoivent. C’est comme regarder à travers un miroir brisé : on ne voit qu’une parti de la vérité, souvent biaisée par nos peurs ou croyances.
+Dans le contexte de la solitude, ce biais peut nous faire ignorer ou déformer des indices essentiels sur notre situation sociale, nos émotions ou la manière dont les autres nous perçoivent. C’est comme regarder à travers un miroir brisé : on ne voit qu’une partie de la vérité, souvent biaisée par nos peurs ou croyances.
 
 ## Comment le biais de l’angle mort se manifeste-t-il face à la solitude ?
 
@@ -47,7 +47,7 @@ Prenez un carnet et notez chaque jour une interaction sociale, même minime. Pui
 
 ### 2. Demander un retour sincère
 
-Choisissez une personne de confiance (ami, membre de la famille, collègue). Expliquez-lui votre difficulté à percevoir certains choses dans vos relations et demandez-lui un retour honnête sur votre comportement ou ce que vous pourriez manquer.
+Choisissez une personne de confiance (ami, membre de la famille, collègue). Expliquez-lui votre difficulté à percevoir certaines choses dans vos relations et demandez-lui un retour honnête sur votre comportement ou ce que vous pourriez manquer.
 
 ### 3. La technique de la pause réflexive
 

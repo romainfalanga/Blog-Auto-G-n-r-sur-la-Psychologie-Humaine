@@ -13,7 +13,7 @@ contexte: "en tant que manager"
 draft: false
 ---
 
-Le bruit sourd du clavier résonne dans le bureau lumineux où Monique s’est installée pour une pause bien méritée. À 52 ans, cette manager chevronnée sent parfois le poids du rôle qui lui incombe. Ce matin, elle a dû annoncer une réorganisation à son équipe, un moment chargé d’incertitudes et d’émotions. Assise sur sa chaise en cuir, Monique observe les post-its colorés sur son tableau : « écoute », « reconnaissance », « soutien ». Ces mots lui rappellent une notion qu’elle doit encore apprendre à intégrer pleinement : la gratitude.
+Le bruit sourd du clavier résonne dans le bureau lumineux où Monique s’est installée pour une pause bien méritée. À 62 ans, cette manager chevronnée sent parfois le poids du rôle qui lui incombe. Ce matin, elle a dû annoncer une réorganisation à son équipe, un moment chargé d’incertitudes et d’émotions. Assise sur sa chaise en cuir, Monique observe les post-its colorés sur son tableau : « écoute », « reconnaissance », « soutien ». Ces mots lui rappellent une notion qu’elle doit encore apprendre à intégrer pleinement : la gratitude.
 
 Dans cet instant de calme apparent, les visages fatigués de ses collaborateurs lui reviennent en mémoire. Elle se demande comment, malgré la pression, elle peut soutenir son équipe sans s’épuiser, en cultivant la gratitude en tant que manager. Monique aspire à créer un climat où chacun se sent reconnu, non seulement pour ses résultats, mais aussi pour sa personne. Pourtant, parfois, elle oublie elle-même de se montrer reconnaissante, ce qui la plonge dans un sentiment d’isolement et de doute.
 

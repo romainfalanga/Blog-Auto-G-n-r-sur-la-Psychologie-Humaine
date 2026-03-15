@@ -87,8 +87,8 @@ Petit à petit, elle s'isole moins. L'envie revient parfois, surtout quand elle 
 
 ---
 
-Le parcours de Léa montre que l'envie en amitié est un sentiment très humain, particulièrement chez ceux qui cherchent l'excellence. En comprenant la différence entre l'admiration et le ressentiment, et en utilisant des outils comme le recadrage ou la communication sincère, elle est possible de protéger ses amitiés tout en grandissant personnellement.
+Le parcours de Léa montre que l'envie en amitié est un sentiment très humain, particulièrement chez ceux qui cherchent l'excellence. En comprenant la différence entre l'admiration et le ressentiment, et en utilisant des outils comme le recadrage ou la communication sincère, il est possible de protéger ses amitiés tout en grandissant personnellement.
 
 Si vous vous reconnaissez dans ce récit, rappelez-vous que l'envie n'est pas une tare. C'est un signal qui vous renseigne sur vos propres aspirations. Avec un peu de pratique, ces moments peuvent devenir des tremplins pour mieux vous connaître et avancer vers vos propres objectifs.
 
-Si ce sentiment devient trop lourd à porter ou s'elle commence à abîmer vos relations de manière durable, n'hésitez pas à vous tourner vers un professionnel. Un accompagnement peut vous aider à explorer les racines de cette émotion et à retrouver des relations plus apaisées et authentiques.
+Si ce sentiment devient trop lourd à porter ou si elle commence à abîmer vos relations de manière durable, n'hésitez pas à vous tourner vers un professionnel. Un accompagnement peut vous aider à explorer les racines de cette émotion et à retrouver des relations plus apaisées et authentiques.

@@ -13,7 +13,7 @@ contexte: "en société et dans les interactions sociales"
 draft: false
 ---
 
-Léa déglutit lentement, ses mains légèrement moites serrant la petite tasse de café devant lui. Autour de lui, la terrasse du café bruissait de conversations animées, de rires et de regards échangés sans effort apparent. Pourtant, pour Léa, chaque minute passée ici était un défi. Invitée à une fête la veille, elle avait réussi à échanger quelques mots, mais un sentiment lourd de rejet s'était immiscé, lui rappelant qu’elle n’était pas vraiment à sa place. Ce matin, alors qu’elle attendait un ami, elle se demandait s’elle oserait vraiment engager la conversation avec quelqu’un d’autre. Cette peur familière, ce poids d’être invisible ou, pire, non désiré, le tenaillait.  
+Léa déglutit lentement, ses mains légèrement moites serrant la petite tasse de café devant elle. Autour d'elle, la terrasse du café bruissait de conversations animées, de rires et de regards échangés sans effort apparent. Pourtant, pour Léa, chaque minute passée ici était un défi. Invitée à une fête la veille, elle avait réussi à échanger quelques mots, mais un sentiment lourd de rejet s'était immiscé, lui rappelant qu’elle n’était pas vraiment à sa place. Ce matin, alors qu’elle attendait un ami, elle se demandait s’elle oserait vraiment engager la conversation avec quelqu’un d’autre. Cette peur familière, ce poids d’être invisible ou, pire, non désiré, le tenaillait.  
 
 Ce malaise, elle le connaissait bien. Depuis l’enfance, elle avait appris à rester en retrait, à éviter les regards trop insistants, de peur d’être critiqué ou mis à l’écart. En grandissant, ces sensations avaient pris la forme d’une peur sourde du rejet, particulièrement vive dans ses interactions sociales. Ce n’était pas une simple timidité passagère, mais un véritable mécanisme émotionnel qui influençait sa manière d’aborder le monde.  
 
@@ -64,7 +64,7 @@ Elle a aussi compris que les blessures du passée pouvaient être apaisées par 
 
 ### Un message d’espoir pour vous qui lisez  
 
-Le sentiment de rejet en société et dans les interactions sociales peut être une source de souffrance réelle, surtout pour les personnes timides. Cependant, elle est possible d’apprivoiser cette peur, de mieux la comprendre et de changer son regard sur soi et les autres. Chaque pas, même petit, vers plus de confiance est une victoire.  
+Le sentiment de rejet en société et dans les interactions sociales peut être une source de souffrance réelle, surtout pour les personnes timides. Cependant, il est possible d’apprivoiser cette peur, de mieux la comprendre et de changer son regard sur soi et les autres. Chaque pas, même petit, vers plus de confiance est une victoire.  
 
 Si vous vous reconnaissez dans l’histoire de Léa, rappelez-vous que vous n’êtes pas seule. La psychologie offre des outils et des clés pour avancer. N’hésitez pas à vous entourer de professionnels si cette peur vous paralyse au quotidien, car personne ne mérite de souffrir en silence.  
 

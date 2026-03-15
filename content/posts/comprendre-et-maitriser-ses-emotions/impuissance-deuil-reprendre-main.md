@@ -15,7 +15,7 @@ draft: false
 
 Monique ouvre la fenêtre du salon. L'air du soir entre en silence, froid et humide, sur la peau de ses avant-bras. Elle fixe la tasse de thé refroidie sur la table, sans goût, sans envie de la porter à ses lèvres. Les photos encadrées sur le buffet le regardent comme des témoins immobiles. Sa respiration est plate, comme si chaque inspiration devait traverser un épais rideau d'eau.
 
-Au travail, elle répond aux mails, mais ses mots semblent séparés de lui, mécaniques. À la maison, elle oublie des rendez-vous, perd son portefeuille, puis s'en veut longuement, comme si chaque petite erreur confirmait qu'elle ne maîtrise plus rien. Elle sent, au fond de sa gorge, une pesanteur qui ralentit ses gestes, et parfois une colère glacée qui le surprend et le fait pleurer, sans prévenir.
+Au travail, elle répond aux mails, mais ses mots semblent séparés d'elle, mécaniques. À la maison, elle oublie des rendez-vous, perd son portefeuille, puis s'en veut longuement, comme si chaque petite erreur confirmait qu'elle ne maîtrise plus rien. Elle sent, au fond de sa gorge, une pesanteur qui ralentit ses gestes, et parfois une colère glacée qui le surprend et le fait pleurer, sans prévenir.
 
 Monique pense souvent à la dernière voix qu'elle a entendue, à la dernière fois où elle a serré la main de la personne disparue. Elle voudrait pouvoir revenir en arrière, dire une chose différente, réparer un détail. Cette incapacité à agir, ce poids qui rend l'avenir flou, elle le ressent sans toujours pouvoir le nommer : c'est une impression d'impuissance liée au deuil qui s'insinue dans son quotidien, discrète mais totale.
 
