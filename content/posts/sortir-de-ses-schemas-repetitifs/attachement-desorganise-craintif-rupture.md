@@ -7,15 +7,15 @@ tags: ["attachement-désorganisé", "rupture-amoureuse", "schémas-répétitifs"
 slug: "attachement-desorganise-craintif-rupture"
 readingTime: 4
 wordCount: 946
-personnage: "Hiroshi"
+personnage: "Hugo"
 sujet: "attachement désorganisé/craintif (oscillation)"
 contexte: "après une rupture amoureuse"
 draft: false
 ---
 
-Hiroshi regarde son téléphone, le cœur serré. Il hésite, puis efface le message qu’il venait d’écrire à son ex. Il a tellement envie de reprendre contact, de comprendre ce qui s’est mal passé, mais une voix intérieure l’avertit que cela pourrait le blesser encore une fois. Son regard glisse sur la photo de leur dernier voyage, affichée en fond d’écran. Il sent cette bouffée d’angoisse qui fait monter les larmes, mêlée à un besoin irrésistible de se raccrocher à ce qu’il a perdu. Quelques minutes plus tard, il se lève, décide de sortir, puis revient sur ses pas, incapable de quitter son appartement.  
+Hugo regarde son téléphone, le cœur serré. Il hésite, puis efface le message qu’il venait d’écrire à son ex. Il a tellement envie de reprendre contact, de comprendre ce qui s’est mal passé, mais une voix intérieure l’avertit que cela pourrait le blesser encore une fois. Son regard glisse sur la photo de leur dernier voyage, affichée en fond d’écran. Il sent cette bouffée d’angoisse qui fait monter les larmes, mêlée à un besoin irrésistible de se raccrocher à ce qu’il a perdu. Quelques minutes plus tard, il se lève, décide de sortir, puis revient sur ses pas, incapable de quitter son appartement.  
 
-Les émotions d’Hiroshi sont contradictoires. Il oscille sans cesse entre l’envie d’avancer et la peur de perdre définitivement sa relation passée. Cette ambivalence l’épuise, il ne comprend pas pourquoi il agit ainsi, comme pris dans un cercle infernal où il est à la fois attiré et repoussé par son propre désir de rapprochement. Hiroshi vit en ce moment ce que la psychologie appelle un attachement désorganisé ou craintif, souvent méconnu, surtout dans la période sensible qui suit une rupture amoureuse.  
+Les émotions d’Hugo sont contradictoires. Il oscille sans cesse entre l’envie d’avancer et la peur de perdre définitivement sa relation passée. Cette ambivalence l’épuise, il ne comprend pas pourquoi il agit ainsi, comme pris dans un cercle infernal où il est à la fois attiré et repoussé par son propre désir de rapprochement. Hugo vit en ce moment ce que la psychologie appelle un attachement désorganisé ou craintif, souvent méconnu, surtout dans la période sensible qui suit une rupture amoureuse.  
 
 ### Qu’est-ce que l’attachement désorganisé/craintif (oscillation) ?  
 
@@ -25,7 +25,7 @@ Cette oscillation entre la peur et le besoin d’être aimé crée un état de c
 
 ### Comment l'attachement désorganisé se manifeste-t-il après une rupture amoureuse ?  
 
-Après une rupture, ce schéma peut devenir particulièrement intense. Le survivant d’une relation toxique, comme Hiroshi, est souvent pris dans des va-et-vient émotionnels déchirants. Ses réactions peuvent inclure :  
+Après une rupture, ce schéma peut devenir particulièrement intense. Le survivant d’une relation toxique, comme Hugo, est souvent pris dans des va-et-vient émotionnels déchirants. Ses réactions peuvent inclure :  
 
 - **Envie de renouer contact** malgré la douleur, suivie de brusques ruptures pour se protéger.  
 - **Doute intense** sur ses propres sentiments et ceux de l’autre, comme un manège sans fin.  
@@ -53,15 +53,15 @@ Voici trois exercices simples, inspirés de la psychologie humaniste et de la th
    - Devant le miroir, dites-vous à voix haute une phrase bienveillante, par exemple : « Je mérite de l’amour et du respect. »  
    - Répétez cet exercice plusieurs fois par jour pour renforcer votre estime de vous-même et combattre la peur du rejet.  
 
-### Hiroshi commence à se libérer de son attachement désorganisé  
+### Hugo commence à se libérer de son attachement désorganisé  
 
-Au fil des jours, Hiroshi applique ces techniques. La prise de conscience l’aide à identifier ses oscillations internes sans se juger. Il comprend qu’il n’est ni faible ni fou, juste humain. Lorsqu’il a envie d’écrire, il retient cette impulsion pendant un jour, ce qui l’empêche de replonger dans des conversations douloureuses. Enfin, en pratiquant l’auto-compassion, il sent peu à peu un apaisement grandir en lui.  
+Au fil des jours, Hugo applique ces techniques. La prise de conscience l’aide à identifier ses oscillations internes sans se juger. Il comprend qu’il n’est ni faible ni fou, juste humain. Lorsqu’il a envie d’écrire, il retient cette impulsion pendant un jour, ce qui l’empêche de replonger dans des conversations douloureuses. Enfin, en pratiquant l’auto-compassion, il sent peu à peu un apaisement grandir en lui.  
 
 Lors d’une promenade dans un parc, il remarque le chant des oiseaux, la chaleur du soleil sur sa peau, la douceur du vent dans ses cheveux. Ces petites sensations lui donnent un sentiment de présence et d’ancrage qu’il croyait perdu. Il sent qu’il commence à trouver la force de ne plus être esclave de ses peurs et de ses besoins contradictoires.  
 
 ### Un chemin d’espoir pour ceux qui souffrent d’attachement désorganisé  
 
-Si vous vous reconnaissez dans l’histoire d’Hiroshi, sachez que ce que vous vivez est compréhensible et que la guérison est possible. L’attachement désorganisé/craintif après une rupture amoureuse est une réponse humaine à la blessure, pas une fatalité. À travers la prise de conscience, la patience envers soi-même, et des gestes simples de compassion, vous pouvez apprendre à calmer cette oscillation intérieure.  
+Si vous vous reconnaissez dans l’histoire d’Hugo, sachez que ce que vous vivez est compréhensible et que la guérison est possible. L’attachement désorganisé/craintif après une rupture amoureuse est une réponse humaine à la blessure, pas une fatalité. À travers la prise de conscience, la patience envers soi-même, et des gestes simples de compassion, vous pouvez apprendre à calmer cette oscillation intérieure.  
 
 Prenez soin de vous avec douceur, acceptez de demander de l’aide si la douleur devient trop lourde. Souvent, c’est en se reconnectant à ses émotions et à ses besoins profonds que l’on peut enfin tourner la page et ouvrir la porte à des relations plus saines. Vous êtes sur le chemin, un pas après l’autre.  
 

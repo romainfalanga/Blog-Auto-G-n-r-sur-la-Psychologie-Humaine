@@ -418,110 +418,33 @@ ANGLES = [
     "le témoignage (raconter l'histoire d'un personnage qui s'en sort)",
 ]
 
-PRENOMS = [
-    "Léa",
-    "Thomas",
-    "Camille",
-    "Hugo",
-    "Manon",
-    "Lucas",
-    "Emma",
-    "Nathan",
-    "Chloé",
-    "Louis",
-    "Sarah",
-    "Raphaël",
-    "Julie",
-    "Antoine",
-    "Laura",
-    "Mathieu",
-    "Marine",
-    "Alexandre",
-    "Clara",
-    "Nicolas",
-    "Inès",
-    "Pierre",
-    "Amandine",
-    "Julien",
-    "Margot",
-    "Romain",
-    "Pauline",
-    "Maxime",
-    "Zoé",
-    "Adrien",
-    "Charlotte",
-    "Théo",
-    "Juliette",
-    "Clément",
-    "Alice",
-    "Florian",
-    "Lucie",
-    "Quentin",
-    "Anaïs",
-    "Bastien",
-    "Océane",
-    "Vincent",
-    "Lola",
-    "Jérémie",
-    "Noémie",
-    "Arnaud",
-    "Élodie",
-    "Damien",
-    "Agathe",
-    "Kévin",
-    "Nadia",
-    "Youssef",
-    "Fatima",
-    "Mehdi",
-    "Amina",
-    "Ibrahim",
-    "Leïla",
-    "Omar",
-    "Sofia",
-    "Karim",
-    "Djamila",
-    "Moussa",
-    "Hawa",
-    "Wei",
-    "Mei",
-    "Linh",
-    "Akiko",
-    "Hiroshi",
-    "Priya",
-    "Arjun",
-    "Samba",
-    "Aïssatou",
-    "Mamadou",
-    "Awa",
-    "Jean-Pierre",
-    "Marie-France",
-    "Gérard",
-    "Monique",
-    "Bernard",
-    "Françoise",
-    "Marcel",
-    "Simone",
-    "Abdou",
-    "Kenza",
-    "Éric",
-    "Nathalie",
-    "Patrick",
-    "Catherine",
-    "Stéphane",
-    "Isabelle",
-    "Philippe",
-    "Céline",
-    "Olivier",
-    "Sandrine",
-    "Christophe",
-    "Audrey",
-    "Sébastien",
-    "Mélanie",
-    "Fabien",
-    "Virginie",
-    "Thibault",
-    "Jade",
+# Les 20 personnages récurrents du blog (identités fixes et cohérentes)
+# Le détail complet de chaque personnage est dans personnages.json
+PERSONNAGES_PRENOMS = [
+    "Sophie",     # 28 ans, développeuse web, perfectionniste, introvertie
+    "Thomas",     # 34 ans, enseignant, people pleaser, empathique
+    "Camille",    # 42 ans, infirmière, hypersensible, anxieuse, mère de 2
+    "Lucas",      # 24 ans, étudiant école de commerce, insécure, compétitif
+    "Nadia",      # 38 ans, directrice marketing, contrôlante, divorcée
+    "Adrien",     # 31 ans, graphiste freelance, émotif, post-rupture
+    "Margot",     # 52 ans, en reconversion, ancienne cadre, quête de sens
+    "Youssef",    # 29 ans, ingénieur, introverti, intellectualise ses émotions
+    "Isabelle",   # 47 ans, psychologue scolaire, ex-enfant parentifiée
+    "Patrick",    # 56 ans, chef d'équipe BTP, stoïque, émotions refoulées
+    "Léa",        # 23 ans, étudiante psycho, idéaliste, codépendante
+    "Karim",      # 40 ans, entrepreneur restauration, ambitieux, père de 3
+    "Monique",    # 62 ans, retraitée prof de français, veuve, nostalgique
+    "Hugo",       # 27 ans, musicien, émotif, dépendant affectif
+    "Priya",      # 33 ans, médecin, évitante, surinvestie au travail
+    "Stéphane",   # 45 ans, commercial, anxieux social masqué, compétitif
+    "Djamila",    # 36 ans, travailleuse sociale, survivante relation toxique
+    "Fabien",     # 50 ans, cadre RH, divorcé, burn-out latent
+    "Mei",        # 22 ans, étudiante en art, timide, anxiété sociale
+    "Bernard",    # 58 ans, artisan ébéniste, veuf, taiseux
 ]
+
+# Conservé pour compatibilité mais le système utilise maintenant PERSONNAGES_PRENOMS
+PRENOMS = PERSONNAGES_PRENOMS
 
 TRANCHES_AGE = [
     "jeune adulte (20-25 ans)",

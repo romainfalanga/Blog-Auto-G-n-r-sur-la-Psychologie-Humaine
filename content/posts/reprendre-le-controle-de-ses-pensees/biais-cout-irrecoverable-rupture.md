@@ -7,17 +7,17 @@ tags: ["biais du coût irrécupérable", "rupture amoureuse", "dépendance affec
 slug: "biais-cout-irrecoverable-rupture"
 readingTime: 4
 wordCount: 994
-personnage: "Bastien"
+personnage: "Fabien"
 sujet: "biais du coût irrécupérable"
 contexte: "après une rupture amoureuse"
 draft: false
 ---
 
-L’air est froid ce soir-là, et Bastien serre son manteau un peu plus fort autour de lui en marchant dans le parc près de chez lui. La lumière des réverbères se reflète sur les flaques d’eau laissées par la pluie de l’après-midi. Son téléphone vibre une fois, puis plus rien. Il sait que ces vibrations, ce silence, racontent la même histoire : elle ne répondra pas. Depuis six mois, après la fin de sa relation avec Clara, chaque jour semble comme un pas de plus dans le vide.
+L’air est froid ce soir-là, et Fabien serre son manteau un peu plus fort autour de lui en marchant dans le parc près de chez lui. La lumière des réverbères se reflète sur les flaques d’eau laissées par la pluie de l’après-midi. Son téléphone vibre une fois, puis plus rien. Il sait que ces vibrations, ce silence, racontent la même histoire : elle ne répondra pas. Depuis six mois, après la fin de sa relation avec Clara, chaque jour semble comme un pas de plus dans le vide.
 
-Bastien s’assoit sur un banc, ses mains tremblent légèrement. Il repense aux centaines d’heures passées ensemble, aux projets qu’ils avaient, aux cadeaux échangés, aux mots doux murmurés. Pourtant, Clara a pris un chemin différent, et lui est resté bloqué, coincé dans cette attente douloureuse. Il a du mal à tourner la page, se répétant que tout ce qu’il a investi ne doit pas être perdu. Mais cette persistance le ronge. Pourquoi est-il si difficile de lâcher prise, alors que la relation est terminée ? 
+Fabien s’assoit sur un banc, ses mains tremblent légèrement. Il repense aux centaines d’heures passées ensemble, aux projets qu’ils avaient, aux cadeaux échangés, aux mots doux murmurés. Pourtant, Clara a pris un chemin différent, et lui est resté bloqué, coincé dans cette attente douloureuse. Il a du mal à tourner la page, se répétant que tout ce qu’il a investi ne doit pas être perdu. Mais cette persistance le ronge. Pourquoi est-il si difficile de lâcher prise, alors que la relation est terminée ? 
 
-Ce soir, Bastien sent une drôle de fatigue sur son cœur, un poids invisible qu’il ne sait pas encore nommer. Ce poids, c’est ce que les psychologues appellent le biais du coût irrécupérable, un piège mental qui s’aggrave avec le temps si on n’en prend pas conscience.
+Ce soir, Fabien sent une drôle de fatigue sur son cœur, un poids invisible qu’il ne sait pas encore nommer. Ce poids, c’est ce que les psychologues appellent le biais du coût irrécupérable, un piège mental qui s’aggrave avec le temps si on n’en prend pas conscience.
 
 ## Qu’est-ce que le biais du coût irrécupérable ?
 
@@ -33,7 +33,7 @@ Après une rupture, ce biais peut se manifester de plusieurs façons :
 - **Entretenir des habitudes toxiques** : Relire d’anciens messages, consulter les réseaux sociaux de l’ex-partenaire, ou même le contacter malgré les blessures.
 - **Ignorer les signaux d’alerte** : Continuer à se blâmer, à espérer que l’autre reviendra, même si cela nourrit un mal-être grandissant.
 
-Dans le cas de Bastien, chaque message non répondu est un rappel cruel de ce qu’il a investi et perdu. Son cerveau lui souffle qu’il doit continuer à espérer, car renoncer serait comme jeter tous ces mois par la fenêtre. Mais le poids du passé l’empêche de construire un futur apaisé.
+Dans le cas de Fabien, chaque message non répondu est un rappel cruel de ce qu’il a investi et perdu. Son cerveau lui souffle qu’il doit continuer à espérer, car renoncer serait comme jeter tous ces mois par la fenêtre. Mais le poids du passé l’empêche de construire un futur apaisé.
 
 ## 3 techniques pour reprendre le contrôle sur le biais du coût irrécupérable après une rupture amoureuse
 
@@ -51,18 +51,18 @@ Imaginez votre vie dans un an, sans cette relation. Que voulez-vous construire p
 
 Réduisez les interactions avec votre ex-partenaire sur les réseaux sociaux, désactivez les notifications, et évitez de revisiter de vieux souvenirs numériques. Cette démarche est un acte d'amour pour vous-même, qui freine les rappels constants de la rupture et facilite la guérison.
 
-## Bastien trouve son chemin vers la liberté intérieure
+## Fabien trouve son chemin vers la liberté intérieure
 
-Au fil des semaines, Bastien commence à mettre en pratique ces techniques. La première fois qu’il pose sur papier tout ce qu’il a investi, il ressent un mélange de tristesse et de clarté. Puis, en écrivant son futur, il s’autorise à rêver sans Clara, à envisager un quotidien où il pourrait se sentir heureux seul.
+Au fil des semaines, Fabien commence à mettre en pratique ces techniques. La première fois qu’il pose sur papier tout ce qu’il a investi, il ressent un mélange de tristesse et de clarté. Puis, en écrivant son futur, il s’autorise à rêver sans Clara, à envisager un quotidien où il pourrait se sentir heureux seul.
 
 Il installe des règles simples : plus de consultation des réseaux sociaux le soir, plus de messages envoyés dans l’espoir d’une réponse. Ces petits gestes, au début difficiles, deviennent des alliés puissants. Peu à peu, le poids invisible qu’il portait s’allège, et il découvre de nouvelles ressources en lui.
 
-Bastien comprend qu’abandonner l’espoir de faire revivre cette histoire n’est pas un échec, mais un acte de courage et de respect envers lui-même.
+Fabien comprend qu’abandonner l’espoir de faire revivre cette histoire n’est pas un échec, mais un acte de courage et de respect envers lui-même.
 
 ## Conclusion : un chemin possible pour vous aussi
 
-Le biais du coût irrécupérable après une rupture amoureuse est un mécanisme naturel qui peut malheureusement prolonger la souffrance si on ne le reconnaît pas. Mais comme Bastien, vous avez la possibilité de reprendre le contrôle sur vos pensées, de vous libérer de ce poids et de vous ouvrir à un futur où vous serez la priorité.
+Le biais du coût irrécupérable après une rupture amoureuse est un mécanisme naturel qui peut malheureusement prolonger la souffrance si on ne le reconnaît pas. Mais comme Fabien, vous avez la possibilité de reprendre le contrôle sur vos pensées, de vous libérer de ce poids et de vous ouvrir à un futur où vous serez la priorité.
 
 N’oubliez pas : faire ce travail demande du temps et de la douceur envers soi. Si la douleur devient trop intense, consulter un professionnel de la psychologie peut être un précieux soutien. Vous n’êtes pas seul(e).
 
-Et vous, où en êtes-vous avec vos pensées liées à votre dernière relation ? Peut-être que, comme Bastien, vous avez déjà fait un premier pas, sans même le savoir. Chaque petit geste compte pour avancer vers la paix intérieure.
+Et vous, où en êtes-vous avec vos pensées liées à votre dernière relation ? Peut-être que, comme Fabien, vous avez déjà fait un premier pas, sans même le savoir. Chaque petit geste compte pour avancer vers la paix intérieure.

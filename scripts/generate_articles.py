@@ -34,6 +34,7 @@ REPO_ROOT = SCRIPT_DIR.parent
 CONTENT_DIR = REPO_ROOT / "content" / "posts"
 TRACKING_FILE = SCRIPT_DIR / "generated_topics.json"
 MATRIX_FILE = SCRIPT_DIR / "matrice_combinaisons.json"
+PERSONNAGES_FILE = SCRIPT_DIR / "personnages.json"
 
 sys.path.insert(0, str(SCRIPT_DIR))
 
@@ -159,6 +160,185 @@ def migrate_tracking_to_matrix(matrix):
 
     if migrated > 0:
         print(f"  {migrated} combinaisons migrees depuis generated_topics.json")
+
+
+# ============================================
+# SYSTÈME DE PERSONNAGES RÉCURRENTS
+# ============================================
+
+def load_personnages():
+    """Charge le registre des personnages depuis personnages.json."""
+    if PERSONNAGES_FILE.exists():
+        try:
+            with open(PERSONNAGES_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                return data.get("personnages", [])
+        except (json.JSONDecodeError, IOError) as e:
+            print(f"  Attention: personnages.json corrompu ({e})")
+    return []
+
+
+def save_personnages(personnages):
+    """Sauvegarde le registre des personnages."""
+    with open(PERSONNAGES_FILE, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    data["personnages"] = personnages
+    with open(PERSONNAGES_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+def select_best_personnage(personnages, category_key, sujet, contexte, matrix):
+    """Sélectionne le personnage le plus pertinent pour un article donné.
+
+    Algorithme :
+    1. Calcul d'un score d'affinité thématique (le sujet apparaît-il dans les affinités du personnage ?)
+    2. Bonus contextuel (le contexte de vie correspond-il à la situation du personnage ?)
+    3. Malus de sur-utilisation (éviter qu'un personnage monopolise les articles)
+    4. Bonus de diversité (favoriser les personnages peu utilisés)
+    """
+    articles = matrix.get("articles", [])
+
+    # Compter les apparitions de chaque personnage
+    apparitions = {}
+    for a in articles:
+        p = a.get("prenom", "")
+        if p:
+            apparitions[p] = apparitions.get(p, 0) + 1
+
+    scores = []
+    for perso in personnages:
+        score = 0
+        prenom = perso["prenom"]
+
+        # 1. Score d'affinité thématique (0-30 points)
+        affinites = perso.get("affinites_thematiques", {}).get(category_key, [])
+        sujet_lower = sujet.lower()
+        for affinite in affinites:
+            affinite_lower = affinite.lower()
+            # Correspondance exacte
+            if sujet_lower == affinite_lower:
+                score += 30
+                break
+            # Correspondance partielle (le sujet contient l'affinité ou vice versa)
+            if sujet_lower in affinite_lower or affinite_lower in sujet_lower:
+                score += 20
+                break
+            # Mots-clés communs
+            mots_sujet = set(sujet_lower.split())
+            mots_affinite = set(affinite_lower.split())
+            communs = mots_sujet & mots_affinite - {"de", "du", "la", "le", "les", "des", "en", "et", "à", "l'", "d'", "un", "une"}
+            if communs:
+                score += min(15, len(communs) * 5)
+
+        # 2. Bonus contextuel (0-10 points)
+        contexte_lower = contexte.lower()
+        situation = perso.get("situation_familiale", "").lower()
+        profession = perso.get("profession", "").lower()
+        traits = " ".join(perso.get("traits_personnalite", [])).lower()
+
+        if "travail" in contexte_lower and ("entreprise" in profession or "manager" in profession or "cadre" in profession or "travail" in profession):
+            score += 10
+        elif "couple" in contexte_lower and ("marié" in situation or "couple" in situation or "compagne" in situation or "compagnon" in situation):
+            score += 10
+        elif "famille" in contexte_lower and ("enfant" in situation or "mère" in situation or "père" in situation or "parent" in situation):
+            score += 10
+        elif "parent" in contexte_lower and ("enfant" in situation or "mère" in situation or "père" in situation):
+            score += 10
+        elif "enfant" in contexte_lower and ("enfant" in situation or "mère" in situation or "père" in situation):
+            score += 10
+        elif "école" in contexte_lower and ("étudiant" in profession or "enseignant" in profession):
+            score += 10
+        elif "entretien" in contexte_lower and ("étudiant" in profession or "reconversion" in profession or "commercial" in profession):
+            score += 8
+        elif "manager" in contexte_lower and ("manager" in profession or "directrice" in profession or "cadre" in profession or "chef" in profession):
+            score += 10
+        elif "argent" in contexte_lower or "finances" in contexte_lower:
+            score += 5
+        elif "réseaux sociaux" in contexte_lower and (perso["age"] <= 30):
+            score += 8
+        elif "solitude" in contexte_lower and ("seul" in situation or "célibataire" in situation or "veuf" in situation or "veuve" in situation):
+            score += 10
+        elif "rupture" in contexte_lower and ("rupture" in perso.get("histoire_de_fond", "").lower() or "sépar" in situation or "divorc" in situation):
+            score += 10
+        elif "deuil" in contexte_lower and ("décédé" in str(perso.get("relations", {})).lower() or "veuf" in situation or "veuve" in situation):
+            score += 10
+        elif "reconversion" in contexte_lower and "reconversion" in profession:
+            score += 10
+        elif "vieillissement" in contexte_lower and perso["age"] >= 50:
+            score += 10
+        elif "compétition" in contexte_lower and ("compétitif" in traits or "ambitieux" in traits):
+            score += 8
+        elif "conflit" in contexte_lower:
+            score += 3
+        elif "intimité" in contexte_lower and ("couple" in situation or "compagne" in situation):
+            score += 8
+
+        # 3. Malus de sur-utilisation (-5 points par apparition au-delà de 3)
+        nb_apparitions = apparitions.get(prenom, 0)
+        if nb_apparitions > 3:
+            score -= (nb_apparitions - 3) * 5
+
+        # 4. Bonus de diversité (+5 si jamais utilisé, +3 si 1 seule fois)
+        if nb_apparitions == 0:
+            score += 5
+        elif nb_apparitions == 1:
+            score += 3
+
+        scores.append((perso, score))
+
+    # Trier par score décroissant
+    scores.sort(key=lambda x: x[1], reverse=True)
+
+    # Retourner le meilleur personnage
+    best = scores[0][0]
+    best_score = scores[0][1]
+    print(f"  [Personnage] Sélection : {best['prenom']} (score: {best_score}, "
+          f"affinité: {category_key}, {apparitions.get(best['prenom'], 0)} articles précédents)")
+    return best
+
+
+def update_personnage_history(personnages, prenom, article_info):
+    """Met à jour l'historique d'un personnage après la génération d'un article."""
+    for perso in personnages:
+        if perso["prenom"] == prenom:
+            perso["historique_articles"].append({
+                "date": article_info.get("date", ""),
+                "sujet": article_info.get("sujet", ""),
+                "contexte": article_info.get("contexte", ""),
+                "category": article_info.get("category_key", ""),
+                "titre": article_info.get("title", ""),
+                "slug": article_info.get("slug", ""),
+            })
+            break
+
+
+def build_personnage_context(perso):
+    """Construit le contexte narratif d'un personnage pour le prompt de rédaction."""
+    historique = perso.get("historique_articles", [])
+    relations = perso.get("relations", {})
+
+    context = f"""FICHE DU PERSONNAGE (à respecter ABSOLUMENT) :
+- Prénom : {perso['prenom']}
+- Âge : {perso['age']} ans (NE CHANGE JAMAIS)
+- Profession : {perso['profession']}
+- Situation : {perso['situation_familiale']}
+- Traits de personnalité : {', '.join(perso['traits_personnalite'])}
+- Tendances psychologiques : {', '.join(perso['tendances_psychologiques'])}
+- Histoire : {perso['histoire_de_fond']}
+- Apparence : {perso['details_physiques']}
+- Habitudes : {perso['habitudes']}"""
+
+    if relations:
+        relations_str = ", ".join(f"{role}: {nom}" for role, nom in relations.items())
+        context += f"\n- Relations : {relations_str}"
+
+    if historique:
+        context += f"\n\nHISTORIQUE DU PERSONNAGE ({len(historique)} articles précédents) :"
+        context += "\nCe personnage est déjà apparu dans les articles suivants. Tu peux faire des références subtiles à son parcours :"
+        for h in historique[-5:]:  # Limiter aux 5 derniers pour ne pas surcharger le prompt
+            context += f"\n  - \"{h.get('titre', h.get('sujet', ''))}\" ({h.get('contexte', '')})"
+
+    return context
 
 
 # ============================================
@@ -401,8 +581,8 @@ def generate_random_combination(category_key, matrix):
                 "contexte": contexte,
                 "angle": angle,
                 "profil": profil,
-                "prenom": random.choice(PRENOMS),
-                "age": random.choice(TRANCHES_AGE),
+                "prenom": "",  # Sera rempli par select_best_personnage
+                "age": "",     # Sera rempli par select_best_personnage
             }
 
     raise Exception(f"Impossible de trouver une combinaison unique pour {category_key}")
@@ -483,6 +663,19 @@ def build_article_prompt(combo):
     """Construit le prompt spécifique pour un article."""
     profil_text = f"\nPROFIL DU LECTEUR CIBLE : {combo['profil']}" if combo.get('profil') else ""
 
+    # Utiliser le contexte enrichi du personnage si disponible
+    personnage_context = combo.get('personnage_context', '')
+    if personnage_context:
+        personnage_section = f"""
+{personnage_context}
+
+IMPORTANT : Tu DOIS respecter l'identité, l'âge, la profession et les relations du personnage tels que décrits ci-dessus. {combo['prenom']} a TOUJOURS {combo['age']} ans. Utilise ses traits de personnalité et son histoire pour rendre le récit cohérent avec les articles précédents."""
+    else:
+        personnage_section = f"""PERSONNAGE DE L'HISTOIRE :
+- Prénom : {combo['prenom']}
+- Âge : {combo['age']}
+- Situation : {combo['prenom']} vit une situation liée à "{combo['sujet']}" dans le contexte "{combo['contexte']}" """
+
     return f"""Rédige un article de blog complet avec les paramètres suivants :
 
 CATÉGORIE : {combo['category_name']}
@@ -490,10 +683,7 @@ SUJET PRINCIPAL : {combo['sujet']}
 CONTEXTE DE VIE : {combo['contexte']}
 ANGLE ÉDITORIAL : {combo['angle']}{profil_text}
 
-PERSONNAGE DE L'HISTOIRE :
-- Prénom : {combo['prenom']}
-- Âge : {combo['age']}
-- Situation : {combo['prenom']} vit une situation liée à "{combo['sujet']}" dans le contexte "{combo['contexte']}"
+{personnage_section}
 
 CONSIGNES SPÉCIFIQUES (structure OBLIGATOIRE avec titres H2/H3 Markdown) :
 1. INTRODUCTION NARRATIVE (SANS titre H2) : 3-4 paragraphes immersifs plongeant le lecteur dans la vie de {combo['prenom']}. IMPORTANT : raconte AU PRÉSENT, comme si la scène se déroule sous les yeux du lecteur. {combo['prenom']} vit la situation en temps réel.
@@ -879,14 +1069,17 @@ def main():
 
     category_keys = ["cat1_pensees", "cat2_emotions", "cat3_schemas"]
 
-    # ── ÉTAPE 1 : Charger la matrice des combinaisons ──
-    print("ETAPE 1 : Chargement de la matrice des combinaisons...")
+    # ── ÉTAPE 1 : Charger la matrice et les personnages ──
+    print("ETAPE 1 : Chargement de la matrice et des personnages...")
     matrix = load_matrix()
 
     # Migrer les anciennes données si nécessaire
     migrate_tracking_to_matrix(matrix)
 
-    print(f"  {len(matrix['articles'])} combinaisons dans la matrice\n")
+    # Charger les personnages récurrents
+    personnages = load_personnages()
+    print(f"  {len(matrix['articles'])} combinaisons dans la matrice")
+    print(f"  {len(personnages)} personnages récurrents chargés\n")
 
     # ── ÉTAPE 2 : Demander à Gemini des suggestions intelligentes ──
     print("ETAPE 2 : Analyse par Gemini et suggestion de sujets...")
@@ -924,8 +1117,6 @@ def main():
                 "contexte": s["contexte"],
                 "angle": s["angle"],
                 "profil": s.get("profil"),
-                "prenom": random.choice(PRENOMS),
-                "age": random.choice(TRANCHES_AGE),
             }
             print(f"  [Gemini] Sujet : {combo['sujet']}")
             print(f"  [Gemini] Contexte : {combo['contexte']}")
@@ -937,6 +1128,16 @@ def main():
             print(f"  [Aleatoire] Sujet : {combo['sujet']}")
             print(f"  [Aleatoire] Contexte : {combo['contexte']}")
             print(f"  [Aleatoire] Angle : {combo['angle']}")
+
+        # Sélection intelligente du personnage le plus pertinent
+        if personnages:
+            best_perso = select_best_personnage(personnages, combo["category_key"], combo["sujet"], combo["contexte"], matrix)
+            combo["prenom"] = best_perso["prenom"]
+            combo["age"] = f"{best_perso['age']} ans"
+            combo["personnage_context"] = build_personnage_context(best_perso)
+        else:
+            combo["prenom"] = random.choice(PRENOMS)
+            combo["age"] = random.choice(TRANCHES_AGE)
 
         print(f"  Personnage : {combo['prenom']} ({combo['age']})")
         if combo.get('profil'):
@@ -998,8 +1199,22 @@ def main():
         # Ajouter à la matrice
         add_to_matrix(matrix, combo, metadata)
 
-    # Sauvegarder la matrice
+        # Mettre à jour l'historique du personnage
+        if personnages:
+            update_personnage_history(personnages, combo["prenom"], {
+                "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                "sujet": combo["sujet"],
+                "contexte": combo["contexte"],
+                "category_key": combo["category_key"],
+                "title": metadata.get("title", ""),
+                "slug": metadata.get("slug", ""),
+            })
+
+    # Sauvegarder la matrice et les personnages
     save_matrix(matrix)
+    if personnages:
+        save_personnages(personnages)
+        print(f"  Historique des personnages mis à jour")
     print(f"\n{'='*60}")
     print(f"Generation terminee - {len(matrix['articles'])} combinaisons dans la matrice")
     print(f"{'='*60}\n")

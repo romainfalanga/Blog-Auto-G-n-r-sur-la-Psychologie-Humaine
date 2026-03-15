@@ -1,23 +1,23 @@
 ---
 title: "Comprendre les jeux psychologiques en amitié : le triangle de Karpman"
 date: 2026-03-07T14:55:49+00:00
-description: "Découvrez comment éviter les jeux psychologiques (triangle de Karpman) en amitié grâce à l'histoire de Moussa et des techniques simples."
+description: "Découvrez comment éviter les jeux psychologiques (triangle de Karpman) en amitié grâce à l'histoire de Thomas et des techniques simples."
 categories: ["Sortir de ses schémas répétitifs"]
 tags: ["psychologie", "amitié", "triangle de Karpman", "jeux psychologiques", "développement personnel"]
 slug: "jeux-psychologiques-triangle-karpman-amitie"
 readingTime: 4
 wordCount: 1101
-personnage: "Moussa"
+personnage: "Thomas"
 sujet: "les jeux psychologiques (triangle de Karpman : persécuteur, victime, sauveur)"
 contexte: "en amitié"
 draft: false
 ---
 
-L’après-midi était presque terminé quand Moussa, 29 ans, s’installa à la terrasse de son café préféré. Il attendait Clara, une amie de longue date avec laquelle les retrouvailles avaient souvent été source de tensions. Alors qu’il sirotait son thé, son esprit vagabondait vers leurs derniers échanges : critiques voilées, gestes mal interprétés, et cette sensation récurrente d’être pris au piège dans des disputes sans fin. Ce jour-là, il voulait comprendre pourquoi leur amitié semblait parfois si compliquée, presque un jeu où chacun jouait un rôle sans jamais vraiment se sentir libre.
+L’après-midi était presque terminé quand Thomas, 29 ans, s’installa à la terrasse de son café préféré. Il attendait Clara, une amie de longue date avec laquelle les retrouvailles avaient souvent été source de tensions. Alors qu’il sirotait son thé, son esprit vagabondait vers leurs derniers échanges : critiques voilées, gestes mal interprétés, et cette sensation récurrente d’être pris au piège dans des disputes sans fin. Ce jour-là, il voulait comprendre pourquoi leur amitié semblait parfois si compliquée, presque un jeu où chacun jouait un rôle sans jamais vraiment se sentir libre.
 
-Clara arriva, souriante mais avec cette pointe d’énervement qu’il connaissait bien. Sans même un bonjour posé, la conversation dévia rapidement vers un sujet sensible : Moussa avait raté leur dernier rendez-vous, et elle le lui reprochait, en le rendant presque responsable de ses propres frustrations. Au fond, Moussa sentait qu’il retombait dans une dynamique qu’il ne maîtrisait pas, comme s’il était coincé dans un scénario écrit d’avance. Il avait envie de dire stop, de sortir de ce cercle infernal, mais ne savait pas comment.
+Clara arriva, souriante mais avec cette pointe d’énervement qu’il connaissait bien. Sans même un bonjour posé, la conversation dévia rapidement vers un sujet sensible : Thomas avait raté leur dernier rendez-vous, et elle le lui reprochait, en le rendant presque responsable de ses propres frustrations. Au fond, Thomas sentait qu’il retombait dans une dynamique qu’il ne maîtrisait pas, comme s’il était coincé dans un scénario écrit d’avance. Il avait envie de dire stop, de sortir de ce cercle infernal, mais ne savait pas comment.
 
-Ce moment précis illustre parfaitement ce qu’on appelle les jeux psychologiques, notamment à travers le fameux triangle de Karpman. Cette tension palpable, le poids des reproches, et le désir mal exprimé d’aide, tout cela faisait partie d’un schéma que Moussa ne comprenait pas encore. Moussa était en plein dedans sans le savoir.
+Ce moment précis illustre parfaitement ce qu’on appelle les jeux psychologiques, notamment à travers le fameux triangle de Karpman. Cette tension palpable, le poids des reproches, et le désir mal exprimé d’aide, tout cela faisait partie d’un schéma que Thomas ne comprenait pas encore. Thomas était en plein dedans sans le savoir.
 
 ## Qu'est-ce que les jeux psychologiques (triangle de Karpman : persécuteur, victime, sauveur) ?
 
@@ -31,7 +31,7 @@ Ce jeu tourne en boucle : la Victime se plaint, le Sauveur intervient, et le Per
 
 ## Comment se manifestent les jeux psychologiques dans les amitiés ?
 
-Dans le contexte amical, ces jeux psychologiques peuvent prendre différentes formes. Moussa a souvent joué le rôle de la Victime : il se sentait incompris et accusé injustement, ce qui renforçait chez Clara le rôle de Persécuteur. À d’autres moments, un autre ami pouvait se trouver dans la position de Sauveur, intervenant pour calmer les disputes mais sans jamais changer la dynamique.
+Dans le contexte amical, ces jeux psychologiques peuvent prendre différentes formes. Thomas a souvent joué le rôle de la Victime : il se sentait incompris et accusé injustement, ce qui renforçait chez Clara le rôle de Persécuteur. À d’autres moments, un autre ami pouvait se trouver dans la position de Sauveur, intervenant pour calmer les disputes mais sans jamais changer la dynamique.
 
 Voici quelques exemples concrets :
 
@@ -68,20 +68,20 @@ Installez un dialogue ouvert où chacun peut parler sans jugement ni accusation.
 
 Ces techniques sont des premiers pas pour défaire les schémas automatiques et créer des relations plus saines.
 
-## Comment Moussa a-t-il transformé ses relations amicales ?
+## Comment Thomas a-t-il transformé ses relations amicales ?
 
-Après avoir découvert ce qu’étaient les jeux psychologiques et le triangle de Karpman, Moussa a pris conscience qu’il passait souvent dans le rôle de Victime. Il a commencé à appliquer l’affirmation de soi : lors de ses rendez-vous avec Clara, au lieu de se défendre ou de se justifier maladroitement, il a exprimé ses besoins calmement.
+Après avoir découvert ce qu’étaient les jeux psychologiques et le triangle de Karpman, Thomas a pris conscience qu’il passait souvent dans le rôle de Victime. Il a commencé à appliquer l’affirmation de soi : lors de ses rendez-vous avec Clara, au lieu de se défendre ou de se justifier maladroitement, il a exprimé ses besoins calmement.
 
-Un jour, quand Clara a commencé à le critiquer sur un retard, Moussa a posé une limite en disant : « Je comprends que tu sois déçue, mais j’aimerais qu’on parle sans reproches pour mieux trouver une solution ensemble. » Cette phrase a surpris Clara, qui a baissé la garde. Peu à peu, ils ont pu échanger plus honnêtement, sans tomber dans les rôles de Persécuteur ou de Victime.
+Un jour, quand Clara a commencé à le critiquer sur un retard, Thomas a posé une limite en disant : « Je comprends que tu sois déçue, mais j’aimerais qu’on parle sans reproches pour mieux trouver une solution ensemble. » Cette phrase a surpris Clara, qui a baissé la garde. Peu à peu, ils ont pu échanger plus honnêtement, sans tomber dans les rôles de Persécuteur ou de Victime.
 
-Moussa s’est aussi éloigné des postures de Sauveur avec d’autres amis, apprenant à reconnaître quand il aidait trop, au risque de renforcer la dépendance. Ces changements lui ont permis de construire des amitiés plus équilibrées, où chacun se sent respecté.
+Thomas s’est aussi éloigné des postures de Sauveur avec d’autres amis, apprenant à reconnaître quand il aidait trop, au risque de renforcer la dépendance. Ces changements lui ont permis de construire des amitiés plus équilibrées, où chacun se sent respecté.
 
 ## Un message d’espoir pour vous
 
-Les jeux psychologiques (triangle de Karpman : persécuteur, victime, sauveur) en amitié sont des pièges relationnels dans lesquels nous tombons tous à un moment ou un autre. Mais comme Moussa, vous pouvez apprendre à reconnaître ces rôles et faire le choix de sortir du cercle vicieux.
+Les jeux psychologiques (triangle de Karpman : persécuteur, victime, sauveur) en amitié sont des pièges relationnels dans lesquels nous tombons tous à un moment ou un autre. Mais comme Thomas, vous pouvez apprendre à reconnaître ces rôles et faire le choix de sortir du cercle vicieux.
 
 Il ne s’agit pas de culpabiliser ni de changer du jour au lendemain, mais d’adopter peu à peu des comportements plus sains, fondés sur la compréhension de soi et de l’autre. En cultivant l’écoute, l’affirmation de soi et la bienveillance, vos relations pourront retrouver leur légèreté et leur profondeur.
 
 Si vous traversez des difficultés persistantes, n’hésitez pas à consulter un professionnel qui pourra vous accompagner dans ce cheminement. Souvenez-vous : chaque pas vers la conscience est un pas vers la liberté intérieure.
 
-Peut-être que, comme Moussa, vous êtes à un tournant. Et si cette prise de conscience était le début d’une nouvelle façon d’aimer et d’être ami ?
+Peut-être que, comme Thomas, vous êtes à un tournant. Et si cette prise de conscience était le début d’une nouvelle façon d’aimer et d’être ami ?

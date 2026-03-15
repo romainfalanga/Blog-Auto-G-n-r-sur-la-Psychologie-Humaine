@@ -1,0 +1,1620 @@
+{
+  "description": "Registre des 20 personnages récurrents du blog 'Décode ton esprit'. Chaque personnage a une identité fixe, des caractéristiques permanentes et un historique qui s'enrichit à chaque article.",
+  "personnages": [
+    {
+      "id": "sophie",
+      "prenom": "Sophie",
+      "age": 28,
+      "tranche_age": "adulte en construction (26-35 ans)",
+      "profession": "développeuse web dans une startup",
+      "situation_familiale": "célibataire, vit seule en appartement en ville",
+      "traits_personnalite": [
+        "perfectionniste",
+        "introvertie",
+        "analytique",
+        "autocritique"
+      ],
+      "tendances_psychologiques": [
+        "overthinking",
+        "rumination mentale",
+        "syndrome de l'imposteur",
+        "difficulté à lâcher prise"
+      ],
+      "histoire_de_fond": "Sophie a grandi avec un père ingénieur exigeant et une mère enseignante qui valorisait l'excellence. Elle a toujours été première de classe. Aujourd'hui, elle excelle dans son travail mais doute constamment d'elle-même. Sa meilleure amie Claire est sa confidente.",
+      "details_physiques": "cheveux châtains attachés en queue de cheval, lunettes rondes, style sobre",
+      "habitudes": "boit du thé vert en travaillant, tient un carnet de notes, fait du yoga le dimanche",
+      "relations": {
+        "amie_proche": "Claire",
+        "collegue": "Marc"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "biais de confirmation",
+          "overthinking",
+          "pensées automatiques négatives",
+          "rumination mentale",
+          "auto-critique interne",
+          "perfectionnisme",
+          "effet Dunning-Kruger",
+          "biais rétrospectif",
+          "restructuration cognitive"
+        ],
+        "cat2_emotions": [
+          "anxiété",
+          "frustration",
+          "sentiment d'imposture",
+          "irritabilité",
+          "appréhension"
+        ],
+        "cat3_schemas": [
+          "exigences élevées/critique excessive",
+          "échec",
+          "recherche d'approbation/reconnaissance",
+          "le syndrome de l'imposteur"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "biais rétrospectif",
+          "contexte": "après un succès",
+          "category": "cat1_pensees",
+          "titre": "Comment le biais rétrospectif après un succès te piège",
+          "slug": "biais-retrospectif-apres-succes"
+        },
+        {
+          "date": "",
+          "sujet": "irritabilité",
+          "contexte": "seul(e) face à soi-même",
+          "category": "cat2_emotions",
+          "titre": "Irritabilité seul face à soi-même : comprendre et apaiser ses tensions",
+          "slug": "irritabilite-seul-face-a-soi"
+        },
+        {
+          "date": "",
+          "sujet": "génogramme simplifié",
+          "contexte": "seul(e) face à soi-même",
+          "category": "cat3_schemas",
+          "titre": "Génogramme simplifié seul(e) face à soi-même",
+          "slug": "genogramme-simplifie-seul-face-a-soi"
+        },
+        {
+          "date": "",
+          "sujet": "échec",
+          "contexte": "après un échec",
+          "category": "cat3_schemas",
+          "titre": "Échec après un échec : comprendre ses causes profondes",
+          "slug": "echec-apres-un-echec"
+        },
+        {
+          "date": "",
+          "sujet": "le syndrome de l'imposteur",
+          "contexte": "en société et dans les interactions sociales",
+          "category": "cat3_schemas",
+          "titre": "Comprendre et vaincre le syndrome de l'imposteur en société",
+          "slug": "syndrome-imposteur-societe-interactions"
+        }
+      ]
+    },
+    {
+      "id": "thomas",
+      "prenom": "Thomas",
+      "age": 34,
+      "tranche_age": "adulte en construction (26-35 ans)",
+      "profession": "enseignant d'histoire-géographie au lycée",
+      "situation_familiale": "en couple avec Émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité",
+      "traits_personnalite": [
+        "empathique",
+        "people pleaser",
+        "patient",
+        "évite le conflit"
+      ],
+      "tendances_psychologiques": [
+        "difficulté à poser des limites",
+        "sacrifice de soi",
+        "besoin de validation",
+        "peur de décevoir"
+      ],
+      "histoire_de_fond": "Thomas a grandi dans une famille nombreuse où il fallait faire plaisir à tout le monde pour avoir de l'attention. Il est le deuxième de quatre enfants. Ses élèves l'adorent mais il s'épuise à vouloir aider tout le monde. Sa compagne Émilie lui reproche parfois de ne pas savoir dire non.",
+      "details_physiques": "grand, mince, regard doux, barbe de trois jours",
+      "habitudes": "lit beaucoup, cuisine le week-end, court le matin",
+      "relations": {
+        "compagne": "Émilie",
+        "frere": "Antoine",
+        "collegue": "Valérie"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "biais de conformité",
+          "biais d'omission",
+          "pensée de groupe",
+          "lecture de pensée",
+          "biais de complaisance"
+        ],
+        "cat2_emotions": [
+          "culpabilité",
+          "frustration",
+          "accablement",
+          "fatigue de compassion",
+          "ambivalence émotionnelle"
+        ],
+        "cat3_schemas": [
+          "abnégation/sacrifice de soi",
+          "assujettissement",
+          "recherche d'approbation/reconnaissance",
+          "les drivers/messages contraignants"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "lecture de pensée",
+          "contexte": "en couple",
+          "category": "cat1_pensees",
+          "titre": "Lecture de pensée en couple : quand on croit deviner l'autre",
+          "slug": "lecture-de-pensee-en-couple"
+        },
+        {
+          "date": "",
+          "sujet": "les jeux psychologiques (triangle de Karpman : persécuteur, victime, sauveur)",
+          "contexte": "en amitié",
+          "category": "cat3_schemas",
+          "titre": "Comprendre les jeux psychologiques en amitié : le triangle de Karpman",
+          "slug": "jeux-psychologiques-triangle-karpman-amitie"
+        },
+        {
+          "date": "",
+          "sujet": "la situation étrange de Mary Ainsworth",
+          "contexte": "en amitié",
+          "category": "cat3_schemas",
+          "titre": "Comprendre la situation étrange de Mary Ainsworth en amitié",
+          "slug": "situation-etrange-ainsworth-amitie"
+        },
+        {
+          "date": "",
+          "sujet": "assujettissement",
+          "contexte": "face à l'autorité",
+          "category": "cat3_schemas",
+          "titre": "Assujettissement face à l'autorité : comment s'en libérer concrètement",
+          "slug": "assujettissement-face-a-lautorite-liberation"
+        }
+      ]
+    },
+    {
+      "id": "camille",
+      "prenom": "Camille",
+      "age": 42,
+      "tranche_age": "adulte en pleine vie active (36-45 ans)",
+      "profession": "infirmière en service de cardiologie",
+      "situation_familiale": "mariée à David, mère de deux enfants (Léo, 10 ans et Emma, 7 ans)",
+      "traits_personnalite": [
+        "hypersensible",
+        "dévouée",
+        "anxieuse",
+        "maternelle"
+      ],
+      "tendances_psychologiques": [
+        "hyperréactivité émotionnelle",
+        "charge mentale excessive",
+        "culpabilité parentale",
+        "anticipation anxieuse"
+      ],
+      "histoire_de_fond": "Camille a choisi le métier d'infirmière par vocation. Elle donne tout à ses patients et à ses enfants, mais oublie souvent de prendre soin d'elle. Sa mère était elle-même infirmière et très exigeante. Camille porte une charge mentale énorme qu'elle minimise.",
+      "details_physiques": "cheveux blonds courts, yeux bleus fatigués, sourire chaleureux",
+      "habitudes": "prépare les lunchboxes la veille, note tout dans son agenda, dort peu",
+      "relations": {
+        "mari": "David",
+        "fils": "Léo",
+        "fille": "Emma",
+        "mere": "Françoise",
+        "amie": "Nathalie"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "catastrophisation",
+          "anticipation anxieuse",
+          "pensées intrusives",
+          "filtre mental",
+          "biais de négativité"
+        ],
+        "cat2_emotions": [
+          "anxiété",
+          "culpabilité",
+          "accablement",
+          "compassion",
+          "inquiétude",
+          "charge mentale émotionnelle"
+        ],
+        "cat3_schemas": [
+          "abnégation/sacrifice de soi",
+          "vulnérabilité au danger",
+          "exigences élevées/critique excessive",
+          "la parentification"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "catastrophisation (dramatisation)",
+          "contexte": "en couple",
+          "category": "cat1_pensees",
+          "titre": "Catastrophisation en couple : repérer et l'apaiser",
+          "slug": "catastrophisation-en-couple-apaiser"
+        },
+        {
+          "date": "",
+          "sujet": "la parentification",
+          "contexte": "avec ses parents",
+          "category": "cat3_schemas",
+          "titre": "Comprendre la parentification avec ses parents pour mieux avancer",
+          "slug": "parentification-avec-ses-parents"
+        },
+        {
+          "date": "",
+          "sujet": "exigences élevées/critique excessive",
+          "contexte": "avec ses enfants",
+          "category": "cat3_schemas",
+          "titre": "Exigences élevées et critique excessive avec ses enfants : comment changer",
+          "slug": "exigences-elevees-critique-enfants"
+        }
+      ]
+    },
+    {
+      "id": "lucas",
+      "prenom": "Lucas",
+      "age": 24,
+      "tranche_age": "jeune adulte (20-25 ans)",
+      "profession": "étudiant en dernière année d'école de commerce, en stage",
+      "situation_familiale": "célibataire, en colocation avec deux amis",
+      "traits_personnalite": [
+        "sociable en surface",
+        "compétitif",
+        "insécure",
+        "ambitieux"
+      ],
+      "tendances_psychologiques": [
+        "syndrome de l'imposteur",
+        "comparaison sociale",
+        "peur de l'échec",
+        "masque social"
+      ],
+      "histoire_de_fond": "Lucas vient d'un milieu modeste. Ses parents ont travaillé dur pour lui payer ses études. Il ressent une pression immense de réussir pour justifier leurs sacrifices. En surface il est le gars cool de la promo, mais en privé il doute de tout.",
+      "details_physiques": "brun, sportif, sourire facile qui masque le stress",
+      "habitudes": "scrolle Instagram tard le soir, fait du basket, révise à la dernière minute",
+      "relations": {
+        "coloc1": "Maxime",
+        "coloc2": "Romain",
+        "mere": "Sandrine",
+        "pere": "Jean-Marc"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "comparaison injuste",
+          "effet Dunning-Kruger",
+          "biais de conformité",
+          "effet spotlight",
+          "biais de groupe"
+        ],
+        "cat2_emotions": [
+          "honte",
+          "envie",
+          "embarras",
+          "sentiment d'imposture",
+          "peur"
+        ],
+        "cat3_schemas": [
+          "échec",
+          "le syndrome de l'imposteur",
+          "recherche d'approbation/reconnaissance",
+          "imperfection/honte"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "biais de groupe",
+          "contexte": "à l'école ou aux études",
+          "category": "cat1_pensees",
+          "titre": "Comprendre le biais de groupe à l'école ou aux études",
+          "slug": "biais-groupe-ecole-etudes"
+        },
+        {
+          "date": "",
+          "sujet": "biais de conformité",
+          "contexte": "en situation de compétition",
+          "category": "cat1_pensees",
+          "titre": "Comprendre le biais de conformité en situation de compétition",
+          "slug": "biais-conformite-competition"
+        },
+        {
+          "date": "",
+          "sujet": "comparaison injuste",
+          "contexte": "face à l'argent et aux finances",
+          "category": "cat1_pensees",
+          "titre": "Comparaison injuste face à l'argent et aux finances : comment s'en libérer",
+          "slug": "comparaison-injuste-argent-finances"
+        },
+        {
+          "date": "",
+          "sujet": "effet Dunning-Kruger",
+          "contexte": "à l'école ou aux études",
+          "category": "cat1_pensees",
+          "titre": "Comprendre l’effet Dunning-Kruger à l’école ou aux études",
+          "slug": "effet-dunning-kruger-ecole-etudes"
+        }
+      ]
+    },
+    {
+      "id": "nadia",
+      "prenom": "Nadia",
+      "age": 38,
+      "tranche_age": "adulte en pleine vie active (36-45 ans)",
+      "profession": "directrice marketing dans une entreprise tech",
+      "situation_familiale": "divorcée, mère d'une fille (Yasmine, 8 ans), garde alternée",
+      "traits_personnalite": [
+        "déterminée",
+        "contrôlante",
+        "exigeante",
+        "leader naturelle"
+      ],
+      "tendances_psychologiques": [
+        "perfectionnisme professionnel",
+        "difficulté à déléguer",
+        "tendance au burn-out",
+        "besoin de contrôle"
+      ],
+      "histoire_de_fond": "Nadia est née en France de parents marocains. Elle a toujours voulu prouver qu'elle méritait sa place. Son divorce l'a fragilisée mais elle refuse de le montrer. Elle gère sa vie comme elle gère son équipe : avec rigueur et efficacité. Mais le coût émotionnel est élevé.",
+      "details_physiques": "cheveux noirs mi-longs, élégante, regard perçant",
+      "habitudes": "se lève à 5h30, planifie tout, boit du café noir, fait du pilates",
+      "relations": {
+        "fille": "Yasmine",
+        "ex_mari": "Karim",
+        "assistante": "Julie",
+        "mere": "Fatima"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "biais d'ancrage",
+          "illusion de contrôle",
+          "biais de statu quo",
+          "effet Zeigarnik",
+          "biais de cadrage"
+        ],
+        "cat2_emotions": [
+          "frustration",
+          "colère",
+          "impatience",
+          "fierté",
+          "solitude"
+        ],
+        "cat3_schemas": [
+          "contrôle de soi insuffisant",
+          "exigences élevées/critique excessive",
+          "surcontrôle émotionnel/inhibition",
+          "droits personnels excessifs/grandiosité"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "biais d'ancrage",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Comprendre le biais d'ancrage face à une décision importante",
+          "slug": "biais-ancrage-decision-importante"
+        },
+        {
+          "date": "",
+          "sujet": "effet Zeigarnik",
+          "contexte": "en tant que manager",
+          "category": "cat1_pensees",
+          "titre": "Effet Zeigarnik en tant que manager : comment le détecter et le gérer",
+          "slug": "effet-zeigarnik-manager-perfectionniste"
+        },
+        {
+          "date": "",
+          "sujet": "biais de statu quo",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Comprendre le biais de statu quo face à une décision importante",
+          "slug": "biais-statu-quo-decision-importante"
+        },
+        {
+          "date": "",
+          "sujet": "frustration",
+          "contexte": "au travail",
+          "category": "cat2_emotions",
+          "titre": "Frustration au travail : comprendre différence entre colère et déception",
+          "slug": "frustration-au-travail-colere-deception"
+        },
+        {
+          "date": "",
+          "sujet": "droits personnels excessifs/grandiosité",
+          "contexte": "au travail",
+          "category": "cat3_schemas",
+          "titre": "Droits personnels excessifs/grandiosité au travail : signes chez HPI",
+          "slug": "grandiosite-droits-excessifs-travail"
+        },
+        {
+          "date": "",
+          "sujet": "contrôle de soi insuffisant",
+          "contexte": "au travail",
+          "category": "cat3_schemas",
+          "titre": "Contrôle de soi insuffisant au travail : les signes à reconnaître",
+          "slug": "controle-de-soi-insuffisant-travail"
+        }
+      ]
+    },
+    {
+      "id": "adrien",
+      "prenom": "Adrien",
+      "age": 31,
+      "tranche_age": "adulte en construction (26-35 ans)",
+      "profession": "graphiste freelance",
+      "situation_familiale": "célibataire depuis une rupture difficile il y a un an",
+      "traits_personnalite": [
+        "créatif",
+        "émotif",
+        "introspectif",
+        "sensible aux ambiances"
+      ],
+      "tendances_psychologiques": [
+        "instabilité émotionnelle",
+        "procrastination",
+        "dépendance affective",
+        "idéalisation des relations"
+      ],
+      "histoire_de_fond": "Adrien a quitté un CDI en agence pour se lancer en freelance. Sa dernière relation avec Marina s'est terminée brutalement quand elle l'a quitté pour un autre. Depuis, il oscille entre créativité intense et vide émotionnel. Il dessine beaucoup pour exorciser ses émotions.",
+      "details_physiques": "barbe soignée, tatouage discret au poignet, look décontracté",
+      "habitudes": "travaille la nuit, dessine dans les cafés, écoute du lo-fi en boucle",
+      "relations": {
+        "ex": "Marina",
+        "ami_proche": "Julien",
+        "soeur": "Charlotte"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "rumination mentale",
+          "pensées intrusives",
+          "raisonnement émotionnel",
+          "biais de négativité",
+          "orientation vers le regret"
+        ],
+        "cat2_emotions": [
+          "amertume",
+          "vide intérieur",
+          "nostalgie",
+          "tristesse",
+          "déception",
+          "mélancolie"
+        ],
+        "cat3_schemas": [
+          "abandon/instabilité",
+          "dépendance/incompétence",
+          "manque affectif",
+          "la dépendance affective vs l'attachement anxieux"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "biais de négativité",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Comprendre le biais de négativité face à une décision importante",
+          "slug": "biais-negativite-decision-importante"
+        },
+        {
+          "date": "",
+          "sujet": "déception",
+          "contexte": "après un échec",
+          "category": "cat2_emotions",
+          "titre": "Déception après un échec : comprendre et rebondir",
+          "slug": "deception-apres-echec"
+        },
+        {
+          "date": "",
+          "sujet": "nostalgie",
+          "contexte": "en amitié",
+          "category": "cat2_emotions",
+          "titre": "Nostalgie en amitié : comprendre et dépasser ce sentiment complexe",
+          "slug": "nostalgie-en-amitie-comment-gerer"
+        },
+        {
+          "date": "",
+          "sujet": "abandon/instabilité",
+          "contexte": "face à la solitude",
+          "category": "cat3_schemas",
+          "titre": "Abandon/instabilité face à la solitude : comprendre et agir",
+          "slug": "abandon-instabilite-face-solitude"
+        }
+      ]
+    },
+    {
+      "id": "margot",
+      "prenom": "Margot",
+      "age": 52,
+      "tranche_age": "adulte en bilan de mi-vie (46-55 ans)",
+      "profession": "en reconversion professionnelle, ancienne directrice commerciale, se forme au coaching",
+      "situation_familiale": "mariée à Philippe, deux enfants adultes partis de la maison (Martin, 26 ans et Chloé, 23 ans)",
+      "traits_personnalite": [
+        "volontaire",
+        "en quête de sens",
+        "nostalgique",
+        "courageuse"
+      ],
+      "tendances_psychologiques": [
+        "crise de mi-vie",
+        "syndrome du nid vide",
+        "remise en question existentielle",
+        "peur du changement"
+      ],
+      "histoire_de_fond": "Margot a passé 25 ans dans le commerce. Un burn-out à 50 ans l'a forcée à tout repenser. Elle se forme au coaching de vie, portée par l'envie d'aider les autres, mais doute encore de sa légitimité dans ce nouveau métier. Ses enfants sont partis et la maison est silencieuse.",
+      "details_physiques": "cheveux poivre et sel assumés, style élégant décontracté, sourire déterminé",
+      "habitudes": "marche en forêt, tient un journal de gratitude, apprend la méditation",
+      "relations": {
+        "mari": "Philippe",
+        "fils": "Martin",
+        "fille": "Chloé",
+        "mentor_coaching": "Sylvie"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "biais de statu quo",
+          "biais du coût irrécupérable",
+          "biais d'optimisme",
+          "recadrage cognitif",
+          "biais rétrospectif"
+        ],
+        "cat2_emotions": [
+          "nostalgie",
+          "indifférence",
+          "résignation",
+          "espoir",
+          "appréhension",
+          "vide intérieur"
+        ],
+        "cat3_schemas": [
+          "les drivers/messages contraignants",
+          "croyances limitantes",
+          "le scénario de vie",
+          "négativité/pessimisme"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "biais d'optimisme",
+          "contexte": "en voyage ou en expatriation",
+          "category": "cat1_pensees",
+          "titre": "Biais d'optimisme en voyage : les erreurs courantes à éviter",
+          "slug": "biais-optimisme-voyage-expatriation"
+        },
+        {
+          "date": "",
+          "sujet": "ennui",
+          "contexte": "en tant que manager",
+          "category": "cat2_emotions",
+          "titre": "Ennui en tant que manager : comment le comprendre et le surmonter",
+          "slug": "ennui-en-tant-que-manager"
+        },
+        {
+          "date": "",
+          "sujet": "indifférence",
+          "contexte": "en période de reconversion professionnelle",
+          "category": "cat2_emotions",
+          "titre": "Comprendre l'indifférence en période de reconversion professionnelle",
+          "slug": "indifference-reconversion-professionnelle"
+        },
+        {
+          "date": "",
+          "sujet": "les drivers/messages contraignants (sois parfait, fais plaisir, sois fort, dépêche-toi, fais des efforts)",
+          "contexte": "en reconversion professionnelle",
+          "category": "cat3_schemas",
+          "titre": "Se libérer des drivers contraignants en reconversion professionnelle",
+          "slug": "drivers-contraignants-reconversion-professionnelle"
+        }
+      ]
+    },
+    {
+      "id": "youssef",
+      "prenom": "Youssef",
+      "age": 29,
+      "tranche_age": "adulte en construction (26-35 ans)",
+      "profession": "ingénieur en informatique dans un grand groupe",
+      "situation_familiale": "en couple avec Léa depuis 2 ans, vit en appartement",
+      "traits_personnalite": [
+        "réfléchi",
+        "introverti",
+        "loyal",
+        "tendance à intellectualiser"
+      ],
+      "tendances_psychologiques": [
+        "alexithymie partielle",
+        "intellectualisation des émotions",
+        "difficulté à exprimer ses sentiments",
+        "entre-deux culturel"
+      ],
+      "histoire_de_fond": "Youssef est né en France de parents tunisiens. Son père Hamid, comptable, lui a appris que les émotions c'est privé. Sa mère Leïla est plus expressive mais respecte la pudeur émotionnelle de la famille. Youssef comprend les émotions intellectuellement mais peine à les ressentir et les exprimer.",
+      "details_physiques": "brun, regard calme, toujours habillé sobrement",
+      "habitudes": "lit des essais de philosophie, code des projets perso le soir, fait du running",
+      "relations": {
+        "compagne": "Léa",
+        "pere": "Hamid",
+        "mere": "Leïla",
+        "ami": "Nicolas"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "biais de projection",
+          "intellectualisation",
+          "biais d'ancrage",
+          "biais de disponibilité",
+          "biais de représentativité"
+        ],
+        "cat2_emotions": [
+          "alexithymie",
+          "confusion émotionnelle",
+          "suppression émotionnelle",
+          "vulnérabilité",
+          "ambivalence émotionnelle"
+        ],
+        "cat3_schemas": [
+          "surcontrôle émotionnel/inhibition",
+          "isolation de l'affect",
+          "intellectualisation",
+          "le faux self"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "biais de disponibilité",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Comprendre le biais de disponibilité face à une décision importante",
+          "slug": "biais-disponibilite-decision-importante"
+        },
+        {
+          "date": "",
+          "sujet": "biais de projection",
+          "contexte": "en colocation",
+          "category": "cat1_pensees",
+          "titre": "Comprendre le biais de projection en colocation : erreurs fréquentes",
+          "slug": "biais-projection-en-colocation-erreurs"
+        }
+      ]
+    },
+    {
+      "id": "isabelle",
+      "prenom": "Isabelle",
+      "age": 47,
+      "tranche_age": "adulte en bilan de mi-vie (46-55 ans)",
+      "profession": "psychologue scolaire dans un collège",
+      "situation_familiale": "divorcée, un fils adolescent (Théo, 16 ans)",
+      "traits_personnalite": [
+        "bienveillante",
+        "lucide",
+        "empathique",
+        "épuisée émotionnellement"
+      ],
+      "tendances_psychologiques": [
+        "fatigue de compassion",
+        "ancienne enfant parentifiée",
+        "difficulté à recevoir de l'aide",
+        "hypervigilance relationnelle"
+      ],
+      "histoire_de_fond": "Isabelle a choisi la psychologie parce qu'enfant, c'est elle qui gérait les conflits entre ses parents. Elle est devenue la 'petite adulte' de la famille dès 8 ans. Aujourd'hui elle aide les enfants des autres, mais peine à s'occuper d'elle-même. Son divorce l'a confrontée à ses propres schémas.",
+      "details_physiques": "cheveux roux mi-longs, yeux verts, air bienveillant mais fatigué",
+      "habitudes": "boit des tisanes, lit avant de dormir, fait de longues promenades seule",
+      "relations": {
+        "fils": "Théo",
+        "amie": "Catherine",
+        "ex_mari": "Laurent",
+        "mere": "Geneviève"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "biais de groupe",
+          "biais d'attribution fondamentale",
+          "pensées automatiques négatives",
+          "méthode ABCDE d'Ellis"
+        ],
+        "cat2_emotions": [
+          "fatigue de compassion",
+          "impuissance",
+          "empathie cognitive vs affective",
+          "régulation émotionnelle",
+          "résilience émotionnelle"
+        ],
+        "cat3_schemas": [
+          "la parentification",
+          "attachement anxieux-préoccupé",
+          "abnégation/sacrifice de soi",
+          "le stress post-traumatique complexe"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "méthode ABCDE d'Ellis",
+          "contexte": "face à l'autorité",
+          "category": "cat1_pensees",
+          "titre": "Méthode ABCDE d'Ellis face à l'autorité, reprendre le contrôle",
+          "slug": "methode-abcde-autorite"
+        },
+        {
+          "date": "",
+          "sujet": "biais d'attribution fondamentale",
+          "contexte": "face à l'autorité",
+          "category": "cat1_pensees",
+          "titre": "Comprendre le biais d'attribution fondamentale face à l'autorité",
+          "slug": "biais-attribution-fondamentale-autorite"
+        },
+        {
+          "date": "",
+          "sujet": "impuissance",
+          "contexte": "face à la maladie",
+          "category": "cat2_emotions",
+          "titre": "Impuissance face à la maladie : comment aider un proche en souffrance",
+          "slug": "impotence-face-maladie-aider-proche"
+        },
+        {
+          "date": "",
+          "sujet": "attachement anxieux-préoccupé (hyperactivation du système)",
+          "contexte": "en couple",
+          "category": "cat3_schemas",
+          "titre": "Comprendre l'attachement anxieux-préoccupé en couple : le cas de Kévin",
+          "slug": "attachement-anxieux-preoccupe-couple"
+        }
+      ]
+    },
+    {
+      "id": "patrick",
+      "prenom": "Patrick",
+      "age": 56,
+      "tranche_age": "senior en quête de sens (56-70 ans)",
+      "profession": "ancien ouvrier, maintenant chef d'équipe dans le BTP",
+      "situation_familiale": "marié à Catherine depuis 30 ans, deux enfants adultes, un petit-fils",
+      "traits_personnalite": [
+        "stoïque",
+        "pudique émotionnellement",
+        "fiable",
+        "taiseux"
+      ],
+      "tendances_psychologiques": [
+        "refoulement émotionnel",
+        "difficulté à demander de l'aide",
+        "masque de force",
+        "peur du vieillissement"
+      ],
+      "histoire_de_fond": "Patrick a commencé à travailler à 16 ans. 'Un homme, ça ne pleure pas' lui disait son père Marcel. Il a construit sa vie sur la fiabilité et le travail dur. Mais à 56 ans, des douleurs au dos le ralentissent, ses enfants sont partis, et il se retrouve face à des émotions qu'il ne sait pas nommer.",
+      "details_physiques": "costaud, cheveux gris coupés court, mains abîmées par le travail, regard bleu profond",
+      "habitudes": "bricole le week-end, regarde le foot, se lève tôt, boit un café au comptoir",
+      "relations": {
+        "epouse": "Catherine",
+        "pere_decede": "Marcel",
+        "fille": "Stéphanie",
+        "fils": "Julien",
+        "petit_fils": "Léo"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "biais de l'angle mort",
+          "biais de normalité",
+          "biais d'omission",
+          "dialogue intérieur négatif"
+        ],
+        "cat2_emotions": [
+          "vulnérabilité",
+          "nostalgie",
+          "impuissance",
+          "colère refoulée",
+          "solitude"
+        ],
+        "cat3_schemas": [
+          "surcontrôle émotionnel/inhibition",
+          "abandon/instabilité",
+          "transmissions transgénérationnelles",
+          "le faux self"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "biais de l'angle mort",
+          "contexte": "face à la solitude",
+          "category": "cat1_pensees",
+          "titre": "Comprendre le biais de l'angle mort face à la solitude",
+          "slug": "biais-angle-mort-solitude"
+        }
+      ]
+    },
+    {
+      "id": "lea",
+      "prenom": "Léa",
+      "age": 23,
+      "tranche_age": "jeune adulte (20-25 ans)",
+      "profession": "étudiante en master de psychologie clinique",
+      "situation_familiale": "célibataire, vit en studio étudiant",
+      "traits_personnalite": [
+        "idéaliste",
+        "empathique",
+        "passionnée",
+        "tend à se surinvestir dans les relations"
+      ],
+      "tendances_psychologiques": [
+        "codépendance",
+        "besoin de sauver les autres",
+        "peur de l'abandon",
+        "idéalisation relationnelle"
+      ],
+      "histoire_de_fond": "Léa est passionnée par la psychologie depuis qu'elle a lu son premier livre de Bowlby à 17 ans. Elle veut aider les autres, mais ses propres blessures d'enfance (parents divorcés à 6 ans, sentiment d'abandon) la rattrapent. En amitié comme en amour, elle donne trop et s'oublie.",
+      "details_physiques": "petite, cheveux bruns bouclés, grands yeux noisette, toujours un livre à la main",
+      "habitudes": "fréquente la bibliothèque universitaire, écrit un blog personnel, fait du bénévolat",
+      "relations": {
+        "mere": "Anne",
+        "pere": "Michel",
+        "meilleure_amie": "Zoé",
+        "prof_referent": "Dr Moreau"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "lecture de pensée",
+          "pensée tout-ou-rien",
+          "catastrophisation",
+          "disqualification du positif"
+        ],
+        "cat2_emotions": [
+          "abandon émotionnel",
+          "rejet",
+          "déception",
+          "trahison",
+          "envie",
+          "jalousie"
+        ],
+        "cat3_schemas": [
+          "abandon/instabilité",
+          "la codépendance",
+          "attachement anxieux-préoccupé",
+          "la théorie de Bowlby",
+          "manque affectif"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "jalousie",
+          "contexte": "en situation de compétition",
+          "category": "cat2_emotions",
+          "titre": "Jalousie en situation de compétition : comprendre et maîtriser ses émotions",
+          "slug": "jalousie-en-competition-maitriser"
+        },
+        {
+          "date": "",
+          "sujet": "rejet",
+          "contexte": "en société et dans les interactions sociales",
+          "category": "cat2_emotions",
+          "titre": "Rejet en société et dans les interactions sociales : comprendre et dépasser ses peurs",
+          "slug": "rejet-societe-interactions-sociales"
+        },
+        {
+          "date": "",
+          "sujet": "envie",
+          "contexte": "en amitié",
+          "category": "cat2_emotions",
+          "titre": "Envie en amitié : comprendre et agir quand ça serre",
+          "slug": "envie-en-amitie"
+        },
+        {
+          "date": "",
+          "sujet": "attachement sécure (caractéristiques, comment le développer)",
+          "contexte": "face à l'argent et aux finances",
+          "category": "cat3_schemas",
+          "titre": "Attachement sécure face à l'argent : comprendre et progresser",
+          "slug": "attachement-secure-argent-finances"
+        }
+      ]
+    },
+    {
+      "id": "karim",
+      "prenom": "Karim",
+      "age": 40,
+      "tranche_age": "adulte en pleine vie active (36-45 ans)",
+      "profession": "entrepreneur, fondateur d'une PME de restauration",
+      "situation_familiale": "marié à Sofia, père de trois enfants (Amine, 12 ans, Lina, 9 ans, Sami, 5 ans)",
+      "traits_personnalite": [
+        "ambitieux",
+        "charismatique",
+        "impulsif",
+        "généreux"
+      ],
+      "tendances_psychologiques": [
+        "besoin de contrôle",
+        "difficulté à concilier travail et famille",
+        "impulsivité décisionnelle",
+        "idéalisation du succès"
+      ],
+      "histoire_de_fond": "Karim a construit son entreprise à partir de rien. Fils d'un épicier algérien, il a voulu montrer qu'il pouvait réussir. Mais son succès a un prix : il rate les spectacles de ses enfants, sa femme Sofia se plaint de son absence. Karim est au carrefour entre ambition et regret.",
+      "details_physiques": "carré d'épaules, sourire communicatif, toujours en mouvement",
+      "habitudes": "travaille 60h/semaine, téléphone toujours en main, prend le petit-déjeuner avec les enfants le dimanche",
+      "relations": {
+        "epouse": "Sofia",
+        "fils_aine": "Amine",
+        "fille": "Lina",
+        "fils_cadet": "Sami",
+        "associe": "Romain"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "biais d'optimisme",
+          "illusion de contrôle",
+          "biais d'engagement/escalade d'engagement",
+          "biais de cadrage",
+          "biais d'action"
+        ],
+        "cat2_emotions": [
+          "regret",
+          "impatience",
+          "fierté",
+          "culpabilité",
+          "enthousiasme"
+        ],
+        "cat3_schemas": [
+          "droits personnels excessifs/grandiosité",
+          "contrôle de soi insuffisant",
+          "croyances limitantes",
+          "prophéties autoréalisatrices"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "culpabilité",
+          "contexte": "en situation de conflit",
+          "category": "cat2_emotions",
+          "titre": "Se libérer de la culpabilité en situation de conflit : l’histoire de Monique",
+          "slug": "culpabilite-situation-conflit-monique"
+        }
+      ]
+    },
+    {
+      "id": "monique",
+      "prenom": "Monique",
+      "age": 62,
+      "tranche_age": "senior en quête de sens (56-70 ans)",
+      "profession": "retraitée, ancienne professeure de français",
+      "situation_familiale": "veuve depuis 3 ans, deux enfants adultes, trois petits-enfants",
+      "traits_personnalite": [
+        "cultivée",
+        "nostalgique",
+        "attachée aux traditions",
+        "secrètement anxieuse"
+      ],
+      "tendances_psychologiques": [
+        "deuil non résolu",
+        "peur de la solitude",
+        "culpabilité générationnelle",
+        "résistance au changement"
+      ],
+      "histoire_de_fond": "Monique a perdu son mari Jean-Claude d'un cancer il y a trois ans. Après 38 ans de mariage, elle se retrouve seule dans une grande maison. Ses enfants vivent loin. Elle remplit ses journées de lecture et de bénévolat à la bibliothèque, mais le silence de la maison lui pèse.",
+      "details_physiques": "cheveux blancs coiffés avec soin, cardigan, collier de perles de sa mère",
+      "habitudes": "lit le journal le matin, fait ses mots croisés, cuisine des plats élaborés pour elle seule, appelle ses petits-enfants",
+      "relations": {
+        "mari_decede": "Jean-Claude",
+        "fille": "Isabelle",
+        "fils": "François",
+        "voisine": "Geneviève",
+        "petite_fille": "Lola"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "biais rétrospectif",
+          "biais du monde juste",
+          "biais de normalité",
+          "orientation vers le regret",
+          "peak-end rule"
+        ],
+        "cat2_emotions": [
+          "nostalgie",
+          "solitude",
+          "mélancolie",
+          "gratitude",
+          "résignation",
+          "impuissance"
+        ],
+        "cat3_schemas": [
+          "négativité/pessimisme",
+          "transmissions transgénérationnelles",
+          "loyautés invisibles",
+          "isolement social/aliénation"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "biais du monde juste",
+          "contexte": "en famille",
+          "category": "cat1_pensees",
+          "titre": "Comprendre le biais du monde juste en famille : l’histoire de Mélanie",
+          "slug": "biais-monde-juste-famille-melanie"
+        },
+        {
+          "date": "",
+          "sujet": "impuissance",
+          "contexte": "lors d'un deuil",
+          "category": "cat2_emotions",
+          "titre": "Impuissance lors d'un deuil : comprendre et reprendre la main",
+          "slug": "impuissance-deuil-reprendre-main"
+        },
+        {
+          "date": "",
+          "sujet": "gratitude",
+          "contexte": "en tant que manager",
+          "category": "cat2_emotions",
+          "titre": "Cultiver la gratitude en tant que manager : le chemin de Charlotte",
+          "slug": "gratitude-en-tant-que-manager"
+        }
+      ]
+    },
+    {
+      "id": "hugo",
+      "prenom": "Hugo",
+      "age": 27,
+      "tranche_age": "adulte en construction (26-35 ans)",
+      "profession": "musicien semi-professionnel et serveur pour payer les factures",
+      "situation_familiale": "en relation instable avec Chloé, musicienne aussi",
+      "traits_personnalite": [
+        "créatif",
+        "passionné",
+        "émotif",
+        "instable"
+      ],
+      "tendances_psychologiques": [
+        "dépendance affective",
+        "oscillation émotionnelle",
+        "idéalisation/dévaluation",
+        "peur de l'abandon"
+      ],
+      "histoire_de_fond": "Hugo a toujours vécu pour la musique. Il joue de la guitare dans les bars et compose. Sa relation avec Chloé est intense mais chaotique : grandes déclarations d'amour suivies de ruptures dramatiques. Il vient d'une famille où l'amour était conditionnel à la performance.",
+      "details_physiques": "cheveux en bataille, veste en jean, bagues aux doigts, regard intense",
+      "habitudes": "compose la nuit, dort peu, écrit des textes de chansons sur ses émotions",
+      "relations": {
+        "compagne": "Chloé",
+        "frere_jumeau": "Théo",
+        "pere": "Alain",
+        "ami_musicien": "Samba"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "pensée tout-ou-rien",
+          "raisonnement émotionnel",
+          "étiquetage",
+          "divination"
+        ],
+        "cat2_emotions": [
+          "amour",
+          "trahison",
+          "euphorie",
+          "désespoir",
+          "vide intérieur",
+          "passion",
+          "dette émotionnelle"
+        ],
+        "cat3_schemas": [
+          "abandon/instabilité",
+          "dépendance/incompétence",
+          "idéalisation/dévaluation",
+          "le trauma bonding",
+          "attachement désorganisé/craintif"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "trahison",
+          "contexte": "en amitié",
+          "category": "cat2_emotions",
+          "titre": "Trahison en amitié : comprendre la différence entre blessure et rancune",
+          "slug": "trahison-en-amitie-differences-clés"
+        },
+        {
+          "date": "",
+          "sujet": "dette émotionnelle",
+          "contexte": "après un échec",
+          "category": "cat2_emotions",
+          "titre": "Comprendre la dette émotionnelle après un échec : le cas d’Hugo",
+          "slug": "dette-emotionnelle-apres-echec"
+        },
+        {
+          "date": "",
+          "sujet": "vide intérieur",
+          "contexte": "après une rupture amoureuse",
+          "category": "cat2_emotions",
+          "titre": "Vide intérieur après une rupture amoureuse : comprendre et agir",
+          "slug": "vide-interieur-apres-rupture-amoureuse"
+        },
+        {
+          "date": "",
+          "sujet": "attachement désorganisé/craintif (oscillation)",
+          "contexte": "après une rupture amoureuse",
+          "category": "cat3_schemas",
+          "titre": "Comprendre l'attachement désorganisé/craintif après une rupture amoureuse",
+          "slug": "attachement-desorganise-craintif-rupture"
+        }
+      ]
+    },
+    {
+      "id": "priya",
+      "prenom": "Priya",
+      "age": 33,
+      "tranche_age": "adulte en construction (26-35 ans)",
+      "profession": "médecin généraliste en cabinet de ville",
+      "situation_familiale": "célibataire, vit seule, relations épisodiques",
+      "traits_personnalite": [
+        "compétente",
+        "réservée",
+        "évitante en amour",
+        "surinvestie au travail"
+      ],
+      "tendances_psychologiques": [
+        "évitement émotionnel",
+        "surinvestissement professionnel",
+        "méfiance relationnelle",
+        "perfectionnisme médical"
+      ],
+      "histoire_de_fond": "Priya est née en France de parents indiens médecins. La pression familiale et culturelle autour de la réussite l'a poussée à exceller. Mais derrière la blouse blanche, Priya fuit l'intimité. Une relation toxique à 25 ans avec un manipulateur l'a rendue méfiante envers tout engagement.",
+      "details_physiques": "cheveux noirs longs souvent attachés, peau mate, élégante même en blouse",
+      "habitudes": "travaille jusqu'à 20h, cuisine indienne le week-end, médite parfois",
+      "relations": {
+        "mere": "Anjali",
+        "pere": "Raj",
+        "soeur": "Anita",
+        "ex_toxique": "Damien"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "biais d'ancrage",
+          "biais d'autorité",
+          "biais de survivant",
+          "biais de disponibilité"
+        ],
+        "cat2_emotions": [
+          "méfiance",
+          "indifférence",
+          "peur",
+          "vulnérabilité",
+          "contagion émotionnelle"
+        ],
+        "cat3_schemas": [
+          "méfiance/abus",
+          "attachement évitant-dédaigneux",
+          "le gaslighting et la manipulation psychologique",
+          "évitement",
+          "le faux self"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "vulnérabilité",
+          "contexte": "lors d'un entretien d'embauche",
+          "category": "cat2_emotions",
+          "titre": "Apprendre la vulnérabilité lors d'un entretien d'embauche : le témoignage d'Hiroshi",
+          "slug": "vulnerabilite-entretien-embauche-hiroshi"
+        },
+        {
+          "date": "",
+          "sujet": "le gaslighting et la manipulation psychologique",
+          "contexte": "en période de reconversion professionnelle",
+          "category": "cat3_schemas",
+          "titre": "Le gaslighting et la manipulation psychologique en reconversion pro",
+          "slug": "gaslighting-manipulation-reconversion"
+        },
+        {
+          "date": "",
+          "sujet": "le gaslighting et la manipulation psychologique",
+          "contexte": "après un succès",
+          "category": "cat3_schemas",
+          "titre": "Le gaslighting et la manipulation psychologique après un succès : comment aider",
+          "slug": "gaslighting-manipulation-apres-succes"
+        },
+        {
+          "date": "",
+          "sujet": "attachement évitant-dédaigneux (désactivation du système)",
+          "contexte": "dans l'intimité et la sexualité",
+          "category": "cat3_schemas",
+          "titre": "Attachement évitant-dédaigneux dans l'intimité et la sexualité",
+          "slug": "attachement-evitant-dans-intimite"
+        }
+      ]
+    },
+    {
+      "id": "stephane",
+      "prenom": "Stéphane",
+      "age": 45,
+      "tranche_age": "adulte en pleine vie active (36-45 ans)",
+      "profession": "commercial grands comptes dans une multinationale",
+      "situation_familiale": "marié à Sandrine, père d'un adolescent (Maxime, 15 ans)",
+      "traits_personnalite": [
+        "sociable en apparence",
+        "anxieux en privé",
+        "compétitif",
+        "masque social fort"
+      ],
+      "tendances_psychologiques": [
+        "anxiété sociale masquée",
+        "peur de l'échec professionnel",
+        "comparaison sociale",
+        "syndrome de l'imposteur"
+      ],
+      "histoire_de_fond": "Stéphane est le roi du réseau professionnel. Tout le monde le trouve brillant et à l'aise. Mais avant chaque réunion importante, il a des sueurs froides. Il a grandi dans l'ombre d'un grand frère brillant et n'a jamais senti qu'il était à la hauteur. Sa femme Sandrine est la seule à voir ses doutes.",
+      "details_physiques": "costume bien coupé, cheveux grisonnants aux tempes, poignée de main ferme",
+      "habitudes": "prépare excessivement ses présentations, fait du golf, boit un whisky le soir pour décompresser",
+      "relations": {
+        "epouse": "Sandrine",
+        "fils": "Maxime",
+        "frere": "Philippe",
+        "collegue": "Marc"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "biais de conformité",
+          "effet spotlight",
+          "biais d'attribution fondamentale",
+          "biais de comparaison",
+          "effet de halo"
+        ],
+        "cat2_emotions": [
+          "honte",
+          "embarras",
+          "appréhension",
+          "rejet",
+          "satisfaction"
+        ],
+        "cat3_schemas": [
+          "le syndrome de l'imposteur",
+          "imperfection/honte",
+          "recherche d'approbation/reconnaissance",
+          "le faux self"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "effet de leurre",
+          "contexte": "en famille",
+          "category": "cat1_pensees",
+          "titre": "Effet de leurre en famille : l'histoire de Juliette qui reprend le contrôle",
+          "slug": "effet-leurre-en-famille"
+        },
+        {
+          "date": "",
+          "sujet": "effet de halo",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Effet de halo face à une décision importante : erreurs à éviter",
+          "slug": "effet-de-halo-decision-importante"
+        },
+        {
+          "date": "",
+          "sujet": "honte",
+          "contexte": "après un succès",
+          "category": "cat2_emotions",
+          "titre": "Honte après un succès : comprendre et dépasser ce paradoxe",
+          "slug": "honte-apres-un-succes"
+        },
+        {
+          "date": "",
+          "sujet": "recherche d'approbation/reconnaissance",
+          "contexte": "au travail",
+          "category": "cat3_schemas",
+          "titre": "Comment la recherche d'approbation au travail sabote Aïssatou",
+          "slug": "recherche-approbation-reconnaissance-travail"
+        }
+      ]
+    },
+    {
+      "id": "djamila",
+      "prenom": "Djamila",
+      "age": 36,
+      "tranche_age": "adulte en pleine vie active (36-45 ans)",
+      "profession": "travailleuse sociale dans une association d'aide aux femmes",
+      "situation_familiale": "séparée, en reconstruction, un fils (Adam, 6 ans)",
+      "traits_personnalite": [
+        "combative",
+        "empathique",
+        "méfiante",
+        "résiliente"
+      ],
+      "tendances_psychologiques": [
+        "hypervigilance relationnelle",
+        "survivante de relation toxique",
+        "difficulté à faire confiance",
+        "tendance au sauvetage"
+      ],
+      "histoire_de_fond": "Djamila a vécu 7 ans avec un conjoint manipulateur. Elle a fini par partir avec son fils Adam sous le bras. Aujourd'hui elle aide d'autres femmes dans la même situation, mais ses propres blessures ne sont pas cicatrisées. Elle sursaute encore quand quelqu'un hausse le ton.",
+      "details_physiques": "visage doux mais regard vigilant, foulard coloré, mains expressives",
+      "habitudes": "fait du self-défense, dessine avec Adam, écrit dans un journal intime",
+      "relations": {
+        "fils": "Adam",
+        "ex_conjoint": "Samir",
+        "collegue": "Amina",
+        "therapeute": "Dr Martin"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "biais de négativité",
+          "biais de confirmation",
+          "pensées intrusives",
+          "anticipation anxieuse",
+          "hypervigilance cognitive"
+        ],
+        "cat2_emotions": [
+          "terreur",
+          "rage",
+          "soulagement",
+          "fierté",
+          "trahison",
+          "sentiment d'injustice"
+        ],
+        "cat3_schemas": [
+          "le gaslighting et la manipulation psychologique",
+          "le cycle de l'abus",
+          "méfiance/abus",
+          "le trauma bonding",
+          "le stress post-traumatique complexe"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "méfiance/abus",
+          "contexte": "sur les réseaux sociaux",
+          "category": "cat3_schemas",
+          "titre": "Méfiance/abus sur les réseaux sociaux : comment reconnaître les signes",
+          "slug": "mefiance-abus-reseaux-sociaux"
+        },
+        {
+          "date": "",
+          "sujet": "le stress post-traumatique complexe (C-PTSD)",
+          "contexte": "lors d'un deuil",
+          "category": "cat3_schemas",
+          "titre": "Comprendre le stress post-traumatique complexe (C-PTSD) lors d'un deuil",
+          "slug": "stress-post-traumatique-complexe-deuil"
+        }
+      ]
+    },
+    {
+      "id": "fabien",
+      "prenom": "Fabien",
+      "age": 50,
+      "tranche_age": "adulte en bilan de mi-vie (46-55 ans)",
+      "profession": "cadre RH dans une entreprise industrielle",
+      "situation_familiale": "divorcé depuis 2 ans, deux enfants (Marine, 20 ans et Lucas, 17 ans) chez leur mère",
+      "traits_personnalite": [
+        "analytique",
+        "réservé",
+        "empathique au travail",
+        "fermé dans sa vie perso"
+      ],
+      "tendances_psychologiques": [
+        "burn-out latent",
+        "solitude assumée en façade",
+        "deuil du couple",
+        "difficulté à reconstruire"
+      ],
+      "histoire_de_fond": "Fabien gérait les ressources humaines des autres depuis 20 ans, mais n'a pas su gérer son propre couple. Le divorce l'a pris de court. Il vit seul dans un appartement qui sent encore le neuf. Au travail, il écoute, il conseille. Chez lui, le silence règne. Il commence à se demander s'il n'a pas reproduit le schéma de son propre père distant.",
+      "details_physiques": "lunettes, cheveux poivre et sel, pull col roulé, air posé",
+      "habitudes": "écoute du jazz, cuisine simple, fait des balades en vélo le dimanche, regarde des documentaires",
+      "relations": {
+        "ex_epouse": "Véronique",
+        "fille": "Marine",
+        "fils": "Lucas",
+        "ami": "Bernard"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "biais rétrospectif",
+          "biais du coût irrécupérable",
+          "biais de complaisance",
+          "questionnement socratique"
+        ],
+        "cat2_emotions": [
+          "solitude",
+          "regret",
+          "vide intérieur",
+          "amertume",
+          "indifférence",
+          "déception"
+        ],
+        "cat3_schemas": [
+          "isolement social/aliénation",
+          "compulsion de répétition",
+          "transmissions transgénérationnelles",
+          "le scénario de vie"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "biais du coût irrécupérable",
+          "contexte": "après une rupture amoureuse",
+          "category": "cat1_pensees",
+          "titre": "Biais du coût irrécupérable après une rupture amoureuse : comment s'en libérer",
+          "slug": "biais-cout-irrecoverable-rupture"
+        },
+        {
+          "date": "",
+          "sujet": "amertume",
+          "contexte": "en situation de conflit",
+          "category": "cat2_emotions",
+          "titre": "Amertume en situation de conflit : comprendre et agir",
+          "slug": "amertume-en-situation-de-conflit"
+        },
+        {
+          "date": "",
+          "sujet": "vide intérieur",
+          "contexte": "face à une décision importante",
+          "category": "cat2_emotions",
+          "titre": "Vide intérieur face à une décision importante : comprendre et agir",
+          "slug": "vide-interieur-decision-parentification"
+        }
+      ]
+    },
+    {
+      "id": "mei",
+      "prenom": "Mei",
+      "age": 22,
+      "tranche_age": "jeune adulte (20-25 ans)",
+      "profession": "étudiante en école d'art, spécialité illustration",
+      "situation_familiale": "célibataire, vit en résidence étudiante",
+      "traits_personnalite": [
+        "timide",
+        "observatrice",
+        "sensible",
+        "perfectionniste artistique"
+      ],
+      "tendances_psychologiques": [
+        "anxiété sociale",
+        "peur du jugement",
+        "évitement des conflits",
+        "comparaison aux autres"
+      ],
+      "histoire_de_fond": "Mei est née en France de parents chinois qui tiennent un restaurant. Ils rêvaient qu'elle fasse médecine. Choisir l'art a été sa première rébellion. Elle dessine magnifiquement mais n'ose pas montrer son travail. En cours, elle reste au fond de la classe. Ses parents ne comprennent pas sa voie.",
+      "details_physiques": "petite, cheveux noirs lisses avec une mèche bleue, toujours un carnet de croquis",
+      "habitudes": "dessine dans les transports, visite des musées seule, communique beaucoup par écrit",
+      "relations": {
+        "mere": "Li",
+        "pere": "Wei",
+        "amie_de_promo": "Océane",
+        "prof_art": "M. Dubois"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "effet spotlight",
+          "biais de conformité",
+          "biais de projection",
+          "pensées automatiques négatives",
+          "effet de simple exposition"
+        ],
+        "cat2_emotions": [
+          "embarras",
+          "honte",
+          "peur",
+          "inadéquation",
+          "satisfaction",
+          "émerveillement"
+        ],
+        "cat3_schemas": [
+          "imperfection/honte",
+          "assujettissement",
+          "le faux self",
+          "fusion/personnalité atrophiée"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "effet IKEA",
+          "contexte": "lors d'un entretien d'embauche",
+          "category": "cat1_pensees",
+          "titre": "Effet IKEA lors d'un entretien d'embauche : mythes à déconstruire",
+          "slug": "effet-ikea-entretien-embauche"
+        },
+        {
+          "date": "",
+          "sujet": "effet de simple exposition",
+          "contexte": "sur les réseaux sociaux",
+          "category": "cat1_pensees",
+          "titre": "Se libérer de l'effet de simple exposition sur les réseaux sociaux",
+          "slug": "effet-simple-exposition-reseaux"
+        },
+        {
+          "date": "",
+          "sujet": "embarras",
+          "contexte": "en société et dans les interactions sociales",
+          "category": "cat2_emotions",
+          "titre": "Embarras en société : comprendre la gêne et agir",
+          "slug": "embarras-en-societe-interactions"
+        }
+      ]
+    },
+    {
+      "id": "bernard",
+      "prenom": "Bernard",
+      "age": 58,
+      "tranche_age": "senior en quête de sens (56-70 ans)",
+      "profession": "artisan ébéniste, atelier en campagne",
+      "situation_familiale": "veuf depuis 5 ans, un fils avec qui les relations sont tendues",
+      "traits_personnalite": [
+        "taiseux",
+        "méticuleux",
+        "fier",
+        "pudique"
+      ],
+      "tendances_psychologiques": [
+        "deuil figé",
+        "difficulté à verbaliser",
+        "isolement choisi",
+        "attachement aux objets et au passé"
+      ],
+      "histoire_de_fond": "Bernard a perdu sa femme Hélène d'un accident de voiture. Depuis, il s'est réfugié dans son atelier. Le bois ne demande pas de parler. Son fils Éric lui reproche de ne pas exprimer ses émotions. Bernard aimerait se rapprocher de lui mais ne sait pas comment. Il communique par les meubles qu'il fabrique.",
+      "details_physiques": "mains larges et calleuses, cheveux blancs, visage buriné, tablier de travail",
+      "habitudes": "se lève à l'aube, travaille le bois toute la journée, écoute la radio, dîne seul",
+      "relations": {
+        "epouse_decedee": "Hélène",
+        "fils": "Éric",
+        "voisin": "Marcel",
+        "chien": "Sultan"
+      },
+      "affinites_thematiques": {
+        "cat1_pensees": [
+          "biais de l'autruche",
+          "biais d'omission",
+          "biais de normalité",
+          "pensées intrusives"
+        ],
+        "cat2_emotions": [
+          "solitude",
+          "tristesse",
+          "nostalgie",
+          "tendresse refoulée",
+          "apathie"
+        ],
+        "cat3_schemas": [
+          "surcontrôle émotionnel/inhibition",
+          "isolement social/aliénation",
+          "manque affectif",
+          "somatisation"
+        ]
+      },
+      "historique_articles": [
+        {
+          "date": "",
+          "sujet": "nostalgie",
+          "contexte": "face au vieillissement",
+          "category": "cat2_emotions",
+          "titre": "Nostalgie face au vieillissement : comment la reconnaître chez les perfectionnistes",
+          "slug": "nostalgie-face-au-vieillissement-perfectionniste"
+        },
+        {
+          "date": "",
+          "sujet": "isolement social/aliénation",
+          "contexte": "en société et dans les interactions sociales",
+          "category": "cat3_schemas",
+          "titre": "Isolement social/aliénation en société : comprendre et agir",
+          "slug": "isolement-social-alienation"
+        },
+        {
+          "date": "",
+          "sujet": "manque affectif",
+          "contexte": "dans l'intimité et la sexualité",
+          "category": "cat3_schemas",
+          "titre": "Manque affectif dans l'intimité et la sexualité",
+          "slug": "manque-affectif-intimite-sexualite"
+        }
+      ]
+    }
+  ]
+}

@@ -7,17 +7,17 @@ tags: ["effet Zeigarnik", "management", "perfectionnisme", "gestion du stress", 
 slug: "effet-zeigarnik-manager-perfectionniste"
 readingTime: 4
 wordCount: 1031
-personnage: "Mamadou"
+personnage: "Nadia"
 sujet: "effet Zeigarnik"
 contexte: "en tant que manager"
 draft: false
 ---
 
-Mamadou est assis dans son bureau. Son regard se balade nerveusement entre l’écran de son ordinateur et la pile de dossiers sur la table. Il a commencé une présentation importante pour son équipe, mais une réunion impromptue l’a interrompu au milieu de la préparation. Il sent une tension sourde dans sa poitrine, une sorte de poids qui ne le quitte pas. Il jette un coup d’œil à son téléphone : depuis ce matin, trois notifications de mails non lus clignotent, mais il n’arrive pas à s’y plonger.
+Nadia est assis dans son bureau. Son regard se balade nerveusement entre l’écran de son ordinateur et la pile de dossiers sur la table. Il a commencé une présentation importante pour son équipe, mais une réunion impromptue l’a interrompu au milieu de la préparation. Il sent une tension sourde dans sa poitrine, une sorte de poids qui ne le quitte pas. Il jette un coup d’œil à son téléphone : depuis ce matin, trois notifications de mails non lus clignotent, mais il n’arrive pas à s’y plonger.
 
 Dans sa tête, les tâches s’amoncellent : finir la présentation, répondre aux mails, préparer le planning de la semaine, sans oublier les retours à faire à ses collaborateurs. Pourtant, il a décidé de ranger son bureau et de faire une pause café. Mais même en dehors de son bureau, il ne peut s’empêcher de divaguer sur ce qu’il n’a pas terminé. Le visage crispé, il sait qu’il doit faire plus, mieux, tout de suite.
 
-Mamadou vit ce moment comme une petite guerre intérieure : impossible de se détacher de ces activités inachevées qui l’appellent sans cesse. Il ne comprend pas pourquoi il a tant de mal à se concentrer alors qu’il a simplement été interrompu. Il se sent coupable de ne pas avancer aussi vite qu’il le voudrait.  
+Nadia vit ce moment comme une petite guerre intérieure : impossible de se détacher de ces activités inachevées qui l’appellent sans cesse. Il ne comprend pas pourquoi il a tant de mal à se concentrer alors qu’il a simplement été interrompu. Il se sent coupable de ne pas avancer aussi vite qu’il le voudrait.  
 
 ### Qu’est-ce que l’effet Zeigarnik ?  
 
@@ -27,7 +27,7 @@ Ce phénomène a été découvert par la psychologue russe Bluma Zeigarnik dans 
 
 ### Comment l’effet Zeigarnik se manifeste-t-il en tant que manager ?  
 
-Dans le rôle de manager, l’effet Zeigarnik peut se manifester de façon particulièrement frustrante, surtout pour les personnes perfectionnistes comme Mamadou. Voici plusieurs situations courantes :  
+Dans le rôle de manager, l’effet Zeigarnik peut se manifester de façon particulièrement frustrante, surtout pour les personnes perfectionnistes comme Nadia. Voici plusieurs situations courantes :  
 
 - **Interruption dans la gestion d’un projet** : Vous commencez à préparer un rapport ou une présentation pour votre équipe et vous êtes interrompu par un appel ou une réunion urgente. Vous avez du mal à vous concentrer après, car la tâche inachevée occupe votre esprit.  
 
@@ -50,20 +50,20 @@ Voici des méthodes simples et efficaces pour apaiser ce stress mental et mieux 
 3. **S’accorder des pauses mentales conscientes**  
    Lorsque vous êtes interrompu ou que vous ne pouvez pas finir une tâche, pratiquez la pleine conscience pour revenir au moment présent sans culpabilité. Par exemple, fermez les yeux, observez votre respiration, et acceptez que la tâche attendra. Ces pauses vous aident à ne pas ruminer et à réduire l’angoisse liée à l’inachèvement.  
 
-### Retour à Mamadou : le début d’un changement  
+### Retour à Nadia : le début d’un changement  
 
-Après avoir découvert ces techniques, Mamadou décide de les mettre en pratique. Il écrit toutes ses tâches sur un carnet, ce qui lui permet de visualiser clairement ce qu’il doit faire. Ses dossiers ne lui semblent plus insurmontables.  
+Après avoir découvert ces techniques, Nadia décide de les mettre en pratique. Il écrit toutes ses tâches sur un carnet, ce qui lui permet de visualiser clairement ce qu’il doit faire. Ses dossiers ne lui semblent plus insurmontables.  
 
 Il utilise aussi la technique Pomodoro. Plutôt que d’essayer de finir toute sa présentation d’un coup, il travaille par petits intervalles. Il ressent une vraie satisfaction à chaque session terminée, et son anxiété s’apaise peu à peu.  
 
-Lorsqu’il est interrompu, Mamadou pratique une pause consciente : il ferme les yeux quelques secondes, respire profondément, et accepte que la présentation ne soit pas finie maintenant. Il sent cette petite voix intérieure qui lui demandait de finir tout de suite s’éloigner.  
+Lorsqu’il est interrompu, Nadia pratique une pause consciente : il ferme les yeux quelques secondes, respire profondément, et accepte que la présentation ne soit pas finie maintenant. Il sent cette petite voix intérieure qui lui demandait de finir tout de suite s’éloigner.  
 
-Petit à petit, Mamadou réussit à apprivoiser l’effet Zeigarnik en tant que manager perfectionniste. Il comprend que ses pensées obsédantes ne sont pas une faiblesse, mais un mécanisme naturel. En reprenant le contrôle, il gagne en sérénité et devient plus efficace.  
+Petit à petit, Nadia réussit à apprivoiser l’effet Zeigarnik en tant que manager perfectionniste. Il comprend que ses pensées obsédantes ne sont pas une faiblesse, mais un mécanisme naturel. En reprenant le contrôle, il gagne en sérénité et devient plus efficace.  
 
 ### Conclusion : un pas vers la maîtrise de soi  
 
 L’effet Zeigarnik en tant que manager peut sembler un piège invisible, surtout si vous êtes perfectionniste. Mais comprendre ce mécanisme, c’est la première étape pour ne plus le subir. En notant vos tâches, en organisant votre temps et en pratiquant des pauses mentales, vous pouvez apaiser votre esprit et reprendre le contrôle de vos pensées.  
 
-Si vous vous reconnaissez dans l’histoire de Mamadou, rappelez-vous que ce chemin est une construction progressive. Ne jugez pas vos pensées ni vos émotions, observez-les avec bienveillance. Et surtout, n’hésitez pas à consulter un professionnel si cette sensation d’obsession mentale devient trop envahissante.  
+Si vous vous reconnaissez dans l’histoire de Nadia, rappelez-vous que ce chemin est une construction progressive. Ne jugez pas vos pensées ni vos émotions, observez-les avec bienveillance. Et surtout, n’hésitez pas à consulter un professionnel si cette sensation d’obsession mentale devient trop envahissante.  
 
 Reprendre le contrôle de ses pensées, c’est possible pour vous aussi. Chaque petit pas compte. Quel sera le vôtre aujourd’hui ?
