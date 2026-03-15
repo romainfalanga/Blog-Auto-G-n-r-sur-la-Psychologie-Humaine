@@ -1521,6 +1521,75 @@
         "burn-out",
         "identité"
       ]
+    },
+    {
+      "date": "2026-03-15",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet spotlight",
+      "contexte": "lors d'un entretien d'embauche",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Lucas",
+      "age": "24 ans",
+      "title": "Effet spotlight lors d'un entretien d'embauche : s'en libérer",
+      "slug": "effet-spotlight-entretien-embauche",
+      "tags": [
+        "effet spotlight",
+        "entretien d'embauche",
+        "confiance en soi",
+        "biais cognitifs",
+        "psychologie"
+      ],
+      "resume_narratif": "Lucas attend un entretien d'embauche stratégique dans une tour à La Défense, paralysé par l'idée qu'une micro-tache sur sa cravate soit le centre de l'attention. Malgré sa préparation avec son ami Maxime, il se sent observé par les autres candidats et craint d'être jugé sur ce détail insignifiant.",
+      "evolution": "Lucas identifie son anxiété comme étant l'effet spotlight, comprenant que sa perception de ses propres défauts est largement surestimée par rapport à la réalité du recruteur. Il commence à utiliser des techniques de respiration consciente pour gérer cette distorsion cognitive.",
+      "elements_cles": "Tour à La Défense ; Maxime (ami/partenaire de répétition) ; micro-tache sur la cravate ; antécédents avec l'effet Dunning-Kruger et le biais de conformité ; technique de respiration consciente."
+    },
+    {
+      "date": "2026-03-15",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "alexithymie",
+      "contexte": "en couple",
+      "angle": "comprendre ce que c'est (article explicatif)",
+      "profil": null,
+      "prenom": "Youssef",
+      "age": "29 ans",
+      "title": "Alexithymie en couple : comprendre et agir au quotidien",
+      "slug": "alexithymie-en-couple",
+      "tags": [
+        "alexithymie",
+        "émotions",
+        "couple",
+        "communication",
+        "psychologie"
+      ],
+      "resume_narratif": "Le 15 mars 2026 à Paris, Youssef fait face à l'incompréhension de sa compagne Léa lorsqu'il échoue à exprimer ses émotions concernant la mutation de leur ami Nicolas. Malgré son attachement, il répond par une analyse purement logique, créant une distance émotionnelle dans son couple.",
+      "evolution": "Youssef identifie son alexithymie partielle, comprenant que sa tendance à intellectualiser ses ressentis est un héritage culturel et familial transmis par son père Hamid.",
+      "elements_cles": "Lieu : appartement à Paris ; Personnages : Léa (compagne), Nicolas (ami), Hamid (père) ; Antécédents : biais de projection (7 mars) et de disponibilité (8 mars) ; Concept : alexithymie (difficulté à nommer les émotions)."
+    },
+    {
+      "date": "2026-03-15",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "surcontrôle émotionnel/inhibition",
+      "contexte": "en famille",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Patrick",
+      "age": "56 ans",
+      "title": "Surcontrôle émotionnel/inhibition en famille : comment s'en libérer",
+      "slug": "surcontrole-emotionnel-famille",
+      "tags": [
+        "surcontrôle émotionnel",
+        "inhibition",
+        "famille",
+        "schémas répétitifs",
+        "régulation émotionnelle"
+      ],
+      "resume_narratif": "Le dimanche 15 mars 2026, lors d'un repas chez Catherine, Patrick se retrouve incapable de manifester son empathie envers sa fille Stéphanie qui traverse une période difficile. Malgré un fort élan intérieur, il réagit par une banalité sur la météo pour masquer son émotion.",
+      "evolution": "Patrick prend conscience que son surcontrôle émotionnel, hérité de l'éducation rigide de son père, agit désormais comme une prison qui l'empêche de se lier intimement avec ses enfants adultes.",
+      "elements_cles": "Catherine (hôte), Stéphanie (fille), Marcel (père, source de l'inhibition), passé de chef d'équipe dans le BTP, concept du 'biais de l'angle mort face à la solitude' lu précédemment."
     }
   ]
 }

@@ -344,6 +344,14 @@
           "category": "cat1_pensees",
           "titre": "Comprendre l’effet Dunning-Kruger à l’école ou aux études",
           "slug": "effet-dunning-kruger-ecole-etudes"
+        },
+        {
+          "date": "2026-03-15",
+          "sujet": "effet spotlight",
+          "contexte": "lors d'un entretien d'embauche",
+          "category": "cat1_pensees",
+          "titre": "Effet spotlight lors d'un entretien d'embauche : s'en libérer",
+          "slug": "effet-spotlight-entretien-embauche"
         }
       ],
       "genre": "M"
@@ -689,6 +697,14 @@
           "category": "cat1_pensees",
           "titre": "Comprendre le biais de projection en colocation : erreurs fréquentes",
           "slug": "biais-projection-en-colocation-erreurs"
+        },
+        {
+          "date": "2026-03-15",
+          "sujet": "alexithymie",
+          "contexte": "en couple",
+          "category": "cat2_emotions",
+          "titre": "Alexithymie en couple : comprendre et agir au quotidien",
+          "slug": "alexithymie-en-couple"
         }
       ],
       "genre": "M"
@@ -836,6 +852,14 @@
           "category": "cat1_pensees",
           "titre": "Comprendre le biais de l'angle mort face à la solitude",
           "slug": "biais-angle-mort-solitude"
+        },
+        {
+          "date": "2026-03-15",
+          "sujet": "surcontrôle émotionnel/inhibition",
+          "contexte": "en famille",
+          "category": "cat3_schemas",
+          "titre": "Surcontrôle émotionnel/inhibition en famille : comment s'en libérer",
+          "slug": "surcontrole-emotionnel-famille"
         }
       ],
       "genre": "M"
