@@ -84,7 +84,7 @@ Un mardi soir, elle fait quelque chose d'inédit. Elle ouvre le groupe de discus
 
 Margot sent quelque chose se fissurer en elle. Pas une rupture, mais une ouverture. Elle comprend que la force qu'elle s'imposait n'était pas de la solidité, mais de la rigidité. Et que cette rigidité l'empêchait d'apprendre, de se connecter aux autres, et finalement d'avancer dans sa reconversion.
 
-Elle rend son mémoire le vendredi. Pas parfait. Pas irréprochable. Mais honnête, personnel, et terminé. C'est la première fois en trente ans qu'elle autorise quelque chose d'imparfait à sortir de ses mains. Et contre toute attente, elle se sent plus léger qu'elle ne l'a été depuis des mois.
+Elle rend son mémoire le vendredi. Pas parfait. Pas irréprochable. Mais honnête, personnel, et terminé. C'est la première fois en trente ans qu'elle autorise quelque chose d'imparfait à sortir de ses mains. Et contre toute attente, elle se sent plus légère qu'elle ne l'a été depuis des mois.
 
 ---
 

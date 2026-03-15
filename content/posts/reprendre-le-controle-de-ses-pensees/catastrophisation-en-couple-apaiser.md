@@ -118,7 +118,7 @@ Ces progrès demandent de la régularité. Camille remarque qu'elle lui arrive e
 
 ---
 
-La catastrophisation dans le couple est un mécanisme éprouvant, mais elle est possible de s'en libérer. En comprenant comment ces pensées fonctionnent, en apaisant son corps et en apprenant à parler de ses fragilités, on retrouve de la sérénité et de la présence dans la relation.
+La catastrophisation dans le couple est un mécanisme éprouvant, mais il est possible de s'en libérer. En comprenant comment ces pensées fonctionnent, en apaisant son corps et en apprenant à parler de ses fragilités, on retrouve de la sérénité et de la présence dans la relation.
 
 Si vous vous reconnaissez dans le parcours de Camille, vous pouvez commencer par un geste simple : notez une pensée qui vous inquiète aujourd'hui et passez-la au filtre de la réalité. Chaque petit pas aide à construire de nouvelles habitudes plus douces.
 

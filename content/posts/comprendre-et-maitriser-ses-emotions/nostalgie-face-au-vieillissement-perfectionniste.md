@@ -21,7 +21,7 @@ Il se relève, va vers la fenêtre, regarde dehors. Le temps a filé, il en est 
 
 ### Qu’est-ce que la nostalgie ?  
 
-La nostalgie est un sentiment mêlé de mélancolie et de douceur, une émotion qui nous pousse à repenser avec affection et parfois tristesse à notre passé. Psychologiquement, la nostalgie est définie comme « un état émotionnel complexe où les souvenirs du passé procurent à la fois un réconfort et une douleur » (Wildschut et al., 2006). Il peut surgir spontanément, sans que l’on s’en rende compte, souvent déclenché par une image, une odeur, une chanson ou une pensée liée à des moments marquants de notre vie.  
+La nostalgie est un sentiment mêlé de mélancolie et de douceur, une émotion qui nous pousse à repenser avec affection et parfois tristesse à notre passé. Psychologiquement, la nostalgie est définie comme « un état émotionnel complexe où les souvenirs du passé procurent à la fois un réconfort et une douleur » (Wildschut et al., 2006). Elle peut surgir spontanément, sans que l’on s’en rende compte, souvent déclenché par une image, une odeur, une chanson ou une pensée liée à des moments marquants de notre vie.  
 
 ### La nostalgie face au vieillissement : comment ça se manifeste ?  
 
@@ -53,7 +53,7 @@ Il s’offre aussi des pauses méditatives, où il observe ses émotions sans le
 
 ### Conclusion : la nostalgie face au vieillissement comme une opportunité  
 
-La nostalgie face au vieillissement n’est pas une ennemie à fuir ni un signe d’échec. Il est un pont entre ce que nous étions et ce que nous devenons, un espace où le passé nourrit le présent et éclaire le futur. Pour un perfectionniste, apprendre à reconnaître cette émotion et à l’accueillir sans jugement est une clé pour vivre plus sereinement le passage du temps.  
+La nostalgie face au vieillissement n’est pas une ennemie à fuir ni un signe d’échec. C'est un pont entre ce que nous étions et ce que nous devenons, un espace où le passé nourrit le présent et éclaire le futur. Pour un perfectionniste, apprendre à reconnaître cette émotion et à l’accueillir sans jugement est une clé pour vivre plus sereinement le passage du temps.  
 
 Si vous ressentez souvent cette nostalgie diffuse, prenez le temps de la nommer, de l’explorer avec douceur. Ce chemin peut vous mener à une meilleure compréhension de vous-même et à une ouverture vers un avenir apaisé. Et rappelez-vous, pour toute difficulté persistante, un professionnel de la psychologie peut vous accompagner avec bienveillance et expertise.  
 

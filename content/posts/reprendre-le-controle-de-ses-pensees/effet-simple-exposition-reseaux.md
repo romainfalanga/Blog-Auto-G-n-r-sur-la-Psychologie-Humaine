@@ -59,7 +59,7 @@ La première étape consiste à réduire physiquement la fréquence des expositi
 
 ### 2. Pratiquer le remplacement sensoriel
 
-Puisque la répétition renforce l'attachement, elle est possible d'introduire de nouvelles expositions positives pour concurrencer l'ancienne familiarité. L'idée est de remplacer le stimulus problématique par des éléments choisis avec soin. 
+Puisque la répétition renforce l'attachement, il est possible d'introduire de nouvelles expositions positives pour concurrencer l'ancienne familiarité. L'idée est de remplacer le stimulus problématique par des éléments choisis avec soin. 
 
 **L'exercice concret :** Créez une liste de lecture de dix chansons qui vous apaisent ou vous dynamisent. Associez-les à un rituel, comme une marche de 15 minutes ou la préparation d'un thé. Chaque fois que vous ressentez l'envie de vérifier un profil ou que vous tombez sur une image douloureuse, arrêtez-vous, respirez quatre secondes, et lancez votre musique. Pratiquez cela pendant 21 jours pour ancrer cette nouvelle habitude.
 

@@ -40,7 +40,7 @@ Ces comportements isolent, renforcent le doute de soi, et peuvent entraîner un 
 
 ## 3 techniques pour surmonter le syndrome de l’imposteur en société  
 
-Bonne nouvelle : elle est possible de diminuer l’impact de ce syndrome grâce à des exercices simples et concrets. Voici trois techniques que Sophie a commencé à appliquer, et que vous pouvez tester vous-même.  
+Bonne nouvelle : il est possible de diminuer l’impact de ce syndrome grâce à des exercices simples et concrets. Voici trois techniques que Sophie a commencé à appliquer, et que vous pouvez tester vous-même.  
 
 ### 1. Tenir un journal des réussites sociales  
 

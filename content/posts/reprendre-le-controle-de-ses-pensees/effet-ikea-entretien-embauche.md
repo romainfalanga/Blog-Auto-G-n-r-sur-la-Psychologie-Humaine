@@ -49,7 +49,7 @@ Le piège consiste à confondre l'attachement affectif et la pertinence professi
 
 ### 3. Une sélection d'exemples biaisée
 
-Sous l'influence de l'effet IKEA, Mei choisit les parties de son travail dont elle est le plus fier pour défendre son profil, en laissant de côté les projets moins aboutis. Elle met en avant ses succès, non par arrogance, mais parce qu'elle est naturellement attirée par ce qu'elle a bâti de ses mains. Cela crée une vision partielle de ses compétences.
+Sous l'influence de l'effet IKEA, Mei choisit les parties de son travail dont elle est la plus fière pour défendre son profil, en laissant de côté les projets moins aboutis. Elle met en avant ses succès, non par arrogance, mais parce qu'elle est naturellement attirée par ce qu'elle a bâti de ses mains. Cela crée une vision partielle de ses compétences.
 
 Cela se traduit par :
 - L'oubli des erreurs passées qui témoignent pourtant d'une capacité d'apprentissage.
@@ -65,7 +65,7 @@ L'idée est de se placer volontairement dans la peau d'une personne neutre pour 
 
 En pratique :
 - Avant l'entretien, rédigez une fiche de synthèse d'une page. Décrivez votre projet sans utiliser le "je", en vous appuyant uniquement sur des faits et des chiffres.
-- Posez-vous ces questions : Quel problème ce travail résout-elle concrètement ? Quelles sont les preuves de son efficacité ? Quelles en sont les limites ?
+- Posez-vous ces questions : Quel problème ce travail résout-il concrètement ? Quelles sont les preuves de son efficacité ? Quelles en sont les limites ?
 - Entraînez-vous à présenter ces points à voix haute, de manière détachée.
 
 En formulant les impacts et les limites avec recul, vous paraissez plus crédible et plus humble.
@@ -100,8 +100,8 @@ Peu à peu, les entretiens ne sont plus des séances de défense de ses créatio
 
 ---
 
-Le parcours de Mei montre qu'elle est possible de repérer l'effet IKEA sans se blâmer. Ce biais est une réaction humaine naturelle : nous sommes attachés à ce que nous créons. La clé réside dans la capacité à transmettre aux autres les informations dont ils ont réellement besoin pour juger de la pertinence de notre profil.
+Le parcours de Mei montre qu'il est possible de repérer l'effet IKEA sans se blâmer. Ce biais est une réaction humaine naturelle : nous sommes attachés à ce que nous créons. La clé réside dans la capacité à transmettre aux autres les informations dont ils ont réellement besoin pour juger de la pertinence de notre profil.
 
 Si vous vous reconnaissez dans cette situation, commencez par un exercice simple : lors de votre prochaine préparation, rédigez votre fiche d'observateur et listez vos trois preuves d'impact. Avec un peu de pratique, votre discours gagnera en clarté. Se libérer de l'emprise de l'effet IKEA est un apprentissage qui se fait pas à pas.
 
-Si ce biais vous semble trop pesant ou s'elle génère une anxiété importante lors de vos recherches d'emploi, n'hésitez pas à solliciter l'aide d'un psychologue ou d'un coach spécialisé. Un accompagnement sur mesure peut vous aider à explorer les racines de cet attachement et à construire des stratégies solides pour l'avenir.
+Si ce biais vous semble trop pesant ou si elle génère une anxiété importante lors de vos recherches d'emploi, n'hésitez pas à solliciter l'aide d'un psychologue ou d'un coach spécialisé. Un accompagnement sur mesure peut vous aider à explorer les racines de cet attachement et à construire des stratégies solides pour l'avenir.

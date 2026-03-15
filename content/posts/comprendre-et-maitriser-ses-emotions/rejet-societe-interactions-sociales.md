@@ -64,7 +64,7 @@ Elle a aussi compris que les blessures du passée pouvaient être apaisées par 
 
 ### Un message d’espoir pour vous qui lisez  
 
-Le sentiment de rejet en société et dans les interactions sociales peut être une source de souffrance réelle, surtout pour les personnes timides. Cependant, elle est possible d’apprivoiser cette peur, de mieux la comprendre et de changer son regard sur soi et les autres. Chaque pas, même petit, vers plus de confiance est une victoire.  
+Le sentiment de rejet en société et dans les interactions sociales peut être une source de souffrance réelle, surtout pour les personnes timides. Cependant, il est possible d’apprivoiser cette peur, de mieux la comprendre et de changer son regard sur soi et les autres. Chaque pas, même petit, vers plus de confiance est une victoire.  
 
 Si vous vous reconnaissez dans l’histoire de Léa, rappelez-vous que vous n’êtes pas seule. La psychologie offre des outils et des clés pour avancer. N’hésitez pas à vous entourer de professionnels si cette peur vous paralyse au quotidien, car personne ne mérite de souffrir en silence.  
 
