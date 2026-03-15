@@ -27,7 +27,7 @@ En matière d’argent et de finances, cette comparaison devient souvent toxique
 
 ## Comment la comparaison injuste se manifeste-t-elle dans le domaine financier ?
 
-Prenons quelques exemples. Sophie, 27 ans, voit ses collègues dépenser sans compter dans des restaurants chics ou partir en vacances luxueuses. Elle se sent frustrée de ne pas pouvoir faire pareil, oubliant que certains financent ces plaisirs avec des crédits ou des aides familiales.
+Prenons quelques exemples. Sophie, 28 ans, voit ses collègues dépenser sans compter dans des restaurants chics ou partir en vacances luxueuses. Elle se sent frustrée de ne pas pouvoir faire pareil, oubliant que certains financent ces plaisirs avec des crédits ou des aides familiales.
 
 Jean, 30 ans, compare son épargne à celle de son voisin qui a reçu un héritage important. Il se sent moins intelligent ou moins méritant, sans considérer que leurs points de départ sont très différents.
 

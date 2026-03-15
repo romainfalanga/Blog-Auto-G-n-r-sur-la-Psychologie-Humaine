@@ -34,7 +34,7 @@ Dans un contexte social, le syndrome de l’imposteur peut se traduire par :
 - L’auto-censure pour éviter de « déranger » ou de briller, au risque de passer à côté d’opportunités de connexion authentique.  
 - Un perfectionnisme exacerbé, qui pousse à anticiper l’échec pour éviter d’être « démasqué ».  
 
-Prenons l’exemple de Julie, 30 ans, qui refuse systématiquement les invitations à des soirées de networking parce qu’elle se sent « trop nulle » face aux autres. Ou Karim, 28 ans, qui lors de réunions professionnelles se tait, bien qu’ayant des idées pertinentes, par peur que ses collègues pensent qu’elle ne maîtrise pas assez sa tâche.  
+Prenons l’exemple de Julie, 30 ans, qui refuse systématiquement les invitations à des soirées de networking parce qu’elle se sent « trop nulle » face aux autres. Ou Antoine, 28 ans, qui lors de réunions professionnelles se tait, bien qu’ayant des idées pertinentes, par peur que ses collègues pensent qu’il ne maîtrise pas assez sa tâche.  
 
 Ces comportements isolent, renforcent le doute de soi, et peuvent entraîner un cercle vicieux difficile à briser.  
 
