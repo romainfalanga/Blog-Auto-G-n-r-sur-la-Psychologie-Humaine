@@ -182,6 +182,18 @@ def build_matrix_summary(matrix):
     return "\n".join(lines)
 
 
+def _to_str(value):
+    """Convertit une valeur en string de manière sûre.
+    Gère le cas où Gemini retourne un dict/list au lieu d'une string."""
+    if isinstance(value, str):
+        return value
+    if isinstance(value, dict):
+        return json.dumps(value, ensure_ascii=False)
+    if isinstance(value, list):
+        return ", ".join(str(v) for v in value)
+    return str(value) if value else ""
+
+
 def analyze_character_depth(perso, perso_articles):
     """Analyse en profondeur l'état psychologique d'un personnage.
 
@@ -229,7 +241,7 @@ def analyze_character_depth(perso, perso_articles):
 
     # 2. Techniques apprises (extraites des éléments clés)
     for a in perso_articles:
-        elements = a.get("elements_cles", "")
+        elements = _to_str(a.get("elements_cles", ""))
         if elements and "technique" in elements.lower():
             analysis["techniques_learned"].append({
                 "date": a.get("date", ""),
@@ -239,7 +251,7 @@ def analyze_character_depth(perso, perso_articles):
 
     # 3. Trajectoire émotionnelle
     for a in perso_articles:
-        evolution = a.get("evolution", "")
+        evolution = _to_str(a.get("evolution", ""))
         if evolution:
             analysis["emotional_trajectory"].append({
                 "date": a.get("date", ""),
@@ -248,7 +260,7 @@ def analyze_character_depth(perso, perso_articles):
             })
 
     # 4. Détection de contradictions potentielles
-    evolutions_text = [a.get("evolution", "").lower() for a in perso_articles if a.get("evolution")]
+    evolutions_text = [_to_str(a.get("evolution", "")).lower() for a in perso_articles if a.get("evolution")]
     # Chercher des patterns contradictoires (a appris X puis échoue sur X)
     learned_concepts = set()
     for evo in evolutions_text:
@@ -271,10 +283,10 @@ def analyze_character_depth(perso, perso_articles):
     # 6. Évolution des relations
     relations = perso.get("relations", {})
     for a in perso_articles:
-        elements = a.get("elements_cles", "")
-        resume = a.get("resume_narratif", "")
+        elements = _to_str(a.get("elements_cles", ""))
+        resume = _to_str(a.get("resume_narratif", ""))
         for role, nom in relations.items():
-            if nom.lower() in (elements + resume).lower():
+            if nom.lower() in (elements + " " + resume).lower():
                 analysis["relationship_evolution"].append({
                     "date": a.get("date", ""),
                     "relation": f"{role}: {nom}",
@@ -365,8 +377,8 @@ def format_character_analysis_for_prompt(perso, analysis, perso_articles):
         for i, a in enumerate(perso_articles, 1):
             date = a.get("date", "?")
             cat = a.get("category_key", "?")
-            resume = a.get("resume_narratif", "")
-            evolution = a.get("evolution", "")
+            resume = _to_str(a.get("resume_narratif", ""))
+            evolution = _to_str(a.get("evolution", ""))
             line = f"    {i}. [{date}] ({cat}) \"{a['sujet']}\" en contexte \"{a['contexte']}\""
             if a.get("title"):
                 line += f" — \"{a['title']}\""
@@ -693,9 +705,9 @@ def build_personnage_context(perso, matrix=None):
                 date = a.get("date", "")
                 context += f"\n  Chapitre {i} ({date}) : \"{a.get('title', a.get('sujet', ''))}\" — {pronom_maj} explorait \"{a['sujet']}\" dans le contexte \"{a['contexte']}\"."
                 if a.get("resume_narratif"):
-                    context += f"\n    → {a['resume_narratif']}"
+                    context += f"\n    → {_to_str(a['resume_narratif'])}"
                 if a.get("evolution"):
-                    context += f"\n    → Évolution : {a['evolution']}"
+                    context += f"\n    → Évolution : {_to_str(a['evolution'])}"
 
             context += f"\n\nCONTINUITÉ OBLIGATOIRE :"
             context += f"\n- Fais référence à AU MOINS UN événement passé de {perso['prenom']} (mentionné ci-dessus)"
@@ -1837,9 +1849,9 @@ def validate_coherence(content, combo, matrix, personnages):
     for a in perso_articles[-6:]:  # 6 derniers articles max
         entry = f"- \"{a.get('sujet', '')}\" ({a.get('contexte', '')})"
         if a.get("resume_narratif"):
-            entry += f" : {a['resume_narratif']}"
+            entry += f" : {_to_str(a['resume_narratif'])}"
         if a.get("evolution"):
-            entry += f" | Évolution : {a['evolution']}"
+            entry += f" | Évolution : {_to_str(a['evolution'])}"
         past_summary.append(entry)
 
     system_prompt = (
