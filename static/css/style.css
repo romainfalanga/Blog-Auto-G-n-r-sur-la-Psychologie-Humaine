@@ -518,7 +518,6 @@ hr {
 .single-article {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 0 var(--spacing-md);
 }
 
 .article-meta {
@@ -806,7 +805,7 @@ hr {
    ======================================== */
 main {
   min-height: 60vh;
-  padding: var(--spacing-lg) 0;
+  padding: var(--spacing-lg) var(--spacing-md);
 }
 
 /* ========================================
@@ -892,7 +891,6 @@ main {
 .personnages-page {
   max-width: var(--max-width-wide);
   margin: 0 auto;
-  padding: 0 var(--spacing-md);
 }
 
 .personnages-header {
