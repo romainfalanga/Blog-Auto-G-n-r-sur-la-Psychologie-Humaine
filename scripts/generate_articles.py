@@ -1948,12 +1948,30 @@ def _cat_label(cat_key):
     }.get(cat_key, cat_key)
 
 
-def generate_character_tracking_page(personnages, matrix):
-    """Génère une page Hugo riche qui affiche l'état de chaque personnage.
+def _perso_bio(perso, nb_articles):
+    """Génère une courte bio pour la carte du personnage."""
+    prenom = perso["prenom"]
+    genre = perso.get("genre", "M")
+    profession = perso["profession"]
+    situation = perso["situation_familiale"]
+    traits = perso["traits_personnalite"]
+    il_elle = "Elle" if genre == "F" else "Il"
 
-    Cette page est automatiquement mise à jour à chaque exécution du workflow.
-    Elle montre pour chaque personnage : profil, barre de profondeur,
-    timeline des articles avec résumé et lien, et directions futures.
+    traits_str = ", ".join(traits[:3])
+    art_label = f"{nb_articles} article{'s' if nb_articles > 1 else ''}"
+
+    return (
+        f"{prenom} est {profession}, {situation}. "
+        f"{il_elle} se distingue par un tempérament {traits_str}. "
+        f"Découvrez son parcours à travers {art_label}."
+    )
+
+
+def generate_character_tracking_page(personnages, matrix):
+    """Génère une page Hugo avec grille de cartes et détail dépliable par personnage.
+
+    Niveau 1 : Grille de 20 cartes (avatar, nom, bio, bouton)
+    Niveau 2 : Détail dépliable avec timeline des articles + résumé narratif
     """
     articles = matrix.get("articles", [])
 
@@ -1967,20 +1985,18 @@ def generate_character_tracking_page(personnages, matrix):
     for prenom in perso_articles:
         perso_articles[prenom].sort(key=lambda x: x.get("date", ""))
 
-    # Analyser chaque personnage
+    # Préparer les données de chaque personnage
     perso_data = []
     for perso in personnages:
         prenom = perso["prenom"]
         arts = perso_articles.get(prenom, [])
-        analysis = analyze_character_depth(perso, arts)
-        perso_data.append((perso, analysis, arts))
+        perso_data.append((perso, arts))
 
-    # Trier par score de profondeur décroissant
-    perso_data.sort(key=lambda x: x[1]["depth_score"], reverse=True)
+    # Trier par nombre d'articles décroissant
+    perso_data.sort(key=lambda x: len(x[1]), reverse=True)
 
     # Générer la page
     date_str = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
-    date_display = datetime.now().strftime("%d/%m/%Y")
 
     lines = []
     lines.append("---")
@@ -1992,86 +2008,83 @@ def generate_character_tracking_page(personnages, matrix):
     lines.append("draft: false")
     lines.append("---\n")
 
-    # Stats globales
-    total_articles = len(articles)
-    avg_depth = sum(a[1]["depth_score"] for a in perso_data) / len(perso_data) if perso_data else 0
-    lines.append(f'<p class="personnages-stats">Dernière mise à jour : {date_display} &middot; {total_articles} articles publiés &middot; Profondeur moyenne : {avg_depth:.0f}/100</p>\n')
+    # ── GRILLE DE CARTES ──
+    lines.append('<div class="perso-grid">')
 
-    for perso, analysis, arts in perso_data:
+    for perso, arts in perso_data:
         prenom = perso["prenom"]
         genre = perso.get("genre", "M")
-        score = analysis["depth_score"]
         initiale = prenom[0].upper()
+        nb = len(arts)
+        bio = _perso_bio(perso, nb)
+        perso_id = prenom.lower().replace(" ", "-")
 
-        lines.append('<div class="perso-card">')
+        lines.append(f'  <div class="perso-card" id="card-{perso_id}">')
 
-        # Header : avatar + identité
-        lines.append('  <div class="perso-header">')
-        lines.append(f'    <div class="perso-avatar">{initiale}</div>')
-        lines.append('    <div class="perso-identity">')
-        lines.append(f'      <h2>{prenom}, {perso["age"]} ans</h2>')
-        lines.append(f'      <p class="perso-meta">{perso["profession"].capitalize()} &middot; {perso["situation_familiale"]}</p>')
+        # Avatar + identité
+        lines.append('    <div class="perso-card-top">')
+        lines.append(f'      <div class="perso-avatar">{initiale}</div>')
+        lines.append(f'      <h2 class="perso-name">{prenom}, {perso["age"]} ans</h2>')
+        lines.append(f'      <p class="perso-job">{perso["profession"].capitalize()}</p>')
         lines.append('    </div>')
-        lines.append('  </div>')
-
-        # Barre de profondeur
-        lines.append('  <div class="perso-depth">')
-        lines.append(f'    <div class="depth-bar"><div class="depth-fill" style="width: {score}%"></div></div>')
-        lines.append(f'    <span class="depth-label">{score}/100</span>')
-        lines.append('  </div>')
 
         # Traits
-        traits_html = " ".join(f'<span class="trait-tag">{t}</span>' for t in perso["traits_personnalite"])
-        lines.append(f'  <div class="perso-traits">{traits_html}</div>')
+        traits_html = "".join(f'<span class="trait-tag">{t}</span>' for t in perso["traits_personnalite"])
+        lines.append(f'    <div class="perso-traits">{traits_html}</div>')
 
+        # Bio courte
+        lines.append(f'    <p class="perso-bio">{bio}</p>')
+
+        # Stats
+        lines.append(f'    <div class="perso-stat">{nb} article{"s" if nb > 1 else ""} publi\u00e9{"s" if nb > 1 else ""}</div>')
+
+        # Détail dépliable
         if arts:
-            lines.append(f'  <div class="perso-timeline-title">Parcours ({len(arts)} article{"s" if len(arts) > 1 else ""})</div>')
-            lines.append('  <div class="perso-timeline">')
+            lines.append(f'    <details class="perso-details">')
+            lines.append(f'      <summary class="perso-toggle">Voir le parcours</summary>')
+            lines.append(f'      <div class="perso-parcours">')
 
             for a in arts:
                 date = a.get("date", "")
-                sujet = a.get("sujet", "")
-                title = a.get("title", sujet)
+                title = a.get("title", a.get("sujet", ""))
                 cat_key = a.get("category_key", "")
                 resume = _to_str(a.get("resume_narratif", ""))
+                evolution = _to_str(a.get("evolution", ""))
                 url = _build_article_url(a)
 
-                lines.append('    <div class="timeline-entry">')
-                lines.append(f'      <div class="timeline-date">{date}</div>')
-                lines.append('      <div class="timeline-body">')
-                lines.append(f'        <div class="timeline-category">{_cat_label(cat_key)}</div>')
+                lines.append('        <div class="parcours-entry">')
+                lines.append(f'          <div class="parcours-cat">{_cat_label(cat_key)}</div>')
 
                 if url:
-                    lines.append(f'        <div class="timeline-subject"><a href="{url}">{title}</a></div>')
+                    lines.append(f'          <h3 class="parcours-title"><a href="{url}">{title}</a></h3>')
                 else:
-                    lines.append(f'        <div class="timeline-subject">{title}</div>')
+                    lines.append(f'          <h3 class="parcours-title">{title}</h3>')
+
+                lines.append(f'          <div class="parcours-date">{date}</div>')
 
                 if resume:
-                    # Tronquer à 200 caractères si trop long
-                    resume_display = resume[:200] + "..." if len(resume) > 200 else resume
-                    lines.append(f'        <p class="timeline-resume">{resume_display}</p>')
+                    lines.append(f'          <p class="parcours-resume">{resume}</p>')
+
+                if evolution:
+                    lines.append(f'          <div class="parcours-evolution">')
+                    lines.append(f'            <span class="evolution-label">\u00c9volution</span>')
+                    lines.append(f'            <p>{evolution}</p>')
+                    lines.append(f'          </div>')
 
                 if url:
-                    lines.append(f'        <a href="{url}" class="timeline-link">Lire l\'article &rarr;</a>')
+                    lines.append(f'          <a href="{url}" class="parcours-link">Lire l\'article complet &rarr;</a>')
 
-                lines.append('      </div>')
-                lines.append('    </div>')
+                lines.append('        </div>')
 
-            lines.append('  </div>')
+            lines.append('      </div>')
+            lines.append('    </details>')
         else:
-            lines.append(f'  <p style="color: var(--color-text-light); font-style: italic;">{"Elle" if genre == "F" else "Il"} attend sa première histoire.</p>')
+            il = "Elle" if genre == "F" else "Il"
+            lines.append(f'    <p class="perso-waiting">{il} attend sa premi\u00e8re histoire...</p>')
 
-        # Directions d'approfondissement
-        if analysis["recommended_directions"]:
-            lines.append('  <div class="perso-directions">')
-            lines.append('    <div class="perso-directions-title">Prochaines explorations</div>')
-            lines.append('    <ul>')
-            for d in analysis["recommended_directions"][:3]:
-                lines.append(f'      <li>{d}</li>')
-            lines.append('    </ul>')
-            lines.append('  </div>')
+        lines.append('  </div>')
 
-        lines.append('</div>\n')
+    lines.append('</div>')
 
     # Écrire le fichier
     tracking_dir = REPO_ROOT / "content"
