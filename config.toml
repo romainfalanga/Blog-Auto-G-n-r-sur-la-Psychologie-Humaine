@@ -52,5 +52,9 @@ title = "Décode ton esprit — Comprends-toi grâce à la psychologie"
     name = "Schémas répétitifs"
     url = "/posts/sortir-de-ses-schemas-repetitifs/"
     weight = 3
+  [[menu.main]]
+    name = "Nos Personnages"
+    url = "/personnages/"
+    weight = 4
 
 enableRobotsTXT = true

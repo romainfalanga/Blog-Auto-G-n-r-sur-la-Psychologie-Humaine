@@ -887,6 +887,315 @@ main {
 }
 
 /* ========================================
+   PERSONNAGES PAGE
+   ======================================== */
+.personnages-page {
+  max-width: var(--max-width-wide);
+  margin: 0 auto;
+  padding: 0 var(--spacing-md);
+}
+
+.personnages-header {
+  text-align: center;
+  margin-bottom: var(--spacing-lg);
+}
+
+.personnages-header h1 {
+  margin-bottom: var(--spacing-xs);
+}
+
+.personnages-subtitle {
+  font-size: 1.05rem;
+  color: var(--color-text-light);
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+.personnages-stats {
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--color-text-light);
+  margin-bottom: var(--spacing-lg);
+}
+
+/* Character card */
+.perso-card {
+  background: var(--color-card-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--spacing-md);
+  margin-bottom: var(--spacing-md);
+  position: relative;
+  overflow: hidden;
+}
+
+.perso-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: var(--gradient-accent);
+  opacity: 0.35;
+}
+
+/* Character header */
+.perso-header {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--spacing-md);
+  margin-bottom: var(--spacing-sm);
+}
+
+.perso-avatar {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: var(--color-accent-light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-accent);
+  font-family: var(--font-serif);
+  flex-shrink: 0;
+  border: 2px solid rgba(74, 158, 142, 0.2);
+}
+
+.perso-identity {
+  flex: 1;
+  min-width: 0;
+}
+
+.perso-identity h2 {
+  margin: 0 0 0.25rem 0;
+  font-size: 1.4rem;
+}
+
+.perso-meta {
+  font-size: 0.9rem;
+  color: var(--color-text-light);
+  margin: 0;
+}
+
+/* Depth bar */
+.perso-depth {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: var(--spacing-sm) 0;
+}
+
+.depth-bar {
+  flex: 1;
+  max-width: 200px;
+  height: 8px;
+  background: var(--color-border);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.depth-fill {
+  height: 100%;
+  background: var(--gradient-accent);
+  border-radius: 4px;
+  transition: width 0.5s ease;
+}
+
+.depth-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--color-accent);
+  white-space: nowrap;
+}
+
+/* Traits */
+.perso-traits {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: var(--spacing-sm);
+}
+
+.trait-tag {
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--color-accent);
+  background: var(--color-accent-light);
+  padding: 0.2rem 0.6rem;
+  border-radius: 12px;
+  letter-spacing: 0.02em;
+}
+
+/* Article timeline */
+.perso-timeline-title {
+  font-size: 1.1rem;
+  font-family: var(--font-serif);
+  margin: var(--spacing-sm) 0 0.75rem 0;
+  color: var(--color-text);
+}
+
+.perso-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: var(--spacing-sm);
+}
+
+.timeline-entry {
+  display: flex;
+  gap: var(--spacing-sm);
+  padding: 0.85rem 1rem;
+  background: var(--color-bg);
+  border-radius: var(--radius);
+  border: 1px solid var(--color-border);
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.timeline-entry:hover {
+  border-color: rgba(74, 158, 142, 0.3);
+  box-shadow: var(--shadow-sm);
+}
+
+.timeline-date {
+  font-size: 0.78rem;
+  color: var(--color-text-light);
+  white-space: nowrap;
+  padding-top: 0.15rem;
+  min-width: 70px;
+}
+
+.timeline-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.timeline-category {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--color-accent);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 0.15rem;
+}
+
+.timeline-subject {
+  font-family: var(--font-serif);
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 0.3rem;
+  line-height: 1.3;
+}
+
+.timeline-subject a {
+  color: var(--color-text);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.timeline-subject a:hover {
+  color: var(--color-accent);
+}
+
+.timeline-resume {
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+  line-height: 1.55;
+  margin: 0;
+}
+
+.timeline-link {
+  display: inline-block;
+  margin-top: 0.4rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--color-accent);
+}
+
+.timeline-link:hover {
+  text-decoration: underline;
+}
+
+/* Exploration directions */
+.perso-directions {
+  margin-top: var(--spacing-sm);
+  padding-top: var(--spacing-sm);
+  border-top: 1px solid var(--color-border);
+}
+
+.perso-directions-title {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--color-text-light);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5rem;
+}
+
+.perso-directions ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.perso-directions li {
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+  padding: 0.2rem 0;
+  padding-left: 1rem;
+  position: relative;
+}
+
+.perso-directions li::before {
+  content: '\2192';
+  position: absolute;
+  left: 0;
+  color: var(--color-accent);
+}
+
+@media (max-width: 768px) {
+  .perso-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .perso-depth {
+    justify-content: center;
+  }
+
+  .perso-traits {
+    justify-content: center;
+  }
+
+  .timeline-entry {
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  .timeline-date {
+    min-width: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .perso-card {
+    padding: var(--spacing-sm);
+  }
+
+  .perso-identity h2 {
+    font-size: 1.2rem;
+  }
+
+  .timeline-entry {
+    padding: 0.75rem;
+  }
+}
+
+/* ========================================
    PRINT STYLES
    ======================================== */
 @media print {
