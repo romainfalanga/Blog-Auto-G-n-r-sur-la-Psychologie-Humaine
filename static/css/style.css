@@ -162,7 +162,6 @@ hr {
   max-width: var(--max-width-wide);
   margin: 0 auto;
 }
-}
 
 /* ========================================
    HEADER & NAVIGATION
@@ -806,16 +805,16 @@ main {
   padding: var(--spacing-lg) var(--spacing-md);
 }
 
-/* ── Mobile: reduce main padding ── */
+/* ── Mobile: adjust main padding ── */
 @media (max-width: 768px) {
   main {
-    padding: var(--spacing-md) 1rem;
+    padding: var(--spacing-md) 1.25rem;
   }
 }
 
 @media (max-width: 480px) {
   main {
-    padding: var(--spacing-sm) 0.75rem;
+    padding: var(--spacing-sm) 1rem;
   }
 }
 
@@ -855,7 +854,7 @@ main {
 /* Mobile: ensure single-article has proper side margins */
 @media (max-width: 768px) {
   .hero {
-    padding-top: 0.75rem;
+    padding-top: 1.5rem;
   }
 
   .single-article h1 {
@@ -873,7 +872,7 @@ main {
 }
 
 @media (max-width: 480px) {
-  .hero { padding-top: 0.5rem; }
+  .hero { padding-top: 1.25rem; }
   .hero h1 { font-size: 1.8rem; }
   .hero .tagline { font-size: 1rem; }
   .category-header h1 { font-size: 1.8rem; }
