@@ -92,6 +92,8 @@ def add_to_matrix(matrix, combo, metadata, resume_narratif="", evolution="", ele
         "resume_narratif": resume_narratif,
         "evolution": evolution,
         "elements_cles": elements_cles,
+        "strategie_coherence": combo.get("strategie_coherence", ""),
+        "apport_psychologique": combo.get("apport_psychologique", ""),
     }
     matrix["articles"].append(entry)
 
@@ -180,12 +182,244 @@ def build_matrix_summary(matrix):
     return "\n".join(lines)
 
 
-def build_character_arcs_summary(personnages, matrix):
-    """Construit un résumé de l'arc narratif de chaque personnage pour Gemini.
+def analyze_character_depth(perso, perso_articles):
+    """Analyse en profondeur l'état psychologique d'un personnage.
 
-    Retourne un texte structuré montrant le parcours chronologique de chaque
-    personnage : ses articles précédents, ce qu'il/elle a traversé, appris,
-    et où il/elle en est dans son évolution.
+    Retourne un dictionnaire structuré contenant :
+    - themes_explored : catégories/sujets déjà couverts
+    - techniques_learned : techniques acquises
+    - emotional_trajectory : trajectoire émotionnelle
+    - contradictions : contradictions potentielles détectées
+    - unexplored_areas : zones de la psychologie du personnage pas encore creusées
+    - depth_score : score de profondeur (0-100)
+    - recommended_directions : directions recommandées pour approfondir
+    """
+    prenom = perso["prenom"]
+    traits = perso.get("traits_personnalite", [])
+    tendances = perso.get("tendances_psychologiques", [])
+    histoire = perso.get("histoire_de_fond", "")
+    affinites = perso.get("affinites_thematiques", {})
+
+    analysis = {
+        "themes_explored": {"cat1_pensees": [], "cat2_emotions": [], "cat3_schemas": []},
+        "techniques_learned": [],
+        "emotional_trajectory": [],
+        "contradictions": [],
+        "unexplored_affinities": {"cat1_pensees": [], "cat2_emotions": [], "cat3_schemas": []},
+        "depth_score": 0,
+        "relationship_evolution": [],
+        "recommended_directions": [],
+    }
+
+    if not perso_articles:
+        # Personnage vierge : tout est à explorer
+        for cat_key, sujets in affinites.items():
+            analysis["unexplored_affinities"][cat_key] = list(sujets)
+        analysis["recommended_directions"] = [
+            f"Premier article : explorer un trait central ({traits[0] if traits else 'à définir'})",
+            f"Thème de fond à introduire : {tendances[0] if tendances else 'à définir'}",
+        ]
+        return analysis
+
+    # 1. Thèmes explorés par catégorie
+    for a in perso_articles:
+        cat = a.get("category_key", "")
+        if cat in analysis["themes_explored"]:
+            analysis["themes_explored"][cat].append(a.get("sujet", ""))
+
+    # 2. Techniques apprises (extraites des éléments clés)
+    for a in perso_articles:
+        elements = a.get("elements_cles", "")
+        if elements and "technique" in elements.lower():
+            analysis["techniques_learned"].append({
+                "date": a.get("date", ""),
+                "sujet": a.get("sujet", ""),
+                "elements": elements,
+            })
+
+    # 3. Trajectoire émotionnelle
+    for a in perso_articles:
+        evolution = a.get("evolution", "")
+        if evolution:
+            analysis["emotional_trajectory"].append({
+                "date": a.get("date", ""),
+                "sujet": a.get("sujet", ""),
+                "evolution": evolution,
+            })
+
+    # 4. Détection de contradictions potentielles
+    evolutions_text = [a.get("evolution", "").lower() for a in perso_articles if a.get("evolution")]
+    # Chercher des patterns contradictoires (a appris X puis échoue sur X)
+    learned_concepts = set()
+    for evo in evolutions_text:
+        if "apprend" in evo or "comprend" in evo or "réalise" in evo or "découvre" in evo:
+            learned_concepts.add(evo)
+
+    # 5. Affinités non encore explorées
+    explored_sujets = set()
+    for cat_articles in analysis["themes_explored"].values():
+        explored_sujets.update(s.lower() for s in cat_articles)
+
+    for cat_key, sujets_affinites in affinites.items():
+        for aff in sujets_affinites:
+            if aff.lower() not in explored_sujets:
+                # Vérifier aussi les correspondances partielles
+                is_explored = any(aff.lower() in s or s in aff.lower() for s in explored_sujets)
+                if not is_explored:
+                    analysis["unexplored_affinities"][cat_key].append(aff)
+
+    # 6. Évolution des relations
+    relations = perso.get("relations", {})
+    for a in perso_articles:
+        elements = a.get("elements_cles", "")
+        resume = a.get("resume_narratif", "")
+        for role, nom in relations.items():
+            if nom.lower() in (elements + resume).lower():
+                analysis["relationship_evolution"].append({
+                    "date": a.get("date", ""),
+                    "relation": f"{role}: {nom}",
+                    "contexte": a.get("contexte", ""),
+                })
+
+    # 7. Score de profondeur (0-100)
+    nb_articles = len(perso_articles)
+    nb_categories = len([c for c in analysis["themes_explored"].values() if c])
+    nb_techniques = len(analysis["techniques_learned"])
+    nb_with_evolution = len(analysis["emotional_trajectory"])
+    nb_with_resume = sum(1 for a in perso_articles if a.get("resume_narratif"))
+    nb_relations_explored = len(set(r["relation"] for r in analysis["relationship_evolution"]))
+
+    score = 0
+    score += min(30, nb_articles * 5)  # Max 30 pts pour la quantité
+    score += nb_categories * 10  # Max 30 pts pour la diversité catégorielle
+    score += min(15, nb_with_evolution * 3)  # Max 15 pts pour la trajectoire documentée
+    score += min(10, nb_techniques * 5)  # Max 10 pts pour les techniques acquises
+    score += min(15, nb_relations_explored * 5)  # Max 15 pts pour l'exploration relationnelle
+    analysis["depth_score"] = min(100, score)
+
+    # 8. Directions recommandées
+    all_themes = []
+    for cat_articles in analysis["themes_explored"].values():
+        all_themes.extend(cat_articles)
+
+    # Catégorie la moins explorée
+    cat_counts = {cat: len(arts) for cat, arts in analysis["themes_explored"].items()}
+    least_explored_cat = min(cat_counts, key=cat_counts.get)
+    cat_names = {
+        "cat1_pensees": "pensées/biais cognitifs",
+        "cat2_emotions": "émotions",
+        "cat3_schemas": "schémas répétitifs"
+    }
+
+    if cat_counts[least_explored_cat] == 0:
+        analysis["recommended_directions"].append(
+            f"PRIORITÉ : Explorer la catégorie '{cat_names[least_explored_cat]}' (aucun article encore)"
+        )
+
+    # Affinités naturelles non explorées
+    for cat_key, unexplored in analysis["unexplored_affinities"].items():
+        if unexplored:
+            analysis["recommended_directions"].append(
+                f"Affinité naturelle inexploitée en {cat_names.get(cat_key, cat_key)} : {', '.join(unexplored[:3])}"
+            )
+
+    # Relations sous-exploitées
+    all_relations = set(perso.get("relations", {}).keys())
+    explored_relations = set(r["relation"].split(":")[0].strip() for r in analysis["relationship_evolution"])
+    unexplored_relations = all_relations - explored_relations
+    if unexplored_relations:
+        analysis["recommended_directions"].append(
+            f"Relations jamais explorées : {', '.join(unexplored_relations)}"
+        )
+
+    # Traits de personnalité sous-exploités
+    explored_trait_themes = " ".join(all_themes).lower()
+    unexplored_traits = [t for t in traits if t.lower() not in explored_trait_themes]
+    if unexplored_traits:
+        analysis["recommended_directions"].append(
+            f"Traits de personnalité pas encore mis en situation : {', '.join(unexplored_traits[:3])}"
+        )
+
+    return analysis
+
+
+def format_character_analysis_for_prompt(perso, analysis, perso_articles):
+    """Formate l'analyse de profondeur d'un personnage pour l'inclure dans le prompt Gemini."""
+    prenom = perso["prenom"]
+    genre = perso.get("genre", "M")
+    pronom = "Elle" if genre == "F" else "Il"
+
+    lines = []
+    lines.append(f"--- {prenom} ({perso['age']} ans, {perso['profession']}) [Profondeur : {analysis['depth_score']}/100] ---")
+    lines.append(f"  Situation : {perso['situation_familiale']}")
+    lines.append(f"  Traits : {', '.join(perso['traits_personnalite'])}")
+    lines.append(f"  Tendances psy : {', '.join(perso['tendances_psychologiques'])}")
+    lines.append(f"  Histoire : {perso['histoire_de_fond']}")
+
+    if perso.get("relations"):
+        rels = ", ".join(f"{r}: {n}" for r, n in perso["relations"].items())
+        lines.append(f"  Relations : {rels}")
+
+    if perso_articles:
+        lines.append(f"  PARCOURS ({len(perso_articles)} articles) :")
+        for i, a in enumerate(perso_articles, 1):
+            date = a.get("date", "?")
+            cat = a.get("category_key", "?")
+            resume = a.get("resume_narratif", "")
+            evolution = a.get("evolution", "")
+            line = f"    {i}. [{date}] ({cat}) \"{a['sujet']}\" en contexte \"{a['contexte']}\""
+            if a.get("title"):
+                line += f" — \"{a['title']}\""
+            lines.append(line)
+            if resume:
+                lines.append(f"       Résumé : {resume}")
+            if evolution:
+                lines.append(f"       Évolution : {evolution}")
+
+        # Techniques acquises
+        if analysis["techniques_learned"]:
+            tech_list = [t["elements"] for t in analysis["techniques_learned"]]
+            lines.append(f"  ACQUIS TECHNIQUES : {'; '.join(tech_list[:5])}")
+
+        # Trajectoire émotionnelle résumée
+        if analysis["emotional_trajectory"]:
+            traj = " → ".join(t["evolution"][:80] for t in analysis["emotional_trajectory"][-4:])
+            lines.append(f"  TRAJECTOIRE : {traj}")
+
+        # Relations explorées vs non explorées
+        if analysis["relationship_evolution"]:
+            explored_rels = set(r["relation"] for r in analysis["relationship_evolution"])
+            lines.append(f"  RELATIONS EXPLORÉES : {', '.join(explored_rels)}")
+
+        # Contradictions détectées
+        if analysis["contradictions"]:
+            lines.append(f"  ⚠ CONTRADICTIONS DÉTECTÉES : {'; '.join(analysis['contradictions'][:3])}")
+
+    else:
+        lines.append(f"  PARCOURS : Aucun article encore. {pronom} attend sa première histoire.")
+
+    # Directions recommandées (le cœur du système de cohérence active)
+    if analysis["recommended_directions"]:
+        lines.append(f"  DIRECTIONS POUR APPROFONDIR {prenom.upper()} :")
+        for d in analysis["recommended_directions"][:4]:
+            lines.append(f"    → {d}")
+
+    # Affinités non explorées
+    all_unexplored = []
+    for cat_key, unexplored in analysis["unexplored_affinities"].items():
+        all_unexplored.extend(unexplored[:2])
+    if all_unexplored:
+        lines.append(f"  AFFINITÉS NATURELLES INEXPLOITÉES : {', '.join(all_unexplored[:6])}")
+
+    lines.append("")
+    return "\n".join(lines)
+
+
+def build_character_arcs_summary(personnages, matrix):
+    """Construit un résumé enrichi de l'arc narratif de chaque personnage pour Gemini.
+
+    Inclut une analyse de profondeur par personnage : thèmes explorés, lacunes,
+    contradictions, directions recommandées pour renforcer la cohérence.
     """
     articles = matrix.get("articles", [])
 
@@ -199,45 +433,32 @@ def build_character_arcs_summary(personnages, matrix):
     for prenom in perso_articles:
         perso_articles[prenom].sort(key=lambda x: x.get("date", ""))
 
-    lines = ["ARC NARRATIF DE CHAQUE PERSONNAGE :\n"]
-    lines.append("Chaque personnage est un individu récurrent avec une vie qui évolue au fil des articles.\n")
+    lines = ["ANALYSE DE L'ÉTAT NARRATIF DE CHAQUE PERSONNAGE :\n"]
+    lines.append("Chaque personnage est un individu récurrent dont la psychologie doit devenir de plus en plus")
+    lines.append("lisible, cohérente et convaincante au fil des articles. L'analyse ci-dessous identifie")
+    lines.append("les lacunes et les directions d'approfondissement pour chaque personnage.\n")
 
+    # Trier les personnages : les moins profonds en premier (priorité)
+    perso_with_analysis = []
     for perso in personnages:
         prenom = perso["prenom"]
-        genre = perso.get("genre", "M")
-        pronom = "Elle" if genre == "F" else "Il"
-        articles_perso = perso_articles.get(prenom, [])
+        articles_list = perso_articles.get(prenom, [])
+        analysis = analyze_character_depth(perso, articles_list)
+        perso_with_analysis.append((perso, analysis, articles_list))
 
-        lines.append(f"--- {prenom} ({perso['age']} ans, {perso['profession']}) ---")
-        lines.append(f"  Situation : {perso['situation_familiale']}")
-        lines.append(f"  Traits : {', '.join(perso['traits_personnalite'])}")
-        lines.append(f"  Tendances psy : {', '.join(perso['tendances_psychologiques'])}")
-        lines.append(f"  Histoire : {perso['histoire_de_fond']}")
+    # Trier par score de profondeur croissant (les moins creusés en premier)
+    perso_with_analysis.sort(key=lambda x: x[1]["depth_score"])
 
-        if perso.get("relations"):
-            rels = ", ".join(f"{r}: {n}" for r, n in perso["relations"].items())
-            lines.append(f"  Relations : {rels}")
+    for perso, analysis, articles_list in perso_with_analysis:
+        lines.append(format_character_analysis_for_prompt(perso, analysis, articles_list))
 
-        if articles_perso:
-            lines.append(f"  PARCOURS ({len(articles_perso)} articles) :")
-            for i, a in enumerate(articles_perso, 1):
-                date = a.get("date", "?")
-                cat = a.get("category_key", "?")
-                resume = a.get("resume_narratif", "")
-                evolution = a.get("evolution", "")
-                line = f"    {i}. [{date}] ({cat}) \"{a['sujet']}\" en contexte \"{a['contexte']}\""
-                if a.get("title"):
-                    line += f" — \"{a['title']}\""
-                lines.append(line)
-                if resume:
-                    lines.append(f"       Résumé : {resume}")
-                if evolution:
-                    lines.append(f"       Évolution : {evolution}")
-            lines.append(f"  → {pronom} a exploré {len(articles_perso)} thèmes. Quelle serait la prochaine étape logique de son parcours ?")
-        else:
-            lines.append(f"  PARCOURS : Aucun article encore. {pronom} attend sa première histoire.")
-
-        lines.append("")
+    # Résumé global
+    total_articles = len(articles)
+    avg_depth = sum(a[1]["depth_score"] for a in perso_with_analysis) / len(perso_with_analysis) if perso_with_analysis else 0
+    low_depth = [a[0]["prenom"] for a in perso_with_analysis if a[1]["depth_score"] < 30]
+    lines.append(f"\nRÉSUMÉ GLOBAL : {total_articles} articles, profondeur moyenne {avg_depth:.0f}/100")
+    if low_depth:
+        lines.append(f"PERSONNAGES À PRIORISER (profondeur < 30) : {', '.join(low_depth)}")
 
     return "\n".join(lines)
 
@@ -635,8 +856,12 @@ Les indices doivent correspondre aux listes ci-dessus. Pas de texte autour du JS
 
 
 def build_gemini_character_first_prompt(character_arcs_summary, matrix_summary, personnages, today_str):
-    """Construit le prompt Gemini 'character-first' : Gemini choisit les personnages ET les sujets ensemble,
-    en se basant sur l'arc narratif de chaque personnage pour trouver la suite la plus cohérente."""
+    """Construit le prompt Gemini 'character-first' orienté cohérence active.
+
+    La question centrale n'est plus "quelle est la suite logique ?" mais
+    "qu'est-ce qui viendrait rationaliser, approfondir ou enrichir ce qui a
+    déjà été établi sur ces personnages ?"
+    """
 
     cat1_sujets = CATEGORIES["cat1_pensees"]["sujets"]
     cat2_sujets = CATEGORIES["cat2_emotions"]["sujets"]
@@ -654,25 +879,41 @@ def build_gemini_character_first_prompt(character_arcs_summary, matrix_summary, 
         for i, p in enumerate(personnages)
     )
 
-    system_prompt = f"""Tu es un directeur éditorial et scénariste expert en psychologie narrative.
+    system_prompt = f"""Tu es un directeur éditorial, scénariste et psychologue expert en narration psychologique.
 Tu gères un blog où 20 personnages récurrents vivent des histoires qui illustrent des concepts psychologiques.
 Chaque personnage a une vie qui ÉVOLUE au fil des articles. Les lecteurs suivent leurs parcours comme une série.
 
 Nous sommes le {today_str}. Les personnages vivent en France, dans le présent.
 
-TA MISSION : Choisir 3 personnages (un par catégorie) et leur attribuer le sujet/contexte qui constitue
-la SUITE LA PLUS COHÉRENTE de leur arc narratif. Tu dois penser comme un scénariste :
-- Quel personnage a besoin de vivre cette prochaine étape ?
-- Quel concept psychologique s'inscrit naturellement dans son parcours ?
-- Comment cette nouvelle histoire fait-elle évoluer le personnage ?
+PRINCIPE FONDAMENTAL DE COHÉRENCE ACTIVE :
+Plus il y a d'articles sur un personnage → plus sa psychologie doit être creusée →
+plus son portrait devient lisible, cohérent et convaincant pour le lecteur.
+
+Chaque nouvel article ne doit PAS simplement "se conformer" au passé du personnage.
+Il doit ACTIVEMENT enrichir, rationaliser ou approfondir ce qui a déjà été établi.
+
+TA MISSION : Pour chaque suggestion, réponds à cette question centrale :
+"Qu'est-ce qui viendrait RATIONALISER, APPROFONDIR ou ENRICHIR ce qui a déjà été établi sur ce personnage ?"
+
+STRATÉGIE DE SÉLECTION (par ordre de priorité) :
+1. RATIONALISER : Un personnage a montré un comportement dans un article passé. Le nouveau sujet
+   explique POURQUOI il réagit ainsi (ex: Sophie est perfectionniste → explorer le schéma d'exigences élevées
+   de Young éclaire la racine de ce trait).
+2. APPROFONDIR : Un personnage a effleuré un thème. Le nouveau sujet creuse plus profondément
+   la même zone (ex: après l'irritabilité, explorer la colère refoulée qui se cache derrière).
+3. ENRICHIR : Un personnage n'a été vu que dans un contexte (travail). Le montrer dans un autre contexte
+   (famille, couple) révèle une nouvelle facette de sa personnalité, cohérente avec ce qu'on sait déjà.
+4. CONNECTER : Le sujet crée un lien entre deux aspects déjà explorés du personnage,
+   montrant que sa psychologie forme un tout cohérent.
 
 RÈGLES NARRATIVES :
-1. Choisis des personnages dont l'arc narratif appelle une suite (pas les mêmes que les 3 derniers jours)
-2. Le sujet choisi doit être une PROGRESSION LOGIQUE par rapport aux articles précédents du personnage
-3. Le contexte doit correspondre à la vie actuelle du personnage (profession, situation, relations)
-4. Évite les combinaisons sujet+contexte déjà traitées
-5. Privilégie les personnages sous-représentés s'ils ont un arc intéressant à développer
-6. Pense à la diversité : 3 personnages DIFFÉRENTS, 3 histoires DIFFÉRENTES
+1. Consulte l'ANALYSE DE PROFONDEUR de chaque personnage (score, lacunes, directions recommandées)
+2. Priorise les personnages avec un score de profondeur faible ou des lacunes identifiées
+3. Le sujet choisi doit répondre à au moins UNE des 4 stratégies ci-dessus (rationaliser/approfondir/enrichir/connecter)
+4. Le contexte doit correspondre à la vie actuelle du personnage (profession, situation, relations)
+5. Évite les combinaisons sujet+contexte déjà traitées et les personnages des 3 derniers jours
+6. 3 personnages DIFFÉRENTS, 3 histoires DIFFÉRENTES
+7. Si un personnage a des affinités naturelles inexploitées, c'est une opportunité prioritaire
 
 IMPORTANT : Réponds UNIQUEMENT avec du JSON valide. Pas de texte avant ni après. Pas de backticks."""
 
@@ -700,7 +941,11 @@ CONTEXTES DISPONIBLES (utilise l'INDICE numérique) :
 ANGLES DISPONIBLES (utilise l'INDICE numérique) :
 {angles_list}
 
-Propose 3 combinaisons personnage+sujet (1 par catégorie). Réponds en JSON :
+Propose 3 combinaisons personnage+sujet (1 par catégorie).
+Pour chaque suggestion, explique en quoi elle RATIONALISE, APPROFONDIT, ENRICHIT ou CONNECTE
+la psychologie déjà établie du personnage.
+
+Réponds en JSON :
 
 [
   {{
@@ -709,7 +954,9 @@ Propose 3 combinaisons personnage+sujet (1 par catégorie). Réponds en JSON :
     "sujet_idx": 5,
     "contexte_idx": 2,
     "angle_idx": 0,
-    "justification_narrative": "Sophie a exploré le biais rétrospectif et l'irritabilité. Logiquement, elle pourrait maintenant...",
+    "strategie_coherence": "rationaliser|approfondir|enrichir|connecter",
+    "justification_narrative": "Sophie a exploré le biais rétrospectif et l'irritabilité. Explorer le biais d'ancrage RATIONALISE sa tendance perfectionniste en montrant comment elle s'accroche à ses premières impressions au travail...",
+    "apport_psychologique": "Cet article révèle que le perfectionnisme de Sophie n'est pas qu'un trait isolé : il se nourrit de biais cognitifs spécifiques qui ancrent ses standards élevés...",
     "scene_envisagee": "Sophie est au bureau un lundi matin. Elle repense à la réunion de la semaine dernière où..."
   }},
   {{
@@ -718,7 +965,9 @@ Propose 3 combinaisons personnage+sujet (1 par catégorie). Réponds en JSON :
     "sujet_idx": 12,
     "contexte_idx": 7,
     "angle_idx": 3,
-    "justification_narrative": "Nadia a traversé la frustration au travail et le biais d'ancrage. La prochaine étape serait...",
+    "strategie_coherence": "enrichir",
+    "justification_narrative": "Nadia n'a été vue qu'au travail. L'explorer en famille ENRICHIT son portrait en révélant comment son besoin de contrôle se manifeste différemment avec ses enfants...",
+    "apport_psychologique": "On découvre que le contrôle de Nadia au travail est une armure. En famille, la vulnérabilité affleure, créant un portrait plus nuancé et humain...",
     "scene_envisagee": "Nadia rentre chez elle après une journée de réunions. Sa fille Yasmine lui demande..."
   }},
   {{
@@ -727,7 +976,9 @@ Propose 3 combinaisons personnage+sujet (1 par catégorie). Réponds en JSON :
     "sujet_idx": 8,
     "contexte_idx": 1,
     "angle_idx": 5,
-    "justification_narrative": "Hugo a vécu la dette émotionnelle et l'attachement désorganisé. Il est temps qu'il...",
+    "strategie_coherence": "connecter",
+    "justification_narrative": "Hugo a vécu la dette émotionnelle et l'attachement désorganisé. Le schéma d'échec CONNECTE ces deux expériences : sa peur de l'échec nourrit sa difficulté relationnelle...",
+    "apport_psychologique": "Cet article tisse un fil rouge entre les expériences passées de Hugo, montrant que sa dépendance affective et son rapport à l'échec sont les deux faces d'une même blessure...",
     "scene_envisagee": "Hugo accorde sa guitare dans son petit appartement. Son téléphone vibre, c'est Chloé..."
   }}
 ]
@@ -800,6 +1051,8 @@ def parse_gemini_character_suggestions(raw_response, personnages):
             "personnage": perso,
             "justification_narrative": s.get("justification_narrative", ""),
             "scene_envisagee": s.get("scene_envisagee", ""),
+            "strategie_coherence": s.get("strategie_coherence", ""),
+            "apport_psychologique": s.get("apport_psychologique", ""),
         })
 
     return resolved
@@ -1136,6 +1389,18 @@ LOGIQUE NARRATIVE (pourquoi cette histoire maintenant) :
 {combo['justification_narrative']}
 """
 
+    coherence_section = ""
+    if combo.get("strategie_coherence") or combo.get("apport_psychologique"):
+        coherence_section = f"""
+STRATÉGIE DE COHÉRENCE ACTIVE :
+- Type : {combo.get('strategie_coherence', 'non spécifié')}
+- Apport psychologique attendu : {combo.get('apport_psychologique', '')}
+- INSTRUCTION : Cet article doit ACTIVEMENT enrichir le portrait psychologique de {combo['prenom']}.
+  Il ne suffit pas de mentionner le passé du personnage : l'article doit RELIER ce nouveau sujet
+  aux expériences passées pour créer un portrait plus profond et cohérent.
+  Le lecteur qui a suivi {combo['prenom']} doit sentir que sa psychologie devient plus lisible et compréhensible.
+"""
+
     # Contexte du personnage
     personnage_context = combo.get('personnage_context', '')
     genre_info = combo.get('genre', 'M')
@@ -1160,7 +1425,7 @@ CONTEXTE DE VIE : {combo['contexte']}
 ANGLE ÉDITORIAL : {combo['angle']}{profil_text}
 
 {personnage_section}
-{scene_section}{justification_section}
+{scene_section}{justification_section}{coherence_section}
 ANCRAGE TEMPOREL OBLIGATOIRE :
 - L'histoire se déroule dans le PRÉSENT, en France, autour du {today_str}
 - Si le personnage a un historique d'articles précédents, fais référence NATURELLEMENT à des événements passés
@@ -1543,6 +1808,231 @@ draft: false
 
 
 # ============================================
+# VALIDATION DE COHÉRENCE POST-GÉNÉRATION
+# ============================================
+
+def validate_coherence(content, combo, matrix, personnages):
+    """Valide que l'article généré contribue activement à la cohérence du personnage.
+
+    Appelle Gemini pour évaluer si l'article :
+    1. Fait référence au passé du personnage de manière naturelle
+    2. Approfondit réellement la psychologie du personnage
+    3. Est cohérent avec les traits et l'histoire établis
+    4. Apporte quelque chose de nouveau au portrait psychologique
+
+    Retourne le contenu (éventuellement enrichi) et un score de cohérence.
+    """
+    prenom = combo["prenom"]
+
+    # Trouver les articles passés du personnage
+    perso_articles = [a for a in matrix.get("articles", []) if a.get("prenom") == prenom]
+
+    if not perso_articles:
+        # Premier article du personnage : pas de cohérence à valider
+        print(f"  [Cohérence] Premier article de {prenom}, validation simplifiée")
+        return content
+
+    # Construire le résumé des articles passés pour la vérification
+    past_summary = []
+    for a in perso_articles[-6:]:  # 6 derniers articles max
+        entry = f"- \"{a.get('sujet', '')}\" ({a.get('contexte', '')})"
+        if a.get("resume_narratif"):
+            entry += f" : {a['resume_narratif']}"
+        if a.get("evolution"):
+            entry += f" | Évolution : {a['evolution']}"
+        past_summary.append(entry)
+
+    system_prompt = (
+        "Tu es un expert en cohérence narrative et en psychologie des personnages. "
+        "On te donne un article de blog et l'historique du personnage. "
+        "Tu dois vérifier que l'article contribue ACTIVEMENT à la cohérence du personnage.\n\n"
+        "VÉRIFICATIONS :\n"
+        "1. L'article fait-il référence au passé du personnage (événements, relations, techniques apprises) ?\n"
+        "2. Le comportement du personnage est-il cohérent avec ses traits établis ?\n"
+        "3. L'article apporte-t-il une NOUVELLE dimension au portrait psychologique ?\n"
+        "4. Les acquis des articles précédents (techniques, prises de conscience) sont-ils respectés ?\n\n"
+        "Si l'article manque de références au passé ou de cohérence, ENRICHIS-LE en ajoutant "
+        "naturellement 2-3 passages qui :\n"
+        "- Mentionnent un événement passé du personnage\n"
+        "- Montrent que le personnage a évolué\n"
+        "- Relient le sujet actuel aux expériences antérieures\n\n"
+        "RÈGLES : Conserve toute la structure Markdown, ne raccourcis pas l'article, "
+        "conserve le même ton. Retourne l'article complet (enrichi si nécessaire), rien d'autre."
+    )
+
+    user_prompt = (
+        f"PERSONNAGE : {prenom} ({combo.get('age', '')})\n"
+        f"SUJET ACTUEL : {combo['sujet']} en contexte \"{combo['contexte']}\"\n"
+        f"STRATÉGIE DE COHÉRENCE : {combo.get('strategie_coherence', 'non spécifiée')}\n\n"
+        f"HISTORIQUE DU PERSONNAGE ({len(perso_articles)} articles précédents) :\n"
+        + "\n".join(past_summary)
+        + f"\n\nARTICLE À VÉRIFIER :\n{content}"
+    )
+
+    print(f"  [Cohérence] Validation de la cohérence narrative pour {prenom}...")
+
+    try:
+        enriched = call_mammouth_api(
+            model=MODEL_ANALYST,
+            system_prompt=system_prompt,
+            user_prompt=user_prompt,
+            temperature=0.3,
+            max_tokens=4500,
+            retries=2
+        )
+
+        if enriched:
+            # Vérifier que Gemini n'a pas cassé la structure
+            h2_before = len(re.findall(r'^## ', content, re.MULTILINE))
+            h2_after = len(re.findall(r'^## ', enriched, re.MULTILINE))
+            len_before = len(content.split())
+            len_after = len(enriched.split())
+
+            if h2_after >= h2_before and len_after >= len_before * 0.8:
+                if len_after > len_before:
+                    print(f"  [Cohérence] Article enrichi ({len_before} → {len_after} mots)")
+                else:
+                    print(f"  [Cohérence] Cohérence validée ({len_after} mots)")
+                return enriched
+            else:
+                print(f"  [Cohérence] Gemini a altéré la structure, conservation de l'original")
+                return content
+        else:
+            print(f"  [Cohérence] Gemini n'a pas répondu, conservation de l'original")
+            return content
+
+    except Exception as e:
+        print(f"  [Cohérence] Erreur: {e}, conservation de l'original")
+        return content
+
+
+# ============================================
+# GÉNÉRATION DE LA PAGE DE SUIVI DES PERSONNAGES
+# ============================================
+
+def generate_character_tracking_page(personnages, matrix):
+    """Génère une page Hugo qui affiche l'état de chaque personnage.
+
+    Cette page est automatiquement mise à jour à chaque exécution du workflow.
+    Elle montre pour chaque personnage : profondeur, thèmes explorés, trajectoire,
+    affinités inexploitées, et prochaines directions.
+    """
+    articles = matrix.get("articles", [])
+
+    # Regrouper les articles par personnage
+    perso_articles = {}
+    for a in articles:
+        prenom = a.get("prenom", "")
+        if prenom:
+            perso_articles.setdefault(prenom, []).append(a)
+
+    for prenom in perso_articles:
+        perso_articles[prenom].sort(key=lambda x: x.get("date", ""))
+
+    # Analyser chaque personnage
+    perso_data = []
+    for perso in personnages:
+        prenom = perso["prenom"]
+        arts = perso_articles.get(prenom, [])
+        analysis = analyze_character_depth(perso, arts)
+        perso_data.append((perso, analysis, arts))
+
+    # Trier par score de profondeur décroissant
+    perso_data.sort(key=lambda x: x[1]["depth_score"], reverse=True)
+
+    # Générer la page Markdown
+    date_str = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
+    date_display = datetime.now().strftime("%d/%m/%Y")
+
+    content_lines = []
+    content_lines.append("---")
+    content_lines.append('title: "Les personnages de Décode ton esprit"')
+    content_lines.append(f"date: {date_str}")
+    content_lines.append('description: "Découvrez les 20 personnages récurrents du blog et suivez leur évolution psychologique au fil des articles."')
+    content_lines.append('layout: "personnages"')
+    content_lines.append('slug: "personnages"')
+    content_lines.append("draft: false")
+    content_lines.append("---\n")
+
+    # Stats globales
+    total_articles = len(articles)
+    avg_depth = sum(a[1]["depth_score"] for a in perso_data) / len(perso_data) if perso_data else 0
+    content_lines.append(f"*Dernière mise à jour : {date_display} | {total_articles} articles publiés | Profondeur moyenne : {avg_depth:.0f}/100*\n")
+
+    for perso, analysis, arts in perso_data:
+        prenom = perso["prenom"]
+        genre = perso.get("genre", "M")
+        score = analysis["depth_score"]
+
+        # Barre de profondeur visuelle
+        filled = round(score / 10)
+        bar = "█" * filled + "░" * (10 - filled)
+
+        content_lines.append(f"## {prenom}, {perso['age']} ans")
+        content_lines.append(f"**{perso['profession'].capitalize()}** | {perso['situation_familiale']}\n")
+        content_lines.append(f"Profondeur psychologique : {bar} {score}/100\n")
+
+        # Traits
+        content_lines.append(f"**Traits** : {', '.join(perso['traits_personnalite'])}\n")
+
+        if arts:
+            content_lines.append(f"### Parcours ({len(arts)} articles)\n")
+
+            # Catégories explorées
+            cats_explored = {}
+            for a in arts:
+                cat = a.get("category_key", "")
+                cat_name_map = {
+                    "cat1_pensees": "Pensées",
+                    "cat2_emotions": "Émotions",
+                    "cat3_schemas": "Schémas"
+                }
+                cat_label = cat_name_map.get(cat, cat)
+                cats_explored.setdefault(cat_label, []).append(a.get("sujet", ""))
+
+            for cat_label, sujets in cats_explored.items():
+                content_lines.append(f"- **{cat_label}** : {', '.join(sujets)}")
+            content_lines.append("")
+
+            # Trajectoire émotionnelle
+            if analysis["emotional_trajectory"]:
+                content_lines.append("**Trajectoire** :\n")
+                for t in analysis["emotional_trajectory"][-4:]:
+                    content_lines.append(f"- {t['date']} : {t['evolution']}")
+                content_lines.append("")
+
+            # Techniques acquises
+            if analysis["techniques_learned"]:
+                content_lines.append("**Acquis** :\n")
+                for t in analysis["techniques_learned"][-3:]:
+                    content_lines.append(f"- {t['elements']}")
+                content_lines.append("")
+        else:
+            content_lines.append(f"*{'Elle' if genre == 'F' else 'Il'} attend sa première histoire.*\n")
+
+        # Directions d'approfondissement
+        if analysis["recommended_directions"]:
+            content_lines.append("**Prochaines explorations possibles** :\n")
+            for d in analysis["recommended_directions"][:3]:
+                content_lines.append(f"- {d}")
+            content_lines.append("")
+
+        content_lines.append("---\n")
+
+    # Écrire le fichier
+    tracking_dir = REPO_ROOT / "content"
+    tracking_dir.mkdir(parents=True, exist_ok=True)
+    tracking_file = tracking_dir / "personnages.md"
+
+    full_content = "\n".join(content_lines)
+    with open(tracking_file, "w", encoding="utf-8") as f:
+        f.write(full_content)
+
+    print(f"  [Suivi] Page de suivi des personnages générée : {tracking_file}")
+    return tracking_file
+
+
+# ============================================
 # MAIN
 # ============================================
 
@@ -1612,9 +2102,13 @@ def main():
                 combo["personnage_context"] = build_personnage_context(perso, matrix)
                 combo["scene_envisagee"] = s.get("scene_envisagee", "")
                 combo["justification_narrative"] = s.get("justification_narrative", "")
+                combo["strategie_coherence"] = s.get("strategie_coherence", "")
+                combo["apport_psychologique"] = s.get("apport_psychologique", "")
                 print(f"  [Character-first] Personnage : {combo['prenom']} ({combo['age']})")
                 print(f"  [Character-first] Sujet : {combo['sujet']}")
                 print(f"  [Character-first] Contexte : {combo['contexte']}")
+                if s.get("strategie_coherence"):
+                    print(f"  [Cohérence] Stratégie : {s['strategie_coherence']}")
                 if s.get("justification_narrative"):
                     print(f"  [Narratif] {s['justification_narrative'][:150]}...")
             else:
@@ -1701,10 +2195,13 @@ def main():
         # Étape 3.7 : Relecture qualité globale par Gemini
         content = gemini_quality_review(content, combo)
 
+        # Étape 3.8 : Validation de cohérence narrative
+        content = validate_coherence(content, combo, matrix, personnages)
+
         print(f"  Création du fichier Hugo...")
         create_hugo_post(combo, metadata, content)
 
-        # Étape 3.8 : Extraction du résumé narratif pour la continuité
+        # Étape 3.9 : Extraction du résumé narratif pour la continuité
         print(f"  [Narratif] Extraction du résumé narratif...")
         resume_narratif, evolution, elements_cles = extract_narrative_summary(content, combo)
         if resume_narratif:
@@ -1731,6 +2228,12 @@ def main():
     if personnages:
         save_personnages(personnages)
         print(f"  Historique des personnages mis à jour")
+
+    # ── ÉTAPE 4 : Générer la page de suivi des personnages ──
+    print("\nETAPE 4 : Génération de la page de suivi des personnages...")
+    if personnages:
+        generate_character_tracking_page(personnages, matrix)
+
     print(f"\n{'='*60}")
     print(f"Génération terminée - {len(matrix['articles'])} combinaisons dans la matrice")
     print(f"{'='*60}\n")
