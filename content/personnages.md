@@ -1,6 +1,6 @@
 ---
 title: "Nos Personnages"
-date: 2026-03-16T07:35:44+00:00
+date: 2026-03-16T07:41:48+00:00
 description: "Découvrez les 20 personnages récurrents du blog et suivez leur évolution psychologique au fil des articles."
 layout: "personnages"
 slug: "personnages"
@@ -10,15 +10,15 @@ draft: false
 <div class="perso-grid">
   <div class="perso-card" id="card-sophie">
     <div class="perso-card-top">
-      <div class="perso-avatar">S</div>
       <h2 class="perso-name">Sophie, 28 ans</h2>
       <p class="perso-job">Développeuse web dans une startup</p>
     </div>
     <p class="perso-bio">Sophie est développeuse web dans une startup, célibataire, vit seule en appartement en ville.</p>
     <div class="perso-stat">6 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Schéma répétitif</div>
           <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-societe-interactions/">Comprendre et vaincre le syndrome de l'imposteur en société</a></h3>
@@ -85,20 +85,19 @@ draft: false
           </div>
           <a href="/posts/reprendre-le-controle-de-ses-pensees/overthinking-surpensee-travail/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-nadia">
     <div class="perso-card-top">
-      <div class="perso-avatar">N</div>
       <h2 class="perso-name">Nadia, 38 ans</h2>
       <p class="perso-job">Directrice marketing dans une entreprise tech</p>
     </div>
     <p class="perso-bio">Nadia est directrice marketing dans une entreprise tech, divorcée, mère d'une fille (Yasmine, 8 ans), garde alternée.</p>
     <div class="perso-stat">6 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Biais cognitif</div>
           <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-ancrage-decision-importante/">Comprendre le biais d'ancrage face à une décision importante</a></h3>
@@ -165,20 +164,19 @@ draft: false
           </div>
           <a href="/posts/sortir-de-ses-schemas-repetitifs/grandiosite-droits-excessifs-travail/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-thomas">
     <div class="perso-card-top">
-      <div class="perso-avatar">T</div>
       <h2 class="perso-name">Thomas, 34 ans</h2>
       <p class="perso-job">Enseignant d'histoire-géographie au lycée</p>
     </div>
     <p class="perso-bio">Thomas est enseignant d'histoire-géographie au lycée, en couple avec Émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité.</p>
     <div class="perso-stat">5 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Schéma répétitif</div>
           <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/jeux-psychologiques-triangle-karpman-amitie/">Comprendre les jeux psychologiques en amitié : le triangle de Karpman</a></h3>
@@ -234,20 +232,19 @@ draft: false
           </div>
           <a href="/posts/sortir-de-ses-schemas-repetitifs/jeux-psychologiques-karpman-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-lucas">
     <div class="perso-card-top">
-      <div class="perso-avatar">L</div>
       <h2 class="perso-name">Lucas, 24 ans</h2>
       <p class="perso-job">Étudiant en dernière année d'école de commerce, en stage</p>
     </div>
     <p class="perso-bio">Lucas est étudiant en dernière année d'école de commerce, en stage, célibataire, en colocation avec deux amis.</p>
     <div class="perso-stat">5 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Biais cognitif</div>
           <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-dunning-kruger-ecole-etudes/">Comprendre l’effet Dunning-Kruger à l’école ou aux études</a></h3>
@@ -303,20 +300,19 @@ draft: false
           </div>
           <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-entretien-embauche/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-bernard">
     <div class="perso-card-top">
-      <div class="perso-avatar">B</div>
       <h2 class="perso-name">Bernard, 58 ans</h2>
       <p class="perso-job">Artisan ébéniste, atelier en campagne</p>
     </div>
     <p class="perso-bio">Bernard est artisan ébéniste, atelier en campagne, veuf depuis 5 ans, un fils avec qui les relations sont tendues.</p>
     <div class="perso-stat">5 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Émotion</div>
           <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nostalgie-face-au-vieillissement-perfectionniste/">Nostalgie face au vieillissement : comment la reconnaître chez les perfectionnistes</a></h3>
@@ -372,20 +368,19 @@ draft: false
           </div>
           <a href="/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-camille">
     <div class="perso-card-top">
-      <div class="perso-avatar">C</div>
       <h2 class="perso-name">Camille, 42 ans</h2>
       <p class="perso-job">Infirmière en service de cardiologie</p>
     </div>
     <p class="perso-bio">Camille est infirmière en service de cardiologie, mariée à David, mère de deux enfants (Léo, 10 ans et Emma, 7 ans).</p>
     <div class="perso-stat">4 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Schéma répétitif</div>
           <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-enfants/">Exigences élevées et critique excessive avec ses enfants : comment changer</a></h3>
@@ -430,20 +425,19 @@ draft: false
           </div>
           <a href="/posts/comprendre-et-maitriser-ses-emotions/fatigue-compassion-face-maladie/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-adrien">
     <div class="perso-card-top">
-      <div class="perso-avatar">A</div>
       <h2 class="perso-name">Adrien, 31 ans</h2>
       <p class="perso-job">Graphiste freelance</p>
     </div>
     <p class="perso-bio">Adrien est graphiste freelance, célibataire depuis une rupture difficile il y a un an.</p>
     <div class="perso-stat">4 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Schéma répétitif</div>
           <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude/">Abandon/instabilité face à la solitude : comprendre et agir</a></h3>
@@ -488,20 +482,19 @@ draft: false
           </div>
           <a href="/posts/comprendre-et-maitriser-ses-emotions/deception-apres-echec/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-margot">
     <div class="perso-card-top">
-      <div class="perso-avatar">M</div>
       <h2 class="perso-name">Margot, 52 ans</h2>
       <p class="perso-job">En reconversion professionnelle, ancienne directrice commerciale, se forme au coaching</p>
     </div>
     <p class="perso-bio">Margot est en reconversion professionnelle, ancienne directrice commerciale, se forme au coaching, mariée à Philippe, deux enfants adultes partis de la maison (Martin, 26 ans et Chloé, 23 ans).</p>
     <div class="perso-stat">4 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Émotion</div>
           <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/indifference-reconversion-professionnelle/">Comprendre l'indifférence en période de reconversion professionnelle</a></h3>
@@ -546,20 +539,19 @@ draft: false
           </div>
           <a href="/posts/sortir-de-ses-schemas-repetitifs/drivers-messages-contraignants-reconversion/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-isabelle">
     <div class="perso-card-top">
-      <div class="perso-avatar">I</div>
       <h2 class="perso-name">Isabelle, 47 ans</h2>
       <p class="perso-job">Psychologue scolaire dans un collège</p>
     </div>
     <p class="perso-bio">Isabelle est psychologue scolaire dans un collège, divorcée, un fils adolescent (Théo, 16 ans).</p>
     <div class="perso-stat">4 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Schéma répétitif</div>
           <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-anxieux-preoccupe-couple/">Comprendre l'attachement anxieux-préoccupé en couple : le cas de Kévin</a></h3>
@@ -604,20 +596,19 @@ draft: false
           </div>
           <a href="/posts/reprendre-le-controle-de-ses-pensees/methode-abcde-autorite/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-léa">
     <div class="perso-card-top">
-      <div class="perso-avatar">L</div>
       <h2 class="perso-name">Léa, 23 ans</h2>
       <p class="perso-job">Étudiante en master de psychologie clinique</p>
     </div>
     <p class="perso-bio">Léa est étudiante en master de psychologie clinique, célibataire, vit en studio étudiant.</p>
     <div class="perso-stat">4 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Schéma répétitif</div>
           <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-secure-argent-finances/">Attachement sécure face à l'argent : comprendre et progresser</a></h3>
@@ -662,20 +653,19 @@ draft: false
           </div>
           <a href="/posts/comprendre-et-maitriser-ses-emotions/envie-en-amitie/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-hugo">
     <div class="perso-card-top">
-      <div class="perso-avatar">H</div>
       <h2 class="perso-name">Hugo, 27 ans</h2>
       <p class="perso-job">Musicien semi-professionnel et serveur pour payer les factures</p>
     </div>
     <p class="perso-bio">Hugo est musicien semi-professionnel et serveur pour payer les factures, en relation instable avec Chloé, musicienne aussi.</p>
     <div class="perso-stat">4 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Émotion</div>
           <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/dette-emotionnelle-apres-echec/">Comprendre la dette émotionnelle après un échec : le cas d’Hugo</a></h3>
@@ -720,20 +710,19 @@ draft: false
           </div>
           <a href="/posts/comprendre-et-maitriser-ses-emotions/vide-interieur-apres-rupture-amoureuse/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-priya">
     <div class="perso-card-top">
-      <div class="perso-avatar">P</div>
       <h2 class="perso-name">Priya, 33 ans</h2>
       <p class="perso-job">Médecin généraliste en cabinet de ville</p>
     </div>
     <p class="perso-bio">Priya est médecin généraliste en cabinet de ville, célibataire, vit seule, relations épisodiques.</p>
     <div class="perso-stat">4 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Schéma répétitif</div>
           <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-evitant-dans-intimite/">Attachement évitant-dédaigneux dans l'intimité et la sexualité</a></h3>
@@ -778,20 +767,19 @@ draft: false
           </div>
           <a href="/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-reconversion/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-stéphane">
     <div class="perso-card-top">
-      <div class="perso-avatar">S</div>
       <h2 class="perso-name">Stéphane, 45 ans</h2>
       <p class="perso-job">Commercial grands comptes dans une multinationale</p>
     </div>
     <p class="perso-bio">Stéphane est commercial grands comptes dans une multinationale, marié à Sandrine, père d'un adolescent (Maxime, 15 ans).</p>
     <div class="perso-stat">4 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Biais cognitif</div>
           <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-leurre-en-famille/">Effet de leurre en famille : l’histoire de Juliette qui reprend le contrôle</a></h3>
@@ -836,20 +824,19 @@ draft: false
           </div>
           <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-de-halo-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-mei">
     <div class="perso-card-top">
-      <div class="perso-avatar">M</div>
       <h2 class="perso-name">Mei, 22 ans</h2>
       <p class="perso-job">Étudiante en école d'art, spécialité illustration</p>
     </div>
     <p class="perso-bio">Mei est étudiante en école d'art, spécialité illustration, célibataire, vit en résidence étudiante.</p>
     <div class="perso-stat">4 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Biais cognitif</div>
           <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-ikea-entretien-embauche/">Effet IKEA lors d'un entretien d'embauche : mythes à déconstruire</a></h3>
@@ -894,20 +881,19 @@ draft: false
           </div>
           <a href="/posts/sortir-de-ses-schemas-repetitifs/fusion-personnalite-reconversion/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-youssef">
     <div class="perso-card-top">
-      <div class="perso-avatar">Y</div>
       <h2 class="perso-name">Youssef, 29 ans</h2>
       <p class="perso-job">Ingénieur en informatique dans un grand groupe</p>
     </div>
     <p class="perso-bio">Youssef est ingénieur en informatique dans un grand groupe, en couple avec Léa depuis 2 ans, vit en appartement.</p>
     <div class="perso-stat">3 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Biais cognitif</div>
           <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-projection-en-colocation-erreurs/">Comprendre le biais de projection en colocation : erreurs fréquentes</a></h3>
@@ -941,20 +927,19 @@ draft: false
           </div>
           <a href="/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-karim">
     <div class="perso-card-top">
-      <div class="perso-avatar">K</div>
       <h2 class="perso-name">Karim, 40 ans</h2>
       <p class="perso-job">Entrepreneur, fondateur d'une pme de restauration</p>
     </div>
     <p class="perso-bio">Karim est entrepreneur, fondateur d'une PME de restauration, marié à Sofia, père de trois enfants (Amine, 12 ans, Lina, 9 ans, Sami, 5 ans).</p>
     <div class="perso-stat">3 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Émotion</div>
           <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/culpabilite-situation-conflit-monique/">Se libérer de la culpabilité en situation de conflit : l’histoire de Monique</a></h3>
@@ -988,20 +973,19 @@ draft: false
           </div>
           <a href="/posts/comprendre-et-maitriser-ses-emotions/regret-avec-ses-enfants/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-monique">
     <div class="perso-card-top">
-      <div class="perso-avatar">M</div>
       <h2 class="perso-name">Monique, 62 ans</h2>
       <p class="perso-job">Retraitée, ancienne professeure de français</p>
     </div>
     <p class="perso-bio">Monique est retraitée, ancienne professeure de français, veuve depuis 3 ans, deux enfants adultes, trois petits-enfants.</p>
     <div class="perso-stat">3 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Émotion</div>
           <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/gratitude-en-tant-que-manager/">Cultiver la gratitude en tant que manager : le chemin de Charlotte</a></h3>
@@ -1035,20 +1019,19 @@ draft: false
           </div>
           <a href="/posts/comprendre-et-maitriser-ses-emotions/impuissance-deuil-reprendre-main/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-djamila">
     <div class="perso-card-top">
-      <div class="perso-avatar">D</div>
       <h2 class="perso-name">Djamila, 36 ans</h2>
       <p class="perso-job">Travailleuse sociale dans une association d'aide aux femmes</p>
     </div>
     <p class="perso-bio">Djamila est travailleuse sociale dans une association d'aide aux femmes, séparée, en reconstruction, un fils (Adam, 6 ans).</p>
     <div class="perso-stat">3 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Schéma répétitif</div>
           <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/stress-post-traumatique-complexe-deuil/">Comprendre le stress post-traumatique complexe (C-PTSD) lors d'un deuil</a></h3>
@@ -1082,20 +1065,19 @@ draft: false
           </div>
           <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-negativite-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-fabien">
     <div class="perso-card-top">
-      <div class="perso-avatar">F</div>
       <h2 class="perso-name">Fabien, 50 ans</h2>
       <p class="perso-job">Cadre rh dans une entreprise industrielle</p>
     </div>
     <p class="perso-bio">Fabien est cadre RH dans une entreprise industrielle, divorcé depuis 2 ans, deux enfants (Marine, 20 ans et Lucas, 17 ans) chez leur mère.</p>
     <div class="perso-stat">3 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Biais cognitif</div>
           <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-cout-irrecoverable-rupture/">Biais du coût irrécupérable après une rupture amoureuse : comment s'en libérer</a></h3>
@@ -1129,20 +1111,19 @@ draft: false
           </div>
           <a href="/posts/comprendre-et-maitriser-ses-emotions/vide-interieur-decision-parentification/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
   <div class="perso-card" id="card-patrick">
     <div class="perso-card-top">
-      <div class="perso-avatar">P</div>
       <h2 class="perso-name">Patrick, 56 ans</h2>
       <p class="perso-job">Ancien ouvrier, maintenant chef d'équipe dans le btp</p>
     </div>
     <p class="perso-bio">Patrick est ancien ouvrier, maintenant chef d'équipe dans le BTP, marié à Catherine depuis 30 ans, deux enfants adultes, un petit-fils.</p>
     <div class="perso-stat">2 articles publiés</div>
-    <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
-      <div class="perso-parcours">
+    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!=='none';p.style.display=open?'none':'block';this.classList.toggle('is-open')">
+      Voir le parcours
+    </div>
+    <div class="perso-parcours" style="display:none">
         <div class="parcours-entry">
           <div class="parcours-cat">Biais cognitif</div>
           <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-angle-mort-solitude/">Comprendre le biais de l'angle mort face à la solitude</a></h3>
@@ -1165,7 +1146,6 @@ draft: false
           </div>
           <a href="/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-famille/" class="parcours-link">Lire l'article complet &rarr;</a>
         </div>
-      </div>
-    </details>
+    </div>
   </div>
 </div>

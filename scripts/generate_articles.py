@@ -2005,16 +2005,14 @@ def generate_character_tracking_page(personnages, matrix):
     for perso, arts in perso_data:
         prenom = perso["prenom"]
         genre = perso.get("genre", "M")
-        initiale = prenom[0].upper()
         nb = len(arts)
         bio = _perso_bio(perso)
         perso_id = prenom.lower().replace(" ", "-")
 
         lines.append(f'  <div class="perso-card" id="card-{perso_id}">')
 
-        # Avatar + identité
+        # Identité
         lines.append('    <div class="perso-card-top">')
-        lines.append(f'      <div class="perso-avatar">{initiale}</div>')
         lines.append(f'      <h2 class="perso-name">{prenom}, {perso["age"]} ans</h2>')
         lines.append(f'      <p class="perso-job">{perso["profession"].capitalize()}</p>')
         lines.append('    </div>')
@@ -2027,9 +2025,10 @@ def generate_character_tracking_page(personnages, matrix):
 
         # Détail dépliable
         if arts:
-            lines.append(f'    <details class="perso-details">')
-            lines.append(f'      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>')
-            lines.append(f'      <div class="perso-parcours">')
+            lines.append(f'    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!==\'none\';p.style.display=open?\'none\':\'block\';this.classList.toggle(\'is-open\')">')
+            lines.append(f'      Voir le parcours')
+            lines.append(f'    </div>')
+            lines.append(f'    <div class="perso-parcours" style="display:none">')
 
             for a in arts:
                 date = a.get("date", "")
@@ -2063,8 +2062,7 @@ def generate_character_tracking_page(personnages, matrix):
 
                 lines.append('        </div>')
 
-            lines.append('      </div>')
-            lines.append('    </details>')
+            lines.append('    </div>')
         else:
             il = "Elle" if genre == "F" else "Il"
             lines.append(f'    <p class="perso-waiting">{il} attend sa premi\u00e8re histoire...</p>')
