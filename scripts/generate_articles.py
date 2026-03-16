@@ -1948,23 +1948,14 @@ def _cat_label(cat_key):
     }.get(cat_key, cat_key)
 
 
-def _perso_bio(perso, nb_articles):
+def _perso_bio(perso):
     """Génère une courte bio pour la carte du personnage."""
     prenom = perso["prenom"]
     genre = perso.get("genre", "M")
     profession = perso["profession"]
     situation = perso["situation_familiale"]
-    traits = perso["traits_personnalite"]
-    il_elle = "Elle" if genre == "F" else "Il"
 
-    traits_str = ", ".join(traits[:3])
-    art_label = f"{nb_articles} article{'s' if nb_articles > 1 else ''}"
-
-    return (
-        f"{prenom} est {profession}, {situation}. "
-        f"{il_elle} se distingue par un tempérament {traits_str}. "
-        f"Découvrez son parcours à travers {art_label}."
-    )
+    return f"{prenom} est {profession}, {situation}."
 
 
 def generate_character_tracking_page(personnages, matrix):
@@ -2016,7 +2007,7 @@ def generate_character_tracking_page(personnages, matrix):
         genre = perso.get("genre", "M")
         initiale = prenom[0].upper()
         nb = len(arts)
-        bio = _perso_bio(perso, nb)
+        bio = _perso_bio(perso)
         perso_id = prenom.lower().replace(" ", "-")
 
         lines.append(f'  <div class="perso-card" id="card-{perso_id}">')
@@ -2028,10 +2019,6 @@ def generate_character_tracking_page(personnages, matrix):
         lines.append(f'      <p class="perso-job">{perso["profession"].capitalize()}</p>')
         lines.append('    </div>')
 
-        # Traits
-        traits_html = "".join(f'<span class="trait-tag">{t}</span>' for t in perso["traits_personnalite"])
-        lines.append(f'    <div class="perso-traits">{traits_html}</div>')
-
         # Bio courte
         lines.append(f'    <p class="perso-bio">{bio}</p>')
 
@@ -2041,7 +2028,7 @@ def generate_character_tracking_page(personnages, matrix):
         # Détail dépliable
         if arts:
             lines.append(f'    <details class="perso-details">')
-            lines.append(f'      <summary class="perso-toggle">Voir le parcours</summary>')
+            lines.append(f'      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>')
             lines.append(f'      <div class="perso-parcours">')
 
             for a in arts:

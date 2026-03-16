@@ -1,6 +1,6 @@
 ---
 title: "Nos Personnages"
-date: 2026-03-16T07:28:24+00:00
+date: 2026-03-16T07:35:44+00:00
 description: "Découvrez les 20 personnages récurrents du blog et suivez leur évolution psychologique au fil des articles."
 layout: "personnages"
 slug: "personnages"
@@ -14,11 +14,10 @@ draft: false
       <h2 class="perso-name">Sophie, 28 ans</h2>
       <p class="perso-job">Développeuse web dans une startup</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">perfectionniste</span><span class="trait-tag">introvertie</span><span class="trait-tag">analytique</span><span class="trait-tag">autocritique</span></div>
-    <p class="perso-bio">Sophie est développeuse web dans une startup, célibataire, vit seule en appartement en ville. Elle se distingue par un tempérament perfectionniste, introvertie, analytique. Découvrez son parcours à travers 6 articles.</p>
+    <p class="perso-bio">Sophie est développeuse web dans une startup, célibataire, vit seule en appartement en ville.</p>
     <div class="perso-stat">6 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Schéma répétitif</div>
@@ -95,11 +94,10 @@ draft: false
       <h2 class="perso-name">Nadia, 38 ans</h2>
       <p class="perso-job">Directrice marketing dans une entreprise tech</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">déterminée</span><span class="trait-tag">contrôlante</span><span class="trait-tag">exigeante</span><span class="trait-tag">leader naturelle</span></div>
-    <p class="perso-bio">Nadia est directrice marketing dans une entreprise tech, divorcée, mère d'une fille (Yasmine, 8 ans), garde alternée. Elle se distingue par un tempérament déterminée, contrôlante, exigeante. Découvrez son parcours à travers 6 articles.</p>
+    <p class="perso-bio">Nadia est directrice marketing dans une entreprise tech, divorcée, mère d'une fille (Yasmine, 8 ans), garde alternée.</p>
     <div class="perso-stat">6 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Biais cognitif</div>
@@ -176,11 +174,10 @@ draft: false
       <h2 class="perso-name">Thomas, 34 ans</h2>
       <p class="perso-job">Enseignant d'histoire-géographie au lycée</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">empathique</span><span class="trait-tag">people pleaser</span><span class="trait-tag">patient</span><span class="trait-tag">évite le conflit</span></div>
-    <p class="perso-bio">Thomas est enseignant d'histoire-géographie au lycée, en couple avec Émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité. Il se distingue par un tempérament empathique, people pleaser, patient. Découvrez son parcours à travers 5 articles.</p>
+    <p class="perso-bio">Thomas est enseignant d'histoire-géographie au lycée, en couple avec Émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité.</p>
     <div class="perso-stat">5 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Schéma répétitif</div>
@@ -246,11 +243,10 @@ draft: false
       <h2 class="perso-name">Lucas, 24 ans</h2>
       <p class="perso-job">Étudiant en dernière année d'école de commerce, en stage</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">sociable en surface</span><span class="trait-tag">compétitif</span><span class="trait-tag">insécure</span><span class="trait-tag">ambitieux</span></div>
-    <p class="perso-bio">Lucas est étudiant en dernière année d'école de commerce, en stage, célibataire, en colocation avec deux amis. Il se distingue par un tempérament sociable en surface, compétitif, insécure. Découvrez son parcours à travers 5 articles.</p>
+    <p class="perso-bio">Lucas est étudiant en dernière année d'école de commerce, en stage, célibataire, en colocation avec deux amis.</p>
     <div class="perso-stat">5 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Biais cognitif</div>
@@ -316,11 +312,10 @@ draft: false
       <h2 class="perso-name">Bernard, 58 ans</h2>
       <p class="perso-job">Artisan ébéniste, atelier en campagne</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">taiseux</span><span class="trait-tag">méticuleux</span><span class="trait-tag">fier</span><span class="trait-tag">pudique</span></div>
-    <p class="perso-bio">Bernard est artisan ébéniste, atelier en campagne, veuf depuis 5 ans, un fils avec qui les relations sont tendues. Il se distingue par un tempérament taiseux, méticuleux, fier. Découvrez son parcours à travers 5 articles.</p>
+    <p class="perso-bio">Bernard est artisan ébéniste, atelier en campagne, veuf depuis 5 ans, un fils avec qui les relations sont tendues.</p>
     <div class="perso-stat">5 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Émotion</div>
@@ -386,11 +381,10 @@ draft: false
       <h2 class="perso-name">Camille, 42 ans</h2>
       <p class="perso-job">Infirmière en service de cardiologie</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">hypersensible</span><span class="trait-tag">dévouée</span><span class="trait-tag">anxieuse</span><span class="trait-tag">maternelle</span></div>
-    <p class="perso-bio">Camille est infirmière en service de cardiologie, mariée à David, mère de deux enfants (Léo, 10 ans et Emma, 7 ans). Elle se distingue par un tempérament hypersensible, dévouée, anxieuse. Découvrez son parcours à travers 4 articles.</p>
+    <p class="perso-bio">Camille est infirmière en service de cardiologie, mariée à David, mère de deux enfants (Léo, 10 ans et Emma, 7 ans).</p>
     <div class="perso-stat">4 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Schéma répétitif</div>
@@ -445,11 +439,10 @@ draft: false
       <h2 class="perso-name">Adrien, 31 ans</h2>
       <p class="perso-job">Graphiste freelance</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">créatif</span><span class="trait-tag">émotif</span><span class="trait-tag">introspectif</span><span class="trait-tag">sensible aux ambiances</span></div>
-    <p class="perso-bio">Adrien est graphiste freelance, célibataire depuis une rupture difficile il y a un an. Il se distingue par un tempérament créatif, émotif, introspectif. Découvrez son parcours à travers 4 articles.</p>
+    <p class="perso-bio">Adrien est graphiste freelance, célibataire depuis une rupture difficile il y a un an.</p>
     <div class="perso-stat">4 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Schéma répétitif</div>
@@ -504,11 +497,10 @@ draft: false
       <h2 class="perso-name">Margot, 52 ans</h2>
       <p class="perso-job">En reconversion professionnelle, ancienne directrice commerciale, se forme au coaching</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">volontaire</span><span class="trait-tag">en quête de sens</span><span class="trait-tag">nostalgique</span><span class="trait-tag">courageuse</span></div>
-    <p class="perso-bio">Margot est en reconversion professionnelle, ancienne directrice commerciale, se forme au coaching, mariée à Philippe, deux enfants adultes partis de la maison (Martin, 26 ans et Chloé, 23 ans). Elle se distingue par un tempérament volontaire, en quête de sens, nostalgique. Découvrez son parcours à travers 4 articles.</p>
+    <p class="perso-bio">Margot est en reconversion professionnelle, ancienne directrice commerciale, se forme au coaching, mariée à Philippe, deux enfants adultes partis de la maison (Martin, 26 ans et Chloé, 23 ans).</p>
     <div class="perso-stat">4 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Émotion</div>
@@ -563,11 +555,10 @@ draft: false
       <h2 class="perso-name">Isabelle, 47 ans</h2>
       <p class="perso-job">Psychologue scolaire dans un collège</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">bienveillante</span><span class="trait-tag">lucide</span><span class="trait-tag">empathique</span><span class="trait-tag">épuisée émotionnellement</span></div>
-    <p class="perso-bio">Isabelle est psychologue scolaire dans un collège, divorcée, un fils adolescent (Théo, 16 ans). Elle se distingue par un tempérament bienveillante, lucide, empathique. Découvrez son parcours à travers 4 articles.</p>
+    <p class="perso-bio">Isabelle est psychologue scolaire dans un collège, divorcée, un fils adolescent (Théo, 16 ans).</p>
     <div class="perso-stat">4 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Schéma répétitif</div>
@@ -622,11 +613,10 @@ draft: false
       <h2 class="perso-name">Léa, 23 ans</h2>
       <p class="perso-job">Étudiante en master de psychologie clinique</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">idéaliste</span><span class="trait-tag">empathique</span><span class="trait-tag">passionnée</span><span class="trait-tag">tend à se surinvestir dans les relations</span></div>
-    <p class="perso-bio">Léa est étudiante en master de psychologie clinique, célibataire, vit en studio étudiant. Elle se distingue par un tempérament idéaliste, empathique, passionnée. Découvrez son parcours à travers 4 articles.</p>
+    <p class="perso-bio">Léa est étudiante en master de psychologie clinique, célibataire, vit en studio étudiant.</p>
     <div class="perso-stat">4 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Schéma répétitif</div>
@@ -681,11 +671,10 @@ draft: false
       <h2 class="perso-name">Hugo, 27 ans</h2>
       <p class="perso-job">Musicien semi-professionnel et serveur pour payer les factures</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">créatif</span><span class="trait-tag">passionné</span><span class="trait-tag">émotif</span><span class="trait-tag">instable</span></div>
-    <p class="perso-bio">Hugo est musicien semi-professionnel et serveur pour payer les factures, en relation instable avec Chloé, musicienne aussi. Il se distingue par un tempérament créatif, passionné, émotif. Découvrez son parcours à travers 4 articles.</p>
+    <p class="perso-bio">Hugo est musicien semi-professionnel et serveur pour payer les factures, en relation instable avec Chloé, musicienne aussi.</p>
     <div class="perso-stat">4 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Émotion</div>
@@ -740,11 +729,10 @@ draft: false
       <h2 class="perso-name">Priya, 33 ans</h2>
       <p class="perso-job">Médecin généraliste en cabinet de ville</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">compétente</span><span class="trait-tag">réservée</span><span class="trait-tag">évitante en amour</span><span class="trait-tag">surinvestie au travail</span></div>
-    <p class="perso-bio">Priya est médecin généraliste en cabinet de ville, célibataire, vit seule, relations épisodiques. Elle se distingue par un tempérament compétente, réservée, évitante en amour. Découvrez son parcours à travers 4 articles.</p>
+    <p class="perso-bio">Priya est médecin généraliste en cabinet de ville, célibataire, vit seule, relations épisodiques.</p>
     <div class="perso-stat">4 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Schéma répétitif</div>
@@ -799,11 +787,10 @@ draft: false
       <h2 class="perso-name">Stéphane, 45 ans</h2>
       <p class="perso-job">Commercial grands comptes dans une multinationale</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">sociable en apparence</span><span class="trait-tag">anxieux en privé</span><span class="trait-tag">compétitif</span><span class="trait-tag">masque social fort</span></div>
-    <p class="perso-bio">Stéphane est commercial grands comptes dans une multinationale, marié à Sandrine, père d'un adolescent (Maxime, 15 ans). Il se distingue par un tempérament sociable en apparence, anxieux en privé, compétitif. Découvrez son parcours à travers 4 articles.</p>
+    <p class="perso-bio">Stéphane est commercial grands comptes dans une multinationale, marié à Sandrine, père d'un adolescent (Maxime, 15 ans).</p>
     <div class="perso-stat">4 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Biais cognitif</div>
@@ -858,11 +845,10 @@ draft: false
       <h2 class="perso-name">Mei, 22 ans</h2>
       <p class="perso-job">Étudiante en école d'art, spécialité illustration</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">timide</span><span class="trait-tag">observatrice</span><span class="trait-tag">sensible</span><span class="trait-tag">perfectionniste artistique</span></div>
-    <p class="perso-bio">Mei est étudiante en école d'art, spécialité illustration, célibataire, vit en résidence étudiante. Elle se distingue par un tempérament timide, observatrice, sensible. Découvrez son parcours à travers 4 articles.</p>
+    <p class="perso-bio">Mei est étudiante en école d'art, spécialité illustration, célibataire, vit en résidence étudiante.</p>
     <div class="perso-stat">4 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Biais cognitif</div>
@@ -917,11 +903,10 @@ draft: false
       <h2 class="perso-name">Youssef, 29 ans</h2>
       <p class="perso-job">Ingénieur en informatique dans un grand groupe</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">réfléchi</span><span class="trait-tag">introverti</span><span class="trait-tag">loyal</span><span class="trait-tag">tendance à intellectualiser</span></div>
-    <p class="perso-bio">Youssef est ingénieur en informatique dans un grand groupe, en couple avec Léa depuis 2 ans, vit en appartement. Il se distingue par un tempérament réfléchi, introverti, loyal. Découvrez son parcours à travers 3 articles.</p>
+    <p class="perso-bio">Youssef est ingénieur en informatique dans un grand groupe, en couple avec Léa depuis 2 ans, vit en appartement.</p>
     <div class="perso-stat">3 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Biais cognitif</div>
@@ -965,11 +950,10 @@ draft: false
       <h2 class="perso-name">Karim, 40 ans</h2>
       <p class="perso-job">Entrepreneur, fondateur d'une pme de restauration</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">ambitieux</span><span class="trait-tag">charismatique</span><span class="trait-tag">impulsif</span><span class="trait-tag">généreux</span></div>
-    <p class="perso-bio">Karim est entrepreneur, fondateur d'une PME de restauration, marié à Sofia, père de trois enfants (Amine, 12 ans, Lina, 9 ans, Sami, 5 ans). Il se distingue par un tempérament ambitieux, charismatique, impulsif. Découvrez son parcours à travers 3 articles.</p>
+    <p class="perso-bio">Karim est entrepreneur, fondateur d'une PME de restauration, marié à Sofia, père de trois enfants (Amine, 12 ans, Lina, 9 ans, Sami, 5 ans).</p>
     <div class="perso-stat">3 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Émotion</div>
@@ -1013,11 +997,10 @@ draft: false
       <h2 class="perso-name">Monique, 62 ans</h2>
       <p class="perso-job">Retraitée, ancienne professeure de français</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">cultivée</span><span class="trait-tag">nostalgique</span><span class="trait-tag">attachée aux traditions</span><span class="trait-tag">secrètement anxieuse</span></div>
-    <p class="perso-bio">Monique est retraitée, ancienne professeure de français, veuve depuis 3 ans, deux enfants adultes, trois petits-enfants. Elle se distingue par un tempérament cultivée, nostalgique, attachée aux traditions. Découvrez son parcours à travers 3 articles.</p>
+    <p class="perso-bio">Monique est retraitée, ancienne professeure de français, veuve depuis 3 ans, deux enfants adultes, trois petits-enfants.</p>
     <div class="perso-stat">3 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Émotion</div>
@@ -1061,11 +1044,10 @@ draft: false
       <h2 class="perso-name">Djamila, 36 ans</h2>
       <p class="perso-job">Travailleuse sociale dans une association d'aide aux femmes</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">combative</span><span class="trait-tag">empathique</span><span class="trait-tag">méfiante</span><span class="trait-tag">résiliente</span></div>
-    <p class="perso-bio">Djamila est travailleuse sociale dans une association d'aide aux femmes, séparée, en reconstruction, un fils (Adam, 6 ans). Elle se distingue par un tempérament combative, empathique, méfiante. Découvrez son parcours à travers 3 articles.</p>
+    <p class="perso-bio">Djamila est travailleuse sociale dans une association d'aide aux femmes, séparée, en reconstruction, un fils (Adam, 6 ans).</p>
     <div class="perso-stat">3 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Schéma répétitif</div>
@@ -1109,11 +1091,10 @@ draft: false
       <h2 class="perso-name">Fabien, 50 ans</h2>
       <p class="perso-job">Cadre rh dans une entreprise industrielle</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">analytique</span><span class="trait-tag">réservé</span><span class="trait-tag">empathique au travail</span><span class="trait-tag">fermé dans sa vie perso</span></div>
-    <p class="perso-bio">Fabien est cadre RH dans une entreprise industrielle, divorcé depuis 2 ans, deux enfants (Marine, 20 ans et Lucas, 17 ans) chez leur mère. Il se distingue par un tempérament analytique, réservé, empathique au travail. Découvrez son parcours à travers 3 articles.</p>
+    <p class="perso-bio">Fabien est cadre RH dans une entreprise industrielle, divorcé depuis 2 ans, deux enfants (Marine, 20 ans et Lucas, 17 ans) chez leur mère.</p>
     <div class="perso-stat">3 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Biais cognitif</div>
@@ -1157,11 +1138,10 @@ draft: false
       <h2 class="perso-name">Patrick, 56 ans</h2>
       <p class="perso-job">Ancien ouvrier, maintenant chef d'équipe dans le btp</p>
     </div>
-    <div class="perso-traits"><span class="trait-tag">stoïque</span><span class="trait-tag">pudique émotionnellement</span><span class="trait-tag">fiable</span><span class="trait-tag">taiseux</span></div>
-    <p class="perso-bio">Patrick est ancien ouvrier, maintenant chef d'équipe dans le BTP, marié à Catherine depuis 30 ans, deux enfants adultes, un petit-fils. Il se distingue par un tempérament stoïque, pudique émotionnellement, fiable. Découvrez son parcours à travers 2 articles.</p>
+    <p class="perso-bio">Patrick est ancien ouvrier, maintenant chef d'équipe dans le BTP, marié à Catherine depuis 30 ans, deux enfants adultes, un petit-fils.</p>
     <div class="perso-stat">2 articles publiés</div>
     <details class="perso-details">
-      <summary class="perso-toggle">Voir le parcours</summary>
+      <summary class="perso-toggle">Voir le parcours <span class="toggle-arrow"></span></summary>
       <div class="perso-parcours">
         <div class="parcours-entry">
           <div class="parcours-cat">Biais cognitif</div>
