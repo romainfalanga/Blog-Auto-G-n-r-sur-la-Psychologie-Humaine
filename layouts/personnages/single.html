@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="personnages-page">
+  <div class="personnages-header reveal">
+    <h1>{{ .Title }}</h1>
+    <p class="personnages-subtitle">{{ .Description }}</p>
+  </div>
+
+  <div class="personnages-content">
+    {{ .Content }}
+  </div>
+</div>
+{{ end }}
