@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="personnages-page">
+  <div class="personnages-header reveal">
+    <h1>{{ .Title }}</h1>
+    <p class="personnages-subtitle">{{ .Description }}</p>
+  </div>
+
+  <div class="perso-grid">
+    {{ range .Pages }}
+    <div class="perso-card reveal-card">
+      <div class="perso-card-top">
+        <h2 class="perso-name">{{ .Title }}</h2>
+        <p class="perso-job">{{ .Params.profession }}</p>
+      </div>
+      <p class="perso-bio">{{ .Description }}</p>
+      <div class="perso-stat">{{ .Params.nb_articles }} article{{ if gt .Params.nb_articles 1 }}s{{ end }} publié{{ if gt .Params.nb_articles 1 }}s{{ end }}</div>
+      <a href="{{ .RelPermalink }}" class="perso-btn">Voir le parcours</a>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

@@ -1,0 +1,60 @@
+---
+title: "Priya, 33 ans"
+date: 2026-03-16T07:50:34+00:00
+description: "Priya est médecin généraliste en cabinet de ville, célibataire, vit seule, relations épisodiques."
+slug: "priya"
+prenom: "Priya"
+profession: "Médecin généraliste en cabinet de ville"
+situation: "Célibataire, vit seule, relations épisodiques"
+nb_articles: 4
+weight: 12
+draft: false
+---
+
+<h2 class="parcours-section-title">Parcours de Priya</h2>
+<div class="perso-parcours-list">
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-evitant-dans-intimite/">Attachement évitant-dédaigneux dans l'intimité et la sexualité</a></h3>
+    <div class="parcours-date">2026-03-08</div>
+    <p class="parcours-resume">Dans cet article, Priya traverse une situation liée à attachement évitant-dédaigneux (désactivation du système) dans l'intimité et la sexualité. Elle est confrontée à des mécanismes psychologiques qui influencent ses réactions et ses choix, et apprend à mieux les comprendre.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Priya prend conscience d'un schéma répétitif qui s'active dans cette situation. Malgré son côté compétente, elle commence à identifier les déclencheurs et à envisager d'autres façons de réagir.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-evitant-dans-intimite/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-entretien-embauche-hiroshi/">Apprendre la vulnérabilité lors d'un entretien d'embauche : le témoignage d'Hiroshi</a></h3>
+    <div class="parcours-date">2026-03-09</div>
+    <p class="parcours-resume">Dans cet article, Priya traverse une situation liée à vulnérabilité lors d'un entretien d'embauche. Elle est confrontée à des mécanismes psychologiques qui influencent ses réactions et ses choix, et apprend à mieux les comprendre.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Priya apprend à identifier et nommer ce qu'elle ressent dans cette situation, une étape importante pour mieux réguler ses émotions plutôt que de les subir.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-entretien-embauche-hiroshi/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-apres-succes/">Le gaslighting et la manipulation psychologique après un succès : comment aider</a></h3>
+    <div class="parcours-date">2026-03-11</div>
+    <p class="parcours-resume">Dans cet article, Priya traverse une situation liée à le gaslighting et la manipulation psychologique après un succès. Elle est confrontée à des mécanismes psychologiques qui influencent ses réactions et ses choix, et apprend à mieux les comprendre.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Priya prend conscience d'un schéma répétitif qui s'active dans cette situation. Malgré son côté compétente, elle commence à identifier les déclencheurs et à envisager d'autres façons de réagir.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-apres-succes/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-reconversion/">Le gaslighting et la manipulation psychologique en reconversion pro</a></h3>
+    <div class="parcours-date">2026-03-12</div>
+    <p class="parcours-resume">Dans cet article, Priya traverse une situation liée à le gaslighting et la manipulation psychologique en période de reconversion professionnelle. Elle est confrontée à des mécanismes psychologiques qui influencent ses réactions et ses choix, et apprend à mieux les comprendre.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Priya prend conscience d'un schéma répétitif qui s'active dans cette situation. Malgré son côté compétente, elle commence à identifier les déclencheurs et à envisager d'autres façons de réagir.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-reconversion/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+</div>

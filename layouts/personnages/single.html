@@ -1,12 +1,26 @@
 {{ define "main" }}
 <div class="personnages-page">
-  <div class="personnages-header reveal">
-    <h1>{{ .Title }}</h1>
-    <p class="personnages-subtitle">{{ .Description }}</p>
+  <nav class="breadcrumb" aria-label="Fil d'Ariane">
+    <a href="/">Accueil</a>
+    <span class="separator">/</span>
+    <a href="/personnages/">Nos Personnages</a>
+    <span class="separator">/</span>
+    <span>{{ .Params.prenom }}</span>
+  </nav>
+
+  <div class="perso-profile reveal">
+    <h1 class="perso-profile-name">{{ .Title }}</h1>
+    <p class="perso-profile-job">{{ .Params.profession }}</p>
+    <p class="perso-profile-situation">{{ .Params.situation }}</p>
+    <p class="perso-profile-bio">{{ .Description }}</p>
   </div>
 
-  <div class="personnages-content">
+  <div class="perso-parcours-page">
     {{ .Content }}
+  </div>
+
+  <div class="perso-back">
+    <a href="/personnages/" class="perso-btn-outline">&#8592; Retour aux personnages</a>
   </div>
 </div>
 {{ end }}

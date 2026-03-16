@@ -38,6 +38,7 @@ title = "Décode ton esprit — Comprends-toi grâce à la psychologie"
 
 [permalinks]
   posts = "/:sections/:slug/"
+  personnages = "/personnages/:slug/"
 
 [menu]
   [[menu.main]]

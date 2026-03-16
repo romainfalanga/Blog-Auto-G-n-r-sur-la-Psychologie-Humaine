@@ -1007,42 +1007,111 @@ main {
   margin-top: 0.5rem;
 }
 
-/* ── Bouton Voir le parcours ── */
-.perso-toggle {
+/* ── Bouton Voir le parcours (lien vers page individuelle) ── */
+.perso-btn {
   display: block;
   width: 100%;
   padding: 0.85rem 1.5rem;
   margin-top: auto;
   font-size: 0.9rem;
   font-weight: 600;
-  color: #fff;
+  color: #fff !important;
   background: var(--color-accent);
   border: none;
   border-radius: 24px;
   cursor: pointer;
   text-align: center;
+  text-decoration: none !important;
   letter-spacing: 0.02em;
   transition: background 0.25s ease, box-shadow 0.25s ease, transform 0.2s ease;
-  user-select: none;
 }
 
-.perso-toggle:hover {
+.perso-btn:hover {
   background: var(--color-accent-hover);
+  color: #fff !important;
   box-shadow: 0 4px 16px rgba(74, 158, 142, 0.3);
   transform: translateY(-2px);
+  text-decoration: none !important;
 }
 
-.perso-toggle.is-open {
-  background: var(--color-accent-hover);
-  border-radius: 24px 24px 0 0;
+/* ── Bouton retour (outline) ── */
+.perso-btn-outline {
+  display: inline-block;
+  padding: 0.7rem 1.8rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--color-accent) !important;
+  background: transparent;
+  border: 1.5px solid var(--color-accent);
+  border-radius: 24px;
+  text-decoration: none !important;
+  transition: background 0.25s ease, color 0.25s ease, box-shadow 0.25s ease;
 }
 
-/* ── Parcours (timeline inside details) ── */
-.perso-parcours {
+.perso-btn-outline:hover {
+  background: var(--color-accent);
+  color: #fff !important;
+  box-shadow: 0 4px 16px rgba(74, 158, 142, 0.25);
+  text-decoration: none !important;
+}
+
+/* ── Page individuelle personnage ── */
+.perso-profile {
+  max-width: var(--max-width);
+  margin: 0 auto var(--spacing-lg);
+  text-align: center;
+}
+
+.perso-profile-name {
+  font-size: 2.2rem;
+  margin-bottom: 0.4rem;
+}
+
+.perso-profile-job {
+  font-size: 1.1rem;
+  color: var(--color-accent);
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.perso-profile-situation {
+  font-size: 0.95rem;
+  color: var(--color-text-light);
+  margin-bottom: var(--spacing-sm);
+}
+
+.perso-profile-bio {
+  font-size: 1rem;
+  color: var(--color-text);
+  line-height: 1.7;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.parcours-section-title {
+  font-size: 1.4rem;
+  margin-top: 0;
+  margin-bottom: var(--spacing-md);
+  padding-bottom: var(--spacing-xs);
+  border-bottom: 2px solid var(--color-accent);
+  display: inline-block;
+}
+
+.perso-parcours-page {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+.perso-parcours-list {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
-  padding-top: 0.5rem;
+  gap: 1.25rem;
+}
+
+.perso-back {
+  max-width: var(--max-width);
+  margin: var(--spacing-lg) auto 0;
+  text-align: center;
 }
 
 .parcours-entry {
@@ -1151,14 +1220,12 @@ main {
     padding: 1.15rem;
   }
 
-  .perso-avatar {
-    width: 52px;
-    height: 52px;
-    font-size: 1.35rem;
-  }
-
   .perso-name {
     font-size: 1.1rem;
+  }
+
+  .perso-profile-name {
+    font-size: 1.7rem;
   }
 
   .parcours-entry {

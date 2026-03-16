@@ -1948,21 +1948,14 @@ def _cat_label(cat_key):
     }.get(cat_key, cat_key)
 
 
-def _perso_bio(perso):
-    """Génère une courte bio pour la carte du personnage."""
-    prenom = perso["prenom"]
-    genre = perso.get("genre", "M")
-    profession = perso["profession"]
-    situation = perso["situation_familiale"]
-
-    return f"{prenom} est {profession}, {situation}."
-
-
 def generate_character_tracking_page(personnages, matrix):
-    """Génère une page Hugo avec grille de cartes et détail dépliable par personnage.
+    """Génère la section Hugo /personnages/ avec :
+    - _index.md : page grille des 20 personnages (gérée par list.html)
+    - un fichier .md par personnage avec sa timeline d'articles (géré par single.html)
 
-    Niveau 1 : Grille de 20 cartes (avatar, nom, bio, bouton)
-    Niveau 2 : Détail dépliable avec timeline des articles + résumé narratif
+    Les pages individuelles sont automatiquement mises à jour à chaque run.
+    Le frontmatter contient toutes les données nécessaires au template Hugo.
+    Le contenu HTML contient la timeline des articles.
     """
     articles = matrix.get("articles", [])
 
@@ -1976,59 +1969,65 @@ def generate_character_tracking_page(personnages, matrix):
     for prenom in perso_articles:
         perso_articles[prenom].sort(key=lambda x: x.get("date", ""))
 
-    # Préparer les données de chaque personnage
+    # Préparer les données
     perso_data = []
     for perso in personnages:
         prenom = perso["prenom"]
         arts = perso_articles.get(prenom, [])
         perso_data.append((perso, arts))
 
-    # Trier par nombre d'articles décroissant
     perso_data.sort(key=lambda x: len(x[1]), reverse=True)
 
-    # Générer la page
+    # Répertoire de sortie
+    perso_dir = REPO_ROOT / "content" / "personnages"
+    perso_dir.mkdir(parents=True, exist_ok=True)
+
     date_str = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
 
-    lines = []
-    lines.append("---")
-    lines.append('title: "Nos Personnages"')
-    lines.append(f"date: {date_str}")
-    lines.append('description: "Découvrez les 20 personnages récurrents du blog et suivez leur évolution psychologique au fil des articles."')
-    lines.append('layout: "personnages"')
-    lines.append('slug: "personnages"')
-    lines.append("draft: false")
-    lines.append("---\n")
+    # ── 1. _index.md (page grille — utilisée par list.html) ──
+    index_lines = []
+    index_lines.append("---")
+    index_lines.append('title: "Nos Personnages"')
+    index_lines.append(f"date: {date_str}")
+    index_lines.append('description: "Découvrez les 20 personnages récurrents du blog et suivez leur évolution psychologique au fil des articles."')
+    index_lines.append("draft: false")
+    index_lines.append("---")
 
-    # ── GRILLE DE CARTES ──
-    lines.append('<div class="perso-grid">')
+    index_file = perso_dir / "_index.md"
+    with open(index_file, "w", encoding="utf-8") as f:
+        f.write("\n".join(index_lines))
 
-    for perso, arts in perso_data:
+    print(f"  [Suivi] Page grille personnages : {index_file}")
+
+    # ── 2. Une page .md par personnage ──
+    for weight, (perso, arts) in enumerate(perso_data, start=1):
         prenom = perso["prenom"]
         genre = perso.get("genre", "M")
         nb = len(arts)
-        bio = _perso_bio(perso)
-        perso_id = prenom.lower().replace(" ", "-")
+        slug = perso.get("id", prenom.lower().replace(" ", "-"))
+        profession = perso["profession"]
+        situation = perso["situation_familiale"]
+        bio = f"{prenom} est {profession}, {situation}."
 
-        lines.append(f'  <div class="perso-card" id="card-{perso_id}">')
+        # Frontmatter
+        lines = []
+        lines.append("---")
+        lines.append(f'title: "{prenom}, {perso["age"]} ans"')
+        lines.append(f"date: {date_str}")
+        lines.append(f'description: "{bio}"')
+        lines.append(f'slug: "{slug}"')
+        lines.append(f'prenom: "{prenom}"')
+        lines.append(f'profession: "{profession.capitalize()}"')
+        lines.append(f'situation: "{situation.capitalize()}"')
+        lines.append(f"nb_articles: {nb}")
+        lines.append(f"weight: {weight}")
+        lines.append("draft: false")
+        lines.append("---\n")
 
-        # Identité
-        lines.append('    <div class="perso-card-top">')
-        lines.append(f'      <h2 class="perso-name">{prenom}, {perso["age"]} ans</h2>')
-        lines.append(f'      <p class="perso-job">{perso["profession"].capitalize()}</p>')
-        lines.append('    </div>')
-
-        # Bio courte
-        lines.append(f'    <p class="perso-bio">{bio}</p>')
-
-        # Stats
-        lines.append(f'    <div class="perso-stat">{nb} article{"s" if nb > 1 else ""} publi\u00e9{"s" if nb > 1 else ""}</div>')
-
-        # Détail dépliable
+        # Contenu HTML : timeline des articles
         if arts:
-            lines.append(f'    <div class="perso-toggle" onclick="var p=this.nextElementSibling;var open=p.style.display!==\'none\';p.style.display=open?\'none\':\'block\';this.classList.toggle(\'is-open\')">')
-            lines.append(f'      Voir le parcours')
-            lines.append(f'    </div>')
-            lines.append(f'    <div class="perso-parcours" style="display:none">')
+            lines.append(f'<h2 class="parcours-section-title">Parcours de {prenom}</h2>')
+            lines.append('<div class="perso-parcours-list">')
 
             for a in arts:
                 date = a.get("date", "")
@@ -2038,50 +2037,48 @@ def generate_character_tracking_page(personnages, matrix):
                 evolution = _to_str(a.get("evolution", ""))
                 url = _build_article_url(a)
 
-                lines.append('        <div class="parcours-entry">')
-                lines.append(f'          <div class="parcours-cat">{_cat_label(cat_key)}</div>')
+                lines.append('  <div class="parcours-entry">')
+                lines.append(f'    <div class="parcours-cat">{_cat_label(cat_key)}</div>')
 
                 if url:
-                    lines.append(f'          <h3 class="parcours-title"><a href="{url}">{title}</a></h3>')
+                    lines.append(f'    <h3 class="parcours-title"><a href="{url}">{title}</a></h3>')
                 else:
-                    lines.append(f'          <h3 class="parcours-title">{title}</h3>')
+                    lines.append(f'    <h3 class="parcours-title">{title}</h3>')
 
-                lines.append(f'          <div class="parcours-date">{date}</div>')
+                lines.append(f'    <div class="parcours-date">{date}</div>')
 
                 if resume:
-                    lines.append(f'          <p class="parcours-resume">{resume}</p>')
+                    lines.append(f'    <p class="parcours-resume">{resume}</p>')
 
                 if evolution:
-                    lines.append(f'          <div class="parcours-evolution">')
-                    lines.append(f'            <span class="evolution-label">\u00c9volution</span>')
-                    lines.append(f'            <p>{evolution}</p>')
-                    lines.append(f'          </div>')
+                    lines.append(f'    <div class="parcours-evolution">')
+                    lines.append(f'      <span class="evolution-label">\u00c9volution</span>')
+                    lines.append(f'      <p>{evolution}</p>')
+                    lines.append(f'    </div>')
 
                 if url:
-                    lines.append(f'          <a href="{url}" class="parcours-link">Lire l\'article complet &rarr;</a>')
+                    lines.append(f'    <a href="{url}" class="parcours-link">Lire l\'article complet &rarr;</a>')
 
-                lines.append('        </div>')
+                lines.append('  </div>')
 
-            lines.append('    </div>')
+            lines.append('</div>')
         else:
             il = "Elle" if genre == "F" else "Il"
-            lines.append(f'    <p class="perso-waiting">{il} attend sa premi\u00e8re histoire...</p>')
+            lines.append(f'<p class="perso-waiting">{il} attend sa premi\u00e8re histoire...</p>')
 
-        lines.append('  </div>')
+        # Écrire le fichier
+        perso_file = perso_dir / f"{slug}.md"
+        with open(perso_file, "w", encoding="utf-8") as f:
+            f.write("\n".join(lines))
 
-    lines.append('</div>')
+    # Supprimer l'ancien fichier personnages.md à la racine de content/
+    old_file = REPO_ROOT / "content" / "personnages.md"
+    if old_file.exists():
+        old_file.unlink()
+        print(f"  [Suivi] Ancien fichier supprimé : {old_file}")
 
-    # Écrire le fichier
-    tracking_dir = REPO_ROOT / "content"
-    tracking_dir.mkdir(parents=True, exist_ok=True)
-    tracking_file = tracking_dir / "personnages.md"
-
-    full_content = "\n".join(lines)
-    with open(tracking_file, "w", encoding="utf-8") as f:
-        f.write(full_content)
-
-    print(f"  [Suivi] Page de suivi des personnages générée : {tracking_file}")
-    return tracking_file
+    print(f"  [Suivi] {len(perso_data)} pages personnages générées dans {perso_dir}")
+    return perso_dir
 
 
 # ============================================
