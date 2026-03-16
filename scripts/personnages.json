@@ -1042,6 +1042,14 @@
           "category": "cat1_pensees",
           "titre": "Biais d'engagement en famille : quand on s'enlise",
           "slug": "biais-engagement-famille"
+        },
+        {
+          "date": "2026-03-16",
+          "sujet": "regret",
+          "contexte": "avec ses enfants",
+          "category": "cat2_emotions",
+          "titre": "Regret avec ses enfants : comprendre et agir",
+          "slug": "regret-avec-ses-enfants"
         }
       ],
       "genre": "M"
@@ -1454,6 +1462,14 @@
           "category": "cat3_schemas",
           "titre": "Comprendre le stress post-traumatique complexe (C-PTSD) lors d'un deuil",
           "slug": "stress-post-traumatique-complexe-deuil"
+        },
+        {
+          "date": "2026-03-16",
+          "sujet": "biais de négativité",
+          "contexte": "en situation de conflit",
+          "category": "cat1_pensees",
+          "titre": "Biais de négativité en situation de conflit : comment il nous piège",
+          "slug": "biais-negativite-conflit"
         }
       ],
       "genre": "F"
@@ -1704,6 +1720,14 @@
           "category": "cat2_emotions",
           "titre": "Apathie en situation de conflit : comprendre et agir",
           "slug": "apathie-conflit-bernard"
+        },
+        {
+          "date": "2026-03-16",
+          "sujet": "surcontrôle émotionnel/inhibition",
+          "contexte": "avec ses parents",
+          "category": "cat3_schemas",
+          "titre": "Surcontrôle émotionnel et inhibition avec ses parents",
+          "slug": "surcontrole-emotionnel-parents"
         }
       ],
       "genre": "M"

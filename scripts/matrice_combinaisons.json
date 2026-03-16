@@ -1685,6 +1685,81 @@
       "resume_narratif": "Le 15 mars 2026, lors d'une discussion tendue dans leur cuisine, Thomas tente d'imposer des solutions aux problèmes professionnels d'Émilie au lieu de l'écouter. Cette interaction déclenche un conflit où Thomas réalise qu'il a endossé son rôle habituel de sauveur au sein du triangle de Karpman.",
       "evolution": "Thomas prend conscience que son automatisme de sauveur sert à masquer des angoisses plus profondes, notamment sa peur de décevoir et son appréhension face au sujet de la parentalité.",
       "elements_cles": "Émilie (compagne), cuisine (lieu), 15 mars 2026, triangle de Karpman (sauveur), sujet de la parentalité, articles précédents (7 et 12 mars), exercices sur l'assujettissement."
+    },
+    {
+      "date": "2026-03-16",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de négativité",
+      "contexte": "en situation de conflit",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Djamila",
+      "age": "36 ans",
+      "title": "Biais de négativité en situation de conflit : comment il nous piège",
+      "slug": "biais-negativite-conflit",
+      "tags": [
+        "biais cognitif",
+        "négativité",
+        "conflits",
+        "psychologie",
+        "résilience"
+      ],
+      "resume_narratif": "Lors d'une réunion de crise au sein de son association, Djamila interprète le froncement de sourcils d'un collègue comme un signe d'hostilité imminente. Malgré l'accélération de son rythme cardiaque et l'activation de ses vieux réflexes de protection, elle parvient à identifier son biais de négativité et l'influence de son driver 'Sois Parfaite'.",
+      "evolution": "Djamila réussit à mettre de la distance entre ses traumatismes passés (C-PTSD) et la situation présente en utilisant des techniques d'ancrage. Elle comprend que son hypervigilance, autrefois nécessaire pour protéger son fils Adam, n'est plus adaptée à son environnement professionnel actuel.",
+      "elements_cles": "Association (salle de réunion), Adam (son fils), Dr Martin (thérapeute), journal de bord (entrée du 7 mars), techniques d'ancrage (respire, observe, demande), driver 'Sois Parfaite', antécédents de relation manipulatrice.",
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "On démontre que son mécanisme de survie, utile face à Samir, est devenu un biais cognitif automatique qui colore ses interactions neutres au travail, transformant une simple divergence d'opinion en signal de danger."
+    },
+    {
+      "date": "2026-03-16",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "regret",
+      "contexte": "avec ses enfants",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": null,
+      "prenom": "Karim",
+      "age": "40 ans",
+      "title": "Regret avec ses enfants : comprendre et agir",
+      "slug": "regret-avec-ses-enfants",
+      "tags": [
+        "regret",
+        "parentalité",
+        "équilibre-vie-travail",
+        "psychologie",
+        "remords"
+      ],
+      "resume_narratif": "Seul dans son bureau tard le soir, Karim reçoit une vidéo de son fils Sami perdant sa première dent, un moment qu'il a manqué à cause de son travail. Ce message déclenche une profonde réflexion sur ses absences répétées, notamment son absence récente au spectacle de sa fille Lina.",
+      "evolution": "Karim identifie la nature de son sentiment comme étant du regret lié à ses inactions passées. Il commence à faire la distinction entre ce qu'il peut réparer concrètement et le remords moral persistant.",
+      "elements_cles": "Sofia (conjointe), Sami (fils de 5 ans), Lina (fille), bureau de sa PME, article du 2 mars sur la colère, technique de respiration courte, distinction action/inaction.",
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "L'article distingue le regret (lié à l'action) du remords (lié à la morale), montrant comment Karim traite la perte de moments précieux avec ses enfants au profit de l'expansion de sa PME."
+    },
+    {
+      "date": "2026-03-16",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "surcontrôle émotionnel/inhibition",
+      "contexte": "avec ses parents",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Bernard",
+      "age": "58 ans",
+      "title": "Surcontrôle émotionnel et inhibition avec ses parents",
+      "slug": "surcontrole-emotionnel-parents",
+      "tags": [
+        "surcontrôle émotionnel",
+        "inhibition",
+        "enfance",
+        "éducation",
+        "relations familiales"
+      ],
+      "resume_narratif": "Le 16 mars 2026, Bernard travaille dans son atelier de menuiserie sur une commode destinée à son fils Éric. Alors qu'Éric tente d'engager la conversation, Bernard se réfugie dans le travail manuel pour éviter d'affronter la tension émotionnelle et le conflit latent.",
+      "evolution": "Bernard prend conscience que son mutisme et son surcontrôle émotionnel sont des mécanismes de survie hérités de son enfance, utilisés jadis pour fuir le jugement de ses propres parents.",
+      "elements_cles": "Atelier de menuiserie (odeur de sciure, radio, chien Sultan) ; Éric (fils) ; parents de Bernard (source de l'inhibition) ; deuil d'Hélène ; dates clés des prises de conscience précédentes (12 et 15 mars).",
+      "strategie_coherence": "connecter",
+      "apport_psychologique": "On relie sa pudeur d'artisan à une structure psychologique rigide héritée, montrant que son silence n'est pas un manque d'amour, mais une incapacité technique à formuler l'affect, apprise durant l'enfance."
     }
   ]
 }
