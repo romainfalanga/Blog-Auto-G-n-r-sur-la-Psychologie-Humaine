@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "date": "2026-03-03",
-      "category_key": "cat3_schemas",
-      "category_name": "Sortir de ses schémas répétitifs",
-      "sujet": "abnégation/sacrifice de soi",
-      "contexte": "parentalité",
-      "angle": "",
-      "profil": null,
-      "prenom": "Léa",
-      "age": "",
-      "title": "Sacrifice de soi et parentalité : les signes qui ne trompent pas",
-      "slug": "schema-abnegation-sacrifice-parentalite",
-      "tags": [
-        "abnégation",
-        "sacrifice de soi",
-        "schéma de Young",
-        "parentalité",
-        "charge mentale"
-      ]
-    },
-    {
       "date": "2026-03-07",
       "category_key": "cat3_schemas",
       "category_name": "Sortir de ses schémas répétitifs",
@@ -58,46 +38,6 @@
         "émotions",
         "gestion émotionnelle",
         "bien-être"
-      ]
-    },
-    {
-      "date": "2026-03-02",
-      "category_key": "cat2_emotions",
-      "category_name": "Comprendre et maîtriser ses émotions",
-      "sujet": "colère",
-      "contexte": "en couple",
-      "angle": "",
-      "profil": null,
-      "prenom": "Karim",
-      "age": "",
-      "title": "La colère en couple : ce que personne ne vous dit",
-      "slug": "colere-en-couple",
-      "tags": [
-        "colère",
-        "émotions en couple",
-        "régulation émotionnelle",
-        "blessures émotionnelles",
-        "gestion de la colère"
-      ]
-    },
-    {
-      "date": "2026-03-01",
-      "category_key": "cat1_pensees",
-      "category_name": "Reprendre le contrôle de ses pensées",
-      "sujet": "biais de confirmation",
-      "contexte": "au travail",
-      "angle": "",
-      "profil": null,
-      "prenom": "Sophie",
-      "age": "",
-      "title": "Le biais de confirmation au travail : quand votre cerveau filtre la réalité",
-      "slug": "biais-de-confirmation-au-travail",
-      "tags": [
-        "biais de confirmation",
-        "biais cognitifs",
-        "relations au travail",
-        "psychologie cognitive",
-        "pensées automatiques"
       ]
     },
     {
@@ -1050,7 +990,7 @@
       "contexte": "en période de reconversion professionnelle",
       "angle": "comment s'en libérer concrètement",
       "profil": "en burn-out",
-      "prenom": "Djamila",
+      "prenom": "Margot",
       "age": "jeune adulte (20-25 ans)",
       "title": "Se libérer des drivers contraignants en reconversion pro",
       "slug": "drivers-messages-contraignants-reconversion",
