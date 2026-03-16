@@ -156,13 +156,12 @@ hr {
 .container {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 0 var(--spacing-md);
 }
 
 .container-wide {
   max-width: var(--max-width-wide);
   margin: 0 auto;
-  padding: 0 var(--spacing-md);
+}
 }
 
 /* ========================================
@@ -288,7 +287,7 @@ hr {
    ======================================== */
 .hero {
   text-align: center;
-  padding: var(--spacing-md) var(--spacing-md) var(--spacing-lg);
+  padding: var(--spacing-md) 0 var(--spacing-lg);
   max-width: var(--max-width);
   margin: 0 auto;
   animation: fadeIn 0.8s ease;
@@ -644,7 +643,6 @@ hr {
 .list-page {
   max-width: var(--max-width-wide);
   margin: 0 auto;
-  padding: 0 var(--spacing-md);
 }
 
 .category-header {
@@ -808,6 +806,19 @@ main {
   padding: var(--spacing-lg) var(--spacing-md);
 }
 
+/* ── Mobile: reduce main padding ── */
+@media (max-width: 768px) {
+  main {
+    padding: var(--spacing-md) 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  main {
+    padding: var(--spacing-sm) 0.75rem;
+  }
+}
+
 /* ========================================
    VIEW ALL LINK
    ======================================== */
@@ -847,10 +858,6 @@ main {
     padding-top: 0.75rem;
   }
 
-  .single-article {
-    padding: 0 1.25rem;
-  }
-
   .single-article h1 {
     font-size: 1.7rem;
     line-height: 1.25;
@@ -871,10 +878,6 @@ main {
   .hero .tagline { font-size: 1rem; }
   .category-header h1 { font-size: 1.8rem; }
   .article-card { padding: 1.25rem; }
-
-  .single-article {
-    padding: 0 1rem;
-  }
 
   .single-article h1 {
     font-size: 1.5rem;
