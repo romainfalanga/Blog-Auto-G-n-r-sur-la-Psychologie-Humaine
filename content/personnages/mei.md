@@ -17,7 +17,7 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/embarras-en-societe-interactions/">Embarras en société : comprendre la gêne et agir</a></h3>
     <div class="parcours-date">2026-03-12</div>
-    <p class="parcours-resume">Lors d'une réunion informelle, une plaisanterie place Mei au centre de la conversation sans qu'elle l'ait cherché. Ses joues chauffent, sa voix se tasse, et elle a l'impression que tous les regards la jugent, prisonnière d'un embarras qui la fige dans les interactions sociales.</p>
+    <p class="parcours-resume">Lors d'un vernissage organisé par son école d'art, une plaisanterie place Mei, 22 ans, au centre de la conversation sans qu'elle l'ait cherché. Ses joues chauffent, sa voix se tasse, et elle a l'impression que tous les regards la jugent, tandis que son amie Océane lui fait signe en vain.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Mei apprend à identifier et nommer ce qu'elle ressent dans cette situation, une étape importante pour mieux réguler ses émotions plutôt que de les subir.</p>

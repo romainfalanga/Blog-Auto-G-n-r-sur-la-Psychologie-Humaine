@@ -17,7 +17,7 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/impuissance-deuil-reprendre-main/">Impuissance lors d'un deuil : comprendre et reprendre la main</a></h3>
     <div class="parcours-date">2026-03-12</div>
-    <p class="parcours-resume">Monique fixe sa tasse de thé refroidie, sans envie de la porter à ses lèvres. Depuis son deuil, chaque geste quotidien est devenu un effort, chaque inspiration semble traverser un épais rideau, la laissant face à un sentiment d'impuissance qui paralyse sa capacité à avancer.</p>
+    <p class="parcours-resume">Monique fixe sa tasse de thé refroidie dans la grande maison silencieuse depuis la disparition de Jean-Claude. Chaque geste quotidien est devenu un effort, chaque inspiration semble traverser un épais rideau, la laissant face à un sentiment d'impuissance qui paralyse sa capacité à avancer.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Monique apprend à identifier et nommer ce qu'elle ressent dans cette situation, une étape importante pour mieux réguler ses émotions plutôt que de les subir.</p>

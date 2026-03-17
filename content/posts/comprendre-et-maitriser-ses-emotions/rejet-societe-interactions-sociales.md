@@ -13,11 +13,11 @@ contexte: "en société et dans les interactions sociales"
 draft: false
 ---
 
-Léa déglutit lentement, ses mains légèrement moites serrant la petite tasse de café devant elle. Autour d'elle, la terrasse du café bruissait de conversations animées, de rires et de regards échangés sans effort apparent. Pourtant, pour Léa, chaque minute passée ici était un défi. Invitée à une fête la veille, elle avait réussi à échanger quelques mots, mais un sentiment lourd de rejet s'était immiscé, lui rappelant qu’elle n’était pas vraiment à sa place. Ce matin, alors qu’elle attendait un ami, elle se demandait s’elle oserait vraiment engager la conversation avec quelqu’un d’autre. Cette peur familière, ce poids d’être invisible ou, pire, non désiré, le tenaillait.  
+Léa déglutit lentement, ses mains légèrement moites serrant la petite tasse de café devant elle. Autour d'elle, la terrasse du café bruissait de conversations animées, de rires et de regards échangés sans effort apparent. Pourtant, pour Léa, chaque minute passée ici était un défi. Invitée à une fête la veille, elle avait réussi à échanger quelques mots, mais un sentiment lourd de rejet s'était immiscé, lui rappelant qu’elle n’était pas vraiment à sa place. Ce matin, alors qu’elle attendait son amie Zoé sur la terrasse de leur café habituel près de la fac, elle se demandait s’elle oserait vraiment engager la conversation avec quelqu’un d’autre. Cette peur familière, ce poids d’être invisible ou, pire, non désirée, la tenaillait.  
 
-Ce malaise, elle le connaissait bien. Depuis l’enfance, elle avait appris à rester en retrait, à éviter les regards trop insistants, de peur d’être critiqué ou mis à l’écart. En grandissant, ces sensations avaient pris la forme d’une peur sourde du rejet, particulièrement vive dans ses interactions sociales. Ce n’était pas une simple timidité passagère, mais un véritable mécanisme émotionnel qui influençait sa manière d’aborder le monde.  
+Ce malaise, elle le connaissait bien. Depuis le divorce de ses parents quand elle avait 6 ans, elle avait appris à rester en retrait, à éviter les regards trop insistants, de peur d’être critiquée ou mise à l’écart. Ce sentiment d’abandon, elle le portait encore à 23 ans, étudiante en master de psychologie clinique, passionnée par les mécanismes qu’elle étudiait dans les livres mais qu’elle n’arrivait pas à désamorcer en elle-même. En grandissant, ces sensations avaient pris la forme d’une peur sourde du rejet, particulièrement vive dans ses interactions sociales. Ce n’était pas une simple timidité passagère, mais un véritable mécanisme émotionnel qui influençait sa manière d’aborder le monde.  
 
-Léa vient de vivre une expérience que beaucoup de personnes timides connaissent : se sentir rejetée en société et dans les interactions sociales, souvent sans qu’aucun mot ne soit prononcé. Le rejet est ce ressenti douloureux d’être exclue ou non accepté par un groupe ou une personne. C’est une émotion universelle, mais elle est particulièrement sensible chez ceux qui, comme Léa, ont une histoire personnelle marquée par des expériences d’exclusion ou de jugement dès l’enfance.  
+Léa vient de vivre une expérience que beaucoup de personnes timides connaissent : se sentir rejetée en société et dans les interactions sociales, souvent sans qu’aucun mot ne soit prononcé. Le rejet est ce ressenti douloureux d’être exclue ou non acceptée par un groupe ou une personne. C’est une émotion universelle, mais elle est particulièrement sensible chez ceux qui, comme Léa, ont une histoire personnelle marquée par des expériences d’exclusion ou de jugement dès l’enfance.  
 
 ### Qu’est-ce que le rejet en société et dans les interactions sociales ?  
 
@@ -51,14 +51,14 @@ Voici trois exercices que Léa a commencé à pratiquer, et que vous pouvez appl
    Chaque fois que vous ressentez un rejet, essayez de reformuler la situation de manière plus douce. Par exemple, au lieu de penser « Ils m’ont ignoré, je suis nul », dites-vous « Peut-être qu’ils étaient juste préoccupés aujourd’hui ». Cette technique permet de réduire la charge émotionnelle négative associée au rejet.  
 
 2. **La mise en situation progressive**  
-   Commencez par des petites interactions sociales faciles : dire bonjour au voisin, poser une question simple à un collègue. Augmentez graduellement la difficulté pour reconstruire une confiance sociale sans être submergée. Léa a trouvé cette méthode efficace pour sortir de sa zone de confort sans pression.  
+   Commencez par des petites interactions sociales faciles : dire bonjour au voisin, poser une question simple à un camarade de promo. Augmentez graduellement la difficulté pour reconstruire une confiance sociale sans être submergée. Léa a trouvé cette méthode efficace pour sortir de sa zone de confort sans pression.  
 
 3. **L’écriture thérapeutique**  
    Tenez un journal où vous notez vos émotions liées au rejet. Exprimez vos peurs, vos doutes et aussi vos réussites, même les petites. Cet exercice aide à mieux comprendre vos réactions et à mettre des mots sur ce que vous ressentez, ce qui est un premier pas vers l’acceptation.  
 
 ### Le cheminement de Léa vers une nouvelle relation au rejet  
 
-Au fil des semaines, Léa a intégré ces techniques dans sa routine. Elle a commencé à voir le rejet moins comme une fatalité et plus comme une expérience humaine normale. Lors d’un déjeuner avec ses collègues, elle a réussi à poser une question simple, sans anxiété excessive, et a même ri à une blague partagée. Ce petit succès l’a encouragée à persévérer.  
+Au fil des semaines, Léa a intégré ces techniques dans sa routine. Elle a commencé à voir le rejet moins comme une fatalité et plus comme une expérience humaine normale. Lors d’un déjeuner à la cafétéria de la fac avec des camarades, elle a réussi à poser une question simple, sans anxiété excessive, et a même ri à une blague partagée. Ce petit succès l’a encouragée à persévérer.  
 
 Elle a aussi compris que les blessures du passée pouvaient être apaisées par la bienveillance envers elle-même. En se libérant du jugement interne trop sévère, elle a ouvert la porte à des interactions plus authentiques, moins marquées par la peur.  
 

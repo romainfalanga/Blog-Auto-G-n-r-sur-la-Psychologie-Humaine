@@ -17,7 +17,7 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-anxieux-preoccupe-couple/">Comprendre l'attachement anxieux-préoccupé en couple : le cas de Isabelle</a></h3>
     <div class="parcours-date">2026-03-08</div>
-    <p class="parcours-resume">Isabelle guette chaque message de sa compagne Sophie partie faire les courses, le nœud au ventre. Chaque minute de silence alimente son anxiété relationnelle, révélant un style d'attachement anxieux-préoccupé qui transforme l'absence ordinaire en menace d'abandon.</p>
+    <p class="parcours-resume">Isabelle, 47 ans, psychologue scolaire et mère de Théo, guette chaque message de sa compagne Aurélie partie faire les courses. Chaque minute de silence alimente son anxiété relationnelle, révélant un style d'attachement anxieux-préoccupé qui transforme l'absence ordinaire en menace d'abandon.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Isabelle prend conscience d'un schéma répétitif qui s'active dans cette situation. Malgré son côté bienveillante, elle commence à identifier les déclencheurs et à envisager d'autres façons de réagir.</p>

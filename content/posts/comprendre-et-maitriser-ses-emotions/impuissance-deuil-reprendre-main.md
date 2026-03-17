@@ -15,9 +15,9 @@ draft: false
 
 Monique ouvre la fenêtre du salon. L'air du soir entre en silence, froid et humide, sur la peau de ses avant-bras. Elle fixe la tasse de thé refroidie sur la table, sans goût, sans envie de la porter à ses lèvres. Les photos encadrées sur le buffet le regardent comme des témoins immobiles. Sa respiration est plate, comme si chaque inspiration devait traverser un épais rideau d'eau.
 
-Au travail, elle répond aux mails, mais ses mots semblent séparés d'elle, mécaniques. À la maison, elle oublie des rendez-vous, perd son portefeuille, puis s'en veut longuement, comme si chaque petite erreur confirmait qu'elle ne maîtrise plus rien. Elle sent, au fond de sa gorge, une pesanteur qui ralentit ses gestes, et parfois une colère glacée qui le surprend et le fait pleurer, sans prévenir.
+À la bibliothèque où elle fait du bénévolat, elle répond aux questions des lecteurs, mais ses mots semblent séparés d'elle, mécaniques. À la maison, dans cette grande maison trop silencieuse depuis la disparition de Jean-Claude, elle oublie des rendez-vous, perd son portefeuille, puis s'en veut longuement, comme si chaque petite erreur confirmait qu'elle ne maîtrise plus rien. Elle sent, au fond de sa gorge, une pesanteur qui ralentit ses gestes, et parfois une colère glacée qui la surprend et la fait pleurer, sans prévenir.
 
-Monique pense souvent à la dernière voix qu'elle a entendue, à la dernière fois où elle a serré la main de la personne disparue. Elle voudrait pouvoir revenir en arrière, dire une chose différente, réparer un détail. Cette incapacité à agir, ce poids qui rend l'avenir flou, elle le ressent sans toujours pouvoir le nommer : c'est une impression d'impuissance liée au deuil qui s'insinue dans son quotidien, discrète mais totale.
+Monique pense souvent à la dernière voix de Jean-Claude qu'elle a entendue, à la dernière fois où elle a serré sa main. Elle voudrait pouvoir revenir en arrière, dire une chose différente, réparer un détail. Cette incapacité à agir, ce poids qui rend l'avenir flou, elle le ressent sans toujours pouvoir le nommer : c'est une impression d'impuissance liée au deuil qui s'insinue dans son quotidien, discrète mais totale.
 
 Elle lit des articles, parle peu, reçoit des messages amicaux auxquels elle répond par des silences. Sa sensibilité rend chaque remarque plus vive, chaque souvenir plus douloureux. Elle ne sait pas encore que cette impuissance peut se manifester de façons très concrètes, parfois invisibles, et qu'elle existe des gestes simples pour reprendre un peu de contrôle, tout en douceur.
 
@@ -33,9 +33,9 @@ L'impuissance lors d'un deuil, c'est donc cette mêlée intérieure où l'on res
 
 ### 1. Perte de motivation et paralysie dans les petites décisions
 
-Monique remarque qu'elle remet au lendemain des choses simples : sortir le chien, répondre à un message, ranger un vêtement. Cette baisse de motivation n'est pas de la paresse, c'est une forme d'engourdissement. L'impuissance se traduit par l'idée que décider ne sert à rien, que les actions n'auront pas d'impact sur la douleur. Concrètement, elle peut laisser s'accumuler les tâches ménagères, éviter des appels, et se surprendre à rester des heures à regarder un mur.
+Monique remarque qu'elle remet au lendemain des choses simples : appeler sa fille Isabelle, répondre à un message de sa voisine Geneviève, ranger un vêtement. Cette baisse de motivation n'est pas de la paresse, c'est une forme d'engourdissement. L'impuissance se traduit par l'idée que décider ne sert à rien, que les actions n'auront pas d'impact sur la douleur. Concrètement, elle peut laisser s'accumuler les tâches ménagères, éviter des appels, et se surprendre à rester des heures à regarder un mur.
 
-Exemples : annuler un rendez-vous médical parce que "cela ne changera rien", éviter de trier les affaires du défunt par peur d'être submergée, ou ne pas ouvrir les courriers administratifs par crainte de l'onde de choc.
+Exemples : annuler un rendez-vous médical parce que "cela ne changera rien", éviter de trier les affaires de Jean-Claude par peur d'être submergée, ou ne pas ouvrir les courriers administratifs par crainte de l'onde de choc.
 
 ### 2. Rumination, culpabilité et recherche de contrôle illusoire
 
