@@ -362,7 +362,7 @@ def format_character_analysis_for_prompt(perso, analysis, perso_articles):
     pronom = "Elle" if genre == "F" else "Il"
 
     lines = []
-    lines.append(f"--- {prenom} ({perso['age']} ans, {perso['profession']}) [Profondeur : {analysis['depth_score']}/100] ---")
+    lines.append(f"--- {prenom} ({calculate_age(perso)} ans, {perso['profession']}) [Profondeur : {analysis['depth_score']}/100] ---")
     lines.append(f"  Situation : {perso['situation_familiale']}")
     lines.append(f"  Traits : {', '.join(perso['traits_personnalite'])}")
     lines.append(f"  Tendances psy : {', '.join(perso['tendances_psychologiques'])}")
@@ -581,6 +581,21 @@ def migrate_tracking_to_matrix(matrix):
         print(f"  {migrated} combinaisons migrees depuis generated_topics.json")
 
 
+def calculate_age(perso):
+    """Calcule l'âge dynamique d'un personnage à partir de sa date de naissance.
+    Si date_naissance est absente, retourne le champ age statique."""
+    date_naissance_str = perso.get("date_naissance")
+    if not date_naissance_str:
+        return perso.get("age", 30)
+    try:
+        birth = datetime.strptime(date_naissance_str, "%Y-%m-%d").date()
+        today = datetime.now().date()
+        age = today.year - birth.year - ((today.month, today.day) < (birth.month, birth.day))
+        return age
+    except (ValueError, TypeError):
+        return perso.get("age", 30)
+
+
 # ============================================
 # SYSTÈME DE PERSONNAGES RÉCURRENTS
 # ============================================
@@ -673,7 +688,7 @@ def select_best_personnage(personnages, category_key, sujet, contexte, matrix):
             score += 10
         elif "argent" in contexte_lower or "finances" in contexte_lower:
             score += 5
-        elif "réseaux sociaux" in contexte_lower and (perso["age"] <= 30):
+        elif "réseaux sociaux" in contexte_lower and (calculate_age(perso) <= 30):
             score += 8
         elif "solitude" in contexte_lower and ("seul" in situation or "célibataire" in situation or "veuf" in situation or "veuve" in situation):
             score += 10
@@ -683,7 +698,7 @@ def select_best_personnage(personnages, category_key, sujet, contexte, matrix):
             score += 10
         elif "reconversion" in contexte_lower and "reconversion" in profession:
             score += 10
-        elif "vieillissement" in contexte_lower and perso["age"] >= 50:
+        elif "vieillissement" in contexte_lower and calculate_age(perso) >= 50:
             score += 10
         elif "compétition" in contexte_lower and ("compétitif" in traits or "ambitieux" in traits):
             score += 8
@@ -743,7 +758,7 @@ def build_personnage_context(perso, matrix=None):
     context = f"""FICHE DU PERSONNAGE (à respecter ABSOLUMENT) :
 - Prénom : {perso['prenom']}
 - Genre : {"féminin" if genre == "F" else "masculin"} (utilise les accords grammaticaux correspondants)
-- Âge : {perso['age']} ans (NE CHANGE JAMAIS)
+- Âge : {calculate_age(perso)} ans
 - Profession : {perso['profession']}
 - Situation : {perso['situation_familiale']}
 - Traits de personnalité : {', '.join(perso['traits_personnalite'])}
@@ -951,7 +966,7 @@ def build_gemini_character_first_prompt(character_arcs_summary, matrix_summary, 
 
     # Construire la liste des personnages avec index
     personnages_list = "\n".join(
-        f"  {i}: \"{p['prenom']}\" ({p['age']} ans, {p['profession']})"
+        f"  {i}: \"{p['prenom']}\" ({calculate_age(p)} ans, {p['profession']})"
         for i, p in enumerate(personnages)
     )
 
@@ -2011,6 +2026,103 @@ def validate_coherence(content, combo, matrix, personnages):
 
 
 # ============================================
+# MISE À JOUR DYNAMIQUE DES DESCRIPTIONS
+# ============================================
+
+def check_and_update_character_description(perso, content, combo, evolution_text):
+    """Vérifie si l'article a fait évoluer la situation du personnage.
+
+    Si oui, Gemini reformule la description_dynamique, et met à jour
+    profession et situation_familiale dans le personnage.
+
+    Détecte : changement de métier, séparation, déménagement, nouveau rôle, etc.
+    """
+    prenom = perso["prenom"]
+    current_desc = perso.get("description_dynamique", "")
+    current_prof = perso.get("profession", "")
+    current_sit = perso.get("situation_familiale", "")
+
+    system_prompt = (
+        "Tu es un analyste narratif. On te donne un article de blog et la description actuelle d'un personnage récurrent. "
+        "Tu dois déterminer si l'article a fait ÉVOLUER la situation du personnage de manière significative.\n\n"
+        "Changements significatifs : changement de métier/poste, séparation/divorce/nouvelle relation, "
+        "déménagement, naissance d'un enfant, décès d'un proche, reconversion, promotion, licenciement, "
+        "réconciliation, mariage, retraite, etc.\n\n"
+        "Si AUCUN changement significatif n'a eu lieu, réponds : {\"changed\": false}\n\n"
+        "Si un changement a eu lieu, réponds avec les nouvelles informations :\n"
+        "{\n"
+        "  \"changed\": true,\n"
+        "  \"nouvelle_profession\": \"la nouvelle profession (ou l'ancienne si inchangée)\",\n"
+        "  \"nouvelle_situation\": \"la nouvelle situation familiale (ou l'ancienne si inchangée)\",\n"
+        "  \"nouvelle_description\": \"Prénom est [profession]. [Situation].\"\n"
+        "}\n\n"
+        "RÈGLES :\n"
+        "- La description doit faire 1 à 2 phrases maximum, même format que l'actuelle\n"
+        "- Ne change QUE ce qui a réellement évolué dans l'article\n"
+        "- Réponds UNIQUEMENT en JSON valide, sans backticks"
+    )
+
+    user_prompt = (
+        f"PERSONNAGE : {prenom} ({calculate_age(perso)} ans)\n"
+        f"PROFESSION ACTUELLE : {current_prof}\n"
+        f"SITUATION ACTUELLE : {current_sit}\n"
+        f"DESCRIPTION ACTUELLE : {current_desc}\n\n"
+        f"ÉVOLUTION DÉTECTÉE DANS L'ARTICLE : {evolution_text}\n\n"
+        f"ARTICLE (extrait) :\n{content[:3000]}\n\n"
+        f"Y a-t-il un changement significatif dans la vie de {prenom} ?"
+    )
+
+    try:
+        raw = call_mammouth_api(
+            model=MODEL_ANALYST,
+            system_prompt=system_prompt,
+            user_prompt=user_prompt,
+            temperature=0.2,
+            max_tokens=500,
+            retries=2
+        )
+
+        if not raw:
+            return False
+
+        cleaned = raw.strip()
+        if "```" in cleaned:
+            match = re.search(r'\{[\s\S]*\}', cleaned)
+            if match:
+                cleaned = match.group(0)
+
+        cleaned = fix_json_trailing_commas(cleaned)
+        data = json.loads(cleaned)
+
+        if not data.get("changed", False):
+            print(f"  [Description] Pas de changement significatif pour {prenom}")
+            return False
+
+        # Mettre à jour le personnage
+        new_prof = data.get("nouvelle_profession", current_prof)
+        new_sit = data.get("nouvelle_situation", current_sit)
+        new_desc = data.get("nouvelle_description", "")
+
+        if new_prof and new_prof != current_prof:
+            perso["profession"] = new_prof
+            print(f"  [Description] Profession mise à jour : {current_prof} → {new_prof}")
+
+        if new_sit and new_sit != current_sit:
+            perso["situation_familiale"] = new_sit
+            print(f"  [Description] Situation mise à jour : {current_sit} → {new_sit}")
+
+        if new_desc:
+            perso["description_dynamique"] = new_desc
+            print(f"  [Description] Nouvelle description : {new_desc}")
+
+        return True
+
+    except (json.JSONDecodeError, Exception) as e:
+        print(f"  [Description] Erreur vérification description pour {prenom}: {e}")
+        return False
+
+
+# ============================================
 # GÉNÉRATION DE LA PAGE DE SUIVI DES PERSONNAGES
 # ============================================
 
@@ -2099,14 +2211,21 @@ def generate_character_tracking_page(personnages, matrix):
         slug = perso.get("id", prenom.lower().replace(" ", "-"))
         profession = perso["profession"]
         situation = perso["situation_familiale"]
-        bio = f"{prenom} est {profession}, {situation}."
+
+        # Âge dynamique calculé à partir de date_naissance
+        age_dynamique = calculate_age(perso)
+
+        # Description dynamique (priorité) ou construction classique
+        bio = perso.get("description_dynamique", f"{prenom} est {profession}. {situation.capitalize()}.")
+        # Échapper les guillemets pour le YAML
+        safe_bio = bio.replace('"', '\\"')
 
         # Frontmatter
         lines = []
         lines.append("---")
-        lines.append(f'title: "{prenom}, {perso["age"]} ans"')
+        lines.append(f'title: "{prenom}, {age_dynamique} ans"')
         lines.append(f"date: {date_str}")
-        lines.append(f'description: "{bio}"')
+        lines.append(f'description: "{safe_bio}"')
         lines.append(f'slug: "{slug}"')
         lines.append(f'prenom: "{prenom}"')
         lines.append(f'profession: "{profession.capitalize()}"')
@@ -2254,7 +2373,7 @@ def main():
                 # Character-first : le personnage est déjà choisi par Gemini
                 perso = s["personnage"]
                 combo["prenom"] = perso["prenom"]
-                combo["age"] = f"{perso['age']} ans"
+                combo["age"] = f"{calculate_age(perso)} ans"
                 combo["genre"] = perso.get("genre", "M")
                 combo["personnage_context"] = build_personnage_context(perso, matrix)
                 combo["scene_envisagee"] = s.get("scene_envisagee", "")
@@ -2275,7 +2394,7 @@ def main():
                 if personnages:
                     best_perso = select_best_personnage(personnages, combo["category_key"], combo["sujet"], combo["contexte"], matrix)
                     combo["prenom"] = best_perso["prenom"]
-                    combo["age"] = f"{best_perso['age']} ans"
+                    combo["age"] = f"{calculate_age(best_perso)} ans"
                     combo["genre"] = best_perso.get("genre", "M")
                     combo["personnage_context"] = build_personnage_context(best_perso, matrix)
                 else:
@@ -2294,14 +2413,14 @@ def main():
             if priority_characters and i < len(priority_characters):
                 perso = priority_characters[i]
                 combo["prenom"] = perso["prenom"]
-                combo["age"] = f"{perso['age']} ans"
+                combo["age"] = f"{calculate_age(perso)} ans"
                 combo["genre"] = perso.get("genre", "M")
                 combo["personnage_context"] = build_personnage_context(perso, matrix)
                 print(f"  [Priorité] Personnage imposé : {perso['prenom']}")
             elif personnages:
                 best_perso = select_best_personnage(personnages, combo["category_key"], combo["sujet"], combo["contexte"], matrix)
                 combo["prenom"] = best_perso["prenom"]
-                combo["age"] = f"{best_perso['age']} ans"
+                combo["age"] = f"{calculate_age(best_perso)} ans"
                 combo["genre"] = best_perso.get("genre", "M")
                 combo["personnage_context"] = build_personnage_context(best_perso, matrix)
             else:
@@ -2356,7 +2475,7 @@ def main():
                 if priority_characters and i < len(priority_characters):
                     perso = priority_characters[i]
                     combo["prenom"] = perso["prenom"]
-                    combo["age"] = f"{perso['age']} ans"
+                    combo["age"] = f"{calculate_age(perso)} ans"
                     combo["genre"] = perso.get("genre", "M")
                     combo["personnage_context"] = build_personnage_context(perso, matrix)
 
@@ -2407,6 +2526,13 @@ def main():
             print(f"  [Narratif] Résumé : {resume_narratif[:100]}...")
         else:
             print(f"  [Narratif] Pas de résumé extrait (sera vide dans la matrice)")
+
+        # Étape 3.10 : Vérification de l'évolution de la description du personnage
+        if personnages and evolution:
+            perso_obj = next((p for p in personnages if p["prenom"] == combo["prenom"]), None)
+            if perso_obj:
+                print(f"  [Description] Vérification de l'évolution de {combo['prenom']}...")
+                check_and_update_character_description(perso_obj, content, combo, evolution)
 
         # Ajouter à la matrice avec les données narratives
         add_to_matrix(matrix, combo, metadata, resume_narratif, evolution, elements_cles)

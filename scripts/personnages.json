@@ -103,7 +103,9 @@
           "slug": "overthinking-surpensee-travail"
         }
       ],
-      "genre": "F"
+      "genre": "F",
+      "date_naissance": "1997-09-14",
+      "description_dynamique": "Sophie est développeuse web dans une startup. Célibataire, vit seule en appartement en ville."
     },
     {
       "id": "thomas",
@@ -196,7 +198,9 @@
           "slug": "jeux-psychologiques-karpman-couple"
         }
       ],
-      "genre": "M"
+      "genre": "M",
+      "date_naissance": "1991-06-22",
+      "description_dynamique": "Thomas est enseignant d'histoire-géographie au lycée. En couple avec émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité."
     },
     {
       "id": "camille",
@@ -284,7 +288,9 @@
           "slug": "fatigue-compassion-face-maladie"
         }
       ],
-      "genre": "F"
+      "genre": "F",
+      "date_naissance": "1983-11-03",
+      "description_dynamique": "Camille est infirmière en service de cardiologie. Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)."
     },
     {
       "id": "lucas",
@@ -378,7 +384,9 @@
           "slug": "effet-spotlight-entretien-embauche"
         }
       ],
-      "genre": "M"
+      "genre": "M",
+      "date_naissance": "2001-08-17",
+      "description_dynamique": "Lucas est étudiant en dernière année d'école de commerce, en stage. Célibataire, en colocation avec deux amis."
     },
     {
       "id": "nadia",
@@ -480,7 +488,9 @@
           "slug": "controle-de-soi-insuffisant-travail"
         }
       ],
-      "genre": "F"
+      "genre": "F",
+      "date_naissance": "1987-12-28",
+      "description_dynamique": "Nadia est directrice marketing dans une entreprise tech. Divorcée, mère d'une fille (yasmine, 8 ans), garde alternée."
     },
     {
       "id": "adrien",
@@ -566,7 +576,9 @@
           "slug": "abandon-instabilite-face-solitude"
         }
       ],
-      "genre": "M"
+      "genre": "M",
+      "date_naissance": "1994-04-05",
+      "description_dynamique": "Adrien est graphiste freelance. Célibataire depuis une rupture difficile il y a un an."
     },
     {
       "id": "margot",
@@ -653,7 +665,9 @@
           "slug": "drivers-contraignants-reconversion-professionnelle"
         }
       ],
-      "genre": "F"
+      "genre": "F",
+      "date_naissance": "1973-07-19",
+      "description_dynamique": "Margot est en reconversion professionnelle, ancienne directrice commerciale, se forme au coaching. Mariée à philippe, deux enfants adultes partis de la maison (martin, 26 ans et chloé, 23 ans)."
     },
     {
       "id": "youssef",
@@ -731,7 +745,9 @@
           "slug": "alexithymie-en-couple"
         }
       ],
-      "genre": "M"
+      "genre": "M",
+      "date_naissance": "1996-10-11",
+      "description_dynamique": "Youssef est ingénieur en informatique dans un grand groupe. En couple avec léa depuis 2 ans, vit en appartement."
     },
     {
       "id": "isabelle",
@@ -817,7 +833,9 @@
           "slug": "attachement-anxieux-preoccupe-couple"
         }
       ],
-      "genre": "F"
+      "genre": "F",
+      "date_naissance": "1978-05-30",
+      "description_dynamique": "Isabelle est psychologue scolaire dans un collège. Divorcée, un fils adolescent (théo, 16 ans)."
     },
     {
       "id": "patrick",
@@ -887,7 +905,9 @@
           "slug": "surcontrole-emotionnel-famille"
         }
       ],
-      "genre": "M"
+      "genre": "M",
+      "date_naissance": "1970-01-25",
+      "description_dynamique": "Patrick est ancien ouvrier, maintenant chef d'équipe dans le BTP. Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils."
     },
     {
       "id": "lea",
@@ -974,7 +994,9 @@
           "slug": "attachement-secure-argent-finances"
         }
       ],
-      "genre": "F"
+      "genre": "F",
+      "date_naissance": "2002-08-08",
+      "description_dynamique": "Léa est étudiante en master de psychologie clinique. Célibataire, vit en studio étudiant."
     },
     {
       "id": "karim",
@@ -1053,7 +1075,9 @@
           "slug": "regret-avec-ses-enfants"
         }
       ],
-      "genre": "M"
+      "genre": "M",
+      "date_naissance": "1986-03-02",
+      "description_dynamique": "Karim est entrepreneur, fondateur d'une PME de restauration. Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)."
     },
     {
       "id": "monique",
@@ -1133,7 +1157,9 @@
           "slug": "gratitude-en-tant-que-manager"
         }
       ],
-      "genre": "F"
+      "genre": "F",
+      "date_naissance": "1963-06-15",
+      "description_dynamique": "Monique est retraitée, ancienne professeure de français. Veuve depuis 3 ans, deux enfants adultes, trois petits-enfants."
     },
     {
       "id": "hugo",
@@ -1221,7 +1247,9 @@
           "slug": "attachement-desorganise-craintif-rupture"
         }
       ],
-      "genre": "M"
+      "genre": "M",
+      "date_naissance": "1998-11-20",
+      "description_dynamique": "Hugo est musicien semi-professionnel et serveur pour payer les factures. En relation instable avec chloé, musicienne aussi."
     },
     {
       "id": "priya",
@@ -1307,7 +1335,9 @@
           "slug": "attachement-evitant-dans-intimite"
         }
       ],
-      "genre": "F"
+      "genre": "F",
+      "date_naissance": "1992-09-07",
+      "description_dynamique": "Priya est médecin généraliste en cabinet de ville. Célibataire, vit seule, relations épisodiques."
     },
     {
       "id": "stephane",
@@ -1393,7 +1423,9 @@
           "slug": "recherche-approbation-reconnaissance-travail"
         }
       ],
-      "genre": "M"
+      "genre": "M",
+      "date_naissance": "1980-12-04",
+      "description_dynamique": "Stéphane est commercial grands comptes dans une multinationale. Marié à sandrine, père d'un adolescent (maxime, 15 ans)."
     },
     {
       "id": "djamila",
@@ -1473,7 +1505,9 @@
           "slug": "biais-negativite-conflit"
         }
       ],
-      "genre": "F"
+      "genre": "F",
+      "date_naissance": "1989-07-23",
+      "description_dynamique": "Djamila est travailleuse sociale dans une association d'aide aux femmes. Séparée, en reconstruction, un fils (adam, 6 ans)."
     },
     {
       "id": "fabien",
@@ -1551,7 +1585,9 @@
           "slug": "vide-interieur-decision-parentification"
         }
       ],
-      "genre": "M"
+      "genre": "M",
+      "date_naissance": "1975-10-16",
+      "description_dynamique": "Fabien est cadre RH dans une entreprise industrielle. Divorcé depuis 2 ans, deux enfants (marine, 20 ans et lucas, 17 ans) chez leur mère."
     },
     {
       "id": "mei",
@@ -1638,7 +1674,9 @@
           "slug": "fusion-personnalite-reconversion"
         }
       ],
-      "genre": "F"
+      "genre": "F",
+      "date_naissance": "2003-05-12",
+      "description_dynamique": "Mei est étudiante en école d'art, spécialité illustration. Célibataire, vit en résidence étudiante."
     },
     {
       "id": "bernard",
@@ -1731,7 +1769,9 @@
           "slug": "surcontrole-emotionnel-parents"
         }
       ],
-      "genre": "M"
+      "genre": "M",
+      "date_naissance": "1968-02-09",
+      "description_dynamique": "Bernard est artisan ébéniste, atelier en campagne. Veuf depuis 5 ans, un fils avec qui les relations sont tendues."
     }
   ]
 }
