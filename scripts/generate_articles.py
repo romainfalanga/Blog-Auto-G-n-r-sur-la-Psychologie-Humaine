@@ -22,7 +22,7 @@ import json
 import random
 import requests
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 # ============================================
@@ -68,9 +68,17 @@ def load_matrix():
 
 
 def save_matrix(data):
-    """Sauvegarde la matrice des combinaisons."""
-    with open(MATRIX_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+    """Sauvegarde la matrice des combinaisons (écriture atomique via fichier temporaire)."""
+    import tempfile
+    tmp_fd, tmp_path = tempfile.mkstemp(dir=MATRIX_FILE.parent, suffix=".tmp")
+    try:
+        with os.fdopen(tmp_fd, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        os.replace(tmp_path, MATRIX_FILE)
+    except Exception:
+        if os.path.exists(tmp_path):
+            os.unlink(tmp_path)
+        raise
 
 
 def add_to_matrix(matrix, combo, metadata, resume_narratif="", evolution="", elements_cles=""):
@@ -446,7 +454,6 @@ def select_priority_characters(personnages, matrix, count=3, exclude_recent_days
             article_counts[p] = article_counts.get(p, 0) + 1
 
     # Identifier les personnages utilisés récemment
-    from datetime import timedelta
     today = datetime.now(timezone.utc).date()
     recent_cutoff = today - timedelta(days=exclude_recent_days)
     recently_used = set()
@@ -476,14 +483,24 @@ def select_priority_characters(personnages, matrix, count=3, exclude_recent_days
         is_recent = prenom in recently_used
         candidates.append((perso, nb_articles, depth, is_recent))
 
-    # Trier : non-récents d'abord, puis par nb articles croissant, puis par profondeur croissante
-    candidates.sort(key=lambda x: (x[3], x[1], x[2]))
+    # Séparer non-récents et récents
+    non_recent = [(p, nb, d, r) for p, nb, d, r in candidates if not r]
+    recent = [(p, nb, d, r) for p, nb, d, r in candidates if r]
 
-    selected = [c[0] for c in candidates[:count]]
+    # Trier chaque groupe par nb articles croissant, puis profondeur croissante
+    non_recent.sort(key=lambda x: (x[1], x[2]))
+    recent.sort(key=lambda x: (x[1], x[2]))
 
-    # Si on n'a pas assez de non-récents, on prend quand même les récents les moins utilisés
-    if len(selected) < count:
-        selected = [c[0] for c in candidates[:count]]
+    # Prendre d'abord les non-récents, compléter avec les récents si nécessaire
+    selected = []
+    seen_prenoms = set()
+    for candidate_list in [non_recent, recent]:
+        for c in candidate_list:
+            if len(selected) >= count:
+                break
+            if c[0]["prenom"] not in seen_prenoms:
+                selected.append(c[0])
+                seen_prenoms.add(c[0]["prenom"])
 
     for s in selected:
         nb = article_counts.get(s["prenom"], 0)
@@ -613,12 +630,20 @@ def load_personnages():
 
 
 def save_personnages(personnages):
-    """Sauvegarde le registre des personnages."""
+    """Sauvegarde le registre des personnages (écriture atomique via fichier temporaire)."""
+    import tempfile
     with open(PERSONNAGES_FILE, "r", encoding="utf-8") as f:
         data = json.load(f)
     data["personnages"] = personnages
-    with open(PERSONNAGES_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+    tmp_fd, tmp_path = tempfile.mkstemp(dir=PERSONNAGES_FILE.parent, suffix=".tmp")
+    try:
+        with os.fdopen(tmp_fd, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        os.replace(tmp_path, PERSONNAGES_FILE)
+    except Exception:
+        if os.path.exists(tmp_path):
+            os.unlink(tmp_path)
+        raise
 
 
 def select_best_personnage(personnages, category_key, sujet, contexte, matrix):
@@ -1246,10 +1271,14 @@ def parse_gemini_suggestions(raw_response):
     return resolved
 
 
-def is_combo_used(matrix, cat_key, sujet, contexte):
-    """Vérifie si une combinaison catégorie+sujet+contexte a déjà été utilisée."""
+def is_combo_used(matrix, cat_key, sujet, contexte, prenom=None):
+    """Vérifie si une combinaison catégorie+sujet+contexte a déjà été utilisée.
+    Si prenom est fourni, vérifie aussi que le même personnage+sujet n'a pas déjà été traité."""
     for a in matrix.get("articles", []):
         if a["category_key"] == cat_key and a["sujet"] == sujet and a["contexte"] == contexte:
+            return True
+        # Même personnage + même sujet (même dans un contexte différent) = trop similaire
+        if prenom and a.get("prenom") == prenom and a["sujet"] == sujet:
             return True
     return False
 
@@ -1295,11 +1324,12 @@ def get_gemini_suggestions(matrix, personnages=None, priority_characters=None):
                 # Valider les suggestions
                 all_valid = True
                 for s in suggestions:
-                    if is_combo_used(matrix, s["category_key"], s["sujet"], s["contexte"]):
-                        print(f"  Combinaison déjà utilisée: {s['sujet']} / {s['contexte']}")
+                    perso_prenom = s.get("personnage", {}).get("prenom", "")
+                    if is_combo_used(matrix, s["category_key"], s["sujet"], s["contexte"], perso_prenom):
+                        print(f"  Combinaison déjà utilisée: {perso_prenom} / {s['sujet']} / {s['contexte']}")
                         all_valid = False
                     else:
-                        print(f"  [Character-first] {s['personnage']['prenom']} → [{s['category_key']}] {s['sujet']} / {s['contexte']}")
+                        print(f"  [Character-first] {perso_prenom} → [{s['category_key']}] {s['sujet']} / {s['contexte']}")
 
                 cats = [s["category_key"] for s in suggestions]
                 if sorted(cats) != ["cat1_pensees", "cat2_emotions", "cat3_schemas"]:
@@ -1417,7 +1447,7 @@ MÉTHODE NARRATIVE OBLIGATOIRE :
 - Le lecteur doit se reconnaître dans cette histoire
 - L'histoire sert de fil conducteur pour expliquer le concept et les solutions
 - Le personnage évolue au fil de l'article : il/elle comprend son fonctionnement et commence à changer
-- L'histoire doit être réaliste, touchante, avec des détails sensoriels et émotionnels
+- L'histoire doit être réaliste, touchante, avec des détails sensoriels et émotionnels VARIÉS et ORIGINAUX
 - GENRE GRAMMATICAL : Respecte STRICTEMENT le genre du personnage (féminin ou masculin) indiqué dans la fiche. Utilise les accords corrects pour les adjectifs, participes passés, pronoms, etc. Un personnage féminin utilise "elle", "assise", "installée", etc. Un personnage masculin utilise "il", "assis", "installé", etc.
 - CONTINUITÉ NARRATIVE : Les personnages sont RÉCURRENTS. Si le personnage a un historique d'articles, l'histoire d'aujourd'hui est la SUITE de son parcours. Fais référence naturellement à ses expériences passées. Montre son évolution. Les techniques apprises dans les articles précédents sont des acquis.
 - PRÉNOMS INTERDITS POUR LES PERSONNAGES SECONDAIRES : Quand tu crées des personnages secondaires (exemples illustratifs, collègues, amis, proches mentionnés dans l'histoire), tu ne dois JAMAIS utiliser l'un des 20 prénoms suivants, car ils sont réservés aux personnages récurrents du blog : {prenoms_interdits}. Choisis des prénoms courants différents (ex : Julie, Antoine, Claire, Mathieu, Sarah, etc.). C'est une règle ABSOLUE.
@@ -1465,6 +1495,37 @@ RÈGLES ÉTHIQUES :
 - Ne donne JAMAIS de diagnostic médical
 - Inclus TOUJOURS un rappel bienveillant que consulter un professionnel est recommandé pour les difficultés persistantes
 - Ne minimise jamais la souffrance du lecteur
+
+CRÉATIVITÉ ET ORIGINALITÉ NARRATIVE (RÈGLES ABSOLUES) :
+Tu DOIS écrire chaque article comme un récit UNIQUE et ORIGINAL. Voici les règles anti-répétition :
+
+ÉLÉMENTS NARRATIFS INTERDITS (clichés surexploités à NE JAMAIS utiliser) :
+- "prendre un café" / "sa tasse de café" / "café fumant" / "serrer sa tasse"
+- "les rayons du soleil filtrent" / "la lumière du matin" / "baigné de lumière"
+- "soupirer" / "pousser un soupir" / "laisser échapper un soupir"
+- "les épaules se détendent" / "relâcher les épaules"
+- "prendre une grande inspiration" / "respirer profondément"
+- "le cœur serré" / "la gorge nouée" / "la boule au ventre"
+- "un sourire se dessine" / "esquisser un sourire" / "un léger sourire"
+- "les larmes aux yeux" / "les yeux embués"
+- "il/elle réalise que" / "une prise de conscience"
+- "petit à petit" / "pas à pas" / "jour après jour"
+- "un poids s'envole" / "un poids sur les épaules" / "libéré(e) d'un poids"
+- "se regarder dans le miroir" / "son reflet dans le miroir"
+- "fermer les yeux un instant" / "paupières closes"
+- "le téléphone vibre" / "notification sur l'écran"
+- "le silence de la pièce" / "dans le silence de la nuit"
+- "une vague de" (émotion) / "submergé(e) par"
+- "prendre du recul" (comme action physique dans la narration)
+- "un nouveau chapitre" / "tourner la page"
+
+DIVERSITÉ NARRATIVE OBLIGATOIRE :
+- Varie les LIEUX : pas toujours bureau/cuisine/salon. Utilise des lieux surprenants mais réalistes (parking, salle d'attente, rayon de supermarché, ascenseur, vestiaire, file d'attente, transport en commun, jardin public, pharmacie, cage d'escalier, salle de réunion vide...)
+- Varie les MOMENTS : pas toujours "un matin" ou "un soir après le travail". Utilise des moments précis (pause déjeuner, sortie d'école, dimanche pluvieux, jour férié, grève des transports, veille de vacances, rendez-vous médical...)
+- Varie les ACTIONS D'OUVERTURE : pas toujours "X ouvre son ordinateur" ou "X se réveille". Commence par un dialogue, un bruit, une sensation physique, un souvenir, un geste anodin, un objet...
+- Varie les DÉTAILS SENSORIELS : pas toujours visuels. Mélange sons (bruit de clavier, klaxon, rire d'enfant), odeurs (parfum, pluie, cuisine), textures (tissu, papier, béton), goûts, sensations physiques (froid, chaleur, fatigue musculaire)
+- Varie les DYNAMIQUES RELATIONNELLES : ne montre pas toujours le personnage seul qui réfléchit. Intègre des dialogues naturels, des interactions tendues, des moments de complicité, des malentendus
+- Varie la STRUCTURE ÉMOTIONNELLE : ne commence pas toujours par "le personnage va mal → comprend → va mieux". Parfois le personnage va bien puis est déstabilisé. Parfois il résiste au changement. Parfois l'évolution est ambiguë ou partielle.
 
 FORMAT DE SORTIE :
 Tu dois retourner EXACTEMENT ce format, rien d'autre :
@@ -1664,12 +1725,16 @@ def call_gemini_quality_review(content, combo):
         "1. COHÉRENCE : vérifie que l'article est cohérent du début à la fin. "
         "Le personnage, son histoire, le concept psychologique et les techniques doivent former un tout logique. "
         "Corrige toute incohérence (contradictions, changements de prénom, de situation, de ton).\n\n"
-        "2. STYLE IA : repère et reformule toutes les tournures qui sonnent artificielles ou générées par IA. "
-        "Exemples de formulations à éliminer : \"Il est important de noter que\", \"Dans notre société actuelle\", "
+        "2. STYLE IA ET CLICHÉS : repère et reformule toutes les tournures artificielles ou clichés narratifs récurrents. "
+        "Formulations IA à éliminer : \"Il est important de noter que\", \"Dans notre société actuelle\", "
         "\"Force est de constater\", \"Il convient de souligner\", \"En définitive\", \"Il est essentiel de\", "
         "\"N'hésitez pas à\", \"Il est crucial de\", \"Dans un monde où\", \"Qui n'a jamais\", "
         "\"Et si on vous disait que\", \"Vous l'aurez compris\". "
-        "Remplace-les par des formulations naturelles, humaines et chaleureuses.\n\n"
+        "Clichés narratifs à reformuler : \"tasse de café\", \"rayons du soleil filtrent\", \"pousser un soupir\", "
+        "\"les épaules se détendent\", \"le cœur serré\", \"la gorge nouée\", \"un sourire se dessine\", "
+        "\"un poids s'envole\", \"fermer les yeux un instant\", \"une vague de\", \"prendre du recul\", "
+        "\"petit à petit\", \"un nouveau chapitre\", \"tourner la page\". "
+        "Remplace-les par des formulations naturelles, originales et humaines.\n\n"
         "3. QUALITÉ RÉDACTIONNELLE : corrige les maladresses de style, les répétitions excessives, "
         "les phrases trop longues ou alambiquées. Assure-toi que le ton reste accessible, empathique et bienveillant.\n\n"
         "4. PONCTUATION : vérifie qu'il n'y a aucun tiret cadratin (—) ni semi-cadratin (–) utilisé comme ponctuation. "
@@ -2353,6 +2418,7 @@ def main():
             suggestions_by_cat[s["category_key"]] = s
 
     generated_count = 0
+    used_characters_today = set()  # Empêcher le même personnage dans 2 articles le même jour
 
     for i, cat_key in enumerate(category_keys):
         s = suggestions_by_cat.get(cat_key) if use_gemini else None
@@ -2427,6 +2493,38 @@ def main():
                 combo["prenom"] = random.choice(PRENOMS)
                 combo["age"] = random.choice(TRANCHES_AGE)
                 combo["genre"] = "M"
+
+        # Vérifier que le personnage n'a pas déjà été utilisé aujourd'hui
+        if combo["prenom"] in used_characters_today:
+            print(f"  [Doublon] {combo['prenom']} déjà utilisé aujourd'hui, remplacement...")
+            # Trouver un personnage alternatif parmi les prioritaires ou les disponibles
+            replacement = None
+            if priority_characters:
+                for pc in priority_characters:
+                    if pc["prenom"] not in used_characters_today:
+                        replacement = pc
+                        break
+            if not replacement and personnages:
+                # Trier par nb articles croissant et prendre le premier non utilisé aujourd'hui
+                articles = matrix.get("articles", [])
+                counts = {}
+                for a in articles:
+                    p = a.get("prenom", "")
+                    if p:
+                        counts[p] = counts.get(p, 0) + 1
+                sorted_persos = sorted(personnages, key=lambda p: counts.get(p["prenom"], 0))
+                for sp in sorted_persos:
+                    if sp["prenom"] not in used_characters_today:
+                        replacement = sp
+                        break
+            if replacement:
+                combo["prenom"] = replacement["prenom"]
+                combo["age"] = f"{calculate_age(replacement)} ans"
+                combo["genre"] = replacement.get("genre", "M")
+                combo["personnage_context"] = build_personnage_context(replacement, matrix)
+                print(f"  [Doublon] Remplacé par {replacement['prenom']}")
+            else:
+                print(f"  [Doublon] Aucun remplacement disponible, conservation de {combo['prenom']}")
 
         print(f"  Personnage : {combo['prenom']} ({combo['age']})")
 
@@ -2518,6 +2616,7 @@ def main():
         print(f"  Création du fichier Hugo...")
         create_hugo_post(combo, metadata, content)
         generated_count += 1
+        used_characters_today.add(combo["prenom"])
 
         # Étape 3.9 : Extraction du résumé narratif pour la continuité
         print(f"  [Narratif] Extraction du résumé narratif...")
