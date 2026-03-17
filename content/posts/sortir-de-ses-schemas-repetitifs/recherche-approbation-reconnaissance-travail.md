@@ -13,15 +13,15 @@ contexte: "au travail"
 draft: false
 ---
 
-L’air est lourd dans la salle de réunion. Stéphane serre ses mains sur la table, sent son cœur battre un peu plus vite. Devant lui, ses collègues échangent des regards et des sourires, tandis que le chef d’équipe félicite quelqu’un d’autre pour une idée. « Et moi... est-ce que j’ai fait assez ? », se demande-t-il au fond de lui-même. Comme souvent, Stéphane a passé la semaine à courir après les validations, à multiplier les petites attentions, à dire oui à tout, même quand il était épuisé.
+L’air est lourd dans la salle de réunion. Stéphane, 45 ans, commercial grands comptes dans une multinationale, serre ses mains sur la table, sent son cœur battre un peu plus vite. Devant lui, ses collègues échangent des regards et des sourires, tandis que le directeur commercial félicite quelqu’un d’autre pour un deal signé. « Et moi... est-ce que j’ai fait assez ? », se demande-t-il au fond de lui-même. Comme souvent, Stéphane a passé la semaine à courir après les validations, à multiplier les petites attentions, à dire oui à tout, même quand il était épuisé. Le soir, sa femme Sandrine est la seule à voir ses doutes. Son fils Maxime, 15 ans, ne comprend pas pourquoi son père prépare obsessionnellement ses présentations jusqu’à minuit.
 
-Dans son bureau, il regarde le téléphone, hésite à envoyer un message à son responsable pour confirmer qu’il a bien terminé le rapport. Il redoute aussi le moment où il devra donner son avis en réunion. « Et si ce n’était pas assez pertinent ? » se répète-t-il. Stéphane est pris dans un tourbillon silencieux : celui de la recherche d’approbation au travail. Sans qu’il s’en rende compte, ce besoin profond d’être reconnu guide toutes ses actions, parfois au détriment de son bien-être.
+Dans son bureau, il regarde le téléphone, hésite à envoyer un message à son directeur pour confirmer qu’il a bien terminé le rapport. Il a grandi dans l’ombre de son grand frère Philippe, toujours plus brillant, et n’a jamais senti qu’il était à la hauteur. « Et si ce n’était pas assez pertinent ? » se répète-t-il. Stéphane est pris dans un tourbillon silencieux : celui de la recherche d’approbation au travail. Sans qu’il s’en rende compte, ce besoin profond d’être reconnu guide toutes ses actions, parfois au détriment de son bien-être.
 
 ### Qu’est-ce que la recherche d’approbation/reconnaissance au travail ?
 
 La recherche d’approbation ou de reconnaissance au travail est la tendance à chercher constamment l’aval des autres pour se sentir valorisé et digne. C’est un besoin humain fondamental, mais qui devient problématique quand il prend le dessus, dictant nos choix et notre estime de soi. Le psychologue Carl Rogers a longtemps souligné que le besoin d’être accepté par les autres est normal, mais la dépendance excessive à cette reconnaissance peut limiter la liberté d’agir selon ses propres valeurs.
 
-Dans le cas d’Stéphane, ce besoin se manifeste sans qu’il le réalise vraiment. Il veut plaire à ses collègues, éviter les conflits, et surtout ne pas décevoir son chef. Ce schéma est fréquent chez les “people pleasers”, ces personnes qui ont du mal à dire non et à poser leurs limites, par peur d’être rejetés ou ignorées.
+Dans le cas d’Stéphane, ce besoin se manifeste sans qu’il le réalise vraiment. Il veut plaire à ses collègues, éviter les conflits, et surtout ne pas décevoir sa direction. Ce schéma est fréquent chez les “people pleasers”, ces personnes qui ont du mal à dire non et à poser leurs limites, par peur d’être rejetés ou ignorées.
 
 ### Comment se manifeste la recherche d’approbation/reconnaissance au travail ?
 

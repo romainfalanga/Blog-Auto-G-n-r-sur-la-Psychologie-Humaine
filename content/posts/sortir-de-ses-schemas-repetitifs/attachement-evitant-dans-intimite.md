@@ -13,7 +13,7 @@ contexte: "dans l'intimité et la sexualité"
 draft: false
 ---
 
-Priya s'installe sur le bord de son lit, le cœur un peu lourd. Elle vient de passer un moment intime avec son partenaire, mais au lieu de ressentir une connexion chaleureuse, elle se sent étrangement distante, presque vide. Elle évite son regard, joue nerveusement avec la couverture, et murmure quelques mots pour écourter la soirée. Ce même schéma se répète depuis plusieurs mois, et Priya ne comprend pas pourquoi elle se ferme ainsi, comme si une barrière se dressait entre elle et l'autre.
+Priya, 33 ans, médecin généraliste en cabinet de ville, s'installe sur le bord de son lit, le cœur un peu lourd. Elle vient de passer un moment intime avec l'homme qu'elle fréquente depuis quelques semaines, mais au lieu de ressentir une connexion chaleureuse, elle se sent étrangement distante, presque vide. Elle évite son regard, joue nerveusement avec la couverture, et murmure quelques mots pour écourter la soirée. Ce même schéma se répète à chaque relation épisodique, et Priya ne comprend pas pourquoi elle se ferme ainsi, comme si une barrière se dressait entre elle et l'autre. Depuis sa relation toxique avec Damien à 25 ans, un manipulateur qui a détruit sa confiance, elle fuit l'intimité tout en la désirant secrètement.
 
 Dans sa tête, une petite voix lui souffle qu'elle devrait profiter de ces instants de tendresse, mais une autre, plus forte, la pousse à garder ses distances, à ne pas trop s'engager émotionnellement. Priya ressent un mélange de culpabilité et de frustration. Elle aimerait pouvoir s'abandonner, s'ouvrir, mais elle a peur. Cette peur l'incite à désactiver ses émotions et à se protéger en se coupant de l'autre.
 

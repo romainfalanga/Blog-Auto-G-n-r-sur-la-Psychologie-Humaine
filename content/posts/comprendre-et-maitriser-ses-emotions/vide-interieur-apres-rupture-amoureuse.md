@@ -13,9 +13,9 @@ contexte: "après une rupture amoureuse"
 draft: false
 ---
 
-Hugo est assis sur le banc du parc, le regard perdu dans le vide. Autour de lui, les feuilles d’automne craquent sous les pas des passants, mais il ne les remarque pas vraiment. Son cœur bat un peu plus fort quand il repense à elle, à ce qu’il reste de leur histoire. Ce silence qui s’installe en lui n’est pas juste l’absence de mots, c’est un vide profond qui semble avaler tout ce qu’il était encore capable de ressentir.  
+Hugo est assis sur le banc du parc, sa guitare dans son étui posé à côté de lui, le regard perdu dans le vide. Autour de lui, les feuilles d’automne craquent sous les pas des passants, mais il ne les remarque pas vraiment. Son cœur bat un peu plus fort quand il repense à Chloé, à ce qu’il reste de leur histoire chaotique faite de grandes déclarations d’amour et de ruptures dramatiques. Ce silence qui s’installe en lui n’est pas juste l’absence de mots, c’est un vide profond qui semble avaler tout ce qu’il était encore capable de ressentir.  
 
-Il serre les mains, sent la morsure froide du vent sur sa peau, mais aucune sensation ne vient vraiment combler ce creux à l’intérieur. Cet espace vide le fait vaciller entre tristesse et un étrange engourdissement, comme si une partie de lui s’était effacée avec la rupture. Hugo se demande s’il retrouvera un jour ce goût à la vie, cette énergie qui semblait si naturelle avant.  
+À 27 ans, musicien semi-professionnel qui paye ses factures comme serveur, il serre les mains, sent la morsure froide du vent sur sa peau, mais aucune sensation ne vient vraiment combler ce creux à l’intérieur. Même la musique, qui a toujours été son refuge, ne lui parle plus. Son frère jumeau Théo l’a appelé hier, mais Hugo n’a pas décroché. Cet espace vide le fait vaciller entre tristesse et un étrange engourdissement, comme si une partie de lui s’était effacée avec la rupture. Hugo se demande s’il retrouvera un jour ce goût à la vie, cette énergie qui semblait si naturelle avant.  
 
 Dans sa tête, les souvenirs s’entremêlent, mais ce vide intérieur persiste, pesant, inquiétant. Il se sent dépendant de ce qui n’est plus, comme s’il avait perdu une part essentielle de lui-même avec sa relation. Chaque jour est un combat silencieux contre ce manque qu’il ne parvient pas à nommer, à comprendre, mais qui l’habite intensément.  
 
@@ -61,7 +61,7 @@ Plutôt que de lutter contre cette sensation de vide, Hugo apprend à l’accuei
 
 L’écriture thérapeutique est une technique puissante pour donner un sens à ce que l’on vit. Hugo peut écrire chaque jour ce qu’il ressent, sans se censurer, comme s’il parlait à un ami intime ou à lui-même. Ce flux d’écriture aide à mettre des mots sur le vide intérieur, à clarifier ses émotions, et à prendre du recul.  
 
-Un exercice simple est d’écrire pendant 10 minutes sans arrêter, en laissant couler ses pensées sur la rupture, la solitude, ses peurs. Cette pratique favorise la libération émotionnelle et peut révéler des ressources insoupçonnées pour avancer.  
+Un exercice simple est d’écrire pendant 10 minutes sans arrêter, en laissant couler ses pensées sur la rupture, la solitude, ses peurs. Hugo, qui compose habituellement des textes de chansons sur ses émotions, peut transformer cette écriture en paroles, un pont entre sa douleur et son art. Cette pratique favorise la libération émotionnelle et peut révéler des ressources insoupçonnées pour avancer.  
 
 ### 3. **Se reconnecter à ses besoins personnels**  
 

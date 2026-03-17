@@ -17,7 +17,7 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-zeigarnik-manager-perfectionniste/">Effet Zeigarnik en tant que manager : comment le détecter et le gérer</a></h3>
     <div class="parcours-date">2026-03-11</div>
-    <p class="parcours-resume">Interrompue en pleine préparation d'une présentation, Nadia sent une tension sourde qui ne la quitte plus. Cette obsession des tâches inachevées, connue sous le nom d'effet Zeigarnik, la maintient dans un état d'alerte permanent qui épuise son énergie de manager.</p>
+    <p class="parcours-resume">Interrompue en pleine préparation, Nadia, 38 ans, directrice marketing divorcée, sent une tension sourde qui ne la quitte plus. Entre son équipe, les mails de son assistante Julie et le rappel de récupérer sa fille Yasmine chez son ex-mari, l'effet Zeigarnik la maintient en alerte permanente.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Nadia prend du recul sur ses propres pensées et identifie un biais cognitif à l'oeuvre. Cette prise de conscience l'aide à reprendre le contrôle de son raisonnement.</p>

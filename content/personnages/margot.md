@@ -17,7 +17,7 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/drivers-contraignants-reconversion-professionnelle/">Se libérer des drivers contraignants en reconversion professionnelle</a></h3>
     <div class="parcours-date">2026-03-11</div>
-    <p class="parcours-resume">À 22h30, Margot fixe une page blanche sur son écran. Après vingt-cinq ans dans la finance et une reconversion entamée avec enthousiasme, elle se retrouve paralysée par des voix intérieures qui lui répètent « sois parfaite » et « fais plus d'efforts », des drivers contraignants qui sabotent son nouveau départ.</p>
+    <p class="parcours-resume">À 22h30, pendant que Philippe dort, Margot fixe une page blanche sur son écran. Après vingt-cinq ans dans le commerce comme directrice commerciale et une reconversion vers le coaching, elle se retrouve paralysée par des voix intérieures qui lui répètent « sois parfaite » et « fais plus d'efforts ».</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Margot prend conscience d'un schéma répétitif qui s'active dans cette situation. Malgré son côté volontaire, elle commence à identifier les déclencheurs et à envisager d'autres façons de réagir.</p>

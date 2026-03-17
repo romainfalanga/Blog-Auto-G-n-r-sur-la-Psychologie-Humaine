@@ -17,7 +17,7 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/stress-post-traumatique-complexe-deuil/">Comprendre le stress post-traumatique complexe (C-PTSD) lors d'un deuil</a></h3>
     <div class="parcours-date">2026-03-07</div>
-    <p class="parcours-resume">Depuis la disparition de sa grand-mère il y a trois mois, Djamila tourne en rond dans son appartement silencieux, hantée par les mots non dits et les souvenirs douloureux. Un bruit anodin suffit à la replonger dans l'angoisse, révélant les symptômes d'un stress post-traumatique complexe lié au deuil.</p>
+    <p class="parcours-resume">Pendant qu'Adam, 6 ans, dort dans la chambre d'à côté, Djamila tourne en rond dans l'appartement qu'elle a reconstruit seule après avoir quitté son ex-conjoint manipulateur Samir. La disparition de sa grand-mère il y a trois mois ravive des traumatismes empilés que son corps n'a jamais digérés.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Djamila prend conscience d'un schéma répétitif qui s'active dans cette situation. Malgré son côté combative, elle commence à identifier les déclencheurs et à envisager d'autres façons de réagir.</p>

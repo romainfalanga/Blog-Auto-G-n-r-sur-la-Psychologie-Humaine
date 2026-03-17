@@ -17,7 +17,7 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/fatigue-compassion-face-maladie/">Fatigue de compassion face à la maladie : comment aider au quotidien</a></h3>
     <div class="parcours-date">2026-03-15</div>
-    <p class="parcours-resume">Le 15 mars 2026, Camille se sent émotionnellement vide et anesthésiée face à la détresse d'un patient en cardiologie. Malgré le soutien de sa collègue Claire et la proposition d'aide de son mari David, elle s'enferme dans le déni et refuse de déléguer les tâches familiales auprès de ses enfants, Léo et Emma.</p>
+    <p class="parcours-resume">Dans le box de cardiologie, Camille note le mot « vide » sur un post-it. Sa collègue Nathalie pose une main rassurante sur son épaule, mais elle répond par un sourire mécanique. À la maison, Léo et Emma attendent, et David propose d'aider, mais admettre sa fatigue de compassion lui semble une défaite.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Camille prend conscience que son don de soi sans limite a un coût réel et identifie son état comme de la fatigue de compassion. Elle commence à faire le lien entre son épuisement professionnel actuel et ses schémas passés liés à l'exigence maternelle et la parentification.</p>

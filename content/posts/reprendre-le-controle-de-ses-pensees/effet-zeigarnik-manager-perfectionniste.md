@@ -13,11 +13,11 @@ contexte: "en tant que manager"
 draft: false
 ---
 
-Nadia est assise dans son bureau. Son regard se balade nerveusement entre l’écran de son ordinateur et la pile de dossiers sur la table. Elle a commencé une présentation importante pour son équipe, mais une réunion impromptue l’a interrompu au milieu de la préparation. Elle sent une tension sourde dans sa poitrine, une sorte de poids qui ne le quitte pas. Elle jette un coup d’œil à son téléphone : depuis ce matin, trois notifications de mails non lus clignotent, mais elle n’arrive pas à s’y plonger.
+Nadia, 38 ans, directrice marketing dans une entreprise tech, est assise dans son bureau. Son regard se balade nerveusement entre l’écran de son ordinateur et la pile de dossiers sur la table. Elle a commencé une présentation importante pour son équipe, mais une réunion impromptue l’a interrompue au milieu de la préparation. Elle sent une tension sourde dans sa poitrine, une sorte de poids qui ne la quitte pas. Elle jette un coup d’œil à son téléphone : depuis ce matin, trois notifications de mails non lus clignotent, un message de son assistante Julie, et un rappel qu’elle doit récupérer sa fille Yasmine, 8 ans, à 18h chez son ex-mari — les joies de la garde alternée. Mais elle n’arrive pas à s’y plonger.
 
-Dans sa tête, les tâches s’amoncellent : finir la présentation, répondre aux mails, préparer le planning de la semaine, sans oublier les retours à faire à ses collaborateurs. Pourtant, elle a décidé de ranger son bureau et de faire une pause café. Mais même en dehors de son bureau, elle ne peut s’empêcher de divaguer sur ce qu’elle n’a pas terminé. Le visage crispée, elle sait qu’elle doit faire plus, mieux, tout de suite.
+Dans sa tête, les tâches s’amoncellent : finir la présentation, répondre aux mails, préparer le planning de la semaine, sans oublier les retours à faire à ses collaborateurs. Pourtant, elle a décidé de ranger son bureau et de faire une pause café. Mais même en dehors de son bureau, elle ne peut s’empêcher de divaguer sur ce qu’elle n’a pas terminé. Le visage crispé, elle sait qu’elle doit faire plus, mieux, tout de suite.
 
-Nadia vit ce moment comme une petite guerre intérieure : impossible de se détacher de ces activités inachevées qui l’appellent sans cesse. Elle ne comprend pas pourquoi elle a tant de mal à se concentrer alors qu’elle a simplement été interrompu. Elle se sent coupable de ne pas avancer aussi vite qu’elle le voudrait.  
+Nadia vit ce moment comme une petite guerre intérieure : impossible de se détacher de ces activités inachevées qui l’appellent sans cesse. Elle ne comprend pas pourquoi elle a tant de mal à se concentrer alors qu’elle a simplement été interrompue. Elle se sent coupable de ne pas avancer aussi vite qu’elle le voudrait.  
 
 ### Qu’est-ce que l’effet Zeigarnik ?  
 

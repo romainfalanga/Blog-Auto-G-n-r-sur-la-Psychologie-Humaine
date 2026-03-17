@@ -17,7 +17,7 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/rejet-societe-interactions-sociales/">Rejet en société et dans les interactions sociales : comprendre et dépasser ses peurs</a></h3>
     <div class="parcours-date">2026-03-09</div>
-    <p class="parcours-resume">Sur la terrasse d'un café, Léa observe les conversations animées autour d'elle, les mains moites serrées sur sa tasse. Malgré ses efforts à une fête la veille, un sentiment lourd de rejet s'est installé, la poussant à se replier sur elle-même dans chaque interaction sociale.</p>
+    <p class="parcours-resume">Sur la terrasse d'un café près de la fac, Léa, 23 ans, étudiante en master de psychologie clinique, attend son amie Zoé en observant les conversations animées autour d'elle. Malgré ses efforts, un sentiment lourd de rejet s'installe, écho du divorce de ses parents quand elle avait 6 ans.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Léa apprend à identifier et nommer ce qu'elle ressent dans cette situation, une étape importante pour mieux réguler ses émotions plutôt que de les subir.</p>
