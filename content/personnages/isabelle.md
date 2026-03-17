@@ -1,13 +1,13 @@
 ---
 title: "Isabelle, 47 ans"
-date: 2026-03-16T07:50:34+00:00
-description: "Isabelle est psychologue scolaire dans un collège, divorcée, un fils adolescent (Théo, 16 ans)."
+date: 2026-03-17T18:03:46+00:00
+description: "Isabelle est psychologue scolaire dans un collège. Divorcée, un fils adolescent (théo, 16 ans)."
 slug: "isabelle"
 prenom: "Isabelle"
 profession: "Psychologue scolaire dans un collège"
 situation: "Divorcée, un fils adolescent (théo, 16 ans)"
 nb_articles: 1
-weight: 9
+weight: 10
 draft: false
 ---
 
@@ -15,7 +15,7 @@ draft: false
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-anxieux-preoccupe-couple/">Comprendre l'attachement anxieux-préoccupé en couple : le cas de Isabelle</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-anxieux-preoccupe-couple/">Comprendre l'attachement anxieux-préoccupé en couple : le cas de Kévin</a></h3>
     <div class="parcours-date">2026-03-08</div>
     <p class="parcours-resume">Isabelle, 47 ans, psychologue scolaire et mère de Théo, guette chaque message de sa compagne Aurélie partie faire les courses. Chaque minute de silence alimente son anxiété relationnelle, révélant un style d'attachement anxieux-préoccupé qui transforme l'absence ordinaire en menace d'abandon.</p>
     <div class="parcours-evolution">

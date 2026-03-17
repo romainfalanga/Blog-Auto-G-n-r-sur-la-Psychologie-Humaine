@@ -1,13 +1,13 @@
 ---
 title: "Thomas, 34 ans"
-date: 2026-03-16T07:50:34+00:00
-description: "Thomas est enseignant d'histoire-géographie au lycée, en couple avec Émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité."
+date: 2026-03-17T18:03:46+00:00
+description: "Thomas est enseignant d'histoire-géographie au lycée. En couple avec émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité."
 slug: "thomas"
 prenom: "Thomas"
 profession: "Enseignant d'histoire-géographie au lycée"
 situation: "En couple avec émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité"
 nb_articles: 1
-weight: 3
+weight: 5
 draft: false
 ---
 

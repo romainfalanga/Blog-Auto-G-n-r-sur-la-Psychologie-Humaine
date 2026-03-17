@@ -574,6 +574,32 @@
           "category": "cat3_schemas",
           "titre": "Abandon/instabilité face à la solitude : comprendre et agir",
           "slug": "abandon-instabilite-face-solitude"
+        },
+        {
+          "date": "2026-03-17",
+          "sujet": "raisonnement émotionnel",
+          "contexte": "seul(e) face à soi-même",
+          "category": "cat1_pensees",
+          "titre": "Raisonnement émotionnel seul(e) face à soi-même : quand le ressenti ment",
+          "slug": "raisonnement-emotionnel-seul-face-a-soi",
+          "resume_narratif": "Adrien, graphiste freelance, se retrouve paralysé devant une toile blanche dans son atelier, interprétant son anxiété comme une preuve de l'échec futur de son projet. Il se remémore sa rupture avec Marina et ses échanges avec son ami Julien pour comprendre comment ses émotions dictent sa perception de la réalité.",
+          "evolution": "Il a pris conscience de la transversalité de ses schémas, réalisant que le raisonnement émotionnel qu'il appliquait à sa vie sentimentale affecte désormais sa sphère professionnelle. Il décide de ne plus subir ces pensées mais de les noter dans un carnet pour les interroger objectivement.",
+          "elements_cles": {
+            "lieux": [
+              "Atelier d'Adrien",
+              "Appartement (souvenir du 7 mars)"
+            ],
+            "personnes": [
+              "Marina (ex-compagne)",
+              "Julien (ami de soutien)",
+              "Client (en attente du visuel)"
+            ],
+            "techniques_et_decisions": [
+              "Utilisation d'un carnet pour décoder les pensées",
+              "Distinction entre ressentis et faits objectifs",
+              "Observation de la procrastination comme mécanisme de défense"
+            ]
+          }
         }
       ],
       "genre": "M",
@@ -663,6 +689,37 @@
           "category": "cat3_schemas",
           "titre": "Se libérer des drivers contraignants en reconversion professionnelle",
           "slug": "drivers-contraignants-reconversion-professionnelle"
+        },
+        {
+          "date": "2026-03-17",
+          "sujet": "négativité/pessimisme",
+          "contexte": "en période de reconversion professionnelle",
+          "category": "cat3_schemas",
+          "titre": "Comment la négativité/pessimisme bloque la reconversion professionnelle",
+          "slug": "negativite-pessimisme-reconversion",
+          "resume_narratif": "Après une séance de formation de coaching réussie à Lyon avec sa mentor Sylvie, Margot sombre dans des pensées pessimistes sur le parking. Malgré les retours positifs, elle s'inquiète pour ses finances et sa légitimité, avant de rentrer chez elle retrouver Philippe où elle envisage de rompre son silence habituel.",
+          "evolution": "Margot identifie que son pessimisme est un mécanisme de défense lié à son exigence de perfection et à ses anciens drivers ('sois forte', 'fais des efforts'). Elle prend conscience de sa tendance à dévaloriser ses vingt-cinq ans de carrière et ressent le besoin inédit de partager ses doutes plutôt que de tout porter seule.",
+          "elements_cles": {
+            "personnages": [
+              "Margot",
+              "Sylvie (mentor)",
+              "Philippe (conjoint)"
+            ],
+            "lieux": [
+              "École de coaching à Lyon",
+              "Parking sous la pluie",
+              "Domicile de Margot"
+            ],
+            "contexte_pro": [
+              "Reconversion après 25 ans comme directrice commerciale",
+              "Formation de coaching en cours"
+            ],
+            "blocages_identifiés": [
+              "Peur de la page blanche",
+              "Syndrome de l'imposteur",
+              "Drivers 'sois forte' et 'fais des efforts'"
+            ]
+          }
         }
       ],
       "genre": "F",
@@ -992,6 +1049,36 @@
           "category": "cat3_schemas",
           "titre": "Attachement sécure face à l'argent : comprendre et progresser",
           "slug": "attachement-secure-argent-finances"
+        },
+        {
+          "date": "2026-03-17",
+          "sujet": "abandon émotionnel",
+          "contexte": "avec ses parents",
+          "category": "cat2_emotions",
+          "titre": "Abandon émotionnel avec ses parents : comprendre et agir",
+          "slug": "abandon-emotionnel-parents",
+          "resume_narratif": "En triant des cartons d'enfance dans le garage d'Anne, Léa découvre un dessin illustrant son sentiment d'invisibilité lors des disputes de ses parents. Cette trouvaille l'amène à analyser son passé à la lumière de ses études en psychologie clinique, faisant le lien entre ses traumatismes d'enfance et ses comportements actuels.",
+          "evolution": "Léa identifie que son besoin compulsif de 'sauver' les autres et sa peur du rejet social, notamment avec Zoé, prennent racine dans l'abandon émotionnel parental et la parentification qu'elle a subis.",
+          "elements_cles": {
+            "lieux": [
+              "Garage d'Anne",
+              "Studio de Léa"
+            ],
+            "personnages": [
+              "Léa (23 ans, étudiante en Master de psychologie)",
+              "Anne",
+              "Zoé (mentionnée pour le conflit relationnel)"
+            ],
+            "objets_symboliques": [
+              "Dessin d'enfant à l'agrafe rouillée",
+              "Cartons de souvenirs"
+            ],
+            "concepts_identifies": [
+              "Abandon émotionnel",
+              "Parentification",
+              "Théorie de l'attachement"
+            ]
+          }
         }
       ],
       "genre": "F",

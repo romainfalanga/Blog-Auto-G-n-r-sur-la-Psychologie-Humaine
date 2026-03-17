@@ -1,13 +1,13 @@
 ---
 title: "Lucas, 24 ans"
-date: 2026-03-16T07:50:34+00:00
-description: "Lucas est étudiant en dernière année d'école de commerce, en stage, célibataire, en colocation avec deux amis."
+date: 2026-03-17T18:03:46+00:00
+description: "Lucas est étudiant en dernière année d'école de commerce, en stage. Célibataire, en colocation avec deux amis."
 slug: "lucas"
 prenom: "Lucas"
 profession: "Étudiant en dernière année d'école de commerce, en stage"
 situation: "Célibataire, en colocation avec deux amis"
 nb_articles: 1
-weight: 4
+weight: 7
 draft: false
 ---
 
