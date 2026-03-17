@@ -67,48 +67,6 @@
       "evolution": "Youssef prend du recul sur ses propres pensées et identifie un biais cognitif à l'oeuvre. Cette prise de conscience l'aide à reprendre le contrôle de son raisonnement."
     },
     {
-      "date": "migré",
-      "category_key": "cat1_pensees",
-      "category_name": "Reprendre le contrôle de ses pensées",
-      "sujet": "biais de projection",
-      "contexte": "en colocation",
-      "angle": "les erreurs que tout le monde fait",
-      "profil": null,
-      "prenom": "",
-      "age": "",
-      "title": "",
-      "slug": "biais-projection-en-colocation-erreurs",
-      "tags": []
-    },
-    {
-      "date": "migré",
-      "category_key": "cat2_emotions",
-      "category_name": "Comprendre et maîtriser ses émotions",
-      "sujet": "indifférence",
-      "contexte": "en période de reconversion professionnelle",
-      "angle": "3 techniques/exercices pratiques",
-      "profil": null,
-      "prenom": "",
-      "age": "",
-      "title": "",
-      "slug": "indifference-reconversion-professionnelle",
-      "tags": []
-    },
-    {
-      "date": "migré",
-      "category_key": "cat3_schemas",
-      "category_name": "Sortir de ses schémas répétitifs",
-      "sujet": "le syndrome de l'imposteur",
-      "contexte": "en société et dans les interactions sociales",
-      "angle": "3 techniques/exercices pratiques",
-      "profil": null,
-      "prenom": "",
-      "age": "",
-      "title": "",
-      "slug": "syndrome-imposteur-societe-interactions",
-      "tags": []
-    },
-    {
       "date": "2026-03-07",
       "category_key": "cat1_pensees",
       "category_name": "Reprendre le contrôle de ses pensées",
