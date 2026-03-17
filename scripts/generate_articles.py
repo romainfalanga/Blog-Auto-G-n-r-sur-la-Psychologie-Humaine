@@ -1476,6 +1476,7 @@ MÉTHODE NARRATIVE OBLIGATOIRE :
 RÈGLES DE RÉDACTION :
 - Langue : français impeccable et fluide
 - N'utilise JAMAIS le tiret long (—), le tiret cadratin ni le tiret semi-cadratin (–) comme ponctuation dans le texte. Utilise des virgules, des parenthèses ou reformule la phrase autrement. Les traits d'union (-) dans les mots composés (ex : moi-même, peut-être) sont autorisés. Ceci est une règle absolue.
+- N'utilise JAMAIS le slash (/) pour séparer deux mots ou concepts dans les titres, sous-titres (H2/H3) ou le corps de l'article. Si le sujet fourni contient un slash (ex: "abandon/instabilité"), remplace-le par "et" ou choisis le terme le plus pertinent. Exemples corrects : "abandon et instabilité" au lieu de "abandon/instabilité", "surcontrôle émotionnel" au lieu de "surcontrôle émotionnel/inhibition". Ceci est une règle absolue.
 - Ton : accessible, empathique, bienveillant, non-jugeant, chaleureux
 - Vulgarise TOUJOURS les concepts complexes avec des mots simples et des métaphores du quotidien
 - Inclus des exemples concrets auxquels le lecteur s'identifie
@@ -1952,6 +1953,11 @@ def validate_article(metadata, content, combo):
         issues.append("description manquante")
     if not metadata.get("tags") or len(metadata.get("tags", [])) == 0:
         issues.append("tags manquants")
+
+    # Vérifier l'absence de slashes dans le titre
+    title = metadata.get("title", "")
+    if "/" in title:
+        issues.append(f"slash interdit dans le titre : '{title}'")
 
     # Vérifier la longueur du contenu (minimum 1000 mots)
     word_count = len(content.split())

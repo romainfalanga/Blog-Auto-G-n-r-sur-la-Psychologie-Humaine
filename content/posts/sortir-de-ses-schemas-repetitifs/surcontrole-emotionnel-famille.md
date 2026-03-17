@@ -1,5 +1,5 @@
 ---
-title: "Surcontrôle émotionnel/inhibition en famille : comment s'en libérer"
+title: "Surcontrôle émotionnel en famille : comment s'en libérer"
 date: 2026-03-15T17:42:40+00:00
 description: "Patrick apprend à décrocher du surcontrôle émotionnel en famille, étape par étape, avec 3 techniques pratiques et bienveillantes."
 categories: ["Sortir de ses schémas répétitifs"]

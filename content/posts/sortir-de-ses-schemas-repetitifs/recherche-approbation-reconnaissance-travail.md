@@ -8,7 +8,7 @@ slug: "recherche-approbation-reconnaissance-travail"
 readingTime: 4
 wordCount: 906
 personnage: "Stéphane"
-sujet: "recherche d'approbation/reconnaissance"
+sujet: "recherche d'approbation et de reconnaissance"
 contexte: "au travail"
 draft: false
 ---
