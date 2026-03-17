@@ -1,7 +1,7 @@
 ---
-title: "Comment la négativité/pessimisme bloque la reconversion professionnelle"
+title: "Comment la négativité bloque la reconversion professionnelle"
 date: 2026-03-17T18:03:40+00:00
-description: "Margot, 52 ans, explore pourquoi la négativité/pessimisme freine sa reconversion en coaching et apprend 3 outils concrets pour avancer."
+description: "Margot, 52 ans, explore pourquoi la négativité freine sa reconversion en coaching et apprend 3 outils concrets pour avancer."
 categories: ["Sortir de ses schémas répétitifs"]
 tags: ["reconversion professionnelle", "pessimisme", "psychologie", "crise de mi-vie", "coaching"]
 slug: "negativite-pessimisme-reconversion"
