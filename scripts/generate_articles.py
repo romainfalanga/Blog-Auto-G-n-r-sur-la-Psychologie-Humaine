@@ -112,7 +112,7 @@ def extract_narrative_summary(content, combo):
         f"Personnage : {combo['prenom']}\n"
         f"Sujet : {combo['sujet']}\n"
         f"Contexte : {combo['contexte']}\n\n"
-        f"Article :\n{content[:3000]}\n\n"
+        f"Article :\n{content[:5000]}\n\n"
         "Extrais ces 3 informations en JSON :\n"
         "{\n"
         '  "resume_narratif": "2-3 phrases résumant ce qui est arrivé au personnage dans cet article (les événements concrets, les personnes impliquées)",\n'
@@ -425,6 +425,71 @@ def format_character_analysis_for_prompt(perso, analysis, perso_articles):
 
     lines.append("")
     return "\n".join(lines)
+
+
+def select_priority_characters(personnages, matrix, count=3, exclude_recent_days=3):
+    """Sélectionne de manière DÉTERMINISTE les personnages prioritaires.
+
+    Critère principal : les personnages avec le MOINS d'articles.
+    Critère de départage : score de profondeur le plus bas.
+    Exclusion : personnages utilisés dans les N derniers jours (sauf s'il n'y a pas assez de candidats).
+
+    Retourne une liste de `count` personnages triés par priorité.
+    """
+    articles = matrix.get("articles", [])
+
+    # Compter les articles par personnage
+    article_counts = {}
+    for a in articles:
+        p = a.get("prenom", "")
+        if p:
+            article_counts[p] = article_counts.get(p, 0) + 1
+
+    # Identifier les personnages utilisés récemment
+    from datetime import timedelta
+    today = datetime.now(timezone.utc).date()
+    recent_cutoff = today - timedelta(days=exclude_recent_days)
+    recently_used = set()
+    for a in articles:
+        date_str = a.get("date", "")
+        if date_str and date_str != "migré":
+            try:
+                article_date = datetime.strptime(date_str, "%Y-%m-%d").date()
+                if article_date >= recent_cutoff:
+                    recently_used.add(a.get("prenom", ""))
+            except ValueError:
+                pass
+
+    # Calculer le score de profondeur pour départager
+    perso_articles_map = {}
+    for a in articles:
+        p = a.get("prenom", "")
+        if p:
+            perso_articles_map.setdefault(p, []).append(a)
+
+    candidates = []
+    for perso in personnages:
+        prenom = perso["prenom"]
+        nb_articles = article_counts.get(prenom, 0)
+        perso_arts = perso_articles_map.get(prenom, [])
+        depth = analyze_character_depth(perso, perso_arts)["depth_score"]
+        is_recent = prenom in recently_used
+        candidates.append((perso, nb_articles, depth, is_recent))
+
+    # Trier : non-récents d'abord, puis par nb articles croissant, puis par profondeur croissante
+    candidates.sort(key=lambda x: (x[3], x[1], x[2]))
+
+    selected = [c[0] for c in candidates[:count]]
+
+    # Si on n'a pas assez de non-récents, on prend quand même les récents les moins utilisés
+    if len(selected) < count:
+        selected = [c[0] for c in candidates[:count]]
+
+    for s in selected:
+        nb = article_counts.get(s["prenom"], 0)
+        print(f"  [Priorité] {s['prenom']} sélectionné ({nb} articles, récent: {s['prenom'] in recently_used})")
+
+    return selected
 
 
 def build_character_arcs_summary(personnages, matrix):
@@ -867,12 +932,11 @@ Les indices doivent correspondre aux listes ci-dessus. Pas de texte autour du JS
     return system_prompt, user_prompt
 
 
-def build_gemini_character_first_prompt(character_arcs_summary, matrix_summary, personnages, today_str):
+def build_gemini_character_first_prompt(character_arcs_summary, matrix_summary, personnages, today_str, priority_characters=None):
     """Construit le prompt Gemini 'character-first' orienté cohérence active.
 
-    La question centrale n'est plus "quelle est la suite logique ?" mais
-    "qu'est-ce qui viendrait rationaliser, approfondir ou enrichir ce qui a
-    déjà été établi sur ces personnages ?"
+    Si priority_characters est fourni (liste de 3 personnages), Gemini DOIT
+    utiliser exactement ces personnages. Sinon, Gemini choisit librement.
     """
 
     cat1_sujets = CATEGORIES["cat1_pensees"]["sujets"]
@@ -890,6 +954,25 @@ def build_gemini_character_first_prompt(character_arcs_summary, matrix_summary, 
         f"  {i}: \"{p['prenom']}\" ({p['age']} ans, {p['profession']})"
         for i, p in enumerate(personnages)
     )
+
+    # Construire la contrainte de personnages obligatoires
+    priority_constraint = ""
+    if priority_characters and len(priority_characters) == 3:
+        priority_indices = []
+        for pc in priority_characters:
+            for idx, p in enumerate(personnages):
+                if p["prenom"] == pc["prenom"]:
+                    priority_indices.append((idx, pc["prenom"]))
+                    break
+        priority_names = ", ".join(f"{name} (idx {idx})" for idx, name in priority_indices)
+        priority_constraint = (
+            f"\n\nCONTRAINTE ABSOLUE — PERSONNAGES OBLIGATOIRES :\n"
+            f"Tu DOIS utiliser EXACTEMENT ces 3 personnages (ce sont les 3 avec le MOINS d'articles) :\n"
+            f"  {priority_names}\n"
+            f"Attribue à chacun la catégorie (cat1/cat2/cat3) et le sujet les plus pertinents "
+            f"par rapport à leur profil psychologique et leurs affinités.\n"
+            f"N'utilise AUCUN autre personnage."
+        )
 
     system_prompt = f"""Tu es un directeur éditorial, scénariste et psychologue expert en narration psychologique.
 Tu gères un blog où 20 personnages récurrents vivent des histoires qui illustrent des concepts psychologiques.
@@ -920,12 +1003,12 @@ STRATÉGIE DE SÉLECTION (par ordre de priorité) :
 
 RÈGLES NARRATIVES :
 1. Consulte l'ANALYSE DE PROFONDEUR de chaque personnage (score, lacunes, directions recommandées)
-2. Priorise les personnages avec un score de profondeur faible ou des lacunes identifiées
-3. Le sujet choisi doit répondre à au moins UNE des 4 stratégies ci-dessus (rationaliser/approfondir/enrichir/connecter)
-4. Le contexte doit correspondre à la vie actuelle du personnage (profession, situation, relations)
-5. Évite les combinaisons sujet+contexte déjà traitées et les personnages des 3 derniers jours
-6. 3 personnages DIFFÉRENTS, 3 histoires DIFFÉRENTES
-7. Si un personnage a des affinités naturelles inexploitées, c'est une opportunité prioritaire
+2. Le sujet choisi doit répondre à au moins UNE des 4 stratégies ci-dessus (rationaliser/approfondir/enrichir/connecter)
+3. Le contexte doit correspondre à la vie actuelle du personnage (profession, situation, relations)
+4. Évite les combinaisons sujet+contexte déjà traitées
+5. 3 personnages DIFFÉRENTS, 3 histoires DIFFÉRENTES
+6. Si un personnage a des affinités naturelles inexploitées, c'est une opportunité prioritaire
+{priority_constraint}
 
 IMPORTANT : Réponds UNIQUEMENT avec du JSON valide. Pas de texte avant ni après. Pas de backticks."""
 
@@ -1156,9 +1239,10 @@ def is_combo_used(matrix, cat_key, sujet, contexte):
     return False
 
 
-def get_gemini_suggestions(matrix, personnages=None):
+def get_gemini_suggestions(matrix, personnages=None, priority_characters=None):
     """Appelle Gemini pour obtenir des suggestions.
     Si personnages est fourni, utilise l'approche character-first.
+    Si priority_characters est fourni, ces 3 personnages sont imposés à Gemini.
     Sinon, fallback sur l'approche legacy (sujet-first)."""
 
     matrix_summary = build_matrix_summary(matrix)
@@ -1178,7 +1262,7 @@ def get_gemini_suggestions(matrix, personnages=None):
 
         character_arcs = build_character_arcs_summary(personnages, matrix)
         system_prompt, user_prompt = build_gemini_character_first_prompt(
-            character_arcs, matrix_summary, personnages, today_str
+            character_arcs, matrix_summary, personnages, today_str, priority_characters
         )
 
         print("  Appel Gemini (analyse narrative character-first)...")
@@ -1212,6 +1296,14 @@ def get_gemini_suggestions(matrix, personnages=None):
                 if len(set(prenoms)) != 3:
                     print(f"  Personnages non distincts: {prenoms}")
                     all_valid = False
+
+                # Vérifier que Gemini a utilisé les personnages prioritaires imposés
+                if priority_characters and all_valid:
+                    priority_names = {pc["prenom"] for pc in priority_characters}
+                    actual_names = set(prenoms)
+                    if actual_names != priority_names:
+                        print(f"  Gemini n'a pas respecté les personnages imposés: attendu {priority_names}, reçu {actual_names}")
+                        all_valid = False
 
                 if all_valid:
                     return suggestions
@@ -2103,6 +2195,13 @@ def main():
     print(f"  {len(matrix['articles'])} combinaisons dans la matrice")
     print(f"  {len(personnages)} personnages récurrents chargés\n")
 
+    # ── ÉTAPE 1.5 : Sélection déterministe des 3 personnages prioritaires ──
+    priority_characters = None
+    if personnages:
+        print("\nETAPE 1.5 : Sélection des 3 personnages avec le MOINS d'articles...")
+        priority_characters = select_priority_characters(personnages, matrix, count=3)
+        print(f"  Personnages prioritaires : {', '.join(p['prenom'] for p in priority_characters)}\n")
+
     # ── ÉTAPE 2 : Gemini analyse les arcs narratifs et propose personnage+sujet ──
     print("ETAPE 2 : Analyse narrative par Gemini (character-first)...")
     suggestions = None
@@ -2110,7 +2209,7 @@ def main():
 
     for attempt in range(3):
         try:
-            suggestions = get_gemini_suggestions(matrix, personnages if personnages else None)
+            suggestions = get_gemini_suggestions(matrix, personnages if personnages else None, priority_characters)
             if suggestions:
                 # Déterminer si c'est character-first (contient 'personnage') ou legacy
                 is_character_first = "personnage" in suggestions[0]
@@ -2128,9 +2227,18 @@ def main():
     print("\nETAPE 3 : Rédaction des articles par GPT...")
     system_prompt = build_system_prompt()
 
+    # Indexer les suggestions par catégorie pour éviter les erreurs d'ordre
+    suggestions_by_cat = {}
+    if use_gemini and suggestions:
+        for s in suggestions:
+            suggestions_by_cat[s["category_key"]] = s
+
+    generated_count = 0
+
     for i, cat_key in enumerate(category_keys):
-        if use_gemini:
-            s = suggestions[i]
+        s = suggestions_by_cat.get(cat_key) if use_gemini else None
+
+        if s:
             print(f"\n  --- Catégorie : {CATEGORIES[s['category_key']]['name']} ---")
             combo = {
                 "category_key": s["category_key"],
@@ -2175,13 +2283,22 @@ def main():
                     combo["age"] = random.choice(TRANCHES_AGE)
                     combo["genre"] = "M"
         else:
+            # Fallback aléatoire (pas de suggestion Gemini pour cette catégorie)
             print(f"\n  --- Catégorie : {CATEGORIES[cat_key]['name']} ---")
             combo = generate_random_combination(cat_key, matrix)
             if not combo:
                 print(f"  [SKIP] Catégorie {cat_key} ignorée (toutes les combinaisons épuisées)")
                 continue
             print(f"  [Aléatoire] Sujet : {combo['sujet']}")
-            if personnages:
+            # Utiliser le personnage prioritaire correspondant si disponible
+            if priority_characters and i < len(priority_characters):
+                perso = priority_characters[i]
+                combo["prenom"] = perso["prenom"]
+                combo["age"] = f"{perso['age']} ans"
+                combo["genre"] = perso.get("genre", "M")
+                combo["personnage_context"] = build_personnage_context(perso, matrix)
+                print(f"  [Priorité] Personnage imposé : {perso['prenom']}")
+            elif personnages:
                 best_perso = select_best_personnage(personnages, combo["category_key"], combo["sujet"], combo["contexte"], matrix)
                 combo["prenom"] = best_perso["prenom"]
                 combo["age"] = f"{best_perso['age']} ans"
@@ -2232,8 +2349,40 @@ def main():
                     content = None
 
         if not metadata or not content:
-            print(f"  [SKIP] Catégorie {cat_key} ignorée (impossible de générer un article valide)")
-            continue
+            # Tentative de secours avec un combo aléatoire différent
+            print(f"  [Secours] Tentative avec une combinaison aléatoire pour {cat_key}...")
+            combo = generate_random_combination(cat_key, matrix)
+            if combo:
+                if priority_characters and i < len(priority_characters):
+                    perso = priority_characters[i]
+                    combo["prenom"] = perso["prenom"]
+                    combo["age"] = f"{perso['age']} ans"
+                    combo["genre"] = perso.get("genre", "M")
+                    combo["personnage_context"] = build_personnage_context(perso, matrix)
+
+                for rescue_attempt in range(2):
+                    print(f"  [Secours] Rédaction de secours (tentative {rescue_attempt + 1}/2)...")
+                    article_prompt = build_article_prompt(combo)
+                    raw_response = call_mammouth_api(
+                        model=MODEL_WRITER,
+                        system_prompt=system_prompt,
+                        user_prompt=article_prompt,
+                        temperature=0.9,
+                        max_tokens=4500
+                    )
+                    if raw_response:
+                        metadata, content = parse_article_response(raw_response)
+                        is_valid, _ = validate_article(metadata, content, combo)
+                        if is_valid:
+                            print(f"  [Secours] Article de secours valide !")
+                            break
+                        else:
+                            metadata = None
+                            content = None
+
+            if not metadata or not content:
+                print(f"  [ÉCHEC] Catégorie {cat_key} : impossible de générer un article après toutes les tentatives")
+                continue
 
         # Étape 3.5 : Vérification et correction des tirets cadratins
         content = verify_and_fix_emdashes(content, combo)
@@ -2249,6 +2398,7 @@ def main():
 
         print(f"  Création du fichier Hugo...")
         create_hugo_post(combo, metadata, content)
+        generated_count += 1
 
         # Étape 3.9 : Extraction du résumé narratif pour la continuité
         print(f"  [Narratif] Extraction du résumé narratif...")
@@ -2271,6 +2421,12 @@ def main():
                 "title": metadata.get("title", ""),
                 "slug": metadata.get("slug", ""),
             })
+
+    # Vérification finale : 3 articles générés ?
+    if generated_count < 3:
+        print(f"\n  ⚠ ALERTE : seulement {generated_count}/3 articles générés !")
+    else:
+        print(f"\n  ✓ 3/3 articles générés avec succès")
 
     # Sauvegarder la matrice et les personnages
     save_matrix(matrix)
