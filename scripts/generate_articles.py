@@ -757,18 +757,30 @@ def select_best_personnage(personnages, category_key, sujet, contexte, matrix):
 
 
 def update_personnage_history(personnages, prenom, article_info):
-    """Met à jour l'historique d'un personnage après la génération d'un article."""
+    """Met à jour l'historique d'un personnage après la génération d'un article.
+    Inclut les résumés narratifs pour enrichir le contexte des prompts futurs."""
     for perso in personnages:
         if perso["prenom"] == prenom:
-            perso["historique_articles"].append({
+            entry = {
                 "date": article_info.get("date", ""),
                 "sujet": article_info.get("sujet", ""),
                 "contexte": article_info.get("contexte", ""),
                 "category": article_info.get("category_key", ""),
                 "titre": article_info.get("title", ""),
                 "slug": article_info.get("slug", ""),
-            })
+            }
+            # Ajouter les résumés narratifs s'ils existent
+            if article_info.get("resume_narratif"):
+                entry["resume_narratif"] = article_info["resume_narratif"]
+            if article_info.get("evolution"):
+                entry["evolution"] = article_info["evolution"]
+            if article_info.get("elements_cles"):
+                entry["elements_cles"] = article_info["elements_cles"]
+            perso["historique_articles"].append(entry)
+            print(f"  [Personnage] Historique de {prenom} mis à jour ({len(perso['historique_articles'])} articles)")
             break
+    else:
+        print(f"  [Personnage] ATTENTION : {prenom} non trouvé dans le registre !")
 
 
 def build_personnage_context(perso, matrix=None):
@@ -821,9 +833,17 @@ def build_personnage_context(perso, matrix=None):
             context += f"\n- L'histoire d'aujourd'hui est le PROCHAIN CHAPITRE de sa vie, pas une histoire isolée"
     elif historique:
         context += f"\n\nHISTORIQUE DU PERSONNAGE ({len(historique)} articles précédents) :"
-        context += f"\n{perso['prenom']} est déjà apparu(e) dans ces articles. Fais des références à son parcours :"
-        for h in historique[-5:]:
-            context += f"\n  - \"{h.get('titre', h.get('sujet', ''))}\" ({h.get('contexte', '')})"
+        context += f"\n{perso['prenom']} est un personnage récurrent. Fais des références à son parcours :"
+        for idx, h in enumerate(historique[-6:], 1):
+            context += f"\n  Chapitre {idx} ({h.get('date', '')}) : \"{h.get('titre', h.get('sujet', ''))}\" — \"{h.get('sujet', '')}\" / \"{h.get('contexte', '')}\""
+            if h.get("resume_narratif"):
+                context += f"\n    → {h['resume_narratif']}"
+            if h.get("evolution"):
+                context += f"\n    → Évolution : {h['evolution']}"
+        context += f"\n\nCONTINUITÉ OBLIGATOIRE :"
+        context += f"\n- Fais référence à AU MOINS UN événement passé de {perso['prenom']}"
+        context += f"\n- Montre que {pronom} a ÉVOLUÉ depuis ses expériences précédentes"
+        context += f"\n- L'histoire d'aujourd'hui est le PROCHAIN CHAPITRE de sa vie, pas une histoire isolée"
 
     return context
 
@@ -2636,7 +2656,7 @@ def main():
         # Ajouter à la matrice avec les données narratives
         add_to_matrix(matrix, combo, metadata, resume_narratif, evolution, elements_cles)
 
-        # Mettre à jour l'historique du personnage
+        # Mettre à jour l'historique du personnage (avec résumés narratifs)
         if personnages:
             update_personnage_history(personnages, combo["prenom"], {
                 "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
@@ -2645,6 +2665,9 @@ def main():
                 "category_key": combo["category_key"],
                 "title": metadata.get("title", ""),
                 "slug": metadata.get("slug", ""),
+                "resume_narratif": resume_narratif,
+                "evolution": evolution,
+                "elements_cles": elements_cles,
             })
 
     # Vérification finale : 3 articles générés ?

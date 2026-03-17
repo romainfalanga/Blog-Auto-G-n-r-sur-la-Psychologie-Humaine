@@ -39,7 +39,7 @@ jobs:
         run: |
           git config user.name "Article Bot"
           git config user.email "bot@decode-ton-esprit.com"
-          git add content/ scripts/matrice_combinaisons.json scripts/generated_topics.json scripts/personnages.json content/personnages.md
+          git add content/ scripts/matrice_combinaisons.json scripts/generated_topics.json scripts/personnages.json
           if git diff --staged --quiet; then
             echo "Aucun changement détecté, rien à committer."
             exit 0
