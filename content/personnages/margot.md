@@ -26,7 +26,7 @@ draft: false
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/negativite-pessimisme-reconversion/">Comment la négativité/pessimisme bloque la reconversion professionnelle</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/negativite-pessimisme-reconversion/">Comment la négativité bloque la reconversion professionnelle</a></h3>
     <div class="parcours-date">2026-03-17</div>
     <p class="parcours-resume">Après une séance de formation de coaching réussie à Lyon avec sa mentor Sylvie, Margot sombre dans des pensées pessimistes sur le parking. Malgré les retours positifs, elle s'inquiète pour ses finances et sa légitimité, avant de rentrer chez elle retrouver Philippe où elle envisage de rompre son silence habituel.</p>
     <div class="parcours-evolution">
