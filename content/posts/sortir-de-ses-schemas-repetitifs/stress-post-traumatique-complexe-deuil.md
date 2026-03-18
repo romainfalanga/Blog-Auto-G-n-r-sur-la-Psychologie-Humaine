@@ -29,11 +29,11 @@ Lors d’un deuil, le stress post-traumatique complexe peut apparaître lorsque 
 
 Les manifestations typiques incluent :  
 
-- **Hypervigilance et réactions de sursaut fréquentes**, comme lorsqu’Djamila sursaute au moindre bruit soudain.  
-- **Difficultés à gérer ses émotions**, avec des accès de colère ou de tristesse intenses qui semblent hors de proportion.  
-- **Sentiment profond de vide ou d’inutilité**, qui peut conduire à s’isoler socialement.  
-- **Difficultés à faire confiance aux autres**, même à ceux qui veulent aider, souvent dues à une peur de souffrir à nouveau.  
-- **Répétition de pensées intrusives**, comme des images ou des souvenirs obsédants liés à la perte.  
+- Hypervigilance et réactions de sursaut fréquentes, comme lorsqu’Djamila sursaute au moindre bruit soudain.  
+- Difficultés à gérer ses émotions, avec des accès de colère ou de tristesse intenses qui semblent hors de proportion.  
+- Sentiment profond de vide ou d’inutilité, qui peut conduire à s’isoler socialement.  
+- Difficultés à faire confiance aux autres, même à ceux qui veulent aider, souvent dues à une peur de souffrir à nouveau.  
+- Répétition de pensées intrusives, comme des images ou des souvenirs obsédants liés à la perte.  
 
 Par exemple, un autre cas observé en clinique décrit une jeune femme qui, après la mort de son père dans un accident, se retrouvait incapable de sortir de chez elle, paralysée par l’angoisse et des flashbacks récurrents, symptômes typiques du C-PTSD.  
 

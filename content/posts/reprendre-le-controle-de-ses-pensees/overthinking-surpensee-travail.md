@@ -47,19 +47,19 @@ Exemple concret : tenter de corriger un bug tout en répondant à des messages i
 ## 3 techniques pour reprendre le contrôle face à la surpensée
 
 ### 1. La règle des 5 minutes : interrompre la boucle pensée-action
-**Exercice concret :** Quand la pensée commence à tourner en boucle, Sophie se donne 5 minutes pour écrire la pensée exacte dans son carnet et noter son intensité sur une échelle de 0 à 10. Une fois ce temps écoulé, elle ferme le carnet, lance un minuteur de 25 minutes (technique Pomodoro) et se concentre uniquement sur une tâche précise. Si la pensée revient, elle la note brièvement et se replonge dans son travail. Cet exercice crée une séparation entre la réflexion et l'action.
+Exercice concret : Quand la pensée commence à tourner en boucle, Sophie se donne 5 minutes pour écrire la pensée exacte dans son carnet et noter son intensité sur une échelle de 0 à 10. Une fois ce temps écoulé, elle ferme le carnet, lance un minuteur de 25 minutes (technique Pomodoro) et se concentre uniquement sur une tâche précise. Si la pensée revient, elle la note brièvement et se replonge dans son travail. Cet exercice crée une séparation entre la réflexion et l'action.
 
-**Pourquoi ça marche :** Mettre un cadre temporel et externaliser la pensée réduit son pouvoir. Le cerveau est rassuré, car il sait qu'il pourra y revenir plus tard. Sophie utilise déjà un carnet depuis son travail sur l'irritabilité, et cette règle renforce cette bonne habitude.
+Pourquoi ça marche : Mettre un cadre temporel et externaliser la pensée réduit son pouvoir. Le cerveau est rassuré, car il sait qu'il pourra y revenir plus tard. Sophie utilise déjà un carnet depuis son travail sur l'irritabilité, et cette règle renforce cette bonne habitude.
 
 ### 2. La distanciation métacognitive : regarder la pensée comme un objet
-**Exercice concret :** Sophie apprend à se dire : "Je remarque que je suis en train d'anticiper un bug" plutôt que "Je vais forcément faire une erreur". Elle pratique cet exercice trois fois par jour : assise, les yeux fermés, elle observe une pensée liée au travail et lui donne un nom simple, comme "anticipation" ou "jugement". Elle visualise la pensée comme un nuage qui passe, sans s'y accrocher.
+Exercice concret : Sophie apprend à se dire : "Je remarque que je suis en train d'anticiper un bug" plutôt que "Je vais forcément faire une erreur". Elle pratique cet exercice trois fois par jour : assise, les yeux fermés, elle observe une pensée liée au travail et lui donne un nom simple, comme "anticipation" ou "jugement". Elle visualise la pensée comme un nuage qui passe, sans s'y accrocher.
 
-**Pourquoi ça marche :** Cette distance, appelée décentration, casse le lien automatique entre la pensée et l'émotion. En reconnaissant la pensée comme une simple construction mentale, Sophie réduit l'intensité du stress. C'est une technique qu'elle commence à maîtriser grâce à la pleine conscience.
+Pourquoi ça marche : Cette distance, appelée décentration, casse le lien automatique entre la pensée et l'émotion. En reconnaissant la pensée comme une simple construction mentale, Sophie réduit l'intensité du stress. C'est une technique qu'elle commence à maîtriser grâce à la pleine conscience.
 
 ### 3. Le plan de vérification limité : réduire l'obsession du détail
-**Exercice concret :** Pour éviter de réécrire la même fonction dix fois, Sophie définit un plan de vérification en deux étapes : d'abord une checklist minimale pour les points critiques (tests validés, revue par Marc), puis un temps maximum pour les améliorations secondaires (par exemple 30 minutes). Elle s'engage à respecter ce plan et à fermer son ticket même si elle n'a pas l'impression que tout est parfait.
+Exercice concret : Pour éviter de réécrire la même fonction dix fois, Sophie définit un plan de vérification en deux étapes : d'abord une checklist minimale pour les points critiques (tests validés, revue par Marc), puis un temps maximum pour les améliorations secondaires (par exemple 30 minutes). Elle s'engage à respecter ce plan et à fermer son ticket même si elle n'a pas l'impression que tout est parfait.
 
-**Pourquoi ça marche :** Encadrer la vérification empêche l'exigence de se transformer en paralysie. Sophie, qui a grandi avec les attentes élevées de son père ingénieur, trouve ici une façon structurée d'honorer ses standards sans y laisser toute son énergie.
+Pourquoi ça marche : Encadrer la vérification empêche l'exigence de se transformer en paralysie. Sophie, qui a grandi avec les attentes élevées de son père ingénieur, trouve ici une façon structurée d'honorer ses standards sans y laisser toute son énergie.
 
 ## Sophie commence à reprendre le dessus
 

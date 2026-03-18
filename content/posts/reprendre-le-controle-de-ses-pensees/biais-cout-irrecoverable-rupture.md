@@ -29,9 +29,9 @@ Ce concept, étudié notamment par le psychologue Paul Samuelson, explique pourq
 
 Après une rupture, ce biais peut se manifester de plusieurs façons :
 
-- **Se raccrocher aux souvenirs et à l’espoir** : On repense sans cesse aux bons moments et on s’accroche à l’idée que la relation peut être sauvée, parce qu’on a « déjà donné tellement de soi ».
-- **Entretenir des habitudes toxiques** : Relire d’anciens messages, consulter les réseaux sociaux de l’ex-partenaire, ou même le contacter malgré les blessures.
-- **Ignorer les signaux d’alerte** : Continuer à se blâmer, à espérer que l’autre reviendra, même si cela nourrit un mal-être grandissant.
+- Se raccrocher aux souvenirs et à l’espoir : On repense sans cesse aux bons moments et on s’accroche à l’idée que la relation peut être sauvée, parce qu’on a « déjà donné tellement de soi ».
+- Entretenir des habitudes toxiques : Relire d’anciens messages, consulter les réseaux sociaux de l’ex-partenaire, ou même le contacter malgré les blessures.
+- Ignorer les signaux d’alerte : Continuer à se blâmer, à espérer que l’autre reviendra, même si cela nourrit un mal-être grandissant.
 
 Dans le cas de Fabien, chaque message non répondu est un rappel cruel de ce qu’il a investi et perdu. Son cerveau lui souffle qu’il doit continuer à espérer, car renoncer serait comme jeter tous ces mois par la fenêtre. Mais le poids du passé l’empêche de construire un futur apaisé.
 

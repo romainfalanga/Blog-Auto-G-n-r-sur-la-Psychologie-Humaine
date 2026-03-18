@@ -27,11 +27,11 @@ Les drivers contraignants sont des messages intériorisés depuis l'enfance qui 
 
 Kahler a identifié cinq drivers principaux qui fonctionnent comme des programmes automatiques :
 
-- **Sois parfait** : l'exigence constante de tout faire sans erreur, le refus de l'approximation.
-- **Fais plaisir** : le besoin de répondre aux attentes des autres avant les siennes, la peur de décevoir.
-- **Sois fort** : l'interdiction de montrer sa vulnérabilité, de demander de l'aide ou d'exprimer ses émotions.
-- **Dépêche-toi** : l'urgence permanente, l'impossibilité de prendre son temps, la sensation que tout doit aller vite.
-- **Fais des efforts** : la croyance que rien de valable ne peut être obtenu sans lutte, que la facilité est suspecte.
+- Sois parfait : l'exigence constante de tout faire sans erreur, le refus de l'approximation.
+- Fais plaisir : le besoin de répondre aux attentes des autres avant les siennes, la peur de décevoir.
+- Sois fort : l'interdiction de montrer sa vulnérabilité, de demander de l'aide ou d'exprimer ses émotions.
+- Dépêche-toi : l'urgence permanente, l'impossibilité de prendre son temps, la sensation que tout doit aller vite.
+- Fais des efforts : la croyance que rien de valable ne peut être obtenu sans lutte, que la facilité est suspecte.
 
 Selon Kahler, chacun d'entre nous est sous l'influence dominante d'un ou deux de ces drivers. Ils ne sont pas mauvais en soi (la persévérance ou l'empathie sont des qualités), mais lorsqu'ils deviennent rigides et automatiques, ils se transforment en pièges qui limitent notre liberté d'agir et de penser.
 
@@ -57,11 +57,11 @@ Selon une étude publiée dans le *Journal of Vocational Behavior* (2021), les p
 
 La bonne nouvelle, c'est que les drivers contraignants, une fois identifiés, perdent une grande partie de leur emprise. Voici trois techniques concrètes pour commencer à s'en libérer.
 
-### 1. **Identifier son driver dominant grâce au journal de bord**
+### 1. Identifier son driver dominant grâce au journal de bord
 
 Pendant une semaine, notez chaque soir les moments de la journée où vous vous êtes senti sous pression, frustrée ou bloquée. Pour chaque situation, posez-vous cette question : « Quelle petite voix me parlait à ce moment-là ? » Était-ce « Ce n'est pas assez bien » (Sois parfait) ? « Je ne dois pas montrer que c'est dur » (Sois fort) ? « Il faut que je fasse plus » (Fais des efforts) ? Au bout de quelques jours, un schéma apparaît clairement. Cette prise de conscience est le premier pas, et souvent le plus important.
 
-### 2. **Reformuler le message intérieur avec une permission**
+### 2. Reformuler le message intérieur avec une permission
 
 En analyse transactionnelle, à chaque driver correspond une « permission », c'est-à-dire un message bienveillant qui neutralise l'injonction rigide. Par exemple :
 - Face à « Sois parfait » : « Tu as le droit d'être humain et de faire des erreurs. »
@@ -72,7 +72,7 @@ En analyse transactionnelle, à chaque driver correspond une « permission », c
 
 Écrivez votre permission sur un post-it visible (écran d'ordinateur, miroir de salle de bain). Chaque fois que le driver se manifeste, lisez cette phrase à voix haute ou mentalement. Avec la répétition, un nouveau message intérieur commence à s'installer.
 
-### 3. **S'exposer volontairement à l'imparfait**
+### 3. S'exposer volontairement à l'imparfait
 
 Choisissez une tâche liée à votre reconversion et faites-la volontairement « à 70 % ». Rendez un exercice sans le relire une dernière fois. Posez une question en formation sans la formuler parfaitement dans votre tête. Envoyez un message dans votre groupe en disant simplement : « Je bloque sur ce sujet, quelqu'un peut m'aider ? » Cette exposition progressive à l'imperfection permet de constater que le monde ne s'effondre pas, et que les autres ne vous jugent pas comme vous le craigniez.
 
