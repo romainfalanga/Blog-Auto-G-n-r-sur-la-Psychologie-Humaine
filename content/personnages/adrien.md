@@ -1,9 +1,10 @@
 ---
-title: "Adrien, 31 ans"
+title: "Adrien"
 date: 2026-03-18T10:38:34+00:00
 description: "Adrien est graphiste freelance. Célibataire depuis une rupture difficile il y a un an."
 slug: "adrien"
 prenom: "Adrien"
+date_naissance: "1994-06-07"
 profession: "Graphiste freelance"
 situation: "Célibataire depuis une rupture difficile il y a un an"
 nb_articles: 2

@@ -1,9 +1,10 @@
 ---
-title: "Nadia, 38 ans"
+title: "Nadia"
 date: 2026-03-18T10:38:34+00:00
 description: "Nadia est directrice marketing dans une entreprise tech. Divorcée, mère d'une fille (yasmine, 8 ans), garde alternée."
 slug: "nadia"
 prenom: "Nadia"
+date_naissance: "1987-05-18"
 profession: "Directrice marketing dans une entreprise tech"
 situation: "Divorcée, mère d'une fille (yasmine, 8 ans), garde alternée"
 nb_articles: 2

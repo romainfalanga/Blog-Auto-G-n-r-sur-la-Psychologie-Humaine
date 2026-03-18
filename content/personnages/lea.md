@@ -1,9 +1,10 @@
 ---
-title: "Léa, 23 ans"
+title: "Léa"
 date: 2026-03-18T10:38:34+00:00
 description: "Léa est étudiante en master de psychologie clinique. Célibataire, vit en studio étudiant."
 slug: "lea"
 prenom: "Léa"
+date_naissance: "2002-11-12"
 profession: "Étudiante en master de psychologie clinique"
 situation: "Célibataire, vit en studio étudiant"
 nb_articles: 2

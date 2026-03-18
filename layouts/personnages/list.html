@@ -9,7 +9,19 @@
     {{ range .Pages }}
     <div class="perso-card reveal-card">
       <div class="perso-card-top">
-        <h2 class="perso-name">{{ .Title }}</h2>
+        {{- $prenom := .Params.prenom | default .Title }}
+        {{- if .Params.date_naissance }}
+          {{- $birth := time .Params.date_naissance }}
+          {{- $age := sub now.Year $birth.Year }}
+          {{- $nowMD := now.Format "0102" }}
+          {{- $birthMD := $birth.Format "0102" }}
+          {{- if lt $nowMD $birthMD }}
+            {{- $age = sub $age 1 }}
+          {{- end }}
+          <h2 class="perso-name">{{ $prenom }}, {{ $age }} ans</h2>
+        {{- else }}
+          <h2 class="perso-name">{{ .Title }}</h2>
+        {{- end }}
       </div>
       <p class="perso-bio">{{ .Description }}</p>
       <a href="{{ .RelPermalink }}" class="perso-btn">Voir le parcours</a>
