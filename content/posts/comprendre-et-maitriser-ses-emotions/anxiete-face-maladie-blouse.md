@@ -13,15 +13,13 @@ contexte: "face à la maladie"
 draft: false
 ---
 
-## Comprendre l'anxiété face à la maladie : le cas de Priya
-
 Le signal sonore du cabinet s'interrompt. Priya replie avec soin la chemise cartonnée du patient, ses doigts s'attardant sur l'étiquette usée. Mercredi 18 mars 2026, 20h10. La pluie s'écrase contre les vitres du parking tandis qu'à l'intérieur, la lumière crue des néons souligne la blancheur de sa blouse. Un diagnostic complexe est posé sur le bureau : une pathologie chronique qui renvoie Priya à la santé fragile de son père, Raj. Des souvenirs refont surface : les couloirs d'hôpital, le ton de voix altéré de sa mère, Anjali. Une tension sourde commence à s'installer dans sa poitrine, une sensation familière de "fermeture" qu'elle connaît trop bien.
 
 ## Les manifestations silencieuses de l'angoisse en milieu médical
 
 Elle ne met pas de mots sur son anxiété. À la place, elle planifie. Elle rédige les ordonnances, remplit chaque ligne du carnet de suivi et aligne les documents administratifs avec une rigueur presque chirurgicale. Cette surcharge de travail devient son abri : chaque case cochée l'éloigne de la peur qui l'habite. Lorsque Julie, la secrétaire, raccroche le combiné et lui adresse un signe de tête amical, Priya répond par un hochement bref, presque distant. 
 
-Ce réflexe de mise à distance l'interpelle soudain : c'est exactement le même mécanisme de désactivation qu'elle a ressenti récemment après sa soirée avec l'homme qu'elle fréquente. Comme après un moment d'intimité trop intense, elle érige ici une muraille de professionnalisme pour ne pas laisser la vulnérabilité du patient — et la sienne — l'atteindre. Se plonger dans le soin des autres lui offre une contenance tout en érigeant une barrière protectrice.
+Ce réflexe de mise à distance l'interpelle soudain : c'est exactement le même mécanisme de désactivation qu'elle a ressenti récemment après sa soirée avec l'homme qu'elle fréquente. Comme après un moment d'intimité trop intense, elle érige ici une muraille de professionnalisme pour ne pas laisser la vulnérabilité du patient (et la sienne) l'atteindre. Se plonger dans le soin des autres lui offre une contenance tout en érigeant une barrière protectrice.
 
 ## Techniques de gestion émotionnelle et de régulation
 
