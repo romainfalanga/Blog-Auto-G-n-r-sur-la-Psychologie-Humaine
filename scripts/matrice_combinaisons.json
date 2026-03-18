@@ -681,6 +681,56 @@
       "elements_cles": "Restaurant familial ; carnet de croquis (dessins d'ombres denses) ; Li (mère) et Wei (père) ; Océane (amie offrant son soutien) ; souvenir du vernissage de la semaine dernière ; technique d'identification des émotions (nommer la peur) ; tension entre illustration et médecine.",
       "strategie_coherence": "connecter",
       "apport_psychologique": "L'article explique que son perfectionnisme artistique est une tentative de rendre son 'vrai self' irréprochable pour qu'il soit enfin acceptable aux yeux de ses parents, créant un pont entre sa rébellion artistique et son anxiété sociale."
+    },
+    {
+      "date": "2026-03-18",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais d'attribution fondamentale",
+      "contexte": "à l'école ou aux études",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Isabelle",
+      "age": "47 ans",
+      "title": "Biais d'attribution fondamentale à l'école : comprendre et agir",
+      "slug": "biais-attribution-fondamentale-ecole",
+      "tags": [
+        "biais d'attribution",
+        "éducation",
+        "psychologie scolaire",
+        "parentification",
+        "techniques pratiques"
+      ],
+      "resume_narratif": "Le 18 mars 2026, au collège, Isabelle est confrontée au retard de Mathieu, un élève de seize ans qu'elle juge d'abord comme paresseux. Elle fait le lien entre ce réflexe de jugement immédiat et son passé familial où elle devait réguler les conflits parentaux dès l'âge de huit ans.",
+      "evolution": "Isabelle prend conscience de son biais d'attribution fondamentale et décide de substituer la curiosité au jugement automatique pour réduire sa fatigue émotionnelle. Elle commence à questionner les causes situationnelles des comportements d'autrui plutôt que de coller des étiquettes de personnalité.",
+      "elements_cles": "Collège (lieu de travail) ; Mathieu (élève de 16 ans) ; Aurélie (relation avec attachement anxieux-préoccupé) ; date du 18 mars 2026 ; traumatisme d'enfance (médiatrice parentale à 8 ans) ; décision d'enquêter sur les causes contextuelles avant de condamner.",
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "On découvre que son hypervigilance relationnelle la pousse à sur-interpréter les intentions des autres. En comprenant ce biais, elle commence à déconstruire le poids de sa parentification précoce où elle devait tout anticiper."
+    },
+    {
+      "date": "2026-03-18",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "idéalisation/dévaluation",
+      "contexte": "en couple",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Hugo",
+      "age": "27 ans",
+      "title": "Idéalisation et dévaluation en couple : pourquoi ça arrive et que faire",
+      "slug": "idealisation-devaluation-en-couple",
+      "tags": [
+        "idéalisation",
+        "dépendance affective",
+        "relations",
+        "schémas répétitifs",
+        "psychologie"
+      ],
+      "resume_narratif": "Alors qu'il travaille au bar, Hugo voit Chloé arriver avec des amis et bascule instantanément de l'adoration à un sentiment de trahison en entendant son rire. Cette réaction déclenche une prise de conscience sur son habitude de passer de l'amour fou au rejet brutal dès qu'il se sent délaissé.",
+      "evolution": "Hugo identifie son mécanisme de 'splitting' (idéalisation/dévaluation) et comprend qu'il projette sur Chloé le schéma de l'amour conditionnel vécu avec son père, Alain.",
+      "elements_cles": "Chloé (compagne), Alain (père, source du schéma), Théo (ami mentionné), le bar (lieu de travail), la guitare/musique (vecteur émotionnel), concept de splitting/relations d'objet.",
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "Cet article connecte son instabilité émotionnelle à son histoire familiale où l'amour était conditionnel. Il réalise que sa vision 'tout-ou-rien' de Chloé est un mécanisme de protection contre sa peur de l'abandon."
     }
   ]
 }

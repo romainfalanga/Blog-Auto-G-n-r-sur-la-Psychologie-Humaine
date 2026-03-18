@@ -888,6 +888,17 @@
           "category": "cat3_schemas",
           "titre": "Comprendre l'attachement anxieux-préoccupé en couple : le cas de Kévin",
           "slug": "attachement-anxieux-preoccupe-couple"
+        },
+        {
+          "date": "2026-03-18",
+          "sujet": "biais d'attribution fondamentale",
+          "contexte": "à l'école ou aux études",
+          "category": "cat1_pensees",
+          "titre": "Biais d'attribution fondamentale à l'école : comprendre et agir",
+          "slug": "biais-attribution-fondamentale-ecole",
+          "resume_narratif": "Le 18 mars 2026, au collège, Isabelle est confrontée au retard de Mathieu, un élève de seize ans qu'elle juge d'abord comme paresseux. Elle fait le lien entre ce réflexe de jugement immédiat et son passé familial où elle devait réguler les conflits parentaux dès l'âge de huit ans.",
+          "evolution": "Isabelle prend conscience de son biais d'attribution fondamentale et décide de substituer la curiosité au jugement automatique pour réduire sa fatigue émotionnelle. Elle commence à questionner les causes situationnelles des comportements d'autrui plutôt que de coller des étiquettes de personnalité.",
+          "elements_cles": "Collège (lieu de travail) ; Mathieu (élève de 16 ans) ; Aurélie (relation avec attachement anxieux-préoccupé) ; date du 18 mars 2026 ; traumatisme d'enfance (médiatrice parentale à 8 ans) ; décision d'enquêter sur les causes contextuelles avant de condamner."
         }
       ],
       "genre": "F",
@@ -1343,6 +1354,17 @@
           "category": "cat3_schemas",
           "titre": "Comprendre l'attachement désorganisé/craintif après une rupture amoureuse",
           "slug": "attachement-desorganise-craintif-rupture"
+        },
+        {
+          "date": "2026-03-18",
+          "sujet": "idéalisation/dévaluation",
+          "contexte": "en couple",
+          "category": "cat3_schemas",
+          "titre": "Idéalisation et dévaluation en couple : pourquoi ça arrive et que faire",
+          "slug": "idealisation-devaluation-en-couple",
+          "resume_narratif": "Alors qu'il travaille au bar, Hugo voit Chloé arriver avec des amis et bascule instantanément de l'adoration à un sentiment de trahison en entendant son rire. Cette réaction déclenche une prise de conscience sur son habitude de passer de l'amour fou au rejet brutal dès qu'il se sent délaissé.",
+          "evolution": "Hugo identifie son mécanisme de 'splitting' (idéalisation/dévaluation) et comprend qu'il projette sur Chloé le schéma de l'amour conditionnel vécu avec son père, Alain.",
+          "elements_cles": "Chloé (compagne), Alain (père, source du schéma), Théo (ami mentionné), le bar (lieu de travail), la guitare/musique (vecteur émotionnel), concept de splitting/relations d'objet."
         }
       ],
       "genre": "M",
