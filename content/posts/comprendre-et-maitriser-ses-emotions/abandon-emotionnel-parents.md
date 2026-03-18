@@ -51,37 +51,37 @@ Ces méthodes sont conçues pour s'intégrer au quotidien, en utilisant des outi
 ### 1. Cartographier ses besoins émotionnels
 L'objectif est de clarifier les manques issus de l'enfance qui influencent encore les comportements actuels.
 
-**Exercice pratique :**
+Exercice pratique :
 *   Prenez une demi-heure avec un carnet. Tracez trois colonnes : "Besoins non satisfaits", "Signes d'alerte", "Réponses possibles".
 *   Dans la première colonne, soyez précise : "besoin d'être écoutée sans jugement" ou "besoin de reconnaissance".
 *   Dans la deuxième, notez les manifestations physiques ou mentales : une boule au ventre, l'envie soudaine d'aider quelqu'un pour exister, une angoisse avant un message.
 *   Dans la troisième, listez des actions concrètes pour répondre vous-même à ces besoins : appeler une personne de confiance, s'accorder une pause, noter ses réussites du jour.
 *   Relisez cette carte régulièrement pour transformer vos automatismes en choix conscients.
 
-**Pourquoi cela fonctionne :** En identifiant vos besoins, vous cessez de les projeter sur les autres et reprenez le pouvoir sur votre propre régulation.
+Pourquoi cela fonctionne : En identifiant vos besoins, vous cessez de les projeter sur les autres et reprenez le pouvoir sur votre propre régulation.
 
 ### 2. Utiliser des scripts relationnels
 Il s'agit d'apprendre à exprimer ses limites ou ses attentes sans que la peur de l'abandon ne paralyse la parole.
 
-**Exercice pratique :**
+Exercice pratique :
 *   Préparez trois phrases types pour des situations récurrentes.
 *   *Situation 1 (demande excessive) :* "Je comprends que tu traverses un moment difficile, mais je n'ai pas l'énergie pour porter cela aujourd'hui. Voici comment je peux t'aider autrement."
 *   *Situation 2 (minimisation de vos émotions) :* "Quand tu dis que j'exagère, je me sens isolée. J'ai besoin que mon ressenti soit simplement entendu."
 *   *Situation 3 (demande de soutien) :* "Je vis quelque chose de lourd, serais-tu disponible pour m'écouter quelques minutes ?"
 *   Entraînez-vous à voix haute. Commencez par des situations simples pour gagner en assurance.
 
-**Pourquoi cela fonctionne :** Avoir des mots prêts à l'emploi diminue le stress du moment et permet d'affirmer sa place dans la relation.
+Pourquoi cela fonctionne : Avoir des mots prêts à l'emploi diminue le stress du moment et permet d'affirmer sa place dans la relation.
 
 ### 3. Établir un dialogue intérieur avec son histoire
 L'idée est de construire une sécurité interne là où la présence parentale a été défaillante.
 
-**Exercice pratique :**
+Exercice pratique :
 *   Dans un endroit calme, repensez à un souvenir d'enfance où vous vous êtes sentie délaissée (comme Léa avec son dessin).
 *   Écrivez une lettre à l'enfant que vous étiez. Validez ses émotions, expliquez-lui qu'elle n'était pas responsable du silence ou de la colère des adultes. Offrez-lui les paroles rassurantes qu'elle attendait.
 *   Répondez à cette lettre avec votre regard d'adulte aujourd'hui, en listant trois engagements que vous prenez envers vous-même pour vous protéger.
 *   Gardez ces écrits à portée de main pour les relire quand l'insécurité resurgit.
 
-**Pourquoi cela fonctionne :** Cet exercice répare symboliquement le lien et aide à développer une voix intérieure protectrice plutôt que critique.
+Pourquoi cela fonctionne : Cet exercice répare symboliquement le lien et aide à développer une voix intérieure protectrice plutôt que critique.
 
 ## Le chemin de Léa vers l'apaisement
 

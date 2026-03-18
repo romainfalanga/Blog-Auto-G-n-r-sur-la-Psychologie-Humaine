@@ -27,10 +27,10 @@ Dans le cas d’Stéphane, ce besoin se manifeste sans qu’il le réalise vraim
 
 Dans le quotidien professionnel, ce besoin peut passer par plusieurs comportements invisibles mais épuisants :
 
-- **Dire oui à tout, même quand c’est trop lourd** : par peur de décevoir, on accepte des tâches supplémentaires, ce qui mène souvent à la surcharge.  
-- **Se suradapter aux attentes des autres** : Stéphane modifie son style de travail selon ce qu’il croit que son équipe attend d’il, au lieu de rester authentique.  
-- **Attendre des compliments pour se sentir légitime** : il note chaque petite louange comme une preuve qu’il vaut. L’absence de reconnaissance visible la plonge alors dans l’anxiété.  
-- **S’inquiéter excessivement de l’image qu’il renvoie** : il surveille ses propos et gestes, redoutant le moindre jugement.  
+- Dire oui à tout, même quand c’est trop lourd : par peur de décevoir, on accepte des tâches supplémentaires, ce qui mène souvent à la surcharge.  
+- Se suradapter aux attentes des autres : Stéphane modifie son style de travail selon ce qu’il croit que son équipe attend d’il, au lieu de rester authentique.  
+- Attendre des compliments pour se sentir légitime : il note chaque petite louange comme une preuve qu’il vaut. L’absence de reconnaissance visible la plonge alors dans l’anxiété.  
+- S’inquiéter excessivement de l’image qu’il renvoie : il surveille ses propos et gestes, redoutant le moindre jugement.  
 
 Ces comportements sont des signaux que la recherche d’approbation est devenu une habitude inconscient, un schéma répétitif qui peut limiter l’épanouissement professionnel et personnel.
 
@@ -38,13 +38,13 @@ Ces comportements sont des signaux que la recherche d’approbation est devenu u
 
 Prendre conscience de ce schéma est déjà un grand pas. Voici quelques pistes pour commencer à changer :
 
-1. **Pratiquer la mise en pause face à la pression sociale**  
+1. Pratiquer la mise en pause face à la pression sociale  
 Quand vous sentez cette envie urgente de dire oui ou de plaire, accordez-vous quelques secondes pour respirer profondément. Posez-vous la question : « Est-ce que je fais cela parce que j’en ai vraiment envie ou parce que je cherche à être validé ? » Ce petit arrêt aide à décaler l’automatisme.  
 
-2. **Écrire ses valeurs et ses priorités**  
+2. Écrire ses valeurs et ses priorités  
 Prenez un carnet et notez ce qui est vraiment important pour vous dans votre travail, vos limites, et ce que vous voulez défendre. Relisez ce texte avant de prendre des décisions, cela vous ancre dans ce qui vous ressemble vraiment, plutôt que dans ce que les autres attendent.  
 
-3. **S’entraîner à dire non avec bienveillance**  
+3. S’entraîner à dire non avec bienveillance  
 Commencez par des refus simples, par exemple : « Merci pour ta proposition, je ne peux pas m’engager cette fois, mais n’hésite pas à me recontacter. » Cela vous aide à poser des limites claires sans jugements ni culpabilité.  
 
 ### Le chemin de Stéphane vers une meilleure estime de lui-même

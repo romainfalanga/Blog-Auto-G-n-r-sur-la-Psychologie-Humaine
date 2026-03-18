@@ -92,7 +92,7 @@ Il y a encore des silences et des réflexes rationnels. Le changement ne se fait
 
 ---
 
-**Conclusion**
+Conclusion
 L'alexithymie au sein du couple ne signifie pas un manque d'amour, mais une difficulté à traduire son monde intérieur. Avec des outils comme le journal des sensations, la roue des émotions ou le partage guidé, il est possible d'apprendre à communiquer ses ressentis pas à pas.
 
 Youssef ne change pas du tout au tout, mais il avance. Il met ses capacités d'analyse au service de sa vie intérieure. Sa progression prouve qu'un trait de caractère peut évoluer avec de la pratique et du soutien.

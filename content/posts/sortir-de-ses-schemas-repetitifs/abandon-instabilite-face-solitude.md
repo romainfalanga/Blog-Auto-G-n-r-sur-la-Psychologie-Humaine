@@ -29,10 +29,10 @@ Cette peur influence fortement la manière dont on vit sa solitude : elle n’es
 
 Dans le cas de Adrien, la solitude ne passe pas inaperçue. Elle déclenche en lui une inquiétude profonde, le pousse à chercher constamment la présence d’autrui, même si cela signifie s’accrocher à des relations fragiles. Voici quelques manifestations fréquentes du schéma abandon et instabilité dans ce contexte :
 
-- **La dépendance affective** : comme Adrien, la peur de la solitude pousse à coller à l’autre, à chercher une validation constante pour ne pas se sentir rejeté.
-- **La rumination mentale** : tourner en boucle les scénarios d’abandon, s’imaginer que l’autre va partir, ce qui amplifie l’angoisse.
-- **Le sabotage relationnel** : parfois, cette peur intense conduit à éviter la solitude en s'engageant dans des relations toxiques ou instables, plutôt que d’affronter le vide.
-- **La difficulté à se sentir en sécurité seul** : la solitude est perçue comme une menace, et non comme un moment de ressourcement.
+- La dépendance affective : comme Adrien, la peur de la solitude pousse à coller à l’autre, à chercher une validation constante pour ne pas se sentir rejeté.
+- La rumination mentale : tourner en boucle les scénarios d’abandon, s’imaginer que l’autre va partir, ce qui amplifie l’angoisse.
+- Le sabotage relationnel : parfois, cette peur intense conduit à éviter la solitude en s'engageant dans des relations toxiques ou instables, plutôt que d’affronter le vide.
+- La difficulté à se sentir en sécurité seul : la solitude est perçue comme une menace, et non comme un moment de ressourcement.
 
 D’autres personnes, dans votre entourage ou parmi les lecteurs, peuvent reconnaître ce schéma lorsque, face à une rupture ou une perte, elles sentent un vide émotionnel immense, mêlé à la crainte de ne jamais retrouver cette sécurité affective perdue.
 
@@ -44,19 +44,19 @@ S’il est difficile de se défaire d’un schéma ancré depuis l’enfance, il
 
 La pleine conscience consiste à porter attention au moment présent, sans jugement. Quand la peur de la solitude monte, prendre quelques minutes pour observer ses sensations et ses pensées permet de ne pas se laisser submerger.
 
-- **Exercice** : Asseyez-vous confortablement, fermez les yeux, et concentrez-vous sur votre respiration. Notez les pensées qui surgissent, sans essayer de les changer, puis revenez doucement à votre souffle. Cela aide à dédramatiser la peur et à se reconnecter à soi.
+- Exercice : Asseyez-vous confortablement, fermez les yeux, et concentrez-vous sur votre respiration. Notez les pensées qui surgissent, sans essayer de les changer, puis revenez doucement à votre souffle. Cela aide à dédramatiser la peur et à se reconnecter à soi.
 
 ### 2. Écrire une lettre à son enfant intérieur
 
 Cette technique, inspirée des travaux de John Bradshaw, aide à rencontrer les blessures de l’enfance liées à l’abandon.
 
-- **Exercice** : Prenez un cahier ou une feuille et écrivez une lettre à votre « enfant intérieur ». Parlez-lui avec douceur, reconnaissez sa souffrance passée due à l’instabilité ou au manque d’attention, et offrez-lui des mots de réconfort. Cet exercice favorise la compassion envers soi-même.
+- Exercice : Prenez un cahier ou une feuille et écrivez une lettre à votre « enfant intérieur ». Parlez-lui avec douceur, reconnaissez sa souffrance passée due à l’instabilité ou au manque d’attention, et offrez-lui des mots de réconfort. Cet exercice favorise la compassion envers soi-même.
 
 ### 3. Construire un réseau de soutien stable
 
 Face à l’instabilité vécue dans l’enfance, recréer des liens fiables est primordial.
 
-- **Exercice** : Identifiez des personnes de confiance avec qui vous pouvez parler ouvertement de vos émotions. Planifiez des temps réguliers d’échange, comme une promenade, un café ou un appel, pour nourrir ces relations de façon saine.
+- Exercice : Identifiez des personnes de confiance avec qui vous pouvez parler ouvertement de vos émotions. Planifiez des temps réguliers d’échange, comme une promenade, un café ou un appel, pour nourrir ces relations de façon saine.
 
 ## Le chemin de Adrien vers plus de sérénité
 

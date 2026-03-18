@@ -47,13 +47,13 @@ Dans le cas de Léa, ses parents, bien qu’aimants, étaient souvent distants �
 
 Voici trois exercices que Léa a commencé à pratiquer, et que vous pouvez appliquer vous aussi :  
 
-1. **La reformulation positive**  
+1. La reformulation positive  
    Chaque fois que vous ressentez un rejet, essayez de reformuler la situation de manière plus douce. Par exemple, au lieu de penser « Ils m’ont ignoré, je suis nul », dites-vous « Peut-être qu’ils étaient juste préoccupés aujourd’hui ». Cette technique permet de réduire la charge émotionnelle négative associée au rejet.  
 
-2. **La mise en situation progressive**  
+2. La mise en situation progressive  
    Commencez par des petites interactions sociales faciles : dire bonjour au voisin, poser une question simple à un camarade de promo. Augmentez graduellement la difficulté pour reconstruire une confiance sociale sans être submergée. Léa a trouvé cette méthode efficace pour sortir de sa zone de confort sans pression.  
 
-3. **L’écriture thérapeutique**  
+3. L’écriture thérapeutique  
    Tenez un journal où vous notez vos émotions liées au rejet. Exprimez vos peurs, vos doutes et aussi vos réussites, même les petites. Cet exercice aide à mieux comprendre vos réactions et à mettre des mots sur ce que vous ressentez, ce qui est un premier pas vers l’acceptation.  
 
 ### Le cheminement de Léa vers une nouvelle relation au rejet  

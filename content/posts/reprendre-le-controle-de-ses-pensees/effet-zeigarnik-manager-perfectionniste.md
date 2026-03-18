@@ -29,11 +29,11 @@ Ce phénomène a été découvert par la psychologue russe Bluma Zeigarnik dans 
 
 Dans le rôle de manager, l’effet Zeigarnik peut se manifester de façon particulièrement frustrante, surtout pour les personnes perfectionnistes comme Nadia. Voici plusieurs situations courantes :  
 
-- **Interruption dans la gestion d’un projet** : Vous commencez à préparer un rapport ou une présentation pour votre équipe et vous êtes interrompu par un appel ou une réunion urgente. Vous avez du mal à vous concentrer après, car la tâche inachevée occupe votre esprit.  
+- Interruption dans la gestion d’un projet : Vous commencez à préparer un rapport ou une présentation pour votre équipe et vous êtes interrompu par un appel ou une réunion urgente. Vous avez du mal à vous concentrer après, car la tâche inachevée occupe votre esprit.  
 
-- **Emails non répondus** : Une boîte de réception remplie de messages non traités devient une source constante d’angoisse mentale. Vous vous sentez coupable de ne pas avoir répondu, et votre cerveau garde cette charge active même quand vous travaillez sur autre chose.  
+- Emails non répondus : Une boîte de réception remplie de messages non traités devient une source constante d’angoisse mentale. Vous vous sentez coupable de ne pas avoir répondu, et votre cerveau garde cette charge active même quand vous travaillez sur autre chose.  
 
-- **Feedbacks en suspens** : Vous avez promis à un collaborateur un retour sur son travail, mais vous n’avez pas encore trouvé le temps. Cette responsabilité non réglée vous hante, et vous empêchez d'être pleinement disponible pour d'autres tâches.  
+- Feedbacks en suspens : Vous avez promis à un collaborateur un retour sur son travail, mais vous n’avez pas encore trouvé le temps. Cette responsabilité non réglée vous hante, et vous empêchez d'être pleinement disponible pour d'autres tâches.  
 
 Le perfectionnisme amplifie ce mécanisme : la peur de ne pas faire parfaitement ou de laisser une tâche “mal terminée” crée un cercle vicieux d’anxiété et de rumination mentale.  
 
@@ -41,13 +41,13 @@ Le perfectionnisme amplifie ce mécanisme : la peur de ne pas faire parfaitement
 
 Voici des méthodes simples et efficaces pour apaiser ce stress mental et mieux gérer les pensées liées aux tâches inachevées :  
 
-1. **Écrire et prioriser les tâches**  
+1. Écrire et prioriser les tâches  
    Notez toutes les tâches inachevées sur une liste visible. Le simple fait de coucher ces éléments sur papier ou dans une application digitale libère une partie de la charge cognitive, car votre cerveau sait que l’information est enregistrée. Ensuite, classez-les par ordre de priorité. Cela vous permet d’aborder chaque chose à son moment sans être submergée.  
 
-2. **Utiliser la technique Pomodoro**  
+2. Utiliser la technique Pomodoro  
    Travaillez par intervalles de 25 minutes dédiés à une seule tâche, suivis de courtes pauses. Cela vous aide à avancer progressivement même sur des projets longs, en évitant la paralysie due à la peur de ne pas faire assez. Chaque session Pomodoro terminée réduit la charge mentale des tâches en cours.  
 
-3. **S’accorder des pauses mentales conscientes**  
+3. S’accorder des pauses mentales conscientes  
    Lorsque vous êtes interrompu ou que vous ne pouvez pas finir une tâche, pratiquez la pleine conscience pour revenir au moment présent sans culpabilité. Par exemple, fermez les yeux, observez votre respiration, et acceptez que la tâche attendra. Ces pauses vous aident à ne pas ruminer et à réduire l’angoisse liée à l’inachèvement.  
 
 ### Retour à Nadia : le début d’un changement  
