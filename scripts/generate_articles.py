@@ -46,6 +46,7 @@ sys.path.insert(0, str(SCRIPT_DIR))
 MAMMOUTH_API_KEY = os.environ.get("MAMMOUTH_API_KEY")
 API_URL = "https://api.mammouth.ai/v1/chat/completions"
 MODEL_WRITER = "gpt-5-mini"
+MODEL_WRITER_FALLBACK = "gemini-3-flash-preview"
 MODEL_ANALYST = "gemini-3-flash-preview"
 SITE_NAME = "Décode ton esprit"
 
@@ -2521,6 +2522,7 @@ def main():
 
     generated_count = 0
     used_characters_today = set()  # Empêcher le même personnage dans 2 articles le même jour
+    gpt_consecutive_failures = 0  # Circuit breaker : bascule sur fallback après trop d'échecs GPT
 
     for i, cat_key in enumerate(category_keys):
         s = suggestions_by_cat.get(cat_key) if use_gemini else None
@@ -2630,25 +2632,37 @@ def main():
 
         print(f"  Personnage : {combo['prenom']} ({combo['age']})")
 
-        # Rédaction avec retry
+        # Rédaction avec retry et circuit breaker
         metadata = None
         content = None
         max_redaction_attempts = 3
 
+        # Circuit breaker : si GPT a déjà échoué pour un article entier, on bascule sur le fallback
+        if gpt_consecutive_failures >= 1:
+            active_writer = MODEL_WRITER_FALLBACK
+            print(f"  [Circuit breaker] GPT instable ({gpt_consecutive_failures} échec(s) consécutif(s)), utilisation de {MODEL_WRITER_FALLBACK}")
+        else:
+            active_writer = MODEL_WRITER
+
         for redaction_attempt in range(max_redaction_attempts):
             attempt_label = f" (tentative {redaction_attempt + 1}/{max_redaction_attempts})" if redaction_attempt > 0 else ""
-            print(f"  Appel GPT-5-mini pour rédaction{attempt_label}...")
+            print(f"  Appel {active_writer} pour rédaction{attempt_label}...")
             article_prompt = build_article_prompt(combo)
             raw_response = call_mammouth_api(
-                model=MODEL_WRITER,
+                model=active_writer,
                 system_prompt=system_prompt,
                 user_prompt=article_prompt,
                 temperature=0.85,
-                max_tokens=4500
+                max_tokens=4500,
+                retries=2
             )
 
             if not raw_response:
-                print(f"  [Erreur] GPT n'a pas répondu, retry...")
+                print(f"  [Erreur] {active_writer} n'a pas répondu, retry...")
+                # Après 2 échecs consécutifs avec GPT, basculer sur fallback pour les tentatives restantes
+                if active_writer == MODEL_WRITER and redaction_attempt >= 1:
+                    active_writer = MODEL_WRITER_FALLBACK
+                    print(f"  [Fallback] Bascule sur {MODEL_WRITER_FALLBACK} pour les tentatives restantes")
                 continue
 
             print(f"  Parsing de la réponse...")
@@ -2668,8 +2682,8 @@ def main():
                     content = None
 
         if not metadata or not content:
-            # Tentative de secours avec un combo aléatoire différent
-            print(f"  [Secours] Tentative avec une combinaison aléatoire pour {cat_key}...")
+            # Tentative de secours avec le modèle fallback et un combo aléatoire
+            print(f"  [Secours] Tentative avec {MODEL_WRITER_FALLBACK} et une combinaison aléatoire pour {cat_key}...")
             combo = generate_random_combination(cat_key, matrix)
             if combo:
                 if priority_characters and i < len(priority_characters):
@@ -2680,14 +2694,15 @@ def main():
                     combo["personnage_context"] = build_personnage_context(perso, matrix)
 
                 for rescue_attempt in range(2):
-                    print(f"  [Secours] Rédaction de secours (tentative {rescue_attempt + 1}/2)...")
+                    print(f"  [Secours] Rédaction de secours avec {MODEL_WRITER_FALLBACK} (tentative {rescue_attempt + 1}/2)...")
                     article_prompt = build_article_prompt(combo)
                     raw_response = call_mammouth_api(
-                        model=MODEL_WRITER,
+                        model=MODEL_WRITER_FALLBACK,
                         system_prompt=system_prompt,
                         user_prompt=article_prompt,
                         temperature=0.9,
-                        max_tokens=4500
+                        max_tokens=4500,
+                        retries=2
                     )
                     if raw_response:
                         metadata, content = parse_article_response(raw_response)
@@ -2700,8 +2715,12 @@ def main():
                             content = None
 
             if not metadata or not content:
+                gpt_consecutive_failures += 1
                 print(f"  [ÉCHEC] Catégorie {cat_key} : impossible de générer un article après toutes les tentatives")
                 continue
+
+        # Réinitialiser le circuit breaker après un succès
+        gpt_consecutive_failures = 0
 
         # Étape 4 : Relecture complète par Gemini en UN SEUL appel API
         # (tirets, structure H2/H3, gras, H2 d'intro, slashes, qualité rédactionnelle)
