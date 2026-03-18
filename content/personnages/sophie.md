@@ -1,14 +1,14 @@
 ---
 title: "Sophie"
-date: 2026-03-18T10:38:34+00:00
+date: 2026-03-18T13:17:48+00:00
 description: "Sophie est développeuse web dans une startup. Célibataire, vit seule en appartement en ville."
 slug: "sophie"
 prenom: "Sophie"
 date_naissance: "1998-01-15"
 profession: "Développeuse web dans une startup"
 situation: "Célibataire, vit seule en appartement en ville"
-nb_articles: 1
-weight: 15
+nb_articles: 2
+weight: 1
 draft: false
 ---
 
@@ -24,5 +24,16 @@ draft: false
       <p>Sophie réalise que sa surpensée n'est pas de la rigueur mais un moteur d'épuisement qui la pousse à l'auto-critique systématique. Elle décide d'interrompre le cycle en documentant son état émotionnel sans chercher de solution immédiate.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/overthinking-surpensee-travail/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-dunning-kruger-decision-importante/">Effet Dunning-Kruger : comment décider sans se tromper ?</a></h3>
+    <div class="parcours-date">2026-03-18</div>
+    <p class="parcours-resume">Sophie hésite à envoyer sa candidature pour un poste de directrice technique dans une association tout en préparant du thé dans son salon. Elle se remémore une discussion avec son amie Claire au parc, qui soulignait ses contradictions entre sa confiance excessive sur des sujets nouveaux et ses doutes sur ses expertises réelles.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Sophie prend conscience que sa perception de ses propres compétences est déformée par l'effet Dunning-Kruger, réalisant qu'elle sous-estime ses acquis techniques tout en simplifiant peut-être trop les défis du management.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-dunning-kruger-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

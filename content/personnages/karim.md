@@ -1,6 +1,6 @@
 ---
 title: "Karim"
-date: 2026-03-18T10:38:34+00:00
+date: 2026-03-18T13:17:48+00:00
 description: "Karim est entrepreneur, fondateur d'une PME de restauration. Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)."
 slug: "karim"
 prenom: "Karim"

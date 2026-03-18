@@ -1,14 +1,14 @@
 ---
 title: "Youssef"
-date: 2026-03-18T10:38:34+00:00
+date: 2026-03-18T13:17:48+00:00
 description: "Youssef est ingénieur en informatique dans un grand groupe. En couple avec léa depuis 2 ans, vit en appartement."
 slug: "youssef"
 prenom: "Youssef"
 date_naissance: "1996-08-14"
 profession: "Ingénieur en informatique dans un grand groupe"
 situation: "En couple avec léa depuis 2 ans, vit en appartement"
-nb_articles: 1
-weight: 17
+nb_articles: 2
+weight: 8
 draft: false
 ---
 
@@ -24,5 +24,16 @@ draft: false
       <p>Youssef identifie son alexithymie partielle, comprenant que sa tendance à intellectualiser ses ressentis est un héritage culturel et familial transmis par son père Hamid.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-enfants/">Exigences élevées et critique excessive avec ses enfants</a></h3>
+    <div class="parcours-date">2026-03-18</div>
+    <p class="parcours-resume">Youssef observe son neveu jouer chez lui sous le regard de sa compagne Léa. En intervenant de manière rigide pour corriger l'alignement des jouets de l'enfant, il réalise que son besoin de perfection étouffe la spontanéité de son entourage.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Il prend conscience que son exigence extrême est un héritage de son père, Hamid, et que cette rigidité, autrefois vue comme une force professionnelle, est devenue une prison émotionnelle menaçante pour son futur projet de famille.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-enfants/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

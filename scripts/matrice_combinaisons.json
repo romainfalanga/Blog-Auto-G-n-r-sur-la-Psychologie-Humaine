@@ -973,6 +973,114 @@
       },
       "strategie_coherence": "connecter",
       "apport_psychologique": "Cet article révèle que le 'silence' qui règne dans l'appartement de Fabien est un héritage comportemental de son propre père. En comprenant ce fil invisible, il peut enfin commencer à déconstruire sa solitude."
+    },
+    {
+      "date": "2026-03-18",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet Dunning-Kruger",
+      "contexte": "face à une décision importante",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "contrôlant(e)",
+      "prenom": "Sophie",
+      "age": "28 ans",
+      "title": "Effet Dunning-Kruger : comment décider sans se tromper ?",
+      "slug": "effet-dunning-kruger-decision-importante",
+      "tags": [
+        "psychologie",
+        "biais cognitifs",
+        "prise de décision",
+        "confiance en soi",
+        "auto-évaluation"
+      ],
+      "resume_narratif": "Sophie hésite à envoyer sa candidature pour un poste de directrice technique dans une association tout en préparant du thé dans son salon. Elle se remémore une discussion avec son amie Claire au parc, qui soulignait ses contradictions entre sa confiance excessive sur des sujets nouveaux et ses doutes sur ses expertises réelles.",
+      "evolution": "Sophie prend conscience que sa perception de ses propres compétences est déformée par l'effet Dunning-Kruger, réalisant qu'elle sous-estime ses acquis techniques tout en simplifiant peut-être trop les défis du management.",
+      "elements_cles": "Candidature pour un poste de directrice technique ; Claire (amie) ; Marc (collègue/client actuel) ; carnet de notes avec schémas ; lunettes rondes ; bureau dans le salon ; concept de la 'vallée de l'humilité'.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-03-18",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "sentiment d'imposture",
+      "contexte": "après un succès",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "haut potentiel intellectuel (HPI)",
+      "prenom": "Camille",
+      "age": "42 ans",
+      "title": "Sentiment d'imposture après un succès : imposteur ou perfectionniste ?",
+      "slug": "sentiment-imposture-apres-un-succes",
+      "tags": [
+        "sentiment d'imposture",
+        "HPI",
+        "perfectionnisme",
+        "santé mentale",
+        "infirmiere"
+      ],
+      "resume_narratif": "Après avoir mené avec succès une procédure en cardiologie le 18 mars 2026, Camille peine à accepter les félicitations de ses collègues. Malgré le soutien de son mari David et de ses enfants, elle se sent comme une usurpatrice et attribue sa réussite à la chance ou au collectif plutôt qu'à ses compétences.",
+      "evolution": "Camille identifie son sentiment d'imposture et fait le lien avec le perfectionnisme hérité de sa mère, Françoise. Elle commence à intégrer des pauses dans son agenda et tente de nommer ses mécanismes de défense, comme la minimisation de ses succès.",
+      "elements_cles": {
+        "personnages": [
+          "David (mari)",
+          "Léo et Emma (enfants)",
+          "Nathalie (collègue)",
+          "Françoise (mère exigeante)"
+        ],
+        "lieux_et_dates": [
+          "Service de cardiologie",
+          "18 mars 2026",
+          "Domicile familial"
+        ],
+        "actions_et_outils": [
+          "Agenda électronique avec mention 'célébrer'",
+          "Post-it 'vide'",
+          "Technique de notation des limites et des pauses"
+        ],
+        "concepts_psychologiques": [
+          "Sentiment d'imposture",
+          "Fatigue de compassion",
+          "Surtravail compensatoire"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-03-18",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "exigences élevées/critique excessive",
+      "contexte": "avec ses enfants",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "perfectionniste",
+      "prenom": "Youssef",
+      "age": "29 ans",
+      "title": "Exigences élevées et critique excessive avec ses enfants",
+      "slug": "exigences-elevees-critique-excessive-enfants",
+      "tags": [
+        "perfectionnisme",
+        "schéma de pensée",
+        "éducation",
+        "psychologie",
+        "bienveillance"
+      ],
+      "resume_narratif": "Youssef observe son neveu jouer chez lui sous le regard de sa compagne Léa. En intervenant de manière rigide pour corriger l'alignement des jouets de l'enfant, il réalise que son besoin de perfection étouffe la spontanéité de son entourage.",
+      "evolution": "Il prend conscience que son exigence extrême est un héritage de son père, Hamid, et que cette rigidité, autrefois vue comme une force professionnelle, est devenue une prison émotionnelle menaçante pour son futur projet de famille.",
+      "elements_cles": {
+        "personnages": [
+          "Youssef",
+          "Léa (compagne)",
+          "Hamid (père)",
+          "Le neveu de 4 ans"
+        ],
+        "contexte_spatial": "Appartement de Youssef et Léa (cuisine/salon)",
+        "traumatismes_racines": "Éducation paternelle stricte, vérification des cahiers à la règle, culte de la note parfaite",
+        "comportements_reflexes": "Ajustement maniaque des objets, comptage mental des secondes de silence, intellectualisation systématique",
+        "enjeux_futurs": "Désir de fonder une famille avec Léa, peur de reproduire le schéma de critique excessive"
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }
