@@ -6,14 +6,19 @@ et en créant des fichiers Markdown Hugo.
 
 Flux :
 1. Charger la matrice des combinaisons déjà réalisées (scripts/matrice_combinaisons.json)
-2. Gemini analyse la matrice et suggère 3 nouvelles combinaisons uniques
-3. GPT-5-mini rédige les articles sur les suggestions de Gemini
-4. Gemini vérifie chaque article : si des tirets cadratins (—) sont détectés,
-   Gemini reformule les passages concernés pour les supprimer
-5. Gemini vérifie la structure H2/H3 et restructure si nécessaire
-6. Gemini effectue une relecture qualité globale de chaque article
-   (cohérence, suppression des tournures IA, qualité rédactionnelle)
-7. La matrice est mise à jour avec les nouvelles combinaisons
+2. Sélection déterministe des 3 personnages prioritaires (les moins utilisés)
+3. Gemini analyse les arcs narratifs et suggère 3 combinaisons personnage+sujet
+4. GPT-5-mini rédige les articles sur les suggestions de Gemini
+5. Gemini effectue une relecture complète en UN SEUL appel par article :
+   - Suppression du H2 d'introduction (l'intro doit être du texte narratif pur)
+   - Correction des tirets cadratins/semi-cadratins
+   - Suppression du gras (**) dans le texte et les titres
+   - Vérification/correction de la structure H2/H3
+   - Correction des slashes dans les titres
+   - Relecture qualité (style IA, clichés, cohérence)
+6. Gemini valide la cohérence narrative avec l'historique du personnage
+7. Corrections mécaniques de secours (tirets, gras, H2 d'intro)
+8. La matrice est mise à jour avec les nouvelles combinaisons et résumés narratifs
 """
 
 import os
@@ -1484,14 +1489,15 @@ RÈGLES DE RÉDACTION :
 - Commence TOUJOURS par une scène narrative immersive (le personnage en situation)
 - Termine par l'évolution du personnage + un message d'espoir pour le lecteur
 - Longueur : entre 1800 et 2500 mots
+- N'utilise JAMAIS de mise en gras (**texte**) nulle part dans l'article. Ni dans les titres H2/H3, ni dans le corps du texte, ni dans les noms de techniques. Le formatage Markdown autorisé est UNIQUEMENT : titres (##, ###), listes (-, 1.), italique (*texte*) pour les termes techniques, et séparateurs (---). Ceci est une règle absolue.
 
 STRUCTURE OBLIGATOIRE DE L'ARTICLE (à respecter STRICTEMENT) :
 Tu DOIS structurer chaque article avec des titres Markdown H2 (##) et H3 (###). Voici le squelette EXACT à suivre :
 
-1. **Introduction narrative** (3-4 paragraphes SANS titre H2, directement le texte immersif du personnage)
+1. **Introduction narrative** (3-4 paragraphes SANS titre H2, directement le texte immersif du personnage. Le texte commence IMMÉDIATEMENT, sans aucun titre ## avant le premier paragraphe. C'est une règle ABSOLUE.)
 2. **## Qu'est-ce que [concept] ?** (H2 avec le nom du concept, définition claire, contexte scientifique, chercheur associé)
 3. **## Comment [concept] se manifeste-t-il [contexte] ?** (H2 sous forme de question, avec 2-3 sous-sections H3 montrant des manifestations concrètes)
-4. **## [N] techniques pour [verbe d'action] face à [concept]** (H2, puis chaque technique en H3 numéroté avec titre en gras : ### 1. **Titre de la technique**)
+4. **## [N] techniques pour [verbe d'action] face à [concept]** (H2, puis chaque technique en H3 numéroté : ### 1. Titre de la technique)
 5. **## [Prénom] commence à [verbe de transformation]** (H2, retour au personnage qui évolue grâce aux techniques)
 6. **---** (séparateur horizontal obligatoire avant la conclusion)
 7. **Conclusion** (3 paragraphes SANS titre H2 : bilan, message d'espoir, rappel professionnel)
@@ -1638,7 +1644,7 @@ CONSIGNES SPÉCIFIQUES (structure OBLIGATOIRE avec titres H2/H3 Markdown) :
 1. INTRODUCTION NARRATIVE (SANS titre H2) : 3-4 paragraphes immersifs plongeant le lecteur dans la vie de {combo['prenom']}. IMPORTANT : raconte AU PRÉSENT, comme si la scène se déroule sous les yeux du lecteur. {combo['prenom']} vit la situation en temps réel, aujourd'hui, en France.
 2. ## Qu'est-ce que {combo['sujet']} ? (titre H2 OBLIGATOIRE) : Fais le lien avec la situation de {combo['prenom']}, puis explique le concept avec une définition claire en une phrase, le nom du chercheur associé, et un contexte scientifique.
 3. ## Comment {combo['sujet']} se manifeste dans le contexte "{combo['contexte']}" ? (titre H2 OBLIGATOIRE sous forme de question) : Détaille 2-3 manifestations concrètes avec des sous-titres H3 (###) pour chaque manifestation. Ajoute des exemples variés.
-4. ## 3 techniques pour [verbe d'action] face à {combo['sujet']} (titre H2 OBLIGATOIRE) : Présente chaque technique avec un sous-titre H3 numéroté et en gras (### 1. **Nom de la technique**). Chaque technique doit être détaillée sur un paragraphe complet avec un exercice concret.
+4. ## 3 techniques pour [verbe d'action] face à {combo['sujet']} (titre H2 OBLIGATOIRE) : Présente chaque technique avec un sous-titre H3 numéroté (### 1. Nom de la technique). N'utilise PAS de gras (**) dans les titres H3 ni dans le corps de l'article. Chaque technique doit être détaillée sur un paragraphe complet avec un exercice concret.
 5. ## {combo['prenom']} commence à [verbe de transformation] (titre H2 OBLIGATOIRE) : Retour au personnage qui applique les techniques et évolue positivement. Montre comment cette étape s'inscrit dans son parcours global.
 6. --- (séparateur horizontal OBLIGATOIRE)
 7. CONCLUSION (SANS titre H2) : 3 paragraphes avec bilan, message d'espoir, rappel bienveillant de consulter un professionnel.
@@ -1737,31 +1743,51 @@ def verify_and_fix_emdashes(content, combo):
 # VÉRIFICATION DE LA STRUCTURE H2/H3
 # ============================================
 
-def call_gemini_quality_review(content, combo):
-    """Appelle Gemini pour une relecture qualité globale de l'article.
-    Vérifie la cohérence, supprime les tournures IA, et optimise la rédaction."""
+def call_gemini_comprehensive_review(content, combo):
+    """Appelle Gemini pour une relecture complète en UN SEUL appel.
+    Fusionne : correction des tirets, vérification de structure, suppression du gras,
+    suppression du H2 d'intro, relecture qualité, et correction des slashes dans les titres.
+    Cet appel unique remplace les anciens appels séparés (dash_fix, structure, quality_review)."""
     system_prompt = (
         "Tu es un relecteur professionnel spécialisé en articles de blog psychologie. "
-        "On te donne un article de blog en Markdown. Tu dois effectuer une relecture complète :\n\n"
-        "1. COHÉRENCE : vérifie que l'article est cohérent du début à la fin. "
-        "Le personnage, son histoire, le concept psychologique et les techniques doivent former un tout logique. "
-        "Corrige toute incohérence (contradictions, changements de prénom, de situation, de ton).\n\n"
-        "2. STYLE IA ET CLICHÉS : repère et reformule toutes les tournures artificielles ou clichés narratifs récurrents. "
-        "Formulations IA à éliminer : \"Il est important de noter que\", \"Dans notre société actuelle\", "
-        "\"Force est de constater\", \"Il convient de souligner\", \"En définitive\", \"Il est essentiel de\", "
-        "\"N'hésitez pas à\", \"Il est crucial de\", \"Dans un monde où\", \"Qui n'a jamais\", "
-        "\"Et si on vous disait que\", \"Vous l'aurez compris\". "
-        "Clichés narratifs à reformuler : \"tasse de café\", \"rayons du soleil filtrent\", \"pousser un soupir\", "
-        "\"les épaules se détendent\", \"le cœur serré\", \"la gorge nouée\", \"un sourire se dessine\", "
-        "\"un poids s'envole\", \"fermer les yeux un instant\", \"une vague de\", \"prendre du recul\", "
-        "\"petit à petit\", \"un nouveau chapitre\", \"tourner la page\". "
-        "Remplace-les par des formulations naturelles, originales et humaines.\n\n"
-        "3. QUALITÉ RÉDACTIONNELLE : corrige les maladresses de style, les répétitions excessives, "
-        "les phrases trop longues ou alambiquées. Assure-toi que le ton reste accessible, empathique et bienveillant.\n\n"
-        "4. PONCTUATION : vérifie qu'il n'y a aucun tiret cadratin (—) ni semi-cadratin (–) utilisé comme ponctuation. "
-        "Si tu en trouves, reformule avec des virgules, parenthèses ou deux-points.\n\n"
+        "On te donne un article de blog en Markdown. Tu dois effectuer une relecture COMPLÈTE "
+        "qui couvre TOUTES les vérifications suivantes en UN SEUL passage :\n\n"
+        "1. STRUCTURE DE L'INTRODUCTION :\n"
+        "   - L'article DOIT commencer directement par du texte narratif SANS titre H2.\n"
+        "   - Si l'article commence par un titre H2 (## ...) avant le premier paragraphe narratif, "
+        "SUPPRIME ce titre H2. Le premier contenu visible doit être le texte de la scène d'ouverture.\n\n"
+        "2. STRUCTURE H2/H3 :\n"
+        "   - L'article doit contenir au minimum 4 titres ## (H2) et 3 titres ### (H3).\n"
+        "   - Les H2 doivent suivre ce schéma : définition du concept, manifestations, techniques, évolution du personnage.\n"
+        "   - Si la structure est insuffisante, ajoute les titres nécessaires sans modifier le texte.\n"
+        "   - Un séparateur --- doit précéder la conclusion finale.\n\n"
+        "3. PONCTUATION :\n"
+        "   - Remplace TOUS les tirets cadratins (\u2014) et semi-cadratins (\u2013) utilisés comme ponctuation "
+        "(entourés d'espaces) par une reformulation naturelle avec virgules, parenthèses ou deux-points.\n"
+        "   - Les traits d'union dans les mots composés (moi-même, peut-être) doivent être CONSERVÉS.\n\n"
+        "4. MISE EN FORME :\n"
+        "   - Supprime TOUT le texte en gras (**texte**) dans le corps de l'article.\n"
+        "   - Les titres H2 (##) et H3 (###) ne doivent PAS contenir de gras.\n"
+        "   - Exemple : '### 1. **Nom technique**' doit devenir '### 1. Nom technique'\n\n"
+        "5. SLASHES DANS LES TITRES :\n"
+        "   - Si un titre H2 ou H3 contient un slash (/), remplace-le par 'et' ou choisis le terme le plus pertinent.\n"
+        "   - Exemple : 'abandon/instabilité' → 'abandon et instabilité'\n\n"
+        "6. COHÉRENCE ET STYLE :\n"
+        "   - Vérifie que l'article est cohérent du début à la fin.\n"
+        "   - Repère et reformule les tournures IA artificielles : \"Il est important de noter que\", "
+        "\"Dans notre société actuelle\", \"Force est de constater\", \"Il convient de souligner\", "
+        "\"En définitive\", \"Il est essentiel de\", \"N'hésitez pas à\", \"Il est crucial de\", "
+        "\"Dans un monde où\", \"Qui n'a jamais\", \"Et si on vous disait que\", \"Vous l'aurez compris\".\n"
+        "   - Reformule les clichés narratifs : \"tasse de café\", \"rayons du soleil filtrent\", "
+        "\"pousser un soupir\", \"les épaules se détendent\", \"le cœur serré\", \"la gorge nouée\", "
+        "\"un sourire se dessine\", \"un poids s'envole\", \"fermer les yeux un instant\", "
+        "\"une vague de\", \"prendre du recul\", \"petit à petit\", \"un nouveau chapitre\", \"tourner la page\".\n\n"
+        "7. QUALITÉ RÉDACTIONNELLE :\n"
+        "   - Corrige les maladresses de style, les répétitions excessives, "
+        "les phrases trop longues ou alambiquées.\n"
+        "   - Assure un ton accessible, empathique et bienveillant.\n\n"
         "RÈGLES ABSOLUES :\n"
-        "- Conserve TOUTE la structure Markdown (titres H2, H3, listes, gras, italique, séparateur ---)\n"
+        "- Conserve TOUTE la structure Markdown (titres H2, H3, listes, séparateur ---)\n"
         "- Ne supprime AUCUNE section, ne raccourcis PAS l'article\n"
         "- Conserve le même personnage, la même histoire, les mêmes techniques\n"
         "- Retourne l'article COMPLET corrigé, rien d'autre. Aucun commentaire, aucune explication."
@@ -1770,7 +1796,7 @@ def call_gemini_quality_review(content, combo):
     user_prompt = (
         f"Voici un article sur \"{combo['sujet']}\" dans le contexte \"{combo['contexte']}\" "
         f"avec le personnage {combo['prenom']} ({combo['age']}). "
-        f"Effectue une relecture qualité complète (cohérence, style IA, qualité rédactionnelle, ponctuation). "
+        f"Effectue la relecture complète (intro, structure, tirets, gras, slashes, style, qualité). "
         f"Retourne l'article complet corrigé :\n\n{content}"
     )
 
@@ -1784,12 +1810,14 @@ def call_gemini_quality_review(content, combo):
     )
 
 
-def gemini_quality_review(content, combo):
-    """Phase de relecture qualité par Gemini : cohérence, style IA, qualité rédactionnelle."""
-    print(f"  [Qualité] Relecture globale par Gemini...")
+def gemini_comprehensive_review(content, combo):
+    """Phase de relecture complète par Gemini en UN SEUL appel.
+    Remplace les anciens appels séparés : dash_fix, structure, quality_review.
+    Gère : tirets, structure H2/H3, gras, H2 d'intro, slashes, style IA, qualité."""
+    print(f"  [Relecture] Relecture complète par Gemini (tirets, structure, gras, qualité)...")
 
     try:
-        reviewed = call_gemini_quality_review(content, combo)
+        reviewed = call_gemini_comprehensive_review(content, combo)
 
         if reviewed:
             # Vérifier que Gemini n'a pas cassé la structure
@@ -1798,20 +1826,67 @@ def gemini_quality_review(content, combo):
             len_before = len(content.split())
             len_after = len(reviewed.split())
 
-            # Accepter si la structure est préservée et la longueur raisonnable (pas moins de 70% de l'original)
-            if h2_after >= h2_before and len_after >= len_before * 0.7:
-                print(f"  [Qualité] Relecture terminée ({len_before} → {len_after} mots, structure préservée)")
+            # Accepter si la longueur est raisonnable (pas moins de 70% de l'original)
+            # Note: h2_after peut être < h2_before si Gemini a supprimé le H2 d'intro (attendu)
+            if len_after >= len_before * 0.7:
+                print(f"  [Relecture] Terminée ({len_before} → {len_after} mots, H2: {h2_before}→{h2_after})")
+                # Appliquer les corrections mécaniques de secours
+                reviewed = _mechanical_post_processing(reviewed)
                 return reviewed
             else:
-                print(f"  [Qualité] Gemini a altéré la structure (H2: {h2_before}→{h2_after}, mots: {len_before}→{len_after}), conservation de l'original")
-                return content
+                print(f"  [Relecture] Gemini a trop raccourci (mots: {len_before}→{len_after}), conservation + corrections mécaniques")
+                return _mechanical_post_processing(content)
         else:
-            print(f"  [Qualité] Gemini n'a pas répondu, conservation de l'original")
-            return content
+            print(f"  [Relecture] Gemini n'a pas répondu, corrections mécaniques uniquement")
+            return _mechanical_post_processing(content)
 
     except Exception as e:
-        print(f"  [Qualité] Erreur Gemini: {e}, conservation de l'original")
-        return content
+        print(f"  [Relecture] Erreur Gemini: {e}, corrections mécaniques uniquement")
+        return _mechanical_post_processing(content)
+
+
+def _mechanical_post_processing(content):
+    """Corrections mécaniques de secours appliquées après Gemini ou en cas d'échec.
+    Garantit que les problèmes critiques sont corrigés même si Gemini échoue."""
+    # 1. Supprimer le H2 d'introduction s'il précède le premier paragraphe narratif
+    content = _strip_leading_h2(content)
+
+    # 2. Remplacer les tirets cadratins/semi-cadratins restants par des virgules
+    content = re.sub(r' [–—] ', ', ', content)
+
+    # 3. Supprimer le gras dans le corps et les titres H2/H3
+    content = _strip_bold(content)
+
+    return content
+
+
+def _strip_leading_h2(content):
+    """Supprime le titre H2 d'introduction s'il apparaît avant le premier paragraphe narratif.
+    La structure attendue est : texte narratif directement, sans H2 au début."""
+    lines = content.split('\n')
+    # Chercher le premier contenu non-vide
+    for i, line in enumerate(lines):
+        stripped = line.strip()
+        if not stripped:
+            continue
+        # Si le premier contenu non-vide est un H2, le supprimer
+        if stripped.startswith('## '):
+            lines[i] = ''
+            # Supprimer aussi les lignes vides consécutives qui suivent
+            while i + 1 < len(lines) and not lines[i + 1].strip():
+                i += 1
+            break
+        else:
+            # Le premier contenu n'est pas un H2, tout va bien
+            break
+    return '\n'.join(lines)
+
+
+def _strip_bold(content):
+    """Supprime toutes les marques de gras (**) du contenu de l'article.
+    Conserve le texte à l'intérieur, ne supprime que le formatage."""
+    # Remplacer **texte** par texte dans tout le contenu
+    return re.sub(r'\*\*(.+?)\*\*', r'\1', content)
 
 
 def verify_article_structure(content, combo):
@@ -1954,10 +2029,11 @@ def validate_article(metadata, content, combo):
     if not metadata.get("tags") or len(metadata.get("tags", [])) == 0:
         issues.append("tags manquants")
 
-    # Vérifier l'absence de slashes dans le titre
+    # Corriger les slashes dans le titre au lieu de rejeter l'article
     title = metadata.get("title", "")
     if "/" in title:
-        issues.append(f"slash interdit dans le titre : '{title}'")
+        metadata["title"] = title.replace("/", " et ")
+        print(f"  [Validation] Slash corrigé dans le titre : '{title}' → '{metadata['title']}'")
 
     # Vérifier la longueur du contenu (minimum 1000 mots)
     word_count = len(content.split())
@@ -2627,16 +2703,11 @@ def main():
                 print(f"  [ÉCHEC] Catégorie {cat_key} : impossible de générer un article après toutes les tentatives")
                 continue
 
-        # Étape 3.5 : Vérification et correction des tirets cadratins
-        content = verify_and_fix_emdashes(content, combo)
+        # Étape 4 : Relecture complète par Gemini en UN SEUL appel API
+        # (tirets, structure H2/H3, gras, H2 d'intro, slashes, qualité rédactionnelle)
+        content = gemini_comprehensive_review(content, combo)
 
-        # Étape 3.6 : Vérification de la structure H2/H3
-        content = verify_article_structure(content, combo)
-
-        # Étape 3.7 : Relecture qualité globale par Gemini
-        content = gemini_quality_review(content, combo)
-
-        # Étape 3.8 : Validation de cohérence narrative
+        # Étape 5 : Validation de cohérence narrative (nécessite l'historique du personnage)
         content = validate_coherence(content, combo, matrix, personnages)
 
         print(f"  Création du fichier Hugo...")
@@ -2644,7 +2715,7 @@ def main():
         generated_count += 1
         used_characters_today.add(combo["prenom"])
 
-        # Étape 3.9 : Extraction du résumé narratif pour la continuité
+        # Étape 6 : Extraction du résumé narratif pour la continuité
         print(f"  [Narratif] Extraction du résumé narratif...")
         resume_narratif, evolution, elements_cles = extract_narrative_summary(content, combo)
         if resume_narratif:
@@ -2652,7 +2723,7 @@ def main():
         else:
             print(f"  [Narratif] Pas de résumé extrait (sera vide dans la matrice)")
 
-        # Étape 3.10 : Vérification de l'évolution de la description du personnage
+        # Étape 7 : Vérification de l'évolution de la description du personnage
         if personnages and evolution:
             perso_obj = next((p for p in personnages if p["prenom"] == combo["prenom"]), None)
             if perso_obj:
