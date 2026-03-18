@@ -808,13 +808,13 @@ main {
 /* ── Mobile: adjust main padding ── */
 @media (max-width: 768px) {
   main {
-    padding: var(--spacing-md) 1.25rem;
+    padding: var(--spacing-md) 1.5rem;
   }
 }
 
 @media (max-width: 480px) {
   main {
-    padding: var(--spacing-sm) 1rem;
+    padding: var(--spacing-sm) 1.25rem;
   }
 }
 

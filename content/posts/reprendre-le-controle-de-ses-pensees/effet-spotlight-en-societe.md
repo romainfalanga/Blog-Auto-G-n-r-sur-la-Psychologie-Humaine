@@ -15,7 +15,7 @@ draft: false
 
 Le bruit des verres, des rires rapprochés et le cliquetis discret des badges remplissent la salle. Stéphane tient son verre d'eau d'une main, le carnet de visite dans l'autre, et entend encore le mot "intégration" qu'il a prononcé en présentant son offre. Il a bégayé une seconde sur le tarif, une fraction de seconde qui, dans sa tête, prend des dimensions dramatiques. Immédiatement, il imagine les regards qui se figent, les sourires gênés, la pensée commune : "Il n'a pas l'air sûr de lui."
 
-Le mot-clé est là, dès l'instant présent : effet spotlight en société et dans les interactions sociales. Stéphane sait, intellectuellement, que la plupart des gens sont occupés à parler d'eux-mêmes, mais son cerveau glisse vers une autre logique. Il sent la chaleur au niveau des tempes, l'envie de corriger son propos, et il enchaîne plus vite, comme pour combler la fissure qu'il perçoit dans l'image qu'il renvoie. **Ce besoin de perfection n'est pas nouveau ; c'est le même moteur qui le poussait, enfant, à scruter le visage de ses parents pour y déceler une once de la fierté qu'ils réservaient à Philippe.**
+Le mot-clé est là, dès l'instant présent : effet spotlight en société et dans les interactions sociales. Stéphane sait, intellectuellement, que la plupart des gens sont occupés à parler d'eux-mêmes, mais son cerveau glisse vers une autre logique. Il sent la chaleur au niveau des tempes, l'envie de corriger son propos, et il enchaîne plus vite, comme pour combler la fissure qu'il perçoit dans l'image qu'il renvoie. Ce besoin de perfection n'est pas nouveau ; c'est le même moteur qui le poussait, enfant, à scruter le visage de ses parents pour y déceler une once de la fierté qu'ils réservaient à Philippe.
 
 Une semaine s'est écoulée depuis la réunion où le directeur commercial a félicité un collègue et non lui. Depuis cet épisode, il note qu'il réagit désormais plus tôt : il prépare encore plus ses slides, sourit davantage, serre davantage les mains. À l'extérieur, il reste le roi du réseau ; à l'intérieur, il se persuade que chacun a remarqué ce petit raté. À la table voisine, Marc plaisante, Sandrine lui adresse un signe rassurant, et Maxime, chez eux, s'intéresse plus aux vidéos de skate qu'aux histoires de travail de son père. Pourtant, Stéphane continue de penser que la pièce est braquée sur lui.
 
@@ -39,7 +39,7 @@ Par exemple, après une présentation, un commercial s'imagine que tout le monde
 
 L'effet spotlight nourrit la comparaison sociale. Stéphane, qui a grandi avec un frère souvent loué, utilise un filtre cognitif qui amplifie ce que les autres pourraient penser de ses performances. Dans une salle, il se sent jugé au lieu d'être en conversation. Cela favorise la compétition intérieure et le syndrome de l'imposteur, où chaque regard est interprété comme une notation.
 
-Lors d'une pause, un collègue reçoit des compliments ; Stéphane interprète les éclats de rire comme des rappels de ses propres manques, alors que ces réactions sont souvent dirigées vers le collègue en question. **Il retrouve ici l'amertume ressentie lors de la dernière réunion d'équipe : cette sensation que le succès des autres souligne mécaniquement son invisibilité supposée.**
+Lors d'une pause, un collègue reçoit des compliments ; Stéphane interprète les éclats de rire comme des rappels de ses propres manques, alors que ces réactions sont souvent dirigées vers le collègue en question. Il retrouve ici l'amertume ressentie lors de la dernière réunion d'équipe : cette sensation que le succès des autres souligne mécaniquement son invisibilité supposée.
 
 ### 3. Rigidité du rôle social et maintien du masque
 
@@ -70,7 +70,7 @@ Exercice concret :
 - Pendant ces deux minutes, noter mentalement trois détails sur l'interlocuteur (un fait, une émotion, une opinion).
 - Après l'échange, évaluer combien de ces détails vous avez retenus et comment l'impression que vous aviez de vous-même a évolué.
 
-L'effet spotlight s'alimente d'une attention tournée vers soi. En dirigeant son attention vers l'autre, on relève non seulement des informations utiles, mais on constate que l'autre est souvent centré sur lui-même aussi. Pour Stéphane, ce petit déplacement autorise des interactions plus authentiques et réduit la pression de bien paraître. **C'est une évolution majeure par rapport à sa tendance habituelle à guetter les signes de validation dans les yeux de son interlocuteur.**
+L'effet spotlight s'alimente d'une attention tournée vers soi. En dirigeant son attention vers l'autre, on relève non seulement des informations utiles, mais on constate que l'autre est souvent centré sur lui-même aussi. Pour Stéphane, ce petit déplacement autorise des interactions plus authentiques et réduit la pression de bien paraître. C'est une évolution majeure par rapport à sa tendance habituelle à guetter les signes de validation dans les yeux de son interlocuteur.
 
 ### 3. Technique de la statistique personnelle
 
@@ -89,7 +89,7 @@ Dans la deuxième partie de la soirée, après avoir appliqué la technique du c
 
 Depuis l'épisode où le directeur commercial avait félicité un autre collègue, Stéphane avait déjà commencé à repérer ses schémas. Il a utilisé l'astuce d'anticipation cognitive consistant à lister les pires scénarios et leur probabilité réelle. Aujourd'hui, il ajoute un nouvel outil à son kit : le test comportemental. Il tente l'expérience de laisser passer une phrase moins élégante et note la réaction. Il constate que la réaction est brève et que l'attention revient vite à l'échange. Ce retour concret modifie son estimation intérieure de l'attention portée par autrui.
 
-À la fin du cocktail, en regagnant le parking, il téléphone à Sandrine. Il raconte cette petite expérience et comment Marc a ri d'une remarque anodine. Sandrine répond avec franchise : "Tu es souvent plus sévère avec toi-même que les autres ne le sont vraiment." Ce simple écho, aligné avec ses nouvelles données, lui permet d'intégrer la possibilité d'un regard moins scrutateur. **Il réalise que Sandrine, qui l'a toujours soutenu face à ses doutes, avait raison : le fantôme de Philippe ne hante pas ce cocktail, c'est lui-même qui l'y a invité.**
+À la fin du cocktail, en regagnant le parking, il téléphone à Sandrine. Il raconte cette petite expérience et comment Marc a ri d'une remarque anodine. Sandrine répond avec franchise : "Tu es souvent plus sévère avec toi-même que les autres ne le sont vraiment." Ce simple écho, aligné avec ses nouvelles données, lui permet d'intégrer la possibilité d'un regard moins scrutateur. Il réalise que Sandrine, qui l'a toujours soutenu face à ses doutes, avait raison : le fantôme de Philippe ne hante pas ce cocktail, c'est lui-même qui l'y a invité.
 
 Il reste compétitif, soucieux de ses performances, mais l'effet spotlight perd de son pouvoir. Il prépare toujours ses présentations, mais il intègre désormais la statistique personnelle pour savoir si une crainte a déjà causé un échec réel. Parfois il retombe dans l'ancien réflexe, surtout avant un rendez-vous majeur, mais la répétition des expériences sociales lui apporte une cartographie plus fidèle de la réalité.
 

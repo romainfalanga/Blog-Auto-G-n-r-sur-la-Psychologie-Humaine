@@ -2144,7 +2144,8 @@ def validate_coherence(content, combo, matrix, personnages):
         "- Montrent que le personnage a évolué\n"
         "- Relient le sujet actuel aux expériences antérieures\n\n"
         "RÈGLES : Conserve toute la structure Markdown, ne raccourcis pas l'article, "
-        "conserve le même ton. Retourne l'article complet (enrichi si nécessaire), rien d'autre."
+        "conserve le même ton. N'utilise JAMAIS de mise en gras (**texte**) dans les passages ajoutés. "
+        "Retourne l'article complet (enrichi si nécessaire), rien d'autre."
     )
 
     user_prompt = (
@@ -2728,6 +2729,9 @@ def main():
 
         # Étape 5 : Validation de cohérence narrative (nécessite l'historique du personnage)
         content = validate_coherence(content, combo, matrix, personnages)
+
+        # Étape 5b : Supprimer le gras potentiellement réintroduit par l'enrichissement
+        content = _strip_bold(content)
 
         print(f"  Création du fichier Hugo...")
         create_hugo_post(combo, metadata, content)
