@@ -1,13 +1,13 @@
 ---
 title: "Camille, 42 ans"
-date: 2026-03-18T07:59:12+00:00
+date: 2026-03-18T10:38:34+00:00
 description: "Camille est infirmière en service de cardiologie. Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)."
 slug: "camille"
 prenom: "Camille"
 profession: "Infirmière en service de cardiologie"
 situation: "Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)"
 nb_articles: 1
-weight: 14
+weight: 16
 draft: false
 ---
 

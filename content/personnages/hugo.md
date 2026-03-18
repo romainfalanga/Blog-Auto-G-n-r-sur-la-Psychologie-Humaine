@@ -1,13 +1,13 @@
 ---
 title: "Hugo, 27 ans"
-date: 2026-03-18T07:59:12+00:00
+date: 2026-03-18T10:38:34+00:00
 description: "Hugo est musicien semi-professionnel et serveur pour payer les factures. En relation instable avec chloé, musicienne aussi."
 slug: "hugo"
 prenom: "Hugo"
 profession: "Musicien semi-professionnel et serveur pour payer les factures"
 situation: "En relation instable avec chloé, musicienne aussi"
 nb_articles: 2
-weight: 7
+weight: 9
 draft: false
 ---
 

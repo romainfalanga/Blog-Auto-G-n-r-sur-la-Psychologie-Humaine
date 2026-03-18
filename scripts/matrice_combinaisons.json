@@ -860,6 +860,119 @@
       },
       "strategie_coherence": "rationaliser",
       "apport_psychologique": "On comprend que la combativité de Djamila est une stratégie de survie. Son incapacité à faire confiance à sa collègue Amina n'est pas de l'impolitesse, mais une conséquence directe d'un schéma où 'proximité' a longtemps rimé avec 'danger'."
+    },
+    {
+      "date": "2026-03-18",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de conformité",
+      "contexte": "au travail",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Thomas",
+      "age": "34 ans",
+      "title": "Biais de conformité au travail : comment il s’installe sans qu’on voie",
+      "slug": "biais-conformite-travail",
+      "tags": [
+        "biais de conformité",
+        "conformisme",
+        "psychologie au travail",
+        "assertivité",
+        "limites"
+      ],
+      "resume_narratif": "Lors d'une réunion en salle des professeurs, Thomas accepte sans protester un nouveau protocole pédagogique imposé par sa collègue Valérie, malgré ses doutes sur l'efficacité pour ses élèves de seconde. Bien qu'il tente d'appliquer des techniques de pose de limites apprises après une dispute avec Émilie, il finit par céder à la pression du groupe pour maintenir l'harmonie.",
+      "evolution": "Thomas réalise avec amertume que son besoin de conformité est une extension de son complexe du sauveur : il troque son rôle de protecteur contre celui d'exécutant docile pour masquer sa peur de décevoir et d'être exclu.",
+      "elements_cles": "Valérie (collègue influente), Émilie (conjointe, mentionnée pour la dispute du 15 mars), salle des professeurs, nouveau protocole pédagogique, techniques de limites simples et notation des besoins, transition du rôle de 'sauveur' à celui d' 'exécutant'.",
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "Cet article démontre que son attitude de sauveur n'est pas qu'une posture altruiste, mais une stratégie cognitive pour éviter le conflit en se conformant aux attentes du groupe (collègues et administration)."
+    },
+    {
+      "date": "2026-03-18",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "honte",
+      "contexte": "en colocation",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Lucas",
+      "age": "24 ans",
+      "title": "Honte en colocation : comprendre et surmonter cette émotion",
+      "slug": "honte-en-colocation-causes-solutions",
+      "tags": [
+        "honte",
+        "colocation",
+        "psychologie",
+        "émotions",
+        "estime de soi"
+      ],
+      "resume_narratif": "Lucas, étudiant en école de commerce issu d'un milieu modeste, reçoit une aide financière de sa mère qu'il cache à ses colocataires, Maxime et Romain. Pour ne pas avouer qu'il n'a pas les moyens de participer à un week-end au ski, il invente un mensonge sur une mission freelance prestigieuse.",
+      "evolution": "Lucas prend conscience que sa peur d'être exclu le pousse à porter un masque social épuisant, transformant sa honte de classe en un mensonge qui le protège immédiatement mais le ronge intérieurement.",
+      "elements_cles": {
+        "personnages": [
+          "Maxime",
+          "Romain",
+          "Sandrine (sa mère)"
+        ],
+        "lieux": [
+          "Colocation",
+          "La Défense (lieu de l'entretien)"
+        ],
+        "decisions": [
+          "Refus du week-end au ski",
+          "Invention d'un faux job en freelance"
+        ],
+        "techniques_et_etats": [
+          "Respiration consciente",
+          "Effet spotlight",
+          "Solde bancaire débiteur"
+        ]
+      },
+      "strategie_coherence": "enrichir",
+      "apport_psychologique": "On découvre que son ambition et sa compétitivité sont des pare-feux contre une honte profonde liée à ses origines modestes. L'article explore comment cette émotion sabote ses relations authentiques."
+    },
+    {
+      "date": "2026-03-18",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "transmissions transgénérationnelles",
+      "contexte": "avec ses parents",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Fabien",
+      "age": "50 ans",
+      "title": "Transmissions transgénérationnelles avec ses parents : s'en libérer",
+      "slug": "transmissions-transgenerationnelles-avec-ses-parents-guide",
+      "tags": [
+        "psychologie",
+        "famille",
+        "héritage émotionnel",
+        "schéma répétitif",
+        "éducation"
+      ],
+      "resume_narratif": "Lors d'un déjeuner dominical chez son père, Fabien observe le silence pesant qui règne durant le repas. Il réalise que ce mutisme est identique à celui qu'il a partagé avec son fils Lucas le week-end précédent et à celui qui habitait son appartement depuis son divorce avec Véronique.",
+      "evolution": "Fabien prend conscience que son inhibition relationnelle est un héritage transgénérationnel, une 'nappe phréatique invisible' transmise par son père et son grand-père. Il comprend que son rôle de cadre RH est peut-être une tentative de structurer ce chaos émotionnel familial.",
+      "elements_cles": {
+        "personnages": [
+          "Le père de Fabien",
+          "Lucas (son fils)",
+          "Véronique (son ex-femme)",
+          "Marine",
+          "Le grand-père (photo)"
+        ],
+        "lieux": [
+          "Salle à manger paternelle",
+          "Parc",
+          "Appartement de Fabien"
+        ],
+        "contexte_professionnel": "Cadre RH",
+        "concepts_identifies": [
+          "Loyautés invisibles",
+          "Inhibition relationnelle",
+          "Génogramme (technique mentionnée)"
+        ]
+      },
+      "strategie_coherence": "connecter",
+      "apport_psychologique": "Cet article révèle que le 'silence' qui règne dans l'appartement de Fabien est un héritage comportemental de son propre père. En comprenant ce fil invisible, il peut enfin commencer à déconstruire sa solitude."
     }
   ]
 }

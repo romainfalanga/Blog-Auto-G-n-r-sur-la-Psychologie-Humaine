@@ -196,6 +196,17 @@
           "category": "cat3_schemas",
           "titre": "Les jeux psychologiques (triangle de Karpman) en couple",
           "slug": "jeux-psychologiques-karpman-couple"
+        },
+        {
+          "date": "2026-03-18",
+          "sujet": "biais de conformité",
+          "contexte": "au travail",
+          "category": "cat1_pensees",
+          "titre": "Biais de conformité au travail : comment il s’installe sans qu’on voie",
+          "slug": "biais-conformite-travail",
+          "resume_narratif": "Lors d'une réunion en salle des professeurs, Thomas accepte sans protester un nouveau protocole pédagogique imposé par sa collègue Valérie, malgré ses doutes sur l'efficacité pour ses élèves de seconde. Bien qu'il tente d'appliquer des techniques de pose de limites apprises après une dispute avec Émilie, il finit par céder à la pression du groupe pour maintenir l'harmonie.",
+          "evolution": "Thomas réalise avec amertume que son besoin de conformité est une extension de son complexe du sauveur : il troque son rôle de protecteur contre celui d'exécutant docile pour masquer sa peur de décevoir et d'être exclu.",
+          "elements_cles": "Valérie (collègue influente), Émilie (conjointe, mentionnée pour la dispute du 15 mars), salle des professeurs, nouveau protocole pédagogique, techniques de limites simples et notation des besoins, transition du rôle de 'sauveur' à celui d' 'exécutant'."
         }
       ],
       "genre": "M",
@@ -382,6 +393,36 @@
           "category": "cat1_pensees",
           "titre": "Effet spotlight lors d'un entretien d'embauche : s'en libérer",
           "slug": "effet-spotlight-entretien-embauche"
+        },
+        {
+          "date": "2026-03-18",
+          "sujet": "honte",
+          "contexte": "en colocation",
+          "category": "cat2_emotions",
+          "titre": "Honte en colocation : comprendre et surmonter cette émotion",
+          "slug": "honte-en-colocation-causes-solutions",
+          "resume_narratif": "Lucas, étudiant en école de commerce issu d'un milieu modeste, reçoit une aide financière de sa mère qu'il cache à ses colocataires, Maxime et Romain. Pour ne pas avouer qu'il n'a pas les moyens de participer à un week-end au ski, il invente un mensonge sur une mission freelance prestigieuse.",
+          "evolution": "Lucas prend conscience que sa peur d'être exclu le pousse à porter un masque social épuisant, transformant sa honte de classe en un mensonge qui le protège immédiatement mais le ronge intérieurement.",
+          "elements_cles": {
+            "personnages": [
+              "Maxime",
+              "Romain",
+              "Sandrine (sa mère)"
+            ],
+            "lieux": [
+              "Colocation",
+              "La Défense (lieu de l'entretien)"
+            ],
+            "decisions": [
+              "Refus du week-end au ski",
+              "Invention d'un faux job en freelance"
+            ],
+            "techniques_et_etats": [
+              "Respiration consciente",
+              "Effet spotlight",
+              "Solde bancaire débiteur"
+            ]
+          }
         }
       ],
       "genre": "M",
@@ -1801,6 +1842,36 @@
           "category": "cat2_emotions",
           "titre": "Vide intérieur face à une décision importante : comprendre et agir",
           "slug": "vide-interieur-decision-parentification"
+        },
+        {
+          "date": "2026-03-18",
+          "sujet": "transmissions transgénérationnelles",
+          "contexte": "avec ses parents",
+          "category": "cat3_schemas",
+          "titre": "Transmissions transgénérationnelles avec ses parents : s'en libérer",
+          "slug": "transmissions-transgenerationnelles-avec-ses-parents-guide",
+          "resume_narratif": "Lors d'un déjeuner dominical chez son père, Fabien observe le silence pesant qui règne durant le repas. Il réalise que ce mutisme est identique à celui qu'il a partagé avec son fils Lucas le week-end précédent et à celui qui habitait son appartement depuis son divorce avec Véronique.",
+          "evolution": "Fabien prend conscience que son inhibition relationnelle est un héritage transgénérationnel, une 'nappe phréatique invisible' transmise par son père et son grand-père. Il comprend que son rôle de cadre RH est peut-être une tentative de structurer ce chaos émotionnel familial.",
+          "elements_cles": {
+            "personnages": [
+              "Le père de Fabien",
+              "Lucas (son fils)",
+              "Véronique (son ex-femme)",
+              "Marine",
+              "Le grand-père (photo)"
+            ],
+            "lieux": [
+              "Salle à manger paternelle",
+              "Parc",
+              "Appartement de Fabien"
+            ],
+            "contexte_professionnel": "Cadre RH",
+            "concepts_identifies": [
+              "Loyautés invisibles",
+              "Inhibition relationnelle",
+              "Génogramme (technique mentionnée)"
+            ]
+          }
         }
       ],
       "genre": "M",
