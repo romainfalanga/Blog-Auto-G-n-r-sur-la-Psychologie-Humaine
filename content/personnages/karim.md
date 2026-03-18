@@ -1,13 +1,13 @@
 ---
 title: "Karim, 40 ans"
-date: 2026-03-17T18:03:46+00:00
+date: 2026-03-18T04:39:53+00:00
 description: "Karim est entrepreneur, fondateur d'une PME de restauration. Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)."
 slug: "karim"
 prenom: "Karim"
 profession: "Entrepreneur, fondateur d'une pme de restauration"
 situation: "Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)"
 nb_articles: 1
-weight: 12
+weight: 15
 draft: false
 ---
 

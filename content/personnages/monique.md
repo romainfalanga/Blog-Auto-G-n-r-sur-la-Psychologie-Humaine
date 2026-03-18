@@ -1,13 +1,13 @@
 ---
 title: "Monique, 62 ans"
-date: 2026-03-17T18:03:46+00:00
+date: 2026-03-18T04:39:53+00:00
 description: "Monique est retraitée, ancienne professeure de français. Veuve depuis 3 ans, deux enfants adultes, trois petits-enfants."
 slug: "monique"
 prenom: "Monique"
 profession: "Retraitée, ancienne professeure de français"
 situation: "Veuve depuis 3 ans, deux enfants adultes, trois petits-enfants"
-nb_articles: 1
-weight: 13
+nb_articles: 2
+weight: 4
 draft: false
 ---
 
@@ -23,5 +23,16 @@ draft: false
       <p>Monique apprend à identifier et nommer ce qu'elle ressent dans cette situation, une étape importante pour mieux réguler ses émotions plutôt que de les subir.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/impuissance-deuil-reprendre-main/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-monde-juste-deuil-causes/">Biais du monde juste lors d'un deuil : pourquoi ça existe</a></h3>
+    <div class="parcours-date">2026-03-18</div>
+    <p class="parcours-resume">Le 18 mars 2026, Monique trie les dossiers médicaux et un carnet personnel de son défunt mari, Jean-Claude, dans son bureau rempli de livres. Elle reçoit la visite de sa voisine Geneviève tout en luttant contre le besoin obsessionnel de trouver une erreur ou un responsable pour expliquer la perte de son époux.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Monique identifie son besoin de rationaliser le chaos comme étant le 'biais du monde juste', comprenant que sa recherche de culpabilité est un bouclier psychologique contre l'aléatoire de la mort. Elle passe d'une paralysie émotionnelle à une analyse intellectuelle de ses propres mécanismes de défense.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-monde-juste-deuil-causes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

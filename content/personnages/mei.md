@@ -1,13 +1,13 @@
 ---
 title: "Mei, 22 ans"
-date: 2026-03-17T18:03:46+00:00
+date: 2026-03-18T04:39:53+00:00
 description: "Mei est étudiante en école d'art, spécialité illustration. Célibataire, vit en résidence étudiante."
 slug: "mei"
 prenom: "Mei"
 profession: "Étudiante en école d'art, spécialité illustration"
 situation: "Célibataire, vit en résidence étudiante"
-nb_articles: 1
-weight: 19
+nb_articles: 2
+weight: 6
 draft: false
 ---
 
@@ -23,5 +23,16 @@ draft: false
       <p>Mei apprend à identifier et nommer ce qu'elle ressent dans cette situation, une étape importante pour mieux réguler ses émotions plutôt que de les subir.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/embarras-en-societe-interactions/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/faux-self-winnicott-parents/">Comprendre le faux self (Winnicott) avec ses parents</a></h3>
+    <div class="parcours-date">2026-03-18</div>
+    <p class="parcours-resume">Lors d'un dîner au restaurant familial avec ses parents, Li et Wei, Mei dissimule son carnet de croquis tout en feignant d'accepter leurs injonctions sur une carrière en médecine. Malgré la pression de son père, elle utilise l'ancrage physique et l'identification de ses émotions pour maintenir son calme face à leurs attentes.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Mei a pris conscience que sa docilité et son perfectionnisme sont des manifestations d'un 'faux self' construit pour plaire à ses parents. Elle commence à identifier ses peurs en temps réel, ce qui lui donne une nouvelle marge de manœuvre pour protéger son identité artistique.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/faux-self-winnicott-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

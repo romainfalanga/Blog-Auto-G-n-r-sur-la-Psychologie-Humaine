@@ -1242,6 +1242,17 @@
           "category": "cat2_emotions",
           "titre": "Cultiver la gratitude en tant que manager : le chemin de Charlotte",
           "slug": "gratitude-en-tant-que-manager"
+        },
+        {
+          "date": "2026-03-18",
+          "sujet": "biais du monde juste",
+          "contexte": "lors d'un deuil",
+          "category": "cat1_pensees",
+          "titre": "Biais du monde juste lors d'un deuil : pourquoi ça existe",
+          "slug": "biais-monde-juste-deuil-causes",
+          "resume_narratif": "Le 18 mars 2026, Monique trie les dossiers médicaux et un carnet personnel de son défunt mari, Jean-Claude, dans son bureau rempli de livres. Elle reçoit la visite de sa voisine Geneviève tout en luttant contre le besoin obsessionnel de trouver une erreur ou un responsable pour expliquer la perte de son époux.",
+          "evolution": "Monique identifie son besoin de rationaliser le chaos comme étant le 'biais du monde juste', comprenant que sa recherche de culpabilité est un bouclier psychologique contre l'aléatoire de la mort. Elle passe d'une paralysie émotionnelle à une analyse intellectuelle de ses propres mécanismes de défense.",
+          "elements_cles": "Bureau de Monique (tapissé de classiques littéraires) ; Jean-Claude (défunt) ; Geneviève (voisine) ; Carnet de notes usé ; Date du 18 mars 2026 ; Référence au 12 mars (précédente réflexion sur l'impuissance) ; Concept du biais du monde juste (Melvin Lerner)."
         }
       ],
       "genre": "F",
@@ -1420,6 +1431,17 @@
           "category": "cat3_schemas",
           "titre": "Attachement évitant-dédaigneux dans l'intimité et la sexualité",
           "slug": "attachement-evitant-dans-intimite"
+        },
+        {
+          "date": "2026-03-18",
+          "sujet": "anxiété",
+          "contexte": "face à la maladie",
+          "category": "cat2_emotions",
+          "titre": "Anxiété face à la maladie : quand la blouse cache la peur",
+          "slug": "anxiete-face-maladie-blouse",
+          "resume_narratif": "Tard le soir au cabinet médical, Priya traite un dossier de pathologie chronique qui réveille des souvenirs douloureux liés à la santé de son père, Raj. Pour masquer son anxiété, elle se réfugie dans une hyper-productivité rigide et une mise à distance émotionnelle, un comportement qu'elle observe également dans sa vie sentimentale.",
+          "evolution": "Priya réalise que son besoin de contrôle clinique et son perfectionnisme sont des mécanismes de défense issus de son profil d'attachement évitant-dédaigneux. Elle commence à accepter sa vulnérabilité au lieu de la fuir par la technique, marquant un tournant dans sa pratique médicale et sa gestion émotionnelle.",
+          "elements_cles": "Cabinet médical (20h10) ; Raj (père) et Anjali (mère) ; Julie (secrétaire) ; Damien (ex-compagnon) ; profil d'attachement évitant-dédaigneux ; technique d'observation des sensations physiques (nuque, mâchoire) ; mécanisme de l'hyper-productivité comme bouclier."
         }
       ],
       "genre": "F",
@@ -1759,6 +1781,17 @@
           "category": "cat3_schemas",
           "titre": "Fusion et personnalité atrophiée en reconversion pro",
           "slug": "fusion-personnalite-reconversion"
+        },
+        {
+          "date": "2026-03-18",
+          "sujet": "le faux self (Winnicott)",
+          "contexte": "avec ses parents",
+          "category": "cat3_schemas",
+          "titre": "Comprendre le faux self (Winnicott) avec ses parents",
+          "slug": "faux-self-winnicott-parents",
+          "resume_narratif": "Lors d'un dîner au restaurant familial avec ses parents, Li et Wei, Mei dissimule son carnet de croquis tout en feignant d'accepter leurs injonctions sur une carrière en médecine. Malgré la pression de son père, elle utilise l'ancrage physique et l'identification de ses émotions pour maintenir son calme face à leurs attentes.",
+          "evolution": "Mei a pris conscience que sa docilité et son perfectionnisme sont des manifestations d'un 'faux self' construit pour plaire à ses parents. Elle commence à identifier ses peurs en temps réel, ce qui lui donne une nouvelle marge de manœuvre pour protéger son identité artistique.",
+          "elements_cles": "Restaurant familial ; carnet de croquis (dessins d'ombres denses) ; Li (mère) et Wei (père) ; Océane (amie offrant son soutien) ; souvenir du vernissage de la semaine dernière ; technique d'identification des émotions (nommer la peur) ; tension entre illustration et médecine."
         }
       ],
       "genre": "F",

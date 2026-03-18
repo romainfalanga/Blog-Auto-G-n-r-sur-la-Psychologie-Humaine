@@ -1,13 +1,13 @@
 ---
 title: "Priya, 33 ans"
-date: 2026-03-17T18:03:46+00:00
+date: 2026-03-18T04:39:53+00:00
 description: "Priya est médecin généraliste en cabinet de ville. Célibataire, vit seule, relations épisodiques."
 slug: "priya"
 prenom: "Priya"
 profession: "Médecin généraliste en cabinet de ville"
 situation: "Célibataire, vit seule, relations épisodiques"
-nb_articles: 1
-weight: 15
+nb_articles: 2
+weight: 5
 draft: false
 ---
 
@@ -23,5 +23,16 @@ draft: false
       <p>Priya prend conscience d'un schéma répétitif qui s'active dans cette situation. Malgré son côté compétente, elle commence à identifier les déclencheurs et à envisager d'autres façons de réagir.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-evitant-dans-intimite/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/anxiete-face-maladie-blouse/">Anxiété face à la maladie : quand la blouse cache la peur</a></h3>
+    <div class="parcours-date">2026-03-18</div>
+    <p class="parcours-resume">Tard le soir au cabinet médical, Priya traite un dossier de pathologie chronique qui réveille des souvenirs douloureux liés à la santé de son père, Raj. Pour masquer son anxiété, elle se réfugie dans une hyper-productivité rigide et une mise à distance émotionnelle, un comportement qu'elle observe également dans sa vie sentimentale.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Priya réalise que son besoin de contrôle clinique et son perfectionnisme sont des mécanismes de défense issus de son profil d'attachement évitant-dédaigneux. Elle commence à accepter sa vulnérabilité au lieu de la fuir par la technique, marquant un tournant dans sa pratique médicale et sa gestion émotionnelle.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/anxiete-face-maladie-blouse/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
