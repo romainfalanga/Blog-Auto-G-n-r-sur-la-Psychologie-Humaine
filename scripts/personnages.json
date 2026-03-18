@@ -1109,6 +1109,30 @@
           "category": "cat3_schemas",
           "titre": "Surcontrôle émotionnel/inhibition en famille : comment s'en libérer",
           "slug": "surcontrole-emotionnel-famille"
+        },
+        {
+          "date": "2026-03-18",
+          "sujet": "biais du point aveugle",
+          "contexte": "face au vieillissement",
+          "category": "cat1_pensees",
+          "titre": "Biais du point aveugle face au vieillissement : le voir en soi",
+          "slug": "biais-point-aveugle-face-vieillissement-psychologie",
+          "resume_narratif": "Sur son chantier, Patrick ressent de vives douleurs physiques liées à l'âge mais les ignore tout en jugeant sévèrement la fatigue d'un jeune intérimaire. Malgré ses efforts récents pour être plus à l'écoute de ses émotions, il reproduit inconsciemment le comportement stoïque et déniant de son père Marcel face au vieillissement.",
+          "evolution": "Patrick prend conscience qu'il est prisonnier d'une rigidité mentale héritée de son éducation, le rendant aveugle à ses propres limites physiques alors qu'il est très lucide sur celles des autres.",
+          "elements_cles": {
+            "lieux": "Chantier de construction (cabine du chef de chantier, utilitaire)",
+            "personnes_mentionnees": [
+              "Stéphanie (sa fille)",
+              "Marcel (son père)",
+              "le jeune intérimaire"
+            ],
+            "symptomes_physiques": [
+              "décharge électrique aux lombaires",
+              "douleur à la jambe gauche",
+              "genou qui craque"
+            ],
+            "contexte_psychologique": "Biais du point aveugle, héritage éducatif de la 'non-vulnérabilité'"
+          }
         }
       ],
       "genre": "M",
@@ -1309,6 +1333,28 @@
           "category": "cat2_emotions",
           "titre": "Regret avec ses enfants : comprendre et agir",
           "slug": "regret-avec-ses-enfants"
+        },
+        {
+          "date": "2026-03-18",
+          "sujet": "contrôle de soi insuffisant",
+          "contexte": "au travail",
+          "category": "cat3_schemas",
+          "titre": "Contrôle de soi insuffisant au travail : pourquoi ça arrive",
+          "slug": "controle-de-soi-insuffisant-travail",
+          "resume_narratif": "Lors d'un dîner d'anniversaire avec Sofia, Karim cède à l'impulsion de répondre à un appel professionnel pour un contrat majeur. Malgré ses promesses passées de se déconnecter, il accepte l'engagement immédiatement, provoquant la colère et la déception de sa compagne qui finit par lui envoyer un message de rupture de communication.",
+          "evolution": "Karim réalise que son besoin d'adrénaline lié au succès professionnel est plus fort que sa volonté, prenant conscience que son manque de contrôle de soi sabote activement sa vie personnelle.",
+          "elements_cles": {
+            "personnages": [
+              "Karim",
+              "Sofia (compagne)",
+              "Sami (fils)",
+              "Lina (fille)",
+              "Associé anonyme"
+            ],
+            "contexte": "Dîner d'anniversaire au restaurant, PME de restauration",
+            "evenements": "Signature impulsive d'un contrat doublant la visibilité de l'entreprise, réception d'un message sec de Sofia",
+            "concepts": "Contrôle de soi insuffisant, gratification immédiate vs objectifs long terme"
+          }
         }
       ],
       "genre": "M",
@@ -2133,6 +2179,17 @@
           "category": "cat3_schemas",
           "titre": "Surcontrôle émotionnel et inhibition avec ses parents",
           "slug": "surcontrole-emotionnel-parents"
+        },
+        {
+          "date": "2026-03-18",
+          "sujet": "solitude",
+          "contexte": "face à la solitude",
+          "category": "cat2_emotions",
+          "titre": "Solitude face à la solitude : comprendre et mieux la vivre",
+          "slug": "solitude-face-a-la-solitude-comprendre-difference",
+          "resume_narratif": "Bernard travaille seul dans son atelier de menuiserie sur une commode destinée à son fils Éric, accompagné de son chien Sultan. Alors qu'il ressent le vide laissé par le départ d'Hélène, il prend conscience que son silence et son retrait du monde, autrefois protecteurs, sont devenus une source de souffrance physique et émotionnelle.",
+          "evolution": "Bernard a compris que son mutisme est un héritage familial servant de bouclier contre la vulnérabilité, transformant son sanctuaire créatif en une cellule d'isolement. Il réalise que son besoin de connexion n'est plus comblé par le travail du bois ou le souvenir des disparus.",
+          "elements_cles": "Atelier de menuiserie, Sultan (vieux labrador), Éric (fils avec qui le lien est tendu), Hélène (compagne absente), Marcel (voisin), commode en chêne en cours de finition, outils d'Hélène."
         }
       ],
       "genre": "M",

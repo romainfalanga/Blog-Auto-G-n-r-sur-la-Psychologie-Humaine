@@ -1,6 +1,6 @@
 ---
 title: "Camille"
-date: 2026-03-18T13:17:48+00:00
+date: 2026-03-18T17:31:27+00:00
 description: "Camille est infirmière en service de cardiologie. Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)."
 slug: "camille"
 prenom: "Camille"
