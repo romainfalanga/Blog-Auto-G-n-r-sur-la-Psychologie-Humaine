@@ -47,7 +47,7 @@ Pour briser une transmission, il est parfois nécessaire de s'adresser symboliqu
 ### 3. La technique de la chaise vide pour le dialogue intérieur
 Inspirée de la Gestalt-thérapie, cette méthode permet de dialoguer avec une part de soi qui porte l'héritage parental. Fabien s'installe face à une chaise vide et imagine que son propre père, ou la version de lui-même qui imite son père, est assis là. Il formule alors ses besoins de changement, en décidant par exemple de parler à Lucas de ce qu'il ressent, même si cela l'intimide. L'objectif est d'identifier physiquement la tension liée à la désobéissance familiale et de s'autoriser, par la parole haute, à créer une nouvelle règle de vie.
 
-## Évolution de Fabien et transformation de son héritage
+## Fabien commence à briser le silence familial
 
 Le déjeuner se termine. Fabien aide son père à débarrasser la table, un rituel millimétré où chaque assiette retrouve sa place exacte dans le lave-vaisselle. D'ordinaire, il serait déjà en train de chercher ses clés, pressé de retrouver la solitude de son appartement pour échapper à cette atmosphère. Mais aujourd'hui, fort de ses réflexions sur le biais du coût irrécupérable et de sa nouvelle compréhension des liens familiaux, il décide de rester un peu plus longtemps.
 

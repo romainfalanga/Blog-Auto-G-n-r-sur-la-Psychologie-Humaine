@@ -59,7 +59,7 @@ La honte meurt quand on en parle dans un environnement sécurisé. Lucas n'a pas
 
 La honte se nourrit de critères de succès rigides et souvent externes. Lucas peut travailler sur sa boussole interne en listant ses propres valeurs, indépendamment de celles de son école ou de ses colocataires. L'exercice consiste à écrire trois choses dont il est fier et qui ne sont pas liées à l'argent ou au prestige social. Il peut s'agir de sa persévérance, de son soutien envers ses parents ou de ses compétences sportives. En renforçant son estime de soi globale, il rend son identité moins vulnérable aux fluctuations de son compte en banque.
 
-## Évolution du personnage de Lucas
+## Lucas ose montrer sa vulnérabilité
 
 Quelques jours après l'épisode du voyage au ski, Lucas se retrouve seul dans la cuisine avec Romain. Ce dernier est en train de préparer un café tout en racontant ses propres galères de stage. Lucas sent l'opportunité de mettre en pratique ce qu'il commence à comprendre sur son fonctionnement. Il se souvient de sa réussite à La Défense, où il avait compris que les gens ne le scrutaient pas autant qu'il le pensait. Ici, c'est la même chose : ses amis ne l'aiment pas pour son solde bancaire, mais pour qui il est.
 

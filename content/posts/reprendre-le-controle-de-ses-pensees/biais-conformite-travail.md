@@ -55,7 +55,7 @@ Il s'agit ici de transformer une impression en question vérifiable. Plutôt que
 
 Pratiquer de petites actions de désaccord non catastrophiques permet de renforcer la confiance. Thomas se fixe un défi hebdomadaire pendant un mois : poser une question critique en réunion, envoyer une proposition alternative par courriel ou refuser poliment une tâche supplémentaire une fois. Il note chaque tentative, la réaction des autres et son ressenti après coup. Ces micro-dissidences réduisent la peur du rejet et créent une mémoire positive de résistance au conformisme.
 
-## Évolution du personnage face au biais de conformité
+## Thomas commence à dire non sans se trahir
 
 Aujourd'hui, Thomas met en œuvre ces techniques en saluant d'abord la logique exprimée par Valérie, puis en proposant le test pilote avec une voix qui tremble légèrement mais qui conserve un ton factuel. Il utilise la phrase tampon qu'il a répétée. La structure de cette habitude lui apporte une sécurité minimale. Valérie accueille la proposition avec surprise, puis, après un échange court, accepte d'essayer le pilote sur deux classes. Les collègues échangent des regards et quelques murmures, mais personne ne le désavoue.
 
