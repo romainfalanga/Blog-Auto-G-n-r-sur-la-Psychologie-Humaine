@@ -59,7 +59,7 @@ Exprimer ses besoins sans agressivité ni accusation est essentiel. Plutôt que 
 
 L’indépendance affective ne signifie pas couper le lien, mais développer ses propres ressources : hobbies, activités sociales, moments de détente seule. Isabelle a commencé à pratiquer la marche en nature et la lecture, ce qui lui a permis de se recentrer sur elle-même et de ne plus dépendre exclusivement des signes d’attention de Aurélie.
 
-## L’évolution de Isabelle : un pas vers plus de sérénité
+## Isabelle apprend à accueillir ses peurs sans les laisser diriger
 
 Au fil des semaines, Isabelle a intégré ces techniques avec patience. Lorsqu’elle ressentait l’angoisse monter, elle s’accordait une pause, respirait, et notait ses émotions dans un carnet. Elle a aussi commencé à en parler avec Aurélie, qui a accueilli sa vulnérabilité avec tendresse. Ce partage a renforcé leur lien et apaisée les tensions.
 
