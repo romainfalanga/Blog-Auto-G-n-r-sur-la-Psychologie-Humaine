@@ -83,7 +83,7 @@ Exercice concret :
 
 Transformer des impressions en données réduit le pouvoir des croyances amplifiées. Stéphane peut utiliser sa compétence analytique pour objectiver ses inquiétudes et constater que la plupart des drames n'ont aucun impact tangible.
 
-## Évolution de Stéphane vers un autre regard
+## Stéphane commence à éteindre le projecteur imaginaire
 
 Dans la deuxième partie de la soirée, après avoir appliqué la technique du changement de focus une première fois, Stéphane entame une conversation avec une directrice marketing qu'il respecte. Au lieu de contrôler chaque mot, il pose la question qu'il a préparée et écoute. Il note la façon dont elle parle d'un débat interne sur les cibles. Sa tension baisse, non parce qu'il relâche magiquement, mais parce qu'il accumule une preuve concrète : elle est concentrée sur son histoire, pas sur son bégaiement.
 

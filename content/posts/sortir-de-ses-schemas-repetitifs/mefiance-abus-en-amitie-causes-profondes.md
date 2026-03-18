@@ -57,7 +57,7 @@ Pour réapprendre la vulnérabilité sans se sentir en danger, il est utile d'ut
 
 Lorsque le schéma s'active, le corps entre en mode combat ou fuite. La technique consiste à identifier le signal physique de la méfiance : pour Djamila, c'est une tension dans les mâchoires et un retrait du buste, des symptômes qu'elle a appris à identifier comme des déclencheurs de son C-PTSD. À ce moment précis, pratiquez l'exercice du balayage sensoriel 5-4-3-2-1. Nommez intérieurement cinq couleurs que vous voyez, quatre sons que vous entendez, trois textures que vous pouvez toucher, deux odeurs et un goût. En ramenant l'attention sur les sens immédiats, vous coupez court au scénario catastrophe mental et signalez à votre cerveau que vous êtes ici et maintenant, en sécurité, loin du passé toxique.
 
-## Évolution du personnage et ouverture
+## Djamila commence à baisser la garde
 
 De retour au bureau, Djamila repense à sa réaction lors du déjeuner. Elle sent encore cette raideur dans sa nuque, mais elle refuse de laisser son passé dicter son présent. Elle se souvient que son cerveau est comme un système d'alarme trop sensible qui se déclenche au moindre courant d'air depuis la disparition de sa grand-mère. Elle décide d'appliquer la technique des preuves contradictoires avant de reprendre son travail de suivi avec les femmes qu'elle accompagne.
 

@@ -53,7 +53,7 @@ Cette technique de pause réflexive permet d'insérer une micro-pause cognitive 
 
 L'objectif est d'explorer les causes situées avec l'élève ou la famille sans imposer une explication. Lors d'un entretien, au lieu de commencer par un reproche, utilisez une approche par étapes : demandez à l'élève de décrire ce qui s'est passé, ce qui a rendu la situation difficile et s'il y a eu des changements récents. Terminez en cherchant ensemble ce qui pourrait être testé pour améliorer la situation. En gardant un ton curieux et en évitant de valider une attribution interne, vous déplacez la discussion des jugements vers la recherche de solutions concrètes.
 
-## Évolution d'Isabelle et transformation de sa pratique
+## Isabelle transforme son regard sur ses élèves
 
 Isabelle applique ces techniques dès le lendemain. Elle prend son carnet et, au lieu de noter Mathieu comme paresseux, elle remplit une grille de contexte : heure de sortie du bus, présence d'une aide familiale, repos la veille. Elle utilise le temps des trois vérifications et pose à Mathieu une question simple et non accusatrice sur ce qui l'a empêché d'être en cours. Mathieu explique qu'il a dû garder son petit frère en l'absence de sa mère et qu'il n'avait pas de place en étude. La situation n'excuse pas l'absence, mais elle change la façon dont Isabelle y répond.
 

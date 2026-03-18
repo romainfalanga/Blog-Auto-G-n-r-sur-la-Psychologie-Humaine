@@ -76,7 +76,7 @@ Exercice concret :
 
 Beaucoup de basculements viennent d'interprétations non vérifiées. En adoptant un script simple et répétable, Hugo diminue la part d'imaginaire qui transforme un silence en trahison. Il apprend à décrocher son téléphone quand Théo l'appelle pour s'entraîner, acceptant enfin l'aide extérieure qu'il fuyait auparavant.
 
-## Évolution du personnage et apaisement des schémas
+## Hugo choisit de poser les armes
 
 La soirée avance. Hugo sent la même agitation monter. Mais cette fois, il rappelle mentalement la première technique et se promet d'attendre vingt-quatre heures avant de réagir. Il pose le chiffon sur le comptoir, le tissu râpe contre le bois, et choisit de respirer pour ne pas céder à une impulsion. Il ne fuit pas la pièce, il ne provoque pas non plus une scène.
 

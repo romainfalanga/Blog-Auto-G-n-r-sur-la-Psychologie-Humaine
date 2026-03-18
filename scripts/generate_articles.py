@@ -1499,7 +1499,7 @@ Tu DOIS structurer chaque article avec des titres Markdown H2 (##) et H3 (###). 
 2. **## Qu'est-ce que [concept] ?** (H2 avec le nom du concept, définition claire, contexte scientifique, chercheur associé)
 3. **## Comment [concept] se manifeste-t-il [contexte] ?** (H2 sous forme de question, avec 2-3 sous-sections H3 montrant des manifestations concrètes)
 4. **## [N] techniques pour [verbe d'action] face à [concept]** (H2, puis chaque technique en H3 numéroté : ### 1. Titre de la technique)
-5. **## [Prénom] commence à [verbe de transformation]** (H2, retour au personnage qui évolue grâce aux techniques)
+5. **## [Prénom] commence à [verbe de transformation]** (H2, retour au personnage qui évolue grâce aux techniques. INTERDIT : n'utilise JAMAIS le mot "évolution" ni "Évolution" dans ce titre H2. Le titre doit décrire DIRECTEMENT ce que le personnage fait ou ressent, pas étiqueter son changement. Exemples corrects : "Sophie commence à reprendre le dessus", "Karim commence à réparer", "Djamila, vers la lumière". Exemples INTERDITS : "Évolution du personnage", "Évolution de Sophie vers...", "L'évolution de Karim".)
 6. **---** (séparateur horizontal obligatoire avant la conclusion)
 7. **Conclusion** (3 paragraphes SANS titre H2 : bilan, message d'espoir, rappel professionnel)
 
@@ -1646,7 +1646,7 @@ CONSIGNES SPÉCIFIQUES (structure OBLIGATOIRE avec titres H2/H3 Markdown) :
 2. ## Qu'est-ce que {combo['sujet']} ? (titre H2 OBLIGATOIRE) : Fais le lien avec la situation de {combo['prenom']}, puis explique le concept avec une définition claire en une phrase, le nom du chercheur associé, et un contexte scientifique.
 3. ## Comment {combo['sujet']} se manifeste dans le contexte "{combo['contexte']}" ? (titre H2 OBLIGATOIRE sous forme de question) : Détaille 2-3 manifestations concrètes avec des sous-titres H3 (###) pour chaque manifestation. Ajoute des exemples variés.
 4. ## 3 techniques pour [verbe d'action] face à {combo['sujet']} (titre H2 OBLIGATOIRE) : Présente chaque technique avec un sous-titre H3 numéroté (### 1. Nom de la technique). N'utilise PAS de gras (**) dans les titres H3 ni dans le corps de l'article. Chaque technique doit être détaillée sur un paragraphe complet avec un exercice concret.
-5. ## {combo['prenom']} commence à [verbe de transformation] (titre H2 OBLIGATOIRE) : Retour au personnage qui applique les techniques et évolue positivement. Montre comment cette étape s'inscrit dans son parcours global.
+5. ## {combo['prenom']} commence à [verbe de transformation] (titre H2 OBLIGATOIRE) : Retour au personnage qui applique les techniques et évolue positivement. Montre comment cette étape s'inscrit dans son parcours global. INTERDIT dans ce titre H2 : le mot "évolution" ou "Évolution". Le titre doit décrire DIRECTEMENT l'action ou le ressenti du personnage (ex: "{combo['prenom']} commence à voir autrement", "{combo['prenom']} choisit de poser les armes"). JAMAIS "Évolution de {combo['prenom']}" ni "Évolution du personnage".
 6. --- (séparateur horizontal OBLIGATOIRE)
 7. CONCLUSION (SANS titre H2) : 3 paragraphes avec bilan, message d'espoir, rappel bienveillant de consulter un professionnel.
 
@@ -1857,6 +1857,12 @@ def _mechanical_post_processing(content):
 
     # 3. Supprimer le gras dans le corps et les titres H2/H3
     content = _strip_bold(content)
+
+    # 4. Vérifier qu'aucun H2 ne contient "évolution" ou "Évolution"
+    evolution_h2 = re.findall(r'^## .*[éÉ]volution.*$', content, re.MULTILINE | re.IGNORECASE)
+    if evolution_h2:
+        print(f"  [ALERTE] H2 avec 'évolution' détecté : {evolution_h2}")
+        print(f"  [ALERTE] Ce titre sera conservé mais devrait être corrigé manuellement.")
 
     return content
 

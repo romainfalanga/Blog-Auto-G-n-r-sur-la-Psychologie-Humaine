@@ -69,7 +69,7 @@ Souvent, le vide intérieur cache aussi un éloignement de soi et de ses besoins
 
 Un exercice concret est de faire une liste de petites actions qui nourrissent le corps et l’esprit, puis de s’engager à en pratiquer une chaque jour. Ce retour à soi est un premier pas vers la reconstruction d’une vie riche et autonome, qui ne dépend plus uniquement de l’autre.  
 
-## Hugo commence à reconnaître l'évolution de son personnage  
+## Hugo commence à se reconstruire, un jour à la fois  
 
 Hugo reprend rendez-vous avec lui-même, chaque jour un peu plus conscient de ce vide sans le fuir. Il s’assoit dans son salon, ferme les yeux, respire profondément et accueille ses émotions avec douceur, comme la pleine conscience le lui a appris. Peu à peu, ce vide devient moins menaçant, moins insupportable.  
 
