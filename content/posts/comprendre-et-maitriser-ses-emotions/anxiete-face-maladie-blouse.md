@@ -35,6 +35,6 @@ Plutôt que d'ignorer les signaux de son corps, elle apprend à les décoder. La
 
 Assise dans son véhicule, elle perçoit la crispation de ses doigts sur le volant et la texture du siège lui paraît inhabituellement inconfortable. Elle analyse sa réaction : il y a peu, en explorant son profil d'attachement évitant-dédaigneux, elle avait compris sa tendance naturelle à s'isoler face à l'émotion. Elle réalise que son besoin de tout contrôler au cabinet est une extension de ce schéma. Face à la maladie, elle ne fuit pas la pièce, mais elle fuit l'impact émotionnel de la souffrance d'autrui en se réfugiant dans la technique.
 
-## L'évolution de Priya : de la fuite à la reconnaissance
+## Priya commence à accepter de ressentir
 
 Ce soir, elle saisit que ce comportement se manifeste au travail sous l'apparence d'un dévouement sans faille. L'anxiété liée à la maladie ne ressemble pas forcément à une crise de panique : elle s'exprime parfois par une quête de perfection clinique. Priya intègre désormais que nommer cette peur constitue sa première véritable étape vers l'apaisement. Elle ne se contente plus de "gérer" ses patients ; elle commence à accepter de ressentir, sans que cela ne menace son intégrité de médecin.
