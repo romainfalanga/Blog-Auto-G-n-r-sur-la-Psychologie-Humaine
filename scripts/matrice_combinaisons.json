@@ -731,6 +731,135 @@
       "elements_cles": "Chloé (compagne), Alain (père, source du schéma), Théo (ami mentionné), le bar (lieu de travail), la guitare/musique (vecteur émotionnel), concept de splitting/relations d'objet.",
       "strategie_coherence": "approfondir",
       "apport_psychologique": "Cet article connecte son instabilité émotionnelle à son histoire familiale où l'amour était conditionnel. Il réalise que sa vision 'tout-ou-rien' de Chloé est un mécanisme de protection contre sa peur de l'abandon."
+    },
+    {
+      "date": "2026-03-18",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet spotlight",
+      "contexte": "en société et dans les interactions sociales",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Stéphane",
+      "age": "45 ans",
+      "title": "Effet spotlight en société : pourquoi vous pensez que tout le monde vous regarde",
+      "slug": "effet-spotlight-en-societe",
+      "tags": [
+        "effet spotlight",
+        "anxiete sociale",
+        "psychologie sociale",
+        "estime de soi",
+        "interactions sociales"
+      ],
+      "resume_narratif": "Lors d'un cocktail de networking le 18 mars 2026, Stéphane bégaye légèrement sur ses tarifs et s'imagine que toute l'assemblée a remarqué sa faille. Malgré les signes rassurants de ses collègues Marc et Sandrine, il s'enferme dans un surcontrôle social pour masquer ce qu'il perçoit comme une humiliation publique.",
+      "evolution": "Stéphane prend conscience de son 'effet spotlight', réalisant que son anxiété sociale et son besoin de perfection sont profondément ancrés dans une rivalité fraternelle ancienne. Il comprend que sa tendance à surjouer son assurance est une réponse directe à sa peur d'être jugé.",
+      "elements_cles": {
+        "contexte_temporel": "18 mars 2026",
+        "entourage_professionnel": [
+          "Marc",
+          "Sandrine",
+          "Directeur commercial"
+        ],
+        "entourage_personnel": [
+          "Philippe (frère, rival d'enfance)",
+          "Maxime (fils, passionné de skate)"
+        ],
+        "traumatismes_recents": "Réunion d'équipe précédente où un collègue a été félicité à sa place",
+        "comportements_reflexes": "Préparation excessive des slides, sourire calibré, poignée de main ferme"
+      },
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "L'article révèle que le 'roi du réseau' est en fait prisonnier d'une distorsion cognitive : il pense que ses collègues scrutent ses doutes, ce qui le pousse à surjouer son personnage de commercial brillant pour cacher ce qu'il perçoit comme des failles béantes."
+    },
+    {
+      "date": "2026-03-18",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "frustration",
+      "contexte": "avec ses enfants",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Nadia",
+      "age": "38 ans",
+      "title": "Frustration avec ses enfants : comment mieux la gérer ?",
+      "slug": "frustration-avec-ses-enfants-comprendre-emotions",
+      "tags": [
+        "frustration",
+        "parentalité",
+        "psychologie-enfant",
+        "gestion-emotions",
+        "education-bienveillante"
+      ],
+      "resume_narratif": "En pleine préparation d'un gâteau avec sa fille Yasmine, Nadia perd son sang-froid lorsqu'un sachet de farine explose au sol. Épuisée par sa journée de travail et son divorce avec Karim, elle réagit avec une sévérité disproportionnée en renvoyant sa fille dans sa chambre.",
+      "evolution": "Nadia prend conscience que sa colère n'est pas liée à la maladresse de Yasmine, mais à son incapacité à désactiver son mode 'gestion de crise' professionnel et à son besoin excessif de contrôle depuis son divorce.",
+      "elements_cles": {
+        "personnages": [
+          "Nadia",
+          "Yasmine (fille, 8 ans)",
+          "Karim (ex-mari)",
+          "Julie (assistante)"
+        ],
+        "contexte": [
+          "Garde alternée",
+          "Divorce",
+          "Cadre marketing sous pression"
+        ],
+        "concepts_psychologiques": [
+          "Effet Zeigarnik",
+          "Théorie de la frustration-agression",
+          "Saturation mentale"
+        ],
+        "lieu": [
+          "Cuisine avec plan de travail en quartz"
+        ]
+      },
+      "strategie_coherence": "enrichir",
+      "apport_psychologique": "Cet article démontre que la frustration de Nadia n'est pas qu'une réaction aux mails, mais un état de tension chronique lié à son besoin de contrôle. On découvre que son exigence envers elle-même se transforme en impatience envers sa fille, créant un cercle vicieux de culpabilité."
+    },
+    {
+      "date": "2026-03-18",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "méfiance/abus",
+      "contexte": "en amitié",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Djamila",
+      "age": "36 ans",
+      "title": "Méfiance et abus en amitié : comprendre ses schémas profonds",
+      "slug": "mefiance-abus-en-amitie-causes-profondes",
+      "tags": [
+        "psychologie",
+        "schémas précoces",
+        "amitié",
+        "traumatisme",
+        "confiance"
+      ],
+      "resume_narratif": "Lors d'un déjeuner dans une brasserie, Djamila réagit avec froideur et suspicion lorsqu'Amina, sa collègue et amie, lui propose de l'aider avec un dossier professionnel. Ce geste déclenche chez elle un réflexe de survie lié à son passé de femme victime de manipulations sous l'emprise de son ex-conjoint, Samir.",
+      "evolution": "Djamila identifie ses pensées comme des réflexes de survie issus d'un stress post-traumatique complexe, prenant conscience que son 'armure de glace' l'isole et l'empêche d'accepter le soutien dont elle a besoin.",
+      "elements_cles": {
+        "personnages": [
+          "Djamila",
+          "Amina (collègue/amie)",
+          "Adam (fils de 6 ans)",
+          "Samir (ex-conjoint manipulateur)",
+          "Grand-mère (décédée)"
+        ],
+        "lieux": [
+          "Brasserie près de l'association",
+          "Cours de dessin d'Adam"
+        ],
+        "contexte_psychologique": [
+          "Schéma de méfiance et d'abus",
+          "Stress post-traumatique complexe",
+          "Deuil de la grand-mère"
+        ],
+        "evenements_passes": [
+          "Fuite de l'emprise de Samir",
+          "Reconstruction solitaire de son appartement"
+        ]
+      },
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "On comprend que la combativité de Djamila est une stratégie de survie. Son incapacité à faire confiance à sa collègue Amina n'est pas de l'impolitesse, mais une conséquence directe d'un schéma où 'proximité' a longtemps rimé avec 'danger'."
     }
   ]
 }

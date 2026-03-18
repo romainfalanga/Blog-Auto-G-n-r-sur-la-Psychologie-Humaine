@@ -1,13 +1,13 @@
 ---
 title: "Patrick, 56 ans"
-date: 2026-03-18T07:36:50+00:00
+date: 2026-03-18T07:59:12+00:00
 description: "Patrick est ancien ouvrier, maintenant chef d'équipe dans le BTP. Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils."
 slug: "patrick"
 prenom: "Patrick"
 profession: "Ancien ouvrier, maintenant chef d'équipe dans le btp"
 situation: "Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils"
 nb_articles: 1
-weight: 15
+weight: 17
 draft: false
 ---
 

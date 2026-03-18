@@ -486,6 +486,37 @@
           "category": "cat3_schemas",
           "titre": "Contrôle de soi insuffisant au travail : les signes à reconnaître",
           "slug": "controle-de-soi-insuffisant-travail"
+        },
+        {
+          "date": "2026-03-18",
+          "sujet": "frustration",
+          "contexte": "avec ses enfants",
+          "category": "cat2_emotions",
+          "titre": "Frustration avec ses enfants : comment mieux la gérer ?",
+          "slug": "frustration-avec-ses-enfants-comprendre-emotions",
+          "resume_narratif": "En pleine préparation d'un gâteau avec sa fille Yasmine, Nadia perd son sang-froid lorsqu'un sachet de farine explose au sol. Épuisée par sa journée de travail et son divorce avec Karim, elle réagit avec une sévérité disproportionnée en renvoyant sa fille dans sa chambre.",
+          "evolution": "Nadia prend conscience que sa colère n'est pas liée à la maladresse de Yasmine, mais à son incapacité à désactiver son mode 'gestion de crise' professionnel et à son besoin excessif de contrôle depuis son divorce.",
+          "elements_cles": {
+            "personnages": [
+              "Nadia",
+              "Yasmine (fille, 8 ans)",
+              "Karim (ex-mari)",
+              "Julie (assistante)"
+            ],
+            "contexte": [
+              "Garde alternée",
+              "Divorce",
+              "Cadre marketing sous pression"
+            ],
+            "concepts_psychologiques": [
+              "Effet Zeigarnik",
+              "Théorie de la frustration-agression",
+              "Saturation mentale"
+            ],
+            "lieu": [
+              "Cuisine avec plan de travail en quartz"
+            ]
+          }
         }
       ],
       "genre": "F",
@@ -1552,6 +1583,30 @@
           "category": "cat3_schemas",
           "titre": "Comment la recherche d'approbation au travail sabote Aïssatou",
           "slug": "recherche-approbation-reconnaissance-travail"
+        },
+        {
+          "date": "2026-03-18",
+          "sujet": "effet spotlight",
+          "contexte": "en société et dans les interactions sociales",
+          "category": "cat1_pensees",
+          "titre": "Effet spotlight en société : pourquoi vous pensez que tout le monde vous regarde",
+          "slug": "effet-spotlight-en-societe",
+          "resume_narratif": "Lors d'un cocktail de networking le 18 mars 2026, Stéphane bégaye légèrement sur ses tarifs et s'imagine que toute l'assemblée a remarqué sa faille. Malgré les signes rassurants de ses collègues Marc et Sandrine, il s'enferme dans un surcontrôle social pour masquer ce qu'il perçoit comme une humiliation publique.",
+          "evolution": "Stéphane prend conscience de son 'effet spotlight', réalisant que son anxiété sociale et son besoin de perfection sont profondément ancrés dans une rivalité fraternelle ancienne. Il comprend que sa tendance à surjouer son assurance est une réponse directe à sa peur d'être jugé.",
+          "elements_cles": {
+            "contexte_temporel": "18 mars 2026",
+            "entourage_professionnel": [
+              "Marc",
+              "Sandrine",
+              "Directeur commercial"
+            ],
+            "entourage_personnel": [
+              "Philippe (frère, rival d'enfance)",
+              "Maxime (fils, passionné de skate)"
+            ],
+            "traumatismes_recents": "Réunion d'équipe précédente où un collègue a été félicité à sa place",
+            "comportements_reflexes": "Préparation excessive des slides, sourire calibré, poignée de main ferme"
+          }
         }
       ],
       "genre": "M",
@@ -1634,6 +1689,38 @@
           "category": "cat1_pensees",
           "titre": "Biais de négativité en situation de conflit : comment il nous piège",
           "slug": "biais-negativite-conflit"
+        },
+        {
+          "date": "2026-03-18",
+          "sujet": "méfiance/abus",
+          "contexte": "en amitié",
+          "category": "cat3_schemas",
+          "titre": "Méfiance et abus en amitié : comprendre ses schémas profonds",
+          "slug": "mefiance-abus-en-amitie-causes-profondes",
+          "resume_narratif": "Lors d'un déjeuner dans une brasserie, Djamila réagit avec froideur et suspicion lorsqu'Amina, sa collègue et amie, lui propose de l'aider avec un dossier professionnel. Ce geste déclenche chez elle un réflexe de survie lié à son passé de femme victime de manipulations sous l'emprise de son ex-conjoint, Samir.",
+          "evolution": "Djamila identifie ses pensées comme des réflexes de survie issus d'un stress post-traumatique complexe, prenant conscience que son 'armure de glace' l'isole et l'empêche d'accepter le soutien dont elle a besoin.",
+          "elements_cles": {
+            "personnages": [
+              "Djamila",
+              "Amina (collègue/amie)",
+              "Adam (fils de 6 ans)",
+              "Samir (ex-conjoint manipulateur)",
+              "Grand-mère (décédée)"
+            ],
+            "lieux": [
+              "Brasserie près de l'association",
+              "Cours de dessin d'Adam"
+            ],
+            "contexte_psychologique": [
+              "Schéma de méfiance et d'abus",
+              "Stress post-traumatique complexe",
+              "Deuil de la grand-mère"
+            ],
+            "evenements_passes": [
+              "Fuite de l'emprise de Samir",
+              "Reconstruction solitaire de son appartement"
+            ]
+          }
         }
       ],
       "genre": "F",

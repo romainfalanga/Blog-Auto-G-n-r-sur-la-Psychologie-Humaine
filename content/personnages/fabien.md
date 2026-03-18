@@ -1,6 +1,6 @@
 ---
 title: "Fabien, 50 ans"
-date: 2026-03-18T07:36:50+00:00
+date: 2026-03-18T07:59:12+00:00
 description: "Fabien est cadre RH dans une entreprise industrielle. Divorcé depuis 2 ans, deux enfants (marine, 20 ans et lucas, 17 ans) chez leur mère."
 slug: "fabien"
 prenom: "Fabien"
