@@ -1,9 +1,10 @@
 ---
-title: "Bernard, 58 ans"
+title: "Bernard"
 date: 2026-03-18T10:38:34+00:00
 description: "Bernard est artisan ébéniste, atelier en campagne. Veuf depuis 5 ans, un fils avec qui les relations sont tendues."
 slug: "bernard"
 prenom: "Bernard"
+date_naissance: "1967-08-21"
 profession: "Artisan ébéniste, atelier en campagne"
 situation: "Veuf depuis 5 ans, un fils avec qui les relations sont tendues"
 nb_articles: 1

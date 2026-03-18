@@ -1,9 +1,10 @@
 ---
-title: "Mei, 22 ans"
+title: "Mei"
 date: 2026-03-18T10:38:34+00:00
 description: "Mei est étudiante en école d'art, spécialité illustration. Célibataire, vit en résidence étudiante."
 slug: "mei"
 prenom: "Mei"
+date_naissance: "2003-07-02"
 profession: "Étudiante en école d'art, spécialité illustration"
 situation: "Célibataire, vit en résidence étudiante"
 nb_articles: 2

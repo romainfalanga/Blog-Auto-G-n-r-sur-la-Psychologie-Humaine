@@ -2395,14 +2395,19 @@ def generate_character_tracking_page(personnages, matrix):
         # Échapper les guillemets pour le YAML
         safe_bio = bio.replace('"', '\\"')
 
+        # Date de naissance pour calcul dynamique de l'âge par Hugo
+        date_naissance = perso.get("date_naissance", "")
+
         # Frontmatter
         lines = []
         lines.append("---")
-        lines.append(f'title: "{prenom}, {age_dynamique} ans"')
+        lines.append(f'title: "{prenom}"')
         lines.append(f"date: {date_str}")
         lines.append(f'description: "{safe_bio}"')
         lines.append(f'slug: "{slug}"')
         lines.append(f'prenom: "{prenom}"')
+        if date_naissance:
+            lines.append(f'date_naissance: "{date_naissance}"')
         lines.append(f'profession: "{profession.capitalize()}"')
         lines.append(f'situation: "{situation.capitalize()}"')
         lines.append(f"nb_articles: {nb}")

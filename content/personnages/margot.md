@@ -1,9 +1,10 @@
 ---
-title: "Margot, 52 ans"
+title: "Margot"
 date: 2026-03-18T10:38:34+00:00
 description: "Margot est en reconversion professionnelle, ancienne directrice commerciale, se forme au coaching. Mariée à philippe, deux enfants adultes partis de la maison (martin, 26 ans et chloé, 23 ans)."
 slug: "margot"
 prenom: "Margot"
+date_naissance: "1973-07-23"
 profession: "En reconversion professionnelle, ancienne directrice commerciale, se forme au coaching"
 situation: "Mariée à philippe, deux enfants adultes partis de la maison (martin, 26 ans et chloé, 23 ans)"
 nb_articles: 2

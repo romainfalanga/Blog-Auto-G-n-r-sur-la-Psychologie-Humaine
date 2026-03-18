@@ -9,7 +9,19 @@
   </nav>
 
   <div class="perso-profile reveal">
-    <h1 class="perso-profile-name">{{ .Title }}</h1>
+    {{- $prenom := .Params.prenom | default .Title }}
+    {{- if .Params.date_naissance }}
+      {{- $birth := time .Params.date_naissance }}
+      {{- $age := sub now.Year $birth.Year }}
+      {{- $nowMD := now.Format "0102" }}
+      {{- $birthMD := $birth.Format "0102" }}
+      {{- if lt $nowMD $birthMD }}
+        {{- $age = sub $age 1 }}
+      {{- end }}
+      <h1 class="perso-profile-name">{{ $prenom }}, {{ $age }} ans</h1>
+    {{- else }}
+      <h1 class="perso-profile-name">{{ .Title }}</h1>
+    {{- end }}
     <p class="perso-profile-bio">{{ .Description }}</p>
   </div>
 
