@@ -27,7 +27,7 @@ draft: false
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solitude-face-a-la-solitude-comprendre-difference/">Solitude face à la solitude : comprendre et mieux la vivre</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solitude-face-a-la-solitude-comprendre-difference/">Face à la solitude : comprendre et mieux la vivre</a></h3>
     <div class="parcours-date">2026-03-18</div>
     <p class="parcours-resume">Bernard travaille seul dans son atelier de menuiserie sur une commode destinée à son fils Éric, accompagné de son chien Sultan. Alors qu'il ressent le vide laissé par le départ d'Hélène, il prend conscience que son silence et son retrait du monde, autrefois protecteurs, sont devenus une source de souffrance physique et émotionnelle.</p>
     <div class="parcours-evolution">

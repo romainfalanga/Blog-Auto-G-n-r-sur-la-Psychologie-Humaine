@@ -1,5 +1,5 @@
 ---
-title: "Solitude face à la solitude : comprendre et mieux la vivre"
+title: "Face à la solitude : comprendre et mieux la vivre"
 date: 2026-03-18T17:30:06+00:00
 description: "Bernard, 58 ans, affronte sa solitude dans son atelier. Découvrez la différence entre isolement subi et solitude choisie pour retrouver le lien aux autres."
 categories: ["Comprendre et maîtriser ses émotions"]
@@ -21,7 +21,7 @@ Bernard éteint la radio qui diffusait un jazz lointain. Le vide l'envahit d'un 
 
 ## Définition de la solitude et du sentiment d'isolement
 
-La solitude est un état subjectif de détresse émotionnelle qui survient lorsqu'une personne perçoit un écart entre les relations sociales qu'elle désire et celles qu'elle possède réellement. Contrairement à l'isolement social qui est une mesure objective du nombre de contacts, la solitude face à la solitude est une expérience interne douloureuse. Le psychologue John Cacioppo définit cet état comme une alarme biologique signalant que notre besoin fondamental de connexion n'est pas rempli, de la même manière que la faim signale un besoin de nourriture.
+La solitude est un état subjectif de détresse émotionnelle qui survient lorsqu'une personne perçoit un écart entre les relations sociales qu'elle désire et celles qu'elle possède réellement. Contrairement à l'isolement social qui est une mesure objective du nombre de contacts, la solitude est une expérience interne douloureuse. Le psychologue John Cacioppo définit cet état comme une alarme biologique signalant que notre besoin fondamental de connexion n'est pas rempli, de la même manière que la faim signale un besoin de nourriture.
 
 Scientifiquement, cet état active les mêmes zones cérébrales que la douleur physique. Pour un homme comme Bernard, cette situation se complique d'une distinction cruciale entre la solitude positive, appelée solitude choisie, et la solitude subie. La première permet la réflexion et la créativité, tandis que la seconde érode la santé mentale et physique sur le long terme.
 
