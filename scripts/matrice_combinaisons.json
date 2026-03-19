@@ -1180,6 +1180,115 @@
       },
       "strategie_coherence": "connecter",
       "apport_psychologique": "On révèle que le succès de Karim est aussi sa pathologie : son incapacité à différer une gratification professionnelle (un nouveau succès, un nouveau client) est une forme d'addiction au travail qui prend racine dans son besoin de prouver sa valeur sociale."
+    },
+    {
+      "date": "2026-03-19",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais du coût irrécupérable",
+      "contexte": "face à une décision importante",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Margot",
+      "age": "52 ans",
+      "title": "Biais du coût irrécupérable face à une décision importante",
+      "slug": "biais-cout-irrecuperable-decision-importante",
+      "tags": [
+        "psychologie",
+        "reconversion",
+        "biais cognitif",
+        "prise de décision",
+        "changement"
+      ],
+      "resume_narratif": "Margot se retrouve paralysée devant de vieilles archives de sa carrière de directrice commerciale, incapable de s'en débarrasser malgré les conseils de sa mentor Sylvie. Alors que son compagnon Philippe lui propose une promenade, elle reste hantée par ses investissements passés à la veille de recevoir son premier client de coaching.",
+      "evolution": "Margot prend conscience que son attachement matériel est une manifestation du biais du coût irrécupérable, où elle confond la conservation de dossiers inutiles avec la validation de sa valeur passée. Elle réalise qu'elle doit cesser de chercher un remboursement imaginaire de ses années de labeur pour embrasser sa nouvelle légitimité.",
+      "elements_cles": "Anciens trophées et dossiers commerciaux (25 ans de carrière), Sylvie (mentor), Philippe (compagnon), premier client de coaching (prévu pour demain), driver 'Sois forte', bureau personnel.",
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "On comprend que ses doutes de légitimité ne sont pas dus à un manque de compétences, mais à une distorsion cognitive qui lui fait percevoir le changement comme une perte sèche de son passé plutôt que comme une évolution."
+    },
+    {
+      "date": "2026-03-19",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "déception",
+      "contexte": "en amitié",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": null,
+      "prenom": "Léa",
+      "age": "23 ans",
+      "title": "Déception en amitié : comprendre ses attentes pour moins souffrir",
+      "slug": "deception-en-amitie-comprendre-attentes-relations",
+      "tags": [
+        "déception",
+        "amitié",
+        "psychologie",
+        "attentes",
+        "codépendance"
+      ],
+      "resume_narratif": "Alors qu'elle révise à la bibliothèque universitaire, Léa surprend sa meilleure amie Zoé en train de s'amuser avec d'autres étudiants, alors que celle-ci avait prétendu avoir besoin de calme pour travailler. Cette découverte provoque chez Léa un sentiment d'amertume et de trahison, la confrontant brutalement au décalage entre son investissement amical et la réalité.",
+      "evolution": "Léa réalise que son dévouement excessif envers Zoé était une stratégie inconsciente pour garantir sa propre sécurité affective et éviter l'abandon. Elle commence à désidéaliser sa relation et à comprendre que sa déception naît de l'effondrement d'une illusion qu'elle a elle-même entretenue.",
+      "elements_cles": {
+        "personnages": [
+          "Léa",
+          "Zoé (meilleure amie)",
+          "Anne (mère)",
+          "Michel (père)",
+          "Dr Moreau"
+        ],
+        "lieux": [
+          "Deuxième étage de la bibliothèque universitaire",
+          "Baie vitrée"
+        ],
+        "contexte_passe": [
+          "Dessin d'enfance trouvé dans le garage",
+          "Divorce des parents",
+          "Rejet sur une terrasse la semaine précédente"
+        ],
+        "concepts_psychologiques": [
+          "Dissonance cognitive",
+          "Théorie de l'équité de Hatfield",
+          "Désidéalisation",
+          "Schémas relationnels"
+        ]
+      },
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "L'article fait le pont entre ses études théoriques et sa réalité émotionnelle, montrant comment elle projette ses besoins de réparation sur ses amis, transformant une simple amitié en un terrain de sauvetage épuisant."
+    },
+    {
+      "date": "2026-03-19",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "le gaslighting et la manipulation psychologique",
+      "contexte": "au travail",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Djamila",
+      "age": "36 ans",
+      "title": "Gaslighting et manipulation au travail : comment les repérer ?",
+      "slug": "gaslighting-manipulation-psychologique-au-travail",
+      "tags": [
+        "gaslighting",
+        "manipulation",
+        "travail",
+        "santé mentale",
+        "psychologie"
+      ],
+      "resume_narratif": "Alors qu'elle reçoit une bénéficiaire victime de violences, Djamila est brusquement interrompue par son coordinateur Antoine. Ce dernier tente de la déstabiliser en affirmant faussement l'avoir prévenue de son passage, provoquant chez elle un malaise et un doute profond sur sa propre perception.",
+      "evolution": "Djamila prend conscience que sa vulnérabilité actuelle est un mélange entre son hypervigilance héritée de son ex-conjoint Samir et une possible manipulation réelle de la part d'Antoine. Elle commence à appliquer les outils d'analyse du Dr Martin pour distinguer les traumatismes passés des agressions présentes.",
+      "elements_cles": {
+        "personnages": [
+          "Antoine (coordinateur)",
+          "Samir (ex-conjoint abusif)",
+          "Dr Martin (thérapeute)",
+          "Amina (collègue)",
+          "Grand-mère (décédée)"
+        ],
+        "lieux": "Bureau au sein d'une association",
+        "traumatismes": "Sept ans sous l'emprise de Samir, deuil de sa grand-mère",
+        "techniques_de_defense": "Différenciation des traumatismes, vérification des outils de travail, observation de l'hypervigilance"
+      },
+      "strategie_coherence": "enrichir",
+      "apport_psychologique": "Cela révèle la force de Djamila : sa capacité à transformer son trauma en outil de diagnostic, tout en montrant la fragilité que cela réveille en elle (hypervigilance) lorsqu'elle doit confronter la réalité de la manipulation."
     }
   ]
 }

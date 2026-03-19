@@ -1,14 +1,14 @@
 ---
 title: "Djamila"
-date: 2026-03-18T17:31:27+00:00
+date: 2026-03-19T04:41:54+00:00
 description: "Djamila est travailleuse sociale dans une association d'aide aux femmes. Séparée, en reconstruction, un fils (adam, 6 ans)."
 slug: "djamila"
 prenom: "Djamila"
 date_naissance: "1989-05-06"
 profession: "Travailleuse sociale dans une association d'aide aux femmes"
 situation: "Séparée, en reconstruction, un fils (adam, 6 ans)"
-nb_articles: 2
-weight: 17
+nb_articles: 3
+weight: 3
 draft: false
 ---
 
@@ -35,5 +35,16 @@ draft: false
       <p>Djamila identifie ses pensées comme des réflexes de survie issus d'un stress post-traumatique complexe, prenant conscience que son 'armure de glace' l'isole et l'empêche d'accepter le soutien dont elle a besoin.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-en-amitie-causes-profondes/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-psychologique-au-travail/">Gaslighting et manipulation au travail : comment les repérer ?</a></h3>
+    <div class="parcours-date">2026-03-19</div>
+    <p class="parcours-resume">Alors qu'elle reçoit une bénéficiaire victime de violences, Djamila est brusquement interrompue par son coordinateur Antoine. Ce dernier tente de la déstabiliser en affirmant faussement l'avoir prévenue de son passage, provoquant chez elle un malaise et un doute profond sur sa propre perception.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Djamila prend conscience que sa vulnérabilité actuelle est un mélange entre son hypervigilance héritée de son ex-conjoint Samir et une possible manipulation réelle de la part d'Antoine. Elle commence à appliquer les outils d'analyse du Dr Martin pour distinguer les traumatismes passés des agressions présentes.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-psychologique-au-travail/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

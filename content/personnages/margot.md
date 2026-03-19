@@ -1,14 +1,14 @@
 ---
 title: "Margot"
-date: 2026-03-18T17:31:27+00:00
+date: 2026-03-19T04:41:54+00:00
 description: "Margot est en reconversion professionnelle, ancienne directrice commerciale, se forme au coaching. Mariée à philippe, deux enfants adultes partis de la maison (martin, 26 ans et chloé, 23 ans)."
 slug: "margot"
 prenom: "Margot"
 date_naissance: "1973-07-23"
 profession: "En reconversion professionnelle, ancienne directrice commerciale, se forme au coaching"
 situation: "Mariée à philippe, deux enfants adultes partis de la maison (martin, 26 ans et chloé, 23 ans)"
-nb_articles: 2
-weight: 7
+nb_articles: 3
+weight: 1
 draft: false
 ---
 
@@ -35,5 +35,16 @@ draft: false
       <p>Margot identifie que son pessimisme est un mécanisme de défense lié à son exigence de perfection et à ses anciens drivers ('sois forte', 'fais des efforts'). Elle prend conscience de sa tendance à dévaloriser ses vingt-cinq ans de carrière et ressent le besoin inédit de partager ses doutes plutôt que de tout porter seule.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/negativite-pessimisme-reconversion/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-cout-irrecuperable-decision-importante/">Biais du coût irrécupérable face à une décision importante</a></h3>
+    <div class="parcours-date">2026-03-19</div>
+    <p class="parcours-resume">Margot se retrouve paralysée devant de vieilles archives de sa carrière de directrice commerciale, incapable de s'en débarrasser malgré les conseils de sa mentor Sylvie. Alors que son compagnon Philippe lui propose une promenade, elle reste hantée par ses investissements passés à la veille de recevoir son premier client de coaching.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Margot prend conscience que son attachement matériel est une manifestation du biais du coût irrécupérable, où elle confond la conservation de dossiers inutiles avec la validation de sa valeur passée. Elle réalise qu'elle doit cesser de chercher un remboursement imaginaire de ses années de labeur pour embrasser sa nouvelle légitimité.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-cout-irrecuperable-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
