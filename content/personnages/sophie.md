@@ -1,14 +1,14 @@
 ---
 title: "Sophie"
-date: 2026-03-19T04:41:54+00:00
+date: 2026-03-20T04:29:14+00:00
 description: "Sophie est développeuse web dans une startup. Célibataire, vit seule en appartement en ville."
 slug: "sophie"
 prenom: "Sophie"
 date_naissance: "1998-01-15"
 profession: "Développeuse web dans une startup"
 situation: "Célibataire, vit seule en appartement en ville"
-nb_articles: 2
-weight: 4
+nb_articles: 3
+weight: 1
 draft: false
 ---
 
@@ -35,5 +35,16 @@ draft: false
       <p>Sophie prend conscience que sa perception de ses propres compétences est déformée par l'effet Dunning-Kruger, réalisant qu'elle sous-estime ses acquis techniques tout en simplifiant peut-être trop les défis du management.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-dunning-kruger-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets/">Anxiété au travail : signes discrets qui passent inaperçus</a></h3>
+    <div class="parcours-date">2026-03-20</div>
+    <p class="parcours-resume">Sophie, installée dans son open-space parisien, lutte contre son anxiété face à un message de son collègue Marc et à une réunion imminente. Elle tente de gérer ses ruminations en utilisant son carnet de notes tout en analysant ses comportements de sur-analyse et de vérification excessive de son code.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Sophie réalise que sa rigueur technique extrême est en réalité une stratégie de défense contre la peur de perdre sa crédibilité. Elle commence à percevoir l'anxiété comme la racine de ses distorsions cognitives et de son sentiment d'imposture.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

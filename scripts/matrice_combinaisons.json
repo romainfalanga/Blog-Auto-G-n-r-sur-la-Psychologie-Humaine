@@ -1289,6 +1289,104 @@
       },
       "strategie_coherence": "enrichir",
       "apport_psychologique": "Cela révèle la force de Djamila : sa capacité à transformer son trauma en outil de diagnostic, tout en montrant la fragilité que cela réveille en elle (hypervigilance) lorsqu'elle doit confronter la réalité de la manipulation."
+    },
+    {
+      "date": "2026-03-20",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "catastrophisation (dramatisation)",
+      "contexte": "avec ses enfants",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Camille",
+      "age": "42 ans",
+      "title": "Catastrophisation avec ses enfants : comprendre et agir",
+      "slug": "catastrophisation-avec-enfants",
+      "tags": [
+        "catastrophisation",
+        "parentalité",
+        "anxiété",
+        "psychologie",
+        "bien-être"
+      ],
+      "resume_narratif": "Alors qu'elle prépare les lunchboxes, Camille panique face à une simple toux de son fils Léo, imaginant immédiatement une hospitalisation et le jugement sévère de sa mère Françoise. Son mari David propose son aide pour gérer le rendez-vous médical, provoquant chez elle un conflit entre son instinct d'infirmière hypervigilante et sa volonté de ne plus subir ses scénarios catastrophes.",
+      "evolution": "Camille parvient désormais à nommer son mécanisme de catastrophisation et prend conscience que son passé familial et son métier d'infirmière alimentent ses distorsions cognitives. Elle tente, pour la première fois, de respirer et d'accepter l'aide de David plutôt que de s'enfermer dans la culpabilité.",
+      "elements_cles": "Léo et Emma (enfants), David (conjoint), Françoise (mère jugeante), Nathalie (collègue de cardiologie), date du 15 mars (post-it 'vide'), technique de nommer les mécanismes, lutte contre le perfectionnisme et l'hypervigilance médicale.",
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "On relie sa vigilance d'infirmière à sa vie de mère. La catastrophisation explique pourquoi elle ne peut jamais 'débrancher' : son cerveau traite chaque imprévu domestique avec la même gravité qu'une alerte cardiaque, héritage d'une éducation où l'erreur était proscrite."
+    },
+    {
+      "date": "2026-03-20",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "anxiété",
+      "contexte": "au travail",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Sophie",
+      "age": "28 ans",
+      "title": "Anxiété au travail : signes discrets qui passent inaperçus",
+      "slug": "anxiete-au-travail-signes-discrets",
+      "tags": [
+        "anxiété au travail",
+        "surpensee",
+        "gestion du stress",
+        "psychologie",
+        "bien-être au travail"
+      ],
+      "resume_narratif": "Sophie, installée dans son open-space parisien, lutte contre son anxiété face à un message de son collègue Marc et à une réunion imminente. Elle tente de gérer ses ruminations en utilisant son carnet de notes tout en analysant ses comportements de sur-analyse et de vérification excessive de son code.",
+      "evolution": "Sophie réalise que sa rigueur technique extrême est en réalité une stratégie de défense contre la peur de perdre sa crédibilité. Elle commence à percevoir l'anxiété comme la racine de ses distorsions cognitives et de son sentiment d'imposture.",
+      "elements_cles": {
+        "lieux": "Open-space, appartement parisien",
+        "personnages": "Marc (collègue)",
+        "outils_techniques": "Carnet de notes (habitude prise le 15 mars), documentation des sentiments, identification de l'hypervigilance sociale",
+        "evenements_futurs": "Réunion technique le lendemain, finalisation d'une proposition de candidature",
+        "references_passees": "Article du 15 mars, épisode sur l'effet Dunning-Kruger"
+      },
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "L'article démontre que la sur-analyse de Sophie est une stratégie d'adaptation face à une anxiété de performance. En identifiant comment cette émotion se manifeste physiquement et mentalement sans qu'elle s'en rende compte, on donne une racine émotionnelle à ses comportements analytiques."
+    },
+    {
+      "date": "2026-03-20",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "la parentification",
+      "contexte": "avec ses parents",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Isabelle",
+      "age": "47 ans",
+      "title": "La parentification avec ses parents : comprendre ce poids invisible",
+      "slug": "parentification-avec-ses-parents-causes-solutions",
+      "tags": [
+        "parentification",
+        "schémas familiaux",
+        "psychologie",
+        "épuisement émotionnel",
+        "relations parents-enfants"
+      ],
+      "resume_narratif": "Isabelle se rend chez sa mère, Geneviève, pour l'aider à gérer ses factures et ses plaintes quotidiennes. Dans ce salon chargé de souvenirs, elle réalise qu'elle reproduit depuis l'enfance un schéma de pilier émotionnel pour ses parents, au détriment de son propre équilibre.",
+      "evolution": "Isabelle prend conscience que son besoin d'être indispensable et son anxiété relationnelle découlent de sa parentification. Elle décide que ce cycle de sacrifice de soi doit s'arrêter pour ne pas impacter sa propre vie et ses relations.",
+      "elements_cles": {
+        "personnages": [
+          "Geneviève (mère)",
+          "Théo (fils)",
+          "Aurélie (relation mentionnée)",
+          "Mathieu (élève)"
+        ],
+        "lieux": [
+          "Salon de Geneviève",
+          "Collège (lieu de travail)"
+        ],
+        "contexte_pro": "Psychologue scolaire",
+        "concepts_identifies": [
+          "Parentification émotionnelle et instrumentale",
+          "Hyper-responsabilité",
+          "Fatigue de compassion"
+        ]
+      },
+      "strategie_coherence": "connecter",
+      "apport_psychologique": "Le concept de parentification sert de clef de voûte : il explique pourquoi elle est devenue psy (réparer les autres), pourquoi elle s'épuise (ne sait pas recevoir) et pourquoi elle craint l'abandon (besoin d'être indispensable pour être aimée)."
     }
   ]
 }

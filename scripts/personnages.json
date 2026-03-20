@@ -112,6 +112,23 @@
           "resume_narratif": "Sophie hésite à envoyer sa candidature pour un poste de directrice technique dans une association tout en préparant du thé dans son salon. Elle se remémore une discussion avec son amie Claire au parc, qui soulignait ses contradictions entre sa confiance excessive sur des sujets nouveaux et ses doutes sur ses expertises réelles.",
           "evolution": "Sophie prend conscience que sa perception de ses propres compétences est déformée par l'effet Dunning-Kruger, réalisant qu'elle sous-estime ses acquis techniques tout en simplifiant peut-être trop les défis du management.",
           "elements_cles": "Candidature pour un poste de directrice technique ; Claire (amie) ; Marc (collègue/client actuel) ; carnet de notes avec schémas ; lunettes rondes ; bureau dans le salon ; concept de la 'vallée de l'humilité'."
+        },
+        {
+          "date": "2026-03-20",
+          "sujet": "anxiété",
+          "contexte": "au travail",
+          "category": "cat2_emotions",
+          "titre": "Anxiété au travail : signes discrets qui passent inaperçus",
+          "slug": "anxiete-au-travail-signes-discrets",
+          "resume_narratif": "Sophie, installée dans son open-space parisien, lutte contre son anxiété face à un message de son collègue Marc et à une réunion imminente. Elle tente de gérer ses ruminations en utilisant son carnet de notes tout en analysant ses comportements de sur-analyse et de vérification excessive de son code.",
+          "evolution": "Sophie réalise que sa rigueur technique extrême est en réalité une stratégie de défense contre la peur de perdre sa crédibilité. Elle commence à percevoir l'anxiété comme la racine de ses distorsions cognitives et de son sentiment d'imposture.",
+          "elements_cles": {
+            "lieux": "Open-space, appartement parisien",
+            "personnages": "Marc (collègue)",
+            "outils_techniques": "Carnet de notes (habitude prise le 15 mars), documentation des sentiments, identification de l'hypervigilance sociale",
+            "evenements_futurs": "Réunion technique le lendemain, finalisation d'une proposition de candidature",
+            "references_passees": "Article du 15 mars, épisode sur l'effet Dunning-Kruger"
+          }
         }
       ],
       "genre": "F",
@@ -341,6 +358,17 @@
               "Surtravail compensatoire"
             ]
           }
+        },
+        {
+          "date": "2026-03-20",
+          "sujet": "catastrophisation (dramatisation)",
+          "contexte": "avec ses enfants",
+          "category": "cat1_pensees",
+          "titre": "Catastrophisation avec ses enfants : comprendre et agir",
+          "slug": "catastrophisation-avec-enfants",
+          "resume_narratif": "Alors qu'elle prépare les lunchboxes, Camille panique face à une simple toux de son fils Léo, imaginant immédiatement une hospitalisation et le jugement sévère de sa mère Françoise. Son mari David propose son aide pour gérer le rendez-vous médical, provoquant chez elle un conflit entre son instinct d'infirmière hypervigilante et sa volonté de ne plus subir ses scénarios catastrophes.",
+          "evolution": "Camille parvient désormais à nommer son mécanisme de catastrophisation et prend conscience que son passé familial et son métier d'infirmière alimentent ses distorsions cognitives. Elle tente, pour la première fois, de respirer et d'accepter l'aide de David plutôt que de s'enfermer dans la culpabilité.",
+          "elements_cles": "Léo et Emma (enfants), David (conjoint), Françoise (mère jugeante), Nathalie (collègue de cardiologie), date du 15 mars (post-it 'vide'), technique de nommer les mécanismes, lutte contre le perfectionnisme et l'hypervigilance médicale."
         }
       ],
       "genre": "F",
@@ -1048,6 +1076,34 @@
           "resume_narratif": "Le 18 mars 2026, au collège, Isabelle est confrontée au retard de Mathieu, un élève de seize ans qu'elle juge d'abord comme paresseux. Elle fait le lien entre ce réflexe de jugement immédiat et son passé familial où elle devait réguler les conflits parentaux dès l'âge de huit ans.",
           "evolution": "Isabelle prend conscience de son biais d'attribution fondamentale et décide de substituer la curiosité au jugement automatique pour réduire sa fatigue émotionnelle. Elle commence à questionner les causes situationnelles des comportements d'autrui plutôt que de coller des étiquettes de personnalité.",
           "elements_cles": "Collège (lieu de travail) ; Mathieu (élève de 16 ans) ; Aurélie (relation avec attachement anxieux-préoccupé) ; date du 18 mars 2026 ; traumatisme d'enfance (médiatrice parentale à 8 ans) ; décision d'enquêter sur les causes contextuelles avant de condamner."
+        },
+        {
+          "date": "2026-03-20",
+          "sujet": "la parentification",
+          "contexte": "avec ses parents",
+          "category": "cat3_schemas",
+          "titre": "La parentification avec ses parents : comprendre ce poids invisible",
+          "slug": "parentification-avec-ses-parents-causes-solutions",
+          "resume_narratif": "Isabelle se rend chez sa mère, Geneviève, pour l'aider à gérer ses factures et ses plaintes quotidiennes. Dans ce salon chargé de souvenirs, elle réalise qu'elle reproduit depuis l'enfance un schéma de pilier émotionnel pour ses parents, au détriment de son propre équilibre.",
+          "evolution": "Isabelle prend conscience que son besoin d'être indispensable et son anxiété relationnelle découlent de sa parentification. Elle décide que ce cycle de sacrifice de soi doit s'arrêter pour ne pas impacter sa propre vie et ses relations.",
+          "elements_cles": {
+            "personnages": [
+              "Geneviève (mère)",
+              "Théo (fils)",
+              "Aurélie (relation mentionnée)",
+              "Mathieu (élève)"
+            ],
+            "lieux": [
+              "Salon de Geneviève",
+              "Collège (lieu de travail)"
+            ],
+            "contexte_pro": "Psychologue scolaire",
+            "concepts_identifies": [
+              "Parentification émotionnelle et instrumentale",
+              "Hyper-responsabilité",
+              "Fatigue de compassion"
+            ]
+          }
         }
       ],
       "genre": "F",

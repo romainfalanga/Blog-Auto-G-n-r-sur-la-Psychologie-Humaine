@@ -1,14 +1,14 @@
 ---
 title: "Isabelle"
-date: 2026-03-19T04:41:54+00:00
+date: 2026-03-20T04:29:14+00:00
 description: "Isabelle est psychologue scolaire dans un collège. Divorcée, un fils adolescent (théo, 16 ans)."
 slug: "isabelle"
 prenom: "Isabelle"
 date_naissance: "1978-09-03"
 profession: "Psychologue scolaire dans un collège"
 situation: "Divorcée, un fils adolescent (théo, 16 ans)"
-nb_articles: 2
-weight: 11
+nb_articles: 3
+weight: 4
 draft: false
 ---
 
@@ -35,5 +35,16 @@ draft: false
       <p>Isabelle prend conscience de son biais d'attribution fondamentale et décide de substituer la curiosité au jugement automatique pour réduire sa fatigue émotionnelle. Elle commence à questionner les causes situationnelles des comportements d'autrui plutôt que de coller des étiquettes de personnalité.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-attribution-fondamentale-ecole/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions/">La parentification avec ses parents : comprendre ce poids invisible</a></h3>
+    <div class="parcours-date">2026-03-20</div>
+    <p class="parcours-resume">Isabelle se rend chez sa mère, Geneviève, pour l'aider à gérer ses factures et ses plaintes quotidiennes. Dans ce salon chargé de souvenirs, elle réalise qu'elle reproduit depuis l'enfance un schéma de pilier émotionnel pour ses parents, au détriment de son propre équilibre.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Isabelle prend conscience que son besoin d'être indispensable et son anxiété relationnelle découlent de sa parentification. Elle décide que ce cycle de sacrifice de soi doit s'arrêter pour ne pas impacter sa propre vie et ses relations.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
