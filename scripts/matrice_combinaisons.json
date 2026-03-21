@@ -1387,6 +1387,106 @@
       },
       "strategie_coherence": "connecter",
       "apport_psychologique": "Le concept de parentification sert de clef de voûte : il explique pourquoi elle est devenue psy (réparer les autres), pourquoi elle s'épuise (ne sait pas recevoir) et pourquoi elle craint l'abandon (besoin d'être indispensable pour être aimée)."
+    },
+    {
+      "date": "2026-03-21",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "lecture de pensée",
+      "contexte": "en couple",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Thomas",
+      "age": "34 ans",
+      "title": "Lecture de pensée en couple : quand on croit deviner l'autre",
+      "slug": "lecture-pensee-en-couple",
+      "tags": [
+        "lecture-de-pensee",
+        "couple",
+        "communication",
+        "psychologie",
+        "limites"
+      ],
+      "resume_narratif": "Lors d'un dîner tendu le 15 mars, Thomas interprète le silence d'Émilie comme un jugement sur leur discussion de la veille concernant la parentalité. Pour pallier son anxiété, il se lance dans un monologue justificatif et des aveux sur ses propres peurs avant même qu'elle n'exprime la moindre critique.",
+      "evolution": "Thomas identifie son réflexe de 'lecture de pensée' comme un prolongement de sa peur de décevoir et de son rôle de sauveur, réalisant que ses suppositions dictent ses réactions au détriment d'une communication authentique.",
+      "elements_cles": {
+        "personnages": [
+          "Thomas",
+          "Émilie",
+          "Valérie"
+        ],
+        "dates_cles": [
+          "15 mars (cuisine)",
+          "18 mars (réunion travail)"
+        ],
+        "contexte_psychologique": [
+          "Peur de décevoir",
+          "Rôle de sauveur",
+          "Besoin de plaire"
+        ],
+        "techniques_et_decisions": [
+          "Vérification factuelle",
+          "Poser des limites au travail",
+          "Éviter d'écrire le script dans sa tête"
+        ]
+      },
+      "strategie_coherence": "enrichir",
+      "apport_psychologique": "Cet article révèle la mécanique interne du 'people pleaser' : Thomas ne se contente pas de céder, il projette ses propres insécurités sur l'autre. La lecture de pensée est le moteur cognitif qui alimente son besoin de validation constante."
+    },
+    {
+      "date": "2026-03-21",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "mélancolie",
+      "contexte": "face à la solitude",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": null,
+      "prenom": "Adrien",
+      "age": "31 ans",
+      "title": "Mélancolie face à la solitude : comprendre et agir",
+      "slug": "melancolie-face-a-la-solitude",
+      "tags": [
+        "mélancolie",
+        "solitude",
+        "émotions",
+        "créativité",
+        "techniques-pratiques"
+      ],
+      "resume_narratif": "Le 21 mars 2026, Adrien se retrouve paralysé dans son atelier entre ses obligations de freelance et l'envie de dessiner Marina. Malgré sa solitude, il tente d'utiliser son carnet de notes pour ne pas laisser sa mélancolie et ses souvenirs transformer son travail en procrastination.",
+      "evolution": "Adrien commence à distinguer la mélancolie esthétique, qui nourrit son art, du piège de l'idéalisation nostalgique qui bloque son action et ses relations réelles. Il apprend à identifier ses schémas d'instabilité pour ne plus laisser son anxiété définir sa valeur professionnelle.",
+      "elements_cles": "Atelier d'Adrien ; Marina (ex-compagne idéalisée) ; Julien (contact actuel) ; Carnet de notes (ancrage émotionnel) ; Article du 17 mars ; Playlist lo-fi ; Distinction entre nostalgie et moteur créatif.",
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "Cet article permet de distinguer chez Adrien une tristesse passagère d'une mélancolie structurelle liée à son tempérament d'artiste. On comprend que son 'vide' n'est pas qu'une absence, mais une présence poétique qui alimente sa procrastination."
+    },
+    {
+      "date": "2026-03-21",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "négativité/pessimisme",
+      "contexte": "avec ses parents",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Monique",
+      "age": "62 ans",
+      "title": "Négativité et pessimisme avec ses parents : s'en libérer",
+      "slug": "negativite-pessimisme-parents-education-psychologie",
+      "tags": [
+        "pessimisme",
+        "éducation",
+        "schémas répétitifs",
+        "psychologie",
+        "deuil"
+      ],
+      "resume_narratif": "Le 21 mars 2026, Monique se rend au cimetière dans l'Oise pour fleurir la tombe de ses parents avant de rejoindre sa fille Isabelle pour déjeuner. Malgré ses efforts, elle est assaillie par des pensées négatives concernant la survie de ses fleurs et une potentielle panne de voiture.",
+      "evolution": "Monique identifie son pessimisme comme un héritage maternel et un mécanisme de défense visant à anticiper la déception. Elle réalise que cette vision du monde, bien qu'elle lui donne une illusion de contrôle, est une forme de paralysie qui la maintient dans la souffrance.",
+      "elements_cles": {
+        "date_et_lieu": "Vendredi 21 mars 2026, village de l'Oise (cimetière et voiture)",
+        "personnages": "Monique, Isabelle (sa fille), Jean-Claude (son défunt mari), sa mère (mentionnée)",
+        "concepts_identifies": "Pessimisme défensif, impuissance apprise, loyauté invisible envers la souffrance parentale",
+        "objets_symboliques": "Pot de primevères jaunes, cardigan en laine bouillie, batterie de voiture défaillante"
+      },
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "On découvre que le pessimisme de Monique est une stratégie de protection héritée : en s'attendant au pire, elle a l'impression de ne plus pouvoir être surprise par la douleur. Cela connecte son deuil actuel à une structure psychologique plus ancienne."
     }
   ]
 }

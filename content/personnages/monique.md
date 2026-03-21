@@ -1,14 +1,14 @@
 ---
 title: "Monique"
-date: 2026-03-20T04:29:14+00:00
+date: 2026-03-21T04:17:19+00:00
 description: "Monique est retraitée, ancienne professeure de français. Veuve depuis 3 ans, deux enfants adultes, trois petits-enfants."
 slug: "monique"
 prenom: "Monique"
 date_naissance: "1964-01-30"
 profession: "Retraitée, ancienne professeure de français"
 situation: "Veuve depuis 3 ans, deux enfants adultes, trois petits-enfants"
-nb_articles: 2
-weight: 14
+nb_articles: 3
+weight: 8
 draft: false
 ---
 
@@ -35,5 +35,16 @@ draft: false
       <p>Monique identifie son besoin de rationaliser le chaos comme étant le 'biais du monde juste', comprenant que sa recherche de culpabilité est un bouclier psychologique contre l'aléatoire de la mort. Elle passe d'une paralysie émotionnelle à une analyse intellectuelle de ses propres mécanismes de défense.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-monde-juste-deuil-causes/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/negativite-pessimisme-parents-education-psychologie/">Négativité et pessimisme avec ses parents : s'en libérer</a></h3>
+    <div class="parcours-date">2026-03-21</div>
+    <p class="parcours-resume">Le 21 mars 2026, Monique se rend au cimetière dans l'Oise pour fleurir la tombe de ses parents avant de rejoindre sa fille Isabelle pour déjeuner. Malgré ses efforts, elle est assaillie par des pensées négatives concernant la survie de ses fleurs et une potentielle panne de voiture.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Monique identifie son pessimisme comme un héritage maternel et un mécanisme de défense visant à anticiper la déception. Elle réalise que cette vision du monde, bien qu'elle lui donne une illusion de contrôle, est une forme de paralysie qui la maintient dans la souffrance.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/negativite-pessimisme-parents-education-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

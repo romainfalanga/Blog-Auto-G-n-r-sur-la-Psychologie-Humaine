@@ -1,14 +1,14 @@
 ---
 title: "Thomas"
-date: 2026-03-20T04:29:14+00:00
+date: 2026-03-21T04:17:19+00:00
 description: "Thomas est enseignant d'histoire-géographie au lycée. En couple avec émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité."
 slug: "thomas"
 prenom: "Thomas"
 date_naissance: "1992-02-22"
 profession: "Enseignant d'histoire-géographie au lycée"
 situation: "En couple avec émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité"
-nb_articles: 2
-weight: 7
+nb_articles: 3
+weight: 2
 draft: false
 ---
 
@@ -35,5 +35,16 @@ draft: false
       <p>Thomas réalise avec amertume que son besoin de conformité est une extension de son complexe du sauveur : il troque son rôle de protecteur contre celui d'exécutant docile pour masquer sa peur de décevoir et d'être exclu.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-conformite-travail/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/lecture-pensee-en-couple/">Lecture de pensée en couple : quand on croit deviner l'autre</a></h3>
+    <div class="parcours-date">2026-03-21</div>
+    <p class="parcours-resume">Lors d'un dîner tendu le 15 mars, Thomas interprète le silence d'Émilie comme un jugement sur leur discussion de la veille concernant la parentalité. Pour pallier son anxiété, il se lance dans un monologue justificatif et des aveux sur ses propres peurs avant même qu'elle n'exprime la moindre critique.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Thomas identifie son réflexe de 'lecture de pensée' comme un prolongement de sa peur de décevoir et de son rôle de sauveur, réalisant que ses suppositions dictent ses réactions au détriment d'une communication authentique.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/lecture-pensee-en-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

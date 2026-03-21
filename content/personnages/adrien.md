@@ -1,14 +1,14 @@
 ---
 title: "Adrien"
-date: 2026-03-20T04:29:14+00:00
+date: 2026-03-21T04:17:19+00:00
 description: "Adrien est graphiste freelance. Célibataire depuis une rupture difficile il y a un an."
 slug: "adrien"
 prenom: "Adrien"
 date_naissance: "1994-06-07"
 profession: "Graphiste freelance"
 situation: "Célibataire depuis une rupture difficile il y a un an"
-nb_articles: 2
-weight: 10
+nb_articles: 3
+weight: 4
 draft: false
 ---
 
@@ -35,5 +35,16 @@ draft: false
       <p>Il a pris conscience de la transversalité de ses schémas, réalisant que le raisonnement émotionnel qu'il appliquait à sa vie sentimentale affecte désormais sa sphère professionnelle. Il décide de ne plus subir ces pensées mais de les noter dans un carnet pour les interroger objectivement.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/raisonnement-emotionnel-seul-face-a-soi/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/melancolie-face-a-la-solitude/">Mélancolie face à la solitude : comprendre et agir</a></h3>
+    <div class="parcours-date">2026-03-21</div>
+    <p class="parcours-resume">Le 21 mars 2026, Adrien se retrouve paralysé dans son atelier entre ses obligations de freelance et l'envie de dessiner Marina. Malgré sa solitude, il tente d'utiliser son carnet de notes pour ne pas laisser sa mélancolie et ses souvenirs transformer son travail en procrastination.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Adrien commence à distinguer la mélancolie esthétique, qui nourrit son art, du piège de l'idéalisation nostalgique qui bloque son action et ses relations réelles. Il apprend à identifier ses schémas d'instabilité pour ne plus laisser son anxiété définir sa valeur professionnelle.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/melancolie-face-a-la-solitude/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
