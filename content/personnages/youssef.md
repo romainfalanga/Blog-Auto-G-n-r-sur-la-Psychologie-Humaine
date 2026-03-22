@@ -1,14 +1,14 @@
 ---
 title: "Youssef"
-date: 2026-03-21T04:17:19+00:00
+date: 2026-03-22T04:37:05+00:00
 description: "Youssef est ingénieur en informatique dans un grand groupe. En couple avec léa depuis 2 ans, vit en appartement."
 slug: "youssef"
 prenom: "Youssef"
 date_naissance: "1996-08-14"
 profession: "Ingénieur en informatique dans un grand groupe"
 situation: "En couple avec léa depuis 2 ans, vit en appartement"
-nb_articles: 2
-weight: 12
+nb_articles: 3
+weight: 7
 draft: false
 ---
 
@@ -35,5 +35,16 @@ draft: false
       <p>Il prend conscience que son exigence extrême est un héritage de son père, Hamid, et que cette rigidité, autrefois vue comme une force professionnelle, est devenue une prison émotionnelle menaçante pour son futur projet de famille.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-enfants/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-projection-en-couple-comprendre-autre/">Biais de projection en couple : mieux comprendre l'autre</a></h3>
+    <div class="parcours-date">2026-03-22</div>
+    <p class="parcours-resume">Alors que Léa cherche avec enthousiasme un nouvel appartement, Youssef interprète son excitation comme du stress et tente de la calmer de manière clinique. Face à l'incompréhension de sa compagne, il réalise qu'il a projeté sa propre insécurité face au changement sur elle.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Youssef prend conscience de son biais de projection, comprenant qu'il utilise son propre ressenti comme unique grille de lecture pour analyser les émotions de Léa afin de masquer son propre besoin de contrôle.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-projection-en-couple-comprendre-autre/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

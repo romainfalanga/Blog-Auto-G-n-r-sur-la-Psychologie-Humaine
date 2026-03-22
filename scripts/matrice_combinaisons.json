@@ -1487,6 +1487,115 @@
       },
       "strategie_coherence": "rationaliser",
       "apport_psychologique": "On découvre que le pessimisme de Monique est une stratégie de protection héritée : en s'attendant au pire, elle a l'impression de ne plus pouvoir être surprise par la douleur. Cela connecte son deuil actuel à une structure psychologique plus ancienne."
+    },
+    {
+      "date": "2026-03-22",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de projection",
+      "contexte": "en couple",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Youssef",
+      "age": "29 ans",
+      "title": "Biais de projection en couple : mieux comprendre l'autre",
+      "slug": "biais-de-projection-en-couple-comprendre-autre",
+      "tags": [
+        "biais de projection",
+        "psychologie de couple",
+        "communication",
+        "intelligence émotionnelle",
+        "relations amoureuses"
+      ],
+      "resume_narratif": "Alors que Léa cherche avec enthousiasme un nouvel appartement, Youssef interprète son excitation comme du stress et tente de la calmer de manière clinique. Face à l'incompréhension de sa compagne, il réalise qu'il a projeté sa propre insécurité face au changement sur elle.",
+      "evolution": "Youssef prend conscience de son biais de projection, comprenant qu'il utilise son propre ressenti comme unique grille de lecture pour analyser les émotions de Léa afin de masquer son propre besoin de contrôle.",
+      "elements_cles": {
+        "personnages_cites": [
+          "Léa (compagne)",
+          "Hamid (père)",
+          "Nicolas (collègue/proche)",
+          "le neveu"
+        ],
+        "contexte_spatial": "Leur salon, recherche d'un futur appartement",
+        "traits_psychologiques": [
+          "Alexithymie héritée",
+          "Profil analytique",
+          "Besoin de contrôle/ordre",
+          "Réflexes d'évitement (compter les motifs)"
+        ],
+        "concept_appris": "Le biais de projection (George Loewenstein)"
+      },
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "L'article démontre que l'intellectualisation de Youssef crée un écran de fumée : il croit que Léa analyse les situations aussi froidement que lui, ce qui cause des quiproquos majeurs dans leur communication de couple."
+    },
+    {
+      "date": "2026-03-22",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "vulnérabilité",
+      "contexte": "face au vieillissement",
+      "angle": "les signes que vous êtes concerné(e)",
+      "profil": null,
+      "prenom": "Patrick",
+      "age": "56 ans",
+      "title": "Vulnérabilité face au vieillissement : l'accepter pour revivre",
+      "slug": "vulnerabilite-face-au-vieillissement-accepter-limites",
+      "tags": [
+        "vulnérabilité",
+        "vieillissement",
+        "gestion émotions",
+        "psychologie masculine",
+        "milieu de vie"
+      ],
+      "resume_narratif": "Patrick, un ancien chef de chantier de 56 ans souffrant d'arthrose, se retrouve incapable d'ouvrir un bocal de haricots sous les yeux de sa femme Catherine. Malgré son éducation rigide prônant l'invulnérabilité, il choisit de ne pas exploser de colère et finit par avouer son impuissance physique.",
+      "evolution": "Patrick commence à briser l'armure de force héritée de son père en acceptant sa fragilité physique et émotionnelle. Il comprend que son silence passé a créé une distance avec ses proches et choisit l'authenticité plutôt que la performance.",
+      "elements_cles": {
+        "personnages_mentionnes": [
+          "Catherine (épouse)",
+          "Marcel (père, figure d'autorité)",
+          "Stéphanie (fille)",
+          "Julien (fils)"
+        ],
+        "contexte_physique": [
+          "Arthrose au pouce et au poignet",
+          "Cinquante-six ans",
+          "Ancien métier sur les chantiers"
+        ],
+        "evenements_passes": [
+          "Dimanche de mars où il est resté froid face à la détresse de Stéphanie"
+        ],
+        "decisions": [
+          "Abandon de la posture de 'roc'",
+          "Acceptation du soutien physique et émotionnel de Catherine"
+        ]
+      },
+      "strategie_coherence": "enrichir",
+      "apport_psychologique": "Cet article marque une étape clé : le passage du stoïcisme pur à l'acceptation de la fragilité. On montre que la vulnérabilité n'est pas une faiblesse (contrairement à ce que disait son père Marcel) mais un levier de connexion avec son épouse."
+    },
+    {
+      "date": "2026-03-22",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "exigences élevées/critique excessive",
+      "contexte": "au travail",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Nadia",
+      "age": "38 ans",
+      "title": "Exigences élevées et critique excessive au travail : s'en libérer",
+      "slug": "exigences-elevees-critique-excessive-au-travail",
+      "tags": [
+        "perfectionnisme",
+        "schémas précoces",
+        "management",
+        "bien-être au travail",
+        "psychologie cognitive"
+      ],
+      "resume_narratif": "Le lundi 22 mars 2026, Nadia, directrice marketing, s'apprête à réprimander sévèrement son assistante Julie pour des erreurs mineures dans un rapport. Un souvenir d'enfance lié à l'exigence de sa mère Fatima et une récente tension avec sa fille Yasmine la poussent à suspendre son geste et à laisser son mail en brouillon.",
+      "evolution": "Nadia prend conscience que son besoin de perfection est une armure héritée de son éducation et une stratégie de survie liée à ses origines, réalisant que cette pression nuit à ses relations et à sa propre santé.",
+      "elements_cles": "Date du 22 mars 2026 ; entreprise tech ; personnages : Julie (assistante), Fatima (mère), Yasmine (fille), Karim (ex-mari) ; contexte de divorce et de surmenage ; concept de la thérapie des schémas de Jeffrey Young et effet Zeigarnik.",
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "On comprend que sa dureté n'est pas un manque d'empathie, mais une stratégie de survie héritée de Fatima, sa mère, pour qui l'excellence était la seule protection contre le déclassement. Cela humanise sa rigidité managériale."
     }
   ]
 }

@@ -1,14 +1,14 @@
 ---
 title: "Nadia"
-date: 2026-03-21T04:17:19+00:00
+date: 2026-03-22T04:37:05+00:00
 description: "Nadia est directrice marketing dans une entreprise tech. Divorcée, mère d'une fille (yasmine, 8 ans), garde alternée."
 slug: "nadia"
 prenom: "Nadia"
 date_naissance: "1987-05-18"
 profession: "Directrice marketing dans une entreprise tech"
 situation: "Divorcée, mère d'une fille (yasmine, 8 ans), garde alternée"
-nb_articles: 2
-weight: 11
+nb_articles: 3
+weight: 4
 draft: false
 ---
 
@@ -35,5 +35,16 @@ draft: false
       <p>Nadia prend conscience que sa colère n'est pas liée à la maladresse de Yasmine, mais à son incapacité à désactiver son mode 'gestion de crise' professionnel et à son besoin excessif de contrôle depuis son divorce.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/frustration-avec-ses-enfants-comprendre-emotions/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-au-travail/">Exigences élevées et critique excessive au travail : s'en libérer</a></h3>
+    <div class="parcours-date">2026-03-22</div>
+    <p class="parcours-resume">Le lundi 22 mars 2026, Nadia, directrice marketing, s'apprête à réprimander sévèrement son assistante Julie pour des erreurs mineures dans un rapport. Un souvenir d'enfance lié à l'exigence de sa mère Fatima et une récente tension avec sa fille Yasmine la poussent à suspendre son geste et à laisser son mail en brouillon.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Nadia prend conscience que son besoin de perfection est une armure héritée de son éducation et une stratégie de survie liée à ses origines, réalisant que cette pression nuit à ses relations et à sa propre santé.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-au-travail/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

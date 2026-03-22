@@ -1,14 +1,14 @@
 ---
 title: "Patrick"
-date: 2026-03-21T04:17:19+00:00
+date: 2026-03-22T04:37:05+00:00
 description: "Patrick est ancien ouvrier, maintenant chef d'équipe dans le BTP. Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils."
 slug: "patrick"
 prenom: "Patrick"
 date_naissance: "1969-10-28"
 profession: "Ancien ouvrier, maintenant chef d'équipe dans le btp"
 situation: "Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils"
-nb_articles: 2
-weight: 13
+nb_articles: 3
+weight: 9
 draft: false
 ---
 
@@ -35,5 +35,16 @@ draft: false
       <p>Patrick prend conscience qu'il est prisonnier d'une rigidité mentale héritée de son éducation, le rendant aveugle à ses propres limites physiques alors qu'il est très lucide sur celles des autres.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-point-aveugle-face-vieillissement-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-face-au-vieillissement-accepter-limites/">Vulnérabilité face au vieillissement : l'accepter pour revivre</a></h3>
+    <div class="parcours-date">2026-03-22</div>
+    <p class="parcours-resume">Patrick, un ancien chef de chantier de 56 ans souffrant d'arthrose, se retrouve incapable d'ouvrir un bocal de haricots sous les yeux de sa femme Catherine. Malgré son éducation rigide prônant l'invulnérabilité, il choisit de ne pas exploser de colère et finit par avouer son impuissance physique.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Patrick commence à briser l'armure de force héritée de son père en acceptant sa fragilité physique et émotionnelle. Il comprend que son silence passé a créé une distance avec ses proches et choisit l'authenticité plutôt que la performance.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-face-au-vieillissement-accepter-limites/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
