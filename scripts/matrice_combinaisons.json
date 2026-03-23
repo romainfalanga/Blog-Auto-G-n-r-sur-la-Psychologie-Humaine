@@ -1596,6 +1596,118 @@
       "elements_cles": "Date du 22 mars 2026 ; entreprise tech ; personnages : Julie (assistante), Fatima (mère), Yasmine (fille), Karim (ex-mari) ; contexte de divorce et de surmenage ; concept de la thérapie des schémas de Jeffrey Young et effet Zeigarnik.",
       "strategie_coherence": "rationaliser",
       "apport_psychologique": "On comprend que sa dureté n'est pas un manque d'empathie, mais une stratégie de survie héritée de Fatima, sa mère, pour qui l'excellence était la seule protection contre le déclassement. Cela humanise sa rigidité managériale."
+    },
+    {
+      "date": "2026-03-23",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "raisonnement émotionnel",
+      "contexte": "en couple",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Hugo",
+      "age": "27 ans",
+      "title": "Raisonnement émotionnel en couple : comment il sabote l'amour",
+      "slug": "raisonnement-emotionnel-en-couple",
+      "tags": [
+        "raisonnement émotionnel",
+        "couple",
+        "TCC",
+        "émotions",
+        "communication"
+      ],
+      "resume_narratif": "Hugo reçoit un message inquiétant de Chloé demandant à parler, ce qui déclenche chez lui une certitude immédiate de rupture. Seul dans sa cuisine après son service au bar, il lutte contre ses vieux démons et la tentation de s'isoler ou de réagir de manière dramatique.",
+      "evolution": "Hugo identifie son mécanisme de raisonnement émotionnel, réalisant que ses certitudes de rejet sont des projections de ses peurs d'enfance liées à son père, Alain. Il tente d'appliquer ses nouvelles connaissances en TCC pour ne pas transformer son ressenti en vérité absolue.",
+      "elements_cles": "Chloé (sa compagne), Alain (son père, figure du rejet passé), Théo (ami qu'il évite d'appeler), le bar (lieu de travail), la guitare/partitions, technique du questionnement socratique (preuves pour/contre), distorsion du 'tout ou rien'.",
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "On démontre que l'instabilité d'Hugo n'est pas qu'une fatalité émotionnelle, mais une distorsion cognitive où il confond 'je me sens délaissé' avec 'elle ne m'aime plus'. Cela donne une clé de lecture sur sa difficulté à stabiliser son couple malgré sa passion."
+    },
+    {
+      "date": "2026-03-23",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "dégoût",
+      "contexte": "en société et dans les interactions sociales",
+      "angle": "les conséquences sur votre vie quotidienne",
+      "profil": null,
+      "prenom": "Stéphane",
+      "age": "45 ans",
+      "title": "Dégoût en société : comprendre cette émotion sociale complexe",
+      "slug": "degout-en-société-interactions-sociales",
+      "tags": [
+        "dégoût",
+        "intelligence émotionnelle",
+        "psychologie sociale",
+        "relations humaines",
+        "coaching"
+      ],
+      "resume_narratif": "Lors d'un cocktail de fin de séminaire, Stéphane ressent un dégoût viscéral face à son collègue Marc, qui se vante d'avoir remporté un contrat par des méthodes malhonnêtes. Ce rejet physique et moral le pousse à s'écarter de la conversation pour préserver son intégrité.",
+      "evolution": "Stéphane apprend à utiliser son dégoût comme une boussole interne pour protéger ses valeurs, cessant de masquer ses émotions sous un sourire de façade pour obtenir l'approbation des autres.",
+      "elements_cles": {
+        "personnages": [
+          "Stéphane",
+          "Marc (collègue)",
+          "Philippe (frère mentionné)"
+        ],
+        "lieux_et_dates": [
+          "Salon feutré (cocktail de séminaire)",
+          "Networking du 18 mars (référence passée)"
+        ],
+        "concepts_psychologiques": [
+          "Dégoût moral",
+          "Rejet de la contamination sociale",
+          "Effet spotlight"
+        ],
+        "decisions": [
+          "Écouter ses ressentis physiques",
+          "Mettre une distance physique et émotionnelle avec les comportements toxiques"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-03-23",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "manque affectif",
+      "contexte": "avec ses enfants",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Bernard",
+      "age": "58 ans",
+      "title": "Manque affectif avec ses enfants : comprendre les causes profondes",
+      "slug": "manque-affectif-enfants-causes",
+      "tags": [
+        "manque affectif",
+        "parentalité",
+        "deuil",
+        "attachement",
+        "relations familiales"
+      ],
+      "resume_narratif": "Bernard termine la fabrication d'une commode dans son atelier, espérant que ce meuble transmettra l'affection qu'il n'arrive pas à verbaliser à son fils Éric. Il réfléchit à la tension palpable lors de leur dernière rencontre et réalise que son refuge dans le travail manuel est une répétition des schémas de son propre passé familial.",
+      "evolution": "Bernard prend conscience que son mutisme et son habitude de matérialiser son amour par des objets ont transformé son atelier en une cellule d'isolement, créant une distance émotionnelle avec ses enfants.",
+      "elements_cles": {
+        "personnages": [
+          "Bernard",
+          "Éric (son fils)",
+          "Hélène (décédée)",
+          "Sultan (le chien)"
+        ],
+        "lieux": "L'atelier de menuiserie",
+        "dates_cles": [
+          "16 mars (tension avec Éric)",
+          "18 mars (travail sur la solitude)"
+        ],
+        "objets_symboliques": "La commode vernissée",
+        "concepts_identifies": [
+          "Manque affectif",
+          "Théorie de l'attachement",
+          "Amour matérialisé"
+        ]
+      },
+      "strategie_coherence": "enrichir",
+      "apport_psychologique": "Ce sujet révèle que Bernard souffre d'une carence émotionnelle qu'il reproduit. Son atelier n'est pas seulement un refuge créatif, c'est le lieu où il compense le vide affectif par la solidité de la matière, faute de savoir offrir de la chaleur à son fils."
     }
   ]
 }

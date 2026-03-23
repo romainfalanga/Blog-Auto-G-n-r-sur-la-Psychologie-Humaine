@@ -1,14 +1,14 @@
 ---
 title: "Hugo"
-date: 2026-03-22T04:37:05+00:00
+date: 2026-03-23T04:41:54+00:00
 description: "Hugo est musicien semi-professionnel et serveur pour payer les factures. En relation instable avec chloé, musicienne aussi."
 slug: "hugo"
 prenom: "Hugo"
 date_naissance: "1999-02-08"
 profession: "Musicien semi-professionnel et serveur pour payer les factures"
 situation: "En relation instable avec chloé, musicienne aussi"
-nb_articles: 2
-weight: 15
+nb_articles: 3
+weight: 12
 draft: false
 ---
 
@@ -35,5 +35,16 @@ draft: false
       <p>Hugo identifie son mécanisme de 'splitting' (idéalisation/dévaluation) et comprend qu'il projette sur Chloé le schéma de l'amour conditionnel vécu avec son père, Alain.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/idealisation-devaluation-en-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/raisonnement-emotionnel-en-couple/">Raisonnement émotionnel en couple : comment il sabote l'amour</a></h3>
+    <div class="parcours-date">2026-03-23</div>
+    <p class="parcours-resume">Hugo reçoit un message inquiétant de Chloé demandant à parler, ce qui déclenche chez lui une certitude immédiate de rupture. Seul dans sa cuisine après son service au bar, il lutte contre ses vieux démons et la tentation de s'isoler ou de réagir de manière dramatique.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Hugo identifie son mécanisme de raisonnement émotionnel, réalisant que ses certitudes de rejet sont des projections de ses peurs d'enfance liées à son père, Alain. Il tente d'appliquer ses nouvelles connaissances en TCC pour ne pas transformer son ressenti en vérité absolue.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/raisonnement-emotionnel-en-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

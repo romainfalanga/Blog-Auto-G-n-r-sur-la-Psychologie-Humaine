@@ -1775,6 +1775,17 @@
           "resume_narratif": "Alors qu'il travaille au bar, Hugo voit Chloé arriver avec des amis et bascule instantanément de l'adoration à un sentiment de trahison en entendant son rire. Cette réaction déclenche une prise de conscience sur son habitude de passer de l'amour fou au rejet brutal dès qu'il se sent délaissé.",
           "evolution": "Hugo identifie son mécanisme de 'splitting' (idéalisation/dévaluation) et comprend qu'il projette sur Chloé le schéma de l'amour conditionnel vécu avec son père, Alain.",
           "elements_cles": "Chloé (compagne), Alain (père, source du schéma), Théo (ami mentionné), le bar (lieu de travail), la guitare/musique (vecteur émotionnel), concept de splitting/relations d'objet."
+        },
+        {
+          "date": "2026-03-23",
+          "sujet": "raisonnement émotionnel",
+          "contexte": "en couple",
+          "category": "cat1_pensees",
+          "titre": "Raisonnement émotionnel en couple : comment il sabote l'amour",
+          "slug": "raisonnement-emotionnel-en-couple",
+          "resume_narratif": "Hugo reçoit un message inquiétant de Chloé demandant à parler, ce qui déclenche chez lui une certitude immédiate de rupture. Seul dans sa cuisine après son service au bar, il lutte contre ses vieux démons et la tentation de s'isoler ou de réagir de manière dramatique.",
+          "evolution": "Hugo identifie son mécanisme de raisonnement émotionnel, réalisant que ses certitudes de rejet sont des projections de ses peurs d'enfance liées à son père, Alain. Il tente d'appliquer ses nouvelles connaissances en TCC pour ne pas transformer son ressenti en vérité absolue.",
+          "elements_cles": "Chloé (sa compagne), Alain (son père, figure du rejet passé), Théo (ami qu'il évite d'appeler), le bar (lieu de travail), la guitare/partitions, technique du questionnement socratique (preuves pour/contre), distorsion du 'tout ou rien'."
         }
       ],
       "genre": "M",
@@ -1985,6 +1996,36 @@
             ],
             "traumatismes_recents": "Réunion d'équipe précédente où un collègue a été félicité à sa place",
             "comportements_reflexes": "Préparation excessive des slides, sourire calibré, poignée de main ferme"
+          }
+        },
+        {
+          "date": "2026-03-23",
+          "sujet": "dégoût",
+          "contexte": "en société et dans les interactions sociales",
+          "category": "cat2_emotions",
+          "titre": "Dégoût en société : comprendre cette émotion sociale complexe",
+          "slug": "degout-en-société-interactions-sociales",
+          "resume_narratif": "Lors d'un cocktail de fin de séminaire, Stéphane ressent un dégoût viscéral face à son collègue Marc, qui se vante d'avoir remporté un contrat par des méthodes malhonnêtes. Ce rejet physique et moral le pousse à s'écarter de la conversation pour préserver son intégrité.",
+          "evolution": "Stéphane apprend à utiliser son dégoût comme une boussole interne pour protéger ses valeurs, cessant de masquer ses émotions sous un sourire de façade pour obtenir l'approbation des autres.",
+          "elements_cles": {
+            "personnages": [
+              "Stéphane",
+              "Marc (collègue)",
+              "Philippe (frère mentionné)"
+            ],
+            "lieux_et_dates": [
+              "Salon feutré (cocktail de séminaire)",
+              "Networking du 18 mars (référence passée)"
+            ],
+            "concepts_psychologiques": [
+              "Dégoût moral",
+              "Rejet de la contamination sociale",
+              "Effet spotlight"
+            ],
+            "decisions": [
+              "Écouter ses ressentis physiques",
+              "Mettre une distance physique et émotionnelle avec les comportements toxiques"
+            ]
           }
         }
       ],
@@ -2438,6 +2479,35 @@
           "resume_narratif": "Bernard travaille seul dans son atelier de menuiserie sur une commode destinée à son fils Éric, accompagné de son chien Sultan. Alors qu'il ressent le vide laissé par le départ d'Hélène, il prend conscience que son silence et son retrait du monde, autrefois protecteurs, sont devenus une source de souffrance physique et émotionnelle.",
           "evolution": "Bernard a compris que son mutisme est un héritage familial servant de bouclier contre la vulnérabilité, transformant son sanctuaire créatif en une cellule d'isolement. Il réalise que son besoin de connexion n'est plus comblé par le travail du bois ou le souvenir des disparus.",
           "elements_cles": "Atelier de menuiserie, Sultan (vieux labrador), Éric (fils avec qui le lien est tendu), Hélène (compagne absente), Marcel (voisin), commode en chêne en cours de finition, outils d'Hélène."
+        },
+        {
+          "date": "2026-03-23",
+          "sujet": "manque affectif",
+          "contexte": "avec ses enfants",
+          "category": "cat3_schemas",
+          "titre": "Manque affectif avec ses enfants : comprendre les causes profondes",
+          "slug": "manque-affectif-enfants-causes",
+          "resume_narratif": "Bernard termine la fabrication d'une commode dans son atelier, espérant que ce meuble transmettra l'affection qu'il n'arrive pas à verbaliser à son fils Éric. Il réfléchit à la tension palpable lors de leur dernière rencontre et réalise que son refuge dans le travail manuel est une répétition des schémas de son propre passé familial.",
+          "evolution": "Bernard prend conscience que son mutisme et son habitude de matérialiser son amour par des objets ont transformé son atelier en une cellule d'isolement, créant une distance émotionnelle avec ses enfants.",
+          "elements_cles": {
+            "personnages": [
+              "Bernard",
+              "Éric (son fils)",
+              "Hélène (décédée)",
+              "Sultan (le chien)"
+            ],
+            "lieux": "L'atelier de menuiserie",
+            "dates_cles": [
+              "16 mars (tension avec Éric)",
+              "18 mars (travail sur la solitude)"
+            ],
+            "objets_symboliques": "La commode vernissée",
+            "concepts_identifies": [
+              "Manque affectif",
+              "Théorie de l'attachement",
+              "Amour matérialisé"
+            ]
+          }
         }
       ],
       "genre": "M",

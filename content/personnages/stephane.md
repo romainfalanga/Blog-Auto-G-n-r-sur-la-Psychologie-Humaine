@@ -1,14 +1,14 @@
 ---
 title: "Stéphane"
-date: 2026-03-22T04:37:05+00:00
+date: 2026-03-23T04:41:54+00:00
 description: "Stéphane est commercial grands comptes dans une multinationale. Marié à sandrine, père d'un adolescent (maxime, 15 ans)."
 slug: "stephane"
 prenom: "Stéphane"
 date_naissance: "1980-04-25"
 profession: "Commercial grands comptes dans une multinationale"
 situation: "Marié à sandrine, père d'un adolescent (maxime, 15 ans)"
-nb_articles: 2
-weight: 17
+nb_articles: 3
+weight: 13
 draft: false
 ---
 
@@ -35,5 +35,16 @@ draft: false
       <p>Stéphane prend conscience de son 'effet spotlight', réalisant que son anxiété sociale et son besoin de perfection sont profondément ancrés dans une rivalité fraternelle ancienne. Il comprend que sa tendance à surjouer son assurance est une réponse directe à sa peur d'être jugé.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-en-societe/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/degout-en-société-interactions-sociales/">Dégoût en société : comprendre cette émotion sociale complexe</a></h3>
+    <div class="parcours-date">2026-03-23</div>
+    <p class="parcours-resume">Lors d'un cocktail de fin de séminaire, Stéphane ressent un dégoût viscéral face à son collègue Marc, qui se vante d'avoir remporté un contrat par des méthodes malhonnêtes. Ce rejet physique et moral le pousse à s'écarter de la conversation pour préserver son intégrité.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Stéphane apprend à utiliser son dégoût comme une boussole interne pour protéger ses valeurs, cessant de masquer ses émotions sous un sourire de façade pour obtenir l'approbation des autres.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/degout-en-société-interactions-sociales/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
