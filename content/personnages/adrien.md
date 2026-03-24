@@ -1,14 +1,14 @@
 ---
 title: "Adrien"
-date: 2026-03-23T04:41:54+00:00
+date: 2026-03-24T04:34:55+00:00
 description: "Adrien est graphiste freelance. Célibataire depuis une rupture difficile il y a un an."
 slug: "adrien"
 prenom: "Adrien"
 date_naissance: "1994-06-07"
 profession: "Graphiste freelance"
 situation: "Célibataire depuis une rupture difficile il y a un an"
-nb_articles: 3
-weight: 5
+nb_articles: 4
+weight: 2
 draft: false
 ---
 
@@ -46,5 +46,16 @@ draft: false
       <p>Adrien commence à distinguer la mélancolie esthétique, qui nourrit son art, du piège de l'idéalisation nostalgique qui bloque son action et ses relations réelles. Il apprend à identifier ses schémas d'instabilité pour ne plus laisser son anxiété définir sa valeur professionnelle.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/melancolie-face-a-la-solitude/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/dependance-incompetence-face-autorite-causes/">Dépendance et incompétence face à l'autorité : s'en libérer</a></h3>
+    <div class="parcours-date">2026-03-24</div>
+    <p class="parcours-resume">Adrien, graphiste freelance, se retrouve paralysé par un mail de son client Antoine demandant une révision de logo. Cette interaction avec une figure d'autorité déclenche chez lui un profond sentiment d'incompétence, le renvoyant à ses insécurités passées avec son père et son ex-compagne Marina.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Adrien identifie son schéma de dépendance et d'incompétence, réalisant que son besoin de validation constante est un mécanisme de défense lié à son passé d'enfant parentifié. Il prend conscience que sa procrastination et sa quête de réassurance sabotent son autonomie professionnelle.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/dependance-incompetence-face-autorite-causes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

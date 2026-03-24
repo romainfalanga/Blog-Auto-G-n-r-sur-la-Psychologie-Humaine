@@ -266,6 +266,17 @@
               "Éviter d'écrire le script dans sa tête"
             ]
           }
+        },
+        {
+          "date": "2026-03-24",
+          "sujet": "culpabilité",
+          "contexte": "face à l'argent et aux finances",
+          "category": "cat2_emotions",
+          "titre": "Culpabilité face à l'argent et aux finances : s'en libérer",
+          "slug": "culpabilite-face-a-l-argent-et-finances",
+          "resume_narratif": "Thomas se retrouve paralysé au supermarché, incapable de choisir entre un café de marque pour faire plaisir à sa compagne Émilie et une marque distributeur pour économiser. Ce dilemme financier réveille en lui des voix du passé et une profonde anxiété liée à ses responsabilités de futur père et à son récent salaire d'enseignant.",
+          "evolution": "Thomas prend conscience que son rapport à l'argent est dicté par un héritage familial de sacrifice et que sa culpabilité financière influence ses interactions sociales, le poussant à l'effacement de soi.",
+          "elements_cles": "Émilie (compagne), projet d'enfant, métier d'enseignant, Valérie (collègue), influence du père, scripts financiers de Brad Klontz, tendance au sacrifice de soi et à l'évitement budgétaire."
         }
       ],
       "genre": "M",
@@ -797,6 +808,38 @@
           "resume_narratif": "Le 21 mars 2026, Adrien se retrouve paralysé dans son atelier entre ses obligations de freelance et l'envie de dessiner Marina. Malgré sa solitude, il tente d'utiliser son carnet de notes pour ne pas laisser sa mélancolie et ses souvenirs transformer son travail en procrastination.",
           "evolution": "Adrien commence à distinguer la mélancolie esthétique, qui nourrit son art, du piège de l'idéalisation nostalgique qui bloque son action et ses relations réelles. Il apprend à identifier ses schémas d'instabilité pour ne plus laisser son anxiété définir sa valeur professionnelle.",
           "elements_cles": "Atelier d'Adrien ; Marina (ex-compagne idéalisée) ; Julien (contact actuel) ; Carnet de notes (ancrage émotionnel) ; Article du 17 mars ; Playlist lo-fi ; Distinction entre nostalgie et moteur créatif."
+        },
+        {
+          "date": "2026-03-24",
+          "sujet": "dépendance/incompétence",
+          "contexte": "face à l'autorité",
+          "category": "cat3_schemas",
+          "titre": "Dépendance et incompétence face à l'autorité : s'en libérer",
+          "slug": "dependance-incompetence-face-autorite-causes",
+          "resume_narratif": "Adrien, graphiste freelance, se retrouve paralysé par un mail de son client Antoine demandant une révision de logo. Cette interaction avec une figure d'autorité déclenche chez lui un profond sentiment d'incompétence, le renvoyant à ses insécurités passées avec son père et son ex-compagne Marina.",
+          "evolution": "Adrien identifie son schéma de dépendance et d'incompétence, réalisant que son besoin de validation constante est un mécanisme de défense lié à son passé d'enfant parentifié. Il prend conscience que sa procrastination et sa quête de réassurance sabotent son autonomie professionnelle.",
+          "elements_cles": {
+            "personnages_mentionnés": [
+              "Antoine (directeur artistique)",
+              "Marina (ex-compagne)",
+              "Charlotte (sœur)",
+              "le père"
+            ],
+            "objets_et_lieux": [
+              "ordinateur de bureau",
+              "carnet de notes",
+              "playlist lo-fi"
+            ],
+            "techniques_de_gestion": [
+              "consigner ses pensées dans un carnet",
+              "tutoriels techniques pour se rassurer"
+            ],
+            "concepts_psychologiques": [
+              "thérapie des schémas de Jeffrey Young",
+              "enfant parentifié",
+              "impuissance apprise"
+            ]
+          }
         }
       ],
       "genre": "M",
@@ -2163,6 +2206,17 @@
             "traumatismes": "Sept ans sous l'emprise de Samir, deuil de sa grand-mère",
             "techniques_de_defense": "Différenciation des traumatismes, vérification des outils de travail, observation de l'hypervigilance"
           }
+        },
+        {
+          "date": "2026-03-24",
+          "sujet": "biais de confirmation",
+          "contexte": "en situation de conflit",
+          "category": "cat1_pensees",
+          "titre": "Biais de confirmation en situation de conflit : comment il vous piège",
+          "slug": "biais-confirmation-conflit",
+          "resume_narratif": "Lors d'une réunion le 24 mars 2026, Djamila entre en conflit avec son coordinateur Antoine au sujet du signalement d'une bénéficiaire. Elle réalise que son esprit sélectionne uniquement les indices hostiles chez lui pour confirmer son sentiment de mise à l'épreuve.",
+          "evolution": "Djamila identifie concrètement son biais de confirmation, comprenant que son passé traumatique avec Samir active une hypervigilance qui transforme des détails neutres en preuves de manipulation.",
+          "elements_cles": "Antoine (coordinateur), Adam (son fils), Dr Martin (thérapeute), incident du 19 mars, biais de confirmation, carnet de rendez-vous, technique de repérage des pensées-aimants."
         }
       ],
       "genre": "F",

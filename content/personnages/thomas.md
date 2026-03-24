@@ -1,14 +1,14 @@
 ---
 title: "Thomas"
-date: 2026-03-23T04:41:54+00:00
+date: 2026-03-24T04:34:55+00:00
 description: "Thomas est enseignant d'histoire-géographie au lycée. En couple avec émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité."
 slug: "thomas"
 prenom: "Thomas"
 date_naissance: "1992-02-22"
 profession: "Enseignant d'histoire-géographie au lycée"
 situation: "En couple avec émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité"
-nb_articles: 3
-weight: 2
+nb_articles: 4
+weight: 1
 draft: false
 ---
 
@@ -46,5 +46,16 @@ draft: false
       <p>Thomas identifie son réflexe de 'lecture de pensée' comme un prolongement de sa peur de décevoir et de son rôle de sauveur, réalisant que ses suppositions dictent ses réactions au détriment d'une communication authentique.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/lecture-pensee-en-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/culpabilite-face-a-l-argent-et-finances/">Culpabilité face à l'argent et aux finances : s'en libérer</a></h3>
+    <div class="parcours-date">2026-03-24</div>
+    <p class="parcours-resume">Thomas se retrouve paralysé au supermarché, incapable de choisir entre un café de marque pour faire plaisir à sa compagne Émilie et une marque distributeur pour économiser. Ce dilemme financier réveille en lui des voix du passé et une profonde anxiété liée à ses responsabilités de futur père et à son récent salaire d'enseignant.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Thomas prend conscience que son rapport à l'argent est dicté par un héritage familial de sacrifice et que sa culpabilité financière influence ses interactions sociales, le poussant à l'effacement de soi.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/culpabilite-face-a-l-argent-et-finances/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
