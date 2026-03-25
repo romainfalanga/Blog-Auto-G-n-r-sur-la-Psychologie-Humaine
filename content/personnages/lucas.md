@@ -1,14 +1,14 @@
 ---
 title: "Lucas"
-date: 2026-03-24T04:34:55+00:00
+date: 2026-03-25T04:37:48+00:00
 description: "Lucas est étudiant en dernière année d'école de commerce, en stage. Célibataire, en colocation avec deux amis."
 slug: "lucas"
 prenom: "Lucas"
 date_naissance: "2001-04-10"
 profession: "Étudiant en dernière année d'école de commerce, en stage"
 situation: "Célibataire, en colocation avec deux amis"
-nb_articles: 2
-weight: 16
+nb_articles: 3
+weight: 8
 draft: false
 ---
 
@@ -35,5 +35,16 @@ draft: false
       <p>Lucas prend conscience que sa peur d'être exclu le pousse à porter un masque social épuisant, transformant sa honte de classe en un mensonge qui le protège immédiatement mais le ronge intérieurement.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/honte-en-colocation-causes-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/echec-ecole-etudes-psychologie-hpi/">Échec à l'école ou aux études : comprendre les causes profondes</a></h3>
+    <div class="parcours-date">2026-03-25</div>
+    <p class="parcours-resume">Lucas reçoit un avis défavorable de son tuteur de stage concernant son mémoire, jugeant son travail hors sujet et mal structuré. Seul dans sa colocation, il se confronte à cet échec académique tout en redoutant la déception de ses parents, Sandrine et Jean-Marc, et en se comparant à la réussite professionnelle de son colocataire Romain.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Lucas réalise que son perfectionnisme et son besoin de paraître impeccable, liés à ses origines modestes et à sa douance, sont devenus des freins paralysants. Il commence à identifier ses mécanismes d'auto-sabotage, comme le choix de sujets trop complexes pour protéger son estime de soi.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/echec-ecole-etudes-psychologie-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

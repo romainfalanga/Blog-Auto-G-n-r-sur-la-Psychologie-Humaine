@@ -537,6 +537,40 @@
               "Solde bancaire débiteur"
             ]
           }
+        },
+        {
+          "date": "2026-03-25",
+          "sujet": "échec",
+          "contexte": "à l'école ou aux études",
+          "category": "cat3_schemas",
+          "titre": "Échec à l'école ou aux études : comprendre les causes profondes",
+          "slug": "echec-ecole-etudes-psychologie-hpi",
+          "resume_narratif": "Lucas reçoit un avis défavorable de son tuteur de stage concernant son mémoire, jugeant son travail hors sujet et mal structuré. Seul dans sa colocation, il se confronte à cet échec académique tout en redoutant la déception de ses parents, Sandrine et Jean-Marc, et en se comparant à la réussite professionnelle de son colocataire Romain.",
+          "evolution": "Lucas réalise que son perfectionnisme et son besoin de paraître impeccable, liés à ses origines modestes et à sa douance, sont devenus des freins paralysants. Il commence à identifier ses mécanismes d'auto-sabotage, comme le choix de sujets trop complexes pour protéger son estime de soi.",
+          "elements_cles": {
+            "lieux": [
+              "Chambre de colocation",
+              "La Défense (entretien passé)"
+            ],
+            "personnes": [
+              "Sandrine et Jean-Marc (parents)",
+              "Romain (colocataire)",
+              "Maxime (ami)",
+              "Tuteur de stage"
+            ],
+            "contexte_social": [
+              "Premier diplômé de la famille",
+              "Origines modestes",
+              "Étudiant en grande école de commerce"
+            ],
+            "concepts_psychologiques": [
+              "Effet spotlight",
+              "Comparaison sociale",
+              "Procrastination défensive",
+              "Syndrome de l'imposteur",
+              "HPI"
+            ]
+          }
         }
       ],
       "genre": "M",
@@ -683,6 +717,28 @@
           "resume_narratif": "Le lundi 22 mars 2026, Nadia, directrice marketing, s'apprête à réprimander sévèrement son assistante Julie pour des erreurs mineures dans un rapport. Un souvenir d'enfance lié à l'exigence de sa mère Fatima et une récente tension avec sa fille Yasmine la poussent à suspendre son geste et à laisser son mail en brouillon.",
           "evolution": "Nadia prend conscience que son besoin de perfection est une armure héritée de son éducation et une stratégie de survie liée à ses origines, réalisant que cette pression nuit à ses relations et à sa propre santé.",
           "elements_cles": "Date du 22 mars 2026 ; entreprise tech ; personnages : Julie (assistante), Fatima (mère), Yasmine (fille), Karim (ex-mari) ; contexte de divorce et de surmenage ; concept de la thérapie des schémas de Jeffrey Young et effet Zeigarnik."
+        },
+        {
+          "date": "2026-03-25",
+          "sujet": "biais de statu quo",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Biais de statu quo : pourquoi changer nous fait si peur ?",
+          "slug": "biais-statu-quo-decision-importante-psychologie",
+          "resume_narratif": "Le mercredi 25 mars 2026, Nadia hésite à accepter un poste de directrice générale dans une scale-up concurrente malgré l'insatisfaction liée à son emploi actuel. Elle se trouve des excuses liées à sa fille Yasmine et à son assistante Julie pour justifier son inertie face à cette opportunité majeure.",
+          "evolution": "Nadia identifie qu'elle est paralysée par le biais de statu quo, comprenant que sa peur du changement et sa surestimation des coûts de transition l'emportent sur les bénéfices objectifs de l'offre.",
+          "elements_cles": {
+            "personnages": [
+              "Nadia (protagoniste)",
+              "Yasmine (fille)",
+              "Julie (assistante)",
+              "Fatima (mère)",
+              "Karim (ex-mari)"
+            ],
+            "contexte_temporel": "Mercredi 25 mars 2026, 7h30",
+            "decision_en_suspens": "Offre de poste de DG dans une scale-up concurrente reçue par mail",
+            "progrès_antérieurs": "Amélioration de la gestion de la colère envers Julie et meilleure relation avec Yasmine"
+          }
         }
       ],
       "genre": "F",
@@ -1503,6 +1559,39 @@
               "Théorie de l'équité de Hatfield",
               "Désidéalisation",
               "Schémas relationnels"
+            ]
+          }
+        },
+        {
+          "date": "2026-03-25",
+          "sujet": "jalousie",
+          "contexte": "en situation de conflit",
+          "category": "cat2_emotions",
+          "titre": "Jalousie en situation de conflit : comprendre pour s'apaiser",
+          "slug": "jalousie-en-situation-de-conflit-comprendre-agir",
+          "resume_narratif": "Léa ressent une vive jalousie envers un nouvel étudiant brillant qui semble impressionner sa meilleure amie Zoé. Dans l'amphithéâtre de la faculté, elle adopte un comportement froid et distant envers Zoé pour masquer sa peur d'être remplacée.",
+          "evolution": "Léa parvient à identifier que sa réaction viscérale est liée à son schéma d'abandon issu du divorce de ses parents. Elle passe d'un besoin de 'sauver' les autres à une volonté lucide de protéger son territoire affectif tout en observant ses propres mécanismes de retrait.",
+          "elements_cles": {
+            "personnages": [
+              "Léa",
+              "Zoé",
+              "le nouvel étudiant",
+              "Dr Moreau (thérapeute)"
+            ],
+            "lieux": [
+              "Faculté de psychologie (amphithéâtre)",
+              "Studio de Léa",
+              "Bibliothèque"
+            ],
+            "contexte_psychologique": [
+              "Peur de l'abandon",
+              "Divorce des parents",
+              "Hyper-vigilance émotionnelle"
+            ],
+            "comportement": [
+              "Retrait affectif",
+              "Silence punitif",
+              "Hochement de tête sec"
             ]
           }
         }

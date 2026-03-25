@@ -1,14 +1,14 @@
 ---
 title: "Léa"
-date: 2026-03-24T04:34:55+00:00
+date: 2026-03-25T04:37:48+00:00
 description: "Léa est étudiante en master de psychologie clinique. Célibataire, vit en studio étudiant."
 slug: "lea"
 prenom: "Léa"
 date_naissance: "2002-11-12"
 profession: "Étudiante en master de psychologie clinique"
 situation: "Célibataire, vit en studio étudiant"
-nb_articles: 3
-weight: 11
+nb_articles: 4
+weight: 4
 draft: false
 ---
 
@@ -46,5 +46,16 @@ draft: false
       <p>Léa réalise que son dévouement excessif envers Zoé était une stratégie inconsciente pour garantir sa propre sécurité affective et éviter l'abandon. Elle commence à désidéaliser sa relation et à comprendre que sa déception naît de l'effondrement d'une illusion qu'elle a elle-même entretenue.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/deception-en-amitie-comprendre-attentes-relations/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jalousie-en-situation-de-conflit-comprendre-agir/">Jalousie en situation de conflit : comprendre pour s'apaiser</a></h3>
+    <div class="parcours-date">2026-03-25</div>
+    <p class="parcours-resume">Léa ressent une vive jalousie envers un nouvel étudiant brillant qui semble impressionner sa meilleure amie Zoé. Dans l'amphithéâtre de la faculté, elle adopte un comportement froid et distant envers Zoé pour masquer sa peur d'être remplacée.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Léa parvient à identifier que sa réaction viscérale est liée à son schéma d'abandon issu du divorce de ses parents. Elle passe d'un besoin de 'sauver' les autres à une volonté lucide de protéger son territoire affectif tout en observant ses propres mécanismes de retrait.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/jalousie-en-situation-de-conflit-comprendre-agir/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

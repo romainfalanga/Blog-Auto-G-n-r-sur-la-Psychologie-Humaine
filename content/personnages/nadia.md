@@ -1,14 +1,14 @@
 ---
 title: "Nadia"
-date: 2026-03-24T04:34:55+00:00
+date: 2026-03-25T04:37:48+00:00
 description: "Nadia est directrice marketing dans une entreprise tech. Divorcée, mère d'une fille (yasmine, 8 ans), garde alternée."
 slug: "nadia"
 prenom: "Nadia"
 date_naissance: "1987-05-18"
 profession: "Directrice marketing dans une entreprise tech"
 situation: "Divorcée, mère d'une fille (yasmine, 8 ans), garde alternée"
-nb_articles: 3
-weight: 6
+nb_articles: 4
+weight: 2
 draft: false
 ---
 
@@ -46,5 +46,16 @@ draft: false
       <p>Nadia prend conscience que son besoin de perfection est une armure héritée de son éducation et une stratégie de survie liée à ses origines, réalisant que cette pression nuit à ses relations et à sa propre santé.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-au-travail/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-statu-quo-decision-importante-psychologie/">Biais de statu quo : pourquoi changer nous fait si peur ?</a></h3>
+    <div class="parcours-date">2026-03-25</div>
+    <p class="parcours-resume">Le mercredi 25 mars 2026, Nadia hésite à accepter un poste de directrice générale dans une scale-up concurrente malgré l'insatisfaction liée à son emploi actuel. Elle se trouve des excuses liées à sa fille Yasmine et à son assistante Julie pour justifier son inertie face à cette opportunité majeure.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Nadia identifie qu'elle est paralysée par le biais de statu quo, comprenant que sa peur du changement et sa surestimation des coûts de transition l'emportent sur les bénéfices objectifs de l'offre.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-statu-quo-decision-importante-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
