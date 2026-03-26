@@ -571,6 +571,17 @@
               "HPI"
             ]
           }
+        },
+        {
+          "date": "2026-03-26",
+          "sujet": "envie",
+          "contexte": "en situation de compétition",
+          "category": "cat2_emotions",
+          "titre": "Envie en situation de compétition : comprendre et s'en libérer",
+          "slug": "envie-en-situation-de-competition-hpi",
+          "resume_narratif": "Lors d'un match de basket le 26 mars 2026, Lucas subit une défaite face à Antoine, un adversaire dont l'aisance déclenche chez lui une envie profonde. Ce sentiment de médiocrité fait écho à ses difficultés actuelles en école de commerce, notamment les critiques de son tuteur de stage sur son mémoire.",
+          "evolution": "Lucas prend conscience que son envie n'est pas de la haine, mais le reflet de ses propres carences et de son syndrome de l'imposteur. Il réalise que sa tendance à la comparaison permanente transforme son ambition en un poison paralysant au lieu d'un moteur.",
+          "elements_cles": "Gymnase municipal; Antoine (rival); Romain (coéquipier); Sandrine et Jean-Marc (parents); colocation; école de commerce; tic de réajustement du maillot; syndrome de l'imposteur lié à ses origines modestes."
         }
       ],
       "genre": "M",
@@ -1155,6 +1166,17 @@
             ],
             "concept_appris": "Le biais de projection (George Loewenstein)"
           }
+        },
+        {
+          "date": "2026-03-26",
+          "sujet": "biais d'ancrage",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Biais d'ancrage face à une décision importante : le repérer",
+          "slug": "biais-ancrage-decision-importante",
+          "resume_narratif": "Youssef reçoit une proposition de mutation interne pour diriger une équipe à Lyon avec un salaire de 48 000 euros. Alors qu'il tente d'analyser froidement l'offre, il réalise que ce premier chiffre et les commentaires de ses collègues influencent de manière disproportionnée sa réflexion.",
+          "evolution": "Conscient de son alexithymie et de sa tendance à l'intellectualisation, Youssef identifie comment le biais d'ancrage et son héritage familial (la rigidité de son père Hamid) limitent sa perception de la réalité et ses choix de carrière.",
+          "elements_cles": "Mutation à Lyon ; salaire de 48 000€ (ancre) ; Léa (conjointe) ; Nicolas (ami muté) ; Hamid (père) ; alexithymie partielle ; tendance à l'intellectualisation."
         }
       ],
       "genre": "M",
@@ -2158,6 +2180,34 @@
               "Écouter ses ressentis physiques",
               "Mettre une distance physique et émotionnelle avec les comportements toxiques"
             ]
+          }
+        },
+        {
+          "date": "2026-03-26",
+          "sujet": "imperfection/honte",
+          "contexte": "en société et dans les interactions sociales",
+          "category": "cat3_schemas",
+          "titre": "Imperfection et honte en société : comment s'en libérer",
+          "slug": "imperfection-honte-societe",
+          "resume_narratif": "Stéphane se prépare pour une présentation cruciale devant des clients importants tout en luttant contre un sentiment d'infériorité ravivé par le succès d'un collègue, Marc. Il se remémore sa rivalité fraternelle avec Philippe et analyse ses réactions lors d'un récent cocktail professionnel.",
+          "evolution": "Il commence à percevoir que son besoin de perfection est une stratégie de défense contre la honte et envisage d'expérimenter la vulnérabilité en nommant ses imperfections plutôt qu'en les masquant.",
+          "elements_cles": {
+            "personnages": [
+              "Marc (collègue)",
+              "Philippe (frère)",
+              "Directeur"
+            ],
+            "dates_cles": [
+              "9 mars",
+              "18 mars",
+              "23 mars (cocktail)"
+            ],
+            "techniques_concepts": [
+              "Effet spotlight",
+              "Ancrage (effleurer sa carte de visite)",
+              "Distinction honte/culpabilité (Tangney/Brown)"
+            ],
+            "contexte_familial": "Comparaison constante avec la réussite de son frère Philippe depuis l'enfance."
           }
         }
       ],

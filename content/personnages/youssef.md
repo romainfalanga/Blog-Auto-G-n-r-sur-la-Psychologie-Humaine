@@ -1,14 +1,14 @@
 ---
 title: "Youssef"
-date: 2026-03-25T04:37:48+00:00
+date: 2026-03-26T04:45:46+00:00
 description: "Youssef est ingénieur en informatique dans un grand groupe. En couple avec léa depuis 2 ans, vit en appartement."
 slug: "youssef"
 prenom: "Youssef"
 date_naissance: "1996-08-14"
 profession: "Ingénieur en informatique dans un grand groupe"
 situation: "En couple avec léa depuis 2 ans, vit en appartement"
-nb_articles: 3
-weight: 10
+nb_articles: 4
+weight: 5
 draft: false
 ---
 
@@ -46,5 +46,16 @@ draft: false
       <p>Youssef prend conscience de son biais de projection, comprenant qu'il utilise son propre ressenti comme unique grille de lecture pour analyser les émotions de Léa afin de masquer son propre besoin de contrôle.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-projection-en-couple-comprendre-autre/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-ancrage-decision-importante/">Biais d'ancrage face à une décision importante : le repérer</a></h3>
+    <div class="parcours-date">2026-03-26</div>
+    <p class="parcours-resume">Youssef reçoit une proposition de mutation interne pour diriger une équipe à Lyon avec un salaire de 48 000 euros. Alors qu'il tente d'analyser froidement l'offre, il réalise que ce premier chiffre et les commentaires de ses collègues influencent de manière disproportionnée sa réflexion.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Conscient de son alexithymie et de sa tendance à l'intellectualisation, Youssef identifie comment le biais d'ancrage et son héritage familial (la rigidité de son père Hamid) limitent sa perception de la réalité et ses choix de carrière.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-ancrage-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

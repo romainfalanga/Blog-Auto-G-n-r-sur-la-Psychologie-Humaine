@@ -1,14 +1,14 @@
 ---
 title: "Lucas"
-date: 2026-03-25T04:37:48+00:00
+date: 2026-03-26T04:45:46+00:00
 description: "Lucas est étudiant en dernière année d'école de commerce, en stage. Célibataire, en colocation avec deux amis."
 slug: "lucas"
 prenom: "Lucas"
 date_naissance: "2001-04-10"
 profession: "Étudiant en dernière année d'école de commerce, en stage"
 situation: "Célibataire, en colocation avec deux amis"
-nb_articles: 3
-weight: 8
+nb_articles: 4
+weight: 2
 draft: false
 ---
 
@@ -46,5 +46,16 @@ draft: false
       <p>Lucas réalise que son perfectionnisme et son besoin de paraître impeccable, liés à ses origines modestes et à sa douance, sont devenus des freins paralysants. Il commence à identifier ses mécanismes d'auto-sabotage, comme le choix de sujets trop complexes pour protéger son estime de soi.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/echec-ecole-etudes-psychologie-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/envie-en-situation-de-competition-hpi/">Envie en situation de compétition : comprendre et s'en libérer</a></h3>
+    <div class="parcours-date">2026-03-26</div>
+    <p class="parcours-resume">Lors d'un match de basket le 26 mars 2026, Lucas subit une défaite face à Antoine, un adversaire dont l'aisance déclenche chez lui une envie profonde. Ce sentiment de médiocrité fait écho à ses difficultés actuelles en école de commerce, notamment les critiques de son tuteur de stage sur son mémoire.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Lucas prend conscience que son envie n'est pas de la haine, mais le reflet de ses propres carences et de son syndrome de l'imposteur. Il réalise que sa tendance à la comparaison permanente transforme son ambition en un poison paralysant au lieu d'un moteur.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/envie-en-situation-de-competition-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

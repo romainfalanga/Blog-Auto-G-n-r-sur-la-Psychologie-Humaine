@@ -1,14 +1,14 @@
 ---
 title: "Stéphane"
-date: 2026-03-25T04:37:48+00:00
+date: 2026-03-26T04:45:46+00:00
 description: "Stéphane est commercial grands comptes dans une multinationale. Marié à sandrine, père d'un adolescent (maxime, 15 ans)."
 slug: "stephane"
 prenom: "Stéphane"
 date_naissance: "1980-04-25"
 profession: "Commercial grands comptes dans une multinationale"
 situation: "Marié à sandrine, père d'un adolescent (maxime, 15 ans)"
-nb_articles: 3
-weight: 15
+nb_articles: 4
+weight: 7
 draft: false
 ---
 
@@ -46,5 +46,16 @@ draft: false
       <p>Stéphane apprend à utiliser son dégoût comme une boussole interne pour protéger ses valeurs, cessant de masquer ses émotions sous un sourire de façade pour obtenir l'approbation des autres.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/degout-en-société-interactions-sociales/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/imperfection-honte-societe/">Imperfection et honte en société : comment s'en libérer</a></h3>
+    <div class="parcours-date">2026-03-26</div>
+    <p class="parcours-resume">Stéphane se prépare pour une présentation cruciale devant des clients importants tout en luttant contre un sentiment d'infériorité ravivé par le succès d'un collègue, Marc. Il se remémore sa rivalité fraternelle avec Philippe et analyse ses réactions lors d'un récent cocktail professionnel.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Il commence à percevoir que son besoin de perfection est une stratégie de défense contre la honte et envisage d'expérimenter la vulnérabilité en nommant ses imperfections plutôt qu'en les masquant.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/imperfection-honte-societe/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
