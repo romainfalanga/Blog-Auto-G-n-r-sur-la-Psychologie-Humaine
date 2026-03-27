@@ -1,14 +1,14 @@
 ---
 title: "Camille"
-date: 2026-03-26T04:45:46+00:00
+date: 2026-03-27T04:53:16+00:00
 description: "Camille est infirmière en service de cardiologie. Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)."
 slug: "camille"
 prenom: "Camille"
 date_naissance: "1984-03-05"
 profession: "Infirmière en service de cardiologie"
 situation: "Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)"
-nb_articles: 3
-weight: 10
+nb_articles: 4
+weight: 3
 draft: false
 ---
 
@@ -46,5 +46,16 @@ draft: false
       <p>Camille parvient désormais à nommer son mécanisme de catastrophisation et prend conscience que son passé familial et son métier d'infirmière alimentent ses distorsions cognitives. Elle tente, pour la première fois, de respirer et d'accepter l'aide de David plutôt que de s'enfermer dans la culpabilité.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/catastrophisation-avec-enfants/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-negativite-face-decision-importante-camille/">Biais de négativité face à une décision importante : comprendre</a></h3>
+    <div class="parcours-date">2026-03-27</div>
+    <p class="parcours-resume">Camille, infirmière en cardiologie, hésite à accepter un poste de cadre de santé malgré les bénéfices pour sa vie de famille avec Léo et Emma. Assise dans les vestiaires de l'hôpital, elle est paralysée par la peur des responsabilités et des conflits potentiels, occultant ses réussites passées.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Camille identifie que son cerveau subit un biais de négativité qui amplifie les risques au détriment des avantages. Elle prend conscience que son indécision est nourrie par une exigence maternelle ancienne et une difficulté à s'attribuer ses propres succès.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-negativite-face-decision-importante-camille/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

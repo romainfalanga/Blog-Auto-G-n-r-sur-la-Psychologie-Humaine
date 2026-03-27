@@ -411,6 +411,17 @@
           "resume_narratif": "Alors qu'elle prépare les lunchboxes, Camille panique face à une simple toux de son fils Léo, imaginant immédiatement une hospitalisation et le jugement sévère de sa mère Françoise. Son mari David propose son aide pour gérer le rendez-vous médical, provoquant chez elle un conflit entre son instinct d'infirmière hypervigilante et sa volonté de ne plus subir ses scénarios catastrophes.",
           "evolution": "Camille parvient désormais à nommer son mécanisme de catastrophisation et prend conscience que son passé familial et son métier d'infirmière alimentent ses distorsions cognitives. Elle tente, pour la première fois, de respirer et d'accepter l'aide de David plutôt que de s'enfermer dans la culpabilité.",
           "elements_cles": "Léo et Emma (enfants), David (conjoint), Françoise (mère jugeante), Nathalie (collègue de cardiologie), date du 15 mars (post-it 'vide'), technique de nommer les mécanismes, lutte contre le perfectionnisme et l'hypervigilance médicale."
+        },
+        {
+          "date": "2026-03-27",
+          "sujet": "biais de négativité",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Biais de négativité face à une décision importante : comprendre",
+          "slug": "biais-negativite-face-decision-importante-camille",
+          "resume_narratif": "Camille, infirmière en cardiologie, hésite à accepter un poste de cadre de santé malgré les bénéfices pour sa vie de famille avec Léo et Emma. Assise dans les vestiaires de l'hôpital, elle est paralysée par la peur des responsabilités et des conflits potentiels, occultant ses réussites passées.",
+          "evolution": "Camille identifie que son cerveau subit un biais de négativité qui amplifie les risques au détriment des avantages. Elle prend conscience que son indécision est nourrie par une exigence maternelle ancienne et une difficulté à s'attribuer ses propres succès.",
+          "elements_cles": "Service de cardiologie ; enfants (Léo et Emma) ; conjoint (David) ; mère (Françoise) ; réussite médicale du 18 mars ; fatigue de compassion ; technique de nomination des scénarios catastrophes."
         }
       ],
       "genre": "F",
@@ -1828,6 +1839,17 @@
             "concepts_identifies": "Pessimisme défensif, impuissance apprise, loyauté invisible envers la souffrance parentale",
             "objets_symboliques": "Pot de primevères jaunes, cardigan en laine bouillie, batterie de voiture défaillante"
           }
+        },
+        {
+          "date": "2026-03-27",
+          "sujet": "isolement social/aliénation",
+          "contexte": "en société et dans les interactions sociales",
+          "category": "cat3_schemas",
+          "titre": "Isolement social et aliénation : comprendre et s'ouvrir au monde",
+          "slug": "isolement-social-alienation-interactions-societe",
+          "resume_narratif": "Seule dans sa cuisine en préparant un bœuf bourguignon, Monique se sent déconnectée du monde et hésite à se rendre à une invitation chez sa voisine Geneviève. Malgré un message d'encouragement de sa fille Isabelle, elle lutte contre l'envie de s'isoler pour protéger sa vulnérabilité.",
+          "evolution": "Monique identifie son anxiété sociale comme une armure héritée de son éducation, comprenant que son sentiment d'imposture et son retrait préventif sont les barreaux d'une cellule qu'elle a elle-même forgée.",
+          "elements_cles": "Invitation chez Geneviève (voisine), message d'Isabelle (fille), deuil de Jean-Claude, bénévolat à la bibliothèque, collier de perles de sa mère, concept d'aliénation de Melvin Seeman."
         }
       ],
       "genre": "F",
@@ -2356,6 +2378,38 @@
           "resume_narratif": "Lors d'une réunion le 24 mars 2026, Djamila entre en conflit avec son coordinateur Antoine au sujet du signalement d'une bénéficiaire. Elle réalise que son esprit sélectionne uniquement les indices hostiles chez lui pour confirmer son sentiment de mise à l'épreuve.",
           "evolution": "Djamila identifie concrètement son biais de confirmation, comprenant que son passé traumatique avec Samir active une hypervigilance qui transforme des détails neutres en preuves de manipulation.",
           "elements_cles": "Antoine (coordinateur), Adam (son fils), Dr Martin (thérapeute), incident du 19 mars, biais de confirmation, carnet de rendez-vous, technique de repérage des pensées-aimants."
+        },
+        {
+          "date": "2026-03-27",
+          "sujet": "sentiment d'injustice",
+          "contexte": "en situation de conflit",
+          "category": "cat2_emotions",
+          "titre": "Surmonter le sentiment d'injustice en situation de conflit",
+          "slug": "sentiment-injustice-conflit-reconstruction-post-toxique",
+          "resume_narratif": "Djamila se trouve dans les bureaux de son association pour défendre le dossier de relogement d'une famille face à Antoine, son coordinateur. L'indifférence de ce dernier, qui l'ignore en consultant son téléphone, déclenche chez elle un profond sentiment d'injustice et réactive les traumatismes liés au mépris de son ex-conjoint, Samir.",
+          "evolution": "Djamila prend conscience que sa colère actuelle est amplifiée par son passé de victimisation et son hypervigilance. Elle parvient à identifier que son sentiment d'injustice active des mécanismes de défense anciens, comme la rumination et le besoin de réparation, tout en essayant de ne pas basculer dans l'explosion verbale.",
+          "elements_cles": {
+            "personnages": [
+              "Djamila",
+              "Antoine (coordinateur)",
+              "Samir (ex-conjoint mentionné)"
+            ],
+            "lieux": [
+              "Bureau de l'association",
+              "Table en bois mélaminé"
+            ],
+            "objets_symboliques": [
+              "Foulard de soie émeraude",
+              "Téléphone d'Antoine",
+              "Dossiers de relogement"
+            ],
+            "concepts_psychologiques": [
+              "Sentiment d'injustice",
+              "Croyance en un monde juste",
+              "Hypervigilance",
+              "Biais de confirmation"
+            ]
+          }
         }
       ],
       "genre": "F",

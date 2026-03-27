@@ -1,14 +1,14 @@
 ---
 title: "Djamila"
-date: 2026-03-26T04:45:46+00:00
+date: 2026-03-27T04:53:16+00:00
 description: "Djamila est travailleuse sociale dans une association d'aide aux femmes. Séparée, en reconstruction, un fils (adam, 6 ans)."
 slug: "djamila"
 prenom: "Djamila"
 date_naissance: "1989-05-06"
 profession: "Travailleuse sociale dans une association d'aide aux femmes"
 situation: "Séparée, en reconstruction, un fils (adam, 6 ans)"
-nb_articles: 4
-weight: 8
+nb_articles: 5
+weight: 1
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Djamila identifie concrètement son biais de confirmation, comprenant que son passé traumatique avec Samir active une hypervigilance qui transforme des détails neutres en preuves de manipulation.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-confirmation-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/sentiment-injustice-conflit-reconstruction-post-toxique/">Surmonter le sentiment d'injustice en situation de conflit</a></h3>
+    <div class="parcours-date">2026-03-27</div>
+    <p class="parcours-resume">Djamila se trouve dans les bureaux de son association pour défendre le dossier de relogement d'une famille face à Antoine, son coordinateur. L'indifférence de ce dernier, qui l'ignore en consultant son téléphone, déclenche chez elle un profond sentiment d'injustice et réactive les traumatismes liés au mépris de son ex-conjoint, Samir.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Djamila prend conscience que sa colère actuelle est amplifiée par son passé de victimisation et son hypervigilance. Elle parvient à identifier que son sentiment d'injustice active des mécanismes de défense anciens, comme la rumination et le besoin de réparation, tout en essayant de ne pas basculer dans l'explosion verbale.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/sentiment-injustice-conflit-reconstruction-post-toxique/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

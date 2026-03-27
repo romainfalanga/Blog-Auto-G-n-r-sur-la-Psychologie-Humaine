@@ -2027,6 +2027,102 @@
       },
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-03-27",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de négativité",
+      "contexte": "face à une décision importante",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "contrôlant(e)",
+      "prenom": "Camille",
+      "age": "42 ans",
+      "title": "Biais de négativité face à une décision importante : comprendre",
+      "slug": "biais-negativite-face-decision-importante-camille",
+      "tags": [
+        "psychologie",
+        "prise de décision",
+        "neurosciences",
+        "charge mentale",
+        "bien-être"
+      ],
+      "resume_narratif": "Camille, infirmière en cardiologie, hésite à accepter un poste de cadre de santé malgré les bénéfices pour sa vie de famille avec Léo et Emma. Assise dans les vestiaires de l'hôpital, elle est paralysée par la peur des responsabilités et des conflits potentiels, occultant ses réussites passées.",
+      "evolution": "Camille identifie que son cerveau subit un biais de négativité qui amplifie les risques au détriment des avantages. Elle prend conscience que son indécision est nourrie par une exigence maternelle ancienne et une difficulté à s'attribuer ses propres succès.",
+      "elements_cles": "Service de cardiologie ; enfants (Léo et Emma) ; conjoint (David) ; mère (Françoise) ; réussite médicale du 18 mars ; fatigue de compassion ; technique de nomination des scénarios catastrophes.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-03-27",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "sentiment d'injustice",
+      "contexte": "en situation de conflit",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "survivant(e) de relation toxique",
+      "prenom": "Djamila",
+      "age": "36 ans",
+      "title": "Surmonter le sentiment d'injustice en situation de conflit",
+      "slug": "sentiment-injustice-conflit-reconstruction-post-toxique",
+      "tags": [
+        "psychologie",
+        "injustice",
+        "conflit",
+        "relation toxique",
+        "gestion des émotions"
+      ],
+      "resume_narratif": "Djamila se trouve dans les bureaux de son association pour défendre le dossier de relogement d'une famille face à Antoine, son coordinateur. L'indifférence de ce dernier, qui l'ignore en consultant son téléphone, déclenche chez elle un profond sentiment d'injustice et réactive les traumatismes liés au mépris de son ex-conjoint, Samir.",
+      "evolution": "Djamila prend conscience que sa colère actuelle est amplifiée par son passé de victimisation et son hypervigilance. Elle parvient à identifier que son sentiment d'injustice active des mécanismes de défense anciens, comme la rumination et le besoin de réparation, tout en essayant de ne pas basculer dans l'explosion verbale.",
+      "elements_cles": {
+        "personnages": [
+          "Djamila",
+          "Antoine (coordinateur)",
+          "Samir (ex-conjoint mentionné)"
+        ],
+        "lieux": [
+          "Bureau de l'association",
+          "Table en bois mélaminé"
+        ],
+        "objets_symboliques": [
+          "Foulard de soie émeraude",
+          "Téléphone d'Antoine",
+          "Dossiers de relogement"
+        ],
+        "concepts_psychologiques": [
+          "Sentiment d'injustice",
+          "Croyance en un monde juste",
+          "Hypervigilance",
+          "Biais de confirmation"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-03-27",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "isolement social/aliénation",
+      "contexte": "en société et dans les interactions sociales",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "timide",
+      "prenom": "Monique",
+      "age": "62 ans",
+      "title": "Isolement social et aliénation : comprendre et s'ouvrir au monde",
+      "slug": "isolement-social-alienation-interactions-societe",
+      "tags": [
+        "isolement social",
+        "aliénation",
+        "psychologie",
+        "enfance",
+        "solitude"
+      ],
+      "resume_narratif": "Seule dans sa cuisine en préparant un bœuf bourguignon, Monique se sent déconnectée du monde et hésite à se rendre à une invitation chez sa voisine Geneviève. Malgré un message d'encouragement de sa fille Isabelle, elle lutte contre l'envie de s'isoler pour protéger sa vulnérabilité.",
+      "evolution": "Monique identifie son anxiété sociale comme une armure héritée de son éducation, comprenant que son sentiment d'imposture et son retrait préventif sont les barreaux d'une cellule qu'elle a elle-même forgée.",
+      "elements_cles": "Invitation chez Geneviève (voisine), message d'Isabelle (fille), deuil de Jean-Claude, bénévolat à la bibliothèque, collier de perles de sa mère, concept d'aliénation de Melvin Seeman.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

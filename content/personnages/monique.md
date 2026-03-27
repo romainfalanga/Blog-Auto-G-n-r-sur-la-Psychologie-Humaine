@@ -1,14 +1,14 @@
 ---
 title: "Monique"
-date: 2026-03-26T04:45:46+00:00
+date: 2026-03-27T04:53:16+00:00
 description: "Monique est retraitée, ancienne professeure de français. Veuve depuis 3 ans, deux enfants adultes, trois petits-enfants."
 slug: "monique"
 prenom: "Monique"
 date_naissance: "1964-01-30"
 profession: "Retraitée, ancienne professeure de français"
 situation: "Veuve depuis 3 ans, deux enfants adultes, trois petits-enfants"
-nb_articles: 3
-weight: 14
+nb_articles: 4
+weight: 9
 draft: false
 ---
 
@@ -46,5 +46,16 @@ draft: false
       <p>Monique identifie son pessimisme comme un héritage maternel et un mécanisme de défense visant à anticiper la déception. Elle réalise que cette vision du monde, bien qu'elle lui donne une illusion de contrôle, est une forme de paralysie qui la maintient dans la souffrance.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/negativite-pessimisme-parents-education-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-interactions-societe/">Isolement social et aliénation : comprendre et s'ouvrir au monde</a></h3>
+    <div class="parcours-date">2026-03-27</div>
+    <p class="parcours-resume">Seule dans sa cuisine en préparant un bœuf bourguignon, Monique se sent déconnectée du monde et hésite à se rendre à une invitation chez sa voisine Geneviève. Malgré un message d'encouragement de sa fille Isabelle, elle lutte contre l'envie de s'isoler pour protéger sa vulnérabilité.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Monique identifie son anxiété sociale comme une armure héritée de son éducation, comprenant que son sentiment d'imposture et son retrait préventif sont les barreaux d'une cellule qu'elle a elle-même forgée.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-interactions-societe/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
