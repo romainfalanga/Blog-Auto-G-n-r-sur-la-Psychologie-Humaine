@@ -1,6 +1,6 @@
 ---
 title: "Bernard"
-date: 2026-03-27T04:53:16+00:00
+date: 2026-03-28T04:33:56+00:00
 description: "Bernard est artisan ébéniste, atelier en campagne. Veuf depuis 5 ans, un fils avec qui les relations sont tendues."
 slug: "bernard"
 prenom: "Bernard"
@@ -8,7 +8,7 @@ date_naissance: "1967-08-21"
 profession: "Artisan ébéniste, atelier en campagne"
 situation: "Veuf depuis 5 ans, un fils avec qui les relations sont tendues"
 nb_articles: 3
-weight: 16
+weight: 19
 draft: false
 ---
 

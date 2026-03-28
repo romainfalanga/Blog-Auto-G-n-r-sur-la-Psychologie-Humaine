@@ -1,14 +1,14 @@
 ---
 title: "Karim"
-date: 2026-03-27T04:53:16+00:00
+date: 2026-03-28T04:33:56+00:00
 description: "Karim est entrepreneur, fondateur d'une PME de restauration. Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)."
 slug: "karim"
 prenom: "Karim"
 date_naissance: "1985-12-01"
 profession: "Entrepreneur, fondateur d'une pme de restauration"
 situation: "Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)"
-nb_articles: 2
-weight: 17
+nb_articles: 3
+weight: 15
 draft: false
 ---
 
@@ -35,5 +35,16 @@ draft: false
       <p>Karim réalise que son besoin d'adrénaline lié au succès professionnel est plus fort que sa volonté, prenant conscience que son manque de contrôle de soi sabote activement sa vie personnelle.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/controle-de-soi-insuffisant-travail/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/illusion-controle-manager/">Illusion de contrôle en tant que manager : quand le pouvoir est imaginaire</a></h3>
+    <div class="parcours-date">2026-03-28</div>
+    <p class="parcours-resume">Karim tente de jongler entre une réunion de négociation cruciale et le match de son fils Amine en manipulant son agenda de manière irréaliste. Malgré les messages de sa femme Sofia et le souvenir de moments familiaux manqués avec ses enfants Sami et Lina, il s'enferme dans une micro-optimisation logistique pour essayer de tout mener de front.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Karim commence à réaliser que sa confiance historique dans sa capacité à maîtriser toutes les variables est une illusion de contrôle qui nuit à sa vie familiale et à son efficacité managériale.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/illusion-controle-manager/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

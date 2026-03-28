@@ -1,14 +1,14 @@
 ---
 title: "Priya"
-date: 2026-03-27T04:53:16+00:00
+date: 2026-03-28T04:33:56+00:00
 description: "Priya est médecin généraliste en cabinet de ville. Célibataire, vit seule, relations épisodiques."
 slug: "priya"
 prenom: "Priya"
 date_naissance: "1993-03-11"
 profession: "Médecin généraliste en cabinet de ville"
 situation: "Célibataire, vit seule, relations épisodiques"
-nb_articles: 2
-weight: 18
+nb_articles: 3
+weight: 17
 draft: false
 ---
 
@@ -35,5 +35,16 @@ draft: false
       <p>Priya réalise que son besoin de contrôle clinique et son perfectionnisme sont des mécanismes de défense issus de son profil d'attachement évitant-dédaigneux. Elle commence à accepter sa vulnérabilité au lieu de la fuir par la technique, marquant un tournant dans sa pratique médicale et sa gestion émotionnelle.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/anxiete-face-maladie-blouse/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/trahison-en-amitie-impacts-quotidiens/">Trahison en amitié : comprendre ses impacts au quotidien</a></h3>
+    <div class="parcours-date">2026-03-28</div>
+    <p class="parcours-resume">Priya reçoit un message de son amie Julie mentionnant une rencontre fortuite avec Damien, son ex-partenaire manipulateur. Se sentant trahie par cette rupture de loyauté, elle décline froidement l'invitation de Julie et se réfugie dans son cabinet médical pour retrouver un sentiment de contrôle.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Priya identifie que cette situation réactive son attachement évitant et ses blessures passées, la poussant à utiliser son travail et l'hyper-productivité comme des remparts contre l'imprévisibilité relationnelle.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/trahison-en-amitie-impacts-quotidiens/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -1730,6 +1730,32 @@
             "evenements": "Signature impulsive d'un contrat doublant la visibilité de l'entreprise, réception d'un message sec de Sofia",
             "concepts": "Contrôle de soi insuffisant, gratification immédiate vs objectifs long terme"
           }
+        },
+        {
+          "date": "2026-03-28",
+          "sujet": "illusion de contrôle",
+          "contexte": "en tant que manager",
+          "category": "cat1_pensees",
+          "titre": "Illusion de contrôle en tant que manager : quand le pouvoir est imaginaire",
+          "slug": "illusion-controle-manager",
+          "resume_narratif": "Karim tente de jongler entre une réunion de négociation cruciale et le match de son fils Amine en manipulant son agenda de manière irréaliste. Malgré les messages de sa femme Sofia et le souvenir de moments familiaux manqués avec ses enfants Sami et Lina, il s'enferme dans une micro-optimisation logistique pour essayer de tout mener de front.",
+          "evolution": "Karim commence à réaliser que sa confiance historique dans sa capacité à maîtriser toutes les variables est une illusion de contrôle qui nuit à sa vie familiale et à son efficacité managériale.",
+          "elements_cles": {
+            "personnages_mentionnes": [
+              "Amine (fils)",
+              "Sofia (femme)",
+              "Sami (fils)",
+              "Lina (fille)",
+              "Romain (collègue)"
+            ],
+            "evenements_passes_regrettes": [
+              "Dent tombée de Sami manquée",
+              "Dîner d'anniversaire avec Sofia interrompu par un client",
+              "Spectacle de Lina manqué"
+            ],
+            "contexte_professionnel": "Ancien créateur d'entreprise habitué à tout gérer seul, actuellement manager avec une tendance à la micro-gestion.",
+            "decision_en_cours": "Tentative de caler une réunion fournisseur à 16h30 et un match à 18h en comptant sur une fluidité parfaite du trafic."
+          }
         }
       ],
       "genre": "M",
@@ -2061,6 +2087,36 @@
           "resume_narratif": "Tard le soir au cabinet médical, Priya traite un dossier de pathologie chronique qui réveille des souvenirs douloureux liés à la santé de son père, Raj. Pour masquer son anxiété, elle se réfugie dans une hyper-productivité rigide et une mise à distance émotionnelle, un comportement qu'elle observe également dans sa vie sentimentale.",
           "evolution": "Priya réalise que son besoin de contrôle clinique et son perfectionnisme sont des mécanismes de défense issus de son profil d'attachement évitant-dédaigneux. Elle commence à accepter sa vulnérabilité au lieu de la fuir par la technique, marquant un tournant dans sa pratique médicale et sa gestion émotionnelle.",
           "elements_cles": "Cabinet médical (20h10) ; Raj (père) et Anjali (mère) ; Julie (secrétaire) ; Damien (ex-compagnon) ; profil d'attachement évitant-dédaigneux ; technique d'observation des sensations physiques (nuque, mâchoire) ; mécanisme de l'hyper-productivité comme bouclier."
+        },
+        {
+          "date": "2026-03-28",
+          "sujet": "trahison",
+          "contexte": "en amitié",
+          "category": "cat2_emotions",
+          "titre": "Trahison en amitié : comprendre ses impacts au quotidien",
+          "slug": "trahison-en-amitie-impacts-quotidiens",
+          "resume_narratif": "Priya reçoit un message de son amie Julie mentionnant une rencontre fortuite avec Damien, son ex-partenaire manipulateur. Se sentant trahie par cette rupture de loyauté, elle décline froidement l'invitation de Julie et se réfugie dans son cabinet médical pour retrouver un sentiment de contrôle.",
+          "evolution": "Priya identifie que cette situation réactive son attachement évitant et ses blessures passées, la poussant à utiliser son travail et l'hyper-productivité comme des remparts contre l'imprévisibilité relationnelle.",
+          "elements_cles": {
+            "personnages": [
+              "Julie (amie)",
+              "Damien (ex-partenaire toxique)",
+              "Raj (père, mentionné via le dossier médical)"
+            ],
+            "lieux": [
+              "Parking du cabinet médical",
+              "Cabinet de Priya"
+            ],
+            "decisions": [
+              "Refus de voir Julie",
+              "Retrait social immédiat",
+              "Désactivation du système d'attachement"
+            ],
+            "passé": [
+              "Rupture difficile à 25 ans",
+              "Trauma de trahison lié à Damien"
+            ]
+          }
         }
       ],
       "genre": "F",
@@ -2519,6 +2575,23 @@
               "Inhibition relationnelle",
               "Génogramme (technique mentionnée)"
             ]
+          }
+        },
+        {
+          "date": "2026-03-28",
+          "sujet": "isolement social/aliénation",
+          "contexte": "face à la solitude",
+          "category": "cat3_schemas",
+          "titre": "Isolement social et aliénation face à la solitude",
+          "slug": "isolement-social-alienation-solitude",
+          "resume_narratif": "Le 28 mars 2026, Fabien observe la vie des autres depuis son balcon, confronté à un sentiment d'aliénation malgré une vie matérielle ordonnée. Il analyse la dissonance entre son aisance professionnelle en RH et son incapacité à s'intégrer dans des cercles informels, faisant le lien avec le silence émotionnel observé chez son père.",
+          "evolution": "Fabien identifie que sa solitude n'est pas qu'une habitude, mais une conviction profonde d'être inadapté aux groupes. Il comprend que son besoin de maîtrise et son héritage familial agissent comme des barrières à l'imprévu relationnel.",
+          "elements_cles": {
+            "date_evenement": "28 mars 2026",
+            "lieux": "Appartement de Fabien (balcon), bureau (contexte RH)",
+            "personnes_citees": "Véronique (ex-femme), son père (mutisme transgénérationnel)",
+            "concepts_identifies": "Aliénation identitaire, isolement actif, biais du coût irrécupérable (rappel du 8 mars)",
+            "decision": "Explorer l'origine de sa conviction de ne pas avoir sa place parmi les autres."
           }
         }
       ],
