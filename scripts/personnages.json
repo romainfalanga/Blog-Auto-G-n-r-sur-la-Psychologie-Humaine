@@ -929,7 +929,7 @@
       "prenom": "Margot",
       "age": 52,
       "tranche_age": "adulte en bilan de mi-vie (46-55 ans)",
-      "profession": "en reconversion professionnelle, ancienne directrice commerciale, se forme au coaching",
+      "profession": "coach (début d'activité)",
       "situation_familiale": "mariée à Philippe, deux enfants adultes partis de la maison (Martin, 26 ans et Chloé, 23 ans)",
       "traits_personnalite": [
         "volontaire",
@@ -1049,11 +1049,22 @@
           "resume_narratif": "Margot se retrouve paralysée devant de vieilles archives de sa carrière de directrice commerciale, incapable de s'en débarrasser malgré les conseils de sa mentor Sylvie. Alors que son compagnon Philippe lui propose une promenade, elle reste hantée par ses investissements passés à la veille de recevoir son premier client de coaching.",
           "evolution": "Margot prend conscience que son attachement matériel est une manifestation du biais du coût irrécupérable, où elle confond la conservation de dossiers inutiles avec la validation de sa valeur passée. Elle réalise qu'elle doit cesser de chercher un remboursement imaginaire de ses années de labeur pour embrasser sa nouvelle légitimité.",
           "elements_cles": "Anciens trophées et dossiers commerciaux (25 ans de carrière), Sylvie (mentor), Philippe (compagnon), premier client de coaching (prévu pour demain), driver 'Sois forte', bureau personnel."
+        },
+        {
+          "date": "2026-03-29",
+          "sujet": "croyances limitantes",
+          "contexte": "en période de reconversion professionnelle",
+          "category": "cat3_schemas",
+          "titre": "Croyances limitantes et reconversion : s'en libérer à 50 ans",
+          "slug": "croyances-limitantes-reconversion-professionnelle-methode",
+          "resume_narratif": "Margot, ancienne directrice commerciale de 50 ans en reconversion, s'apprête à recevoir sa toute première cliente dans son bureau à domicile. Malgré le soutien de son mari Philippe et les encouragements de sa mentor Sylvie, elle est paralysée par le doute et le sentiment d'être une imposture.",
+          "evolution": "Elle identifie que son blocage provient de son driver 'sois parfaite' et de la croyance limitante que son passé commercial invalide sa légitimité en tant que coach. Elle prend conscience que son cerveau utilise ces pensées comme un mécanisme de protection contre l'échec.",
+          "elements_cles": "Bureau aménagé à domicile (anciennement archives) ; Philippe (mari) ; Sylvie (mentor) ; Martin et Chloé (enfants ayant quitté le foyer) ; Driver 'sois parfaite' ; 25 ans de carrière commerciale."
         }
       ],
       "genre": "F",
       "date_naissance": "1973-07-23",
-      "description_dynamique": "Margot est en reconversion professionnelle, ancienne directrice commerciale, se forme au coaching. Mariée à philippe, deux enfants adultes partis de la maison (martin, 26 ans et chloé, 23 ans)."
+      "description_dynamique": "Margot est une ancienne directrice commerciale qui débute son activité de coach. Mariée à Philippe, elle vit le départ de ses deux enfants adultes tout en luttant contre ses croyances limitantes."
     },
     {
       "id": "youssef",
@@ -1315,6 +1326,17 @@
               "Fatigue de compassion"
             ]
           }
+        },
+        {
+          "date": "2026-03-29",
+          "sujet": "fatigue de compassion",
+          "contexte": "au travail",
+          "category": "cat2_emotions",
+          "titre": "Fatigue de compassion au travail : conséquences au quotidien",
+          "slug": "fatigue-compassion-travail-consequences",
+          "resume_narratif": "Isabelle, psychologue scolaire, termine une journée éprouvante marquée par l'accueil de trois élèves en crise. Épuisée et émotionnellement engourdie, elle peine à rédiger ses rapports et redoute de ne plus avoir d'énergie pour son fils Théo.",
+          "evolution": "Elle identifie son état comme de la fatigue de compassion et comprend que son épuisement professionnel réactive son schéma d'enfant parentifiée qui régulait autrefois les conflits de ses parents.",
+          "elements_cles": "Théo (son fils), Aurélie (relation source d'anxiété), Geneviève (sa mère), bureau scolaire, antécédents d'attachement anxieux, symptômes d'hypervigilance nocturne."
         }
       ],
       "genre": "F",
@@ -2693,6 +2715,17 @@
           "resume_narratif": "Lors d'un dîner au restaurant familial avec ses parents, Li et Wei, Mei dissimule son carnet de croquis tout en feignant d'accepter leurs injonctions sur une carrière en médecine. Malgré la pression de son père, elle utilise l'ancrage physique et l'identification de ses émotions pour maintenir son calme face à leurs attentes.",
           "evolution": "Mei a pris conscience que sa docilité et son perfectionnisme sont des manifestations d'un 'faux self' construit pour plaire à ses parents. Elle commence à identifier ses peurs en temps réel, ce qui lui donne une nouvelle marge de manœuvre pour protéger son identité artistique.",
           "elements_cles": "Restaurant familial ; carnet de croquis (dessins d'ombres denses) ; Li (mère) et Wei (père) ; Océane (amie offrant son soutien) ; souvenir du vernissage de la semaine dernière ; technique d'identification des émotions (nommer la peur) ; tension entre illustration et médecine."
+        },
+        {
+          "date": "2026-03-29",
+          "sujet": "effet spotlight",
+          "contexte": "à l'école ou aux études",
+          "category": "cat1_pensees",
+          "titre": "Effet spotlight à l'école : quand on se sent trop observé",
+          "slug": "effet-spotlight-ecole-etudes",
+          "resume_narratif": "Lors d'un cours de dessin le lundi 29 mars 2026, Mei se sent paralysée par l'impression que tous ses camarades et son professeur, M. Dubois, scrutent ses moindres erreurs. Malgré un signe amical d'Océane, elle reste figée par l'effet spotlight, projetant sur l'atelier la pression à la perfection qu'elle subit habituellement lors des dîners avec ses parents, Li et Wei.",
+          "evolution": "Mei identifie que sa peur du jugement est une distorsion cognitive appelée l'effet spotlight, réalisant que son besoin de se cacher est un vestige de son 'faux self' développé pour satisfaire ses parents.",
+          "elements_cles": "Atelier d'art (sol béton, radio); M. Dubois (professeur); Océane (camarade); Li et Wei (parents); date du 29 mars 2026; carnet serré contre la cuisse; tache de graphite sur le pouce."
         }
       ],
       "genre": "F",

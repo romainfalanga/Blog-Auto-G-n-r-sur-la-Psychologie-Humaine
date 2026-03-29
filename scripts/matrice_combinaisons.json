@@ -2238,6 +2238,81 @@
       },
       "strategie_coherence": "approfondir",
       "apport_psychologique": "Cet article montre que le silence de Fabien n'est pas qu'une habitude, mais une conviction profonde d'être inadapté aux groupes, transformant son appartement 'neuf' en une forteresse d'aliénation volontaire."
+    },
+    {
+      "date": "2026-03-29",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet spotlight",
+      "contexte": "à l'école ou aux études",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Mei",
+      "age": "22 ans",
+      "title": "Effet spotlight à l'école : quand on se sent trop observé",
+      "slug": "effet-spotlight-ecole-etudes",
+      "tags": [
+        "effet spotlight",
+        "anxiété sociale",
+        "études",
+        "psychologie",
+        "techniques pratiques"
+      ],
+      "resume_narratif": "Lors d'un cours de dessin le lundi 29 mars 2026, Mei se sent paralysée par l'impression que tous ses camarades et son professeur, M. Dubois, scrutent ses moindres erreurs. Malgré un signe amical d'Océane, elle reste figée par l'effet spotlight, projetant sur l'atelier la pression à la perfection qu'elle subit habituellement lors des dîners avec ses parents, Li et Wei.",
+      "evolution": "Mei identifie que sa peur du jugement est une distorsion cognitive appelée l'effet spotlight, réalisant que son besoin de se cacher est un vestige de son 'faux self' développé pour satisfaire ses parents.",
+      "elements_cles": "Atelier d'art (sol béton, radio); M. Dubois (professeur); Océane (camarade); Li et Wei (parents); date du 29 mars 2026; carnet serré contre la cuisse; tache de graphite sur le pouce.",
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "Cet article montre que l'anxiété sociale de Mei n'est pas qu'une émotion, mais une erreur de perception de l'attention d'autrui, renforçant la cohérence de son évitement en classe."
+    },
+    {
+      "date": "2026-03-29",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "fatigue de compassion",
+      "contexte": "au travail",
+      "angle": "les conséquences sur votre vie quotidienne",
+      "profil": null,
+      "prenom": "Isabelle",
+      "age": "47 ans",
+      "title": "Fatigue de compassion au travail : conséquences au quotidien",
+      "slug": "fatigue-compassion-travail-consequences",
+      "tags": [
+        "fatigue de compassion",
+        "empathie",
+        "psychologie scolaire",
+        "limites émotionnelles",
+        "bien-être au travail"
+      ],
+      "resume_narratif": "Isabelle, psychologue scolaire, termine une journée éprouvante marquée par l'accueil de trois élèves en crise. Épuisée et émotionnellement engourdie, elle peine à rédiger ses rapports et redoute de ne plus avoir d'énergie pour son fils Théo.",
+      "evolution": "Elle identifie son état comme de la fatigue de compassion et comprend que son épuisement professionnel réactive son schéma d'enfant parentifiée qui régulait autrefois les conflits de ses parents.",
+      "elements_cles": "Théo (son fils), Aurélie (relation source d'anxiété), Geneviève (sa mère), bureau scolaire, antécédents d'attachement anxieux, symptômes d'hypervigilance nocturne.",
+      "strategie_coherence": "connecter",
+      "apport_psychologique": "On établit un lien direct entre son rôle de 'petite adulte' historique et sa difficulté actuelle à poser des limites émotionnelles avec les élèves en détresse, rationalisant son sentiment de saturation."
+    },
+    {
+      "date": "2026-03-29",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "croyances limitantes",
+      "contexte": "en période de reconversion professionnelle",
+      "angle": "comment s'en libérer concrètement",
+      "profil": null,
+      "prenom": "Margot",
+      "age": "52 ans",
+      "title": "Croyances limitantes et reconversion : s'en libérer à 50 ans",
+      "slug": "croyances-limitantes-reconversion-professionnelle-methode",
+      "tags": [
+        "croyances limitantes",
+        "reconversion professionnelle",
+        "psychologie",
+        "confiance en soi",
+        "changement de vie"
+      ],
+      "resume_narratif": "Margot, ancienne directrice commerciale de 50 ans en reconversion, s'apprête à recevoir sa toute première cliente dans son bureau à domicile. Malgré le soutien de son mari Philippe et les encouragements de sa mentor Sylvie, elle est paralysée par le doute et le sentiment d'être une imposture.",
+      "evolution": "Elle identifie que son blocage provient de son driver 'sois parfaite' et de la croyance limitante que son passé commercial invalide sa légitimité en tant que coach. Elle prend conscience que son cerveau utilise ces pensées comme un mécanisme de protection contre l'échec.",
+      "elements_cles": "Bureau aménagé à domicile (anciennement archives) ; Philippe (mari) ; Sylvie (mentor) ; Martin et Chloé (enfants ayant quitté le foyer) ; Driver 'sois parfaite' ; 25 ans de carrière commerciale.",
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "L'article enrichit son parcours de reconversion en identifiant les 'vérités' internes qu'elle s'impose, transformant ses doutes diffus en obstacles cognitifs identifiables et surmontables."
     }
   ]
 }

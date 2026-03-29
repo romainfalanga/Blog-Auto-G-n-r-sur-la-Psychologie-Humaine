@@ -1,14 +1,14 @@
 ---
 title: "Mei"
-date: 2026-03-28T04:33:56+00:00
+date: 2026-03-29T04:49:51+00:00
 description: "Mei est étudiante en école d'art, spécialité illustration. Célibataire, vit en résidence étudiante."
 slug: "mei"
 prenom: "Mei"
 date_naissance: "2003-07-02"
 profession: "Étudiante en école d'art, spécialité illustration"
 situation: "Célibataire, vit en résidence étudiante"
-nb_articles: 2
-weight: 20
+nb_articles: 3
+weight: 19
 draft: false
 ---
 
@@ -35,5 +35,16 @@ draft: false
       <p>Mei a pris conscience que sa docilité et son perfectionnisme sont des manifestations d'un 'faux self' construit pour plaire à ses parents. Elle commence à identifier ses peurs en temps réel, ce qui lui donne une nouvelle marge de manœuvre pour protéger son identité artistique.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/faux-self-winnicott-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-ecole-etudes/">Effet spotlight à l'école : quand on se sent trop observé</a></h3>
+    <div class="parcours-date">2026-03-29</div>
+    <p class="parcours-resume">Lors d'un cours de dessin le lundi 29 mars 2026, Mei se sent paralysée par l'impression que tous ses camarades et son professeur, M. Dubois, scrutent ses moindres erreurs. Malgré un signe amical d'Océane, elle reste figée par l'effet spotlight, projetant sur l'atelier la pression à la perfection qu'elle subit habituellement lors des dîners avec ses parents, Li et Wei.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Mei identifie que sa peur du jugement est une distorsion cognitive appelée l'effet spotlight, réalisant que son besoin de se cacher est un vestige de son 'faux self' développé pour satisfaire ses parents.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-ecole-etudes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

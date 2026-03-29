@@ -1,14 +1,14 @@
 ---
 title: "Margot"
-date: 2026-03-28T04:33:56+00:00
-description: "Margot est en reconversion professionnelle, ancienne directrice commerciale, se forme au coaching. Mariée à philippe, deux enfants adultes partis de la maison (martin, 26 ans et chloé, 23 ans)."
+date: 2026-03-29T04:49:51+00:00
+description: "Margot est une ancienne directrice commerciale qui débute son activité de coach. Mariée à Philippe, elle vit le départ de ses deux enfants adultes tout en luttant contre ses croyances limitantes."
 slug: "margot"
 prenom: "Margot"
 date_naissance: "1973-07-23"
-profession: "En reconversion professionnelle, ancienne directrice commerciale, se forme au coaching"
+profession: "Coach (début d'activité)"
 situation: "Mariée à philippe, deux enfants adultes partis de la maison (martin, 26 ans et chloé, 23 ans)"
-nb_articles: 3
-weight: 12
+nb_articles: 4
+weight: 7
 draft: false
 ---
 
@@ -46,5 +46,16 @@ draft: false
       <p>Margot prend conscience que son attachement matériel est une manifestation du biais du coût irrécupérable, où elle confond la conservation de dossiers inutiles avec la validation de sa valeur passée. Elle réalise qu'elle doit cesser de chercher un remboursement imaginaire de ses années de labeur pour embrasser sa nouvelle légitimité.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-cout-irrecuperable-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/croyances-limitantes-reconversion-professionnelle-methode/">Croyances limitantes et reconversion : s'en libérer à 50 ans</a></h3>
+    <div class="parcours-date">2026-03-29</div>
+    <p class="parcours-resume">Margot, ancienne directrice commerciale de 50 ans en reconversion, s'apprête à recevoir sa toute première cliente dans son bureau à domicile. Malgré le soutien de son mari Philippe et les encouragements de sa mentor Sylvie, elle est paralysée par le doute et le sentiment d'être une imposture.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Elle identifie que son blocage provient de son driver 'sois parfaite' et de la croyance limitante que son passé commercial invalide sa légitimité en tant que coach. Elle prend conscience que son cerveau utilise ces pensées comme un mécanisme de protection contre l'échec.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/croyances-limitantes-reconversion-professionnelle-methode/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
