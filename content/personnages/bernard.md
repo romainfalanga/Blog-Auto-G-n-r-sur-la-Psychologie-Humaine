@@ -1,14 +1,14 @@
 ---
 title: "Bernard"
-date: 2026-03-29T04:49:51+00:00
+date: 2026-03-30T05:04:57+00:00
 description: "Bernard est artisan ébéniste, atelier en campagne. Veuf depuis 5 ans, un fils avec qui les relations sont tendues."
 slug: "bernard"
 prenom: "Bernard"
 date_naissance: "1967-08-21"
 profession: "Artisan ébéniste, atelier en campagne"
 situation: "Veuf depuis 5 ans, un fils avec qui les relations sont tendues"
-nb_articles: 3
-weight: 20
+nb_articles: 4
+weight: 15
 draft: false
 ---
 
@@ -46,5 +46,16 @@ draft: false
       <p>Bernard prend conscience que son mutisme et son habitude de matérialiser son amour par des objets ont transformé son atelier en une cellule d'isolement, créant une distance émotionnelle avec ses enfants.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/manque-affectif-enfants-causes/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-autruche-deuil-comprendre-evitement/">Biais de l'autruche lors d'un deuil : comprendre le déni</a></h3>
+    <div class="parcours-date">2026-03-30</div>
+    <p class="parcours-resume">Bernard, un artisan menuisier vivant avec son chien Sultan, évite d'ouvrir une enveloppe notariale concernant la succession de sa femme Hélène. Il s'immerge dans son travail pour ignorer les sollicitations de son fils Éric qui tente de régler les détails administratifs et matériels du deuil.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Bernard prend conscience qu'il pratique un tri sélectif de la réalité pour se protéger de la douleur, utilisant son atelier comme un refuge pour maintenir sa femme dans une zone grise temporelle.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-autruche-deuil-comprendre-evitement/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -1,14 +1,14 @@
 ---
 title: "Patrick"
-date: 2026-03-29T04:49:51+00:00
+date: 2026-03-30T05:04:57+00:00
 description: "Patrick est ancien ouvrier, maintenant chef d'équipe dans le BTP. Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils."
 slug: "patrick"
 prenom: "Patrick"
 date_naissance: "1969-10-28"
 profession: "Ancien ouvrier, maintenant chef d'équipe dans le btp"
 situation: "Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils"
-nb_articles: 3
-weight: 14
+nb_articles: 4
+weight: 11
 draft: false
 ---
 
@@ -46,5 +46,16 @@ draft: false
       <p>Patrick commence à briser l'armure de force héritée de son père en acceptant sa fragilité physique et émotionnelle. Il comprend que son silence passé a créé une distance avec ses proches et choisit l'authenticité plutôt que la performance.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-face-au-vieillissement-accepter-limites/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nostalgie-face-a-la-solitude-comprendre-emotions/">Nostalgie face à la solitude : comprendre et mieux vivre</a></h3>
+    <div class="parcours-date">2026-03-30</div>
+    <p class="parcours-resume">Seul dans son garage, Patrick manipule les vieux outils de son père Marcel tout en faisant face au silence de sa maison depuis le départ de ses enfants. Confronté à ses propres limites physiques et à la solitude, il se remémore des moments de vulnérabilité récents, comme son incapacité à ouvrir un bocal devant sa femme Catherine.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Patrick commence à déconstruire le modèle de dureté hérité de son père pour accepter sa propre vulnérabilité, réalisant que la nostalgie est un pont nécessaire entre l'homme fort qu'il était et celui qu'il devient.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/nostalgie-face-a-la-solitude-comprendre-emotions/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

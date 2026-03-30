@@ -1,6 +1,6 @@
 ---
 title: "Léa"
-date: 2026-03-29T04:49:51+00:00
+date: 2026-03-30T05:04:57+00:00
 description: "Léa est étudiante en master de psychologie clinique. Célibataire, vit en studio étudiant."
 slug: "lea"
 prenom: "Léa"
@@ -8,7 +8,7 @@ date_naissance: "2002-11-12"
 profession: "Étudiante en master de psychologie clinique"
 situation: "Célibataire, vit en studio étudiant"
 nb_articles: 4
-weight: 10
+weight: 12
 draft: false
 ---
 

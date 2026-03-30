@@ -129,6 +129,17 @@
             "evenements_futurs": "Réunion technique le lendemain, finalisation d'une proposition de candidature",
             "references_passees": "Article du 15 mars, épisode sur l'effet Dunning-Kruger"
           }
+        },
+        {
+          "date": "2026-03-30",
+          "sujet": "exigences élevées/critique excessive",
+          "contexte": "avec ses parents",
+          "category": "cat3_schemas",
+          "titre": "Exigences élevées et critique excessive avec ses parents",
+          "slug": "exigences-elevees-critique-excessive-parents",
+          "resume_narratif": "Lors d'un déjeuner dominical chez ses parents à Nantes, Sophie est confrontée à leurs questions pressantes concernant sa candidature à un poste de directrice technique. Malgré ses réussites en tant que développeuse web, elle se sent redevenir une petite fille soumise à un jugement constant, luttant contre son anxiété et son besoin de perfection.",
+          "evolution": "Sophie prend conscience que son épuisement mental ne vient pas seulement de l'attente d'une réponse professionnelle, mais d'un standard d'excellence invisible et rigide qu'elle s'impose pour se sentir digne de l'estime de ses parents.",
+          "elements_cles": "Parents (père ingénieur), Nantes (lieu du repas), Paris (lieu de résidence), Claire (amie/confidente), carnet de notes (outil de régulation émotionnelle), poste de directrice technique (en attente), vérification obsessionnelle du code informatique."
         }
       ],
       "genre": "F",
@@ -1462,6 +1473,22 @@
               "Abandon de la posture de 'roc'",
               "Acceptation du soutien physique et émotionnel de Catherine"
             ]
+          }
+        },
+        {
+          "date": "2026-03-30",
+          "sujet": "nostalgie",
+          "contexte": "face à la solitude",
+          "category": "cat2_emotions",
+          "titre": "Nostalgie face à la solitude : comprendre et mieux vivre",
+          "slug": "nostalgie-face-a-la-solitude-comprendre-emotions",
+          "resume_narratif": "Seul dans son garage, Patrick manipule les vieux outils de son père Marcel tout en faisant face au silence de sa maison depuis le départ de ses enfants. Confronté à ses propres limites physiques et à la solitude, il se remémore des moments de vulnérabilité récents, comme son incapacité à ouvrir un bocal devant sa femme Catherine.",
+          "evolution": "Patrick commence à déconstruire le modèle de dureté hérité de son père pour accepter sa propre vulnérabilité, réalisant que la nostalgie est un pont nécessaire entre l'homme fort qu'il était et celui qu'il devient.",
+          "elements_cles": {
+            "lieu": "Garage (odeur de sciure et d'huile)",
+            "objets_symboliques": "Niveau à bulle en aluminium de Marcel, photo de Julien enfant avec un marteau",
+            "personnages_mentionnes": "Marcel (père décédé), Catherine (épouse), Stéphanie et Julien (enfants)",
+            "conflit_interne": "Douleurs dorsales et perte de force physique vs modèle de virilité stoïque"
           }
         }
       ],
@@ -2861,6 +2888,17 @@
               "Amour matérialisé"
             ]
           }
+        },
+        {
+          "date": "2026-03-30",
+          "sujet": "biais de l'autruche",
+          "contexte": "lors d'un deuil",
+          "category": "cat1_pensees",
+          "titre": "Biais de l'autruche lors d'un deuil : comprendre le déni",
+          "slug": "biais-autruche-deuil-comprendre-evitement",
+          "resume_narratif": "Bernard, un artisan menuisier vivant avec son chien Sultan, évite d'ouvrir une enveloppe notariale concernant la succession de sa femme Hélène. Il s'immerge dans son travail pour ignorer les sollicitations de son fils Éric qui tente de régler les détails administratifs et matériels du deuil.",
+          "evolution": "Bernard prend conscience qu'il pratique un tri sélectif de la réalité pour se protéger de la douleur, utilisant son atelier comme un refuge pour maintenir sa femme dans une zone grise temporelle.",
+          "elements_cles": "Atelier de menuiserie en campagne française, Sultan (labrador), Éric (fils), enveloppe du notaire non ouverte, date du 30 mars 2026, mécanisme de défense issu de l'enfance (fuite face aux parents)."
         }
       ],
       "genre": "M",
