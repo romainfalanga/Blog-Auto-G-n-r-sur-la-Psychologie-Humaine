@@ -1,6 +1,6 @@
 ---
 title: "Margot"
-date: 2026-03-30T05:04:57+00:00
+date: 2026-03-31T04:55:44+00:00
 description: "Margot est une ancienne directrice commerciale qui débute son activité de coach. Mariée à Philippe, elle vit le départ de ses deux enfants adultes tout en luttant contre ses croyances limitantes."
 slug: "margot"
 prenom: "Margot"
@@ -8,7 +8,7 @@ date_naissance: "1973-07-23"
 profession: "Coach (début d'activité)"
 situation: "Mariée à philippe, deux enfants adultes partis de la maison (martin, 26 ans et chloé, 23 ans)"
 nb_articles: 4
-weight: 8
+weight: 9
 draft: false
 ---
 

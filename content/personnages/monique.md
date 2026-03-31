@@ -1,14 +1,14 @@
 ---
 title: "Monique"
-date: 2026-03-30T05:04:57+00:00
+date: 2026-03-31T04:55:44+00:00
 description: "Monique est retraitée, ancienne professeure de français. Veuve depuis 3 ans, deux enfants adultes, trois petits-enfants."
 slug: "monique"
 prenom: "Monique"
 date_naissance: "1964-01-30"
 profession: "Retraitée, ancienne professeure de français"
 situation: "Veuve depuis 3 ans, deux enfants adultes, trois petits-enfants"
-nb_articles: 4
-weight: 13
+nb_articles: 5
+weight: 1
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Monique identifie son anxiété sociale comme une armure héritée de son éducation, comprenant que son sentiment d'imposture et son retrait préventif sont les barreaux d'une cellule qu'elle a elle-même forgée.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-interactions-societe/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/gratitude-face-a-l-argent-et-aux-finances/">Gratitude face à l'argent et aux finances : changer de regard</a></h3>
+    <div class="parcours-date">2026-03-31</div>
+    <p class="parcours-resume">Seule dans sa maison depuis le décès de Jean-Claude, Monique ressent une angoisse paralysante en traitant ses factures et ses comptes de mars. Malgré une situation financière stable, elle se laisse submerger par l'héritage psychologique de son père artisan, craignant de manquer de ressources ou de devenir une charge pour ses enfants, Isabelle et François.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Monique prend conscience que son anxiété financière est liée à son regard et à son éducation plutôt qu'aux chiffres réels. Elle commence à comprendre que la gratitude pourrait transformer sa perception du manque en une reconnaissance de l'utilité de ses ressources et de son autonomie.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/gratitude-face-a-l-argent-et-aux-finances/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

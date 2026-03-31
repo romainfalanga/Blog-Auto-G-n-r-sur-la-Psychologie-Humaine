@@ -1,6 +1,6 @@
 ---
 title: "Thomas"
-date: 2026-03-30T05:04:57+00:00
+date: 2026-03-31T04:55:44+00:00
 description: "Thomas est enseignant d'histoire-géographie au lycée. En couple avec émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité."
 slug: "thomas"
 prenom: "Thomas"
@@ -8,7 +8,7 @@ date_naissance: "1992-02-22"
 profession: "Enseignant d'histoire-géographie au lycée"
 situation: "En couple avec émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité"
 nb_articles: 4
-weight: 3
+weight: 4
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Fabien"
-date: 2026-03-30T05:04:57+00:00
+date: 2026-03-31T04:55:44+00:00
 description: "Fabien est cadre RH dans une entreprise industrielle. Divorcé depuis 2 ans, deux enfants (marine, 20 ans et lucas, 17 ans) chez leur mère."
 slug: "fabien"
 prenom: "Fabien"
@@ -8,7 +8,7 @@ date_naissance: "1975-06-19"
 profession: "Cadre rh dans une entreprise industrielle"
 situation: "Divorcé depuis 2 ans, deux enfants (marine, 20 ans et lucas, 17 ans) chez leur mère"
 nb_articles: 3
-weight: 19
+weight: 20
 draft: false
 ---
 

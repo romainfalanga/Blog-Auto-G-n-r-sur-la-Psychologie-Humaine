@@ -1,14 +1,14 @@
 ---
 title: "Mei"
-date: 2026-03-30T05:04:57+00:00
+date: 2026-03-31T04:55:44+00:00
 description: "Mei est étudiante en école d'art, spécialité illustration. Célibataire, vit en résidence étudiante."
 slug: "mei"
 prenom: "Mei"
 date_naissance: "2003-07-02"
 profession: "Étudiante en école d'art, spécialité illustration"
 situation: "Célibataire, vit en résidence étudiante"
-nb_articles: 3
-weight: 20
+nb_articles: 4
+weight: 16
 draft: false
 ---
 
@@ -46,5 +46,16 @@ draft: false
       <p>Mei identifie que sa peur du jugement est une distorsion cognitive appelée l'effet spotlight, réalisant que son besoin de se cacher est un vestige de son 'faux self' développé pour satisfaire ses parents.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-ecole-etudes/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/">Assujettissement face à l'autorité : s'affirmer enfin</a></h3>
+    <div class="parcours-date">2026-03-31</div>
+    <p class="parcours-resume">Le 31 mars 2026, Mei se rend dans le bureau de son professeur d'art, M. Dubois, pour présenter ses illustrations oniriques. Malgré sa volonté initiale de défendre son style personnel, elle se retrouve paralysée par son besoin de plaire et sa peur de l'autorité, prête à renoncer à sa vision artistique face au jugement du professeur.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Mei prend conscience que sa docilité et son besoin de validation sont des mécanismes de protection hérités de son enfance, agissant comme une armure trop étroite qui étouffe son identité et son intuition créative.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

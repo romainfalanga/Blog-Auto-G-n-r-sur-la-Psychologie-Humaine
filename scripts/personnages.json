@@ -1805,6 +1805,17 @@
             "contexte_professionnel": "Ancien créateur d'entreprise habitué à tout gérer seul, actuellement manager avec une tendance à la micro-gestion.",
             "decision_en_cours": "Tentative de caler une réunion fournisseur à 16h30 et un match à 18h en comptant sur une fluidité parfaite du trafic."
           }
+        },
+        {
+          "date": "2026-03-31",
+          "sujet": "biais d'engagement/escalade d'engagement",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Biais d'engagement : pourquoi on s'entête dans l'erreur",
+          "slug": "biais-engagement-escalade-decision-importante",
+          "resume_narratif": "Karim s'obstine à financer son troisième restaurant à Lyon malgré des dettes croissantes et les avertissements de son associé Romain. Cette escalade d'engagement le conduit à sacrifier sa vie de famille, manquant des moments clés avec ses enfants Amine, Lina et Sami.",
+          "evolution": "Karim prend conscience qu'il ne s'accroche plus par conviction, mais par peur d'admettre son échec face à ses proches et à son image de bâtisseur. Il réalise que sa micro-optimisation d'agenda n'était qu'une façade pour masquer son incapacité à stopper les pertes.",
+          "elements_cles": "Restaurant en périphérie de Lyon, Romain (associé), Sofia, famille (femme, Amine, Lina, Sami), père (ancien épicier), concept des coûts irrécupérables, décision de fermeture suggérée par Romain."
         }
       ],
       "genre": "M",
@@ -1925,6 +1936,39 @@
           "resume_narratif": "Seule dans sa cuisine en préparant un bœuf bourguignon, Monique se sent déconnectée du monde et hésite à se rendre à une invitation chez sa voisine Geneviève. Malgré un message d'encouragement de sa fille Isabelle, elle lutte contre l'envie de s'isoler pour protéger sa vulnérabilité.",
           "evolution": "Monique identifie son anxiété sociale comme une armure héritée de son éducation, comprenant que son sentiment d'imposture et son retrait préventif sont les barreaux d'une cellule qu'elle a elle-même forgée.",
           "elements_cles": "Invitation chez Geneviève (voisine), message d'Isabelle (fille), deuil de Jean-Claude, bénévolat à la bibliothèque, collier de perles de sa mère, concept d'aliénation de Melvin Seeman."
+        },
+        {
+          "date": "2026-03-31",
+          "sujet": "gratitude",
+          "contexte": "face à l'argent et aux finances",
+          "category": "cat2_emotions",
+          "titre": "Gratitude face à l'argent et aux finances : changer de regard",
+          "slug": "gratitude-face-a-l-argent-et-aux-finances",
+          "resume_narratif": "Seule dans sa maison depuis le décès de Jean-Claude, Monique ressent une angoisse paralysante en traitant ses factures et ses comptes de mars. Malgré une situation financière stable, elle se laisse submerger par l'héritage psychologique de son père artisan, craignant de manquer de ressources ou de devenir une charge pour ses enfants, Isabelle et François.",
+          "evolution": "Monique prend conscience que son anxiété financière est liée à son regard et à son éducation plutôt qu'aux chiffres réels. Elle commence à comprendre que la gratitude pourrait transformer sa perception du manque en une reconnaissance de l'utilité de ses ressources et de son autonomie.",
+          "elements_cles": {
+            "personnages": [
+              "Jean-Claude (défunt mari)",
+              "Isabelle (fille)",
+              "François (fils)",
+              "Père (artisan rigoureux)"
+            ],
+            "objets_et_lieux": [
+              "Maison familiale",
+              "Carnet de comptes hérité",
+              "Collier de perles",
+              "Facture de chaudière"
+            ],
+            "concepts_psychologiques": [
+              "Psychologie de la soustraction vs utilité",
+              "Réorientation cognitive",
+              "Pessimisme comme armure"
+            ],
+            "evenements_recents": [
+              "Visite au cimetière il y a dix jours",
+              "Peur irrationnelle d'une panne de voiture"
+            ]
+          }
         }
       ],
       "genre": "F",
@@ -2753,6 +2797,22 @@
           "resume_narratif": "Lors d'un cours de dessin le lundi 29 mars 2026, Mei se sent paralysée par l'impression que tous ses camarades et son professeur, M. Dubois, scrutent ses moindres erreurs. Malgré un signe amical d'Océane, elle reste figée par l'effet spotlight, projetant sur l'atelier la pression à la perfection qu'elle subit habituellement lors des dîners avec ses parents, Li et Wei.",
           "evolution": "Mei identifie que sa peur du jugement est une distorsion cognitive appelée l'effet spotlight, réalisant que son besoin de se cacher est un vestige de son 'faux self' développé pour satisfaire ses parents.",
           "elements_cles": "Atelier d'art (sol béton, radio); M. Dubois (professeur); Océane (camarade); Li et Wei (parents); date du 29 mars 2026; carnet serré contre la cuisse; tache de graphite sur le pouce."
+        },
+        {
+          "date": "2026-03-31",
+          "sujet": "assujettissement",
+          "contexte": "face à l'autorité",
+          "category": "cat3_schemas",
+          "titre": "Assujettissement face à l'autorité : s'affirmer enfin",
+          "slug": "assujettissement-face-a-l-autorite-se-liberer",
+          "resume_narratif": "Le 31 mars 2026, Mei se rend dans le bureau de son professeur d'art, M. Dubois, pour présenter ses illustrations oniriques. Malgré sa volonté initiale de défendre son style personnel, elle se retrouve paralysée par son besoin de plaire et sa peur de l'autorité, prête à renoncer à sa vision artistique face au jugement du professeur.",
+          "evolution": "Mei prend conscience que sa docilité et son besoin de validation sont des mécanismes de protection hérités de son enfance, agissant comme une armure trop étroite qui étouffe son identité et son intuition créative.",
+          "elements_cles": {
+            "date_et_lieu": "Mardi 31 mars 2026, école d'art (bureau de M. Dubois)",
+            "personnages_secondaires": "M. Dubois (professeur), Li et Wei (amis/proches), son père (figure d'autorité passée)",
+            "objets_et_symboles": "Carnet de croquis, illustrations oniriques bleues, chaise en bois qui grince",
+            "contexte_psychologique": "Schéma d'assujettissement, fille parentifiée, restaurant familial"
+          }
         }
       ],
       "genre": "F",

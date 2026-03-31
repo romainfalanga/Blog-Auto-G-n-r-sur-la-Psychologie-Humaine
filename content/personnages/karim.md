@@ -1,14 +1,14 @@
 ---
 title: "Karim"
-date: 2026-03-30T05:04:57+00:00
+date: 2026-03-31T04:55:44+00:00
 description: "Karim est entrepreneur, fondateur d'une PME de restauration. Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)."
 slug: "karim"
 prenom: "Karim"
 date_naissance: "1985-12-01"
 profession: "Entrepreneur, fondateur d'une pme de restauration"
 situation: "Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)"
-nb_articles: 3
-weight: 16
+nb_articles: 4
+weight: 14
 draft: false
 ---
 
@@ -46,5 +46,16 @@ draft: false
       <p>Karim commence à réaliser que sa confiance historique dans sa capacité à maîtriser toutes les variables est une illusion de contrôle qui nuit à sa vie familiale et à son efficacité managériale.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/illusion-controle-manager/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-engagement-escalade-decision-importante/">Biais d'engagement : pourquoi on s'entête dans l'erreur</a></h3>
+    <div class="parcours-date">2026-03-31</div>
+    <p class="parcours-resume">Karim s'obstine à financer son troisième restaurant à Lyon malgré des dettes croissantes et les avertissements de son associé Romain. Cette escalade d'engagement le conduit à sacrifier sa vie de famille, manquant des moments clés avec ses enfants Amine, Lina et Sami.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Karim prend conscience qu'il ne s'accroche plus par conviction, mais par peur d'admettre son échec face à ses proches et à son image de bâtisseur. Il réalise que sa micro-optimisation d'agenda n'était qu'une façade pour masquer son incapacité à stopper les pertes.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-engagement-escalade-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

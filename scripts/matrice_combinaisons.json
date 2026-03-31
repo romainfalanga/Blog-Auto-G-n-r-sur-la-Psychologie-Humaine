@@ -2393,6 +2393,108 @@
       "elements_cles": "Parents (père ingénieur), Nantes (lieu du repas), Paris (lieu de résidence), Claire (amie/confidente), carnet de notes (outil de régulation émotionnelle), poste de directrice technique (en attente), vérification obsessionnelle du code informatique.",
       "strategie_coherence": "approfondir",
       "apport_psychologique": "On passe d'un symptôme technique (le code parfait) à une structure de personnalité profonde. Cela démontre que son sentiment d'imposture est le résultat d'un standard interne inatteignable construit pour obtenir l'amour parental."
+    },
+    {
+      "date": "2026-03-31",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais d'engagement/escalade d'engagement",
+      "contexte": "face à une décision importante",
+      "angle": "pourquoi ça empire avec le temps si on ne fait rien",
+      "profil": "contrôlant(e)",
+      "prenom": "Karim",
+      "age": "40 ans",
+      "title": "Biais d'engagement : pourquoi on s'entête dans l'erreur",
+      "slug": "biais-engagement-escalade-decision-importante",
+      "tags": [
+        "psychologie cognitive",
+        "prise de décision",
+        "entrepreneuriat",
+        "biais d'engagement",
+        "psychologie du travail"
+      ],
+      "resume_narratif": "Karim s'obstine à financer son troisième restaurant à Lyon malgré des dettes croissantes et les avertissements de son associé Romain. Cette escalade d'engagement le conduit à sacrifier sa vie de famille, manquant des moments clés avec ses enfants Amine, Lina et Sami.",
+      "evolution": "Karim prend conscience qu'il ne s'accroche plus par conviction, mais par peur d'admettre son échec face à ses proches et à son image de bâtisseur. Il réalise que sa micro-optimisation d'agenda n'était qu'une façade pour masquer son incapacité à stopper les pertes.",
+      "elements_cles": "Restaurant en périphérie de Lyon, Romain (associé), Sofia, famille (femme, Amine, Lina, Sami), père (ancien épicier), concept des coûts irrécupérables, décision de fermeture suggérée par Romain.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-03-31",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "gratitude",
+      "contexte": "face à l'argent et aux finances",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "anxieux(se)",
+      "prenom": "Monique",
+      "age": "62 ans",
+      "title": "Gratitude face à l'argent et aux finances : changer de regard",
+      "slug": "gratitude-face-a-l-argent-et-aux-finances",
+      "tags": [
+        "gratitude",
+        "psychologie positive",
+        "finances personnelles",
+        "anxiété",
+        "éducation"
+      ],
+      "resume_narratif": "Seule dans sa maison depuis le décès de Jean-Claude, Monique ressent une angoisse paralysante en traitant ses factures et ses comptes de mars. Malgré une situation financière stable, elle se laisse submerger par l'héritage psychologique de son père artisan, craignant de manquer de ressources ou de devenir une charge pour ses enfants, Isabelle et François.",
+      "evolution": "Monique prend conscience que son anxiété financière est liée à son regard et à son éducation plutôt qu'aux chiffres réels. Elle commence à comprendre que la gratitude pourrait transformer sa perception du manque en une reconnaissance de l'utilité de ses ressources et de son autonomie.",
+      "elements_cles": {
+        "personnages": [
+          "Jean-Claude (défunt mari)",
+          "Isabelle (fille)",
+          "François (fils)",
+          "Père (artisan rigoureux)"
+        ],
+        "objets_et_lieux": [
+          "Maison familiale",
+          "Carnet de comptes hérité",
+          "Collier de perles",
+          "Facture de chaudière"
+        ],
+        "concepts_psychologiques": [
+          "Psychologie de la soustraction vs utilité",
+          "Réorientation cognitive",
+          "Pessimisme comme armure"
+        ],
+        "evenements_recents": [
+          "Visite au cimetière il y a dix jours",
+          "Peur irrationnelle d'une panne de voiture"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-03-31",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "assujettissement",
+      "contexte": "face à l'autorité",
+      "angle": "le témoignage (raconter l'histoire d'un personnage qui s'en sort)",
+      "profil": "ancien(ne) enfant parentifié(e)",
+      "prenom": "Mei",
+      "age": "22 ans",
+      "title": "Assujettissement face à l'autorité : s'affirmer enfin",
+      "slug": "assujettissement-face-a-l-autorite-se-liberer",
+      "tags": [
+        "assujettissement",
+        "autorité",
+        "psychologie",
+        "schémas",
+        "affirmation de soi"
+      ],
+      "resume_narratif": "Le 31 mars 2026, Mei se rend dans le bureau de son professeur d'art, M. Dubois, pour présenter ses illustrations oniriques. Malgré sa volonté initiale de défendre son style personnel, elle se retrouve paralysée par son besoin de plaire et sa peur de l'autorité, prête à renoncer à sa vision artistique face au jugement du professeur.",
+      "evolution": "Mei prend conscience que sa docilité et son besoin de validation sont des mécanismes de protection hérités de son enfance, agissant comme une armure trop étroite qui étouffe son identité et son intuition créative.",
+      "elements_cles": {
+        "date_et_lieu": "Mardi 31 mars 2026, école d'art (bureau de M. Dubois)",
+        "personnages_secondaires": "M. Dubois (professeur), Li et Wei (amis/proches), son père (figure d'autorité passée)",
+        "objets_et_symboles": "Carnet de croquis, illustrations oniriques bleues, chaise en bois qui grince",
+        "contexte_psychologique": "Schéma d'assujettissement, fille parentifiée, restaurant familial"
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }
