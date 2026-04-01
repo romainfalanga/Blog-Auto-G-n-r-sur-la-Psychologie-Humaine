@@ -1,14 +1,14 @@
 ---
 title: "Priya"
-date: 2026-03-31T04:55:44+00:00
+date: 2026-04-01T05:06:37+00:00
 description: "Priya est médecin généraliste en cabinet de ville. Célibataire, vit seule, relations épisodiques."
 slug: "priya"
 prenom: "Priya"
 date_naissance: "1993-03-11"
 profession: "Médecin généraliste en cabinet de ville"
 situation: "Célibataire, vit seule, relations épisodiques"
-nb_articles: 3
-weight: 19
+nb_articles: 4
+weight: 15
 draft: false
 ---
 
@@ -46,5 +46,16 @@ draft: false
       <p>Priya identifie que cette situation réactive son attachement évitant et ses blessures passées, la poussant à utiliser son travail et l'hyper-productivité comme des remparts contre l'imprévisibilité relationnelle.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/trahison-en-amitie-impacts-quotidiens/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-disponibilite-face-a-une-decision-importante/">Biais de disponibilité face à une décision importante : Priya</a></h3>
+    <div class="parcours-date">2026-04-01</div>
+    <p class="parcours-resume">Priya, médecin en garde hospitalière, doit choisir un nouvel associé pour son cabinet parmi trois candidats. Elle se retrouve paralysée par la méfiance envers le candidat Marc, dont le profil lui rappelle son ex-partenaire Damien, et par des lectures récentes sur des échecs associatifs.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Priya prend conscience que son jugement est altéré par le biais de disponibilité, transformant ses souvenirs émotionnels et ses lectures alarmistes en un filtre déformant qui alimente son anxiété et son besoin de contrôle.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-disponibilite-face-a-une-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

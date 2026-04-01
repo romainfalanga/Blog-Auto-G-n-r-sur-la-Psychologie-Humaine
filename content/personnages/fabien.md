@@ -1,14 +1,14 @@
 ---
 title: "Fabien"
-date: 2026-03-31T04:55:44+00:00
-description: "Fabien est cadre RH dans une entreprise industrielle. Divorcé depuis 2 ans, deux enfants (marine, 20 ans et lucas, 17 ans) chez leur mère."
+date: 2026-04-01T05:06:37+00:00
+description: "Fabien est cadre RH dans une entreprise industrielle. Divorcé, il vit désormais dans un nouvel appartement et s'efforce de reconstruire un dialogue empathique avec ses deux enfants."
 slug: "fabien"
 prenom: "Fabien"
 date_naissance: "1975-06-19"
 profession: "Cadre rh dans une entreprise industrielle"
-situation: "Divorcé depuis 2 ans, deux enfants (marine, 20 ans et lucas, 17 ans) chez leur mère"
-nb_articles: 3
-weight: 20
+situation: "Divorcé, a emménagé dans un nouvel appartement, deux enfants (marine, 20 ans et lucas, 17 ans)"
+nb_articles: 4
+weight: 17
 draft: false
 ---
 
@@ -46,5 +46,16 @@ draft: false
       <p>Fabien identifie que sa solitude n'est pas qu'une habitude, mais une conviction profonde d'être inadapté aux groupes. Il comprend que son besoin de maîtrise et son héritage familial agissent comme des barrières à l'imprévu relationnel.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-solitude/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/comprendre-envie-ecole-etudes-psychologie/">Comprendre l'envie dans les études : causes et solutions</a></h3>
+    <div class="parcours-date">2026-04-01</div>
+    <p class="parcours-resume">Dans son nouvel appartement, Fabien observe son fils Lucas qui éprouve de l'amertume face à la réussite d'un camarade admis en grande école. Témoin de cette tension silencieuse, Fabien se remémore ses propres années d'études marquées par la compétition et l'influence de son propre père.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Fabien délaisse son ancienne posture d'analyse froide et distante pour adopter une approche plus empathique, décidant d'ouvrir le dialogue avec son fils pour l'aider à décoder ce sentiment d'envie.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/comprendre-envie-ecole-etudes-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

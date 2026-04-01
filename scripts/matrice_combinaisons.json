@@ -2495,6 +2495,99 @@
       },
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-01",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de disponibilité",
+      "contexte": "face à une décision importante",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "contrôlant(e)",
+      "prenom": "Priya",
+      "age": "33 ans",
+      "title": "Biais de disponibilité face à une décision importante : Priya",
+      "slug": "biais-de-disponibilite-face-a-une-decision-importante",
+      "tags": [
+        "psychologie cognitive",
+        "prise de décision",
+        "biais cognitif",
+        "développement personnel",
+        "contrôle émotionnel"
+      ],
+      "resume_narratif": "Priya, médecin en garde hospitalière, doit choisir un nouvel associé pour son cabinet parmi trois candidats. Elle se retrouve paralysée par la méfiance envers le candidat Marc, dont le profil lui rappelle son ex-partenaire Damien, et par des lectures récentes sur des échecs associatifs.",
+      "evolution": "Priya prend conscience que son jugement est altéré par le biais de disponibilité, transformant ses souvenirs émotionnels et ses lectures alarmistes en un filtre déformant qui alimente son anxiété et son besoin de contrôle.",
+      "elements_cles": "Centre hospitalier (salle de garde), Cabinet de ville, Marc (candidat), Damien (ex-partenaire), Julie (amie), Raj (père de Priya), article sur un désastre judiciaire médical, raidissement de la nuque (signe de stress).",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-01",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "envie",
+      "contexte": "à l'école ou aux études",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Fabien",
+      "age": "50 ans",
+      "title": "Comprendre l'envie dans les études : causes et solutions",
+      "slug": "comprendre-envie-ecole-etudes-psychologie",
+      "tags": [
+        "envie",
+        "psychologie",
+        "éducation",
+        "comparaison sociale",
+        "émotions"
+      ],
+      "resume_narratif": "Dans son nouvel appartement, Fabien observe son fils Lucas qui éprouve de l'amertume face à la réussite d'un camarade admis en grande école. Témoin de cette tension silencieuse, Fabien se remémore ses propres années d'études marquées par la compétition et l'influence de son propre père.",
+      "evolution": "Fabien délaisse son ancienne posture d'analyse froide et distante pour adopter une approche plus empathique, décidant d'ouvrir le dialogue avec son fils pour l'aider à décoder ce sentiment d'envie.",
+      "elements_cles": "Lucas (fils), début avril, nouvel appartement, métier de cadre RH, passé marqué par un père autoritaire, transition d'une posture analytique vers une écoute émotionnelle.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-01",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "abnégation/sacrifice de soi",
+      "contexte": "en amitié",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "people pleaser (celui/celle qui veut plaire à tout le monde)",
+      "prenom": "Thomas",
+      "age": "34 ans",
+      "title": "Abnégation et sacrifice de soi en amitié : comment dire stop ?",
+      "slug": "abnegation-et-sacrifice-de-soi-en-amitie",
+      "tags": [
+        "abnégation",
+        "amitié",
+        "psychologie",
+        "limites",
+        "bien-être"
+      ],
+      "resume_narratif": "Thomas se retrouve tiraillé entre une demande pressante de son ami Antoine pour un déménagement et une promesse faite à sa compagne Émilie. Incapable de dire non par peur de décevoir, il finit par envoyer un message ambigu qui sacrifie son propre bien-être et son couple pour éviter le conflit.",
+      "evolution": "Thomas prend conscience que son abnégation est un schéma ancré depuis son enfance pour maintenir l'harmonie, mais il reste pour l'instant incapable de briser ce cycle de sacrifice de soi malgré la fatigue émotionnelle qu'il ressent.",
+      "elements_cles": {
+        "personnages": [
+          "Thomas",
+          "Antoine (ami d'enfance)",
+          "Émilie (compagne)",
+          "Valérie (collègue)",
+          "Le frère de Thomas"
+        ],
+        "lieux": [
+          "Lycée",
+          "Parking"
+        ],
+        "conflits_passes": [
+          "Paralysie au supermarché (choix du café)",
+          "Dîner tendu avec Émilie",
+          "Discussion sur le triangle de Karpman"
+        ],
+        "decision": "Acceptation tacite du déménagement d'Antoine au détriment de l'exposition avec Émilie."
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

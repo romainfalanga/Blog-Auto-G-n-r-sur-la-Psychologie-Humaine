@@ -1,14 +1,14 @@
 ---
 title: "Thomas"
-date: 2026-03-31T04:55:44+00:00
+date: 2026-04-01T05:06:37+00:00
 description: "Thomas est enseignant d'histoire-géographie au lycée. En couple avec émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité."
 slug: "thomas"
 prenom: "Thomas"
 date_naissance: "1992-02-22"
 profession: "Enseignant d'histoire-géographie au lycée"
 situation: "En couple avec émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité"
-nb_articles: 4
-weight: 4
+nb_articles: 5
+weight: 1
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Thomas prend conscience que son rapport à l'argent est dicté par un héritage familial de sacrifice et que sa culpabilité financière influence ses interactions sociales, le poussant à l'effacement de soi.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/culpabilite-face-a-l-argent-et-finances/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/abnegation-et-sacrifice-de-soi-en-amitie/">Abnégation et sacrifice de soi en amitié : comment dire stop ?</a></h3>
+    <div class="parcours-date">2026-04-01</div>
+    <p class="parcours-resume">Thomas se retrouve tiraillé entre une demande pressante de son ami Antoine pour un déménagement et une promesse faite à sa compagne Émilie. Incapable de dire non par peur de décevoir, il finit par envoyer un message ambigu qui sacrifie son propre bien-être et son couple pour éviter le conflit.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Thomas prend conscience que son abnégation est un schéma ancré depuis son enfance pour maintenir l'harmonie, mais il reste pour l'instant incapable de briser ce cycle de sacrifice de soi malgré la fatigue émotionnelle qu'il ressent.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/abnegation-et-sacrifice-de-soi-en-amitie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
