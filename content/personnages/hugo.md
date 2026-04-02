@@ -1,14 +1,14 @@
 ---
 title: "Hugo"
-date: 2026-04-01T05:06:37+00:00
+date: 2026-04-02T04:49:39+00:00
 description: "Hugo est musicien semi-professionnel et serveur pour payer les factures. En relation instable avec chloé, musicienne aussi."
 slug: "hugo"
 prenom: "Hugo"
 date_naissance: "1999-02-08"
 profession: "Musicien semi-professionnel et serveur pour payer les factures"
 situation: "En relation instable avec chloé, musicienne aussi"
-nb_articles: 3
-weight: 20
+nb_articles: 4
+weight: 15
 draft: false
 ---
 
@@ -46,5 +46,16 @@ draft: false
       <p>Hugo identifie son mécanisme de raisonnement émotionnel, réalisant que ses certitudes de rejet sont des projections de ses peurs d'enfance liées à son père, Alain. Il tente d'appliquer ses nouvelles connaissances en TCC pour ne pas transformer son ressenti en vérité absolue.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/raisonnement-emotionnel-en-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilité-couple-causes-solutions/">Abandon et instabilité en couple : comprendre ses schémas</a></h3>
+    <div class="parcours-date">2026-04-02</div>
+    <p class="parcours-resume">Le 02 avril 2026, lors d'une répétition musicale, Hugo réagit à un geste d'affection de Chloé par un retrait émotionnel brutal et une agressivité dans son jeu de guitare. Terrassé par l'angoisse que ce bonheur soit le prélude d'une catastrophe, il sabote volontairement l'harmonie du groupe pour se protéger d'un abandon futur.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Hugo identifie son mécanisme de raisonnement émotionnel et sa tendance à créer des prophéties autoréalisatrices, mais il reste pour l'instant incapable de briser le cycle de sabotage face à l'intimité.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilité-couple-causes-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

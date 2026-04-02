@@ -1,14 +1,14 @@
 ---
 title: "Léa"
-date: 2026-04-01T05:06:37+00:00
+date: 2026-04-02T04:49:39+00:00
 description: "Léa est étudiante en master de psychologie clinique. Célibataire, vit en studio étudiant."
 slug: "lea"
 prenom: "Léa"
 date_naissance: "2002-11-12"
 profession: "Étudiante en master de psychologie clinique"
 situation: "Célibataire, vit en studio étudiant"
-nb_articles: 4
-weight: 13
+nb_articles: 5
+weight: 3
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Léa parvient à identifier que sa réaction viscérale est liée à son schéma d'abandon issu du divorce de ses parents. Elle passe d'un besoin de 'sauver' les autres à une volonté lucide de protéger son territoire affectif tout en observant ses propres mécanismes de retrait.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jalousie-en-situation-de-conflit-comprendre-agir/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/lecture-de-pensee-en-amitie-psychologie/">Lecture de pensée en amitié : comment arrêter de deviner ?</a></h3>
+    <div class="parcours-date">2026-04-02</div>
+    <p class="parcours-resume">Léa observe son amie Zoé rire avec d'autres étudiants à la cafétéria de la faculté de psychologie. Persuadée que Zoé la critique et s'apprête à la remplacer, elle s'isole dans une spirale d'interprétations négatives basées sur de simples regards.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Léa réalise que sa prétendue intuition est en réalité une distorsion cognitive appelée 'lecture de pensée'. Elle comprend que ce mécanisme est une hyper-vigilance héritée du divorce de ses parents et de son passé d'enfant devant anticiper les crises familiales.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/lecture-de-pensee-en-amitie-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

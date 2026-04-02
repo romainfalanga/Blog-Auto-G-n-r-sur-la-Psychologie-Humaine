@@ -2588,6 +2588,81 @@
       },
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-02",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "lecture de pensée",
+      "contexte": "en amitié",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Léa",
+      "age": "23 ans",
+      "title": "Lecture de pensée en amitié : comment arrêter de deviner ?",
+      "slug": "lecture-de-pensee-en-amitie-psychologie",
+      "tags": [
+        "distorsions cognitives",
+        "amitié",
+        "relations saines",
+        "psychologie clinique",
+        "confiance en soi"
+      ],
+      "resume_narratif": "Léa observe son amie Zoé rire avec d'autres étudiants à la cafétéria de la faculté de psychologie. Persuadée que Zoé la critique et s'apprête à la remplacer, elle s'isole dans une spirale d'interprétations négatives basées sur de simples regards.",
+      "evolution": "Léa réalise que sa prétendue intuition est en réalité une distorsion cognitive appelée 'lecture de pensée'. Elle comprend que ce mécanisme est une hyper-vigilance héritée du divorce de ses parents et de son passé d'enfant devant anticiper les crises familiales.",
+      "elements_cles": "Lieu : cafétéria de la fac de psycho. Personnages : Zoé (amie), parents (mentionnés pour le trauma du divorce). Concept : lecture de pensée vs empathie. Passé : parentification précoce et peur de l'abandon.",
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "On passe du ressenti émotionnel (la jalousie, la déception) au mécanisme cognitif sous-jacent. L'article démontre comment son passé de 'parent médiateur' l'a entraînée à scanner les intentions d'autrui, créant des certitudes erronées qui alimentent son anxiété relationnelle."
+    },
+    {
+      "date": "2026-04-02",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "nostalgie",
+      "contexte": "avec ses enfants",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": null,
+      "prenom": "Margot",
+      "age": "52 ans",
+      "title": "Nostalgie avec ses enfants : comment l'apprivoiser à 50 ans ?",
+      "slug": "nostalgie-avec-ses-enfants-syndrome-nid-vide",
+      "tags": [
+        "nostalgie",
+        "parentalité",
+        "nid vide",
+        "psychologie",
+        "émotions"
+      ],
+      "resume_narratif": "Alors qu'elle nettoie son nouveau bureau de coaching, Margot découvre un ancien trophée de danse de sa fille Chloé. Ce souvenir déclenche une vague de nostalgie et une prise de conscience de la solitude liée au départ de ses enfants et à sa reconversion professionnelle.",
+      "evolution": "Margot réalise que son besoin de fusion avec ses enfants est une stratégie de fuite face à l'insécurité de sa nouvelle carrière. Elle comprend que ses drivers 'fais des efforts' et 'sois parfaite' influencent encore sa manière de gérer ce vide affectif.",
+      "elements_cles": "Ancienne chambre de Chloé transformée en bureau ; trophée de danse ; mari Philippe ; fils Martin (à Lyon) ; fille Chloé (à Paris) ; mentor Sylvie ; statut de coach débutante (ex-directrice commerciale).",
+      "strategie_coherence": "enrichir",
+      "apport_psychologique": "L'article distingue la nostalgie saine (ressource) de la mélancolie qui bloque le changement. Pour Margot, accepter que ses enfants soient adultes est la clé pour valider sa nouvelle identité de coach, libérée du rôle exclusif de 'mère protectrice'."
+    },
+    {
+      "date": "2026-04-02",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "abandon/instabilité",
+      "contexte": "en couple",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Hugo",
+      "age": "27 ans",
+      "title": "Abandon et instabilité en couple : comprendre ses schémas",
+      "slug": "abandon-instabilité-couple-causes-solutions",
+      "tags": [
+        "abandon",
+        "instabilité émotionnelle",
+        "psychologie de couple",
+        "schémas répétitifs",
+        "dépendance affective"
+      ],
+      "resume_narratif": "Le 02 avril 2026, lors d'une répétition musicale, Hugo réagit à un geste d'affection de Chloé par un retrait émotionnel brutal et une agressivité dans son jeu de guitare. Terrassé par l'angoisse que ce bonheur soit le prélude d'une catastrophe, il sabote volontairement l'harmonie du groupe pour se protéger d'un abandon futur.",
+      "evolution": "Hugo identifie son mécanisme de raisonnement émotionnel et sa tendance à créer des prophéties autoréalisatrices, mais il reste pour l'instant incapable de briser le cycle de sabotage face à l'intimité.",
+      "elements_cles": "Chloé (partenaire), Alain (père, source du schéma), Théo (frère), Samba (batteur), studio de répétition, date du 02 avril 2026, technique de mise à distance active, schéma d'abandon de Jeffrey Young.",
+      "strategie_coherence": "connecter",
+      "apport_psychologique": "L'article lie son instabilité actuelle à l'amour conditionnel de son père, Alain. On comprend que Hugo sabote ses moments de bonheur avec Chloé car l'instabilité est son seul point de repère sécurisant, transformant l'angoisse en prophétie autoréalisatrice."
     }
   ]
 }

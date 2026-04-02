@@ -1100,6 +1100,17 @@
           "resume_narratif": "Margot, ancienne directrice commerciale de 50 ans en reconversion, s'apprête à recevoir sa toute première cliente dans son bureau à domicile. Malgré le soutien de son mari Philippe et les encouragements de sa mentor Sylvie, elle est paralysée par le doute et le sentiment d'être une imposture.",
           "evolution": "Elle identifie que son blocage provient de son driver 'sois parfaite' et de la croyance limitante que son passé commercial invalide sa légitimité en tant que coach. Elle prend conscience que son cerveau utilise ces pensées comme un mécanisme de protection contre l'échec.",
           "elements_cles": "Bureau aménagé à domicile (anciennement archives) ; Philippe (mari) ; Sylvie (mentor) ; Martin et Chloé (enfants ayant quitté le foyer) ; Driver 'sois parfaite' ; 25 ans de carrière commerciale."
+        },
+        {
+          "date": "2026-04-02",
+          "sujet": "nostalgie",
+          "contexte": "avec ses enfants",
+          "category": "cat2_emotions",
+          "titre": "Nostalgie avec ses enfants : comment l'apprivoiser à 50 ans ?",
+          "slug": "nostalgie-avec-ses-enfants-syndrome-nid-vide",
+          "resume_narratif": "Alors qu'elle nettoie son nouveau bureau de coaching, Margot découvre un ancien trophée de danse de sa fille Chloé. Ce souvenir déclenche une vague de nostalgie et une prise de conscience de la solitude liée au départ de ses enfants et à sa reconversion professionnelle.",
+          "evolution": "Margot réalise que son besoin de fusion avec ses enfants est une stratégie de fuite face à l'insécurité de sa nouvelle carrière. Elle comprend que ses drivers 'fais des efforts' et 'sois parfaite' influencent encore sa manière de gérer ce vide affectif.",
+          "elements_cles": "Ancienne chambre de Chloé transformée en bureau ; trophée de danse ; mari Philippe ; fils Martin (à Lyon) ; fille Chloé (à Paris) ; mentor Sylvie ; statut de coach débutante (ex-directrice commerciale)."
         }
       ],
       "genre": "F",
@@ -1705,6 +1716,17 @@
               "Hochement de tête sec"
             ]
           }
+        },
+        {
+          "date": "2026-04-02",
+          "sujet": "lecture de pensée",
+          "contexte": "en amitié",
+          "category": "cat1_pensees",
+          "titre": "Lecture de pensée en amitié : comment arrêter de deviner ?",
+          "slug": "lecture-de-pensee-en-amitie-psychologie",
+          "resume_narratif": "Léa observe son amie Zoé rire avec d'autres étudiants à la cafétéria de la faculté de psychologie. Persuadée que Zoé la critique et s'apprête à la remplacer, elle s'isole dans une spirale d'interprétations négatives basées sur de simples regards.",
+          "evolution": "Léa réalise que sa prétendue intuition est en réalité une distorsion cognitive appelée 'lecture de pensée'. Elle comprend que ce mécanisme est une hyper-vigilance héritée du divorce de ses parents et de son passé d'enfant devant anticiper les crises familiales.",
+          "elements_cles": "Lieu : cafétéria de la fac de psycho. Personnages : Zoé (amie), parents (mentionnés pour le trauma du divorce). Concept : lecture de pensée vs empathie. Passé : parentification précoce et peur de l'abandon."
         }
       ],
       "genre": "F",
@@ -2110,6 +2132,17 @@
           "resume_narratif": "Hugo reçoit un message inquiétant de Chloé demandant à parler, ce qui déclenche chez lui une certitude immédiate de rupture. Seul dans sa cuisine après son service au bar, il lutte contre ses vieux démons et la tentation de s'isoler ou de réagir de manière dramatique.",
           "evolution": "Hugo identifie son mécanisme de raisonnement émotionnel, réalisant que ses certitudes de rejet sont des projections de ses peurs d'enfance liées à son père, Alain. Il tente d'appliquer ses nouvelles connaissances en TCC pour ne pas transformer son ressenti en vérité absolue.",
           "elements_cles": "Chloé (sa compagne), Alain (son père, figure du rejet passé), Théo (ami qu'il évite d'appeler), le bar (lieu de travail), la guitare/partitions, technique du questionnement socratique (preuves pour/contre), distorsion du 'tout ou rien'."
+        },
+        {
+          "date": "2026-04-02",
+          "sujet": "abandon/instabilité",
+          "contexte": "en couple",
+          "category": "cat3_schemas",
+          "titre": "Abandon et instabilité en couple : comprendre ses schémas",
+          "slug": "abandon-instabilité-couple-causes-solutions",
+          "resume_narratif": "Le 02 avril 2026, lors d'une répétition musicale, Hugo réagit à un geste d'affection de Chloé par un retrait émotionnel brutal et une agressivité dans son jeu de guitare. Terrassé par l'angoisse que ce bonheur soit le prélude d'une catastrophe, il sabote volontairement l'harmonie du groupe pour se protéger d'un abandon futur.",
+          "evolution": "Hugo identifie son mécanisme de raisonnement émotionnel et sa tendance à créer des prophéties autoréalisatrices, mais il reste pour l'instant incapable de briser le cycle de sabotage face à l'intimité.",
+          "elements_cles": "Chloé (partenaire), Alain (père, source du schéma), Théo (frère), Samba (batteur), studio de répétition, date du 02 avril 2026, technique de mise à distance active, schéma d'abandon de Jeffrey Young."
         }
       ],
       "genre": "M",

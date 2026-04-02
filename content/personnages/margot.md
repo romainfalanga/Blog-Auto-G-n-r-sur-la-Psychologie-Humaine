@@ -1,14 +1,14 @@
 ---
 title: "Margot"
-date: 2026-04-01T05:06:37+00:00
+date: 2026-04-02T04:49:39+00:00
 description: "Margot est une ancienne directrice commerciale qui débute son activité de coach. Mariée à Philippe, elle vit le départ de ses deux enfants adultes tout en luttant contre ses croyances limitantes."
 slug: "margot"
 prenom: "Margot"
 date_naissance: "1973-07-23"
 profession: "Coach (début d'activité)"
 situation: "Mariée à philippe, deux enfants adultes partis de la maison (martin, 26 ans et chloé, 23 ans)"
-nb_articles: 4
-weight: 9
+nb_articles: 5
+weight: 2
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Elle identifie que son blocage provient de son driver 'sois parfaite' et de la croyance limitante que son passé commercial invalide sa légitimité en tant que coach. Elle prend conscience que son cerveau utilise ces pensées comme un mécanisme de protection contre l'échec.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/croyances-limitantes-reconversion-professionnelle-methode/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nostalgie-avec-ses-enfants-syndrome-nid-vide/">Nostalgie avec ses enfants : comment l'apprivoiser à 50 ans ?</a></h3>
+    <div class="parcours-date">2026-04-02</div>
+    <p class="parcours-resume">Alors qu'elle nettoie son nouveau bureau de coaching, Margot découvre un ancien trophée de danse de sa fille Chloé. Ce souvenir déclenche une vague de nostalgie et une prise de conscience de la solitude liée au départ de ses enfants et à sa reconversion professionnelle.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Margot réalise que son besoin de fusion avec ses enfants est une stratégie de fuite face à l'insécurité de sa nouvelle carrière. Elle comprend que ses drivers 'fais des efforts' et 'sois parfaite' influencent encore sa manière de gérer ce vide affectif.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/nostalgie-avec-ses-enfants-syndrome-nid-vide/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
