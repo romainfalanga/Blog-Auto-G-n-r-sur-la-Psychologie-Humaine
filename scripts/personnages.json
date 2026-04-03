@@ -462,6 +462,38 @@
           "resume_narratif": "Camille, infirmière en cardiologie, hésite à accepter un poste de cadre de santé malgré les bénéfices pour sa vie de famille avec Léo et Emma. Assise dans les vestiaires de l'hôpital, elle est paralysée par la peur des responsabilités et des conflits potentiels, occultant ses réussites passées.",
           "evolution": "Camille identifie que son cerveau subit un biais de négativité qui amplifie les risques au détriment des avantages. Elle prend conscience que son indécision est nourrie par une exigence maternelle ancienne et une difficulté à s'attribuer ses propres succès.",
           "elements_cles": "Service de cardiologie ; enfants (Léo et Emma) ; conjoint (David) ; mère (Françoise) ; réussite médicale du 18 mars ; fatigue de compassion ; technique de nomination des scénarios catastrophes."
+        },
+        {
+          "date": "2026-04-03",
+          "sujet": "abnégation/sacrifice de soi",
+          "contexte": "face à la maladie",
+          "category": "cat3_schemas",
+          "titre": "Abnégation et sacrifice de soi face à la maladie : s'oublier",
+          "slug": "abnegation-sacrifice-de-soi-maladie",
+          "resume_narratif": "Camille, infirmière de quarante-deux ans en cardiologie, prolonge son service de nuit auprès de Monsieur Laroche malgré son épuisement physique. Absorbée par ses patients, elle néglige sa propre famille (David, Léo et Emma) et ignore ses douleurs articulaires pour rester fidèle à son rôle de soignante dévouée.",
+          "evolution": "Camille prend conscience que son besoin de sacrifice est un héritage maternel lié à sa quête de reconnaissance, tout en réalisant qu'elle est enfermée dans une hyper-vigilance qui menace son équilibre émotionnel.",
+          "elements_cles": {
+            "personnages": [
+              "David (mari)",
+              "Léo et Emma (enfants)",
+              "Françoise (mère, ancienne infirmière)",
+              "Monsieur Laroche (patient)"
+            ],
+            "lieux": [
+              "Service de cardiologie",
+              "Domicile familial"
+            ],
+            "conflits": [
+              "Culpabilité familiale",
+              "Fatigue de compassion",
+              "Douleurs physiques ignorées"
+            ],
+            "concepts_psychologiques": [
+              "Schéma d'abnégation de Jeffrey Young",
+              "Loyauté invisible",
+              "Perfectionnisme hérité"
+            ]
+          }
         }
       ],
       "genre": "F",
@@ -801,6 +833,17 @@
             "decision_en_suspens": "Offre de poste de DG dans une scale-up concurrente reçue par mail",
             "progrès_antérieurs": "Amélioration de la gestion de la colère envers Julie et meilleure relation avec Yasmine"
           }
+        },
+        {
+          "date": "2026-04-03",
+          "sujet": "illusion de contrôle",
+          "contexte": "avec ses enfants",
+          "category": "cat1_pensees",
+          "titre": "Illusion de contrôle avec ses enfants : comment lâcher prise",
+          "slug": "illusion-de-controle-avec-ses-enfants-parentalite",
+          "resume_narratif": "Nadia organise l'anniversaire de sa fille Yasmine avec une rigueur quasi militaire, utilisant un tableur Excel pour tout régenter. L'arrivée décontractée de son ex-mari Karim et un incident domestique impliquant des perles renversées viennent bousculer son besoin maladif de maîtrise.",
+          "evolution": "Nadia prend conscience que son hyper-organisation est un mécanisme de défense contre l'instabilité de son divorce, réalisant que son illusion de contrôle transforme la parentalité en une gestion de projet épuisante et rigide.",
+          "elements_cles": "Yasmine (fille, 8 ans) ; Karim (ex-mari) ; Julie (assistante) ; Fatima (mère de Nadia, source de son exigence) ; mèche de cheveux noirs mi-longs ; tableur Excel 'Anniversaire Yasmine' ; traumatisme du divorce ; éducation rigide héritée."
         }
       ],
       "genre": "F",
@@ -1250,6 +1293,39 @@
           "resume_narratif": "Youssef reçoit une proposition de mutation interne pour diriger une équipe à Lyon avec un salaire de 48 000 euros. Alors qu'il tente d'analyser froidement l'offre, il réalise que ce premier chiffre et les commentaires de ses collègues influencent de manière disproportionnée sa réflexion.",
           "evolution": "Conscient de son alexithymie et de sa tendance à l'intellectualisation, Youssef identifie comment le biais d'ancrage et son héritage familial (la rigidité de son père Hamid) limitent sa perception de la réalité et ses choix de carrière.",
           "elements_cles": "Mutation à Lyon ; salaire de 48 000€ (ancre) ; Léa (conjointe) ; Nicolas (ami muté) ; Hamid (père) ; alexithymie partielle ; tendance à l'intellectualisation."
+        },
+        {
+          "date": "2026-04-03",
+          "sujet": "suppression émotionnelle vs réévaluation cognitive",
+          "contexte": "en couple",
+          "category": "cat2_emotions",
+          "titre": "Suppression émotionnelle ou réévaluation cognitive en couple",
+          "slug": "suppression-emotionnelle-reevaluation-cognitive-couple",
+          "resume_narratif": "Lors d'un dîner dans une brasserie parisienne le 3 avril 2026, Youssef fait face aux doutes de sa compagne Léa concernant leur futur déménagement à Lyon. Au lieu d'accueillir la vulnérabilité de Léa, il se mure dans une froideur mathématique et intellectualise la situation pour masquer sa propre angoisse.",
+          "evolution": "Youssef commence à prendre conscience de son alexithymie et du coût de sa suppression émotionnelle, réalisant que son 'masque de marbre' crée une barrière avec Léa plutôt que de la protéger. Il entrevoit la réévaluation cognitive comme une alternative pour transformer ses perceptions défensives en empathie.",
+          "elements_cles": {
+            "personnages": [
+              "Youssef",
+              "Léa",
+              "Hamid (père)",
+              "Neveu (mentionné)"
+            ],
+            "lieux": [
+              "Brasserie parisienne",
+              "Lyon (projet de déménagement)"
+            ],
+            "donnees_contextuelles": [
+              "Mutation à 48 000 euros",
+              "Date du 03 avril 2026",
+              "Besoin de contrôle rigide"
+            ],
+            "concepts_psychologiques": [
+              "Suppression émotionnelle",
+              "Réévaluation cognitive",
+              "Alexithymie",
+              "Biais de projection"
+            ]
+          }
         }
       ],
       "genre": "M",

@@ -1,6 +1,6 @@
 ---
 title: "Hugo"
-date: 2026-04-02T04:49:39+00:00
+date: 2026-04-03T04:49:36+00:00
 description: "Hugo est musicien semi-professionnel et serveur pour payer les factures. En relation instable avec chloé, musicienne aussi."
 slug: "hugo"
 prenom: "Hugo"

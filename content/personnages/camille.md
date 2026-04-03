@@ -1,14 +1,14 @@
 ---
 title: "Camille"
-date: 2026-04-02T04:49:39+00:00
+date: 2026-04-03T04:49:36+00:00
 description: "Camille est infirmière en service de cardiologie. Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)."
 slug: "camille"
 prenom: "Camille"
 date_naissance: "1984-03-05"
 profession: "Infirmière en service de cardiologie"
 situation: "Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)"
-nb_articles: 4
-weight: 7
+nb_articles: 5
+weight: 2
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Camille identifie que son cerveau subit un biais de négativité qui amplifie les risques au détriment des avantages. Elle prend conscience que son indécision est nourrie par une exigence maternelle ancienne et une difficulté à s'attribuer ses propres succès.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-negativite-face-decision-importante-camille/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/abnegation-sacrifice-de-soi-maladie/">Abnégation et sacrifice de soi face à la maladie : s'oublier</a></h3>
+    <div class="parcours-date">2026-04-03</div>
+    <p class="parcours-resume">Camille, infirmière de quarante-deux ans en cardiologie, prolonge son service de nuit auprès de Monsieur Laroche malgré son épuisement physique. Absorbée par ses patients, elle néglige sa propre famille (David, Léo et Emma) et ignore ses douleurs articulaires pour rester fidèle à son rôle de soignante dévouée.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Camille prend conscience que son besoin de sacrifice est un héritage maternel lié à sa quête de reconnaissance, tout en réalisant qu'elle est enfermée dans une hyper-vigilance qui menace son équilibre émotionnel.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/abnegation-sacrifice-de-soi-maladie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

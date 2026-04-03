@@ -1,6 +1,6 @@
 ---
 title: "Sophie"
-date: 2026-04-02T04:49:39+00:00
+date: 2026-04-03T04:49:36+00:00
 description: "Sophie est développeuse web dans une startup. Célibataire, vit seule en appartement en ville."
 slug: "sophie"
 prenom: "Sophie"
@@ -8,7 +8,7 @@ date_naissance: "1998-01-15"
 profession: "Développeuse web dans une startup"
 situation: "Célibataire, vit seule en appartement en ville"
 nb_articles: 4
-weight: 6
+weight: 9
 draft: false
 ---
 

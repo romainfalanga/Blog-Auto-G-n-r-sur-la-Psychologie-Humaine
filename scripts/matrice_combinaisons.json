@@ -2663,6 +2663,124 @@
       "elements_cles": "Chloé (partenaire), Alain (père, source du schéma), Théo (frère), Samba (batteur), studio de répétition, date du 02 avril 2026, technique de mise à distance active, schéma d'abandon de Jeffrey Young.",
       "strategie_coherence": "connecter",
       "apport_psychologique": "L'article lie son instabilité actuelle à l'amour conditionnel de son père, Alain. On comprend que Hugo sabote ses moments de bonheur avec Chloé car l'instabilité est son seul point de repère sécurisant, transformant l'angoisse en prophétie autoréalisatrice."
+    },
+    {
+      "date": "2026-04-03",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "illusion de contrôle",
+      "contexte": "avec ses enfants",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Nadia",
+      "age": "38 ans",
+      "title": "Illusion de contrôle avec ses enfants : comment lâcher prise",
+      "slug": "illusion-de-controle-avec-ses-enfants-parentalite",
+      "tags": [
+        "psychologie",
+        "parentalité",
+        "lâcher-prise",
+        "éducation",
+        "biais-cognitifs"
+      ],
+      "resume_narratif": "Nadia organise l'anniversaire de sa fille Yasmine avec une rigueur quasi militaire, utilisant un tableur Excel pour tout régenter. L'arrivée décontractée de son ex-mari Karim et un incident domestique impliquant des perles renversées viennent bousculer son besoin maladif de maîtrise.",
+      "evolution": "Nadia prend conscience que son hyper-organisation est un mécanisme de défense contre l'instabilité de son divorce, réalisant que son illusion de contrôle transforme la parentalité en une gestion de projet épuisante et rigide.",
+      "elements_cles": "Yasmine (fille, 8 ans) ; Karim (ex-mari) ; Julie (assistante) ; Fatima (mère de Nadia, source de son exigence) ; mèche de cheveux noirs mi-longs ; tableur Excel 'Anniversaire Yasmine' ; traumatisme du divorce ; éducation rigide héritée.",
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "On révèle que son besoin de performance marketing est transposé dans son éducation de Yasmine, créant une tension entre son désir d'efficacité et la réalité émotionnelle d'une enfant de 8 ans."
+    },
+    {
+      "date": "2026-04-03",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "suppression émotionnelle vs réévaluation cognitive",
+      "contexte": "en couple",
+      "angle": "comment s'en libérer concrètement",
+      "profil": null,
+      "prenom": "Youssef",
+      "age": "29 ans",
+      "title": "Suppression émotionnelle ou réévaluation cognitive en couple",
+      "slug": "suppression-emotionnelle-reevaluation-cognitive-couple",
+      "tags": [
+        "gestion des émotions",
+        "vie de couple",
+        "psychologie cognitive",
+        "intelligence émotionnelle",
+        "communication non-violente"
+      ],
+      "resume_narratif": "Lors d'un dîner dans une brasserie parisienne le 3 avril 2026, Youssef fait face aux doutes de sa compagne Léa concernant leur futur déménagement à Lyon. Au lieu d'accueillir la vulnérabilité de Léa, il se mure dans une froideur mathématique et intellectualise la situation pour masquer sa propre angoisse.",
+      "evolution": "Youssef commence à prendre conscience de son alexithymie et du coût de sa suppression émotionnelle, réalisant que son 'masque de marbre' crée une barrière avec Léa plutôt que de la protéger. Il entrevoit la réévaluation cognitive comme une alternative pour transformer ses perceptions défensives en empathie.",
+      "elements_cles": {
+        "personnages": [
+          "Youssef",
+          "Léa",
+          "Hamid (père)",
+          "Neveu (mentionné)"
+        ],
+        "lieux": [
+          "Brasserie parisienne",
+          "Lyon (projet de déménagement)"
+        ],
+        "donnees_contextuelles": [
+          "Mutation à 48 000 euros",
+          "Date du 03 avril 2026",
+          "Besoin de contrôle rigide"
+        ],
+        "concepts_psychologiques": [
+          "Suppression émotionnelle",
+          "Réévaluation cognitive",
+          "Alexithymie",
+          "Biais de projection"
+        ]
+      },
+      "strategie_coherence": "connecter",
+      "apport_psychologique": "L'article montre que sa passivité apparente est en réalité un effort cognitif intense pour 'maintenir le couvercle' sur ses émotions, un héritage direct de la pudeur imposée par son père Hamid."
+    },
+    {
+      "date": "2026-04-03",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "abnégation/sacrifice de soi",
+      "contexte": "face à la maladie",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Camille",
+      "age": "42 ans",
+      "title": "Abnégation et sacrifice de soi face à la maladie : s'oublier",
+      "slug": "abnegation-sacrifice-de-soi-maladie",
+      "tags": [
+        "abnégation",
+        "épuisement",
+        "psychologie",
+        "schémas précoces",
+        "soin"
+      ],
+      "resume_narratif": "Camille, infirmière de quarante-deux ans en cardiologie, prolonge son service de nuit auprès de Monsieur Laroche malgré son épuisement physique. Absorbée par ses patients, elle néglige sa propre famille (David, Léo et Emma) et ignore ses douleurs articulaires pour rester fidèle à son rôle de soignante dévouée.",
+      "evolution": "Camille prend conscience que son besoin de sacrifice est un héritage maternel lié à sa quête de reconnaissance, tout en réalisant qu'elle est enfermée dans une hyper-vigilance qui menace son équilibre émotionnel.",
+      "elements_cles": {
+        "personnages": [
+          "David (mari)",
+          "Léo et Emma (enfants)",
+          "Françoise (mère, ancienne infirmière)",
+          "Monsieur Laroche (patient)"
+        ],
+        "lieux": [
+          "Service de cardiologie",
+          "Domicile familial"
+        ],
+        "conflits": [
+          "Culpabilité familiale",
+          "Fatigue de compassion",
+          "Douleurs physiques ignorées"
+        ],
+        "concepts_psychologiques": [
+          "Schéma d'abnégation de Jeffrey Young",
+          "Loyauté invisible",
+          "Perfectionnisme hérité"
+        ]
+      },
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "Cet article démontre que son dévouement n'est pas qu'une compétence professionnelle, mais un mécanisme de survie identitaire : elle ne se sent exister qu'à travers le soin apporté aux autres, au prix de ses propres besoins."
     }
   ]
 }

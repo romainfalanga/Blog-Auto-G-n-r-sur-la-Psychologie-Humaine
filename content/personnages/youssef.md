@@ -1,14 +1,14 @@
 ---
 title: "Youssef"
-date: 2026-04-02T04:49:39+00:00
+date: 2026-04-03T04:49:36+00:00
 description: "Youssef est ingénieur en informatique dans un grand groupe. En couple avec léa depuis 2 ans, vit en appartement."
 slug: "youssef"
 prenom: "Youssef"
 date_naissance: "1996-08-14"
 profession: "Ingénieur en informatique dans un grand groupe"
 situation: "En couple avec léa depuis 2 ans, vit en appartement"
-nb_articles: 4
-weight: 11
+nb_articles: 5
+weight: 5
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Conscient de son alexithymie et de sa tendance à l'intellectualisation, Youssef identifie comment le biais d'ancrage et son héritage familial (la rigidité de son père Hamid) limitent sa perception de la réalité et ses choix de carrière.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-ancrage-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/suppression-emotionnelle-reevaluation-cognitive-couple/">Suppression émotionnelle ou réévaluation cognitive en couple</a></h3>
+    <div class="parcours-date">2026-04-03</div>
+    <p class="parcours-resume">Lors d'un dîner dans une brasserie parisienne le 3 avril 2026, Youssef fait face aux doutes de sa compagne Léa concernant leur futur déménagement à Lyon. Au lieu d'accueillir la vulnérabilité de Léa, il se mure dans une froideur mathématique et intellectualise la situation pour masquer sa propre angoisse.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Youssef commence à prendre conscience de son alexithymie et du coût de sa suppression émotionnelle, réalisant que son 'masque de marbre' crée une barrière avec Léa plutôt que de la protéger. Il entrevoit la réévaluation cognitive comme une alternative pour transformer ses perceptions défensives en empathie.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/suppression-emotionnelle-reevaluation-cognitive-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

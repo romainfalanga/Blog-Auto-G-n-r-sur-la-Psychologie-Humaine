@@ -1,14 +1,14 @@
 ---
 title: "Nadia"
-date: 2026-04-02T04:49:39+00:00
+date: 2026-04-03T04:49:36+00:00
 description: "Nadia est directrice marketing dans une entreprise tech. Divorcée, mère d'une fille (yasmine, 8 ans), garde alternée."
 slug: "nadia"
 prenom: "Nadia"
 date_naissance: "1987-05-18"
 profession: "Directrice marketing dans une entreprise tech"
 situation: "Divorcée, mère d'une fille (yasmine, 8 ans), garde alternée"
-nb_articles: 4
-weight: 9
+nb_articles: 5
+weight: 3
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Nadia identifie qu'elle est paralysée par le biais de statu quo, comprenant que sa peur du changement et sa surestimation des coûts de transition l'emportent sur les bénéfices objectifs de l'offre.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-statu-quo-decision-importante-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/illusion-de-controle-avec-ses-enfants-parentalite/">Illusion de contrôle avec ses enfants : comment lâcher prise</a></h3>
+    <div class="parcours-date">2026-04-03</div>
+    <p class="parcours-resume">Nadia organise l'anniversaire de sa fille Yasmine avec une rigueur quasi militaire, utilisant un tableur Excel pour tout régenter. L'arrivée décontractée de son ex-mari Karim et un incident domestique impliquant des perles renversées viennent bousculer son besoin maladif de maîtrise.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Nadia prend conscience que son hyper-organisation est un mécanisme de défense contre l'instabilité de son divorce, réalisant que son illusion de contrôle transforme la parentalité en une gestion de projet épuisante et rigide.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/illusion-de-controle-avec-ses-enfants-parentalite/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
