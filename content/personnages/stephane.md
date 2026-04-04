@@ -1,14 +1,14 @@
 ---
 title: "Stéphane"
-date: 2026-04-03T04:49:36+00:00
+date: 2026-04-04T04:38:00+00:00
 description: "Stéphane est commercial grands comptes dans une multinationale. Marié à sandrine, père d'un adolescent (maxime, 15 ans)."
 slug: "stephane"
 prenom: "Stéphane"
 date_naissance: "1980-04-25"
 profession: "Commercial grands comptes dans une multinationale"
 situation: "Marié à sandrine, père d'un adolescent (maxime, 15 ans)"
-nb_articles: 4
-weight: 17
+nb_articles: 5
+weight: 8
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Il commence à percevoir que son besoin de perfection est une stratégie de défense contre la honte et envisage d'expérimenter la vulnérabilité en nommant ses imperfections plutôt qu'en les masquant.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/imperfection-honte-societe/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-de-halo-sur-les-reseaux-sociaux/">Effet de halo sur les réseaux sociaux : décoder nos jugements</a></h3>
+    <div class="parcours-date">2026-04-04</div>
+    <p class="parcours-resume">Le samedi 04 avril 2026, Stéphane observe avec envie le profil social d'Antoine, un entrepreneur à succès, tout en étant assis aux côtés de sa compagne Sandrine. Cette comparaison numérique réveille ses insécurités professionnelles et personnelles, le renvoyant à ses propres difficultés de communication avec son fils Maxime.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Stéphane prend conscience qu'il est victime de l'effet de halo en attribuant des vertus héroïques à un inconnu sur la base d'une simple photo. Il réalise que ce mécanisme de sabotage est lié à son besoin de validation ancré depuis son enfance.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-de-halo-sur-les-reseaux-sociaux/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

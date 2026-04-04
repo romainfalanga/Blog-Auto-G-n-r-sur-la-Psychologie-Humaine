@@ -2781,6 +2781,132 @@
       },
       "strategie_coherence": "rationaliser",
       "apport_psychologique": "Cet article démontre que son dévouement n'est pas qu'une compétence professionnelle, mais un mécanisme de survie identitaire : elle ne se sent exister qu'à travers le soin apporté aux autres, au prix de ses propres besoins."
+    },
+    {
+      "date": "2026-04-04",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet de halo",
+      "contexte": "sur les réseaux sociaux",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "timide",
+      "prenom": "Stéphane",
+      "age": "45 ans",
+      "title": "Effet de halo sur les réseaux sociaux : décoder nos jugements",
+      "slug": "effet-de-halo-sur-les-reseaux-sociaux",
+      "tags": [
+        "psychologie sociale",
+        "biais cognitifs",
+        "comparaison sociale",
+        "estime de soi",
+        "réseaux sociaux"
+      ],
+      "resume_narratif": "Le samedi 04 avril 2026, Stéphane observe avec envie le profil social d'Antoine, un entrepreneur à succès, tout en étant assis aux côtés de sa compagne Sandrine. Cette comparaison numérique réveille ses insécurités professionnelles et personnelles, le renvoyant à ses propres difficultés de communication avec son fils Maxime.",
+      "evolution": "Stéphane prend conscience qu'il est victime de l'effet de halo en attribuant des vertus héroïques à un inconnu sur la base d'une simple photo. Il réalise que ce mécanisme de sabotage est lié à son besoin de validation ancré depuis son enfance.",
+      "elements_cles": {
+        "personnages_entourage": [
+          "Sandrine (compagne)",
+          "Maxime (fils)",
+          "Philippe (frère)",
+          "Marc (collègue)"
+        ],
+        "contexte_pro": "Commercial grands comptes, sentiment d'imposture malgré une apparence soignée.",
+        "evenements_passes": "Cocktail de mars, réunion difficile le mardi précédent.",
+        "concepts_identifies": [
+          "Effet de halo",
+          "Besoin de validation",
+          "Comparaison sociale"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-04",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "apathie",
+      "contexte": "en voyage ou en expatriation",
+      "angle": "comprendre ce que c'est (article explicatif)",
+      "profil": "introverti(e)",
+      "prenom": "Bernard",
+      "age": "58 ans",
+      "title": "Apathie en voyage ou expatriation : comprendre ce vide intérieur",
+      "slug": "apathie-en-voyage-ou-expatriation-comprendre",
+      "tags": [
+        "apathie",
+        "expatriation",
+        "psychologie",
+        "deuil",
+        "émotions"
+      ],
+      "resume_narratif": "Bernard se trouve en Toscane pour un voyage offert par son fils Éric, mais il reste plongé dans une apathie profonde malgré la beauté du village. Bien qu'il ait récemment affronté la réalité administrative de son deuil en ouvrant une enveloppe notariale, il se sent émotionnellement vide et déconnecté de son environnement.",
+      "evolution": "Bernard prend conscience que son mutisme intérieur, autrefois un bouclier protecteur contre ses parents, est devenu une chape de plomb qui l'empêche de ressentir la moindre émotion. Il réalise que l'ouverture de l'enveloppe notariale a épuisé ses dernières réserves d'élan vital.",
+      "elements_cles": {
+        "lieu": "Petit village de Toscane, Italie",
+        "personnages_mentionnés": [
+          "Éric (fils)",
+          "Hélène (défunte)",
+          "Sultan (chien)",
+          "Marcel (voisin)",
+          "Parents de Bernard"
+        ],
+        "objets_et_actions": [
+          "Atelier de menuiserie",
+          "Commode en chêne/noyer",
+          "Enveloppe notariale ouverte",
+          "Montre (automatisme)"
+        ],
+        "contexte_temporel": "Avril 2026"
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-04",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "fusion/personnalité atrophiée",
+      "contexte": "dans l'intimité et la sexualité",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": "évitant(e)",
+      "prenom": "Mei",
+      "age": "22 ans",
+      "title": "Fusion et personnalité atrophiée dans l'intimité : s'épanouir",
+      "slug": "fusion-personnalite-atrophiee-intimite-sexualite",
+      "tags": [
+        "fusion émotionnelle",
+        "personnalité atrophiée",
+        "intimité",
+        "évitant",
+        "relation de couple"
+      ],
+      "resume_narratif": "Mei, étudiante et artiste, hésite à rejoindre Julien pour une soirée film alors qu'elle prend conscience de sa tendance à s'effacer totalement dans leur relation naissante. Elle réalise que, par peur du rejet, elle mime les désirs de Julien et étouffe sa propre personnalité, tant dans leurs choix quotidiens que dans leur intimité sexuelle.",
+      "evolution": "Mei identifie son mécanisme de fusion comme une extension du 'faux self' développé face à ses parents pour être la fille idéale. Elle comprend que son incapacité à poser des limites et à exprimer ses propres goûts atrophie sa personnalité et transforme ses interactions en performances de docilité.",
+      "elements_cles": {
+        "personnages": [
+          "Mei (protagoniste, mèche bleue)",
+          "Julien (partenaire actuel)",
+          "M. Dubois (professeur/mentor)",
+          "Li et Wei (parents)"
+        ],
+        "lieux": [
+          "Chambre en résidence étudiante",
+          "Appartement de Julien"
+        ],
+        "objets_symboliques": [
+          "Carnet de croquis",
+          "Illustration de la silhouette translucide",
+          "Chaussettes en laine"
+        ],
+        "contexte_psychologique": [
+          "Fusion émotionnelle",
+          "Personnalité atrophiée",
+          "Peur du rejet liée à l'éducation familiale"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

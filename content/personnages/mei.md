@@ -1,14 +1,14 @@
 ---
 title: "Mei"
-date: 2026-04-03T04:49:36+00:00
-description: "Mei est étudiante en école d'art, spécialité illustration. Célibataire, vit en résidence étudiante."
+date: 2026-04-04T04:38:00+00:00
+description: "Mei est étudiante en école d'art, spécialité illustration. Elle est en couple avec Julien depuis un mois et vit en résidence étudiante."
 slug: "mei"
 prenom: "Mei"
 date_naissance: "2003-07-02"
 profession: "Étudiante en école d'art, spécialité illustration"
-situation: "Célibataire, vit en résidence étudiante"
-nb_articles: 4
-weight: 19
+situation: "En couple avec julien depuis un mois, vit en résidence étudiante"
+nb_articles: 5
+weight: 10
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Mei prend conscience que sa docilité et son besoin de validation sont des mécanismes de protection hérités de son enfance, agissant comme une armure trop étroite qui étouffe son identité et son intuition créative.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/fusion-personnalite-atrophiee-intimite-sexualite/">Fusion et personnalité atrophiée dans l'intimité : s'épanouir</a></h3>
+    <div class="parcours-date">2026-04-04</div>
+    <p class="parcours-resume">Mei, étudiante et artiste, hésite à rejoindre Julien pour une soirée film alors qu'elle prend conscience de sa tendance à s'effacer totalement dans leur relation naissante. Elle réalise que, par peur du rejet, elle mime les désirs de Julien et étouffe sa propre personnalité, tant dans leurs choix quotidiens que dans leur intimité sexuelle.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Mei identifie son mécanisme de fusion comme une extension du 'faux self' développé face à ses parents pour être la fille idéale. Elle comprend que son incapacité à poser des limites et à exprimer ses propres goûts atrophie sa personnalité et transforme ses interactions en performances de docilité.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/fusion-personnalite-atrophiee-intimite-sexualite/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

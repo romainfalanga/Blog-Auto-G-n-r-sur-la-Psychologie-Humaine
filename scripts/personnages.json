@@ -2529,6 +2529,31 @@
             ],
             "contexte_familial": "Comparaison constante avec la réussite de son frère Philippe depuis l'enfance."
           }
+        },
+        {
+          "date": "2026-04-04",
+          "sujet": "effet de halo",
+          "contexte": "sur les réseaux sociaux",
+          "category": "cat1_pensees",
+          "titre": "Effet de halo sur les réseaux sociaux : décoder nos jugements",
+          "slug": "effet-de-halo-sur-les-reseaux-sociaux",
+          "resume_narratif": "Le samedi 04 avril 2026, Stéphane observe avec envie le profil social d'Antoine, un entrepreneur à succès, tout en étant assis aux côtés de sa compagne Sandrine. Cette comparaison numérique réveille ses insécurités professionnelles et personnelles, le renvoyant à ses propres difficultés de communication avec son fils Maxime.",
+          "evolution": "Stéphane prend conscience qu'il est victime de l'effet de halo en attribuant des vertus héroïques à un inconnu sur la base d'une simple photo. Il réalise que ce mécanisme de sabotage est lié à son besoin de validation ancré depuis son enfance.",
+          "elements_cles": {
+            "personnages_entourage": [
+              "Sandrine (compagne)",
+              "Maxime (fils)",
+              "Philippe (frère)",
+              "Marc (collègue)"
+            ],
+            "contexte_pro": "Commercial grands comptes, sentiment d'imposture malgré une apparence soignée.",
+            "evenements_passes": "Cocktail de mars, réunion difficile le mardi précédent.",
+            "concepts_identifies": [
+              "Effet de halo",
+              "Besoin de validation",
+              "Comparaison sociale"
+            ]
+          }
         }
       ],
       "genre": "M",
@@ -2858,7 +2883,7 @@
       "age": 22,
       "tranche_age": "jeune adulte (20-25 ans)",
       "profession": "étudiante en école d'art, spécialité illustration",
-      "situation_familiale": "célibataire, vit en résidence étudiante",
+      "situation_familiale": "en couple avec Julien depuis un mois, vit en résidence étudiante",
       "traits_personnalite": [
         "timide",
         "observatrice",
@@ -2973,11 +2998,43 @@
             "objets_et_symboles": "Carnet de croquis, illustrations oniriques bleues, chaise en bois qui grince",
             "contexte_psychologique": "Schéma d'assujettissement, fille parentifiée, restaurant familial"
           }
+        },
+        {
+          "date": "2026-04-04",
+          "sujet": "fusion/personnalité atrophiée",
+          "contexte": "dans l'intimité et la sexualité",
+          "category": "cat3_schemas",
+          "titre": "Fusion et personnalité atrophiée dans l'intimité : s'épanouir",
+          "slug": "fusion-personnalite-atrophiee-intimite-sexualite",
+          "resume_narratif": "Mei, étudiante et artiste, hésite à rejoindre Julien pour une soirée film alors qu'elle prend conscience de sa tendance à s'effacer totalement dans leur relation naissante. Elle réalise que, par peur du rejet, elle mime les désirs de Julien et étouffe sa propre personnalité, tant dans leurs choix quotidiens que dans leur intimité sexuelle.",
+          "evolution": "Mei identifie son mécanisme de fusion comme une extension du 'faux self' développé face à ses parents pour être la fille idéale. Elle comprend que son incapacité à poser des limites et à exprimer ses propres goûts atrophie sa personnalité et transforme ses interactions en performances de docilité.",
+          "elements_cles": {
+            "personnages": [
+              "Mei (protagoniste, mèche bleue)",
+              "Julien (partenaire actuel)",
+              "M. Dubois (professeur/mentor)",
+              "Li et Wei (parents)"
+            ],
+            "lieux": [
+              "Chambre en résidence étudiante",
+              "Appartement de Julien"
+            ],
+            "objets_symboliques": [
+              "Carnet de croquis",
+              "Illustration de la silhouette translucide",
+              "Chaussettes en laine"
+            ],
+            "contexte_psychologique": [
+              "Fusion émotionnelle",
+              "Personnalité atrophiée",
+              "Peur du rejet liée à l'éducation familiale"
+            ]
+          }
         }
       ],
       "genre": "F",
       "date_naissance": "2003-07-02",
-      "description_dynamique": "Mei est étudiante en école d'art, spécialité illustration. Célibataire, vit en résidence étudiante."
+      "description_dynamique": "Mei est étudiante en école d'art, spécialité illustration. Elle est en couple avec Julien depuis un mois et vit en résidence étudiante."
     },
     {
       "id": "bernard",
@@ -2985,7 +3042,7 @@
       "age": 58,
       "tranche_age": "senior en quête de sens (56-70 ans)",
       "profession": "artisan ébéniste, atelier en campagne",
-      "situation_familiale": "veuf depuis 5 ans, un fils avec qui les relations sont tendues",
+      "situation_familiale": "veuf, en phase de réconciliation avec son fils Éric",
       "traits_personnalite": [
         "taiseux",
         "méticuleux",
@@ -3119,11 +3176,38 @@
           "resume_narratif": "Bernard, un artisan menuisier vivant avec son chien Sultan, évite d'ouvrir une enveloppe notariale concernant la succession de sa femme Hélène. Il s'immerge dans son travail pour ignorer les sollicitations de son fils Éric qui tente de régler les détails administratifs et matériels du deuil.",
           "evolution": "Bernard prend conscience qu'il pratique un tri sélectif de la réalité pour se protéger de la douleur, utilisant son atelier comme un refuge pour maintenir sa femme dans une zone grise temporelle.",
           "elements_cles": "Atelier de menuiserie en campagne française, Sultan (labrador), Éric (fils), enveloppe du notaire non ouverte, date du 30 mars 2026, mécanisme de défense issu de l'enfance (fuite face aux parents)."
+        },
+        {
+          "date": "2026-04-04",
+          "sujet": "apathie",
+          "contexte": "en voyage ou en expatriation",
+          "category": "cat2_emotions",
+          "titre": "Apathie en voyage ou expatriation : comprendre ce vide intérieur",
+          "slug": "apathie-en-voyage-ou-expatriation-comprendre",
+          "resume_narratif": "Bernard se trouve en Toscane pour un voyage offert par son fils Éric, mais il reste plongé dans une apathie profonde malgré la beauté du village. Bien qu'il ait récemment affronté la réalité administrative de son deuil en ouvrant une enveloppe notariale, il se sent émotionnellement vide et déconnecté de son environnement.",
+          "evolution": "Bernard prend conscience que son mutisme intérieur, autrefois un bouclier protecteur contre ses parents, est devenu une chape de plomb qui l'empêche de ressentir la moindre émotion. Il réalise que l'ouverture de l'enveloppe notariale a épuisé ses dernières réserves d'élan vital.",
+          "elements_cles": {
+            "lieu": "Petit village de Toscane, Italie",
+            "personnages_mentionnés": [
+              "Éric (fils)",
+              "Hélène (défunte)",
+              "Sultan (chien)",
+              "Marcel (voisin)",
+              "Parents de Bernard"
+            ],
+            "objets_et_actions": [
+              "Atelier de menuiserie",
+              "Commode en chêne/noyer",
+              "Enveloppe notariale ouverte",
+              "Montre (automatisme)"
+            ],
+            "contexte_temporel": "Avril 2026"
+          }
         }
       ],
       "genre": "M",
       "date_naissance": "1967-08-21",
-      "description_dynamique": "Bernard est artisan ébéniste, atelier en campagne. Veuf depuis 5 ans, un fils avec qui les relations sont tendues."
+      "description_dynamique": "Bernard est artisan ébéniste en campagne. Veuf, il tente de rompre son isolement et de renouer avec son fils Éric, malgré une profonde apathie émotionnelle."
     }
   ]
 }

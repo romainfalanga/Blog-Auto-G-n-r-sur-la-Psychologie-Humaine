@@ -1,14 +1,14 @@
 ---
 title: "Bernard"
-date: 2026-04-03T04:49:36+00:00
-description: "Bernard est artisan ébéniste, atelier en campagne. Veuf depuis 5 ans, un fils avec qui les relations sont tendues."
+date: 2026-04-04T04:38:00+00:00
+description: "Bernard est artisan ébéniste en campagne. Veuf, il tente de rompre son isolement et de renouer avec son fils Éric, malgré une profonde apathie émotionnelle."
 slug: "bernard"
 prenom: "Bernard"
 date_naissance: "1967-08-21"
 profession: "Artisan ébéniste, atelier en campagne"
-situation: "Veuf depuis 5 ans, un fils avec qui les relations sont tendues"
-nb_articles: 4
-weight: 20
+situation: "Veuf, en phase de réconciliation avec son fils éric"
+nb_articles: 5
+weight: 11
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Bernard prend conscience qu'il pratique un tri sélectif de la réalité pour se protéger de la douleur, utilisant son atelier comme un refuge pour maintenir sa femme dans une zone grise temporelle.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-autruche-deuil-comprendre-evitement/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/apathie-en-voyage-ou-expatriation-comprendre/">Apathie en voyage ou expatriation : comprendre ce vide intérieur</a></h3>
+    <div class="parcours-date">2026-04-04</div>
+    <p class="parcours-resume">Bernard se trouve en Toscane pour un voyage offert par son fils Éric, mais il reste plongé dans une apathie profonde malgré la beauté du village. Bien qu'il ait récemment affronté la réalité administrative de son deuil en ouvrant une enveloppe notariale, il se sent émotionnellement vide et déconnecté de son environnement.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Bernard prend conscience que son mutisme intérieur, autrefois un bouclier protecteur contre ses parents, est devenu une chape de plomb qui l'empêche de ressentir la moindre émotion. Il réalise que l'ouverture de l'enveloppe notariale a épuisé ses dernières réserves d'élan vital.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/apathie-en-voyage-ou-expatriation-comprendre/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
