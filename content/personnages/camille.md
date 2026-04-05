@@ -1,14 +1,14 @@
 ---
 title: "Camille"
-date: 2026-04-04T04:38:00+00:00
+date: 2026-04-05T04:53:54+00:00
 description: "Camille est infirmière en service de cardiologie. Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)."
 slug: "camille"
 prenom: "Camille"
 date_naissance: "1984-03-05"
 profession: "Infirmière en service de cardiologie"
 situation: "Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)"
-nb_articles: 5
-weight: 2
+nb_articles: 6
+weight: 1
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Camille prend conscience que son besoin de sacrifice est un héritage maternel lié à sa quête de reconnaissance, tout en réalisant qu'elle est enfermée dans une hyper-vigilance qui menace son équilibre émotionnel.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/abnegation-sacrifice-de-soi-maladie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/vulnerabilite-au-danger-face-a-la-maladie/">Vulnérabilité au danger face à la maladie : le guide de Camille</a></h3>
+    <div class="parcours-date">2026-04-05</div>
+    <p class="parcours-resume">Pendant son service en cardiologie le 5 avril 2026, Camille ressent des douleurs thoraciques qu'elle interprète immédiatement comme une défaillance cardiaque. Elle s'isole dans la réserve de matériel pour gérer son anxiété, tout en s'inquiétant de manière disproportionnée pour la santé de ses enfants, Léo et Emma, qui sont au parc avec son conjoint David.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Camille identifie son schéma de 'vulnérabilité au danger', réalisant que son hypervigilance médicale prend racine dans l'éducation de sa mère, Françoise, qui exigeait l'invincibilité tout en traquant la moindre faiblesse physique.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/vulnerabilite-au-danger-face-a-la-maladie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

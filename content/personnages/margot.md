@@ -1,14 +1,14 @@
 ---
 title: "Margot"
-date: 2026-04-04T04:38:00+00:00
+date: 2026-04-05T04:53:54+00:00
 description: "Margot est une ancienne directrice commerciale qui débute son activité de coach. Mariée à Philippe, elle vit le départ de ses deux enfants adultes tout en luttant contre ses croyances limitantes."
 slug: "margot"
 prenom: "Margot"
 date_naissance: "1973-07-23"
 profession: "Coach (début d'activité)"
 situation: "Mariée à philippe, deux enfants adultes partis de la maison (martin, 26 ans et chloé, 23 ans)"
-nb_articles: 5
-weight: 4
+nb_articles: 6
+weight: 2
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Margot réalise que son besoin de fusion avec ses enfants est une stratégie de fuite face à l'insécurité de sa nouvelle carrière. Elle comprend que ses drivers 'fais des efforts' et 'sois parfaite' influencent encore sa manière de gérer ce vide affectif.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nostalgie-avec-ses-enfants-syndrome-nid-vide/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-retrospectif-decision-importante/">Biais rétrospectif face à une décision importante : comment l'éviter</a></h3>
+    <div class="parcours-date">2026-04-05</div>
+    <p class="parcours-resume">Margot, coach de 50 ans en reconversion, hésite à accepter un contrat de collaboration rigide avec une grande entreprise locale le 5 avril 2026. Face à cette proposition qui heurte ses valeurs d'authenticité, elle se sent piégée par ses anciens réflexes de directrice commerciale et les conseils de sa mentor Sylvie.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Elle identifie que son sentiment d'inéluctabilité est alimenté par un biais rétrospectif, transformant son passé commercial en un destin tracé qui restreint ses options actuelles. Elle prend conscience que ses drivers 'sois forte' et 'sois parfaite' influencent sa perception de la situation.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-retrospectif-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

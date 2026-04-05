@@ -2907,6 +2907,107 @@
       },
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-05",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais rétrospectif",
+      "contexte": "face à une décision importante",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "contrôlant(e)",
+      "prenom": "Margot",
+      "age": "52 ans",
+      "title": "Biais rétrospectif face à une décision importante : comment l'éviter",
+      "slug": "biais-retrospectif-decision-importante",
+      "tags": [
+        "biais rétrospectif",
+        "prise de décision",
+        "psychologie cognitive",
+        "reconversion",
+        "coaching"
+      ],
+      "resume_narratif": "Margot, coach de 50 ans en reconversion, hésite à accepter un contrat de collaboration rigide avec une grande entreprise locale le 5 avril 2026. Face à cette proposition qui heurte ses valeurs d'authenticité, elle se sent piégée par ses anciens réflexes de directrice commerciale et les conseils de sa mentor Sylvie.",
+      "evolution": "Elle identifie que son sentiment d'inéluctabilité est alimenté par un biais rétrospectif, transformant son passé commercial en un destin tracé qui restreint ses options actuelles. Elle prend conscience que ses drivers 'sois forte' et 'sois parfaite' influencent sa perception de la situation.",
+      "elements_cles": {
+        "date": "05 avril 2026",
+        "personnages": [
+          "Margot",
+          "Sylvie (mentor)"
+        ],
+        "lieux": [
+          "Salle polyvalente",
+          "Anciens bureaux de direction"
+        ],
+        "concepts_psychologiques": [
+          "Biais rétrospectif",
+          "Driver Sois forte",
+          "Driver Sois parfaite"
+        ],
+        "decision_en_cours": "Acceptation ou refus d'un contrat de coaching ultra-structuré"
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-05",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "mépris",
+      "contexte": "au travail",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "haut potentiel intellectuel (HPI)",
+      "prenom": "Fabien",
+      "age": "50 ans",
+      "title": "Le mépris au travail : le comprendre pour mieux s'en protéger",
+      "slug": "mepris-au-travail-comprendre-et-agir",
+      "tags": [
+        "mépris",
+        "psychologie du travail",
+        "HPI",
+        "relations professionnelles",
+        "intelligence émotionnelle"
+      ],
+      "resume_narratif": "Le 05 avril 2026, Fabien subit le mépris d'un jeune consultant externe lors d'une réunion de travail à l'usine. Ce dernier rejette avec condescendance sa proposition de médiation sociale, renvoyant Fabien à un sentiment d'obsolescence professionnelle.",
+      "evolution": "Grâce à son esprit analytique de HPI, Fabien identifie le mépris comme un signal émotionnel complexe plutôt qu'une preuve de sa propre infériorité. Il décide de ne plus gaspiller son énergie émotionnelle pour obtenir la validation d'autrui, faisant le lien avec son biais du coût irrécupérable.",
+      "elements_cles": "Bureau de l'usine ; consultant externe anonyme ; appartement aux murs blancs (post-divorce) ; Véronique (ex-femme) ; Lucas et Marine (enfants) ; héritage du silence paternel ; technique de décodage des micro-signaux.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-05",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "vulnérabilité au danger",
+      "contexte": "face à la maladie",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "hypocondriaque",
+      "prenom": "Camille",
+      "age": "42 ans",
+      "title": "Vulnérabilité au danger face à la maladie : le guide de Camille",
+      "slug": "vulnerabilite-au-danger-face-a-la-maladie",
+      "tags": [
+        "vulnérabilité au danger",
+        "hypocondrie",
+        "schémas précoces",
+        "anxiété de santé",
+        "psychologie"
+      ],
+      "resume_narratif": "Pendant son service en cardiologie le 5 avril 2026, Camille ressent des douleurs thoraciques qu'elle interprète immédiatement comme une défaillance cardiaque. Elle s'isole dans la réserve de matériel pour gérer son anxiété, tout en s'inquiétant de manière disproportionnée pour la santé de ses enfants, Léo et Emma, qui sont au parc avec son conjoint David.",
+      "evolution": "Camille identifie son schéma de 'vulnérabilité au danger', réalisant que son hypervigilance médicale prend racine dans l'éducation de sa mère, Françoise, qui exigeait l'invincibilité tout en traquant la moindre faiblesse physique.",
+      "elements_cles": {
+        "contexte_temporel": "Dimanche 5 avril 2026, 14h15",
+        "lieu": "Service de cardiologie (réserve de matériel)",
+        "entourage": "David (conjoint), Léo et Emma (enfants), Françoise (mère)",
+        "concepts_psychologiques": [
+          "vulnérabilité au danger",
+          "biais de négativité",
+          "catastrophisation"
+        ],
+        "symptome_physique": "Picotements/pincements dans la cage thoracique et mains qui tremblent"
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

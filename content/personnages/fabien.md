@@ -1,14 +1,14 @@
 ---
 title: "Fabien"
-date: 2026-04-04T04:38:00+00:00
+date: 2026-04-05T04:53:54+00:00
 description: "Fabien est cadre RH dans une entreprise industrielle. Divorcé, il vit désormais dans un nouvel appartement et s'efforce de reconstruire un dialogue empathique avec ses deux enfants."
 slug: "fabien"
 prenom: "Fabien"
 date_naissance: "1975-06-19"
 profession: "Cadre rh dans une entreprise industrielle"
 situation: "Divorcé, a emménagé dans un nouvel appartement, deux enfants (marine, 20 ans et lucas, 17 ans)"
-nb_articles: 4
-weight: 20
+nb_articles: 5
+weight: 10
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Fabien délaisse son ancienne posture d'analyse froide et distante pour adopter une approche plus empathique, décidant d'ouvrir le dialogue avec son fils pour l'aider à décoder ce sentiment d'envie.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/comprendre-envie-ecole-etudes-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mepris-au-travail-comprendre-et-agir/">Le mépris au travail : le comprendre pour mieux s'en protéger</a></h3>
+    <div class="parcours-date">2026-04-05</div>
+    <p class="parcours-resume">Le 05 avril 2026, Fabien subit le mépris d'un jeune consultant externe lors d'une réunion de travail à l'usine. Ce dernier rejette avec condescendance sa proposition de médiation sociale, renvoyant Fabien à un sentiment d'obsolescence professionnelle.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Grâce à son esprit analytique de HPI, Fabien identifie le mépris comme un signal émotionnel complexe plutôt qu'une preuve de sa propre infériorité. Il décide de ne plus gaspiller son énergie émotionnelle pour obtenir la validation d'autrui, faisant le lien avec son biais du coût irrécupérable.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/mepris-au-travail-comprendre-et-agir/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
