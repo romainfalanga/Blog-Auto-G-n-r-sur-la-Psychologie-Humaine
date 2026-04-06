@@ -1,14 +1,14 @@
 ---
 title: "Isabelle"
-date: 2026-04-05T04:53:54+00:00
+date: 2026-04-06T05:04:58+00:00
 description: "Isabelle est psychologue scolaire dans un collège. Divorcée, un fils adolescent (théo, 16 ans)."
 slug: "isabelle"
 prenom: "Isabelle"
 date_naissance: "1978-09-03"
 profession: "Psychologue scolaire dans un collège"
 situation: "Divorcée, un fils adolescent (théo, 16 ans)"
-nb_articles: 4
-weight: 16
+nb_articles: 5
+weight: 7
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Elle identifie son état comme de la fatigue de compassion et comprend que son épuisement professionnel réactive son schéma d'enfant parentifiée qui régulait autrefois les conflits de ses parents.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/fatigue-compassion-travail-consequences/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-en-situation-de-conflit-comprendre/">Biais de groupe en situation de conflit : le comprendre</a></h3>
+    <div class="parcours-date">2026-04-06</div>
+    <p class="parcours-resume">Lors d'une réunion de crise au collège suite à un incident avec des élèves, Isabelle observe ses collègues, dont Laurent et Claire, s'unir dans une colère collective contre les parents. Elle ressent la tentation de se fondre dans ce 'nous' protecteur pour échapper à sa propre fatigue émotionnelle, tout en luttant contre son besoin viscéral de neutralité.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Isabelle prend conscience que le biais de groupe agit comme un mécanisme de défense simplificateur qui apaise son épuisement, mais elle réalise que son appartenance au groupe des professeurs menace son intégrité de psychologue et sa capacité d'empathie.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-en-situation-de-conflit-comprendre/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

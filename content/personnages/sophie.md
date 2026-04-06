@@ -1,14 +1,14 @@
 ---
 title: "Sophie"
-date: 2026-04-05T04:53:54+00:00
+date: 2026-04-06T05:04:58+00:00
 description: "Sophie est développeuse web dans une startup. Célibataire, vit seule en appartement en ville."
 slug: "sophie"
 prenom: "Sophie"
 date_naissance: "1998-01-15"
 profession: "Développeuse web dans une startup"
 situation: "Célibataire, vit seule en appartement en ville"
-nb_articles: 4
-weight: 13
+nb_articles: 5
+weight: 3
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Sophie prend conscience que son épuisement mental ne vient pas seulement de l'attente d'une réponse professionnelle, mais d'un standard d'excellence invisible et rigide qu'elle s'impose pour se sentir digne de l'estime de ses parents.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/abnegation-sacrifice-de-soi-vieillissement-parents/">Abnégation et sacrifice de soi face au vieillissement des parents</a></h3>
+    <div class="parcours-date">2026-04-06</div>
+    <p class="parcours-resume">Lors d'un déjeuner dominical chez ses parents à Nantes, Sophie se retrouve à accomplir une multitude de tâches ménagères et logistiques pour les soulager. Malgré sa fatigue et ses propres besoins, elle accepte d'aller à la pharmacie, annulant ainsi sa soirée de repos prévue à Paris.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Sophie commence à nommer son 'érosion intérieure' et réalise que son dévouement excessif est un schéma profond lié à son besoin d'être la petite fille parfaite pour mériter l'estime de ses parents. Elle identifie le lien entre son comportement actuel et ses mécanismes de défense professionnels.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/abnegation-sacrifice-de-soi-vieillissement-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

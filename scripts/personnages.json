@@ -140,6 +140,17 @@
           "resume_narratif": "Lors d'un déjeuner dominical chez ses parents à Nantes, Sophie est confrontée à leurs questions pressantes concernant sa candidature à un poste de directrice technique. Malgré ses réussites en tant que développeuse web, elle se sent redevenir une petite fille soumise à un jugement constant, luttant contre son anxiété et son besoin de perfection.",
           "evolution": "Sophie prend conscience que son épuisement mental ne vient pas seulement de l'attente d'une réponse professionnelle, mais d'un standard d'excellence invisible et rigide qu'elle s'impose pour se sentir digne de l'estime de ses parents.",
           "elements_cles": "Parents (père ingénieur), Nantes (lieu du repas), Paris (lieu de résidence), Claire (amie/confidente), carnet de notes (outil de régulation émotionnelle), poste de directrice technique (en attente), vérification obsessionnelle du code informatique."
+        },
+        {
+          "date": "2026-04-06",
+          "sujet": "abnégation/sacrifice de soi",
+          "contexte": "face au vieillissement",
+          "category": "cat3_schemas",
+          "titre": "Abnégation et sacrifice de soi face au vieillissement des parents",
+          "slug": "abnegation-sacrifice-de-soi-vieillissement-parents",
+          "resume_narratif": "Lors d'un déjeuner dominical chez ses parents à Nantes, Sophie se retrouve à accomplir une multitude de tâches ménagères et logistiques pour les soulager. Malgré sa fatigue et ses propres besoins, elle accepte d'aller à la pharmacie, annulant ainsi sa soirée de repos prévue à Paris.",
+          "evolution": "Sophie commence à nommer son 'érosion intérieure' et réalise que son dévouement excessif est un schéma profond lié à son besoin d'être la petite fille parfaite pour mériter l'estime de ses parents. Elle identifie le lien entre son comportement actuel et ses mécanismes de défense professionnels.",
+          "elements_cles": "Maison familiale à Nantes ; parents de 70 ans ; carnet de notes émotionnel ; Marc (collègue) ; Claire (amie) ; pratique du yoga ; retour prévu à Paris."
         }
       ],
       "genre": "F",
@@ -1512,6 +1523,17 @@
           "resume_narratif": "Isabelle, psychologue scolaire, termine une journée éprouvante marquée par l'accueil de trois élèves en crise. Épuisée et émotionnellement engourdie, elle peine à rédiger ses rapports et redoute de ne plus avoir d'énergie pour son fils Théo.",
           "evolution": "Elle identifie son état comme de la fatigue de compassion et comprend que son épuisement professionnel réactive son schéma d'enfant parentifiée qui régulait autrefois les conflits de ses parents.",
           "elements_cles": "Théo (son fils), Aurélie (relation source d'anxiété), Geneviève (sa mère), bureau scolaire, antécédents d'attachement anxieux, symptômes d'hypervigilance nocturne."
+        },
+        {
+          "date": "2026-04-06",
+          "sujet": "biais de groupe",
+          "contexte": "en situation de conflit",
+          "category": "cat1_pensees",
+          "titre": "Biais de groupe en situation de conflit : le comprendre",
+          "slug": "biais-de-groupe-en-situation-de-conflit-comprendre",
+          "resume_narratif": "Lors d'une réunion de crise au collège suite à un incident avec des élèves, Isabelle observe ses collègues, dont Laurent et Claire, s'unir dans une colère collective contre les parents. Elle ressent la tentation de se fondre dans ce 'nous' protecteur pour échapper à sa propre fatigue émotionnelle, tout en luttant contre son besoin viscéral de neutralité.",
+          "evolution": "Isabelle prend conscience que le biais de groupe agit comme un mécanisme de défense simplificateur qui apaise son épuisement, mais elle réalise que son appartenance au groupe des professeurs menace son intégrité de psychologue et sa capacité d'empathie.",
+          "elements_cles": "Salle des professeurs du collège ; Laurent (professeur d'histoire) ; Claire (CPE) ; Théo (son fils) ; passé d'enfant parentifiée ; dilemme entre loyauté au groupe et mission de justice ; fatigue de compassion."
         }
       ],
       "genre": "F",
@@ -1654,6 +1676,17 @@
             "personnages_mentionnes": "Marcel (père décédé), Catherine (épouse), Stéphanie et Julien (enfants)",
             "conflit_interne": "Douleurs dorsales et perte de force physique vs modèle de virilité stoïque"
           }
+        },
+        {
+          "date": "2026-04-06",
+          "sujet": "impuissance",
+          "contexte": "face au vieillissement",
+          "category": "cat2_emotions",
+          "titre": "Impuissance face au vieillissement : comment l'apprivoiser ?",
+          "slug": "impuissance-face-au-vieillissement-signes-et-solutions",
+          "resume_narratif": "Le 06 avril 2026, Patrick subit une violente décharge lombaire sur son chantier alors qu'il observe le jeune Antoine manipuler des charges avec aisance. Incapable de maintenir son rôle de pilier physique, il se retire à l'écart pour confronter son sentiment d'impuissance face au déclin de son corps.",
+          "evolution": "Patrick prend conscience que son identité, bâtie sur la force brute et l'utilité physique, s'effondre. Il réalise que son 'biais du point aveugle' l'a empêché d'accepter sa propre fatigue, le laissant désormais face à un vide identitaire et une perte de contrôle totale.",
+          "elements_cles": "Chantier de lotissement (lisière de forêt) ; Antoine (jeune ouvrier) ; Catherine (conjointe) ; Marcel (père décédé) ; Julien et Stéphanie (enfants) ; douleur sciatique jambe gauche ; bocal de haricots (incident déclencheur)."
         }
       ],
       "genre": "M",
