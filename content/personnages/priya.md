@@ -1,14 +1,14 @@
 ---
 title: "Priya"
-date: 2026-04-06T05:04:58+00:00
+date: 2026-04-07T04:53:21+00:00
 description: "Priya est médecin généraliste en cabinet de ville. Célibataire, vit seule, relations épisodiques."
 slug: "priya"
 prenom: "Priya"
 date_naissance: "1993-03-11"
 profession: "Médecin généraliste en cabinet de ville"
 situation: "Célibataire, vit seule, relations épisodiques"
-nb_articles: 4
-weight: 20
+nb_articles: 5
+weight: 13
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Priya prend conscience que son jugement est altéré par le biais de disponibilité, transformant ses souvenirs émotionnels et ses lectures alarmistes en un filtre déformant qui alimente son anxiété et son besoin de contrôle.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-disponibilite-face-a-une-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mepris-face-a-l-autorite-mecanisme-defense/">Mépris face à l'autorité : comprendre ce mécanisme de défense</a></h3>
+    <div class="parcours-date">2026-04-07</div>
+    <p class="parcours-resume">Le 07 avril 2026, Priya participe à une visioconférence sur les procédures de télétransmission animée par Antoine, un administratif de l'instance régionale de santé. Agacée par son ton condescendant, elle réagit par un mépris silencieux et une dévaluation intellectuelle pour se protéger de ce qu'elle perçoit comme une tentative de contrôle.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Priya prend conscience que son mépris est une armure familière et un mécanisme de défense hérité de ses relations passées pour éviter toute sensation d'emprise. Elle réalise toutefois que cette stratégie de supériorité, bien qu'efficace pour préserver son ego, l'isole progressivement dans une tour d'ivoire.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/mepris-face-a-l-autorite-mecanisme-defense/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

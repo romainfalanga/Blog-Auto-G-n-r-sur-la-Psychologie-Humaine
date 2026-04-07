@@ -1,14 +1,14 @@
 ---
 title: "Lucas"
-date: 2026-04-06T05:04:58+00:00
+date: 2026-04-07T04:53:21+00:00
 description: "Lucas est étudiant en dernière année d'école de commerce, en stage. Célibataire, en colocation avec deux amis."
 slug: "lucas"
 prenom: "Lucas"
 date_naissance: "2001-04-10"
 profession: "Étudiant en dernière année d'école de commerce, en stage"
 situation: "Célibataire, en colocation avec deux amis"
-nb_articles: 4
-weight: 16
+nb_articles: 5
+weight: 5
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Lucas prend conscience que son envie n'est pas de la haine, mais le reflet de ses propres carences et de son syndrome de l'imposteur. Il réalise que sa tendance à la comparaison permanente transforme son ambition en un poison paralysant au lieu d'un moteur.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/envie-en-situation-de-competition-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-ecole-etudes-lucas/">Syndrome de l'imposteur aux études : s'en libérer avec Lucas</a></h3>
+    <div class="parcours-date">2026-04-07</div>
+    <p class="parcours-resume">Lucas, étudiant en école de commerce issu d'un milieu modeste, se sent comme une fraude lors d'un cours de stratégie internationale face à son colocataire Romain. Malgré une question pertinente en tête, il reste silencieux par peur d'être démasqué, tout en luttant contre la pression financière et les attentes de ses parents, Sandrine et Jean-Marc.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Le personnage prend conscience que son sentiment d'illégitimité est lié à une dissonance entre ses origines sociales et son environnement actuel, le poussant à alterner entre perfectionnisme paralysant et auto-sabotage.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-ecole-etudes-lucas/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

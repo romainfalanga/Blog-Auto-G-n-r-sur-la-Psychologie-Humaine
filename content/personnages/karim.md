@@ -1,14 +1,14 @@
 ---
 title: "Karim"
-date: 2026-04-06T05:04:58+00:00
+date: 2026-04-07T04:53:21+00:00
 description: "Karim est entrepreneur, fondateur d'une PME de restauration. Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)."
 slug: "karim"
 prenom: "Karim"
 date_naissance: "1985-12-01"
 profession: "Entrepreneur, fondateur d'une pme de restauration"
 situation: "Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)"
-nb_articles: 4
-weight: 18
+nb_articles: 5
+weight: 11
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Karim prend conscience qu'il ne s'accroche plus par conviction, mais par peur d'admettre son échec face à ses proches et à son image de bâtisseur. Il réalise que sa micro-optimisation d'agenda n'était qu'une façade pour masquer son incapacité à stopper les pertes.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-engagement-escalade-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-optimisme-decision-importante-entrepreneur/">Biais d'optimisme face à une décision importante : le comprendre</a></h3>
+    <div class="parcours-date">2026-04-07</div>
+    <p class="parcours-resume">Karim, entrepreneur ambitieux, ignore les alertes financières de son associé Romain concernant l'échec de leur restaurant à Lyon. Malgré ses dettes et une relation tendue avec Sofia, il projette déjà d'ouvrir un nouvel établissement sur le Vieux-Port de Marseille, aveuglé par son besoin de réussite.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Karim ne montre aucune prise de conscience ; au contraire, il s'enfonce dans le biais d'optimisme, utilisant son charisme pour balayer les risques réels et se convaincre que son succès futur effacera ses erreurs passées.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-optimisme-decision-importante-entrepreneur/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

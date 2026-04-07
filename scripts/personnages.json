@@ -697,6 +697,37 @@
           "resume_narratif": "Lors d'un match de basket le 26 mars 2026, Lucas subit une défaite face à Antoine, un adversaire dont l'aisance déclenche chez lui une envie profonde. Ce sentiment de médiocrité fait écho à ses difficultés actuelles en école de commerce, notamment les critiques de son tuteur de stage sur son mémoire.",
           "evolution": "Lucas prend conscience que son envie n'est pas de la haine, mais le reflet de ses propres carences et de son syndrome de l'imposteur. Il réalise que sa tendance à la comparaison permanente transforme son ambition en un poison paralysant au lieu d'un moteur.",
           "elements_cles": "Gymnase municipal; Antoine (rival); Romain (coéquipier); Sandrine et Jean-Marc (parents); colocation; école de commerce; tic de réajustement du maillot; syndrome de l'imposteur lié à ses origines modestes."
+        },
+        {
+          "date": "2026-04-07",
+          "sujet": "le syndrome de l'imposteur",
+          "contexte": "à l'école ou aux études",
+          "category": "cat3_schemas",
+          "titre": "Syndrome de l'imposteur aux études : s'en libérer avec Lucas",
+          "slug": "syndrome-imposteur-ecole-etudes-lucas",
+          "resume_narratif": "Lucas, étudiant en école de commerce issu d'un milieu modeste, se sent comme une fraude lors d'un cours de stratégie internationale face à son colocataire Romain. Malgré une question pertinente en tête, il reste silencieux par peur d'être démasqué, tout en luttant contre la pression financière et les attentes de ses parents, Sandrine et Jean-Marc.",
+          "evolution": "Le personnage prend conscience que son sentiment d'illégitimité est lié à une dissonance entre ses origines sociales et son environnement actuel, le poussant à alterner entre perfectionnisme paralysant et auto-sabotage.",
+          "elements_cles": {
+            "personnages": [
+              "Romain (colocataire)",
+              "Sandrine et Jean-Marc (parents)",
+              "Maxime (ami)"
+            ],
+            "lieux": [
+              "Amphithéâtre d'une école de commerce parisienne",
+              "La Défense (lieu d'un ancien entretien)"
+            ],
+            "contexte_narratif": [
+              "Échec relatif à la remise intermédiaire du mémoire",
+              "Mensonges sur sa situation financière",
+              "Utilisation d'un masque de décontraction"
+            ],
+            "techniques_psychologiques": [
+              "Sur-préparation",
+              "Procrastination de défense",
+              "Comparaison sociale ascendante"
+            ]
+          }
         }
       ],
       "genre": "M",
@@ -2024,6 +2055,17 @@
           "resume_narratif": "Karim s'obstine à financer son troisième restaurant à Lyon malgré des dettes croissantes et les avertissements de son associé Romain. Cette escalade d'engagement le conduit à sacrifier sa vie de famille, manquant des moments clés avec ses enfants Amine, Lina et Sami.",
           "evolution": "Karim prend conscience qu'il ne s'accroche plus par conviction, mais par peur d'admettre son échec face à ses proches et à son image de bâtisseur. Il réalise que sa micro-optimisation d'agenda n'était qu'une façade pour masquer son incapacité à stopper les pertes.",
           "elements_cles": "Restaurant en périphérie de Lyon, Romain (associé), Sofia, famille (femme, Amine, Lina, Sami), père (ancien épicier), concept des coûts irrécupérables, décision de fermeture suggérée par Romain."
+        },
+        {
+          "date": "2026-04-07",
+          "sujet": "biais d'optimisme",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Biais d'optimisme face à une décision importante : le comprendre",
+          "slug": "biais-optimisme-decision-importante-entrepreneur",
+          "resume_narratif": "Karim, entrepreneur ambitieux, ignore les alertes financières de son associé Romain concernant l'échec de leur restaurant à Lyon. Malgré ses dettes et une relation tendue avec Sofia, il projette déjà d'ouvrir un nouvel établissement sur le Vieux-Port de Marseille, aveuglé par son besoin de réussite.",
+          "evolution": "Karim ne montre aucune prise de conscience ; au contraire, il s'enfonce dans le biais d'optimisme, utilisant son charisme pour balayer les risques réels et se convaincre que son succès futur effacera ses erreurs passées.",
+          "elements_cles": "Romain (associé), Sofia (ex-compagne/relation en crise), Amine (fils/proche), restaurant de Lyon (en déficit), projet Marseille (Vieux-Port), échec de mars, micro-optimisation logistique."
         }
       ],
       "genre": "M",
@@ -2440,6 +2482,36 @@
           "resume_narratif": "Priya, médecin en garde hospitalière, doit choisir un nouvel associé pour son cabinet parmi trois candidats. Elle se retrouve paralysée par la méfiance envers le candidat Marc, dont le profil lui rappelle son ex-partenaire Damien, et par des lectures récentes sur des échecs associatifs.",
           "evolution": "Priya prend conscience que son jugement est altéré par le biais de disponibilité, transformant ses souvenirs émotionnels et ses lectures alarmistes en un filtre déformant qui alimente son anxiété et son besoin de contrôle.",
           "elements_cles": "Centre hospitalier (salle de garde), Cabinet de ville, Marc (candidat), Damien (ex-partenaire), Julie (amie), Raj (père de Priya), article sur un désastre judiciaire médical, raidissement de la nuque (signe de stress)."
+        },
+        {
+          "date": "2026-04-07",
+          "sujet": "mépris",
+          "contexte": "face à l'autorité",
+          "category": "cat2_emotions",
+          "titre": "Mépris face à l'autorité : comprendre ce mécanisme de défense",
+          "slug": "mepris-face-a-l-autorite-mecanisme-defense",
+          "resume_narratif": "Le 07 avril 2026, Priya participe à une visioconférence sur les procédures de télétransmission animée par Antoine, un administratif de l'instance régionale de santé. Agacée par son ton condescendant, elle réagit par un mépris silencieux et une dévaluation intellectuelle pour se protéger de ce qu'elle perçoit comme une tentative de contrôle.",
+          "evolution": "Priya prend conscience que son mépris est une armure familière et un mécanisme de défense hérité de ses relations passées pour éviter toute sensation d'emprise. Elle réalise toutefois que cette stratégie de supériorité, bien qu'efficace pour préserver son ego, l'isole progressivement dans une tour d'ivoire.",
+          "elements_cles": {
+            "contexte_temporel": "07 avril 2026, 19h45",
+            "personnages_mentionnés": [
+              "Antoine (administratif)",
+              "Marc (ex-associé potentiel)",
+              "Raj (père)",
+              "Damien (ex-partenaire)",
+              "Julie (amie écartée)"
+            ],
+            "lieux_et_objets": [
+              "Cabinet de ville",
+              "sous-main en cuir",
+              "oreillette"
+            ],
+            "mecanismes_psychologiques": [
+              "Attachement évitant-dédaigneux",
+              "désactivation émotionnelle",
+              "besoin de contrôle"
+            ]
+          }
         }
       ],
       "genre": "F",

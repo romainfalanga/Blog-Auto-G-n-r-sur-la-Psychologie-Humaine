@@ -3083,6 +3083,120 @@
       "elements_cles": "Maison familiale à Nantes ; parents de 70 ans ; carnet de notes émotionnel ; Marc (collègue) ; Claire (amie) ; pratique du yoga ; retour prévu à Paris.",
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-07",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais d'optimisme",
+      "contexte": "face à une décision importante",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Karim",
+      "age": "40 ans",
+      "title": "Biais d'optimisme face à une décision importante : le comprendre",
+      "slug": "biais-optimisme-decision-importante-entrepreneur",
+      "tags": [
+        "psychologie cognitive",
+        "prise de décision",
+        "entrepreneuriat",
+        "biais optimisme",
+        "développement personnel"
+      ],
+      "resume_narratif": "Karim, entrepreneur ambitieux, ignore les alertes financières de son associé Romain concernant l'échec de leur restaurant à Lyon. Malgré ses dettes et une relation tendue avec Sofia, il projette déjà d'ouvrir un nouvel établissement sur le Vieux-Port de Marseille, aveuglé par son besoin de réussite.",
+      "evolution": "Karim ne montre aucune prise de conscience ; au contraire, il s'enfonce dans le biais d'optimisme, utilisant son charisme pour balayer les risques réels et se convaincre que son succès futur effacera ses erreurs passées.",
+      "elements_cles": "Romain (associé), Sofia (ex-compagne/relation en crise), Amine (fils/proche), restaurant de Lyon (en déficit), projet Marseille (Vieux-Port), échec de mars, micro-optimisation logistique.",
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "On comprend que l'impulsivité de Karim n'est pas qu'un défaut de caractère, mais une distorsion cognitive systématique : il surestime ses chances de réussite pour compenser l'insécurité héritée de ses origines modestes."
+    },
+    {
+      "date": "2026-04-07",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "mépris",
+      "contexte": "face à l'autorité",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": null,
+      "prenom": "Priya",
+      "age": "33 ans",
+      "title": "Mépris face à l'autorité : comprendre ce mécanisme de défense",
+      "slug": "mepris-face-a-l-autorite-mecanisme-defense",
+      "tags": [
+        "mépris",
+        "autorité",
+        "psychologie",
+        "protection émotionnelle",
+        "régulation émotionnelle"
+      ],
+      "resume_narratif": "Le 07 avril 2026, Priya participe à une visioconférence sur les procédures de télétransmission animée par Antoine, un administratif de l'instance régionale de santé. Agacée par son ton condescendant, elle réagit par un mépris silencieux et une dévaluation intellectuelle pour se protéger de ce qu'elle perçoit comme une tentative de contrôle.",
+      "evolution": "Priya prend conscience que son mépris est une armure familière et un mécanisme de défense hérité de ses relations passées pour éviter toute sensation d'emprise. Elle réalise toutefois que cette stratégie de supériorité, bien qu'efficace pour préserver son ego, l'isole progressivement dans une tour d'ivoire.",
+      "elements_cles": {
+        "contexte_temporel": "07 avril 2026, 19h45",
+        "personnages_mentionnés": [
+          "Antoine (administratif)",
+          "Marc (ex-associé potentiel)",
+          "Raj (père)",
+          "Damien (ex-partenaire)",
+          "Julie (amie écartée)"
+        ],
+        "lieux_et_objets": [
+          "Cabinet de ville",
+          "sous-main en cuir",
+          "oreillette"
+        ],
+        "mecanismes_psychologiques": [
+          "Attachement évitant-dédaigneux",
+          "désactivation émotionnelle",
+          "besoin de contrôle"
+        ]
+      },
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "L'article explore la fonction défensive du mépris chez Priya : en dévaluant intellectuellement les autres (ses confrères ou sa hiérarchie), elle maintient la distance nécessaire pour ne jamais se sentir à nouveau 'sous emprise'."
+    },
+    {
+      "date": "2026-04-07",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "le syndrome de l'imposteur",
+      "contexte": "à l'école ou aux études",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Lucas",
+      "age": "24 ans",
+      "title": "Syndrome de l'imposteur aux études : s'en libérer avec Lucas",
+      "slug": "syndrome-imposteur-ecole-etudes-lucas",
+      "tags": [
+        "syndrome de l'imposteur",
+        "réussite académique",
+        "psychologie étudiante",
+        "milieu modeste",
+        "confiance en soi"
+      ],
+      "resume_narratif": "Lucas, étudiant en école de commerce issu d'un milieu modeste, se sent comme une fraude lors d'un cours de stratégie internationale face à son colocataire Romain. Malgré une question pertinente en tête, il reste silencieux par peur d'être démasqué, tout en luttant contre la pression financière et les attentes de ses parents, Sandrine et Jean-Marc.",
+      "evolution": "Le personnage prend conscience que son sentiment d'illégitimité est lié à une dissonance entre ses origines sociales et son environnement actuel, le poussant à alterner entre perfectionnisme paralysant et auto-sabotage.",
+      "elements_cles": {
+        "personnages": [
+          "Romain (colocataire)",
+          "Sandrine et Jean-Marc (parents)",
+          "Maxime (ami)"
+        ],
+        "lieux": [
+          "Amphithéâtre d'une école de commerce parisienne",
+          "La Défense (lieu d'un ancien entretien)"
+        ],
+        "contexte_narratif": [
+          "Échec relatif à la remise intermédiaire du mémoire",
+          "Mensonges sur sa situation financière",
+          "Utilisation d'un masque de décontraction"
+        ],
+        "techniques_psychologiques": [
+          "Sur-préparation",
+          "Procrastination de défense",
+          "Comparaison sociale ascendante"
+        ]
+      },
+      "strategie_coherence": "connecter",
+      "apport_psychologique": "Cet article lie son ambition dévorante à son insécurité profonde. On démontre que son masque de 'gars cool' est une stratégie d'adaptation pour compenser un sentiment d'illégitimité académique et sociale."
     }
   ]
 }
