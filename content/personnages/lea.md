@@ -1,14 +1,14 @@
 ---
 title: "Léa"
-date: 2026-04-07T04:53:21+00:00
+date: 2026-04-08T04:57:01+00:00
 description: "Léa est étudiante en master de psychologie clinique. Célibataire, vit en studio étudiant."
 slug: "lea"
 prenom: "Léa"
 date_naissance: "2002-11-12"
 profession: "Étudiante en master de psychologie clinique"
 situation: "Célibataire, vit en studio étudiant"
-nb_articles: 5
-weight: 10
+nb_articles: 6
+weight: 3
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Léa réalise que sa prétendue intuition est en réalité une distorsion cognitive appelée 'lecture de pensée'. Elle comprend que ce mécanisme est une hyper-vigilance héritée du divorce de ses parents et de son passé d'enfant devant anticiper les crises familiales.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/lecture-de-pensee-en-amitie-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/causes-profondes-codependance-en-amitie/">La codépendance en amitié : comprendre les causes profondes</a></h3>
+    <div class="parcours-date">2026-04-08</div>
+    <p class="parcours-resume">Léa passe une nuit blanche à rédiger le dossier de rattrapage de son amie Zoé au détriment de ses propres révisions pour son examen de psychopathologie. Malgré son épuisement physique et le souvenir d'une trahison passée à la bibliothèque, elle se sent incapable de s'arrêter, prisonnière d'une mission de sauvetage envers son amie.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Léa prend conscience que son dévouement excessif est une forme de codépendance ancrée dans son enfance, où elle devait déjà consoler sa mère. Elle réalise qu'elle s'efface totalement derrière les besoins de Zoé par peur de devenir inutile et de voir la relation s'évaporer.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/causes-profondes-codependance-en-amitie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

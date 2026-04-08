@@ -1,14 +1,14 @@
 ---
 title: "Hugo"
-date: 2026-04-07T04:53:21+00:00
+date: 2026-04-08T04:57:01+00:00
 description: "Hugo est musicien semi-professionnel et serveur pour payer les factures. En relation instable avec chloé, musicienne aussi."
 slug: "hugo"
 prenom: "Hugo"
 date_naissance: "1999-02-08"
 profession: "Musicien semi-professionnel et serveur pour payer les factures"
 situation: "En relation instable avec chloé, musicienne aussi"
-nb_articles: 4
-weight: 20
+nb_articles: 5
+weight: 14
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Hugo identifie son mécanisme de raisonnement émotionnel et sa tendance à créer des prophéties autoréalisatrices, mais il reste pour l'instant incapable de briser le cycle de sabotage face à l'intimité.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilité-couple-causes-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/trahison-en-situation-de-competition-musicale/">Trahison en situation de compétition : comprendre et réagir</a></h3>
+    <div class="parcours-date">2026-04-08</div>
+    <p class="parcours-resume">Le 08 avril 2026, juste avant de monter sur scène pour un tremplin musical, Hugo apprend que son ami Samba rejoint un groupe rival pour la tournée d'été. Bouleversé par ce qu'il perçoit comme une trahison, il s'isole dans les coulisses, rejette le soutien de Chloé et sombre dans une vision binaire de la situation.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Hugo identifie que cette trahison réactive des blessures d'enfance liées à l'amour conditionnel de son père, Alain, et reconnaît sa tendance au sabotage défensif. Il commence à comprendre que son instabilité émotionnelle transforme un enjeu professionnel en une menace pour sa survie identitaire.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/trahison-en-situation-de-competition-musicale/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

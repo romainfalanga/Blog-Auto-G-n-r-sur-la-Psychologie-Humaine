@@ -1,14 +1,14 @@
 ---
 title: "Adrien"
-date: 2026-04-07T04:53:21+00:00
+date: 2026-04-08T04:57:01+00:00
 description: "Adrien est graphiste freelance. Célibataire depuis une rupture difficile il y a un an."
 slug: "adrien"
 prenom: "Adrien"
 date_naissance: "1994-06-07"
 profession: "Graphiste freelance"
 situation: "Célibataire depuis une rupture difficile il y a un an"
-nb_articles: 4
-weight: 19
+nb_articles: 5
+weight: 8
 draft: false
 ---
 
@@ -57,5 +57,16 @@ draft: false
       <p>Adrien identifie son schéma de dépendance et d'incompétence, réalisant que son besoin de validation constante est un mécanisme de défense lié à son passé d'enfant parentifié. Il prend conscience que sa procrastination et sa quête de réassurance sabotent son autonomie professionnelle.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/dependance-incompetence-face-autorite-causes/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien/">Rumination mentale seul face à soi-même : s'en libérer</a></h3>
+    <div class="parcours-date">2026-04-08</div>
+    <p class="parcours-resume">Seul dans son atelier à deux heures du matin, Adrien est incapable de travailler sur le logo d'un client, obsédé par un portrait de son ex-compagne, Marina. Il s'enferme dans une analyse obsessionnelle de leur rupture survenue un an plus tôt, délaissant ses responsabilités professionnelles pour revivre ses échecs passés.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Adrien identifie son mécanisme de rumination mentale comme une forme insidieuse de dépendance affective et de tendance à l'idéalisation. Il réalise que sa solitude transforme son introspection en un tribunal mental où il généralise ses difficultés actuelles en une faillite identitaire globale.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -3197,6 +3197,117 @@
       },
       "strategie_coherence": "connecter",
       "apport_psychologique": "Cet article lie son ambition dévorante à son insécurité profonde. On démontre que son masque de 'gars cool' est une stratégie d'adaptation pour compenser un sentiment d'illégitimité académique et sociale."
+    },
+    {
+      "date": "2026-04-08",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "rumination mentale",
+      "contexte": "seul(e) face à soi-même",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Adrien",
+      "age": "31 ans",
+      "title": "Rumination mentale seul face à soi-même : s'en libérer",
+      "slug": "rumination-mentale-seul-face-a-soi-meme-adrien",
+      "tags": [
+        "rumination mentale",
+        "psychologie",
+        "freelance",
+        "solitude",
+        "gestion des pensées"
+      ],
+      "resume_narratif": "Seul dans son atelier à deux heures du matin, Adrien est incapable de travailler sur le logo d'un client, obsédé par un portrait de son ex-compagne, Marina. Il s'enferme dans une analyse obsessionnelle de leur rupture survenue un an plus tôt, délaissant ses responsabilités professionnelles pour revivre ses échecs passés.",
+      "evolution": "Adrien identifie son mécanisme de rumination mentale comme une forme insidieuse de dépendance affective et de tendance à l'idéalisation. Il réalise que sa solitude transforme son introspection en un tribunal mental où il généralise ses difficultés actuelles en une faillite identitaire globale.",
+      "elements_cles": "Atelier de graphisme (8 avril 2026), Marina (ex-compagne), projet de logo en attente, bras tatoués, antécédents de pression paternelle, concept de 'réseau du mode par défaut', calque numérique 'Marina-test'.",
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "L'article démontre que la procrastination d'Adrien n'est pas de la paresse, mais le résultat d'un cycle de pensées circulaires sur son ex Marina et ses capacités professionnelles, créant une paralysie analytique."
+    },
+    {
+      "date": "2026-04-08",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "trahison",
+      "contexte": "en situation de compétition",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": null,
+      "prenom": "Hugo",
+      "age": "27 ans",
+      "title": "Trahison en situation de compétition : comprendre et réagir",
+      "slug": "trahison-en-situation-de-competition-musicale",
+      "tags": [
+        "trahison",
+        "compétition",
+        "psychologie",
+        "musique",
+        "émotions"
+      ],
+      "resume_narratif": "Le 08 avril 2026, juste avant de monter sur scène pour un tremplin musical, Hugo apprend que son ami Samba rejoint un groupe rival pour la tournée d'été. Bouleversé par ce qu'il perçoit comme une trahison, il s'isole dans les coulisses, rejette le soutien de Chloé et sombre dans une vision binaire de la situation.",
+      "evolution": "Hugo identifie que cette trahison réactive des blessures d'enfance liées à l'amour conditionnel de son père, Alain, et reconnaît sa tendance au sabotage défensif. Il commence à comprendre que son instabilité émotionnelle transforme un enjeu professionnel en une menace pour sa survie identitaire.",
+      "elements_cles": {
+        "personnages": [
+          "Hugo",
+          "Samba (ami 'traître')",
+          "Chloé (alliée)",
+          "Alain (père d'Hugo)"
+        ],
+        "contexte": "Tremplin musical, 08 avril 2026, coulisses de salle de concert",
+        "objets_symboliques": "Veste en jean, bagues en métal, guitare tenue comme une arme",
+        "concepts_psychologiques": [
+          "Trahison en situation de compétition",
+          "Comparaison sociale destructrice",
+          "Recadrage des faits",
+          "Auto-sabotage"
+        ]
+      },
+      "strategie_coherence": "enrichir",
+      "apport_psychologique": "L'article explore la différence entre la trahison perçue (paranoïa liée à l'abandon) et la réalité déceptive. Il connecte son besoin d'amour conditionnel (père Alain) à sa susceptibilité extrême dans le milieu de la musique."
+    },
+    {
+      "date": "2026-04-08",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "la codépendance",
+      "contexte": "en amitié",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Léa",
+      "age": "23 ans",
+      "title": "La codépendance en amitié : comprendre les causes profondes",
+      "slug": "causes-profondes-codependance-en-amitie",
+      "tags": [
+        "codépendance",
+        "amitié",
+        "psychologie",
+        "estime de soi",
+        "relations saines"
+      ],
+      "resume_narratif": "Léa passe une nuit blanche à rédiger le dossier de rattrapage de son amie Zoé au détriment de ses propres révisions pour son examen de psychopathologie. Malgré son épuisement physique et le souvenir d'une trahison passée à la bibliothèque, elle se sent incapable de s'arrêter, prisonnière d'une mission de sauvetage envers son amie.",
+      "evolution": "Léa prend conscience que son dévouement excessif est une forme de codépendance ancrée dans son enfance, où elle devait déjà consoler sa mère. Elle réalise qu'elle s'efface totalement derrière les besoins de Zoé par peur de devenir inutile et de voir la relation s'évaporer.",
+      "elements_cles": {
+        "personnages": [
+          "Zoé (amie)",
+          "Anne (mère)",
+          "Michel (père/ex-conjoint d'Anne)"
+        ],
+        "lieux": [
+          "Studio de Léa",
+          "Bibliothèque (lieu d'une trahison passée)",
+          "Garage d'Anne (souvenir d'enfance)"
+        ],
+        "concepts_et_references": [
+          "Codépendance",
+          "Théorie de l'attachement de Bowlby",
+          "Parentification précoce",
+          "Biais de lecture de pensée"
+        ],
+        "contexte_immediat": [
+          "Examen de psychopathologie le lendemain matin",
+          "Dossier de rattrapage de Zoé"
+        ]
+      },
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "On passe d'une observation de symptômes (jalousie, rejet) à la racine structurelle de sa personnalité : le besoin d'être indispensable pour ne pas être quittée. Cela explique son choix d'études (psycho) comme une extension de son rôle de régulatrice familiale."
     }
   ]
 }
