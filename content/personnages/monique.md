@@ -1,14 +1,14 @@
 ---
 title: "Monique"
-date: 2026-04-08T04:57:01+00:00
+date: 2026-04-09T04:54:33+00:00
 description: "Monique est retraitée, ancienne professeure de français. Veuve depuis 3 ans, deux enfants adultes, trois petits-enfants."
 slug: "monique"
 prenom: "Monique"
 date_naissance: "1964-01-30"
 profession: "Retraitée, ancienne professeure de français"
 situation: "Veuve depuis 3 ans, deux enfants adultes, trois petits-enfants"
-nb_articles: 5
-weight: 13
+nb_articles: 6
+weight: 6
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Monique prend conscience que son anxiété financière est liée à son regard et à son éducation plutôt qu'aux chiffres réels. Elle commence à comprendre que la gratitude pourrait transformer sa perception du manque en une reconnaissance de l'utilité de ses ressources et de son autonomie.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/gratitude-face-a-l-argent-et-aux-finances/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/transmissions-transgenerationnelles-avec-ses-enfants-comprendre/">Transmissions transgénérationnelles avec ses enfants : s'en libérer</a></h3>
+    <div class="parcours-date">2026-04-09</div>
+    <p class="parcours-resume">Le 09 avril 2026, Monique se trouve sur un port avec sa petite-fille Lola pour acheter une glace. Elle est soudainement paralysée par une anxiété financière irrationnelle et la voix intérieure de son père artisan qui lui dicte de refuser ce plaisir superflu.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Monique prend conscience que son pessimisme et sa rigueur sont des loyautés invisibles héritées de ses parents. Elle réalise qu'en refusant cette glace, elle risque de transmettre ce fardeau de privation à Lola, tout comme elle l'a déjà fait avec ses propres enfants, Isabelle et François.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/transmissions-transgenerationnelles-avec-ses-enfants-comprendre/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -740,7 +740,7 @@
       "age": 38,
       "tranche_age": "adulte en pleine vie active (36-45 ans)",
       "profession": "directrice marketing dans une entreprise tech",
-      "situation_familiale": "divorcée, mère d'une fille (Yasmine, 8 ans), garde alternée",
+      "situation_familiale": "en couple avec Antoine, mère d'une fille (Yasmine, 8 ans), garde alternée",
       "traits_personnalite": [
         "déterminée",
         "contrôlante",
@@ -907,11 +907,45 @@
           "resume_narratif": "Nadia organise l'anniversaire de sa fille Yasmine avec une rigueur quasi militaire, utilisant un tableur Excel pour tout régenter. L'arrivée décontractée de son ex-mari Karim et un incident domestique impliquant des perles renversées viennent bousculer son besoin maladif de maîtrise.",
           "evolution": "Nadia prend conscience que son hyper-organisation est un mécanisme de défense contre l'instabilité de son divorce, réalisant que son illusion de contrôle transforme la parentalité en une gestion de projet épuisante et rigide.",
           "elements_cles": "Yasmine (fille, 8 ans) ; Karim (ex-mari) ; Julie (assistante) ; Fatima (mère de Nadia, source de son exigence) ; mèche de cheveux noirs mi-longs ; tableur Excel 'Anniversaire Yasmine' ; traumatisme du divorce ; éducation rigide héritée."
+        },
+        {
+          "date": "2026-04-09",
+          "sujet": "journaling de pensées",
+          "contexte": "dans l'intimité et la sexualité",
+          "category": "cat1_pensees",
+          "titre": "Journaling de pensées dans l'intimité et la sexualité",
+          "slug": "journaling-pensees-intimite-sexualite-nadia",
+          "resume_narratif": "Incapable de se détendre auprès d'Antoine à cause d'une surcharge mentale liée à son travail de directrice marketing, Nadia s'isole dans son bureau en pleine nuit. Elle décide d'utiliser un carnet en cuir pour pratiquer le journaling de pensées afin de libérer les tensions qui parasitent son intimité.",
+          "evolution": "Nadia réalise que son besoin de contrôle et son perfectionnisme professionnel agissent comme une armure qui l'empêche d'être vulnérable et présente dans sa vie sexuelle. Elle comprend que ses pensées automatiques de performance sont des obstacles à son plaisir sensoriel.",
+          "elements_cles": {
+            "personnages": [
+              "Antoine (conjoint)",
+              "Yasmine (fille)",
+              "Julie (assistante)",
+              "Fatima (mère)"
+            ],
+            "lieux": [
+              "Chambre à coucher",
+              "Petit bureau dans le coin de la pièce"
+            ],
+            "contexte_pro": [
+              "Directrice marketing",
+              "Scale-up concurrente",
+              "Gestion par tableur Excel"
+            ],
+            "technique_apprise": [
+              "Journaling de pensées / Écriture expressive",
+              "Identification du spectatoring (auto-observation)"
+            ],
+            "objet_cle": [
+              "Carnet à couverture de cuir"
+            ]
+          }
         }
       ],
       "genre": "F",
       "date_naissance": "1987-05-18",
-      "description_dynamique": "Nadia est directrice marketing dans une entreprise tech. Divorcée, mère d'une fille (yasmine, 8 ans), garde alternée."
+      "description_dynamique": "Nadia est directrice marketing dans une entreprise tech. En couple avec Antoine, elle est mère d'une fille (Yasmine, 8 ans) en garde alternée."
     },
     {
       "id": "adrien",
@@ -1425,6 +1459,37 @@
               "Réévaluation cognitive",
               "Alexithymie",
               "Biais de projection"
+            ]
+          }
+        },
+        {
+          "date": "2026-04-09",
+          "sujet": "confusion émotionnelle",
+          "contexte": "avec ses parents",
+          "category": "cat2_emotions",
+          "titre": "Confusion émotionnelle avec ses parents : comprendre ce flou",
+          "slug": "confusion-emotionnelle-avec-ses-parents-comprendre",
+          "resume_narratif": "Youssef rend visite à ses parents, Leïla et Hamid, dans leur cuisine familiale. Face à la vulnérabilité émotionnelle de sa mère et à la pudeur silencieuse de son père, il se retrouve incapable d'identifier ses propres sentiments, plongeant dans un brouillard intérieur malgré ses récents progrès avec Léa.",
+          "evolution": "Youssef identifie son mécanisme de confusion émotionnelle : il comprend qu'il utilise l'intellectualisation et la précision technique (calculs mentaux, analyse des chiffres) comme boucliers pour compenser son incapacité à nommer ses émotions face aux attentes familiales.",
+          "elements_cles": {
+            "personnages": [
+              "Leïla (mère expressive)",
+              "Hamid (père pudique)",
+              "Léa (compagne mentionnée)"
+            ],
+            "lieux": [
+              "Cuisine familiale",
+              "Lyon (projet de déménagement)"
+            ],
+            "techniques_et_concepts": [
+              "Réévaluation cognitive",
+              "Intellectualisation",
+              "Confusion émotionnelle vs Alexithymie"
+            ],
+            "indices_comportementaux": [
+              "Calcul du débit d'eau",
+              "Vérification de l'heure exacte (16h30)",
+              "Analyse syntaxique des reproches"
             ]
           }
         }
@@ -2260,6 +2325,41 @@
             "evenements_recents": [
               "Visite au cimetière il y a dix jours",
               "Peur irrationnelle d'une panne de voiture"
+            ]
+          }
+        },
+        {
+          "date": "2026-04-09",
+          "sujet": "transmissions transgénérationnelles",
+          "contexte": "avec ses enfants",
+          "category": "cat3_schemas",
+          "titre": "Transmissions transgénérationnelles avec ses enfants : s'en libérer",
+          "slug": "transmissions-transgenerationnelles-avec-ses-enfants-comprendre",
+          "resume_narratif": "Le 09 avril 2026, Monique se trouve sur un port avec sa petite-fille Lola pour acheter une glace. Elle est soudainement paralysée par une anxiété financière irrationnelle et la voix intérieure de son père artisan qui lui dicte de refuser ce plaisir superflu.",
+          "evolution": "Monique prend conscience que son pessimisme et sa rigueur sont des loyautés invisibles héritées de ses parents. Elle réalise qu'en refusant cette glace, elle risque de transmettre ce fardeau de privation à Lola, tout comme elle l'a déjà fait avec ses propres enfants, Isabelle et François.",
+          "elements_cles": {
+            "personnages": [
+              "Monique",
+              "Lola (petite-fille)",
+              "Jean-Claude (défunt mari)",
+              "Isabelle (fille)",
+              "François (fils)",
+              "Le père de Monique"
+            ],
+            "lieux": [
+              "Boutique de glaces sur le port",
+              "Atelier dans l'Oise (souvenir)",
+              "Grande maison vide"
+            ],
+            "objets_symboliques": [
+              "Collier de perles de sa mère",
+              "Porte-monnaie en cuir",
+              "Dossiers médicaux de Jean-Claude"
+            ],
+            "concepts_integres": [
+              "Loyautés invisibles",
+              "Fantôme psychique",
+              "Transmission du pessimisme"
             ]
           }
         }

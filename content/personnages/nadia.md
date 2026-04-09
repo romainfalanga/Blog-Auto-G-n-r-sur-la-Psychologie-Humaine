@@ -1,14 +1,14 @@
 ---
 title: "Nadia"
-date: 2026-04-08T04:57:01+00:00
-description: "Nadia est directrice marketing dans une entreprise tech. Divorcée, mère d'une fille (yasmine, 8 ans), garde alternée."
+date: 2026-04-09T04:54:33+00:00
+description: "Nadia est directrice marketing dans une entreprise tech. En couple avec Antoine, elle est mère d'une fille (Yasmine, 8 ans) en garde alternée."
 slug: "nadia"
 prenom: "Nadia"
 date_naissance: "1987-05-18"
 profession: "Directrice marketing dans une entreprise tech"
-situation: "Divorcée, mère d'une fille (yasmine, 8 ans), garde alternée"
-nb_articles: 5
-weight: 7
+situation: "En couple avec antoine, mère d'une fille (yasmine, 8 ans), garde alternée"
+nb_articles: 6
+weight: 2
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Nadia prend conscience que son hyper-organisation est un mécanisme de défense contre l'instabilité de son divorce, réalisant que son illusion de contrôle transforme la parentalité en une gestion de projet épuisante et rigide.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/illusion-de-controle-avec-ses-enfants-parentalite/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/journaling-pensees-intimite-sexualite-nadia/">Journaling de pensées dans l'intimité et la sexualité</a></h3>
+    <div class="parcours-date">2026-04-09</div>
+    <p class="parcours-resume">Incapable de se détendre auprès d'Antoine à cause d'une surcharge mentale liée à son travail de directrice marketing, Nadia s'isole dans son bureau en pleine nuit. Elle décide d'utiliser un carnet en cuir pour pratiquer le journaling de pensées afin de libérer les tensions qui parasitent son intimité.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Nadia réalise que son besoin de contrôle et son perfectionnisme professionnel agissent comme une armure qui l'empêche d'être vulnérable et présente dans sa vie sexuelle. Elle comprend que ses pensées automatiques de performance sont des obstacles à son plaisir sensoriel.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/journaling-pensees-intimite-sexualite-nadia/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

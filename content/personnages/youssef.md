@@ -1,14 +1,14 @@
 ---
 title: "Youssef"
-date: 2026-04-08T04:57:01+00:00
+date: 2026-04-09T04:54:33+00:00
 description: "Youssef est ingénieur en informatique dans un grand groupe. En couple avec léa depuis 2 ans, vit en appartement."
 slug: "youssef"
 prenom: "Youssef"
 date_naissance: "1996-08-14"
 profession: "Ingénieur en informatique dans un grand groupe"
 situation: "En couple avec léa depuis 2 ans, vit en appartement"
-nb_articles: 5
-weight: 9
+nb_articles: 6
+weight: 4
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Youssef commence à prendre conscience de son alexithymie et du coût de sa suppression émotionnelle, réalisant que son 'masque de marbre' crée une barrière avec Léa plutôt que de la protéger. Il entrevoit la réévaluation cognitive comme une alternative pour transformer ses perceptions défensives en empathie.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/suppression-emotionnelle-reevaluation-cognitive-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/confusion-emotionnelle-avec-ses-parents-comprendre/">Confusion émotionnelle avec ses parents : comprendre ce flou</a></h3>
+    <div class="parcours-date">2026-04-09</div>
+    <p class="parcours-resume">Youssef rend visite à ses parents, Leïla et Hamid, dans leur cuisine familiale. Face à la vulnérabilité émotionnelle de sa mère et à la pudeur silencieuse de son père, il se retrouve incapable d'identifier ses propres sentiments, plongeant dans un brouillard intérieur malgré ses récents progrès avec Léa.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Youssef identifie son mécanisme de confusion émotionnelle : il comprend qu'il utilise l'intellectualisation et la précision technique (calculs mentaux, analyse des chiffres) comme boucliers pour compenser son incapacité à nommer ses émotions face aux attentes familiales.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/confusion-emotionnelle-avec-ses-parents-comprendre/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

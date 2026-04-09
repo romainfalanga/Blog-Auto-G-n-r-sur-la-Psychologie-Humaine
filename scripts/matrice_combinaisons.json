@@ -3308,6 +3308,148 @@
       },
       "strategie_coherence": "rationaliser",
       "apport_psychologique": "On passe d'une observation de symptômes (jalousie, rejet) à la racine structurelle de sa personnalité : le besoin d'être indispensable pour ne pas être quittée. Cela explique son choix d'études (psycho) comme une extension de son rôle de régulatrice familiale."
+    },
+    {
+      "date": "2026-04-09",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "journaling de pensées",
+      "contexte": "dans l'intimité et la sexualité",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": null,
+      "prenom": "Nadia",
+      "age": "38 ans",
+      "title": "Journaling de pensées dans l'intimité et la sexualité",
+      "slug": "journaling-pensees-intimite-sexualite-nadia",
+      "tags": [
+        "journaling",
+        "psychologie",
+        "intimité",
+        "gestion du stress",
+        "connaissance de soi"
+      ],
+      "resume_narratif": "Incapable de se détendre auprès d'Antoine à cause d'une surcharge mentale liée à son travail de directrice marketing, Nadia s'isole dans son bureau en pleine nuit. Elle décide d'utiliser un carnet en cuir pour pratiquer le journaling de pensées afin de libérer les tensions qui parasitent son intimité.",
+      "evolution": "Nadia réalise que son besoin de contrôle et son perfectionnisme professionnel agissent comme une armure qui l'empêche d'être vulnérable et présente dans sa vie sexuelle. Elle comprend que ses pensées automatiques de performance sont des obstacles à son plaisir sensoriel.",
+      "elements_cles": {
+        "personnages": [
+          "Antoine (conjoint)",
+          "Yasmine (fille)",
+          "Julie (assistante)",
+          "Fatima (mère)"
+        ],
+        "lieux": [
+          "Chambre à coucher",
+          "Petit bureau dans le coin de la pièce"
+        ],
+        "contexte_pro": [
+          "Directrice marketing",
+          "Scale-up concurrente",
+          "Gestion par tableur Excel"
+        ],
+        "technique_apprise": [
+          "Journaling de pensées / Écriture expressive",
+          "Identification du spectatoring (auto-observation)"
+        ],
+        "objet_cle": [
+          "Carnet à couverture de cuir"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-09",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "confusion émotionnelle",
+      "contexte": "avec ses parents",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Youssef",
+      "age": "29 ans",
+      "title": "Confusion émotionnelle avec ses parents : comprendre ce flou",
+      "slug": "confusion-emotionnelle-avec-ses-parents-comprendre",
+      "tags": [
+        "psychologie",
+        "famille",
+        "émotions",
+        "enfance",
+        "bien-être"
+      ],
+      "resume_narratif": "Youssef rend visite à ses parents, Leïla et Hamid, dans leur cuisine familiale. Face à la vulnérabilité émotionnelle de sa mère et à la pudeur silencieuse de son père, il se retrouve incapable d'identifier ses propres sentiments, plongeant dans un brouillard intérieur malgré ses récents progrès avec Léa.",
+      "evolution": "Youssef identifie son mécanisme de confusion émotionnelle : il comprend qu'il utilise l'intellectualisation et la précision technique (calculs mentaux, analyse des chiffres) comme boucliers pour compenser son incapacité à nommer ses émotions face aux attentes familiales.",
+      "elements_cles": {
+        "personnages": [
+          "Leïla (mère expressive)",
+          "Hamid (père pudique)",
+          "Léa (compagne mentionnée)"
+        ],
+        "lieux": [
+          "Cuisine familiale",
+          "Lyon (projet de déménagement)"
+        ],
+        "techniques_et_concepts": [
+          "Réévaluation cognitive",
+          "Intellectualisation",
+          "Confusion émotionnelle vs Alexithymie"
+        ],
+        "indices_comportementaux": [
+          "Calcul du débit d'eau",
+          "Vérification de l'heure exacte (16h30)",
+          "Analyse syntaxique des reproches"
+        ]
+      },
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "On dépasse le stade du simple constat (il ne ressent rien) pour explorer le chaos interne. Cela humanise Youssef en montrant que son intellectualisation est une bouée de sauvetage face à un tsunami sensoriel qu'il n'a jamais appris à nommer avec ses parents."
+    },
+    {
+      "date": "2026-04-09",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "transmissions transgénérationnelles",
+      "contexte": "avec ses enfants",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Monique",
+      "age": "62 ans",
+      "title": "Transmissions transgénérationnelles avec ses enfants : s'en libérer",
+      "slug": "transmissions-transgenerationnelles-avec-ses-enfants-comprendre",
+      "tags": [
+        "psychologie",
+        "famille",
+        "héritage émotionnel",
+        "éducation",
+        "deuil"
+      ],
+      "resume_narratif": "Le 09 avril 2026, Monique se trouve sur un port avec sa petite-fille Lola pour acheter une glace. Elle est soudainement paralysée par une anxiété financière irrationnelle et la voix intérieure de son père artisan qui lui dicte de refuser ce plaisir superflu.",
+      "evolution": "Monique prend conscience que son pessimisme et sa rigueur sont des loyautés invisibles héritées de ses parents. Elle réalise qu'en refusant cette glace, elle risque de transmettre ce fardeau de privation à Lola, tout comme elle l'a déjà fait avec ses propres enfants, Isabelle et François.",
+      "elements_cles": {
+        "personnages": [
+          "Monique",
+          "Lola (petite-fille)",
+          "Jean-Claude (défunt mari)",
+          "Isabelle (fille)",
+          "François (fils)",
+          "Le père de Monique"
+        ],
+        "lieux": [
+          "Boutique de glaces sur le port",
+          "Atelier dans l'Oise (souvenir)",
+          "Grande maison vide"
+        ],
+        "objets_symboliques": [
+          "Collier de perles de sa mère",
+          "Porte-monnaie en cuir",
+          "Dossiers médicaux de Jean-Claude"
+        ],
+        "concepts_integres": [
+          "Loyautés invisibles",
+          "Fantôme psychique",
+          "Transmission du pessimisme"
+        ]
+      },
+      "strategie_coherence": "connecter",
+      "apport_psychologique": "L'article révèle que Monique porte les 'valises' de ses ancêtres. En identifiant que sa peur de manquer et son pessimisme ne lui appartiennent pas en propre, elle peut enfin s'autoriser une relation plus légère avec ses enfants et petits-enfants."
     }
   ]
 }
