@@ -1,14 +1,14 @@
 ---
 title: "Patrick"
-date: 2026-04-09T04:54:33+00:00
+date: 2026-04-10T05:07:02+00:00
 description: "Patrick est ancien ouvrier, maintenant chef d'équipe dans le BTP. Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils."
 slug: "patrick"
 prenom: "Patrick"
 date_naissance: "1969-10-28"
 profession: "Ancien ouvrier, maintenant chef d'équipe dans le btp"
 situation: "Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils"
-nb_articles: 5
-weight: 12
+nb_articles: 6
+weight: 6
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Patrick prend conscience que son identité, bâtie sur la force brute et l'utilité physique, s'effondre. Il réalise que son 'biais du point aveugle' l'a empêché d'accepter sa propre fatigue, le laissant désormais face à un vide identitaire et une perte de contrôle totale.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/impuissance-face-au-vieillissement-signes-et-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/colere-en-situation-de-conflit-comprendre-s-affirmer/">Colère en situation de conflit : comprendre et s'affirmer</a></h3>
+    <div class="parcours-date">2026-04-10</div>
+    <p class="parcours-resume">Sur son chantier le 10 avril 2026, Patrick a explosé de rage contre son jeune ouvrier Antoine après avoir manqué de le renverser à cause d'une vive douleur aux lombaires. Réfugié dans sa camionnette, il lutte désormais contre la honte et des tremblements physiques après ce débordement de fureur inédit.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Patrick réalise que sa colère est un mécanisme de défense masquant sa peur du déclin physique et son sentiment d'impuissance. Il comprend que son armure de silence s'est brisée, libérant un torrent émotionnel qu'il ne parvient plus à contrôler comme le faisait son père.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/colere-en-situation-de-conflit-comprendre-s-affirmer/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

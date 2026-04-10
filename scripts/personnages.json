@@ -1641,6 +1641,17 @@
           "resume_narratif": "Lors d'une réunion de crise au collège suite à un incident avec des élèves, Isabelle observe ses collègues, dont Laurent et Claire, s'unir dans une colère collective contre les parents. Elle ressent la tentation de se fondre dans ce 'nous' protecteur pour échapper à sa propre fatigue émotionnelle, tout en luttant contre son besoin viscéral de neutralité.",
           "evolution": "Isabelle prend conscience que le biais de groupe agit comme un mécanisme de défense simplificateur qui apaise son épuisement, mais elle réalise que son appartenance au groupe des professeurs menace son intégrité de psychologue et sa capacité d'empathie.",
           "elements_cles": "Salle des professeurs du collège ; Laurent (professeur d'histoire) ; Claire (CPE) ; Théo (son fils) ; passé d'enfant parentifiée ; dilemme entre loyauté au groupe et mission de justice ; fatigue de compassion."
+        },
+        {
+          "date": "2026-04-10",
+          "sujet": "méthode ABCDE d'Ellis",
+          "contexte": "seul(e) face à soi-même",
+          "category": "cat1_pensees",
+          "titre": "La méthode ABCDE d'Ellis : s'apaiser seul face à soi-même",
+          "slug": "methode-abcde-ellis-seule-face-a-soi-meme",
+          "resume_narratif": "Isabelle se retrouve seule chez elle le 10 avril 2026 après le départ de son fils Théo chez son père, Laurent. Un message culpabilisant de sa mère, Geneviève, déclenche une crise d'anxiété qui la pousse à utiliser la méthode ABCDE d'Ellis pour ne pas céder au cycle du sacrifice de soi.",
+          "evolution": "Isabelle passe d'une réaction émotionnelle de culpabilité héritée de l'enfance à une démarche de restructuration cognitive. Elle décide de ne pas s'excuser immédiatement et choisit d'analyser rationnellement ses croyances pour briser sa fatigue de compassion.",
+          "elements_cles": "Appartement d'Isabelle; Théo (fils); Laurent (ex-conjoint); Geneviève (mère); Aurélie (mentionnée); méthode ABCDE d'Ellis; carnet de notes; décision de ne pas appeler sa mère; date du 10 avril 2026."
         }
       ],
       "genre": "F",
@@ -1794,6 +1805,17 @@
           "resume_narratif": "Le 06 avril 2026, Patrick subit une violente décharge lombaire sur son chantier alors qu'il observe le jeune Antoine manipuler des charges avec aisance. Incapable de maintenir son rôle de pilier physique, il se retire à l'écart pour confronter son sentiment d'impuissance face au déclin de son corps.",
           "evolution": "Patrick prend conscience que son identité, bâtie sur la force brute et l'utilité physique, s'effondre. Il réalise que son 'biais du point aveugle' l'a empêché d'accepter sa propre fatigue, le laissant désormais face à un vide identitaire et une perte de contrôle totale.",
           "elements_cles": "Chantier de lotissement (lisière de forêt) ; Antoine (jeune ouvrier) ; Catherine (conjointe) ; Marcel (père décédé) ; Julien et Stéphanie (enfants) ; douleur sciatique jambe gauche ; bocal de haricots (incident déclencheur)."
+        },
+        {
+          "date": "2026-04-10",
+          "sujet": "colère",
+          "contexte": "en situation de conflit",
+          "category": "cat2_emotions",
+          "titre": "Colère en situation de conflit : comprendre et s'affirmer",
+          "slug": "colere-en-situation-de-conflit-comprendre-s-affirmer",
+          "resume_narratif": "Sur son chantier le 10 avril 2026, Patrick a explosé de rage contre son jeune ouvrier Antoine après avoir manqué de le renverser à cause d'une vive douleur aux lombaires. Réfugié dans sa camionnette, il lutte désormais contre la honte et des tremblements physiques après ce débordement de fureur inédit.",
+          "evolution": "Patrick réalise que sa colère est un mécanisme de défense masquant sa peur du déclin physique et son sentiment d'impuissance. Il comprend que son armure de silence s'est brisée, libérant un torrent émotionnel qu'il ne parvient plus à contrôler comme le faisait son père.",
+          "elements_cles": "Chantier de construction ; Antoine (ouvrier) ; Marcel (père décédé, modèle de stoïcisme froid) ; Catherine ; Stéphanie (fille) ; douleurs lombaires chroniques ; date du 10 avril 2026 ; sentiment de honte post-conflit."
         }
       ],
       "genre": "M",
@@ -3535,6 +3557,37 @@
               "Montre (automatisme)"
             ],
             "contexte_temporel": "Avril 2026"
+          }
+        },
+        {
+          "date": "2026-04-10",
+          "sujet": "somatisation",
+          "contexte": "face au vieillissement",
+          "category": "cat3_schemas",
+          "titre": "Somatisation face au vieillissement : quand le corps parle",
+          "slug": "somatisation-face-au-vieillissement-corps-parle",
+          "resume_narratif": "Le 10 avril 2026, alors qu'il fabrique un établi pour son fils Éric dans son atelier, Bernard est victime d'un blocage lombaire brutal en déplaçant une planche. Cette douleur physique intense survient dans un contexte émotionnel lourd marqué par le départ d'Hélène et la réception d'un courrier notarial.",
+          "evolution": "Bernard réalise que son corps exprime physiquement le mutisme et le chagrin qu'il s'efforce de taire depuis des années. Il comprend que sa rigidité musculaire est une armure émotionnelle devenue contre-productive face au vieillissement et à ses deuils non exprimés.",
+          "elements_cles": {
+            "personnages": [
+              "Bernard (58 ans)",
+              "Éric (son fils)",
+              "Hélène (partie récemment)",
+              "Sultan (son chien)"
+            ],
+            "lieux": [
+              "Atelier de menuiserie à la campagne",
+              "Toscane (voyage récent)"
+            ],
+            "objets_declencheurs": [
+              "Établi en chêne",
+              "Enveloppe notariale"
+            ],
+            "contexte_psychologique": [
+              "Mutisme hérité des parents",
+              "Besoin de contrôle",
+              "Somatisation des lombaires"
+            ]
           }
         }
       ],

@@ -1,14 +1,14 @@
 ---
 title: "Bernard"
-date: 2026-04-09T04:54:33+00:00
+date: 2026-04-10T05:07:02+00:00
 description: "Bernard est artisan ébéniste en campagne. Veuf, il tente de rompre son isolement et de renouer avec son fils Éric, malgré une profonde apathie émotionnelle."
 slug: "bernard"
 prenom: "Bernard"
 date_naissance: "1967-08-21"
 profession: "Artisan ébéniste, atelier en campagne"
 situation: "Veuf, en phase de réconciliation avec son fils éric"
-nb_articles: 5
-weight: 20
+nb_articles: 6
+weight: 9
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Bernard prend conscience que son mutisme intérieur, autrefois un bouclier protecteur contre ses parents, est devenu une chape de plomb qui l'empêche de ressentir la moindre émotion. Il réalise que l'ouverture de l'enveloppe notariale a épuisé ses dernières réserves d'élan vital.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/apathie-en-voyage-ou-expatriation-comprendre/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/somatisation-face-au-vieillissement-corps-parle/">Somatisation face au vieillissement : quand le corps parle</a></h3>
+    <div class="parcours-date">2026-04-10</div>
+    <p class="parcours-resume">Le 10 avril 2026, alors qu'il fabrique un établi pour son fils Éric dans son atelier, Bernard est victime d'un blocage lombaire brutal en déplaçant une planche. Cette douleur physique intense survient dans un contexte émotionnel lourd marqué par le départ d'Hélène et la réception d'un courrier notarial.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Bernard réalise que son corps exprime physiquement le mutisme et le chagrin qu'il s'efforce de taire depuis des années. Il comprend que sa rigidité musculaire est une armure émotionnelle devenue contre-productive face au vieillissement et à ses deuils non exprimés.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/somatisation-face-au-vieillissement-corps-parle/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

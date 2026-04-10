@@ -1,14 +1,14 @@
 ---
 title: "Isabelle"
-date: 2026-04-09T04:54:33+00:00
+date: 2026-04-10T05:07:02+00:00
 description: "Isabelle est psychologue scolaire dans un collège. Divorcée, un fils adolescent (théo, 16 ans)."
 slug: "isabelle"
 prenom: "Isabelle"
 date_naissance: "1978-09-03"
 profession: "Psychologue scolaire dans un collège"
 situation: "Divorcée, un fils adolescent (théo, 16 ans)"
-nb_articles: 5
-weight: 11
+nb_articles: 6
+weight: 5
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Isabelle prend conscience que le biais de groupe agit comme un mécanisme de défense simplificateur qui apaise son épuisement, mais elle réalise que son appartenance au groupe des professeurs menace son intégrité de psychologue et sa capacité d'empathie.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-en-situation-de-conflit-comprendre/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/methode-abcde-ellis-seule-face-a-soi-meme/">La méthode ABCDE d'Ellis : s'apaiser seul face à soi-même</a></h3>
+    <div class="parcours-date">2026-04-10</div>
+    <p class="parcours-resume">Isabelle se retrouve seule chez elle le 10 avril 2026 après le départ de son fils Théo chez son père, Laurent. Un message culpabilisant de sa mère, Geneviève, déclenche une crise d'anxiété qui la pousse à utiliser la méthode ABCDE d'Ellis pour ne pas céder au cycle du sacrifice de soi.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Isabelle passe d'une réaction émotionnelle de culpabilité héritée de l'enfance à une démarche de restructuration cognitive. Elle décide de ne pas s'excuser immédiatement et choisit d'analyser rationnellement ses croyances pour briser sa fatigue de compassion.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/methode-abcde-ellis-seule-face-a-soi-meme/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
