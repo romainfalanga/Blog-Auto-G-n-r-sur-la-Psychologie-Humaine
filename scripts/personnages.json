@@ -151,6 +151,35 @@
           "resume_narratif": "Lors d'un déjeuner dominical chez ses parents à Nantes, Sophie se retrouve à accomplir une multitude de tâches ménagères et logistiques pour les soulager. Malgré sa fatigue et ses propres besoins, elle accepte d'aller à la pharmacie, annulant ainsi sa soirée de repos prévue à Paris.",
           "evolution": "Sophie commence à nommer son 'érosion intérieure' et réalise que son dévouement excessif est un schéma profond lié à son besoin d'être la petite fille parfaite pour mériter l'estime de ses parents. Elle identifie le lien entre son comportement actuel et ses mécanismes de défense professionnels.",
           "elements_cles": "Maison familiale à Nantes ; parents de 70 ans ; carnet de notes émotionnel ; Marc (collègue) ; Claire (amie) ; pratique du yoga ; retour prévu à Paris."
+        },
+        {
+          "date": "2026-04-11",
+          "sujet": "pensées automatiques négatives",
+          "contexte": "seul(e) face à soi-même",
+          "category": "cat1_pensees",
+          "titre": "Pensées automatiques négatives : s'en libérer quand on est seule",
+          "slug": "pensees-automatiques-negatives-seule-face-a-soi-meme",
+          "resume_narratif": "Un dimanche soir dans son appartement parisien, Sophie est assaillie par une pensée automatique dévalorisante en vérifiant son code informatique. Seule face à son écran, elle revit une tension familière liée à son éducation et sombre dans une spirale d'autocritique technique.",
+          "evolution": "Sophie identifie le mécanisme de ses pensées automatiques comme le moteur de son syndrome de l'imposteur et réalise que ses émotions ne sont pas des faits. Elle prend conscience que son cerveau transforme des doutes mineurs en vérités absolues par réflexe.",
+          "elements_cles": {
+            "lieux": [
+              "Appartement dans le 11ème arrondissement de Paris",
+              "Nantes (maison de ses parents)"
+            ],
+            "personnages_mentionnes": [
+              "Marc (collègue)",
+              "Claire (amie/soutien)",
+              "Parents de Sophie"
+            ],
+            "contexte_temporel": "Dimanche 11 avril 2026",
+            "concepts_et_techniques": [
+              "Pensées automatiques négatives (Aaron Beck)",
+              "Lecture d'esprit inversée",
+              "Généralisation excessive",
+              "Raisonnement émotionnel",
+              "Effet Dunning-Kruger"
+            ]
+          }
         }
       ],
       "genre": "F",
@@ -2196,6 +2225,17 @@
           "resume_narratif": "Karim, entrepreneur ambitieux, ignore les alertes financières de son associé Romain concernant l'échec de leur restaurant à Lyon. Malgré ses dettes et une relation tendue avec Sofia, il projette déjà d'ouvrir un nouvel établissement sur le Vieux-Port de Marseille, aveuglé par son besoin de réussite.",
           "evolution": "Karim ne montre aucune prise de conscience ; au contraire, il s'enfonce dans le biais d'optimisme, utilisant son charisme pour balayer les risques réels et se convaincre que son succès futur effacera ses erreurs passées.",
           "elements_cles": "Romain (associé), Sofia (ex-compagne/relation en crise), Amine (fils/proche), restaurant de Lyon (en déficit), projet Marseille (Vieux-Port), échec de mars, micro-optimisation logistique."
+        },
+        {
+          "date": "2026-04-11",
+          "sujet": "culpabilité",
+          "contexte": "avec ses enfants",
+          "category": "cat2_emotions",
+          "titre": "Culpabilité avec ses enfants : comprendre et agir | Karim",
+          "slug": "culpabilite-avec-ses-enfants-comprendre-agir",
+          "resume_narratif": "Karim tente de passer un après-midi avec sa fille Lina pour compenser ses absences répétées dues à ses restaurants et son projet à Lyon. Face au silence pesant de l'enfant, il essaie maladroitement de racheter sa présence en lui offrant une console de jeux dernier cri.",
+          "evolution": "Il réalise que ses cadeaux matériels sont dérisoires face au besoin de connexion réelle et prend conscience que son ambition professionnelle lui sert d'excuse pour fuir une intimité familiale dont il ne maîtrise pas les codes.",
+          "elements_cles": "Lina (fille de 9 ans), Sofia (conjointe), Sami et Amine (enfants), Romain (associé), projet à Lyon, héritage paternel (père épicier), technique du rachat matériel compulsif."
         }
       ],
       "genre": "M",
@@ -2702,6 +2742,27 @@
               "désactivation émotionnelle",
               "besoin de contrôle"
             ]
+          }
+        },
+        {
+          "date": "2026-04-11",
+          "sujet": "méfiance/abus",
+          "contexte": "face à l'autorité",
+          "category": "cat3_schemas",
+          "titre": "Méfiance et abus face à l'autorité : comprendre ce schéma",
+          "slug": "mefiance-abus-face-a-l-autorite",
+          "resume_narratif": "Le 11 avril 2026, Priya reçoit un courrier de l'Ordre des médecins au Cabinet Médical des Glycines, ce qui déclenche chez elle une profonde suspicion. Cette interaction avec l'autorité réveille les traumatismes liés à son ex-conjoint Damien, qui l'isolait de sa sœur Anita, et à son récent conflit avec Antoine, un responsable administratif.",
+          "evolution": "Priya réalise que son mépris envers ses collègues et son hyper-vigilance administrative sont en réalité une armure défensive. Elle comprend que son éducation rigide par Raj et Anjali, axée sur l'excellence comme rempart, a cristallisé son schéma de méfiance et d'abus.",
+          "elements_cles": {
+            "lieux": "Cabinet Médical des Glycines",
+            "personnages": [
+              "Damien (ex-conjoint)",
+              "Anita (sœur)",
+              "Antoine (responsable administratif)",
+              "Raj et Anjali (parents)"
+            ],
+            "contexte_temporel": "Samedi 11 avril 2026",
+            "comportements": "Hyper-vigilance textuelle, retrait défensif, refus de déléguer, attachement évitant"
           }
         }
       ],

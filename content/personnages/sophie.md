@@ -1,14 +1,14 @@
 ---
 title: "Sophie"
-date: 2026-04-10T05:07:02+00:00
+date: 2026-04-11T04:41:30+00:00
 description: "Sophie est développeuse web dans une startup. Célibataire, vit seule en appartement en ville."
 slug: "sophie"
 prenom: "Sophie"
 date_naissance: "1998-01-15"
 profession: "Développeuse web dans une startup"
 situation: "Célibataire, vit seule en appartement en ville"
-nb_articles: 5
-weight: 10
+nb_articles: 6
+weight: 1
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Sophie commence à nommer son 'érosion intérieure' et réalise que son dévouement excessif est un schéma profond lié à son besoin d'être la petite fille parfaite pour mériter l'estime de ses parents. Elle identifie le lien entre son comportement actuel et ses mécanismes de défense professionnels.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/abnegation-sacrifice-de-soi-vieillissement-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/pensees-automatiques-negatives-seule-face-a-soi-meme/">Pensées automatiques négatives : s'en libérer quand on est seule</a></h3>
+    <div class="parcours-date">2026-04-11</div>
+    <p class="parcours-resume">Un dimanche soir dans son appartement parisien, Sophie est assaillie par une pensée automatique dévalorisante en vérifiant son code informatique. Seule face à son écran, elle revit une tension familière liée à son éducation et sombre dans une spirale d'autocritique technique.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Sophie identifie le mécanisme de ses pensées automatiques comme le moteur de son syndrome de l'imposteur et réalise que ses émotions ne sont pas des faits. Elle prend conscience que son cerveau transforme des doutes mineurs en vérités absolues par réflexe.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/pensees-automatiques-negatives-seule-face-a-soi-meme/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -1,14 +1,14 @@
 ---
 title: "Karim"
-date: 2026-04-10T05:07:02+00:00
+date: 2026-04-11T04:41:30+00:00
 description: "Karim est entrepreneur, fondateur d'une PME de restauration. Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)."
 slug: "karim"
 prenom: "Karim"
 date_naissance: "1985-12-01"
 profession: "Entrepreneur, fondateur d'une pme de restauration"
 situation: "Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)"
-nb_articles: 5
-weight: 14
+nb_articles: 6
+weight: 9
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Karim ne montre aucune prise de conscience ; au contraire, il s'enfonce dans le biais d'optimisme, utilisant son charisme pour balayer les risques réels et se convaincre que son succès futur effacera ses erreurs passées.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-optimisme-decision-importante-entrepreneur/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/culpabilite-avec-ses-enfants-comprendre-agir/">Culpabilité avec ses enfants : comprendre et agir | Karim</a></h3>
+    <div class="parcours-date">2026-04-11</div>
+    <p class="parcours-resume">Karim tente de passer un après-midi avec sa fille Lina pour compenser ses absences répétées dues à ses restaurants et son projet à Lyon. Face au silence pesant de l'enfant, il essaie maladroitement de racheter sa présence en lui offrant une console de jeux dernier cri.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Il réalise que ses cadeaux matériels sont dérisoires face au besoin de connexion réelle et prend conscience que son ambition professionnelle lui sert d'excuse pour fuir une intimité familiale dont il ne maîtrise pas les codes.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/culpabilite-avec-ses-enfants-comprendre-agir/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

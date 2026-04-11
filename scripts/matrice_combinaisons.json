@@ -3545,6 +3545,109 @@
       },
       "strategie_coherence": "connecter",
       "apport_psychologique": "L'article établit un lien direct entre le refus de Bernard d'ouvrir l'enveloppe notariale (biais de l'autruche) et l'apparition de tensions physiques chroniques, montrant que le deuil non verbalisé s'inscrit dans la matière, comme les nœuds du bois qu'il travaille."
+    },
+    {
+      "date": "2026-04-11",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "pensées automatiques négatives",
+      "contexte": "seul(e) face à soi-même",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Sophie",
+      "age": "28 ans",
+      "title": "Pensées automatiques négatives : s'en libérer quand on est seule",
+      "slug": "pensees-automatiques-negatives-seule-face-a-soi-meme",
+      "tags": [
+        "psychologie",
+        "pensées automatiques",
+        "santé mentale",
+        "estime de soi",
+        "bien-être"
+      ],
+      "resume_narratif": "Un dimanche soir dans son appartement parisien, Sophie est assaillie par une pensée automatique dévalorisante en vérifiant son code informatique. Seule face à son écran, elle revit une tension familière liée à son éducation et sombre dans une spirale d'autocritique technique.",
+      "evolution": "Sophie identifie le mécanisme de ses pensées automatiques comme le moteur de son syndrome de l'imposteur et réalise que ses émotions ne sont pas des faits. Elle prend conscience que son cerveau transforme des doutes mineurs en vérités absolues par réflexe.",
+      "elements_cles": {
+        "lieux": [
+          "Appartement dans le 11ème arrondissement de Paris",
+          "Nantes (maison de ses parents)"
+        ],
+        "personnages_mentionnes": [
+          "Marc (collègue)",
+          "Claire (amie/soutien)",
+          "Parents de Sophie"
+        ],
+        "contexte_temporel": "Dimanche 11 avril 2026",
+        "concepts_et_techniques": [
+          "Pensées automatiques négatives (Aaron Beck)",
+          "Lecture d'esprit inversée",
+          "Généralisation excessive",
+          "Raisonnement émotionnel",
+          "Effet Dunning-Kruger"
+        ]
+      },
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "L'article démontre que ses ruminations ne sont pas des réflexions logiques mais des réflexes cognitifs ultra-rapides. Cela déplace le problème de 'je réfléchis trop' à 'mon cerveau génère des flashs d'autocritique systématiques'."
+    },
+    {
+      "date": "2026-04-11",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "culpabilité",
+      "contexte": "avec ses enfants",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Karim",
+      "age": "40 ans",
+      "title": "Culpabilité avec ses enfants : comprendre et agir | Karim",
+      "slug": "culpabilite-avec-ses-enfants-comprendre-agir",
+      "tags": [
+        "culpabilité",
+        "parentalité",
+        "psychologie",
+        "éducation",
+        "équilibre vie pro vie perso"
+      ],
+      "resume_narratif": "Karim tente de passer un après-midi avec sa fille Lina pour compenser ses absences répétées dues à ses restaurants et son projet à Lyon. Face au silence pesant de l'enfant, il essaie maladroitement de racheter sa présence en lui offrant une console de jeux dernier cri.",
+      "evolution": "Il réalise que ses cadeaux matériels sont dérisoires face au besoin de connexion réelle et prend conscience que son ambition professionnelle lui sert d'excuse pour fuir une intimité familiale dont il ne maîtrise pas les codes.",
+      "elements_cles": "Lina (fille de 9 ans), Sofia (conjointe), Sami et Amine (enfants), Romain (associé), projet à Lyon, héritage paternel (père épicier), technique du rachat matériel compulsif.",
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "On passe du regret (constat d'une perte) à la culpabilité (sentiment de transgression d'une norme personnelle). Cela révèle que Karim n'est pas juste un entrepreneur pressé, mais un homme en conflit de valeurs profond."
+    },
+    {
+      "date": "2026-04-11",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "méfiance/abus",
+      "contexte": "face à l'autorité",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Priya",
+      "age": "33 ans",
+      "title": "Méfiance et abus face à l'autorité : comprendre ce schéma",
+      "slug": "mefiance-abus-face-a-l-autorite",
+      "tags": [
+        "schémas de pensée",
+        "psychologie",
+        "relation au travail",
+        "traumatisme",
+        "guérison"
+      ],
+      "resume_narratif": "Le 11 avril 2026, Priya reçoit un courrier de l'Ordre des médecins au Cabinet Médical des Glycines, ce qui déclenche chez elle une profonde suspicion. Cette interaction avec l'autorité réveille les traumatismes liés à son ex-conjoint Damien, qui l'isolait de sa sœur Anita, et à son récent conflit avec Antoine, un responsable administratif.",
+      "evolution": "Priya réalise que son mépris envers ses collègues et son hyper-vigilance administrative sont en réalité une armure défensive. Elle comprend que son éducation rigide par Raj et Anjali, axée sur l'excellence comme rempart, a cristallisé son schéma de méfiance et d'abus.",
+      "elements_cles": {
+        "lieux": "Cabinet Médical des Glycines",
+        "personnages": [
+          "Damien (ex-conjoint)",
+          "Anita (sœur)",
+          "Antoine (responsable administratif)",
+          "Raj et Anjali (parents)"
+        ],
+        "contexte_temporel": "Samedi 11 avril 2026",
+        "comportements": "Hyper-vigilance textuelle, retrait défensif, refus de déléguer, attachement évitant"
+      },
+      "strategie_coherence": "connecter",
+      "apport_psychologique": "Cet article montre que l'évitement de Priya n'est pas de l'indifférence, mais une hyper-vigilance protectrice. Sa tour d'ivoire est un bunker construit sur la certitude que l'autre finit toujours par abuser de sa confiance."
     }
   ]
 }
