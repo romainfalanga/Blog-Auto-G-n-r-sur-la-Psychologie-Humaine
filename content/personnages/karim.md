@@ -1,14 +1,14 @@
 ---
 title: "Karim"
-date: 2026-04-11T04:41:30+00:00
+date: 2026-04-12T05:06:08+00:00
 description: "Karim est entrepreneur, fondateur d'une PME de restauration. Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)."
 slug: "karim"
 prenom: "Karim"
 date_naissance: "1985-12-01"
 profession: "Entrepreneur, fondateur d'une pme de restauration"
 situation: "Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)"
-nb_articles: 6
-weight: 9
+nb_articles: 7
+weight: 2
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Il réalise que ses cadeaux matériels sont dérisoires face au besoin de connexion réelle et prend conscience que son ambition professionnelle lui sert d'excuse pour fuir une intimité familiale dont il ne maîtrise pas les codes.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/culpabilite-avec-ses-enfants-comprendre-agir/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/droits-personnels-excessifs-grandiosité-argent-finances/">Grandiosité et argent : comprendre les droits personnels excessifs</a></h3>
+    <div class="parcours-date">2026-04-12</div>
+    <p class="parcours-resume">Karim, entrepreneur lyonnais, met en péril la trésorerie de son entreprise après avoir investi impulsivement dans un restaurant à Marseille. Malgré les alertes de son associé Romain, il utilise son train de vie luxueux et des cadeaux coûteux pour masquer ses failles financières et son absence auprès de sa femme Sofia et de ses trois enfants.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Karim commence à réaliser que son besoin de briller et ses dépenses excessives sont des mécanismes de défense pour maintenir son image de patriarche providentiel et compenser son incapacité à gérer les limites.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/droits-personnels-excessifs-grandiosité-argent-finances/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

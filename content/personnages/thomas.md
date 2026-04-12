@@ -1,14 +1,14 @@
 ---
 title: "Thomas"
-date: 2026-04-11T04:41:30+00:00
-description: "Thomas est enseignant d'histoire-géographie au lycée. En couple avec émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité."
+date: 2026-04-12T05:06:08+00:00
+description: "Thomas est enseignant d'histoire-géographie au lycée. En couple avec Émilie, il vient de déménager dans un nouvel appartement à Lyon tout en poursuivant sa réflexion sur la parentalité."
 slug: "thomas"
 prenom: "Thomas"
 date_naissance: "1992-02-22"
 profession: "Enseignant d'histoire-géographie au lycée"
-situation: "En couple avec émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité"
-nb_articles: 5
-weight: 13
+situation: "En couple avec émilie, vient de déménager dans un nouvel appartement à lyon"
+nb_articles: 6
+weight: 4
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Thomas prend conscience que son abnégation est un schéma ancré depuis son enfance pour maintenir l'harmonie, mais il reste pour l'instant incapable de briser ce cycle de sacrifice de soi malgré la fatigue émotionnelle qu'il ressent.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/abnegation-et-sacrifice-de-soi-en-amitie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/ennui-lors-un-demenagement-signes-anxiete/">Ennui lors d'un déménagement : comprendre ce signal d'alerte</a></h3>
+    <div class="parcours-date">2026-04-12</div>
+    <p class="parcours-resume">Le 12 avril 2026, Thomas emménage avec sa compagne Émilie dans un nouvel appartement à Lyon après avoir reçu l'aide de son frère Antoine. Malgré l'importance de l'événement, il se retrouve paralysé par un ennui profond et un désengagement émotionnel total face aux cartons à déballer.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Thomas identifie que son ennui n'est pas de la paresse, mais un mécanisme de défense psychologique pour fuir l'angoisse liée au changement et aux futures responsabilités, comme la parentalité. Il prend conscience que son habituel 'réflexe de sauveur' s'est éteint, laissant place à un évitement cognitif.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/ennui-lors-un-demenagement-signes-anxiete/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

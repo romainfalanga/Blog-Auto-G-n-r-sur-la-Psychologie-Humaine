@@ -3648,6 +3648,131 @@
       },
       "strategie_coherence": "connecter",
       "apport_psychologique": "Cet article montre que l'évitement de Priya n'est pas de l'indifférence, mais une hyper-vigilance protectrice. Sa tour d'ivoire est un bunker construit sur la certitude que l'autre finit toujours par abuser de sa confiance."
+    },
+    {
+      "date": "2026-04-12",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de cadrage",
+      "contexte": "face à une décision importante",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "contrôlant(e)",
+      "prenom": "Nadia",
+      "age": "38 ans",
+      "title": "Biais de cadrage : comment mieux décider sans se faire piéger",
+      "slug": "biais-de-cadrage-decision-importante-nadia",
+      "tags": [
+        "psychologie cognitive",
+        "prise de décision",
+        "biais de cadrage",
+        "neurosciences",
+        "développement personnel"
+      ],
+      "resume_narratif": "Lors d'une réunion stratégique avec son assistante Julie et son directeur financier, Nadia doit choisir entre deux options de lancement logiciel présentées sous des angles différents. Elle réalise que son hésitation est dictée par sa peur de la perte, un sentiment qui fait écho à ses tensions personnelles et à son besoin de performance.",
+      "evolution": "Nadia identifie l'influence du biais de cadrage sur son jugement et choisit de suspendre sa décision pour analyser froidement les faits au-delà de l'emballage sémantique. Elle comprend que sa quête de sécurité est liée à ses traumatismes passés, comme son divorce et sa peur de l'inconnu.",
+      "elements_cles": {
+        "personnages_mentionnes": [
+          "Julie (assistante)",
+          "Antoine (partenaire)",
+          "Yasmine (fille)",
+          "Karim (ex-mari)",
+          "Directeur financier"
+        ],
+        "contexte_spatial": "Salle de réunion d'une entreprise (ambiance industrielle, néons)",
+        "decisions_et_techniques": [
+          "Suspension du jugement pour analyser le cadre",
+          "Pratique du journaling",
+          "Référence au biais de statu quo et à l'effet Zeigarnik"
+        ],
+        "vie_privee": "Divorce avec Karim, éducation de Yasmine, tension dans l'intimité avec Antoine"
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-12",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "ennui",
+      "contexte": "lors d'un déménagement",
+      "angle": "les signes que vous êtes concerné(e)",
+      "profil": "anxieux(se)",
+      "prenom": "Thomas",
+      "age": "34 ans",
+      "title": "Ennui lors d'un déménagement : comprendre ce signal d'alerte",
+      "slug": "ennui-lors-un-demenagement-signes-anxiete",
+      "tags": [
+        "ennui",
+        "déménagement",
+        "anxiété",
+        "psychologie",
+        "émotions"
+      ],
+      "resume_narratif": "Le 12 avril 2026, Thomas emménage avec sa compagne Émilie dans un nouvel appartement à Lyon après avoir reçu l'aide de son frère Antoine. Malgré l'importance de l'événement, il se retrouve paralysé par un ennui profond et un désengagement émotionnel total face aux cartons à déballer.",
+      "evolution": "Thomas identifie que son ennui n'est pas de la paresse, mais un mécanisme de défense psychologique pour fuir l'angoisse liée au changement et aux futures responsabilités, comme la parentalité. Il prend conscience que son habituel 'réflexe de sauveur' s'est éteint, laissant place à un évitement cognitif.",
+      "elements_cles": {
+        "lieux": [
+          "Nouvel appartement à Lyon",
+          "Petite rue calme"
+        ],
+        "personnages": [
+          "Émilie (compagne)",
+          "Antoine (frère)",
+          "Valérie (collègue)"
+        ],
+        "contexte_temporel": "12 avril 2026",
+        "enjeux_sous_jacents": [
+          "Discussions sur la parentalité",
+          "Difficulté à dire non",
+          "Évitement du stress par le désintérêt"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-12",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "droits personnels excessifs/grandiosité",
+      "contexte": "face à l'argent et aux finances",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": "haut potentiel intellectuel (HPI)",
+      "prenom": "Karim",
+      "age": "40 ans",
+      "title": "Grandiosité et argent : comprendre les droits personnels excessifs",
+      "slug": "droits-personnels-excessifs-grandiosité-argent-finances",
+      "tags": [
+        "psychologie",
+        "schémas précoces",
+        "finances",
+        "entrepreneuriat",
+        "relations familiales"
+      ],
+      "resume_narratif": "Karim, entrepreneur lyonnais, met en péril la trésorerie de son entreprise après avoir investi impulsivement dans un restaurant à Marseille. Malgré les alertes de son associé Romain, il utilise son train de vie luxueux et des cadeaux coûteux pour masquer ses failles financières et son absence auprès de sa femme Sofia et de ses trois enfants.",
+      "evolution": "Karim commence à réaliser que son besoin de briller et ses dépenses excessives sont des mécanismes de défense pour maintenir son image de patriarche providentiel et compenser son incapacité à gérer les limites.",
+      "elements_cles": {
+        "lieux": [
+          "Bureau à Lyon",
+          "Restaurant au Vieux-Port à Marseille"
+        ],
+        "personnages": [
+          "Romain (associé)",
+          "Sofia (épouse)",
+          "Amine, Lina et Sami (enfants)"
+        ],
+        "decisions": [
+          "Investissement massif sur un coup de tête",
+          "Utilisation du charisme pour manipuler le bilan comptable"
+        ],
+        "objets_symboliques": [
+          "Montre de luxe",
+          "Relevé bancaire souligné de rouge",
+          "Console de jeux coûteuse"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

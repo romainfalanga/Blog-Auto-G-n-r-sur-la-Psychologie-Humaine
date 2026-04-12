@@ -1,14 +1,14 @@
 ---
 title: "Nadia"
-date: 2026-04-11T04:41:30+00:00
+date: 2026-04-12T05:06:08+00:00
 description: "Nadia est directrice marketing dans une entreprise tech. En couple avec Antoine, elle est mère d'une fille (Yasmine, 8 ans) en garde alternée."
 slug: "nadia"
 prenom: "Nadia"
 date_naissance: "1987-05-18"
 profession: "Directrice marketing dans une entreprise tech"
 situation: "En couple avec antoine, mère d'une fille (yasmine, 8 ans), garde alternée"
-nb_articles: 6
-weight: 3
+nb_articles: 7
+weight: 1
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Nadia réalise que son besoin de contrôle et son perfectionnisme professionnel agissent comme une armure qui l'empêche d'être vulnérable et présente dans sa vie sexuelle. Elle comprend que ses pensées automatiques de performance sont des obstacles à son plaisir sensoriel.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/journaling-pensees-intimite-sexualite-nadia/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-cadrage-decision-importante-nadia/">Biais de cadrage : comment mieux décider sans se faire piéger</a></h3>
+    <div class="parcours-date">2026-04-12</div>
+    <p class="parcours-resume">Lors d'une réunion stratégique avec son assistante Julie et son directeur financier, Nadia doit choisir entre deux options de lancement logiciel présentées sous des angles différents. Elle réalise que son hésitation est dictée par sa peur de la perte, un sentiment qui fait écho à ses tensions personnelles et à son besoin de performance.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Nadia identifie l'influence du biais de cadrage sur son jugement et choisit de suspendre sa décision pour analyser froidement les faits au-delà de l'emballage sémantique. Elle comprend que sa quête de sécurité est liée à ses traumatismes passés, comme son divorce et sa peur de l'inconnu.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-cadrage-decision-importante-nadia/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

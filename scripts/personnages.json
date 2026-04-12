@@ -192,7 +192,7 @@
       "age": 34,
       "tranche_age": "adulte en construction (26-35 ans)",
       "profession": "enseignant d'histoire-géographie au lycée",
-      "situation_familiale": "en couple avec Émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité",
+      "situation_familiale": "en couple avec Émilie, vient de déménager dans un nouvel appartement à Lyon",
       "traits_personnalite": [
         "empathique",
         "people pleaser",
@@ -357,11 +357,38 @@
             ],
             "decision": "Acceptation tacite du déménagement d'Antoine au détriment de l'exposition avec Émilie."
           }
+        },
+        {
+          "date": "2026-04-12",
+          "sujet": "ennui",
+          "contexte": "lors d'un déménagement",
+          "category": "cat2_emotions",
+          "titre": "Ennui lors d'un déménagement : comprendre ce signal d'alerte",
+          "slug": "ennui-lors-un-demenagement-signes-anxiete",
+          "resume_narratif": "Le 12 avril 2026, Thomas emménage avec sa compagne Émilie dans un nouvel appartement à Lyon après avoir reçu l'aide de son frère Antoine. Malgré l'importance de l'événement, il se retrouve paralysé par un ennui profond et un désengagement émotionnel total face aux cartons à déballer.",
+          "evolution": "Thomas identifie que son ennui n'est pas de la paresse, mais un mécanisme de défense psychologique pour fuir l'angoisse liée au changement et aux futures responsabilités, comme la parentalité. Il prend conscience que son habituel 'réflexe de sauveur' s'est éteint, laissant place à un évitement cognitif.",
+          "elements_cles": {
+            "lieux": [
+              "Nouvel appartement à Lyon",
+              "Petite rue calme"
+            ],
+            "personnages": [
+              "Émilie (compagne)",
+              "Antoine (frère)",
+              "Valérie (collègue)"
+            ],
+            "contexte_temporel": "12 avril 2026",
+            "enjeux_sous_jacents": [
+              "Discussions sur la parentalité",
+              "Difficulté à dire non",
+              "Évitement du stress par le désintérêt"
+            ]
+          }
         }
       ],
       "genre": "M",
       "date_naissance": "1992-02-22",
-      "description_dynamique": "Thomas est enseignant d'histoire-géographie au lycée. En couple avec émilie depuis 5 ans, sans enfants, en réflexion sur la parentalité."
+      "description_dynamique": "Thomas est enseignant d'histoire-géographie au lycée. En couple avec Émilie, il vient de déménager dans un nouvel appartement à Lyon tout en poursuivant sa réflexion sur la parentalité."
     },
     {
       "id": "camille",
@@ -969,6 +996,32 @@
             "objet_cle": [
               "Carnet à couverture de cuir"
             ]
+          }
+        },
+        {
+          "date": "2026-04-12",
+          "sujet": "biais de cadrage",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Biais de cadrage : comment mieux décider sans se faire piéger",
+          "slug": "biais-de-cadrage-decision-importante-nadia",
+          "resume_narratif": "Lors d'une réunion stratégique avec son assistante Julie et son directeur financier, Nadia doit choisir entre deux options de lancement logiciel présentées sous des angles différents. Elle réalise que son hésitation est dictée par sa peur de la perte, un sentiment qui fait écho à ses tensions personnelles et à son besoin de performance.",
+          "evolution": "Nadia identifie l'influence du biais de cadrage sur son jugement et choisit de suspendre sa décision pour analyser froidement les faits au-delà de l'emballage sémantique. Elle comprend que sa quête de sécurité est liée à ses traumatismes passés, comme son divorce et sa peur de l'inconnu.",
+          "elements_cles": {
+            "personnages_mentionnes": [
+              "Julie (assistante)",
+              "Antoine (partenaire)",
+              "Yasmine (fille)",
+              "Karim (ex-mari)",
+              "Directeur financier"
+            ],
+            "contexte_spatial": "Salle de réunion d'une entreprise (ambiance industrielle, néons)",
+            "decisions_et_techniques": [
+              "Suspension du jugement pour analyser le cadre",
+              "Pratique du journaling",
+              "Référence au biais de statu quo et à l'effet Zeigarnik"
+            ],
+            "vie_privee": "Divorce avec Karim, éducation de Yasmine, tension dans l'intimité avec Antoine"
           }
         }
       ],
@@ -2236,6 +2289,36 @@
           "resume_narratif": "Karim tente de passer un après-midi avec sa fille Lina pour compenser ses absences répétées dues à ses restaurants et son projet à Lyon. Face au silence pesant de l'enfant, il essaie maladroitement de racheter sa présence en lui offrant une console de jeux dernier cri.",
           "evolution": "Il réalise que ses cadeaux matériels sont dérisoires face au besoin de connexion réelle et prend conscience que son ambition professionnelle lui sert d'excuse pour fuir une intimité familiale dont il ne maîtrise pas les codes.",
           "elements_cles": "Lina (fille de 9 ans), Sofia (conjointe), Sami et Amine (enfants), Romain (associé), projet à Lyon, héritage paternel (père épicier), technique du rachat matériel compulsif."
+        },
+        {
+          "date": "2026-04-12",
+          "sujet": "droits personnels excessifs/grandiosité",
+          "contexte": "face à l'argent et aux finances",
+          "category": "cat3_schemas",
+          "titre": "Grandiosité et argent : comprendre les droits personnels excessifs",
+          "slug": "droits-personnels-excessifs-grandiosité-argent-finances",
+          "resume_narratif": "Karim, entrepreneur lyonnais, met en péril la trésorerie de son entreprise après avoir investi impulsivement dans un restaurant à Marseille. Malgré les alertes de son associé Romain, il utilise son train de vie luxueux et des cadeaux coûteux pour masquer ses failles financières et son absence auprès de sa femme Sofia et de ses trois enfants.",
+          "evolution": "Karim commence à réaliser que son besoin de briller et ses dépenses excessives sont des mécanismes de défense pour maintenir son image de patriarche providentiel et compenser son incapacité à gérer les limites.",
+          "elements_cles": {
+            "lieux": [
+              "Bureau à Lyon",
+              "Restaurant au Vieux-Port à Marseille"
+            ],
+            "personnages": [
+              "Romain (associé)",
+              "Sofia (épouse)",
+              "Amine, Lina et Sami (enfants)"
+            ],
+            "decisions": [
+              "Investissement massif sur un coup de tête",
+              "Utilisation du charisme pour manipuler le bilan comptable"
+            ],
+            "objets_symboliques": [
+              "Montre de luxe",
+              "Relevé bancaire souligné de rouge",
+              "Console de jeux coûteuse"
+            ]
+          }
         }
       ],
       "genre": "M",
