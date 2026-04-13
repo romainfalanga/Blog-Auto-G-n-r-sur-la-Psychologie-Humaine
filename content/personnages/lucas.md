@@ -1,14 +1,14 @@
 ---
 title: "Lucas"
-date: 2026-04-12T05:06:08+00:00
+date: 2026-04-13T05:33:58+00:00
 description: "Lucas est étudiant en dernière année d'école de commerce, en stage. Célibataire, en colocation avec deux amis."
 slug: "lucas"
 prenom: "Lucas"
 date_naissance: "2001-04-10"
 profession: "Étudiant en dernière année d'école de commerce, en stage"
 situation: "Célibataire, en colocation avec deux amis"
-nb_articles: 5
-weight: 14
+nb_articles: 6
+weight: 6
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Le personnage prend conscience que son sentiment d'illégitimité est lié à une dissonance entre ses origines sociales et son environnement actuel, le poussant à alterner entre perfectionnisme paralysant et auto-sabotage.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-ecole-etudes-lucas/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-amitie-enfance/">Recherche d'approbation en amitié : comment s'en libérer ?</a></h3>
+    <div class="parcours-date">2026-04-13</div>
+    <p class="parcours-resume">Lors d'une soirée en colocation le 13 avril 2026, Lucas embellit ses accomplissements de stage pour impressionner ses amis Maxime et Romain. Malgré ses efforts pour paraître brillant, il finit par ressentir un vide émotionnel et l'épuisement de devoir constamment jouer un rôle.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Lucas prend conscience que son besoin de validation transforme ses amitiés en une performance permanente, l'empêchant d'être authentique par peur d'être démasqué comme un imposteur.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-amitie-enfance/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

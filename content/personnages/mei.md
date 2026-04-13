@@ -1,14 +1,14 @@
 ---
 title: "Mei"
-date: 2026-04-12T05:06:08+00:00
+date: 2026-04-13T05:33:58+00:00
 description: "Mei est étudiante en école d'art, spécialité illustration. Elle est en couple avec Julien depuis un mois et vit en résidence étudiante."
 slug: "mei"
 prenom: "Mei"
 date_naissance: "2003-07-02"
 profession: "Étudiante en école d'art, spécialité illustration"
 situation: "En couple avec julien depuis un mois, vit en résidence étudiante"
-nb_articles: 5
-weight: 20
+nb_articles: 6
+weight: 15
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Mei identifie son mécanisme de fusion comme une extension du 'faux self' développé face à ses parents pour être la fille idéale. Elle comprend que son incapacité à poser des limites et à exprimer ses propres goûts atrophie sa personnalité et transforme ses interactions en performances de docilité.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/fusion-personnalite-atrophiee-intimite-sexualite/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/honte-face-a-l-autorite-causes-profondes/">Honte face à l'autorité : comprendre ses causes profondes</a></h3>
+    <div class="parcours-date">2026-04-13</div>
+    <p class="parcours-resume">Mei se retrouve paralysée devant le bureau de son professeur d'art, M. Dubois, au moment de lui présenter ses illustrations oniriques. Elle est submergée par une honte viscérale qui fait écho au silence pesant de son père, Wei, et à la pression familiale liée à ses anciennes ambitions médicales.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Mei prend conscience que sa peur de l'autorité transforme une simple évaluation technique en un procès de sa valeur personnelle, l'amenant à percevoir son art comme une imposture. Elle réalise que son perfectionnisme est un 'faux self' construit pour satisfaire ses parents plutôt que sa propre identité d'illustratrice.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/honte-face-a-l-autorite-causes-profondes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

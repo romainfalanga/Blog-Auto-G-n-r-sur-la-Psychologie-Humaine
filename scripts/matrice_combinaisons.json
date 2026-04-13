@@ -3773,6 +3773,106 @@
       },
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-13",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais d'attribution fondamentale",
+      "contexte": "en situation de conflit",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Stéphane",
+      "age": "45 ans",
+      "title": "Biais d'attribution fondamentale en situation de conflit",
+      "slug": "biais-attribution-fondamentale-situation-conflit",
+      "tags": [
+        "psychologie sociale",
+        "biais cognitif",
+        "gestion de conflit",
+        "relations professionnelles",
+        "enfance et éducation"
+      ],
+      "resume_narratif": "Lors d'une réunion tendue le 13 avril 2026, Stéphane juge sévèrement son collègue Marc pour le retard d'un contrat avec le groupe Lemoine, l'étiquetant comme incompétent. Sous le regard de Sandrine, il réalise qu'il ignore les causes réelles du problème, notamment une panne de serveur majeure ayant paralysé l'équipe tout le week-end.",
+      "evolution": "Stéphane prend conscience qu'il projette ses propres insécurités et son besoin de supériorité sur Marc via le biais d'attribution fondamentale. Il comprend que sa dureté est un mécanisme de défense lié à sa compétition fraternelle et à son anxiété sociale.",
+      "elements_cles": {
+        "personnages": [
+          "Marc (collègue)",
+          "Sandrine (confidente)",
+          "Philippe (frère parfait)",
+          "Maxime (fils)"
+        ],
+        "contexte_temporel": "Lundi 13 avril 2026",
+        "objets_et_lieux": "Salle de réunion, stylo en argent, cravate en soie",
+        "passé_évoqué": "Effet spotlight lors d'un cocktail, syndrome de l'imposteur, rivalité fraternelle depuis l'enfance",
+        "evenement_externe": "Panne de serveur durant le week-end"
+      },
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "Cet article démontre que sa compétitivité n'est pas de l'arrogance, mais un mécanisme de défense cognitif. En jugeant sévèrement le caractère des autres, il tente de valider sa propre supériorité pour apaiser son insécurité intérieure liée à son frère Philippe."
+    },
+    {
+      "date": "2026-04-13",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "honte",
+      "contexte": "face à l'autorité",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Mei",
+      "age": "22 ans",
+      "title": "Honte face à l'autorité : comprendre ses causes profondes",
+      "slug": "honte-face-a-l-autorite-causes-profondes",
+      "tags": [
+        "honte",
+        "autorité",
+        "psychologie",
+        "estime de soi",
+        "émotions"
+      ],
+      "resume_narratif": "Mei se retrouve paralysée devant le bureau de son professeur d'art, M. Dubois, au moment de lui présenter ses illustrations oniriques. Elle est submergée par une honte viscérale qui fait écho au silence pesant de son père, Wei, et à la pression familiale liée à ses anciennes ambitions médicales.",
+      "evolution": "Mei prend conscience que sa peur de l'autorité transforme une simple évaluation technique en un procès de sa valeur personnelle, l'amenant à percevoir son art comme une imposture. Elle réalise que son perfectionnisme est un 'faux self' construit pour satisfaire ses parents plutôt que sa propre identité d'illustratrice.",
+      "elements_cles": "M. Dubois (professeur d'art), Wei (père), pull fétiche avec tache d'encre, illustrations oniriques, école d'art, résidence étudiante, références passées (Li, Océane, Julien, cours du 29 mars).",
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "On passe de la description d'un comportement (se cacher) à la compréhension de l'émotion motrice (la honte). Cela montre que son perfectionnisme n'est pas une quête d'excellence, mais une fuite de l'humiliation."
+    },
+    {
+      "date": "2026-04-13",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "recherche d'approbation/reconnaissance",
+      "contexte": "en amitié",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Lucas",
+      "age": "25 ans",
+      "title": "Recherche d'approbation en amitié : comment s'en libérer ?",
+      "slug": "recherche-approbation-reconnaissance-amitie-enfance",
+      "tags": [
+        "psychologie",
+        "amitié",
+        "enfance",
+        "schéma répétitif",
+        "estime de soi"
+      ],
+      "resume_narratif": "Lors d'une soirée en colocation le 13 avril 2026, Lucas embellit ses accomplissements de stage pour impressionner ses amis Maxime et Romain. Malgré ses efforts pour paraître brillant, il finit par ressentir un vide émotionnel et l'épuisement de devoir constamment jouer un rôle.",
+      "evolution": "Lucas prend conscience que son besoin de validation transforme ses amitiés en une performance permanente, l'empêchant d'être authentique par peur d'être démasqué comme un imposteur.",
+      "elements_cles": {
+        "personnages": [
+          "Maxime",
+          "Romain",
+          "Antoine (rival basket)",
+          "Sandrine et Jean-Marc (parents)"
+        ],
+        "lieux": [
+          "Salon de la colocation",
+          "La Défense",
+          "Paris"
+        ],
+        "contexte_social": "Étudiant en école de commerce, stagiaire (tableaux Excel), syndrome de l'imposteur",
+        "evenements_passes": "Entretien stressant à La Défense, match de basket perdu contre Antoine, mensonge financier pour un séjour au ski"
+      },
+      "strategie_coherence": "connecter",
+      "apport_psychologique": "Cet article révèle le moteur central de Lucas : il ne cherche pas le succès pour lui-même, mais pour le regard d'autrui. Cela unifie ses mensonges au ski et son silence en classe sous un seul schéma structurel."
     }
   ]
 }
