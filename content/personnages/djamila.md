@@ -1,14 +1,14 @@
 ---
 title: "Djamila"
-date: 2026-04-13T05:33:58+00:00
+date: 2026-04-14T05:04:27+00:00
 description: "Djamila est travailleuse sociale dans une association d'aide aux femmes. Séparée, en reconstruction, un fils (adam, 6 ans)."
 slug: "djamila"
 prenom: "Djamila"
 date_naissance: "1989-05-06"
 profession: "Travailleuse sociale dans une association d'aide aux femmes"
 situation: "Séparée, en reconstruction, un fils (adam, 6 ans)"
-nb_articles: 5
-weight: 19
+nb_articles: 6
+weight: 17
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Djamila prend conscience que sa colère actuelle est amplifiée par son passé de victimisation et son hypervigilance. Elle parvient à identifier que son sentiment d'injustice active des mécanismes de défense anciens, comme la rumination et le besoin de réparation, tout en essayant de ne pas basculer dans l'explosion verbale.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/sentiment-injustice-conflit-reconstruction-post-toxique/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/trauma-bonding-attachement-traumatique-amitie/">Le trauma bonding en amitié : comprendre cet attachement</a></h3>
+    <div class="parcours-date">2026-04-14</div>
+    <p class="parcours-resume">Djamila reçoit une invitation d'Amina pour un week-end à la mer, mais ressent une méfiance et un malaise inattendus face à cette proposition bienveillante. Elle réalise que le calme de cette amitié saine l'angoisse, car son système nerveux est encore marqué par les cycles de violence et de réconciliation vécus avec son ex-compagnon, Samir.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Djamila identifie son attachement traumatique (trauma bonding) et comprend que son cerveau confond l'intensité du conflit avec la réalité du lien affectif. Elle prend conscience qu'elle doit nommer ce besoin inconscient de souffrance pour réussir à accepter la stabilité relationnelle.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/trauma-bonding-attachement-traumatique-amitie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

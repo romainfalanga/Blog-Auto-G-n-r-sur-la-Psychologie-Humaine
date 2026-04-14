@@ -1,6 +1,6 @@
 ---
 title: "Lucas"
-date: 2026-04-13T05:33:58+00:00
+date: 2026-04-14T05:04:27+00:00
 description: "Lucas est étudiant en dernière année d'école de commerce, en stage. Célibataire, en colocation avec deux amis."
 slug: "lucas"
 prenom: "Lucas"

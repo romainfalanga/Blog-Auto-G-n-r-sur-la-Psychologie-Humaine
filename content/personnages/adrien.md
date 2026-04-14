@@ -1,14 +1,14 @@
 ---
 title: "Adrien"
-date: 2026-04-13T05:33:58+00:00
+date: 2026-04-14T05:04:27+00:00
 description: "Adrien est graphiste freelance. Célibataire depuis une rupture difficile il y a un an."
 slug: "adrien"
 prenom: "Adrien"
 date_naissance: "1994-06-07"
 profession: "Graphiste freelance"
 situation: "Célibataire depuis une rupture difficile il y a un an"
-nb_articles: 5
-weight: 17
+nb_articles: 6
+weight: 7
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Adrien identifie son mécanisme de rumination mentale comme une forme insidieuse de dépendance affective et de tendance à l'idéalisation. Il réalise que sa solitude transforme son introspection en un tribunal mental où il généralise ses difficultés actuelles en une faillite identitaire globale.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-negativite-situation-competition-adrien/">Biais de négativité en situation de compétition : s'en libérer</a></h3>
+    <div class="parcours-date">2026-04-14</div>
+    <p class="parcours-resume">Adrien, graphiste freelance à Paris, participe à un appel d'offres crucial pour une marque de cosmétiques éthiques. En analysant les portfolios de ses concurrents, notamment celui de Julie, il sombre dans l'autocritique et ignore ses propres succès passés malgré le soutien silencieux de sa sœur Charlotte.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Adrien identifie son biais de négativité et son raisonnement émotionnel, réalisant que son cerveau amplifie ses doutes et les forces de ses rivaux tout en occultant ses propres compétences techniques.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-negativite-situation-competition-adrien/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

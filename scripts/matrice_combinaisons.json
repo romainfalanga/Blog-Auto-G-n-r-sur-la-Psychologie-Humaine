@@ -3873,6 +3873,91 @@
       },
       "strategie_coherence": "connecter",
       "apport_psychologique": "Cet article révèle le moteur central de Lucas : il ne cherche pas le succès pour lui-même, mais pour le regard d'autrui. Cela unifie ses mensonges au ski et son silence en classe sous un seul schéma structurel."
+    },
+    {
+      "date": "2026-04-14",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de négativité",
+      "contexte": "en situation de compétition",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Adrien",
+      "age": "31 ans",
+      "title": "Biais de négativité en situation de compétition : s'en libérer",
+      "slug": "biais-negativite-situation-competition-adrien",
+      "tags": [
+        "biais de négativité",
+        "psychologie cognitive",
+        "confiance en soi",
+        "freelance",
+        "compétition professionnelle"
+      ],
+      "resume_narratif": "Adrien, graphiste freelance à Paris, participe à un appel d'offres crucial pour une marque de cosmétiques éthiques. En analysant les portfolios de ses concurrents, notamment celui de Julie, il sombre dans l'autocritique et ignore ses propres succès passés malgré le soutien silencieux de sa sœur Charlotte.",
+      "evolution": "Adrien identifie son biais de négativité et son raisonnement émotionnel, réalisant que son cerveau amplifie ses doutes et les forces de ses rivaux tout en occultant ses propres compétences techniques.",
+      "elements_cles": {
+        "personnages": [
+          "Adrien",
+          "Charlotte (sœur)",
+          "Marina (ex-compagne)",
+          "Julie (concurrente)"
+        ],
+        "contexte_spatial": "Appartement parisien, bureau en bois, ambiance lo-fi",
+        "evenements_passes": "Départ d'une agence, rupture avec Marina, critique d'un client il y a six mois",
+        "competence_technique": "Identité visuelle, dessin comme ancrage émotionnel"
+      },
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "On comprend que son cerveau est 'câblé' pour détecter les menaces (rejet, échec) suite au traumatisme de l'abandon par Marina. Ce biais cognitif transforme une simple compétition en une validation de son indignité supposée."
+    },
+    {
+      "date": "2026-04-14",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "euphorie",
+      "contexte": "après un succès",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": null,
+      "prenom": "Hugo",
+      "age": "27 ans",
+      "title": "Euphorie après un succès : comprendre cet état émotionnel",
+      "slug": "euphorie-apres-un-succes-psychologie",
+      "tags": [
+        "euphorie",
+        "succès",
+        "gestion des émotions",
+        "psychologie",
+        "régulation émotionnelle"
+      ],
+      "resume_narratif": "Après un concert triomphal au bar Le Melody, Hugo est envahi par une euphorie intense qui le pousse à envoyer un message d'amour passionné à Chloé, malgré leur récente dispute. Porté par ce sentiment de toute-puissance, il occulte temporairement les tensions avec son père Alain et la trahison de Samba.",
+      "evolution": "Hugo identifie son euphorie comme un mécanisme de défense contre son insécurité chronique et reconnaît le risque de basculer dans le sabotage ou le splitting si cette intensité retombe.",
+      "elements_cles": "Bar Le Melody (Paris) ; Chloé (compagne, relation tendue) ; Alain (père critique) ; Samba (trahison passée) ; message impulsif envoyé ; conscience du réservoir émotionnel percé.",
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "L'article explore la différence entre une joie saine et l'euphorie défensive qui sert à masquer la peur de l'abandon. Pour Hugo, ces sommets émotionnels sont les prémices de la chute, créant un cycle d'addiction à l'intensité pour fuir son sentiment de vide."
+    },
+    {
+      "date": "2026-04-14",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "le trauma bonding (attachement traumatique)",
+      "contexte": "en amitié",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Djamila",
+      "age": "36 ans",
+      "title": "Le trauma bonding en amitié : comprendre cet attachement",
+      "slug": "trauma-bonding-attachement-traumatique-amitie",
+      "tags": [
+        "trauma bonding",
+        "amitié toxique",
+        "psychologie",
+        "attachement",
+        "relation saine"
+      ],
+      "resume_narratif": "Djamila reçoit une invitation d'Amina pour un week-end à la mer, mais ressent une méfiance et un malaise inattendus face à cette proposition bienveillante. Elle réalise que le calme de cette amitié saine l'angoisse, car son système nerveux est encore marqué par les cycles de violence et de réconciliation vécus avec son ex-compagnon, Samir.",
+      "evolution": "Djamila identifie son attachement traumatique (trauma bonding) et comprend que son cerveau confond l'intensité du conflit avec la réalité du lien affectif. Elle prend conscience qu'elle doit nommer ce besoin inconscient de souffrance pour réussir à accepter la stabilité relationnelle.",
+      "elements_cles": "Djamila (personnage principal), Adam (son fils), Amina (collègue et amie stable), Samir (ex-compagnon toxique), Dr Martin (psychologue), concept de trauma bonding et renforcement intermittent, foulard turquoise.",
+      "strategie_coherence": "connecter",
+      "apport_psychologique": "Cet article révèle que son 'armure de glace' envers Amina n'est pas seulement de la méfiance, mais une conséquence du lien traumatique avec Samir : son cerveau a associé l'intensité émotionnelle au danger, rendant la bienveillance d'Amina suspecte ou 'ennuyeuse'."
     }
   ]
 }

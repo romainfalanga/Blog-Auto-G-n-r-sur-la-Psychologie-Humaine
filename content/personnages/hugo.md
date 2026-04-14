@@ -1,14 +1,14 @@
 ---
 title: "Hugo"
-date: 2026-04-13T05:33:58+00:00
+date: 2026-04-14T05:04:27+00:00
 description: "Hugo est musicien semi-professionnel et serveur pour payer les factures. En relation instable avec chloé, musicienne aussi."
 slug: "hugo"
 prenom: "Hugo"
 date_naissance: "1999-02-08"
 profession: "Musicien semi-professionnel et serveur pour payer les factures"
 situation: "En relation instable avec chloé, musicienne aussi"
-nb_articles: 5
-weight: 18
+nb_articles: 6
+weight: 14
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Hugo identifie que cette trahison réactive des blessures d'enfance liées à l'amour conditionnel de son père, Alain, et reconnaît sa tendance au sabotage défensif. Il commence à comprendre que son instabilité émotionnelle transforme un enjeu professionnel en une menace pour sa survie identitaire.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/trahison-en-situation-de-competition-musicale/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/euphorie-apres-un-succes-psychologie/">Euphorie après un succès : comprendre cet état émotionnel</a></h3>
+    <div class="parcours-date">2026-04-14</div>
+    <p class="parcours-resume">Après un concert triomphal au bar Le Melody, Hugo est envahi par une euphorie intense qui le pousse à envoyer un message d'amour passionné à Chloé, malgré leur récente dispute. Porté par ce sentiment de toute-puissance, il occulte temporairement les tensions avec son père Alain et la trahison de Samba.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Hugo identifie son euphorie comme un mécanisme de défense contre son insécurité chronique et reconnaît le risque de basculer dans le sabotage ou le splitting si cette intensité retombe.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/euphorie-apres-un-succes-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

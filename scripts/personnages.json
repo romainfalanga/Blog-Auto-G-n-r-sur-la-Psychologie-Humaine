@@ -1216,6 +1216,27 @@
           "resume_narratif": "Seul dans son atelier à deux heures du matin, Adrien est incapable de travailler sur le logo d'un client, obsédé par un portrait de son ex-compagne, Marina. Il s'enferme dans une analyse obsessionnelle de leur rupture survenue un an plus tôt, délaissant ses responsabilités professionnelles pour revivre ses échecs passés.",
           "evolution": "Adrien identifie son mécanisme de rumination mentale comme une forme insidieuse de dépendance affective et de tendance à l'idéalisation. Il réalise que sa solitude transforme son introspection en un tribunal mental où il généralise ses difficultés actuelles en une faillite identitaire globale.",
           "elements_cles": "Atelier de graphisme (8 avril 2026), Marina (ex-compagne), projet de logo en attente, bras tatoués, antécédents de pression paternelle, concept de 'réseau du mode par défaut', calque numérique 'Marina-test'."
+        },
+        {
+          "date": "2026-04-14",
+          "sujet": "biais de négativité",
+          "contexte": "en situation de compétition",
+          "category": "cat1_pensees",
+          "titre": "Biais de négativité en situation de compétition : s'en libérer",
+          "slug": "biais-negativite-situation-competition-adrien",
+          "resume_narratif": "Adrien, graphiste freelance à Paris, participe à un appel d'offres crucial pour une marque de cosmétiques éthiques. En analysant les portfolios de ses concurrents, notamment celui de Julie, il sombre dans l'autocritique et ignore ses propres succès passés malgré le soutien silencieux de sa sœur Charlotte.",
+          "evolution": "Adrien identifie son biais de négativité et son raisonnement émotionnel, réalisant que son cerveau amplifie ses doutes et les forces de ses rivaux tout en occultant ses propres compétences techniques.",
+          "elements_cles": {
+            "personnages": [
+              "Adrien",
+              "Charlotte (sœur)",
+              "Marina (ex-compagne)",
+              "Julie (concurrente)"
+            ],
+            "contexte_spatial": "Appartement parisien, bureau en bois, ambiance lo-fi",
+            "evenements_passes": "Départ d'une agence, rupture avec Marina, critique d'un client il y a six mois",
+            "competence_technique": "Identité visuelle, dessin comme ancrage émotionnel"
+          }
         }
       ],
       "genre": "M",
@@ -2681,6 +2702,17 @@
               "Auto-sabotage"
             ]
           }
+        },
+        {
+          "date": "2026-04-14",
+          "sujet": "euphorie",
+          "contexte": "après un succès",
+          "category": "cat2_emotions",
+          "titre": "Euphorie après un succès : comprendre cet état émotionnel",
+          "slug": "euphorie-apres-un-succes-psychologie",
+          "resume_narratif": "Après un concert triomphal au bar Le Melody, Hugo est envahi par une euphorie intense qui le pousse à envoyer un message d'amour passionné à Chloé, malgré leur récente dispute. Porté par ce sentiment de toute-puissance, il occulte temporairement les tensions avec son père Alain et la trahison de Samba.",
+          "evolution": "Hugo identifie son euphorie comme un mécanisme de défense contre son insécurité chronique et reconnaît le risque de basculer dans le sabotage ou le splitting si cette intensité retombe.",
+          "elements_cles": "Bar Le Melody (Paris) ; Chloé (compagne, relation tendue) ; Alain (père critique) ; Samba (trahison passée) ; message impulsif envoyé ; conscience du réservoir émotionnel percé."
         }
       ],
       "genre": "M",
@@ -3268,6 +3300,17 @@
               "Biais de confirmation"
             ]
           }
+        },
+        {
+          "date": "2026-04-14",
+          "sujet": "le trauma bonding (attachement traumatique)",
+          "contexte": "en amitié",
+          "category": "cat3_schemas",
+          "titre": "Le trauma bonding en amitié : comprendre cet attachement",
+          "slug": "trauma-bonding-attachement-traumatique-amitie",
+          "resume_narratif": "Djamila reçoit une invitation d'Amina pour un week-end à la mer, mais ressent une méfiance et un malaise inattendus face à cette proposition bienveillante. Elle réalise que le calme de cette amitié saine l'angoisse, car son système nerveux est encore marqué par les cycles de violence et de réconciliation vécus avec son ex-compagnon, Samir.",
+          "evolution": "Djamila identifie son attachement traumatique (trauma bonding) et comprend que son cerveau confond l'intensité du conflit avec la réalité du lien affectif. Elle prend conscience qu'elle doit nommer ce besoin inconscient de souffrance pour réussir à accepter la stabilité relationnelle.",
+          "elements_cles": "Djamila (personnage principal), Adam (son fils), Amina (collègue et amie stable), Samir (ex-compagnon toxique), Dr Martin (psychologue), concept de trauma bonding et renforcement intermittent, foulard turquoise."
         }
       ],
       "genre": "F",
