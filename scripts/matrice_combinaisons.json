@@ -3958,6 +3958,113 @@
       "elements_cles": "Djamila (personnage principal), Adam (son fils), Amina (collègue et amie stable), Samir (ex-compagnon toxique), Dr Martin (psychologue), concept de trauma bonding et renforcement intermittent, foulard turquoise.",
       "strategie_coherence": "connecter",
       "apport_psychologique": "Cet article révèle que son 'armure de glace' envers Amina n'est pas seulement de la méfiance, mais une conséquence du lien traumatique avec Samir : son cerveau a associé l'intensité émotionnelle au danger, rendant la bienveillance d'Amina suspecte ou 'ennuyeuse'."
+    },
+    {
+      "date": "2026-04-15",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "les \"je dois/il faut\" (obligations rigides)",
+      "contexte": "en situation de conflit",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "people pleaser (celui/celle qui veut plaire à tout le monde)",
+      "prenom": "Fabien",
+      "age": "50 ans",
+      "title": "Gérer les \"je dois et il faut\" (obligations rigides) en conflit",
+      "slug": "gerer-obligations-rigides-je-dois-il-faut-conflit",
+      "tags": [
+        "psychologie",
+        "flexibilité cognitive",
+        "relations",
+        "affirmation de soi",
+        "bien-être"
+      ],
+      "resume_narratif": "Le mardi 15 avril 2026, Fabien se retrouve dans son nouvel appartement face à une double tension : un message de son ex-épouse Véronique concernant les vacances et l'attitude provocatrice de son fils Lucas. Coincé dans son rôle de médiateur, il ressent physiquement le poids de ses propres exigences de perfection et de contrôle.",
+      "evolution": "Fabien prend conscience que sa rigidité mentale, héritée du silence de son père, transforme ses interactions en conflits internes. Il commence à identifier que ses injonctions de type 'je dois' étouffent ses propres besoins et nuisent à sa relation avec son fils.",
+      "elements_cles": {
+        "lieux": "Nouvel appartement (cuisine au plan de travail en granit)",
+        "personnages": [
+          "Fabien (cadre RH)",
+          "Lucas (son fils)",
+          "Véronique (son ex-épouse)",
+          "Le père de Fabien (mentionné)"
+        ],
+        "contexte_temporel": "15 avril 2026",
+        "techniques_et_decisions": [
+          "Substitution sémantique (remplacer 'je dois' par 'j'aimerais/je préférerais')",
+          "Prise de conscience de la 'musturbation' (exigences dogmatiques d'Albert Ellis)"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-15",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "dégoût",
+      "contexte": "en couple",
+      "angle": "pourquoi ça empire avec le temps si on ne fait rien",
+      "profil": null,
+      "prenom": "Margot",
+      "age": "52 ans",
+      "title": "Le dégoût en couple : comprendre ce signal pour sauver son union",
+      "slug": "degout-en-couple-comprendre-agir",
+      "tags": [
+        "dégoût",
+        "relation de couple",
+        "psychologie des émotions",
+        "crise de milieu de vie",
+        "communication conjugale"
+      ],
+      "resume_narratif": "Lors d'un dîner en tête-à-tête le 15 avril 2026, Margot ressent un dégoût physique et viscéral envers son mari Philippe, amplifié par le silence de leur maison depuis le départ de leurs enfants. Elle ne supporte plus ses bruits de mastication ni l'odeur du repas, marquant une rupture émotionnelle nette dans leur quotidien de couple.",
+      "evolution": "Margot réalise qu'elle applique le biais du coût irrécupérable à son mariage de vingt-cinq ans et identifie que ses drivers 'Sois parfaite' et 'Fais des efforts' nourrissent son mépris pour l'attitude de son mari.",
+      "elements_cles": {
+        "personnages": [
+          "Margot",
+          "Philippe (mari)",
+          "Martin et Chloé (enfants partis du nid)",
+          "Sylvie (mentor en coaching)"
+        ],
+        "contexte_temporel": "Mardi 15 avril 2026",
+        "concepts_psychologiques": [
+          "Dégoût en couple",
+          "Drivers (Sois parfaite, Fais des efforts)",
+          "Biais du coût irrécupérable",
+          "Mépris (Gottman)"
+        ],
+        "objets_symboliques": [
+          "Assiette en grès",
+          "Trophée de danse de Chloé",
+          "Vieux dossiers de directrice commerciale"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-15",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "attachement désorganisé/craintif (oscillation)",
+      "contexte": "après une rupture amoureuse",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": "survivant(e) de relation toxique",
+      "prenom": "Hugo",
+      "age": "27 ans",
+      "title": "Attachement désorganisé et rupture : comprendre l'oscillation",
+      "slug": "attachement-desorganise-craintif-oscillation-rupture-amoureuse",
+      "tags": [
+        "attachement désorganisé",
+        "rupture amoureuse",
+        "psychologie",
+        "relation toxique",
+        "guérison émotionnelle"
+      ],
+      "resume_narratif": "Deux semaines après sa rupture avec Chloé, Hugo traverse une phase de détresse intense dans leur ancien appartement parisien. Malgré le succès récent de son concert au Melody, il oscille violemment entre l'envie de reconquérir son ex-partenaire et le besoin de couper tout contact pour se protéger.",
+      "evolution": "Hugo prend conscience que son instabilité émotionnelle et ses comportements de sabotage sont le miroir de son éducation, où l'amour de son père Alain était conditionné par la performance. Il réalise que son système de défense transforme systématiquement son besoin de proximité en une peur de l'étouffement.",
+      "elements_cles": "Hugo (musicien), Chloé (ex-partenaire), Alain (père exigeant), appartement à Paris, salle de concert Le Melody, date du 15 avril 2026, incident de répétition du 02 avril, tour d'ivoire créative.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

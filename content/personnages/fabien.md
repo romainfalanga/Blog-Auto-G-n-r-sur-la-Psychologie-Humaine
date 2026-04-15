@@ -1,14 +1,14 @@
 ---
 title: "Fabien"
-date: 2026-04-14T05:04:27+00:00
+date: 2026-04-15T05:05:09+00:00
 description: "Fabien est cadre RH dans une entreprise industrielle. Divorcé, il vit désormais dans un nouvel appartement et s'efforce de reconstruire un dialogue empathique avec ses deux enfants."
 slug: "fabien"
 prenom: "Fabien"
 date_naissance: "1975-06-19"
 profession: "Cadre rh dans une entreprise industrielle"
 situation: "Divorcé, a emménagé dans un nouvel appartement, deux enfants (marine, 20 ans et lucas, 17 ans)"
-nb_articles: 5
-weight: 20
+nb_articles: 6
+weight: 18
 draft: false
 ---
 
@@ -68,5 +68,16 @@ draft: false
       <p>Grâce à son esprit analytique de HPI, Fabien identifie le mépris comme un signal émotionnel complexe plutôt qu'une preuve de sa propre infériorité. Il décide de ne plus gaspiller son énergie émotionnelle pour obtenir la validation d'autrui, faisant le lien avec son biais du coût irrécupérable.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mepris-au-travail-comprendre-et-agir/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/gerer-obligations-rigides-je-dois-il-faut-conflit/">Gérer les "je dois et il faut" (obligations rigides) en conflit</a></h3>
+    <div class="parcours-date">2026-04-15</div>
+    <p class="parcours-resume">Le mardi 15 avril 2026, Fabien se retrouve dans son nouvel appartement face à une double tension : un message de son ex-épouse Véronique concernant les vacances et l'attitude provocatrice de son fils Lucas. Coincé dans son rôle de médiateur, il ressent physiquement le poids de ses propres exigences de perfection et de contrôle.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Fabien prend conscience que sa rigidité mentale, héritée du silence de son père, transforme ses interactions en conflits internes. Il commence à identifier que ses injonctions de type 'je dois' étouffent ses propres besoins et nuisent à sa relation avec son fils.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/gerer-obligations-rigides-je-dois-il-faut-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

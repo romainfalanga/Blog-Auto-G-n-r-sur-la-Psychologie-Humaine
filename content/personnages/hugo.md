@@ -1,14 +1,14 @@
 ---
 title: "Hugo"
-date: 2026-04-14T05:04:27+00:00
-description: "Hugo est musicien semi-professionnel et serveur pour payer les factures. En relation instable avec chloé, musicienne aussi."
+date: 2026-04-15T05:05:09+00:00
+description: "Hugo est musicien semi-professionnel et serveur pour payer les factures. Il est désormais célibataire après sa rupture récente avec Chloé."
 slug: "hugo"
 prenom: "Hugo"
 date_naissance: "1999-02-08"
 profession: "Musicien semi-professionnel et serveur pour payer les factures"
-situation: "En relation instable avec chloé, musicienne aussi"
-nb_articles: 6
-weight: 14
+situation: "Célibataire, récemment séparé de chloé"
+nb_articles: 7
+weight: 4
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Hugo identifie son euphorie comme un mécanisme de défense contre son insécurité chronique et reconnaît le risque de basculer dans le sabotage ou le splitting si cette intensité retombe.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/euphorie-apres-un-succes-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-desorganise-craintif-oscillation-rupture-amoureuse/">Attachement désorganisé et rupture : comprendre l'oscillation</a></h3>
+    <div class="parcours-date">2026-04-15</div>
+    <p class="parcours-resume">Deux semaines après sa rupture avec Chloé, Hugo traverse une phase de détresse intense dans leur ancien appartement parisien. Malgré le succès récent de son concert au Melody, il oscille violemment entre l'envie de reconquérir son ex-partenaire et le besoin de couper tout contact pour se protéger.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Hugo prend conscience que son instabilité émotionnelle et ses comportements de sabotage sont le miroir de son éducation, où l'amour de son père Alain était conditionné par la performance. Il réalise que son système de défense transforme systématiquement son besoin de proximité en une peur de l'étouffement.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-desorganise-craintif-oscillation-rupture-amoureuse/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

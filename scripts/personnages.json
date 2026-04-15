@@ -1249,7 +1249,7 @@
       "age": 52,
       "tranche_age": "adulte en bilan de mi-vie (46-55 ans)",
       "profession": "coach (début d'activité)",
-      "situation_familiale": "mariée à Philippe, deux enfants adultes partis de la maison (Martin, 26 ans et Chloé, 23 ans)",
+      "situation_familiale": "en crise conjugale avec Philippe",
       "traits_personnalite": [
         "volontaire",
         "en quête de sens",
@@ -1417,11 +1417,41 @@
             ],
             "decision_en_cours": "Acceptation ou refus d'un contrat de coaching ultra-structuré"
           }
+        },
+        {
+          "date": "2026-04-15",
+          "sujet": "dégoût",
+          "contexte": "en couple",
+          "category": "cat2_emotions",
+          "titre": "Le dégoût en couple : comprendre ce signal pour sauver son union",
+          "slug": "degout-en-couple-comprendre-agir",
+          "resume_narratif": "Lors d'un dîner en tête-à-tête le 15 avril 2026, Margot ressent un dégoût physique et viscéral envers son mari Philippe, amplifié par le silence de leur maison depuis le départ de leurs enfants. Elle ne supporte plus ses bruits de mastication ni l'odeur du repas, marquant une rupture émotionnelle nette dans leur quotidien de couple.",
+          "evolution": "Margot réalise qu'elle applique le biais du coût irrécupérable à son mariage de vingt-cinq ans et identifie que ses drivers 'Sois parfaite' et 'Fais des efforts' nourrissent son mépris pour l'attitude de son mari.",
+          "elements_cles": {
+            "personnages": [
+              "Margot",
+              "Philippe (mari)",
+              "Martin et Chloé (enfants partis du nid)",
+              "Sylvie (mentor en coaching)"
+            ],
+            "contexte_temporel": "Mardi 15 avril 2026",
+            "concepts_psychologiques": [
+              "Dégoût en couple",
+              "Drivers (Sois parfaite, Fais des efforts)",
+              "Biais du coût irrécupérable",
+              "Mépris (Gottman)"
+            ],
+            "objets_symboliques": [
+              "Assiette en grès",
+              "Trophée de danse de Chloé",
+              "Vieux dossiers de directrice commerciale"
+            ]
+          }
         }
       ],
       "genre": "F",
       "date_naissance": "1973-07-23",
-      "description_dynamique": "Margot est une ancienne directrice commerciale qui débute son activité de coach. Mariée à Philippe, elle vit le départ de ses deux enfants adultes tout en luttant contre ses croyances limitantes."
+      "description_dynamique": "Margot est une ancienne directrice commerciale devenue coach. Mariée à Philippe, elle traverse une profonde crise conjugale marquée par un sentiment de dégoût et une remise en question de son mariage."
     },
     {
       "id": "youssef",
@@ -2565,7 +2595,7 @@
       "age": 27,
       "tranche_age": "adulte en construction (26-35 ans)",
       "profession": "musicien semi-professionnel et serveur pour payer les factures",
-      "situation_familiale": "en relation instable avec Chloé, musicienne aussi",
+      "situation_familiale": "célibataire, récemment séparé de Chloé",
       "traits_personnalite": [
         "créatif",
         "passionné",
@@ -2713,11 +2743,22 @@
           "resume_narratif": "Après un concert triomphal au bar Le Melody, Hugo est envahi par une euphorie intense qui le pousse à envoyer un message d'amour passionné à Chloé, malgré leur récente dispute. Porté par ce sentiment de toute-puissance, il occulte temporairement les tensions avec son père Alain et la trahison de Samba.",
           "evolution": "Hugo identifie son euphorie comme un mécanisme de défense contre son insécurité chronique et reconnaît le risque de basculer dans le sabotage ou le splitting si cette intensité retombe.",
           "elements_cles": "Bar Le Melody (Paris) ; Chloé (compagne, relation tendue) ; Alain (père critique) ; Samba (trahison passée) ; message impulsif envoyé ; conscience du réservoir émotionnel percé."
+        },
+        {
+          "date": "2026-04-15",
+          "sujet": "attachement désorganisé/craintif (oscillation)",
+          "contexte": "après une rupture amoureuse",
+          "category": "cat3_schemas",
+          "titre": "Attachement désorganisé et rupture : comprendre l'oscillation",
+          "slug": "attachement-desorganise-craintif-oscillation-rupture-amoureuse",
+          "resume_narratif": "Deux semaines après sa rupture avec Chloé, Hugo traverse une phase de détresse intense dans leur ancien appartement parisien. Malgré le succès récent de son concert au Melody, il oscille violemment entre l'envie de reconquérir son ex-partenaire et le besoin de couper tout contact pour se protéger.",
+          "evolution": "Hugo prend conscience que son instabilité émotionnelle et ses comportements de sabotage sont le miroir de son éducation, où l'amour de son père Alain était conditionné par la performance. Il réalise que son système de défense transforme systématiquement son besoin de proximité en une peur de l'étouffement.",
+          "elements_cles": "Hugo (musicien), Chloé (ex-partenaire), Alain (père exigeant), appartement à Paris, salle de concert Le Melody, date du 15 avril 2026, incident de répétition du 02 avril, tour d'ivoire créative."
         }
       ],
       "genre": "M",
       "date_naissance": "1999-02-08",
-      "description_dynamique": "Hugo est musicien semi-professionnel et serveur pour payer les factures. En relation instable avec chloé, musicienne aussi."
+      "description_dynamique": "Hugo est musicien semi-professionnel et serveur pour payer les factures. Il est désormais célibataire après sa rupture récente avec Chloé."
     },
     {
       "id": "priya",
@@ -3460,6 +3501,30 @@
           "resume_narratif": "Le 05 avril 2026, Fabien subit le mépris d'un jeune consultant externe lors d'une réunion de travail à l'usine. Ce dernier rejette avec condescendance sa proposition de médiation sociale, renvoyant Fabien à un sentiment d'obsolescence professionnelle.",
           "evolution": "Grâce à son esprit analytique de HPI, Fabien identifie le mépris comme un signal émotionnel complexe plutôt qu'une preuve de sa propre infériorité. Il décide de ne plus gaspiller son énergie émotionnelle pour obtenir la validation d'autrui, faisant le lien avec son biais du coût irrécupérable.",
           "elements_cles": "Bureau de l'usine ; consultant externe anonyme ; appartement aux murs blancs (post-divorce) ; Véronique (ex-femme) ; Lucas et Marine (enfants) ; héritage du silence paternel ; technique de décodage des micro-signaux."
+        },
+        {
+          "date": "2026-04-15",
+          "sujet": "les \"je dois/il faut\" (obligations rigides)",
+          "contexte": "en situation de conflit",
+          "category": "cat1_pensees",
+          "titre": "Gérer les \"je dois et il faut\" (obligations rigides) en conflit",
+          "slug": "gerer-obligations-rigides-je-dois-il-faut-conflit",
+          "resume_narratif": "Le mardi 15 avril 2026, Fabien se retrouve dans son nouvel appartement face à une double tension : un message de son ex-épouse Véronique concernant les vacances et l'attitude provocatrice de son fils Lucas. Coincé dans son rôle de médiateur, il ressent physiquement le poids de ses propres exigences de perfection et de contrôle.",
+          "evolution": "Fabien prend conscience que sa rigidité mentale, héritée du silence de son père, transforme ses interactions en conflits internes. Il commence à identifier que ses injonctions de type 'je dois' étouffent ses propres besoins et nuisent à sa relation avec son fils.",
+          "elements_cles": {
+            "lieux": "Nouvel appartement (cuisine au plan de travail en granit)",
+            "personnages": [
+              "Fabien (cadre RH)",
+              "Lucas (son fils)",
+              "Véronique (son ex-épouse)",
+              "Le père de Fabien (mentionné)"
+            ],
+            "contexte_temporel": "15 avril 2026",
+            "techniques_et_decisions": [
+              "Substitution sémantique (remplacer 'je dois' par 'j'aimerais/je préférerais')",
+              "Prise de conscience de la 'musturbation' (exigences dogmatiques d'Albert Ellis)"
+            ]
+          }
         }
       ],
       "genre": "M",

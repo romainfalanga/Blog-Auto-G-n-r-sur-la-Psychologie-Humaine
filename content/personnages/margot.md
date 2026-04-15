@@ -1,14 +1,14 @@
 ---
 title: "Margot"
-date: 2026-04-14T05:04:27+00:00
-description: "Margot est une ancienne directrice commerciale qui débute son activité de coach. Mariée à Philippe, elle vit le départ de ses deux enfants adultes tout en luttant contre ses croyances limitantes."
+date: 2026-04-15T05:05:09+00:00
+description: "Margot est une ancienne directrice commerciale devenue coach. Mariée à Philippe, elle traverse une profonde crise conjugale marquée par un sentiment de dégoût et une remise en question de son mariage."
 slug: "margot"
 prenom: "Margot"
 date_naissance: "1973-07-23"
 profession: "Coach (début d'activité)"
-situation: "Mariée à philippe, deux enfants adultes partis de la maison (martin, 26 ans et chloé, 23 ans)"
-nb_articles: 6
-weight: 8
+situation: "En crise conjugale avec philippe"
+nb_articles: 7
+weight: 2
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Elle identifie que son sentiment d'inéluctabilité est alimenté par un biais rétrospectif, transformant son passé commercial en un destin tracé qui restreint ses options actuelles. Elle prend conscience que ses drivers 'sois forte' et 'sois parfaite' influencent sa perception de la situation.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-retrospectif-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/degout-en-couple-comprendre-agir/">Le dégoût en couple : comprendre ce signal pour sauver son union</a></h3>
+    <div class="parcours-date">2026-04-15</div>
+    <p class="parcours-resume">Lors d'un dîner en tête-à-tête le 15 avril 2026, Margot ressent un dégoût physique et viscéral envers son mari Philippe, amplifié par le silence de leur maison depuis le départ de leurs enfants. Elle ne supporte plus ses bruits de mastication ni l'odeur du repas, marquant une rupture émotionnelle nette dans leur quotidien de couple.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Margot réalise qu'elle applique le biais du coût irrécupérable à son mariage de vingt-cinq ans et identifie que ses drivers 'Sois parfaite' et 'Fais des efforts' nourrissent son mépris pour l'attitude de son mari.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/degout-en-couple-comprendre-agir/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
