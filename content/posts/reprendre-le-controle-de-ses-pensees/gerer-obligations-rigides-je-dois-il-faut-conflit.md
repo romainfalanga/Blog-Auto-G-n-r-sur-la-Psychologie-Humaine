@@ -8,7 +8,7 @@ slug: "gerer-obligations-rigides-je-dois-il-faut-conflit"
 readingTime: 6
 wordCount: 1544
 personnage: "Fabien"
-sujet: "les "je dois/il faut" (obligations rigides)"
+sujet: "les \"je dois/il faut\" (obligations rigides)"
 contexte: "en situation de conflit"
 draft: false
 ---
