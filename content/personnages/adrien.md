@@ -1,14 +1,14 @@
 ---
 title: "Adrien"
-date: 2026-04-15T05:05:09+00:00
+date: 2026-04-16T05:10:20+00:00
 description: "Adrien est graphiste freelance. Célibataire depuis une rupture difficile il y a un an."
 slug: "adrien"
 prenom: "Adrien"
 date_naissance: "1994-06-07"
 profession: "Graphiste freelance"
 situation: "Célibataire depuis une rupture difficile il y a un an"
-nb_articles: 6
-weight: 9
+nb_articles: 7
+weight: 4
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Adrien identifie son biais de négativité et son raisonnement émotionnel, réalisant que son cerveau amplifie ses doutes et les forces de ses rivaux tout en occultant ses propres compétences techniques.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-negativite-situation-competition-adrien/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/amertume-reconversion-professionnelle-burn-out/">Amertume et reconversion : sortir du cercle vicieux du burn-out</a></h3>
+    <div class="parcours-date">2026-04-16</div>
+    <p class="parcours-resume">Adrien, en pleine reconversion après un burn-out, observe avec amertume son ancienne agence depuis le square du Temple. Marqué par l'échec récent d'un appel d'offres face à son ancienne collègue Julie, il sombre dans un cynisme qui paralyse sa créativité et le pousse à s'isoler de ses proches.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Il identifie son amertume comme un mécanisme de défense protégeant son estime de soi, mais réalise que ce sentiment transforme sa lucidité en un poison qui sabote ses opportunités professionnelles et sociales.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/amertume-reconversion-professionnelle-burn-out/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: "Patrick"
-date: 2026-04-15T05:05:09+00:00
+date: 2026-04-16T05:10:20+00:00
 description: "Patrick est ancien ouvrier, maintenant chef d'équipe dans le BTP. Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils."
 slug: "patrick"
 prenom: "Patrick"

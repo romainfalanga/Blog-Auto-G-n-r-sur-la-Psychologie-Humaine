@@ -1,14 +1,14 @@
 ---
 title: "Lucas"
-date: 2026-04-15T05:05:09+00:00
+date: 2026-04-16T05:10:20+00:00
 description: "Lucas est étudiant en dernière année d'école de commerce, en stage. Célibataire, en colocation avec deux amis."
 slug: "lucas"
 prenom: "Lucas"
 date_naissance: "2001-04-10"
 profession: "Étudiant en dernière année d'école de commerce, en stage"
 situation: "Célibataire, en colocation avec deux amis"
-nb_articles: 6
-weight: 8
+nb_articles: 7
+weight: 2
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Lucas prend conscience que son besoin de validation transforme ses amitiés en une performance permanente, l'empêchant d'être authentique par peur d'être démasqué comme un imposteur.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-amitie-enfance/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-barnum-forer-reseaux-sociaux/">Effet Barnum sur les réseaux sociaux : s'en libérer avec Lucas</a></h3>
+    <div class="parcours-date">2026-04-16</div>
+    <p class="parcours-resume">Lucas, fatigué par son stage et ses tensions financières avec ses colocataires Maxime et Romain, tombe sur une vidéo traitant de l'hypersensibilité sur les réseaux sociaux. Convaincu que la description s'applique parfaitement à lui, il s'abonne au compte pour trouver une explication à son sentiment d'imposture et à ses difficultés sociales.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Le personnage passe d'un état de fatigue mentale et de culpabilité à un sentiment de soulagement immédiat en s'identifiant à un portrait psychologique vague. Il croit avoir trouvé la clé de son mal-être, ignorant qu'il est victime de l'effet Barnum.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-barnum-forer-reseaux-sociaux/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

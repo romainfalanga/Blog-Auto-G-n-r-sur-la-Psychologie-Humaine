@@ -384,6 +384,17 @@
               "Évitement du stress par le désintérêt"
             ]
           }
+        },
+        {
+          "date": "2026-04-16",
+          "sujet": "punition",
+          "contexte": "à l'école ou aux études",
+          "category": "cat3_schemas",
+          "titre": "Punition à l'école ou aux études : comprendre ce schéma répétitif",
+          "slug": "punition-ecole-etudes-schema-repetitif",
+          "resume_narratif": "Thomas, enseignant à Lyon, se retrouve dans sa salle de classe face à Julie, une élève n'ayant pas rendu son projet. Tiraillé entre le règlement imposé par ses collègues et son empathie, il hésite à lui infliger un zéro pointé.",
+          "evolution": "Thomas réalise que son refus de sanctionner est une projection de sa propre peur panique de la punition et de l'échec, héritée d'une enfance marquée par le besoin de ne jamais décevoir ses parents.",
+          "elements_cles": "Lieu : Salle 204 (Lyon). Personnes : Émilie (conjointe), Julie (élève), Valérie (collègue), un frère nommé An. Contexte : Déménagement récent, tension entre mentorat et rôle de censeur, tendance au perfectionnisme sacrificiel."
         }
       ],
       "genre": "M",
@@ -809,6 +820,17 @@
             "contexte_social": "Étudiant en école de commerce, stagiaire (tableaux Excel), syndrome de l'imposteur",
             "evenements_passes": "Entretien stressant à La Défense, match de basket perdu contre Antoine, mensonge financier pour un séjour au ski"
           }
+        },
+        {
+          "date": "2026-04-16",
+          "sujet": "effet Barnum/Forer",
+          "contexte": "sur les réseaux sociaux",
+          "category": "cat1_pensees",
+          "titre": "Effet Barnum sur les réseaux sociaux : s'en libérer avec Lucas",
+          "slug": "effet-barnum-forer-reseaux-sociaux",
+          "resume_narratif": "Lucas, fatigué par son stage et ses tensions financières avec ses colocataires Maxime et Romain, tombe sur une vidéo traitant de l'hypersensibilité sur les réseaux sociaux. Convaincu que la description s'applique parfaitement à lui, il s'abonne au compte pour trouver une explication à son sentiment d'imposture et à ses difficultés sociales.",
+          "evolution": "Le personnage passe d'un état de fatigue mentale et de culpabilité à un sentiment de soulagement immédiat en s'identifiant à un portrait psychologique vague. Il croit avoir trouvé la clé de son mal-être, ignorant qu'il est victime de l'effet Barnum.",
+          "elements_cles": "Chambre de colocation (Maxime et Romain) ; stage et rédaction de mémoire ; mensonge financier sur un week-end au ski ; sentiment d'imposture ; abonnement à un compte de psychologie vulgarisée ; concept de validation subjective."
         }
       ],
       "genre": "M",
@@ -1237,6 +1259,17 @@
             "evenements_passes": "Départ d'une agence, rupture avec Marina, critique d'un client il y a six mois",
             "competence_technique": "Identité visuelle, dessin comme ancrage émotionnel"
           }
+        },
+        {
+          "date": "2026-04-16",
+          "sujet": "amertume",
+          "contexte": "en période de reconversion professionnelle",
+          "category": "cat2_emotions",
+          "titre": "Amertume et reconversion : sortir du cercle vicieux du burn-out",
+          "slug": "amertume-reconversion-professionnelle-burn-out",
+          "resume_narratif": "Adrien, en pleine reconversion après un burn-out, observe avec amertume son ancienne agence depuis le square du Temple. Marqué par l'échec récent d'un appel d'offres face à son ancienne collègue Julie, il sombre dans un cynisme qui paralyse sa créativité et le pousse à s'isoler de ses proches.",
+          "evolution": "Il identifie son amertume comme un mécanisme de défense protégeant son estime de soi, mais réalise que ce sentiment transforme sa lucidité en un poison qui sabote ses opportunités professionnelles et sociales.",
+          "elements_cles": "Square du Temple (Paris) ; Julie (ancienne collègue) ; Marina (ex-compagne) ; Julien et Charlotte (entourage) ; carnet de croquis ; échec de l'appel d'offres cosmétiques ; concept de trouble de l'amertume post-traumatique."
         }
       ],
       "genre": "M",

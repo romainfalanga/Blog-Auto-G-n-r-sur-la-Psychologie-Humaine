@@ -1,14 +1,14 @@
 ---
 title: "Thomas"
-date: 2026-04-15T05:05:09+00:00
+date: 2026-04-16T05:10:20+00:00
 description: "Thomas est enseignant d'histoire-géographie au lycée. En couple avec Émilie, il vient de déménager dans un nouvel appartement à Lyon tout en poursuivant sa réflexion sur la parentalité."
 slug: "thomas"
 prenom: "Thomas"
 date_naissance: "1992-02-22"
 profession: "Enseignant d'histoire-géographie au lycée"
 situation: "En couple avec émilie, vient de déménager dans un nouvel appartement à lyon"
-nb_articles: 6
-weight: 6
+nb_articles: 7
+weight: 1
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Thomas identifie que son ennui n'est pas de la paresse, mais un mécanisme de défense psychologique pour fuir l'angoisse liée au changement et aux futures responsabilités, comme la parentalité. Il prend conscience que son habituel 'réflexe de sauveur' s'est éteint, laissant place à un évitement cognitif.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/ennui-lors-un-demenagement-signes-anxiete/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/punition-ecole-etudes-schema-repetitif/">Punition à l'école ou aux études : comprendre ce schéma répétitif</a></h3>
+    <div class="parcours-date">2026-04-16</div>
+    <p class="parcours-resume">Thomas, enseignant à Lyon, se retrouve dans sa salle de classe face à Julie, une élève n'ayant pas rendu son projet. Tiraillé entre le règlement imposé par ses collègues et son empathie, il hésite à lui infliger un zéro pointé.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Thomas réalise que son refus de sanctionner est une projection de sa propre peur panique de la punition et de l'échec, héritée d'une enfance marquée par le besoin de ne jamais décevoir ses parents.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/punition-ecole-etudes-schema-repetitif/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

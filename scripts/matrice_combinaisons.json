@@ -4065,6 +4065,81 @@
       "elements_cles": "Hugo (musicien), Chloé (ex-partenaire), Alain (père exigeant), appartement à Paris, salle de concert Le Melody, date du 15 avril 2026, incident de répétition du 02 avril, tour d'ivoire créative.",
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-16",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet Barnum/Forer",
+      "contexte": "sur les réseaux sociaux",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "people pleaser (celui/celle qui veut plaire à tout le monde)",
+      "prenom": "Lucas",
+      "age": "25 ans",
+      "title": "Effet Barnum sur les réseaux sociaux : s'en libérer avec Lucas",
+      "slug": "effet-barnum-forer-reseaux-sociaux",
+      "tags": [
+        "effet Barnum",
+        "psychologie sociale",
+        "réseaux sociaux",
+        "biais cognitifs",
+        "connaissance de soi"
+      ],
+      "resume_narratif": "Lucas, fatigué par son stage et ses tensions financières avec ses colocataires Maxime et Romain, tombe sur une vidéo traitant de l'hypersensibilité sur les réseaux sociaux. Convaincu que la description s'applique parfaitement à lui, il s'abonne au compte pour trouver une explication à son sentiment d'imposture et à ses difficultés sociales.",
+      "evolution": "Le personnage passe d'un état de fatigue mentale et de culpabilité à un sentiment de soulagement immédiat en s'identifiant à un portrait psychologique vague. Il croit avoir trouvé la clé de son mal-être, ignorant qu'il est victime de l'effet Barnum.",
+      "elements_cles": "Chambre de colocation (Maxime et Romain) ; stage et rédaction de mémoire ; mensonge financier sur un week-end au ski ; sentiment d'imposture ; abonnement à un compte de psychologie vulgarisée ; concept de validation subjective.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-16",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "amertume",
+      "contexte": "en période de reconversion professionnelle",
+      "angle": "pourquoi ça empire avec le temps si on ne fait rien",
+      "profil": "en burn-out",
+      "prenom": "Adrien",
+      "age": "31 ans",
+      "title": "Amertume et reconversion : sortir du cercle vicieux du burn-out",
+      "slug": "amertume-reconversion-professionnelle-burn-out",
+      "tags": [
+        "amertume",
+        "reconversion",
+        "burn-out",
+        "émotions",
+        "résilience"
+      ],
+      "resume_narratif": "Adrien, en pleine reconversion après un burn-out, observe avec amertume son ancienne agence depuis le square du Temple. Marqué par l'échec récent d'un appel d'offres face à son ancienne collègue Julie, il sombre dans un cynisme qui paralyse sa créativité et le pousse à s'isoler de ses proches.",
+      "evolution": "Il identifie son amertume comme un mécanisme de défense protégeant son estime de soi, mais réalise que ce sentiment transforme sa lucidité en un poison qui sabote ses opportunités professionnelles et sociales.",
+      "elements_cles": "Square du Temple (Paris) ; Julie (ancienne collègue) ; Marina (ex-compagne) ; Julien et Charlotte (entourage) ; carnet de croquis ; échec de l'appel d'offres cosmétiques ; concept de trouble de l'amertume post-traumatique.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-16",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "punition",
+      "contexte": "à l'école ou aux études",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "perfectionniste",
+      "prenom": "Thomas",
+      "age": "34 ans",
+      "title": "Punition à l'école ou aux études : comprendre ce schéma répétitif",
+      "slug": "punition-ecole-etudes-schema-repetitif",
+      "tags": [
+        "punition scolaire",
+        "éducation",
+        "perfectionnisme",
+        "psychologie",
+        "Thomas"
+      ],
+      "resume_narratif": "Thomas, enseignant à Lyon, se retrouve dans sa salle de classe face à Julie, une élève n'ayant pas rendu son projet. Tiraillé entre le règlement imposé par ses collègues et son empathie, il hésite à lui infliger un zéro pointé.",
+      "evolution": "Thomas réalise que son refus de sanctionner est une projection de sa propre peur panique de la punition et de l'échec, héritée d'une enfance marquée par le besoin de ne jamais décevoir ses parents.",
+      "elements_cles": "Lieu : Salle 204 (Lyon). Personnes : Émilie (conjointe), Julie (élève), Valérie (collègue), un frère nommé An. Contexte : Déménagement récent, tension entre mentorat et rôle de censeur, tendance au perfectionnisme sacrificiel.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

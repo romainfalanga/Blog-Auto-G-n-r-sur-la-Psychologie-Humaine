@@ -1,6 +1,6 @@
 ---
 title: "Margot"
-date: 2026-04-15T05:05:09+00:00
+date: 2026-04-16T05:10:20+00:00
 description: "Margot est une ancienne directrice commerciale devenue coach. Mariée à Philippe, elle traverse une profonde crise conjugale marquée par un sentiment de dégoût et une remise en question de son mariage."
 slug: "margot"
 prenom: "Margot"
@@ -8,7 +8,7 @@ date_naissance: "1973-07-23"
 profession: "Coach (début d'activité)"
 situation: "En crise conjugale avec philippe"
 nb_articles: 7
-weight: 2
+weight: 5
 draft: false
 ---
 
