@@ -2067,22 +2067,26 @@ def create_hugo_post(combo, metadata, content):
 
     tags_str = json.dumps(metadata.get("tags", []), ensure_ascii=False)
 
-    # Échapper les guillemets doubles dans le titre et la description pour éviter de casser le YAML
+    # Échapper les guillemets doubles dans toutes les valeurs du front matter pour éviter de casser le YAML
     safe_title = metadata.get('title', 'Article du jour').replace('"', '\\"')
     safe_description = metadata.get('description', '').replace('"', '\\"')
+    safe_category_name = combo['category_name'].replace('"', '\\"')
+    safe_prenom = combo['prenom'].replace('"', '\\"')
+    safe_sujet = combo['sujet'].replace('"', '\\"')
+    safe_contexte = combo['contexte'].replace('"', '\\"')
 
     front_matter = f"""---
 title: "{safe_title}"
 date: {date_str}
 description: "{safe_description}"
-categories: ["{combo['category_name']}"]
+categories: ["{safe_category_name}"]
 tags: {tags_str}
 slug: "{metadata.get('slug', date_short)}"
 readingTime: {reading_time}
 wordCount: {word_count}
-personnage: "{combo['prenom']}"
-sujet: "{combo['sujet']}"
-contexte: "{combo['contexte']}"
+personnage: "{safe_prenom}"
+sujet: "{safe_sujet}"
+contexte: "{safe_contexte}"
 draft: false
 ---"""
 
