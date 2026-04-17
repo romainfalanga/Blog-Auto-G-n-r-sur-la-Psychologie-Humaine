@@ -4140,6 +4140,124 @@
       "elements_cles": "Lieu : Salle 204 (Lyon). Personnes : Émilie (conjointe), Julie (élève), Valérie (collègue), un frère nommé An. Contexte : Déménagement récent, tension entre mentorat et rôle de censeur, tendance au perfectionnisme sacrificiel.",
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-17",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet IKEA",
+      "contexte": "face à une décision importante",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "contrôlant(e)",
+      "prenom": "Stéphane",
+      "age": "45 ans",
+      "title": "Effet IKEA : pourquoi nous surestimons nos propres idées ?",
+      "slug": "effet-ikea-decision-importante-psychologie",
+      "tags": [
+        "effet IKEA",
+        "biais cognitif",
+        "prise de décision",
+        "psychologie du travail",
+        "surcontrôle"
+      ],
+      "resume_narratif": "Stéphane présente seul un plan stratégique pour le compte Lemoine au siège social, après y avoir travaillé de manière acharnée et solitaire pour se prouver sa valeur face à son frère Philippe. Confronté aux critiques du directeur commercial lors de la réunion, il réagit avec une ferveur irrationnelle, incapable de remettre en question son travail.",
+      "evolution": "Stéphane est en proie à l'effet IKEA : il confond l'effort fourni avec la qualité de son projet, ce qui le rend hermétique aux conseils extérieurs et aveugle face aux failles de son plan. Il n'a pas encore réussi à prendre la distance nécessaire pour accepter la critique constructive.",
+      "elements_cles": {
+        "personnages": [
+          "Stéphane",
+          "Philippe (frère rival)",
+          "Marc (collègue critiqué)",
+          "Sandrine (collègue écartée)",
+          "Directeur commercial"
+        ],
+        "lieux": [
+          "Siège social (5ème étage)",
+          "Salle de réunion"
+        ],
+        "contexte": [
+          "Compte Lemoine",
+          "Plan stratégique construit en solitaire",
+          "Traumatisme lié aux facilités de son frère durant l'enfance"
+        ],
+        "techniques_mentionnees": [
+          "Méthode de l'avocat du diable externe"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-17",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "résilience émotionnelle",
+      "contexte": "lors d'un deuil",
+      "angle": "comprendre ce que c'est (article explicatif)",
+      "profil": "timide",
+      "prenom": "Patrick",
+      "age": "56 ans",
+      "title": "Résilience émotionnelle lors d'un deuil : le parcours de Patrick",
+      "slug": "resilience-emotionnelle-lors-un-deuil-comprendre",
+      "tags": [
+        "deuil",
+        "résilience",
+        "psychologie",
+        "gestion émotionnelle",
+        "santé mentale"
+      ],
+      "resume_narratif": "Trois jours après l'enterrement de son père Marcel, Patrick se recueille dans son garage, confronté au vide et à ses douleurs physiques persistantes. Malgré sa pudeur habituelle, il tente de briser son isolement émotionnel vis-à-vis de sa femme Catherine et de ses enfants, Stéphanie et Julien.",
+      "evolution": "Patrick commence à comprendre que la véritable force ne réside pas dans le refoulement ou l'armure de pierre héritée de son père, mais dans l'acceptation de sa propre vulnérabilité et la capacité à survivre à ses émotions.",
+      "elements_cles": {
+        "lieux": [
+          "Garage",
+          "établi de Marcel",
+          "chantier"
+        ],
+        "personnes": [
+          "Marcel (père décédé)",
+          "Catherine (épouse)",
+          "Stéphanie et Julien (enfants)",
+          "Antoine (collègue)",
+          "Boris Cyrulnik (référence)"
+        ],
+        "evenements_passes": [
+          "Accident de chantier (lombaires)",
+          "Explosion de rage le 10 avril",
+          "Dimanche de mars (silence face à Stéphanie)"
+        ],
+        "decisions": [
+          "Pratique de la pendulation (alterner émotion et action)",
+          "Recherche de sens dans l'héritage de son père",
+          "Acceptation du soutien social"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-17",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "formation réactionnelle",
+      "contexte": "en situation de conflit",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "survivant(e) de relation toxique",
+      "prenom": "Sophie",
+      "age": "28 ans",
+      "title": "Formation réactionnelle en situation de conflit : comprendre ce mécanisme",
+      "slug": "formation-reactionnelle-en-situation-de-conflit",
+      "tags": [
+        "psychologie",
+        "mécanismes de défense",
+        "relations toxiques",
+        "gestion du conflit",
+        "schémas répétitifs"
+      ],
+      "resume_narratif": "Lors d'une réunion tendue, Sophie subit le rejet injuste de son travail sur une base de données par son collègue Marc. Au lieu d'exprimer sa colère, elle réagit par une gentillesse excessive et une soumission totale, acceptant de tout recommencer malgré son ressentiment intérieur.",
+      "evolution": "Sophie identifie son comportement comme une formation réactionnelle, un mécanisme de défense qui transforme sa rage en politesse mielleuse pour éviter le conflit. Elle réalise que ce schéma, hérité d'une éducation exigeante, devient un obstacle épuisant à son affirmation de soi.",
+      "elements_cles": "Marc (collègue condescendant), Nantes (lieu de ses parents), carnet de notes (suivi émotionnel), base de données (projet technique), tapis de yoga, formation réactionnelle (concept psychologique).",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

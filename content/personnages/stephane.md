@@ -1,14 +1,14 @@
 ---
 title: "Stéphane"
-date: 2026-04-16T05:10:20+00:00
+date: 2026-04-17T05:08:27+00:00
 description: "Stéphane est commercial grands comptes dans une multinationale. Marié à sandrine, père d'un adolescent (maxime, 15 ans)."
 slug: "stephane"
 prenom: "Stéphane"
 date_naissance: "1980-04-25"
 profession: "Commercial grands comptes dans une multinationale"
 situation: "Marié à sandrine, père d'un adolescent (maxime, 15 ans)"
-nb_articles: 6
-weight: 16
+nb_articles: 7
+weight: 10
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Stéphane prend conscience qu'il projette ses propres insécurités et son besoin de supériorité sur Marc via le biais d'attribution fondamentale. Il comprend que sa dureté est un mécanisme de défense lié à sa compétition fraternelle et à son anxiété sociale.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-attribution-fondamentale-situation-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-ikea-decision-importante-psychologie/">Effet IKEA : pourquoi nous surestimons nos propres idées ?</a></h3>
+    <div class="parcours-date">2026-04-17</div>
+    <p class="parcours-resume">Stéphane présente seul un plan stratégique pour le compte Lemoine au siège social, après y avoir travaillé de manière acharnée et solitaire pour se prouver sa valeur face à son frère Philippe. Confronté aux critiques du directeur commercial lors de la réunion, il réagit avec une ferveur irrationnelle, incapable de remettre en question son travail.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Stéphane est en proie à l'effet IKEA : il confond l'effort fourni avec la qualité de son projet, ce qui le rend hermétique aux conseils extérieurs et aveugle face aux failles de son plan. Il n'a pas encore réussi à prendre la distance nécessaire pour accepter la critique constructive.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-ikea-decision-importante-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

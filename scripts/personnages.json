@@ -180,6 +180,17 @@
               "Effet Dunning-Kruger"
             ]
           }
+        },
+        {
+          "date": "2026-04-17",
+          "sujet": "formation réactionnelle",
+          "contexte": "en situation de conflit",
+          "category": "cat3_schemas",
+          "titre": "Formation réactionnelle en situation de conflit : comprendre ce mécanisme",
+          "slug": "formation-reactionnelle-en-situation-de-conflit",
+          "resume_narratif": "Lors d'une réunion tendue, Sophie subit le rejet injuste de son travail sur une base de données par son collègue Marc. Au lieu d'exprimer sa colère, elle réagit par une gentillesse excessive et une soumission totale, acceptant de tout recommencer malgré son ressentiment intérieur.",
+          "evolution": "Sophie identifie son comportement comme une formation réactionnelle, un mécanisme de défense qui transforme sa rage en politesse mielleuse pour éviter le conflit. Elle réalise que ce schéma, hérité d'une éducation exigeante, devient un obstacle épuisant à son affirmation de soi.",
+          "elements_cles": "Marc (collègue condescendant), Nantes (lieu de ses parents), carnet de notes (suivi émotionnel), base de données (projet technique), tapis de yoga, formation réactionnelle (concept psychologique)."
         }
       ],
       "genre": "F",
@@ -1855,7 +1866,7 @@
       "age": 56,
       "tranche_age": "senior en quête de sens (56-70 ans)",
       "profession": "ancien ouvrier, maintenant chef d'équipe dans le BTP",
-      "situation_familiale": "marié à Catherine depuis 30 ans, deux enfants adultes, un petit-fils",
+      "situation_familiale": "marié à Catherine depuis 30 ans, deux enfants adultes, un petit-fils, vient de perdre son père",
       "traits_personnalite": [
         "stoïque",
         "pudique émotionnellement",
@@ -2007,11 +2018,45 @@
           "resume_narratif": "Sur son chantier le 10 avril 2026, Patrick a explosé de rage contre son jeune ouvrier Antoine après avoir manqué de le renverser à cause d'une vive douleur aux lombaires. Réfugié dans sa camionnette, il lutte désormais contre la honte et des tremblements physiques après ce débordement de fureur inédit.",
           "evolution": "Patrick réalise que sa colère est un mécanisme de défense masquant sa peur du déclin physique et son sentiment d'impuissance. Il comprend que son armure de silence s'est brisée, libérant un torrent émotionnel qu'il ne parvient plus à contrôler comme le faisait son père.",
           "elements_cles": "Chantier de construction ; Antoine (ouvrier) ; Marcel (père décédé, modèle de stoïcisme froid) ; Catherine ; Stéphanie (fille) ; douleurs lombaires chroniques ; date du 10 avril 2026 ; sentiment de honte post-conflit."
+        },
+        {
+          "date": "2026-04-17",
+          "sujet": "résilience émotionnelle",
+          "contexte": "lors d'un deuil",
+          "category": "cat2_emotions",
+          "titre": "Résilience émotionnelle lors d'un deuil : le parcours de Patrick",
+          "slug": "resilience-emotionnelle-lors-un-deuil-comprendre",
+          "resume_narratif": "Trois jours après l'enterrement de son père Marcel, Patrick se recueille dans son garage, confronté au vide et à ses douleurs physiques persistantes. Malgré sa pudeur habituelle, il tente de briser son isolement émotionnel vis-à-vis de sa femme Catherine et de ses enfants, Stéphanie et Julien.",
+          "evolution": "Patrick commence à comprendre que la véritable force ne réside pas dans le refoulement ou l'armure de pierre héritée de son père, mais dans l'acceptation de sa propre vulnérabilité et la capacité à survivre à ses émotions.",
+          "elements_cles": {
+            "lieux": [
+              "Garage",
+              "établi de Marcel",
+              "chantier"
+            ],
+            "personnes": [
+              "Marcel (père décédé)",
+              "Catherine (épouse)",
+              "Stéphanie et Julien (enfants)",
+              "Antoine (collègue)",
+              "Boris Cyrulnik (référence)"
+            ],
+            "evenements_passes": [
+              "Accident de chantier (lombaires)",
+              "Explosion de rage le 10 avril",
+              "Dimanche de mars (silence face à Stéphanie)"
+            ],
+            "decisions": [
+              "Pratique de la pendulation (alterner émotion et action)",
+              "Recherche de sens dans l'héritage de son père",
+              "Acceptation du soutien social"
+            ]
+          }
         }
       ],
       "genre": "M",
       "date_naissance": "1969-10-28",
-      "description_dynamique": "Patrick est ancien ouvrier, maintenant chef d'équipe dans le BTP. Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils."
+      "description_dynamique": "Patrick est chef d'équipe dans le BTP, marié et grand-père. Suite au décès récent de son père, il entame un cheminement sur sa vulnérabilité et sa résilience émotionnelle."
     },
     {
       "id": "lea",
@@ -3194,6 +3239,37 @@
             "objets_et_lieux": "Salle de réunion, stylo en argent, cravate en soie",
             "passé_évoqué": "Effet spotlight lors d'un cocktail, syndrome de l'imposteur, rivalité fraternelle depuis l'enfance",
             "evenement_externe": "Panne de serveur durant le week-end"
+          }
+        },
+        {
+          "date": "2026-04-17",
+          "sujet": "effet IKEA",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Effet IKEA : pourquoi nous surestimons nos propres idées ?",
+          "slug": "effet-ikea-decision-importante-psychologie",
+          "resume_narratif": "Stéphane présente seul un plan stratégique pour le compte Lemoine au siège social, après y avoir travaillé de manière acharnée et solitaire pour se prouver sa valeur face à son frère Philippe. Confronté aux critiques du directeur commercial lors de la réunion, il réagit avec une ferveur irrationnelle, incapable de remettre en question son travail.",
+          "evolution": "Stéphane est en proie à l'effet IKEA : il confond l'effort fourni avec la qualité de son projet, ce qui le rend hermétique aux conseils extérieurs et aveugle face aux failles de son plan. Il n'a pas encore réussi à prendre la distance nécessaire pour accepter la critique constructive.",
+          "elements_cles": {
+            "personnages": [
+              "Stéphane",
+              "Philippe (frère rival)",
+              "Marc (collègue critiqué)",
+              "Sandrine (collègue écartée)",
+              "Directeur commercial"
+            ],
+            "lieux": [
+              "Siège social (5ème étage)",
+              "Salle de réunion"
+            ],
+            "contexte": [
+              "Compte Lemoine",
+              "Plan stratégique construit en solitaire",
+              "Traumatisme lié aux facilités de son frère durant l'enfance"
+            ],
+            "techniques_mentionnees": [
+              "Méthode de l'avocat du diable externe"
+            ]
           }
         }
       ],

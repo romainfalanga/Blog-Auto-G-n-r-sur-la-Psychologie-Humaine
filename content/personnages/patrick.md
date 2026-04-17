@@ -1,14 +1,14 @@
 ---
 title: "Patrick"
-date: 2026-04-16T05:10:20+00:00
-description: "Patrick est ancien ouvrier, maintenant chef d'équipe dans le BTP. Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils."
+date: 2026-04-17T05:08:27+00:00
+description: "Patrick est chef d'équipe dans le BTP, marié et grand-père. Suite au décès récent de son père, il entame un cheminement sur sa vulnérabilité et sa résilience émotionnelle."
 slug: "patrick"
 prenom: "Patrick"
 date_naissance: "1969-10-28"
 profession: "Ancien ouvrier, maintenant chef d'équipe dans le btp"
-situation: "Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils"
-nb_articles: 6
-weight: 12
+situation: "Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils, vient de perdre son père"
+nb_articles: 7
+weight: 7
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Patrick réalise que sa colère est un mécanisme de défense masquant sa peur du déclin physique et son sentiment d'impuissance. Il comprend que son armure de silence s'est brisée, libérant un torrent émotionnel qu'il ne parvient plus à contrôler comme le faisait son père.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/colere-en-situation-de-conflit-comprendre-s-affirmer/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/resilience-emotionnelle-lors-un-deuil-comprendre/">Résilience émotionnelle lors d'un deuil : le parcours de Patrick</a></h3>
+    <div class="parcours-date">2026-04-17</div>
+    <p class="parcours-resume">Trois jours après l'enterrement de son père Marcel, Patrick se recueille dans son garage, confronté au vide et à ses douleurs physiques persistantes. Malgré sa pudeur habituelle, il tente de briser son isolement émotionnel vis-à-vis de sa femme Catherine et de ses enfants, Stéphanie et Julien.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Patrick commence à comprendre que la véritable force ne réside pas dans le refoulement ou l'armure de pierre héritée de son père, mais dans l'acceptation de sa propre vulnérabilité et la capacité à survivre à ses émotions.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/resilience-emotionnelle-lors-un-deuil-comprendre/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

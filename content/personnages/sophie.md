@@ -1,14 +1,14 @@
 ---
 title: "Sophie"
-date: 2026-04-16T05:10:20+00:00
+date: 2026-04-17T05:08:27+00:00
 description: "Sophie est développeuse web dans une startup. Célibataire, vit seule en appartement en ville."
 slug: "sophie"
 prenom: "Sophie"
 date_naissance: "1998-01-15"
 profession: "Développeuse web dans une startup"
 situation: "Célibataire, vit seule en appartement en ville"
-nb_articles: 6
-weight: 8
+nb_articles: 7
+weight: 1
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Sophie identifie le mécanisme de ses pensées automatiques comme le moteur de son syndrome de l'imposteur et réalise que ses émotions ne sont pas des faits. Elle prend conscience que son cerveau transforme des doutes mineurs en vérités absolues par réflexe.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/pensees-automatiques-negatives-seule-face-a-soi-meme/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/formation-reactionnelle-en-situation-de-conflit/">Formation réactionnelle en situation de conflit : comprendre ce mécanisme</a></h3>
+    <div class="parcours-date">2026-04-17</div>
+    <p class="parcours-resume">Lors d'une réunion tendue, Sophie subit le rejet injuste de son travail sur une base de données par son collègue Marc. Au lieu d'exprimer sa colère, elle réagit par une gentillesse excessive et une soumission totale, acceptant de tout recommencer malgré son ressentiment intérieur.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Sophie identifie son comportement comme une formation réactionnelle, un mécanisme de défense qui transforme sa rage en politesse mielleuse pour éviter le conflit. Elle réalise que ce schéma, hérité d'une éducation exigeante, devient un obstacle épuisant à son affirmation de soi.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/formation-reactionnelle-en-situation-de-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
