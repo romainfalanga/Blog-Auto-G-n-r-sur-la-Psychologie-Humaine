@@ -1,14 +1,14 @@
 ---
 title: "Monique"
-date: 2026-04-17T05:08:27+00:00
-description: "Monique est retraitée, ancienne professeure de français. Veuve depuis 3 ans, deux enfants adultes, trois petits-enfants."
+date: 2026-04-18T04:51:55+00:00
+description: "Monique est retraitée, ancienne professeure de français. Veuve depuis 3 ans, elle entame une nouvelle relation avec Jacques, un ancien collègue."
 slug: "monique"
 prenom: "Monique"
 date_naissance: "1964-01-30"
 profession: "Retraitée, ancienne professeure de français"
-situation: "Veuve depuis 3 ans, deux enfants adultes, trois petits-enfants"
-nb_articles: 6
-weight: 15
+situation: "Veuve, entame une nouvelle relation avec jacques"
+nb_articles: 7
+weight: 11
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Monique prend conscience que son pessimisme et sa rigueur sont des loyautés invisibles héritées de ses parents. Elle réalise qu'en refusant cette glace, elle risque de transmettre ce fardeau de privation à Lola, tout comme elle l'a déjà fait avec ses propres enfants, Isabelle et François.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/transmissions-transgenerationnelles-avec-ses-enfants-comprendre/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-intimite-sexualité-monique/">Syndrome de l'imposteur : intimité et sexualité après 60 ans</a></h3>
+    <div class="parcours-date">2026-04-18</div>
+    <p class="parcours-resume">Le 18 avril 2026, Monique se rend à un rendez-vous galant dans un salon de thé avec Jacques, un ancien collègue de l'Éducation nationale. Malgré l'accueil chaleureux de ce dernier, elle lutte contre un sentiment d'illégitimité et d'imposture dans son rôle de femme désirable, trois ans après le décès de son mari Jean-Claude.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Monique commence à identifier le mécanisme psychologique qui la pousse à minimiser le désir de l'autre et à contrôler son image. Elle prend conscience que son sentiment de nullité est une déconnexion entre la perception de Jacques et sa propre vision d'elle-même.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-intimite-sexualité-monique/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -1,14 +1,14 @@
 ---
 title: "Léa"
-date: 2026-04-17T05:08:27+00:00
-description: "Léa est étudiante en master de psychologie clinique. Célibataire, vit en studio étudiant."
+date: 2026-04-18T04:51:55+00:00
+description: "Léa est étudiante en master de psychologie clinique. En couple avec Youssef, elle vit en studio étudiant."
 slug: "lea"
 prenom: "Léa"
 date_naissance: "2002-11-12"
 profession: "Étudiante en master de psychologie clinique"
-situation: "Célibataire, vit en studio étudiant"
-nb_articles: 6
-weight: 14
+situation: "En couple avec youssef, vit en studio étudiant"
+nb_articles: 7
+weight: 9
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Léa prend conscience que son dévouement excessif est une forme de codépendance ancrée dans son enfance, où elle devait déjà consoler sa mère. Elle réalise qu'elle s'efface totalement derrière les besoins de Zoé par peur de devenir inutile et de voir la relation s'évaporer.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/causes-profondes-codependance-en-amitie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/trahison-en-couple-comprendre-surmonter-blessure/">Trahison en couple : comprendre et surmonter cette blessure</a></h3>
+    <div class="parcours-date">2026-04-18</div>
+    <p class="parcours-resume">Léa a partagé ses blessures d'enfance liées au divorce de ses parents avec son compagnon Youssef dans son studio. Au lieu de recevoir le soutien attendu, elle s'est heurtée à une analyse froide et clinique de sa part, ce qu'elle a vécu comme une profonde trahison émotionnelle.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Léa a réalisé que la trahison ne se limite pas à l'infidélité, mais réside aussi dans le désengagement affectif et l'absence de résonance de l'autre face à sa vulnérabilité.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/trahison-en-couple-comprendre-surmonter-blessure/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

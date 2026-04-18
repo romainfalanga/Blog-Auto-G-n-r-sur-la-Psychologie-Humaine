@@ -1854,6 +1854,17 @@
           "resume_narratif": "Isabelle se retrouve seule chez elle le 10 avril 2026 après le départ de son fils Théo chez son père, Laurent. Un message culpabilisant de sa mère, Geneviève, déclenche une crise d'anxiété qui la pousse à utiliser la méthode ABCDE d'Ellis pour ne pas céder au cycle du sacrifice de soi.",
           "evolution": "Isabelle passe d'une réaction émotionnelle de culpabilité héritée de l'enfance à une démarche de restructuration cognitive. Elle décide de ne pas s'excuser immédiatement et choisit d'analyser rationnellement ses croyances pour briser sa fatigue de compassion.",
           "elements_cles": "Appartement d'Isabelle; Théo (fils); Laurent (ex-conjoint); Geneviève (mère); Aurélie (mentionnée); méthode ABCDE d'Ellis; carnet de notes; décision de ne pas appeler sa mère; date du 10 avril 2026."
+        },
+        {
+          "date": "2026-04-18",
+          "sujet": "pensées automatiques négatives",
+          "contexte": "en amitié",
+          "category": "cat1_pensees",
+          "titre": "Pensées automatiques négatives en amitié : s'en libérer",
+          "slug": "pensees-automatiques-negatives-en-amitie-isabelle",
+          "resume_narratif": "Isabelle partage un café en terrasse avec son amie Catherine, mais se laisse envahir par l'anxiété lorsque cette dernière consulte son téléphone. Elle sombre dans un cycle de pensées automatiques négatives, interprétant ce geste banal comme un signe d'ennui et de rejet de sa propre personne.",
+          "evolution": "Isabelle identifie que son hypervigilance et sa tendance à la lecture de pensée sont des mécanismes de défense hérités de son enfance. Elle réalise que son attachement anxieux et son passé d'enfant parentifiée s'exportent désormais dans ses relations amicales, créant une fatigue de compassion.",
+          "elements_cles": "Catherine (amie), Théo (ex-conjoint), Geneviève (mère), Aurélie (relation passée), méthode ABCDE, passé d'enfant parentifiée, métier de psychologue scolaire, tendance à l'hypervigilance."
         }
       ],
       "genre": "F",
@@ -2064,7 +2075,7 @@
       "age": 23,
       "tranche_age": "jeune adulte (20-25 ans)",
       "profession": "étudiante en master de psychologie clinique",
-      "situation_familiale": "célibataire, vit en studio étudiant",
+      "situation_familiale": "en couple avec Youssef, vit en studio étudiant",
       "traits_personnalite": [
         "idéaliste",
         "empathique",
@@ -2281,11 +2292,41 @@
               "Dossier de rattrapage de Zoé"
             ]
           }
+        },
+        {
+          "date": "2026-04-18",
+          "sujet": "trahison",
+          "contexte": "en couple",
+          "category": "cat2_emotions",
+          "titre": "Trahison en couple : comprendre et surmonter cette blessure",
+          "slug": "trahison-en-couple-comprendre-surmonter-blessure",
+          "resume_narratif": "Léa a partagé ses blessures d'enfance liées au divorce de ses parents avec son compagnon Youssef dans son studio. Au lieu de recevoir le soutien attendu, elle s'est heurtée à une analyse froide et clinique de sa part, ce qu'elle a vécu comme une profonde trahison émotionnelle.",
+          "evolution": "Léa a réalisé que la trahison ne se limite pas à l'infidélité, mais réside aussi dans le désengagement affectif et l'absence de résonance de l'autre face à sa vulnérabilité.",
+          "elements_cles": {
+            "personnages": [
+              "Youssef (compagnon)",
+              "Zoé (meilleure amie)",
+              "Dr Moreau (référent de stage)"
+            ],
+            "lieux": [
+              "Studio de Léa",
+              "Bibliothèque"
+            ],
+            "traumatismes": [
+              "Divorce des parents à six ans",
+              "Peur d'être une option",
+              "Schéma d'abandon"
+            ],
+            "comportements": [
+              "Besoin de se rendre indispensable",
+              "Réaction physique au stress (mains moites, sensation de froid)"
+            ]
+          }
         }
       ],
       "genre": "F",
       "date_naissance": "2002-11-12",
-      "description_dynamique": "Léa est étudiante en master de psychologie clinique. Célibataire, vit en studio étudiant."
+      "description_dynamique": "Léa est étudiante en master de psychologie clinique. En couple avec Youssef, elle vit en studio étudiant."
     },
     {
       "id": "karim",
@@ -2485,7 +2526,7 @@
       "age": 62,
       "tranche_age": "senior en quête de sens (56-70 ans)",
       "profession": "retraitée, ancienne professeure de français",
-      "situation_familiale": "veuve depuis 3 ans, deux enfants adultes, trois petits-enfants",
+      "situation_familiale": "veuve, entame une nouvelle relation avec Jacques",
       "traits_personnalite": [
         "cultivée",
         "nostalgique",
@@ -2661,11 +2702,22 @@
               "Transmission du pessimisme"
             ]
           }
+        },
+        {
+          "date": "2026-04-18",
+          "sujet": "le syndrome de l'imposteur",
+          "contexte": "dans l'intimité et la sexualité",
+          "category": "cat3_schemas",
+          "titre": "Syndrome de l'imposteur : intimité et sexualité après 60 ans",
+          "slug": "syndrome-imposteur-intimite-sexualité-monique",
+          "resume_narratif": "Le 18 avril 2026, Monique se rend à un rendez-vous galant dans un salon de thé avec Jacques, un ancien collègue de l'Éducation nationale. Malgré l'accueil chaleureux de ce dernier, elle lutte contre un sentiment d'illégitimité et d'imposture dans son rôle de femme désirable, trois ans après le décès de son mari Jean-Claude.",
+          "evolution": "Monique commence à identifier le mécanisme psychologique qui la pousse à minimiser le désir de l'autre et à contrôler son image. Elle prend conscience que son sentiment de nullité est une déconnexion entre la perception de Jacques et sa propre vision d'elle-même.",
+          "elements_cles": "Jacques (ancien collègue), Jean-Claude (défunt mari), Lola (petite-fille), salon de thé, date du 18 avril 2026, syndrome de l'imposteur appliqué à l'intimité, passé de professeure, angoisses financières passées."
         }
       ],
       "genre": "F",
       "date_naissance": "1964-01-30",
-      "description_dynamique": "Monique est retraitée, ancienne professeure de français. Veuve depuis 3 ans, deux enfants adultes, trois petits-enfants."
+      "description_dynamique": "Monique est retraitée, ancienne professeure de français. Veuve depuis 3 ans, elle entame une nouvelle relation avec Jacques, un ancien collègue."
     },
     {
       "id": "hugo",

@@ -4258,6 +4258,100 @@
       "elements_cles": "Marc (collègue condescendant), Nantes (lieu de ses parents), carnet de notes (suivi émotionnel), base de données (projet technique), tapis de yoga, formation réactionnelle (concept psychologique).",
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-18",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "pensées automatiques négatives",
+      "contexte": "en amitié",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Isabelle",
+      "age": "47 ans",
+      "title": "Pensées automatiques négatives en amitié : s'en libérer",
+      "slug": "pensees-automatiques-negatives-en-amitie-isabelle",
+      "tags": [
+        "psychologie",
+        "amitié",
+        "restructuration cognitive",
+        "estime de soi",
+        "relations"
+      ],
+      "resume_narratif": "Isabelle partage un café en terrasse avec son amie Catherine, mais se laisse envahir par l'anxiété lorsque cette dernière consulte son téléphone. Elle sombre dans un cycle de pensées automatiques négatives, interprétant ce geste banal comme un signe d'ennui et de rejet de sa propre personne.",
+      "evolution": "Isabelle identifie que son hypervigilance et sa tendance à la lecture de pensée sont des mécanismes de défense hérités de son enfance. Elle réalise que son attachement anxieux et son passé d'enfant parentifiée s'exportent désormais dans ses relations amicales, créant une fatigue de compassion.",
+      "elements_cles": "Catherine (amie), Théo (ex-conjoint), Geneviève (mère), Aurélie (relation passée), méthode ABCDE, passé d'enfant parentifiée, métier de psychologue scolaire, tendance à l'hypervigilance.",
+      "strategie_coherence": "enrichir",
+      "apport_psychologique": "On découvre que l'hypervigilance d'Isabelle ne s'éteint jamais. Ses PAN ('je l'ennuie', 'elle reste par pitié') sont le moteur interne qui alimente sa fatigue de compassion et son besoin d'être indispensable pour se sentir en sécurité."
+    },
+    {
+      "date": "2026-04-18",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "trahison",
+      "contexte": "en couple",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": null,
+      "prenom": "Léa",
+      "age": "23 ans",
+      "title": "Trahison en couple : comprendre et surmonter cette blessure",
+      "slug": "trahison-en-couple-comprendre-surmonter-blessure",
+      "tags": [
+        "trahison",
+        "couple",
+        "psychologie",
+        "abandon",
+        "intimité"
+      ],
+      "resume_narratif": "Léa a partagé ses blessures d'enfance liées au divorce de ses parents avec son compagnon Youssef dans son studio. Au lieu de recevoir le soutien attendu, elle s'est heurtée à une analyse froide et clinique de sa part, ce qu'elle a vécu comme une profonde trahison émotionnelle.",
+      "evolution": "Léa a réalisé que la trahison ne se limite pas à l'infidélité, mais réside aussi dans le désengagement affectif et l'absence de résonance de l'autre face à sa vulnérabilité.",
+      "elements_cles": {
+        "personnages": [
+          "Youssef (compagnon)",
+          "Zoé (meilleure amie)",
+          "Dr Moreau (référent de stage)"
+        ],
+        "lieux": [
+          "Studio de Léa",
+          "Bibliothèque"
+        ],
+        "traumatismes": [
+          "Divorce des parents à six ans",
+          "Peur d'être une option",
+          "Schéma d'abandon"
+        ],
+        "comportements": [
+          "Besoin de se rendre indispensable",
+          "Réaction physique au stress (mains moites, sensation de froid)"
+        ]
+      },
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "L'article analyse la différence entre la trahison factuelle et le sentiment de trahison émotionnelle ressenti par une personnalité anxieuse-préoccupée face à un partenaire évitant ou alexithymique."
+    },
+    {
+      "date": "2026-04-18",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "le syndrome de l'imposteur",
+      "contexte": "dans l'intimité et la sexualité",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Monique",
+      "age": "62 ans",
+      "title": "Syndrome de l'imposteur : intimité et sexualité après 60 ans",
+      "slug": "syndrome-imposteur-intimite-sexualité-monique",
+      "tags": [
+        "syndrome de l'imposteur",
+        "intimité senior",
+        "psychologie sexuelle",
+        "deuil et reconstruction",
+        "estime de soi"
+      ],
+      "resume_narratif": "Le 18 avril 2026, Monique se rend à un rendez-vous galant dans un salon de thé avec Jacques, un ancien collègue de l'Éducation nationale. Malgré l'accueil chaleureux de ce dernier, elle lutte contre un sentiment d'illégitimité et d'imposture dans son rôle de femme désirable, trois ans après le décès de son mari Jean-Claude.",
+      "evolution": "Monique commence à identifier le mécanisme psychologique qui la pousse à minimiser le désir de l'autre et à contrôler son image. Elle prend conscience que son sentiment de nullité est une déconnexion entre la perception de Jacques et sa propre vision d'elle-même.",
+      "elements_cles": "Jacques (ancien collègue), Jean-Claude (défunt mari), Lola (petite-fille), salon de thé, date du 18 avril 2026, syndrome de l'imposteur appliqué à l'intimité, passé de professeure, angoisses financières passées.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

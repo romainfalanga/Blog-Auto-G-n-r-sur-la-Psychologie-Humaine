@@ -1,6 +1,6 @@
 ---
 title: "Margot"
-date: 2026-04-17T05:08:27+00:00
+date: 2026-04-18T04:51:55+00:00
 description: "Margot est une ancienne directrice commerciale devenue coach. Mariée à Philippe, elle traverse une profonde crise conjugale marquée par un sentiment de dégoût et une remise en question de son mariage."
 slug: "margot"
 prenom: "Margot"
