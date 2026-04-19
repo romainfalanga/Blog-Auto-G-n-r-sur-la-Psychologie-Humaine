@@ -1,14 +1,14 @@
 ---
 title: "Camille"
-date: 2026-04-18T04:51:55+00:00
+date: 2026-04-19T05:09:55+00:00
 description: "Camille est infirmière en service de cardiologie. Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)."
 slug: "camille"
 prenom: "Camille"
 date_naissance: "1984-03-05"
 profession: "Infirmière en service de cardiologie"
 situation: "Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)"
-nb_articles: 6
-weight: 14
+nb_articles: 7
+weight: 3
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Camille identifie son schéma de 'vulnérabilité au danger', réalisant que son hypervigilance médicale prend racine dans l'éducation de sa mère, Françoise, qui exigeait l'invincibilité tout en traquant la moindre faiblesse physique.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/vulnerabilite-au-danger-face-a-la-maladie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-secure-enfants-caracteristiques-developper/">Attachement sécure avec ses enfants : le guide pour changer</a></h3>
+    <div class="parcours-date">2026-04-19</div>
+    <p class="parcours-resume">Le 19 avril 2026, Camille observe ses enfants Emma et Léo jouer calmement dans leur appartement tout en terminant son travail pour le service de cardiologie. Elle partage un moment de tendresse avec son conjoint David, marquant un contraste avec sa crise d'anxiété survenue deux semaines plus tôt à l'hôpital.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Camille commence à se libérer du poids de la perfection hérité de sa mère Françoise, passant d'une gestionnaire de crises anxieuse à une 'base de sécurité' capable de réguler ses émotions et d'accepter le contact physique.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-secure-enfants-caracteristiques-developper/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -4352,6 +4352,107 @@
       "elements_cles": "Jacques (ancien collègue), Jean-Claude (défunt mari), Lola (petite-fille), salon de thé, date du 18 avril 2026, syndrome de l'imposteur appliqué à l'intimité, passé de professeure, angoisses financières passées.",
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-19",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet de simple exposition",
+      "contexte": "sur les réseaux sociaux",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "timide",
+      "prenom": "Mei",
+      "age": "22 ans",
+      "title": "Effet de simple exposition sur les réseaux sociaux : décodage",
+      "slug": "effet-simple-exposition-reseaux-sociaux-mei",
+      "tags": [
+        "psychologie",
+        "réseaux sociaux",
+        "estime de soi",
+        "biais cognitifs",
+        "bien-être numérique"
+      ],
+      "resume_narratif": "Le dimanche 19 avril 2026, Mei observe son fil d'actualité dans sa chambre étudiante et ressent un malaise face aux standards de perfection des réseaux sociaux. Elle réalise que son désir d'acheter des vêtements ou des logiciels de dessin est influencé par la répétition de ces images, faisant le lien avec sa tendance passée à mimer les désirs de Julien.",
+      "evolution": "Mei prend conscience de l'effet de simple exposition et comprend que sa perception de son propre art et de ses goûts est polluée par la saturation visuelle des algorithmes. Elle décide de poser son téléphone pour reprendre le contrôle sur ses véritables aspirations et son style décalé.",
+      "elements_cles": {
+        "date_et_lieu": "19 avril 2026, chambre en résidence étudiante",
+        "personnages_mentionnes": "M. Dubois (professeur), Julien (petit ami), Océane (amie), Li et Wei (parents)",
+        "conflits_internes": "Anxiété sociale, peur du jugement, résurgence du faux self et de la mèche bleue remise en question",
+        "concept_identifie": "Effet de simple exposition (biais de familiarité via les algorithmes)"
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-19",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "ambivalence émotionnelle",
+      "contexte": "en période de reconversion professionnelle",
+      "angle": "les signes que vous êtes concerné(e)",
+      "profil": "en burn-out",
+      "prenom": "Youssef",
+      "age": "29 ans",
+      "title": "Ambivalence émotionnelle et reconversion professionnelle",
+      "slug": "ambivalence-emotionnelle-reconversion-professionnelle-burn-out",
+      "tags": [
+        "ambivalence émotionnelle",
+        "reconversion professionnelle",
+        "burn-out",
+        "psychologie",
+        "gestion des émotions"
+      ],
+      "resume_narratif": "En arrêt pour épuisement professionnel le 19 avril 2026, Youssef hésite à signer sa lettre de démission malgré son désir de lancer un projet de conseil en éthique numérique. Face à sa compagne Léa, il dissimule son tiraillement intérieur entre son besoin de liberté et la peur de trahir l'héritage social de son père, Hamid.",
+      "evolution": "Youssef identifie son ambivalence émotionnelle comme la source de sa paralysie, comprenant que son besoin de perfection et son héritage familial entrent en conflit avec sa volonté de reconversion.",
+      "elements_cles": "Appartement parisien ; Léa (compagne) ; Hamid (père) ; lettre de démission imprimée ; projet de conseil en éthique numérique ; réflexes compulsifs (comptage d'icônes/objets) ; fonctionnement alexithymique.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-19",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "attachement sécure (caractéristiques, comment le développer)",
+      "contexte": "avec ses enfants",
+      "angle": "comment s'en libérer concrètement",
+      "profil": "ancien(ne) enfant parentifié(e)",
+      "prenom": "Camille",
+      "age": "42 ans",
+      "title": "Attachement sécure avec ses enfants : le guide pour changer",
+      "slug": "attachement-secure-enfants-caracteristiques-developper",
+      "tags": [
+        "attachement sécure",
+        "parentalité",
+        "psychologie",
+        "schémas répétitifs",
+        "éducation"
+      ],
+      "resume_narratif": "Le 19 avril 2026, Camille observe ses enfants Emma et Léo jouer calmement dans leur appartement tout en terminant son travail pour le service de cardiologie. Elle partage un moment de tendresse avec son conjoint David, marquant un contraste avec sa crise d'anxiété survenue deux semaines plus tôt à l'hôpital.",
+      "evolution": "Camille commence à se libérer du poids de la perfection hérité de sa mère Françoise, passant d'une gestionnaire de crises anxieuse à une 'base de sécurité' capable de réguler ses émotions et d'accepter le contact physique.",
+      "elements_cles": {
+        "personnages": [
+          "Emma (fille)",
+          "Léo (fils)",
+          "David (conjoint)",
+          "Françoise (mère)"
+        ],
+        "lieux": [
+          "Appartement familial",
+          "Service de cardiologie (travail)"
+        ],
+        "dates_cles": [
+          "5 avril (crise d'anxiété)",
+          "19 avril 2026 (présent)"
+        ],
+        "concepts_integres": [
+          "Attachement sécure acquis",
+          "Régulation émotionnelle",
+          "Réparation après la rupture",
+          "Base de sécurité"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

@@ -1,14 +1,14 @@
 ---
 title: "Mei"
-date: 2026-04-18T04:51:55+00:00
+date: 2026-04-19T05:09:55+00:00
 description: "Mei est étudiante en école d'art, spécialité illustration. Elle est en couple avec Julien depuis un mois et vit en résidence étudiante."
 slug: "mei"
 prenom: "Mei"
 date_naissance: "2003-07-02"
 profession: "Étudiante en école d'art, spécialité illustration"
 situation: "En couple avec julien depuis un mois, vit en résidence étudiante"
-nb_articles: 6
-weight: 19
+nb_articles: 7
+weight: 16
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Mei prend conscience que sa peur de l'autorité transforme une simple évaluation technique en un procès de sa valeur personnelle, l'amenant à percevoir son art comme une imposture. Elle réalise que son perfectionnisme est un 'faux self' construit pour satisfaire ses parents plutôt que sa propre identité d'illustratrice.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/honte-face-a-l-autorite-causes-profondes/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-simple-exposition-reseaux-sociaux-mei/">Effet de simple exposition sur les réseaux sociaux : décodage</a></h3>
+    <div class="parcours-date">2026-04-19</div>
+    <p class="parcours-resume">Le dimanche 19 avril 2026, Mei observe son fil d'actualité dans sa chambre étudiante et ressent un malaise face aux standards de perfection des réseaux sociaux. Elle réalise que son désir d'acheter des vêtements ou des logiciels de dessin est influencé par la répétition de ces images, faisant le lien avec sa tendance passée à mimer les désirs de Julien.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Mei prend conscience de l'effet de simple exposition et comprend que sa perception de son propre art et de ses goûts est polluée par la saturation visuelle des algorithmes. Elle décide de poser son téléphone pour reprendre le contrôle sur ses véritables aspirations et son style décalé.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-simple-exposition-reseaux-sociaux-mei/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

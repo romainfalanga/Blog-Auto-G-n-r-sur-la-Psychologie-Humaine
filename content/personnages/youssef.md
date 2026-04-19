@@ -1,14 +1,14 @@
 ---
 title: "Youssef"
-date: 2026-04-18T04:51:55+00:00
-description: "Youssef est ingénieur en informatique dans un grand groupe. En couple avec léa depuis 2 ans, vit en appartement."
+date: 2026-04-19T05:09:55+00:00
+description: "Youssef est ingénieur en informatique, actuellement en arrêt pour épuisement professionnel. En couple avec Léa, il envisage une reconversion dans le conseil en éthique numérique malgré ses blocages."
 slug: "youssef"
 prenom: "Youssef"
 date_naissance: "1996-08-14"
-profession: "Ingénieur en informatique dans un grand groupe"
-situation: "En couple avec léa depuis 2 ans, vit en appartement"
-nb_articles: 6
-weight: 15
+profession: "Ingénieur en informatique (actuellement en arrêt pour épuisement professionnel)"
+situation: "En couple avec léa, vit en appartement"
+nb_articles: 7
+weight: 8
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Youssef identifie son mécanisme de confusion émotionnelle : il comprend qu'il utilise l'intellectualisation et la précision technique (calculs mentaux, analyse des chiffres) comme boucliers pour compenser son incapacité à nommer ses émotions face aux attentes familiales.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/confusion-emotionnelle-avec-ses-parents-comprendre/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/ambivalence-emotionnelle-reconversion-professionnelle-burn-out/">Ambivalence émotionnelle et reconversion professionnelle</a></h3>
+    <div class="parcours-date">2026-04-19</div>
+    <p class="parcours-resume">En arrêt pour épuisement professionnel le 19 avril 2026, Youssef hésite à signer sa lettre de démission malgré son désir de lancer un projet de conseil en éthique numérique. Face à sa compagne Léa, il dissimule son tiraillement intérieur entre son besoin de liberté et la peur de trahir l'héritage social de son père, Hamid.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Youssef identifie son ambivalence émotionnelle comme la source de sa paralysie, comprenant que son besoin de perfection et son héritage familial entrent en conflit avec sa volonté de reconversion.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/ambivalence-emotionnelle-reconversion-professionnelle-burn-out/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
