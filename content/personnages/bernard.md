@@ -1,14 +1,14 @@
 ---
 title: "Bernard"
-date: 2026-04-19T05:09:55+00:00
-description: "Bernard est artisan ébéniste en campagne. Veuf, il tente de rompre son isolement et de renouer avec son fils Éric, malgré une profonde apathie émotionnelle."
+date: 2026-04-20T05:33:07+00:00
+description: "Bernard est artisan ébéniste en campagne. Veuf, il commence à briser son armure de silence pour accepter pleinement son chagrin au lieu de s'enfermer dans le travail."
 slug: "bernard"
 prenom: "Bernard"
 date_naissance: "1967-08-21"
 profession: "Artisan ébéniste, atelier en campagne"
 situation: "Veuf, en phase de réconciliation avec son fils éric"
-nb_articles: 6
-weight: 20
+nb_articles: 7
+weight: 19
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Bernard réalise que son corps exprime physiquement le mutisme et le chagrin qu'il s'efforce de taire depuis des années. Il comprend que sa rigidité musculaire est une armure émotionnelle devenue contre-productive face au vieillissement et à ses deuils non exprimés.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/somatisation-face-au-vieillissement-corps-parle/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/comprendre-tristesse-lors-d-un-deuil/">Tristesse lors d'un deuil : comprendre et traverser cette émotion</a></h3>
+    <div class="parcours-date">2026-04-20</div>
+    <p class="parcours-resume">Bernard, un menuisier endeuillé par la perte de sa femme Hélène, se retrouve immobilisé dans son atelier après un blocage lombaire. Alors qu'il tentait de restaurer un buffet en noyer, il cesse de lutter contre sa douleur et laisse enfin couler ses larmes sous le regard de son chien Sultan.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Bernard abandonne sa posture de stoïcisme héritée de ses parents pour accepter la tristesse comme un processus nécessaire. Il comprend que sa force ne réside plus dans l'armure du silence, mais dans la capacité à vivre son chagrin sans chercher à le transformer immédiatement en travail productif.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/comprendre-tristesse-lors-d-un-deuil/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

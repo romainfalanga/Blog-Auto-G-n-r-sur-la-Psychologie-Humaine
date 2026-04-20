@@ -1,14 +1,14 @@
 ---
 title: "Priya"
-date: 2026-04-19T05:09:55+00:00
+date: 2026-04-20T05:33:07+00:00
 description: "Priya est médecin généraliste en cabinet de ville. Célibataire, vit seule, relations épisodiques."
 slug: "priya"
 prenom: "Priya"
 date_naissance: "1993-03-11"
 profession: "Médecin généraliste en cabinet de ville"
 situation: "Célibataire, vit seule, relations épisodiques"
-nb_articles: 6
-weight: 17
+nb_articles: 7
+weight: 15
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Priya réalise que son mépris envers ses collègues et son hyper-vigilance administrative sont en réalité une armure défensive. Elle comprend que son éducation rigide par Raj et Anjali, axée sur l'excellence comme rempart, a cristallisé son schéma de méfiance et d'abus.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-face-a-l-autorite/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-autorite-face-a-l-autorite-priya/">Biais d'autorité face à l'autorité : s'en libérer avec Priya</a></h3>
+    <div class="parcours-date">2026-04-20</div>
+    <p class="parcours-resume">Priya, médecin au Cabinet des Glycines, se retrouve confrontée à de nouvelles directives administratives signées par un éminent professeur. Cette injonction ravive ses tensions internes entre son besoin de perfectionnisme et sa méfiance envers la hiérarchie, faisant écho à ses conflits passés avec Antoine de l'instance régionale de santé.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Elle prend conscience que son rejet systématique de l'autorité est un héritage de son père Raj et une extension de son attachement évitant, transformant chaque directive en un combat identitaire binaire entre soumission et rébellion.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-autorite-face-a-l-autorite-priya/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

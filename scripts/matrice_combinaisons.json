@@ -4453,6 +4453,120 @@
       },
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-20",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais d'autorité",
+      "contexte": "face à l'autorité",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Priya",
+      "age": "33 ans",
+      "title": "Biais d'autorité face à l'autorité : s'en libérer avec Priya",
+      "slug": "biais-autorite-face-a-l-autorite-priya",
+      "tags": [
+        "biais cognitif",
+        "psychologie sociale",
+        "éducation",
+        "autorité",
+        "développement personnel"
+      ],
+      "resume_narratif": "Priya, médecin au Cabinet des Glycines, se retrouve confrontée à de nouvelles directives administratives signées par un éminent professeur. Cette injonction ravive ses tensions internes entre son besoin de perfectionnisme et sa méfiance envers la hiérarchie, faisant écho à ses conflits passés avec Antoine de l'instance régionale de santé.",
+      "evolution": "Elle prend conscience que son rejet systématique de l'autorité est un héritage de son père Raj et une extension de son attachement évitant, transformant chaque directive en un combat identitaire binaire entre soumission et rébellion.",
+      "elements_cles": {
+        "lieux": [
+          "Cabinet Médical des Glycines"
+        ],
+        "personnages_mentionnés": [
+          "Anjali (mère)",
+          "Raj (père, médecin)",
+          "Antoine (instance régionale de santé)",
+          "Damien (ex-partenaire)",
+          "Professeur de l'Université de Paris"
+        ],
+        "conflits_internes": [
+          "Biais d'autorité paradoxal",
+          "Réactance défensive",
+          "Attachement évitant",
+          "Perfectionnisme médical"
+        ],
+        "contexte_familial": [
+          "Dîners d'enfance marqués par la critique des administratifs et des chefs de service"
+        ]
+      },
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "Cet article démontre que sa résistance aux directives administratives n'est pas seulement de l'arrogance, mais une réaction cognitive liée à la pression d'excellence familiale : elle ne reconnaît l'autorité que si elle la juge infaillible, sinon elle la dévalue pour protéger son ego."
+    },
+    {
+      "date": "2026-04-20",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "tristesse",
+      "contexte": "lors d'un deuil",
+      "angle": "comprendre ce que c'est (article explicatif)",
+      "profil": null,
+      "prenom": "Bernard",
+      "age": "58 ans",
+      "title": "Tristesse lors d'un deuil : comprendre et traverser cette émotion",
+      "slug": "comprendre-tristesse-lors-d-un-deuil",
+      "tags": [
+        "deuil",
+        "psychologie",
+        "émotions",
+        "résilience",
+        "santé mentale"
+      ],
+      "resume_narratif": "Bernard, un menuisier endeuillé par la perte de sa femme Hélène, se retrouve immobilisé dans son atelier après un blocage lombaire. Alors qu'il tentait de restaurer un buffet en noyer, il cesse de lutter contre sa douleur et laisse enfin couler ses larmes sous le regard de son chien Sultan.",
+      "evolution": "Bernard abandonne sa posture de stoïcisme héritée de ses parents pour accepter la tristesse comme un processus nécessaire. Il comprend que sa force ne réside plus dans l'armure du silence, mais dans la capacité à vivre son chagrin sans chercher à le transformer immédiatement en travail productif.",
+      "elements_cles": "Atelier de menuiserie (odeur de chêne, buffet en noyer d'Hélène) ; Sultan (son vieux chien) ; Hélène (épouse décédée dans un accident) ; un fils (avec qui il cherche à se réconcilier) ; antécédents de voyage en Toscane et blocage lombaire récent.",
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "On passe d'une approche comportementale (se cacher dans l'atelier) à une approche émotionnelle. Cela montre l'évolution de Bernard qui, après avoir été forcé par la douleur physique à s'arrêter, commence enfin à laisser la tristesse émerger sans la transformer en établi ou en commode."
+    },
+    {
+      "date": "2026-04-20",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "le cycle de l'abus (tension, explosion, lune de miel)",
+      "contexte": "avec ses parents",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Djamila",
+      "age": "36 ans",
+      "title": "Le cycle de l'abus avec ses parents : briser le schéma",
+      "slug": "cycle-abus-tension-explosion-lune-de-miel-parents",
+      "tags": [
+        "relations toxiques",
+        "psychologie familiale",
+        "schéma répétitif",
+        "résilience",
+        "traumatisme"
+      ],
+      "resume_narratif": "Alors qu'elle prépare le petit-déjeuner pour son fils Adam, Djamila reçoit un appel de sa mère qui déclenche une vive anxiété. Cette interaction téléphonique, marquée par des reproches et une tension croissante, lui fait réaliser que le schéma de violence qu'elle a connu avec son ex-conjoint Samir prend racine dans sa dynamique familiale.",
+      "evolution": "Djamila identifie pour la première fois le cycle de l'abus (tension, explosion, lune de miel) au sein de sa relation avec ses parents. Elle comprend que son hypervigilance et son attirance passée pour des hommes toxiques découlent d'une confusion neurologique entre soulagement après la terreur et sécurité réelle.",
+      "elements_cles": {
+        "personnages": [
+          "Djamila",
+          "Adam (son fils)",
+          "Sa mère",
+          "Samir (ex-conjoint)",
+          "Dr Martin (thérapeute)",
+          "Antoine (collègue)"
+        ],
+        "lieux": [
+          "Nouvel appartement de Djamila",
+          "Cuisine au plan de travail en granit"
+        ],
+        "concepts_et_techniques": [
+          "Cycle de l'abus de Lenore Walker",
+          "Lien traumatique (cortisol/dopamine)",
+          "Hypervigilance",
+          "Réflexe de défense vocale"
+        ]
+      },
+      "strategie_coherence": "connecter",
+      "apport_psychologique": "L'article explique pourquoi Djamila est si réactive au mépris : son système nerveux est programmé pour attendre 'l'explosion' après la 'tension'. En montrant ce schéma avec ses parents ou au travail, on enrichit sa lutte pour la résilience en dehors du seul cadre conjugal."
     }
   ]
 }
