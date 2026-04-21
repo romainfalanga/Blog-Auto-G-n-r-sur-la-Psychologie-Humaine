@@ -1523,6 +1523,31 @@
               "Vieux dossiers de directrice commerciale"
             ]
           }
+        },
+        {
+          "date": "2026-04-21",
+          "sujet": "respiration en boîte (box breathing)",
+          "contexte": "en couple",
+          "category": "cat2_emotions",
+          "titre": "La respiration en boîte (box breathing) en couple : Margot",
+          "slug": "respiration-en-boite-box-breathing-en-couple",
+          "resume_narratif": "Lors d'un dîner tendu avec son mari Philippe, Margot ressent une montée de stress liée à leurs conflits récurrents et au vide laissé par le départ de leurs enfants. Pour éviter une énième dispute circulaire, elle décide d'appliquer discrètement la technique de la respiration en boîte sous la table de la cuisine.",
+          "evolution": "Margot passe d'une réaction de défense automatique, dictée par son driver 'sois forte', à une régulation consciente de son système nerveux. Elle comprend que cet outil peut transformer son rapport au silence et lui permettre de choisir sa réponse plutôt que de subir ses émotions.",
+          "elements_cles": {
+            "personnages": [
+              "Margot (ex-directrice commerciale)",
+              "Philippe (son mari)",
+              "Martin et Chloé (leurs enfants)",
+              "Sylvie (sa mentor)"
+            ],
+            "contexte": [
+              "Syndrome du nid vide",
+              "Tensions conjugales depuis 20 ans",
+              "Dîner dans la cuisine"
+            ],
+            "technique_apprise": "Respiration en boîte (box breathing / respiration carrée)",
+            "evenement_declencheur": "Remarque acerbe de Philippe sur le prix des courses"
+          }
         }
       ],
       "genre": "F",
@@ -3149,6 +3174,17 @@
               "Dîners d'enfance marqués par la critique des administratifs et des chefs de service"
             ]
           }
+        },
+        {
+          "date": "2026-04-21",
+          "sujet": "biais de survivant",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Biais de survivant face à une décision importante : le guide",
+          "slug": "biais-de-survivant-face-decision-importante",
+          "resume_narratif": "Priya, médecin de 33 ans au Cabinet des Glycines, hésite à accepter un poste de direction dans une clinique privée lyonnaise prestigieuse malgré la pression de sa famille. En analysant les témoignages de réussite de ses confrères, elle réalise qu'elle est victime du biais de survivant en ignorant les échecs invisibles de ceux qui n'ont pas supporté la pression.",
+          "evolution": "Elle passe d'une volonté de copier aveuglément les modèles de réussite pour satisfaire son besoin de contrôle à une prise de conscience lucide sur ses propres limites, notamment son attachement évitant et sa vulnérabilité face au stress.",
+          "elements_cles": "Cabinet des Glycines ; clinique privée à Lyon ; Raj et Anjali (parents) ; Anita (sœur) ; Damien (ex-compagnon manipulateur) ; Antoine (IRS) ; Marc (ancien associé potentiel) ; concept du biais de survivant (Abraham Wald)."
         }
       ],
       "genre": "F",
@@ -3790,6 +3826,17 @@
               "Prise de conscience de la 'musturbation' (exigences dogmatiques d'Albert Ellis)"
             ]
           }
+        },
+        {
+          "date": "2026-04-21",
+          "sujet": "le scénario de vie (Analyse Transactionnelle - Eric Berne)",
+          "contexte": "en famille",
+          "category": "cat3_schemas",
+          "titre": "Le scénario de vie en famille : comprendre ses racines",
+          "slug": "scenario-de-vie-analyse-transactionnelle-famille",
+          "resume_narratif": "Fabien, cadre RH récemment installé dans un nouvel appartement à Lyon, fait face au silence de son fils Lucas qui annule une sortie. Cette situation le renvoie à sa propre enfance et à ses difficultés relationnelles persistantes, notamment son divorce avec Véronique et son burn-out latent.",
+          "evolution": "Grâce au concept de scénario de vie, Fabien réalise qu'il reproduit inconsciemment le mutisme de son père et son rôle d'enfant parentifié, comprenant que sa posture de médiateur impassible est une stratégie de survie qui l'isole aujourd'hui.",
+          "elements_cles": "Lyon (appartement neuf), Lucas (fils de 17 ans), Marine (fille), Véronique (ex-femme), métier de cadre RH, concept de scénario de vie (Eric Berne), passé d'enfant parentifié, injonction de ne pas ressentir."
         }
       ],
       "genre": "M",

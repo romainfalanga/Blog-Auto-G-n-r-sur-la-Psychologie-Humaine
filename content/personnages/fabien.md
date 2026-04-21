@@ -1,14 +1,14 @@
 ---
 title: "Fabien"
-date: 2026-04-20T05:33:07+00:00
+date: 2026-04-21T05:07:37+00:00
 description: "Fabien est cadre RH dans une entreprise industrielle. Divorcé, il vit désormais dans un nouvel appartement et s'efforce de reconstruire un dialogue empathique avec ses deux enfants."
 slug: "fabien"
 prenom: "Fabien"
 date_naissance: "1975-06-19"
 profession: "Cadre rh dans une entreprise industrielle"
 situation: "Divorcé, a emménagé dans un nouvel appartement, deux enfants (marine, 20 ans et lucas, 17 ans)"
-nb_articles: 6
-weight: 20
+nb_articles: 7
+weight: 18
 draft: false
 ---
 
@@ -79,5 +79,16 @@ draft: false
       <p>Fabien prend conscience que sa rigidité mentale, héritée du silence de son père, transforme ses interactions en conflits internes. Il commence à identifier que ses injonctions de type 'je dois' étouffent ses propres besoins et nuisent à sa relation avec son fils.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/gerer-obligations-rigides-je-dois-il-faut-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/scenario-de-vie-analyse-transactionnelle-famille/">Le scénario de vie en famille : comprendre ses racines</a></h3>
+    <div class="parcours-date">2026-04-21</div>
+    <p class="parcours-resume">Fabien, cadre RH récemment installé dans un nouvel appartement à Lyon, fait face au silence de son fils Lucas qui annule une sortie. Cette situation le renvoie à sa propre enfance et à ses difficultés relationnelles persistantes, notamment son divorce avec Véronique et son burn-out latent.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Grâce au concept de scénario de vie, Fabien réalise qu'il reproduit inconsciemment le mutisme de son père et son rôle d'enfant parentifié, comprenant que sa posture de médiateur impassible est une stratégie de survie qui l'isole aujourd'hui.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/scenario-de-vie-analyse-transactionnelle-famille/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -1,14 +1,14 @@
 ---
 title: "Priya"
-date: 2026-04-20T05:33:07+00:00
+date: 2026-04-21T05:07:37+00:00
 description: "Priya est médecin généraliste en cabinet de ville. Célibataire, vit seule, relations épisodiques."
 slug: "priya"
 prenom: "Priya"
 date_naissance: "1993-03-11"
 profession: "Médecin généraliste en cabinet de ville"
 situation: "Célibataire, vit seule, relations épisodiques"
-nb_articles: 7
-weight: 15
+nb_articles: 8
+weight: 2
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Elle prend conscience que son rejet systématique de l'autorité est un héritage de son père Raj et une extension de son attachement évitant, transformant chaque directive en un combat identitaire binaire entre soumission et rébellion.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-autorite-face-a-l-autorite-priya/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-survivant-face-decision-importante/">Biais de survivant face à une décision importante : le guide</a></h3>
+    <div class="parcours-date">2026-04-21</div>
+    <p class="parcours-resume">Priya, médecin de 33 ans au Cabinet des Glycines, hésite à accepter un poste de direction dans une clinique privée lyonnaise prestigieuse malgré la pression de sa famille. En analysant les témoignages de réussite de ses confrères, elle réalise qu'elle est victime du biais de survivant en ignorant les échecs invisibles de ceux qui n'ont pas supporté la pression.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Elle passe d'une volonté de copier aveuglément les modèles de réussite pour satisfaire son besoin de contrôle à une prise de conscience lucide sur ses propres limites, notamment son attachement évitant et sa vulnérabilité face au stress.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-survivant-face-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

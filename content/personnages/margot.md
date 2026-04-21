@@ -1,14 +1,14 @@
 ---
 title: "Margot"
-date: 2026-04-20T05:33:07+00:00
+date: 2026-04-21T05:07:37+00:00
 description: "Margot est une ancienne directrice commerciale devenue coach. Mariée à Philippe, elle traverse une profonde crise conjugale marquée par un sentiment de dégoût et une remise en question de son mariage."
 slug: "margot"
 prenom: "Margot"
 date_naissance: "1973-07-23"
 profession: "Coach (début d'activité)"
 situation: "En crise conjugale avec philippe"
-nb_articles: 7
-weight: 7
+nb_articles: 8
+weight: 1
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Margot réalise qu'elle applique le biais du coût irrécupérable à son mariage de vingt-cinq ans et identifie que ses drivers 'Sois parfaite' et 'Fais des efforts' nourrissent son mépris pour l'attitude de son mari.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/degout-en-couple-comprendre-agir/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/respiration-en-boite-box-breathing-en-couple/">La respiration en boîte (box breathing) en couple : Margot</a></h3>
+    <div class="parcours-date">2026-04-21</div>
+    <p class="parcours-resume">Lors d'un dîner tendu avec son mari Philippe, Margot ressent une montée de stress liée à leurs conflits récurrents et au vide laissé par le départ de leurs enfants. Pour éviter une énième dispute circulaire, elle décide d'appliquer discrètement la technique de la respiration en boîte sous la table de la cuisine.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Margot passe d'une réaction de défense automatique, dictée par son driver 'sois forte', à une régulation consciente de son système nerveux. Elle comprend que cet outil peut transformer son rapport au silence et lui permettre de choisir sa réponse plutôt que de subir ses émotions.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/respiration-en-boite-box-breathing-en-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
