@@ -1,14 +1,14 @@
 ---
 title: "Léa"
-date: 2026-04-21T05:07:37+00:00
+date: 2026-04-22T05:05:49+00:00
 description: "Léa est étudiante en master de psychologie clinique. En couple avec Youssef, elle vit en studio étudiant."
 slug: "lea"
 prenom: "Léa"
 date_naissance: "2002-11-12"
 profession: "Étudiante en master de psychologie clinique"
 situation: "En couple avec youssef, vit en studio étudiant"
-nb_articles: 7
-weight: 12
+nb_articles: 8
+weight: 3
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Léa a réalisé que la trahison ne se limite pas à l'infidélité, mais réside aussi dans le désengagement affectif et l'absence de résonance de l'autre face à sa vulnérabilité.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/trahison-en-couple-comprendre-surmonter-blessure/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-psychologique-intimite-sexualite/">Gaslighting et manipulation dans l'intimité : s'en libérer</a></h3>
+    <div class="parcours-date">2026-04-22</div>
+    <p class="parcours-resume">Alors qu'elle range son studio, Léa tente d'exprimer son malaise à son compagnon Youssef suite à une remarque désobligeante sur son corps lors d'un moment intime. Youssef nie les faits avec assurance, utilisant le gaslighting pour faire douter Léa de sa propre mémoire et de sa santé mentale.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Léa prend conscience que sa tendance à la codépendance et son passé d'enfant de parents divorcés la rendent vulnérable à cette manipulation, l'amenant à faire le lien entre ses révisions théoriques et sa réalité toxique.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-psychologique-intimite-sexualite/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

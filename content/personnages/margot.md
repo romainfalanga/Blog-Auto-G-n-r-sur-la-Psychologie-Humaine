@@ -1,13 +1,13 @@
 ---
 title: "Margot"
-date: 2026-04-21T05:07:37+00:00
-description: "Margot est une ancienne directrice commerciale devenue coach. Mariée à Philippe, elle traverse une profonde crise conjugale marquée par un sentiment de dégoût et une remise en question de son mariage."
+date: 2026-04-22T05:05:49+00:00
+description: "Margot est une coach qui vient de valider sa reconversion par ses premiers succès professionnels. Elle transforme sa crise conjugale et le départ de ses enfants en une saine autonomie, habitant enfin son corps et envisageant l'avenir avec espoir."
 slug: "margot"
 prenom: "Margot"
 date_naissance: "1973-07-23"
-profession: "Coach (début d'activité)"
-situation: "En crise conjugale avec philippe"
-nb_articles: 8
+profession: "Coach (activité lancée)"
+situation: "En phase de reconstruction personnelle et conjugale"
+nb_articles: 9
 weight: 1
 draft: false
 ---
@@ -101,5 +101,16 @@ draft: false
       <p>Margot passe d'une réaction de défense automatique, dictée par son driver 'sois forte', à une régulation consciente de son système nerveux. Elle comprend que cet outil peut transformer son rapport au silence et lui permettre de choisir sa réponse plutôt que de subir ses émotions.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/respiration-en-boite-box-breathing-en-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/espoir-après-un-succès-reconversion-hpi/">Espoir après un succès : comprendre cette émotion à 50 ans</a></h3>
+    <div class="parcours-date">2026-04-22</div>
+    <p class="parcours-resume">Margot, ancienne directrice commerciale reconvertie en coach, reçoit le paiement de son premier programme d'accompagnement complet. Seule dans son bureau alors que son mari Philippe est au travail et ses enfants Chloé et Martin absents, elle contemple ce succès comme le point de départ d'une nouvelle trajectoire de vie.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Elle s'est libérée du biais du coût irrécupérable lié à son ancienne carrière et transforme son vide affectif en une saine autonomie. Elle commence à habiter son corps grâce à la méditation et perçoit désormais l'avenir comme un terrain de jeu plutôt que comme une menace.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/espoir-après-un-succès-reconversion-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -1,14 +1,14 @@
 ---
 title: "Thomas"
-date: 2026-04-21T05:07:37+00:00
+date: 2026-04-22T05:05:49+00:00
 description: "Thomas est enseignant d'histoire-géographie au lycée. En couple avec Émilie, il vient de déménager dans un nouvel appartement à Lyon tout en poursuivant sa réflexion sur la parentalité."
 slug: "thomas"
 prenom: "Thomas"
 date_naissance: "1992-02-22"
 profession: "Enseignant d'histoire-géographie au lycée"
 situation: "En couple avec émilie, vient de déménager dans un nouvel appartement à lyon"
-nb_articles: 7
-weight: 4
+nb_articles: 8
+weight: 2
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Thomas réalise que son refus de sanctionner est une projection de sa propre peur panique de la punition et de l'échec, héritée d'une enfance marquée par le besoin de ne jamais décevoir ses parents.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/punition-ecole-etudes-schema-repetitif/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/pensee-de-groupe-en-tant-que-manager-solutions/">Pensée de groupe en tant que manager : s'en libérer</a></h3>
+    <div class="parcours-date">2026-04-22</div>
+    <p class="parcours-resume">Lors d'une réunion pédagogique au lycée, Thomas, coordinateur de niveau, se retrouve confronté à la pression de Valérie qui souhaite supprimer un voyage scolaire en Provence. Malgré ses doutes intérieurs, il lutte contre son envie de s'effacer pour maintenir l'harmonie du groupe, faisant écho à ses difficultés personnelles récentes avec Émilie.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Thomas prend conscience que son besoin de validation et sa peur du conflit le poussent à l'autocensure et à la pensée de groupe, l'empêchant d'exercer son rôle de manager avec intégrité.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/pensee-de-groupe-en-tant-que-manager-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

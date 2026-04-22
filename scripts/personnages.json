@@ -406,6 +406,17 @@
           "resume_narratif": "Thomas, enseignant à Lyon, se retrouve dans sa salle de classe face à Julie, une élève n'ayant pas rendu son projet. Tiraillé entre le règlement imposé par ses collègues et son empathie, il hésite à lui infliger un zéro pointé.",
           "evolution": "Thomas réalise que son refus de sanctionner est une projection de sa propre peur panique de la punition et de l'échec, héritée d'une enfance marquée par le besoin de ne jamais décevoir ses parents.",
           "elements_cles": "Lieu : Salle 204 (Lyon). Personnes : Émilie (conjointe), Julie (élève), Valérie (collègue), un frère nommé An. Contexte : Déménagement récent, tension entre mentorat et rôle de censeur, tendance au perfectionnisme sacrificiel."
+        },
+        {
+          "date": "2026-04-22",
+          "sujet": "pensée de groupe",
+          "contexte": "en tant que manager",
+          "category": "cat1_pensees",
+          "titre": "Pensée de groupe en tant que manager : s'en libérer",
+          "slug": "pensee-de-groupe-en-tant-que-manager-solutions",
+          "resume_narratif": "Lors d'une réunion pédagogique au lycée, Thomas, coordinateur de niveau, se retrouve confronté à la pression de Valérie qui souhaite supprimer un voyage scolaire en Provence. Malgré ses doutes intérieurs, il lutte contre son envie de s'effacer pour maintenir l'harmonie du groupe, faisant écho à ses difficultés personnelles récentes avec Émilie.",
+          "evolution": "Thomas prend conscience que son besoin de validation et sa peur du conflit le poussent à l'autocensure et à la pensée de groupe, l'empêchant d'exercer son rôle de manager avec intégrité.",
+          "elements_cles": "Lycée (salle de réunion), Valérie (collègue influente), Émilie (compagne), projet de voyage en Provence, appartement à Lyon, antécédents de passivité avec Julie et Antoine, concept de pensée de groupe (Irving Janis)."
         }
       ],
       "genre": "M",
@@ -1324,8 +1335,8 @@
       "prenom": "Margot",
       "age": 52,
       "tranche_age": "adulte en bilan de mi-vie (46-55 ans)",
-      "profession": "coach (début d'activité)",
-      "situation_familiale": "en crise conjugale avec Philippe",
+      "profession": "coach (activité lancée)",
+      "situation_familiale": "en phase de reconstruction personnelle et conjugale",
       "traits_personnalite": [
         "volontaire",
         "en quête de sens",
@@ -1548,11 +1559,22 @@
             "technique_apprise": "Respiration en boîte (box breathing / respiration carrée)",
             "evenement_declencheur": "Remarque acerbe de Philippe sur le prix des courses"
           }
+        },
+        {
+          "date": "2026-04-22",
+          "sujet": "espoir",
+          "contexte": "après un succès",
+          "category": "cat2_emotions",
+          "titre": "Espoir après un succès : comprendre cette émotion à 50 ans",
+          "slug": "espoir-après-un-succès-reconversion-hpi",
+          "resume_narratif": "Margot, ancienne directrice commerciale reconvertie en coach, reçoit le paiement de son premier programme d'accompagnement complet. Seule dans son bureau alors que son mari Philippe est au travail et ses enfants Chloé et Martin absents, elle contemple ce succès comme le point de départ d'une nouvelle trajectoire de vie.",
+          "evolution": "Elle s'est libérée du biais du coût irrécupérable lié à son ancienne carrière et transforme son vide affectif en une saine autonomie. Elle commence à habiter son corps grâce à la méditation et perçoit désormais l'avenir comme un terrain de jeu plutôt que comme une menace.",
+          "elements_cles": "Ancien bureau commercial devenu sanctuaire de coach, Philippe (mari), Chloé et Martin (enfants), trophée de danse de Chloé, pratique de la méditation matinale, profil HPI, cinquantaine."
         }
       ],
       "genre": "F",
       "date_naissance": "1973-07-23",
-      "description_dynamique": "Margot est une ancienne directrice commerciale devenue coach. Mariée à Philippe, elle traverse une profonde crise conjugale marquée par un sentiment de dégoût et une remise en question de son mariage."
+      "description_dynamique": "Margot est une coach qui vient de valider sa reconversion par ses premiers succès professionnels. Elle transforme sa crise conjugale et le départ de ses enfants en une saine autonomie, habitant enfin son corps et envisageant l'avenir avec espoir."
     },
     {
       "id": "youssef",
@@ -2388,6 +2410,37 @@
             "comportements": [
               "Besoin de se rendre indispensable",
               "Réaction physique au stress (mains moites, sensation de froid)"
+            ]
+          }
+        },
+        {
+          "date": "2026-04-22",
+          "sujet": "le gaslighting et la manipulation psychologique",
+          "contexte": "dans l'intimité et la sexualité",
+          "category": "cat3_schemas",
+          "titre": "Gaslighting et manipulation dans l'intimité : s'en libérer",
+          "slug": "gaslighting-manipulation-psychologique-intimite-sexualite",
+          "resume_narratif": "Alors qu'elle range son studio, Léa tente d'exprimer son malaise à son compagnon Youssef suite à une remarque désobligeante sur son corps lors d'un moment intime. Youssef nie les faits avec assurance, utilisant le gaslighting pour faire douter Léa de sa propre mémoire et de sa santé mentale.",
+          "evolution": "Léa prend conscience que sa tendance à la codépendance et son passé d'enfant de parents divorcés la rendent vulnérable à cette manipulation, l'amenant à faire le lien entre ses révisions théoriques et sa réalité toxique.",
+          "elements_cles": {
+            "personnages": [
+              "Léa",
+              "Youssef",
+              "Zoé (amie/collègue mentionnée)",
+              "Dr Moreau"
+            ],
+            "lieux": [
+              "Studio de Léa"
+            ],
+            "contexte_psychologique": [
+              "Théorie de l'attachement",
+              "Distorsions cognitives",
+              "Codépendance",
+              "Traumatisme lié au divorce des parents"
+            ],
+            "objets_symboliques": [
+              "Thé froid à la menthe et à l'amertume",
+              "Fiches de révision"
             ]
           }
         }
