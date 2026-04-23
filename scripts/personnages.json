@@ -191,6 +191,17 @@
           "resume_narratif": "Lors d'une réunion tendue, Sophie subit le rejet injuste de son travail sur une base de données par son collègue Marc. Au lieu d'exprimer sa colère, elle réagit par une gentillesse excessive et une soumission totale, acceptant de tout recommencer malgré son ressentiment intérieur.",
           "evolution": "Sophie identifie son comportement comme une formation réactionnelle, un mécanisme de défense qui transforme sa rage en politesse mielleuse pour éviter le conflit. Elle réalise que ce schéma, hérité d'une éducation exigeante, devient un obstacle épuisant à son affirmation de soi.",
           "elements_cles": "Marc (collègue condescendant), Nantes (lieu de ses parents), carnet de notes (suivi émotionnel), base de données (projet technique), tapis de yoga, formation réactionnelle (concept psychologique)."
+        },
+        {
+          "date": "2026-04-23",
+          "sujet": "humiliation",
+          "contexte": "en société et dans les interactions sociales",
+          "category": "cat2_emotions",
+          "titre": "Humiliation en société : comprendre pourquoi elle existe",
+          "slug": "humiliation-en-societe-comprendre-pourquoi",
+          "resume_narratif": "Lors d'une présentation en réunion le 23 avril 2026, Sophie est publiquement moquée par son collègue Marc qui imite ses hésitations, provoquant un rire général. Soutenue ensuite par son amie Claire, elle analyse ce sentiment d'humiliation qui la pousse instinctivement à la sur-justification et au retrait.",
+          "evolution": "Sophie identifie que sa vulnérabilité au sarcasme professionnel prend racine dans l'exigence de performance imposée par ses parents. Elle prend conscience de son mécanisme de défense consistant à s'excuser excessivement pour réparer son image sociale.",
+          "elements_cles": "Marc (collègue antagoniste), Claire (amie et soutien), parents (père ingénieur, mère enseignante), open-space, carnet de notes (technique de l'overthinking), date du 23 avril 2026, tendance à la formation réactionnelle."
         }
       ],
       "genre": "F",
@@ -1784,6 +1795,17 @@
           "resume_narratif": "En arrêt pour épuisement professionnel le 19 avril 2026, Youssef hésite à signer sa lettre de démission malgré son désir de lancer un projet de conseil en éthique numérique. Face à sa compagne Léa, il dissimule son tiraillement intérieur entre son besoin de liberté et la peur de trahir l'héritage social de son père, Hamid.",
           "evolution": "Youssef identifie son ambivalence émotionnelle comme la source de sa paralysie, comprenant que son besoin de perfection et son héritage familial entrent en conflit avec sa volonté de reconversion.",
           "elements_cles": "Appartement parisien ; Léa (compagne) ; Hamid (père) ; lettre de démission imprimée ; projet de conseil en éthique numérique ; réflexes compulsifs (comptage d'icônes/objets) ; fonctionnement alexithymique."
+        },
+        {
+          "date": "2026-04-23",
+          "sujet": "biais de représentativité",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Biais de représentativité face à une décision importante",
+          "slug": "biais-de-representativite-decision-importante-youssef",
+          "resume_narratif": "En arrêt pour épuisement professionnel, Youssef hésite entre un poste sécurisant en banque et son projet de conseil en éthique numérique lors d'un footing au canal de l'Ourcq. En observant des entrepreneurs en terrasse, il se sent illégitime car il ne correspond pas au stéréotype de l'extraverti sûr de lui.",
+          "evolution": "Youssef identifie que son blocage est cognitif : il réalise qu'il utilise le biais de représentativité pour juger sa propre viabilité professionnelle en se basant sur des clichés plutôt que sur ses compétences réelles.",
+          "elements_cles": "Canal de l'Ourcq ; Hamid (son père) ; Léa (interlocutrice précédente) ; projet de conseil en éthique numérique ; carnet de notes ; tendance à la rigidité (alignement des jouets de son neveu)."
         }
       ],
       "genre": "M",
@@ -1955,6 +1977,37 @@
           "resume_narratif": "Isabelle partage un café en terrasse avec son amie Catherine, mais se laisse envahir par l'anxiété lorsque cette dernière consulte son téléphone. Elle sombre dans un cycle de pensées automatiques négatives, interprétant ce geste banal comme un signe d'ennui et de rejet de sa propre personne.",
           "evolution": "Isabelle identifie que son hypervigilance et sa tendance à la lecture de pensée sont des mécanismes de défense hérités de son enfance. Elle réalise que son attachement anxieux et son passé d'enfant parentifiée s'exportent désormais dans ses relations amicales, créant une fatigue de compassion.",
           "elements_cles": "Catherine (amie), Théo (ex-conjoint), Geneviève (mère), Aurélie (relation passée), méthode ABCDE, passé d'enfant parentifiée, métier de psychologue scolaire, tendance à l'hypervigilance."
+        },
+        {
+          "date": "2026-04-23",
+          "sujet": "dissociation",
+          "contexte": "après une rupture amoureuse",
+          "category": "cat3_schemas",
+          "titre": "Dissociation après une rupture amoureuse : comment s'en libérer",
+          "slug": "dissociation-rupture-amoureuse",
+          "resume_narratif": "Isabelle, enseignante au collège, traverse des épisodes de dissociation marqués par des pertes de mémoire immédiate et des gestes automatiques suite à sa rupture avec Laurent. En pleine journée de travail le 23 avril 2026, elle jongle entre ses obligations professionnelles, un appel de son fils Théo et les réminiscences de son passé d'enfant parentifiée.",
+          "evolution": "Elle identifie ses absences comme un mécanisme de survie hérité de son enfance et tente de coupler la méthode ABCDE à des gestes concrets pour reprendre pied dans la réalité. Elle prend conscience que son passé influence sa réaction actuelle à la rupture et à son épuisement professionnel.",
+          "elements_cles": {
+            "personnages": [
+              "Isabelle",
+              "Théo (fils)",
+              "Laurent (ex-mari)",
+              "Geneviève (mère)",
+              "Claire (collègue)"
+            ],
+            "lieux_et_dates": [
+              "Collège",
+              "23 avril 2026",
+              "10 avril (test méthode ABCDE)"
+            ],
+            "concepts_et_outils": [
+              "Dissociation",
+              "Parentification précoce",
+              "Attachement anxieux-préoccupé",
+              "Méthode ABCDE",
+              "Fatigue de compassion"
+            ]
+          }
         }
       ],
       "genre": "F",

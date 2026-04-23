@@ -1,14 +1,14 @@
 ---
 title: "Isabelle"
-date: 2026-04-22T05:05:49+00:00
+date: 2026-04-23T05:03:58+00:00
 description: "Isabelle est psychologue scolaire dans un collège. Divorcée, un fils adolescent (théo, 16 ans)."
 slug: "isabelle"
 prenom: "Isabelle"
 date_naissance: "1978-09-03"
 profession: "Psychologue scolaire dans un collège"
 situation: "Divorcée, un fils adolescent (théo, 16 ans)"
-nb_articles: 7
-weight: 11
+nb_articles: 8
+weight: 5
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Isabelle identifie que son hypervigilance et sa tendance à la lecture de pensée sont des mécanismes de défense hérités de son enfance. Elle réalise que son attachement anxieux et son passé d'enfant parentifiée s'exportent désormais dans ses relations amicales, créant une fatigue de compassion.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/pensees-automatiques-negatives-en-amitie-isabelle/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/dissociation-rupture-amoureuse/">Dissociation après une rupture amoureuse : comment s'en libérer</a></h3>
+    <div class="parcours-date">2026-04-23</div>
+    <p class="parcours-resume">Isabelle, enseignante au collège, traverse des épisodes de dissociation marqués par des pertes de mémoire immédiate et des gestes automatiques suite à sa rupture avec Laurent. En pleine journée de travail le 23 avril 2026, elle jongle entre ses obligations professionnelles, un appel de son fils Théo et les réminiscences de son passé d'enfant parentifiée.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Elle identifie ses absences comme un mécanisme de survie hérité de son enfance et tente de coupler la méthode ABCDE à des gestes concrets pour reprendre pied dans la réalité. Elle prend conscience que son passé influence sa réaction actuelle à la rupture et à son épuisement professionnel.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/dissociation-rupture-amoureuse/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

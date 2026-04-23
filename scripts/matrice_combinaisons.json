@@ -4751,6 +4751,101 @@
       },
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-23",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de représentativité",
+      "contexte": "face à une décision importante",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "contrôlant(e)",
+      "prenom": "Youssef",
+      "age": "29 ans",
+      "title": "Biais de représentativité face à une décision importante",
+      "slug": "biais-de-representativite-decision-importante-youssef",
+      "tags": [
+        "psychologie cognitive",
+        "prise de décision",
+        "biais cognitifs",
+        "reconversion professionnelle",
+        "gestion du contrôle"
+      ],
+      "resume_narratif": "En arrêt pour épuisement professionnel, Youssef hésite entre un poste sécurisant en banque et son projet de conseil en éthique numérique lors d'un footing au canal de l'Ourcq. En observant des entrepreneurs en terrasse, il se sent illégitime car il ne correspond pas au stéréotype de l'extraverti sûr de lui.",
+      "evolution": "Youssef identifie que son blocage est cognitif : il réalise qu'il utilise le biais de représentativité pour juger sa propre viabilité professionnelle en se basant sur des clichés plutôt que sur ses compétences réelles.",
+      "elements_cles": "Canal de l'Ourcq ; Hamid (son père) ; Léa (interlocutrice précédente) ; projet de conseil en éthique numérique ; carnet de notes ; tendance à la rigidité (alignement des jouets de son neveu).",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-23",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "humiliation",
+      "contexte": "en société et dans les interactions sociales",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": "timide",
+      "prenom": "Sophie",
+      "age": "28 ans",
+      "title": "Humiliation en société : comprendre pourquoi elle existe",
+      "slug": "humiliation-en-societe-comprendre-pourquoi",
+      "tags": [
+        "humiliation",
+        "émotions",
+        "interaction-sociale",
+        "timidité",
+        "assertivité"
+      ],
+      "resume_narratif": "Lors d'une présentation en réunion le 23 avril 2026, Sophie est publiquement moquée par son collègue Marc qui imite ses hésitations, provoquant un rire général. Soutenue ensuite par son amie Claire, elle analyse ce sentiment d'humiliation qui la pousse instinctivement à la sur-justification et au retrait.",
+      "evolution": "Sophie identifie que sa vulnérabilité au sarcasme professionnel prend racine dans l'exigence de performance imposée par ses parents. Elle prend conscience de son mécanisme de défense consistant à s'excuser excessivement pour réparer son image sociale.",
+      "elements_cles": "Marc (collègue antagoniste), Claire (amie et soutien), parents (père ingénieur, mère enseignante), open-space, carnet de notes (technique de l'overthinking), date du 23 avril 2026, tendance à la formation réactionnelle.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-23",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "dissociation",
+      "contexte": "après une rupture amoureuse",
+      "angle": "comment s'en libérer concrètement",
+      "profil": "survivant(e) de relation toxique",
+      "prenom": "Isabelle",
+      "age": "47 ans",
+      "title": "Dissociation après une rupture amoureuse : comment s'en libérer",
+      "slug": "dissociation-rupture-amoureuse",
+      "tags": [
+        "dissociation",
+        "rupture amoureuse",
+        "traumatisme relationnel",
+        "vieillesse",
+        "psychologie"
+      ],
+      "resume_narratif": "Isabelle, enseignante au collège, traverse des épisodes de dissociation marqués par des pertes de mémoire immédiate et des gestes automatiques suite à sa rupture avec Laurent. En pleine journée de travail le 23 avril 2026, elle jongle entre ses obligations professionnelles, un appel de son fils Théo et les réminiscences de son passé d'enfant parentifiée.",
+      "evolution": "Elle identifie ses absences comme un mécanisme de survie hérité de son enfance et tente de coupler la méthode ABCDE à des gestes concrets pour reprendre pied dans la réalité. Elle prend conscience que son passé influence sa réaction actuelle à la rupture et à son épuisement professionnel.",
+      "elements_cles": {
+        "personnages": [
+          "Isabelle",
+          "Théo (fils)",
+          "Laurent (ex-mari)",
+          "Geneviève (mère)",
+          "Claire (collègue)"
+        ],
+        "lieux_et_dates": [
+          "Collège",
+          "23 avril 2026",
+          "10 avril (test méthode ABCDE)"
+        ],
+        "concepts_et_outils": [
+          "Dissociation",
+          "Parentification précoce",
+          "Attachement anxieux-préoccupé",
+          "Méthode ABCDE",
+          "Fatigue de compassion"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

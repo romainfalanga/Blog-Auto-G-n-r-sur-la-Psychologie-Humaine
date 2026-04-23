@@ -1,14 +1,14 @@
 ---
 title: "Youssef"
-date: 2026-04-22T05:05:49+00:00
+date: 2026-04-23T05:03:58+00:00
 description: "Youssef est ingénieur en informatique, actuellement en arrêt pour épuisement professionnel. En couple avec Léa, il envisage une reconversion dans le conseil en éthique numérique malgré ses blocages."
 slug: "youssef"
 prenom: "Youssef"
 date_naissance: "1996-08-14"
 profession: "Ingénieur en informatique (actuellement en arrêt pour épuisement professionnel)"
 situation: "En couple avec léa, vit en appartement"
-nb_articles: 7
-weight: 10
+nb_articles: 8
+weight: 4
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Youssef identifie son ambivalence émotionnelle comme la source de sa paralysie, comprenant que son besoin de perfection et son héritage familial entrent en conflit avec sa volonté de reconversion.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/ambivalence-emotionnelle-reconversion-professionnelle-burn-out/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-representativite-decision-importante-youssef/">Biais de représentativité face à une décision importante</a></h3>
+    <div class="parcours-date">2026-04-23</div>
+    <p class="parcours-resume">En arrêt pour épuisement professionnel, Youssef hésite entre un poste sécurisant en banque et son projet de conseil en éthique numérique lors d'un footing au canal de l'Ourcq. En observant des entrepreneurs en terrasse, il se sent illégitime car il ne correspond pas au stéréotype de l'extraverti sûr de lui.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Youssef identifie que son blocage est cognitif : il réalise qu'il utilise le biais de représentativité pour juger sa propre viabilité professionnelle en se basant sur des clichés plutôt que sur ses compétences réelles.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-representativite-decision-importante-youssef/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

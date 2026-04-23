@@ -1,14 +1,14 @@
 ---
 title: "Sophie"
-date: 2026-04-22T05:05:49+00:00
+date: 2026-04-23T05:03:58+00:00
 description: "Sophie est développeuse web dans une startup. Célibataire, vit seule en appartement en ville."
 slug: "sophie"
 prenom: "Sophie"
 date_naissance: "1998-01-15"
 profession: "Développeuse web dans une startup"
 situation: "Célibataire, vit seule en appartement en ville"
-nb_articles: 7
-weight: 5
+nb_articles: 8
+weight: 2
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Sophie identifie son comportement comme une formation réactionnelle, un mécanisme de défense qui transforme sa rage en politesse mielleuse pour éviter le conflit. Elle réalise que ce schéma, hérité d'une éducation exigeante, devient un obstacle épuisant à son affirmation de soi.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/formation-reactionnelle-en-situation-de-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/humiliation-en-societe-comprendre-pourquoi/">Humiliation en société : comprendre pourquoi elle existe</a></h3>
+    <div class="parcours-date">2026-04-23</div>
+    <p class="parcours-resume">Lors d'une présentation en réunion le 23 avril 2026, Sophie est publiquement moquée par son collègue Marc qui imite ses hésitations, provoquant un rire général. Soutenue ensuite par son amie Claire, elle analyse ce sentiment d'humiliation qui la pousse instinctivement à la sur-justification et au retrait.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Sophie identifie que sa vulnérabilité au sarcasme professionnel prend racine dans l'exigence de performance imposée par ses parents. Elle prend conscience de son mécanisme de défense consistant à s'excuser excessivement pour réparer son image sociale.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/humiliation-en-societe-comprendre-pourquoi/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
