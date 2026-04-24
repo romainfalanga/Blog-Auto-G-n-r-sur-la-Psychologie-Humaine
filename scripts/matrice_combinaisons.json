@@ -4846,6 +4846,81 @@
       },
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-24",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet de dotation",
+      "contexte": "face à une décision importante",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "contrôlant(e)",
+      "prenom": "Lucas",
+      "age": "25 ans",
+      "title": "Effet de dotation face à une décision importante : s'en libérer",
+      "slug": "effet-dotation-decision-importante-lucas",
+      "tags": [
+        "psychologie",
+        "biais cognitifs",
+        "prise de décision",
+        "carrière",
+        "développement personnel"
+      ],
+      "resume_narratif": "Lucas reçoit une offre d'emploi prestigieuse à Lyon, mais hésite à quitter son stage actuel à Paris malgré les conditions médiocres. En pleine colocation avec Maxime, il se sent paralysé par l'idée d'abandonner ses dossiers et ses habitudes, illustrant son attachement irrationnel à sa situation présente.",
+      "evolution": "Lucas prend conscience de son incapacité à trancher face à une opportunité évidente, réalisant que sa peur de la perte surpasse son ambition. Il lutte contre son syndrome de l'imposteur et son besoin de contrôle, restant pour l'instant bloqué dans le statu quo.",
+      "elements_cles": "Offre de consultant junior à Lyon (Mathieu) ; stage actuel en agence marketing à Paris ; parents (Sandrine et Jean-Marc) ; colocataires (Maxime et Romain) ; dossier complexe dompté par Lucas ; effet de dotation et aversion à la perte.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-24",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "soulagement",
+      "contexte": "après un succès",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "haut potentiel intellectuel (HPI)",
+      "prenom": "Djamila",
+      "age": "36 ans",
+      "title": "Soulagement après un succès : sentir, comprendre, intégrer",
+      "slug": "soulagement-apres-un-succes",
+      "tags": [
+        "émotions",
+        "soulagement",
+        "HPI",
+        "reconstruction",
+        "techniques-psychologiques"
+      ],
+      "resume_narratif": "Le 24 avril 2026, Djamila célèbre l'officialisation du projet de relogement qu'elle a porté pendant des mois lors d'une cérémonie à la salle polyvalente. Malgré le succès et les félicitations d'Amina, elle ressent une ambivalence entre le soulagement physique et un réflexe d'hypervigilance en rentrant chez elle avec son fils Adam.",
+      "evolution": "Djamila apprend à distinguer le soulagement authentique, fruit de son propre travail, de la 'lune de miel' factice qu'elle subissait autrefois. Elle commence à nommer ses mécanismes de défense, comme le biais de confirmation et l'armure de glace, pour ne plus jeter ses émotions aux oubliettes.",
+      "elements_cles": "Adam (son fils), Amina (collègue/amie), Dr Martin (thérapeute), projet de relogement municipal, passé avec Samir et Antoine, techniques de régulation (nommer le CPTSD, journal de gratitude).",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-24",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "déplacement",
+      "contexte": "en famille",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "ancien(ne) enfant parentifié(e)",
+      "prenom": "Camille",
+      "age": "42 ans",
+      "title": "Le déplacement en famille : comprendre ce mécanisme invisible",
+      "slug": "comprendre-le-deplacement-en-famille-guide-camille",
+      "tags": [
+        "déplacement",
+        "psychologie familiale",
+        "schémas répétitifs",
+        "gestion des émotions",
+        "parentification"
+      ],
+      "resume_narratif": "De retour d'une garde éprouvante en cardiologie, Camille décharge violemment son stress professionnel sur son fils Léo pour une simple paire de chaussures traînant dans le couloir. Sous les yeux de son mari David et de sa fille Emma, elle réalise que sa colère est disproportionnée et dirigée vers la mauvaise cible.",
+      "evolution": "Camille identifie son mécanisme de défense comme étant un déplacement émotionnel, comprenant qu'elle utilise son foyer comme exutoire pour ses frustrations hospitalières et son sentiment d'imposture. Elle prend conscience que son abnégation professionnelle, héritée de l'éducation de sa mère Françoise, sature son espace mental au détriment de sa famille.",
+      "elements_cles": "Service de cardiologie (lieu de travail), Léo (fils), Emma (fille), David (mari), Françoise (mère), Monsieur Laroche (patient), mécanisme de déplacement, sentiment d'imposture, antécédents de vulnérabilité au danger et de catastrophisation.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

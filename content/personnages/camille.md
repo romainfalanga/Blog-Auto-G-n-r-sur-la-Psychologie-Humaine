@@ -1,14 +1,14 @@
 ---
 title: "Camille"
-date: 2026-04-23T05:03:58+00:00
+date: 2026-04-24T05:27:55+00:00
 description: "Camille est infirmière en service de cardiologie. Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)."
 slug: "camille"
 prenom: "Camille"
 date_naissance: "1984-03-05"
 profession: "Infirmière en service de cardiologie"
 situation: "Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)"
-nb_articles: 7
-weight: 8
+nb_articles: 8
+weight: 4
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Camille commence à se libérer du poids de la perfection hérité de sa mère Françoise, passant d'une gestionnaire de crises anxieuse à une 'base de sécurité' capable de réguler ses émotions et d'accepter le contact physique.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-secure-enfants-caracteristiques-developper/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/comprendre-le-deplacement-en-famille-guide-camille/">Le déplacement en famille : comprendre ce mécanisme invisible</a></h3>
+    <div class="parcours-date">2026-04-24</div>
+    <p class="parcours-resume">De retour d'une garde éprouvante en cardiologie, Camille décharge violemment son stress professionnel sur son fils Léo pour une simple paire de chaussures traînant dans le couloir. Sous les yeux de son mari David et de sa fille Emma, elle réalise que sa colère est disproportionnée et dirigée vers la mauvaise cible.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Camille identifie son mécanisme de défense comme étant un déplacement émotionnel, comprenant qu'elle utilise son foyer comme exutoire pour ses frustrations hospitalières et son sentiment d'imposture. Elle prend conscience que son abnégation professionnelle, héritée de l'éducation de sa mère Françoise, sature son espace mental au détriment de sa famille.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/comprendre-le-deplacement-en-famille-guide-camille/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

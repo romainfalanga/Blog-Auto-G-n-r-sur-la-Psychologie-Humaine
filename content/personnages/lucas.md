@@ -1,14 +1,14 @@
 ---
 title: "Lucas"
-date: 2026-04-23T05:03:58+00:00
+date: 2026-04-24T05:27:55+00:00
 description: "Lucas est étudiant en dernière année d'école de commerce, en stage. Célibataire, en colocation avec deux amis."
 slug: "lucas"
 prenom: "Lucas"
 date_naissance: "2001-04-10"
 profession: "Étudiant en dernière année d'école de commerce, en stage"
 situation: "Célibataire, en colocation avec deux amis"
-nb_articles: 7
-weight: 9
+nb_articles: 8
+weight: 5
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Le personnage passe d'un état de fatigue mentale et de culpabilité à un sentiment de soulagement immédiat en s'identifiant à un portrait psychologique vague. Il croit avoir trouvé la clé de son mal-être, ignorant qu'il est victime de l'effet Barnum.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-barnum-forer-reseaux-sociaux/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-dotation-decision-importante-lucas/">Effet de dotation face à une décision importante : s'en libérer</a></h3>
+    <div class="parcours-date">2026-04-24</div>
+    <p class="parcours-resume">Lucas reçoit une offre d'emploi prestigieuse à Lyon, mais hésite à quitter son stage actuel à Paris malgré les conditions médiocres. En pleine colocation avec Maxime, il se sent paralysé par l'idée d'abandonner ses dossiers et ses habitudes, illustrant son attachement irrationnel à sa situation présente.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Lucas prend conscience de son incapacité à trancher face à une opportunité évidente, réalisant que sa peur de la perte surpasse son ambition. Il lutte contre son syndrome de l'imposteur et son besoin de contrôle, restant pour l'instant bloqué dans le statu quo.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-dotation-decision-importante-lucas/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

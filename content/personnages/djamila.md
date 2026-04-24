@@ -1,14 +1,14 @@
 ---
 title: "Djamila"
-date: 2026-04-23T05:03:58+00:00
+date: 2026-04-24T05:27:55+00:00
 description: "Djamila est travailleuse sociale dans une association d'aide aux femmes. Séparée, en reconstruction, un fils (adam, 6 ans)."
 slug: "djamila"
 prenom: "Djamila"
 date_naissance: "1989-05-06"
 profession: "Travailleuse sociale dans une association d'aide aux femmes"
 situation: "Séparée, en reconstruction, un fils (adam, 6 ans)"
-nb_articles: 7
-weight: 17
+nb_articles: 8
+weight: 10
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Djamila identifie pour la première fois le cycle de l'abus (tension, explosion, lune de miel) au sein de sa relation avec ses parents. Elle comprend que son hypervigilance et son attirance passée pour des hommes toxiques découlent d'une confusion neurologique entre soulagement après la terreur et sécurité réelle.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/cycle-abus-tension-explosion-lune-de-miel-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/soulagement-apres-un-succes/">Soulagement après un succès : sentir, comprendre, intégrer</a></h3>
+    <div class="parcours-date">2026-04-24</div>
+    <p class="parcours-resume">Le 24 avril 2026, Djamila célèbre l'officialisation du projet de relogement qu'elle a porté pendant des mois lors d'une cérémonie à la salle polyvalente. Malgré le succès et les félicitations d'Amina, elle ressent une ambivalence entre le soulagement physique et un réflexe d'hypervigilance en rentrant chez elle avec son fils Adam.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Djamila apprend à distinguer le soulagement authentique, fruit de son propre travail, de la 'lune de miel' factice qu'elle subissait autrefois. Elle commence à nommer ses mécanismes de défense, comme le biais de confirmation et l'armure de glace, pour ne plus jeter ses émotions aux oubliettes.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/soulagement-apres-un-succes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
