@@ -1157,6 +1157,17 @@
             ],
             "vie_privee": "Divorce avec Karim, éducation de Yasmine, tension dans l'intimité avec Antoine"
           }
+        },
+        {
+          "date": "2026-04-25",
+          "sujet": "remords",
+          "contexte": "en famille",
+          "category": "cat2_emotions",
+          "titre": "Remords en famille : comprendre pour mieux s'en libérer",
+          "slug": "remords-en-famille-comprendre-et-agir",
+          "resume_narratif": "Le 25 avril 2026 à Lyon, Nadia ressent un profond remords après avoir critiqué avec virulence l'éducation de sa fille Yasmine lors d'un dîner chez sa mère, Fatima. Seule dans sa voiture après son cours de pilates, elle prend conscience de la blessure infligée à sa mère et de sa tendance à reproduire des schémas de domination.",
+          "evolution": "Nadia comprend que son exigence et son besoin de contrôle sont des armures héritées de son passé d'enfant parentifiée qui nuisent à ses relations. Elle réalise que le remords est un signal de ses valeurs profondes, l'incitant à privilégier la réparation émotionnelle plutôt que la perfection logistique.",
+          "elements_cles": "Lyon (25 avril 2026), Fatima (mère), Yasmine (fille), Julie (assistante), passé d'enfant parentifiée, métier de directrice marketing, pratique du journaling, biais de contrôle, tendance à la sur-réparation matérielle."
         }
       ],
       "genre": "F",
@@ -2909,6 +2920,35 @@
           "resume_narratif": "Le 18 avril 2026, Monique se rend à un rendez-vous galant dans un salon de thé avec Jacques, un ancien collègue de l'Éducation nationale. Malgré l'accueil chaleureux de ce dernier, elle lutte contre un sentiment d'illégitimité et d'imposture dans son rôle de femme désirable, trois ans après le décès de son mari Jean-Claude.",
           "evolution": "Monique commence à identifier le mécanisme psychologique qui la pousse à minimiser le désir de l'autre et à contrôler son image. Elle prend conscience que son sentiment de nullité est une déconnexion entre la perception de Jacques et sa propre vision d'elle-même.",
           "elements_cles": "Jacques (ancien collègue), Jean-Claude (défunt mari), Lola (petite-fille), salon de thé, date du 18 avril 2026, syndrome de l'imposteur appliqué à l'intimité, passé de professeure, angoisses financières passées."
+        },
+        {
+          "date": "2026-04-25",
+          "sujet": "biais de normalité",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Biais de normalité face à une décision importante : le comprendre",
+          "slug": "biais-de-normalite-decision-importante-monique",
+          "resume_narratif": "Monique hésite face à la proposition de Jacques de vendre leurs maisons respectives pour emménager ensemble dans un appartement en centre-ville. Malgré son affection pour lui, elle se retrouve paralysée par l'attachement à sa demeure de l'Oise et à ses souvenirs avec son défunt mari Jean-Claude.",
+          "evolution": "Monique prend conscience que son immobilisme n'est pas rationnel mais dicté par un biais de normalité qui transforme son habitude de la solitude en une zone de sécurité illusoire. Elle réalise qu'elle invente des obstacles logiques pour masquer sa peur du changement.",
+          "elements_cles": {
+            "personnages": [
+              "Jacques (compagnon retraité)",
+              "Jean-Claude (défunt mari)",
+              "Geneviève (voisine)"
+            ],
+            "lieux": [
+              "Maison dans l'Oise",
+              "Futur appartement en centre-ville"
+            ],
+            "evenements_passes": [
+              "Soucis financiers en mars",
+              "Rencontre au salon de thé"
+            ],
+            "decision_en_cours": [
+              "Vente immobilière et vie commune",
+              "Appel imminent à Geneviève pour refuser le projet"
+            ]
+          }
         }
       ],
       "genre": "F",
@@ -3976,6 +4016,17 @@
           "resume_narratif": "Fabien, cadre RH récemment installé dans un nouvel appartement à Lyon, fait face au silence de son fils Lucas qui annule une sortie. Cette situation le renvoie à sa propre enfance et à ses difficultés relationnelles persistantes, notamment son divorce avec Véronique et son burn-out latent.",
           "evolution": "Grâce au concept de scénario de vie, Fabien réalise qu'il reproduit inconsciemment le mutisme de son père et son rôle d'enfant parentifié, comprenant que sa posture de médiateur impassible est une stratégie de survie qui l'isole aujourd'hui.",
           "elements_cles": "Lyon (appartement neuf), Lucas (fils de 17 ans), Marine (fille), Véronique (ex-femme), métier de cadre RH, concept de scénario de vie (Eric Berne), passé d'enfant parentifié, injonction de ne pas ressentir."
+        },
+        {
+          "date": "2026-04-25",
+          "sujet": "les positions de vie (+/+, +/-, -/+, -/-)",
+          "contexte": "au travail",
+          "category": "cat3_schemas",
+          "titre": "Positions de vie au travail : sortir des schémas répétitifs",
+          "slug": "positions-de-vie-travail-analyse-transactionnelle",
+          "resume_narratif": "Fabien, cadre RH de cinquante ans, se retrouve paralysé par un courriel de Julie, une jeune responsable d'équipe contestant ses directives. Malgré son autorité fonctionnelle, il s'apprête à rédiger une réponse excessivement soumise pour éviter le conflit, ravivant ses blessures liées à son divorce avec Véronique et son rôle d'enfant parentifié.",
+          "evolution": "Fabien identifie sa tendance à la soumission (position -/+) comme un mécanisme de survie hérité de son passé familial. Il décide de rompre avec cet automatisme pour chercher une position d'équilibre (+/+) où il se respecte tout en respectant l'autre.",
+          "elements_cles": "Usine (bureau), appartement neuf (solitude), Julie (collègue), Lucas (fils), Véronique (ex-femme), positions de vie (Analyse Transactionnelle), nappe phréatique invisible (métaphore du silence paternel)."
         }
       ],
       "genre": "M",

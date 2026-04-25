@@ -1,6 +1,6 @@
 ---
 title: "Thomas"
-date: 2026-04-24T05:27:55+00:00
+date: 2026-04-25T04:58:02+00:00
 description: "Thomas est enseignant d'histoire-géographie au lycée. En couple avec Émilie, il vient de déménager dans un nouvel appartement à Lyon tout en poursuivant sa réflexion sur la parentalité."
 slug: "thomas"
 prenom: "Thomas"

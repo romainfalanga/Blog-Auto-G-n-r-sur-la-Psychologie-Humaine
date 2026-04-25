@@ -1,14 +1,14 @@
 ---
 title: "Fabien"
-date: 2026-04-24T05:27:55+00:00
+date: 2026-04-25T04:58:02+00:00
 description: "Fabien est cadre RH dans une entreprise industrielle. Divorcé, il vit désormais dans un nouvel appartement et s'efforce de reconstruire un dialogue empathique avec ses deux enfants."
 slug: "fabien"
 prenom: "Fabien"
 date_naissance: "1975-06-19"
 profession: "Cadre rh dans une entreprise industrielle"
 situation: "Divorcé, a emménagé dans un nouvel appartement, deux enfants (marine, 20 ans et lucas, 17 ans)"
-nb_articles: 7
-weight: 18
+nb_articles: 8
+weight: 13
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Grâce au concept de scénario de vie, Fabien réalise qu'il reproduit inconsciemment le mutisme de son père et son rôle d'enfant parentifié, comprenant que sa posture de médiateur impassible est une stratégie de survie qui l'isole aujourd'hui.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/scenario-de-vie-analyse-transactionnelle-famille/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/positions-de-vie-travail-analyse-transactionnelle/">Positions de vie au travail : sortir des schémas répétitifs</a></h3>
+    <div class="parcours-date">2026-04-25</div>
+    <p class="parcours-resume">Fabien, cadre RH de cinquante ans, se retrouve paralysé par un courriel de Julie, une jeune responsable d'équipe contestant ses directives. Malgré son autorité fonctionnelle, il s'apprête à rédiger une réponse excessivement soumise pour éviter le conflit, ravivant ses blessures liées à son divorce avec Véronique et son rôle d'enfant parentifié.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Fabien identifie sa tendance à la soumission (position -/+) comme un mécanisme de survie hérité de son passé familial. Il décide de rompre avec cet automatisme pour chercher une position d'équilibre (+/+) où il se respecte tout en respectant l'autre.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/positions-de-vie-travail-analyse-transactionnelle/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

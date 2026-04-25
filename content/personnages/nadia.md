@@ -1,14 +1,14 @@
 ---
 title: "Nadia"
-date: 2026-04-24T05:27:55+00:00
+date: 2026-04-25T04:58:02+00:00
 description: "Nadia est directrice marketing dans une entreprise tech. En couple avec Antoine, elle est mère d'une fille (Yasmine, 8 ans) en garde alternée."
 slug: "nadia"
 prenom: "Nadia"
 date_naissance: "1987-05-18"
 profession: "Directrice marketing dans une entreprise tech"
 situation: "En couple avec antoine, mère d'une fille (yasmine, 8 ans), garde alternée"
-nb_articles: 7
-weight: 11
+nb_articles: 8
+weight: 6
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Nadia identifie l'influence du biais de cadrage sur son jugement et choisit de suspendre sa décision pour analyser froidement les faits au-delà de l'emballage sémantique. Elle comprend que sa quête de sécurité est liée à ses traumatismes passés, comme son divorce et sa peur de l'inconnu.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-cadrage-decision-importante-nadia/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/remords-en-famille-comprendre-et-agir/">Remords en famille : comprendre pour mieux s'en libérer</a></h3>
+    <div class="parcours-date">2026-04-25</div>
+    <p class="parcours-resume">Le 25 avril 2026 à Lyon, Nadia ressent un profond remords après avoir critiqué avec virulence l'éducation de sa fille Yasmine lors d'un dîner chez sa mère, Fatima. Seule dans sa voiture après son cours de pilates, elle prend conscience de la blessure infligée à sa mère et de sa tendance à reproduire des schémas de domination.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Nadia comprend que son exigence et son besoin de contrôle sont des armures héritées de son passé d'enfant parentifiée qui nuisent à ses relations. Elle réalise que le remords est un signal de ses valeurs profondes, l'incitant à privilégier la réparation émotionnelle plutôt que la perfection logistique.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/remords-en-famille-comprendre-et-agir/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

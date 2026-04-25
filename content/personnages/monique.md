@@ -1,14 +1,14 @@
 ---
 title: "Monique"
-date: 2026-04-24T05:27:55+00:00
+date: 2026-04-25T04:58:02+00:00
 description: "Monique est retraitée, ancienne professeure de français. Veuve depuis 3 ans, elle entame une nouvelle relation avec Jacques, un ancien collègue."
 slug: "monique"
 prenom: "Monique"
 date_naissance: "1964-01-30"
 profession: "Retraitée, ancienne professeure de français"
 situation: "Veuve, entame une nouvelle relation avec jacques"
-nb_articles: 7
-weight: 15
+nb_articles: 8
+weight: 10
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Monique commence à identifier le mécanisme psychologique qui la pousse à minimiser le désir de l'autre et à contrôler son image. Elle prend conscience que son sentiment de nullité est une déconnexion entre la perception de Jacques et sa propre vision d'elle-même.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-intimite-sexualité-monique/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-normalite-decision-importante-monique/">Biais de normalité face à une décision importante : le comprendre</a></h3>
+    <div class="parcours-date">2026-04-25</div>
+    <p class="parcours-resume">Monique hésite face à la proposition de Jacques de vendre leurs maisons respectives pour emménager ensemble dans un appartement en centre-ville. Malgré son affection pour lui, elle se retrouve paralysée par l'attachement à sa demeure de l'Oise et à ses souvenirs avec son défunt mari Jean-Claude.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Monique prend conscience que son immobilisme n'est pas rationnel mais dicté par un biais de normalité qui transforme son habitude de la solitude en une zone de sécurité illusoire. Elle réalise qu'elle invente des obstacles logiques pour masquer sa peur du changement.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-normalite-decision-importante-monique/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

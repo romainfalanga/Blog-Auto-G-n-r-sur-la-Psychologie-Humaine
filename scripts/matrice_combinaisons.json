@@ -4921,6 +4921,99 @@
       "elements_cles": "Service de cardiologie (lieu de travail), Léo (fils), Emma (fille), David (mari), Françoise (mère), Monsieur Laroche (patient), mécanisme de déplacement, sentiment d'imposture, antécédents de vulnérabilité au danger et de catastrophisation.",
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-25",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de normalité",
+      "contexte": "face à une décision importante",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "contrôlant(e)",
+      "prenom": "Monique",
+      "age": "62 ans",
+      "title": "Biais de normalité face à une décision importante : le comprendre",
+      "slug": "biais-de-normalite-decision-importante-monique",
+      "tags": [
+        "psychologie",
+        "biais cognitifs",
+        "changement de vie",
+        "prise de décision",
+        "senior"
+      ],
+      "resume_narratif": "Monique hésite face à la proposition de Jacques de vendre leurs maisons respectives pour emménager ensemble dans un appartement en centre-ville. Malgré son affection pour lui, elle se retrouve paralysée par l'attachement à sa demeure de l'Oise et à ses souvenirs avec son défunt mari Jean-Claude.",
+      "evolution": "Monique prend conscience que son immobilisme n'est pas rationnel mais dicté par un biais de normalité qui transforme son habitude de la solitude en une zone de sécurité illusoire. Elle réalise qu'elle invente des obstacles logiques pour masquer sa peur du changement.",
+      "elements_cles": {
+        "personnages": [
+          "Jacques (compagnon retraité)",
+          "Jean-Claude (défunt mari)",
+          "Geneviève (voisine)"
+        ],
+        "lieux": [
+          "Maison dans l'Oise",
+          "Futur appartement en centre-ville"
+        ],
+        "evenements_passes": [
+          "Soucis financiers en mars",
+          "Rencontre au salon de thé"
+        ],
+        "decision_en_cours": [
+          "Vente immobilière et vie commune",
+          "Appel imminent à Geneviève pour refuser le projet"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-25",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "remords",
+      "contexte": "en famille",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "ancien(ne) enfant parentifié(e)",
+      "prenom": "Nadia",
+      "age": "38 ans",
+      "title": "Remords en famille : comprendre pour mieux s'en libérer",
+      "slug": "remords-en-famille-comprendre-et-agir",
+      "tags": [
+        "remords",
+        "culpabilité",
+        "psychologie familiale",
+        "enfant parentifié",
+        "gestion émotionnelle"
+      ],
+      "resume_narratif": "Le 25 avril 2026 à Lyon, Nadia ressent un profond remords après avoir critiqué avec virulence l'éducation de sa fille Yasmine lors d'un dîner chez sa mère, Fatima. Seule dans sa voiture après son cours de pilates, elle prend conscience de la blessure infligée à sa mère et de sa tendance à reproduire des schémas de domination.",
+      "evolution": "Nadia comprend que son exigence et son besoin de contrôle sont des armures héritées de son passé d'enfant parentifiée qui nuisent à ses relations. Elle réalise que le remords est un signal de ses valeurs profondes, l'incitant à privilégier la réparation émotionnelle plutôt que la perfection logistique.",
+      "elements_cles": "Lyon (25 avril 2026), Fatima (mère), Yasmine (fille), Julie (assistante), passé d'enfant parentifiée, métier de directrice marketing, pratique du journaling, biais de contrôle, tendance à la sur-réparation matérielle.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-25",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "les positions de vie (+/+, +/-, -/+, -/-)",
+      "contexte": "au travail",
+      "angle": "les erreurs que tout le monde fait",
+      "profil": "people pleaser (celui/celle qui veut plaire à tout le monde)",
+      "prenom": "Fabien",
+      "age": "50 ans",
+      "title": "Positions de vie au travail : sortir des schémas répétitifs",
+      "slug": "positions-de-vie-travail-analyse-transactionnelle",
+      "tags": [
+        "analyse transactionnelle",
+        "psychologie du travail",
+        "relations professionnelles",
+        "bien-être mental",
+        "communication efficace"
+      ],
+      "resume_narratif": "Fabien, cadre RH de cinquante ans, se retrouve paralysé par un courriel de Julie, une jeune responsable d'équipe contestant ses directives. Malgré son autorité fonctionnelle, il s'apprête à rédiger une réponse excessivement soumise pour éviter le conflit, ravivant ses blessures liées à son divorce avec Véronique et son rôle d'enfant parentifié.",
+      "evolution": "Fabien identifie sa tendance à la soumission (position -/+) comme un mécanisme de survie hérité de son passé familial. Il décide de rompre avec cet automatisme pour chercher une position d'équilibre (+/+) où il se respecte tout en respectant l'autre.",
+      "elements_cles": "Usine (bureau), appartement neuf (solitude), Julie (collègue), Lucas (fils), Véronique (ex-femme), positions de vie (Analyse Transactionnelle), nappe phréatique invisible (métaphore du silence paternel).",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }
