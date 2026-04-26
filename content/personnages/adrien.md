@@ -1,14 +1,14 @@
 ---
 title: "Adrien"
-date: 2026-04-25T04:58:02+00:00
+date: 2026-04-26T05:28:36+00:00
 description: "Adrien est graphiste freelance. Célibataire depuis une rupture difficile il y a un an."
 slug: "adrien"
 prenom: "Adrien"
 date_naissance: "1994-06-07"
 profession: "Graphiste freelance"
 situation: "Célibataire depuis une rupture difficile il y a un an"
-nb_articles: 7
-weight: 14
+nb_articles: 8
+weight: 8
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Il identifie son amertume comme un mécanisme de défense protégeant son estime de soi, mais réalise que ce sentiment transforme sa lucidité en un poison qui sabote ses opportunités professionnelles et sociales.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/amertume-reconversion-professionnelle-burn-out/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/deni-apres-un-echec-comprendre-et-agir/">Déni après un échec : comprendre ce mécanisme pour avancer</a></h3>
+    <div class="parcours-date">2026-04-26</div>
+    <p class="parcours-resume">Après avoir essuyé un refus froid pour un appel d'offres de cosmétiques éthiques, Adrien s'installe au canal Saint-Martin et feint la normalité auprès de sa sœur Charlotte. Il s'enferme dans une routine de tâches techniques stériles pour masquer son incapacité totale à dessiner et son refus d'affronter cet échec.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Adrien bascule dans un mécanisme de déni protecteur, utilisant la rationalisation et l'évitement proactif pour ne pas admettre que ce rejet professionnel réveille son sentiment d'incompétence.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/deni-apres-un-echec-comprendre-et-agir/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

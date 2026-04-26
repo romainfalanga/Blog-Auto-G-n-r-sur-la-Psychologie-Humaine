@@ -1,14 +1,14 @@
 ---
 title: "Karim"
-date: 2026-04-25T04:58:02+00:00
+date: 2026-04-26T05:28:36+00:00
 description: "Karim est entrepreneur, fondateur d'une PME de restauration. Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)."
 slug: "karim"
 prenom: "Karim"
 date_naissance: "1985-12-01"
 profession: "Entrepreneur, fondateur d'une pme de restauration"
 situation: "Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)"
-nb_articles: 7
-weight: 16
+nb_articles: 8
+weight: 11
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Karim commence à réaliser que son besoin de briller et ses dépenses excessives sont des mécanismes de défense pour maintenir son image de patriarche providentiel et compenser son incapacité à gérer les limites.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/droits-personnels-excessifs-grandiosité-argent-finances/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-faux-consensus-conflit/">Biais de faux consensus en situation de conflit : comment il s’immisce</a></h3>
+    <div class="parcours-date">2026-04-26</div>
+    <p class="parcours-resume">Karim est en plein conflit avec sa compagne Sofia et son associé Romain, car il impose ses choix professionnels au détriment de sa vie familiale et de la prudence financière. Persuadé que tout le monde valide sa vision, il ignore les signes d'épuisement de ses proches et les mises en garde sur la trésorerie de son entreprise.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Karim prend conscience qu'il est victime du biais de faux consensus, réalisant qu'il projette ses propres priorités sur les autres au lieu d'écouter leurs besoins réels. Il comprend que cette tendance à créer une fausse majorité autour de ses idées est le moteur de ses décisions impulsives et de ses erreurs passées.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-faux-consensus-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

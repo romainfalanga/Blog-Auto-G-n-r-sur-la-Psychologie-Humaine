@@ -5014,6 +5014,98 @@
       "elements_cles": "Usine (bureau), appartement neuf (solitude), Julie (collègue), Lucas (fils), Véronique (ex-femme), positions de vie (Analyse Transactionnelle), nappe phréatique invisible (métaphore du silence paternel).",
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-26",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de faux consensus",
+      "contexte": "en situation de conflit",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "contrôlant(e)",
+      "prenom": "Karim",
+      "age": "40 ans",
+      "title": "Biais de faux consensus en situation de conflit : comment il s’immisce",
+      "slug": "biais-faux-consensus-conflit",
+      "tags": [
+        "biais cognitif",
+        "conflit",
+        "gestion du contrôle",
+        "psychologie",
+        "prise de décision"
+      ],
+      "resume_narratif": "Karim est en plein conflit avec sa compagne Sofia et son associé Romain, car il impose ses choix professionnels au détriment de sa vie familiale et de la prudence financière. Persuadé que tout le monde valide sa vision, il ignore les signes d'épuisement de ses proches et les mises en garde sur la trésorerie de son entreprise.",
+      "evolution": "Karim prend conscience qu'il est victime du biais de faux consensus, réalisant qu'il projette ses propres priorités sur les autres au lieu d'écouter leurs besoins réels. Il comprend que cette tendance à créer une fausse majorité autour de ses idées est le moteur de ses décisions impulsives et de ses erreurs passées.",
+      "elements_cles": "Sofia (compagne), Romain (associé), enfants (Amine, Lina, Sami), restaurant/PME, conflit sur l'expansion et la trésorerie, souvenir de l'échec à Marseille, biais de faux consensus.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-26",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "granularité émotionnelle",
+      "contexte": "en couple",
+      "angle": "3 techniques/exercices pratiques",
+      "profil": "dépendant(e) affectif(ve)",
+      "prenom": "Youssef",
+      "age": "29 ans",
+      "title": "Granularité émotionnelle en couple : mieux nommer pour s'aimer",
+      "slug": "granularite-emotionnelle-en-couple-comprendre-ressentis",
+      "tags": [
+        "intelligence émotionnelle",
+        "vie de couple",
+        "alexithymie",
+        "psychologie positive",
+        "bien-être relationnel"
+      ],
+      "resume_narratif": "En arrêt pour épuisement professionnel, Youssef partage un moment de tension silencieuse avec sa compagne Léa dans leur appartement. Confronté à son incapacité habituelle à exprimer son ressenti au-delà d'un simple « bof », il tente de décomposer son malaise intérieur pour sortir de son mutisme habituel.",
+      "evolution": "Youssef prend conscience que son héritage paternel rigide et son alexithymie l'ont poussé à intellectualiser ses émotions par les chiffres. Il comprend que développer sa granularité émotionnelle est essentiel pour ne plus se murer dans le silence et pour se reconnecter réellement à Léa.",
+      "elements_cles": {
+        "personnages": [
+          "Youssef",
+          "Léa",
+          "Hamid (le père)"
+        ],
+        "lieux": [
+          "Appartement actuel",
+          "Canal de l'Ourcq (passé)",
+          "Lyon (projet de déménagement)"
+        ],
+        "concepts_et_techniques": [
+          "Granularité émotionnelle",
+          "Alexithymie",
+          "Passage de la vision noir et blanc à la haute définition émotionnelle"
+        ],
+        "contexte_professionnel": "Ingénieur en arrêt pour épuisement professionnel"
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-26",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "déni",
+      "contexte": "après un échec",
+      "angle": "pourquoi ça empire avec le temps si on ne fait rien",
+      "profil": "perfectionniste",
+      "prenom": "Adrien",
+      "age": "31 ans",
+      "title": "Déni après un échec : comprendre ce mécanisme pour avancer",
+      "slug": "deni-apres-un-echec-comprendre-et-agir",
+      "tags": [
+        "déni",
+        "échec professionnel",
+        "psychologie",
+        "perfectionnisme",
+        "Adrien"
+      ],
+      "resume_narratif": "Après avoir essuyé un refus froid pour un appel d'offres de cosmétiques éthiques, Adrien s'installe au canal Saint-Martin et feint la normalité auprès de sa sœur Charlotte. Il s'enferme dans une routine de tâches techniques stériles pour masquer son incapacité totale à dessiner et son refus d'affronter cet échec.",
+      "evolution": "Adrien bascule dans un mécanisme de déni protecteur, utilisant la rationalisation et l'évitement proactif pour ne pas admettre que ce rejet professionnel réveille son sentiment d'incompétence.",
+      "elements_cles": "Canal Saint-Martin, dimanche 26 avril 2026 ; Charlotte (sœur) ; Antoine (référence passée) ; tablette graphique et stylet immobile ; carnet de notes sur les biais de négativité (fermé) ; classement obsessionnel de calques.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

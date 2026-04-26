@@ -1,14 +1,14 @@
 ---
 title: "Youssef"
-date: 2026-04-25T04:58:02+00:00
+date: 2026-04-26T05:28:36+00:00
 description: "Youssef est ingénieur en informatique, actuellement en arrêt pour épuisement professionnel. En couple avec Léa, il envisage une reconversion dans le conseil en éthique numérique malgré ses blocages."
 slug: "youssef"
 prenom: "Youssef"
 date_naissance: "1996-08-14"
 profession: "Ingénieur en informatique (actuellement en arrêt pour épuisement professionnel)"
 situation: "En couple avec léa, vit en appartement"
-nb_articles: 8
-weight: 7
+nb_articles: 9
+weight: 2
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Youssef identifie que son blocage est cognitif : il réalise qu'il utilise le biais de représentativité pour juger sa propre viabilité professionnelle en se basant sur des clichés plutôt que sur ses compétences réelles.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-representativite-decision-importante-youssef/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/granularite-emotionnelle-en-couple-comprendre-ressentis/">Granularité émotionnelle en couple : mieux nommer pour s'aimer</a></h3>
+    <div class="parcours-date">2026-04-26</div>
+    <p class="parcours-resume">En arrêt pour épuisement professionnel, Youssef partage un moment de tension silencieuse avec sa compagne Léa dans leur appartement. Confronté à son incapacité habituelle à exprimer son ressenti au-delà d'un simple « bof », il tente de décomposer son malaise intérieur pour sortir de son mutisme habituel.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Youssef prend conscience que son héritage paternel rigide et son alexithymie l'ont poussé à intellectualiser ses émotions par les chiffres. Il comprend que développer sa granularité émotionnelle est essentiel pour ne plus se murer dans le silence et pour se reconnecter réellement à Léa.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/granularite-emotionnelle-en-couple-comprendre-ressentis/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -1368,6 +1368,17 @@
           "resume_narratif": "Adrien, en pleine reconversion après un burn-out, observe avec amertume son ancienne agence depuis le square du Temple. Marqué par l'échec récent d'un appel d'offres face à son ancienne collègue Julie, il sombre dans un cynisme qui paralyse sa créativité et le pousse à s'isoler de ses proches.",
           "evolution": "Il identifie son amertume comme un mécanisme de défense protégeant son estime de soi, mais réalise que ce sentiment transforme sa lucidité en un poison qui sabote ses opportunités professionnelles et sociales.",
           "elements_cles": "Square du Temple (Paris) ; Julie (ancienne collègue) ; Marina (ex-compagne) ; Julien et Charlotte (entourage) ; carnet de croquis ; échec de l'appel d'offres cosmétiques ; concept de trouble de l'amertume post-traumatique."
+        },
+        {
+          "date": "2026-04-26",
+          "sujet": "déni",
+          "contexte": "après un échec",
+          "category": "cat3_schemas",
+          "titre": "Déni après un échec : comprendre ce mécanisme pour avancer",
+          "slug": "deni-apres-un-echec-comprendre-et-agir",
+          "resume_narratif": "Après avoir essuyé un refus froid pour un appel d'offres de cosmétiques éthiques, Adrien s'installe au canal Saint-Martin et feint la normalité auprès de sa sœur Charlotte. Il s'enferme dans une routine de tâches techniques stériles pour masquer son incapacité totale à dessiner et son refus d'affronter cet échec.",
+          "evolution": "Adrien bascule dans un mécanisme de déni protecteur, utilisant la rationalisation et l'évitement proactif pour ne pas admettre que ce rejet professionnel réveille son sentiment d'incompétence.",
+          "elements_cles": "Canal Saint-Martin, dimanche 26 avril 2026 ; Charlotte (sœur) ; Antoine (référence passée) ; tablette graphique et stylet immobile ; carnet de notes sur les biais de négativité (fermé) ; classement obsessionnel de calques."
         }
       ],
       "genre": "M",
@@ -1839,6 +1850,34 @@
           "resume_narratif": "En arrêt pour épuisement professionnel, Youssef hésite entre un poste sécurisant en banque et son projet de conseil en éthique numérique lors d'un footing au canal de l'Ourcq. En observant des entrepreneurs en terrasse, il se sent illégitime car il ne correspond pas au stéréotype de l'extraverti sûr de lui.",
           "evolution": "Youssef identifie que son blocage est cognitif : il réalise qu'il utilise le biais de représentativité pour juger sa propre viabilité professionnelle en se basant sur des clichés plutôt que sur ses compétences réelles.",
           "elements_cles": "Canal de l'Ourcq ; Hamid (son père) ; Léa (interlocutrice précédente) ; projet de conseil en éthique numérique ; carnet de notes ; tendance à la rigidité (alignement des jouets de son neveu)."
+        },
+        {
+          "date": "2026-04-26",
+          "sujet": "granularité émotionnelle",
+          "contexte": "en couple",
+          "category": "cat2_emotions",
+          "titre": "Granularité émotionnelle en couple : mieux nommer pour s'aimer",
+          "slug": "granularite-emotionnelle-en-couple-comprendre-ressentis",
+          "resume_narratif": "En arrêt pour épuisement professionnel, Youssef partage un moment de tension silencieuse avec sa compagne Léa dans leur appartement. Confronté à son incapacité habituelle à exprimer son ressenti au-delà d'un simple « bof », il tente de décomposer son malaise intérieur pour sortir de son mutisme habituel.",
+          "evolution": "Youssef prend conscience que son héritage paternel rigide et son alexithymie l'ont poussé à intellectualiser ses émotions par les chiffres. Il comprend que développer sa granularité émotionnelle est essentiel pour ne plus se murer dans le silence et pour se reconnecter réellement à Léa.",
+          "elements_cles": {
+            "personnages": [
+              "Youssef",
+              "Léa",
+              "Hamid (le père)"
+            ],
+            "lieux": [
+              "Appartement actuel",
+              "Canal de l'Ourcq (passé)",
+              "Lyon (projet de déménagement)"
+            ],
+            "concepts_et_techniques": [
+              "Granularité émotionnelle",
+              "Alexithymie",
+              "Passage de la vision noir et blanc à la haute définition émotionnelle"
+            ],
+            "contexte_professionnel": "Ingénieur en arrêt pour épuisement professionnel"
+          }
         }
       ],
       "genre": "M",
@@ -2721,6 +2760,17 @@
               "Console de jeux coûteuse"
             ]
           }
+        },
+        {
+          "date": "2026-04-26",
+          "sujet": "biais de faux consensus",
+          "contexte": "en situation de conflit",
+          "category": "cat1_pensees",
+          "titre": "Biais de faux consensus en situation de conflit : comment il s’immisce",
+          "slug": "biais-faux-consensus-conflit",
+          "resume_narratif": "Karim est en plein conflit avec sa compagne Sofia et son associé Romain, car il impose ses choix professionnels au détriment de sa vie familiale et de la prudence financière. Persuadé que tout le monde valide sa vision, il ignore les signes d'épuisement de ses proches et les mises en garde sur la trésorerie de son entreprise.",
+          "evolution": "Karim prend conscience qu'il est victime du biais de faux consensus, réalisant qu'il projette ses propres priorités sur les autres au lieu d'écouter leurs besoins réels. Il comprend que cette tendance à créer une fausse majorité autour de ses idées est le moteur de ses décisions impulsives et de ses erreurs passées.",
+          "elements_cles": "Sofia (compagne), Romain (associé), enfants (Amine, Lina, Sami), restaurant/PME, conflit sur l'expansion et la trésorerie, souvenir de l'échec à Marseille, biais de faux consensus."
         }
       ],
       "genre": "M",
