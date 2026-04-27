@@ -1,14 +1,14 @@
 ---
 title: "Monique"
-date: 2026-04-26T05:28:36+00:00
+date: 2026-04-27T05:47:36+00:00
 description: "Monique est retraitée, ancienne professeure de français. Veuve depuis 3 ans, elle entame une nouvelle relation avec Jacques, un ancien collègue."
 slug: "monique"
 prenom: "Monique"
 date_naissance: "1964-01-30"
 profession: "Retraitée, ancienne professeure de français"
 situation: "Veuve, entame une nouvelle relation avec jacques"
-nb_articles: 8
-weight: 12
+nb_articles: 9
+weight: 5
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Monique prend conscience que son immobilisme n'est pas rationnel mais dicté par un biais de normalité qui transforme son habitude de la solitude en une zone de sécurité illusoire. Elle réalise qu'elle invente des obstacles logiques pour masquer sa peur du changement.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-normalite-decision-importante-monique/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/loyautes-invisibles-boszormenyi-nagy-fetes-famille/">Comprendre les loyautés invisibles en période de fêtes</a></h3>
+    <div class="parcours-date">2026-04-27</div>
+    <p class="parcours-resume">Monique organise un déjeuner de printemps dans sa maison de l'Oise pour présenter son nouveau compagnon, Jacques, à ses enfants Isabelle et François. Malgré l'ambiance chaleureuse, elle est assaillie par un sentiment de culpabilité et de trahison envers son défunt mari, Jean-Claude, et ses parents décédés.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Monique prend conscience que son malaise provient de 'loyautés invisibles', une comptabilité inconsciente qui la pousse à s'interdire le bonheur pour rester fidèle aux sacrifices et à la rigueur de ses ancêtres.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/loyautes-invisibles-boszormenyi-nagy-fetes-famille/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

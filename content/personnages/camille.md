@@ -1,14 +1,14 @@
 ---
 title: "Camille"
-date: 2026-04-26T05:28:36+00:00
+date: 2026-04-27T05:47:36+00:00
 description: "Camille est infirmière en service de cardiologie. Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)."
 slug: "camille"
 prenom: "Camille"
 date_naissance: "1984-03-05"
 profession: "Infirmière en service de cardiologie"
 situation: "Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)"
-nb_articles: 8
-weight: 5
+nb_articles: 9
+weight: 1
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Camille identifie son mécanisme de défense comme étant un déplacement émotionnel, comprenant qu'elle utilise son foyer comme exutoire pour ses frustrations hospitalières et son sentiment d'imposture. Elle prend conscience que son abnégation professionnelle, héritée de l'éducation de sa mère Françoise, sature son espace mental au détriment de sa famille.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/comprendre-le-deplacement-en-famille-guide-camille/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/auto-compassion-kristin-neff-en-famille/">Pratiquer l'auto-compassion (Kristin Neff) en famille</a></h3>
+    <div class="parcours-date">2026-04-27</div>
+    <p class="parcours-resume">Le lundi 27 avril 2026, Camille fait face à un incident matinal où son fils Léo renverse son bol de céréales dans la cuisine. Malgré sa fatigue liée à son travail en cardiologie et la présence de son mari David et de sa fille Emma, elle parvient à ne pas céder à l'agacement habituel.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Camille a appris à remplacer son autocritique et son perfectionnisme hérité par l'auto-compassion, s'autorisant à être une mère imparfaite et fatiguée sans sombrer dans la culpabilité ou l'hypervigilance.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/auto-compassion-kristin-neff-en-famille/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -669,6 +669,37 @@
           "resume_narratif": "De retour d'une garde éprouvante en cardiologie, Camille décharge violemment son stress professionnel sur son fils Léo pour une simple paire de chaussures traînant dans le couloir. Sous les yeux de son mari David et de sa fille Emma, elle réalise que sa colère est disproportionnée et dirigée vers la mauvaise cible.",
           "evolution": "Camille identifie son mécanisme de défense comme étant un déplacement émotionnel, comprenant qu'elle utilise son foyer comme exutoire pour ses frustrations hospitalières et son sentiment d'imposture. Elle prend conscience que son abnégation professionnelle, héritée de l'éducation de sa mère Françoise, sature son espace mental au détriment de sa famille.",
           "elements_cles": "Service de cardiologie (lieu de travail), Léo (fils), Emma (fille), David (mari), Françoise (mère), Monsieur Laroche (patient), mécanisme de déplacement, sentiment d'imposture, antécédents de vulnérabilité au danger et de catastrophisation."
+        },
+        {
+          "date": "2026-04-27",
+          "sujet": "auto-compassion (Kristin Neff)",
+          "contexte": "en famille",
+          "category": "cat2_emotions",
+          "titre": "Pratiquer l'auto-compassion (Kristin Neff) en famille",
+          "slug": "auto-compassion-kristin-neff-en-famille",
+          "resume_narratif": "Le lundi 27 avril 2026, Camille fait face à un incident matinal où son fils Léo renverse son bol de céréales dans la cuisine. Malgré sa fatigue liée à son travail en cardiologie et la présence de son mari David et de sa fille Emma, elle parvient à ne pas céder à l'agacement habituel.",
+          "evolution": "Camille a appris à remplacer son autocritique et son perfectionnisme hérité par l'auto-compassion, s'autorisant à être une mère imparfaite et fatiguée sans sombrer dans la culpabilité ou l'hypervigilance.",
+          "elements_cles": {
+            "personnages": [
+              "Camille (soignante en cardiologie)",
+              "Léo (fils)",
+              "Emma (fille de 7 ans)",
+              "David (mari)",
+              "Françoise (mère de Camille)"
+            ],
+            "lieux": [
+              "Cuisine familiale",
+              "Service de cardiologie (lieu de travail)"
+            ],
+            "contexte_temporel": "27 avril 2026",
+            "techniques_et_concepts": [
+              "Auto-compassion de Kristin Neff",
+              "Pleine conscience",
+              "Humanité commune",
+              "Bienveillance envers soi",
+              "Base de sécurité affective"
+            ]
+          }
         }
       ],
       "genre": "F",
@@ -1168,6 +1199,40 @@
           "resume_narratif": "Le 25 avril 2026 à Lyon, Nadia ressent un profond remords après avoir critiqué avec virulence l'éducation de sa fille Yasmine lors d'un dîner chez sa mère, Fatima. Seule dans sa voiture après son cours de pilates, elle prend conscience de la blessure infligée à sa mère et de sa tendance à reproduire des schémas de domination.",
           "evolution": "Nadia comprend que son exigence et son besoin de contrôle sont des armures héritées de son passé d'enfant parentifiée qui nuisent à ses relations. Elle réalise que le remords est un signal de ses valeurs profondes, l'incitant à privilégier la réparation émotionnelle plutôt que la perfection logistique.",
           "elements_cles": "Lyon (25 avril 2026), Fatima (mère), Yasmine (fille), Julie (assistante), passé d'enfant parentifiée, métier de directrice marketing, pratique du journaling, biais de contrôle, tendance à la sur-réparation matérielle."
+        },
+        {
+          "date": "2026-04-27",
+          "sujet": "illusion de transparence",
+          "contexte": "en société et dans les interactions sociales",
+          "category": "cat1_pensees",
+          "titre": "Illusion de transparence : pourquoi vos émotions sont invisibles",
+          "slug": "illusion-de-transparence-interactions-sociales-psychologie",
+          "resume_narratif": "Le 27 avril 2026, Nadia présente la nouvelle stratégie marketing devant le comité de direction. Malgré une panique intérieure intense et la certitude que son stress est visible par Julie et ses collègues, elle constate que son entourage reste neutre et attentif.",
+          "evolution": "Nadia commence à réaliser que son anxiété est une expérience privée invisible pour les autres, comprenant que son sentiment d'être une 'vitrine de verre' est une distorsion cognitive appelée l'illusion de transparence.",
+          "elements_cles": {
+            "personnages_mentionnes": [
+              "Fatima (mère)",
+              "Julie (assistante)",
+              "Antoine",
+              "Yasmine",
+              "Mathieu (DF)",
+              "Claire (ventes)"
+            ],
+            "lieux_et_evenements": [
+              "Salle de conférence",
+              "Dîner chez Fatima",
+              "Anniversaire de Yasmine"
+            ],
+            "details_physiques": [
+              "Blazer bleu nuit",
+              "Tremblement de la main droite",
+              "Besoin de contrôle millimétré"
+            ],
+            "contexte_professionnel": [
+              "Directrice marketing",
+              "Refus passé d'une opportunité de direction générale"
+            ]
+          }
         }
       ],
       "genre": "F",
@@ -2998,6 +3063,37 @@
               "Vente immobilière et vie commune",
               "Appel imminent à Geneviève pour refuser le projet"
             ]
+          }
+        },
+        {
+          "date": "2026-04-27",
+          "sujet": "loyautés invisibles (Boszormenyi-Nagy)",
+          "contexte": "en période de fêtes de famille",
+          "category": "cat3_schemas",
+          "titre": "Comprendre les loyautés invisibles en période de fêtes",
+          "slug": "loyautes-invisibles-boszormenyi-nagy-fetes-famille",
+          "resume_narratif": "Monique organise un déjeuner de printemps dans sa maison de l'Oise pour présenter son nouveau compagnon, Jacques, à ses enfants Isabelle et François. Malgré l'ambiance chaleureuse, elle est assaillie par un sentiment de culpabilité et de trahison envers son défunt mari, Jean-Claude, et ses parents décédés.",
+          "evolution": "Monique prend conscience que son malaise provient de 'loyautés invisibles', une comptabilité inconsciente qui la pousse à s'interdire le bonheur pour rester fidèle aux sacrifices et à la rigueur de ses ancêtres.",
+          "elements_cles": {
+            "lieux": [
+              "Maison dans l'Oise",
+              "Salon de thé (évoqué)",
+              "Port (évoqué)"
+            ],
+            "personnages": [
+              "Monique (ancienne institutrice)",
+              "Jacques (nouveau compagnon)",
+              "Jean-Claude (défunt mari)",
+              "Isabelle et François (enfants)",
+              "Lola (petite-fille)",
+              "Parents de Monique (décédés)"
+            ],
+            "objets_symboliques": [
+              "Collier de perles de sa mère",
+              "Recueil de poésie de Jacques",
+              "Couvert vide failli être dressé"
+            ],
+            "concept_psychologique": "Loyautés invisibles et enfant parentifié (Boszormenyi-Nagy)"
           }
         }
       ],

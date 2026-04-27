@@ -1,14 +1,14 @@
 ---
 title: "Nadia"
-date: 2026-04-26T05:28:36+00:00
+date: 2026-04-27T05:47:36+00:00
 description: "Nadia est directrice marketing dans une entreprise tech. En couple avec Antoine, elle est mère d'une fille (Yasmine, 8 ans) en garde alternée."
 slug: "nadia"
 prenom: "Nadia"
 date_naissance: "1987-05-18"
 profession: "Directrice marketing dans une entreprise tech"
 situation: "En couple avec antoine, mère d'une fille (yasmine, 8 ans), garde alternée"
-nb_articles: 8
-weight: 7
+nb_articles: 9
+weight: 2
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Nadia comprend que son exigence et son besoin de contrôle sont des armures héritées de son passé d'enfant parentifiée qui nuisent à ses relations. Elle réalise que le remords est un signal de ses valeurs profondes, l'incitant à privilégier la réparation émotionnelle plutôt que la perfection logistique.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/remords-en-famille-comprendre-et-agir/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/illusion-de-transparence-interactions-sociales-psychologie/">Illusion de transparence : pourquoi vos émotions sont invisibles</a></h3>
+    <div class="parcours-date">2026-04-27</div>
+    <p class="parcours-resume">Le 27 avril 2026, Nadia présente la nouvelle stratégie marketing devant le comité de direction. Malgré une panique intérieure intense et la certitude que son stress est visible par Julie et ses collègues, elle constate que son entourage reste neutre et attentif.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Nadia commence à réaliser que son anxiété est une expérience privée invisible pour les autres, comprenant que son sentiment d'être une 'vitrine de verre' est une distorsion cognitive appelée l'illusion de transparence.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/illusion-de-transparence-interactions-sociales-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

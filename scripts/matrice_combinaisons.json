@@ -5106,6 +5106,144 @@
       "elements_cles": "Canal Saint-Martin, dimanche 26 avril 2026 ; Charlotte (sœur) ; Antoine (référence passée) ; tablette graphique et stylet immobile ; carnet de notes sur les biais de négativité (fermé) ; classement obsessionnel de calques.",
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-27",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "illusion de transparence",
+      "contexte": "en société et dans les interactions sociales",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "timide",
+      "prenom": "Nadia",
+      "age": "38 ans",
+      "title": "Illusion de transparence : pourquoi vos émotions sont invisibles",
+      "slug": "illusion-de-transparence-interactions-sociales-psychologie",
+      "tags": [
+        "psychologie sociale",
+        "anxiété",
+        "communication",
+        "confiance en soi",
+        "biais cognitif"
+      ],
+      "resume_narratif": "Le 27 avril 2026, Nadia présente la nouvelle stratégie marketing devant le comité de direction. Malgré une panique intérieure intense et la certitude que son stress est visible par Julie et ses collègues, elle constate que son entourage reste neutre et attentif.",
+      "evolution": "Nadia commence à réaliser que son anxiété est une expérience privée invisible pour les autres, comprenant que son sentiment d'être une 'vitrine de verre' est une distorsion cognitive appelée l'illusion de transparence.",
+      "elements_cles": {
+        "personnages_mentionnes": [
+          "Fatima (mère)",
+          "Julie (assistante)",
+          "Antoine",
+          "Yasmine",
+          "Mathieu (DF)",
+          "Claire (ventes)"
+        ],
+        "lieux_et_evenements": [
+          "Salle de conférence",
+          "Dîner chez Fatima",
+          "Anniversaire de Yasmine"
+        ],
+        "details_physiques": [
+          "Blazer bleu nuit",
+          "Tremblement de la main droite",
+          "Besoin de contrôle millimétré"
+        ],
+        "contexte_professionnel": [
+          "Directrice marketing",
+          "Refus passé d'une opportunité de direction générale"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-27",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "auto-compassion (Kristin Neff)",
+      "contexte": "en famille",
+      "angle": "3 techniques/exercices pratiques",
+      "profil": "empathe",
+      "prenom": "Camille",
+      "age": "42 ans",
+      "title": "Pratiquer l'auto-compassion (Kristin Neff) en famille",
+      "slug": "auto-compassion-kristin-neff-en-famille",
+      "tags": [
+        "auto-compassion",
+        "parentalité",
+        "psychologie positive",
+        "charge mentale",
+        "émotions"
+      ],
+      "resume_narratif": "Le lundi 27 avril 2026, Camille fait face à un incident matinal où son fils Léo renverse son bol de céréales dans la cuisine. Malgré sa fatigue liée à son travail en cardiologie et la présence de son mari David et de sa fille Emma, elle parvient à ne pas céder à l'agacement habituel.",
+      "evolution": "Camille a appris à remplacer son autocritique et son perfectionnisme hérité par l'auto-compassion, s'autorisant à être une mère imparfaite et fatiguée sans sombrer dans la culpabilité ou l'hypervigilance.",
+      "elements_cles": {
+        "personnages": [
+          "Camille (soignante en cardiologie)",
+          "Léo (fils)",
+          "Emma (fille de 7 ans)",
+          "David (mari)",
+          "Françoise (mère de Camille)"
+        ],
+        "lieux": [
+          "Cuisine familiale",
+          "Service de cardiologie (lieu de travail)"
+        ],
+        "contexte_temporel": "27 avril 2026",
+        "techniques_et_concepts": [
+          "Auto-compassion de Kristin Neff",
+          "Pleine conscience",
+          "Humanité commune",
+          "Bienveillance envers soi",
+          "Base de sécurité affective"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-27",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "loyautés invisibles (Boszormenyi-Nagy)",
+      "contexte": "en période de fêtes de famille",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "ancien(ne) enfant parentifié(e)",
+      "prenom": "Monique",
+      "age": "62 ans",
+      "title": "Comprendre les loyautés invisibles en période de fêtes",
+      "slug": "loyautes-invisibles-boszormenyi-nagy-fetes-famille",
+      "tags": [
+        "psychologie",
+        "famille",
+        "héritage",
+        "Monique",
+        "relations"
+      ],
+      "resume_narratif": "Monique organise un déjeuner de printemps dans sa maison de l'Oise pour présenter son nouveau compagnon, Jacques, à ses enfants Isabelle et François. Malgré l'ambiance chaleureuse, elle est assaillie par un sentiment de culpabilité et de trahison envers son défunt mari, Jean-Claude, et ses parents décédés.",
+      "evolution": "Monique prend conscience que son malaise provient de 'loyautés invisibles', une comptabilité inconsciente qui la pousse à s'interdire le bonheur pour rester fidèle aux sacrifices et à la rigueur de ses ancêtres.",
+      "elements_cles": {
+        "lieux": [
+          "Maison dans l'Oise",
+          "Salon de thé (évoqué)",
+          "Port (évoqué)"
+        ],
+        "personnages": [
+          "Monique (ancienne institutrice)",
+          "Jacques (nouveau compagnon)",
+          "Jean-Claude (défunt mari)",
+          "Isabelle et François (enfants)",
+          "Lola (petite-fille)",
+          "Parents de Monique (décédés)"
+        ],
+        "objets_symboliques": [
+          "Collier de perles de sa mère",
+          "Recueil de poésie de Jacques",
+          "Couvert vide failli être dressé"
+        ],
+        "concept_psychologique": "Loyautés invisibles et enfant parentifié (Boszormenyi-Nagy)"
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }
