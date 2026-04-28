@@ -1,14 +1,14 @@
 ---
 title: "Patrick"
-date: 2026-04-27T05:47:36+00:00
+date: 2026-04-28T05:58:52+00:00
 description: "Patrick est chef d'équipe dans le BTP, marié et grand-père. Suite au décès récent de son père, il entame un cheminement sur sa vulnérabilité et sa résilience émotionnelle."
 slug: "patrick"
 prenom: "Patrick"
 date_naissance: "1969-10-28"
 profession: "Ancien ouvrier, maintenant chef d'équipe dans le btp"
 situation: "Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils, vient de perdre son père"
-nb_articles: 7
-weight: 16
+nb_articles: 8
+weight: 11
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Patrick commence à comprendre que la véritable force ne réside pas dans le refoulement ou l'armure de pierre héritée de son père, mais dans l'acceptation de sa propre vulnérabilité et la capacité à survivre à ses émotions.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/resilience-emotionnelle-lors-un-deuil-comprendre/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-de-leurre-face-au-vieillissement-quotidien/">Effet de leurre face au vieillissement : déjouer les pièges</a></h3>
+    <div class="parcours-date">2026-04-28</div>
+    <p class="parcours-resume">Le 28 avril 2026, Patrick se rend dans un magasin de bricolage pour rénover l'étagère de son petit-fils Léo tout en luttant contre une douleur lombaire persistante. Face à une publicité pour une salle de sport senior, il se retrouve confronté à trois offres tarifaires conçues pour déclencher l'effet de leurre.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Patrick passe d'une posture de force héritée de son père à une acceptation de sa vulnérabilité, ce qui lui permet de questionner ses automatismes de consommation au lieu de céder à une impulsion marketing.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-de-leurre-face-au-vieillissement-quotidien/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

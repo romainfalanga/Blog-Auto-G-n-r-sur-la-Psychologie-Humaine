@@ -5244,6 +5244,81 @@
       },
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-28",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet de leurre",
+      "contexte": "face au vieillissement",
+      "angle": "les conséquences sur votre vie quotidienne",
+      "profil": null,
+      "prenom": "Patrick",
+      "age": "56 ans",
+      "title": "Effet de leurre face au vieillissement : déjouer les pièges",
+      "slug": "effet-de-leurre-face-au-vieillissement-quotidien",
+      "tags": [
+        "effet de leurre",
+        "psychologie cognitive",
+        "vieillissement",
+        "prise de décision",
+        "bien-être senior"
+      ],
+      "resume_narratif": "Le 28 avril 2026, Patrick se rend dans un magasin de bricolage pour rénover l'étagère de son petit-fils Léo tout en luttant contre une douleur lombaire persistante. Face à une publicité pour une salle de sport senior, il se retrouve confronté à trois offres tarifaires conçues pour déclencher l'effet de leurre.",
+      "evolution": "Patrick passe d'une posture de force héritée de son père à une acceptation de sa vulnérabilité, ce qui lui permet de questionner ses automatismes de consommation au lieu de céder à une impulsion marketing.",
+      "elements_cles": "Lieu : magasin de bricolage en banlieue parisienne ; Personnages : Léo (petit-fils), Marcel (père décédé), Antoine (jeune ouvrier), Catherine ; Santé : décharge lombaire récente ; Concept : effet de leurre (offres à 40€, 75€ et 80€).",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-28",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "inadéquation",
+      "contexte": "à l'école ou aux études",
+      "angle": "les signes que vous êtes concerné(e)",
+      "profil": "haut potentiel intellectuel (HPI)",
+      "prenom": "Mei",
+      "age": "22 ans",
+      "title": "Inadéquation à l'école ou aux études : comprendre ce décalage",
+      "slug": "sentiment-inadequation-ecole-etudes-hpi",
+      "tags": [
+        "inadéquation",
+        "haut potentiel",
+        "psychologie",
+        "études supérieures",
+        "émotions"
+      ],
+      "resume_narratif": "Mei se trouve dans son atelier d'école d'art le 28 avril 2026, où elle ressent un profond sentiment de décalage face à ses camarades comme Océane. Elle repense à son dîner de la veille avec Julien, constatant l'écart entre sa pensée complexe et la simplicité linéaire de son entourage.",
+      "evolution": "Mei identifie que son malaise n'est plus une peur du regard des autres (effet spotlight), mais une fatigue structurelle liée à la nécessité de traduire constamment sa pensée en arborescence pour s'adapter à la norme.",
+      "elements_cles": "Atelier d'école d'art ; mèche bleue ; Julien (petit-ami en gestion) ; Océane (étudiante) ; M. Dubois (professeur) ; Li et Wei (famille) ; pensée en arborescence ; fatigue sociale.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-28",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "rationalisation",
+      "contexte": "avec ses parents",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": "ancien(ne) enfant parentifié(e)",
+      "prenom": "Stéphane",
+      "age": "46 ans",
+      "title": "Rationalisation avec ses parents : pourquoi et comment s'en libérer",
+      "slug": "rationalisation-avec-ses-parents",
+      "tags": [
+        "rationalisation",
+        "parentification",
+        "schémas répétitifs",
+        "famille",
+        "psychologie"
+      ],
+      "resume_narratif": "Le 28 avril 2026, Stéphane, 46 ans, rend visite à ses parents pour un déjeuner familial. Malgré son succès professionnel apparent, il utilise la rationalisation pour masquer son stress au travail et ses tensions familiales, notamment concernant son fils Maxime et son frère Philippe.",
+      "evolution": "Stéphane prend conscience que ses justifications automatiques sont un mécanisme de défense hérité de son passé d'enfant parentifié. Il réalise qu'il édulcore la vérité pour maintenir la paix familiale et protéger son image, au détriment d'une expression authentique de ses besoins.",
+      "elements_cles": "Parents de Stéphane ; Maxime (fils) ; Philippe (frère) ; concept de rationalisation et dissonance cognitive ; passé d'enfant parentifié ; mention du cocktail de networking de mars et du plan Lemoine ; évitement d'une invitation de vacances chez Philippe.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

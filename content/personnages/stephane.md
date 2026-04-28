@@ -1,14 +1,14 @@
 ---
 title: "Stéphane"
-date: 2026-04-27T05:47:36+00:00
+date: 2026-04-28T05:58:52+00:00
 description: "Stéphane est commercial grands comptes dans une multinationale. Marié à sandrine, père d'un adolescent (maxime, 15 ans)."
 slug: "stephane"
 prenom: "Stéphane"
 date_naissance: "1980-04-25"
 profession: "Commercial grands comptes dans une multinationale"
 situation: "Marié à sandrine, père d'un adolescent (maxime, 15 ans)"
-nb_articles: 7
-weight: 18
+nb_articles: 8
+weight: 15
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Stéphane est en proie à l'effet IKEA : il confond l'effort fourni avec la qualité de son projet, ce qui le rend hermétique aux conseils extérieurs et aveugle face aux failles de son plan. Il n'a pas encore réussi à prendre la distance nécessaire pour accepter la critique constructive.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-ikea-decision-importante-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/rationalisation-avec-ses-parents/">Rationalisation avec ses parents : pourquoi et comment s'en libérer</a></h3>
+    <div class="parcours-date">2026-04-28</div>
+    <p class="parcours-resume">Le 28 avril 2026, Stéphane, 46 ans, rend visite à ses parents pour un déjeuner familial. Malgré son succès professionnel apparent, il utilise la rationalisation pour masquer son stress au travail et ses tensions familiales, notamment concernant son fils Maxime et son frère Philippe.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Stéphane prend conscience que ses justifications automatiques sont un mécanisme de défense hérité de son passé d'enfant parentifié. Il réalise qu'il édulcore la vérité pour maintenir la paix familiale et protéger son image, au détriment d'une expression authentique de ses besoins.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/rationalisation-avec-ses-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

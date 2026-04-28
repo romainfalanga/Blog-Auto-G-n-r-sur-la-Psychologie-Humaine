@@ -1,14 +1,14 @@
 ---
 title: "Mei"
-date: 2026-04-27T05:47:36+00:00
+date: 2026-04-28T05:58:52+00:00
 description: "Mei est étudiante en école d'art, spécialité illustration. Elle est en couple avec Julien depuis un mois et vit en résidence étudiante."
 slug: "mei"
 prenom: "Mei"
 date_naissance: "2003-07-02"
 profession: "Étudiante en école d'art, spécialité illustration"
 situation: "En couple avec julien depuis un mois, vit en résidence étudiante"
-nb_articles: 7
-weight: 19
+nb_articles: 8
+weight: 18
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Mei prend conscience de l'effet de simple exposition et comprend que sa perception de son propre art et de ses goûts est polluée par la saturation visuelle des algorithmes. Elle décide de poser son téléphone pour reprendre le contrôle sur ses véritables aspirations et son style décalé.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-simple-exposition-reseaux-sociaux-mei/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/sentiment-inadequation-ecole-etudes-hpi/">Inadéquation à l'école ou aux études : comprendre ce décalage</a></h3>
+    <div class="parcours-date">2026-04-28</div>
+    <p class="parcours-resume">Mei se trouve dans son atelier d'école d'art le 28 avril 2026, où elle ressent un profond sentiment de décalage face à ses camarades comme Océane. Elle repense à son dîner de la veille avec Julien, constatant l'écart entre sa pensée complexe et la simplicité linéaire de son entourage.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Mei identifie que son malaise n'est plus une peur du regard des autres (effet spotlight), mais une fatigue structurelle liée à la nécessité de traduire constamment sa pensée en arborescence pour s'adapter à la norme.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/sentiment-inadequation-ecole-etudes-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
