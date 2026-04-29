@@ -5319,6 +5319,143 @@
       "elements_cles": "Parents de Stéphane ; Maxime (fils) ; Philippe (frère) ; concept de rationalisation et dissonance cognitive ; passé d'enfant parentifié ; mention du cocktail de networking de mars et du plan Lemoine ; évitement d'une invitation de vacances chez Philippe.",
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-29",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet bandwagon",
+      "contexte": "en amitié",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "people pleaser (celui/celle qui veut plaire à tout le monde)",
+      "prenom": "Lucas",
+      "age": "25 ans",
+      "title": "Effet bandwagon en amitié : pourquoi tu te laisses entraîner",
+      "slug": "effet-bandwagon-amitie",
+      "tags": [
+        "effet bandwagon",
+        "conformité sociale",
+        "people pleaser",
+        "amitié",
+        "psychologie"
+      ],
+      "resume_narratif": "Lucas, étudiant de 25 ans vivant en colocation avec Maxime et Romain, reçoit une proposition de sortie groupée sur son téléphone alors qu'il est dans le métro. Malgré la pression de son mémoire et ses contraintes financières, il lutte contre son réflexe habituel d'acquiescement social pour ne pas décevoir ses amis. Il finit par envoyer un message d'hésitation assumée au lieu de son 'oui' automatique habituel.",
+      "evolution": "Lucas a réussi à identifier l'effet bandwagon qui transforme ses désirs en réflexes collectifs et a testé pour la première fois une technique de 'pseudo-décision'. Il commence à lier son besoin de conformité à son syndrome de l'imposteur et à son milieu social modeste.",
+      "elements_cles": {
+        "personnages": [
+          "Maxime (colocataire)",
+          "Romain (ami aisé)",
+          "Sandrine et Jean-Marc (parents)"
+        ],
+        "contexte_professionnel": [
+          "Stage à La Défense",
+          "Mémoire avec structure complexe",
+          "Tuteur critique"
+        ],
+        "techniques_et_passé": [
+          "Effet spotlight",
+          "Respiration consciente",
+          "Pseudo-décision (message neutre/différé)"
+        ],
+        "lieux": [
+          "Métro/Wagon",
+          "Colocation"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-29",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "accablement",
+      "contexte": "en période de reconversion professionnelle",
+      "angle": "les signes que vous êtes concerné(e)",
+      "profil": "en burn-out",
+      "prenom": "Thomas",
+      "age": "34 ans",
+      "title": "Accablement et reconversion : comment sortir de l'impasse ?",
+      "slug": "accablement-en-periode-de-reconversion-professionnelle",
+      "tags": [
+        "accablement",
+        "reconversion professionnelle",
+        "burnout",
+        "psychologie",
+        "santé mentale"
+      ],
+      "resume_narratif": "Thomas, en pleine reconversion dans l'édition à Lyon, se sent totalement paralysé par l'accablement dans son nouvel appartement avec Émilie. Entre ses cartons non déballés et ses copies de lycéens non corrigées, il est incapable de répondre aux sollicitations de sa collègue Valérie ou de rassurer sa compagne sur l'avancée de son portfolio.",
+      "evolution": "Thomas prend conscience que son épuisement n'est pas une simple fatigue, mais une saturation de son système nerveux liée à son rôle historique de 'sauveur' et à une peur viscérale de l'échec. Il commence à comprendre que sa paralysie décisionnelle est un mécanisme de protection face à la surcharge émotionnelle de sa transition professionnelle.",
+      "elements_cles": {
+        "lieux": [
+          "Lyon",
+          "nouvel appartement"
+        ],
+        "personnages": [
+          "Émilie (compagne)",
+          "Valérie (collègue)",
+          "Antoine (ami du déménagement)",
+          "Julie (élève)"
+        ],
+        "contexte_professionnel": [
+          "Enseignant d'histoire-géographie",
+          "Projet de reconversion dans l'édition"
+        ],
+        "techniques_et_concepts": [
+          "Accablement",
+          "Impuissance apprise",
+          "Technique du découpage atomique"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-29",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "les états du Moi (Parent, Adulte, Enfant)",
+      "contexte": "en situation de conflit",
+      "angle": "le témoignage (raconter l'histoire d'un personnage qui s'en sort)",
+      "profil": "survivant(e) de relation toxique",
+      "prenom": "Hugo",
+      "age": "27 ans",
+      "title": "Comprendre les états du Moi en situation de conflit",
+      "slug": "etats-du-moi-conflit-hugo",
+      "tags": [
+        "états du Moi",
+        "relation toxique",
+        "communication",
+        "analyse transactionnelle",
+        "rupture"
+      ],
+      "resume_narratif": "Hugo se rend à son studio de répétition pour une confrontation imminente avec son ex-compagne, Chloé, sous le regard de son frère jumeau Théo. Il utilise ses connaissances sur les états du Moi pour analyser ses réactions passées, notamment ses conflits avec son ami Samba et ses comportements au bar.",
+      "evolution": "Hugo parvient à identifier comment son 'Parent critique' (hérité de son père Alain) et son 'Enfant blessé' sabotent ses relations. Il décide d'aborder cette discussion en essayant de mobiliser son état 'Adulte' pour sortir de ses schémas de répétition.",
+      "elements_cles": {
+        "lieux": [
+          "Studio de répétition",
+          "Banc du parc (début mars)",
+          "Bar"
+        ],
+        "personnages": [
+          "Chloé (ex-compagne)",
+          "Théo (frère jumeau)",
+          "Samba (ami musicien)",
+          "Alain (père)"
+        ],
+        "evenements_passes": [
+          "Rupture",
+          "Sabotage de la répétition du 2 avril",
+          "Service au bar conflictuel"
+        ],
+        "techniques": [
+          "Analyse transactionnelle (Parent, Adulte, Enfant)",
+          "Repérage des montées émotionnelles",
+          "Identification de l'idéalisation/dévaluation"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

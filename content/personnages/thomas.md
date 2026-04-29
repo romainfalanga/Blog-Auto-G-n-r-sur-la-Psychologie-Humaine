@@ -1,14 +1,14 @@
 ---
 title: "Thomas"
-date: 2026-04-28T05:58:52+00:00
-description: "Thomas est enseignant d'histoire-géographie au lycée. En couple avec Émilie, il vient de déménager dans un nouvel appartement à Lyon tout en poursuivant sa réflexion sur la parentalité."
+date: 2026-04-29T05:40:52+00:00
+description: "Thomas est enseignant d'histoire-géographie en pleine crise d'épuisement alors qu'il tente de se reconvertir dans l'édition. En couple avec Émilie à Lyon, il se sent submergé par la peur de l'échec et son rôle de 'sauveur'."
 slug: "thomas"
 prenom: "Thomas"
 date_naissance: "1992-02-22"
-profession: "Enseignant d'histoire-géographie au lycée"
-situation: "En couple avec émilie, vient de déménager dans un nouvel appartement à lyon"
-nb_articles: 8
-weight: 7
+profession: "Enseignant d'histoire-géographie au lycée (en projet de reconversion dans l'édition)"
+situation: "En couple avec émilie à lyon, traverse une phase d'épuisement émotionnel et de paralysie décisionnelle"
+nb_articles: 9
+weight: 1
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Thomas prend conscience que son besoin de validation et sa peur du conflit le poussent à l'autocensure et à la pensée de groupe, l'empêchant d'exercer son rôle de manager avec intégrité.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/pensee-de-groupe-en-tant-que-manager-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/accablement-en-periode-de-reconversion-professionnelle/">Accablement et reconversion : comment sortir de l'impasse ?</a></h3>
+    <div class="parcours-date">2026-04-29</div>
+    <p class="parcours-resume">Thomas, en pleine reconversion dans l'édition à Lyon, se sent totalement paralysé par l'accablement dans son nouvel appartement avec Émilie. Entre ses cartons non déballés et ses copies de lycéens non corrigées, il est incapable de répondre aux sollicitations de sa collègue Valérie ou de rassurer sa compagne sur l'avancée de son portfolio.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Thomas prend conscience que son épuisement n'est pas une simple fatigue, mais une saturation de son système nerveux liée à son rôle historique de 'sauveur' et à une peur viscérale de l'échec. Il commence à comprendre que sa paralysie décisionnelle est un mécanisme de protection face à la surcharge émotionnelle de sa transition professionnelle.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/accablement-en-periode-de-reconversion-professionnelle/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

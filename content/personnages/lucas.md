@@ -1,14 +1,14 @@
 ---
 title: "Lucas"
-date: 2026-04-28T05:58:52+00:00
+date: 2026-04-29T05:40:52+00:00
 description: "Lucas est étudiant en dernière année d'école de commerce, en stage. Célibataire, en colocation avec deux amis."
 slug: "lucas"
 prenom: "Lucas"
 date_naissance: "2001-04-10"
 profession: "Étudiant en dernière année d'école de commerce, en stage"
 situation: "Célibataire, en colocation avec deux amis"
-nb_articles: 8
-weight: 8
+nb_articles: 9
+weight: 3
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Lucas prend conscience de son incapacité à trancher face à une opportunité évidente, réalisant que sa peur de la perte surpasse son ambition. Il lutte contre son syndrome de l'imposteur et son besoin de contrôle, restant pour l'instant bloqué dans le statu quo.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-dotation-decision-importante-lucas/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-bandwagon-amitie/">Effet bandwagon en amitié : pourquoi tu te laisses entraîner</a></h3>
+    <div class="parcours-date">2026-04-29</div>
+    <p class="parcours-resume">Lucas, étudiant de 25 ans vivant en colocation avec Maxime et Romain, reçoit une proposition de sortie groupée sur son téléphone alors qu'il est dans le métro. Malgré la pression de son mémoire et ses contraintes financières, il lutte contre son réflexe habituel d'acquiescement social pour ne pas décevoir ses amis. Il finit par envoyer un message d'hésitation assumée au lieu de son 'oui' automatique habituel.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Lucas a réussi à identifier l'effet bandwagon qui transforme ses désirs en réflexes collectifs et a testé pour la première fois une technique de 'pseudo-décision'. Il commence à lier son besoin de conformité à son syndrome de l'imposteur et à son milieu social modeste.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-bandwagon-amitie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

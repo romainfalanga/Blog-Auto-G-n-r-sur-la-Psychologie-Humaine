@@ -213,8 +213,8 @@
       "prenom": "Thomas",
       "age": 34,
       "tranche_age": "adulte en construction (26-35 ans)",
-      "profession": "enseignant d'histoire-géographie au lycée",
-      "situation_familiale": "en couple avec Émilie, vient de déménager dans un nouvel appartement à Lyon",
+      "profession": "enseignant d'histoire-géographie au lycée (en projet de reconversion dans l'édition)",
+      "situation_familiale": "en couple avec Émilie à Lyon, traverse une phase d'épuisement émotionnel et de paralysie décisionnelle",
       "traits_personnalite": [
         "empathique",
         "people pleaser",
@@ -428,11 +428,42 @@
           "resume_narratif": "Lors d'une réunion pédagogique au lycée, Thomas, coordinateur de niveau, se retrouve confronté à la pression de Valérie qui souhaite supprimer un voyage scolaire en Provence. Malgré ses doutes intérieurs, il lutte contre son envie de s'effacer pour maintenir l'harmonie du groupe, faisant écho à ses difficultés personnelles récentes avec Émilie.",
           "evolution": "Thomas prend conscience que son besoin de validation et sa peur du conflit le poussent à l'autocensure et à la pensée de groupe, l'empêchant d'exercer son rôle de manager avec intégrité.",
           "elements_cles": "Lycée (salle de réunion), Valérie (collègue influente), Émilie (compagne), projet de voyage en Provence, appartement à Lyon, antécédents de passivité avec Julie et Antoine, concept de pensée de groupe (Irving Janis)."
+        },
+        {
+          "date": "2026-04-29",
+          "sujet": "accablement",
+          "contexte": "en période de reconversion professionnelle",
+          "category": "cat2_emotions",
+          "titre": "Accablement et reconversion : comment sortir de l'impasse ?",
+          "slug": "accablement-en-periode-de-reconversion-professionnelle",
+          "resume_narratif": "Thomas, en pleine reconversion dans l'édition à Lyon, se sent totalement paralysé par l'accablement dans son nouvel appartement avec Émilie. Entre ses cartons non déballés et ses copies de lycéens non corrigées, il est incapable de répondre aux sollicitations de sa collègue Valérie ou de rassurer sa compagne sur l'avancée de son portfolio.",
+          "evolution": "Thomas prend conscience que son épuisement n'est pas une simple fatigue, mais une saturation de son système nerveux liée à son rôle historique de 'sauveur' et à une peur viscérale de l'échec. Il commence à comprendre que sa paralysie décisionnelle est un mécanisme de protection face à la surcharge émotionnelle de sa transition professionnelle.",
+          "elements_cles": {
+            "lieux": [
+              "Lyon",
+              "nouvel appartement"
+            ],
+            "personnages": [
+              "Émilie (compagne)",
+              "Valérie (collègue)",
+              "Antoine (ami du déménagement)",
+              "Julie (élève)"
+            ],
+            "contexte_professionnel": [
+              "Enseignant d'histoire-géographie",
+              "Projet de reconversion dans l'édition"
+            ],
+            "techniques_et_concepts": [
+              "Accablement",
+              "Impuissance apprise",
+              "Technique du découpage atomique"
+            ]
+          }
         }
       ],
       "genre": "M",
       "date_naissance": "1992-02-22",
-      "description_dynamique": "Thomas est enseignant d'histoire-géographie au lycée. En couple avec Émilie, il vient de déménager dans un nouvel appartement à Lyon tout en poursuivant sa réflexion sur la parentalité."
+      "description_dynamique": "Thomas est enseignant d'histoire-géographie en pleine crise d'épuisement alors qu'il tente de se reconvertir dans l'édition. En couple avec Émilie à Lyon, il se sent submergé par la peur de l'échec et son rôle de 'sauveur'."
     },
     {
       "id": "camille",
@@ -949,6 +980,37 @@
           "resume_narratif": "Lucas reçoit une offre d'emploi prestigieuse à Lyon, mais hésite à quitter son stage actuel à Paris malgré les conditions médiocres. En pleine colocation avec Maxime, il se sent paralysé par l'idée d'abandonner ses dossiers et ses habitudes, illustrant son attachement irrationnel à sa situation présente.",
           "evolution": "Lucas prend conscience de son incapacité à trancher face à une opportunité évidente, réalisant que sa peur de la perte surpasse son ambition. Il lutte contre son syndrome de l'imposteur et son besoin de contrôle, restant pour l'instant bloqué dans le statu quo.",
           "elements_cles": "Offre de consultant junior à Lyon (Mathieu) ; stage actuel en agence marketing à Paris ; parents (Sandrine et Jean-Marc) ; colocataires (Maxime et Romain) ; dossier complexe dompté par Lucas ; effet de dotation et aversion à la perte."
+        },
+        {
+          "date": "2026-04-29",
+          "sujet": "effet bandwagon",
+          "contexte": "en amitié",
+          "category": "cat1_pensees",
+          "titre": "Effet bandwagon en amitié : pourquoi tu te laisses entraîner",
+          "slug": "effet-bandwagon-amitie",
+          "resume_narratif": "Lucas, étudiant de 25 ans vivant en colocation avec Maxime et Romain, reçoit une proposition de sortie groupée sur son téléphone alors qu'il est dans le métro. Malgré la pression de son mémoire et ses contraintes financières, il lutte contre son réflexe habituel d'acquiescement social pour ne pas décevoir ses amis. Il finit par envoyer un message d'hésitation assumée au lieu de son 'oui' automatique habituel.",
+          "evolution": "Lucas a réussi à identifier l'effet bandwagon qui transforme ses désirs en réflexes collectifs et a testé pour la première fois une technique de 'pseudo-décision'. Il commence à lier son besoin de conformité à son syndrome de l'imposteur et à son milieu social modeste.",
+          "elements_cles": {
+            "personnages": [
+              "Maxime (colocataire)",
+              "Romain (ami aisé)",
+              "Sandrine et Jean-Marc (parents)"
+            ],
+            "contexte_professionnel": [
+              "Stage à La Défense",
+              "Mémoire avec structure complexe",
+              "Tuteur critique"
+            ],
+            "techniques_et_passé": [
+              "Effet spotlight",
+              "Respiration consciente",
+              "Pseudo-décision (message neutre/différé)"
+            ],
+            "lieux": [
+              "Métro/Wagon",
+              "Colocation"
+            ]
+          }
         }
       ],
       "genre": "M",
@@ -3277,6 +3339,39 @@
           "resume_narratif": "Deux semaines après sa rupture avec Chloé, Hugo traverse une phase de détresse intense dans leur ancien appartement parisien. Malgré le succès récent de son concert au Melody, il oscille violemment entre l'envie de reconquérir son ex-partenaire et le besoin de couper tout contact pour se protéger.",
           "evolution": "Hugo prend conscience que son instabilité émotionnelle et ses comportements de sabotage sont le miroir de son éducation, où l'amour de son père Alain était conditionné par la performance. Il réalise que son système de défense transforme systématiquement son besoin de proximité en une peur de l'étouffement.",
           "elements_cles": "Hugo (musicien), Chloé (ex-partenaire), Alain (père exigeant), appartement à Paris, salle de concert Le Melody, date du 15 avril 2026, incident de répétition du 02 avril, tour d'ivoire créative."
+        },
+        {
+          "date": "2026-04-29",
+          "sujet": "les états du Moi (Parent, Adulte, Enfant)",
+          "contexte": "en situation de conflit",
+          "category": "cat3_schemas",
+          "titre": "Comprendre les états du Moi en situation de conflit",
+          "slug": "etats-du-moi-conflit-hugo",
+          "resume_narratif": "Hugo se rend à son studio de répétition pour une confrontation imminente avec son ex-compagne, Chloé, sous le regard de son frère jumeau Théo. Il utilise ses connaissances sur les états du Moi pour analyser ses réactions passées, notamment ses conflits avec son ami Samba et ses comportements au bar.",
+          "evolution": "Hugo parvient à identifier comment son 'Parent critique' (hérité de son père Alain) et son 'Enfant blessé' sabotent ses relations. Il décide d'aborder cette discussion en essayant de mobiliser son état 'Adulte' pour sortir de ses schémas de répétition.",
+          "elements_cles": {
+            "lieux": [
+              "Studio de répétition",
+              "Banc du parc (début mars)",
+              "Bar"
+            ],
+            "personnages": [
+              "Chloé (ex-compagne)",
+              "Théo (frère jumeau)",
+              "Samba (ami musicien)",
+              "Alain (père)"
+            ],
+            "evenements_passes": [
+              "Rupture",
+              "Sabotage de la répétition du 2 avril",
+              "Service au bar conflictuel"
+            ],
+            "techniques": [
+              "Analyse transactionnelle (Parent, Adulte, Enfant)",
+              "Repérage des montées émotionnelles",
+              "Identification de l'idéalisation/dévaluation"
+            ]
+          }
         }
       ],
       "genre": "M",

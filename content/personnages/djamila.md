@@ -1,6 +1,6 @@
 ---
 title: "Djamila"
-date: 2026-04-28T05:58:52+00:00
+date: 2026-04-29T05:40:52+00:00
 description: "Djamila est travailleuse sociale dans une association d'aide aux femmes. Séparée, en reconstruction, un fils (adam, 6 ans)."
 slug: "djamila"
 prenom: "Djamila"
@@ -8,7 +8,7 @@ date_naissance: "1989-05-06"
 profession: "Travailleuse sociale dans une association d'aide aux femmes"
 situation: "Séparée, en reconstruction, un fils (adam, 6 ans)"
 nb_articles: 8
-weight: 16
+weight: 17
 draft: false
 ---
 

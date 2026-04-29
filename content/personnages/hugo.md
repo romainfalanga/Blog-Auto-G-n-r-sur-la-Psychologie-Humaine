@@ -1,14 +1,14 @@
 ---
 title: "Hugo"
-date: 2026-04-28T05:58:52+00:00
+date: 2026-04-29T05:40:52+00:00
 description: "Hugo est musicien semi-professionnel et serveur pour payer les factures. Il est désormais célibataire après sa rupture récente avec Chloé."
 slug: "hugo"
 prenom: "Hugo"
 date_naissance: "1999-02-08"
 profession: "Musicien semi-professionnel et serveur pour payer les factures"
 situation: "Célibataire, récemment séparé de chloé"
-nb_articles: 7
-weight: 19
+nb_articles: 8
+weight: 14
 draft: false
 ---
 
@@ -90,5 +90,16 @@ draft: false
       <p>Hugo prend conscience que son instabilité émotionnelle et ses comportements de sabotage sont le miroir de son éducation, où l'amour de son père Alain était conditionné par la performance. Il réalise que son système de défense transforme systématiquement son besoin de proximité en une peur de l'étouffement.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-desorganise-craintif-oscillation-rupture-amoureuse/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/etats-du-moi-conflit-hugo/">Comprendre les états du Moi en situation de conflit</a></h3>
+    <div class="parcours-date">2026-04-29</div>
+    <p class="parcours-resume">Hugo se rend à son studio de répétition pour une confrontation imminente avec son ex-compagne, Chloé, sous le regard de son frère jumeau Théo. Il utilise ses connaissances sur les états du Moi pour analyser ses réactions passées, notamment ses conflits avec son ami Samba et ses comportements au bar.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Hugo parvient à identifier comment son 'Parent critique' (hérité de son père Alain) et son 'Enfant blessé' sabotent ses relations. Il décide d'aborder cette discussion en essayant de mobiliser son état 'Adulte' pour sortir de ses schémas de répétition.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/etats-du-moi-conflit-hugo/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
