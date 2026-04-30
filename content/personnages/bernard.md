@@ -1,13 +1,13 @@
 ---
 title: "Bernard"
-date: 2026-04-29T05:40:52+00:00
+date: 2026-04-30T05:49:54+00:00
 description: "Bernard est artisan ébéniste en campagne. Veuf, il commence à briser son armure de silence pour accepter pleinement son chagrin au lieu de s'enfermer dans le travail."
 slug: "bernard"
 prenom: "Bernard"
 date_naissance: "1967-08-21"
 profession: "Artisan ébéniste, atelier en campagne"
 situation: "Veuf, en phase de réconciliation avec son fils éric"
-nb_articles: 7
+nb_articles: 8
 weight: 20
 draft: false
 ---
@@ -90,5 +90,16 @@ draft: false
       <p>Bernard abandonne sa posture de stoïcisme héritée de ses parents pour accepter la tristesse comme un processus nécessaire. Il comprend que sa force ne réside plus dans l'armure du silence, mais dans la capacité à vivre son chagrin sans chercher à le transformer immédiatement en travail productif.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/comprendre-tristesse-lors-d-un-deuil/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-omission-face-a-la-solitude-bernard/">Biais d'omission face à la solitude : pourquoi on se tait</a></h3>
+    <div class="parcours-date">2026-04-30</div>
+    <p class="parcours-resume">Bernard termine la restauration d'une chaise en cerisier destinée à son fils Éric dans son atelier. Malgré son envie de renouer le contact, il hésite longuement devant son téléphone, paralysé par la peur de commettre une erreur de communication qui aggraverait leurs tensions.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Bernard prend conscience que son silence n'est pas neutre mais constitue un choix actif qui alimente son isolement. Il réalise que son habitude de privilégier les objets matériels pour exprimer ses sentiments est une stratégie d'évitement héritée de son passé.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-omission-face-a-la-solitude-bernard/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

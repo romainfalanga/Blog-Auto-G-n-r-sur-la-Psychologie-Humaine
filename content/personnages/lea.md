@@ -1,14 +1,14 @@
 ---
 title: "Léa"
-date: 2026-04-29T05:40:52+00:00
+date: 2026-04-30T05:49:54+00:00
 description: "Léa est étudiante en master de psychologie clinique. En couple avec Youssef, elle vit en studio étudiant."
 slug: "lea"
 prenom: "Léa"
 date_naissance: "2002-11-12"
 profession: "Étudiante en master de psychologie clinique"
 situation: "En couple avec youssef, vit en studio étudiant"
-nb_articles: 8
-weight: 12
+nb_articles: 9
+weight: 8
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Léa prend conscience que sa tendance à la codépendance et son passé d'enfant de parents divorcés la rendent vulnérable à cette manipulation, l'amenant à faire le lien entre ses révisions théoriques et sa réalité toxique.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-psychologique-intimite-sexualite/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/dependance-affective-attachement-anxieux/">la dépendance affective vs l'attachement anxieux en couple</a></h3>
+    <div class="parcours-date">2026-04-30</div>
+    <p class="parcours-resume">Alors qu'elle révise ses cours de psychologie dans son studio, Léa analyse sa relation tendue avec Youssef suite à une remarque sèche et un silence prolongé de sa part. Elle fait le lien entre ses réactions viscérales actuelles et son passé, notamment le divorce de ses parents et son habitude de se sacrifier pour les autres comme elle l'a fait pour son amie Zoé.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Léa a pris conscience que son besoin d'être indispensable et sa peur de l'abandon sont les racines de sa dépendance affective. Elle comprend désormais la distinction théorique entre son style d'attachement anxieux et ses comportements de codépendance, ce qui renforce sa volonté de ne plus tolérer l'inacceptable.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/dependance-affective-attachement-anxieux/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

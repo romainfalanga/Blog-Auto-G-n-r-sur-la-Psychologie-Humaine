@@ -1,6 +1,6 @@
 ---
 title: "Priya"
-date: 2026-04-29T05:40:52+00:00
+date: 2026-04-30T05:49:54+00:00
 description: "Priya est médecin généraliste en cabinet de ville. Célibataire, vit seule, relations épisodiques."
 slug: "priya"
 prenom: "Priya"

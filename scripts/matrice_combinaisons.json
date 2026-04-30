@@ -5456,6 +5456,102 @@
       },
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-30",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais d'omission",
+      "contexte": "face à la solitude",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Bernard",
+      "age": "58 ans",
+      "title": "Biais d'omission face à la solitude : pourquoi on se tait",
+      "slug": "biais-omission-face-a-la-solitude-bernard",
+      "tags": [
+        "psychologie",
+        "biais cognitif",
+        "solitude",
+        "deuil",
+        "relations familiales"
+      ],
+      "resume_narratif": "Bernard termine la restauration d'une chaise en cerisier destinée à son fils Éric dans son atelier. Malgré son envie de renouer le contact, il hésite longuement devant son téléphone, paralysé par la peur de commettre une erreur de communication qui aggraverait leurs tensions.",
+      "evolution": "Bernard prend conscience que son silence n'est pas neutre mais constitue un choix actif qui alimente son isolement. Il réalise que son habitude de privilégier les objets matériels pour exprimer ses sentiments est une stratégie d'évitement héritée de son passé.",
+      "elements_cles": "Éric (fils), Sultan (chien), Hélène (épouse décédée), atelier de menuiserie, chaise en cerisier, enveloppe notariale non ouverte, biais d'omission, blocage de dos récent.",
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "On comprend que son silence n'est pas qu'une absence de mots, mais un choix cognitif protecteur. Cela explique pourquoi il préfère offrir des meubles plutôt que des paroles : l'omission de mots le protège d'un conflit qu'il juge irréparable."
+    },
+    {
+      "date": "2026-04-30",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "mépris",
+      "contexte": "lors d'un deuil",
+      "angle": "les idées reçues et mythes à déconstruire",
+      "profil": null,
+      "prenom": "Isabelle",
+      "age": "47 ans",
+      "title": "Le mépris lors d'un deuil : comprendre et surmonter cette émotion",
+      "slug": "mepris-lors-d-un-deuil-comprendre-surmonter",
+      "tags": [
+        "mépris",
+        "deuil",
+        "psychologie",
+        "émotions",
+        "résilience"
+      ],
+      "resume_narratif": "Isabelle se rend chez sa mère, Geneviève, pour l'aider à gérer les formalités administratives suite au décès de son oncle. Elle y est accueillie avec une froideur extrême et subit des remarques méprisantes visant à disqualifier son aide et sa légitimité familiale.",
+      "evolution": "Isabelle identifie le mépris comme un mécanisme de défense chez sa mère et fait le lien avec les comportements passés de son ex-mari Laurent. Elle parvient à rester lucide et présente sans se laisser dissocier, appliquant ses connaissances psychologiques pour éviter la fatigue de compassion.",
+      "elements_cles": "Appartement de Geneviève ; décès de l'oncle ; Laurent (ex-mari) ; métier de psychologue scolaire d'Isabelle ; méthode ABCDE ; fatigue de compassion ; John Gottman (les quatre cavaliers de l'apocalypse).",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-04-30",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "la dépendance affective vs l'attachement anxieux",
+      "contexte": "en couple",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Léa",
+      "age": "23 ans",
+      "title": "la dépendance affective vs l'attachement anxieux en couple",
+      "slug": "dependance-affective-attachement-anxieux",
+      "tags": [
+        "dépendance affective",
+        "attachement anxieux",
+        "couple",
+        "enfance",
+        "psychologie"
+      ],
+      "resume_narratif": "Alors qu'elle révise ses cours de psychologie dans son studio, Léa analyse sa relation tendue avec Youssef suite à une remarque sèche et un silence prolongé de sa part. Elle fait le lien entre ses réactions viscérales actuelles et son passé, notamment le divorce de ses parents et son habitude de se sacrifier pour les autres comme elle l'a fait pour son amie Zoé.",
+      "evolution": "Léa a pris conscience que son besoin d'être indispensable et sa peur de l'abandon sont les racines de sa dépendance affective. Elle comprend désormais la distinction théorique entre son style d'attachement anxieux et ses comportements de codépendance, ce qui renforce sa volonté de ne plus tolérer l'inacceptable.",
+      "elements_cles": {
+        "personnages": [
+          "Youssef (compagnon)",
+          "Docteur Moreau (tuteur)",
+          "Zoé (amie)",
+          "Sa mère"
+        ],
+        "lieux": [
+          "Studio de Léa",
+          "Maison d'enfance (souvenir)"
+        ],
+        "contexte_psychologique": [
+          "Attachement anxieux",
+          "Gaslighting",
+          "Codépendance",
+          "Séparation parentale à 6 ans"
+        ],
+        "actions_futures": [
+          "Écriture d'un article sur la dépendance affective",
+          "Décision de ne plus s'effacer par peur de perdre l'autre"
+        ]
+      },
+      "strategie_coherence": "connecter",
+      "apport_psychologique": "L'article révèle que son besoin de 'sauver' est une tentative désespérée de sécuriser un lien instable. On lie sa théorie universitaire (Bowlby) à sa souffrance intime, créant une cohérence totale entre son savoir et son vécu."
     }
   ]
 }

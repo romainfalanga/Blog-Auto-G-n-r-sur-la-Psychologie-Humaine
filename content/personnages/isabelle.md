@@ -1,14 +1,14 @@
 ---
 title: "Isabelle"
-date: 2026-04-29T05:40:52+00:00
+date: 2026-04-30T05:49:54+00:00
 description: "Isabelle est psychologue scolaire dans un collège. Divorcée, un fils adolescent (théo, 16 ans)."
 slug: "isabelle"
 prenom: "Isabelle"
 date_naissance: "1978-09-03"
 profession: "Psychologue scolaire dans un collège"
 situation: "Divorcée, un fils adolescent (théo, 16 ans)"
-nb_articles: 8
-weight: 10
+nb_articles: 9
+weight: 7
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Elle identifie ses absences comme un mécanisme de survie hérité de son enfance et tente de coupler la méthode ABCDE à des gestes concrets pour reprendre pied dans la réalité. Elle prend conscience que son passé influence sa réaction actuelle à la rupture et à son épuisement professionnel.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/dissociation-rupture-amoureuse/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mepris-lors-d-un-deuil-comprendre-surmonter/">Le mépris lors d'un deuil : comprendre et surmonter cette émotion</a></h3>
+    <div class="parcours-date">2026-04-30</div>
+    <p class="parcours-resume">Isabelle se rend chez sa mère, Geneviève, pour l'aider à gérer les formalités administratives suite au décès de son oncle. Elle y est accueillie avec une froideur extrême et subit des remarques méprisantes visant à disqualifier son aide et sa légitimité familiale.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Isabelle identifie le mépris comme un mécanisme de défense chez sa mère et fait le lien avec les comportements passés de son ex-mari Laurent. Elle parvient à rester lucide et présente sans se laisser dissocier, appliquant ses connaissances psychologiques pour éviter la fatigue de compassion.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/mepris-lors-d-un-deuil-comprendre-surmonter/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
