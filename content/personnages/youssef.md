@@ -1,6 +1,6 @@
 ---
 title: "Youssef"
-date: 2026-04-30T05:49:54+00:00
+date: 2026-05-01T05:58:50+00:00
 description: "Youssef est ingénieur en informatique, actuellement en arrêt pour épuisement professionnel. En couple avec Léa, il envisage une reconversion dans le conseil en éthique numérique malgré ses blocages."
 slug: "youssef"
 prenom: "Youssef"
@@ -8,7 +8,7 @@ date_naissance: "1996-08-14"
 profession: "Ingénieur en informatique (actuellement en arrêt pour épuisement professionnel)"
 situation: "En couple avec léa, vit en appartement"
 nb_articles: 9
-weight: 6
+weight: 8
 draft: false
 ---
 

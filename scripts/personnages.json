@@ -202,6 +202,17 @@
           "resume_narratif": "Lors d'une présentation en réunion le 23 avril 2026, Sophie est publiquement moquée par son collègue Marc qui imite ses hésitations, provoquant un rire général. Soutenue ensuite par son amie Claire, elle analyse ce sentiment d'humiliation qui la pousse instinctivement à la sur-justification et au retrait.",
           "evolution": "Sophie identifie que sa vulnérabilité au sarcasme professionnel prend racine dans l'exigence de performance imposée par ses parents. Elle prend conscience de son mécanisme de défense consistant à s'excuser excessivement pour réparer son image sociale.",
           "elements_cles": "Marc (collègue antagoniste), Claire (amie et soutien), parents (père ingénieur, mère enseignante), open-space, carnet de notes (technique de l'overthinking), date du 23 avril 2026, tendance à la formation réactionnelle."
+        },
+        {
+          "date": "2026-05-01",
+          "sujet": "échec",
+          "contexte": "après un échec",
+          "category": "cat3_schemas",
+          "titre": "Surmonter le sentiment d'échec après un échec : le guide",
+          "slug": "comprendre-sentiment-echec-apres-un-echec",
+          "resume_narratif": "Sophie reçoit un refus pour un poste de directrice technique, justifié par un manque d'expérience en gestion d'équipe. Cet échec la plonge dans une spirale de doutes, ravivant le souvenir d'une humiliation passée avec son collègue Marc et des exigences paternelles de son enfance.",
+          "evolution": "Sophie identifie son mécanisme d'overthinking et prend conscience de son schéma d'échec, réalisant qu'elle transforme un revers professionnel ponctuel en une vérité absolue sur sa propre nullité.",
+          "elements_cles": "Poste de directrice technique (refusé), Marc (collègue moqueur), carnet de notes, appartement de Sophie, schéma d'échec (Jeffrey Young), impuissance acquise (Martin Seligman)."
         }
       ],
       "genre": "F",
@@ -1506,6 +1517,17 @@
           "resume_narratif": "Après avoir essuyé un refus froid pour un appel d'offres de cosmétiques éthiques, Adrien s'installe au canal Saint-Martin et feint la normalité auprès de sa sœur Charlotte. Il s'enferme dans une routine de tâches techniques stériles pour masquer son incapacité totale à dessiner et son refus d'affronter cet échec.",
           "evolution": "Adrien bascule dans un mécanisme de déni protecteur, utilisant la rationalisation et l'évitement proactif pour ne pas admettre que ce rejet professionnel réveille son sentiment d'incompétence.",
           "elements_cles": "Canal Saint-Martin, dimanche 26 avril 2026 ; Charlotte (sœur) ; Antoine (référence passée) ; tablette graphique et stylet immobile ; carnet de notes sur les biais de négativité (fermé) ; classement obsessionnel de calques."
+        },
+        {
+          "date": "2026-05-01",
+          "sujet": "orientation vers le regret",
+          "contexte": "après une rupture amoureuse",
+          "category": "cat1_pensees",
+          "titre": "Orientation vers le regret après une rupture : pourquoi ça empire",
+          "slug": "orientation-regret-rupture",
+          "resume_narratif": "Le 1er mai 2026, Adrien se retrouve paralysé dans son atelier par le souvenir de sa rupture avec Marina, incapable de répondre à une demande de révision de son client Antoine. Confronté à ses croquis et à ses regrets, il tente d'utiliser son carnet de notes pour analyser ses pensées automatiques et comprendre pourquoi il s'enferme dans des scénarios alternatifs du passé.",
+          "evolution": "Adrien identifie que son orientation vers le regret agit comme un acide rongeant sa confiance et sa créativité, passant d'une fuite technique stérile à une volonté d'affronter consciemment ses mécanismes de rumination.",
+          "elements_cles": "Atelier (lieu), Marina (ex-compagne), Antoine (client), carnet de notes (outil de suivi), passage du CDI au freelance, canal Saint-Martin (référence passée), lo-fi (ambiance sonore)."
         }
       ],
       "genre": "M",
@@ -3648,6 +3670,17 @@
           "resume_narratif": "Priya, médecin de 33 ans au Cabinet des Glycines, hésite à accepter un poste de direction dans une clinique privée lyonnaise prestigieuse malgré la pression de sa famille. En analysant les témoignages de réussite de ses confrères, elle réalise qu'elle est victime du biais de survivant en ignorant les échecs invisibles de ceux qui n'ont pas supporté la pression.",
           "evolution": "Elle passe d'une volonté de copier aveuglément les modèles de réussite pour satisfaire son besoin de contrôle à une prise de conscience lucide sur ses propres limites, notamment son attachement évitant et sa vulnérabilité face au stress.",
           "elements_cles": "Cabinet des Glycines ; clinique privée à Lyon ; Raj et Anjali (parents) ; Anita (sœur) ; Damien (ex-compagnon manipulateur) ; Antoine (IRS) ; Marc (ancien associé potentiel) ; concept du biais de survivant (Abraham Wald)."
+        },
+        {
+          "date": "2026-05-01",
+          "sujet": "vulnérabilité",
+          "contexte": "en couple",
+          "category": "cat2_emotions",
+          "titre": "Vulnérabilité en couple : 10 signes qui vous concernent",
+          "slug": "vulnerabilite-en-couple-signes",
+          "resume_narratif": "Lors d'un dîner aux saveurs indiennes, Priya se sent déstabilisée par une question personnelle de son partenaire sur ses passions. Elle ressent une forte résistance intérieure et une envie de fuir la conversation en se réfugiant derrière des excuses professionnelles.",
+          "evolution": "Priya prend conscience que sa méfiance et son besoin de contrôle sont des mécanismes de défense hérités de son passé. Elle identifie son incapacité à se livrer comme un refus de la vulnérabilité, qu'elle percevait jusqu'ici comme une faille.",
+          "elements_cles": "Passé avec Damien (relation toxique) ; éducation rigide du père (Raj) ; collègues mentionnés (Marc, Antoine) ; métier de médecin ; technique de nommer l'émotion par une phrase courte en 'je'."
         }
       ],
       "genre": "F",

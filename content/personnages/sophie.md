@@ -1,14 +1,14 @@
 ---
 title: "Sophie"
-date: 2026-04-30T05:49:54+00:00
+date: 2026-05-01T05:58:50+00:00
 description: "Sophie est développeuse web dans une startup. Célibataire, vit seule en appartement en ville."
 slug: "sophie"
 prenom: "Sophie"
 date_naissance: "1998-01-15"
 profession: "Développeuse web dans une startup"
 situation: "Célibataire, vit seule en appartement en ville"
-nb_articles: 8
-weight: 10
+nb_articles: 9
+weight: 1
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Sophie identifie que sa vulnérabilité au sarcasme professionnel prend racine dans l'exigence de performance imposée par ses parents. Elle prend conscience de son mécanisme de défense consistant à s'excuser excessivement pour réparer son image sociale.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/humiliation-en-societe-comprendre-pourquoi/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/comprendre-sentiment-echec-apres-un-echec/">Surmonter le sentiment d'échec après un échec : le guide</a></h3>
+    <div class="parcours-date">2026-05-01</div>
+    <p class="parcours-resume">Sophie reçoit un refus pour un poste de directrice technique, justifié par un manque d'expérience en gestion d'équipe. Cet échec la plonge dans une spirale de doutes, ravivant le souvenir d'une humiliation passée avec son collègue Marc et des exigences paternelles de son enfance.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Sophie identifie son mécanisme d'overthinking et prend conscience de son schéma d'échec, réalisant qu'elle transforme un revers professionnel ponctuel en une vérité absolue sur sa propre nullité.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/comprendre-sentiment-echec-apres-un-echec/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

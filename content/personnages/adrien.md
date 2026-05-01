@@ -1,14 +1,14 @@
 ---
 title: "Adrien"
-date: 2026-04-30T05:49:54+00:00
+date: 2026-05-01T05:58:50+00:00
 description: "Adrien est graphiste freelance. Célibataire depuis une rupture difficile il y a un an."
 slug: "adrien"
 prenom: "Adrien"
 date_naissance: "1994-06-07"
 profession: "Graphiste freelance"
 situation: "Célibataire depuis une rupture difficile il y a un an"
-nb_articles: 8
-weight: 11
+nb_articles: 9
+weight: 6
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Adrien bascule dans un mécanisme de déni protecteur, utilisant la rationalisation et l'évitement proactif pour ne pas admettre que ce rejet professionnel réveille son sentiment d'incompétence.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/deni-apres-un-echec-comprendre-et-agir/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/orientation-regret-rupture/">Orientation vers le regret après une rupture : pourquoi ça empire</a></h3>
+    <div class="parcours-date">2026-05-01</div>
+    <p class="parcours-resume">Le 1er mai 2026, Adrien se retrouve paralysé dans son atelier par le souvenir de sa rupture avec Marina, incapable de répondre à une demande de révision de son client Antoine. Confronté à ses croquis et à ses regrets, il tente d'utiliser son carnet de notes pour analyser ses pensées automatiques et comprendre pourquoi il s'enferme dans des scénarios alternatifs du passé.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Adrien identifie que son orientation vers le regret agit comme un acide rongeant sa confiance et sa créativité, passant d'une fuite technique stérile à une volonté d'affronter consciemment ses mécanismes de rumination.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/orientation-regret-rupture/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

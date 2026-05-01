@@ -1,14 +1,14 @@
 ---
 title: "Priya"
-date: 2026-04-30T05:49:54+00:00
+date: 2026-05-01T05:58:50+00:00
 description: "Priya est médecin généraliste en cabinet de ville. Célibataire, vit seule, relations épisodiques."
 slug: "priya"
 prenom: "Priya"
 date_naissance: "1993-03-11"
 profession: "Médecin généraliste en cabinet de ville"
 situation: "Célibataire, vit seule, relations épisodiques"
-nb_articles: 8
-weight: 15
+nb_articles: 9
+weight: 12
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Elle passe d'une volonté de copier aveuglément les modèles de réussite pour satisfaire son besoin de contrôle à une prise de conscience lucide sur ses propres limites, notamment son attachement évitant et sa vulnérabilité face au stress.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-survivant-face-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-en-couple-signes/">Vulnérabilité en couple : 10 signes qui vous concernent</a></h3>
+    <div class="parcours-date">2026-05-01</div>
+    <p class="parcours-resume">Lors d'un dîner aux saveurs indiennes, Priya se sent déstabilisée par une question personnelle de son partenaire sur ses passions. Elle ressent une forte résistance intérieure et une envie de fuir la conversation en se réfugiant derrière des excuses professionnelles.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Priya prend conscience que sa méfiance et son besoin de contrôle sont des mécanismes de défense hérités de son passé. Elle identifie son incapacité à se livrer comme un refus de la vulnérabilité, qu'elle percevait jusqu'ici comme une faille.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-en-couple-signes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -5552,6 +5552,81 @@
       },
       "strategie_coherence": "connecter",
       "apport_psychologique": "L'article révèle que son besoin de 'sauver' est une tentative désespérée de sécuriser un lien instable. On lie sa théorie universitaire (Bowlby) à sa souffrance intime, créant une cohérence totale entre son savoir et son vécu."
+    },
+    {
+      "date": "2026-05-01",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "orientation vers le regret",
+      "contexte": "après une rupture amoureuse",
+      "angle": "pourquoi ça empire avec le temps si on ne fait rien",
+      "profil": null,
+      "prenom": "Adrien",
+      "age": "31 ans",
+      "title": "Orientation vers le regret après une rupture : pourquoi ça empire",
+      "slug": "orientation-regret-rupture",
+      "tags": [
+        "regret",
+        "rupture",
+        "rumination",
+        "psychologie",
+        "relations"
+      ],
+      "resume_narratif": "Le 1er mai 2026, Adrien se retrouve paralysé dans son atelier par le souvenir de sa rupture avec Marina, incapable de répondre à une demande de révision de son client Antoine. Confronté à ses croquis et à ses regrets, il tente d'utiliser son carnet de notes pour analyser ses pensées automatiques et comprendre pourquoi il s'enferme dans des scénarios alternatifs du passé.",
+      "evolution": "Adrien identifie que son orientation vers le regret agit comme un acide rongeant sa confiance et sa créativité, passant d'une fuite technique stérile à une volonté d'affronter consciemment ses mécanismes de rumination.",
+      "elements_cles": "Atelier (lieu), Marina (ex-compagne), Antoine (client), carnet de notes (outil de suivi), passage du CDI au freelance, canal Saint-Martin (référence passée), lo-fi (ambiance sonore).",
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "On explore comment son tempérament créatif et émotif alimente une nostalgie toxique. Le regret devient un refuge qui lui évite d'affronter le vide intérieur de sa vie actuelle de freelance."
+    },
+    {
+      "date": "2026-05-01",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "vulnérabilité",
+      "contexte": "en couple",
+      "angle": "les signes que vous êtes concerné(e)",
+      "profil": null,
+      "prenom": "Priya",
+      "age": "33 ans",
+      "title": "Vulnérabilité en couple : 10 signes qui vous concernent",
+      "slug": "vulnerabilite-en-couple-signes",
+      "tags": [
+        "vulnérabilité",
+        "attachement",
+        "couple",
+        "émotions",
+        "santé-mentale"
+      ],
+      "resume_narratif": "Lors d'un dîner aux saveurs indiennes, Priya se sent déstabilisée par une question personnelle de son partenaire sur ses passions. Elle ressent une forte résistance intérieure et une envie de fuir la conversation en se réfugiant derrière des excuses professionnelles.",
+      "evolution": "Priya prend conscience que sa méfiance et son besoin de contrôle sont des mécanismes de défense hérités de son passé. Elle identifie son incapacité à se livrer comme un refus de la vulnérabilité, qu'elle percevait jusqu'ici comme une faille.",
+      "elements_cles": "Passé avec Damien (relation toxique) ; éducation rigide du père (Raj) ; collègues mentionnés (Marc, Antoine) ; métier de médecin ; technique de nommer l'émotion par une phrase courte en 'je'.",
+      "strategie_coherence": "enrichir",
+      "apport_psychologique": "L'article déconstruit son armure de 'médecin infaillible' pour révéler que son attachement évitant-dédaigneux est une fuite devant la vulnérabilité émotionnelle, perçue comme une perte de contrôle fatale."
+    },
+    {
+      "date": "2026-05-01",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "échec",
+      "contexte": "après un échec",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Sophie",
+      "age": "28 ans",
+      "title": "Surmonter le sentiment d'échec après un échec : le guide",
+      "slug": "comprendre-sentiment-echec-apres-un-echec",
+      "tags": [
+        "échec",
+        "psychologie",
+        "schémas précoces",
+        "résilience",
+        "Sophie"
+      ],
+      "resume_narratif": "Sophie reçoit un refus pour un poste de directrice technique, justifié par un manque d'expérience en gestion d'équipe. Cet échec la plonge dans une spirale de doutes, ravivant le souvenir d'une humiliation passée avec son collègue Marc et des exigences paternelles de son enfance.",
+      "evolution": "Sophie identifie son mécanisme d'overthinking et prend conscience de son schéma d'échec, réalisant qu'elle transforme un revers professionnel ponctuel en une vérité absolue sur sa propre nullité.",
+      "elements_cles": "Poste de directrice technique (refusé), Marc (collègue moqueur), carnet de notes, appartement de Sophie, schéma d'échec (Jeffrey Young), impuissance acquise (Martin Seligman).",
+      "strategie_coherence": "connecter",
+      "apport_psychologique": "Cet article montre que son overthinking et sa vérification obsessionnelle du code sont des stratégies de compensation pour éviter de valider son schéma d'échec. On comprend que pour elle, une erreur de syntaxe équivaut à une preuve de nullité globale."
     }
   ]
 }
