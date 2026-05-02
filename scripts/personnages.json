@@ -2449,6 +2449,35 @@
           "resume_narratif": "Le 28 avril 2026, Patrick se rend dans un magasin de bricolage pour rénover l'étagère de son petit-fils Léo tout en luttant contre une douleur lombaire persistante. Face à une publicité pour une salle de sport senior, il se retrouve confronté à trois offres tarifaires conçues pour déclencher l'effet de leurre.",
           "evolution": "Patrick passe d'une posture de force héritée de son père à une acceptation de sa vulnérabilité, ce qui lui permet de questionner ses automatismes de consommation au lieu de céder à une impulsion marketing.",
           "elements_cles": "Lieu : magasin de bricolage en banlieue parisienne ; Personnages : Léo (petit-fils), Marcel (père décédé), Antoine (jeune ouvrier), Catherine ; Santé : décharge lombaire récente ; Concept : effet de leurre (offres à 40€, 75€ et 80€)."
+        },
+        {
+          "date": "2026-05-02",
+          "sujet": "biais de l'angle mort",
+          "contexte": "face au vieillissement",
+          "category": "cat1_pensees",
+          "titre": "Biais de l'angle mort face au vieillissement : le comprendre",
+          "slug": "biais-angle-mort-vieillissement-psychologie",
+          "resume_narratif": "Sur un chantier à Lyon, Patrick, 56 ans, s'apprête à réprimander son jeune collègue Antoine pour une mauvaise posture de travail. Au même instant, il est frappé par une violente douleur lombaire qu'il s'efforçait d'ignorer depuis son réveil.",
+          "evolution": "Patrick prend conscience de son biais de l'angle mort : il réalise qu'il projette ses propres limites physiques sur les autres pour éviter d'affronter son propre vieillissement et l'héritage de dureté légué par son père Marcel.",
+          "elements_cles": {
+            "personnages": [
+              "Patrick (56 ans)",
+              "Antoine (jeune intérimaire)",
+              "Marcel (père décédé)",
+              "Catherine (épouse)",
+              "Léo (mentionné pour une étagère)"
+            ],
+            "lieux": [
+              "Chantier de rénovation à Lyon",
+              "Échafaudage"
+            ],
+            "contexte_physique": "Douleurs lombaires chroniques, perte de force (épisode du bocal de haricots), déni de la fatigue",
+            "techniques_et_concepts": [
+              "Biais de l'angle mort",
+              "Technique du miroir inversé",
+              "Héritage éducatif de l'invulnérabilité"
+            ]
+          }
         }
       ],
       "genre": "M",
@@ -2974,6 +3003,17 @@
           "resume_narratif": "Karim est en plein conflit avec sa compagne Sofia et son associé Romain, car il impose ses choix professionnels au détriment de sa vie familiale et de la prudence financière. Persuadé que tout le monde valide sa vision, il ignore les signes d'épuisement de ses proches et les mises en garde sur la trésorerie de son entreprise.",
           "evolution": "Karim prend conscience qu'il est victime du biais de faux consensus, réalisant qu'il projette ses propres priorités sur les autres au lieu d'écouter leurs besoins réels. Il comprend que cette tendance à créer une fausse majorité autour de ses idées est le moteur de ses décisions impulsives et de ses erreurs passées.",
           "elements_cles": "Sofia (compagne), Romain (associé), enfants (Amine, Lina, Sami), restaurant/PME, conflit sur l'expansion et la trésorerie, souvenir de l'échec à Marseille, biais de faux consensus."
+        },
+        {
+          "date": "2026-05-02",
+          "sujet": "prophéties autoréalisatrices",
+          "contexte": "face à une décision importante",
+          "category": "cat3_schemas",
+          "titre": "Prophéties autoréalisatrices et prise de décision : le guide",
+          "slug": "propheties-autorealizatrices-face-decision-importante",
+          "resume_narratif": "Karim, restaurateur lyonnais, fait face aux conséquences d'un investissement risqué à Marseille malgré les alertes de son associé Romain. Il découvre que son équipe se désengage et que sa femme Sofia s'est résignée à son échec, créant un climat de méfiance généralisée.",
+          "evolution": "Karim prend conscience que ses propres peurs et son besoin de contrôle agissent comme des prophéties autoréalisatrices, provoquant l'instabilité et l'isolement qu'il redoutait initialement.",
+          "elements_cles": "Restaurant à Lyon, projet à Marseille, Romain (associé), Sofia (femme), Amine et Sami (fils), biais de faux consensus, prophéties autoréalisatrices."
         }
       ],
       "genre": "M",
@@ -4563,6 +4603,17 @@
           "resume_narratif": "Mei se trouve dans son atelier d'école d'art le 28 avril 2026, où elle ressent un profond sentiment de décalage face à ses camarades comme Océane. Elle repense à son dîner de la veille avec Julien, constatant l'écart entre sa pensée complexe et la simplicité linéaire de son entourage.",
           "evolution": "Mei identifie que son malaise n'est plus une peur du regard des autres (effet spotlight), mais une fatigue structurelle liée à la nécessité de traduire constamment sa pensée en arborescence pour s'adapter à la norme.",
           "elements_cles": "Atelier d'école d'art ; mèche bleue ; Julien (petit-ami en gestion) ; Océane (étudiante) ; M. Dubois (professeur) ; Li et Wei (famille) ; pensée en arborescence ; fatigue sociale."
+        },
+        {
+          "date": "2026-05-02",
+          "sujet": "peur",
+          "contexte": "face à l'autorité",
+          "category": "cat2_emotions",
+          "titre": "Peur face à l'autorité : comprendre ses racines et agir",
+          "slug": "peur-face-a-lautorite",
+          "resume_narratif": "Mei se rend au bureau de M. Dubois pour déposer son projet final de dessin, luttant contre une peur paralysante de l'autorité. Elle se remémore son enfance où elle cachait ses aquarelles à son père pour répondre à ses attentes académiques, et hésite longuement devant la porte du professeur avant de glisser son travail dans le tiroir.",
+          "evolution": "Mei prend conscience que sa peur de l'autorité est un écho de son passé familial qui bride son intuition créative et la pousse au conformisme. Bien qu'elle sache désormais nommer cette émotion, elle réalise qu'elle doit encore apprendre à ne plus sacrifier son identité d'artiste pour obtenir une simple approbation.",
+          "elements_cles": "M. Dubois (professeur), Wei (famille), carnet de croquis, bureau de l'enseignant, restaurant des parents (souvenir), vernissage de mars (référence passée), Julien (mentionné comme relation passée), technique de 'faire bonne figure'."
         }
       ],
       "genre": "F",

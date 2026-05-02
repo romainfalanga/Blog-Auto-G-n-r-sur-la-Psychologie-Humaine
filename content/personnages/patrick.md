@@ -1,14 +1,14 @@
 ---
 title: "Patrick"
-date: 2026-05-01T05:58:50+00:00
+date: 2026-05-02T05:39:27+00:00
 description: "Patrick est chef d'équipe dans le BTP, marié et grand-père. Suite au décès récent de son père, il entame un cheminement sur sa vulnérabilité et sa résilience émotionnelle."
 slug: "patrick"
 prenom: "Patrick"
 date_naissance: "1969-10-28"
 profession: "Ancien ouvrier, maintenant chef d'équipe dans le btp"
 situation: "Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils, vient de perdre son père"
-nb_articles: 8
-weight: 13
+nb_articles: 9
+weight: 10
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Patrick passe d'une posture de force héritée de son père à une acceptation de sa vulnérabilité, ce qui lui permet de questionner ses automatismes de consommation au lieu de céder à une impulsion marketing.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-de-leurre-face-au-vieillissement-quotidien/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-angle-mort-vieillissement-psychologie/">Biais de l'angle mort face au vieillissement : le comprendre</a></h3>
+    <div class="parcours-date">2026-05-02</div>
+    <p class="parcours-resume">Sur un chantier à Lyon, Patrick, 56 ans, s'apprête à réprimander son jeune collègue Antoine pour une mauvaise posture de travail. Au même instant, il est frappé par une violente douleur lombaire qu'il s'efforçait d'ignorer depuis son réveil.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Patrick prend conscience de son biais de l'angle mort : il réalise qu'il projette ses propres limites physiques sur les autres pour éviter d'affronter son propre vieillissement et l'héritage de dureté légué par son père Marcel.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-angle-mort-vieillissement-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -1,14 +1,14 @@
 ---
 title: "Mei"
-date: 2026-05-01T05:58:50+00:00
+date: 2026-05-02T05:39:27+00:00
 description: "Mei est étudiante en école d'art, spécialité illustration. Elle est en couple avec Julien depuis un mois et vit en résidence étudiante."
 slug: "mei"
 prenom: "Mei"
 date_naissance: "2003-07-02"
 profession: "Étudiante en école d'art, spécialité illustration"
 situation: "En couple avec julien depuis un mois, vit en résidence étudiante"
-nb_articles: 8
-weight: 19
+nb_articles: 9
+weight: 15
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Mei identifie que son malaise n'est plus une peur du regard des autres (effet spotlight), mais une fatigue structurelle liée à la nécessité de traduire constamment sa pensée en arborescence pour s'adapter à la norme.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/sentiment-inadequation-ecole-etudes-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/peur-face-a-lautorite/">Peur face à l'autorité : comprendre ses racines et agir</a></h3>
+    <div class="parcours-date">2026-05-02</div>
+    <p class="parcours-resume">Mei se rend au bureau de M. Dubois pour déposer son projet final de dessin, luttant contre une peur paralysante de l'autorité. Elle se remémore son enfance où elle cachait ses aquarelles à son père pour répondre à ses attentes académiques, et hésite longuement devant la porte du professeur avant de glisser son travail dans le tiroir.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Mei prend conscience que sa peur de l'autorité est un écho de son passé familial qui bride son intuition créative et la pousse au conformisme. Bien qu'elle sache désormais nommer cette émotion, elle réalise qu'elle doit encore apprendre à ne plus sacrifier son identité d'artiste pour obtenir une simple approbation.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/peur-face-a-lautorite/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

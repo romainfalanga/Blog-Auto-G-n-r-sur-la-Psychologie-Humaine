@@ -1,14 +1,14 @@
 ---
 title: "Karim"
-date: 2026-05-01T05:58:50+00:00
+date: 2026-05-02T05:39:27+00:00
 description: "Karim est entrepreneur, fondateur d'une PME de restauration. Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)."
 slug: "karim"
 prenom: "Karim"
 date_naissance: "1985-12-01"
 profession: "Entrepreneur, fondateur d'une pme de restauration"
 situation: "Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)"
-nb_articles: 8
-weight: 14
+nb_articles: 9
+weight: 12
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Karim prend conscience qu'il est victime du biais de faux consensus, réalisant qu'il projette ses propres priorités sur les autres au lieu d'écouter leurs besoins réels. Il comprend que cette tendance à créer une fausse majorité autour de ses idées est le moteur de ses décisions impulsives et de ses erreurs passées.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-faux-consensus-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/propheties-autorealizatrices-face-decision-importante/">Prophéties autoréalisatrices et prise de décision : le guide</a></h3>
+    <div class="parcours-date">2026-05-02</div>
+    <p class="parcours-resume">Karim, restaurateur lyonnais, fait face aux conséquences d'un investissement risqué à Marseille malgré les alertes de son associé Romain. Il découvre que son équipe se désengage et que sa femme Sofia s'est résignée à son échec, créant un climat de méfiance généralisée.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Karim prend conscience que ses propres peurs et son besoin de contrôle agissent comme des prophéties autoréalisatrices, provoquant l'instabilité et l'isolement qu'il redoutait initialement.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/propheties-autorealizatrices-face-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
