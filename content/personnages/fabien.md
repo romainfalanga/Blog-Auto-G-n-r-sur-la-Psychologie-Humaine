@@ -1,14 +1,14 @@
 ---
 title: "Fabien"
-date: 2026-05-02T05:39:27+00:00
+date: 2026-05-03T05:42:01+00:00
 description: "Fabien est cadre RH dans une entreprise industrielle. Divorcé, il vit désormais dans un nouvel appartement et s'efforce de reconstruire un dialogue empathique avec ses deux enfants."
 slug: "fabien"
 prenom: "Fabien"
 date_naissance: "1975-06-19"
 profession: "Cadre rh dans une entreprise industrielle"
 situation: "Divorcé, a emménagé dans un nouvel appartement, deux enfants (marine, 20 ans et lucas, 17 ans)"
-nb_articles: 8
-weight: 19
+nb_articles: 9
+weight: 16
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Fabien identifie sa tendance à la soumission (position -/+) comme un mécanisme de survie hérité de son passé familial. Il décide de rompre avec cet automatisme pour chercher une position d'équilibre (+/+) où il se respecte tout en respectant l'autre.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/positions-de-vie-travail-analyse-transactionnelle/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/malediction-du-savoir-manager-hpi/">Biais de la malédiction du savoir en tant que manager</a></h3>
+    <div class="parcours-date">2026-05-03</div>
+    <p class="parcours-resume">Lors d'une réunion en usine le 3 mai 2026, Fabien, cadre RH, échoue à faire comprendre une décision technique à son équipe et à Julie, la responsable d'équipe. Confronté à des regards fuyants et à un courriel sec, il réalise qu'il utilise des raccourcis mentaux inaccessibles à ses interlocuteurs.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Fabien prend conscience que son expertise crée un 'mur de verre' et qu'il reproduit malgré lui le silence pesant de son père. Il comprend que pour être un manager efficace, il doit traduire son savoir dense en informations maniables sans sombrer dans ses anciens réflexes de soumission.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/malediction-du-savoir-manager-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

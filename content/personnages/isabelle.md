@@ -1,6 +1,6 @@
 ---
 title: "Isabelle"
-date: 2026-05-02T05:39:27+00:00
+date: 2026-05-03T05:42:01+00:00
 description: "Isabelle est psychologue scolaire dans un collège. Divorcée, un fils adolescent (théo, 16 ans)."
 slug: "isabelle"
 prenom: "Isabelle"
@@ -8,7 +8,7 @@ date_naissance: "1978-09-03"
 profession: "Psychologue scolaire dans un collège"
 situation: "Divorcée, un fils adolescent (théo, 16 ans)"
 nb_articles: 9
-weight: 9
+weight: 10
 draft: false
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Hugo"
-date: 2026-05-02T05:39:27+00:00
+date: 2026-05-03T05:42:01+00:00
 description: "Hugo est musicien semi-professionnel et serveur pour payer les factures. Il est désormais célibataire après sa rupture récente avec Chloé."
 slug: "hugo"
 prenom: "Hugo"
 date_naissance: "1999-02-08"
 profession: "Musicien semi-professionnel et serveur pour payer les factures"
 situation: "Célibataire, récemment séparé de chloé"
-nb_articles: 8
-weight: 16
+nb_articles: 9
+weight: 14
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Hugo parvient à identifier comment son 'Parent critique' (hérité de son père Alain) et son 'Enfant blessé' sabotent ses relations. Il décide d'aborder cette discussion en essayant de mobiliser son état 'Adulte' pour sortir de ses schémas de répétition.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/etats-du-moi-conflit-hugo/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/humour-defense-conflit-hugo/">Humour comme défense en situation de conflit : comprendre et agir</a></h3>
+    <div class="parcours-date">2026-05-03</div>
+    <p class="parcours-resume">Le 3 mai 2026, Hugo se retrouve confronté à Chloé dans le local technique du bar pendant sa pause. Alors qu'une tension palpable s'installe, il tente de désamorcer le conflit par des boutades et du sarcasme, reproduisant un mécanisme de défense instinctif malgré ses récentes prises de conscience.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Hugo réalise que son humour n'est plus un simple trait d'esprit, mais un bouclier qui masque son 'Enfant blessé' et remplace la colère brute qu'il exprimait autrefois par le silence. Il commence à percevoir que cette pirouette verbale l'empêche d'accéder à une véritable vulnérabilité et sabote ses relations.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/humour-defense-conflit-hugo/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

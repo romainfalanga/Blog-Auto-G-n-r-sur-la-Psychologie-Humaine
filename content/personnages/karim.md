@@ -1,14 +1,14 @@
 ---
 title: "Karim"
-date: 2026-05-02T05:39:27+00:00
-description: "Karim est entrepreneur, fondateur d'une PME de restauration. Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)."
+date: 2026-05-03T05:42:01+00:00
+description: "Karim est un ancien restaurateur en reconversion vers un projet d'école de cuisine solidaire. Marié à Sofia et père de trois enfants, il cherche désormais à stabiliser sa vie professionnelle et familiale."
 slug: "karim"
 prenom: "Karim"
 date_naissance: "1985-12-01"
-profession: "Entrepreneur, fondateur d'une pme de restauration"
-situation: "Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)"
-nb_articles: 9
-weight: 12
+profession: "En reconversion (ancien restaurateur)"
+situation: "Marié à sofia, père de trois enfants"
+nb_articles: 10
+weight: 1
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Karim prend conscience que ses propres peurs et son besoin de contrôle agissent comme des prophéties autoréalisatrices, provoquant l'instabilité et l'isolement qu'il redoutait initialement.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/propheties-autorealizatrices-face-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/enthousiasme-reconversion-professionnelle-burn-out/">Enthousiasme et reconversion : maîtriser l'élan pour réussir</a></h3>
+    <div class="parcours-date">2026-05-03</div>
+    <p class="parcours-resume">Installé dans son garage à Lyon après avoir vendu son restaurant marseillais, Karim envisage de lancer une école de cuisine solidaire. Seul dans sa maison pendant que Sofia et les enfants sont aux activités, il ressent une forte excitation face à ce nouveau projet, tout en se remémorant ses erreurs passées liées à l'impulsivité.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Karim prend conscience que son enthousiasme débordant peut être un piège menant à l'hyperactivité décisionnelle et à la fuite en avant. Il apprend à s'arrêter et à s'asseoir pour temporiser cet élan afin de ne pas répéter ses échecs financiers et familiaux.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/enthousiasme-reconversion-professionnelle-burn-out/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

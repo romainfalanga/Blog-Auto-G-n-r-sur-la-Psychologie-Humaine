@@ -2811,8 +2811,8 @@
       "prenom": "Karim",
       "age": 40,
       "tranche_age": "adulte en pleine vie active (36-45 ans)",
-      "profession": "entrepreneur, fondateur d'une PME de restauration",
-      "situation_familiale": "marié à Sofia, père de trois enfants (Amine, 12 ans, Lina, 9 ans, Sami, 5 ans)",
+      "profession": "en reconversion (ancien restaurateur)",
+      "situation_familiale": "marié à Sofia, père de trois enfants",
       "traits_personnalite": [
         "ambitieux",
         "charismatique",
@@ -3014,11 +3014,43 @@
           "resume_narratif": "Karim, restaurateur lyonnais, fait face aux conséquences d'un investissement risqué à Marseille malgré les alertes de son associé Romain. Il découvre que son équipe se désengage et que sa femme Sofia s'est résignée à son échec, créant un climat de méfiance généralisée.",
           "evolution": "Karim prend conscience que ses propres peurs et son besoin de contrôle agissent comme des prophéties autoréalisatrices, provoquant l'instabilité et l'isolement qu'il redoutait initialement.",
           "elements_cles": "Restaurant à Lyon, projet à Marseille, Romain (associé), Sofia (femme), Amine et Sami (fils), biais de faux consensus, prophéties autoréalisatrices."
+        },
+        {
+          "date": "2026-05-03",
+          "sujet": "enthousiasme",
+          "contexte": "en période de reconversion professionnelle",
+          "category": "cat2_emotions",
+          "titre": "Enthousiasme et reconversion : maîtriser l'élan pour réussir",
+          "slug": "enthousiasme-reconversion-professionnelle-burn-out",
+          "resume_narratif": "Installé dans son garage à Lyon après avoir vendu son restaurant marseillais, Karim envisage de lancer une école de cuisine solidaire. Seul dans sa maison pendant que Sofia et les enfants sont aux activités, il ressent une forte excitation face à ce nouveau projet, tout en se remémorant ses erreurs passées liées à l'impulsivité.",
+          "evolution": "Karim prend conscience que son enthousiasme débordant peut être un piège menant à l'hyperactivité décisionnelle et à la fuite en avant. Il apprend à s'arrêter et à s'asseoir pour temporiser cet élan afin de ne pas répéter ses échecs financiers et familiaux.",
+          "elements_cles": {
+            "lieux": [
+              "Maison à Lyon",
+              "Garage",
+              "Ancien restaurant à Marseille"
+            ],
+            "personnages": [
+              "Sofia (épouse)",
+              "Lina (fille)",
+              "Romain (ancien associé)"
+            ],
+            "projets_et_objets": [
+              "École de cuisine solidaire",
+              "Classeur de recettes du père",
+              "Vente du restaurant actée"
+            ],
+            "risques_identifies": [
+              "Biais d'optimisme",
+              "Escalade d'engagement",
+              "Déconnexion des besoins physiologiques"
+            ]
+          }
         }
       ],
       "genre": "M",
       "date_naissance": "1985-12-01",
-      "description_dynamique": "Karim est entrepreneur, fondateur d'une PME de restauration. Marié à sofia, père de trois enfants (amine, 12 ans, lina, 9 ans, sami, 5 ans)."
+      "description_dynamique": "Karim est un ancien restaurateur en reconversion vers un projet d'école de cuisine solidaire. Marié à Sofia et père de trois enfants, il cherche désormais à stabiliser sa vie professionnelle et familiale."
     },
     {
       "id": "monique",
@@ -3475,6 +3507,35 @@
               "Analyse transactionnelle (Parent, Adulte, Enfant)",
               "Repérage des montées émotionnelles",
               "Identification de l'idéalisation/dévaluation"
+            ]
+          }
+        },
+        {
+          "date": "2026-05-03",
+          "sujet": "humour comme défense",
+          "contexte": "en situation de conflit",
+          "category": "cat3_schemas",
+          "titre": "Humour comme défense en situation de conflit : comprendre et agir",
+          "slug": "humour-defense-conflit-hugo",
+          "resume_narratif": "Le 3 mai 2026, Hugo se retrouve confronté à Chloé dans le local technique du bar pendant sa pause. Alors qu'une tension palpable s'installe, il tente de désamorcer le conflit par des boutades et du sarcasme, reproduisant un mécanisme de défense instinctif malgré ses récentes prises de conscience.",
+          "evolution": "Hugo réalise que son humour n'est plus un simple trait d'esprit, mais un bouclier qui masque son 'Enfant blessé' et remplace la colère brute qu'il exprimait autrefois par le silence. Il commence à percevoir que cette pirouette verbale l'empêche d'accéder à une véritable vulnérabilité et sabote ses relations.",
+          "elements_cles": {
+            "lieux": [
+              "Local technique du bar",
+              "Studio (référence au 02 avril)"
+            ],
+            "personnes": [
+              "Chloé",
+              "Alain (père)",
+              "Théo",
+              "Samba"
+            ],
+            "contexte_temporel": "3 mai 2026",
+            "techniques_et_concepts": [
+              "Humour comme défense",
+              "Enfant blessé / Parent critique",
+              "Technique de la question claire",
+              "Splitting"
             ]
           }
         }
@@ -4406,6 +4467,17 @@
           "resume_narratif": "Fabien, cadre RH de cinquante ans, se retrouve paralysé par un courriel de Julie, une jeune responsable d'équipe contestant ses directives. Malgré son autorité fonctionnelle, il s'apprête à rédiger une réponse excessivement soumise pour éviter le conflit, ravivant ses blessures liées à son divorce avec Véronique et son rôle d'enfant parentifié.",
           "evolution": "Fabien identifie sa tendance à la soumission (position -/+) comme un mécanisme de survie hérité de son passé familial. Il décide de rompre avec cet automatisme pour chercher une position d'équilibre (+/+) où il se respecte tout en respectant l'autre.",
           "elements_cles": "Usine (bureau), appartement neuf (solitude), Julie (collègue), Lucas (fils), Véronique (ex-femme), positions de vie (Analyse Transactionnelle), nappe phréatique invisible (métaphore du silence paternel)."
+        },
+        {
+          "date": "2026-05-03",
+          "sujet": "biais de la malédiction du savoir",
+          "contexte": "en tant que manager",
+          "category": "cat1_pensees",
+          "titre": "Biais de la malédiction du savoir en tant que manager",
+          "slug": "malediction-du-savoir-manager-hpi",
+          "resume_narratif": "Lors d'une réunion en usine le 3 mai 2026, Fabien, cadre RH, échoue à faire comprendre une décision technique à son équipe et à Julie, la responsable d'équipe. Confronté à des regards fuyants et à un courriel sec, il réalise qu'il utilise des raccourcis mentaux inaccessibles à ses interlocuteurs.",
+          "evolution": "Fabien prend conscience que son expertise crée un 'mur de verre' et qu'il reproduit malgré lui le silence pesant de son père. Il comprend que pour être un manager efficace, il doit traduire son savoir dense en informations maniables sans sombrer dans ses anciens réflexes de soumission.",
+          "elements_cles": "Julie (responsable d'équipe), Véronique (ex-femme), le père de Fabien (figure du silence), position de vie -/+, passion pour le jazz, biais du coût irrécupérable, contexte d'usine, profil HPI."
         }
       ],
       "genre": "M",
