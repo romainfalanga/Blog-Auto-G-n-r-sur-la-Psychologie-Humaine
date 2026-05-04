@@ -1,6 +1,6 @@
 ---
 title: "Margot"
-date: 2026-05-03T05:42:01+00:00
+date: 2026-05-04T05:52:00+00:00
 description: "Margot est une coach qui vient de valider sa reconversion par ses premiers succès professionnels. Elle transforme sa crise conjugale et le départ de ses enfants en une saine autonomie, habitant enfin son corps et envisageant l'avenir avec espoir."
 slug: "margot"
 prenom: "Margot"
@@ -8,7 +8,7 @@ date_naissance: "1973-07-23"
 profession: "Coach (activité lancée)"
 situation: "En phase de reconstruction personnelle et conjugale"
 nb_articles: 9
-weight: 8
+weight: 9
 draft: false
 ---
 

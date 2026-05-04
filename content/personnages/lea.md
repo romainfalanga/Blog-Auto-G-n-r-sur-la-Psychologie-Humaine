@@ -1,14 +1,14 @@
 ---
 title: "Léa"
-date: 2026-05-03T05:42:01+00:00
+date: 2026-05-04T05:52:00+00:00
 description: "Léa est étudiante en master de psychologie clinique. En couple avec Youssef, elle vit en studio étudiant."
 slug: "lea"
 prenom: "Léa"
 date_naissance: "2002-11-12"
 profession: "Étudiante en master de psychologie clinique"
 situation: "En couple avec youssef, vit en studio étudiant"
-nb_articles: 9
-weight: 12
+nb_articles: 10
+weight: 1
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Léa a pris conscience que son besoin d'être indispensable et sa peur de l'abandon sont les racines de sa dépendance affective. Elle comprend désormais la distinction théorique entre son style d'attachement anxieux et ses comportements de codépendance, ce qui renforce sa volonté de ne plus tolérer l'inacceptable.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/dependance-affective-attachement-anxieux/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/pensee-tout-ou-rien-conflit/">Pensée tout-ou-rien en situation de conflit : comprendre et agir</a></h3>
+    <div class="parcours-date">2026-05-04</div>
+    <p class="parcours-resume">Après une dispute avec son compagnon Youssef qui a critiqué son émotivité, Léa se retrouve seule dans leur studio, plongée dans ses cours de psychologie. Elle observe comment ses pensées basculent instantanément vers des conclusions extrêmes de rejet total ou de rupture imminente.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Léa identifie que sa pensée tout-ou-rien est un mécanisme de survie hérité de son enfance et de l'instabilité émotionnelle de ses parents. Elle prend conscience que cette distorsion cognitive alimente son urgence émotionnelle et son besoin de surinvestissement relationnel.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/pensee-tout-ou-rien-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

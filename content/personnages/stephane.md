@@ -1,14 +1,14 @@
 ---
 title: "Stéphane"
-date: 2026-05-03T05:42:01+00:00
+date: 2026-05-04T05:52:00+00:00
 description: "Stéphane est commercial grands comptes dans une multinationale. Marié à sandrine, père d'un adolescent (maxime, 15 ans)."
 slug: "stephane"
 prenom: "Stéphane"
 date_naissance: "1980-04-25"
 profession: "Commercial grands comptes dans une multinationale"
 situation: "Marié à sandrine, père d'un adolescent (maxime, 15 ans)"
-nb_articles: 8
-weight: 18
+nb_articles: 9
+weight: 16
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Stéphane prend conscience que ses justifications automatiques sont un mécanisme de défense hérité de son passé d'enfant parentifié. Il réalise qu'il édulcore la vérité pour maintenir la paix familiale et protéger son image, au détriment d'une expression authentique de ses besoins.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/rationalisation-avec-ses-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/regression-apres-un-echec-psychologie/">Régression après un échec : comprendre ce mécanisme psychologique</a></h3>
+    <div class="parcours-date">2026-05-04</div>
+    <p class="parcours-resume">Après avoir perdu le contrat Lemoine au profit d'un concurrent, Stéphane ressent une détresse profonde qui le renvoie émotionnellement à son enfance. Au lieu de se confier à sa compagne Sandrine, il appelle sa mère pour chercher une consolation enfantine et se réfugie dans sa voiture devant son club de golf.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Stéphane prend conscience de sa tendance à la régression psychologique, réalisant qu'il abandonne son identité d'adulte compétent pour redevenir l'enfant cherchant la validation maternelle face à l'échec.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/regression-apres-un-echec-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -1,14 +1,14 @@
 ---
 title: "Djamila"
-date: 2026-05-03T05:42:01+00:00
+date: 2026-05-04T05:52:00+00:00
 description: "Djamila est travailleuse sociale dans une association d'aide aux femmes. Séparée, en reconstruction, un fils (adam, 6 ans)."
 slug: "djamila"
 prenom: "Djamila"
 date_naissance: "1989-05-06"
 profession: "Travailleuse sociale dans une association d'aide aux femmes"
 situation: "Séparée, en reconstruction, un fils (adam, 6 ans)"
-nb_articles: 8
-weight: 19
+nb_articles: 9
+weight: 17
 draft: false
 ---
 
@@ -101,5 +101,16 @@ draft: false
       <p>Djamila apprend à distinguer le soulagement authentique, fruit de son propre travail, de la 'lune de miel' factice qu'elle subissait autrefois. Elle commence à nommer ses mécanismes de défense, comme le biais de confirmation et l'armure de glace, pour ne plus jeter ses émotions aux oubliettes.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/soulagement-apres-un-succes/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/fierte-au-travail-comprendre-manifestations-hpi/">Fierté au travail : la comprendre pour mieux s'épanouir</a></h3>
+    <div class="parcours-date">2026-05-04</div>
+    <p class="parcours-resume">Le 4 mai 2026, Djamila présente avec succès son nouveau protocole d'accueil pour les victimes de violences au sein de son association. Malgré les applaudissements de ses collègues Amina et Antoine, elle lutte contre un sentiment de fierté qu'elle perçoit comme une vulnérabilité dangereuse.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Djamila identifie sa fierté comme un mécanisme de défense ambivalent, oscillant entre un sentiment d'invincibilité et une hypervigilance héritée de son passé avec son ex-conjoint Samir. Elle réalise que son besoin de tout contrôler et de diluer ses succès l'isole de son équipe.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/fierte-au-travail-comprendre-manifestations-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

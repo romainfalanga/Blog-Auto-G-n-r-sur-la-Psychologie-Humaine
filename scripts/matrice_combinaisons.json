@@ -5834,6 +5834,103 @@
       },
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-04",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "pensée tout-ou-rien (pensée dichotomique)",
+      "contexte": "en situation de conflit",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "contrôlant(e)",
+      "prenom": "Léa",
+      "age": "23 ans",
+      "title": "Pensée tout-ou-rien en situation de conflit : comprendre et agir",
+      "slug": "pensee-tout-ou-rien-conflit",
+      "tags": [
+        "pensée-tout-ou-rien",
+        "distorsions-cognitives",
+        "conflits",
+        "codépendance",
+        "psychologie"
+      ],
+      "resume_narratif": "Après une dispute avec son compagnon Youssef qui a critiqué son émotivité, Léa se retrouve seule dans leur studio, plongée dans ses cours de psychologie. Elle observe comment ses pensées basculent instantanément vers des conclusions extrêmes de rejet total ou de rupture imminente.",
+      "evolution": "Léa identifie que sa pensée tout-ou-rien est un mécanisme de survie hérité de son enfance et de l'instabilité émotionnelle de ses parents. Elle prend conscience que cette distorsion cognitive alimente son urgence émotionnelle et son besoin de surinvestissement relationnel.",
+      "elements_cles": {
+        "personnages": [
+          "Léa",
+          "Youssef (compagnon)",
+          "Zoé (amie)",
+          "Dr Moreau (thérapeute)",
+          "Parents de Léa"
+        ],
+        "lieux": [
+          "Studio de Léa et Youssef",
+          "Marché (mentionné)",
+          "Cafétéria (souvenir)"
+        ],
+        "concepts_et_outils": [
+          "Pensée tout-ou-rien/dichotomique",
+          "Théorie d'Aaron T. Beck",
+          "Attachement anxieux",
+          "Codépendance"
+        ],
+        "decisions": [
+          "Comprendre la différence entre pensée dichotomique et pensée nuancée pour ne plus céder à l'urgence émotionnelle."
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-04",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "fierté",
+      "contexte": "au travail",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "haut potentiel intellectuel (HPI)",
+      "prenom": "Djamila",
+      "age": "36 ans",
+      "title": "Fierté au travail : la comprendre pour mieux s'épanouir",
+      "slug": "fierte-au-travail-comprendre-manifestations-hpi",
+      "tags": [
+        "fierté",
+        "travail",
+        "HPI",
+        "émotions",
+        "psychologie"
+      ],
+      "resume_narratif": "Le 4 mai 2026, Djamila présente avec succès son nouveau protocole d'accueil pour les victimes de violences au sein de son association. Malgré les applaudissements de ses collègues Amina et Antoine, elle lutte contre un sentiment de fierté qu'elle perçoit comme une vulnérabilité dangereuse.",
+      "evolution": "Djamila identifie sa fierté comme un mécanisme de défense ambivalent, oscillant entre un sentiment d'invincibilité et une hypervigilance héritée de son passé avec son ex-conjoint Samir. Elle réalise que son besoin de tout contrôler et de diluer ses succès l'isole de son équipe.",
+      "elements_cles": "Date du 4 mai 2026 ; association (lieu de travail) ; personnages d'Amina (soutien) et Antoine (collègue complexe) ; mention de l'ex-conjoint manipulateur Samir ; projet de protocole d'accueil et projet de relogement.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-04",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "régression",
+      "contexte": "après un échec",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": "perfectionniste",
+      "prenom": "Stéphane",
+      "age": "46 ans",
+      "title": "Régression après un échec : comprendre ce mécanisme psychologique",
+      "slug": "regression-apres-un-echec-psychologie",
+      "tags": [
+        "régression",
+        "échec professionnel",
+        "perfectionnisme",
+        "psychologie",
+        "schémas répétitifs"
+      ],
+      "resume_narratif": "Après avoir perdu le contrat Lemoine au profit d'un concurrent, Stéphane ressent une détresse profonde qui le renvoie émotionnellement à son enfance. Au lieu de se confier à sa compagne Sandrine, il appelle sa mère pour chercher une consolation enfantine et se réfugie dans sa voiture devant son club de golf.",
+      "evolution": "Stéphane prend conscience de sa tendance à la régression psychologique, réalisant qu'il abandonne son identité d'adulte compétent pour redevenir l'enfant cherchant la validation maternelle face à l'échec.",
+      "elements_cles": "Contrat Lemoine (échec professionnel), Philippe (frère performant), Sandrine (conjointe), club de golf, appel à sa mère, mécanisme de défense de régression, sentiment d'enfant parentifié.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }
