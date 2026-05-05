@@ -1,14 +1,14 @@
 ---
 title: "Isabelle"
-date: 2026-05-04T05:52:00+00:00
+date: 2026-05-05T05:34:23+00:00
 description: "Isabelle est psychologue scolaire dans un collège. Divorcée, un fils adolescent (théo, 16 ans)."
 slug: "isabelle"
 prenom: "Isabelle"
 date_naissance: "1978-09-03"
 profession: "Psychologue scolaire dans un collège"
 situation: "Divorcée, un fils adolescent (théo, 16 ans)"
-nb_articles: 9
-weight: 11
+nb_articles: 10
+weight: 3
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Isabelle identifie le mépris comme un mécanisme de défense chez sa mère et fait le lien avec les comportements passés de son ex-mari Laurent. Elle parvient à rester lucide et présente sans se laisser dissocier, appliquant ses connaissances psychologiques pour éviter la fatigue de compassion.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mepris-lors-d-un-deuil-comprendre-surmonter/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/empathie-cognitive-vs-affective-avec-ses-parents/">Empathie cognitive vs affective avec ses parents : le guide</a></h3>
+    <div class="parcours-date">2026-05-05</div>
+    <p class="parcours-resume">Isabelle rend visite à sa mère, Geneviève, pour l'aider dans ses démarches administratives liées au deuil. Face aux plaintes et à l'agressivité de sa mère, Isabelle lutte pour ne pas sombrer dans une détresse émotionnelle par procuration, puisant dans ses outils thérapeutiques pour maintenir une distance nécessaire.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Isabelle parvient à conscientiser la distinction entre l'empathie affective, qui l'épuise par contagion, et l'empathie cognitive, qui lui permet de comprendre les peurs de sa mère sans les subir physiquement.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/empathie-cognitive-vs-affective-avec-ses-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

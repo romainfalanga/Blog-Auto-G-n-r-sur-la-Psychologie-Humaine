@@ -1,14 +1,14 @@
 ---
 title: "Youssef"
-date: 2026-05-04T05:52:00+00:00
-description: "Youssef est ingénieur en informatique, actuellement en arrêt pour épuisement professionnel. En couple avec Léa, il envisage une reconversion dans le conseil en éthique numérique malgré ses blocages."
+date: 2026-05-05T05:34:23+00:00
+description: "Youssef est ingénieur en informatique en fin d'arrêt maladie, préparant un déménagement à Lyon avec Léa. Il prend conscience qu'il utilise la rationalisation et les chiffres pour masquer sa vulnérabilité émotionnelle."
 slug: "youssef"
 prenom: "Youssef"
 date_naissance: "1996-08-14"
-profession: "Ingénieur en informatique (actuellement en arrêt pour épuisement professionnel)"
-situation: "En couple avec léa, vit en appartement"
-nb_articles: 9
-weight: 10
+profession: "Ingénieur en informatique (en fin d'arrêt pour épuisement professionnel)"
+situation: "En couple avec léa, prépare un déménagement à lyon"
+nb_articles: 10
+weight: 2
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Youssef prend conscience que son héritage paternel rigide et son alexithymie l'ont poussé à intellectualiser ses émotions par les chiffres. Il comprend que développer sa granularité émotionnelle est essentiel pour ne plus se murer dans le silence et pour se reconnecter réellement à Léa.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/granularite-emotionnelle-en-couple-comprendre-ressentis/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/intellectualisation-au-travail-hpi-solutions/">Intellectualisation au travail : comment sortir du mental ?</a></h3>
+    <div class="parcours-date">2026-05-05</div>
+    <p class="parcours-resume">Youssef, un ingénieur en fin d'arrêt maladie pour épuisement professionnel, reçoit un message de son manager pour organiser son entretien de reprise. Face à l'angoisse, il se réfugie immédiatement dans la création de graphiques Excel et l'analyse sémantique de l'e-mail pour rationaliser son retour.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Youssef prend conscience que son recours systématique à la logique et aux chiffres est un mécanisme de défense hérité de son père pour masquer sa vulnérabilité. Il réalise qu'il traite sa vie comme un code à débugger, restant spectateur de ses propres émotions sans les ressentir.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/intellectualisation-au-travail-hpi-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

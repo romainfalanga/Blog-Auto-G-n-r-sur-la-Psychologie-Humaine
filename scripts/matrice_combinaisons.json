@@ -5931,6 +5931,128 @@
       "elements_cles": "Contrat Lemoine (échec professionnel), Philippe (frère performant), Sandrine (conjointe), club de golf, appel à sa mère, mécanisme de défense de régression, sentiment d'enfant parentifié.",
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-05",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet de récence",
+      "contexte": "face à une décision importante",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "contrôlant(e)",
+      "prenom": "Lucas",
+      "age": "25 ans",
+      "title": "Effet de récence face à une décision importante : comment l'éviter",
+      "slug": "effet-recence-decision-importante",
+      "tags": [
+        "biais-cognitif",
+        "prise-de-decision",
+        "effet-de-recence",
+        "psychologie-quotidienne",
+        "gestion-du-contrôle"
+      ],
+      "resume_narratif": "Assis dans sa salle de sport, Lucas hésite entre un stage à Lyon et rester à Paris alors qu'il subit la pression des derniers avis négatifs de son tuteur, de son colocataire Romain et de sa mère Sandrine. Il analyse sa tendance à surévaluer ces informations récentes au détriment de son parcours global en école de commerce.",
+      "evolution": "Lucas identifie l'effet de récence comme le moteur de son indécision actuelle et réalise que son syndrome de l'imposteur se nourrit de ses dernières interactions sociales plutôt que d'une vision d'ensemble.",
+      "elements_cles": {
+        "lieux": [
+          "Salle de sport de l'école",
+          "Colocation",
+          "Lyon",
+          "Paris"
+        ],
+        "personnes": [
+          "Romain (colocataire)",
+          "Sandrine (mère)",
+          "Antoine (ancien adversaire)",
+          "Maxime",
+          "Tuteur"
+        ],
+        "techniques_et_biais": [
+          "Effet de récence",
+          "Effet bandwagon",
+          "Effet spotlight",
+          "Technique du pseudo-oui"
+        ],
+        "contexte": [
+          "Décision de carrière",
+          "Mémoire de fin d'études",
+          "Match de basket de mars dernier"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-05",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "empathie cognitive vs affective",
+      "contexte": "avec ses parents",
+      "angle": "3 techniques/exercices pratiques",
+      "profil": null,
+      "prenom": "Isabelle",
+      "age": "47 ans",
+      "title": "Empathie cognitive vs affective avec ses parents : le guide",
+      "slug": "empathie-cognitive-vs-affective-avec-ses-parents",
+      "tags": [
+        "empathie",
+        "relations familiales",
+        "psychologie",
+        "épuisement émotionnel",
+        "limites"
+      ],
+      "resume_narratif": "Isabelle rend visite à sa mère, Geneviève, pour l'aider dans ses démarches administratives liées au deuil. Face aux plaintes et à l'agressivité de sa mère, Isabelle lutte pour ne pas sombrer dans une détresse émotionnelle par procuration, puisant dans ses outils thérapeutiques pour maintenir une distance nécessaire.",
+      "evolution": "Isabelle parvient à conscientiser la distinction entre l'empathie affective, qui l'épuise par contagion, et l'empathie cognitive, qui lui permet de comprendre les peurs de sa mère sans les subir physiquement.",
+      "elements_cles": {
+        "personnages_mentionnes": [
+          "Geneviève (mère)",
+          "Théo (ex-compagnon)",
+          "Catherine (amie)",
+          "Laurent (ex-mari)",
+          "Aurélie"
+        ],
+        "lieux_et_contexte": [
+          "Appartement de Geneviève (4ème étage)",
+          "Collège (lieu de travail d'Isabelle)"
+        ],
+        "techniques_et_concepts": [
+          "Restructuration cognitive",
+          "Empathie cognitive vs affective",
+          "Enfant parentifiée",
+          "Fatigue de compassion"
+        ],
+        "evenements_passes": [
+          "Départ de Théo le 10 avril",
+          "Deuil familial récent"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-05",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "intellectualisation",
+      "contexte": "au travail",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "haut potentiel intellectuel (HPI)",
+      "prenom": "Youssef",
+      "age": "29 ans",
+      "title": "Intellectualisation au travail : comment sortir du mental ?",
+      "slug": "intellectualisation-au-travail-hpi-solutions",
+      "tags": [
+        "intellectualisation",
+        "HPI",
+        "épuisement professionnel",
+        "émotions",
+        "psychologie du travail"
+      ],
+      "resume_narratif": "Youssef, un ingénieur en fin d'arrêt maladie pour épuisement professionnel, reçoit un message de son manager pour organiser son entretien de reprise. Face à l'angoisse, il se réfugie immédiatement dans la création de graphiques Excel et l'analyse sémantique de l'e-mail pour rationaliser son retour.",
+      "evolution": "Youssef prend conscience que son recours systématique à la logique et aux chiffres est un mécanisme de défense hérité de son père pour masquer sa vulnérabilité. Il réalise qu'il traite sa vie comme un code à débugger, restant spectateur de ses propres émotions sans les ressentir.",
+      "elements_cles": "Date du 5 mai 2026 ; manager (entretien de reprise) ; Léa (compagne, projet de déménagement à Lyon) ; Nicolas (ami) ; Hamid (père) ; profil HPI ; utilisation d'Excel comme outil de défense.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

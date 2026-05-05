@@ -1,14 +1,14 @@
 ---
 title: "Lucas"
-date: 2026-05-04T05:52:00+00:00
+date: 2026-05-05T05:34:23+00:00
 description: "Lucas est étudiant en dernière année d'école de commerce, en stage. Célibataire, en colocation avec deux amis."
 slug: "lucas"
 prenom: "Lucas"
 date_naissance: "2001-04-10"
 profession: "Étudiant en dernière année d'école de commerce, en stage"
 situation: "Célibataire, en colocation avec deux amis"
-nb_articles: 9
-weight: 6
+nb_articles: 10
+weight: 1
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Lucas a réussi à identifier l'effet bandwagon qui transforme ses désirs en réflexes collectifs et a testé pour la première fois une technique de 'pseudo-décision'. Il commence à lier son besoin de conformité à son syndrome de l'imposteur et à son milieu social modeste.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-bandwagon-amitie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-recence-decision-importante/">Effet de récence face à une décision importante : comment l'éviter</a></h3>
+    <div class="parcours-date">2026-05-05</div>
+    <p class="parcours-resume">Assis dans sa salle de sport, Lucas hésite entre un stage à Lyon et rester à Paris alors qu'il subit la pression des derniers avis négatifs de son tuteur, de son colocataire Romain et de sa mère Sandrine. Il analyse sa tendance à surévaluer ces informations récentes au détriment de son parcours global en école de commerce.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Lucas identifie l'effet de récence comme le moteur de son indécision actuelle et réalise que son syndrome de l'imposteur se nourrit de ses dernières interactions sociales plutôt que d'une vision d'ensemble.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-recence-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
