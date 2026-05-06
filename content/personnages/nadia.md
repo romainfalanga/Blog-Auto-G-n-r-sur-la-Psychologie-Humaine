@@ -1,14 +1,14 @@
 ---
 title: "Nadia"
-date: 2026-05-05T05:34:23+00:00
+date: 2026-05-06T05:47:20+00:00
 description: "Nadia est directrice marketing dans une entreprise tech. En couple avec Antoine, elle est mère d'une fille (Yasmine, 8 ans) en garde alternée."
 slug: "nadia"
 prenom: "Nadia"
 date_naissance: "1987-05-18"
 profession: "Directrice marketing dans une entreprise tech"
 situation: "En couple avec antoine, mère d'une fille (yasmine, 8 ans), garde alternée"
-nb_articles: 9
-weight: 9
+nb_articles: 10
+weight: 2
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Nadia commence à réaliser que son anxiété est une expérience privée invisible pour les autres, comprenant que son sentiment d'être une 'vitrine de verre' est une distorsion cognitive appelée l'illusion de transparence.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/illusion-de-transparence-interactions-sociales-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-de-primaute-en-tant-que-manager/">Effet de primauté en tant que manager : s'en libérer</a></h3>
+    <div class="parcours-date">2026-05-06</div>
+    <p class="parcours-resume">Lors d'un entretien de recrutement, Nadia juge instantanément le candidat Marc comme incompétent suite à une entrée maladroite. Malgré la qualité technique exceptionnelle de sa présentation, elle reste bloquée sur sa première impression négative jusqu'à ce que l'enthousiasme de son assistante Julie ne provoque chez elle un doute salvateur.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Nadia prend conscience que son cerveau de haut potentiel est victime de l'effet de primauté, transformant ses premières impressions en filtres déformants. Elle réalise que son besoin de contrôle et son exigence peuvent nuire à son impartialité de manager.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-de-primaute-en-tant-que-manager/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

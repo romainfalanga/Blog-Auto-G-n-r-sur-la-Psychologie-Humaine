@@ -1,14 +1,14 @@
 ---
 title: "Mei"
-date: 2026-05-05T05:34:23+00:00
+date: 2026-05-06T05:47:20+00:00
 description: "Mei est étudiante en école d'art, spécialité illustration. Elle est en couple avec Julien depuis un mois et vit en résidence étudiante."
 slug: "mei"
 prenom: "Mei"
 date_naissance: "2003-07-02"
 profession: "Étudiante en école d'art, spécialité illustration"
 situation: "En couple avec julien depuis un mois, vit en résidence étudiante"
-nb_articles: 9
-weight: 19
+nb_articles: 10
+weight: 7
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Mei prend conscience que sa peur de l'autorité est un écho de son passé familial qui bride son intuition créative et la pousse au conformisme. Bien qu'elle sache désormais nommer cette émotion, elle réalise qu'elle doit encore apprendre à ne plus sacrifier son identité d'artiste pour obtenir une simple approbation.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/peur-face-a-lautorite/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/emerveillement-en-voyage-ou-en-expatriation-guide/">Émerveillement en voyage ou en expatriation : le guide de Mei</a></h3>
+    <div class="parcours-date">2026-05-06</div>
+    <p class="parcours-resume">Mei prend le train de la gare de Lyon vers Florence pour son premier voyage en solitaire après avoir soumis son projet final à M. Dubois. Durant le trajet à travers les Alpes, elle vit une expérience de transcendance face aux paysages montagneux, s'éloignant de ses anciens schémas de dépendance envers ses parents et son ami Julien.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Mei expérimente l'effet du 'petit soi', réalisant que l'émerveillement réduit son anxiété sociale et son besoin de validation constante. Elle commence à délaisser son 'faux self' de docilité pour embrasser une identité plus authentique et connectée à l'immensité du monde.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/emerveillement-en-voyage-ou-en-expatriation-guide/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

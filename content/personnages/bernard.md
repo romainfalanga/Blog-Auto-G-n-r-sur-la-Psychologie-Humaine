@@ -1,13 +1,13 @@
 ---
 title: "Bernard"
-date: 2026-05-05T05:34:23+00:00
-description: "Bernard est artisan ébéniste en campagne. Veuf, il commence à briser son armure de silence pour accepter pleinement son chagrin au lieu de s'enfermer dans le travail."
+date: 2026-05-06T05:47:20+00:00
+description: "Bernard est artisan ébéniste en campagne. Veuf, il cherche désormais à dépasser ses silences et ses réflexes de défense pour privilégier la réconciliation avec son fils Éric."
 slug: "bernard"
 prenom: "Bernard"
 date_naissance: "1967-08-21"
 profession: "Artisan ébéniste, atelier en campagne"
-situation: "Veuf, en phase de réconciliation avec son fils éric"
-nb_articles: 8
+situation: "Veuf, place la réconciliation avec son fils éric comme priorité absolue"
+nb_articles: 9
 weight: 20
 draft: false
 ---
@@ -101,5 +101,16 @@ draft: false
       <p>Bernard prend conscience que son silence n'est pas neutre mais constitue un choix actif qui alimente son isolement. Il réalise que son habitude de privilégier les objets matériels pour exprimer ses sentiments est une stratégie d'évitement héritée de son passé.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-omission-face-a-la-solitude-bernard/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/clivage-conflit-comprendre-gerer/">Clivage en situation de conflit : comprendre et agir</a></h3>
+    <div class="parcours-date">2026-05-06</div>
+    <p class="parcours-resume">Le 06 mai 2026, Bernard reçoit son fils Éric dans son atelier de menuiserie pour discuter de la vente de la maison d'Hélène. Face à la tension du conflit, Bernard se mure dans le silence et le clivage, opposant radicalement le caractère sacré de la mémoire de sa femme aux propositions pratiques de son fils.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Bernard identifie son mécanisme de clivage comme un héritage familial et un réflexe de survie qui paralyse sa communication. Il exprime désormais la volonté de ne plus laisser ses meubles être ses seuls messagers et place la réconciliation avec Éric comme sa priorité actuelle.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/clivage-conflit-comprendre-gerer/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

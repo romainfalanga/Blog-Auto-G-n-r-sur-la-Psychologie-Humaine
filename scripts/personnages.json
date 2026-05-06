@@ -1342,6 +1342,17 @@
               "Refus passé d'une opportunité de direction générale"
             ]
           }
+        },
+        {
+          "date": "2026-05-06",
+          "sujet": "effet de primauté",
+          "contexte": "en tant que manager",
+          "category": "cat1_pensees",
+          "titre": "Effet de primauté en tant que manager : s'en libérer",
+          "slug": "effet-de-primaute-en-tant-que-manager",
+          "resume_narratif": "Lors d'un entretien de recrutement, Nadia juge instantanément le candidat Marc comme incompétent suite à une entrée maladroite. Malgré la qualité technique exceptionnelle de sa présentation, elle reste bloquée sur sa première impression négative jusqu'à ce que l'enthousiasme de son assistante Julie ne provoque chez elle un doute salvateur.",
+          "evolution": "Nadia prend conscience que son cerveau de haut potentiel est victime de l'effet de primauté, transformant ses premières impressions en filtres déformants. Elle réalise que son besoin de contrôle et son exigence peuvent nuire à son impartialité de manager.",
+          "elements_cles": "Marc (candidat rejeté initialement), Julie (assistante), Yasmine (mentionnée pour son anniversaire), crises de panique d'avril, illusion de transparence, séances de pilates, poste de directrice marketing."
         }
       ],
       "genre": "F",
@@ -4821,6 +4832,33 @@
           "resume_narratif": "Mei se rend au bureau de M. Dubois pour déposer son projet final de dessin, luttant contre une peur paralysante de l'autorité. Elle se remémore son enfance où elle cachait ses aquarelles à son père pour répondre à ses attentes académiques, et hésite longuement devant la porte du professeur avant de glisser son travail dans le tiroir.",
           "evolution": "Mei prend conscience que sa peur de l'autorité est un écho de son passé familial qui bride son intuition créative et la pousse au conformisme. Bien qu'elle sache désormais nommer cette émotion, elle réalise qu'elle doit encore apprendre à ne plus sacrifier son identité d'artiste pour obtenir une simple approbation.",
           "elements_cles": "M. Dubois (professeur), Wei (famille), carnet de croquis, bureau de l'enseignant, restaurant des parents (souvenir), vernissage de mars (référence passée), Julien (mentionné comme relation passée), technique de 'faire bonne figure'."
+        },
+        {
+          "date": "2026-05-06",
+          "sujet": "émerveillement",
+          "contexte": "en voyage ou en expatriation",
+          "category": "cat2_emotions",
+          "titre": "Émerveillement en voyage ou en expatriation : le guide de Mei",
+          "slug": "emerveillement-en-voyage-ou-en-expatriation-guide",
+          "resume_narratif": "Mei prend le train de la gare de Lyon vers Florence pour son premier voyage en solitaire après avoir soumis son projet final à M. Dubois. Durant le trajet à travers les Alpes, elle vit une expérience de transcendance face aux paysages montagneux, s'éloignant de ses anciens schémas de dépendance envers ses parents et son ami Julien.",
+          "evolution": "Mei expérimente l'effet du 'petit soi', réalisant que l'émerveillement réduit son anxiété sociale et son besoin de validation constante. Elle commence à délaisser son 'faux self' de docilité pour embrasser une identité plus authentique et connectée à l'immensité du monde.",
+          "elements_cles": {
+            "lieux": [
+              "Gare de Lyon (Paris)",
+              "Alpes",
+              "Florence (destination)"
+            ],
+            "personnages": [
+              "M. Dubois (professeur)",
+              "Li et Wei (parents)",
+              "Julien (ami/relation fusionnelle)"
+            ],
+            "objets_et_decisions": [
+              "Carnet de croquis autrefois caché",
+              "Projet final déposé",
+              "Décision de voyager seule sans demander d'autorisation"
+            ]
+          }
         }
       ],
       "genre": "F",
@@ -4833,7 +4871,7 @@
       "age": 58,
       "tranche_age": "senior en quête de sens (56-70 ans)",
       "profession": "artisan ébéniste, atelier en campagne",
-      "situation_familiale": "veuf, en phase de réconciliation avec son fils Éric",
+      "situation_familiale": "veuf, place la réconciliation avec son fils Éric comme priorité absolue",
       "traits_personnalite": [
         "taiseux",
         "méticuleux",
@@ -5047,11 +5085,22 @@
           "resume_narratif": "Bernard termine la restauration d'une chaise en cerisier destinée à son fils Éric dans son atelier. Malgré son envie de renouer le contact, il hésite longuement devant son téléphone, paralysé par la peur de commettre une erreur de communication qui aggraverait leurs tensions.",
           "evolution": "Bernard prend conscience que son silence n'est pas neutre mais constitue un choix actif qui alimente son isolement. Il réalise que son habitude de privilégier les objets matériels pour exprimer ses sentiments est une stratégie d'évitement héritée de son passé.",
           "elements_cles": "Éric (fils), Sultan (chien), Hélène (épouse décédée), atelier de menuiserie, chaise en cerisier, enveloppe notariale non ouverte, biais d'omission, blocage de dos récent."
+        },
+        {
+          "date": "2026-05-06",
+          "sujet": "clivage",
+          "contexte": "en situation de conflit",
+          "category": "cat3_schemas",
+          "titre": "Clivage en situation de conflit : comprendre et agir",
+          "slug": "clivage-conflit-comprendre-gerer",
+          "resume_narratif": "Le 06 mai 2026, Bernard reçoit son fils Éric dans son atelier de menuiserie pour discuter de la vente de la maison d'Hélène. Face à la tension du conflit, Bernard se mure dans le silence et le clivage, opposant radicalement le caractère sacré de la mémoire de sa femme aux propositions pratiques de son fils.",
+          "evolution": "Bernard identifie son mécanisme de clivage comme un héritage familial et un réflexe de survie qui paralyse sa communication. Il exprime désormais la volonté de ne plus laisser ses meubles être ses seuls messagers et place la réconciliation avec Éric comme sa priorité actuelle.",
+          "elements_cles": "Date du 06 mai 2026 ; présence du chien Sultan ; mention du voyage en Toscane (avril) et de l'enveloppe notariale (mars) ; conflit sur la vente de la maison d'Hélène ; décision de sceller une armoire au grenier ; métaphore de la chaise en cerisier."
         }
       ],
       "genre": "M",
       "date_naissance": "1967-08-21",
-      "description_dynamique": "Bernard est artisan ébéniste en campagne. Veuf, il commence à briser son armure de silence pour accepter pleinement son chagrin au lieu de s'enfermer dans le travail."
+      "description_dynamique": "Bernard est artisan ébéniste en campagne. Veuf, il cherche désormais à dépasser ses silences et ses réflexes de défense pour privilégier la réconciliation avec son fils Éric."
     }
   ]
 }

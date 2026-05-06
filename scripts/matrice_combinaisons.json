@@ -6053,6 +6053,97 @@
       "elements_cles": "Date du 5 mai 2026 ; manager (entretien de reprise) ; Léa (compagne, projet de déménagement à Lyon) ; Nicolas (ami) ; Hamid (père) ; profil HPI ; utilisation d'Excel comme outil de défense.",
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-06",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet de primauté",
+      "contexte": "en tant que manager",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "haut potentiel intellectuel (HPI)",
+      "prenom": "Nadia",
+      "age": "38 ans",
+      "title": "Effet de primauté en tant que manager : s'en libérer",
+      "slug": "effet-de-primaute-en-tant-que-manager",
+      "tags": [
+        "effet de primauté",
+        "psychologie manager",
+        "biais cognitifs",
+        "management HPI",
+        "Nadia"
+      ],
+      "resume_narratif": "Lors d'un entretien de recrutement, Nadia juge instantanément le candidat Marc comme incompétent suite à une entrée maladroite. Malgré la qualité technique exceptionnelle de sa présentation, elle reste bloquée sur sa première impression négative jusqu'à ce que l'enthousiasme de son assistante Julie ne provoque chez elle un doute salvateur.",
+      "evolution": "Nadia prend conscience que son cerveau de haut potentiel est victime de l'effet de primauté, transformant ses premières impressions en filtres déformants. Elle réalise que son besoin de contrôle et son exigence peuvent nuire à son impartialité de manager.",
+      "elements_cles": "Marc (candidat rejeté initialement), Julie (assistante), Yasmine (mentionnée pour son anniversaire), crises de panique d'avril, illusion de transparence, séances de pilates, poste de directrice marketing.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-06",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "émerveillement",
+      "contexte": "en voyage ou en expatriation",
+      "angle": "les signes que vous êtes concerné(e)",
+      "profil": "introverti(e)",
+      "prenom": "Mei",
+      "age": "22 ans",
+      "title": "Émerveillement en voyage ou en expatriation : le guide de Mei",
+      "slug": "emerveillement-en-voyage-ou-en-expatriation-guide",
+      "tags": [
+        "émerveillement",
+        "psychologie positive",
+        "expatriation",
+        "voyage",
+        "émotions"
+      ],
+      "resume_narratif": "Mei prend le train de la gare de Lyon vers Florence pour son premier voyage en solitaire après avoir soumis son projet final à M. Dubois. Durant le trajet à travers les Alpes, elle vit une expérience de transcendance face aux paysages montagneux, s'éloignant de ses anciens schémas de dépendance envers ses parents et son ami Julien.",
+      "evolution": "Mei expérimente l'effet du 'petit soi', réalisant que l'émerveillement réduit son anxiété sociale et son besoin de validation constante. Elle commence à délaisser son 'faux self' de docilité pour embrasser une identité plus authentique et connectée à l'immensité du monde.",
+      "elements_cles": {
+        "lieux": [
+          "Gare de Lyon (Paris)",
+          "Alpes",
+          "Florence (destination)"
+        ],
+        "personnages": [
+          "M. Dubois (professeur)",
+          "Li et Wei (parents)",
+          "Julien (ami/relation fusionnelle)"
+        ],
+        "objets_et_decisions": [
+          "Carnet de croquis autrefois caché",
+          "Projet final déposé",
+          "Décision de voyager seule sans demander d'autorisation"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-06",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "clivage",
+      "contexte": "en situation de conflit",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "survivant(e) de relation toxique",
+      "prenom": "Bernard",
+      "age": "58 ans",
+      "title": "Clivage en situation de conflit : comprendre et agir",
+      "slug": "clivage-conflit-comprendre-gerer",
+      "tags": [
+        "clivage",
+        "conflit",
+        "deuil",
+        "relations-toxiques",
+        "communication"
+      ],
+      "resume_narratif": "Le 06 mai 2026, Bernard reçoit son fils Éric dans son atelier de menuiserie pour discuter de la vente de la maison d'Hélène. Face à la tension du conflit, Bernard se mure dans le silence et le clivage, opposant radicalement le caractère sacré de la mémoire de sa femme aux propositions pratiques de son fils.",
+      "evolution": "Bernard identifie son mécanisme de clivage comme un héritage familial et un réflexe de survie qui paralyse sa communication. Il exprime désormais la volonté de ne plus laisser ses meubles être ses seuls messagers et place la réconciliation avec Éric comme sa priorité actuelle.",
+      "elements_cles": "Date du 06 mai 2026 ; présence du chien Sultan ; mention du voyage en Toscane (avril) et de l'enveloppe notariale (mars) ; conflit sur la vente de la maison d'Hélène ; décision de sceller une armoire au grenier ; métaphore de la chaise en cerisier.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }
