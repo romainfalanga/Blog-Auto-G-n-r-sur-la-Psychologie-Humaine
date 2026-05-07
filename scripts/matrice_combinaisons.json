@@ -6144,6 +6144,119 @@
       "elements_cles": "Date du 06 mai 2026 ; présence du chien Sultan ; mention du voyage en Toscane (avril) et de l'enveloppe notariale (mars) ; conflit sur la vente de la maison d'Hélène ; décision de sceller une armoire au grenier ; métaphore de la chaise en cerisier.",
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-07",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais d'action",
+      "contexte": "face à une décision importante",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "contrôlant(e)",
+      "prenom": "Karim",
+      "age": "40 ans",
+      "title": "Biais d'action face à une décision importante : le comprendre",
+      "slug": "biais-action-face-a-une-decision-importante",
+      "tags": [
+        "psychologie",
+        "prise de décision",
+        "entrepreneuriat",
+        "impulsivité",
+        "biais cognitif"
+      ],
+      "resume_narratif": "Karim, ancien restaurateur marseillais, hésite à signer prématurément le bail de sa future école de cuisine solidaire dans son garage aménagé. Malgré une pulsion irrépressible d'agir pour calmer son anxiété, il se remémore ses échecs passés avec son ex-associé Romain et choisit de ne pas signer avant l'expertise comptable prévue.",
+      "evolution": "Karim identifie son biais d'action et comprend que son besoin de mouvement perpétuel est une fuite face à l'incertitude. Il parvient, pour la première fois, à s'imposer une immobilité réflexive plutôt que de céder à la précipitation émotionnelle.",
+      "elements_cles": {
+        "lieux": [
+          "Garage aménagé",
+          "Marseille (ancien restaurant)",
+          "Lyon (échec passé)"
+        ],
+        "entourage": [
+          "Sofia (femme)",
+          "Lina, Amine et Sami (enfants)",
+          "Romain (ancien associé)"
+        ],
+        "evenements_futurs": [
+          "Expertise comptable prévue lundi",
+          "Signature du bail de l'école de cuisine solidaire"
+        ],
+        "traumatismes": [
+          "Dettes de l'aventure lyonnaise",
+          "Absence auprès de sa famille par le passé"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-07",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "résignation",
+      "contexte": "après un échec",
+      "angle": "pourquoi ça empire avec le temps si on ne fait rien",
+      "profil": "perfectionniste",
+      "prenom": "Margot",
+      "age": "52 ans",
+      "title": "Résignation après un échec : comment briser le cycle à 50 ans",
+      "slug": "resignation-apres-un-echec-psychologie-solutions",
+      "tags": [
+        "résignation",
+        "échec",
+        "psychologie",
+        "reconstruction",
+        "motivation"
+      ],
+      "resume_narratif": "Après avoir essuyé trois refus de prospects consécutifs, Margot sombre dans une profonde inertie lors d'une sortie dans une grande surface lyonnaise. Elle renonce à ses rituels de bien-être et s'isole dans sa voiture, incapable de solliciter l'aide de sa mentor Sylvie ou de son proche Philippe.",
+      "evolution": "Margot passe d'une énergie de conquête à un état d'impuissance apprise, où elle accepte l'idée que ses efforts sont inutiles et que sa reconversion est un échec inévitable. Elle voit son driver habituel 'Sois forte' s'effondrer, laissant place à une passivité qui l'effraie.",
+      "elements_cles": {
+        "lieux": [
+          "Grande surface à Lyon",
+          "Parking"
+        ],
+        "personnes_mentionnees": [
+          "Sylvie (mentor)",
+          "Philippe"
+        ],
+        "decisions_prises": [
+          "Abandon du journal de gratitude",
+          "Cesser de relancer des clients",
+          "Refus de demander de l'aide"
+        ],
+        "concepts_psychologiques": [
+          "Impuissance apprise (Martin Seligman)",
+          "Driver Sois forte",
+          "Distorsion cognitive"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-07",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "refoulement",
+      "contexte": "avec ses parents",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": "ancien(ne) enfant parentifié(e)",
+      "prenom": "Camille",
+      "age": "42 ans",
+      "title": "Refoulement avec ses parents : comprendre ses racines profondes",
+      "slug": "refoulement-avec-ses-parents-causes",
+      "tags": [
+        "refoulement",
+        "parentification",
+        "schémas familiaux",
+        "psychologie",
+        "auto-compassion"
+      ],
+      "resume_narratif": "En quittant son service à l'hôpital avec ses enfants Léo et Emma, Camille reçoit un appel de sa mère, Françoise, dont les remarques critiques sur son organisation déclenchent une vive tension intérieure. Malgré ses progrès récents en auto-compassion, Camille se retrouve confrontée à son habitude de refouler ses émotions et sa vulnérabilité face à l'exigence de perfection maternelle.",
+      "evolution": "Camille identifie le lien entre son besoin de paraître infaillible devant sa mère et sa tendance à ignorer ses propres souffrances physiques et émotionnelles. Elle réalise que son hyper-vigilance et son épuisement sont les conséquences directes de ce mécanisme de défense visant à éviter la critique parentale.",
+      "elements_cles": "Françoise (mère critique), Léo et Emma (enfants), hôpital (lieu de travail), cardiologie, douleurs articulaires et thoraciques (somatisation), paradigme 'think/no-think', post-it 'vide', incident du bol de céréales (avril).",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

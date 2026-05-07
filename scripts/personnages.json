@@ -742,6 +742,17 @@
               "Base de sécurité affective"
             ]
           }
+        },
+        {
+          "date": "2026-05-07",
+          "sujet": "refoulement",
+          "contexte": "avec ses parents",
+          "category": "cat3_schemas",
+          "titre": "Refoulement avec ses parents : comprendre ses racines profondes",
+          "slug": "refoulement-avec-ses-parents-causes",
+          "resume_narratif": "En quittant son service à l'hôpital avec ses enfants Léo et Emma, Camille reçoit un appel de sa mère, Françoise, dont les remarques critiques sur son organisation déclenchent une vive tension intérieure. Malgré ses progrès récents en auto-compassion, Camille se retrouve confrontée à son habitude de refouler ses émotions et sa vulnérabilité face à l'exigence de perfection maternelle.",
+          "evolution": "Camille identifie le lien entre son besoin de paraître infaillible devant sa mère et sa tendance à ignorer ses propres souffrances physiques et émotionnelles. Elle réalise que son hyper-vigilance et son épuisement sont les conséquences directes de ce mécanisme de défense visant à éviter la critique parentale.",
+          "elements_cles": "Françoise (mère critique), Léo et Emma (enfants), hôpital (lieu de travail), cardiologie, douleurs articulaires et thoraciques (somatisation), paradigme 'think/no-think', post-it 'vide', incident du bol de céréales (avril)."
         }
       ],
       "genre": "F",
@@ -1586,8 +1597,8 @@
       "prenom": "Margot",
       "age": 52,
       "tranche_age": "adulte en bilan de mi-vie (46-55 ans)",
-      "profession": "coach (activité lancée)",
-      "situation_familiale": "en phase de reconstruction personnelle et conjugale",
+      "profession": "coach (en situation d'échec)",
+      "situation_familiale": "en proie à l'impuissance apprise et au renoncement",
       "traits_personnalite": [
         "volontaire",
         "en quête de sens",
@@ -1821,11 +1832,41 @@
           "resume_narratif": "Margot, ancienne directrice commerciale reconvertie en coach, reçoit le paiement de son premier programme d'accompagnement complet. Seule dans son bureau alors que son mari Philippe est au travail et ses enfants Chloé et Martin absents, elle contemple ce succès comme le point de départ d'une nouvelle trajectoire de vie.",
           "evolution": "Elle s'est libérée du biais du coût irrécupérable lié à son ancienne carrière et transforme son vide affectif en une saine autonomie. Elle commence à habiter son corps grâce à la méditation et perçoit désormais l'avenir comme un terrain de jeu plutôt que comme une menace.",
           "elements_cles": "Ancien bureau commercial devenu sanctuaire de coach, Philippe (mari), Chloé et Martin (enfants), trophée de danse de Chloé, pratique de la méditation matinale, profil HPI, cinquantaine."
+        },
+        {
+          "date": "2026-05-07",
+          "sujet": "résignation",
+          "contexte": "après un échec",
+          "category": "cat2_emotions",
+          "titre": "Résignation après un échec : comment briser le cycle à 50 ans",
+          "slug": "resignation-apres-un-echec-psychologie-solutions",
+          "resume_narratif": "Après avoir essuyé trois refus de prospects consécutifs, Margot sombre dans une profonde inertie lors d'une sortie dans une grande surface lyonnaise. Elle renonce à ses rituels de bien-être et s'isole dans sa voiture, incapable de solliciter l'aide de sa mentor Sylvie ou de son proche Philippe.",
+          "evolution": "Margot passe d'une énergie de conquête à un état d'impuissance apprise, où elle accepte l'idée que ses efforts sont inutiles et que sa reconversion est un échec inévitable. Elle voit son driver habituel 'Sois forte' s'effondrer, laissant place à une passivité qui l'effraie.",
+          "elements_cles": {
+            "lieux": [
+              "Grande surface à Lyon",
+              "Parking"
+            ],
+            "personnes_mentionnees": [
+              "Sylvie (mentor)",
+              "Philippe"
+            ],
+            "decisions_prises": [
+              "Abandon du journal de gratitude",
+              "Cesser de relancer des clients",
+              "Refus de demander de l'aide"
+            ],
+            "concepts_psychologiques": [
+              "Impuissance apprise (Martin Seligman)",
+              "Driver Sois forte",
+              "Distorsion cognitive"
+            ]
+          }
         }
       ],
       "genre": "F",
       "date_naissance": "1973-07-23",
-      "description_dynamique": "Margot est une coach qui vient de valider sa reconversion par ses premiers succès professionnels. Elle transforme sa crise conjugale et le départ de ses enfants en une saine autonomie, habitant enfin son corps et envisageant l'avenir avec espoir."
+      "description_dynamique": "Margot est une coach dont l'élan de reconversion s'est brisé face aux premiers échecs commerciaux. Elle sombre dans une passivité totale et une résignation profonde, convaincue que ses efforts pour transformer sa vie sont désormais inutiles."
     },
     {
       "id": "youssef",
@@ -3168,6 +3209,36 @@
               "Biais d'optimisme",
               "Escalade d'engagement",
               "Déconnexion des besoins physiologiques"
+            ]
+          }
+        },
+        {
+          "date": "2026-05-07",
+          "sujet": "biais d'action",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Biais d'action face à une décision importante : le comprendre",
+          "slug": "biais-action-face-a-une-decision-importante",
+          "resume_narratif": "Karim, ancien restaurateur marseillais, hésite à signer prématurément le bail de sa future école de cuisine solidaire dans son garage aménagé. Malgré une pulsion irrépressible d'agir pour calmer son anxiété, il se remémore ses échecs passés avec son ex-associé Romain et choisit de ne pas signer avant l'expertise comptable prévue.",
+          "evolution": "Karim identifie son biais d'action et comprend que son besoin de mouvement perpétuel est une fuite face à l'incertitude. Il parvient, pour la première fois, à s'imposer une immobilité réflexive plutôt que de céder à la précipitation émotionnelle.",
+          "elements_cles": {
+            "lieux": [
+              "Garage aménagé",
+              "Marseille (ancien restaurant)",
+              "Lyon (échec passé)"
+            ],
+            "entourage": [
+              "Sofia (femme)",
+              "Lina, Amine et Sami (enfants)",
+              "Romain (ancien associé)"
+            ],
+            "evenements_futurs": [
+              "Expertise comptable prévue lundi",
+              "Signature du bail de l'école de cuisine solidaire"
+            ],
+            "traumatismes": [
+              "Dettes de l'aventure lyonnaise",
+              "Absence auprès de sa famille par le passé"
             ]
           }
         }

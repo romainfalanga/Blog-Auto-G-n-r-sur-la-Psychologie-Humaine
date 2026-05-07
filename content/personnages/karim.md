@@ -1,14 +1,14 @@
 ---
 title: "Karim"
-date: 2026-05-06T05:47:20+00:00
+date: 2026-05-07T05:50:58+00:00
 description: "Karim est un ancien restaurateur en reconversion vers un projet d'école de cuisine solidaire. Marié à Sofia et père de trois enfants, il cherche désormais à stabiliser sa vie professionnelle et familiale."
 slug: "karim"
 prenom: "Karim"
 date_naissance: "1985-12-01"
 profession: "En reconversion (ancien restaurateur)"
 situation: "Marié à sofia, père de trois enfants"
-nb_articles: 10
-weight: 6
+nb_articles: 11
+weight: 1
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Karim prend conscience que son enthousiasme débordant peut être un piège menant à l'hyperactivité décisionnelle et à la fuite en avant. Il apprend à s'arrêter et à s'asseoir pour temporiser cet élan afin de ne pas répéter ses échecs financiers et familiaux.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/enthousiasme-reconversion-professionnelle-burn-out/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-action-face-a-une-decision-importante/">Biais d'action face à une décision importante : le comprendre</a></h3>
+    <div class="parcours-date">2026-05-07</div>
+    <p class="parcours-resume">Karim, ancien restaurateur marseillais, hésite à signer prématurément le bail de sa future école de cuisine solidaire dans son garage aménagé. Malgré une pulsion irrépressible d'agir pour calmer son anxiété, il se remémore ses échecs passés avec son ex-associé Romain et choisit de ne pas signer avant l'expertise comptable prévue.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Karim identifie son biais d'action et comprend que son besoin de mouvement perpétuel est une fuite face à l'incertitude. Il parvient, pour la première fois, à s'imposer une immobilité réflexive plutôt que de céder à la précipitation émotionnelle.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-action-face-a-une-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

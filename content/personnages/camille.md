@@ -1,14 +1,14 @@
 ---
 title: "Camille"
-date: 2026-05-06T05:47:20+00:00
+date: 2026-05-07T05:50:58+00:00
 description: "Camille est infirmière en service de cardiologie. Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)."
 slug: "camille"
 prenom: "Camille"
 date_naissance: "1984-03-05"
 profession: "Infirmière en service de cardiologie"
 situation: "Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)"
-nb_articles: 9
-weight: 10
+nb_articles: 10
+weight: 2
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Camille a appris à remplacer son autocritique et son perfectionnisme hérité par l'auto-compassion, s'autorisant à être une mère imparfaite et fatiguée sans sombrer dans la culpabilité ou l'hypervigilance.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/auto-compassion-kristin-neff-en-famille/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/refoulement-avec-ses-parents-causes/">Refoulement avec ses parents : comprendre ses racines profondes</a></h3>
+    <div class="parcours-date">2026-05-07</div>
+    <p class="parcours-resume">En quittant son service à l'hôpital avec ses enfants Léo et Emma, Camille reçoit un appel de sa mère, Françoise, dont les remarques critiques sur son organisation déclenchent une vive tension intérieure. Malgré ses progrès récents en auto-compassion, Camille se retrouve confrontée à son habitude de refouler ses émotions et sa vulnérabilité face à l'exigence de perfection maternelle.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Camille identifie le lien entre son besoin de paraître infaillible devant sa mère et sa tendance à ignorer ses propres souffrances physiques et émotionnelles. Elle réalise que son hyper-vigilance et son épuisement sont les conséquences directes de ce mécanisme de défense visant à éviter la critique parentale.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/refoulement-avec-ses-parents-causes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

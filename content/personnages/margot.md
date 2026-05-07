@@ -1,14 +1,14 @@
 ---
 title: "Margot"
-date: 2026-05-06T05:47:20+00:00
-description: "Margot est une coach qui vient de valider sa reconversion par ses premiers succès professionnels. Elle transforme sa crise conjugale et le départ de ses enfants en une saine autonomie, habitant enfin son corps et envisageant l'avenir avec espoir."
+date: 2026-05-07T05:50:58+00:00
+description: "Margot est une coach dont l'élan de reconversion s'est brisé face aux premiers échecs commerciaux. Elle sombre dans une passivité totale et une résignation profonde, convaincue que ses efforts pour transformer sa vie sont désormais inutiles."
 slug: "margot"
 prenom: "Margot"
 date_naissance: "1973-07-23"
-profession: "Coach (activité lancée)"
-situation: "En phase de reconstruction personnelle et conjugale"
-nb_articles: 9
-weight: 12
+profession: "Coach (en situation d'échec)"
+situation: "En proie à l'impuissance apprise et au renoncement"
+nb_articles: 10
+weight: 5
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Elle s'est libérée du biais du coût irrécupérable lié à son ancienne carrière et transforme son vide affectif en une saine autonomie. Elle commence à habiter son corps grâce à la méditation et perçoit désormais l'avenir comme un terrain de jeu plutôt que comme une menace.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/espoir-après-un-succès-reconversion-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/resignation-apres-un-echec-psychologie-solutions/">Résignation après un échec : comment briser le cycle à 50 ans</a></h3>
+    <div class="parcours-date">2026-05-07</div>
+    <p class="parcours-resume">Après avoir essuyé trois refus de prospects consécutifs, Margot sombre dans une profonde inertie lors d'une sortie dans une grande surface lyonnaise. Elle renonce à ses rituels de bien-être et s'isole dans sa voiture, incapable de solliciter l'aide de sa mentor Sylvie ou de son proche Philippe.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Margot passe d'une énergie de conquête à un état d'impuissance apprise, où elle accepte l'idée que ses efforts sont inutiles et que sa reconversion est un échec inévitable. Elle voit son driver habituel 'Sois forte' s'effondrer, laissant place à une passivité qui l'effraie.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/resignation-apres-un-echec-psychologie-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
