@@ -1,14 +1,14 @@
 ---
 title: "Fabien"
-date: 2026-05-07T05:50:58+00:00
+date: 2026-05-08T05:06:53+00:00
 description: "Fabien est cadre RH dans une entreprise industrielle. Divorcé, il vit désormais dans un nouvel appartement et s'efforce de reconstruire un dialogue empathique avec ses deux enfants."
 slug: "fabien"
 prenom: "Fabien"
 date_naissance: "1975-06-19"
 profession: "Cadre rh dans une entreprise industrielle"
 situation: "Divorcé, a emménagé dans un nouvel appartement, deux enfants (marine, 20 ans et lucas, 17 ans)"
-nb_articles: 9
-weight: 19
+nb_articles: 10
+weight: 11
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Fabien prend conscience que son expertise crée un 'mur de verre' et qu'il reproduit malgré lui le silence pesant de son père. Il comprend que pour être un manager efficace, il doit traduire son savoir dense en informations maniables sans sombrer dans ses anciens réflexes de soumission.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/malediction-du-savoir-manager-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/compulsion-repetition-freud-seul-face-soi-meme/">Compulsion de répétition : pourquoi reproduit-on les mêmes échecs ?</a></h3>
+    <div class="parcours-date">2026-05-08</div>
+    <p class="parcours-resume">Seul dans son nouvel appartement à Lyon le 8 mai, Fabien prépare une omelette en réfléchissant à son isolement croissant. Il réalise que son mutisme, qui a causé l'échec de son mariage avec Véronique, est une reproduction exacte du comportement de son père.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Fabien identifie son mécanisme de compulsion de répétition lié à son passé d'enfant parentifié. Il comprend que son besoin de contrôle et son retrait social, bien que protecteurs, risquent de transmettre ce même schéma de solitude à son fils Lucas.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/compulsion-repetition-freud-seul-face-soi-meme/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

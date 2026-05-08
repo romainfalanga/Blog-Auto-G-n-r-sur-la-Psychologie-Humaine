@@ -1,14 +1,14 @@
 ---
 title: "Sophie"
-date: 2026-05-07T05:50:58+00:00
+date: 2026-05-08T05:06:53+00:00
 description: "Sophie est développeuse web dans une startup. Célibataire, vit seule en appartement en ville."
 slug: "sophie"
 prenom: "Sophie"
 date_naissance: "1998-01-15"
 profession: "Développeuse web dans une startup"
 situation: "Célibataire, vit seule en appartement en ville"
-nb_articles: 9
-weight: 10
+nb_articles: 10
+weight: 2
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Sophie identifie son mécanisme d'overthinking et prend conscience de son schéma d'échec, réalisant qu'elle transforme un revers professionnel ponctuel en une vérité absolue sur sa propre nullité.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/comprendre-sentiment-echec-apres-un-echec/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/heuristique-affect-argent/">Heuristique d'affect face à l'argent : pourquoi nos émotions faussent nos choix</a></h3>
+    <div class="parcours-date">2026-05-08</div>
+    <p class="parcours-resume">Le 8 mai 2026, Sophie se trouve dans une laverie automatique pour gérer son anxiété financière après avoir reçu une notification bancaire déstabilisante. Elle réfléchit à ses réactions émotionnelles disproportionnées face à l'argent, faisant le lien avec son récent échec professionnel et l'exigence paternelle vécue à Nantes.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Sophie identifie le concept d'heuristique d'affect comme la source de ses décisions impulsives, comprenant que ses émotions (peur ou excitation) court-circuitent son analyse rationnelle des risques financiers.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/heuristique-affect-argent/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

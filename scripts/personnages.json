@@ -213,6 +213,37 @@
           "resume_narratif": "Sophie reçoit un refus pour un poste de directrice technique, justifié par un manque d'expérience en gestion d'équipe. Cet échec la plonge dans une spirale de doutes, ravivant le souvenir d'une humiliation passée avec son collègue Marc et des exigences paternelles de son enfance.",
           "evolution": "Sophie identifie son mécanisme d'overthinking et prend conscience de son schéma d'échec, réalisant qu'elle transforme un revers professionnel ponctuel en une vérité absolue sur sa propre nullité.",
           "elements_cles": "Poste de directrice technique (refusé), Marc (collègue moqueur), carnet de notes, appartement de Sophie, schéma d'échec (Jeffrey Young), impuissance acquise (Martin Seligman)."
+        },
+        {
+          "date": "2026-05-08",
+          "sujet": "heuristique d'affect",
+          "contexte": "face à l'argent et aux finances",
+          "category": "cat1_pensees",
+          "titre": "Heuristique d'affect face à l'argent : pourquoi nos émotions faussent nos choix",
+          "slug": "heuristique-affect-argent",
+          "resume_narratif": "Le 8 mai 2026, Sophie se trouve dans une laverie automatique pour gérer son anxiété financière après avoir reçu une notification bancaire déstabilisante. Elle réfléchit à ses réactions émotionnelles disproportionnées face à l'argent, faisant le lien avec son récent échec professionnel et l'exigence paternelle vécue à Nantes.",
+          "evolution": "Sophie identifie le concept d'heuristique d'affect comme la source de ses décisions impulsives, comprenant que ses émotions (peur ou excitation) court-circuitent son analyse rationnelle des risques financiers.",
+          "elements_cles": {
+            "lieux": [
+              "Laverie automatique",
+              "Nantes (souvenirs)",
+              "Appartement"
+            ],
+            "personnes": [
+              "Son père (figure d'exigence)",
+              "Marc (collègue l'ayant ridiculisée)"
+            ],
+            "evenements_declencheurs": [
+              "Refus du poste de directrice technique début mai",
+              "Notification bancaire",
+              "Réunion traumatisante fin avril"
+            ],
+            "techniques_et_concepts": [
+              "Heuristique d'affect",
+              "Tenue d'un carnet de notes sur ses états mentaux",
+              "Analyse des biais de Paul Slovic et Kahneman"
+            ]
+          }
         }
       ],
       "genre": "F",
@@ -468,6 +499,40 @@
               "Accablement",
               "Impuissance apprise",
               "Technique du découpage atomique"
+            ]
+          }
+        },
+        {
+          "date": "2026-05-08",
+          "sujet": "triggers/déclencheurs émotionnels",
+          "contexte": "en situation de conflit",
+          "category": "cat2_emotions",
+          "titre": "Déclencheurs émotionnels : les identifier en situation de conflit",
+          "slug": "declencheurs-emotionnels-situation-conflit",
+          "resume_narratif": "Lors d'un après-midi de jour férié à Lyon, Thomas subit une montée d'angoisse suite à une remarque d'Émilie sur sa reconversion professionnelle. Confronté au ton tranchant de sa compagne et au bruit d'un plat en verre, il se retrouve paralysé par la peur de mal faire, un sentiment qui fait écho à ses difficultés passées au supermarché et à son travail d'enseignant.",
+          "evolution": "Thomas identifie pour la première fois ses réactions physiques comme des signaux d'alerte de son corps. Il prend conscience que son besoin de plaire et sa peur du conflit sont des mécanismes de défense hérités de son enfance, et il commence à ressentir une colère sous-jacente au lieu de sa docilité habituelle.",
+          "elements_cles": {
+            "lieux": [
+              "Appartement à Lyon"
+            ],
+            "personnages": [
+              "Émilie (compagne)",
+              "Valérie (collègue)",
+              "Julie (élève)"
+            ],
+            "contexte_pro": [
+              "Enseignant en seconde",
+              "Projet de reconversion dans l'édition (portfolio)"
+            ],
+            "symptomes_physiques": [
+              "Mains moites",
+              "Respiration bloquée",
+              "Sensation de décharge électrique"
+            ],
+            "concepts_identifies": [
+              "Triggers émotionnels",
+              "Posture de sauveur",
+              "Peur de l'autorité"
             ]
           }
         }
@@ -4695,6 +4760,35 @@
           "resume_narratif": "Lors d'une réunion en usine le 3 mai 2026, Fabien, cadre RH, échoue à faire comprendre une décision technique à son équipe et à Julie, la responsable d'équipe. Confronté à des regards fuyants et à un courriel sec, il réalise qu'il utilise des raccourcis mentaux inaccessibles à ses interlocuteurs.",
           "evolution": "Fabien prend conscience que son expertise crée un 'mur de verre' et qu'il reproduit malgré lui le silence pesant de son père. Il comprend que pour être un manager efficace, il doit traduire son savoir dense en informations maniables sans sombrer dans ses anciens réflexes de soumission.",
           "elements_cles": "Julie (responsable d'équipe), Véronique (ex-femme), le père de Fabien (figure du silence), position de vie -/+, passion pour le jazz, biais du coût irrécupérable, contexte d'usine, profil HPI."
+        },
+        {
+          "date": "2026-05-08",
+          "sujet": "compulsion de répétition (Freud)",
+          "contexte": "seul(e) face à soi-même",
+          "category": "cat3_schemas",
+          "titre": "Compulsion de répétition : pourquoi reproduit-on les mêmes échecs ?",
+          "slug": "compulsion-repetition-freud-seul-face-soi-meme",
+          "resume_narratif": "Seul dans son nouvel appartement à Lyon le 8 mai, Fabien prépare une omelette en réfléchissant à son isolement croissant. Il réalise que son mutisme, qui a causé l'échec de son mariage avec Véronique, est une reproduction exacte du comportement de son père.",
+          "evolution": "Fabien identifie son mécanisme de compulsion de répétition lié à son passé d'enfant parentifié. Il comprend que son besoin de contrôle et son retrait social, bien que protecteurs, risquent de transmettre ce même schéma de solitude à son fils Lucas.",
+          "elements_cles": {
+            "lieux": [
+              "Nouvel appartement à Lyon",
+              "Cuisine ouverte"
+            ],
+            "personnes": [
+              "Véronique (ex-femme)",
+              "Marine et Lucas (enfants)",
+              "Julie (collègue)",
+              "Bernard (ami)",
+              "Père de Fabien"
+            ],
+            "decisions_et_contexte": [
+              "Installation récente (2 mois)",
+              "Refus de chercher la validation d'autrui",
+              "Identification du rôle d'enfant parentifié",
+              "Cinquante ans révolus"
+            ]
+          }
         }
       ],
       "genre": "M",

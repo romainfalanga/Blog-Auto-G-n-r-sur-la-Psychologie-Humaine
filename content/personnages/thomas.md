@@ -1,14 +1,14 @@
 ---
 title: "Thomas"
-date: 2026-05-07T05:50:58+00:00
+date: 2026-05-08T05:06:53+00:00
 description: "Thomas est enseignant d'histoire-géographie en pleine crise d'épuisement alors qu'il tente de se reconvertir dans l'édition. En couple avec Émilie à Lyon, il se sent submergé par la peur de l'échec et son rôle de 'sauveur'."
 slug: "thomas"
 prenom: "Thomas"
 date_naissance: "1992-02-22"
 profession: "Enseignant d'histoire-géographie au lycée (en projet de reconversion dans l'édition)"
 situation: "En couple avec émilie à lyon, traverse une phase d'épuisement émotionnel et de paralysie décisionnelle"
-nb_articles: 9
-weight: 11
+nb_articles: 10
+weight: 3
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Thomas prend conscience que son épuisement n'est pas une simple fatigue, mais une saturation de son système nerveux liée à son rôle historique de 'sauveur' et à une peur viscérale de l'échec. Il commence à comprendre que sa paralysie décisionnelle est un mécanisme de protection face à la surcharge émotionnelle de sa transition professionnelle.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/accablement-en-periode-de-reconversion-professionnelle/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/declencheurs-emotionnels-situation-conflit/">Déclencheurs émotionnels : les identifier en situation de conflit</a></h3>
+    <div class="parcours-date">2026-05-08</div>
+    <p class="parcours-resume">Lors d'un après-midi de jour férié à Lyon, Thomas subit une montée d'angoisse suite à une remarque d'Émilie sur sa reconversion professionnelle. Confronté au ton tranchant de sa compagne et au bruit d'un plat en verre, il se retrouve paralysé par la peur de mal faire, un sentiment qui fait écho à ses difficultés passées au supermarché et à son travail d'enseignant.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Thomas identifie pour la première fois ses réactions physiques comme des signaux d'alerte de son corps. Il prend conscience que son besoin de plaire et sa peur du conflit sont des mécanismes de défense hérités de son enfance, et il commence à ressentir une colère sous-jacente au lieu de sa docilité habituelle.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/declencheurs-emotionnels-situation-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
