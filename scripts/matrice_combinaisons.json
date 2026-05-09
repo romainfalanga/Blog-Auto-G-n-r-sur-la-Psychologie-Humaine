@@ -6393,6 +6393,115 @@
       },
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-09",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "personnalisation",
+      "contexte": "sur les réseaux sociaux",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "timide",
+      "prenom": "Hugo",
+      "age": "27 ans",
+      "title": "Personnalisation sur les réseaux sociaux : pourquoi on s'en rend pas compte",
+      "slug": "personnalisation-reseaux-sociaux",
+      "tags": [
+        "personnalisation",
+        "réseaux sociaux",
+        "pensées",
+        "timidité",
+        "TCC"
+      ],
+      "resume_narratif": "Hugo, musicien et barman, se sent rejeté en consultant les réseaux sociaux dans le métro après son service. Il interprète l'absence de mention dans un post de concert d'un ancien collègue comme une exclusion délibérée, ravivant ses blessures liées à sa rupture avec Chloé et au départ professionnel de Samba.",
+      "evolution": "Hugo identifie son mécanisme de personnalisation comme un miroir déformant lié à son passé. Il comprend que son besoin de validation numérique est le prolongement d'un amour conditionnel vécu avec son père, Alain, où l'affection dépendait de ses performances musicales.",
+      "elements_cles": "Alain (père exigeant), Chloé (ex-petite amie), Samba (ancien collaborateur), dates clés (8 et 29 avril, 3 mai), sac de guitare, peur de l'abandon, distorsion cognitive de personnalisation.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-09",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "compassion",
+      "contexte": "face à la maladie",
+      "angle": "comment aider quelqu'un qui vit ça",
+      "profil": "empathe",
+      "prenom": "Camille",
+      "age": "42 ans",
+      "title": "Compassion face à la maladie : comment aider sans s'épuiser",
+      "slug": "compassion-face-a-la-maladie-aider-proche",
+      "tags": [
+        "compassion",
+        "empathie",
+        "maladie",
+        "soutien",
+        "psychologie"
+      ],
+      "resume_narratif": "Camille, infirmière en cardiologie, intervient dans la chambre de Monsieur Girard dont l'état de santé décline. Elle apporte un soutien silencieux et sincère à l'épouse du patient, parvenant à rester présente sans se laisser submerger par la détresse ambiante.",
+      "evolution": "Camille a réussi à passer de l'empathie paralysante à une compassion régulée, abandonnant son ancien masque d'invincibilité pour une présence authentique qui préserve son intégrité psychique.",
+      "elements_cles": {
+        "entourage_familial": [
+          "David (conjoint)",
+          "Léo (enfant)",
+          "Françoise (mère exigeante)"
+        ],
+        "contexte_professionnel": [
+          "Unité de cardiologie",
+          "Chambre 412",
+          "Monsieur Girard",
+          "Passé : Monsieur Laroche"
+        ],
+        "outils_et_traumatismes": [
+          "Fatigue de compassion (mars dernier)",
+          "Post-it 'vide'",
+          "Pratique de l'auto-compassion depuis 2 mois",
+          "Régulation émotionnelle"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-09",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "isolation de l'affect",
+      "contexte": "en situation de conflit",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "survivant(e) de relation toxique",
+      "prenom": "Youssef",
+      "age": "29 ans",
+      "title": "Isolation de l'affect en conflit : comprendre ce mécanisme",
+      "slug": "isolation-affect-conflit-comprendre-mecanisme",
+      "tags": [
+        "isolation de l'affect",
+        "psychologie",
+        "gestion de conflit",
+        "intelligence émotionnelle",
+        "relations toxiques"
+      ],
+      "resume_narratif": "En plein déménagement vers Lyon, Youssef fait face aux reproches de sa compagne Léa dans leur appartement parisien. Face à la tension qui monte, il se détache émotionnellement de la dispute, analysant froidement les propos de Léa comme des données logistiques plutôt que de ressentir de la colère ou de la tristesse.",
+      "evolution": "Youssef identifie son recours à l'isolation de l'affect comme un mécanisme de défense inconscient hérité de son père. Il comprend qu'il transforme les conflits humains en équations logiques pour se protéger, tout en réalisant que ce silence clinique accroît la détresse de sa partenaire.",
+      "elements_cles": {
+        "personnages": [
+          "Youssef",
+          "Léa (compagne)",
+          "Hamid (père)"
+        ],
+        "lieux": [
+          "Appartement parisien",
+          "Futur appartement à Lyon"
+        ],
+        "concepts_psychologiques": [
+          "Isolation de l'affect",
+          "Alexithymie",
+          "Granularité émotionnelle"
+        ],
+        "contexte": "Déménagement imminent, passif de burn-out professionnel."
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

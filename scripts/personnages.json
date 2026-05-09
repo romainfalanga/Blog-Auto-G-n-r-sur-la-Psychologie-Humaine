@@ -818,6 +818,35 @@
           "resume_narratif": "En quittant son service à l'hôpital avec ses enfants Léo et Emma, Camille reçoit un appel de sa mère, Françoise, dont les remarques critiques sur son organisation déclenchent une vive tension intérieure. Malgré ses progrès récents en auto-compassion, Camille se retrouve confrontée à son habitude de refouler ses émotions et sa vulnérabilité face à l'exigence de perfection maternelle.",
           "evolution": "Camille identifie le lien entre son besoin de paraître infaillible devant sa mère et sa tendance à ignorer ses propres souffrances physiques et émotionnelles. Elle réalise que son hyper-vigilance et son épuisement sont les conséquences directes de ce mécanisme de défense visant à éviter la critique parentale.",
           "elements_cles": "Françoise (mère critique), Léo et Emma (enfants), hôpital (lieu de travail), cardiologie, douleurs articulaires et thoraciques (somatisation), paradigme 'think/no-think', post-it 'vide', incident du bol de céréales (avril)."
+        },
+        {
+          "date": "2026-05-09",
+          "sujet": "compassion",
+          "contexte": "face à la maladie",
+          "category": "cat2_emotions",
+          "titre": "Compassion face à la maladie : comment aider sans s'épuiser",
+          "slug": "compassion-face-a-la-maladie-aider-proche",
+          "resume_narratif": "Camille, infirmière en cardiologie, intervient dans la chambre de Monsieur Girard dont l'état de santé décline. Elle apporte un soutien silencieux et sincère à l'épouse du patient, parvenant à rester présente sans se laisser submerger par la détresse ambiante.",
+          "evolution": "Camille a réussi à passer de l'empathie paralysante à une compassion régulée, abandonnant son ancien masque d'invincibilité pour une présence authentique qui préserve son intégrité psychique.",
+          "elements_cles": {
+            "entourage_familial": [
+              "David (conjoint)",
+              "Léo (enfant)",
+              "Françoise (mère exigeante)"
+            ],
+            "contexte_professionnel": [
+              "Unité de cardiologie",
+              "Chambre 412",
+              "Monsieur Girard",
+              "Passé : Monsieur Laroche"
+            ],
+            "outils_et_traumatismes": [
+              "Fatigue de compassion (mars dernier)",
+              "Post-it 'vide'",
+              "Pratique de l'auto-compassion depuis 2 mois",
+              "Régulation émotionnelle"
+            ]
+          }
         }
       ],
       "genre": "F",
@@ -2191,6 +2220,33 @@
           "resume_narratif": "Youssef, un ingénieur en fin d'arrêt maladie pour épuisement professionnel, reçoit un message de son manager pour organiser son entretien de reprise. Face à l'angoisse, il se réfugie immédiatement dans la création de graphiques Excel et l'analyse sémantique de l'e-mail pour rationaliser son retour.",
           "evolution": "Youssef prend conscience que son recours systématique à la logique et aux chiffres est un mécanisme de défense hérité de son père pour masquer sa vulnérabilité. Il réalise qu'il traite sa vie comme un code à débugger, restant spectateur de ses propres émotions sans les ressentir.",
           "elements_cles": "Date du 5 mai 2026 ; manager (entretien de reprise) ; Léa (compagne, projet de déménagement à Lyon) ; Nicolas (ami) ; Hamid (père) ; profil HPI ; utilisation d'Excel comme outil de défense."
+        },
+        {
+          "date": "2026-05-09",
+          "sujet": "isolation de l'affect",
+          "contexte": "en situation de conflit",
+          "category": "cat3_schemas",
+          "titre": "Isolation de l'affect en conflit : comprendre ce mécanisme",
+          "slug": "isolation-affect-conflit-comprendre-mecanisme",
+          "resume_narratif": "En plein déménagement vers Lyon, Youssef fait face aux reproches de sa compagne Léa dans leur appartement parisien. Face à la tension qui monte, il se détache émotionnellement de la dispute, analysant froidement les propos de Léa comme des données logistiques plutôt que de ressentir de la colère ou de la tristesse.",
+          "evolution": "Youssef identifie son recours à l'isolation de l'affect comme un mécanisme de défense inconscient hérité de son père. Il comprend qu'il transforme les conflits humains en équations logiques pour se protéger, tout en réalisant que ce silence clinique accroît la détresse de sa partenaire.",
+          "elements_cles": {
+            "personnages": [
+              "Youssef",
+              "Léa (compagne)",
+              "Hamid (père)"
+            ],
+            "lieux": [
+              "Appartement parisien",
+              "Futur appartement à Lyon"
+            ],
+            "concepts_psychologiques": [
+              "Isolation de l'affect",
+              "Alexithymie",
+              "Granularité émotionnelle"
+            ],
+            "contexte": "Déménagement imminent, passif de burn-out professionnel."
+          }
         }
       ],
       "genre": "M",
@@ -3798,6 +3854,17 @@
               "Splitting"
             ]
           }
+        },
+        {
+          "date": "2026-05-09",
+          "sujet": "personnalisation",
+          "contexte": "sur les réseaux sociaux",
+          "category": "cat1_pensees",
+          "titre": "Personnalisation sur les réseaux sociaux : pourquoi on s'en rend pas compte",
+          "slug": "personnalisation-reseaux-sociaux",
+          "resume_narratif": "Hugo, musicien et barman, se sent rejeté en consultant les réseaux sociaux dans le métro après son service. Il interprète l'absence de mention dans un post de concert d'un ancien collègue comme une exclusion délibérée, ravivant ses blessures liées à sa rupture avec Chloé et au départ professionnel de Samba.",
+          "evolution": "Hugo identifie son mécanisme de personnalisation comme un miroir déformant lié à son passé. Il comprend que son besoin de validation numérique est le prolongement d'un amour conditionnel vécu avec son père, Alain, où l'affection dépendait de ses performances musicales.",
+          "elements_cles": "Alain (père exigeant), Chloé (ex-petite amie), Samba (ancien collaborateur), dates clés (8 et 29 avril, 3 mai), sac de guitare, peur de l'abandon, distorsion cognitive de personnalisation."
         }
       ],
       "genre": "M",

@@ -1,14 +1,14 @@
 ---
 title: "Hugo"
-date: 2026-05-08T05:06:53+00:00
+date: 2026-05-09T05:37:17+00:00
 description: "Hugo est musicien semi-professionnel et serveur pour payer les factures. Il est désormais célibataire après sa rupture récente avec Chloé."
 slug: "hugo"
 prenom: "Hugo"
 date_naissance: "1999-02-08"
 profession: "Musicien semi-professionnel et serveur pour payer les factures"
 situation: "Célibataire, récemment séparé de chloé"
-nb_articles: 9
-weight: 16
+nb_articles: 10
+weight: 11
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Hugo réalise que son humour n'est plus un simple trait d'esprit, mais un bouclier qui masque son 'Enfant blessé' et remplace la colère brute qu'il exprimait autrefois par le silence. Il commence à percevoir que cette pirouette verbale l'empêche d'accéder à une véritable vulnérabilité et sabote ses relations.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/humour-defense-conflit-hugo/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/personnalisation-reseaux-sociaux/">Personnalisation sur les réseaux sociaux : pourquoi on s'en rend pas compte</a></h3>
+    <div class="parcours-date">2026-05-09</div>
+    <p class="parcours-resume">Hugo, musicien et barman, se sent rejeté en consultant les réseaux sociaux dans le métro après son service. Il interprète l'absence de mention dans un post de concert d'un ancien collègue comme une exclusion délibérée, ravivant ses blessures liées à sa rupture avec Chloé et au départ professionnel de Samba.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Hugo identifie son mécanisme de personnalisation comme un miroir déformant lié à son passé. Il comprend que son besoin de validation numérique est le prolongement d'un amour conditionnel vécu avec son père, Alain, où l'affection dépendait de ses performances musicales.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/personnalisation-reseaux-sociaux/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

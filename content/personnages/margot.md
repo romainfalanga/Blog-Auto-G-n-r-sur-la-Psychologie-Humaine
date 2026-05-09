@@ -1,6 +1,6 @@
 ---
 title: "Margot"
-date: 2026-05-08T05:06:53+00:00
+date: 2026-05-09T05:37:17+00:00
 description: "Margot est une coach dont l'élan de reconversion s'est brisé face aux premiers échecs commerciaux. Elle sombre dans une passivité totale et une résignation profonde, convaincue que ses efforts pour transformer sa vie sont désormais inutiles."
 slug: "margot"
 prenom: "Margot"
@@ -8,7 +8,7 @@ date_naissance: "1973-07-23"
 profession: "Coach (en situation d'échec)"
 situation: "En proie à l'impuissance apprise et au renoncement"
 nb_articles: 10
-weight: 7
+weight: 8
 draft: false
 ---
 

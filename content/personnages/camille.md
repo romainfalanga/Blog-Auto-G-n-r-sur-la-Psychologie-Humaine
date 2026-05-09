@@ -1,14 +1,14 @@
 ---
 title: "Camille"
-date: 2026-05-08T05:06:53+00:00
+date: 2026-05-09T05:37:17+00:00
 description: "Camille est infirmière en service de cardiologie. Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)."
 slug: "camille"
 prenom: "Camille"
 date_naissance: "1984-03-05"
 profession: "Infirmière en service de cardiologie"
 situation: "Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)"
-nb_articles: 10
-weight: 4
+nb_articles: 11
+weight: 1
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Camille identifie le lien entre son besoin de paraître infaillible devant sa mère et sa tendance à ignorer ses propres souffrances physiques et émotionnelles. Elle réalise que son hyper-vigilance et son épuisement sont les conséquences directes de ce mécanisme de défense visant à éviter la critique parentale.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/refoulement-avec-ses-parents-causes/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/compassion-face-a-la-maladie-aider-proche/">Compassion face à la maladie : comment aider sans s'épuiser</a></h3>
+    <div class="parcours-date">2026-05-09</div>
+    <p class="parcours-resume">Camille, infirmière en cardiologie, intervient dans la chambre de Monsieur Girard dont l'état de santé décline. Elle apporte un soutien silencieux et sincère à l'épouse du patient, parvenant à rester présente sans se laisser submerger par la détresse ambiante.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Camille a réussi à passer de l'empathie paralysante à une compassion régulée, abandonnant son ancien masque d'invincibilité pour une présence authentique qui préserve son intégrité psychique.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/compassion-face-a-la-maladie-aider-proche/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -1,14 +1,14 @@
 ---
 title: "Youssef"
-date: 2026-05-08T05:06:53+00:00
+date: 2026-05-09T05:37:17+00:00
 description: "Youssef est ingénieur en informatique en fin d'arrêt maladie, préparant un déménagement à Lyon avec Léa. Il prend conscience qu'il utilise la rationalisation et les chiffres pour masquer sa vulnérabilité émotionnelle."
 slug: "youssef"
 prenom: "Youssef"
 date_naissance: "1996-08-14"
 profession: "Ingénieur en informatique (en fin d'arrêt pour épuisement professionnel)"
 situation: "En couple avec léa, prépare un déménagement à lyon"
-nb_articles: 10
-weight: 8
+nb_articles: 11
+weight: 2
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Youssef prend conscience que son recours systématique à la logique et aux chiffres est un mécanisme de défense hérité de son père pour masquer sa vulnérabilité. Il réalise qu'il traite sa vie comme un code à débugger, restant spectateur de ses propres émotions sans les ressentir.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/intellectualisation-au-travail-hpi-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/isolation-affect-conflit-comprendre-mecanisme/">Isolation de l'affect en conflit : comprendre ce mécanisme</a></h3>
+    <div class="parcours-date">2026-05-09</div>
+    <p class="parcours-resume">En plein déménagement vers Lyon, Youssef fait face aux reproches de sa compagne Léa dans leur appartement parisien. Face à la tension qui monte, il se détache émotionnellement de la dispute, analysant froidement les propos de Léa comme des données logistiques plutôt que de ressentir de la colère ou de la tristesse.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Youssef identifie son recours à l'isolation de l'affect comme un mécanisme de défense inconscient hérité de son père. Il comprend qu'il transforme les conflits humains en équations logiques pour se protéger, tout en réalisant que ce silence clinique accroît la détresse de sa partenaire.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/isolation-affect-conflit-comprendre-mecanisme/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
