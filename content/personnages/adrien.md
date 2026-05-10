@@ -1,14 +1,14 @@
 ---
 title: "Adrien"
-date: 2026-05-09T05:37:17+00:00
+date: 2026-05-10T05:51:55+00:00
 description: "Adrien est graphiste freelance. Célibataire depuis une rupture difficile il y a un an."
 slug: "adrien"
 prenom: "Adrien"
 date_naissance: "1994-06-07"
 profession: "Graphiste freelance"
 situation: "Célibataire depuis une rupture difficile il y a un an"
-nb_articles: 9
-weight: 14
+nb_articles: 10
+weight: 8
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Adrien identifie que son orientation vers le regret agit comme un acide rongeant sa confiance et sa créativité, passant d'une fuite technique stérile à une volonté d'affronter consciemment ses mécanismes de rumination.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/orientation-regret-rupture/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/annulation-retroactive-en-situation-de-conflit/">Annulation rétroactive en situation de conflit : s'en libérer</a></h3>
+    <div class="parcours-date">2026-05-10</div>
+    <p class="parcours-resume">Lors d'une dispute dans son appartement au sujet du désordre, Adrien utilise l'annulation rétroactive contre sa sœur Charlotte en niant tout son soutien passé. Face à la blessure de sa sœur, il réalise qu'il utilise ce mécanisme de défense pour effacer les souvenirs positifs dès qu'un conflit surgit.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Adrien prend conscience que ce 'coup de gomme mental' est un réflexe de protection contre la culpabilité et la dette émotionnelle, mais qu'il ne fait que l'isoler davantage. Il commence à faire le lien entre ses réactions actuelles et son passé d'enfant parentifié.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/annulation-retroactive-en-situation-de-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

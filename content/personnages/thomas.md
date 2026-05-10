@@ -1,14 +1,14 @@
 ---
 title: "Thomas"
-date: 2026-05-09T05:37:17+00:00
+date: 2026-05-10T05:51:55+00:00
 description: "Thomas est enseignant d'histoire-géographie en pleine crise d'épuisement alors qu'il tente de se reconvertir dans l'édition. En couple avec Émilie à Lyon, il se sent submergé par la peur de l'échec et son rôle de 'sauveur'."
 slug: "thomas"
 prenom: "Thomas"
 date_naissance: "1992-02-22"
 profession: "Enseignant d'histoire-géographie au lycée (en projet de reconversion dans l'édition)"
 situation: "En couple avec émilie à lyon, traverse une phase d'épuisement émotionnel et de paralysie décisionnelle"
-nb_articles: 10
-weight: 5
+nb_articles: 11
+weight: 2
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Thomas identifie pour la première fois ses réactions physiques comme des signaux d'alerte de son corps. Il prend conscience que son besoin de plaire et sa peur du conflit sont des mécanismes de défense hérités de son enfance, et il commence à ressentir une colère sous-jacente au lieu de sa docilité habituelle.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/declencheurs-emotionnels-situation-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/surgeneralisation-ecole-lycee/">Surgénéralisation à l'école : comprendre et agir au lycée</a></h3>
+    <div class="parcours-date">2026-05-10</div>
+    <p class="parcours-resume">Thomas, enseignant en pleine reconversion dans l'édition, fait face à une crise de confiance dans un couloir d'école après avoir corrigé une copie ratée. Sa collègue Valérie l'invite à une réunion alors qu'il lutte contre une paralysie décisionnelle liée à ses doutes professionnels et personnels.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Thomas parvient à identifier son mécanisme de surgénéralisation et tente de mettre en pratique une technique de distinction entre les faits bruts et ses interprétations catastrophiques. Il prend conscience de ses automatismes de 'sauveur' et de ses peurs liées à son passé pour mieux les confronter.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/surgeneralisation-ecole-lycee/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

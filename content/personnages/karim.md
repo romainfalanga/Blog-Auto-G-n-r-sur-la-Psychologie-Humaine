@@ -1,14 +1,14 @@
 ---
 title: "Karim"
-date: 2026-05-09T05:37:17+00:00
+date: 2026-05-10T05:51:55+00:00
 description: "Karim est un ancien restaurateur en reconversion vers un projet d'école de cuisine solidaire. Marié à Sofia et père de trois enfants, il cherche désormais à stabiliser sa vie professionnelle et familiale."
 slug: "karim"
 prenom: "Karim"
 date_naissance: "1985-12-01"
 profession: "En reconversion (ancien restaurateur)"
 situation: "Marié à sofia, père de trois enfants"
-nb_articles: 11
-weight: 3
+nb_articles: 12
+weight: 1
 draft: false
 ---
 
@@ -134,5 +134,16 @@ draft: false
       <p>Karim identifie son biais d'action et comprend que son besoin de mouvement perpétuel est une fuite face à l'incertitude. Il parvient, pour la première fois, à s'imposer une immobilité réflexive plutôt que de céder à la précipitation émotionnelle.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-action-face-a-une-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/impatience-lors-d-un-entretien-d-embauche/">Impatience lors d'un entretien d'embauche : les signes cachés</a></h3>
+    <div class="parcours-date">2026-05-10</div>
+    <p class="parcours-resume">Karim, ancien restaurateur de quarante ans, passe un entretien d'embauche pour un poste de consultant à Lyon face à une recruteuse nommée Julie. Malgré ses efforts pour gérer son stress, il lutte contre une impatience physique et verbale manifeste, tout en pensant à sa famille qui l'attend pour son anniversaire.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Karim prend conscience que son impatience est une réaction de son système nerveux face à la perte de contrôle, un mécanisme qu'il identifie désormais comme le moteur de ses erreurs passées, tant personnelles que professionnelles.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/impatience-lors-d-un-entretien-d-embauche/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
