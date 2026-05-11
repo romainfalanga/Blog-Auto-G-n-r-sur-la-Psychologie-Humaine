@@ -1,14 +1,14 @@
 ---
 title: "Camille"
-date: 2026-05-10T05:51:55+00:00
+date: 2026-05-11T06:18:21+00:00
 description: "Camille est infirmière en service de cardiologie. Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)."
 slug: "camille"
 prenom: "Camille"
 date_naissance: "1984-03-05"
 profession: "Infirmière en service de cardiologie"
 situation: "Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)"
-nb_articles: 11
-weight: 3
+nb_articles: 12
+weight: 1
 draft: false
 ---
 
@@ -134,5 +134,16 @@ draft: false
       <p>Camille a réussi à passer de l'empathie paralysante à une compassion régulée, abandonnant son ancien masque d'invincibilité pour une présence authentique qui préserve son intégrité psychique.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/compassion-face-a-la-maladie-aider-proche/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/filtre-mental-abstraction-selective-conflit-camille/">Le filtre mental en situation de conflit : voir au-delà</a></h3>
+    <div class="parcours-date">2026-05-11</div>
+    <p class="parcours-resume">Lors d'une dispute avec son mari David concernant les vacances d'été, Camille se focalise exclusivement sur une remarque concernant sa fatigue, ignorant ses propositions d'aide et ses compliments. Malgré ses efforts récents pour gérer son stress à l'hôpital, elle se sent attaquée et s'enferme dans une vision tunnel négative au milieu de sa cuisine.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Camille identifie son mécanisme de filtre mental comme un héritage du perfectionnisme de sa mère, réalisant que ce biais cognitif occulte le soutien de David et ses propres progrès vers un attachement plus sécure.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/filtre-mental-abstraction-selective-conflit-camille/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

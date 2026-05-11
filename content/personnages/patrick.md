@@ -1,14 +1,14 @@
 ---
 title: "Patrick"
-date: 2026-05-10T05:51:55+00:00
+date: 2026-05-11T06:18:21+00:00
 description: "Patrick est chef d'équipe dans le BTP, marié et grand-père. Suite au décès récent de son père, il entame un cheminement sur sa vulnérabilité et sa résilience émotionnelle."
 slug: "patrick"
 prenom: "Patrick"
 date_naissance: "1969-10-28"
 profession: "Ancien ouvrier, maintenant chef d'équipe dans le btp"
 situation: "Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils, vient de perdre son père"
-nb_articles: 9
-weight: 15
+nb_articles: 10
+weight: 11
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Patrick prend conscience de son biais de l'angle mort : il réalise qu'il projette ses propres limites physiques sur les autres pour éviter d'affronter son propre vieillissement et l'héritage de dureté légué par son père Marcel.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-angle-mort-vieillissement-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/acting-out-passage-a-l-acte-famille/">Acting out en famille : comprendre le passage à l'acte</a></h3>
+    <div class="parcours-date">2026-05-11</div>
+    <p class="parcours-resume">Alors qu'il triait les papiers de son défunt père avec sa femme Catherine, Patrick subit une surcharge émotionnelle. Il s'isole brusquement dans le garage de Marcel pour détruire un établi à coups de massue, illustrant un passage à l'acte violent face à son deuil impossible à verbaliser.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Patrick prend conscience que son corps court-circuite sa pensée par des décharges physiques brutales lorsqu'il se sent vulnérable. Il réalise que son éducation l'empêchant de pleurer transforme son chagrin en une destruction gratuite qui l'effraie désormais.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/acting-out-passage-a-l-acte-famille/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

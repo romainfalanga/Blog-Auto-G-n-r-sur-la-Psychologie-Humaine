@@ -1,14 +1,14 @@
 ---
 title: "Monique"
-date: 2026-05-10T05:51:55+00:00
+date: 2026-05-11T06:18:21+00:00
 description: "Monique est retraitée, ancienne professeure de français. Veuve depuis 3 ans, elle entame une nouvelle relation avec Jacques, un ancien collègue."
 slug: "monique"
 prenom: "Monique"
 date_naissance: "1964-01-30"
 profession: "Retraitée, ancienne professeure de français"
 situation: "Veuve, entame une nouvelle relation avec jacques"
-nb_articles: 9
-weight: 16
+nb_articles: 10
+weight: 13
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Monique prend conscience que son malaise provient de 'loyautés invisibles', une comptabilité inconsciente qui la pousse à s'interdire le bonheur pour rester fidèle aux sacrifices et à la rigueur de ses ancêtres.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/loyautes-invisibles-boszormenyi-nagy-fetes-famille/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/charge-mentale-emotionnelle-au-travail-solutions/">Charge mentale émotionnelle au travail : s'en libérer</a></h3>
+    <div class="parcours-date">2026-05-11</div>
+    <p class="parcours-resume">Monique, désormais coordinatrice bénévole à la bibliothèque municipale, s'épuise à réguler les tensions entre Claire et Antoine. Elle décline une promenade en forêt avec Jacques pour traiter des formulaires administratifs, se sentant vidée par la gestion du climat émotionnel de son équipe.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Monique prend conscience qu'elle reproduit au travail le même schéma de sacrifice de soi qu'au cours de son mariage avec Jean-Claude. Elle réalise qu'elle porte seule la responsabilité du bien-être d'autrui, un mécanisme invisible qui l'étouffe malgré sa volonté de changement amorcée en avril.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/charge-mentale-emotionnelle-au-travail-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -858,6 +858,39 @@
               "Régulation émotionnelle"
             ]
           }
+        },
+        {
+          "date": "2026-05-11",
+          "sujet": "filtre mental (abstraction sélective)",
+          "contexte": "en situation de conflit",
+          "category": "cat1_pensees",
+          "titre": "Le filtre mental en situation de conflit : voir au-delà",
+          "slug": "filtre-mental-abstraction-selective-conflit-camille",
+          "resume_narratif": "Lors d'une dispute avec son mari David concernant les vacances d'été, Camille se focalise exclusivement sur une remarque concernant sa fatigue, ignorant ses propositions d'aide et ses compliments. Malgré ses efforts récents pour gérer son stress à l'hôpital, elle se sent attaquée et s'enferme dans une vision tunnel négative au milieu de sa cuisine.",
+          "evolution": "Camille identifie son mécanisme de filtre mental comme un héritage du perfectionnisme de sa mère, réalisant que ce biais cognitif occulte le soutien de David et ses propres progrès vers un attachement plus sécure.",
+          "elements_cles": {
+            "personnages": [
+              "David (mari)",
+              "Françoise (mère perfectionniste)",
+              "Nathalie (collègue)",
+              "Léo et Emma (enfants)",
+              "Monsieur Girard (patient)"
+            ],
+            "lieux_et_contexte": [
+              "Cuisine familiale",
+              "Service de cardiologie (lieu de travail)",
+              "11 mai 2026"
+            ],
+            "evenements_passes": [
+              "Crise d'angoisse à l'hôpital en avril",
+              "Discussion sur la compassion avec Nathalie"
+            ],
+            "concepts_psychologiques": [
+              "Filtre mental / Abstraction sélective",
+              "Vision tunnel",
+              "Attachement sécure"
+            ]
+          }
         }
       ],
       "genre": "F",
@@ -2753,6 +2786,35 @@
               "Héritage éducatif de l'invulnérabilité"
             ]
           }
+        },
+        {
+          "date": "2026-05-11",
+          "sujet": "acting out (passage à l'acte)",
+          "contexte": "en famille",
+          "category": "cat3_schemas",
+          "titre": "Acting out en famille : comprendre le passage à l'acte",
+          "slug": "acting-out-passage-a-l-acte-famille",
+          "resume_narratif": "Alors qu'il triait les papiers de son défunt père avec sa femme Catherine, Patrick subit une surcharge émotionnelle. Il s'isole brusquement dans le garage de Marcel pour détruire un établi à coups de massue, illustrant un passage à l'acte violent face à son deuil impossible à verbaliser.",
+          "evolution": "Patrick prend conscience que son corps court-circuite sa pensée par des décharges physiques brutales lorsqu'il se sent vulnérable. Il réalise que son éducation l'empêchant de pleurer transforme son chagrin en une destruction gratuite qui l'effraie désormais.",
+          "elements_cles": {
+            "personnages": [
+              "Patrick",
+              "Catherine (épouse)",
+              "Marcel (père décédé)",
+              "Antoine (apprenti mentionné)"
+            ],
+            "lieux": [
+              "Salon de la mère",
+              "Garage de Marcel"
+            ],
+            "objets_symboliques": [
+              "Montre à quartz",
+              "Massue",
+              "Établi en bois"
+            ],
+            "contexte_temporel": "Lundi 11 mai 2026, 11h00",
+            "symptomes_physiques": "Douleurs lombaires chroniques, mains calleuses de chantier"
+          }
         }
       ],
       "genre": "M",
@@ -3674,6 +3736,17 @@
             ],
             "concept_psychologique": "Loyautés invisibles et enfant parentifié (Boszormenyi-Nagy)"
           }
+        },
+        {
+          "date": "2026-05-11",
+          "sujet": "charge mentale émotionnelle",
+          "contexte": "au travail",
+          "category": "cat2_emotions",
+          "titre": "Charge mentale émotionnelle au travail : s'en libérer",
+          "slug": "charge-mentale-emotionnelle-au-travail-solutions",
+          "resume_narratif": "Monique, désormais coordinatrice bénévole à la bibliothèque municipale, s'épuise à réguler les tensions entre Claire et Antoine. Elle décline une promenade en forêt avec Jacques pour traiter des formulaires administratifs, se sentant vidée par la gestion du climat émotionnel de son équipe.",
+          "evolution": "Monique prend conscience qu'elle reproduit au travail le même schéma de sacrifice de soi qu'au cours de son mariage avec Jean-Claude. Elle réalise qu'elle porte seule la responsabilité du bien-être d'autrui, un mécanisme invisible qui l'étouffe malgré sa volonté de changement amorcée en avril.",
+          "elements_cles": "Bibliothèque municipale ; Festival du livre local ; Claire (nouvelle recrue instable) ; Antoine (collègue brusque) ; Jacques (compagnon actuel) ; Jean-Claude (ex-mari) ; Date du 11 mai 2026 ; Référence au biais de normalité d'avril dernier."
         }
       ],
       "genre": "F",
