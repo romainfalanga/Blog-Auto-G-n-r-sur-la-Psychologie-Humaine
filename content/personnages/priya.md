@@ -1,14 +1,14 @@
 ---
 title: "Priya"
-date: 2026-05-11T06:18:21+00:00
+date: 2026-05-12T05:52:15+00:00
 description: "Priya est médecin généraliste en cabinet de ville. Célibataire, vit seule, relations épisodiques."
 slug: "priya"
 prenom: "Priya"
 date_naissance: "1993-03-11"
 profession: "Médecin généraliste en cabinet de ville"
 situation: "Célibataire, vit seule, relations épisodiques"
-nb_articles: 9
-weight: 17
+nb_articles: 10
+weight: 15
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Priya prend conscience que sa méfiance et son besoin de contrôle sont des mécanismes de défense hérités de son passé. Elle identifie son incapacité à se livrer comme un refus de la vulnérabilité, qu'elle percevait jusqu'ici comme une faille.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-en-couple-signes/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/indifference-face-maladie/">Indifférence face à la maladie : quand le soin devient distance</a></h3>
+    <div class="parcours-date">2026-05-12</div>
+    <p class="parcours-resume">Priya, médecin généraliste au Cabinet des Glycines, mène une consultation avec Claire, une patiente atteinte d'une maladie chronique. Elle adopte une neutralité clinique extrême et une froideur procédurale pour se protéger de la charge émotionnelle de la patiente.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Priya réalise que son calme apparent n'est pas seulement une compétence professionnelle, mais une stratégie de désengagement liée à son style d'attachement évitant et à son éducation rigide. Elle prend conscience que cette indifférence, héritée de son passé, crée une barrière qui l'empêche d'offrir une véritable empathie.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/indifference-face-maladie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

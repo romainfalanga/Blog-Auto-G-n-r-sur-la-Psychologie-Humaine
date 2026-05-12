@@ -4235,6 +4235,35 @@
           "resume_narratif": "Lors d'un dîner aux saveurs indiennes, Priya se sent déstabilisée par une question personnelle de son partenaire sur ses passions. Elle ressent une forte résistance intérieure et une envie de fuir la conversation en se réfugiant derrière des excuses professionnelles.",
           "evolution": "Priya prend conscience que sa méfiance et son besoin de contrôle sont des mécanismes de défense hérités de son passé. Elle identifie son incapacité à se livrer comme un refus de la vulnérabilité, qu'elle percevait jusqu'ici comme une faille.",
           "elements_cles": "Passé avec Damien (relation toxique) ; éducation rigide du père (Raj) ; collègues mentionnés (Marc, Antoine) ; métier de médecin ; technique de nommer l'émotion par une phrase courte en 'je'."
+        },
+        {
+          "date": "2026-05-12",
+          "sujet": "indifférence",
+          "contexte": "face à la maladie",
+          "category": "cat2_emotions",
+          "titre": "Indifférence face à la maladie : quand le soin devient distance",
+          "slug": "indifference-face-maladie",
+          "resume_narratif": "Priya, médecin généraliste au Cabinet des Glycines, mène une consultation avec Claire, une patiente atteinte d'une maladie chronique. Elle adopte une neutralité clinique extrême et une froideur procédurale pour se protéger de la charge émotionnelle de la patiente.",
+          "evolution": "Priya réalise que son calme apparent n'est pas seulement une compétence professionnelle, mais une stratégie de désengagement liée à son style d'attachement évitant et à son éducation rigide. Elle prend conscience que cette indifférence, héritée de son passé, crée une barrière qui l'empêche d'offrir une véritable empathie.",
+          "elements_cles": {
+            "lieux": "Cabinet des Glycines",
+            "personnes_mentionnees": [
+              "Claire (patiente)",
+              "Damien (relation passée)",
+              "Antoine (collègue/partenaire)",
+              "Raj et Anjali (parents)"
+            ],
+            "contexte_psychologique": [
+              "Attachement évitant",
+              "Désactivation du système d'attachement",
+              "Neutralité clinique vs Indifférence"
+            ],
+            "evenements_passes": [
+              "Premières gardes hospitalières traumatisantes",
+              "Confrontation avec Damien",
+              "Éducation axée sur l'excellence technique"
+            ]
+          }
         }
       ],
       "genre": "F",
@@ -4505,6 +4534,39 @@
           "resume_narratif": "Après avoir perdu le contrat Lemoine au profit d'un concurrent, Stéphane ressent une détresse profonde qui le renvoie émotionnellement à son enfance. Au lieu de se confier à sa compagne Sandrine, il appelle sa mère pour chercher une consolation enfantine et se réfugie dans sa voiture devant son club de golf.",
           "evolution": "Stéphane prend conscience de sa tendance à la régression psychologique, réalisant qu'il abandonne son identité d'adulte compétent pour redevenir l'enfant cherchant la validation maternelle face à l'échec.",
           "elements_cles": "Contrat Lemoine (échec professionnel), Philippe (frère performant), Sandrine (conjointe), club de golf, appel à sa mère, mécanisme de défense de régression, sentiment d'enfant parentifié."
+        },
+        {
+          "date": "2026-05-12",
+          "sujet": "comparaison injuste",
+          "contexte": "en situation de compétition",
+          "category": "cat1_pensees",
+          "titre": "Comparaison injuste en situation de compétition : s'en libérer",
+          "slug": "comparaison-injuste-competition",
+          "resume_narratif": "Lors d'une séance de musculation le 12 mai 2026, Stéphane se compare douloureusement à un autre sportif, ce qui déclenche des réminiscences de sa rivalité fraternelle avec Philippe et d'une réunion professionnelle marquante le 9 mars. Malgré son masque social impeccable à l'agence, il réalise que ses succès passés sont systématiquement éclipsés par un sentiment d'insuffisance face à la réussite d'autrui.",
+          "evolution": "Stéphane prend conscience que sa tendance à la comparaison ascendante est un mécanisme automatique lié à son histoire familiale et qu'il minimise ses propres réussites par une relativisation punitive. Il commence à identifier ses déclencheurs émotionnels pour tenter de briser sa spirale d'anxiété de performance.",
+          "elements_cles": {
+            "personnages_mentionnes": [
+              "Philippe (frère)",
+              "Antoine (profil Instagram)",
+              "Directeur commercial",
+              "Mère de Stéphane"
+            ],
+            "dates_et_lieux": [
+              "12 mai 2026 (salle de sport)",
+              "9 mars (réunion)",
+              "L'agence (lieu de travail)"
+            ],
+            "evenements_passes": [
+              "Perte du contrat Lemoine",
+              "Déjeuner chez ses parents",
+              "Présentation solitaire marquée par l'effet IKEA"
+            ],
+            "concepts_psychologiques": [
+              "Comparaison ascendante",
+              "Effet de halo",
+              "Syndrome de l'imposteur"
+            ]
+          }
         }
       ],
       "genre": "M",
@@ -5454,6 +5516,17 @@
           "resume_narratif": "Le 06 mai 2026, Bernard reçoit son fils Éric dans son atelier de menuiserie pour discuter de la vente de la maison d'Hélène. Face à la tension du conflit, Bernard se mure dans le silence et le clivage, opposant radicalement le caractère sacré de la mémoire de sa femme aux propositions pratiques de son fils.",
           "evolution": "Bernard identifie son mécanisme de clivage comme un héritage familial et un réflexe de survie qui paralyse sa communication. Il exprime désormais la volonté de ne plus laisser ses meubles être ses seuls messagers et place la réconciliation avec Éric comme sa priorité actuelle.",
           "elements_cles": "Date du 06 mai 2026 ; présence du chien Sultan ; mention du voyage en Toscane (avril) et de l'enveloppe notariale (mars) ; conflit sur la vente de la maison d'Hélène ; décision de sceller une armoire au grenier ; métaphore de la chaise en cerisier."
+        },
+        {
+          "date": "2026-05-12",
+          "sujet": "isolement social/aliénation",
+          "contexte": "en amitié",
+          "category": "cat3_schemas",
+          "titre": "Isolement social et aliénation en amitié : comprendre et agir",
+          "slug": "isolement-social-alienation-amitie",
+          "resume_narratif": "Bernard observe depuis son atelier les villageois et son voisin Marcel se rendre à une fête locale, mais choisit de rester en retrait avec son chien Sultan. Il repense à une dispute tendue avec son fils Éric survenue le 6 mai et réalise que son mutisme et son travail du bois sont ses seuls moyens d'expression.",
+          "evolution": "Bernard identifie son silence comme un mécanisme de défense hérité et comprend que ses meubles sont des substituts affectifs, marquant le début d'un désir de reconnecter autrement avec les autres.",
+          "elements_cles": "Marcel (voisin), Éric (fils), Sultan (chien), date du 6 mai (conflit), atelier de menuiserie, odeur d'huile de lin, voyage en Toscane (mentionné comme origine de sa prise de conscience), concept de conversion des liens en objets."
         }
       ],
       "genre": "M",

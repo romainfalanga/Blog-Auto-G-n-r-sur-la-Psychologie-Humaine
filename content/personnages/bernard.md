@@ -1,14 +1,14 @@
 ---
 title: "Bernard"
-date: 2026-05-11T06:18:21+00:00
+date: 2026-05-12T05:52:15+00:00
 description: "Bernard est artisan ébéniste en campagne. Veuf, il cherche désormais à dépasser ses silences et ses réflexes de défense pour privilégier la réconciliation avec son fils Éric."
 slug: "bernard"
 prenom: "Bernard"
 date_naissance: "1967-08-21"
 profession: "Artisan ébéniste, atelier en campagne"
 situation: "Veuf, place la réconciliation avec son fils éric comme priorité absolue"
-nb_articles: 9
-weight: 20
+nb_articles: 10
+weight: 19
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Bernard identifie son mécanisme de clivage comme un héritage familial et un réflexe de survie qui paralyse sa communication. Il exprime désormais la volonté de ne plus laisser ses meubles être ses seuls messagers et place la réconciliation avec Éric comme sa priorité actuelle.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/clivage-conflit-comprendre-gerer/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-amitie/">Isolement social et aliénation en amitié : comprendre et agir</a></h3>
+    <div class="parcours-date">2026-05-12</div>
+    <p class="parcours-resume">Bernard observe depuis son atelier les villageois et son voisin Marcel se rendre à une fête locale, mais choisit de rester en retrait avec son chien Sultan. Il repense à une dispute tendue avec son fils Éric survenue le 6 mai et réalise que son mutisme et son travail du bois sont ses seuls moyens d'expression.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Bernard identifie son silence comme un mécanisme de défense hérité et comprend que ses meubles sont des substituts affectifs, marquant le début d'un désir de reconnecter autrement avec les autres.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-amitie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

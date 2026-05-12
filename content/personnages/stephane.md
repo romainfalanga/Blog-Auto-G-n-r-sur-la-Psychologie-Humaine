@@ -1,14 +1,14 @@
 ---
 title: "Stéphane"
-date: 2026-05-11T06:18:21+00:00
+date: 2026-05-12T05:52:15+00:00
 description: "Stéphane est commercial grands comptes dans une multinationale. Marié à sandrine, père d'un adolescent (maxime, 15 ans)."
 slug: "stephane"
 prenom: "Stéphane"
 date_naissance: "1980-04-25"
 profession: "Commercial grands comptes dans une multinationale"
 situation: "Marié à sandrine, père d'un adolescent (maxime, 15 ans)"
-nb_articles: 9
-weight: 18
+nb_articles: 10
+weight: 16
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Stéphane prend conscience de sa tendance à la régression psychologique, réalisant qu'il abandonne son identité d'adulte compétent pour redevenir l'enfant cherchant la validation maternelle face à l'échec.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/regression-apres-un-echec-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/comparaison-injuste-competition/">Comparaison injuste en situation de compétition : s'en libérer</a></h3>
+    <div class="parcours-date">2026-05-12</div>
+    <p class="parcours-resume">Lors d'une séance de musculation le 12 mai 2026, Stéphane se compare douloureusement à un autre sportif, ce qui déclenche des réminiscences de sa rivalité fraternelle avec Philippe et d'une réunion professionnelle marquante le 9 mars. Malgré son masque social impeccable à l'agence, il réalise que ses succès passés sont systématiquement éclipsés par un sentiment d'insuffisance face à la réussite d'autrui.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Stéphane prend conscience que sa tendance à la comparaison ascendante est un mécanisme automatique lié à son histoire familiale et qu'il minimise ses propres réussites par une relativisation punitive. Il commence à identifier ses déclencheurs émotionnels pour tenter de briser sa spirale d'anxiété de performance.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/comparaison-injuste-competition/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
