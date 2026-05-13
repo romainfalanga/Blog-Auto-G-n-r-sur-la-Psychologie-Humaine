@@ -1,14 +1,14 @@
 ---
 title: "Sophie"
-date: 2026-05-12T05:52:15+00:00
+date: 2026-05-13T06:14:11+00:00
 description: "Sophie est développeuse web dans une startup. Célibataire, vit seule en appartement en ville."
 slug: "sophie"
 prenom: "Sophie"
 date_naissance: "1998-01-15"
 profession: "Développeuse web dans une startup"
 situation: "Célibataire, vit seule en appartement en ville"
-nb_articles: 10
-weight: 5
+nb_articles: 11
+weight: 3
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Sophie identifie le concept d'heuristique d'affect comme la source de ses décisions impulsives, comprenant que ses émotions (peur ou excitation) court-circuitent son analyse rationnelle des risques financiers.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/heuristique-affect-argent/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-amitie-causes/">Le syndrome de l'imposteur en amitié : comprendre ses racines</a></h3>
+    <div class="parcours-date">2026-05-13</div>
+    <p class="parcours-resume">Le 13 mai 2026, Sophie partage un moment dans un salon de thé avec son amie Claire, qui la félicite pour une réussite technique. Malgré ce succès, Sophie est assaillie par son syndrome de l'imposteur, minimisant son travail et luttant contre une voix intérieure qui la dévalorise.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Sophie réalise que ses mécanismes de défense, comme la surcompensation et l'effacement de soi, polluent désormais ses relations amicales et pas seulement son travail. Elle commence à identifier ses distorsions cognitives en tentant de rationaliser les compliments de Claire plutôt que de les fuir.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-amitie-causes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

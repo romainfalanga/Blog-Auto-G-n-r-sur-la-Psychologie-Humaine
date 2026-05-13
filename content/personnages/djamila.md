@@ -1,14 +1,14 @@
 ---
 title: "Djamila"
-date: 2026-05-12T05:52:15+00:00
+date: 2026-05-13T06:14:11+00:00
 description: "Djamila est travailleuse sociale dans une association d'aide aux femmes. Séparée, en reconstruction, un fils (adam, 6 ans)."
 slug: "djamila"
 prenom: "Djamila"
 date_naissance: "1989-05-06"
 profession: "Travailleuse sociale dans une association d'aide aux femmes"
 situation: "Séparée, en reconstruction, un fils (adam, 6 ans)"
-nb_articles: 9
-weight: 20
+nb_articles: 10
+weight: 17
 draft: false
 ---
 
@@ -112,5 +112,16 @@ draft: false
       <p>Djamila identifie sa fierté comme un mécanisme de défense ambivalent, oscillant entre un sentiment d'invincibilité et une hypervigilance héritée de son passé avec son ex-conjoint Samir. Elle réalise que son besoin de tout contrôler et de diluer ses succès l'isole de son équipe.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/fierte-au-travail-comprendre-manifestations-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-ecole-etudes-psychologie/">Biais de groupe à l'école ou aux études : le comprendre</a></h3>
+    <div class="parcours-date">2026-05-13</div>
+    <p class="parcours-resume">Djamila participe à une formation sur les violences intra-familiales où elle est confrontée à un groupe de stagiaires dominants imposant leurs opinions. Lors d'un exercice pratique, elle ressent la pression de se conformer à leur avis erroné, ravivant ses anciens réflexes de soumission développés avec son ex-conjoint Samir.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Elle identifie son envie de s'effacer comme un vestige de son passé traumatique et prend conscience que le biais de groupe agit sur elle comme une pression invisible vers le conformisme.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-ecole-etudes-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

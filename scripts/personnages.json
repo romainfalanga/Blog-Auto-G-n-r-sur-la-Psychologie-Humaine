@@ -244,6 +244,17 @@
               "Analyse des biais de Paul Slovic et Kahneman"
             ]
           }
+        },
+        {
+          "date": "2026-05-13",
+          "sujet": "le syndrome de l'imposteur",
+          "contexte": "en amitié",
+          "category": "cat3_schemas",
+          "titre": "Le syndrome de l'imposteur en amitié : comprendre ses racines",
+          "slug": "syndrome-imposteur-amitie-causes",
+          "resume_narratif": "Le 13 mai 2026, Sophie partage un moment dans un salon de thé avec son amie Claire, qui la félicite pour une réussite technique. Malgré ce succès, Sophie est assaillie par son syndrome de l'imposteur, minimisant son travail et luttant contre une voix intérieure qui la dévalorise.",
+          "evolution": "Sophie réalise que ses mécanismes de défense, comme la surcompensation et l'effacement de soi, polluent désormais ses relations amicales et pas seulement son travail. Elle commence à identifier ses distorsions cognitives en tentant de rationaliser les compliments de Claire plutôt que de les fuir.",
+          "elements_cles": "Claire (amie), salon de thé près d'une librairie, carnet de notes personnel, mention de Marc (collègue) et de l'incident du 23 avril, antécédents familiaux (père ingénieur, mère enseignante), technique de respiration et de rationalisation face à l'heuristique d'affect."
         }
       ],
       "genre": "F",
@@ -3170,6 +3181,17 @@
               "Comprendre la différence entre pensée dichotomique et pensée nuancée pour ne plus céder à l'urgence émotionnelle."
             ]
           }
+        },
+        {
+          "date": "2026-05-13",
+          "sujet": "rage",
+          "contexte": "en situation de conflit",
+          "category": "cat2_emotions",
+          "titre": "Rage en situation de conflit : pourquoi elle revient et que faire",
+          "slug": "rage-en-situation-de-conflit",
+          "resume_narratif": "Lors d'une réunion d'association tendue, Léa est confrontée à l'indifférence d'Antoine qui souhaite reporter un dossier urgent de violence conjugale. Cette situation déclenche chez elle une rage intense, ravivant des souvenirs d'enfance liés à l'inaction de ses parents et à son sentiment d'abandon.",
+          "evolution": "Léa prend conscience que sa colère actuelle est une réactivation de ses blessures passées et de sa tendance au 'tout ou rien'. Elle réalise que sa rage est le revers de son habitude à anticiper les besoins des autres pour éviter les conflits.",
+          "elements_cles": "Antoine (collègue), Youssef (conflit passé), Zoé (relation passée), carnet corné, divorce des parents à 6 ans, lecture de Bowlby, tendance au sur-contrôle/sauvetage."
         }
       ],
       "genre": "F",
@@ -4809,6 +4831,17 @@
           "resume_narratif": "Le 4 mai 2026, Djamila présente avec succès son nouveau protocole d'accueil pour les victimes de violences au sein de son association. Malgré les applaudissements de ses collègues Amina et Antoine, elle lutte contre un sentiment de fierté qu'elle perçoit comme une vulnérabilité dangereuse.",
           "evolution": "Djamila identifie sa fierté comme un mécanisme de défense ambivalent, oscillant entre un sentiment d'invincibilité et une hypervigilance héritée de son passé avec son ex-conjoint Samir. Elle réalise que son besoin de tout contrôler et de diluer ses succès l'isole de son équipe.",
           "elements_cles": "Date du 4 mai 2026 ; association (lieu de travail) ; personnages d'Amina (soutien) et Antoine (collègue complexe) ; mention de l'ex-conjoint manipulateur Samir ; projet de protocole d'accueil et projet de relogement."
+        },
+        {
+          "date": "2026-05-13",
+          "sujet": "biais de groupe",
+          "contexte": "à l'école ou aux études",
+          "category": "cat1_pensees",
+          "titre": "Biais de groupe à l'école ou aux études : le comprendre",
+          "slug": "biais-de-groupe-ecole-etudes-psychologie",
+          "resume_narratif": "Djamila participe à une formation sur les violences intra-familiales où elle est confrontée à un groupe de stagiaires dominants imposant leurs opinions. Lors d'un exercice pratique, elle ressent la pression de se conformer à leur avis erroné, ravivant ses anciens réflexes de soumission développés avec son ex-conjoint Samir.",
+          "evolution": "Elle identifie son envie de s'effacer comme un vestige de son passé traumatique et prend conscience que le biais de groupe agit sur elle comme une pression invisible vers le conformisme.",
+          "elements_cles": "Institut de formation, Adam (son fils), Dr Martin (son thérapeute), Julie (stagiaire hésitante), Samir (ex-conjoint), technique d'autonomie financière, foulard turquoise."
         }
       ],
       "genre": "F",

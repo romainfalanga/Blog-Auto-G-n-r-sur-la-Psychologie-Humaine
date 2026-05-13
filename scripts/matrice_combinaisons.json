@@ -6827,6 +6827,81 @@
       "elements_cles": "Marcel (voisin), Éric (fils), Sultan (chien), date du 6 mai (conflit), atelier de menuiserie, odeur d'huile de lin, voyage en Toscane (mentionné comme origine de sa prise de conscience), concept de conversion des liens en objets.",
       "strategie_coherence": "rationaliser",
       "apport_psychologique": "On comprend que son retrait n'est pas qu'une simple pudeur, mais une conviction profonde de ne pas appartenir au monde social, héritée d'une enfance où il devait se faire oublier. Cela explique pourquoi ses meubles sont ses seuls messagers."
+    },
+    {
+      "date": "2026-05-13",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de groupe",
+      "contexte": "à l'école ou aux études",
+      "angle": "3 techniques/exercices pratiques",
+      "profil": null,
+      "prenom": "Djamila",
+      "age": "37 ans",
+      "title": "Biais de groupe à l'école ou aux études : le comprendre",
+      "slug": "biais-de-groupe-ecole-etudes-psychologie",
+      "tags": [
+        "psychologie sociale",
+        "conformisme",
+        "formation adulte",
+        "influence sociale",
+        "confiance en soi"
+      ],
+      "resume_narratif": "Djamila participe à une formation sur les violences intra-familiales où elle est confrontée à un groupe de stagiaires dominants imposant leurs opinions. Lors d'un exercice pratique, elle ressent la pression de se conformer à leur avis erroné, ravivant ses anciens réflexes de soumission développés avec son ex-conjoint Samir.",
+      "evolution": "Elle identifie son envie de s'effacer comme un vestige de son passé traumatique et prend conscience que le biais de groupe agit sur elle comme une pression invisible vers le conformisme.",
+      "elements_cles": "Institut de formation, Adam (son fils), Dr Martin (son thérapeute), Julie (stagiaire hésitante), Samir (ex-conjoint), technique d'autonomie financière, foulard turquoise.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-13",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "rage",
+      "contexte": "en situation de conflit",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Léa",
+      "age": "23 ans",
+      "title": "Rage en situation de conflit : pourquoi elle revient et que faire",
+      "slug": "rage-en-situation-de-conflit",
+      "tags": [
+        "rage",
+        "colère",
+        "enfance",
+        "conflit",
+        "gestion-émotionnelle"
+      ],
+      "resume_narratif": "Lors d'une réunion d'association tendue, Léa est confrontée à l'indifférence d'Antoine qui souhaite reporter un dossier urgent de violence conjugale. Cette situation déclenche chez elle une rage intense, ravivant des souvenirs d'enfance liés à l'inaction de ses parents et à son sentiment d'abandon.",
+      "evolution": "Léa prend conscience que sa colère actuelle est une réactivation de ses blessures passées et de sa tendance au 'tout ou rien'. Elle réalise que sa rage est le revers de son habitude à anticiper les besoins des autres pour éviter les conflits.",
+      "elements_cles": "Antoine (collègue), Youssef (conflit passé), Zoé (relation passée), carnet corné, divorce des parents à 6 ans, lecture de Bowlby, tendance au sur-contrôle/sauvetage.",
+      "strategie_coherence": "connecter",
+      "apport_psychologique": "L'article révèle que la rage de Djamila n'est pas un défaut de caractère, mais une part protectrice de son psychisme qui tente de restaurer son intégrité après des années d'écrasement. C'est le moteur de sa combativité, mais aussi ce qui l'effraie."
+    },
+    {
+      "date": "2026-05-13",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "le syndrome de l'imposteur",
+      "contexte": "en amitié",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Sophie",
+      "age": "28 ans",
+      "title": "Le syndrome de l'imposteur en amitié : comprendre ses racines",
+      "slug": "syndrome-imposteur-amitie-causes",
+      "tags": [
+        "syndrome de l'imposteur",
+        "amitié",
+        "psychologie",
+        "schémas répétitifs",
+        "auto-critique"
+      ],
+      "resume_narratif": "Le 13 mai 2026, Sophie partage un moment dans un salon de thé avec son amie Claire, qui la félicite pour une réussite technique. Malgré ce succès, Sophie est assaillie par son syndrome de l'imposteur, minimisant son travail et luttant contre une voix intérieure qui la dévalorise.",
+      "evolution": "Sophie réalise que ses mécanismes de défense, comme la surcompensation et l'effacement de soi, polluent désormais ses relations amicales et pas seulement son travail. Elle commence à identifier ses distorsions cognitives en tentant de rationaliser les compliments de Claire plutôt que de les fuir.",
+      "elements_cles": "Claire (amie), salon de thé près d'une librairie, carnet de notes personnel, mention de Marc (collègue) et de l'incident du 23 avril, antécédents familiaux (père ingénieur, mère enseignante), technique de respiration et de rationalisation face à l'heuristique d'affect.",
+      "strategie_coherence": "rationaliser",
+      "apport_psychologique": "On comprend enfin la racine de son surtravail : Sophie ne cherche pas l'excellence pour le plaisir, mais par peur que son amie Claire ou son collègue Marc ne découvrent une prétendue nullité qu'elle s'attribue secrètement."
     }
   ]
 }

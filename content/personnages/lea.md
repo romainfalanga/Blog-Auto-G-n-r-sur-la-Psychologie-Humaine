@@ -1,14 +1,14 @@
 ---
 title: "Léa"
-date: 2026-05-12T05:52:15+00:00
+date: 2026-05-13T06:14:11+00:00
 description: "Léa est étudiante en master de psychologie clinique. En couple avec Youssef, elle vit en studio étudiant."
 slug: "lea"
 prenom: "Léa"
 date_naissance: "2002-11-12"
 profession: "Étudiante en master de psychologie clinique"
 situation: "En couple avec youssef, vit en studio étudiant"
-nb_articles: 10
-weight: 12
+nb_articles: 11
+weight: 6
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Léa identifie que sa pensée tout-ou-rien est un mécanisme de survie hérité de son enfance et de l'instabilité émotionnelle de ses parents. Elle prend conscience que cette distorsion cognitive alimente son urgence émotionnelle et son besoin de surinvestissement relationnel.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/pensee-tout-ou-rien-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/rage-en-situation-de-conflit/">Rage en situation de conflit : pourquoi elle revient et que faire</a></h3>
+    <div class="parcours-date">2026-05-13</div>
+    <p class="parcours-resume">Lors d'une réunion d'association tendue, Léa est confrontée à l'indifférence d'Antoine qui souhaite reporter un dossier urgent de violence conjugale. Cette situation déclenche chez elle une rage intense, ravivant des souvenirs d'enfance liés à l'inaction de ses parents et à son sentiment d'abandon.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Léa prend conscience que sa colère actuelle est une réactivation de ses blessures passées et de sa tendance au 'tout ou rien'. Elle réalise que sa rage est le revers de son habitude à anticiper les besoins des autres pour éviter les conflits.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/rage-en-situation-de-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
