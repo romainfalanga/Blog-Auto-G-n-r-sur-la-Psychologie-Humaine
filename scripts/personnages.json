@@ -2559,6 +2559,31 @@
               "Deuil familial récent"
             ]
           }
+        },
+        {
+          "date": "2026-05-14",
+          "sujet": "fenêtre de tolérance (Dan Siegel)",
+          "contexte": "en famille",
+          "category": "cat2_emotions",
+          "titre": "Fenêtre de tolérance en famille : le guide de Dan Siegel",
+          "slug": "fenetre-de-tolerance-dan-siegel-en-famille",
+          "resume_narratif": "Isabelle, psychologue scolaire fatiguée par son travail, fait face à l'agressivité verbale de son fils Théo après une journée tendue. Alors qu'elle tente une médiation, elle sent son équilibre émotionnel vaciller, ravivant des souvenirs de son enfance d'enfant parentifiée et de sa rupture difficile avec Laurent.",
+          "evolution": "Elle identifie qu'elle est en train de sortir de sa 'fenêtre de tolérance' vers l'hyper-activation. Elle prend conscience que son passé de médiatrice familiale et sa fatigue actuelle réduisent sa capacité à rester calme face aux provocations de son fils.",
+          "elements_cles": {
+            "personnages": [
+              "Isabelle",
+              "Théo (fils)",
+              "Laurent (ex-mari)",
+              "Geneviève (mère)"
+            ],
+            "contexte_professionnel": "Psychologue scolaire souffrant de fatigue de compassion",
+            "passé_traumatique": "Enfant parentifiée, rôle de médiatrice entre ses parents dès 8 ans",
+            "concepts_et_symptômes": [
+              "Fenêtre de tolérance (Dan Siegel)",
+              "Hyper-activation (colère/injustice)",
+              "Hypo-activation (dissociation vécue lors de sa rupture)"
+            ]
+          }
         }
       ],
       "genre": "F",
@@ -3769,6 +3794,17 @@
           "resume_narratif": "Monique, désormais coordinatrice bénévole à la bibliothèque municipale, s'épuise à réguler les tensions entre Claire et Antoine. Elle décline une promenade en forêt avec Jacques pour traiter des formulaires administratifs, se sentant vidée par la gestion du climat émotionnel de son équipe.",
           "evolution": "Monique prend conscience qu'elle reproduit au travail le même schéma de sacrifice de soi qu'au cours de son mariage avec Jean-Claude. Elle réalise qu'elle porte seule la responsabilité du bien-être d'autrui, un mécanisme invisible qui l'étouffe malgré sa volonté de changement amorcée en avril.",
           "elements_cles": "Bibliothèque municipale ; Festival du livre local ; Claire (nouvelle recrue instable) ; Antoine (collègue brusque) ; Jacques (compagnon actuel) ; Jean-Claude (ex-mari) ; Date du 11 mai 2026 ; Référence au biais de normalité d'avril dernier."
+        },
+        {
+          "date": "2026-05-14",
+          "sujet": "peak-end rule",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Peak-end rule face à une décision importante : comment l'éviter",
+          "slug": "peak-end-rule-decision-importante",
+          "resume_narratif": "Monique se trouve chez le notaire pour décider si elle accepte la proposition de Jacques de vendre sa maison de l'Oise pour emménager avec lui en centre-ville. Tiraillée entre sa tendance au contrôle et ses souvenirs, elle réalise que son jugement est biaisé par ses émotions les plus intenses et ses dernières expériences marquantes.",
+          "evolution": "Elle prend conscience de l'influence de la 'peak-end rule' sur sa perception et décide de ne plus subir ses souvenirs de manière passive. Elle commence à utiliser l'écriture pour lister ses moments de vie de façon objective afin de ne pas laisser ses biais cognitifs dicter son avenir.",
+          "elements_cles": "Jacques (compagnon), Jean-Claude (défunt mari), Lola, maison de l'Oise, carnet de notes, peak-end rule, biais du monde juste, héritage de rigueur du père artisan."
         }
       ],
       "genre": "F",
@@ -4587,6 +4623,33 @@
               "Comparaison ascendante",
               "Effet de halo",
               "Syndrome de l'imposteur"
+            ]
+          }
+        },
+        {
+          "date": "2026-05-14",
+          "sujet": "le syndrome de Stockholm du quotidien",
+          "contexte": "avec ses parents",
+          "category": "cat3_schemas",
+          "titre": "Syndrome de Stockholm du quotidien avec ses parents : comprendre",
+          "slug": "syndrome-stockholm-quotidien-parents-causes",
+          "resume_narratif": "Stéphane, un commercial de 46 ans, se rend chez ses parents en banlieue parisienne pour les aider administrativement. Confronté aux piques de son père et aux plaintes de sa mère, il retombe instantanément dans un rôle d'enfant soumis, justifiant leurs comportements toxiques malgré les avertissements de sa compagne.",
+          "evolution": "Stéphane prend conscience qu'il souffre d'une forme de syndrome de Stockholm du quotidien, agissant comme un otage émotionnel qui protège ses propres 'geôliers' pour éviter la douleur de la désapprobation.",
+          "elements_cles": {
+            "personnages_secondaires": [
+              "Philippe (frère, modèle de réussite)",
+              "Sandrine (compagne)",
+              "Maxime (mentionné lors d'un précédent conflit)"
+            ],
+            "contexte_professionnel": "Commercial de haut vol, vient de subir l'échec du contrat Lemoine",
+            "lieux_et_evenements": [
+              "Pavillon familial en banlieue parisienne",
+              "Déjeuner du 28 avril (référence passée)"
+            ],
+            "mecanismes_identifies": [
+              "Justification des critiques paternelles",
+              "Compassion dévorante envers la solitude de sa mère",
+              "Zèle excessif dans les tâches administratives"
             ]
           }
         }

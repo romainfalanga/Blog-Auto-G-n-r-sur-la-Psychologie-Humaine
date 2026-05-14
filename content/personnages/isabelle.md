@@ -1,14 +1,14 @@
 ---
 title: "Isabelle"
-date: 2026-05-13T06:14:11+00:00
+date: 2026-05-14T06:04:04+00:00
 description: "Isabelle est psychologue scolaire dans un collège. Divorcée, un fils adolescent (théo, 16 ans)."
 slug: "isabelle"
 prenom: "Isabelle"
 date_naissance: "1978-09-03"
 profession: "Psychologue scolaire dans un collège"
 situation: "Divorcée, un fils adolescent (théo, 16 ans)"
-nb_articles: 10
-weight: 11
+nb_articles: 11
+weight: 6
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Isabelle parvient à conscientiser la distinction entre l'empathie affective, qui l'épuise par contagion, et l'empathie cognitive, qui lui permet de comprendre les peurs de sa mère sans les subir physiquement.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/empathie-cognitive-vs-affective-avec-ses-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/fenetre-de-tolerance-dan-siegel-en-famille/">Fenêtre de tolérance en famille : le guide de Dan Siegel</a></h3>
+    <div class="parcours-date">2026-05-14</div>
+    <p class="parcours-resume">Isabelle, psychologue scolaire fatiguée par son travail, fait face à l'agressivité verbale de son fils Théo après une journée tendue. Alors qu'elle tente une médiation, elle sent son équilibre émotionnel vaciller, ravivant des souvenirs de son enfance d'enfant parentifiée et de sa rupture difficile avec Laurent.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Elle identifie qu'elle est en train de sortir de sa 'fenêtre de tolérance' vers l'hyper-activation. Elle prend conscience que son passé de médiatrice familiale et sa fatigue actuelle réduisent sa capacité à rester calme face aux provocations de son fils.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/fenetre-de-tolerance-dan-siegel-en-famille/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

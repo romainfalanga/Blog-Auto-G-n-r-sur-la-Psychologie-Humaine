@@ -1,14 +1,14 @@
 ---
 title: "Stéphane"
-date: 2026-05-13T06:14:11+00:00
+date: 2026-05-14T06:04:04+00:00
 description: "Stéphane est commercial grands comptes dans une multinationale. Marié à sandrine, père d'un adolescent (maxime, 15 ans)."
 slug: "stephane"
 prenom: "Stéphane"
 date_naissance: "1980-04-25"
 profession: "Commercial grands comptes dans une multinationale"
 situation: "Marié à sandrine, père d'un adolescent (maxime, 15 ans)"
-nb_articles: 10
-weight: 16
+nb_articles: 11
+weight: 9
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Stéphane prend conscience que sa tendance à la comparaison ascendante est un mécanisme automatique lié à son histoire familiale et qu'il minimise ses propres réussites par une relativisation punitive. Il commence à identifier ses déclencheurs émotionnels pour tenter de briser sa spirale d'anxiété de performance.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/comparaison-injuste-competition/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-stockholm-quotidien-parents-causes/">Syndrome de Stockholm du quotidien avec ses parents : comprendre</a></h3>
+    <div class="parcours-date">2026-05-14</div>
+    <p class="parcours-resume">Stéphane, un commercial de 46 ans, se rend chez ses parents en banlieue parisienne pour les aider administrativement. Confronté aux piques de son père et aux plaintes de sa mère, il retombe instantanément dans un rôle d'enfant soumis, justifiant leurs comportements toxiques malgré les avertissements de sa compagne.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Stéphane prend conscience qu'il souffre d'une forme de syndrome de Stockholm du quotidien, agissant comme un otage émotionnel qui protège ses propres 'geôliers' pour éviter la douleur de la désapprobation.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-stockholm-quotidien-parents-causes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

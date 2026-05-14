@@ -1,14 +1,14 @@
 ---
 title: "Monique"
-date: 2026-05-13T06:14:11+00:00
+date: 2026-05-14T06:04:04+00:00
 description: "Monique est retraitée, ancienne professeure de français. Veuve depuis 3 ans, elle entame une nouvelle relation avec Jacques, un ancien collègue."
 slug: "monique"
 prenom: "Monique"
 date_naissance: "1964-01-30"
 profession: "Retraitée, ancienne professeure de français"
 situation: "Veuve, entame une nouvelle relation avec jacques"
-nb_articles: 10
-weight: 13
+nb_articles: 11
+weight: 8
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Monique prend conscience qu'elle reproduit au travail le même schéma de sacrifice de soi qu'au cours de son mariage avec Jean-Claude. Elle réalise qu'elle porte seule la responsabilité du bien-être d'autrui, un mécanisme invisible qui l'étouffe malgré sa volonté de changement amorcée en avril.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/charge-mentale-emotionnelle-au-travail-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/peak-end-rule-decision-importante/">Peak-end rule face à une décision importante : comment l'éviter</a></h3>
+    <div class="parcours-date">2026-05-14</div>
+    <p class="parcours-resume">Monique se trouve chez le notaire pour décider si elle accepte la proposition de Jacques de vendre sa maison de l'Oise pour emménager avec lui en centre-ville. Tiraillée entre sa tendance au contrôle et ses souvenirs, elle réalise que son jugement est biaisé par ses émotions les plus intenses et ses dernières expériences marquantes.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Elle prend conscience de l'influence de la 'peak-end rule' sur sa perception et décide de ne plus subir ses souvenirs de manière passive. Elle commence à utiliser l'écriture pour lister ses moments de vie de façon objective afin de ne pas laisser ses biais cognitifs dicter son avenir.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/peak-end-rule-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

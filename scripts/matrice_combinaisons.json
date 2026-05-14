@@ -6902,6 +6902,111 @@
       "elements_cles": "Claire (amie), salon de thé près d'une librairie, carnet de notes personnel, mention de Marc (collègue) et de l'incident du 23 avril, antécédents familiaux (père ingénieur, mère enseignante), technique de respiration et de rationalisation face à l'heuristique d'affect.",
       "strategie_coherence": "rationaliser",
       "apport_psychologique": "On comprend enfin la racine de son surtravail : Sophie ne cherche pas l'excellence pour le plaisir, mais par peur que son amie Claire ou son collègue Marc ne découvrent une prétendue nullité qu'elle s'attribue secrètement."
+    },
+    {
+      "date": "2026-05-14",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "peak-end rule",
+      "contexte": "face à une décision importante",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "contrôlant(e)",
+      "prenom": "Monique",
+      "age": "62 ans",
+      "title": "Peak-end rule face à une décision importante : comment l'éviter",
+      "slug": "peak-end-rule-decision-importante",
+      "tags": [
+        "peak-end rule",
+        "décision",
+        "biais cognitifs",
+        "psychologie",
+        "prise de décision"
+      ],
+      "resume_narratif": "Monique se trouve chez le notaire pour décider si elle accepte la proposition de Jacques de vendre sa maison de l'Oise pour emménager avec lui en centre-ville. Tiraillée entre sa tendance au contrôle et ses souvenirs, elle réalise que son jugement est biaisé par ses émotions les plus intenses et ses dernières expériences marquantes.",
+      "evolution": "Elle prend conscience de l'influence de la 'peak-end rule' sur sa perception et décide de ne plus subir ses souvenirs de manière passive. Elle commence à utiliser l'écriture pour lister ses moments de vie de façon objective afin de ne pas laisser ses biais cognitifs dicter son avenir.",
+      "elements_cles": "Jacques (compagnon), Jean-Claude (défunt mari), Lola, maison de l'Oise, carnet de notes, peak-end rule, biais du monde juste, héritage de rigueur du père artisan.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-14",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "fenêtre de tolérance (Dan Siegel)",
+      "contexte": "en famille",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Isabelle",
+      "age": "47 ans",
+      "title": "Fenêtre de tolérance en famille : le guide de Dan Siegel",
+      "slug": "fenetre-de-tolerance-dan-siegel-en-famille",
+      "tags": [
+        "psychologie",
+        "famille",
+        "émotions",
+        "éducation",
+        "bien-être"
+      ],
+      "resume_narratif": "Isabelle, psychologue scolaire fatiguée par son travail, fait face à l'agressivité verbale de son fils Théo après une journée tendue. Alors qu'elle tente une médiation, elle sent son équilibre émotionnel vaciller, ravivant des souvenirs de son enfance d'enfant parentifiée et de sa rupture difficile avec Laurent.",
+      "evolution": "Elle identifie qu'elle est en train de sortir de sa 'fenêtre de tolérance' vers l'hyper-activation. Elle prend conscience que son passé de médiatrice familiale et sa fatigue actuelle réduisent sa capacité à rester calme face aux provocations de son fils.",
+      "elements_cles": {
+        "personnages": [
+          "Isabelle",
+          "Théo (fils)",
+          "Laurent (ex-mari)",
+          "Geneviève (mère)"
+        ],
+        "contexte_professionnel": "Psychologue scolaire souffrant de fatigue de compassion",
+        "passé_traumatique": "Enfant parentifiée, rôle de médiatrice entre ses parents dès 8 ans",
+        "concepts_et_symptômes": [
+          "Fenêtre de tolérance (Dan Siegel)",
+          "Hyper-activation (colère/injustice)",
+          "Hypo-activation (dissociation vécue lors de sa rupture)"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-14",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "le syndrome de Stockholm du quotidien",
+      "contexte": "avec ses parents",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": "survivant(e) de relation toxique",
+      "prenom": "Stéphane",
+      "age": "46 ans",
+      "title": "Syndrome de Stockholm du quotidien avec ses parents : comprendre",
+      "slug": "syndrome-stockholm-quotidien-parents-causes",
+      "tags": [
+        "psychologie",
+        "relations familiales",
+        "traumatisme",
+        "attachement",
+        "schémas répétitifs"
+      ],
+      "resume_narratif": "Stéphane, un commercial de 46 ans, se rend chez ses parents en banlieue parisienne pour les aider administrativement. Confronté aux piques de son père et aux plaintes de sa mère, il retombe instantanément dans un rôle d'enfant soumis, justifiant leurs comportements toxiques malgré les avertissements de sa compagne.",
+      "evolution": "Stéphane prend conscience qu'il souffre d'une forme de syndrome de Stockholm du quotidien, agissant comme un otage émotionnel qui protège ses propres 'geôliers' pour éviter la douleur de la désapprobation.",
+      "elements_cles": {
+        "personnages_secondaires": [
+          "Philippe (frère, modèle de réussite)",
+          "Sandrine (compagne)",
+          "Maxime (mentionné lors d'un précédent conflit)"
+        ],
+        "contexte_professionnel": "Commercial de haut vol, vient de subir l'échec du contrat Lemoine",
+        "lieux_et_evenements": [
+          "Pavillon familial en banlieue parisienne",
+          "Déjeuner du 28 avril (référence passée)"
+        ],
+        "mecanismes_identifies": [
+          "Justification des critiques paternelles",
+          "Compassion dévorante envers la solitude de sa mère",
+          "Zèle excessif dans les tâches administratives"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }
