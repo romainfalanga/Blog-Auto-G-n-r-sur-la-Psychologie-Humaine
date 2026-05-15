@@ -1,14 +1,14 @@
 ---
 title: "Nadia"
-date: 2026-05-14T06:04:04+00:00
+date: 2026-05-15T06:07:28+00:00
 description: "Nadia est directrice marketing dans une entreprise tech. En couple avec Antoine, elle est mère d'une fille (Yasmine, 8 ans) en garde alternée."
 slug: "nadia"
 prenom: "Nadia"
 date_naissance: "1987-05-18"
 profession: "Directrice marketing dans une entreprise tech"
 situation: "En couple avec antoine, mère d'une fille (yasmine, 8 ans), garde alternée"
-nb_articles: 10
-weight: 11
+nb_articles: 11
+weight: 5
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Nadia prend conscience que son cerveau de haut potentiel est victime de l'effet de primauté, transformant ses premières impressions en filtres déformants. Elle réalise que son besoin de contrôle et son exigence peuvent nuire à son impartialité de manager.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-de-primaute-en-tant-que-manager/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/narcissisme-sain-pathologique-travail/">Narcissisme sain vs pathologique au travail : démêler les mythes</a></h3>
+    <div class="parcours-date">2026-05-15</div>
+    <p class="parcours-resume">Lors d'une présentation stratégique devant le comité exécutif le 15 mai 2026, Nadia ressent une tension agressive face à une question de Marc du produit. Elle parvient à identifier son réflexe de domination grâce aux retours de son assistante Julie et à ses réflexions personnelles sur son besoin de contrôle.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Nadia prend conscience de la frontière fragile entre son leadership naturel et ses tendances toxiques héritées de son passé d'enfant parentifiée. Elle comprend que son perfectionnisme est une armure et cherche désormais à transformer son ambition en un narcissisme sain plutôt que destructeur.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/narcissisme-sain-pathologique-travail/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

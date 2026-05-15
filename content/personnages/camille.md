@@ -1,13 +1,13 @@
 ---
 title: "Camille"
-date: 2026-05-14T06:04:04+00:00
-description: "Camille est infirmière en service de cardiologie. Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)."
+date: 2026-05-15T06:07:28+00:00
+description: "Camille est cadre de santé. Mariée à David, elle est mère de deux enfants (Léo, 10 ans et Emma, 7 ans)."
 slug: "camille"
 prenom: "Camille"
 date_naissance: "1984-03-05"
-profession: "Infirmière en service de cardiologie"
+profession: "Cadre de santé"
 situation: "Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)"
-nb_articles: 12
+nb_articles: 13
 weight: 1
 draft: false
 ---
@@ -145,5 +145,16 @@ draft: false
       <p>Camille identifie son mécanisme de filtre mental comme un héritage du perfectionnisme de sa mère, réalisant que ce biais cognitif occulte le soutien de David et ses propres progrès vers un attachement plus sécure.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/filtre-mental-abstraction-selective-conflit-camille/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/inquietude-decision-importante/">Inquiétude face à une décision importante : comment la repérer</a></h3>
+    <div class="parcours-date">2026-05-15</div>
+    <p class="parcours-resume">Camille, infirmière et mère de Léo et Emma, hésite à accepter un poste de cadre de santé proposé par la direction de l'hôpital. Face à cette décision, elle retombe dans des mécanismes d'inquiétude, manifestés par une hyper-organisation domestique et des ruminations silencieuses sur le jugement de sa mère, Françoise.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Camille a appris à identifier ses distorsions cognitives, comme la catastrophisation, et réalise que son besoin de contrôle est une réaction à l'incertitude. Elle cherche désormais à désamorcer cette inquiétude par l'auto-compassion plutôt que par la recherche d'invincibilité.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/inquietude-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

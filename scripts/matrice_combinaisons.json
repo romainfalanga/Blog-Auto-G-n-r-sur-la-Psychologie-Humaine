@@ -7007,6 +7007,144 @@
       },
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-15",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "divination (prédire l'avenir négativement)",
+      "contexte": "en amitié",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "timide",
+      "prenom": "Hugo",
+      "age": "27 ans",
+      "title": "Divination en amitié : comment arrêter de prédire le pire ?",
+      "slug": "divination-en-amitie-predire-avenir-negativement",
+      "tags": [
+        "divination",
+        "distorsions cognitives",
+        "psychologie amicale",
+        "peur de l'abandon",
+        "santé mentale"
+      ],
+      "resume_narratif": "Alors qu'il s'apprête à monter sur scène lors d'un festival de quartier, Hugo est assailli par des pensées catastrophiques concernant son ami Samba, qui a rejoint un groupe rival. Il imagine que leur amitié prendra fin dès la fin du concert, ce qui déclenche chez lui une envie de sabotage préventif.",
+      "evolution": "Hugo identifie son mécanisme de divination et réalise que ses prédictions de rejet sont liées à l'influence de son père Alain, qui conditionnait son affection à la réussite. Il prend conscience que son envie de lancer une pique sarcastique est un réflexe de défense pour éviter de souffrir.",
+      "elements_cles": {
+        "personnages": [
+          "Samba (ami/rival)",
+          "Chloé (confidente)",
+          "Alain (père d'Hugo)"
+        ],
+        "lieux": [
+          "Festival de quartier",
+          "Le Melody (lieu d'un traumatisme passé)"
+        ],
+        "concepts_psychologiques": [
+          "Divination/Saut aux conclusions",
+          "Prophétie autoréalisatrice",
+          "Sabotage préventif"
+        ],
+        "objets_symboliques": [
+          "Guitare",
+          "Bagues d'Hugo"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-15",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "inquiétude",
+      "contexte": "face à une décision importante",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "contrôlant(e)",
+      "prenom": "Camille",
+      "age": "42 ans",
+      "title": "Inquiétude face à une décision importante : comment la repérer",
+      "slug": "inquietude-decision-importante",
+      "tags": [
+        "inquiétude",
+        "prise-decision",
+        "anxiété",
+        "gestion-emotions",
+        "auto-compassion"
+      ],
+      "resume_narratif": "Camille, infirmière et mère de Léo et Emma, hésite à accepter un poste de cadre de santé proposé par la direction de l'hôpital. Face à cette décision, elle retombe dans des mécanismes d'inquiétude, manifestés par une hyper-organisation domestique et des ruminations silencieuses sur le jugement de sa mère, Françoise.",
+      "evolution": "Camille a appris à identifier ses distorsions cognitives, comme la catastrophisation, et réalise que son besoin de contrôle est une réaction à l'incertitude. Elle cherche désormais à désamorcer cette inquiétude par l'auto-compassion plutôt que par la recherche d'invincibilité.",
+      "elements_cles": {
+        "personnages": [
+          "Léo (fils)",
+          "Emma (fille)",
+          "David (conjoint)",
+          "Françoise (mère critique)"
+        ],
+        "lieux": [
+          "Parking de l'hôpital",
+          "Bus du retour",
+          "Maison familiale"
+        ],
+        "decisions_en_jeu": [
+          "Acceptation du poste de cadre de santé"
+        ],
+        "techniques_et_concepts": [
+          "Auto-compassion",
+          "Distorsions cognitives (catastrophisation, filtre mental)",
+          "Vérification compulsive des constantes (passé)"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-15",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "le narcissisme sain vs pathologique",
+      "contexte": "au travail",
+      "angle": "les idées reçues et mythes à déconstruire",
+      "profil": "haut potentiel intellectuel (HPI)",
+      "prenom": "Nadia",
+      "age": "38 ans",
+      "title": "Narcissisme sain vs pathologique au travail : démêler les mythes",
+      "slug": "narcissisme-sain-pathologique-travail",
+      "tags": [
+        "narcissisme",
+        "management",
+        "HPI",
+        "leadership",
+        "psychologie"
+      ],
+      "resume_narratif": "Lors d'une présentation stratégique devant le comité exécutif le 15 mai 2026, Nadia ressent une tension agressive face à une question de Marc du produit. Elle parvient à identifier son réflexe de domination grâce aux retours de son assistante Julie et à ses réflexions personnelles sur son besoin de contrôle.",
+      "evolution": "Nadia prend conscience de la frontière fragile entre son leadership naturel et ses tendances toxiques héritées de son passé d'enfant parentifiée. Elle comprend que son perfectionnisme est une armure et cherche désormais à transformer son ambition en un narcissisme sain plutôt que destructeur.",
+      "elements_cles": {
+        "personnages": [
+          "Marc (Produit)",
+          "Julie (assistante)",
+          "Fatima (mère)",
+          "Yasmine",
+          "Antoine"
+        ],
+        "lieux_et_dates": [
+          "Salle de réunion",
+          "15 mai 2026",
+          "Dîner chez Fatima"
+        ],
+        "references_passees": [
+          "Tableau Excel d'anniversaire",
+          "Épisode des perles renversées",
+          "Séance de journaling nocturne"
+        ],
+        "concepts_psychologiques": [
+          "Narcissisme sain vs pathologique",
+          "Enfant parentifiée",
+          "Illusion de contrôle",
+          "HPI (Haut Potentiel Intellectuel)"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

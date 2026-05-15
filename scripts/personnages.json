@@ -568,7 +568,7 @@
       "prenom": "Camille",
       "age": 42,
       "tranche_age": "adulte en pleine vie active (36-45 ans)",
-      "profession": "infirmière en service de cardiologie",
+      "profession": "cadre de santé",
       "situation_familiale": "mariée à David, mère de deux enfants (Léo, 10 ans et Emma, 7 ans)",
       "traits_personnalite": [
         "hypersensible",
@@ -902,11 +902,42 @@
               "Attachement sécure"
             ]
           }
+        },
+        {
+          "date": "2026-05-15",
+          "sujet": "inquiétude",
+          "contexte": "face à une décision importante",
+          "category": "cat2_emotions",
+          "titre": "Inquiétude face à une décision importante : comment la repérer",
+          "slug": "inquietude-decision-importante",
+          "resume_narratif": "Camille, infirmière et mère de Léo et Emma, hésite à accepter un poste de cadre de santé proposé par la direction de l'hôpital. Face à cette décision, elle retombe dans des mécanismes d'inquiétude, manifestés par une hyper-organisation domestique et des ruminations silencieuses sur le jugement de sa mère, Françoise.",
+          "evolution": "Camille a appris à identifier ses distorsions cognitives, comme la catastrophisation, et réalise que son besoin de contrôle est une réaction à l'incertitude. Elle cherche désormais à désamorcer cette inquiétude par l'auto-compassion plutôt que par la recherche d'invincibilité.",
+          "elements_cles": {
+            "personnages": [
+              "Léo (fils)",
+              "Emma (fille)",
+              "David (conjoint)",
+              "Françoise (mère critique)"
+            ],
+            "lieux": [
+              "Parking de l'hôpital",
+              "Bus du retour",
+              "Maison familiale"
+            ],
+            "decisions_en_jeu": [
+              "Acceptation du poste de cadre de santé"
+            ],
+            "techniques_et_concepts": [
+              "Auto-compassion",
+              "Distorsions cognitives (catastrophisation, filtre mental)",
+              "Vérification compulsive des constantes (passé)"
+            ]
+          }
         }
       ],
       "genre": "F",
       "date_naissance": "1984-03-05",
-      "description_dynamique": "Camille est infirmière en service de cardiologie. Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)."
+      "description_dynamique": "Camille est cadre de santé. Mariée à David, elle est mère de deux enfants (Léo, 10 ans et Emma, 7 ans)."
     },
     {
       "id": "lucas",
@@ -1513,6 +1544,41 @@
           "resume_narratif": "Lors d'un entretien de recrutement, Nadia juge instantanément le candidat Marc comme incompétent suite à une entrée maladroite. Malgré la qualité technique exceptionnelle de sa présentation, elle reste bloquée sur sa première impression négative jusqu'à ce que l'enthousiasme de son assistante Julie ne provoque chez elle un doute salvateur.",
           "evolution": "Nadia prend conscience que son cerveau de haut potentiel est victime de l'effet de primauté, transformant ses premières impressions en filtres déformants. Elle réalise que son besoin de contrôle et son exigence peuvent nuire à son impartialité de manager.",
           "elements_cles": "Marc (candidat rejeté initialement), Julie (assistante), Yasmine (mentionnée pour son anniversaire), crises de panique d'avril, illusion de transparence, séances de pilates, poste de directrice marketing."
+        },
+        {
+          "date": "2026-05-15",
+          "sujet": "le narcissisme sain vs pathologique",
+          "contexte": "au travail",
+          "category": "cat3_schemas",
+          "titre": "Narcissisme sain vs pathologique au travail : démêler les mythes",
+          "slug": "narcissisme-sain-pathologique-travail",
+          "resume_narratif": "Lors d'une présentation stratégique devant le comité exécutif le 15 mai 2026, Nadia ressent une tension agressive face à une question de Marc du produit. Elle parvient à identifier son réflexe de domination grâce aux retours de son assistante Julie et à ses réflexions personnelles sur son besoin de contrôle.",
+          "evolution": "Nadia prend conscience de la frontière fragile entre son leadership naturel et ses tendances toxiques héritées de son passé d'enfant parentifiée. Elle comprend que son perfectionnisme est une armure et cherche désormais à transformer son ambition en un narcissisme sain plutôt que destructeur.",
+          "elements_cles": {
+            "personnages": [
+              "Marc (Produit)",
+              "Julie (assistante)",
+              "Fatima (mère)",
+              "Yasmine",
+              "Antoine"
+            ],
+            "lieux_et_dates": [
+              "Salle de réunion",
+              "15 mai 2026",
+              "Dîner chez Fatima"
+            ],
+            "references_passees": [
+              "Tableau Excel d'anniversaire",
+              "Épisode des perles renversées",
+              "Séance de journaling nocturne"
+            ],
+            "concepts_psychologiques": [
+              "Narcissisme sain vs pathologique",
+              "Enfant parentifiée",
+              "Illusion de contrôle",
+              "HPI (Haut Potentiel Intellectuel)"
+            ]
+          }
         }
       ],
       "genre": "F",
@@ -4049,6 +4115,36 @@
           "resume_narratif": "Hugo, musicien et barman, se sent rejeté en consultant les réseaux sociaux dans le métro après son service. Il interprète l'absence de mention dans un post de concert d'un ancien collègue comme une exclusion délibérée, ravivant ses blessures liées à sa rupture avec Chloé et au départ professionnel de Samba.",
           "evolution": "Hugo identifie son mécanisme de personnalisation comme un miroir déformant lié à son passé. Il comprend que son besoin de validation numérique est le prolongement d'un amour conditionnel vécu avec son père, Alain, où l'affection dépendait de ses performances musicales.",
           "elements_cles": "Alain (père exigeant), Chloé (ex-petite amie), Samba (ancien collaborateur), dates clés (8 et 29 avril, 3 mai), sac de guitare, peur de l'abandon, distorsion cognitive de personnalisation."
+        },
+        {
+          "date": "2026-05-15",
+          "sujet": "divination (prédire l'avenir négativement)",
+          "contexte": "en amitié",
+          "category": "cat1_pensees",
+          "titre": "Divination en amitié : comment arrêter de prédire le pire ?",
+          "slug": "divination-en-amitie-predire-avenir-negativement",
+          "resume_narratif": "Alors qu'il s'apprête à monter sur scène lors d'un festival de quartier, Hugo est assailli par des pensées catastrophiques concernant son ami Samba, qui a rejoint un groupe rival. Il imagine que leur amitié prendra fin dès la fin du concert, ce qui déclenche chez lui une envie de sabotage préventif.",
+          "evolution": "Hugo identifie son mécanisme de divination et réalise que ses prédictions de rejet sont liées à l'influence de son père Alain, qui conditionnait son affection à la réussite. Il prend conscience que son envie de lancer une pique sarcastique est un réflexe de défense pour éviter de souffrir.",
+          "elements_cles": {
+            "personnages": [
+              "Samba (ami/rival)",
+              "Chloé (confidente)",
+              "Alain (père d'Hugo)"
+            ],
+            "lieux": [
+              "Festival de quartier",
+              "Le Melody (lieu d'un traumatisme passé)"
+            ],
+            "concepts_psychologiques": [
+              "Divination/Saut aux conclusions",
+              "Prophétie autoréalisatrice",
+              "Sabotage préventif"
+            ],
+            "objets_symboliques": [
+              "Guitare",
+              "Bagues d'Hugo"
+            ]
+          }
         }
       ],
       "genre": "M",

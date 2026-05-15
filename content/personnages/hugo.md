@@ -1,14 +1,14 @@
 ---
 title: "Hugo"
-date: 2026-05-14T06:04:04+00:00
+date: 2026-05-15T06:07:28+00:00
 description: "Hugo est musicien semi-professionnel et serveur pour payer les factures. Il est désormais célibataire après sa rupture récente avec Chloé."
 slug: "hugo"
 prenom: "Hugo"
 date_naissance: "1999-02-08"
 profession: "Musicien semi-professionnel et serveur pour payer les factures"
 situation: "Célibataire, récemment séparé de chloé"
-nb_articles: 10
-weight: 15
+nb_articles: 11
+weight: 10
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Hugo identifie son mécanisme de personnalisation comme un miroir déformant lié à son passé. Il comprend que son besoin de validation numérique est le prolongement d'un amour conditionnel vécu avec son père, Alain, où l'affection dépendait de ses performances musicales.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/personnalisation-reseaux-sociaux/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/divination-en-amitie-predire-avenir-negativement/">Divination en amitié : comment arrêter de prédire le pire ?</a></h3>
+    <div class="parcours-date">2026-05-15</div>
+    <p class="parcours-resume">Alors qu'il s'apprête à monter sur scène lors d'un festival de quartier, Hugo est assailli par des pensées catastrophiques concernant son ami Samba, qui a rejoint un groupe rival. Il imagine que leur amitié prendra fin dès la fin du concert, ce qui déclenche chez lui une envie de sabotage préventif.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Hugo identifie son mécanisme de divination et réalise que ses prédictions de rejet sont liées à l'influence de son père Alain, qui conditionnait son affection à la réussite. Il prend conscience que son envie de lancer une pique sarcastique est un réflexe de défense pour éviter de souffrir.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/divination-en-amitie-predire-avenir-negativement/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
