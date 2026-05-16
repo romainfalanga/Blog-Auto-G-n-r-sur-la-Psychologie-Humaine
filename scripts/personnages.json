@@ -557,6 +557,17 @@
           "resume_narratif": "Thomas, enseignant en pleine reconversion dans l'édition, fait face à une crise de confiance dans un couloir d'école après avoir corrigé une copie ratée. Sa collègue Valérie l'invite à une réunion alors qu'il lutte contre une paralysie décisionnelle liée à ses doutes professionnels et personnels.",
           "evolution": "Thomas parvient à identifier son mécanisme de surgénéralisation et tente de mettre en pratique une technique de distinction entre les faits bruts et ses interprétations catastrophiques. Il prend conscience de ses automatismes de 'sauveur' et de ses peurs liées à son passé pour mieux les confronter.",
           "elements_cles": "Lieu : école et appartement lyonnais (déménagement le 12 avril). Personnes : Émilie (conjointe, sujet de la parentalité), Valérie (collègue), Julie (élève). Techniques : repérage des déclencheurs sur agenda, distinction fait/interprétation. Passé : traumatisme lié à la sévérité subie enfant."
+        },
+        {
+          "date": "2026-05-16",
+          "sujet": "sublimation",
+          "contexte": "en période de reconversion professionnelle",
+          "category": "cat3_schemas",
+          "titre": "Sublimation en période de reconversion professionnelle",
+          "slug": "sublimation-reconversion-professionnelle",
+          "resume_narratif": "Thomas se trouve dans une librairie lyonnaise le 16 mai 2026, hanté par son passé d'enseignant et son burn-out alors qu'il postule pour un poste d'éditeur. Il réfléchit à sa difficulté de dire non et à sa tendance à se sacrifier, tout en s'exerçant à l'annotation de manuscrits pour sa reconversion.",
+          "evolution": "Thomas commence à percevoir que son besoin de 'sauver' les autres peut être transformé en rigueur éditoriale, mais il réalise qu'il doit apprendre à distinguer la réalisation de soi de la simple protection contre l'angoisse.",
+          "elements_cles": "Librairie à Lyon ; Émilie (compagne) ; Valérie (ancienne collègue) ; dossier de candidature pour l'édition ; date clé du 12 avril (déménagement) ; concept de sublimation comme mécanisme de défense mature."
         }
       ],
       "genre": "M",
@@ -2088,6 +2099,17 @@
               "Distorsion cognitive"
             ]
           }
+        },
+        {
+          "date": "2026-05-16",
+          "sujet": "biais de croyance",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Biais de croyance face à une décision importante : comment s'en libérer",
+          "slug": "biais-croyance-decision-importante",
+          "resume_narratif": "Le 16 mai 2026 à Lyon, Margot reçoit une proposition de collaboration stable mais contraignante pour son activité de coach. Assise dans sa voiture, elle hésite à signer ce contrat qui lui rappelle ses expériences passées dans le commerce et ses récents échecs de prospection.",
+          "evolution": "Margot identifie que son hésitation est alimentée par un biais de croyance, où elle interprète les clauses du contrat comme une menace pour son authenticité plutôt que de les évaluer objectivement.",
+          "elements_cles": "Lyon (parc, boulangerie) ; Sylvie (mentor) ; rituels (méditation, journal de gratitude, carnet de notes) ; driver 'sois parfaite' ; date du 16 mai 2026."
         }
       ],
       "genre": "F",
@@ -2661,8 +2683,8 @@
       "prenom": "Patrick",
       "age": 56,
       "tranche_age": "senior en quête de sens (56-70 ans)",
-      "profession": "ancien ouvrier, maintenant chef d'équipe dans le BTP",
-      "situation_familiale": "marié à Catherine depuis 30 ans, deux enfants adultes, un petit-fils, vient de perdre son père",
+      "profession": "chef d'équipe dans le BTP",
+      "situation_familiale": "marié à Catherine depuis 30 ans, deux enfants adultes, un petit-fils, en deuil de son père",
       "traits_personnalite": [
         "stoïque",
         "pudique émotionnellement",
@@ -2917,11 +2939,46 @@
             "contexte_temporel": "Lundi 11 mai 2026, 11h00",
             "symptomes_physiques": "Douleurs lombaires chroniques, mains calleuses de chantier"
           }
+        },
+        {
+          "date": "2026-05-16",
+          "sujet": "écriture expressive (Pennebaker)",
+          "contexte": "en famille",
+          "category": "cat2_emotions",
+          "titre": "Écriture expressive (Pennebaker) en famille : le guide de Patrick",
+          "slug": "ecriture-expressive-pennebaker-en-famille-guide",
+          "resume_narratif": "Seul dans son garage, Patrick contemple les dégâts qu'il a causés à son établi lors d'une crise de colère passée. Hanté par le deuil de son père Marcel et ses douleurs physiques, il décide de suivre le conseil de sa fille Stéphanie en commençant à écrire dans un carnet neuf.",
+          "evolution": "Patrick passe du stoïcisme violent à la vulnérabilité en acceptant que l'écriture expressive peut servir d'exutoire à ses émotions refoulées. Il comprend que son silence et sa rage étaient un héritage paternel toxique qu'il doit briser pour préserver ses relations familiales.",
+          "elements_cles": {
+            "lieux": [
+              "Garage de Marcel",
+              "Chantier (souvenir du 6 avril)"
+            ],
+            "personnages": [
+              "Patrick (56 ans)",
+              "Catherine (épouse)",
+              "Stéphanie (fille)",
+              "Julien (fils)",
+              "Léo (petit-fils)",
+              "Marcel (père décédé)",
+              "Antoine (jeune collègue)"
+            ],
+            "objets_et_techniques": [
+              "Carnet à spirales",
+              "Établi en chêne amoché",
+              "Écriture expressive de Pennebaker"
+            ],
+            "conflits": [
+              "Douleurs lombaires chroniques",
+              "Deuil de Marcel",
+              "Peur de vieillir et de perdre sa force physique"
+            ]
+          }
         }
       ],
       "genre": "M",
       "date_naissance": "1969-10-28",
-      "description_dynamique": "Patrick est chef d'équipe dans le BTP, marié et grand-père. Suite au décès récent de son père, il entame un cheminement sur sa vulnérabilité et sa résilience émotionnelle."
+      "description_dynamique": "Patrick est chef d'équipe dans le BTP, marié et grand-père. Il entame une démarche de guérison émotionnelle par l'écriture expressive pour briser le cycle du silence et de la colère hérité de son père."
     },
     {
       "id": "lea",

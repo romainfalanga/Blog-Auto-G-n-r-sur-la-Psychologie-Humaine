@@ -7145,6 +7145,105 @@
       },
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-16",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de croyance",
+      "contexte": "face à une décision importante",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "contrôlant(e)",
+      "prenom": "Margot",
+      "age": "52 ans",
+      "title": "Biais de croyance face à une décision importante : comment s'en libérer",
+      "slug": "biais-croyance-decision-importante",
+      "tags": [
+        "biais cognitif",
+        "prise de décision",
+        "psychologie",
+        "reconversion",
+        "coaching"
+      ],
+      "resume_narratif": "Le 16 mai 2026 à Lyon, Margot reçoit une proposition de collaboration stable mais contraignante pour son activité de coach. Assise dans sa voiture, elle hésite à signer ce contrat qui lui rappelle ses expériences passées dans le commerce et ses récents échecs de prospection.",
+      "evolution": "Margot identifie que son hésitation est alimentée par un biais de croyance, où elle interprète les clauses du contrat comme une menace pour son authenticité plutôt que de les évaluer objectivement.",
+      "elements_cles": "Lyon (parc, boulangerie) ; Sylvie (mentor) ; rituels (méditation, journal de gratitude, carnet de notes) ; driver 'sois parfaite' ; date du 16 mai 2026.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-16",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "écriture expressive (Pennebaker)",
+      "contexte": "en famille",
+      "angle": "3 techniques/exercices pratiques",
+      "profil": "empathe",
+      "prenom": "Patrick",
+      "age": "56 ans",
+      "title": "Écriture expressive (Pennebaker) en famille : le guide de Patrick",
+      "slug": "ecriture-expressive-pennebaker-en-famille-guide",
+      "tags": [
+        "écriture expressive",
+        "James Pennebaker",
+        "gestion des émotions",
+        "deuil",
+        "psychologie familiale"
+      ],
+      "resume_narratif": "Seul dans son garage, Patrick contemple les dégâts qu'il a causés à son établi lors d'une crise de colère passée. Hanté par le deuil de son père Marcel et ses douleurs physiques, il décide de suivre le conseil de sa fille Stéphanie en commençant à écrire dans un carnet neuf.",
+      "evolution": "Patrick passe du stoïcisme violent à la vulnérabilité en acceptant que l'écriture expressive peut servir d'exutoire à ses émotions refoulées. Il comprend que son silence et sa rage étaient un héritage paternel toxique qu'il doit briser pour préserver ses relations familiales.",
+      "elements_cles": {
+        "lieux": [
+          "Garage de Marcel",
+          "Chantier (souvenir du 6 avril)"
+        ],
+        "personnages": [
+          "Patrick (56 ans)",
+          "Catherine (épouse)",
+          "Stéphanie (fille)",
+          "Julien (fils)",
+          "Léo (petit-fils)",
+          "Marcel (père décédé)",
+          "Antoine (jeune collègue)"
+        ],
+        "objets_et_techniques": [
+          "Carnet à spirales",
+          "Établi en chêne amoché",
+          "Écriture expressive de Pennebaker"
+        ],
+        "conflits": [
+          "Douleurs lombaires chroniques",
+          "Deuil de Marcel",
+          "Peur de vieillir et de perdre sa force physique"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-16",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "sublimation",
+      "contexte": "en période de reconversion professionnelle",
+      "angle": "comprendre ce que c'est (article explicatif)",
+      "profil": "en burn-out",
+      "prenom": "Thomas",
+      "age": "34 ans",
+      "title": "Sublimation en période de reconversion professionnelle",
+      "slug": "sublimation-reconversion-professionnelle",
+      "tags": [
+        "sublimation",
+        "reconversion professionnelle",
+        "burn-out",
+        "psychologie",
+        "techniques"
+      ],
+      "resume_narratif": "Thomas se trouve dans une librairie lyonnaise le 16 mai 2026, hanté par son passé d'enseignant et son burn-out alors qu'il postule pour un poste d'éditeur. Il réfléchit à sa difficulté de dire non et à sa tendance à se sacrifier, tout en s'exerçant à l'annotation de manuscrits pour sa reconversion.",
+      "evolution": "Thomas commence à percevoir que son besoin de 'sauver' les autres peut être transformé en rigueur éditoriale, mais il réalise qu'il doit apprendre à distinguer la réalisation de soi de la simple protection contre l'angoisse.",
+      "elements_cles": "Librairie à Lyon ; Émilie (compagne) ; Valérie (ancienne collègue) ; dossier de candidature pour l'édition ; date clé du 12 avril (déménagement) ; concept de sublimation comme mécanisme de défense mature.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

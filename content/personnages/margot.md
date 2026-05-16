@@ -1,14 +1,14 @@
 ---
 title: "Margot"
-date: 2026-05-15T06:07:28+00:00
+date: 2026-05-16T05:40:19+00:00
 description: "Margot est une coach dont l'élan de reconversion s'est brisé face aux premiers échecs commerciaux. Elle sombre dans une passivité totale et une résignation profonde, convaincue que ses efforts pour transformer sa vie sont désormais inutiles."
 slug: "margot"
 prenom: "Margot"
 date_naissance: "1973-07-23"
 profession: "Coach (en situation d'échec)"
 situation: "En proie à l'impuissance apprise et au renoncement"
-nb_articles: 10
-weight: 14
+nb_articles: 11
+weight: 6
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Margot passe d'une énergie de conquête à un état d'impuissance apprise, où elle accepte l'idée que ses efforts sont inutiles et que sa reconversion est un échec inévitable. Elle voit son driver habituel 'Sois forte' s'effondrer, laissant place à une passivité qui l'effraie.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/resignation-apres-un-echec-psychologie-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-croyance-decision-importante/">Biais de croyance face à une décision importante : comment s'en libérer</a></h3>
+    <div class="parcours-date">2026-05-16</div>
+    <p class="parcours-resume">Le 16 mai 2026 à Lyon, Margot reçoit une proposition de collaboration stable mais contraignante pour son activité de coach. Assise dans sa voiture, elle hésite à signer ce contrat qui lui rappelle ses expériences passées dans le commerce et ses récents échecs de prospection.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Margot identifie que son hésitation est alimentée par un biais de croyance, où elle interprète les clauses du contrat comme une menace pour son authenticité plutôt que de les évaluer objectivement.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-croyance-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

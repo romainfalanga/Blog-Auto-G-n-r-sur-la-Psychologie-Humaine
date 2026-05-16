@@ -1,14 +1,14 @@
 ---
 title: "Thomas"
-date: 2026-05-15T06:07:28+00:00
+date: 2026-05-16T05:40:19+00:00
 description: "Thomas est enseignant d'histoire-géographie en pleine crise d'épuisement alors qu'il tente de se reconvertir dans l'édition. En couple avec Émilie à Lyon, il se sent submergé par la peur de l'échec et son rôle de 'sauveur'."
 slug: "thomas"
 prenom: "Thomas"
 date_naissance: "1992-02-22"
 profession: "Enseignant d'histoire-géographie au lycée (en projet de reconversion dans l'édition)"
 situation: "En couple avec émilie à lyon, traverse une phase d'épuisement émotionnel et de paralysie décisionnelle"
-nb_articles: 11
-weight: 4
+nb_articles: 12
+weight: 2
 draft: false
 ---
 
@@ -134,5 +134,16 @@ draft: false
       <p>Thomas parvient à identifier son mécanisme de surgénéralisation et tente de mettre en pratique une technique de distinction entre les faits bruts et ses interprétations catastrophiques. Il prend conscience de ses automatismes de 'sauveur' et de ses peurs liées à son passé pour mieux les confronter.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/surgeneralisation-ecole-lycee/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/sublimation-reconversion-professionnelle/">Sublimation en période de reconversion professionnelle</a></h3>
+    <div class="parcours-date">2026-05-16</div>
+    <p class="parcours-resume">Thomas se trouve dans une librairie lyonnaise le 16 mai 2026, hanté par son passé d'enseignant et son burn-out alors qu'il postule pour un poste d'éditeur. Il réfléchit à sa difficulté de dire non et à sa tendance à se sacrifier, tout en s'exerçant à l'annotation de manuscrits pour sa reconversion.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Thomas commence à percevoir que son besoin de 'sauver' les autres peut être transformé en rigueur éditoriale, mais il réalise qu'il doit apprendre à distinguer la réalisation de soi de la simple protection contre l'angoisse.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/sublimation-reconversion-professionnelle/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

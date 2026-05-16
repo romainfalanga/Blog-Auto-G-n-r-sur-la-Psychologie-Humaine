@@ -1,14 +1,14 @@
 ---
 title: "Patrick"
-date: 2026-05-15T06:07:28+00:00
-description: "Patrick est chef d'équipe dans le BTP, marié et grand-père. Suite au décès récent de son père, il entame un cheminement sur sa vulnérabilité et sa résilience émotionnelle."
+date: 2026-05-16T05:40:19+00:00
+description: "Patrick est chef d'équipe dans le BTP, marié et grand-père. Il entame une démarche de guérison émotionnelle par l'écriture expressive pour briser le cycle du silence et de la colère hérité de son père."
 slug: "patrick"
 prenom: "Patrick"
 date_naissance: "1969-10-28"
-profession: "Ancien ouvrier, maintenant chef d'équipe dans le btp"
-situation: "Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils, vient de perdre son père"
-nb_articles: 10
-weight: 15
+profession: "Chef d'équipe dans le btp"
+situation: "Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils, en deuil de son père"
+nb_articles: 11
+weight: 9
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Patrick prend conscience que son corps court-circuite sa pensée par des décharges physiques brutales lorsqu'il se sent vulnérable. Il réalise que son éducation l'empêchant de pleurer transforme son chagrin en une destruction gratuite qui l'effraie désormais.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/acting-out-passage-a-l-acte-famille/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/ecriture-expressive-pennebaker-en-famille-guide/">Écriture expressive (Pennebaker) en famille : le guide de Patrick</a></h3>
+    <div class="parcours-date">2026-05-16</div>
+    <p class="parcours-resume">Seul dans son garage, Patrick contemple les dégâts qu'il a causés à son établi lors d'une crise de colère passée. Hanté par le deuil de son père Marcel et ses douleurs physiques, il décide de suivre le conseil de sa fille Stéphanie en commençant à écrire dans un carnet neuf.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Patrick passe du stoïcisme violent à la vulnérabilité en acceptant que l'écriture expressive peut servir d'exutoire à ses émotions refoulées. Il comprend que son silence et sa rage étaient un héritage paternel toxique qu'il doit briser pour préserver ses relations familiales.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/ecriture-expressive-pennebaker-en-famille-guide/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
