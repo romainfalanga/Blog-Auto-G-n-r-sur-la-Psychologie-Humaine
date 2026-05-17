@@ -1,14 +1,14 @@
 ---
 title: "Lucas"
-date: 2026-05-16T05:40:19+00:00
+date: 2026-05-17T06:03:17+00:00
 description: "Lucas est étudiant en dernière année d'école de commerce, en stage. Célibataire, en colocation avec deux amis."
 slug: "lucas"
 prenom: "Lucas"
 date_naissance: "2001-04-10"
 profession: "Étudiant en dernière année d'école de commerce, en stage"
 situation: "Célibataire, en colocation avec deux amis"
-nb_articles: 10
-weight: 14
+nb_articles: 11
+weight: 5
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Lucas identifie l'effet de récence comme le moteur de son indécision actuelle et réalise que son syndrome de l'imposteur se nourrit de ses dernières interactions sociales plutôt que d'une vision d'ensemble.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-recence-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/agacement-en-colocation-comprendre-emotions/">Agacement en colocation : comment mieux gérer ses émotions</a></h3>
+    <div class="parcours-date">2026-05-17</div>
+    <p class="parcours-resume">Le 17 mai 2026, Lucas tente de corriger son mémoire dans la cuisine de sa colocation malgré le bruit et les odeurs de cuisine de son colocataire Romain. Alors qu'il se prépare pour une réunion de stage en visioconférence, il ressent une exaspération croissante face au manque de propreté et à la nonchalance de Romain.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Lucas passe d'une retenue silencieuse, dictée par son besoin d'approbation et ses origines modestes, à une exaspération sourde qu'il a du mal à contenir. Il prend conscience que son agacement est lié à une focalisation sélective sur les défauts de l'autre et à sa propre tendance au retrait social pour éviter le conflit.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/agacement-en-colocation-comprendre-emotions/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

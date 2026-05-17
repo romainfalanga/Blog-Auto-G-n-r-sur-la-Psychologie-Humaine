@@ -1260,6 +1260,17 @@
               "Match de basket de mars dernier"
             ]
           }
+        },
+        {
+          "date": "2026-05-17",
+          "sujet": "agacement",
+          "contexte": "en colocation",
+          "category": "cat2_emotions",
+          "titre": "Agacement en colocation : comment mieux gérer ses émotions",
+          "slug": "agacement-en-colocation-comprendre-emotions",
+          "resume_narratif": "Le 17 mai 2026, Lucas tente de corriger son mémoire dans la cuisine de sa colocation malgré le bruit et les odeurs de cuisine de son colocataire Romain. Alors qu'il se prépare pour une réunion de stage en visioconférence, il ressent une exaspération croissante face au manque de propreté et à la nonchalance de Romain.",
+          "evolution": "Lucas passe d'une retenue silencieuse, dictée par son besoin d'approbation et ses origines modestes, à une exaspération sourde qu'il a du mal à contenir. Il prend conscience que son agacement est lié à une focalisation sélective sur les défauts de l'autre et à sa propre tendance au retrait social pour éviter le conflit.",
+          "elements_cles": "Colocation avec Romain et Maxime ; table en bois brut (bureau improvisé) ; mémoire en cours de correction ; stage en stratégie internationale ; syndrome de l'imposteur lié à ses origines ; réunion en visioconférence imminente ; technique de l'effet spotlight mentionnée."
         }
       ],
       "genre": "M",
@@ -5058,6 +5069,34 @@
           "resume_narratif": "Djamila participe à une formation sur les violences intra-familiales où elle est confrontée à un groupe de stagiaires dominants imposant leurs opinions. Lors d'un exercice pratique, elle ressent la pression de se conformer à leur avis erroné, ravivant ses anciens réflexes de soumission développés avec son ex-conjoint Samir.",
           "evolution": "Elle identifie son envie de s'effacer comme un vestige de son passé traumatique et prend conscience que le biais de groupe agit sur elle comme une pression invisible vers le conformisme.",
           "elements_cles": "Institut de formation, Adam (son fils), Dr Martin (son thérapeute), Julie (stagiaire hésitante), Samir (ex-conjoint), technique d'autonomie financière, foulard turquoise."
+        },
+        {
+          "date": "2026-05-17",
+          "sujet": "enfant intérieur",
+          "contexte": "après une rupture amoureuse",
+          "category": "cat3_schemas",
+          "titre": "Enfant intérieur après une rupture : comprendre ses blessures",
+          "slug": "enfant-interieur-apres-rupture-amoureuse",
+          "resume_narratif": "Le 17 mai 2026, Djamila trie les dernières affaires de son ex-conjoint Samir dans son appartement, quatre mois après leur rupture. En tombant sur son acte d'adoption et un carnet de son fils Adam, elle subit une crise d'hypervigilance déclenchée par un bruit dans l'escalier.",
+          "evolution": "Djamila réalise que sa détresse actuelle et son besoin de sauver les autres ne sont pas seulement liés à la toxicité de Samir, mais trouvent leur source dans une blessure d'abandon originelle liée à son adoption et son passé à l'orphelinat.",
+          "elements_cles": {
+            "personnages": [
+              "Samir (ex-conjoint)",
+              "Adam (fils de 6 ans)",
+              "Dr Martin (thérapeute)",
+              "Amina (collègue)"
+            ],
+            "objets_lieux": [
+              "Appartement de Djamila",
+              "Boîte en bois contenant l'acte d'adoption",
+              "Carnet de dessins d'Adam"
+            ],
+            "contexte_psychologique": [
+              "Stress post-traumatique complexe",
+              "Blessure d'abandon (adoption à 3 ans)",
+              "Schéma de sauveuse/travailleuse sociale"
+            ]
+          }
         }
       ],
       "genre": "F",

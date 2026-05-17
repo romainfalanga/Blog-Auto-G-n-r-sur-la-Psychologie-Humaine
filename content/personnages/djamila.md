@@ -1,14 +1,14 @@
 ---
 title: "Djamila"
-date: 2026-05-16T05:40:19+00:00
+date: 2026-05-17T06:03:17+00:00
 description: "Djamila est travailleuse sociale dans une association d'aide aux femmes. Séparée, en reconstruction, un fils (adam, 6 ans)."
 slug: "djamila"
 prenom: "Djamila"
 date_naissance: "1989-05-06"
 profession: "Travailleuse sociale dans une association d'aide aux femmes"
 situation: "Séparée, en reconstruction, un fils (adam, 6 ans)"
-nb_articles: 10
-weight: 17
+nb_articles: 11
+weight: 15
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Elle identifie son envie de s'effacer comme un vestige de son passé traumatique et prend conscience que le biais de groupe agit sur elle comme une pression invisible vers le conformisme.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-ecole-etudes-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/enfant-interieur-apres-rupture-amoureuse/">Enfant intérieur après une rupture : comprendre ses blessures</a></h3>
+    <div class="parcours-date">2026-05-17</div>
+    <p class="parcours-resume">Le 17 mai 2026, Djamila trie les dernières affaires de son ex-conjoint Samir dans son appartement, quatre mois après leur rupture. En tombant sur son acte d'adoption et un carnet de son fils Adam, elle subit une crise d'hypervigilance déclenchée par un bruit dans l'escalier.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Djamila réalise que sa détresse actuelle et son besoin de sauver les autres ne sont pas seulement liés à la toxicité de Samir, mais trouvent leur source dans une blessure d'abandon originelle liée à son adoption et son passé à l'orphelinat.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/enfant-interieur-apres-rupture-amoureuse/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
