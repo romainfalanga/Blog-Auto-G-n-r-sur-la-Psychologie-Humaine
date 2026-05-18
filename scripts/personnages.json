@@ -2133,7 +2133,7 @@
       "age": 29,
       "tranche_age": "adulte en construction (26-35 ans)",
       "profession": "ingénieur en informatique (en fin d'arrêt pour épuisement professionnel)",
-      "situation_familiale": "en couple avec Léa, prépare un déménagement à Lyon",
+      "situation_familiale": "en couple avec Léa, en deuil de son père Hamid",
       "traits_personnalite": [
         "réfléchi",
         "introverti",
@@ -2412,11 +2412,45 @@
             ],
             "contexte": "Déménagement imminent, passif de burn-out professionnel."
           }
+        },
+        {
+          "date": "2026-05-18",
+          "sujet": "mémoire émotionnelle",
+          "contexte": "lors d'un deuil",
+          "category": "cat2_emotions",
+          "titre": "La mémoire émotionnelle lors d'un deuil : comprendre son impact",
+          "slug": "memoire-emotionnelle-lors-dun-deuil",
+          "resume_narratif": "En plein déménagement de Paris vers Lyon avec sa compagne Léa, Youssef découvre une boîte appartenant à son père défunt, Hamid. Le contact avec cet objet et une vieille calculatrice déclenche un choc sensoriel et émotionnel violent qui paralyse ses mécanismes habituels de défense logique.",
+          "evolution": "Youssef réalise que son armure d'intellectualisation et ses réflexes d'ingénieur sont impuissants face à la mémoire émotionnelle du deuil. Il commence à comprendre que la théorie et la logique ne suffisent pas pour traiter la douleur et qu'il doit accepter de vivre l'émotion plutôt que de chercher à la coder.",
+          "elements_cles": {
+            "personnages": [
+              "Youssef (29 ans, ingénieur)",
+              "Léa (compagne)",
+              "Hamid (père décédé, ancien comptable)"
+            ],
+            "lieux": [
+              "Appartement à Paris (en cours de déménagement)",
+              "Lyon (destination future)"
+            ],
+            "objets_declencheurs": [
+              "Boîte en bois verni",
+              "Odeur de tabac et menthe",
+              "Calculatrice mécanique"
+            ],
+            "evenements_passes": [
+              "Épuisement professionnel le 19 avril",
+              "Éducation marquée par la pudeur émotionnelle et la rigueur"
+            ],
+            "concepts_en_cours": [
+              "Granularité émotionnelle",
+              "Intellectualisation vs ressenti"
+            ]
+          }
         }
       ],
       "genre": "M",
       "date_naissance": "1996-08-14",
-      "description_dynamique": "Youssef est ingénieur en informatique en fin d'arrêt maladie, préparant un déménagement à Lyon avec Léa. Il prend conscience qu'il utilise la rationalisation et les chiffres pour masquer sa vulnérabilité émotionnelle."
+      "description_dynamique": "Youssef est un ingénieur en informatique en fin d'arrêt maladie, confronté au décès récent de son père alors qu'il prépare son déménagement à Lyon. Il réalise que sa logique rationnelle est impuissante face au choc sensoriel et émotionnel du deuil."
     },
     {
       "id": "isabelle",
@@ -3351,6 +3385,35 @@
           "resume_narratif": "Lors d'une réunion d'association tendue, Léa est confrontée à l'indifférence d'Antoine qui souhaite reporter un dossier urgent de violence conjugale. Cette situation déclenche chez elle une rage intense, ravivant des souvenirs d'enfance liés à l'inaction de ses parents et à son sentiment d'abandon.",
           "evolution": "Léa prend conscience que sa colère actuelle est une réactivation de ses blessures passées et de sa tendance au 'tout ou rien'. Elle réalise que sa rage est le revers de son habitude à anticiper les besoins des autres pour éviter les conflits.",
           "elements_cles": "Antoine (collègue), Youssef (conflit passé), Zoé (relation passée), carnet corné, divorce des parents à 6 ans, lecture de Bowlby, tendance au sur-contrôle/sauvetage."
+        },
+        {
+          "date": "2026-05-18",
+          "sujet": "pensée du \"et si\" (what-if thinking)",
+          "contexte": "face à une décision importante",
+          "category": "cat1_pensees",
+          "titre": "Se libérer de la pensée du \"et si\" face à une décision importante",
+          "slug": "pensée-et-si-decision-importante",
+          "resume_narratif": "Léa se rend chez le Dr Moreau le 18 mai 2026 pour décider d'accepter ou non un stage clinique à Grenoble prévu pour septembre. Elle est assaillie par des scénarios catastrophes impliquant sa relation avec Youssef et sa réussite académique, faisant écho à son passé d'enfant médiatrice.",
+          "evolution": "Léa identifie que ses pensées en 'et si' sont une forme de sur-responsabilisation liée à son schéma d'abandon. Elle commence à apprendre une méthode de cartographie pour transformer ses angoisses spéculatives en probabilités mesurables.",
+          "elements_cles": {
+            "personnages": [
+              "Dr Moreau",
+              "Youssef",
+              "Zoé",
+              "sa mère"
+            ],
+            "lieux": [
+              "Bureau du Dr Moreau",
+              "Grenoble (stage)",
+              "Studio de Léa"
+            ],
+            "techniques": [
+              "Cartographie des probabilités",
+              "Travail sur la pensée tout-ou-rien",
+              "Nommer les émotions"
+            ],
+            "contexte_temporel": "18 mai 2026, décision pour septembre"
+          }
         }
       ],
       "genre": "F",
@@ -5330,6 +5393,34 @@
               "Refus de chercher la validation d'autrui",
               "Identification du rôle d'enfant parentifié",
               "Cinquante ans révolus"
+            ]
+          }
+        },
+        {
+          "date": "2026-05-18",
+          "sujet": "l'adultification",
+          "contexte": "avec ses parents",
+          "category": "cat3_schemas",
+          "titre": "L'adultification avec ses parents : sortir du rôle de pilier",
+          "slug": "adultification-avec-ses-parents-sortir-schema",
+          "resume_narratif": "Lors d'un déjeuner dominical chez son père, Fabien se retrouve instinctivement à gérer les factures et l'anxiété de son géniteur. Il réalise que ce rôle de 'parent de son parent' est un automatisme épuisant qu'il transpose également dans son métier de cadre RH.",
+          "evolution": "Fabien identifie son mécanisme d'adultification : il comprend que son hyper-responsabilisation et son besoin de contrôle, hérités de l'enfance, ont saboté son mariage et menacent désormais sa relation avec son fils Lucas.",
+          "elements_cles": {
+            "lieux": [
+              "Maison paternelle (salle à manger en chêne)",
+              "Appartement neuf à Lyon",
+              "Usine (travail RH)"
+            ],
+            "personnages_mentionnés": [
+              "Le père de Fabien",
+              "Lucas (son fils)",
+              "Julie (contact par courriel)",
+              "Véronique (son ex-femme)"
+            ],
+            "contexte_personnel": [
+              "Divorcé",
+              "HPI",
+              "Analyse de la 'nappe phréatique de silence' effectuée en mars dernier"
             ]
           }
         }

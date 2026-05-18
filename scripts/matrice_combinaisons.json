@@ -7311,6 +7311,139 @@
       },
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-18",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "pensée du \"et si\" (what-if thinking)",
+      "contexte": "face à une décision importante",
+      "angle": "comment s'en libérer concrètement",
+      "profil": "contrôlant(e)",
+      "prenom": "Léa",
+      "age": "23 ans",
+      "title": "Se libérer de la pensée du \"et si\" face à une décision importante",
+      "slug": "pensée-et-si-decision-importante",
+      "tags": [
+        "pensée-et-si",
+        "prise-de-decision",
+        "gestion-des-angoisses",
+        "psychologie-clinique",
+        "codépendance"
+      ],
+      "resume_narratif": "Léa se rend chez le Dr Moreau le 18 mai 2026 pour décider d'accepter ou non un stage clinique à Grenoble prévu pour septembre. Elle est assaillie par des scénarios catastrophes impliquant sa relation avec Youssef et sa réussite académique, faisant écho à son passé d'enfant médiatrice.",
+      "evolution": "Léa identifie que ses pensées en 'et si' sont une forme de sur-responsabilisation liée à son schéma d'abandon. Elle commence à apprendre une méthode de cartographie pour transformer ses angoisses spéculatives en probabilités mesurables.",
+      "elements_cles": {
+        "personnages": [
+          "Dr Moreau",
+          "Youssef",
+          "Zoé",
+          "sa mère"
+        ],
+        "lieux": [
+          "Bureau du Dr Moreau",
+          "Grenoble (stage)",
+          "Studio de Léa"
+        ],
+        "techniques": [
+          "Cartographie des probabilités",
+          "Travail sur la pensée tout-ou-rien",
+          "Nommer les émotions"
+        ],
+        "contexte_temporel": "18 mai 2026, décision pour septembre"
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-18",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "mémoire émotionnelle",
+      "contexte": "lors d'un deuil",
+      "angle": "comprendre ce que c'est (article explicatif)",
+      "profil": null,
+      "prenom": "Youssef",
+      "age": "29 ans",
+      "title": "La mémoire émotionnelle lors d'un deuil : comprendre son impact",
+      "slug": "memoire-emotionnelle-lors-dun-deuil",
+      "tags": [
+        "psychologie",
+        "deuil",
+        "émotions",
+        "mémoire",
+        "résilience"
+      ],
+      "resume_narratif": "En plein déménagement de Paris vers Lyon avec sa compagne Léa, Youssef découvre une boîte appartenant à son père défunt, Hamid. Le contact avec cet objet et une vieille calculatrice déclenche un choc sensoriel et émotionnel violent qui paralyse ses mécanismes habituels de défense logique.",
+      "evolution": "Youssef réalise que son armure d'intellectualisation et ses réflexes d'ingénieur sont impuissants face à la mémoire émotionnelle du deuil. Il commence à comprendre que la théorie et la logique ne suffisent pas pour traiter la douleur et qu'il doit accepter de vivre l'émotion plutôt que de chercher à la coder.",
+      "elements_cles": {
+        "personnages": [
+          "Youssef (29 ans, ingénieur)",
+          "Léa (compagne)",
+          "Hamid (père décédé, ancien comptable)"
+        ],
+        "lieux": [
+          "Appartement à Paris (en cours de déménagement)",
+          "Lyon (destination future)"
+        ],
+        "objets_declencheurs": [
+          "Boîte en bois verni",
+          "Odeur de tabac et menthe",
+          "Calculatrice mécanique"
+        ],
+        "evenements_passes": [
+          "Épuisement professionnel le 19 avril",
+          "Éducation marquée par la pudeur émotionnelle et la rigueur"
+        ],
+        "concepts_en_cours": [
+          "Granularité émotionnelle",
+          "Intellectualisation vs ressenti"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-18",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "l'adultification",
+      "contexte": "avec ses parents",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": "ancien(ne) enfant parentifié(e)",
+      "prenom": "Fabien",
+      "age": "50 ans",
+      "title": "L'adultification avec ses parents : sortir du rôle de pilier",
+      "slug": "adultification-avec-ses-parents-sortir-schema",
+      "tags": [
+        "adultification",
+        "psychologie",
+        "enfant-parentifie",
+        "relations-familiales",
+        "schemas-repetitifs"
+      ],
+      "resume_narratif": "Lors d'un déjeuner dominical chez son père, Fabien se retrouve instinctivement à gérer les factures et l'anxiété de son géniteur. Il réalise que ce rôle de 'parent de son parent' est un automatisme épuisant qu'il transpose également dans son métier de cadre RH.",
+      "evolution": "Fabien identifie son mécanisme d'adultification : il comprend que son hyper-responsabilisation et son besoin de contrôle, hérités de l'enfance, ont saboté son mariage et menacent désormais sa relation avec son fils Lucas.",
+      "elements_cles": {
+        "lieux": [
+          "Maison paternelle (salle à manger en chêne)",
+          "Appartement neuf à Lyon",
+          "Usine (travail RH)"
+        ],
+        "personnages_mentionnés": [
+          "Le père de Fabien",
+          "Lucas (son fils)",
+          "Julie (contact par courriel)",
+          "Véronique (son ex-femme)"
+        ],
+        "contexte_personnel": [
+          "Divorcé",
+          "HPI",
+          "Analyse de la 'nappe phréatique de silence' effectuée en mars dernier"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

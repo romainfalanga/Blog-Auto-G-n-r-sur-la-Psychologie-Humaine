@@ -1,14 +1,14 @@
 ---
 title: "Léa"
-date: 2026-05-17T06:03:17+00:00
+date: 2026-05-18T06:32:20+00:00
 description: "Léa est étudiante en master de psychologie clinique. En couple avec Youssef, elle vit en studio étudiant."
 slug: "lea"
 prenom: "Léa"
 date_naissance: "2002-11-12"
 profession: "Étudiante en master de psychologie clinique"
 situation: "En couple avec youssef, vit en studio étudiant"
-nb_articles: 11
-weight: 11
+nb_articles: 12
+weight: 4
 draft: false
 ---
 
@@ -134,5 +134,16 @@ draft: false
       <p>Léa prend conscience que sa colère actuelle est une réactivation de ses blessures passées et de sa tendance au 'tout ou rien'. Elle réalise que sa rage est le revers de son habitude à anticiper les besoins des autres pour éviter les conflits.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/rage-en-situation-de-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/pensée-et-si-decision-importante/">Se libérer de la pensée du "et si" face à une décision importante</a></h3>
+    <div class="parcours-date">2026-05-18</div>
+    <p class="parcours-resume">Léa se rend chez le Dr Moreau le 18 mai 2026 pour décider d'accepter ou non un stage clinique à Grenoble prévu pour septembre. Elle est assaillie par des scénarios catastrophes impliquant sa relation avec Youssef et sa réussite académique, faisant écho à son passé d'enfant médiatrice.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Léa identifie que ses pensées en 'et si' sont une forme de sur-responsabilisation liée à son schéma d'abandon. Elle commence à apprendre une méthode de cartographie pour transformer ses angoisses spéculatives en probabilités mesurables.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/pensée-et-si-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

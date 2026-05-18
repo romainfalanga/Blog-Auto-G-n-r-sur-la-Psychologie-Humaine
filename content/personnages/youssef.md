@@ -1,14 +1,14 @@
 ---
 title: "Youssef"
-date: 2026-05-17T06:03:17+00:00
-description: "Youssef est ingénieur en informatique en fin d'arrêt maladie, préparant un déménagement à Lyon avec Léa. Il prend conscience qu'il utilise la rationalisation et les chiffres pour masquer sa vulnérabilité émotionnelle."
+date: 2026-05-18T06:32:20+00:00
+description: "Youssef est un ingénieur en informatique en fin d'arrêt maladie, confronté au décès récent de son père alors qu'il prépare son déménagement à Lyon. Il réalise que sa logique rationnelle est impuissante face au choc sensoriel et émotionnel du deuil."
 slug: "youssef"
 prenom: "Youssef"
 date_naissance: "1996-08-14"
 profession: "Ingénieur en informatique (en fin d'arrêt pour épuisement professionnel)"
-situation: "En couple avec léa, prépare un déménagement à lyon"
-nb_articles: 11
-weight: 8
+situation: "En couple avec léa, en deuil de son père hamid"
+nb_articles: 12
+weight: 3
 draft: false
 ---
 
@@ -134,5 +134,16 @@ draft: false
       <p>Youssef identifie son recours à l'isolation de l'affect comme un mécanisme de défense inconscient hérité de son père. Il comprend qu'il transforme les conflits humains en équations logiques pour se protéger, tout en réalisant que ce silence clinique accroît la détresse de sa partenaire.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/isolation-affect-conflit-comprendre-mecanisme/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/memoire-emotionnelle-lors-dun-deuil/">La mémoire émotionnelle lors d'un deuil : comprendre son impact</a></h3>
+    <div class="parcours-date">2026-05-18</div>
+    <p class="parcours-resume">En plein déménagement de Paris vers Lyon avec sa compagne Léa, Youssef découvre une boîte appartenant à son père défunt, Hamid. Le contact avec cet objet et une vieille calculatrice déclenche un choc sensoriel et émotionnel violent qui paralyse ses mécanismes habituels de défense logique.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Youssef réalise que son armure d'intellectualisation et ses réflexes d'ingénieur sont impuissants face à la mémoire émotionnelle du deuil. Il commence à comprendre que la théorie et la logique ne suffisent pas pour traiter la douleur et qu'il doit accepter de vivre l'émotion plutôt que de chercher à la coder.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/memoire-emotionnelle-lors-dun-deuil/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

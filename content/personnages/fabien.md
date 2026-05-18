@@ -1,14 +1,14 @@
 ---
 title: "Fabien"
-date: 2026-05-17T06:03:17+00:00
+date: 2026-05-18T06:32:20+00:00
 description: "Fabien est cadre RH dans une entreprise industrielle. Divorcé, il vit désormais dans un nouvel appartement et s'efforce de reconstruire un dialogue empathique avec ses deux enfants."
 slug: "fabien"
 prenom: "Fabien"
 date_naissance: "1975-06-19"
 profession: "Cadre rh dans une entreprise industrielle"
 situation: "Divorcé, a emménagé dans un nouvel appartement, deux enfants (marine, 20 ans et lucas, 17 ans)"
-nb_articles: 10
-weight: 18
+nb_articles: 11
+weight: 16
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Fabien identifie son mécanisme de compulsion de répétition lié à son passé d'enfant parentifié. Il comprend que son besoin de contrôle et son retrait social, bien que protecteurs, risquent de transmettre ce même schéma de solitude à son fils Lucas.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/compulsion-repetition-freud-seul-face-soi-meme/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/adultification-avec-ses-parents-sortir-schema/">L'adultification avec ses parents : sortir du rôle de pilier</a></h3>
+    <div class="parcours-date">2026-05-18</div>
+    <p class="parcours-resume">Lors d'un déjeuner dominical chez son père, Fabien se retrouve instinctivement à gérer les factures et l'anxiété de son géniteur. Il réalise que ce rôle de 'parent de son parent' est un automatisme épuisant qu'il transpose également dans son métier de cadre RH.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Fabien identifie son mécanisme d'adultification : il comprend que son hyper-responsabilisation et son besoin de contrôle, hérités de l'enfance, ont saboté son mariage et menacent désormais sa relation avec son fils Lucas.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/adultification-avec-ses-parents-sortir-schema/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
