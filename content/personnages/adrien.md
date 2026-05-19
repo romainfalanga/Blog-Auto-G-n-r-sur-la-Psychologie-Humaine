@@ -1,14 +1,14 @@
 ---
 title: "Adrien"
-date: 2026-05-18T06:32:20+00:00
+date: 2026-05-19T06:27:26+00:00
 description: "Adrien est graphiste freelance. Célibataire depuis une rupture difficile il y a un an."
 slug: "adrien"
 prenom: "Adrien"
 date_naissance: "1994-06-07"
 profession: "Graphiste freelance"
 situation: "Célibataire depuis une rupture difficile il y a un an"
-nb_articles: 10
-weight: 17
+nb_articles: 11
+weight: 9
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Adrien prend conscience que ce 'coup de gomme mental' est un réflexe de protection contre la culpabilité et la dette émotionnelle, mais qu'il ne fait que l'isoler davantage. Il commence à faire le lien entre ses réactions actuelles et son passé d'enfant parentifié.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/annulation-retroactive-en-situation-de-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/technique-rain-seul-face-a-soi-meme/">La technique RAIN pour gérer ses émotions seul face à soi-même</a></h3>
+    <div class="parcours-date">2026-05-19</div>
+    <p class="parcours-resume">Adrien, graphiste hypersensible, se retrouve paralysé par l'angoisse et la solitude dans son salon alors qu'il tente de dessiner. Confronté au souvenir de sa rupture avec Marina et à une dispute passée avec sa sœur Charlotte, il choisit cette fois de ne pas fuir dans le travail ou d'appeler son ami Julien pour être rassuré.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Il décide d'abandonner ses mécanismes de déni et de procrastination technique pour affronter ses émotions. En s'initiant à la technique RAIN, il apprend à observer son sentiment d'inadéquation sans s'y identifier, passant de la réaction passive à une présence consciente.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/technique-rain-seul-face-a-soi-meme/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

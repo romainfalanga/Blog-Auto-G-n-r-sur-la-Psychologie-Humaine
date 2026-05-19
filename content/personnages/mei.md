@@ -1,13 +1,13 @@
 ---
 title: "Mei"
-date: 2026-05-18T06:32:20+00:00
+date: 2026-05-19T06:27:26+00:00
 description: "Mei est étudiante en école d'art, spécialité illustration. Elle est en couple avec Julien depuis un mois et vit en résidence étudiante."
 slug: "mei"
 prenom: "Mei"
 date_naissance: "2003-07-02"
 profession: "Étudiante en école d'art, spécialité illustration"
 situation: "En couple avec julien depuis un mois, vit en résidence étudiante"
-nb_articles: 10
+nb_articles: 11
 weight: 19
 draft: false
 ---
@@ -123,5 +123,16 @@ draft: false
       <p>Mei expérimente l'effet du 'petit soi', réalisant que l'émerveillement réduit son anxiété sociale et son besoin de validation constante. Elle commence à délaisser son 'faux self' de docilité pour embrasser une identité plus authentique et connectée à l'immensité du monde.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/emerveillement-en-voyage-ou-en-expatriation-guide/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-verite-illusoire-reseaux-sociaux/">Effet de vérité illusoire sur les réseaux sociaux : comment ça nous piège</a></h3>
+    <div class="parcours-date">2026-05-19</div>
+    <p class="parcours-resume">Alors qu'elle attend sa lessive dans sa résidence étudiante, Mei est confrontée à une surcharge d'injonctions artistiques sur son fil d'actualité. Malgré l'invitation à dîner de Julien, elle se sent paralysée par la répétition de conseils en ligne qui contredisent ses propres intuitions.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Mei identifie l'effet de vérité illusoire, réalisant que la répétition de certains discours numériques altère son jugement et réactive son ancien besoin de plaire aux figures d'autorité.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-verite-illusoire-reseaux-sociaux/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

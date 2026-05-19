@@ -1,14 +1,14 @@
 ---
 title: "Priya"
-date: 2026-05-18T06:32:20+00:00
+date: 2026-05-19T06:27:26+00:00
 description: "Priya est médecin généraliste en cabinet de ville. Célibataire, vit seule, relations épisodiques."
 slug: "priya"
 prenom: "Priya"
 date_naissance: "1993-03-11"
 profession: "Médecin généraliste en cabinet de ville"
 situation: "Célibataire, vit seule, relations épisodiques"
-nb_articles: 10
-weight: 18
+nb_articles: 11
+weight: 15
 draft: false
 ---
 
@@ -123,5 +123,16 @@ draft: false
       <p>Priya réalise que son calme apparent n'est pas seulement une compétence professionnelle, mais une stratégie de désengagement liée à son style d'attachement évitant et à son éducation rigide. Elle prend conscience que cette indifférence, héritée de son passé, crée une barrière qui l'empêche d'offrir une véritable empathie.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/indifference-face-maladie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/rationalisation-face-a-une-decision-importante/">Rationalisation face à une décision importante : le guide</a></h3>
+    <div class="parcours-date">2026-05-19</div>
+    <p class="parcours-resume">Priya, installée dans son cabinet des Glycines, hésite à signer le bail d'un nouveau local médical moderne pour s'émanciper. Elle fait face à la pression indirecte de sa mère Anjali et utilise des arguments logiques de façade pour justifier son envie de refuser l'offre par peur du conflit familial.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Priya prend conscience qu'elle utilise la rationalisation et sa rigueur scientifique comme un mécanisme de défense pour masquer son besoin de sécurité et son désir de rester la 'fille parfaite'. Elle réalise que son immobilisme n'est pas de la sagesse médicale, mais une construction intellectuelle pour éviter d'affronter ses émotions.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/rationalisation-face-a-une-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
