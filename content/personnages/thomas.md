@@ -1,6 +1,6 @@
 ---
 title: "Thomas"
-date: 2026-05-19T06:27:26+00:00
+date: 2026-05-20T06:21:25+00:00
 description: "Thomas est enseignant d'histoire-géographie en pleine crise d'épuisement alors qu'il tente de se reconvertir dans l'édition. En couple avec Émilie à Lyon, il se sent submergé par la peur de l'échec et son rôle de 'sauveur'."
 slug: "thomas"
 prenom: "Thomas"
@@ -8,7 +8,7 @@ date_naissance: "1992-02-22"
 profession: "Enseignant d'histoire-géographie au lycée (en projet de reconversion dans l'édition)"
 situation: "En couple avec émilie à lyon, traverse une phase d'épuisement émotionnel et de paralysie décisionnelle"
 nb_articles: 12
-weight: 2
+weight: 3
 draft: false
 ---
 

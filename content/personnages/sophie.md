@@ -1,14 +1,14 @@
 ---
 title: "Sophie"
-date: 2026-05-19T06:27:26+00:00
+date: 2026-05-20T06:21:25+00:00
 description: "Sophie est développeuse web dans une startup. Célibataire, vit seule en appartement en ville."
 slug: "sophie"
 prenom: "Sophie"
 date_naissance: "1998-01-15"
 profession: "Développeuse web dans une startup"
 situation: "Célibataire, vit seule en appartement en ville"
-nb_articles: 11
-weight: 6
+nb_articles: 12
+weight: 2
 draft: false
 ---
 
@@ -134,5 +134,16 @@ draft: false
       <p>Sophie réalise que ses mécanismes de défense, comme la surcompensation et l'effacement de soi, polluent désormais ses relations amicales et pas seulement son travail. Elle commence à identifier ses distorsions cognitives en tentant de rationaliser les compliments de Claire plutôt que de les fuir.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-amitie-causes/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-parents/">Recherche d'approbation et reconnaissance avec ses parents</a></h3>
+    <div class="parcours-date">2026-05-20</div>
+    <p class="parcours-resume">Lors d'un appel téléphonique avec son père ingénieur, Sophie tente désespérément d'obtenir une marque de fierté en détaillant ses prouesses techniques de développeuse. Face à la réaction neutre de son père, elle observe ses propres mécanismes de sur-justification et de perfectionnisme depuis son appartement parisien.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Sophie réalise que sa quête de validation professionnelle est une extension d'un schéma d'enfance où l'excellence était la condition de l'amour parental. Elle commence à utiliser un carnet de notes pour documenter ses pensées répétitives et interrompre ses automatismes émotionnels.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -1,14 +1,14 @@
 ---
 title: "Monique"
-date: 2026-05-19T06:27:26+00:00
+date: 2026-05-20T06:21:25+00:00
 description: "Monique est retraitée, ancienne professeure de français. Veuve depuis 3 ans, elle entame une nouvelle relation avec Jacques, un ancien collègue."
 slug: "monique"
 prenom: "Monique"
 date_naissance: "1964-01-30"
 profession: "Retraitée, ancienne professeure de français"
 situation: "Veuve, entame une nouvelle relation avec jacques"
-nb_articles: 11
-weight: 13
+nb_articles: 12
+weight: 7
 draft: false
 ---
 
@@ -134,5 +134,16 @@ draft: false
       <p>Elle prend conscience de l'influence de la 'peak-end rule' sur sa perception et décide de ne plus subir ses souvenirs de manière passive. Elle commence à utiliser l'écriture pour lister ses moments de vie de façon objective afin de ne pas laisser ses biais cognitifs dicter son avenir.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/peak-end-rule-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-retrospectif-rupture-amoureuse/">Comprendre le biais rétrospectif après une rupture amoureuse</a></h3>
+    <div class="parcours-date">2026-05-20</div>
+    <p class="parcours-resume">Le 20 mai 2026, Monique trie des photos de son défunt mari Jean-Claude dans son salon, luttant contre une idéalisation nostalgique de leur passé. Malgré la proposition de son nouveau compagnon Jacques d'emménager ensemble, elle se sent freinée par des souvenirs déformés et une anxiété financière héritée de son père.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Monique identifie son biais rétrospectif et ses loyautés invisibles comme des obstacles à son bonheur présent. Elle décide d'utiliser un carnet pour objectiver ses souvenirs et mener une enquête sur ses propres mécanismes psychologiques plutôt que de subir sa culpabilité.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-retrospectif-rupture-amoureuse/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

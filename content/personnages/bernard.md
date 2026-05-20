@@ -1,13 +1,13 @@
 ---
 title: "Bernard"
-date: 2026-05-19T06:27:26+00:00
+date: 2026-05-20T06:21:25+00:00
 description: "Bernard est artisan ébéniste en campagne. Veuf, il cherche désormais à dépasser ses silences et ses réflexes de défense pour privilégier la réconciliation avec son fils Éric."
 slug: "bernard"
 prenom: "Bernard"
 date_naissance: "1967-08-21"
 profession: "Artisan ébéniste, atelier en campagne"
 situation: "Veuf, place la réconciliation avec son fils éric comme priorité absolue"
-nb_articles: 10
+nb_articles: 11
 weight: 20
 draft: false
 ---
@@ -123,5 +123,16 @@ draft: false
       <p>Bernard identifie son silence comme un mécanisme de défense hérité et comprend que ses meubles sont des substituts affectifs, marquant le début d'un désir de reconnecter autrement avec les autres.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-amitie/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/tendresse-avec-ses-enfants-bernard/">Comment montrer la tendresse avec ses enfants quand on ne sait pas parler</a></h3>
+    <div class="parcours-date">2026-05-20</div>
+    <p class="parcours-resume">Le 20 mai 2026, dans son atelier imprégné d'odeurs de bois et de cire, Bernard observe son fils Éric tout en luttant contre son mutisme habituel. Malgré une rigidité persistante entre eux, il tente de transformer son silence protecteur en une forme de tendresse concrète à travers la fabrication d'une commode sur mesure.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Bernard a pris conscience que ses silences agissaient comme un barrage et que son héritage familial de mutisme n'était pas une force, mais une chape de plomb. Il cherche désormais à ce que ses créations artisanales ne soient plus seulement des objets, mais des vecteurs perceptibles de son affection.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/tendresse-avec-ses-enfants-bernard/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

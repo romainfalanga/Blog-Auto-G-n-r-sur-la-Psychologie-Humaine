@@ -255,6 +255,17 @@
           "resume_narratif": "Le 13 mai 2026, Sophie partage un moment dans un salon de thé avec son amie Claire, qui la félicite pour une réussite technique. Malgré ce succès, Sophie est assaillie par son syndrome de l'imposteur, minimisant son travail et luttant contre une voix intérieure qui la dévalorise.",
           "evolution": "Sophie réalise que ses mécanismes de défense, comme la surcompensation et l'effacement de soi, polluent désormais ses relations amicales et pas seulement son travail. Elle commence à identifier ses distorsions cognitives en tentant de rationaliser les compliments de Claire plutôt que de les fuir.",
           "elements_cles": "Claire (amie), salon de thé près d'une librairie, carnet de notes personnel, mention de Marc (collègue) et de l'incident du 23 avril, antécédents familiaux (père ingénieur, mère enseignante), technique de respiration et de rationalisation face à l'heuristique d'affect."
+        },
+        {
+          "date": "2026-05-20",
+          "sujet": "recherche d'approbation/reconnaissance",
+          "contexte": "avec ses parents",
+          "category": "cat3_schemas",
+          "titre": "Recherche d'approbation et reconnaissance avec ses parents",
+          "slug": "recherche-approbation-parents",
+          "resume_narratif": "Lors d'un appel téléphonique avec son père ingénieur, Sophie tente désespérément d'obtenir une marque de fierté en détaillant ses prouesses techniques de développeuse. Face à la réaction neutre de son père, elle observe ses propres mécanismes de sur-justification et de perfectionnisme depuis son appartement parisien.",
+          "evolution": "Sophie réalise que sa quête de validation professionnelle est une extension d'un schéma d'enfance où l'excellence était la condition de l'amour parental. Elle commence à utiliser un carnet de notes pour documenter ses pensées répétitives et interrompre ses automatismes émotionnels.",
+          "elements_cles": "Carnet de notes (initié après le chapitre 1), parents exigeants à Nantes, Marc (collègue critique), échec au poste de directrice technique le 1er mai, crise d'angoisse passée dans une laverie, lunettes rondes, syndrome de l'imposteur."
         }
       ],
       "genre": "F",
@@ -4031,6 +4042,17 @@
           "resume_narratif": "Monique se trouve chez le notaire pour décider si elle accepte la proposition de Jacques de vendre sa maison de l'Oise pour emménager avec lui en centre-ville. Tiraillée entre sa tendance au contrôle et ses souvenirs, elle réalise que son jugement est biaisé par ses émotions les plus intenses et ses dernières expériences marquantes.",
           "evolution": "Elle prend conscience de l'influence de la 'peak-end rule' sur sa perception et décide de ne plus subir ses souvenirs de manière passive. Elle commence à utiliser l'écriture pour lister ses moments de vie de façon objective afin de ne pas laisser ses biais cognitifs dicter son avenir.",
           "elements_cles": "Jacques (compagnon), Jean-Claude (défunt mari), Lola, maison de l'Oise, carnet de notes, peak-end rule, biais du monde juste, héritage de rigueur du père artisan."
+        },
+        {
+          "date": "2026-05-20",
+          "sujet": "biais rétrospectif",
+          "contexte": "après une rupture amoureuse",
+          "category": "cat1_pensees",
+          "titre": "Comprendre le biais rétrospectif après une rupture amoureuse",
+          "slug": "biais-retrospectif-rupture-amoureuse",
+          "resume_narratif": "Le 20 mai 2026, Monique trie des photos de son défunt mari Jean-Claude dans son salon, luttant contre une idéalisation nostalgique de leur passé. Malgré la proposition de son nouveau compagnon Jacques d'emménager ensemble, elle se sent freinée par des souvenirs déformés et une anxiété financière héritée de son père.",
+          "evolution": "Monique identifie son biais rétrospectif et ses loyautés invisibles comme des obstacles à son bonheur présent. Elle décide d'utiliser un carnet pour objectiver ses souvenirs et mener une enquête sur ses propres mécanismes psychologiques plutôt que de subir sa culpabilité.",
+          "elements_cles": "Jacques (compagnon actuel), Jean-Claude (défunt mari), Lola (amie), maison de l'Oise, carnet d'objectivation, peak-end rule, ancienne professeure de français de 62 ans."
         }
       ],
       "genre": "F",
@@ -5977,6 +5999,38 @@
           "resume_narratif": "Bernard observe depuis son atelier les villageois et son voisin Marcel se rendre à une fête locale, mais choisit de rester en retrait avec son chien Sultan. Il repense à une dispute tendue avec son fils Éric survenue le 6 mai et réalise que son mutisme et son travail du bois sont ses seuls moyens d'expression.",
           "evolution": "Bernard identifie son silence comme un mécanisme de défense hérité et comprend que ses meubles sont des substituts affectifs, marquant le début d'un désir de reconnecter autrement avec les autres.",
           "elements_cles": "Marcel (voisin), Éric (fils), Sultan (chien), date du 6 mai (conflit), atelier de menuiserie, odeur d'huile de lin, voyage en Toscane (mentionné comme origine de sa prise de conscience), concept de conversion des liens en objets."
+        },
+        {
+          "date": "2026-05-20",
+          "sujet": "tendresse",
+          "contexte": "avec ses enfants",
+          "category": "cat2_emotions",
+          "titre": "Comment montrer la tendresse avec ses enfants quand on ne sait pas parler",
+          "slug": "tendresse-avec-ses-enfants-bernard",
+          "resume_narratif": "Le 20 mai 2026, dans son atelier imprégné d'odeurs de bois et de cire, Bernard observe son fils Éric tout en luttant contre son mutisme habituel. Malgré une rigidité persistante entre eux, il tente de transformer son silence protecteur en une forme de tendresse concrète à travers la fabrication d'une commode sur mesure.",
+          "evolution": "Bernard a pris conscience que ses silences agissaient comme un barrage et que son héritage familial de mutisme n'était pas une force, mais une chape de plomb. Il cherche désormais à ce que ses créations artisanales ne soient plus seulement des objets, mais des vecteurs perceptibles de son affection.",
+          "elements_cles": {
+            "personnages": [
+              "Bernard",
+              "Éric (son fils)",
+              "Sultan (le chien)",
+              "les parents de Bernard (mentionnés)"
+            ],
+            "lieux": [
+              "L'atelier de menuiserie",
+              "La Toscane (lieu d'une prise de conscience passée)"
+            ],
+            "dates_cles": [
+              "20 mai 2026 (présent)",
+              "6 mai (conversations interrompues)"
+            ],
+            "objets_et_actions": [
+              "Commode pour Éric",
+              "rabot",
+              "réparation de serrures",
+              "technique de verbalisation de l'intention"
+            ]
+          }
         }
       ],
       "genre": "M",

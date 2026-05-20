@@ -7557,6 +7557,102 @@
       },
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-20",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais rétrospectif",
+      "contexte": "après une rupture amoureuse",
+      "angle": "les causes profondes (pourquoi ça existe)",
+      "profil": null,
+      "prenom": "Monique",
+      "age": "62 ans",
+      "title": "Comprendre le biais rétrospectif après une rupture amoureuse",
+      "slug": "biais-retrospectif-rupture-amoureuse",
+      "tags": [
+        "biais cognitif",
+        "rupture amoureuse",
+        "mémoire",
+        "psychologie",
+        "Monique"
+      ],
+      "resume_narratif": "Le 20 mai 2026, Monique trie des photos de son défunt mari Jean-Claude dans son salon, luttant contre une idéalisation nostalgique de leur passé. Malgré la proposition de son nouveau compagnon Jacques d'emménager ensemble, elle se sent freinée par des souvenirs déformés et une anxiété financière héritée de son père.",
+      "evolution": "Monique identifie son biais rétrospectif et ses loyautés invisibles comme des obstacles à son bonheur présent. Elle décide d'utiliser un carnet pour objectiver ses souvenirs et mener une enquête sur ses propres mécanismes psychologiques plutôt que de subir sa culpabilité.",
+      "elements_cles": "Jacques (compagnon actuel), Jean-Claude (défunt mari), Lola (amie), maison de l'Oise, carnet d'objectivation, peak-end rule, ancienne professeure de français de 62 ans.",
+      "strategie_coherence": "approfondir",
+      "apport_psychologique": "Cela démontre que sa résistance au changement n'est pas qu'un manque de courage, mais une distorsion cognitive qui réécrit l'histoire pour rendre le présent nécessairement décevant par comparaison."
+    },
+    {
+      "date": "2026-05-20",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "tendresse",
+      "contexte": "avec ses enfants",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": null,
+      "prenom": "Bernard",
+      "age": "58 ans",
+      "title": "Comment montrer la tendresse avec ses enfants quand on ne sait pas parler",
+      "slug": "tendresse-avec-ses-enfants-bernard",
+      "tags": [
+        "tendresse",
+        "parentalité",
+        "deuil",
+        "communication",
+        "émotions"
+      ],
+      "resume_narratif": "Le 20 mai 2026, dans son atelier imprégné d'odeurs de bois et de cire, Bernard observe son fils Éric tout en luttant contre son mutisme habituel. Malgré une rigidité persistante entre eux, il tente de transformer son silence protecteur en une forme de tendresse concrète à travers la fabrication d'une commode sur mesure.",
+      "evolution": "Bernard a pris conscience que ses silences agissaient comme un barrage et que son héritage familial de mutisme n'était pas une force, mais une chape de plomb. Il cherche désormais à ce que ses créations artisanales ne soient plus seulement des objets, mais des vecteurs perceptibles de son affection.",
+      "elements_cles": {
+        "personnages": [
+          "Bernard",
+          "Éric (son fils)",
+          "Sultan (le chien)",
+          "les parents de Bernard (mentionnés)"
+        ],
+        "lieux": [
+          "L'atelier de menuiserie",
+          "La Toscane (lieu d'une prise de conscience passée)"
+        ],
+        "dates_cles": [
+          "20 mai 2026 (présent)",
+          "6 mai (conversations interrompues)"
+        ],
+        "objets_et_actions": [
+          "Commode pour Éric",
+          "rabot",
+          "réparation de serrures",
+          "technique de verbalisation de l'intention"
+        ]
+      },
+      "strategie_coherence": "enrichir",
+      "apport_psychologique": "L'article explore le décalage entre l'émotion ressentie (l'amour paternel) et l'incapacité à l'exprimer, transformant son mutisme en une tragédie de la pudeur plutôt qu'en une simple absence d'émotion."
+    },
+    {
+      "date": "2026-05-20",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "recherche d'approbation/reconnaissance",
+      "contexte": "avec ses parents",
+      "angle": "le lien avec l'enfance et l'éducation",
+      "profil": null,
+      "prenom": "Sophie",
+      "age": "28 ans",
+      "title": "Recherche d'approbation et reconnaissance avec ses parents",
+      "slug": "recherche-approbation-parents",
+      "tags": [
+        "schémas répétitifs",
+        "approbation parentale",
+        "syndrome de l'imposteur",
+        "psychologie",
+        "parentalité"
+      ],
+      "resume_narratif": "Lors d'un appel téléphonique avec son père ingénieur, Sophie tente désespérément d'obtenir une marque de fierté en détaillant ses prouesses techniques de développeuse. Face à la réaction neutre de son père, elle observe ses propres mécanismes de sur-justification et de perfectionnisme depuis son appartement parisien.",
+      "evolution": "Sophie réalise que sa quête de validation professionnelle est une extension d'un schéma d'enfance où l'excellence était la condition de l'amour parental. Elle commence à utiliser un carnet de notes pour documenter ses pensées répétitives et interrompre ses automatismes émotionnels.",
+      "elements_cles": "Carnet de notes (initié après le chapitre 1), parents exigeants à Nantes, Marc (collègue critique), échec au poste de directrice technique le 1er mai, crise d'angoisse passée dans une laverie, lunettes rondes, syndrome de l'imposteur.",
+      "strategie_coherence": "connecter",
+      "apport_psychologique": "On comprend que son syndrome de l'imposteur n'est pas une faille de compétence, mais un mécanisme de survie relationnel : elle croit que sa valeur dépend de son utilité et de sa performance aux yeux des figures d'autorité."
     }
   ]
 }
