@@ -1,14 +1,14 @@
 ---
 title: "Lucas"
-date: 2026-05-20T06:21:25+00:00
+date: 2026-05-21T06:26:14+00:00
 description: "Lucas est étudiant en dernière année d'école de commerce, en stage. Célibataire, en colocation avec deux amis."
 slug: "lucas"
 prenom: "Lucas"
 date_naissance: "2001-04-10"
 profession: "Étudiant en dernière année d'école de commerce, en stage"
 situation: "Célibataire, en colocation avec deux amis"
-nb_articles: 11
-weight: 8
+nb_articles: 12
+weight: 4
 draft: false
 ---
 
@@ -134,5 +134,16 @@ draft: false
       <p>Lucas passe d'une retenue silencieuse, dictée par son besoin d'approbation et ses origines modestes, à une exaspération sourde qu'il a du mal à contenir. Il prend conscience que son agacement est lié à une focalisation sélective sur les défauts de l'autre et à sa propre tendance au retrait social pour éviter le conflit.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/agacement-en-colocation-comprendre-emotions/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/correlation-illusoire-sur-les-reseaux-sociaux/">Corrélation illusoire sur les réseaux sociaux : s'en libérer</a></h3>
+    <div class="parcours-date">2026-05-21</div>
+    <p class="parcours-resume">Lucas, affalé dans son canapé en colocation, compare sa vie à celle de son ancien camarade Thomas sur Instagram. Il se sent médiocre face aux succès mis en scène de ce dernier et commence à lier arbitrairement la réussite professionnelle à un mode de vie millimétré.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Le personnage prend conscience de sa tendance à créer des connexions artificielles entre l'apparence et le succès (corrélation illusoire). Il réalise que ce biais cognitif alimente son sentiment d'imposteur et son besoin de trouver des explications externes à son mal-être.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/correlation-illusoire-sur-les-reseaux-sociaux/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -1,14 +1,14 @@
 ---
 title: "Nadia"
-date: 2026-05-20T06:21:25+00:00
+date: 2026-05-21T06:26:14+00:00
 description: "Nadia est directrice marketing dans une entreprise tech. En couple avec Antoine, elle est mère d'une fille (Yasmine, 8 ans) en garde alternée."
 slug: "nadia"
 prenom: "Nadia"
 date_naissance: "1987-05-18"
 profession: "Directrice marketing dans une entreprise tech"
 situation: "En couple avec antoine, mère d'une fille (yasmine, 8 ans), garde alternée"
-nb_articles: 11
-weight: 9
+nb_articles: 12
+weight: 5
 draft: false
 ---
 
@@ -134,5 +134,16 @@ draft: false
       <p>Nadia prend conscience de la frontière fragile entre son leadership naturel et ses tendances toxiques héritées de son passé d'enfant parentifiée. Elle comprend que son perfectionnisme est une armure et cherche désormais à transformer son ambition en un narcissisme sain plutôt que destructeur.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/narcissisme-sain-pathologique-travail/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/coherence-cardiaque-au-travail-nadia/">Cohérence cardiaque au travail : 3 exercices concrets pour Nadia</a></h3>
+    <div class="parcours-date">2026-05-21</div>
+    <p class="parcours-resume">Le 21 mai 2026, Nadia affronte une journée de travail sous haute tension, marquée par un lancement de produit retardé et des tensions personnelles avec Karim concernant la garde de leur fille Yasmine. Submergée par l'anxiété en pleine réunion, elle s'isole à midi dans la cage d'escalier pour tenter de stabiliser son rythme cardiaque par la respiration.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Nadia prend conscience que son mode de fonctionnement automatique, autrefois gage de performance, est devenu une source d'épuisement. Elle décide d'expérimenter la cohérence cardiaque comme outil immédiat pour reprendre le contrôle sur son stress et sa clarté mentale avant de retourner diriger son équipe.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/coherence-cardiaque-au-travail-nadia/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

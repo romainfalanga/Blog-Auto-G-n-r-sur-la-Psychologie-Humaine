@@ -1,14 +1,14 @@
 ---
 title: "Isabelle"
-date: 2026-05-20T06:21:25+00:00
-description: "Isabelle est psychologue scolaire dans un collège. Divorcée, un fils adolescent (théo, 16 ans)."
+date: 2026-05-21T06:26:14+00:00
+description: "Isabelle est psychologue scolaire dans un collège. Divorcée et récemment séparée d'Aurélie, elle vit avec son fils adolescent Théo."
 slug: "isabelle"
 prenom: "Isabelle"
 date_naissance: "1978-09-03"
 profession: "Psychologue scolaire dans un collège"
-situation: "Divorcée, un fils adolescent (théo, 16 ans)"
-nb_articles: 11
-weight: 12
+situation: "Divorcée, séparée d'aurélie, un fils adolescent (théo, 16 ans)"
+nb_articles: 12
+weight: 7
 draft: false
 ---
 
@@ -134,5 +134,16 @@ draft: false
       <p>Elle identifie qu'elle est en train de sortir de sa 'fenêtre de tolérance' vers l'hyper-activation. Elle prend conscience que son passé de médiatrice familiale et sa fatigue actuelle réduisent sa capacité à rester calme face aux provocations de son fils.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/fenetre-de-tolerance-dan-siegel-en-famille/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/les-5-blessures-ame-rupture-amoureuse/">Les 5 blessures de l'âme après une rupture amoureuse</a></h3>
+    <div class="parcours-date">2026-05-21</div>
+    <p class="parcours-resume">Isabelle, psychologue scolaire et mère de Théo, réfléchit à sa récente rupture avec Aurélie lors d'un moment de solitude au Jardin du Luxembourg. Elle analyse ses échecs sentimentaux passés, notamment son divorce avec Laurent, à travers le prisme des blessures de l'âme et de son passé d'enfant parentifiée.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Elle prend conscience que ses réactions émotionnelles, comme sa peur de l'abandon et son besoin de contrôle, sont des masques protecteurs issus de blessures d'enfance non résolues. Elle commence à identifier ses propres schémas de dépendance et de rigidité pour ne plus subir ses pensées automatiques.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/les-5-blessures-ame-rupture-amoureuse/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

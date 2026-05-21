@@ -7653,6 +7653,121 @@
       "elements_cles": "Carnet de notes (initié après le chapitre 1), parents exigeants à Nantes, Marc (collègue critique), échec au poste de directrice technique le 1er mai, crise d'angoisse passée dans une laverie, lunettes rondes, syndrome de l'imposteur.",
       "strategie_coherence": "connecter",
       "apport_psychologique": "On comprend que son syndrome de l'imposteur n'est pas une faille de compétence, mais un mécanisme de survie relationnel : elle croit que sa valeur dépend de son utilité et de sa performance aux yeux des figures d'autorité."
+    },
+    {
+      "date": "2026-05-21",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "corrélation illusoire",
+      "contexte": "sur les réseaux sociaux",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "timide",
+      "prenom": "Lucas",
+      "age": "25 ans",
+      "title": "Corrélation illusoire sur les réseaux sociaux : s'en libérer",
+      "slug": "correlation-illusoire-sur-les-reseaux-sociaux",
+      "tags": [
+        "corrélation illusoire",
+        "réseaux sociaux",
+        "psychologie cognitive",
+        "comparaison sociale",
+        "bien-être numérique"
+      ],
+      "resume_narratif": "Lucas, affalé dans son canapé en colocation, compare sa vie à celle de son ancien camarade Thomas sur Instagram. Il se sent médiocre face aux succès mis en scène de ce dernier et commence à lier arbitrairement la réussite professionnelle à un mode de vie millimétré.",
+      "evolution": "Le personnage prend conscience de sa tendance à créer des connexions artificielles entre l'apparence et le succès (corrélation illusoire). Il réalise que ce biais cognitif alimente son sentiment d'imposteur et son besoin de trouver des explications externes à son mal-être.",
+      "elements_cles": {
+        "lieux": [
+          "Canapé gris de la colocation",
+          "La Défense"
+        ],
+        "personnes_mentionnées": [
+          "Thomas (ancien camarade)",
+          "Romain (colocataire)",
+          "Maxime"
+        ],
+        "decisions_prises": [
+          "Adopter un mode de vie millimétré pour réussir",
+          "Chercher des formules magiques pour justifier son inconfort"
+        ],
+        "techniques_apprises": [
+          "Recherche active de contre-exemples pour briser les biais de confirmation"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-21",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "cohérence cardiaque",
+      "contexte": "au travail",
+      "angle": "3 techniques/exercices pratiques",
+      "profil": "en burn-out",
+      "prenom": "Nadia",
+      "age": "39 ans",
+      "title": "Cohérence cardiaque au travail : 3 exercices concrets pour Nadia",
+      "slug": "coherence-cardiaque-au-travail-nadia",
+      "tags": [
+        "cohérence cardiaque",
+        "gestion du stress",
+        "burn-out",
+        "techniques respiratoires",
+        "bien-être au travail"
+      ],
+      "resume_narratif": "Le 21 mai 2026, Nadia affronte une journée de travail sous haute tension, marquée par un lancement de produit retardé et des tensions personnelles avec Karim concernant la garde de leur fille Yasmine. Submergée par l'anxiété en pleine réunion, elle s'isole à midi dans la cage d'escalier pour tenter de stabiliser son rythme cardiaque par la respiration.",
+      "evolution": "Nadia prend conscience que son mode de fonctionnement automatique, autrefois gage de performance, est devenu une source d'épuisement. Elle décide d'expérimenter la cohérence cardiaque comme outil immédiat pour reprendre le contrôle sur son stress et sa clarté mentale avant de retourner diriger son équipe.",
+      "elements_cles": {
+        "personnages": [
+          "Karim (ex-conjoint)",
+          "Yasmine (fille)",
+          "Julie (collègue)",
+          "Antoine (partenaire)",
+          "Marc (produit)"
+        ],
+        "lieux_et_objets": [
+          "Bureau/salle de réunion",
+          "Cage d'escalier près des casiers",
+          "Carnet en cuir",
+          "Montre"
+        ],
+        "contexte_pro": [
+          "Directrice marketing",
+          "Lancement produit retardé",
+          "Formation interne sur la cohérence cardiaque"
+        ],
+        "techniques": [
+          "Cohérence cardiaque (3 minutes)",
+          "Observation de la variabilité de la fréquence cardiaque (VFC)"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-21",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "les 5 blessures de l'âme (Lise Bourbeau : rejet, abandon, humiliation, trahison, injustice)",
+      "contexte": "après une rupture amoureuse",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "survivant(e) de relation toxique",
+      "prenom": "Isabelle",
+      "age": "47 ans",
+      "title": "Les 5 blessures de l'âme après une rupture amoureuse",
+      "slug": "les-5-blessures-ame-rupture-amoureuse",
+      "tags": [
+        "lise bourbeau",
+        "blessures de l'âme",
+        "rupture amoureuse",
+        "psychologie",
+        "résilience"
+      ],
+      "resume_narratif": "Isabelle, psychologue scolaire et mère de Théo, réfléchit à sa récente rupture avec Aurélie lors d'un moment de solitude au Jardin du Luxembourg. Elle analyse ses échecs sentimentaux passés, notamment son divorce avec Laurent, à travers le prisme des blessures de l'âme et de son passé d'enfant parentifiée.",
+      "evolution": "Elle prend conscience que ses réactions émotionnelles, comme sa peur de l'abandon et son besoin de contrôle, sont des masques protecteurs issus de blessures d'enfance non résolues. Elle commence à identifier ses propres schémas de dépendance et de rigidité pour ne plus subir ses pensées automatiques.",
+      "elements_cles": "Jardin du Luxembourg, Théo (fils), Aurélie (ex-partenaire), Laurent (ex-mari), Geneviève (mère), Catherine (amie), méthode ABCDE, les 5 blessures de Lise Bourbeau, carnet de notes.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }
