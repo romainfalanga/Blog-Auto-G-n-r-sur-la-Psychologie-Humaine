@@ -1,14 +1,14 @@
 ---
 title: "Fabien"
-date: 2026-05-21T06:26:14+00:00
+date: 2026-05-22T06:21:51+00:00
 description: "Fabien est cadre RH dans une entreprise industrielle. Divorcé, il vit désormais dans un nouvel appartement et s'efforce de reconstruire un dialogue empathique avec ses deux enfants."
 slug: "fabien"
 prenom: "Fabien"
 date_naissance: "1975-06-19"
 profession: "Cadre rh dans une entreprise industrielle"
 situation: "Divorcé, a emménagé dans un nouvel appartement, deux enfants (marine, 20 ans et lucas, 17 ans)"
-nb_articles: 11
-weight: 18
+nb_articles: 12
+weight: 12
 draft: false
 ---
 
@@ -134,5 +134,16 @@ draft: false
       <p>Fabien identifie son mécanisme d'adultification : il comprend que son hyper-responsabilisation et son besoin de contrôle, hérités de l'enfance, ont saboté son mariage et menacent désormais sa relation avec son fils Lucas.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/adultification-avec-ses-parents-sortir-schema/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-complaisance-manager/">Biais de complaisance en tant que manager : le reconnaître</a></h3>
+    <div class="parcours-date">2026-05-22</div>
+    <p class="parcours-resume">Fabien, manager en usine, analyse des indicateurs de performance positifs tout en ressentant un malaise face au comportement de Julie, une responsable d'équipe qui minimise une alerte de process. Cette situation le renvoie à ses propres mécanismes de défense hérités de son enfance et à l'échec de son mariage avec Véronique.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Il prend conscience que son besoin de structure et son optimisme managérial cachent un biais de complaisance, l'amenant à questionner la fiabilité des succès apparents et sa tendance à ignorer les signaux faibles.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-complaisance-manager/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

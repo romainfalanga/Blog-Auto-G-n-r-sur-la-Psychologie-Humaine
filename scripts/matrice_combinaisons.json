@@ -7768,6 +7768,56 @@
       "elements_cles": "Jardin du Luxembourg, Théo (fils), Aurélie (ex-partenaire), Laurent (ex-mari), Geneviève (mère), Catherine (amie), méthode ABCDE, les 5 blessures de Lise Bourbeau, carnet de notes.",
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-22",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "biais de complaisance",
+      "contexte": "en tant que manager",
+      "angle": "comment ça se manifeste sans qu'on s'en rende compte",
+      "profil": "contrôlant(e)",
+      "prenom": "Fabien",
+      "age": "50 ans",
+      "title": "Biais de complaisance en tant que manager : le reconnaître",
+      "slug": "biais-complaisance-manager",
+      "tags": [
+        "biais cognitif",
+        "management",
+        "leadership",
+        "psychologie",
+        "prise-de-decision"
+      ],
+      "resume_narratif": "Fabien, manager en usine, analyse des indicateurs de performance positifs tout en ressentant un malaise face au comportement de Julie, une responsable d'équipe qui minimise une alerte de process. Cette situation le renvoie à ses propres mécanismes de défense hérités de son enfance et à l'échec de son mariage avec Véronique.",
+      "evolution": "Il prend conscience que son besoin de structure et son optimisme managérial cachent un biais de complaisance, l'amenant à questionner la fiabilité des succès apparents et sa tendance à ignorer les signaux faibles.",
+      "elements_cles": "Usine (odeur de graisse et métal) ; Julie (responsable d'équipe) ; Véronique (ex-femme) ; passé familial (père taciturne) ; indicateurs de non-conformité en baisse ; technique de traduction de l'expertise (malédiction du savoir).",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-22",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "identification projective",
+      "contexte": "en situation de conflit",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": null,
+      "prenom": "Adrien",
+      "age": "31 ans",
+      "title": "Identification projective en situation de conflit : Adrien",
+      "slug": "identification-projective-en-situation-de-conflit-adrien",
+      "tags": [
+        "psychologie",
+        "relations",
+        "mécanismes de défense",
+        "gestion des conflits",
+        "santé mentale"
+      ],
+      "resume_narratif": "Lors d'une dispute tendue dans un café avec son ami Julien, Adrien se sent envahi par une agressivité et une froideur qui ne lui ressemblent pas. Il réalise qu'il est en train de subir une identification projective, où Julien dépose en lui sa propre violence pour le forcer à réagir de manière conflictuelle.",
+      "evolution": "Adrien prend conscience qu'il peut devenir le réceptacle des émotions refoulées des autres et apprend à identifier cette 'émotion étrangère' pour ne pas agir selon le scénario imposé par son interlocuteur.",
+      "elements_cles": "Julien (ami), Marina (ex-compagne), rue de Lancry, carnet de croquis, tatouage au poignet (point d'ancrage), technique RAIN, schéma d'abandon, échec professionnel récent.",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }
