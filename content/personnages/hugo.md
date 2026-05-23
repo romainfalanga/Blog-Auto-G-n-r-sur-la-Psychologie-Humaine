@@ -1,14 +1,14 @@
 ---
 title: "Hugo"
-date: 2026-05-22T06:21:51+00:00
+date: 2026-05-23T05:52:16+00:00
 description: "Hugo est musicien semi-professionnel et serveur pour payer les factures. Il est désormais célibataire après sa rupture récente avec Chloé."
 slug: "hugo"
 prenom: "Hugo"
 date_naissance: "1999-02-08"
 profession: "Musicien semi-professionnel et serveur pour payer les factures"
 situation: "Célibataire, récemment séparé de chloé"
-nb_articles: 11
-weight: 15
+nb_articles: 12
+weight: 14
 draft: false
 ---
 
@@ -134,5 +134,16 @@ draft: false
       <p>Hugo identifie son mécanisme de divination et réalise que ses prédictions de rejet sont liées à l'influence de son père Alain, qui conditionnait son affection à la réussite. Il prend conscience que son envie de lancer une pique sarcastique est un réflexe de défense pour éviter de souffrir.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/divination-en-amitie-predire-avenir-negativement/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/etiquetage-conflit/">Étiquetage en situation de conflit : quand les mots enferment</a></h3>
+    <div class="parcours-date">2026-05-23</div>
+    <p class="parcours-resume">Le 23 mai 2026, après son service au bar, Hugo affronte une dispute tendue avec Chloé dans le vestiaire. Elle l'étiquette comme étant « incapable de stabilité », ce qui réveille en lui de vieilles blessures liées à son père et une pulsion de sabotage préventif.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Hugo identifie le mécanisme de l'étiquetage comme une distorsion cognitive qui transforme un acte ponctuel en verdict identitaire. Il prend conscience de sa tendance à l'automarquage et de son besoin de sortir de la polarité entre effondrement et contre-attaque.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/etiquetage-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: "Bernard"
-date: 2026-05-22T06:21:51+00:00
+date: 2026-05-23T05:52:16+00:00
 description: "Bernard est artisan ébéniste en campagne. Veuf, il cherche désormais à dépasser ses silences et ses réflexes de défense pour privilégier la réconciliation avec son fils Éric."
 slug: "bernard"
 prenom: "Bernard"

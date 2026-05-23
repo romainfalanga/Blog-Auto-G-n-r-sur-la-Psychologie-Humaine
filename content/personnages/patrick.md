@@ -1,14 +1,14 @@
 ---
 title: "Patrick"
-date: 2026-05-22T06:21:51+00:00
+date: 2026-05-23T05:52:16+00:00
 description: "Patrick est chef d'équipe dans le BTP, marié et grand-père. Il entame une démarche de guérison émotionnelle par l'écriture expressive pour briser le cycle du silence et de la colère hérité de son père."
 slug: "patrick"
 prenom: "Patrick"
 date_naissance: "1969-10-28"
 profession: "Chef d'équipe dans le btp"
 situation: "Marié à catherine depuis 30 ans, deux enfants adultes, un petit-fils, en deuil de son père"
-nb_articles: 11
-weight: 14
+nb_articles: 12
+weight: 10
 draft: false
 ---
 
@@ -134,5 +134,16 @@ draft: false
       <p>Patrick passe du stoïcisme violent à la vulnérabilité en acceptant que l'écriture expressive peut servir d'exutoire à ses émotions refoulées. Il comprend que son silence et sa rage étaient un héritage paternel toxique qu'il doit briser pour préserver ses relations familiales.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/ecriture-expressive-pennebaker-en-famille-guide/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Émotion</div>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/trahison-sur-les-reseaux-sociaux-comprendre-surmonter/">Trahison sur les réseaux sociaux : la comprendre et la surmonter</a></h3>
+    <div class="parcours-date">2026-05-23</div>
+    <p class="parcours-resume">Patrick, un maçon lyonnais, découvre sur Facebook que son ancien collègue et ami Marc l'a trahi en rejoignant une équipe concurrente. Marc a publié une photo de célébration accompagnée d'un message humiliant qui tourne en dérision les capacités physiques déclinantes de Patrick.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Malgré une pulsion de violence héritée de son père, Patrick choisit de ne pas répondre immédiatement par la colère. Il commence à comprendre que l'exposition publique de sa vulnérabilité est un traumatisme social qu'il doit gérer par l'écriture plutôt que par la confrontation numérique.</p>
+    </div>
+    <a href="/posts/comprendre-et-maitriser-ses-emotions/trahison-sur-les-reseaux-sociaux-comprendre-surmonter/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

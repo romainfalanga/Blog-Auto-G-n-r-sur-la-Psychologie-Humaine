@@ -7818,6 +7818,143 @@
       "elements_cles": "Julien (ami), Marina (ex-compagne), rue de Lancry, carnet de croquis, tatouage au poignet (point d'ancrage), technique RAIN, schéma d'abandon, échec professionnel récent.",
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-23",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "étiquetage",
+      "contexte": "en situation de conflit",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "contrôlant(e)",
+      "prenom": "Hugo",
+      "age": "27 ans",
+      "title": "Étiquetage en situation de conflit : quand les mots enferment",
+      "slug": "etiquetage-conflit",
+      "tags": [
+        "étiquetage",
+        "conflits relationnels",
+        "TCC",
+        "gestion émotionnelle",
+        "communication"
+      ],
+      "resume_narratif": "Le 23 mai 2026, après son service au bar, Hugo affronte une dispute tendue avec Chloé dans le vestiaire. Elle l'étiquette comme étant « incapable de stabilité », ce qui réveille en lui de vieilles blessures liées à son père et une pulsion de sabotage préventif.",
+      "evolution": "Hugo identifie le mécanisme de l'étiquetage comme une distorsion cognitive qui transforme un acte ponctuel en verdict identitaire. Il prend conscience de sa tendance à l'automarquage et de son besoin de sortir de la polarité entre effondrement et contre-attaque.",
+      "elements_cles": {
+        "personnages": [
+          "Chloé",
+          "Samba (collègue)",
+          "Alain (père)"
+        ],
+        "lieux": [
+          "Bar (vestiaire)",
+          "Festival de quartier",
+          "Local technique"
+        ],
+        "contexte_temporel": "23 mai 2026, 22h30",
+        "concepts_et_outils": [
+          "Étiquetage (labeling)",
+          "États du Moi",
+          "Idéalisation/Dévaluation",
+          "Sabotage préventif",
+          "Humour comme masque"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-23",
+      "category_key": "cat2_emotions",
+      "category_name": "Comprendre et maîtriser ses émotions",
+      "sujet": "trahison",
+      "contexte": "sur les réseaux sociaux",
+      "angle": "la différence entre [concept A] et [concept B]",
+      "profil": "procrastinateur(trice)",
+      "prenom": "Patrick",
+      "age": "56 ans",
+      "title": "Trahison sur les réseaux sociaux : la comprendre et la surmonter",
+      "slug": "trahison-sur-les-reseaux-sociaux-comprendre-surmonter",
+      "tags": [
+        "trahison",
+        "réseaux sociaux",
+        "psychologie",
+        "émotions",
+        "Patrick"
+      ],
+      "resume_narratif": "Patrick, un maçon lyonnais, découvre sur Facebook que son ancien collègue et ami Marc l'a trahi en rejoignant une équipe concurrente. Marc a publié une photo de célébration accompagnée d'un message humiliant qui tourne en dérision les capacités physiques déclinantes de Patrick.",
+      "evolution": "Malgré une pulsion de violence héritée de son père, Patrick choisit de ne pas répondre immédiatement par la colère. Il commence à comprendre que l'exposition publique de sa vulnérabilité est un traumatisme social qu'il doit gérer par l'écriture plutôt que par la confrontation numérique.",
+      "elements_cles": {
+        "personnages": [
+          "Patrick",
+          "Marc (ancien collègue)",
+          "Stéphanie (fille de Patrick)",
+          "Marcel (père décédé)"
+        ],
+        "lieux_et_dates": [
+          "Lyon (69)",
+          "Camionnette de chantier",
+          "23 mai 2026",
+          "11 mai (incident de l'établi)"
+        ],
+        "objets_et_outils": [
+          "Smartphone",
+          "Carnet d'écriture expressive",
+          "Facebook"
+        ],
+        "techniques_et_decisions": [
+          "Pratique de l'écriture expressive",
+          "Technique du sas de décompression numérique",
+          "Refus de céder à la rage héréditaire"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-23",
+      "category_key": "cat3_schemas",
+      "category_name": "Sortir de ses schémas répétitifs",
+      "sujet": "compensation",
+      "contexte": "après un échec",
+      "angle": "comment s'en libérer concrètement",
+      "profil": "perfectionniste",
+      "prenom": "Margot",
+      "age": "52 ans",
+      "title": "Compensation après un échec : s'en libérer concrètement",
+      "slug": "compensation-apres-un-echec",
+      "tags": [
+        "compensation",
+        "résilience",
+        "perfectionnisme",
+        "reconversion",
+        "coaching"
+      ],
+      "resume_narratif": "Après avoir reçu un e-mail de refus pour une collaboration alors qu'elle se trouvait dans une librairie, Margot lutte contre son réflexe de compensation frénétique. Elle tente de ne pas sombrer dans une hyper-activité désordonnée, comme multiplier les rendez-vous gratuits et les actions commerciales inefficaces pour restaurer son sentiment de compétence.",
+      "evolution": "Margot identifie désormais son cycle oscillant entre l'impuissance apprise et la surcompensation liée à ses drivers 'sois parfaite' et 'sois forte'. Elle prend conscience que son agitation est un pansement superficiel qui ne traite pas sa blessure de légitimité en tant que coach.",
+      "elements_cles": {
+        "personnes": [
+          "Sylvie (mentor)",
+          "Philippe (conjoint ou proche)",
+          "Alfred Adler (référence théorique)"
+        ],
+        "lieux": [
+          "Librairie (23 mai 2026)",
+          "Parking d'un centre commercial lyonnais (passé)"
+        ],
+        "outils_et_techniques": [
+          "Respiration en boîte",
+          "Journal de gratitude",
+          "Recadrage des pensées"
+        ],
+        "contexte_psychologique": [
+          "Drivers 'sois forte' et 'sois parfaite'",
+          "Impuissance apprise",
+          "Biais du coût irrécupérable"
+        ]
+      },
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

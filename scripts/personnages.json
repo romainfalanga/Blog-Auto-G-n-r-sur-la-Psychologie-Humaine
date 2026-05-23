@@ -1958,8 +1958,8 @@
       "prenom": "Margot",
       "age": 52,
       "tranche_age": "adulte en bilan de mi-vie (46-55 ans)",
-      "profession": "coach (en situation d'échec)",
-      "situation_familiale": "en proie à l'impuissance apprise et au renoncement",
+      "profession": "coach (en phase de prise de conscience)",
+      "situation_familiale": "oscille entre l'impuissance apprise et la surcompensation frénétique",
       "traits_personnalite": [
         "volontaire",
         "en quête de sens",
@@ -2234,11 +2234,42 @@
           "resume_narratif": "Le 16 mai 2026 à Lyon, Margot reçoit une proposition de collaboration stable mais contraignante pour son activité de coach. Assise dans sa voiture, elle hésite à signer ce contrat qui lui rappelle ses expériences passées dans le commerce et ses récents échecs de prospection.",
           "evolution": "Margot identifie que son hésitation est alimentée par un biais de croyance, où elle interprète les clauses du contrat comme une menace pour son authenticité plutôt que de les évaluer objectivement.",
           "elements_cles": "Lyon (parc, boulangerie) ; Sylvie (mentor) ; rituels (méditation, journal de gratitude, carnet de notes) ; driver 'sois parfaite' ; date du 16 mai 2026."
+        },
+        {
+          "date": "2026-05-23",
+          "sujet": "compensation",
+          "contexte": "après un échec",
+          "category": "cat3_schemas",
+          "titre": "Compensation après un échec : s'en libérer concrètement",
+          "slug": "compensation-apres-un-echec",
+          "resume_narratif": "Après avoir reçu un e-mail de refus pour une collaboration alors qu'elle se trouvait dans une librairie, Margot lutte contre son réflexe de compensation frénétique. Elle tente de ne pas sombrer dans une hyper-activité désordonnée, comme multiplier les rendez-vous gratuits et les actions commerciales inefficaces pour restaurer son sentiment de compétence.",
+          "evolution": "Margot identifie désormais son cycle oscillant entre l'impuissance apprise et la surcompensation liée à ses drivers 'sois parfaite' et 'sois forte'. Elle prend conscience que son agitation est un pansement superficiel qui ne traite pas sa blessure de légitimité en tant que coach.",
+          "elements_cles": {
+            "personnes": [
+              "Sylvie (mentor)",
+              "Philippe (conjoint ou proche)",
+              "Alfred Adler (référence théorique)"
+            ],
+            "lieux": [
+              "Librairie (23 mai 2026)",
+              "Parking d'un centre commercial lyonnais (passé)"
+            ],
+            "outils_et_techniques": [
+              "Respiration en boîte",
+              "Journal de gratitude",
+              "Recadrage des pensées"
+            ],
+            "contexte_psychologique": [
+              "Drivers 'sois forte' et 'sois parfaite'",
+              "Impuissance apprise",
+              "Biais du coût irrécupérable"
+            ]
+          }
         }
       ],
       "genre": "F",
       "date_naissance": "1973-07-23",
-      "description_dynamique": "Margot est une coach dont l'élan de reconversion s'est brisé face aux premiers échecs commerciaux. Elle sombre dans une passivité totale et une résignation profonde, convaincue que ses efforts pour transformer sa vie sont désormais inutiles."
+      "description_dynamique": "Margot est une coach qui alterne désormais entre sa résignation habituelle et une hyper-activité désordonnée pour masquer ses échecs. Elle commence à identifier ses mécanismes de défense et ses drivers de performance sans encore parvenir à stabiliser sa légitimité."
     },
     {
       "id": "youssef",
@@ -3141,6 +3172,40 @@
               "Douleurs lombaires chroniques",
               "Deuil de Marcel",
               "Peur de vieillir et de perdre sa force physique"
+            ]
+          }
+        },
+        {
+          "date": "2026-05-23",
+          "sujet": "trahison",
+          "contexte": "sur les réseaux sociaux",
+          "category": "cat2_emotions",
+          "titre": "Trahison sur les réseaux sociaux : la comprendre et la surmonter",
+          "slug": "trahison-sur-les-reseaux-sociaux-comprendre-surmonter",
+          "resume_narratif": "Patrick, un maçon lyonnais, découvre sur Facebook que son ancien collègue et ami Marc l'a trahi en rejoignant une équipe concurrente. Marc a publié une photo de célébration accompagnée d'un message humiliant qui tourne en dérision les capacités physiques déclinantes de Patrick.",
+          "evolution": "Malgré une pulsion de violence héritée de son père, Patrick choisit de ne pas répondre immédiatement par la colère. Il commence à comprendre que l'exposition publique de sa vulnérabilité est un traumatisme social qu'il doit gérer par l'écriture plutôt que par la confrontation numérique.",
+          "elements_cles": {
+            "personnages": [
+              "Patrick",
+              "Marc (ancien collègue)",
+              "Stéphanie (fille de Patrick)",
+              "Marcel (père décédé)"
+            ],
+            "lieux_et_dates": [
+              "Lyon (69)",
+              "Camionnette de chantier",
+              "23 mai 2026",
+              "11 mai (incident de l'établi)"
+            ],
+            "objets_et_outils": [
+              "Smartphone",
+              "Carnet d'écriture expressive",
+              "Facebook"
+            ],
+            "techniques_et_decisions": [
+              "Pratique de l'écriture expressive",
+              "Technique du sas de décompression numérique",
+              "Refus de céder à la rage héréditaire"
             ]
           }
         }
@@ -4409,6 +4474,36 @@
             "objets_symboliques": [
               "Guitare",
               "Bagues d'Hugo"
+            ]
+          }
+        },
+        {
+          "date": "2026-05-23",
+          "sujet": "étiquetage",
+          "contexte": "en situation de conflit",
+          "category": "cat1_pensees",
+          "titre": "Étiquetage en situation de conflit : quand les mots enferment",
+          "slug": "etiquetage-conflit",
+          "resume_narratif": "Le 23 mai 2026, après son service au bar, Hugo affronte une dispute tendue avec Chloé dans le vestiaire. Elle l'étiquette comme étant « incapable de stabilité », ce qui réveille en lui de vieilles blessures liées à son père et une pulsion de sabotage préventif.",
+          "evolution": "Hugo identifie le mécanisme de l'étiquetage comme une distorsion cognitive qui transforme un acte ponctuel en verdict identitaire. Il prend conscience de sa tendance à l'automarquage et de son besoin de sortir de la polarité entre effondrement et contre-attaque.",
+          "elements_cles": {
+            "personnages": [
+              "Chloé",
+              "Samba (collègue)",
+              "Alain (père)"
+            ],
+            "lieux": [
+              "Bar (vestiaire)",
+              "Festival de quartier",
+              "Local technique"
+            ],
+            "contexte_temporel": "23 mai 2026, 22h30",
+            "concepts_et_outils": [
+              "Étiquetage (labeling)",
+              "États du Moi",
+              "Idéalisation/Dévaluation",
+              "Sabotage préventif",
+              "Humour comme masque"
             ]
           }
         }
