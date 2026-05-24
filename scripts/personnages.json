@@ -4810,6 +4810,17 @@
               "Technique du miroir émotionnel"
             ]
           }
+        },
+        {
+          "date": "2026-05-24",
+          "sujet": "peur",
+          "contexte": "dans l'intimité et la sexualité",
+          "category": "cat2_emotions",
+          "titre": "Peur dans l'intimité et la sexualité : comprendre ses origines",
+          "slug": "peur-intimite-sexualite-causes-profondes",
+          "resume_narratif": "Priya reçoit une invitation de Marc pour passer un week-end en amoureux dans un gîte, ce qui déclenche chez elle une panique immédiate. Face à cette proposition d'intimité prolongée, elle envisage d'inventer des excuses professionnelles pour fuir la situation et maintenir sa distance de sécurité.",
+          "evolution": "Elle prend conscience que sa peur de l'intimité est un mécanisme de défense viscéral lié à son passé avec Damien et à son éducation rigide. Elle réalise que son besoin de contrôle et sa méfiance transforment toute tentative de rapprochement, même bienveillante, en une menace d'intrusion.",
+          "elements_cles": "Marc (partenaire actuel), Damien (ex-compagnon toxique), Cabinet des Glycines, excuses professionnelles (garde de nuit, dossier administratif), attachement évitant, hyper-vigilance, odeur de bougie au santal."
         }
       ],
       "genre": "F",
@@ -5139,6 +5150,33 @@
               "Compassion dévorante envers la solitude de sa mère",
               "Zèle excessif dans les tâches administratives"
             ]
+          }
+        },
+        {
+          "date": "2026-05-24",
+          "sujet": "punition",
+          "contexte": "en colocation",
+          "category": "cat3_schemas",
+          "titre": "Punition en colocation : comprendre et briser ce schéma",
+          "slug": "punition-en-colocation-comprendre-schema-repetitif",
+          "resume_narratif": "En séminaire à Lyon, Stéphane partage une colocation avec Julie et Antoine, deux collègues cadres. Suite à l'oubli de petites tâches ménagères, il s'auto-inflige un isolement strict dans sa chambre, se privant notamment de partager un repas de sushis avec eux.",
+          "evolution": "Stéphane prend conscience que sa tendance à l'auto-punition est un mécanisme de défense lié à son TDAH masqué et à son besoin de prévenir la critique d'autrui. Il réalise qu'il utilise la rationalisation pour justifier une peur panique de ne pas être à la hauteur.",
+          "elements_cles": {
+            "lieu": "Appartement en colocation temporaire à Lyon",
+            "personnages_presents": [
+              "Julie",
+              "Antoine"
+            ],
+            "personnages_mentionnes": [
+              "Marc (collègue)",
+              "Le père de Stéphane"
+            ],
+            "contexte_psychologique": [
+              "TDAH masqué",
+              "Schéma de punition/privation",
+              "Rationalisation"
+            ],
+            "evenement_declencheur": "Oubli de vider le lave-vaisselle et de ranger des dossiers"
           }
         }
       ],
@@ -6221,6 +6259,17 @@
               "technique de verbalisation de l'intention"
             ]
           }
+        },
+        {
+          "date": "2026-05-24",
+          "sujet": "illusion de transparence",
+          "contexte": "seul(e) face à soi-même",
+          "category": "cat1_pensees",
+          "titre": "Illusion de transparence : pourquoi on se sent à découvert",
+          "slug": "illusion-transparence-seul-face-a-soi-meme",
+          "resume_narratif": "Le 24 mai 2026, Bernard travaille dans son atelier de menuiserie sur une commode destinée à son fils Éric. Hanté par le silence de leur dernière rencontre le 6 mai, il est persuadé que sa tristesse liée au deuil d'Hélène et son besoin de réconciliation sont visibles par tous, malgré son apparence austère.",
+          "evolution": "Bernard prend conscience de l'illusion de transparence : il réalise que son mutisme n'est pas un livre ouvert pour les autres et que son fils ou son voisin Marcel ne perçoivent pas l'orage intérieur qu'il pensait pourtant évident.",
+          "elements_cles": "Atelier de menuiserie (odeur de chêne, rabot) ; Éric (fils) ; Hélène (défunte) ; Marcel (voisin) ; date du 6 mai (conflit/silence) ; blocage lombaire d'avril dernier ; sentiment de vulnérabilité extrême."
         }
       ],
       "genre": "M",

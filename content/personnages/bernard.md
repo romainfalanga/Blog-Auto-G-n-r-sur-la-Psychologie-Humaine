@@ -1,14 +1,14 @@
 ---
 title: "Bernard"
-date: 2026-05-23T05:52:16+00:00
+date: 2026-05-24T06:19:17+00:00
 description: "Bernard est artisan ébéniste en campagne. Veuf, il cherche désormais à dépasser ses silences et ses réflexes de défense pour privilégier la réconciliation avec son fils Éric."
 slug: "bernard"
 prenom: "Bernard"
 date_naissance: "1967-08-21"
 profession: "Artisan ébéniste, atelier en campagne"
 situation: "Veuf, place la réconciliation avec son fils éric comme priorité absolue"
-nb_articles: 11
-weight: 20
+nb_articles: 12
+weight: 18
 draft: false
 ---
 
@@ -134,5 +134,16 @@ draft: false
       <p>Bernard a pris conscience que ses silences agissaient comme un barrage et que son héritage familial de mutisme n'était pas une force, mais une chape de plomb. Il cherche désormais à ce que ses créations artisanales ne soient plus seulement des objets, mais des vecteurs perceptibles de son affection.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/tendresse-avec-ses-enfants-bernard/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/illusion-transparence-seul-face-a-soi-meme/">Illusion de transparence : pourquoi on se sent à découvert</a></h3>
+    <div class="parcours-date">2026-05-24</div>
+    <p class="parcours-resume">Le 24 mai 2026, Bernard travaille dans son atelier de menuiserie sur une commode destinée à son fils Éric. Hanté par le silence de leur dernière rencontre le 6 mai, il est persuadé que sa tristesse liée au deuil d'Hélène et son besoin de réconciliation sont visibles par tous, malgré son apparence austère.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Bernard prend conscience de l'illusion de transparence : il réalise que son mutisme n'est pas un livre ouvert pour les autres et que son fils ou son voisin Marcel ne perçoivent pas l'orage intérieur qu'il pensait pourtant évident.</p>
+    </div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/illusion-transparence-seul-face-a-soi-meme/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

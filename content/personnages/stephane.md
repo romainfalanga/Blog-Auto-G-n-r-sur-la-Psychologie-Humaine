@@ -1,14 +1,14 @@
 ---
 title: "Stéphane"
-date: 2026-05-23T05:52:16+00:00
+date: 2026-05-24T06:19:17+00:00
 description: "Stéphane est commercial grands comptes dans une multinationale. Marié à sandrine, père d'un adolescent (maxime, 15 ans)."
 slug: "stephane"
 prenom: "Stéphane"
 date_naissance: "1980-04-25"
 profession: "Commercial grands comptes dans une multinationale"
 situation: "Marié à sandrine, père d'un adolescent (maxime, 15 ans)"
-nb_articles: 11
-weight: 17
+nb_articles: 12
+weight: 16
 draft: false
 ---
 
@@ -134,5 +134,16 @@ draft: false
       <p>Stéphane prend conscience qu'il souffre d'une forme de syndrome de Stockholm du quotidien, agissant comme un otage émotionnel qui protège ses propres 'geôliers' pour éviter la douleur de la désapprobation.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-stockholm-quotidien-parents-causes/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Schéma répétitif</div>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/punition-en-colocation-comprendre-schema-repetitif/">Punition en colocation : comprendre et briser ce schéma</a></h3>
+    <div class="parcours-date">2026-05-24</div>
+    <p class="parcours-resume">En séminaire à Lyon, Stéphane partage une colocation avec Julie et Antoine, deux collègues cadres. Suite à l'oubli de petites tâches ménagères, il s'auto-inflige un isolement strict dans sa chambre, se privant notamment de partager un repas de sushis avec eux.</p>
+    <div class="parcours-evolution">
+      <span class="evolution-label">Évolution</span>
+      <p>Stéphane prend conscience que sa tendance à l'auto-punition est un mécanisme de défense lié à son TDAH masqué et à son besoin de prévenir la critique d'autrui. Il réalise qu'il utilise la rationalisation pour justifier une peur panique de ne pas être à la hauteur.</p>
+    </div>
+    <a href="/posts/sortir-de-ses-schemas-repetitifs/punition-en-colocation-comprendre-schema-repetitif/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
