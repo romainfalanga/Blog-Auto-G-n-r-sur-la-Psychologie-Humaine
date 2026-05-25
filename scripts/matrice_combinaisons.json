@@ -8046,6 +8046,31 @@
       },
       "strategie_coherence": "",
       "apport_psychologique": ""
+    },
+    {
+      "date": "2026-05-25",
+      "category_key": "cat1_pensees",
+      "category_name": "Reprendre le contrôle de ses pensées",
+      "sujet": "effet IKEA",
+      "contexte": "en famille",
+      "angle": "pourquoi ça empire avec le temps si on ne fait rien",
+      "profil": "évitant(e)",
+      "prenom": "Djamila",
+      "age": "37 ans",
+      "title": "Effet IKEA en famille : pourquoi nous surévaluons nos liens",
+      "slug": "effet-ikea-en-famille-psychologie",
+      "tags": [
+        "effet IKEA",
+        "psychologie familiale",
+        "biais cognitif",
+        "relation toxique",
+        "investissement émotionnel"
+      ],
+      "resume_narratif": "",
+      "evolution": "",
+      "elements_cles": "",
+      "strategie_coherence": "",
+      "apport_psychologique": ""
     }
   ]
 }

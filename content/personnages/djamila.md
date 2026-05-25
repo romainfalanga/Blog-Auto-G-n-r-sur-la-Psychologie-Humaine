@@ -1,14 +1,14 @@
 ---
 title: "Djamila"
-date: 2026-05-24T06:19:17+00:00
+date: 2026-05-25T06:45:53+00:00
 description: "Djamila est travailleuse sociale dans une association d'aide aux femmes. Séparée, en reconstruction, un fils (adam, 6 ans)."
 slug: "djamila"
 prenom: "Djamila"
 date_naissance: "1989-05-06"
 profession: "Travailleuse sociale dans une association d'aide aux femmes"
 situation: "Séparée, en reconstruction, un fils (adam, 6 ans)"
-nb_articles: 11
-weight: 19
+nb_articles: 12
+weight: 17
 draft: false
 ---
 
@@ -134,5 +134,11 @@ draft: false
       <p>Djamila réalise que sa détresse actuelle et son besoin de sauver les autres ne sont pas seulement liés à la toxicité de Samir, mais trouvent leur source dans une blessure d'abandon originelle liée à son adoption et son passé à l'orphelinat.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/enfant-interieur-apres-rupture-amoureuse/" class="parcours-link">Lire l'article complet &rarr;</a>
+  </div>
+  <div class="parcours-entry">
+    <div class="parcours-cat">Biais cognitif</div>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-ikea-en-famille-psychologie/">Effet IKEA en famille : pourquoi nous surévaluons nos liens</a></h3>
+    <div class="parcours-date">2026-05-25</div>
+    <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-ikea-en-famille-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
