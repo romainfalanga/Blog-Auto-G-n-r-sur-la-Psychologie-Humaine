@@ -1,6 +1,6 @@
 ---
 title: "Mei"
-date: 2026-05-28T06:18:40+00:00
+date: 2026-05-29T06:20:21+00:00
 description: "Mei est étudiante en école d'art, spécialité illustration. Elle est en couple avec Julien depuis un mois et vit en résidence étudiante."
 slug: "mei"
 prenom: "Mei"

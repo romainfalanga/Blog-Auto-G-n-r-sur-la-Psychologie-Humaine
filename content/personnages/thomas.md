@@ -1,6 +1,6 @@
 ---
 title: "Thomas"
-date: 2026-05-28T06:18:40+00:00
+date: 2026-05-29T06:20:21+00:00
 description: "Thomas est enseignant d'histoire-géographie en pleine crise d'épuisement alors qu'il tente de se reconvertir dans l'édition. En couple avec Émilie à Lyon, il se sent submergé par la peur de l'échec et son rôle de 'sauveur'."
 slug: "thomas"
 prenom: "Thomas"
