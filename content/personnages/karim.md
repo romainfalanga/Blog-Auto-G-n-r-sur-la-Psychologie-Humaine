@@ -1,6 +1,6 @@
 ---
 title: "Karim"
-date: 2026-06-03T06:59:36+00:00
+date: 2026-06-04T06:48:44+00:00
 description: "Karim est un ancien restaurateur en reconversion vers un projet d'école de cuisine solidaire. Marié à Sofia et père de trois enfants, il cherche désormais à stabiliser sa vie professionnelle et familiale."
 slug: "karim"
 prenom: "Karim"
