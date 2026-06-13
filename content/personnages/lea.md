@@ -1,6 +1,6 @@
 ---
 title: "Léa"
-date: 2026-06-12T06:49:26+00:00
+date: 2026-06-13T06:22:53+00:00
 description: "Léa est étudiante en master de psychologie clinique. En couple avec Youssef, elle vit en studio étudiant."
 slug: "lea"
 prenom: "Léa"
