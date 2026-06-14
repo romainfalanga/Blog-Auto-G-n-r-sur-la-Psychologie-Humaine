@@ -1,6 +1,6 @@
 ---
 title: "Youssef"
-date: 2026-06-13T06:22:53+00:00
+date: 2026-06-14T06:48:04+00:00
 description: "Youssef est un ingénieur en informatique en fin d'arrêt maladie, confronté au décès récent de son père alors qu'il prépare son déménagement à Lyon. Il réalise que sa logique rationnelle est impuissante face au choc sensoriel et émotionnel du deuil."
 slug: "youssef"
 prenom: "Youssef"
