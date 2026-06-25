@@ -1,14 +1,14 @@
 ---
 title: "Adrien"
-date: 2026-06-25T06:20:03+00:00
+date: 2026-05-21T06:00:00+00:00
 description: "Adrien est graphiste freelance. Célibataire depuis une rupture difficile il y a un an."
 slug: "adrien"
 prenom: "Adrien"
 date_naissance: "1994-06-07"
 profession: "Graphiste freelance"
 situation: "Célibataire depuis une rupture difficile il y a un an"
-nb_articles: 12
-weight: 6
+nb_articles: 11
+weight: 11
 draft: false
 ---
 
@@ -134,16 +134,5 @@ draft: false
       <p>Il décide d'abandonner ses mécanismes de déni et de procrastination technique pour affronter ses émotions. En s'initiant à la technique RAIN, il apprend à observer son sentiment d'inadéquation sans s'y identifier, passant de la réaction passive à une présence consciente.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/technique-rain-seul-face-a-soi-meme/" class="parcours-link">Lire l'article complet &rarr;</a>
-  </div>
-  <div class="parcours-entry">
-    <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/identification-projective-en-situation-de-conflit-adrien/">Identification projective en situation de conflit : Adrien</a></h3>
-    <div class="parcours-date">2026-05-22</div>
-    <p class="parcours-resume">Lors d'une dispute tendue dans un café avec son ami Julien, Adrien se sent envahi par une agressivité et une froideur qui ne lui ressemblent pas. Il réalise qu'il est en train de subir une identification projective, où Julien dépose en lui sa propre violence pour le forcer à réagir de manière conflictuelle.</p>
-    <div class="parcours-evolution">
-      <span class="evolution-label">Évolution</span>
-      <p>Adrien prend conscience qu'il peut devenir le réceptacle des émotions refoulées des autres et apprend à identifier cette 'émotion étrangère' pour ne pas agir selon le scénario imposé par son interlocuteur.</p>
-    </div>
-    <a href="/posts/sortir-de-ses-schemas-repetitifs/identification-projective-en-situation-de-conflit-adrien/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
