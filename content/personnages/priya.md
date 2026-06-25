@@ -1,13 +1,13 @@
 ---
 title: "Priya"
-date: 2026-06-25T06:20:03+00:00
+date: 2026-05-21T06:00:00+00:00
 description: "Priya est médecin généraliste en cabinet de ville. Célibataire, vit seule, relations épisodiques."
 slug: "priya"
 prenom: "Priya"
 date_naissance: "1993-03-11"
 profession: "Médecin généraliste en cabinet de ville"
 situation: "Célibataire, vit seule, relations épisodiques"
-nb_articles: 12
+nb_articles: 11
 weight: 15
 draft: false
 ---
@@ -134,16 +134,5 @@ draft: false
       <p>Priya prend conscience qu'elle utilise la rationalisation et sa rigueur scientifique comme un mécanisme de défense pour masquer son besoin de sécurité et son désir de rester la 'fille parfaite'. Elle réalise que son immobilisme n'est pas de la sagesse médicale, mais une construction intellectuelle pour éviter d'affronter ses émotions.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/rationalisation-face-a-une-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
-  </div>
-  <div class="parcours-entry">
-    <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/peur-intimite-sexualite-causes-profondes/">Peur dans l'intimité et la sexualité : comprendre ses origines</a></h3>
-    <div class="parcours-date">2026-05-24</div>
-    <p class="parcours-resume">Priya reçoit une invitation de Marc pour passer un week-end en amoureux dans un gîte, ce qui déclenche chez elle une panique immédiate. Face à cette proposition d'intimité prolongée, elle envisage d'inventer des excuses professionnelles pour fuir la situation et maintenir sa distance de sécurité.</p>
-    <div class="parcours-evolution">
-      <span class="evolution-label">Évolution</span>
-      <p>Elle prend conscience que sa peur de l'intimité est un mécanisme de défense viscéral lié à son passé avec Damien et à son éducation rigide. Elle réalise que son besoin de contrôle et sa méfiance transforment toute tentative de rapprochement, même bienveillante, en une menace d'intrusion.</p>
-    </div>
-    <a href="/posts/comprendre-et-maitriser-ses-emotions/peur-intimite-sexualite-causes-profondes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>

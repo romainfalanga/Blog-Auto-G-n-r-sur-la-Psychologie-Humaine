@@ -307,6 +307,32 @@ hr {
   line-height: 1.7;
 }
 
+.hero-notice {
+  max-width: 750px;
+  margin: 1.5rem auto 0;
+  padding: 1rem 1.25rem;
+  text-align: left;
+  background: #fdecea;
+  border: 1px solid #e7b4ad;
+  border-left: 4px solid #c0392b;
+  border-radius: 8px;
+  color: #7d241a;
+}
+
+.hero-notice p {
+  font-size: 0.98rem;
+  line-height: 1.65;
+  margin: 0;
+}
+
+.hero-notice p + p {
+  margin-top: 0.6rem;
+}
+
+.hero-notice strong {
+  color: #a5281c;
+}
+
 /* ========================================
    CATEGORY SECTIONS (Homepage)
    ======================================== */
@@ -875,6 +901,8 @@ main {
   .hero { padding-top: 1.25rem; }
   .hero h1 { font-size: 1.8rem; }
   .hero .tagline { font-size: 1rem; }
+  .hero-notice { padding: 0.85rem 1rem; }
+  .hero-notice p { font-size: 0.92rem; }
   .category-header h1 { font-size: 1.8rem; }
   .article-card { padding: 1.25rem; }
 

@@ -1,14 +1,14 @@
 ---
 title: "Margot"
-date: 2026-06-25T06:20:03+00:00
+date: 2026-05-21T06:00:00+00:00
 description: "Margot est une coach qui alterne désormais entre sa résignation habituelle et une hyper-activité désordonnée pour masquer ses échecs. Elle commence à identifier ses mécanismes de défense et ses drivers de performance sans encore parvenir à stabiliser sa légitimité."
 slug: "margot"
 prenom: "Margot"
 date_naissance: "1973-07-23"
 profession: "Coach (en phase de prise de conscience)"
 situation: "Oscille entre l'impuissance apprise et la surcompensation frénétique"
-nb_articles: 12
-weight: 7
+nb_articles: 11
+weight: 12
 draft: false
 ---
 
@@ -134,16 +134,5 @@ draft: false
       <p>Margot identifie que son hésitation est alimentée par un biais de croyance, où elle interprète les clauses du contrat comme une menace pour son authenticité plutôt que de les évaluer objectivement.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-croyance-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
-  </div>
-  <div class="parcours-entry">
-    <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/compensation-apres-un-echec/">Compensation après un échec : s'en libérer concrètement</a></h3>
-    <div class="parcours-date">2026-05-23</div>
-    <p class="parcours-resume">Après avoir reçu un e-mail de refus pour une collaboration alors qu'elle se trouvait dans une librairie, Margot lutte contre son réflexe de compensation frénétique. Elle tente de ne pas sombrer dans une hyper-activité désordonnée, comme multiplier les rendez-vous gratuits et les actions commerciales inefficaces pour restaurer son sentiment de compétence.</p>
-    <div class="parcours-evolution">
-      <span class="evolution-label">Évolution</span>
-      <p>Margot identifie désormais son cycle oscillant entre l'impuissance apprise et la surcompensation liée à ses drivers 'sois parfaite' et 'sois forte'. Elle prend conscience que son agitation est un pansement superficiel qui ne traite pas sa blessure de légitimité en tant que coach.</p>
-    </div>
-    <a href="/posts/sortir-de-ses-schemas-repetitifs/compensation-apres-un-echec/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
 </div>
