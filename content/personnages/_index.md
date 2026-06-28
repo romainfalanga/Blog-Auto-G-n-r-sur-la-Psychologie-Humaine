@@ -1,6 +1,6 @@
 ---
 title: "Nos Personnages"
-date: 2026-06-27T06:04:16+00:00
+date: 2026-06-28T06:31:29+00:00
 description: "Découvrez les 20 personnages récurrents du blog et suivez leur évolution psychologique au fil des articles."
 draft: false
 ---
