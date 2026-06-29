@@ -1,6 +1,6 @@
 ---
 title: "Patrick"
-date: 2026-06-28T06:31:29+00:00
+date: 2026-06-29T07:02:35+00:00
 description: "Patrick est chef d'équipe dans le BTP, marié et grand-père. Il entame une démarche de guérison émotionnelle par l'écriture expressive pour briser le cycle du silence et de la colère hérité de son père."
 slug: "patrick"
 prenom: "Patrick"

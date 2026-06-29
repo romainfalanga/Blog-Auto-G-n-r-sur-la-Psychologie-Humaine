@@ -1,6 +1,6 @@
 ---
 title: "Camille"
-date: 2026-06-28T06:31:29+00:00
+date: 2026-06-29T07:02:35+00:00
 description: "Camille est cadre de santé. Mariée à David, elle est mère de deux enfants (Léo, 10 ans et Emma, 7 ans)."
 slug: "camille"
 prenom: "Camille"
