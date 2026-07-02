@@ -1,6 +1,6 @@
 ---
 title: "Stéphane"
-date: 2026-07-01T06:44:59+00:00
+date: 2026-07-02T06:11:11+00:00
 description: "Stéphane est commercial grands comptes dans une multinationale. Marié à sandrine, père d'un adolescent (maxime, 15 ans)."
 slug: "stephane"
 prenom: "Stéphane"
