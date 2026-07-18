@@ -1,6 +1,6 @@
 ---
 title: "Isabelle"
-date: 2026-07-17T05:25:37+00:00
+date: 2026-07-18T04:59:25+00:00
 description: "Isabelle est psychologue scolaire dans un collège. Divorcée et récemment séparée d'Aurélie, elle vit avec son fils adolescent Théo."
 slug: "isabelle"
 prenom: "Isabelle"
