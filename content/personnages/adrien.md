@@ -1,6 +1,6 @@
 ---
 title: "Adrien"
-date: 2026-07-21T05:32:46+00:00
+date: 2026-07-22T05:31:00+00:00
 description: "Adrien est graphiste freelance. Célibataire depuis une rupture difficile il y a un an."
 slug: "adrien"
 prenom: "Adrien"
