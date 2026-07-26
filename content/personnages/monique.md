@@ -1,6 +1,6 @@
 ---
 title: "Monique"
-date: 2026-07-25T05:25:23+00:00
+date: 2026-07-26T05:43:29+00:00
 description: "Monique est retraitée, ancienne professeure de français. Veuve depuis 3 ans, elle entame une nouvelle relation avec Jacques, un ancien collègue."
 slug: "monique"
 prenom: "Monique"
