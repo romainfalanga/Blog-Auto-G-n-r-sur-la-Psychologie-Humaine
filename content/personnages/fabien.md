@@ -1,6 +1,6 @@
 ---
 title: "Fabien"
-date: 2026-09-30T08:21:27+00:00
+date: 2026-10-01T08:44:43+00:00
 description: "Fabien est cadre RH dans une entreprise industrielle. Divorcé, il vit désormais dans un nouvel appartement et s'efforce de reconstruire un dialogue empathique avec ses deux enfants."
 slug: "fabien"
 prenom: "Fabien"
