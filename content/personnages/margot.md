@@ -1,6 +1,6 @@
 ---
 title: "Margot"
-date: 2026-10-06T08:54:24+00:00
+date: 2026-10-07T08:32:41+00:00
 description: "Margot est une coach qui alterne désormais entre sa résignation habituelle et une hyper-activité désordonnée pour masquer ses échecs. Elle commence à identifier ses mécanismes de défense et ses drivers de performance sans encore parvenir à stabiliser sa légitimité."
 slug: "margot"
 prenom: "Margot"
