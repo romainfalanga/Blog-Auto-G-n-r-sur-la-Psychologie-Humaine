@@ -35,6 +35,8 @@ Le Cron Cloudflare `*/5 * * * *` réserve jusqu’à trois utilisateurs, puis tr
 
 ## Vérification et limites
 
-17 tests automatisés backend/génération passent : isolation des comptes et inspirations, validation du catalogue, mémoire sans fiction, baux et invalidation du contexte, conditions d’éligibilité, erreurs fournisseurs, Checkout et suppression. Hugo compile le site original avec le journal. Aucun article ni personnage Markdown n’est supprimé ou réécrit.
+18 tests automatisés backend/génération passent : isolation des comptes et inspirations, validation du catalogue, mémoire sans fiction, baux et invalidation du contexte, conditions d’éligibilité, erreurs fournisseurs, Checkout et suppression. Hugo compile le site original avec le journal. Aucun article ni personnage Markdown n’est supprimé ou réécrit.
 
 Stripe et la génération OpenRouter réelle restent à valider après configuration. Les frais fournisseur ne sont pas garantis par le tarif client de 10 EUR. La base D1 est européenne; cela ne garantit pas le lieu de traitement du fournisseur IA. La récupération de mot de passe par e-mail reste à ajouter avant une ouverture commerciale complète.
+
+Recette sur le domaine existant : API et 231 références disponibles, inscription, cookie de session sécurisé transmis par Netlify, choix d’article avec identifiant accentué, raison et différences enregistrés, compteur de préparation, profil, export et verrouillage du paiement avant configuration vérifiés. Le contrôle visuel a confirmé l’accueil et le bouton sur un article ; le navigateur de contrôle a refusé la navigation du lien paramétré, donc le parcours de formulaire complet n’a pas été validé visuellement.
