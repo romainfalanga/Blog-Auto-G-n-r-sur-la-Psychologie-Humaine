@@ -53,20 +53,20 @@ def parse_object(content):
 def llm(system, data, max_tokens=6500):
     url, key, model = provider()
     # Bounded retries; never print provider responses or personal prompts.
-    for attempt in range(3):
+    for attempt in range(2):
         try:
             result = request_json(url, {
                 'model': model, 'messages': [
                     {'role': 'system', 'content': system},
                     {'role': 'user', 'content': json.dumps(data, ensure_ascii=False)}],
-                'max_tokens': max_tokens, 'response_format': {'type': 'json_object'}
-            }, {'Authorization': 'Bearer ' + key}, timeout=180)
+                'reasoning_effort': 'low', 'max_tokens': max_tokens, 'response_format': {'type': 'json_object'}
+            }, {'Authorization': 'Bearer ' + key}, timeout=120)
             choice = result['choices'][0]
             if choice.get('finish_reason') == 'length':
                 raise ValueError('truncated')
             return parse_object(choice['message']['content'])
         except (urllib.error.URLError, TimeoutError, ValueError, KeyError, IndexError):
-            if attempt == 2:
+            if attempt == 1:
                 raise RuntimeError('generation_failed') from None
             time.sleep(2 ** attempt)
 

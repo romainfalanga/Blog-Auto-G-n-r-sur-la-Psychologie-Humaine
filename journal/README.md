@@ -48,4 +48,4 @@ Les tests locaux ne remplacent pas la recette Stripe de bout en bout et une exé
 
 ## État de livraison
 
-Worker et D1 publiés le 30 octobre 2026. 7 tests backend et 6 tests de génération passent. Stripe n’est pas encore configuré ; aucun paiement réel ni génération réelle par fournisseur n’a été validé. Le modèle OpenRouter par défaut apparaît dans le catalogue public et accepte `response_format`. La récupération de mot de passe par e-mail n’est pas implémentée dans cette première version.
+Worker et D1 publiés le 30 octobre 2026. 7 tests backend et 6 tests de génération passent. Recette sur le Worker publié : inscription, session, sauvegarde du profil et de la mémoire, export, paiement désactivé sans Stripe et suppression du compte de test réussis. Stripe n’est pas encore configuré ; aucun paiement réel ni génération réelle par fournisseur n’a été validé. Le modèle OpenRouter par défaut apparaît dans le catalogue public et accepte `response_format`. La récupération de mot de passe par e-mail n’est pas implémentée dans cette première version.
