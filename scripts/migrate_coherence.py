@@ -7,14 +7,14 @@ Phase 1 (programmatique, sans API) :
 - Corrige les incohérences d'âge/profession dans les articles
 - Ajoute les dates correctes dans la matrice et personnages.json
 
-Phase 2 (avec API Mammouth) :
+Phase 2 (avec API OpenRouter) :
 - Appelle Gemini pour réécrire les introductions avec des références croisées
 - Extrait les résumés narratifs de chaque article pour enrichir la matrice
 - Ancre chaque article dans une temporalité cohérente
 
 Usage :
   python migrate_coherence.py --phase1          # Corrections programmatiques uniquement
-  python migrate_coherence.py --phase2          # Enrichissement via API (nécessite MAMMOUTH_API_KEY)
+  python migrate_coherence.py --phase2          # Enrichissement via API (nécessite OPENROUTER_API_KEY)
   python migrate_coherence.py --all             # Les deux phases
 """
 
@@ -422,18 +422,18 @@ def phase1_fix_articles(personnages_data, matrix):
 
 
 def phase2_enrich_narrative(personnages_data, matrix):
-    """Phase 2 : Enrichissement narratif via API Mammouth.
+    """Phase 2 : Enrichissement narratif via API OpenRouter.
     - Extrait les résumés narratifs de chaque article
     - Réécrit les introductions avec des références croisées
     """
-    api_key = os.environ.get("MAMMOUTH_API_KEY")
+    api_key = os.environ.get("OPENROUTER_API_KEY")
     if not api_key:
-        print("\n  [ERREUR] MAMMOUTH_API_KEY non définie. Phase 2 nécessite l'API.")
+        print("\n  [ERREUR] OPENROUTER_API_KEY non définie. Phase 2 nécessite l'API.")
         print("  Définissez la variable d'environnement et relancez avec --phase2")
         return 0
 
     # Import des fonctions API depuis generate_articles
-    from generate_articles import call_mammouth_api, fix_json_trailing_commas, MODEL_ANALYST
+    from generate_articles import call_openrouter_api, fix_json_trailing_commas, MODEL_ANALYST
 
     personnages = personnages_data["personnages"]
     perso_map = {p["prenom"]: p for p in personnages}
@@ -496,7 +496,7 @@ def phase2_enrich_narrative(personnages_data, matrix):
             "}"
         )
 
-        raw = call_mammouth_api(
+        raw = call_openrouter_api(
             model=MODEL_ANALYST,
             system_prompt=system_prompt,
             user_prompt=user_prompt,
@@ -634,7 +634,7 @@ def phase2_enrich_narrative(personnages_data, matrix):
                 "et en corrigeant le genre si nécessaire. Retourne uniquement le texte réécrit."
             )
 
-            new_intro = call_mammouth_api(
+            new_intro = call_openrouter_api(
                 model=MODEL_ANALYST,
                 system_prompt=system_prompt,
                 user_prompt=user_prompt,

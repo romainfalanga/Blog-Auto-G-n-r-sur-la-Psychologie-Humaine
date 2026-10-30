@@ -10,8 +10,10 @@
     "migrations_dir": "migrations"
   }],
   "vars": {
-    "PUBLIC_ORIGIN": "https://decode-journal.romainfalanga83.workers.dev",
+    "PUBLIC_ORIGIN": "https://decodetonesprit.fr",
+    "OPENROUTER_MODEL": "openai/gpt-5-mini",
     "GITHUB_REPOSITORY": "romainfalanga/Blog-Auto-G-n-r-sur-la-Psychologie-Humaine"
   },
-  "observability": {"enabled": false}
+  "observability": {"enabled": false},
+  "triggers": {"crons": ["*/5 * * * *"]}
 }

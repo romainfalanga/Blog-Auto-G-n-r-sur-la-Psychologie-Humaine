@@ -1,8 +1,6 @@
-name: Journal personnel quotidien
+name: Relance des journaux Cloudflare
 
 on:
-  schedule:
-    - cron: '17 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -17,7 +15,7 @@ jobs:
   generate:
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
-    timeout-minutes: 50
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
         with:
@@ -25,10 +23,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Générer les journaux privés éligibles
+      - name: Relancer les journaux privés éligibles via Cloudflare
         env:
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-          MAMMOUTH_API_KEY: ${{ secrets.MAMMOUTH_API_KEY }}
-          OPENROUTER_MODEL: ${{ vars.JOURNAL_OPENROUTER_MODEL }}
-          JOURNAL_URL: https://decode-journal.romainfalanga83.workers.dev
-        run: python scripts/generate_journals.py
+          JOURNAL_URL: https://decodetonesprit.fr
+        run: python scripts/run_journals.py

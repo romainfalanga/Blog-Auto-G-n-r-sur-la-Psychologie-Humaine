@@ -57,5 +57,10 @@ title = "Décode ton esprit — Comprends-toi grâce à la psychologie"
     name = "Nos Personnages"
     url = "/personnages/"
     weight = 4
+  [[menu.main]]
+    name = "Mon journal"
+    url = "/journal/"
+    weight = 5
+
 
 enableRobotsTXT = true

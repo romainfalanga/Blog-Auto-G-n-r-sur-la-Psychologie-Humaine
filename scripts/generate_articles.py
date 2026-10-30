@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Génère 3 articles de blog quotidiens (1 par catégorie)
-en appelant l'API Mammouth (Gemini pour la suggestion, GPT pour la rédaction)
+en appelant l'API OpenRouter (Gemini pour la suggestion, GPT pour la rédaction)
 et en créant des fichiers Markdown Hugo.
 
 Flux :
@@ -43,11 +43,11 @@ PERSONNAGES_FILE = SCRIPT_DIR / "personnages.json"
 
 sys.path.insert(0, str(SCRIPT_DIR))
 
-MAMMOUTH_API_KEY = os.environ.get("MAMMOUTH_API_KEY")
-API_URL = "https://api.mammouth.ai/v1/chat/completions"
-MODEL_WRITER = "gpt-5-mini"
-MODEL_WRITER_FALLBACK = "gemini-3-flash-preview"
-MODEL_ANALYST = "gemini-3-flash-preview"
+OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
+API_URL = "https://openrouter.ai/api/v1/chat/completions"
+MODEL_WRITER = "openai/gpt-5-mini"
+MODEL_WRITER_FALLBACK = "openai/gpt-5-mini"
+MODEL_ANALYST = "openai/gpt-5-mini"
 SITE_NAME = "Décode ton esprit"
 
 from config import (
@@ -135,7 +135,7 @@ def extract_narrative_summary(content, combo):
         "}"
     )
 
-    raw = call_mammouth_api(
+    raw = call_openrouter_api(
         model=MODEL_ANALYST,
         system_prompt=system_prompt,
         user_prompt=user_prompt,
@@ -858,12 +858,12 @@ def build_personnage_context(perso, matrix=None):
 # GEMINI : SUGGESTION DE SUJETS
 # ============================================
 
-def call_mammouth_api(model, system_prompt, user_prompt, temperature=0.85, max_tokens=4500, retries=3):
-    """Appelle l'API Mammouth avec le modèle spécifié."""
+def call_openrouter_api(model, system_prompt, user_prompt, temperature=0.85, max_tokens=4500, retries=3):
+    """Appelle l'API OpenRouter avec le modèle spécifié."""
     import time
 
     headers = {
-        "Authorization": f"Bearer {MAMMOUTH_API_KEY}",
+        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
         "Content-Type": "application/json"
     }
     data = {
@@ -1336,7 +1336,7 @@ def get_gemini_suggestions(matrix, personnages=None, priority_characters=None):
         )
 
         print("  Appel Gemini (analyse narrative character-first)...")
-        raw_response = call_mammouth_api(
+        raw_response = call_openrouter_api(
             model=MODEL_ANALYST,
             system_prompt=system_prompt,
             user_prompt=user_prompt,
@@ -1388,7 +1388,7 @@ def get_gemini_suggestions(matrix, personnages=None, priority_characters=None):
     system_prompt, user_prompt = build_gemini_prompt(matrix_summary)
 
     print("  Appel Gemini (analyse legacy sujet-first)...")
-    raw_response = call_mammouth_api(
+    raw_response = call_openrouter_api(
         model=MODEL_ANALYST,
         system_prompt=system_prompt,
         user_prompt=user_prompt,
@@ -1689,7 +1689,7 @@ def call_gemini_dash_fix(content):
         f"{content}"
     )
 
-    return call_mammouth_api(
+    return call_openrouter_api(
         model=MODEL_ANALYST,
         system_prompt=system_prompt,
         user_prompt=user_prompt,
@@ -1801,7 +1801,7 @@ def call_gemini_comprehensive_review(content, combo):
         f"Retourne l'article complet corrigé :\n\n{content}"
     )
 
-    return call_mammouth_api(
+    return call_openrouter_api(
         model=MODEL_ANALYST,
         system_prompt=system_prompt,
         user_prompt=user_prompt,
@@ -1932,7 +1932,7 @@ def verify_article_structure(content, combo):
     )
 
     try:
-        fixed = call_mammouth_api(
+        fixed = call_openrouter_api(
             model=MODEL_ANALYST,
             system_prompt=system_prompt,
             user_prompt=user_prompt,
@@ -2170,7 +2170,7 @@ def validate_coherence(content, combo, matrix, personnages):
     print(f"  [Cohérence] Validation de la cohérence narrative pour {prenom}...")
 
     try:
-        enriched = call_mammouth_api(
+        enriched = call_openrouter_api(
             model=MODEL_ANALYST,
             system_prompt=system_prompt,
             user_prompt=user_prompt,
@@ -2252,7 +2252,7 @@ def check_and_update_character_description(perso, content, combo, evolution_text
     )
 
     try:
-        raw = call_mammouth_api(
+        raw = call_openrouter_api(
             model=MODEL_ANALYST,
             system_prompt=system_prompt,
             user_prompt=user_prompt,
@@ -2485,8 +2485,8 @@ def main():
     print(f"GENERATION D'ARTICLES - {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     print(f"{'='*60}\n")
 
-    if not MAMMOUTH_API_KEY:
-        raise ValueError("MAMMOUTH_API_KEY non definie !")
+    if not OPENROUTER_API_KEY:
+        raise ValueError("OPENROUTER_API_KEY non definie !")
 
     category_keys = ["cat1_pensees", "cat2_emotions", "cat3_schemas"]
 
@@ -2664,7 +2664,7 @@ def main():
             attempt_label = f" (tentative {redaction_attempt + 1}/{max_redaction_attempts})" if redaction_attempt > 0 else ""
             print(f"  Appel {active_writer} pour rédaction{attempt_label}...")
             article_prompt = build_article_prompt(combo)
-            raw_response = call_mammouth_api(
+            raw_response = call_openrouter_api(
                 model=active_writer,
                 system_prompt=system_prompt,
                 user_prompt=article_prompt,
@@ -2712,7 +2712,7 @@ def main():
                 for rescue_attempt in range(2):
                     print(f"  [Secours] Rédaction de secours avec {MODEL_WRITER_FALLBACK} (tentative {rescue_attempt + 1}/2)...")
                     article_prompt = build_article_prompt(combo)
-                    raw_response = call_mammouth_api(
+                    raw_response = call_openrouter_api(
                         model=MODEL_WRITER_FALLBACK,
                         system_prompt=system_prompt,
                         user_prompt=article_prompt,

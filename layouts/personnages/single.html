@@ -29,6 +29,12 @@
     {{ .Content }}
   </div>
 
+  <aside class="journal-invitation journal-article-invitation">
+    <h2>Quelque chose de vous dans ce personnage ?</h2>
+    <p>Choisissez les histoires qui résonnent, puis expliquez vos points communs et vos différences. Elles pourront servir de départ à votre propre journal.</p>
+    <a class="journal-cta" href="/journal/?character={{ (.Params.prenom | default .Title) | urlquery }}">Explorer mes points communs</a>
+  </aside>
+
   <div class="perso-back">
     <a href="/personnages/" class="perso-btn-outline">&#8592; Retour aux personnages</a>
   </div>

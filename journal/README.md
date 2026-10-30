@@ -1,51 +1,40 @@
-# Décode ton esprit : journal personnel
+# Journal intégré à Décode ton esprit
 
-Application Cloudflare distincte du blog Hugo existant. Le blog et sa publication de trois articles sont conservés. Le journal propose un personnage inspiré de chaque utilisateur, une fiction quotidienne privée et un retour structuré pour les récits suivants.
+URL utilisateur : https://decodetonesprit.fr/journal/
 
-## Architecture
+Le site original reste sur Netlify. Ses contenus Markdown ne sont pas modifiés. Le Worker Cloudflare sert le journal et son API derrière les réécritures du même domaine; son ancienne page d’accueil workers.dev redirige vers le site original.
 
-- Worker ES modules sans dépendance serveur, D1 dédiée en juridiction européenne.
-- Comptes et sessions privées, profil modifiable, consentement au traitement IA, journal et historique, retours, mémoire déclarée modifiable, export et suppression.
-- Stripe Checkout abonnement mensuel 10 EUR, portail client, webhook signé. Le serveur vérifie le tarif et l'état réel de l'abonnement.
-- GitHub Actions exécute `scripts/generate_journals.py` toutes les heures. Une seule histoire par utilisateur et journée Europe/Paris, pour les comptes éligibles uniquement. Les horaires Actions ne garantissent pas une livraison à la minute.
-- Le workflow s'authentifie auprès du Worker avec GitHub OIDC, borné au dépôt, à main et au fichier exact. Aucune clé d'accès permanente supplémentaire au journal dans GitHub.
-- La clé IA reste dans GitHub Actions. OpenRouter est prioritaire avec `OPENROUTER_API_KEY`; en son absence le secret historique `MAMMOUTH_API_KEY` est utilisé. Le code ancien utilise réellement Mammouth.
+## Configuration
 
-## Adaptation de l'automatisation existante
+- `PUBLIC_ORIGIN=https://decodetonesprit.fr`
+- Secret Cloudflare **OPENROUTER_API_KEY** : unique emplacement de la clé du journal.
+- `OPENROUTER_MODEL=openai/gpt-5-mini` : variable non secrète.
+- Stripe : secrets `STRIPE_SECRET_KEY` et `STRIPE_WEBHOOK_SECRET`, variable `STRIPE_PRICE_ID` correspondant à un prix actif 1000 centimes EUR / mois. Webhook https://decodetonesprit.fr/api/billing/webhook ; événements customer.subscription.*, checkout.session.completed, checkout.session.async_payment_succeeded, invoice.paid et invoice.payment_failed. Activer le portail client pour gérer/résilier.
 
-Le script `generate_articles.py` reste le moteur du blog. Son approche est adaptée au journal : personnage d'abord, scène et angle, rédaction au présent, puis relecture indépendante de cohérence. Le contexte privé remplace les vingt personnages publics et la matrice SEO. Les retours et corrections sont injectés dans les prochains récits. Les scènes fictives ne deviennent jamais des faits biographiques ni une preuve de progrès réel. La mémoire explicite est modifiée uniquement par l'utilisateur. Une synthèse provisoire automatique conserve les déclarations et retours utiles au-delà des vingt retours récents, avec leur provenance ; elle reste visible, rectifiable et effaçable. Il ne s'agit pas d'un entraînement de modèle ni d'un diagnostic.
+L’absence de clé IA ou de Stripe est affichée honnêtement dans le journal. Aucun paiement réel ni génération réelle n’est validé sans ces configurations.
 
-## Mise en service
+## Données et génération
 
-URL prévue : https://decode-journal.romainfalanga83.workers.dev
+`0001.sql` crée les comptes, sessions, abonnements, profils, mémoire, récits et retours. `0002_inspirations.sql` ajoute les choix d’articles privés et `public_examples`, le corpus public canonique.
 
-1. Appliquer `migrations/0001.sql` à la D1 déclarée dans `wrangler.jsonc`.
-2. Déployer `src/worker.mjs` avec son module `ui.mjs`.
-3. Ajouter les secrets Worker `STRIPE_SECRET_KEY` et `STRIPE_WEBHOOK_SECRET`, puis la variable `STRIPE_PRICE_ID` correspondant à un prix Stripe actif à 1000 centimes EUR par mois. Utiliser d'abord un compte/test Stripe et valider tout le parcours avant les paiements réels.
-4. Configurer le webhook vers `/api/billing/webhook` avec les événements indiqués dans le serveur. Activer le portail client Stripe pour la gestion et la résiliation.
-5. Vérifier la présence de `OPENROUTER_API_KEY` dans les secrets Actions. Le nom des secrets référencés dans un workflow ne prouve pas leur présence. Une clé GitHub chiffrée n'est pas récupérable en lecture.
-6. Le modèle par défaut est `openai/gpt-5-mini`. La variable Actions `JOURNAL_OPENROUTER_MODEL` permet de choisir un modèle compatible JSON. Vérifier disponibilité et coût du modèle sur le compte fournisseur.
-7. Déclencher `Journal personnel quotidien` sur main après un abonnement de test, lire puis commenter le récit et contrôler que le prochain tient compte du retour.
+`python scripts/build_examples.py --seed /tmp/decode-examples.json` reconstruit le module de métadonnées `src/examples.mjs` et exporte les textes publics à charger dans D1 par INSERT ... ON CONFLICT UPDATE. Le JSON d’export est temporaire; les sources de vérité restent les articles du dépôt. Ne jamais reconstruire les pages publiques à partir des données privées.
 
-Sans configuration Stripe, l'inscription et le profil fonctionnent mais aucun abonnement ni génération payante n'est prétendu actif. Le client indique l'indisponibilité du paiement. Aucun accès payant n'est activé à partir d'une simple URL de retour Checkout.
+Le lecteur peut retenir jusqu’à trois articles. Les raisons et différences sont enregistrées et envoyées au générateur avec les extraits canoniques. Une sélection ne vaut ni diagnostic ni déclaration que l’utilisateur a vécu les événements du personnage. Les corrections utilisateur priment sur les anciennes hypothèses.
 
-## Confidentialité et limites
+Quatre étapes OpenRouter : cadrage à partir du personnage et des inspirations, rédaction, relecture indépendante, synthèse provisoire de la compréhension de l’utilisateur. La synthèse ne reçoit pas les récits fictifs et reste distincte de la mémoire validée/modifiable. Les textes et clés ne sont pas journalisés.
 
-Les profils et retours sont transmis au fournisseur IA choisi uniquement après consentement. La base est européenne; cela ne constitue pas une garantie de localisation européenne des traitements IA ou des runners GitHub. Les données privées ne sont jamais committées, ajoutées en artefact ou imprimées dans les logs du workflow. Les métadonnées de facturation restent chez Stripe et ne sont pas incluses dans les prompts.
+Le Cron Cloudflare `*/5 * * * *` réserve jusqu’à trois utilisateurs, puis traite leurs récits en parallèle. Une histoire maximum par jour et utilisateur, trois essais maximum, contrôle des versions du contexte, de l’abonnement et du consentement à la publication. Une inspiration sauvegardée est obligatoire; catalogue manquant bloque la génération plutôt que produire un texte générique. Les appels IA ont des délais bornés pour rester dans la durée autorisée d’un Cron Cloudflare.
 
-La limite initiale est de dix travaux par exécution horaire, réservés un par un avec un bail de trente minutes ; trois tentatives au maximum par journée. L’exécution cesse de réserver de nouveaux travaux après trente minutes. C'est une limite d'exploitation à surveiller avant croissance du service, pas une promesse de capacité illimitée. Les frais IA, Stripe et Cloudflare ne sont pas inclus dans les 10 EUR comme coûts garantis : le prix demandé est le tarif client.
+## Publication
 
-## Vérification
+1. Appliquer les migrations D1 sans supprimer les données.
+2. Charger les 231 corps publics canoniques dans public_examples.
+3. Déployer les modules worker.mjs, generator.mjs, ui.mjs et examples.mjs avec DB et variables déclarées dans wrangler.jsonc; préserver les secrets existants.
+4. Activer le Cron Cloudflare.
+5. Publier les modifications Hugo/netlify.toml sur main du dépôt existant, attendre Netlify, vérifier les routes du domaine.
 
-```sh
-cd journal
-npm run check
-npm test
-python -m unittest discover -s tests -p 'test_*.py'
-```
+## Vérification et limites
 
-Les tests locaux ne remplacent pas la recette Stripe de bout en bout et une exécution IA réelle avec les secrets du compte.
+17 tests automatisés backend/génération passent : isolation des comptes et inspirations, validation du catalogue, mémoire sans fiction, baux et invalidation du contexte, conditions d’éligibilité, erreurs fournisseurs, Checkout et suppression. Hugo compile le site original avec le journal. Aucun article ni personnage Markdown n’est supprimé ou réécrit.
 
-## État de livraison
-
-Worker et D1 publiés le 30 octobre 2026. 7 tests backend et 6 tests de génération passent. Recette sur le Worker publié : inscription, session, sauvegarde du profil et de la mémoire, export, paiement désactivé sans Stripe et suppression du compte de test réussis. Stripe n’est pas encore configuré ; aucun paiement réel ni génération réelle par fournisseur n’a été validé. Le modèle OpenRouter par défaut apparaît dans le catalogue public et accepte `response_format`. La récupération de mot de passe par e-mail n’est pas implémentée dans cette première version.
+Stripe et la génération OpenRouter réelle restent à valider après configuration. Les frais fournisseur ne sont pas garantis par le tarif client de 10 EUR. La base D1 est européenne; cela ne garantit pas le lieu de traitement du fournisseur IA. La récupération de mot de passe par e-mail reste à ajouter avant une ouverture commerciale complète.
