@@ -1,0 +1,17 @@
+{
+  "name": "decode-journal",
+  "main": "src/worker.mjs",
+  "compatibility_date": "2026-10-01",
+  "workers_dev": true,
+  "d1_databases": [{
+    "binding": "DB",
+    "database_name": "decode-journal",
+    "database_id": "48105411-3581-4d6f-af3f-5bc86636e9dd",
+    "migrations_dir": "migrations"
+  }],
+  "vars": {
+    "PUBLIC_ORIGIN": "https://decode-journal.romainfalanga83.workers.dev",
+    "GITHUB_REPOSITORY": "romainfalanga/Blog-Auto-G-n-r-sur-la-Psychologie-Humaine"
+  },
+  "observability": {"enabled": false}
+}
