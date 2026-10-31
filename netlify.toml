@@ -13,11 +13,12 @@
   status = 301
   force = true
 
-# Headers de sécurité globaux
+# Netlify normalise les slashs : une redirection /journal -> /journal/
+# renvoie aussi /journal/ vers lui-même. Les deux formes sont donc proxifiées.
 [[redirects]]
   from = "/journal"
-  to = "/journal/"
-  status = 301
+  to = "https://decode-journal.romainfalanga83.workers.dev/journal/"
+  status = 200
   force = true
 
 # Le journal fait partie du site existant. Cloudflare ne sert que son backend.
