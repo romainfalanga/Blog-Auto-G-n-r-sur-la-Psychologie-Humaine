@@ -259,7 +259,7 @@ export async function proxyJobLLM(env,id,data) {
   const counter=await first(env,`UPDATE journal_jobs SET provider_calls=provider_calls+1 WHERE id=? AND provider_calls<20 AND ${jobGuard} RETURNING provider_calls`,id,...jobArgs(id,data.lease_token));
   if(!counter) error(429,'Limite de génération atteinte ou contexte expiré.');
   let response;
-  try {response=await fetch('https://openrouter.ai/api/v1/chat/completions',{method:'POST',headers:{'Authorization':`Bearer ${env.OPENROUTER_API_KEY}`,'Content-Type':'application/json','HTTP-Referer':'https://decodetonesprit.fr','X-Title':'Decode ton esprit'},body:JSON.stringify({model,messages:[{role:'system',content:system},{role:'user',content:prompt}],temperature:0.75,reasoning:{effort:'low'},max_tokens:maxTokens}),signal:AbortSignal.timeout(75000)});} catch {error(502,'provider_error');}
+  try {response=await fetch('https://openrouter.ai/api/v1/chat/completions',{method:'POST',headers:{'Authorization':`Bearer ${env.OPENROUTER_API_KEY}`,'Content-Type':'application/json','HTTP-Referer':'https://decodetonesprit.fr','X-Title':'Decode ton esprit'},body:JSON.stringify({model,messages:[{role:'system',content:system},{role:'user',content:prompt}],temperature:0.75,reasoning:{effort:'low'},max_tokens:maxTokens}),signal:AbortSignal.timeout(180000)});} catch {error(502,'provider_error');}
   if(!response.ok) error(502,'provider_error');
   let result;try {result=await response.json();} catch {error(502,'provider_error');}
   const content=result?.choices?.[0]?.message?.content;
@@ -336,7 +336,7 @@ async function routes(request,env) {
   if(likeMatch&&method==='PUT') {
     let articleId;try {articleId=decodeURIComponent(likeMatch[1]);} catch {error(400,'Identifiant d’article invalide.');}
     if(!catalog.has(articleId)) error(404,'Article introuvable.');
-    const data=await body(request,6000);if(typeof data.liked!=='boolean') error(400,'Indiquez votre choix pour cet article.');
+    const data=await body(request,32000);if(typeof data.liked!=='boolean') error(400,'Indiquez votre choix pour cet article.');
     if(data.reason!==undefined) text(data.reason,4000);
     if(data.liked) {
       if(data.reason===undefined) await run(env,'INSERT OR IGNORE INTO article_likes(user_id,article_id) VALUES(?,?)',user.id,articleId);
@@ -374,7 +374,7 @@ async function routes(request,env) {
     const story=await first(env,'SELECT * FROM stories WHERE id=? AND user_id=?',storyMatch[1],user.id); if(!story) error(404,'Histoire introuvable.');
     if(!storyMatch[2]&&method==='GET') return json({story:{...story,reflection_questions:parse(story.reflection_questions,[])},feedback:await first(env,'SELECT resonance,feelings,why,correction FROM feedback WHERE story_id=? AND user_id=?',story.id,user.id)});
     if(storyMatch[2]&&method==='PUT') {
-      const data=await body(request,15000); if(!Number.isInteger(data.resonance)||data.resonance<1||data.resonance>5) error(400,'Choisissez une note de 1 à 5.');
+      const data=await body(request,60000); if(!Number.isInteger(data.resonance)||data.resonance<1||data.resonance>5) error(400,'Choisissez une note de 1 à 5.');
       const feelings=text(data.feelings||'',3000),why=text(data.why||'',4000),correction=text(data.correction||'',4000);
       await env.DB.batch([env.DB.prepare('INSERT INTO feedback(story_id,user_id,resonance,feelings,why,correction) VALUES(?,?,?,?,?,?) ON CONFLICT(story_id) DO UPDATE SET resonance=excluded.resonance,feelings=excluded.feelings,why=excluded.why,correction=excluded.correction,updated_at=CURRENT_TIMESTAMP').bind(story.id,user.id,data.resonance,feelings,why,correction),env.DB.prepare('UPDATE profiles SET version=version+1 WHERE user_id=?').bind(user.id)]);
       return json({ok:true,source_version:(await first(env,'SELECT version FROM profiles WHERE user_id=?',user.id)).version});

@@ -170,3 +170,10 @@ test('internal endpoints verify a real RSA GitHub OIDC signature and reject forg
   r=await call(signing+'.'+(signature[0]==='A'?'B':'A')+signature.slice(1));assert.equal(r.status,401);
  } finally {globalThis.fetch=originalFetch;}
 });
+
+
+test('four thousand accented characters fit the documented optional reason with real UTF-8 content length',async()=>{
+ const env={DB:database()}; const a=await register(env,'unicode@example.com'); const payload=JSON.stringify({liked:true,reason:'é'.repeat(4000)});
+ const response=await worker.fetch(new Request(origin+'/api/likes/'+encodeURIComponent(examples[0].id),{method:'PUT',headers:{'Content-Type':'application/json','Content-Length':String(Buffer.byteLength(payload)),'Origin':origin,'Cookie':a.cookie},body:payload}),env);
+ assert.equal(response.status,200);assert.equal((await response.json()).likes[0].reason.length,4000);
+});
