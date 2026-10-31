@@ -4,8 +4,8 @@
   <p class="tagline">Les personnages de nos histoires traversent des situations que vous connaissez peut-être : une pensée piégée par un biais cognitif, une émotion difficile à apprivoiser, un schéma qui se répète sans qu'on comprenne pourquoi. À travers ces histoires concrètes, nous explorons ensemble les mécanismes qui influencent vos pensées, les émotions qui guident vos choix, et les schémas répétitifs qui façonnent vos relations. La psychologie devient ainsi plus facile à comprendre, plus mémorable, et surtout plus utile au quotidien.</p>
   <div class="journal-invitation" role="note">
     <h2>Et si le prochain personnage, c’était vous ?</h2>
-    <p>Parmi les {{ len (where .Site.RegularPages "Section" "posts") }} articles du site, choisissez les histoires qui vous parlent. Expliquez ce qui vous ressemble et ce qui vous distingue du personnage pour préparer votre journal personnel.</p>
-    <p>Une histoire fictive chaque jour, inspirée de votre quotidien, puis votre retour pour affiner les suivantes. Le journal personnel est proposé à 10 € par mois ; les articles du site restent accessibles librement.</p>
+    <p>Parmi les {{ len (where .Site.RegularPages "Section" "posts") }} articles du site, choisissez les histoires qui vous parlent. Aimez celles dans lesquelles vous vous retrouvez et ajoutez une explication si vous le souhaitez. Vos lectures prépareront votre portrait et vos histoires sur mesure.</p>
+    <p>Après une dizaine d’articles aimés et votre abonnement, recevez une histoire fictive chaque jour. Vos nouveaux choix et vos retours affineront les suivantes. Le journal personnel est proposé à 10 € par mois ; les articles du site restent accessibles librement.</p>
     <a class="journal-cta" href="/journal/">Préparer mon journal personnel</a>
   </div>
 </section>
@@ -20,6 +20,8 @@
           {{ range first 3 .Pages }}
           <article class="article-card reveal-card">
             <h3 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            {{ partial "reading-cues.html" . }}
+            {{ partial "article-like.html" (dict "page" . "full" false) }}
             <div class="card-footer">
               <div class="card-meta">
                 <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>

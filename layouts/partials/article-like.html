@@ -1,0 +1,18 @@
+{{- $page := .page -}}
+{{- if and $page.File (eq $page.Section "posts") -}}
+{{- $id := strings.TrimSuffix ".md" $page.File.Path -}}
+<div class="article-affinity{{ if .full }} article-affinity-full{{ end }}" data-affinity-widget data-article-id="{{ $id }}">
+  <div class="affinity-actions">
+    <button type="button" class="article-like-button" data-like-article="{{ $id }}" aria-pressed="false"><span aria-hidden="true">♡</span> Ça me parle</button>
+    {{- if .full }}<a class="affinity-collection-link" href="/journal/">Mes articles aimés</a>{{ end }}
+  </div>
+  {{- if .full }}
+  <p class="affinity-hint">Ajoutez cette histoire à vos articles aimés. Vous pouvez préciser ce qui vous touche, si vous le souhaitez.</p>
+  <div class="affinity-note" data-affinity-note hidden>
+    <label>Ce dans quoi je me retrouve <span>(facultatif)</span><textarea data-like-reason maxlength="4000" rows="3" placeholder="Une réaction, une émotion, une situation… ou ce qui ne vous ressemble pas."></textarea></label>
+    <button type="button" class="affinity-save" data-save-like-reason>Enregistrer mon explication</button>
+  </div>
+  {{- end }}
+  <p class="affinity-status" data-affinity-status role="status" aria-live="polite"></p>
+</div>
+{{- end -}}

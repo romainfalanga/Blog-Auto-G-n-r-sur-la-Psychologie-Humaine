@@ -12,14 +12,18 @@
   <h2>Articles dans la même catégorie</h2>
   <div class="related-list">
     {{ range $related }}
-    <a href="{{ .RelPermalink }}" class="related-item">
+    <article class="related-item">
+      <a href="{{ .RelPermalink }}" class="related-title-link">
       <span class="related-title">{{ .Title }}</span>
       <span class="related-meta">
         <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
         <span class="meta-sep">&middot;</span>
         <span>{{ if .Params.readingTime }}{{ .Params.readingTime }}{{ else }}{{ math.Round (div (float .WordCount) 250.0) }}{{ end }} min</span>
       </span>
-    </a>
+      </a>
+      {{ partial "reading-cues.html" . }}
+      {{ partial "article-like.html" (dict "page" . "full" false) }}
+    </article>
     {{ end }}
   </div>
 </section>

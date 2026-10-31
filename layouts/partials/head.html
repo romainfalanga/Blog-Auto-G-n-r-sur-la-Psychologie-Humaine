@@ -68,7 +68,8 @@
 <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "feed.xml" | absURL }}">
 
 {{/* ── CSS ── */}}
-<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="/css/style.css?v={{ readFile "static/css/style.css" | md5 }}">
+<script defer src="/js/article-likes.js?v={{ readFile "static/js/article-likes.js" | md5 }}"></script>
 
 {{/* ── Schema.org WebSite (pour Sitelinks Search Box Google) ── */}}
 {{- if .IsHome }}

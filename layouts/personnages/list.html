@@ -5,9 +5,16 @@
     <p class="personnages-subtitle">{{ .Description }}</p>
   </div>
 
+  <p class="keyword-explainer">Repérez les émotions et les façons de réagir qui vous parlent. Ces mots-clés décrivent les personnages fictifs et les thèmes de leurs histoires.</p>
+  <div class="character-filters">
+    <div><label for="character-search">Rechercher un personnage ou un thème</label><input type="search" id="character-search" placeholder="Perfectionnisme, solitude, confiance…"></div>
+    <div><label for="character-keyword">Un repère en particulier</label><select id="character-keyword"><option value="">Tous les repères</option>{{ $keywords := slice }}{{ range .Site.Data.character_keywords }}{{ range .keywords }}{{ $keywords = $keywords | append . }}{{ end }}{{ end }}{{ range sort (uniq $keywords) }}<option value="{{ . }}">{{ . }}</option>{{ end }}</select></div>
+  </div>
+  <p id="character-count" class="keyword-explainer" role="status">{{ len .Pages }} personnages à explorer</p>
   <div class="perso-grid">
     {{ range .Pages }}
-    <div class="perso-card reveal-card">
+    {{ $cues := index .Site.Data.character_keywords ((.Params.prenom | default .Title) | lower) }}
+    <div class="perso-card reveal-card" data-character-search="{{ .Title }} {{ .Description }} {{ with $cues }}{{ delimit .keywords " " }}{{ end }}">
       <div class="perso-card-top">
         {{- $prenom := .Params.prenom | default .Title }}
         {{- if .Params.date_naissance }}
@@ -24,6 +31,7 @@
         {{- end }}
       </div>
       <p class="perso-bio">{{ .Description }}</p>
+      {{ partial "character-cues.html" . }}
       <a href="{{ .RelPermalink }}" class="perso-btn">Voir le parcours</a>
     </div>
     {{ end }}

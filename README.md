@@ -1,41 +1,31 @@
 # Décode ton esprit
 
-Le site existant https://decodetonesprit.fr conserve ses 231 articles, ses 20 personnages, ses catégories et ses adresses. Il évolue avec un journal personnel accessible sur `/journal/`, intégré à la même navigation et au même domaine.
+Site existant : https://decodetonesprit.fr ; journal privé : https://decodetonesprit.fr/journal/.
+
+Les 231 articles et 20 personnages d’origine sont conservés. Des mots-clés tirés de leurs caractéristiques et thèmes facilitent la découverte sur les personnages, l’accueil, les catégories, les suggestions et les articles.
 
 ## Parcours
 
-Le lecteur choisit jusqu’à trois articles qui lui parlent, explique pourquoi et précise les différences avec le personnage. Il renseigne son propre profil. Les abonnés disposent d’une histoire fictive quotidienne adaptée à leurs déclarations et à leurs retours. Le personnage public est une inspiration, jamais une biographie attribuée au lecteur.
+Le lecteur aime les articles qui lui parlent. Il peut expliquer pourquoi, mais ce commentaire reste facultatif. Sa collection n’a plus de limite de trois articles. À partir de dix articles aimés et de son consentement, il peut prendre l’abonnement à 10 EUR par mois. Aucun questionnaire biographique, prénom réel, âge ou métier n’est demandé.
 
-## Hébergement
+L’IA construit un portrait de lecture hypothétique avec axes, sources et incertitudes. Elle choisit un personnage fictif dont l’identité reste stable. Chez les abonnés, chaque nouveau like, retrait, explication ou retour sur une histoire personnelle invalide le portrait antérieur. La prochaine génération attend la réanalyse du contexte courant. Une réponse « Non » est aussi prise en compte. Les récits fictifs ne deviennent jamais une biographie réelle.
 
-- Netlify : site Hugo existant, articles, personnages, ressources et domaine.
-- Cloudflare Worker `decode-journal` : comptes, API privée, génération OpenRouter et facturation.
-- D1 européenne `decode-journal` : données privées et catalogue public de référence séparé.
-- Netlify transmet `/journal/*` et `/api/*` au Worker par réécriture 200 : l’utilisateur reste sur `decodetonesprit.fr`.
+## Automatisation historique réutilisée
 
-## Clé IA : un seul emplacement
+Le workflow original `.github/workflows/generate-articles.yml` est restauré. Il traite les révisions de portraits et les récits privés toutes les quinze minutes (avec déclenchement manuel et sur modification du pipeline). La base limite chaque utilisateur à une histoire par journée Europe/Paris.
 
-Cloudflare → Workers & Pages → `decode-journal` → Settings → Variables and Secrets → Add → **Secret**.
+`scripts/generate_personal_articles.py` importe le générateur original `scripts/generate_articles.py`. Il réutilise ses fonctions de cadrage, prompts, parsing, validation, relecture, cohérence, structure et extraction du résumé. Aucun texte privé n’est écrit dans les articles publics, les commits, les logs ou les artefacts GitHub.
 
-Nom exact : `OPENROUTER_API_KEY`.
+La clé **OPENROUTER_API_KEY reste un secret Cloudflare**, dans le Worker `decode-journal`. GitHub Actions s’authentifie avec OIDC et utilise une passerelle OpenRouter limitée aux tâches payées et autorisées. Aucune clé IA n’est à ajouter dans GitHub ni Netlify. L’ancien Cron Cloudflare et le workflow de remplacement `journal-daily.yml` sont retirés pour éviter deux orchestrations concurrentes.
 
-Enregistrer puis déployer. Ne pas la placer dans Netlify, le navigateur, GitHub ou un fichier du dépôt. Le journal utilise uniquement OpenRouter, sans fournisseur de secours. La variable non secrète `OPENROUTER_MODEL` vaut `openai/gpt-5-mini` et peut être modifiée.
+## Hébergement et vérification
 
-## Automatisation
-
-Un Cron Cloudflare toutes les cinq minutes sélectionne au maximum trois abonnés éligibles. Chaque compte reçoit au maximum un récit par journée Europe/Paris. Il faut un personnage renseigné, le consentement IA, au moins une inspiration enregistrée et un abonnement actif. Sans clé IA, aucun travail n’est réservé.
-
-La publication automatique historique de trois nouveaux articles publics est arrêtée : les articles existants constituent désormais le fonds d’exemples. Le générateur historique Python reste conservé et a été converti à OpenRouter pour un éventuel usage manuel par un développeur; il n’est plus exécuté par le site. Le workflow GitHub « Relance des journaux Cloudflare » est uniquement un déclencheur manuel authentifié, sans clé IA ni donnée personnelle dans ses logs.
-
-## Développement
+Netlify conserve Hugo, les articles et le domaine. Les routes `/journal/*` et `/api/*` sont transmises au backend Cloudflare sur le même domaine. D1 conserve comptes, likes, portraits, versions et récits privés.
 
 ```sh
 hugo --minify
-cd journal
-npm test
-npm run check
+node --test journal/tests/backend.test.mjs
+python -m unittest discover -s journal/tests -p 'test_personal_pipeline.py'
 ```
 
-Hugo 0.140.0 ; Node 24 pour les tests SQLite ; Python et PyYAML pour reconstruire le catalogue : `python scripts/build_examples.py --seed /tmp/decode-examples.json`.
-
-Voir `journal/README.md` pour les migrations, la publication et la configuration Stripe.
+La compilation Hugo, 18 tests backend et 6 tests Python passent. Le test de volume couvre les 231 articles avec de longues explications, sans perte des sources. Voir `journal/README.md` et `docs/evolution-par-articles-aimes.md` pour la mise en service et les validations réelles.

@@ -1,42 +1,39 @@
-# Journal intégré à Décode ton esprit
+# Journal fondé sur les articles aimés
 
-URL utilisateur : https://decodetonesprit.fr/journal/
+URL : https://decodetonesprit.fr/journal/.
 
-Le site original reste sur Netlify. Ses contenus Markdown ne sont pas modifiés. Le Worker Cloudflare sert le journal et son API derrière les réécritures du même domaine; son ancienne page d’accueil workers.dev redirige vers le site original.
+## Données et migrations
 
-## Configuration
+Appliquer 0001.sql, 0002_inspirations.sql et 0003_likes_portraits.sql. La troisième migration importe les choix antérieurs sans supprimer leurs explications ni les tables d’origine. Les likes n’ont plus de plafond de trois. Un like ou une modification réelle d’explication incrémente la version des sources; les écritures identiques ne déclenchent pas d’analyse inutile.
 
-- `PUBLIC_ORIGIN=https://decodetonesprit.fr`
-- Secret Cloudflare **OPENROUTER_API_KEY** : unique emplacement de la clé du journal.
-- `OPENROUTER_MODEL=openai/gpt-5-mini` : variable non secrète.
-- Stripe : secrets `STRIPE_SECRET_KEY` et `STRIPE_WEBHOOK_SECRET`, variable `STRIPE_PRICE_ID` correspondant à un prix actif 1000 centimes EUR / mois. Webhook https://decodetonesprit.fr/api/billing/webhook ; événements customer.subscription.*, checkout.session.completed, checkout.session.async_payment_succeeded, invoice.paid et invoice.payment_failed. Activer le portail client pour gérer/résilier.
+Le seuil de souscription est dix articles aimés et le consentement IA. Le motif reste facultatif. Un abonné qui retire ensuite un article continue avec sa collection courante dès qu’elle n’est pas vide. À zéro article, les nouvelles analyses et histoires sont suspendues.
 
-L’absence de clé IA ou de Stripe est affichée honnêtement dans le journal. Aucun paiement réel ni génération réelle n’est validé sans ces configurations.
+Les portraits sont hypothétiques, sourcés par les articles aimés et les retours sur les histoires privées. Les versions protègent chaque appel fournisseur et chaque publication : un portrait ou un récit commencé avant une correction ne peut pas être publié comme actuel. Le personnage fictif conserve son prénom lors des réanalyses. Les nouveaux épisodes ne modifient pas automatiquement le portrait réel ; seul un retour de l’utilisateur apporte une nouvelle source.
 
-## Données et génération
+## Génération historique GitHub Actions
 
-`0001.sql` crée les comptes, sessions, abonnements, profils, mémoire, récits et retours. `0002_inspirations.sql` ajoute les choix d’articles privés et `public_examples`, le corpus public canonique.
+Le workflow original generate-articles.yml appelle scripts/run_journals.py, qui traite d’abord les portraits obsolètes, puis les histoires des portraits courants. Le pipeline importe réellement generate_articles.py et ses fonctions build_system_prompt, build_article_prompt, parse_article_response, validate_article, gemini_comprehensive_review, validate_coherence, verify_article_structure, _strip_bold et extract_narrative_summary.
 
-`python scripts/build_examples.py --seed /tmp/decode-examples.json` reconstruit le module de métadonnées `src/examples.mjs` et exporte les textes publics à charger dans D1 par INSERT ... ON CONFLICT UPDATE. Le JSON d’export est temporaire; les sources de vérité restent les articles du dépôt. Ne jamais reconstruire les pages publiques à partir des données privées.
+Le transport de ces fonctions est adapté par une passerelle OIDC dans le Worker. OPENROUTER_API_KEY reste un secret Cloudflare; aucun secret IA permanent dans GitHub. Seul le dépôt exact, main, le workflow exact et les événements attendus sont acceptés, avec signature RSA vérifiée. Chaque appel doit porter le bail du travail, rester dans les versions, le consentement et l’abonnement autorisés. Budget de vingt appels fournisseur par travail, délai de 75 secondes par appel. Le runner cesse de réserver de nouveaux travaux après vingt minutes, afin que le dernier reste dans son bail de trente minutes et la limite globale de cinquante minutes.
 
-Le lecteur peut retenir jusqu’à trois articles. Les raisons et différences sont enregistrées et envoyées au générateur avec les extraits canoniques. Une sélection ne vaut ni diagnostic ni déclaration que l’utilisateur a vécu les événements du personnage. Les corrections utilisateur priment sur les anciennes hypothèses.
-
-Quatre étapes OpenRouter : cadrage à partir du personnage et des inspirations, rédaction, relecture indépendante, synthèse provisoire de la compréhension de l’utilisateur. La synthèse ne reçoit pas les récits fictifs et reste distincte de la mémoire validée/modifiable. Les textes et clés ne sont pas journalisés.
-
-Le Cron Cloudflare `*/5 * * * *` réserve jusqu’à trois utilisateurs, puis traite leurs récits en parallèle. Une histoire maximum par jour et utilisateur, trois essais maximum, contrôle des versions du contexte, de l’abonnement et du consentement à la publication. Une inspiration sauvegardée est obligatoire; catalogue manquant bloque la génération plutôt que produire un texte générique. Les appels IA ont des délais bornés pour rester dans la durée autorisée d’un Cron Cloudflare.
+Une histoire maximum par utilisateur et journée Europe/Paris. Les réanalyses interviennent au passage suivant du workflow, avec regroupement possible des changements rapprochés. Après épuisement des essais d’un portrait, reprise automatique au bout de 24 heures; retry_after est visible dans l’interface. GitHub peut retarder une exécution planifiée; aucune promesse de livraison à la minute.
 
 ## Publication
 
-1. Appliquer les migrations D1 sans supprimer les données.
-2. Charger les 231 corps publics canoniques dans public_examples.
-3. Déployer les modules worker.mjs, generator.mjs, ui.mjs et examples.mjs avec DB et variables déclarées dans wrangler.jsonc; préserver les secrets existants.
-4. Activer le Cron Cloudflare.
-5. Publier les modifications Hugo/netlify.toml sur main du dépôt existant, attendre Netlify, vérifier les routes du domaine.
+1. Appliquer la migration0003 à la D1 existante sans effacer les données.
+2. Déployer worker.mjs, ui.mjs et examples.mjs en conservant les secrets existants.
+3. Retirer le Cron Cloudflare; publier les fichiers du workflow original et supprimer journal-daily.yml.
+4. Publier Hugo et ses nouveaux fichiers data/partials/static/js. Conserver la correction de réécriture /journal dans netlify.toml.
+5. Contrôler un compte de recette, les likes, les portraits, le workflow et un récit réel.
 
-## Vérification et limites
+Les textes canoniques publics sont déjà dans public_examples. scripts/build_examples.py reconstruit les métadonnées, mots-clés et l’export public si de nouveaux articles sont ajoutés.
 
-18 tests automatisés backend/génération passent : isolation des comptes et inspirations, validation du catalogue, mémoire sans fiction, baux et invalidation du contexte, conditions d’éligibilité, erreurs fournisseurs, Checkout et suppression. Hugo compile le site original avec le journal. Aucun article ni personnage Markdown n’est supprimé ou réécrit.
+## Paiement et limites
 
-Stripe et la génération OpenRouter réelle restent à valider après configuration. Les frais fournisseur ne sont pas garantis par le tarif client de 10 EUR. La base D1 est européenne; cela ne garantit pas le lieu de traitement du fournisseur IA. La récupération de mot de passe par e-mail reste à ajouter avant une ouverture commerciale complète.
+Stripe attend ses secrets STRIPE_SECRET_KEY et STRIPE_WEBHOOK_SECRET et le prix STRIPE_PRICE_ID (1000 centimes EUR mensuels). Sans cette configuration, les comptes et collections fonctionnent et le paiement reste honnêtement indisponible. Le webhook est /api/billing/webhook. La récupération du mot de passe par email reste à ajouter avant ouverture commerciale complète.
 
-Recette sur le domaine existant : API et 231 références disponibles, inscription, cookie de session sécurisé transmis par Netlify, choix d’article avec identifiant accentué, raison et différences enregistrés, compteur de préparation, profil, export et verrouillage du paiement avant configuration vérifiés. Le contrôle visuel a confirmé l’accueil et le bouton sur un article ; le navigateur de contrôle a refusé la navigation du lien paramétré, donc le parcours de formulaire complet n’a pas été validé visuellement.
+La base est européenne. Les données soumises au fournisseur IA ou temporairement traitées dans GitHub Actions ne sont pas garanties hébergées en Europe. Les prompts, textes, identifiants de connexion et clé IA ne sont jamais inscrits dans des fichiers publics ni des logs. Les frais des fournisseurs restent distincts du tarif client.
+
+## Tests
+
+18 tests backend et 6 tests Python passent : migration, collection, seuil, absence de questionnaire, isolation, versions concurrentes, preuve privée, consentement, souscription, quota et signature OIDC réelle. Le volume maximal des 231 articles avec raisons et différences longues est couvert. La compilation Hugo conserve les adresses et le texte source des articles et personnages.

@@ -1,6 +1,5 @@
 import { HTML } from './ui.mjs';
 import { EXAMPLES } from './examples.mjs';
-import { generateJournal } from './generator.mjs';
 
 const encoder = new TextEncoder();
 const COOKIE = '__Host-dte_session';
@@ -103,7 +102,7 @@ async function webhook(request,env) {
 let jwksCache;
 const decode64=s=>Uint8Array.from(atob(s.replace(/-/g,'+').replace(/_/g,'/')),c=>c.charCodeAt(0));
 export function validateClaims(claims,repository=REPOSITORY,at=now()) {
-  return claims.iss===ISSUER && claims.aud==='decode-ton-esprit-journal' && claims.repository===repository && claims.ref==='refs/heads/main' && claims.workflow_ref===`${repository}/.github/workflows/journal-daily.yml@refs/heads/main` && ['schedule','workflow_dispatch'].includes(claims.event_name) && Number(claims.exp)>at && Number(claims.iat)<=at+30 && Number(claims.nbf||0)<=at+30 && Number(claims.exp)-Number(claims.iat)<=900;
+  return claims.iss===ISSUER && claims.aud==='decode-ton-esprit-journal' && claims.repository===repository && claims.ref==='refs/heads/main' && claims.workflow_ref===`${repository}/.github/workflows/generate-articles.yml@refs/heads/main` && ['schedule','workflow_dispatch','push'].includes(claims.event_name) && Number(claims.exp)>at && Number(claims.iat)<=at+30 && Number(claims.nbf||0)<=at+30 && Number(claims.exp)-Number(claims.iat)<=900;
 }
 async function githubIdentity(request,env) {
   const token=request.headers.get('authorization')?.match(/^Bearer ([A-Za-z0-9._-]+)$/)?.[1];
@@ -121,103 +120,172 @@ async function githubIdentity(request,env) {
   return claims;
 }
 const frenchDay=()=>new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Paris',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
-export async function claimJobs(env) {
-  const day=frenchDay(),t=now();
-  const candidates=await all(env,`SELECT u.id FROM users u JOIN subscriptions s ON s.user_id=u.id JOIN profiles p ON p.user_id=u.id WHERE s.status='active' AND s.paid_until>? AND p.consent_ai=1 AND EXISTS(SELECT 1 FROM inspiration_selections i WHERE i.user_id=u.id) AND length(json_extract(p.data,'$.display_name'))>0 AND NOT EXISTS(SELECT 1 FROM stories WHERE user_id=u.id AND day=?) AND NOT EXISTS(SELECT 1 FROM generation_jobs j WHERE j.user_id=u.id AND j.day=? AND (j.attempts>=3 OR j.status='complete' OR j.lease_until>?)) ORDER BY u.created_at LIMIT 1`,t,day,day,t);
-  const jobs=[];
-  let blocked=0;
-  for(const u of candidates) {
-    await run(env,'INSERT OR IGNORE INTO generation_jobs(id,user_id,day) VALUES(?,?,?)',random(),u.id,day);
-    const p=await first(env,'SELECT * FROM profiles WHERE user_id=?',u.id),m=await first(env,'SELECT * FROM memories WHERE user_id=?',u.id);
-    let inspirations;
-    try {inspirations=await inspirationsFor(env,u.id);} catch(e) {
-      if(e?.code!=='catalog_missing') throw e;
-      await run(env,"UPDATE generation_jobs SET error_code='catalog_missing',lease_until=? WHERE user_id=? AND day=? AND status!='complete' AND lease_until<=?",t+300,u.id,day,t);
-      blocked++; continue;
-    }
-    const lease=random()+random();
-    const j=await first(env,`UPDATE generation_jobs SET status='running',attempts=attempts+1,lease_token=?,lease_until=?,profile_version=?,memory_version=?,error_code=NULL WHERE user_id=? AND day=? AND status!='complete' AND lease_until<=? AND attempts<3 RETURNING id`,lease,t+1800,p.version,m.version,u.id,day,t);
-    if(!j) continue;
-    const history=await all(env,'SELECT day,title,summary FROM stories WHERE user_id=? ORDER BY day DESC LIMIT 20',u.id);
-    const feedback=await all(env,'SELECT s.day,s.title,f.resonance,f.feelings,f.why,f.correction,f.updated_at FROM feedback f JOIN stories s ON s.id=f.story_id WHERE f.user_id=? ORDER BY f.updated_at DESC,s.day DESC LIMIT 20',u.id);
-    jobs.push({id:j.id,user_id:u.id,day,lease_token:lease,profile:parse(p.data),profile_version:p.version,memory:{text:m.text,proposal:m.proposal,version:m.version},history:history.reverse(),feedback:feedback.reverse(),inspirations});
-  }
-  return json({jobs,...(blocked?{blocked}:{} )});
-}
-async function inspirationsFor(env,userId) {
-  const selections=await all(env,'SELECT s.article_id,s.reason,s.differences,e.body FROM inspiration_selections s LEFT JOIN public_examples e ON e.id=s.article_id WHERE s.user_id=? ORDER BY s.article_id',userId);
-  return selections.map(selection=>{
-    const example=EXAMPLES.find(article=>article.id===selection.article_id);
-    if(!example||typeof selection.body!=='string'||!selection.body.trim()) {const failure=new Error('catalog_missing');failure.code='catalog_missing';throw failure;}
-    return {...selection,title:example.title,url:example.url,character:example.character};
+const TARGET_LIKES=10;
+const catalog=new Map(EXAMPLES.map(example=>[example.id,example]));
+function decorateLikes(rows) {
+  return rows.flatMap(row=>{
+    const article=catalog.get(row.article_id);
+    return article?[{...row,title:article.title,url:article.url,character:article.character,keywords:article.keywords||[],character_keywords:article.character_keywords||[],sujet:article.sujet||'',category:article.category||'',summary:article.summary||article.description||''}]:[];
   });
 }
-export async function runGenerationBatch(env) {
-  if(!env.OPENROUTER_API_KEY) return {status:'provider_missing',claimed:0,completed:0,failed:0};
-  const jobs=[];
-  let blocked=0;
-  for(let i=0;i<3;i++) {
-    const claimed=await (await claimJobs(env)).json();
-    blocked+=claimed.blocked||0;
-    if(!claimed.jobs.length) break;
-    jobs.push(claimed.jobs[0]);
+async function likesFor(env,userId) {return decorateLikes(await all(env,'SELECT article_id,reason,differences,created_at,updated_at FROM article_likes WHERE user_id=? ORDER BY created_at,article_id',userId));}
+function readinessFor(likes) {return {likes_count:likes.length,explained_count:likes.filter(l=>l.reason.trim()).length,target:TARGET_LIKES,ready:likes.length>=TARGET_LIKES};}
+async function likesResponse(env,userId) {
+  // One SQLite read snapshot binds the collection and its version. A concurrent edit
+  // can return a newer snapshot, but can never tag this older collection with it.
+  const snapshot=await first(env,`SELECT p.version,(SELECT json_group_array(json_object('article_id',article_id,'reason',reason,'differences',differences,'created_at',created_at,'updated_at',updated_at)) FROM (SELECT article_id,reason,differences,created_at,updated_at FROM article_likes WHERE user_id=p.user_id ORDER BY created_at,article_id)) AS likes_json FROM profiles p WHERE p.user_id=?`,userId);
+  if(!snapshot) error(401,'Compte introuvable.');
+  const likes=decorateLikes(parse(snapshot.likes_json,[])),r=readinessFor(likes);
+  return {likes,count:r.likes_count,explained_count:r.explained_count,target:TARGET_LIKES,source_version:snapshot.version};
+}
+async function portraitFor(env,userId) {
+  const p=await first(env,'SELECT version,consent_ai FROM profiles WHERE user_id=?',userId),saved=await first(env,'SELECT * FROM user_portraits WHERE user_id=?',userId),sub=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',userId),likes=await likesFor(env,userId);
+  const job=await first(env,"SELECT status,lease_until,attempts,provider_calls,created_at FROM journal_jobs WHERE user_id=? AND kind='portrait' AND source_version=? AND day=''",userId,p.version);
+  let status='collecting';
+  if(activeSubscription(sub)&&p.consent_ai&&likes.length>0) {
+    status=saved?.analyzed_version===p.version?'ready':job?.status==='running'&&job.lease_until>now()?'updating':job&&(job.attempts>=3||job.provider_calls>=20)?'error':'queued';
   }
-  const results=await Promise.all(jobs.map(async job=>{
-    try {
-      const generated=await generateJournal(job,env);
-      await completeJob(env,job.id,{...generated,lease_token:job.lease_token,profile_version:job.profile_version,memory_version:job.memory.version});
-      return true;
-    } catch(e) {
-      const allowed=['provider_error','validation_error','coherence_error'];
-      const code=e?.code||e?.message;
-      const reason=allowed.includes(code)?code:'unexpected_error';
-      // Do not retain provider messages, profile data or generated text in operational errors.
-      await run(env,"UPDATE generation_jobs SET status='pending',lease_until=?,error_code=? WHERE id=? AND status='running' AND lease_token=?",now()+300,reason,job.id,job.lease_token);
-      return false;
+  const retry_after=status==='error'&&job?.created_at?Math.floor(Date.parse(job.created_at.replace(' ','T')+'Z')/1000)+86400:null;
+  return {status,retry_after,source_version:p.version,analyzed_version:saved?.analyzed_version||0,updated_at:saved?.updated_at||null,portrait:saved?parse(saved.portrait,null):null};
+}
+async function storyInspirations(env,likes) {
+  const selected=[...likes].sort((a,b)=>Number(Boolean(b.reason))-Number(Boolean(a.reason))||b.updated_at.localeCompare(a.updated_at)).slice(0,3);
+  const result=[];
+  for(const selectedLike of selected) {
+    const source=await first(env,'SELECT body FROM public_examples WHERE id=?',selectedLike.article_id);
+    if(!source?.body?.trim()) error(503,'catalog_missing');
+    result.push({...selectedLike,body:source.body});
+  }
+  return result;
+}
+export async function claimJobs(env) {
+  if(!env.OPENROUTER_API_KEY) return json({jobs:[],status:'provider_missing'});
+  const day=frenchDay(),t=now();
+  // A failed source version gets a fresh bounded budget once per 24-hour window.
+  // This never reopens a completed portrait or an unexpired lease.
+  await run(env,"UPDATE journal_jobs SET status='pending',attempts=0,provider_calls=0,lease_token=NULL,lease_until=0,error_code=NULL,created_at=CURRENT_TIMESTAMP WHERE kind='portrait' AND status!='complete' AND (attempts>=3 OR provider_calls>=20) AND lease_until<=? AND created_at<=datetime('now','-24 hours')",t);
+  // A portrait refresh always precedes a story for the same source version.
+  for(const kind of ['portrait','story']) {
+    const dirty=kind==='portrait'?"(up.analyzed_version IS NULL OR up.analyzed_version!=p.version)":"up.analyzed_version=p.version AND NOT EXISTS(SELECT 1 FROM stories st WHERE st.user_id=u.id AND st.day=?)";
+    const jobDay=kind==='portrait'?'':day;
+    const params=[t,...(kind==='story'?[day]:[]),kind,jobDay,t];
+    const candidates=await all(env,`SELECT u.id,p.version,m.version AS memory_version FROM users u JOIN profiles p ON p.user_id=u.id JOIN memories m ON m.user_id=u.id JOIN subscriptions s ON s.user_id=u.id LEFT JOIN user_portraits up ON up.user_id=u.id WHERE s.status='active' AND s.paid_until>? AND p.consent_ai=1 AND (SELECT COUNT(*) FROM article_likes l WHERE l.user_id=u.id)>=1 AND ${dirty} AND NOT EXISTS(SELECT 1 FROM journal_jobs j WHERE j.user_id=u.id AND j.kind=? AND j.source_version=p.version AND j.day=? AND (j.attempts>=3 OR j.provider_calls>=20 OR j.status='complete' OR j.lease_until>?)) ORDER BY u.created_at,u.id LIMIT 10`,...params);
+    for(const candidate of candidates) {
+      const likes=await likesFor(env,candidate.id);if(!likes.length) continue;
+      let inspirations=[];
+      if(kind==='story') {
+        try {inspirations=await storyInspirations(env,likes);} catch {return json({jobs:[],status:'catalog_missing'});}
+      }
+      await run(env,'INSERT OR IGNORE INTO journal_jobs(id,user_id,kind,source_version,memory_version,day) VALUES(?,?,?,?,?,?)',random(),candidate.id,kind,candidate.version,candidate.memory_version,jobDay);
+      const lease=random()+random();
+      const job=await first(env,`UPDATE journal_jobs SET status='running',attempts=attempts+1,lease_token=?,lease_until=?,error_code=NULL WHERE user_id=? AND kind=? AND source_version=? AND day=? AND status!='complete' AND lease_until<=? AND attempts<3 AND provider_calls<20 AND EXISTS(SELECT 1 FROM profiles WHERE user_id=? AND version=? AND consent_ai=1) RETURNING id`,lease,t+1800,candidate.id,kind,candidate.version,jobDay,t,candidate.id,candidate.version);
+      if(!job) continue;
+      const memory=await first(env,'SELECT text,version FROM memories WHERE user_id=?',candidate.id),previous=await first(env,'SELECT portrait,analyzed_version FROM user_portraits WHERE user_id=?',candidate.id);
+      const feedback=await all(env,'SELECT f.story_id,s.day,s.title AS fictional_source_title,s.summary AS fictional_source_summary,f.resonance,f.feelings,f.why,f.correction,f.updated_at FROM feedback f JOIN stories s ON s.id=f.story_id WHERE f.user_id=? ORDER BY f.updated_at DESC,s.day DESC LIMIT 30',candidate.id);
+      const result={id:job.id,kind,user_id:candidate.id,day:jobDay||day,lease_token:lease,source_version:candidate.version,profile_version:candidate.version,memory_version:candidate.memory_version,memory,likes,feedback:feedback.reverse(),portrait_previous:previous?parse(previous.portrait,null):null,portrait_previous_version:previous?.analyzed_version||0};
+      if(kind==='story') {result.portrait=result.portrait_previous;result.inspirations=inspirations;result.history=(await all(env,'SELECT day,title,summary FROM stories WHERE user_id=? ORDER BY day DESC LIMIT 20',candidate.id)).reverse();}
+      return json({jobs:[result]});
     }
-  }));
-  return {status:blocked?'catalog_missing':'done',claimed:jobs.length,completed:results.filter(Boolean).length,failed:results.filter(value=>!value).length,...(blocked?{blocked}:{})};
+  }
+  return json({jobs:[]});
+}
+// Kept as a harmless operational endpoint: GitHub owns orchestration and retries.
+export async function runGenerationBatch() {return {status:'workflow-managed',claimed:0,completed:0,failed:0};}
+async function validJob(env,id,lease,sourceVersion,memoryVersion) {
+  const job=await first(env,'SELECT * FROM journal_jobs WHERE id=?',id);
+  if(!job||!constantEqual(job.lease_token,lease)||job.status!=='running'||job.lease_until<=now()) error(409,'Bail expiré ou inconnu.');
+  const p=await first(env,'SELECT version,consent_ai FROM profiles WHERE user_id=?',job.user_id),m=await first(env,'SELECT version FROM memories WHERE user_id=?',job.user_id),s=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',job.user_id);
+  if(!p?.consent_ai||!activeSubscription(s)||!(await likesFor(env,job.user_id)).length) error(409,'Génération annulée.');
+  if(p.version!==job.source_version||m.version!==job.memory_version||(sourceVersion!==undefined&&sourceVersion!==p.version)||(memoryVersion!==undefined&&memoryVersion!==m.version)) {
+    await run(env,"UPDATE journal_jobs SET status='obsolete',lease_until=0 WHERE id=? AND lease_token=?",id,lease);error(409,'Le contexte a changé.');
+  }
+  if(job.kind==='story') {const portrait=await first(env,'SELECT analyzed_version FROM user_portraits WHERE user_id=?',job.user_id);if(portrait?.analyzed_version!==p.version) error(409,'Le portrait doit être actualisé.');}
+  return job;
+}
+const jobGuard=`EXISTS(SELECT 1 FROM journal_jobs j JOIN profiles p ON p.user_id=j.user_id JOIN memories m ON m.user_id=j.user_id JOIN subscriptions s ON s.user_id=j.user_id WHERE j.id=? AND j.status='running' AND j.lease_token=? AND j.lease_until>? AND p.version=j.source_version AND m.version=j.memory_version AND p.consent_ai=1 AND s.status='active' AND s.paid_until>? AND (SELECT COUNT(*) FROM article_likes l WHERE l.user_id=j.user_id)>=1)`;
+function jobArgs(id,lease) {const t=now();return [id,lease,t,t];}
+export function validatePortrait(value,likedIds) {
+  if(!value||typeof value!=='object') error(400,'Portrait invalide.');
+  const summary=text(value.summary,6000);if(!summary) error(400,'Résumé du portrait manquant.');
+  if(!Array.isArray(value.axes)||value.axes.length<1||value.axes.length>12) error(400,'Axes du portrait invalides.');
+  const axes=value.axes.map(axis=>{
+    const label=text(axis.label,160),why=text(axis.why,2400);
+    if(!label||!why||typeof axis.confidence!=='number'||!Number.isFinite(axis.confidence)||axis.confidence<0||axis.confidence>1||!Array.isArray(axis.evidence)||!axis.evidence.length||axis.evidence.length>30||axis.evidence.some(id=>!likedIds.has(id))) error(400,'Sources du portrait invalides.');
+    return {label,why,confidence:axis.confidence,evidence:[...new Set(axis.evidence)]};
+  });
+  const list=(values)=>{if(!Array.isArray(values)||values.length>20) error(400,'Liste du portrait invalide.');return values.map(value=>text(value,1200));};
+  const fictional_character={name:text(value.fictional_character?.name,100),description:text(value.fictional_character?.description,5000)};
+  if(!fictional_character.name||!fictional_character.description) error(400,'Personnage fictif manquant.');
+  return {summary,axes,strengths:list(value.strengths),uncertainties:list(value.uncertainties),fictional_character};
 }
 export async function completeJob(env,id,data) {
-  const j=await first(env,'SELECT * FROM generation_jobs WHERE id=?',id);
-  if(!j||!constantEqual(j.lease_token,data.lease_token)||j.status!=='running'||j.lease_until<now()) error(409,'Bail expiré ou inconnu.');
-  const p=await first(env,'SELECT * FROM profiles WHERE user_id=?',j.user_id),m=await first(env,'SELECT * FROM memories WHERE user_id=?',j.user_id),sub=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',j.user_id);
-  if(!p?.consent_ai||!activeSubscription(sub)) error(409,'Génération annulée.');
-  if(p.version!==data.profile_version||m.version!==data.memory_version||j.profile_version!==p.version||j.memory_version!==m.version) {
-    await run(env,"UPDATE generation_jobs SET status='pending',lease_until=0,lease_token=NULL,error_code='context_changed' WHERE id=?",id); error(409,'Le contexte a changé.');
+  const sourceVersion=data.source_version??data.profile_version;
+  if(!Number.isInteger(sourceVersion)||!Number.isInteger(data.memory_version)) error(400,'Versions du contexte requises.');
+  const job=await validJob(env,id,data.lease_token,sourceVersion,data.memory_version),args=jobArgs(id,data.lease_token);
+  if(job.kind==='portrait') {
+    const likedIds=new Set((await likesFor(env,job.user_id)).map(like=>like.article_id));
+    for(const feedback of await all(env,'SELECT story_id FROM feedback WHERE user_id=?',job.user_id)) likedIds.add('story:'+feedback.story_id);
+    const saved=await first(env,'SELECT portrait FROM user_portraits WHERE user_id=?',job.user_id);
+    const previousName=saved?parse(saved.portrait,null)?.fictional_character?.name:null;
+    const incoming=previousName?{...data.portrait,fictional_character:{...data.portrait?.fictional_character,name:previousName}}:data.portrait;
+    const portrait=validatePortrait(incoming,likedIds);
+    const results=await env.DB.batch([
+      env.DB.prepare(`INSERT INTO user_portraits(user_id,portrait,analyzed_version) SELECT ?,?,? WHERE ${jobGuard} ON CONFLICT(user_id) DO UPDATE SET portrait=excluded.portrait,analyzed_version=excluded.analyzed_version,updated_at=CURRENT_TIMESTAMP WHERE user_portraits.analyzed_version<excluded.analyzed_version`).bind(job.user_id,JSON.stringify(portrait),job.source_version,...args),
+      env.DB.prepare("UPDATE journal_jobs SET status='complete',lease_until=0 WHERE id=? AND lease_token=? AND EXISTS(SELECT 1 FROM user_portraits p WHERE p.user_id=journal_jobs.user_id AND p.analyzed_version=journal_jobs.source_version)").bind(id,data.lease_token)
+    ]);
+    if(!results[0].meta.changes) error(409,'Le contexte a changé ou ce portrait existe déjà.');
+    return json({ok:true,kind:'portrait',source_version:job.source_version,analyzed_version:job.source_version});
   }
-  const title=text(data.title,160),content=text(data.body,40000),summary=text(data.summary,3000),practice=text(data.practice,2000),proposal=text(data.memory_proposal||'',5000);
+  const title=text(data.title,160),content=text(data.body,60000),summary=text(data.summary,3000),practice=text(data.practice||'',3000);
   if(!title||content.length<500||!summary) error(400,'Histoire incomplète.');
   if(!Array.isArray(data.reflection_questions)||data.reflection_questions.length<1||data.reflection_questions.length>5) error(400,'Questions invalides.');
   const questions=data.reflection_questions.map(q=>text(q,500));
-  // Every write repeats the version/consent/lease predicates inside one atomic D1 batch.
-  const guard=`EXISTS(SELECT 1 FROM generation_jobs j JOIN profiles p ON p.user_id=j.user_id JOIN memories m ON m.user_id=j.user_id JOIN subscriptions s ON s.user_id=j.user_id WHERE j.id=? AND j.status='running' AND j.lease_token=? AND j.lease_until>=? AND p.version=? AND m.version=? AND p.consent_ai=1 AND s.status='active' AND s.paid_until>?)`;
-  const args=[id,data.lease_token,now(),p.version,m.version,now()];
-  const result=await env.DB.batch([
-    env.DB.prepare(`INSERT INTO stories(id,user_id,day,title,body,summary,reflection_questions,practice) SELECT ?,?,?,?,?,?,?,? WHERE ${guard} ON CONFLICT(user_id,day) DO NOTHING`).bind(id,j.user_id,j.day,title,content,summary,JSON.stringify(questions),practice,...args),
-    env.DB.prepare(`UPDATE memories SET proposal=? WHERE user_id=? AND ${guard}`).bind(proposal,j.user_id,...args),
-    env.DB.prepare("UPDATE generation_jobs SET status='complete',lease_until=0 WHERE id=? AND lease_token=? AND EXISTS(SELECT 1 FROM stories WHERE id=?)").bind(id,data.lease_token,id)
+  const results=await env.DB.batch([
+    env.DB.prepare(`INSERT INTO stories(id,user_id,day,title,body,summary,reflection_questions,practice) SELECT ?,?,?,?,?,?,?,? WHERE ${jobGuard} AND EXISTS(SELECT 1 FROM user_portraits p WHERE p.user_id=? AND p.analyzed_version=?) ON CONFLICT(user_id,day) DO NOTHING`).bind(id,job.user_id,job.day,title,content,summary,JSON.stringify(questions),practice,...args,job.user_id,job.source_version),
+    env.DB.prepare("UPDATE journal_jobs SET status='complete',lease_until=0 WHERE id=? AND lease_token=? AND EXISTS(SELECT 1 FROM stories WHERE id=?)").bind(id,data.lease_token,id)
   ]);
-  if(!result[0].meta.changes) error(409,'Publication déjà effectuée ou contexte modifié.');
-  return json({ok:true,story_id:id});
+  if(!results[0].meta.changes) error(409,'Publication déjà effectuée ou contexte modifié.');
+  // A fictional episode never updates a person's portrait, declared memory or source version.
+  return json({ok:true,kind:'story',story_id:id});
+}
+export async function proxyJobLLM(env,id,data) {
+  if(!env.OPENROUTER_API_KEY) error(503,'provider_missing');
+  const job=await validJob(env,id,data.lease_token,data.source_version??data.profile_version,data.memory_version);
+  const allowed=[env.OPENROUTER_MODEL||'openai/gpt-5-mini',env.OPENROUTER_WRITER_MODEL,env.OPENROUTER_ANALYST_MODEL].filter(Boolean);
+  const model=data.model||(data.purpose==='writer'?env.OPENROUTER_WRITER_MODEL:data.purpose==='analyst'?env.OPENROUTER_ANALYST_MODEL:null)||allowed[0];if(!allowed.includes(model)) error(400,'Modèle non autorisé.');
+  const system=text(data.system_prompt,50000),prompt=text(data.user_prompt,900000),purpose=text(data.purpose||'generation',80);
+  if(!system||!prompt||!purpose) error(400,'Prompts requis.');
+  const maxTokens=data.max_tokens??6000;if(!Number.isInteger(maxTokens)||maxTokens<128||maxTokens>8000) error(400,'Limite de tokens invalide.');
+  const counter=await first(env,`UPDATE journal_jobs SET provider_calls=provider_calls+1 WHERE id=? AND provider_calls<20 AND ${jobGuard} RETURNING provider_calls`,id,...jobArgs(id,data.lease_token));
+  if(!counter) error(429,'Limite de génération atteinte ou contexte expiré.');
+  let response;
+  try {response=await fetch('https://openrouter.ai/api/v1/chat/completions',{method:'POST',headers:{'Authorization':`Bearer ${env.OPENROUTER_API_KEY}`,'Content-Type':'application/json','HTTP-Referer':'https://decodetonesprit.fr','X-Title':'Decode ton esprit'},body:JSON.stringify({model,messages:[{role:'system',content:system},{role:'user',content:prompt}],temperature:0.75,reasoning:{effort:'low'},max_tokens:maxTokens}),signal:AbortSignal.timeout(75000)});} catch {error(502,'provider_error');}
+  if(!response.ok) error(502,'provider_error');
+  let result;try {result=await response.json();} catch {error(502,'provider_error');}
+  const content=result?.choices?.[0]?.message?.content;
+  if(typeof content!=='string'||!content.trim()||content.length>180000||result.choices[0].finish_reason==='length') error(502,'provider_error');
+  return json({content});
 }
 async function internal(request,env,path) {
   await githubIdentity(request,env);
   if(request.method!=='POST') error(405,'Méthode non autorisée.');
-  if(path==='/api/internal/jobs/run') return json(await runGenerationBatch(env));
+  if(path==='/api/internal/jobs/run') return json(await runGenerationBatch());
   if(path==='/api/internal/jobs/claim') return claimJobs(env);
-  const match=path.match(/^\/api\/internal\/jobs\/([\w-]+)\/(complete|fail)$/); if(!match) error(404,'Route inconnue.');
-  const data=await body(request,60000);
+  const match=path.match(/^\/api\/internal\/jobs\/([\w-]+)\/(complete|fail|llm)$/);if(!match) error(404,'Route inconnue.');
+  const data=await body(request,1000000);
+  if(match[2]==='llm') return proxyJobLLM(env,match[1],data);
   if(match[2]==='complete') return completeJob(env,match[1],data);
-  const allowed=['provider_error','validation_error','coherence_error','unexpected_error'];
-  await run(env,"UPDATE generation_jobs SET status='pending',lease_until=0,error_code=? WHERE id=? AND status='running' AND lease_token=?",allowed.includes(data.reason)?data.reason:'unexpected_error',match[1],text(data.lease_token,100));
+  const job=await first(env,'SELECT attempts FROM journal_jobs WHERE id=? AND lease_token=? AND status=\'running\'',match[1],text(data.lease_token,100));
+  if(!job) error(409,'Bail expiré ou inconnu.');
+  const allowed=['provider_error','validation_error','coherence_error','unexpected_error','context_changed'];
+  await run(env,"UPDATE journal_jobs SET status='pending',lease_until=?,error_code=? WHERE id=? AND status='running' AND lease_token=?",now()+Math.min(3600,300*2**(job.attempts-1)),allowed.includes(data.reason)?data.reason:'unexpected_error',match[1],data.lease_token);
   return json({ok:true});
 }
 async function routes(request,env) {
   const url=new URL(request.url),path=url.pathname,method=request.method;
   if(method==='GET'&&path==='/') return Response.redirect('https://decodetonesprit.fr/',302);
   if(method==='GET'&&['/journal','/journal/'].includes(path)) return new Response(HTML,{headers:{'Content-Type':'text/html; charset=utf-8'}});
-  if(method==='GET'&&path==='/api/examples') return json({examples:EXAMPLES.map(({id,title,url,character,description})=>({id,title,url,character,description}))});
+  if(method==='GET'&&path==='/api/examples') return json({examples:EXAMPLES.map(({id,title,url,character,description,keywords,character_keywords,sujet,category})=>({id,title,url,character,description,keywords:keywords||[],character_keywords:character_keywords||[],sujet:sujet||'',category:category||''}))});
   if(method==='GET'&&path==='/api/health') return json({ok:true,billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY)});
   if(method==='GET'&&path==='/robots.txt') return new Response('User-agent: *\nDisallow: /\n');
   if(path==='/api/billing/webhook'&&method==='POST') return webhook(request,env);
@@ -226,8 +294,8 @@ async function routes(request,env) {
   if(path==='/api/me'&&method==='GET') {
     const user=await userFor(request,env,false); if(!user) return json({user:null,configuration:{billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY)}});
     const p=await first(env,'SELECT * FROM profiles WHERE user_id=?',user.id),s=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',user.id),m=await first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id);
-    const inspirations_count=(await all(env,'SELECT article_id FROM inspiration_selections WHERE user_id=?',user.id)).filter(selection=>EXAMPLES.some(example=>example.id===selection.article_id)).length;
-    return json({user,inspirations_count,profile:{...parse(p.data),consent_ai:Boolean(p.consent_ai)},subscription:{status:s.status,active:activeSubscription(s),paid_until:s.paid_until,manageable:Boolean(s.customer_id)},memory:m,configuration:{billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY)}});
+    const readiness=readinessFor(await likesFor(env,user.id)),inspirations_count=readiness.likes_count;
+    return json({user,inspirations_count,readiness,consent_ai:Boolean(p.consent_ai),source_version:p.version,profile:{...parse(p.data),consent_ai:Boolean(p.consent_ai)},subscription:{status:s.status,active:activeSubscription(s),paid_until:s.paid_until,manageable:Boolean(s.customer_id)},memory:m,configuration:{billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY)}});
   }
   if(['/api/auth/register','/api/auth/login'].includes(path)&&method==='POST') {
     const data=await body(request,3000),email=text(data.email,254).toLowerCase(),password=data.password;
@@ -252,34 +320,53 @@ async function routes(request,env) {
   }
   if(path==='/api/profile'&&method==='PUT') {
     const data=await body(request,30000),profile={}; for(const field of FIELDS) profile[field]=text(data[field]??'',field==='display_name'?80:2000);
-    if(!profile.display_name) error(400,'Choisissez un prénom ou un pseudonyme pour votre personnage.');
     if(typeof data.consent_ai!=='boolean') error(400,'Indiquez votre choix concernant la personnalisation IA.');
     await run(env,'UPDATE profiles SET data=?,consent_ai=?,version=version+1 WHERE user_id=?',JSON.stringify(profile),Number(data.consent_ai),user.id);
     return json({ok:true,profile:{...profile,consent_ai:data.consent_ai}});
   }
-  if(path==='/api/inspirations'&&method==='GET') return json({selections:await all(env,'SELECT article_id,reason,differences FROM inspiration_selections WHERE user_id=? ORDER BY article_id',user.id)});
+  if(path==='/api/consent'&&method==='PUT') {
+    const data=await body(request,1000);if(typeof data.consent_ai!=='boolean') error(400,'Indiquez votre choix concernant la personnalisation IA.');
+    await run(env,'UPDATE profiles SET consent_ai=?,version=version+1 WHERE user_id=? AND consent_ai!=?',Number(data.consent_ai),user.id,Number(data.consent_ai));
+    const p=await first(env,'SELECT version,consent_ai FROM profiles WHERE user_id=?',user.id);
+    return json({ok:true,consent_ai:Boolean(p.consent_ai),source_version:p.version});
+  }
+  if(path==='/api/portrait'&&method==='GET') return json(await portraitFor(env,user.id));
+  if(path==='/api/likes'&&method==='GET') return json(await likesResponse(env,user.id));
+  const likeMatch=path.match(/^\/api\/likes\/(.+)$/);
+  if(likeMatch&&method==='PUT') {
+    let articleId;try {articleId=decodeURIComponent(likeMatch[1]);} catch {error(400,'Identifiant d’article invalide.');}
+    if(!catalog.has(articleId)) error(404,'Article introuvable.');
+    const data=await body(request,6000);if(typeof data.liked!=='boolean') error(400,'Indiquez votre choix pour cet article.');
+    if(data.reason!==undefined) text(data.reason,4000);
+    if(data.liked) {
+      if(data.reason===undefined) await run(env,'INSERT OR IGNORE INTO article_likes(user_id,article_id) VALUES(?,?)',user.id,articleId);
+      else await run(env,`INSERT INTO article_likes(user_id,article_id,reason) VALUES(?,?,?) ON CONFLICT(user_id,article_id) DO UPDATE SET reason=excluded.reason,updated_at=CURRENT_TIMESTAMP WHERE article_likes.reason!=excluded.reason`,user.id,articleId,text(data.reason,4000));
+    } else await run(env,'DELETE FROM article_likes WHERE user_id=? AND article_id=?',user.id,articleId);
+    return json({ok:true,...await likesResponse(env,user.id)});
+  }
+  if(path==='/api/inspirations'&&method==='GET') return json({selections:(await likesFor(env,user.id)).map(({article_id,reason,differences})=>({article_id,reason,differences}))});
   if(path==='/api/inspirations'&&method==='PUT') {
-    const data=await body(request,15000);
-    if(!Array.isArray(data.selections)||data.selections.length>3) error(400,'Choisissez jusqu’à trois articles.');
+    const data=await body(request,1000000);if(!Array.isArray(data.selections)) error(400,'Liste d’articles invalide.');
     const ids=new Set();
     const selections=data.selections.map(selection=>{
-      if(!selection||typeof selection!=='object'||!EXAMPLES.some(example=>example.id===selection.article_id)||ids.has(selection.article_id)) error(400,'Article inconnu ou sélection en double.');
-      ids.add(selection.article_id);
-      const reason=text(selection.reason,2000),differences=text(selection.differences||'',2000);
-      if(!reason) error(400,'Expliquez ce qui vous parle dans chaque article choisi.');
-      return {article_id:selection.article_id,reason,differences};
+      if(!selection||!catalog.has(selection.article_id)||ids.has(selection.article_id)) error(400,'Article inconnu ou sélection en double.');
+      ids.add(selection.article_id);return {article_id:selection.article_id,reason:text(selection.reason||'',4000),differences:text(selection.differences||'',4000)};
     });
+    const serialized=JSON.stringify(selections);
     await env.DB.batch([
-      env.DB.prepare('DELETE FROM inspiration_selections WHERE user_id=?').bind(user.id),
-      ...selections.map(selection=>env.DB.prepare('INSERT INTO inspiration_selections(user_id,article_id,reason,differences) VALUES(?,?,?,?)').bind(user.id,selection.article_id,selection.reason,selection.differences)),
-      env.DB.prepare('UPDATE profiles SET version=version+1 WHERE user_id=?').bind(user.id)
+      env.DB.prepare("DELETE FROM article_likes WHERE user_id=? AND article_id NOT IN(SELECT json_extract(value,'$.article_id') FROM json_each(?))").bind(user.id,serialized),
+      env.DB.prepare("INSERT INTO article_likes(user_id,article_id,reason,differences) SELECT ?,json_extract(value,'$.article_id'),json_extract(value,'$.reason'),json_extract(value,'$.differences') FROM json_each(?) WHERE true ON CONFLICT(user_id,article_id) DO UPDATE SET reason=excluded.reason,differences=excluded.differences,updated_at=CURRENT_TIMESTAMP WHERE article_likes.reason!=excluded.reason OR article_likes.differences!=excluded.differences").bind(user.id,serialized)
     ]);
-    return json({ok:true,selections});
+    return json({ok:true,selections,...await likesResponse(env,user.id)});
   }
   if(path==='/api/memory'&&method==='GET') return json(await first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id));
   if(path==='/api/memory'&&method==='PUT') {
     const data=await body(request,15000); const value=text(data.text,10000);
-    await run(env,"UPDATE memories SET text=?,proposal='',version=version+1 WHERE user_id=?",value,user.id); return json({ok:true});
+    await env.DB.batch([
+      env.DB.prepare('UPDATE profiles SET version=version+1 WHERE user_id=? AND EXISTS(SELECT 1 FROM memories WHERE user_id=? AND text!=?)').bind(user.id,user.id,value),
+      env.DB.prepare("UPDATE memories SET text=?,proposal='',version=version+1 WHERE user_id=? AND text!=?").bind(value,user.id,value)
+    ]);
+    return json({ok:true,source_version:(await first(env,'SELECT version FROM profiles WHERE user_id=?',user.id)).version});
   }
   if(path==='/api/stories'&&method==='GET') return json({stories:await all(env,'SELECT id,day,title,summary,created_at FROM stories WHERE user_id=? ORDER BY day DESC LIMIT 366',user.id)});
   const storyMatch=path.match(/^\/api\/stories\/([\w-]+)(\/feedback)?$/);
@@ -290,16 +377,14 @@ async function routes(request,env) {
       const data=await body(request,15000); if(!Number.isInteger(data.resonance)||data.resonance<1||data.resonance>5) error(400,'Choisissez une note de 1 à 5.');
       const feelings=text(data.feelings||'',3000),why=text(data.why||'',4000),correction=text(data.correction||'',4000);
       await env.DB.batch([env.DB.prepare('INSERT INTO feedback(story_id,user_id,resonance,feelings,why,correction) VALUES(?,?,?,?,?,?) ON CONFLICT(story_id) DO UPDATE SET resonance=excluded.resonance,feelings=excluded.feelings,why=excluded.why,correction=excluded.correction,updated_at=CURRENT_TIMESTAMP').bind(story.id,user.id,data.resonance,feelings,why,correction),env.DB.prepare('UPDATE profiles SET version=version+1 WHERE user_id=?').bind(user.id)]);
-      return json({ok:true});
+      return json({ok:true,source_version:(await first(env,'SELECT version FROM profiles WHERE user_id=?',user.id)).version});
     }
   }
   if(path==='/api/billing/checkout'&&method==='POST') {
     if(!billingReady(env)||!env.OPENROUTER_API_KEY) error(503,'Les abonnements ne sont pas encore ouverts.');
-    const profile=await first(env,'SELECT data,consent_ai FROM profiles WHERE user_id=?',user.id);
-    if(!profile?.consent_ai||!parse(profile.data).display_name?.trim()) error(400,'Complétez votre personnage et autorisez la personnalisation avant de vous abonner.');
-    let inspirations;
-    try {inspirations=await inspirationsFor(env,user.id);} catch(e) {if(e?.code==='catalog_missing') error(503,'Les exemples sélectionnés sont momentanément indisponibles.');throw e;}
-    if(!inspirations.length) error(400,'Choisissez au moins un article et expliquez ce qui vous parle avant de vous abonner.');
+    const profile=await first(env,'SELECT consent_ai FROM profiles WHERE user_id=?',user.id);
+    if(!profile?.consent_ai) error(400,'Autorisez la personnalisation avant de vous abonner.');
+    if((await likesFor(env,user.id)).length<TARGET_LIKES) error(400,'Aimez au moins dix articles avant de vous abonner.');
     await limit(env,'checkout:'+user.id,5,3600); await validPrice(env);
     const current=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',user.id);
     if(current.subscription_id&&['active','trialing','past_due','unpaid','incomplete'].includes(current.status)) error(409,'Un abonnement existe déjà. Gérez-le depuis votre espace abonnement.');
@@ -335,7 +420,7 @@ async function routes(request,env) {
   }
   if(path==='/api/export'&&method==='GET') {
     const profile=await first(env,'SELECT data,consent_ai FROM profiles WHERE user_id=?',user.id),memory=await first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id);
-    return json({user,profile:{...parse(profile.data),consent_ai:Boolean(profile.consent_ai)},memory,selections:await all(env,'SELECT article_id,reason,differences FROM inspiration_selections WHERE user_id=? ORDER BY article_id',user.id),stories:await all(env,'SELECT day,title,body,summary,reflection_questions,practice FROM stories WHERE user_id=? ORDER BY day',user.id),feedback:await all(env,'SELECT story_id,resonance,feelings,why,correction,updated_at FROM feedback WHERE user_id=?',user.id)},200,{'Content-Disposition':'attachment; filename="mon-journal-decode-ton-esprit.json"'});
+    return json({user,profile:{...parse(profile.data),consent_ai:Boolean(profile.consent_ai)},memory,likes:await likesFor(env,user.id),portrait:await portraitFor(env,user.id),selections:await all(env,'SELECT article_id,reason,differences FROM article_likes WHERE user_id=? ORDER BY article_id',user.id),stories:await all(env,'SELECT day,title,body,summary,reflection_questions,practice FROM stories WHERE user_id=? ORDER BY day',user.id),feedback:await all(env,'SELECT story_id,resonance,feelings,why,correction,updated_at FROM feedback WHERE user_id=?',user.id)},200,{'Content-Disposition':'attachment; filename="mon-journal-decode-ton-esprit.json"'});
   }
   if(path==='/api/account'&&method==='DELETE') {
     const data=await body(request,1000),record=await first(env,'SELECT * FROM users WHERE id=?',user.id);

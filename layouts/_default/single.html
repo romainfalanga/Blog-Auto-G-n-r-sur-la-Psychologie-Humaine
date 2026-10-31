@@ -18,6 +18,8 @@
     <span>{{ if .Params.readingTime }}{{ .Params.readingTime }}{{ else }}{{ math.Round (div (float .WordCount) 250.0) }}{{ end }} min de lecture</span>
   </div>
 
+  {{ partial "reading-cues.html" . }}
+
   <div class="article-content" itemprop="articleBody">
     {{ .Content }}
   </div>
@@ -27,11 +29,9 @@
   </aside>
 
   {{ if eq .Section "posts" }}
-  {{ $articleID := strings.TrimSuffix ".md" .File.Path }}
   <aside class="journal-invitation journal-article-invitation">
     <h2>Vous vous reconnaissez dans cette histoire ?</h2>
-    <p>Gardez-la comme point de départ de votre journal personnel. Dites ce qui vous parle et ce qui vous distingue du personnage : votre propre personnage se construira à partir de ces nuances.</p>
-    <a class="journal-cta" href="/journal/?article={{ $articleID | urlquery }}">Cette histoire me parle</a>
+    {{ partial "article-like.html" (dict "page" . "full" true) }}
   </aside>
   {{ end }}
 

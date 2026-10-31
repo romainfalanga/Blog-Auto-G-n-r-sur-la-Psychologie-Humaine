@@ -23,6 +23,8 @@
       <h1 class="perso-profile-name">{{ .Title }}</h1>
     {{- end }}
     <p class="perso-profile-bio">{{ .Description }}</p>
+    {{ partial "character-cues.html" . }}
+    <p class="keyword-explainer">Ces repères décrivent les thèmes de ce personnage fictif. Ils vous aident à trouver des lectures qui vous parlent.</p>
   </div>
 
   <div class="perso-parcours-page">
@@ -31,7 +33,7 @@
 
   <aside class="journal-invitation journal-article-invitation">
     <h2>Quelque chose de vous dans ce personnage ?</h2>
-    <p>Choisissez les histoires qui résonnent, puis expliquez vos points communs et vos différences. Elles pourront servir de départ à votre propre journal.</p>
+    <p>Aimez les histoires qui vous parlent, puis précisez ce qui résonne si vous le souhaitez. Votre collection servira de point de départ à vos propres histoires.</p>
     <a class="journal-cta" href="/journal/?character={{ (.Params.prenom | default .Title) | urlquery }}">Explorer mes points communs</a>
   </aside>
 

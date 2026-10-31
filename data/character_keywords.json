@@ -1,0 +1,242 @@
+{
+  "sophie": {
+    "id": "sophie",
+    "name": "Sophie",
+    "keywords": [
+      "Suranalyse",
+      "Rumination",
+      "Sentiment d’imposture",
+      "Lâcher prise",
+      "Perfectionnisme"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "thomas": {
+    "id": "thomas",
+    "name": "Thomas",
+    "keywords": [
+      "Poser ses limites",
+      "Oubli de soi",
+      "Besoin de reconnaissance",
+      "Peur de décevoir",
+      "Empathie"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "camille": {
+    "id": "camille",
+    "name": "Camille",
+    "keywords": [
+      "Émotions intenses",
+      "Charge mentale",
+      "Culpabilité parentale",
+      "Anticipation inquiète",
+      "Sensibilité"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "lucas": {
+    "id": "lucas",
+    "name": "Lucas",
+    "keywords": [
+      "Sentiment d’imposture",
+      "Comparaison aux autres",
+      "Peur de l’échec",
+      "Image de soi",
+      "Sociable en surface"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "nadia": {
+    "id": "nadia",
+    "name": "Nadia",
+    "keywords": [
+      "Perfectionnisme",
+      "Déléguer",
+      "Épuisement au travail",
+      "Besoin de contrôle",
+      "Détermination"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "adrien": {
+    "id": "adrien",
+    "name": "Adrien",
+    "keywords": [
+      "Émotions changeantes",
+      "Procrastination",
+      "Dépendance affective",
+      "Idéalisation des relations",
+      "Créativité"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "margot": {
+    "id": "margot",
+    "name": "Margot",
+    "keywords": [
+      "Quête de sens",
+      "Départ des enfants",
+      "Remise en question",
+      "Peur du changement",
+      "Volontaire"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "youssef": {
+    "id": "youssef",
+    "name": "Youssef",
+    "keywords": [
+      "Identifier ses émotions",
+      "Intellectualisation",
+      "Exprimer ses émotions",
+      "Appartenance culturelle",
+      "Réflexion"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "isabelle": {
+    "id": "isabelle",
+    "name": "Isabelle",
+    "keywords": [
+      "Fatigue à aider",
+      "Responsabilités précoces",
+      "Recevoir de l’aide",
+      "Vigilance dans les relations",
+      "Bienveillance"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "patrick": {
+    "id": "patrick",
+    "name": "Patrick",
+    "keywords": [
+      "Émotions retenues",
+      "Demander de l’aide",
+      "Devoir être fort",
+      "Avancer en âge",
+      "Stoïque"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "léa": {
+    "id": "lea",
+    "name": "Léa",
+    "keywords": [
+      "Surinvestissement relationnel",
+      "Sauver les autres",
+      "Peur de l’abandon",
+      "Idéalisation des relations",
+      "Idéaliste"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "karim": {
+    "id": "karim",
+    "name": "Karim",
+    "keywords": [
+      "Besoin de contrôle",
+      "Équilibre travail et famille",
+      "Décisions impulsives",
+      "Rapport à la réussite",
+      "Ambition"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "monique": {
+    "id": "monique",
+    "name": "Monique",
+    "keywords": [
+      "Vivre un deuil",
+      "Peur de la solitude",
+      "Culpabilité familiale",
+      "Rapport au changement",
+      "Cultivée"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "hugo": {
+    "id": "hugo",
+    "name": "Hugo",
+    "keywords": [
+      "Dépendance affective",
+      "Émotions changeantes",
+      "Relations contrastées",
+      "Peur de l’abandon",
+      "Créativité"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "priya": {
+    "id": "priya",
+    "name": "Priya",
+    "keywords": [
+      "Éviter ses émotions",
+      "Place du travail",
+      "Confiance dans les relations",
+      "Perfectionnisme",
+      "Compétente"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "stéphane": {
+    "id": "stephane",
+    "name": "Stéphane",
+    "keywords": [
+      "Inquiétude dans les relations",
+      "Peur de l’échec",
+      "Comparaison aux autres",
+      "Sentiment d’imposture",
+      "Sociable en apparence"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "djamila": {
+    "id": "djamila",
+    "name": "Djamila",
+    "keywords": [
+      "Vigilance dans les relations",
+      "Reconstruire sa confiance",
+      "Faire confiance",
+      "Sauver les autres",
+      "Combative"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "fabien": {
+    "id": "fabien",
+    "name": "Fabien",
+    "keywords": [
+      "Épuisement au travail",
+      "Solitude",
+      "Après une séparation",
+      "Se reconstruire",
+      "Esprit analytique"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "mei": {
+    "id": "mei",
+    "name": "Mei",
+    "keywords": [
+      "Inquiétude sociale",
+      "Regard des autres",
+      "Éviter les conflits",
+      "Comparaison aux autres",
+      "Timidité"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "bernard": {
+    "id": "bernard",
+    "name": "Bernard",
+    "keywords": [
+      "Vivre un deuil",
+      "Trouver ses mots",
+      "Isolement",
+      "Attachement au passé",
+      "Taiseux"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  }
+}

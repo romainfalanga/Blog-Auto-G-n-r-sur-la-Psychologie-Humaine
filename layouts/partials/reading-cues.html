@@ -1,0 +1,16 @@
+{{- if and .File (eq .Section "posts") -}}
+{{- $id := strings.TrimSuffix ".md" .File.Path -}}
+{{- with index .Site.Data.article_keywords $id -}}
+<div class="reading-cues">
+  {{- if .character }}
+  <p class="reading-character">Avec <a href="/personnages/{{ .character_id }}/">{{ .character }}</a></p>
+  {{- end }}
+  {{- with .keywords }}
+  <ul class="keyword-list article-keywords" aria-label="Thèmes de cette histoire">{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
+  {{- end }}
+  {{- with first 3 .character_keywords }}
+  <ul class="keyword-list character-keywords" aria-label="Repères récurrents du personnage">{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
+  {{- end }}
+</div>
+{{- end -}}
+{{- end -}}

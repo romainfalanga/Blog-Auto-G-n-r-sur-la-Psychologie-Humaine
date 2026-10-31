@@ -1,7 +1,14 @@
-name: Relance des journaux Cloudflare
+name: Génération quotidienne d’articles (version personnalisée)
 
 on:
+  schedule:
+    - cron: '*/15 * * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/generate-articles.yml'
+      - 'scripts/generate_personal_articles.py'
 
 permissions:
   contents: read
@@ -15,7 +22,7 @@ jobs:
   generate:
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 50
     steps:
       - uses: actions/checkout@v4
         with:
@@ -23,7 +30,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Relancer les journaux privés éligibles via Cloudflare
+      - name: Installer les dépendances du générateur historique
+        run: pip install -r scripts/requirements.txt
+      - name: Adapter le pipeline historique aux portraits et articles privés
         env:
           JOURNAL_URL: https://decodetonesprit.fr
         run: python scripts/run_journals.py
