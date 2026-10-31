@@ -7,6 +7,7 @@ import json
 import os
 import sys
 import time
+import re
 import urllib.parse
 import urllib.request
 import urllib.error
@@ -30,7 +31,8 @@ def internal(path, payload):
     base = os.environ.get('JOURNAL_URL','https://decode-journal.romainfalanga83.workers.dev').rstrip('/')
     req = urllib.request.Request(base+'/api/internal/jobs'+path,
         data=json.dumps(payload,ensure_ascii=False).encode(),
-        headers={'Content-Type':'application/json','Authorization':'Bearer '+token})
+        headers={'Content-Type':'application/json','Authorization':'Bearer '+token,
+                 'User-Agent':'DecodeTonEsprit-GitHubActions/1.0'})
     try:
         with urllib.request.urlopen(req,timeout=210) as response:
             return json.load(response)
@@ -39,9 +41,16 @@ def internal(path, payload):
         known={'Workflow non autorisé.':'workflow_claims','Identité automatique requise.':'identity_missing',
                'Signature invalide.':'signature_invalid','Identité invalide.':'identity_invalid'}
         try:
-            code=known.get(json.load(exc).get('error'),'request_failed')
+            raw=exc.read(8192).decode('utf-8','replace')
+            code=known.get(json.loads(raw).get('error'),'request_failed')
         except Exception:
+            # Only a short HTML title from a failed empty claim can identify
+            # an infrastructure refusal; never log bodies, prompts or headers.
             code='response_unavailable'
+            if path=='/claim':
+                title=re.search(r'<title[^>]*>([^<]{0,100})</title>',raw if 'raw' in locals() else '',re.I)
+                if title:
+                    code+='_'+re.sub(r'[^a-zA-Z0-9_-]','_',title.group(1))[:100]
         raise TransportFailure('worker_http_'+str(exc.code)+'_'+code) from None
 
 
