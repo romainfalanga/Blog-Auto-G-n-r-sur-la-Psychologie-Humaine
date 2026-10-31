@@ -51,16 +51,30 @@ def versions(job):
             'profile_version':version, 'memory_version':job['memory']['version']}
 
 
+STAGES = frozenset(('portrait','planning','drafting','review','coherence','structure','summary','reflection'))
+ERROR_CODES = frozenset(('provider_error','validation_error','coherence_error','quota_exceeded'))
+
+
+class GenerationFailure(RuntimeError):
+    def __init__(self, stage, code):
+        super().__init__('generation_failed')
+        self.stage = stage if stage in STAGES else 'planning'
+        self.code = code if code in ERROR_CODES else 'validation_error'
+
+
 class Adapter:
     def __init__(self, job, proxy):
         self.job, self.proxy = job, proxy
         self.purpose, self.calls, self.failed = 'analyst', 0, False
         self.last_response, self.reference_context = '', None
+        self.stage = 'portrait' if job.get('kind') == 'portrait' else 'planning'
+        self.error_code = None
 
     def __call__(self, model=None, system_prompt='', user_prompt='', temperature=None,
                  max_tokens=4500, retries=1):
         self.calls += 1
         if self.calls > 20:
+            self.failed, self.error_code = True, 'quota_exceeded'
             raise RuntimeError('quota_exceeded')
         try:
             result = self.proxy(self.job, {
@@ -75,7 +89,7 @@ class Adapter:
             self.last_response = content
             return content
         except Exception:
-            self.failed = True
+            self.failed, self.error_code = True, 'provider_error'
             raise RuntimeError('provider_error') from None
 
 
@@ -213,6 +227,7 @@ Ne confonds pas affinités et vécu réel. Varie le sujet et l'issue par rapport
         raise ValueError('validation_error')
     system=legacy.build_system_prompt()
     prompt=legacy.build_article_prompt(combo)
+    adapter.stage='drafting'
     adapter.purpose='writer'
     for _ in range(2):
         raw=legacy.call_openrouter_api(model=legacy.MODEL_WRITER,system_prompt=system,
@@ -225,6 +240,7 @@ Ne confonds pas affinités et vécu réel. Varie le sujet et l'issue par rapport
         raise ValueError('validation_error')
     adapter.purpose='analyst'
     adapter.reference_context=context
+    adapter.stage='review'
     before=content
     content=legacy.gemini_comprehensive_review(content,combo)
     if adapter.failed or len(adapter.last_response.split())<len(before.split())*0.7:
@@ -232,18 +248,22 @@ Ne confonds pas affinités et vécu réel. Varie le sujet et l'issue par rapport
     matrix={'articles':[{'prenom':name,'sujet':h.get('title',''),'contexte':'épisode fictif précédent',
                           'resume_narratif':h.get('summary',''),'date':h.get('day','')}
                          for h in job.get('history',[])[-20:]]}
+    adapter.stage='coherence'
     before=content
     content=legacy.validate_coherence(content,combo,matrix,[])
     if adapter.failed or (matrix['articles'] and (len(adapter.last_response.split())<len(before.split())*0.8 or len(re.findall(r'^## ',adapter.last_response,re.MULTILINE))<len(re.findall(r'^## ',before,re.MULTILINE)))):
         raise ValueError('validation_error')
+    adapter.stage='structure'
     content=legacy._strip_bold(content)
     content=legacy.verify_article_structure(content,combo)
     valid,_=legacy.validate_article(metadata,content,combo)
     if adapter.failed or not valid or len(content)>40000:
         raise ValueError('validation_error')
+    adapter.stage='summary'
     summary,evolution,elements=legacy.extract_narrative_summary(content,combo)
     if adapter.failed or not isinstance(summary,str) or not summary.strip():
         raise ValueError('validation_error')
+    adapter.stage='reflection'
     reflection=ask(adapter,'''Prépare le retour de lecture de cet article fictif, sans modifier la
 biographie de la personne à partir de la fiction. Renvoie JSON {"reflection_questions":["1 à 4 questions
 ouvertes sur ce qui résonne ou non"],"practice":"un exercice facultatif et sans risque issu de l'article,
@@ -265,7 +285,12 @@ def generate(job, proxy):
         try:
             legacy.call_openrouter_api=adapter
             return generate_portrait(job,adapter) if job.get('kind')=='portrait' else generate_story(job,adapter)
-        except Exception:
-            raise RuntimeError('generation_failed') from None
+        except Exception as exc:
+            code=adapter.error_code
+            if code is None:
+                code=str(exc) if str(exc) in ERROR_CODES else 'validation_error'
+            if code=='validation_error' and adapter.stage=='coherence':
+                code='coherence_error'
+            raise GenerationFailure(adapter.stage,code) from None
         finally:
             legacy.call_openrouter_api=original

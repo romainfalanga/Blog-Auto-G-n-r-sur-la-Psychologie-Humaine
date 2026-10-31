@@ -10,6 +10,7 @@ from unittest.mock import patch
 sys.path.insert(0, str(pathlib.Path(__file__).parents[2] / 'scripts'))
 import generate_personal_articles as personal
 import generate_articles as legacy
+import run_journals as runner
 
 
 def article():
@@ -131,16 +132,32 @@ class PipelineTests(unittest.TestCase):
             if counter==2:return {'content':draft}
             raise RuntimeError('PRIVATE API ERROR MUST NOT ESCAPE')
         out=io.StringIO()
-        with contextlib.redirect_stdout(out),self.assertRaisesRegex(RuntimeError,'^generation_failed$'):
+        with contextlib.redirect_stdout(out),self.assertRaisesRegex(personal.GenerationFailure,'^generation_failed$') as caught:
             personal.generate(job(),proxy)
+        self.assertEqual(caught.exception.stage,'review')
+        self.assertEqual(caught.exception.code,'provider_error')
         self.assertEqual(out.getvalue(),'')
         self.assertEqual(counter,3)
+
+    def test_runner_reports_only_safe_stage_and_sends_supported_failure_code(self):
+        calls=[]
+        def internal(path,payload):
+            calls.append((path,payload))
+            return {'jobs':[job()]} if len(calls)==1 else {'jobs':[]}
+        out=io.StringIO()
+        with patch.object(runner,'internal',side_effect=internal),patch.object(runner,'generate',side_effect=personal.GenerationFailure('review','provider_error')),contextlib.redirect_stdout(out):
+            self.assertEqual(runner.main(),1)
+        self.assertIn('stage=review, code=provider_error',out.getvalue())
+        self.assertNotIn('private-lease',out.getvalue())
+        self.assertEqual(calls[1][1]['reason'],'provider_error')
 
     def test_review_that_drops_most_content_is_rejected_not_accepted_as_review(self):
         body=article();outputs=[json.dumps({'sujet':'limites','contexte':'demande'}),
             'TITRE_SEO: Titre\nMETA_DESCRIPTION: Description\nSLUG: titre\nTAGS: limites\n---\n'+body,'Trop court.']
-        with self.assertRaisesRegex(RuntimeError,'^generation_failed$'):
+        with self.assertRaisesRegex(personal.GenerationFailure,'^generation_failed$') as caught:
             personal.generate(job(),lambda j,p:{'content':outputs.pop(0)})
+        self.assertEqual(caught.exception.stage,'review')
+        self.assertEqual(caught.exception.code,'validation_error')
 
 
 if __name__=='__main__':

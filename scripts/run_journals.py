@@ -12,7 +12,7 @@ import urllib.parse
 import urllib.request
 import urllib.error
 
-from generate_personal_articles import generate
+from generate_personal_articles import generate, GenerationFailure
 
 
 class TransportFailure(RuntimeError):
@@ -74,10 +74,13 @@ def main():
             result=generate(job,proxy)
             internal('/'+job['id']+'/complete',result)
             completed+=1
-        except Exception:
+        except Exception as exc:
             failed+=1
+            code=exc.code if isinstance(exc,GenerationFailure) else 'validation_error'
+            stage=exc.stage if isinstance(exc,GenerationFailure) else 'completion'
+            print(f'Private job failed: stage={stage}, code={code}. Personal data omitted.')
             try:
-                internal('/'+job['id']+'/fail',{'lease_token':job['lease_token'],'reason':'generation_failed'})
+                internal('/'+job['id']+'/fail',{'lease_token':job['lease_token'],'reason':code})
             except Exception:
                 pass
     print(f'Private jobs completed={completed}, failed={failed}. Personal data omitted.')
