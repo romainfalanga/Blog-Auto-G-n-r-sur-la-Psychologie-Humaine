@@ -27,7 +27,7 @@ def internal(path, payload):
             token = json.load(response)['value']
     except urllib.error.HTTPError as exc:
         raise TransportFailure('oidc_http_'+str(exc.code)) from None
-    base = os.environ.get('JOURNAL_URL','https://decodetonesprit.fr').rstrip('/')
+    base = os.environ.get('JOURNAL_URL','https://decode-journal.romainfalanga83.workers.dev').rstrip('/')
     req = urllib.request.Request(base+'/api/internal/jobs'+path,
         data=json.dumps(payload,ensure_ascii=False).encode(),
         headers={'Content-Type':'application/json','Authorization':'Bearer '+token})

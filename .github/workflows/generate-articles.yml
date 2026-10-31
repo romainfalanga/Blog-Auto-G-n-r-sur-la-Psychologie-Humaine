@@ -35,5 +35,5 @@ jobs:
         run: pip install -r scripts/requirements.txt
       - name: Adapter le pipeline historique aux portraits et articles privés
         env:
-          JOURNAL_URL: https://decodetonesprit.fr
+          JOURNAL_URL: https://decode-journal.romainfalanga83.workers.dev
         run: python scripts/run_journals.py
