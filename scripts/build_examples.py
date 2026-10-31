@@ -13,7 +13,10 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 # Editorial labels derived from the existing fictional character registry.
 # These are reading cues, never diagnoses or claims about a reader.
 LABELS = {
-    'overthinking': 'Suranalyse', 'rumination mentale': 'Rumination',
+    'overthinking': 'Suranalyse', 'surpensee': 'Suranalyse',
+    'surpensée': 'Suranalyse', 'suranalyse': 'Suranalyse',
+    'gestion-du-stress': 'Gestion du stress',
+    'rumination mentale': 'Rumination',
     "syndrome de l'imposteur": 'Sentiment d’imposture',
     'le syndrome de l’imposteur': 'Sentiment d’imposture',
     'difficulté à lâcher prise': 'Lâcher prise',
@@ -68,9 +71,11 @@ def normalized(value):
 
 
 def label(value):
-    key = normalized(value)
-    result = LABELS.get(key, str(value).strip().replace('_', ' '))
-    result = result.split(' (', 1)[0].strip()
+    # Resolve aliases after dropping explanatory parentheses, so a subject such
+    # as 'overthinking (surpensée)' and either tag share one canonical label.
+    base = str(value).strip().replace('_', ' ').split(' (', 1)[0].strip()
+    key = normalized(base)
+    result = LABELS.get(key, base)
     result = {'Les drivers/messages contraignants': 'Messages contraignants', 'les drivers/messages contraignants': 'Messages contraignants', 'Les jeux psychologiques': 'Jeux psychologiques', 'les jeux psychologiques': 'Jeux psychologiques'}.get(result, result)
     return result[:1].upper() + result[1:] if result else ''
 
@@ -122,7 +127,10 @@ def build():
         if len(excerpt) > 10000:
             excerpt = excerpt[:7500] + '\n\n[Extrait intermédiaire omis]\n\n' + excerpt[-2000:]
         character = characters.get(meta.get('personnage', '').lower(), {})
-        keywords = unique_labels([meta.get('sujet', '')] + meta.get('tags', []), 3)
+        theme_sources = [meta.get('sujet', '')] + meta.get('tags', [])
+        # Generic site-wide tags add no information about affinity. The remaining
+        # frontmatter tags naturally fill the space freed by synonym deduplication.
+        keywords = unique_labels([value for value in theme_sources if normalized(value) != 'psychologie'], 3)
         articles_data[relative.as_posix()] = {
             'character': meta.get('personnage', ''), 'character_id': character.get('id', ''),
             'keywords': keywords, 'character_keywords': character.get('keywords', []),

@@ -101,7 +101,7 @@
     "keywords": [
       "Anxiété",
       "Anxiété au travail",
-      "Surpensee"
+      "Suranalyse"
     ],
     "character_keywords": [
       "Suranalyse",
@@ -133,7 +133,7 @@
     "keywords": [
       "Apathie",
       "Expatriation",
-      "Psychologie"
+      "Deuil"
     ],
     "character_keywords": [
       "Vivre un deuil",
@@ -228,8 +228,8 @@
     "character_id": "fabien",
     "keywords": [
       "Envie",
-      "Psychologie",
-      "Éducation"
+      "Éducation",
+      "Comparaison aux autres"
     ],
     "character_keywords": [
       "Épuisement au travail",
@@ -245,7 +245,7 @@
     "keywords": [
       "Tristesse",
       "Deuil",
-      "Psychologie"
+      "Émotions"
     ],
     "character_keywords": [
       "Vivre un deuil",
@@ -260,8 +260,8 @@
     "character_id": "youssef",
     "keywords": [
       "Confusion émotionnelle",
-      "Psychologie",
-      "Famille"
+      "Famille",
+      "Émotions"
     ],
     "character_keywords": [
       "Identifier ses émotions",
@@ -277,7 +277,7 @@
     "keywords": [
       "Culpabilité",
       "Parentalité",
-      "Psychologie"
+      "Éducation"
     ],
     "character_keywords": [
       "Besoin de contrôle",
@@ -309,7 +309,7 @@
     "keywords": [
       "Déception",
       "Amitié",
-      "Psychologie"
+      "Attentes"
     ],
     "character_keywords": [
       "Surinvestissement relationnel",
@@ -469,7 +469,7 @@
     "keywords": [
       "Envie",
       "Competition",
-      "Psychologie"
+      "HPI"
     ],
     "character_keywords": [
       "Sentiment d’imposture",
@@ -548,8 +548,8 @@
     "character_id": "isabelle",
     "keywords": [
       "Fenêtre de tolérance",
-      "Psychologie",
-      "Famille"
+      "Famille",
+      "Émotions"
     ],
     "character_keywords": [
       "Fatigue à aider",
@@ -629,7 +629,7 @@
     "keywords": [
       "Honte",
       "Colocation",
-      "Psychologie"
+      "Émotions"
     ],
     "character_keywords": [
       "Sentiment d’imposture",
@@ -645,7 +645,7 @@
     "keywords": [
       "Honte",
       "Autorité",
-      "Psychologie"
+      "Estime de soi"
     ],
     "character_keywords": [
       "Inquiétude sociale",
@@ -677,7 +677,7 @@
     "keywords": [
       "Impatience",
       "Entretien d'embauche",
-      "Psychologie"
+      "Gestion des émotions"
     ],
     "character_keywords": [
       "Besoin de contrôle",
@@ -788,8 +788,8 @@
     "character_id": "youssef",
     "keywords": [
       "Mémoire émotionnelle",
-      "Psychologie",
-      "Deuil"
+      "Deuil",
+      "Émotions"
     ],
     "character_keywords": [
       "Identifier ses émotions",
@@ -821,7 +821,7 @@
     "keywords": [
       "Mépris",
       "Autorité",
-      "Psychologie"
+      "Protection émotionnelle"
     ],
     "character_keywords": [
       "Éviter ses émotions",
@@ -837,7 +837,7 @@
     "keywords": [
       "Mépris",
       "Deuil",
-      "Psychologie"
+      "Émotions"
     ],
     "character_keywords": [
       "Fatigue à aider",
@@ -869,7 +869,7 @@
     "keywords": [
       "Nostalgie",
       "Solitude",
-      "Psychologie"
+      "Vieillissement"
     ],
     "character_keywords": [
       "Émotions retenues",
@@ -965,7 +965,7 @@
     "keywords": [
       "Résignation",
       "Échec",
-      "Psychologie"
+      "Reconstruction"
     ],
     "character_keywords": [
       "Quête de sens",
@@ -1029,7 +1029,7 @@
     "keywords": [
       "Inadéquation",
       "Haut potentiel",
-      "Psychologie"
+      "Études supérieures"
     ],
     "character_keywords": [
       "Inquiétude sociale",
@@ -1044,8 +1044,8 @@
     "character_id": "djamila",
     "keywords": [
       "Sentiment d'injustice",
-      "Psychologie",
-      "Injustice"
+      "Injustice",
+      "Conflit"
     ],
     "character_keywords": [
       "Vigilance dans les relations",
@@ -1157,7 +1157,7 @@
     "keywords": [
       "Trahison",
       "Couple",
-      "Psychologie"
+      "Abandon"
     ],
     "character_keywords": [
       "Surinvestissement relationnel",
@@ -1173,7 +1173,7 @@
     "keywords": [
       "Trahison",
       "Compétition",
-      "Psychologie"
+      "Musique"
     ],
     "character_keywords": [
       "Dépendance affective",
@@ -1236,8 +1236,8 @@
     "character_id": "karim",
     "keywords": [
       "Biais d'action",
-      "Psychologie",
-      "Prise de décision"
+      "Prise de décision",
+      "Entrepreneuriat"
     ],
     "character_keywords": [
       "Besoin de contrôle",
@@ -1268,8 +1268,8 @@
     "character_id": "patrick",
     "keywords": [
       "Biais de l'angle mort",
-      "Psychologie",
-      "Vieillissement"
+      "Vieillissement",
+      "Biais cognitifs"
     ],
     "character_keywords": [
       "Émotions retenues",
@@ -1333,7 +1333,7 @@
     "keywords": [
       "Biais de l'autruche",
       "Deuil",
-      "Psychologie"
+      "Biais cognitif"
     ],
     "character_keywords": [
       "Vivre un deuil",
@@ -1349,7 +1349,7 @@
     "keywords": [
       "Biais de confirmation",
       "Conflits",
-      "Psychologie"
+      "Gestion émotionnelle"
     ],
     "character_keywords": [
       "Vigilance dans les relations",
@@ -1396,8 +1396,8 @@
     "character_id": "margot",
     "keywords": [
       "Biais du coût irrécupérable",
-      "Psychologie",
-      "Reconversion"
+      "Reconversion",
+      "Biais cognitif"
     ],
     "character_keywords": [
       "Quête de sens",
@@ -1492,8 +1492,8 @@
     "character_id": "monique",
     "keywords": [
       "Biais de normalité",
-      "Psychologie",
-      "Biais cognitifs"
+      "Biais cognitifs",
+      "Changement de vie"
     ],
     "character_keywords": [
       "Vivre un deuil",
@@ -1604,8 +1604,8 @@
     "character_id": "camille",
     "keywords": [
       "Biais de négativité",
-      "Psychologie",
-      "Prise de décision"
+      "Prise de décision",
+      "Neurosciences"
     ],
     "character_keywords": [
       "Émotions intenses",
@@ -1636,8 +1636,8 @@
     "character_id": "bernard",
     "keywords": [
       "Biais d'omission",
-      "Psychologie",
-      "Biais cognitif"
+      "Biais cognitif",
+      "Solitude"
     ],
     "character_keywords": [
       "Vivre un deuil",
@@ -1668,8 +1668,8 @@
     "character_id": "patrick",
     "keywords": [
       "Biais du point aveugle",
-      "Psychologie",
-      "Vieillissement"
+      "Vieillissement",
+      "Biais cognitif"
     ],
     "character_keywords": [
       "Émotions retenues",
@@ -1876,8 +1876,8 @@
     "character_id": "lucas",
     "keywords": [
       "Effet de dotation",
-      "Psychologie",
-      "Biais cognitifs"
+      "Biais cognitifs",
+      "Prise de décision"
     ],
     "character_keywords": [
       "Sentiment d’imposture",
@@ -1892,8 +1892,8 @@
     "character_id": "sophie",
     "keywords": [
       "Effet Dunning-Kruger",
-      "Psychologie",
-      "Biais cognitifs"
+      "Biais cognitifs",
+      "Prise de décision"
     ],
     "character_keywords": [
       "Suranalyse",
@@ -1940,8 +1940,8 @@
     "character_id": "mei",
     "keywords": [
       "Effet de simple exposition",
-      "Psychologie",
-      "Réseaux sociaux"
+      "Réseaux sociaux",
+      "Estime de soi"
     ],
     "character_keywords": [
       "Inquiétude sociale",
@@ -2052,8 +2052,8 @@
     "character_id": "fabien",
     "keywords": [
       "Les \"je dois/il faut\"",
-      "Psychologie",
-      "Flexibilité cognitive"
+      "Flexibilité cognitive",
+      "Relations"
     ],
     "character_keywords": [
       "Épuisement au travail",
@@ -2100,8 +2100,8 @@
     "character_id": "nadia",
     "keywords": [
       "Illusion de contrôle",
-      "Psychologie",
-      "Parentalité"
+      "Parentalité",
+      "Lâcher-prise"
     ],
     "character_keywords": [
       "Perfectionnisme",
@@ -2133,7 +2133,7 @@
     "keywords": [
       "Journaling de pensées",
       "Journaling",
-      "Psychologie"
+      "Intimité"
     ],
     "character_keywords": [
       "Perfectionnisme",
@@ -2227,9 +2227,9 @@
     "character": "Sophie",
     "character_id": "sophie",
     "keywords": [
-      "Overthinking",
       "Suranalyse",
-      "Surpensee"
+      "Travail",
+      "Gestion du stress"
     ],
     "character_keywords": [
       "Suranalyse",
@@ -2292,8 +2292,8 @@
     "character_id": "isabelle",
     "keywords": [
       "Pensées automatiques négatives",
-      "Psychologie",
-      "Amitié"
+      "Amitié",
+      "Restructuration cognitive"
     ],
     "character_keywords": [
       "Fatigue à aider",
@@ -2308,8 +2308,8 @@
     "character_id": "sophie",
     "keywords": [
       "Pensées automatiques négatives",
-      "Psychologie",
-      "Pensées automatiques"
+      "Pensées automatiques",
+      "Santé mentale"
     ],
     "character_keywords": [
       "Suranalyse",
@@ -2388,8 +2388,8 @@
     "character_id": "adrien",
     "keywords": [
       "Rumination",
-      "Psychologie",
-      "Freelance"
+      "Freelance",
+      "Solitude"
     ],
     "character_keywords": [
       "Émotions changeantes",
@@ -2485,7 +2485,7 @@
     "keywords": [
       "Abnégation/sacrifice de soi",
       "Abnégation",
-      "Psychologie"
+      "Schémas précoces"
     ],
     "character_keywords": [
       "Suranalyse",
@@ -2500,8 +2500,8 @@
     "character_id": "patrick",
     "keywords": [
       "Acting out",
-      "Psychologie",
-      "Relations familiales"
+      "Relations familiales",
+      "Gestion des émotions"
     ],
     "character_keywords": [
       "Émotions retenues",
@@ -2517,7 +2517,7 @@
     "keywords": [
       "L'adultification",
       "Adultification",
-      "Psychologie"
+      "Enfant-parentifie"
     ],
     "character_keywords": [
       "Épuisement au travail",
@@ -2532,8 +2532,8 @@
     "character_id": "adrien",
     "keywords": [
       "Annulation rétroactive",
-      "Psychologie",
-      "Relations toxiques"
+      "Relations toxiques",
+      "Mécanismes de défense"
     ],
     "character_keywords": [
       "Émotions changeantes",
@@ -2549,7 +2549,7 @@
     "keywords": [
       "Assujettissement",
       "Autorité",
-      "Psychologie"
+      "Schémas"
     ],
     "character_keywords": [
       "Inquiétude sociale",
@@ -2613,7 +2613,7 @@
     "keywords": [
       "Attachement sécure",
       "Parentalité",
-      "Psychologie"
+      "Schémas répétitifs"
     ],
     "character_keywords": [
       "Émotions intenses",
@@ -2676,8 +2676,8 @@
     "character_id": "sophie",
     "keywords": [
       "Échec",
-      "Psychologie",
-      "Schémas précoces"
+      "Schémas précoces",
+      "Résilience"
     ],
     "character_keywords": [
       "Suranalyse",
@@ -2692,8 +2692,8 @@
     "character_id": "fabien",
     "keywords": [
       "Compulsion de répétition",
-      "Psychologie",
-      "Freud"
+      "Freud",
+      "Schémas répétitifs"
     ],
     "character_keywords": [
       "Épuisement au travail",
@@ -2725,7 +2725,7 @@
     "keywords": [
       "Croyances limitantes",
       "Reconversion professionnelle",
-      "Psychologie"
+      "Confiance en soi"
     ],
     "character_keywords": [
       "Quête de sens",
@@ -2757,7 +2757,7 @@
     "keywords": [
       "Déni",
       "Échec professionnel",
-      "Psychologie"
+      "Perfectionnisme"
     ],
     "character_keywords": [
       "Émotions changeantes",
@@ -2788,8 +2788,8 @@
     "character_id": "adrien",
     "keywords": [
       "Dépendance/incompétence",
-      "Psychologie",
-      "Schémas précoces"
+      "Schémas précoces",
+      "Autonomie"
     ],
     "character_keywords": [
       "Émotions changeantes",
@@ -2836,8 +2836,8 @@
     "character_id": "karim",
     "keywords": [
       "Droits personnels excessifs/grandiosité",
-      "Psychologie",
-      "Schémas précoces"
+      "Schémas précoces",
+      "Finances"
     ],
     "character_keywords": [
       "Besoin de contrôle",
@@ -2964,8 +2964,8 @@
     "character_id": "sophie",
     "keywords": [
       "Formation réactionnelle",
-      "Psychologie",
-      "Mécanismes de défense"
+      "Mécanismes de défense",
+      "Relations toxiques"
     ],
     "character_keywords": [
       "Suranalyse",
@@ -3092,8 +3092,8 @@
     "character_id": "youssef",
     "keywords": [
       "Isolation de l'affect",
-      "Psychologie",
-      "Gestion de conflit"
+      "Gestion de conflit",
+      "Intelligence émotionnelle"
     ],
     "character_keywords": [
       "Identifier ses émotions",
@@ -3188,8 +3188,8 @@
     "character_id": "monique",
     "keywords": [
       "Loyautés invisibles",
-      "Psychologie",
-      "Famille"
+      "Famille",
+      "Héritage"
     ],
     "character_keywords": [
       "Vivre un deuil",
@@ -3220,8 +3220,8 @@
     "character_id": "djamila",
     "keywords": [
       "Méfiance/abus",
-      "Psychologie",
-      "Schémas précoces"
+      "Schémas précoces",
+      "Amitié"
     ],
     "character_keywords": [
       "Vigilance dans les relations",
@@ -3237,7 +3237,7 @@
     "keywords": [
       "Méfiance/abus",
       "Schémas de pensée",
-      "Psychologie"
+      "Relation au travail"
     ],
     "character_keywords": [
       "Éviter ses émotions",
@@ -3332,8 +3332,8 @@
     "character_id": "karim",
     "keywords": [
       "Prophéties autoréalisatrices",
-      "Psychologie",
-      "Comportement"
+      "Comportement",
+      "Réussite"
     ],
     "character_keywords": [
       "Besoin de contrôle",
@@ -3380,8 +3380,8 @@
     "character_id": "priya",
     "keywords": [
       "Rationalisation",
-      "Psychologie",
-      "Prise de décision"
+      "Prise de décision",
+      "Mécanismes de défense"
     ],
     "character_keywords": [
       "Éviter ses émotions",
@@ -3412,8 +3412,8 @@
     "character_id": "lucas",
     "keywords": [
       "Recherche d'approbation/reconnaissance",
-      "Psychologie",
-      "Amitié"
+      "Amitié",
+      "Enfance"
     ],
     "character_keywords": [
       "Sentiment d’imposture",
@@ -3477,7 +3477,7 @@
     "keywords": [
       "Le scénario de vie",
       "Analyse transactionnelle",
-      "Psychologie"
+      "Famille"
     ],
     "character_keywords": [
       "Épuisement au travail",
@@ -3620,8 +3620,8 @@
     "character_id": "stephane",
     "keywords": [
       "Le syndrome de Stockholm du quotidien",
-      "Psychologie",
-      "Relations familiales"
+      "Relations familiales",
+      "Traumatisme"
     ],
     "character_keywords": [
       "Inquiétude dans les relations",
@@ -3636,8 +3636,8 @@
     "character_id": "monique",
     "keywords": [
       "Transmissions transgénérationnelles",
-      "Psychologie",
-      "Famille"
+      "Famille",
+      "Héritage émotionnel"
     ],
     "character_keywords": [
       "Vivre un deuil",
@@ -3652,8 +3652,8 @@
     "character_id": "fabien",
     "keywords": [
       "Transmissions transgénérationnelles",
-      "Psychologie",
-      "Famille"
+      "Famille",
+      "Héritage émotionnel"
     ],
     "character_keywords": [
       "Épuisement au travail",
