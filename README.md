@@ -28,4 +28,4 @@ node --test journal/tests/backend.test.mjs
 python -m unittest discover -s journal/tests -p 'test_personal_pipeline.py'
 ```
 
-La compilation Hugo, 18 tests backend et 6 tests Python passent. Le test de volume couvre les 231 articles avec de longues explications, sans perte des sources. Voir `journal/README.md` et `docs/evolution-par-articles-aimes.md` pour la mise en service et les validations réelles.
+La compilation Hugo, 19 tests backend et 7 tests Python passent. Le test de volume couvre les 231 articles avec de longues explications, sans perte des sources. Voir `journal/README.md` et `docs/evolution-par-articles-aimes.md` pour la mise en service et les validations réelles.
