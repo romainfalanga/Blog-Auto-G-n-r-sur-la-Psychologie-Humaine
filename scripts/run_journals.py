@@ -9,22 +9,40 @@ import sys
 import time
 import urllib.parse
 import urllib.request
+import urllib.error
 
 from generate_personal_articles import generate
+
+
+class TransportFailure(RuntimeError):
+    pass
 
 
 def internal(path, payload):
     token_url = os.environ['ACTIONS_ID_TOKEN_REQUEST_URL']
     token_url += ('&' if '?' in token_url else '?') + urllib.parse.urlencode({'audience':'decode-ton-esprit-journal'})
     req = urllib.request.Request(token_url, headers={'Authorization':'Bearer '+os.environ['ACTIONS_ID_TOKEN_REQUEST_TOKEN']})
-    with urllib.request.urlopen(req, timeout=30) as response:
-        token = json.load(response)['value']
+    try:
+        with urllib.request.urlopen(req, timeout=30) as response:
+            token = json.load(response)['value']
+    except urllib.error.HTTPError as exc:
+        raise TransportFailure('oidc_http_'+str(exc.code)) from None
     base = os.environ.get('JOURNAL_URL','https://decodetonesprit.fr').rstrip('/')
     req = urllib.request.Request(base+'/api/internal/jobs'+path,
         data=json.dumps(payload,ensure_ascii=False).encode(),
         headers={'Content-Type':'application/json','Authorization':'Bearer '+token})
-    with urllib.request.urlopen(req,timeout=210) as response:
-        return json.load(response)
+    try:
+        with urllib.request.urlopen(req,timeout=210) as response:
+            return json.load(response)
+    except urllib.error.HTTPError as exc:
+        # Only fixed operational codes may enter public Actions logs.
+        known={'Workflow non autorisé.':'workflow_claims','Identité automatique requise.':'identity_missing',
+               'Signature invalide.':'signature_invalid','Identité invalide.':'identity_invalid'}
+        try:
+            code=known.get(json.load(exc).get('error'),'request_failed')
+        except Exception:
+            code='response_unavailable'
+        raise TransportFailure('worker_http_'+str(exc.code)+'_'+code) from None
 
 
 def proxy(job, payload):
@@ -60,6 +78,9 @@ def main():
 if __name__=='__main__':
     try:
         sys.exit(main())
+    except TransportFailure as exc:
+        print('Private workflow transport: '+str(exc)+'. Personal data omitted.')
+        sys.exit(1)
     except Exception:
         print('Private workflow unavailable. Check configuration and job state; personal data omitted.')
         sys.exit(1)

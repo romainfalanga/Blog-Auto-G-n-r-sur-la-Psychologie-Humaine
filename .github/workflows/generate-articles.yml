@@ -9,6 +9,7 @@ on:
     paths:
       - '.github/workflows/generate-articles.yml'
       - 'scripts/generate_personal_articles.py'
+      - 'scripts/run_journals.py'
 
 permissions:
   contents: read
