@@ -1,6 +1,6 @@
 # Journal fondé sur les articles aimés
 
-URL : https://decodetonesprit.fr/journal/.
+Pages : `/mes-histoires/`, `/mes-articles/`, `/mon-portrait/`, `/mon-compte/` sur https://decodetonesprit.fr. Les anciens liens `/journal/` sont redirigés vers la page correspondante.
 
 ## Données et migrations
 

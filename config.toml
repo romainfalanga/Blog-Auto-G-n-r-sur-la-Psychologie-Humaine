@@ -44,27 +44,26 @@ title = "Décode ton esprit — Comprends-toi grâce à la psychologie"
   [[menu.main]]
     name = "Accueil"
     url = "/"
-    weight = -1
-  [[menu.main]]
-    name = "Contrôle des pensées"
-    url = "/posts/reprendre-le-controle-de-ses-pensees/"
     weight = 1
   [[menu.main]]
-    name = "Maîtrise des émotions"
-    url = "/posts/comprendre-et-maitriser-ses-emotions/"
+    name = "Nos personnages"
+    url = "/personnages/"
     weight = 2
   [[menu.main]]
-    name = "Schémas répétitifs"
-    url = "/posts/sortir-de-ses-schemas-repetitifs/"
+    name = "Mes histoires"
+    url = "/mes-histoires/"
     weight = 3
   [[menu.main]]
-    name = "Nos Personnages"
-    url = "/personnages/"
+    name = "Mes articles aimés"
+    url = "/mes-articles/"
     weight = 4
   [[menu.main]]
-    name = "Mon journal"
-    url = "/journal/"
+    name = "Mon portrait"
+    url = "/mon-portrait/"
     weight = 5
-
+  [[menu.main]]
+    name = "Mon compte"
+    url = "/mon-compte/"
+    weight = 6
 
 enableRobotsTXT = true

@@ -1,0 +1,9 @@
+{{- if and .File (eq .Section "posts") -}}
+{{- $id := strings.TrimSuffix ".md" .File.Path -}}
+{{- with index .Site.Data.article_intros $id -}}
+<section class="article-overview" aria-label="En quelques mots">
+  <h2>En quelques mots</h2>
+  <p>{{ .text }}</p>
+</section>
+{{- end -}}
+{{- end -}}

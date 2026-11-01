@@ -105,6 +105,9 @@ def character_catalog():
 
 
 def build():
+    # Keep the extractive article overviews current alongside the public catalogue.
+    from build_article_intros import build as build_article_intros
+    build_article_intros()
     examples = []
     characters = character_catalog()
     articles_data = {}

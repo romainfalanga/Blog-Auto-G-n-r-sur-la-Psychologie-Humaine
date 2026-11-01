@@ -341,7 +341,17 @@ async function internal(request,env,path) {
 async function routes(request,env) {
   const url=new URL(request.url),path=url.pathname,method=request.method;
   if(method==='GET'&&path==='/') return Response.redirect('https://decodetonesprit.fr/',302);
-  if(method==='GET'&&['/journal','/journal/'].includes(path)) return new Response(HTML,{headers:{'Content-Type':'text/html; charset=utf-8'}});
+  const pageTitles={'/mes-histoires':'Mes histoires','/mes-articles':'Mes articles aimés','/mon-portrait':'Mon portrait','/mon-compte':'Mon compte'};
+  const pagePath=path.replace(/\/$/,'');
+  if(['GET','HEAD'].includes(method)&&pageTitles[pagePath]) {
+    const page=HTML.replace(/<title>[^<]*<\/title>/,'<title>'+pageTitles[pagePath]+' · Décode ton esprit</title>');
+    return new Response(method==='HEAD'?null:page,{headers:{'Content-Type':'text/html; charset=utf-8'}});
+  }
+  if(['GET','HEAD'].includes(method)&&['/journal','/journal/'].includes(path)) {
+    const tab=url.searchParams.get('tab');
+    const destination=url.searchParams.has('payment')?'/mon-compte/':url.searchParams.has('story')?'/mes-histoires/':url.searchParams.has('article')||url.searchParams.has('character')||tab==='likes'?'/mes-articles/':tab==='portrait'?'/mon-portrait/':tab==='account'?'/mon-compte/':'/mes-histoires/';
+    return Response.redirect(new URL(destination+url.search,env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
+  }
   if(method==='GET'&&path==='/api/examples') return json({examples:EXAMPLES.map(({id,title,url,character,description,keywords,character_keywords,sujet,category})=>({id,title,url,character,description,keywords:keywords||[],character_keywords:character_keywords||[],sujet:sujet||'',category:category||''}))});
   if(method==='GET'&&path==='/api/health') return json({ok:true,billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY)});
   if(method==='GET'&&path==='/robots.txt') return new Response('User-agent: *\nDisallow: /\n');
@@ -470,13 +480,13 @@ async function routes(request,env) {
     const sessions=await stripe(env,'checkout/sessions?customer='+encodeURIComponent(customer)+'&status=open&limit=100');
     const open=sessions.data?.find(s=>s.mode==='subscription'&&s.url);
     if(open) {await run(env,'UPDATE subscriptions SET checkout_session_id=? WHERE user_id=? AND checkout_attempt=?',open.id,user.id,state.checkout_attempt);return json({url:open.url});}
-    const result=await stripe(env,'checkout/sessions','POST',{'mode':'subscription','customer':customer,'line_items[0][price]':env.STRIPE_PRICE_ID,'line_items[0][quantity]':'1','success_url':origin+'/journal/?payment=success','cancel_url':origin+'/journal/?payment=cancelled','client_reference_id':user.id,'subscription_data[metadata][user_id]':user.id},'dte-checkout-'+user.id+'-'+state.checkout_attempt);
+    const result=await stripe(env,'checkout/sessions','POST',{'mode':'subscription','customer':customer,'line_items[0][price]':env.STRIPE_PRICE_ID,'line_items[0][quantity]':'1','success_url':origin+'/mon-compte/?payment=success','cancel_url':origin+'/mon-compte/?payment=cancelled','client_reference_id':user.id,'subscription_data[metadata][user_id]':user.id},'dte-checkout-'+user.id+'-'+state.checkout_attempt);
     await run(env,'UPDATE subscriptions SET checkout_session_id=? WHERE user_id=? AND checkout_attempt=?',result.id,user.id,state.checkout_attempt);
     return json({url:result.url});
   }
   if(path==='/api/billing/portal'&&method==='POST') {
     const sub=await first(env,'SELECT customer_id FROM subscriptions WHERE user_id=?',user.id); if(!sub?.customer_id) error(400,'Aucun abonnement à gérer.');
-    const result=await stripe(env,'billing_portal/sessions','POST',{'customer':sub.customer_id,'return_url':(env.PUBLIC_ORIGIN||url.origin)+'/journal/'}); return json({url:result.url});
+    const result=await stripe(env,'billing_portal/sessions','POST',{'customer':sub.customer_id,'return_url':(env.PUBLIC_ORIGIN||url.origin)+'/mon-compte/'}); return json({url:result.url});
   }
   if(path==='/api/export'&&method==='GET') {
     const profile=await first(env,'SELECT data,consent_ai FROM profiles WHERE user_id=?',user.id),memory=await first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id);

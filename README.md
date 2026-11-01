@@ -1,6 +1,6 @@
 # Décode ton esprit
 
-Site existant : https://decodetonesprit.fr ; journal privé : https://decodetonesprit.fr/journal/.
+Site existant : https://decodetonesprit.fr ; pages personnelles : https://decodetonesprit.fr/mes-histoires/, https://decodetonesprit.fr/mes-articles/, https://decodetonesprit.fr/mon-portrait/ et https://decodetonesprit.fr/mon-compte/.
 
 Les 231 articles et 20 personnages d’origine sont conservés. Des mots-clés tirés de leurs caractéristiques et thèmes facilitent la découverte sur les personnages, l’accueil, les catégories, les suggestions et les articles.
 

@@ -1,13 +1,7 @@
 {{ define "main" }}
 <section class="hero">
   <h1>Comprends-toi mieux grâce à la psychologie humaine</h1>
-  <p class="tagline">Les personnages de nos histoires traversent des situations que vous connaissez peut-être : une pensée piégée par un biais cognitif, une émotion difficile à apprivoiser, un schéma qui se répète sans qu'on comprenne pourquoi. À travers ces histoires concrètes, nous explorons ensemble les mécanismes qui influencent vos pensées, les émotions qui guident vos choix, et les schémas répétitifs qui façonnent vos relations. La psychologie devient ainsi plus facile à comprendre, plus mémorable, et surtout plus utile au quotidien.</p>
-  <div class="journal-invitation" role="note">
-    <h2>Et si le prochain personnage, c’était vous ?</h2>
-    <p>Parmi les {{ len (where .Site.RegularPages "Section" "posts") }} articles du site, choisissez les histoires qui vous parlent. Aimez celles dans lesquelles vous vous retrouvez et ajoutez une explication si vous le souhaitez. Vos lectures prépareront votre portrait et vos histoires sur mesure.</p>
-    <p>Après une dizaine d’articles aimés et votre abonnement, recevez une histoire fictive chaque jour. Vos nouveaux choix et vos retours affineront les suivantes. Le journal personnel est proposé à 10 € par mois ; les articles du site restent accessibles librement.</p>
-    <a class="journal-cta" href="/journal/">Préparer mon journal personnel</a>
-  </div>
+  <p class="tagline">Les personnages de nos histoires traversent des situations que vous connaissez peut-être : une pensée piégée par un biais cognitif, une émotion difficile à apprivoiser, un schéma qui se répète sans qu'on comprenne pourquoi. À travers ces histoires concrètes, nous explorons ensemble les mécanismes qui influencent vos pensées, les émotions qui guident vos choix, et les schémas répétitifs qui façonnent vos relations. La psychologie devient ainsi plus facile à comprendre, plus mémorable, et surtout plus utile au quotidien. Vous pouvez aussi <a href="/mes-articles/">créer votre propre personnage</a>, façonné par les histoires qui vous parlent et affiné par vos retours, pour explorer ce qui vous ressemble et mieux vous comprendre.</p>
 </section>
 
 <div class="container-wide">
@@ -26,5 +20,9 @@
       {{ end }}
     {{ end }}
   {{ end }}
+  <section class="home-characters" aria-labelledby="home-characters-title">
+    <div><h2 id="home-characters-title">Nos personnages</h2><p>Une autre façon de réagir, une émotion familière, un parcours différent : explorez les personnages pour trouver d’autres histoires qui vous parlent.</p></div>
+    <a class="characters-discovery-link" href="/personnages/">Découvrir les personnages</a>
+  </section>
 </div>
 {{ end }}

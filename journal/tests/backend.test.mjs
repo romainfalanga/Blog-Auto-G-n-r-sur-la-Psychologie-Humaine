@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
+import { runInNewContext } from 'node:vm';
 import { DatabaseSync } from 'node:sqlite';
 import { createRecommender } from '../src/recommendations.mjs';
 const examples=Array.from({length:14},(_,i)=>({id:`category/example-${i+1}`,title:`Exemple ${i+1}`,url:`https://decodetonesprit.fr/posts/example-${i+1}/`,character:'Personnage '+i,keywords:['confiance','relations'],description:`Résumé canonique ${i+1}`}));
@@ -10,7 +11,7 @@ globalThis.__backendRecommendationFactory=items=>{
  const engine=createRecommender(items);
  return {recommend(context,options){recommendationContexts.push(structuredClone(context));return engine.recommend(context,options);},provisionalPortrait(context){recommendationContexts.push(structuredClone(context));return engine.provisionalPortrait(context);}};
 };
-const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<h1>Journal</h1>';").replace("import { EXAMPLES } from './examples.mjs';",'const EXAMPLES='+JSON.stringify(examples)+';').replace("import { createRecommender } from './recommendations.mjs';",'const createRecommender=globalThis.__backendRecommendationFactory;');
+const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>Mes histoires</title><main>App shell</main>';").replace("import { EXAMPLES } from './examples.mjs';",'const EXAMPLES='+JSON.stringify(examples)+';').replace("import { createRecommender } from './recommendations.mjs';",'const createRecommender=globalThis.__backendRecommendationFactory;');
 const {default:worker,passwordHash,constantEqual,verifyStripeSignature,validateClaims,activeSubscription,claimJobs,completeJob,proxyJobLLM,runGenerationBatch}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));
 function database({legacy=false}={}) {
  const db=new DatabaseSync(':memory:');
@@ -35,7 +36,7 @@ test('salted password derivation and constant comparison',async()=>{const a=awai
 test('OIDC exact repository, branch, workflow and allowed events',()=>{const c={iss:'https://token.actions.githubusercontent.com',aud:'decode-ton-esprit-journal',repository:'romainfalanga/Blog-Auto-G-n-r-sur-la-Psychologie-Humaine',ref:'refs/heads/main',workflow_ref:'romainfalanga/Blog-Auto-G-n-r-sur-la-Psychologie-Humaine/.github/workflows/generate-articles.yml@refs/heads/main',event_name:'schedule',iat:1000,nbf:1000,exp:1600};for(const event_name of ['schedule','workflow_dispatch','push'])assert.equal(validateClaims({...c,event_name},c.repository,1100),true);for(const change of [{ref:'refs/heads/evil'},{aud:'other'},{workflow_ref:c.workflow_ref.replace('generate-articles','evil')},{exp:1050},{event_name:'pull_request'}])assert.equal(validateClaims({...c,...change},c.repository,1100),false);});
 test('Stripe signature and paid entitlement verification',async()=>{const secret='test-key',raw='{"id":"evt_test"}',ts=1000;const key=await crypto.subtle.importKey('raw',new TextEncoder().encode(secret),{name:'HMAC',hash:'SHA-256'},false,['sign']);const sig=Buffer.from(await crypto.subtle.sign('HMAC',key,new TextEncoder().encode(ts+'.'+raw))).toString('hex');assert.equal(await verifyStripeSignature(raw,`t=${ts},v1=${sig}`,secret,1100),true);assert.equal(await verifyStripeSignature(raw+' ',`t=${ts},v1=${sig}`,secret,1100),false);assert.equal(await verifyStripeSignature(raw,`t=${ts},v1=${sig}`,secret,1500),false);assert.equal(activeSubscription({status:'active',paid_until:1200},1100),true);assert.equal(activeSubscription({status:'past_due',paid_until:1200},1100),false);});
 test('legacy inspirations migrate losslessly without deleting source rows',()=>{const db=database({legacy:true});db.raw.prepare('INSERT INTO users(id,email,password_hash,password_salt) VALUES(?,?,?,?)').run('u','legacy@example.com','hash','salt');db.raw.prepare('INSERT INTO profiles(user_id) VALUES(?)').run('u');db.raw.prepare('INSERT INTO inspiration_selections(user_id,article_id,reason,differences) VALUES(?,?,?,?)').run('u',examples[0].id,'Cela me parle','Mais ma vie diffère');db.raw.exec(readFileSync(new URL('../migrations/0003_likes_portraits.sql',import.meta.url),'utf8'));const row=db.raw.prepare('SELECT * FROM article_likes').get();assert.equal(row.reason,'Cela me parle');assert.equal(row.differences,'Mais ma vie diffère');assert.equal(db.raw.prepare('SELECT count(*) n FROM inspiration_selections').get().n,1);});
-test('public routes and authentication/origin boundaries',async()=>{const env={DB:database()};let r=await request(env,'/');assert.equal(r.status,302);assert.equal(r.headers.get('location'),'https://decodetonesprit.fr/');for(const path of ['/journal','/journal/'])assert.equal((await request(env,path)).status,200);const catalog=(await (await request(env,'/api/examples')).json()).examples;assert.equal(catalog.length,14);assert.equal(catalog[0].body,undefined);assert.equal((await request(env,'/api/likes')).status,401);const a=await register(env);r=await request(env,'/api/consent',{method:'PUT',cookie:a.cookie,originHeader:'https://evil.test',data:{consent_ai:true}});assert.equal(r.status,403);assert.equal((await request(env,'/api/internal/jobs/claim',{method:'POST',data:{}})).status,401);});
+test('public routes and authentication/origin boundaries',async()=>{const env={DB:database()};let r=await request(env,'/');assert.equal(r.status,302);assert.equal(r.headers.get('location'),'https://decodetonesprit.fr/');for(const path of ['/mes-histoires','/mes-histoires/','/mes-articles','/mes-articles/','/mon-portrait','/mon-portrait/','/mon-compte','/mon-compte/'])assert.equal((await request(env,path)).status,200);const catalog=(await (await request(env,'/api/examples')).json()).examples;assert.equal(catalog.length,14);assert.equal(catalog[0].body,undefined);assert.equal((await request(env,'/api/likes')).status,401);const a=await register(env);r=await request(env,'/api/consent',{method:'PUT',cookie:a.cookie,originHeader:'https://evil.test',data:{consent_ai:true}});assert.equal(r.status,403);assert.equal((await request(env,'/api/internal/jobs/claim',{method:'POST',data:{}})).status,401);});
 test('unlimited likes and optional explanations invalidate source only on actual changes',async()=>{
  const env={DB:database()};const a=await register(env),b=await register(env,'b@example.com');await prepareUser(env,a,14);
  let me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.deepEqual(me.readiness,{likes_count:14,explained_count:0,target:10,ready:true});assert.equal(me.profile.display_name,undefined);const source=me.source_version;
@@ -98,6 +99,7 @@ test('Checkout reuses durable attempts, rotates expired sessions, reconciles sub
    if(p==='/v1/subscriptions/sub_a')return result(live);
    if(p==='/v1/checkout/sessions'&&method==='GET')return result({data:[...sessions.values()].filter(s=>s.status==='open')});
    if(p==='/v1/checkout/sessions'&&method==='POST'){
+     const fields=new URLSearchParams(options.body);assert.equal(fields.get('success_url'),origin+'/mon-compte/?payment=success');assert.equal(fields.get('cancel_url'),origin+'/mon-compte/?payment=cancelled');
      const k=options.headers['Idempotency-Key'];keys.push(k);if(idempotency.has(k))return result(idempotency.get(k));
      const s={id:'cs_'+(++serial),status:'open',mode:'subscription',url:'https://checkout.stripe.com/'+serial};sessions.set(s.id,s);idempotency.set(k,s);return result(s);
    }
@@ -245,4 +247,42 @@ test('current state and reading preferences require explicit comments, with twel
  p.reading_preferences.preferred=Array.from({length:13},()=>({label:'Exemples concrets',evidence:[examples[0].id]}));await assert.rejects(complete(env,job,{portrait:p}),e=>e.status===400);
  p.reading_preferences.preferred=p.reading_preferences.preferred.slice(0,12);p.reading_preferences.preferred[0].label='x'.repeat(160);await complete(env,job,{portrait:p});
  const saved=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(saved.portrait.reading_preferences.preferred.length,12);assert.equal(saved.portrait.current_state.summary,p.current_state.summary);
+});
+
+
+test('real personal page URLs refresh safely with distinct HTTP titles',async()=>{
+ const env={DB:database(),PUBLIC_ORIGIN:origin};
+ const pages={'mes-histoires':'Mes histoires','mes-articles':'Mes articles aimés','mon-portrait':'Mon portrait','mon-compte':'Mon compte'};
+ const a=await register(env,'pages-a@example.com'),b=await register(env,'pages-b@example.com');
+ await like(env,a,0,'Private note belonging only to A');
+ for(const [path,title] of Object.entries(pages))for(const suffix of ['', '/'])for(const cookie of [undefined,a.cookie,b.cookie]){
+   const response=await request(env,'/'+path+suffix+'?article=category%2Fexample-1&like=1',{cookie});
+   assert.equal(response.status,200);assert.equal(response.headers.get('location'),null);assert.match(response.headers.get('cache-control'),/no-store/);
+   const html=await response.text();assert.ok(html.includes('<title>'+title+' · Décode ton esprit</title>'));
+   assert.equal(html.includes('Private note'),false);assert.equal(html.includes(a.user.email),false);
+ }
+ const head=await request(env,'/mon-portrait/',{method:'HEAD'});assert.equal(head.status,200);assert.equal(await head.text(),'');
+ assert.equal((await request(env,'/api/likes')).status,401);
+ assert.equal((await (await request(env,'/api/likes',{cookie:a.cookie})).json()).likes[0].reason,'Private note belonging only to A');
+ assert.deepEqual((await (await request(env,'/api/likes',{cookie:b.cookie})).json()).likes,[]);
+});
+
+test('legacy journal redirects preserve intent and query without slash loops',async()=>{
+ const env={PUBLIC_ORIGIN:origin};
+ const cases=[['','/mes-histoires/'],['?tab=journal','/mes-histoires/'],['?tab=likes','/mes-articles/'],['?tab=portrait','/mon-portrait/'],['?tab=account','/mon-compte/'],['?article=posts%2Fexample&like=1','/mes-articles/'],['?character=Camille','/mes-articles/'],['?story=private-id','/mes-histoires/'],['?payment=success','/mon-compte/'],['?payment=cancelled&tab=likes','/mon-compte/']];
+ for(const base of ['/journal','/journal/'])for(const [query,path] of cases){
+   const response=await request(env,base+query);assert.equal(response.status,302);
+   const target=new URL(response.headers.get('location'));assert.equal(target.origin,origin);assert.equal(target.pathname,path);assert.equal(target.search,query);
+   const destination=await request(env,target.pathname+target.search);assert.equal(destination.status,200);assert.equal(destination.headers.get('location'),null);
+ }
+});
+
+test('private story previews use only existing definition prose and stay short',()=>{
+ const ui=readFileSync(new URL('../src/ui.mjs',import.meta.url),'utf8');
+ const start=ui.indexOf('function storyDefinitionPreview('),end=ui.indexOf('async function loadStory(',start);
+ const preview=runInNewContext(ui.slice(start,end)+';storyDefinitionPreview');
+ assert.equal(preview('Ouverture narrative.\n\n## Définition\n\nPremière phrase. Deuxième phrase ! Troisième phrase ? Quatrième phrase.\n\n## Autre partie\nContenu ignoré.'),'Première phrase. Deuxième phrase ! Troisième phrase ?');
+ assert.equal(preview('Seulement une histoire sans définition.'),'');
+ const long=preview('## Définition\n\n'+('Un mot très long dans une phrase. ').repeat(30));assert.ok(long.length<=450);assert.ok(long.split('.').length<=4);
+ assert.equal(preview('## Définition\n\n**Une piste** avec [un exemple](https://example.test).'),'Une piste avec un exemple.');
 });
