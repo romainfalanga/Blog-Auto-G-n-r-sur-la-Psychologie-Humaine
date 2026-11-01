@@ -1,28 +1,10 @@
 {{ define "main" }}
 <section class="hero">
   <h1>Comprends-toi mieux grâce à la psychologie humaine</h1>
-  <p class="tagline">Les personnages de nos histoires traversent des situations que vous connaissez peut-être : une pensée piégée par un biais cognitif, une émotion difficile à apprivoiser, un schéma qui se répète sans qu'on comprenne pourquoi. À travers ces histoires concrètes, nous explorons ensemble les mécanismes qui influencent vos pensées, les émotions qui guident vos choix, et les schémas répétitifs qui façonnent vos relations. La psychologie devient ainsi plus facile à comprendre, plus mémorable, et surtout plus utile au quotidien. Vous pouvez aussi <a href="/mes-articles/">créer votre propre personnage</a>, façonné par les histoires qui vous parlent et affiné par vos retours, pour explorer ce qui vous ressemble et mieux vous comprendre.</p>
+  <p class="tagline">Les personnages de nos histoires traversent des situations que vous connaissez peut-être : une pensée piégée par un biais cognitif, une émotion difficile à apprivoiser, un schéma qui se répète sans qu'on comprenne pourquoi. À travers ces histoires concrètes, nous explorons ensemble les mécanismes qui influencent vos pensées, les émotions qui guident vos choix, et les schémas répétitifs qui façonnent vos relations. La psychologie devient ainsi plus facile à comprendre, plus mémorable, et surtout plus utile au quotidien. Vous pouvez aussi <a href="/mon-portrait/">créer votre propre personnage</a>, façonné par les histoires qui vous parlent et affiné par vos retours, pour explorer ce qui vous ressemble et mieux vous comprendre.</p>
 </section>
 
 <div class="container-wide">
-  {{ range .Site.Sections }}
-    {{ if eq .Section "posts" }}
-      {{ range .Sections.ByWeight }}
-      <section class="category-section reveal">
-        <h2 class="category-section-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        <div class="articles-grid">
-          {{ range first 3 .Pages }}
-          {{ partial "article-card.html" (dict "page" . "level" "h3") }}
-          {{ end }}
-        </div>
-        <a href="{{ .RelPermalink }}" class="view-all">Voir tous les articles de la catégorie &laquo;&#8239;{{ .Title }}&#8239;&raquo;</a>
-      </section>
-      {{ end }}
-    {{ end }}
-  {{ end }}
-  <section class="home-characters" aria-labelledby="home-characters-title">
-    <div><h2 id="home-characters-title">Nos personnages</h2><p>Une autre façon de réagir, une émotion familière, un parcours différent : explorez les personnages pour trouver d’autres histoires qui vous parlent.</p></div>
-    <a class="characters-discovery-link" href="/personnages/">Découvrir les personnages</a>
-  </section>
+  {{ partial "character-directory.html" . }}
 </div>
 {{ end }}

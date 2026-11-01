@@ -36,7 +36,7 @@ test('salted password derivation and constant comparison',async()=>{const a=awai
 test('OIDC exact repository, branch, workflow and allowed events',()=>{const c={iss:'https://token.actions.githubusercontent.com',aud:'decode-ton-esprit-journal',repository:'romainfalanga/Blog-Auto-G-n-r-sur-la-Psychologie-Humaine',ref:'refs/heads/main',workflow_ref:'romainfalanga/Blog-Auto-G-n-r-sur-la-Psychologie-Humaine/.github/workflows/generate-articles.yml@refs/heads/main',event_name:'schedule',iat:1000,nbf:1000,exp:1600};for(const event_name of ['schedule','workflow_dispatch','push'])assert.equal(validateClaims({...c,event_name},c.repository,1100),true);for(const change of [{ref:'refs/heads/evil'},{aud:'other'},{workflow_ref:c.workflow_ref.replace('generate-articles','evil')},{exp:1050},{event_name:'pull_request'}])assert.equal(validateClaims({...c,...change},c.repository,1100),false);});
 test('Stripe signature and paid entitlement verification',async()=>{const secret='test-key',raw='{"id":"evt_test"}',ts=1000;const key=await crypto.subtle.importKey('raw',new TextEncoder().encode(secret),{name:'HMAC',hash:'SHA-256'},false,['sign']);const sig=Buffer.from(await crypto.subtle.sign('HMAC',key,new TextEncoder().encode(ts+'.'+raw))).toString('hex');assert.equal(await verifyStripeSignature(raw,`t=${ts},v1=${sig}`,secret,1100),true);assert.equal(await verifyStripeSignature(raw+' ',`t=${ts},v1=${sig}`,secret,1100),false);assert.equal(await verifyStripeSignature(raw,`t=${ts},v1=${sig}`,secret,1500),false);assert.equal(activeSubscription({status:'active',paid_until:1200},1100),true);assert.equal(activeSubscription({status:'past_due',paid_until:1200},1100),false);});
 test('legacy inspirations migrate losslessly without deleting source rows',()=>{const db=database({legacy:true});db.raw.prepare('INSERT INTO users(id,email,password_hash,password_salt) VALUES(?,?,?,?)').run('u','legacy@example.com','hash','salt');db.raw.prepare('INSERT INTO profiles(user_id) VALUES(?)').run('u');db.raw.prepare('INSERT INTO inspiration_selections(user_id,article_id,reason,differences) VALUES(?,?,?,?)').run('u',examples[0].id,'Cela me parle','Mais ma vie diffère');db.raw.exec(readFileSync(new URL('../migrations/0003_likes_portraits.sql',import.meta.url),'utf8'));const row=db.raw.prepare('SELECT * FROM article_likes').get();assert.equal(row.reason,'Cela me parle');assert.equal(row.differences,'Mais ma vie diffère');assert.equal(db.raw.prepare('SELECT count(*) n FROM inspiration_selections').get().n,1);});
-test('public routes and authentication/origin boundaries',async()=>{const env={DB:database()};let r=await request(env,'/');assert.equal(r.status,302);assert.equal(r.headers.get('location'),'https://decodetonesprit.fr/');for(const path of ['/mes-histoires','/mes-histoires/','/mes-articles','/mes-articles/','/mon-portrait','/mon-portrait/','/mon-compte','/mon-compte/'])assert.equal((await request(env,path)).status,200);const catalog=(await (await request(env,'/api/examples')).json()).examples;assert.equal(catalog.length,14);assert.equal(catalog[0].body,undefined);assert.equal((await request(env,'/api/likes')).status,401);const a=await register(env);r=await request(env,'/api/consent',{method:'PUT',cookie:a.cookie,originHeader:'https://evil.test',data:{consent_ai:true}});assert.equal(r.status,403);assert.equal((await request(env,'/api/internal/jobs/claim',{method:'POST',data:{}})).status,401);});
+test('public routes and authentication/origin boundaries',async()=>{const env={DB:database()};let r=await request(env,'/');assert.equal(r.status,302);assert.equal(r.headers.get('location'),'https://decodetonesprit.fr/');for(const path of ['/mes-histoires','/mes-histoires/','/mon-portrait','/mon-portrait/','/mon-compte','/mon-compte/'])assert.equal((await request(env,path)).status,200);const catalog=(await (await request(env,'/api/examples')).json()).examples;assert.equal(catalog.length,14);assert.equal(catalog[0].body,undefined);assert.equal((await request(env,'/api/likes')).status,401);const a=await register(env);r=await request(env,'/api/consent',{method:'PUT',cookie:a.cookie,originHeader:'https://evil.test',data:{consent_ai:true}});assert.equal(r.status,403);assert.equal((await request(env,'/api/internal/jobs/claim',{method:'POST',data:{}})).status,401);});
 test('unlimited likes and optional explanations invalidate source only on actual changes',async()=>{
  const env={DB:database()};const a=await register(env),b=await register(env,'b@example.com');await prepareUser(env,a,14);
  let me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.deepEqual(me.readiness,{likes_count:14,explained_count:0,target:10,ready:true});assert.equal(me.profile.display_name,undefined);const source=me.source_version;
@@ -252,7 +252,7 @@ test('current state and reading preferences require explicit comments, with twel
 
 test('real personal page URLs refresh safely with distinct HTTP titles',async()=>{
  const env={DB:database(),PUBLIC_ORIGIN:origin};
- const pages={'mes-histoires':'Mes histoires','mes-articles':'Mes articles aimés','mon-portrait':'Mon portrait','mon-compte':'Mon compte'};
+ const pages={'mes-histoires':'Mes histoires','mon-portrait':'Mon portrait','mon-compte':'Mon compte'};
  const a=await register(env,'pages-a@example.com'),b=await register(env,'pages-b@example.com');
  await like(env,a,0,'Private note belonging only to A');
  for(const [path,title] of Object.entries(pages))for(const suffix of ['', '/'])for(const cookie of [undefined,a.cookie,b.cookie]){
@@ -269,10 +269,10 @@ test('real personal page URLs refresh safely with distinct HTTP titles',async()=
 
 test('legacy journal redirects preserve intent and query without slash loops',async()=>{
  const env={PUBLIC_ORIGIN:origin};
- const cases=[['','/mes-histoires/'],['?tab=journal','/mes-histoires/'],['?tab=likes','/mes-articles/'],['?tab=portrait','/mon-portrait/'],['?tab=account','/mon-compte/'],['?article=posts%2Fexample&like=1','/mes-articles/'],['?character=Camille','/mes-articles/'],['?story=private-id','/mes-histoires/'],['?payment=success','/mon-compte/'],['?payment=cancelled&tab=likes','/mon-compte/']];
+ const cases=[['','/mes-histoires/'],['?tab=journal','/mes-histoires/'],['?tab=likes','/mon-portrait/'],['?tab=portrait','/mon-portrait/'],['?tab=account','/mon-compte/'],['?article=posts%2Fexample&like=1','/mon-portrait/'],['?character=Camille','/mon-portrait/'],['?story=private-id','/mes-histoires/'],['?payment=success','/mon-compte/'],['?payment=cancelled&tab=likes','/mon-compte/']];
  for(const base of ['/journal','/journal/'])for(const [query,path] of cases){
    const response=await request(env,base+query);assert.equal(response.status,302);
-   const target=new URL(response.headers.get('location'));assert.equal(target.origin,origin);assert.equal(target.pathname,path);assert.equal(target.search,query);
+   const target=new URL(response.headers.get('location'));assert.equal(target.origin,origin);assert.equal(target.pathname,path);assert.equal(target.search,query);assert.equal(target.hash,path==='/mon-portrait/'&&/article=|character=|tab=likes/.test(query)?'#mes-articles':'');
    const destination=await request(env,target.pathname+target.search);assert.equal(destination.status,200);assert.equal(destination.headers.get('location'),null);
  }
 });
@@ -285,4 +285,43 @@ test('private story previews use only existing definition prose and stay short',
  assert.equal(preview('Seulement une histoire sans définition.'),'');
  const long=preview('## Définition\n\n'+('Un mot très long dans une phrase. ').repeat(30));assert.ok(long.length<=450);assert.ok(long.split('.').length<=4);
  assert.equal(preview('## Définition\n\n**Une piste** avec [un exemple](https://example.test).'),'Une piste avec un exemple.');
+});
+
+
+test('former collection page redirects to portrait collection and preserves all intent',async()=>{
+ const env={PUBLIC_ORIGIN:origin};
+ for(const path of ['/mes-articles','/mes-articles/'])for(const method of ['GET','HEAD']){
+ const query='?article=posts%2Fexample&character=Camille&like=1&tab=likes';
+ const response=await request(env,path+query,{method});assert.equal(response.status,302);
+ const target=new URL(response.headers.get('location'));assert.equal(target.pathname,'/mon-portrait/');assert.equal(target.search,query);assert.equal(target.hash,'#mes-articles');
+ assert.equal((await request(env,target.pathname+target.search)).status,200);
+ }
+});
+
+test('like explanations preserve independent reason and differences, version actual edits and isolate users',async()=>{
+ const env={DB:database()},a=await register(env),b=await register(env,'different@example.com');
+ const path='/api/likes/'+encodeURIComponent(examples[0].id);
+ const put=async(data,cookie=a.cookie)=>request(env,path,{method:'PUT',cookie,data:{liked:true,...data}});
+ let r=await (await put({reason:'Une ressemblance',differences:'Une différence'})).json();const version=r.source_version;
+ assert.equal(r.likes[0].reason,'Une ressemblance');assert.equal(r.likes[0].differences,'Une différence');
+ r=await (await put({reason:'Une ressemblance'})).json();assert.equal(r.source_version,version);assert.equal(r.likes[0].differences,'Une différence');
+ r=await (await put({differences:'Autre différence'})).json();assert.equal(r.source_version,version+1);assert.equal(r.likes[0].reason,'Une ressemblance');
+ r=await (await put({})).json();assert.equal(r.source_version,version+1);assert.equal(r.likes[0].differences,'Autre différence');
+ r=await (await put({differences:''})).json();assert.equal(r.likes[0].differences,'');assert.equal(r.likes[0].reason,'Une ressemblance');assert.equal(r.source_version,version+2);
+ assert.equal((await put({differences:'é'.repeat(4001)})).status,400);
+ r=await (await put({reason:'à'.repeat(4000),differences:'é'.repeat(4000)})).json();assert.equal(r.likes[0].reason.length,4000);assert.equal(r.likes[0].differences.length,4000);
+ assert.deepEqual((await (await request(env,'/api/likes',{cookie:b.cookie})).json()).likes,[]);
+ await put({reason:'Compte B',differences:'Autre vécu'},b.cookie);
+ assert.equal((await (await request(env,'/api/likes',{cookie:a.cookie})).json()).likes[0].differences,'é'.repeat(4000));
+});
+
+
+test('differences alone count as an explanation in likes and account readiness',async()=>{
+ const env={DB:database()},a=await register(env);
+ const path='/api/likes/'+encodeURIComponent(examples[0].id);
+ const put=async differences=>(await (await request(env,path,{method:'PUT',cookie:a.cookie,data:{liked:true,differences}})).json());
+ let result=await put('Ma situation est différente.');assert.equal(result.likes[0].reason,'');assert.equal(result.explained_count,1);
+ let me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal(me.readiness.explained_count,1);
+ result=await put('   ');assert.equal(result.explained_count,0);
+ me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal(me.readiness.explained_count,0);
 });

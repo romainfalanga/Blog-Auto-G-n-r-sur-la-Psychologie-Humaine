@@ -3,7 +3,7 @@
   <nav class="breadcrumb" aria-label="Fil d'Ariane">
     <a href="/">Accueil</a>
     <span class="separator">/</span>
-    <a href="/personnages/">Nos Personnages</a>
+    <a href="/#personnages">Nos Personnages</a>
     <span class="separator">/</span>
     <span>{{ .Params.prenom }}</span>
   </nav>
@@ -22,9 +22,9 @@
     {{- else }}
       <h1 class="perso-profile-name">{{ .Title }}</h1>
     {{- end }}
-    <p class="perso-profile-bio">{{ .Description }}</p>
-    {{ partial "character-cues.html" . }}
-    <p class="keyword-explainer">Ces repères décrivent les thèmes de ce personnage fictif. Ils vous aident à trouver des lectures qui vous parlent.</p>
+    {{ $presentation := .Description }}
+    {{ with index .Site.Data.character_presentations ((.Params.prenom | default .Title) | lower) }}{{ $presentation = .presentation }}{{ end }}
+    <p class="perso-profile-bio">{{ $presentation }}</p>
   </div>
 
   <div class="perso-parcours-page">
@@ -34,11 +34,11 @@
   <aside class="journal-invitation journal-article-invitation">
     <h2>Quelque chose de vous dans ce personnage ?</h2>
     <p>Aimez les histoires qui vous parlent, puis précisez ce qui résonne si vous le souhaitez. Votre collection servira de point de départ à vos propres histoires.</p>
-    <a class="journal-cta" href="/mes-articles/?character={{ (.Params.prenom | default .Title) | urlquery }}">Explorer mes points communs</a>
+    <a class="journal-cta" href="/mon-portrait/?character={{ (.Params.prenom | default .Title) | urlquery }}">Explorer mes points communs</a>
   </aside>
 
   <div class="perso-back">
-    <a href="/personnages/" class="perso-btn-outline">&#8592; Retour aux personnages</a>
+    <a href="/#personnages" class="perso-btn-outline">&#8592; Retour aux personnages</a>
   </div>
 </div>
 {{ end }}

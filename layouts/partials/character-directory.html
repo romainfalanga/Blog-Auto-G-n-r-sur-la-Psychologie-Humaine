@@ -1,0 +1,31 @@
+<section id="personnages" class="character-directory" aria-labelledby="character-directory-title">
+  <div class="character-directory-intro">
+    <h2 id="character-directory-title">Les personnages</h2>
+    <p>Découvrez leurs façons de penser, de ressentir et de réagir, puis choisissez les histoires qui vous parlent.</p>
+  </div>
+  <div class="character-filters">
+    <div><label for="character-search">Rechercher un personnage ou un thème</label><input type="search" id="character-search" placeholder="Une émotion, une situation, un prénom…"></div>
+    <div><label for="character-keyword">Un repère en particulier</label><select id="character-keyword"><option value="">Tous les repères</option>{{ $keywords := slice }}{{ range .Site.Data.character_keywords }}{{ range .keywords }}{{ $keywords = $keywords | append . }}{{ end }}{{ end }}{{ range sort (uniq $keywords) }}<option value="{{ . }}">{{ . }}</option>{{ end }}</select></div>
+  </div>
+  {{ $characters := where .Site.RegularPages "Section" "personnages" }}
+  <p id="character-count" class="keyword-explainer" role="status">{{ len $characters }} personnages à explorer</p>
+  <div class="perso-grid">
+    {{ range $characters.ByWeight }}
+    {{ $name := (.Params.prenom | default .Title) | lower }}
+    {{ $cues := index .Site.Data.character_keywords $name }}
+    {{ $presentation := .Description }}
+    {{ with index .Site.Data.character_presentations $name }}{{ $presentation = .presentation }}{{ end }}
+    <article class="perso-card reveal-card" data-character-search="{{ .Title }} {{ $presentation }} {{ with $cues }}{{ delimit .keywords " " }}{{ end }}">
+      <div class="perso-card-top">
+        {{ $prenom := .Params.prenom | default .Title }}
+        {{ if .Params.date_naissance }}
+          {{ $birth := time .Params.date_naissance }}{{ $age := sub now.Year $birth.Year }}{{ if lt (now.Format "0102") ($birth.Format "0102") }}{{ $age = sub $age 1 }}{{ end }}
+          <h3 class="perso-name">{{ $prenom }}, {{ $age }} ans</h3>
+        {{ else }}<h3 class="perso-name">{{ .Title }}</h3>{{ end }}
+      </div>
+      <p class="perso-bio">{{ $presentation }}</p>
+      <a href="{{ .RelPermalink }}" class="perso-btn">Découvrir ses histoires</a>
+    </article>
+    {{ end }}
+  </div>
+</section>

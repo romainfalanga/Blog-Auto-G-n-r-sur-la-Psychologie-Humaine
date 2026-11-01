@@ -33,7 +33,7 @@
       var suggestions = w.querySelector('[data-affinity-discover]');
       if (!suggestions) {
         suggestions = document.createElement('a');
-        suggestions.href = '/mes-articles/';
+        suggestions.href = '/mon-portrait/#suggestions';
         suggestions.textContent = 'Découvrir mes suggestions';
         suggestions.setAttribute('data-affinity-discover', '');
         suggestions.className = 'affinity-discover';
@@ -73,7 +73,7 @@
           try { await loading; } catch (e) { loading = load(); await loading; }
           if (!user) {
             status(id, 'Connectez-vous pour conserver cette histoire dans vos articles aimés.');
-            window.location.assign('/mes-articles/?article=' + encodeURIComponent(id) + '&like=1');
+            window.location.assign('/mon-portrait/?article=' + encodeURIComponent(id) + '&like=1');
             return;
           }
           var liked = !likes.has(id);

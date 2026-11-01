@@ -1,8 +1,8 @@
 # Décode ton esprit
 
-Site existant : https://decodetonesprit.fr ; pages personnelles : https://decodetonesprit.fr/mes-histoires/, https://decodetonesprit.fr/mes-articles/, https://decodetonesprit.fr/mon-portrait/ et https://decodetonesprit.fr/mon-compte/.
+Site existant : https://decodetonesprit.fr ; pages personnelles : https://decodetonesprit.fr/mes-histoires/, https://decodetonesprit.fr/mon-portrait/ et https://decodetonesprit.fr/mon-compte/.
 
-Les 231 articles et 20 personnages d’origine sont conservés. Des mots-clés tirés de leurs caractéristiques et thèmes facilitent la découverte sur les personnages, l’accueil, les catégories, les suggestions et les articles.
+Les 231 articles et 20 personnages d’origine sont conservés. L’accueil présente les personnages avec des textes enrichis et des filtres par repères. Les caractéristiques sont intégrées dans leurs présentations, sans pastilles séparées. Les thèmes restent à la fin des articles et dans les métadonnées de recherche.
 
 ## Parcours
 
@@ -28,6 +28,8 @@ node --test journal/tests/backend.test.mjs
 python -m unittest discover -s journal/tests -p 'test_personal_pipeline.py'
 ```
 
-La compilation Hugo, 25 tests backend, 9 tests de recommandations et 9 tests Python passent. Le test de volume couvre les 231 articles avec de longues explications, sans perte des sources. Voir `journal/README.md` et `docs/evolution-par-articles-aimes.md` pour la mise en service et les validations réelles.
+La compilation Hugo, 31 tests backend, 9 tests de recommandations et 9 tests Python passent. Le test de volume couvre les 231 articles avec de longues explications, sans perte des sources. Voir `journal/README.md` et `docs/evolution-par-articles-aimes.md` pour la mise en service et les validations réelles.
 
 Le fonctionnement détaillé et ses critères de qualité sont dans `docs/recommandations-evolutives.md`.
+
+Les articles aimés et leurs explications se retrouvent directement dans Mon portrait. Les anciennes pages `/personnages/` et `/mes-articles/` redirigent respectivement vers l’accueil et la collection du portrait.

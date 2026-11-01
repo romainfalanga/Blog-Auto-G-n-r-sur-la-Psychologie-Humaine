@@ -13,6 +13,19 @@
   status = 301
   force = true
 
+# L’ancienne liste est désormais la section principale de l’accueil.
+[[redirects]]
+  from = "/personnages"
+  to = "/#personnages"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/personnages/page/*"
+  to = "/#personnages"
+  status = 301
+  force = true
+
 # Routes personnelles : proxifier les deux formes sans redirection de slash.
 [[redirects]]
   from = "/mes-histoires"

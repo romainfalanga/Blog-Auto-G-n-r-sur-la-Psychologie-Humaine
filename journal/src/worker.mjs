@@ -133,7 +133,7 @@ function decorateLikes(rows) {
   });
 }
 async function likesFor(env,userId) {return decorateLikes(await all(env,'SELECT article_id,reason,differences,created_at,updated_at FROM article_likes WHERE user_id=? ORDER BY created_at,article_id',userId));}
-function readinessFor(likes) {return {likes_count:likes.length,explained_count:likes.filter(l=>l.reason.trim()).length,target:TARGET_LIKES,ready:likes.length>=TARGET_LIKES};}
+function readinessFor(likes) {return {likes_count:likes.length,explained_count:likes.filter(l=>l.reason.trim()||l.differences.trim()).length,target:TARGET_LIKES,ready:likes.length>=TARGET_LIKES};}
 async function likesResponse(env,userId) {
   // One SQLite read snapshot binds the collection and its version. A concurrent edit
   // can return a newer snapshot, but can never tag this older collection with it.
@@ -341,7 +341,8 @@ async function internal(request,env,path) {
 async function routes(request,env) {
   const url=new URL(request.url),path=url.pathname,method=request.method;
   if(method==='GET'&&path==='/') return Response.redirect('https://decodetonesprit.fr/',302);
-  const pageTitles={'/mes-histoires':'Mes histoires','/mes-articles':'Mes articles aimés','/mon-portrait':'Mon portrait','/mon-compte':'Mon compte'};
+  if(['GET','HEAD'].includes(method)&&['/mes-articles','/mes-articles/'].includes(path)) return Response.redirect(new URL('/mon-portrait/'+url.search+'#mes-articles',env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
+  const pageTitles={'/mes-histoires':'Mes histoires','/mon-portrait':'Mon portrait','/mon-compte':'Mon compte'};
   const pagePath=path.replace(/\/$/,'');
   if(['GET','HEAD'].includes(method)&&pageTitles[pagePath]) {
     const page=HTML.replace(/<title>[^<]*<\/title>/,'<title>'+pageTitles[pagePath]+' · Décode ton esprit</title>');
@@ -349,8 +350,8 @@ async function routes(request,env) {
   }
   if(['GET','HEAD'].includes(method)&&['/journal','/journal/'].includes(path)) {
     const tab=url.searchParams.get('tab');
-    const destination=url.searchParams.has('payment')?'/mon-compte/':url.searchParams.has('story')?'/mes-histoires/':url.searchParams.has('article')||url.searchParams.has('character')||tab==='likes'?'/mes-articles/':tab==='portrait'?'/mon-portrait/':tab==='account'?'/mon-compte/':'/mes-histoires/';
-    return Response.redirect(new URL(destination+url.search,env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
+    const destination=url.searchParams.has('payment')?'/mon-compte/':url.searchParams.has('story')?'/mes-histoires/':url.searchParams.has('article')||url.searchParams.has('character')||tab==='likes'?'/mon-portrait/':tab==='portrait'?'/mon-portrait/':tab==='account'?'/mon-compte/':'/mes-histoires/';
+    return Response.redirect(new URL(destination+url.search+(destination==='/mon-portrait/'&&(url.searchParams.has('article')||url.searchParams.has('character')||tab==='likes')?'#mes-articles':''),env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
   }
   if(method==='GET'&&path==='/api/examples') return json({examples:EXAMPLES.map(({id,title,url,character,description,keywords,character_keywords,sujet,category})=>({id,title,url,character,description,keywords:keywords||[],character_keywords:character_keywords||[],sujet:sujet||'',category:category||''}))});
   if(method==='GET'&&path==='/api/health') return json({ok:true,billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY)});
@@ -410,9 +411,9 @@ async function routes(request,env) {
     if(!catalog.has(articleId)) error(404,'Article introuvable.');
     const data=await body(request,32000);if(typeof data.liked!=='boolean') error(400,'Indiquez votre choix pour cet article.');
     if(data.reason!==undefined) text(data.reason,4000);
+    if(data.differences!==undefined) text(data.differences,4000);
     if(data.liked) {
-      if(data.reason===undefined) await run(env,'INSERT OR IGNORE INTO article_likes(user_id,article_id) VALUES(?,?)',user.id,articleId);
-      else await run(env,`INSERT INTO article_likes(user_id,article_id,reason) VALUES(?,?,?) ON CONFLICT(user_id,article_id) DO UPDATE SET reason=excluded.reason,updated_at=CURRENT_TIMESTAMP WHERE article_likes.reason!=excluded.reason`,user.id,articleId,text(data.reason,4000));
+      await run(env,`INSERT INTO article_likes(user_id,article_id,reason,differences) VALUES(?,?,?,?) ON CONFLICT(user_id,article_id) DO UPDATE SET reason=CASE WHEN ? THEN excluded.reason ELSE article_likes.reason END,differences=CASE WHEN ? THEN excluded.differences ELSE article_likes.differences END,updated_at=CURRENT_TIMESTAMP WHERE (? AND article_likes.reason!=excluded.reason) OR (? AND article_likes.differences!=excluded.differences)`,user.id,articleId,data.reason===undefined?'':text(data.reason,4000),data.differences===undefined?'':text(data.differences,4000),Number(data.reason!==undefined),Number(data.differences!==undefined),Number(data.reason!==undefined),Number(data.differences!==undefined));
     } else await run(env,'DELETE FROM article_likes WHERE user_id=? AND article_id=?',user.id,articleId);
     return json({ok:true,...await likesResponse(env,user.id)});
   }

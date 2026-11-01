@@ -1,6 +1,6 @@
 # Journal fondé sur les articles aimés
 
-Pages : `/mes-histoires/`, `/mes-articles/`, `/mon-portrait/`, `/mon-compte/` sur https://decodetonesprit.fr. Les anciens liens `/journal/` sont redirigés vers la page correspondante.
+Pages : `/mes-histoires/`, `/mon-portrait/`, `/mon-compte/` sur https://decodetonesprit.fr. Les anciens liens `/journal/` sont redirigés vers la page correspondante.
 
 ## Données et migrations
 
@@ -36,7 +36,7 @@ La base est européenne. Les données soumises au fournisseur IA ou temporaireme
 
 ## Tests
 
-25 tests backend, 9 tests de recommandations et 9 tests Python passent : migration, collection, seuil, absence de questionnaire, isolation, versions concurrentes, preuve privée, consentement, souscription, quota et signature OIDC réelle. Le volume maximal des 231 articles avec raisons et différences longues est couvert. La compilation Hugo conserve les adresses et le texte source des articles et personnages.
+31 tests backend, 9 tests de recommandations et 9 tests Python passent : migration, collection, seuil, absence de questionnaire, isolation, versions concurrentes, preuve privée, consentement, souscription, quota et signature OIDC réelle. Le volume maximal des 231 articles avec raisons et différences longues est couvert. La compilation Hugo conserve les adresses et le texte source des articles et personnages.
 
 ## Recette réelle du 31 octobre 2026
 
@@ -47,3 +47,7 @@ Le workflow historique [41190861894](https://github.com/romainfalanga/Blog-Auto-
 Appliquer aussi `0004_recommendations_free_portraits.sql`. Déployer le module `recommendations.mjs` avec les trois modules existants. `/api/recommendations` utilise un instantané privé des likes, commentaires, retours et corrections. Le portrait IA courant enrichit le classement; un portrait périmé en est exclu. Une représentation TF-IDF du catalogue et une sélection diversifiée fournissent les résultats sans appel fournisseur. Les noms seuls ne constituent pas un rapprochement psychologique. Les négations et corrections réduisent les rapprochements concernés, sans assimiler le récit fictif à la vie réelle.
 
 Le portrait provisoire se calcule immédiatement. L’analyse IA gratuite est regroupée et bornée à trois démarrages par 24 heures, avec dix minutes entre deux démarrages. `retry_after` explique une attente; ce budget ne bloque ni les recommandations ni les repères provisoires. Les analyses des abonnés et leurs récits alternent pour éviter la famine des tâches payées. À zéro like, suggestions personnelles et ancien portrait sont masqués, et les tâches deviennent invalides.
+
+## Portrait et collection unifiés
+
+`/mes-articles/` redirige vers `/mon-portrait/#mes-articles` en conservant les paramètres de l’article et de connexion. Les notes `reason` et `differences` sont toutes deux visibles et modifiables; un champ absent du PUT conserve sa valeur. Un brouillon saisi pendant l’enregistrement ne doit pas être effacé par la réponse précédente. Aucun encart de redirection vers les personnages n’est ajouté aux pages personnelles.

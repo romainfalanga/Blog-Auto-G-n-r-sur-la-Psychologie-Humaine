@@ -1,24 +1,12 @@
 {{ define "main" }}
 <article class="single-article" itemscope itemtype="https://schema.org/Article">
-  {{ partial "breadcrumb.html" . }}
-
-  {{ if .Params.categories }}
-  <span class="category-badge">
-    <a href="{{ .Parent.RelPermalink }}">{{ index .Params.categories 0 }}</a>
-  </span>
-  {{ end }}
-
   <h1 itemprop="headline">{{ .Title }}</h1>
 
-  <div class="article-meta">
-    <time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">
-      {{ .Date.Format "2 January 2006" }}
-    </time>
-    <span>&middot;</span>
-    <span>{{ if .Params.readingTime }}{{ .Params.readingTime }}{{ else }}{{ math.Round (div (float .WordCount) 250.0) }}{{ end }} min de lecture</span>
-  </div>
-
-  {{ partial "reading-cues.html" . }}
+  {{- if .File }}
+  {{- $id := strings.TrimSuffix ".md" .File.Path }}
+  {{- with index .Site.Data.article_keywords $id }}{{ with .character }}
+  <p class="article-character"><a href="/personnages/{{ (index $.Site.Data.article_keywords $id).character_id }}/">{{ . }}</a></p>
+  {{- end }}{{ end }}{{ end }}
 
   {{ partial "article-intro.html" . }}
 
@@ -36,6 +24,8 @@
     {{ partial "article-like.html" (dict "page" . "full" true) }}
   </aside>
   {{ end }}
+
+  {{ partial "reading-cues.html" . }}
 
   {{ partial "related-articles.html" . }}
 </article>

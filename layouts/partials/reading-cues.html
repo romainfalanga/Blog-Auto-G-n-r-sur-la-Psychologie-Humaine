@@ -1,10 +1,7 @@
 {{- if and .File (eq .Section "posts") -}}
 {{- $id := strings.TrimSuffix ".md" .File.Path -}}
 {{- with index .Site.Data.article_keywords $id -}}
-<div class="reading-cues">
-  {{- if .character }}
-  <p class="reading-character">Avec <a href="/personnages/{{ .character_id }}/">{{ .character }}</a></p>
-  {{- end }}
+<div class="reading-cues article-end-topics">
   {{- with .keywords }}
   <ul class="keyword-list article-keywords" aria-label="Thèmes de cette histoire">{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
   {{- end }}
