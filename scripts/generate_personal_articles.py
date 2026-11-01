@@ -105,14 +105,14 @@ def evidence_for(job):
     evidence=[]
     for item in job.get('likes',[]):
         entry={k:text(item.get(k),4000 if k in ('reason','differences') else 500)
-               for k in ('article_id','title','url','character','description','summary','sujet','category','reason','differences')}
+               for k in ('article_id','title','url','character','description','summary','sujet','category','reason','differences','created_at','updated_at')}
         for field in ('keywords','character_keywords'):
             entry[field]=[text(value,200) for value in (item.get(field) or [])[:50] if isinstance(value,str)]
         evidence.append(entry)
     return evidence
 
 
-def validate_portrait(p, ids):
+def validate_portrait(p, ids, explicit_ids=None):
     if not isinstance(p,dict) or not isinstance(p.get('summary'),str) or not 1<=len(p['summary'])<=6000:
         raise ValueError('validation_error')
     if not isinstance(p.get('axes'),list) or not 1<=len(p['axes'])<=12:
@@ -136,6 +136,24 @@ def validate_portrait(p, ids):
         raise ValueError('validation_error')
     if not isinstance(c.get('description'),str) or not 1<=len(c['description'])<=4000:
         raise ValueError('validation_error')
+    def valid_evidence(value, allowed):
+        return isinstance(value,list) and bool(value) and all(isinstance(e,str) and e in allowed for e in value)
+    for field in ('current_state','evolution'):
+        if field in p:
+            item=p[field]
+            if not isinstance(item,dict) or not isinstance(item.get('summary'),str) or not 1<=len(item['summary'])<=3000 or not valid_evidence(item.get('evidence'),explicit_ids if field=='current_state' and explicit_ids is not None else ids):
+                raise ValueError('validation_error')
+    if 'reading_preferences' in p:
+        preferences=p['reading_preferences']
+        if not isinstance(preferences,dict):
+            raise ValueError('validation_error')
+        for field in ('preferred','avoid'):
+            items=preferences.get(field,[])
+            if not isinstance(items,list) or len(items)>12:
+                raise ValueError('validation_error')
+            for item in items:
+                if not isinstance(item,dict) or not isinstance(item.get('label'),str) or not 1<=len(item['label'])<=160 or not valid_evidence(item.get('evidence'),explicit_ids if explicit_ids is not None else ids):
+                    raise ValueError('validation_error')
     return p
 
 
@@ -145,11 +163,22 @@ def generate_portrait(job, adapter):
     ids.update('story:'+f['story_id'] for f in job.get('feedback',[]) if isinstance(f.get('story_id'),str))
     if not ids:
         raise ValueError('validation_error')
+    explicit_ids={e['article_id'] for e in evidence if e['reason'].strip() or e['differences'].strip()}
+    explicit_ids.update('story:'+f['story_id'] for f in job.get('feedback',[]) if isinstance(f.get('story_id'),str) and any(str(f.get(k) or '').strip() for k in ('why','correction','feelings','resonance')))
     previous=job.get('portrait_previous')
     if isinstance(previous,dict):
         previous=json.loads(json.dumps(previous))
         previous['axes']=[{**a,'evidence':[e for e in a.get('evidence',[]) if e in ids]}
                           for a in previous.get('axes',[]) if isinstance(a,dict) and any(e in ids for e in a.get('evidence',[]))]
+        for field in ('current_state','evolution'):
+            if isinstance(previous.get(field),dict):
+                previous[field]['evidence']=[e for e in previous[field].get('evidence',[]) if e in ids]
+                if not previous[field]['evidence']:
+                    previous.pop(field)
+        if isinstance(previous.get('reading_preferences'),dict):
+            previous['reading_preferences']={field:[{**item,'evidence':[e for e in item.get('evidence',[]) if e in explicit_ids]}
+                for item in previous['reading_preferences'].get(field,[]) if isinstance(item,dict) and any(e in explicit_ids for e in item.get('evidence',[]))]
+                for field in ('preferred','avoid')}
     analyses=[]
     if len(json.dumps(evidence,ensure_ascii=False))>100000:
         # Adapt batch size to the complete collection, preserving every reason
@@ -172,14 +201,18 @@ def generate_portrait(job, adapter):
             analyses.append(ask(adapter,'''Analyse ces articles aimés et leurs explications facultatives.
 Renvoie {"signals":[{"label":"affinité prudente","why":"raison et nuances",
 "evidence":["identifiants exacts"],"uncertainties":["..."]}]}. Préserve les corrections et différences.
-N'invente aucune biographie. Un like seul reste ambigu.''',{'likes':batch},4000))
+Préserve created_at et updated_at avec chaque signal, le sens et la portée des retours négatifs.
+Distingue affinités répétées et état ponctuel explicitement décrit ; une date de like n'est pas une date
+d'événement vécu. N'invente aucune biographie. Un like seul reste ambigu.''',{'likes':batch},4000))
         source={'source_ids':[e['article_id'] for e in evidence],'batch_analyses':analyses}
     else:
         source={'likes':evidence}
     p=ask(adapter,'''Établis ou actualise un portrait de lecture évolutif à partir de TOUS les articles
 aimés et retours, sans questionnaire. Les raisons sont facultatives. Explique chaque axe, ses sources
 et ce qui pourrait le contredire. Les forces sont des possibilités, pas un verdict. La confiance reste
-faible pour de simples likes. Ne fige pas la personne dans un type. Propose un personnage fictif
+faible pour de simples likes. Dès UN seul like, propose seulement une ou deux pistes très hypothétiques
+(confiance au plus 0.25 sans explication), en disant clairement que ce premier indice ne décrit pas
+la personne. Ne déduis ni biographie ni diagnostic, ni état émotionnel actuel d'un simple like. Ne fige pas la personne dans un type. Propose un personnage fictif
 épicène et ses enjeux sans imposer une biographie réelle. Retourne UNIQUEMENT l'objet JSON
 {"summary":"...","axes":[{"label":"...","why":"...","confidence":0.0,
 "evidence":["identifiant exact d'article aimé"]}],"strengths":["..."],"uncertainties":["..."],
@@ -189,10 +222,27 @@ nouvelles lectures. Les corrections récentes priment. Les preuves doivent figur
 identifiants des articles actuellement aimés ou story:<story_id> pour un retour personnel. Ne conserve
 aucun identifiant retiré dans l'ancien portrait. fictional_source_summary contextualise le commentaire
 sur une FICTION ; seul le retour de la personne apporte une information à son sujet. Conserve le nom du
-personnage fictif du portrait précédent pour assurer sa continuité, sauf demande explicite de changement.''', {
-        **source,'previous_portrait':previous,'feedback':job.get('feedback',[]),
+personnage fictif du portrait précédent pour assurer sa continuité, sauf demande explicite de changement.
+Sépare tendances de lecture étayées, état actuel EXPLICITEMENT rapporté et évolution des interprétations.
+Utilise les horodatages created_at/updated_at des sources et retours ; une date de modification n'établit
+pas la date d'un vécu. Sans date, signale l'incertitude. Compare au previous_portrait et sa version,
+sans inventer de chronologie ni confondre changement de lecture et progrès psychologique.
+Révise, retire ou nuance les anciennes hypothèses contredites ; ne les accumule pas automatiquement.
+Un commentaire négatif partiel ne rejette pas l'ensemble de l'article aimé. Sa correction précise prime.
+Champs OPTIONNELS, à omettre faute de preuves :
+current_state:{"summary":"état explicitement rapporté et daté, incertitudes","evidence":["id"]},
+evolution:{"summary":"évolution étayée depuis le portrait précédent","evidence":["id"]},
+reading_preferences:{"preferred":[{"label":"préférence précise","evidence":["id"]}],
+"avoid":[{"label":"élément précis à éviter","evidence":["id"]}]}.
+Résumés au plus 3000 caractères ; 12 éléments maximum par liste, labels de 160 caractères maximum.
+current_state et reading_preferences exigent des explications ou retours explicites dans explicit_evidence_ids,
+pas seulement des thèmes de fiction ou un like. preferred/avoid décrivent uniquement les préférences
+exprimées, jamais une déduction sur ce que la personne devrait aimer. Toutes les preuves doivent être valides.''', {
+        **source,'previous_portrait':previous,'previous_portrait_version':job.get('portrait_previous_version'),
+        'previous_portrait_updated_at':job.get('portrait_previous_updated_at'),
+        'explicit_evidence_ids':sorted(explicit_ids),'feedback':job.get('feedback',[]),
         'allowed_evidence_ids':sorted(ids),'user_corrections':job.get('memory',{}).get('text','')},6000)
-    return {'portrait':validate_portrait(p,ids),**versions(job)}
+    return {'portrait':validate_portrait(p,ids,explicit_ids),**versions(job)}
 
 
 def story_context(job):
@@ -214,6 +264,11 @@ def generate_story(job, adapter):
         raise ValueError('portrait_missing')
     plan=ask(adapter,'''Choisis le prochain article selon la méthode historique « personnage d'abord ».
 Pars du portrait actuel, des lectures aimées et des retours, puis choisis un enjeu et une scène ordinaire.
+Adapte les axes à current_state explicitement rapporté et à evolution sans en faire une identité fixe.
+Respecte reading_preferences.preferred et avoid à leur portée précise, ainsi que les corrections plus
+récentes. Un désaccord partiel ne disqualifie pas toute une lecture aimée. Les hypothèses retirées ne
+reviennent pas comme vérités ; un état ancien ne devient pas automatiquement l'état actuel. Si les
+indices sont rares, reste exploratoire. Les dates concernent des déclarations, jamais des scènes inventées.
 Ne confonds pas affinités et vécu réel. Varie le sujet et l'issue par rapport à l'historique. Renvoie JSON
 {"category_key":"cat1_pensees|cat2_emotions|cat3_schemas","sujet":"...","contexte":"...",
 "scene":"...","why_now":"...","perspectives":"..."}.''',context,1800)

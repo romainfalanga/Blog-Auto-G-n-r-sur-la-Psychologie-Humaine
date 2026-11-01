@@ -85,6 +85,42 @@ class PipelineTests(unittest.TestCase):
                 self.assertEqual(len(e['differences']),4000)
                 self.assertEqual(e['keywords'],['limites','possibilités'])
 
+    def test_single_like_remains_tentative_and_cannot_supply_explicit_preferences(self):
+        j=job('portrait',1);j['feedback']=[]
+        calls=[]
+        result=personal.generate(j,lambda job,p:(calls.append(p) or {'content':json.dumps(portrait())}))
+        self.assertEqual(result['portrait']['axes'][0]['confidence'],0.2)
+        self.assertIn('Dès UN seul like',calls[0]['system_prompt'])
+        self.assertEqual(json.loads(calls[0]['user_prompt'])['explicit_evidence_ids'],[])
+        p=portrait();p['reading_preferences']={'avoid':[{'label':'Tout conflit','evidence':['source-0']}],'preferred':[]}
+        with self.assertRaises(personal.GenerationFailure):
+            personal.generate(j,lambda job,data:{'content':json.dumps(p)})
+
+    def test_dated_corrections_and_partial_dislike_update_portrait_with_supported_fields(self):
+        j=job('portrait',1)
+        j['likes'][0].update(reason='La limite me parle, mais pas le conflit de couple.',created_at='2026-10-01',updated_at='2026-11-01')
+        j['feedback'][0].update(created_at='2026-10-31',updated_at='2026-11-01',correction='Actuellement je préfère une scène calme, pas un conflit de couple.')
+        j['portrait_previous']=portrait();j['portrait_previous_version']=6
+        j['portrait_previous']['reading_preferences']={'avoid':[{'label':'Ancienne hypothèse','evidence':['removed']}],'preferred':[]}
+        p=portrait()
+        p['current_state']={'summary':'Préférence actuelle explicitement exprimée le 1 novembre.','evidence':['story:own-story']}
+        p['evolution']={'summary':'La correction nuance la première lecture.','evidence':['story:own-story']}
+        p['reading_preferences']={'preferred':[{'label':'Scènes calmes','evidence':['story:own-story']}],'avoid':[{'label':'Conflit de couple','evidence':['source-0']}]}
+        calls=[]
+        result=personal.generate(j,lambda job,data:(calls.append(data) or {'content':json.dumps(p)}))
+        data=json.loads(calls[0]['user_prompt'])
+        self.assertEqual(data['likes'][0]['updated_at'],'2026-11-01')
+        self.assertEqual(data['feedback'][0]['created_at'],'2026-10-31')
+        self.assertEqual(data['previous_portrait_version'],6)
+        self.assertEqual(data['previous_portrait']['reading_preferences']['avoid'],[])
+        self.assertIn('commentaire négatif partiel',calls[0]['system_prompt'])
+        self.assertEqual(result['portrait']['reading_preferences'],p['reading_preferences'])
+        j['portrait']=result['portrait']
+        self.assertEqual(personal.story_context(j)['portrait']['current_state'],p['current_state'])
+        p['reading_preferences']['avoid'][0]['label']='X'*161
+        with self.assertRaises(ValueError):
+            personal.validate_portrait(p,{'source-0','story:own-story'},{'source-0','story:own-story'})
+
     def test_portrait_rejects_invented_or_removed_evidence(self):
         p=portrait();p['axes'][0]['evidence']=['not-liked']
         with self.assertRaisesRegex(RuntimeError,'^generation_failed$'):

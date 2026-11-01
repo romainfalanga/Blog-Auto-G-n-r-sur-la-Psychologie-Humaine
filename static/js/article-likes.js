@@ -30,6 +30,17 @@
       b.setAttribute('aria-pressed', entry ? 'true' : 'false');
       b.replaceChildren(document.createTextNode(entry ? '♥ Cette histoire me parle' : '♡ Ça me parle'));
       b.disabled = busyIds.has(id);
+      var suggestions = w.querySelector('[data-affinity-discover]');
+      if (!suggestions) {
+        suggestions = document.createElement('a');
+        suggestions.href = '/journal/?tab=likes';
+        suggestions.textContent = 'Découvrir mes suggestions';
+        suggestions.setAttribute('data-affinity-discover', '');
+        suggestions.className = 'affinity-discover';
+        var statusNode = w.querySelector('[data-affinity-status]');
+        statusNode.insertAdjacentElement('afterend', suggestions);
+      }
+      suggestions.hidden = !entry || !user;
       var panel = w.querySelector('[data-affinity-note]');
       if (panel) {
         panel.hidden = !entry;
@@ -69,7 +80,7 @@
           await api('/api/likes/' + encodeURIComponent(id), 'PUT', {liked: liked});
           if (liked) likes.set(id, {article_id: id, reason: ''});
           else { likes.delete(id); drafts.delete(id); }
-          status(id, liked ? 'Article ajouté à votre collection. Vous pouvez expliquer pourquoi, si vous le souhaitez.' : 'Article retiré de votre collection.');
+          status(id, liked ? 'Article ajouté à votre collection. Vos premières suggestions et les pistes de votre portrait sont disponibles. Vous pouvez expliquer pourquoi, si vous le souhaitez.' : 'Article retiré de votre collection.');
         } catch (e) { status(id, e.message, true); }
         finally { busyIds.delete(id); render(id); }
       });
@@ -86,7 +97,7 @@
           likes.set(id, {article_id: id, reason: reason});
           // Preserve a newer draft if another editor changed while this request was pending.
           if (drafts.get(id) === reason) drafts.delete(id);
-          status(id, 'Votre explication est enregistrée. Elle sera prise en compte dans les prochaines analyses de votre portrait.');
+          status(id, 'Votre explication est enregistrée. Elle affine vos suggestions et sera prise en compte dans les prochaines analyses de votre portrait.');
         } catch (e) { status(id, e.message, true); }
         finally { busyIds.delete(id); render(id); }
       });

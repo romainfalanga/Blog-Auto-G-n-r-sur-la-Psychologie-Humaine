@@ -1,5 +1,6 @@
 import { HTML } from './ui.mjs';
 import { EXAMPLES } from './examples.mjs';
+import { createRecommender } from './recommendations.mjs';
 
 const encoder = new TextEncoder();
 const COOKIE = '__Host-dte_session';
@@ -122,6 +123,9 @@ async function githubIdentity(request,env) {
 const frenchDay=()=>new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Paris',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 const TARGET_LIKES=10;
 const catalog=new Map(EXAMPLES.map(example=>[example.id,example]));
+const recommender=createRecommender(EXAMPLES);
+const FREE_PORTRAIT_STARTS=3;
+const FREE_PORTRAIT_INTERVAL=600;
 function decorateLikes(rows) {
   return rows.flatMap(row=>{
     const article=catalog.get(row.article_id);
@@ -138,15 +142,33 @@ async function likesResponse(env,userId) {
   const likes=decorateLikes(parse(snapshot.likes_json,[])),r=readinessFor(likes);
   return {likes,count:r.likes_count,explained_count:r.explained_count,target:TARGET_LIKES,source_version:snapshot.version};
 }
+async function readingContext(env,userId) {
+  // Every recommendation input is read at the same source version, including edits
+  // to private feedback or memory concurrent with another tab's article selection.
+  const row=await first(env,`SELECT p.version AS source_version,m.text AS memory_text,m.version AS memory_version,up.portrait,up.analyzed_version,up.updated_at,s.status AS subscription_status,s.paid_until,
+    (SELECT json_group_array(json_object('article_id',article_id,'reason',reason,'differences',differences,'created_at',created_at,'updated_at',updated_at)) FROM (SELECT article_id,reason,differences,created_at,updated_at FROM article_likes WHERE user_id=p.user_id ORDER BY created_at,article_id)) AS likes_json,
+    (SELECT json_group_array(json_object('story_id',story_id,'day',day,'fictional_source_title',fictional_source_title,'fictional_source_summary',fictional_source_summary,'resonance',resonance,'feelings',feelings,'why',why,'correction',correction,'updated_at',updated_at)) FROM (SELECT f.story_id,st.day,st.title AS fictional_source_title,st.summary AS fictional_source_summary,f.resonance,f.feelings,f.why,f.correction,f.updated_at FROM feedback f JOIN stories st ON st.id=f.story_id WHERE f.user_id=p.user_id ORDER BY f.updated_at DESC,st.day DESC LIMIT 30)) AS feedback_json
+    FROM profiles p JOIN memories m ON m.user_id=p.user_id JOIN subscriptions s ON s.user_id=p.user_id LEFT JOIN user_portraits up ON up.user_id=p.user_id WHERE p.user_id=?`,userId);
+  if(!row) error(401,'Compte introuvable.');
+  return {source_version:row.source_version,portrait_version:row.analyzed_version||0,updated_at:row.updated_at||null,paid:activeSubscription({status:row.subscription_status,paid_until:row.paid_until}),likes:decorateLikes(parse(row.likes_json,[])),portrait:row.portrait?parse(row.portrait,null):null,feedback:parse(row.feedback_json,[]).reverse(),memory:{text:row.memory_text,version:row.memory_version}};
+}
+function freePortraitRetry(usage,at=now()) {
+  if(!usage||usage.window_started+86400<=at) return null;
+  if(usage.starts>=FREE_PORTRAIT_STARTS) return usage.window_started+86400;
+  return usage.last_started+FREE_PORTRAIT_INTERVAL>at?usage.last_started+FREE_PORTRAIT_INTERVAL:null;
+}
 async function portraitFor(env,userId) {
-  const p=await first(env,'SELECT version,consent_ai FROM profiles WHERE user_id=?',userId),saved=await first(env,'SELECT * FROM user_portraits WHERE user_id=?',userId),sub=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',userId),likes=await likesFor(env,userId);
-  const job=await first(env,"SELECT status,lease_until,attempts,provider_calls,created_at FROM journal_jobs WHERE user_id=? AND kind='portrait' AND source_version=? AND day=''",userId,p.version);
-  let status='collecting';
-  if(activeSubscription(sub)&&p.consent_ai&&likes.length>0) {
-    status=saved?.analyzed_version===p.version?'ready':job?.status==='running'&&job.lease_until>now()?'updating':job&&(job.attempts>=3||job.provider_calls>=20)?'error':'queued';
+  const context=await readingContext(env,userId);
+  const job=await first(env,"SELECT status,lease_until,attempts,provider_calls,created_at FROM journal_jobs WHERE user_id=? AND kind='portrait' AND source_version=? AND day=''",userId,context.source_version);
+  const quota=context.paid?null:await first(env,'SELECT * FROM portrait_usage WHERE user_id=?',userId);
+  let status='collecting',retry_after=null,reason=null;
+  const outdated=Boolean(context.likes.length&&context.portrait&&context.portrait_version!==context.source_version);
+  if(context.likes.length) {
+    status=context.portrait_version===context.source_version?'ready':job?.status==='running'&&job.lease_until>now()?'updating':job&&(job.attempts>=3||job.provider_calls>=20)?'error':'queued';
+    if(status==='error'&&job?.created_at) retry_after=Math.floor(Date.parse(job.created_at.replace(' ','T')+'Z')/1000)+86400;
+    else if(status==='queued'&&(retry_after=freePortraitRetry(quota))) reason=quota.starts>=FREE_PORTRAIT_STARTS?'quota':'cooldown';
   }
-  const retry_after=status==='error'&&job?.created_at?Math.floor(Date.parse(job.created_at.replace(' ','T')+'Z')/1000)+86400:null;
-  return {status,retry_after,source_version:p.version,analyzed_version:saved?.analyzed_version||0,updated_at:saved?.updated_at||null,portrait:saved?parse(saved.portrait,null):null};
+  return {status,retry_after,reason,source_version:context.source_version,analyzed_version:context.portrait_version,updated_at:context.updated_at,portrait:context.likes.length?context.portrait:null,outdated,provisional:Boolean(context.likes.length&&status!=='ready'),provisional_portrait:context.likes.length?recommender.provisionalPortrait({...context,portrait:outdated?null:context.portrait}):null};
 }
 async function storyInspirations(env,likes) {
   const selected=[...likes].sort((a,b)=>Number(Boolean(b.reason))-Number(Boolean(a.reason))||b.updated_at.localeCompare(a.updated_at)).slice(0,3);
@@ -161,15 +183,17 @@ async function storyInspirations(env,likes) {
 export async function claimJobs(env) {
   if(!env.OPENROUTER_API_KEY) return json({jobs:[],status:'provider_missing'});
   const day=frenchDay(),t=now();
-  // A failed source version gets a fresh bounded budget once per 24-hour window.
-  // This never reopens a completed portrait or an unexpired lease.
-  await run(env,"UPDATE journal_jobs SET status='pending',attempts=0,provider_calls=0,lease_token=NULL,lease_until=0,error_code=NULL,created_at=CURRENT_TIMESTAMP WHERE kind='portrait' AND status!='complete' AND (attempts>=3 OR provider_calls>=20) AND lease_until<=? AND created_at<=datetime('now','-24 hours')",t);
-  // A portrait refresh always precedes a story for the same source version.
-  for(const kind of ['portrait','story']) {
+  // Old versions cannot spend another provider call or block the latest evidence.
+  await run(env,"UPDATE journal_jobs SET status='obsolete',lease_until=0 WHERE status!='complete' AND source_version!=(SELECT version FROM profiles WHERE user_id=journal_jobs.user_id)");
+  await run(env,"UPDATE journal_jobs SET status='pending',attempts=0,provider_calls=0,lease_token=NULL,lease_until=0,error_code=NULL,created_at=CURRENT_TIMESTAMP WHERE kind='portrait' AND status NOT IN ('complete','obsolete') AND (attempts>=3 OR provider_calls>=20) AND lease_until<=? AND created_at<=datetime('now','-24 hours')",t);
+  // Alternating priorities guarantees paid stories a turn during free-portrait demand.
+  const turn=await first(env,"INSERT INTO scheduler_state(key,counter) VALUES('claims',1) ON CONFLICT(key) DO UPDATE SET counter=counter+1 RETURNING counter");
+  for(const kind of (turn.counter%2?['story','portrait']:['portrait','story'])) {
     const dirty=kind==='portrait'?"(up.analyzed_version IS NULL OR up.analyzed_version!=p.version)":"up.analyzed_version=p.version AND NOT EXISTS(SELECT 1 FROM stories st WHERE st.user_id=u.id AND st.day=?)";
+    const eligibility=kind==='story'?"(s.status='active' AND s.paid_until>?)":"(s.status='active' AND s.paid_until>? OR pu.user_id IS NULL OR pu.window_started<=? OR (pu.starts<3 AND pu.last_started<=?))";
     const jobDay=kind==='portrait'?'':day;
-    const params=[t,...(kind==='story'?[day]:[]),kind,jobDay,t];
-    const candidates=await all(env,`SELECT u.id,p.version,m.version AS memory_version FROM users u JOIN profiles p ON p.user_id=u.id JOIN memories m ON m.user_id=u.id JOIN subscriptions s ON s.user_id=u.id LEFT JOIN user_portraits up ON up.user_id=u.id WHERE s.status='active' AND s.paid_until>? AND p.consent_ai=1 AND (SELECT COUNT(*) FROM article_likes l WHERE l.user_id=u.id)>=1 AND ${dirty} AND NOT EXISTS(SELECT 1 FROM journal_jobs j WHERE j.user_id=u.id AND j.kind=? AND j.source_version=p.version AND j.day=? AND (j.attempts>=3 OR j.provider_calls>=20 OR j.status='complete' OR j.lease_until>?)) ORDER BY u.created_at,u.id LIMIT 10`,...params);
+    const params=[...(kind==='story'?[t]:[t,t-86400,t-FREE_PORTRAIT_INTERVAL]),...(kind==='story'?[day]:[]),kind,jobDay,t,t];
+    const candidates=await all(env,`SELECT u.id,p.version,m.version AS memory_version,s.status,s.paid_until FROM users u JOIN profiles p ON p.user_id=u.id JOIN memories m ON m.user_id=u.id JOIN subscriptions s ON s.user_id=u.id LEFT JOIN user_portraits up ON up.user_id=u.id LEFT JOIN portrait_usage pu ON pu.user_id=u.id WHERE (SELECT COUNT(*) FROM article_likes l WHERE l.user_id=u.id)>=1 AND ${eligibility} AND ${dirty} AND NOT EXISTS(SELECT 1 FROM journal_jobs j WHERE j.user_id=u.id AND j.kind=? AND j.source_version=p.version AND j.day=? AND (j.attempts>=3 OR j.provider_calls>=20 OR j.status='complete' OR j.lease_until>?)) ORDER BY CASE WHEN s.status='active' AND s.paid_until>? THEN 0 ELSE 1 END,u.created_at,u.id LIMIT 10`,...params);
     for(const candidate of candidates) {
       const likes=await likesFor(env,candidate.id);if(!likes.length) continue;
       let inspirations=[];
@@ -178,8 +202,15 @@ export async function claimJobs(env) {
       }
       await run(env,'INSERT OR IGNORE INTO journal_jobs(id,user_id,kind,source_version,memory_version,day) VALUES(?,?,?,?,?,?)',random(),candidate.id,kind,candidate.version,candidate.memory_version,jobDay);
       const lease=random()+random();
-      const job=await first(env,`UPDATE journal_jobs SET status='running',attempts=attempts+1,lease_token=?,lease_until=?,error_code=NULL WHERE user_id=? AND kind=? AND source_version=? AND day=? AND status!='complete' AND lease_until<=? AND attempts<3 AND provider_calls<20 AND EXISTS(SELECT 1 FROM profiles WHERE user_id=? AND version=? AND consent_ai=1) RETURNING id`,lease,t+1800,candidate.id,kind,candidate.version,jobDay,t,candidate.id,candidate.version);
+      const job=await first(env,`UPDATE journal_jobs SET status='running',attempts=attempts+1,lease_token=?,lease_until=?,error_code=NULL WHERE user_id=? AND kind=? AND source_version=? AND day=? AND status!='complete' AND lease_until<=? AND attempts<3 AND provider_calls<20 AND EXISTS(SELECT 1 FROM profiles WHERE user_id=? AND version=?) RETURNING id`,lease,t+1800,candidate.id,kind,candidate.version,jobDay,t,candidate.id,candidate.version);
       if(!job) continue;
+      if(kind==='portrait'&&!activeSubscription(candidate,t)) {
+        const reservation=await first(env,`INSERT INTO portrait_usage(user_id,window_started,starts,last_started) VALUES(?,?,1,?) ON CONFLICT(user_id) DO UPDATE SET window_started=CASE WHEN window_started<=? THEN excluded.window_started ELSE window_started END,starts=CASE WHEN window_started<=? THEN 1 ELSE starts+1 END,last_started=excluded.last_started WHERE window_started<=? OR (starts<? AND last_started<=?) RETURNING starts`,candidate.id,t,t,t-86400,t-86400,t-86400,FREE_PORTRAIT_STARTS,t-FREE_PORTRAIT_INTERVAL);
+        if(!reservation) {
+          await run(env,"UPDATE journal_jobs SET status='pending',attempts=attempts-1,lease_token=NULL,lease_until=0 WHERE id=? AND lease_token=?",job.id,lease);
+          continue;
+        }
+      }
       const memory=await first(env,'SELECT text,version FROM memories WHERE user_id=?',candidate.id),previous=await first(env,'SELECT portrait,analyzed_version FROM user_portraits WHERE user_id=?',candidate.id);
       const feedback=await all(env,'SELECT f.story_id,s.day,s.title AS fictional_source_title,s.summary AS fictional_source_summary,f.resonance,f.feelings,f.why,f.correction,f.updated_at FROM feedback f JOIN stories s ON s.id=f.story_id WHERE f.user_id=? ORDER BY f.updated_at DESC,s.day DESC LIMIT 30',candidate.id);
       const result={id:job.id,kind,user_id:candidate.id,day:jobDay||day,lease_token:lease,source_version:candidate.version,profile_version:candidate.version,memory_version:candidate.memory_version,memory,likes,feedback:feedback.reverse(),portrait_previous:previous?parse(previous.portrait,null):null,portrait_previous_version:previous?.analyzed_version||0};
@@ -194,21 +225,22 @@ export async function runGenerationBatch() {return {status:'workflow-managed',cl
 async function validJob(env,id,lease,sourceVersion,memoryVersion) {
   const job=await first(env,'SELECT * FROM journal_jobs WHERE id=?',id);
   if(!job||!constantEqual(job.lease_token,lease)||job.status!=='running'||job.lease_until<=now()) error(409,'Bail expiré ou inconnu.');
-  const p=await first(env,'SELECT version,consent_ai FROM profiles WHERE user_id=?',job.user_id),m=await first(env,'SELECT version FROM memories WHERE user_id=?',job.user_id),s=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',job.user_id);
-  if(!p?.consent_ai||!activeSubscription(s)||!(await likesFor(env,job.user_id)).length) error(409,'Génération annulée.');
+  const p=await first(env,'SELECT version FROM profiles WHERE user_id=?',job.user_id),m=await first(env,'SELECT version FROM memories WHERE user_id=?',job.user_id),s=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',job.user_id);
+  if(!p||(job.kind==='story'&&!activeSubscription(s))||!(await likesFor(env,job.user_id)).length) error(409,'Génération annulée.');
   if(p.version!==job.source_version||m.version!==job.memory_version||(sourceVersion!==undefined&&sourceVersion!==p.version)||(memoryVersion!==undefined&&memoryVersion!==m.version)) {
     await run(env,"UPDATE journal_jobs SET status='obsolete',lease_until=0 WHERE id=? AND lease_token=?",id,lease);error(409,'Le contexte a changé.');
   }
   if(job.kind==='story') {const portrait=await first(env,'SELECT analyzed_version FROM user_portraits WHERE user_id=?',job.user_id);if(portrait?.analyzed_version!==p.version) error(409,'Le portrait doit être actualisé.');}
   return job;
 }
-const jobGuard=`EXISTS(SELECT 1 FROM journal_jobs j JOIN profiles p ON p.user_id=j.user_id JOIN memories m ON m.user_id=j.user_id JOIN subscriptions s ON s.user_id=j.user_id WHERE j.id=? AND j.status='running' AND j.lease_token=? AND j.lease_until>? AND p.version=j.source_version AND m.version=j.memory_version AND p.consent_ai=1 AND s.status='active' AND s.paid_until>? AND (SELECT COUNT(*) FROM article_likes l WHERE l.user_id=j.user_id)>=1)`;
+const jobGuard=`EXISTS(SELECT 1 FROM journal_jobs j JOIN profiles p ON p.user_id=j.user_id JOIN memories m ON m.user_id=j.user_id JOIN subscriptions s ON s.user_id=j.user_id WHERE j.id=? AND j.status='running' AND j.lease_token=? AND j.lease_until>? AND p.version=j.source_version AND m.version=j.memory_version AND (j.kind='portrait' OR (s.status='active' AND s.paid_until>?)) AND (SELECT COUNT(*) FROM article_likes l WHERE l.user_id=j.user_id)>=1)`;
 function jobArgs(id,lease) {const t=now();return [id,lease,t,t];}
-export function validatePortrait(value,likedIds) {
+export function validatePortrait(value,likedIds,explicitIds=likedIds) {
   if(!value||typeof value!=='object') error(400,'Portrait invalide.');
   const summary=text(value.summary,6000);if(!summary) error(400,'Résumé du portrait manquant.');
   if(!Array.isArray(value.axes)||value.axes.length<1||value.axes.length>12) error(400,'Axes du portrait invalides.');
   const axes=value.axes.map(axis=>{
+    if(!axis||typeof axis!=='object') error(400,'Axe du portrait invalide.');
     const label=text(axis.label,160),why=text(axis.why,2400);
     if(!label||!why||typeof axis.confidence!=='number'||!Number.isFinite(axis.confidence)||axis.confidence<0||axis.confidence>1||!Array.isArray(axis.evidence)||!axis.evidence.length||axis.evidence.length>30||axis.evidence.some(id=>!likedIds.has(id))) error(400,'Sources du portrait invalides.');
     return {label,why,confidence:axis.confidence,evidence:[...new Set(axis.evidence)]};
@@ -216,19 +248,44 @@ export function validatePortrait(value,likedIds) {
   const list=(values)=>{if(!Array.isArray(values)||values.length>20) error(400,'Liste du portrait invalide.');return values.map(value=>text(value,1200));};
   const fictional_character={name:text(value.fictional_character?.name,100),description:text(value.fictional_character?.description,5000)};
   if(!fictional_character.name||!fictional_character.description) error(400,'Personnage fictif manquant.');
-  return {summary,axes,strengths:list(value.strengths),uncertainties:list(value.uncertainties),fictional_character};
+  const evidence=(values,allowedIds=likedIds)=>{
+    if(!Array.isArray(values)||!values.length||values.length>30||values.some(id=>!allowedIds.has(id))) error(400,'Sources du portrait invalides.');
+    return [...new Set(values)];
+  };
+  const extras={};
+  for(const field of ['current_state','evolution']) {
+    if(value[field]!==undefined) {
+      if(!value[field]||typeof value[field]!=='object') error(400,'Section du portrait invalide.');
+      const summary=text(value[field].summary,3000);if(!summary) error(400,'Résumé du portrait manquant.');
+      extras[field]={summary,evidence:evidence(value[field].evidence,field==='current_state'?explicitIds:likedIds)};
+    }
+  }
+  if(value.reading_preferences!==undefined) {
+    if(!value.reading_preferences||typeof value.reading_preferences!=='object') error(400,'Préférences invalides.');
+    const preferences=values=>{
+      if(!Array.isArray(values)||values.length>12) error(400,'Préférences invalides.');
+      return values.map(item=>{if(!item||typeof item!=='object') error(400,'Préférence invalide.');const label=text(item.label,160);if(!label) error(400,'Préférence invalide.');return {label,evidence:evidence(item.evidence,explicitIds)};});
+    };
+    extras.reading_preferences={preferred:preferences(value.reading_preferences.preferred),avoid:preferences(value.reading_preferences.avoid)};
+  }
+  return {summary,axes,strengths:list(value.strengths),uncertainties:list(value.uncertainties),fictional_character,...extras};
 }
 export async function completeJob(env,id,data) {
   const sourceVersion=data.source_version??data.profile_version;
   if(!Number.isInteger(sourceVersion)||!Number.isInteger(data.memory_version)) error(400,'Versions du contexte requises.');
   const job=await validJob(env,id,data.lease_token,sourceVersion,data.memory_version),args=jobArgs(id,data.lease_token);
   if(job.kind==='portrait') {
-    const likedIds=new Set((await likesFor(env,job.user_id)).map(like=>like.article_id));
-    for(const feedback of await all(env,'SELECT story_id FROM feedback WHERE user_id=?',job.user_id)) likedIds.add('story:'+feedback.story_id);
+    const likes=await likesFor(env,job.user_id);
+    const likedIds=new Set(likes.map(like=>like.article_id));
+    const explicitIds=new Set(likes.filter(like=>like.reason.trim()||like.differences.trim()).map(like=>like.article_id));
+    for(const feedback of await all(env,'SELECT story_id,why,feelings,correction FROM feedback WHERE user_id=?',job.user_id)) {
+      const id='story:'+feedback.story_id;likedIds.add(id);
+      if(feedback.why.trim()||feedback.feelings.trim()||feedback.correction.trim()) explicitIds.add(id);
+    }
     const saved=await first(env,'SELECT portrait FROM user_portraits WHERE user_id=?',job.user_id);
     const previousName=saved?parse(saved.portrait,null)?.fictional_character?.name:null;
     const incoming=previousName?{...data.portrait,fictional_character:{...data.portrait?.fictional_character,name:previousName}}:data.portrait;
-    const portrait=validatePortrait(incoming,likedIds);
+    const portrait=validatePortrait(incoming,likedIds,explicitIds);
     const results=await env.DB.batch([
       env.DB.prepare(`INSERT INTO user_portraits(user_id,portrait,analyzed_version) SELECT ?,?,? WHERE ${jobGuard} ON CONFLICT(user_id) DO UPDATE SET portrait=excluded.portrait,analyzed_version=excluded.analyzed_version,updated_at=CURRENT_TIMESTAMP WHERE user_portraits.analyzed_version<excluded.analyzed_version`).bind(job.user_id,JSON.stringify(portrait),job.source_version,...args),
       env.DB.prepare("UPDATE journal_jobs SET status='complete',lease_until=0 WHERE id=? AND lease_token=? AND EXISTS(SELECT 1 FROM user_portraits p WHERE p.user_id=journal_jobs.user_id AND p.analyzed_version=journal_jobs.source_version)").bind(id,data.lease_token)
@@ -331,6 +388,11 @@ async function routes(request,env) {
     return json({ok:true,consent_ai:Boolean(p.consent_ai),source_version:p.version});
   }
   if(path==='/api/portrait'&&method==='GET') return json(await portraitFor(env,user.id));
+  if(path==='/api/recommendations'&&method==='GET') {
+    const context=await readingContext(env,user.id);
+    const rankingContext={...context,portrait:context.portrait_version===context.source_version?context.portrait:null};
+    return json({items:context.likes.length?recommender.recommend(rankingContext,{limit:12}):[],source_version:context.source_version,portrait_version:context.portrait_version,likes_count:context.likes.length});
+  }
   if(path==='/api/likes'&&method==='GET') return json(await likesResponse(env,user.id));
   const likeMatch=path.match(/^\/api\/likes\/(.+)$/);
   if(likeMatch&&method==='PUT') {
@@ -382,8 +444,6 @@ async function routes(request,env) {
   }
   if(path==='/api/billing/checkout'&&method==='POST') {
     if(!billingReady(env)||!env.OPENROUTER_API_KEY) error(503,'Les abonnements ne sont pas encore ouverts.');
-    const profile=await first(env,'SELECT consent_ai FROM profiles WHERE user_id=?',user.id);
-    if(!profile?.consent_ai) error(400,'Autorisez la personnalisation avant de vous abonner.');
     if((await likesFor(env,user.id)).length<TARGET_LIKES) error(400,'Aimez au moins dix articles avant de vous abonner.');
     await limit(env,'checkout:'+user.id,5,3600); await validPrice(env);
     const current=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',user.id);

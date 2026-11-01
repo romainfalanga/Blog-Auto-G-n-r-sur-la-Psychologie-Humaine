@@ -2,12 +2,19 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { DatabaseSync } from 'node:sqlite';
+import { createRecommender } from '../src/recommendations.mjs';
 const examples=Array.from({length:14},(_,i)=>({id:`category/example-${i+1}`,title:`Exemple ${i+1}`,url:`https://decodetonesprit.fr/posts/example-${i+1}/`,character:'Personnage '+i,keywords:['confiance','relations'],description:`Résumé canonique ${i+1}`}));
-const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<h1>Journal</h1>';").replace("import { EXAMPLES } from './examples.mjs';",'const EXAMPLES='+JSON.stringify(examples)+';');
+const recommendationContexts=[];
+// Use the real recommendation engine while recording its authenticated input.
+globalThis.__backendRecommendationFactory=items=>{
+ const engine=createRecommender(items);
+ return {recommend(context,options){recommendationContexts.push(structuredClone(context));return engine.recommend(context,options);},provisionalPortrait(context){recommendationContexts.push(structuredClone(context));return engine.provisionalPortrait(context);}};
+};
+const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<h1>Journal</h1>';").replace("import { EXAMPLES } from './examples.mjs';",'const EXAMPLES='+JSON.stringify(examples)+';').replace("import { createRecommender } from './recommendations.mjs';",'const createRecommender=globalThis.__backendRecommendationFactory;');
 const {default:worker,passwordHash,constantEqual,verifyStripeSignature,validateClaims,activeSubscription,claimJobs,completeJob,proxyJobLLM,runGenerationBatch}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));
 function database({legacy=false}={}) {
  const db=new DatabaseSync(':memory:');
- for(const migration of ['0001.sql','0002_inspirations.sql',...(!legacy?['0003_likes_portraits.sql']:[])]) db.exec(readFileSync(new URL('../migrations/'+migration,import.meta.url),'utf8'));
+ for(const migration of ['0001.sql','0002_inspirations.sql',...(!legacy?['0003_likes_portraits.sql','0004_recommendations_free_portraits.sql']:[])]) db.exec(readFileSync(new URL('../migrations/'+migration,import.meta.url),'utf8'));
  for(const example of examples) db.prepare('INSERT INTO public_examples(id,body) VALUES(?,?)').run(example.id,'Canonical body: '+example.title);
  function prepare(sql){let params=[];return {bind(...v){params=v;return this;},async first(){return db.prepare(sql).get(...params)||null;},async all(){return {results:db.prepare(sql).all(...params)};},async run(){const r=db.prepare(sql).run(...params);return {meta:{changes:r.changes}};}};}
  let queue=Promise.resolve();return {raw:db,prepare,batch(statements){const task=queue.then(async()=>{db.exec('BEGIN');try{const r=[];for(const s of statements)r.push(await s.run());db.exec('COMMIT');return r;}catch(e){db.exec('ROLLBACK');throw e;}});queue=task.catch(()=>{});return task;}};
@@ -38,11 +45,11 @@ test('unlimited likes and optional explanations invalidate source only on actual
  assert.deepEqual((await (await request(env,'/api/likes',{cookie:b.cookie})).json()).likes,[]);
  assert.equal((await request(env,'/api/likes/made-up',{method:'PUT',cookie:a.cookie,data:{liked:true}})).status,404);
  r=await request(env,'/api/likes/'+encodeURIComponent(examples[0].id),{method:'PUT',cookie:a.cookie,data:{liked:false}});likes=await r.json();assert.equal(likes.count,13);assert.equal(likes.source_version,source+2);
- const p=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(p.status,'collecting');assert.equal(p.portrait,null);
+ const p=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(p.status,'queued');assert.equal(p.portrait,null);assert.ok(p.provisional_portrait);
 });
 test('backward inspiration API has no three-item cap or explanation requirement',async()=>{const env={DB:database()};const a=await register(env);const selections=examples.slice(0,12).map(e=>({article_id:e.id}));let r=await request(env,'/api/inspirations',{method:'PUT',cookie:a.cookie,data:{selections}});assert.equal(r.status,200);const result=await r.json();assert.equal(result.count,12);const v=result.source_version;r=await request(env,'/api/inspirations',{method:'PUT',cookie:a.cookie,data:{selections}});assert.equal((await r.json()).source_version,v);assert.equal((await (await request(env,'/api/inspirations',{cookie:a.cookie})).json()).selections.length,12);});
 test('ten likes and no questionnaire produce portrait first, then one daily story',async()=>{
- const env={DB:database(),OPENROUTER_API_KEY:'test-only'};const a=await register(env);await prepareUser(env,a,9);assert.equal(await claim(env),undefined);await like(env,a,9);pay(env,a);
+ const env={DB:database(),OPENROUTER_API_KEY:'test-only'};const a=await register(env);await prepareUser(env,a,9);await like(env,a,9);pay(env,a);
  env.DB.raw.prepare('UPDATE profiles SET data=? WHERE user_id=?').run(JSON.stringify({display_name:'DO NOT SEND OLD PROFILE',occupation:'PRIVATE LEGACY'}),a.user.id);
  const p=await claim(env);assert.equal(p.kind,'portrait');assert.equal(p.likes.length,10);assert.equal(p.likes[0].summary,'Résumé canonique 1');assert.equal(p.profile,undefined);assert.equal(p.history,undefined);assert.equal(JSON.stringify(p).includes('PRIVATE LEGACY'),false);assert.equal(await claim(env),undefined);
  assert.equal((await (await request(env,'/api/portrait',{cookie:a.cookie})).json()).status,'updating');await complete(env,p,{portrait:portrait()});
@@ -113,10 +120,10 @@ test('Checkout reuses durable attempts, rotates expired sessions, reconciles sub
 });
 
 
-test('Checkout requires ten likes, consent and AI but no name or written explanation',async()=>{
+test('Checkout requires ten likes and AI, with no consent, name or explanation gate',async()=>{
  const env={DB:database(),STRIPE_SECRET_KEY:'test',STRIPE_WEBHOOK_SECRET:'test',STRIPE_PRICE_ID:'price_10'};const a=await register(env,'readiness@example.com');let calls=0;const originalFetch=globalThis.fetch;
  globalThis.fetch=async()=>{calls++;return new Response('{}',{status:503});};
- try {const checkout=()=>request(env,'/api/billing/checkout',{method:'POST',cookie:a.cookie,data:{}});assert.equal((await checkout()).status,503);env.OPENROUTER_API_KEY='test';assert.equal((await checkout()).status,400);await prepareUser(env,a,9);assert.equal((await checkout()).status,400);assert.equal(calls,0);await like(env,a,9);assert.equal((await checkout()).status,502);assert.equal(calls,1);const me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal(me.readiness.ready,true);assert.equal(me.readiness.explained_count,0);assert.equal(me.profile.display_name,undefined);} finally {globalThis.fetch=originalFetch;}
+ try {const checkout=()=>request(env,'/api/billing/checkout',{method:'POST',cookie:a.cookie,data:{}});assert.equal((await checkout()).status,503);env.OPENROUTER_API_KEY='test';assert.equal((await checkout()).status,400);await prepareUser(env,a,9);assert.equal((await checkout()).status,400);assert.equal(calls,0);await like(env,a,9);env.DB.raw.prepare('UPDATE profiles SET consent_ai=0 WHERE user_id=?').run(a.user.id);assert.equal((await checkout()).status,502);assert.equal(calls,1);const me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal(me.readiness.ready,true);assert.equal(me.readiness.explained_count,0);assert.equal(me.profile.display_name,undefined);} finally {globalThis.fetch=originalFetch;}
 });
 
 test('paid users keep generation after reducing likes below ten, but zero likes pauses it',async()=>{
@@ -176,4 +183,66 @@ test('four thousand accented characters fit the documented optional reason with 
  const env={DB:database()}; const a=await register(env,'unicode@example.com'); const payload=JSON.stringify({liked:true,reason:'é'.repeat(4000)});
  const response=await worker.fetch(new Request(origin+'/api/likes/'+encodeURIComponent(examples[0].id),{method:'PUT',headers:{'Content-Type':'application/json','Content-Length':String(Buffer.byteLength(payload)),'Origin':origin,'Cookie':a.cookie},body:payload}),env);
  assert.equal(response.status,200);assert.equal((await response.json()).likes[0].reason.length,4000);
+});
+
+test('one like creates a free AI portrait with legacy consent false, but never unlocks paid stories',async()=>{
+ const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env,'free@example.com');await like(env,a,0);
+ assert.equal(env.DB.raw.prepare('SELECT consent_ai FROM profiles WHERE user_id=?').get(a.user.id).consent_ai,0);
+ let state=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(state.status,'queued');assert.ok(state.provisional_portrait);assert.equal(state.provisional,true);
+ const job=await claim(env);assert.equal(job.kind,'portrait');assert.equal(job.likes.length,1);
+ const result=portrait();result.axes[0].evidence=[examples[0].id];await complete(env,job,{portrait:result});
+ state=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(state.status,'ready');assert.equal(state.provisional,false);
+ assert.equal(await claim(env),undefined);
+ const t=Math.floor(Date.now()/1000);env.DB.raw.prepare("INSERT INTO journal_jobs(id,user_id,kind,source_version,memory_version,day,status,lease_token,lease_until) VALUES(?,?,?,?,?,?,'running',?,?)").run('forged-story',a.user.id,'story',job.source_version,job.memory.version,'2026-11-01','lease',t+1800);
+ await assert.rejects(completeJob(env,'forged-story',{...story(),lease_token:'lease',source_version:job.source_version,memory_version:job.memory.version}),e=>e.status===409);
+});
+test('free portraits coalesce versions and enforce a three-start daily budget without limiting recommendations',async()=>{
+ const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env,'free-budget@example.com');await like(env,a,0);
+ const single=portrait();single.axes[0].evidence=[examples[0].id];const first=await claim(env);
+ await like(env,a,0,'Une précision récente');assert.equal(await claim(env),undefined);assert.equal(env.DB.raw.prepare('SELECT status FROM journal_jobs WHERE id=?').get(first.id).status,'obsolete');
+ let state=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(state.reason,'cooldown');assert.ok(state.retry_after>Math.floor(Date.now()/1000));assert.ok(state.provisional_portrait);
+ env.DB.raw.prepare('UPDATE portrait_usage SET last_started=last_started-601 WHERE user_id=?').run(a.user.id);let next=await claim(env);assert.ok(next.source_version>first.source_version);await complete(env,next,{portrait:single});
+ await like(env,a,0,'Une seconde précision');env.DB.raw.prepare('UPDATE portrait_usage SET last_started=last_started-601 WHERE user_id=?').run(a.user.id);next=await claim(env);await complete(env,next,{portrait:single});
+ await like(env,a,0,'La version la plus récente');assert.equal(await claim(env),undefined);state=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(state.reason,'quota');assert.equal(state.status,'queued');assert.equal(state.outdated,true);assert.ok(state.provisional_portrait);
+ const recs=await (await request(env,'/api/recommendations',{cookie:a.cookie})).json();assert.ok(recs.items.length>0);assert.equal(recs.source_version,state.source_version);
+ env.DB.raw.prepare('UPDATE portrait_usage SET window_started=window_started-86401,last_started=last_started-86401 WHERE user_id=?').run(a.user.id);next=await claim(env);assert.equal(next.source_version,state.source_version);assert.equal(env.DB.raw.prepare('SELECT starts FROM portrait_usage WHERE user_id=?').get(a.user.id).starts,1);
+});
+test('paid stories and paid portrait refreshes are not starved by free portrait demand',async()=>{
+ const env={DB:database(),OPENROUTER_API_KEY:'test'},paid=await register(env,'paid-priority@example.com');await like(env,paid,0);pay(env,paid);let job=await claim(env);const single=portrait();single.axes[0].evidence=[examples[0].id];await complete(env,job,{portrait:single});
+ const free=await register(env,'free-priority@example.com');await like(env,free,0);
+ env.DB.raw.prepare("UPDATE scheduler_state SET counter=0 WHERE key='claims'").run();job=await claim(env);assert.equal(job.kind,'story');assert.equal(job.user_id,paid.user.id);
+ let next=await claim(env);assert.equal(next.kind,'portrait');assert.equal(next.user_id,free.user.id);
+ const paidDirty=await register(env,'paid-dirty@example.com');await like(env,paidDirty,0);pay(env,paidDirty);const freeOther=await register(env,'free-other@example.com');await like(env,freeOther,0);
+ next=await claim(env);assert.equal(next.kind,'portrait');assert.equal(next.user_id,paidDirty.user.id);
+});
+test('recommendations have a coherent private snapshot and never reuse an outdated portrait',async()=>{
+ const db=database(),env={DB:db},a=await register(env,'recs-a@example.com'),b=await register(env,'recs-b@example.com');await like(env,a,0,'PRIVATE REASON A');
+ await request(env,'/api/memory',{method:'PUT',cookie:a.cookie,data:{text:'PRIVATE MEMORY A'}});const before=db.raw.prepare('SELECT version FROM profiles WHERE user_id=?').get(a.user.id).version;
+ const p=portrait();db.raw.prepare('INSERT INTO user_portraits(user_id,portrait,analyzed_version) VALUES(?,?,?)').run(a.user.id,JSON.stringify(p),before);
+ const prepare=db.prepare.bind(db);let changed=false;db.prepare=sql=>{const statement=prepare(sql);if(sql.includes('AS feedback_json')){const first=statement.first.bind(statement);statement.first=async()=>{const snap=await first();if(!changed){changed=true;db.raw.prepare('INSERT INTO article_likes(user_id,article_id,reason) VALUES(?,?,?)').run(a.user.id,examples[1].id,'NEW PRIVATE REASON');db.raw.prepare('UPDATE memories SET text=? WHERE user_id=?').run('NEW PRIVATE MEMORY',a.user.id);}return snap;};}return statement;};
+ let response=await request(env,'/api/recommendations',{cookie:a.cookie}),result=await response.json(),context=recommendationContexts.at(-1);
+ assert.equal(result.source_version,before);assert.equal(result.likes_count,1);assert.equal(context.memory.text,'PRIVATE MEMORY A');assert.equal(context.portrait.summary,p.summary);assert.equal(context.likes.length,1);assert.equal(JSON.stringify(result).includes('PRIVATE'),false);
+ response=await request(env,'/api/recommendations',{cookie:a.cookie});result=await response.json();context=recommendationContexts.at(-1);assert.equal(result.source_version,before+1);assert.equal(result.likes_count,2);assert.equal(context.portrait,null);assert.equal(context.memory.text,'NEW PRIVATE MEMORY');
+ const state=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(state.outdated,true);assert.ok(state.portrait);assert.ok(state.provisional_portrait);
+ assert.equal((await request(env,'/api/recommendations')).status,401);
+ result=await (await request(env,'/api/recommendations',{cookie:b.cookie})).json();assert.equal(result.likes_count,0);assert.deepEqual(result.items,[]);assert.equal(JSON.stringify(result).includes('PRIVATE'),false);
+ await request(env,'/api/inspirations',{method:'PUT',cookie:a.cookie,data:{selections:[]}});const cleared=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(cleared.portrait,null);assert.equal(cleared.provisional_portrait,null);assert.deepEqual((await (await request(env,'/api/recommendations',{cookie:a.cookie})).json()).items,[]);
+});
+test('optional portrait state, evolution and reading preferences validate evidence and survive storage',async()=>{
+ const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env,'state@example.com');await like(env,a,0,'Ce sujet correspond à ce que je ressens en ce moment.');const job=await claim(env);
+ const p=portrait();p.axes[0].evidence=[examples[0].id];p.current_state={summary:'Une piste explicitement évoquée.',evidence:[examples[0].id]};p.evolution={summary:'Pas assez de recul pour conclure.',evidence:[examples[0].id]};p.reading_preferences={preferred:[{label:'Des exemples concrets',evidence:[examples[0].id]}],avoid:[]};
+ const invalid=structuredClone(p);invalid.current_state.evidence=[examples[13].id];await assert.rejects(complete(env,job,{portrait:invalid}),e=>e.status===400);await complete(env,job,{portrait:p});
+ const saved=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.deepEqual(saved.portrait.current_state,p.current_state);assert.deepEqual(saved.portrait.evolution,p.evolution);assert.deepEqual(saved.portrait.reading_preferences,p.reading_preferences);
+});
+
+test('current state and reading preferences require explicit comments, with twelve preferences and 160-character labels maximum',async()=>{
+ const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env,'explicit-evidence@example.com');await like(env,a,0);let job=await claim(env);
+ const p=portrait();p.axes[0].evidence=[examples[0].id];p.current_state={summary:'Un état supposé.',evidence:[examples[0].id]};await assert.rejects(complete(env,job,{portrait:p}),e=>e.status===400);
+ delete p.current_state;p.reading_preferences={preferred:[{label:'Un style supposé',evidence:[examples[0].id]}],avoid:[]};await assert.rejects(complete(env,job,{portrait:p}),e=>e.status===400);
+ delete p.reading_preferences;p.evolution={summary:'Pas assez de données pour conclure.',evidence:[examples[0].id]};await complete(env,job,{portrait:p});
+ await like(env,a,0,'Ces histoires concrètes me parlent en ce moment.');env.DB.raw.prepare('UPDATE portrait_usage SET last_started=last_started-601 WHERE user_id=?').run(a.user.id);job=await claim(env);
+ p.current_state={summary:'Une piste évoquée explicitement.',evidence:[examples[0].id]};p.reading_preferences={preferred:[{label:'x'.repeat(161),evidence:[examples[0].id]}],avoid:[]};await assert.rejects(complete(env,job,{portrait:p}),e=>e.status===400);
+ p.reading_preferences.preferred=Array.from({length:13},()=>({label:'Exemples concrets',evidence:[examples[0].id]}));await assert.rejects(complete(env,job,{portrait:p}),e=>e.status===400);
+ p.reading_preferences.preferred=p.reading_preferences.preferred.slice(0,12);p.reading_preferences.preferred[0].label='x'.repeat(160);await complete(env,job,{portrait:p});
+ const saved=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(saved.portrait.reading_preferences.preferred.length,12);assert.equal(saved.portrait.current_state.summary,p.current_state.summary);
 });
