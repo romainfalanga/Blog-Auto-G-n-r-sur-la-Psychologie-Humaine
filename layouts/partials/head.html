@@ -70,6 +70,7 @@
 {{/* ── CSS ── */}}
 <link rel="stylesheet" href="/css/style.css?v={{ readFile "static/css/style.css" | md5 }}">
 <script defer src="/js/article-likes.js?v={{ readFile "static/js/article-likes.js" | md5 }}"></script>
+<script defer src="/js/site-navigation.js?v={{ readFile "static/js/site-navigation.js" | md5 }}"></script>
 
 {{/* ── Schema.org WebSite (pour Sitelinks Search Box Google) ── */}}
 {{- if .IsHome }}

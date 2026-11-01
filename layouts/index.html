@@ -18,21 +18,7 @@
         <h2 class="category-section-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         <div class="articles-grid">
           {{ range first 3 .Pages }}
-          <article class="article-card reveal-card">
-            <h3 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-            {{ partial "reading-cues.html" . }}
-            {{ partial "article-like.html" (dict "page" . "full" false) }}
-            <div class="card-footer">
-              <div class="card-meta">
-                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
-                {{ if .Params.readingTime }}
-                <span class="meta-sep">&middot;</span>
-                <span>{{ .Params.readingTime }} min</span>
-                {{ end }}
-              </div>
-              <a href="{{ .RelPermalink }}" class="card-read-more">Lire l'article</a>
-            </div>
-          </article>
+          {{ partial "article-card.html" (dict "page" . "level" "h3") }}
           {{ end }}
         </div>
         <a href="{{ .RelPermalink }}" class="view-all">Voir tous les articles de la catégorie &laquo;&#8239;{{ .Title }}&#8239;&raquo;</a>

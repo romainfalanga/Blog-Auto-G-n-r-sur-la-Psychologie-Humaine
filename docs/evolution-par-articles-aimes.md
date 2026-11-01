@@ -30,3 +30,10 @@ Demande du 31 octobre 2026. Le site existant, ses 231 articles, ses 20 personnag
 - Recette réelle : 11 articles aimés, deux explications facultatives, aucun questionnaire; portrait IA et premier récit privé publiés via le workflow GitHub original. Le retour négatif a été pris en compte par une nouvelle analyse IA, publiée à la version courante des sources.
 - La migration D1 est appliquée, le Worker publié et le Cron Cloudflare retiré. OpenRouter reste un secret Cloudflare.
 - L’ouverture commerciale attend la configuration Stripe du prix à 10 EUR/mois et des secrets de paiement. La récupération du mot de passe par email reste à ajouter avant cette ouverture.
+
+## Ajustements de présentation du 1er novembre 2026
+
+- R10 : même header et menu mobile repliable pour le blog et le journal; ancienne navigation secondaire retirée.
+- R11 : cartes unifiées sur accueil, catégories et suggestions : personnage, titre, résumé bref, trois thèmes au maximum et durée de lecture.
+- R12 : « Ça me parle » réservé à la fin des articles lus; retiré des listes publiques et des articles non aimés dans l’explorateur. Les explications et retraits des articles déjà aimés restent disponibles.
+- Vérification : compilation Hugo, contrôle des pages générées, syntaxe JavaScript et recette responsive à 390 pixels et sur ordinateur.

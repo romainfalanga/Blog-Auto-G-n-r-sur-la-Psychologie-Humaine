@@ -8,9 +8,6 @@
   {{- with .keywords }}
   <ul class="keyword-list article-keywords" aria-label="Thèmes de cette histoire">{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
   {{- end }}
-  {{- with first 3 .character_keywords }}
-  <ul class="keyword-list character-keywords" aria-label="Repères récurrents du personnage">{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
-  {{- end }}
 </div>
 {{- end -}}
 {{- end -}}

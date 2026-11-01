@@ -1,9 +1,8 @@
 <header class="site-header">
   <div class="header-inner">
     <a href="/" class="site-logo">Décode ton esprit</a>
-    <nav>
-      <input type="checkbox" id="menu-toggle" class="menu-toggle" aria-label="Toggle menu">
-      <label for="menu-toggle" class="burger-label" aria-hidden="true">&#9776;</label>
+    <button type="button" class="site-menu-toggle" id="site-menu-toggle" aria-expanded="false" aria-controls="site-navigation"><svg width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M3 5h14M3 10h14M3 15h14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg> Menu</button>
+    <nav class="site-navigation" id="site-navigation" aria-label="Navigation principale">
       <ul class="nav-links">
         {{ range .Site.Menus.main }}
         <li><a href="{{ .URL }}">{{ .Name }}</a></li>

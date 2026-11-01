@@ -11,19 +11,7 @@
 
   <div class="articles-grid">
     {{ range .Paginator.Pages }}
-    <article class="article-card reveal-card">
-      <h2 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-      {{ partial "reading-cues.html" . }}
-      {{ partial "article-like.html" (dict "page" . "full" false) }}
-      <div class="card-footer">
-        <div class="card-meta">
-          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
-          <span class="meta-sep">&middot;</span>
-          <span>{{ if .Params.readingTime }}{{ .Params.readingTime }}{{ else }}{{ math.Round (div (float .WordCount) 250.0) }}{{ end }} min de lecture</span>
-        </div>
-        <a href="{{ .RelPermalink }}" class="card-read-more">Lire l'article</a>
-      </div>
-    </article>
+    {{ partial "article-card.html" (dict "page" . "level" "h2") }}
     {{ end }}
   </div>
 
