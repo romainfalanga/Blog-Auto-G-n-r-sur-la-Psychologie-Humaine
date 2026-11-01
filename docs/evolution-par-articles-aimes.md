@@ -37,3 +37,7 @@ Demande du 31 octobre 2026. Le site existant, ses 231 articles, ses 20 personnag
 - R11 : cartes unifiées sur accueil, catégories et suggestions : personnage, titre, résumé bref, trois thèmes au maximum et durée de lecture.
 - R12 : « Ça me parle » réservé à la fin des articles lus; retiré des listes publiques et des articles non aimés dans l’explorateur. Les explications et retraits des articles déjà aimés restent disponibles.
 - Vérification : compilation Hugo, contrôle des pages générées, syntaxe JavaScript et recette responsive à 390 pixels et sur ordinateur.
+
+### Simplification demandée le 1er novembre
+
+Le bouton mobile affiche uniquement les trois traits (nom accessible conservé). « Accueil » est le premier lien des menus public et journal. Les cartes commencent par leur titre, présentent le prénom seul en pied de carte à la place de la durée et proposent uniquement « Lire », sans flèche.

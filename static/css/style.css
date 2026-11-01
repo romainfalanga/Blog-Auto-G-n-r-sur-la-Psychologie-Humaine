@@ -170,7 +170,7 @@ hr {
 .header-inner {max-width:1100px;min-height:72px;margin:0 auto;padding:0 32px;display:flex;align-items:center;justify-content:space-between;gap:24px}
 .site-logo {font:700 22.4px/1.3 Georgia,"Times New Roman",serif;color:#2d2d2d;text-decoration:none;white-space:nowrap}
 .site-logo:hover {color:#3d8577;text-decoration:none}
-.site-menu-toggle {display:none;align-items:center;justify-content:center;gap:8px;min-height:44px;padding:8px 12px;border:1px solid #dce5e1;border-radius:6px;color:#2d2d2d;background:transparent;font:500 14px/1.4 system-ui,-apple-system,"Segoe UI",sans-serif;cursor:pointer}
+.site-menu-toggle {display:none;align-items:center;justify-content:center;gap:8px;min-height:44px;min-width:44px;padding:8px 12px;border:1px solid #dce5e1;border-radius:6px;color:#2d2d2d;background:transparent;font:500 14px/1.4 system-ui,-apple-system,"Segoe UI",sans-serif;cursor:pointer}
 .nav-links {display:flex;align-items:center;gap:20px;list-style:none;padding:0;margin:0}
 .nav-links a {display:block;font:500 14px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif;color:#6b6b6b;text-decoration:none;padding:12px 0}
 .nav-links a:hover,.nav-links a[aria-current=page] {color:#3d8577;text-decoration:none}
@@ -277,10 +277,6 @@ hr {
    ======================================== */
 .article-card {background:#fff;border:1px solid #e1e7e3;border-radius:10px;padding:26px;display:flex;flex-direction:column;min-width:0;position:relative;transition:border-color .2s,box-shadow .2s}
 .article-card:hover {border-color:#adc9bf;box-shadow:0 5px 20px rgba(45,75,62,.05)}
-.card-character {display:flex;align-items:center;gap:9px;align-self:flex-start;color:#64736c;font:400 .8rem/1.45 var(--font-sans);text-decoration:none;margin-bottom:18px}
-.card-character strong {font-weight:600;color:#315d50}
-.card-character:hover {text-decoration:none;color:#315d50}
-.card-character-mark {display:grid;place-items:center;width:29px;height:29px;border-radius:50%;background:#eff5f1;color:#3d7664;font:500 .95rem/1 var(--font-serif);flex-shrink:0}
 .article-card .card-title {font:700 1.25rem/1.4 var(--font-serif);margin:0 0 12px;text-align:left;letter-spacing:-.01em}
 .article-card .card-title a {color:#2d2d2d;text-decoration:none}
 .article-card .card-title a:hover {color:#3d8577}
@@ -296,9 +292,9 @@ hr {
 .related-articles .article-card {padding:20px}
 .related-articles .card-title {font-size:1.05rem}
 .related-articles .card-description {font-size:.82rem}
-.related-articles .card-footer {align-items:flex-start;flex-direction:column;gap:4px}
+.related-articles .card-footer {align-items:center;flex-direction:row;gap:10px}
 @media(max-width:900px) {.related-articles .articles-grid {grid-template-columns:1fr}}
-@media(max-width:600px) {.article-card{padding:22px}.article-card .card-title{font-size:1.25rem}.card-character{margin-bottom:15px}.card-description{font-size:.88rem}.card-topics{margin-bottom:20px!important}}
+@media(max-width:600px) {.article-card{padding:22px}.article-card .card-title{font-size:1.25rem}.card-description{font-size:.88rem}.card-topics{margin-bottom:20px!important}}
 
 /* ========================================
    CATEGORY BADGE
@@ -1110,3 +1106,5 @@ main {
 .reading-cues .article-keywords li{background:#f0f5f1;border:0;border-radius:4px;color:#4d6d60;font-size:.78rem;padding:4px 9px}
 
 @media(max-width:600px){.pagination{flex-wrap:wrap;gap:6px}.pagination a,.pagination span{min-width:36px;padding:7px 10px}}
+
+.article-card .card-person-name{font-size:.82rem;font-weight:600;color:#4d6d60;text-decoration:none}.article-card .card-person-name:hover{color:#244f40;text-decoration:underline}

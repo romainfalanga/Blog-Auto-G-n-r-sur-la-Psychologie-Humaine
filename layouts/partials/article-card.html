@@ -4,9 +4,6 @@
 {{- with $page.File }}{{ $id = strings.TrimSuffix ".md" .Path }}{{ end -}}
 {{- $cues := index $page.Site.Data.article_keywords $id -}}
 <article class="article-card reveal-card">
-  {{- with $cues.character }}
-  <a class="card-character" href="/personnages/{{ $cues.character_id }}/"><span class="card-character-mark" aria-hidden="true">{{ substr . 0 1 }}</span><span>Une histoire avec <strong>{{ . }}</strong></span></a>
-  {{- end }}
   {{- if eq $level "h3" }}
   <h3 class="card-title"><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h3>
   {{- else }}
@@ -19,7 +16,7 @@
   <ul class="card-topics" aria-label="Thèmes de cette histoire">{{ range $keywords }}<li>{{ . }}</li>{{ end }}</ul>
   {{- end }}
   <div class="card-footer">
-    <span class="card-meta">{{ if $page.Params.readingTime }}{{ $page.Params.readingTime }}{{ else }}{{ math.Max 1 (math.Round (div (float $page.WordCount) 250.0)) }}{{ end }} min de lecture</span>
-    <a href="{{ $page.RelPermalink }}" class="card-read-more">Lire l’histoire<svg width="17" height="17" viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M4 10h12m-5-5 5 5-5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+    {{- with $cues.character }}<a class="card-meta card-person-name" href="/personnages/{{ $cues.character_id }}/">{{ . }}</a>{{ end }}
+    <a href="{{ $page.RelPermalink }}" class="card-read-more">Lire</a>
   </div>
 </article>
