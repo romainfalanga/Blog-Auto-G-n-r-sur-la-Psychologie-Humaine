@@ -40,4 +40,14 @@ Les instantanés SQLite associent sources et version. Le serveur rejette les ré
 
 ## Suivi
 
-Plan relu avant intégration; implémentation et vérifications en cours. Les tests permettent de vérifier les invariants et cas de pertinence connus. La qualité des recommandations devra ensuite se mesurer avec les retours réels; aucune méthode ne permet de certifier à l'avance qu'une sélection sera la meilleure pour chaque personne.
+Plan relu, implémentation publiée et vérifiée le 1er novembre 2026. Les tests permettent de vérifier les invariants et cas de pertinence connus. La qualité des recommandations devra ensuite se mesurer avec les retours réels; aucune méthode ne permet de certifier à l'avance qu'une sélection sera la meilleure pour chaque personne.
+
+## Vérifications obtenues
+
+- 25 tests backend, 9 tests du classement et 9 tests Python réussis; compilation Hugo réussie.
+- Catalogue réel de 231 articles : une explication sur l’approbation parentale fait remonter une lecture d’un autre personnage sur la recherche d’approbation; les négations et retours de faible résonance ne renforcent plus le thème rejeté.
+- Compte fictif sur le domaine : un seul like, sans abonnement et avec l’ancien champ consent_ai toujours faux, donne immédiatement 12 suggestions couvrant 10 personnages et un portrait provisoire.
+- [Workflow historique 41295058195](https://github.com/romainfalanga/Blog-Auto-G-n-r-sur-la-Psychologie-Humaine/actions/runs/41295058195) : succès; portrait gratuit analysé et publié en un appel IA.
+- Parcours d’affichage vérifié sur ordinateur et dans une vue de 390 pixels : suggestions séparées de la collection, motifs visibles, prénom et lien « Lire », aucun bouton pour aimer avant lecture et aucune case d’accord séparée.
+
+- Recette réelle après analyse : une correction vers la colère modifie immédiatement le classement et marque le portrait précédent comme obsolète; l’attente IA est indiquée. Le retrait du dernier like vide les suggestions et masque les portraits. Aucune histoire payante n’est créée pour ce compte gratuit. Compte fictif et compteur d’usage supprimés après vérification.
