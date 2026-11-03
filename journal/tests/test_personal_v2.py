@@ -235,6 +235,25 @@ class V2Tests(unittest.TestCase):
         self.assertEqual(calls[1]['max_tokens'],7000)
         personal.validate_narrative_delta(result['narrative_delta'],result['body'])
 
+    def test_short_draft_gets_one_structural_repair_before_review_and_summary(self):
+        outputs=story_outputs()
+        short='TITRE_SEO: La lettre retrouvée\n---\n## La scène\nAlix retrouve une lettre et la conserve.'
+        outputs.insert(1,short);calls=[]
+        result=personal.generate(job('story'),lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        self.assertEqual([c['stage'] for c in calls],['planning','drafting','drafting','review','summary','reflection'])
+        repair=json.loads(calls[2]['user_prompt'])['correction_structure']
+        self.assertEqual(set(repair['issues']),{'word_count','headings'})
+        self.assertIn('Alix retrouve une lettre',repair['draft'])
+        self.assertNotIn('correction_structure',calls[3]['user_prompt'])
+        personal.validate_story_body({'title':result['title']},result['body'])
+
+    def test_two_invalid_drafts_stop_without_review_or_publication(self):
+        outputs=[story_outputs()[0],'TITRE_SEO: Court\n---\nTrop court.','TITRE_SEO: Court\n---\nToujours trop court.'];calls=[]
+        with self.assertRaises(personal.GenerationFailure) as caught:
+            personal.generate(job('story'),lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        self.assertEqual(caught.exception.stage,'drafting')
+        self.assertEqual([c['stage'] for c in calls],['planning','drafting','drafting'])
+
     def test_targeted_correction_is_rechecked_and_resummary_uses_corrected_final_body(self):
         j=job('story');outputs=story_outputs();outputs[2]=json.dumps(review([{'quote':'Alix retrouve finalement la lettre et choisit de la conserver.','reason':'Choix contraire au plan','replacement':'Alix retrouve finalement la lettre et choisit de la relire.'}]))
         outputs.insert(3,json.dumps(review()))
