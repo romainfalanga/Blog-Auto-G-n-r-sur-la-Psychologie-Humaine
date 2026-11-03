@@ -22,4 +22,14 @@ Les sources existantes et les 231 articles / 20 personnages sont conservés. Les
 
 Commandes : `hugo --minify`, `node --test tests/character-search.test.cjs journal/tests/*.test.mjs`, `python -m unittest discover -s journal/tests -p 'test_personal_pipeline.py'`.
 
-La validation en ligne doit confirmer le déploiement Netlify du commit de correction, le titre des pages personnelles après mise à jour du Worker, ainsi que la recherche, les suggestions et le bouton Effacer dans le navigateur.
+## Publication et vérification en ligne
+
+- Correctif enregistré dans le commit `f32afbd0db231c308b6e8272f59b061dc41b9d9d` sur `main`.
+- Déploiement Netlify `6ae9b59022dbd5ba80842453` publié avec l’état `ready` sur le domaine existant.
+- Worker mis à jour par remplacement de contenu uniquement, en conservant configuration, liaisons et secrets ; déploiement `88753b331789470f91ab17087cf15c87`.
+- Dans le navigateur en ligne : « je pense trop » retrouve Sophie en tête ; les suggestions se sélectionnent ; « Sophie restructuration cognitive » retrouve Sophie ; une recherche inconnue affiche un état vide ; Effacer rétablit les 20 personnages.
+- Parcours de Sophie contrôlé en ligne : aucun bloc Évolution, liens Lire et titre exact.
+- Mon portrait, Mes histoires et Mon compte chargent avec le titre unique, y compris après navigation interne. Vérification publique sans connexion ; aucune donnée de compte modifiée.
+- 60 tests automatisés réussis : 11 moteur de recherche, 40 backend/recommandations et 9 pipeline Python. Contrôle visuel effectué sur navigateur de bureau ; appareil mobile réel non testé.
+
+Les cinq exigences de cette reprise sont réalisées et vérifiées. Les étapes historiques d’activation de la facturation et de génération réelle, documentées ailleurs, ne font pas partie de cette correction d’interface.
