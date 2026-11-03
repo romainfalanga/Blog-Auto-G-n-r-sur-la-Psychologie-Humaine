@@ -90,6 +90,8 @@ La lecture intégrale confirme la troisième personne, l'identité et les relati
 
 Elle relève toutefois des échos de fabrication dans deux titres et une phrase (« scène incarnée », « explications naturelles des pratiques », « aux noms français »). Le dernier ajustement les ajoute au refus local et reformule la consigne de rédaction qui les avait favorisés. Les 67 tests Python passent, avec un test de ces trois reprises et un titre narratif témoin accepté. Ce dernier ajustement est vérifié localement, sans nouveau cycle payant.
 
+Le code final `e7aeff39781e3ce4ce6664f64a6d1f0d66dc49ec` passe la [CI finale](https://github.com/romainfalanga/Blog-Auto-G-n-r-sur-la-Psychologie-Humaine/actions/runs/41665565296) : 176 tests (67 Python, 93 journal JS, 16 recherche). Le workflow de génération se termine également sans erreur après nettoyage. Les modifications ultérieures de cette note ne changent pas le code testé.
+
 Des réserves littéraires subsistent dans l'échantillon : répétitions pédagogiques, quelques formulations trop générales, accord fautif dans une question et petits raccords matériels (pied nu/semelle, appel sortant/entrant). La recette démontre le parcours fonctionnel et les contrôles de débit ; elle ne valide pas entièrement la qualité narrative ni sa constance pour tous les profils. Le texte brut de recette n'est donc pas présenté comme un exemple éditorial approuvé.
 
 ## Limites de la vérification
