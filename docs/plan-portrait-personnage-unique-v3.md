@@ -41,6 +41,18 @@ Le personnage principal existant est celui du premier emplacement. Son identité
 - Relecture indépendante : un conflit entre migration et réactivation d’anciens jobs a été identifié, corrigé et vérifié indépendamment avec deux anciens jobs échoués.
 - Recette isolée : sept contrôles API réussis (pages, redirections, sauvegarde et conflit 409, date invalide, personnage unique et portrait périmé, conservation des histoires, recommandations). Aucun appel IA payant.
 - Validation locale : 105 tests JavaScript du journal, 16 tests de recherche, 70 tests Python, construction Hugo réussie.
-- Migration de production 0007 appliquée le 3 novembre 2026, générations suspendues pendant la publication. Le contrôle final de publication est consigné dans le compte rendu de livraison.
+- Migration de production 0007 appliquée le 3 novembre 2026 ; générations suspendues pendant la publication, puis réactivées après validation.
 
 Le paiement Stripe reste une configuration externe distincte : cette évolution ne prétend pas activer l'encaissement. Aucun appel IA payant n'est nécessaire pour ces tests de migration et de parcours.
+
+## Livraison vérifiée le 3 novembre 2026
+
+- Code publié : `707c3bd1817ba172ec6ac52d0fdc87ad60098834`.
+- Vérifications GitHub et workflow de génération : succès sur cette révision.
+- Déploiement Netlify : `6aea0da89b57edb67fe5d976`, prêt et publié avec cette révision.
+- Worker de production : `c4b4ad918db940da950a812384bc09ea`, module normal, génération réactivée ; bindings existants conservés.
+- Quatre pages personnelles répondent en HTTP 200 avec `private,no-store`. L’ancienne URL `/mes-personnages/` redirige vers `/mon-personnage/` et conserve le paramètre d’histoire.
+- Contrôle visuel : menu d’accueil mis à jour et ouverture effective de Mes proches. Les formulaires authentifiés ont été vérifiés par les tests UI et la recette API isolée.
+- Intégrité D1 : aucune violation de clé étrangère ; décomptes utilisateurs, histoires, personnages et articles aimés inchangés avant/après migration.
+- Santé API : disponible, IA configurée, paiement Stripe non configuré.
+- Les tests narratifs utilisent des réponses contrôlées ; aucune nouvelle évaluation littéraire payante n’a été effectuée pour cette livraison.
