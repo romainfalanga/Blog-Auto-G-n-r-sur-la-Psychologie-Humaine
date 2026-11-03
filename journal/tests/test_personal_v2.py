@@ -48,9 +48,26 @@ def review(issues=None):
     return {'checked':['identity','relationships','chronology','acquisitions','attribution','constraints','continuity','conclusion'],'issues':issues or []}
 
 
+def guidance(sid='memory:user'):
+    result=personal.empty_fiction_guidance()
+    result['orientations']=[{'label':'colère','evidence':[sid]}]
+    return result
+
+
+def character_fixture(slot,name,evidence):
+    dimensions=[('transports','équipe professionnelle','organisation'),
+                ('milieu naturel','voisinage','patience'),
+                ('commerce','amitié','humour')][slot-1]
+    return {'slot':slot,'identity':{'name':name,'description':name+' mène une vie fictive dans '+dimensions[0]+', avec '+dimensions[2]+'.',
+            'story_domain':dimensions[0],'social_setting':dimensions[1],'principal_resource':dimensions[2]},
+            'facet':{'label':['Choisir son rythme','Trouver sa place','Oser une réponse'][slot-1],
+                     'description':'Proposition fictive, sans interpréter votre vécu.','evidence':evidence,'exploratory':not evidence},
+            'narrative_state':{}}
+
+
 def story_outputs():
     text=body()
-    return [json.dumps({'subject':'Nommer une émotion','scene':'Un atelier','continuity':'Alix relie des livres','ending':'La lettre retrouvée','practice':'Observer une émotion'}),
+    return [json.dumps(guidance()),json.dumps({'subject':'Nommer une émotion','scene':'Un atelier','continuity':'Alix relie des livres','ending':'La lettre retrouvée','practice':'Observer une émotion'}),
             'TITRE_SEO: La lettre retrouvée\nMETA_DESCRIPTION: Un récit fictif\nSLUG: lettre\nTAGS: émotion\n---\n'+text,
             json.dumps(review()),json.dumps({'summary':'Fiction : Alix retrouve finalement la lettre et choisit de la conserver.',
                 'narrative_delta':{'events':[{'text':'Alix observe','quote':'Alix observe une possibilité fictive'}],'relationships':[],'open_questions':[],
@@ -59,6 +76,167 @@ def story_outputs():
 
 
 class V2Tests(unittest.TestCase):
+    def test_raw_sources_never_reach_fiction_planning_writing_or_character_design(self):
+        marker='ATELIER_ZEPHYR_1998_PERSONNE_TEMOIN'
+        s=source('event:e','Chez mon père, '+marker+', j’ai montré un dessin imparfait à Nantes.')
+        j=job('story',s);j['portrait']['summary']=marker;j['portrait']['axes'][0].update(label='Rapport à l’imperfection '+marker,why=marker)
+        j['portrait']['strengths']=[{'text':marker,'evidence':[s['id']]}]
+        j['portrait']['current_state']={'summary':marker,'evidence':[s['id']]}
+        j['inspirations']=[{'body':marker,'title':marker,'character':marker,'keywords':['perfectionnisme']}]
+        outputs=story_outputs();outputs[0]=json.dumps(guidance(s['id']));calls=[]
+        personal.generate(j,lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        self.assertIn(marker,calls[0]['user_prompt']);self.assertEqual(calls[0]['stage'],'orientation')
+        for call in calls[1:]:self.assertNotIn(marker,call['user_prompt'])
+        j['kind']='characters';result={'characters':[character_fixture(i,name,[s['id']]) for i,name in [(1,'Alix'),(2,'Sam'),(3,'Noa')]]};calls=[]
+        personal.generate(j,lambda _,p:(calls.append(p) or {'content':json.dumps(guidance(s['id']) if p['stage']=='orientation' else result)}))
+        self.assertIn(marker,calls[0]['user_prompt']);self.assertNotIn(marker,calls[-1]['user_prompt'])
+        self.assertIn('DIFFÉRENTES',calls[-1]['system_prompt'])
+
+    def test_orientation_rejects_arbitrary_personal_prose_before_any_fiction_call(self):
+        result=guidance();result['orientations'][0]['label']='Le père peint dans son atelier privé'
+        calls=[]
+        with self.assertRaises(personal.GenerationFailure) as error:
+            personal.generate(job('story'),lambda _,p:(calls.append(p) or {'content':json.dumps(result)}))
+        self.assertEqual(error.exception.stage,'orientation');self.assertEqual(len(calls),1)
+
+    def test_protected_claims_are_also_excluded_from_analytical_orientation(self):
+        j=job('story');protected=source('event:protected','SECRET_PROTECTED_SCENE');protected['fiction_use']='understanding_only';j['sources'].append(protected)
+        j['portrait']['summary']='SECRET_PROTECTED_SCENE';j['portrait']['summary_evidence']=[protected['id']]
+        j['portrait']['axes'].append({'label':'SECRET_PROTECTED_SCENE','why':'SECRET_PROTECTED_SCENE','confidence':.2,'evidence':[protected['id']]})
+        j['portrait']['citations'].append({'source_id':protected['id'],'revision':1,'quote':protected['text']})
+        context=personal.fiction_analysis_context(j)
+        self.assertNotIn('SECRET_PROTECTED_SCENE',json.dumps(context))
+        self.assertEqual(len(context['sources']),1)
+
+    def test_unmapped_reading_wish_gets_complete_analytical_review_without_blocking(self):
+        original='Contexte préalable. '*20+'PREFERENCE_LIBRE : pas de téléphone dans cette histoire.'
+        j=job('story',source(text=original));outputs=story_outputs();g=guidance();g['unrepresented_constraints']=True;outputs[0]=json.dumps(g);calls=[]
+        result=personal.generate(j,lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        self.assertTrue(result['body']);self.assertEqual(len(calls),6)
+        for call in calls:
+            data=json.loads(call['user_prompt'])
+            if call['stage'] in ('orientation','review'):self.assertIn(original,call['user_prompt'])
+            else:self.assertNotIn('PREFERENCE_LIBRE',call['user_prompt'])
+        review_call=next(c for c in calls if c['stage']=='review')
+        self.assertIn('analytical_preferences',json.loads(review_call['user_prompt']))
+
+    def test_new_character_protocol_requires_distinct_domains_relations_and_resources(self):
+        j=job('characters');proposals=[character_fixture(i,name,['memory:user']) for i,name in [(1,'Alix'),(2,'Sam'),(3,'Noa')]]
+        personal.validate_characters_v2(proposals,j)
+        for key in ('story_domain','social_setting','principal_resource'):
+            copied=copy.deepcopy(proposals);copied[1]['identity'][key]=copied[0]['identity'][key]
+            with self.subTest(key=key),self.assertRaisesRegex(ValueError,'coherence_error'):personal.validate_characters_v2(copied,j)
+        copied=copy.deepcopy(proposals);copied[1]['facet']['label']='perspective'
+        with self.assertRaises(ValueError):personal.validate_characters_v2(copied,j)
+
+    def test_partial_preparation_cannot_reuse_existing_dimensions_and_legacy_is_preserved(self):
+        existing=character_fixture(1,'Alix',['memory:user']);existing['id']='old-character'
+        j=job('characters');j['characters']=[existing];j['missing_slots']=[2,3]
+        proposals=[character_fixture(2,'Sam',['memory:user']),character_fixture(3,'Noa',['memory:user'])]
+        personal.validate_characters_v2(proposals,j)
+        duplicate=copy.deepcopy(proposals);duplicate[0]['identity']['story_domain']=existing['identity']['story_domain']
+        with self.assertRaisesRegex(ValueError,'coherence_error'):personal.validate_characters_v2(duplicate,j)
+        legacy=copy.deepcopy(existing)
+        for key in ('story_domain','social_setting','principal_resource'):legacy['identity'].pop(key)
+        j['characters']=[legacy];before=copy.deepcopy(legacy)
+        personal.validate_characters_v2(duplicate,j)
+        self.assertEqual(j['characters'][0],before)
+
+    def test_existing_identity_and_published_history_are_unchanged_by_projection(self):
+        j=job('story');j['character']['identity']={'name':'Alix','description':'Une artiste dans son atelier, avec son père fictif établi.'}
+        j['history']=[{'id':'old','character_id':'char-a','summary':'Alix visite son père fictif.','episode_number':1}]
+        before=copy.deepcopy(j);context=personal.story_context_v2(j)
+        self.assertEqual(j,before);self.assertEqual(context['character']['identity'],j['character']['identity']);self.assertEqual(context['history_recent'],j['history'])
+
+    def test_writer_reference_contains_french_labels_without_english_ids_or_bibliography(self):
+        text=json.dumps(personal.writing_reference(),ensure_ascii=False)
+        for leaked in ('notice_name','Notice and Name','grounding','Grounding','assertive_limit','source_url','source_title','https://'):self.assertNotIn(leaked,text)
+        self.assertIn('Observer et nommer',text)
+
+    def test_v2_guard_never_inherits_historical_format_or_gender_instructions(self):
+        calls=[];adapter=personal.Adapter(job('story'),lambda _,p:(calls.append(p) or {'content':'{}'}))
+        adapter(system_prompt='Retourne JSON',user_prompt='{}')
+        prompt=calls[0]['system_prompt']
+        self.assertIn('JOURNAL PERSONNEL V2',prompt);self.assertNotIn('Markdown du relecteur',prompt);self.assertNotIn('épicène',prompt)
+        self.assertNotIn('JSON du résumé',prompt)
+
+    def test_editorial_leaks_are_local_blockers_even_in_long_structurally_valid_text(self):
+        cases={
+          'technical_block':'JSON_RÉSUMÉ:\n{"personnage":"Alix"}',
+          'heading':'## JSON_RÉSUMÉ\n{"personnage":"Alix"}',
+          'untranslated_jargon':'Alix pratique Notice and name puis Grounding.',
+          'editorial_instructions':'La continuité reste intacte, sans progrès forcé.',
+          'hidden_technical_content':'<!-- source_version: 3 -->',
+          'first_person_narration':'Je rentre chez mon père et raconte ma journée.\n\n'}
+        for kind,snippet in cases.items():
+            text=snippet+'\n\n'+body() if kind=='first_person_narration' else body()+'\n\n'+snippet+'\n\nAlix referme la porte et reprend sa route.'
+            with self.subTest(kind=kind):
+                self.assertTrue(personal.editorial_body_issues(text))
+                with self.assertRaises(ValueError):personal.validate_story_body({'title':'Une journée'},text)
+        with self.assertRaises(ValueError):personal.validate_story_body({'title':'JSON_RÉSUMÉ'},body())
+        personal.validate_story_body({'title':'La réponse'},body()+'\n\n« Je préfère partir », dit Alix, avant de fermer la porte.')
+
+    def test_one_editorial_repair_occurs_before_review_summary_and_publication(self):
+        outputs=story_outputs();bad=outputs[2]+'\n\nJSON_RÉSUMÉ:\n{"personnage":"Alix"}\n\nLa continuité reste intacte, sans progrès forcé.';outputs.insert(2,bad);calls=[]
+        result=personal.generate(job('story'),lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        self.assertEqual([c['stage'] for c in calls],['orientation','planning','drafting','drafting','review','summary','reflection'])
+        correction=json.loads(calls[3]['user_prompt'])['correction_structure']
+        self.assertIn('technical_block',correction['issues']);self.assertIn('editorial_instructions',correction['issues'])
+        self.assertNotIn('JSON_RÉSUMÉ',result['body'])
+        self.assertNotIn('JSON_RÉSUMÉ',next(c for c in calls if c['stage']=='summary')['user_prompt'])
+
+    def test_second_editorially_invalid_draft_stops_before_summary_or_publication(self):
+        outputs=story_outputs();bad=outputs[2]+'\n\nGrounding accompagne la scène jusqu’à la porte.';outputs=outputs[:2]+[bad,bad];calls=[]
+        with self.assertRaises(personal.GenerationFailure):personal.generate(job('story'),lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        self.assertEqual([c['stage'] for c in calls],['orientation','planning','drafting','drafting'])
+
+    def test_analytical_review_cannot_reinject_verbatim_private_source_into_body(self):
+        original='PRIVATE_SENTINEL_1987 dans mon atelier. Je ne veux pas de téléphone.'
+        j=job('story',source(text=original));outputs=story_outputs();g=guidance();g['unrepresented_constraints']=True;outputs[0]=json.dumps(g)
+        ending='Alix retrouve finalement la lettre et choisit de la conserver.'
+        outputs[3]=json.dumps(review([{'quote':ending,'reason':'Ajuster la préférence','replacement':ending+' PRIVATE_SENTINEL_1987 dans mon atelier.'}]))
+        calls=[]
+        with self.assertRaises(personal.GenerationFailure) as caught:personal.generate(j,lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        self.assertEqual(caught.exception.code,'coherence_error');self.assertEqual(caught.exception.stage,'correction')
+        self.assertEqual(calls[-1]['stage'],'review');self.assertNotIn('summary',[c['stage'] for c in calls])
+
+    def test_copy_guard_preserves_established_fiction_and_blocks_structured_private_identifiers(self):
+        j=job('story',source(text='Dans mon atelier secret je range les aquarelles anciennes.'))
+        with self.assertRaisesRegex(ValueError,'coherence_error'):personal.assert_no_private_reuse('Dans mon atelier secret je range les aquarelles anciennes.',j)
+        j['history']=[{'summary':'Dans mon atelier secret je range les aquarelles anciennes.'}]
+        personal.assert_no_private_reuse('Dans mon atelier secret je range les aquarelles anciennes.',j)
+        j['people']=[{'display_name':'Zélie Dupont'}]
+        with self.assertRaisesRegex(ValueError,'coherence_error'):personal.assert_no_private_reuse('Zélie Dupont arrive près de la porte.',j)
+        personal.assert_no_private_reuse('Un atelier, une porte et une pensée.',j)
+
+    def test_analytical_constraint_review_excludes_life_scenes_and_preserves_complete_wishes(self):
+        original='Contexte. '*40+'Je ne veux pas de personnage médecin.'
+        j=job('story',source(text=original));j['sources'].append(source('event:e','PRIVATE_EVENT_SCENE_ONLY'))
+        context=personal.analytical_reading_constraints(j)
+        self.assertIn(original,json.dumps(context,ensure_ascii=False));self.assertNotIn('PRIVATE_EVENT_SCENE_ONLY',json.dumps(context))
+
+    def test_free_character_preference_is_checked_before_identity_becomes_stable(self):
+        j=job('characters',source(text='Je ne veux pas de personnage travaillant en soins.'))
+        g=guidance();g['unrepresented_constraints']=True
+        first={'characters':[character_fixture(i,name,['memory:user']) for i,name in [(1,'Alix'),(2,'Sam'),(3,'Noa')]]}
+        first['characters'][0]['identity']['description']='Alix travaille comme médecin dans un hôpital.'
+        second=copy.deepcopy(first);second['characters'][0]['identity']['description']='Alix organise les départs des trains dans une petite gare.'
+        responses=[g,first,{'checks':[{'slot':i,'allowed':i!=1} for i in (1,2,3)]},second,{'checks':[{'slot':i,'allowed':True} for i in (1,2,3)]}];calls=[]
+        result=personal.generate(j,lambda _,p:(calls.append(p) or {'content':json.dumps(responses.pop(0))}))
+        self.assertIn('gare',result['characters'][0]['identity']['description']);self.assertEqual(len(calls),5)
+        for index in (1,3):self.assertNotIn('Je ne veux pas de personnage',calls[index]['user_prompt'])
+        self.assertIn('Je ne veux pas de personnage',calls[2]['user_prompt'])
+        repeated=json.loads(calls[3]['user_prompt'])['rejected_proposals']
+        self.assertEqual([c['slot'] for c in repeated],[1])
+        self.assertNotIn('reason',calls[3]['user_prompt'])
+
+    def test_free_character_preference_rejection_is_bounded_and_returns_no_identities(self):
+        j=job('characters');g=guidance();g['unrepresented_constraints']=True
+        proposed={'characters':[character_fixture(i,name,['memory:user']) for i,name in [(1,'Alix'),(2,'Sam'),(3,'Noa')]]}
+        checks={'checks':[{'slot':i,'allowed':False} for i in (1,2,3)]};responses=[g,proposed,checks,proposed,checks];calls=[]
+        with self.assertRaises(personal.GenerationFailure) as caught:personal.generate(j,lambda _,p:(calls.append(p) or {'content':json.dumps(responses.pop(0))}))
+        self.assertEqual(caught.exception.code,'coherence_error');self.assertEqual(len(calls),5)
+
     def test_worker_usage_contract_accumulates_observed_tokens_and_cost(self):
         adapter=personal.Adapter(job('story'),lambda _,payload:{
             'content':'{}','usage':{'input_tokens':123,'output_tokens':456,'observed_cost':.001}})
@@ -84,9 +262,7 @@ class V2Tests(unittest.TestCase):
 
     def test_only_restricted_event_can_prepare_honest_exploratory_characters(self):
         s=source('event:protected','PRIVATE SCENE');s['fiction_use']='understanding_only';j=job('characters',s)
-        output={'characters':[{'slot':slot,'identity':{'name':name,'description':'Identité fictive indépendante.'},
-                'facet':{'label':'Piste exploratoire','description':'Proposition fictive, sans interpréter votre vécu.','evidence':[],'exploratory':True},'narrative_state':{}}
-                for slot,name in [(1,'Alix'),(2,'Sam'),(3,'Noa')]]}
+        output={'characters':[character_fixture(slot,name,[]) for slot,name in [(1,'Alix'),(2,'Sam'),(3,'Noa')]]}
         calls=[];result=personal.generate(j,lambda _,p:(calls.append(p) or {'content':json.dumps(output)}))
         self.assertEqual(len(result['characters']),3);self.assertNotIn('PRIVATE SCENE',calls[0]['user_prompt'])
         self.assertEqual(json.loads(calls[0]['user_prompt'])['allowed_evidence_ids'],[])
@@ -101,7 +277,7 @@ class V2Tests(unittest.TestCase):
     def test_migration_identity_must_be_anchored_in_preserved_fiction(self):
         j=job('characters');j['characters']=[{'id':'legacy','slot':1,'identity':{}}];j['missing_slots']=[1]
         j['character_histories']={'legacy':[{'id':'old-story','body':'Camille retrouve sa lettre.','summary':'Camille retrouve sa lettre.'}]}
-        character={'slot':1,'identity':{'name':'Camille','description':'Identité fictive conservée.','archive_evidence':[{'story_id':'old-story','quote':'Camille retrouve sa lettre.'}]},'facet':{'label':'Une perspective','description':'Exploration','evidence':['memory:user']},'narrative_state':{}}
+        character={'slot':1,'identity':{'name':'Camille','description':'Identité fictive conservée.','archive_evidence':[{'story_id':'old-story','quote':'Camille retrouve sa lettre.'}]},'facet':{'label':'Retrouver la lettre','description':'Exploration','evidence':['memory:user']},'narrative_state':{}}
         personal.validate_characters_v2([character],j)
         character['identity']['name']='Sam'
         with self.assertRaisesRegex(ValueError,'coherence_error'):personal.validate_characters_v2([character],j)
@@ -197,9 +373,9 @@ class V2Tests(unittest.TestCase):
 
     def test_three_missing_slots_only_and_existing_identity_stays_stable(self):
         j=job('characters');j['characters']=[{'slot':1,'identity':{'name':'Alix','description':'Identité ancienne conservée'}}];j['missing_slots']=[2,3]
-        result={'characters':[{'slot':slot,'identity':{'name':name,'description':'Un milieu inventé distinct, des relations et des ressources.'},'facet':{'label':'Une possibilité','description':'Proposition exploratoire','evidence':['memory:user']},'narrative_state':{}} for slot,name in [(2,'Sam'),(3,'Noa')]]}
-        calls=[];out=personal.generate(j,lambda _,p:(calls.append(p) or {'content':json.dumps(result)}))
-        self.assertEqual([c['slot'] for c in out['characters']],[2,3]);self.assertIn('Identité ancienne conservée',calls[0]['user_prompt'])
+        result={'characters':[character_fixture(slot,name,['memory:user']) for slot,name in [(2,'Sam'),(3,'Noa')]]}
+        calls=[];out=personal.generate(j,lambda _,p:(calls.append(p) or {'content':json.dumps(guidance() if p['stage']=='orientation' else result)}))
+        self.assertEqual([c['slot'] for c in out['characters']],[2,3]);self.assertIn('Identité ancienne conservée',calls[-1]['user_prompt'])
         result['characters'][0]['slot']=1
         with self.assertRaises(ValueError):personal.validate_characters_v2(result['characters'],j)
 
@@ -212,7 +388,8 @@ class V2Tests(unittest.TestCase):
     def test_source_corrections_after_120_chars_are_preserved(self):
         original='Contexte ordinaire. '*30+'Correction importante : je ne vis pas cette situation.'
         j=job('story',source(text=original))
-        self.assertIn(original,json.dumps(personal.story_context_v2(j),ensure_ascii=False))
+        self.assertIn(original,json.dumps(personal.fiction_analysis_context(j),ensure_ascii=False))
+        self.assertNotIn(original,json.dumps(personal.story_context_v2(j),ensure_ascii=False))
 
     def test_old_unresolved_event_is_retrieved_after_thirty_episodes(self):
         j=job('story');j['history']=[{'id':str(i),'character_id':'char-a','summary':'Un épisode ordinaire','narrative_delta':{},'episode_number':i} for i in range(35)]
@@ -227,39 +404,39 @@ class V2Tests(unittest.TestCase):
     def test_final_complete_body_summary_and_delta_include_ending(self):
         j=job('story');outputs=story_outputs();calls=[]
         result=personal.generate(j,lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
-        self.assertEqual(len(calls),5)
+        self.assertEqual(len(calls),6)
         summary_call=next(c for c in calls if c['stage']=='summary')
         self.assertIn('choisit de la conserver',summary_call['user_prompt'])
         self.assertIn('choisit de la conserver',result['summary'])
-        self.assertEqual(calls[1]['temperature'],.7)
-        self.assertEqual(calls[1]['max_tokens'],7000)
+        self.assertEqual(calls[2]['temperature'],.7)
+        self.assertEqual(calls[2]['max_tokens'],7000)
         personal.validate_narrative_delta(result['narrative_delta'],result['body'])
 
     def test_short_draft_gets_one_structural_repair_before_review_and_summary(self):
         outputs=story_outputs()
         short='TITRE_SEO: La lettre retrouvée\n---\n## La scène\nAlix retrouve une lettre et la conserve.'
-        outputs.insert(1,short);calls=[]
+        outputs.insert(2,short);calls=[]
         result=personal.generate(job('story'),lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
-        self.assertEqual([c['stage'] for c in calls],['planning','drafting','drafting','review','summary','reflection'])
-        repair=json.loads(calls[2]['user_prompt'])['correction_structure']
+        self.assertEqual([c['stage'] for c in calls],['orientation','planning','drafting','drafting','review','summary','reflection'])
+        repair=json.loads(calls[3]['user_prompt'])['correction_structure']
         self.assertEqual(set(repair['issues']),{'word_count','headings'})
         self.assertIn('Alix retrouve une lettre',repair['draft'])
-        self.assertNotIn('correction_structure',calls[3]['user_prompt'])
+        self.assertNotIn('correction_structure',calls[4]['user_prompt'])
         personal.validate_story_body({'title':result['title']},result['body'])
 
     def test_two_invalid_drafts_stop_without_review_or_publication(self):
-        outputs=[story_outputs()[0],'TITRE_SEO: Court\n---\nTrop court.','TITRE_SEO: Court\n---\nToujours trop court.'];calls=[]
+        outputs=story_outputs()[:2]+['TITRE_SEO: Court\n---\nTrop court.','TITRE_SEO: Court\n---\nToujours trop court.'];calls=[]
         with self.assertRaises(personal.GenerationFailure) as caught:
             personal.generate(job('story'),lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
         self.assertEqual(caught.exception.stage,'drafting')
-        self.assertEqual([c['stage'] for c in calls],['planning','drafting','drafting'])
+        self.assertEqual([c['stage'] for c in calls],['orientation','planning','drafting','drafting'])
 
     def test_targeted_correction_is_rechecked_and_resummary_uses_corrected_final_body(self):
-        j=job('story');outputs=story_outputs();outputs[2]=json.dumps(review([{'quote':'Alix retrouve finalement la lettre et choisit de la conserver.','reason':'Choix contraire au plan','replacement':'Alix retrouve finalement la lettre et choisit de la relire.'}]))
-        outputs.insert(3,json.dumps(review()))
-        outputs[4]=outputs[4].replace('conserver','relire')
+        j=job('story');outputs=story_outputs();outputs[3]=json.dumps(review([{'quote':'Alix retrouve finalement la lettre et choisit de la conserver.','reason':'Choix contraire au plan','replacement':'Alix retrouve finalement la lettre et choisit de la relire.'}]))
+        outputs.insert(4,json.dumps(review()))
+        outputs[5]=outputs[5].replace('conserver','relire')
         calls=[];result=personal.generate(j,lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
-        self.assertEqual(len(calls),6);self.assertIn('relire',result['body']);self.assertIn('relire',result['summary'])
+        self.assertEqual(len(calls),7);self.assertIn('relire',result['body']);self.assertIn('relire',result['summary'])
 
     def test_summary_delta_cannot_cite_only_the_opening_as_resolution(self):
         delta={'events':[],'relationships':[],'open_questions':[],'resolution':{'text':'Fin','quote':'## La scène'}}
@@ -288,7 +465,8 @@ class V2Tests(unittest.TestCase):
         for sid,text in fixtures:
             with self.subTest(source=sid,text=text[:30]):
                 j=job('story',source(sid,text));ctx=personal.story_context_v2(j)
-                self.assertEqual(ctx['sources'][0]['text'],j['sources'][0]['text'])
+                self.assertEqual(personal.fiction_analysis_context(j)['sources'][0]['text'],j['sources'][0]['text'])
+                self.assertNotIn('sources',ctx)
                 self.assertEqual(ctx['character']['id'],'char-a')
                 self.assertNotIn('fictional_character',ctx['portrait'])
 
