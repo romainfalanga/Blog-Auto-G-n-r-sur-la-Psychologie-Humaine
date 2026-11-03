@@ -626,3 +626,16 @@ class V2Tests(unittest.TestCase):
                 self.assertNotIn('fictional_character',ctx['portrait'])
 
 if __name__=='__main__':unittest.main()
+
+class RequestedFocusPrivacyTests(unittest.TestCase):
+    def test_focus_is_analytical_preference_not_raw_writer_context(self):
+        j=job('story')
+        j['requested_focus']='La rupture brutale dans mon atelier personnel en février a bouleversé mon quotidien.'
+        analytical=personal.fiction_analysis_context(j)
+        self.assertEqual(analytical['sources'][-1]['fields']['preference'],j['requested_focus'])
+        self.assertIn(j['requested_focus'],json.dumps(personal.analytical_reading_constraints(j),ensure_ascii=False))
+        self.assertNotIn(j['requested_focus'],json.dumps(personal.story_context_v2(j),ensure_ascii=False))
+        guidance=personal.empty_fiction_guidance()
+        guidance['prefer_topics']=[{'label':next(iter(personal.FICTION_THEMES)),'evidence':['request-focus']}]
+        personal.validate_fiction_guidance(guidance,j)
+        with self.assertRaises(ValueError):personal.assert_no_private_reuse(j['requested_focus'],j)

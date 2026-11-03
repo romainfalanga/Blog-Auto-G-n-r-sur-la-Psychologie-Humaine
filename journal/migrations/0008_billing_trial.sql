@@ -1,0 +1,3 @@
+ALTER TABLE subscriptions ADD COLUMN trial_end INTEGER NOT NULL DEFAULT 0;
+ALTER TABLE subscriptions ADD COLUMN trial_used_at INTEGER NOT NULL DEFAULT 0;
+ALTER TABLE subscriptions ADD COLUMN cancel_at_period_end INTEGER NOT NULL DEFAULT 0;

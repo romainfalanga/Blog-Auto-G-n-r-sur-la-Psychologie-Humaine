@@ -1,0 +1,30 @@
+[
+  {
+    "label": "Accueil",
+    "href": "/"
+  },
+  {
+    "label": "Mon accompagnement",
+    "href": "/mon-accompagnement/"
+  },
+  {
+    "label": "Mon personnage",
+    "href": "/mon-personnage/"
+  },
+  {
+    "label": "Mon portrait",
+    "href": "/mon-portrait/"
+  },
+  {
+    "label": "Mes proches",
+    "href": "/mes-proches/"
+  },
+  {
+    "label": "Ma ligne de vie",
+    "href": "/ma-ligne-de-vie/"
+  },
+  {
+    "label": "Mon compte",
+    "href": "/mon-compte/"
+  }
+]

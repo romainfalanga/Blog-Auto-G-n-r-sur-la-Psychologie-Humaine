@@ -167,3 +167,61 @@ test('one active character is gated by readiness and archives have no continuati
   env.ctx.state.characterData.readiness.eligible=true;env.ctx.drawCharacterCards();assert.equal(cards.querySelector('[data-continue-character]').disabled,false);
   env.ctx.state.selectedCharacter='old';env.ctx.drawCharacterCards();assert.equal(cards.querySelector('[data-continue-character]'),null);assert.match(cards.textContent,/Revenir à mon personnage actif/);
 });
+
+test('V4 global navigation has exactly the shared public links in source order',()=>{
+  const navigation=JSON.parse(readFileSync(new URL('../../data/navigation.json',import.meta.url),'utf8'));
+  const menu=HTML.match(/<ul class="nav-links">([\s\S]*?)<\/ul>/)[1];
+  const links=[...menu.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map(match=>({href:match[1],label:match[2]}));
+  assert.deepEqual(links,navigation);assert.equal(links.length,7);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
+  assert.match(readFileSync(new URL('../../layouts/partials/header.html',import.meta.url),'utf8'),/\.Site\.Data\.navigation/);
+});
+
+test('locked character page only renders prerequisites and never fetches a legacy story',async()=>{
+  const calls=[];const env=environment({api:async(path)=>{calls.push(path);return {characters:[{id:'old',identity:{name:'Alex'}}],archived_characters:[{id:'archive'}],readiness:{eligible:false,likes_count:2,target:10}}},capturePageDrafts(){}});
+  const host=env.host('view');Object.assign(env.ctx.state,{me:{subscription:{active:false}},selected:'old-story',selectedCharacter:null});
+  vm.runInContext(functionCode('characterEligible')+'\n'+functionCode('characterProgress')+'\n'+functionCode('renderJournal'),env.ctx);
+  await env.ctx.renderJournal();assert.deepEqual(calls,['/api/characters']);assert.match(host.textContent,/2 \/ 10 articles aimés/);assert.doesNotMatch(host.textContent,/Alex|archives|quota|première histoire/i);assert.equal(env.ctx.state.characters[0].id,'old');
+});
+
+test('portrait rendering no longer exposes the obsolete fictional character card',()=>{
+  assert.doesNotMatch(functionCode('appendPortrait'),/fictional_character/);
+  assert.doesNotMatch(functionCode('renderAccount'),/10 €|likes_count>=10|Aimez au moins 10/);
+  assert.match(functionCode('renderAccount'),/29 €/);assert.match(functionCode('renderAccount'),/billing\/cancel/);
+});
+
+test('chat network retries keep the same message key and complete draft',async()=>{
+  const calls=[];const env=environment({api:async(...args)=>{calls.push(args);throw new Error('offline')}});
+  Object.assign(env.ctx.state,{chatDraft:'',chatSending:false,chatSendKey:null});vm.runInContext(functionCode('sendChat'),env.ctx);
+  const form=env.doc.createElement('form'),input=env.doc.createElement('textarea'),send=env.doc.createElement('button');input.name='content';input.value='Mon texte complet et sensible';send.type='submit';form.append(input,send);
+  await env.ctx.sendChat(form,()=>true);await env.ctx.sendChat(form,()=>true);
+  assert.equal(calls.length,2);assert.equal(calls[0][2].idempotency_key,calls[1][2].idempotency_key);assert.equal(env.ctx.state.chatDraft,input.value);assert.equal(send.disabled,false);
+});
+
+test('chat proposals submit edited visible fields and preserve unedited structured data',async()=>{
+  let sent;const env=environment({api:async(path,method,payload)=>{sent={path,payload};throw new Error('conflict')}});env.ctx.state.chatProposalDrafts=new Map();env.ctx.drawChatPeople=()=>{};vm.runInContext(functionCode('drawChatProposal'),env.ctx);
+  const host=env.host('proposals');env.ctx.drawChatProposal(host,{id:'p1',kind:'life_event_create',revision:3,status:'pending',payload:{title:'Avant',description:'Détail',people_ids:['person1'],current_importance:2}},()=>true);
+  const form=host.children[0],title=field(form,'title','Mon titre corrigé');await title.fire('input');await form.fire('submit');
+  assert.equal(sent.path,'/api/chat/proposals/p1/accept');assert.equal(sent.payload.revision,3);assert.equal(sent.payload.payload.title,'Mon titre corrigé');assert.deepEqual(Array.from(sent.payload.payload.people_ids),['person1']);assert.equal(sent.payload.payload.current_importance,2);assert.equal(env.ctx.state.chatProposalDrafts.get('p1').title,'Mon titre corrigé');assert.match(form.textContent,/modifications sont conservées/);
+});
+
+test('quota exhaustion retains conversation, proposals and privacy actions while blocking sends',()=>{
+  const env=environment();env.ctx.state.chatProposalDrafts=new Map();env.ctx.state.chatData={consent:true,access:{allowed:false,reason:'quota_exhausted'},quota:{remaining:0,limit:100},messages:[{role:'user',content:'Mon historique privé'}],proposals:[{id:'proposal',status:'pending'}]};env.ctx.drawChatProposal=(host)=>host.append(env.doc.createElement('form'));vm.runInContext(functionCode('chatConsent')+'\n'+functionCode('drawChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);
+  assert.match(host.textContent,/Mon historique privé/);assert.match(host.textContent,/Effacer la conversation et désactiver/);assert.doesNotMatch(host.textContent,/Voir mon abonnement/);assert.equal(env.doc.getElementById('chat-proposals').children.length,1);assert.equal(env.doc.getElementById('chat-form').querySelector('button').disabled,true);assert.equal(env.doc.getElementById('chat-content').maxLength,6000);
+});
+
+test('confirmed terminal failure renews message key, unlike ambiguous network failure',async()=>{
+  let scheduled;const env=environment({clearTimeout(){},setTimeout(fn){scheduled=fn;return 1},api:async()=>({last_request:{id:'r1',status:'failed'},last_error:{code:'provider_error'}})});const form=env.host('chat-form'),button=env.doc.createElement('button');button.type='submit';form.append(button);Object.assign(env.ctx.state,{tab:'chat',chatDraft:'Mon brouillon',chatSendKey:{key:'old-key',content:'Mon brouillon'},chatSending:true});vm.runInContext(functionCode('pollChat'),env.ctx);env.ctx.pollChat({id:'r1'},()=>true,'Mon brouillon');await scheduled();assert.equal(env.ctx.state.chatSendKey,null);assert.equal(env.ctx.state.chatDraft,'Mon brouillon');assert.equal(button.disabled,false);
+});
+
+test('proposal citations are plain text, before values visible and person associations editable',async()=>{
+  const env=environment({api:async()=>({people:[{id:'p1',display_name:'Camille'},{id:'p2',display_name:'Sam'}]})});env.ctx.state.chatProposalDrafts=new Map();vm.runInContext(functionCode('drawChatPeople')+'\n'+functionCode('drawChatProposal'),env.ctx);const host=env.host('proposals');env.ctx.drawChatProposal(host,{id:'x',kind:'life_event_update',revision:1,status:'pending',evidence_quote:'<script>citation privée</script>',before:{title:'Avant'},payload:{title:'Après',people_ids:['p1']}},()=>true);await new Promise(resolve=>setImmediate(resolve));assert.match(host.textContent,/<script>citation privée<\/script>/);assert.equal(host.querySelector('script'),null);assert.match(host.textContent,/Titre : Avant/);const checkboxes=host.querySelectorAll('input');assert.equal(checkboxes.length,2);checkboxes[0].checked=false;await checkboxes[0].fire('change');checkboxes[1].checked=true;await checkboxes[1].fire('change');assert.deepEqual(Array.from(env.ctx.state.chatProposalDrafts.get('x').people_ids),['p2']);
+});
+
+test('chat ignores duplicate sends during latency and keeps text typed while a request is pending',async()=>{
+  let resolve;const pending=new Promise(r=>resolve=r),calls=[];const env=environment({api:async(...args)=>{calls.push(args);return pending},pollChat(){}});Object.assign(env.ctx.state,{chatDraft:'Message initial',chatSending:false,chatSendKey:null,chatData:{access:{allowed:true}}});vm.runInContext(functionCode('sendChat'),env.ctx);const form=env.doc.createElement('form'),input=env.doc.createElement('textarea'),button=env.doc.createElement('button');input.name='content';input.value='Message initial';button.type='submit';form.append(input,button);const sending=env.ctx.sendChat(form,()=>true);input.value='Mon prochain message';env.ctx.state.chatDraft=input.value;await env.ctx.sendChat(form,()=>true);assert.equal(calls.length,1);resolve({pending_request:{id:'pending',status:'running'},request_id:'pending'});await sending;assert.equal(env.ctx.state.chatDraft,'Mon prochain message');assert.equal(env.ctx.state.chatSending,true);assert.equal(button.disabled,true);
+});
+
+
+test('proposal importance is numeric from null and clearing restores null',async()=>{
+  const env=environment();env.ctx.state.chatProposalDrafts=new Map();vm.runInContext(functionCode('drawChatProposal'),env.ctx);const host=env.host('proposals');env.ctx.drawChatProposal(host,{id:'importance',kind:'life_event_create',revision:1,payload:{current_importance:null}},()=>true);const input=field(host.children[0],'current_importance','4');await input.fire('input');assert.equal(env.ctx.state.chatProposalDrafts.get('importance').current_importance,4);input.value='';await input.fire('input');assert.equal(env.ctx.state.chatProposalDrafts.get('importance').current_importance,null);
+});

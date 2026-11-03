@@ -1,3 +1,4 @@
+import { isEntitled } from './entitlements.mjs';
 // Canonical private sources. Fictional story text is deliberately excluded.
 const parse=(v,f={})=>{try{return JSON.parse(v);}catch{return f;}};
 const hash=async value=>Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(value))),b=>b.toString(16).padStart(2,'0')).join('');
@@ -7,7 +8,7 @@ export async function loadContext(env,userId,decorateLikes=x=>x) {
  // one SQLite cell. Retry if any source changed during the snapshot reads.
  let row,likes,feedback,people,events,exposures;
  for(let attempt=0;attempt<4;attempt++){
-  row=await env.DB.prepare(`SELECT p.version AS source_version,p.self_data,p.self_revision,m.text AS memory_text,m.version AS memory_version,up.portrait,up.analyzed_version,up.schema_version,up.updated_at,s.status AS subscription_status,s.paid_until FROM profiles p JOIN memories m ON m.user_id=p.user_id JOIN subscriptions s ON s.user_id=p.user_id LEFT JOIN user_portraits up ON up.user_id=p.user_id WHERE p.user_id=?`).bind(userId).first();
+  row=await env.DB.prepare(`SELECT p.version AS source_version,p.self_data,p.self_revision,m.text AS memory_text,m.version AS memory_version,up.portrait,up.analyzed_version,up.schema_version,up.updated_at,s.status AS subscription_status,s.paid_until,s.trial_end FROM profiles p JOIN memories m ON m.user_id=p.user_id JOIN subscriptions s ON s.user_id=p.user_id LEFT JOIN user_portraits up ON up.user_id=p.user_id WHERE p.user_id=?`).bind(userId).first();
   if(!row)return null;
   const queries=[
    'SELECT article_id,reason,differences,revision,created_at,updated_at FROM article_likes WHERE user_id=? ORDER BY created_at,article_id',
@@ -22,7 +23,7 @@ export async function loadContext(env,userId,decorateLikes=x=>x) {
   if(after.version===row.source_version)break;
   if(attempt===3){const error=new Error('Le contexte change trop rapidement. Réessayez.');error.status=409;error.code='context_changed';throw error;}
  }
- const context={source_version:row.source_version,portrait_version:row.schema_version===2?(row.analyzed_version||0):0,updated_at:row.updated_at||null,paid:row.subscription_status==='active'&&Number(row.paid_until)>Date.now()/1000,likes:decorateLikes(likes),feedback,people,exposures,events:events.map(e=>({...e,people_ids:parse(e.people_ids,[])})),memory:{text:row.memory_text,version:row.memory_version},portrait:row.schema_version===2&&row.analyzed_version===row.source_version?parse(row.portrait,null):null};
+ const context={source_version:row.source_version,portrait_version:row.schema_version===2?(row.analyzed_version||0):0,updated_at:row.updated_at||null,paid:isEntitled({status:row.subscription_status,paid_until:row.paid_until,trial_end:row.trial_end}),likes:decorateLikes(likes),feedback,people,exposures,events:events.map(e=>({...e,people_ids:parse(e.people_ids,[])})),memory:{text:row.memory_text,version:row.memory_version},portrait:row.schema_version===2&&row.analyzed_version===row.source_version?parse(row.portrait,null):null};
  const self=parse(row.self_data),narrativeKeys=['self_description','self_perception','recurring_patterns','emotions','current_context'];
  context.has_self_description=narrativeKeys.some(k=>typeof self[k]==='string'&&self[k].trim());
  const today=new Date().toISOString().slice(0,10),birth=self.birth_date;

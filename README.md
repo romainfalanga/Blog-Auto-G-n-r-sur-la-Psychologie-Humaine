@@ -1,6 +1,6 @@
 # Décode ton esprit
 
-Site : https://decodetonesprit.fr. Pages personnelles : `/mon-portrait/`, `/mes-proches/`, `/ma-ligne-de-vie/`, `/mon-personnage/` et `/mon-compte/`. Les anciens liens `/mes-histoires/` et `/mes-personnages/` restent valides.
+Site : https://decodetonesprit.fr. Pages personnelles : `/mon-accompagnement/`, `/mon-portrait/`, `/mes-proches/`, `/ma-ligne-de-vie/`, `/mon-personnage/` et `/mon-compte/`. Les anciens liens `/mes-histoires/` et `/mes-personnages/` restent valides.
 
 L'accueil conserve les 231 articles et 20 personnages publics. Une barre de recherche combine mots-clés, formulations proches et suggestions ; les cartes restent stables à la fermeture des suggestions.
 
@@ -10,9 +10,11 @@ Dans **Mon portrait**, chacun se présente avec ses propres mots : perception de
 
 Le portrait distingue déclarations, hypothèses et intérêts de lecture. Ses éléments sont rattachés aux sources originales et à leur révision. Une correction ou suppression invalide les anciennes déductions ; la fiction ne devient jamais une biographie réelle. Les recommandations exploitent séparément résonance, différences, préférences de lecture et sujets à éviter.
 
-**Mon personnage** propose une seule identité fictive stable et une histoire suivie. Son démarrage nécessite un abonnement actif, dix articles aimés, au moins un texte de présentation personnelle et un portrait analysé à jour. Sept histoires sont disponibles par semaine civile, du lundi à minuit au lundi suivant en Europe/Paris, sans report. La demande réserve un crédit ; seule la publication le consomme. Les personnages secondaires de l’ancienne version restent en archives, avec leurs histoires et retours ; ils ne génèrent plus de nouveaux épisodes.
+**Mon personnage** propose une seule identité fictive stable et une histoire suivie. Son démarrage nécessite un abonnement actif ou un essai valide, dix articles aimés, au moins un texte de présentation personnelle et un portrait analysé à jour. Sept histoires sont disponibles par semaine civile, du lundi à minuit au lundi suivant en Europe/Paris, sans report. La demande réserve un crédit ; seule la publication le consomme. Les personnages secondaires de l’ancienne version restent en archives, avec leurs histoires et retours ; ils ne génèrent plus de nouveaux épisodes.
 
-Le tarif prévu reste 10 EUR/mois et le seuil de nouvelle souscription reste dix articles aimés. Le paiement dépend de la configuration Stripe ; ne pas confondre une interface publiée avec un encaissement activé.
+Le tarif est de 29 EUR/mois après sept jours gratuits, avec moyen de paiement requis et annulation possible avant la fin de l’essai. Le chat est accessible dès l’essai, sans attendre dix articles aimés. Le paiement dépend de la configuration Stripe ; ne pas confondre une interface publiée avec un encaissement activé.
+
+**Mon accompagnement** propose une conversation IA, avec 100 messages utilisateur ayant reçu une réponse par semaine. Les propositions de modification du portrait, des proches et de la ligne de vie sont sourcées, modifiables et appliquées uniquement après acceptation. L’historique reste distinct du profil ; sa suppression ne réinitialise pas les quotas. Les histoires demandées dans le chat utilisent le même pool de sept, avec un angle de lecture approuvé.
 
 ## Architecture
 
@@ -23,6 +25,7 @@ La clé `OPENROUTER_API_KEY` reste un secret Cloudflare. Les Actions s'authentif
 ## Validation
 
 ```sh
+node scripts/build_navigation.mjs --check
 hugo --minify
 node --test tests/*.test.cjs
 npm --prefix journal test
@@ -30,4 +33,4 @@ python -m unittest discover -s journal/tests -p 'test_personal*.py'
 node journal/tests/evaluate-recommendations.mjs
 ```
 
-Voir [le guide backend](journal/README.md), [les contrats V2](docs/contrats-implementation-v2.md), [les résultats algorithmiques et leurs limites](docs/implementation-algorithmique-v2.md) et [la recette de mise en ligne](docs/suivi-implementation-v2.md).
+Voir [le plan et les décisions V4](docs/plan-accompagnement-v4.md), [le guide backend](journal/README.md), [les contrats V2](docs/contrats-implementation-v2.md), [les résultats algorithmiques et leurs limites](docs/implementation-algorithmique-v2.md) et [la recette de mise en ligne](docs/suivi-implementation-v2.md).

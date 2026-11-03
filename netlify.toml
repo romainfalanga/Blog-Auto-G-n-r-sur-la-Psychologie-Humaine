@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "python3 scripts/build_article_intros.py && hugo --minify"
+  command = "node scripts/build_navigation.mjs --check && python3 scripts/build_article_intros.py && hugo --minify"
 
 [build.environment]
   HUGO_VERSION = "0.140.0"
@@ -24,6 +24,18 @@
   from = "/personnages/page/*"
   to = "/#personnages"
   status = 301
+  force = true
+
+[[redirects]]
+  from = "/mon-accompagnement"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mon-accompagnement/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/mon-accompagnement/*"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mon-accompagnement/:splat"
+  status = 200
   force = true
 
 # Routes personnelles : proxifier les deux formes sans redirection de slash.
@@ -272,3 +284,13 @@
   for = "/llms.txt"
   [headers.values]
     Content-Type = "text/plain; charset=utf-8"
+
+[[headers]]
+  for = "/mon-accompagnement"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+[[headers]]
+  for = "/mon-accompagnement/*"
+  [headers.values]
+    Cache-Control = "private, no-store"

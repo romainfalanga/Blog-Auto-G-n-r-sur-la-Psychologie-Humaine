@@ -4,7 +4,7 @@ Pages publiques de l'interface : `/mes-personnages/`, `/mon-portrait/`, `/mon-co
 
 ## Base et migration
 
-Appliquer les migrations `0001` à `0006` dans l'ordre. Sur une base existante, créer d'abord un point de restauration D1 et suspendre les générations. La migration `0005_personal_context_characters.sql` conserve IDs, corps, retours et ordre des histoires ; elle les rattache au premier personnage et inscrit leurs crédits dans leur semaine d'origine. Les portraits V1 sont invalidés pour être reconstruits à partir des sources originales. `0006_recommendation_exposures.sql` stocke uniquement des IDs d'articles publics récemment proposés.
+Appliquer les migrations `0001` à `0010` dans l'ordre. Sur une base existante, créer d'abord un point de restauration D1 et suspendre les générations. La migration `0005_personal_context_characters.sql` conserve IDs, corps, retours et ordre des histoires ; elle les rattache au premier personnage et inscrit leurs crédits dans leur semaine d'origine. Les portraits V1 sont invalidés pour être reconstruits à partir des sources originales. `0006_recommendation_exposures.sql` stocke uniquement des IDs d'articles publics récemment proposés.
 
 Ne pas rejouer aveuglément une migration appliquée. Le déploiement de `worker.mjs` exige tous les modules importés de `src/`, notamment `personal-backend.mjs`, `private-context.mjs`, `recommendations.mjs`, sa baseline et le catalogue. `GENERATION_PAUSED=true` suspend claims, appels IA, préparations, continuations et publications ; lecture et édition personnelle restent disponibles.
 
@@ -24,7 +24,7 @@ L'identité et le canon fictif sont stables ; les facettes personnelles sont neu
 
 La préparation des trois fiches ne consomme pas de crédit. Chaque demande continue le dernier épisode du personnage choisi, avec une seule demande active par compte. Sept crédits par semaine civile Europe/Paris, sans report, sont réservés atomiquement. Rejouer la même demande, reprendre après correction ou republier une completion déjà reçue ne débite pas un second crédit. Un échec définitif, une annulation ou une expiration libère la réservation.
 
-Le seuil de nouvelle souscription reste dix likes et le tarif prévu 10 EUR/mois. Un abonné existant peut générer avec zéro like s'il fournit une source personnelle exploitable. Les bindings Stripe sont requis pour encaisser ; aucun achat n'est nécessaire à la recette technique.
+Le tarif est de 29 EUR/mois après sept jours d’essai, carte requise. Le chat (100 réponses réussies par semaine) est accessible pendant l’essai sans dix likes ; les histoires exigent dix likes, une présentation et un portrait analysé à jour. Les bindings Stripe sont requis pour encaisser ; aucun achat n'est nécessaire à la recette technique.
 
 ## Génération
 
@@ -42,3 +42,13 @@ node tests/evaluate-recommendations.mjs
 ```
 
 La recette et les versions réellement publiées figurent dans [le suivi V2](../docs/suivi-implementation-v2.md). Les preuves historiques V1 sont archivées dans les documents précédents ; elles ne remplacent pas une vérification du pipeline V2.
+
+## Accompagnement V4
+
+`0007` ajoute le portrait déclaré et le personnage unique ; `0008` les métadonnées d’essai Stripe ; `0009` conversations, consentement et propositions ; `0010` l’angle approuvé d’une histoire. Les migrations sont additives.
+
+`OPENROUTER_CHAT_MODEL` configure séparément le modèle de conversation (défaut `anthropic/claude-sonnet-5.5`). La clé reste `OPENROUTER_API_KEY`. Les messages utilisent un retour 202 et `waitUntil`, puis un polling authentifié ; le délai fournisseur est borné à 25 secondes. Les réponses échouées ne consomment pas un message, mais restent dans les compteurs de tentatives et de budget fournisseur.
+
+Routes : `GET/DELETE /api/chat`, `PUT /api/chat/consent`, `POST /api/chat/messages`, `GET /api/chat/requests/:id`, `POST /api/chat/proposals/:id/accept|reject`. Les corrections des pages personnelles utilisent leurs versions et droits existants. `POST /api/billing/cancel` programme la fin de l’abonnement ou de l’essai sans dépendre du fournisseur IA.
+
+Configurer Stripe avec un prix mensuel EUR 2900 centimes, un webhook signé et les trois bindings serveur requis. Le succès des tests simulés ne remplace pas une recette Stripe en mode test puis le contrôle de production. Ne pas déclencher un paiement pour une simple vérification technique.

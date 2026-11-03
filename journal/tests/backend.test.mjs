@@ -11,11 +11,11 @@ globalThis.__backendRecommendationFactory=items=>{
  const engine=createRecommender(items);
  return {recommend(context,options){recommendationContexts.push(structuredClone(context));return engine.recommend(context,options);},provisionalPortrait(context){recommendationContexts.push(structuredClone(context));return engine.provisionalPortrait(context);}};
 };
-const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>Mes histoires</title><main>App shell</main>';").replace("import { EXAMPLES } from './examples.mjs';",'const EXAMPLES='+JSON.stringify(examples)+';').replace("import { createRecommender } from './recommendations.mjs';",'const createRecommender=globalThis.__backendRecommendationFactory;').replace("'./personal-backend.mjs'",JSON.stringify(new URL('../src/personal-backend.mjs',import.meta.url).href));
+const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("import { HTML } from './ui.mjs';","const HTML='<title>Mes histoires</title><main>App shell</main>';").replace("import { EXAMPLES } from './examples.mjs';",'const EXAMPLES='+JSON.stringify(examples)+';').replace("import { createRecommender } from './recommendations.mjs';",'const createRecommender=globalThis.__backendRecommendationFactory;').replace("'./chat-backend.mjs'",JSON.stringify(new URL('../src/chat-backend.mjs',import.meta.url).href)).replace("'./entitlements.mjs'",JSON.stringify(new URL('../src/entitlements.mjs',import.meta.url).href)).replace("'./personal-backend.mjs'",JSON.stringify(new URL('../src/personal-backend.mjs',import.meta.url).href));
 const {default:worker,passwordHash,constantEqual,verifyStripeSignature,validateClaims,activeSubscription,claimJobs,completeJob,proxyJobLLM,failJob,runGenerationBatch}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));
 function database({legacy=false,v2=false}={}) {
  const db=new DatabaseSync(':memory:');
- for(const migration of ['0001.sql','0002_inspirations.sql',...(!legacy?['0003_likes_portraits.sql','0004_recommendations_free_portraits.sql','0005_personal_context_characters.sql','0006_recommendation_exposures.sql',...(!v2?['0007_self_profile_single_character.sql']:[])]:[])]) db.exec(readFileSync(new URL('../migrations/'+migration,import.meta.url),'utf8'));
+ for(const migration of ['0001.sql','0002_inspirations.sql',...(!legacy?['0003_likes_portraits.sql','0004_recommendations_free_portraits.sql','0005_personal_context_characters.sql','0006_recommendation_exposures.sql',...(!v2?['0007_self_profile_single_character.sql']:[]),'0008_billing_trial.sql','0009_private_companion.sql','0010_requested_focus.sql']:[])]) db.exec(readFileSync(new URL('../migrations/'+migration,import.meta.url),'utf8'));
  for(const example of examples) db.prepare('INSERT INTO public_examples(id,body) VALUES(?,?)').run(example.id,'Canonical body: '+example.title);
  function prepare(sql){let params=[];return {bind(...v){params=v;return this;},async first(){return db.prepare(sql).get(...params)||null;},async all(){return {results:db.prepare(sql).all(...params)};},async run(){const r=db.prepare(sql).run(...params);return {meta:{changes:r.changes}};}};}
  let queue=Promise.resolve();return {raw:db,prepare,batch(statements){const task=queue.then(async()=>{db.exec('BEGIN');try{const r=[];for(const s of statements)r.push(await s.run());db.exec('COMMIT');return r;}catch(e){db.exec('ROLLBACK');throw e;}});queue=task.catch(()=>{});return task;}};
@@ -58,14 +58,14 @@ test('Cloudflare scheduler is inert and GitHub claims skip absent provider',asyn
 
 
 test('Checkout reuses durable attempts, rotates expired sessions, reconciles subscriptions and deletes Stripe customer first',async()=>{
- const env={DB:database(),STRIPE_SECRET_KEY:'test',STRIPE_WEBHOOK_SECRET:'webhook-test',STRIPE_PRICE_ID:'price_10',OPENROUTER_API_KEY:'test-only'};
+ const env={DB:database(),STRIPE_SECRET_KEY:'test',STRIPE_WEBHOOK_SECRET:'webhook-test',STRIPE_PRICE_ID:'price_29',OPENROUTER_API_KEY:'test-only'};
  const a=await register(env,'billing@example.com');await prepareUser(env,a);const originalFetch=globalThis.fetch;
  const sessions=new Map(),idempotency=new Map();let serial=0,live=null,deleteFail=false,customerDeleted=false;
  const keys=[];
  globalThis.fetch=async(url,options={})=>{
    const u=new URL(url),p=u.pathname,method=options.method||'GET';
    const result=x=>new Response(JSON.stringify(x),{status:200});
-   if(p==='/v1/prices/price_10')return result({active:true,currency:'eur',unit_amount:1000,recurring:{interval:'month',interval_count:1}});
+   if(p==='/v1/prices/price_29')return result({active:true,currency:'eur',unit_amount:2900,recurring:{interval:'month',interval_count:1}});
    if(p==='/v1/customers'&&method==='POST')return result({id:'cus_a'});
    if(p==='/v1/customers/cus_a'&&method==='GET')return result({id:'cus_a',deleted:customerDeleted});
    if(p==='/v1/customers/cus_a'&&method==='DELETE'){if(deleteFail)return new Response('{}',{status:503});customerDeleted=true;return result({id:'cus_a',deleted:true});}
@@ -73,9 +73,9 @@ test('Checkout reuses durable attempts, rotates expired sessions, reconciles sub
    if(p==='/v1/subscriptions/sub_a')return result(live);
    if(p==='/v1/checkout/sessions'&&method==='GET')return result({data:[...sessions.values()].filter(s=>s.status==='open')});
    if(p==='/v1/checkout/sessions'&&method==='POST'){
-     const fields=new URLSearchParams(options.body);assert.equal(fields.get('success_url'),origin+'/mon-compte/?payment=success');assert.equal(fields.get('cancel_url'),origin+'/mon-compte/?payment=cancelled');
+     const fields=new URLSearchParams(options.body);assert.equal(fields.get('payment_method_collection'),'always');assert.equal(fields.get('subscription_data[trial_period_days]'),'7');assert.equal(fields.get('subscription_data[trial_settings][end_behavior][missing_payment_method]'),'cancel');assert.equal(fields.get('success_url'),origin+'/mon-compte/?payment=success');assert.equal(fields.get('cancel_url'),origin+'/mon-compte/?payment=cancelled');
      const k=options.headers['Idempotency-Key'];keys.push(k);if(idempotency.has(k))return result(idempotency.get(k));
-     const s={id:'cs_'+(++serial),status:'open',mode:'subscription',url:'https://checkout.stripe.com/'+serial};sessions.set(s.id,s);idempotency.set(k,s);return result(s);
+     const s={id:'cs_'+(++serial),status:'open',mode:'subscription',metadata:{offer:'v4-29-trial7'},url:'https://checkout.stripe.com/'+serial};sessions.set(s.id,s);idempotency.set(k,s);return result(s);
    }
    if(p.startsWith('/v1/checkout/sessions/'))return result(sessions.get(p.split('/').at(-1)));
    throw new Error('Unexpected Stripe route '+method+' '+p);
@@ -88,7 +88,7 @@ test('Checkout reuses durable attempts, rotates expired sessions, reconciles sub
    assert.equal((await request(env,'/api/me',{cookie:a.cookie})).status,200);
    const me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal(me.subscription.manageable,true);
    sessions.get('cs_1').status='expired';let r=await call();assert.equal(r.status,200);assert.equal(serial,2);assert.equal(new Set(keys).size,2);
-   live={id:'sub_a',customer:'cus_a',status:'active',current_period_end:Math.floor(Date.now()/1000)+86400,items:{data:[{quantity:1,price:{id:'price_10'}}]}};
+   live={id:'sub_a',customer:'cus_a',status:'active',current_period_end:Math.floor(Date.now()/1000)+86400,items:{data:[{quantity:1,price:{id:'price_29'}}]}};
    sessions.get('cs_2').status='complete';sessions.get('cs_2').subscription='sub_a';r=await call();assert.equal(r.status,409);assert.equal(serial,2);
    deleteFail=true;r=await request(env,'/api/account',{method:'DELETE',cookie:a.cookie,data:{password:'long secure password 123'}});assert.equal(r.status,502);assert.ok(env.DB.raw.prepare('SELECT id FROM users WHERE id=?').get(a.user.id));
    deleteFail=false;r=await request(env,'/api/account',{method:'DELETE',cookie:a.cookie,data:{password:'long secure password 123'}});assert.equal(r.status,200);assert.equal(customerDeleted,true);assert.equal(env.DB.raw.prepare('SELECT id FROM users WHERE id=?').get(a.user.id),undefined);
@@ -97,10 +97,10 @@ test('Checkout reuses durable attempts, rotates expired sessions, reconciles sub
 
 
 
-test('Checkout requires ten likes and AI, with no consent, name or explanation gate',async()=>{
- const env={DB:database(),STRIPE_SECRET_KEY:'test',STRIPE_WEBHOOK_SECRET:'test',STRIPE_PRICE_ID:'price_10'};const a=await register(env,'readiness@example.com');let calls=0;const originalFetch=globalThis.fetch;
+test('Checkout needs configured AI and billing but no likes or profile gate',async()=>{
+ const env={DB:database(),STRIPE_SECRET_KEY:'test',STRIPE_WEBHOOK_SECRET:'test',STRIPE_PRICE_ID:'price_29'};const a=await register(env,'readiness@example.com');let calls=0;const originalFetch=globalThis.fetch;
  globalThis.fetch=async()=>{calls++;return new Response('{}',{status:503});};
- try {const checkout=()=>request(env,'/api/billing/checkout',{method:'POST',cookie:a.cookie,data:{}});assert.equal((await checkout()).status,503);env.OPENROUTER_API_KEY='test';assert.equal((await checkout()).status,400);await prepareUser(env,a,9);assert.equal((await checkout()).status,400);assert.equal(calls,0);await like(env,a,9);env.DB.raw.prepare('UPDATE profiles SET consent_ai=0 WHERE user_id=?').run(a.user.id);assert.equal((await checkout()).status,502);assert.equal(calls,1);const me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal(me.readiness.ready,true);assert.equal(me.readiness.explained_count,0);assert.equal(me.profile.display_name,undefined);} finally {globalThis.fetch=originalFetch;}
+ try {const checkout=()=>request(env,'/api/billing/checkout',{method:'POST',cookie:a.cookie,data:{}});assert.equal((await checkout()).status,503);assert.equal(calls,0);env.OPENROUTER_API_KEY='test';assert.equal((await checkout()).status,502);assert.equal(calls,1);} finally {globalThis.fetch=originalFetch;}
 });
 
 
@@ -347,4 +347,70 @@ test('V3 source edits never resurrect multiple terminal historical character job
  db.prepare("INSERT INTO journal_jobs(id,user_id,kind,source_version,memory_version,status) VALUES('new-live',?,'characters',2,1,'pending')").run(a.user.id);
  const second=await request(env,'/api/self-profile',{method:'PUT',cookie:a.cookie,data:{expected_revision:2,self_description:'Une description actualisée.'}});assert.equal(second.status,200);
  assert.equal(db.prepare("SELECT count(*) n FROM journal_jobs WHERE kind='characters' AND status='pending'").get().n,1);assert.equal(db.prepare("SELECT count(*) n FROM journal_jobs WHERE status='obsolete'").get().n,2);
+});
+
+test('trial entitlement uses trial end exclusively and preserves full story lifecycle',async()=>{
+ const t=Math.floor(Date.now()/1000);
+ assert.equal(activeSubscription({status:'trialing',trial_end:t+100,paid_until:0}),true);
+ assert.equal(activeSubscription({status:'trialing',trial_end:t,paid_until:t+999}),false);
+ for(const status of ['none','canceled','past_due','unpaid','paused','incomplete'])assert.equal(activeSubscription({status,trial_end:t+999,paid_until:t+999}),false);
+ const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env),chars=await setupV2(env,a);
+ env.DB.raw.prepare("UPDATE subscriptions SET status='trialing',trial_end=?,paid_until=0,trial_used_at=? WHERE user_id=?").run(t+604800,t,a.user.id);
+ const me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal(me.subscription.active,true);assert.equal(me.subscription.trial_eligible,false);assert.equal(me.subscription.access_until,t+604800);
+ let r=await continueStory(env,a,chars[0]);assert.equal(r.status,202);const id=(await r.json()).request.id,j=await claim(env);assert.equal(j.kind,'story');await complete(env,j,storyV2());
+ assert.equal(env.DB.raw.prepare('SELECT credit_status FROM story_requests WHERE id=?').get(id).credit_status,'consumed');
+ const latest=env.DB.raw.prepare('SELECT last_story_id FROM personal_characters WHERE id=?').get(chars[0].id);r=await continueStory(env,a,{...chars[0],last_story_id:latest.last_story_id});assert.equal(r.status,202);const pending=(await r.json()).request.id;
+ env.DB.raw.prepare('UPDATE subscriptions SET trial_end=0 WHERE user_id=?').run(a.user.id);
+ r=await request(env,'/api/story-requests/'+pending,{cookie:a.cookie});assert.equal((await r.json()).request.credit_status,'released');
+ assert.equal(env.DB.raw.prepare("SELECT count(*) AS n FROM story_requests WHERE user_id=? AND credit_status='consumed'").get(a.user.id).n,1);
+});
+
+test('trial cancellation works without AI and historical trials never receive a second offer',async()=>{
+ const env={DB:database(),STRIPE_SECRET_KEY:'test',STRIPE_PRICE_ID:'price_29',STRIPE_WEBHOOK_SECRET:'test'},a=await register(env,'trial@example.com'),t=Math.floor(Date.now()/1000),originalFetch=globalThis.fetch;
+ env.DB.raw.prepare("UPDATE subscriptions SET customer_id='cus_trial',subscription_id='sub_trial',status='trialing',trial_end=? WHERE user_id=?").run(t+604800,a.user.id);
+ let sub={id:'sub_trial',customer:'cus_trial',status:'trialing',trial_start:t,trial_end:t+604800,current_period_end:t+604800,cancel_at_period_end:false,items:{data:[{quantity:1,price:{id:'price_29'}}]}};let created;
+ globalThis.fetch=async(url,options={})=>{const u=new URL(url),p=u.pathname,fields=new URLSearchParams(options.body);const ok=x=>new Response(JSON.stringify(x));
+  if(p==='/v1/subscriptions/sub_trial'){if(options.method==='POST'){assert.equal(fields.get('cancel_at_period_end'),'true');sub.cancel_at_period_end=true;}return ok(sub);}
+  if(p==='/v1/prices/price_29')return ok({active:true,currency:'eur',unit_amount:2900,recurring:{interval:'month',interval_count:1}});
+  if(p==='/v1/subscriptions')return u.searchParams.has('starting_after')?ok({data:[sub],has_more:false}):ok({data:[{id:'sub_other',status:'canceled'}],has_more:true});
+  if(p==='/v1/checkout/sessions'){if(options.method==='POST'){created=fields;return ok({id:'cs_new',url:'https://checkout.stripe.com/new'});}return ok({data:[]});}
+  throw new Error('Unexpected route '+p);
+ };
+ try {
+  let r=await request(env,'/api/billing/cancel',{method:'POST',cookie:a.cookie,data:{}});assert.equal(r.status,200);assert.deepEqual(await r.json(),{ok:true,cancel_at_period_end:true,access_until:t+604800});
+  let me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal(me.subscription.active,true);assert.equal(me.subscription.cancel_at_period_end,true);
+  sub={...sub,status:'canceled'};env.OPENROUTER_API_KEY='test';env.DB.raw.prepare("UPDATE subscriptions SET status='canceled',trial_used_at=0 WHERE user_id=?").run(a.user.id);
+  r=await request(env,'/api/billing/checkout',{method:'POST',cookie:a.cookie,data:{}});assert.equal(r.status,200);assert.equal(created.get('payment_method_collection'),'always');assert.equal(created.has('subscription_data[trial_period_days]'),false);
+  me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal(me.subscription.trial_eligible,false);assert.equal(me.subscription.active,false);
+ } finally {globalThis.fetch=originalFetch;}
+});
+
+test('signed Stripe webhooks reconcile canonical trial, paid, and canceled states despite delayed events',async()=>{
+ const env={DB:database(),STRIPE_SECRET_KEY:'test',STRIPE_PRICE_ID:'price_29',STRIPE_WEBHOOK_SECRET:'webhook-secret'},a=await register(env,'webhooks@example.com'),t=Math.floor(Date.now()/1000),originalFetch=globalThis.fetch;
+ env.DB.raw.prepare("UPDATE subscriptions SET customer_id='cus_hook' WHERE user_id=?").run(a.user.id);
+ let sub={id:'sub_hook',customer:'cus_hook',status:'trialing',trial_start:t,trial_end:t+604800,current_period_end:t+604800,items:{data:[{quantity:1,price:{id:'price_29'}}]}};
+ globalThis.fetch=async()=>new Response(JSON.stringify(sub));
+ const deliver=async(id,created)=>{const raw=JSON.stringify({id,type:'customer.subscription.updated',created,data:{object:{id:'sub_hook'}}});const key=await crypto.subtle.importKey('raw',new TextEncoder().encode(env.STRIPE_WEBHOOK_SECRET),{name:'HMAC',hash:'SHA-256'},false,['sign']);const signature=Buffer.from(await crypto.subtle.sign('HMAC',key,new TextEncoder().encode(t+'.'+raw))).toString('hex');return worker.fetch(new Request(origin+'/api/billing/webhook',{method:'POST',headers:{'stripe-signature':`t=${t},v1=${signature}`},body:raw}),env);};
+ try {
+  assert.equal((await deliver('evt_trial',t)).status,200);let s=env.DB.raw.prepare('SELECT * FROM subscriptions').get();assert.equal(activeSubscription(s),true);assert.equal(s.trial_used_at,t);
+  sub={...sub,status:'active',current_period_end:t+2592000};assert.equal((await deliver('evt_delayed',t-100)).status,200);s=env.DB.raw.prepare('SELECT * FROM subscriptions').get();assert.equal(s.status,'active');assert.equal(activeSubscription(s),true);
+  sub={...sub,status:'canceled'};assert.equal((await deliver('evt_cancel',t-200)).status,200);s=env.DB.raw.prepare('SELECT * FROM subscriptions').get();assert.equal(activeSubscription(s),false);assert.equal(s.trial_used_at,t);
+  assert.equal((await deliver('evt_cancel',t-200)).status,200);assert.equal(env.DB.raw.prepare('SELECT count(*) n FROM webhook_events').get().n,3);
+ }finally{globalThis.fetch=originalFetch;}
+});
+
+test('checkout rejects old ten-euro price before customer or session creation',async()=>{
+ const env={DB:database(),STRIPE_SECRET_KEY:'test',STRIPE_PRICE_ID:'price_old',STRIPE_WEBHOOK_SECRET:'test',OPENROUTER_API_KEY:'test'},a=await register(env,'price@example.com'),originalFetch=globalThis.fetch;let calls=0;
+ globalThis.fetch=async()=>{calls++;return new Response(JSON.stringify({active:true,currency:'eur',unit_amount:1000,recurring:{interval:'month',interval_count:1}}));};
+ try{assert.equal((await request(env,'/api/billing/checkout',{method:'POST',cookie:a.cookie,data:{}})).status,503);assert.equal(calls,1);}finally{globalThis.fetch=originalFetch;}
+});
+
+test('approved reading focus reaches story jobs and is part of idempotency',async()=>{
+ const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env),[ch]=await setupV2(env,a);
+ const payload={idempotency_key:'focus-specific-request',expected_parent_id:ch.last_story_id,requested_focus:'Comprendre la peur de décevoir et poser une limite.'};
+ let r=await request(env,'/api/characters/'+ch.id+'/continue',{method:'POST',cookie:a.cookie,data:payload});assert.equal(r.status,202);
+ const original=(await r.json()).request.id;
+ r=await request(env,'/api/characters/'+ch.id+'/continue',{method:'POST',cookie:a.cookie,data:payload});assert.equal((await r.json()).request.id,original);
+ r=await request(env,'/api/characters/'+ch.id+'/continue',{method:'POST',cookie:a.cookie,data:{...payload,requested_focus:'Autre angle'}});assert.equal(r.status,409);
+ const j=await claim(env);assert.equal(j.kind,'story');assert.equal(j.requested_focus,payload.requested_focus);assert.equal((await (await request(env,'/api/characters',{cookie:a.cookie})).json()).quota.reserved,1);
 });

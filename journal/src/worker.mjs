@@ -1,3 +1,5 @@
+import { isEntitled, accessUntil } from './entitlements.mjs';
+import { createChatBackend } from './chat-backend.mjs';
 import { HTML } from './ui.mjs';
 import { EXAMPLES } from './examples.mjs';
 import { createRecommender } from './recommendations.mjs';
@@ -34,7 +36,7 @@ export async function passwordHash(password,salt) {
   const key=await crypto.subtle.importKey('raw',encoder.encode(password),'PBKDF2',false,['deriveBits']);
   return hex(await crypto.subtle.deriveBits({name:'PBKDF2',hash:'SHA-256',salt:encoder.encode(salt),iterations:100000},key,256));
 }
-export function activeSubscription(subscription,at=now()) {return subscription?.status==='active' && Number(subscription.paid_until)>at;}
+export function activeSubscription(subscription,at=now()) {return isEntitled(subscription,at);}
 async function limit(env,key,max,seconds) {
   const k=await digest(key),t=now();
   const row=await first(env,`INSERT INTO rate_limits(key,count,expires_at) VALUES(?,1,?) ON CONFLICT(key) DO UPDATE SET count=CASE WHEN expires_at<=? THEN 1 ELSE count+1 END, expires_at=CASE WHEN expires_at<=? THEN ? ELSE expires_at END RETURNING count`,k,t+seconds,t,t,t+seconds);
@@ -63,7 +65,7 @@ async function stripe(env,path,method='GET',data,idem) {
 }
 async function validPrice(env) {
   const price=await stripe(env,'prices/'+encodeURIComponent(env.STRIPE_PRICE_ID));
-  if(!price.active||price.currency!=='eur'||price.unit_amount!==1000||price.recurring?.interval!=='month'||price.recurring?.interval_count!==1) error(503,'Le tarif mensuel doit être configuré à 10 euros.');
+  if(!price.active||price.currency!=='eur'||price.unit_amount!==2900||price.recurring?.interval!=='month'||price.recurring?.interval_count!==1) error(503,'Le tarif mensuel doit être configuré à 29 euros.');
   return price;
 }
 async function ensureCustomer(env,user) {
@@ -74,12 +76,13 @@ async function ensureCustomer(env,user) {
 }
 async function synchronizeSubscription(env,subscriptionId,eventCreated=0) {
   const sub=await stripe(env,'subscriptions/'+encodeURIComponent(subscriptionId));
+  eventCreated=now(); // Canonical state was fetched now, regardless of event delivery order.
   const customer=typeof sub.customer==='string'?sub.customer:sub.customer?.id;
   const local=await first(env,'SELECT * FROM subscriptions WHERE customer_id=?',customer||'');
   if(!local) return;
   const valid=sub.items?.data?.length===1&&sub.items.data[0].quantity===1&&sub.items.data[0].price?.id===env.STRIPE_PRICE_ID;
   // Re-fetching canonical state makes delayed events harmless. Never use client metadata as entitlement.
-  await run(env,`UPDATE subscriptions SET subscription_id=?,status=?,paid_until=?,updated_at=? WHERE user_id=? AND updated_at<=? AND NOT (subscription_id=? AND status='canceled' AND ?!='canceled')`,sub.id,valid?sub.status:'invalid_price',valid?Number(sub.current_period_end||0):0,eventCreated,local.user_id,eventCreated,sub.id,sub.status);
+  await run(env,`UPDATE subscriptions SET subscription_id=?,status=?,paid_until=?,trial_end=?,trial_used_at=CASE WHEN trial_used_at=0 AND ?>0 THEN ? ELSE trial_used_at END,cancel_at_period_end=?,updated_at=? WHERE user_id=? AND updated_at<=? AND NOT (subscription_id=? AND status='canceled' AND ?!='canceled')`,sub.id,valid?sub.status:'invalid_price',valid?Number(sub.current_period_end||0):0,valid?Number(sub.trial_end||0):0,Number(sub.trial_start||sub.trial_end||0),Number(sub.trial_start||sub.trial_end||0),sub.cancel_at_period_end?1:0,eventCreated,local.user_id,eventCreated,sub.id,sub.status);
 }
 export async function verifyStripeSignature(raw,header,secret,at=now()) {
   if(!secret||!header) return false;
@@ -144,6 +147,7 @@ async function likesResponse(env,userId) {
   return {likes,count:r.likes_count,explained_count:r.explained_count,target:TARGET_LIKES,source_version:snapshot.version};
 }
 const personal=createPersonalBackend({error,json,text,body,now,random,decorateLikes,recommender});
+const chat=createChatBackend({error,json,text,body,now,random,personal});
 const readingContext=(env,userId)=>personal.context(env,userId);
 const portraitFor=(env,userId)=>personal.portrait(env,userId);
 export const claimJobs=env=>personal.claimJobs(env);
@@ -162,12 +166,12 @@ async function internal(request,env,path) {
   if(match[2]==='complete') return completeJob(env,match[1],data);
   return personal.failJob(env,match[1],data);
 }
-async function routes(request,env) {
+async function routes(request,env,ctx) {
   const url=new URL(request.url),path=url.pathname,method=request.method;
   if(method==='GET'&&path==='/') return Response.redirect('https://decodetonesprit.fr/',302);
   if(['GET','HEAD'].includes(method)&&['/mes-articles','/mes-articles/'].includes(path)) return Response.redirect(new URL('/mon-portrait/'+url.search+'#mes-articles',env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
   if(['GET','HEAD'].includes(method)&&['/mes-histoires','/mes-histoires/','/mes-personnages','/mes-personnages/'].includes(path)) return Response.redirect(new URL('/mon-personnage/'+url.search,env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
-  const pageTitles={'/mon-personnage':'Mon personnage','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mon-portrait':'Mon portrait','/mon-compte':'Mon compte'};
+  const pageTitles={'/mon-accompagnement':'Mon accompagnement','/mon-personnage':'Mon personnage','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mon-portrait':'Mon portrait','/mon-compte':'Mon compte'};
   const pagePath=path.replace(/\/$/,'');
   if(['GET','HEAD'].includes(method)&&pageTitles[pagePath]) {
     const page=HTML.replace(/<title>[^<]*<\/title>/,'<title>Décode ton esprit</title>');
@@ -188,7 +192,7 @@ async function routes(request,env) {
     const user=await userFor(request,env,false); if(!user) return json({user:null,configuration:{billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY)}});
     const p=await first(env,'SELECT * FROM profiles WHERE user_id=?',user.id),s=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',user.id),m=await first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id);
     const readiness=readinessFor(await likesFor(env,user.id)),inspirations_count=readiness.likes_count;
-    return json({user,inspirations_count,readiness,consent_ai:Boolean(p.consent_ai),source_version:p.version,profile:{...parse(p.data),consent_ai:Boolean(p.consent_ai)},subscription:{status:s.status,active:activeSubscription(s),paid_until:s.paid_until,manageable:Boolean(s.customer_id)},memory:m,configuration:{billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY)}});
+    return json({user,inspirations_count,readiness,consent_ai:Boolean(p.consent_ai),source_version:p.version,profile:{...parse(p.data),consent_ai:Boolean(p.consent_ai)},subscription:{status:s.status,active:activeSubscription(s),paid_until:s.paid_until,trial_end:s.trial_end,trial_used_at:s.trial_used_at,trial_eligible:!s.trial_used_at,cancel_at_period_end:Boolean(s.cancel_at_period_end),access_until:accessUntil(s),manageable:Boolean(s.customer_id)},memory:m,configuration:{billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY)}});
   }
   if(['/api/auth/register','/api/auth/login'].includes(path)&&method==='POST') {
     const data=await body(request,3000),email=text(data.email,254).toLowerCase(),password=data.password;
@@ -206,6 +210,7 @@ async function routes(request,env) {
     return session(env,user);
   }
   const user=await userFor(request,env);
+  const chatResponse=await chat.routes(request,env,user,path,url,ctx);if(chatResponse)return chatResponse;
   const personalResponse=await personal.routes(request,env,user,path,url);if(personalResponse)return personalResponse;
   if(path==='/api/auth/logout'&&method==='POST') {
     const token=request.headers.get('cookie')?.split(';').map(s=>s.trim()).find(s=>s.startsWith(COOKIE+'='))?.slice(COOKIE.length+1);
@@ -292,7 +297,6 @@ async function routes(request,env) {
   }
   if(path==='/api/billing/checkout'&&method==='POST') {
     if(!billingReady(env)||!env.OPENROUTER_API_KEY) error(503,'Les abonnements ne sont pas encore ouverts.');
-    if((await likesFor(env,user.id)).length<TARGET_LIKES) error(400,'Aimez au moins dix articles avant de vous abonner.');
     await limit(env,'checkout:'+user.id,5,3600); await validPrice(env);
     const current=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',user.id);
     if(current.subscription_id&&['active','trialing','past_due','unpaid','incomplete'].includes(current.status)) error(409,'Un abonnement existe déjà. Gérez-le depuis votre espace abonnement.');
@@ -300,7 +304,8 @@ async function routes(request,env) {
     let state=await first(env,'SELECT checkout_attempt,checkout_session_id FROM subscriptions WHERE user_id=?',user.id);
     if(state.checkout_session_id) {
       const previous=await stripe(env,'checkout/sessions/'+encodeURIComponent(state.checkout_session_id));
-      if(previous.status==='open'&&previous.url) return json({url:previous.url});
+      if(previous.status==='open'&&previous.url&&previous.metadata?.offer==='v4-29-trial7') return json({url:previous.url});
+      if(previous.status==='open') await stripe(env,'checkout/sessions/'+encodeURIComponent(previous.id)+'/expire','POST',{});
       if(previous.status==='complete') {
         if(previous.subscription) await synchronizeSubscription(env,typeof previous.subscription==='string'?previous.subscription:previous.subscription.id,now());
         const refreshed=await first(env,'SELECT status FROM subscriptions WHERE user_id=?',user.id);
@@ -312,15 +317,28 @@ async function routes(request,env) {
     await run(env,'UPDATE subscriptions SET checkout_attempt=COALESCE(checkout_attempt,?) WHERE user_id=?',random(),user.id);
     state=await first(env,'SELECT checkout_attempt,checkout_session_id FROM subscriptions WHERE user_id=?',user.id);
     // Reconcile remote subscriptions even if a webhook or the previous local write was lost.
-    const existing=await stripe(env,'subscriptions?customer='+encodeURIComponent(customer)+'&status=all&limit=100');
+    const existing={data:[]};let after='';
+    do {const page=await stripe(env,'subscriptions?customer='+encodeURIComponent(customer)+'&status=all&limit=100'+(after?'&starting_after='+encodeURIComponent(after):''));existing.data.push(...(page.data||[]));after=page.has_more?page.data?.at(-1)?.id:'';if(page.has_more&&!after)error(502,'Historique de paiement indisponible.');} while(after);
+    const priorTrial=existing.data.find(s=>s.trial_start||s.trial_end);
+    if(priorTrial) await run(env,'UPDATE subscriptions SET trial_used_at=CASE WHEN trial_used_at=0 THEN ? ELSE trial_used_at END WHERE user_id=?',Number(priorTrial.trial_start||priorTrial.trial_end),user.id);
+    const trialEligible=!(await first(env,'SELECT trial_used_at FROM subscriptions WHERE user_id=?',user.id)).trial_used_at;
     const live=existing.data?.find(s=>!['canceled','incomplete_expired'].includes(s.status));
     if(live) {await synchronizeSubscription(env,live.id,now()); error(409,'Un abonnement existe déjà. Gérez-le depuis votre espace abonnement.');}
     const sessions=await stripe(env,'checkout/sessions?customer='+encodeURIComponent(customer)+'&status=open&limit=100');
-    const open=sessions.data?.find(s=>s.mode==='subscription'&&s.url);
+    const open=sessions.data?.find(s=>s.mode==='subscription'&&s.url&&s.metadata?.offer==='v4-29-trial7');
     if(open) {await run(env,'UPDATE subscriptions SET checkout_session_id=? WHERE user_id=? AND checkout_attempt=?',open.id,user.id,state.checkout_attempt);return json({url:open.url});}
-    const result=await stripe(env,'checkout/sessions','POST',{'mode':'subscription','customer':customer,'line_items[0][price]':env.STRIPE_PRICE_ID,'line_items[0][quantity]':'1','success_url':origin+'/mon-compte/?payment=success','cancel_url':origin+'/mon-compte/?payment=cancelled','client_reference_id':user.id,'subscription_data[metadata][user_id]':user.id},'dte-checkout-'+user.id+'-'+state.checkout_attempt);
+    const result=await stripe(env,'checkout/sessions','POST',{'mode':'subscription','metadata[offer]':'v4-29-trial7','customer':customer,'line_items[0][price]':env.STRIPE_PRICE_ID,'line_items[0][quantity]':'1','success_url':origin+'/mon-compte/?payment=success','cancel_url':origin+'/mon-compte/?payment=cancelled','client_reference_id':user.id,'subscription_data[metadata][user_id]':user.id,'payment_method_collection':'always',...(trialEligible?{'subscription_data[trial_period_days]':'7','subscription_data[trial_settings][end_behavior][missing_payment_method]':'cancel'}:{})},'dte-checkout-'+user.id+'-'+state.checkout_attempt);
     await run(env,'UPDATE subscriptions SET checkout_session_id=? WHERE user_id=? AND checkout_attempt=?',result.id,user.id,state.checkout_attempt);
     return json({url:result.url});
+  }
+  if(path==='/api/billing/cancel'&&method==='POST') {
+    const sub=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',user.id);
+    if(!sub?.subscription_id) error(400,'Aucun abonnement à résilier.');
+    if(sub.status==='canceled') return json({ok:true,cancel_at_period_end:false,access_until:0});
+    await stripe(env,'subscriptions/'+encodeURIComponent(sub.subscription_id),'POST',{'cancel_at_period_end':'true'},'dte-cancel-'+sub.subscription_id);
+    await synchronizeSubscription(env,sub.subscription_id,now());
+    const updated=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',user.id);
+    return json({ok:true,cancel_at_period_end:Boolean(updated.cancel_at_period_end),access_until:accessUntil(updated)});
   }
   if(path==='/api/billing/portal'&&method==='POST') {
     const sub=await first(env,'SELECT customer_id FROM subscriptions WHERE user_id=?',user.id); if(!sub?.customer_id) error(400,'Aucun abonnement à gérer.');
@@ -328,7 +346,7 @@ async function routes(request,env) {
   }
   if(path==='/api/export'&&method==='GET') {
     const profile=await first(env,'SELECT data,consent_ai FROM profiles WHERE user_id=?',user.id),memory=await first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id);
-    return json({user,profile:{...parse(profile.data),consent_ai:Boolean(profile.consent_ai)},memory,likes:await likesFor(env,user.id),portrait:await portraitFor(env,user.id),selections:await all(env,'SELECT article_id,reason,differences FROM article_likes WHERE user_id=? ORDER BY article_id',user.id),...await personal.exportData(env,user.id)},200,{'Content-Disposition':'attachment; filename="mon-journal-decode-ton-esprit.json"'});
+    return json({user,profile:{...parse(profile.data),consent_ai:Boolean(profile.consent_ai)},memory,likes:await likesFor(env,user.id),portrait:await portraitFor(env,user.id),selections:await all(env,'SELECT article_id,reason,differences FROM article_likes WHERE user_id=? ORDER BY article_id',user.id),...await personal.exportData(env,user.id),...await chat.exportData(env,user.id)},200,{'Content-Disposition':'attachment; filename="mon-journal-decode-ton-esprit.json"'});
   }
   if(path==='/api/account'&&method==='DELETE') {
     const data=await body(request,1000),record=await first(env,'SELECT * FROM users WHERE id=?',user.id);
@@ -350,9 +368,9 @@ export default {
     if(ctx?.waitUntil) ctx.waitUntil(work);
     return work;
   },
-  async fetch(request,env) {
+  async fetch(request,env,ctx) {
     let response;
-    try {response=await routes(request,env);} catch(e) {response=json({error:e instanceof HTTPError?e.message:'Une erreur temporaire est survenue. Réessayez plus tard.',...(e instanceof HTTPError&&e.code?{code:e.code}:{})},e instanceof HTTPError?e.status:500);}
+    try {response=await routes(request,env,ctx);} catch(e) {response=json({error:e instanceof HTTPError?e.message:'Une erreur temporaire est survenue. Réessayez plus tard.',...(e instanceof HTTPError&&e.code?{code:e.code}:{})},e instanceof HTTPError?e.status:500);}
     const headers=new Headers(response.headers);
     headers.set('Cache-Control','private, no-store'); headers.set('X-Content-Type-Options','nosniff'); headers.set('Referrer-Policy','no-referrer'); headers.set('X-Frame-Options','DENY'); headers.set('Permissions-Policy','camera=(), microphone=(), geolocation=()');
     headers.set('Content-Security-Policy',"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'");
