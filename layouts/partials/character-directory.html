@@ -1,16 +1,10 @@
-<section id="personnages" class="character-directory" aria-labelledby="character-directory-title">
-  <div class="character-directory-intro">
-    <h2 id="character-directory-title">Les personnages</h2>
-    <p>Découvrez leurs façons de penser, de ressentir et de réagir, puis choisissez les histoires qui vous parlent.</p>
-  </div>
+<section id="personnages" class="character-directory" aria-label="Explorer les personnages">
   <div class="character-search-box" role="search" aria-label="Trouver un personnage">
-    <label for="character-search">Rechercher un personnage ou un thème</label>
     <div class="character-search-field">
       <svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>
-      <input type="search" id="character-search" placeholder="Ex. peur de décevoir, pensées en boucle…" autocomplete="off" aria-describedby="character-search-help character-count" aria-controls="character-results">
+      <input type="search" id="character-search" aria-label="Rechercher un personnage, une émotion ou un thème" placeholder="Peur de décevoir, pensées en boucle…" autocomplete="off" aria-describedby="character-count" aria-controls="character-results character-search-suggestions" aria-expanded="false">
       <button type="button" id="character-search-clear" aria-label="Effacer la recherche" hidden>Effacer</button>
     </div>
-    <p id="character-search-help">Une émotion, une situation ou un prénom : combinez vos mots pour préciser votre recherche.</p>
     <div id="character-search-suggestions" class="character-search-suggestions" aria-label="Suggestions de recherche" hidden></div>
   </div>
   {{ $characters := where .Site.RegularPages "Section" "personnages" }}

@@ -1139,10 +1139,8 @@ main {
 /* One search surface for character identity, psychological themes and stories. */
 .hero {padding-bottom:1.4rem}
 .character-directory {padding-top:0}
-.character-directory-intro {margin-bottom:20px}
-.character-search-box {max-width:820px;background:var(--color-card-bg);border:1px solid #CBD9D5;border-radius:12px;padding:18px 20px 14px;transition:border-color .15s}
+.character-search-box {position:relative;max-width:820px;background:var(--color-card-bg);border:1px solid #CBD9D5;border-radius:12px;padding:10px 18px;transition:border-color .15s}
 .character-search-box:focus-within {border-color:var(--color-accent);box-shadow:0 0 0 3px var(--color-accent-light)}
-.character-search-box label {display:block;font-size:.9rem;font-weight:600;margin-bottom:10px}
 .character-search-field {display:flex;align-items:center;gap:12px;min-width:0}
 .character-search-field svg {flex:none;color:var(--color-accent)}
 .character-search-field input {width:100%;min-width:0;border:0;background:transparent;font:inherit;font-size:1.05rem;padding:8px 0;color:var(--color-text);outline:none}
@@ -1150,11 +1148,10 @@ main {
 .character-search-field input::placeholder {color:#747D79;opacity:1}
 .character-search-field button {flex:none;border:0;background:transparent;color:var(--color-accent-hover);font:600 .8rem var(--font-sans);padding:8px 0;cursor:pointer}
 .character-search-field button:focus-visible,.character-search-suggestions button:focus-visible {outline:2px solid var(--color-accent);outline-offset:3px}
-#character-search-help {font-size:.82rem;line-height:1.55;color:var(--color-text-light);margin:8px 0 0}
-.character-search-suggestions {display:flex;flex-wrap:wrap;gap:8px;padding-top:14px;margin-top:12px;border-top:1px solid var(--color-border)}
+.character-search-suggestions {position:absolute;z-index:20;top:calc(100% + 7px);left:0;right:0;display:flex;flex-wrap:wrap;gap:8px;padding:14px;max-height:min(240px,40vh);overflow-y:auto;overscroll-behavior:contain;background:var(--color-card-bg);border:1px solid var(--color-border);border-radius:10px;box-shadow:0 8px 20px rgba(45,45,45,.08)}
 .character-search-suggestions button {border:1px solid var(--color-border);border-radius:6px;background:var(--color-bg);padding:7px 10px;max-width:100%;font:500 .82rem/1.4 var(--font-sans);color:var(--color-text);cursor:pointer;text-align:left}
 .character-search-suggestions button:hover {border-color:var(--color-accent);background:var(--color-accent-light)}
 .character-search-match {color:var(--color-accent-hover);font-size:.8rem;line-height:1.5;margin:0 0 16px}
 .character-search-empty {max-width:650px;padding:20px 0 40px;color:var(--color-text-light)}
 .character-search-suggestions[hidden],.character-search-empty[hidden],.character-search-match[hidden],#character-search-clear[hidden] {display:none!important}
-@media(max-width:600px){.hero{padding-bottom:1rem}.character-search-box{padding:16px}.character-search-field{gap:9px}.character-search-field input{font-size:1rem}.character-search-box label{font-size:.85rem}}
+@media(max-width:600px){.hero{padding-bottom:1rem}.character-search-box{padding:8px 12px}.character-search-field{gap:9px}.character-search-field input{font-size:1rem}.character-search-box label{font-size:.85rem}}

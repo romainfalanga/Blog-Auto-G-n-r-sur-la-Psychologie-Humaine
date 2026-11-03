@@ -1,4 +1,4 @@
-name: Génération quotidienne d’articles (version personnalisée)
+name: Portraits et histoires demandées
 
 on:
   schedule:
@@ -10,6 +10,7 @@ on:
       - '.github/workflows/generate-articles.yml'
       - 'scripts/generate_personal_articles.py'
       - 'scripts/run_journals.py'
+      - 'scripts/personal_concepts.json'
 
 permissions:
   contents: read

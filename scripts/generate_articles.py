@@ -126,7 +126,7 @@ def extract_narrative_summary(content, combo):
         f"Personnage : {combo['prenom']}\n"
         f"Sujet : {combo['sujet']}\n"
         f"Contexte : {combo['contexte']}\n\n"
-        f"Article :\n{content[:5000]}\n\n"
+        f"Article FINAL COMPLET (inclure la résolution finale) :\n{content}\n\n"
         "Extrais ces 3 informations en JSON :\n"
         "{\n"
         '  "resume_narratif": "2-3 phrases résumant ce qui est arrivé au personnage dans cet article (les événements concrets, les personnes impliquées)",\n'

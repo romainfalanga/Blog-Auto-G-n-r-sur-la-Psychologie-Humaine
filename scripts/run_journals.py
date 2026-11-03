@@ -16,7 +16,9 @@ from generate_personal_articles import generate, GenerationFailure
 
 
 class TransportFailure(RuntimeError):
-    pass
+    def __init__(self,message,code='provider_error'):
+        super().__init__(message)
+        self.code=code if code in {'provider_error','context_changed','quota_exceeded','lease_expired','generation_paused'} else 'provider_error'
 
 
 def internal(path, payload):
@@ -42,7 +44,10 @@ def internal(path, payload):
                'Signature invalide.':'signature_invalid','Identité invalide.':'identity_invalid'}
         try:
             raw=exc.read(8192).decode('utf-8','replace')
-            code=known.get(json.loads(raw).get('error'),'request_failed')
+            error=json.loads(raw)
+            stable={'provider_error':'provider_error','context_changed':'context_changed','generation_budget':'quota_exceeded','lease_expired':'lease_expired','generation_paused':'generation_paused'}
+            safe_code=stable.get(error.get('code'),'provider_error')
+            code=known.get(error.get('error'),safe_code)
         except Exception:
             # Only a short HTML title from a failed empty claim can identify
             # an infrastructure refusal; never log bodies, prompts or headers.
@@ -51,7 +56,7 @@ def internal(path, payload):
                 title=re.search(r'<title[^>]*>([^<]{0,100})</title>',raw if 'raw' in locals() else '',re.I)
                 if title:
                     code+='_'+re.sub(r'[^a-zA-Z0-9_-]','_',title.group(1))[:100]
-        raise TransportFailure('worker_http_'+str(exc.code)+'_'+code) from None
+        raise TransportFailure('worker_http_'+str(exc.code)+'_'+code,locals().get('safe_code','provider_error')) from None
 
 
 def proxy(job, payload):
@@ -60,8 +65,8 @@ def proxy(job, payload):
 
 def main():
     completed=failed=0
-    # Last job has at most 20 x 75s provider calls, keeping its 30min lease
-    # and the complete execution below GitHub's 50min timeout.
+    # Stop claiming after 20 minutes. Adapter stops starting calls after 25
+    # minutes; the Worker bounds each call by the remaining 30-minute lease.
     deadline=time.monotonic()+20*60
     for _ in range(20):
         if time.monotonic()>deadline:
@@ -72,7 +77,13 @@ def main():
         job=jobs[0]
         try:
             result=generate(job,proxy)
-            internal('/'+job['id']+'/complete',result)
+            try:
+                internal('/'+job['id']+'/complete',result)
+            except TransportFailure as exc:
+                # A lost completion response may already have committed. Replay
+                # this same payload once; never redraft or consume another credit.
+                if exc.code!='provider_error':raise
+                internal('/'+job['id']+'/complete',result)
             completed+=1
         except Exception as exc:
             failed+=1

@@ -1,0 +1,652 @@
+[
+  {
+    "name": "explicit_source",
+    "sources": [
+      {
+        "id": "memory:user",
+        "type": "memory",
+        "revision": 1,
+        "hash": "0a637e9ee4d7d0c66a59625e94329ed015a29b5f3537cb768d918d04b2af8359",
+        "text": "text: Je souhaite explorer la colère.",
+        "explicit": true,
+        "fields": {
+          "text": "Je souhaite explorer la colère."
+        },
+        "fiction_use": "abstract"
+      }
+    ],
+    "portrait": {
+      "schema_version": 2,
+      "summary": "Un intérêt déclaré pour la colère.",
+      "summary_evidence": [
+        "memory:user"
+      ],
+      "axes": [
+        {
+          "label": "Colère",
+          "why": "Un intérêt de lecture formulé.",
+          "confidence": 0.2,
+          "claim_type": "interest",
+          "evidence": [
+            "memory:user"
+          ]
+        }
+      ],
+      "strengths": [],
+      "uncertainties": [
+        "Un intérêt ne décrit pas toute la personne."
+      ],
+      "citations": [
+        {
+          "source_id": "memory:user",
+          "revision": 1,
+          "quote": "text: Je souhaite explorer la colère."
+        }
+      ],
+      "coverage": {
+        "processed": [
+          "memory:user"
+        ],
+        "pending": []
+      }
+    },
+    "valid": true
+  },
+  {
+    "name": "bare_interest",
+    "sources": [
+      {
+        "id": "like:article",
+        "type": "like",
+        "revision": 1,
+        "hash": "dd14c8b764c018bd71740f1fcff3883f8cd5d51d2ef08714390bd903143a15bd",
+        "text": "title: Article sur la colère",
+        "explicit": false,
+        "fields": {
+          "title": "Article sur la colère"
+        },
+        "fiction_use": "abstract"
+      }
+    ],
+    "portrait": {
+      "schema_version": 2,
+      "summary": "Un intérêt déclaré pour la colère.",
+      "summary_evidence": [
+        "like:article"
+      ],
+      "axes": [
+        {
+          "label": "Colère",
+          "why": "Un intérêt de lecture formulé.",
+          "confidence": 0.2,
+          "claim_type": "interest",
+          "evidence": [
+            "like:article"
+          ]
+        }
+      ],
+      "strengths": [],
+      "uncertainties": [
+        "Un intérêt ne décrit pas toute la personne."
+      ],
+      "citations": [
+        {
+          "source_id": "like:article",
+          "revision": 1,
+          "quote": "title: Article sur la colère"
+        }
+      ],
+      "coverage": {
+        "processed": [
+          "like:article"
+        ],
+        "pending": []
+      }
+    },
+    "valid": true
+  },
+  {
+    "name": "bare_like_confidence",
+    "sources": [
+      {
+        "id": "like:article",
+        "type": "like",
+        "revision": 1,
+        "hash": "dd14c8b764c018bd71740f1fcff3883f8cd5d51d2ef08714390bd903143a15bd",
+        "text": "title: Article sur la colère",
+        "explicit": false,
+        "fields": {
+          "title": "Article sur la colère"
+        },
+        "fiction_use": "abstract"
+      }
+    ],
+    "portrait": {
+      "schema_version": 2,
+      "summary": "Un intérêt déclaré pour la colère.",
+      "summary_evidence": [
+        "like:article"
+      ],
+      "axes": [
+        {
+          "label": "Colère",
+          "why": "Un intérêt de lecture formulé.",
+          "confidence": 0.26,
+          "claim_type": "interest",
+          "evidence": [
+            "like:article"
+          ]
+        }
+      ],
+      "strengths": [],
+      "uncertainties": [
+        "Un intérêt ne décrit pas toute la personne."
+      ],
+      "citations": [
+        {
+          "source_id": "like:article",
+          "revision": 1,
+          "quote": "title: Article sur la colère"
+        }
+      ],
+      "coverage": {
+        "processed": [
+          "like:article"
+        ],
+        "pending": []
+      }
+    },
+    "valid": false
+  },
+  {
+    "name": "bare_like_biography",
+    "sources": [
+      {
+        "id": "like:article",
+        "type": "like",
+        "revision": 1,
+        "hash": "dd14c8b764c018bd71740f1fcff3883f8cd5d51d2ef08714390bd903143a15bd",
+        "text": "title: Article sur la colère",
+        "explicit": false,
+        "fields": {
+          "title": "Article sur la colère"
+        },
+        "fiction_use": "abstract"
+      }
+    ],
+    "portrait": {
+      "schema_version": 2,
+      "summary": "Un intérêt déclaré pour la colère.",
+      "summary_evidence": [
+        "like:article"
+      ],
+      "axes": [
+        {
+          "label": "Colère",
+          "why": "Un intérêt de lecture formulé.",
+          "confidence": 0.2,
+          "claim_type": "declaration",
+          "evidence": [
+            "like:article"
+          ]
+        }
+      ],
+      "strengths": [],
+      "uncertainties": [
+        "Un intérêt ne décrit pas toute la personne."
+      ],
+      "citations": [
+        {
+          "source_id": "like:article",
+          "revision": 1,
+          "quote": "title: Article sur la colère"
+        }
+      ],
+      "coverage": {
+        "processed": [
+          "like:article"
+        ],
+        "pending": []
+      }
+    },
+    "valid": false
+  },
+  {
+    "name": "bare_like_strength",
+    "sources": [
+      {
+        "id": "like:article",
+        "type": "like",
+        "revision": 1,
+        "hash": "dd14c8b764c018bd71740f1fcff3883f8cd5d51d2ef08714390bd903143a15bd",
+        "text": "title: Article sur la colère",
+        "explicit": false,
+        "fields": {
+          "title": "Article sur la colère"
+        },
+        "fiction_use": "abstract"
+      }
+    ],
+    "portrait": {
+      "schema_version": 2,
+      "summary": "Un intérêt déclaré pour la colère.",
+      "summary_evidence": [
+        "like:article"
+      ],
+      "axes": [
+        {
+          "label": "Colère",
+          "why": "Un intérêt de lecture formulé.",
+          "confidence": 0.2,
+          "claim_type": "interest",
+          "evidence": [
+            "like:article"
+          ]
+        }
+      ],
+      "strengths": [
+        {
+          "text": "Courage",
+          "evidence": [
+            "like:article"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Un intérêt ne décrit pas toute la personne."
+      ],
+      "citations": [
+        {
+          "source_id": "like:article",
+          "revision": 1,
+          "quote": "title: Article sur la colère"
+        }
+      ],
+      "coverage": {
+        "processed": [
+          "like:article"
+        ],
+        "pending": []
+      }
+    },
+    "valid": false
+  },
+  {
+    "name": "bare_like_current_state",
+    "sources": [
+      {
+        "id": "like:article",
+        "type": "like",
+        "revision": 1,
+        "hash": "dd14c8b764c018bd71740f1fcff3883f8cd5d51d2ef08714390bd903143a15bd",
+        "text": "title: Article sur la colère",
+        "explicit": false,
+        "fields": {
+          "title": "Article sur la colère"
+        },
+        "fiction_use": "abstract"
+      }
+    ],
+    "portrait": {
+      "schema_version": 2,
+      "summary": "Un intérêt déclaré pour la colère.",
+      "summary_evidence": [
+        "like:article"
+      ],
+      "axes": [
+        {
+          "label": "Colère",
+          "why": "Un intérêt de lecture formulé.",
+          "confidence": 0.2,
+          "claim_type": "interest",
+          "evidence": [
+            "like:article"
+          ]
+        }
+      ],
+      "strengths": [],
+      "uncertainties": [
+        "Un intérêt ne décrit pas toute la personne."
+      ],
+      "citations": [
+        {
+          "source_id": "like:article",
+          "revision": 1,
+          "quote": "title: Article sur la colère"
+        }
+      ],
+      "coverage": {
+        "processed": [
+          "like:article"
+        ],
+        "pending": []
+      },
+      "current_state": {
+        "summary": "Actuellement triste",
+        "evidence": [
+          "like:article"
+        ]
+      }
+    },
+    "valid": false
+  },
+  {
+    "name": "removed_source",
+    "sources": [
+      {
+        "id": "memory:user",
+        "type": "memory",
+        "revision": 1,
+        "hash": "0a637e9ee4d7d0c66a59625e94329ed015a29b5f3537cb768d918d04b2af8359",
+        "text": "text: Je souhaite explorer la colère.",
+        "explicit": true,
+        "fields": {
+          "text": "Je souhaite explorer la colère."
+        },
+        "fiction_use": "abstract"
+      }
+    ],
+    "portrait": {
+      "schema_version": 2,
+      "summary": "Un intérêt déclaré pour la colère.",
+      "summary_evidence": [
+        "memory:user"
+      ],
+      "axes": [
+        {
+          "label": "Colère",
+          "why": "Un intérêt de lecture formulé.",
+          "confidence": 0.2,
+          "claim_type": "interest",
+          "evidence": [
+            "memory:user"
+          ]
+        }
+      ],
+      "strengths": [],
+      "uncertainties": [
+        "Un intérêt ne décrit pas toute la personne."
+      ],
+      "citations": [
+        {
+          "source_id": "memory:removed",
+          "revision": 1,
+          "quote": "text: Je souhaite explorer la colère."
+        }
+      ],
+      "coverage": {
+        "processed": [
+          "memory:user"
+        ],
+        "pending": []
+      }
+    },
+    "valid": false
+  },
+  {
+    "name": "wrong_revision",
+    "sources": [
+      {
+        "id": "memory:user",
+        "type": "memory",
+        "revision": 1,
+        "hash": "0a637e9ee4d7d0c66a59625e94329ed015a29b5f3537cb768d918d04b2af8359",
+        "text": "text: Je souhaite explorer la colère.",
+        "explicit": true,
+        "fields": {
+          "text": "Je souhaite explorer la colère."
+        },
+        "fiction_use": "abstract"
+      }
+    ],
+    "portrait": {
+      "schema_version": 2,
+      "summary": "Un intérêt déclaré pour la colère.",
+      "summary_evidence": [
+        "memory:user"
+      ],
+      "axes": [
+        {
+          "label": "Colère",
+          "why": "Un intérêt de lecture formulé.",
+          "confidence": 0.2,
+          "claim_type": "interest",
+          "evidence": [
+            "memory:user"
+          ]
+        }
+      ],
+      "strengths": [],
+      "uncertainties": [
+        "Un intérêt ne décrit pas toute la personne."
+      ],
+      "citations": [
+        {
+          "source_id": "memory:user",
+          "revision": 9,
+          "quote": "text: Je souhaite explorer la colère."
+        }
+      ],
+      "coverage": {
+        "processed": [
+          "memory:user"
+        ],
+        "pending": []
+      }
+    },
+    "valid": false
+  },
+  {
+    "name": "invented_quote",
+    "sources": [
+      {
+        "id": "memory:user",
+        "type": "memory",
+        "revision": 1,
+        "hash": "0a637e9ee4d7d0c66a59625e94329ed015a29b5f3537cb768d918d04b2af8359",
+        "text": "text: Je souhaite explorer la colère.",
+        "explicit": true,
+        "fields": {
+          "text": "Je souhaite explorer la colère."
+        },
+        "fiction_use": "abstract"
+      }
+    ],
+    "portrait": {
+      "schema_version": 2,
+      "summary": "Un intérêt déclaré pour la colère.",
+      "summary_evidence": [
+        "memory:user"
+      ],
+      "axes": [
+        {
+          "label": "Colère",
+          "why": "Un intérêt de lecture formulé.",
+          "confidence": 0.2,
+          "claim_type": "interest",
+          "evidence": [
+            "memory:user"
+          ]
+        }
+      ],
+      "strengths": [],
+      "uncertainties": [
+        "Un intérêt ne décrit pas toute la personne."
+      ],
+      "citations": [
+        {
+          "source_id": "memory:user",
+          "revision": 1,
+          "quote": "Cette phrase est inventée."
+        }
+      ],
+      "coverage": {
+        "processed": [
+          "memory:user"
+        ],
+        "pending": []
+      }
+    },
+    "valid": false
+  },
+  {
+    "name": "unsourced_summary",
+    "sources": [
+      {
+        "id": "memory:user",
+        "type": "memory",
+        "revision": 1,
+        "hash": "0a637e9ee4d7d0c66a59625e94329ed015a29b5f3537cb768d918d04b2af8359",
+        "text": "text: Je souhaite explorer la colère.",
+        "explicit": true,
+        "fields": {
+          "text": "Je souhaite explorer la colère."
+        },
+        "fiction_use": "abstract"
+      }
+    ],
+    "portrait": {
+      "schema_version": 2,
+      "summary": "Un intérêt déclaré pour la colère.",
+      "summary_evidence": [],
+      "axes": [
+        {
+          "label": "Colère",
+          "why": "Un intérêt de lecture formulé.",
+          "confidence": 0.2,
+          "claim_type": "interest",
+          "evidence": [
+            "memory:user"
+          ]
+        }
+      ],
+      "strengths": [],
+      "uncertainties": [
+        "Un intérêt ne décrit pas toute la personne."
+      ],
+      "citations": [
+        {
+          "source_id": "memory:user",
+          "revision": 1,
+          "quote": "text: Je souhaite explorer la colère."
+        }
+      ],
+      "coverage": {
+        "processed": [
+          "memory:user"
+        ],
+        "pending": []
+      }
+    },
+    "valid": false
+  },
+  {
+    "name": "pending_used_as_evidence",
+    "sources": [
+      {
+        "id": "memory:user",
+        "type": "memory",
+        "revision": 1,
+        "hash": "0a637e9ee4d7d0c66a59625e94329ed015a29b5f3537cb768d918d04b2af8359",
+        "text": "text: Je souhaite explorer la colère.",
+        "explicit": true,
+        "fields": {
+          "text": "Je souhaite explorer la colère."
+        },
+        "fiction_use": "abstract"
+      }
+    ],
+    "portrait": {
+      "schema_version": 2,
+      "summary": "Un intérêt déclaré pour la colère.",
+      "summary_evidence": [
+        "memory:user"
+      ],
+      "axes": [
+        {
+          "label": "Colère",
+          "why": "Un intérêt de lecture formulé.",
+          "confidence": 0.2,
+          "claim_type": "interest",
+          "evidence": [
+            "memory:user"
+          ]
+        }
+      ],
+      "strengths": [],
+      "uncertainties": [
+        "Un intérêt ne décrit pas toute la personne."
+      ],
+      "citations": [
+        {
+          "source_id": "memory:user",
+          "revision": 1,
+          "quote": "text: Je souhaite explorer la colère."
+        }
+      ],
+      "coverage": {
+        "processed": [],
+        "pending": [
+          "memory:user"
+        ]
+      }
+    },
+    "valid": false
+  },
+  {
+    "name": "fiction_inside_portrait",
+    "sources": [
+      {
+        "id": "memory:user",
+        "type": "memory",
+        "revision": 1,
+        "hash": "0a637e9ee4d7d0c66a59625e94329ed015a29b5f3537cb768d918d04b2af8359",
+        "text": "text: Je souhaite explorer la colère.",
+        "explicit": true,
+        "fields": {
+          "text": "Je souhaite explorer la colère."
+        },
+        "fiction_use": "abstract"
+      }
+    ],
+    "portrait": {
+      "schema_version": 2,
+      "summary": "Un intérêt déclaré pour la colère.",
+      "summary_evidence": [
+        "memory:user"
+      ],
+      "axes": [
+        {
+          "label": "Colère",
+          "why": "Un intérêt de lecture formulé.",
+          "confidence": 0.2,
+          "claim_type": "interest",
+          "evidence": [
+            "memory:user"
+          ]
+        }
+      ],
+      "strengths": [],
+      "uncertainties": [
+        "Un intérêt ne décrit pas toute la personne."
+      ],
+      "citations": [
+        {
+          "source_id": "memory:user",
+          "revision": 1,
+          "quote": "text: Je souhaite explorer la colère."
+        }
+      ],
+      "coverage": {
+        "processed": [
+          "memory:user"
+        ],
+        "pending": []
+      },
+      "fictional_character": {
+        "name": "Fiction"
+      }
+    },
+    "valid": false
+  }
+]

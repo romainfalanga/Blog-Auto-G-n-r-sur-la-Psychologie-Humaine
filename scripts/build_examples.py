@@ -4,6 +4,8 @@ Does not modify articles, character pages or their URLs. The Worker validates ev
 chosen article against this generated catalogue; client-supplied excerpts are ignored.
 """
 import json
+import hashlib
+import re
 import pathlib
 import unicodedata
 import yaml
@@ -104,6 +106,34 @@ def character_catalog():
     return data
 
 
+def extractive_metadata(body, meta):
+    """Auditable extracts from the actual body, never unverified matrix summaries.
+
+    Opening and final narrative paragraphs are retained with exact offsets. This
+    intentionally does not claim to be an abstractive synopsis of every scene.
+    """
+    paragraphs=[]
+    for match in re.finditer(r'(?m)(?:^|\n\n)([^\n#][\s\S]*?)(?=\n\n|\Z)', body):
+        value=match.group(1).strip()
+        if len(value)<80 or value.startswith(('---','![','<','*À lire','**À lire')):
+            continue
+        start=body.find(value,match.start())
+        paragraphs.append({'quote':value,'start':start,'end':start+len(value)})
+    name=str(meta.get('personnage',''))
+    narrative=[p for p in paragraphs if name and name.casefold() in p['quote'].casefold()]
+    selected=(narrative or paragraphs)
+    selected=([selected[0],selected[-1]] if len(selected)>1 else selected)
+    selected=list({p['start']:p for p in selected}.values())
+    # Whole paragraphs preserve the conclusion rather than chopping mid-clause.
+    summary='\n\n[…]\n\n'.join(p['quote'] for p in selected)
+    headings=re.findall(r'^#{2,3}\s+(.+)$',body,re.MULTILINE)
+    return {'catalogue_version':2,'content_hash':hashlib.sha256(body.encode()).hexdigest(),
+            'summary':summary,'summary_method':'extractive_opening_and_final_scene',
+            'summary_evidence':selected,'canonical_concept':label(meta.get('sujet','')),
+            'context':str(meta.get('contexte','')),'tone':'récit fictif et explications pédagogiques',
+            'resources':[h for h in headings if re.search(r'exercice|technique|pratique|outil',h,re.I)]}
+
+
 def build():
     # Keep the extractive article overviews current alongside the public catalogue.
     from build_article_intros import build as build_article_intros
@@ -111,8 +141,6 @@ def build():
     examples = []
     characters = character_catalog()
     articles_data = {}
-    matrix = json.loads((ROOT / 'scripts/matrice_combinaisons.json').read_text())
-    summaries = {a.get('slug'): a.get('resume_narratif', '') for a in matrix.get('articles', [])}
     for path in sorted((ROOT / 'content/posts').rglob('*.md')):
         if path.name == '_index.md':
             continue
@@ -122,9 +150,8 @@ def build():
             continue
         relative = path.relative_to(ROOT / 'content').with_suffix('')
         slug = meta.get('slug', path.stem)
-        summary = summaries.get(slug, '')
-        if not isinstance(summary, str):
-            summary = json.dumps(summary, ensure_ascii=False)
+        metadata = extractive_metadata(body, meta)
+        summary = metadata['summary']
         # Opening scene + ending retain narrative approach at a bounded context cost.
         excerpt = body.strip()
         if len(excerpt) > 10000:
@@ -137,6 +164,7 @@ def build():
         articles_data[relative.as_posix()] = {
             'character': meta.get('personnage', ''), 'character_id': character.get('id', ''),
             'keywords': keywords, 'character_keywords': character.get('keywords', []),
+            **metadata,
         }
         examples.append({
             'id': relative.as_posix(), 'title': meta['title'],
@@ -145,7 +173,8 @@ def build():
             'description': meta.get('description', ''),
             'keywords': keywords, 'character_keywords': character.get('keywords', []),
             'sujet': meta.get('sujet', ''), 'category': (meta.get('categories') or [''])[0],
-            'body': ('Résumé du personnage FICTIF : ' + summary + '\n\n' if summary else '') + excerpt,
+            **metadata,
+            'body': excerpt,
         })
     if not examples or len({e['id'] for e in examples}) != len(examples):
         raise ValueError('Empty or duplicate catalogue')

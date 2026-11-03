@@ -28,6 +28,18 @@
 
 # Routes personnelles : proxifier les deux formes sans redirection de slash.
 [[redirects]]
+  from = "/mes-personnages"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mes-personnages/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/mes-personnages/*"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mes-personnages/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
   from = "/mes-histoires"
   to = "https://decode-journal.romainfalanga83.workers.dev/mes-histoires/"
   status = 200
@@ -92,6 +104,21 @@
   to = "https://decode-journal.romainfalanga83.workers.dev/api/:splat"
   status = 200
   force = true
+
+[[headers]]
+  for = "/mes-personnages"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+[[headers]]
+  for = "/mes-personnages/*"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+[[headers]]
+  for = "/journal"
+  [headers.values]
+    Cache-Control = "private, no-store"
 
 [[headers]]
   for = "/mes-histoires"

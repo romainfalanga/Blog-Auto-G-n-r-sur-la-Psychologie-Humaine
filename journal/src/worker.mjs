@@ -1,6 +1,7 @@
 import { HTML } from './ui.mjs';
 import { EXAMPLES } from './examples.mjs';
 import { createRecommender } from './recommendations.mjs';
+import { createPersonalBackend, hasPersonalizationSources } from './personal-backend.mjs';
 
 const encoder = new TextEncoder();
 const COOKIE = '__Host-dte_session';
@@ -11,8 +12,8 @@ const now = () => Math.floor(Date.now()/1000);
 const random = () => crypto.randomUUID();
 const hex = b => [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,'0')).join('');
 const digest = async s => hex(await crypto.subtle.digest('SHA-256',encoder.encode(s)));
-class HTTPError extends Error { constructor(status,message) { super(message); this.status=status; } }
-const error = (status,message) => { throw new HTTPError(status,message); };
+class HTTPError extends Error { constructor(status,message,code) { super(message); this.status=status; this.code=code; } }
+const error = (status,message,code) => { throw new HTTPError(status,message,code); };
 const json = (value,status=200,headers={}) => new Response(JSON.stringify(value),{status,headers:{'Content-Type':'application/json; charset=utf-8',...headers}});
 const first = (env,sql,...params) => env.DB.prepare(sql).bind(...params).first();
 const all = async (env,sql,...params) => (await env.DB.prepare(sql).bind(...params).all()).results;
@@ -142,187 +143,14 @@ async function likesResponse(env,userId) {
   const likes=decorateLikes(parse(snapshot.likes_json,[])),r=readinessFor(likes);
   return {likes,count:r.likes_count,explained_count:r.explained_count,target:TARGET_LIKES,source_version:snapshot.version};
 }
-async function readingContext(env,userId) {
-  // Every recommendation input is read at the same source version, including edits
-  // to private feedback or memory concurrent with another tab's article selection.
-  const row=await first(env,`SELECT p.version AS source_version,m.text AS memory_text,m.version AS memory_version,up.portrait,up.analyzed_version,up.updated_at,s.status AS subscription_status,s.paid_until,
-    (SELECT json_group_array(json_object('article_id',article_id,'reason',reason,'differences',differences,'created_at',created_at,'updated_at',updated_at)) FROM (SELECT article_id,reason,differences,created_at,updated_at FROM article_likes WHERE user_id=p.user_id ORDER BY created_at,article_id)) AS likes_json,
-    (SELECT json_group_array(json_object('story_id',story_id,'day',day,'fictional_source_title',fictional_source_title,'fictional_source_summary',fictional_source_summary,'resonance',resonance,'feelings',feelings,'why',why,'correction',correction,'updated_at',updated_at)) FROM (SELECT f.story_id,st.day,st.title AS fictional_source_title,st.summary AS fictional_source_summary,f.resonance,f.feelings,f.why,f.correction,f.updated_at FROM feedback f JOIN stories st ON st.id=f.story_id WHERE f.user_id=p.user_id ORDER BY f.updated_at DESC,st.day DESC LIMIT 30)) AS feedback_json
-    FROM profiles p JOIN memories m ON m.user_id=p.user_id JOIN subscriptions s ON s.user_id=p.user_id LEFT JOIN user_portraits up ON up.user_id=p.user_id WHERE p.user_id=?`,userId);
-  if(!row) error(401,'Compte introuvable.');
-  return {source_version:row.source_version,portrait_version:row.analyzed_version||0,updated_at:row.updated_at||null,paid:activeSubscription({status:row.subscription_status,paid_until:row.paid_until}),likes:decorateLikes(parse(row.likes_json,[])),portrait:row.portrait?parse(row.portrait,null):null,feedback:parse(row.feedback_json,[]).reverse(),memory:{text:row.memory_text,version:row.memory_version}};
-}
-function freePortraitRetry(usage,at=now()) {
-  if(!usage||usage.window_started+86400<=at) return null;
-  if(usage.starts>=FREE_PORTRAIT_STARTS) return usage.window_started+86400;
-  return usage.last_started+FREE_PORTRAIT_INTERVAL>at?usage.last_started+FREE_PORTRAIT_INTERVAL:null;
-}
-async function portraitFor(env,userId) {
-  const context=await readingContext(env,userId);
-  const job=await first(env,"SELECT status,lease_until,attempts,provider_calls,created_at FROM journal_jobs WHERE user_id=? AND kind='portrait' AND source_version=? AND day=''",userId,context.source_version);
-  const quota=context.paid?null:await first(env,'SELECT * FROM portrait_usage WHERE user_id=?',userId);
-  let status='collecting',retry_after=null,reason=null;
-  const outdated=Boolean(context.likes.length&&context.portrait&&context.portrait_version!==context.source_version);
-  if(context.likes.length) {
-    status=context.portrait_version===context.source_version?'ready':job?.status==='running'&&job.lease_until>now()?'updating':job&&(job.attempts>=3||job.provider_calls>=20)?'error':'queued';
-    if(status==='error'&&job?.created_at) retry_after=Math.floor(Date.parse(job.created_at.replace(' ','T')+'Z')/1000)+86400;
-    else if(status==='queued'&&(retry_after=freePortraitRetry(quota))) reason=quota.starts>=FREE_PORTRAIT_STARTS?'quota':'cooldown';
-  }
-  return {status,retry_after,reason,source_version:context.source_version,analyzed_version:context.portrait_version,updated_at:context.updated_at,portrait:context.likes.length?context.portrait:null,outdated,provisional:Boolean(context.likes.length&&status!=='ready'),provisional_portrait:context.likes.length?recommender.provisionalPortrait({...context,portrait:outdated?null:context.portrait}):null};
-}
-async function storyInspirations(env,likes) {
-  const selected=[...likes].sort((a,b)=>Number(Boolean(b.reason))-Number(Boolean(a.reason))||b.updated_at.localeCompare(a.updated_at)).slice(0,3);
-  const result=[];
-  for(const selectedLike of selected) {
-    const source=await first(env,'SELECT body FROM public_examples WHERE id=?',selectedLike.article_id);
-    if(!source?.body?.trim()) error(503,'catalog_missing');
-    result.push({...selectedLike,body:source.body});
-  }
-  return result;
-}
-export async function claimJobs(env) {
-  if(!env.OPENROUTER_API_KEY) return json({jobs:[],status:'provider_missing'});
-  const day=frenchDay(),t=now();
-  // Old versions cannot spend another provider call or block the latest evidence.
-  await run(env,"UPDATE journal_jobs SET status='obsolete',lease_until=0 WHERE status!='complete' AND source_version!=(SELECT version FROM profiles WHERE user_id=journal_jobs.user_id)");
-  await run(env,"UPDATE journal_jobs SET status='pending',attempts=0,provider_calls=0,lease_token=NULL,lease_until=0,error_code=NULL,created_at=CURRENT_TIMESTAMP WHERE kind='portrait' AND status NOT IN ('complete','obsolete') AND (attempts>=3 OR provider_calls>=20) AND lease_until<=? AND created_at<=datetime('now','-24 hours')",t);
-  // Alternating priorities guarantees paid stories a turn during free-portrait demand.
-  const turn=await first(env,"INSERT INTO scheduler_state(key,counter) VALUES('claims',1) ON CONFLICT(key) DO UPDATE SET counter=counter+1 RETURNING counter");
-  for(const kind of (turn.counter%2?['story','portrait']:['portrait','story'])) {
-    const dirty=kind==='portrait'?"(up.analyzed_version IS NULL OR up.analyzed_version!=p.version)":"up.analyzed_version=p.version AND NOT EXISTS(SELECT 1 FROM stories st WHERE st.user_id=u.id AND st.day=?)";
-    const eligibility=kind==='story'?"(s.status='active' AND s.paid_until>?)":"(s.status='active' AND s.paid_until>? OR pu.user_id IS NULL OR pu.window_started<=? OR (pu.starts<3 AND pu.last_started<=?))";
-    const jobDay=kind==='portrait'?'':day;
-    const params=[...(kind==='story'?[t]:[t,t-86400,t-FREE_PORTRAIT_INTERVAL]),...(kind==='story'?[day]:[]),kind,jobDay,t,t];
-    const candidates=await all(env,`SELECT u.id,p.version,m.version AS memory_version,s.status,s.paid_until FROM users u JOIN profiles p ON p.user_id=u.id JOIN memories m ON m.user_id=u.id JOIN subscriptions s ON s.user_id=u.id LEFT JOIN user_portraits up ON up.user_id=u.id LEFT JOIN portrait_usage pu ON pu.user_id=u.id WHERE (SELECT COUNT(*) FROM article_likes l WHERE l.user_id=u.id)>=1 AND ${eligibility} AND ${dirty} AND NOT EXISTS(SELECT 1 FROM journal_jobs j WHERE j.user_id=u.id AND j.kind=? AND j.source_version=p.version AND j.day=? AND (j.attempts>=3 OR j.provider_calls>=20 OR j.status='complete' OR j.lease_until>?)) ORDER BY CASE WHEN s.status='active' AND s.paid_until>? THEN 0 ELSE 1 END,u.created_at,u.id LIMIT 10`,...params);
-    for(const candidate of candidates) {
-      const likes=await likesFor(env,candidate.id);if(!likes.length) continue;
-      let inspirations=[];
-      if(kind==='story') {
-        try {inspirations=await storyInspirations(env,likes);} catch {return json({jobs:[],status:'catalog_missing'});}
-      }
-      await run(env,'INSERT OR IGNORE INTO journal_jobs(id,user_id,kind,source_version,memory_version,day) VALUES(?,?,?,?,?,?)',random(),candidate.id,kind,candidate.version,candidate.memory_version,jobDay);
-      const lease=random()+random();
-      const job=await first(env,`UPDATE journal_jobs SET status='running',attempts=attempts+1,lease_token=?,lease_until=?,error_code=NULL WHERE user_id=? AND kind=? AND source_version=? AND day=? AND status!='complete' AND lease_until<=? AND attempts<3 AND provider_calls<20 AND EXISTS(SELECT 1 FROM profiles WHERE user_id=? AND version=?) RETURNING id`,lease,t+1800,candidate.id,kind,candidate.version,jobDay,t,candidate.id,candidate.version);
-      if(!job) continue;
-      if(kind==='portrait'&&!activeSubscription(candidate,t)) {
-        const reservation=await first(env,`INSERT INTO portrait_usage(user_id,window_started,starts,last_started) VALUES(?,?,1,?) ON CONFLICT(user_id) DO UPDATE SET window_started=CASE WHEN window_started<=? THEN excluded.window_started ELSE window_started END,starts=CASE WHEN window_started<=? THEN 1 ELSE starts+1 END,last_started=excluded.last_started WHERE window_started<=? OR (starts<? AND last_started<=?) RETURNING starts`,candidate.id,t,t,t-86400,t-86400,t-86400,FREE_PORTRAIT_STARTS,t-FREE_PORTRAIT_INTERVAL);
-        if(!reservation) {
-          await run(env,"UPDATE journal_jobs SET status='pending',attempts=attempts-1,lease_token=NULL,lease_until=0 WHERE id=? AND lease_token=?",job.id,lease);
-          continue;
-        }
-      }
-      const memory=await first(env,'SELECT text,version FROM memories WHERE user_id=?',candidate.id),previous=await first(env,'SELECT portrait,analyzed_version FROM user_portraits WHERE user_id=?',candidate.id);
-      const feedback=await all(env,'SELECT f.story_id,s.day,s.title AS fictional_source_title,s.summary AS fictional_source_summary,f.resonance,f.feelings,f.why,f.correction,f.updated_at FROM feedback f JOIN stories s ON s.id=f.story_id WHERE f.user_id=? ORDER BY f.updated_at DESC,s.day DESC LIMIT 30',candidate.id);
-      const result={id:job.id,kind,user_id:candidate.id,day:jobDay||day,lease_token:lease,source_version:candidate.version,profile_version:candidate.version,memory_version:candidate.memory_version,memory,likes,feedback:feedback.reverse(),portrait_previous:previous?parse(previous.portrait,null):null,portrait_previous_version:previous?.analyzed_version||0};
-      if(kind==='story') {result.portrait=result.portrait_previous;result.inspirations=inspirations;result.history=(await all(env,'SELECT day,title,summary FROM stories WHERE user_id=? ORDER BY day DESC LIMIT 20',candidate.id)).reverse();}
-      return json({jobs:[result]});
-    }
-  }
-  return json({jobs:[]});
-}
-// Kept as a harmless operational endpoint: GitHub owns orchestration and retries.
+const personal=createPersonalBackend({error,json,text,body,now,random,decorateLikes,recommender});
+const readingContext=(env,userId)=>personal.context(env,userId);
+const portraitFor=(env,userId)=>personal.portrait(env,userId);
+export const claimJobs=env=>personal.claimJobs(env);
+export const completeJob=(env,id,data)=>personal.completeJob(env,id,data);
+export const proxyJobLLM=(env,id,data)=>personal.proxyJobLLM(env,id,data);
+export const failJob=(env,id,data)=>personal.failJob(env,id,data);
 export async function runGenerationBatch() {return {status:'workflow-managed',claimed:0,completed:0,failed:0};}
-async function validJob(env,id,lease,sourceVersion,memoryVersion) {
-  const job=await first(env,'SELECT * FROM journal_jobs WHERE id=?',id);
-  if(!job||!constantEqual(job.lease_token,lease)||job.status!=='running'||job.lease_until<=now()) error(409,'Bail expiré ou inconnu.');
-  const p=await first(env,'SELECT version FROM profiles WHERE user_id=?',job.user_id),m=await first(env,'SELECT version FROM memories WHERE user_id=?',job.user_id),s=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',job.user_id);
-  if(!p||(job.kind==='story'&&!activeSubscription(s))||!(await likesFor(env,job.user_id)).length) error(409,'Génération annulée.');
-  if(p.version!==job.source_version||m.version!==job.memory_version||(sourceVersion!==undefined&&sourceVersion!==p.version)||(memoryVersion!==undefined&&memoryVersion!==m.version)) {
-    await run(env,"UPDATE journal_jobs SET status='obsolete',lease_until=0 WHERE id=? AND lease_token=?",id,lease);error(409,'Le contexte a changé.');
-  }
-  if(job.kind==='story') {const portrait=await first(env,'SELECT analyzed_version FROM user_portraits WHERE user_id=?',job.user_id);if(portrait?.analyzed_version!==p.version) error(409,'Le portrait doit être actualisé.');}
-  return job;
-}
-const jobGuard=`EXISTS(SELECT 1 FROM journal_jobs j JOIN profiles p ON p.user_id=j.user_id JOIN memories m ON m.user_id=j.user_id JOIN subscriptions s ON s.user_id=j.user_id WHERE j.id=? AND j.status='running' AND j.lease_token=? AND j.lease_until>? AND p.version=j.source_version AND m.version=j.memory_version AND (j.kind='portrait' OR (s.status='active' AND s.paid_until>?)) AND (SELECT COUNT(*) FROM article_likes l WHERE l.user_id=j.user_id)>=1)`;
-function jobArgs(id,lease) {const t=now();return [id,lease,t,t];}
-export function validatePortrait(value,likedIds,explicitIds=likedIds) {
-  if(!value||typeof value!=='object') error(400,'Portrait invalide.');
-  const summary=text(value.summary,6000);if(!summary) error(400,'Résumé du portrait manquant.');
-  if(!Array.isArray(value.axes)||value.axes.length<1||value.axes.length>12) error(400,'Axes du portrait invalides.');
-  const axes=value.axes.map(axis=>{
-    if(!axis||typeof axis!=='object') error(400,'Axe du portrait invalide.');
-    const label=text(axis.label,160),why=text(axis.why,2400);
-    if(!label||!why||typeof axis.confidence!=='number'||!Number.isFinite(axis.confidence)||axis.confidence<0||axis.confidence>1||!Array.isArray(axis.evidence)||!axis.evidence.length||axis.evidence.length>30||axis.evidence.some(id=>!likedIds.has(id))) error(400,'Sources du portrait invalides.');
-    return {label,why,confidence:axis.confidence,evidence:[...new Set(axis.evidence)]};
-  });
-  const list=(values)=>{if(!Array.isArray(values)||values.length>20) error(400,'Liste du portrait invalide.');return values.map(value=>text(value,1200));};
-  const fictional_character={name:text(value.fictional_character?.name,100),description:text(value.fictional_character?.description,5000)};
-  if(!fictional_character.name||!fictional_character.description) error(400,'Personnage fictif manquant.');
-  const evidence=(values,allowedIds=likedIds)=>{
-    if(!Array.isArray(values)||!values.length||values.length>30||values.some(id=>!allowedIds.has(id))) error(400,'Sources du portrait invalides.');
-    return [...new Set(values)];
-  };
-  const extras={};
-  for(const field of ['current_state','evolution']) {
-    if(value[field]!==undefined) {
-      if(!value[field]||typeof value[field]!=='object') error(400,'Section du portrait invalide.');
-      const summary=text(value[field].summary,3000);if(!summary) error(400,'Résumé du portrait manquant.');
-      extras[field]={summary,evidence:evidence(value[field].evidence,field==='current_state'?explicitIds:likedIds)};
-    }
-  }
-  if(value.reading_preferences!==undefined) {
-    if(!value.reading_preferences||typeof value.reading_preferences!=='object') error(400,'Préférences invalides.');
-    const preferences=values=>{
-      if(!Array.isArray(values)||values.length>12) error(400,'Préférences invalides.');
-      return values.map(item=>{if(!item||typeof item!=='object') error(400,'Préférence invalide.');const label=text(item.label,160);if(!label) error(400,'Préférence invalide.');return {label,evidence:evidence(item.evidence,explicitIds)};});
-    };
-    extras.reading_preferences={preferred:preferences(value.reading_preferences.preferred),avoid:preferences(value.reading_preferences.avoid)};
-  }
-  return {summary,axes,strengths:list(value.strengths),uncertainties:list(value.uncertainties),fictional_character,...extras};
-}
-export async function completeJob(env,id,data) {
-  const sourceVersion=data.source_version??data.profile_version;
-  if(!Number.isInteger(sourceVersion)||!Number.isInteger(data.memory_version)) error(400,'Versions du contexte requises.');
-  const job=await validJob(env,id,data.lease_token,sourceVersion,data.memory_version),args=jobArgs(id,data.lease_token);
-  if(job.kind==='portrait') {
-    const likes=await likesFor(env,job.user_id);
-    const likedIds=new Set(likes.map(like=>like.article_id));
-    const explicitIds=new Set(likes.filter(like=>like.reason.trim()||like.differences.trim()).map(like=>like.article_id));
-    for(const feedback of await all(env,'SELECT story_id,why,feelings,correction FROM feedback WHERE user_id=?',job.user_id)) {
-      const id='story:'+feedback.story_id;likedIds.add(id);
-      if(feedback.why.trim()||feedback.feelings.trim()||feedback.correction.trim()) explicitIds.add(id);
-    }
-    const saved=await first(env,'SELECT portrait FROM user_portraits WHERE user_id=?',job.user_id);
-    const previousName=saved?parse(saved.portrait,null)?.fictional_character?.name:null;
-    const incoming=previousName?{...data.portrait,fictional_character:{...data.portrait?.fictional_character,name:previousName}}:data.portrait;
-    const portrait=validatePortrait(incoming,likedIds,explicitIds);
-    const results=await env.DB.batch([
-      env.DB.prepare(`INSERT INTO user_portraits(user_id,portrait,analyzed_version) SELECT ?,?,? WHERE ${jobGuard} ON CONFLICT(user_id) DO UPDATE SET portrait=excluded.portrait,analyzed_version=excluded.analyzed_version,updated_at=CURRENT_TIMESTAMP WHERE user_portraits.analyzed_version<excluded.analyzed_version`).bind(job.user_id,JSON.stringify(portrait),job.source_version,...args),
-      env.DB.prepare("UPDATE journal_jobs SET status='complete',lease_until=0 WHERE id=? AND lease_token=? AND EXISTS(SELECT 1 FROM user_portraits p WHERE p.user_id=journal_jobs.user_id AND p.analyzed_version=journal_jobs.source_version)").bind(id,data.lease_token)
-    ]);
-    if(!results[0].meta.changes) error(409,'Le contexte a changé ou ce portrait existe déjà.');
-    return json({ok:true,kind:'portrait',source_version:job.source_version,analyzed_version:job.source_version});
-  }
-  const title=text(data.title,160),content=text(data.body,60000),summary=text(data.summary,3000),practice=text(data.practice||'',3000);
-  if(!title||content.length<500||!summary) error(400,'Histoire incomplète.');
-  if(!Array.isArray(data.reflection_questions)||data.reflection_questions.length<1||data.reflection_questions.length>5) error(400,'Questions invalides.');
-  const questions=data.reflection_questions.map(q=>text(q,500));
-  const results=await env.DB.batch([
-    env.DB.prepare(`INSERT INTO stories(id,user_id,day,title,body,summary,reflection_questions,practice) SELECT ?,?,?,?,?,?,?,? WHERE ${jobGuard} AND EXISTS(SELECT 1 FROM user_portraits p WHERE p.user_id=? AND p.analyzed_version=?) ON CONFLICT(user_id,day) DO NOTHING`).bind(id,job.user_id,job.day,title,content,summary,JSON.stringify(questions),practice,...args,job.user_id,job.source_version),
-    env.DB.prepare("UPDATE journal_jobs SET status='complete',lease_until=0 WHERE id=? AND lease_token=? AND EXISTS(SELECT 1 FROM stories WHERE id=?)").bind(id,data.lease_token,id)
-  ]);
-  if(!results[0].meta.changes) error(409,'Publication déjà effectuée ou contexte modifié.');
-  // A fictional episode never updates a person's portrait, declared memory or source version.
-  return json({ok:true,kind:'story',story_id:id});
-}
-export async function proxyJobLLM(env,id,data) {
-  if(!env.OPENROUTER_API_KEY) error(503,'provider_missing');
-  const job=await validJob(env,id,data.lease_token,data.source_version??data.profile_version,data.memory_version);
-  const allowed=[env.OPENROUTER_MODEL||'openai/gpt-5-mini',env.OPENROUTER_WRITER_MODEL,env.OPENROUTER_ANALYST_MODEL].filter(Boolean);
-  const model=data.model||(data.purpose==='writer'?env.OPENROUTER_WRITER_MODEL:data.purpose==='analyst'?env.OPENROUTER_ANALYST_MODEL:null)||allowed[0];if(!allowed.includes(model)) error(400,'Modèle non autorisé.');
-  const system=text(data.system_prompt,50000),prompt=text(data.user_prompt,900000),purpose=text(data.purpose||'generation',80);
-  if(!system||!prompt||!purpose) error(400,'Prompts requis.');
-  const maxTokens=data.max_tokens??6000;if(!Number.isInteger(maxTokens)||maxTokens<128||maxTokens>8000) error(400,'Limite de tokens invalide.');
-  const counter=await first(env,`UPDATE journal_jobs SET provider_calls=provider_calls+1 WHERE id=? AND provider_calls<20 AND ${jobGuard} RETURNING provider_calls`,id,...jobArgs(id,data.lease_token));
-  if(!counter) error(429,'Limite de génération atteinte ou contexte expiré.');
-  let response;
-  try {response=await fetch('https://openrouter.ai/api/v1/chat/completions',{method:'POST',headers:{'Authorization':`Bearer ${env.OPENROUTER_API_KEY}`,'Content-Type':'application/json','HTTP-Referer':'https://decodetonesprit.fr','X-Title':'Decode ton esprit'},body:JSON.stringify({model,messages:[{role:'system',content:system},{role:'user',content:prompt}],temperature:0.75,reasoning:{effort:'low'},max_tokens:maxTokens}),signal:AbortSignal.timeout(180000)});} catch {error(502,'provider_error');}
-  if(!response.ok) error(502,'provider_error');
-  let result;try {result=await response.json();} catch {error(502,'provider_error');}
-  const content=result?.choices?.[0]?.message?.content;
-  if(typeof content!=='string'||!content.trim()||content.length>180000||result.choices[0].finish_reason==='length') error(502,'provider_error');
-  return json({content});
-}
 async function internal(request,env,path) {
   await githubIdentity(request,env);
   if(request.method!=='POST') error(405,'Méthode non autorisée.');
@@ -332,17 +160,14 @@ async function internal(request,env,path) {
   const data=await body(request,1000000);
   if(match[2]==='llm') return proxyJobLLM(env,match[1],data);
   if(match[2]==='complete') return completeJob(env,match[1],data);
-  const job=await first(env,'SELECT attempts FROM journal_jobs WHERE id=? AND lease_token=? AND status=\'running\'',match[1],text(data.lease_token,100));
-  if(!job) error(409,'Bail expiré ou inconnu.');
-  const allowed=['provider_error','validation_error','coherence_error','unexpected_error','context_changed'];
-  await run(env,"UPDATE journal_jobs SET status='pending',lease_until=?,error_code=? WHERE id=? AND status='running' AND lease_token=?",now()+Math.min(3600,300*2**(job.attempts-1)),allowed.includes(data.reason)?data.reason:'unexpected_error',match[1],data.lease_token);
-  return json({ok:true});
+  return personal.failJob(env,match[1],data);
 }
 async function routes(request,env) {
   const url=new URL(request.url),path=url.pathname,method=request.method;
   if(method==='GET'&&path==='/') return Response.redirect('https://decodetonesprit.fr/',302);
   if(['GET','HEAD'].includes(method)&&['/mes-articles','/mes-articles/'].includes(path)) return Response.redirect(new URL('/mon-portrait/'+url.search+'#mes-articles',env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
-  const pageTitles={'/mes-histoires':'Mes histoires','/mon-portrait':'Mon portrait','/mon-compte':'Mon compte'};
+  if(['GET','HEAD'].includes(method)&&['/mes-histoires','/mes-histoires/'].includes(path)) return Response.redirect(new URL('/mes-personnages/'+url.search,env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
+  const pageTitles={'/mes-personnages':'Mes personnages','/mon-portrait':'Mon portrait','/mon-compte':'Mon compte'};
   const pagePath=path.replace(/\/$/,'');
   if(['GET','HEAD'].includes(method)&&pageTitles[pagePath]) {
     const page=HTML.replace(/<title>[^<]*<\/title>/,'<title>Décode ton esprit</title>');
@@ -350,7 +175,7 @@ async function routes(request,env) {
   }
   if(['GET','HEAD'].includes(method)&&['/journal','/journal/'].includes(path)) {
     const tab=url.searchParams.get('tab');
-    const destination=url.searchParams.has('payment')?'/mon-compte/':url.searchParams.has('story')?'/mes-histoires/':url.searchParams.has('article')||url.searchParams.has('character')||tab==='likes'?'/mon-portrait/':tab==='portrait'?'/mon-portrait/':tab==='account'?'/mon-compte/':'/mes-histoires/';
+    const destination=url.searchParams.has('payment')?'/mon-compte/':url.searchParams.has('story')?'/mes-personnages/':url.searchParams.has('article')||url.searchParams.has('character')||tab==='likes'?'/mon-portrait/':tab==='portrait'?'/mon-portrait/':tab==='account'?'/mon-compte/':'/mes-personnages/';
     return Response.redirect(new URL(destination+url.search+(destination==='/mon-portrait/'&&(url.searchParams.has('article')||url.searchParams.has('character')||tab==='likes')?'#mes-articles':''),env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
   }
   if(method==='GET'&&path==='/api/examples') return json({examples:EXAMPLES.map(({id,title,url,character,description,keywords,character_keywords,sujet,category})=>({id,title,url,character,description,keywords:keywords||[],character_keywords:character_keywords||[],sujet:sujet||'',category:category||''}))});
@@ -381,6 +206,7 @@ async function routes(request,env) {
     return session(env,user);
   }
   const user=await userFor(request,env);
+  const personalResponse=await personal.routes(request,env,user,path,url);if(personalResponse)return personalResponse;
   if(path==='/api/auth/logout'&&method==='POST') {
     const token=request.headers.get('cookie')?.split(';').map(s=>s.trim()).find(s=>s.startsWith(COOKIE+'='))?.slice(COOKIE.length+1);
     if(token) await run(env,'DELETE FROM sessions WHERE token_hash=?',await digest(token));
@@ -389,7 +215,7 @@ async function routes(request,env) {
   if(path==='/api/profile'&&method==='PUT') {
     const data=await body(request,30000),profile={}; for(const field of FIELDS) profile[field]=text(data[field]??'',field==='display_name'?80:2000);
     if(typeof data.consent_ai!=='boolean') error(400,'Indiquez votre choix concernant la personnalisation IA.');
-    await run(env,'UPDATE profiles SET data=?,consent_ai=?,version=version+1 WHERE user_id=?',JSON.stringify(profile),Number(data.consent_ai),user.id);
+    await run(env,'UPDATE profiles SET data=?,consent_ai=?,version=version+1 WHERE user_id=? AND (data!=? OR consent_ai!=?)',JSON.stringify(profile),Number(data.consent_ai),user.id,JSON.stringify(profile),Number(data.consent_ai));
     return json({ok:true,profile:{...profile,consent_ai:data.consent_ai}});
   }
   if(path==='/api/consent'&&method==='PUT') {
@@ -402,7 +228,9 @@ async function routes(request,env) {
   if(path==='/api/recommendations'&&method==='GET') {
     const context=await readingContext(env,user.id);
     const rankingContext={...context,portrait:context.portrait_version===context.source_version?context.portrait:null};
-    return json({items:context.likes.length?recommender.recommend(rankingContext,{limit:12}):[],source_version:context.source_version,portrait_version:context.portrait_version,likes_count:context.likes.length});
+    const items=hasPersonalizationSources(context)?recommender.recommend(rankingContext,{limit:12}):[];
+    await env.DB.batch([env.DB.prepare("INSERT INTO recommendation_exposures(user_id,article_id) SELECT ?,value FROM json_each(?) WHERE true ON CONFLICT(user_id,article_id) DO UPDATE SET shown_at=CURRENT_TIMESTAMP").bind(user.id,JSON.stringify(items.map(x=>x.id))),env.DB.prepare("DELETE FROM recommendation_exposures WHERE user_id=? AND (shown_at<=datetime('now','-7 days') OR article_id NOT IN(SELECT article_id FROM recommendation_exposures WHERE user_id=? ORDER BY shown_at DESC,article_id LIMIT 100))").bind(user.id,user.id)]);
+    return json({items,source_version:context.source_version,portrait_version:context.portrait_version,likes_count:context.likes.length});
   }
   if(path==='/api/likes'&&method==='GET') return json(await likesResponse(env,user.id));
   const likeMatch=path.match(/^\/api\/likes\/(.+)$/);
@@ -434,7 +262,7 @@ async function routes(request,env) {
   }
   if(path==='/api/memory'&&method==='GET') return json(await first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id));
   if(path==='/api/memory'&&method==='PUT') {
-    const data=await body(request,15000); const value=text(data.text,10000);
+    const data=await body(request,50000); const value=text(data.text,10000);
     await env.DB.batch([
       env.DB.prepare('UPDATE profiles SET version=version+1 WHERE user_id=? AND EXISTS(SELECT 1 FROM memories WHERE user_id=? AND text!=?)').bind(user.id,user.id,value),
       env.DB.prepare("UPDATE memories SET text=?,proposal='',version=version+1 WHERE user_id=? AND text!=?").bind(value,user.id,value)
@@ -445,12 +273,21 @@ async function routes(request,env) {
   const storyMatch=path.match(/^\/api\/stories\/([\w-]+)(\/feedback)?$/);
   if(storyMatch) {
     const story=await first(env,'SELECT * FROM stories WHERE id=? AND user_id=?',storyMatch[1],user.id); if(!story) error(404,'Histoire introuvable.');
-    if(!storyMatch[2]&&method==='GET') return json({story:{...story,reflection_questions:parse(story.reflection_questions,[])},feedback:await first(env,'SELECT resonance,feelings,why,correction FROM feedback WHERE story_id=? AND user_id=?',story.id,user.id)});
+    if(!storyMatch[2]&&method==='GET') return json({story:{...story,reflection_questions:parse(story.reflection_questions,[]),narrative_delta:parse(story.narrative_delta)},feedback:await first(env,'SELECT resonance,feelings,why,correction,differences,scope,preference,avoid,revision FROM feedback WHERE story_id=? AND user_id=?',story.id,user.id)});
     if(storyMatch[2]&&method==='PUT') {
       const data=await body(request,60000); if(!Number.isInteger(data.resonance)||data.resonance<1||data.resonance>5) error(400,'Choisissez une note de 1 à 5.');
-      const feelings=text(data.feelings||'',3000),why=text(data.why||'',4000),correction=text(data.correction||'',4000);
-      await env.DB.batch([env.DB.prepare('INSERT INTO feedback(story_id,user_id,resonance,feelings,why,correction) VALUES(?,?,?,?,?,?) ON CONFLICT(story_id) DO UPDATE SET resonance=excluded.resonance,feelings=excluded.feelings,why=excluded.why,correction=excluded.correction,updated_at=CURRENT_TIMESTAMP').bind(story.id,user.id,data.resonance,feelings,why,correction),env.DB.prepare('UPDATE profiles SET version=version+1 WHERE user_id=?').bind(user.id)]);
-      return json({ok:true,source_version:(await first(env,'SELECT version FROM profiles WHERE user_id=?',user.id)).version});
+      const fields={resonance:data.resonance,feelings:text(data.feelings||'',3000),why:text(data.why||'',4000),correction:text(data.correction||'',4000),differences:text(data.differences||'',4000),scope:text(data.scope||'overall',30),preference:text(data.preference||'',4000),avoid:text(data.avoid||'',4000)};
+      if(!['overall','situation','reaction','character','style'].includes(fields.scope))error(400,'Portée invalide.','invalid_scope');
+      const prior=await first(env,'SELECT * FROM feedback WHERE story_id=? AND user_id=?',story.id,user.id);
+      if(data.revision!==undefined&&(!Number.isInteger(data.revision)||data.revision!==(prior?.revision||0)))error(409,'Ce retour a été modifié.','revision_conflict');
+      const keys=Object.keys(fields),values=Object.values(fields),expected=prior?.revision||0;
+      const result=await env.DB.batch([
+        env.DB.prepare(`INSERT INTO feedback(story_id,user_id,${keys.join(',')}) SELECT ?,?,${keys.map(()=>'?').join(',')} WHERE ?=0 OR EXISTS(SELECT 1 FROM feedback WHERE story_id=? AND user_id=? AND revision=?) ON CONFLICT(story_id) DO UPDATE SET ${keys.map(k=>k+'=excluded.'+k).join(',')},revision=feedback.revision+1,updated_at=CURRENT_TIMESTAMP WHERE feedback.revision=? AND (${keys.map(k=>'feedback.'+k+'!=excluded.'+k).join(' OR ')})`).bind(story.id,user.id,...values,expected,story.id,user.id,expected,expected),
+        env.DB.prepare('UPDATE profiles SET version=version+1 WHERE user_id=? AND changes()>0').bind(user.id)
+      ]);
+      const saved=await first(env,'SELECT resonance,feelings,why,correction,differences,scope,preference,avoid,revision FROM feedback WHERE story_id=? AND user_id=?',story.id,user.id);
+      if(!result[0].meta.changes&&keys.some(k=>saved[k]!==fields[k]))error(409,'Ce retour a été modifié.','revision_conflict');
+      return json({ok:true,feedback:saved,source_version:(await first(env,'SELECT version FROM profiles WHERE user_id=?',user.id)).version});
     }
   }
   if(path==='/api/billing/checkout'&&method==='POST') {
@@ -491,7 +328,7 @@ async function routes(request,env) {
   }
   if(path==='/api/export'&&method==='GET') {
     const profile=await first(env,'SELECT data,consent_ai FROM profiles WHERE user_id=?',user.id),memory=await first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id);
-    return json({user,profile:{...parse(profile.data),consent_ai:Boolean(profile.consent_ai)},memory,likes:await likesFor(env,user.id),portrait:await portraitFor(env,user.id),selections:await all(env,'SELECT article_id,reason,differences FROM article_likes WHERE user_id=? ORDER BY article_id',user.id),stories:await all(env,'SELECT day,title,body,summary,reflection_questions,practice FROM stories WHERE user_id=? ORDER BY day',user.id),feedback:await all(env,'SELECT story_id,resonance,feelings,why,correction,updated_at FROM feedback WHERE user_id=?',user.id)},200,{'Content-Disposition':'attachment; filename="mon-journal-decode-ton-esprit.json"'});
+    return json({user,profile:{...parse(profile.data),consent_ai:Boolean(profile.consent_ai)},memory,likes:await likesFor(env,user.id),portrait:await portraitFor(env,user.id),selections:await all(env,'SELECT article_id,reason,differences FROM article_likes WHERE user_id=? ORDER BY article_id',user.id),...await personal.exportData(env,user.id)},200,{'Content-Disposition':'attachment; filename="mon-journal-decode-ton-esprit.json"'});
   }
   if(path==='/api/account'&&method==='DELETE') {
     const data=await body(request,1000),record=await first(env,'SELECT * FROM users WHERE id=?',user.id);
@@ -515,9 +352,9 @@ export default {
   },
   async fetch(request,env) {
     let response;
-    try {response=await routes(request,env);} catch(e) {response=json({error:e instanceof HTTPError?e.message:'Une erreur temporaire est survenue. Réessayez plus tard.'},e instanceof HTTPError?e.status:500);}
+    try {response=await routes(request,env);} catch(e) {response=json({error:e instanceof HTTPError?e.message:'Une erreur temporaire est survenue. Réessayez plus tard.',...(e instanceof HTTPError&&e.code?{code:e.code}:{})},e instanceof HTTPError?e.status:500);}
     const headers=new Headers(response.headers);
-    headers.set('Cache-Control','no-store'); headers.set('X-Content-Type-Options','nosniff'); headers.set('Referrer-Policy','no-referrer'); headers.set('X-Frame-Options','DENY'); headers.set('Permissions-Policy','camera=(), microphone=(), geolocation=()');
+    headers.set('Cache-Control','private, no-store'); headers.set('X-Content-Type-Options','nosniff'); headers.set('Referrer-Policy','no-referrer'); headers.set('X-Frame-Options','DENY'); headers.set('Permissions-Policy','camera=(), microphone=(), geolocation=()');
     headers.set('Content-Security-Policy',"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'");
     return new Response(response.body,{status:response.status,headers});
   }

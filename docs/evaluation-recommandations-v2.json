@@ -1,0 +1,854 @@
+{
+  "catalogue_count": 231,
+  "scenario_count": 30,
+  "as_of": "2026-11-03",
+  "annotation_limit": "Synthetic engineering judgments, sparse graded labels; unjudged scored zero; no independent editorial or clinical validation. No real provider calls. Weights frozen before these 30 scenarios were written; no coefficient tuning on this set. Zero-like baseline returns no results by design; compare cohorts separately. No independent holdout yet.",
+  "metrics": {
+    "baseline": {
+      "means": {
+        "count": 6,
+        "precision@6": 0.11666666666666667,
+        "precision@12": 0.06944444444444445,
+        "ndcg@6": 0.38364480508303245,
+        "ndcg@12": 0.39722998241542784,
+        "characters@6": 2.566666666666667
+      },
+      "cohorts": {
+        "with_likes": {
+          "count": 15,
+          "means": {
+            "count": 12,
+            "precision@6": 0.23333333333333334,
+            "precision@12": 0.1388888888888889,
+            "ndcg@6": 0.7672896101660649,
+            "ndcg@12": 0.7944599648308557,
+            "characters@6": 5.133333333333334
+          }
+        },
+        "zero_likes": {
+          "count": 15,
+          "means": {
+            "count": 0,
+            "precision@6": 0,
+            "precision@12": 0,
+            "ndcg@6": 0,
+            "ndcg@12": 0,
+            "characters@6": 0
+          }
+        }
+      },
+      "scenarios": [
+        {
+          "scenario": "demande-colere",
+          "count": 12,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/colere-en-situation-de-conflit-comprendre-s-affirmer",
+            "posts/comprendre-et-maitriser-ses-emotions/rage-en-situation-de-conflit",
+            "posts/sortir-de-ses-schemas-repetitifs/clivage-conflit-comprendre-gerer"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 1,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 1,
+          "characters@6": 5
+        },
+        {
+          "scenario": "rumination",
+          "count": 12,
+          "top": [
+            "posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien",
+            "posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets",
+            "posts/sortir-de-ses-schemas-repetitifs/comprendre-sentiment-echec-apres-un-echec"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 1,
+          "precision@12": 0.08333333333333333,
+          "ndcg@12": 1,
+          "characters@6": 5
+        },
+        {
+          "scenario": "travail-anxiete",
+          "count": 12,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets",
+            "posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien",
+            "posts/comprendre-et-maitriser-ses-emotions/anxiete-face-maladie-blouse"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 1,
+          "precision@12": 0.08333333333333333,
+          "ndcg@12": 1,
+          "characters@6": 5
+        },
+        {
+          "scenario": "culpabilite-enfants",
+          "count": 12,
+          "top": [
+            "posts/sortir-de-ses-schemas-repetitifs/adultification-avec-ses-parents-sortir-schema",
+            "posts/comprendre-et-maitriser-ses-emotions/culpabilite-avec-ses-enfants-comprendre-agir",
+            "posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.4966392596877323,
+          "precision@12": 0.08333333333333333,
+          "ndcg@12": 0.4966392596877323,
+          "characters@6": 5
+        },
+        {
+          "scenario": "deuil",
+          "count": 12,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/comprendre-tristesse-lors-d-un-deuil",
+            "posts/comprendre-et-maitriser-ses-emotions/mepris-lors-d-un-deuil-comprendre-surmonter",
+            "posts/comprendre-et-maitriser-ses-emotions/impuissance-deuil-reprendre-main"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 0.9176601606601069,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.9176601606601069,
+          "characters@6": 6
+        },
+        {
+          "scenario": "amitie-trahison",
+          "count": 12,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/trahison-en-amitie-impacts-quotidiens",
+            "posts/comprendre-et-maitriser-ses-emotions/trahison-en-couple-comprendre-surmonter-blessure",
+            "posts/comprendre-et-maitriser-ses-emotions/trahison-en-situation-de-competition-musicale"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.7871546029909718,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.8996052605611106,
+          "characters@6": 5
+        },
+        {
+          "scenario": "rupture",
+          "count": 12,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/vide-interieur-apres-rupture-amoureuse",
+            "posts/sortir-de-ses-schemas-repetitifs/enfant-interieur-apres-rupture-amoureuse",
+            "posts/reprendre-le-controle-de-ses-pensees/biais-retrospectif-rupture-amoureuse"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.7871546029909718,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.8846711923905052,
+          "characters@6": 5
+        },
+        {
+          "scenario": "enthousiasme",
+          "count": 12,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/accablement-en-periode-de-reconversion-professionnelle",
+            "posts/comprendre-et-maitriser-ses-emotions/ambivalence-emotionnelle-reconversion-professionnelle-burn-out",
+            "posts/sortir-de-ses-schemas-repetitifs/sublimation-reconversion-professionnelle"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.30451296789464855,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.4109356663991626,
+          "characters@6": 5
+        },
+        {
+          "scenario": "gratitude",
+          "count": 12,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/gratitude-face-a-l-argent-et-aux-finances",
+            "posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien",
+            "posts/comprendre-et-maitriser-ses-emotions/culpabilite-face-a-l-argent-et-finances"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 0.95583058934618,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.95583058934618,
+          "characters@6": 5
+        },
+        {
+          "scenario": "fierte",
+          "count": 12,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/fierte-au-travail-comprendre-manifestations-hpi",
+            "posts/comprendre-et-maitriser-ses-emotions/euphorie-apres-un-succes-psychologie",
+            "posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 0.9073218002554915,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.9073218002554915,
+          "characters@6": 5
+        },
+        {
+          "scenario": "charge-mentale",
+          "count": 12,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/charge-mentale-emotionnelle-au-travail-solutions",
+            "posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien",
+            "posts/comprendre-et-maitriser-ses-emotions/anxiete-face-maladie-blouse"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.7871546029909718,
+          "precision@12": 0.08333333333333333,
+          "ndcg@12": 0.7871546029909718,
+          "characters@6": 6
+        },
+        {
+          "scenario": "perfectionnisme",
+          "count": 12,
+          "top": [
+            "posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-parents",
+            "posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-au-travail",
+            "posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-enfants"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.4966392596877323,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.5878046341854108,
+          "characters@6": 4
+        },
+        {
+          "scenario": "approbation",
+          "count": 12,
+          "top": [
+            "posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-travail",
+            "posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-parents",
+            "posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-amitie-enfance"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 0.6653152460429406,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.6653152460429406,
+          "characters@6": 5
+        },
+        {
+          "scenario": "parentification",
+          "count": 12,
+          "top": [
+            "posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions",
+            "posts/sortir-de-ses-schemas-repetitifs/rationalisation-avec-ses-parents",
+            "posts/sortir-de-ses-schemas-repetitifs/refoulement-avec-ses-parents-causes"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 0.9073218002554915,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.9073218002554915,
+          "characters@6": 6
+        },
+        {
+          "scenario": "solitude",
+          "count": 12,
+          "top": [
+            "posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien",
+            "posts/comprendre-et-maitriser-ses-emotions/solitude-face-a-la-solitude-comprendre-difference",
+            "posts/comprendre-et-maitriser-ses-emotions/melancolie-face-a-la-solitude"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.4966392596877323,
+          "precision@12": 0.08333333333333333,
+          "ndcg@12": 0.4966392596877323,
+          "characters@6": 5
+        },
+        {
+          "scenario": "imposture",
+          "count": 0,
+          "top": [],
+          "precision@6": 0,
+          "ndcg@6": 0,
+          "precision@12": 0,
+          "ndcg@12": 0,
+          "characters@6": 0
+        },
+        {
+          "scenario": "comparaison",
+          "count": 0,
+          "top": [],
+          "precision@6": 0,
+          "ndcg@6": 0,
+          "precision@12": 0,
+          "ndcg@12": 0,
+          "characters@6": 0
+        },
+        {
+          "scenario": "colocation",
+          "count": 0,
+          "top": [],
+          "precision@6": 0,
+          "ndcg@6": 0,
+          "precision@12": 0,
+          "ndcg@12": 0,
+          "characters@6": 0
+        },
+        {
+          "scenario": "autorite",
+          "count": 0,
+          "top": [],
+          "precision@6": 0,
+          "ndcg@6": 0,
+          "precision@12": 0,
+          "ndcg@12": 0,
+          "characters@6": 0
+        },
+        {
+          "scenario": "tendresse",
+          "count": 0,
+          "top": [],
+          "precision@6": 0,
+          "ndcg@6": 0,
+          "precision@12": 0,
+          "ndcg@12": 0,
+          "characters@6": 0
+        },
+        {
+          "scenario": "couple-emotions",
+          "count": 0,
+          "top": [],
+          "precision@6": 0,
+          "ndcg@6": 0,
+          "precision@12": 0,
+          "ndcg@12": 0,
+          "characters@6": 0
+        },
+        {
+          "scenario": "demander-aide",
+          "count": 0,
+          "top": [],
+          "precision@6": 0,
+          "ndcg@6": 0,
+          "precision@12": 0,
+          "ndcg@12": 0,
+          "characters@6": 0
+        },
+        {
+          "scenario": "emerveillement",
+          "count": 0,
+          "top": [],
+          "precision@6": 0,
+          "ndcg@6": 0,
+          "precision@12": 0,
+          "ndcg@12": 0,
+          "characters@6": 0
+        },
+        {
+          "scenario": "decision",
+          "count": 0,
+          "top": [],
+          "precision@6": 0,
+          "ndcg@6": 0,
+          "precision@12": 0,
+          "ndcg@12": 0,
+          "characters@6": 0
+        },
+        {
+          "scenario": "negation-double",
+          "count": 0,
+          "top": [],
+          "precision@6": 0,
+          "ndcg@6": 0,
+          "precision@12": 0,
+          "ndcg@12": 0,
+          "characters@6": 0
+        },
+        {
+          "scenario": "correction-tardive",
+          "count": 0,
+          "top": [],
+          "precision@6": 0,
+          "ndcg@6": 0,
+          "precision@12": 0,
+          "ndcg@12": 0,
+          "characters@6": 0
+        },
+        {
+          "scenario": "ancien-evenement",
+          "count": 0,
+          "top": [],
+          "precision@6": 0,
+          "ndcg@6": 0,
+          "precision@12": 0,
+          "ndcg@12": 0,
+          "characters@6": 0
+        },
+        {
+          "scenario": "differences-nominales",
+          "count": 0,
+          "top": [],
+          "precision@6": 0,
+          "ndcg@6": 0,
+          "precision@12": 0,
+          "ndcg@12": 0,
+          "characters@6": 0
+        },
+        {
+          "scenario": "souhait-style",
+          "count": 0,
+          "top": [],
+          "precision@6": 0,
+          "ndcg@6": 0,
+          "precision@12": 0,
+          "ndcg@12": 0,
+          "characters@6": 0
+        },
+        {
+          "scenario": "negation-partielle",
+          "count": 0,
+          "top": [],
+          "precision@6": 0,
+          "ndcg@6": 0,
+          "precision@12": 0,
+          "ndcg@12": 0,
+          "characters@6": 0
+        }
+      ]
+    },
+    "v2": {
+      "means": {
+        "count": 6.4,
+        "precision@6": 0.23888888888888885,
+        "precision@12": 0.1305555555555555,
+        "ndcg@6": 0.7886160761226946,
+        "ndcg@12": 0.8084063721663096,
+        "characters@6": 4.2
+      },
+      "cohorts": {
+        "with_likes": {
+          "count": 15,
+          "means": {
+            "count": 6.066666666666666,
+            "precision@6": 0.19999999999999998,
+            "precision@12": 0.11111111111111112,
+            "ndcg@6": 0.7712649845650152,
+            "ndcg@12": 0.786258405574367,
+            "characters@6": 4.4
+          }
+        },
+        "zero_likes": {
+          "count": 15,
+          "means": {
+            "count": 6.733333333333333,
+            "precision@6": 0.27777777777777773,
+            "precision@12": 0.15,
+            "ndcg@6": 0.8059671676803738,
+            "ndcg@12": 0.8305543387582518,
+            "characters@6": 4
+          }
+        }
+      },
+      "scenarios": [
+        {
+          "scenario": "demande-colere",
+          "count": 12,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/colere-en-situation-de-conflit-comprendre-s-affirmer",
+            "posts/comprendre-et-maitriser-ses-emotions/rage-en-situation-de-conflit",
+            "posts/sortir-de-ses-schemas-repetitifs/clivage-conflit-comprendre-gerer"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 1,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 1,
+          "characters@6": 6
+        },
+        {
+          "scenario": "rumination",
+          "count": 4,
+          "top": [
+            "posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien",
+            "posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets",
+            "posts/comprendre-et-maitriser-ses-emotions/solitude-face-a-la-solitude-comprendre-difference"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 1,
+          "precision@12": 0.08333333333333333,
+          "ndcg@12": 1,
+          "characters@6": 4
+        },
+        {
+          "scenario": "travail-anxiete",
+          "count": 4,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets",
+            "posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien",
+            "posts/comprendre-et-maitriser-ses-emotions/inquietude-decision-importante"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 1,
+          "precision@12": 0.08333333333333333,
+          "ndcg@12": 1,
+          "characters@6": 4
+        },
+        {
+          "scenario": "culpabilite-enfants",
+          "count": 5,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/culpabilite-avec-ses-enfants-comprendre-agir",
+            "posts/sortir-de-ses-schemas-repetitifs/adultification-avec-ses-parents-sortir-schema",
+            "posts/comprendre-et-maitriser-ses-emotions/culpabilite-face-a-l-argent-et-finances"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.7871546029909718,
+          "precision@12": 0.08333333333333333,
+          "ndcg@12": 0.7871546029909718,
+          "characters@6": 5
+        },
+        {
+          "scenario": "deuil",
+          "count": 12,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/comprendre-tristesse-lors-d-un-deuil",
+            "posts/comprendre-et-maitriser-ses-emotions/resilience-emotionnelle-lors-un-deuil-comprendre",
+            "posts/comprendre-et-maitriser-ses-emotions/impuissance-deuil-reprendre-main"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 1,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 1,
+          "characters@6": 5
+        },
+        {
+          "scenario": "amitie-trahison",
+          "count": 4,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/trahison-en-amitie-impacts-quotidiens",
+            "posts/comprendre-et-maitriser-ses-emotions/trahison-en-couple-comprendre-surmonter-blessure",
+            "posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.7871546029909718,
+          "precision@12": 0.08333333333333333,
+          "ndcg@12": 0.7871546029909718,
+          "characters@6": 4
+        },
+        {
+          "scenario": "rupture",
+          "count": 7,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/vide-interieur-apres-rupture-amoureuse",
+            "posts/sortir-de-ses-schemas-repetitifs/enfant-interieur-apres-rupture-amoureuse",
+            "posts/reprendre-le-controle-de-ses-pensees/biais-retrospectif-rupture-amoureuse"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.7871546029909718,
+          "precision@12": 0.08333333333333333,
+          "ndcg@12": 0.7871546029909718,
+          "characters@6": 5
+        },
+        {
+          "scenario": "enthousiasme",
+          "count": 8,
+          "top": [
+            "posts/sortir-de-ses-schemas-repetitifs/sublimation-reconversion-professionnelle",
+            "posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien",
+            "posts/comprendre-et-maitriser-ses-emotions/enthousiasme-reconversion-professionnelle-burn-out"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.3935773014954859,
+          "precision@12": 0.08333333333333333,
+          "ndcg@12": 0.3935773014954859,
+          "characters@6": 5
+        },
+        {
+          "scenario": "gratitude",
+          "count": 5,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/gratitude-face-a-l-argent-et-aux-finances",
+            "posts/comprendre-et-maitriser-ses-emotions/culpabilite-face-a-l-argent-et-finances",
+            "posts/reprendre-le-controle-de-ses-pensees/heuristique-affect-argent"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 1,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 1,
+          "characters@6": 5
+        },
+        {
+          "scenario": "fierte",
+          "count": 4,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/fierte-au-travail-comprendre-manifestations-hpi",
+            "posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien",
+            "posts/comprendre-et-maitriser-ses-emotions/euphorie-apres-un-succes-psychologie"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.7871546029909718,
+          "precision@12": 0.08333333333333333,
+          "ndcg@12": 0.7871546029909718,
+          "characters@6": 4
+        },
+        {
+          "scenario": "charge-mentale",
+          "count": 2,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/charge-mentale-emotionnelle-au-travail-solutions",
+            "posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.7871546029909718,
+          "precision@12": 0.08333333333333333,
+          "ndcg@12": 0.7871546029909718,
+          "characters@6": 2
+        },
+        {
+          "scenario": "perfectionnisme",
+          "count": 9,
+          "top": [
+            "posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-parents",
+            "posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-au-travail",
+            "posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-enfants"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.4966392596877323,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.6090899172578711,
+          "characters@6": 6
+        },
+        {
+          "scenario": "approbation",
+          "count": 4,
+          "top": [
+            "posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-parents",
+            "posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-travail",
+            "posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-amitie-enfance"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 0.95583058934618,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.95583058934618,
+          "characters@6": 4
+        },
+        {
+          "scenario": "parentification",
+          "count": 10,
+          "top": [
+            "posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions",
+            "posts/sortir-de-ses-schemas-repetitifs/rationalisation-avec-ses-parents",
+            "posts/sortir-de-ses-schemas-repetitifs/refoulement-avec-ses-parents-causes"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.7871546029909718,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.8996052605611106,
+          "characters@6": 6
+        },
+        {
+          "scenario": "solitude",
+          "count": 1,
+          "top": [
+            "posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien"
+          ],
+          "precision@6": 0,
+          "ndcg@6": 0,
+          "precision@12": 0,
+          "ndcg@12": 0,
+          "characters@6": 1
+        },
+        {
+          "scenario": "imposture",
+          "count": 11,
+          "top": [
+            "posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-amitie-causes",
+            "posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-ecole-etudes-lucas",
+            "posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-intimite-sexualité-monique"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 0.6271448173568673,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.6271448173568673,
+          "characters@6": 5
+        },
+        {
+          "scenario": "comparaison",
+          "count": 4,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/trahison-en-situation-de-competition-musicale",
+            "posts/reprendre-le-controle-de-ses-pensees/comparaison-injuste-competition",
+            "posts/comprendre-et-maitriser-ses-emotions/envie-en-situation-de-competition-hpi"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.4966392596877323,
+          "precision@12": 0.08333333333333333,
+          "ndcg@12": 0.4966392596877323,
+          "characters@6": 4
+        },
+        {
+          "scenario": "colocation",
+          "count": 2,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/agacement-en-colocation-comprendre-emotions",
+            "posts/comprendre-et-maitriser-ses-emotions/honte-en-colocation-causes-solutions"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 1,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 1,
+          "characters@6": 1
+        },
+        {
+          "scenario": "autorite",
+          "count": 5,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/peur-face-a-lautorite",
+            "posts/reprendre-le-controle-de-ses-pensees/biais-autorite-face-a-l-autorite-priya",
+            "posts/comprendre-et-maitriser-ses-emotions/honte-face-a-l-autorite-causes-profondes"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 0.95583058934618,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.95583058934618,
+          "characters@6": 3
+        },
+        {
+          "scenario": "tendresse",
+          "count": 3,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/tendresse-avec-ses-enfants-bernard",
+            "posts/reprendre-le-controle-de-ses-pensees/effet-bandwagon-amitie",
+            "posts/sortir-de-ses-schemas-repetitifs/enfant-interieur-apres-rupture-amoureuse"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.7871546029909718,
+          "precision@12": 0.08333333333333333,
+          "ndcg@12": 0.7871546029909718,
+          "characters@6": 3
+        },
+        {
+          "scenario": "couple-emotions",
+          "count": 9,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/granularite-emotionnelle-en-couple-comprendre-ressentis",
+            "posts/comprendre-et-maitriser-ses-emotions/degout-en-couple-comprendre-agir",
+            "posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 0.7309292742059024,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.7309292742059024,
+          "characters@6": 5
+        },
+        {
+          "scenario": "demander-aide",
+          "count": 5,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/fatigue-compassion-face-maladie",
+            "posts/comprendre-et-maitriser-ses-emotions/compassion-face-a-la-maladie-aider-proche",
+            "posts/comprendre-et-maitriser-ses-emotions/fatigue-compassion-travail-consequences"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 1,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 1,
+          "characters@6": 3
+        },
+        {
+          "scenario": "emerveillement",
+          "count": 2,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/emerveillement-en-voyage-ou-en-expatriation-guide",
+            "posts/comprendre-et-maitriser-ses-emotions/apathie-en-voyage-ou-expatriation-comprendre"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 1,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 1,
+          "characters@6": 2
+        },
+        {
+          "scenario": "decision",
+          "count": 12,
+          "top": [
+            "posts/reprendre-le-controle-de-ses-pensees/biais-confirmation-conflit",
+            "posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-en-situation-de-conflit-comprendre",
+            "posts/reprendre-le-controle-de-ses-pensees/biais-faux-consensus-conflit"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 0.9324441894571632,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.9324441894571632,
+          "characters@6": 6
+        },
+        {
+          "scenario": "negation-double",
+          "count": 12,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/colere-en-situation-de-conflit-comprendre-s-affirmer",
+            "posts/reprendre-le-controle-de-ses-pensees/biais-confirmation-conflit",
+            "posts/reprendre-le-controle-de-ses-pensees/effet-bandwagon-amitie"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.7871546029909718,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.8935773014954859,
+          "characters@6": 5
+        },
+        {
+          "scenario": "correction-tardive",
+          "count": 4,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/gratitude-face-a-l-argent-et-aux-finances",
+            "posts/reprendre-le-controle-de-ses-pensees/heuristique-affect-argent",
+            "posts/sortir-de-ses-schemas-repetitifs/droits-personnels-excessifs-grandiosité-argent-finances"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 0.9324441894571632,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.9324441894571632,
+          "characters@6": 4
+        },
+        {
+          "scenario": "ancien-evenement",
+          "count": 12,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/nostalgie-face-a-la-solitude-comprendre-emotions",
+            "posts/comprendre-et-maitriser-ses-emotions/nostalgie-avec-ses-enfants-syndrome-nid-vide",
+            "posts/comprendre-et-maitriser-ses-emotions/solitude-face-a-la-solitude-comprendre-difference"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 0.9073218002554915,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.9073218002554915,
+          "characters@6": 5
+        },
+        {
+          "scenario": "differences-nominales",
+          "count": 8,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/sentiment-imposture-apres-un-succes",
+            "posts/sortir-de-ses-schemas-repetitifs/deni-apres-un-echec-comprendre-et-agir",
+            "posts/sortir-de-ses-schemas-repetitifs/regression-apres-un-echec-psychologie"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.14528958646619142,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 0.40767445412984865,
+          "characters@6": 6
+        },
+        {
+          "scenario": "souhait-style",
+          "count": 2,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/ecriture-expressive-pennebaker-en-famille-guide",
+            "posts/sortir-de-ses-schemas-repetitifs/comprendre-le-deplacement-en-famille-guide-camille"
+          ],
+          "precision@6": 0.16666666666666666,
+          "ndcg@6": 0.7871546029909718,
+          "precision@12": 0.08333333333333333,
+          "ndcg@12": 0.7871546029909718,
+          "characters@6": 2
+        },
+        {
+          "scenario": "negation-partielle",
+          "count": 10,
+          "top": [
+            "posts/comprendre-et-maitriser-ses-emotions/colere-en-situation-de-conflit-comprendre-s-affirmer",
+            "posts/comprendre-et-maitriser-ses-emotions/rage-en-situation-de-conflit",
+            "posts/sortir-de-ses-schemas-repetitifs/formation-reactionnelle-en-situation-de-conflit"
+          ],
+          "precision@6": 0.3333333333333333,
+          "ndcg@6": 1,
+          "precision@12": 0.16666666666666666,
+          "ndcg@12": 1,
+          "characters@6": 6
+        }
+      ]
+    }
+  }
+}

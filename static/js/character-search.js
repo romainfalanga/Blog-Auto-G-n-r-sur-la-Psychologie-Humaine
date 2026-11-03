@@ -113,12 +113,14 @@
   var cards = new Map(Array.from(grid.querySelectorAll('[data-character-id]')).map(function (card) { return [card.dataset.characterId, card]; }));
   var clear = document.getElementById('character-search-clear'), panel = document.getElementById('character-search-suggestions');
   var box = input.closest('.character-search-box');
+  function closeSuggestions() { panel.hidden = true; input.setAttribute('aria-expanded', 'false'); }
   function suggestions() {
     var q = input.value.trim();
     var choices = suggest(entries, q);
     panel.replaceChildren();
-    choices.forEach(function (term) { var button=document.createElement('button');button.type='button';button.textContent=term;button.addEventListener('click',function(){input.value=term;update();input.focus();});panel.append(button); });
+    choices.forEach(function (term) { var button=document.createElement('button');button.type='button';button.textContent=term;button.addEventListener('click',function(){input.value=term;update();input.focus();closeSuggestions();});panel.append(button); });
     panel.hidden = !choices.length || !box.contains(document.activeElement);
+    input.setAttribute('aria-expanded', String(!panel.hidden));
   }
   function update() {
     var query=input.value.trim(), results=search(entries,query), shown=new Set(results.map(function(r){return r.entry.id;}));
@@ -130,8 +132,9 @@
   }
   input.addEventListener('input',update);
   input.addEventListener('focus',suggestions);
-  input.addEventListener('keydown',function(e){if(e.key==='Escape'){panel.hidden=true;}if(e.key==='Enter'){e.preventDefault();panel.hidden=true;}});
-  box.addEventListener('focusout',function(e){if(!box.contains(e.relatedTarget))panel.hidden=true;});
+  input.addEventListener('keydown',function(e){if(e.key==='Escape'){e.preventDefault();closeSuggestions();}if(e.key==='Enter'){e.preventDefault();closeSuggestions();}if(e.key==='ArrowDown'&&!panel.hidden){var first=panel.querySelector('button');if(first){e.preventDefault();first.focus();}}});
+  box.addEventListener('focusout',function(e){if(!box.contains(e.relatedTarget))closeSuggestions();});
+  panel.addEventListener('keydown',function(e){if(e.key==='Escape'){input.focus();closeSuggestions();e.preventDefault();}});
   clear.addEventListener('click',function(){input.value='';update();input.focus();});
   update();
 })(typeof window !== 'undefined' ? window : {});

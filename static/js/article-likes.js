@@ -8,7 +8,7 @@
   var busyIds = new Set();
 
   async function api(path, method, data) {
-    var options = {method: method || 'GET', credentials: 'same-origin', headers: {}};
+    var options = {method: method || 'GET', credentials: 'same-origin', cache: 'no-store', headers: {}};
     if (data !== undefined) { options.headers['Content-Type'] = 'application/json'; options.body = JSON.stringify(data); }
     var response = await fetch(path, options);
     var result = await response.json();

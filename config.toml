@@ -46,8 +46,8 @@ title = "Décode ton esprit"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Mes histoires"
-    url = "/mes-histoires/"
+    name = "Mes personnages"
+    url = "/mes-personnages/"
     weight = 2
   [[menu.main]]
     name = "Mon portrait"

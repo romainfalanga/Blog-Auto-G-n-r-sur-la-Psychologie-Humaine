@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "checked_at": "2026-11-03",
+  "scope": "Repères éditoriaux limités pour une fiction de réflexion, sans diagnostic ni promesse d'efficacité individuelle.",
+  "concepts": [
+    {
+      "id": "notice_name",
+      "label": "Observer et nommer une pensée ou une émotion",
+      "allowed": "Le personnage peut remarquer une pensée ou une émotion, lui donner un nom provisoire, puis revenir à l'activité choisie. Cela ne confirme pas que la pensée est vraie et ne garantit pas la disparition de l'émotion.",
+      "source_title": "WHO — Doing What Matters in Times of Stress (2020), Notice and Name / Unhooking",
+      "source_url": "https://www.who.int/publications-detail-redirect/9789240003927"
+    },
+    {
+      "id": "grounding",
+      "label": "Revenir à l'environnement présent",
+      "allowed": "Le personnage peut observer un détail concret autour de lui et son contact avec le sol, s'il le souhaite. Décrire une expérience ordinaire, sans attribuer un mécanisme médical ni promettre de traiter un trouble.",
+      "source_title": "WHO — Doing What Matters in Times of Stress (2020), Grounding",
+      "source_url": "https://www.who.int/publications-detail-redirect/9789240003927"
+    },
+    {
+      "id": "assertive_limit",
+      "label": "Exprimer une limite clairement",
+      "allowed": "Dans une situation appropriée, le personnage peut essayer une formulation claire et respectueuse de son point de vue ou d'un refus. Les circonstances et la sécurité relationnelle comptent ; la réaction de l'autre n'est jamais garantie.",
+      "source_title": "Centre for Clinical Interventions, Government of Western Australia — Assert Yourself!, modules 1 et 6",
+      "source_url": "https://www.cci.health.wa.gov.au/en/Resources/Looking-After-Yourself/Assertiveness"
+    }
+  ],
+  "forbidden": ["Inventer une étude, un chiffre d'efficacité ou une citation", "Diagnostiquer le lecteur ou un proche", "Présenter une fiction comme un fait autobiographique", "Promettre une guérison ou une progression obligatoire"]
+}
