@@ -237,6 +237,53 @@ class V2Tests(unittest.TestCase):
         with self.assertRaises(personal.GenerationFailure) as caught:personal.generate(j,lambda _,p:(calls.append(p) or {'content':json.dumps(responses.pop(0))}))
         self.assertEqual(caught.exception.code,'coherence_error');self.assertEqual(len(calls),5)
 
+    def test_invalid_summary_is_repaired_once_with_fixed_diagnostics_and_immutable_body(self):
+        outputs=story_outputs();valid=json.loads(outputs[4]);invalid=copy.deepcopy(valid)
+        invalid['summary']='X'*1801
+        invalid['narrative_delta']['events'][0]['quote']='Citation inventée non présente.'
+        invalid['narrative_delta']['resolution']['quote']='## La scène'
+        valid['body']='NE DOIT JAMAIS REMPLACER LE RÉCIT'
+        outputs[4]=json.dumps(valid);outputs.insert(4,json.dumps(invalid));calls=[]
+        result=personal.generate(job('story'),lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        self.assertEqual([c['stage'] for c in calls],['orientation','planning','drafting','review','summary','summary','reflection'])
+        first,repair=[json.loads(c['user_prompt']) for c in calls if c['stage']=='summary']
+        self.assertEqual(first['body'],repair['body']);self.assertEqual(result['body'],first['body'])
+        self.assertEqual(first['resolution_excerpt'],first['body'][-max(1500,len(first['body'])//3):])
+        self.assertEqual(repair['repair_summary']['invalid_response'],json.dumps(invalid))
+        self.assertEqual(set(repair['repair_summary']['issues']),{'summary_length','quote_not_exact','resolution_quote_not_final'})
+        self.assertTrue(all(c['max_tokens']==4000 for c in calls if c['stage']=='summary'))
+        self.assertIn('800 à 1200',next(c for c in calls if c['stage']=='summary')['system_prompt'])
+        self.assertNotIn('NE DOIT JAMAIS',result['body'])
+        self.assertNotIn('Citation inventée',calls[-1]['user_prompt'])
+        personal.validate_narrative_delta(result['narrative_delta'],result['body'])
+
+    def test_malformed_summary_json_gets_only_one_repair_without_logging_raw_response(self):
+        import contextlib,io
+        outputs=story_outputs();malformed='{"summary":"PRIVATE_MALFORMED_SENTINEL",';outputs.insert(4,malformed);calls=[];out=io.StringIO()
+        with contextlib.redirect_stdout(out):
+            result=personal.generate(job('story'),lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        repair=json.loads([c for c in calls if c['stage']=='summary'][1]['user_prompt'])
+        self.assertEqual(repair['repair_summary']['issues'],['malformed_json'])
+        self.assertEqual(repair['repair_summary']['invalid_response'],malformed)
+        self.assertEqual(out.getvalue(),'');self.assertTrue(result['summary'].startswith('Fiction :'))
+        self.assertNotIn('PRIVATE_MALFORMED_SENTINEL',result['body'])
+
+    def test_two_invalid_summary_responses_stop_before_reflection_or_publication(self):
+        invalid=json.dumps({'summary':'Trop court','narrative_delta':{'events':'invalid'}})
+        outputs=story_outputs()[:4]+[invalid,invalid];calls=[]
+        with self.assertRaises(personal.GenerationFailure) as caught:
+            personal.generate(job('story'),lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        self.assertEqual((caught.exception.stage,caught.exception.code),('summary','validation_error'))
+        self.assertEqual([c['stage'] for c in calls],['orientation','planning','drafting','review','summary','summary'])
+        issues=json.loads(calls[-1]['user_prompt'])['repair_summary']['issues']
+        self.assertEqual(set(issues),{'summary_length','delta_schema'})
+
+    def test_summary_repair_respects_existing_cumulative_call_budget(self):
+        j=job('story');j['request']={'provider_calls':19};calls=[]
+        adapter=personal.Adapter(j,lambda _,p:(calls.append(p) or {'content':'{"summary":"short"}'}));adapter.stage='summary'
+        with self.assertRaises(RuntimeError):personal.summarize_final_story(j,personal.story_context_v2(j),body(),adapter,4000)
+        self.assertEqual(len(calls),1);self.assertEqual(adapter.error_code,'quota_exceeded')
+
     def test_worker_usage_contract_accumulates_observed_tokens_and_cost(self):
         adapter=personal.Adapter(job('story'),lambda _,payload:{
             'content':'{}','usage':{'input_tokens':123,'output_tokens':456,'observed_cost':.001}})
