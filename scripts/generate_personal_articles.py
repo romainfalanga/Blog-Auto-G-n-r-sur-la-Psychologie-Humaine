@@ -1010,7 +1010,7 @@ def editorial_body_issues(body):
     if re.search(r'<!--|<\s*(?:script|style)\b',body,re.I):issues.append('hidden_technical_content')
     if re.search(r'\b(?:notice[ _]and[ _]name|notice_name|grounding|assertive[ _]limit|unhooking)\b',normalized):
         issues.append('untranslated_jargon')
-    if re.search(r'\b(?:la continuite (?:reste|est|demeure) (?:intacte|respectee|preservee)|progres force|issue plausible|le canon (?:reste|est)|respect(?:er|e|ant) (?:le brief|les consignes)|sans promesse (?:de resultat )?therapeutique|la scene se conclut|metadonnees|version des sources)\b',normalized):
+    if re.search(r'\b(?:la continuite (?:reste|est|demeure) (?:intacte|respectee|preservee)|progres force|issue plausible|le canon (?:reste|est)|respect(?:er|e|ant) (?:le brief|les consignes)|sans promesse (?:de resultat )?therapeutique|la scene se conclut|metadonnees|version des sources|scene incarnee|explications naturelles des pratiques|aux noms francais)\b',normalized):
         issues.append('editorial_instructions')
     # First-person dialogue is legitimate. First-person narration is not the
     # selected editorial contract. The exercise may contain an example phrase.
@@ -1187,13 +1187,15 @@ Chaque champ contient une à trois phrases concises.''',context,structured_token
     adapter.stage='drafting';adapter.purpose='writer'
     instruction='''Rédige un épisode privé fictif français : vise 1400 à 1800 mots pour respecter
 la borne vérifiée de 1000 à 2200 mots (hors métadonnées),
-avec au moins trois titres ##, une scène incarnée, des explications naturelles, un exercice facultatif et
-une conclusion. Raconte à la TROISIÈME PERSONNE : prénom puis il/elle selon le canon ; pas un journal
+avec au moins trois titres ## courts, propres aux moments ou aux repères du récit. Montre les gestes,
+dialogues et réactions du personnage ; explique les repères utiles sans les répéter dans plusieurs
+sections. Ajoute un exercice facultatif et une conclusion. Raconte à la TROISIÈME PERSONNE : prénom puis il/elle selon le canon ; pas un journal
 au « je ». Le « je » est réservé aux dialogues entre guillemets. Identité et relations du personnage reçu stables. Aucun genre, pays, famille imposés.
 Ne copie jamais les personnes ou événements réels. Aucune étude, citation savante ou diagnostic inventé.
 Aucun progrès thérapeutique obligatoire. La pédagogie reste dans les formulations du référentiel reçu ;
 aucune source supplémentaire inventée ou étude demandée pour le référencement. Emploie exclusivement
-les noms français des pratiques, expliqués simplement. Ne nomme pas des outils en anglais.
+les termes usuels des pratiques, expliqués simplement. N'évoque jamais la langue imposée ni la façon
+dont le texte a été rédigé. Ne nomme pas des outils en anglais.
 Après le séparateur, écris seulement le récit destiné au lecteur : aucun JSON, code, résumé technique,
 champ de métadonnées, ID, note de continuité ou commentaire sur le processus. Ne transforme pas les
 consignes « continuité », « issue plausible » ou « pas de progrès forcé » en phrases du récit.

@@ -176,6 +176,14 @@ class V2Tests(unittest.TestCase):
         with self.assertRaises(ValueError):personal.validate_story_body({'title':'JSON_RÉSUMÉ'},body())
         personal.validate_story_body({'title':'La réponse'},body()+'\n\n« Je préfère partir », dit Alix, avant de fermer la porte.')
 
+    def test_observed_prompt_echoes_cannot_pass_as_story_headings(self):
+        for snippet in ('## Une scène incarnée : les papiers sur la table',
+                        '## Explications naturelles des pratiques',
+                        'Elle utilisait trois pratiques simples, aux noms français.'):
+            with self.subTest(snippet=snippet):
+                self.assertIn('editorial_instructions',personal.editorial_body_issues(body()+'\n\n'+snippet))
+        self.assertNotIn('editorial_instructions',personal.editorial_body_issues(body()+'\n\n## Les papiers sur la table'))
+
     def test_one_editorial_repair_occurs_before_review_summary_and_publication(self):
         outputs=story_outputs();bad=outputs[2]+'\n\nJSON_RÉSUMÉ:\n{"personnage":"Alix"}\n\nLa continuité reste intacte, sans progrès forcé.';outputs.insert(2,bad);calls=[]
         result=personal.generate(job('story'),lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
