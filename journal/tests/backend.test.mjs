@@ -250,15 +250,15 @@ test('current state and reading preferences require explicit comments, with twel
 });
 
 
-test('real personal page URLs refresh safely with distinct HTTP titles',async()=>{
+test('real personal page URLs refresh safely with the site-only HTTP title',async()=>{
  const env={DB:database(),PUBLIC_ORIGIN:origin};
  const pages={'mes-histoires':'Mes histoires','mon-portrait':'Mon portrait','mon-compte':'Mon compte'};
  const a=await register(env,'pages-a@example.com'),b=await register(env,'pages-b@example.com');
  await like(env,a,0,'Private note belonging only to A');
- for(const [path,title] of Object.entries(pages))for(const suffix of ['', '/'])for(const cookie of [undefined,a.cookie,b.cookie]){
+ for(const path of Object.keys(pages))for(const suffix of ['', '/'])for(const cookie of [undefined,a.cookie,b.cookie]){
    const response=await request(env,'/'+path+suffix+'?article=category%2Fexample-1&like=1',{cookie});
    assert.equal(response.status,200);assert.equal(response.headers.get('location'),null);assert.match(response.headers.get('cache-control'),/no-store/);
-   const html=await response.text();assert.ok(html.includes('<title>'+title+' · Décode ton esprit</title>'));
+   const html=await response.text();assert.ok(html.includes('<title>Décode ton esprit</title>'));
    assert.equal(html.includes('Private note'),false);assert.equal(html.includes(a.user.email),false);
  }
  const head=await request(env,'/mon-portrait/',{method:'HEAD'});assert.equal(head.status,200);assert.equal(await head.text(),'');

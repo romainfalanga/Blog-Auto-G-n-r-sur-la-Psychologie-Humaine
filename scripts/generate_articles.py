@@ -2445,14 +2445,10 @@ def generate_character_tracking_page(personnages, matrix):
                 if resume:
                     lines.append(f'    <p class="parcours-resume">{resume}</p>')
 
-                if evolution:
-                    lines.append(f'    <div class="parcours-evolution">')
-                    lines.append(f'      <span class="evolution-label">\u00c9volution</span>')
-                    lines.append(f'      <p>{evolution}</p>')
-                    lines.append(f'    </div>')
+                # Evolution stays in the internal character registry, not on the public page.
 
                 if url:
-                    lines.append(f'    <a href="{url}" class="parcours-link">Lire l\'article complet &rarr;</a>')
+                    lines.append(f'    <a href="{url}" class="parcours-link">Lire</a>')
 
                 lines.append('  </div>')
 

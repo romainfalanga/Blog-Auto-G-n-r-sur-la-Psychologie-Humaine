@@ -104,23 +104,4 @@
     });
   }
 
-  var search = document.getElementById('character-search');
-  var filter = document.getElementById('character-keyword');
-  if (search && filter) {
-    var cards = Array.from(document.querySelectorAll('[data-character-search]'));
-    function normalized(value) { return String(value).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase(); }
-    function filterCharacters() {
-      var query = normalized(search.value), keyword = normalized(filter.value), count = 0;
-      cards.forEach(function (card) {
-        var text = normalized(card.dataset.characterSearch);
-        var show = (!query || text.includes(query)) && (!keyword || text.includes(keyword));
-        card.hidden = !show;
-        if (show) { count++; card.classList.add('is-visible'); }
-      });
-      document.getElementById('character-count').textContent = count + ' personnage' + (count > 1 ? 's' : '') + ' à explorer';
-    }
-    search.addEventListener('input', filterCharacters);
-    filter.addEventListener('change', filterCharacters);
-    filterCharacters();
-  }
 })();

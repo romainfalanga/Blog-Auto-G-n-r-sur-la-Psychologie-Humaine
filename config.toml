@@ -1,7 +1,7 @@
 baseURL = "https://decodetonesprit.fr/"
 languageCode = "fr"
 defaultContentLanguage = "fr"
-title = "Décode ton esprit — Comprends-toi grâce à la psychologie"
+title = "Décode ton esprit"
 
 [params]
   description = "Un blog de psychologie vulgarisée pour mieux se comprendre soi-même. Découvrez vos biais cognitifs, apprenez à gérer vos émotions et libérez-vous de vos schémas répétitifs."

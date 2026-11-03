@@ -28,7 +28,9 @@
   </div>
 
   <div class="perso-parcours-page">
-    {{ .Content }}
+    {{ $parcours := .Content | replaceRE `(?s)<div class="parcours-evolution">.*?</div>` "" }}
+    {{ $parcours = $parcours | replaceRE `(<a[^>]*class="parcours-link"[^>]*>).*?(</a>)` "${1}Lire${2}" }}
+    {{ $parcours | safeHTML }}
   </div>
 
   <aside class="journal-invitation journal-article-invitation">

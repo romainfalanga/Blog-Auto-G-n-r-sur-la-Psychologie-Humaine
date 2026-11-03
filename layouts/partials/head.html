@@ -1,12 +1,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{{/* ── Titre dynamique ── */}}
-{{- if .IsHome }}
-<title>{{ .Site.Title }}</title>
-{{- else }}
-<title>{{ .Title }} | {{ .Site.Params.siteName }}</title>
-{{- end }}
+<title>{{ .Site.Params.siteName }}</title>
 
 {{/* ── Meta description ── */}}
 <meta name="description" content="{{ .Description | default .Site.Params.description }}">
@@ -71,6 +66,8 @@
 <link rel="stylesheet" href="/css/style.css?v={{ readFile "static/css/style.css" | md5 }}">
 <script defer src="/js/article-likes.js?v={{ readFile "static/js/article-likes.js" | md5 }}"></script>
 <script defer src="/js/site-navigation.js?v={{ readFile "static/js/site-navigation.js" | md5 }}"></script>
+
+{{ if .IsHome }}<script defer src="/js/character-search.js?v={{ readFile "static/js/character-search.js" | md5 }}"></script>{{ end }}
 
 {{/* ── Schema.org WebSite (pour Sitelinks Search Box Google) ── */}}
 {{- if .IsHome }}

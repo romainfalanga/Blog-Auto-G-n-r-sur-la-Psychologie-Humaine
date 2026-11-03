@@ -345,7 +345,7 @@ async function routes(request,env) {
   const pageTitles={'/mes-histoires':'Mes histoires','/mon-portrait':'Mon portrait','/mon-compte':'Mon compte'};
   const pagePath=path.replace(/\/$/,'');
   if(['GET','HEAD'].includes(method)&&pageTitles[pagePath]) {
-    const page=HTML.replace(/<title>[^<]*<\/title>/,'<title>'+pageTitles[pagePath]+' · Décode ton esprit</title>');
+    const page=HTML.replace(/<title>[^<]*<\/title>/,'<title>Décode ton esprit</title>');
     return new Response(method==='HEAD'?null:page,{headers:{'Content-Type':'text/html; charset=utf-8'}});
   }
   if(['GET','HEAD'].includes(method)&&['/journal','/journal/'].includes(path)) {
