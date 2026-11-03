@@ -59,6 +59,14 @@ def story_outputs():
 
 
 class V2Tests(unittest.TestCase):
+    def test_worker_usage_contract_accumulates_observed_tokens_and_cost(self):
+        adapter=personal.Adapter(job('story'),lambda _,payload:{
+            'content':'{}','usage':{'input_tokens':123,'output_tokens':456,'observed_cost':.001}})
+        adapter(system_prompt='test',user_prompt='test')
+        adapter(system_prompt='test',user_prompt='test')
+        self.assertEqual((adapter.input_tokens,adapter.output_tokens),(246,912))
+        self.assertAlmostEqual(adapter.observed_cost,.002)
+
     def test_shared_provenance_fixtures_match_worker_contract(self):
         fixtures=json.loads((pathlib.Path(__file__).parent/'fixtures/portrait-provenance-v2.json').read_text())
         for fixture in fixtures:
