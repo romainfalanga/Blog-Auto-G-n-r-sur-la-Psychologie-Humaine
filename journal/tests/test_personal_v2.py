@@ -12,7 +12,7 @@ import run_journals as runner
 
 
 def source(sid='memory:user',text='Je souhaite explorer la colère.',explicit=True,revision=1):
-    kind=sid.split(':')[0];field={'memory':'text','person':'relationship_text','event':'description','feedback':'correction','like':'reason' if explicit else 'title'}[kind]
+    kind=sid.split(':')[0];field={'profile':'self_description','memory':'text','person':'relationship_text','event':'description','feedback':'correction','like':'reason' if explicit else 'title'}[kind]
     original=text;text=field+': '+text
     return {'id':sid,'type':kind,'revision':revision,'hash':hashlib.sha256(text.encode()).hexdigest(),'text':text,'explicit':explicit,'fields':{field:original},'fiction_use':'abstract'}
 
@@ -76,6 +76,38 @@ def story_outputs():
 
 
 class V2Tests(unittest.TestCase):
+    def test_self_description_is_supported_evidence_but_occupation_is_not_a_trait(self):
+        s=source('profile:user','Je me décris comme sensible aux conflits et je rumine parfois.')
+        j=job('portrait',s)
+        self.assertEqual(personal.canonical_sources(j),[s])
+        p=portrait(s);p['axes'][0].update(claim_type='declaration',confidence=.7)
+        personal.validate_portrait_v2(p,[s])
+        occupation=copy.deepcopy(s);occupation['fields']={'occupation':'Architecte'};occupation['text']='occupation: Architecte'
+        self.assertFalse(personal.is_personal_quote(occupation,'Architecte'))
+
+    def test_single_character_receives_life_stage_without_civil_identity_or_private_prose(self):
+        s=source('profile:user','PRIVATE_NARRATIVE je pense souvent en boucle.')
+        j=job('characters',s);j.update(missing_slots=[1],max_characters=1,
+            self_context={'age':27,'gender':'male','first_name':'PRIVATE_NAME','birth_date':'1999-01-01','occupation':'PRIVATE_JOB'})
+        calls=[];outputs=[json.dumps(guidance(s['id'])),json.dumps({'characters':[character_fixture(1,'Alix',[s['id']])]})]
+        result=personal.generate(j,lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        self.assertEqual(len(result['characters']),1)
+        designer=json.loads(calls[-1]['user_prompt'])
+        self.assertEqual(designer['life_context'],{'age_band':'18–29 ans','declared_gender':'male'})
+        for marker in ('PRIVATE_NARRATIVE','PRIVATE_NAME','1999-01-01','PRIVATE_JOB'):
+            self.assertNotIn(marker,calls[-1]['user_prompt'])
+        j['missing_slots']=[1,2]
+        with self.assertRaises(ValueError):personal.validate_characters_v2([character_fixture(1,'Alix',[s['id']]),character_fixture(2,'Noa',[s['id']])],j)
+
+    def test_self_description_is_analyzed_but_not_replayed_as_fiction(self):
+        s=source('profile:user','PRIVATE_SELF_SCENE Je voudrais éviter les disputes dans les transports.')
+        j=job('story',s);outputs=story_outputs();outputs[0]=json.dumps(guidance(s['id']));calls=[]
+        personal.generate(j,lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        self.assertIn('PRIVATE_SELF_SCENE',calls[0]['user_prompt'])
+        self.assertNotIn('PRIVATE_SELF_SCENE',calls[1]['user_prompt'])
+        self.assertNotIn('PRIVATE_SELF_SCENE',calls[2]['user_prompt'])
+        with self.assertRaises(ValueError):personal.assert_no_private_reuse(s['fields']['self_description'],j)
+
     def test_raw_sources_never_reach_fiction_planning_writing_or_character_design(self):
         marker='ATELIER_ZEPHYR_1998_PERSONNE_TEMOIN'
         s=source('event:e','Chez mon père, '+marker+', j’ai montré un dessin imparfait à Nantes.')
@@ -90,7 +122,7 @@ class V2Tests(unittest.TestCase):
         j['kind']='characters';result={'characters':[character_fixture(i,name,[s['id']]) for i,name in [(1,'Alix'),(2,'Sam'),(3,'Noa')]]};calls=[]
         personal.generate(j,lambda _,p:(calls.append(p) or {'content':json.dumps(guidance(s['id']) if p['stage']=='orientation' else result)}))
         self.assertIn(marker,calls[0]['user_prompt']);self.assertNotIn(marker,calls[-1]['user_prompt'])
-        self.assertIn('DIFFÉRENTES',calls[-1]['system_prompt'])
+        self.assertIn('missing_slots',calls[-1]['system_prompt'])
 
     def test_orientation_rejects_arbitrary_personal_prose_before_any_fiction_call(self):
         result=guidance();result['orientations'][0]['label']='Le père peint dans son atelier privé'

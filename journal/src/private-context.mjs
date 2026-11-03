@@ -7,7 +7,7 @@ export async function loadContext(env,userId,decorateLikes=x=>x) {
  // one SQLite cell. Retry if any source changed during the snapshot reads.
  let row,likes,feedback,people,events,exposures;
  for(let attempt=0;attempt<4;attempt++){
-  row=await env.DB.prepare(`SELECT p.version AS source_version,m.text AS memory_text,m.version AS memory_version,up.portrait,up.analyzed_version,up.schema_version,up.updated_at,s.status AS subscription_status,s.paid_until FROM profiles p JOIN memories m ON m.user_id=p.user_id JOIN subscriptions s ON s.user_id=p.user_id LEFT JOIN user_portraits up ON up.user_id=p.user_id WHERE p.user_id=?`).bind(userId).first();
+  row=await env.DB.prepare(`SELECT p.version AS source_version,p.self_data,p.self_revision,m.text AS memory_text,m.version AS memory_version,up.portrait,up.analyzed_version,up.schema_version,up.updated_at,s.status AS subscription_status,s.paid_until FROM profiles p JOIN memories m ON m.user_id=p.user_id JOIN subscriptions s ON s.user_id=p.user_id LEFT JOIN user_portraits up ON up.user_id=p.user_id WHERE p.user_id=?`).bind(userId).first();
   if(!row)return null;
   const queries=[
    'SELECT article_id,reason,differences,revision,created_at,updated_at FROM article_likes WHERE user_id=? ORDER BY created_at,article_id',
@@ -23,8 +23,13 @@ export async function loadContext(env,userId,decorateLikes=x=>x) {
   if(attempt===3){const error=new Error('Le contexte change trop rapidement. Réessayez.');error.status=409;error.code='context_changed';throw error;}
  }
  const context={source_version:row.source_version,portrait_version:row.schema_version===2?(row.analyzed_version||0):0,updated_at:row.updated_at||null,paid:row.subscription_status==='active'&&Number(row.paid_until)>Date.now()/1000,likes:decorateLikes(likes),feedback,people,exposures,events:events.map(e=>({...e,people_ids:parse(e.people_ids,[])})),memory:{text:row.memory_text,version:row.memory_version},portrait:row.schema_version===2&&row.analyzed_version===row.source_version?parse(row.portrait,null):null};
+ const self=parse(row.self_data),narrativeKeys=['self_description','self_perception','recurring_patterns','emotions','current_context'];
+ context.has_self_description=narrativeKeys.some(k=>typeof self[k]==='string'&&self[k].trim());
+ const today=new Date().toISOString().slice(0,10),birth=self.birth_date;
+ context.self_context={age:birth?Number(today.slice(0,4))-Number(birth.slice(0,4))-(today.slice(5)<birth.slice(5)?1:0):null,gender:self.gender||'',gender_description:self.gender_description||'',occupation:self.occupation||''};
  const sources=[];
  const add=(id,type,revision,fields,extra={})=>{const text=Object.entries(fields).filter(([,v])=>typeof v==='string'&&v.trim()).map(([k,v])=>`${k}: ${v}`).join('\n');if(text)sources.push({id,type,revision,text,fields,explicit:true,temporal:null,fiction_use:'abstract',created_at:null,updated_at:null,...extra});};
+ if(context.has_self_description)add('profile:'+userId,'profile',row.self_revision,Object.fromEntries([...narrativeKeys,'occupation'].map(k=>[k,self[k]||''])));
  for(const l of context.likes)add('like:'+l.article_id,'like',l.revision,{title:l.title||l.article_id,article_summary:l.summary||'',subject:l.sujet||'',reason:l.reason,differences:l.differences},{explicit:Boolean(l.reason.trim()||l.differences.trim()),created_at:l.created_at,updated_at:l.updated_at});
  if(context.memory.text.trim())add('memory:'+userId,'memory',context.memory.version,{text:context.memory.text});
  for(const p of context.people)if(p.relationship_text.trim())add('person:'+p.id,'person',p.revision,{role:p.role,custom_role:p.custom_role,relationship_text:p.relationship_text},{created_at:p.created_at,updated_at:p.updated_at,temporal:{start:p.period_start,end:p.period_end}});
@@ -40,7 +45,7 @@ export function validatePortraitV2(value,sources,fail) {
  if(!value||value.schema_version!==2||value.fictional_character!==undefined)invalid('Un portrait V2 sourcé est requis.');
  const clean=(v,max)=>{if(typeof v!=='string'||!v.trim()||v.length>max)invalid('Texte du portrait invalide.');return v.trim();};
  const allowed=new Map(sources.map(s=>[s.id,s])),proofs=new Set(),personalProofs=new Set();
- const personalQuote=(s,quote)=>{const keys={like:['reason','differences'],person:['relationship_text'],event:['description','meaning_now'],feedback:['feelings','why','differences','correction','preference','avoid'],memory:['text']}[s.type]||[];const start=s.text.indexOf(quote),end=start+quote.length;return keys.some(k=>{const value=s.fields?.[k];if(!value?.trim())return false;const pos=s.text.indexOf(k+': '+value)+k.length+2;return Math.min(end,pos+value.length)-Math.max(start,pos)>=Math.min(8,value.trim().length);});};
+ const personalQuote=(s,quote)=>{const keys={like:['reason','differences'],person:['relationship_text'],event:['description','meaning_now'],feedback:['feelings','why','differences','correction','preference','avoid'],profile:['self_description','self_perception','recurring_patterns','emotions','current_context'],memory:['text']}[s.type]||[];const start=s.text.indexOf(quote),end=start+quote.length;return keys.some(k=>{const value=s.fields?.[k];if(!value?.trim())return false;const pos=s.text.indexOf(k+': '+value)+k.length+2;return Math.min(end,pos+value.length)-Math.max(start,pos)>=Math.min(8,value.trim().length);});};
  if(!Array.isArray(value.citations)||!value.citations.length||value.citations.length>500)invalid('Citations requises.');
  const citations=value.citations.map(p=>{const source=allowed.get(p?.source_id),quote=clean(p?.quote,1200);if(!source||p.revision!==source.revision||!source.text.includes(quote))invalid('Citation absente ou révision périmée.');proofs.add(p.source_id);if(source.explicit&&personalQuote(source,quote))personalProofs.add(p.source_id);return {source_id:p.source_id,revision:p.revision,quote};});
  const evidence=(ids,explicit=false)=>{if(!Array.isArray(ids)||!ids.length||ids.length>50||ids.some(id=>!proofs.has(id)||explicit&&!personalProofs.has(id)))invalid('Preuves du portrait invalides.');return [...new Set(ids)];};

@@ -29,3 +29,9 @@ test('thirty French annotated scenarios reference existing unliked catalogue art
 test('all 231 catalogue entries carry faithful extractive metadata and content hashes',()=>{assert.equal(EXAMPLES.length,231);for(const e of EXAMPLES){assert.equal(e.catalogue_version,2);assert.match(e.content_hash,/^[a-f0-9]{64}$/);assert(e.summary_evidence.length);assert(e.summary_evidence.every(q=>e.summary.includes(q.quote)));assert.equal(e.summary_method,'extractive_opening_and_final_scene');}});
 
 test('ambiguous double negation inside avoidance field never creates a hard filter',()=>{const a=r({memory:{text:'Je souhaite lire sur la colère.'},feedback:[{story_id:'s',avoid:'Je ne veux pas éviter la colère.'}]});assert(a.some(x=>x.id==='anger'));assert.equal(classifyText('Je veux éviter le deuil.')[0].kind,'difference');});
+
+test('typed self-description influences recommendations alongside likes while civil identity and occupation do not',()=>{
+ const source={id:'profile:u',type:'profile',explicit:true,fields:{self_description:'Je souhaite explorer la colère.',occupation:'Deuil'},text:'self_description: Je souhaite explorer la colère.\noccupation: Deuil'};
+ for(const likes of [[],[{article_id:'seed'}]]){const picks=r({likes,sources:[source],self_context:{age:40,gender:'female',occupation:'Deuil'},profile:{first_name:'Deuil'}});assert.equal(picks[0].id,'anger');assert.equal(picks[0].reason_sources[0].source_id,'profile:u');assert(!picks.some(x=>x.id==='grief'));}
+ assert.deepEqual(r({sources:[{...source,fields:{occupation:'Deuil'},text:'occupation: Deuil'}]}),[]);
+});

@@ -1,16 +1,16 @@
 # Décode ton esprit
 
-Site : https://decodetonesprit.fr. Pages personnelles : `/mon-portrait/`, `/mes-personnages/` et `/mon-compte/`. Les anciens liens `/mes-histoires/` restent valides.
+Site : https://decodetonesprit.fr. Pages personnelles : `/mon-portrait/`, `/mes-proches/`, `/ma-ligne-de-vie/`, `/mon-personnage/` et `/mon-compte/`. Les anciens liens `/mes-histoires/` et `/mes-personnages/` restent valides.
 
 L'accueil conserve les 231 articles et 20 personnages publics. Une barre de recherche combine mots-clés, formulations proches et suggestions ; les cartes restent stables à la fermeture des suggestions.
 
 ## Personnalisation
 
-Dans **Mon portrait**, chacun peut aimer des lectures, préciser ce qui lui ressemble ou non, décrire ses proches et leurs relations, et ajouter des événements à une ligne de vie. Les dates peuvent être approximatives. Toutes ces informations sont facultatives ; un contexte personnel explicite suffit à démarrer la personnalisation sans like. Un nom ou un rôle seul ne suffit pas.
+Dans **Mon portrait**, chacun se présente avec ses propres mots : perception de soi, émotions, schémas récurrents et contexte actuel. Le questionnaire d’identité est facultatif. Les déclarations alimentent le portrait et les recommandations ; nom, prénom et date de naissance exacte restent hors des prompts IA. L’âge et le genre servent de contexte, jamais de preuve psychologique. **Mes proches** et **Ma ligne de vie** sont deux pages autonomes. Les dates des événements peuvent rester approximatives.
 
 Le portrait distingue déclarations, hypothèses et intérêts de lecture. Ses éléments sont rattachés aux sources originales et à leur révision. Une correction ou suppression invalide les anciennes déductions ; la fiction ne devient jamais une biographie réelle. Les recommandations exploitent séparément résonance, différences, préférences de lecture et sujets à éviter.
 
-**Mes personnages** propose trois identités fictives stables avec des histoires indépendantes. L'abonné choisit celle qu'il souhaite continuer. Sept histoires sont disponibles par semaine civile, du lundi à minuit au lundi suivant en Europe/Paris, partagées entre les trois personnages, sans report. La demande réserve un crédit ; seule la publication le consomme. Les anciennes histoires et leurs retours sont conservés.
+**Mon personnage** propose une seule identité fictive stable et une histoire suivie. Son démarrage nécessite un abonnement actif, dix articles aimés, au moins un texte de présentation personnelle et un portrait analysé à jour. Sept histoires sont disponibles par semaine civile, du lundi à minuit au lundi suivant en Europe/Paris, sans report. La demande réserve un crédit ; seule la publication le consomme. Les personnages secondaires de l’ancienne version restent en archives, avec leurs histoires et retours ; ils ne génèrent plus de nouveaux épisodes.
 
 Le tarif prévu reste 10 EUR/mois et le seuil de nouvelle souscription reste dix articles aimés. Le paiement dépend de la configuration Stripe ; ne pas confondre une interface publiée avec un encaissement activé.
 

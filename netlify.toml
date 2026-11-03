@@ -27,6 +27,73 @@
   force = true
 
 # Routes personnelles : proxifier les deux formes sans redirection de slash.
+
+[[redirects]]
+  from = "/mon-personnage"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mon-personnage/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/mon-personnage/*"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mon-personnage/:splat"
+  status = 200
+  force = true
+
+[[headers]]
+  for = "/mon-personnage"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+[[headers]]
+  for = "/mon-personnage/*"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+[[redirects]]
+  from = "/mes-proches"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mes-proches/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/mes-proches/*"
+  to = "https://decode-journal.romainfalanga83.workers.dev/mes-proches/:splat"
+  status = 200
+  force = true
+
+[[headers]]
+  for = "/mes-proches"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+[[headers]]
+  for = "/mes-proches/*"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+[[redirects]]
+  from = "/ma-ligne-de-vie"
+  to = "https://decode-journal.romainfalanga83.workers.dev/ma-ligne-de-vie/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/ma-ligne-de-vie/*"
+  to = "https://decode-journal.romainfalanga83.workers.dev/ma-ligne-de-vie/:splat"
+  status = 200
+  force = true
+
+[[headers]]
+  for = "/ma-ligne-de-vie"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
+[[headers]]
+  for = "/ma-ligne-de-vie/*"
+  [headers.values]
+    Cache-Control = "private, no-store"
+
 [[redirects]]
   from = "/mes-personnages"
   to = "https://decode-journal.romainfalanga83.workers.dev/mes-personnages/"

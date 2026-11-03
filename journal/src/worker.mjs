@@ -166,8 +166,8 @@ async function routes(request,env) {
   const url=new URL(request.url),path=url.pathname,method=request.method;
   if(method==='GET'&&path==='/') return Response.redirect('https://decodetonesprit.fr/',302);
   if(['GET','HEAD'].includes(method)&&['/mes-articles','/mes-articles/'].includes(path)) return Response.redirect(new URL('/mon-portrait/'+url.search+'#mes-articles',env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
-  if(['GET','HEAD'].includes(method)&&['/mes-histoires','/mes-histoires/'].includes(path)) return Response.redirect(new URL('/mes-personnages/'+url.search,env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
-  const pageTitles={'/mes-personnages':'Mes personnages','/mon-portrait':'Mon portrait','/mon-compte':'Mon compte'};
+  if(['GET','HEAD'].includes(method)&&['/mes-histoires','/mes-histoires/','/mes-personnages','/mes-personnages/'].includes(path)) return Response.redirect(new URL('/mon-personnage/'+url.search,env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
+  const pageTitles={'/mon-personnage':'Mon personnage','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mon-portrait':'Mon portrait','/mon-compte':'Mon compte'};
   const pagePath=path.replace(/\/$/,'');
   if(['GET','HEAD'].includes(method)&&pageTitles[pagePath]) {
     const page=HTML.replace(/<title>[^<]*<\/title>/,'<title>Décode ton esprit</title>');
@@ -175,7 +175,7 @@ async function routes(request,env) {
   }
   if(['GET','HEAD'].includes(method)&&['/journal','/journal/'].includes(path)) {
     const tab=url.searchParams.get('tab');
-    const destination=url.searchParams.has('payment')?'/mon-compte/':url.searchParams.has('story')?'/mes-personnages/':url.searchParams.has('article')||url.searchParams.has('character')||tab==='likes'?'/mon-portrait/':tab==='portrait'?'/mon-portrait/':tab==='account'?'/mon-compte/':'/mes-personnages/';
+    const destination=url.searchParams.has('payment')?'/mon-compte/':url.searchParams.has('story')?'/mon-personnage/':url.searchParams.has('article')||url.searchParams.has('character')||tab==='likes'?'/mon-portrait/':tab==='portrait'?'/mon-portrait/':tab==='account'?'/mon-compte/':'/mon-personnage/';
     return Response.redirect(new URL(destination+url.search+(destination==='/mon-portrait/'&&(url.searchParams.has('article')||url.searchParams.has('character')||tab==='likes')?'#mes-articles':''),env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
   }
   if(method==='GET'&&path==='/api/examples') return json({examples:EXAMPLES.map(({id,title,url,character,description,keywords,character_keywords,sujet,category})=>({id,title,url,character,description,keywords:keywords||[],character_keywords:character_keywords||[],sujet:sujet||'',category:category||''}))});

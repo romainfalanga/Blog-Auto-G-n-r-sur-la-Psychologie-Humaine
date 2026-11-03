@@ -132,3 +132,38 @@ test('a second continuation action is ignored while the first response is pendin
   await env.ctx.continueCharacter({id:'c2',last_story_id:null},env.doc.createElement('button'));
   assert.equal(calls.length,1);reject(new Error('network'));await first;assert.equal(env.ctx.state.characterRequestPending,false);
 });
+
+test('V3 separates relationship and life pages from the declared and interpreted portrait',()=>{
+  const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('pageForPath'),env.ctx);
+  assert.equal(env.ctx.pageForPath('/mes-proches'),'people');assert.equal(env.ctx.pageForPath('/ma-ligne-de-vie/'),'events');assert.equal(env.ctx.pageForPath('/mon-personnage/'),'journal');
+  assert.doesNotMatch(functionCode('renderPortrait'),/renderPersonalSources/);
+  assert.match(functionCode('renderPortrait'),/renderSelfProfile/);
+  assert.match(HTML,/Mon portrait déclaré/);assert.match(HTML,/L’interprétation de votre portrait par l’IA/);
+  assert.doesNotMatch(HTML,/Trois personnages|trois personnages|\[1,2,3\]\.forEach/);
+});
+
+test('self presentation retains the full draft and original revision on 409 conflict',async()=>{
+  let sent;const env=environment({api:async(path,method,payload)=>{if(!method)return {profile:{self_description:'Ma présentation',occupation:'Mon métier'},revision:4};sent=payload;const error=new Error('conflit');error.status=409;throw error;},location:{hash:''}});
+  env.host('self-profile');vm.runInContext(functionCode('status')+'\n'+functionCode('renderSelfProfile'),env.ctx);await env.ctx.renderSelfProfile();
+  const form=env.doc.getElementById('self-profile-form');field(form,'self_description','Mon texte personnel complet');await form.fire('input');await form.fire('submit');
+  assert.equal(sent.expected_revision,4);assert.equal(sent.self_description,'Mon texte personnel complet');assert.equal(sent.occupation,'Mon métier');
+  assert.equal(env.ctx.state.selfDraft.self_description,'Mon texte personnel complet');assert.equal(env.ctx.state.selfRevision,4);
+  assert.match(env.doc.getElementById('self-profile-status').textContent,/brouillon est conservé/);
+  assert.equal(form.elements.self_description.maxLength,10000);assert.equal(form.elements.current_context.maxLength,4000);assert.equal(form.elements.gender.required,undefined);
+  assert.equal('relationship_text' in sent,false);assert.equal('consent' in sent,false);
+});
+
+test('self presentation keeps edits typed during a save with the new revision',async()=>{
+  let resolve;const pending=new Promise(r=>resolve=r);const env=environment({api:async(path,method)=>method?pending:{profile:{self_description:'Avant'},revision:2},location:{hash:''}});
+  env.host('self-profile');vm.runInContext(functionCode('status')+'\n'+functionCode('renderSelfProfile'),env.ctx);await env.ctx.renderSelfProfile();
+  const form=env.doc.getElementById('self-profile-form');const saving=form.fire('submit');field(form,'self_description','Après');await form.fire('input');resolve({profile:{self_description:'Avant'},revision:3});await saving;
+  assert.equal(env.ctx.state.selfRevision,3);assert.equal(env.ctx.state.selfDraft.self_description,'Après');assert.match(env.doc.getElementById('self-profile-status').textContent,/restent à sauvegarder/);
+});
+
+test('one active character is gated by readiness and archives have no continuation action',()=>{
+  const env=environment();env.host('character-cards');Object.assign(env.ctx.state,{me:{subscription:{active:true}},archivedCharacters:[{id:'old'}],characters:[{id:'active',identity:{name:'Nina'}},{id:'ignored'}],selectedCharacter:'active',characterData:{readiness:{eligible:false},quota:{remaining:7}}});
+  vm.runInContext(functionCode('characterName')+'\n'+functionCode('characterEligible')+'\n'+functionCode('drawCharacterCards'),env.ctx);
+  env.ctx.drawCharacterCards();let cards=env.doc.getElementById('character-cards');assert.equal(cards.children.length,1);assert.equal(cards.querySelector('[data-continue-character]').disabled,true);
+  env.ctx.state.characterData.readiness.eligible=true;env.ctx.drawCharacterCards();assert.equal(cards.querySelector('[data-continue-character]').disabled,false);
+  env.ctx.state.selectedCharacter='old';env.ctx.drawCharacterCards();assert.equal(cards.querySelector('[data-continue-character]'),null);assert.match(cards.textContent,/Revenir à mon personnage actif/);
+});

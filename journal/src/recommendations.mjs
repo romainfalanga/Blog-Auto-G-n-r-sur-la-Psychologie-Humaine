@@ -60,6 +60,7 @@ export function createRecommender(examples){
    source('like:'+id+':differences',l.differences,'difference',1.5,l.updated_at);
    for(const label of e.keywords){const key=normalize(label),x=evidence.get(key)||{label,ids:[]};if(!x.ids.includes(id))x.ids.push(id);evidence.set(key,x);}
   }
+  for(const s of context.sources||[])if(s.type==='profile')for(const key of ['self_description','self_perception','recurring_patterns','emotions','current_context'])source(s.id,s.fields?.[key],'declared',3,s.updated_at);
   source('memory',context.memory?.text,'declared',3,context.memory?.updated_at);
   for(const person of context.people||context.personal_people||[])source('person:'+person.id,person.relationship_text,'declared',3,person.updated_at);
   for(const e of context.life_events||context.events||[]){source('event:'+e.id,e.description,'declared',3,e.updated_at);source('event:'+e.id+':meaning',e.meaning_now,'declared',3,e.updated_at);}
@@ -77,7 +78,7 @@ export function createRecommender(examples){
   // Typed originals are useful when a caller supplies only the canonical snapshot.
   if(!likes.length&&!context.memory?.text&&!(context.people||context.personal_people||[]).length&&!(context.life_events||context.events||[]).length&&!(context.feedback||[]).length){
    for(const s of context.sources||[]){
-    if(s.type==='like')continue;
+    if(s.type==='like'||s.type==='profile')continue;
     source(s.id,s.text,s.kind==='difference'?'difference':'declared',3,s.updated_at);
    }
   }

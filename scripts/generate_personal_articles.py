@@ -435,7 +435,7 @@ def canonical_sources(job):
     for source in sources:
         if not isinstance(source,dict):raise ValueError('validation_error')
         sid=source.get('id');kind=source.get('type')
-        if not isinstance(sid,str) or kind not in ('like','feedback','memory','person','event') or not sid.startswith(kind+':') or sid in seen:
+        if not isinstance(sid,str) or kind not in ('like','feedback','memory','person','event','profile') or not sid.startswith(kind+':') or sid in seen:
             raise ValueError('validation_error')
         seen.add(sid)
         if not isinstance(source.get('text'),str) or not source['text'].strip() or not isinstance(source.get('revision'),int):
@@ -459,10 +459,25 @@ def portrait_claims(p):
     return claims
 
 
+SELF_DESCRIPTION_FIELDS=('self_description','self_perception','recurring_patterns','emotions','current_context')
+
+
+def safe_life_context(job):
+    """Only declared demographic context; never civil identity or trait evidence."""
+    data=job.get('self_context') or {}
+    output={}
+    age=data.get('age')
+    if isinstance(age,(int,float)) and not isinstance(age,bool) and 0<=age<=130:
+        output['age_band']='moins de 18 ans' if age<18 else '18–29 ans' if age<30 else '30–44 ans' if age<45 else '45–59 ans' if age<60 else '60–74 ans' if age<75 else '75 ans et plus'
+    if data.get('gender') in ('female','male','non_binary'):
+        output['declared_gender']=data['gender']
+    return output
+
+
 def is_personal_quote(source,quote):
     fields={'like':('reason','differences'),'person':('relationship_text',),
             'event':('description','meaning_now'),'feedback':('feelings','why','differences','correction','preference','avoid'),
-            'memory':('text',)}.get(source['type'],())
+            'memory':('text',),'profile':SELF_DESCRIPTION_FIELDS}.get(source['type'],())
     start=source['text'].find(quote);end=start+len(quote)
     for field in fields:
         value=source.get('fields',{}).get(field)
@@ -596,7 +611,7 @@ Pour source type like sans explication, uniquement interest, jamais biographie.'
     data={'derivatives':[cached[sid] for sid in processed],
           'source_manifest':job.get('source_manifest'),
           'coverage':{'processed':processed,'pending':unprocessed},
-          'source_version':job.get('source_version')}
+          'source_version':job.get('source_version'),'life_context':safe_life_context(job)}
     adapter.stage='portrait'
     p=ask(adapter,'''Construis le portrait V2 uniquement depuis les sources autorisées.
 Chaque phrase de synthèse, force, état ou préférence doit être sourcée avec une citation exacte et sa
@@ -607,6 +622,9 @@ prime sur la même affirmation et la même période ; le présent n'efface pas u
 Une double négation ambiguë ne crée jamais une préférence d'évitement ferme. Les ressources et
 événements positifs comptent aussi. Ne pose aucun diagnostic ni causalité cachée. Les sources sont
 attribuées au point de vue de la personne. Aucune ancienne prose n'est une preuve autonome.
+Les sources profile expriment comment la personne se décrit : attribue cette perception à son auteur,
+sans la transformer en diagnostic ni en vérité établie. L'âge et le genre de life_context servent
+seulement à situer la période de vie ; ils ne prouvent aucun trait, émotion ou schéma psychologique.
 Renvoie exactement un objet conforme à ce schéma : '''+PORTRAIT_SCHEMA+'''
 Optionnels seulement si explicitement soutenus : current_state/evolution {summary,evidence},
 reading_preferences {preferred:[{label,evidence}],avoid:[{label,evidence}]}.
@@ -688,7 +706,8 @@ def fiction_analysis_context(job):
     portrait['reading_preferences']={key:[item for item in portrait.get('reading_preferences',{}).get(key,[]) if safe(item.get('evidence',[]))] for key in ('preferred','avoid')}
     portrait['citations']=[item for item in portrait.get('citations',[]) if item.get('source_id') in allowed]
     portrait.pop('uncertainties',None)
-    data={'sources':sources,'portrait':portrait,'reading_preferences':portrait['reading_preferences']}
+    data={'sources':sources,'portrait':portrait,'reading_preferences':portrait['reading_preferences'],
+          'life_context':safe_life_context(job)}
     if len(json.dumps(data,ensure_ascii=False))>350000:raise ValueError('quota_exceeded')
     return data
 
@@ -699,7 +718,7 @@ def analytical_reading_constraints(job):
     analytical=fiction_analysis_context(job)
     constraints=[]
     for source in analytical['sources']:
-        keys=('text',) if source['type']=='memory' else ('correction','preference','avoid') if source['type']=='feedback' else ()
+        keys=('text',) if source['type']=='memory' else ('correction','preference','avoid') if source['type']=='feedback' else SELF_DESCRIPTION_FIELDS if source['type']=='profile' else ()
         fields={key:source.get('fields',{}).get(key) for key in keys if source.get('fields',{}).get(key)}
         if fields:constraints.append({'source_id':source['id'],'fields':fields})
     return {'constraints':constraints,'reading_preferences':analytical['reading_preferences']}
@@ -719,7 +738,8 @@ def assert_no_private_reuse(candidate,job,existing_text=''):
     private=[]
     for source in job.get('sources',[]):
         keys={'like':('reason','differences'),'memory':('text',),'person':('relationship_text',),
-              'event':('description','meaning_now'),'feedback':('feelings','why','differences','correction','preference','avoid')}.get(source.get('type'),())
+              'event':('description','meaning_now'),'feedback':('feelings','why','differences','correction','preference','avoid'),
+              'profile':SELF_DESCRIPTION_FIELDS+('occupation',)}.get(source.get('type'),())
         fields=source.get('fields',{})
         private.extend(value for key in keys if isinstance(value:=fields.get(key),str))
     for original in private:
@@ -815,6 +835,7 @@ def validate_characters_v2(characters,job):
     missing=set(job.get('missing_slots',[]));sources={s['id'] for s in job.get('sources',[]) if s.get('fiction_use')!='understanding_only'}
     existing=job.get('characters',[])
     if not isinstance(characters,list) or len(characters)!=len(missing):raise ValueError('validation_error')
+    if job.get('max_characters')==1 and (len(characters)>1 or len(missing)>1):raise ValueError('validation_error')
     names={str(c.get('identity',{}).get('name','')).casefold() for c in existing}
     slots=set();new_dimensions=[];new_descriptions=[]
     for old in existing:
@@ -861,18 +882,19 @@ def generate_characters_v2(job,adapter):
     if (job.get('portrait') or {}).get('schema_version')!=2:raise ValueError('validation_error')
     guidance=build_fiction_guidance(job,adapter)
     adapter.stage='characters'
-    data={'portrait':safe_fiction_portrait(job),'guidance':guidance,
+    data={'portrait':safe_fiction_portrait(job),'guidance':guidance,'life_context':safe_life_context(job),
           'identity_dimensions':{'story_domain':list(CHARACTER_DOMAINS),'social_setting':list(CHARACTER_SOCIAL_SETTINGS),'principal_resource':list(CHARACTER_RESOURCES)},
           'existing_characters':[safe_character(job,c) for c in job.get('characters',[])],
           'allowed_evidence_ids':[s['id'] for s in job.get('sources',[]) if s.get('fiction_use')!='understanding_only'],
           'missing_slots':job['missing_slots'], 'character_histories':job.get('character_histories',{})}
-    instruction='''Prépare ENSEMBLE seulement les slots fictifs manquants (1,2,3).
-Chaque personnage est une facette nuancée, jamais un diagnostic. Diversifie milieux, ressources,
-relations inventées et tensions ; pas trois catégories psychologiques prédéfinies.
+    instruction='''Prépare seulement les slots explicitement présents dans missing_slots.
+Pour la version à personnage unique, crée UNE identité fictive nuancée capable d'explorer plusieurs
+aspects du portrait dans une même histoire suivie. N'invente aucun autre slot ni personnage parallèle.
+Ce personnage n'est ni un diagnostic ni une copie autobiographique. Son âge et son genre peuvent
+refléter life_context s'il est renseigné, sans en déduire sa psychologie. L'identité déjà archivée prime.
 Pour chaque NOUVEAU personnage, choisis story_domain, social_setting et principal_resource parmi
-identity_dimensions. Les trois nouveaux personnages doivent avoir des valeurs DIFFÉRENTES sur
-CHACUNE de ces trois dimensions, réellement traduites dans leur description. Changer seulement
-le prénom ou une étiquette de métier ne suffit pas : pas trois créateurs ou artistes d'atelier.
+identity_dimensions. Si plusieurs slots sont explicitement demandés par un ancien job, leurs valeurs
+doivent être différentes sur chacune de ces dimensions. Ne reproduis pas le métier réel de la personne.
 Un thème tel que créativité est une ressource psychologique, pas une consigne de métier artistique.
 Données maigres :
 propositions exploratoires. Les identités existantes restent exactement stables ; ne les retourne pas.
@@ -888,8 +910,8 @@ fictive, milieu, relations inventées, motivations et ressources","story_domain"
 "description":"lien prudent avec les sources","evidence":["ID"]},"narrative_state":{
 "events":[],"relationships":[],"resources":[],"open_questions":[]}}]}.
 Chaque description est complète et stable. Ne change pas la vie d'un personnage pour la coller au vécu.
-Si allowed_evidence_ids est vide, aucune interprétation personnelle n'est admissible : propose trois
-identités purement fictives et distinctes, avec facet.exploratory=true, facet.evidence=[], un titre
+Si allowed_evidence_ids est vide, aucune interprétation personnelle n'est admissible : propose les seules
+identités demandées, purement fictives, avec facet.exploratory=true, facet.evidence=[], un titre
 concret différent pour chaque facette et une description indiquant que la proposition ne décrit pas le vécu. Sinon chaque
 preuve doit appartenir à allowed_evidence_ids. Ne récupère aucun ID exclu depuis coverage.
 N'emploie jamais le label littéral « perspective », « une possibilité » ou « piste exploratoire ».
@@ -985,7 +1007,7 @@ def story_context_v2(job):
     # writer receive the closed guidance produced by that analytical step.
     context={'source_version':job.get('source_version'),'canon_version':job.get('canon_version'),
              'expected_parent_id':job.get('expected_parent_id'),'character':character,
-             'portrait':safe_portrait,
+             'portrait':safe_portrait,'life_context':safe_life_context(job),
              'history_recent':recent,'history_retrieved':old,
              'history_count':len(history),
              'inspirations':[{'themes':abstract_labels(' '.join(e.get('keywords',[]))+' '+str(e.get('sujet','')))} for e in job.get('inspirations',[])[:3]],
