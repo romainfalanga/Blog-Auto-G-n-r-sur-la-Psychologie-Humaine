@@ -12,7 +12,7 @@ import urllib.parse
 import urllib.request
 import urllib.error
 
-from generate_personal_articles import generate, GenerationFailure
+from generate_personal_articles import generate, GenerationFailure, VALIDATION_CODES
 
 
 class TransportFailure(RuntimeError):
@@ -89,7 +89,10 @@ def main():
             failed+=1
             code=exc.code if isinstance(exc,GenerationFailure) else 'validation_error'
             stage=exc.stage if isinstance(exc,GenerationFailure) else 'completion'
-            print(f'Private job failed: stage={stage}, code={code}. Personal data omitted.')
+            checks=sorted({value for value in getattr(exc,'validation_codes',())
+                           if isinstance(value,str) and value in VALIDATION_CODES}) if isinstance(exc,GenerationFailure) else []
+            diagnostic=', checks='+','.join(checks) if checks else ''
+            print(f'Private job failed: stage={stage}, code={code}{diagnostic}. Personal data omitted.')
             try:
                 internal('/'+job['id']+'/fail',{'lease_token':job['lease_token'],'reason':code})
             except Exception:

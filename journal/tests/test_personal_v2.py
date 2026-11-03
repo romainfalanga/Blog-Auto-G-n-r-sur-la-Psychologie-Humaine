@@ -284,6 +284,74 @@ class V2Tests(unittest.TestCase):
         with self.assertRaises(RuntimeError):personal.summarize_final_story(j,personal.story_context_v2(j),body(),adapter,4000)
         self.assertEqual(len(calls),1);self.assertEqual(adapter.error_code,'quota_exceeded')
 
+    def test_post_edit_invalid_body_gets_one_repair_then_mandatory_coherence_check(self):
+        outputs=story_outputs();edits=[{'quote':'## '+title,'reason':'PRIVATE_REASON_NOT_FOR_WRITER','replacement':title} for title in ('La scène','Une autre lecture','Une pratique','La suite')]
+        outputs[3]=json.dumps(review(edits));outputs[4:4]=[body(),json.dumps(review())];calls=[]
+        result=personal.generate(job('story'),lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        self.assertEqual([c['stage'] for c in calls],['orientation','planning','drafting','review','correction','coherence','summary','reflection'])
+        repair=json.loads(calls[4]['user_prompt'])
+        self.assertEqual(repair['validation_codes'],['headings']);self.assertNotIn('## ',repair['body'])
+        self.assertIn('## La scène',repair['before_edit']);self.assertNotIn('PRIVATE_REASON_NOT_FOR_WRITER',calls[4]['user_prompt'])
+        self.assertNotIn('analytical_preferences',repair)
+        self.assertEqual(calls[4]['purpose'],'writer');self.assertEqual(calls[4]['max_tokens'],7000)
+        self.assertEqual(calls[5]['purpose'],'analyst');self.assertEqual(calls[5]['max_tokens'],4000)
+        self.assertEqual(json.loads(calls[5]['user_prompt'])['body'],result['body'])
+        self.assertEqual(json.loads(calls[6]['user_prompt'])['body'],result['body'])
+        personal.validate_story_body({'title':result['title']},result['body'])
+
+    def test_new_second_review_issue_gets_second_targeted_round_and_final_check(self):
+        outputs=story_outputs();old='Alix retrouve finalement la lettre et choisit de la conserver.'
+        middle='Alix retrouve finalement la lettre et choisit de la relire.'
+        final='Alix retrouve finalement la lettre et choisit de la ranger.'
+        first={'quote':old,'reason':'Nuance de continuité','replacement':middle}
+        second={'quote':middle,'reason':'Dernière nuance','replacement':final}
+        outputs[3]=json.dumps(review([first]));outputs[4]=outputs[4].replace('conserver','ranger')
+        outputs[4:4]=[json.dumps(review([second])),json.dumps(review())];calls=[]
+        result=personal.generate(job('story'),lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        self.assertEqual([c['stage'] for c in calls],['orientation','planning','drafting','review','coherence','coherence','summary','reflection'])
+        self.assertIn(middle,json.loads(calls[4]['user_prompt'])['body']);self.assertIn(final,json.loads(calls[5]['user_prompt'])['body'])
+        self.assertIn(final,result['body']);self.assertIn('ranger',result['summary'])
+
+    def test_unresolved_issues_after_two_rounds_stop_without_third_round_or_summary(self):
+        outputs=story_outputs();old='Alix retrouve finalement la lettre et choisit de la conserver.'
+        middle=old.replace('conserver','relire');final=old.replace('conserver','ranger')
+        reports=[review([{'quote':old,'reason':'Première nuance','replacement':middle}]),
+                 review([{'quote':middle,'reason':'Deuxième nuance','replacement':final}]),
+                 review([{'quote':final,'reason':'PRIVATE_UNRESOLVED_REASON','replacement':old}])]
+        outputs=outputs[:3]+[json.dumps(r) for r in reports];calls=[]
+        with self.assertRaises(personal.GenerationFailure) as caught:personal.generate(job('story'),lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        self.assertEqual([c['stage'] for c in calls],['orientation','planning','drafting','review','coherence','coherence'])
+        self.assertEqual(caught.exception.code,'coherence_error');self.assertEqual(caught.exception.validation_codes,('review_unresolved',))
+        self.assertNotIn('PRIVATE_UNRESOLVED_REASON',str(caught.exception))
+
+    def test_post_edit_body_repair_is_global_once_not_once_per_correction_round(self):
+        edits=[{'quote':'## '+title,'reason':'Retoucher','replacement':title} for title in ('La scène','Une autre lecture','Une pratique','La suite')]
+        outputs=story_outputs()[:3]+[json.dumps(review(edits)),body(),json.dumps(review(edits))];calls=[]
+        with self.assertRaises(personal.GenerationFailure) as caught:personal.generate(job('story'),lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        self.assertEqual([c['stage'] for c in calls],['orientation','planning','drafting','review','correction','coherence'])
+        self.assertEqual((caught.exception.stage,caught.exception.code),('correction','validation_error'))
+        self.assertEqual(caught.exception.validation_codes,('headings',))
+
+    def test_invalid_post_edit_repair_stops_with_safe_body_codes_and_no_private_logs(self):
+        import contextlib,io
+        edits=[{'quote':'## '+title,'reason':'Retoucher','replacement':title} for title in ('La scène','Une autre lecture','Une pratique','La suite')]
+        outputs=story_outputs()[:3]+[json.dumps(review(edits)),'PRIVATE_REPAIR_BODY_TOO_SHORT'];calls=[];log=io.StringIO()
+        with contextlib.redirect_stdout(log),self.assertRaises(personal.GenerationFailure) as caught:
+            personal.generate(job('story'),lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        self.assertEqual(caught.exception.validation_codes,('headings','word_count'))
+        self.assertEqual(str(caught.exception),'generation_failed');self.assertEqual(log.getvalue(),'')
+        self.assertEqual(calls[-1]['stage'],'correction')
+        filtered=personal.GenerationFailure('correction','validation_error',['headings','PRIVATE_BAD_CODE','headings',{'secret':'bad'}])
+        self.assertEqual(filtered.validation_codes,('headings',));self.assertIsInstance(filtered.validation_codes,tuple)
+
+    def test_post_edit_repair_keeps_private_copy_guard(self):
+        original='PRIVATE_SENTINEL_1987 dans mon atelier.';j=job('story',source(text=original))
+        edits=[{'quote':'## '+title,'reason':'Retoucher','replacement':title} for title in ('La scène','Une autre lecture','Une pratique','La suite')]
+        outputs=story_outputs()[:3]+[json.dumps(review(edits)),body()+'\n\n'+original];calls=[]
+        with self.assertRaises(personal.GenerationFailure) as caught:personal.generate(j,lambda _,p:(calls.append(p) or {'content':outputs.pop(0)}))
+        self.assertEqual(caught.exception.code,'coherence_error');self.assertEqual(calls[-1]['stage'],'correction')
+        self.assertNotIn('summary',[c['stage'] for c in calls])
+
     def test_worker_usage_contract_accumulates_observed_tokens_and_cost(self):
         adapter=personal.Adapter(job('story'),lambda _,payload:{
             'content':'{}','usage':{'input_tokens':123,'output_tokens':456,'observed_cost':.001}})

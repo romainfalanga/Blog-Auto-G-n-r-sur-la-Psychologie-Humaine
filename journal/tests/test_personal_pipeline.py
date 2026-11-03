@@ -195,6 +195,23 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(caught.exception.stage,'review')
         self.assertEqual(caught.exception.code,'validation_error')
 
+    def test_runner_logs_only_allowlisted_validation_codes(self):
+        calls=[]
+        def internal(path,payload):
+            calls.append((path,payload))
+            return {'jobs':[job()]} if len(calls)==1 else {'jobs':[]}
+        failure=personal.GenerationFailure('correction','validation_error')
+        # Defense in depth: even a malformed diagnostic property cannot put
+        # source text or a provider response in public Actions logs.
+        failure.validation_codes=('word_count','PRIVATE SOURCE MUST STAY PRIVATE',{},'word_count')
+        out=io.StringIO()
+        with patch.object(runner,'internal',side_effect=internal),patch.object(runner,'generate',side_effect=failure),contextlib.redirect_stdout(out):
+            self.assertEqual(runner.main(),1)
+        self.assertIn('stage=correction, code=validation_error, checks=word_count',out.getvalue())
+        self.assertNotIn('PRIVATE SOURCE',out.getvalue())
+        self.assertNotIn('private-lease',out.getvalue())
+        self.assertEqual(calls[1][1]['reason'],'validation_error')
+
 
 if __name__=='__main__':
     unittest.main()
