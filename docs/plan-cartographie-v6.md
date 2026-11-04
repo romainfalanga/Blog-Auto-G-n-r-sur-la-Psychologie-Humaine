@@ -43,3 +43,10 @@ La première exécution du workflow Python a rejeté une extraction ; les versio
 
 
 Un rejet sémantique peut maintenant relancer automatiquement une nouvelle synthèse prudente, dans la limite de trois tentatives. Une erreur fournisseur après synthèse conserve le candidat et reprend seulement le contrôle ; un rejet sémantique le supprime. Aucun candidat ne devient visible avant validation. La migration 0011 a été appliquée en production et sur la base de recette avec point de restauration préalable.
+
+
+### Recette finale en production
+
+Retour de nuance enregistré puis rejoué avec la même clé : aucun doublon et source_version identique. Après réanalyse, la piste « Exprimer ses limites » est devenue nuancée (mixed), avec deux sources et des contre-indices ; la rumination est restée exploratoire. Le premier parcours avec correction a pris environ cinq minutes pendant le déploiement et les anciens délais de reprise ; la reprise HTTP bornée a été corrigée ensuite. Aucun délai fixe n’est promis. Le compte synthétique et ses données ont été supprimés. Contrôle D1 : un compte restant comme avant la recette, aucune violation de clé étrangère, aucune tâche de portrait en échec restante.
+
+Code publié : 18c6728 puis corrections bf9809c et b4e44d0. Dernière CI de vérification réussie ; déploiement Netlify 6aeb0cd9234dd70ad5203dd1 prêt. Le Worker final est déployé avec FREE_ACCESS_ENABLED=true, modèle de portrait Sonnet 5.5, clé API existante conservée, et cron chaque minute. Les données de recette sont fictives ; les données déclarées du compte existant n’ont pas été modifiées.
