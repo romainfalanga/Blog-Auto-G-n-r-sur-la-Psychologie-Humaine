@@ -11,6 +11,7 @@ on:
       - 'scripts/generate_personal_articles.py'
       - 'scripts/run_journals.py'
       - 'scripts/personal_concepts.json'
+      - 'data/psychology_catalog.json'
 
 permissions:
   contents: read

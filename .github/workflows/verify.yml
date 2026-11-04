@@ -18,6 +18,7 @@ jobs:
           python-version: '3.12'
       - run: pip install -r scripts/requirements.txt
       - run: node scripts/build_navigation.mjs --check
+      - run: node scripts/build_psychology_catalog.mjs --check
       - run: node --test tests/*.test.cjs
       - run: npm --prefix journal test
       - run: python -m unittest discover -s journal/tests -p 'test_personal*.py'

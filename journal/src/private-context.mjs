@@ -1,4 +1,5 @@
-import { isEntitled } from './entitlements.mjs';
+import { isEntitled, platformAccess } from './entitlements.mjs';
+import {validatePsychologicalMap} from './psychology-map.mjs';
 // Canonical private sources. Fictional story text is deliberately excluded.
 const parse=(v,f={})=>{try{return JSON.parse(v);}catch{return f;}};
 const hash=async value=>Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(value))),b=>b.toString(16).padStart(2,'0')).join('');
@@ -23,7 +24,7 @@ export async function loadContext(env,userId,decorateLikes=x=>x) {
   if(after.version===row.source_version)break;
   if(attempt===3){const error=new Error('Le contexte change trop rapidement. Réessayez.');error.status=409;error.code='context_changed';throw error;}
  }
- const context={source_version:row.source_version,portrait_version:row.schema_version===2?(row.analyzed_version||0):0,updated_at:row.updated_at||null,paid:isEntitled({status:row.subscription_status,paid_until:row.paid_until,trial_end:row.trial_end}),likes:decorateLikes(likes),feedback,people,exposures,events:events.map(e=>({...e,people_ids:parse(e.people_ids,[])})),memory:{text:row.memory_text,version:row.memory_version},portrait:row.schema_version===2&&row.analyzed_version===row.source_version?parse(row.portrait,null):null};
+ const context={source_version:row.source_version,portrait_version:row.schema_version===2?(row.analyzed_version||0):0,updated_at:row.updated_at||null,paid:isEntitled({status:row.subscription_status,paid_until:row.paid_until,trial_end:row.trial_end}),access:platformAccess(env,{status:row.subscription_status,paid_until:row.paid_until,trial_end:row.trial_end}),likes:decorateLikes(likes),feedback,people,exposures,events:events.map(e=>({...e,people_ids:parse(e.people_ids,[])})),memory:{text:row.memory_text,version:row.memory_version},portrait:row.schema_version===2&&row.analyzed_version===row.source_version?parse(row.portrait,null):null};
  const self=parse(row.self_data),narrativeKeys=['self_description','self_perception','recurring_patterns','emotions','current_context'];
  context.has_self_description=narrativeKeys.some(k=>typeof self[k]==='string'&&self[k].trim());
  const today=new Date().toISOString().slice(0,10),birth=self.birth_date;
@@ -37,7 +38,7 @@ export async function loadContext(env,userId,decorateLikes=x=>x) {
  for(const e of context.events)if(e.description.trim()||e.meaning_now.trim())add('event:'+e.id,'event',e.revision,{title:e.title,description:e.description,meaning_now:e.meaning_now},{created_at:e.created_at,updated_at:e.updated_at,temporal:{precision:e.date_precision,start:e.date_start,end:e.date_end,age:e.age_text},fiction_use:e.fiction_use,related_people:e.people_ids.map(id=>{const p=context.people.find(p=>p.id===id);return {id,role:p?.role||'',custom_role:p?.custom_role||''};})});
  for(const f of context.feedback)add('feedback:'+f.story_id,'feedback',f.revision,{feelings:f.feelings,why:f.why,differences:f.differences,correction:f.correction,preference:f.preference,avoid:f.avoid},{updated_at:f.updated_at,scope:f.scope,resonance:f.resonance});
  for(const source of sources)source.hash=await hash(JSON.stringify([source.type,source.revision,source.text,source.temporal,source.fiction_use,source.related_people||[]]));
- context.portrait_complete=Boolean(context.portrait&&!(context.portrait.coverage?.pending?.length));
+ context.portrait_complete=Boolean(context.portrait&&Array.isArray(context.portrait.psychological_map)&&!(context.portrait.coverage?.pending?.length));
  context.sources=sources;context.source_manifest=Object.fromEntries(sources.map(s=>[s.id,{revision:s.revision,hash:s.hash,type:s.type,explicit:s.explicit}]));
  return context;
 }
@@ -56,6 +57,7 @@ export function validatePortraitV2(value,sources,fail) {
  const output={schema_version:2,summary:clean(value.summary,6000),summary_evidence:evidence(value.summary_evidence),axes,strengths:value.strengths.map(s=>({text:clean(s.text,1200),evidence:evidence(s.evidence,true)})),uncertainties:value.uncertainties.map(s=>clean(s,1200)),citations};
  for(const field of ['current_state','evolution'])if(value[field])output[field]={summary:clean(value[field].summary,3000),evidence:evidence(value[field].evidence,true)};
  if(value.reading_preferences){output.reading_preferences={};for(const k of ['preferred','avoid']){const list=value.reading_preferences[k];if(!Array.isArray(list)||list.length>12)invalid('Préférences invalides.');output.reading_preferences[k]=list.map(x=>({label:clean(x.label,160),evidence:evidence(x.evidence,true)}));}}
+ output.psychological_map=validatePsychologicalMap(value.psychological_map,sources,citations,invalid);
  const processed=value.coverage?.processed??sources.map(s=>s.id),pending=value.coverage?.pending??[];
  if(!Array.isArray(processed)||!Array.isArray(pending)||[...processed,...pending].some(id=>!allowed.has(id))||new Set([...processed,...pending]).size!==sources.length||processed.some(id=>pending.includes(id))||pending.some(id=>proofs.has(id)))invalid('Couverture des sources invalide.');
  output.coverage={processed:[...new Set(processed)],pending:[...new Set(pending)]};

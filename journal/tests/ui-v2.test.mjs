@@ -21,12 +21,15 @@ class Element {
   get type() { return this._type; }
   set id(value) { this._id=value; this.doc.ids.set(value,this); }
   get id() { return this._id; }
-  append(...items) { for (const item of items) { this.children.push(item); if(typeof item==='object')item.parentElement=this; } }
+  append(...items) { for (const item of items) { if(typeof item==='object'&&item.parentElement){const old=item.parentElement.children;const index=old.indexOf(item);if(index>=0)old.splice(index,1);}this.children.push(item); if(typeof item==='object')item.parentElement=this; } }
   replaceChildren(...items) { this.children=[];this.append(...items); }
   set textContent(value) { this._text=String(value);this.children=[]; }
   get textContent() { return this._text + this.children.map(x=>typeof x==='string'?x:x.textContent).join(''); }
   setAttribute(name,value) { this.attributes[name]=value; }
   removeAttribute(name) { delete this.attributes[name]; }
+  getAttribute(name) { return this.attributes[name]; }
+  remove() {if(this.parentElement){const siblings=this.parentElement.children;const index=siblings.indexOf(this);if(index>=0)siblings.splice(index,1);this.parentElement=null;}this.isConnected=false;}
+  scrollIntoView() {}
   addEventListener(name,fn) { (this.listeners[name]??=[]).push(fn); }
   async fire(name) { for (const fn of this.listeners[name]||[]) await fn({target:this,currentTarget:this,preventDefault(){}}); }
   focus() {this.doc.activeElement=this;}
@@ -46,7 +49,7 @@ class Element {
 function environment(extra={}) {
   const doc={ids:new Map(),createElement(tag){return new Element(tag,this)},createTextNode(text){return String(text)},getElementById(id){return this.ids.get(id)||null},querySelectorAll(selector){return [...this.ids.values()].filter(x=>x.matches(selector))},querySelector(selector){if(selector.startsWith('#')){const [id,...rest]=selector.slice(1).split(' ');return this.getElementById(id)?.querySelector(rest.join(' '))||null;}return this.querySelectorAll(selector)[0]||null}};
   class FormDataMock { constructor(form){this.values=form.querySelectorAll('input,select,textarea').filter(x=>x.name&&!x.disabled&&(x.type!=='checkbox'||x.checked)).map(x=>[x.name,x.value]);}entries(){return this.values.values();} }
-  const ctx=vm.createContext({document:doc,FormData:FormDataMock,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),continueKeys:new Map(),tab:'journal',characterData:{},characters:[]},renderTokens:new WeakMap(),confirm:()=>true,refreshRecommendations(){},status(){},console,...extra});
+  const ctx=vm.createContext({document:doc,FormData:FormDataMock,URL,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),continueKeys:new Map(),tab:'journal',characterData:{},characters:[]},renderTokens:new WeakMap(),confirm:()=>true,refreshRecommendations(){},status(){},console,...extra});
   for (const name of ['renderGuard','el','actionButton','formValues','busy','sourceField','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','characterSearch','requestIsActive']) vm.runInContext(functionCode(name),ctx);
   vm.runInContext(script.match(/var PERSON_ROLES=.*\n/)[0]+script.match(/var EVENT_KINDS=.*\n/)[0],ctx);
   ctx.drawSourceSection=()=>{};ctx.sourceSaved=()=>{};
@@ -61,7 +64,7 @@ test('the generated application script parses, and canonical URLs keep both iden
   assert.equal(ctx.characterSearch('char & a','old/story?1'),'?personnage=char+%26+a&story=old%2Fstory%3F1');
   assert.equal(ctx.requestIsActive({status:'waiting_portrait'}),true);
   assert.equal(ctx.requestIsActive({status:'completed'}),false);
-  assert.match(HTML,/id="suggestions" tabindex="-1"/);
+  assert.match(functionCode('renderLikes'),/legacy.id='suggestions';legacy.tabIndex=-1/);
   assert.doesNotMatch(HTML,/Mes histoires|une histoire chaque jour|quotidiennes/);
 });
 
@@ -255,9 +258,9 @@ test('V5 blocked sends retain editable draft, history and proposals for all acce
 });
 
 test('V5 portrait panes respect deep links and switching preserves form nodes',async()=>{
- for(const [hash,key] of [['#self-profile','self'],['#mes-articles','readings'],['#suggestions','readings'],['#correction-form','synthesis'],['','synthesis']]){
+ for(const [hash,key] of [['#ma-cartographie','map'],['#cartographie','map'],['#self-profile','self'],['#mes-articles','readings'],['#suggestions','readings'],['#correction-form','synthesis'],['','synthesis']]){
   const location={hash,pathname:'/mon-portrait/',search:'?article=old'};const env=environment({location,history:{replaceState(a,b,url){location.hash=url.includes('#')?url.slice(url.indexOf('#')):''}}});
-  env.ctx.state.pendingArticle=hash?'old':null;const view=env.host('view'),panes=['synthesis','self','readings'].map(key=>{const e=env.doc.createElement('section');e.dataset.portraitPane=key;view.append(e);return e}),tabs=['synthesis','self','readings'].map((key,i)=>{const e=env.doc.createElement('a');e.dataset.portraitTab=key;e.getAttribute=()=>['#synthese','#self-profile','#mes-articles'][i];view.append(e);return e});
+  env.ctx.state.pendingArticle=hash?'old':null;const view=env.host('view'),panes=['synthesis','self','readings','map'].map(key=>{const e=env.doc.createElement('section');e.dataset.portraitPane=key;view.append(e);return e}),tabs=['synthesis','self','readings','map'].map((key,i)=>{const e=env.doc.createElement('a');e.dataset.portraitTab=key;e.getAttribute=()=>['#synthese','#self-profile','#mes-articles','#ma-cartographie'][i];view.append(e);return e});
   const form=env.doc.createElement('form');panes[1].append(form);const details=env.doc.createElement('details'),correction=env.host('correction-form');details.append(correction);panes[0].append(details);
   view.querySelectorAll=selector=>selector==='[data-portrait-pane]'?panes:tabs;
   vm.runInContext(functionCode('setupPortraitViews'),env.ctx);env.ctx.setupPortraitViews(view);
@@ -283,4 +286,94 @@ test('V5 retrying a pending turn keeps one visible user message and its draft',a
  const thread=env.host('thread');thread.className='chat-thread';const form=env.doc.createElement('form'),input=env.doc.createElement('textarea'),button=env.doc.createElement('button');input.name='content';input.value='Un seul message';button.type='submit';form.append(input,button);
  await env.ctx.sendChat(form,()=>true);env.ctx.state.chatSending=false;env.ctx.state.chatRequest=null;await env.ctx.sendChat(form,()=>true);
  assert.equal(thread.children.length,1);assert.equal(thread.children[0].dataset.chatTurnId,'same-turn');assert.equal(input.value,'Un seul message');
+});
+
+
+test('V6 self information and reflection groups open with all fields in their own compact grids',async()=>{
+ const env=environment({api:async()=>({profile:{},revision:0}),location:{hash:''}});env.host('self-profile');vm.runInContext(functionCode('renderSelfProfile'),env.ctx);await env.ctx.renderSelfProfile();
+ const form=env.doc.getElementById('self-profile-form'),groups=form.querySelectorAll('details');assert.equal(groups.length,2);assert.ok(groups.every(group=>group.open));
+ assert.equal(env.doc.getElementById('self-identity-fields').elements.occupation.tagName,'INPUT');assert.equal(env.doc.getElementById('self-description-fields').elements.self_description.tagName,'TEXTAREA');
+ assert.deepEqual(Object.keys(env.doc.getElementById('self-reflection-fields').elements),['self_perception','recurring_patterns','emotions','current_context']);assert.equal(form.querySelectorAll('textarea').length,5);
+ assert.match(HTML,/#self-profile-form \.self-presentation textarea\{min-height:160px/);
+});
+
+test('V6 application contains no footer element and labels its liked-article tab directly',()=>{
+ assert.doesNotMatch(HTML,/<footer\b/);assert.match(functionCode('renderPortrait'),/data-portrait-tab="readings">Articles aimés/);
+ assert.doesNotMatch(functionCode('renderLikes'),/likes-search|likes-character|likes-keyword|likes-more|recommendations-body|À découvrir/);
+});
+
+function likedFixture(api){const env=environment({api,location:{origin:'https://example.test',hash:''},refreshPortraitData(){}});Object.assign(env.ctx.state,{tab:'portrait',me:{},likes:[{article_id:'a',reason:'Mon ancien retour',differences:'Une différence ancienne'},{article_id:'b',reason:''}],examples:[{id:'a',title:'Article A',url:'/a/'},{id:'b',title:'Article B',url:'/b/'},{id:'c',title:'Non aimé',url:'/c/'}],drafts:new Map(),differencesDrafts:new Map()});vm.runInContext(functionCode('safeArticleLink')+'\n'+functionCode('updateLikeState')+'\n'+functionCode('drawLikedArticles'),env.ctx);const list=env.host('likes-list');env.ctx.drawLikedArticles(list,()=>true);return {...env,list};}
+
+test('V6 liked articles are a consecutive title disclosure list with separate reading links and legacy returns preserved',async()=>{
+ const calls=[];const env=likedFixture(async(path,method,data)=>{calls.push({path,method,data});return {likes:env.ctx.state.likes}});const cards=env.list.children;assert.equal(cards.length,2);assert.doesNotMatch(env.list.textContent,/Non aimé/);
+ const first=cards[0],details=first.children[0];assert.equal(details.tagName,'DETAILS');assert.equal(details.children[0].textContent,'Article A');assert.equal(first.children[1].tagName,'A');assert.equal(first.children[1].textContent,'Lire');assert.equal(details.open,false);
+ assert.equal(first.querySelectorAll('textarea').length,2);assert.equal(cards[1].querySelectorAll('textarea').length,1);assert.match(first.textContent,/Ce qui me parle et pourquoi je me reconnais/);
+ const form=first.querySelector('form');field(form,'reason','Nouveau retour');await form.elements.reason.fire('input');await form.fire('submit');assert.equal(calls[0].data.reason,'Nouveau retour');assert.equal(calls[0].data.differences,'Une différence ancienne');
+ await cards[1].querySelector('form').fire('submit');assert.equal('differences' in calls[1].data,false);
+});
+
+test('V6 liked article network failures keep both editable drafts',async()=>{
+ const env=likedFixture(async()=>{throw new Error('offline')});const form=env.list.children[0].querySelector('form');field(form,'reason','Brouillon complet');await form.elements.reason.fire('input');field(form,'differences','Différence préservée');await form.elements.differences.fire('input');await form.fire('submit');
+ assert.equal(env.ctx.state.drafts.get('a'),'Brouillon complet');assert.equal(env.ctx.state.differencesDrafts.get('a'),'Différence préservée');assert.match(form.textContent,/offline/);
+});
+
+const psychologyFixture={catalog_version:1,domains:[{id:'ties',label:'Mes relations'},{id:'self',label:'Mon regard sur moi'}],patterns:[{id:'belong',domain:'ties',label:'Besoin d’appartenance',description:'Chercher sa place.',signals:['Faire attention au groupe.'],questions:['Comment trouvez-vous votre place ?'],alternatives:['Un contexte nouveau.']},{id:'autonomy',domain:'self',label:'Besoin d’autonomie',description:'Choisir pour soi.',questions:['Quand choisissez-vous librement ?']}],hypotheses:[{pattern_id:'belong',status:'exploring',observation:'Vous évoquez votre place dans le groupe.',possible_function:'Préserver les liens.',evidence:['person:p1'],counter_evidence:['profile:self'],citations:[{source_id:'person:p1',quote:'Mes mots exacts'}],related_articles:[{title:'Une lecture',url:'/article/'},{title:'Lien refusé',url:'javascript:alert(1)'}],related_characters:[{name:'Nina',url:'/personnages/nina/'}],next_question:'Que souhaitez-vous préciser ?'}],source_version:4,analyzed_version:4,outdated:false};
+function mapFixture(extra={}){const env=environment({refreshPortraitData(){},location:{origin:'https://example.test'},...extra});Object.assign(env.ctx.state,{tab:'portrait',likes:[],examples:[],mapReturnDrafts:new Map()});for(const name of ['safeArticleLink','portraitEvidence','drawMapPattern','drawMapReturn','drawPsychologyMap'])vm.runInContext(functionCode(name),env.ctx);const host=env.host('ma-cartographie');env.ctx.drawPsychologyMap(host,psychologyFixture,()=>true);return {...env,host};}
+
+test('V6 psychology map distinguishes supported exploration from unknown patterns and links exact source evidence',()=>{
+ const env=mapFixture(),known=env.host.mapCards.get('belong'),unknown=env.host.mapCards.get('autonomy');assert.equal(known.card.parentElement.id,'map-active-list');assert.equal(unknown.card.parentElement,env.host.mapDomains.get('self'));
+ assert.match(known.card.textContent,/Piste à explorer/);assert.match(unknown.card.textContent,/Pas encore exploré/);assert.doesNotMatch(env.host.textContent,/\d+\s*%|probabilité|absence de syndrome/i);
+ assert.ok(known.card.querySelectorAll('a').some(link=>link.href==='/mes-proches/#person-p1'));assert.ok(known.card.querySelectorAll('a').some(link=>link.href==='https://example.test/article/'));assert.doesNotMatch(known.card.textContent,/Lien refusé/);
+ assert.match(known.card.textContent,/Mes mots exacts/);assert.match(known.card.textContent,/Ce qui invite à nuancer/);assert.match(known.card.textContent,/Fonction possible/);assert.doesNotMatch(known.card.textContent,/Ce que cela pourrait vous apporter/);
+});
+
+test('V6 map refresh preserves open disclosures, reply form node and text while evidence changes',async()=>{
+ const env=mapFixture(),entry=env.host.mapCards.get('belong'),form=entry.card.querySelector('form'),input=form.elements.text;entry.card.open=true;input.value='Un brouillon sensible';await input.fire('input');
+ const update=structuredClone(psychologyFixture);update.hypotheses[0].observation='Observation mise à jour';env.ctx.drawPsychologyMap(env.host,update,()=>true);
+ assert.equal(entry.card.querySelector('form'),form);assert.equal(input.value,'Un brouillon sensible');assert.equal(entry.card.open,true);assert.match(entry.card.textContent,/Observation mise à jour/);assert.equal(env.ctx.state.mapReturnDrafts.get('belong').text,'Un brouillon sensible');
+});
+
+test('V6 map feedback retries append an explicit typed correction with the same creation key',async()=>{
+ const calls=[];const env=mapFixture({api:async(path,method,payload)=>{calls.push({path,method,payload});throw new Error('Réseau indisponible')}});const form=env.host.mapCards.get('belong').card.querySelector('form');field(form,'text','Cette piste ne correspond pas à mon vécu.');await form.elements.text.fire('input');field(form,'type','not_concerned');await form.elements.type.fire('change');await form.fire('submit');await form.fire('submit');
+ assert.equal(calls.length,2);assert.equal(calls[0].path,'/api/portrait/feedback');assert.equal(calls[0].method,'POST');assert.equal(calls[0].payload.kind,'not_concerned');assert.equal(calls[0].payload.text,'Cette piste ne correspond pas à mon vécu.');assert.equal(calls[0].payload.creation_id,calls[1].payload.creation_id);assert.equal('label' in calls[0].payload,false);assert.equal(env.ctx.state.mapReturnDrafts.get('belong').text,form.elements.text.value);
+});
+
+test('V6 completed map feedback retains edits made during the write with a new creation key',async()=>{
+ let resolve,sequence=0;const pending=new Promise(r=>resolve=r);const env=mapFixture({api:async(path)=>path==='/api/portrait/feedback'?pending:{status:'ready'},crypto:{randomUUID:()=> 'key-'+(++sequence)},refreshGeneralCorrections(){},applyPortraitData(){},schedulePortraitPoll(){}});const form=env.host.mapCards.get('belong').card.querySelector('form');field(form,'text','Avant');await form.elements.text.fire('input');const key=env.ctx.state.mapReturnDrafts.get('belong').creation_id;const saving=form.fire('submit');field(form,'text','Après');await form.elements.text.fire('input');resolve({memory_version:2});await saving;
+ assert.equal(env.ctx.state.mapReturnDrafts.get('belong').text,'Après');assert.notEqual(env.ctx.state.mapReturnDrafts.get('belong').creation_id,key);
+});
+
+test('V6 portrait polling refreshes content without route rendering and stops after navigation',async()=>{
+ const timers=[],calls=[],applied=[];const env=environment({setTimeout(fn){timers.push(fn);return timers.length},clearTimeout(){},api:async(path)=>{calls.push(path);return {status:'ready',source_version:5}},applyPortraitData(data){applied.push(data)}});env.ctx.state.tab='portrait';vm.runInContext(functionCode('schedulePortraitPoll'),env.ctx);env.ctx.schedulePortraitPoll(()=>true,{status:'queued'});assert.equal(timers.length,1);await timers.shift()();assert.deepEqual(calls,['/api/portrait']);assert.equal(applied.length,1);assert.equal(timers.length,0);
+ env.ctx.schedulePortraitPoll(()=>true,{status:'updating'});env.ctx.state.tab='journal';await timers.shift()();assert.equal(calls.length,1);
+});
+
+test('V6 free preview permits an eligible character and does not bypass portrait prerequisites',()=>{
+ const env=environment();vm.runInContext(functionCode('characterEligible')+'\n'+functionCode('characterProgress'),env.ctx);Object.assign(env.ctx.state,{me:{access:{mode:'free_preview',allowed:true},subscription:{active:false}},characterData:{readiness:{eligible:true}}});assert.equal(env.ctx.characterEligible(),true);env.ctx.state.characterData.readiness.eligible=false;assert.equal(env.ctx.characterEligible(),false);assert.match(env.ctx.characterProgress({readiness:{}}).textContent,/Accès gratuit ouvert/);assert.doesNotMatch(env.ctx.characterProgress({readiness:{}}).textContent,/abonnement actif/);
+});
+
+test('V6 free preview account displays access and quotas without checkout or subscription offers',()=>{
+ const env=environment();const host=env.host('view'),accountRow=env.host('account-row');host.querySelector=()=>accountRow;for(const id of ['account-email','account-price','subscription-copy','account-progress','billing-action','export-button','delete-button'])env.host(id);env.ctx.state.me={user:{email:'test@example.test'},access:{mode:'free_preview',allowed:true},subscription:{active:false,trial_eligible:true},configuration:{billing:true,ai:true}};env.ctx.logout=()=>{};vm.runInContext(functionCode('renderAccount'),env.ctx);env.ctx.renderAccount();assert.equal(env.doc.getElementById('account-price').hidden,true);assert.match(env.doc.getElementById('subscription-copy').textContent,/Accès gratuit/);assert.doesNotMatch(env.doc.getElementById('billing-action').textContent,/abonner|essai|factur|29/);assert.doesNotMatch(env.doc.getElementById('account-progress').textContent,/29|7 jours d’essai/);
+});
+
+test('V6 general correction conflicts preserve the original version and draft until comparison',async()=>{
+ const calls=[];const env=environment({location:{hash:''},refreshPortraitData(){},api:async(path,method,payload)=>{if(!method)return {text:'Correction enregistrée',version:3};calls.push(payload);const error=new Error('Conflit');error.status=409;throw error;}});env.ctx.state.tab='portrait';env.ctx.state.correctionDraft=undefined;const form=env.host('correction-form'),input=env.host('portrait-correction'),message=env.host('correction-status');form.append(input,message);vm.runInContext(functionCode('status')+'\n'+functionCode('offerCorrectionComparison')+'\n'+functionCode('loadPortraitCorrection'),env.ctx);await env.ctx.loadPortraitCorrection(()=>true);input.value='Mon brouillon complet';await input.fire('input');await form.fire('submit');assert.equal(calls[0].expected_version,3);assert.equal(env.ctx.state.correctionDraft,'Mon brouillon complet');assert.equal(env.ctx.state.correctionRevision,3);assert.match(message.textContent,/brouillon est conservé/);assert.ok(form.querySelector('.correction-compare'));
+});
+
+
+test('V6 re-saving identical map feedback replays its saved key and edits renew it',async()=>{
+ const calls=[];let sequence=0;const env=mapFixture({crypto:{randomUUID:()=> 'key-'+(++sequence)},refreshGeneralCorrections(){},api:async(path,method,payload)=>{calls.push(payload);return {memory_version:calls.length}}});const form=env.host.mapCards.get('belong').card.querySelector('form');field(form,'text','Un retour explicite');await form.elements.text.fire('input');await form.fire('submit');await form.fire('submit');assert.equal(calls[0].creation_id,calls[1].creation_id);field(form,'text','Un retour précisé');await form.elements.text.fire('input');await form.fire('submit');assert.notEqual(calls[1].creation_id,calls[2].creation_id);
+});
+
+
+test('V6 portrait refresh rejects older source and analyzed snapshots before replacing visible content',()=>{
+ const env=environment();env.ctx.state.portraitData={source_version:9,analyzed_version:8};vm.runInContext(functionCode('applyPortraitData'),env.ctx);const latest=env.ctx.state.portraitData;env.ctx.applyPortraitData({source_version:8,analyzed_version:8},()=>true);assert.equal(env.ctx.state.portraitData,latest);env.ctx.applyPortraitData({source_version:9,analyzed_version:7},()=>true);assert.equal(env.ctx.state.portraitData,latest);
+});
+
+
+test('V6 gender description is conditional without clearing an existing or typed draft',async()=>{
+ for(const initial of ['', 'Mes mots déjà enregistrés']){
+  const env=environment({api:async()=>({profile:{gender:'unspecified',gender_description:initial},revision:1}),location:{hash:''}});env.host('self-profile');vm.runInContext(functionCode('renderSelfProfile'),env.ctx);await env.ctx.renderSelfProfile();const form=env.doc.getElementById('self-profile-form'),gender=form.elements.gender,description=form.elements.gender_description;
+  assert.equal(description.parentElement.hidden,!initial);gender.value='self_described';await gender.fire('change');assert.equal(description.parentElement.hidden,false);description.value='Mon brouillon conservé';await description.fire('input');gender.value='female';await gender.fire('change');assert.equal(description.parentElement.hidden,false);assert.equal(description.value,'Mon brouillon conservé');assert.equal(env.ctx.formValues(form).gender_description,'Mon brouillon conservé');description.value='';await description.fire('change');assert.equal(description.parentElement.hidden,true);assert.equal(description.value,'');
+ }
 });

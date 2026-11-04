@@ -90,51 +90,24 @@
       return { entry: entry, score: score, terms: matched };
     }).filter(function (r) { return r.terms.length === terms.length; }).sort(function (a, b) { return b.score-a.score || a.entry.order-b.entry.order; });
   }
-  var defaults = ['Rumination', 'Peur de décevoir', 'Charge mentale', 'Confiance dans les relations', 'Deuil', 'Perfectionnisme'];
-  function suggest(entries, query) {
-    var results = search(entries, query);
-    var vocabulary = Array.from(new Set((results.length ? results.map(function (r) { return r.entry; }) : entries).flatMap(function (e) { return [e.name].concat(e.keywords || []); })));
-    var seen = new Set();
-    vocabulary = vocabulary.filter(function (term) { var key = normalize(term); if (seen.has(key)) return false; seen.add(key); return true; });
-    if (!query.trim()) return defaults.filter(function (term) { return search(entries, term).length; });
-    var terms = concepts(query);
-    return vocabulary.map(function (term, order) {
-      return { term: term, order: order, score: terms.reduce(function (score, t) { return score + match(t, tokens(term), true); }, 0) };
-    }).filter(function (r) { return normalize(r.term) !== normalize(query) && (r.score > 0 || results.length); })
-      .sort(function (a, b) { return b.score - a.score || a.order - b.order; })
-      .slice(0, 6).map(function (r) { return r.term; });
-  }
-  var engine = { normalize: normalize, concepts: concepts, prepare: prepare, search: search, suggest: suggest };
+  var engine = { normalize: normalize, concepts: concepts, prepare: prepare, search: search };
   if (typeof module !== 'undefined' && module.exports) module.exports = engine;
   if (!root.document) return;
   var input = document.getElementById('character-search'), index = document.getElementById('character-search-index');
   if (!input || !index) return;
   var entries = prepare(JSON.parse(index.textContent)), grid = document.getElementById('character-results');
   var cards = new Map(Array.from(grid.querySelectorAll('[data-character-id]')).map(function (card) { return [card.dataset.characterId, card]; }));
-  var clear = document.getElementById('character-search-clear'), panel = document.getElementById('character-search-suggestions');
-  var box = input.closest('.character-search-box');
-  function closeSuggestions() { panel.hidden = true; input.setAttribute('aria-expanded', 'false'); }
-  function suggestions() {
-    var q = input.value.trim();
-    var choices = suggest(entries, q);
-    panel.replaceChildren();
-    choices.forEach(function (term) { var button=document.createElement('button');button.type='button';button.textContent=term;button.addEventListener('click',function(){input.value=term;update();input.focus();closeSuggestions();});panel.append(button); });
-    panel.hidden = !choices.length || !box.contains(document.activeElement);
-    input.setAttribute('aria-expanded', String(!panel.hidden));
-  }
+  var clear = document.getElementById('character-search-clear');
   function update() {
     var query=input.value.trim(), results=search(entries,query), shown=new Set(results.map(function(r){return r.entry.id;}));
     cards.forEach(function(card,id){card.hidden=!shown.has(id);});
-    results.forEach(function(r){var card=cards.get(r.entry.id);if(!card)return;grid.append(card);card.classList.add('is-visible');var why=card.querySelector('.character-search-match');var cues=(r.entry.keywords||[]).filter(function(k){return concepts(query).some(function(t){return match(t,tokens(k),true)>0;});}).slice(0,3);why.textContent=cues.length?'Repères associés : '+cues.join(', '):'';why.hidden=!query||!cues.length;});
+    results.forEach(function(r){var card=cards.get(r.entry.id);if(!card)return;grid.append(card);card.classList.add('is-visible');});
     document.getElementById('character-count').textContent=results.length+' personnage'+(results.length>1?'s':'')+(query?' pour cette recherche':' à explorer');
     document.getElementById('character-search-empty').hidden=!!results.length;
-    clear.hidden=!query;suggestions();
+    clear.hidden=!query;
   }
   input.addEventListener('input',update);
-  input.addEventListener('focus',suggestions);
-  input.addEventListener('keydown',function(e){if(e.key==='Escape'){e.preventDefault();closeSuggestions();}if(e.key==='Enter'){e.preventDefault();closeSuggestions();}if(e.key==='ArrowDown'&&!panel.hidden){var first=panel.querySelector('button');if(first){e.preventDefault();first.focus();}}});
-  box.addEventListener('focusout',function(e){if(!box.contains(e.relatedTarget))closeSuggestions();});
-  panel.addEventListener('keydown',function(e){if(e.key==='Escape'){input.focus();closeSuggestions();e.preventDefault();}});
+  input.addEventListener('keydown',function(e){if(e.key==='Escape'||e.key==='Enter')e.preventDefault();});
   clear.addEventListener('click',function(){input.value='';update();input.focus();});
   update();
 })(typeof window !== 'undefined' ? window : {});

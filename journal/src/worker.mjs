@@ -1,4 +1,4 @@
-import { isEntitled, accessUntil } from './entitlements.mjs';
+import { isEntitled, accessUntil, platformAccess } from './entitlements.mjs';
 import { createChatBackend } from './chat-backend.mjs';
 import { HTML } from './ui.mjs';
 import { EXAMPLES } from './examples.mjs';
@@ -146,15 +146,16 @@ async function likesResponse(env,userId) {
   const likes=decorateLikes(parse(snapshot.likes_json,[])),r=readinessFor(likes);
   return {likes,count:r.likes_count,explained_count:r.explained_count,target:TARGET_LIKES,source_version:snapshot.version};
 }
-const personal=createPersonalBackend({error,json,text,body,now,random,decorateLikes,recommender});
+const personal=createPersonalBackend({error,json,text,body,now,random,decorateLikes,recommender,examples:EXAMPLES});
 const chat=createChatBackend({error,json,text,body,now,random,personal});
 const readingContext=(env,userId)=>personal.context(env,userId);
 const portraitFor=(env,userId)=>personal.portrait(env,userId);
-export const claimJobs=env=>personal.claimJobs(env);
+export const claimJobs=(env,...filters)=>personal.claimJobs(env,...filters);
 export const completeJob=(env,id,data)=>personal.completeJob(env,id,data);
 export const proxyJobLLM=(env,id,data)=>personal.proxyJobLLM(env,id,data);
 export const failJob=(env,id,data)=>personal.failJob(env,id,data);
-export async function runGenerationBatch() {return {status:'workflow-managed',claimed:0,completed:0,failed:0};}
+export const refreshUserPortrait=(env,userId,options)=>personal.refreshUserPortrait(env,userId,options);
+export async function runGenerationBatch(env) {return env?.OPENROUTER_API_KEY?personal.refreshPendingPortraits(env):{status:'workflow-managed',claimed:0,completed:0,failed:0};}
 async function internal(request,env,path) {
   await githubIdentity(request,env);
   if(request.method!=='POST') error(405,'Méthode non autorisée.');
@@ -189,10 +190,10 @@ async function routes(request,env,ctx) {
   if(path.startsWith('/api/internal/')) return internal(request,env,path);
   if(!['GET','HEAD','OPTIONS'].includes(method)) originCheck(request,env);
   if(path==='/api/me'&&method==='GET') {
-    const user=await userFor(request,env,false); if(!user) return json({user:null,configuration:{billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY)}});
+    const user=await userFor(request,env,false); if(!user) return json({user:null,configuration:{billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY),free_access:platformAccess(env,null).mode==='free_preview'}});
     const p=await first(env,'SELECT * FROM profiles WHERE user_id=?',user.id),s=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',user.id),m=await first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id);
     const readiness=readinessFor(await likesFor(env,user.id)),inspirations_count=readiness.likes_count;
-    return json({user,inspirations_count,readiness,consent_ai:Boolean(p.consent_ai),source_version:p.version,profile:{...parse(p.data),consent_ai:Boolean(p.consent_ai)},subscription:{status:s.status,active:activeSubscription(s),paid_until:s.paid_until,trial_end:s.trial_end,trial_used_at:s.trial_used_at,trial_eligible:!s.trial_used_at,cancel_at_period_end:Boolean(s.cancel_at_period_end),access_until:accessUntil(s),manageable:Boolean(s.customer_id)},memory:m,configuration:{billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY)}});
+    return json({user,access:platformAccess(env,s),inspirations_count,readiness,consent_ai:Boolean(p.consent_ai),source_version:p.version,profile:{...parse(p.data),consent_ai:Boolean(p.consent_ai)},subscription:{status:s.status,active:activeSubscription(s),paid_until:s.paid_until,trial_end:s.trial_end,trial_used_at:s.trial_used_at,trial_eligible:!s.trial_used_at,cancel_at_period_end:Boolean(s.cancel_at_period_end),access_until:accessUntil(s),manageable:Boolean(s.customer_id)},memory:m,configuration:{billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY),free_access:platformAccess(env,null).mode==='free_preview'}});
   }
   if(['/api/auth/register','/api/auth/login'].includes(path)&&method==='POST') {
     const data=await body(request,3000),email=text(data.email,254).toLowerCase(),password=data.password;
@@ -211,7 +212,7 @@ async function routes(request,env,ctx) {
   }
   const user=await userFor(request,env);
   const chatResponse=await chat.routes(request,env,user,path,url,ctx);if(chatResponse)return chatResponse;
-  const personalResponse=await personal.routes(request,env,user,path,url);if(personalResponse)return personalResponse;
+  const personalResponse=await personal.routes(request,env,user,path,url,ctx);if(personalResponse)return personalResponse;
   if(path==='/api/auth/logout'&&method==='POST') {
     const token=request.headers.get('cookie')?.split(';').map(s=>s.trim()).find(s=>s.startsWith(COOKIE+'='))?.slice(COOKIE.length+1);
     if(token) await run(env,'DELETE FROM sessions WHERE token_hash=?',await digest(token));
@@ -221,15 +222,17 @@ async function routes(request,env,ctx) {
     const data=await body(request,30000),profile={}; for(const field of FIELDS) profile[field]=text(data[field]??'',field==='display_name'?80:2000);
     if(typeof data.consent_ai!=='boolean') error(400,'Indiquez votre choix concernant la personnalisation IA.');
     await run(env,'UPDATE profiles SET data=?,consent_ai=?,version=version+1 WHERE user_id=? AND (data!=? OR consent_ai!=?)',JSON.stringify(profile),Number(data.consent_ai),user.id,JSON.stringify(profile),Number(data.consent_ai));
+    await personal.sourcesChanged(env,user.id,ctx);
     return json({ok:true,profile:{...profile,consent_ai:data.consent_ai}});
   }
   if(path==='/api/consent'&&method==='PUT') {
     const data=await body(request,1000);if(typeof data.consent_ai!=='boolean') error(400,'Indiquez votre choix concernant la personnalisation IA.');
     await run(env,'UPDATE profiles SET consent_ai=?,version=version+1 WHERE user_id=? AND consent_ai!=?',Number(data.consent_ai),user.id,Number(data.consent_ai));
     const p=await first(env,'SELECT version,consent_ai FROM profiles WHERE user_id=?',user.id);
+    await personal.sourcesChanged(env,user.id,ctx);
     return json({ok:true,consent_ai:Boolean(p.consent_ai),source_version:p.version});
   }
-  if(path==='/api/portrait'&&method==='GET') return json(await portraitFor(env,user.id));
+  if(path==='/api/portrait'&&method==='GET') {await personal.sourcesChanged(env,user.id,ctx);return json(await portraitFor(env,user.id));}
   if(path==='/api/recommendations'&&method==='GET') {
     const context=await readingContext(env,user.id);
     const rankingContext={...context,portrait:context.portrait_version===context.source_version?context.portrait:null};
@@ -248,6 +251,7 @@ async function routes(request,env,ctx) {
     if(data.liked) {
       await run(env,`INSERT INTO article_likes(user_id,article_id,reason,differences) VALUES(?,?,?,?) ON CONFLICT(user_id,article_id) DO UPDATE SET reason=CASE WHEN ? THEN excluded.reason ELSE article_likes.reason END,differences=CASE WHEN ? THEN excluded.differences ELSE article_likes.differences END,updated_at=CURRENT_TIMESTAMP WHERE (? AND article_likes.reason!=excluded.reason) OR (? AND article_likes.differences!=excluded.differences)`,user.id,articleId,data.reason===undefined?'':text(data.reason,4000),data.differences===undefined?'':text(data.differences,4000),Number(data.reason!==undefined),Number(data.differences!==undefined),Number(data.reason!==undefined),Number(data.differences!==undefined));
     } else await run(env,'DELETE FROM article_likes WHERE user_id=? AND article_id=?',user.id,articleId);
+    await personal.sourcesChanged(env,user.id,ctx);
     return json({ok:true,...await likesResponse(env,user.id)});
   }
   if(path==='/api/inspirations'&&method==='GET') return json({selections:(await likesFor(env,user.id)).map(({article_id,reason,differences})=>({article_id,reason,differences}))});
@@ -263,16 +267,22 @@ async function routes(request,env,ctx) {
       env.DB.prepare("DELETE FROM article_likes WHERE user_id=? AND article_id NOT IN(SELECT json_extract(value,'$.article_id') FROM json_each(?))").bind(user.id,serialized),
       env.DB.prepare("INSERT INTO article_likes(user_id,article_id,reason,differences) SELECT ?,json_extract(value,'$.article_id'),json_extract(value,'$.reason'),json_extract(value,'$.differences') FROM json_each(?) WHERE true ON CONFLICT(user_id,article_id) DO UPDATE SET reason=excluded.reason,differences=excluded.differences,updated_at=CURRENT_TIMESTAMP WHERE article_likes.reason!=excluded.reason OR article_likes.differences!=excluded.differences").bind(user.id,serialized)
     ]);
+    await personal.sourcesChanged(env,user.id,ctx);
     return json({ok:true,selections,...await likesResponse(env,user.id)});
   }
   if(path==='/api/memory'&&method==='GET') return json(await first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id));
   if(path==='/api/memory'&&method==='PUT') {
-    const data=await body(request,50000); const value=text(data.text,10000);
-    await env.DB.batch([
-      env.DB.prepare('UPDATE profiles SET version=version+1 WHERE user_id=? AND EXISTS(SELECT 1 FROM memories WHERE user_id=? AND text!=?)').bind(user.id,user.id,value),
-      env.DB.prepare("UPDATE memories SET text=?,proposal='',version=version+1 WHERE user_id=? AND text!=?").bind(value,user.id,value)
+    const data=await body(request,50000),value=text(data.text,10000),expected=data.expected_version??null;
+    if(expected!==null&&(!Number.isInteger(expected)||expected<1))error(400,'Version de mémoire invalide.','invalid_version');
+    // Optional for older clients; versioned editors cannot overwrite an appended
+    // portrait correction or another tab's draft with an older memory snapshot.
+    const saved=await env.DB.batch([
+      env.DB.prepare('UPDATE profiles SET version=version+1 WHERE user_id=? AND EXISTS(SELECT 1 FROM memories WHERE user_id=? AND text!=? AND (? IS NULL OR version=?))').bind(user.id,user.id,value,expected,expected),
+      env.DB.prepare("UPDATE memories SET text=?,proposal='',version=version+CASE WHEN text!=? THEN 1 ELSE 0 END WHERE user_id=? AND (? IS NULL OR version=?)").bind(value,value,user.id,expected,expected)
     ]);
-    return json({ok:true,source_version:(await first(env,'SELECT version FROM profiles WHERE user_id=?',user.id)).version});
+    if(expected!==null&&!saved[1].meta.changes)error(409,'Votre mémoire a changé. Rechargez-la avant de réessayer.','revision_conflict');
+    await personal.sourcesChanged(env,user.id,ctx);
+    return json({ok:true,source_version:(await first(env,'SELECT version FROM profiles WHERE user_id=?',user.id)).version,memory_version:(await first(env,'SELECT version FROM memories WHERE user_id=?',user.id)).version});
   }
   if(path==='/api/stories'&&method==='GET') return json({stories:await all(env,'SELECT id,day,title,summary,created_at FROM stories WHERE user_id=? ORDER BY day DESC LIMIT 366',user.id)});
   const storyMatch=path.match(/^\/api\/stories\/([\w-]+)(\/feedback)?$/);
@@ -292,6 +302,7 @@ async function routes(request,env,ctx) {
       ]);
       const saved=await first(env,'SELECT resonance,feelings,why,correction,differences,scope,preference,avoid,revision FROM feedback WHERE story_id=? AND user_id=?',story.id,user.id);
       if(!result[0].meta.changes&&keys.some(k=>saved[k]!==fields[k]))error(409,'Ce retour a été modifié.','revision_conflict');
+      await personal.sourcesChanged(env,user.id,ctx);
       return json({ok:true,feedback:saved,source_version:(await first(env,'SELECT version FROM profiles WHERE user_id=?',user.id)).version});
     }
   }

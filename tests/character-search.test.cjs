@@ -22,8 +22,3 @@ test('les mots composés sont normalisés aussi dans les données',()=>{
  const items=engine.prepare([{id:'a',name:'Sophie',keywords:['auto-critique interne','lâcher-prise','burn-out']}]);
  for(const query of ['auto critique interne','lâcher prise','burnout']) assert.equal(engine.search(items,query)[0]?.entry.id,'a',query);
 });
-test('les suggestions utilisent les repères des résultats combinés',()=>{
- assert.ok(engine.suggest(entries,'Sophie rumination').includes('Rumination'));
- assert.ok(engine.suggest(entries,'je pense trop').includes('Rumination'));
- assert.ok(engine.suggest(entries,'zzzzzzz').length===0);
-});

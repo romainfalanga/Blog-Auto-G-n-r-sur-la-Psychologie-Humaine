@@ -1,3 +1,4 @@
+import { PSYCHOLOGY_CATALOG } from './psychology-catalog.generated.mjs';
 import {createRecommender as createBaselineRecommender} from './recommendations-baseline.mjs';
 // Content similarity is a reading aid, never a psychological diagnosis.
 // Only the public catalogue is indexed globally; all user vectors are request-local.
@@ -82,6 +83,15 @@ export function createRecommender(examples){
     source(s.id,s.text,s.kind==='difference'?'difference':'declared',3,s.updated_at);
    }
   }
+  // Controlled concepts improve retrieval, but never count a model derivative
+  // as a new independent source. User corrections can remove a map hypothesis.
+  const catalogue=new Map(PSYCHOLOGY_CATALOG.patterns.map(p=>[p.id,p]));
+  const originals=new Map((context.sources||[]).map(s=>[s.id,s]));
+  for(const hypothesis of context.portrait?.psychological_map||[]){
+   const concept=catalogue.get(hypothesis.pattern_id);
+   if(!concept||!['exploring','supported'].includes(hypothesis.status)||!Array.isArray(hypothesis.evidence)||!hypothesis.evidence.length||hypothesis.evidence.some(id=>!originals.get(id)?.explicit))continue;
+   for(const id of hypothesis.evidence){const original=originals.get(id);signal(original.type==='memory'?'memory':id,[concept.label,...concept.keywords].join(' '),'hypothesis',hypothesis.status==='supported'?1:.6,original.updated_at);}
+  }
   // Never let the same original evidence gain weight by reappearing in a portrait.
   return {signals,likes,evidence};
  }
@@ -102,7 +112,7 @@ export function createRecommender(examples){
    const correction=Math.max(0,...negatives.map(s=>s.weight*cosine(s.v,v)));
    const score=Math.max(0,(1-Math.exp(-affinity/3))-.24*correction-(exposures.has(e.id)?.035:0));
    const strongest=contributions.sort((a,b)=>b.similarity*b.weight-a.similarity*a.weight)[0];
-   const labels={request:'Votre souhait de lecture',declared:'Votre contexte déclaré',resonance:'Ce qui vous parle dans vos lectures',like:'Vos intérêts de lecture'};
+   const labels={request:'Votre souhait de lecture',declared:'Votre contexte déclaré',resonance:'Ce qui vous parle dans vos lectures',like:'Vos intérêts de lecture',hypothesis:'Une piste à explorer dans votre cartographie'};
    const themes=e.keywords.filter(k=>cosine(lex(k),strongest.v)>.08).slice(0,2);
    const reason=(labels[strongest.kind]||'Votre contexte déclaré')+(themes.length?' rejoint '+themes.join(', '):' rejoint certains thèmes de ce récit')+'.';
    return {e,v,score,reasons:[reason],reason_sources:[{source_id:strongest.id,kind:strongest.kind}],theme:normalize(e.canonical_concept||e.sujet||e.keywords[0])};

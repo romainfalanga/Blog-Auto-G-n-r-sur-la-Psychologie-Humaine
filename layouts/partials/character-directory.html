@@ -2,10 +2,9 @@
   <div class="character-search-box" role="search" aria-label="Trouver un personnage">
     <div class="character-search-field">
       <svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>
-      <input type="search" id="character-search" aria-label="Rechercher un personnage, une émotion ou un thème" placeholder="Peur de décevoir, pensées en boucle…" autocomplete="off" aria-describedby="character-count" aria-controls="character-results character-search-suggestions" aria-expanded="false">
+      <input type="search" id="character-search" aria-label="Rechercher un personnage, une émotion ou un thème" placeholder="Peur de décevoir, pensées en boucle…" autocomplete="off" aria-describedby="character-count" aria-controls="character-results">
       <button type="button" id="character-search-clear" aria-label="Effacer la recherche" hidden>Effacer</button>
     </div>
-    <div id="character-search-suggestions" class="character-search-suggestions" aria-label="Suggestions de recherche" hidden></div>
   </div>
   {{ $characters := where .Site.RegularPages "Section" "personnages" }}
   <p id="character-count" class="keyword-explainer" role="status">{{ len $characters }} personnages à explorer</p>
@@ -49,8 +48,10 @@
           <h3 class="perso-name">{{ $prenom }}, {{ $age }} ans</h3>
         {{ else }}<h3 class="perso-name">{{ .Title }}</h3>{{ end }}
       </div>
+      {{ with $cues }}
+      <ul class="character-card-cues" aria-label="Repères dans ses histoires">{{ range .keywords }}<li>{{ . }}</li>{{ end }}</ul>
+      {{ end }}
       <p class="perso-bio">{{ $presentation }}</p>
-      <p class="character-search-match" hidden></p>
       <a href="{{ .RelPermalink }}" class="perso-btn">Découvrir ses histoires</a>
     </article>
     {{ end }}

@@ -76,6 +76,20 @@ def story_outputs():
 
 
 class V2Tests(unittest.TestCase):
+
+    def test_psychological_map_requires_personal_evidence_and_independent_support(self):
+        s=source('profile:user','Je pense souvent en boucle.')
+        h={'pattern_id':'rumination','status':'supported','observation':'La personne décrit des pensées répétées.',
+           'possible_function':'Une recherche de solution serait à explorer.','alternatives':['Une difficulté ponctuelle.'],
+           'next_question':'Quand cela vous aide-t-il ?','evidence':[s['id'],s['id']],'counter_evidence':[]}
+        quote={'source_id':s['id'],'revision':1,'quote':s['fields']['self_description']}
+        clean=personal.validate_psychological_map([h],[s],[quote])
+        self.assertEqual(clean[0]['status'],'exploring')
+        for invalid in ({**h,'pattern_id':'unknown'},{**h,'status':'contradicted'}):
+            with self.assertRaises(ValueError):personal.validate_psychological_map([invalid],[s],[quote])
+        bare={**s,'explicit':False}
+        with self.assertRaises(ValueError):personal.validate_psychological_map([h],[bare],[quote])
+
     def test_self_description_is_supported_evidence_but_occupation_is_not_a_trait(self):
         s=source('profile:user','Je me décris comme sensible aux conflits et je rumine parfois.')
         j=job('portrait',s)

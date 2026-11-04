@@ -1,0 +1,1339 @@
+{
+  "version": 1,
+  "scope": "Catalogue éditorial de processus, besoins, ressources et liens relationnels. Non exhaustif ; aucun diagnostic ni probabilité clinique.",
+  "domains": [
+    {
+      "id": "thinking",
+      "label": "Pensées et interprétations"
+    },
+    {
+      "id": "emotions",
+      "label": "Émotions et corps"
+    },
+    {
+      "id": "self",
+      "label": "Rapport à soi"
+    },
+    {
+      "id": "relationships",
+      "label": "Relations et limites"
+    },
+    {
+      "id": "family",
+      "label": "Parents et histoire familiale"
+    },
+    {
+      "id": "attachment",
+      "label": "Sécurité et proximité"
+    },
+    {
+      "id": "action",
+      "label": "Actions et habitudes"
+    },
+    {
+      "id": "context",
+      "label": "Contexte et transitions"
+    },
+    {
+      "id": "needs",
+      "label": "Besoins et valeurs"
+    },
+    {
+      "id": "resources",
+      "label": "Ressources et souplesse"
+    }
+  ],
+  "patterns": [
+    {
+      "id": "rumination",
+      "domain": "thinking",
+      "label": "Pensées en boucle",
+      "description": "Une réflexion répétée qui n’apporte plus de solution.",
+      "signals": [
+        "Repasser longtemps une situation",
+        "Revenir au même point"
+      ],
+      "alternatives": [
+        "Résolution de problème utile",
+        "Préparation ponctuelle"
+      ],
+      "questions": [
+        "À quel moment réfléchir cesse-t-il de vous aider ?"
+      ],
+      "keywords": [
+        "rumination",
+        "penser en boucle",
+        "suranalyse"
+      ],
+      "related": [
+        "uncertainty"
+      ]
+    },
+    {
+      "id": "intellectualization",
+      "domain": "thinking",
+      "label": "Intellectualisation",
+      "description": "Comprendre par l’analyse pour approcher ou tenir à distance un ressenti.",
+      "signals": [
+        "Expliquer sans identifier une émotion",
+        "Comprendre avant de ressentir"
+      ],
+      "alternatives": [
+        "Style de communication",
+        "Analyse réellement utile"
+      ],
+      "questions": [
+        "L’analyse vous rapproche-t-elle de votre ressenti ?"
+      ],
+      "keywords": [
+        "intellectualisation",
+        "analyse",
+        "émotions"
+      ],
+      "related": [
+        "emotional_identification"
+      ]
+    },
+    {
+      "id": "uncertainty",
+      "domain": "thinking",
+      "label": "Besoin de certitude",
+      "description": "Chercher des garanties avant de décider ou d’agir.",
+      "signals": [
+        "Vérifier à répétition",
+        "Retarder une décision"
+      ],
+      "alternatives": [
+        "Risque réel élevé",
+        "Informations indispensables manquantes"
+      ],
+      "questions": [
+        "Qu’est-ce qui serait suffisamment certain pour avancer ?"
+      ],
+      "keywords": [
+        "incertitude",
+        "contrôle",
+        "doute"
+      ],
+      "related": [
+        "rumination",
+        "overcontrol"
+      ]
+    },
+    {
+      "id": "catastrophizing",
+      "domain": "thinking",
+      "label": "Anticipation du pire",
+      "description": "Un scénario défavorable prend une place disproportionnée.",
+      "signals": [
+        "Imaginer l’issue la plus grave",
+        "Sous-estimer ses appuis"
+      ],
+      "alternatives": [
+        "Danger réaliste",
+        "Expérience récente difficile"
+      ],
+      "questions": [
+        "Quels autres scénarios restent possibles ?"
+      ],
+      "keywords": [
+        "catastrophisme",
+        "anticipation",
+        "anxiété"
+      ],
+      "related": []
+    },
+    {
+      "id": "mind_reading",
+      "domain": "thinking",
+      "label": "Interpréter le regard des autres",
+      "description": "Supposer connaître les jugements ou intentions d’autrui.",
+      "signals": [
+        "Déduire un rejet d’un silence",
+        "Interpréter sans vérification"
+      ],
+      "alternatives": [
+        "Indices explicites",
+        "Communication ambiguë"
+      ],
+      "questions": [
+        "Qu’avez-vous observé, et qu’en avez-vous déduit ?"
+      ],
+      "keywords": [
+        "lecture de pensée",
+        "jugement",
+        "interprétation"
+      ],
+      "related": []
+    },
+    {
+      "id": "all_or_nothing",
+      "domain": "thinking",
+      "label": "Pensée tout ou rien",
+      "description": "Évaluer une situation en catégories très tranchées.",
+      "signals": [
+        "Réussite ou échec total",
+        "Nuances difficiles à voir"
+      ],
+      "alternatives": [
+        "Choix réellement binaire",
+        "Formule imagée ponctuelle"
+      ],
+      "questions": [
+        "Quelle nuance manque entre ces deux extrêmes ?"
+      ],
+      "keywords": [
+        "tout ou rien",
+        "perfectionnisme",
+        "nuance"
+      ],
+      "related": []
+    },
+    {
+      "id": "confirmation",
+      "domain": "thinking",
+      "label": "Attention aux indices qui confirment",
+      "description": "Remarquer surtout ce qui soutient une idée déjà présente.",
+      "signals": [
+        "Écarter les contre-exemples",
+        "Retenir les confirmations"
+      ],
+      "alternatives": [
+        "Preuves effectivement convergentes",
+        "Contexte limité"
+      ],
+      "questions": [
+        "Quel fait pourrait vous faire réviser cette idée ?"
+      ],
+      "keywords": [
+        "biais de confirmation",
+        "croyances",
+        "contre-exemple"
+      ],
+      "related": []
+    },
+    {
+      "id": "reframing",
+      "domain": "thinking",
+      "label": "Capacité à changer de perspective",
+      "description": "Explorer plusieurs lectures d’une même situation.",
+      "signals": [
+        "Reconnaître une autre interprétation",
+        "Réviser un jugement"
+      ],
+      "alternatives": [
+        "Hésitation sans décision",
+        "Adaptation à l’interlocuteur"
+      ],
+      "questions": [
+        "Quand une autre lecture vous a-t-elle aidé ?"
+      ],
+      "keywords": [
+        "recul",
+        "flexibilité",
+        "perspective"
+      ],
+      "related": []
+    },
+    {
+      "id": "emotional_identification",
+      "domain": "emotions",
+      "label": "Identifier ses émotions",
+      "description": "Trouver des mots pour les ressentis et les sensations.",
+      "signals": [
+        "Ressenti difficile à nommer",
+        "Confusion entre pensée et émotion"
+      ],
+      "alternatives": [
+        "Émotion nouvelle",
+        "Besoin de temps"
+      ],
+      "questions": [
+        "Que remarquez-vous dans votre corps à ce moment ?"
+      ],
+      "keywords": [
+        "identifier émotions",
+        "sensations",
+        "ressenti"
+      ],
+      "related": [
+        "intellectualization"
+      ]
+    },
+    {
+      "id": "emotional_suppression",
+      "domain": "emotions",
+      "label": "Retenir l’expression émotionnelle",
+      "description": "Cacher ou contenir ses émotions pour se protéger ou préserver un lien.",
+      "signals": [
+        "Ne rien montrer",
+        "Retenir des larmes ou une colère"
+      ],
+      "alternatives": [
+        "Discrétion choisie",
+        "Sécurité insuffisante pour s’exprimer"
+      ],
+      "questions": [
+        "Que protège le fait de ne rien montrer ?"
+      ],
+      "keywords": [
+        "répression émotionnelle",
+        "retenir",
+        "vulnérabilité"
+      ],
+      "related": [
+        "emotional_learning"
+      ]
+    },
+    {
+      "id": "emotional_overload",
+      "domain": "emotions",
+      "label": "Se sentir débordé",
+      "description": "Une émotion dépasse momentanément les ressources disponibles.",
+      "signals": [
+        "Difficulté à retrouver son calme",
+        "Intensité coûteuse"
+      ],
+      "alternatives": [
+        "Stress exceptionnel",
+        "Fatigue ou douleur"
+      ],
+      "questions": [
+        "Qu’est-ce qui aide l’intensité à redescendre ?"
+      ],
+      "keywords": [
+        "émotions intenses",
+        "débordement",
+        "régulation"
+      ],
+      "related": []
+    },
+    {
+      "id": "anger_needs",
+      "domain": "emotions",
+      "label": "Colère et besoins contrariés",
+      "description": "Repérer ce que signale une colère sans la confondre avec l’action.",
+      "signals": [
+        "Limite franchie",
+        "Frustration ou injustice ressentie"
+      ],
+      "alternatives": [
+        "Danger réel",
+        "Malentendu ponctuel"
+      ],
+      "questions": [
+        "Quel besoin ou quelle limite est en jeu ?"
+      ],
+      "keywords": [
+        "colère",
+        "frustration",
+        "besoins"
+      ],
+      "related": []
+    },
+    {
+      "id": "guilt",
+      "domain": "emotions",
+      "label": "Culpabilité",
+      "description": "Se sentir fautif ou redevable au-delà de sa responsabilité.",
+      "signals": [
+        "S’excuser sans faute précise",
+        "Se reprocher un besoin"
+      ],
+      "alternatives": [
+        "Responsabilité réelle",
+        "Réparation adaptée"
+      ],
+      "questions": [
+        "Quelle part de responsabilité vous appartient vraiment ?"
+      ],
+      "keywords": [
+        "culpabilité",
+        "responsabilité",
+        "faute"
+      ],
+      "related": [
+        "boundaries"
+      ]
+    },
+    {
+      "id": "shame",
+      "domain": "emotions",
+      "label": "Honte et exposition",
+      "description": "Craindre que ses difficultés définissent sa valeur aux yeux des autres.",
+      "signals": [
+        "Cacher une difficulté",
+        "Se sentir entièrement inadéquat"
+      ],
+      "alternatives": [
+        "Pudeur choisie",
+        "Milieu réellement jugeant"
+      ],
+      "questions": [
+        "Quel jugement sur vous accompagne ce ressenti ?"
+      ],
+      "keywords": [
+        "honte",
+        "jugement",
+        "vulnérabilité"
+      ],
+      "related": []
+    },
+    {
+      "id": "body_stress",
+      "domain": "emotions",
+      "label": "Signaux corporels du stress",
+      "description": "Reconnaître les sensations qui accompagnent une situation stressante.",
+      "signals": [
+        "Tensions liées au contexte",
+        "Agitation ou épuisement ressenti"
+      ],
+      "alternatives": [
+        "Cause physique à faire évaluer",
+        "Manque de repos"
+      ],
+      "questions": [
+        "Dans quels contextes ces sensations changent-elles ?"
+      ],
+      "keywords": [
+        "stress",
+        "tension",
+        "corps"
+      ],
+      "related": []
+    },
+    {
+      "id": "self_criticism",
+      "domain": "self",
+      "label": "Autocritique",
+      "description": "Se juger globalement après une difficulté.",
+      "signals": [
+        "Se parler durement",
+        "Minimiser ses réussites"
+      ],
+      "alternatives": [
+        "Évaluation précise",
+        "Exigence ponctuelle"
+      ],
+      "questions": [
+        "Que diriez-vous à un proche dans le même cas ?"
+      ],
+      "keywords": [
+        "autocritique",
+        "estime de soi",
+        "jugement"
+      ],
+      "related": [
+        "self_compassion"
+      ]
+    },
+    {
+      "id": "conditional_worth",
+      "domain": "self",
+      "label": "Valeur liée à la réussite",
+      "description": "Faire dépendre sa valeur de sa performance ou de son utilité.",
+      "signals": [
+        "Se sentir valable seulement si utile",
+        "Échec vécu comme dévalorisation totale"
+      ],
+      "alternatives": [
+        "Fierté d’une réussite",
+        "Enjeu matériel réel"
+      ],
+      "questions": [
+        "Qu’est-ce qui vous donne de la valeur en dehors du résultat ?"
+      ],
+      "keywords": [
+        "valeur personnelle",
+        "performance",
+        "utilité"
+      ],
+      "related": [
+        "perfectionism",
+        "parent_expectations"
+      ]
+    },
+    {
+      "id": "impostor",
+      "domain": "self",
+      "label": "Sentiment d’imposture",
+      "description": "Douter de sa légitimité malgré des éléments de compétence.",
+      "signals": [
+        "Attribuer ses réussites à la chance",
+        "Craindre d’être démasqué"
+      ],
+      "alternatives": [
+        "Apprentissage réel",
+        "Milieu excluant"
+      ],
+      "questions": [
+        "Quelles observations reconnaissent aussi vos compétences ?"
+      ],
+      "keywords": [
+        "imposteur",
+        "légitimité",
+        "compétence"
+      ],
+      "related": []
+    },
+    {
+      "id": "comparison",
+      "domain": "self",
+      "label": "Comparaison sociale",
+      "description": "Mesurer sa valeur en se comparant aux autres.",
+      "signals": [
+        "Comparer des réussites isolées",
+        "Se sentir en retard"
+      ],
+      "alternatives": [
+        "Repère utile",
+        "Objectif personnel clair"
+      ],
+      "questions": [
+        "Sur quels critères personnels aimeriez-vous vous appuyer ?"
+      ],
+      "keywords": [
+        "comparaison",
+        "réussite",
+        "estime de soi"
+      ],
+      "related": []
+    },
+    {
+      "id": "self_compassion",
+      "domain": "self",
+      "label": "Bienveillance envers soi",
+      "description": "Reconnaître une difficulté sans réduire sa valeur à celle-ci.",
+      "signals": [
+        "Paroles intérieures nuancées",
+        "Droit à l’erreur"
+      ],
+      "alternatives": [
+        "Évitement de responsabilité",
+        "Réassurance momentanée"
+      ],
+      "questions": [
+        "Quand arrivez-vous à être plus juste avec vous-même ?"
+      ],
+      "keywords": [
+        "autocompassion",
+        "bienveillance",
+        "droit à erreur"
+      ],
+      "related": [
+        "self_criticism"
+      ]
+    },
+    {
+      "id": "identity_transition",
+      "domain": "self",
+      "label": "Identité en évolution",
+      "description": "Redéfinir qui l’on est lors d’un changement.",
+      "signals": [
+        "Ancien rôle moins adapté",
+        "Envie de se redéfinir"
+      ],
+      "alternatives": [
+        "Changement ponctuel",
+        "Pression extérieure"
+      ],
+      "questions": [
+        "Qu’est-ce que vous souhaitez garder de vous dans cette transition ?"
+      ],
+      "keywords": [
+        "identité",
+        "transition",
+        "se découvrir"
+      ],
+      "related": []
+    },
+    {
+      "id": "overresponsibility",
+      "domain": "relationships",
+      "label": "Rôle de sauveur",
+      "description": "Porter les difficultés des autres au prix de ses propres besoins.",
+      "signals": [
+        "Aider sans demande",
+        "Culpabilité à ne pas intervenir"
+      ],
+      "alternatives": [
+        "Entraide réciproque",
+        "Responsabilité temporaire réelle"
+      ],
+      "questions": [
+        "Pouvez-vous soutenir sans prendre toute la responsabilité ?"
+      ],
+      "keywords": [
+        "syndrome du sauveur",
+        "surresponsabilité",
+        "aider",
+        "sauver"
+      ],
+      "related": [
+        "boundaries"
+      ]
+    },
+    {
+      "id": "boundaries",
+      "domain": "relationships",
+      "label": "Exprimer ses limites",
+      "description": "Dire ses besoins et ses refus dans les relations.",
+      "signals": [
+        "Dire oui contre son envie",
+        "Craindre de décevoir"
+      ],
+      "alternatives": [
+        "Dépendance concrète",
+        "Compromis choisi"
+      ],
+      "questions": [
+        "Avec qui est-il plus facile de poser une limite ?"
+      ],
+      "keywords": [
+        "limites",
+        "dire non",
+        "peur de décevoir"
+      ],
+      "related": [
+        "overresponsibility",
+        "guilt"
+      ]
+    },
+    {
+      "id": "reassurance",
+      "domain": "relationships",
+      "label": "Recherche de validation",
+      "description": "S’appuyer fortement sur l’approbation extérieure pour se rassurer.",
+      "signals": [
+        "Soulagement bref après validation",
+        "Avis nécessaire pour choisir"
+      ],
+      "alternatives": [
+        "Conseil ponctuel utile",
+        "Relation peu sûre"
+      ],
+      "questions": [
+        "Combien de temps la validation vous apaise-t-elle ?"
+      ],
+      "keywords": [
+        "validation",
+        "approbation",
+        "réassurance"
+      ],
+      "related": [
+        "abandonment_fear"
+      ]
+    },
+    {
+      "id": "conflict",
+      "domain": "relationships",
+      "label": "Rapport au désaccord",
+      "description": "Éviter ou intensifier les conflits pour protéger quelque chose.",
+      "signals": [
+        "Se taire longtemps",
+        "Montée rapide dans un désaccord"
+      ],
+      "alternatives": [
+        "Protection face au danger",
+        "Désaccord ponctuel"
+      ],
+      "questions": [
+        "Qu’essayez-vous de préserver dans un désaccord ?"
+      ],
+      "keywords": [
+        "conflit",
+        "désaccord",
+        "assertivité"
+      ],
+      "related": []
+    },
+    {
+      "id": "reciprocity",
+      "domain": "relationships",
+      "label": "Réciprocité",
+      "description": "Équilibrer donner, demander et recevoir.",
+      "signals": [
+        "Donner beaucoup sans demander",
+        "Difficulté à recevoir"
+      ],
+      "alternatives": [
+        "Période asymétrique choisie",
+        "Soutien ponctuel"
+      ],
+      "questions": [
+        "Que pourriez-vous demander dans cette relation ?"
+      ],
+      "keywords": [
+        "réciprocité",
+        "donner recevoir",
+        "soutien"
+      ],
+      "related": []
+    },
+    {
+      "id": "trust",
+      "domain": "relationships",
+      "label": "Confiance et prudence",
+      "description": "Ajuster sa confiance selon les liens et les observations.",
+      "signals": [
+        "Vigilance même dans les liens sûrs",
+        "Difficulté à déléguer une confiance"
+      ],
+      "alternatives": [
+        "Milieu réellement peu fiable",
+        "Prudence adaptée"
+      ],
+      "questions": [
+        "Qu’est-ce qui vous aide à reconnaître un lien suffisamment sûr ?"
+      ],
+      "keywords": [
+        "confiance",
+        "méfiance",
+        "sécurité"
+      ],
+      "related": [
+        "closeness_distance"
+      ]
+    },
+    {
+      "id": "parent_expectations",
+      "domain": "family",
+      "label": "Attentes parentales intériorisées",
+      "description": "Explorer les règles familiales que la personne dit encore porter.",
+      "signals": [
+        "Devoir réussir pour être accepté",
+        "Peur déclarée de décevoir un parent"
+      ],
+      "alternatives": [
+        "Valeur librement choisie",
+        "Attente actuelle explicite"
+      ],
+      "questions": [
+        "Cette exigence vous ressemble-t-elle encore ou vient-elle d’une ancienne attente ?"
+      ],
+      "keywords": [
+        "parents",
+        "attentes familiales",
+        "réussite"
+      ],
+      "related": [
+        "conditional_worth"
+      ]
+    },
+    {
+      "id": "family_roles",
+      "domain": "family",
+      "label": "Place et rôles dans la famille",
+      "description": "Comprendre les rôles que la personne décrit dans son entourage familial.",
+      "signals": [
+        "Médiateur récurrent",
+        "Rôle de soutien devenu pesant"
+      ],
+      "alternatives": [
+        "Rôle choisi",
+        "Situation exceptionnelle"
+      ],
+      "questions": [
+        "Quel rôle avez-vous l’impression de devoir tenir ?"
+      ],
+      "keywords": [
+        "rôle familial",
+        "médiateur",
+        "famille"
+      ],
+      "related": [
+        "parentification"
+      ]
+    },
+    {
+      "id": "parentification",
+      "domain": "family",
+      "label": "Responsabilités précoces",
+      "description": "Explorer un rôle d’adulte assumé trop tôt, si la personne le raconte.",
+      "signals": [
+        "S’occuper durablement d’un parent enfant",
+        "Responsabilités décrites comme excessives"
+      ],
+      "alternatives": [
+        "Participation familiale ordinaire",
+        "Relecture actuelle à nuancer"
+      ],
+      "questions": [
+        "Comment viviez-vous ces responsabilités à l’époque ?"
+      ],
+      "keywords": [
+        "parentification",
+        "responsabilité enfance",
+        "parents"
+      ],
+      "related": [
+        "family_roles"
+      ]
+    },
+    {
+      "id": "family_loyalty",
+      "domain": "family",
+      "label": "Loyauté et autonomie",
+      "description": "Concilier ses choix avec le sentiment d’appartenir à sa famille.",
+      "signals": [
+        "Culpabilité à choisir différemment",
+        "Peur de trahir un proche"
+      ],
+      "alternatives": [
+        "Attachement choisi",
+        "Dépendance économique réelle"
+      ],
+      "questions": [
+        "Peut-on rester lié tout en choisissant autrement ?"
+      ],
+      "keywords": [
+        "loyauté familiale",
+        "autonomie",
+        "culpabilité"
+      ],
+      "related": [
+        "autonomy"
+      ]
+    },
+    {
+      "id": "emotional_learning",
+      "domain": "family",
+      "label": "Apprentissages émotionnels familiaux",
+      "description": "Explorer comment les émotions étaient accueillies selon le récit de la personne.",
+      "signals": [
+        "Tristesse peu autorisée",
+        "Colère ou silence appris"
+      ],
+      "alternatives": [
+        "Souvenirs partiels",
+        "Différences entre contextes"
+      ],
+      "questions": [
+        "Quelles émotions étaient faciles ou difficiles à montrer chez vous ?"
+      ],
+      "keywords": [
+        "parents",
+        "émotions famille",
+        "apprentissages"
+      ],
+      "related": [
+        "emotional_suppression"
+      ]
+    },
+    {
+      "id": "family_boundaries",
+      "domain": "family",
+      "label": "Frontières dans la famille",
+      "description": "Situer intimité, responsabilités et décisions dans les liens familiaux.",
+      "signals": [
+        "Décisions vécues comme intrusives",
+        "Intimité difficile à préserver"
+      ],
+      "alternatives": [
+        "Habitude culturelle choisie",
+        "Entraide consentie"
+      ],
+      "questions": [
+        "Quelle frontière aimeriez-vous clarifier ?"
+      ],
+      "keywords": [
+        "frontières familiales",
+        "intimité",
+        "parents"
+      ],
+      "related": []
+    },
+    {
+      "id": "abandonment_fear",
+      "domain": "attachment",
+      "label": "Peur de perdre le lien",
+      "description": "Inquiétude liée à une distance ou une séparation.",
+      "signals": [
+        "Distance interprétée comme rejet",
+        "Besoin fréquent d’assurance"
+      ],
+      "alternatives": [
+        "Instabilité réelle du lien",
+        "Séparation récente"
+      ],
+      "questions": [
+        "Quels signes distinguent une distance ordinaire d’un rejet ?"
+      ],
+      "keywords": [
+        "peur abandon",
+        "attachement",
+        "séparation"
+      ],
+      "related": [
+        "reassurance"
+      ]
+    },
+    {
+      "id": "closeness_distance",
+      "domain": "attachment",
+      "label": "Proximité et distance",
+      "description": "Trouver une distance relationnelle confortable.",
+      "signals": [
+        "Envie de lien puis retrait",
+        "Proximité vécue comme envahissante"
+      ],
+      "alternatives": [
+        "Besoin de solitude choisi",
+        "Relation intrusive réelle"
+      ],
+      "questions": [
+        "Quand la proximité vous semble-t-elle libre et sûre ?"
+      ],
+      "keywords": [
+        "attachement",
+        "proximité",
+        "distance affective"
+      ],
+      "related": [
+        "trust"
+      ]
+    },
+    {
+      "id": "relational_security",
+      "domain": "attachment",
+      "label": "Sécurité relationnelle",
+      "description": "Se sentir libre d’exprimer un besoin et de rester soi dans un lien.",
+      "signals": [
+        "Oser demander",
+        "Désaccord possible sans peur de perdre le lien"
+      ],
+      "alternatives": [
+        "Confort ponctuel",
+        "Évitement de sujets difficiles"
+      ],
+      "questions": [
+        "Quels liens vous permettent de rester vous-même ?"
+      ],
+      "keywords": [
+        "sécurité affective",
+        "attachement sécurisant",
+        "confiance"
+      ],
+      "related": []
+    },
+    {
+      "id": "perfectionism",
+      "domain": "action",
+      "label": "Perfectionnisme coûteux",
+      "description": "Des exigences difficiles à assouplir malgré leur coût.",
+      "signals": [
+        "Résultat jamais suffisant",
+        "Temps excessif pour éviter une erreur"
+      ],
+      "alternatives": [
+        "Rigueur adaptée",
+        "Plaisir de bien faire"
+      ],
+      "questions": [
+        "Quel résultat serait suffisamment bon pour cet objectif ?"
+      ],
+      "keywords": [
+        "perfectionnisme",
+        "exigence",
+        "erreur"
+      ],
+      "related": [
+        "conditional_worth",
+        "avoidance"
+      ]
+    },
+    {
+      "id": "avoidance",
+      "domain": "action",
+      "label": "Évitement et report",
+      "description": "Reporter pour soulager un inconfort à court terme.",
+      "signals": [
+        "Soulagement puis problème accru",
+        "Tâche associée à une peur"
+      ],
+      "alternatives": [
+        "Fatigue",
+        "Obstacle matériel",
+        "Repos nécessaire"
+      ],
+      "questions": [
+        "Que ressentez-vous juste avant de reporter ?"
+      ],
+      "keywords": [
+        "évitement",
+        "procrastination",
+        "report"
+      ],
+      "related": [
+        "perfectionism"
+      ]
+    },
+    {
+      "id": "overcontrol",
+      "domain": "action",
+      "label": "Besoin de contrôle",
+      "description": "Garder la maîtrise pour tenter de se rassurer.",
+      "signals": [
+        "Difficulté à déléguer",
+        "Imprévu très coûteux"
+      ],
+      "alternatives": [
+        "Responsabilité réelle",
+        "Environnement peu fiable"
+      ],
+      "questions": [
+        "Quelle petite part pourriez-vous laisser ouverte ?"
+      ],
+      "keywords": [
+        "contrôle",
+        "déléguer",
+        "imprévu"
+      ],
+      "related": [
+        "uncertainty"
+      ]
+    },
+    {
+      "id": "withdrawal",
+      "domain": "action",
+      "label": "Retrait relationnel",
+      "description": "Réduire les liens quand ses ressources diminuent.",
+      "signals": [
+        "Solitude qui pèse",
+        "Contacts soutenants évités"
+      ],
+      "alternatives": [
+        "Repos réparateur",
+        "Préférence pour peu de liens"
+      ],
+      "questions": [
+        "Cette solitude vous ressource-t-elle ou vous pèse-t-elle ?"
+      ],
+      "keywords": [
+        "retrait",
+        "isolement",
+        "solitude"
+      ],
+      "related": [
+        "support_seeking"
+      ]
+    },
+    {
+      "id": "impulsive_reaction",
+      "domain": "action",
+      "label": "Réagir dans l’urgence",
+      "description": "Agir rapidement pour sortir d’une tension.",
+      "signals": [
+        "Décision suivie de regret",
+        "Action pour faire cesser l’inconfort"
+      ],
+      "alternatives": [
+        "Décision adaptée à une urgence",
+        "Spontanéité sans coût"
+      ],
+      "questions": [
+        "Que changerait une courte pause avant d’agir ?"
+      ],
+      "keywords": [
+        "impulsivité",
+        "urgence",
+        "réaction"
+      ],
+      "related": []
+    },
+    {
+      "id": "overwork",
+      "domain": "context",
+      "label": "Surinvestissement et récupération",
+      "description": "Une activité laisse peu de place au repos et aux autres besoins.",
+      "signals": [
+        "Repos culpabilisant",
+        "Charge durablement excessive"
+      ],
+      "alternatives": [
+        "Période intense limitée",
+        "Contraintes économiques"
+      ],
+      "questions": [
+        "Quelle récupération reste possible dans vos contraintes ?"
+      ],
+      "keywords": [
+        "surinvestissement",
+        "épuisement",
+        "travail"
+      ],
+      "related": []
+    },
+    {
+      "id": "grief_change",
+      "domain": "context",
+      "label": "Perte et changement",
+      "description": "Donner une place à ce qui change ou n’est plus.",
+      "signals": [
+        "Manque ou nostalgie décrits",
+        "Repères à reconstruire"
+      ],
+      "alternatives": [
+        "Transition sans souffrance",
+        "Difficulté d’un autre ordre"
+      ],
+      "questions": [
+        "Qu’aimeriez-vous préserver de ce lien ou de cette période ?"
+      ],
+      "keywords": [
+        "deuil",
+        "perte",
+        "changement"
+      ],
+      "related": []
+    },
+    {
+      "id": "stress_resources",
+      "domain": "context",
+      "label": "Contraintes et ressources actuelles",
+      "description": "Relier les difficultés au contexte concret plutôt qu’à un défaut personnel.",
+      "signals": [
+        "Charge simultanée",
+        "Soutiens insuffisants"
+      ],
+      "alternatives": [
+        "Difficulté passagère",
+        "Ressources non encore repérées"
+      ],
+      "questions": [
+        "Qu’est-ce qui pèse le plus et qu’est-ce qui vous soutient ?"
+      ],
+      "keywords": [
+        "stress",
+        "contexte",
+        "ressources"
+      ],
+      "related": []
+    },
+    {
+      "id": "social_belonging",
+      "domain": "context",
+      "label": "Appartenance et place",
+      "description": "Se sentir accueilli dans un groupe ou un milieu.",
+      "signals": [
+        "Sentiment d’exclusion",
+        "Effort pour paraître adapté"
+      ],
+      "alternatives": [
+        "Exclusion réelle",
+        "Nouveau milieu"
+      ],
+      "questions": [
+        "Où sentez-vous que vous avez votre place ?"
+      ],
+      "keywords": [
+        "appartenance",
+        "exclusion",
+        "place"
+      ],
+      "related": []
+    },
+    {
+      "id": "autonomy",
+      "domain": "needs",
+      "label": "Autonomie",
+      "description": "Pouvoir choisir en accord avec soi, dans ses contraintes.",
+      "signals": [
+        "Choix dictés par autrui",
+        "Difficulté à sentir son envie"
+      ],
+      "alternatives": [
+        "Décision partagée libre",
+        "Contrainte matérielle"
+      ],
+      "questions": [
+        "Quelle marge de choix avez-vous aujourd’hui ?"
+      ],
+      "keywords": [
+        "autonomie",
+        "choix",
+        "liberté"
+      ],
+      "related": [
+        "family_loyalty"
+      ]
+    },
+    {
+      "id": "values_alignment",
+      "domain": "needs",
+      "label": "Valeurs et cohérence",
+      "description": "Relier ses choix à ce qui compte pour soi.",
+      "signals": [
+        "Décalage entre choix et valeurs",
+        "Besoin de sens"
+      ],
+      "alternatives": [
+        "Compromis temporaire",
+        "Valeurs en évolution"
+      ],
+      "questions": [
+        "Qu’est-ce qui compte pour vous dans ce choix ?"
+      ],
+      "keywords": [
+        "valeurs",
+        "sens",
+        "cohérence"
+      ],
+      "related": []
+    },
+    {
+      "id": "needs_expression",
+      "domain": "needs",
+      "label": "Reconnaître ses besoins",
+      "description": "Identifier ses besoins avant de les négocier avec les autres.",
+      "signals": [
+        "Besoins difficiles à nommer",
+        "Priorité systématique aux autres"
+      ],
+      "alternatives": [
+        "Soutien choisi",
+        "Période exceptionnelle"
+      ],
+      "questions": [
+        "De quoi auriez-vous besoin, même si ce n’est pas immédiatement possible ?"
+      ],
+      "keywords": [
+        "besoins",
+        "écoute de soi",
+        "expression"
+      ],
+      "related": []
+    },
+    {
+      "id": "support_seeking",
+      "domain": "resources",
+      "label": "Demander du soutien",
+      "description": "Pouvoir s’appuyer sur des personnes et des aides adaptées.",
+      "signals": [
+        "Demande d’aide précise",
+        "Lien soutenant disponible"
+      ],
+      "alternatives": [
+        "Dépendance subie",
+        "Aide mal adaptée"
+      ],
+      "questions": [
+        "Quel soutien vous serait utile et à qui le demander ?"
+      ],
+      "keywords": [
+        "soutien",
+        "demander aide",
+        "ressources"
+      ],
+      "related": [
+        "withdrawal"
+      ]
+    },
+    {
+      "id": "emotional_flexibility",
+      "domain": "resources",
+      "label": "Souplesse émotionnelle",
+      "description": "Accueillir un ressenti tout en gardant plusieurs façons d’agir.",
+      "signals": [
+        "Émotion nommée sans réaction automatique",
+        "Choix adapté au contexte"
+      ],
+      "alternatives": [
+        "Émotion retenue",
+        "Adaptation coûteuse"
+      ],
+      "questions": [
+        "Quand avez-vous pu ressentir cela et agir autrement ?"
+      ],
+      "keywords": [
+        "acceptation",
+        "souplesse émotionnelle",
+        "régulation"
+      ],
+      "related": []
+    },
+    {
+      "id": "resilience",
+      "domain": "resources",
+      "label": "Appuis dans les épreuves",
+      "description": "Repérer ce qui a aidé sans imposer une obligation de grandir.",
+      "signals": [
+        "Stratégie utile déjà trouvée",
+        "Soutien ou apprentissage reconnu"
+      ],
+      "alternatives": [
+        "Survie coûteuse",
+        "Récit encore difficile"
+      ],
+      "questions": [
+        "Qu’est-ce qui vous a aidé, même un peu ?"
+      ],
+      "keywords": [
+        "résilience",
+        "appuis",
+        "adaptation"
+      ],
+      "related": []
+    },
+    {
+      "id": "positive_connection",
+      "domain": "resources",
+      "label": "Liens nourrissants",
+      "description": "Identifier les relations qui offrent réciprocité et sécurité.",
+      "signals": [
+        "Se sentir compris",
+        "Pouvoir donner et recevoir"
+      ],
+      "alternatives": [
+        "Idéalisation ponctuelle",
+        "Lien ambivalent"
+      ],
+      "questions": [
+        "Qu’est-ce qui rend ce lien nourrissant pour vous ?"
+      ],
+      "keywords": [
+        "amitié",
+        "réciprocité",
+        "lien positif"
+      ],
+      "related": []
+    },
+    {
+      "id": "self_awareness",
+      "domain": "resources",
+      "label": "Connaissance de soi",
+      "description": "Observer ses propres réactions en laissant une place aux nuances.",
+      "signals": [
+        "Repérer un schéma",
+        "Accueillir une contradiction"
+      ],
+      "alternatives": [
+        "Autoanalyse qui tourne en boucle",
+        "Étiquette trop rigide"
+      ],
+      "questions": [
+        "Quelle exception vous aide à mieux vous comprendre ?"
+      ],
+      "keywords": [
+        "métacognition",
+        "connaissance de soi",
+        "nuance"
+      ],
+      "related": []
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS — Thought record",
+      "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/"
+    },
+    {
+      "title": "CCI — Looking After Yourself",
+      "url": "https://cci.health.wa.gov.au/Resources/Looking-After-Yourself"
+    },
+    {
+      "title": "NIMH — About RDoC (cadre de recherche, pas guide diagnostique)",
+      "url": "https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc/about-rdoc"
+    }
+  ]
+}

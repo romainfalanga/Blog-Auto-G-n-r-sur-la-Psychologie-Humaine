@@ -418,12 +418,15 @@ def generate(job, proxy):
 # V1 entry points above remain for already leased transition jobs only.
 PEDAGOGICAL_REFERENCE=json.loads((pathlib.Path(__file__).with_name('personal_concepts.json')).read_text())
 
+PSYCHOLOGY_CATALOG=json.loads((pathlib.Path(__file__).parents[1]/'data'/'psychology_catalog.json').read_text())
+PSYCHOLOGY_PATTERN_IDS={p['id'] for p in PSYCHOLOGY_CATALOG['patterns']}
+
 PORTRAIT_SCHEMA = '''{"schema_version":2,"summary":"synthèse prudente sourcée",
 "summary_evidence":["ID"],"axes":[{"label":"...","why":"...","confidence":0.2,
 "claim_type":"interest|hypothesis|declaration","evidence":["ID"]}],
 "strengths":[{"text":"...","evidence":["ID"]}],"uncertainties":["..."],
 "citations":[{"source_id":"ID","revision":1,"quote":"extrait exact"}],
-"coverage":{"processed":["ID"],"pending":[]}}'''
+"psychological_map":[{"pattern_id":"catalogue ID","status":"exploring|supported|mixed|contradicted","observation":"observation attribuée","possible_function":"hypothèse prudente de fonction","alternatives":["explication concurrente"],"next_question":"question concrète","evidence":["ID personnel"],"counter_evidence":[]}]}'''
 
 
 def canonical_sources(job):
@@ -456,6 +459,11 @@ def portrait_claims(p):
     for field in ('preferred','avoid'):
         for i,a in enumerate(p.get('reading_preferences',{}).get(field,[])):
             claims.append((f'reading_preferences.{field}.{i}',a.get('label'),a.get('evidence')))
+    for i,h in enumerate(p.get('psychological_map',[])):
+        evidence=list(dict.fromkeys(h.get('evidence',[])+h.get('counter_evidence',[])))
+        label=next((x['label'] for x in PSYCHOLOGY_CATALOG['patterns'] if x['id']==h['pattern_id']),h['pattern_id'])
+        claims.append((f'psychological_map.{i}.observation',label+' ('+h['status']+') : '+h.get('observation',''),evidence))
+        claims.append((f'psychological_map.{i}.function','Fonction hypothétique : '+h.get('possible_function','')+' Alternatives : '+' ; '.join(h.get('alternatives',[]))+' Question : '+h.get('next_question',''),evidence))
     return claims
 
 
@@ -533,7 +541,45 @@ def validate_portrait_v2(p,sources):
     if processed&pending or processed|pending!=set(lookup):raise ValueError('validation_error')
     if any(e in pending for _,_,refs in portrait_claims(p) for e in refs):raise ValueError('validation_error')
     p['coverage']=coverage
+    if 'psychological_map' in p:p['psychological_map']=validate_psychological_map(p['psychological_map'],sources,citations)
     return p
+
+
+def validate_psychological_map(value,sources,citations):
+    if value is None:return []  # compatibility with saved V2 portraits
+    if not isinstance(value,list) or len(value)>24:raise ValueError('validation_error')
+    lookup={s['id']:s for s in sources};proofs=set();seen=set();out=[]
+    for c in citations:
+        source=lookup.get(c.get('source_id'),{});quote=c.get('quote')
+        fields={'profile':SELF_DESCRIPTION_FIELDS,'like':('reason','differences'),'person':('relationship_text',),
+                'event':('description','meaning_now'),'feedback':('feelings','why','differences','correction','preference','avoid'),'memory':('text',)}.get(source.get('type'),())
+        if source.get('explicit') and isinstance(quote,str) and quote and any(isinstance(source.get('fields',{}).get(k),str) and quote in source['fields'][k] for k in fields):proofs.add(c['source_id'])
+    def clean(v,n):
+        if not isinstance(v,str) or not v.strip() or len(v)>n:raise ValueError('validation_error')
+        return v.strip()
+    def refs(v,required=False):
+        if not isinstance(v,list) or len(v)>20 or required and not v or any(x not in proofs for x in v):raise ValueError('validation_error')
+        return list(dict.fromkeys(v))
+    for h in value:
+        if not isinstance(h,dict) or h.get('pattern_id') not in PSYCHOLOGY_PATTERN_IDS or h['pattern_id'] in seen or h.get('status') not in ('exploring','supported','mixed','contradicted'):raise ValueError('validation_error')
+        seen.add(h['pattern_id']);e=refs(h.get('evidence'),True);counter=refs(h.get('counter_evidence',[]));status=h['status']
+        if status in ('mixed','contradicted') and not counter:raise ValueError('validation_error')
+        alts=h.get('alternatives')
+        if not isinstance(alts,list) or not 1<=len(alts)<=4:raise ValueError('validation_error')
+        fingerprints=[]
+        for sid in e:
+            source=lookup[sid]
+            raw=' '.join(str(v) for v in source.get('fields',{}).values())
+            quotes=[c['quote'] for c in citations if c['source_id']==sid]
+            fold=lambda x:re.sub(r'[^a-z0-9]+',' ',unicodedata.normalize('NFD',x).encode('ascii','ignore').decode().lower()).strip()
+            text=fold(raw);qs=[fold(q) for q in quotes]
+            if any(old==text or any(a==b or min(len(a),len(b))>=20 and (a in b or b in a) for a in oldqs for b in qs) for old,oldqs in fingerprints):continue
+            fingerprints.append((text,qs))
+        if status=='supported' and (len(fingerprints)<2 or len({lookup[x]['type'] for x in e})<2):status='exploring'
+        out.append({'pattern_id':h['pattern_id'],'status':status,'observation':clean(h.get('observation'),1800),
+                    'possible_function':clean(h.get('possible_function'),1200),'alternatives':[clean(x,500) for x in alts],
+                    'next_question':clean(h.get('next_question'),500),'evidence':e,'counter_evidence':counter})
+    return out
 
 
 def verify_portrait_support(p,sources,adapter):
@@ -550,6 +596,8 @@ seulement un mot commun. Un like soutient uniquement un intérêt de lecture, ja
 La fiction ne prouve aucun fait sur la personne. Le rôle d'un proche ne prouve ni causalité ni intention.
 Respecte négations, portée des différences, périodes et corrections. Une ancienne expérience ne prouve
 pas un état actuel. Une préférence n'est pas une déclaration autobiographique.
+Pour une fonction possible (path se terminant par .function), exige une formulation hypothétique
+ancrée dans les observations, pas une intention cachée ni causalité parentale inventée, même prudente. Vérifie aussi que le concept est compatible avec les contre-indices ; alternatives et questions ne doivent pas présupposer un vécu non raconté.
 Renvoie {"checks":[{"path":"chemin exact reçu","supported":true|false}]} pour CHAQUE affirmation.''',{'claims':checks,'original_sources':originals},3000)
     values=report.get('checks')
     expected={x['path'] for x in checks}
@@ -611,7 +659,7 @@ Pour source type like sans explication, uniquement interest, jamais biographie.'
     data={'derivatives':[cached[sid] for sid in processed],
           'source_manifest':job.get('source_manifest'),
           'coverage':{'processed':processed,'pending':unprocessed},
-          'source_version':job.get('source_version'),'life_context':safe_life_context(job)}
+          'source_version':job.get('source_version'),'life_context':safe_life_context(job),'psychology_catalog':PSYCHOLOGY_CATALOG}
     adapter.stage='portrait'
     p=ask(adapter,'''Construis le portrait V2 uniquement depuis les sources autorisées.
 Chaque phrase de synthèse, force, état ou préférence doit être sourcée avec une citation exacte et sa
@@ -625,14 +673,22 @@ attribuées au point de vue de la personne. Aucune ancienne prose n'est une preu
 Les sources profile expriment comment la personne se décrit : attribue cette perception à son auteur,
 sans la transformer en diagnostic ni en vérité établie. L'âge et le genre de life_context servent
 seulement à situer la période de vie ; ils ne prouvent aucun trait, émotion ou schéma psychologique.
+Établis psychological_map en utilisant uniquement les IDs du catalogue et des déclarations personnelles
+citées mot pour mot dans leur champ original, jamais le titre ou le résumé d’un article. 0–8 pistes pertinentes,
+aucun remplissage forcé. Une fonction supposée reste une possibilité à questionner, jamais une cause cachée.
+Supported exige deux sources indépendantes de types différents ; sinon exploring. Mixed/contradicted exige
+des contre-indices cités. Les corrections récentes peuvent affaiblir une piste. Famille, attachement,
+pensées, émotions, actions, besoins et ressources sont des domaines concurrents à examiner. Pas de
+diagnostic ni pourcentage médical. Une absence de preuve reste inconnue. Garde alternatives et prochaine
+question pour chaque piste. Si uniquement likes nus : psychological_map vide.
 Renvoie exactement un objet conforme à ce schéma : '''+PORTRAIT_SCHEMA+'''
 Optionnels seulement si explicitement soutenus : current_state/evolution {summary,evidence},
 reading_preferences {preferred:[{label,evidence}],avoid:[{label,evidence}]}.
-Recopie exactement coverage reçu ; ne prétends pas avoir analysé les sources pending. Synthèse ≤6000 caractères, 1–12 axes,
+La couverture est calculée côté serveur : omets coverage dans la réponse. Ne cite aucune source pending. Synthèse ≤6000 caractères, 1–12 axes,
 15 forces/incertitudes maximum ; labels préférences ≤160. Les citations sont des sous-chaînes exactes de 1200 caractères maximum dans
 source.text, et les preuves des IDs typés. Chaque axe explicite a claim_type declaration ou hypothesis.
 La fiction est toujours distincte du vécu. Ne remplis pas des forces faute de preuves.''',data,7000)
-    if p.get('coverage')!=data['coverage']:raise ValueError('validation_error')
+    p['coverage']=data['coverage']
     validate_portrait_v2(p,sources)
     if any(e in unprocessed for _,_,evidence in portrait_claims(p) for e in evidence):raise ValueError('validation_error')
     verify_portrait_support(p,sources,adapter)
