@@ -6,17 +6,25 @@ const terms=value=>new Set((fold(value).match(/[a-z]{4,}/g)||[]).filter(t=>!stop
 // interview entries in every turn. Its score is text relevance, never likelihood.
 export function selectPsychologyGuide({query='',sources=[],hypotheses=[],limit=24,includeIndex=true}={}){
  const queryTerms=terms(query),sourceTerms=terms(sources.map(s=>s.text||JSON.stringify(s.fields||s.derivative||{})).join(' '));
- const current=new Set(hypotheses.map(h=>h.pattern_id)),related=new Set(catalog.patterns.filter(p=>current.has(p.id)).flatMap(p=>p.related||[]));
+ // Contradicted or dismissed hypotheses remain available as limits in the
+ // conversation, but must not steer the next exploration as active patterns.
+ const current=new Set(hypotheses.filter(h=>h.status===undefined||['exploring','supported','mixed'].includes(h.status)).map(h=>h.pattern_id)),related=new Set(catalog.patterns.filter(p=>current.has(p.id)).flatMap(p=>p.related||[]));
  const ranked=catalog.patterns.map((p,index)=>{
   const keys=terms([p.id,p.label,...(p.keywords||[]),...(p.signals||[])].join(' '));
-  let score=current.has(p.id)?100:related.has(p.id)?4:0;
-  for(const t of keys)score+=(queryTerms.has(t)?5:0)+(sourceTerms.has(t)?1:0);
-  return {p,score,index};
+  let queryScore=0,score=current.has(p.id)?100:related.has(p.id)?4:0;
+  for(const t of keys){if(queryTerms.has(t))queryScore+=5;score+=sourceTerms.has(t)?1:0;}
+  return {p,score:score+queryScore,queryScore,index};
  }).sort((a,b)=>b.score-a.score||a.index-b.index);
- const selected=[],seen=new Set(),take=row=>{if(row&&!seen.has(row.p.id)&&selected.length<limit){seen.add(row.p.id);selected.push(row.p);}};
+ const selected=[],seen=new Set();let activeCount=0;
+ const take=(row,direct=false)=>{if(!row||seen.has(row.p.id)||selected.length>=limit||!direct&&current.has(row.p.id)&&activeCount>=Math.floor(limit/2))return false;seen.add(row.p.id);selected.push(row.p);if(current.has(row.p.id))activeCount++;return true;};
+ // Reserve two details for the question itself before older hypotheses or
+ // catalogue domain order can fill a small companion guide.
+ for(const row of ranked.filter(r=>r.queryScore>0).sort((a,b)=>b.queryScore-a.queryScore||b.score-a.score||a.index-b.index).slice(0,2))take(row,true);
  for(const row of ranked.filter(r=>current.has(r.p.id)))take(row);
- // A high-scoring domain cannot completely crowd out another relevant domain.
- for(const d of catalog.domains)take(ranked.find(r=>r.p.domain===d.id&&r.score>0));
+ // Cover relevant domains in score order, without repeating those represented
+ // by the direct question or the bounded active hypotheses above.
+ const represented=new Set(selected.map(p=>p.domain));
+ for(const row of ranked)if(row.score>0&&!represented.has(row.p.domain)&&take(row))represented.add(row.p.domain);
  for(const row of ranked)take(row);
  return {version:catalog.version,scope:catalog.scope,domains:catalog.domains,
   ...(includeIndex?{index:catalog.patterns.map(p=>[p.id,p.domain,p.label])}:{}),

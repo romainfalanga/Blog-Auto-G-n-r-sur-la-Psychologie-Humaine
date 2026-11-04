@@ -39,7 +39,7 @@ export async function loadContext(env,userId,decorateLikes=x=>x) {
  for(const l of context.likes)add('like:'+l.article_id,'like',l.revision,{title:l.title||l.article_id,article_summary:l.summary||'',subject:l.sujet||'',reason:l.reason,differences:l.differences},{explicit:Boolean(l.reason.trim()||l.differences.trim()),created_at:l.created_at,updated_at:l.updated_at});
  if(context.memory.text.trim())add('memory:'+userId,'memory',context.memory.version,{text:context.memory.text});
  for(const p of context.people)if(p.relationship_text.trim())add('person:'+p.id,'person',p.revision,{role:p.role,custom_role:p.custom_role,relationship_text:p.relationship_text},{created_at:p.created_at,updated_at:p.updated_at,temporal:{start:p.period_start,end:p.period_end}});
- for(const e of context.events)if(e.description.trim()||e.meaning_now.trim())add('event:'+e.id,'event',e.revision,{title:e.title,description:e.description,meaning_now:e.meaning_now},{created_at:e.created_at,updated_at:e.updated_at,temporal:{precision:e.date_precision,start:e.date_start,end:e.date_end,age:e.age_text},fiction_use:e.fiction_use,related_people:e.people_ids.map(id=>{const p=context.people.find(p=>p.id===id);return {id,role:p?.role||'',custom_role:p?.custom_role||''};})});
+ for(const e of context.events)if(e.description.trim()||e.meaning_now.trim())add('event:'+e.id,'event',e.revision,{title:e.title,description:e.description,meaning_now:e.meaning_now},{created_at:e.created_at,updated_at:e.updated_at,temporal:{precision:e.date_precision,start:e.date_start,end:e.date_end,age:e.age_text},current_importance:e.current_importance,fiction_use:e.fiction_use,related_people:e.people_ids.map(id=>{const p=context.people.find(p=>p.id===id);return {id,role:p?.role||'',custom_role:p?.custom_role||''};})});
  for(const f of context.feedback)add('feedback:'+f.story_id,'feedback',f.revision,{feelings:f.feelings,why:f.why,differences:f.differences,correction:f.correction,preference:f.preference,avoid:f.avoid},{updated_at:f.updated_at,scope:f.scope,resonance:f.resonance});
  for(const source of sources)source.hash=await hash(JSON.stringify([source.type,source.revision,source.text,source.temporal,source.fiction_use,source.related_people||[]]));
  context.portrait_complete=Boolean(context.portrait&&Array.isArray(context.portrait.psychological_map)&&!(context.portrait.coverage?.pending?.length));
@@ -64,6 +64,7 @@ export function validatePortraitV2(value,sources,fail) {
  output.psychological_map=validatePsychologicalMap(value.psychological_map,sources,citations,invalid);
  if(value.analysis_version!==undefined){
   if(value.analysis_version!==PORTRAIT_ANALYSIS_VERSION)invalid('Version d’analyse inconnue.');
+  if(!Array.isArray(value.psychological_map))invalid('Une carte explicite est requise pour la nouvelle analyse.');
   output.analysis_version=PORTRAIT_ANALYSIS_VERSION;
   if(value.identity_context)output.identity_context=declaredLifeContext(value.identity_context);
   try{assertPortraitLanguage(output)}catch{invalid('La synthèse contient un pronom ambigu. Utilisez {{prenom}} ou un rôle explicite.');}

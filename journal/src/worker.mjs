@@ -79,10 +79,11 @@ async function synchronizeSubscription(env,subscriptionId,eventCreated=0) {
   eventCreated=now(); // Canonical state was fetched now, regardless of event delivery order.
   const customer=typeof sub.customer==='string'?sub.customer:sub.customer?.id;
   const local=await first(env,'SELECT * FROM subscriptions WHERE customer_id=?',customer||'');
-  if(!local) return;
+  if(!local) return sub;
   const valid=sub.items?.data?.length===1&&sub.items.data[0].quantity===1&&sub.items.data[0].price?.id===env.STRIPE_PRICE_ID;
   // Re-fetching canonical state makes delayed events harmless. Never use client metadata as entitlement.
   await run(env,`UPDATE subscriptions SET subscription_id=?,status=?,paid_until=?,trial_end=?,trial_used_at=CASE WHEN trial_used_at=0 AND ?>0 THEN ? ELSE trial_used_at END,cancel_at_period_end=?,updated_at=? WHERE user_id=? AND updated_at<=? AND NOT (subscription_id=? AND status='canceled' AND ?!='canceled')`,sub.id,valid?sub.status:'invalid_price',valid?Number(sub.current_period_end||0):0,valid?Number(sub.trial_end||0):0,Number(sub.trial_start||sub.trial_end||0),Number(sub.trial_start||sub.trial_end||0),sub.cancel_at_period_end?1:0,eventCreated,local.user_id,eventCreated,sub.id,sub.status);
+  return sub;
 }
 export async function verifyStripeSignature(raw,header,secret,at=now()) {
   if(!secret||!header) return false;
@@ -291,17 +292,21 @@ async function routes(request,env,ctx) {
     if(!storyMatch[2]&&method==='GET') return json({story:{...story,reflection_questions:parse(story.reflection_questions,[]),narrative_delta:parse(story.narrative_delta)},feedback:await first(env,'SELECT resonance,feelings,why,correction,differences,scope,preference,avoid,revision FROM feedback WHERE story_id=? AND user_id=?',story.id,user.id)});
     if(storyMatch[2]&&method==='PUT') {
       const data=await body(request,60000); if(!Number.isInteger(data.resonance)||data.resonance<1||data.resonance>5) error(400,'Choisissez une note de 1 à 5.');
+      if(!Number.isInteger(data.revision)||data.revision<0)error(400,'La révision du retour est requise, ou 0 pour un premier retour.','revision_required');
+      const activeStory="EXISTS(SELECT 1 FROM stories s JOIN personal_characters c ON c.id=s.character_id AND c.user_id=s.user_id WHERE s.id=? AND s.user_id=? AND c.is_primary=1)";
+      if(!await first(env,'SELECT 1 AS active WHERE '+activeStory,story.id,user.id))error(409,'Ce personnage est archivé. Son histoire reste en lecture seule.','character_archived');
       const fields={resonance:data.resonance,feelings:text(data.feelings||'',3000),why:text(data.why||'',4000),correction:text(data.correction||'',4000),differences:text(data.differences||'',4000),scope:text(data.scope||'overall',30),preference:text(data.preference||'',4000),avoid:text(data.avoid||'',4000)};
       if(!['overall','situation','reaction','character','style'].includes(fields.scope))error(400,'Portée invalide.','invalid_scope');
-      const prior=await first(env,'SELECT * FROM feedback WHERE story_id=? AND user_id=?',story.id,user.id);
-      if(data.revision!==undefined&&(!Number.isInteger(data.revision)||data.revision!==(prior?.revision||0)))error(409,'Ce retour a été modifié.','revision_conflict');
-      const keys=Object.keys(fields),values=Object.values(fields),expected=prior?.revision||0;
+      const keys=Object.keys(fields),values=Object.values(fields),expected=data.revision;
       const result=await env.DB.batch([
-        env.DB.prepare(`INSERT INTO feedback(story_id,user_id,${keys.join(',')}) SELECT ?,?,${keys.map(()=>'?').join(',')} WHERE ?=0 OR EXISTS(SELECT 1 FROM feedback WHERE story_id=? AND user_id=? AND revision=?) ON CONFLICT(story_id) DO UPDATE SET ${keys.map(k=>k+'=excluded.'+k).join(',')},revision=feedback.revision+1,updated_at=CURRENT_TIMESTAMP WHERE feedback.revision=? AND (${keys.map(k=>'feedback.'+k+'!=excluded.'+k).join(' OR ')})`).bind(story.id,user.id,...values,expected,story.id,user.id,expected,expected),
+        env.DB.prepare(`INSERT INTO feedback(story_id,user_id,${keys.join(',')}) SELECT ?,?,${keys.map(()=>'?').join(',')} WHERE ${activeStory} AND ((?=0 AND NOT EXISTS(SELECT 1 FROM feedback WHERE story_id=? AND user_id=?)) OR EXISTS(SELECT 1 FROM feedback WHERE story_id=? AND user_id=? AND revision=?)) ON CONFLICT(story_id) DO UPDATE SET ${keys.map(k=>k+'=excluded.'+k).join(',')},revision=feedback.revision+1,updated_at=CURRENT_TIMESTAMP WHERE feedback.revision=? AND ${activeStory} AND (${keys.map(k=>'feedback.'+k+'!=excluded.'+k).join(' OR ')})`).bind(story.id,user.id,...values,story.id,user.id,expected,story.id,user.id,story.id,user.id,expected,expected,story.id,user.id),
         env.DB.prepare('UPDATE profiles SET version=version+1 WHERE user_id=? AND changes()>0').bind(user.id)
       ]);
       const saved=await first(env,'SELECT resonance,feelings,why,correction,differences,scope,preference,avoid,revision FROM feedback WHERE story_id=? AND user_id=?',story.id,user.id);
-      if(!result[0].meta.changes&&keys.some(k=>saved[k]!==fields[k]))error(409,'Ce retour a été modifié.','revision_conflict');
+      if(!result[0].meta.changes){
+        if(!await first(env,'SELECT 1 AS active WHERE '+activeStory,story.id,user.id))error(409,'Ce personnage est archivé. Son histoire reste en lecture seule.','character_archived');
+        if(!saved||saved.revision!==expected||keys.some(k=>saved[k]!==fields[k]))error(409,'Ce retour a été modifié. Votre brouillon est conservé.','revision_conflict');
+      }
       await personal.sourcesChanged(env,user.id,ctx);
       return json({ok:true,feedback:saved,source_version:(await first(env,'SELECT version FROM profiles WHERE user_id=?',user.id)).version});
     }
@@ -343,13 +348,30 @@ async function routes(request,env,ctx) {
     return json({url:result.url});
   }
   if(path==='/api/billing/cancel'&&method==='POST') {
-    const sub=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',user.id);
-    if(!sub?.subscription_id) error(400,'Aucun abonnement à résilier.');
-    if(sub.status==='canceled') return json({ok:true,cancel_at_period_end:false,access_until:0});
-    await stripe(env,'subscriptions/'+encodeURIComponent(sub.subscription_id),'POST',{'cancel_at_period_end':'true'},'dte-cancel-'+sub.subscription_id);
-    await synchronizeSubscription(env,sub.subscription_id,now());
+    const observed=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',user.id);
+    if(!observed?.subscription_id) error(400,'Aucun abonnement à résilier.');
+    const subscriptionId=observed.subscription_id;
+    const canonical=await synchronizeSubscription(env,subscriptionId,now());
+    if(canonical.status==='canceled') return json({ok:true,cancel_at_period_end:false,access_until:0});
+    if(canonical.cancel_at_period_end){
+      await run(env,'UPDATE subscriptions SET cancellation_confirmed=1 WHERE user_id=? AND cancellation_subscription_id=?',user.id,subscriptionId);
+      const updated=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',user.id);
+      return json({ok:true,cancel_at_period_end:true,access_until:accessUntil(updated)});
+    }
+    // A transport retry keeps its durable key. Once Stripe has accepted an
+    // attempt, a later canonical false means a resumed subscription/new intent.
+    // CAS prevents simultaneous clicks from opening two attempts.
+    if(!observed.cancellation_attempt||observed.cancellation_subscription_id!==subscriptionId||observed.cancellation_confirmed){
+      await run(env,'UPDATE subscriptions SET cancellation_attempt=?,cancellation_subscription_id=?,cancellation_confirmed=0 WHERE user_id=? AND subscription_id=? AND cancellation_attempt IS ?',random(),subscriptionId,user.id,subscriptionId,observed.cancellation_attempt);
+    }
+    const attempt=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',user.id);
+    if(attempt.subscription_id!==subscriptionId||attempt.cancellation_subscription_id!==subscriptionId||!attempt.cancellation_attempt)error(409,'Votre abonnement a changé. Actualisez votre compte avant de réessayer.','subscription_changed');
+    await stripe(env,'subscriptions/'+encodeURIComponent(subscriptionId),'POST',{'cancel_at_period_end':'true'},'dte-cancel-'+subscriptionId+'-'+attempt.cancellation_attempt);
+    await run(env,'UPDATE subscriptions SET cancellation_confirmed=1 WHERE user_id=? AND cancellation_attempt=? AND cancellation_subscription_id=?',user.id,attempt.cancellation_attempt,subscriptionId);
+    const verified=await synchronizeSubscription(env,subscriptionId,now());
+    if(verified.status!=='canceled'&&!verified.cancel_at_period_end)error(502,'La résiliation n’a pas été confirmée par le service de paiement. Réessayez ou vérifiez votre abonnement dans l’espace de facturation.','cancellation_not_confirmed');
     const updated=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',user.id);
-    return json({ok:true,cancel_at_period_end:Boolean(updated.cancel_at_period_end),access_until:accessUntil(updated)});
+    return json({ok:true,cancel_at_period_end:Boolean(verified.cancel_at_period_end),access_until:accessUntil(updated)});
   }
   if(path==='/api/billing/portal'&&method==='POST') {
     const sub=await first(env,'SELECT customer_id FROM subscriptions WHERE user_id=?',user.id); if(!sub?.customer_id) error(400,'Aucun abonnement à gérer.');

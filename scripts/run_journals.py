@@ -87,7 +87,7 @@ def main():
             completed+=1
         except Exception as exc:
             failed+=1
-            code=exc.code if isinstance(exc,GenerationFailure) else 'validation_error'
+            code=exc.code if isinstance(exc,(GenerationFailure,TransportFailure)) else 'validation_error'
             stage=exc.stage if isinstance(exc,GenerationFailure) else 'completion'
             checks=sorted({value for value in getattr(exc,'validation_codes',())
                            if isinstance(value,str) and value in VALIDATION_CODES}) if isinstance(exc,GenerationFailure) else []

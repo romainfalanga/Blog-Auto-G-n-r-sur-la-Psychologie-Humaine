@@ -22,7 +22,7 @@ def portrait(s):
             'axes':[{'label':'Colère','why':'Un intérêt de lecture formulé.','confidence':.2,'claim_type':'interest','evidence':[s['id']]}],
             'strengths':[],'uncertainties':['Un intérêt ne décrit pas toute la personne.'],
             'citations':[{'source_id':s['id'],'revision':s['revision'],'quote':s['text']}],
-            'coverage':{'processed':[s['id']],'pending':[]}}
+            'coverage':{'processed':[s['id']],'pending':[]},'psychological_map':[]}
 
 
 def contextual_portrait():
@@ -95,6 +95,93 @@ def story_outputs():
 
 
 class V2Tests(unittest.TestCase):
+
+    def test_v3_requires_a_map_list_while_unversioned_legacy_portraits_remain_compatible(self):
+        s=source()
+        for absent in (False,True):
+            p=portrait(s);p['analysis_version']=3
+            if absent:p.pop('psychological_map')
+            else:p['psychological_map']=None
+            with self.subTest(absent=absent),self.assertRaises(ValueError):personal.validate_portrait_v2(p,[s])
+            p.pop('analysis_version');personal.validate_portrait_v2(p,[s])
+
+    def test_v3_language_guard_covers_axis_and_preference_labels_without_rewriting_quotes(self):
+        sources,p=contextual_portrait();p['analysis_version']=3
+        for field in ('axis','preferred','avoid'):
+            broken=copy.deepcopy(p)
+            if field=='axis':broken['axes'][0]['label']='Elle est anxieuse'
+            else:broken['reading_preferences']={'preferred':[],'avoid':[]};broken['reading_preferences'][field]=[{'label':'Elle souhaite comprendre','evidence':[sources[0]['id']]}]
+            with self.subTest(field=field),self.assertRaisesRegex(ValueError,'portrait_language'):personal.validate_portrait_v2(broken,sources)
+        p['axes'][0]['label']='Les mots « Elle est anxieuse »'
+        quotes=copy.deepcopy(p['citations']);personal.validate_portrait_v2(p,sources)
+        self.assertEqual(p['citations'],quotes)
+
+    def test_uncited_current_correction_is_counter_context_and_new_conclusions_require_own_citations(self):
+        sources,p=contextual_portrait();memory=source('memory:current','Correction actuelle : je ne rumine plus et je me sens reposé.',revision=2)
+        all_sources=[*sources,memory];p['coverage']['processed'].append(memory['id']);original=copy.deepcopy(p);seen=[]
+        def reject(_,payload):
+            data=json.loads(payload['user_prompt']);seen.append(data)
+            self.assertEqual([s['id'] for s in data['original_sources']],[s['id'] for s in sources])
+            self.assertEqual(data['correction_context'],[memory])
+            self.assertTrue(all(memory['id'] not in claim['source_ids'] for claim in data['claims']))
+            self.assertIn('jamais comme',payload['system_prompt'])
+            return {'content':json.dumps({'checks':[{'path':x['path'],'supported':x['path']!='summary'} for x in data['claims']]})}
+        adapter=personal.Adapter(job(),reject)
+        with self.assertRaises(ValueError):personal.verify_portrait_support(p,all_sources,adapter)
+        self.assertEqual(adapter.calls,1);self.assertEqual(p,original)
+        p['summary']='{{prenom}} rapporte une amélioration actuelle.';p['summary_evidence']=[memory['id']]
+        p['axes'][0]['evidence']=[memory['id']]
+        p['citations'].append({'source_id':memory['id'],'revision':memory['revision'],'quote':memory['fields']['text']})
+        p['psychological_map'][0].update(status='contradicted',counter_evidence=[memory['id']],interactions=[])
+        p['psychological_map'][0].pop('influence',None)
+        personal.validate_portrait_v2(p,all_sources)
+        def accept(_,payload):
+            data=json.loads(payload['user_prompt'])
+            self.assertIn(memory['id'],[s['id'] for s in data['original_sources']])
+            self.assertEqual(data['correction_context'],[])
+            return {'content':json.dumps({'checks':[{'path':x['path'],'supported':True} for x in data['claims']]})}
+        personal.verify_portrait_support(p,all_sources,personal.Adapter(job(),accept))
+        self.assertEqual(p['summary_evidence'],[memory['id']]);self.assertEqual(p['psychological_map'][0]['counter_evidence'],[memory['id']])
+        self.assertEqual(p['citations'][-1]['quote'],memory['fields']['text'])
+
+    def test_counter_context_budget_preserves_pending_coverage_and_prioritizes_current_originals(self):
+        sources,p=contextual_portrait()
+        current=source('person:pending','Mon regard sur cette relation a changé.',revision=2)
+        optional=source('event:other','Une rencontre agréable.')
+        p['coverage']['pending']=[current['id'],optional['id']];saved=copy.deepcopy(p)
+        size=lambda s:len(json.dumps(s,ensure_ascii=False,separators=(',',':')).encode('utf-16-le'))//2
+        limit=sum(size(s) for s in [*sources,current])
+        context=personal.portrait_support_context(p,[*sources,optional,current],source_char_limit=limit)
+        self.assertEqual(context['correction_context'],[current]);self.assertEqual(context['correction_context_pending'],[current['id']])
+        self.assertEqual(context['support_context_coverage']['omitted_ids'],[optional['id']]);self.assertEqual(p,saved)
+        with self.assertRaises(personal.GenerationFailure) as caught:
+            personal.portrait_support_context(p,[*sources,current],source_char_limit=limit-1)
+        self.assertEqual(caught.exception.code,'quota_exceeded');self.assertEqual(caught.exception.validation_codes,('support_context_budget',))
+
+    def test_valid_derivative_can_prioritize_an_original_but_never_supply_replacement_truth(self):
+        sources,p=contextual_portrait();other=source('person:other','La relation semble plus apaisée aujourd’hui.')
+        item=derivative(other);item['derivative']['signals'][0]['kind']='correction'
+        base=sum(len(json.dumps(s,ensure_ascii=False,separators=(',',':')).encode('utf-16-le'))//2 for s in sources)
+        with self.assertRaises(personal.GenerationFailure):personal.portrait_support_context(p,[*sources,other],[item],source_char_limit=base)
+        invalid=copy.deepcopy(item);invalid['source_hash']='outdated'
+        context=personal.portrait_support_context(p,[*sources,other],[invalid],source_char_limit=base)
+        self.assertEqual(context['correction_context'],[]);self.assertEqual(context['support_context_coverage']['omitted_ids'],[other['id']])
+        context=personal.portrait_support_context(p,[*sources,other],[item])
+        self.assertEqual(context['correction_context'],[other]);self.assertNotIn('derivative',context['correction_context'][0])
+
+    def test_oversized_current_correction_refuses_support_before_any_provider_call(self):
+        sources,p=contextual_portrait();large=source('memory:large','Correction actuelle : '+('texte '*12000))
+        p['coverage']['pending']=[large['id']];seen=[];adapter=personal.Adapter(job(),lambda *args:seen.append(args))
+        with self.assertRaises(personal.GenerationFailure) as caught:personal.verify_portrait_support(p,[*sources,large],adapter)
+        self.assertEqual(caught.exception.code,'quota_exceeded');self.assertEqual(caught.exception.validation_codes,('support_context_budget',))
+        self.assertEqual(seen,[]);self.assertEqual(adapter.calls,0);self.assertEqual(p['coverage']['pending'],[large['id']])
+
+    def test_large_optional_source_set_reports_omissions_without_claiming_full_context_review(self):
+        sources,p=contextual_portrait();optional=[source('event:'+str(i),'Une rencontre agréable '+str(i)+'.') for i in range(1000)]
+        saved=copy.deepcopy(p);context=personal.portrait_support_context(p,[*sources,*optional])
+        included=context['support_context_coverage']['included_ids'];omitted=context['support_context_coverage']['omitted_ids']
+        self.assertTrue(included);self.assertTrue(omitted);self.assertEqual(len(included)+len(omitted),1000)
+        self.assertFalse(set(included)&set(omitted));self.assertEqual(p,saved)
 
     def test_declared_life_context_matches_current_worker_contract_without_civil_identity(self):
         context={'age':27,'gender':'self_described','gender_description':'  Mes propres mots  ',

@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {declaredLifeContext,assertPortraitLanguage} from '../src/portrait-language.mjs';
-import {analyzePortraitSnapshot,nativePortraitClaims} from '../src/portrait-refresh.mjs';
+import {analyzePortraitSnapshot,nativePortraitClaims,portraitSupportContext} from '../src/portrait-refresh.mjs';
 import {validatePsychologicalMap} from '../src/psychology-map.mjs';
 
 const source={id:'profile:u',type:'profile',revision:1,explicit:true,fields:{self_description:'Je me décris comme créatif. Je repense souvent au travail et cela me fatigue. Avec mes amis, je sais dire non.'}};source.text='self_description: '+source.fields.self_description;
@@ -57,4 +57,58 @@ test('semantic review keeps only verified sections and removes links to rejected
 
 test('a rejected summary still prevents publication and exposes only fixed diagnostic paths',async()=>{
  const p=portrait();await assert.rejects(()=>analyzePortraitSnapshot({sources:[source]},async request=>JSON.stringify(request.stage==='support'?{checks:nativePortraitClaims(p).map(c=>({path:c.path,supported:c.path!=='summary'}))}:p)),e=>e.message==='validation_error'&&e.verification_failures.includes('summary'));
+});
+
+test('language guard covers axis and preference labels while preserving quoted words',()=>{
+ for(const p of [{axes:[{label:'Elle est anxieuse',why:'Une réaction située.'}]},{reading_preferences:{preferred:[{label:'Il souhaite comprendre'}],avoid:[]}},{reading_preferences:{preferred:[],avoid:[{label:'Elle souhaite éviter'}]}}])assert.throws(()=>assertPortraitLanguage(p));
+ assert.doesNotThrow(()=>assertPortraitLanguage({axes:[{label:'Les mots « Elle est anxieuse »',why:'Une citation.'}],reading_preferences:{preferred:[{label:'Les mots « Il souhaite comprendre »'}],avoid:[]}}));
+});
+
+test('uncited current memory reaches semantic review as counter-context and cannot become silent support',async()=>{
+ const memory={id:'memory:u',type:'memory',revision:2,explicit:true,fields:{text:'Correction actuelle : je ne rumine plus et je me sens reposé.'},temporal:{start:'2026-11-04'}};memory.text='text: '+memory.fields.text;
+ const p=portrait(),original=structuredClone(p);let calls=0;
+ await assert.rejects(()=>analyzePortraitSnapshot({sources:[source,memory],self_context:{gender:'male'}},async request=>{
+  calls++;if(request.stage==='portrait')return p;
+  const data=JSON.parse(request.user_prompt);
+  assert.deepEqual(data.original_sources.map(x=>x.id),[source.id]);assert.deepEqual(data.correction_context,[memory]);
+  assert.ok(data.claims.every(c=>!c.source_ids.includes(memory.id)));assert.deepEqual(data.citations,original.citations);
+  assert.match(request.system_prompt,/jamais comme nouvelles preuves d’appui/);
+  return {checks:data.claims.map(c=>({path:c.path,supported:c.path!=='summary'}))};
+ }),e=>e.message==='validation_error');
+ assert.equal(calls,2);
+ const corrected=portrait();corrected.summary='{{prenom}} rapporte une amélioration actuelle.';corrected.summary_evidence=[memory.id];
+ corrected.axes[0]={...corrected.axes[0],why:'{{prenom}} décrit une amélioration.',evidence:[memory.id]};
+ corrected.citations.push({source_id:memory.id,revision:memory.revision,quote:memory.fields.text});
+ corrected.psychological_map[0]={...corrected.psychological_map[0],status:'contradicted',counter_evidence:[memory.id]};
+ const result=await analyzePortraitSnapshot({sources:[source,memory],self_context:{gender:'male'}},async request=>request.stage==='portrait'?corrected:{checks:JSON.parse(request.user_prompt).claims.map(c=>({path:c.path,supported:true}))});
+ assert.deepEqual(result.portrait.summary_evidence,[memory.id]);assert.deepEqual(result.portrait.psychological_map[0].counter_evidence,[memory.id]);
+ assert.equal(result.portrait.citations.at(-1).quote,memory.fields.text);
+});
+
+test('counter-context budget prioritizes original corrections and reports omitted and pending IDs separately',()=>{
+ const p=portrait(),optional={id:'person:other',type:'person',revision:1,explicit:true,fields:{relationship_text:'Une rencontre agréable.'},text:'relationship_text: Une rencontre agréable.'};
+ const current={id:'event:now',type:'event',revision:1,explicit:true,fields:{description:'Un événement.',meaning_now:'Mon regard a changé.'},text:'description: Un événement.\nmeaning_now: Mon regard a changé.',temporal:{start:'2026-11-04'}};
+ p.coverage={processed:[source.id],pending:[current.id,optional.id]};const saved=structuredClone(p);
+ const limit=JSON.stringify(source).length+JSON.stringify(current).length;
+ const data=portraitSupportContext(p,[source,optional,current],{sourceCharLimit:limit});
+ assert.deepEqual(data.correction_context,[current]);assert.deepEqual(data.correction_context_pending,[current.id]);
+ assert.deepEqual(data.support_context_coverage.omitted_ids,[optional.id]);assert.deepEqual(p,saved);
+ assert.throws(()=>portraitSupportContext(p,[source,current],{sourceCharLimit:limit-1}),e=>e.code==='support_context_budget');
+});
+
+test('new native analysis refuses null and absent maps before semantic review',async()=>{
+ for(const absent of [false,true]){
+  const p=portrait();if(absent)delete p.psychological_map;else p.psychological_map=null;let calls=0;
+  await assert.rejects(()=>analyzePortraitSnapshot({sources:[source]},async()=>{calls++;return p;}),e=>e.message==='validation_error');assert.equal(calls,1);
+ }
+});
+
+test('a corrective source outside native selection cannot disappear from support or gain processed coverage',async()=>{
+ const memory={id:'memory:large',type:'memory',revision:2,explicit:true,fields:{text:'Correction actuelle : '+('texte '.repeat(12000))}};memory.text='text: '+memory.fields.text;
+ let calls=0,saved;
+ await assert.rejects(()=>analyzePortraitSnapshot({sources:[source,memory],self_context:{gender:'male'}},async request=>{
+  calls++;assert.equal(request.stage,'portrait');return portrait();
+ },{saveCandidate:async candidate=>{saved=structuredClone(candidate);}}),error=>error.code==='support_context_budget');
+ assert.equal(calls,1);assert.deepEqual(saved.coverage,{processed:[source.id],pending:[memory.id]});
+ assert.ok(saved.citations.every(c=>c.source_id!==memory.id));assert.deepEqual(saved.summary_evidence,[source.id]);
 });

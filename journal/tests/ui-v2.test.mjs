@@ -196,7 +196,7 @@ test('portrait rendering no longer exposes the obsolete fictional character card
 
 test('chat network retries keep the same message key and complete draft',async()=>{
   const calls=[];const env=environment({api:async(...args)=>{calls.push(args);throw new Error('offline')}});
-  Object.assign(env.ctx.state,{chatDraft:'',chatSending:false,chatSendKey:null});vm.runInContext(functionCode('sendChat'),env.ctx);
+  Object.assign(env.ctx.state,{tab:'chat',chatDraft:'',chatSending:false,chatSendKey:null});vm.runInContext(functionCode('sendChat'),env.ctx);
   const form=env.doc.createElement('form'),input=env.doc.createElement('textarea'),send=env.doc.createElement('button');input.name='content';input.value='Mon texte complet et sensible';send.type='submit';form.append(input,send);
   await env.ctx.sendChat(form,()=>true);await env.ctx.sendChat(form,()=>true);
   assert.equal(calls.length,2);assert.equal(calls[0][2].idempotency_key,calls[1][2].idempotency_key);assert.equal(env.ctx.state.chatDraft,input.value);assert.equal(send.disabled,false);
@@ -223,7 +223,7 @@ test('proposal citations are plain text, before values visible and person associ
 });
 
 test('chat ignores duplicate sends during latency and keeps text typed while a request is pending',async()=>{
-  let resolve;const pending=new Promise(r=>resolve=r),calls=[];const env=environment({api:async(...args)=>{calls.push(args);return pending},pollChat(){}});Object.assign(env.ctx.state,{chatDraft:'Message initial',chatSending:false,chatSendKey:null,chatData:{access:{allowed:true}}});vm.runInContext(functionCode('sendChat'),env.ctx);const form=env.doc.createElement('form'),input=env.doc.createElement('textarea'),button=env.doc.createElement('button');input.name='content';input.value='Message initial';button.type='submit';form.append(input,button);const sending=env.ctx.sendChat(form,()=>true);input.value='Mon prochain message';env.ctx.state.chatDraft=input.value;await env.ctx.sendChat(form,()=>true);assert.equal(calls.length,1);resolve({pending_request:{id:'pending',status:'running'},request_id:'pending'});await sending;assert.equal(env.ctx.state.chatDraft,'Mon prochain message');assert.equal(env.ctx.state.chatSending,true);assert.equal(button.disabled,true);
+  let resolve;const pending=new Promise(r=>resolve=r),calls=[];const env=environment({api:async(...args)=>{calls.push(args);return pending},pollChat(){}});Object.assign(env.ctx.state,{tab:'chat',chatDraft:'Message initial',chatSending:false,chatSendKey:null,chatData:{access:{allowed:true}}});vm.runInContext(functionCode('sendChat'),env.ctx);const form=env.doc.createElement('form'),input=env.doc.createElement('textarea'),button=env.doc.createElement('button');input.name='content';input.value='Message initial';button.type='submit';form.append(input,button);const sending=env.ctx.sendChat(form,()=>true);input.value='Mon prochain message';env.ctx.state.chatDraft=input.value;await env.ctx.sendChat(form,()=>true);assert.equal(calls.length,1);resolve({pending_request:{id:'pending',status:'running'},request_id:'pending'});await sending;assert.equal(env.ctx.state.chatDraft,'Mon prochain message');assert.equal(env.ctx.state.chatSending,true);assert.equal(button.disabled,true);
 });
 
 
@@ -274,7 +274,7 @@ test('V5 portrait panes respect deep links and switching preserves form nodes',a
 
 test('V5 an immediate idempotent chat response leaves the new composer enabled',async()=>{
  const env=environment({api:async()=>({consent:true,access:{allowed:true},quota:{remaining:99,limit:100},messages:[],proposals:[]})});
- Object.assign(env.ctx.state,{chatDraft:'Bonjour',chatSending:false,chatData:{access:{allowed:true}}});env.ctx.drawChatProposal=()=>{};
+ Object.assign(env.ctx.state,{tab:'chat',chatDraft:'Bonjour',chatSending:false,chatData:{access:{allowed:true}}});env.ctx.drawChatProposal=()=>{};
  vm.runInContext(functionCode('chatConsent')+'\n'+functionCode('drawChat')+'\n'+functionCode('sendChat'),env.ctx);
  env.host('view');const form=env.doc.createElement('form'),input=env.doc.createElement('textarea'),button=env.doc.createElement('button');input.name='content';input.value='Bonjour';button.type='submit';form.append(input,button);
  await env.ctx.sendChat(form,()=>true);
@@ -283,7 +283,7 @@ test('V5 an immediate idempotent chat response leaves the new composer enabled',
 
 test('V5 retrying a pending turn keeps one visible user message and its draft',async()=>{
  const env=environment({api:async()=>({pending_request:{id:'same-turn',status:'running'}}),pollChat(){}});
- Object.assign(env.ctx.state,{chatDraft:'Un seul message',chatSending:false,chatData:{access:{allowed:true}}});vm.runInContext(functionCode('sendChat'),env.ctx);
+ Object.assign(env.ctx.state,{tab:'chat',chatDraft:'Un seul message',chatSending:false,chatData:{access:{allowed:true}}});vm.runInContext(functionCode('sendChat'),env.ctx);
  const thread=env.host('thread');thread.className='chat-thread';const form=env.doc.createElement('form'),input=env.doc.createElement('textarea'),button=env.doc.createElement('button');input.name='content';input.value='Un seul message';button.type='submit';form.append(input,button);
  await env.ctx.sendChat(form,()=>true);env.ctx.state.chatSending=false;env.ctx.state.chatRequest=null;await env.ctx.sendChat(form,()=>true);
  assert.equal(thread.children.length,1);assert.equal(thread.children[0].dataset.chatTurnId,'same-turn');assert.equal(input.value,'Un seul message');
@@ -486,4 +486,63 @@ test('V8 contextual influence and mechanisms remain qualitative and separate fro
 
 test('V8 legacy pronouns with ambiguous referents are left for source-based analysis repair',()=>{
  const env=mapFixture(),subject={first_name:'Romain',gender:'male'};assert.equal(env.ctx.personalizePortraitText('La personne décrit sa mère. Elle est créative.',subject),'Romain décrit sa mère. Elle est créative.');assert.equal(env.ctx.personalizePortraitText('Sa mère est attentive. Elle se sent anxieuse.',subject),'Sa mère est attentive. Elle se sent anxieuse.');assert.equal(env.ctx.personalizePortraitText('« La personne est créative. Elle est réfléchie. »',subject),'« La personne est créative. Elle est réfléchie. »');assert.equal(env.ctx.personalizePortraitText('{{prenom}} est créatif. Sa mère est créative.',subject),'Romain est créatif. Sa mère est créative.');
+});
+
+test('a late chat POST cannot cancel the new view polling or alter its draft and request state',async()=>{
+ let resolve;const pending=new Promise(r=>resolve=r),timers=new Map(),cleared=[];let serial=0,active=true,drawn=0;
+ const env=environment({api:async(path,method)=>method==='POST'?pending:{messages:[{role:'assistant',content:'Réponse terminée'}],access:{allowed:true}},setTimeout(fn){timers.set(++serial,fn);return serial},clearTimeout(id){if(timers.delete(id))cleared.push(id)}});
+ vm.runInContext(functionCode('sendChat')+'\n'+functionCode('pollChat'),env.ctx);env.ctx.drawChat=()=>drawn++;
+ Object.assign(env.ctx.state,{tab:'chat',chatData:{access:{allowed:true}},chatDraft:'Message envoyé'});
+ const form=env.doc.createElement('form'),input=env.doc.createElement('textarea');input.name='content';input.value='Message envoyé';form.append(input);
+ const sending=env.ctx.sendChat(form,()=>active);active=false;
+ Object.assign(env.ctx.state,{chatSending:true,chatRequest:{id:'pending-current'},chatDraft:'Nouveau brouillon',chatSendKey:{key:'current-key'},chatData:{marker:'current'}});
+ env.ctx.pollChat({id:'pending-current'},()=>true,null);const currentTimer=env.ctx.state.chatTimer;
+ resolve({pending_request:{id:'pending-old'}});await sending;
+ assert.equal(env.ctx.state.chatTimer,currentTimer);assert.equal(cleared.includes(currentTimer),false);assert.equal(env.ctx.state.chatRequest.id,'pending-current');assert.equal(env.ctx.state.chatDraft,'Nouveau brouillon');assert.equal(env.ctx.state.chatSendKey.key,'current-key');assert.equal(env.ctx.state.chatData.marker,'current');
+ env.ctx.pollChat({id:'obsolete'},()=>false,null);assert.equal(env.ctx.state.chatTimer,currentTimer);assert.equal(timers.size,1);
+ const callback=timers.get(currentTimer);timers.delete(currentTimer);await callback();assert.equal(drawn,1);assert.equal(env.ctx.state.chatSending,false);assert.equal(env.ctx.state.chatDraft,'Nouveau brouillon');
+});
+
+test('chat completion and fallback refresh cannot clear another view draft after navigation',async()=>{
+ let resolveRefresh,started;const refresh=new Promise(r=>resolveRefresh=r),loading=new Promise(r=>started=r);let active=true;
+ const env=environment({api:async(path,method)=>{if(method==='POST')return {};started();return refresh}});vm.runInContext(functionCode('sendChat'),env.ctx);
+ Object.assign(env.ctx.state,{tab:'chat',chatData:{access:{allowed:true}}});const form=env.doc.createElement('form'),input=env.doc.createElement('textarea');input.name='content';input.value='Message initial';form.append(input);
+ const sending=env.ctx.sendChat(form,()=>active);await loading;active=false;
+ Object.assign(env.ctx.state,{chatDraft:'Brouillon actuel',chatSendKey:{key:'current'},chatRequest:{id:'current'},chatSending:true,chatData:{marker:'current'}});
+ resolveRefresh({messages:[]});await sending;
+ assert.equal(env.ctx.state.chatDraft,'Brouillon actuel');assert.equal(env.ctx.state.chatSendKey.key,'current');assert.equal(env.ctx.state.chatRequest.id,'current');assert.equal(env.ctx.state.chatSending,true);assert.equal(env.ctx.state.chatData.marker,'current');
+});
+
+test('a first feedback draft keeps revision zero when the story is reopened after another editor saves',async()=>{
+ let remoteFeedback=null,sent;const env=environment({plainBody(){},characterName:()=> 'Camille',capturePageDrafts(){},api:async(path,method,payload)=>{if(method==='PUT'){sent=payload;const error=new Error('Ce retour a été modifié.');error.status=409;throw error;}return {story:{id:'s1',character_id:'c1',title:'Fiction',body:'Fiction',reflection_questions:[]},feedback:remoteFeedback}}});
+ Object.assign(env.ctx.state,{tab:'journal',selected:'s1',selectedCharacter:'c1',characters:[{id:'c1'}],archivedCharacters:[],feedbackDrafts:new Map()});
+ const form=env.host('feedback-form');for(const id of ['reading','story-label','story-title','story-preview','story-preview-section','story-body','story-reflection','recognition'])env.host(id);
+ for(const name of ['why','correction','differences','scope','preference','avoid']){const input=env.doc.createElement('textarea');input.id='feedback-'+name;input.name=name;form.append(input);}
+ env.ctx.formValues=()=>({resonance:'5',why:env.doc.getElementById('feedback-why').value});vm.runInContext(functionCode('storyDefinitionPreview')+'\n'+functionCode('loadStory'),env.ctx);
+ await env.ctx.loadStory('s1');env.doc.getElementById('feedback-why').value='Mon brouillon initial';await form.fire('input');assert.equal(env.ctx.state.feedbackDrafts.get('s1').revision,0);
+ remoteFeedback={revision:1,resonance:3,why:'Un autre onglet'};await env.ctx.loadStory('s1');assert.equal(env.doc.getElementById('feedback-why').value,'Mon brouillon initial');
+ // The test DOM keeps the original form node; use only the freshly rendered handler.
+ form.listeners.submit=form.listeners.submit.slice(-1);await form.fire('submit');
+ assert.equal(sent.revision,0);assert.equal(sent.why,'Mon brouillon initial');assert.equal(env.ctx.state.feedbackDrafts.get('s1').revision,0);assert.equal(env.ctx.state.feedbackDrafts.get('s1').why,'Mon brouillon initial');
+});
+
+test('append proposals show and submit only the added fragment while keeping the full original in the preview',async()=>{
+ let sent,confirmations=0;const original='Une longue présentation déjà enregistrée. '.repeat(180),env=environment({confirm(){confirmations++;return true},api:async(path,method,payload)=>{sent={path,payload};throw new Error('Réseau indisponible')}});env.ctx.state.chatProposalDrafts=new Map();vm.runInContext(functionCode('drawChatProposal'),env.ctx);
+ const host=env.host('proposals');env.ctx.drawChatProposal(host,{id:'append',kind:'self_profile_patch',revision:2,payload:{self_description:'Une précision nouvelle.'},before:{self_description:original},field_modes:{self_description:'append'},evidence_quote:'Mes mots exacts.'},()=>true);
+ const form=host.children[0],input=form.elements.self_description;assert.equal(input.value,'Une précision nouvelle.');assert.match(form.querySelector('label').textContent,/^Ajouter à/);assert.ok(form.querySelector('.proposal-before').textContent.includes(original));assert.match(form.textContent,/texte déjà enregistré, qui sera conservé/);
+ input.value='Une précision modifiée.';await input.fire('input');await form.fire('submit');assert.equal(sent.payload.payload.self_description,'Une précision modifiée.');assert.equal(sent.payload.revision,2);assert.equal(confirmations,0);assert.equal(env.ctx.state.chatProposalDrafts.get('append').self_description,'Une précision modifiée.');assert.equal(form.querySelector('blockquote').textContent,'Mes mots exacts.');
+});
+
+test('an explicit replacement names the affected field and requires confirmation before sending',async()=>{
+ let sent,confirmed=false;const prompts=[],env=environment({confirm(text){prompts.push(text);return confirmed},api:async(path,method,payload)=>{sent={path,payload};throw new Error('Conflit')}});env.ctx.state.chatProposalDrafts=new Map();vm.runInContext(functionCode('drawChatProposal'),env.ctx);
+ const host=env.host('proposals');env.ctx.drawChatProposal(host,{id:'replace',kind:'self_profile_patch',revision:4,payload:{self_description:'Ma nouvelle présentation.'},before:{self_description:'Ancienne présentation.',emotions:'Un champ conservé.'},field_modes:{self_description:'set'}},()=>true);
+ const form=host.children[0];assert.equal(form.querySelector('label').textContent,'Remplacer : Votre présentation');assert.equal(form.querySelector('button').textContent,'Remplacer « Votre présentation »');await form.fire('submit');assert.equal(sent,undefined);assert.match(prompts[0],/^Remplacer « Votre présentation »/);assert.doesNotMatch(prompts[0],/émotions/);
+ confirmed=true;await form.fire('submit');assert.equal(sent.payload.payload.self_description,'Ma nouvelle présentation.');assert.equal('emotions' in sent.payload.payload,false);assert.equal(sent.payload.revision,4);
+});
+
+test('mixed proposal modes distinguish replacements and additions while legacy proposals retain their original behavior',async()=>{
+ const prompts=[],env=environment({confirm(text){prompts.push(text);return false}});env.ctx.state.chatProposalDrafts=new Map();vm.runInContext(functionCode('drawChatProposal'),env.ctx);
+ const host=env.host('proposals');env.ctx.drawChatProposal(host,{id:'mixed',kind:'life_event_update',revision:1,payload:{title:'Titre inchangé',description:'Texte corrigé.',meaning_now:'Nouveau recul.'},before:{title:'Titre inchangé',description:'Texte original.',meaning_now:'Recul existant.'},field_modes:{title:'set',description:'set',meaning_now:'append'}},()=>true);
+ const form=host.children[0];assert.match(form.textContent,/Remplacer : Description/);assert.match(form.textContent,/Ajouter à : Ce que ce moment représente aujourd’hui/);assert.equal(form.querySelector('button').textContent,'Confirmer les remplacements et ajouts');await form.fire('submit');assert.match(prompts[0],/^Remplacer « Description »/);assert.doesNotMatch(prompts[0],/représente|Titre/);assert.doesNotMatch(form.textContent,/Remplacer : Titre/);
+ const legacy=env.host('legacy');env.ctx.drawChatProposal(legacy,{id:'old',kind:'person_update',revision:1,payload:{relationship_text:'Texte complet hérité.'},before:{relationship_text:'Avant.'}},()=>true);assert.equal(legacy.children[0].elements.relationship_text.value,'Texte complet hérité.');assert.equal(legacy.querySelector('label').textContent,'Votre relation');assert.equal(legacy.querySelector('button').textContent,'Accepter cette proposition');
 });

@@ -10,7 +10,7 @@ export const withoutQuotedText=value=>String(value||'').replace(/«[^»]*»|“[
 export function assertPortraitLanguage(p,identity=p.identity_context||{}){
  // Explicit names/roles for third parties avoid ambiguous pronoun resolution.
  // We regenerate unsafe prose, rather than rewriting a mother's or friend's words.
- const prose=[p.summary,...(p.axes||[]).map(x=>x.why),...(p.strengths||[]).map(x=>x.text),...(p.uncertainties||[]),p.current_state?.summary,p.evolution?.summary];
+ const prose=[p.summary,...(p.axes||[]).flatMap(x=>[x.label,x.why]),...(p.strengths||[]).map(x=>x.text),...(p.uncertainties||[]),p.current_state?.summary,p.evolution?.summary,...['preferred','avoid'].flatMap(field=>(p.reading_preferences?.[field]||[]).map(x=>x.label))];
  for(const h of p.psychological_map||[])prose.push(h.observation,h.possible_function,...h.alternatives,h.next_question,h.influence?.rationale,...(h.interactions||[]).map(x=>x.explanation));
  if(prose.some(text=>/(?:^|[\s(’'])\b(?:elle|elles|il|ils)\b/i.test(withoutQuotedText(text))))throw Error('portrait_language');
  const attributes={créative:'créatif',attentive:'attentif',réfléchie:'réfléchi',curieuse:'curieux',intuitive:'intuitif',anxieuse:'anxieux',fatiguée:'fatigué',épuisée:'épuisé',heureuse:'heureux',réservée:'réservé',confiante:'confiant',exigeante:'exigeant'};

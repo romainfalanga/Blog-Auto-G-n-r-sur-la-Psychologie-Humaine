@@ -187,6 +187,27 @@ class PipelineTests(unittest.TestCase):
         self.assertNotIn('private-lease',out.getvalue())
         self.assertEqual(calls[1][1]['reason'],'provider_error')
 
+    def test_runner_preserves_completion_transport_codes_without_retrying_nonprovider_failures(self):
+        for code in ('context_changed','lease_expired','generation_paused','quota_exceeded'):
+            with self.subTest(code=code):
+                calls=[];claimed=False
+                def internal(path,payload):
+                    nonlocal claimed
+                    calls.append((path,payload))
+                    if path=='/claim':
+                        if claimed:return {'jobs':[]}
+                        claimed=True;return {'jobs':[job()]}
+                    if path.endswith('/complete'):raise runner.TransportFailure('PRIVATE TRANSPORT DETAILS',code)
+                    return {}
+                out=io.StringIO()
+                with patch.object(runner,'internal',side_effect=internal),patch.object(runner,'generate',return_value={}),contextlib.redirect_stdout(out):
+                    self.assertEqual(runner.main(),1)
+                failures=[payload for path,payload in calls if path.endswith('/fail')]
+                self.assertEqual(failures[0]['reason'],code)
+                self.assertEqual(sum(path.endswith('/complete') for path,_ in calls),1)
+                self.assertIn('stage=completion, code='+code,out.getvalue())
+                self.assertNotIn('PRIVATE TRANSPORT DETAILS',out.getvalue());self.assertNotIn('private-lease',out.getvalue())
+
     def test_review_that_drops_most_content_is_rejected_not_accepted_as_review(self):
         body=article();outputs=[json.dumps({'sujet':'limites','contexte':'demande'}),
             'TITRE_SEO: Titre\nMETA_DESCRIPTION: Description\nSLUG: titre\nTAGS: limites\n---\n'+body,'Trop court.']
