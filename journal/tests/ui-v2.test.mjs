@@ -26,6 +26,7 @@ class Element {
   set textContent(value) { this._text=String(value);this.children=[]; }
   get textContent() { return this._text + this.children.map(x=>typeof x==='string'?x:x.textContent).join(''); }
   setAttribute(name,value) { this.attributes[name]=value; }
+  removeAttribute(name) { delete this.attributes[name]; }
   addEventListener(name,fn) { (this.listeners[name]??=[]).push(fn); }
   async fire(name) { for (const fn of this.listeners[name]||[]) await fn({target:this,currentTarget:this,preventDefault(){}}); }
   focus() {this.doc.activeElement=this;}
@@ -138,7 +139,7 @@ test('V3 separates relationship and life pages from the declared and interpreted
   assert.equal(env.ctx.pageForPath('/mes-proches'),'people');assert.equal(env.ctx.pageForPath('/ma-ligne-de-vie/'),'events');assert.equal(env.ctx.pageForPath('/mon-personnage/'),'journal');
   assert.doesNotMatch(functionCode('renderPortrait'),/renderPersonalSources/);
   assert.match(functionCode('renderPortrait'),/renderSelfProfile/);
-  assert.match(HTML,/Mon portrait déclaré/);assert.match(HTML,/L’interprétation de votre portrait par l’IA/);
+  assert.match(HTML,/À propos de moi/);assert.match(HTML,/Ma synthèse/);
   assert.doesNotMatch(HTML,/Trois personnages|trois personnages|\[1,2,3\]\.forEach/);
 });
 
@@ -224,4 +225,62 @@ test('chat ignores duplicate sends during latency and keeps text typed while a r
 
 test('proposal importance is numeric from null and clearing restores null',async()=>{
   const env=environment();env.ctx.state.chatProposalDrafts=new Map();vm.runInContext(functionCode('drawChatProposal'),env.ctx);const host=env.host('proposals');env.ctx.drawChatProposal(host,{id:'importance',kind:'life_event_create',revision:1,payload:{current_importance:null}},()=>true);const input=field(host.children[0],'current_importance','4');await input.fire('input');assert.equal(env.ctx.state.chatProposalDrafts.get('importance').current_importance,4);input.value='';await input.fire('input');assert.equal(env.ctx.state.chatProposalDrafts.get('importance').current_importance,null);
+});
+
+
+test('V5 removes the global likes badge and every stale badge update',()=>{
+  assert.doesNotMatch(functionCode('renderApp'),/plan-status|likes_count/);
+  assert.doesNotMatch(functionCode('renderLikes'),/plan-status|progressBlock/);
+});
+
+test('V5 empty conversation renders no invented message and places quota in the page tools',()=>{
+  const env=environment();env.ctx.state.chatData={consent:true,access:{allowed:true},quota:{remaining:99,limit:100},messages:[],proposals:[]};
+  env.host('chat-quota');env.ctx.drawChatProposal=()=>{};
+  vm.runInContext(functionCode('chatConsent')+'\n'+functionCode('drawChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);
+  assert.equal(host.querySelector('.chat-thread').children.length,0);
+  assert.equal(env.doc.getElementById('chat-quota').textContent,'99 / 100 messages');
+  assert.equal(env.doc.getElementById('chat-form').querySelector('button').disabled,false);
+  assert.doesNotMatch(host.textContent,/Un espace pour prendre du recul|Vous pouvez commencer par une situation/);
+});
+
+test('V5 blocked sends retain editable draft, history and proposals for all access reasons',()=>{
+  for(const reason of ['consent_required','subscription_required','quota_exhausted','provider_missing','generation_paused']){
+    const env=environment();env.ctx.state.chatDraft='Mon brouillon';env.ctx.state.chatData={consent:reason!=='consent_required',access:{allowed:false,reason},quota:{remaining:reason==='quota_exhausted'?0:100,limit:100},messages:[{role:'assistant',content:'Historique conservé'}],proposals:[{status:'pending'}]};
+    env.ctx.drawChatProposal=host=>host.append(env.doc.createElement('form'));
+    vm.runInContext(functionCode('chatConsent')+'\n'+functionCode('drawChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);
+    assert.match(host.textContent,/Historique conservé/);assert.match(host.textContent,/Effacer la conversation et désactiver/);
+    assert.equal(env.doc.getElementById('chat-proposals').children.length,1);
+    assert.equal(env.doc.getElementById('chat-content').value,'Mon brouillon');assert.equal(env.doc.getElementById('chat-form').querySelector('button').disabled,true);
+  }
+});
+
+test('V5 portrait panes respect deep links and switching preserves form nodes',async()=>{
+ for(const [hash,key] of [['#self-profile','self'],['#mes-articles','readings'],['#suggestions','readings'],['#correction-form','synthesis'],['','synthesis']]){
+  const location={hash,pathname:'/mon-portrait/',search:'?article=old'};const env=environment({location,history:{replaceState(a,b,url){location.hash=url.includes('#')?url.slice(url.indexOf('#')):''}}});
+  env.ctx.state.pendingArticle=hash?'old':null;const view=env.host('view'),panes=['synthesis','self','readings'].map(key=>{const e=env.doc.createElement('section');e.dataset.portraitPane=key;view.append(e);return e}),tabs=['synthesis','self','readings'].map((key,i)=>{const e=env.doc.createElement('a');e.dataset.portraitTab=key;e.getAttribute=()=>['#synthese','#self-profile','#mes-articles'][i];view.append(e);return e});
+  const form=env.doc.createElement('form');panes[1].append(form);const details=env.doc.createElement('details'),correction=env.host('correction-form');details.append(correction);panes[0].append(details);
+  view.querySelectorAll=selector=>selector==='[data-portrait-pane]'?panes:tabs;
+  vm.runInContext(functionCode('setupPortraitViews'),env.ctx);env.ctx.setupPortraitViews(view);
+  assert.equal(panes.find(p=>!p.hidden).dataset.portraitPane,key);if(hash==='#correction-form')assert.equal(details.open,true);
+  await tabs[1].fire('click');assert.equal(panes[1].hidden,false);assert.equal(panes[1].children[0],form);
+  await tabs[2].fire('click');assert.equal(panes[2].hidden,false);assert.equal(panes[1].children[0],form);
+ }
+});
+
+
+test('V5 an immediate idempotent chat response leaves the new composer enabled',async()=>{
+ const env=environment({api:async()=>({consent:true,access:{allowed:true},quota:{remaining:99,limit:100},messages:[],proposals:[]})});
+ Object.assign(env.ctx.state,{chatDraft:'Bonjour',chatSending:false,chatData:{access:{allowed:true}}});env.ctx.drawChatProposal=()=>{};
+ vm.runInContext(functionCode('chatConsent')+'\n'+functionCode('drawChat')+'\n'+functionCode('sendChat'),env.ctx);
+ env.host('view');const form=env.doc.createElement('form'),input=env.doc.createElement('textarea'),button=env.doc.createElement('button');input.name='content';input.value='Bonjour';button.type='submit';form.append(input,button);
+ await env.ctx.sendChat(form,()=>true);
+ assert.equal(env.doc.getElementById('chat-form').querySelector('button').disabled,false);assert.equal(env.ctx.state.chatSending,false);
+});
+
+test('V5 retrying a pending turn keeps one visible user message and its draft',async()=>{
+ const env=environment({api:async()=>({pending_request:{id:'same-turn',status:'running'}}),pollChat(){}});
+ Object.assign(env.ctx.state,{chatDraft:'Un seul message',chatSending:false,chatData:{access:{allowed:true}}});vm.runInContext(functionCode('sendChat'),env.ctx);
+ const thread=env.host('thread');thread.className='chat-thread';const form=env.doc.createElement('form'),input=env.doc.createElement('textarea'),button=env.doc.createElement('button');input.name='content';input.value='Un seul message';button.type='submit';form.append(input,button);
+ await env.ctx.sendChat(form,()=>true);env.ctx.state.chatSending=false;env.ctx.state.chatRequest=null;await env.ctx.sendChat(form,()=>true);
+ assert.equal(thread.children.length,1);assert.equal(thread.children[0].dataset.chatTurnId,'same-turn');assert.equal(input.value,'Un seul message');
 });
