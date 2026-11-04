@@ -90,7 +90,7 @@ export function createRecommender(examples){
   for(const hypothesis of context.portrait?.psychological_map||[]){
    const concept=catalogue.get(hypothesis.pattern_id);
    if(!concept||!['exploring','supported'].includes(hypothesis.status)||!Array.isArray(hypothesis.evidence)||!hypothesis.evidence.length||hypothesis.evidence.some(id=>!originals.get(id)?.explicit))continue;
-   for(const id of hypothesis.evidence){const original=originals.get(id);signal(original.type==='memory'?'memory':id,[concept.label,...concept.keywords].join(' '),'hypothesis',hypothesis.status==='supported'?1:.6,original.updated_at);}
+   for(const id of hypothesis.evidence){const original=originals.get(id);signal(original.type==='memory'?'memory':id,[concept.label,...concept.keywords].join(' '),'hypothesis',(hypothesis.status==='supported'?1:.6)*({low:.8,moderate:1,high:1.2}[hypothesis.influence?.level]||1),original.updated_at);}
   }
   // Never let the same original evidence gain weight by reappearing in a portrait.
   return {signals,likes,evidence};

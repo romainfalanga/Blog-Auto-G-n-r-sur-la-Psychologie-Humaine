@@ -172,7 +172,7 @@ async function routes(request,env,ctx) {
   if(method==='GET'&&path==='/') return Response.redirect('https://decodetonesprit.fr/',302);
   if(['GET','HEAD'].includes(method)&&['/mes-articles','/mes-articles/'].includes(path)) return Response.redirect(new URL('/mon-portrait/'+url.search+'#mes-articles',env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
   if(['GET','HEAD'].includes(method)&&['/mes-histoires','/mes-histoires/','/mes-personnages','/mes-personnages/'].includes(path)) return Response.redirect(new URL('/mon-personnage/'+url.search,env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
-  const pageTitles={'/mon-accompagnement':'Mon accompagnement','/mon-personnage':'Mon personnage','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mon-portrait':'Mon portrait','/mon-compte':'Mon compte'};
+  const pageTitles={'/mon-accompagnement':'Ambre','/mon-personnage':'Mon personnage','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mon-portrait':'Mon portrait','/mon-compte':'Mon compte'};
   const pagePath=path.replace(/\/$/,'');
   if(['GET','HEAD'].includes(method)&&pageTitles[pagePath]) {
     const page=HTML.replace(/<title>[^<]*<\/title>/,'<title>Décode ton esprit</title>');

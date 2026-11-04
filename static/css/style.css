@@ -1142,7 +1142,7 @@ main {
 /* One search surface for character identity, psychological themes and stories. */
 .hero {padding-bottom:1.4rem}
 .character-directory {padding-top:0}
-.character-search-box {position:relative;max-width:820px;background:var(--color-card-bg);border:1px solid #CBD9D5;border-radius:12px;padding:10px 18px;transition:border-color .15s}
+.character-search-box {position:relative;max-width:820px;margin-inline:auto;background:var(--color-card-bg);border:1px solid #CBD9D5;border-radius:12px;padding:10px 18px;transition:border-color .15s}
 .character-search-box:focus-within {border-color:var(--color-accent);box-shadow:0 0 0 3px var(--color-accent-light)}
 .character-search-field {display:flex;align-items:center;gap:12px;min-width:0}
 .character-search-field svg {flex:none;color:var(--color-accent)}

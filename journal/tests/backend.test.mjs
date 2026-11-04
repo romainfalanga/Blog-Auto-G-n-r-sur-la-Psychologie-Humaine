@@ -17,7 +17,7 @@ const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').r
 const {default:worker,passwordHash,constantEqual,verifyStripeSignature,validateClaims,activeSubscription,claimJobs,completeJob,proxyJobLLM,failJob,runGenerationBatch,refreshUserPortrait}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));
 function database({legacy=false,v2=false}={}) {
  const db=new DatabaseSync(':memory:');
- for(const migration of ['0001.sql','0002_inspirations.sql',...(!legacy?['0003_likes_portraits.sql','0004_recommendations_free_portraits.sql','0005_personal_context_characters.sql','0006_recommendation_exposures.sql',...(!v2?['0007_self_profile_single_character.sql']:[]),'0008_billing_trial.sql','0009_private_companion.sql','0010_requested_focus.sql','0011_native_portrait_candidate.sql']:[])]) db.exec(readFileSync(new URL('../migrations/'+migration,import.meta.url),'utf8'));
+ for(const migration of ['0001.sql','0002_inspirations.sql',...(!legacy?['0003_likes_portraits.sql','0004_recommendations_free_portraits.sql','0005_personal_context_characters.sql','0006_recommendation_exposures.sql',...(!v2?['0007_self_profile_single_character.sql']:[]),'0008_billing_trial.sql','0009_private_companion.sql','0010_requested_focus.sql','0011_native_portrait_candidate.sql','0012_ambre_portrait_corrections.sql']:[])]) db.exec(readFileSync(new URL('../migrations/'+migration,import.meta.url),'utf8'));
  for(const example of examples) db.prepare('INSERT INTO public_examples(id,body) VALUES(?,?)').run(example.id,'Canonical body: '+example.title);
  function prepare(sql){let params=[];return {bind(...v){params=v;return this;},async first(){return db.prepare(sql).get(...params)||null;},async all(){return {results:db.prepare(sql).all(...params)};},async run(){const r=db.prepare(sql).run(...params);return {meta:{changes:r.changes}};}};}
  let queue=Promise.resolve();return {raw:db,prepare,batch(statements){const task=queue.then(async()=>{db.exec('BEGIN');try{const r=[];for(const s of statements)r.push(await s.run());db.exec('COMMIT');return r;}catch(e){db.exec('ROLLBACK');throw e;}});queue=task.catch(()=>{});return task;}};
@@ -540,7 +540,7 @@ test('source edits clear unpublished native portrait candidates',async()=>{
 test('a semantic rejection can retry automatically with a new guarded synthesis, within three attempts',async t=>{
  const env={DB:database(),OPENROUTER_API_KEY:'mock-provider',FREE_ACCESS_ENABLED:'true'},a=await register(env);await addEvent(env,a);let checks=0,calls=0;const original=globalThis.fetch;t.after(()=>{globalThis.fetch=original});
  globalThis.fetch=async(_url,options)=>{calls++;const input=JSON.parse(JSON.parse(options.body).messages.at(-1).content);let result;if(input.claims){checks++;result={checks:input.claims.map(c=>({path:c.path,supported:checks>1}))}}else result={...portraitV2(await loadContext(env,a.user.id)),psychological_map:[]};return new Response(JSON.stringify({choices:[{finish_reason:'stop',message:{content:JSON.stringify(result)}}]}));};
- const first=await refreshUserPortrait(env,a.user.id);assert.equal(first.failed,1);const job=env.DB.raw.prepare("SELECT * FROM journal_jobs WHERE user_id=? AND status='pending'").get(a.user.id);assert.equal(job.error_code,'validation_error');assert.equal(job.native_candidate,null);env.DB.raw.prepare('UPDATE journal_jobs SET lease_until=0 WHERE id=?').run(job.id);
+ const first=await refreshUserPortrait(env,a.user.id);assert.equal(first.failed,1);const job=env.DB.raw.prepare("SELECT * FROM journal_jobs WHERE user_id=? AND status='pending'").get(a.user.id);assert.equal(job.error_code,'validation_error');const diagnostic=JSON.parse(job.native_candidate);assert.equal(diagnostic.rejected,true);assert.ok(diagnostic.failed_paths.includes('summary'));assert.deepEqual(Object.keys(diagnostic).sort(),['analysis_version','failed_paths','rejected']);env.DB.raw.prepare('UPDATE journal_jobs SET lease_until=0 WHERE id=?').run(job.id);
  const retry=await refreshUserPortrait(env,a.user.id);assert.equal(retry.completed,1);assert.equal(calls,4);
 });
 
@@ -562,4 +562,15 @@ test('portrait display identity is current and separate from evidence; chat read
  assert.deepEqual(env.DB.raw.prepare('SELECT version,self_revision,self_data FROM profiles WHERE user_id=?').get(a.user.id),before);
  env.DB.raw.prepare('UPDATE profiles SET self_data=? WHERE user_id=?').run(JSON.stringify({first_name:'Autre prénom',gender:'non_binary'}),a.user.id);
  assert.equal((await (await request(env,'/api/portrait',{cookie:a.cookie})).json()).subject.first_name,'Autre prénom');
+});
+
+test('portrait publication enforces current gender and V3 language even when a legacy caller omits analysis metadata',async()=>{
+ const env={DB:database(),PUBLIC_ORIGIN:origin,FREE_ACCESS_ENABLED:'true'},a=await register(env);
+ const saved=await request(env,'/api/self-profile',{method:'PUT',cookie:a.cookie,data:{expected_revision:1,first_name:'Romain',gender:'male',self_description:'Je me décris comme créatif.'}});assert.equal(saved.status,200);
+ env.OPENROUTER_API_KEY='mock-only';const j=await claim(env);assert.equal(j.kind,'portrait');const s=j.sources.find(s=>s.type==='profile');
+ const p={schema_version:2,summary:'{{prenom}} se décrit comme créatif.',summary_evidence:[s.id],axes:[{label:'Créativité',why:'{{prenom}} évoque la créativité.',confidence:.3,claim_type:'declaration',evidence:[s.id]}],strengths:[],uncertainties:[],citations:[{source_id:s.id,revision:s.revision,quote:s.fields.self_description}],psychological_map:[]};
+ await assert.rejects(()=>complete(env,j,{portrait:{...p,summary:'Elle se décrit comme créative.'}}),e=>e.code==='invalid_portrait');
+ await assert.rejects(()=>complete(env,j,{portrait:{...p,summary:'{{prenom}} est créative.',identity_context:{gender:'female'}}}),e=>e.code==='invalid_portrait');
+ await complete(env,j,{portrait:p});const stored=JSON.parse(env.DB.raw.prepare('SELECT portrait FROM user_portraits WHERE user_id=?').get(a.user.id).portrait);
+ assert.equal(stored.analysis_version,3);assert.equal(stored.identity_context.gender,'male');assert.equal(stored.identity_context.first_name,undefined);
 });

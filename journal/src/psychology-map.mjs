@@ -11,6 +11,7 @@ export function validatePsychologicalMap(value,sources,citations,invalid=message
  const allowed=new Map(sources.map(s=>[s.id,s])),proofs=new Set(citations.filter(c=>personalQuote(allowed.get(c.source_id),c.quote)).map(c=>c.source_id)),seen=new Set();
  const clean=(v,max)=>{if(typeof v!=='string'||!v.trim()||v.length>max)return invalid('Texte de cartographie invalide.');return v.trim()};
  const refs=(v,required=false)=>{if(!Array.isArray(v)||v.length>20||required&&!v.length||v.some(id=>!proofs.has(id)))return invalid('Preuves personnelles de cartographie requises.');return [...new Set(v)]};
+ const activeIds=new Set(value.map(h=>h?.pattern_id));
  return value.map(h=>{
   if(!h||!patterns.has(h.pattern_id)||seen.has(h.pattern_id)||!['exploring','supported','mixed','contradicted'].includes(h.status))return invalid('Piste psychologique inconnue.');seen.add(h.pattern_id);
   const evidence=refs(h.evidence,true),counter_evidence=refs(h.counter_evidence||[]),types=new Set(evidence.map(id=>allowed.get(id).type));
@@ -18,7 +19,26 @@ export function validatePsychologicalMap(value,sources,citations,invalid=message
   if(!Array.isArray(h.alternatives)||!h.alternatives.length||h.alternatives.length>4)return invalid('Explications alternatives requises.');
   // Multiple copies of a source or many likes never constitute independent support.
   const status=h.status==='supported'&&(independentProofs(evidence,allowed,citations)<2||types.size<2)?'exploring':h.status;
-  return {pattern_id:h.pattern_id,status,observation:clean(h.observation,1800),possible_function:clean(h.possible_function,1200),alternatives:h.alternatives.map(x=>clean(x,500)),next_question:clean(h.next_question,500),evidence,counter_evidence};
+  const output={pattern_id:h.pattern_id,status,observation:clean(h.observation,1800),possible_function:clean(h.possible_function,1200),alternatives:h.alternatives.map(x=>clean(x,500)),next_question:clean(h.next_question,500),evidence,counter_evidence};
+  const ownProofs=new Set([...evidence,...counter_evidence]);
+  if(h.influence!==undefined){
+   const x=h.influence;if(!x||!['unknown','low','moderate','high'].includes(x.level)||!Array.isArray(x.contexts)||x.contexts.length>3)return invalid('Influence contextuelle invalide.');
+   const ids=refs(x.evidence,x.level!=='unknown');if(ids.some(id=>!ownProofs.has(id)))return invalid('Influence sans preuve de cette piste.');
+   if(status==='contradicted'&&x.level!=='unknown'||!ids.length&&x.contexts.length)return invalid('Influence non étayée.');
+   output.influence={level:x.level,contexts:x.contexts.map(v=>clean(v,160)),rationale:ids.length?clean(x.rationale,600):'Influence à préciser.',evidence:ids};
+  }
+  if(h.interactions!==undefined){
+   if(!Array.isArray(h.interactions)||h.interactions.length>3||status==='contradicted'&&h.interactions.length)return invalid('Interactions invalides.');
+   const targets=new Set();output.interactions=h.interactions.map(x=>{
+    if(!x||x.pattern_id===h.pattern_id||!activeIds.has(x.pattern_id)||!patterns.has(x.pattern_id)||targets.has(x.pattern_id)||!['amplifies','buffers','alternative'].includes(x.kind))return invalid('Mécanisme lié inconnu.');
+    targets.add(x.pattern_id);const ids=refs(x.evidence,true);
+    const target=value.find(v=>v.pattern_id===x.pattern_id),targetProofs=new Set([...(target.evidence||[]),...(target.counter_evidence||[])]);
+    if(target.status==='contradicted')return invalid('Une piste contredite ne peut pas amplifier une autre piste.');
+    if(!ids.some(id=>ownProofs.has(id))||!ids.some(id=>targetProofs.has(id)))return invalid('Interaction sans preuves des deux pistes.');
+    return {pattern_id:x.pattern_id,kind:x.kind,explanation:clean(x.explanation,600),evidence:ids};
+   });
+  }
+  return output;
  });
 }
 const norm=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();

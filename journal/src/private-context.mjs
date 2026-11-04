@@ -1,5 +1,6 @@
 import { isEntitled, platformAccess } from './entitlements.mjs';
 import {validatePsychologicalMap} from './psychology-map.mjs';
+import {declaredLifeContext,assertPortraitLanguage,PORTRAIT_ANALYSIS_VERSION} from './portrait-language.mjs';
 // Canonical private sources. Fictional story text is deliberately excluded.
 const parse=(v,f={})=>{try{return JSON.parse(v);}catch{return f;}};
 const hash=async value=>Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(value))),b=>b.toString(16).padStart(2,'0')).join('');
@@ -31,7 +32,7 @@ export async function loadContext(env,userId,decorateLikes=x=>x) {
  // Display identity stays separate from psychological evidence and the context
  // sent to the fiction writer. Renaming needs no new inference about the person.
  context.subject={first_name:typeof self.first_name==='string'?self.first_name.trim().slice(0,100):'',gender:self.gender||'unspecified'};
- context.self_context={age:birth?Number(today.slice(0,4))-Number(birth.slice(0,4))-(today.slice(5)<birth.slice(5)?1:0):null,gender:self.gender||'',gender_description:self.gender_description||'',occupation:self.occupation||''};
+ context.self_context=declaredLifeContext({age:birth?Number(today.slice(0,4))-Number(birth.slice(0,4))-(today.slice(5)<birth.slice(5)?1:0):null,gender:self.gender||'',gender_description:self.gender_description||'',occupation:self.occupation||''});
  const sources=[];
  const add=(id,type,revision,fields,extra={})=>{const text=Object.entries(fields).filter(([,v])=>typeof v==='string'&&v.trim()).map(([k,v])=>`${k}: ${v}`).join('\n');if(text)sources.push({id,type,revision,text,fields,explicit:true,temporal:null,fiction_use:'abstract',created_at:null,updated_at:null,...extra});};
  if(context.has_self_description)add('profile:'+userId,'profile',row.self_revision,Object.fromEntries([...narrativeKeys,'occupation'].map(k=>[k,self[k]||''])));
@@ -61,6 +62,12 @@ export function validatePortraitV2(value,sources,fail) {
  for(const field of ['current_state','evolution'])if(value[field])output[field]={summary:clean(value[field].summary,3000),evidence:evidence(value[field].evidence,true)};
  if(value.reading_preferences){output.reading_preferences={};for(const k of ['preferred','avoid']){const list=value.reading_preferences[k];if(!Array.isArray(list)||list.length>12)invalid('Préférences invalides.');output.reading_preferences[k]=list.map(x=>({label:clean(x.label,160),evidence:evidence(x.evidence,true)}));}}
  output.psychological_map=validatePsychologicalMap(value.psychological_map,sources,citations,invalid);
+ if(value.analysis_version!==undefined){
+  if(value.analysis_version!==PORTRAIT_ANALYSIS_VERSION)invalid('Version d’analyse inconnue.');
+  output.analysis_version=PORTRAIT_ANALYSIS_VERSION;
+  if(value.identity_context)output.identity_context=declaredLifeContext(value.identity_context);
+  try{assertPortraitLanguage(output)}catch{invalid('La synthèse contient un pronom ambigu. Utilisez {{prenom}} ou un rôle explicite.');}
+ }
  const processed=value.coverage?.processed??sources.map(s=>s.id),pending=value.coverage?.pending??[];
  if(!Array.isArray(processed)||!Array.isArray(pending)||[...processed,...pending].some(id=>!allowed.has(id))||new Set([...processed,...pending]).size!==sources.length||processed.some(id=>pending.includes(id))||pending.some(id=>proofs.has(id)))invalid('Couverture des sources invalide.');
  output.coverage={processed:[...new Set(processed)],pending:[...new Set(pending)]};

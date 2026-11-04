@@ -1,6 +1,7 @@
 import { platformAccess, accessSql } from './entitlements.mjs';
 import {PSYCHOLOGY_CATALOG,buildPsychologyMap} from './psychology-map.mjs';
 import {expandReadingQuery} from './reading-intent.mjs';
+import {PORTRAIT_ANALYSIS_VERSION} from './portrait-language.mjs';
 import {loadContext,hasPersonalizationSources,validatePortraitV2,contextHash} from './private-context.mjs';
 export {hasPersonalizationSources,validatePortraitV2};
 const parse=(v,f={})=>{try{return JSON.parse(v);}catch{return f;}};
@@ -192,7 +193,7 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
  async function completeJob(env,id,data){checkPause(env);const old=await first(env,'SELECT j.kind,j.status,j.lease_token,r.story_id FROM journal_jobs j LEFT JOIN story_requests r ON r.id=j.request_id WHERE j.id=?',id);if(old?.kind==='story'&&old.status==='complete'&&old.story_id&&old.lease_token===data.lease_token)return json({ok:true,kind:'story',story_id:old.story_id});
  const sourceVersion=data.source_version??data.profile_version;if(!Number.isInteger(sourceVersion)||!Number.isInteger(data.memory_version))fail(400,'Versions du contexte requises.','versions_required');const job=await validJob(env,id,{...data,source_version:sourceVersion}),args=guardArgs(id,data.lease_token);
  if(job.kind==='portrait'){
- const c=await context(env,job.user_id),p=validatePortraitV2(data.portrait,c.sources,fail),statements=[];
+ const c=await context(env,job.user_id),p=validatePortraitV2({...data.portrait,analysis_version:PORTRAIT_ANALYSIS_VERSION,identity_context:c.self_context},c.sources,fail),statements=[];
  const derivatives=data.source_derivatives??[];if(!Array.isArray(derivatives)||derivatives.length>1000)fail(400,'Extractions invalides.','invalid_derivative');
  for(const d of derivatives){const s=c.sources.find(s=>s.id===d.source_id);if(!s||d.revision!==s.revision||d.source_hash!==s.hash||d.analysis_version!==2||!Array.isArray(d.derivative?.signals)||d.derivative.signals.length>50)fail(400,'Extraction périmée.','invalid_derivative');for(const signal of d.derivative.signals){if(typeof signal.quote!=='string'||!signal.quote.trim()||signal.quote.length>1200||!s.text.includes(signal.quote)||typeof signal.text!=='string'||signal.text.length>2000)fail(400,'Extraction sans preuve.','invalid_derivative');}const manifest={[s.id]:c.source_manifest[s.id]};statements.push(stmt(env,`INSERT INTO context_source_derivatives(user_id,source_id,revision,analysis_version,source_hash,derivative,manifest) SELECT ?,?,?,?,?,?,? WHERE ${guard(env)} ON CONFLICT(user_id,source_id,revision,analysis_version) DO UPDATE SET derivative=excluded.derivative,manifest=excluded.manifest,source_hash=excluded.source_hash`,job.user_id,s.id,s.revision,2,s.hash,JSON.stringify(d.derivative),JSON.stringify(manifest),...args));}
  statements.push(stmt(env,`INSERT INTO user_portraits(user_id,portrait,analyzed_version,schema_version) SELECT ?,?,?,2 WHERE ${guard(env)} ON CONFLICT(user_id) DO UPDATE SET portrait=excluded.portrait,analyzed_version=excluded.analyzed_version,schema_version=2,updated_at=CURRENT_TIMESTAMP`,job.user_id,JSON.stringify(p),job.source_version,...args));
@@ -256,8 +257,8 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
    const reason=['context_changed','lease_expired'].includes(e?.code)?'context_changed':['invalid_portrait','validation_error'].includes(e?.code)||e?.message==='validation_error'?'validation_error':'provider_error';
    // A rejected claim must be redrafted on the next long retry. Transport and
    // deadline failures keep the candidate so GET can resume verification only.
-   if(reason==='validation_error')try{await run(env,`UPDATE journal_jobs SET native_candidate=NULL WHERE id=? AND ${guard(env)}`,job.id,...guardArgs(job.id,job.lease_token));}catch{}
-   try{await failJob(env,job.id,{lease_token:job.lease_token,reason},{retryAfterSeconds:timeoutMs<=22000?30:null});}catch{}
+   if(reason==='validation_error')try{const diagnostic=Array.isArray(e.verification_failures)?JSON.stringify({analysis_version:PORTRAIT_ANALYSIS_VERSION,rejected:true,failed_paths:e.verification_failures}):null;await run(env,`UPDATE journal_jobs SET native_candidate=? WHERE id=? AND ${guard(env)}`,diagnostic,job.id,...guardArgs(job.id,job.lease_token));}catch{}
+   try{await failJob(env,job.id,{lease_token:job.lease_token,reason},{retryAfterSeconds:reason==='validation_error'||timeoutMs<=22000?30:null});}catch{}
    return {claimed:1,completed:0,failed:1,status:reason};
   }
  }
