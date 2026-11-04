@@ -534,3 +534,11 @@ test('source edits clear unpublished native portrait candidates',async()=>{
  await request(env,'/api/memory',{method:'PUT',cookie:a.cookie,data:{text:'Une nouvelle précision.'}});
  assert.equal(env.DB.raw.prepare('SELECT native_candidate FROM journal_jobs WHERE id=?').get(id).native_candidate,null);
 });
+
+
+test('a semantic rejection can retry automatically with a new guarded synthesis, within three attempts',async t=>{
+ const env={DB:database(),OPENROUTER_API_KEY:'mock-provider',FREE_ACCESS_ENABLED:'true'},a=await register(env);await addEvent(env,a);let checks=0,calls=0;const original=globalThis.fetch;t.after(()=>{globalThis.fetch=original});
+ globalThis.fetch=async(_url,options)=>{calls++;const input=JSON.parse(JSON.parse(options.body).messages.at(-1).content);let result;if(input.claims){checks++;result={checks:input.claims.map(c=>({path:c.path,supported:checks>1}))}}else result={...portraitV2(await loadContext(env,a.user.id)),psychological_map:[]};return new Response(JSON.stringify({choices:[{finish_reason:'stop',message:{content:JSON.stringify(result)}}]}));};
+ const first=await refreshUserPortrait(env,a.user.id);assert.equal(first.failed,1);const job=env.DB.raw.prepare("SELECT * FROM journal_jobs WHERE user_id=? AND status='pending'").get(a.user.id);assert.equal(job.error_code,'validation_error');assert.equal(job.native_candidate,null);env.DB.raw.prepare('UPDATE journal_jobs SET lease_until=0 WHERE id=?').run(job.id);
+ const retry=await refreshUserPortrait(env,a.user.id);assert.equal(retry.completed,1);assert.equal(calls,4);
+});

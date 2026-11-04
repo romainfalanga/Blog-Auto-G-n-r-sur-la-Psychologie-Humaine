@@ -19,7 +19,7 @@ export async function analyzePortraitSnapshot(job,callModel,{saveCandidate}={}){
   portrait=validatePortraitV2(job.native_candidate,sources,()=>{throw Error('validation_error')});
   if(JSON.stringify(portrait.coverage)!==JSON.stringify(coverage))throw Error('validation_error');
  }else{
- const raw=await callModel({system_prompt:PORTRAIT_REFRESH_INSTRUCTIONS,user_prompt:JSON.stringify({sources:selected,coverage,catalog:PSYCHOLOGY_CATALOG,life_context:job.self_context||{} }),max_tokens:5000,temperature:0.2,purpose:'analyst',stage:'portrait'});
+ const raw=await callModel({system_prompt:PORTRAIT_REFRESH_INSTRUCTIONS+(job.attempts>1?'\nUne vérification a refusé une tentative précédente. Limite cette nouvelle version aux observations explicites et aux pistes les plus prudentes. Si la fonction reste inconnue, écris simplement qu’elle reste à préciser, sans inventer une cause. Les contre-exemples doivent limiter la portée des conclusions.':''),user_prompt:JSON.stringify({sources:selected,coverage,catalog:PSYCHOLOGY_CATALOG,life_context:job.self_context||{} }),max_tokens:5000,temperature:0.2,purpose:'analyst',stage:'portrait'});
  const content=typeof raw==='string'?raw:raw?.content||raw;
  const parsed=typeof content==='string'?JSON.parse(content.replace(/^\s*```(?:json)?\s*/,'').replace(/\s*```\s*$/,'')):content;
  parsed.coverage=coverage;
