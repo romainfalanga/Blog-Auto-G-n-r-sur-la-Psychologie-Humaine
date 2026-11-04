@@ -51,7 +51,6 @@
       {{ with $cues }}
       <ul class="character-card-cues" aria-label="Repères dans ses histoires">{{ range .keywords }}<li>{{ . }}</li>{{ end }}</ul>
       {{ end }}
-      <p class="perso-bio">{{ $presentation }}</p>
       <a href="{{ .RelPermalink }}" class="perso-btn">Découvrir ses histoires</a>
     </article>
     {{ end }}

@@ -421,6 +421,30 @@ PEDAGOGICAL_REFERENCE=json.loads((pathlib.Path(__file__).with_name('personal_con
 PSYCHOLOGY_CATALOG=json.loads((pathlib.Path(__file__).parents[1]/'data'/'psychology_catalog.json').read_text())
 PSYCHOLOGY_PATTERN_IDS={p['id'] for p in PSYCHOLOGY_CATALOG['patterns']}
 
+def psychology_guide(sources, limit=24):
+    """All concept IDs remain available; detailed interview entries are retrieved.
+
+    Lexical relevance is not a clinical score or evidence about the reader.
+    """
+    stop=set('avec dans pour une des les leur cette ces est sont etre avoir plus moins tout sur par qui que quoi quand comme mais donc pas sans mon mes son nous vous elle lui aux du de le la et un en se ce il je tu au ou on tres aussi fait faire peut personne article histoire'.split())
+    def terms(value):
+        folded=''.join(c for c in unicodedata.normalize('NFD',str(value)).lower() if not unicodedata.combining(c))
+        return set(re.findall('[a-z]{4,}',folded))-stop
+    context=terms(' '.join(s.get('text') or json.dumps(s.get('derivative') or s.get('fields') or {},ensure_ascii=False) for s in sources))
+    ranked=sorted(enumerate(PSYCHOLOGY_CATALOG['patterns']),key=lambda item:(-len(context & terms(' '.join([item[1]['id'],item[1]['label'],*item[1].get('keywords',[]),*item[1].get('signals',[])]))),item[0]))
+    selected=[]
+    def take(pattern):
+        if len(selected)<limit and pattern not in selected:selected.append(pattern)
+    for domain in PSYCHOLOGY_CATALOG['domains']:
+        relevant=next((p for _,p in ranked if p['domain']==domain['id'] and context & terms(' '.join([p['label'],*p.get('keywords',[]),*p.get('signals',[])]))),None)
+        if relevant:take(relevant)
+    for _,pattern in ranked:take(pattern)
+    return {'version':PSYCHOLOGY_CATALOG['version'],'scope':PSYCHOLOGY_CATALOG['scope'],
+            'domains':PSYCHOLOGY_CATALOG['domains'],
+            'index':[[p['id'],p['domain'],p['label']] for p in PSYCHOLOGY_CATALOG['patterns']],
+            'patterns':[{key:p[key] for key in ('id','domain','subdomain','kind','label','description','signals','alternatives','questions','related') if key in p} for p in selected],
+            'selection':{'total':len(PSYCHOLOGY_CATALOG['patterns']),'detailed':len(selected),'meaning':'Repères pour explorer, pas une évaluation exhaustive.'}}
+
 PORTRAIT_SCHEMA = '''{"schema_version":2,"summary":"synthèse prudente sourcée",
 "summary_evidence":["ID"],"axes":[{"label":"...","why":"...","confidence":0.2,
 "claim_type":"interest|hypothesis|declaration","evidence":["ID"]}],
@@ -660,9 +684,12 @@ Pour source type like sans explication, uniquement interest, jamais biographie.'
     data={'derivatives':[cached[sid] for sid in processed],
           'source_manifest':job.get('source_manifest'),
           'coverage':{'processed':processed,'pending':unprocessed},
-          'source_version':job.get('source_version'),'life_context':safe_life_context(job),'psychology_catalog':PSYCHOLOGY_CATALOG}
+          'source_version':job.get('source_version'),'life_context':safe_life_context(job),'psychology_catalog':psychology_guide([cached[sid] for sid in processed])}
     adapter.stage='portrait'
     p=ask(adapter,'''Construis le portrait V2 uniquement depuis les sources autorisées.
+Dans la prose, désigne le sujet par le marqueur exact {{prenom}} remplacé à l'affichage.
+Accords selon life_context.gender déclaré ; sans genre connu, tournures sans accord genré.
+Évite les pronoms genrés pour le sujet et n'altère jamais les citations exactes.
 Chaque phrase de synthèse, force, état ou préférence doit être sourcée avec une citation exacte et sa
 révision. Aucun personnage fictif dans ce portrait réel. Les likes nus sont des intérêts, confiance
 au plus 0.25 ; ils ne prouvent aucune biographie. Un rôle familial seul ne prouve rien sur la personne.

@@ -28,6 +28,9 @@ export async function loadContext(env,userId,decorateLikes=x=>x) {
  const self=parse(row.self_data),narrativeKeys=['self_description','self_perception','recurring_patterns','emotions','current_context'];
  context.has_self_description=narrativeKeys.some(k=>typeof self[k]==='string'&&self[k].trim());
  const today=new Date().toISOString().slice(0,10),birth=self.birth_date;
+ // Display identity stays separate from psychological evidence and the context
+ // sent to the fiction writer. Renaming needs no new inference about the person.
+ context.subject={first_name:typeof self.first_name==='string'?self.first_name.trim().slice(0,100):'',gender:self.gender||'unspecified'};
  context.self_context={age:birth?Number(today.slice(0,4))-Number(birth.slice(0,4))-(today.slice(5)<birth.slice(5)?1:0):null,gender:self.gender||'',gender_description:self.gender_description||'',occupation:self.occupation||''};
  const sources=[];
  const add=(id,type,revision,fields,extra={})=>{const text=Object.entries(fields).filter(([,v])=>typeof v==='string'&&v.trim()).map(([k,v])=>`${k}: ${v}`).join('\n');if(text)sources.push({id,type,revision,text,fields,explicit:true,temporal:null,fiction_use:'abstract',created_at:null,updated_at:null,...extra});};

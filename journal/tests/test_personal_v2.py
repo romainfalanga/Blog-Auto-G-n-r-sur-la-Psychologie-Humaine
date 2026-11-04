@@ -653,3 +653,11 @@ class RequestedFocusPrivacyTests(unittest.TestCase):
         guidance['prefer_topics']=[{'label':next(iter(personal.FICTION_THEMES)),'evidence':['request-focus']}]
         personal.validate_fiction_guidance(guidance,j)
         with self.assertRaises(ValueError):personal.assert_no_private_reuse(j['requested_focus'],j)
+
+class PsychologyGuideTests(unittest.TestCase):
+    def test_every_concept_remains_available_without_full_interview_prompt(self):
+        guide=personal.psychology_guide([source(text='Je rumine, je dors mal et ma concentration diminue.')])
+        self.assertEqual({row[0] for row in guide['index']},personal.PSYCHOLOGY_PATTERN_IDS)
+        self.assertEqual(len(guide['patterns']),24)
+        self.assertIn('rumination',{p['id'] for p in guide['patterns']})
+        self.assertLess(len(json.dumps(guide,ensure_ascii=False)),40000)

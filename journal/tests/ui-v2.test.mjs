@@ -31,12 +31,13 @@ class Element {
   remove() {if(this.parentElement){const siblings=this.parentElement.children;const index=siblings.indexOf(this);if(index>=0)siblings.splice(index,1);this.parentElement=null;}this.isConnected=false;}
   scrollIntoView() {}
   addEventListener(name,fn) { (this.listeners[name]??=[]).push(fn); }
-  async fire(name) { for (const fn of this.listeners[name]||[]) await fn({target:this,currentTarget:this,preventDefault(){}}); }
+  async fire(name,extra={}) { for (const fn of this.listeners[name]||[]) await fn({target:this,currentTarget:this,preventDefault(){},...extra}); }
   focus() {this.doc.activeElement=this;}
   matches(selector) {
     if(selector==='input,select,textarea')return ['INPUT','SELECT','TEXTAREA'].includes(this.tagName);
     if(selector==='[data-reload-source]')return this.dataset.reloadSource!==undefined;
     if(selector==='[data-continue-character]')return this.dataset.continueCharacter!==undefined;
+    if(selector==='[data-map-mode]')return this.dataset.mapMode!==undefined;
     if(selector==='button[type=submit]')return this.tagName==='BUTTON'&&this.type==='submit';
     if(selector==='[name=people_ids]:checked')return this.name==='people_ids'&&this.checked;
     if(selector.startsWith('[name='))return this.name===selector.slice(6,-1);
@@ -49,8 +50,8 @@ class Element {
 function environment(extra={}) {
   const doc={ids:new Map(),createElement(tag){return new Element(tag,this)},createTextNode(text){return String(text)},getElementById(id){return this.ids.get(id)||null},querySelectorAll(selector){return [...this.ids.values()].filter(x=>x.matches(selector))},querySelector(selector){if(selector.startsWith('#')){const [id,...rest]=selector.slice(1).split(' ');return this.getElementById(id)?.querySelector(rest.join(' '))||null;}return this.querySelectorAll(selector)[0]||null}};
   class FormDataMock { constructor(form){this.values=form.querySelectorAll('input,select,textarea').filter(x=>x.name&&!x.disabled&&(x.type!=='checkbox'||x.checked)).map(x=>[x.name,x.value]);}entries(){return this.values.values();} }
-  const ctx=vm.createContext({document:doc,FormData:FormDataMock,URL,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),continueKeys:new Map(),tab:'journal',characterData:{},characters:[]},renderTokens:new WeakMap(),confirm:()=>true,refreshRecommendations(){},status(){},console,...extra});
-  for (const name of ['renderGuard','el','actionButton','formValues','busy','sourceField','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','characterSearch','requestIsActive']) vm.runInContext(functionCode(name),ctx);
+  const ctx=vm.createContext({document:doc,FormData:FormDataMock,URL,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),continueKeys:new Map(),tab:'journal',characterData:{},characters:[]},renderTokens:new WeakMap(),confirm:()=>true,refreshRecommendations(){},status(){},clearTimeout(){},setTimeout(){return 1},console,...extra});
+  for (const name of ['renderGuard','el','actionButton','formValues','busy','sourceField','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','characterSearch','requestIsActive','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown']) vm.runInContext(functionCode(name),ctx);
   vm.runInContext(script.match(/var PERSON_ROLES=.*\n/)[0]+script.match(/var EVENT_KINDS=.*\n/)[0],ctx);
   ctx.drawSourceSection=()=>{};ctx.sourceSaved=()=>{};
   return {ctx,doc,host(id){const host=doc.createElement('div');host.id=id;return host;}};
@@ -318,19 +319,19 @@ test('V6 liked article network failures keep both editable drafts',async()=>{
 });
 
 const psychologyFixture={catalog_version:1,domains:[{id:'ties',label:'Mes relations'},{id:'self',label:'Mon regard sur moi'}],patterns:[{id:'belong',domain:'ties',label:'Besoin d’appartenance',description:'Chercher sa place.',signals:['Faire attention au groupe.'],questions:['Comment trouvez-vous votre place ?'],alternatives:['Un contexte nouveau.']},{id:'autonomy',domain:'self',label:'Besoin d’autonomie',description:'Choisir pour soi.',questions:['Quand choisissez-vous librement ?']}],hypotheses:[{pattern_id:'belong',status:'exploring',observation:'Vous évoquez votre place dans le groupe.',possible_function:'Préserver les liens.',evidence:['person:p1'],counter_evidence:['profile:self'],citations:[{source_id:'person:p1',quote:'Mes mots exacts'}],related_articles:[{title:'Une lecture',url:'/article/'},{title:'Lien refusé',url:'javascript:alert(1)'}],related_characters:[{name:'Nina',url:'/personnages/nina/'}],next_question:'Que souhaitez-vous préciser ?'}],source_version:4,analyzed_version:4,outdated:false};
-function mapFixture(extra={}){const env=environment({refreshPortraitData(){},location:{origin:'https://example.test'},...extra});Object.assign(env.ctx.state,{tab:'portrait',likes:[],examples:[],mapReturnDrafts:new Map()});for(const name of ['safeArticleLink','portraitEvidence','drawMapPattern','drawMapReturn','drawPsychologyMap'])vm.runInContext(functionCode(name),env.ctx);const host=env.host('ma-cartographie');env.ctx.drawPsychologyMap(host,psychologyFixture,()=>true);return {...env,host};}
+function mapFixture(extra={}){const env=environment({refreshPortraitData(){},location:{origin:'https://example.test'},...extra});Object.assign(env.ctx.state,{tab:'portrait',likes:[],examples:[],mapReturnDrafts:new Map()});for(const name of ['normalized','personalizePortraitText','safeArticleLink','portraitEvidence','mapStateLabel','selectMapPattern','renderMapExplorer','drawMapPattern','drawMapReturn','drawPsychologyMap'])vm.runInContext(functionCode(name),env.ctx);const host=env.host('ma-cartographie');env.ctx.drawPsychologyMap(host,psychologyFixture,()=>true);return {...env,host};}
 
 test('V6 psychology map distinguishes supported exploration from unknown patterns and links exact source evidence',()=>{
- const env=mapFixture(),known=env.host.mapCards.get('belong'),unknown=env.host.mapCards.get('autonomy');assert.equal(known.card.parentElement.id,'map-active-list');assert.equal(unknown.card.parentElement,env.host.mapDomains.get('self'));
- assert.match(known.card.textContent,/Piste à explorer/);assert.match(unknown.card.textContent,/Pas encore exploré/);assert.doesNotMatch(env.host.textContent,/\d+\s*%|probabilité|absence de syndrome/i);
+ const env=mapFixture(),known=env.host.mapCards.get('belong'),unknown=env.host.mapCards.get('autonomy');assert.equal(known.card.parentElement.id,'map-detail');assert.equal(known.card.hidden,false);assert.equal(unknown.card.hidden,true);assert.equal(known.row.hidden,false);assert.equal(unknown.row.hidden,true);
+ assert.match(known.card.textContent,/À explorer/);assert.match(unknown.card.textContent,/Non exploré/);assert.doesNotMatch(env.host.textContent,/\d+\s*%|probabilité|absence de syndrome/i);
  assert.ok(known.card.querySelectorAll('a').some(link=>link.href==='/mes-proches/#person-p1'));assert.ok(known.card.querySelectorAll('a').some(link=>link.href==='https://example.test/article/'));assert.doesNotMatch(known.card.textContent,/Lien refusé/);
  assert.match(known.card.textContent,/Mes mots exacts/);assert.match(known.card.textContent,/Ce qui invite à nuancer/);assert.match(known.card.textContent,/Fonction possible/);assert.doesNotMatch(known.card.textContent,/Ce que cela pourrait vous apporter/);
 });
 
 test('V6 map refresh preserves open disclosures, reply form node and text while evidence changes',async()=>{
- const env=mapFixture(),entry=env.host.mapCards.get('belong'),form=entry.card.querySelector('form'),input=form.elements.text;entry.card.open=true;input.value='Un brouillon sensible';await input.fire('input');
+ const env=mapFixture(),entry=env.host.mapCards.get('belong'),form=entry.card.querySelector('form'),input=form.elements.text;entry.card.querySelector('.map-return').open=true;input.value='Un brouillon sensible';await input.fire('input');
  const update=structuredClone(psychologyFixture);update.hypotheses[0].observation='Observation mise à jour';env.ctx.drawPsychologyMap(env.host,update,()=>true);
- assert.equal(entry.card.querySelector('form'),form);assert.equal(input.value,'Un brouillon sensible');assert.equal(entry.card.open,true);assert.match(entry.card.textContent,/Observation mise à jour/);assert.equal(env.ctx.state.mapReturnDrafts.get('belong').text,'Un brouillon sensible');
+ assert.equal(entry.card.querySelector('form'),form);assert.equal(input.value,'Un brouillon sensible');assert.equal(entry.card.querySelector('.map-return').open,true);assert.match(entry.card.textContent,/Observation mise à jour/);assert.equal(env.ctx.state.mapReturnDrafts.get('belong').text,'Un brouillon sensible');
 });
 
 test('V6 map feedback retries append an explicit typed correction with the same creation key',async()=>{
@@ -376,4 +377,91 @@ test('V6 gender description is conditional without clearing an existing or typed
   const env=environment({api:async()=>({profile:{gender:'unspecified',gender_description:initial},revision:1}),location:{hash:''}});env.host('self-profile');vm.runInContext(functionCode('renderSelfProfile'),env.ctx);await env.ctx.renderSelfProfile();const form=env.doc.getElementById('self-profile-form'),gender=form.elements.gender,description=form.elements.gender_description;
   assert.equal(description.parentElement.hidden,!initial);gender.value='self_described';await gender.fire('change');assert.equal(description.parentElement.hidden,false);description.value='Mon brouillon conservé';await description.fire('input');gender.value='female';await gender.fire('change');assert.equal(description.parentElement.hidden,false);assert.equal(description.value,'Mon brouillon conservé');assert.equal(env.ctx.formValues(form).gender_description,'Mon brouillon conservé');description.value='';await description.fire('change');assert.equal(description.parentElement.hidden,true);assert.equal(description.value,'');
  }
+});
+
+
+test('V7 atlas switches domains and subdomains, searches without accents and focuses the selected detail',async()=>{
+ const env=mapFixture(),map=structuredClone(psychologyFixture);map.subdomains=[{id:'social',domain:'ties',label:'Vie sociale'},{id:'liberty',domain:'self',label:'Liberté'}];map.patterns[0].subdomain='social';map.patterns[1].subdomain='liberty';map.patterns[1].label='Liberté de décision';env.ctx.drawPsychologyMap(env.host,map,()=>true);
+ await env.host.mapDomains.get('self').button.fire('click');assert.equal(env.host.mapFilter.domain,'self');assert.equal(env.host.mapFilter.mode,'all');assert.equal(env.host.mapCards.get('autonomy').row.hidden,false);assert.equal(env.host.mapCards.get('belong').row.hidden,true);
+ const sub=env.doc.getElementById('map-subdomain');assert.equal(sub.children.length,2);sub.value='liberty';await sub.fire('change');assert.equal(env.host.mapFilter.subdomain,'liberty');
+ await env.host.mapCards.get('autonomy').row.fire('click');assert.equal(env.doc.activeElement,env.host.mapCards.get('autonomy').title);assert.equal(env.host.mapCards.get('autonomy').row.getAttribute('aria-pressed'),'true');
+ await env.doc.getElementById('map-reset').fire('click');const search=env.doc.getElementById('map-search');search.value='liberte';await search.fire('input');assert.equal(env.host.mapCards.get('autonomy').row.hidden,false);assert.equal(env.host.mapCards.get('belong').row.hidden,true);assert.match(env.doc.getElementById('map-results').textContent,/1 repère/);
+ search.value='sans correspondance';await search.fire('input');assert.equal(env.doc.getElementById('map-active-empty').hidden,false);assert.equal(env.doc.getElementById('map-detail').hidden,true);
+});
+
+test('V7 changing filters and polling preserve a map reply node, its draft and selection',async()=>{
+ const env=mapFixture(),entry=env.host.mapCards.get('belong'),reply=entry.card.querySelector('.map-return'),form=reply.querySelector('form');reply.open=true;field(form,'text','Ma nuance encore non enregistrée');await form.elements.text.fire('input');
+ await env.host.mapDomains.get('self').button.fire('click');assert.equal(entry.card.hidden,true);assert.equal(form.isConnected,true);
+ await env.doc.getElementById('map-reset').fire('click');await entry.row.fire('click');const selected=env.host.mapSelected;const update=structuredClone(psychologyFixture);update.hypotheses[0].observation='Une observation révisée';env.ctx.drawPsychologyMap(env.host,update,()=>true);
+ assert.equal(env.host.mapSelected,selected);assert.equal(entry.card.querySelector('form'),form);assert.equal(form.elements.text.value,'Ma nuance encore non enregistrée');assert.equal(reply.open,true);assert.match(entry.content.textContent,/observation révisée/);
+});
+
+test('V7 a synthesis uses the declared first name and targeted agreements, while citations stay exact',()=>{
+ const env=mapFixture();env.ctx.state.portraitData={subject:{first_name:'Romain <em>',gender:'male'}};vm.runInContext(functionCode('appendPortrait'),env.ctx);const summary=env.doc.createElement('section');env.ctx.appendPortrait(summary,{summary:'La personne semble créative et réfléchie.',axes:[],strengths:['La personne se montre attentive.']},'Synthèse');assert.match(summary.textContent,/Romain <em> semble créatif et réfléchi/);assert.match(summary.textContent,/Romain <em> se montre attentif/);assert.equal(summary.querySelector('em'),null);
+ const update=structuredClone(psychologyFixture);update.hypotheses[0].observation='La personne semble créative.';update.hypotheses[0].citations=[{quote:'La personne semble créative.'}];env.ctx.drawPsychologyMap(env.host,update,()=>true);const entry=env.host.mapCards.get('belong');assert.match(entry.content.querySelector('.map-observation').textContent,/Romain <em> semble créatif/);assert.equal(entry.content.querySelector('blockquote').textContent,'La personne semble créative.');
+ assert.equal(env.ctx.personalizePortraitText('La personne est créative.',{first_name:'Camille',gender:'female'}),'Camille est créative.');assert.equal(env.ctx.personalizePortraitText('La personne est créative.',{gender:'male'}),'La personne est créative.');
+});
+
+test('V7 assistant reading suggestions are safe links attached to their message, capped at three',()=>{
+ const env=environment({location:{origin:'https://example.test'}});env.ctx.state.chatData={consent:true,access:{allowed:true},quota:{remaining:99},messages:[{role:'assistant',content:'Une réponse.',reading_suggestions:[{id:'a',title:'Une lecture',url:'/lecture/',character:'Nina',reason:'Pour réfléchir à votre place.'},{title:'Refusé',url:'javascript:alert(1)'},{title:'Deuxième',url:'/suite/'},{title:'Au-delà de la limite',url:'/trop/'}]},{role:'user',content:'Merci',reading_suggestions:[{title:'Ne pas afficher',url:'/non/'}]}],proposals:[]};env.ctx.drawChatProposal=()=>{};vm.runInContext(functionCode('safeArticleLink')+'\n'+functionCode('drawChatReadings')+'\n'+functionCode('chatConsent')+'\n'+functionCode('drawChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);const messages=host.querySelector('.chat-thread').children;assert.equal(messages[0].querySelectorAll('.chat-reading').length,2);assert.equal(messages[1].querySelector('.chat-readings'),null);assert.match(messages[0].textContent,/Pour réfléchir à votre place/);assert.doesNotMatch(host.textContent,/Refusé|Au-delà de la limite|Ne pas afficher/);assert.equal(messages[0].querySelector('.chat-reading').querySelector('a').href,'https://example.test/lecture/');
+});
+
+
+test('V7 personalization changes direct attributes and preserves complements and quoted words',()=>{
+ const env=mapFixture(),subject={first_name:'Romain',gender:'male'},personalize=value=>env.ctx.personalizePortraitText(value,subject);
+ assert.equal(personalize('La personne parle de sa mère créative et de son amie anxieuse.'),'Romain parle de sa mère créative et de son amie anxieuse.');
+ assert.equal(personalize('La personne décrit sa mère comme créative.'),'Romain décrit sa mère comme créative.');
+ assert.equal(personalize('La personne se décrit comme très créative, intuitive et attentive à son amie anxieuse.'),'Romain se décrit comme très créatif, intuitif et attentif à son amie anxieuse.');
+ assert.equal(personalize('La personne semble créative et réfléchie dans sa relation avec une amie inquiète.'),'Romain semble créatif et réfléchi dans sa relation avec une amie inquiète.');
+ assert.equal(personalize('La personne est sensible et anxieuse, sa mère est attentive.'),'Romain est sensible et anxieux, sa mère est attentive.');
+ assert.equal(personalize('La personne dit : « La personne est créative. » Puis évoque "la personne anxieuse".'),'Romain dit : « La personne est créative. » Puis évoque "la personne anxieuse".');
+});
+
+test('V7 the pattern index uses one tab stop and supports arrow, home and end keys',async()=>{
+ const env=mapFixture();await env.doc.getElementById('map-reset').fire('click');const first=env.host.mapCards.get('belong'),last=env.host.mapCards.get('autonomy');assert.equal(first.row.tabIndex,0);assert.equal(last.row.tabIndex,-1);await first.row.fire('keydown',{key:'End'});assert.equal(env.doc.activeElement,last.row);assert.equal(last.row.tabIndex,0);assert.equal(first.row.tabIndex,-1);assert.equal(last.card.hidden,false);await last.row.fire('keydown',{key:'ArrowUp'});assert.equal(env.doc.activeElement,first.row);await first.row.fire('keydown',{key:'ArrowDown'});assert.equal(env.doc.activeElement,last.row);await last.row.fire('keydown',{key:'Home'});assert.equal(env.doc.activeElement,first.row);
+});
+
+
+test('V7 a provider 429 keeps its precise message, quota and draft, then automatically restores sending after cooldown',async()=>{
+ const timers=[],clock=Date.now(),calls=[];let now=clock;const data={consent:true,access:{allowed:true},quota:{remaining:100,limit:100},messages:[],proposals:[]},env=environment({Date:{now:()=>now},setTimeout(fn,delay){timers.push({fn,delay});return timers.length},clearTimeout(){},api:async(path,method)=>{calls.push({path,method});return {...data,last_error:{message:'Le fournisseur limite temporairement les demandes. Aucun message n’a été décompté.',action:'retry_later'}}}});
+ Object.assign(env.ctx.state,{tab:'chat',chatDraft:'Mes mots complets',chatSending:true,chatSendKey:{key:'failed-key'},chatData:data});env.ctx.drawChatProposal=()=>{};vm.runInContext(functionCode('drawChatReadings')+'\n'+functionCode('drawChat')+'\n'+functionCode('pollChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);const input=env.doc.getElementById('chat-content'),form=env.doc.getElementById('chat-form'),button=form.querySelector('button');
+ env.ctx.api=async(path,method)=>{calls.push({path,method});return {...data,access:{allowed:false,reason:'provider_cooldown',retry_at:(clock+45000)/1000},last_request:{id:'failed',status:'failed'},last_error:{code:'provider_http_429_request',message:'Le fournisseur limite temporairement les demandes. Réessayez dans 45 secondes. Aucun message n’a été décompté.',action:'retry_later',retry_at:(clock+45000)/1000}}};env.ctx.pollChat({id:'failed'},()=>true,'Mes mots complets');await timers.shift().fn();assert.match(env.doc.getElementById('chat-status').textContent,/Réessayez dans 45 secondes/);assert.match(env.doc.getElementById('chat-status').textContent,/Aucun message n’a été décompté/);assert.equal(env.ctx.state.chatSendKey,null);assert.equal(button.disabled,true);assert.equal(input.value,'Mes mots complets');assert.equal(env.ctx.state.chatData.quota.remaining,100);
+ input.value='Un complément pendant l’attente';await input.fire('input');assert.ok(timers[0].delay>=45000&&timers[0].delay<=60000);now=clock+46000;env.ctx.api=async(path,method)=>{calls.push({path,method});return data};await timers.shift().fn();assert.equal(button.disabled,false);assert.equal(env.doc.getElementById('chat-form'),form);assert.equal(input.value,'Un complément pendant l’attente');assert.equal(env.ctx.state.chatDraft,input.value);assert.ok(calls.every(call=>call.path==='/api/chat'&&!call.method));
+});
+
+test('V7 provider cooldown uses bounded timers and ignores a response after leaving the conversation',async()=>{
+ const timers=[],clock=Date.now();let active=true,resolve;const pending=new Promise(r=>resolve=r),env=environment({Date:{now:()=>clock},setTimeout(fn,delay){timers.push({fn,delay});return timers.length},clearTimeout(){},api:()=>pending});env.ctx.state.tab='chat';const data={access:{allowed:false,reason:'provider_cooldown',retry_at:(clock+120000)/1000}};env.ctx.scheduleChatCooldown(()=>active,data);assert.equal(timers[0].delay,60000);active=false;await timers.shift().fn();assert.equal(timers.length,0);
+ active=true;env.ctx.scheduleChatCooldown(()=>active,{access:{allowed:false,reason:'provider_cooldown',retry_at:(clock-1)/1000}});const checking=timers.shift().fn();active=false;env.ctx.state.chatData={marker:'new conversation'};resolve({access:{allowed:true}});await checking;assert.equal(env.ctx.state.chatData.marker,'new conversation');
+});
+
+
+test('V7 portrait placeholders follow the current first name without changing portrait or quoted evidence',()=>{
+ const env=mapFixture();for(const name of ['appendPortrait','applyPortraitData'])vm.runInContext(functionCode(name),env.ctx);const body=env.doc.createElement('div');body.id='portrait-body';const statusBox=env.doc.createElement('div');statusBox.id='portrait-status';
+ const portrait={summary:'{{prenom}} se décrit comme créatif. Ses mots : « {{prenom}} se décrit comme créative. »',axes:[]},map=structuredClone(psychologyFixture);map.hypotheses[0].observation='{{prenom}} se décrit comme créatif.';map.hypotheses[0].citations=[{quote:'{{prenom}} se décrit comme créative.'}];const data={portrait,subject:{first_name:'Romain',gender:'male'},source_version:4,analyzed_version:4,status:'ready',psychology_map:map};
+ env.ctx.applyPortraitData(data,()=>true);assert.match(body.textContent,/Romain se décrit comme créatif/);assert.match(body.textContent,/« \{\{prenom\}\} se décrit comme créative\. »/);assert.match(env.host.mapCards.get('belong').content.querySelector('.map-observation').textContent,/Romain se décrit comme créatif/);assert.equal(env.host.mapCards.get('belong').content.querySelector('blockquote').textContent,'{{prenom}} se décrit comme créative.');
+ env.ctx.applyPortraitData({...data,subject:{first_name:'Alex',gender:'male'}},()=>true);assert.match(body.textContent,/Alex se décrit comme créatif/);assert.doesNotMatch(body.textContent,/Romain/);assert.match(env.host.mapCards.get('belong').content.querySelector('.map-observation').textContent,/Alex se décrit comme créatif/);assert.equal(data.portrait,portrait);assert.ok(portrait.summary.startsWith('{{prenom}}'));
+ assert.equal(env.ctx.personalizePortraitText('{{prenom}}',{first_name:''}),'La personne');assert.equal(env.ctx.personalizePortraitText('« {{prenom}} » et {{prenom}}',{first_name:'Romain'}),'« {{prenom}} » et Romain');assert.equal(env.ctx.personalizePortraitText('"{{prenom}}" et {{prenom}}',{}),'"{{prenom}}" et La personne');
+});
+
+
+test('V7 atlas search includes keywords, aliases and readable identifiers when the label differs',async()=>{
+ const env=mapFixture(),map=structuredClone(psychologyFixture);map.patterns[1]={...map.patterns[1],id:'thought_loop',label:'Pensées en boucle',keywords:['rumination'],aliases:['boucle mentale']};env.ctx.drawPsychologyMap(env.host,map,()=>true);const search=env.doc.getElementById('map-search');
+ for(const query of ['rumination','boucle mentale','thought_loop','thought loop']){search.value=query;await search.fire('input');assert.equal(env.host.mapCards.get('thought_loop').row.hidden,false,query);assert.equal(env.host.mapCards.get('belong').row.hidden,true,query);assert.match(env.doc.getElementById('map-results').textContent,/1 repère/);assert.equal(env.host.mapSelected,'thought_loop');}
+});
+
+
+test('V7 legacy direct descriptions stay grammatical without inferring a gender from the first name',()=>{
+ const env=mapFixture();for(const gender of ['unspecified','non_binary',undefined]){const subject={first_name:'Romain',...(gender?{gender}:{})},personalize=text=>env.ctx.personalizePortraitText(text,subject);
+  assert.equal(personalize('La personne se décrit comme créative.'),'Romain se décrit comme une personne créative.');
+  assert.equal(personalize('La personne se perçoit comme très attentive à son amie anxieuse.'),'Romain se perçoit comme une personne très attentive à son amie anxieuse.');
+  assert.equal(personalize('La personne est sensible et anxieuse.'),'Romain est une personne sensible et anxieuse.');
+  assert.equal(personalize('La personne semble réfléchie.'),'Romain semble être une personne réfléchie.');
+  assert.equal(personalize('La personne semble être créative.'),'Romain semble être une personne créative.');
+  assert.equal(personalize('La personne est une personne créative.'),'Romain est une personne créative.');
+  assert.equal(personalize('La personne parle de sa mère créative et de son amie anxieuse.'),'Romain parle de sa mère créative et de son amie anxieuse.');
+  assert.equal(personalize('La personne se sent créative.'),'Romain se sent créative.');
+  assert.equal(personalize('La personne dit : « La personne se décrit comme créative. »'),'Romain dit : « La personne se décrit comme créative. »');
+  assert.equal(personalize('{{prenom}} se décrit comme créatif.'),'Romain se décrit comme créatif.');
+ }
+ assert.equal(env.ctx.personalizePortraitText('{{prenom}}',{first_name:''}),'La personne');
 });

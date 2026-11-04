@@ -5,6 +5,7 @@ import { runInNewContext } from 'node:vm';
 import { DatabaseSync } from 'node:sqlite';
 import { createRecommender } from '../src/recommendations.mjs';
 import {loadContext} from '../src/private-context.mjs';
+import {createPersonalBackend} from '../src/personal-backend.mjs';
 const examples=Array.from({length:14},(_,i)=>({id:`category/example-${i+1}`,title:`Exemple ${i+1}`,url:`https://decodetonesprit.fr/posts/example-${i+1}/`,character:'Personnage '+i,keywords:['confiance','relations'],description:`Résumé canonique ${i+1}`}));
 const recommendationContexts=[];
 // Use the real recommendation engine while recording its authenticated input.
@@ -541,4 +542,24 @@ test('a semantic rejection can retry automatically with a new guarded synthesis,
  globalThis.fetch=async(_url,options)=>{calls++;const input=JSON.parse(JSON.parse(options.body).messages.at(-1).content);let result;if(input.claims){checks++;result={checks:input.claims.map(c=>({path:c.path,supported:checks>1}))}}else result={...portraitV2(await loadContext(env,a.user.id)),psychological_map:[]};return new Response(JSON.stringify({choices:[{finish_reason:'stop',message:{content:JSON.stringify(result)}}]}));};
  const first=await refreshUserPortrait(env,a.user.id);assert.equal(first.failed,1);const job=env.DB.raw.prepare("SELECT * FROM journal_jobs WHERE user_id=? AND status='pending'").get(a.user.id);assert.equal(job.error_code,'validation_error');assert.equal(job.native_candidate,null);env.DB.raw.prepare('UPDATE journal_jobs SET lease_until=0 WHERE id=?').run(job.id);
  const retry=await refreshUserPortrait(env,a.user.id);assert.equal(retry.completed,1);assert.equal(calls,4);
+});
+
+test('portrait display identity is current and separate from evidence; chat readings stay canonical and transient',async()=>{
+ const env={DB:database(),PUBLIC_ORIGIN:origin,FREE_ACCESS_ENABLED:'true'},a=await register(env);
+ env.DB.raw.prepare('UPDATE profiles SET self_data=? WHERE user_id=?').run(JSON.stringify({first_name:'Romain',last_name:'Nom privé',gender:'male',self_description:'Je cherche à mieux comprendre mes relations et ma confiance.'}),a.user.id);
+ const c=await loadContext(env,a.user.id);
+ assert.deepEqual(c.subject,{first_name:'Romain',gender:'male'});
+ assert.equal(c.self_context.first_name,undefined);
+ assert.ok(!JSON.stringify(c.sources).includes('Romain'));
+ assert.ok(!JSON.stringify(c.sources).includes('Nom privé'));
+ const result=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();
+ assert.deepEqual(result.subject,c.subject);
+ const personal=createPersonalBackend({error(status,message,code){throw Object.assign(new Error(message),{status,code});},json:v=>v,text:v=>String(v||''),body:r=>r.json(),now:()=>Math.floor(Date.now()/1000),random:()=>crypto.randomUUID(),decorateLikes:v=>v,recommender:createRecommender(examples),examples});
+ const before=env.DB.raw.prepare('SELECT version,self_revision,self_data FROM profiles WHERE user_id=?').get(a.user.id);
+ const readings=await personal.readingSuggestions(env,a.user.id,{query:'Un article pour explorer la confiance dans les relations',limit:30});
+ assert.ok(readings.length>0&&readings.length<=6);
+ for(const r of readings){const original=examples.find(e=>e.id===r.id);assert.equal(r.url,original.url);assert.equal(r.title,original.title);assert.ok(r.reason);}
+ assert.deepEqual(env.DB.raw.prepare('SELECT version,self_revision,self_data FROM profiles WHERE user_id=?').get(a.user.id),before);
+ env.DB.raw.prepare('UPDATE profiles SET self_data=? WHERE user_id=?').run(JSON.stringify({first_name:'Autre prénom',gender:'non_binary'}),a.user.id);
+ assert.equal((await (await request(env,'/api/portrait',{cookie:a.cookie})).json()).subject.first_name,'Autre prénom');
 });
