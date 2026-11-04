@@ -15,7 +15,7 @@ weight: 30
 draft: false
 ---
 
-<h2 class="parcours-section-title">Parcours de Odile</h2>
+<h2 class="parcours-section-title">Parcours d’Odile</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>

@@ -42,8 +42,9 @@ def public_page(character,rows,weight):
           'profession':character['profession'],'situation':character['situation_familiale'],
           'nb_articles':len(rows),'weight':weight,'draft':False}
     esc=lambda value:html.escape(str(value),quote=True)
+    prefix='Parcours d’' if character['prenom'][0].lower() in 'aeiouyàâéèêëîïôùûü' else 'Parcours de '
     parts=['---',yaml.safe_dump(meta,allow_unicode=True,sort_keys=False).rstrip(),'---','',
-           '<h2 class="parcours-section-title">Parcours de '+esc(character['prenom'])+'</h2>',
+           '<h2 class="parcours-section-title">'+prefix+esc(character['prenom'])+'</h2>',
            '<div class="perso-parcours-list">']
     for row in sorted(rows,key=lambda item:item['episode']):
         category,folder=CATEGORIES[row['category_key']]

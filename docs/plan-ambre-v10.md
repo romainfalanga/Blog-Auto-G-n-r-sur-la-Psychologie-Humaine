@@ -1,6 +1,6 @@
 # Plan V10 — conversation, capacités et couverture éditoriale
 
-Base de départ : `5eb09cf8cbc5ecb325d973fa1eff5d4e315f5072`. Demande de Romain du 4 novembre 2026. État : implémentation et validation locale terminées ; recette de publication en cours.
+Base de départ : `5eb09cf8cbc5ecb325d973fa1eff5d4e315f5072`. Demande de Romain du 4 novembre 2026. État : implémentation publiée, recette réelle et réinitialisation ciblée terminées.
 
 ## Exigences et preuves attendues
 
@@ -84,3 +84,13 @@ Les contrôles audio simulés prouvent le fonctionnement de l’éditeur et de s
 156 récits, 305015 mots mesurés, 13 parcours de 12 épisodes ; aucun écart au contrôle éditorial. Catalogue final : 33 personnages et 387 articles. Les 231 fichiers antérieurs ont été comparés octet par octet à la base et restent identiques. Les index, le manifeste et les pages sont cohérents et leur reconstruction est idempotente.
 
 332 tests du journal, 98 tests Python et 16 tests de recherche passent. Construction Hugo réussie ; 156 URLs de récits et 13 parcours à 12 liens vérifiés. Les variantes du sauveur retrouvent le récit dédié d’Aline. La recherche privilégie un repère dans les métadonnées d’un récit plutôt qu’une mention incidente dans sa description. Une revue indépendante des contrats sensibles n’a plus de bug matériel confirmé après correction.
+
+## Recette en production et remise à neuf
+
+Le commit d’implémentation `19282bfa33dde02ff3d8f417f2377b70cc9a3553` a passé GitHub Actions et a été publié par Netlify (`6aeb79d2d9ad7a80655f0c58`). Le Worker normal a été rétabli après l’opération ponctuelle sous le déploiement `d67506166e614a18be1cc3137eaf7c97`. Les bases de recette et de production contiennent les 387 extraits publics canoniques. Les anciens extraits de production n’ont pas été réécrits.
+
+Sur un compte synthétique avec le fournisseur réel : accueil avant consentement à 100 messages, prénom déclaré repris après saisie, aucun tour ni quota consommé par cet accueil ; recherche sauveur complétée avec deux lectures dont Aline ; demande de nouvelle histoire refusée avec les prérequis et sans proposition impossible. Le rejeu des deux POST retrouve le même tour. Les réponses consomment respectivement un message ; aucune création personnelle n’est disponible avant les dix likes. Le compte synthétique a été supprimé après la recette.
+
+La remise à zéro du compte cible a été réalisée après vérification des préconditions, sous maintenance des API et du cron. Toutes les comparaisons exactes avant et après sont positives : profil déclaré, mémoire, proches, événements et associations, likes, sélections, retours, clés de mutation et consentement. Aucun de leurs textes n’a été imprimé ou ajouté au dépôt. Les budgets de fournisseur sont également identiques. Les anciens tours, propositions, personnage, portraits, dérivés, tâches et expositions ont été supprimés ; les versions globales invalident les travaux précédents. Les clés étrangères sont valides et les 100 messages sont de nouveau disponibles. L’authentification et le service normal ont ensuite été vérifiés.
+
+Les analyses futures repartent des sources conservées. Le consentement n’a pas été changé. La clé OpenRouter et les autres secrets sont restés dans leurs bindings existants. La reconnaissance acoustique réelle reste la limite de recette déclarée : l’éditeur et ses événements sont testés, mais ni l’exactitude de la voix ni tous les appareils physiques ne sont certifiés.

@@ -14,7 +14,7 @@ weight: 33
 draft: false
 ---
 
-<h2 class="parcours-section-title">Parcours de Élise</h2>
+<h2 class="parcours-section-title">Parcours d’Élise</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Reprendre le contrôle de ses pensées</div>

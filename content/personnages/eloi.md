@@ -14,7 +14,7 @@ weight: 25
 draft: false
 ---
 
-<h2 class="parcours-section-title">Parcours de Éloi</h2>
+<h2 class="parcours-section-title">Parcours d’Éloi</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Reprendre le contrôle de ses pensées</div>

@@ -14,7 +14,7 @@ weight: 21
 draft: false
 ---
 
-<h2 class="parcours-section-title">Parcours de Aline</h2>
+<h2 class="parcours-section-title">Parcours d’Aline</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Sortir de ses schémas répétitifs</div>

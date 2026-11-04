@@ -14,7 +14,7 @@ weight: 26
 draft: false
 ---
 
-<h2 class="parcours-section-title">Parcours de Inès</h2>
+<h2 class="parcours-section-title">Parcours d’Inès</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Sortir de ses schémas répétitifs</div>
