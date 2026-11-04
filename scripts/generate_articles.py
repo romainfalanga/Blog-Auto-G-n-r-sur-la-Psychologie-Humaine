@@ -1476,7 +1476,7 @@ MÉTHODE NARRATIVE OBLIGATOIRE :
 - L'histoire doit être réaliste, touchante, avec des détails sensoriels et émotionnels VARIÉS et ORIGINAUX
 - GENRE GRAMMATICAL : Respecte STRICTEMENT le genre du personnage (féminin ou masculin) indiqué dans la fiche. Utilise les accords corrects pour les adjectifs, participes passés, pronoms, etc. Un personnage féminin utilise "elle", "assise", "installée", etc. Un personnage masculin utilise "il", "assis", "installé", etc.
 - CONTINUITÉ NARRATIVE : Les personnages sont RÉCURRENTS. Si le personnage a un historique d'articles, l'histoire d'aujourd'hui est la SUITE de son parcours. Fais référence naturellement à ses expériences passées. Montre son évolution. Les techniques apprises dans les articles précédents sont des acquis.
-- PRÉNOMS INTERDITS POUR LES PERSONNAGES SECONDAIRES : Quand tu crées des personnages secondaires (exemples illustratifs, collègues, amis, proches mentionnés dans l'histoire), tu ne dois JAMAIS utiliser l'un des 20 prénoms suivants, car ils sont réservés aux personnages récurrents du blog : {prenoms_interdits}. Choisis des prénoms courants différents (ex : Julie, Antoine, Claire, Mathieu, Sarah, etc.). C'est une règle ABSOLUE.
+- PRÉNOMS INTERDITS POUR LES PERSONNAGES SECONDAIRES : Quand tu crées des personnages secondaires (exemples illustratifs, collègues, amis, proches mentionnés dans l'histoire), tu ne dois JAMAIS utiliser l'un des {len(PRENOMS)} prénoms suivants, car ils sont réservés aux personnages récurrents du blog : {prenoms_interdits}. Choisis des prénoms courants différents (ex : Julie, Antoine, Claire, Mathieu, Sarah, etc.). C'est une règle ABSOLUE.
 - TEMPS DE NARRATION : l'histoire DOIT être racontée au PRÉSENT de l'indicatif. Le personnage vit la scène en temps réel, comme si le lecteur assistait à la situation au moment où elle se produit (ex: "Sophie ouvre son ordinateur. Ses mains tremblent légèrement." et NON "Sophie a ouvert son ordinateur. Ses mains tremblaient."). Le présent crée une immersion immédiate et une connexion émotionnelle plus forte avec le lecteur.
 
 RÈGLES DE RÉDACTION :
@@ -2372,7 +2372,7 @@ def generate_character_tracking_page(personnages, matrix):
     index_lines.append("---")
     index_lines.append('title: "Nos Personnages"')
     index_lines.append(f"date: {date_str}")
-    index_lines.append('description: "Découvrez les 20 personnages récurrents du blog et suivez leur évolution psychologique au fil des articles."')
+    index_lines.append(f'description: "Découvrez les {len(personnages)} personnages récurrents du blog et suivez leur évolution psychologique au fil des articles."')
     index_lines.append("draft: false")
     index_lines.append("---")
 

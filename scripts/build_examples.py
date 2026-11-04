@@ -141,6 +141,11 @@ def build():
     examples = []
     characters = character_catalog()
     articles_data = {}
+    # Editorial links belong to the public story, never to its reader. Only
+    # reviewed rows from the complete pack can add controlled concept IDs.
+    pack_path = ROOT / 'data/editorial_pack_v10.json'
+    pack_rows = {row['path']: row for row in json.loads(pack_path.read_text())['rows']} if pack_path.exists() else {}
+    pattern_ids = {row['id'] for row in json.loads((ROOT / 'data/psychology_catalog.json').read_text())['patterns']}
     for path in sorted((ROOT / 'content/posts').rglob('*.md')):
         if path.name == '_index.md':
             continue
@@ -151,6 +156,12 @@ def build():
         relative = path.relative_to(ROOT / 'content').with_suffix('')
         slug = meta.get('slug', path.stem)
         metadata = extractive_metadata(body, meta)
+        if meta.get('editorial_pack') == 'psychology-v10':
+            reviewed = pack_rows.get(path.relative_to(ROOT).as_posix())
+            if not reviewed or reviewed['slug'] != slug or set(reviewed['pattern_ids']) - pattern_ids:
+                raise ValueError('Missing or invalid editorial concept links: ' + str(path))
+            metadata['pattern_ids'] = list(dict.fromkeys(reviewed['pattern_ids']))
+            metadata['pattern_source'] = 'editorial_pack_v10_reviewed_story'
         summary = metadata['summary']
         # Opening scene + ending retain narrative approach at a bounded context cost.
         excerpt = body.strip()

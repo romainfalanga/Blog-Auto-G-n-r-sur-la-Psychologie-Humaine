@@ -41,6 +41,11 @@ export function createRecommender(examples){
   const v=vectorText(e.title+' '+(e.description||''));
   add(v,vectorText(e.summary||''),.35);
   for(const w of [...e.keywords,e.sujet||'',e.canonical_concept||''])add(v,vectorText(w),3);
+  // Human-reviewed story links improve vocabulary coverage; they never create
+  // a personal hypothesis or count as additional evidence about the reader.
+  if(e.pattern_source==='editorial_pack_v10_reviewed_story')for(const id of new Set(e.pattern_ids||[])){
+   const pattern=PSYCHOLOGY_CATALOG.patterns.find(p=>p.id===id);if(pattern)add(v,vectorText(pattern.label),.75);
+  }
   // Character identity is not a signal about the reader or the article's topic.
   return v;
  });

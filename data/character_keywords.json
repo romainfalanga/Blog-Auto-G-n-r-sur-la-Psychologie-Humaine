@@ -238,5 +238,161 @@
       "Taiseux"
     ],
     "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "aline": {
+    "id": "aline",
+    "name": "Aline",
+    "keywords": [
+      "Syndrome du sauveur",
+      "Surresponsabilité",
+      "Culpabilité au repos",
+      "Limites relationnelles",
+      "Réciprocité"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "rémi": {
+    "id": "remi",
+    "name": "Rémi",
+    "keywords": [
+      "Surcharge attentionnelle",
+      "Difficulté à démarrer",
+      "Mémoire de travail",
+      "Procrastination",
+      "Priorités concurrentes"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "maëlle": {
+    "id": "maelle",
+    "name": "Maëlle",
+    "keywords": [
+      "Rythmes de sommeil",
+      "Fatigue",
+      "Culpabilité au repos",
+      "Besoins corporels",
+      "Conditions de travail"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "samira": {
+    "id": "samira",
+    "name": "Samira",
+    "keywords": [
+      "Insécurité matérielle",
+      "Honte financière",
+      "Charge mentale",
+      "Sentiment de pouvoir agir",
+      "Soutien social"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "éloi": {
+    "id": "eloi",
+    "name": "Éloi",
+    "keywords": [
+      "Sentiment de compétence",
+      "Peur de l’erreur",
+      "Comparaison aux autres",
+      "Motivation",
+      "Autonomie"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "inès": {
+    "id": "ines",
+    "name": "Inès",
+    "keywords": [
+      "Consentement",
+      "Limites intimes",
+      "Sécurité affective",
+      "Image du corps",
+      "Communication dans le couple"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "vincent": {
+    "id": "vincent",
+    "name": "Vincent",
+    "keywords": [
+      "Charge d’aidance",
+      "Fatigue de l’aidant",
+      "Émotions ambivalentes",
+      "Autonomie du proche",
+      "Répit"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "salomé": {
+    "id": "salome",
+    "name": "Salomé",
+    "keywords": [
+      "Pression des normes",
+      "Appartenance",
+      "Regard des autres",
+      "Vie privée",
+      "Continuité de soi"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "malik": {
+    "id": "malik",
+    "name": "Malik",
+    "keywords": [
+      "Appartenances multiples",
+      "Adaptation au contexte",
+      "Liens à distance",
+      "Solitude",
+      "Discrimination"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "odile": {
+    "id": "odile",
+    "name": "Odile",
+    "keywords": [
+      "Deuil",
+      "Liens et souvenirs",
+      "Solitude choisie",
+      "Changement de rôle",
+      "Joie et chagrin"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "anaïs": {
+    "id": "anais",
+    "name": "Anaïs",
+    "keywords": [
+      "Incertitude de santé",
+      "Fatigue",
+      "Capacités fluctuantes",
+      "Handicap invisible",
+      "Identité et maladie"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "baptiste": {
+    "id": "baptiste",
+    "name": "Baptiste",
+    "keywords": [
+      "Valeurs personnelles",
+      "Indécision",
+      "Regret",
+      "Incertitude",
+      "Engagement progressif"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "élise": {
+    "id": "elise",
+    "name": "Élise",
+    "keywords": [
+      "Souplesse psychologique",
+      "Régulation des émotions",
+      "Humour",
+      "Attention au présent",
+      "Optimisme réaliste"
+    ],
+    "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
   }
 }

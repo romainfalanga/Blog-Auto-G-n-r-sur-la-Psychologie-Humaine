@@ -1,6 +1,6 @@
 import { platformAccess, accessSql } from './entitlements.mjs';
 import {PSYCHOLOGY_CATALOG,buildPsychologyMap} from './psychology-map.mjs';
-import {expandReadingQuery} from './reading-intent.mjs';
+import {expandReadingQuery,lookupReadingCatalogue} from './reading-intent.mjs';
 import {PORTRAIT_ANALYSIS_VERSION} from './portrait-language.mjs';
 import {loadContext,hasPersonalizationSources,validatePortraitV2,contextHash} from './private-context.mjs';
 export {hasPersonalizationSources,validatePortraitV2};
@@ -91,6 +91,37 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
  const characters=async(env,userId)=>{const rows=(await all(env,'SELECT * FROM personal_characters WHERE user_id=? ORDER BY slot',userId)).map(characterRow),c=await context(env,userId);return rows.map(ch=>{const refs=ch.facet.evidence||[],stale=refs.some(id=>!c.source_manifest[id]||!ch.facet.source_manifest?.[id]||c.source_manifest[id].revision!==ch.facet.source_manifest[id].revision||c.source_manifest[id].hash!==ch.facet.source_manifest[id].hash);if(stale)ch.facet={label:'Facette en actualisation',description:'Votre portrait actualisé guidera les prochaines histoires.',evidence:[],outdated:true};return ch;});};
  const requestRow=row=>{if(!row)return null;const keys=['id','character_id','expected_parent_id','status','credit_status','week_start','source_version','canon_version','attempts','story_id','error_code','created_at','expires_at'];return Object.fromEntries(keys.map(k=>[k,row[k]]));};
  async function quota(env,userId){const w=parisWeek(),q=await first(env,"SELECT sum(credit_status='consumed') AS used,sum(credit_status='reserved') AS reserved FROM story_requests WHERE user_id=? AND week_start=?",userId,w.week_start);return {limit:7,used:Number(q.used||0),reserved:Number(q.reserved||0),remaining:Math.max(0,7-Number(q.used||0)-Number(q.reserved||0)),...w};}
+ async function companionCapabilities(env,userId){
+  // Only server-owned rows determine available actions. This summary needs no
+  // model, derivative generation, or private-source hashing for an empty chat.
+  await sweep(env,userId);
+  const week=parisWeek().week_start;
+  const [row,q]=await Promise.all([first(env,`SELECT p.version,p.self_data,m.text AS memory_text,s.status,s.paid_until,s.trial_end,
+   COALESCE((SELECT reserved_tokens FROM provider_budgets WHERE user_id=p.user_id AND week_start=?),0) AS provider_reserved_tokens,
+   (SELECT max(lease_until) FROM chat_turns WHERE status='failed' AND error_code LIKE 'provider_http_%' AND lease_until>?) AS provider_retry_at,
+   (SELECT count(*) FROM article_likes WHERE user_id=p.user_id) AS likes_count,
+   (SELECT count(*) FROM personal_people WHERE user_id=p.user_id) AS people_count,
+   (SELECT count(*) FROM life_events WHERE user_id=p.user_id) AS events_count,
+   (SELECT count(*) FROM story_requests WHERE user_id=p.user_id AND created_at>datetime('now','-24 hours')) AS daily_requests,
+   (SELECT id FROM story_requests WHERE user_id=p.user_id AND status IN ${ACTIVE} LIMIT 1) AS active_request_id,
+   (SELECT status FROM story_requests WHERE user_id=p.user_id AND status IN ${ACTIVE} LIMIT 1) AS active_request_status,
+   (SELECT id FROM personal_characters WHERE user_id=p.user_id AND is_primary=1 AND trim(COALESCE(json_extract(identity,'$.name'),''))!='' LIMIT 1) AS character_id,
+   EXISTS(SELECT 1 FROM user_portraits up WHERE up.user_id=p.user_id AND up.schema_version=2 AND up.analyzed_version=p.version AND json_type(up.portrait,'$.psychological_map')='array' AND COALESCE(json_array_length(json_extract(up.portrait,'$.coverage.pending')),0)=0) AS portrait_ready
+   FROM profiles p JOIN memories m ON m.user_id=p.user_id JOIN subscriptions s ON s.user_id=p.user_id WHERE p.user_id=?`,week,now(),userId),quota(env,userId)]);
+  if(!row)fail(401,'Compte introuvable.','account_missing');
+  const self=parse(row.self_data),hasDescription=narrativeKeys.some(key=>typeof self[key]==='string'&&self[key].trim()),reasons=[];
+  if(!platformAccess(env,row,now()).allowed)reasons.push('subscription_required');
+  if(!env.OPENROUTER_API_KEY)reasons.push('provider_missing');if(paused(env))reasons.push('generation_paused');
+  if(row.provider_retry_at)reasons.push('provider_cooldown');if(row.provider_reserved_tokens>=(Number(env.WEEKLY_TOKEN_BUDGET)||3000000))reasons.push('generation_budget');
+  if(row.likes_count<10)reasons.push('likes_required');if(!hasDescription)reasons.push('self_description_required');if(!row.portrait_ready)reasons.push('portrait_required');if(!row.character_id)reasons.push('character_not_ready');
+  if(q.remaining===0)reasons.push('quota_exhausted');if(row.active_request_id)reasons.push('request_in_progress');if(row.daily_requests>=30)reasons.push('request_limit');
+  const memoryLength=String(row.memory_text||'').length,remaining=Math.max(0,10000-memoryLength-(memoryLength?2:0));
+  return {source_version:row.version,profile:{has_information:selfFields.some(key=>typeof self[key]==='string'&&self[key].trim()),has_description:hasDescription,first_name:typeof self.first_name==='string'?self.first_name.trim().slice(0,100):''},
+   self_profile_patch:{allowed:true},memory_append:{allowed:remaining>0,remaining_characters:remaining,max_characters:2000},
+   person_create:{allowed:row.people_count<50,count:row.people_count,limit:50},person_update:{allowed:row.people_count>0,count:row.people_count},
+   life_event_create:{allowed:row.events_count<500,count:row.events_count,limit:500},life_event_update:{allowed:row.events_count>0,count:row.events_count},reading_lookup:{allowed:true},
+   story_request:{allowed:reasons.length===0,reasons,likes_count:row.likes_count,likes_target:10,portrait_ready:Boolean(row.portrait_ready),character_ready:Boolean(row.character_id),quota:q,active_request:row.active_request_id?{id:row.active_request_id,status:row.active_request_status}:null}};
+ }
  async function sweep(env,userId=null){const t=now(),filter=userId?' AND user_id=?':'';await env.DB.batch([
  stmt(env,`UPDATE story_requests SET status='cancelled',credit_status='released',error_code='eligibility_changed',updated_at=CURRENT_TIMESTAMP WHERE status IN ${ACTIVE} AND (NOT EXISTS(SELECT 1 FROM personal_characters pc WHERE pc.id=story_requests.character_id AND pc.user_id=story_requests.user_id AND pc.is_primary=1) OR NOT EXISTS(SELECT 1 FROM profiles p WHERE p.user_id=story_requests.user_id AND (SELECT count(*) FROM article_likes al WHERE al.user_id=p.user_id)>=10 AND ${selfSql}))${filter}`,...(userId?[userId]:[])),
  stmt(env,`UPDATE story_requests SET status=CASE WHEN expires_at<=? THEN 'expired' ELSE 'cancelled' END,credit_status='released',error_code=CASE WHEN expires_at<=? THEN 'request_expired' ELSE 'subscription_expired' END,updated_at=CURRENT_TIMESTAMP WHERE status IN ${ACTIVE} AND (expires_at<=? OR NOT EXISTS(SELECT 1 FROM subscriptions s WHERE s.user_id=story_requests.user_id AND ${accessSql(env,'s')}))${filter}`,t,t,t,t,...(userId?[userId]:[])),
@@ -284,6 +315,7 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
   });
  }
  async function readingSuggestions(env,userId,options={}){return readingSuggestionsFromContext(await context(env,userId),options);}
+ const readingLookup=(query,options={})=>lookupReadingCatalogue(examples,query,options);
 
- return {validateSelfPatch,personData,eventData,context,portrait,readingSuggestions,readingSuggestionsFromContext,routes,continueCharacter,claimJobs,completeJob,proxyJobLLM,failJob,exportData,quota,characters,sourcesChanged,refreshUserPortrait,refreshPendingPortraits};
+ return {validateSelfPatch,personData,eventData,context,portrait,companionCapabilities,readingSuggestions,readingSuggestionsFromContext,readingLookup,routes,continueCharacter,claimJobs,completeJob,proxyJobLLM,failJob,exportData,quota,characters,sourcesChanged,refreshUserPortrait,refreshPendingPortraits};
 }

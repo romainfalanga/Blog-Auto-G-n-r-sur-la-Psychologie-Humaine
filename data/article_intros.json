@@ -27,6 +27,27 @@
     "method": "definition_excerpt",
     "source_body_sha256": "1672a774ddf26147c79045de7a446972d02aef6d8f0b6f0291c622bccc323e34"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/aline-culpabilite-repos": {
+    "text": "La culpabilité au repos est le sentiment d’être en faute lorsqu’on ralentit ou cesse une activité, même quand aucune obligation précise n’est négligée. Elle peut venir d’engagements réels, de contraintes économiques, d’attentes collectives ou de règles personnelles très exigeantes.",
+    "source_heading": "Qu’est-ce que la culpabilité au repos ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "fb87b14674feca8b160c32a70321993383573210ca269428db100dce2a5d13dc"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aline-fatigue-compassion-relais": {
+    "text": "La fatigue de compassion est une expression utilisée pour décrire certaines difficultés liées à l’exposition répétée à la souffrance d’autrui dans une activité d’aide. Ses définitions varient selon les travaux, parfois en lien avec l’épuisement et le stress traumatique secondaire.",
+    "source_heading": "Qu’est-ce que la fatigue de compassion ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a7d33d57ce426182110c95013cfde9eaff8cfd70b6f3daa7dff5182b6ac8c83a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/aline-tolerer-deception-autrui": {
+    "text": "Tolérer la déception de l’autre consiste à reconnaître son émotion et à rester en relation avec elle, sans se donner pour mission de la supprimer à tout prix. Cela ne signifie pas devenir indifférent ni accepter tous les comportements.",
+    "source_heading": "Qu’est-ce que tolérer la déception de l’autre ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "52c1673f036f493e83ddb21c07d6d6a95bdd433480ba150303bf484d669744cf"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/ambivalence-emotionnelle-reconversion-professionnelle-burn-out": {
     "text": "L'ambivalence émotionnelle se définit comme l'expérience simultanée de deux émotions opposées et de valence contraire, comme la joie et la tristesse ou l'attraction et la répulsion, envers un même objet ou une même situation.",
     "source_heading": "Définition de l'ambivalence émotionnelle",
@@ -40,6 +61,34 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "752426b3f4f239e5af2f8f427130755df66f0e062f900809548fcec628240637"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/anais-fatigue-droit-repos": {
+    "text": "Reconnaître un droit au repos, dans l'expérience quotidienne, consiste à considérer le repos comme un besoin légitime, sans le conditionner à une preuve d'épuisement ou à l'achèvement de toutes les tâches.",
+    "source_heading": "Qu'est-ce que reconnaître un droit au repos ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "4f6cd75e4d4b8d283e0ecff9910d77d65091827a2a2cb1baf53135363fa4ec9a"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/anais-handicap-invisible-reconnaissance": {
+    "text": "Un handicap invisible désigne des limitations ou des difficultés importantes qui ne sont pas immédiatement perceptibles de l'extérieur. Des maladies chroniques peuvent produire ce type de situation, selon leur retentissement et le contexte.",
+    "source_heading": "Qu'est-ce qu'un handicap invisible ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "83ba10bea2df5d9000de3323020957cd86fa973a5fb5d925e7677fd35098ada0"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/anais-identite-au-dela-maladie": {
+    "text": "Une identité au-delà de la maladie désigne la possibilité de se reconnaître dans plusieurs liens, goûts, rôles et valeurs, tout en laissant à la santé sa place réelle. Elle ne demande pas de redevenir la personne d'avant ni de se montrer toujours positive.",
+    "source_heading": "Qu'est-ce qu'une identité au-delà de la maladie ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "d225af9481ae04c987d2474a08736b838ceb160c57022c8782a651a1b006a6c6"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/anais-soutien-espoir-realiste": {
+    "text": "Un espoir réaliste avec une maladie chronique consiste à envisager des possibilités désirables en tenant compte des limites, des incertitudes et des appuis réellement disponibles. Il ne garantit pas une amélioration médicale précise.",
+    "source_heading": "Qu'est-ce qu'un espoir réaliste avec une maladie chronique ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "5b7e14556b1417789e577496ad22f9dff115a8bf563d84889b4f051298268f3e"
   },
   "posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets": {
     "text": "L'anxiété au travail est une forme d'inquiétude centrée sur la performance, la sécurité professionnelle et les interactions professionnelles qui se manifeste par des pensées anticipatoires et des réactions physiques parfois subtiles.",
@@ -169,6 +218,55 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "d6b6435937aa5f62bebaf841fa35958f9feb9c6bf3bac6b5da3d7e96fa4c9414"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/elise-accepter-agir": {
+    "text": "Accepter signifie ici reconnaître une réalité présente suffisamment clairement pour choisir comment y répondre. Ce n’est pas approuver cette réalité, la trouver juste ou renoncer à souhaiter un changement.",
+    "source_heading": "Qu’est-ce que l’acceptation dans une situation concrète ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a39caa3dcba6a6829ff3ada867fa48e5e03ea542b49c7e63895d1a0c5d49a667"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/elise-bienveillance-apres-revers": {
+    "text": "La bienveillance envers soi consiste à reconnaître une difficulté et à se traiter avec une attention comparable à celle que l’on pourrait accorder à quelqu’un que l’on respecte. Elle ne suppose pas de se trouver admirable, de se féliciter ou de nier une erreur.",
+    "source_heading": "Qu’est-ce que la bienveillance envers soi après un revers ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "b1ad5554c360c5998ac3ae8fb4110cfeedfd96bc238e3c46bdd7a0ae65929c4c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/elise-gratitude-sans-deni": {
+    "text": "La gratitude consiste à reconnaître quelque chose que l’on apprécie avoir reçu ou rencontré : une aide, une attention, une possibilité matérielle, un moment partagé. Elle peut s’adresser à quelqu’un ou rester un constat personnel.",
+    "source_heading": "Qu’est-ce qu’une gratitude qui conserve la nuance ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "d3c3e7b93e01c8c4b3d65dcff4925f1661670360c7a7cfb39edcb05f30fe2040"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/elise-humour-emotions": {
+    "text": "L’humour peut donner du recul, rendre une situation partageable et réintroduire du lien dans un moment tendu. Il n’existe pas une façon correcte de plaisanter face aux difficultés. Certaines personnes trouvent facilement des images drôles, d’autres non.",
+    "source_heading": "Qu’est-ce qu’un humour qui laisse de la place ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "7df75fbd0bf5777103ae4ba081781b0688ef66554a0877339a5541ebdef9f890"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/elise-savourer-jardin": {
+    "text": "Savourer consiste à accorder volontairement un peu d’attention à une expérience agréable pendant qu’elle se produit, ou à son souvenir proche. Il peut s’agir d’un goût, d’une conversation, d’une musique, d’un geste réussi ou d’une lumière dans une pièce.",
+    "source_heading": "Qu’est-ce que savourer une expérience ordinaire ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "6cff1526714e48eddc47a255e6bea90d6117db4f21d1b8ebe53864f96a064c66"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/eloi-motivation-interet": {
+    "text": "La motivation désigne les processus qui orientent une personne vers une activité, soutiennent son engagement ou la conduisent à s'en éloigner. Elle peut inclure le plaisir de faire, l'intérêt d'apprendre, un résultat important ou une contrainte extérieure.",
+    "source_heading": "Qu'est-ce que la motivation pour une activité ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "67e8c5bdbf6a0f0c039a1614059b94f4633c9ce85a4b411e77a309309bab1031"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/eloi-reprendre-apres-erreur": {
+    "text": "Une attente apprise est une anticipation qui se construit à partir d'expériences antérieures et influence ce que l'on pense probable dans une nouvelle situation. Si une demande reçoit souvent une réponse brève ou désagréable, on peut commencer à prévoir le même accueil avant de parler.",
+    "source_heading": "Qu'est-ce qu'une attente apprise ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "18c50de320adc9ce38a53a276c792cb272b92a143cf793153d6885d5f1429196"
   },
   "posts/comprendre-et-maitriser-ses-emotions/embarras-en-societe-interactions": {
     "text": "L'embarras est une émotion sociale, généralement brève, qui surgit lorsqu'on a l'impression de perdre de la valeur aux yeux des autres.",
@@ -324,6 +422,27 @@
     "method": "definition_excerpt",
     "source_body_sha256": "8d72589618232f3bf274494bd580387e13ea60c09050560d7b831ccf1a048814"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/ines-difference-desir-couple": {
+    "text": "Une différence de désir désigne un décalage entre les envies des partenaires, dans leur intensité, leur fréquence, leur moment ou la forme de proximité souhaitée. Ce décalage ne permet pas, à lui seul, de conclure que l’une désire trop et l’autre pas assez.",
+    "source_heading": "Qu’est-ce qu’une différence de désir dans le couple ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "020f7dfecc1cf9aa37cbadacb6665a749c71bf9db26f55a6a1d99301a9c2eb4b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ines-fatigue-disponibilite-affective": {
+    "text": "La disponibilité affective désigne ici la possibilité concrète d’être attentive à l’expérience d’une autre personne et d’y répondre, dans les limites du moment. Ce n’est ni une réserve mesurable d’amour ni une qualité permanente.",
+    "source_heading": "Qu’est-ce que la disponibilité affective quand on est fatiguée ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "826bad755367fded0818be1589bddb21a4ed94554e7d2204ea2f00a9fd64b8ae"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/ines-securite-affective-demande-claire": {
+    "text": "La sécurité affective désigne ici la possibilité de se sentir assez en confiance dans un lien pour exprimer un besoin, entendre une réponse et rester une personne distincte. Elle n’exige pas une disponibilité permanente de la partenaire.",
+    "source_heading": "Qu’est-ce qu’une sécurité affective soutenue par une demande claire ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "375fb4f9a8cd9c5eb78929c1f7c3c5ff3df0895f5cedc6fc975a556271377856"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/inquietude-decision-importante": {
     "text": "L'inquiétude est une forme d'anticipation mentale centrée sur des événements futurs perçus comme incertains ou menaçants, qui mobilise le système attentionnel et émotionnel sans toujours donner lieu à une action concrète.",
     "source_heading": "Définition de l'inquiétude et mécanismes psychologiques",
@@ -337,6 +456,55 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "e296c34666aef82fc0e6651d612ef96ec3aa5248fc01155a037c2a44f2fcdfb6"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/maelle-besoins-corporels": {
+    "text": "Percevoir ses besoins corporels consiste à remarquer des sensations internes et à les mettre en relation avec le contexte pour choisir une réponse adaptée. Cela peut concerner la faim, la soif, le besoin de repos, une gêne ou un besoin de mouvement.",
+    "source_heading": "Qu'est-ce que percevoir ses besoins corporels ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "1007048dc2dd72f50ed543d3691275f58c7d54bae6e4eb7d7fa7cf123b045a6e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/maelle-culpabilite-repos": {
+    "text": "La culpabilité de se reposer est le sentiment de manquer à une obligation lorsqu'on suspend son activité, même si cette pause répond à un besoin légitime. Elle ne constitue pas un diagnostic. Elle peut signaler un engagement réel, une règle familiale intériorisée, une répartition inégale des tâches ou la difficulté à rendre visibles des contraintes que les autres ne rencontrent pas.",
+    "source_heading": "Qu'est-ce que la culpabilité de se reposer ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "1bb77d8a1cac9d28b20f3328dadec1165c50bcc3ab3858b7b757b9c538385f01"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/maelle-fatigue-sans-jugement": {
+    "text": "Reconnaître la fatigue sans se juger consiste à décrire une diminution de ses ressources disponibles sans la confondre avec sa valeur ou sa motivation. Cette distinction ne minimise pas les conséquences de la fatigue.",
+    "source_heading": "Qu'est-ce que reconnaître la fatigue sans se juger ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "36bd6ee56cef5985d237d37a3542780070bc7e041589cb4c25e4747b62e63db0"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malik-discrimination-rester-soi": {
+    "text": "Reconnaître une discrimination consiste à identifier un traitement défavorable lié à un critère protégé dans un domaine concerné, sans en faire une faute de la personne qui le subit. Le Défenseur des droits précise ce cadre général.",
+    "source_heading": "Qu’est-ce que reconnaître une discrimination sans s’y réduire ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "24ad4f64b7169743f2da2a6b05179a357980a1308fd06fc269d52da83cbaba23"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malik-langues-emotions": {
+    "text": "Le lien entre langue et expression des émotions désigne la manière dont les mots, les habitudes de conversation et leurs contextes d’apprentissage influencent ce que l’on peut nommer et partager. Une expression peut être facile dans une relation et difficile dans une autre.",
+    "source_heading": "Qu’est-ce que le lien entre langue et expression des émotions ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "1d2cedf441da73eed9119e487ad31689c288b89f3473afa89e1c02b2aa465623"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malik-lieu-perte-sans-cloture": {
+    "text": "Une perte sans clôture claire est une expérience dans laquelle ce qui disparaît, ce qui demeure et ce qui peut revenir restent incertains. Pauline Boss développe le concept de perte ambiguë à partir de situations relationnelles où présence et absence ne se recouvrent pas simplement.",
+    "source_heading": "Qu’est-ce qu’une perte sans clôture claire liée à un lieu ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "1d9a1e9c9f65dd82551a7d9181399da7af227f8a4ad9256a1f1d8efdf1e8785f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/malik-solitude-choisie-subie": {
+    "text": "La solitude choisie est un temps sans compagnie que la personne souhaite ou accepte comme favorable à ses besoins du moment. La solitude subie correspond ici à un écart pénible entre les liens désirés et les contacts réellement disponibles.",
+    "source_heading": "Qu’est-ce que distinguer solitude choisie et solitude subie ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "7f55f9544c00c526e0d2e3c7543a3ac574ee131d441e4fb998ab3a1e4d75ec23"
   },
   "posts/comprendre-et-maitriser-ses-emotions/melancolie-face-a-la-solitude": {
     "text": "La mélancolie est une humeur durable mêlant tristesse, rumination et une façon particulière de regarder le monde, souvent associée à une sensibilité artistique et à une perte d'élan durable. Le terme existe depuis l'Antiquité, mais en psychiatrie moderne il a été classé par Emil Kraepelin et est reconnu aujourd'hui comme un spécificateur clinique.",
@@ -387,6 +555,34 @@
     "method": "definition_excerpt",
     "source_body_sha256": "7e346e10b0905da2a25f5321353e3f30fd5b62650d374f68b765f8523e943e98"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/odile-dates-emotions-variables": {
+    "text": "Une date repère est un moment auquel une personne associe une relation, un événement ou une attente particulière. Il peut s’agir d’un anniversaire, d’une fête, d’une saison ou d’une occasion qui aurait normalement été partagée.",
+    "source_heading": "Qu’est-ce qu’une date repère dans le deuil ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "57439d6e4f9dfbc23b66d2e499303f377ed84efacb3853ba3cade9579b66a8a4"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/odile-deuil-retour-quotidien": {
+    "text": "Le mot oscillation décrit ici des mouvements entre des moments où la perte occupe le premier plan et d’autres où l’attention revient vers les tâches, les relations ou les intérêts présents. Il ne désigne pas deux étapes qu’il faudrait alterner correctement.",
+    "source_heading": "Qu’est-ce que l’oscillation du deuil dans une journée ordinaire ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a9ae407a024884f3dd5c6b7cd14ca9a91cb980ed812a0700768656a45b7ead96"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/odile-joie-chagrin-meme-jour": {
+    "text": "Plusieurs émotions peuvent coexister dans une même situation ou se succéder rapidement. Une activité agréable peut apporter du plaisir tandis qu’une absence reste présente. Cette coexistence ne rend pas nécessairement l’une des émotions superficielle.",
+    "source_heading": "Qu’est-ce que ressentir de la joie et du chagrin ensemble ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "8c8831f60084f46d704082f470711ed3d32a76f41ced3fa0028f35bdcb43461d"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/odile-liens-apres-deces": {
+    "text": "Après la mort d’une personne, la relation concrète s’interrompt : on ne peut plus lui téléphoner, lui demander un avis nouveau ou partager un repas avec elle. Ce fait peut coexister avec une présence du souvenir dans la vie quotidienne.",
+    "source_heading": "Qu’est-ce qu’un lien qui continue après un décès ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "d6b5a657180a907c02c85126e800bd6684659f2f6f715909d6b7897dca14031b"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/peur-face-a-lautorite": {
     "text": "La peur est une émotion fondamentale qui signale un danger réel ou perçu, déclenchant des réponses physiques et comportementales destinées à protéger l'individu. Quand elle se déploie face à une figure d'autorité, elle prend souvent la forme d'un mécanisme appris, lié à des expériences d'enfance et à des attentes familiales.",
     "source_heading": "Qu'est-ce que la peur face à l'autorité ?",
@@ -415,6 +611,27 @@
     "method": "definition_excerpt",
     "source_body_sha256": "d6523dc829d79e37e0a0a98fca835192fdc57133ad3bf8fdec277e9a21cb09ab"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/remi-charge-priorites": {
+    "text": "La charge réelle de travail correspond à ce qu'une activité demande effectivement à une personne dans une situation donnée, avec ses moyens, ses contraintes et les ajustements nécessaires. Elle ne se résume pas au nombre de tâches affichées.",
+    "source_heading": "Qu'est-ce que la charge réelle de travail ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "15eee9a0b107406a362ff092ebe154deb7d40fb26b3c3cb32e1625912510dc77"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remi-erreur-parole-retrait": {
+    "text": "L'autocritique après une erreur est la manière dont une personne évalue et commente son action lorsque le résultat ne correspond pas à ce qui est attendu. Elle peut rester précise et orienter une correction, ou devenir globale, hostile et répétitive.",
+    "source_heading": "Qu'est-ce que l'autocritique après une erreur ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "6bfd420ab2d896f647b9e927cdac1d860d8fbaed0bce29e15c3ff8404fa297ee"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/remi-procrastination-emotion": {
+    "text": "La procrastination est le report d'une action prévue alors que l'on s'attend à ce que ce retard ait un coût. Elle peut notamment servir à éviter momentanément l'émotion associée à la tâche. Une demande paraît irritante, une réponse incertaine ou un document menaçant pour l'image de soi ; faire autre chose apporte un soulagement rapide.",
+    "source_heading": "Qu'est-ce que la procrastination liée à l'émotion ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "35a0f5eccb0c40a5105c018c553f58af8314b6a7319dacd9f9ccb2a87b76f64c"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/remords-en-famille-comprendre-et-agir": {
     "text": "Le remords est une émotion complexe qui naît de la conscience d'avoir commis une action dommageable et du regret sincère de la douleur causée à autrui. Contrairement à la culpabilité simple, qui se concentre souvent sur la transgression d'une règle ou l'image de soi, le remords est tourné vers l'autre et vers la réparation de la relation.",
     "source_heading": "Définition du remords et de ses mécanismes",
@@ -442,6 +659,48 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "2dde6f7fd19a73f3a91c0bfae89266507b86ad81c24179e178a8930a672097ac"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/salome-bienveillance-apres-interaction": {
+    "text": "Se parler avec bienveillance consiste à reconnaître ce qui est difficile et sa propre part dans les faits sans recourir à l’humiliation personnelle. Cela ne signifie pas se déclarer irréprochable ni écarter toute critique.",
+    "source_heading": "Qu’est-ce que se parler avec bienveillance après une interaction ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "766649346b4379157c2ebc02d324cf43c401a9ddec1247d25a6770ea9d05750c"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/salome-securite-adaptation-contexte": {
+    "text": "Adapter son comportement au contexte de sécurité consiste à tenir compte des signes observables, des incertitudes et des appuis disponibles pour choisir comment participer à une situation. Cela peut conduire à parler, attendre, changer de lieu, demander un relais ou partir.",
+    "source_heading": "Qu’est-ce qu’adapter son comportement au contexte de sécurité ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "2bc96901201093bdc0b0a5b0c51f0c6a8fedd7a3c83facee7a855a3d3e1b1ecb"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/samira-budget-valeur-personnelle": {
+    "text": "Lier sa valeur personnelle à son budget consiste à traiter ses moyens financiers ou sa capacité de payer comme une preuve de sa valeur en tant que personne. Une limite de ressources devient alors un verdict sur la générosité, la compétence ou la place dans un groupe.",
+    "source_heading": "Qu’est-ce que lier sa valeur personnelle à son budget ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "8d258e61f1a916b8b43171cdb871c884eea99f1ea9ff9d0ae60648d0c635bf8b"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/samira-colere-situation-injuste": {
+    "text": "La colère face à une injustice est une réaction émotionnelle à une situation perçue comme contraire à un traitement équitable ou à un besoin légitime. Elle peut mobiliser l’attention et l’envie d’agir.",
+    "source_heading": "Qu’est-ce que la colère face à une injustice ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "7417cf1d8212034a172f5480b861a1ceed35b26545bd57fc516ecb8471d9ec8e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/samira-honte-financiere-regard": {
+    "text": "La honte financière est une émotion douloureuse dans laquelle des difficultés d’argent semblent exposer la personne entière au jugement ou à la dévalorisation. Elle peut naître d’un regard réel, de propos stigmatisants ou de l’attente de tels propos.",
+    "source_heading": "Qu’est-ce que la honte financière ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "7ea8c4852a69e1a76fec01ac3fcbdac3e9e876142f20a4e7dda2dff310976326"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/samira-logement-securite-incertaine": {
+    "text": "Le sentiment de sécurité lié au logement est la possibilité de percevoir son lieu de vie comme suffisamment stable et protecteur pour organiser le quotidien. Il dépend de conditions matérielles, de droits, de relations et d’informations compréhensibles.",
+    "source_heading": "Qu’est-ce que le sentiment de sécurité lié au logement ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "caa24f8650ae9c998b1b9684526f528e301f20b93f21757e74d8fb7aa0ece8db"
   },
   "posts/comprendre-et-maitriser-ses-emotions/sentiment-imposture-apres-un-succes": {
     "text": "Le sentiment d'imposture est la croyance persistante de ne pas mériter ses réussites, malgré des preuves objectives de compétence. Ce concept a été formalisé par Pauline R. Clance et Suzanne A. Imes en 1978, qui ont décrit ces personnes comme convaincues d'être des fraudeurs prêts à être démasqués.",
@@ -527,6 +786,34 @@
     "method": "definition_excerpt",
     "source_body_sha256": "41c1c016acd7265ea0cc3ee71f92dfc8a26adb4aded09476e982a8ec5fc83c31"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/vincent-ambivalence-emotions-aidance": {
+    "text": "L’ambivalence émotionnelle est la présence de sentiments différents, parfois opposés, à propos d’une même situation ou d’un même lien. Elle peut prendre la forme d’émotions mêlées ou de changements rapprochés dans la manière de vivre un événement.",
+    "source_heading": "Qu’est-ce que l’ambivalence émotionnelle ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "54624ae3a7be15573431a04961b772a5e6e4226f239e3c05decbbb5f471dd78f"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/vincent-charge-aidance-taches-invisibles": {
+    "text": "La charge d’aidance désigne les demandes pratiques, mentales et émotionnelles liées au soutien régulier d’un proche, telles qu’elles sont vécues dans une situation donnée. Elle dépend des besoins, des choix, des moyens et de l’environnement.",
+    "source_heading": "Qu’est-ce que la charge d’aidance ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "0405aee7437011e23594fc068a4bc768848813cc8e6f208219789a63cd48599e"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/vincent-colere-obstacles-materiels": {
+    "text": "La colère face aux obstacles matériels est une réaction émotionnelle qui peut apparaître lorsqu’un environnement empêche une action importante, surtout si cet empêchement paraît évitable ou injuste. Elle peut donner envie de protester, d’exiger un changement ou de se retirer.",
+    "source_heading": "Qu’est-ce que la colère face aux obstacles matériels ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "71b6d2b05c8d7d580425f67afe3ca900c672a901cebd6d749d716a6117f93f70"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/vincent-fatigue-sans-culpabiliser": {
+    "text": "Reconnaître sa fatigue sans culpabiliser consiste à prendre au sérieux une diminution de ses ressources sans la transformer en preuve de faiblesse, d’égoïsme ou de manque d’amour. La fatigue est une expérience réelle, dont les causes peuvent être multiples.",
+    "source_heading": "Qu’est-ce que reconnaître sa fatigue sans culpabiliser ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "f7927a63cb22f9ec6a354c4e22b35256bd89f679c42e0616c8f7b9b4b733cf07"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-en-couple-signes": {
     "text": "La vulnérabilité est la disposition à montrer des aspects sensibles de soi-même, au risque de subir un jugement ou un rejet, afin de créer une connexion authentique. Ce concept a été largement popularisé par Brené Brown, qui l'associe à la honte et au courage relationnel.",
     "source_heading": "Définition de la vulnérabilité et de ses mécanismes",
@@ -540,6 +827,132 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "ae1209a1dd8225fa3dbf8545cbb413a1bcab63efe320a06e4f3908f53db14da4"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/aline-aide-resout-pas-tout": {
+    "text": "Reconnaître les limites de l’aide consiste à distinguer ce que l’on peut offrir de ce que l’on ne peut ni décider ni garantir pour une autre personne. Une présence, une information ou une action concrète peuvent compter sans produire la solution complète d’une difficulté.",
+    "source_heading": "Qu’est-ce que reconnaître les limites de l’aide ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "406c884b10e844fba1820360d0eb34a618049591ed5282db90eddb8fcff7ea64"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/aline-entraide-fidele-valeurs": {
+    "text": "Une entraide fidèle à ses valeurs est une manière de contribuer qui correspond à ce qui compte pour soi, tout en tenant compte des besoins d’autrui et des ressources disponibles. Elle ne se mesure pas uniquement au nombre d’heures données.",
+    "source_heading": "Qu’est-ce qu’une entraide fidèle à ses valeurs ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "f62a4eb32decddcada7ed2cdfb0e2c6f92fe7a4744bf94ed0120f0e4e28356ed"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/anais-capacites-fluctuantes-projets": {
+    "text": "Un projet avec des capacités fluctuantes est un engagement dont la forme doit pouvoir s'ajuster à des possibilités qui varient dans le temps. L'objectif peut rester important tandis que les moyens, le calendrier ou la répartition changent.",
+    "source_heading": "Qu'est-ce qu'un projet avec des capacités fluctuantes ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "0c33d14661615351d06b189c71a97835477e857a1915ffede395e28d88852871"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/anais-decrire-sensations": {
+    "text": "Décrire une sensation sans tout interpréter consiste à distinguer ce qui est ressenti, le contexte où cela apparaît et l'explication qu'on lui attribue. Les trois peuvent être utiles, mais ils n'ont pas le même statut.",
+    "source_heading": "Qu'est-ce que décrire une sensation sans tout interpréter ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "0f311dd91118adf93ccb127949857ace6ed8ece5ac394601fccd87333d1eb33a"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/anais-incertitude-informations-sante": {
+    "text": "Une incertitude de santé est une question qui reste ouverte sur une maladie, ses manifestations, son évolution ou la pertinence d'une information pour sa propre situation. Elle peut persister avec un diagnostic établi et un suivi sérieux.",
+    "source_heading": "Qu'est-ce qu'une incertitude de santé ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "6f150e34c400942676c28895fedc2ae21c08e80178668f23d5dea9662253ae1f"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/anais-plans-journee-variable": {
+    "text": "Un plan flexible prévoit plusieurs manières de répondre à un objectif, avec la possibilité de choisir selon les conditions présentes. Il ne garantit pas de tout accomplir. Il évite de faire dépendre la valeur de la journée d'un seul enchaînement, préparé avant de connaître l'énergie, les imprévus ou les besoins qui apparaîtront.",
+    "source_heading": "Qu'est-ce qu'un plan flexible ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "2267cea5331dde029d634343512ae4d0906bd202880d63da39e1779d596fd1f5"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/baptiste-conflit-deux-valeurs": {
+    "text": "Un conflit de valeurs apparaît lorsque plusieurs directions importantes pour une personne semblent demander des actions incompatibles dans une situation. On peut vouloir prendre soin d’un lien et préserver son autonomie, dire les choses clairement et protéger une confidence, soutenir un projet et garder une disponibilité familiale.",
+    "source_heading": "Qu’est-ce qu’un conflit entre deux valeurs ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "7f5c0379440295005a606de51e4e38d2649c551203422350bdbf8aeb32e79c00"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/baptiste-controle-influence-limites": {
+    "text": "Parler de contrôle signifie ici qu’une action ou une décision peut être déterminée assez directement dans un cadre donné. L’influence concerne plutôt ce que l’on peut tenter de modifier sans pouvoir garantir le résultat.",
+    "source_heading": "Qu’est-ce qui distingue contrôle et influence dans une situation ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "865bc9e0137b92c300a965470edb6ff6f3f36aaf70569431d75e57ffbe4babe4"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/baptiste-cout-opportunite-choix": {
+    "text": "En économie, le coût d’opportunité désigne la valeur de la meilleure alternative à laquelle on renonce en choisissant une option. Le manuel OpenStax présente ce concept à partir des contraintes de ressources, notamment d’argent et de temps.",
+    "source_heading": "Qu’est-ce que le coût d’opportunité d’un choix ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "69080dd1d3c3b8e65704d278179105d97bca51cdd7ddf567a61f33bb14579848"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/baptiste-decider-incertitude": {
+    "text": "Décider avec de l’incertitude consiste à choisir alors que certaines conséquences, informations ou réactions restent inconnues. Cela n’implique pas de décider au hasard ni de négliger un risque important.",
+    "source_heading": "Qu’est-ce que décider avec une part d’incertitude ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "be4d102eca41b8d9b1cf15bf51a2477aafeb82eecae1edfc96d71977c103b8b5"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/baptiste-decision-essai-reversible": {
+    "text": "Une décision est réversible lorsqu’il reste possible de revenir sur l’option choisie dans des conditions acceptables, avec des conséquences connues ou limitées. Cette possibilité peut être plus ou moins grande.",
+    "source_heading": "Qu’est-ce qu’une décision réversible ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "73ad7ccd9e5124d32f10979a6655527d99331e605bf7f79c8b8595b170ae54bd"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/baptiste-engagement-progressif-projet": {
+    "text": "Un engagement progressif consiste à choisir une contribution suffisamment précise pour être réalisée, puis à décider de la suite à partir de ce que l’on apprend et des ressources disponibles. Cela ne signifie pas accepter automatiquement davantage à chaque étape.",
+    "source_heading": "Qu’est-ce qu’un engagement progressif dans un projet ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "82b652ea4f9596367a55ff889b07d94161f92533488348c9c66c540855db6f13"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/baptiste-objectifs-ressources-reelles": {
+    "text": "Un objectif réaliste décrit une action ou un résultat assez précis et compatible avec les ressources et les contraintes actuellement connues. Il ne se définit pas simplement par sa petite taille. Une tâche de cinq minutes peut rester impossible si l’information, l’outil ou l’autorisation nécessaire manque.",
+    "source_heading": "Qu’est-ce qu’un objectif réaliste ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "e8949ab223534ccccf60743d16672bf046a1bf91c2df899b74b1bbea24607550"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/baptiste-regret-informations-disponibles": {
+    "text": "Regarder les informations de l’époque consiste à distinguer ce que l’on savait, ce que l’on pouvait raisonnablement vérifier et ce que le résultat a révélé plus tard. Après un événement, certains liens deviennent plus visibles.",
+    "source_heading": "Qu’est-ce que juger un choix avec les informations de l’époque ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "ee29f31f1d90b93cb1461364abead6a45bd1e64c58a2a702c94b43b946824a0a"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/baptiste-reviser-choix-chemin": {
+    "text": "Réviser un choix consiste à réexaminer l’option retenue à partir de faits, de besoins ou de conditions qui ont changé ou été mieux compris. Cela peut conduire à poursuivre autrement, réduire, interrompre ou remplacer une action.",
+    "source_heading": "Qu’est-ce que réviser un choix avec des informations nouvelles ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "9cb527e5233476382725996dab194fb212dec4c755264098e4bbbf3ebced1752"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/baptiste-sens-actions-ordinaires": {
+    "text": "Le sens d’une action désigne ici le lien perçu entre ce que l’on fait et quelque chose qui compte : une utilité, une relation, une manière d’agir ou une direction choisie. Cette définition ne fournit pas une mesure universelle du travail ou de la vie.",
+    "source_heading": "Qu’est-ce que le sens dans une action ordinaire ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "e1555a8b993ab0b3e054c3a7052a0e175b211d59e637ce491218b4a5a2673376"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/baptiste-soi-demain-present": {
+    "text": "L’expression soi de demain désigne ici la personne que l’on sera dans une situation future, avec ses besoins, ses ressources et ses contraintes. La prendre en compte peut aider à préparer un objet, réserver du temps ou éviter de lui laisser toutes les conséquences d’un report.",
+    "source_heading": "Qu’est-ce que prendre en compte le soi de demain ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "0716b1ae19f2875c2b2ef447ae9baf0cb16135bb54573716f959069e7696bdd9"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/baptiste-valeurs-arbitrages-quotidien": {
+    "text": "Une valeur personnelle est une direction que l’on souhaite donner à sa manière d’agir : coopérer, respecter les autres, apprendre, être attentif ou préserver une forme d’autonomie. Elle se distingue d’un résultat précis que l’on peut cocher comme accompli.",
+    "source_heading": "Qu’est-ce qu’une valeur personnelle dans un arbitrage ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "4b3b630ce4092d9a0b47083289c2810cd5c533e2d775e6048c031aa17cd78f5b"
   },
   "posts/reprendre-le-controle-de-ses-pensees/biais-action-face-a-une-decision-importante": {
     "text": "Le biais d'action est la tendance psychologique à préférer l'action à l'inaction, même lorsque l'intervention n'est pas nécessaire ou peut s'avérer contre-productive.",
@@ -891,6 +1304,62 @@
     "method": "definition_excerpt",
     "source_body_sha256": "4f025ec09e6ff017110192c491d0ecc5c95250b852a6fc67c935ee5620496b89"
   },
+  "posts/reprendre-le-controle-de-ses-pensees/elise-changer-perspective": {
+    "text": "Changer de perspective consiste à examiner une situation à partir de plusieurs lectures plausibles. Les faits restent les mêmes ; le sens qu’on leur donne peut être précisé ou révisé. Un refus de financement ne devient pas une acceptation.",
+    "source_heading": "Qu’est-ce que changer de perspective ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "26610560c316498bc786a94816acab08a6a11308d50727ac3a6b00c86afeff75"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/elise-imprevu-souplesse": {
+    "text": "La souplesse psychologique désigne ici la possibilité d’ajuster sa façon de répondre à une situation tout en gardant un lien avec ce qui compte pour soi. Elle ne demande pas d’aimer ce qui arrive, de penser positivement ou de changer de projet à chaque obstacle.",
+    "source_heading": "Qu’est-ce que la souplesse psychologique ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "8a7e5a9058433680d58f94f2fa4ad63ae9e120a7e04433f02efe241ad8c69327"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/elise-optimisme-preparations-utiles": {
+    "text": "L’optimisme réaliste désigne ici une manière d’envisager des issues favorables possibles tout en tenant compte des obstacles et des incertitudes. Ce n’est pas une prévision certaine ni une obligation de se sentir confiant.",
+    "source_heading": "Qu’est-ce qu’un optimisme réaliste ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "3a031a3d64352cf6bbef66f40fb638f62cdfd62f14f3acb870b2a20955ef66d4"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/eloi-comparaison-collegues": {
+    "text": "La comparaison sociale est le fait d'évaluer certaines de ses opinions, capacités ou situations en les rapprochant de celles d'autres personnes. Leon Festinger propose une théorie fondatrice de ce processus.",
+    "source_heading": "Qu'est-ce que la comparaison sociale ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "064c451604475d1606799581aad95fd5143baddc27e82d416be3ef04e5db22c0"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/eloi-competences-transferables": {
+    "text": "Une compétence transférable est une capacité acquise dans certaines situations qui peut être mobilisée, avec des adaptations, dans une autre activité ou un autre contexte. Elle peut concerner une manière de vérifier une information, d'organiser des étapes ou de communiquer un besoin.",
+    "source_heading": "Qu'est-ce qu'une compétence transférable ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "382847a2edadac4e77358edec92268e8e99eb567de334c4eac12db4bdbf1c357"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/eloi-expliquer-echec": {
+    "text": "Une attribution est une explication que l'on donne à un résultat, en reliant ce qui arrive à certaines causes. Après un échec, on peut invoquer une méthode, un manque de connaissances, un effort, une condition extérieure ou une capacité supposée.",
+    "source_heading": "Qu'est-ce qu'une attribution après un échec ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a28e6c8ddf052214dbdf0d390baf49f2b889cc2aed9519b774a6f2eed08d1fb0"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/eloi-retour-apprentissage": {
+    "text": "Un retour d'apprentissage est une information sur un travail ou une manière de faire, destinée à aider une personne à comprendre l'écart entre ce qu'elle produit et un objectif. Il peut venir d'un formateur, d'un collègue ou d'une comparaison avec un critère explicite.",
+    "source_heading": "Qu'est-ce qu'un retour d'apprentissage ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c7c172807e8eb192371c2fa78b5774c30ff252e51e6075f09ab258dae753148f"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/eloi-sentiment-efficacite-essais": {
+    "text": "Le sentiment d'efficacité personnelle est la croyance qu'une personne a dans sa capacité à réaliser les actions nécessaires dans une situation donnée. Albert Bandura développe ce concept pour décrire une dimension du pouvoir d'agir.",
+    "source_heading": "Qu'est-ce que le sentiment d'efficacité personnelle ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "6b495f3ba136cdc6105835e8a66949d63078db30d95288c1a94504737b5760a9"
+  },
   "posts/reprendre-le-controle-de-ses-pensees/filtre-mental-abstraction-selective-conflit-camille": {
     "text": "Le filtre mental, aussi appelé abstraction sélective, est une distorsion cognitive qui consiste à s'attacher à un seul détail négatif d'une situation, au point de ne plus percevoir les aspects positifs ou globaux de l'expérience.",
     "source_heading": "Qu'est-ce que le filtre mental (abstraction sélective) ?",
@@ -933,6 +1402,20 @@
     "method": "definition_excerpt",
     "source_body_sha256": "f76a506c4f71481b77fde0ce0c75dfb32ad4dd8442dfc99d9663f9d07d5168c6"
   },
+  "posts/reprendre-le-controle-de-ses-pensees/ines-crainte-jugement-intimite": {
+    "text": "La crainte du jugement dans l’intimité est l’anticipation d’une évaluation négative lorsqu’on exprime une préférence, un besoin ou un aspect personnel de son expérience. Elle peut conduire à se taire, minimiser, plaisanter ou adopter ce que l’on imagine attendu.",
+    "source_heading": "Qu’est-ce que la crainte du jugement dans l’intimité ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "6d4ab7beeb83c36ff3884eb63b3d483202fa91d5b603e41f16198858e070176b"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/ines-image-corps-intimite": {
+    "text": "L’image du corps regroupe les perceptions, pensées, émotions et attitudes qu’une personne entretient à propos de son corps. Elle ne se confond pas avec ses caractéristiques physiques. Dans l’intimité, cette image peut orienter l’attention vers ce que l’on ressent ou vers ce que l’on imagine donner à voir.",
+    "source_heading": "Qu’est-ce que l’image du corps dans l’intimité ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "038e1029d5ebfaa91c4f49c64a1dae7f18d6420dbf6cb80d22ab122964f0449f"
+  },
   "posts/reprendre-le-controle-de-ses-pensees/journaling-pensees-intimite-sexualite-nadia": {
     "text": "Le journaling de pensées est une pratique d'écriture réflexive structurée visant à identifier, extérioriser et restructurer les schémas cognitifs automatiques qui influencent nos émotions et nos comportements.",
     "source_heading": "Définition du journaling de pensées",
@@ -954,6 +1437,41 @@
     "method": "definition_excerpt",
     "source_body_sha256": "389a9c523c5f7ce60c7f275a992c2be71c3ccecf1cf724155c1cd84818eeb35f"
   },
+  "posts/reprendre-le-controle-de-ses-pensees/maelle-bruit-attention-travail": {
+    "text": "La charge sensorielle correspond aux sollicitations que l'environnement impose par les sons, la lumière, les odeurs, les contacts ou les mouvements à percevoir. Elle dépend de leurs caractéristiques et de la tâche à accomplir.",
+    "source_heading": "Qu'est-ce que la charge sensorielle au travail ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "253037a32eba5896c753ca561b46512201feb0ea09bb252a19bf3fe82d9cf6e5"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/maelle-inquietude-endormissement": {
+    "text": "L'inquiétude de ne pas réussir à dormir est une anticipation des difficultés de sommeil et de leurs conséquences, qui peut conduire à surveiller constamment l'endormissement. Elle peut survenir après des nuits pénibles, devant une obligation importante ou lorsque les possibilités de repos sont limitées.",
+    "source_heading": "Qu'est-ce que l'inquiétude de ne pas réussir à dormir ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a16a885fb2f4e8221d25f9db0824d4d585466fce46eca494bd8a4ad543eaa76a"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/maelle-pensees-apres-nuit": {
+    "text": "Une pensée répétée est un contenu mental qui revient plusieurs fois, volontairement ou non, autour d'une préoccupation ou d'une expérience. Toutes les répétitions ne sont pas inutiles. Réfléchir à un problème peut préparer une décision, apprendre d'un événement ou élaborer une demande.",
+    "source_heading": "Qu'est-ce qu'une pensée répétée après le travail ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "d563f30e82a8277fab32f72e5c4eff644e1509397eecaca53e38e0afd982656d"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/maelle-retrouver-reperes-rythme": {
+    "text": "Retrouver un rythme après une période irrégulière consiste à reconstruire des repères assez stables pour soutenir la vie quotidienne, dans les limites des contraintes présentes. Cela ne signifie pas revenir instantanément à un état antérieur ni adopter une routine identique tous les jours.",
+    "source_heading": "Qu'est-ce que retrouver un rythme après une période irrégulière ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a444a07288b80ba16d63fb8afecee7808da3b31590f24db3a6615e8f3069486f"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/maelle-rythme-horaires-alternes": {
+    "text": "Le décalage du rythme de sommeil désigne une discordance entre les moments où le corps favorise le repos et ceux où la vie permet effectivement de dormir. Il ne correspond pas à un défaut de volonté. La pression de sommeil augmente avec le temps d'éveil, tandis qu'une horloge biologique participe à l'organisation de l'alternance entre veille et sommeil.",
+    "source_heading": "Qu'est-ce que le décalage du rythme de sommeil ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "163aaf72c7dec5406813dd0059e6738fe8d479c75b62c8595a8bccc773d2e642"
+  },
   "posts/reprendre-le-controle-de-ses-pensees/malediction-du-savoir-manager-hpi": {
     "text": "Le biais de la malédiction du savoir est la tendance à supposer que les autres possèdent les mêmes informations ou la même compréhension que nous, ce qui rend difficile d'expliquer clairement ce que l'on sait.",
     "source_heading": "Définition du biais de la malédiction du savoir",
@@ -961,12 +1479,47 @@
     "method": "definition_excerpt",
     "source_body_sha256": "d60ce3f183cbeba7cb1eb505534c5cce2c5c390dc7a15042eea8dda307725476"
   },
+  "posts/reprendre-le-controle-de-ses-pensees/malik-adaptation-ressources-concretes": {
+    "text": "Le stress d’adaptation est la tension qui peut apparaître lorsque les demandes d’un contexte nouveau ou modifié dépassent momentanément les repères et les ressources disponibles. Il ne constitue pas en soi un diagnostic.",
+    "source_heading": "Qu’est-ce que le stress d’adaptation ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "d82a142347866fbcd4785882bca7fa520a37e0e5a6cbfaaaab32c4e3ebb7ac4f"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/malik-codes-selon-contexte": {
+    "text": "Changer de codes selon le contexte consiste à ajuster ses mots, son registre ou certains comportements aux attentes d’une situation. Cela peut concerner le langage professionnel, une conversation intime, un groupe d’amis ou plusieurs univers culturels.",
+    "source_heading": "Qu’est-ce que changer de codes selon le contexte ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "e00d241d937d66c52385252d03cef378ef495054d605e0e4054bb3ef968c8add"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/malik-demarches-charge-mentale": {
+    "text": "La charge mentale administrative est le travail nécessaire pour comprendre, préparer et suivre des démarches, y compris lorsque l’on n’est pas en train de remplir un formulaire. Elle comprend les questions gardées en mémoire, les pièces à retrouver et les incertitudes sur la suite.",
+    "source_heading": "Qu’est-ce que la charge mentale administrative ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "961ecc4ee0354a0d1d564bdbb37524c04c3e46586914ff69d43b32110ed02df1"
+  },
   "posts/reprendre-le-controle-de-ses-pensees/methode-abcde-ellis-seule-face-a-soi-meme": {
     "text": "La méthode ABCDE d'Ellis est un outil de restructuration cognitive qui permet d'identifier et de modifier les croyances irrationnelles génératrices de souffrance émotionnelle. Créée par le psychologue Albert Ellis, fondateur de la Thérapie Rationnelle Emotive Comportementale (REBT), cette approche part du principe que ce ne sont pas les événements qui nous perturbent, mais la lecture que nous en faisons.",
     "source_heading": "Définition de la méthode ABCDE d'Ellis",
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "5d748741447b2f17f8471e80580c395aeb008336f35eb671b189c29c28c0d854"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/odile-anticiper-sans-tout-perdre": {
+    "text": "Anticiper consiste à envisager ce qui pourrait arriver afin de choisir des actions, des informations ou des appuis. Cette capacité peut être très utile. Elle devient moins utile lorsque la pensée répète des scénarios sans information nouvelle, sans décision possible et avec un coût important dans le présent.",
+    "source_heading": "Qu’est-ce qu’anticiper utilement plutôt que répéter une menace ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "8f14c52e4f0a843507d55ea07ead71669e6d35459c45de9675df7399b6613b8d"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/odile-sens-action-ordinaire": {
+    "text": "Dans ce récit, le sens désigne le lien qu’une personne perçoit entre une action et quelque chose qui compte pour elle : apprendre, prendre soin, créer, préserver une relation ou exercer un choix. Il ne suppose pas une mission unique ni une utilité mesurable pour les autres.",
+    "source_heading": "Qu’est-ce que le sens d’une action ordinaire ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "bab8b2c836e91938790237b5c1342e2deb056aaf0871c730a77418428d844964"
   },
   "posts/reprendre-le-controle-de-ses-pensees/orientation-regret-rupture": {
     "text": "L'orientation vers le regret est la tendance mentale à revisiter le passé en se focalisant sur ce qui aurait dû être fait, en préférant des scénarios imaginaires du type « si seulement » plutôt que d'accepter les limites de ce qui s'est réellement produit.",
@@ -1045,6 +1598,55 @@
     "method": "definition_excerpt",
     "source_body_sha256": "d3032c2d9c0b357b9e847285785e629d444f86d6aeabbe44f26f3125d656d794"
   },
+  "posts/reprendre-le-controle-de-ses-pensees/remi-decouper-garder-but": {
+    "text": "Le découpage d'une tâche consiste à transformer un résultat à atteindre en étapes assez claires pour guider l'action, tout en conservant leurs liens et leur finalité. Il aide à distinguer ce qu'on peut faire maintenant, ce qui dépend d'une autre étape et ce qui demande une ressource.",
+    "source_heading": "Qu'est-ce que le découpage d'une tâche ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "f525a244c24ce7d471dde0394a00ef157a8b0b3e18b1deb45ad8f8326fe697f9"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/remi-demarrer-tache": {
+    "text": "La difficulté à démarrer une tâche est l'écart entre l'intention d'agir et l'engagement dans une première action adaptée. Elle peut apparaître devant une activité floue, coûteuse, peu familière ou associée à une émotion désagréable.",
+    "source_heading": "Qu'est-ce que la difficulté à démarrer une tâche ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "0d97a1277692233a34377f10e0d22216871c39adf511c7003193c115b37e8648"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/remi-distractibilite-environnement": {
+    "text": "La distractibilité désigne la facilité avec laquelle l'attention quitte une activité pour se porter sur une autre information, extérieure ou intérieure. Un bruit, un mouvement, une pensée ou un besoin peuvent attirer l'attention.",
+    "source_heading": "Qu'est-ce que la distractibilité ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "708ccc4983aa27939cd76c7afb6d026ad55c060cab782b37d94cd0f81fb2a0eb"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/remi-estimer-temps-marges": {
+    "text": "L'estimation du temps consiste à anticiper la durée d'une activité afin de décider quand commencer, quels engagements prendre et quelle marge conserver. Elle peut s'appuyer sur une expérience passée ou sur un scénario imaginé.",
+    "source_heading": "Qu'est-ce que l'estimation du temps ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "97751783d0ecc1ab9dd2fc9455acb8730bf96d870acb64e32ceb87b799686989"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/remi-interruptions-retrouver-fil": {
+    "text": "Le coût des changements de tâche désigne l'effort et le temps nécessaires pour quitter une activité, adopter les règles d'une autre, puis éventuellement retrouver la première. Répondre à une question et contrôler un bordereau ne sollicitent pas exactement le même travail mental.",
+    "source_heading": "Qu'est-ce que le coût des changements de tâche ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "47e2ada2f190b20d3092f18919b76932d6ca417856cf05bd4246583e80e96e5c"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/remi-memoire-consignes-visibles": {
+    "text": "La mémoire de travail est l'ensemble des processus qui permettent de maintenir temporairement des informations disponibles et de les utiliser pendant une activité. Retenir une adresse le temps de la saisir, comparer deux prix ou suivre une consigne à plusieurs étapes en sont des exemples ordinaires.",
+    "source_heading": "Qu'est-ce que la mémoire de travail ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "2a8791d16fcbe6120cc80caee41402ad46920b1948218328d9a6008dc3817ed5"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/remi-transmettre-rappel-utile": {
+    "text": "La mémoire prospective désigne le fait de se rappeler qu'une action doit être réalisée au moment opportun. Elle concerne des intentions futures : envoyer une information après une réunion, apporter un document au rendez-vous ou prévenir un collègue lorsqu'une validation arrive.",
+    "source_heading": "Qu'est-ce que la mémoire prospective ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "72e3ca520ba00bf7a9274ec63e4fed1155e0c751313c7325ee9082c100ef6f97"
+  },
   "posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien": {
     "text": "La rumination mentale est un processus de pensée répétitif, circulaire et passif, centré sur les causes et les conséquences de sa propre détresse plutôt que sur des solutions concrètes. Contrairement à la réflexion constructive qui mène à une action, la rumination agit comme un sédiment qui s'accumule et paralyse l'individu.",
     "source_heading": "Définition de la rumination mentale",
@@ -1052,12 +1654,89 @@
     "method": "definition_excerpt",
     "source_body_sha256": "618ce2b9742b47709f9b8b91fdff05f8c2cb2fd2a903521716a8b557d7cb88c8"
   },
+  "posts/reprendre-le-controle-de-ses-pensees/salome-choisir-reveler-soi": {
+    "text": "Choisir son dévoilement de soi consiste à décider quelles informations personnelles partager, avec qui, dans quel contexte et dans quelle forme. Ce choix n’est pas nécessairement global. Une personne peut être ouverte avec une amie, discrète dans une présentation publique et précise sur ses accords au travail.",
+    "source_heading": "Qu’est-ce que choisir son dévoilement de soi ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c20ace48cc3f2de9a5cdcf09d17e670443ec9e6d982d0d21a60f898ec56d5ec6"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/salome-competence-regard-ateliers-ligne": {
+    "text": "Évaluer sa compétence sous le regard des autres consiste à apprécier ce que l’on sait faire en tenant compte de retours, de critères et d’images sociales, avec le risque de confondre ces sources. Un avis précis d’un client, une comparaison visuelle et une norme du métier ne donnent pas la même information.",
+    "source_heading": "Qu’est-ce qu’évaluer sa compétence sous le regard des autres ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "330d452cd335c3aedb319fb855128500738a31443012e72f917c76a749f95a24"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/salome-continuite-soi-changements": {
+    "text": "La continuité de soi est le sentiment de rester reliée à ses expériences passées et à ses possibilités futures, même lorsque des aspects importants de sa vie changent. Elle ne signifie pas être identique à tous les âges.",
+    "source_heading": "Qu’est-ce que la continuité de soi au fil des changements ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "9c58a3cca791eefb1e95da8c83c5304a5025c94f05761b1f82ed3c0fca9b56e5"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/salome-identite-au-dela-etiquette": {
+    "text": "Une identité à plusieurs facettes désigne une manière de se représenter à travers plusieurs liens, activités, valeurs, appartenances et expériences, sans réduire l’ensemble à une seule dimension. Ces aspects ne sont pas tous équivalents ni toujours présents.",
+    "source_heading": "Qu’est-ce qu’une identité à plusieurs facettes ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "59316f8e61401674dbba252fe00ce7e0ba55882c67ebd9068202c6eb7c24dcb4"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/salome-pression-normes-sociales": {
+    "text": "La pression des normes sociales est l’influence exercée par ce qui paraît habituel, attendu ou approuvé dans un groupe sur les choix d’une personne. Elle peut venir d’une règle explicite, d’un commentaire ou du simple fait de voir tout le monde agir de la même manière.",
+    "source_heading": "Qu’est-ce que la pression des normes sociales ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "8e2f0a91c370e2859b99ce3663da156fe24fd507bc9c96ddbfeb3b42cfc066c3"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/samira-charge-mentale-parentalite": {
+    "text": "La charge mentale parentale est le travail de penser, prévoir et suivre les besoins d’un enfant, au-delà des gestes visibles nécessaires pour y répondre. Acheter un bonnet en constitue une partie ; remarquer qu’il manque, trouver un magasin accessible et vérifier qu’il rejoint le sac en constituent d’autres.",
+    "source_heading": "Qu’est-ce que la charge mentale parentale ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "e5e777d18744778489a8c41e1284f160b00e7bf3b135f40f0d423c27d7a239bd"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/samira-decider-pression-temps": {
+    "text": "Décider sous la pression du temps consiste à choisir alors que le délai disponible paraît insuffisant pour examiner les informations et les conséquences importantes. La personne peut accélérer son raisonnement, simplifier les critères ou se concentrer sur certains risques.",
+    "source_heading": "Qu’est-ce que décider sous la pression du temps ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "97616a918dccc0b5c8b509d6e3f0a127204bbdef9d42543df2d9128dcf3254bc"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/samira-dignite-besoins-materiels": {
+    "text": "Reconnaître les besoins matériels avec dignité consiste à prendre au sérieux les conditions nécessaires pour vivre, sans faire dépendre le respect de la personne de sa capacité à les obtenir seule. Se nourrir, habiter un lieu adapté, se vêtir, se déplacer et accéder aux soins ne sont pas de simples problèmes d’attitude.",
+    "source_heading": "Qu’est-ce que reconnaître les besoins matériels avec dignité ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "40c1a5a507f14c88b923233302393bb93f1fe327a3d6cdefcc95003d61678e0f"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/samira-precarite-place-soucis": {
+    "text": "Les soucis de précarité occupent l’attention lorsque des besoins matériels incertains réclament des vérifications, des anticipations et des décisions répétées. Il ne s’agit pas d’une faiblesse de caractère.",
+    "source_heading": "Qu’est-ce que la place prise par les soucis de précarité ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "7366bc28489479767a5ccd77aaa8a7bbc42a619f51068c873d1f520f30a0150d"
+  },
   "posts/reprendre-le-controle-de-ses-pensees/surgeneralisation-ecole-lycee": {
     "text": "La surgénéralisation est la tendance à tirer une règle générale à partir d'un seul événement, en étendant une conclusion particulière à toutes les situations similaires. Le concept s'inscrit dans le champ des distorsions cognitives étudiées en thérapie cognitive et comportementale, domaines largement développés par Aaron T. Beck et popularisés par David D. Burns.",
     "source_heading": "Qu'est-ce que la surgénéralisation ?",
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "5d1ac0b09de48995ce7ecbb2e553c16600585b291695393915c4c2a604f7982d"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/vincent-charge-organisation-visible": {
+    "text": "La charge d’organisation est le travail nécessaire pour prévoir un besoin, rechercher des possibilités, coordonner une action et vérifier son aboutissement. Elle comprend des opérations mentales qui peuvent rester invisibles lorsque l’on ne voit que le résultat final.",
+    "source_heading": "Qu’est-ce que la charge d’organisation ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c9df742d32cdce2fad6a2fbcdbad9762810c89816e301b4cc31731a3cd86932f"
+  },
+  "posts/reprendre-le-controle-de-ses-pensees/vincent-valeurs-entrent-tension": {
+    "text": "Un conflit de valeurs apparaît lorsque plusieurs directions importantes pour une personne conduisent à des actions difficiles à concilier dans une situation donnée. Il peut opposer solidarité et liberté, sécurité et découverte, fidélité à un engagement et attention à sa santé.",
+    "source_heading": "Qu’est-ce qu’un conflit de valeurs ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a77a2cdb13f847d6ff7cdd72f1546963397a55a404bcdb6dfe0cf1ce4c396c74"
   },
   "posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude": {
     "text": "L’abandon et instabilité est un terme utilisé en psychologie pour décrire la peur intense d’être abandonné ou de vivre dans une situation d’insécurité émotionnelle constante. Ce schéma est souvent lié à des expériences précoces, comme une enfance marquée par des séparations fréquentes, un manque de stabilité ou d’attention affective.",
@@ -1107,6 +1786,83 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "d79f4f2689250bfe08b35ea3ac9239507edae81a8339ddffb22c47a427227cac"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/aline-demander-aide-souhaitee": {
+    "text": "Une aide souhaitée est une proposition de soutien dont la forme et l’étendue correspondent à ce que la personne accepte dans la situation présente. Le souhait peut porter sur un conseil, un geste partagé, une intervention complète ou simplement un temps d’écoute.",
+    "source_heading": "Qu’est-ce qu’une aide souhaitée ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a7a3175d04d8dc04f7c0a878286d3c1b57eb699c95cf910abe839795574e7a00"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/aline-desaccord-lien-famille": {
+    "text": "Garder un désaccord sans rompre le lien consiste à reconnaître que des personnes peuvent conserver des avis différents tout en choisissant les formes de relation qui restent possibles entre elles. Cela ne demande ni un consensus permanent ni le maintien de toute proximité à n’importe quel prix.",
+    "source_heading": "Qu’est-ce que garder un désaccord sans rompre le lien ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "f0eb09913b6bb5add3ad88bd47b29c0364d88fd5a831bcdbf79bcaf44c11bd77"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/aline-limite-affection-couple": {
+    "text": "Une limite relationnelle exprime ce qu’une personne accepte, refuse ou peut offrir dans une situation donnée, sans décider à la place de l’autre de ce qu’il doit ressentir. Elle peut concerner le temps, le corps, les objets, la disponibilité ou la vie privée.",
+    "source_heading": "Qu’est-ce qu’une limite relationnelle ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "cdf609d8bb856f4170125e78086451bc8786d7ddf1d2d91d60f27e2fcafd3e47"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/aline-recevoir-aide-justifier": {
+    "text": "Recevoir une aide sans se justifier consiste à accepter un soutien proposé ou demandé sans devoir démontrer que l’on mérite d’en bénéficier par une histoire complète, un épuisement extrême ou une dette future.",
+    "source_heading": "Qu’est-ce que recevoir une aide sans se justifier ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "6157a71ee0eac732aeb61d6224db6b9fe67c2873d6508a7be3affcf15d406689"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/aline-reciprocite-relations": {
+    "text": "La réciprocité est la possibilité pour les besoins, les contributions et les initiatives de plusieurs personnes de trouver une place dans la relation au fil du temps. Elle ne suppose pas une égalité exacte à chaque rencontre.",
+    "source_heading": "Qu’est-ce que la réciprocité dans une relation ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "408380c80060fbe296cb74208049ecc9fc954d363214f2e2935cdd105f918e5f"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer": {
+    "text": "Le syndrome du sauveur est une expression courante qui décrit une manière de se rendre excessivement responsable des difficultés d’autrui, parfois au prix de ses propres besoins ou de la liberté de la personne aidée.",
+    "source_heading": "Qu’est-ce que le syndrome du sauveur ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "f191c5b22340f526da7d548bd1d9fc3d91c912af3a23abcd3dc2b03a702f1ec1"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/aline-surresponsabilite-partage-taches": {
+    "text": "La surresponsabilité est la tendance à s’attribuer une part excessive de la prévention, de la résolution ou des conséquences d’un problème. Elle peut concerner une tâche concrète, le confort des autres ou le bon fonctionnement d’un groupe.",
+    "source_heading": "Qu’est-ce que la surresponsabilité ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c44dd6e9bc41b342ea958feb469b04012bc36954fb7c0984f19b376a20052689"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/anais-activites-adaptees-valeurs": {
+    "text": "Une activité adaptée à ses valeurs relie une forme praticable d'engagement à ce qui compte pour la personne, dans des conditions compatibles avec sa santé. La valeur peut être le lien, la curiosité, l'autonomie, le contact avec la nature ou le plaisir de participer.",
+    "source_heading": "Qu'est-ce qu'une activité adaptée à ses valeurs ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "606760dd1c2dd8b399d4833e72eaed2fff51b7bd1b1df50e59dbc727f56600dc"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/anais-amenagement-travail": {
+    "text": "Un aménagement du travail lié à la santé est une adaptation des conditions d'exercice destinée à tenir compte de la situation d'une personne, dans un cadre évalué et approprié. Il peut concerner le matériel, l'installation, certaines modalités d'organisation ou d'autres conditions du poste.",
+    "source_heading": "Qu'est-ce qu'un aménagement du travail lié à la santé ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "9c6ca4e9e20308138fd64e726b3e4a0da75c2c4ac86120ed15da13422dc25a13"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/anais-demande-aide-concrete": {
+    "text": "Une demande d'aide concrète indique le geste, l'information ou le relais souhaité, dans un contexte et un périmètre compréhensibles pour l'autre personne. Elle rend un besoin utilisable sans exiger une lecture de pensée.",
+    "source_heading": "Qu'est-ce qu'une demande d'aide concrète ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a3796f2c0fd472823ed534bb93f937bbf3b5c8180dade65e400ffac910509293"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/anais-energie-rythme-maladie": {
+    "text": "Adapter son rythme avec une maladie chronique consiste à organiser les activités, les pauses et les appuis en tenant compte de ses capacités actuelles et des recommandations de santé qui la concernent.",
+    "source_heading": "Qu'est-ce qu'adapter son rythme avec une maladie chronique ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "8bb33b1886acfb7a4872f36f5af6d9280e28cbec2d3654004da15e5cf0164382"
   },
   "posts/sortir-de-ses-schemas-repetitifs/annulation-retroactive-en-situation-de-conflit": {
     "text": "L'annulation rétroactive en situation de conflit est un mécanisme de défense psychologique qui consiste à tenter d'effacer symboliquement une pensée, un acte ou un sentiment passé perçu comme inacceptable ou générateur d'angoisse par un comportement ou une parole opposée.",
@@ -1255,6 +2011,69 @@
     "method": "definition_excerpt",
     "source_body_sha256": "d123b199d07f61c58797cb637e0e40f88bb616d27b050698ecd0b8e69dabfea3"
   },
+  "posts/sortir-de-ses-schemas-repetitifs/elise-distraction-choisie": {
+    "text": "Se distraire consiste à déplacer son attention vers une activité, une conversation, une sensation ou une histoire différente de ce qui préoccupait. Ce mouvement peut aider à souffler quand réfléchir n’apporte plus d’information ou quand une émotion prend beaucoup de place.",
+    "source_heading": "Qu’est-ce qu’une distraction choisie ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "bf1ce63034c35e431baaf3b9ddffc992a7d2143504265365dcac07ddf2f41b8d"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/elise-entraide-concrete": {
+    "text": "Une ressource collective est un appui qui existe dans les liens, les organisations, les compétences partagées ou les moyens accessibles à plusieurs. Elle peut être très concrète : un véhicule, un lieu, une information, un créneau de travail ou une personne qui connaît une procédure.",
+    "source_heading": "Qu’est-ce qu’une ressource collective ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "7cc4644f1190cdbf49ac42d6ade4ec236d0855d024e8681a1dd64fabc2649f98"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/elise-explorer-petite-possibilite": {
+    "text": "Explorer signifie recueillir une expérience ou une information avant de s’engager plus largement. Une possibilité peut être essayée sous une forme limitée dans le temps, les moyens ou les responsabilités.",
+    "source_heading": "Qu’est-ce qu’explorer une possibilité à petite échelle ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "baffc07f4988ac981d404f3d6a78e46b6e7a201e7bd97af955cdeda5e6c28fa8"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/elise-routines-verifications": {
+    "text": "Une routine rassemble des actions répétées qui simplifient le quotidien. Elle peut permettre de se souvenir d’une tâche, de coordonner une équipe ou de préserver un rythme. Son utilité dépend du contexte et de son ajustement.",
+    "source_heading": "Qu’est-ce qu’une routine qui soutient ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "449fd187242797025487e88bbe2bf753809ccecd31110045e1e44c13ad25725b"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/eloi-apprendre-prouver-valeur": {
+    "text": "Un objectif d'apprentissage vise à développer une compréhension ou une compétence, tandis qu'un objectif de performance porte davantage sur le résultat démontré ou sur la manière dont la capacité est évaluée.",
+    "source_heading": "Qu'est-ce qu'un objectif d'apprentissage ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "beca615abd18b0ead9e31edbe9819dd2564b73fc2496f52043acf862b4965472"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/eloi-autonomie-cadre-soutien": {
+    "text": "L'autonomie est la possibilité de participer à ses choix et d'agir d'une manière que l'on peut reconnaître comme sienne, dans les contraintes de la situation. Elle ne se confond pas avec l'indépendance totale.",
+    "source_heading": "Qu'est-ce que l'autonomie dans un cadre soutenant ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "21875df3c2cf8827c3e254410724addf68c5e78f26032120f9bcf8215841857f"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/eloi-demander-aide-debutant": {
+    "text": "Une demande d'aide adaptée consiste à reconnaître une information, une compétence ou une décision manquante, puis à solliciter un appui qui permet d'agir ou d'apprendre dans un cadre approprié. Elle ne signifie pas nécessairement que l'autre effectue toute la tâche.",
+    "source_heading": "Qu'est-ce qu'une demande d'aide adaptée ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "44efd4c8b07bf2e138f290afb198698df86b7a27b03227d53410966e457c01a5"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/eloi-orientation-valeurs": {
+    "text": "Une valeur est une direction ou un principe qui donne de l'importance à certaines manières d'agir et guide les choix à travers plusieurs situations. Apprendre, contribuer, préserver des liens ou disposer d'une stabilité peuvent compter de façons différentes selon les personnes.",
+    "source_heading": "Qu'est-ce qu'une valeur dans un choix d'orientation ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "01e796109e69b73deb61c3d8274497bed0bd0f0beb0968d26888c38bc086546f"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/eloi-progression-droit-essai": {
+    "text": "La progression dans un apprentissage désigne la construction de connaissances ou de compétences qui deviennent plus disponibles, plus fiables ou utilisables dans des situations variées. Elle ne se confond pas toujours avec une amélioration visible à chaque essai.",
+    "source_heading": "Qu'est-ce que la progression dans un apprentissage ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "6ccfb6bcfd2bc129f3f433e15f5537eb5661b954fb6e22470722273150357edb"
+  },
   "posts/sortir-de-ses-schemas-repetitifs/enfant-interieur-apres-rupture-amoureuse": {
     "text": "L'enfant intérieur est une instance psychique qui regroupe l'ensemble des expériences infantiles, des besoins non comblés et des émotions vécues durant les premières années de la vie et qui continuent d'influencer le comportement adulte.",
     "source_heading": "Qu'est-ce que l'enfant intérieur ?",
@@ -1346,6 +2165,55 @@
     "method": "definition_excerpt",
     "source_body_sha256": "2c676272a2dcca9762947d546b3c0232a33aebe4aa360ffceaa315f037f4d92a"
   },
+  "posts/sortir-de-ses-schemas-repetitifs/ines-confiance-espace-retrouvailles": {
+    "text": "La confiance avec un espace personnel est la possibilité de s’appuyer sur des engagements compréhensibles tout en laissant à chacune une vie qui n’est pas continuellement observée. Elle n’exige pas de tout savoir ni de renoncer à poser des questions.",
+    "source_heading": "Qu’est-ce que la confiance avec un espace personnel ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "d1bf6696549bbd7f92cc4060da68d56f35dbc9fec853c3b9632f8501bb6d1790"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/ines-consentement-changer-avis": {
+    "text": "Le consentement est un accord libre portant sur ce que l’on choisit de vivre maintenant, et cet accord peut être retiré. Une proposition initiale ne transforme pas la suite en engagement irrévocable. Accepter une proximité ne signifie pas accepter toutes les proximités.",
+    "source_heading": "Qu’est-ce qu’un consentement qui peut changer ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "3683ef1a259bcce8c2eb52e926909a7d5efbf76e89006c5fd3cb5a748ff9ae6b"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/ines-dire-non-sans-preuve": {
+    "text": "Dire non sans fournir une preuve consiste à exprimer son refus sans devoir démontrer un empêchement extérieur, une souffrance ou une raison jugée suffisante par l’autre. Dans l’intimité, l’accord personnel ne dépend pas de l’absence d’obstacles visibles.",
+    "source_heading": "Qu’est-ce que dire non sans fournir une preuve ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "ddcc5a290fe73fdeadb5abb8ceb93ab34a72ad76b18a4dc6b03551cb26131569"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/ines-moments-partages-sans-obligation": {
+    "text": "Un moment partagé sans obligation est un temps choisi ensemble dont la valeur ne dépend pas d’un comportement imposé ensuite, d’une humeur prescrite ou d’un résultat intime attendu. Il peut être organisé et comporter des engagements pratiques, comme un horaire ou une dépense convenue.",
+    "source_heading": "Qu’est-ce qu’un moment partagé sans obligation ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "984a42e36350461b9c1161ee36c007558737b785b2d8d99b4f22a74881afdd34"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/ines-parler-limite-intime": {
+    "text": "Une limite intime exprime ce qu’une personne souhaite préserver, refuser ou laisser hors d’un échange concernant son corps, ses pratiques ou ses informations personnelles. Elle peut être provisoire ou durable, détaillée ou très simple.",
+    "source_heading": "Qu’est-ce qu’une limite intime exprimée clairement ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "d69bbe9562e8c8cd5837586bde8d64f8802f50b78e15b46db3c948a3ac62cd65"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/ines-reparer-conversation-blessante": {
+    "text": "Réparer une conversation blessante consiste à reconnaître un comportement précis, écouter son effet et modifier ce qui peut l’être, sans exiger que l’autre oublie immédiatement. La réparation ne garantit ni pardon ni retour instantané à la proximité.",
+    "source_heading": "Qu’est-ce que réparer une conversation blessante ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "5d99c60167cf76883f3fdc2ea2b598a04edac79508eb8eca5dd96fcce5bc3766"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/ines-vie-privee-couple": {
+    "text": "La vie privée au sein du couple est la possibilité de choisir l’accès à certaines informations, activités ou espaces personnels tout en construisant une relation partagée. Elle ne correspond pas à une quantité identique pour toutes les personnes.",
+    "source_heading": "Qu’est-ce que la vie privée au sein du couple ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "84c60195644393340696ad67b13971de38e4d34f4bf50a42b0fe2a7a8dfba3b5"
+  },
   "posts/sortir-de-ses-schemas-repetitifs/intellectualisation-au-travail-hpi-solutions": {
     "text": "L'intellectualisation est un mécanisme de défense qui consiste à aborder une situation chargée d'émotions par une analyse purement rationnelle et abstraite afin de se tenir à distance de son propre ressenti.",
     "source_heading": "Définition de l'intellectualisation",
@@ -1402,6 +2270,69 @@
     "method": "definition_excerpt",
     "source_body_sha256": "3a27edb1126737302b8187dadc2e84276d54c9ca0785765422990cb2a1e21b0a"
   },
+  "posts/sortir-de-ses-schemas-repetitifs/maelle-recuperation-appuis": {
+    "text": "Un appui à la récupération est une ressource qui rend le repos plus possible, réduit une contrainte ou aide à examiner une difficulté. Il peut être matériel, relationnel, professionnel ou médical. Il ne remplace pas forcément le sommeil et ne supprime pas l'ensemble des effets d'un horaire atypique.",
+    "source_heading": "Qu'est-ce qu'un appui à la récupération ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "310a3f27e31992c05b09bbca514665fc5e09786125ca2dd36a406ceb9896df21"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/maelle-repos-besoins-collectifs": {
+    "text": "Un besoin de repos collectif au travail est une exigence de récupération qui doit être rendue possible par l'organisation, les moyens et les protections du groupe. Il ne suppose pas que toutes les personnes aient exactement les mêmes besoins individuels.",
+    "source_heading": "Qu'est-ce qu'un besoin de repos collectif au travail ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "bbbf9bdac4605707fab95abc39b7c0a1f58b6cc0de4ac38cdca497aae93b1d5a"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/maelle-rythmes-couple": {
+    "text": "Un décalage de rythmes dans le couple est une différence entre les moments de travail, de repos, de disponibilité et de désir de partage des partenaires. Il peut venir des horaires professionnels, du sommeil, des obligations ou des préférences.",
+    "source_heading": "Qu'est-ce qu'un décalage de rythmes dans le couple ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "9f1b4bb10c6f8f0abd0fb70d91499fcdc9e2159a07f907ba3bbd0f39fa7b7eb5"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/maelle-stress-conditions-travail": {
+    "text": "Le stress lié aux conditions de travail apparaît lorsqu'une personne perçoit un déséquilibre entre les exigences professionnelles et les ressources dont elle dispose pour y répondre. Cette définition, utilisée par l'INRS, invite à examiner les demandes et les moyens ensemble.",
+    "source_heading": "Qu'est-ce que le stress lié aux conditions de travail ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c62ff0e724b1573eef15ff7789147f08318553ce571e624194388f6704d66c4e"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/malik-appartenances-place": {
+    "text": "Vivre des appartenances multiples consiste à se reconnaître dans plusieurs groupes, lieux, pratiques ou relations qui participent à la manière de se définir. Ces appartenances peuvent être nationales, professionnelles, familiales ou liées à une activité.",
+    "source_heading": "Qu’est-ce que vivre des appartenances multiples ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "8dff86625bd4b15d3781666c730651d928cb93a8f1fa3aa6b0af6a7788cd4a48"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/malik-attentes-familiales": {
+    "text": "Négocier des attentes familiales différentes consiste à rendre explicites les besoins, les demandes et les limites de chacun pour chercher un accord praticable. Une attente peut être affective, pratique ou symbolique.",
+    "source_heading": "Qu’est-ce que négocier des attentes familiales différentes ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a0be31751c0c8306b51a4d3ba9b81aafc0f2c5d6034a5f94fc5bc2fecc31f5a0"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/malik-identite-souple-personnelle": {
+    "text": "Une identité souple et personnelle est une manière de se définir qui conserve une continuité tout en laissant évoluer les rôles, les goûts et les façons de se raconter. Elle ne signifie pas changer arbitrairement chaque fait de sa vie.",
+    "source_heading": "Qu’est-ce qu’une identité souple et personnelle ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "7eb242086ce08821557d978067acbff2fee671588afacd59f5ffc3078e336159"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/malik-lien-distance": {
+    "text": "Entretenir un lien à distance consiste à construire de la continuité et de l’intimité alors que les personnes ne partagent pas régulièrement le même espace. Cela peut passer par des échanges en direct, des messages différés, des projets et des habitudes choisies.",
+    "source_heading": "Qu’est-ce qu’entretenir un lien à distance ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "60c795d3c32329a1915d6d3fcb41e526a6978167489b7dea07c95e65b1d87f4d"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/malik-soutiens-plusieurs-cercles": {
+    "text": "Disposer de soutiens dans plusieurs cercles signifie pouvoir chercher des formes d’aide complémentaires auprès de relations ou de services différents. Le soutien peut être affectif, pratique, informatif ou lié à une activité partagée.",
+    "source_heading": "Qu’est-ce que disposer de soutiens dans plusieurs cercles ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a5c41fec9c2582ee66c6f4e76c793eb906f9b38b0c1a6fe2e8aba431f85e8437"
+  },
   "posts/sortir-de-ses-schemas-repetitifs/manque-affectif-enfants-causes": {
     "text": "Le manque affectif est l'absence ou la carence durable des réponses émotionnelles et relationnelles nécessaires à un développement affectif sécurisant et à des échanges intimes satisfaisants à l'âge adulte.",
     "source_heading": "Définition du manque affectif",
@@ -1443,6 +2374,48 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "a0d893e2e9ddd4a2e4ea69bc7e82f71374f92ede9f1c041a81e75f6c413fb91a"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/odile-collectif-liberte-personnelle": {
+    "text": "Participer à un collectif signifie prendre part à une activité, une décision ou un projet partagé. Cette participation peut offrir des occasions d’échange, de contribution et d’apprentissage. Elle comporte également des règles, des tâches et parfois des désaccords.",
+    "source_heading": "Qu’est-ce qu’une participation collective qui respecte l’autonomie ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "857227ee9fd83e52eb012ede95abcabff29e25eabbabcf52328f11c2438519f7"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/odile-demander-presence-precise": {
+    "text": "Une demande de présence précise décrit un appui souhaité dans une situation donnée, avec une indication sur sa forme et ses limites. Il peut s’agir d’écouter après un rendez-vous, de rester quelques minutes pendant une tâche, d’accompagner un déplacement ou de partager une activité.",
+    "source_heading": "Qu’est-ce qu’une demande de présence précise ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "6780c7ca6ef6d6c6ff6a87848bf3807311b407ea04dcaa46cc2adcf394d06185"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/odile-objets-souvenirs-choisir": {
+    "text": "Un objet de souvenir est une chose à laquelle une personne associe une relation, une période ou une expérience particulière. Sa valeur affective ne correspond pas nécessairement à son prix, à sa beauté ou à sa rareté.",
+    "source_heading": "Qu’est-ce qu’un objet de souvenir ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "06f3bd6ef61958f377cfe1f56cd7c27430d920d834c746d79deef354e9b605f0"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/odile-retraite-changement-role": {
+    "text": "Un rôle regroupe des activités, des attentes et une place dans les relations : être collègue, responsable d’un dossier, sœur disponible, participante ou bénévole. La retraite modifie le rôle professionnel et certaines habitudes qui l’accompagnent, mais elle n’efface ni les compétences ni les autres dimensions de la personne.",
+    "source_heading": "Qu’est-ce qu’un changement de rôle à la retraite ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "ed85bb87e68f13259fb6d8177279dad25cf046f34cb93d644708505223c70eff"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/odile-solitude-choisie-perte": {
+    "text": "La solitude choisie est un temps sans interaction que la personne souhaite et qui répond à un besoin présent : se reposer, réfléchir, créer, ne pas parler ou simplement profiter d’une activité. Elle ne se définit pas par le fait d’habiter seul.",
+    "source_heading": "Qu’est-ce qu’une solitude choisie après une perte ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "fd239e819bd8cc9ab4844b4e01394d54008ddc3b2e98241ffdfe7442af0bbe75"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/odile-transmettre-souvenir-maniere": {
+    "text": "Transmettre un souvenir consiste à partager une expérience passée sous une forme choisie : récit oral, texte, photographie commentée, objet, geste ou enregistrement. Cela peut créer une occasion de relation, apporter un détail à une histoire familiale ou conserver une trace que quelqu’un souhaite garder.",
+    "source_heading": "Qu’est-ce que transmettre un souvenir personnel ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "99097bb1fa29aca3c75cd58e477be10b48aa876ed3bd4745495a011811c92e88"
   },
   "posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions": {
     "text": "La parentification est un processus de renversement des rôles où l'enfant est amené à prendre soin de ses parents sur le plan matériel ou émotionnel, sacrifiant ainsi ses propres besoins de développement.",
@@ -1520,6 +2493,83 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "9550d2b6ee3905fb74971f516702b05ea9a6426b1cf9a0ea311101cff1611ba6"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/remi-habitudes-indices-contexte": {
+    "text": "Une habitude est une manière d'agir qui devient plus facilement déclenchée par des indices familiers après des répétitions dans un contexte assez stable. L'indice peut être un lieu, une action précédente, un moment ou une situation.",
+    "source_heading": "Qu'est-ce qu'une habitude liée au contexte ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "120bb5129d1dc9e38f3239203cfdc20d1394d549bc5a2172956dc4ce4d1c9d2a"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/remi-perfectionnisme-terminer": {
+    "text": "Le perfectionnisme coûteux est une manière de poursuivre des exigences difficiles à assouplir, même lorsque les efforts supplémentaires deviennent disproportionnés ou empêchent de terminer. Il peut se manifester par des vérifications répétées, un critère de réussite qui recule ou une forte dépendance du jugement sur soi au résultat.",
+    "source_heading": "Qu'est-ce que le perfectionnisme coûteux ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "55d7816dc4dd8da1787a781aa8aa9503508621b3ff45e7f00480eb28be4d7af5"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/salome-alliances-soutien-quotidien": {
+    "text": "Une alliance de soutien est un accord, parfois simple et ponctuel, par lequel des personnes contribuent à rendre une situation plus praticable dans le respect des choix de celle qui est concernée. Elle peut porter sur une correction, une présence, une information ou une tâche.",
+    "source_heading": "Qu’est-ce qu’une alliance de soutien dans la vie quotidienne ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "352cb678476b4b10491c86a4cac1b37a8577db332ad39a8b78ba26852d81ecc3"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/salome-appartenance-sans-effacement": {
+    "text": "Une appartenance qui laisse de l’autonomie permet de se sentir membre d’un groupe tout en conservant une voix, des préférences et des limites. Elle ne signifie pas n’avoir aucune responsabilité commune.",
+    "source_heading": "Qu’est-ce qu’une appartenance qui laisse de l’autonomie ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "e47dfe3aabc05ed3752d1a6e293bef52f83f93396d33b2510b64d9876a54d8a4"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/salome-limite-curiosite-personnelle": {
+    "text": "Une limite posée à la curiosité indique qu’une question, un sujet ou un degré de détail n’est pas ouvert dans l’échange présent. Elle ne juge pas nécessairement toute la personne qui demande. Elle définit un accès.",
+    "source_heading": "Qu’est-ce qu’une limite posée à la curiosité ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "ad1c785d86d1c5f59bbd37342538ad77b3bf1bd34adafbabe0dbc1eb2b4bf786"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/salome-nom-maniere-adressee": {
+    "text": "La reconnaissance du nom et de l’adresse choisie consiste à utiliser les mots par lesquels une personne demande à être nommée et désignée dans une interaction. Cela peut concerner le prénom, les pronoms, les accords ou une formule d’appel.",
+    "source_heading": "Qu’est-ce que la reconnaissance du nom et de l’adresse choisie ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "c7c17d3f5af973899b5204eede512afad64bd37f9db14b172d7b6e048a556903"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/salome-vie-privee-sans-expliquer": {
+    "text": "Garder une information privée consiste à choisir de ne pas la rendre accessible dans un échange, même lorsqu’on la possède et qu’on apprécie les personnes présentes. Ce choix peut concerner une photographie, un souvenir, une relation ou une donnée personnelle.",
+    "source_heading": "Qu’est-ce que le droit de garder une information privée ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a817d81c3b5995f36ff3d9a180362b091feb844890de50f0d0a6ba320234c251"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/samira-agir-marge-etroite": {
+    "text": "Le pouvoir d’agir désigne ici les possibilités réelles de choisir ou d’influencer une action dans un contexte donné, avec ou sans soutien. Il ne signifie pas que la personne maîtrise l’ensemble de sa situation.",
+    "source_heading": "Qu’est-ce que le pouvoir d’agir dans une situation contrainte ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "90d9b84a70293c3d5c02c7f4e3c17f4d647af1ed3e8f2557bb3e282aca9fad2d"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/samira-demander-aides-droits": {
+    "text": "Le non-recours désigne une situation où une personne ne reçoit pas une aide, une prestation ou un service auquel elle a droit. Il peut résulter d’une information absente, d’une démarche inaccessible, d’une rupture de traitement ou d’autres obstacles.",
+    "source_heading": "Qu’est-ce que le non-recours aux aides ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "98d9cbb5d666f7e853f3ed61119c6b21897a94f5f43dc7c1613f5e54697aef9e"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/samira-projet-reporte-place": {
+    "text": "Faire une place à un projet reporté consiste à lui donner une forme d’action compatible avec les conditions présentes, sans exiger qu’il soit immédiatement réalisable dans toute son ampleur. Le report peut venir de contraintes matérielles, de responsabilités, d’incertitudes ou d’une envie encore à préciser.",
+    "source_heading": "Qu’est-ce que faire une place à un projet reporté ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "d5aa2a3b36428357f9e05bfc19e6e7a0a31b5db9bd25cb879fa1446d8a5e2e07"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/samira-voisinage-reciprocite-comparaison": {
+    "text": "La réciprocité désigne ici la possibilité que chacun puisse contribuer et recevoir dans une relation, selon ses capacités et les accords du moment. Elle n’exige pas une équivalence immédiate entre deux services.",
+    "source_heading": "Qu’est-ce que la réciprocité dans le soutien de voisinage ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a368703051468bd7702569523f3bd5526d8bd3dbebc90db2b3eb7e8a36c8a721"
   },
   "posts/sortir-de-ses-schemas-repetitifs/scenario-de-vie-analyse-transactionnelle-famille": {
     "text": "Le scénario de vie est un plan de vie inconscient formé dans la petite enfance, sous l'influence des parents, et qui dicte nos choix fondamentaux à l'âge adulte. Ce concept majeur a été développé par le psychiatre Eric Berne, fondateur de l'analyse transactionnelle, dans les années 1960.",
@@ -1611,6 +2661,48 @@
     "source_paragraph": 1,
     "method": "definition_excerpt",
     "source_body_sha256": "fc5cc0038a8073fb49e4f0b4c042e5712a476e20a01e22eac3ca49e7111074dc"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/vincent-aide-consentie-proteger": {
+    "text": "Une aide consentie est un soutien dont la personne concernée accepte la forme, la portée et le moment, avec la possibilité de refuser ou de demander un changement. Dans la vie ordinaire, cette vérification peut être brève et naturelle.",
+    "source_heading": "Qu’est-ce qu’une aide consentie ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "b888e0c5d1dd3f6b0c2005d728bf167bb1f24b3fbb63de1beaaffce56666b1e8"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/vincent-autonomie-decisions-partagees": {
+    "text": "L’autonomie dans une situation d’aide est la possibilité de participer aux choix qui concernent sa vie, y compris lorsqu’on souhaite ou nécessite un soutien pour certaines actions. Elle ne se confond pas avec le fait de tout faire sans personne.",
+    "source_heading": "Qu’est-ce que l’autonomie dans une situation d’aide ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "12630ad74ea6a6dc97524ee294f8d215b16d4dee43b1cc12e4cffbd9e46bb6ff"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/vincent-couple-place-aidance": {
+    "text": "Préserver une relation de couple dans l’aidance consiste à garder une place pour les choix, les échanges et la proximité des partenaires au milieu des tâches de soutien et des contraintes de vie. Il n’existe pas de forme unique de cette proximité.",
+    "source_heading": "Qu’est-ce que préserver une relation de couple dans l’aidance ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "a1a41ea43a0e15c306cd5cc6fb13e4c4ac7f8e11dd3d5e6e481bc0b4c954e7c9"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/vincent-organiser-relais-concret": {
+    "text": "Un relais concret est la prise en charge convenue d’une tâche ou d’un ensemble de tâches par une autre personne ou un service, avec un périmètre, des moyens et des limites explicites. Il peut concerner une démarche, un trajet, une course ou un accompagnement adapté.",
+    "source_heading": "Qu’est-ce qu’un relais concret dans l’aidance ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "28e50f4d0fc13fca07acca5a479689ca53ee3bf1ebdc9714d1423a0f0ff1ed0c"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/vincent-repit-entraide-durable": {
+    "text": "Le répit est une possibilité de suspendre ou d’alléger certaines contraintes pour retrouver un temps choisi, tandis qu’une entraide durable repose sur des appuis compatibles avec les ressources et les limites des personnes.",
+    "source_heading": "Qu’est-ce qu’un répit inscrit dans une entraide durable ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "2d15d52d883567ed45c1fe183f17112c67b33d9fff4bf624da188dbebc01df66"
+  },
+  "posts/sortir-de-ses-schemas-repetitifs/vincent-soutien-garder-limites": {
+    "text": "Un soutien qui respecte les limites est une aide dont la forme, le périmètre et les informations partagées restent discutables par les personnes concernées. Il peut s’agir d’une écoute, d’un renseignement, d’une présence ou d’un appui pratique.",
+    "source_heading": "Qu’est-ce qu’un soutien qui respecte les limites ?",
+    "source_paragraph": 1,
+    "method": "definition_excerpt",
+    "source_body_sha256": "1cde52bfff073b9b9297a117c74203fe4e887dcbc0f5dc8452b88c16304ea004"
   },
   "posts/sortir-de-ses-schemas-repetitifs/vulnerabilite-au-danger-face-a-la-maladie": {
     "text": "La vulnérabilité au danger est un schéma de pensée automatique qui pousse un individu à croire qu'une catastrophe est sur le point de survenir et qu'il sera incapable de l'empêcher ou d'y faire face. Ce concept a été largement théorisé par le psychologue Jeffrey Young, fondateur de la thérapie des schémas, qui le définit comme une peur excessive que le malheur s'abatte sur soi à tout moment.",

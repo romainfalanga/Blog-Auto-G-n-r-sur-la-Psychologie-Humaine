@@ -418,38 +418,25 @@ ANGLES = [
     "le témoignage (raconter l'histoire d'un personnage qui s'en sort)",
 ]
 
-# Les 20 personnages récurrents du blog (identités fixes et cohérentes)
-# Le détail complet de chaque personnage est dans personnages.json
+# Character names are reserved from the canonical fictional registry.
+# Loading this list never generates articles or calls a provider.
+import json
+from pathlib import Path
+
 PERSONNAGES_PRENOMS = [
-    "Sophie",     # 28 ans, développeuse web, perfectionniste, introvertie
-    "Thomas",     # 34 ans, enseignant, people pleaser, empathique
-    "Camille",    # 42 ans, infirmière, hypersensible, anxieuse, mère de 2
-    "Lucas",      # 24 ans, étudiant école de commerce, insécure, compétitif
-    "Nadia",      # 38 ans, directrice marketing, contrôlante, divorcée
-    "Adrien",     # 31 ans, graphiste freelance, émotif, post-rupture
-    "Margot",     # 52 ans, en reconversion, ancienne cadre, quête de sens
-    "Youssef",    # 29 ans, ingénieur, introverti, intellectualise ses émotions
-    "Isabelle",   # 47 ans, psychologue scolaire, ex-enfant parentifiée
-    "Patrick",    # 56 ans, chef d'équipe BTP, stoïque, émotions refoulées
-    "Léa",        # 23 ans, étudiante psycho, idéaliste, codépendante
-    "Karim",      # 40 ans, entrepreneur restauration, ambitieux, père de 3
-    "Monique",    # 62 ans, retraitée prof de français, veuve, nostalgique
-    "Hugo",       # 27 ans, musicien, émotif, dépendant affectif
-    "Priya",      # 33 ans, médecin, évitante, surinvestie au travail
-    "Stéphane",   # 45 ans, commercial, anxieux social masqué, compétitif
-    "Djamila",    # 36 ans, travailleuse sociale, survivante relation toxique
-    "Fabien",     # 50 ans, cadre RH, divorcé, burn-out latent
-    "Mei",        # 22 ans, étudiante en art, timide, anxiété sociale
-    "Bernard",    # 58 ans, artisan ébéniste, veuf, taiseux
+    character["prenom"]
+    for character in json.loads(Path(__file__).with_name("personnages.json").read_text())["personnages"]
 ]
 
 # Conservé pour compatibilité mais le système utilise maintenant PERSONNAGES_PRENOMS
 PRENOMS = PERSONNAGES_PRENOMS
 
 TRANCHES_AGE = [
+    "jeune adulte (18-25 ans)",
     "jeune adulte (20-25 ans)",
     "adulte en construction (26-35 ans)",
     "adulte en pleine vie active (36-45 ans)",
     "adulte en bilan de mi-vie (46-55 ans)",
     "senior en quête de sens (56-70 ans)",
+    "adulte âgé (71 ans et plus)",
 ]

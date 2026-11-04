@@ -16,7 +16,7 @@ function functionCode(name) {
   return tail;
 }
 class Element {
-  constructor(tag, doc) { this.tagName=tag.toUpperCase(); this.doc=doc; this.children=[]; this.listeners={}; this.dataset={}; this.attributes={}; this.value=''; this.checked=false; this.disabled=false; this.hidden=false; this.isConnected=true; this._text=''; }
+  constructor(tag, doc) { this.tagName=tag.toUpperCase(); this.doc=doc; this.children=[]; this.listeners={}; this.dataset={}; this.attributes={}; this.value=''; this.checked=false; this.disabled=false; this.hidden=false; this.isConnected=true; this._text='';this.scrollTop=0;this.scrollHeight=0;this.clientHeight=0; }
   set type(value) { if(this.tagName==='TEXTAREA')throw new TypeError('textarea.type is readonly');this._type=value; }
   get type() { return this._type; }
   set id(value) { this._id=value; this.doc.ids.set(value,this); }
@@ -30,6 +30,8 @@ class Element {
   getAttribute(name) { return this.attributes[name]; }
   remove() {if(this.parentElement){const siblings=this.parentElement.children;const index=siblings.indexOf(this);if(index>=0)siblings.splice(index,1);this.parentElement=null;}this.isConnected=false;}
   scrollIntoView() {}
+  scrollTo(options) {this.scrollTop=options.top;this.lastScroll=options;}
+  removeEventListener(name,fn) {this.listeners[name]=(this.listeners[name]||[]).filter(item=>item!==fn);}
   addEventListener(name,fn) { (this.listeners[name]??=[]).push(fn); }
   async fire(name,extra={}) { for (const fn of this.listeners[name]||[]) await fn({target:this,currentTarget:this,preventDefault(){},...extra}); }
   focus() {this.doc.activeElement=this;}
@@ -48,16 +50,24 @@ class Element {
   get elements() { return Object.fromEntries(this.querySelectorAll('input,select,textarea').map(x=>[x.name,x])); }
 }
 function environment(extra={}) {
-  const doc={ids:new Map(),createElement(tag){return new Element(tag,this)},createTextNode(text){return String(text)},getElementById(id){return this.ids.get(id)||null},querySelectorAll(selector){return [...this.ids.values()].filter(x=>x.matches(selector))},querySelector(selector){if(selector.startsWith('#')){const [id,...rest]=selector.slice(1).split(' ');return this.getElementById(id)?.querySelector(rest.join(' '))||null;}return this.querySelectorAll(selector)[0]||null}};
+  const doc={ids:new Map(),addEventListener(){},removeEventListener(){},createElement(tag){return new Element(tag,this)},createTextNode(text){return String(text)},getElementById(id){return this.ids.get(id)||null},querySelectorAll(selector){return [...this.ids.values()].filter(x=>x.matches(selector))},querySelector(selector){if(selector.startsWith('#')){const [id,...rest]=selector.slice(1).split(' ');return this.getElementById(id)?.querySelector(rest.join(' '))||null;}return this.querySelectorAll(selector)[0]||null}};
   class FormDataMock { constructor(form){this.values=form.querySelectorAll('input,select,textarea').filter(x=>x.name&&!x.disabled&&(x.type!=='checkbox'||x.checked)).map(x=>[x.name,x.value]);}entries(){return this.values.values();} }
   const ctx=vm.createContext({document:doc,FormData:FormDataMock,URL,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),continueKeys:new Map(),tab:'journal',characterData:{},characters:[]},renderTokens:new WeakMap(),confirm:()=>true,refreshRecommendations(){},status(){},clearTimeout(){},setTimeout(){return 1},console,...extra});
-  for (const name of ['renderGuard','el','actionButton','formValues','busy','sourceField','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','characterSearch','requestIsActive','ambrePrompt','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown']) vm.runInContext(functionCode(name),ctx);
+  for (const name of ['renderGuard','el','actionButton','formValues','busy','sourceField','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','characterSearch','requestIsActive','ambrePrompt','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatMessageEntry','drawChatReadings','retryChatMessage','mapEvidenceContent']) vm.runInContext(functionCode(name),ctx);
   vm.runInContext(script.match(/var PERSON_ROLES=.*\n/)[0]+script.match(/var EVENT_KINDS=.*\n/)[0],ctx);
+  vm.runInContext(functionCode('createVoiceInput'),ctx);
   ctx.drawSourceSection=()=>{};ctx.sourceSaved=()=>{};
   return {ctx,doc,host(id){const host=doc.createElement('div');host.id=id;return host;}};
 }
 function editFixture(kind,values,extra={}) { const env=environment(extra);env.host(kind+'-editor');env.ctx.state.sourceDrafts.set(kind,{id:null,creation_id:'creation-stable',values});env.ctx.drawSourceEditor(kind);return {...env,form:env.doc.getElementById(kind+'-form')}; }
 function field(form,name,value) {const input=form.elements[name];assert.ok(input,name);input.value=value;return input;}
+
+function chatFixture(extra={}) {
+ let clientSerial=0;const env=environment({crypto:{randomUUID:()=> 'client-key-'+(++clientSerial)},...extra});Object.assign(env.ctx.state,{tab:'chat',chatDraft:'',chatOutbox:null,chatProposalDrafts:new Map(),chatSending:false,chatData:{consent:true,access:{allowed:true},quota:{remaining:100,limit:100},messages:[],proposals:[]}});
+ for(const name of ['drawChat','sendChat','pollChat','renderChat'])vm.runInContext(functionCode(name),env.ctx);
+ const view=env.host('view');env.host('chat-quota');env.ctx.drawChat(view,()=>true);
+ return {...env,view,get form(){return env.doc.getElementById('chat-form')},get input(){return env.doc.getElementById('chat-content')},get send(){return env.doc.getElementById('chat-form').querySelector('button[type=submit]')}};
+}
 
 test('the generated application script parses, and canonical URLs keep both identities',()=>{
   new vm.Script(script);
@@ -194,12 +204,12 @@ test('portrait rendering no longer exposes the obsolete fictional character card
   assert.match(functionCode('renderAccount'),/29 €/);assert.match(functionCode('renderAccount'),/billing\/cancel/);
 });
 
-test('chat network retries keep the same message key and complete draft',async()=>{
-  const calls=[];const env=environment({api:async(...args)=>{calls.push(args);throw new Error('offline')}});
-  Object.assign(env.ctx.state,{tab:'chat',chatDraft:'',chatSending:false,chatSendKey:null});vm.runInContext(functionCode('sendChat'),env.ctx);
-  const form=env.doc.createElement('form'),input=env.doc.createElement('textarea'),send=env.doc.createElement('button');input.name='content';input.value='Mon texte complet et sensible';send.type='submit';form.append(input,send);
-  await env.ctx.sendChat(form,()=>true);await env.ctx.sendChat(form,()=>true);
-  assert.equal(calls.length,2);assert.equal(calls[0][2].idempotency_key,calls[1][2].idempotency_key);assert.equal(env.ctx.state.chatDraft,input.value);assert.equal(send.disabled,false);
+test('chat network retries keep the same message key and preserve a separate next draft',async()=>{
+ const calls=[],env=chatFixture({api:async(...args)=>{calls.push(args);throw new Error('Réseau indisponible')}}),form=env.form;
+ env.input.value='Mon premier message';await env.input.fire('input');await env.ctx.sendChat(form,()=>true);
+ assert.equal(env.input.value,'');assert.equal(env.ctx.state.chatOutbox.content,'Mon premier message');assert.equal(env.ctx.state.chatOutbox.status,'uncertain');assert.equal(env.send.disabled,true);assert.equal(env.input.disabled,false);
+ env.input.value='Mon prochain brouillon';await env.input.fire('input');const retry=env.view.querySelector('.chat-turn-state').querySelector('button');await retry.fire('click');
+ const posts=calls.filter(call=>call[1]==='POST');assert.equal(posts.length,2);assert.equal(posts[0][2].idempotency_key,posts[1][2].idempotency_key);assert.equal(env.input.value,'Mon prochain brouillon');assert.equal(env.form,form);assert.match(env.view.textContent,/Mon premier message/);
 });
 
 test('chat proposals submit edited visible fields and preserve unedited structured data',async()=>{
@@ -211,11 +221,11 @@ test('chat proposals submit edited visible fields and preserve unedited structur
 
 test('quota exhaustion retains conversation, proposals and privacy actions while blocking sends',()=>{
   const env=environment();env.ctx.state.chatProposalDrafts=new Map();env.ctx.state.chatData={consent:true,access:{allowed:false,reason:'quota_exhausted'},quota:{remaining:0,limit:100},messages:[{role:'user',content:'Mon historique privé'}],proposals:[{id:'proposal',status:'pending'}]};env.ctx.drawChatProposal=(host)=>host.append(env.doc.createElement('form'));vm.runInContext(functionCode('chatConsent')+'\n'+functionCode('drawChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);
-  assert.match(host.textContent,/Mon historique privé/);assert.match(host.textContent,/Effacer la conversation et désactiver Ambre/);assert.doesNotMatch(host.textContent,/Voir mon abonnement/);assert.equal(env.doc.getElementById('chat-proposals').children.length,1);assert.equal(env.doc.getElementById('chat-form').querySelector('button').disabled,true);assert.equal(env.doc.getElementById('chat-content').maxLength,6000);
+  assert.match(host.textContent,/Mon historique privé/);assert.match(host.textContent,/Effacer la conversation et désactiver Ambre/);assert.doesNotMatch(host.textContent,/Voir mon abonnement/);assert.equal(env.doc.getElementById('chat-proposals').children.length,1);assert.equal(env.doc.getElementById('chat-form').querySelector('button[type=submit]').disabled,true);assert.equal(env.doc.getElementById('chat-content').maxLength,6000);
 });
 
 test('confirmed terminal failure renews message key, unlike ambiguous network failure',async()=>{
-  let scheduled;const env=environment({clearTimeout(){},setTimeout(fn){scheduled=fn;return 1},api:async()=>({last_request:{id:'r1',status:'failed'},last_error:{code:'provider_error'}})});const form=env.host('chat-form'),button=env.doc.createElement('button');button.type='submit';form.append(button);Object.assign(env.ctx.state,{tab:'chat',chatDraft:'Mon brouillon',chatSendKey:{key:'old-key',content:'Mon brouillon'},chatSending:true});vm.runInContext(functionCode('pollChat'),env.ctx);env.ctx.pollChat({id:'r1'},()=>true,'Mon brouillon');await scheduled();assert.equal(env.ctx.state.chatSendKey,null);assert.equal(env.ctx.state.chatDraft,'Mon brouillon');assert.equal(button.disabled,false);
+  let scheduled;const env=environment({clearTimeout(){},setTimeout(fn){scheduled=fn;return 1},api:async()=>({consent:true,access:{allowed:true},quota:{remaining:100},last_request:{id:'r1',status:'failed'},last_error:{code:'provider_error'}})});const form=env.host('chat-form'),button=env.doc.createElement('button');button.type='submit';form.append(button);Object.assign(env.ctx.state,{tab:'chat',chatDraft:'Mon brouillon',chatSendKey:{key:'old-key',content:'Mon brouillon'},chatSending:true});vm.runInContext(functionCode('pollChat'),env.ctx);env.ctx.pollChat({id:'r1'},()=>true,'Mon brouillon');await scheduled();assert.equal(env.ctx.state.chatSendKey,null);assert.equal(env.ctx.state.chatDraft,'Mon brouillon');assert.equal(button.disabled,false);
 });
 
 test('proposal citations are plain text, before values visible and person associations editable',async()=>{
@@ -243,7 +253,7 @@ test('V5 empty conversation renders no invented message and places quota in the 
   vm.runInContext(functionCode('chatConsent')+'\n'+functionCode('drawChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);
   assert.equal(host.querySelector('.chat-thread').children.length,0);
   assert.equal(env.doc.getElementById('chat-quota').textContent,'99 / 100 messages');
-  assert.equal(env.doc.getElementById('chat-form').querySelector('button').disabled,false);
+  assert.equal(env.doc.getElementById('chat-form').querySelector('button[type=submit]').disabled,false);
   assert.doesNotMatch(host.textContent,/Un espace pour prendre du recul|Vous pouvez commencer par une situation/);
 });
 
@@ -254,7 +264,7 @@ test('V5 blocked sends retain editable draft, history and proposals for all acce
     vm.runInContext(functionCode('chatConsent')+'\n'+functionCode('drawChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);
     assert.match(host.textContent,/Historique conservé/);assert.match(host.textContent,/Effacer la conversation et désactiver Ambre/);
     assert.equal(env.doc.getElementById('chat-proposals').children.length,1);
-    assert.equal(env.doc.getElementById('chat-content').value,'Mon brouillon');assert.equal(env.doc.getElementById('chat-form').querySelector('button').disabled,true);
+    assert.equal(env.doc.getElementById('chat-content').value,'Mon brouillon');assert.equal(env.doc.getElementById('chat-form').querySelector('button[type=submit]').disabled,true);
   }
 });
 
@@ -272,23 +282,18 @@ test('V5 portrait panes respect deep links and switching preserves form nodes',a
 });
 
 
-test('V5 an immediate idempotent chat response leaves the new composer enabled',async()=>{
- const env=environment({api:async()=>({consent:true,access:{allowed:true},quota:{remaining:99,limit:100},messages:[],proposals:[]})});
- Object.assign(env.ctx.state,{tab:'chat',chatDraft:'Bonjour',chatSending:false,chatData:{access:{allowed:true}}});env.ctx.drawChatProposal=()=>{};
- vm.runInContext(functionCode('chatConsent')+'\n'+functionCode('drawChat')+'\n'+functionCode('sendChat'),env.ctx);
- env.host('view');const form=env.doc.createElement('form'),input=env.doc.createElement('textarea'),button=env.doc.createElement('button');input.name='content';input.value='Bonjour';button.type='submit';form.append(input,button);
- await env.ctx.sendChat(form,()=>true);
- assert.equal(env.doc.getElementById('chat-form').querySelector('button').disabled,false);assert.equal(env.ctx.state.chatSending,false);
+test('an immediate completed chat turn reconciles its optimistic bubble and enables the existing composer',async()=>{
+ const env=chatFixture({api:async(path,method,payload)=>({consent:true,access:{allowed:true},quota:{remaining:99,limit:100},request_id:'turn',last_request:{id:'turn',status:'completed'},messages:[{id:'turn-user',client_key:payload.idempotency_key,role:'user',content:payload.content,status:'completed'},{id:'turn-assistant',role:'assistant',content:'Réponse complète.'}],proposals:[]})});
+ const form=env.form;env.input.value='Bonjour';await env.input.fire('input');await env.ctx.sendChat(form,()=>true);
+ assert.equal(env.form,form);assert.equal(env.send.disabled,false);assert.equal(env.ctx.state.chatSending,false);assert.equal(env.ctx.state.chatOutbox,null);assert.equal(env.input.value,'');assert.equal(env.view.querySelectorAll('.chat-user').length,1);assert.equal(env.doc.getElementById('chat-pending-indicator').parentElement,null);
 });
 
-test('V5 retrying a pending turn keeps one visible user message and its draft',async()=>{
- const env=environment({api:async()=>({pending_request:{id:'same-turn',status:'running'}}),pollChat(){}});
- Object.assign(env.ctx.state,{tab:'chat',chatDraft:'Un seul message',chatSending:false,chatData:{access:{allowed:true}}});vm.runInContext(functionCode('sendChat'),env.ctx);
- const thread=env.host('thread');thread.className='chat-thread';const form=env.doc.createElement('form'),input=env.doc.createElement('textarea'),button=env.doc.createElement('button');input.name='content';input.value='Un seul message';button.type='submit';form.append(input,button);
- await env.ctx.sendChat(form,()=>true);env.ctx.state.chatSending=false;env.ctx.state.chatRequest=null;await env.ctx.sendChat(form,()=>true);
- assert.equal(thread.children.length,1);assert.equal(thread.children[0].dataset.chatTurnId,'same-turn');assert.equal(input.value,'Un seul message');
+test('a pending turn keeps one user bubble while the cleared composer accepts the next draft',async()=>{
+ let resolve;const post=new Promise(r=>resolve=r);let client;const env=chatFixture({api:async(path,method,payload)=>{if(method==='POST'){client=payload.idempotency_key;return post}return {consent:true,access:{allowed:true},quota:{remaining:99,limit:100},pending_request:{id:'same-turn',status:'running',client_key:client},messages:[{id:'same-turn-user',client_key:client,role:'user',content:'Un seul message',status:'running'}],proposals:[]}}});
+ env.input.value='Un seul message';await env.input.fire('input');const sending=env.ctx.sendChat(env.form,()=>true);const bubble=env.view.querySelector('.chat-user');assert.ok(bubble);assert.match(env.view.textContent,/Ambre réfléchit/);assert.equal(env.input.value,'');
+ env.input.value='Le message suivant';await env.input.fire('input');resolve({request_id:'same-turn',pending_request:{id:'same-turn',status:'running',client_key:client}});await sending;
+ assert.equal(env.view.querySelectorAll('.chat-user').length,1);assert.equal(env.view.querySelector('.chat-user'),bubble);assert.equal(bubble.dataset.chatTurnId,'same-turn');assert.equal(env.input.value,'Le message suivant');assert.equal(env.send.disabled,true);assert.equal(env.input.disabled,false);
 });
-
 
 test('V6 self information and reflection groups open with all fields in their own compact grids',async()=>{
  const env=environment({api:async()=>({profile:{},revision:0}),location:{hash:''}});env.host('self-profile');vm.runInContext(functionCode('renderSelfProfile'),env.ctx);await env.ctx.renderSelfProfile();
@@ -323,9 +328,9 @@ function mapFixture(extra={}){const env=environment({refreshPortraitData(){},loc
 
 test('V6 psychology map distinguishes supported exploration from unknown patterns and links exact source evidence',()=>{
  const env=mapFixture(),known=env.host.mapCards.get('belong'),unknown=env.host.mapCards.get('autonomy');assert.equal(known.card.parentElement.id,'map-detail');assert.equal(known.card.hidden,false);assert.equal(unknown.card.hidden,true);assert.equal(known.row.hidden,false);assert.equal(unknown.row.hidden,true);
- assert.match(known.card.textContent,/À explorer/);assert.match(unknown.card.textContent,/Non exploré/);assert.doesNotMatch(env.host.textContent,/\d+\s*%|probabilité|absence de syndrome/i);
+ assert.match(known.card.textContent,/À préciser/);assert.match(unknown.card.textContent,/Non exploré/);assert.doesNotMatch(env.host.textContent,/\d+\s*%|probabilité|absence de syndrome/i);
  assert.ok(known.card.querySelectorAll('a').some(link=>link.href==='/mes-proches/#person-p1'));assert.ok(known.card.querySelectorAll('a').some(link=>link.href==='https://example.test/article/'));assert.doesNotMatch(known.card.textContent,/Lien refusé/);
- assert.match(known.card.textContent,/Mes mots exacts/);assert.match(known.card.textContent,/Ce qui invite à nuancer/);assert.match(known.card.textContent,/Fonction possible/);assert.doesNotMatch(known.card.textContent,/Ce que cela pourrait vous apporter/);
+ assert.match(known.card.textContent,/Mes mots exacts/);assert.match(known.card.textContent,/Ce qui invite à nuancer/);assert.match(known.card.textContent,/Ce que cela pourrait expliquer/);assert.doesNotMatch(known.card.textContent,/Ce que cela pourrait vous apporter/);
 });
 
 test('V6 map refresh preserves open disclosures, reply form node and text while evidence changes',async()=>{
@@ -419,7 +424,7 @@ test('V7 the pattern index uses one tab stop and supports arrow, home and end ke
 
 test('V7 a provider 429 keeps its precise message, quota and draft, then automatically restores sending after cooldown',async()=>{
  const timers=[],clock=Date.now(),calls=[];let now=clock;const data={consent:true,access:{allowed:true},quota:{remaining:100,limit:100},messages:[],proposals:[]},env=environment({Date:{now:()=>now},setTimeout(fn,delay){timers.push({fn,delay});return timers.length},clearTimeout(){},api:async(path,method)=>{calls.push({path,method});return {...data,last_error:{message:'Le fournisseur limite temporairement les demandes. Aucun message n’a été décompté.',action:'retry_later'}}}});
- Object.assign(env.ctx.state,{tab:'chat',chatDraft:'Mes mots complets',chatSending:true,chatSendKey:{key:'failed-key'},chatData:data});env.ctx.drawChatProposal=()=>{};vm.runInContext(functionCode('drawChatReadings')+'\n'+functionCode('drawChat')+'\n'+functionCode('pollChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);const input=env.doc.getElementById('chat-content'),form=env.doc.getElementById('chat-form'),button=form.querySelector('button');
+ Object.assign(env.ctx.state,{tab:'chat',chatDraft:'Mes mots complets',chatSending:true,chatSendKey:{key:'failed-key'},chatData:data});env.ctx.drawChatProposal=()=>{};vm.runInContext(functionCode('drawChatReadings')+'\n'+functionCode('drawChat')+'\n'+functionCode('pollChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);const input=env.doc.getElementById('chat-content'),form=env.doc.getElementById('chat-form'),button=form.querySelector('button[type=submit]');
  env.ctx.api=async(path,method)=>{calls.push({path,method});return {...data,access:{allowed:false,reason:'provider_cooldown',retry_at:(clock+45000)/1000},last_request:{id:'failed',status:'failed'},last_error:{code:'provider_http_429_request',message:'Le fournisseur limite temporairement les demandes. Réessayez dans 45 secondes. Aucun message n’a été décompté.',action:'retry_later',retry_at:(clock+45000)/1000}}};env.ctx.pollChat({id:'failed'},()=>true,'Mes mots complets');await timers.shift().fn();assert.match(env.doc.getElementById('chat-status').textContent,/Réessayez dans 45 secondes/);assert.match(env.doc.getElementById('chat-status').textContent,/Aucun message n’a été décompté/);assert.equal(env.ctx.state.chatSendKey,null);assert.equal(button.disabled,true);assert.equal(input.value,'Mes mots complets');assert.equal(env.ctx.state.chatData.quota.remaining,100);
  input.value='Un complément pendant l’attente';await input.fire('input');assert.ok(timers[0].delay>=45000&&timers[0].delay<=60000);now=clock+46000;env.ctx.api=async(path,method)=>{calls.push({path,method});return data};await timers.shift().fn();assert.equal(button.disabled,false);assert.equal(env.doc.getElementById('chat-form'),form);assert.equal(input.value,'Un complément pendant l’attente');assert.equal(env.ctx.state.chatDraft,input.value);assert.ok(calls.every(call=>call.path==='/api/chat'&&!call.method));
 });
@@ -440,7 +445,7 @@ test('V7 portrait placeholders follow the current first name without changing po
 
 
 test('V7 atlas search includes keywords, aliases and readable identifiers when the label differs',async()=>{
- const env=mapFixture(),map=structuredClone(psychologyFixture);map.patterns[1]={...map.patterns[1],id:'thought_loop',label:'Pensées en boucle',keywords:['rumination'],aliases:['boucle mentale']};env.ctx.drawPsychologyMap(env.host,map,()=>true);const search=env.doc.getElementById('map-search');
+ const env=mapFixture(),map=structuredClone(psychologyFixture);map.patterns[1]={...map.patterns[1],id:'thought_loop',label:'Pensées en boucle',keywords:['rumination'],aliases:['boucle mentale']};env.ctx.drawPsychologyMap(env.host,map,()=>true);await env.host.querySelectorAll('[data-map-mode]')[1].fire('click');const search=env.doc.getElementById('map-search');
  for(const query of ['rumination','boucle mentale','thought_loop','thought loop']){search.value=query;await search.fire('input');assert.equal(env.host.mapCards.get('thought_loop').row.hidden,false,query);assert.equal(env.host.mapCards.get('belong').row.hidden,true,query);assert.match(env.doc.getElementById('map-results').textContent,/1 repère/);assert.equal(env.host.mapSelected,'thought_loop');}
 });
 
@@ -467,12 +472,12 @@ test('V8 Ambre keeps the canonical route and identifies the chat as AI',()=>{
 });
 
 test('V8 the synthesis invites clarification with Ambre and never fetches the retired correction form',async()=>{
- const calls=[],env=environment({api:async(path)=>{calls.push(path);return {status:'ready'}},renderSelfProfile(){},renderLikes(){},setupPortraitViews(){},applyPortraitData(){},schedulePortraitPoll(){}});env.ctx.state.tab='portrait';env.host('view');env.host('portrait-status');vm.runInContext(functionCode('renderPortrait'),env.ctx);await env.ctx.renderPortrait();assert.deepEqual(calls,['/api/portrait']);assert.match(env.doc.getElementById('view').innerHTML,/Pour préciser votre synthèse, parlez-en à Ambre/);assert.match(env.doc.getElementById('view').innerHTML,/href="\/mon-accompagnement\/"/);assert.doesNotMatch(HTML,/Corriger ma synthèse|id="portrait-correction"|\/api\/memory|function loadPortraitCorrection/);
+ const calls=[],env=environment({api:async(path)=>{calls.push(path);return {status:'ready'}},renderSelfProfile(){},renderLikes(){},setupPortraitViews(){},applyPortraitData(){},schedulePortraitPoll(){}});env.ctx.state.tab='portrait';env.host('view');env.host('portrait-status');vm.runInContext(functionCode('renderPortrait'),env.ctx);await env.ctx.renderPortrait();assert.deepEqual(calls,['/api/portrait']);assert.match(env.doc.getElementById('view').innerHTML,/Les échanges avec Ambre peuvent préciser cette synthèse/);assert.doesNotMatch(env.doc.getElementById('view').innerHTML,/href="\/mon-accompagnement\/"/);assert.match(env.doc.getElementById('view').innerHTML,/role="note"/);assert.doesNotMatch(HTML,/Corriger ma synthèse|id="portrait-correction"|\/api\/memory|function loadPortraitCorrection/);
 });
 
 test('V8 manual presentation, close-person and life-event forms retain links to Ambre',async()=>{
- const env=environment({api:async()=>({profile:{first_name:'Nina'},revision:1}),location:{hash:''}});env.host('self-profile');vm.runInContext(functionCode('renderSelfProfile'),env.ctx);await env.ctx.renderSelfProfile();const self=env.doc.getElementById('self-profile');assert.match(self.querySelector('.ambre-hint').textContent,/Ambre.*compléter votre présentation/);assert.equal(self.querySelector('.ambre-hint').querySelector('a').href,'/mon-accompagnement/');assert.equal(env.doc.getElementById('self-profile-form').elements.first_name.value,'Nina');
- const rendered=[];env.ctx.drawSourceSection=kind=>rendered.push(kind);env.ctx.api=async()=>({people:[],events:[]});vm.runInContext(functionCode('renderPersonalSources'),env.ctx);const host=env.host('view');for(const page of ['people','events']){env.ctx.state.tab=page;await env.ctx.renderPersonalSources();assert.match(host.innerHTML,/Ambre peut aussi vous aider à ajouter/);assert.match(host.innerHTML,/href="\/mon-accompagnement\/"/);assert.match(host.innerHTML,new RegExp('id="'+page+'-content"'))}assert.deepEqual(rendered,['people','events']);
+ const env=environment({api:async()=>({profile:{first_name:'Nina'},revision:1}),location:{hash:''}});env.host('self-profile');vm.runInContext(functionCode('renderSelfProfile'),env.ctx);await env.ctx.renderSelfProfile();const self=env.doc.getElementById('self-profile');assert.match(self.querySelector('.ambre-hint').textContent,/Ambre.*compléter votre présentation/);assert.equal(self.querySelector('.ambre-hint').querySelector('a'),null);assert.equal(self.querySelector('.ambre-hint').getAttribute('role'),'note');assert.equal(env.doc.getElementById('self-profile-form').elements.first_name.value,'Nina');
+ const rendered=[];env.ctx.drawSourceSection=kind=>rendered.push(kind);env.ctx.api=async()=>({people:[],events:[]});vm.runInContext(functionCode('renderPersonalSources'),env.ctx);const host=env.host('view');for(const page of ['people','events']){env.ctx.state.tab=page;await env.ctx.renderPersonalSources();assert.match(host.innerHTML,/Ambre peut aussi vous aider à ajouter/);assert.doesNotMatch(host.innerHTML,/<a href="\/mon-accompagnement\/">/);assert.match(host.innerHTML,/role="note"/);assert.match(host.innerHTML,new RegExp('id="'+page+'-content"'))}assert.deepEqual(rendered,['people','events']);
 });
 
 test('V8 memory append is an explicit editable proposal that retains the text and revision on failure',async()=>{
@@ -480,7 +485,7 @@ test('V8 memory append is an explicit editable proposal that retains the text an
 });
 
 test('V8 contextual influence and mechanisms remain qualitative and separate from the evidence status',async()=>{
- const env=mapFixture(),map=structuredClone(psychologyFixture);Object.assign(map.hypotheses[0],{status:'exploring',influence:{level:'high',contexts:['Dans le groupe','Au travail','En famille','Ne pas afficher'],rationale:'Ce fonctionnement revient dans plusieurs contextes décrits.',evidence:['event:e1']},interactions:[{pattern_id:'autonomy',kind:'buffers',explanation:'Cette ressource pourrait modérer ce besoin dans certaines situations.',evidence:['profile:self']},{pattern_id:'unknown',kind:'amplifies',explanation:'Introuvable'}]});env.ctx.drawPsychologyMap(env.host,map,()=>true);const entry=env.host.mapCards.get('belong'),weight=entry.content.querySelector('.map-influence');assert.equal(entry.badge.textContent,'À explorer');assert.match(weight.textContent,/Influence décrite : marquée/);assert.equal(weight.querySelectorAll('li').length,3);assert.doesNotMatch(weight.textContent,/Ne pas afficher|%|probabilité/);assert.ok(weight.querySelector('a').href.includes('event-e1'));const relations=entry.content.querySelector('.map-interactions');assert.match(relations.textContent,/Mécanismes liés/);assert.match(relations.textContent,/Peut atténuer/);assert.match(relations.textContent,/pourrait modérer/);assert.doesNotMatch(relations.textContent,/Introuvable/);await relations.querySelector('button').fire('click');assert.equal(env.host.mapSelected,'autonomy');assert.equal(env.host.mapCards.get('autonomy').card.hidden,false);
+ const env=mapFixture(),map=structuredClone(psychologyFixture);Object.assign(map.hypotheses[0],{status:'exploring',influence:{level:'high',contexts:['Dans le groupe','Au travail','En famille','Ne pas afficher'],rationale:'Ce fonctionnement revient dans plusieurs contextes décrits.',evidence:['event:e1']},interactions:[{pattern_id:'autonomy',kind:'buffers',explanation:'Cette ressource pourrait modérer ce besoin dans certaines situations.',evidence:['profile:self']},{pattern_id:'unknown',kind:'amplifies',explanation:'Introuvable'}]});env.ctx.drawPsychologyMap(env.host,map,()=>true);const entry=env.host.mapCards.get('belong'),weight=entry.content.querySelector('.map-influence');assert.equal(entry.badge.textContent,'À préciser');assert.match(weight.textContent,/Influence décrite : marquée/);assert.equal(weight.querySelectorAll('li').length,3);assert.doesNotMatch(weight.textContent,/Ne pas afficher|%|probabilité/);assert.ok(weight.querySelector('a').href.includes('event-e1'));const relations=entry.content.querySelector('.map-interactions');assert.match(relations.textContent,/Mécanismes liés/);assert.match(relations.textContent,/Peut atténuer/);assert.match(relations.textContent,/pourrait modérer/);assert.doesNotMatch(relations.textContent,/Introuvable/);await relations.querySelector('button').fire('click');assert.equal(env.host.mapSelected,'autonomy');assert.equal(env.host.mapCards.get('autonomy').card.hidden,false);
  const labels={unknown:'à préciser',low:'discrète',moderate:'modérée'};for(const [level,label] of Object.entries(labels)){map.hypotheses[0].influence.level=level;env.ctx.drawPsychologyMap(env.host,map,()=>true);assert.ok(entry.content.querySelector('.map-influence').textContent.includes('Influence décrite : '+label))}
 });
 
@@ -491,11 +496,12 @@ test('V8 legacy pronouns with ambiguous referents are left for source-based anal
 test('a late chat POST cannot cancel the new view polling or alter its draft and request state',async()=>{
  let resolve;const pending=new Promise(r=>resolve=r),timers=new Map(),cleared=[];let serial=0,active=true,drawn=0;
  const env=environment({api:async(path,method)=>method==='POST'?pending:{messages:[{role:'assistant',content:'Réponse terminée'}],access:{allowed:true}},setTimeout(fn){timers.set(++serial,fn);return serial},clearTimeout(id){if(timers.delete(id))cleared.push(id)}});
- vm.runInContext(functionCode('sendChat')+'\n'+functionCode('pollChat'),env.ctx);env.ctx.drawChat=()=>drawn++;
+ vm.runInContext(functionCode('sendChat')+'\n'+functionCode('pollChat'),env.ctx);env.host('view');env.ctx.drawChat=()=>drawn++;
  Object.assign(env.ctx.state,{tab:'chat',chatData:{access:{allowed:true}},chatDraft:'Message envoyé'});
  const form=env.doc.createElement('form'),input=env.doc.createElement('textarea');input.name='content';input.value='Message envoyé';form.append(input);
- const sending=env.ctx.sendChat(form,()=>active);active=false;
- Object.assign(env.ctx.state,{chatSending:true,chatRequest:{id:'pending-current'},chatDraft:'Nouveau brouillon',chatSendKey:{key:'current-key'},chatData:{marker:'current'}});
+ const sending=env.ctx.sendChat(form,()=>active);drawn=0;active=false;
+ Object.assign(env.ctx.state,{chatSending:true,chatRequest:{id:'pending-current'},chatDraft:'Nouveau brouillon',chatSendKey:{key:'current-key'},chatData:{marker:'current'},chatOutbox:{client_key:'current-key',request_id:'pending-current',content:'Current',status:'pending'}});
+ env.ctx.api=async()=>({messages:[{id:'pending-current-user',client_key:'current-key',role:'user',content:'Current',status:'completed'},{id:'pending-current-assistant',role:'assistant',content:'Réponse terminée'}],access:{allowed:true},last_request:{id:'pending-current',status:'completed'}});
  env.ctx.pollChat({id:'pending-current'},()=>true,null);const currentTimer=env.ctx.state.chatTimer;
  resolve({pending_request:{id:'pending-old'}});await sending;
  assert.equal(env.ctx.state.chatTimer,currentTimer);assert.equal(cleared.includes(currentTimer),false);assert.equal(env.ctx.state.chatRequest.id,'pending-current');assert.equal(env.ctx.state.chatDraft,'Nouveau brouillon');assert.equal(env.ctx.state.chatSendKey.key,'current-key');assert.equal(env.ctx.state.chatData.marker,'current');
@@ -545,4 +551,100 @@ test('mixed proposal modes distinguish replacements and additions while legacy p
  const host=env.host('proposals');env.ctx.drawChatProposal(host,{id:'mixed',kind:'life_event_update',revision:1,payload:{title:'Titre inchangé',description:'Texte corrigé.',meaning_now:'Nouveau recul.'},before:{title:'Titre inchangé',description:'Texte original.',meaning_now:'Recul existant.'},field_modes:{title:'set',description:'set',meaning_now:'append'}},()=>true);
  const form=host.children[0];assert.match(form.textContent,/Remplacer : Description/);assert.match(form.textContent,/Ajouter à : Ce que ce moment représente aujourd’hui/);assert.equal(form.querySelector('button').textContent,'Confirmer les remplacements et ajouts');await form.fire('submit');assert.match(prompts[0],/^Remplacer « Description »/);assert.doesNotMatch(prompts[0],/représente|Titre/);assert.doesNotMatch(form.textContent,/Remplacer : Titre/);
  const legacy=env.host('legacy');env.ctx.drawChatProposal(legacy,{id:'old',kind:'person_update',revision:1,payload:{relationship_text:'Texte complet hérité.'},before:{relationship_text:'Avant.'}},()=>true);assert.equal(legacy.children[0].elements.relationship_text.value,'Texte complet hérité.');assert.equal(legacy.querySelector('label').textContent,'Votre relation');assert.equal(legacy.querySelector('button').textContent,'Accepter cette proposition');
+});
+
+test('V10 a POST lost after completion reconciles by client key without duplicates or a stale network error',async()=>{
+ let key;const env=chatFixture({api:async(path,method,payload)=>{if(method==='POST'){key=payload.idempotency_key;throw new Error('Réponse réseau perdue')}return {consent:true,access:{allowed:true},quota:{remaining:99,limit:100},messages:[{id:'done-user',client_key:key,role:'user',content:'Un message',status:'completed'},{id:'done-assistant',role:'assistant',content:'Une réponse enregistrée.'}],last_request:{id:'done',status:'completed'},proposals:[]}}});
+ env.input.value='Un message';await env.input.fire('input');await env.ctx.sendChat(env.form,()=>true);
+ assert.equal(env.view.querySelectorAll('.chat-user').length,1);assert.equal(env.view.querySelectorAll('.chat-assistant').length,1);assert.equal(env.ctx.state.chatOutbox,null);assert.equal(env.send.disabled,false);assert.equal(env.doc.getElementById('chat-status').textContent,'');assert.equal(env.input.value,'');
+});
+
+test('V10 a definitive rejection restores only an empty composer and preserves a next draft and its exact error',async()=>{
+ for(const nextDraft of ['', 'Mon prochain brouillon']){
+  let reject;const post=new Promise((resolve,r)=>reject=r),error=Object.assign(new Error('Le quota est atteint. Aucun message n’a été décompté.'),{status:429,code:'quota_exhausted'}),env=chatFixture({api:async(path,method)=>method==='POST'?post:{consent:true,access:{allowed:false,reason:'quota_exhausted'},quota:{remaining:0,limit:100},messages:[],proposals:[]}});
+  env.input.value='Message refusé';await env.input.fire('input');const sending=env.ctx.sendChat(env.form,()=>true);env.input.value=nextDraft;await env.input.fire('input');reject(error);await sending;
+  assert.equal(env.input.value,nextDraft||'Message refusé');assert.equal(env.ctx.state.chatDraft,nextDraft||'Message refusé');assert.equal(env.ctx.state.chatSendKey,null);assert.equal(env.ctx.state.chatOutbox.status,'failed');assert.match(env.view.textContent,/Le quota est atteint\. Aucun message n’a été décompté/);assert.equal(env.input.disabled,false);assert.equal(env.send.disabled,true);assert.equal(env.view.querySelector('.chat-turn-state').querySelector('button').disabled,true);
+ }
+});
+
+test('V10 polling failure restores no old text over a following draft and can retry the uncertain turn with the same key',async()=>{
+ const timers=[],calls=[];let key;const env=chatFixture({setTimeout(fn){timers.push(fn);return timers.length},clearTimeout(){},api:async(path,method,payload)=>{calls.push({path,method,payload});if(method==='POST'){key=payload.idempotency_key;return {consent:true,access:{allowed:true},quota:{remaining:99,limit:100},pending_request:{id:'pending',client_key:key,status:'running'},messages:[{id:'pending-user',client_key:key,role:'user',content:payload.content,status:'running'}],proposals:[]}}throw new Error('Vérification interrompue')}});
+ env.input.value='Message initial';await env.input.fire('input');await env.ctx.sendChat(env.form,()=>true);env.input.value='Suite en préparation';await env.input.fire('input');await timers.shift()();
+ assert.equal(env.ctx.state.chatOutbox.status,'uncertain');assert.equal(env.input.value,'Suite en préparation');const retry=env.view.querySelector('.chat-turn-state').querySelector('button');assert.equal(retry.disabled,false);await retry.fire('click');assert.equal(calls.filter(call=>call.method==='POST').length,2);assert.ok(calls.filter(call=>call.method==='POST').every(call=>call.payload.idempotency_key===key));assert.equal(env.input.value,'Suite en préparation');
+});
+
+test('V10 only a supplied welcome appears in an empty conversation and consumes no turn or quota',()=>{
+ let calls=0;const env=chatFixture({api:async()=>{calls++;throw new Error('Unexpected')}}),welcome={id:'ambre-welcome-v1',role:'assistant',content:'Bonjour, je suis Ambre. Qu’aimeriez-vous comprendre ?'};
+ env.ctx.state.chatData.welcome=welcome;env.ctx.drawChat(env.view,()=>true);const greeting=env.view.querySelector('.chat-assistant');assert.equal(greeting.querySelector('.chat-content').textContent,welcome.content);assert.equal(env.ctx.state.chatData.messages.length,0);assert.equal(env.ctx.state.chatData.quota.remaining,100);assert.equal(calls,0);
+ env.ctx.drawChat(env.view,()=>true);assert.equal(env.view.querySelector('.chat-assistant'),greeting);assert.equal(env.view.querySelectorAll('.chat-assistant').length,1);
+ env.ctx.state.chatData.messages=[{id:'first-user',client_key:'first-client',role:'user',content:'Bonjour',status:'completed'}];env.ctx.state.chatData.welcome=null;env.ctx.drawChat(env.view,()=>true);assert.equal(env.view.querySelectorAll('.chat-assistant').length,0);assert.equal(env.view.querySelectorAll('.chat-user').length,1);assert.equal(calls,0);
+});
+
+test('V10 a validated long response reveals once and anchors its beginning instead of its bottom',async()=>{
+ const timers=[],env=chatFixture({setTimeout(fn){timers.push(fn);return timers.length},clearTimeout(){},matchMedia:()=>({matches:false})}),text='Une phrase complète avec ses mots exacts. '.repeat(80),shell=env.view.chatShell,form=env.form;
+ const create=env.doc.createElement.bind(env.doc);env.doc.createElement=tag=>{const element=create(tag);if(tag==='article')element.offsetTop=420;return element};shell.scroll.scrollHeight=5000;shell.scroll.clientHeight=500;shell.follow=true;
+ env.ctx.state.chatData.messages=[{id:'reply-assistant',role:'assistant',content:text}];env.ctx.drawChat(env.view,()=>true,{animate:true});const item=env.view.querySelector('.chat-assistant'),content=item.querySelector('.chat-content');assert.ok(content.textContent.length<text.length);assert.equal(content.getAttribute('aria-hidden'),'true');assert.equal(shell.scroll.lastScroll.top,420);assert.notEqual(shell.scroll.lastScroll.top,shell.scroll.scrollHeight);
+ while(timers.length)await timers.shift()();assert.equal(content.textContent,text);assert.equal(content.getAttribute('aria-hidden'),undefined);assert.equal(shell.scroll.lastScroll.top,420);assert.equal(env.form,form);
+ env.ctx.drawChat(env.view,()=>true,{animate:true});assert.equal(timers.length,0);assert.equal(content.textContent,text);assert.equal(env.view.querySelector('.chat-assistant'),item);
+});
+
+test('V10 a reader above the latest exchange receives a new-response control without a forced scroll',async()=>{
+ const env=chatFixture({matchMedia:()=>({matches:true})}),shell=env.view.chatShell;shell.scroll.scrollHeight=5000;shell.scroll.clientHeight=500;shell.scroll.scrollTop=50;await shell.scroll.fire('scroll');assert.equal(shell.follow,false);
+ const create=env.doc.createElement.bind(env.doc);env.doc.createElement=tag=>{const element=create(tag);if(tag==='article')element.offsetTop=600;return element};env.ctx.state.chatData.messages=[{id:'new-assistant',role:'assistant',content:'Une réponse nouvelle.'}];env.ctx.drawChat(env.view,()=>true,{animate:true});assert.equal(shell.scroll.scrollTop,50);assert.equal(shell.next.hidden,false);await shell.next.fire('click');assert.equal(shell.scroll.scrollTop,600);assert.equal(shell.next.hidden,true);
+});
+
+test('V10 reduced motion and reopening history render complete responses without reanimation',async()=>{
+ const timers=[],text='Un texte long et validé. '.repeat(100),data={consent:true,access:{allowed:true},quota:{remaining:100,limit:100},messages:[{id:'history-assistant',role:'assistant',content:text}],proposals:[]},env=chatFixture({setTimeout(fn){timers.push(fn);return timers.length},clearTimeout(){},matchMedia:query=>({matches:query.includes('reduced-motion')}),api:async()=>data});
+ env.ctx.state.chatData=data;env.ctx.drawChat(env.view,()=>true,{animate:true});assert.equal(env.view.querySelector('.chat-content').textContent,text);assert.equal(timers.length,0);env.ctx.matchMedia=()=>({matches:false});await env.ctx.renderChat();assert.equal(env.view.querySelector('.chat-content').textContent,text);assert.equal(timers.length,0);
+});
+
+test('V10 the real dictation adapter updates the next draft, keeps its input through refresh and ignores disposed callbacks',async()=>{
+ const instances=[];class Recognition{constructor(){instances.push(this)}start(){this.onstart()}abort(){this.aborted=true}}
+ const env=chatFixture({SpeechRecognition:Recognition}),mic=env.view.chatShell.mic,input=env.input;assert.equal(mic.disabled,false);await mic.fire('click');const recognition=instances[0],late=recognition.onresult;assert.equal(recognition.lang,'fr-FR');assert.equal(recognition.interimResults,true);
+ recognition.onresult({results:[[{transcript:'Une phrase dictée'}]]});assert.equal(input.value,'Une phrase dictée');assert.equal(env.ctx.state.chatDraft,input.value);env.ctx.drawChat(env.view,()=>true);assert.equal(env.input,input);assert.equal(env.ctx.state.chatVoice.isActive(),true);
+ input.value='Une phrase corrigée';await input.fire('input');assert.equal(recognition.aborted,true);late({results:[[{transcript:'Un ancien résultat'}]]});assert.equal(input.value,'Une phrase corrigée');
+ await mic.fire('click');const second=instances[1],stale=second.onresult;env.ctx.disposeChatInterface();assert.equal(second.aborted,true);assert.equal(env.ctx.state.chatVoice,null);stale({results:[[{transcript:'Après navigation'}]]});assert.equal(input.value,'Une phrase corrigée');assert.equal(env.ctx.state.chatDraft,'Une phrase corrigée');
+});
+
+test('V10 sending stops dictation before clearing the editor and a late voice result cannot overwrite the next draft',async()=>{
+ const instances=[];class Recognition{constructor(){instances.push(this)}start(){this.onstart()}abort(){this.aborted=true}}
+ let resolve,client;const post=new Promise(r=>resolve=r),env=chatFixture({SpeechRecognition:Recognition,api:async(path,method,payload)=>{client=payload.idempotency_key;return post}});await env.view.chatShell.mic.fire('click');const recognition=instances[0],late=recognition.onresult;recognition.onresult({results:[[{transcript:'Message dicté'}]]});const sending=env.ctx.sendChat(env.form,()=>true);assert.equal(recognition.aborted,true);assert.equal(env.input.value,'');
+ env.input.value='Brouillon suivant';await env.input.fire('input');late({results:[[{transcript:'Résultat arrivé trop tard'}]]});assert.equal(env.input.value,'Brouillon suivant');resolve({consent:true,access:{allowed:true},quota:{remaining:99,limit:100},pending_request:{id:'spoken',client_key:client,status:'running'},messages:[{id:'spoken-user',client_key:client,role:'user',content:'Message dicté',status:'running'}],proposals:[]});await sending;assert.equal(env.input.value,'Brouillon suivant');assert.equal(env.view.querySelectorAll('.chat-user').length,1);
+});
+
+test('V10 proposal availability updates without destroying its edited fields or the composer',async()=>{
+ const env=chatFixture({api:async()=>{throw new Error('Must not accept')}}),form=env.form;
+ env.ctx.state.chatData.capabilities={story_request:{allowed:false,reasons:['portrait_required']}};env.ctx.state.chatData.proposals=[{id:'story-preview',kind:'story_request',status:'pending',revision:1,payload:{requested_focus:'Une piste proposée.'}}];vm.runInContext(functionCode('drawChatProposal'),env.ctx);env.ctx.drawChat(env.view,()=>true);const proposal=env.doc.getElementById('chat-proposals').querySelector('form'),accept=proposal.querySelector('button[type=submit]');assert.equal(accept.disabled,true);assert.match(proposal.textContent,/portrait doit être analysé et à jour/);const focus=proposal.elements.requested_focus;focus.value='Mon thème édité.';await focus.fire('input');await proposal.fire('submit');assert.equal(accept.disabled,true);
+ env.ctx.state.chatData.capabilities.story_request.allowed=true;env.ctx.drawChat(env.view,()=>true);assert.equal(env.doc.getElementById('chat-proposals').querySelector('form'),proposal);assert.equal(focus.value,'Mon thème édité.');assert.equal(accept.disabled,false);assert.equal(env.form,form);
+});
+
+test('V10 personal map search stays personal until the user explicitly explores the catalogue',async()=>{
+ const env=mapFixture(),atlas=env.host.mapAtlas;assert.equal(atlas.hidden,true);assert.equal(atlas.open,false);assert.equal(env.doc.getElementById('map-overview-count').textContent,'1 piste personnelle');assert.doesNotMatch(env.doc.getElementById('map-overview-count').textContent,/repères|domaines/);
+ const search=env.doc.getElementById('map-search');search.value='autonomie';await search.fire('input');assert.equal(env.host.mapFilter.mode,'active');assert.equal(env.host.mapCards.get('autonomy').row.hidden,true);const empty=env.doc.getElementById('map-active-empty');assert.equal(empty.hidden,false);assert.equal(empty.querySelector('button').textContent,'Chercher dans les autres repères');await empty.querySelector('button').fire('click');assert.equal(env.host.mapFilter.mode,'all');assert.equal(atlas.hidden,false);assert.equal(env.host.mapCards.get('autonomy').row.hidden,false);assert.equal(search.value,'autonomie');
+});
+
+test('V10 a short personal map starts with its cards while catalogue exploration exposes the filters',async()=>{
+ const env=mapFixture();assert.equal(env.host.mapSearchField.hidden,true);assert.equal(env.host.mapFilters.hidden,true);assert.equal(env.doc.getElementById('map-results').hidden,true);
+ const explore=env.host.querySelectorAll('[data-map-mode]').find(button=>button.dataset.mapMode==='all');await explore.fire('click');assert.equal(env.host.mapSearchField.hidden,false);assert.equal(env.host.mapFilters.hidden,false);assert.equal(env.host.mapAtlas.hidden,false);
+ const personal=env.host.querySelectorAll('[data-map-mode]').find(button=>button.dataset.mapMode==='active');await personal.fire('click');assert.equal(env.host.mapSearchField.hidden,true);assert.equal(env.host.mapFilters.hidden,true);
+});
+
+test('V10 a map detail explains observation, evidence, context, hypothesis and counter-evidence in that order',()=>{
+ const env=mapFixture(),map=structuredClone(psychologyFixture);Object.assign(map.hypotheses[0],{influence:{level:'moderate',contexts:['Dans le groupe'],rationale:'Dans ce contexte décrit.',evidence:['person:p1']},citations:[{source_id:'person:p1',quote:'Mes mots exacts'},{source_id:'profile:self',quote:'Parfois je décide seul.'}]});env.ctx.drawPsychologyMap(env.host,map,()=>true);const content=env.host.mapCards.get('belong').content,classes=content.children.map(node=>node.className||''),position=name=>classes.findIndex(value=>value.split(' ').includes(name));
+ assert.ok(position('map-observation')<position('map-evidence'));assert.ok(position('map-evidence')<position('map-influence'));assert.ok(position('map-influence')<position('map-function'));assert.ok(position('map-function')<position('map-counter'));assert.ok(position('map-counter')<position('map-inquiry'));assert.ok(position('map-inquiry')<position('map-definition-more'));
+ assert.equal(content.querySelector('.map-evidence').querySelector('blockquote').textContent,'Mes mots exacts');assert.equal(content.querySelector('.map-counter').querySelector('blockquote').textContent,'Parfois je décide seul.');assert.match(content.querySelector('.map-function').textContent,/pourrait expliquer/);assert.match(content.querySelector('.map-influence').textContent,/Influence décrite : modérée/);assert.doesNotMatch(content.textContent,/\d+\s*%/);
+});
+
+test('V10 the mobile map opens one detail and returns to its list without losing a correction draft',async()=>{
+ const scrolls=[],env=mapFixture({matchMedia:query=>({matches:query.includes('max-width')}),window:{scrollY:230,scrollTo(options){scrolls.push(options)}}}),entry=env.host.mapCards.get('belong');assert.equal(env.host.dataset.mapReading,'false');await entry.row.fire('click');assert.equal(env.host.dataset.mapReading,'true');assert.equal(env.doc.activeElement,entry.title);
+ const form=entry.card.querySelector('form'),input=form.elements.text;input.value='Une nuance personnelle en cours';await input.fire('input');await env.doc.getElementById('map-back').fire('click');assert.equal(env.host.dataset.mapReading,'false');assert.equal(env.doc.activeElement,entry.row);assert.equal(scrolls[0].top,230);
+ env.ctx.drawPsychologyMap(env.host,structuredClone(psychologyFixture),()=>true);await entry.row.fire('click');assert.equal(entry.card.querySelector('form'),form);assert.equal(input.value,'Une nuance personnelle en cours');assert.equal(env.host.dataset.mapReading,'true');
+});
+
+test('V10 an outbox provider cooldown keeps the precise error and automatically enables retry without changing the next draft',async()=>{
+ const timers=new Map();let serial=0,now=Date.now(),client,answer;const env=chatFixture({Date:{now:()=>now},setTimeout(fn){timers.set(++serial,fn);return serial},clearTimeout(id){timers.delete(id)},api:async(path,method,payload)=>{if(method==='POST'){client=payload.idempotency_key;return {consent:true,access:{allowed:true},quota:{remaining:99,limit:100},pending_request:{id:'limited',client_key:client,status:'running'},messages:[{id:'limited-user',client_key:client,role:'user',content:payload.content,status:'running'}],proposals:[]}}return answer}});
+ env.input.value='Message initial';await env.input.fire('input');await env.ctx.sendChat(env.form,()=>true);
+ answer={consent:true,access:{allowed:false,reason:'provider_cooldown',retry_at:(now+30000)/1000},quota:{remaining:100,limit:100},last_request:{id:'limited',status:'failed'},last_error:{code:'provider_http_429_request',message:'Le fournisseur limite temporairement les demandes. Aucun message n’a été décompté.',action:'retry_later'},messages:[{id:'limited-user',client_key:client,role:'user',content:'Message initial',status:'failed'}],proposals:[]};
+ let [id,callback]=[...timers][0];timers.delete(id);await callback();const form=env.form,retry=env.view.querySelector('.chat-turn-state').querySelector('button');assert.equal(retry.disabled,true);assert.equal(env.input.value,'Message initial');assert.match(env.doc.getElementById('chat-status').textContent,/Le fournisseur limite temporairement les demandes\. Aucun message n’a été décompté/);assert.equal(env.ctx.state.chatSendKey,null);
+ env.input.value='Un prochain message';await env.input.fire('input');now+=31000;answer={...answer,access:{allowed:true}};[id,callback]=[...timers][0];timers.delete(id);await callback();assert.equal(env.form,form);assert.equal(env.input.value,'Un prochain message');assert.equal(retry.disabled,false);assert.equal(env.send.disabled,false);assert.equal(env.ctx.state.chatData.quota.remaining,100);
 });

@@ -78,5 +78,57 @@
   "youssef": {
     "name": "Youssef",
     "presentation": "Youssef est ingénieur en informatique et arrive à la fin d’un arrêt pour épuisement professionnel. En couple avec Léa, il traverse le deuil de son père tout en préparant un déménagement à Lyon. Réfléchi, loyal et introverti, il cherche volontiers à comprendre ses émotions par la logique, mais découvre que cette approche ne suffit pas toujours à les identifier ou à les partager. Ses histoires explorent ce passage entre analyser et ressentir, ainsi que la possibilité de trouver des mots pour une expérience qui déborde ses repères habituels."
+  },
+  "aline": {
+    "name": "Aline",
+    "presentation": "Aline prend vite les difficultés des autres en charge. Entre le magasin, son couple et l’association, elle apprend à proposer son aide sans décider à la place des autres ni s’oublier."
+  },
+  "rémi": {
+    "name": "Rémi",
+    "presentation": "Au quai logistique, Rémi perd parfois le fil entre les interruptions, les consignes et les urgences. Il cherche des appuis concrets pour commencer, transmettre et terminer sans se réduire à ses erreurs."
+  },
+  "maëlle": {
+    "name": "Maëlle",
+    "presentation": "Les horaires alternés de Maëlle déplacent le sommeil, les repas et les moments à deux. Son parcours relie les besoins de repos aux conditions réelles dans lesquelles elle travaille et vit."
+  },
+  "samira": {
+    "name": "Samira",
+    "presentation": "Samira élève son fils avec un revenu incertain. Ses histoires explorent la place des soucis matériels, la honte et les marges d’action, sans faire de la précarité un défaut personnel."
+  },
+  "éloi": {
+    "name": "Éloi",
+    "presentation": "Éloi découvre le métier de cuisinier et la vie en foyer. Les retours du chef et la comparaison aux collègues deviennent des occasions de distinguer apprendre, progresser et prouver sa valeur."
+  },
+  "inès": {
+    "name": "Inès",
+    "presentation": "Dans sa relation, Inès cherche des mots pour ses envies, ses limites et son besoin d’espace. Ses histoires explorent le consentement et la confiance sans transformer chaque différence en problème."
+  },
+  "vincent": {
+    "name": "Vincent",
+    "presentation": "Vincent partage son quotidien avec Cédric, dont la mobilité a changé. Il cherche comment articuler l’aide, les décisions de chacun, la vie de couple et des relais qui tiennent dans la durée."
+  },
+  "salomé": {
+    "name": "Salomé",
+    "presentation": "À l’atelier et dans les rencontres, Salomé choisit ce qu’elle souhaite montrer ou expliquer. Non binaire, elle utilise des accords féminins et garde une identité plus large que le regard posé sur elle."
+  },
+  "malik": {
+    "name": "Malik",
+    "presentation": "Malik travaille dans la maintenance des tramways et entretient des liens dans plusieurs pays. Il compose avec différentes appartenances, des attentes familiales et une relation à distance."
+  },
+  "odile": {
+    "name": "Odile",
+    "presentation": "Retraitée, Odile vit seule par choix et traverse la mort de sa sœur. Souvenirs, liens de quartier et projets ordinaires trouvent une place qui varie, sans étapes imposées au deuil."
+  },
+  "anaïs": {
+    "name": "Anaïs",
+    "presentation": "Anaïs vit avec une polyarthrite diagnostiquée et suivie médicalement. Au travail et avec ses proches, elle ajuste ses projets à des capacités variables sans résumer sa personne à sa maladie."
+  },
+  "baptiste": {
+    "name": "Baptiste",
+    "presentation": "Au travail comme en famille, Baptiste doit arbitrer entre plusieurs choses qui comptent. Il apprend à décider avec une information incomplète et à réviser un choix sans condamner celui qu’il était."
+  },
+  "élise": {
+    "name": "Élise",
+    "presentation": "Élise s’appuie sur ses amitiés et le jardin partagé pour composer avec les imprévus. Ses histoires explorent des ressources ordinaires sans imposer la bonne humeur ou l’adaptation à tout prix."
   }
 }

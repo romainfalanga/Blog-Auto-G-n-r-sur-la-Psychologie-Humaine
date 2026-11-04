@@ -79,6 +79,55 @@ function narrativeInstruction(value,{kind,key,before,quote,context,proposalCount
  return selected?.mode;
 }
 const appended=(before,chunk)=>before===chunk||before.endsWith('\n\n'+chunk)?before:before+(before?'\n\n':'')+chunk;
+const welcomeMessage=capabilities=>{
+ const profile=capabilities.profile||{},name=profile.first_name;
+ return {id:'ambre-welcome-v1',role:'assistant',content:`${name?'Bonjour '+name+'.':'Bonjour.'} Je suis Ambre, votre psychologue IA. Je peux vous aider à comprendre une situation, explorer plusieurs explications et repérer ce qui change selon le contexte, sans poser de diagnostic.
+
+Je peux suggérer des lectures publiques et préparer des ajouts ou corrections dans votre portrait, vos proches et votre ligne de vie. Vous vérifiez et acceptez chaque proposition avant tout enregistrement.
+
+${profile.has_information?'Je m’appuierai sur les informations déjà renseignées, que vous pouvez préciser ou corriger.':'Vous pouvez commencer par renseigner À propos de moi, vos proches ou vos moments de vie.'}
+
+${capabilities.story_request?.allowed?'Je peux aussi proposer une histoire avec votre personnage, après votre confirmation explicite, dans le quota de sept par semaine.':'Une histoire personnalisée nécessite dix lectures aimées, un portrait complet, un personnage prêt, un accès disponible et une place dans le quota de sept.'} Qu’aimeriez-vous comprendre en premier ?`};
+};
+function unavailableActionMessage(capabilities,kind,hasReadings,brief=false){
+ const story=capabilities.story_request||{},reasons=story.reasons||[],missing=[];
+ if(kind==='story_request'){
+  if(reasons.includes('likes_required')){const count=Math.max(0,10-Number(story.likes_count||0));missing.push(`${count} lecture${count>1?'s':''} supplémentaire${count>1?'s':''} à aimer pour atteindre dix`);}
+  if(reasons.includes('self_description_required'))missing.push('une présentation personnelle à renseigner');
+  if(reasons.includes('portrait_required'))missing.push('un portrait complet et à jour');if(reasons.includes('character_not_ready'))missing.push('un personnage personnel prêt');
+  if(reasons.includes('quota_exhausted'))missing.push('le renouvellement du quota de sept histoires');if(reasons.includes('request_in_progress'))missing.push('la fin de l’histoire déjà en préparation');
+  if(reasons.includes('generation_budget'))missing.push('du budget de génération disponible');if(reasons.includes('provider_cooldown'))missing.push('la fin de l’indisponibilité temporaire du fournisseur');
+  if(reasons.includes('request_limit'))missing.push('la fin de la limite quotidienne de demandes');if(reasons.some(r=>['subscription_required','provider_missing','generation_paused'].includes(r)))missing.push('un accès et un service de génération disponibles');
+  return 'Je ne peux pas proposer de nouvelle histoire personnalisée actuellement'+(missing.length?' : il manque '+missing.join(', ')+'.':'.')+' Aucune nouvelle histoire n’a été demandée.'+(brief?'':(hasReadings?' Voici plutôt des lectures existantes à explorer.':' Nous pouvons poursuivre la réflexion ici.')+' Quel aspect de votre situation souhaitez-vous approfondir ?');
+ }
+ return 'Cette proposition ne peut pas être enregistrée actuellement : '+(kind==='memory_append'?'la mémoire de précisions est pleine.':kind==='person_create'?'la limite de cinquante proches est atteinte.':kind==='life_event_create'?'la limite de cinq cents moments de vie est atteinte.':'aucun élément existant ne correspond à cette modification.')+' Aucun changement n’a été enregistré.'+(hasReadings?' Vous pouvez explorer une lecture existante.':' Vous pouvez préciser votre demande ici.');
+}
+function guardUnavailableStoryReply(content,explanation){
+ // The provider can promise creation in prose without returning a proposal.
+ // Correct only that sentence; public recommendations and useful reflection
+ // remain intact. A real future prerequisite is different from « si vous voulez ».
+ const creation=/\b(?:je|j|nous)\s+(?:(?:vous|te|t|en|le|la|l)\s+)*(?:(?:peux|pourrais|pourrai|vais|ai|pouvons|pourrons|allons|avons|viens de|propose de)\s+)?(?:(?:vous|te|t|en|le|la|l|deja|bien)\s+)*(?:(?:propose(?:r)?|suggere(?:r)?)\s+de\s+)?(?:(?:vous|te)\s+)?(?:cree(?:r)?|genere(?:r)?|redige(?:r)?|ecri(?:re|s|t|ve)|prepare(?:r)?|raconte(?:r)?|lance(?:r)?|produi(?:re|s|t)|compose(?:r)?|demande(?:r)?|imagine(?:r)?)\b[^.!?;]{0,100}\b(?:articles?|recits?|episodes?|histoires?|suite)\b/;
+ const personalOffer=/\b(?:je\s+(?:(?:peux|pourrais|pourrai|vais)\s+)?(?:vous\s+)?propose(?:r)?|souhaitez vous|voulez vous)\b[^.!?;]{0,35}\b(?:article|recit|episode|histoire)\b[^.!?;]{0,30}\b(?:personnalise[es]*|sur mesure|pour vous|avec votre personnage)\b/;
+ const publicReading=/\b(?:public|publique|publics|publiques|catalogue|existant[es]*|deja (?:ecrit[es]*|publie[es]*|disponible[es]*))\b/;
+ const offersCreation=value=>creation.test(value)||(personalOffer.test(value)&&!publicReading.test(value));
+ const completed=/\b(?:votre|ton|ta|le|la|l|un nouvel|une nouvelle|votre nouvel|votre nouvelle)\s+(?:article|recit|episode|histoire|suite)\s+(?:personnalise[es]*\s+)?(?:est|a ete|vient d etre)\s+(?:(?:bien|deja|maintenant)\s+)?(?:cree[es]*|genere[es]*|redige[es]*|ecrit[es]*|prepare[es]*|publie[es]*|pret[es]*|en cours de (?:creation|generation|preparation))\b/;
+ const prerequisite=/\b(?:lorsque|quand|une fois|apres|des que|si|a condition)\b[^.!?;]{0,130}\b(?:conditions? (?:seront |sont |soient )?remplies?|dix|10|portrait|personnage|quota|abonnement|acces|service de generation)\b/;
+ const future=/\b(?:pourrai[st]?|pourrons|pourrions|pourrez|pourra|sera|seront|aurez|aurai|serait|seraient)\b/;
+ let corrected=false;
+ return content.split(/(?<=[.!?])(?=\s|$)|(?<=\n)/u).map(sentence=>{
+  const normalized=intentText(sentence).replace(/[-‐‑–—]/g,' '),offer=offersCreation(normalized),success=completed.test(normalized)&&!publicReading.test(normalized);
+  if(!offer&&!success)return sentence;
+  // A later promise in the same sentence must not hide behind an earlier
+  // conditional clause (e.g. « … quand il sera prêt ; je crée votre récit »).
+  const clauses=normalized.split(/;|\bmais\b/),offending=clauses.some(clause=>{
+   const claimed=offersCreation(clause)||(success&&completed.test(clause));
+   return claimed&&!(prerequisite.test(clause)&&future.test(clause));
+  });
+  if(!offending)return sentence;
+  const replacement=corrected?'':explanation;corrected=true;
+  return sentence.match(/^\s*/)[0]+replacement;
+ }).join('').trim();
+}
 function excerpt(value,max,tail=0,start=0){
  const text=String(value||'');if(text.length<=max)return {text,excerpt:false};
  const end=Math.min(text.length,start+max-tail),tailStart=tail?Math.max(end,text.length-tail):end;
@@ -91,6 +140,7 @@ export function createChatBackend({error,json,text,body,now,random,personal}) {
  const first=(env,sql,...args)=>stmt(env,sql,...args).first();
  const all=async(env,sql,...args)=>(await stmt(env,sql,...args).all()).results;
  const run=(env,sql,...args)=>stmt(env,sql,...args).run();
+ const capabilities=(env,userId)=>personal.companionCapabilities(env,userId);
  const selectFields=(v,keys)=>Object.fromEntries(keys.filter(k=>Object.hasOwn(v,k)).map(k=>[k,v[k]]));
  function object(v){if(!v||typeof v!=='object'||Array.isArray(v))fail(400,'Contenu de proposition invalide.','invalid_proposal');return v;}
  function bounded(v,max,required=false){if(typeof v!=='string'||v.length>max||required&&!v.trim())fail(400,'Texte invalide ou trop long.','invalid_input');return v.trim();}
@@ -117,10 +167,11 @@ export function createChatBackend({error,json,text,body,now,random,personal}) {
  async function state(env,userId){
   await sweep(env,userId);
   const s=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',userId),settings=await first(env,'SELECT * FROM chat_settings WHERE user_id=?',userId),q=await quota(env,userId);
-  const turns=await all(env,'SELECT id,content,response,status,error_code,lease_until,created_at FROM chat_turns WHERE user_id=? AND purged=0 ORDER BY rowid DESC LIMIT 60',userId);turns.reverse();
-  const messages=turns.flatMap(t=>[...(t.content?[{id:t.id+'-user',role:'user',content:t.content,created_at:t.created_at,status:t.status}]:[]),...(t.response?[{id:t.id+'-assistant',role:'assistant',...replyData(t.response),created_at:t.created_at}]:[])]);
+  const turns=await all(env,'SELECT id,idempotency_key,content,response,status,error_code,lease_until,created_at FROM chat_turns WHERE user_id=? AND purged=0 ORDER BY rowid DESC LIMIT 60',userId);turns.reverse();
+  const messages=turns.flatMap(t=>[...(t.content?[{id:t.id+'-user',role:'user',client_key:t.idempotency_key,content:t.content,created_at:t.created_at,status:t.status}]:[]),...(t.response?[{id:t.id+'-assistant',role:'assistant',...replyData(t.response),created_at:t.created_at}]:[])]);
+  const available=await capabilities(env,userId);
   const retryAt=await providerCooldown(env),reason=!platformAccess(env,s,now()).allowed?'subscription_required':!env.OPENROUTER_API_KEY?'provider_missing':['true','1','yes'].includes(String(env.GENERATION_PAUSED||'').toLowerCase())?'generation_paused':!settings?.consent?'consent_required':q.remaining===0?'quota_exhausted':retryAt?'provider_cooldown':null;
-  return {messages,proposals:(await all(env,'SELECT * FROM chat_proposals WHERE user_id=? ORDER BY rowid DESC LIMIT 60',userId)).map(proposalRow),quota:q,access:{...platformAccess(env,s,now()),allowed:!reason,reason,...(retryAt?{retry_at:retryAt,retry_after_seconds:retryAt-now()}:{})},consent:Boolean(settings?.consent),pending_request:await first(env,"SELECT id,status FROM chat_turns WHERE user_id=? AND status='running'",userId),last_request:turns.length?{id:turns.at(-1).id,status:turns.at(-1).status,error_code:turns.at(-1).error_code}:null,last_error:turns.at(-1)?.status==='failed'?failureInfo(turns.at(-1)):null};
+  return {messages,capabilities:available,welcome:messages.length?null:welcomeMessage(available),proposals:(await all(env,'SELECT * FROM chat_proposals WHERE user_id=? ORDER BY rowid DESC LIMIT 60',userId)).map(proposalRow),quota:q,access:{...platformAccess(env,s,now()),allowed:!reason,reason,...(retryAt?{retry_at:retryAt,retry_after_seconds:retryAt-now()}:{})},consent:Boolean(settings?.consent),pending_request:await first(env,"SELECT id,status,idempotency_key AS client_key FROM chat_turns WHERE user_id=? AND status='running'",userId),last_request:turns.length?{id:turns.at(-1).id,status:turns.at(-1).status,error_code:turns.at(-1).error_code}:null,last_error:turns.at(-1)?.status==='failed'?failureInfo(turns.at(-1)):null};
  }
  function normalized(kind,payload,before={}){
   object(payload);if(kind==='self_profile_patch')payload=Object.fromEntries(Object.entries(payload).filter(([,v])=>v!==null));
@@ -255,13 +306,18 @@ export function createChatBackend({error,json,text,body,now,random,personal}) {
     if(length>budget)continue;
     selected.unshift({role:'user',content:user.text},{role:'assistant',content:assistant.text});budget-=length;includedTurns++;if(user.excerpt||assistant.excerpt)excerptedTurns++;
    }
-   const danger=immediateDanger(turn.content),candidates=danger?[]:await readingCandidates(env,userId,turn.content,context),promptData=promptContext(context,turn.content);
+   const availableBefore=await capabilities(env,userId),danger=immediateDanger(turn.content),candidates=danger?[]:await readingCandidates(env,userId,turn.content,context),promptData=promptContext(context,turn.content);let catalogueLookup=null;
+   promptData.capabilities=availableBefore;
+   if(!danger&&typeof personal.readingLookup==='function')try{
+    const lookup=personal.readingLookup(turn.content,{limit:6}),eligible=new Set(candidates.map(c=>c.id));catalogueLookup=lookup;
+    promptData.catalogue_lookup={...lookup,matches:lookup.matches.map(({url,...item})=>({...item,eligible_for_suggestion:eligible.has(item.id)}))};
+   }catch{promptData.catalogue_lookup={status:'unavailable',absence_proven:false,matches:[]};}
    promptData.reading_candidates=candidates.map(({id,title,character,reason})=>({id,title,character,reason}));
    const totalTurns=Number(history[0]?.total||0);
    promptData.conversation_coverage={included_turns:includedTurns,total_turns:totalTurns,excerpted_turns:excerptedTurns,omitted_turns:totalTurns-includedTurns,truncated:includedTurns<totalTurns||excerptedTurns>0};
    while(JSON.stringify(promptData).length>16000){
     promptData.truncated=true;const removable=promptData.sources.findLastIndex(s=>s.type!=='memory');
-    if(removable>=0)promptData.sources.splice(removable,1);else if(promptData.events.length)promptData.events.pop();else if(promptData.people.length)promptData.people.pop();else if(promptData.portrait)promptData.portrait=null;else break;
+    if(removable>=0)promptData.sources.splice(removable,1);else if(promptData.events.length)promptData.events.pop();else if(promptData.people.length)promptData.people.pop();else if(promptData.portrait)promptData.portrait=null;else if(promptData.catalogue_lookup?.matches.length>1){promptData.catalogue_lookup.matches.pop();promptData.catalogue_lookup.matches_truncated=true;}else break;
    }
    promptData.coverage={...promptData.coverage,included:promptData.sources.length,excerpted:promptData.sources.filter(s=>s.excerpt).length};
    const system=buildCompanionSystemPrompt({query:turn.content,sources:promptData.sources,hypotheses:promptData.psychological_hypotheses})+'\n'+contract+'\n'+readingContract;
@@ -275,7 +331,8 @@ export function createChatBackend({error,json,text,body,now,random,personal}) {
     if(!result.meta.changes){const valid=await first(env,`SELECT 1 valid WHERE ${guarded()}`,...args());throw Object.assign(new Error('Budget ou contexte indisponible'),{code:valid?'generation_budget':'context_changed'});}
    };
    const readingsSchema={...CHAT_RESPONSE_SCHEMA.properties.reading_suggestions,...(!candidates.length?{maxItems:0}:{}),items:objectSchema({id:candidates.length?{type:'string',enum:candidates.map(v=>v.id)}:stringSchema,reason:stringSchema})};
-   const schema={...CHAT_RESPONSE_SCHEMA,properties:{...CHAT_RESPONSE_SCHEMA.properties,reading_suggestions:readingsSchema}};
+   const proposalSchema=CHAT_RESPONSE_SCHEMA.properties.proposals,allowedKinds=kinds.filter(kind=>availableBefore[kind]?.allowed);
+   const schema={...CHAT_RESPONSE_SCHEMA,properties:{...CHAT_RESPONSE_SCHEMA.properties,reading_suggestions:readingsSchema,proposals:{...proposalSchema,items:{...proposalSchema.items,properties:{...proposalSchema.items.properties,kind:{type:'string',enum:allowedKinds}}}}}};
    const primary=env.OPENROUTER_CHAT_MODEL||'anthropic/claude-sonnet-5.5',fallback=env.OPENROUTER_CHAT_FALLBACK_MODEL;
    let raw,model=primary;
    for(let attempt=0;attempt<2;attempt++){
@@ -312,10 +369,25 @@ export function createChatBackend({error,json,text,body,now,random,personal}) {
    await run(env,'UPDATE provider_budgets SET input_tokens=input_tokens+?,output_tokens=output_tokens+?,observed_cost=observed_cost+? WHERE user_id=? AND week_start=?',input,outputTokens,cost,userId,week);
    if(typeof content!=='string'||content.length>24000||raw.choices[0].finish_reason==='length')throw new Error('provider_error');
    let output;try{output=JSON.parse(content.replace(/^```(?:json)?\s*|\s*```$/g,''));}catch{throw new Error('invalid_response');}
-   const response=bounded(output.content,12000,true);
+   let response=bounded(output.content,12000,true);
    if(!Array.isArray(output.proposals)||output.proposals.length>3)throw new Error('invalid_response');
-   const readings=danger?[]:pickedReadings(output.reading_suggestions,candidates),proposals=[];
-   for(const v of (danger?[]:output.proposals))proposals.push(await makeProposal(env,userId,turn.id,v,turn.content,context,output.proposals.length));
+   let readings=danger?[]:pickedReadings(output.reading_suggestions,candidates);const proposals=[],availableNow=await capabilities(env,userId),blocked=[];
+   for(const v of (danger?[]:output.proposals)){
+    if(kinds.includes(v?.kind)&&availableNow[v.kind]?.allowed===false){blocked.push(v.kind);continue;}
+    proposals.push(await makeProposal(env,userId,turn.id,v,turn.content,context,output.proposals.length));
+   }
+   const storyText=intentText(turn.content),explicitStory=/\b(?:nouvelle histoire|histoire personnalisee|(?:genere\w*|cree\w*|raconte\w*)[^.!?]{0,35}\bhistoire|histoire[^.!?]{0,25}\bmon personnage)\b/.test(storyText)&&!/\bpas (?:de |d )?(?:nouvelle histoire|histoire personnalisee)|\b(?:ne|n)\b.{0,20}\b(?:genere\w*|cree\w*|raconte\w*)\b.{0,15}\b(?:pas|jamais|plus)\b/.test(storyText);
+   if(!danger&&(blocked.length||explicitStory&&!availableNow.story_request.allowed)){
+    if(!readings.length)readings=candidates.slice(0,2);
+    response=unavailableActionMessage(availableNow,blocked.includes('story_request')||explicitStory?'story_request':blocked[0],readings.length>0);
+   }else if(!danger&&catalogueLookup?.matches.length&&/\b(?:personnages?|articles?|lectures?|catalogue|recits?|histoires?)\b/.test(storyText)&&!/\b(?:eviter|exclure|sans|pas|aucun)\b/.test(storyText)&&/\b(?:aucun(?:e)?|pas de|pas d|n existe pas|ne connais pas|ne dispose pas|ne contient pas)\b/.test(intentText(response))){
+    // A provider cannot turn a small recommendation set into a false claim
+    // that the complete public catalogue contains no matching character.
+    const matches=catalogueLookup.matches.slice(0,2),eligible=new Set(candidates.map(c=>c.id));
+    if(!readings.length)readings=candidates.filter(c=>matches.some(m=>m.id===c.id)).slice(0,2);
+    response='Le catalogue contient notamment '+matches.map(m=>'« '+m.title+' »'+(m.character?' avec '+m.character:'')).join(' et ')+'. Ce sont des récits fictifs autour de thèmes proches, sans diagnostic de personnage ou de lecteur.'+(matches.some(m=>eligible.has(m.id))?' Vous pouvez explorer les lectures proposées ci-dessous.':' Leur existence ne modifie pas vos préférences de lecture enregistrées.')+' Quel aspect de ce thème souhaitez-vous explorer ?';
+   }
+   if(!danger&&availableNow.story_request.allowed===false)response=guardUnavailableStoryReply(response,unavailableActionMessage(availableNow,'story_request',readings.length>0,true));
    const envelope=JSON.stringify({companion_reply:1,content:response,reading_suggestions:readings});
    const statements=proposals.map(p=>stmt(env,`INSERT INTO chat_proposals(id,user_id,turn_id,kind,target_id,expected_revision,binding,payload,before_data,summary) SELECT ?,?,?,?,?,?,?,?,?,? WHERE ${guarded()}`,p.id,userId,turn.id,p.kind,p.target,p.expected,JSON.stringify(p.binding),JSON.stringify(p.payload),JSON.stringify(p.before),p.summary,...args()));
    statements.push(stmt(env,`UPDATE chat_turns SET status='completed',credit_status='consumed',response=?,lease_token=NULL,lease_until=0,input_tokens=?,output_tokens=?,observed_cost=? WHERE id=? AND ${guarded()}`,envelope,input,outputTokens,cost,turn.id,...args()));
@@ -331,6 +403,8 @@ export function createChatBackend({error,json,text,body,now,random,personal}) {
  if(p.kind==='story_request'){
   // The story service is independently idempotent. Its durable key reconciles a
   // crash between successful enqueue and marking this proposal accepted.
+  const existing=await first(env,"SELECT id FROM story_requests WHERE user_id=? AND idempotency_key=?",userId,'chat-'+id),available=await capabilities(env,userId);
+  if(!existing&&!available.story_request.allowed){const reason=available.story_request.reasons[0]||'character_not_ready';fail(['quota_exhausted','request_limit','generation_budget'].includes(reason)?429:['subscription_required'].includes(reason)?403:['provider_missing','generation_paused','provider_cooldown'].includes(reason)?503:409,unavailableActionMessage(available,'story_request',false),reason);}
   if(!p.target_id)fail(409,'Votre personnage doit être préparé.','character_not_ready');
   if(p.status==='applying'&&p.payload!==serialized)fail(409,'Cette demande est déjà en préparation.','proposal_in_progress');
   const claim=await run(env,"UPDATE chat_proposals SET status='applying',payload=? WHERE id=? AND user_id=? AND revision=? AND status='pending'",serialized,id,userId,data.revision);if(!claim.meta.changes&&p.status!=='applying')fail(409,'Cette proposition a changé.','revision_conflict');
@@ -348,7 +422,7 @@ export function createChatBackend({error,json,text,body,now,random,personal}) {
  else{const cols=Object.keys(merged).filter(k=>k!=='people_ids'),values=cols.map(k=>merged[k]),hash=await contextHash(serialized);if(p.kind.endsWith('_create'))statements.push(stmt(env,`INSERT INTO ${table}(id,user_id,creation_id,payload_hash,${cols.join(',')}) SELECT ?,?,?,?,${cols.map(()=>'?').join(',')} WHERE ${guard}`,p.target_id,userId,'chat-'+id,hash,...values,...args));else statements.push(stmt(env,`UPDATE ${table} SET ${cols.map(k=>k+'=?').join(',')},payload_hash=?,revision=revision+1,updated_at=CURRENT_TIMESTAMP WHERE id=? AND user_id=? AND ${guard}`,...values,hash,p.target_id,userId,...args));statements.push(stmt(env,`UPDATE profiles SET version=version+1 WHERE user_id=? AND changes()>0 AND ${guard}`,userId,...args));if(table==='life_events'){statements.push(stmt(env,`DELETE FROM life_event_people WHERE event_id=? AND user_id=? AND ${guard}`,p.target_id,userId,...args));statements.push(stmt(env,`INSERT INTO life_event_people(event_id,person_id,user_id) SELECT ?,value,? FROM json_each(?) WHERE ${guard}`,p.target_id,userId,JSON.stringify(merged.people_ids),...args));}}
  statements.push(stmt(env,`UPDATE chat_proposals SET status='accepted',revision=revision+1,apply_token=NULL,result_json=? WHERE id=? AND user_id=? AND ${guard}`,JSON.stringify({target_id:p.target_id,kind:p.kind}),id,userId,...args));const result=await env.DB.batch(statements);if(!result[0].meta.changes)fail(409,'Les données ont changé depuis cette proposition. Rechargez-les avant de réessayer.','revision_conflict');await personal.sourcesChanged(env,userId,ctx);return json({ok:true,...await state(env,userId)});
  }
- async function exportData(env,userId){return {chat_consent:Boolean((await first(env,'SELECT consent FROM chat_settings WHERE user_id=?',userId))?.consent),chat_messages:(await all(env,'SELECT id,content,response,status,created_at FROM chat_turns WHERE user_id=? AND purged=0 ORDER BY rowid',userId)).flatMap(t=>[...(t.content?[{id:t.id+'-user',role:'user',content:t.content,status:t.status,created_at:t.created_at}]:[]),...(t.response?[{id:t.id+'-assistant',role:'assistant',...replyData(t.response),created_at:t.created_at}]:[])]),chat_proposals:(await all(env,'SELECT * FROM chat_proposals WHERE user_id=? ORDER BY created_at,id',userId)).map(proposalRow)};}
+ async function exportData(env,userId){return {chat_consent:Boolean((await first(env,'SELECT consent FROM chat_settings WHERE user_id=?',userId))?.consent),chat_messages:(await all(env,'SELECT id,idempotency_key,content,response,status,created_at FROM chat_turns WHERE user_id=? AND purged=0 ORDER BY rowid',userId)).flatMap(t=>[...(t.content?[{id:t.id+'-user',role:'user',client_key:t.idempotency_key,content:t.content,status:t.status,created_at:t.created_at}]:[]),...(t.response?[{id:t.id+'-assistant',role:'assistant',...replyData(t.response),created_at:t.created_at}]:[])]),chat_proposals:(await all(env,'SELECT * FROM chat_proposals WHERE user_id=? ORDER BY created_at,id',userId)).map(proposalRow)};}
  async function routes(request,env,user,path,url,ctx){if(!path.startsWith('/api/chat'))return null;const method=request.method;if(path==='/api/chat'&&method==='GET')return json(await state(env,user.id));if(path==='/api/chat/messages'&&method==='POST')return send(request,env,user,ctx);if(path==='/api/chat/consent'&&method==='PUT'){const data=await body(request,1000);if(typeof data.accepted!=='boolean')fail(400,'Votre choix explicite est requis.','invalid_consent');await env.DB.batch([stmt(env,'INSERT INTO chat_settings(user_id,consent) VALUES(?,?) ON CONFLICT(user_id) DO UPDATE SET consent=excluded.consent,revision=revision+CASE WHEN consent!=excluded.consent THEN 1 ELSE 0 END,updated_at=CURRENT_TIMESTAMP',user.id,Number(data.accepted)),...(!data.accepted?[stmt(env,"UPDATE chat_turns SET status='failed',credit_status='released',lease_token=NULL,error_code='consent_withdrawn' WHERE user_id=? AND status='running'",user.id)]:[])]);return json(await state(env,user.id));}if(path==='/api/chat'&&method==='DELETE'){await body(request,1000);await env.DB.batch([stmt(env,'INSERT INTO chat_settings(user_id,consent) VALUES(?,0) ON CONFLICT(user_id) DO UPDATE SET consent=0,revision=revision+1,updated_at=CURRENT_TIMESTAMP',user.id),stmt(env,"UPDATE chat_turns SET content='',response='',purged=1,status=CASE WHEN status='running' THEN 'failed' ELSE status END,credit_status=CASE WHEN credit_status='reserved' THEN 'released' ELSE credit_status END,lease_token=NULL WHERE user_id=?",user.id),stmt(env,'DELETE FROM chat_proposals WHERE user_id=?',user.id)]);return json({...await state(env,user.id),retained:'Les informations déjà acceptées dans votre profil, vos proches et votre ligne de vie sont conservées.'});}let match=path.match(/^\/api\/chat\/proposals\/([\w-]+)\/(accept|reject)$/);if(match&&method==='POST'){const data=await body(request,45000);if(match[2]==='accept')return accept(env,user.id,match[1],data,ctx);const p=await first(env,'SELECT * FROM chat_proposals WHERE id=? AND user_id=?',match[1],user.id);if(!p)fail(404,'Proposition introuvable.','not_found');if(p.status==='rejected')return json(await state(env,user.id));const r=await run(env,"UPDATE chat_proposals SET status='rejected',revision=revision+1 WHERE id=? AND user_id=? AND revision=? AND status='pending'",match[1],user.id,Number.isInteger(data.revision)?data.revision:-1);if(!r.meta.changes)fail(409,'Cette proposition a changé.','revision_conflict');return json(await state(env,user.id));}match=path.match(/^\/api\/chat\/requests\/([\w-]+)$/);if(match&&method==='GET'){const r=await first(env,'SELECT id,status,error_code FROM chat_turns WHERE id=? AND user_id=?',match[1],user.id);if(!r)fail(404,'Demande introuvable.','not_found');return json({request:r,...await state(env,user.id)});}return null;}
  return {routes,exportData,quota};
 }

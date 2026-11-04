@@ -19,6 +19,8 @@ jobs:
       - run: pip install -r scripts/requirements.txt
       - run: node scripts/build_navigation.mjs --check
       - run: node scripts/build_psychology_catalog.mjs --check
+      - run: python scripts/check_editorial_pack.py
+      - run: python scripts/integrate_editorial_pack.py --check
       - run: node --test tests/*.test.cjs
       - run: npm --prefix journal test
       - run: python -m unittest discover -s journal/tests -p 'test_personal*.py'
