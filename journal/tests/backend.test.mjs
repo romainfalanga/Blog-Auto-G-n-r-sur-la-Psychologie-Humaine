@@ -16,7 +16,7 @@ const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').r
 const {default:worker,passwordHash,constantEqual,verifyStripeSignature,validateClaims,activeSubscription,claimJobs,completeJob,proxyJobLLM,failJob,runGenerationBatch,refreshUserPortrait}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));
 function database({legacy=false,v2=false}={}) {
  const db=new DatabaseSync(':memory:');
- for(const migration of ['0001.sql','0002_inspirations.sql',...(!legacy?['0003_likes_portraits.sql','0004_recommendations_free_portraits.sql','0005_personal_context_characters.sql','0006_recommendation_exposures.sql',...(!v2?['0007_self_profile_single_character.sql']:[]),'0008_billing_trial.sql','0009_private_companion.sql','0010_requested_focus.sql']:[])]) db.exec(readFileSync(new URL('../migrations/'+migration,import.meta.url),'utf8'));
+ for(const migration of ['0001.sql','0002_inspirations.sql',...(!legacy?['0003_likes_portraits.sql','0004_recommendations_free_portraits.sql','0005_personal_context_characters.sql','0006_recommendation_exposures.sql',...(!v2?['0007_self_profile_single_character.sql']:[]),'0008_billing_trial.sql','0009_private_companion.sql','0010_requested_focus.sql','0011_native_portrait_candidate.sql']:[])]) db.exec(readFileSync(new URL('../migrations/'+migration,import.meta.url),'utf8'));
  for(const example of examples) db.prepare('INSERT INTO public_examples(id,body) VALUES(?,?)').run(example.id,'Canonical body: '+example.title);
  function prepare(sql){let params=[];return {bind(...v){params=v;return this;},async first(){return db.prepare(sql).get(...params)||null;},async all(){return {results:db.prepare(sql).all(...params)};},async run(){const r=db.prepare(sql).run(...params);return {meta:{changes:r.changes}};}};}
  let queue=Promise.resolve();return {raw:db,prepare,batch(statements){const task=queue.then(async()=>{db.exec('BEGIN');try{const r=[];for(const s of statements)r.push(await s.run());db.exec('COMMIT');return r;}catch(e){db.exec('ROLLBACK');throw e;}});queue=task.catch(()=>{});return task;}};
@@ -509,13 +509,28 @@ test('native refresh defers large source sets without attempts, free-start quota
  const pythonJob=await claim(env);assert.equal(pythonJob.id,pending.id);assert.equal(pythonJob.sources.length,51);assert.equal(pythonJob.attempts,1);
 });
 
-test('native HTTP budget spans both model stages and a failed fast attempt is retried by the longer cron runner',async t=>{
+test('native HTTP budget persists a candidate and resumes only its verification after a timeout',async t=>{
  const env={DB:database(),OPENROUTER_API_KEY:'mock-provider',FREE_ACCESS_ENABLED:'true'},a=await register(env);await addEvent(env,a);
  const originalFetch=globalThis.fetch,originalNow=Date.now;let elapsed=0,calls=0;Date.now=()=>originalNow()+elapsed;t.after(()=>{globalThis.fetch=originalFetch;Date.now=originalNow;});
  globalThis.fetch=async(_url,options)=>{calls++;const input=JSON.parse(JSON.parse(options.body).messages.at(-1).content);if(input.claims)return new Response(JSON.stringify({choices:[{finish_reason:'stop',message:{content:JSON.stringify({checks:input.claims.map(c=>({path:c.path,supported:true}))})}}]}));const snapshot=await loadContext(env,a.user.id);if(calls===1)elapsed=23000;return new Response(JSON.stringify({choices:[{finish_reason:'stop',message:{content:JSON.stringify({...portraitV2(snapshot),psychological_map:[]})}}]}));};
  const failed=await refreshUserPortrait(env,a.user.id);assert.equal(failed.failed,1);assert.equal(calls,1);assert.equal(env.DB.raw.prepare('SELECT count(*) n FROM user_portraits').get().n,0);
  const pending=env.DB.raw.prepare("SELECT * FROM journal_jobs WHERE user_id=? AND status='pending'").get(a.user.id);assert.equal(pending.attempts,1);assert.ok(pending.lease_until<=Math.floor(Date.now()/1000)+30);
  elapsed=0;env.DB.raw.prepare('UPDATE journal_jobs SET lease_until=0 WHERE id=?').run(pending.id);
- const fast=await refreshUserPortrait(env,a.user.id);assert.equal(fast.claimed,0);assert.equal(calls,1);
- const recovered=await runGenerationBatch(env);assert.equal(recovered.completed,1);assert.equal(calls,3);assert.equal(env.DB.raw.prepare('SELECT analyzed_version FROM user_portraits WHERE user_id=?').get(a.user.id).analyzed_version,versionOf(env,a));
+ assert.ok(pending.native_candidate);const fast=await refreshUserPortrait(env,a.user.id);assert.equal(fast.completed,1);assert.equal(calls,2);assert.equal(env.DB.raw.prepare('SELECT native_candidate FROM journal_jobs WHERE id=?').get(pending.id).native_candidate,null);
+ const recovered=await runGenerationBatch(env);assert.equal(recovered.completed,0);assert.equal(calls,2);assert.equal(env.DB.raw.prepare('SELECT analyzed_version FROM user_portraits WHERE user_id=?').get(a.user.id).analyzed_version,versionOf(env,a));
+});
+
+
+test('native portrait model uses its own binding and omits unsupported temperature',async t=>{
+ const env={DB:database(),OPENROUTER_API_KEY:'mock-provider',FREE_ACCESS_ENABLED:'true',OPENROUTER_PORTRAIT_MODEL:'anthropic/claude-sonnet-5.5'},a=await register(env);await addEvent(env,a);
+ const original=globalThis.fetch;t.after(()=>{globalThis.fetch=original});let calls=0;
+ globalThis.fetch=async(_url,options)=>{calls++;const body=JSON.parse(options.body);assert.equal(body.model,'anthropic/claude-sonnet-5.5');assert.equal(Object.hasOwn(body,'temperature'),false);const input=JSON.parse(body.messages.at(-1).content),result=input.claims?{checks:input.claims.map(c=>({path:c.path,supported:true}))}:{...portraitV2(await loadContext(env,a.user.id)),psychological_map:[]};return new Response(JSON.stringify({choices:[{finish_reason:'stop',message:{content:JSON.stringify(result)}}]}));};
+ const result=await runGenerationBatch(env);assert.equal(result.completed,1);assert.equal(calls,2);
+});
+
+test('source edits clear unpublished native portrait candidates',async()=>{
+ const env={DB:database()},a=await register(env);await addEvent(env,a);const job=await claimJobs({...env,OPENROUTER_API_KEY:'mock'});const id=(await job.json()).jobs[0].id;
+ env.DB.raw.prepare('UPDATE journal_jobs SET native_candidate=? WHERE id=?').run('{"private":"candidate"}',id);
+ await request(env,'/api/memory',{method:'PUT',cookie:a.cookie,data:{text:'Une nouvelle précision.'}});
+ assert.equal(env.DB.raw.prepare('SELECT native_candidate FROM journal_jobs WHERE id=?').get(id).native_candidate,null);
 });

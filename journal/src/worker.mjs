@@ -159,7 +159,7 @@ export async function runGenerationBatch(env) {return env?.OPENROUTER_API_KEY?pe
 async function internal(request,env,path) {
   await githubIdentity(request,env);
   if(request.method!=='POST') error(405,'Méthode non autorisée.');
-  if(path==='/api/internal/jobs/run') return json(await runGenerationBatch());
+  if(path==='/api/internal/jobs/run') return json(await runGenerationBatch(env));
   if(path==='/api/internal/jobs/claim') return claimJobs(env);
   const match=path.match(/^\/api\/internal\/jobs\/([\w-]+)\/(complete|fail|llm)$/);if(!match) error(404,'Route inconnue.');
   const data=await body(request,1000000);

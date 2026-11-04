@@ -16,3 +16,9 @@ test('native analysis validates source snapshot, exact quotes, map and complete 
 test('native semantic verifier rejects a contradicted claim even with an exact quote',async()=>{const s=source('profile:u','profile','Je ne rumine plus et je me sens serein.');let calls=0;await assert.rejects(()=>analyzePortraitSnapshot({sources:[s],source_version:1,memory_version:1},async request=>{calls++;return request.stage==='support'?JSON.stringify({checks:nativePortraitClaims(portrait(s)).map(c=>({path:c.path,supported:false}))}):JSON.stringify(portrait(s))}));assert.equal(calls,2);});
 
 test('copying the same words from profile into a relationship is not convergent evidence',()=>{const a=source(),b=source('person:p','person'),h=hypothesis(a,'supported');h.evidence=[a.id,b.id];assert.equal(validatePsychologicalMap([h],[a,b],[citation(a),citation(b)])[0].status,'exploring');});
+
+test('a checked candidate resumes at semantic verification without paying for synthesis again',async()=>{
+ const s=source(),job={sources:[s],source_version:2,memory_version:1};let saved;
+ await assert.rejects(()=>analyzePortraitSnapshot(job,async request=>{if(request.stage==='support')throw Error('timeout');return JSON.stringify(portrait(s));},{saveCandidate:async p=>{saved=p}}));assert.ok(saved);
+ let calls=0;await analyzePortraitSnapshot({...job,native_candidate:saved},async request=>{calls++;assert.equal(request.stage,'support');return JSON.stringify({checks:nativePortraitClaims(saved).map(c=>({path:c.path,supported:true}))})});assert.equal(calls,1);
+});

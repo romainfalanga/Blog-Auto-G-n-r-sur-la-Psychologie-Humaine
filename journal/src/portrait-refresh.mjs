@@ -5,7 +5,7 @@ Examine pensées, émotions, actions, relations, contexte, ressources et apprent
 Utilise le catalogue comme ensemble de pistes concurrentes. Cherche les exceptions, les contre-indices, le contexte temporaire et les ressources. Les retours de correction de la personne priment sur une ancienne hypothèse. N'impose pas une convergence au fil du temps : une piste peut être affaiblie ou contredite. Pas de prose précédente comme preuve. Aucun diagnostic, traumatisme, intention ou cause cachée inventé. 'Syndrome du sauveur' reste une expression courante pour surresponsabilité, pas un trouble diagnostiqué.
 Renvoie UN objet JSON sans Markdown : {"schema_version":2,"summary":"synthèse courte prudente et attribuée","summary_evidence":["source_id"],"axes":[{"label":"thème","why":"observation soutenue","confidence":0.2,"claim_type":"interest|hypothesis|declaration","evidence":["source_id"]}],"strengths":[{"text":"ressource explicitement décrite","evidence":["source_id"]}],"uncertainties":["question non résolue"],"citations":[{"source_id":"ID","revision":1,"quote":"sous-chaîne exacte courte du champ personnel"}],"psychological_map":[{"pattern_id":"ID du catalogue","status":"exploring|supported|mixed|contradicted","observation":"ce qui est explicitement observé, attribué à la personne","possible_function":"hypothèse prudente sur ce que cela peut protéger ou chercher, sans cause cachée","alternatives":["explication concurrente"],"next_question":"une question concrète pour nuancer","evidence":["ID"],"counter_evidence":[]}]}
 Chaque phrase de summary, axe, force et observation doit avoir des preuves et une citation exacte correspondante (max400caractères par citation). 1–8 axes, summary<=1600caractères, why<=900, 0–8 forces/incertitudes, 0–8 pistes de carte pertinentes. Ne remplis pas artificiellement. confidence est interne au thème, pas probabilité du lecteur. Pour preuve sans déclaration personnelle, axes interest uniquement confidence<=0.25, strengths vide et psychological_map vide. Pour une piste de carte, chaque référence doit citer des mots personnels exacts (reason/differences des likes, relationship_text, description/meaning_now, texte de présentation ou correction), jamais le titre d'article ou sa biographie. Les citations sont des extraits continus, sans élision. supported exige deux sources indépendantes de types différents ; sinon exploring. mixed/contradicted exige au moins un contre-indice cité. Garde les alternatives et une prochaine question même si les indices convergent. La couverture est calculée par le serveur ; omets coverage dans ta réponse. Écris une carte vide si aucune hypothèse étayée, pas une liste d'étiquettes.`;
-export async function analyzePortraitSnapshot(job,callModel){
+export async function analyzePortraitSnapshot(job,callModel,{saveCandidate}={}){
  const sources=job.sources||[];
  if(!sources.length)throw Error('validation_error');
  // Keep a complete source where possible; never cut a quote or imply complete coverage.
@@ -14,12 +14,19 @@ export async function analyzePortraitSnapshot(job,callModel){
  for(const s of ranked){const n=JSON.stringify(s).length;if(size+n>130000)continue;selected.push(s);size+=n;}
  if(!selected.length)throw Error('generation_budget');
  const ids=new Set(selected.map(s=>s.id)),coverage={processed:sources.filter(s=>ids.has(s.id)).map(s=>s.id),pending:sources.filter(s=>!ids.has(s.id)).map(s=>s.id)};
+ let portrait;
+ if(job.native_candidate){
+  portrait=validatePortraitV2(job.native_candidate,sources,()=>{throw Error('validation_error')});
+  if(JSON.stringify(portrait.coverage)!==JSON.stringify(coverage))throw Error('validation_error');
+ }else{
  const raw=await callModel({system_prompt:PORTRAIT_REFRESH_INSTRUCTIONS,user_prompt:JSON.stringify({sources:selected,coverage,catalog:PSYCHOLOGY_CATALOG,life_context:job.self_context||{} }),max_tokens:5000,temperature:0.2,purpose:'analyst',stage:'portrait'});
  const content=typeof raw==='string'?raw:raw?.content||raw;
  const parsed=typeof content==='string'?JSON.parse(content.replace(/^\s*```(?:json)?\s*/,'').replace(/\s*```\s*$/,'')):content;
  parsed.coverage=coverage;
  if(!Array.isArray(parsed.psychological_map))throw Error('validation_error');
- const portrait=validatePortraitV2(parsed,sources,()=>{throw Error('validation_error')});
+ portrait=validatePortraitV2(parsed,sources,()=>{throw Error('validation_error')});
+  if(saveCandidate)await saveCandidate(portrait);
+ }
  await verifyNativeSupport(portrait,selected,callModel);
  return {portrait,source_derivatives:[],lease_token:job.lease_token,source_version:job.source_version,profile_version:job.source_version,memory_version:job.memory_version};
 }

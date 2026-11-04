@@ -4,7 +4,7 @@ Pages de l’interface : `/mon-accompagnement/`, `/mon-personnage/`, `/mon-portr
 
 ## Base et migration
 
-Appliquer les migrations `0001` à `0010` dans l'ordre. Sur une base existante, créer d'abord un point de restauration D1 et suspendre les générations. La migration `0005_personal_context_characters.sql` conserve IDs, corps, retours et ordre des histoires ; elle les rattache au premier personnage et inscrit leurs crédits dans leur semaine d'origine. Les portraits V1 sont invalidés pour être reconstruits à partir des sources originales. `0006_recommendation_exposures.sql` stocke uniquement des IDs d'articles publics récemment proposés.
+Appliquer les migrations `0001` à `0011` dans l'ordre. Sur une base existante, créer d'abord un point de restauration D1 et suspendre les générations. La migration `0005_personal_context_characters.sql` conserve IDs, corps, retours et ordre des histoires ; elle les rattache au premier personnage et inscrit leurs crédits dans leur semaine d'origine. Les portraits V1 sont invalidés pour être reconstruits à partir des sources originales. `0006_recommendation_exposures.sql` stocke uniquement des IDs d'articles publics récemment proposés.
 
 Ne pas rejouer aveuglément une migration appliquée. Le déploiement de `worker.mjs` exige tous les modules importés de `src/`, notamment `personal-backend.mjs`, `private-context.mjs`, `recommendations.mjs`, sa baseline et le catalogue. `GENERATION_PAUSED=true` suspend claims, appels IA, préparations, continuations et publications ; lecture et édition personnelle restent disponibles.
 
@@ -61,3 +61,5 @@ Catalogue partagé : `data/psychology_catalog.json`, génération par `node scri
 Les enregistrements relancent l’analyse native avec debounce court et contrôle sémantique séparé. Un cron Worker chaque minute récupère les tâches interrompues. Pour les contextes dépassant 130 000 caractères, la tâche est laissée au pipeline Python par lots (workflow toutes les 15 minutes) ; la couverture reste explicite. Aucun secret GitHub supplémentaire n’est nécessaire.
 
 Le statut Stripe n’est pas modifié par le mode de test. Pour rétablir le paiement requis, modifier explicitement `FREE_ACCESS_ENABLED`; ne pas fabriquer d’abonnement dans la base. La clé OpenRouter reste un secret du Worker. Les générations coûtent des crédits au propriétaire même si l’interface est ouverte gratuitement.
+
+`0011_native_portrait_candidate.sql` ajoute un candidat non publié, lié au job et invalidé à chaque changement de source. La reprise vérifie ce candidat sans refaire la synthèse ; publication uniquement après contrôle sémantique. `OPENROUTER_PORTRAIT_MODEL` vaut actuellement `anthropic/claude-sonnet-5.5` ; le pipeline Python conserve le modèle analytique général.
