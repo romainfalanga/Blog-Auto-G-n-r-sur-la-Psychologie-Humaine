@@ -2,7 +2,7 @@
 
 ## Plan retenu et critères
 
-| Demande | Réalisation prévue | Preuve requise |
+| Demande | Réalisation | Preuve requise |
 |---|---|---|
 | Nom Ambre partout | Navigation globale, titre de page, fil, formulaires et consignes ; route existante conservée | Recherche des libellés, rendu réel |
 | Psychologue IA de la personne | Identité Ambre stable, prénom actuel dans le contexte séparé, ton direct sans remerciement introductif | Prompt et échange réel |
@@ -25,7 +25,7 @@ La recherche d’articles conserve le moteur existant : les hypothèses sourcée
 
 Références conceptuelles : [NIMH, approche dimensionnelle RDoC](https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc/about-rdoc) et [développement et environnement](https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc/developmental-and-environmental-aspects) ; [NHS England, compréhension partagée et personnalisée](https://www.england.nhs.uk/long-read/mental-health-personalised-care-framework-the-modern-care-programme-approach/). Il s’agit de principes de conception, pas d’une validation clinique de l’application ou de ses coefficients internes.
 
-## Failles trouvées et corrections prévues
+## Failles trouvées et corrections
 
 1. Le chat ne transmettait pas les informations structurées du profil. Le nouveau contexte d’identité est séparé des sources et prioritaire pour prénom et accords ; âge, genre et métier ne prouvent aucun trait.
 2. Le traitement Python retournait `declared_gender` alors que ses consignes lisaient `gender`. Contrat commun explicite et testé avec l’analyste natif.
@@ -44,4 +44,7 @@ Références conceptuelles : [NIMH, approche dimensionnelle RDoC](https://www.ni
 - Migration 0012 appliquée en recette puis production ; test de conservation sur propositions préexistantes et contrôle des clés étrangères. Conversation existante conservée. Une courte pause de génération a séparé migration et reprise ; aucune génération n’était en cours.
 - Échange réel OpenRouter sur compte synthétique : 15,4 s, identité Ambre/prénom actuel, absence de remerciement introductif, trois propositions (précision, proche, événement), aucune écriture avant confirmation. Après confirmation : trois ajouts enregistrés, rejeu sans doublon, profil versionné.
 - Le recalcul du portrait complexe a mis en évidence un rejet trop global : une seule hypothèse refusée faisait échouer les autres sections. Le contrôle vérifie désormais aussi les questions et retire uniquement les parties non étayées. Un résumé non soutenu ou l’absence d’axe validé empêchent toujours la publication ; aucun appel modèle supplémentaire. Les diagnostics ne contiennent que des chemins de champs, aucun texte privé. Délai de nouvelle tentative native ramené à 30 s aussi pour le cron ; trois tentatives et budgets maximaux conservés. Les estimations d’influence sont explicitement formulées comme des pistes à préciser.
-- Derniers contrôles du portrait recalculé et publication GitHub/Netlify : en cours.
+- Le portrait du compte réel a ensuite été recalculé et validé : version analysée égale à la version courante, analyse V3, genre courant et genre analysé tous deux `male`. Aucun texte de conversation ou déclaration privée n’a été lu pour cette vérification ; seuls statuts, versions et métadonnées d’identité ont été inspectés.
+- Compte synthétique : portrait V3 validé depuis les trois ajouts confirmés, deux pistes dont une influence contextualisée ; aucune duplication au rejeu de confirmation.
+- Accueil publié vérifié : phrase exacte, compteur des personnages conservé et recherche de 820 px centrée (écart au centre : 0 px à 1348 px de largeur).
+- Code publié dans `5a1f2df602abd1dbe3e229c51001887155ca0b78` ; CI GitHub et déploiement Netlify réussis. Worker normal rétabli en recette et production, accès gratuit et clé serveur conservés.
