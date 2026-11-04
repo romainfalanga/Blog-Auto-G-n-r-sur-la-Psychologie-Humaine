@@ -34,6 +34,7 @@ P1 : conservation des données, exactitude du contexte ou action sensible. P2 : 
 | P1 | Le vérificateur ne voit que les sources citées : une correction non citée peut lui échapper | Contre-contexte original distinct, priorisation des corrections, couverture et budget explicites | Ancienne conclusion réfutée par une correction non citée ; refus sans appel si correction indispensable trop longue |
 | P1 | Certaines étiquettes du portrait échappent au contrôle des accords | Même contrôle pour les intitulés d’axes et préférences de lecture | Accords incohérents refusés, citations originales préservées |
 | P1 | Une carte V3 absente ou `null` peut être normalisée silencieusement | Tableau explicite exigé dans Worker et Python ; compatibilité des anciens formats conservée | Contrats V3/anciens portraits |
+| P1 | La recette longue reproduit un rejet de structure de carte ; les consignes natives omettent des contraintes présentes dans le traitement Python | Contrats alignés pour piste contredite, influence inconnue, preuve et cible d’interaction ; diagnostics `contract.*` fermés, sans texte rejeté | Rejet prudent conservé, cause catégorisée, puis portrait réel validé avec contre-indice et couverture complète |
 | P1 | Un retour initial envoyé depuis un deuxième onglet peut écraser le premier | Révision 0 obligatoire pour création, comparaison atomique à l’écriture et brouillon conservé | Deux créations concurrentes et mise à jour obsolète |
 | P1 | Un personnage archivé reste modifiable par l’API de retour | Vérification du personnage actif dans la requête atomique | Refus avant et pendant la transaction |
 | P1 | Une clé Stripe réutilisée après reprise peut rejouer une ancienne réponse de résiliation | Intention durable distincte du paiement, reprise réseau idempotente et vérification canonique après écriture | Reprise après résiliation, réponse rejouée non confirmée, appels concurrents simulés |
@@ -62,4 +63,16 @@ Le moteur de recherche reste lexical, complété par le guide conceptuel ; les p
 
 ## Validation et publication
 
-Validation finale du code : **402 tests automatisés passent** (288 JavaScript du journal, 16 du site public et 98 Python). Les deux générateurs navigation/catalogue sont à jour ; les 17 modules Worker et 8 scripts Python passent le contrôle de syntaxe. Construction Hugo et absence d’erreur de patch vérifiées. Les corrections ont fait l’objet d’une revue croisée et de régressions sur les défauts trouvés pendant cette revue. La preuve de publication et de recette sera ajoutée après déploiement.
+Validation finale du code : **404 tests automatisés passent** (290 JavaScript du journal, 16 du site public et 98 Python). Les deux générateurs navigation/catalogue sont à jour ; les 17 modules Worker et 8 scripts Python passent le contrôle de syntaxe. Construction Hugo et absence d’erreur de patch vérifiées. Les corrections ont fait l’objet d’une revue croisée et de régressions sur les défauts trouvés pendant cette revue.
+
+Publication initiale : commit `13b3cc12d8856250d6f538b8a9022e615e7689da`, workflows de vérification et de génération réussis ; Netlify `6aeb4f01e8914fb33c3784a8`, état ready, même commit. Le correctif complémentaire de contrat et cette preuve sont enregistrés dans le commit de suivi. Worker final : production `8a06b896f08f4ccfa7f7bcb66953ac15`, recette `1509b62f259640379e8e698075a6ab94`. Migration 0013 appliquée aux deux bases, aucune violation de clé étrangère. Secret fournisseur conservé et accès gratuit toujours actif.
+
+Recette réelle, sur un compte synthétique ensuite supprimé :
+
+- Mémoire de 8 296 caractères avec correction de la situation professionnelle en fin de texte ; relation de 4 305 caractères.
+- Réponse d’Ambre obtenue en 13,1 s, correction récente correctement distinguée des anciennes inquiétudes, aucune écriture automatique. Renvoi idempotent de la demande et quota de 99 messages restants vérifiés.
+- Proposition `append` contenant uniquement le fragment. Après confirmation, relation de 4 404 caractères avec l’intégralité de l’ancien texte ; renvoi de la confirmation sans doublon ni nouvelle révision.
+- La première recette de portrait a reproduit des refus de structure de cartographie. Le diagnostic a été ajouté et les consignes natives alignées sur le contrat Python existant. Après cet alignement, une tentative de synthèse et sa vérification sémantique ont réussi : portrait V3 courant, genre déclaré correct, correction récente citée, contre-indice présent, aucune source pending. Les paramètres de conservation du proxy privé ont donc aussi été exercés avec le fournisseur réel.
+- Compte synthétique supprimé par l’API. Contrôle final : un utilisateur réel, cinq proches, aucun événement ni traitement inachevé, portrait courant cohérent avec le genre déclaré et la version des sources. Les échanges réels survenus pendant l’audit n’ont pas été lus ni modifiés.
+
+La facturation reste désactivée pendant l’accès gratuit ; les scénarios de résiliation Stripe ont été testés par simulations du protocole, sans paiement ni abonnement réel.

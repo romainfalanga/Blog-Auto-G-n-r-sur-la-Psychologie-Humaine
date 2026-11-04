@@ -9,6 +9,18 @@ const citation={source_id:source.id,revision:1,quote:source.fields.self_descript
 const hypothesis=id=>({pattern_id:id,status:'exploring',observation:'{{prenom}} décrit une difficulté au travail.',possible_function:'Une protection possible, à vérifier.',alternatives:['Une contrainte de travail.'],next_question:'Que se passe-t-il avec vos amis ?',evidence:[source.id],counter_evidence:[]});
 const portrait=()=>({schema_version:2,summary:'{{prenom}} se décrit comme créatif.',summary_evidence:[source.id],axes:[{label:'Pensées répétées',why:'{{prenom}} parle du travail.',confidence:.3,claim_type:'hypothesis',evidence:[source.id]}],strengths:[],uncertainties:[],citations:[citation],psychological_map:[hypothesis('rumination')]});
 
+test('native validation diagnostics contain fixed categories and never rejected private prose',async()=>{
+ for(const [mutate,code] of [[p=>p.citations[0].revision=999,'citation'],[p=>p.summary='Elle contient une formulation privée refusée.','language']]){
+  const p=structuredClone(portrait());mutate(p);let calls=0;
+  await assert.rejects(()=>analyzePortraitSnapshot({sources:[source]},async()=>{calls++;return JSON.stringify(p)}),e=>e.message==='validation_error'&&JSON.stringify(e.verification_failures)===JSON.stringify(['contract.'+code]));assert.equal(calls,1);
+ }
+});
+
+test('a contradicted mechanism cannot keep a weighted influence and returns a precise safe diagnostic',async()=>{
+ const p=portrait(),h=p.psychological_map[0];h.status='contradicted';h.counter_evidence=[source.id];h.influence={level:'low',contexts:['au travail'],rationale:'Une influence supposée.',evidence:[source.id]};
+ await assert.rejects(()=>analyzePortraitSnapshot({sources:[source]},async()=>JSON.stringify(p)),e=>e.message==='validation_error'&&JSON.stringify(e.verification_failures)===JSON.stringify(['contract.map_influence_unsupported']));
+});
+
 test('declared context has one closed identity contract and never civil identity',()=>{
  const input={first_name:'SECRET',last_name:'SECRET',birth_date:'1990-01-01',age:27,gender:'male',gender_description:'ignored',occupation:'Designer'};
  assert.deepEqual(declaredLifeContext(input),{age:27,gender:'male',gender_description:'ignored',occupation:'Designer'});
@@ -99,7 +111,7 @@ test('counter-context budget prioritizes original corrections and reports omitte
 test('new native analysis refuses null and absent maps before semantic review',async()=>{
  for(const absent of [false,true]){
   const p=portrait();if(absent)delete p.psychological_map;else p.psychological_map=null;let calls=0;
-  await assert.rejects(()=>analyzePortraitSnapshot({sources:[source]},async()=>{calls++;return p;}),e=>e.message==='validation_error');assert.equal(calls,1);
+  await assert.rejects(()=>analyzePortraitSnapshot({sources:[source]},async()=>{calls++;return p;}),e=>e.message==='validation_error'&&JSON.stringify(e.verification_failures)===JSON.stringify(['contract.map_shape']));assert.equal(calls,1);
  }
 });
 
