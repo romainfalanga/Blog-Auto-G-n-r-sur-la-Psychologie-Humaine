@@ -1155,3 +1155,11 @@ main {
 .character-search-empty {max-width:650px;padding:20px 0 40px;color:var(--color-text-light)}
 .character-search-suggestions[hidden],.character-search-empty[hidden],.character-search-match[hidden],#character-search-clear[hidden] {display:none!important}
 @media(max-width:600px){.hero{padding-bottom:1rem}.character-search-box{padding:8px 12px}.character-search-field{gap:9px}.character-search-field input{font-size:1rem}.character-search-box label{font-size:.85rem}}
+
+/* Keep the directory scannable; complete portraits remain on character pages. */
+.character-directory .perso-bio {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+}
