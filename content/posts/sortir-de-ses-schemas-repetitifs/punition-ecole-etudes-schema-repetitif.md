@@ -15,7 +15,7 @@ draft: false
 
 L'odeur de la craie et le bourdonnement des néons de la salle 204 semblent plus lourds que d'habitude en ce jeudi 16 avril 2026. Thomas ajuste ses lunettes tout en fixant la pile de copies étalée sur son bureau de chêne clair. Ses mains, encore un peu sèches à cause du contact avec le carton lors de son récent déménagement à Lyon avec Émilie, manipulent nerveusement son stylo rouge. Il regarde le visage de Julie, une élève de première qui attend, tête baissée, devant son estrade. Elle n'a pas rendu son projet sur la Révolution française, et Thomas se demande quelle modalité d’évaluation le lycée prévoit quand un travail manque.
 
-Thomas sent une tension familière grimper le long de sa colonne vertébrale. Il déteste ce moment. En tant qu'enseignant, il se voit comme un guide, un mentor, mais la structure institutionnelle le rappelle sans cesse à son rôle de censeur. Il repense à sa propre scolarité, à ce besoin viscéral de ne jamais décevoir ses parents, lui, le deuxième d'une fratrie de quatre. Il se sent pris entre sa crainte de décourager Julie et son souci d’appliquer le même cadre qu’à ses autres élèves. Il se revoit encore, lors de cette réunion en salle des professeurs, baisser les yeux et accepter un protocole pédagogique qu'il jugeait absurde, simplement pour ne pas briser l'harmonie du groupe.
+Thomas a déjà le mot « punition » en tête. Il relit pourtant la consigne du projet avant de lui répondre. En tant qu'enseignant, il se voit comme un guide, un mentor, mais la structure institutionnelle le rappelle sans cesse à son rôle de censeur. Il repense à sa propre scolarité, à ce besoin viscéral de ne jamais décevoir ses parents, lui, le deuxième d'une fratrie de quatre. Il se sent pris entre sa crainte de décourager Julie et son souci d’appliquer le même cadre qu’à ses autres élèves. Il se revoit encore, lors de cette réunion en salle des professeurs, baisser les yeux et accepter un protocole pédagogique qu'il jugeait absurde, simplement pour ne pas briser l'harmonie du groupe.
 
 Julie lève les yeux, et Thomas y voit son propre reflet lorsqu'il avait dix-sept ans : une peur panique de la faute. Il se souvient de l'ennui paralysant qu'il a ressenti il y a quelques jours à peine au milieu de ses cartons non déballés. C'était un signal d'alerte, une fuite devant ses responsabilités futures. Aujourd'hui, face à cette élève, il remarque que sa propre expérience de la punition lui revient au moment de décider. Il ne veut pas être celui qui inflige la souffrance qu'il a lui-même toujours cherché à éviter par son perfectionnisme.
 
@@ -57,9 +57,9 @@ Thomas peut reconnaître que la scène lui rappelle sa propre scolarité. Son ma
 
 Thomas peut demander à Valérie : « Quelle modalité prévoit notre projet d’évaluation pour ce devoir ? » Si un problème de comportement distinct se pose, il en parle avec l’équipe selon le règlement intérieur, indépendamment de la note.
 
-## Évolution de Thomas et dépassement des schémas
+## Un délai, puis une note sur le travail rendu
 
-Assis dans le silence de sa classe alors que Julie vient de sortir avec une échéance de remise fixée conformément aux règles du lycée, Thomas ressent une sensation inhabituelle. Ce n'est pas le soulagement de celui qui a évité le conflit, mais la satisfaction de celui qui a enfin posé une limite constructive. Il ne s'est pas sacrifié en fermant les yeux, et il n'a pas non plus écrasé l'élève sous un zéro définitif. Il a choisi la voie de la responsabilité partagée, une compétence qu'il commence à acquérir après des semaines de réflexion sur ses schémas de sauveur.
+Julie lui demande si elle peut rendre son devoir vendredi, après le cours. Thomas vérifie le délai prévu avec l’équipe et lui note l’heure sur la feuille. « Et la note ? » Il lui dit qu’il évaluera le travail qu’elle remettra selon les mêmes critères que pour les autres. Elle replie le papier. Thomas la laisse sortir sans ajouter de leçon sur ce qu’elle aurait dû faire.
 
 Il repense à sa discussion avec Émilie dans leur nouvel appartement lyonnais. Elle lui avait reproché de ne pas savoir dire non. Aujourd'hui, il a suivi les règles d’évaluation sans transformer la note en punition, et il a dit non à son propre besoin d'être le professeur apprécié de tous. En agissant ainsi, il se prépare doucement à son futur rôle de père, réalisant que l'autorité n'est pas synonyme de souffrance infligée, mais de cadre sécurisant. Il n'est plus ce petit garçon qui cherche désespérément à ne pas faire de vagues pour exister au milieu de ses frères et sœurs.
 
@@ -68,7 +68,5 @@ En rangeant ses affaires, Thomas remarque que son stylo rouge ne lui semble plus
 ---
 
 Thomas a eu besoin de distinguer deux questions : comment évaluer le travail de Julie et comment répondre à un éventuel manquement. Les règles du lycée, la situation de l’élève et les critères de l’exercice l’aident davantage qu’un jugement sur sa valeur ou la sienne.
-
-Se libérer du perfectionnisme et de la peur de la faute est un voyage libérateur. En transformant la sanction en opportunité d'apprentissage et de réparation, nous cessons d'être nos propres bourreaux pour devenir nos propres alliés. C'est ainsi que l'on construit une vie où l'erreur n'est plus une menace, mais une étape nécessaire vers une meilleure compréhension de soi.
 
 Si vous sentez que le poids de la culpabilité ou le besoin de perfection vous empêchent de vous épanouir, un travail thérapeutique peut être bénéfique. Un professionnel de la psychologie pourra vous aider à déconstruire ces schémas anciens et à retrouver la sérénité face à vos propres limites. Vous méritez de vivre sans l'ombre permanente d'un jugement sévère au-dessus de votre tête.

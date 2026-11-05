@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-Vincent détache le ticket de l’exposition du reçu de transport. L’ambivalence des émotions dans l’aidance tient ce soir entre ces deux morceaux de papier. Il aime leur week-end, les vitrines qu’ils commentent ensemble et une discussion qui continue au retour. Il reste aussi agacé par trois appels nécessaires pour confirmer une information pratique. Quand Julie lui demande si le séjour se passe bien, il hésite entre un récit heureux et une plainte. Il croit devoir choisir lequel est vrai.
+Vincent détache le ticket de l’exposition du reçu de transport. Sur le premier, il a noté le nom d’une pièce qu’ils aimeraient revoir. Il lui faut le second pour vérifier un trajet qu’il a passé trois appels à confirmer. Il aime leur week-end, les vitrines qu’ils commentent ensemble et une discussion qui continue au retour. Il reste aussi agacé par trois appels nécessaires pour confirmer une information pratique. Quand Julie lui demande si le séjour se passe bien, il hésite entre un récit heureux et une plainte. Il croit devoir choisir lequel est vrai.
 
 Cédric travaille dans la pièce voisine sur une traduction. Il dit qu’il souhaite terminer seul et propose à Vincent de sortir s’il en a envie. Denis l’invite à écouter un petit concert près de chez eux. Vincent ressent un plaisir immédiat à l’idée d’y aller sans organiser un déplacement à deux. Ce soulagement lui paraît suspect. Il se demande s’il révèle quelque chose de mauvais sur son attachement, alors que son compagnon vient simplement de lui donner une information sur sa soirée.
 
@@ -81,7 +81,7 @@ Il peut aussi choisir un professionnel lorsque certains sujets restent difficile
 
 Enfin, il garde une possibilité de parler directement à Cédric d’un besoin commun, au moment qui convient aux deux. Il peut annoncer qu’il se sent fatigué de l’organisation et souhaiter revoir un point précis. Il n’est pas obligé de déposer chaque pensée passagère sur son compagnon pour être authentique. L’honnêteté peut inclure du discernement sur le moment, la portée et la personne à qui l’on parle.
 
-## Vincent commence à raconter une journée plus entière
+## Garder le billet et ranger le reçu
 
 Vincent répond à Julie que le séjour contient des moments heureux et une organisation éprouvante. Elle demande ce qui lui ferait du bien aujourd’hui. Il parle du concert et reconnaît qu’il hésite par culpabilité. Julie ne tranche pas à sa place. Elle lui demande simplement si quelque chose, dans les besoins de la soirée, exige réellement sa présence à la maison.
 

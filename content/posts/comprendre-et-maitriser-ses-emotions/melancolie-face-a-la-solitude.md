@@ -13,9 +13,9 @@ contexte: "face à la solitude"
 draft: false
 ---
 
-Adrien reste assis sur le tabouret de son atelier, sa main droite tachée d'encre, le crayon suspendu au-dessus d'une page à moitié occupée. La playlist lo-fi murmure dans la pièce, la cafetière est froide depuis des heures, et dehors la ville claque au rythme des tramways. Aujourd'hui, 21 mars 2026, il hésite entre finir le logo d'un client qui paie ses factures et tracer les contours d'une silhouette qui ressemble à Marina. Il sent que la mélancolie se glisse dans chaque coup de mine, qu'elle colore ses dessins d'une douceur triste et lui vole pourtant l'élan pour passer à l'action.
+Adrien a promis un logo pour lundi. Sur sa feuille, il reconnaît la nuque de Marina. Il se passe un doigt sous le menton, y laisse une marque d’encre, puis rapproche de lui le devis ouvert à la bonne page. Le café de l’après-midi est encore là. Il en boit une gorgée avant de réaliser qu’il est froid.
 
-Il pense aux notes qu'il a commencé à écrire après l'article du 17 mars, quand il a appris à distinguer ce que ses émotions lui soufflent et ce qui est objectivement vrai. Le carnet est posé sur une pile de feuilles, ouvert sur une phrase griffonnée la semaine dernière : "Je confonds souvent nostalgie et moteur créatif." Ce soir, cette confusion se réactive. La solitude appuie sur certains gestes, la rend plus présente quand il travaille la nuit, quand il dessine dans des cafés vides aux heures creuses ou qu'il échange des messages courts avec Julien. Ce carnet est devenu son ancrage, une preuve tangible qu'il ne veut plus laisser son anxiété de freelance dicter sa valeur professionnelle comme il le faisait encore récemment devant ses toiles blanches.
+Le carnet traîne sur une pile de feuilles. Adrien l’ouvre à la page où il avait noté la différence entre ce qu’il ressentait devant une toile blanche et ce que la cliente lui avait demandé. Ce soir, il ajoute une ligne. Il a envie d’écrire à Julien. Il a aussi envie de continuer à dessiner. Il laisse les deux phrases sur la page.
 
 Adrien sent aussi que la mélancolie n'est pas seulement une douleur : c'est une texture qui nourrit ses compositions, une tonalité qu'il sait extraire et transformer en projet. Pourtant, il reconnaît le piège. Quand il laisse la mélancolie prendre la main, il procrastine, il idéalise la relation passée, il répond moins aux mails. Aujourd'hui il décide de voir cette nuance de plus près : qu'est-ce qui, chez lui, est tristesse passagère et qu'est-ce qui relève d'une mélancolie plus profonde liée à sa sensibilité d'artiste et à sa solitude de freelance ? Il se souvient de ces soirs de pluie où le silence de son téléphone semblait hurler un rejet définitif ; il comprend désormais que cette mélancolie est le prolongement de ce schéma d'instabilité qu'il tente de déconstruire.
 
@@ -62,7 +62,7 @@ L'idée est de réduire la dépendance affective et l'idéalisation en multiplia
 Exercice concret :
 Adrien fait une liste de trois personnes de confiance et propose des rendez-vous brefs : vingt minutes de balade ou un appel audio de dix minutes. Il prépare une phrase simple pour clore l'échange si besoin. Après chaque rencontre, il note un élément concret partagé. Ces rencontres lui donnent l’occasion de voir quels échanges lui font du bien.
 
-## Évolution d'Adrien face à son paysage intérieur
+## Le logo attend la suite
 
 Ce soir, il teste la première session de 50 minutes. Il choisit de travailler sur le logo client en le divisant en trois étapes simples. Le minuteur marque le rythme, et la contrainte lui plaît plus qu'il ne l'avait imaginé. À la dixième minute, une image de Marina surgit et tente de le distraire ; il note la pensée dans son carnet, la note comme un souvenir qui revient sans qu’il l’ait choisi et revient à sa tâche. Le geste de noter est devenu une habitude, il le fait sans dramatiser. Il observe avec recul que cette envie de tout arrêter n'est qu'une manifestation de son raisonnement émotionnel, une vieille connaissance qu'il apprend à ne plus laisser diriger ses pinceaux.
 
@@ -71,6 +71,8 @@ La semaine suivante, il organise un rendez-vous avec Julien pour une promenade p
 Il met aussi en place la cartographie émotionnelle. Après dix jours, il voit une courbe : les épisodes intenses sont fréquents mais souvent brefs, et les baisses d’élan s’attardent les soirs où il travaille sans structure. Cette carte le guide : il planifie désormais davantage de sessions courtes et accepte parfois de créer des pièces plus sombres.
 
 Ces gestes ne rendent pas la mélancolie invisible. Ils lui donnent un cadre, une fréquence et des règles. Adrien ne renonce pas à la poésie de son monde intérieur ; il apprend à l'habiter sans qu'elle le dirige entièrement. Il conserve ses rituels créatifs, mais ils se déroulent maintenant dans des blocs définis, avec la possibilité de retourner au carnet dès qu'une image le détourne de son présent.
+
+À la sonnerie du minuteur, il lui manque une variante. Il enregistre le fichier avec sa date et laisse les deux croquis sur la table. L’image de Marina lui revient pendant qu’il se lave les mains. L’encre ne part pas tout à fait.
 
 ---
 

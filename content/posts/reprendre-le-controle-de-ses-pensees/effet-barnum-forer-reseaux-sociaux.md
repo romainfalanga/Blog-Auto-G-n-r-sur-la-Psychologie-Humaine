@@ -13,7 +13,7 @@ contexte: "sur les réseaux sociaux"
 draft: false
 ---
 
-Lucas est allongé sur son lit, dans la pénombre de sa chambre de colocation. Le bruit sourd de la télévision dans le salon indique que Maxime et Romain sont encore réveillés, mais il préfère rester seul. Son pouce glisse mécaniquement sur l'écran de son téléphone, faisant défiler une série de vidéos courtes. Il est fatigué par sa journée de stage, encore marqué par cette sensation d'être un imposteur dès qu'il prend la parole en réunion, une lutte qu'il mène depuis plusieurs semaines. Cette fatigue mentale lui rappelle étrangement celle qu'il avait ressentie après avoir menti sur sa mission freelance pour cacher son impossibilité de payer le week-end au ski. Soudain, une vidéo s'arrête sur une image sobre avec un texte en police élégante : Trois signes que tu es une âme hypersensible qui s'ignore.
+Dans sa chambre, Lucas arrête une vidéo en plein milieu. La voix dit que les gens qui font rire les autres cachent souvent un doute profond. Il pense tout de suite à la dernière soirée à la coloc. En reprenant la lecture, il s’aperçoit qu’il attend une deuxième phrase aussi exacte que la première.
 
 Il s'immobilise. La voix off énumère des caractéristiques : tu as souvent l'impression de porter un masque en public, tu ressens le besoin de plaire à tout le monde pour te sentir en sécurité, et tu as toujours eu l'impression d'être différent des autres. Lucas sent un frisson parcourir son échine. C'est exactement lui. Chaque mot résonne avec une précision chirurgicale, comme si l'algorithme avait sondé les profondeurs de son insécurité. Il clique sur le profil, s'abonne, et commence à lire les commentaires où des milliers de personnes s'exclament par un moi aussi très sonore.
 
@@ -57,7 +57,7 @@ Lucas se demande si le portrait pourrait aussi convenir à Romain. Il n’a pas 
 
 Au lieu de valider une émotion globale, astreignez-vous à noter des faits précis. Si vous lisez que vous êtes une personne qui a peur de l'échec, au lieu d'acquiescer, listez trois situations concrètes récentes où cette peur s'est manifestée et trois situations où vous avez agi malgré l'incertitude. Comparez ensuite ces faits avec la description lue. Souvent, vous réaliserez que votre réalité est bien plus nuancée et changeante que l'étiquette figée proposée par les réseaux sociaux. Cette technique renforce votre ancrage dans la réalité vécue plutôt que dans la projection mentale suggérée par l'écran.
 
-## Lucas commence à discerner le vrai et le flou
+## La vidéo repasse
 
 Le lendemain soir, Lucas se retrouve à nouveau sur son téléphone. Une nouvelle vidéo défile : Pourquoi les gens ambitieux nés dans des milieux modestes sont souvent des perfectionnistes anxieux. Son premier réflexe est de cliquer, de s'identifier, de se complaire dans cette analyse qui semble raconter sa propre vie, de ses parents Jean-Marc et Sandrine jusqu'à ses doutes en école de commerce. Mais cette fois, il se souvient des exercices de discernement. Il s'arrête et se demande si Romain, qui vient pourtant d'un milieu aisé, ne se sent pas lui aussi anxieux et perfectionniste par moments.
 

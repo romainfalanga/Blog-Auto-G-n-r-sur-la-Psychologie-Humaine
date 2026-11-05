@@ -17,7 +17,7 @@ L'odeur du rôti de bœuf marine dans l'air épais de la salle à manger paterne
 
 Cette atmosphère pesante lui rappelle le silence qui habite son propre appartement depuis son divorce avec Véronique. Il y a dix jours, en déambulant dans le parc comme il l'avait fait pour analyser son attachement au passé, il pensait avoir saisi l'essentiel de ses blocages. Pourtant, ici, face à cet homme muré dans une réserve austère, Fabien voit son propre reflet. Il repense à Lucas, son fils, qui est venu le voir le week-end dernier. Ils ont passé deux heures devant un documentaire animalier, côte à côte, sans échanger plus de trois phrases constructives.
 
-Une sensation de froid lui parcourt l'échine alors qu'il réalise que ce silence n'est pas seulement le sien. C'est une nappe phréatique invisible qui coule de génération en génération, imprégnant chaque geste, chaque retenue. Son père ne lui a jamais appris à poser des mots sur ses émotions, tout comme le grand-père de Fabien, dont il ne connaît que la photo de mariage un peu jaunie. Le cadre RH, habituellement si doué pour dénouer les conflits en entreprise, se sent totalement désarmé devant cette hérédité du mutisme.
+Fabien reconnaît une habitude qu’il a connue à cette même table. Quand une question le gênait, son père allumait la télévision. Fabien se rappelle avoir déjà fait pareil avec Lucas. Il ne sait pas encore si son père y mettait le même sens que lui.
 
 ## Comprendre comment les habitudes de communication s’apprennent en famille
 
@@ -47,17 +47,11 @@ Si écrire vous convient, décrivez dans un brouillon ce que vous aimeriez faire
 ### 3. Préparer une phrase pour aujourd’hui
 Choisissez une phrase que vous pourriez dire dans un échange ordinaire et sûr. Fabien pense à dire à Lucas qu’il est content de le voir. Il peut aussi attendre un moment plus propice. C’est une préparation à la conversation, pas un traitement des traumatismes.
 
-## Fabien commence à briser le silence familial
+## Pendant que son père débarrasse
 
-Le déjeuner se termine. Fabien aide son père à débarrasser la table, un rituel millimétré où chaque assiette retrouve sa place exacte dans le lave-vaisselle. D'ordinaire, il serait déjà en train de chercher ses clés, pressé de retrouver la solitude de son appartement pour échapper à cette atmosphère. Mais aujourd'hui, fort de ses réflexions sur le biais du coût irrécupérable et de sa nouvelle compréhension des liens familiaux, il décide de rester un peu plus longtemps.
+Ils débarrassent. Fabien ouvre le lave-vaisselle et s’aperçoit qu’il place les assiettes exactement comme son père le lui a appris. Il demande : « Tu te souviens de ce que tu faisais quand je me disputais avec maman ? » Son père ne voit pas tout de suite de quel âge il parle. Puis il lui dit qu’il préférait parfois attendre, parce qu’il avait peur d’aggraver la dispute.
 
-Il comprend désormais que s'acharner à maintenir des rituels vides par simple habitude est une autre forme de coût irrécupérable émotionnel. Au lieu de subir ce temps investi dans le silence, il choisit de le transformer.
-
-Il s'assoit dans le vieux fauteuil en cuir et regarde son père qui s'apprête à allumer la télévision. Papa, j'ai remarqué que Lucas me ressemble beaucoup en ce moment, lance-t-il d'une voix posée. Son père s'arrête, la télécommande à la main, surpris par cette amorce de conversation personnelle. Fabien poursuit, avec la clarté qu'il utilise parfois en entretien RH, mais avec une chaleur inédite : Je me rends compte que je ne lui parle pas assez de ce que je vis. Je crois que j'ai appris ça ici, et j'aimerais que ça change.
-
-Un silence suit, mais il n'est plus le même. Il n'est plus une impasse, mais un espace de réflexion. Son père ne répond pas immédiatement par une grande confidence, mais il ne détourne pas le regard. Pour Fabien, c'est une première victoire. Il ne se sent plus seulement comme l'homme qui a perdu son foyer après son divorce avec Véronique, mais comme celui qui commence à en bâtir un nouveau, plus authentique.
-
-En rentrant chez lui, il ne se laisse pas gagner par l'envie de s'enfermer dans sa musique habituelle. Il saisit son téléphone et appelle Marine. Il ne se contente pas de demander si ses révisions avancent, il lui raconte sa journée, ses doutes sur ce déjeuner, et son envie de les voir plus souvent. L'appartement sent toujours le neuf, mais pour la première fois, Fabien y injecte une vie qui lui appartient en propre, libérée des ombres du passé.
+Ils laissent l’échange là. En rentrant, Fabien téléphone à Marine. D’habitude, il commence par les révisions. Cette fois, il lui raconte d’abord le déjeuner et la réponse à laquelle il ne s’attendait pas. Marine le laisse finir, puis lui demande s’il vient quand même au cinéma.
 
 ---
 

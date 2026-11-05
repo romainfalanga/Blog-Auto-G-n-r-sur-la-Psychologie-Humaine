@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-La barrière du garage descend derrière la voiture d’Aline, qui garde sa clé inutile dans la poche. Recevoir de l’aide sans se justifier prend la forme très concrète d’un trajet jusqu’à son appartement. Le véhicule reste immobilisé jusqu’au lendemain. Étienne travaille à l’extérieur de la ville. Aline regarde l’itinéraire du bus, puis le grand sac de documents qu’elle rapporte de la quincaillerie. Chloé, qu’elle appelle pour déplacer leur déjeuner, propose de passer la chercher.
+La barrière du garage descend derrière la voiture d’Aline, qui garde sa clé inutile dans la poche. Aline fait tourner la clé dans sa poche. Elle a déjà tapé le début d’un message à Chloé pour annuler le déjeuner, alors qu’elle n’a même pas regardé l’heure du prochain bus. Le véhicule reste immobilisé jusqu’au lendemain. Étienne travaille à l’extérieur de la ville. Aline regarde l’itinéraire du bus, puis le grand sac de documents qu’elle rapporte de la quincaillerie. Chloé, qu’elle appelle pour déplacer leur déjeuner, propose de passer la chercher.
 
 Aline répond d’abord qu’elle peut se débrouiller. Elle décrit les lignes de transport comme un réseau qu’elle maîtrise parfaitement, alors qu’elle vient de découvrir une correspondance supprimée. Chloé répète qu’elle peut faire un détour avant son service. Le trajet lui coûte du temps, mais reste possible. Aline voudrait que cette offre n’ait aucun coût pour être autorisée à l’accepter. Elle commence à raconter sa journée pour expliquer pourquoi elle se trouve dans cette situation.
 
@@ -81,7 +81,7 @@ Ce repère compte davantage encore dans les aides longues. Une personne peut app
 
 Après l’échange, elle note ce qui reste inconfortable. Aujourd’hui, c’est surtout l’envie de prouver qu’elle n’abuse pas. Elle peut accueillir cette envie sans ajouter une promesse. Si une remarque ultérieure de Chloé révèle une attente différente, elles pourront en parler sur des faits. Aline n’a pas à résoudre par avance toutes les dettes imaginables pour accepter un soutien présent.
 
-## Aline commence à prendre la place proposée
+## Le siège passager
 
 Chloé s’arrête près du garage et libère le siège d’un sac de sport. Aline pose ses documents à ses pieds. Elle remercie son amie et garde pour elle la longue liste des raisons qui expliquent la panne. Chloé lui demande si elle a faim avant son service. Elles parlent d’une boulangerie proche, puis d’un film qu’elles souhaitent voir. Le trajet contient une conversation ordinaire, pas seulement la gestion d’un problème.
 

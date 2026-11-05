@@ -67,17 +67,15 @@ Exercice concret :
 
 Demander une reconnaissance précise permet de transformer l'approbation en informations utiles plutôt qu'en jugement global. Sophie, qui aime les données, peut ainsi recevoir des retours exploitables sans laisser la place à l'interprétation émotionnelle.
 
-## Évolution de Sophie vers la pose de limites
-Aujourd'hui, après avoir raccroché, Sophie relit la colonne des faits et remarque qu'elle a reformulé mentalement l'interprétation comme "mon père n'a pas le vocabulaire pour exprimer sa fierté". Cette alternative lui semble plausible et atténue l'urgence de prouver davantage. Elle écrit ensuite dans son carnet un critère interne : "clarté dans l'explication", et note une action simple : envoyer un court mail récapitulatif à l'équipe pour partager une solution technique, sans attendre la validation parentale.
+## Changer de sujet après une seule réponse
+Quand elle raccroche, Sophie ne sait pas si son père a apprécié son explication. Il lui a posé deux questions et a dit qu’il devait préparer le dîner. Elle était sur le point de lui envoyer une capture d’écran pour finir de convaincre. Elle referme la conversation. La solution mérite peut-être une note pour l’équipe ; son père n’a pas besoin d’en recevoir une copie.
 
-Le soir, elle appelle Claire et pratique l'exercice de feedback ciblé. Claire lui demande précisément ce qu'elle veut entendre sur son projet ; Sophie choisit "sur quelle partie technique tu penses que j'ai apporté de la valeur". La réponse factuelle de Claire, indiquant que sa refactorisation a réduit le temps de requête de 30%, s'inscrit parfaitement dans la colonne des faits. Sophie la lit, la note et ressent une reconnaissance différente : factuelle, vérifiable, moins sujette à interprétation. Elle repense à son échec pour le poste de directrice technique et réalise que si elle avait eu cette approche factuelle à l'époque, elle n'aurait pas sombré si profondément dans l'overthinking.
+Le soir, Claire lui demande si elle veut un avis sur la solution ou simplement raconter l’appel. Sophie commence par l’appel. Elles verront le code le lendemain, quand toutes deux l’auront sous les yeux.
 
-À Nantes, lors du prochain déjeuner familial, Sophie utilise une autre stratégie : au lieu d'énumérer, elle présente un court exemple concret et demande un avis précis. Quand son père répond de façon brève, elle s'exerce à noter le fait et à se souvenir du feedback externe qu'elle a reçu de Marc et Claire sur d'autres projets. Elle voit qu’un retour sur son travail peut lui être utile sans dire combien elle vaut comme personne ni ce que son père pense d’elle.
+Au déjeuner suivant à Nantes, son père revient au travail. Sophie lui donne une nouvelle, puis lui demande comment s’est passée sa semaine. Elle sent monter l’envie de revenir au projet pour mieux l’expliquer. Son père se met à parler d’un placard qu’il essaie de réparer. Elle lui demande quelle pièce manque.
 
 ---
 
 On peut vouloir l’approbation de ses proches pour toutes sortes de raisons. Sophie repère surtout ce qui se passe quand une réponse brève devient, dans sa tête, le verdict « pas assez ».
-
-Il est possible de transformer cette dynamique en s'appuyant sur des critères internes, des exercices factuels et des demandes de feedback ciblées. Ces outils n'effacent pas l'impact des relations familiales, mais ils donnent des moyens concrets pour réduire la réactivité émotionnelle et construire une estime de soi moins dépendante du regard des autres.
 
 Si la recherche d'approbation avec ses parents génère une souffrance persistante, consulter un professionnel comme un psychologue ou un thérapeute permet un accompagnement personnalisé. Un travail thérapeutique aide à explorer les blessures d'enfance, à assouplir les schémas et à créer des relations plus sécurisantes, tout en respectant le rythme de chacun.

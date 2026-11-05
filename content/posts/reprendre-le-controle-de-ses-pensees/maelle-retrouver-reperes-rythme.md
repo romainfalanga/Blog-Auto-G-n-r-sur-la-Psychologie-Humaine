@@ -15,7 +15,7 @@ draft: false
 
 La sangle du volet glisse enfin sans accrocher. Maëlle teste le mouvement une seconde fois, étonnée par la facilité du geste. Retrouver un rythme ne commence pourtant pas avec cette réparation : la chambre devient plus pratique, mais son corps porte encore les effets d'une période faite de rotations et de changements. Elle sait fermer la lumière. Elle ne sait pas ordonner au sommeil d'arriver à une heure décidée.
 
-Son nouveau planning paraît plus prévisible pour les jours qui viennent. À vingt-sept ans, opératrice agroalimentaire en horaires alternés, Maëlle accueille cette stabilité avec soulagement et une exigence immédiate : elle veut en profiter parfaitement. Elle trace des cases pour les repas, le repos, les démarches et les moments avec Julien. Au bout de quelques minutes, la feuille ressemble davantage à une épreuve qu'à un soutien.
+Pour la première fois depuis plusieurs rotations, les prochains horaires ont peu bougé. Maëlle sort une feuille quadrillée. Maintenant que le volet ferme, elle voudrait rentabiliser le temps qui revient : dormir, faire les courses, prendre deux rendez-vous et manger avec Julien. Une fois les trajets dessinés, même les quarts d’heure ont une tâche. Elle hésite entre agrandir les cases et reporter ce qui ne rentre pas.
 
 Julien remarque la densité du programme. « Tu gardes un endroit où rien n'est prévu ? » Elle proteste qu'elle essaie justement de mieux récupérer. Puis elle regarde la case où elle prévoit de dormir exactement après une course, avant une visite et entre deux obligations. Elle reconnaît la même confusion qu'au début de son carnet : une place dans un tableau ne devient pas automatiquement une possibilité réelle de repos.
 
@@ -57,7 +57,7 @@ Faire un bilan nuancé n'oblige pas à compter des réussites pour se remonter l
 
 Elle garde aussi les variations sans explication claire. Tout changement de fatigue ne correspond pas forcément à une décision de la veille. Chercher à tout relier peut créer une surveillance coûteuse et des certitudes fragiles. Un professionnel peut l'aider à examiner les tendances utiles sans transformer chaque journée en expérience médicale personnelle.
 
-## 3 techniques pour reconstruire des repères réalistes
+## Un planning qui supporte un imprévu
 
 ### 1. Choisir un ou deux points d'appui accessibles
 

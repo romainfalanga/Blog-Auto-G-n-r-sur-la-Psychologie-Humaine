@@ -13,13 +13,11 @@ contexte: "après une rupture amoureuse"
 draft: false
 ---
 
-Hugo est assis sur le banc du parc, sa guitare dans son étui posé à côté de lui, le regard perdu dans le vide. Autour de lui, les feuilles d’automne craquent sous les pas des passants, mais il ne les remarque pas vraiment. Son cœur bat un peu plus fort quand il repense à Chloé, à ce qu’il reste de leur histoire chaotique faite de grandes déclarations d’amour et de ruptures dramatiques. Ce silence qui s’installe en lui n’est pas juste l’absence de mots, c’est un vide profond qui semble avaler tout ce qu’il était encore capable de ressentir.  
+Le banc est encore humide. Hugo pose l’étui de sa guitare debout entre ses genoux pour éviter la flaque qui s’est formée dessous. Il sort du bar où il travaille et a pris le chemin du parc au lieu de rentrer. Il n’a pas envie d’ouvrir la porte de l’appartement.
 
-À 27 ans, musicien semi-professionnel qui paye ses factures comme serveur, il serre les mains, sent la morsure froide du vent sur sa peau, mais aucune sensation ne vient vraiment combler ce creux à l’intérieur. Même la musique, qui a toujours été son refuge, ne lui parle plus. Son frère jumeau Théo l’a appelé hier, mais Hugo n’a pas décroché. Cet espace vide le fait vaciller entre tristesse et un étrange engourdissement, comme si une partie de lui s’était effacée avec la rupture. Hugo se demande s’il retrouvera un jour ce goût à la vie, cette énergie qui semblait si naturelle avant.  
+Depuis le départ de Chloé, il lui arrive de sentir le manque très fort et, l’instant d’après, de ne plus savoir ce qui l’intéresse. Théo, son frère jumeau, a appelé hier. Hugo a laissé sonner. Dans le parc, il ne trouve toujours rien qu’il saurait lui dire au téléphone.
 
-Dans sa tête, les souvenirs s’entremêlent, mais ce vide intérieur persiste, pesant, inquiétant. Il se sent dépendant de ce qui n’est plus, comme s’il avait perdu une part essentielle de lui-même avec sa relation. Chaque jour est un combat silencieux contre ce manque qu’il ne parvient pas à nommer, à comprendre, mais qui l’habite intensément.  
-
-Il finit par se lever, décide d’affronter ce vide plutôt que de le fuir. Hugo sait qu’il doit faire un pas, même petit, vers une compréhension et un apaisement intérieurs.  
+Il finit par se lever. Sur l’écran, l’appel de Théo est encore le premier de la liste. Hugo rentre avec l’étui et le téléphone dans la même main.
 
 ## Qu'est-ce que le vide intérieur ?
 
@@ -69,18 +67,14 @@ Souvent, le vide intérieur cache aussi un éloignement de soi et de ses besoins
 
 Un exercice concret est de faire une liste de petites actions qui nourrissent le corps et l’esprit, puis de s’engager à en pratiquer une chaque jour. Ce retour à soi est un premier pas vers la reconstruction d’une vie riche et autonome, qui ne dépend plus uniquement de l’autre.  
 
-## Hugo commence à se reconstruire, un jour à la fois  
+## Un appel qu’il n’a pas encore rendu
 
-Hugo reprend rendez-vous avec lui-même, chaque jour un peu plus conscient de ce vide sans le fuir. Il s’assoit dans son salon, ferme les yeux, respire profondément et accueille ses émotions avec douceur, comme la pleine conscience le lui a appris. Peu à peu, ce vide devient moins menaçant, moins insupportable.  
+Le soir, Hugo ouvre son carnet. Il écrit l’heure à laquelle il est sorti du bar et deux mots sur le banc du parc. Il essaie ensuite un vers, le trouve trop bien tourné pour ce qu’il ressent et le raye.
 
-Il tient un journal qu’il remplit le soir, y laissant couler ses pensées et ses ressentis. À travers l’écriture, il découvre qu’il n’est pas seul dans cette expérience, que ce vide est une étape, non une fin.  
-
-En réinventant son quotidien, en se reconnectant à ses besoins, Hugo sent renaître une énergie nouvelle. Il n’est plus seulement le cœur brisé, mais un homme en chemin vers lui-même, capable de retrouver un équilibre intérieur. Ce vide qui l’habitait devient alors un espace de transformation, une invitation à se reconstruire autrement.  
+Il envoie à Théo : « J’ai vu ton appel. On peut marcher demain, si t’es libre ? » Théo lui répond qu’il peut le retrouver à la sortie du service. Hugo range le carnet dans la poche de l’étui. Pour le moment, le seul projet qu’il ait envie de garder tient dans ce message.
 
 ---  
 
-Le vide intérieur après une rupture amoureuse est une expérience douloureuse mais aussi une phase où le soi peut être redécouvert et renforcé. Comme Hugo, beaucoup traversent ce sentiment de creux qui paraît insurmontable au début. Pourtant, en comprenant ce que ce vide représente, en apprenant à l’accueillir, on peut commencer à s’en libérer.  
+
 
 Il n'y a pas de délai obligatoire pour aller mieux. Si le mal-être s'accentue ou que le quotidien devient difficile à tenir, un professionnel de santé peut aider à faire le point.
-
-Chaque pas vers soi est une victoire, chaque jour une occasion de reconstruire. Le vide intérieur, bien que difficile, peut devenir le terreau d’une renaissance personnelle. Hugo nous montre que même après la rupture, il est possible de retrouver la plénitude et la sérénité.

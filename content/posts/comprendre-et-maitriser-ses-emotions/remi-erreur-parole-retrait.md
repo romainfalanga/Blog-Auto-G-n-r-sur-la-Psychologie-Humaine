@@ -75,13 +75,13 @@ Rémi s'autorise à terminer son repas au calme. Il se demande ensuite si rester
 
 Il peut aussi prévenir Julie qu'il est contrarié et souhaite un moment tranquille avant de parler. Cela évite que son silence soit interprété comme un conflit entre eux. Il garde une suite possible, sans lui confier la mission de le rassurer sans fin. Si le retrait devient durable et lui pèse, demander un soutien plus large peut être pertinent. Un contact choisi est un appui, pas une garantie de supprimer la honte.
 
-## Rémi commence à revenir dans une conversation réelle
+## Le repas à l’écart
 
 La vérification demandée est terminée et Claire en prend connaissance. Rémi remarque qu'il prépare encore une justification longue. Il s'arrête à l'information utile et écoute la réponse. Elle lui demande une modification du repère de classement. Il peut traiter ce point sans ajouter que tout son travail est mauvais. L'échange reste bref. Sa gêne persiste, mais il en sort avec une action claire plutôt qu'avec une série de suppositions sur le visage de Claire.
 
 Après le repas, il rejoint un collègue qui range ses affaires. Ils parlent du prochain horaire, puis d'une difficulté de transport. Personne ne lui demande de commenter toute la scène. Cette conversation ne prouve pas que l'erreur passe inaperçue ou qu'aucune critique n'existe. Elle apporte une observation plus modeste : un lien ordinaire reste possible après un défaut de travail. Rémi peut revenir sans avoir d'abord réparé son image dans tous les regards.
 
-À la colocation, il dit à Julie qu'il veut un moment seul avant la discussion prévue. Lorsqu'ils se retrouvent, il raconte le document mal classé et la correction, sans se décrire comme un problème général. Julie écoute, puis parle aussi de sa journée. Rémi remarque ce retour à une relation réciproque. Son erreur peut y avoir une place limitée, au lieu d'occuper tout l'espace ou de l'obliger à disparaître pour ne pas en parler.
+À la maison, Rémi demande quelques minutes seul. Julie lui laisse le temps de manger un morceau et revient avec son propre sujet : elle a besoin de savoir s’ils gardent leur créneau de courses. Après lui avoir répondu, il lui raconte le document mal classé. Il s’entend expliquer ce qu’il a corrigé sans recommencer l’histoire trois fois.
 
 ---
 

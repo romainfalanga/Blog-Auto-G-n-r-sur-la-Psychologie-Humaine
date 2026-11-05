@@ -13,11 +13,11 @@ contexte: "en famille"
 draft: false
 ---
 
-Le soleil entre par la fenêtre de la cuisine et réchauffe la tasse de café posée devant Patrick. Aujourd'hui, c'est dimanche 15 mars 2026, et la maison de Catherine sent le pain grillé et la soupe de légumes. Les voix vont et viennent autour de la table, le bruit des couverts installe un rythme familier. Patrick est assis à l'extrémité, ses mains calleuses serrant la tasse, le regard bleu fixé sur la mousse qui se forme au bord du café.
+Stéphanie n’a pas touché à son pain. Elle raconte à Patrick qu’elle ne sait plus quoi répondre à son responsable quand il lui demande de rester après son service. Patrick reconnaît la façon qu’elle a de lisser la serviette devant elle. Enfant, elle faisait déjà ça quand elle attendait une réponse de lui.
 
-Sa fille Stéphanie parle doucement, sa voix est plus fragile qu'à l'habitude. Elle confie ses difficultés au travail, ses doutes sur l'avenir, et Patrick sent une chaleur étrange dans la poitrine, comme si quelque chose bougeait sous sa cage thoracique. Il ressent une immense empathie, le désir de la prendre dans ses bras, de dire les mots qui apaisent. Mais son visage reste de marbre, ses épaules immobiles, et il détourne le regard vers la fenêtre. Il finit par parler de la météo, une banalité qui coupe la conversation et sécurise la pièce.
+« Il doit encore pleuvoir demain », dit-il. Catherine tourne la tête vers la fenêtre. Le silence qui suit laisse entendre la cuillère de Julien au fond de sa tasse. Patrick a envie de demander à sa fille ce qui s’est passé au travail. Il cherche les mots et, pendant qu’il cherche, elle commence à ramasser les assiettes.
 
-Depuis quelques jours, Patrick remarque qu’il change parfois de sujet quand une confidence le touche. Il a compris qu'il évitait parfois de voir ce qui se passait réellement en lui. Aujourd'hui, cette prise de conscience bouillonne, maladroite et nouvelle. Il sent que le surcontrôle émotionnel qu'il porte depuis l'enfance, depuis les mots de son père Marcel (un homme, ça ne pleure pas), est à la fois un bouclier et une prison.
+« Attends, laisse celle-là. » Il lui tend sa tasse au lieu de la prendre dans ses bras. Marcel, son père, répétait qu’un homme ne pleure pas. Patrick n’a jamais beaucoup discuté cette consigne. Il se demande à présent ce que Stéphanie a pu entendre dans sa remarque sur la pluie.
 
 ## Comprendre ce que signifie retenir l’expression d’une émotion
 
@@ -53,20 +53,17 @@ Patrick peut se dire « j’ai été touché » ou « je suis inquiet », à voi
 
 Il note ce qu’il aimerait dire à Marcel et relit la phrase quand il se sent prêt. Il peut la garder pour lui. Ce geste l’aide à préparer ses mots sans fixer de durée ni promettre de faire disparaître une émotion.
 
-## Patrick commence à s'ouvrir
+## Avant que Stéphanie se lève
 
-Depuis sa prise de conscience, Patrick change peu à peu. Il a commencé par nommer ses émotions, un geste discret qu'il pratique tôt le matin avant que la maison ne s'éveille. Aujourd'hui, au déjeuner, il sent la tension habituelle quand Stéphanie se confie. Cette fois, il garde sa tasse en main, prend une inspiration et murmure "je t'écoute" au lieu de parler de la pluie et du beau temps.
+Patrick garde la main sur la soucoupe. « Tout à l’heure, au boulot… Qu’est-ce qu’il t’a dit ? » Stéphanie s’arrête avec les assiettes dans les mains. Elle lui demande s’il veut vraiment savoir. Il répond que oui, puis la laisse reprendre au milieu.
 
-Catherine se souvient qu’il lui a demandé de le laisser parler quelques minutes avant de chercher une solution. Elle l’écoute, et Julien lui pose une question. Patrick répond avec quelques hésitations.
+Plus tard, Catherine lui demande s’il est inquiet. Il acquiesce. Julien commence à proposer une solution, mais Patrick lui demande de le laisser finir. Il n’ajoute que deux phrases. La deuxième lui coûte plus que la première.
 
-L'exercice de la lettre l'a touché plus profondément. Écrire à Marcel lui a permis d'exprimer une colère mêlée de tristesse. En relire une phrase à voix haute chez lui a été une étape importante. Il n'a pas pleuré, mais ses épaules se sont relâchées, comme si un poids s'allégeait. Ces petits pas s'accumulent et modifient doucement le comportement qu'il a adopté pendant quarante ans. Patrick n'a pas changé du jour au lendemain, mais il construit une nouvelle habitude qui lui permet d'être présent sans s'épuiser à tout verrouiller.
-
+Dans la soirée, il griffonne quelques mots qu’il aimerait dire à Marcel. Il replie la feuille et la glisse dans le tiroir de la cuisine. Quand Catherine passe, il ferme le tiroir et lui demande si Stéphanie a bien repris le reste de la soupe.
 ---
 
-Quand Stéphanie lui parle, Patrick peut répondre qu’il l’écoute. Plus tard, il peut décider de dire quelque chose de sa propre inquiétude. Ces gestes peuvent prendre des formes différentes selon les échanges.
+Une réponse brève peut rendre l’attention perceptible. On peut aussi choisir de garder une émotion pour soi, selon le moment et la personne.
 
-Vous pouvez choisir une situation où vous souhaitez rendre votre attention ou votre besoin plus visible. La réserve peut aussi vous convenir selon le moment.
-
-Si les émotions vous semblent trop difficiles à gérer ou si cette retenue vous pèse trop lourd, l'aide d'un psychologue peut être précieuse. Une consultation offre un espace protégé pour explorer ces mécanismes et construire un équilibre qui vous convient. Vous n'avez pas à porter ce poids tout seul.
+Quand la retenue devient une source de souffrance, en parler à un psychologue peut aider à comprendre ce qui rend certains échanges difficiles.
 
 Sources : [Gross et Levenson, expérience sur la suppression de l’expression, 1993](https://pubmed.ncbi.nlm.nih.gov/8326473/).

@@ -13,11 +13,11 @@ contexte: "sur les réseaux sociaux"
 draft: false
 ---
 
-Hugo tient son sac de guitare d'une main, le tissu râpé qui frotte contre sa veste en jean. Il est debout dans la file d'attente d'une petite boutique de partitions, dehors il fait frais et la pluie a laissé des éclats sur la chaussée. Sur l'écran de son téléphone, son fil d'actualité déroule des photos et des instants de vies qui semblent appartenir à des gens incontestablement heureux. Il regarde, sans vraiment regarder, et la lecture des légendes glisse vers lui comme des épingles. La personnalisation sur les réseaux sociaux le touche sans qu'il s'en aperçoive : il lit un commentaire anodin sous une story et l'interprète comme une attaque personnelle contre sa valeur.
+À la boutique de partitions, Hugo attend avec son étui à la main. Sur le téléphone, un ancien collègue annonce un concert. Hugo connaît les noms de presque tout le monde sur l’affiche. Le sien n’y figure pas. Il relit la légende jusqu’à l’arrivée du client suivant.
 
-Ce soir, après son service au bar, Hugo compose un couplet sur un carnet griffonné, les mots viennent plus facilement que les pensées claires. Depuis sa rupture avec Chloé, chaque image où elle apparaît lui active des scénarios catastrophes. Il se rappelle la scène du 29 avril, quand il a reconnu ses vieux schémas en répétition, et la discussion tendue du 3 mai dans le local technique, où il a utilisé l'humour pour masquer sa peur. Ces acquis l'ont aidé à nommer certains mécanismes, mais sur les réseaux sociaux la personnalisation se faufile autrement : subtile, presque imperceptible, et pourtant déstabilisante.
+Il commence son service au bar avec l’idée que son collègue lui en veut. Dans le métro du retour, il cherche encore la publication. L’annonce n’a pas changé. Il se rend compte qu’il a ajouté de mémoire une remarque que son collègue n’a pas écrite.
 
-Dans le métro qui le ramène chez lui, son pouce effleure une story où un ancien collègue annonce un concert sans mentionner Hugo. Il sent une aiguille de rejet se planter, il s'imagine exclu, insignifiant. Sa timidité amplifie la sensation ; dans la vraie vie il aurait peut-être demandé, douté, proposé sa participation. Sur les écrans, l'absence de réponses et le défilement rapide transforment l'incertitude en certitude. Hugo se rend compte que la personnalisation sur les réseaux sociaux fonctionne comme un miroir déformant : il réfléchit tout dans le prisme de lui-même, et sa peur d'abandon, héritée de relations familiales où l'affection dépendait de la performance, colore chaque interprétation. Il revoit soudain le visage de son père, Alain, dont le regard ne s'illuminait que lors des victoires au conservatoire, et comprend que ce besoin de validation numérique n'est que le prolongement de cette quête d'amour conditionnel.
+Hugo aimerait lui demander pourquoi il ne l’a pas appelé. Il pense à la dernière fois qu’il a accusé quelqu’un avant de vérifier ce qui s’était passé. Pour l’instant, il ne sait même pas s’il avait envie de jouer à ce concert avant de voir l’affiche.
 
 ## Définition de la personnalisation
 
@@ -75,17 +75,13 @@ Exercice concret :
 2. Revenez à votre activité sans organiser plusieurs vérifications du fil.
 3. Notez ce qui s'est passé et ce qui reste inconnu. Si les messages sont ciblés ou menaçants, Hugo peut les signaler ou chercher du soutien plutôt que répéter l'échange.
 
-Pour Hugo, qui a souvent oscillé entre retrait et explosion émotionnelle, cette micro-exposition lui permet de tester des réponses moins dramatiques. Au fil des essais, il constate que la plupart des situations sociales numériques ne déclenchent pas de conséquences catastrophiques immédiates.
+Hugo peut commenter un morceau qu’il a réellement envie de saluer, puis retourner à ce qu’il faisait. Si personne ne lui répond, il n’a pas de conclusion à en tirer. L’intérêt de l’essai tient à la place qu’il veut laisser à son message et à ce qu’il peut faire ensuite.
 
-## Évolution de Hugo face à son fil d'actualité
+## Il regarde enfin la date
 
-Aujourd'hui, Hugo est assis sur la marche d'un petit amphithéâtre après une session de répétition au studio. Le portable est posé sur ses genoux, l'écran montre une notification qu'il choisit d'ignorer pendant une minute, puis il applique la vérification d'hypothèse apprise. Il écrit : « Samba n'a pas tagué tout le monde » puis ajoute deux alternatives plausibles. Le geste est mécanique, presque banal, mais il a la saveur d'une décision consciente. C'est différent de ses anciennes réactions où l'absence valait condamnation immédiate.
+À la répétition suivante, Hugo en parle à Samba. Samba lui demande quand a lieu le concert. Hugo retourne voir l’affiche et découvre qu’il travaille ce soir-là. Il ne sait toujours pas pourquoi l’autre ne lui a rien dit. Il lui envoie une question sur le programme, parce qu’il aime l’un des morceaux annoncés, puis pose le téléphone pour accorder sa guitare.
 
-Il se rappelle de la nuit du 14 avril, quand l'euphorie l'avait poussé à envoyer un message enflammé à Chloé, et de la discussion du 3 mai où son humour avait servi de voile. Ces souvenirs sont désormais des repères : ils lui permettent de reconnaître ses déclencheurs. Il utilise le cadrage relationnel pour lister trois moments où Samba ou Théo ont été bienveillants, comme la fois où Théo l'a aidé à remonter son ampli après une panne sur scène, le message de soutien de Samba après une mauvaise critique, ou la soirée où un public a chanté son refrain. Cette liste rééquilibre l'interprétation du post vide d'interaction.
-
-Sur les réseaux, il commence à pratiquer la micro-exposition : commenter une vidéo d'un autre musicien sans attendre une réponse comme si sa valeur en dépendait. Après 24 heures, il note que la vie n'a pas basculé. Il applique aussi ses connaissances sur les états du Moi ; quand son Parent critique murmure qu'il n'est pas assez, il le nomme et fait appel à son Adulte pour vérifier des faits. Ce n'est pas une transformation spectaculaire, mais un changement d'attitude tangible : il se permet d'interroger plutôt que de juger.
-
-Dans son carnet, à la fin de la journée, Hugo trace un refrain qui fait écho à cette pratique : une ligne simple qui dit « j'interroge avant de condamner ». Ce nouveau mantra n'efface pas sa sensibilité ni sa peur d'abandon, mais il la contient. En reprenant des techniques déjà travaillées, comme les TCC, les états du Moi ou le contrôle des défenses humoristiques, il construit un réflexe numérique plus robuste. Il sait que les plateformes sont conçues pour amplifier les émotions, il décide de les utiliser comme un instrument et non comme un juge.
+La réponse n’arrive pas avant la fin de la répétition. Hugo commence à vérifier l’écran en rangeant les câbles, se ravise et remet le téléphone dans sa poche. Il ne lui est pas devenu indifférent d’être invité. Ce soir, il a pu laisser la question ouverte le temps de jouer.
 
 ---
 

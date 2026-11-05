@@ -13,7 +13,7 @@ contexte: "avec ses enfants"
 draft: false
 ---
 
-Emma court dans le couloir de l'appartement en riant, poursuivie par Léo qui agite un dinosaure en plastique. Le bruit des petits pieds sur le parquet résonne, mais pour une fois, Camille ne sent pas la panique monter. Elle est assise à la table de la cuisine, terminant de remplir une fiche de suivi pour le service de cardiologie, mais son esprit est ici, avec eux. Habituellement, cette agitation déclencherait chez elle une vérification immédiate des angles de meubles ou une injonction au silence, de peur qu'un accident ne survienne ou que le désordre ne l'engloutisse.
+Le dinosaure de Léo perd une patte dans le couloir. Emma le ramasse et lui crie qu’il peut encore courir sur trois jambes. Camille lève la tête de sa fiche de suivi et ouvre la bouche pour leur demander d’arrêter. À cet instant, Emma se décale pour laisser passer son frère. Camille attend de voir la suite.
 
 Elle repense à ce fameux 5 avril, il y a seulement deux semaines, quand elle s'était isolée dans la réserve de l'hôpital, inquiète d’une gêne dans la poitrine. Elle craignait un problème cardiaque et a demandé à Nathalie de l’aider à faire évaluer la gêne. Aujourd'hui, 19 avril 2026, l'air semble plus léger. Elle observe ses enfants sans cette lentille de catastrophe permanente qu'elle a longtemps portée comme une armure. Elle se souvient de la toux de Léo qui, il y a peu, l'aurait plongée dans un scénario d'hospitalisation immédiate ; aujourd'hui, elle écoute son rire sans y chercher le symptôme d'une défaillance.
 
@@ -47,13 +47,15 @@ Camille peut se demander ce que ses enfants attendent d’elle maintenant et ce 
 ### 3. La pratique de la résonance empathique
 Camille peut demander à Emma : « Tu es déçue que ton dessin soit taché ? » Emma peut confirmer ou la corriger. Camille écoute ensuite ce que sa fille souhaite. Ces échanges n’ont pas besoin d’être comptés.
 
-## Camille commence à poser un regard apaisé sur son rôle
+## Les devoirs et le dinosaure
 
-Camille ferme son dossier de cardiologie. Elle regarde David qui aide Léo avec ses devoirs de mathématiques. D'habitude, elle interviendrait, craignant que David ne soit pas assez précis ou que Léo ne comprenne pas assez vite. Mais elle reste à sa place. Elle se rappelle ses progrès depuis mars, quand elle a compris que son besoin de tout contrôler n'était qu'un vestige de son enfance où elle devait être l'infirmière de tout le monde, même de sa propre mère. Elle accepte enfin que David puisse être un partenaire de soin efficace, relâchant cette abnégation sacrificielle qui l'épuisait tant.
+Camille ferme son dossier de cardiologie. Elle regarde David qui aide Léo avec ses devoirs de mathématiques. D'habitude, elle interviendrait, craignant que David ne soit pas assez précis ou que Léo ne comprenne pas assez vite. Mais elle reste à sa place. Elle tend l’oreille quand David demande à Léo de refaire une division. Chez Françoise, elle aurait vite essayé d’abréger un échange semblable avant que quelqu’un s’impatiente. David reprend son exemple et Léo tire le cahier vers lui. Elle accepte enfin que David puisse être un partenaire de soin efficace, relâchant cette abnégation sacrificielle qui l'épuisait tant.
 
 Elle se lève et se dirige vers le salon. Elle ne va pas ranger les jouets qui traînent, elle va simplement s'asseoir sur le tapis à côté d'Emma. Elle se sent moins comme une sentinelle aux aguets et plus comme une femme qui habite sa propre vie. Elle peut passer un moment avec Emma sans y voir un test de leur relation. Elle choisit de faire confiance à David, à ses enfants, et surtout à elle-même.
 
-En posant sa main sur le sol, elle sent la texture du tapis, la chaleur de la pièce, et elle sourit intérieurement. Elle n'est plus l'enfant qui doit sauver sa mère. Elle est la mère qui permet à ses enfants de simplement être des enfants. Ce soir, elle ne préparera pas les lunchboxes avec cette frénésie anxieuse. Elle le fera avec calme, en sachant que sa valeur ne dépend pas de la perfection de la pomme coupée en quartiers, mais de la lumière tranquille qu'elle dégage maintenant qu'elle a appris à s'ancrer dans la sécurité.
+En posant sa main sur le sol, elle sent la texture du tapis, la chaleur de la pièce, et elle sourit intérieurement. Emma lui demande de retrouver la patte du dinosaure. Camille cherche sous le tapis, à côté d’elle. Ce soir, elle ne préparera pas les lunchboxes avec cette frénésie anxieuse. Elle le fera avec calme, en sachant que sa valeur ne dépend pas de la perfection de la pomme coupée en quartiers, mais de la lumière tranquille qu'elle dégage maintenant qu'elle a appris à s'ancrer dans la sécurité.
+
+Emma demande si elle peut poursuivre la course avec le dinosaure à trois pattes. Camille lui passe le jouet. En entendant Léo demander à David de vérifier un calcul, elle reste encore un peu sur le tapis.
 
 ---
 

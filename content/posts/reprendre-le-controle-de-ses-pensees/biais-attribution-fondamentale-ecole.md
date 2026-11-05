@@ -13,11 +13,11 @@ contexte: "à l'école ou aux études"
 draft: false
 ---
 
-La porte du bureau claque doucement, puis un bruit de sac qui traîne sur le carrelage. Isabelle relève la tête, ses doigts chauffés par la tisane encore tiède posée sur le coin du bureau. Devant elle, Mathieu, seize ans, évite le regard et pose ses baskets pleines de boue sur le carrelage humide du couloir. Il dit tout bas qu'il a encore manqué les trois dernières heures. Sans réfléchir, Isabelle pense que c'est de la paresse.
+Mathieu s’arrête sur le seuil du bureau. Il regarde les traces de boue qu’il vient de faire et annonce qu’il a encore manqué trois heures de cours. Isabelle a déjà « manque de motivation » en tête. Elle décale le dossier pour qu’il puisse s’asseoir.
 
-La pensée lui arrive rapidement. Elle remarque la crispation dans sa poitrine et se souvient d’une période où elle se sentait chargée de calmer les disputes à la maison. Ce souvenir lui vient sans expliquer à lui seul son jugement sur Mathieu. Elle reconnaît une habitude : tirer une conclusion sur quelqu’un avant d’avoir examiné la situation.
+Il s’assoit avec son sac sur les genoux. Isabelle se rappelle l’empressement avec lequel elle essayait autrefois de savoir qui avait tort lors des disputes chez elle. Elle a envie d’aller aussi vite avec Mathieu. Le relevé d’absences lui apprend seulement quand il n’était pas là.
 
-Aujourd'hui, 18 mars 2026, au collège où elle travaille, Isabelle comprend que ce jugement immédiat pèse sur sa fatigue émotionnelle. Elle repense à la conversation d'il y a dix jours, quand elle découvrait son attachement anxieux-préoccupé avec Aurélie ; elle a appris à repérer les signes d'activation et à nommer ses peurs. Maintenant, elle s'autorise à questionner ce jugement sur Mathieu, à chercher des causes situées plutôt qu'à coller une étiquette. Elle sent la tension demeurer, mais aussi une curiosité nouvelle, comme si elle décidait d'enquêter avant de condamner, rationalisant ses émotions pour ne plus être l'esclave de ses premières impulsions.
+Depuis sa dispute avec Aurélie, Isabelle essaie de se demander ce qu’elle a réellement entendu avant de répondre. Avec Mathieu, c’est plus facile à dire qu’à faire. Elle lui demande ce qui s’est passé juste avant son premier cours manqué.
 
 ## Définition du biais d'attribution fondamentale
 
@@ -53,7 +53,7 @@ Cette technique de pause réflexive permet d'insérer une micro-pause cognitive 
 
 L'objectif est d'explorer les causes situées avec l'élève ou la famille sans imposer une explication. Lors d'un entretien, au lieu de commencer par un reproche, utilisez une approche par étapes : demandez à l'élève de décrire ce qui s'est passé, ce qui a rendu la situation difficile et s'il y a eu des changements récents. Terminez en cherchant ensemble ce qui pourrait être testé pour améliorer la situation. En gardant un ton curieux et en évitant de valider une attribution interne, vous déplacez la discussion des jugements vers la recherche de solutions concrètes.
 
-## Isabelle transforme son regard sur ses élèves
+## Ce que Mathieu peut expliquer
 
 Isabelle applique ces techniques dès le lendemain. Elle prend son carnet et, au lieu de noter Mathieu comme paresseux, elle remplit une grille de contexte : heure de sortie du bus, présence d'une aide familiale, repos la veille. Elle utilise le temps des trois vérifications et pose à Mathieu une question simple et non accusatrice sur ce qui l'a empêché d'être en cours. Mathieu explique qu'il a dû garder son petit frère en l'absence de sa mère et qu'il n'avait pas de place en étude. La situation n'excuse pas l'absence, mais elle change la façon dont Isabelle y répond.
 

@@ -13,7 +13,7 @@ contexte: "en couple"
 draft: false
 ---
 
-Le ciel de ce 26 avril 2026 est d'un gris métallique qui rappelle à Youssef la couleur de son ancien tableau de bord d'ingénieur. Assis sur le canapé en tissu chiné de l'appartement qu'il partage avec Léa, il observe les gouttes de pluie s'écraser contre la vitre. Son arrêt pour épuisement professionnel lui laisse un temps infini qu'il ne sait pas toujours comment meubler. À côté de lui, Léa termine son livre, le visage paisible, mais Youssef sent une tension familière monter en lui. C'est ce même malaise qu'il a ressenti il y a quelques semaines au canal de l'Ourcq, cette impression d'être un observateur étranger à sa propre vie, incapable de mettre des mots sur ce qui l'agite.
+« Bof. » Le mot sort avant que Léa ait fini sa question. Elle passe chez Youssef en fin d’après-midi, son sac de cours posé près de la porte. Elle lui a demandé comment se passe l’attente depuis son arrêt, pas comment il compte organiser son lundi. Il regarde les gouttes sur la vitre et se rend compte qu’il a préparé une réponse à cette deuxième question seulement.
 
 Léa lève les yeux de sa lecture et lui demande avec douceur s'il va bien. Youssef cherche une réponse dans sa bibliothèque mentale, mais comme souvent, il ne trouve qu'un seul mot : *bof*. Il sait pourtant que ce n'est pas suffisant. Depuis qu’il a remarqué qu’il lui est difficile de dire ce qu’il éprouve, il essaie d'être plus honnête. Mais entre le vide total et l'explosion de colère, il ne semble rien exister. Il se sent simplement mal, une sorte de brouillard épais qui pèse sur sa poitrine, sans pouvoir dire s'il s'agit de tristesse, de culpabilité ou d'une simple fatigue.
 
@@ -47,13 +47,13 @@ Pour ceux qui ont une tendance à l'intellectualisation, cette méthode aide à 
 ### 3. La technique du scénario alternatif
 Cet exercice se pratique idéalement à deux ou par écrit. Face à une situation qui a provoqué une réaction émotionnelle forte, essayez de rédiger trois versions différentes de ce que vous avez ressenti. La première version utilise des mots simples (bien, mal, énervé). La deuxième version cherche des nuances sociales (rejeté, ignoré, soutenu). La troisième version explore des nuances existentielles (impuissant, épanoui, désorienté). En comparant ces versions, vous apprenez à voir la complexité de votre paysage intérieur. Pour Youssef, cela signifie admettre que derrière son calme apparent face à son père Hamid, il y a de l'admiration mêlée à une profonde frustration.
 
-## Évolution de Youssef vers la nuance
+## Après « bof »
 
 Youssef repose son regard sur Léa. Il se souvient de cette période, il y a encore quelques mois, où il aurait simplement dit qu'il était fatigué avant de partir courir pour évacuer la tension. Mais aujourd'hui, il choisit une autre voie. Il se remémore les exercices de réévaluation cognitive qu'il a commencés à pratiquer lors de ce fameux dîner en brasserie où il s'était muré dans le silence. Il prend une inspiration et se concentre sur ce fameux *bof*. Ce n'est pas de la fatigue. C'est une forme de déception protectrice. Il est déçu de ne pas avoir encore lancé son projet de conseil en éthique numérique, et il se sent illégitime, comme s'il jouait un rôle qui ne lui appartient pas.
 
 Il s'approche de Léa et s'assoit à ses côtés. Il ne commence pas par une analyse logique de sa productivité ou par un calcul de probabilité sur sa réussite future. Il lui dit simplement qu'il ressent une sorte de flottement mélancolique. Le mot *mélancolie* sonne étrangement dans sa bouche, lui qui a grandi avec l'idée que les émotions devaient rester privées et silencieuses, calquées sur la pudeur de sa mère Leïla. Pourtant, en prononçant ce mot, il sent la tension dans sa nuque diminuer. Ce n'est plus une masse informe de souffrance, c'est un sentiment identifié, presque gérable. Il explique à Léa qu'il se sent à la fois impatient de commencer sa nouvelle vie et effrayé de ne pas être à la hauteur de l'image de réussite que son père a pour lui.
 
-Léa pose sa main sur la sienne. Pour la première fois, Youssef ne compte pas les secondes avant de retirer sa main, comme il l'aurait fait par réflexe de suppression émotionnelle. Il accepte ce contact sans chercher à le rationaliser. Il remarque qu'il arrive, cette fois, à dire ce qui le gêne. En nommant ses peurs avec précision, il les empêche de dicter ses comportements. Son parcours, de l'alexithymie vers une conscience plus fine de lui-même, est loin d'être terminé, mais il n'est plus dans le brouillard. Il commence à percevoir les couleurs de sa vie intérieure, et même si certaines sont sombres, elles sont enfin réelles.
+Léa pose sa main sur la sienne. Il la laisse là, le temps de finir sa phrase. « Quand le téléphone sonne, j’espère que ce n’est pas le travail. Quand il ne sonne pas, je me demande si on m’a déjà remplacé. » Léa attend. Il n’a pas encore de mot pour les deux choses à la fois.
 
 ---
 

@@ -81,7 +81,7 @@ Avant de commencer, décidez ce que vous examinerez après l’expérience. Sami
 
 L’étape suivante peut être de recommencer, de modifier ou de suspendre. Aucun de ces choix n’a besoin d’être présenté comme une grande décision identitaire. Une pratique personnelle gagne parfois à rester légère. Samira peut garder un dessin dans sa pochette sans lui demander de prouver qu’elle avance enfin dans sa vie.
 
-## Samira essaie une séance et conserve ses questions
+## La chaise qui danse
 
 L’agence confirme un horaire compatible avec la découverte. Mireille accepte de rester avec Noé pendant le créneau précis, et Samira vérifie qu’elle peut revenir à temps. Elle confirme sa place. Ces accords ne constituent pas une disponibilité générale pour les semaines suivantes. Ils rendent possible cette séance particulière, avec des limites connues de chacune.
 
@@ -89,7 +89,7 @@ Devant la chaise installée au milieu du groupe, Samira commence par tracer un p
 
 Au retour, Noé veut voir la feuille. Elle lui montre le pied trop long et le second essai. Il préfère le premier parce que la chaise semble danser. Samira accepte ce regard sans expliquer qu’il faut la trouver réussie. Son dessin peut exister comme une expérience, avec des défauts et une histoire, dans le même appartement que les factures et les papiers à compléter.
 
-La formule régulière de l’atelier ne correspond pas encore à ses horaires ni à ses moyens. Elle ne s’inscrit pas pour l’instant. Elle garde les informations et le crayon prêté pendant la séance reste sur place, comme prévu. Son projet n’est ni accompli ni perdu. Il possède désormais une expérience réelle à partir de laquelle elle pourra choisir une autre forme.
+Les horaires réguliers ne lui conviennent toujours pas. Samira demande seulement si les séances d’essai se répètent. À la maison, Noé veut poser la chaise dessinée près de ses livres. Elle lui demande de choisir entre les deux essais. Il garde celle qui penche, alors qu’elle était prête à la glisser sous la pile.
 
 ---
 

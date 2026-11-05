@@ -13,7 +13,7 @@ editorial_pack: "psychology-v10"
 draft: false
 ---
 
-La feuille pliée en quatre dépasse du programme de l'association culturelle. Mireille la tend à Anaïs avec une intention généreuse : « J'ai pensé à toi. » Le témoignage parle de douleurs articulaires, promet un changement rapide et présente une méthode personnelle comme une réponse générale. L'incertitude de santé entre dans la conversation avant même qu'Anaïs termine sa lecture. Si elle ignore cette histoire, laisse-t-elle passer quelque chose d'important ?
+La feuille pliée en quatre dépasse du programme de l'association culturelle. Mireille la tend à Anaïs avec une intention généreuse : « J'ai pensé à toi. » Le témoignage parle de douleurs articulaires, promet un changement rapide et présente une méthode personnelle comme une réponse générale. Anaïs arrive à la moitié de la page et revient au début. L’auteur raconte une douleur assez semblable à la sienne pour qu’elle ait envie de lire la suite. Si elle ignore cette histoire, laisse-t-elle passer quelque chose d'important ?
 
 Anaïs a quarante-six ans, travaille à l'accueil municipal et vit avec une polyarthrite diagnostiquée, suivie médicalement. Elle commence à adapter ses activités et à demander des appuis concrets à Benoît, son compagnon. Elle ne souhaite pas remplacer son suivi. Mais les jours difficiles donnent une force particulière aux récits qui parlent sans hésitation, surtout lorsqu'ils semblent offrir une explication simple à ce que les consultations décrivent avec davantage de nuances.
 
@@ -83,7 +83,7 @@ Elle peut dire à Mireille : « Merci d'avoir pensé à moi. Je vérifie les inf
 
 Avec Benoît, elle précise ce qu'elle attend : écouter sa crainte ou l'aider à retrouver une référence, sans passer la soirée à multiplier les scénarios. Un soutien concret peut rendre la question plus accessible. Il ne doit pas transformer le couple en comité permanent chargé de résoudre toutes les inconnues médicales.
 
-## Anaïs garde la question et repose la feuille
+## Replier le témoignage
 
 Dans la salle associative, elle remercie Mireille pour son attention et dit qu'elle ne souhaite pas suivre les conseils de cette page sans avis médical. Mireille paraît d'abord contrariée, puis raconte comment elle reçoit elle aussi beaucoup de liens. Leur conversation retrouve un terrain commun : la difficulté à savoir quoi faire de toutes ces informations. Mireille demande alors quelles propositions culturelles lui feraient davantage plaisir, et Anaïs retrouve une manière plus légère de recevoir son attention.
 

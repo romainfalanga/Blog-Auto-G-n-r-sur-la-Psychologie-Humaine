@@ -13,7 +13,7 @@ episode: 4
 draft: false
 ---
 
-Trois portions quittent le stand pendant qu'Éloi termine la sienne. La comparaison au travail s'impose avant même qu'il décide de compter. Cédric échange avec une visiteuse, vérifie un élément et prépare déjà la suite. Le restaurant participe à un événement local, sous une structure qui laisse passer les odeurs de pain du stand voisin. Éloi aime être là. Il connaît une partie de la préparation et voudrait profiter de cette première présence hors de la cuisine habituelle.
+Trois portions quittent le stand pendant qu’Éloi termine la sienne. Il regarde Cédric servir la personne suivante et laisse une autre cliente attendre devant lui. Quand il baisse de nouveau les yeux, sa portion lui paraît trop grande.
 
 Il regarde pourtant davantage les mains du chef que son propre espace. Un écart de vitesse devient une question sur sa place : si Cédric accomplit tout cela sans paraître chercher, pourquoi lui faut-il vérifier encore ? Il sait analyser une fiche ratée sans se condamner entièrement. Devant le public, cet acquis devient moins accessible. Il accélère, oublie le repère qu'il utilise pour contrôler son résultat et doit reprendre une portion avant transmission.
 
@@ -51,7 +51,7 @@ Quentin rejoint parfois le stand et effectue une tâche connue plus rapidement q
 
 Éloi n'a pas besoin d'enquêter sur chaque réussite d'un collègue pour la rendre moins impressionnante. Il peut admettre qu'il ne connaît pas toutes les conditions. Il peut aussi apprendre auprès de Quentin et lui apporter un appui sur un autre aspect. La relation n'est pas obligée de rester un classement. Elle peut devenir un échange de repères, tout en laissant chacun avec ses besoins de progression.
 
-## 3 techniques pour utiliser la comparaison sans s'y enfermer
+## Choisir ce qu’on veut observer chez un collègue
 
 ### 1. Revenir à une dimension et à un critère
 
@@ -75,13 +75,13 @@ Pour observer sa progression, Éloi regarde deux essais portant sur une tâche s
 
 Il inclut une limite ou un échec sans effacer toute progression. Une tâche réussie calmement peut demander un nouvel apprentissage dans une cadence différente. Sa note indique alors un acquis et un besoin. Cette manière de suivre le travail reprend ce qu'il commence avec son sentiment d'efficacité : une capacité possède une portée. Elle peut être réelle, même si elle ne s'étend pas encore à toutes les situations du métier.
 
-## Éloi commence à regarder un collègue sans disparaître
+## Chacun à sa place derrière le stand
 
 Le stand reste animé. Éloi voit encore Cédric avancer plus vite et ressent un pincement d'envie. Il ne se reproche pas cette émotion. Il reprend son rôle, maintient le critère convenu et transmet lorsqu'une vérification est nécessaire. Une portion doit être reprise, mais l'incident reste lié au travail précis. Il ne devient pas une preuve que toute sa présence ralentit l'équipe.
 
 À la fin de l'événement, Cédric explique l'ordre qu'il utilise pour anticiper certaines demandes. Éloi reconnaît un choix qu'il ne voit pas pendant le service. Il ne peut pas encore l'appliquer de la même manière. Ils conviennent d'un essai plus limité en cuisine. Le regard vers un professionnel expérimenté produit cette fois une question et une suite, au lieu d'une comparaison dont Éloi sort seulement plus petit.
 
-Au foyer, il raconte la journée à Nora sans cacher la différence de cadence. Il ajoute ce qu'il sait mieux repérer et l'essai prévu. Nora lui demande aussi s'il apprécie la présence du public. Éloi répond oui, avec hésitation. Sa journée contient donc autre chose qu'un niveau à mesurer : un intérêt pour une situation, une difficulté concrète et une relation de travail. Ces dimensions peuvent coexister sans être rangées dans un verdict unique.
+Au foyer, Nora lui demande s’il a aimé parler aux visiteurs. Éloi pense à une personne qui est revenue lui demander comment était faite sa portion. Il avait pris le temps de lui répondre. Le stand aurait sans doute avancé plus vite s’il s’en était tenu à servir. Sur le moment, il n’avait pas envie d’écourter cet échange.
 
 ---
 

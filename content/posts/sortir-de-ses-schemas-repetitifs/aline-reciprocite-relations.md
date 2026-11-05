@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-Les deux billets de cinéma collent encore à la paume d’Aline quand Chloé la rejoint sous l’auvent. Parler de réciprocité dans les relations ne figure pas dans leur programme. Pourtant, Aline compte déjà : elle choisit le film, réserve les places et propose chaque date depuis plusieurs mois. Son amie la remercie et lui demande comment va la quincaillerie. Aline répond « ça va », puis se reproche de trouver la question insuffisante.
+Les deux billets de cinéma collent encore à la paume d’Aline quand Chloé la rejoint sous l’auvent. Elle aurait aimé que Chloé lui envoie les horaires, pour une fois. Elle fait le compte avant de le lui dire : elle choisit le film, réserve les places et propose chaque date depuis plusieurs mois. Son amie la remercie et lui demande comment va la quincaillerie. Aline répond « ça va », puis se reproche de trouver la question insuffisante.
 
 Chloé travaille dans la restauration et ses jours libres changent souvent. Elle ne demande pas qu’Aline organise tout, mais accepte volontiers ses propositions. Aline apprécie cette facilité lorsqu’elle souhaite sortir ; elle la ressent comme une preuve de désintérêt quand elle est fatiguée. Elle garde ces deux lectures pour elle. Derrière la vitre, la file avance. Une conversation importante risque de se perdre une nouvelle fois derrière la bande-annonce.
 
@@ -81,7 +81,7 @@ Elle se demande ensuite si la relation laisse une place à sa vie. Peut-elle rac
 
 Si le déséquilibre persiste, Aline peut réduire certaines tâches ou espacer des rencontres sans punition théâtrale. Elle peut dire qu’elle ne souhaite plus gérer systématiquement les réservations. Elle garde la possibilité d’un lien plus léger si cela lui convient, ou d’une distance plus nette si ses besoins restent durablement ignorés. La réciprocité ne se construit pas par la seule patience de celle qui attend.
 
-## Aline commence à demander une initiative
+## Un déjeuner proposé par Chloé
 
 Sur le trottoir après le film, Chloé écoute sans préparer immédiatement une défense. Elle reconnaît qu’elle laisse Aline choisir parce qu’elle lui fait confiance sur les sorties. Elle ne comprend pas d’emblée la fatigue que cela représente. Aline résiste à l’envie de répondre que ce n’est rien. Elle explique qu’elle aime organiser parfois, mais ne souhaite pas en être chargée par défaut.
 

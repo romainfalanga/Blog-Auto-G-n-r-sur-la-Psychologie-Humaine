@@ -83,7 +83,7 @@ Choisissez ensuite comment la préserver sans créer une obligation supplémenta
 
 Si rien ne semble disponible, évitez de transformer cette difficulté en nouvel échec. Certaines périodes laissent très peu d’espace. Une présence extérieure peut aider à rechercher ce qui compte, tandis que les réponses matérielles restent prioritaires. Le respect de la personne inclut le droit de ne pas produire un récit inspirant sur ce qu’elle traverse.
 
-## Samira formule un besoin sans raconter toute sa vie
+## La feuille près des livres
 
 L’échange de quartier se tient à un horaire incompatible avec sa mission de caisse. Samira choisit de ne pas perdre cette journée de travail pour démontrer qu’elle souhaite participer. Avec Étienne, elle vérifie qu’une contribution écrite peut être transmise et dans quelles conditions. Elle rédige quelques lignes sur les ouvertures de services et les déplacements répétés.
 
@@ -91,7 +91,7 @@ Elle n’y inscrit ni le détail de ses revenus ni l’histoire de Noé. Elle de
 
 À la laverie, le cycle se termine. Noé l’aide à repérer ses vêtements et Samira garde le suivi des affaires à rapporter. Ils rentrent avec un sac lourd et une feuille où une machine ressemble à une planète. Le besoin de linge propre trouve une réponse pour cette semaine. Le besoin de stabilité, lui, reste une question ouverte.
 
-En rangeant sa pochette, Samira retrouve la chaise dessinée. Elle la place près des livres, séparée des justificatifs. Ce rangement n’annonce aucune guérison ni sortie certaine de la précarité. Il donne une forme ordinaire à ce qu’elle commence à défendre : être accompagnée dans ses besoins sans être réduite à eux, et pouvoir nommer ce qui manque sans renoncer à tout ce qui compose sa vie.
+En rentrant, Samira range la note dans sa pochette. Elle a gardé avec la note sa question sur le logement : à quelle date les habitants recevront-ils un écrit ? Elle ne sait toujours pas qui pourra lui répondre. Noé sort le dessin de la chaise, un peu froissé derrière les justificatifs. Samira le lisse du plat de la main. Puis ils dégagent ensemble une place près des livres.
 
 ---
 

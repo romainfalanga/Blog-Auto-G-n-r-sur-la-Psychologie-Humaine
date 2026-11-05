@@ -13,7 +13,7 @@ draft: false
 
 Isabelle s’assied sur un banc en bois face au bassin du Jardin du Luxembourg. Le vent soulève quelques mèches de ses cheveux roux. Elle ouvre le carnet qu’elle emporte depuis sa séparation avec Aurélie, puis le referme presque aussitôt. Elle a déjà passé une partie de la matinée à relire le dernier message de son ex-compagne. Devant elle, un couple parle à voix basse et un pigeon s’approche de ses chaussures.
 
-Aurélie lui avait reproché de vouloir tout analyser. Isabelle entend encore la phrase comme si elle contenait une explication définitive de leur séparation. Elle pense à son divorce avec Laurent et au départ de Théo chez son père le mois dernier. Chacun de ces souvenirs a son histoire. Ce qu’Isabelle éprouve aujourd’hui tient aussi à une perte très concrète : elle avait prévu d’aller au marché avec Aurélie samedi et n’a aucune envie d’y retourner seule.
+Aurélie lui avait reproché de vouloir tout analyser. Isabelle entend encore la phrase comme si elle contenait une explication définitive de leur séparation. Elle pense à son divorce avec Laurent et au week-end que Théo avait passé chez son père le mois dernier. Chacun de ces souvenirs a son histoire. Ce qu’Isabelle éprouve aujourd’hui tient aussi à une perte très concrète : elle avait prévu d’aller au marché avec Aurélie samedi et n’a aucune envie d’y retourner seule.
 
 Elle pense à sa mère, Geneviève, puis à son amie Catherine, dont elle a parfois interprété un silence trop vite. Au lieu de chercher ce que ces trois relations auraient forcément en commun, elle rouvre son carnet et note ce qu’elle peut dire avec certitude. « Aurélie me manque. Le dernier message me blesse. Ce samedi est libre, et je ne sais pas encore ce que j’en ferai. »
 

@@ -13,7 +13,7 @@ contexte: "en colocation"
 draft: false
 ---
 
-Le bruit métallique d'une fourchette qui gratte le fond d'une poêle à frire en téflon résonne dans toute la cuisine. Lucas, assis à la table en bois brut qui sert de bureau improvisé, sent une tension immédiate grimper le long de sa colonne vertébrale. Romain, son colocataire, prépare son énième repas de la journée avec une nonchalance qui, ce midi du 17 mai 2026, semble presque insultante. Lucas essaie de se concentrer sur la correction de son mémoire, ce fameux document qui lui a causé tant de nuits blanches le mois dernier, mais chaque cliquetis d'ustensile agit comme une petite décharge électrique sur ses nerfs.
+La fourchette de Romain grince sur le fond de la poêle. Lucas remet ses écouteurs. Le son passe quand même. Il lui reste une partie du mémoire à reprendre et une réunion bientôt. Il hésite à changer de pièce, puis regarde la casserole qui bloque déjà l’évier.
 
 L'odeur d'oignons frits envahit l'espace, s'accrochant aux rideaux et, lui semble-t-il, à ses propres vêtements. Lucas jette un coup d'œil à sa montre. Il a une réunion en visioconférence pour son stage dans quinze minutes. Il y a deux mois, il aurait probablement souri, masquant son inconfort derrière ce masque social qu'il connaît si bien, craignant de briser l'image du colocataire idéal. Mais aujourd'hui, après avoir travaillé sur son besoin d'approbation et son effet spotlight, la pression interne est différente. Ce n'est plus seulement de la peur, c'est une exaspération sourde qui crépite sous sa peau.
 
@@ -57,13 +57,13 @@ Une question qui peut attendre peut être reprise quand chacun est disponible. S
 
 Le [modèle de communication de Marshall Rosenberg](https://www.nonviolentcommunication.com/pdf_files/4part_nvc_process.pdf) propose notamment de formuler une observation et une demande précise. Lucas peut dire ce qui le gêne et demander une action concrète. Romain peut répondre et proposer un autre arrangement.
 
-## Évolution de Lucas et affirmation de soi
+## La poêle dans l’évier
 
 Le silence revient enfin dans la pièce. Romain a terminé de manger et s'apprête à laisser sa poêle sale dans l'évier. Lucas sent la chaleur monter dans son cou, le même signal physiologique qu'il avait identifié lors de son entretien à La Défense. Mais cette fois, il ne se contente pas de subir. Il se souvient de sa progression ces derniers mois. Il sait qu'il n'est plus ce garçon qui accepte tout par peur d'être démasqué comme n'étant pas à la hauteur. Il a le droit d'habiter son espace, même s'il vient d'un milieu plus modeste et qu'il se sent parfois redevable envers le monde entier.
 
 Il retire ses écouteurs et regarde Romain, qui s'apprête à retourner dans sa chambre. Lucas sent son cœur battre un peu plus vite, mais il choisit d'appliquer la technique du message-Je qu'il a lue récemment. Il se sent en mesure de faire une demande brève avant sa réunion. Il s'exprime avec une voix posée, sans le ton sarcastique qu'il aurait pu utiliser par le passé.
 
-Romain, je suis en plein stress avec la fin de mon mémoire et j'ai vraiment besoin de calme et d'ordre dans la cuisine pour ne pas perdre le fil de mes idées. Est-ce que tu pourrais laver ta poêle maintenant plutôt que ce soir ? Ça m'aiderait vraiment à me sentir mieux pour ma prochaine réunion. 
+« Romain, tu peux laver ta poêle avant ma réunion ? J’ai aussi besoin de la place dans l’évier. » Lucas s’entend parler un peu plus sèchement qu’il ne voulait. Il n’ajoute pas le discours qu’il avait préparé pendant les trois dernières minutes.
 
 Romain s'arrête, un peu surpris. Il n'avait visiblement pas réalisé l'impact de son comportement. Sans aucune trace d'agacement en retour, il revient vers l'évier, attrape l'éponge et répond avec un naturel déroutant qu'il n'y avait aucun souci et qu'il aurait dû y penser lui-même. Lucas sent une tension s'évaporer, non pas parce que la poêle est propre, mais parce qu'il a réussi à exprimer un besoin sans porter de masque. Il retourne à son clavier, l'esprit plus léger, prêt à affronter sa visioconférence avec une assurance qu'il ne soupçonnait pas quelques semaines auparavant.
 

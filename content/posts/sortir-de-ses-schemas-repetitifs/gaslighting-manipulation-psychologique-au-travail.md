@@ -57,13 +57,13 @@ Une personne de confiance peut aider à remettre les événements en ordre. Si l
 
 Si vous le souhaitez et que l’échange est possible, formulez une demande concrète : « Merci de frapper et d’attendre ma réponse quand la porte est fermée. » Une réponse calme ne protège pas à elle seule de violences ou de représailles. Vous pouvez aussi différer l’échange et demander un appui.
 
-## Djamila commence à poser des limites claires
+## Une porte à garder fermée
 
-Après le départ d'Antoine, Djamila ne reste pas prostrée. Elle termine son entretien avec la bénéficiaire en lui adressant un regard plein de sororité, puis elle attend qu'elle soit partie pour ouvrir son journal. Elle y note l'heure précise de l'intrusion et les mots utilisés par son coordinateur. Elle repense à son fils Adam, avec qui elle a dessiné la veille. Pour lui, pour elle, elle refuse de retomber dans les filets du doute que Samir avait si bien tissés autour d'elle pendant des années. Elle se souvient de l'appartement qu'elle a reconstruit seule, brique par brique, et réalise que sa stabilité mentale est le fondement de ce foyer.
+Djamila revient au rendez-vous interrompu. Elle demande à la femme où elle en était avant qu’Antoine entre. Une fois seule, elle vérifie sa boîte de réception, écrit l’heure dans son carnet et laisse une ligne vide sous ce qu’elle ne peut pas vérifier.
 
-Elle se lève et se dirige vers le bureau d'Antoine. Son cœur bat un peu plus vite, mais elle ne se laisse pas paralyser. Elle entre et reste debout, les mains calmes le long du corps. Elle lui demande calmement de lui montrer le message qu'il prétend avoir envoyé. Antoine s'agite, cherche sur son téléphone, puis finit par dire qu'il a dû oublier de cliquer sur envoyer. Djamila ne sourit pas, elle ne s'excuse pas d'avoir eu raison. Elle lui signifie simplement qu'à l'avenir, elle souhaite qu'il respecte la porte fermée pour la sécurité des bénéficiaires.
+Au bureau d’Antoine, elle lui dit qu’elle n’a pas reçu le message et lui demande d’attendre la fin du prochain entretien s’il a un dossier à transmettre. Il répond qu’il avait besoin de la voir tout de suite. Elle lui propose de frapper et de demander si c’est possible. Il n’est pas clair qu’il accepte.
 
-En retournant à son poste, Djamila se sent plus stable. Elle a constaté qu’elle n’avait pas reçu de message et qu’Antoine avait interrompu un entretien. Elle n’a pas à décider s’il cherchait à la déstabiliser pour demander que la confidentialité soit respectée.
+En revenant à son poste, Djamila range le dossier hors de vue avant d’ouvrir la porte à la prochaine personne. Elle garde la note avec l’heure. Si l’interruption se répète, elle aura des faits à apporter à la discussion.
 
 ---
 

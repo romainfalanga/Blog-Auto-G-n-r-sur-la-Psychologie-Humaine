@@ -75,13 +75,13 @@ Rémi et Julie conviennent d'un emplacement temporaire lorsque l'entrée doit ê
 
 Lorsqu'il manque une occasion, il reprend à la suivante sans tenter de compenser par une longue séance de rangement. Il peut corriger les conséquences concrètes de l'oubli, puis continuer. Cette attitude ne banalise pas un document important perdu. Elle évite que l'écart devienne la preuve qu'il faut abandonner tout le dispositif. Si les oublis persistent, il peut aussi décider que l'outil ne convient pas et chercher un autre appui.
 
-## Rémi commence à garder des repères qu'il peut ajuster
+## Les papiers sur la chaise
 
 La boîte retrouve une place choisie ensemble. Rémi y dépose les papiers communs avant de retirer sa veste, puis rejoint la pièce où Julie termine un appel. Il n'a rien à traiter immédiatement. Le geste lui laisse la transition qu'il souhaite et le document reste accessible. Le soir du créneau prévu, ils retrouvent l'information nécessaire. L'appui paraît presque banal, ce qui lui convient mieux qu'une nouvelle méthode à expliquer longuement.
 
 Un autre jour, il rentre plus tard et pose tout sur une chaise. Le lendemain, il récupère les papiers, vérifie ce qui demande une action et reprend le repère. Il ressent encore une irritation contre lui-même. Il ne la transforme pas en grand bilan sur sa fiabilité. Le système ne fonctionne pas parfaitement, mais il aide dans plusieurs retours ordinaires et permet une correction simple lorsqu'il manque une occasion.
 
-Au travail, Claire maintient le point de suivi sur la charge réelle. Rémi garde ses outils sans les présenter comme la solution à tout. Une consigne claire, un rappel à la relève et une limite de relecture ont chacun leur fonction. Certaines journées restent trop chargées et demandent un arbitrage. Il peut le dire tout en utilisant les appuis qui l'aident. Ses habitudes lui donnent des prises concrètes, avec des limites qu'il n'a plus besoin de cacher pour en reconnaître l'utilité.
+Au travail, Claire maintient leur point sur la charge du quai. À l’appartement, Rémi retrouve les papiers laissés sur la chaise la veille. Il sépare ce qui va dans la boîte de l’entrée de la facture qu’il glisse dans l’enveloppe commune. Julie s’apprête à sortir. Il lui tend la lettre qui lui est adressée et remet la chaise sous la table.
 
 ---
 

@@ -13,7 +13,7 @@ episode: 5
 draft: false
 ---
 
-Une odeur de menthe reste sur les doigts d'Éloi lorsqu'il referme le bac. Sa motivation lui semble évidente pendant quelques minutes : il aime reconnaître un parfum, comparer une texture et comprendre ce qu'un choix change dans une préparation. Puis il regarde le matériel à nettoyer et le sol qui attend. Il ne ressent plus le même élan. Ce contraste le gêne davantage depuis l'événement local, où il apprécie le contact avec le public et s'imagine plus sûr de son orientation.
+Une odeur de menthe reste sur les doigts d’Éloi lorsqu’il referme le bac. Il soulève encore le couvercle pour comparer avec l’autre préparation. Il sait qu’il devrait passer au rangement; il aimerait tout de même savoir ce qui fait la différence.
 
 Dans le couloir de livraison, Quentin parle d'un concours qui le passionne. Éloi écoute, puis se demande si son intérêt est trop faible parce qu'il ne souhaite pas ajouter une préparation supplémentaire à ses journées. Son contrat compte aussi pour son revenu et sa stabilité au foyer. Il n'ose pas nommer ces raisons lorsqu'on parle du métier comme d'une vocation. Elles lui paraissent moins nobles que le plaisir de cuisiner, alors qu'elles font réellement partie de ses choix.
 
@@ -51,7 +51,7 @@ Après une semaine chargée, Éloi n'a pas envie de préparer un repas élaboré
 
 Il ne doit pas non plus attendre d'être parfaitement reposé pour prendre au sérieux ce qui lui pèse. Si certaines tâches restent systématiquement difficiles ou si le rythme est trop soutenu, la question mérite une discussion. Distinguer fatigue, intérêt et conditions n'est pas une façon de reporter indéfiniment son avis. C'est chercher une base plus solide qu'un verdict lancé au moment où il n'a plus de ressources.
 
-## 3 techniques pour explorer sa motivation sans se forcer à tout aimer
+## Voir ce qui donne envie de revenir
 
 ### 1. Décrire plusieurs raisons d'agir
 
@@ -75,13 +75,13 @@ Le test doit rester proportionné à sa disponibilité. Il n'ajoute pas une acti
 
 Il décide de ne pas s'inscrire au concours pour l'instant et explique simplement qu'il garde ses forces pour la formation actuelle. Il pourra revoir ce choix. Une décision temporaire lui évite de transformer une proposition en engagement définitif ou en renoncement total. Si une pression insiste, il peut en parler à son référent. Le droit à un rythme soutenable ne dépend pas d'une démonstration permanente d'enthousiasme.
 
-## Éloi commence à reconnaître un intérêt qui n'est pas constant
+## L’odeur de menthe revient
 
 Le temps d'apprentissage avec Cédric ne le passionne pas du début à la fin. Une partie reste technique et difficile. Éloi remarque pourtant qu'il revient spontanément à une question sur le résultat. Il peut distinguer cette curiosité d'une obligation de paraître motivé. L'essai lui apporte aussi une limite : comprendre la fonction d'un geste ne rend pas toute la cadence agréable. Il garde donc la discussion sur le rythme ouverte.
 
 Dans le couloir, Quentin parle de son concours sans lui demander de participer. Éloi l'écoute avec plus d'intérêt depuis qu'il ne traite plus chaque récit comme un test contre lui. Il peut lui demander ce qui lui plaît dans ce projet. Les deux choix restent différents. Leur lien ne dépend pas d'une motivation identique, pas plus que leurs compétences ne progressent nécessairement au même rythme.
 
-Au foyer, Nora lui demande s'il veut préparer quelque chose pour la prochaine rencontre commune. Éloi répond qu'il souhaite d'abord connaître le temps et les moyens prévus. Cette question ne tue pas son plaisir de cuisiner. Elle lui permet de choisir un engagement possible. Il peut dire oui à une tâche limitée, ou non si sa semaine est trop chargée. Son intérêt gagne une place réelle quand il n'exige plus de lui une disponibilité sans fin.
+Au foyer, Nora demande à Éloi s’il veut cuisiner pour la prochaine rencontre. Il veut bien regarder ce qu’il y aurait à faire et combien de personnes pourraient s’en occuper. Il n’a pas envie d’accepter avant de le savoir. En parlant de ce qu’il aimerait préparer, il se rappelle pourtant le parfum qui lui restait sur les mains.
 
 ---
 

@@ -47,19 +47,17 @@ Cette technique consiste à lister les phrases répétitives ou les attitudes fo
 
 ### 2. La rédaction d'un nouveau contrat de vie
 
-En analyse transactionnelle, le contrat est un outil puissant pour changer de trajectoire. Il s'agit de définir un objectif clair, positif et mesurable pour sortir de son scénario de vie. Au lieu de vous dire que vous ne voulez plus être seul, formulez un engagement envers vous-même tel que : je m'autorise à exprimer une émotion sincère à mes enfants une fois par semaine. L'exercice consiste à écrire ce contrat sur papier et à identifier les étapes concrètes pour le réaliser. Pour Fabien, cela pourrait être d'inviter Lucas à déjeuner et de lui dire simplement qu'il est triste de ce manque de communication, sans chercher à analyser ou à résoudre le problème immédiatement.
+Dans le vocabulaire de l’analyse transactionnelle, le contrat sert à préciser ce qu’on souhaite essayer. Fabien peut prévoir d’inviter Lucas à parler d’un échange précis. Son fils peut décliner, et Fabien peut quand même reconnaître le ton qu’il a pris la dernière fois.
 
 ### 3. La technique du miroir émotionnel inversé
 
 Dans un échange sûr, Fabien peut faire une pause et choisir de dire ce qui lui importe, ou de proposer de reprendre la discussion plus tard. En cas de menace ou de contrainte, se retirer et chercher un appui peut être la meilleure option. L’exercice sert à envisager un choix, sans attribuer la réponse à un « enfant blessé » en soi.
 
-## Évolution du personnage et libération
+## Il revient sur le ton qu’il a pris
 
-Le lendemain de sa réflexion, Fabien décide de mettre en pratique ses découvertes. Lorsque Lucas passe à l'appartement pour récupérer des affaires de sport, le silence habituel menace de s'installer. Fabien sent l'injonction de force monter en lui, l'incitant à rester derrière ses lunettes et son air posé de cadre RH. Mais au lieu de cela, il s'appuie contre le cadre de la porte et regarde son fils avec une attention nouvelle. Il ne cherche pas à diriger la conversation ni à donner des conseils sur les études, comme il l'avait fait par le passé pour masquer son malaise.
+Lucas passe prendre son sac de sport. Fabien l’entend chercher ses clés dans la poche du devant. « L’autre soir, je t’ai parlé comme si tu avais compliqué le planning exprès. Tu m’avais envoyé l’horaire. J’aurais dû le regarder avant. »
 
-Il se souvient de son travail sur les transmissions transgénérationnelles et du poids du silence de son père. Il décide de briser la chaîne. Lucas, je voulais juste te dire que j'apprécie vraiment quand tu es là, même si on ne se parle pas beaucoup, lance-t-il d'une voix un peu moins assurée que d'habitude. Lucas s'arrête, un sac de sport à la main, et scrute son père avec étonnement. Ce n'est pas une phrase du scénario habituel. C'est une parole d'adulte à adulte, dépouillée de toute attente de performance ou de médiation.
-
-Un léger changement s'opère dans l'atmosphère de la pièce. Lucas ne répond pas immédiatement, mais il ne fuit pas non plus. Il pose son sac et s'assoit un instant sur le rebord du canapé. Fabien sent une chaleur inhabituelle dans sa poitrine, une sensation de présence qu'il n'avait plus ressentie depuis longtemps. Il comprend que son scénario de vie ne disparaîtra pas en un jour, mais qu'il vient de raturer la première ligne d'un script qui ne lui appartient plus. En acceptant sa propre vulnérabilité de père, il offre à son fils l'opportunité d'être autre chose qu'un simple rouage dans une mécanique familiale grippée. La solitude qu'il portait comme une armure commence à se fissurer, laissant place à une authentique possibilité de rencontre.
+Lucas répond qu’il ne voulait pas de toute façon choisir les dates à la place de ses parents. Fabien lui dit qu’il va rappeler Véronique. Ils ne rouvrent pas toute la dispute. Lucas, qui a retrouvé les clés, s’assoit encore un moment sur le canapé avant de repartir.
 
 ---
 
@@ -67,6 +65,6 @@ Le chemin pour se libérer d'un scénario de vie est une aventure exigeante mais
 
 Le scénario de vie n'est pas une fatalité. En identifiant les injonctions qui nous limitent et en osant de nouveaux comportements, nous transformons nos relations familiales. Les interactions cessent d'être des répétitions mécaniques pour devenir des espaces d'échange véritable. Chaque petite victoire sur l'automatisme est une pierre posée pour construire une vie plus alignée avec nos besoins réels et ceux de nos proches.
 
-Si vous vous reconnaissez dans le parcours de Fabien et que vous avez le sentiment de tourner en rond dans des schémas qui vous font souffrir, entamer un travail thérapeutique peut être une solution. Un professionnel de l'analyse transactionnelle ou de la psychologie peut vous aider à décoder ces scripts invisibles et à vous en libérer durablement. Vous avez le droit de changer de rôle et de vivre une histoire qui vous ressemble enfin.
+Si les mêmes échanges continuent à vous faire souffrir, vous pouvez les reprendre avec un psychologue à partir de ce qui s’est dit et de ce que vous aimeriez faire différemment.
 
 Sources : [Association internationale d’analyse transactionnelle, bibliographie de Berne](https://itaaworld.com/about-ta/bernes-publications/).

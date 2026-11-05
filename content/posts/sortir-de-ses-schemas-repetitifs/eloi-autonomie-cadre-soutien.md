@@ -13,7 +13,7 @@ episode: 12
 draft: false
 ---
 
-« Choisis ce que tu veux travailler, puis on définit les conditions. » L'autonomie arrive dans cette proposition de Cédric avec un plaisir et une hésitation. Éloi regarde les deux objectifs possibles inscrits sur une fiche. Il connaît mieux certaines préparations, sait demander un critère et commence à décrire ses compétences. Il voudrait prendre davantage de place dans son apprentissage. Il craint pourtant qu'en choisissant, il perde le droit de demander une explication ou de dire qu'une étape reste trop difficile.
+« Choisis ce que tu veux travailler, puis on définit les conditions. » Éloi tient les deux fiches devant Cédric. Il connaît bien la première. Il pose l’autre sur la table, avant de demander quand ils pourront vérifier le résultat.
 
 Ils se tiennent près d'une table d'appoint avant le moment prévu pour la préparation. Éloi choisit de travailler l'organisation d'un lot connu plutôt qu'une nouvelle difficulté technique. Il souhaite relier la simulation du centre au travail réel, avec les validations nécessaires. Cédric lui demande ce qu'il peut décider et ce qu'il doit encore faire confirmer. La question lui paraît d'abord retirer une partie de sa liberté. Puis il voit qu'elle peut aussi empêcher une responsabilité floue de lui tomber dessus.
 
@@ -51,7 +51,7 @@ Demander la fonction d'une règle peut éclairer cette différence. La réponse 
 
 Le soutien doit cependant rester accessible en pratique. Une personne désignée mais toujours indisponible ne suffit pas. Un retour promis sans moment prévu laisse l'apprenti porter seul l'incertitude. Éloi peut signaler cet écart. Son rôle n'est pas de devenir assez confiant pour ne plus avoir besoin de transmission. Il apprend à utiliser les appuis nécessaires et à reconnaître quand le cadre doit être ajusté.
 
-## 3 techniques pour construire une marge d'autonomie soutenue
+## Décider des points où l’on se retrouve
 
 ### 1. Distinguer le résultat, les marges et les limites
 
@@ -75,13 +75,13 @@ Après l'essai, Éloi et Cédric regardent ce qu'il peut décider plus facilemen
 
 Éloi peut aussi réviser son objectif. Le choix initial n'est pas une promesse de poursuivre la même piste quoi qu'il découvre. Il peut constater qu'il souhaite comprendre un autre aspect avant de continuer. Cette possibilité rejoint son orientation : les valeurs et les intérêts deviennent plus clairs avec l'expérience. Le droit de choisir comprend une place pour l'information nouvelle et les compromis réels, sans transformer chaque révision en manque de constance.
 
-## Éloi commence à choisir tout en gardant un recours
+## Son choix, avec un contrôle convenu
 
 Pendant l'essai, Éloi rencontre une dépendance qu'il ne prévoit pas. Il consulte le repère, puis demande une validation au moment convenu. Cédric corrige un choix et lui laisse poursuivre la partie adaptée. Éloi ressent une déception, mais ne traite pas la demande comme la fin de son autonomie. Il reste impliqué dans l'objectif et peut expliquer ce qu'il fait ensuite. Le soutien ne lui retire pas toute contribution à l'essai.
 
 Le retour montre un progrès sur l'organisation et un besoin de pratique lorsque le rythme change. Ils gardent une suite limitée, dans le temps de formation prévu. Éloi ne promet pas de tout reprendre seul au foyer pour prouver qu'il mérite cette marge. Il souhaite aussi conserver des activités et des relations hors du rôle d'apprenti. Son intérêt pour la cuisine devient plus habitable lorsqu'il peut reconnaître à la fois son envie d'apprendre et ses ressources limitées.
 
-Lors de la réunion d'accueil au foyer, il propose une tâche dont il connaît le périmètre et demande qui peut confirmer l'information manquante. Nora lui répond sans reprendre toute l'organisation. Éloi voit une autre forme de cadre partagé. Il garde ses questions d'orientation, ses compétences en construction et certaines craintes après les erreurs. Rien n'est achevé d'un seul coup. Il dispose pourtant d'une manière plus précise de choisir, d'agir et de demander ce qui rend la suite possible.
+Au foyer, Éloi propose de préparer l’accueil et demande qui lui confirmera le nombre de personnes. Nora lui indique le nom de la personne à appeler. Il ne note rien sur la façon dont les autres doivent préparer l’affichage. Il sait désormais à quel endroit son travail commence et à qui poser la question qui reste.
 
 ---
 

@@ -13,7 +13,7 @@ tags: ["codes sociaux", "contexte", "adaptation", "communication", "Malik"]
 draft: false
 ---
 
-« Tu peux être plus direct. » Malik garde son doigt sur le bord de la photographie. Au groupe photo, Fatou attend son avis sur un cadrage. Changer de codes selon le contexte lui demande quelques secondes : il quitte une journée où les consignes techniques doivent être précises et entre dans une discussion où la critique peut prendre la forme d’une suggestion personnelle. Il cherche comment parler sans transformer son avis en verdict.
+« Tu peux être plus direct. » Malik garde son doigt sur le bord du tirage. Fatou veut un avis sur le cadrage, pas les trois précautions qu’il vient de prendre. Au dépôt, une phrase courte lui sert à éviter que quelqu’un entende une autre consigne. Ici, elle peut donner l’impression qu’il veut décider à la place de Fatou. Il lui montre le bord gauche de la photo, où une partie du sujet lui paraît coupée.
 
 Il propose de déplacer le cadre vers la gauche, puis ajoute trois précautions. Fatou rit et lui assure qu’elle souhaite vraiment entendre ce qu’il voit. Malik apprécie son accueil. Il remarque aussi qu’il passe parfois plus de temps à vérifier la forme de sa réponse qu’à participer à la conversation. La rencontre précédente lui donne envie de revenir ; il voudrait y rester présent sans tout surveiller.
 
@@ -57,7 +57,7 @@ L’authenticité peut aussi se comprendre comme la possibilité de garder certa
 
 Une difficulté réelle apparaît s’il ne peut exprimer aucun désaccord ou doit toujours prétendre apprécier ce qui lui déplaît. Il mérite alors de regarder la pression du milieu, et pas seulement son habileté à s’y adapter. Certaines règles peuvent être négociées ; d’autres espaces peuvent rester trop coûteux ou peu accueillants.
 
-## 3 techniques pour ajuster les codes avec davantage de choix
+## Changer de registre selon ce qu’on veut dire
 
 ### 1. Repérer une attente au lieu de deviner tout le groupe
 

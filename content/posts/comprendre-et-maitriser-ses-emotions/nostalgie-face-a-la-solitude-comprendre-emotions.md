@@ -13,11 +13,11 @@ contexte: "face à la solitude"
 draft: false
 ---
 
-Patrick manipule un vieux niveau à bulle en aluminium, dont la peinture verte s'écaille sous ses doigts calleux. Le métal est froid, marqué par des décennies de chantiers éprouvants. Cet outil appartenait à Marcel, son père, cet homme de fer qui ne jurait que par le silence et l'effort. Dans la pénombre de son garage, entouré de l'odeur persistante de sciure et d'huile de moteur, Patrick se sent soudain très petit. Ses enfants, Stéphanie et Julien, habitent désormais loin, et Catherine est partie faire des courses, le laissant seul avec ses souvenirs et son dos qui le rappelle à l'ordre à chaque mouvement brusque.
+Dans la caisse à outils, Patrick retrouve le petit niveau vert que Marcel lui a laissé. Un coin est cabossé. Il se rappelle très bien d’où vient le choc : Julien a voulu s’en servir comme d’un marteau, puis a juré que l’outil était déjà comme ça. Patrick l’avait grondé. Marcel, en se retournant, avait souri.
 
-Le silence du garage est pesant, seulement interrompu par le cliquetis d'une goutte d'eau qui s'échappe d'un tuyau mal serré. Il y a quelques jours encore, Patrick luttait contre cette sensation de vide en s'imposant une discipline de fer, refusant d'admettre que le temps passait. Il se souvient de ce moment où il n'avait pas réussi à ouvrir un bocal devant sa femme, une épreuve de vulnérabilité qui commence à peine à infuser en lui. Aujourd'hui, ce n'est pas la colère qui monte, mais une étrange mélancolie, un désir de retourner à l'époque où le garage résonnait des éclats de rire de ses enfants et des conseils bourrus de son père. Il réalise que cette solitude forcée le place face à ce qu'il a longtemps fui : l'absence de bruit pour masquer ses propres pensées.
+Catherine est sortie faire des courses. Patrick a prévu de resserrer un raccord avant son retour, mais il reste assis dans le garage. Une photo de Julien est punaisée au-dessus de l’établi. À côté, sous une boîte de vis, il en trouve une de Stéphanie qui maintient une planche avec le pied. Elle porte son vieux bleu de travail, trop long pour elle.
 
-Il s'assoit sur un vieux tabouret en bois, le dos bien droit malgré la douleur. Il regarde une vieille photo punaisée au-dessus de son établi, montrant Julien tout petit, tenant un marteau trop lourd pour lui. Cette nostalgie face à la solitude le surprend par son intensité. Jusqu'ici, il pensait que se souvenir était une perte de temps, une faiblesse indigne d'un chef d'équipe. Pourtant, l'émotion est là, nichée entre sa poitrine et sa gorge, réclamant son attention. Patrick ne cherche plus à la chasser immédiatement, il essaie de comprendre ce que ce tiraillement essaie de lui dire sur sa vie actuelle. Il repense à la rigidité de Marcel qui, même perclus de douleurs à la fin de sa vie, refusait de s'asseoir avant que la journée ne soit finie. Patrick sent qu'il est à la croisée des chemins, entre ce modèle de dureté et son envie naissante de plus de douceur.
+Il prend les deux photos et les retourne pour chercher une date. Dans son souvenir, Marcel travaillait à genoux alors même que tout le monde lui avait apporté un tabouret. Patrick a le sien sous lui. Il se souvient du bocal de dimanche et n’a pas envie de se relever tout de suite.
 
 ## Comprendre ce que peut apporter un souvenir nostalgique
 
@@ -51,20 +51,13 @@ Il peut proposer à Léo un petit bricolage adapté, si l’enfant en a envie. C
 
 Patrick choisit un message bref à Stéphanie. Quand la solitude lui pèse, il peut aussi demander un appel ou proposer une rencontre. La réponse de l’autre reste ouverte.
 
-## Évolution de Patrick face à ses souvenirs
+## La photo sous la boîte de vis
 
-Assis dans son garage, Patrick repose doucement le niveau à bulle sur l'établi. Il ne le range pas tout de suite dans la caisse à outils. Il se souvient de sa prise de conscience récente sur son besoin de contrôle émotionnel et décide, pour une fois, de ne pas se lever brusquement pour s'occuper l'esprit. Il accepte de rester là, immobile, avec cette nostalgie qui lui serre le torse. Il repense à Stéphanie et à ce moment où il n'avait su parler que de la météo alors qu'elle pleurait. Il comprend maintenant que ce silence n'était pas de la force, mais une peur héritée de ne pas savoir quoi faire de son propre cœur.
+Patrick photographie le vieux tirage et l’envoie à Stéphanie. « C’était l’étagère du couloir. Tu t’en rappelles ? » Il tape une phrase de plus, l’efface, puis la remet : « J’étais fier que tu sois restée m’aider. »
 
-Il sort son téléphone de sa poche de pantalon de travail. Ses doigts, marqués par les cicatrices et l'usure du métier, hésitent sur l'écran. Il se rappelle que la nostalgie lui montre ce qui compte vraiment : le lien. Il n'appelle pas, car il sait que Stéphanie est au travail, mais il rédige un message court, sans fioritures, fidèle à son tempérament, mais empreint d'une sincérité nouvelle. Il lui écrit simplement qu'il a retrouvé de vieilles photos d'elle et qu'il est fier de la femme qu'elle est devenue.
-
-En envoyant ce message, Patrick sent un changement subtil dans son rapport à la solitude. Le garage ne lui semble plus aussi vide. Il comprend que les souvenirs de Marcel ou l’enfance de ses enfants ne sont pas des fantômes qui le hantent, mais des fondations sur lesquelles il peut encore construire, différemment. Il se lève, avec une certaine souplesse, et décide de préparer un thé pour Catherine qui va bientôt rentrer. C'est un petit geste, loin de l'héroïsme des grands chantiers, mais pour lui, c'est une victoire sur le silence qu'il s'est imposé pendant de nombreuses années.
-
+Elle ne répond pas tout de suite. Patrick pose le téléphone, tourne le niveau entre ses mains et retourne le tabouret pour remettre un pied d’aplomb. Quand Catherine rentre, les deux photos sont encore à côté de la boîte de vis. Il lui demande si elle reconnaît le pantalon de Stéphanie.
 ---
 
-La nostalgie peut rapprocher un souvenir du présent et raviver un manque. Patrick remarque les deux effets et choisit d’écrire à Stéphanie.
-
-Si vous souhaitez renouer avec une personne ou une activité, un geste modeste peut suffire à ouvrir une possibilité. Vous pouvez aussi laisser le souvenir passer sans en tirer de leçon.
-
-Si vous ressentez que la nostalgie devient un frein quotidien ou qu'elle s'accompagne d'une tristesse persistante qui vous empêche d'agir, il est utile de solliciter l'avis d'un professionnel de la psychologie. Un accompagnement bienveillant peut vous aider à naviguer dans ces émotions complexes et à retrouver un équilibre serein entre vos souvenirs et vos projets futurs.
+Un souvenir peut faire sentir à la fois la proximité et le manque. Si la tristesse persiste et gêne le quotidien, un professionnel de santé peut accompagner la personne qui le souhaite.
 
 Sources : [Wildschut et collègues, expériences sur les souvenirs nostalgiques, 2006](https://pubmed.ncbi.nlm.nih.gov/17059314/).

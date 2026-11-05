@@ -13,7 +13,7 @@ contexte: "sur les réseaux sociaux"
 draft: false
 ---
 
-Lucas est affalé dans le canapé gris de la colocation, celui-là même où il a si souvent douté de son avenir ces derniers mois. La lumière bleutée de son smartphone éclaire son visage concentré alors qu'il fait défiler son fil Instagram. Entre deux publicités pour des montres de luxe, il tombe sur le profil de Thomas, un ancien camarade de promo qui semble enchaîner les succès en start-up. Chaque photo montre Thomas souriant devant des bureaux ultra-modernes, avec des légendes sur la productivité matinale et le succès fulgurant.
+Lucas cherche une note pour son mémoire et s’arrête sur le fil d’un coach. Trois vidéos associent le réveil à cinq heures et des réussites spectaculaires. Il reconnaît la même personne dans deux des images. Son propre réveil est resté à sept heures depuis qu’il a dit oui à Lyon.
 
 Une pensée familière et amère s'installe dans l'esprit de Lucas. Il remarque que chaque fois qu'il voit une publication de Thomas, il se sent instantanément plus médiocre dans son propre stage. Pour Lucas, le lien est désormais mathématique : réussite égale lever à cinq heures du matin et affichage constant de son bonheur. Il se souvient de ses angoisses lors de son entretien à La Défense ou de ses doutes sur son mémoire, et il se sent à nouveau comme l'imposteur de service. Dans sa tête, une règle vient de s'écrire : pour réussir comme les autres, il faut adopter ce mode de vie millimétré qu'il voit sur son écran.
 
@@ -53,7 +53,7 @@ Lucas note ce qu’il observe, ce qu’il en conclut et ce qui manque pour déci
 
 Si le fil lui pèse, Lucas peut poser le téléphone et revenir à son travail. Il peut remarquer une comparaison sans décider qu’elle révèle un mécanisme caché.
 
-## Évolution du personnage et déconstruction des certitudes
+## Ce que les vidéos ne montrent pas
 
 Lucas repose son téléphone sur la table basse, entre une boîte de pizza vide et un manuel de marketing de Romain. Il vient de passer dix minutes à analyser pourquoi la vidéo de ce coach en développement personnel l'a mis si mal à l'aise. Il comprend enfin qu'il a lié sa propre valeur à sa capacité à ressembler à ces modèles numériques. En repensant à son parcours, il se rappelle qu'il a réussi à décrocher son stage actuel grâce à sa persévérance et non parce qu'il postait des photos de ses repas équilibrés. Il réalise que son indécision chronique, comme celle qui le paralyse face à l'offre d'emploi à Lyon, est souvent nourrie par ces fausses corrélations entre confort géographique et réussite.
 

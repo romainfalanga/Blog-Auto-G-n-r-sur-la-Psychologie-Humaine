@@ -15,9 +15,9 @@ draft: false
 
 Il est 21h, l'écran de Sophie clignote en bleu dans son petit appartement parisien. Elle est assise devant son bureau, sa tasse de thé vert refroidit à côté du clavier, et ses doigts repartent une fois de plus sur la même fonction qu'elle réécrit pour la dixième fois. Une ligne de code modifiée, puis annulée, puis modifiée à nouveau. Son ticket Jira reste ouvert, timidement tagué "à revoir". Sa poitrine est serrée, un goût métallique lui monte dans la bouche, et l'idée qu'un bug invisible puisse ruiner la démo de demain tourne en boucle.
 
-Sophie se décrit intérieurement comme perfectionniste et analytique, mais ce soir, elle sent que cette rigueur se retourne contre elle. Le ronron du ventilateur de son ordinateur lui paraît trop fort. Elle repense à la remarque faite par Marc en réunion, au petit silence qui a suivi sa phrase, et son cerveau brode une histoire entière où elle a perdu toute crédibilité. Elle note ces pensées dans son carnet, comme elle l'a appris lors d'un article précédent, puis les relit, se juge, et recommence. Claire, qui l'appelait pour lui proposer un thé la veille, lui parlait de lâcher-prise ; Sophie a hoché la tête, sachant que la réalité est bien plus complexe.
+Le ventilateur se met en marche quand Sophie relance l’éditeur. Elle repense à Marc, l’autre développeur sur le projet : en réunion, il a demandé si le cas d’erreur était couvert. Elle ne se rappelle plus les mots qui ont suivi. Elle ouvre le carnet où elle note d’habitude les choses à vérifier et écrit « démo ». Claire, son amie et collègue, lui a proposé de boire un thé la veille. Sophie lui avait dit qu’elle finirait tôt.
 
-Depuis qu'elle a exploré le biais de confirmation début mars, puis travaillé sur son sentiment d’imposture et réalisé son génogramme, Sophie reconnaît mieux ses automatismes. Pourtant, la surpensée la surprend encore, insidieuse, comme une humidité qui pénètre ses certitudes. Ce soir, elle réalise que l'overthinking au travail n'est pas seulement une mauvaise habitude : c'est un moteur silencieux qui la pousse à retarder, à vérifier et à se critiquer jusqu'à l'épuisement. Elle prend une longue inspiration, pose sa tasse, et décide d'écrire ce qui se passe, sans chercher la solution parfaite immédiatement.
+Elle relit la remarque qu’elle vient de noter. Entre « cas d’erreur non testé » et « je ne devrais pas présenter cette démo », elle n’a ajouté aucun fait. La fonction, elle, est revenue exactement à la version de vingt heures. Sophie pose sa tasse et cherche une seule entrée qui pourrait faire échouer le test.
 
 ## Qu'est-ce que l'overthinking (surpensée) ?
 
@@ -61,11 +61,11 @@ Exercice concret : Pour éviter de réécrire la même fonction dix fois, Sophie
 
 Ce que Sophie essaie : convenir d’un point d’arrêt, sans écourter les vérifications nécessaires. Sophie, qui a grandi avec les attentes élevées de son père ingénieur, trouve ici une façon structurée d'honorer ses standards sans y laisser toute son énergie.
 
-## Sophie commence à reprendre le dessus
+## Un seul test à écrire
 
 Ce soir, Sophie applique la règle des 5 minutes. Elle inscrit sa pensée : "Et si la démo plante, je serai exposée." Elle note un 8 sur 10. Puis elle lance son minuteur, ferme le carnet et se concentre sur une seule tâche : écrire un test unitaire pour la fonction. La sensation d'urgence ne disparaît pas d'un coup, mais le cadre tangible l'ancre dans le présent. Quand la pensée revient, elle la note sans se juger, prend trois respirations profondes, puis reprend.
 
-Dans les jours suivants, elle utilise aussi la distanciation métacognitive pendant sa pause déjeuner. Elle ferme les yeux, identifie la pensée "anticipation catastrophique" et la visualise comme une feuille qui dérive sur l'eau. Elle se souvient de son génogramme qui l'a aidée à reconnaître le poids des attentes parentales, et elle remet cette pensée à sa place : c'est une vieille habitude, pas une vérité absolue. Elle partage ses progrès avec Claire, qui l'encourage, et clarifie son plan de vérification avec Marc pour la prochaine livraison.
+À la pause du lendemain, Sophie rouvre le carnet. L’inquiétude au sujet de la démo revient, bien que le test soit passé. Elle montre le résultat à Marc et lui demande s’il pensait à un autre cas. Il en note un. Elle l’ajoute au ticket pour l’après-midi.
 
 Sophie ne change pas du jour au lendemain. Certaines nuits, la rumination revient, tenace. Mais elle observe des changements concrets : elle valide plus de tickets, dort un peu mieux et se sent plus efficace. Les outils qu'elle a découverts, comme le carnet de pensées et la respiration, deviennent des alliés précieux. Elle se sent moins manipulée par son esprit, plus apte à distinguer ce qui nécessite son attention de ce qui relève d'une inquiétude inutile.
 

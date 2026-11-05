@@ -13,9 +13,9 @@ contexte: "face à la solitude"
 draft: false
 ---
 
-Le rabot glisse sur le bois de cerisier avec un sifflement régulier que Bernard connaît par cœur. Dans l'air frais de ce matin d'avril, la poussière de bois danse près de l'établi. Bernard s'arrête un instant pour passer sa main calleuse sur la surface lisse de la chaise qu'il vient de restaurer. C'est une pièce délicate, destinée à son fils Éric. Depuis son récent blocage de dos et les larmes qu'il a enfin laissé couler devant son chien Sultan, Bernard sent une fissure dans son armure de silence. Il sait qu'il doit franchir une étape, mais son téléphone, posé sur un tas de copeaux, semble peser une tonne.
+« Tu passes ce dimanche ? » Bernard relit le brouillon et efface le point d’interrogation par mégarde. Il le remet. Depuis le coup de main pour la planche, il cherche une occasion de revoir Éric qui ne commence pas par un besoin de travail. Tant que le message reste dans le téléphone, il peut encore croire qu’il choisit son moment.
 
-Il fixe l'écran éteint. Son pouce hésite au-dessus de la messagerie. Il pourrait envoyer un message simple pour dire que la chaise est prête, ou mieux, proposer à Éric de passer la chercher pour dîner. Pourtant, une force invisible le retient. Dans son esprit, ne rien dire lui semble plus sûr que de risquer un mot maladroit qui pourrait raviver les tensions. S'il ne dit rien, il ne blesse personne. S'il ne propose rien, il ne subit pas de rejet. Bernard se replie sur lui-même, se persuadant que le silence est une absence d'action sans conséquence, alors que le vide dans la maison d'Hélène devient chaque jour plus lourd.
+Il pense à la chaise qu’il pourrait aussi lui demander de venir chercher. Ce serait plus facile à écrire qu’une invitation à dîner. Pourtant, une force invisible le retient. Dans son esprit, ne rien dire lui semble plus sûr que de risquer un mot maladroit qui pourrait raviver les tensions. S'il ne dit rien, il ne blesse personne. S'il ne propose rien, il ne subit pas de rejet. Bernard se replie sur lui-même, se persuadant que le silence est une absence d'action sans conséquence, alors que le vide dans la maison d'Hélène devient chaque jour plus lourd.
 
 Sultan s'approche et pose sa tête sur le genou de son maître. Bernard expire longuement. Il se souvient de ce qu'il a appris lors de ses précédentes réflexions sur son surcontrôle émotionnel. Il déteste l'idée de mal faire, de commettre une erreur irréparable avec son fils. Ce mutisme qu'il a longtemps cru protecteur, notamment face au jugement de ses propres parents autrefois, est en train de devenir sa prison. Il réalise que sa solitude actuelle n'est pas seulement due au deuil, mais aussi à toutes ces paroles qu'il choisit de ne pas prononcer, pensant ainsi éviter le pire.
 
@@ -57,13 +57,15 @@ Vous pouvez noter ce que vous avez envisagé, ce qui vous a retenu et les option
 
 Plutôt que d'envisager une grande discussion émotionnelle intimidante, cette technique propose de multiplier des micro-actions de présence. L'idée est de réduire le risque perçu de la commission. Pour Bernard, cela peut être d'envoyer simplement une photo de la chaise en cours de finition, sans texte complexe. L'engagement à une micro-interaction quotidienne permet de muscler sa capacité à sortir du biais d'omission sans se sentir submergé. On apprend ainsi que chaque petit mot envoyé est une pierre posée pour reconstruire le pont avec l'autre.
 
-## Évolution de Bernard et libération de la parole
+## Le point d’interrogation
 
 Bernard lâche son rabot et s'assoit sur son tabouret usé. Sultan vient poser son museau sur ses bottes poussiéreuses. L'artisan repense à toutes ces années où il a cru que se taire était une forme de sagesse, une manière de protéger Hélène, puis Éric, de ses propres doutes. Il comprend aujourd'hui que ce biais d'omission n'était qu'une extension de son vieux bouclier. Depuis qu'il a accepté sa tristesse, le silence ne lui semble plus être un refuge, mais une chape de plomb qui l'étouffe autant qu'il étouffe son fils.
 
 Il se rappelle son voyage en Toscane où l'apathie l'avait gagné. À l'époque, il ne comprenait pas pourquoi il se sentait si vide. Il repense aux conversations qu’il aimerait avoir et se demande par laquelle commencer. Il prend son téléphone. Ses doigts tremblent légèrement, marqués par les cicatrices du métier. Il ne cherche plus la phrase parfaite, celle qui ne risquerait rien. Il tape simplement : Éric, la chaise est finie. Elle ressemble à celle que ta mère aimait tant. Je me demandais si tu voulais venir la voir ce soir. On pourrait manger un morceau ensemble.
 
 Il appuie sur envoyer avant que le doute ne le rattrape. Un frisson parcourt son échine, non pas de douleur comme lors de son blocage lombaire, mais de soulagement. En choisissant d'agir, en sortant de l'omission, il sent qu'il reprend enfin les rênes de sa vie. La solitude ne lui semble plus être une fatalité, mais un état qu'il peut transformer, mot après mot. Il regarde la chaise en cerisier. Pour la première fois, le meuble n'est plus le seul messager de son cœur. La voix de Bernard vient de prendre le relais du bois.
+
+Il envoie le message avant de retourner à la pièce de cerisier. Il ne sait pas si Éric sera libre. Pour l’instant, il range le téléphone là où il pourra l’entendre sans avoir à le tenir.
 
 ---
 

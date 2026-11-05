@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-Les roulettes d’un chariot de rangement grincent derrière la porte vitrée. La colère de Vincent contre les obstacles matériels monte lorsqu’il découvre des tables dans le passage annoncé accessible pour la projection. Avec Cédric, il arrive à l’heure, billets en main. L’information du lieu indique cette entrée. La porte s’ouvre, mais le chemin ne permet pas le passage que Cédric souhaite utiliser avec son fauteuil.
+Les roulettes d’un chariot de rangement grincent derrière la porte vitrée. L’équipe a rangé des tables le long du seul passage annoncé accessible pour la projection. Vincent cherche quelqu’un à qui le signaler. Il a déjà commencé sa phrase quand Cédric lui demande d’attendre. Avec Cédric, il arrive à l’heure, billets en main. L’information du lieu indique cette entrée. La porte s’ouvre, mais le chemin ne permet pas le passage que Cédric souhaite utiliser avec son fauteuil.
 
 Vincent se tourne vers la personne à l’accueil et commence : « Vous trouvez ça normal de… » Cédric intervient : « Je veux d’abord demander s’ils peuvent dégager l’accès. » Vincent s’arrête au milieu de sa phrase. Il connaît maintenant la différence entre proposer un soutien et prendre la direction de la situation. Cette fois, la difficulté n’est pas de toucher le fauteuil. C’est de laisser à Cédric sa parole alors qu’il a très envie de protester.
 
@@ -77,7 +77,7 @@ Après la sortie, Vincent propose un retour écrit. Cédric souhaite faire une r
 
 Ils peuvent aussi décider de ne pas consacrer toute la soirée à la démarche. Signaler un obstacle n’est pas une obligation permanente des personnes qui le rencontrent. Si Vincent veut agir davantage, il peut chercher une voie collective ou un interlocuteur compétent. Il doit alors distinguer cet engagement personnel du temps commun, au lieu de supposer que Cédric souhaite porter le même travail à chaque fois.
 
-## Vincent commence à diriger sa protestation vers une action précise
+## Faire dégager le passage
 
 Les tables sont retirées par l’équipe du lieu. Le responsable vérifie avec Cédric que le chemin correspond à ce qui est annoncé. Vincent reste disponible sans toucher le fauteuil ni commenter chaque mouvement. Ils rejoignent la salle. L’accès obtenu ne transforme pas l’attente en bonne expérience, mais ils peuvent décider de regarder le film au lieu de laisser la difficulté décider de toute la sortie.
 

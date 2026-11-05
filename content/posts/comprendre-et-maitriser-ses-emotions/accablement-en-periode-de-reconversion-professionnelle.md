@@ -45,9 +45,9 @@ L'accablement projette souvent l'esprit dans un futur catastrophique ou un pass�
 ### 3. Se parler avec bienveillance
 Inspiré des [travaux de Kristin Neff](https://doi.org/10.1080/15298860309032), cet exercice consiste à se parler comme on parlerait à un ami très cher en difficulté. Au lieu de se fustiger pour son manque de productivité, l'exercice demande d'écrire une lettre de trois lignes à soi-même. On y reconnaît sa souffrance sans jugement, par exemple : je vois que tu traverses un moment très difficile, il est normal d'être épuisé après tant d'années de sacrifice. Cela permet de briser le cycle de la honte qui nourrit l'accablement et de restaurer un dialogue intérieur bienveillant, essentiel pour envisager un nouveau départ.
 
-## Thomas commence à poser les armes
+## Demander un délai pour le portfolio
 
-Assis sur son canapé, Thomas lâche enfin son stylo. Pour la première fois depuis des semaines, il ne cherche pas à lutter contre la fatigue. Il accepte que ce matin, il ne corrigera pas de copies et il n'enverra pas de mail de motivation. Il se souvient de ce qu'il a appris sur le triangle de Karpman en mars dernier : il n'a pas à être le sauveur de ses élèves si cela signifie se noyer lui-même. En s'autorisant cette pause, il sent une tension quitter sa nuque, une libération face à ce schéma d'abnégation qui l'avait poussé à s'épuiser pour le déménagement d'Antoine au détriment de son propre couple.
+Thomas pose le stylo sur la première copie. Sur son téléphone, il retrouve un message qu’il a laissé sans réponse à propos du portfolio. Il avait prévu de le finir ce matin. Il écrit qu’il a besoin de revoir le délai, puis demande à Émilie si elle peut l’accompagner dans une démarche de santé s’il n’arrive pas à prendre rendez-vous seul. Les copies restent sur la table.
 
 Il utilise la technique du découpage atomique. Son seul objectif pour la prochaine heure ? Se préparer une infusion, rien d'autre. Il observe l'eau bouillir, écoutant le sifflement de la bouilloire, se concentrant sur la chaleur de la tasse entre ses paumes. Ce geste simple, dénué de toute attente de performance ou de validation extérieure, lui redonne un sentiment de contrôle minuscule mais réel. Il n'est plus l'enseignant en échec ou le futur éditeur angoissé, il est juste un homme qui prend soin de lui.
 
@@ -56,7 +56,5 @@ En fin d'après-midi, quand Émilie rentre, il ne se lance pas dans une lecture 
 ---
 
 Ralentir et parler à Émilie peut aider Thomas aujourd’hui. Cela ne dit pas d’où vient l’épuisement et ne suffit pas toujours à l’améliorer.
-
-Ce parcours vers vous-même est courageux. Il demande de la patience et une déconstruction des schémas de sacrifice de soi portés parfois depuis l'enfance. Chaque pas vers l'autocompassion est une victoire sur l'épuisement. Vous avez le droit de ne pas tout réussir immédiatement, et vous avez le droit de demander de l'aide pour traverser cette période de transition.
 
 Si la fatigue ou la perte d’intérêt persistent, gênent le quotidien ou s’accompagnent d’une tristesse importante, il est utile de consulter un médecin. L’[Assurance Maladie](https://www.ameli.fr/assure/sante/themes/depression-troubles-depressifs/symptomes-diagnostic-evolution) décrit des signes qui méritent une évaluation sans permettre de poser un diagnostic à partir d’un seul récit.

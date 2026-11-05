@@ -43,7 +43,7 @@ Après chaque lecture, Élise se sent mieux pendant un instant. Puis le doute r�
 
 Le retour de l’inquiétude ne prouve pas qu’une vérification supplémentaire est requise. Il ne prouve pas non plus que tout est sans risque. Il faut revenir au contexte : un fait a-t-il changé, une information manque-t-elle, une consigne prévoit-elle un nouveau contrôle ? Cette façon de raisonner protège contre une autre rigidité, celle qui consisterait à ne jamais revérifier pour montrer que l’on sait résister au doute. Une routine utile doit pouvoir intégrer une alerte nouvelle. Elle n’est ni une répétition sans fin ni une interdiction absolue de recommencer.
 
-## Trois repères pour ajuster sans négliger
+## Choisir ce qu’il reste à vérifier
 
 ### 1. Séparer le protocole du besoin de certitude
 
@@ -63,11 +63,11 @@ Si cet essai provoque une détresse importante, il n’est pas nécessaire d’i
 
 Il est aussi possible qu’une vérification révèle un vrai défaut. Cela ne rend pas automatiquement toutes les répétitions nécessaires. L’enjeu reste d’ajuster une procédure proportionnée, puis d’en discuter si les erreurs se multiplient. Le manque de temps, les interruptions et des outils peu fiables peuvent augmenter la difficulté. Élise peut demander un créneau sans sollicitations pour les messages importants. Travailler sur son rapport au doute et améliorer l’environnement ne s’excluent pas. Une bonne organisation réduit le besoin de s’appuyer uniquement sur l’effort individuel pour terminer chaque journée.
 
-## Élise ne cherche pas à partir parfaitement sûre
+## La vérification qu’elle remet au matin
 
 Pendant la promenade, Élise raconte l’histoire du courriel sans la transformer en plaisanterie unique. Françoise écoute puis parle de sa propre journée. Élise regarde encore une fois son téléphone pour lire un message personnel, et l’envie de consulter le dossier revient. Elle ne s’en félicite pas longuement lorsqu’elle laisse l’application fermée. Elle poursuit la conversation, avec une part d’inquiétude en arrière-plan. Ce n’est pas une soirée libérée de tout doute. C’est une soirée où une vérification déjà suffisante n’a pas immédiatement entraîné une autre lecture.
 
-Le lendemain, Mireille a répondu à une seule question : le rendez-vous sur place lui convient. Aucun message ne règle encore l’accès. Élise reprend la liste et prépare la visite. Elle sait qu’elle devra garder les précautions professionnelles nécessaires et qu’elle pourra se retrouver prise dans des répétitions un autre soir. Elle note cependant une différence : le sentiment d’incertitude a continué d’exister pendant son absence sans exiger une action permanente. Elle n’utilise pas cette observation comme une garantie pour tout. Elle la garde comme un renseignement sur ce petit morceau de son fonctionnement.
+Le lendemain, Mireille confirme qu’elle peut revenir voir le passage avec eux. Aucune réponse ne règle encore l’accès. Élise reprend la liste, y ajoute le rendez-vous, puis transmet l’information à Cédric. Elle a vérifié sa boîte une fois de trop en rentrant de promenade, mais elle n’a pas passé la soirée à y attendre cette réponse.
 
 ---
 

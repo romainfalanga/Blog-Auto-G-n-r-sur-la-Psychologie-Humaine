@@ -47,13 +47,11 @@ Choisissez, si vous le souhaitez, une petite variante à une habitude actuelle :
 ### 3. Une lettre sur ses attentes actuelles
 Vous pouvez écrire ce que vous vous demandez d’habitude et ce qui serait raisonnable aujourd’hui. Fabien note qu’il aimerait parfois pouvoir laisser un rapport attendre. Si une menace ou un danger est actuel, chercher de l’aide et se mettre en sécurité passe avant un exercice d’écriture.
 
-## Fabien commence à poser les armes
+## Une lampe et un rendez-vous incertain
 
-Fabien repose sa fourchette. Il vient de passer dix minutes à observer sa réaction face au silence de la pièce. Pour la première fois, il ne voit plus ce vide comme une fatalité ou une preuve de son inadaptation, mais comme le vestige d'un vieux mécanisme de protection. Il se remémore sa prise de conscience sur les transmissions transgénérationnelles et sourit avec mélancolie en réalisant qu'il n'a pas à être le gardien du silence de son père.
+Fabien finit son omelette. Le jour férié lui rappelle qu’il s’était inscrit au cercle de lecture pour ne pas rester seul tout le week-end. Aujourd’hui, il n’a envie d’appeler personne. Dans le carton de l’entrée, il retrouve pourtant la lampe que Marine a choisie pour l’appartement et l’installe près du fauteuil.
 
-Il se lève et se dirige vers l'un des cartons encore fermés dans l'entrée. À l'intérieur, il trouve une lampe colorée que Marine lui a offerte pour sa pendaison de crémaillère et qu'il n'avait jamais osé installer, la trouvant trop voyante pour son décor minimaliste. Il la branche, et une lumière chaude vient briser la perfection grise de son salon. Ce geste simple est une petite victoire contre la compulsion de répétition. Il décide de ne pas terminer le rapport RH qu'il s'était promis de boucler ce soir.
-
-Il sort son téléphone et rédige un message à son ami Bernard. Ce n'est pas une demande d'aide, juste une proposition de balade en vélo pour le dimanche suivant, sans l'armure de son rôle de cadre ou de médiateur. En envoyant ce message, Fabien sent une légère appréhension, mais aussi une curiosité nouvelle. Il accepte que le changement ne soit pas une transformation radicale, mais une succession de choix conscients pour ne plus laisser le passé dicter la couleur de ses murs et la teneur de ses silences.
+À la tombée du jour, il envoie un message à Bernard pour proposer une balade à vélo dimanche. Bernard n’a pas encore répondu quand Fabien allume la lampe. Il la trouve un peu trop forte pour lire à cette heure, mais il préfère savoir à quoi ressemble la pièce avec elle.
 
 ---
 

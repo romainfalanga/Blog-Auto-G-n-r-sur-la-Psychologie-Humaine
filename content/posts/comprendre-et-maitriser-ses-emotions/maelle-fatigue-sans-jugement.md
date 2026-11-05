@@ -15,7 +15,7 @@ draft: false
 
 Le paquet de riz retombe dans le chariot avec un bruit trop fort. Maëlle consulte une troisième fois sa liste, immobile au milieu du rayon. Elle ne trouve plus le produit qu'elle vient chercher, alors qu'elle connaît ce magasin. Reconnaître la fatigue lui paraît moins immédiat que se traiter de désorganisée. Elle pense déjà au repas qu'elle ne prépare pas assez vite et aux courses qu'elle devrait terminer sans difficulté.
 
-Julien attend près du rayon des conserves. Il lui propose de finir seul et de la retrouver à la caisse. « Ça va, je ne suis pas en sucre », répond-elle. La phrase sonne comme une défense contre une accusation qu'il ne formule pas. Maëlle a vingt-sept ans et travaille comme opératrice agroalimentaire en horaires alternés. Elle commence à protéger son sommeil, mais elle garde une règle tenace : être jeune devrait suffire à ne pas trouver ces tâches ordinaires pénibles.
+Julien attend près des conserves et lui propose de finir le dernier rayon. « Ça va, je ne suis pas en sucre. » Maëlle pousse le chariot. Elle a encore à la main le paquet de riz qu’elle vient de sortir. Une nouvelle rotation l’a fait déjeuner beaucoup plus tôt que d’habitude. Elle n’a pas envie de discuter de ses horaires entre les piles de boîtes, mais elle peut lui dire qu’elle relit la même ligne depuis trois minutes.
 
 Le sol brillant, les annonces commerciales et les promotions accrochées au plafond donnent à la liste la taille d'un problème disproportionné. Maëlle sait annoncer une heure de départ chez sa sœur. Ici, aucune autre personne ne lui demande de dépasser ses limites. C'est elle qui transforme chaque difficulté en examen de volonté, tout en poussant le chariot vers un rayon qu'ils viennent déjà de parcourir.
 
@@ -57,7 +57,7 @@ L'autocritique prétend parfois prévenir le regard d'autrui : si Maëlle se mon
 
 Recevoir une aide située ne signifie pas déléguer toute sa vie. Maëlle peut choisir ce qu'elle garde, ce qu'elle partage et ce qu'elle reporte. Son autonomie comprend cette capacité d'arbitrage. Elle n'est pas seulement le fait d'accomplir seule toutes les tâches prévues, quel qu'en soit le coût.
 
-## 3 techniques pour reconnaître la fatigue plus justement
+## Simplifier la tâche quand la fatigue se fait sentir
 
 ### 1. Remplacer le verdict par une observation utilisable
 

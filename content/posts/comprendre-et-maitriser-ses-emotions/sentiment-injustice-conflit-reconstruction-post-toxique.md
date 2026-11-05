@@ -55,15 +55,15 @@ Demandez-vous quelle attente est en jeu : une préférence personnelle, une règ
 
 ### 3. La méthode du tiers médiateur interne
 
-Imaginez que vous êtes l'avocat d'une personne que vous appréciez beaucoup et qui vit exactement la même scène. Que lui conseilleriez-vous de faire pour protéger ses intérêts à long terme ? Souvent, le sentiment d'injustice nous pousse à agir dans l'instant pour soulager la douleur, au détriment de notre sécurité ou de notre carrière. En prenant ce rôle de protecteur externe, vous changez de perspective. Djamila peut s'imaginer en train de conseiller une des femmes qu'elle aide à l'association. Elle verrait immédiatement que crier n'aiderait pas le dossier, et elle choisirait une stratégie plus efficace, comme un courriel formel avec copie à la direction, transformant ainsi l'émotion en action structurée.
+Djamila imagine ce qu’elle demanderait à une collègue qui lui raconterait cette scène. Quelle réponse attend-elle, depuis quand et qui peut la lui donner ? Elle peut poser ces mêmes questions pour préparer la suite. Prendre le temps de choisir à qui s’adresser ne signifie pas qu’elle doit écarter sa colère ou régler le problème seule.
 
-## Évolution du personnage et résolution
+## Deux dates à noter
 
-Antoine lève enfin les yeux, l'air absent. Il lâche un simple "On verra ça demain, Djamila, je n'ai pas la tête à tes urgences là". Le sentiment d'injustice en situation de conflit manque de la faire basculer. Elle sent ses doigts se crisper sur son carnet de notes. Elle repense au Dr Martin qui lui expliquait que la justice est un concept moral, mais que l'efficacité est un outil de survie. Elle se souvient aussi de l'époque où, avec Samir, elle aurait soit imploré, soit gardé le silence pendant des jours en ruminant sa haine.
+« On verra ça demain », dit Antoine. Djamila rassemble ses feuilles. Elle a encore envie de lui répondre sur le même ton, et la réunion de mardi lui revient. Cette fois, elle sait ce qu’elle lui a remis et ce qu’elle n’a pas obtenu : une décision, ou au moins un délai auquel se tenir.
 
-Elle choisit une autre voie. Elle ne sourit pas, elle ne s'excuse pas. Elle prend une respiration courte et range calmement ses affaires. Elle a déjà identifié l'injustice : Antoine manque à son devoir professionnel. Mais au lieu de se laisser consumer par la rage, elle active sa part de travailleuse sociale combative. Elle sait que si elle explose maintenant, il utilisera sa réaction contre elle pour la faire passer pour instable, une tactique que Samir maîtrisait. Elle se rappelle le déjeuner avec Amina où elle avait failli repousser une aide sincère par simple réflexe de survie ; aujourd'hui, elle refuse que ce même réflexe sabote sa mission auprès des bénéficiaires.
+À côté de l’école d’Adam, elle sort son carnet. Elle écrit la date de sa première demande et celle du report. Au-dessous : « Qui peut trancher si ce n’est pas fait demain ? » Elle pourra poser cette question à une collègue sans lui demander si elle a eu raison d’être en colère.
 
-En quittant le bureau, elle ne rentre pas directement chez elle. Elle s'arrête dans le petit parc à côté de l'école d'Adam. Elle s'assoit sur un banc, observant les pigeons qui se chamaillent pour un morceau de pain. Elle ouvre son journal intime et applique la technique de la double colonne. D'un côté, le comportement d'Antoine. De l'autre, sa propre douleur de survivante. En séparant les deux, elle sent la pression diminuer. Le sentiment d'injustice est toujours là, mais il est devenu un moteur froid et précis. Elle ne va pas se venger, elle va agir efficacement. Elle a signalé l’urgence sans attendre par le circuit prévu. Demain, elle pourra envoyer un compte rendu factuel de l’échange, selon les règles de confidentialité de l’association, car elle a appris que sa valeur ne dépend plus de la validation de ceux qui la traitent mal.
+Adam sort avec son sac ouvert. Djamila ferme le carnet pour l’aider à retrouver son écharpe. Les deux dates restent là.
 
 ---
 

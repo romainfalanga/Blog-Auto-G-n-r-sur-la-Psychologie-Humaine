@@ -81,7 +81,7 @@ Pour elle-même, Samira garde un court temps consacré aux questions de logement
 
 Un repère peut aussi être relationnel : une voisine qui accepte un appel après le rendez-vous, une personne qui accompagne un déplacement, une activité gratuite déjà familière. Il ne doit pas coûter davantage que ce qu’il apporte. Une routine idéale impossible à tenir peut accroître la pression ; un geste modeste et réaliste suffit pour essayer.
 
-## Samira fait expliquer le courrier sans promettre la suite
+## L’étagère reste où elle est
 
 Mireille garde Noé un mercredi où Samira ne travaille pas. Sur la table de l’accueil, la lettre semble moins énorme lorsqu’elle est posée à côté des questions écrites. La conseillère lui demande des précisions et distingue ce qui peut être expliqué maintenant de ce qui exige d’autres éléments. Samira ne ressort pas avec une garantie absolue.
 
@@ -89,7 +89,7 @@ Elle possède cependant une liste courte de points à vérifier et sait quel doc
 
 À son retour, Noé demande si l’étagère reste. Samira répond qu’ils la gardent en place et qu’elle poursuit les vérifications. Il retourne à ses constructions. Elle voudrait lui annoncer davantage, mais sa réponse correspond à ce qu’elle sait. Elle peut être une mère présente sans fabriquer une certitude sur laquelle elle n’a pas prise.
 
-Le soir, une conversation dans l’escalier relance son inquiétude. Elle cherche son enveloppe et retrouve le contact prévu. Tout n’est pas apaisé. Son appartement redevient toutefois un lieu où elle peut ranger des assiettes, parler avec son fils et attendre une information, au lieu d’être uniquement le décor d’un départ imaginé.
+Le soir, quelqu’un dans l’escalier dit avoir entendu qu’il faudrait libérer des appartements. Samira rentre chez elle chercher l’enveloppe. Le premier échange n’a confirmé aucun départ. Elle note le numéro qu’on lui a donné et la question qui lui reste : à quelle date recevront-ils une information écrite ? Sur l’étagère de Noé, elle dégage une place pour la construction qu’il vient de terminer.
 
 ---
 

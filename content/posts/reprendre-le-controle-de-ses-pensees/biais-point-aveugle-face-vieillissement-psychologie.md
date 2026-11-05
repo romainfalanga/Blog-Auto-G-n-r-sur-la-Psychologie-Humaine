@@ -13,11 +13,11 @@ contexte: "face au vieillissement"
 draft: false
 ---
 
-Le froid de ce matin de mars pique les mains de Patrick alors qu'il déplie le plan de masse sur le capot de son utilitaire. À 56 ans, le geste devrait être machinal, mais une décharge électrique parcourt ses lombaires, l'obligeant à se figer un instant, le souffle court. Il jette un regard circulaire sur le chantier pour s'assurer qu'aucun de ses gars n'a remarqué sa grimace. Juste à côté, un jeune intérimaire d'une vingtaine d'années s'étire bruyamment en se plaignant d'une courbature à l'épaule. Patrick ressent une pointe d'agacement immédiate. Il juge ce gamin fragile, incapable de tenir la distance, alors que lui-même ignore délibérément la douleur qui lui crispe la jambe gauche depuis le réveil.
+Patrick déplie le plan de masse sur le capot. Son dos le lance lorsqu’il se penche, alors il bloque le coin de la feuille avec le mètre au lieu de tendre le bras. Sur le côté, un intérimaire dit qu’il a mal à l’épaule. Patrick marmonne qu’à son âge on récupère vite, avant de lui demander de terminer le lot.
 
-Depuis ce fameux dimanche où il a réalisé que son silence face à Stéphanie n'était qu'une armure de verre, Patrick essaie d'être plus attentif à ce qu'il ressent. Pourtant, ici, dans la boue et le bruit des pelleteuses, l'ancien réflexe reprend le dessus. Il est convaincu d'être le seul à porter réellement la charge, le seul à ne pas s'écouter. Il se voit comme un roc, un homme objectif qui connaît ses limites, contrairement aux autres qui s'épanchent pour un rien. Il ne se rend pas compte que cette certitude d'être plus lucide que son entourage est précisément le piège qui l'enferme.
+« Tu disais que les gars jugeaient les nouveaux parce qu’ils sont jeunes », lui fait remarquer un collègue. Patrick répond que lui sait reconnaître quelqu’un qui en rajoute. Il n’en sait rien, au fond. Il a surtout entendu une plainte au moment où il ne voulait pas que les autres remarquent la sienne.
 
-Dans la cabine du chantier, Patrick se souvient de Marcel qui montait sur les toits et se moquait des conseils de prudence. Il juge ce comportement imprudent. Lorsqu’un collègue lui fait remarquer qu’il vient de juger l’intérimaire sur son âge, il répond que lui se fonde sur son expérience.
+Il replie le plan, rate le pli, puis le recommence. Marcel montait sur les toits en se moquant des conseils de prudence. Patrick trouvait ça bête chez son père. Il a beaucoup plus d’arguments pour expliquer pourquoi, lui, peut encore travailler en ayant mal.
 
 ## Qu’est-ce que le biais du point aveugle ?
 
@@ -39,20 +39,13 @@ Patrick peut vérifier si le matériel, la cadence ou une tâche de manutention 
 
 Patrick signale que certains mouvements sont difficiles et fait examiner la situation avec les personnes chargées de la sécurité au travail. Si la douleur le gêne ou persiste, il peut en parler au médecin. Chercher une explication au jugement et prendre soin de sa santé répondent à deux besoins différents.
 
-## Patrick commence à poser les armes
+## Le plan reste dans la camionnette
 
-En rentrant, Patrick pense au reproche de son collègue. Il remarque qu’il se montre attentif à la manière dont les autres jugent et qu’il a peu interrogé sa propre impression. Il souhaite reprendre la question sur le chantier demain.
+À la fin du poste, Patrick retrouve le collègue qui lui a fait la remarque. Il commence par lui demander s’il connaît la tâche de l’intérimaire. « Viens voir avec moi demain », répond l’autre. Patrick accepte. Il garde pour lui la défense qu’il a répétée en pliant les plans.
 
-Il entre dans la cuisine où Catherine prépare le dîner. L'odeur de la soupe aux poireaux lui rappelle des souvenirs d'enfance, des moments où il avait le droit d'être un petit garçon fatigué avant que les leçons de dureté de son père ne prennent toute la place. Au lieu de se diriger vers son fauteuil, il s'arrête près d'elle. Il ne cherche pas à faire de grandes déclarations, mais il se force à ne pas masquer la raideur de ses mouvements.
-
-Catherine lève les yeux vers lui, un peu surprise de le voir si proche. Patrick prend une inspiration pour trouver les mots justes. Il lui dit simplement que le chantier a été rude et que son dos lui rappelle qu'il n'a plus vingt ans. Ce n'est pas un aveu de défaite, mais un constat lucide. En voyant le regard doux et nullement déçu de sa femme, Patrick sent une détente inhabituelle l'envahir. Il réalise qu'en acceptant de voir ses propres points aveugles, il ne devient pas plus faible, il devient simplement plus vrai.
-
+Chez lui, Catherine lui demande s’il veut prendre l’autre côté de la table pour servir la soupe. « Oui. J’ai le dos qui coince. » Il dit ça en sortant les bols, les yeux sur le placard. Elle rapproche une chaise. Il s’y assied avant d’avoir fini de mettre la table.
 ---
 
-La scène de Patrick invite à appliquer le même examen à ses propres jugements et à ceux des autres. Une discussion sur les conditions de travail peut alors partir des difficultés observées.
-
-Les douleurs et les risques professionnels méritent une attention adaptée. On peut chercher des appuis pour une tâche sans transformer ce besoin en jugement sur la valeur ou la solidité de la personne.
-
-Si ce besoin de paraître fort devient une source de souffrance ou d'isolement, solliciter l'aide d'un professionnel de la psychologie peut être utile. Un espace de parole neutre aide à déconstruire ces vieux mécanismes de défense et à aborder les étapes de la vie avec plus de sérénité et de connexion avec vos proches.
+Examiner son propre jugement avec les mêmes critères que ceux des autres aide à revenir aux faits. Au travail, un symptôme gênant et les conditions qui l’accompagnent peuvent être discutés avec les personnes compétentes en prévention et en santé.
 
 Sources : [Pronin, Lin et Ross, expériences sur la perception des biais, 2002](https://doi.org/10.1177/0146167202286008), [INRS, prévention des lombalgies au travail](https://www.inrs.fr/risques/lombalgies/prevention).

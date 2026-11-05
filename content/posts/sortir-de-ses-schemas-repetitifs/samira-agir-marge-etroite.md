@@ -17,7 +17,7 @@ Le mot « fermé » apparaît derrière la vitre de l’accueil municipal. Samir
 
 Elle sort d’une mission de caisse et doit bientôt récupérer Noé. Le déplacement lui coûte du temps et un trajet qu’elle ne peut pas multiplier librement. Elle regarde la pochette de son dossier d’aide et pense que rien ne finit jamais. Après le planning modifié au magasin, cette porte fermée rejoint la même impression : les décisions des autres déplacent sa journée, puis il lui revient de trouver comment la remettre en ordre.
 
-Le premier mouvement de Samira consiste à chercher une faute personnelle. Elle aurait dû appeler, vérifier encore, prévoir un autre lieu. Rien n’indique pourtant qu’un appel aurait changé cette fermeture imprévue. Elle sait aussi qu’un autre accueil n’est pas accessible avant la sortie d’école. Se reprocher de ne pas posséder une réserve illimitée de temps ajoute un obstacle à celui qui existe déjà.
+Elle a pris le justificatif de mission qui manque au dossier d’Étienne. À l’arrêt précédent, elle aurait pu rentrer directement vers l’école. Devant le rideau fermé, elle pense au temps du trajet, puis à l’appel qu’elle aurait pu passer. Elle sort le papier pour vérifier qu’elle se tient bien devant l’adresse indiquée.
 
 Elle s’assied sur le rebord d’un muret et retrouve le nom d’Étienne dans ses notes. Le document doit lui être transmis dans le cadre de leur suivi. Elle peut demander une autre modalité sans savoir si elle sera acceptée. Le résultat ne dépend pas d’elle seule, mais cette question précise lui paraît possible. Elle commence par là plutôt que par une nouvelle condamnation de toute sa façon de vivre.
 
@@ -81,7 +81,7 @@ Choisissez un exemple concret plutôt qu’une qualité absolue. « Je peux pré
 
 Si le résultat est défavorable, examinez séparément la démarche, les conditions et la décision extérieure. Une erreur peut parfois être corrigée ; un obstacle institutionnel peut demander une autre intervention. Cette séparation évite de transformer chaque difficulté en preuve globale d’impuissance. Elle laisse aussi le droit d’être découragée avant de chercher la suite.
 
-## Samira obtient une modalité, pas une maîtrise complète
+## À côté de la case barrée
 
 Étienne ne répond pas immédiatement. Samira laisse un message bref et rejoint l’école. Elle ressent encore l’irritation de la porte fermée, mais n’essaie plus de construire un déplacement impossible avant de retrouver Noé. Elle lui demande comment se passe sa journée, sans lui détailler le parcours administratif qu’il ne peut pas résoudre.
 
@@ -89,7 +89,7 @@ Lorsqu’un échange devient possible, Étienne lui indique une modalité de rem
 
 Elle barre la transmission sur sa liste. Elle ajoute en dessous ce qui attend une décision extérieure. Cette distinction lui évite de reprendre le même problème au début chaque fois qu’elle ouvre sa pochette. Elle conserve son insatisfaction devant les déplacements imposés. La reconnaissance de sa propre action n’exige pas d’approuver les obstacles rencontrés.
 
-Le lendemain, une nouvelle question de planning apparaît au magasin. Samira ne se sent pas soudain puissante. Elle retrouve néanmoins le geste qui consiste à définir le point précis et à chercher l’interlocuteur utile. Sa marge reste étroite, mais elle peut parfois y placer une question, un arrêt raisonnable ou une demande d’appui plutôt qu’une accusation contre elle-même.
+Le lendemain, Samira barre la ligne du justificatif qu’elle vient de transmettre. La date de l’examen reste vide. Au magasin, Chantal a une nouvelle question sur l’horaire du soir. Samira reprend le premier planning avant d’ouvrir le second. Dans sa pochette, la pièce envoyée n’a pas résolu l’attente, mais elle n’a plus à la transporter.
 
 ---
 

@@ -13,11 +13,9 @@ contexte: "dans l'intimité et la sexualité"
 draft: false
 ---
 
-Mei est assise sur le bord de son lit étroit, dans sa chambre de la résidence étudiante. L'air est frais pour un début d'avril, et elle remonte machinalement ses chaussettes en laine par-dessus son legging. Face à elle, sur l'écran de son téléphone, un message de Julien reste sans réponse depuis deux heures. Ils se voient depuis un mois, une éternité pour Mei qui a passé les dernières années à se cacher derrière ses carnets de croquis. Elle se souvient de sa discussion avec M. Dubois la semaine dernière, où elle avait enfin osé montrer ses illustrations oniriques. Ce jour-là, elle a compris que son besoin de plaire aux autres étouffait sa propre voix. Mais aujourd'hui, le défi est différent. Il ne s'agit plus de ses parents ou de ses professeurs, mais de l'espace minuscule et terrifiant qu'est l'intimité amoureuse.
+Julien lui envoie l’affiche d’un film et demande s’ils le regardent chez lui. Mei commence à lui répondre qu’elle adore ce réalisateur. Elle ne connaît que le nom. Dans la petite chambre de la résidence, son croquis est encore ouvert à l’endroit où elle l’a laissé. Elle aimerait passer la soirée ici. Elle aimerait aussi le voir.
 
-Julien lui propose de passer la soirée ensemble, suggérant de regarder un film chez lui. Mei sent une tension familière envahir sa nuque. Elle aime sa compagnie, mais dès qu'ils sont proches, physiquement ou émotionnellement, elle a l'impression de s'effacer. Elle devient une extension de ses envies à lui. S'il veut une pizza, elle veut une pizza. S'il veut regarder un documentaire sur l'architecture, elle oublie ses propres préférences pour l'animation japonaise. Dans l'intimité, c'est encore plus troublant. Elle se surprend à mimer un plaisir ou une aisance qu'elle ne ressent pas tout à fait, simplement pour ne pas créer de vague, pour être la partenaire parfaite. Sa mèche bleue retombe sur ses yeux alors qu'elle soupèse le poids de son propre effacement.
-
-Elle regarde son carnet de croquis ouvert sur le bureau. Une de ses dernières illustrations représente une silhouette translucide qui se fond dans un décor de béton. C'est exactement ce qu'elle vit avec Julien. En voulant éviter tout conflit et tout jugement, elle finit par n'être plus personne. Elle a peur que s'il découvrait ses vrais désirs, ses hésitations ou ses limites dans la sexualité, il s'en détournerait comme ses parents le font avec sa passion pour l'art. Cette peur du rejet est une vieille connaissance qui l'escorte depuis les dîners silencieux avec Li et Wei, où chaque mot devait être pesé pour ne pas briser l'image de la fille idéale. Elle se sent comme une esquisse jamais achevée, une esquisse qui n’ose pas prendre de couleurs par crainte de déborder du cadre imposé par l'autre.
+Elle retourne le téléphone, ferme le carnet, puis le rouvre. À table au restaurant de ses parents, elle finit souvent par acquiescer parce que la question revient. Julien ne lui a posé la sienne qu’une fois. Elle lui demande s’il veut venir chez elle.
 
 ## Comprendre ce qui rend difficile de choisir dans l’intimité
 
@@ -51,13 +49,11 @@ Avant un moment de proximité, on peut dire simplement ce dont on a envie, ce qu
 ### 3. Ralentir ou arrêter si on le souhaite
 Si vous hésitez, êtes mal à l’aise ou n’avez plus envie, il est possible de ralentir ou d’arrêter. Vous n’avez pas à supporter un contact en vous concentrant sur vos sensations. Si votre partenaire insiste, menace ou ne respecte pas votre refus, privilégiez votre sécurité et cherchez de l’aide auprès d’une personne de confiance ou d’un service spécialisé.
 
-## Évolution du personnage : Mei commence à habiter son propre espace
+## La lampe reste allumée
 
-Le soir même, alors que Julien arrive dans sa petite chambre de résidence, Mei sent l'habituelle pulsion de camouflage l'envahir. Elle a envie de ranger ses dessins, de mettre la musique qu'il préfère et de se préparer à être la version d'elle-même la plus lissée possible. Mais elle se remémore ses exercices de dessin où elle doit oser les contrastes pour donner de la vie à un personnage. Elle se rappelle aussi l'ancrage physique qu'elle avait utilisé lors du dîner avec ses parents pour ne pas sombrer dans la panique. Elle décide d'appliquer la technique de la météo intérieure qu'elle a découverte.
+Quand Julien arrive, Mei a déjà caché deux tasses qui traînaient. Elle laisse le dessin où il est. « J’ai envie qu’on passe la soirée ensemble. Je ne suis pas sûre d’avoir envie d’autre chose. » Elle l’a dit tout d’un bloc. Julien s’assoit et lui demande s’il peut mettre de l’eau à chauffer.
 
-Quand Julien s'assoit près d'elle, elle prend une inspiration et dit, la voix un peu tremblante mais claire : Julien, je suis contente que tu sois là, mais je me sens un peu fatiguée et anxieuse aujourd'hui, mon énergie est plutôt à quatre sur dix. Elle s'attend à ce qu'il se vexe ou qu'il parte, craignant cet effet spotlight où chaque aveu de faiblesse semble être une erreur monumentale sous le regard de l'autre. Au lieu de cela, il la regarde avec une curiosité douce. Il répond qu'il apprécie qu'elle le lui dise, car il se sentait lui-même un peu nerveux à l'idée de lui proposer ce film. La tension dans la pièce diminue instantanément. Mei ne s'est pas fondue dans ses attentes, elle a posé sa réalité à côté de la sienne.
-
-Plus tard, alors qu'ils discutent, elle n'éteint pas la lampe de son bureau qui éclaire son dernier croquis. Elle laisse Julien le voir. Elle ne cherche pas à savoir s'il l'aime ou non, elle accepte simplement qu'il existe là, entre eux. En osant exister avec ses propres nuances, ses propres limites et sa propre fatigue, Mei sent que elle peut montrer un dessin et dire ce qui lui convient sans devoir tout accorder aux attentes de Julien. Elle comprend que l'intimité n'est pas une fusion où l'on se perd, mais une danse entre deux personnes distinctes qui choisissent de se montrer telles qu'elles sont, sans artifice.
+Il remarque le croquis en revenant. Mei lui raconte pourquoi une des silhouettes n’a pas d’ombre. Elle ne lui demande pas s’il aime. Quand il lui demande le nom du film, elle dit qu’elle n’en sait rien. Ils gardent l’affiche pour une autre fois.
 
 ---
 
@@ -65,6 +61,6 @@ Dans cette histoire, Mei trouve des mots pour dire ce qu’elle veut partager av
 
 L'intimité véritable ne demande pas de s'effacer, mais au contraire d'être pleinement présent. Chaque refus, chaque préférence exprimée et chaque moment de reconnexion à vos propres sensations renforce votre sentiment d'existence. C'est ainsi que vous construisez des relations durables, basées sur le respect mutuel et l'authenticité plutôt que sur la peur du rejet.
 
-Si vous vous reconnaissez dans le parcours de Mei et que vous avez l'impression que vos relations vous étouffent ou vous font disparaître, un travail thérapeutique peut être bénéfique. Un professionnel de la psychologie pourra vous aider à explorer les racines de ce besoin de fusion et à renforcer votre affirmation de soi pour une vie affective et sexuelle plus épanouie.
+Un psychologue peut aider à comprendre une difficulté qui se répète dans l’intimité ou devient douloureuse. En cas de pression, de menace ou de violence, la priorité est de chercher un appui sûr.
 
 Sources : [Gouvernement français, consentement et violences sexuelles](https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-sexuelles).

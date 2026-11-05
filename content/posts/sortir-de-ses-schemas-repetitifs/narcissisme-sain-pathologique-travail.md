@@ -13,11 +13,9 @@ contexte: "au travail"
 draft: false
 ---
 
-La porte de la salle de réunion claque doucement derrière elle. Nadia ajuste la manche de sa veste, sent sous ses doigts la texture un peu rugueuse du tissu puis le froid métallique de la tranche de son carnet. Aujourd'hui, 15 mai 2026, elle présente le plan de lancement devant le comité exécutif. Dans sa tête, la phrase qu'elle murmure rarement revient : le risque de paraître faible est pire que l'échec. Le concept du jour tourne déjà en boucle, un écho étroitement lié à une question qui lui colle à la peau depuis des années : quand le narcissisme devient-il un atout, et quand devient-il un poison au travail ? Elle se demande surtout ce qu'elle peut changer à sa façon de recevoir les objections.
+Marc, de l’équipe produit, demande qui a choisi le nouvel ordre des campagnes. Nadia répond d’abord que la décision a été prise la semaine précédente. C’est elle qui l’a prise. Julie, à côté d’elle, tient le calendrier sans avoir pu expliquer le décalage qu’elle propose.
 
-En face d'elle, Marc du produit pose une question qui n'est pas une attaque, mais que Nadia interprète tout de suite comme un test. Elle sent sa mâchoire se tendre et, sans le vouloir, elle accélère le débit de sa voix. Elle se surprend à vouloir écraser l'argument de Marc, un réflexe de domination qu'elle a déjà identifié lors de ce fameux dîner chez sa mère Fatima, où elle avait critiqué l'éducation de Yasmine avec une dureté qu'elle regrette encore. À la sortie de la réunion, Julie, son assistante, lui glisse un retour mesuré. Nadia se souvient alors de la séance de journaling nocturne qu'elle a tenue il y a quelques semaines, quand l'envie de tout contrôler l'empêchait d'être présente avec Antoine. Elle sait qu'elle peut transformer cette énergie ambitieuse en leadership constructif ou en comportement toxique.
-
-Plus tard, dans le couloir, elle repense à l'épisode des perles renversées chez Yasmine. Elle s'était surprise à vouloir contrôler chaque détail de l'anniversaire. Au comité, elle se demande plutôt comment elle peut laisser ses collègues finir une objection sans la prendre comme une attaque.
+Nadia entend sa voix accélérer. Elle reprend la question de Marc : est-ce le choix de la campagne qui lui pose problème, ou sa date ? Marc parle d’un conflit avec un autre lancement. Nadia regarde Julie, qui avait mis une remarque au même endroit dans le document. Elle lui laisse reprendre le point.
 
 ## Qu’est-ce qui distingue un trait d’un trouble narcissique ?
 La confiance en soi n'est pas en soi un trait narcissique. En psychologie, les traits narcissiques sont des caractéristiques étudiées à des degrés variables. Le trouble narcissique de la personnalité est une catégorie clinique du DSM-5-TR. Son évaluation porte sur un ensemble persistant de difficultés, dont peuvent faire partie le sentiment de grandeur, le besoin d'admiration et le manque d'empathie. Un comportement en réunion ou un score de questionnaire de recherche ne permettent pas de poser ce diagnostic.
@@ -51,18 +49,17 @@ Exercice : pour chaque mission déléguée, rédigez un court contrat de délég
 L'objectif est de développer l'empathie cognitive et émotionnelle pour réduire les réponses défensives et l'exploitation relationnelle.
 Exercice : Écoutez le point de vue d'un collègue sans l'interrompre, puis résumez ce que vous avez compris. Demandez-lui de corriger ou de préciser. Il n'a pas à partager ses émotions pour que vous puissiez clarifier un problème de travail.
 
-## Évolution de Nadia et intégration des changements
-Dans la lumière crue d'une salle de brainstorming, Nadia met en pratique sa première délégation contractuelle. Elle confie à Julie la coordination du calendrier média avec un contrat clair : objectifs, indicateurs, autonomie. Au lieu d'énumérer chaque tâche à la seconde, elle décrit le résultat attendu et fixe un point d'évaluation dans une semaine. La texture du carnet sous sa main lui rappelle les pages où elle a déjà consigné ses séances de journaling ; cette habitude nocturne l'aide maintenant à structurer ses retours.
+## Le calendrier reste chez Julie
 
-Au déjeuner, quand un collègue remet en cause une de ses hypothèses de marché, elle active la technique du retour basé sur les faits. Plutôt que de répliquer immédiatement, elle demande des exemples précis et note les informations. Le geste est nouveau : elle ressent une curiosité analytique plus que la nécessité de prouver qu'elle a raison. Elle se souvient de l'entretien de recrutement où l'effet de primauté l'avait piégée. Cette mémoire, loin de la paralyser, lui sert de garde-fou. Elle observe désormais comment ses réponses façonnent l'écosystème du service.
+Nadia confie la coordination du calendrier média à Julie. Elles fixent un point pour les décisions qui touchent une autre équipe. Deux heures plus tard, Nadia voit qu’une date a bougé. Elle ouvre le calendrier avec l’intention de la remettre. Elle retrouve la remarque de Marc et demande à Julie avec qui elle a vérifié.
 
-Le soir, chez Antoine, un échange sur l'organisation de la garde alternée de Yasmine devient l'occasion d'un exercice d'empathie. Nadia reformule ce que lui dit Antoine en trois phrases détaillées et valide sa compréhension. Cela ne résout pas toutes les tensions, mais elle sent que la communication prend une nouvelle qualité. Elle sait que ce chemin est exigeant : changer des habitudes ancrées demande des rituels, des mesures et parfois un soutien extérieur. Elle songe à consulter un professionnel pour approfondir ces transformations, consciente que la thérapie peut aider à travailler des traits de personnalité plus profonds.
+Le soir, elle reçoit un message de Karim, le père de Yasmine, sur la garde alternée. Chez Antoine, elle explique pourquoi elle doit répondre avant de dîner. Antoine lui demande s’il peut commencer à préparer le repas. Nadia lui dit oui, puis revient à la proposition de Karim sans présumer de ce qu’il a voulu lui faire comprendre.
 
 ---
 
 L'ambition, l'assurance et les conflits ne constituent pas un diagnostic. Nadia peut commencer par agir sur ce qu'elle remarque : la place laissée aux objections, la clarté de ses consignes et l'autonomie de Julie.
 
-Si vous vous reconnaissez dans l'histoire de Nadia, rappelez-vous que ces stratégies sont des outils pratiques, pas des solutions magiques. Elles demandent de l'expérimentation, de la patience et parfois l'aide d'un coach ou d'un psychologue. Pour des difficultés persistantes, en particulier si vos comportements provoquent des ruptures relationnelles ou un mal-être intense, consulter un professionnel reste recommandé et bienveillant.
+Modifier la façon de donner un retour peut se tenter dans une situation précise. Si les difficultés relationnelles se répètent ou s’accompagnent d’une souffrance importante, un psychologue peut aider à les comprendre.
 
 Si vous subissez des humiliations répétées ou des représailles, vous pouvez noter les faits et demander de l'aide au service de santé au travail ou à un représentant du personnel. Vous n'avez pas à identifier la personnalité du responsable pour signaler le problème.
 

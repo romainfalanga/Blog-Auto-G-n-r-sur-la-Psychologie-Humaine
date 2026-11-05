@@ -15,7 +15,7 @@ draft: false
 
 Un gravillon entre dans la chaussure d’Inès au milieu de la passerelle. Elle s’arrête contre le garde-corps, retire sa basket et secoue la semelle. Clara attend près d’une affiche déchirée. Inès profite de cet arrêt pour commencer la conversation qu’elle prépare depuis le départ : elle veut parler d’une limite intime. Mais les mots lui paraissent brusques au milieu des conversations des promeneurs. Elle demande seulement si elles peuvent prendre le chemin moins fréquenté.
 
-À trente ans, cette bibliothécaire sait expliquer avec précision le fonctionnement d’un prêt ou les conditions d’utilisation d’une salle. Dans sa vie avec Clara, sa compagne depuis trois ans, elle cherche parfois une formulation si douce qu’elle en perd le contenu. Elles parlent désormais plus clairement de leurs différences de désir et savent qu’un rapprochement peut s’arrêter. Une autre étape se présente : annoncer à l’avance ce qu’Inès ne souhaite pas essayer.
+À la bibliothèque, Inès peut expliquer trois fois la règle d’un prêt sans en changer les mots. Avec Clara, elle prépare une phrase, puis y ajoute quelque chose pour qu’elle fasse moins de peine. En replaçant sa chaussure, elle revient à celle qu’elle voulait dire : il y a un geste qu’elle ne veut pas essayer.
 
 Quelques jours plus tôt, Clara évoque une idée après avoir lu un témoignage. Inès ne veut pas de cette pratique. Elle ne ressent ni curiosité ni besoin de chercher pourquoi. Pourtant, elle répond d’abord « on verra », par crainte de paraître fermée. Depuis, le caractère provisoire de sa réponse lui pèse. Elle imagine Clara attendre une décision, alors qu’elle dispose déjà de la sienne. L’idée n’est pas le problème principal ; l’ambiguïté lui prend de la place.
 
@@ -51,7 +51,7 @@ Lorsque Clara demande une explication, Inès imagine qu’elle doit trouver une 
 
 Clara précise alors sa question : elle veut savoir si elle a insisté sans le remarquer. Cette précision change l’échange. Inès peut répondre sur un comportement concret : la proposition n’est pas répétée, mais sa propre réponse reste ambiguë. Elles peuvent discuter de cette ambiguïté sans explorer le contenu privé de toutes les préférences d’Inès. Comprendre comment mieux se parler n’exige pas toujours de connaître l’origine d’une limite.
 
-## Trois techniques pour parler d’une limite intime
+## Dire la limite sans lui donner une date d’expiration
 
 ### 1. Choisir le niveau d’information que l’on partage
 
@@ -77,13 +77,13 @@ Avec Clara, elle peut ajouter un repère concret : elles continuent leur promena
 
 Pour adapter cette préparation, on peut identifier un lieu accessible, une durée raisonnable et une personne ressource si parler semble risqué. Dans un contexte de pression répétée, la priorité est de préserver sa sécurité et de chercher un soutien individuel. Une conversation idéale ne garantit pas une réception respectueuse. La responsabilité de respecter une limite ne repose jamais entièrement sur la personne qui trouve les mots pour la poser.
 
-## Inès laisse sa phrase tenir sans l’embellir
+## Sur le banc, derrière le kiosque
 
 Elles atteignent le kiosque où une répétition musicale commence. Les premières notes couvrent une partie de leur échange. Clara propose de s’asseoir sur un banc éloigné ; Inès préfère continuer. Elle remarque qu’elle peut aussi dire cette préférence ordinaire, sans l’associer à leur sujet intime. Leur promenade redevient une succession de petits choix. La conversation importante n’occupe plus chaque mètre du trajet.
 
 Inès ressent encore l’envie d’ajouter « peut-être plus tard ». Elle reconnaît dans cette phrase une manière d’effacer la netteté obtenue, puis décide de ne pas la prononcer. Ce n’est pas une victoire spectaculaire. Elle laisse simplement son refus exister sans le rendre plus acceptable par une ouverture qu’elle ne ressent pas. Clara parle ensuite d’un livre qu’elle cherche, et Inès lui propose de vérifier le catalogue à son prochain service.
 
-Le lendemain, Inès ne se sent pas transformée en personne parfaitement assurée. Elle repense à certaines formulations et se demande si son ton paraît sec. Elle peut demander à Clara comment elle vit la conversation, tout en distinguant la forme du fond. Ajuster un ton ou reconnaître une maladresse reste possible. Ce travail relationnel ne signifie pas que la limite doit être révisée. Inès commence à garder les deux sujets séparés.
+Le lendemain, Inès repense à son ton sur la passerelle. Elle demande à Clara comment elle a entendu la phrase. Clara a surtout retenu le moment où Inès a arrêté d’ajouter des précautions. Inès aurait envie de s’excuser d’avoir été brève; elle lui demande plutôt si elle a compris de quel geste elles parlaient.
 
 ---
 

@@ -15,7 +15,7 @@ draft: false
 
 La fourchette de Julien reste au-dessus de son assiette. « Même quand on mange ensemble, tu regardes l'heure. » Maëlle pose son couvert à son tour. Les rythmes différents dans leur couple tiennent aujourd'hui dans cette table dressée trop tôt pour lui et trop tard pour elle : elle part bientôt pour son poste, il vient seulement de terminer sa propre journée. Ils disposent d'un repas commun, mais pas du même état de disponibilité.
 
-Maëlle a vingt-sept ans et travaille comme opératrice agroalimentaire en horaires alternés. Elle commence à reconnaître sa fatigue, à préserver son sommeil et à limiter les pensées qui prolongent le travail. Julien l'aide concrètement. Il participe aux courses, veille au bruit pendant ses périodes de récupération et accepte de déplacer certains rendez-vous. Il n'en ressent pas moins le manque de moments où elle ne compte pas les minutes.
+Depuis l’histoire du volet, Julien prend certaines courses et fait attention au bruit quand Maëlle dort. Elle a pris ces arrangements pour des preuves qu’ils se comprenaient mieux. Pendant qu’il lui parle, elle termine pourtant son verre plus vite pour pouvoir se changer avant le poste. Elle n’a pas pensé à lui demander depuis quand il trouve leurs repas trop courts.
 
 « Je regarde l'heure pour ne pas courir, pas pour partir plus vite », répond-elle. Sa voix monte malgré elle. Julien entend une correction alors qu'il essaie de parler de solitude. Maëlle entend un reproche alors qu'elle tente de tenir deux exigences à la fois. Le gratin refroidit. Aucun des deux ne souhaite gagner cette discussion, mais chacun défend déjà ce que l'autre semble méconnaître.
 
@@ -57,7 +57,7 @@ Le repas d'aujourd'hui supporte ainsi plusieurs objectifs : manger, régler un p
 
 Une activité courte et agréable peut avoir une valeur propre, même si les démarches ne sont pas toutes réglées. À l'inverse, un moment de coordination peut être utile sans devoir ressembler à un rendez-vous amoureux. Le couple peut choisir ce qu'un temps commun doit permettre, au lieu d'exiger qu'il répare tous les manques à la fois.
 
-## 3 techniques pour négocier des rythmes différents
+## Les moments qu’ils peuvent vraiment partager
 
 ### 1. Décrire une semaine réelle ensemble
 

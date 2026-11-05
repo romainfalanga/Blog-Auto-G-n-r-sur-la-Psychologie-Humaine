@@ -13,11 +13,11 @@ contexte: "en famille"
 draft: false
 ---
 
-La poussière danse dans le rai de lumière qui traverse le garage de Marcel. Patrick passe ses doigts calleux sur le rebord de l'établi qu'il a violemment amoché il y a quelques jours. Les traces de ses coups de massue sont encore fraîches dans le bois de chêne, témoins muets d'une colère qu'il n'a pas su nommer. Aujourd'hui, le silence de la maison est différent. Catherine est partie faire des courses avec leur fille Stéphanie, et Julien est au parc avec le petit Léo. Patrick est seul avec ce vide immense laissé par son père, un vide qui lui pèse plus lourd sur les épaules que n'importe quel sac de ciment sur ses chantiers.
+Patrick retourne dans le garage de ses parents avec un carnet. Il le pose du côté de l’établi que la massue n’a pas fendu. La poussière est restée dans les rainures du bois. Il ne la balaie pas.
 
-Il s'assoit sur un vieux tabouret qui craque sous son poids. Ses lombaires le lancent, un rappel constant que ses 56 ans ne lui permettent plus de jouer les hercules. Depuis qu'il a admis sa vulnérabilité face à Catherine et qu’il a parlé du geste qui a effrayé Catherine, il cherche une issue. Il se revoit encore, pétrifié sur son chantier le 6 avril dernier, observant le jeune Antoine soulever des charges avec une insolente facilité pendant que son propre dos le trahissait. Il ne veut plus détruire pour se sentir exister. Il regarde ses mains, ces outils qui ont bâti des immeubles entiers mais qui n'ont jamais appris à tenir un stylo pour autre chose que remplir des bons de commande ou des rapports de chantier.
+En mars, il avait écrit quelques lignes pour Marcel sur un bout de papier, puis refermé le tiroir de la cuisine. Cette fois, il voudrait écrire quelque chose qu’il puisse relire. Il a aussi laissé un message pour demander un rendez-vous au sujet de ce qui s’est passé dans le garage. Il attend qu’on le rappelle.
 
-Patrick sort de sa poche un carnet à spirales tout neuf, acheté discrètement hier. Il se souvient de ce que sa fille lui a dit après son coup de sang : qu'il y avait d'autres moyens de sortir ce qu'il a à l'intérieur. Il pose le carnet sur l'établi, juste à côté de l'endroit où le bois est fendu. L'air sent la sciure et l'huile de moteur, une odeur qui l'a toujours rassuré, mais ses doigts tremblent légèrement. Pour un homme qui a passé sa vie à se taire pour paraître fort, l'idée de coucher ses mots sur le papier ressemble à une petite révolution, un saut dans l'inconnu plus effrayant qu'une inspection de sécurité.
+Catherine doit revenir avec Stéphanie. Ils n’ont pas repris le tri. Patrick ne sait pas si elle voudra le faire aujourd’hui. Il pousse le carnet vers le bord intact, le seul endroit où sa main ne bute pas sur le bois soulevé.
 
 ## Comprendre ce que la recherche appelle écriture expressive
 
@@ -39,20 +39,13 @@ Il peut écrire ce qu’il aimerait dire à Catherine à propos des papiers, de 
 
 Patrick peut noter le rendez-vous qu’il souhaite prendre ou la tâche qu’il aimerait partager. Une liste pratique lui convient aussi. Le carnet reste un support parmi d’autres, à côté de l’aide de proches ou d’un professionnel.
 
-## Évolution de Patrick et passage à l'action
+## Quelques lignes, puis la porte
 
-Patrick tient son stylo bille comme il tiendrait un burin, fermement, presque trop. Sur la première page blanche, il écrit : "Papa est parti et je me sens comme un gosse perdu dans le brouillard". Les mots sortent avec difficulté au début, puis ils s'accélèrent. Il écrit sur la douleur dans son dos qui lui rappelle chaque jour qu'il n'est plus le jeune ouvrier de seize ans. Il écrit sur Catherine, sur la peur qu'il a de ne plus être à la hauteur pour elle s'il ne peut plus tout réparer dans la maison. Il écrit sur cette massue et la honte qu'il a ressentie en voyant les éclats de bois voler, réalisant que ce jour-là, c'est son propre silence qu'il essayait de briser.
+Sur la première page, Patrick écrit le nom de Marcel, puis une phrase sur la pince et le ruban. Il laisse deux lignes vides. En dessous, il note qu’il a peur de retourner au tri et de s’emporter encore. Il s’arrête quand il commence à réécrire la même phrase.
 
-Au fur et à mesure que les lignes se remplissent, Patrick sent une chaleur étrange dans sa poitrine, moins étouffante que sa colère habituelle. Il se rend compte que mettre ces pensées sur papier les rend moins monstrueuses. Elles ne sont plus des fantômes qui le hantent, mais des phrases qu'il peut relire et refermer dans un carnet. Il se souvient de l'époque où il ignorait ses limites physiques sur le chantier, une habitude dont il souhaite parler à un professionnel. Aujourd'hui, en écrivant, il regarde ces limites en face, sans baisser les yeux.
-
-Quand il entend la voiture de Catherine se garer dans l'allée, il ne sursaute pas. Il referme calmement son carnet et le glisse dans le tiroir de l'établi, sous ses outils de précision. Il ne se sent pas guéri, mais il se sent plus léger, comme s'il venait de poser une charge qu'il portait depuis des décennies. Il sort du garage et marche vers la maison. Pour la première fois depuis longtemps, quand il voit sa femme descendre de voiture, il n'a pas besoin de chercher une remarque sur la météo pour masquer son émotion. Il va simplement vers elle pour l'aider à porter les sacs, conscient que sa force ne réside plus dans ses muscles, mais dans cette nouvelle clarté qu'il commence à cultiver.
-
+La voiture de Catherine se gare. Patrick ferme le carnet et rejoint l’entrée. Il lui dit qu’il a laissé un message pour le rendez-vous. Puis il demande si elle veut reprendre les papiers ensemble un autre jour. « Pas aujourd’hui », répond-elle. Il acquiesce, lui tient la porte et demande à Stéphanie si elle veut un café.
 ---
 
-Pour Patrick, écrire quelques lignes donne une forme à ce qu’il souhaite partager. Une autre personne peut préférer parler, garder le silence ou demander une aide pratique.
-
-L’écriture est facultative. Lorsqu’elle accroît la détresse, il est possible de s’arrêter et d’en parler à une personne de confiance ou à un professionnel.
-
-Si les émotions qui surgissent lors de ces exercices sont trop envahissantes ou difficiles à gérer seul, solliciter l'aide d'un professionnel de la psychologie est une option pertinente. Un accompagnement thérapeutique peut offrir le cadre sécurisant nécessaire pour explorer ces zones d'ombre et aider à construire, mot après mot, une vie plus sereine et authentique.
+Écrire quelques lignes est un choix. Si cela augmente la détresse, on peut s’arrêter et en parler à une personne de confiance ou à un professionnel. Un carnet peut aider à préparer un échange, en parallèle d’un soutien adapté lorsque le besoin se présente.
 
 Sources : [Pennebaker et Beall, essai sur l’écriture de situations éprouvantes, 1986](https://pubmed.ncbi.nlm.nih.gov/3745650/), [Stroebe et collègues, étude sur l’expression émotionnelle après un décès, 2002](https://pubmed.ncbi.nlm.nih.gov/11860043/).

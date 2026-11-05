@@ -17,7 +17,7 @@ La sonnette de la salle polyvalente claque encore dans les oreilles de Djamila l
 
 Son foulard coloré frotte contre sa joue quand elle ajuste la sangle du sac d'Adam. Il est penché sur un ticket de croque-monsieur dans la voiture, concentré sur la texture du papier. La réussite du projet de relogement qu'elle a porté pendant des mois vient d'être officialisée par le conseil municipal. Le soulagement après un succès s'installe, mais il arrive mêlé à une ancienne vigilance : Djamila remarque d'abord la façon dont ses mains se crispent en ouvrant la portière, puis la façon dont son regard cherche une faille dans la foule. Ce réflexe de survie, cette armure de glace qu'elle avait identifiée lors de son déjeuner avec Amina, tente de se refermer pour la protéger d'une déception qu'elle imagine déjà inévitable.
 
-Elle se rappelle alors la séance avec le Dr Martin et les articles qu'elle a écrits sur ce blog ces dernières semaines. Depuis qu’elle parle avec son médecin de ses souvenirs de violence et qu’elle apprend à repérer son biais de confirmation, elle sent moins d'urgence à jeter ses émotions aux oubliettes. Pourtant, ce soulagement est étrange. Il ressemble à une porte qui claque derrière une tempête, mais Djamila sait que la porte peut rouvrir. Aujourd'hui, elle veut comprendre la différence entre le simple soulagement et le soulagement qui lui permet de grandir.
+Elle se rappelle un détail du rendez-vous avec le médecin : elle lui avait surtout raconté les nuits où elle s’attendait à être appelée pour un problème. Maintenant que l’accord est annoncé, elle s’attend encore à devoir rouvrir le dossier. Adam tend le ticket de croque-monsieur vers elle. Elle l’aplatit sur son genou.
 
 ## Définition du soulagement
 
@@ -53,7 +53,7 @@ Si vous le souhaitez, remarquez ce qui se passe autour de vous et ce que vous re
 
 Exercice concret : choisissez trois sensations présentes maintenant, en partant du plus net au moins net : la texture du siège de la voiture sous vos mains, le goût résiduel d'une boisson, le son d'une sonnette au loin. Notez mentalement chaque sensation pendant dix secondes, sans autre commentaire. Ensuite, écrivez en une phrase ce que le soulagement vous permet d'envisager concrètement. Répéter cet ancrage après un succès aide à raccorder l'émotion à la réalité matérielle, plutôt qu'à un scénario imaginaire de menace.
 
-Pourquoi cela fonctionne pour Djamila : elle a appris avec le Dr Martin à repérer les symptômes physiques du stress. Cet ancrage sensoriel constitue une version plus douce et réaliste de ces outils, compatible avec son style pragmatique et sa propension à l'analyse.
+Djamila a remarqué le froissement du ticket entre ses doigts. C’est assez pour faire une pause si elle le souhaite. Si se concentrer sur une sensation la met davantage en alerte, elle peut arrêter et regarder ce qui se passe autour d’elle.
 
 ### 2. Technique de la carte des preuves
 
@@ -61,7 +61,7 @@ L'objectif est de distinguer le soulagement authentique d'une simple accalmie li
 
 Exercice concret : tracez deux colonnes. Notez d’un côté ce qui est confirmé, de l’autre ce qui reste à vérifier. Djamila peut noter la décision officielle et les délais encore ouverts. Elle n’a pas besoin d’attribuer une probabilité chiffrée à chaque inquiétude.
 
-Pourquoi cela fonctionne pour Djamila : cette technique utilise son goût pour le détail et la logique. Au lieu de laisser l'incrédulité gouverner, elle transforme l'anxiété en données exploitables. Cela lui permet de contrer son biais de confirmation qui, par le passé, l'aurait poussée à ne voir que l'indifférence d'Antoine plutôt que la solidité de son propre dossier.
+Elle garde la décision écrite avec le dossier. Elle peut la relire quand une question se présente, sans se demander si sa réaction est conforme à celle qu’elle devrait avoir après une réussite.
 
 ### 3. Technique du rituel de consolidation
 
@@ -71,20 +71,16 @@ Exercice concret : créez un rituel court et répétable qui marque chaque réus
 
 Pourquoi Djamila l’essaie : elle aime garder une trace de ce qui a été accompli. Le rituel peut être aussi bref qu’une phrase et n’a rien d’obligatoire.
 
-## Évolution de Djamila face à la réussite
+## Le ticket plié dans le dossier
 
-Sur le trajet du retour, Adam entonne une chanson dont la cadence lui rappelle les cours de self-défense. Djamila sourit en observant la façon dont il plie le ticket de croque-monsieur en avion en papier. Une fois garée, elle ouvre son carnet et y inscrit, en lettres serrées, trois éléments qui précisent ce qui a été décidé et ce qui reste à confirmer : le courrier signé, l'engagement d'un bailleur identifié et la disponibilité d'une subvention confirmée. C'est la carte des preuves qu'elle met en place, et cela la rassure plus qu'une sensation passagère.
+Dans la voiture, Adam chante et déplie son ticket pour lui montrer les lettres qu’il sait lire. Djamila range le papier dans le dossier. Elle a envie de raconter la décision à Amina; jusque-là, elle n’osait pas en parler avant d’avoir une confirmation écrite.
 
-Depuis la séance du 14 avril sur le lien traumatique et les articles précédents où elle a distingué son biais de confirmation, elle sait maintenant lire le mélange émotionnel qui accompagne ce soulagement. Elle applique l'ancrage sensoriel en choisissant la texture du siège et le bruit du vent comme points d'appui, puis elle pose le rituel de consolidation : elle enregistre quelques mots sur son dictaphone pour capturer l'instant. Ces gestes représentent une victoire sur ses réflexes anciens de suppression émotionnelle.
+Au travail, Antoine demande encore ce qui a été convenu sur le calendrier. Djamila retrouve le courrier de validation et lui montre le passage. La question lui fait craindre un instant qu’il faille tout reprendre. Ils s’accordent sur la première date et reportent le reste à une réunion.
 
-Au travail le lendemain, face à une réunion où Antoine veut contester le calendrier, elle sort son dossier laqué et le pose sur la table. Elle formule les éléments factuels, cite les preuves, puis, quand l'irritation monte chez un collègue, elle utilise une phrase apaisante apprise avec le Dr Martin pour recadrer la discussion. Elle ne nie pas sa vigilance, mais elle la place en mode analyse et non plus en mode alarme. Ce choix lui permet d'utiliser son soulagement comme carburant pour défendre d'autres dossiers, au lieu de le vivre comme une courte accalmie qu'il faut protéger à tout prix. Elle ne cherche plus la validation dans le regard d'un supérieur, mais dans la solidité de ses propres accomplissements.
-
-Elle sait aussi que certaines nuits seront encore occupées par des scénarios défensifs. Quand cela arrive, elle ouvre son dossier de preuves de compétence et relit les enregistrements de ses rituels. Ces traces la ramènent à la réalité tangible et lui offrent une alternative à la boucle de suspicion. Cette manière de travailler l'aide à transformer le soulagement après un succès en une ressource durable, utilisable pour elle-même et pour les femmes qu'elle accompagne.
+Une nuit, elle se réveille avec l’envie de vérifier le courrier. Elle reste un moment éveillée. Le lendemain, en rouvrant le dossier, elle retrouve le ticket plié par Adam, juste après la décision.
 
 ---
 
 Une réussite peut s’accompagner de soulagement, de joie et de doutes. Djamila s’autorise à ressentir ces émotions ensemble, sans avoir à transformer immédiatement le soulagement en ressource.
-
-Si vous vous reconnaissez dans le parcours de Djamila, rappelez-vous que ces techniques (ancrage sensoriel, carte des preuves, rituel de consolidation) sont des outils concrets pour transformer une émotion passagère en ressource durable. Elles fonctionnent mieux lorsqu'on les adapte à ses propres habitudes et à son rythme.
 
 Enfin, si le soulagement rejaillit sans cesse dans des schémas de méfiance ou si la réussite déclenche des réactions qui perturbent votre quotidien, il est recommandé de consulter un professionnel qualifié. Un thérapeute peut aider à différencier les traces du passé des signaux du présent et à construire des stratégies sûres pour accueillir vos victoires.

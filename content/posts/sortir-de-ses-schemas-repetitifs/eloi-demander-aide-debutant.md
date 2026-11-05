@@ -13,7 +13,7 @@ episode: 7
 draft: false
 ---
 
-Le livreur tend le bon en pointant une ligne modifiée. Éloi reconnaît la quantité, mais pas la référence proposée en remplacement. Demander de l'aide lui paraît indispensable et embarrassant à la fois. Cédric travaille déjà sur une autre préparation ; le passage de livraison est étroit et une personne attend derrière le chariot. Éloi voudrait pouvoir répondre tout de suite, comme les collègues qui connaissent les produits et les procédures depuis longtemps.
+Le livreur tend le bon en pointant une ligne modifiée. Éloi reconnaît la quantité, mais pas la référence proposée en remplacement. Le livreur lui tend aussi le stylo. Éloi lui demande s’il peut attendre avant de repartir.
 
 Il ne signe pourtant pas une validation qu'il ne sait pas faire. Il indique au livreur qu'il doit consulter la responsable présente. Le temps nécessaire lui paraît immense, même si personne ne lui demande encore de se presser. Il cherche Agnès, qui supervise la réception ce jour-là, puis commence par une longue excuse. Elle lui demande quel point nécessite une décision. Éloi montre enfin la référence et précise ce qu'il peut vérifier lui-même et ce qu'il ne peut pas confirmer.
 
@@ -51,7 +51,7 @@ Devant Agnès, Éloi commence par expliquer qu'il sait qu'elle est occupée, qu'
 
 Pour une explication qui peut attendre, Éloi peut demander un créneau et noter sa question. Il ne conserve pas toute l'incertitude en tête jusqu'à oublier ce qui l'embarrasse. L'équipe doit aussi prévoir ces temps. « Demande plus tard » devient utile lorsqu'un plus tard existe réellement. Sans cela, le report peut maintenir le débutant dans les mêmes erreurs tout en lui reprochant de ne pas apprendre assez vite.
 
-## 3 techniques pour demander de l'aide de façon précise
+## Quand une autre personne doit valider
 
 ### 1. Dire le fait, la limite et l'appui attendu
 
@@ -75,13 +75,13 @@ Après la réponse, Éloi reformule l'action autorisée et ce qui doit encore ê
 
 Au temps prévu avec Agnès, il pose une question sur la méthode de contrôle, pas seulement sur la décision du jour. Elle lui montre ce qui relève de son rôle et ce qui reste à faire confirmer. Éloi peut tenter une reformulation et la faire vérifier. Le soutien devient ainsi un apprentissage réutilisable, sans faire disparaître les validations qui restent nécessaires dans le fonctionnement du restaurant.
 
-## Éloi commence à demander avant d'improviser
+## Le bon reste sur le comptoir
 
 Après le service, Agnès reprend le document avec lui. Éloi pose sa question plus directement et reçoit une explication dont il peut redire les limites. Il comprend que certaines références demandent une vigilance particulière et que sa fonction n'est pas de deviner seul l'équivalence d'un produit. Il ne se sent pas immédiatement plus assuré, mais il sait mieux à quel moment et auprès de qui vérifier.
 
 Une autre fois, Cédric répond trop vite à une question différable. Éloi ne sait pas encore comment utiliser l'information. Il le signale au créneau prévu plutôt que de faire semblant de comprendre. L'échange demande une seconde explication. Il reste gêné, mais la question aboutit. Cette réussite ne prouve pas que tous les collègues répondront toujours ainsi. Elle lui donne un exemple de demande poursuivie sans abandonner son rôle.
 
-Au foyer, Nora lui propose de relire une démarche liée à sa formation. Éloi précise cette fois le point qu'il souhaite vérifier. Il ne lui confie pas tout le dossier par peur de se tromper. Il peut accepter un appui limité puis effectuer la suite lui-même. La même logique trouve une place hors du restaurant : savoir ce qui manque et choisir une aide appropriée, avec le droit de revenir si la réponse laisse une question réelle.
+Au foyer, Nora propose de relire sa démarche de formation. Éloi lui montre la phrase dont il n’est pas sûr et lui demande comment elle la comprend. Quand elle arrive à la suite, il reprend la feuille. Il aimerait finir le reste avant de la lui montrer une deuxième fois.
 
 ---
 

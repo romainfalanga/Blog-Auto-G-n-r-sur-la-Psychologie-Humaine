@@ -81,7 +81,7 @@ Elle prépare les éléments nécessaires et une question : « À qui puis-je ex
 
 Après l’échange, une personne respectueuse peut l’aider à distinguer le résultat et sa valeur. Un délai refusé ou un dispositif absent exprime une limite institutionnelle ; il ne prouve pas qu’elle ne mérite pas de soutien. Jeanne peut écouter si elle l’accepte. Samira n’a pas à lui raconter ce qu’elle souhaite garder privé pour recevoir cette présence.
 
-## Samira revient dans la conversation à sa manière
+## Le trajet plutôt que les comptes
 
 Deux jours plus tard, Samira attend que les autres parents s’éloignent et demande un échange à l’école. L’entretien est court. Elle obtient des informations qu’elle devra encore vérifier, sans promesse immédiate. Le montant ne disparaît pas, mais la question cesse d’être un débat public sur sa volonté. Elle repart avec un nom et une prochaine étape.
 
@@ -89,7 +89,7 @@ Jeanne lui propose ensuite de relire l’organisation de la sortie. Samira hési
 
 La remarque du portail lui revient encore lorsqu’elle prépare les affaires de Noé. Elle n’arrive pas à la trouver indifférente, et personne ne lui demande cet exploit. Elle distingue maintenant la voix de ce parent de celle de l’ensemble du groupe. Jeanne reste Jeanne, l’école reste un interlocuteur à interroger, et elle-même reste davantage qu’un paiement en attente.
 
-Noé lui montre le dessin qu’il veut apporter pour la sortie. Samira n’annonce pas encore une participation certaine. Elle lui dit où en est la vérification, puis l’écoute décrire le dessin. Elle garde la question financière du côté des adultes. Ce cadre imparfait lui permet d’être présente sans demander à son fils de réparer l’atteinte reçue au portail.
+Noé lui montre le dessin qu’il veut emporter. Il a dessiné le bus avec deux portes et veut savoir par laquelle il montera. Samira ne lui annonce pas encore une participation certaine. Elle lui demande s’il voudrait voir le plan du trajet pendant qu’elle le relit. Il place le dessin à côté de la feuille pour comparer les deux bus.
 
 ---
 

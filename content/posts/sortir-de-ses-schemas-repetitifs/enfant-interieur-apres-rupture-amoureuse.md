@@ -13,11 +13,11 @@ contexte: "après une rupture amoureuse"
 draft: false
 ---
 
-Djamila est assise sur le carrelage froid de sa cuisine, entourée de cartons à moitié ouverts. Le 17 mai 2026 marque une étape qu'elle n'avait pas prévue : elle finit de trier les dernières affaires de Samir, son ex-conjoint, quatre mois après son départ fracassant. Elle tient entre ses mains un vieux carnet de dessins d'Adam, son fils de 6 ans, mais son regard se perd sur une petite boîte en bois qu'elle n'avait pas vue depuis des années. À l'intérieur se trouve son acte d'adoption, ce document administratif qui, pour elle, a toujours représenté le point zéro de son existence.
+Djamila termine le tri des affaires de Samir, quatre mois après son départ. Dans un carton resté sous la table de la cuisine, elle retrouve un carnet d’Adam et la boîte qui contient son acte d’adoption. Elle était venue chercher du ruban adhésif. Elle s’assoit par terre avec le papier sur les genoux.
 
-Soudain, un bruit sec retentit dans la cage d'escalier. Djamila sursaute violemment, son corps se figeant instantanément. Ses mains tremblent sur le papier jauni. Elle reconnaît ensuite les pas d'un voisin qui rentre chez lui. Elle se souvient de ce qu'elle a appris avec le Dr Martin sur ses réactions aux rappels des violences passées, mais aujourd'hui, la douleur est différente. Ce n'est pas seulement la peur de Samir qui remonte, c'est une sensation de vide abyssal, une détresse qui semble venir de bien plus loin que ses sept années de vie commune.
+Un bruit sec la fait sursauter dans la cage d’escalier. Elle reconnaît le pas du voisin et attend que sa porte se referme. Après la formation et les réussites au travail, elle aimerait que ce bruit ne lui fasse plus cet effet. Elle ne parvient pas à déplier le papier tout de suite.
 
-Elle se sent comme cette petite fille de trois ans dans l'orphelinat, attendant un avion pour la France, terrifiée à l'idée que personne ne vienne la chercher. La rupture avec Samir, malgré toute la toxicité de leur relation, a rouvert une brèche qu'elle pensait colmatée par son armure de travailleuse sociale combative. Elle réalise que son hypervigilance n'est pas seulement un vestige de son ex-conjoint, mais une compagne de route bien plus ancienne. La solitude de l'appartement lui renvoie l'écho d'un abandon originel qu'elle n'a jamais osé regarder en face.
+L’acte lui donne une date. Pour ce qui s’est passé avant, elle a surtout des récits rapportés, des questions et quelques images qu’elle ne sait pas situer. Elle pense à la peur de ne pas être attendue. Elle peut prendre cette peur au sérieux sans décider de quel âge elle lui vient.
 
 ## Qu'est-ce que l'enfant intérieur ?
 
@@ -57,13 +57,11 @@ Si cela vous convient, remarquez un détail familier autour de vous, comme une c
 
 Choisissez un moment de la journée et demandez-vous ce qui vous aiderait maintenant : du repos, un échange avec un proche, une limite ou une aide concrète. Il n’est pas nécessaire d’identifier un besoin d’enfance pour décider de ce petit pas.
 
-## Djamila commence à poser les armes
+## Le dessin à emporter
 
-Djamila repose délicatement le carnet d'Adam. Elle ne cherche plus à masquer les tremblements de ses mains. Pour la première fois, elle ne se juge pas pour son hypervigilance. Elle repense à cette formation sur le biais de groupe où elle avait failli s'effacer, et réalise que sa force ne réside pas dans son armure, mais dans sa capacité à reconnaître sa vulnérabilité. Elle se lève et va chercher une boîte de crayons de couleur. Elle s'installe à la table où elle dessine souvent avec son fils, mais cette fois, c'est pour elle seule.
+Dans le carnet, Adam a laissé une page libre entre deux dessins. Djamila prend une autre feuille et y trace quelques formes, les mains encore peu sûres. Ça lui rappelle l’après-midi où il lui a montré comment dessiner les pattes de son dragon.
 
-Elle trace des formes colorées sur une feuille blanche, laissant sa main gauche guider le trait. Elle laisse sortir cette petite Djamila qui a si souvent eu peur de disparaître. En dessinant, elle sent une chaleur diffuse remplacer la tension habituelle dans son dos. Elle n'est plus seulement la travailleuse sociale qui sauve les autres, elle devient celle qui se sauve elle-même. Elle comprend que la rupture avec Samir, bien que douloureuse, est l'opportunité de ne plus vivre dans l'ombre de son passé d'enfant adoptée. Elle se remémore le soulagement authentique qu'elle a ressenti lors de l'officialisation de son projet de relogement en avril dernier : c'était la preuve qu'elle pouvait construire sa propre sécurité, pierre par pierre, sans l'aval d'un partenaire toxique.
-
-Ce soir, quand elle ira chercher Adam chez sa collègue Amina, elle ne se sentira pas obligée de montrer un visage de marbre. Elle acceptera peut-être même l'invitation à dîner qu'elle avait déclinée la veille. Elle ne sait pas encore de quoi demain sera fait, mais elle sait qu'elle n'est plus seule dans sa cuisine. Elle est là pour elle-même, adulte solide et enfant apaisée, avançant d'un pas plus léger sur ce chemin de reconstruction qu'elle a choisi de parcourir avec courage.
+Elle remet l’acte dans sa boîte. Elle ira chercher Adam chez Amina comme prévu. Sur le seuil, elle verra si elle a envie de lui parler du carton ou de rester manger. Pour l’instant, elle glisse le dessin dans son sac et s’aperçoit qu’elle a oublié le ruban adhésif.
 
 ---
 

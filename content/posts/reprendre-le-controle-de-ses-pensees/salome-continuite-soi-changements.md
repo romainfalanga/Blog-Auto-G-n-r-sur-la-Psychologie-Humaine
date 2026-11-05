@@ -15,7 +15,7 @@ draft: false
 
 Un vieux croquis se déplie entre deux plaques de carton. Salomé reconnaît une forme qu’elle trace au début de son apprentissage. Les annotations serrées remplissent toute la marge, avec des corrections qu’elle ferait autrement aujourd’hui. Elle prépare un rangement plus fonctionnel dans son atelier et rencontre une question imprévue de continuité de soi : que garde-t-elle de ces étapes, maintenant que sa manière de travailler et de se présenter change ?
 
-Elle a vingt-neuf ans, est luthière, célibataire et non binaire. Elle choisit les accords féminins. Son identité ne prouve pas une rupture avec son passé ni un besoin de reconstruire une histoire particulière. Elle ne souhaite pas raconter ce qu’elle pense de son genre à chaque époque. La question présente concerne un ensemble plus large de changements : des techniques apprises, des limites mieux exprimées, des relations choisies et une présentation publique qu’elle ajuste.
+Salomé retrouve un dessin dont elle avait oublié le papier quadrillé. L’angle du bord lui paraît trop fermé. Elle se souvient du geste qu’elle cherchait à obtenir et de la main qui coinçait au milieu. Des années plus tard, elle a changé la façon de poser la pièce. Elle place l’ancien dessin à côté de ce qu’elle est en train de préparer.
 
 Gaspard l’aide à déplacer une caisse. Il lui demande si les anciens cartons vont au recyclage ou dans la réserve. Salomé ne sait pas encore. Garder tous les croquis lui paraît encombrant ; les jeter lui donne l’impression de renier le travail qui précède. Elle transforme un tri matériel en décision sur la fidélité à toute sa personne. L’objet prend une importance qu’il ne possède pas forcément pour elle avant cette question.
 
@@ -77,13 +77,13 @@ Elle prépare aussi une phrase pour les changements visibles : « Ma façon de p
 
 Après le tri, elle laisse une petite zone pour les décisions reportées. Ce choix évite d’utiliser la fatigue de la journée pour se débarrasser de ce qu’elle pourrait regretter. Elle prévoit de revoir la caisse à un moment choisi. Pour adapter cette piste, gardez une échelle raisonnable : quelques objets, un texte ou un engagement. La continuité de soi ne se règle pas en une séance et n’exige pas une transformation complète du logement ou de l’identité publique.
 
-## Salomé fait de la place sans effacer les étapes
+## Trois croquis sur l’établi
 
 Gaspard revient pour déplacer la caisse restante. Salomé lui indique ce qui part à la réserve et ce qui reste près de l’établi. Il n’a pas besoin d’évaluer chaque souvenir. Elle garde le croquis choisi dans une chemise et retrouve une surface de travail utilisable. Le changement est tangible : davantage de place pour la tâche actuelle, sans décision générale sur la valeur de toute son histoire.
 
 Le soir, Nora lui demande comment avance le rangement. Salomé raconte le détail du vieux tracé, puis s’arrête là. Elle ne montre pas les images qu’elle souhaite garder privées. Leur conversation peut accueillir un souvenir choisi sans devenir une enquête sur les anciennes versions de sa personne. Elle peut se sentir reliée à une étape de son parcours tout en refusant qu’elle soit interprétée par d’autres.
 
-Quelques jours plus tard, une nouvelle méthode lui semble plus adaptée à une tâche. Elle peut l’essayer sans défendre l’ancienne uniquement parce qu’elle l’utilise longtemps. La continuité ne devient pas une interdiction d’apprendre. Salomé garde des repères de valeur et accepte que certaines formes changent. Elle ne se sent pas toujours parfaitement cohérente ; elle dispose d’une façon plus souple de rester l’autrice de ce qu’elle raconte et de ce qu’elle garde.
+Quelques jours plus tard, Salomé ressort le tracé qu’elle avait hésité à garder. Elle cherche à retrouver un angle, prend la mesure, puis remet le croquis en réserve. La méthode qu’elle essaie aujourd’hui ne ressemble pas tout à fait à celle du dessin. Le vieux trait lui a tout de même évité de recommencer à partir de rien.
 
 ---
 

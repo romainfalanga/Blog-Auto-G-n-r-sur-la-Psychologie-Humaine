@@ -13,7 +13,7 @@ editorial_pack: "psychology-v10"
 draft: false
 ---
 
-Sur la table, les photographies proposent des salles, des jardins et des groupes en mouvement. Anaïs regarde surtout le banc près d'un chemin bordé d'arbres. Ses activités adaptées ont besoin d'un sens personnel, et pas seulement d'une place dans le calendrier des soins. Lors de cette rencontre d'orientation, elle veut parler de ce qui lui plaît autant que de ce qui demande une précaution.
+Sur la table, les photographies proposent des salles, des jardins et des groupes en mouvement. Anaïs regarde surtout le banc près d'un chemin bordé d'arbres. Elle pourrait montrer la salle, qui se trouve plus près de chez elle. Elle revient au jardin et se demande où le groupe se retrouve les jours de pluie. Lors de cette rencontre d'orientation, elle veut parler de ce qui lui plaît autant que de ce qui demande une précaution.
 
 Elle a quarante-six ans, travaille à l'accueil municipal et vit avec une polyarthrite diagnostiquée, suivie médicalement. L'échange s'inscrit dans les recommandations de son équipe, qui reste le cadre pour les activités et les limites liées à sa santé. Anaïs ne vient pas chercher un défi capable de prouver qu'elle dépasse la maladie. Elle souhaite retrouver une possibilité de mouvement qui respecte son état et garde un intérêt pour elle.
 
@@ -83,7 +83,7 @@ Elle retient aussi ce qu'elle vit : une conversation, une odeur de feuilles, un 
 
 Avec Benoît, elle évite de transformer le retour en compte rendu de performance. Il peut demander ce qu'elle apprécie plutôt que seulement combien elle fait. Anaïs garde ainsi la possibilité de parler de l'activité comme d'une expérience choisie, et pas uniquement comme d'une épreuve médicale à valider.
 
-## Anaïs parle du chemin plutôt que d'un record
+## Le jardin sur la photographie
 
 Pendant l'entretien, elle montre la photographie du jardin et explique ce qui l'attire. L'intervenante reprend avec elle les conditions à vérifier et le cadre de la proposition appropriée. Anaïs pose ses questions, y compris celle du transport. Elle ne repart pas avec l'obligation d'imiter la personne représentée sur l'image. Elle vérifie aussi comment reprendre contact si le transport ou l’horaire proposé ne convient pas. Cette suite concrète lui évite de porter seule les obstacles après l’entretien.
 

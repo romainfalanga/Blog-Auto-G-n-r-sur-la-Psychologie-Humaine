@@ -13,11 +13,9 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Monique lisse machinalement la nappe en lin de la salle à manger, celle que Jean-Claude aimait tant sortir pour les grandes occasions. Sur la table, une brochure immobilière et une lettre manuscrite de Jacques attendent son attention. Jacques, avec sa douceur et son enthousiasme de jeune retraité, lui propose de vendre leurs maisons respectives pour acheter un appartement lumineux près du centre-ville. C'est une invitation à un nouveau départ, une main tendue vers une vie à deux, loin des souvenirs qui habitent encore les couloirs de cette grande demeure de l'Oise. Pourtant, Monique reste immobile, les doigts crispés sur le bord du bois ciré, l'esprit embrumé par une résistance sourde qu'elle ne parvient pas à nommer.
+Il y a une lettre de Jacques, une brochure et le courrier de la chaudière sur la table. Monique les écarte pour trouver une place à son assiette. Jacques a parlé d’habiter ensemble. Il aimerait un appartement plus près du centre. La maison où Monique a vécu avec Jean-Claude est plus grande qu’il ne lui en faut, et elle ne sait pas si elle veut la vendre.
 
-Elle regarde autour d'elle, fixant les bibelots à leur place immuable, le fauteuil où son mari s'asseyait, et le silence familier qui l'enveloppe. Tout dans son esprit semble lui indiquer que rien ne doit changer, que la situation actuelle est la seule possible et la seule sûre. Elle repense à ses récents progrès, notamment à ce jour au salon de thé où elle avait enfin accepté de se sentir désirable aux yeux de Jacques, dépassant son sentiment d'imposture. Elle a de l'affection pour lui, elle a envie de ce projet, mais des questions concrètes et affectives la retiennent. Elle se dit que déménager serait prématuré, que le marché immobilier est incertain ou que ses petits-enfants perdraient leurs repères. Elle essaie de distinguer les raisons qu’elle peut vérifier de la difficulté qu’elle éprouve à imaginer un autre foyer.
-
-L'anxiété qui l'habitait lors de ses soucis financiers en mars dernier refait surface, mais sous une forme différente. Ce n'est plus la peur de manquer qui la paralyse, mais une conviction irrationnelle que le statu quo est la seule norme acceptable. Monique sent son rythme cardiaque s'accélérer alors qu'elle s'apprête à appeler sa voisine Geneviève pour lui dire qu'elle va probablement refuser la proposition de Jacques. Elle cherche le confort de l'habitude, même si cette habitude est faite de solitude. Elle traverse une période de doute où sa raison lutte contre un mécanisme de protection ancestral qui lui suggère que tant que rien ne bouge, aucun danger ne peut survenir.
+En passant dans l’entrée, elle pense aux marches, qui lui coûtent certains soirs, puis au trajet jusqu’à la bibliothèque, qu’elle fait sans réfléchir. Sur un coin de la brochure, elle écrit : « Ce que j’aurais envie de garder. » Elle voudrait savoir si elle parle des meubles ou des habitudes.
 
 ## Qu'est-ce que le biais du statu quo ?
 
@@ -57,13 +55,11 @@ Pour court-circuiter l'attachement émotionnel à la norme, il est utile de se d
 
 Un essai réversible peut donner des informations, par exemple passer un week-end chez Jacques. Il n’engage pas Monique à vendre et ne garantit pas qu’elle voudra vivre avec lui.
 
-## Monique choisit de poser les armes
+## Un essai de deux nuits
 
-Assise à son vieux bureau de chêne, Monique repose son stylo. Elle vient de terminer l'exercice de projection dans dix ans. L'image d'elle-même, plus âgée, luttant pour monter les escaliers de cette maison devenue trop vaste, l'a profondément touchée. Elle comprend maintenant que son attachement aux traditions et sa peur du changement, héritées de ses parents comme elle l'avait analysé avec sa petite-fille Lola lors de leur sortie sur le port, se sont déguisés en une fausse prudence. Ce biais du statu quo n'était qu'une armure de plus, une protection contre la vie qui continue de battre en elle.
+Monique garde la brochure ouverte sur la table et appelle Jacques. Elle lui dit que l’idée de vendre est trop avancée pour elle. Ils parlent de passer deux nuits chez lui pour voir comment se passe une journée ordinaire ensemble, sans caler le week-end sur une sortie.
 
-Elle repense à son parcours depuis le décès de Jean-Claude. Elle a traversé l'impuissance de ce mois de mars où elle cherchait désespérément un coupable à sa mort, a décrypté son besoin de contrôle et a même osé s'ouvrir à l'intimité avec Jacques. Reculer maintenant au nom d'une normalité qui n'existe plus serait trahir tout le chemin parcouru. Elle se lève et se dirige vers la fenêtre. Le jardin est en fleurs, mais elle réalise qu'elle n'a plus besoin d'être la gardienne de ces lieux pour honorer la mémoire de son mari. Sa loyauté envers Jean-Claude ne se mesure pas au nombre d'années passées dans ces murs, mais à sa capacité à être heureuse à nouveau.
-
-Monique prend son téléphone. Elle n'appelle pas Geneviève pour se plaindre, ni François pour chercher une excuse. Elle compose le numéro de Jacques. Sa main est ferme, bien loin de la paralysie qu'elle ressentait face à ses factures il y a quelques semaines. Elle sent une forme de légèreté inédite, un calme qui ne vient pas de la répétition du passé, mais de l'acceptation de l'avenir. Elle comprend que la véritable norme réside dans le mouvement et qu'en acceptant de bousculer ses meubles, elle s'autorise enfin à laisser la lumière entrer dans les pièces encore sombres de son cœur.
+Elle demande si elle pourrait apporter son livre et finir de le lire dans un coin le dimanche matin. Jacques lui répond qu’il va souvent faire le marché à cette heure-là. Quand elle raccroche, la brochure est toujours là. Elle la range avec la lettre, pas avec les papiers qui attendent une signature.
 
 ---
 

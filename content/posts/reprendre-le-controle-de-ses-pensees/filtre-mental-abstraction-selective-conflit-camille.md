@@ -13,9 +13,9 @@ contexte: "en situation de conflit"
 draft: false
 ---
 
-La pluie de ce 11 mai 2026 bat contre les vitres de la cuisine alors que Camille termine de ranger le lave-vaisselle. Ses gestes sont saccadés, trahissant une tension qui ne la quitte plus depuis le retour de David. Ils viennent d'avoir une discussion houleuse à propos des vacances d'été, et une seule phrase de son mari tourne en boucle dans son esprit : "Tu es encore très fatiguée en ce moment". Camille sent la colère monter, occultant totalement les propositions de David pour l'aider à alléger son planning à l'hôpital ou ses paroles sur la qualité du temps qu'ils passent ensemble.
+Camille tient encore l’assiette que David lui a tendue. Ils parlent des vacances depuis vingt minutes, mais une phrase a pris le dessus : « Tu es encore très fatiguée en ce moment. » Elle pose l’assiette au bord de l’évier. Elle se rappelle mal la proposition faite juste avant et très bien le ton qu’elle lui a entendu prendre.
 
-Elle s'arrête, une assiette à la main, les yeux fixés sur un point invisible. Tout ce qu'elle retient de cet échange de vingt minutes, c'est cette petite remarque sur sa fatigue. Pour elle, cela sonne comme un reproche, une preuve de son incompétence à tout gérer, une critique directe de son rôle de soignante et de mère. Elle oublie que David a aussi dit qu'il admirait sa gestion du service de cardiologie et qu'il avait préparé le dîner pour la soulager. Seule cette unique critique, réelle ou perçue, brille comme un néon rouge dans l'obscurité de sa pensée.
+Elle se voit répondre qu’elle a encore travaillé tard pour pouvoir se libérer cet été. Ce qu’elle voudrait savoir, c’est à quoi David pensait quand il lui a parlé de sa fatigue. Pour elle, cela sonne comme un reproche, une preuve de son incompétence à tout gérer, une critique directe de son rôle de soignante et de mère. Elle oublie que David a aussi dit qu'il admirait sa gestion du service de cardiologie et qu'il avait préparé le dîner pour la soulager. Seule cette unique critique, réelle ou perçue, brille comme un néon rouge dans l'obscurité de sa pensée.
 
 Camille se souvient de sa discussion avec Nathalie, sa collègue, sur la compassion il y a quelques jours. Elle avait réussi à ne pas se laisser submerger par la détresse de Monsieur Girard, mais ici, dans l'intimité de son foyer, ses vieux démons resurgissent. Camille associe ses exigences envers elle-même à des souvenirs de Françoise. Ce soir, un détail négatif suffit à lui faire oublier le reste de la conversation. Elle se sent injustement attaquée, oubliant que la relation est un ensemble de nuances et non une suite de reproches. Cette hypervigilance face à la critique lui rappelle cruellement ses propres réactions lors de sa gêne thoracique évaluée à l’hôpital en avril, quand elle craignait que la moindre faiblesse physique ne soit le signe d'une défaillance totale.
 
@@ -57,13 +57,15 @@ Camille distingue les mots entendus, leur effet sur elle et ce qu’elle suppose
 
 Si l’échange lui paraît sûr, Camille peut demander à David ce qu’il voulait dire et lui expliquer comment elle l’a compris. En présence de menaces, d’humiliations répétées ou de violence, la priorité est de se protéger et de chercher du soutien.
 
-## Camille commence à voir autrement
+## David répond à sa question
 
 Un silence s'installe dans la cuisine, seulement rompu par le ronronnement du réfrigérateur. Camille lâche enfin l'assiette qu'elle tenait. Elle se remémore sa récente découverte sur le déplacement émotionnel, où elle avait compris qu'elle déchargeait son stress sur Léo. Cette fois, elle ne veut pas laisser le filtre mental gâcher sa soirée avec David. Elle s'assoit à la table en bois et prend un temps de pause pour laisser décanter la tempête intérieure, appliquant les principes d'auto-compassion qu'elle a appris à utiliser lors des matins difficiles avec ses enfants.
 
 Elle repense à l'exercice de la vision panoramique. Elle se force à revoir la scène de tout à l'heure, en distinguant la phrase prononcée et le sens qu’elle lui avait donné. Elle revoit le regard de David lorsqu'il a parlé de sa fatigue. Elle se dit qu’il a aussi pu s’inquiéter pour elle ; elle décide de le lui demander. Elle réalise que son filtre mental en situation de conflit a agi comme une barrière entre son cœur et celui de son mari.
 
 Camille se lève et se dirige vers le salon où David lit un livre. Elle ne s'approche pas avec ses habituels reproches silencieux ou son masque d'infirmière imperturbable. Elle s’assoit à côté de lui et lui demande ce qu’il voulait dire par « très fatiguée ». Il lui explique qu’il cherchait comment alléger leur semaine. Elle sent qu'elle a fait un pas immense : elle a identifié le piège avant de s'y enfermer totalement. Sa fatigue est réelle, ses doutes aussi, mais ils ne sont plus les seuls éléments de l'équation. En reconnaissant son biais cognitif, elle s'autorise enfin à recevoir l'amour et le soutien qu'elle s'interdisait par peur d'être imparfaite.
+
+David se souvient de ce qu’il voulait dire et reprend sa proposition de vacances. Camille l’écoute jusqu’au bout. Ils ne réservent rien ce soir. Elle lui demande de lui redonner les dates demain.
 
 ---
 

@@ -13,7 +13,7 @@ episode: 4
 draft: false
 ---
 
-Baptiste retire le mot définitif du nom du fichier. Il le remplace par version de travail et ajoute une date. Le geste lui paraît modeste, mais la différence compte : l’équipe examine encore une proposition de support pour discuter des transmissions entre deux dépôts. Après les premières remarques, il souhaite comparer une nouvelle présentation sur des exemples fictifs. Patricia lui demande ce qui se passerait si l’essai ne convenait pas. Il répond d’abord qu’ils reviendraient simplement en arrière. Elle attend la suite. Baptiste réalise qu’il n’a pas encore décrit ce que ce retour exigerait.
+Baptiste retire le mot définitif du nom du fichier. Il le remplace par version de travail et ajoute une date. Il a encore le premier tableau annoté par Patricia. Cette fois, il voudrait que la version puisse circuler parmi les collègues présents à l’essai sans être prise pour le prochain formulaire officiel. Après les premières remarques, il souhaite comparer une nouvelle présentation sur des exemples fictifs. Patricia lui demande ce qui se passerait si l’essai ne convenait pas. Il répond d’abord qu’ils reviendraient simplement en arrière. Elle attend la suite. Baptiste réalise qu’il n’a pas encore décrit ce que ce retour exigerait.
 
 À trente-sept ans, le coordinateur de maintenance connaît les conséquences d’une information mal comprise. Il ne touche pas aux procédures qui encadrent les interventions et ne propose pas de les tester librement. Son projet actuel concerne un travail préparatoire sur la lisibilité de documents, avec les validations prévues dans l’organisation. Malgré ce périmètre limité, un essai peut prendre du temps, créer des attentes ou laisser circuler une mauvaise version. Le mot réversible ne supprime pas ces effets. Baptiste doit examiner les conditions concrètes qui rendent possible un arrêt.
 
@@ -57,7 +57,7 @@ Baptiste souhaite observer si les lecteurs comprennent l’organisation des rubr
 
 Avant la séance, Baptiste et Patricia conviennent d’un point de bilan. Le document ne passera pas automatiquement à l’étape suivante. Si la proposition est arrêtée, les participants en seront informés et la version de travail ne restera pas présentée comme active. Emmanuel pourra expliquer ce qui a été appris sans défendre une adoption à tout prix. Ce retour demande donc un peu de travail et une responsabilité identifiée. Dans une autre situation, il faudrait également examiner les dépenses, les personnes engagées et les conséquences impossibles à effacer. Une date de bilan n’a d’intérêt que si plusieurs suites restent réellement possibles : poursuivre, modifier, chercher d’autres informations ou arrêter. Si l’une est interdite d’avance, mieux vaut reconnaître qu’il ne s’agit pas d’un essai entièrement ouvert.
 
-## Baptiste apprend quelque chose sans généraliser trop vite
+## Deux champs portent à confusion
 
 Pendant la séance préparatoire, plusieurs participants trouvent le résumé facile à parcourir. Une confusion apparaît pourtant entre deux champs qui portent des noms proches. Baptiste la note sans corriger immédiatement les personnes qui hésitent. Leur difficulté décrit précisément ce que le support rend possible ou non. Emmanuel propose une formulation différente, puis constate qu’elle crée une autre ambiguïté. L’échange ne se réduit pas à défendre leurs idées respectives. Les exemples fictifs leur permettent d’examiner ces variations sans demander aux utilisateurs de changer leur fonctionnement réel.
 

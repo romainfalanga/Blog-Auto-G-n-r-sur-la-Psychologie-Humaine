@@ -13,7 +13,7 @@ editorial_pack: "psychology-v10"
 draft: false
 ---
 
-Le sac glisse contre le manteau d'Anaïs au moment où la file du cinéma avance. Elle change la lanière de place, puis hésite à appeler Benoît, déjà près de la caisse. Communiquer un besoin d'aide concret paraît simple tant qu'elle l'imagine chez elle. Dans ce hall, elle redoute que la demande transforme toute la sortie : qu'il propose de rentrer, qu'il prenne toutes les décisions ou qu'il s'inquiète davantage qu'elle ne le souhaite.
+Le sac glisse contre le manteau d'Anaïs au moment où la file du cinéma avance. Elle change la lanière de place, puis hésite à appeler Benoît, déjà près de la caisse. Chez eux, elle avait imaginé lui demander de porter le sac. Benoît regarde les horaires et Anaïs hésite déjà à prononcer son prénom assez fort pour traverser le hall. Dans ce hall, elle redoute que la demande transforme toute la sortie : qu'il propose de rentrer, qu'il prenne toutes les décisions ou qu'il s'inquiète davantage qu'elle ne le souhaite.
 
 Elle a quarante-six ans, travaille comme agente d'accueil municipale et vit avec une polyarthrite diagnostiquée, suivie médicalement. Les gestes qui la gênent ne sont pas toujours les mêmes. Ce soir, elle souhaite toujours voir le film dans les conditions compatibles avec son état ; elle veut seulement que Benoît porte le sac pendant leur déplacement vers la salle. Elle ne lui a pas encore donné cette information.
 
@@ -83,7 +83,7 @@ Elle remercie Benoît pour le geste exact. Ce retour l'aide aussi à savoir ce q
 
 Plus tard, ils peuvent revoir les appuis récurrents. Certaines demandes occasionnelles restent simples ; d'autres signalent un besoin d'organisation ou de conseil professionnel. Anaïs ne souhaite pas dépendre de l'improvisation permanente de Benoît. Rendre les besoins plus prévisibles peut protéger son autonomie et la disponibilité de son compagnon.
 
-## Anaïs reprend sa réponse dans le hall
+## Garder sa place au cinéma
 
 Elle appelle Benoît avant qu'ils entrent dans la salle. « Je dis que je me débrouille, mais j'ai besoin que tu portes le sac jusqu'au fauteuil. Je veux rester pour le film. » Il le prend et explique qu'il craint surtout qu'elle se force pour lui. Elle répond qu'elle lui dira si le programme doit changer, selon son état et les repères qui la concernent.
 

@@ -15,7 +15,7 @@ draft: false
 
 L'encre du nouveau planning recouvre encore une partie de l'ancien. Maëlle cherche son équipe, suit la ligne du doigt et découvre une prise de poste différente de celle qu'elle note chez elle. Le stress lié aux conditions de travail ne ressemble pas aujourd'hui à une pensée vague. Il possède une heure, un trajet et une période de sommeil qu'elle ne sait plus où placer.
 
-À vingt-sept ans, elle travaille comme opératrice dans une usine agroalimentaire en horaires alternés. Avec Julien, son compagnon, elle commence à préserver des temps de récupération et à mieux répartir leur organisation. Le rendez-vous qu'ils déplacent pour se retrouver tombe précisément dans la case qui vient de changer. Elle pense au bus, au repas, à la fatigue du retour, puis au message qu'elle doit encore lui transmettre.
+Elle reprend son téléphone pour vérifier le dernier message de Julien. Ils avaient trouvé un soir où aucun des deux n’aurait besoin de partir avant la fin du repas. C’est précisément la case qui vient de changer. Il faut aussi revoir le trajet, et elle ne sait pas si le covoiturage reste possible. Elle prend une photo du planning pour pouvoir montrer quelle version elle avait sous les yeux.
 
 « On te confirme tout à l'heure », lui dit un responsable en passant. Maëlle reste devant la feuille. Elle connaît déjà ce moment où elle attend une information et essaie de prévoir toutes les versions à la fois. Son premier réflexe est de se demander comment devenir plus souple. Son second, plus récent, consiste à regarder si la souplesse qu'on lui demande laisse réellement une place à ses besoins et à sa sécurité.
 
@@ -61,7 +61,7 @@ Elle peut néanmoins identifier une frontière. Attendre une confirmation prévu
 
 Julien peut l'aider à examiner un trajet ou une contrainte domestique. Il ne peut pas confirmer une décision d'entreprise. Lorsque leur conversation tourne autour de suppositions, ils risquent de s'épuiser sans accéder au bon niveau d'action. Savoir quel interlocuteur détient l'information devient donc une ressource importante.
 
-## 3 techniques pour répondre au stress dans son contexte
+## Faire préciser le planning et ses conséquences
 
 ### 1. Séparer les faits, les effets et la demande
 

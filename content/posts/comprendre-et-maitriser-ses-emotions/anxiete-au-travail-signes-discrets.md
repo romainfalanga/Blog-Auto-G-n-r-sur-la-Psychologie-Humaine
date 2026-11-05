@@ -15,7 +15,7 @@ draft: false
 
 Sophie est assise à son bureau en open-space. L'icône de message de Marc clignote dans la barre, et elle observe le petit point lumineux sans intervenir. Dans sa tasse, le thé vert repose tiède, sa main effleure parfois la céramique pendant qu'elle répète silencieusement les options possibles pour répondre. L'anxiété au travail se loge ainsi chez elle, discrète, déguisée en prudence professionnelle.
 
-Autour d'elle, les cliquetis des claviers et le froissement d'une chemise résonnent comme un fond sonore neutre, mais Sophie sent une tension fine, comme si ses pensées formaient un brouillard léger qui empêche de voir clairement. Elle se rappelle la dernière fois qu'elle a noté ses sentiments dans son carnet, comme elle l'avait décidé après l'article du 15 mars. Documenter sans chercher immédiatement à réparer lui avait alors permis d'interrompre la boucle de la surpensée ; aujourd'hui, cette habitude l'aide à identifier que ce qui guide ses ruminations, ce n'est pas seulement la logique, mais une anxiété diffuse liée à la performance.
+Sophie rouvre le carnet où elle a noté les allers-retours dans le code après la remarque de Marc. Elle avait fini par écrire un test. Aujourd’hui, elle note d’abord les mots du message et ce qu’elle a compris en les lisant. Les deux lignes se ressemblent moins qu’elle ne s’y attendait.
 
 Elle rejette l'idée d'être fragile. Elle se répète qu'exceller est normal, qu'elle doit optimiser encore. Pourtant, quand elle pense à la réunion de demain, ses scénarios mentaux se multiplient : le code buggé, la remarque de Marc interprétée comme un jugement, la proposition de candidature qu'elle hésite encore à finaliser. Depuis l'épisode sur l'effet Dunning-Kruger il y a quelques jours, Sophie a appris à chercher des retours concrets sur ses compétences. Aujourd'hui, elle se demande quelle place l’inquiétude prend dans ces vérifications. Elle repense à cette fonction de code qu'elle avait réécrite dix fois seule dans son appartement parisien : ce n'était pas de la rigueur technique, c'était déjà cette peur de l'effondrement de sa crédibilité qui guidait ses doigts sur le clavier.
 
@@ -63,8 +63,7 @@ Description et exercice concret :
 - Exercice : quand une pensée anxieuse surgit (par exemple : « Et si la présentation plante ? »), Sophie l'écrit rapidement dans son carnet sous une rubrique dédiée « boîte à soucis ». Elle note si elle dispose d’un fait concret et si une action est possible (par exemple lancer un test rapide, créer un plan de secours).
 - Application pratique : à la fin de la journée, elle ouvre la « boîte à soucis » pendant 10 minutes et traite les items par priorité. Tout ce qui reste non résolu est noté pour la séance du lendemain. L’idée est de distinguer les problèmes sur lesquels agir des scénarios hypothétiques. [Le NHS propose un exercice comparable](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/tackling-your-worries/) ; les dix minutes sont un exemple et un problème urgent se traite sans attendre.
 
-Pourquoi cela aide :
-Cela capitalise sur l'habitude qu'elle a développée de documenter son état émotionnel après l'article du 15 mars. La technique structure la documentation : elle passe de la simple prise de note à une mini-procédure décisionnelle.
+Sophie a déjà noté une inquiétude à côté d’un ticket. Pour ce message, elle peut ajouter une seule chose : ce que Marc demande effectivement. Une note suffit à distinguer la tâche du reproche qu’elle imagine.
 
 ### 2. Technique des tests d'hypothèses rapides
 
@@ -86,15 +85,15 @@ Description et exercice concret :
 Pourquoi cela aide :
 En structurant son attention, Sophie protège ses ressources cognitives. Cela lui permet aussi d'utiliser sa rigueur perfectionniste de façon ciblée plutôt que diffuse.
 
-## Sophie commence à apaiser son anxiété au travail
+## Répondre à la demande sur l’API
 
-Sophie applique la « boîte à soucis » pendant une pause avec ses collègues. Quand Marc lui envoie un message pour demander un ajustement mineur sur une API, elle marque immédiatement l'inquiétude : « peur d'être jugée », aucun reproche dans le message, première action : répondre en décrivant l'ajustement prévu et proposer un test partagé. En 15 minutes, elle a réduit la répétition mentale et a envoyé une réponse claire. Le résultat n'est pas spectaculaire, Marc répond simplement « parfait, merci », mais Sophie remarque qu'aucun reproche n'apparaît dans la réponse.
+Pendant la pause, Sophie relit le message une fois. Marc a demandé si l’API renvoyait le bon code quand le champ est vide. Elle répond qu’elle va essayer les deux entrées et lui propose de regarder ensemble le test. En revenant à son bureau, elle est toujours tentée de relire sa réponse.
 
-Lors de la réunion technique, elle utilise la fenêtre d'attention planifiée : une séance de 50 minutes pour préparer sa démonstration, puis 10 minutes pour noter les questions potentielles dans son carnet. Plutôt que de se perdre dans des scénarios extrêmes, elle liste trois points de contrôle simples et les valide un par un. Elle ressent moins d'agitation mentale car son esprit analytique trouve un cadre d'expression plus efficace.
+En réunion, la démonstration se bloque une seconde sur le chargement des données. Sophie attend avant de reprendre la parole. Elle retrouve l’exemple qu’elle a préparé et poursuit. Après la réunion, une question de Marc la fait encore hésiter. Cette fois, elle lui demande de préciser ce qu’il veut vérifier.
 
-Cette manière de faire s'appuie sur les apprentissages précédents. Le carnet qu'elle tient depuis le 15 mars n'est plus seulement un exutoire, il devient un outil organisationnel. L’épisode du 18 mars l’incite aussi à distinguer les retours observés de ce qu’elle imagine : elle estime désormais que ses compétences techniques sont réelles, mais que sa lecture des réactions sociales peut être biaisée par l'anxiété. Cette nuance l'aide à décider plus vite, parce qu'elle sait quand son doute provient d'une évaluation erronée et quand il relève d'un vrai manque d'information. Elle se sent enfin capable de rouvrir ce dossier de candidature pour le poste de directrice technique, car elle comprend que son hésitation n'est pas une preuve d'incompétence, et que l’inquiétude n’est qu’une explication possible de son hésitation.
+Sophie retrouve dans son carnet la note de la veille sur la candidature, avec les questions auxquelles elle ne pouvait pas répondre seule. Pour l’API, la question est plus étroite. Elle a besoin de savoir ce que l’équipe veut vérifier ; le reste peut attendre la fin du test.
 
-Au déjeuner, Claire lui souhaite bonne chance pour la présentation. Elles parlent brièvement du test d'hypothèse que Sophie a réalisé. Claire loue sa méthode et rappelle un compliment que Sophie recevait souvent enfant : « tu vérifies tout, tu veux que ce soit impeccable ». Sophie sourit intérieurement ; elle accepte maintenant que l'impeccable a un coût et que choisir une stratégie consciente n'est pas un signe de faiblesse.
+Au déjeuner, Claire lui souhaite bonne chance pour la présentation. Elles parlent brièvement du test d'hypothèse que Sophie a réalisé. Claire lui dit qu’elle a déjà vérifié le cas du champ vide, et qu’elle le montrera si on le lui demande. Sophie sourit intérieurement ; elle accepte maintenant que l'impeccable a un coût et que choisir une stratégie consciente n'est pas un signe de faiblesse.
 
 Les progrès sont concrets et graduels. Sophie n'élimine pas complètement ses inquiétudes, mais elle apprend à reconnaître quand elles prennent les commandes et à leur proposer une alternative structurée. Ses journées restent intenses, mais moins saturées d'anticipations inutiles. Elle dort peut-être toujours avec des pensées qui tournent, mais elles sont moins nombreuses et souvent consignées dans sa boîte à soucis, ce qui la rassure.
 

@@ -13,7 +13,7 @@ episode: 11
 draft: false
 ---
 
-La rubrique « compétences » reste vide. Éloi connaît ce mot, mais les compétences transférables lui semblent appartenir aux personnes qui possèdent déjà plusieurs emplois à raconter. Dans la salle commune du foyer, Nora anime un temps facultatif pour préparer les démarches de parcours. Éloi note sa formation et son contrat, puis s'arrête. Il pense à la fiche de quantités ratée, au plateau incomplet et aux validations dont il a encore besoin. Il ne voit pas ce qu'il pourrait écrire sans exagérer.
+La rubrique « compétences » reste vide. Éloi commence à écrire ce qu’il prépare en cuisine, puis s’arrête. Nora lui avait demandé de venir aussi avec un exemple qui n’ait rien à voir avec ses recettes.
 
 Nora lui demande de raconter une situation où il ne dispose pas de toutes les informations. Il décrit la livraison avec une référence différente : il vérifie ce qu'il peut, identifie la décision qui le dépasse et cherche la responsable présente. « Je demande parce que je ne sais pas », ajoute-t-il pour réduire la portée de l'exemple. Nora lui propose d'examiner les actions avant de décider si elles méritent ou non une place. Il découvre une séquence plus précise qu'un compliment général sur sa débrouillardise.
 
@@ -51,7 +51,7 @@ Au foyer, l'accueil des nouveaux résidents ne ressemble pas au service d'un res
 
 Les différences comptent autant. Les participants sont volontaires, les rôles ne sont pas hiérarchisés de la même manière et l'événement possède ses règles propres. Éloi doit écouter ce cadre plutôt que décider qu'il connaît déjà l'organisation. Le transfert devient un travail d'adaptation. Il peut reconnaître un point commun et rester débutant sur une autre partie, sans que cela soit contradictoire.
 
-## 3 techniques pour reconnaître et tester des compétences transférables
+## Chercher où l’on s’est déjà servi d’un geste
 
 ### 1. Décrire une situation, une action et un effet
 
@@ -75,13 +75,13 @@ Après l'échange, Éloi demande à Nora si sa reformulation aide le groupe et c
 
 Éloi reprend ensuite sa fiche de parcours avec un exemple et une limite. Il peut écrire une compétence modeste qui correspond à ce qu'il observe. Si l'essai ne fonctionne pas, il cherche ce qui diffère et quel appui pourrait aider. Il n'a pas à sauver l'étiquette choisie à tout prix. La description des compétences peut évoluer avec les expériences, au lieu de devenir une identité qu'il faudrait défendre devant chaque difficulté.
 
-## Éloi commence à remplir une rubrique avec des faits
+## Une ligne qu’il peut expliquer
 
 Pendant l'échange au foyer, une personne propose de préparer l'accueil et une autre pense seulement à l'affichage. Éloi demande ce que chacun entend par là. Ils séparent deux tâches et identifient un point à vérifier avec Nora. Son intervention ne règle pas tout, mais elle évite un malentendu. Il reconnaît une façon de faire déjà travaillée en cuisine, adaptée ici à un groupe qui doit décider ensemble.
 
 Il intervient ensuite trop vite sur un détail qui appartient au choix des autres. Nora le lui indique. Éloi ressent une gêne, puis distingue le retour de l'ensemble : sa clarification aide, sa place dans la décision doit être ajustée. Le transfert n'est donc pas un succès uniforme. Il apprend quelque chose sur la différence entre signaler une question et prendre la responsabilité de sa réponse. Cette information rend sa compétence plus précise.
 
-La rubrique de sa fiche contient désormais quelques lignes reliées à des situations. Éloi garde ses compétences techniques en apprentissage et les capacités de vérification ou de communication qu'il peut illustrer. Il ne prétend pas être prêt pour tous les environnements de cuisine qu'il explore. Il peut cependant parler de ce qu'il apporte déjà et des conditions qui l'aident à apprendre. Cette manière de se présenter lui paraît moins fragile qu'une promesse générale de motivation.
+Sur sa fiche, Éloi garde l’exemple où il a clarifié le partage d’une tâche. Il n’écrit pas qu’il sait organiser les autres. Nora lui a rappelé qu’il était allé trop vite sur une décision qui leur revenait. Il a une idée de ce qu’il fera différemment si on lui pose la question à un entretien.
 
 ---
 

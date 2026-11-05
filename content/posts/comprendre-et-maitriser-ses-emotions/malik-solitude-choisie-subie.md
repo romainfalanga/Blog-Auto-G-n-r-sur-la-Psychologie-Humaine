@@ -17,7 +17,7 @@ Une feuille reste coincée dans la grille d’un chantier et Malik attend que le
 
 Le lendemain, la même liberté prend une autre couleur. Awa travaille, Bastien n’est pas disponible et le groupe photo ne se réunit pas. Malik regarde ses images avec l’envie de les montrer à quelqu’un. Il peut occuper sa journée, mais l’activité ne répond pas au besoin de partager. Il ne sait pas s’il veut vraiment sortir ou s’il cherche surtout une conversation ordinaire.
 
-Il commence à se dire qu’un homme installé ici depuis quatre ans devrait avoir réglé cette question. La phrase l’agace. Il possède des collègues, des proches et des lieux familiers ; aucun réseau ne garantit une présence à chaque moment désiré. Être seul ce dimanche ne prouve ni qu’il n’appartient à rien ni que son départ choisi du Sénégal serait une erreur.
+Il se dit que, depuis le temps qu’il vit ici, il devrait savoir qui appeler un dimanche. Il peut pourtant nommer plusieurs personnes auxquelles il aurait plaisir à montrer ses photos. Aucune ne lui a promis d’être libre ce jour-là. Il ouvre le fil de Fatou, se demande s’il va lui demander de sortir maintenant, puis lui envoie une image et une proposition pour la semaine.
 
 Il retrouve la photo de la feuille et prépare un message pour Fatou. Au lieu d’envoyer seulement l’image en espérant qu’une conversation commence, il lui demande si elle souhaite regarder quelques tirages ensemble dans la semaine. Il peut apprécier sa promenade solitaire et chercher un rendez-vous partagé. Les deux besoins n’ont pas à se disqualifier l’un l’autre.
 
@@ -57,7 +57,7 @@ Il peut observer l’effet plutôt que se forcer à sortir. Après une soirée s
 
 Les obstacles matériels comptent également. Un horaire tardif, un trajet ou un coût peuvent empêcher une sortie appréciée. Il serait injuste de traiter ces contraintes comme un évitement intérieur. Chercher un contact accessible demande de considérer le lieu et le temps disponibles, pas seulement la volonté de rejoindre les autres.
 
-## 3 techniques pour choisir un temps seul ou chercher un lien
+## Que cherche-t-on à partager aujourd’hui ?
 
 ### 1. Identifier le besoin de ce moment précis
 

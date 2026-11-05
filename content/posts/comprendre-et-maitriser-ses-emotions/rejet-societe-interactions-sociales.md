@@ -13,7 +13,7 @@ contexte: "en société et dans les interactions sociales"
 draft: false
 ---
 
-Léa déglutit lentement, ses mains légèrement moites serrant la petite tasse de café devant elle. Autour d'elle, la terrasse du café bruissait de conversations animées, de rires et de regards échangés sans effort apparent. Pourtant, pour Léa, chaque minute passée ici était un défi. Invitée à une fête la veille, elle avait réussi à échanger quelques mots, mais un sentiment lourd de rejet s'était immiscé, lui rappelant qu’elle n’était pas vraiment à sa place. Ce matin, alors qu’elle attendait son amie Zoé sur la terrasse de leur café habituel près de la fac, elle se demandait s’elle oserait vraiment engager la conversation avec quelqu’un d’autre. Cette peur familière, ce poids d’être invisible ou, pire, non désirée, la tenaillait.  
+Léa attend Zoé à la terrasse près de la fac. Elle a laissé la chaise d’en face libre et se demande maintenant s’il faut lui envoyer un message. À la fête, la veille, elle avait commencé à raconter quelque chose. La musique avait couvert la fin de sa phrase. Elle s’était servie de ce moment pour décider que personne n’avait envie de l’entendre.
 
 Ce malaise, elle le connaissait bien. Depuis le divorce de ses parents quand elle avait 6 ans, elle avait appris à rester en retrait, à éviter les regards trop insistants, de peur d’être critiquée ou mise à l’écart. Ce sentiment d’abandon, elle le portait encore à 23 ans, étudiante en master de psychologie clinique, passionnée par les mécanismes qu’elle étudiait dans les livres mais qu’elle n’arrivait pas à désamorcer en elle-même. En grandissant, ces sensations avaient pris la forme d’une peur sourde du rejet, particulièrement vive dans ses interactions sociales. Ce n’était pas une simple timidité passagère, mais un véritable mécanisme émotionnel qui influençait sa manière d’aborder le monde.  
 
@@ -56,13 +56,13 @@ Voici trois exercices que Léa a commencé à pratiquer, et que vous pouvez appl
 3. Un carnet d’observations
    Tenez un journal où vous notez vos émotions liées au rejet. Exprimez vos peurs, vos doutes et aussi vos réussites, même les petites. Cet exercice aide à mieux comprendre vos réactions et à mettre des mots sur ce que vous ressentez, ce qui est un premier pas vers l’acceptation.  
 
-### Le cheminement de Léa vers une nouvelle relation au rejet  
+### Quand Zoé arrive
 
-Au fil des semaines, Léa a intégré ces techniques dans sa routine. Elle a commencé à voir le rejet moins comme une fatalité et plus comme une expérience humaine normale. Lors d’un déjeuner à la cafétéria de la fac avec des camarades, elle a réussi à poser une question simple, sans anxiété excessive, et a même ri à une blague partagée. Ce petit succès l’a encouragée à persévérer.  
+Quand Zoé arrive, Léa lui raconte qu’elle a quitté la fête tôt. Elle hésite à dire que personne ne lui parlait. Elle décrit plutôt la conversation qu’elle a perdue quand la musique est montée. Zoé se souvient du bruit, pas de cette conversation. Léa lui demande si elle peut lui raconter ce qu’elle essayait de dire.
 
-Elle a aussi compris que les blessures du passée pouvaient être apaisées par la bienveillance envers elle-même. En se libérant du jugement interne trop sévère, elle a ouvert la porte à des interactions plus authentiques, moins marquées par la peur.  
+Elle commence par la phrase qu’elle avait laissée tomber. Zoé doit se pencher pour l’entendre au milieu des commandes de café. Léa la répète, cette fois jusqu’au bout.
 
-### Un message d’espoir pour vous qui lisez  
+### Faire la différence entre une impression et une mise à l’écart
 
 Le sentiment de rejet en société et dans les interactions sociales peut être une source de souffrance réelle, surtout pour les personnes timides. Cependant, il est possible d’apprivoiser cette peur, de mieux la comprendre et de changer son regard sur soi et les autres. Chaque pas, même petit, vers plus de confiance est une victoire.  
 

@@ -13,7 +13,7 @@ contexte: "face à la maladie"
 draft: false
 ---
 
-L'horloge murale du service de cardiologie affiche trois heures du matin. Camille ajuste sa blouse blanche, sentant le tissu légèrement rêche contre son cou. Le silence du couloir est seulement interrompu par le bip régulier des moniteurs et le chuintement lointain d'un respirateur. Elle devrait être en pause depuis vingt minutes, installée dans la salle de repos avec un verre d'eau, mais elle reste postée devant la chambre de Monsieur Laroche. Ce patient est stable, pourtant elle ne peut se résoudre à s'éloigner. Elle vérifie une quatrième fois le débit de sa perfusion, ses doigts agiles lissant un pli invisible sur le drap. Elle se sent investie d'une mission sacrée où son propre confort n'a aucune place.
+Au poste de soins, la bouteille de Camille est encore pleine. C’est sa pause, et sa collègue sait où la trouver. Camille repasse pourtant devant la chambre de Monsieur Laroche. Il est stable ; elle jette un quatrième regard au débit de la perfusion avant de se demander ce qu’elle cherche à vérifier cette fois.
 
 Une pensée fugace traverse son esprit, la ramenant à sa maison où David dort probablement d'un sommeil léger, prêt à se lever pour préparer Léo et Emma. Elle ressent une pointe de culpabilité familière. Elle n'a pas envoyé de message pour dire bonne nuit, trop absorbée par les constantes de ses patients. Il y a quelques semaines, elle avait pourtant commencé à identifier sa fatigue de compassion et ce besoin de s'inquiéter pour la moindre toux de son fils. Elle se souvient avoir promis à David de lâcher prise, mais ici, sous les néons blafards, l'ancien automatisme reprend le dessus. Elle croit que si elle s'assoit, si elle s'écoute, quelque chose de grave arrivera par sa faute.
 
@@ -57,13 +57,15 @@ Quand une pause lui fait honte, Camille se rappelle qu’elle peut la prendre d�
 
 Camille vérifie comment les pauses s’organisent au service. Si elle ne peut pas les prendre régulièrement, elle peut en parler avec l’équipe ou la santé au travail. Chez elle, elle convient avec David d’un moment pour se reposer, sans en faire une obligation à réussir.
 
-## Évolution du personnage : Camille commence à poser ses limites
+## Passer la main à Nathalie
 
-Le soleil commence à poindre derrière les toits de la ville quand la relève arrive enfin. Nathalie, sa collègue et amie, entre dans le poste de soins avec une énergie qui contraste avec l'épuisement de Camille. Habituellement, Camille resterait vingt minutes de plus pour raconter chaque détail infime de la nuit, dépassant largement son temps de service pour s'assurer que tout est parfait. Mais ce matin, elle se remémore sa réflexion sur le biais de négativité qu'elle a exploré récemment. Elle comprend que son besoin de rester n'est pas une nécessité médicale, mais une tentative de calmer son anxiété.
+Le soleil commence à poindre derrière les toits de la ville quand la relève arrive enfin. Nathalie, sa collègue et amie, entre dans le poste de soins avec une énergie qui contraste avec l'épuisement de Camille. Habituellement, Camille resterait vingt minutes de plus pour raconter chaque détail infime de la nuit, dépassant largement son temps de service pour s'assurer que tout est parfait. Mais ce matin, elle se remémore sa réflexion sur le biais de négativité qu'elle a exploré récemment. Elle regarde ce qu’il lui reste à transmettre. La dernière vérification y figure déjà. Nathalie lui pose une question sur un autre patient, et Camille lui montre où trouver la réponse.
 
 Elle regarde ses notes, inspire un grand coup et fait une transmission concise mais efficace. Quand Nathalie lui propose de finir de ranger les chariots pour elle, Camille sent la vieille résistance monter, cette envie de dire que tout va bien et qu'elle s'en occupe. Au lieu de cela, elle serre les dents un instant, puis répond avec un léger tremblement dans la voix qu'elle accepte l'aide de Nathalie. Elle décide de rentrer un peu plus tôt pour prendre une douche avant que les enfants ne se réveillent. C'est une petite victoire, presque invisible pour les autres, mais immense pour elle.
 
 En marchant vers sa voiture sur le parking désert, Camille ne ressent pas la libération immédiate qu'elle espérait, mais plutôt une étrange sensation de légèreté mêlée d'un reste de culpabilité. Pourtant, elle ne fait pas demi-tour. Elle pense à David, à Léo et à Emma, et réalise que pour être vraiment présente pour eux, elle doit cesser de n'être qu'une ombre dévouée. Elle se promet qu'en arrivant, elle ne se jettera pas sur le linge sale. Elle va s'autoriser à s'asseoir sur la terrasse, à sentir l'air frais sur son visage, et à simplement être Camille, avant d'être infirmière, épouse ou mère.
+
+Quand Nathalie lui montre qu’elle a ses notes, Camille a encore envie de retourner jeter un œil dans la chambre. Elle prend sa bouteille et sort avec la relève suivante. Avant de démarrer, elle boit enfin un peu.
 
 ---
 

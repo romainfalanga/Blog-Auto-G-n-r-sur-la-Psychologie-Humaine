@@ -13,7 +13,7 @@ contexte: "seul(e) face à soi-même"
 draft: false
 ---
 
-Adrien fixe la toile blanche qui occupe la moitié de son atelier. La lampe diffuse une chaleur discrète, le papier texturé crisse sous ses doigts lorsqu'il en parcourt la surface. Ce matin, avant même de tracer la moindre ligne, une pensée s'impose et devient une vérité absolue : « Si je me sens anxieux, c'est que ce visuel sera médiocre et que le client va le rejeter. » Le concept de raisonnement émotionnel seul(e) face à soi-même traverse son esprit comme un automatisme, sans qu'il en mesure immédiatement l'impact.
+La première esquisse a deux traits. Le deuxième est bon, pense Adrien, puis il tourne la feuille. Il vient de relire le courriel de son client et tout lui paraît raté, y compris ce que le client n’a jamais vu. Il ramène la feuille à l’endroit. Sur le papier, les deux traits sont les mêmes.
 
 Il se souvient de la nuit du 7 mars, lorsqu'il restait seul dans son appartement et que le silence de son téléphone pesait comme une sentence. À cette période, il commençait à identifier ce schéma d'abandon qui le tourmentait depuis sa rupture avec Marina. Cette rupture avait agi comme un catalyseur, transformant chaque moment de solitude en une preuve de son indignité à être aimé. Aujourd'hui, cette vigilance porte ses fruits : il sait détecter le déclencheur. Il pense à Julien, qui l'avait encouragé à sortir lorsqu'il sentait la spirale l'aspirer. Pourtant, la confusion entre « ce que je ressens » et « ce qui est vrai » ressurgit sans prévenir, cette fois-ci transposée de sa vie sentimentale vers sa sphère professionnelle.
 
@@ -57,7 +57,7 @@ Quand Adrien se dit : « Si je me sens nul, c'est que mon travail ne vaut rien �
 
 Le questionnement socratique ébranle les certitudes émotionnelles. Il donne à Adrien l’occasion d’examiner d’autres explications avant de conclure.
 
-## Adrien commence à distinguer ressenti et réalité
+## Deux traits sur le papier
 
 Après avoir pratiqué ces techniques, Adrien observe un changement dans son quotidien. En utilisant la colonne des faits alors qu'il hésitait à dessiner, il s'est aperçu que sa liste concrète était bien plus rassurante que sa narration intérieure : le client n'avait jamais exprimé de mécontentement et les derniers retours étaient positifs. Ce constat a immédiatement atténué la violence de son autocritique.
 
@@ -66,6 +66,8 @@ La mise à l'épreuve par l'action lui a permis de faire émerger une piste grap
 Le questionnement socratique l'aide à relativiser les scénarios catastrophes. Au lieu d'imaginer un rejet total, il envisage des étapes réalistes : ajuster une couleur, proposer une variante ou demander un point de coordination. Ces options font baisser la tension et limitent la procrastination.
 
 Ces stratégies complètent ses réflexions du 7 mars. S'il identifiait alors son schéma d'abandon, il dispose aujourd'hui d'outils pour ne plus subir ses décharges émotionnelles. Il transforme ses sensations en informations exploitables. Le parcours reste exigeant et sa sensibilité demeure, mais il apprend à repérer les moments où son esprit confond une émotion avec la vérité, choisissant ainsi de réagir avec plus de discernement.
+
+Avant de ranger la feuille, Adrien prend une photo des deux traits pour pouvoir les retrouver le lendemain. Il écrit au client pour vérifier une dimension. La réponse pourra changer le dessin ; pour l’instant, c’est la seule chose dont il ait besoin.
 
 ---
 

@@ -13,7 +13,7 @@ episode: 6
 draft: false
 ---
 
-La fiche la plus familière glisse sous la main d'Éloi. Apprendre sans prouver sa valeur paraît une belle idée jusqu'au moment où il doit choisir un exercice devant les autres. Au centre de formation, la séance permet de retravailler un point technique avec un retour individualisé. Il pourrait reprendre la méthode écrite qui lui pose problème. Il préfère une préparation qu'il sait présenter correctement. Il imagine déjà la satisfaction de paraître à l'aise pendant quelques minutes.
+La fiche la plus familière glisse sous la main d’Éloi. Il sait à peu près quelles réponses il pourrait donner devant la formatrice. Sous la pile, une autre fiche lui demanderait d’expliquer où il a perdu le fil lors du dernier calcul.
 
 La formatrice lui demande ce qu'il souhaite travailler. Éloi répond qu'il veut améliorer sa régularité, ce qui reste vrai mais ne raconte pas tout. Il évite surtout un exercice où il pourrait hésiter. Depuis la fiche de quantités ratée, il apprend à distinguer les causes d'une erreur. Pourtant, choisir volontairement de montrer une difficulté lui demande autre chose. Il lui semble quitter une place sûre pour redevenir celui qu'il faut aider.
 
@@ -51,7 +51,7 @@ Si la fiche finale est juste, Éloi conclut parfois que tout est acquis. Si elle
 
 Cela prolonge les notes qu'il commence déjà à tenir. Il ne construit pas un tableau de mérite. Il garde ce qu'il fait lui-même, le repère reçu et la limite de l'essai. Une bonne note n'enlève pas le besoin de vérifier un transfert à un autre contexte. Une erreur ne rend pas tous les gestes précédents inutiles. Le travail devient plus nuancé que le verdict unique auquel il voudrait parfois se raccrocher.
 
-## 3 techniques pour donner un but d'apprentissage à l'essai
+## Rendre l’essai distinct d’une démonstration
 
 ### 1. Formuler ce que l'on veut savoir faire ensuite
 
@@ -75,13 +75,13 @@ Si le retour porte seulement sur sa personne, Éloi peut redemander un fait ou u
 
 Il n'est pas obligé de trouver un progrès dans chaque moment difficile. Une séance peut surtout montrer qu'un support ou une explication ne convient pas. Cette information peut aussi orienter une demande. Le bilan ne sert pas à rendre tout événement positif. Il sert à choisir une suite plus précise, avec le droit de se reposer, de demander un autre moyen ou de revoir un objectif trop ambitieux.
 
-## Éloi commence à choisir un exercice qu'il ne maîtrise pas encore
+## La fiche qu’il aurait laissée de côté
 
 La formatrice confirme que le temps est destiné à retravailler un point, avec les supports prévus. Éloi choisit la fiche de méthode. Il ressent une gêne en laissant de côté celle qui aurait mieux montré son aisance. Au milieu de l'exercice, une question bloque la suite. Il la pose en indiquant ce qu'il comprend déjà. L'explication ne supprime pas tout l'effort, mais elle rend le lien manquant accessible.
 
 La fiche finale demande encore une correction. Éloi garde cependant la trace du point qu'il sait maintenant justifier. Il ne cherche pas à convertir cette information en preuve qu'il est devenu un apprenti différent. Il sait simplement qu'une question visible peut produire un apprentissage. La prochaine séance pourra vérifier ce qui reste disponible sans l'aide immédiate de la formatrice. La progression demeure à observer, pas à proclamer.
 
-Au restaurant, il retrouve une tâche familière et apprécie de pouvoir l'accomplir avec davantage d'aisance. Il n'a pas à choisir pour toujours entre stabilité et défi. Les deux ont leur place. Il peut montrer un acquis lorsqu'il faut assurer un résultat, puis utiliser un temps prévu pour travailler ce qui manque. Cette distinction lui permet d'aimer une réussite sans lui demander de prouver toute sa valeur personnelle.
+Au restaurant, Éloi retrouve une tâche qu’il fait presque sans y penser. Ça lui fait du bien de savoir où mettre les mains. Il ressort ensuite la fiche du centre pour entourer ce qu’il doit encore revoir. Les deux n’arrivent pas au même moment de sa journée, et il est content qu’on ne lui demande pas tout à la fois.
 
 ---
 

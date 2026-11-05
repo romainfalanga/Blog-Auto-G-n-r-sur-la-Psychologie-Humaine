@@ -49,7 +49,7 @@ Cette méthode consiste à isoler l'événement déclencheur et à l'examiner co
 
 Exercice concret :
 1. Identifiez l'énoncé généralisant (par exemple : "Je suis nul en pédagogie").
-2. Reformulez en une phrase factuelle et datée : "Le 10 mai 2026, lors du TD sur l'évaluation, plusieurs élèves n'ont pas compris cet exercice."
+2. Reformulez en une phrase factuelle et datée : "Lors du dernier cours, plusieurs élèves n’ont pas terminé le deuxième exercice."
 3. Notez des situations comparables qui aident à nuancer la conclusion, sans compter les points ni noter d’informations permettant d’identifier un élève.
 4. Concluez par une phrase nuancée : "Un incident s'est produit aujourd'hui, cela ne prouve pas que je sois incapable d'enseigner."
 
@@ -77,9 +77,9 @@ Exercice concret :
 
 La démarche peut apporter un retour sur cette proposition précise. Une réponse, même négative, ne tranche pas la question de l’aptitude à travailler dans l’édition. Pour Thomas, ce protocole l'aide à avancer dans sa reconversion sans que la peur du rejet devienne un frein absolu.
 
-## Thomas commence à poser des choix mesurés
+## Reprendre la consigne, pas toute la classe
 
-Dans le couloir du lycée, Thomas relit la copie qu'il a annotée. Il se rappelle la réunion du 15 mars où il avait endossé le rôle de sauveur, et la récente prise en main des déclencheurs qu'il a identifiés le 8 mai. Cette mémoire d'expérience lui offre maintenant un outil : il accepte que l'exercice raté soit un événement ponctuel et note sur son carnet une situation positive de la même semaine, un atelier d'écriture qui a suscité de l'enthousiasme. Il aligne ces faits dans son dossier des exceptions avant d'aller corriger d'autres copies.
+Dans le couloir, Thomas revient à la copie. L’élève a recopié un exemple au lieu de justifier sa réponse. Thomas vérifie sa consigne : il a bien demandé une justification, mais sans dire quelle trace il attendait. Il décide de montrer deux réponses anonymes au prochain cours, avant de conclure sur ce que la classe a compris.
 
 Plus tard dans la journée, Valérie évoque la réunion sur le protocole d'évaluation. Plutôt que d'accepter automatiquement par besoin de validation, Thomas suit l'expérimentation comportementale graduée : il propose d'assister à la première réunion en observateur, puis de soumettre une proposition alternative basée sur une petite expérience en classe. Il sent sa voix rester stable quand il parle, étonné de constater que demander une étape test lui demande moins d'effort que de s'autocensurer pour plaire au groupe. Il ne cherche plus à sauver tout le monde sur-le-champ ; il choisit des actions mesurées qui le protègent de l'épuisement.
 

@@ -75,13 +75,13 @@ Dans la file, Rémi ne peut pas connaître l'heure exacte de sortie. Il peut en 
 
 Après coup, il distingue un oubli prévisible d'un événement exceptionnel. L'attente ordinaire au dépôt mérite d'entrer dans sa prochaine estimation. Une fermeture imprévue ne prouve pas qu'il devrait toujours prévoir le pire. Cette distinction l'aide à apprendre sans devenir excessivement prudent. Un bon plan ne doit ni tout promettre ni empêcher toute activité par peur d'un aléa possible.
 
-## Rémi commence à annoncer ce qu'il peut vraiment tenir
+## Sur le trajet du retour
 
 Le dépôt se termine plus tard que prévu. Rémi choisit de reporter sa démarche personnelle plutôt que de courir. Il est contrarié, mais ne demande pas à Julie de se presser pour préserver son premier calcul. Sur le trajet, ils parlent du créneau qu'ils pourront consacrer aux objets non acceptés. Le placard est utilisable ; la suite peut être prévue sans urgence artificielle. Leur projet ne dépend plus d'un samedi supposé sans attente.
 
 Lors du prochain bilan au travail, Rémi prévoit la collecte des données et un temps de relecture avec Claire. Il oublie encore le délai nécessaire pour obtenir une réponse d'un autre service. Quand il le remarque, il le signale. Claire peut ajuster la réunion ou utiliser une première version limitée. L'estimation n'est pas devenue exacte, mais l'écart est visible assez tôt pour qu'une décision reste possible.
 
-Rémi continue d'aimer terminer vite lorsqu'une tâche se passe bien. Il ne cherche pas à ralentir volontairement pour correspondre à une prévision. Il apprend surtout à ne plus prendre la version la plus fluide pour une promesse générale. Ses fiches de reprise, ses étapes et ses marges répondent à des besoins différents. Ensemble, elles lui permettent d'avoir une journée plus lisible, sans transformer chaque moment en exercice d'optimisation.
+Au quai, Rémi compte le temps de collecte puis celui de la relecture. Il s’aperçoit qu’il a encore oublié l’attente d’une réponse du service des retours. Il prévient Claire dès qu’il s’en rend compte, au lieu de rogner la pause. Sur sa note, il laisse un créneau ouvert pour la réponse. Le jour du dépôt, il avait rempli toutes les cases avant même de voir la file.
 
 ---
 

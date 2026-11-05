@@ -13,7 +13,7 @@ contexte: "en amitié"
 draft: false
 ---
 
-Léa ajuste ses lunettes tout en gardant les yeux fixés sur le fond de la cafétéria de la faculté de psychologie. À une table ronde, près de la grande baie vitrée, Zoé rit aux éclats avec deux étudiants d'une autre promotion. Le bruit des plateaux en plastique et le brouhaha ambiant n'étouffent pas le murmure de Zoé lorsqu'elle se penche vers son voisin. Léa sent une décharge électrique parcourir ses bras. Elle est certaine, avec une conviction qui lui glace le sang, qu'elles parlent de son dernier échec au partiel blanc ou, pire, de son attitude distante ces derniers jours. Les souvenirs de la bibliothèque, où elle avait surpris Zoé en train de s'amuser alors qu'elle prétendait travailler, remontent à la surface comme des bulles amères.
+À la cafétéria, Léa apporte son plateau vers la grande table. Zoé lève les yeux puis revient au cahier posé entre les deux étudiants d’en face. Léa change de direction avant d’être arrivée. Elle s’assoit près du distributeur et pose son plateau de travers.
 
 Elle n'entend rien, mais elle interprète tout. Le petit coup d'œil rapide que Zoé jette dans sa direction avant de se replonger dans sa conversation agit comme une preuve irréfutable. Dans l'esprit de Léa, le verdict est déjà tombé : Zoé la trouve ennuyeuse, elle regrette leur amitié et elle est en train de la remplacer par quelqu'un de plus solaire. Cette certitude s'installe dans sa poitrine, rendant chaque bouchée de sa salade difficile à avaler. Elle se sent redevenir cette petite fille de six ans, tapie dans l'ombre du couloir, essayant de décoder les silences pesants de ses parents pour savoir si l'orage allait éclater. Ce besoin de tout anticiper pour se protéger du rejet est une vieille armure qu'elle porte depuis le divorce de ses parents, une époque où chaque non-dit semblait annoncer une nouvelle rupture.
 
@@ -53,13 +53,13 @@ La lecture de pensée se nourrit du non-dit et de l'imaginaire. Si vous souhaite
 
 Cherchez une ou deux explications plausibles, sans vous obliger à en trouver. Léa ne sait pas pourquoi Zoé chuchote ; elle n'a pas à s'imposer une version rassurante. Un propos clairement entendu ou une exclusion explicite mérite d'être pris en compte.
 
-## Évolution du personnage et résolution
+## La place près du distributeur
 
 Assise à sa table de cafétéria, Léa sent la tension monter, mais elle se souvient soudainement de son cours sur les distorsions cognitives et de son propre cheminement. Elle repense à ce dessin qu'elle a trouvé dans le garage de sa mère, Anne, où elle s'était dessinée invisible. Elle comprend que son cerveau est en train de réactiver ce vieux mode de protection. Elle sort son carnet, celui où elle note ses réflexions pour son blog, et commence à appliquer la technique des scénarios alternatifs. Elle griffonne rapidement : peut-être que Zoé raconte juste une anecdote sur son week-end, peut-être qu'ils parlent du stage en clinique.
 
 L'effet est presque immédiat. La sensation d'étouffement diminue. Elle réalise que ses expériences passées, notamment sa jalousie envers le nouvel étudiant brillant le mois dernier, l'ont rendue hyper-vigilante. Elle reconnaît ce réflexe de froideur qu'elle avait utilisé dans l'amphithéâtre pour masquer sa peur d'être remplacée. Mais cette vigilance est un poison. Au lieu de fuir la cafétéria comme elle l'aurait fait autrefois, elle choisit de rester. Elle décide même de faire quelque chose de radical pour elle : elle se lève, range son plateau et passe près de la table de Zoé sur le chemin de la sortie.
 
-Quand elle arrive à leur hauteur, Zoé lève les yeux et son visage s'illumine. "Léa, on te cherchait partout", s'exclame son amie. "On essayait de comprendre les notes du Dr Moreau sur le transfert, tu es la seule à avoir bien compris le concept, tu peux nous éclairer ?" Léa s'arrête, interdite. Les mots qu'elle vient d'entendre sont à l'opposé total de sa lecture de pensée. Personne ne se moquait d'elle. Au contraire, on espérait son aide. Elle ressent une pointe de honte, mais surtout un immense soulagement. Elle ne se laisse pas submerger et accepte de s'asseoir quelques minutes. Elle n'est plus la petite fille qui décode les tempêtes, elle est une future psychologue qui apprend, jour après jour, à faire confiance à la réalité plutôt qu'à ses fantômes.
+Quand Léa finit par se lever, Zoé lui montre un passage des notes du Dr Moreau sur lequel ils ne sont pas d’accord. Léa dit ce qu’elle en a compris, puis demande à Zoé si elle a une minute pour parler après. Elle n’a pas besoin que tout le groupe l’attende pour poser cette question.
 
 ---
 

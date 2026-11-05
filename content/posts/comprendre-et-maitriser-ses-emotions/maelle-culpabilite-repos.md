@@ -15,7 +15,7 @@ draft: false
 
 « Il ne reste que les vitres. » La phrase de sa sœur traverse la pièce avant même que Maëlle retire sa veste. Dans l'appartement où s'organise une journée de travaux en famille, les bâches froissent sous les chaussures et une odeur de peinture flotte près des plinthes. Maëlle apporte un gratin et pense rester une heure. La culpabilité de se reposer commence pourtant dès qu'elle aperçoit les chiffons alignés sur le rebord de la fenêtre.
 
-Elle a vingt-sept ans, travaille comme opératrice agroalimentaire en horaires alternés et récupère aujourd'hui d'une semaine difficile. Avec Julien, son compagnon, elle commence à protéger des périodes de sommeil. Leur rideau provisoire tient toujours devant le volet abîmé. Mais ici, entourée de personnes actives, l'explication qui lui paraît légitime chez elle devient soudain fragile. Elle retire sa veste plus lentement, comme si ce geste l'engage déjà à participer.
+Chez elle, Julien garde la chambre libre après les postes du matin et le rideau provisoire tient toujours. Chez Julie, il reste des vitres et deux personnes ont déjà enlevé leurs vestes pour reprendre le chantier. Maëlle a apporté un plat. Elle s’était donné une heure pour le repas, mais, en voyant le seau près de la porte, elle commence à compter les fenêtres.
 
 Sa sœur, Julie, désigne un tabouret libre. « Tu peux juste nous tenir compagnie. » Maëlle entend tout de même une dette. Elle imagine le commentaire qu'on fait quand elle part : elle est jeune, elle pourrait aider davantage. Personne ne prononce ces mots. Ils suffisent pourtant à orienter sa main vers un chiffon, tandis que ses jambes réclament surtout de rester assise.
 
@@ -57,7 +57,7 @@ La compensation peut être juste quand elle correspond à une répartition négo
 
 Elle observe que sa famille n'applique pas toujours cette comptabilité. Julie s'assied quand elle a mal aux pieds. Son frère reporte un trajet lorsque sa voiture est au garage. Maëlle accepte ces limites sans les soumettre à un calcul moral. Cette différence lui montre surtout combien sa propre règle est rigoureuse.
 
-## 3 techniques pour faire une place au repos
+## Aider sans promettre de rester jusqu’au bout
 
 ### 1. Séparer engagement, envie et besoin
 

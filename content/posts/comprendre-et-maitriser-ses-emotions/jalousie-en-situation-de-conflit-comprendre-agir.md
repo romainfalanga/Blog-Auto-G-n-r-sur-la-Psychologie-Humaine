@@ -13,9 +13,9 @@ contexte: "en situation de conflit"
 draft: false
 ---
 
-Léa ajuste la sangle de son sac à dos, sentant le poids familier de son manuel de psychopathologie contre ses omoplates. Elle marche d'un pas rapide dans les couloirs carrelés de la faculté, mais son esprit est ailleurs, coincé dans la cuisine de son studio. Ce matin, une simple remarque de Zoé sur un nouvel étudiant brillant du master a déclenché un incendie intérieur. Depuis qu'elle a compris, lors de sa révision à la bibliothèque il y a quelques jours, que son dévouement envers Zoé cachait une peur de l'abandon, Léa essaie de rester vigilante. Pourtant, voir sa meilleure amie s'enthousiasmer pour quelqu'un d'autre réveille une piqûre acide qu'elle ne connaît que trop bien.
+Léa prend une place au fond de l’amphithéâtre alors qu’il en reste une près de Zoé. Elle sait que son amie va finir par se retourner. Elle ne sait pas encore si elle veut lui faire signe ou lui laisser remarquer toute seule qu’elle s’est éloignée.
 
-Elle s'installe au fond de l'amphithéâtre, loin du groupe de Zoé qui rit bruyamment quelques rangs plus bas. Le sol en béton brut et l'odeur de café froid qui flotte dans l'air semblent accentuer son sentiment d'isolement. Cette sensation de n'être qu'une spectatrice de la vie des autres la renvoie directement à cette terrasse de café où, quelques mois plus tôt, elle luttait déjà contre l'impression d'être invisible en société. Quand Zoé tourne la tête et lui adresse un signe de la main, Léa répond par un hochement de tête sec, presque froid. Le conflit couve, silencieux mais palpable. Elle sent ses mains devenir moites sur son cahier. Elle sait que ce n'est pas juste de lui en vouloir, mais l'idée que Zoé puisse trouver une complicité intellectuelle plus forte avec ce nouveau venu la terrifie.
+Quelques rangs plus bas, un étudiant montre à Zoé un passage de son exposé. Ils rient tous les deux. Léa n’entend pas la plaisanterie. Elle a passé du temps à préparer les notes pour leur séance de révision et s’aperçoit qu’elle est déjà en train d’en faire le compte.
 
 Cette réaction viscérale la ramène à ses séances de travail avec le Dr Moreau. Elle se souvient avoir analysé son besoin de sauver les autres pour stabiliser son propre monde. Aujourd'hui, ce n'est pas le désir de sauver qui l'anime, mais une volonté farouche de protéger son territoire affectif. La jalousie en situation de conflit n'est pas nouvelle pour elle, mais c'est la première fois qu'elle l'observe avec la lucidité de celle qui ne veut plus être l'esclave de ses vieux schémas d'abandon nés du divorce de ses parents.
 
@@ -57,7 +57,7 @@ La jalousie projette souvent dans des scénarios catastrophes futurs. Pour contr
 
 En situation de conflit, au lieu de dire que l'autre passe trop de temps avec un tiers, essayez d'utiliser le message-je centré sur votre émotion. Formulez ainsi : quand je vous vois rire ensemble alors que nous sommes en tension, je me sens insécure et j'ai peur de perdre notre lien. Cette technique demande du courage car elle expose votre fragilité, mais elle est la clé pour transformer un conflit destructeur en une occasion de renforcement du lien. Elle peut parler de sa peur sans demander à Zoé de limiter ses amitiés. Elle ne contrôle pas la réponse de Zoé.
 
-## Évolution de Léa et transformation du regard
+## Au pied de l’amphithéâtre
 
 Le cours se termine et le brouhaha des chaises que l'on replie remplit l'amphithéâtre. Léa voit Zoé s'approcher d'elle, un air hésitant sur le visage. Habituellement, Léa aurait détourné le regard ou aurait feint d'être très occupée par ses notes pour manifester son mécontentement, reproduisant ce retrait qu'elle avait déjà expérimenté à la bibliothèque après la déception ressentie à la bibliothèque. Mais aujourd'hui, elle se rappelle son parcours. Elle repense à ce dessin retrouvé dans le garage de sa mère, ce témoignage de la petite fille de six ans qui se sentait disparaître. Elle comprend que la jalousie qu'elle ressent n'est pas dirigée contre Zoé, mais contre ce fantôme du passé qui lui murmure qu'elle est remplaçable.
 
@@ -67,8 +67,6 @@ Elle explique simplement qu'elle a passé une matinée difficile et qu'elle a eu
 
 ---
 
-La jalousie, bien que douloureuse, est souvent un messager qui nous indique ce à quoi nous tenons le plus. En situation de conflit, elle agit comme un miroir de nos insécurités les plus profondes. Apprendre à la décoder, c'est s'offrir la possibilité de transformer une menace perçue en un levier de connaissance de soi. Ce n'est pas un signe de faiblesse, mais une invitation à cultiver une sécurité intérieure qui ne dépend plus uniquement du regard de l'autre.
-
-Le chemin vers une régulation émotionnelle sereine demande de la patience et de la bienveillance envers soi-même. Comme Léa, vous pouvez apprendre à identifier les racines de vos réactions pour ne plus laisser le passé dicter le présent de vos relations. Chaque pas vers l'expression de votre vulnérabilité est une victoire sur la peur et une avancée vers des liens plus authentiques et apaisés.
+Léa a eu peur de perdre une place auprès de Zoé. Elle a pu lui en parler sans lui demander de choisir entre elle et les autres étudiants.
 
 Si vous constatez que la jalousie ou le sentiment d'insécurité deviennent envahissants et impactent durablement votre qualité de vie ou vos relations, solliciter l'aide d'un professionnel de la psychologie est une démarche constructive. Un thérapeute pourra vous accompagner pour explorer ces mécanismes dans un cadre sécurisant et vous aider à construire les fondations d'un attachement plus solide.

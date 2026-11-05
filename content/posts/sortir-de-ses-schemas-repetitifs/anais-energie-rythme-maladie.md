@@ -13,7 +13,7 @@ editorial_pack: "psychology-v10"
 draft: false
 ---
 
-Le dernier ticket reste coincé dans la borne de l'accueil municipal. Anaïs le détache et le pose à côté du clavier, sans parvenir tout de suite à passer au classement prévu. Son énergie avec la maladie ne se lit pas sur la file, qui vient pourtant de disparaître. Le hall est presque vide ; elle ressent encore le coût de la permanence, les demandes successives et les gestes répétés autour du guichet.
+Le dernier ticket reste coincé dans la borne de l'accueil municipal. Anaïs le détache et le pose à côté du clavier, sans parvenir tout de suite à passer au classement prévu. Elle voudrait attendre un peu avant de rassembler les dossiers. La dernière personne est partie et, depuis la file, tout donnerait l’impression que la journée est finie. Le hall est presque vide ; elle ressent encore le coût de la permanence, les demandes successives et les gestes répétés autour du guichet.
 
 À quarante-six ans, elle connaît sa polyarthrite, diagnostiquée et suivie médicalement. Elle ne cherche pas aujourd'hui ce que ses douleurs « veulent dire ». Elle dispose de recommandations de son équipe soignante et d'un suivi qu'elle maintient. Sa question est plus quotidienne : comment organiser les tâches qui restent sans se servir de la dernière personne reçue comme d'un signal pour tout accélérer ?
 
@@ -83,7 +83,7 @@ Avec Benoît, la demande peut être différente : porter les sacs, préparer une
 
 Elle peut aussi demander l'avis d'un ergothérapeute ou d'un autre professionnel de son suivi lorsqu'un geste revient parmi les difficultés. L'Assurance maladie présente ces appuis comme des ressources pour le quotidien. Anaïs n'a pas à inventer seule une méthode de protection articulaire à partir d'une vidéo ou d'un conseil reçu au hasard.
 
-## Anaïs garde une place dans le choix du programme
+## Les dossiers et le dîner
 
 À l'accueil, elle laisse Céline porter les dossiers et termine la vérification à son poste. Elle retire la phrase sur la dette. « Merci, on reparle de la répartition avec la responsable si cela revient », ajoute-t-elle. Cette suite lui paraît plus juste qu'une promesse vague de tout prendre en charge la fois suivante.
 

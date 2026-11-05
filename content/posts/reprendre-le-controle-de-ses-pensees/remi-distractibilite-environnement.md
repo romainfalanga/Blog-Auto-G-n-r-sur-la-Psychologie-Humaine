@@ -75,13 +75,13 @@ Même dans un lieu plus favorable, Rémi peut être interrompu ou penser à une 
 
 Il revient ensuite à un critère simple : que suis-je en train de comparer ? Cette question lui permet de se réorienter sans ajouter un commentaire sur sa volonté. Le retour peut être lent certains jours. S'il recommence plusieurs fois au même endroit, il peut décider d'arrêter ce créneau et de prévoir une suite. Persister jusqu'à l'épuisement ne garantit ni une meilleure décision ni une meilleure connaissance de soi.
 
-## Rémi commence à choisir des conditions suffisantes
+## La page reste ouverte ailleurs
 
 Le linge plié, Rémi laisse les propositions dans leur enveloppe. Il éprouve encore une frustration : le temps d'attente n'est pas devenu le moment productif qu'il imagine. Pourtant, il a relevé les questions à vérifier et ne signe rien sur une impression. Avec Julie, il convient d'un créneau bref à la table commune. Ils regardent ensuite les conditions ensemble, chacun pouvant demander une précision à l'autre.
 
 La lecture n'est pas parfaitement fluide. Un passage reste obscur et nécessite une question au fournisseur. Rémi ne l'attribue plus automatiquement à son attention. Certaines phrases sont simplement difficiles et demandent une réponse extérieure. Il distingue ce qu'il peut comprendre dans de meilleures conditions de ce qui manque encore au document. Cette nuance l'aide à ne pas transformer l'adaptation réussie en nouvelle exigence de tout saisir seul.
 
-Pour le dépôt des dons, ils choisissent aussi un moment de vérification et ferment l'enveloppe correspondante. Rémi garde ce dossier dans son système habituel, sans multiplier les rappels. Le placard reste utilisable et la suite est nommée. La prochaine fois qu'il attend à la laverie, il apporte une activité qui supporte mieux les coupures. Il peut aussi ne rien produire pendant une partie de cette attente, sans devoir la considérer comme un échec d'organisation.
+Pour les dons, Julie pose près des sacs le papier des horaires qu’ils ont déjà vérifiés. Rémi tient une autre enveloppe, celle de l’offre. Il écrit la référence du passage obscur, puis la remet sur la table. Le linge sec reste dans le panier entre eux. Cette fois, il n’essaie pas de finir le dossier avant de le ranger.
 
 ---
 

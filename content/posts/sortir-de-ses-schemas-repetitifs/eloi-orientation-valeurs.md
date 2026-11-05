@@ -13,7 +13,7 @@ episode: 9
 draft: false
 ---
 
-Deux brochures restent ouvertes sur les genoux d'Éloi. Son orientation lui paraît soudain devoir contenir une réponse complète à la question de sa vie future. Dans l'espace d'information du centre de formation, il découvre plusieurs environnements où exercer la cuisine. Les images montrent des gestes qu'il connaît et des organisations qu'il ne connaît pas encore. Il aime certains moments de son contrat actuel, mais ne sait pas lesquels il souhaite retrouver durablement, ni quels compromis il peut accepter.
+Deux brochures restent ouvertes sur les genoux d’Éloi. Il a commencé à comparer les horaires, puis le nom des établissements, puis les photos de cuisine. Quand la conseillère vient le chercher, il referme d’abord celle sur laquelle il a passé le plus de temps.
 
 Une conseillère lui demande ce qui compte dans son prochain choix. Éloi répond d'abord « progresser », puis « réussir », des mots assez larges pour ne déplaire à personne. Il pense aussi à la stabilité de son revenu, au temps de transport et à la possibilité de garder des liens hors du travail. Il hésite à les nommer. Il craint qu'ils donnent l'image d'un apprenti moins passionné que ceux qui décrivent déjà le restaurant où ils rêvent de travailler.
 
@@ -51,7 +51,7 @@ Quentin parle parfois d'un environnement qui le fait rêver. Éloi se demande si
 
 Éloi peut vouloir apprendre beaucoup et tenir à un rythme qui laisse une place au repos. Il peut apprécier la créativité et avoir besoin de repères clairs. Ces préférences ne s'annulent pas. Elles demandent une exploration plus fine des environnements. Le compromis n'est pas forcément un échec du projet. Il peut être une manière consciente de donner une place suffisante à plusieurs choses importantes, avec la possibilité de revoir cet équilibre.
 
-## 3 techniques pour relier l'orientation à ses valeurs
+## Les questions à emporter à la rencontre
 
 ### 1. Traduire une valeur en situation observable
 
@@ -75,13 +75,13 @@ Avec la conseillère, il regarde ce qui peut être exploré dans le cadre de son
 
 Après la rencontre, il prévoit un temps pour comparer ce qu'il observe à ses critères. Il note ce qui attire, ce qui inquiète et ce qu'il ne sait toujours pas. Il peut poursuivre, reporter ou décider que cette piste ne mérite pas davantage d'exploration pour l'instant. L'essai n'est pas perdu s'il conduit à une limite. Il apporte une information sur une option, sans imposer qu'elle devienne son projet définitif.
 
-## Éloi commence à poser des questions qui lui appartiennent
+## Deux brochures et une question
 
 La conseillère relit ses critères et lui demande de choisir la prochaine information utile. Éloi ne répond plus qu'il veut simplement réussir. Il souhaite comprendre comment l'apprentissage est organisé dans un autre environnement de cuisine et ce que les horaires du lieu concerné permettent réellement. La question demeure ouverte. Elle est cependant reliée à sa vie, plutôt qu'à une image qu'il voudrait présenter aux autres.
 
 Au restaurant, il parle à Cédric de son intérêt pour plusieurs contextes sans annoncer un départ. Le chef partage son expérience, avec ses préférences. Éloi l'écoute comme un point de vue situé. Il peut apprendre de cette parole sans lui demander de décider ce qui lui convient. Il garde aussi les aspects de son contrat actuel qui soutiennent sa progression, notamment les temps de retour et les essais qu'ils commencent à mieux définir.
 
-Au foyer, Nora l'aide à regarder le calendrier de la rencontre prévue. Éloi vérifie ses possibilités de déplacement et choisit un moment compatible avec ses obligations. Il ne possède pas une réponse complète sur son avenir. Il dispose de critères plus concrets, d'une information à chercher et d'un rendez-vous pour faire le point. Cette forme de choix lui paraît moins brillante qu'une vocation annoncée d'un seul coup, mais plus habitable dans son quotidien.
+Nora regarde avec lui le dernier bus pour rentrer du rendez-vous. Il lui restera peu de temps sur place. Éloi glisse dans sa poche la brochure qui précise comment les débutants sont accompagnés, puis rature deux questions. Il commence par celle à laquelle personne n’a répondu jusque-là.
 
 ---
 

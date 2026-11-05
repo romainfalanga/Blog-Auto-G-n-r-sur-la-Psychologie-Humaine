@@ -13,11 +13,11 @@ contexte: "en situation de conflit"
 draft: false
 ---
 
-Youssef se tient immobile au milieu du salon encombré de cartons ouverts. Le ruban adhésif crisse sous ses doigts alors qu'il scelle une boîte destinée à leur futur appartement lyonnais. À quelques mètres, Léa dépose une pile de livres avec une brutalité inhabituelle, le regard chargé de reproches qu'il feint de ne pas voir. Le ton monte brusquement lorsqu'elle évoque l'organisation du trajet, pointant du doigt son manque d'implication apparente dans les détails logistiques. Alors que les mots de sa compagne deviennent plus tranchants, Youssef sent une cloison invisible s'ériger entre son esprit et l'agression verbale qu'il subit. Il n'est pas en colère, il n'est pas triste, il est simplement ailleurs, analysant la structure syntaxique des reproches de Léa comme s'il s'agissait d'un code source défaillant.
+Léa pose trois livres sur la table, à côté du devis du déménageur. « Je peux t’aider à ranger aujourd’hui. Pour samedi, tu dois me redire ce que tu attends de moi. » Youssef prépare son départ de Paris vers Lyon. Il a déjà changé deux fois la date sur le formulaire et, quand elle en parle, il lui récite les horaires qu’il a notés. Léa le laisse finir. « Je ne t’ai pas demandé l’heure du camion. »
 
-Léa s'arrête net, les mains tremblantes, et lui demande s'il se rend compte de la violence de son silence. Youssef la regarde avec un calme déconcertant, presque clinique. Il se souvient de l'époque, il y a quelques semaines, où il avait essayé de décrire son ressenti avec plus de précision lors de ce fameux dîner dans une brasserie parisienne. Pourtant, aujourd'hui, face à cette tension qui s'envenime, il se sent comme un spectateur neutre de sa propre vie. Il entend les mots, il comprend la détresse de Léa intellectuellement, mais l'émotion associée à cette scène semble avoir été aspirée par un vide sanitaire. Il répond d'une voix monocorde que ses cris ne sont pas productifs pour l'avancement du déménagement, ce qui ne fait qu'accentuer la distance entre eux.
+Elle lui rappelle qu’elle lui avait demandé, la dernière fois, de ne pas tourner en dérision ce qu’elle ressentait. Youssef sait lui redonner l’ordre des phrases. Il n’arrive pas à répondre à la question que Léa lui pose maintenant : est-ce qu’il a entendu ce qu’elle disait de leur échange ?
 
-Ce mécanisme de défense, Youssef commence à le reconnaître, même s'il est déstabilisant de se sentir si vide au moment où l'on devrait être le plus présent. C'est comme si son cerveau avait débranché le câble audio d'un film pour ne garder que l'image. Il repense à son père, Hamid, qui restait imperturbable lors des disputes familiales, traitant les crises de larmes comme des erreurs de calcul. Cette pudeur silencieuse qu'il observait jadis dans la cuisine de ses parents est devenue son propre refuge. En cet instant précis, dans cet appartement parisien qu'ils s'apprêtent à quitter, Youssef réalise qu'il n'est pas en train de gérer le conflit, mais qu'il est en train de s'en extraire psychologiquement, laissant Léa seule face à une statue de marbre.
+Il garde son feutre à la main, sans le reboucher. Quand il essaie de parler, il ne trouve que des faits sur le devis et la réservation. Il a pourtant déjà réussi à dire à Léa qu’il avait peur de ne pas savoir quoi lui répondre. Ce souvenir lui revient, mais la phrase de la brasserie ne sort pas toute seule dans son salon.
 
 ## Définition de l'isolation de l'affect
 
@@ -57,18 +57,16 @@ Youssef peut dire : « J’entends ce que tu dis. Je ne sais pas encore ce que j
 
 Si le dialogue est possible et souhaité, les deux peuvent choisir un moment où reprendre. Youssef peut se demander s’il a besoin de calme ou de temps pour trouver ses mots.
 
-## Évolution de Youssef et résolution du conflit
+## Le devis et la question de Léa
 
-Assis sur le bord d'un carton rempli de ses essais de philosophie, Youssef observe Léa qui s'est tue, épuisée de heurter ce silence minéral. Il se concentre sur ses mains, notant la moiteur de ses paumes et la tension dans ses avant-bras. Il se rappelle son parcours depuis son épuisement professionnel, ses efforts pour ne plus être ce spectateur froid qui analyse sa vie comme un code à débugger. Lentement, il abandonne sa posture droite et rigide. Il ne cherche plus à savoir qui a tort sur l'organisation du déménagement à Lyon, il cherche simplement à revenir dans la pièce.
+Youssef pose le feutre sur le carton de livres. Il pourrait répéter l’heure qu’ils ont retenue avec le déménageur. Il cherche plutôt une phrase sur ce qu’il a entendu. Les deux choses se mélangent encore.
 
-Il s'approche de Léa et, au lieu de lui donner une explication logique sur son comportement, il utilise la deuxième technique. Il lui dit doucement qu’il entend ses reproches mais qu’il a encore du mal à dire ce qu’il éprouve. Il réalise que cette paralysie est la même que celle qui l'empêchait de signer sa démission quelques semaines plus tôt, ce tiraillement entre le besoin de contrôle et la peur de l'inconnu. À cet instant, l'armure se fissure. Ce n'est pas une explosion de larmes, mais une chaleur subtile qui remonte de son torse. Pour la première fois de la journée, il ne voit plus seulement une partenaire en colère, mais une femme qui partage son angoisse face à ce grand changement de vie.
+Youssef dit qu’il a du mal à répondre et demande un peu de temps. Léa lui dit qu’elle va rentrer à son studio. Elle n’a pas envie de reprendre la discussion tout de suite. Il voudrait lui demander de rester jusqu’à ce qu’il trouve les mots. Il lui dit simplement qu’il a entendu sa demande pour samedi.
 
-Le silence qui suit n'est plus lourd de reproches, mais chargé d'une vulnérabilité partagée. Youssef prend conscience que son mécanisme de défense, bien qu'efficace pour traverser des tempêtes professionnelles, est un poison pour son intimité. En choisissant de nommer sa coupure plutôt que de s'y emmurer, il reprend le pouvoir sur son héritage familial. Il n'est plus l'ingénieur froid qui traite des données de conflit, il redevient un homme qui, malgré la peur et l'incapacité passagère à ressentir, choisit de rester présent. Le déménagement vers Lyon n'est plus seulement un changement de ville, c'est le symbole d'une transition vers une vie où il s'autorise enfin à ne pas être qu'un esprit analytique.
+Après le départ de Léa, il appelle le déménageur. Il rend le créneau de samedi et demande un nouveau devis avec portage. Il note le nom de la personne à rappeler. La question que Léa lui a posée reste ouverte.
 
 ---
 
 Dans cette scène, Youssef trouve plus facile de raconter la dispute que de dire ce qu’il a ressenti. Constater ce décalage peut l’aider à demander du temps sans chercher un diagnostic.
-
-Le chemin vers la reconexion n'est pas linéaire et demande beaucoup de bienveillance envers soi-même. Il ne s'agit pas de se forcer à ressentir des émotions violentes, mais de rouvrir progressivement la porte au ressenti, une sensation physique à la fois. Vous pouvez aussi dire simplement que les mots vous manquent et remettre la discussion à plus tard.
 
 Si vous avez l'impression que cette froideur émotionnelle est devenue votre seul mode de fonctionnement et qu'elle nuit à vos relations ou à votre bien-être, un travail avec un professionnel de la psychologie peut s'avérer utile. Un thérapeute pourra vous aider à explorer l'origine de ces mécanismes de défense et à sécuriser votre espace intérieur pour que les émotions ne soient plus vécues comme une menace, mais comme une boussole.

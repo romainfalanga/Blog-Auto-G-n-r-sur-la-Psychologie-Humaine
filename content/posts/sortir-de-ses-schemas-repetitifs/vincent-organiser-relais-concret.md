@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-« Je peux aller chercher votre commande jeudi », propose Julie devant le coffre ouvert de sa voiture. Organiser un relais concret commence pour Vincent par une envie de répondre oui, suivie d’une liste de réserves. Il connaît le bon comptoir, possède le reçu et garde en tête les horaires. Il imagine déjà devoir tout expliquer, puis vérifier. À quoi bon accepter, pense-t-il, si transmettre lui demande encore de l’énergie ?
+« Je peux aller chercher votre commande jeudi », propose Julie devant le coffre ouvert de sa voiture. Vincent répond presque « oui ». Il se souvient du passage de Julie pour les pièces du robinet, où il lui avait envoyé deux fois les mêmes horaires. Cette fois, il s’agit de l’étagère et de plusieurs colis. Il connaît le bon comptoir, possède le reçu et garde en tête les horaires. Il imagine déjà devoir tout expliquer, puis vérifier. À quoi bon accepter, pense-t-il, si transmettre lui demande encore de l’énergie ?
 
 L’étagère attend toujours au magasin. Après avoir reconnu sa fatigue, Vincent reporte son retrait à un créneau moins chargé. Mais son planning ferroviaire change et le créneau disparaît. Cédric confirme l’emplacement choisi dans l’appartement et souhaite être présent à la réception. Julie passe près du magasin le jeudi. La possibilité existe, à condition de ne pas la transformer en arrangement vague où chacun suppose ce que l’autre sait.
 
@@ -77,7 +77,7 @@ Ils envisagent aussi une annulation : si Julie ne peut plus se déplacer, elle p
 
 Après le relais, Vincent demande si la mission correspond à ce qui est annoncé. Julie signale une attente au comptoir. Ils gardent cette information pour une éventuelle prochaine fois, sans transformer le bilan en enquête sur ses performances. Il la remercie et peut lui rendre un service un autre jour, mais aucune dette permanente n’est créée par ce trajet.
 
-## Vincent commence à laisser une mission quitter son agenda
+## La commande arrive sans rappel
 
 Jeudi, Vincent consulte une seule fois le message commun avant son temps libre. Il remarque l’envie de demander si Julie trouve facilement le magasin. L’adresse figure déjà dans les informations transmises, et sa sœur ne sollicite rien. Il garde son téléphone dans sa poche et rejoint Denis pour une courte promenade, comme ils en conviennent pendant leur pause de travail.
 

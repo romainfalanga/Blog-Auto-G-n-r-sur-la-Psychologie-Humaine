@@ -13,7 +13,7 @@ contexte: "en couple"
 draft: false
 ---
 
-La porte du bar claque et Hugo relève la tête. C'est Chloé qui entre, suivie de trois amis dont le rire roule comme des percussions. Il essuie un verre, le tissu frotte contre sa paume, l'odeur de limonade et de frites remplit l'air. Il remarque la façon dont Chloé passe la main dans ses cheveux, la veste qu'elle porte, et instantanément il se trouve sur une autre rive émotionnelle : elle est sa muse, la voix qui transforme ses accords en vérité.
+La porte du bar claque. Chloé entre avec trois amis. Depuis la séparation, Hugo et elle se reparlent pour les répétitions et se sont revus seuls deux fois. Il ne saurait pas dire ce qu’ils ont décidé au sujet du reste. Il lui fait signe depuis l’évier où il rince les verres.
 
 En l'espace d'un battement de cymbale, une note discordante arrive. Un des amis raconte une blague que Hugo ne comprend pas, Chloé rit fort, un peu cru, et son rire manque d'une inflexion qu'il reconnaît. L'image qu'il avait d'elle bascule. Sa tête rétrécit : elle devient soudain étrangère, peut-être même traîtresse. La guitare sensible à l'intérieur de lui vibre différemment. Il sent son regard se durcir, ses mots se refermer. Il connaît cette oscillation : il a déjà vécu des grandes déclarations suivies de ruptures violentes avec elle.
 
@@ -25,7 +25,7 @@ Idéaliser quelqu'un, c'est ici ne voir que ce qu'on admire chez lui ; le déval
 
 Dans le cadre psychodynamique, [Otto Kernberg](https://journals.sagepub.com/doi/10.1177/000306516701500309) a décrit des évaluations polarisées en lien avec la notion de clivage. C'est une interprétation issue d'un modèle clinique. À elle seule, l'alternance racontée chez Hugo ne permet ni de diagnostiquer un trouble ni d'en attribuer la cause à son enfance.
 
-Pour Hugo, ce concept éclaire une vieille pièce du puzzle : il revit souvent l'amour conditionnel d'Alain, son père, qui semblait n'apparaître que lorsque la performance était au rendez-vous. Sur scène, applaudissements ou silence déterminaient l'attention. Dans sa relation avec Chloé, il projette ce schéma ancien : quand elle valide ses émotions, il l'érige au rang d'idéal ; quand elle montre une distance ou une différence, il la dénigre, presque pour se protéger de la peur de n'être pas à la hauteur.
+Hugo se rappelle avoir longtemps guetté les réactions d’Alain, son père, quand il lui jouait un morceau. Il ne sait pas à quel point cela compte dans la scène du bar. Ce qu’il peut reconnaître aujourd’hui, c’est la vitesse à laquelle le rire de Chloé change la place qu’il lui donne dans sa tête.
 
 ## Manifestations de l'idéalisation et de la dévaluation en couple
 
@@ -76,15 +76,11 @@ Exercice concret :
 
 Beaucoup de basculements viennent d'interprétations non vérifiées. En adoptant un script simple et répétable, Hugo diminue la part d'imaginaire qui transforme un silence en trahison. Il apprend à décrocher son téléphone quand Théo l'appelle pour s'entraîner, acceptant enfin l'aide extérieure qu'il fuyait auparavant.
 
-## Hugo choisit de poser les armes
+## Le message attend la fin du service
 
-La soirée avance. Hugo sent la même agitation monter. Mais cette fois, il rappelle mentalement la première technique et se promet d'attendre vingt-quatre heures avant de réagir. Il pose le chiffon sur le comptoir, le tissu râpe contre le bois, et choisit de respirer pour ne pas céder à une impulsion. Il ne fuit pas la pièce, il ne provoque pas non plus une scène.
+À la fin du service, Hugo retrouve le début de message qu’il a écrit sous le comptoir. Il y accuse Chloé de rire de lui. Il se rappelle le début de la blague et s’aperçoit qu’il n’a même pas entendu la fin. Il range son téléphone au lieu d’envoyer le brouillon.
 
-Plus tard, dans l'une de ses chambres de répétition, il ouvre son carnet et applique la deuxième technique. Il décrit la scène du bar en trois phrases factuelles, puis inscrit un souvenir précis d'enfance où Alain ne le regardait que lorsqu'il jouait bien. Il écrit comment ce modèle a installé l'idée que l'amour dépend de la performance. En traduisant ces phrases en accords, il retrouve une logique : ses réactions ne sont pas uniquement dirigées par Chloé, elles viennent d'un vieux scénario.
-
-Le lendemain, il envoie à Chloé un message différent de ses habitudes. Au lieu d'accuser, il écrit : "Hier j'ai eu l'impression d'être à l'écart, est-ce que tu as cinq minutes pour en parler ?" Il utilise le script préparé et accepte que la réponse puisse ne pas être parfaite. Chloé répond, ils discutent calmement. La conversation n'efface pas l'angoisse d'Hugo, mais elle évite la violence d'une dévaluation. Théo l'encourage, Samba l'écoute jouer une version brute de sa chanson, et Hugo sent que sa créativité peut cohabiter avec une démarche relationnelle plus apaisée.
-
-Il reste du chemin à parcourir : certains soirs, la tentation de basculer est forte. Mais la répétition des techniques et sa capacité à relier ses réactions à l'histoire familiale transforment l'intensité en matériau. Il n'est plus seulement cet homme qui oscille ; il devient quelqu'un qui repère les ressorts de son comportement et choisit une autre voie.
+Le lendemain, il demande à Chloé s’ils peuvent reparler du bar. « Je me suis senti à côté, hier. Je crois que j’ai pris ton rire pour quelque chose qu’il n’était pas. » Elle lui explique à quel moment elle a ri et lui demande pourquoi il n’est pas venu leur parler. Il n’a pas de réponse qui l’arrange, alors il lui dit qu’il n’a pas osé.
 
 ---
 

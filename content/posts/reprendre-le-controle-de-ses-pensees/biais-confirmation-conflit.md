@@ -13,11 +13,11 @@ contexte: "en situation de conflit"
 draft: false
 ---
 
-La sonnette d'alerte retentit dans la petite salle de réunion lorsque la porte claque. Djamila fixe la table en plastique, ses doigts effleurent le carnet où elle note les rendez-vous et les noms des bénéficiaires. C'est le 24 mars 2026, il est treize heures trente, elle vient d'annoncer à son coordinateur que la prise en charge d'une femme et son enfant nécessite un signalement additionnel. Antoine réplique d'un ton qui lui paraît brusque, elle sent ses pensées s'aligner avec des évidences familières : quelqu'un qui doute d'elle, qui cherche à la contredire, qui la met à l'épreuve. Sans qu'elle le veuille, son esprit commence à rassembler des preuves qui confirment cette lecture.
+Djamila vient d’annoncer à Antoine qu’elle pense qu’un signalement supplémentaire est nécessaire pour la femme et l’enfant qu’elle accompagne. Dans la salle de réunion de l’association, Antoine lui demande quel élément a changé depuis la dernière évaluation. Sa voix est sèche. La première pensée de Djamila : il veut encore me faire passer pour quelqu’un qui ne suit pas les dossiers.
 
-Cette réaction n'est pas nouvelle. Depuis la conversation avec Amina à la brasserie il y a quelques semaines et l'incident du 19 mars avec Antoine où elle a senti un début de manipulation, Djamila sait reconnaître l'esquisse d'un réflexe ancien. Pourtant, malgré les outils que lui propose le Dr Martin, certaines pensées reviennent comme des aimants. Aujourd'hui, au milieu des chaises, elle entend son cerveau sélectionner rapidement des éléments qui valident son soupçon : le silence d'Antoine, la façon dont il incline la tête, la mention d'un délai administratif. Il lui faut maintenant décider si cette certitude est fiable ou si elle est guidée par un biais cognitif subtil et puissant.
+Moins d’une semaine plus tôt, le geste d’Amina à la brasserie lui a paru intrusif avant qu’elle trouve comment en parler. Avec Antoine, elle a aussi un fait précis : il est entré dans un entretien sans frapper. Il suffit qu’il parle de délai administratif pour que ces deux souvenirs lui reviennent ensemble.
 
-En quittant la salle pour aller chercher de l'eau, elle aperçoit Adam dessinant un dragon avec des pastels sur la table du salon. Le contraste entre la simplicité absorbante de son fils et la complexité de ses propres pensées lui rappelle pourquoi elle tient à comprendre ce qui se passe en elle. Elle murmure pour elle-même le mot que le Dr Martin a prononcé la dernière fois : biais de confirmation en situation de conflit. Elle sait maintenant que ce n'est pas seulement une idée théorique, mais un mécanisme qui s'infiltre dans ses décisions, ses interprétations et parfois dans ses relations professionnelles.
+Elle sort boire un verre d’eau. Sur son téléphone, le dessin de dragon qu’Adam lui a montré le matin, sur la table du salon, s’affiche encore. Elle retourne à la salle et reprend là où Antoine l’a interrompue : quels éléments lui manquent avant qu’ils puissent décider de la suite ?
 
 ## Définition du biais de confirmation
 
@@ -57,17 +57,13 @@ Djamila entend dans sa tête qu'Antoine la remet en cause volontairement. Elle p
 ### 3. Script de reformulation et demande de précisions
 Lors d'un échange conflictuel, utilisez un script simple en trois étapes : reformulez en une phrase neutre ce que vous avez entendu, demandez une précision factuelle, puis proposez une action concrète pour clarifier.
 
-Au milieu d'une réunion où la tension monte, Djamila reprend cette technique. Elle dit d'une voix ferme : Tu dis que le dossier n'était pas conforme. Peux-tu me montrer où exactement ? Cela force l'autre à préciser et enlève la place à l'interprétation automatique. Si la remarque était vague, la précision révèle souvent qu'il s'agit d'un malentendu ou d'un point technique plutôt que d'une attaque personnelle. Demander des détails arrête l'enchaînement des hypothèses et oblige l'autre à sortir de l'abstraction accusatrice.
+Djamila peut dire : « Tu dis que le dossier n’était pas conforme. Tu parles de quelle pièce ? » Antoine peut préciser, éluder ou contester sa question. Demander ce qui manque donne un point à vérifier. Si le refus ou le dénigrement se répète, cela reste un fait à prendre au sérieux.
 
-## Évolution du personnage et nouvelles perspectives
+## Ce qu’Antoine a demandé
 
-Aujourd'hui, après la réunion, Djamila reprend le carnet où elle note ses apprentissages depuis les sessions avec le Dr Martin. Elle ouvre la page du 19 mars et relit la méthode d'identification des pensées automatiques qu'elle a déjà utilisée pour distinguer les manipulations des souvenirs traumatiques. Cette fois, en suivant la technique du contre-échantillonnage, elle est surprise de trouver autant d'éléments contre sa conviction initiale. Sa main tremble un peu moins quand elle écrit erreur technique possible à côté de ton sec.
+Après la réunion, Djamila ouvre son carnet à la page du 19 mars. Elle relit l’heure et les quelques mots qu’elle a notés après l’entretien interrompu. Aujourd’hui, elle écrit la question d’Antoine aussi fidèlement qu’elle le peut, puis, sur une autre ligne, la réponse qu’elle s’est attendue à entendre.
 
-Elle repense à la froideur qu'elle avait manifestée envers Amina à la brasserie. À l'époque, elle n'avait pas encore conscience que son cerveau sélectionnait uniquement les signes de danger potentiel dans la proposition d'aide de son amie. En intégrant ces nouveaux outils, elle réalise que son armure de glace n'est pas une fatalité, mais une réponse automatique qu'elle peut désormais choisir de désactiver lorsqu'elle identifie un biais de confirmation à l'œuvre.
-
-Plus tard, dans le couloir, Antoine l'interpelle. Au lieu de réagir sur le mode de la défense immédiate, elle adopte le script de reformulation. Elle répète calmement ce qu'il vient de dire et demande des précisions. Antoine, étonné par la question, déroule des explications qui confirment une simple confusion sur les rôles. La tension se dissipe sans transformation spectaculaire, mais un changement réel s'installe : Djamila ne se contente plus de rassembler des preuves pour confirmer son histoire, elle regarde aussi ce qui pourrait la contredire.
-
-Elle sait que ce n'est pas un renoncement à sa vigilance. Son passé avec Samir lui a appris à être prudente et cette prudence l'a souvent protégée. Mais aujourd'hui, grâce aux outils pratiques, elle sent sa pensée s'aérer. Elle conserve sa méfiance utile, celle qui l'aide à protéger Adam et elle-même, tout en évitant que cette méfiance transforme chaque friction en bataille. En rentrant chez elle, elle griffonne une note pour Adam : dessin ce soir ? Elle sourit à l'idée d'un après-midi simple, moins habité par des certitudes automatiques.
+Dans le couloir, Antoine la rappelle. Elle lui demande de lui montrer la pièce qui lui manque. Il désigne un document qu’elle peut aller chercher. Ils sont encore en désaccord sur la marche à suivre. Djamila ne jette aucune des deux notes.
 
 ---
 

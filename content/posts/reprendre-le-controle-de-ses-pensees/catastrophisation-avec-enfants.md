@@ -13,9 +13,9 @@ contexte: "avec ses enfants"
 draft: false
 ---
 
-La vaisselle repose encore chaude dans l'évier, la minuterie du four compte les dernières secondes, et Camille tient la main d'Emma qui se frotte la gorge d'un geste maladroit. Léo tousse, une petite toux sèche qui résonne comme un signal d'alarme dans la tête de Camille. Immédiatement, une image se déroule, nette et rapide : Léo branché à un appareil, elle en blouse au chevet, et la mère de Camille, Françoise, qui la regarde en jugeant qu'elle n'a pas su anticiper le pire.
+Emma tend à sa mère une serviette qui allait tomber. Derrière elles, Léo tousse. Camille demande quand cela a commencé ; elle n’attend pas vraiment sa réponse avant de penser à la dernière garde où elle a vu quelqu’un chercher son souffle. David éteint le four et se rapproche. Léo a déjà repris ce qu’il disait.
 
-Le mot catastrophisation apparaît dans son esprit comme un écho à ses deux dernières semaines. Depuis le 15 mars elle note « vide » sur son post-it et a accepté que sa compassion a un coût. Le 18 mars, après une procédure réussie, elle a encore attribué son talent à la chance. Aujourd'hui, en préparant les lunchboxes pour l'école, elle sent les scénarios se multiplier. Son rôle d'infirmière, l'éducation exigeante reçue de Françoise, et la peur d'être une mère défaillante se mêlent jusqu'à rendre chaque petite contrariété menaçante.
+Elle se rappelle qu’au service, elle peut demander à une collègue ce qu’elle a observé. Chez elle, la première image qui lui vient ressemble déjà à un résultat. Elle redemande à Léo ce qu’il disait. Aujourd'hui, en préparant les lunchboxes pour l'école, elle sent les scénarios se multiplier. Son rôle d'infirmière, l'éducation exigeante reçue de Françoise, et la peur d'être une mère défaillante se mêlent jusqu'à rendre chaque petite contrariété menaçante.
 
 David, qui passe la tête dans la cuisine, annonce qu'il peut garder Léo cette après-midi s'il faut prendre un rendez-vous chez le médecin. Sa voix est pratique, calme. Mais Camille entend autre chose : l'idée qu'elle sera jugée, qu'elle manquera au service de cardiologie, qu'un oubli déclenchera une catastrophe dont elle sera responsable. Elle reconnaît pourtant, avec une pointe de fierté timide, qu'elle sait nommer ces mécanismes maintenant, comme elle a commencé à le faire lors des semaines passées au travail et à la maison. Elle se souvient de la main de Nathalie sur son épaule au box de cardiologie ; ce jour-là, elle avait refusé l'aide par automatisme. Aujourd'hui, elle respire un grand coup avant de répondre à David, tentant de ne pas laisser le vide intérieur dicter sa réaction.
 
@@ -71,7 +71,7 @@ Exercice concret : après le goûter, Camille reprend l’inquiétude de manquer
 
 La durée n’est pas une règle. Camille peut laisser tomber le carnet s’il lui donne une chose de plus à faire.
 
-## Évolution de Camille face à ses scénarios
+## Léo reprend sa phrase
 
 Camille demande à David de rester avec Léo le temps de vérifier la conduite à tenir. Ils regardent comment l’enfant respire et se comporte. Camille note ensuite que l’image du lit d’hôpital est une crainte, pas un renseignement sur l’état de son fils.
 
@@ -80,6 +80,8 @@ Elle pense à la séance d'il y a quelques jours où elle avait noté « vide »
 À table, lorsque Françoise appelle pour demander des nouvelles, Camille prend la décision de ne pas détailler chaque symptôme. Elle formule un message court et factuel, ce qui diminue l'envie immédiate de dramatiser pour obtenir une validation. Elle observe également un changement subtil : parler de ses doutes avec David sans les amplifier lui permet de mesurer leur taille réelle. Le journal des preuves, qu'elle utilise pour la première fois, lui montre que la plupart des scénarios catastrophiques ne surviennent pas et que ses actions concrètes suffisent, souvent, à contenir le problème.
 
 Elle ne prétend pas annihiler l'anxiété. Les pensées surgissent toujours, surtout quand la fatigue revient. Mais elle sent désormais moins le besoin de tout prévoir comme si chaque décision familiale devait prévenir une tragédie. En réintégrant ses acquis des deux dernières semaines, l'identification de la fatigue de compassion et la capacité à nommer son imposture, elle tisse une nouvelle façon de faire face où sa compétence d'infirmière sert à calmer, plutôt qu'à amplifier, sa peur.
+
+De la cuisine, Camille entend Léo reprendre son histoire là où il s’était arrêté. Elle note les signes qu’ils doivent surveiller. Elle garde le papier près du téléphone et laisse Léo terminer son histoire.
 
 ---
 

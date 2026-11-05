@@ -13,17 +13,17 @@ contexte: "face au vieillissement"
 draft: false
 ---
 
-L'air frais de ce début de mois de mai pique les joues de Patrick alors qu'il grimpe sur l'échafaudage du chantier de rénovation. À cinquante-six ans, il connaît chaque bruit de ce quartier de Lyon, chaque craquement du bois et chaque sifflement du vent entre les poutres. En bas, Antoine, le jeune intérimaire, s'apprête à charger une pile de parpaings sur son épaule. Patrick s'arrête net, une main crispée sur la barre métallique froide. Il observe la posture du jeune homme, le dos trop courbé, les jambes pas assez fléchies, et s'apprête à hurler un conseil de sécurité.
+Du premier palier de l’échafaudage, Patrick voit Antoine se préparer à porter des parpaings. Il lui demande d’attendre, puis s’apprête à monter avec son sac de matériel. La douleur le reprend à la hauteur de la deuxième marche. Il serre la barre et redescend.
 
-C'est à cet instant précis qu'une douleur familière, comme un coup de canif électrique, le traverse de part en part au niveau des lombaires. Patrick se fige, le souffle coupé, les doigts serrés sur le métal rugueux. Il y a un mois, il avait déjà failli renverser Antoine à cause d'une décharge similaire, une explosion de colère masquant sa propre peur. Aujourd'hui, le contraste est frappant : il voit avec une clarté chirurgicale l'imprudence du jeune homme, mais il vient de monter ces trois étages d'un pas lourd, ignorant volontairement le signal d'alarme que son propre corps lui envoie depuis le réveil.
+Il se souvient de l’étai qui a ripé le 10 avril. Ce jour-là aussi, il avait voulu aller plus vite que le matériel disponible. Antoine n’a pas à s’entendre dire d’être prudent pendant que son chef passe outre sa propre consigne.
 
-Patrick se souvient du bocal qu’il n’arrivait pas à ouvrir devant Catherine. Ici, une autre difficulté se présente. Il se rend compte qu’il s’est pressé de monter avec son sac de matériel alors qu’il se sentait déjà raide.
+« Laisse les parpaings où ils sont. Je vais demander ce qu’on peut utiliser. » Il dit ça d’en bas. Son sac est posé au pied de l’échafaudage. Pour la première fois de la matinée, il ne cherche pas à le reprendre.
 
 ## Comprendre la minimisation d’une douleur
 
 Minimiser une douleur consiste ici à la traiter comme peu importante avant d’avoir examiné ses effets sur l’activité. Au travail, une gêne qui change la façon de tenir un outil mérite d’être signalée pour que les conditions de la tâche puissent être revues.
 
-Patrick remarque qu’il conseille de la prudence à Antoine tout en minimisant sa propre douleur. « Minimiser » décrit ici le fait de traiter un symptôme comme moins important qu’il ne pourrait l’être, avant de l’avoir examiné. Plusieurs raisons peuvent compter dans cette décision, dont les exigences du poste, le manque de temps et la peur de perdre une tâche qu’il aime.
+Les exigences du poste, le manque de temps et la crainte de renoncer à une tâche appréciée peuvent compter quand Patrick retarde un signalement.
 
 Le biais du point aveugle, abordé dans un autre récit de Patrick, porte sur la facilité à attribuer des biais aux autres plutôt qu’à soi. L’épisode de l’échafaudage montre surtout une difficulté à appliquer les mêmes consignes de sécurité à toute l’équipe.
 
@@ -41,20 +41,13 @@ Indiquer quand la douleur apparaît et quels mouvements sont difficiles peut aid
 
 L’INRS souligne le rôle des aides techniques et de l’organisation du travail. Patrick peut demander quel équipement est disponible et comment réduire la charge. Le confort ou la sécurité ne dépendent pas uniquement de la volonté de l’ouvrier.
 
-## Évolution du personnage : Patrick commence à poser les armes
+## Le sac reste en bas
 
-Après s’être mis en sécurité, Patrick s’assoit et demande à Antoine de prendre un instant pour regarder comment ils pourraient déplacer les charges autrement.
+Patrick s’assoit et dit à Antoine qu’il a mal au dos. Antoine demande si le chariot libre est celui du hangar. Ils en parlent avec le collègue chargé du matériel et laissent la manutention en attente tant que la zone et l’équipement ne conviennent pas.
 
-Patrick dit au jeune homme que son dos le gêne. Ils conviennent de demander quel matériel est disponible et d’interrompre la manutention jusqu’à ce que la zone et le matériel soient adaptés.
-
-Le soir, Patrick parle de la gêne à Catherine. Il décide d’en discuter avec son médecin et avec le service de prévention au travail.
-
+À la pause, Patrick sort le numéro qu’il a déjà laissé plusieurs jours dans sa poche. Cette fois, il appelle. En rentrant, il donne à Catherine la date du rendez-vous. Le dos le gêne toujours pour sortir de la camionnette.
 ---
 
-En parlant de sa douleur, Patrick peut chercher des appuis adaptés. Les mêmes règles de prévention s’appliquent à toute l’équipe.
-
-Un symptôme qui gêne le travail peut appeler un avis et un aménagement. Les raisons qui poussent à différer cette démarche peuvent aussi être discutées.
-
-Il est normal de ressentir une résistance face à ces changements. Si le poids de vos propres attentes ou celui de votre éducation vous empêche d'accepter vos limites actuelles, entamer un travail avec un professionnel de la psychologie peut être bénéfique. Un thérapeute aide à ajuster le regard sur soi-même et à transformer ce qui est perçu comme une perte en une nouvelle forme de force, plus profonde et plus durable.
+Les mêmes règles de prévention valent pour toute l’équipe. Un symptôme qui gêne le travail peut justifier de consulter un professionnel de santé et de discuter d’un aménagement.
 
 Sources : [INRS, prévention des lombalgies au travail](https://www.inrs.fr/risques/lombalgies/prevention).

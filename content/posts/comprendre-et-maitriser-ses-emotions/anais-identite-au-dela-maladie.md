@@ -13,7 +13,7 @@ editorial_pack: "psychology-v10"
 draft: false
 ---
 
-La case « quelques mots sur vous » occupe quatre lignes dans le document de l'exposition. Anaïs commence par sa maladie, efface, puis écrit son métier. Son identité au-delà de la maladie ne manque pourtant pas de contenu. Elle aime les affiches anciennes, les expressions locales et les films qui donnent matière à discuter avec Benoît. Mais lorsqu'il faut se présenter, les rendez-vous, les adaptations et les explications de fatigue arrivent avant le reste.
+La case « quelques mots sur vous » occupe quatre lignes dans le document de l'exposition. Anaïs commence par sa maladie, efface, puis écrit son métier. Elle baisse les yeux vers l’affiche rouge. Pour la notice, elle a déjà fouillé un programme de quartier qui donne une année et une ancienne adresse. Elle aime les affiches anciennes, les expressions locales et les films qui donnent matière à discuter avec Benoît. Mais lorsqu'il faut se présenter, les rendez-vous, les adaptations et les explications de fatigue arrivent avant le reste.
 
 À quarante-six ans, elle travaille comme agente d'accueil municipale et vit avec une polyarthrite diagnostiquée, suivie médicalement. Cette réalité prend une place légitime dans son quotidien. Elle ne veut ni la nier ni en faire un secret obligatoire. Elle souhaite simplement que la présentation associative parle aussi de ce qu'elle vient apporter au projet, plutôt que de préparer tout de suite les autres à ses éventuelles absences.
 
@@ -83,7 +83,7 @@ Elle identifie les moyens nécessaires : document accessible, rôle délimité, 
 
 Après, elle peut retenir ce qui l'intéresse plutôt que seulement ce qu'elle parvient à faire. Quelle idée lui plaît ? Quel échange souhaite-t-elle poursuivre ? Ce regard nourrit une continuité de goûts et de liens. Il évite que chaque activité soit résumée par un bilan de capacité.
 
-## Anaïs écrit une présentation qui lui ressemble davantage
+## Quatre lignes pour se présenter
 
 Dans la case, elle note son métier et son intérêt pour l'histoire quotidienne du quartier. Elle mentionne les deux notices qu'elle prépare, puis s'arrête. Le texte ne raconte pas tout d'elle, et c'est précisément sa fonction. Anaïs ne doit pas se réduire à quatre lignes pour que ces quatre lignes soient justes.
 

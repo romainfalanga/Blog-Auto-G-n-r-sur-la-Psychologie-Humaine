@@ -43,7 +43,7 @@ Ce souci vaut aussi pour les projets personnels. Affirmer qu’un changement ser
 
 La question du coût aide à distinguer préparation et inquiétude répétée. Une nouvelle recherche change-t-elle une décision ? Permet-elle de contacter quelqu’un, de réserver un lieu ou de clarifier une responsabilité ? Si elle n’ajoute rien et prend le temps du repos, on peut choisir de l’interrompre jusqu’au prochain point prévu. Ce choix n’implique pas que tout est sous contrôle. Il reconnaît une limite de l’information disponible. Une préparation utile peut se terminer avec une part d’inconfort, tout comme la fin d’une routine ne garantit pas une certitude parfaite.
 
-## Trois étapes pour un espoir équipé
+## Annoncer ce qui dépend encore de la météo
 
 ### 1. Décrire le résultat souhaité à une échelle réaliste
 
@@ -63,11 +63,11 @@ Une fois les décisions utiles prises, fixez le prochain point de vérification.
 
 Si l’anticipation envahit durablement les journées, empêche le sommeil ou rend toute décision très pénible, un professionnel peut aider à explorer ce qui entretient la difficulté. Un médecin ou un psychologue pourra considérer la situation dans son ensemble. Les aménagements professionnels et le partage des responsabilités comptent également. Personne ne devient serein uniquement en faisant un meilleur tableau de risques lorsqu’il porte une charge démesurée. L’optimisme réaliste comprend le droit de demander des moyens, de reconnaître une limite et de refuser une promesse que les conditions ne permettent pas de tenir.
 
-## Élise envoie une invitation conditionnelle
+## Une invitation et une heure pour confirmer
 
 Le message aux habitants précise le format, les places, le trajet et le point prévu la veille. Élise le relit en cherchant les informations nécessaires, puis l’envoie sans ajouter une formule de garantie. Elle ressent un mélange d’envie et d’appréhension. Cédric confirme ensuite un élément du transport, mais la question du matériel mobile reste ouverte. Elle met à jour la liste au lieu de reconstruire toute l’organisation. Elle sait désormais quelle information pourrait changer une décision, ce qui rend les questions en suspens un peu moins diffuses.
 
-Le soir, elle ferme son carnet et retrouve Françoise pour une promenade. L’idée de la rencontre revient dans leur conversation, puis laisse la place à d’autres sujets. Élise n’est pas certaine que la date sera maintenue. Elle peut pourtant imaginer une discussion qui en vaille la peine et sait comment les personnes seront prévenues si ce n’est pas possible. Ce n’est pas une confiance générale dans l’avenir. C’est une confiance limitée dans quelques préparations partagées, accompagnée d’un souhait. Elle ne lui demande pas davantage pour continuer jusqu’au prochain point prévu.
+En marchant avec Françoise, Élise commence à dire qu’elles se réuniront au jardin. Elle corrige : si le terrain reste praticable. Françoise lui demande si elle viendra voir son exposition samedi. Elles comparent leurs horaires et Élise finit par ranger le téléphone qui affiche encore la météo.
 
 ---
 

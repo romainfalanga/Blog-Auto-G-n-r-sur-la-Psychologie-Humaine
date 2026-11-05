@@ -17,7 +17,7 @@ Le crayon d’Odile laisse une trace grise sur le côté de sa main. Elle recomm
 
 Le téléphone interrompt son examen. Gérard demande si le carnet servira au programme du quartier. Odile répond qu’elle a déjà préparé ce qu’elle souhaite apporter à la seconde séance. Ces lettres-ci sont seulement pour elle. Son ami lui propose alors de chercher un atelier pour exposer ses dessins. L’idée est sympathique, mais Odile n’en a pas envie maintenant. Elle entend pourtant dans cette proposition une confirmation de son propre doute : une activité devrait peut-être déboucher sur quelque chose de visible pour mériter la place qu’elle occupe dans une journée.
 
-Ancienne agente postale de soixante-quatorze ans, elle reconnaît facilement l’utilité d’un document bien expliqué ou d’un courrier arrivé à destination. Elle se repère moins bien devant un intérêt personnel qui ne résout le problème de personne. Depuis la mort de Françoise, il y a six mois, cette hésitation prend parfois une forme plus large. Elle se demande ce qui donne une direction à ses journées lorsque l’une de ses interlocutrices les plus familières n’est plus là. Elle redoute de devoir répondre par un grand projet auquel elle ne se sent pas tenue.
+À la poste, Odile pouvait regarder la pile à la fin de la journée et voir ce qui restait à traiter. Sur son carnet, elle ne sait pas à quoi ressemblerait une page achevée. Françoise lui aurait dit si les lettres donnaient envie d’entrer dans la boutique. En entendant la proposition de Gérard, Odile pense d’abord à l’avis de sa sœur plutôt qu’à un mur où exposer ses dessins.
 
 Odile repose le téléphone et laisse le carnet ouvert. Une partie du dessin l’intéresse toujours. Elle aime chercher pourquoi une lettre paraît accueillante et une autre sévère, alors qu’elles désignent le même magasin. Elle n’a pas envie de transformer cette curiosité en activité bénévole, en exposition ou en preuve de reconstruction. Elle voudrait seulement pouvoir reconnaître qu’une action modeste peut compter pour elle. Le mot sens lui semble trop grand pour quelques lignes sur du papier. Elle décide de l’examiner à partir de cette expérience plutôt que chercher d’abord une réponse pour toute sa vie.
 
@@ -29,7 +29,7 @@ Le guide de l’OMS sur le stress propose notamment de s’orienter vers des val
 
 La perte de Françoise ne doit pas davantage être justifiée par un sens qu’Odile aurait à découvrir. Chercher ce qui compte maintenant ne signifie pas trouver pourquoi la mort devait arriver, ni transformer la douleur en occasion obligatoire de grandir. Elle peut reconnaître une absence injuste ou simplement pénible, puis choisir une activité qui lui convient aujourd’hui. Ces deux mouvements ne se résolvent pas en une explication unique. Ses relations, ses plaisirs, ses responsabilités et ses temps sans projet peuvent garder des places différentes, sans devoir servir ensemble une grande histoire de dépassement.
 
-## Pourquoi les gestes modestes paraissent-ils parfois insuffisants ?
+## Le dessin doit-il servir à autre chose ?
 
 ### On mesure l’intérêt avec un résultat visible
 
@@ -43,7 +43,7 @@ Françoise savait remarquer les progrès d’Odile et se moquer gentiment d’un
 
 Odile pourrait décider qu’elle doit désormais accomplir chaque jour une action porteuse de sens. Cette règle ajoute un examen à ses journées, y compris celles où elle est fatiguée ou occupée par des contraintes. Une valeur comme la curiosité peut guider sans devenir un quota. Elle peut être exprimée dans un dessin, une question ou une lecture, puis rester au second plan lorsque d’autres besoins prennent la place. Ne pas se sentir inspiré un jour ne signifie pas avoir perdu sa direction. Il reste possible de faire une tâche nécessaire sans y trouver une signification particulière.
 
-## Trois pistes pour reconnaître ce qui compte à petite échelle
+## Garder un usage qui nous convient
 
 ### 1. Partir d’une expérience plutôt que d’une mission
 
@@ -57,7 +57,7 @@ Dessiner une lettre et organiser une exposition demandent des ressources différ
 
 Odile prévoit de consacrer une vingtaine de minutes à une lettre, puis d’aller faire une course. Le temps reste indicatif : elle peut s’arrêter avant ou prolonger si cela lui convient. Après l’essai, elle observe si l’activité nourrit sa curiosité, l’agace ou la fatigue. Elle ne cherche pas une émotion positive obligatoire. Un dessin difficile peut rester intéressant ; une activité facile peut ne plus avoir d’attrait. Cette observation donne une information pour choisir la suite. Si rien ne paraît avoir d’intérêt pendant une période qui l’inquiète, la réponse ne consiste pas nécessairement à multiplier les exercices de valeurs. Un médecin ou un psychologue peut aider à examiner la santé, l’humeur, les pertes et les conditions de vie qui demandent une attention plus large.
 
-## Odile termine une lettre sans décider d’une exposition
+## L’espace entre deux lettres
 
 Elle reprend la partie du dessin qui penche et découvre que le problème vient de l’espace entre deux formes. Elle ne l’aurait pas remarqué en cherchant seulement à produire une page propre. Odile garde une petite trace de ses essais plutôt que tout effacer. Cette décision lui convient parce que le carnet sert à chercher, pas à présenter un résultat impeccable. Elle se surprend à avoir envie de regarder une autre façade demain. Elle ne transforme pas cette envie en rendez-vous obligatoire et laisse la page suivante vide.
 
@@ -65,7 +65,7 @@ Elle reprend la partie du dessin qui penche et découvre que le problème vient 
 
 De retour chez elle, elle appelle Gérard pour confirmer le détail pratique de la prochaine séance. Elle lui dit aussi qu’elle garde pour l’instant ses dessins dans son carnet. Il répond qu’il proposait seulement une idée. Odile entend cette précision et reconnaît qu’elle avait ajouté une pression qui ne venait pas entièrement de lui. Elle n’a pas besoin de lui reprocher d’avoir pensé à l’exposition. Elle peut laisser circuler une possibilité tout en gardant sa décision. La discussion revient ensuite au programme du quartier, où une échéance existe réellement et doit être respectée.
 
-Le soir, Odile ne pourrait pas résumer sa journée par un accomplissement remarquable. Elle a dessiné, acheté du pain, échangé au téléphone et laissé une question en suspens. Certains de ces gestes ont répondu à une nécessité, d’autres à un intérêt. Elle perçoit une direction discrète dans le fait d’observer, de choisir et de rester en lien. Elle n’a pas trouvé le sens de la mort de Françoise ni un but pour toutes ses années à venir. Elle a repéré une action qui mérite une place aujourd’hui, même si personne n’en voit le résultat exposé.
+Le soir, Odile rouvre le carnet à la lettre qu’elle a recommencée. Elle rapproche deux traits. La différence se voit mieux maintenant que le dessin est posé à plat sous la lampe. Elle laisse le reste pour une autre fois, puis essuie sur sa main la poussière du crayon.
 
 ---
 

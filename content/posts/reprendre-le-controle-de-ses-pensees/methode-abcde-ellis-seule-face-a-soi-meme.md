@@ -15,7 +15,7 @@ draft: false
 
 Isabelle repose le couvercle de la bouilloire avec une lenteur calculée. Le clic métallique résonne dans la cuisine silencieuse, un bruit presque trop fort pour cette soirée du 10 avril 2026. Théo vient de partir chez son père, Laurent, pour le week-end, et l'appartement semble soudain s'être vidé de tout son oxygène. Ses cheveux roux, attachés à la hâte, s'échappent en quelques mèches sur sa nuque alors qu'elle observe la buée se former sur la fenêtre. Elle sent cette vieille connaissance, une anxiété sourde et électrique, grimper le long de sa colonne vertébrale. C'est la même sensation que lorsqu'elle attendait les messages d'Aurélie il y a quelques semaines, ce besoin viscéral de combler le vide pour ne pas sombrer.
 
-Elle s'installe à la table en bois, celle-là même où elle tentait de rester neutre lors de ses récentes réflexions sur le biais de groupe au collège. Aujourd'hui, il n'y a pas d'élèves en crise, pas de collègues en colère, juste elle et le bourdonnement du réfrigérateur. Ses yeux verts se fixent sur son carnet ouvert. Un message de sa mère, Geneviève, s'affiche sur l'écran de son téléphone resté à côté de la théière : "Tu ne m'as pas appelée aujourd'hui, j'espère que tu ne m'oublies pas avec tout ton travail." Cette simple phrase agit comme un déclencheur. Isabelle sent la culpabilité l'envahir, cette sensation d'être à nouveau la petite fille de huit ans responsable du bonheur de ses parents.
+Elle s’assoit à la table de la cuisine. Le mot de Geneviève est toujours affiché : « Tu ne décroches jamais quand j’ai besoin de toi. » Isabelle compose déjà une réponse en gardant un œil sur la bouilloire. Elle relit la phrase. Il n’y a ni question, ni indication que sa mère soit en difficulté ce soir.
 
 Elle ne veut plus subir. Elle se souvient de sa promesse de mars : arrêter le cycle du sacrifice de soi. Elle sait que sa fatigue de compassion ne vient pas seulement des autres, mais de la manière dont elle interprète leurs attentes. Ses mains, encore un peu tremblantes, saisissent son stylo. Elle ne va pas appeler sa mère pour s'excuser. Elle ne va pas non plus se noyer dans un livre pour oublier. Elle va utiliser cet outil qu'elle conseille parfois aux adolescents du collège, mais qu'elle a si souvent négligé pour elle-même. Elle trace cinq colonnes sur sa page blanche : A, B, C, D et E.
 
@@ -57,13 +57,11 @@ Une fois les croyances identifiées, il faut passer à l'étape D : la dispute. 
 
 Isabelle essaie une phrase compatible avec la situation : « Je tiens à ma mère et je peux lui proposer de parler demain. » Elle peut relire cette phrase pour préparer sa décision. Si la pensée lui paraît trop éloignée de ce qu’elle ressent, elle peut en écrire une plus simple ou s’arrêter pour ce soir.
 
-## Évolution du personnage : Isabelle commence à choisir ses combats
+## Le message peut attendre
 
-Isabelle repose son stylo sur le carnet. Les colonnes sont remplies. En face de la croyance sur sa responsabilité du bien-être de sa mère, elle a écrit en rouge : "Faux. Geneviève est une adulte responsable de ses propres émotions. Mon silence de quelques heures n'est pas une trahison." Elle sent une fraîcheur nouvelle circuler dans ses pensées. Ce n'est pas la disparition de sa fatigue, mais une forme de clarté qui rend le poids plus léger. Elle se souvient de la fois où elle avait compris l'attachement anxieux avec Aurélie, et elle réalise que ce qu'elle fait ce soir est la suite logique de ce parcours. Elle ne se contente plus d'observer ses failles, elle répare les fondations.
+Sur le carnet, Isabelle a écrit : « Si j’attends demain, elle va croire que je la laisse tomber. » Elle ne peut pas savoir ce que sa mère en conclura. Elle ajoute en dessous : « Je te rappelle demain matin. » Cette phrase, elle peut la tenir.
 
-Elle se lève pour verser son infusion de verveine dans sa tasse préférée. La solitude de la cuisine ne lui semble plus étouffante. Elle ressemble plutôt à un espace de liberté qu'elle s'autorise enfin à habiter. Elle pense à Théo, qui est sans doute en train de rire avec son père, et elle n'éprouve aucune culpabilité à ne pas être là pour lui à cet instant précis. Elle sait qu'en prenant soin de sa propre structure mentale, elle devient une mère plus solide, moins envahissante par son anxiété. Elle accepte que son rôle de psychologue s'arrête au seuil de sa porte.
-
-Isabelle retourne s'asseoir, non pas pour travailler ou pour répondre au message, mais simplement pour savourer le goût de sa boisson. Elle décide de laisser son téléphone dans la cuisine et de monter lire dans sa chambre. En montant l'escalier, elle s'arrête un instant pour ajuster un cadre au mur. Elle ne cherche plus à tout réparer autour d'elle, elle commence simplement à s'accorder la même bienveillance qu'elle offre si généreusement aux élèves du collège. Désormais, être seule face à elle-même ne ressemble pas à une épreuve, mais à un rendez-vous attendu.
+Elle envoie le message et monte lire. Arrivée en haut, elle redescend chercher son téléphone, le voit sur la table et remonte sans lui. Le livre l’attend ouvert sur le lit.
 
 ---
 

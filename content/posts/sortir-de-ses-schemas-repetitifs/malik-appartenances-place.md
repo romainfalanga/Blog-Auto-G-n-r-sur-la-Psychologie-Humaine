@@ -13,7 +13,7 @@ tags: ["appartenance", "identité", "biculture", "liens sociaux", "Malik"]
 draft: false
 ---
 
-« Tu présentes le dépôt ou ton quartier ? » Bastien regarde les photographies étalées sur le couvercle d’une caisse vide. Malik hésite entre une roue de tramway et une fenêtre où sèche un tissu bleu. Ses appartenances multiples ne tiennent pas facilement dans le thème demandé pour la rencontre de samedi. À trente-six ans, il est mécanicien de tramway, amateur d’images et compagnon à distance. Il vient du Sénégal, où il garde des liens importants, et vit ici depuis quatre ans par choix.
+« Tu présentes le dépôt ou ton quartier ? » Bastien regarde les photographies étalées sur le couvercle d’une caisse vide. Malik hésite entre une roue de tramway et une fenêtre où sèche un tissu bleu. Pour la rencontre de samedi, il a le droit d’apporter trois images. Arrivé du Sénégal quatre ans plus tôt, il connaît le type de réponse qu’on attend parfois de lui. Sur la caisse, la fenêtre et la roue ont pourtant été prises à dix minutes l’une de l’autre.
 
 Au dépôt, il connaît les outils, les plaisanteries de l’équipe et le bruit qui annonce la reprise d’une rame. Il s’y sent souvent à sa place. Pourtant, lorsqu’on lui demande de montrer « d’où il vient vraiment », il ne sait plus si une photo de son trajet quotidien compte comme une réponse recevable. Il aime parler de Dakar. Il aimerait également que son présent ne ressemble pas toujours à une explication provisoire.
 
@@ -55,7 +55,7 @@ En sélectionnant davantage d’images de son quartier actuel, Malik craint de m
 
 Cette impression peut aussi venir des attentes des proches. Une personne peut se sentir déçue d’être moins présente dans les récits. Cette déception mérite éventuellement une conversation, sans devenir la preuve que Malik s’éloigne volontairement. L’affection ne se compte pas uniquement au nombre d’images, de références ou de souvenirs partagés dans chaque espace.
 
-## 3 techniques pour laisser plusieurs appartenances coexister
+## Choisir les histoires que l’on souhaite partager
 
 ### 1. Décrire des liens plutôt que dresser des cases
 

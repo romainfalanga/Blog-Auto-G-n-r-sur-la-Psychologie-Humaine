@@ -15,7 +15,7 @@ draft: false
 
 La photocopieuse avale la première page et refuse la seconde. Samira reste devant le voyant rouge avec ses justificatifs dans une pochette publicitaire. Demander une aide lui semble, à cet instant, demander déjà plusieurs choses avant même de rencontrer quelqu’un : une machine qui fonctionne, du temps disponible, les bons documents et l’énergie de raconter sa situation. Elle compte les minutes qui restent avant la sortie d’école de Noé.
 
-Elle ne vient pas les mains vides. À quarante et un ans, caissière intérimaire et mère seule, elle suit ses missions, conserve ses courriers et essaie de répondre aux demandes de chaque organisme. Pourtant, un revenu changeant ne rentre pas facilement dans une case stable. Une pièce manque toujours au moment où elle pense avoir terminé. Elle commence à chercher dans son sac un document qu’elle tient déjà dans l’autre main.
+Dans le dossier, les contrats portent plusieurs dates et l’un d’eux s’arrête au milieu du mois. Samira sait à quelle semaine correspond chaque mission. Elle ne sait pas quelle période le service va retenir. Elle sort l’enveloppe où elle a noté ses questions et regarde la copie qui vient de se coincer.
 
 Après son échange avec l’école, elle accepte de rencontrer Étienne, un travailleur social du quartier. Le rendez-vous sert à examiner sa situation et les dispositifs éventuellement adaptés. Aucune aide n’est promise. Samira le sait, mais elle redoute surtout de retrouver la phrase entendue au portail : il faudrait faire davantage d’efforts. Elle envisage de renoncer avant qu’une personne inconnue ne la prononce.
 
@@ -83,7 +83,7 @@ Elle note aussi ce qui reste sans réponse. Une information manquante ne doit pa
 
 Au retour, prévoyez si possible un geste de fin très simple : ranger la pochette au même endroit ou raconter l’étape à une personne choisie. Samira écrit « premier examen effectué » sur son enveloppe. Elle ne marque pas « problème réglé ». Reconnaître une étape accomplie aide à respecter son effort sans annoncer une sécurité matérielle qui n’existe pas encore.
 
-## Samira garde une trace sans porter seule toute la procédure
+## La copie qui manque encore
 
 Dans le bureau d’Étienne, Samira pose sa liste avant ses justificatifs. Le travailleur social lui explique qu’il faut examiner ses ressources sur les périodes pertinentes et vérifier les dispositifs correspondant à sa situation. Elle pose une question lorsqu’un terme lui échappe. L’entretien avance moins vite qu’un formulaire rempli mécaniquement, mais elle comprend mieux ce qui est demandé.
 
@@ -91,7 +91,7 @@ Une copie manque encore. Étienne lui indique comment la transmettre dans le cad
 
 Devant la bibliothèque municipale, elle retrouve Mireille et Noé. Elle remercie sa voisine pour le temps de garde, sans raconter les détails de ses revenus. Mireille lui demande seulement si elle sait quoi faire ensuite. Samira répond oui pour une étape et non pour le résultat final. Cette réponse partielle correspond exactement à la situation.
 
-Le soir, elle classe la liste avec le courrier de logement. La pochette reste fine et disparate, mais ses papiers cessent de raconter à ses yeux une incapacité personnelle. Ils témoignent du travail nécessaire pour accéder à un accompagnement. Elle garde le droit de trouver cette charge excessive tout en poursuivant la démarche qui peut l’aider.
+Le soir, Samira ouvre la pochette à l’endroit où elle garde le courrier sur le logement. Elle y glisse le papier d’Étienne et note sur un coin le justificatif de mission qu’il reste à transmettre. Elle n’a pas d’accord sur une aide à ce stade. Avant de refermer la pochette, elle vérifie si elle peut récupérer cette copie sans retourner une deuxième fois au même accueil.
 
 ---
 

@@ -13,7 +13,7 @@ tags: ["soutien social", "cercles relationnels", "demande d’aide", "confidenti
 draft: false
 ---
 
-Les tirages glissent sur le carton qui doit les transporter. Malik essaie de les maintenir avec une pince pendant qu’il parle à Awa. Les soutiens dont il a besoin ce soir semblent tous rejoindre le même appel : choisir les images, comprendre une réponse administrative et raconter un nouvel échange au dépôt. Awa l’écoute, puis lui dit qu’elle peut rester avec lui un moment, mais qu’elle n’a pas la disponibilité pour examiner tous ces sujets.
+Les tirages glissent sur le carton pendant l’appel avec Awa. Malik voulait lui demander de choisir une photo. En cherchant la pince pour les tenir, il a aussi commencé à lui parler de la réponse administrative et d’un échange au dépôt. Awa lui demande lequel des trois sujets il voudrait reprendre ce soir. Il entend d’abord qu’elle voudrait en écarter deux. Il lâche la pince et lui demande combien de temps elle a.
 
 Malik se sent d’abord rejeté. Il attend beaucoup de ces rendez-vous parce qu’ils partagent rarement un même espace. Il sait pourtant qu’Awa possède sa propre journée et ne connaît pas tous les interlocuteurs de ses démarches. La distance leur donne plusieurs moyens de rester proches ; elle ne fait pas de sa compagne une réponse disponible à chaque problème de sa vie.
 
@@ -57,7 +57,7 @@ Il peut demander une aide sans fournir l’ensemble du récit. Pour préparer l�
 
 Cela ne garantit pas une confidentialité absolue dans toute relation. Malik peut choisir de ne pas se confier à une personne qui ne respecte pas ses limites. Le droit de sélectionner les destinataires ne constitue pas un refus de recevoir de l’aide. Il participe au contraire à rendre l’appui suffisamment sûr pour être utilisé.
 
-## 3 techniques pour chercher un soutien qui correspond au besoin
+## Trouver un interlocuteur selon ce qu’on demande
 
 ### 1. Nommer l’aide attendue avant de choisir la personne
 

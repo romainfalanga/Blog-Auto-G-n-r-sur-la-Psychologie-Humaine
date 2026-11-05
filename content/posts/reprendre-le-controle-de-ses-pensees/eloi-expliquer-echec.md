@@ -13,7 +13,7 @@ episode: 3
 draft: false
 ---
 
-Deux quantités sont entourées sur la feuille. Éloi reste devant la table du centre de formation tandis que les autres rangent leurs affaires. Expliquer un échec lui paraît inutile : il connaît déjà sa réponse, il n'est pas assez bon pour ce métier. La fiche technique reprend le bon nombre de convives en haut de page, mais plusieurs lignes conservent les quantités de l'exercice précédent. Le résultat est réellement faux. Il doit le corriger avant de l'utiliser.
+Deux quantités sont entourées sur la feuille. Au centre de formation, Éloi reste devant la table tandis que les autres rangent leurs affaires. Sur le premier nombre, il reconnaît son écriture; il ne sait déjà plus par quel calcul il l’a obtenu.
 
 Il voudrait que ses essais récents en cuisine lui donnent une assurance durable. Cédric lui confie une partie limitée de la préparation, avec des critères qu'il comprend mieux. Ici, pourtant, il ne retrouve rien de cette capacité. Une feuille suffit à effacer le lot qu'il sait vérifier. Il replie la correction dans son cahier pour ne pas la montrer à Quentin, puis se reproche de vouloir cacher une difficulté qui existe.
 
@@ -51,7 +51,7 @@ En rangeant la feuille, Éloi espère éviter une comparaison avec Quentin. Ce g
 
 Au foyer, Nora remarque qu'il parle de lui comme d'un problème à régler. Elle lui demande ce qui doit concrètement changer dans la fiche. Éloi reste irrité : il voudrait qu'on comprenne sa déception avant de parler méthode. Ils prennent donc le temps de nommer les deux dimensions. L'émotion a sa place, et l'action aussi. Une analyse utile n'oblige pas à devenir immédiatement calme ou enthousiaste devant un résultat décevant.
 
-## 3 techniques pour expliquer un échec sans se condamner
+## Chercher où le raisonnement dévie
 
 ### 1. Séparer les faits, les causes possibles et les conclusions
 
@@ -75,13 +75,13 @@ Il conserve également ce qui dépend du cadre : temps de relecture, accès au s
 
 Dans une expérience de Juliana Breines et Serena Chen, après un premier test difficile, les participants invités à se traiter avec bienveillance ont consacré plus de temps à étudier que ceux des groupes de comparaison. Le temps d'étude est le résultat observé ici. Pour apprendre le calcul, Éloi a toujours besoin de l'explication et de la pratique. Éloi retient surtout qu'il peut chercher à corriger sans s'attaquer. Une parole utile rend la réparation pensable ; elle ne sert ni à excuser une erreur non traitée ni à exiger une émotion positive.
 
-## Éloi commence à corriger un travail plutôt que sa personne
+## La deuxième ligne reste à revoir
 
 Sur le nouvel exercice, une ligne reste incorrecte. Éloi sent revenir sa conclusion habituelle. Il demande pourtant à reprendre le raisonnement avec la formatrice. Cette fois, le point d'erreur apparaît clairement et une explication lui manque encore. Il la travaille au lieu de cacher la feuille. Le résultat final n'efface pas le premier échec, mais il fournit une information plus précise sur ce qu'il doit apprendre.
 
 Il raconte ensuite l'exercice à Cédric sans prétendre qu'il maîtrise déjà les quantités dans tous les contextes. Le chef lui demande de continuer à faire valider les fiches selon les règles prévues. Éloi entend cette consigne comme un cadre de travail, même si elle le contrarie encore. Il garde les essais réussis dans son carnet et ajoute la méthode écrite à ses besoins d'entraînement. Les deux peuvent y figurer sans s'annuler.
 
-Au foyer, Nora lui demande comment il se parle après cette correction. Éloi répond qu'il se juge encore vite, mais qu'il peut maintenant nommer une question au lieu de s'arrêter à une insulte. Ils ne font pas de ce changement une obligation d'être toujours indulgent avec lui-même. Il peut rester déçu et demander un temps de repos. Son apprentissage continue avec un défaut réel à travailler et une manière moins fermée de l'examiner.
+Au foyer, Nora lui demande ce qu’il a dit à la formatrice après la deuxième erreur. Éloi lui raconte qu’il avait d’abord pensé « je suis nul », puis qu’il a demandé à reprendre la ligne avec elle. Il hésite encore sur une partie du calcul. Il garde la fiche pour savoir où lui poser la prochaine question.
 
 ---
 

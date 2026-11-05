@@ -13,7 +13,7 @@ contexte: "en situation de conflit"
 draft: false
 ---
 
-Le carrelage de la cuisine de Fabien brille sous la lumière crue de ce mardi 15 avril 2026. L'odeur de peinture fraîche de son nouvel appartement, qui l'obsédait tant il y a quelques semaines, s'est enfin estompée pour laisser place à un parfum plus neutre. Il ajuste ses lunettes sur son nez, les yeux fixés sur son fils Lucas qui vient de poser son sac de sport avec un fracas métallique sur le plan de travail en granit. La tension est immédiate, presque palpable, comme une corde de piano trop tendue.
+Dans la cuisine, Fabien entend le sac de Lucas heurter le plan de travail. Il vient de recevoir le message de Véronique et n’a pas encore regardé les horaires. Il demande à Lucas de déplacer le sac d’un ton plus sec qu’il ne voulait. Lucas le pose à ses pieds sans répondre.
 
 Véronique, son ex-épouse, vient d'envoyer un message pour décaler l'organisation des prochaines vacances, et Fabien sent cette vieille mécanique s'enclencher dans sa poitrine. Je dois rester calme, se répète-t-il intérieurement, alors que Lucas commence à râler contre l'emploi du temps imposé. Fabien se sent coincé dans un rôle de médiateur qu'il occupe déjà toute la journée à l'usine. Il se voit encore, il y a deux ans, tentant de sauver son couple par pure logique, sans jamais laisser place à l'imprévu.
 
@@ -47,13 +47,13 @@ Face à une obligation rigide, il est utile de questionner la validité de la lo
 ### 3. La technique du camembert des responsabilités
 En situation de conflit, les obligations rigides nous poussent souvent à porter l'intégralité de la responsabilité de l'issue de l'échange. Pour contrer cela, on dessine un cercle représentant la situation globale. Fabien peut alors attribuer des parts de ce cercle à différents facteurs : son attitude, l’horaire qui vient de changer, le désaccord exprimé par Lucas et les éléments qui restent à clarifier. En visualisant que sa part de responsabilité n'est qu'une fraction du tout, il se libère de l'injonction de tout régler seul et accepte que certains éléments lui échappent.
 
-## Fabien commence à lâcher prise sur ses exigences
+## Il reste deux dates sur la table
 
-Fabien dépose doucement le verre qu'il tenait. Au lieu de lancer une remontrance à Lucas sur son manque de politesse, il choisit de s'asseoir à la table de la cuisine. Il se souvient de ce qu'il a appris sur le biais du coût irrécupérable, il n'est pas obligé de continuer à jouer le rôle du père parfait simplement parce qu'il l'a fait pendant vingt ans. Il regarde Lucas et, pour la première fois, il ne cherche pas à corriger la situation.
+Fabien laisse le verre près de l’évier. Il demande à Lucas quel jour il serait disponible, et Lucas lui répond qu’il lui a déjà envoyé l’horaire du match. Fabien n’a pas regardé au bon endroit. Il a encore envie de lui reprocher son ton; il lui demande plutôt de lui montrer le message.
 
-Il est 19 heures. Le disque de jazz qui tourne en fond sonore apporte une douceur inhabituelle à la pièce. Fabien respire. Il remplace son besoin d'être un médiateur efficace par un simple je voudrais juste comprendre ce que tu traverses. Il se rappelle sa récente confrontation avec le jeune consultant à l'usine : s'il a réussi à ne pas laisser le mépris d'un inconnu l'atteindre, il peut bien accepter que son propre fils ne réagisse pas selon ses plans. Il exprime alors calmement à son fils qu'il se sent fatigué par les changements d'organisation de Véronique. À sa grande surprise, Lucas s'arrête de ranger ses affaires et s'assoit en face de lui. Le silence n'est plus ce mur de glace qu'il partageait avec son propre père, mais un espace de respiration.
+Il reste deux dates qui ne conviennent pas aux mêmes personnes. Fabien dit à Véronique qu’il lui répondra quand il aura vérifié. Il a parlé sèchement à Lucas au début de la discussion et le garçon part avant qu’il trouve quoi ajouter.
 
-En acceptant que la soirée ne soit pas forcément harmonieuse, Fabien crée les conditions de l'apaisement. Il ne cherche plus à valider son identité à travers l'approbation de ses enfants ou de son ex-femme. Il commence à percevoir que sa valeur ne dépend pas de l'absence de conflits, mais de sa capacité à y rester présent sans se laisser dicter sa conduite par des lois intérieures obsolètes. C'est un changement subtil, mais dans la cuisine de cet appartement qui commence enfin à lui ressembler, Fabien sent qu'il vient de poser un fardeau bien plus lourd que le sac de son fils.
+À dix-neuf heures, il met un disque. Le planning est encore ouvert sur la table.
 
 ---
 

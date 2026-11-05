@@ -13,13 +13,13 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-Le minuteur du four coupe la troisième discussion sur un rendez-vous de livraison. Préserver leur relation de couple dans l’aidance n’est pas la question que Vincent prévoit pour ce dîner. Il veut simplement raconter à Cédric une conversation absurde avec Denis, à propos d’un morceau entendu au concert. Mais une date en appelle une autre. Quand il sort le plat, ils connaissent leur programme de la semaine et ignorent encore ce que chacun a envie de partager ce soir.
+Le minuteur du four coupe la troisième discussion sur un rendez-vous de livraison. Vincent sort le plat du four avec une seule main libre, l’autre tenant toujours le téléphone ouvert sur la date du rendez-vous. Il veut simplement raconter à Cédric une conversation absurde avec Denis, à propos d’un morceau entendu au concert. Mais une date en appelle une autre. Quand il sort le plat, ils connaissent leur programme de la semaine et ignorent encore ce que chacun a envie de partager ce soir.
 
 Cédric repousse le carnet vers le bord de la table. « Je voudrais te parler d’un texte qui me résiste, mais pas de mes délais », dit-il. Vincent commence à proposer une méthode pour terminer la traduction. Cédric précise qu’il cherche surtout un autre avis sur une formule. Vincent s’interrompt. Il n’est pas sollicité pour régler un problème de planning ; son compagnon lui propose une conversation qui l’intéresse.
 
 Le relais de Julie permet de sortir une course de leur agenda, et l’étagère attend son installation. Pourtant, le temps dégagé ne se transforme pas automatiquement en moment de couple. Vincent se surprend à penser qu’il faudrait maintenant réussir une belle soirée pour prouver qu’ils vont bien. Cette nouvelle exigence ressemble encore à une tâche. Il demande plutôt : « Tu veux qu’on garde le carnet pour demain et qu’on parle de ton texte ? »
 
-## Qu’est-ce que préserver une relation de couple dans l’aidance ?
+## Qu’est-ce qui reste à partager au-delà de l’aide ?
 
 Préserver une relation de couple dans l’aidance consiste à garder une place pour les choix, les échanges et la proximité des partenaires au milieu des tâches de soutien et des contraintes de vie. Il n’existe pas de forme unique de cette proximité. Elle peut passer par une conversation, de l’humour, une activité, des gestes affectueux ou une intimité souhaitée par les deux personnes.
 
@@ -77,7 +77,7 @@ Ils précisent qu’ils peuvent arrêter. Vincent est parfois trop fatigué pour
 
 La réciprocité peut prendre des formes variées. Ce soir, Cédric apporte une question et un texte ; Vincent apporte une écoute et un morceau. Un autre jour, leurs contributions seront différentes. Il n’est pas nécessaire d’équilibrer tous les gestes à l’unité. Il est utile, en revanche, que chacun puisse exprimer ce qui lui manque et proposer quelque chose qui compte pour lui.
 
-## Vincent commence à être un interlocuteur avant de chercher une solution
+## Parler du texte avant du rendez-vous
 
 Cédric lit deux formulations et explique ce qui l’embarrasse. Vincent ne connaît pas la langue du texte d’origine, mais il décrit l’effet produit par chaque phrase en français. Cédric garde la décision finale. La discussion bifurque vers un vieux film qu’ils trouvent tous deux excessif. Ils rient du même détail sans faire le bilan de leur couple ni transformer l’instant en symbole de réussite.
 

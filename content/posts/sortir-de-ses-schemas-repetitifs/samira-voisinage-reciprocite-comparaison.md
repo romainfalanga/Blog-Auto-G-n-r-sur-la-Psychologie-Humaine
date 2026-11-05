@@ -81,7 +81,7 @@ Précisez la manière de confirmer ou de décliner la prochaine demande. Une lim
 
 Après le geste, arrêtez-vous à la limite convenue si rien ne justifie de la revoir. L’inconfort d’avoir reçu davantage peut revenir. Il ne constitue pas à lui seul une dette à payer. On peut remercier, rester attentif à la relation et attendre une occasion choisie, plutôt que remplir chaque intervalle par une compensation urgente.
 
-## Samira participe sans prendre une permanence impossible
+## Une place pour les livres d’enfants
 
 Dans le hall, Samira explique qu’elle ne peut pas assurer une semaine complète. Le voisin semble déçu et propose de réfléchir à une autre organisation. Personne n’applaudit sa limite. Elle ressent le besoin de revenir sur sa phrase, puis garde la proposition qu’elle peut tenir : relire les étiquettes et aider aujourd’hui pendant le créneau annoncé.
 
@@ -89,7 +89,7 @@ Mireille lui tend le feutre. Elles corrigent un nom de rayon et réservent un es
 
 Plus tard, Soraya appelle. Samira lui parle du projet et de sa difficulté à se sentir suffisamment utile. Sa sœur lui demande ce qu’elle souhaite entendre, plutôt que de proposer immédiatement une solution. Samira répond qu’elle a besoin de raconter sans comparer leurs deux immeubles. La conversation reste parfois maladroite, mais une règle de discussion commence à être dite.
 
-Le soutien de Mireille demeure limité et les besoins de garde de Samira restent plus importants. L’entraide n’efface pas cet écart. Elle peut néanmoins recevoir un service consenti et participer à une tâche choisie dans la même relation. Sa sœur n’a pas besoin de devenir moins disponible pour que sa propre place cesse d’être mesurée à cette comparaison.
+Dans le hall, Noé montre à Samira l’espace resté libre près de son album. Le voisin a choisi un autre jour pour discuter du planning. Mireille, elle, repart avec un livre qu’elle n’avait jamais lu. Samira l’accompagne jusqu’à l’escalier et lui demande si elle veut qu’elles échangent leurs livres la semaine suivante, quand elles se croiseront.
 
 ---
 

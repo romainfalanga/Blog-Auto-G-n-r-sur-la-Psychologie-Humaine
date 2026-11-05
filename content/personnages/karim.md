@@ -18,7 +18,7 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/regret-avec-ses-enfants/">Regret avec ses enfants : comprendre et agir</a></h3>
     <div class="parcours-date">2026-03-16</div>
-    <p class="parcours-resume">La lumière de l&#x27;écran éclaire le bureau de Karim. Il est tard, la ville dort, mais son téléphone vibre une dernière fois.</p>
+    <p class="parcours-resume">Sofia a envoyé quinze secondes de vidéo. Sami mord dans sa pomme, s’arrête et tend sa petite dent à la caméra. Karim ne sait pas si son fils le cherche du regard ou regarde simplement l’écran.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Karim regarde la vidéo de Sami une dernière fois, puis ferme son ordinateur. Il envoie un message vocal à Sofia, simple et direct : &quot;Je rentre demain à 18 h.</p>
@@ -29,7 +29,7 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/controle-de-soi-insuffisant-travail/">Contrôle de soi insuffisant au travail : pourquoi ça arrive</a></h3>
     <div class="parcours-date">2026-03-18</div>
-    <p class="parcours-resume">La nappe est encore chaude, le dessert arrive, et Karim craint que la soirée bascule. Sofia parle doucement, ses mains effleurent la carte, et Karim sent déjà l&#x27;appel venir comme une petite promesse de conquête.</p>
+    <p class="parcours-resume">Sofia vient de commander un dessert pour deux quand le téléphone de Karim vibre sur la nappe. Il l’avait laissé visible, au cas où Romain aurait besoin de lui. Ils sont sortis pour leur anniversaire de mariage.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Le dimanche suivant, lors du petit-déjeuner familial, la maison est animée. Amine et Lina discutent d&#x27;un projet scolaire, Sami finit son toast.</p>
@@ -40,10 +40,10 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/illusion-controle-manager/">Illusion de contrôle : le cas d&#x27;un manager</a></h3>
     <div class="parcours-date">2026-03-28</div>
-    <p class="parcours-resume">Karim bouge son curseur sur l&#x27;écran, glisse une réunion d&#x27;une heure à 16 h 30 et tente de caler le match d&#x27;Amine à 18 h. Sa souris clique, annule, recule.</p>
+    <p class="parcours-resume">Une réunion jusqu’à dix-sept heures trente et le match d’Amine à dix-huit heures : sur l’écran, les deux tiennent. Karim déplace encore le rendez-vous avec le fournisseur, de cinq minutes cette fois. Le trajet ne se raccourcit pas.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Aujourd&#x27;hui, au moment de déplacer la réunion, Karim accepte de mettre en pratique ses nouveaux outils. Il se rappelle la déception liée à la vidéo de Sami et la tension avec Sofia après le dernier dîner d&#x27;anniversaire.</p>
+      <p>Karim efface son « oui » à Sofia et lui dit qu’il ne peut pas garantir le début du match. Il appelle le fournisseur pour raccourcir la réunion ; celui-ci n’est disponible qu’à l’heure convenue. Karim doit maintenant décider avec Romain qui peut y assister.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/illusion-controle-manager/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -51,10 +51,10 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-engagement-escalade-decision-importante/">Biais d&#x27;engagement : pourquoi on s&#x27;entête dans l&#x27;erreur</a></h3>
     <div class="parcours-date">2026-03-31</div>
-    <p class="parcours-resume">Karim fixe les chiffres rouges sur son écran de contrôle, le souffle court et les tempes battantes. Dans l&#x27;arrière-cuisine de son troisième restaurant, les bruits de vaisselle et les ordres criés par la brigade résonnent comme une cacophonie lointaine.</p>
+    <p class="parcours-resume">Les travaux puis les premiers services du troisième restaurant lyonnais absorbent une partie des économies de Karim.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Assis sur une caisse de transport retournée, Karim respire l&#x27;odeur de friture et de détergent qui imprègne les murs. Il vient de passer une heure à appliquer la technique du décideur externe.</p>
+      <p>Karim accepte d’examiner avec Romain les échéances de Lyon et les possibilités de sortie avant d’engager de nouveaux fonds.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-engagement-escalade-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -62,10 +62,10 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-optimisme-decision-importante-entrepreneur/">Biais d&#x27;optimisme face à une décision importante : le comprendre</a></h3>
     <div class="parcours-date">2026-04-07</div>
-    <p class="parcours-resume">Karim fait glisser son doigt nerveusement sur la surface lisse de son bureau en chêne. Devant lui, Romain, son associé, aligne des graphiques aux courbes descendantes qui ne laissent place à aucune interprétation fantaisiste.</p>
+    <p class="parcours-resume">Alors que Romain lui montre les échéances de Lyon, Karim agrandit la photo d’un local qui se libère à Marseille.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Le silence s&#x27;installe dans le bureau. Karim regarde Romain, non plus comme un obstacle à son ambition, mais comme le garde-fou dont il a besoin.</p>
+      <p>Karim accepte de revoir les comptes lyonnais avant de signer, mais garde le numéro de l’intermédiaire marseillais.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-optimisme-decision-importante-entrepreneur/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -73,10 +73,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/culpabilite-avec-ses-enfants-comprendre-agir/">Culpabilité avec ses enfants : comprendre et agir | Karim</a></h3>
     <div class="parcours-date">2026-04-11</div>
-    <p class="parcours-resume">Le silence de la cuisine en ce mercredi après-midi est interrompu seulement par le frottement du feutre de Lina sur le papier protecteur de la table. Karim est assis en face de sa fille de 9 ans, ses mains larges posées à plat sur le bois verni.</p>
+    <p class="parcours-resume">Karim pose un paquet sur la table de la cuisine. Lina continue son dessin. Elle attendait qu’il vienne la chercher à la sortie de l’école ; il a acheté une console en rentrant.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Karim regarde sa fille continuer son dessin. Il se souvient de ses lectures sur l&#x27;illusion de contrôle et ses tentatives passées de tout gérer à la minute près.</p>
+      <p>« J’ai acheté ça parce que j’étais en retard. » Karim attend que Lina relève la tête. Elle lui demande s’il pourra venir la chercher vendredi. Il commence par répondre oui, puis sort son agenda pour regarder.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/culpabilite-avec-ses-enfants-comprendre-agir/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -84,10 +84,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/droits-personnels-excessifs-grandiosité-argent-finances/">Droits personnels excessifs, grandiosité et argent</a></h3>
     <div class="parcours-date">2026-04-12</div>
-    <p class="parcours-resume">Karim ajuste sa veste de costume devant la baie vitrée de son nouveau bureau lyonnais. En bas, le mouvement incessant de la ville semble valider son ascension, mais à l&#x27;intérieur, le silence est lourd.</p>
+    <p class="parcours-resume">Karim a versé une somme pour réserver un local à Marseille. Romain lui demande comment ils paieront la prochaine échéance à Lyon.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Assis dans un petit café sans prétention près de la Place Bellecour, Karim n&#x27;a pas sorti son téléphone une seule fois depuis vingt minutes. En face de lui, Romain semble d&#x27;abord sur la défensive, s&#x27;attendant à une nouvelle joute verbale pour défendre le projet de Marseille.</p>
+      <p>Karim propose d’arrêter les nouvelles dépenses et de relire les conditions avec Romain. Il lui reste à prévenir Sofia.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/droits-personnels-excessifs-grandiosité-argent-finances/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -95,10 +95,10 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-faux-consensus-conflit/">Le biais de faux consensus en situation de conflit</a></h3>
     <div class="parcours-date">2026-04-26</div>
-    <p class="parcours-resume">La sonnette d&#x27;alarme du restaurant retentit pendant que Karim range une pile de factures sur le comptoir. Il a le téléphone collé à la paume et cherche l&#x27;énergie d&#x27;affronter la dispute qui l&#x27;attend à la maison.</p>
+    <p class="parcours-resume">Karim suppose que son équipe aurait pris le même risque à Marseille. Sofia veut lui parler de ce qu’il a engagé.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Ce soir, quand Sofia évoque une nouvelle fois son exaspération, Karim sent l&#x27;ancienne mécanique s&#x27;enclencher : il prend mentalement la majorité pour acquise et s&#x27;apprête à réagir. Mais il se souvient aussi des situations précédentes, notamment du chapitre 2 où son impulsivité a coûté un dîner…</p>
+      <p>Karim donne le montant à Sofia au lieu de répondre à sa place. Elle ne l’absout pas et ils doivent encore reprendre la discussion.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-faux-consensus-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -106,10 +106,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/propheties-autorealizatrices-face-decision-importante/">Prophéties autoréalisatrices et prise de décision : le guide</a></h3>
     <div class="parcours-date">2026-05-02</div>
-    <p class="parcours-resume">Karim se tient debout au milieu de sa salle de restaurant à Lyon. Il est quinze heures, l&#x27;odeur persistante du service de midi, un mélange de beurre noisette et de café, flotte encore.</p>
+    <p class="parcours-resume">Karim évite les appels de Romain alors qu’ils doivent trouver comment sortir de la réservation marseillaise.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Assis dans son bureau dont les murs sont couverts de photos de ses trois enfants, Karim regarde son téléphone sans le toucher. Il se souvient de la console de jeux qu&#x27;il avait offerte à Lina pour compenser son absence, réalisant maintenant que ce geste n&#x27;était qu&#x27;une brique de plus dans la…</p>
+      <p>Il rappelle son associé, lui dit ce qu’il ne sait pas et lui transmet les documents qu’il avait évité de rouvrir.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/propheties-autorealizatrices-face-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -117,10 +117,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/enthousiasme-reconversion-professionnelle-burn-out/">Enthousiasme et reconversion : maîtriser l&#x27;élan pour réussir</a></h3>
     <div class="parcours-date">2026-05-03</div>
-    <p class="parcours-resume">Karim fixe les cartons empilés dans le garage de sa maison lyonnaise. L&#x27;odeur de poussière et de carton humide lui chatouille les narines.</p>
+    <p class="parcours-resume">L’accord de réservation à Marseille prend fin. En rangeant le matériel de l’ancien restaurant lyonnais, Karim imagine une école de cuisine solidaire.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Karim referme lentement le classeur de son père. Il sent encore l&#x27;adrénaline battre dans ses tempes à l&#x27;idée de son école solidaire, mais il se lève et va se verser un grand verre d&#x27;eau fraîche.</p>
+      <p>Il note une première question à poser à une association et attend avant de monter le projet.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/enthousiasme-reconversion-professionnelle-burn-out/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -128,10 +128,10 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-action-face-a-une-decision-importante/">Biais d&#x27;action face à une décision importante : le comprendre</a></h3>
     <div class="parcours-date">2026-05-07</div>
-    <p class="parcours-resume">Karim se tient debout dans la pénombre de son garage aménagé, les mains crispées sur le dossier d&#x27;une chaise en bois. Devant lui, sur son établi, repose le contrat de bail pour le local de sa future école de cuisine solidaire.</p>
+    <p class="parcours-resume">Karim a devant lui le projet de bail de son école de cuisine. Il a déjà envie de signer avant de lire les conditions.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Assis sur son tabouret, Karim lâche enfin le dossier du bail. Après avoir vérifié l&#x27;échéance du bail, il laisse son téléphone dans le garage pour le dîner.</p>
+      <p>Il vérifie le délai et laisse le bail sur l’établi le temps de demander un avis comptable.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-action-face-a-une-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -139,10 +139,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/impatience-lors-d-un-entretien-d-embauche/">Impatience en entretien d&#x27;embauche : faire une pause</a></h3>
     <div class="parcours-date">2026-05-10</div>
-    <p class="parcours-resume">Karim ajuste le col de sa chemise dans le hall vitré de cette tour de la Part-Dieu, à Lyon. L&#x27;air conditionné diffuse une odeur de moquette neuve et de produit nettoyant citronné.</p>
+    <p class="parcours-resume">Karim se rend à un entretien à Lyon pour trouver un revenu pendant qu’il étudie encore son projet d’école.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Assis face à Julie, Karim sent l&#x27;urgence habituelle lui mordre l&#x27;estomac. Il veut lui raconter comment il a redressé son premier établissement, comment il a géré son associé Romain, comment il a appris de ses échecs à Lyon et Marseille.</p>
+      <p>Il coupe une question de Julie, puis lui demande de reprendre. Il prévient Sofia qu’il rentre sans prétendre connaître le résultat.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/impatience-lors-d-un-entretien-d-embauche/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

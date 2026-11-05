@@ -68,15 +68,13 @@ Exercice concret :
 - Fixer un petit test comportemental : par exemple, envoyer un court message à un ancien ami pour proposer une marche de trente minutes, sans attendre une réponse immédiate.
 - Après la tentative, noter les résultats et ajuster la narration : remplacer la phrase initiale par une version nuancée ("Parfois je me sens mal à l'aise en groupe, mais je peux avoir des interactions satisfaisantes").
 
-Cette technique permet à Fabien de réutiliser la méthode d'analyse cognitive qu'il a apprise lors de sa réflexion sur le coût irrécupérable, mais appliquée aux récits qu'il se tient à lui-même.
+Fabien peut comparer « je ne suis pas fait pour les groupes » et « le premier soir, je n’ai parlé à personne ». La deuxième phrase lui laisse décider s’il veut revenir, attendre une autre lecture ou chercher un endroit où il sera plus facile d’entrer.
 
-## Évolution de Fabien vers des liens sans rôle professionnel
+## Il retourne au cercle de lecture
 
-Désormais, Fabien applique ces techniques avec la même rigueur qu'il applique à un audit RH, mais avec plus de douceur. Il s'inscrit à un petit cercle de lecture du quartier, un rendez-vous de quarante minutes le mardi soir, volontairement sans objectif professionnel. La première fois, il reste silencieux, il pose une question simple sur le livre et repart content d'avoir été présent sans jouer un rôle. Il note dans son carnet les éléments positifs, comme il note les indicateurs de satisfaction au travail.
+Au cercle de lecture, Fabien se souvient surtout de l’emplacement des chaises. Le premier soir, il a parlé à la personne qui lui en a rapproché une, puis il est rentré. Il hésite à s’inscrire à la séance suivante : le livre lui plaît, la perspective de recommencer la conversation beaucoup moins. Il s’inscrit quand même pour l’entendre discuter.
 
-Quelques jours plus tard, il utilise la cartographie relationnelle et invite un ancien collègue à voir un documentaire qu'il a apprécié. Ils parlent d'autre chose que du travail : du jazz, d'une émission, d'un souvenir d'enfance. Fabien éprouve une étrange nouveauté, une proximité sans fonction. Cette expérience confirme l'hypothèse issue du déjeuner chez son père : le mutisme avait structuré sa vie relationnelle, mais il n'est pas une fatalité.
-
-Il réemploie aussi la reformulation narrative pour contrer la croyance selon laquelle il serait inadapté aux groupes. Après trois micro-engagements, il a désormais une liste de petites preuves qui contredisent cette affirmation, et il les relit avant un événement social. Ce rituel l'aide à réduire l'anticipation anxieuse et à donner une chance à l'existence de liens informels. Fabien n'essaie pas de tout changer d'un coup, il s'autorise des pas mesurés, en cohérence avec sa personnalité analytique.
+Il propose aussi un documentaire à un ancien collègue. Au début du film, il s’aperçoit qu’il ne sait plus le nom du directeur de l’équipe dont ils parlaient autrefois tous les jours. Le collègue ne s’en souvient pas non plus. En sortant, ils discutent surtout de la dernière scène.
 
 ---
 

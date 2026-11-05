@@ -13,7 +13,7 @@ contexte: "après une rupture amoureuse"
 draft: false
 ---
 
-Isabelle regarde l’horloge du collège. La récréation vole en éclats de rires et de chaussures qui claquent. Depuis sa rupture, elle remarque des moments où les voix semblent lointaines, puis d’autres où elle ne se rappelle pas avoir installé les dossiers. Elle aimerait comprendre ces expériences et note qu’elles ne se ressemblent pas toutes.
+Isabelle pose une pile de dossiers sur son bureau. Une autre, déjà classée, l’attend dans le tiroir. Elle ne se rappelle pas l’y avoir rangée. Depuis qu’Aurélie est partie, il lui arrive aussi d’entendre les voix comme si elles venaient du bout du couloir, alors qu’on lui parle à côté d’elle. Elle essaie de se rappeler l’heure.
 
 Dans la salle des professeurs, l'odeur du marc de thé flotte autour d'elle. Théo l'appelle au téléphone pour demander s'il peut inviter un ami ce soir. Elle lui répond mais réalise trois secondes plus tard qu'elle n'a aucun souvenir du début de la conversation. Cette absence lui rappelle cruellement les moments de fatigue de compassion qu'elle a traversés récemment au travail, où son empathie semblait s'être évaporée sous le poids des crises des élèves. Plus tard, en préparant un atelier pour une classe de cinquième, elle sent ses mains travailler sans que son cerveau suive les décisions : elle a mis une photocopie deux fois dans la photocopieuse, puis l'a déposée dans le bac sans comprendre pourquoi. Ce décalage entre corps et pensée la fatigue.
 
@@ -51,11 +51,11 @@ Elle note la date, le lieu, la durée approximative et ce qu’elle a remarqué 
 
 Isabelle décide de parler de ces épisodes à son médecin. Celui-ci pourra l’interroger, vérifier d’autres causes et l’orienter si nécessaire. Elle peut demander un relais à une collègue habilitée si un épisode l’empêche d’assurer un rendez-vous.
 
-## Évolution d'Isabelle et reprise de contact avec soi
+## Un rendez-vous pour comprendre
 
 Après une réunion tendue, Isabelle sent le tissu de sa veste sous ses doigts et reprend le fil avec la personne qui lui parle. Le soir, elle écrit ce qu’elle peut décrire précisément et appelle le cabinet médical pour un rendez-vous.
 
-Elle appelle ensuite Catherine pour lui demander un service précis : venir chez elle samedi pour aider Théo à préparer une fiche de révision. C'est un petit contrat d'aide, un exercice pour sa difficulté à recevoir, elle qui s'était sentie si vulnérable lors de leur dernier café en terrasse à cause de ses pensées automatiques de rejet. Catherine accepte, et Isabelle sent une chaleur différente, plus contrôlée, parce qu'elle a mis des mots et des limites. Cela fait écho à ce qu'elle a appris sur la fatigue de compassion et la parentification : demander de l'aide n'annule pas sa bienveillance, cela la protège.
+Elle demande ensuite à Catherine si elle peut venir samedi aider Théo à préparer une fiche de révision. Catherine lui demande quelle matière et à quelle heure. Isabelle avait préparé une longue explication. Elle lui répond simplement : « Histoire, vers dix heures si tu peux. »
 
 Au collège, elle s’accorde un relais pour les rendez-vous qu’elle ne se sent pas en mesure de mener. Elle attend la consultation pour comprendre ces épisodes. À la maison, elle explique simplement à Théo qu’elle est fatiguée et qu’elle prend le temps de s’en occuper.
 

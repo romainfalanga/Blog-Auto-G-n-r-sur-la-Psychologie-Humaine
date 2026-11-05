@@ -13,7 +13,7 @@ contexte: "à l'école ou aux études"
 draft: false
 ---
 
-L'amphithéâtre de l'école de commerce est plongé dans une pénombre relative, seulement troublée par l'éclat des dizaines d'écrans d'ordinateurs allumés. Lucas est assis au milieu du troisième rang, son stylo bille tournant nerveusement entre ses doigts. Le professeur de stratégie internationale vient de projeter un schéma complexe sur les barrières à l'entrée des marchés émergents. Une question brûle les lèvres de Lucas, une interrogation pertinente sur l'impact des micro-finances qu'il a étudiées pour son mémoire, mais sa gorge reste sèche. Il jette un regard furtif à sa gauche où Romain, son colocataire, tape frénétiquement sur son clavier avec une assurance qui semble inébranlable.
+Le professeur demande ce qui distingue les deux études sur le microcrédit. Lucas a écrit un point d’interrogation entre les noms des auteurs. Il lève son stylo de quelques centimètres et le repose quand une étudiante de devant prend la parole.
 
 Lucas ajuste machinalement le col de son polo de marque, celui qu'il a acheté en promotion pour se fondre dans le décor. Il se souvient encore de l'humiliation ressentie le mois dernier lorsqu'il avait dû mentir à Maxime et Romain sur ses finances pour éviter un week-end au ski trop coûteux. Aujourd'hui, le sentiment d'être une fraude est plus vif que jamais. Chaque mot prononcé par le professeur résonne comme un test qu'il craint de rater. S'il pose cette question et qu'elle est jugée stupide, tout le monde verra qu'il n'est pas à sa place, que le fils de Sandrine et Jean-Marc n'a rien à faire dans cette prestigieuse institution parisienne.
 
@@ -53,13 +53,13 @@ Lucas peut remarquer : « J’ai peur que ma question paraisse idiote. » Cela l
 
 Lucas peut choisir de parler de ses doutes à une personne de confiance. Il n’a pas à révéler son budget ou son histoire familiale. L'exercice consiste à choisir une personne de confiance, comme son colocataire Maxime avec qui il a déjà commencé à être plus honnête, et à exprimer ses doutes. En verbalisant "J'ai peur que mes parents soient déçus si je n'ai pas les meilleures notes", Lucas brise le cercle de l'isolement. Souvent, la réponse de l'autre révèle que lui aussi traverse des phases de doute. Cela permet de normaliser l'anxiété liée à la performance et de réaliser que le masque social est une construction partagée par beaucoup, ce qui diminue le sentiment d'être une exception défectueuse.
 
-## Lucas commence à voir les choses autrement
+## La question après le cours
 
 Le cours de stratégie se termine. Les étudiants rangent leurs affaires dans un brouhaha de chaises et de discussions animées. Lucas sent son cœur battre un peu plus vite, mais cette fois, il ne laisse pas l'anxiété le paralyser totalement. Il se souvient de sa prise de conscience lors du match de basket contre Antoine, où il avait réalisé que son envie n'était que le miroir de ses propres manques. Il décide d'appliquer immédiatement une version simplifiée de sa technique d'externalisation.
 
 Il s'approche du bureau du professeur alors que Romain se dirige déjà vers la sortie. Lucas attend son tour, les mains enfoncées dans les poches de son jean. Quand vient son moment, il pose sa question sur l'impact social des micro-crédits. Sa voix tremble imperceptiblement, mais elle est claire. Le professeur s'arrête de ranger ses dossiers, l'observe un instant avec intérêt et répond de manière détaillée, soulignant que c'est un point de vue que peu d'étudiants soulèvent. Lucas ressent une sensation de chaleur dans sa poitrine, qui n'est pas de la honte cette fois, mais une timide fierté.
 
-En sortant de l'amphi, il retrouve Maxime et Romain dans le hall baigné d'une lumière de fin d'après-midi. Au lieu de lancer une blague pour détourner l'attention comme il le ferait d'habitude, il accepte la proposition de Maxime de prendre un moment pour discuter des dossiers de stage. Il ne cherche plus à paraître celui qui sait tout sans travailler. Il accepte même d'admettre qu'il a eu du mal à comprendre le dernier chapitre de macro-économie. En marchant vers l'arrêt de bus, il sent que la pression sur son diaphragme s'allège. Il sait que le chemin sera encore long avant de se sentir totalement légitime dans ce monde de la finance, mais aujourd'hui, il a cessé de jouer un rôle. Il commence à habiter sa propre vie, avec ses failles et ses origines qu'il n'a plus besoin de camoufler sous un polo trop cher.
+Dans le hall, Maxime lui demande si le prof lui a donné une réponse. Lucas est tenté de dire qu’il savait déjà à peu près. « J’ai compris la différence, mais je ne saurais pas encore l’expliquer », dit-il. Ils remontent un instant chercher leurs notes.
 
 ---
 

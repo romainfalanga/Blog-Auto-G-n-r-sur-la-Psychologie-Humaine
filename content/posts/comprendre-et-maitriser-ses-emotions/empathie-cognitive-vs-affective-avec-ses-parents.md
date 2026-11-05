@@ -13,7 +13,7 @@ contexte: "avec ses parents"
 draft: false
 ---
 
-Isabelle gravit les quatre étages de l'immeuble de sa mère, Geneviève, les bras chargés d'un sac de courses et de quelques dossiers du collège qu'elle n'a pas eu le cœur de laisser dans son casier. L'odeur familière de l'encaustique et du jasmin l'accueille dès le palier, mais une tension sourde lui serre déjà les cervicales. Elle se souvient de sa visite de la semaine dernière, où une remarque de sa mère l’avait blessée pendant les démarches du deuil. Aujourd'hui, elle se sent plus ancrée, forte des outils de restructuration cognitive qu'elle pratique régulièrement depuis ce fameux 10 avril où elle avait dû affronter seule son anxiété après le départ de Théo, mais le terrain reste miné.
+Sur le palier de sa mère, Isabelle pose le sac de courses et reprend son souffle. La dernière fois, elle était venue avec des papiers qu’elles n’avaient finalement pas ouverts. Ce soir, elle a prévenu Théo qu’elle rentrerait pour dîner. Au bruit de la clé, elle entend déjà Geneviève parler d’un courrier.
 
 Geneviève est assise dans son fauteuil en velours vert, le visage défait, fixant une lettre de l'assurance maladie. Dès qu'Isabelle entre, les reproches commencent, voilés sous une plainte lancinante sur sa santé déclinante et l'incompétence de l'administration. En tant qu'ancienne enfant parentifiée, le premier réflexe d'Isabelle est de se laisser absorber par la détresse de sa mère, de ressentir chaque onde de frustration comme si elle lui appartenait. Sa peau devient brûlante, son souffle se raccourcit. Elle perçoit le gouffre de la fatigue de compassion qui s'ouvre à nouveau, menaçant de l'engloutir après une journée déjà dense auprès des élèves en crise au collège.
 
@@ -51,7 +51,7 @@ Elle se sent tendue et souhaite rentrer à l’heure prévue. Elle peut offrir u
 
 « Est-ce le délai indiqué qui t’inquiète ? » demande Isabelle. Geneviève peut confirmer, corriger ou parler d’autre chose. La reformulation est une proposition pour mieux se comprendre, avec la possibilité d’entendre une réponse inattendue.
 
-## Évolution d'Isabelle et limites saines
+## Jusqu’à demain
 
 Isabelle repose la lettre et demande à sa mère ce qui l’inquiète dans le document. Geneviève indique un délai. Isabelle peut entendre son souci et regarder avec elle s’il faut agir avant le lendemain.
 

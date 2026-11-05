@@ -13,7 +13,7 @@ contexte: "à l'école ou aux études"
 draft: false
 ---
 
-Djamila ajuste son foulard turquoise devant le miroir de l'entrée de l'institut de formation. Aujourd'hui, elle participe à une journée de spécialisation sur l'accompagnement des victimes de violences intra-familiales, un domaine qu'elle connaît par cœur dans sa pratique de travailleuse sociale. Pourtant, une légère tension persiste dans sa nuque. Elle se souvient de sa réunion avec Antoine en mars dernier, où elle craignait encore que chaque regard soit une menace. Depuis, elle a fait du chemin avec le Dr Martin et appris à nommer ses mécanismes de défense, mais l'idée de se retrouver dans une salle de classe avec vingt inconnus réactive son hypervigilance. Elle embrasse Adam avant de le laisser à l'école et se répète que cette formation est une chance, pas un examen de passage.
+Sur le formulaire de la formation, Djamila hésite devant la ligne « fonction ». Elle écrit « travailleuse sociale », puis ajoute le nom de l’association. Elle est venue pour une spécialisation sur l’accompagnement des victimes de violence. Au moment d’entrer, elle entend deux personnes débattre du temps qu’il faut consacrer au suivi.
 
 Elle s'installe au troisième rang, déballant son carnet de notes et ses stylos avec un soin méticuleux. Autour d'elle, l'ambiance est déjà électrique. Un groupe de participants, visiblement issus de la même structure départementale, occupe le fond de la salle et discute bruyamment. Ils semblent avoir un avis tranché sur tout, notamment sur la nouvelle réforme des foyers d'hébergement. Djamila écoute, les sens en alerte. Elle remarque que les autres stagiaires, initialement silencieux, commencent à hocher la tête en cadence avec les leaders du groupe du fond. Une stagiaire assise à côté d'elle, Julie, semble d'abord hésitante, puis finit par murmurer son accord avec une affirmation pourtant très contestable sur les durées de séjour.
 
@@ -47,13 +47,13 @@ Pour contrer l'influence immédiate des leaders d'opinion, il est efficace d'imp
 ### 3. La recherche d'un allié de pensée
 Dans les expériences d’Asch, rompre l’unanimité réduisait la pression à se conformer dans ce dispositif. En formation, on peut demander à entendre les avis qui n’ont pas encore été exprimés, sans supposer qu’un regard ou un silence révèle un désaccord.
 
-## Évolution de Djamila et affirmation de sa perspective
+## La réserve au tableau
 
-Au retour de la pause déjeuner, Djamila sent que l'atmosphère du groupe est pesante. Le projet sur lequel ils travaillent s'enlise dans une vision simpliste qui ne rend pas justice à la complexité des parcours des femmes qu'elle aide au quotidien. Elle repense à son passé, à ces années où elle se taisait pour maintenir une paix fragile avec Samir. Elle comprend maintenant que sa crainte d’exprimer un désaccord fait écho à des échanges avec Samir et à certains repas de famille. Mais aujourd'hui, elle n'est plus cette femme qui se cache derrière son armure de glace. Elle se souvient de la fierté qu'elle a ressentie en présentant son protocole à l'association en mai dernier. Elle sait que sa voix a de la valeur.
+Pendant la mise en commun, le porte-parole du groupe résume les priorités sans mentionner le suivi psychologique. Djamila attend qu’il ait fini. Elle dit qu’elle ne signerait pas le résumé tel quel : dans le cas proposé, personne ne sait qui recontactera la bénéficiaire après le rendez-vous.
 
-Lors de la session de mise en commun, le leader du groupe du fond prend la parole pour résumer leur position, évacuant d'un revers de main la nécessité du suivi psychologique long format. Djamila sent son pouls s'accélérer, mais elle utilise la technique de l'écriture préalable qu'elle vient de pratiquer. Elle regarde ses notes. Elle lève la main, calmement. Elle ne sursaute pas quand l'homme en face d'elle hausse légèrement le ton pour affirmer son autorité. Elle utilise la méthode de l'avocat du diable, proposant d'envisager l'impact d'un échec de relogement si le traumatisme n'est pas traité en profondeur. Elle ne laisse pas son biais de confirmation transformer l'arrogance de cet homme en une menace insurmontable ; elle reste centrée sur les faits.
+Julie demande à voir le passage du dossier qui décrit ce rendez-vous. Un autre participant maintient qu’il manque du temps pour le suivi. Le formateur leur demande de noter les deux contraintes au tableau.
 
-À sa surprise, Julie, la stagiaire assise à côté d'elle, prend la parole à son tour pour la soutenir. L'unanimité factice s'effondre. Djamila réalise qu'en osant sortir du conformisme, elle n'a pas déclenché de catastrophe, mais a au contraire permis une discussion bien plus riche. Elle ne cherche plus à être sauvée par le groupe, ni à le sauver de ses propres erreurs. Elle se contente d'être là, présente et authentique. En sortant de la formation, elle sent une fatigue saine. Elle n'est plus la proie de son hypervigilance, mais l'actrice de sa propre pensée, capable de naviguer parmi les autres sans se perdre elle-même.
+Djamila n’obtient pas le classement qu’elle aurait choisi. En remballant ses affaires, elle recopie pourtant les mots « qui rappelle ? ». C’est la question qu’elle pourra ramener à l’association.
 
 ---
 

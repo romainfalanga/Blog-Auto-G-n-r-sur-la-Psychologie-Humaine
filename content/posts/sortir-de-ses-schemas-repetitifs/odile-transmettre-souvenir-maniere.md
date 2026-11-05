@@ -15,9 +15,9 @@ draft: false
 
 Le petit compteur avance sur l’écran pendant qu’Odile cherche le début de sa phrase. Elle appuie sur arrêt, réécoute les premières secondes et entend surtout le frottement de sa manche contre le téléphone. Lucie propose de poser l’appareil sur un coussin. Sa mère préfère déplacer la table pour avoir les mains libres. Elles veulent enregistrer une histoire de voyage avec Françoise, mais la préparation commence à ressembler à une émission beaucoup plus ambitieuse. Odile rit de cette disproportion et demande si elles peuvent essayer sans recommencer à la moindre hésitation.
 
-Depuis qu’elle a reçu la photographie de la recette manuscrite, Lucie aimerait conserver quelques récits de sa mère. Elle ne demande pas une histoire complète de la famille. Odile entend pourtant une urgence qu’elle n’a pas formulée. À soixante-quatorze ans, l’ancienne agente postale sait qu’elle ne peut pas transmettre tous les détails de sa vie. Elle se demande lesquels mériteraient d’être préservés et lesquels elle regretterait d’avoir laissés disparaître. Le projet lui plaît, mais elle ne souhaite pas transformer chaque conversation avec sa fille en collecte d’archives.
+Depuis la photo de la recette, Lucie aimerait garder quelques histoires qu’Odile lui raconte. Odile a préparé celle de l’autocar, mais elle a aussi sorti une boîte de photographies au cas où il faudrait se rappeler davantage de choses. Lucie lui demande si elles commencent par le voyage. Odile repousse la boîte. Elle est contente de lui raconter l’arrêt manqué ; elle n’a pas envie de passer l’après-midi à dater les photos.
 
-Françoise est morte il y a six mois. Certaines anecdotes lui reviennent facilement ; d’autres restent mêlées à des récits que sa sœur racontait avec plus de certitude. Pour ce voyage en autocar, Odile se souvient très bien d’une dispute absurde autour d’un arrêt manqué. Elle ne sait plus dans quelle ville elles se trouvaient ni qui avait commencé à parler. Elle hésite à enregistrer une histoire dont elle ne peut garantir tous les détails. Lucie, elle, s’intéresse surtout à leur manière de se répondre et à ce qui amuse encore sa mère.
+Du voyage en autocar, Odile retrouve très bien la dispute. Elle ne sait plus dans quelle ville elles se trouvaient ni laquelle des deux avait demandé de descendre. Françoise avait sa propre version. Odile fait mine de chercher un nom sur une photo, puis la retourne face contre table. « Je peux te dire ce que je revois. Pour la ville, tu n’auras pas mieux que moi. »
 
 Avant de relancer l’enregistrement, Odile pose deux conditions. Le fichier reste entre elles pour l’instant et elle pourra demander de retirer un passage. Elle ne veut pas raconter une remarque privée faite sur une autre personne pendant le voyage. Lucie accepte sans essayer de rendre le projet plus libre que sa mère ne le souhaite. Odile se sent alors moins chargée de produire un témoignage parfait. Elle peut choisir une histoire, préciser ce dont elle se souvient et laisser certaines parties de son passé hors du fichier.
 
@@ -29,7 +29,7 @@ Le NIH présente notamment le partage de connaissances et d’activités comme d
 
 La forme choisie modifie aussi ce qui est partagé. Une conversation permet d’interrompre, de poser une question et de changer de sujet. Un fichier peut circuler au-delà de son premier destinataire si les accords ne sont pas clairs. Une photographie peut montrer des personnes qui n’ont pas choisi d’être diffusées. Ces dimensions pratiques ne gâchent pas l’émotion du souvenir ; elles permettent de respecter les personnes concernées. Odile peut vouloir être entendue par Lucie sans souhaiter devenir la narratrice publique de toute l’histoire familiale. Cette limite ne rend pas son récit moins généreux.
 
-## Comment une transmission choisie devient-elle une obligation ?
+## Ce qu’un enregistrement choisit de garder
 
 ### On imagine qu’il faut tout sauver avant qu’il soit trop tard
 
@@ -43,7 +43,7 @@ Ne plus se souvenir de la ville ne signifie pas qu’Odile doit inventer un lieu
 
 Lucie pourrait avoir envie de poser une question sensible parce qu’elle découvre un détail nouveau. Odile peut répondre, différer ou refuser. Le fait d’avoir accepté un enregistrement ne donne pas un accord général à toutes les questions. Cela vaut aussi pour l’usage du fichier : le conserver, le transmettre à un cousin ou le publier correspondent à des décisions différentes. Une limite ne signifie pas nécessairement qu’un secret grave se cache derrière. Certaines informations sont seulement privées, difficiles à formuler ou sans intérêt à partager. Les respecter peut préserver la confiance dont une transmission future aurait besoin.
 
-## Trois pistes pour transmettre sans devoir tout dévoiler
+## Se mettre d’accord sur l’usage de sa voix
 
 ### 1. Choisir un destinataire et une intention assez simples
 
@@ -57,7 +57,7 @@ Odile préfère parler à sa fille plutôt que rédiger seule plusieurs pages. E
 
 Avant l’essai, Odile peut préciser qu’elle ne souhaite pas raconter une confidence de Françoise et qu’elle ne garantit pas le nom de la ville. Ces deux limites sont différentes : la première concerne son choix, la seconde ce qu’elle sait encore. Les exprimer donne à Lucie une manière plus juste d’entendre le récit. Elles peuvent aussi convenir qu’une nouvelle diffusion sera discutée auparavant. Cet accord ne garantit pas tout ce qui arrivera au fichier, mais il rend les préférences explicites. Si un souvenir soulève une accusation grave, un conflit ou une question de droits, il ne suffit pas d’un enregistrement familial pour établir la vérité. Des informations et des interlocuteurs adaptés peuvent être nécessaires, sans inventer les éléments manquants pour compléter l’histoire.
 
-## Odile raconte une scène et garde le reste ouvert
+## L’arrêt dont le nom leur échappe
 
 Cette fois, elle commence par le moment où les deux sœurs regardent l’autocar s’éloigner de l’arrêt qu’elles auraient dû prendre. Odile ne raconte pas qu’elle connaît les pensées exactes de Françoise. Elle décrit la phrase dont elle se souvient et la manière dont elle l’a comprise à l’époque. Lucie rit en découvrant que sa mère et sa tante se disputaient surtout pour savoir laquelle aurait dû arrêter l’autre de parler. La ville reste sans nom. L’histoire ne perd pas pour autant tout ce qui intéresse la fille : une complicité, un désaccord léger et une façon de chercher ensemble une solution.
 

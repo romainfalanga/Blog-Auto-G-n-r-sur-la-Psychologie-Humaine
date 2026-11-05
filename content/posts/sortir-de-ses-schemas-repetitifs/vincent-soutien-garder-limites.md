@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-Le papier du sandwich colle aux doigts de Vincent sur le banc derrière l’atelier. Demander du soutien en gardant ses limites lui paraît soudain plus délicat que répondre « ça va » à Denis. Son collègue remarque qu’il abandonne une phrase au milieu et demande s’il veut en parler. Vincent pense aux démarches, à sa fatigue et aux discussions récentes avec Cédric. Il aimerait être écouté sans devoir présenter un dossier complet sur leur vie.
+Le papier du sandwich colle aux doigts de Vincent sur le banc derrière l’atelier. Il replie le papier pour le glisser dans sa poche. Denis attend toujours la fin de la phrase que Vincent a commencée sur l’immeuble. Son collègue remarque qu’il abandonne une phrase au milieu et demande s’il veut en parler. Vincent pense aux démarches, à sa fatigue et aux discussions récentes avec Cédric. Il aimerait être écouté sans devoir présenter un dossier complet sur leur vie.
 
 « J’ai beaucoup de choses à coordonner en ce moment », commence-t-il. Denis demande ce qui arrive à Cédric. Vincent ne lui en veut pas de poser la question, mais il n’a pas envie de raconter des informations qui ne lui appartiennent pas. Il souhaite parler du temps fragmenté et du mal à décrocher. Le chemin entre son besoin et cette limite reste à formuler. Il ne veut ni se refermer ni laisser l’échange aller plus loin qu’il ne le choisit.
 
@@ -77,7 +77,7 @@ Quand Denis propose de reprendre le dossier du gestionnaire, Vincent répond : �
 
 Il termine par ce qu’il reçoit : « Ça me fait du bien de pouvoir dire que cette semaine est lourde. » Il n’a pas besoin d’annoncer que tout va mieux pour que l’écoute soit utile. Il peut remercier sans promettre un service équivalent ni une disponibilité sans limite. Si l’échange ne convient pas, il garde le droit d’en chercher un autre, avec un proche ou un professionnel.
 
-## Vincent commence à recevoir une écoute qu’il peut orienter
+## Dix minutes d’écoute avec Denis
 
 Denis répond qu’il comprend la limite concernant Cédric et demande ce qui prend le plus de place dans la semaine. Vincent parle du passage rapide entre son travail et les démarches du logement. Il reconnaît qu’il consulte parfois les messages pendant un temps personnel, même lorsqu’une date de réexamen est prévue. Il ne présente pas cette habitude comme la cause unique de sa fatigue : les tâches et les délais existent réellement.
 

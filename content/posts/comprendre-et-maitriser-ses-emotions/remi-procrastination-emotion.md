@@ -75,13 +75,13 @@ Après l'envoi, Rémi ferme le dossier jusqu'au moment prévu pour vérifier la 
 
 Il note ce qui l'aide réellement : nommer la crainte, écrire un brouillon court, recevoir une relecture limitée. Il garde aussi ce qui reste pénible. Une réponse correcte ne prouve pas que son inconfort était ridicule. Une réponse désagréable ne prouve pas que le report était la meilleure solution. Le retour fournit des données sur cet échange, pas un verdict général sur sa capacité à gérer toutes les démarches.
 
-## Rémi commence à envoyer une demande assez claire
+## La réponse ne couvre que deux questions
 
 Le brouillon contient d'abord trop d'explications. Julie lui demande laquelle des trois questions il veut vraiment faire comprendre. Rémi coupe une justification, garde le contexte utile et relit le message. Il sent encore l'irritation, mais elle ne décide plus de tout le créneau. Il envoie. Le geste est ordinaire ; l'effort qu'il lui demande reste réel. Il n'a pas besoin de le rendre spectaculaire pour reconnaître qu'il sort d'un report répété.
 
 La première réponse ne traite pas toutes les questions. Rémi ressent le même agacement qu'il anticipe dans la cour. Il pourrait en conclure qu'il a raison de détester les démarches et tout abandonner. Il choisit plutôt de montrer la réponse à Julie, de préciser le point manquant et de décider ensemble si une relance vaut leur temps. Leur choix reste lié à l'offre et à leurs besoins, pas à une obligation de réussir la conversation coûte que coûte.
 
-Au travail, il garde la distinction entre ce problème et les priorités de la veille. Un bilan reporté sur décision de Claire n'est pas une fuite émotionnelle qu'il doit réparer pendant sa pause. Une demande faisable qu'il évite par crainte d'une remarque peut, elle, mériter un essai limité. Rémi gagne surtout cette différence : il peut regarder le motif du report au lieu de lui appliquer une seule explication morale.
+Rémi arrive le lendemain devant le tableau de Claire. Le bilan est encore marqué « à relire », à l’endroit où elle l’a laissé après avoir choisi l’ordre des priorités. Il le reprend à l’heure convenue. Dans sa poche, son téléphone garde une question sans réponse du fournisseur. Celle-là, il a décidé de l’envoyer dès qu’il la retrouvera au calme.
 
 ---
 

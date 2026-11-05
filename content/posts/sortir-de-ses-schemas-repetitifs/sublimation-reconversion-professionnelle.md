@@ -13,11 +13,11 @@ contexte: "en période de reconversion professionnelle"
 draft: false
 ---
 
-Il est 16 mai 2026, Thomas parcourt le rayon poésie d'une petite librairie lyonnaise, les doigts effleurant des couvertures rugueuses. L'odeur du papier humide après la pluie lui rappelle ses années d'étudiant. Il est fatigué, comme une lampe qui vacille, mais quelque chose dans ce lieu le retient : l'idée d'une autre vie, loin du tableau noir et des copies à corriger. Dans sa poche, son dossier de candidature pour un poste d'éditeur transpire un peu, comme si même le papier partageait sa nervosité.
+Thomas parcourt le rayon poésie d'une petite librairie lyonnaise, les doigts effleurant des couvertures rugueuses. L'odeur du papier humide après la pluie lui rappelle ses années d'étudiant. Il est fatigué, comme une lampe qui vacille, mais quelque chose dans ce lieu le retient : l'idée d'une autre vie, loin du tableau noir et des copies à corriger. Dans sa poche, son dossier de candidature pour un poste d'éditeur transpire un peu, comme si même le papier partageait sa nervosité.
 
 Devant une table de manuscrits, il hésite à reprendre un paquet de nouvelles qu'il a commencé à annoter pour s'entraîner. Annoter, corriger, améliorer : ces gestes lui sont familiers. Ils ressemblent à son rôle d'enseignant, à ce besoin ancien de réparer et de rendre les choses acceptables pour les autres. Thomas sent qu'il veut transformer cette énergie, mais il ne sait pas encore si c'est un mécanisme sain ou une fuite déguisée. Il repense à ce 12 avril, lors du déménagement avec Émilie, où il était resté prostré devant les cartons, incapable de la moindre action. Aujourd'hui, l'envie d'agir revient, mais elle prend une forme différente, presque fébrile. Il pense à Émilie, assise ce matin sur le canapé, qui lui a demandé encore une fois s'il sait dire non.
 
-Le mot qui revient dans sa tête aujourd'hui est sublimation en période de reconversion professionnelle. Il l'a lu hier soir dans un article, mais il n'est pas sûr de distinguer la sublimation d’une habitude de secours née pendant une période d’épuisement. Il se souvient des derniers mois : la réunion où il a cédé au protocole de la collègue Valérie par simple besoin de maintenir l'harmonie du groupe, la dispute en cuisine le 15 mars où il est redevenu le sauveur, et les moments où la paralysie décisionnelle l'empêche d'envoyer un simple e-mail. Ici, entre les livres, il veut comprendre si transformer sa souffrance en projet créatif peut être une voie de salut, ou si c'est simplement encore un moyen de s'effacer derrière une action utile.
+Il a apporté une page annotée dans son carnet. À deux reprises déjà, il a promis de la montrer à quelqu’un puis l’a gardée dans son sac. La libraire lui a parlé d’un atelier de lecture de manuscrits. Il hésite entre demander comment s’y inscrire et proposer tout de suite de l’aider à l’organiser.
 
 ## Définition de la sublimation
 
@@ -85,9 +85,9 @@ Exercice concret :
 
 Durée : sessions de 10 minutes, pratique progressive.
 
-## Évolution de Thomas : transformer son besoin de plaire
+## Venir une fois pour voir
 
-Dans la librairie, Thomas reprend son cahier. Il se rappelle la réunion du 18 mars où il avait accepté le protocole de Valérie sans rien dire, et le malaise que cela lui a laissé. Depuis, il a appliqué l'exercice d'inventaire appris après l'article sur la surgénéralisation. Il remarque qu’il propose souvent de corriger gratuitement : ce n'est pas forcément un signe de vocation mais souvent une réponse à sa peur de perdre l'approbation. Cette prise de conscience marque une évolution majeure par rapport à sa paralysie de Lyon, où il subissait ses émotions sans pouvoir les nommer.
+Dans la librairie, Thomas ouvre son cahier à la page qu’il a reprise. Depuis le dernier cours, il essaie de regarder d’abord ce qu’une consigne demande avant d’en tirer une conclusion sur son auteur. Il montre deux remarques à la libraire et lui demande si ce genre de lecture a sa place dans l’atelier. Elle lui donne une date et lui dit qu’il pourra venir une fois pour voir.
 
 Aujourd'hui, il écrit un petit contrat personnel. Il choisit la technique de redirection créative : monter un atelier payant et limité à six participants sur l'art de la relecture pour auteurs débutants, avec un tarif accessible et trois sessions au maximum. Il sent la résistance, l'ancienne peur de décevoir, mais il a déjà pratiqué dire non en proposant une alternative à Émilie quand elle lui a demandé d'annuler sa course matinale pour aller aider Antoine. Le souvenir de cette discussion qui a mal tourné le 15 mars le guide désormais vers une autre posture : il propose, il cadre, il tient.
 
@@ -100,5 +100,3 @@ Thomas conserve ses acquis précédents : la différenciation entre faits et int
 Le projet créatif donne à Thomas une façon d’essayer le travail éditorial. Il peut l’adapter à ses moyens ou s’arrêter si la fatigue devient trop importante.
 
 Si l’épuisement persiste ou gêne le quotidien, un médecin ou la santé au travail peut aider à en évaluer les causes et à chercher des aménagements.
-
-Demander de l'aide est une force, et la transformation de vos énergies vers un projet professionnel viable se construit avec des limites, des essais encadrés et un soutien extérieur.

@@ -13,11 +13,9 @@ contexte: "après une rupture amoureuse"
 draft: false
 ---
 
-Monique trie des photos de vacances avec Jean-Claude dans son salon aujourd'hui, le 20 mai 2026. Le papier glacé crisse sous ses doigts, certaines images collent encore légèrement à cause d'une humidité ancienne. En regardant un cliché pris en Bretagne, elle se convainc que tout était parfait, comme si les disputes et les silences d'autrefois s'étaient effacés d'un trait. Deux pensées se mêlent : le séjour lui paraît parfait et certains signes de la maladie lui semblent plus évidents qu’à l’époque.
+Monique retrouve la date au dos d’un tirage de Bretagne. Jean-Claude rit sur la photo. Elle regarde sa veste, la façon dont il tient sa main, et cherche un signe de ce qu’elle n’a appris qu’après. Elle ne se rappelle pas avoir pensé à la maladie ce jour-là. Elle se rappelle qu’elle avait froid, et qu’ils n’étaient pas d’accord sur la route du retour.
 
-Elle repose une photo où l'on voit Jean-Claude rire, la lumière sur sa joue, et sent une résistance familière face à Jacques, qui lui propose récemment d'emménager ensemble. Depuis sa visite chez le notaire, Monique sait que ses jugements se voient altérés par des règles heuristiques comme la peak-end rule. Elle se souvient de cette anxiété financière irrationnelle sur le port avec Lola, où la voix de son père artisan lui dictait de refuser une simple glace. Aujourd'hui, c'est la voix de son passé avec Jean-Claude qui semble lui dicter de refuser un nouveau bonheur. Pourtant, cette conviction que tout était mieux avant la freine encore, et elle sent la peur de trahir la mémoire de son mari prendre des formes plus subtiles.
-
-À 62 ans, ancienne professeure de français, elle reconnaît les figures de rhétorique du cœur : la nostalgie, la culpabilité, la loyauté familiale. Elle perçoit clairement comment ses loyautés invisibles, ces dettes morales envers ses parents et son défunt époux, s'immiscent dans son tri de photos pour transformer son deuil en une interdiction de changer. Mais aujourd'hui, elle veut comprendre pourquoi sa mémoire la joue ainsi, pourquoi elle réécrit l'histoire pour rendre le présent nécessairement plus pauvre. Elle attrape son carnet, l'outil qu'elle a commencé à utiliser pour objectiver ses souvenirs, et décide d'observer ce phénomène comme une enquête, plutôt que comme une condamnation.
+Elle pose le tirage près du carnet dans lequel elle avait copié la phrase de Jean-Claude en mars. Tout à l’heure elle l’aurait raconté comme un très beau séjour. Elle pourrait le raconter maintenant comme le moment où elle aurait dû remarquer quelque chose. La date au dos est la même dans les deux cas.
 
 ## Définition du biais rétrospectif
 
@@ -71,15 +69,11 @@ Il s'agit de choisir une personne de confiance, un ami ou un membre de la famill
 
 Pour Monique, cela peut être sa fille Isabelle ou sa voisine Geneviève, selon l'épisode. Elle doit toutefois se prémunir contre les jugements hâtifs car l'objectif n'est pas de valider une version bonne ou mauvaise, mais d'identifier les distorsions.
 
-## Évolution de Monique face à ses souvenirs
+## Au dos du tirage
 
-Aujourd'hui, après avoir trié ses photos et après la séance d'écriture, Monique s'assoit près de la fenêtre et prend son carnet. Elle applique la méthode du journal de faits datés : à côté de la photo bretonne, elle note la date, le lieu et deux paroles échangées lors de la soirée. Puis elle écrit trois alternatives plausibles à la dispute qui a suivi, sans s'accabler. Elle sent quelque chose de différent : son souvenir n'est plus une vérité absolue mais un récit susceptible d'interprétation.
+Elle écrit la date, le nom du village dont Isabelle lui a parlé et deux choses dont elle est sûre. À part, elle note ce qu’elle a appris plus tard. Il manque une information entre les deux colonnes. Elle laisse cet endroit vide.
 
-Depuis son travail sur la peak-end rule, elle sait déjà nommer certaines dynamiques. Elle utilise désormais l'écriture contrefactuelle comme un outil d'analyse littéraire, en se demandant quel narrateur raconte la scène et avec quel biais. En relisant, elle trouve des détails qu'elle avait laissés de côté, des moments de fatigue de Jean-Claude, des crises financières mineures, des décisions partagées qui nuancent l'image d'une perfection nostalgique. Elle réalise que son sentiment d'imposture, qu'elle avait ressenti si fort lors de son premier rendez-vous avec Jacques au salon de thé, se nourrissait en partie de cette vision déformée d'un passé sans faille.
-
-Elle décide d'une petite expérience sociale en invitant Isabelle pour qu'elle lise un passage choisi et donne son point de vue. Leur échange est ponctué de silence, de phrases hésitantes, puis d'éclats de rire surpris face à une anecdote oubliée. Isabelle rappelle un incident banal que Monique avait éclipsé dans sa mémoire. Ce retour extérieur n'annule pas le chagrin, mais il desserre l'étau de la culpabilité et de l'idéalisation. Monique comprend qu'il est possible d'honorer Jean-Claude sans que son souvenir devienne un critère inatteignable pour le présent.
-
-Elle applique aussi l'exercice d'objectivité avec la voisine Geneviève au sujet d'un repas familial. Geneviève offre une perspective pratique et sans jugement, et Monique réalise que l'image d'un passé parfait lui servait parfois à éviter la responsabilité de choisir pour elle-même.
+Jacques demande à quelle heure elle viendra samedi. Elle lui répond qu’elle doit encore vérifier le train. Elle replace la photographie dans l’enveloppe, avec celle où ils avaient raté le cadrage. Elle ne choisit pas aujourd’hui ce que ces photos disent de sa maison.
 
 ---
 

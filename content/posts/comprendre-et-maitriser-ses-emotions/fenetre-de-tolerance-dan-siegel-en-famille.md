@@ -13,7 +13,7 @@ contexte: "en famille"
 draft: false
 ---
 
-Le parquet du couloir craque sous les pas de Théo. Isabelle, installée dans le fauteuil du salon, sent ses muscles se raidir instantanément. Son fils de seize ans s'approche de la cuisine, ses mouvements sont brusques, presque saccadés. Il cherche quelque chose dans le placard, fait tomber une boîte de céréales, et un juron étouffé franchit ses lèvres. Isabelle perçoit cette tension électrique qui émane de lui, et malgré ses années d'expérience en tant que psychologue scolaire, elle sent sa propre zone de calme se réduire. Elle repense à cette visite chez sa mère, Geneviève, il y a quelques jours, où elle avait dû jongler entre empathie cognitive et protection de soi. Aujourd'hui, la fatigue accumulée au collège pèse sur ses paupières, et l'odeur de la tisane au tilleul qui refroidit sur la table basse ne suffit plus à l'apaiser.
+La boîte de céréales tombe dans la cuisine. Isabelle l’entend rebondir deux fois. Elle vient de rentrer du collège et n’a pas encore posé son sac. « Ça va, Théo ? » demande-t-elle depuis le salon. Il met assez de temps à répondre pour qu’elle soit déjà debout.
 
 Théo finit par entrer dans le salon, le visage fermé, les yeux fixés sur son téléphone. Isabelle tente une approche douce, une habitude de médiatrice qu'elle porte depuis ses huit ans, cette époque où elle tentait déjà de réparer les silences entre ses parents. Elle lui demande comment s'est passée sa répétition de musique. La réponse claque, brève et sèche : "Laisse-moi tranquille, maman". Le ton est inutilement agressif. En une fraction de seconde, Isabelle sent une chaleur familière monter dans sa poitrine. Ce n'est pas de la colère, c'est une forme d'alerte, un sentiment d'injustice mêlé à une envie viscérale de quitter la pièce ou, au contraire, de hausser le ton pour exiger le respect qu'elle mérite.
 
@@ -51,13 +51,11 @@ Elle peut sentir le contact de la tasse ou regarder un objet autour d’elle. Ce
 
 « Je suis fatiguée et j’ai besoin d’une pause. On pourra reprendre quand tu voudras en parler », dit-elle. Lorsque le sujet demande une décision, elle peut proposer un moment concret. Théo garde lui aussi la possibilité de dire ce dont il a besoin.
 
-## Isabelle commence à poser des limites pour se protéger
+## De l’autre côté du canapé
 
-Théo est toujours là, debout au milieu du salon, les sourcils froncés. Isabelle sent la fatigue de compassion qui l'avait frappée au travail revenir. Mais au lieu de se forcer à être la psychologue parfaite ou la mère infaillible qui encaisse tout, elle choisit une voie différente. Elle se souvient de sa progression avec la méthode ABCDE quelques semaines plus tôt, lorsqu'elle avait réussi à ne pas céder à la culpabilité après un message de Geneviève. Elle décide de ne pas laisser ses pensées automatiques lui dire qu'elle est une mauvaise mère parce que son fils est de mauvaise humeur.
+Isabelle va lui demander de baisser d’un ton. Elle s’entend commencer, trop fort déjà. « Attends. Je viens de rentrer. On en reparle après ? » Théo marmonne quelque chose qu’elle ne comprend pas, puis ramasse les céréales.
 
-Elle pose sa tasse de tisane froide sur le guéridon et regarde Théo avec une sincérité désarmante. Elle ne cherche plus à masquer sa propre vulnérabilité. Elle lui explique calmement qu'elle a passé une journée difficile et que sa capacité à entendre ses reproches est, pour l'instant, au maximum de ce qu'elle peut supporter. Elle n'est pas dans le reproche, elle est dans le constat de ses propres limites. Elle sent un léger relâchement dans sa propre poitrine en exprimant cette vérité. Elle n'est plus l'enfant qui doit sauver tout le monde, elle est une femme de quarante-sept ans qui prend soin de son espace intérieur.
-
-Théo marmonne une excuse et s’assoit à l’autre bout du canapé. Isabelle accepte ce silence. Elle ne sait pas encore s’ils reprendront la discussion ce soir. Elle se sent plus disponible après avoir dit qu’elle était fatiguée.
+Un peu plus tard, il s’assoit à l’autre bout du canapé. Elle est tentée de reprendre la conversation là où elle s’est interrompue. Elle se décale pour lui laisser la place et lui demande seulement s’il veut la télécommande.
 
 ---
 

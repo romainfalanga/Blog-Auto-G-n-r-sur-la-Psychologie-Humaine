@@ -13,7 +13,7 @@ contexte: "après un échec"
 draft: false
 ---
 
-Sophie fixe l'écran de son téléphone, immobile dans l'entrée de son appartement. Un courriel vient d'arriver, celui qu'elle attendait depuis des semaines : la réponse pour le poste de directrice technique. Ses yeux parcourent les lignes avec une rapidité nerveuse. Les mots tels que expertise technique impressionnante et profil de qualité s'effacent instantanément derrière une phrase unique, située en milieu de paragraphe. Nous avons toutefois décidé de ne pas donner suite à votre candidature car nous recherchons une expérience plus affirmée en gestion d'équipe. Le verdict tombe comme une sentence définitive. Elle repose l'appareil sur le guéridon, le bruit du plastique contre le bois résonnant dans le silence de son couloir.
+Sophie fixe l'écran de son téléphone, immobile dans l'entrée de son appartement. Un courriel vient d'arriver, celui qu'elle attendait depuis des semaines : la réponse de l’association pour le poste de directrice technique. Ses yeux parcourent les lignes avec une rapidité nerveuse. Les mots tels que expertise technique impressionnante et profil de qualité s'effacent instantanément derrière une phrase unique, située en milieu de paragraphe. Nous avons toutefois décidé de ne pas donner suite à votre candidature car nous recherchons une expérience plus affirmée en gestion d'équipe. Le verdict tombe comme une sentence définitive. Elle repose l'appareil sur le guéridon, le bruit du plastique contre le bois résonnant dans le silence de son couloir.
 
 Elle se dirige vers sa cuisine, ses doigts frôlant machinalement le carnet de notes qu'elle transporte partout. Elle ne prépare pas son habituel thé vert, l'idée même de boire quelque chose lui semble insurmontable. Elle s'assoit à sa petite table ronde, le regard perdu vers les toits de la ville. Le souvenir de la réunion du mois dernier, où son collègue Marc s'était moqué de ses hésitations, remonte à la surface. À l'époque, elle s'était sentie humiliée, mais elle avait cru que décrocher ce nouveau poste effacerait tout. Aujourd'hui, ce refus est une confirmation brutale de ce qu'elle a toujours redouté : malgré tous ses efforts de perfectionniste, elle finit toujours par ne pas être à la hauteur.
 
@@ -57,18 +57,16 @@ Sophie se demande ce qu’elle dirait à Claire si elle recevait le même refus 
 
 Le courrier donne une raison : l’expérience en gestion d’équipe. Sophie ignore les autres éléments du recrutement et n’a pas besoin d’en inventer. Elle peut noter ce qu’elle sait, ce qu’elle pourrait demander et ce qui restera inconnu.
 
-## Évolution de Sophie et changement de regard
+## La réponse de l’association
 
-Sophie repose son stylo. Elle vient de terminer une liste dans son carnet, inspirée par les conseils de son amie Claire. Elle a noté tous les retours positifs contenus dans le mail de refus, ceux qu'elle avait ignorés lors de sa première lecture. Elle réalise que si l'entreprise a pris le temps de souligner son expertise technique impressionnante, ce n'est pas par simple politesse, mais parce que c'est une réalité. Elle repense à ses déjeuners à Nantes, à cette pression d'excellence qu'elle transportait comme un sac à dos trop lourd.
+Sophie relit le mail, puis essaie de résumer son contenu en une phrase. L’association a choisi quelqu’un qui a déjà dirigé une équipe ; elle ne sait pas ce qu’elle aurait pu faire autrement en entretien. Les deux phrases positives sur son travail sont bien là. Elle les montre à Claire en lui demandant de ne pas lui dire tout de suite que ce refus est une bonne chose.
 
-Elle décide d'appeler Claire. Au lieu de s'excuser pour sa défaite, elle commence la conversation en disant simplement qu'elle a passé une étape importante, même si le résultat n'est pas celui escompté. Elle sent une légère différence dans sa voix, une stabilité nouvelle. Elle n'est plus la petite fille qui attend la validation de son père ingénieur pour exister. Elle est une professionnelle qui a osé postuler à un poste de direction à vingt-huit ans, ce qui est en soi une preuve d'ambition et de courage. Elle ne se sent plus obligée de minimiser sa frustration ; elle exprime désormais ses émotions avec plus de justesse.
+Claire lui demande simplement si elle veut dîner avec elle. Sophie accepte et, avant de sortir, laisse son portfolio ouvert sur la table. Elle hésite à demander un retour plus précis à l’association. Elle écrira demain si elle en a encore envie.
 
-Le soir venu, Sophie s'installe sur son tapis pour sa séance de yoga dominicale. Elle ne cherche pas à réussir parfaitement chaque posture, elle se contente d'habiter son corps. Elle comprend que son parcours n'est pas une ligne droite vers la perfection, mais une succession d'expériences. En acceptant l'idée que l'échec est une information et non un jugement, elle s'autorise enfin à respirer. Son sentiment d’imposture n’a pas disparu, mais il ne dirige plus l'orchestre. Elle sait que demain, en retournant au bureau et en croisant Marc, elle n'aura plus besoin de se justifier. Sa valeur est ailleurs.
+Quand elle rentre, Sophie rouvre le mail. Cette fois elle lit la phrase sur l’encadrement jusqu’au point. Elle ne se sent pas mieux d’un coup. Elle se rappelle avoir voulu apprendre à mener une équipe avant même de voir l’annonce.
 
 ---
 
 Un refus peut faire mal et contenir un retour utile. Sophie peut entendre ce retour sans en faire une note sur l’ensemble de ses compétences.
-
-Apprendre à se détacher de la performance pour embrasser son humanité est un processus de longue haleine. Il demande de la patience, de la douceur envers soi-même et une volonté constante de remettre en question les certitudes négatives de notre esprit. Vous n'êtes pas la somme de vos résultats professionnels ou sociaux ; vous êtes une personne en constante évolution, riche de ses tentatives autant que de ses réussites.
 
 Si ce sentiment d'incapacité devient trop lourd à porter ou s'il paralyse votre quotidien, solliciter l'aide d'un professionnel de la psychologie est une démarche constructive. Un thérapeute pourra vous accompagner pour déconstruire ces schémas profonds et vous aider à retrouver la liberté d'agir sans la peur constante du jugement. Se faire aider constitue le premier pas pour transformer un revers en un nouveau point de départ.

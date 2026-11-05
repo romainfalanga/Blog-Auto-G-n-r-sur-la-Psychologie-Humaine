@@ -43,7 +43,7 @@ Cette distinction ne sert pas à soupçonner systématiquement ses perceptions. 
 
 Une observation utile reste assez courte pour déboucher sur un choix. Si l’on analyse sans fin son fonctionnement, cette recherche peut devenir une autre manière de s’éloigner de la conversation. Élise n’a pas besoin de comprendre toute son histoire avant d’entrer au jardin. Elle peut constater qu’elle anticipe un reproche et décider de demander l’avis réel de Mireille. La connaissance de soi n’est pas un préalable parfait à l’action. Elle se construit aussi après les échanges, à partir des différences entre ce que l’on attendait et ce qui s’est effectivement passé.
 
-## Trois démarches pour élargir sans minimiser
+## Vérifier une lecture sans effacer les faits
 
 ### 1. Revenir à deux ou trois repères présents
 
@@ -63,11 +63,11 @@ Une perspective alternative doit pouvoir accueillir ce qui fait mal. La demande 
 
 Il est possible de comparer ensuite les conséquences des différentes lectures. Si tout est inutile, Élise abandonnera peut-être sans consulter. Si les moyens manquent pour cette forme précise, elle pourra demander ce qui mérite d’être conservé ou différé. Cette comparaison ne prouve pas qu’une idée est vraie parce qu’elle facilite l’action. Elle montre ce qu’elle entraîne et invite à vérifier ses fondements. La perspective doit rester liée aux observations. Sinon, elle devient une nouvelle histoire séduisante qui risque de nier le besoin de ressources ou les limites exprimées par les personnes concernées.
 
-## Élise découvre un avis moins simple que prévu
+## Le refus est toujours dans la chemise
 
 Pendant la discussion, Mireille propose de préserver un temps d’échange au jardin et de différer les travaux. Cédric évoque un petit matériel mobile qui pourrait être étudié, sous réserve de validation. Élise n’obtient pas un accord général sur son idée initiale. Une partie de la demande doit être revue et les contraintes d’accès persistent. Elle ressent une pointe de déception quand Mireille préfère un format plus réduit. Elle peut pourtant l’entendre comme une préférence à discuter, plutôt que comme un rejet de sa personne. Le groupe écrit ce qui reste possible et ce qui demande une décision extérieure.
 
-En repartant, Élise note deux observations : elle avait interprété le silence comme un reproche ; la conversation a apporté plusieurs avis, sans annuler le refus. Elle ne transforme pas cette note en règle selon laquelle ses inquiétudes seraient toujours fausses. Un autre jour, un désaccord sera réel. Elle souhaite seulement se souvenir qu’elle peut vérifier avant de répondre à une intention supposée. Le portail se referme derrière elle. Le dossier reste incomplet, mais elle connaît un peu mieux la façon dont sa déception colore parfois les informations qu’elle attend.
+Élise range la copie du refus dans la chemise. Le financement des bacs ne revient pas avec la conversation. En revanche, Mireille a pris un crayon pour entourer le seul passage du jardin où elle pense qu’un petit échange resterait possible. Élise repart avec ce cercle sur le plan et une heure pour aller le vérifier.
 
 ---
 

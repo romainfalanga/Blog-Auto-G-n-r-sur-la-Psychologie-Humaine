@@ -13,7 +13,7 @@ episode: 8
 draft: false
 ---
 
-Les cartes de commandes se mélangent sur la table. Éloi cherche l'ordre qu'il trouve si facilement à la fin de la séance précédente. Sa progression lui paraît soudain annulée. L'exercice se déroule au centre de formation, avec des bacs vides et un scénario prévu pour travailler l'organisation. Aucun service réel ne dépend de sa réponse. Il ressent pourtant le besoin de retrouver immédiatement son aisance, comme si une hésitation prouvait qu'il n'apprend rien entre deux cours.
+Les cartes de commandes se mélangent sur la table. La dernière fois, Éloi savait par laquelle commencer. Il déplace la première, puis voit que la formatrice a changé un élément de la consigne.
 
 La formatrice modifie une demande dans le scénario. Éloi remet une carte au mauvais endroit, le remarque et recommence toute la suite. Il sait désormais demander une aide précise, mais il voudrait ne plus avoir à le faire sur ce point. L'exercice est censé préparer l'activité ; dans sa tête, il devient une épreuve où chaque essai doit être meilleur que le précédent. Le résultat moins fluide lui semble donc une régression incompréhensible.
 
@@ -51,7 +51,7 @@ Après une mauvaise séquence, Éloi veut recommencer immédiatement plusieurs f
 
 Il ressent aussi le besoin de prolonger le travail au foyer pour rattraper. Or le matériel de simulation n'y est pas disponible et sa semaine reste chargée. Il peut garder une question ou revoir un repère autorisé, sans transformer toute sa vie hors formation en prolongement d'exercice. Les conditions de pratique doivent être organisées avec les responsables. Le droit à l'essai comprend une place réelle, pas seulement une invitation à travailler plus après.
 
-## 3 techniques pour organiser des essais qui enseignent quelque chose
+## Faire une erreur dans un cadre où on peut reprendre
 
 ### 1. Définir le point travaillé et les limites de l'essai
 
@@ -75,13 +75,13 @@ Si la même erreur revient, Éloi ne se contente pas d'ajouter une répétition.
 
 S'il devient trop fatigué pour examiner le retour, ils prévoient une reprise. Éloi note où ils s'arrêtent et ce qui reste à vérifier. L'arrêt n'est pas une sanction ni une preuve que le métier n'est pas pour lui. Il protège la possibilité d'apprendre dans des conditions suffisantes. Si le manque de temps empêche durablement les reprises nécessaires, ce besoin doit être porté dans le cadre de la formation.
 
-## Éloi commence à utiliser une erreur dans un cadre prévu
+## Une carte déplacée
 
 La simulation suivante reste hésitante. Éloi replace une carte, puis s'arrête pour expliquer la dépendance qu'il vient de manquer. La formatrice confirme une partie du raisonnement et corrige l'autre. Il obtient moins de fluidité qu'il ne le souhaite, mais davantage d'informations sur la méthode. Ils choisissent de reprendre ce point à une autre séance, sans ajouter une longue série pour terminer sur une réussite forcée.
 
 Au restaurant, Éloi demande à Cédric comment relier ce travail à une situation accompagnée. Le chef propose un moment et rappelle les validations qui restent nécessaires. Éloi ne traite pas la simulation comme une preuve qu'il peut désormais tout gérer. Il lui apporte une question plus claire. Le lien entre la formation et le poste se construit par une discussion concrète, pas par un transfert qu'il devrait réussir automatiquement.
 
-Au foyer, il laisse son carnet fermé pendant une partie de la soirée. Quentin lui demande s'il ne veut pas revoir l'exercice. Éloi répond qu'il sait ce qu'il doit reprendre et qu'il dispose d'un moment prévu. Il reste déçu par son manque d'aisance, mais n'a plus à effacer cette déception par des répétitions immédiates. Une prochaine occasion existe, avec un objectif et un appui. Cela lui permet de faire une place au repos sans raconter qu'il abandonne.
+Quentin lui demande s’il ne veut pas revoir l’exercice avant de manger. Éloi rouvre son carnet, regarde l’heure qu’il a notée avec Cédric, puis le referme. Il aimerait encore trouver l’ordre des cartes tout seul. Il leur reste un moment prévu pour en parler en cuisine.
 
 ---
 

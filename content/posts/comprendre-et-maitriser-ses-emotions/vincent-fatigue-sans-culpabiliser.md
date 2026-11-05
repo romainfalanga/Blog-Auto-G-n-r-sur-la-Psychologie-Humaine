@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-La fermeture du casier accroche la manche de Vincent. Reconnaître sa fatigue sans culpabiliser lui semble plus difficile que terminer sa journée de technicien ferroviaire. À quarante-quatre ans, il connaît le besoin de vérifier un geste quand l’attention baisse. Pourtant, dans le vestiaire, il se reproche déjà de vouloir rentrer sans passer chercher une étagère commandée pour leur appartement. Il relit le bon de retrait sans retenir l’horaire indiqué.
+La fermeture du casier accroche la manche de Vincent. Il tire dans le mauvais sens, puis lâche prise et remonte d’abord le tissu. Il a déjà relu deux fois la même consigne en fin de poste. À quarante-quatre ans, il connaît le besoin de vérifier un geste quand l’attention baisse. Pourtant, dans le vestiaire, il se reproche déjà de vouloir rentrer sans passer chercher une étagère commandée pour leur appartement. Il relit le bon de retrait sans retenir l’horaire indiqué.
 
 Denis lui demande s’il veut marcher jusqu’à l’arrêt avec lui. Vincent répond qu’il reste des choses à faire. La phrase ne décrit pas vraiment une urgence : la commande peut attendre. Elle lui permet surtout de ne pas dire qu’il est fatigué. Depuis leur week-end, il distingue mieux son affection pour Cédric de son irritation devant les démarches. Mais il continue à comparer leurs difficultés, comme si la mobilité réduite de son compagnon retirait toute légitimité à ses propres limites.
 
@@ -79,7 +79,7 @@ Le lendemain, il regarde aussi ce qui doit changer dans l’organisation. Se rep
 
 Cette séparation compte : si chaque pause se transforme en séance d’amélioration de la vie commune, elle reste du travail. Vincent peut réserver un temps pour chercher des solutions et un temps pour ne rien résoudre. Les deux ont leur place, avec des durées adaptées à ce qui est possible, sans programme idéal à suivre à la lettre.
 
-## Vincent commence à ajuster son effort avant la saturation
+## L’étagère peut attendre samedi
 
 Le samedi, Vincent rejoint Cédric devant le plan du meuble. Il explique que le report lui permet de regarder les dimensions sans se presser. Cédric propose l’emplacement qu’il souhaite et discute de l’accès autour de l’étagère. La conversation concerne un aménagement concret de leur logement ; elle ne devient pas une évaluation de qui fait le plus d’efforts dans le couple.
 

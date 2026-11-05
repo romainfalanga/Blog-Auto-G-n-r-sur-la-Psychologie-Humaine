@@ -19,7 +19,7 @@ Françoise est morte il y a six mois. Odile, ancienne agente postale de soixante
 
 Odile pose la feuille sur la table et commence à mesurer la farine. Puis elle s’arrête. Préparer ces biscuits lui plaît, mais elle se demande si ce plaisir signifie qu’elle transforme sa sœur en petite anecdote commode. À l’inverse, conserver chaque papier lui semble déjà trop pesant. Sa fille Lucie lui a proposé de photographier quelques documents. Odile n’a pas répondu, craignant que photographier revienne à se débarrasser, et que se débarrasser revienne à oublier. Aucun choix ne paraît simplement matériel.
 
-Quand Josiane frappe pour apporter des pommes, Odile tient encore la feuille. Sa voisine ne lui demande pas si elle va mieux. Elle regarde les ingrédients et reconnaît une recette qu’elle n’a jamais goûtée. Odile pourrait ranger rapidement le papier. Elle choisit plutôt de raconter l’histoire du beurre. Son rire arrive avec une douleur tout aussi présente. La conversation ne remplace pas Françoise. Elle offre pourtant quelques minutes où le souvenir peut exister autrement que dans un tiroir fermé.
+Josiane frappe pour apporter des pommes. Odile tient encore la feuille. « Tu sais faire ça ? » demande sa voisine. Odile lui montre l’annotation sur le beurre et essaie de la lire avec le ton de Françoise. Elle rit, puis doit reprendre sa respiration avant de finir la phrase. Josiane pose les pommes à côté de la farine et demande si elle peut rester pour goûter.
 
 ## Qu’est-ce qu’un lien qui continue après un décès ?
 
@@ -29,7 +29,7 @@ Cette place peut prendre des formes très différentes. Certaines personnes parl
 
 Pour Odile, la question n’est pas de choisir entre garder sa sœur auprès d’elle et reprendre sa vie. Elle cherche comment faire une place à ce qui demeure, tout en reconnaissant ce qui n’est plus possible. Elle peut aimer une recette sans la cuisiner chaque dimanche. Elle peut parler à Lucie d’un souvenir et vouloir ensuite discuter d’un film. Ce passage d’un sujet à l’autre ne prouve ni oubli ni refus du deuil. Il dit aussi que sa vie comporte plusieurs relations, besoins et intérêts, dont certains ne concernent pas Françoise.
 
-## Comment le souvenir prend-il place dans la vie quotidienne ?
+## Quand une recette revient
 
 ### Un détail peut toucher plus qu’une grande cérémonie
 
@@ -43,7 +43,7 @@ Odile imagine parfois qu’un tri serait une déclaration sur l’amour qu’ell
 
 Josiane connaît Odile depuis plusieurs années, mais pas toute son histoire familiale. En entendant la remarque sur le beurre, elle découvre une sœur moqueuse et précise, différente de l’image solennelle laissée par les conversations autour du décès. Partager n’efface pas la douleur et ne garantit pas un soulagement. Cela peut simplement élargir la façon dont une personne est racontée. Odile garde aussi le droit de ne pas répondre à toutes les questions. Un souvenir transmis n’oblige pas à ouvrir l’ensemble de son histoire ni à se rendre disponible pour les émotions de chaque interlocuteur.
 
-## Trois pistes pour choisir la place du souvenir
+## Choisir ce qu’on fait du papier
 
 ### 1. Distinguer ce qui compte de ce qui semble obligatoire
 
@@ -57,7 +57,7 @@ Au lieu d’organiser immédiatement tous ses souvenirs, Odile choisit seulement
 
 Lorsque Lucie appelle, Odile peut demander un échange qui ne consiste ni à être rassurée à tout prix ni à être interrogée sur ses progrès. Elle prépare une formulation simple : « J’aimerais te lire une remarque de ta tante, puis parler un peu avec toi. Je n’ai pas besoin qu’on décide aujourd’hui quoi faire de ses papiers. » Dire cela donne une indication utile à sa fille. Lucie conserve le droit de ne pas être disponible immédiatement ; elles peuvent chercher un autre moment. Les liens de soutien se construisent avec ces limites réelles. Si aucun proche ne convient ou si la souffrance devient difficile à traverser, une association de soutien au deuil ou un professionnel peut offrir un autre cadre, sans remplacer la personne morte.
 
-## Odile laisse la recette rejoindre son classeur
+## Les biscuits un peu trop cuits
 
 Les premiers biscuits sortent du four plus foncés que prévu. Odile en casse un pour regarder le milieu et annonce à Josiane que Françoise aurait trouvé matière à commentaire. La plaisanterie ne l’empêche pas de sentir de nouveau le manque. Elle ne cherche pas à choisir lequel de ces deux états serait le plus sincère. Sa voisine lui demande si elle veut continuer à parler de sa sœur ou vérifier la seconde plaque. Odile préfère la seconde plaque. Quelques minutes plus tard, elle revient elle-même à une anecdote.
 

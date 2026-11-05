@@ -13,11 +13,11 @@ contexte: "en amitié"
 draft: false
 ---
 
-Lucas marche le long du quai du métro, ses baskets frottant contre le béton humide. Dans sa poche, le groupe de discussion de la colocation s’active : un message collectif propose une sortie ce soir, avec une idée précise que tout le monde semble déjà valider. Il lit les réponses rapides de Maxime et Romain, des émojis, des rires, puis la formulation attendue : « On y va tous, non ? »
+Sur le quai, Lucas ouvre le groupe de la coloc. Maxime envoie le prix de la soirée, Romain répond qu’il y va, puis un troisième ami réserve. Lucas commence à taper « pareil » avant d’avoir regardé son solde.
 
 Il sent une pointe familière d’urgence. Son pouls s’accélère, non pas à cause d’un danger physique, mais d’une petite pression sociale qui le pousse à répondre oui avant même d’y avoir réfléchi. Il sait qu’à 25 ans, entre stage et mémoire à rendre, il devrait peut-être décliner. Ce mémoire, dont son tuteur a déjà critiqué la structure trop complexe, pèse sur ses épaules comme un rappel constant de son besoin de paraître impeccable. Mais l’idée de dire non l’effraie plus que l’idée de devoir courir après le métro pour être ponctuel. Ce soir, le choix collectif semble déjà scellé et il se surprend à imaginer ce que ses amis pourraient penser s’il n’adhère pas.
 
-Depuis quelques semaines, Lucas reconnaît mieux ces pièges. Après la séance d’entraînement mental où il a travaillé sur l’effet spotlight lors de son entretien à La Défense et ses exercices de respiration consciente, il sait détecter quand il joue un rôle pour plaire. Il se souvient de cette soirée d'avril où il avait embelli ses réussites en stage pour ne pas paraître à la traîne face à l'aisance de Romain. Mais l’effet bandwagon en amitié opère différemment : il n’expose pas seulement sa peur d’être jugé, il transforme ses désirs en réflexes collectifs. Aujourd’hui, il veut comprendre pourquoi il hausse le ton, plaisante plus fort et acquiesce, même quand il n’en a pas envie.
+Depuis quelques semaines, Lucas reconnaît mieux ces pièges. Il repense au chalet pour lequel il avait inventé un travail de dernière minute. Il se souvient de cette soirée d'avril où il avait embelli ses réussites en stage pour ne pas paraître à la traîne face à l'aisance de Romain. Mais l’effet bandwagon en amitié opère différemment : il n’expose pas seulement sa peur d’être jugé, il transforme ses désirs en réflexes collectifs. Aujourd’hui, il veut comprendre pourquoi il hausse le ton, plaisante plus fort et acquiesce, même quand il n’en a pas envie.
 
 Il regarde les murs du wagon défiler, le clinquant des publicités, le son lointain d’un vendeur à la gare, et se promet d’essayer autre chose que son oui automatique. Ce soir, il va tester une technique qu’il a lue : se donner une pseudo-décision. Il compose une réponse neutre, puis la supprime, hésite, et finit par écrire : « Je vous rejoins peut-être un peu plus tard, je vous tiens au courant. » Le message part. Un soulagement discret s’installe, différent des petites victoires faciles qu’il cherche d’habitude pour masquer son sentiment d’imposture.
 
@@ -55,7 +55,7 @@ Lucas se demande ce qu’il souhaite cette semaine et quelle somme il peut engag
 
 Lucas peut préparer une réponse courte pour les fois où il hésite. Des formulations comme « Je passe cette fois, merci d’avoir pensé à moi » ou « Je préfère y réfléchir et te dire plus tard » lui donnent deux options. Lucas s’entraîne avec un ami de confiance, Romain, à jouer des épisodes où il s’oppose sur un choix de musique pour la soirée ou sur une décision de groupe. Répéter une phrase peut lui donner des mots quand il hésite. Cela ne garantit pas sa réaction ni celle des autres.
 
-## Évolution de Lucas face au groupe
+## Lucas répond au groupe
 
 Ce soir, dans le salon de la colocation, la proposition revient : un événement très en vogue dans la ville, avec un coût élevé et une organisation de dernière minute. Maxime en parle avec son énergie habituelle, Romain rit, puis les regards glissent vers Lucas comme s’il devait valider l’idée. Il sent l’ancienne réaction : sourire et acquiescement. Mais quelque chose a changé depuis son travail sur l’effet spotlight et sa prise de conscience autour de la honte en colocation. Il reconnaît le scénario. Il se rappelle son hésitation face à l'offre d'emploi à Lyon : sa peur de perdre ses acquis l'avait paralysé, mais aujourd'hui, il refuse que cette même peur dicte ses interactions sociales.
 
@@ -69,6 +69,6 @@ Il reste conscient que certaines occasions demanderont plus d’énergie. Refuse
 
 La pression du groupe n’est pas une fatalité. L’effet bandwagon en amitié peut être puissant parce qu’il joue sur notre besoin d’appartenance, mais il n’a pas à décider pour nous. En identifiant les mécanismes comme la pression immédiate, l’alignement d’opinions ou l’imitation d’image, et en pratiquant des gestes simples, il devient possible de faire des choix plus personnels sans sacrifier ses relations.
 
-Si vous vous reconnaissez dans le parcours de Lucas, rappelez-vous que refuser n’est pas nécessairement perdre. Ce sont des pratiques répétées qui reconstruisent une honnêteté relationnelle durable. Si ces difficultés persistent ou génèrent une détresse importante, il est utile de consulter un professionnel pour travailler ces schémas en profondeur.
+Si la crainte d’être laissé de côté vous amène souvent à accepter des engagements que vous regrettez, vous pouvez en parler à un professionnel.
 
 Changer la manière dont on répond au groupe demande du temps, mais chaque opinion exprimée selon ses propres valeurs compte. L’effet bandwagon peut exercer une influence, mais il est possible d'apprendre à avancer avec ses propres appuis.

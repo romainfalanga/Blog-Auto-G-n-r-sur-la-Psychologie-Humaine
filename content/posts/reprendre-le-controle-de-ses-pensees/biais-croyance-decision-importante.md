@@ -13,11 +13,9 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Il est 11h22, le 16 mai 2026, et Margot est assise dans sa voiture garée près d'un petit parc public de Lyon. Elle tient entre ses doigts une enveloppe imprimée qui vient d'arriver par courrier recommandé : une proposition de collaboration longue durée avec une structure qui pourrait stabiliser ses revenus de coach. L'odeur de poussière de papier flotte quand elle déplie la feuille. Autour d'elle, un écureuil gratte le tronc d'un chêne, un vélo passe, quelqu'un rit en refermant la porte d'une boulangerie. Son regard se fixe sur une phrase du contrat qui promet visibilité mais impose des deadlines serrées et des contraintes de méthode.
+L’enveloppe est ouverte sur le siège passager. Margot a lu les deux premières pages au calme dans la voiture, puis s’est arrêtée à la clause sur les échéances. C’est une proposition de collaboration plus longue que le projet d’ateliers reçu en avril. À voir cette clause, elle se dit qu’elle retrouvera les contraintes de son ancien poste, à ceci près qu’elle aura signé pour y revenir.
 
-Dans sa poitrine, Margot ressent une hésitation familière. Elle pense à ses vingt-cinq ans dans le commerce, aux tableaux Excel, aux réunions où elle portait l'étiquette de performante. Ce contrat ressemble étrangement à l'offre rigide du 5 avril dernier qu'elle avait fini par écarter pour protéger son authenticité. Elle pense aussi aux trois refus de prospects du mois dernier qui l'ont poussée au renoncement dans les rayons de ce supermarché lyonnais. Depuis le 7 mai, après cette série de refus, elle est souvent tentée de conclure que ses efforts sont vains. Pourtant, elle sait aussi que sa mentor Sylvie l'a encouragée à tester plusieurs formats et que la méditation et le journal de gratitude lui ont rendu des nuits moins agitées.
-
-Elle ouvre son carnet de notes, où sont inscrits ses rituels de coach débutante, et griffonne le titre "Décision : acceptation contrat ?". Sans lever la main, sa plume tremble légèrement, non pas de peur de l'encre, mais d'un autre tremblement : celui d'une croyance tenace qui lui chuchote que ce contrat va la transformer en version d'elle-même qu'elle ne reconnaît pas. À cet instant précis, Margot sent le poids invisible d'une pensée qui colore toute sa perception. Elle prononce à voix basse le concept qu'elle s'apprête à explorer : le biais de croyance face à une décision importante.
+Elle fait courir son doigt le long de la phrase. Le délai figure dans le document. En revanche, elle ne voit aucune ligne sur la façon de conduire ses séances. Elle note les deux informations séparément. Cette fois, son premier réflexe n’est pas de donner une réponse : elle veut parler à la personne qui a rédigé le contrat.
 
 ## Définition du biais de croyance
 
@@ -61,20 +59,14 @@ Ce journal sert à garder la trace de ce que Margot sait avant de décider et de
 
 Si Margot accepte le contrat, elle s'engage à une réévaluation après deux mois. Une fois le délai passé, elle relit la note et compare les attentes aux résultats réels. Ce retour d'expérience sert à corriger la tendance à généraliser un échec isolé en verdict global. Documenter la décision réduit la tentation d'interpréter l'issue uniquement à travers des croyances antérieures et crée une base factuelle pour mesurer la réalité de ses craintes.
 
-## Évolution de Margot face à ses certitudes
+## Une réponse conditionnelle
 
-Margot relit sa liste de contre-exemples et tient son stylo avec plus d'assurance. Elle appelle la personne responsable du partenariat. Une conversation claire s'installe et elle obtient la possibilité d'ajouter une clause de flexibilité sur les méthodes utilisées. Cette victoire concrète affaiblit la croyance automatique selon laquelle accepter signifierait renoncer à son identité de coach.
+Au téléphone, Margot demande ce qui relève du calendrier et ce qui relève de sa méthode de travail. La réponse l’aide, mais laisse ouverte la possibilité de nouveaux créneaux en cours de programme. Elle demande que les conditions de modification soient écrites.
 
-Elle relit ensuite la clause de flexibilité et distingue ce qu’elle protège de ce qu’elle n’aborde pas. En pensant à sa respiration lors d’un dîner tendu avec Philippe, elle choisit de prendre son temps avant de poursuivre la négociation.
-
-Enfin, elle remplit son journal de décision : acceptation conditionnelle, période d'essai de trois mois, critères de succès clairs concernant le retour des clients et le respect de sa méthode. En se souvenant d'un travail précédent sur ses moteurs internes de perfection, Margot s'accorde la permission d'ajuster le partenariat plutôt que de tout rejeter. Ce choix n'efface pas ses peurs, mais il y répond par des actions mesurées.
-
-Depuis l'épisode du 7 mai, elle remarque qu'elle est moins encline à céder à la résignation. Les outils qu'elle utilise déjà, comme son journal et les échanges avec Sylvie, lui servent de garde-fous. Elle sait maintenant qu'une croyance n'est pas une vérité immuable, mais une hypothèse à tester. Elle décide de présenter le contrat à une collègue, notant la manière dont un regard extérieur met en lumière des éléments qu'elle avait ignorés.
+Dans son carnet, elle note trois mois à l’essai. Il faudra encore s’entendre sur le nombre de séances, le délai de réponse des clients et la manière d’arrêter si cela ne fonctionne pas. Elle commence un mail, renonce à « je suis ravie d’accepter » et envoie les points à éclaircir. En descendant de voiture, elle sait au moins ce qu’elle attend de l’autre partie.
 
 ---
 
 Margot ne supprime pas soudainement toutes ses appréhensions, mais elle refuse de les laisser commander sa vie. Elle accepte le contrat à titre expérimental, avec des garanties écrites et un plan d'évaluation. Ce faisant, elle se rappelle que les décisions importantes gagnent en sagesse lorsqu'on confronte ses croyances à des preuves et à des actions mesurables.
-
-Si vous vous reconnaissez dans les hésitations de Margot, commencez par écrire la croyance qui vous freine et appliquez l'une des techniques proposées. Testez, mesurez, notez et réajustez. Ces gestes simples réduisent l'emprise du biais de croyance et redonnent de la liberté à vos choix.
 
 Si ces blocages persistent ou si la prise de décision génère une paralysie durable, il est utile de consulter un professionnel de la santé mentale ou un superviseur. Un accompagnement adapté peut aider à démêler les croyances enracinées et à retrouver votre capacité à choisir.

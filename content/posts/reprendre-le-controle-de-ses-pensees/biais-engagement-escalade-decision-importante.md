@@ -13,7 +13,7 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Karim fixe les chiffres rouges sur son écran de contrôle, le souffle court et les tempes battantes. Dans l'arrière-cuisine de son troisième restaurant, les bruits de vaisselle et les ordres criés par la brigade résonnent comme une cacophonie lointaine. Cela fait six mois qu'il injecte ses économies personnelles dans ce nouvel établissement situé en périphérie de Lyon, malgré les alertes de son associé Romain et les mises en garde de Sofia. Il se souvient encore de cette soirée de mars où il avait promis à sa femme de lever le pied, juste avant de replonger dans ce projet pharaonique. Aujourd'hui, le constat est amer : la fréquentation ne décolle pas et les dettes s'accumulent.
+Karim refait le total. Le résultat n’a pas changé. De l’autre côté de la porte, la brigade débarrasse le dernier service de son troisième restaurant, près de Lyon. Cela fait six mois que les travaux, puis les premiers services, absorbent une partie de ses économies. Romain lui avait demandé de revenir sur les dépenses avant même l’ouverture. Karim tourne l’écran vers la cloison, comme si les chiffres pouvaient attendre eux aussi.
 
 Il fait défiler ses relevés bancaires, le pouce nerveux sur l'écran de son téléphone. Chaque retrait ressemble à une petite trahison envers l'avenir d'Amine, Lina et Sami. Il revoit le visage déçu de sa fille Lina lors de son dernier spectacle de danse, cet événement qu'il a encore manqué pour superviser une livraison de matériel. À l'époque, il s'était convaincu que ce sacrifice était temporaire, que le succès imminent justifierait tout. Mais ce soir, dans la lumière crue des néons de son bureau, la réalité le frappe : il s'accroche à ce restaurant non pas parce qu'il y croit encore, mais parce qu'il a déjà trop investi pour accepter de tout perdre. Cette sensation de vertige lui rappelle cruellement le soir où il avait reçu la vidéo de Sami perdant sa première dent alors qu'il s'enfermait déjà ici ; il réalise que le regret qu'il avait alors identifié n'était pas qu'une émotion passagère, mais le signal d'alarme d'un système de vie qui s'effondre.
 
@@ -57,7 +57,7 @@ Définissez un seuil et une date qui déclencheront un réexamen avec les person
 
 Comparez ce qu'impliqueraient une poursuite, un changement de stratégie et un arrêt. Incluez les ressources à engager, les sommes encore récupérables, les obligations et les effets sur l'équipe. Karim peut aussi regarder ce que chaque option laisse comme temps pour les autres restaurants et sa famille.
 
-## Évolution du personnage : Karim choisit de poser les armes
+## Reprendre les chiffres avec Romain
 
 Assis sur une caisse de transport retournée, Karim respire l'odeur de friture et de détergent qui imprègne les murs. Il vient de passer une heure à appliquer la technique du décideur externe. Il voit que fermer mérite d'être examiné avec Romain ; il leur reste à vérifier ce que cette décision impliquerait. Pour la première fois depuis des mois, il ne cherche pas d'excuse. Il accepte que son ambition l'ait conduit dans une impasse. Il repense à Amine qui lui demandait hier soir s'il serait là pour son tournoi de football ce week-end. Habituellement, Karim aurait répondu par un peut-être évasif, l'esprit déjà occupé par les problèmes de livraison. Mais cette fois, quelque chose a changé.
 

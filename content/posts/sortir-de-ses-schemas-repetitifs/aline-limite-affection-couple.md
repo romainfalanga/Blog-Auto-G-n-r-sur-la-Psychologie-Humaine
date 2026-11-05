@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-« Vendredi, j’aimerais rester ici. » Aline prononce la phrase à moitié derrière la porte du garage. Poser une limite sans retirer son affection lui paraît soudain plus compliqué que refuser le transport des établis. Étienne lui propose un dîner avec deux amis. Elle apprécie ces personnes, mais après la semaine d’inventaire à la quincaillerie, elle souhaite passer une soirée seule, sans trajet ni conversation à suivre.
+« Vendredi, j’aimerais rester ici. » Aline prononce la phrase à moitié derrière la porte du garage. Étienne s’arrête de chercher ses clés. Aline l’a vu prévenir leurs amis qu’ils viendraient à deux, et elle a attendu jusqu’à ce soir pour lui en parler. Étienne lui propose un dîner avec deux amis. Elle apprécie ces personnes, mais après la semaine d’inventaire à la quincaillerie, elle souhaite passer une soirée seule, sans trajet ni conversation à suivre.
 
 Son compagnon tient encore son casque de vélo. Il demande s’il doit décliner pour eux deux. Aline répond trop vite que non, puis ajoute qu’il peut sortir, qu’elle ne lui en veut pas, qu’elle préparera quelque chose de spécial dimanche et qu’il ne doit surtout pas croire qu’elle ne veut plus voir leurs amis. La demande initiale disparaît derrière une succession d’assurances. Étienne répète sa question pratique : faut-il réserver une place ou deux ?
 
@@ -81,7 +81,7 @@ Le geste reste crédible parce qu’il ne promet pas une communication parfaite.
 
 Elle prévoit enfin un signe d’affection qu’elle désire réellement offrir. Ce vendredi, elle souhaite partager un repas simple avec Étienne avant qu’il parte, si l’horaire le permet. S’il préfère rejoindre directement les amis, elle peut accepter cette option. Le geste n’est ni le prix de sa solitude ni une épreuve que son compagnon doit réussir pour lui montrer qu’il respecte son choix.
 
-## Aline commence à dire non en restant présente
+## Une seule place à réserver
 
 Dans le garage, elle reprend l’échange avec une phrase plus courte. Étienne dit qu’il aimerait sa présence au dîner, mais qu’il réserve une seule place. Aline sent revenir l’envie de promettre immédiatement le dimanche entier. Elle laisse cette envie passer sans la transformer en programme. Ils rangent les vélos et discutent ensuite d’un bruit dans la roue avant.
 

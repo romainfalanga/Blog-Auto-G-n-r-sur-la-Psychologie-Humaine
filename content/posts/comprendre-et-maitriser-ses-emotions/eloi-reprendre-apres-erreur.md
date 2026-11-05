@@ -13,7 +13,7 @@ episode: 10
 draft: false
 ---
 
-Il manque deux portions sur le plateau. Après une erreur de quantité, Éloi sait qu'il doit prévenir Cédric avant la transmission. Il vérifie le nombre demandé, regarde ce qui est prêt et sent l'envie de compléter discrètement pour que personne ne remarque l'écart. Le service n'attend pas une longue réflexion sur sa confiance. La priorité est de rendre la situation visible et de suivre la décision du responsable. Il s'approche avec les informations nécessaires, tout en préparant déjà sa défense.
+Il manque deux portions sur le plateau. Éloi recompte la préparation, puis la commande. Le résultat ne change pas. Cédric passe au bout du poste. Éloi sait qu’il devrait lui faire signe et attend pourtant encore une seconde.
 
 Il attend une question qui sonnera comme un reproche. Le « tu as bien regardé ? » du premier exercice lui revient, avec les réponses écourtées qu'il rencontre parfois pendant les périodes chargées. Ces expériences ne résument pas tous les échanges avec Cédric, qui lui fournit aussi des repères et des temps d'essai. Pourtant, lorsque son erreur devient visible, ce sont les moments brefs et inconfortables qui servent de modèle à la scène suivante.
 
@@ -51,7 +51,7 @@ Il n'a pas à remplacer cette règle par son contraire. « Cédric répond toujo
 
 Cela n'enlève pas le besoin d'excuses lorsqu'elles sont appropriées. Il peut dire simplement qu'il se trompe et qu'il reprend le contrôle demandé. La suite montre aussi sa responsabilité. Si une conséquence affecte quelqu'un, elle doit être traitée dans le cadre adapté. La réparation garde un objet concret, au lieu de devenir une recherche sans fin de pardon ou d'assurance sur sa place dans l'équipe.
 
-## 3 techniques pour reprendre en examinant son attente
+## Séparer la correction du reproche attendu
 
 ### 1. Signaler les faits et sécuriser la suite
 
@@ -75,13 +75,13 @@ Avec Cédric, Éloi examine comment l'écart de quantité apparaît. Ils repère
 
 Éloi prévoit aussi ce qu'il fera si le retour devient vague ou blessant : demander le critère utile, puis en parler dans un cadre adapté si cela persiste. Cette possibilité lui permet de garder une prudence active. Il n'a pas à se rendre disponible à n'importe quelle remarque pour prouver qu'il dépasse son attente. Reprendre signifie pouvoir agir, questionner et solliciter un appui selon ce qui arrive réellement.
 
-## Éloi commence à laisser un retour différent compter
+## Les deux portions manquantes
 
 La préparation est corrigée et contrôlée avant la suite décidée par Cédric. Éloi reste déçu et un peu gêné de travailler sous son regard. Il constate pourtant qu'il peut traverser la réparation sans recevoir le jugement personnel qu'il prévoit. Au moment convenu, ils reprennent la méthode. Le chef signale une vigilance nécessaire. Éloi peut l'entendre comme une exigence du poste, même si elle réveille encore sa crainte d'être considéré comme peu fiable.
 
 Lors d'une autre demande, Cédric répond brièvement parce qu'il est occupé. L'attente revient vite. Éloi demande quand reprendre la question et obtient un créneau. Il ne sait pas encore comment se déroulera cet échange. Il possède néanmoins une alternative au silence : rendre le besoin visible et vérifier ensuite. La contre-expérience précédente ne le rend pas invulnérable, mais elle empêche un peu la réponse courte de raconter à elle seule tout le futur.
 
-Au foyer, Nora l'écoute raconter l'incident. Éloi distingue l'erreur, sa prévision et le retour reçu. Il ne demande pas qu'elle lui promette que tout ira mieux. Il souhaite garder cette différence dans son carnet et la discuter si le même scénario se répète. Son projet d'orientation reste ouvert. Il peut maintenant ajouter un critère concret aux environnements qu'il explore : comment les erreurs sont-elles rendues visibles, corrigées et utilisées pour apprendre ?
+Au foyer, Éloi raconte l’erreur à Nora. Il se souvient du temps entre le moment où il a prévenu et celui où Cédric est venu compter. Ce temps lui a paru long. Quand il note ce que le chef a dit ensuite, il s’aperçoit que ce sont deux phrases différentes de celles qu’il attendait.
 
 ---
 

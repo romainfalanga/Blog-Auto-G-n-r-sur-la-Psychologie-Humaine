@@ -13,11 +13,11 @@ contexte: "face au vieillissement"
 draft: false
 ---
 
-L'odeur de la peinture fraîche dans le rayon bricolage de ce grand magasin de banlieue parisienne pique les narines de Patrick. Aujourd'hui, 28 avril 2026, il cherche de quoi rénover l'étagère de son petit-fils Léo. Ses doigts, marqués par des décennies sur les chantiers de construction, caressent machinalement le bois brut. Une douleur sourde irradie dans le bas de son dos, souvenir de la décharge lombaire subie au travail il y a quelques semaines. Il ne s'énerve plus comme l'autre jour face au jeune ouvrier Antoine, mais il sent que son armure de force, celle que son père Marcel lui avait transmise, s'effrite un peu plus chaque jour. Cette rigidité mentale qu'il a héritée, ce besoin de paraître invincible même quand ses vertèbres crient grâce, commence enfin à laisser place à une lucidité nouvelle sur ses propres limites.
+Patrick cherche de quoi renforcer l’étagère de Léo. Au bout du rayon bricolage, trois offres de sport se partagent un panneau : quarante euros par mois sans séance accompagnée, quatre-vingts avec quatre séances par mois, quatre-vingt-cinq avec deux. Il relit la dernière ligne et pense qu’à quatre-vingts euros, il ferait une bonne affaire.
 
-Il s’arrête devant un panneau publicitaire pour une salle de sport. Les trois abonnements donnent le même accès aux machines. Le premier coûte 40 euros par mois et n’inclut pas de séance avec un coach. Le deuxième coûte 80 euros et comprend quatre séances par mois. Le troisième coûte 85 euros et en comprend deux. Patrick regarde de plus près le forfait à 80 euros. À côté du troisième, il lui paraît soudain très avantageux.
+Il n’était pas venu pour s’abonner. En cherchant son mètre dans sa poche, il sort aussi le bout de papier sur lequel Catherine avait noté le numéro du cabinet. Il n’a toujours pas appelé. Une part de lui préférerait rentrer avec une activité choisie et régler ça de son côté.
 
-Pourtant, une petite voix intérieure le freine. Depuis qu'il a commencé à explorer sa vulnérabilité après le décès de Marcel, il se méfie de ses impulsions. Il se souvient de la fois où il n'arrivait même pas à ouvrir un bocal devant Catherine. Ce jour-là, il avait choisi l'authenticité plutôt que la performance, et cette prise de conscience l'aide aujourd'hui à ne pas foncer tête baissée dans un engagement inutile. Il veut reprendre le contrôle, ne plus être le jouet de ses émotions ou de ses automatismes. Le voilà qui hésite, non pas parce qu'il doute de sa force, mais parce qu'il sent que quelque chose cloche dans sa manière de choisir. Est-ce vraiment le coach qu'il veut, ou est-ce l'offre qui le force à le vouloir ?
+Le vendeur lui demande s’il souhaite un formulaire. Patrick regarde le prospectus. Son regard revient toujours au forfait du milieu. Il l’emporte pour faire le calcul ailleurs, avec l’équerre dont il a besoin pour Léo.
 
 ## Qu’est-ce qu’un effet de leurre ?
 
@@ -39,20 +39,13 @@ Il peut regarder les deux offres de départ côte à côte. Un choix individuel 
 
 Patrick peut prendre le temps de lire les conditions, demander conseil ou repartir sans s’abonner. Une offre de sport et l’évaluation d’une douleur au dos répondent à des besoins distincts. Il peut parler à un professionnel de santé s’il cherche une activité adaptée à sa situation.
 
-## Évolution de Patrick face à ses choix
+## Le prospectus dans la poche
 
-Patrick s’éloigne du panneau sans remplir le formulaire. Il a noté les trois prix et le nombre de séances. Il veut réfléchir à ce qui l’intéresse indépendamment du troisième forfait.
+Assis près de la sortie, Patrick replie le prospectus pour ne laisser visibles que les deux premières offres. Quarante euros de plus pour quatre séances : c’est cette différence qu’il doit regarder. Il ne sait toujours pas s’il les utiliserait.
 
-Il s’assoit sur un banc près des outils de jardinage. L’abonnement le moins cher lui convient peut-être, mais il souhaite d’abord parler de son mal de dos à un professionnel. Il laisse le prospectus dans sa poche.
-
-En sortant du magasin, Patrick respire l'air frais du parking. Il ne se sent pas diminué d'avoir refusé cette offre qui semblait pourtant si avantageuse. Au contraire, il ressent une clarté nouvelle. Il rentre chez lui, décidé à parler à Catherine de cette envie de prendre soin de lui, mais à sa manière, sans se laisser dicter ses choix par des artifices marketing. Il repense à Stéphanie et Julien, et se dit qu'il pourra leur expliquer ce qu'il a appris aujourd'hui. Il n'est plus l'homme qui se cache derrière son silence, mais celui qui apprend à naviguer avec discernement dans la maturité.
-
+Chez lui, Léo veut savoir combien de livres l’étagère pourra porter. Patrick lui demande de vider le rayon du haut pendant qu’il se sert de l’équerre. Le prospectus finit sous le mètre, sur la table. Il le garde, sans remplir le formulaire.
 ---
 
-Une offre dominée peut modifier la comparaison entre les autres. Dans ce récit, Patrick reprend les prix et les services pour décider ce qu’il veut comparer.
-
-Choisir en fonction de ses critères laisse la possibilité de prendre une autre offre, de demander conseil ou d’attendre.
-
-Si vous vous sentez régulièrement dépassé par vos choix ou si l'angoisse du temps qui passe influence vos décisions quotidiennes, un dialogue avec un professionnel de la psychologie peut être bénéfique. Un accompagnement thérapeutique aide à déconstruire ces automatismes et à retrouver une sérénité durable face aux défis du vieillissement.
+Comparer les options à partir du prix, des services utiles et de ses propres besoins aide à voir ce que la troisième offre a changé. Pour une activité envisagée à cause d’une douleur, un professionnel de santé peut aider à déterminer ce qui est adapté.
 
 Sources : [Huber, Payne et Puto, expériences sur l’ajout d’une option dominée, 1982](https://doi.org/10.1086/208899).

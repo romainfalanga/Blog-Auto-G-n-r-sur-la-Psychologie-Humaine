@@ -13,13 +13,11 @@ contexte: "en reconversion professionnelle"
 draft: false
 ---
 
-Margot fixe l'écran de son ordinateur portable, le curseur clignotant sur une page blanche. Il est 22h30. Philippe, son mari, dort depuis longtemps, la maison est silencieuse. Leurs enfants Martin et Chloé ont quitté le nid depuis quelque temps déjà. À 52 ans, après vingt-cinq ans dans le commerce comme directrice commerciale, elle a pris la décision de se reconvertir dans le coaching de vie. Un projet mûri pendant des mois, une formation commencée avec enthousiasme. Pourtant ce soir, elle est paralysée.
+À vingt-deux heures trente, Margot ouvre un document vierge. À gauche de l’écran, il y en a déjà quatre qui s’appellent « Mémoire », dont un « définitif ». Elle pourrait rendre celui-là vendredi. Il manque une transition ; à la relecture, elle finit pourtant par reprendre la page entière.
 
-Elle doit rendre un mémoire de fin de module dans trois jours. Elle a déjà rédigé quinze pages, effacé dix, recommencé, corrigé, reformulé. Chaque phrase lui semble bancale. Chaque argument, insuffisant. Elle sent une voix intérieure qui murmure sans relâche : « Ce n'est pas assez bien. Recommence. Tu ne peux pas te permettre de rendre quelque chose de médiocre. » Margot serre les mâchoires. Ses épaules sont nouées. Elle ouvre un nouveau document et recommence une fois de plus.
+Philippe appelle de l’étage pour savoir si elle monte. « Dès que j’ai fini. » Elle dit ça depuis une heure. Dans son ancien bureau, une note aussi courte aurait été prête avant le déjeuner. Depuis qu’elle a quitté le commerce pour se former au coaching, elle vérifie même les phrases dont elle connaît déjà la suite.
 
-Le lendemain matin, dans le métro, elle consulte les messages de son groupe de formation. Plusieurs camarades partagent leurs avancées, demandent de l'aide, expriment leurs doutes. Margot lit, mais ne répond pas. Demander de l'aide, c'est montrer qu'elle ne maîtrise pas la situation. Et ça, pour elle, c'est impensable. Elle a toujours été celle qui gère, celle qui rassure les autres, celle qui ne fléchit pas. Même en pleine reconversion, à 52 ans, dans un domaine qu'elle découvre à peine, elle s'impose les mêmes exigences qu'au sommet de sa carrière dans le commerce.
-
-Margot découvrira bientôt une grille de lecture pour les exigences qu’elle se répète, comme « sois parfaite ».
+Le lendemain, dans le métro, quelqu’un écrit sur le groupe de formation : « Vous avez compris ce qu’il faut mettre en annexe ? » Deux personnes répondent qu’elles hésitent aussi. Margot commence à taper. Elle range le téléphone avant d’envoyer.
 
 ## Qu'est-ce que les drivers contraignants ?
 
@@ -76,15 +74,11 @@ En analyse transactionnelle, à chaque driver correspond une « permission », c
 
 Choisissez une tâche à faible enjeu et fixez à l’avance ce qui serait suffisant pour la terminer. Rendez un exercice sans le relire une dernière fois. Posez une question en formation sans la formuler parfaitement dans votre tête. Envoyez un message dans votre groupe en disant simplement : « Je bloque sur ce sujet, quelqu'un peut m'aider ? » Cette exposition progressive à l'imperfection permet de constater que le monde ne s'effondre pas, et que les autres ne vous jugent pas comme vous le craigniez.
 
-## Margot commence à desserrer l'étau
+## Le mémoire part vendredi
 
-Quelques semaines après avoir découvert le concept des drivers contraignants lors d'un atelier de développement personnel, Margot décide de tenter l'expérience. Elle commence par le journal de bord. En trois jours, elle remarque que « sois parfaite » et « sois forte » reviennent quand elle corrige son mémoire et hésite à demander de l’aide.
+Le soir suivant, Margot rouvre le groupe. « Je tourne en rond sur le mémoire. Ça dirait à quelqu’un de relire deux pages ? » Une camarade peut regarder le début pendant sa pause de midi. Elle lui renvoie une question et trois mots mal orthographiés, rien sur le passage que Margot voulait refaire.
 
-Un mardi soir, elle fait quelque chose d'inédit. Elle ouvre le groupe de discussion de sa formation et écrit : « Je galère sur le mémoire. Est-ce que quelqu'un veut qu'on en parle ensemble ? » Trois réponses arrivent en quelques minutes. L'une d'elles vient d'une camarade de 32 ans qui lui dit : « Merci d'avoir osé le dire. Je n'aurais jamais cru que quelqu'un comme toi pouvait douter aussi. »
-
-Margot sent quelque chose se fissurer en elle. Pas une rupture, mais une ouverture. Elle comprend que la force qu'elle s'imposait n'était pas de la solidité, mais de la rigidité. Et que cette rigidité l'empêchait d'apprendre, de se connecter aux autres, et finalement d'avancer dans sa reconversion.
-
-Elle rend son mémoire le vendredi. Pas parfait. Pas irréprochable. Mais honnête, personnel, et terminé. C'est la première fois en trente ans qu'elle autorise quelque chose d'imparfait à sortir de ses mains. Et contre toute attente, elle se sent plus légère qu'elle ne l'a été depuis des mois.
+Vendredi, elle joint le fichier. L’envie de corriger la transition est toujours là. Au moment de l’envoi, elle pose le téléphone à l’envers sur la table. Philippe lui avait demandé de l’accompagner chercher du pain. Elle enfile son manteau et ils sortent.
 
 ---
 

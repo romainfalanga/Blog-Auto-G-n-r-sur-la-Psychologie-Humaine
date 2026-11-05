@@ -75,13 +75,13 @@ Parfois, aucune action productive n'est possible immédiatement. Claire est occu
 
 Il n'envoie pas plusieurs relances sans accord et ne transforme pas l'attente en surveillance constante. Il choisit un moment adapté à l'échéance. Si le délai se rapproche sans solution, il signale la conséquence : la synthèse aura un périmètre réduit ou demandera un report. Ce choix relève de l'organisation du travail. Il ne doit pas être caché jusqu'au dernier moment pour préserver l'image d'un salarié qui se débrouille toujours seul.
 
-## Rémi commence à produire un premier état imparfait
+## Une colonne sur l’écran
 
 La liste d'intitulés tient sur une page. Rémi la montre à Claire en précisant les points encore incertains. Elle regroupe deux motifs et lui indique la source officielle du relevé. Il ressent une gêne à présenter quelque chose d'aussi provisoire, puis remarque que cette discussion lui évite de remplir tout un tableau sur une mauvaise base. Le travail commence à prendre une forme qui ne dépend plus seulement de ce qu'il imagine.
 
 Un autre jour, il retourne pourtant ranger des bacs avant son créneau. L'habitude d'être utile immédiatement reste forte. Il ne déclare pas sa méthode inutile à cause de cet écart. Il vérifie plutôt si le créneau est connu de l'équipe et si son premier geste est prêt. Il lui faut encore rappeler la priorité convenue. La difficulté est aussi relationnelle : occuper son temps de façon moins visible demande que les collègues comprennent ce qu'il fait.
 
-À la colocation, Julie retrouve l'enveloppe des factures sans l'appeler. Rémi en tire une satisfaction simple. Leur accord produit le résultat visé, même si le panneau commun reste désordonné. Il ne lance pas un grand chantier pour rendre l'appartement irréprochable. Il note seulement un prochain besoin et choisit avec elle un moment pour en parler. Commencer une tâche n'exige plus, chaque fois, de décider comment réorganiser toute sa vie.
+Le soir, Julie a déjà ressorti l’enveloppe. Elle a relevé le montant et laissé la facture ouverte sur la table. Rémi lui demande si elle a eu du mal à la retrouver. « Non, j’ai juste lu ce que tu avais écrit. » Au quai, les catégories que Claire a regroupées sont prêtes pour le prochain créneau. Il les note en premier, avant de quitter le bureau pour rejoindre les bacs.
 
 ---
 

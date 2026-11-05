@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-Deux cases se superposent sur l’agenda de Vincent. Les valeurs importantes qui entrent en tension n’ont pas, ce vendredi, l’allure d’un grand débat philosophique. D’un côté, une formation technique facultative qu’il souhaite suivre. De l’autre, une réunion de l’immeuble où Cédric veut parler de la porte commune. Vincent regarde les horaires et cherche déjà une combinaison qui lui permettrait d’être pleinement aux deux endroits.
+Deux cases se superposent sur l’agenda de Vincent. Vincent fait défiler l’agenda jusqu’à la semaine suivante. Il vérifie une troisième fois l’heure de début de la formation. D’un côté, une formation technique facultative qu’il souhaite suivre. De l’autre, une réunion de l’immeuble où Cédric veut parler de la porte commune. Vincent regarde les horaires et cherche déjà une combinaison qui lui permettrait d’être pleinement aux deux endroits.
 
 Cédric reprend le dossier dont il assure maintenant le suivi. « Je voudrais qu’on vienne ensemble pour décrire le passage », dit-il. Vincent n’a pas encore confirmé sa présence. Il répond qu’il tient aussi à la formation et redoute aussitôt que cette phrase paraisse indifférente. Il apprécie d’apprendre dans son métier de technicien ferroviaire. Il veut également participer à une demande commune concernant leur logement. Ces deux raisons comptent vraiment pour lui.
 
@@ -77,7 +77,7 @@ Ils vérifient que cette proposition reste faisable. Vincent réserve un temps c
 
 Après les événements, ils peuvent revenir sur le choix : ce qui aide, ce qui manque et ce qu’ils souhaitent prévoir autrement. Cette révision ne sert pas à rejuger rétroactivement Vincent avec toutes les informations acquises ensuite. Elle peut guider les engagements suivants. Les valeurs restent des directions vivantes, dont l’expression se discute dans plusieurs moments de la relation.
 
-## Vincent commence à assumer un choix imparfait
+## Confirmer sa présence à la formation
 
 Vincent confirme sa présence à la formation. Avant de répondre, il dit clairement à Cédric ce qu’il choisit. Son compagnon maintient qu’il aurait préféré y aller ensemble. Ils ne trouvent pas de phrase qui transforme cette préférence en satisfaction. Vincent reste à l’écoute sans proposer aussitôt trois services supplémentaires pour obtenir le droit de partir. La discussion se termine sur un désaccord limité et nommé.
 

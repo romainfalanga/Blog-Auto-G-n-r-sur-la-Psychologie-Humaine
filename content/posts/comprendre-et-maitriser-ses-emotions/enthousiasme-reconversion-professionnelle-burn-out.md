@@ -13,11 +13,11 @@ contexte: "en période de reconversion professionnelle"
 draft: false
 ---
 
-Karim fixe les cartons empilés dans le garage de sa maison lyonnaise. L'odeur de poussière et de carton humide lui chatouille les narines. Il vient de signer la vente de son restaurant de Marseille, celui-là même qui avait failli causer sa perte financière et familiale quelques semaines plus tôt. Ses mains, autrefois crispées sur son téléphone pour masquer ses failles financières par des dépenses excessives, saisissent aujourd'hui un vieux classeur de recettes de son père. Il y a un silence inhabituel dans la maison, seulement interrompu par le bourdonnement du réfrigérateur. Sofia est partie conduire les enfants à leurs activités du mercredi, et pour la première fois, Karim n'a pas cherché à combler ce vide par un appel à son associé Romain pour projeter une nouvelle conquête immobilière.
+Dans le garage, Karim retire des cartons les papiers du restaurant lyonnais. Romain vient de lui transférer l’accord écrit qui met fin à leur réservation à Marseille. Ils y travaillaient depuis avril ; hier encore, Karim craignait que la réponse soit repoussée. Il glisse la feuille dans un dossier et se surprend à imaginer ce qu’il pourrait faire des ustensiles qu’il reste à ranger.
 
-Il ressent une chaleur étrange dans sa poitrine, une envie de tout recommencer, mais cette fois différemment. Il envisage de lancer une école de cuisine solidaire, un projet qui fait vibrer chaque fibre de son être. Son esprit s'emballe, il imagine déjà les locaux, les partenariats avec les associations de quartier, les sourires des futurs apprentis. Il a envie de courir acheter du matériel, d'appeler la mairie, de signer des baux de location. Pourtant, une petite voix intérieure, nourrie par ses échecs récents et son épuisement professionnel, lui intime de ralentir.
+L’un des cartons contient les couteaux de démonstration. Karim en sort un, vérifie le manche et pense à la façon dont son père lui avait appris à tenir une lame. L’idée d’une école solidaire lui revient. Cette fois, il pense aux personnes qui pourraient s’en servir avant de regarder les annonces de locaux.
 
-Cette excitation qui le gagne, il la connaît bien. C'est elle qui l'a poussé à investir impulsivement dans le projet de Lyon alors que les voyants étaient au rouge, s'enfermant dans une escalade d'engagement destructrice. Il se souvient de la déception de Lina lors de son dernier cadeau matériel, cette console de jeux qui n'avait pas suffi à racheter son absence, et du regard résigné de Sofia. Aujourd'hui, il ne veut pas que cette énergie devienne une nouvelle fuite en avant pour masquer son incapacité à gérer l'intimité familiale. Il s'assoit sur un tabouret instable, sentant le froid du carrelage à travers son pantalon de toile. Il doit apprendre à apprivoiser cet élan avant qu'il ne se transforme en un incendie qu'il ne pourra plus éteindre.
+Il sort un classeur de recettes et imagine un cours ouvert à des gens qui n’ont jamais travaillé en cuisine. En deux minutes, il a déjà trouvé un horaire, un quartier et une liste de partenaires possibles. La dernière fois qu’il a couru devant les vérifications, Romain a dû lui faire relire une réservation signée trop vite. Karim écrit seulement « demander à une association ce qui manque », puis laisse le reste de la page vide.
 
 ## Définition de l'enthousiasme
 
@@ -30,12 +30,15 @@ Karim peut se réjouir de son projet d'école et avoir encore besoin de repos. [
 Au début de son projet, Karim voit plus facilement ce qui l'attire que ce qui demanderait du travail ou du temps. Cet élan n'est pas une étape que tout le monde traverse.
 
 ### L'idéalisation du nouveau projet
+
 Karim imagine la liberté qu'il retrouverait en ouvrant une école. Il parle moins du loyer, des démarches et des heures de présence. L'intérêt pour le projet est réel ; sa faisabilité reste à vérifier.
 
 ### L'hyperactivité décisionnelle
+
 Karim pourrait acheter du matériel ou s'inscrire à une formation avant de vérifier ce dont le projet a besoin. Il peut commencer par distinguer les actions qui lui apprennent quelque chose des dépenses qui l'engagent.
 
 ### La déconnexion des besoins physiologiques
+
 Karim travaille parfois tard parce que le projet lui plaît. Il peut regarder ce que ce rythme change à ses repas, à son sommeil et à son temps de repos, puis adapter son programme. L'enthousiasme, à lui seul, ne permet ni de prédire une rechute ni de conclure que l'épuisement est passé.
 
 ## Techniques pour agir avec discernement face à l'enthousiasme
@@ -43,15 +46,18 @@ Karim travaille parfois tard parce que le projet lui plaît. Il peut regarder ce
 Pour que l'enthousiasme en période de reconversion professionnelle reste un allié, il est utile de mettre en place des garde-fous émotionnels.
 
 ### 1. Prendre un délai adapté avant de s'engager
+
 Si le choix n'est pas urgent, notez l'idée et fixez un moment pour la reprendre. Vérifiez les échéances et prenez les renseignements utiles pendant ce délai. Au moment de décider, demandez-vous ce qui justifie l'urgence : une date réelle, un coût qui augmente, ou surtout l'envie d'en finir ? Karim choisit deux jours parce que son projet le permet.
 
 ### 2. Le cercle des mentors réalistes
+
 Demandez à des personnes de confiance de poser des questions précises : quels sont les coûts mal connus ? Quel premier essai est possible avant d'engager de l'argent ? Si le projet change les horaires ou le budget du foyer, discutez-en avec les personnes concernées.
 
 ### 3. La planification par blocs de micro-objectifs
+
 Choisissez une petite étape dont l'issue vous sera utile, par exemple discuter du projet avec un organisme de formation. Prévoyez des plages pour les autres besoins de la semaine, puis réévaluez le rythme selon ce que vous constatez. Il n'y a pas de nombre d'heures adapté à toutes les personnes en reconversion.
 
-## Évolution du personnage et canalisation de l'élan
+## Une idée dans le garage
 
 Karim referme lentement le classeur de son père. Il sent encore l'adrénaline battre dans ses tempes à l'idée de son école solidaire, mais il se lève et va se verser un grand verre d'eau fraîche. Il se souvient de l'époque où il aurait immédiatement appelé Romain pour lui dire de chercher des locaux, persuadé par son biais de faux consensus que son associé validerait aveuglément cette nouvelle impulsion. Cette fois, il choisit de ne rien faire de tel. Il prend un stylo et, sur une feuille de papier, il trace une ligne verticale. À gauche, ses rêves. À droite, les besoins de sa famille et ses propres limites physiques.
 

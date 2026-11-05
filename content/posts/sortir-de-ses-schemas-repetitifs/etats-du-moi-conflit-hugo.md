@@ -13,13 +13,9 @@ contexte: "en situation de conflit"
 draft: false
 ---
 
-Aujourd'hui, Hugo traverse la cour du studio de répétition en frottant la paume de sa main contre la veste en jean usée. Les accords de sa dernière chanson résonnent encore dans sa tête, mais c'est une autre vibration qui le tient : la tension froide qui s'installe quand une conversation va mal. Il repense aux notions qu'il lit depuis quelques semaines sur les états du Moi (Parent, Adulte, Enfant) et se demande comment elles pourraient l'aider à sortir d'un nouvel affrontement avec Chloé.
+Théo attend Hugo dans l’escalier du studio. Il lui dit que Chloé est déjà en haut et qu’elle a accepté de parler un peu avant de partir. Hugo a préparé trois reproches; le premier lui revient chaque fois qu’il passe devant la salle où ils ont dû arrêter la répétition.
 
-Il se trouve au pied de l'escalier menant à la salle d'essai. Autour, des instruments poussiéreux sentent la sueur des concerts passés. Théo, son frère jumeau, l'attend en haut, silhouette immobile, regard qui l'encourage sans paroles. Hugo ressent cette montée familière, une oscillation entre culpabilité, colère et une envie irrépressible de convaincre l'autre qu'il a raison. Depuis la rupture, chaque rencontre devient un champ de bataille. Aujourd'hui, il sait qu'il affronte moins Chloé que ses propres schémas relationnels.
-
-La dernière fois qu'il a laissé ces schémas guider ses réactions, il a détruit une répétition et perdu la confiance de Samba, son ami musicien. Il se souvient aussi du banc dans le parc où, début mars, il nommait enfin son vide intérieur. Ces acquis l'accompagnent : il a appris à repérer ses montées émotionnelles, à reconnaître l'idéalisation puis la dévaluation. Maintenant, face à l'imminence d'une dispute, il s'interroge sur lequel de ses états du Moi prend le contrôle.
-
-Il sent le cuir de la sangle de sa guitare contre sa hanche, l'odeur de moisi et de bière, et la chaleur du matin sur le béton. Une porte claque à l'étage, puis la voix de Chloé qui arrive, nette, sans menaces. Il comprend qu'il ne s'agit pas seulement d'une discussion à venir, mais d'une opportunité de mettre en pratique ce qu'il a découvert : différencier son Parent intérieur de son Adulte, tempérer son Enfant blessé. Il choisit d'entrer.
+Il voudrait lui faire reconnaître qu’elle l’a blessé. Il repense au message envoyé après le Melody et au suivant qu’il n’a pas envoyé. Chloé ne lui doit pas de réponse à cette déclaration. Il peut lui dire pourquoi il est venu et la laisser partir si elle ne veut pas en parler.
 
 ## Définition des états du Moi (Parent, Adulte et Enfant)
 Les états du Moi, nommés Parent, Adulte et Enfant, appartiennent au modèle de l'analyse transactionnelle développé par Eric Berne. L’[International Transactional Analysis Association](https://staging.itaaworld.org/key-concepts-transactional-analysis) les présente comme des ensembles de pensées, d'émotions et de comportements. Ces mots servent de repères de lecture ; ils ne désignent ni des personnes distinctes ni des diagnostics.
@@ -30,7 +26,7 @@ Hugo peut utiliser le modèle pour remarquer une règle qu'il répète, un besoi
 ### 1. Le Parent critique et la répétition des scripts familiaux
 Dans un conflit, le Parent critique se manifeste par des sentences automatiques : reproches, jugements, consignes morales. Pour Hugo, cela prend souvent la forme de phrases intérieures qui imitent son père Alain, chez qui l'amour semblait conditionnel à la performance. Par exemple, face à une remarque anodine de Chloé sur ses horaires, il sent surgir une pensée qui ressemble à une condamnation apprise : "Tu ne t'organises jamais." Ce Parent critique peut fermer toute possibilité de dialogue et déclencher la réponse opposée chez l'autre, aggravant la rupture.
 
-Pendant une dispute, Hugo répond avec des phrases qui semblent toutes apprises, oubliant les faits du moment. Sa voix se durcit, il répète un reproche ancien, et la conversation dévie vers des rancœurs accumulées. Il réalise que ce ton cassant est celui qu'il utilisait lors de son dernier service au bar, quand le rire de Chloé l'avait fait basculer dans le rejet brutal.
+Il arrive que Hugo réponde avant de savoir ce que Chloé essaie de lui dire. Quand le ton monte, il se rappelle parfois le rire qu’il avait entendu au bar et les mots cassants qui lui étaient venus. La grille des états du Moi lui fournit des mots pour regarder ces réactions après coup. Elle ne dit pas ce que Chloé ressent ni comment elle doit lui répondre.
 
 ### 2. L'Enfant blessé qui réclame et idéalise
 Dans cette grille, Hugo peut associer certains élans à des façons de réagir qu'il reconnaît depuis longtemps. Appeler Chloé à toute heure ou couper court à une dispute ne suffit pas à déterminer son style d'attachement. Il reste responsable de respecter la disponibilité et les limites de l'autre.
@@ -58,14 +54,11 @@ Cette méthode permet d'instaurer une règle simple pour gérer le conflit en te
 
 Des tours de parole ne rendent pas un échange sûr s'il y a intimidation, menaces ou gestes violents. Jeter une guitare peut blesser ou effrayer. Dans ce cas, interrompre l'échange et se mettre en sécurité passe en premier. Le [site gouvernemental Arrêtons les violences](https://arretonslesviolences.gouv.fr/besoin-d-aide) indique où trouver de l'aide.
 
-## Évolution du personnage : Hugo commence à poser les armes
-Hugo entre dans la salle de répétition. Chloé est déjà installée, le regard fixé sur une partition. Il sent l'ancien réflexe : se lancer dans l'accusation pour se protéger. Mais quelque chose a changé. Il garde à portée la liste qu'il a préparée, avec ses trois questions factuelles et le rappel d'identifier l'état du Moi dominant. Il s'assoit, pose sa guitare, et dit calmement : "Je propose un petit contrat : dix minutes pour exprimer ce qu'on ressent, sans couper l'autre." Sa voix tremble mais reste stable.
+## Il reste dix minutes avant le départ
 
-La conversation débute de manière rude, mais quand Chloé lance une phrase blessante, Hugo ne se débat pas pour avoir le dernier mot. Il pense : "C'est mon Enfant qui panique", et dit à voix haute : "Je crois que je réagis comme si j'étais rejeté, cela vient de moi." Il ne prétend pas tout comprendre, il ne se met pas en posture de Parent. Il utilise l'Adulte pour demander un exemple concret d'un comportement qu'elle évoque. Chloé répond avec un détail précis, et la dispute bascule vers une discussion où les reproches vagues se transforment en faits évoqués.
+Chloé a fermé la partition devant elle. Hugo lui propose de parler dix minutes, si elle a encore le temps. Quand elle lui dit que ses messages l’ont mise mal à l’aise, il se prépare à expliquer le concert. Il attend, puis lui demande si elle veut qu’il lui écrive seulement pour les répétitions.
 
-Ce jour-là, Hugo ne répare pas tout. Il admet qu'il a déjà envoyé des messages excessifs après des concerts, et qu'il a tendance à couper la communication quand il se sent menacé. Théo et Samba, qui écoutent depuis l'angle de la salle, lui adressent un regard approbateur. Pour la première fois depuis des semaines, Hugo termine une discussion sans avoir jeté sa guitare contre le mur. Il sait que ce n'est qu'un pas, mais il sent aussi la possibilité d'autres avancées.
-
-Il réutilise la technique du carnet à la maison : noter quand son Parent critique parle, quand son Enfant réclame, et comment l'Adulte a pris la main. Cette pratique devient un pont entre ses séances d'impro au bar et ses moments de calme. Les jours suivants, après une répétition ou un service au restaurant, il relit ses notes, corrige et ajuste. Il ne prétend pas être guéri, il expérimente la régulation.
+Elle préfère cela pour le moment. Hugo a encore envie de répondre qu’il n’était pas le seul à avoir mal. Il dit qu’il a compris la demande et s’assure qu’ils ont la même heure pour jeudi. En redescendant, il raconte à Théo ce qu’il vient d’accepter. Il ne sait pas encore à quel point il sera tenté de revenir dessus le soir.
 
 ---
 

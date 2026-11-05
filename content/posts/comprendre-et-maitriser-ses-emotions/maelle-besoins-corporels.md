@@ -15,7 +15,7 @@ draft: false
 
 Le tambour tourne avec un raclement régulier et le banc colle légèrement derrière les genoux. Maëlle attend que la couette finisse de sécher. Percevoir ses besoins corporels paraît simple lorsqu'elle en parle au rendez-vous de santé au travail ; ici, elle hésite entre plusieurs explications à son inconfort. Elle a peut-être besoin de manger, de boire, de changer de position ou seulement de cesser de remplir l'attente avec de nouvelles tâches.
 
-Elle consulte la liste des courses, puis la range. À vingt-sept ans, opératrice agroalimentaire en horaires alternés, elle connaît surtout les besoins devenus impossibles à ignorer : une fatigue qui brouille la concentration, une faim pressante, des jambes qui réclament une pause. Entre le fonctionnement habituel et ce seuil, elle laisse peu de place aux signaux plus discrets. Elle les remarque souvent après avoir décidé qu'il faut d'abord finir autre chose.
+Elle consulte la liste des courses, puis la range. À l’usine, elle s’aperçoit parfois qu’elle a faim quand une collègue ouvre sa boîte-repas. Elle se rend compte qu’elle est fatiguée quand elle doit relire une consigne. Sur le banc de la laverie, elle ne sait pas encore si elle a besoin de manger, de boire ou simplement de s’asseoir autrement. Elle desserre ses lacets et attend de voir ce qui change.
 
 Julien doit la rejoindre. Ils prévoient ensuite un détour pour récupérer une commande. Elle pense déjà à lui annoncer qu'elle veut rentrer, mais redoute de modifier encore leur programme. Le séchoir affiche plusieurs minutes restantes. Pour une fois, cette attente ne dépend pas d'elle. Elle peut utiliser ce temps pour examiner ce qu'elle ressent sans chercher immédiatement une explication définitive.
 
@@ -57,7 +57,7 @@ La laverie offre cette rupture, sans être un lieu particulièrement reposant. M
 
 Mais remarquer davantage n'est pas toujours souhaitable. Si elle se met à contrôler chaque battement, chaque variation de température et chaque tension, l'observation peut devenir préoccupante. Elle peut alors élargir son attention à la pièce et à l'activité présente, puis parler de cette difficulté avec un professionnel si elle prend trop de place.
 
-## 3 techniques pour repérer un besoin sans tout interpréter
+## Une pause avant le prochain détour
 
 ### 1. Faire un point bref à un moment de transition
 

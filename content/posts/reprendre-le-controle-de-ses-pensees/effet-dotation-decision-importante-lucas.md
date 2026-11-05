@@ -13,7 +13,7 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Lucas fixe l'écran de son vieux téléphone dont l'angle est légèrement fêlé. Sur l'application de messagerie, un message de Mathieu, le manager qu'il a rencontré lors d'un forum de recrutement, reste en attente de réponse. On lui propose un poste de consultant junior dans un cabinet prestigieux à Lyon dès la fin de son stage. C'est l'opportunité dont il rêve depuis ses premières années en école de commerce, celle qui permettrait enfin de rassurer Sandrine et Jean-Marc sur la rentabilité de leurs efforts financiers. Pourtant, ses doigts restent immobiles au-dessus du clavier tactile.
+Le téléphone de Lucas est fêlé dans un coin. Il l’incline pour lire le message de Mathieu, rencontré à un forum de recrutement : le cabinet lyonnais souhaite le revoir pour un dernier entretien. Rien n’est signé. Lucas imagine pourtant déjà son bureau vide à Paris et sa chambre reprise par quelqu’un d’autre.
 
 Il se trouve dans la cuisine de la colocation, entouré de cartons de pizza vides. L'odeur de fromage froid et de carton humide imprègne la pièce. Lucas repense à son stage actuel dans cette petite agence de marketing parisienne. Ce n'est pas le job du siècle, l'ambiance est parfois électrique, et il se souvient encore de la gêne ressentie quand il avait menti à Maxime et Romain sur ses missions pour paraître plus brillant. Mais c'est son stage. Il connaît le code de la machine à café qui fuit, il a sa place attitrée près de la fenêtre et il a fini par s'attacher à ce dossier complexe sur lequel il travaille depuis trois mois, celui-là même qui lui avait valu les critiques de son tuteur au début et qu'il a fini par dompter à force de nuits blanches.
 
@@ -59,7 +59,7 @@ L'effet de dotation nous fait regarder ce que nous perdons, mais il nous rend av
 
 Lucas peut imaginer les deux trajectoires sans chercher à prédire celle qu’il regrettera. Il identifie ce qu’il aimerait apprendre et ce que chaque poste lui permettrait réellement d’essayer.
 
-## Évolution de Lucas face à son choix
+## Un dernier entretien à Lyon
 
 Assis dans un coin calme de la colocation, Lucas réfléchit. Il tente d'appliquer la technique du test de remplacement. S'il n'avait pas ce stage aujourd'hui, est-ce qu'il se battrait pour l'obtenir ? La réponse est honnête : non. Il a déjà appris ce qu'il pouvait apprendre ici. Ses craintes de décevoir ses parents, qu'il traîne depuis ses premiers échecs académiques, s'apaisent dès qu'il réalise que c'est justement en restant par peur de perdre qu'il finit par stagner. Il comprend que son identification récente à l'hypersensibilité via les réseaux sociaux était peut-être une autre façon de s'attacher à une étiquette confortable pour ne pas affronter le risque du mouvement.
 

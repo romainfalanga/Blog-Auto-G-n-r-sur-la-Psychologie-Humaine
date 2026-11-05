@@ -32,7 +32,7 @@ draft: false
     <p class="parcours-resume">Le vent frais de mars siffle légèrement contre la vitre du petit bureau que Sophie a aménagé dans son salon. Ses doigts survolent le clavier, mais restent suspendus au-dessus de la touche Entrée.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Assise sur son tapis de yoga, Sophie ne cherche pas cette fois à vider son esprit, mais à observer ses pensées avec la distance qu&#x27;elle a commencé à acquérir ces dernières semaines. Elle repense à son travail précédent sur la surpensée.</p>
+      <p>Sophie revient à son bureau après avoir déroulé son tapis. Sur le formulaire, « expérience de coordination » est encore vide. Elle a réparti des tâches lors de la dernière livraison, mais elle n’a jamais eu la responsabilité du recrutement.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-dunning-kruger-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -43,7 +43,7 @@ draft: false
     <p class="parcours-resume">Sophie est assise à son bureau en open-space. L&#x27;icône de message de Marc clignote dans la barre, et elle observe le petit point lumineux sans intervenir.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Sophie applique la « boîte à soucis » pendant une pause avec ses collègues. Quand Marc lui envoie un message pour demander un ajustement mineur sur une API, elle marque immédiatement l&#x27;inquiétude : « peur d&#x27;être jugée », aucun reproche dans le message, première action : répondre en décrivant…</p>
+      <p>Pendant la pause, Sophie relit le message une fois. Marc a demandé si l’API renvoyait le bon code quand le champ est vide. Elle répond qu’elle va essayer les deux entrées et lui propose de regarder ensemble le test.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -54,7 +54,7 @@ draft: false
     <p class="parcours-resume">L&#x27;odeur du rôti de bœuf et du romarin emplit la salle à manger de ses parents, à Nantes, ce 30 mars 2026. Sophie ajuste ses lunettes rondes et lisse machinalement le tissu de son pantalon à pinces.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Alors que le dessert est servi, une tarte aux pommes dont la pâte est légèrement trop cuite sur les bords, sa mère s&#x27;en excuse plusieurs fois. Sophie observe la scène avec une lucidité nouvelle.</p>
+      <p>Sa mère coupe la tarte et montre le bord trop cuit. Elle allait remettre le morceau sur le plat ; Sophie lui tend son assiette. « Donne, j’aime bien quand ça croustille. » Elle entend sa mère s’excuser une deuxième fois et retrouve dans la scène quelque chose de son propre réflexe.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -62,7 +62,7 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/abnegation-sacrifice-de-soi-vieillissement-parents/">Abnégation et sacrifice de soi face au vieillissement des parents</a></h3>
     <div class="parcours-date">2026-04-06</div>
-    <p class="parcours-resume">Le carrelage froid de la cuisine de ses parents, à Nantes, semble absorber toute l&#x27;énergie de Sophie en ce dimanche après-midi de printemps. Elle est agenouillée devant le vieux réfrigérateur, une éponge à la main, frottant une tache de confiture oubliée sur une étagère en plastique.</p>
+    <p class="parcours-resume">Le carrelage froid de la cuisine de ses parents, à Nantes, semble absorber toute l&#x27;énergie de Sophie cet après-midi de printemps. Elle est agenouillée devant le vieux réfrigérateur, une éponge à la main, frottant une tache de confiture oubliée sur une étagère en plastique.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Assise dans le train du retour, Sophie ne regarde pas le paysage défiler. Elle a son carnet ouvert sur les genoux.</p>
@@ -76,7 +76,7 @@ draft: false
     <p class="parcours-resume">L&#x27;obscurité s&#x27;est installée sur les toits de Paris ce 11 avril 2026. Dans son appartement du onzième arrondissement, Sophie termine son thé vert, dont l&#x27;amertume légère lui tapisse le palais.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Sophie repose son carnet de notes sur la table basse. Elle vient d&#x27;y inscrire en minuscules lettres la phrase qui la tourmentait, suivie de sa déconstruction : J&#x27;ai la pensée que ma valeur dépend de ce bug, mais c&#x27;est une erreur de logique.</p>
+      <p>Sophie écrit : « L’alerte ne dit pas que c’est mon code. Je regarderai au travail. » Elle commence à ajouter ce qu’elle vérifiera et s’arrête au troisième point. Il n’y a rien de nouveau depuis qu’elle a ouvert son ordinateur.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/pensees-automatiques-negatives-seule-face-a-soi-meme/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -87,7 +87,7 @@ draft: false
     <p class="parcours-resume">Le néon de la salle de réunion grésille légèrement, un bruit sec qui s&#x27;accorde avec la tension qui grimpe dans la poitrine de Sophie. Assise face à Marc, elle sent ses doigts se crisper sur son carnet de notes, celui-là même où elle avait commencé à documenter ses états émotionnels pour…</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Le lendemain de sa réunion avec Marc, Sophie est de nouveau à son poste de travail dans l&#x27;open-space. Elle a passé une partie de la soirée à remplir son carnet des vérités cachées, et remarque qu’elle attend beaucoup d’elle-même quand le ton monte.</p>
+      <p>Le lendemain, Sophie ouvre les notes de Marc sur la refonte. Elle a écrit « pas de souci » à la fin de la réunion et voudrait maintenant reprendre les deux points qui la gênent. Elle se rappelle s’être excusée alors qu’elle ne demandait rien d’autre qu’un examen de sa proposition.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/formation-reactionnelle-en-situation-de-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -106,10 +106,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/comprendre-sentiment-echec-apres-un-echec/">Après un refus : Sophie traverse le sentiment d’échec</a></h3>
     <div class="parcours-date">2026-05-01</div>
-    <p class="parcours-resume">Sophie fixe l&#x27;écran de son téléphone, immobile dans l&#x27;entrée de son appartement. Un courriel vient d&#x27;arriver, celui qu&#x27;elle attendait depuis des semaines : la réponse pour le poste de directrice technique.</p>
+    <p class="parcours-resume">Sophie fixe l&#x27;écran de son téléphone, immobile dans l&#x27;entrée de son appartement. Un courriel vient d&#x27;arriver, celui qu&#x27;elle attendait depuis des semaines : la réponse de l’association pour le poste de directrice technique. Ses yeux parcourent les lignes avec une rapidité nerveuse.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Sophie repose son stylo. Elle vient de terminer une liste dans son carnet, inspirée par les conseils de son amie Claire.</p>
+      <p>Sophie relit le mail, puis essaie de résumer son contenu en une phrase. L’association a choisi quelqu’un qui a déjà dirigé une équipe ; elle ne sait pas ce qu’elle aurait pu faire autrement en entretien. Les deux phrases positives sur son travail sont bien là.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/comprendre-sentiment-echec-apres-un-echec/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -120,7 +120,7 @@ draft: false
     <p class="parcours-resume">La machine à laver cliquette, sa porte en verre fait vibrer l&#x27;air d&#x27;une musique régulière. Sophie plie un jean, le tissu encore tiède, le parfum du détergent lui chatouille le nez.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Sophie se lève avec son carnet sous le bras, la laverie s&#x27;éclaircit, elle replace sa bouteille de thé vert dans son sac. Elle suit la première technique qu&#x27;elle teste depuis quelques jours : à la moindre alerte, elle note l&#x27;émotion et l&#x27;intensité.</p>
+      <p>La machine s’arrête. Avant de sortir le linge, Sophie regarde la date et retrouve le paiement qu’elle attendait depuis plusieurs jours. Le solde est celui qu’elle avait prévu, à quelques euros près.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/heuristique-affect-argent/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -128,7 +128,7 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-amitie-causes/">Sentiment d’imposture : recevoir un compliment d’une amie</a></h3>
     <div class="parcours-date">2026-05-13</div>
-    <p class="parcours-resume">Sophie observe Claire qui rit d&#x27;une anecdote et sent aussitôt une petite alarme interne se déclencher : pourquoi est-ce que je ne trouve pas ça aussi drôle, pourquoi est-ce que je me sens surqualifiée à la fois et insuffisante ? Aujourd&#x27;hui, 13 mai 2026, elles sont installées dans un salon de…</p>
+    <p class="parcours-resume">Claire a attendu qu’elles soient sorties du bureau pour lui en reparler. « Le test que tu as ajouté m’a fait gagner du temps hier. » Sophie met son sachet de thé de côté. Elle répond que le bug était facile à trouver.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Aujourd&#x27;hui, après l&#x27;échange initial avec Claire, Sophie décide d&#x27;essayer l&#x27;entraînement à la réponse affirmative. Quand Claire lui dit que son dernier push était très propre, Sophie sent la vieille impulsion qui la pousse à expliquer.</p>
@@ -142,7 +142,7 @@ draft: false
     <p class="parcours-resume">Le téléphone colle légèrement contre la joue de Sophie, la coque déjà griffée par des années d&#x27;appels rapides. Son père parle d&#x27;un détail technique de son dernier projet web, comme s&#x27;il commentait la construction d&#x27;une maquette qu&#x27;il pourrait corriger.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Aujourd&#x27;hui, après avoir raccroché, Sophie relit la colonne des faits et remarque qu&#x27;elle a reformulé mentalement l&#x27;interprétation comme &quot;mon père n&#x27;a pas le vocabulaire pour exprimer sa fierté&quot;. Cette alternative lui semble plausible et atténue l&#x27;urgence de prouver davantage.</p>
+      <p>Quand elle raccroche, Sophie ne sait pas si son père a apprécié son explication. Il lui a posé deux questions et a dit qu’il devait préparer le dîner. Elle était sur le point de lui envoyer une capture d’écran pour finir de convaincre.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

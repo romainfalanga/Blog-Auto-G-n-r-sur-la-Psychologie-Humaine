@@ -13,9 +13,9 @@ contexte: "avec ses parents"
 draft: false
 ---
 
-La sonnerie du vestiaire retentit alors que Camille chausse ses chaussures de ville dans le parking de l’hôpital. Elle sent sous ses doigts le cuir raidi de son badge et l’odeur mêlée du désinfectant et de la pluie qui colle au bitume. À côté d’elle, le sac à dos de Léo claque quand il se poste sur la banquette arrière ; Emma glousse en répétant une comptine qu’elle invente avec des syllabes. Camille entend tout, mais une partie d’elle reste verrouillée quand son téléphone affiche le nom de sa mère, Françoise.
+Sur le parking de l’hôpital, Camille a retrouvé David et les enfants. Elle pose son badge sur la console avant de démarrer. Léo met son sac à ses pieds ; Emma répète le début d’une comptine. Le nom de Françoise apparaît sur le téléphone. Camille reste garée et répond.
 
-Elle répond malgré tout. La voix de Françoise est précise, presque mécanique, avec des inflexions qui restent les mêmes depuis l’enfance de Camille. Aujourd’hui, la mère commente la manière dont Camille organise les rendez-vous médicaux de la famille. Les remarques contiennent des attentes et des sous-entendus qui rappellent à Camille un malaise ancien. Elle sent la tension se loger dans sa poitrine, au fond, quelque chose refuse de remonter à la surface. Le mot qui germe dans son esprit est familier désormais : refoulement avec ses parents.
+Elle reconnaît l’intonation avec laquelle sa mère avait l’habitude de demander si elle avait bien pensé à tout avant de partir à l’école. Aujourd’hui, la mère commente la manière dont Camille organise les rendez-vous médicaux de la famille. Les remarques contiennent des attentes et des sous-entendus qui rappellent à Camille un malaise ancien. Elle sent la tension se loger dans sa poitrine, au fond, quelque chose refuse de remonter à la surface. Le mot qui germe dans son esprit est familier désormais : refoulement avec ses parents.
 
 Sur le trajet, les bras autour du volant, Camille repense au post-it collé sur son bureau de cardiologie il y a plusieurs semaines où elle avait écrit « vide ». Elle se rappelle aussi de la dernière fois, fin avril, où elle a réussi à remplacer l’autocritique par de l’auto-compassion après que Léo a renversé son bol de céréales. Ces acquis ne dissolvent pas tout, mais ils l’aident à identifier la partie d’elle qui s’efforce d’ignorer des émotions anciennes. Elle veut comprendre ce qu’elle éprouve quand sa mère commente ses décisions. Elle réalise que ce besoin de paraître infaillible devant Françoise est le même qui la poussait, il y a peu, à ignorer ses propres douleurs articulaires pour rester la soignante parfaite lors de ses gardes de nuit.
 
@@ -53,15 +53,17 @@ Si des souvenirs ou des réactions lui pèsent, Camille peut choisir d’en parl
 
 Certaines thérapies indiquées après évaluation d’un stress post-traumatique travaillent sur des souvenirs avec des praticiens formés, comme le précisent [les recommandations du NICE](https://www.nice.org.uk/guidance/ng116/chapter/recommendations). Ce n’est ni un exercice général de récupération de souvenirs ni un traitement à reproduire à partir de ce récit.
 
-## Évolution du personnage et intégration des acquis
+## Mettre fin à l’appel
 
-Après l’appel, Camille attend d’être garée pour ouvrir son carnet. Elle y écrit ce que sa mère vient de dire et la limite qu’elle aimerait poser. Puis elle rejoint les enfants.
+Après l’appel, elle ouvre son carnet pendant qu’ils sont encore garés. Elle note la remarque de sa mère et une phrase qu’elle voudrait pouvoir lui dire. Puis elle range le carnet et demande à Emma de lui apprendre le début de la comptine.
 
 Quelques jours plus tard, elle essaie de nommer ce qu’elle ressent après un message de Françoise où sa mère commente la discipline de Léo. Elle écrit : « Je ressens de la culpabilité et de la colère parce que je crains de décevoir son jugement. » Le fait d’étiqueter ces émotions lui permet de répondre autrement : elle reformule calmement son message à sa mère en expliquant une décision éducative sans se perdre dans la justification. C’est nouveau pour elle, car auparavant, elle aurait soit accepté la critique, soit répondu sur la défensive.
 
 Dans une séance avec sa thérapeute, Camille parle d’une scène d’adolescence dont elle se souvient déjà, puis de l’appel de la semaine. Elle distingue ce qu’elle se rappelle de ce qu’elle ne sait pas.
 
 Camille remarque qu’elle peut quitter une conversation qui l’épuise sans d’abord décider pourquoi elle a réagi aussi vivement. David la voit prendre un peu plus de temps avant de répondre à sa mère.
+
+Une prochaine fois, Françoise reparle du rendez-vous de Léo. Camille lui dit qu’ils l’ont organisé et qu’elle doit raccrocher. Le téléphone reste dans sa main un moment après la fin de l’appel.
 
 ---
 

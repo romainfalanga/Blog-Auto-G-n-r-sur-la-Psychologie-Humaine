@@ -13,7 +13,7 @@ contexte: "seul(e) face à soi-même"
 draft: false
 ---
 
-Adrien est assis par terre dans son salon, entouré de carnets de croquis ouverts et de feuilles volantes. Le silence de l'appartement est seulement rompu par le ronronnement lointain d'un ventilateur. Il tient son crayon, mais sa main reste immobile au-dessus d'une page blanche. Une sensation de lourdeur s'installe dans sa poitrine, une vieille connaissance qui revient souvent depuis sa rupture avec Marina il y a un an. Il regarde le tatouage discret à son poignet et se rappelle les crises de larmes qu'il essayait de camoufler à sa sœur Charlotte. Aujourd'hui, il ne veut plus fuir dans le travail technique ou dans le déni comme il l'avait fait après l'échec de son dernier appel d'offres.
+À la deuxième ligne, Adrien ferme le courriel d’Antoine. Il retourne s’asseoir par terre, entre un carton à dessins et des feuilles qu’il n’a pas rangées. Il prend un crayon, puis le laisse rouler sur le parquet. La lourdeur dans sa poitrine lui rappelle les soirs qui ont suivi le départ de Marina. Il attend un instant avant de décider ce qu’il fera du message.
 
 L'air est chaud dans la pièce, et une odeur de peinture fraîche flotte encore, vestige d'une tentative de création nocturne. Adrien sent l'angoisse monter, une forme d'instabilité émotionnelle qui le fait douter de tout, de son talent de graphiste à sa capacité à être aimé à nouveau. Il se souvient de la dispute avec Charlotte le 10 mai dernier, où il avait failli tout effacer de leur lien par pur réflexe de protection. Cette fois, il décide de ne pas appeler son ami Julien pour demander une réassurance immédiate. Il reste là, immobile, face à ce vide qui l'envahit alors que la lumière de l'après-midi décline lentement.
 
@@ -57,7 +57,7 @@ Pour approfondir le I de Investiguer, utilisez votre créativité. Prenez une fe
 
 Pour l'étape N, travaillez sur la non-identification. Visualisez votre conscience comme une vaste demeure et votre émotion comme un visiteur de passage. Vous êtes la maison, solide et permanente, et l'émotion est un invité qui traverse le hall. Vous pouvez aussi imaginer votre esprit comme un océan profond et calme, tandis que vos émotions sont des vagues à la surface. Pratiquez cet exercice en vous répétant que cette émotion vous traverse, mais qu'elle n'est pas vous. Cette image peut vous aider à prendre un peu de recul si elle vous parle.
 
-## Adrien commence à apprivoiser son tumulte intérieur
+## Le courriel attendra dix minutes
 
 Adrien repose sa main sur le parquet. Il vient de passer dix minutes à appliquer les étapes de la technique RAIN dans le silence de son salon. Il a reconnu cette peur de l'avenir qui le rongeait depuis le mail d'Antoine ce matin. Il a accepté de la laisser exister, sans se forcer à dessiner ou à être productif immédiatement. En investiguant, il a compris que son anxiété actuelle est une résonance de son sentiment d'incompétence ressenti lors de son départ de l'agence, mêlé à la blessure encore vive du départ de Marina.
 
@@ -65,10 +65,10 @@ Il ne se sent pas miraculeusement joyeux, mais quelque chose a changé. La press
 
 Il se lève et se dirige vers sa table de travail. Pour la première fois depuis des jours, l'idée de dessiner ne lui semble plus être une montagne infranchissable. Il ne cherche plus à produire le chef-d'œuvre qui prouvera sa valeur au monde entier, mais simplement à exprimer ce qui l'habite. Il allume sa petite lampe de bureau, lance sa playlist habituelle, et trace un premier trait. Ce n'est pas le trait de quelqu'un qui a tout résolu, mais celui d'un homme qui apprend, jour après jour, à habiter sa propre sensibilité sans en avoir peur.
 
+Il rouvre le courriel et lit la dernière ligne. Antoine attend la version exportée du fichier qu’ils ont déjà approuvé. Adrien lance l’export et prend la feuille qui est restée à côté de sa chaise. Ce soir, il peut décider du premier trait et garder le reste pour demain.
+
 ---
 
-Le parcours d'Adrien montre que la solitude n'est pas forcément un gouffre où l'on se perd, mais peut devenir un laboratoire de connaissance de soi. Pour Adrien, l’exercice offre ce soir une façon de décrire ce qu’il éprouve. Apprendre à ne plus s'identifier à ses tempêtes intérieures est un acte de liberté qui demande de la patience et de la bienveillance envers soi-même, surtout pour les cœurs hypersensibles.
-
-Chaque étape franchie pour mieux comprendre ses mécanismes est une victoire sur la souffrance. Il est possible de traverser ces moments avec plus de sérénité. La pratique de la pleine conscience est un soutien précieux, mais elle gagne à être intégrée dans une démarche globale de soin et d'écoute. Vous possédez en vous une résilience qui peut être explorée, un souffle à la fois.
+Pour Adrien, l’exercice permet ce soir de nommer ce qu’il ressent. Il peut ensuite se demander ce que le client attend effectivement et décider de la suite du travail.
 
 Si vous sentez que vos émotions deviennent trop lourdes à porter ou que votre solitude se transforme en un isolement douloureux, solliciter l'aide d'un professionnel de santé mentale est une option utile. Un psychologue ou un thérapeute pourra vous accompagner pour approfondir ces techniques et vous offrir un espace de parole sécurisé. Prendre soin de son esprit est un engagement précieux envers soi-même.

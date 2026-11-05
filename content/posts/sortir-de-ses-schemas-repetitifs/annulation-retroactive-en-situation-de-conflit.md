@@ -13,7 +13,7 @@ contexte: "en situation de conflit"
 draft: false
 ---
 
-Adrien se tient debout dans le couloir étroit de son appartement, le pinceau encore humide à la main. Face à lui, sa sœur Charlotte pointe du doigt le désordre qui s'accumule dans le salon depuis qu'il a commencé sa nouvelle série de toiles. Le ton monte. Charlotte lui reproche son désengagement des tâches communes alors qu'elle l'aide bénévolement pour sa comptabilité de freelance. Adrien sent une chaleur familière grimper dans sa nuque, cette même sensation d'étouffement qu'il ressentait face aux mails d'Antoine ou aux critiques de son père. Au lieu d'écouter ses arguments, il range brusquement ses pinceaux dans un bocal et lance une phrase qui semble effacer les trois derniers mois de complicité : de toute façon, tu ne m'as jamais vraiment soutenu, tu ne fais ça que pour me contrôler.
+Charlotte a besoin d’un coin de table pour étaler les pièces comptables. Adrien tient toujours un pinceau et repousse une toile du pied. Quand elle lui rappelle qu’elle lui avait demandé de dégager la table avant son arrivée, il l’entend comme il entend certaines corrections d’Antoine. « Tu ne m’as jamais soutenu. Tu fais ça pour me contrôler », répond-il. Charlotte pose sa pochette sur une chaise.
 
 Le regard de Charlotte se fige, mêlant surprise et blessure. Adrien sait, au fond de lui, que c'est faux. Il se souvient de la fois où elle l'a réconforté après son échec face à Julie pour l'appel d'offres de cosmétiques, ou de ses conseils avisés quand il sombrait dans le déni au bord du canal Saint-Martin. Pourtant, à cet instant précis, il a le sentiment d'avoir agi comme si ces moments n'avaient jamais existé. C'est un réflexe étrange, une sorte de coup de gomme mental qu'il utilise dès qu'une tension apparaît. Il se sent soudainement très seul dans cette pièce, alors même que sa sœur est à moins de deux mètres de lui.
 
@@ -57,13 +57,15 @@ On peut reconnaître que la remarque nous blesse et que la personne nous a déj�
 
 Si la discussion est sûre, vous pouvez proposer une courte pause et préciser quand vous reviendrez. À la reprise, Adrien peut nommer ce qu’il a dit, écouter l’effet produit et proposer une façon concrète de réparer. Si vous êtes menacé, éloignez-vous dès que possible et cherchez de l’aide plutôt que de poursuivre l’échange.
 
-## Évolution du personnage : Adrien commence à poser les armes
+## Charlotte reste sur le seuil
 
-Assis sur son canapé, Adrien observe Charlotte qui s'apprête à partir, son sac sur l'épaule. L'ancienne version d'Adrien l'aurait laissée partir, se persuadant qu'elle est trop envahissante et qu'il se porte mieux seul, s'enfermant dans ce cynisme qu'il avait développé après son burn-out. Mais aujourd'hui, les leçons de ses derniers mois de réflexion résonnent différemment. Il se souvient de son travail sur le raisonnement émotionnel et de la façon dont ses sentiments peuvent parfois travestir la vérité.
+Assis sur son canapé, Adrien observe Charlotte qui s'apprête à partir, son sac sur l'épaule. Adrien se prépare à laisser Charlotte partir. Il a même commencé à se dire qu’il était mieux seul. Il regarde la pochette qu’elle est venue lui apporter et l’appelle avant qu’elle ferme la porte. Il se souvient de son travail sur le raisonnement émotionnel et de la façon dont ses sentiments peuvent parfois travestir la vérité.
 
-Il se lève doucement, sans précipitation. Attends, Charlotte, commence-t-il d'une voix plus calme. Je viens de dire un truc stupide parce que je me sentais coincé. C'est faux de dire que tu ne m'as jamais soutenu. Tu es la personne qui a le plus été là pour moi cette année. Sa sœur s'arrête, la main sur la poignée. Le silence qui suit n'est pas pesant, il est l'espace nécessaire pour que la vérité reprenne sa place. Adrien sent que, pour la première fois, il ne laisse pas son mécanisme de défense saboter une relation précieuse.
+Il se lève doucement, sans précipitation. « Attends, Charlotte. Je t’ai accusée de vouloir me contrôler. Tu m’avais demandé de faire de la place et j’ai laissé mes affaires sur la table. Pardon. » Sa sœur s'arrête, la main sur la poignée. Charlotte garde la main sur la poignée. « Je vais rentrer. On se parle demain pour les comptes. » Adrien acquiesce. La discussion peut attendre jusqu’à demain. Il redoute ce qu’elle dira demain. Cette fois, il range les toiles avant de lui écrire de nouveau.
 
 Il renonce à déposer une pâtisserie pour passer sous silence la dispute. Il propose plutôt de ranger le salon et de discuter de ce que sa sœur attend de lui. En reconnaissant l'aide de Charlotte, il accepte aussi qu'elle compte pour lui, et donc qu'elle puisse le toucher. C'est un pas immense pour le graphiste qui préférait autrefois se réfugier dans ses dessins ou ses regrets concernant Marina plutôt que d'affronter la complexité des échanges humains. Il propose à sa sœur de s'asseoir quelques minutes, non pas pour effacer la dispute, mais pour en parler vraiment, sans gommer le passé.
+
+Quand elle est partie, Adrien trouve dans la pochette la liste des pièces dont elle avait besoin. Il en rassemble deux et pose les autres à part. Demain, ils auront encore le désaccord à reprendre.
 
 ---
 

@@ -83,7 +83,7 @@ Précisez ce que vous attendez : écouter, regarder un document, accompagner un 
 
 Si aucun relais n’est disponible immédiatement, garder les éléments peut constituer une étape suffisante pour aujourd’hui. Samira ne doit pas porter l’amélioration de tout le magasin à elle seule. La réponse collective reste souhaitable lorsqu’elle est possible ; elle ne devient pas une obligation morale ajoutée à une journée déjà chargée.
 
-## Samira maintient sa demande et répare une autre conversation
+## Les deux plannings restent pliés
 
 À la pause, Samira commence par reparler à Chantal de sa réponse sèche. Sa collègue accepte l’explication et regarde les plannings. Elles constatent la différence sans spéculer sur les intentions du responsable. Samira prépare sa demande et choisit de ne pas mener l’échange devant les clients. Ce choix correspond à sa situation, pas à une disparition de sa colère.
 
@@ -91,7 +91,7 @@ Le responsable accepte de revoir l’organisation de cette fin de journée. Il n
 
 À la sortie de l’école, son fils cherche longuement un gant. Samira sent revenir son impatience. Elle lui dit qu’elle possède encore de l’énervement du travail, puis l’aide à vérifier le bord du banc. Elle ne lui demande pas de la rassurer ni de se dépêcher pour réparer sa journée. Le gant apparaît derrière un sac de sport.
 
-La colère demeure lorsqu’elle raconte la scène à Mireille, avec son accord. Elle peut maintenant préciser ce qui reste injuste : devoir absorber seule un changement décidé ailleurs. La solution de ce jour ne transforme pas cette organisation en bonne pratique. Elle lui permet seulement de préserver une nécessité immédiate et de garder une demande pour la suite.
+Dans l’escalier, Mireille lui demande si le responsable a reconnu qu’ils avaient déplacé l’heure. Samira déplie les deux papiers pour lui montrer. « Il a changé la fin de journée. Pour le reste, il n’a rien dit. » Elle remet le premier planning dans sa poche. Elle a eu le temps de récupérer Noé. Elle ne sait pas encore ce qui se passera au prochain changement.
 
 ---
 

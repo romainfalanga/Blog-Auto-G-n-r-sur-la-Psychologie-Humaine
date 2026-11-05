@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-Un ticket de stationnement dépasse du carnet que Vincent range dans son casier. La charge d’aidance ne figure pas sur le planning de ce technicien ferroviaire de quarante-quatre ans. Pourtant, avant son poste, il vérifie un transport, cherche une entrée accessible et rappelle un service dont la réponse manque. Son compagnon, Cédric, vit avec une mobilité réduite acquise. Certaines démarches sont partagées, d’autres se retrouvent dans la tête de Vincent sans qu’ils décident vraiment qui les porte.
+Un ticket de stationnement dépasse du carnet que Vincent range dans son casier. Sur le planning de ce technicien ferroviaire de quarante-quatre ans, sa prise de poste est indiquée au quart d’heure près. La pause aussi. C’est à ce moment-là qu’il faudra rappeler pour l’entrée accessible, s’il ne parvient pas à obtenir quelqu’un avant de commencer. Son compagnon, Cédric, vit avec une mobilité réduite acquise. Certaines démarches sont partagées, d’autres se retrouvent dans la tête de Vincent sans qu’ils décident vraiment qui les porte.
 
 Denis, son collègue, lui demande s’il souhaite échanger une pause. Vincent répond qu’il doit seulement passer un appel rapide. Ce « seulement » contient aussi l’attente, les informations à retrouver et la crainte de devoir recommencer le lendemain. Il tient à aider Cédric et ne souhaite pas présenter leur vie comme une liste de charges. Il cherche donc à tout dire avec légèreté, y compris ce qui commence à occuper chaque intervalle de sa journée.
 
@@ -75,19 +75,19 @@ Ils précisent aussi ce qui peut être partagé avec Julie ou un professionnel. 
 
 ### 3. Transformer un besoin général en demande limitée
 
-Au lieu de dire à Julie qu’il aurait besoin de souffler, Vincent choisit une proposition concrète à examiner avec Cédric : récupérer une commande commune samedi. Il précise l’horaire et la durée approximative. Julie peut accepter ou dire que ce créneau ne lui convient pas. Le refus éventuel n’annule pas le besoin ; il indique qu’il faut chercher une autre réponse.
+Au lieu de dire à Julie qu’il aurait besoin de souffler, Vincent choisit une proposition concrète à examiner avec Cédric : récupérer les pièces commandées pour le robinet samedi. Il précise l’horaire et la durée approximative. Julie peut accepter ou dire que ce créneau ne lui convient pas. Le refus éventuel n’annule pas le besoin ; il indique qu’il faut chercher une autre réponse.
 
 Pour les appuis réguliers, Vincent envisage également une information auprès d’un service compétent ou d’un professionnel social. Il ne suppose pas que toute aide sera accessible, gratuite ou immédiate. Il prépare plutôt des questions sur les possibilités locales, les conditions et les délais. Cette démarche vise à élargir les options, pas à promettre qu’un appel réglera l’organisation du couple.
 
 Ils choisissent un premier essai et une date pour en parler. Une aide peut être utile en théorie et peu adaptée en pratique. Le trajet, les horaires et la manière d’intervenir comptent. Réviser l’essai ne signifie pas que demander du soutien est inutile ; cela permet de préciser ce qui manque et d’éviter de continuer un arrangement qui ne convient à personne.
 
-## Vincent commence à partager ce qu’il garde en tête
+## Retirer le dossier de la liste
 
 Cédric regarde la liste et désigne le dossier de remboursement. Il le garde et demande que les futurs échanges lui soient adressés directement. Vincent ressent l’envie de vérifier toutes les pièces. Il transmet les informations qu’il possède, puis laisse le dossier sortir de sa liste. La confiance ne ressemble pas immédiatement à du calme ; elle commence par un geste de transmission concret.
 
 Ils découvrent aussi qu’ils appellent séparément le même service pour un transport. Ils choisissent un contact principal pour cette demande et un emplacement commun pour la réponse. Ce changement ne supprime ni les délais ni les difficultés d’accessibilité. Il évite seulement quelques relances en double et rend plus clair ce qui dépend encore d’un interlocuteur extérieur.
 
-Julie accepte de récupérer la commande samedi. Cédric confirme que cette aide lui convient. Vincent ne lui ajoute pas d’autres tâches au dernier moment. Il utilise une partie du temps libéré pour marcher seul, puis retrouve son compagnon. Le besoin de repos existe sans exiger qu’il transforme toute la matinée en activité exceptionnelle ou qu’il justifie ce qu’il fait de chaque minute.
+Julie accepte de passer prendre les pièces du robinet samedi. Cédric confirme que cette aide lui convient. Vincent ne lui ajoute pas d’autres tâches au dernier moment. Il utilise une partie du temps libéré pour marcher seul, puis retrouve son compagnon. Le besoin de repos existe sans exiger qu’il transforme toute la matinée en activité exceptionnelle ou qu’il justifie ce qu’il fait de chaque minute.
 
 Lundi, Denis lui demande s’il doit encore passer son appel pendant la pause. Vincent répond que cette démarche appartient maintenant à Cédric et qu’une autre reste en attente. Il parle plus précisément, sans prétendre que tout est réglé. Dans leur appartement, un carnet ouvert remplace une partie des intentions invisibles. Ils restent un couple avec des contraintes réelles et commencent à disposer de davantage de mots pour les partager.
 

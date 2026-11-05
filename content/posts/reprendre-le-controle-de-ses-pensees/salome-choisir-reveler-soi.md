@@ -15,7 +15,7 @@ draft: false
 
 La fiche de présentation comporte une case beaucoup trop grande pour les quelques lignes que Salomé y écrit. « Votre parcours et ce qui vous rend singulière », indique la consigne. Invitée à une rencontre artisanale, elle doit choisir ce qu’elle révèle d’elle-même au public. Elle parle de réparation d’instruments, puis hésite à mentionner qu’elle est non binaire. Elle souhaite parfois rendre cette dimension visible, sans que toute présentation professionnelle devienne un récit sur son identité.
 
-Salomé a vingt-neuf ans, est luthière et célibataire. Elle emploie le féminin et choisit qu’on l’emploie pour elle. Sa récente correction chez un fournisseur lui rappelle qu’elle peut préciser une manière d’être adressée sans raconter son parcours. Cette fois, personne ne lui impose une formule. L’invitation lui laisse un choix, et c’est précisément l’étendue de ce choix qui la retient. Elle imagine déjà la fiche reproduite sur une affiche, puis partagée ailleurs.
+Chez le fournisseur, Salomé voulait qu’on l’appelle par son prénom. La fiche de la rencontre artisanale lui demande autre chose. Des inconnus la liront avant de l’entendre parler. Elle entoure le nom du site et celui de la salle. Avant de rédiger, elle voudrait savoir si le texte qui figure sur le programme se retrouvera aussi sur les réseaux de l’organisation.
 
 Gaspard, l’artisan avec qui elle partage l’atelier, demande si elle veut relire sa propre présentation pour trouver le bon ton. Salomé préfère d’abord écrire seule. Elle ne sait pas encore ce qu’elle veut garder. Une phrase personnelle pourrait lui plaire et susciter des questions qu’elle ne souhaite pas traiter au milieu des instruments. Ne rien dire pourrait lui sembler manquer une occasion importante. Elle se surprend à transformer deux possibilités légitimes en épreuve de fidélité à elle-même.
 
@@ -77,13 +77,13 @@ Elle vérifie aussi la procédure de relecture et demande qu’aucune photo de v
 
 Après la publication, elle peut faire un bilan limité : le contenu correspond-il au choix, les règles sont-elles suivies, souhaite-t-elle garder cette version ? Elle n’a pas besoin de surveiller toutes les réactions pour savoir si son identité est valable. Une réception mitigée pourrait être pénible sans rendre son choix honteux. Elle pourra ajuster la suite à partir des faits, avec du soutien si nécessaire, sans se reprocher de ne pas avoir prédit chaque effet.
 
-## Salomé envoie un texte dont elle connaît les limites
+## Le bouton Envoyer
 
 L’organisation accepte la présentation et le principe de relecture. Salomé relit la dernière version, corrige un mot sur le bois utilisé et l’envoie. La mention personnelle lui convient, mais elle n’en ressent pas une assurance parfaite. Elle garde une curiosité sur la rencontre et une réserve sur certaines réactions possibles. Le choix peut être satisfaisant sans produire une sérénité totale.
 
 Gaspard lui demande ensuite s’il peut utiliser la même formulation lorsqu’il présente leur atelier. Salomé précise dans quels contextes elle souhaite qu’il la reprenne. L’information connue d’un collègue ne devient pas automatiquement une consigne de diffusion à tous les clients. Cette conversation lui permet de garder une continuité entre les supports, sans abandonner le contrôle de leur circulation. Son collègue peut soutenir la présentation tout en vérifiant ce qui est autorisé.
 
-Salomé retourne à son établi et poursuit le travail prévu. La fiche ne devient pas le résumé entier de sa personne. Elle contient un choix de présentation, adapté à une rencontre précise. Un autre événement appellera peut-être un autre texte. Elle pourra le décider sans devoir expliquer pourquoi le niveau de partage change. Sa parole gagne une souplesse qui protège à la fois le désir d’être visible et le droit à la réserve.
+Une fois le texte parti, Salomé retrouve sur l’établi la mèche de bois qu’elle a déplacée. Gaspard lui montre où il en est sur son propre portrait. Elle regarde la photo qu’il a choisie et lui demande qui l’a prise. La formulation qu’ils viennent de relire n’a pas à les accompagner jusque dans cette conversation.
 
 ---
 

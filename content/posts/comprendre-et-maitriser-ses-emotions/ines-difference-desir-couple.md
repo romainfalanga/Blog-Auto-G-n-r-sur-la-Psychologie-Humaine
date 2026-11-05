@@ -15,7 +15,7 @@ draft: false
 
 Le générique continue sur l’écran tandis qu’Inès cherche son écharpe sous le fauteuil. Clara lui propose de rentrer ensemble sans passer par la place où leurs amies les attendent. Inès comprend l’invitation et préfère rester dehors encore un moment. La différence de désir leur apparaît dans ce choix de trajet minuscule. L’une imagine une proximité intime ; l’autre rêve de marcher et de commenter le film sous les guirlandes du quartier.
 
-Bibliothécaire de trente ans, Inès vit avec Clara depuis trois ans. Leur récent week-end lui permet de dire plus clairement lorsqu’elle souhaite arrêter un rapprochement. Ce soir, elle y parvient : « Je n’ai pas envie de ce moment-là, mais j’aimerais rentrer à pied avec toi. » Clara accueille le refus, puis ajoute qu’elle se demande parfois si elles se désirent encore de la même manière. La question dépasse l’instant sans le rendre obligatoire.
+Depuis leur week-end près de la gare, Inès arrive plus vite à dire qu’elle veut s’arrêter. Ce soir, elle tente autre chose : « Je n’ai pas envie de rentrer tout de suite, mais j’aimerais qu’on fasse le chemin ensemble après. » Clara demande si elles ont encore envie des mêmes moments. Inès pose son écharpe sur son genou; elle voudrait lui répondre sans confondre cette question avec la soirée qui les attend.
 
 Devant la porte du cinéma, l’odeur de maïs soufflé se mélange à celle de la chaussée humide. Inès voudrait répondre immédiatement que tout va bien. Elle imagine un calendrier qui prouverait sa bonne volonté, puis se rappelle qu’une promesse ne peut pas fabriquer une envie. Elle demande plutôt ce que Clara entend par « de la même manière ». Sa compagne parle de spontanéité, de moments rares et de peur de déranger lorsqu’elle propose.
 
@@ -51,7 +51,7 @@ Le dimanche, Clara commence par évoquer les semaines écoulées. Inès se met �
 
 Inès change de question : « Dans les moments que tu aimerais retrouver, qu’est-ce qui te manque le plus ? » Clara parle d’un départ spontané en promenade et d’un sentiment d’attention réciproque. La réponse n’épuise pas la question sexuelle, mais elle donne une texture à son attente. Inès peut alors dire ce qui lui manque à elle : du temps sans tâche suivante et la certitude qu’un arrêt sera simple, même après un début agréable.
 
-## Trois techniques pour parler de la différence de désir
+## Parler du désir à distance du moment
 
 ### 1. Décrire un moment sans désigner une norme
 
@@ -77,13 +77,13 @@ Avant de fixer une habitude, elles vérifient leurs contraintes. Inès termine p
 
 On peut évaluer cette expérience par des questions ouvertes : nous sentons-nous plus libres de proposer, de refuser et de préciser ? Le temps partagé nous convient-il ? Y a-t-il une attente cachée à rendre explicite ? Cette évaluation regarde la liberté et la satisfaction des deux personnes. Elle n’a pas pour but de rapprocher les rythmes à tout prix. Des différences durables peuvent nécessiter d’autres conversations sur les attentes et la compatibilité.
 
-## Inès propose une proximité dont elle connaît les contours
+## Le chemin du retour
 
 Le mercredi, le groupe de visite s’attarde devant les anciens tiroirs du catalogue. Inès explique à Clara la différence entre deux reliures, puis rit de son propre enthousiasme. Dehors, elle lui prend la main et demande si elle veut marcher jusqu’au pont. Le geste lui paraît moins risqué depuis qu’elles disent ce qu’il signifie. Il n’annonce que cette marche, avec une possibilité de conversation et le bruit des voitures sur les joints métalliques.
 
 Le décalage de désir ne disparaît pas. Quelques jours plus tard, Clara propose un rapprochement qu’Inès décline. Cette fois, elles évitent d’en faire immédiatement une discussion sur l’ensemble du couple. Clara nomme sa déception sans demander de réparation intime. Inès l’entend sans inventer une promesse pour le lendemain. Elles reviennent ensuite à leur conversation du dimanche pour voir si le cadre choisi leur convient toujours.
 
-Inès garde une question ouverte : de quoi a-t-elle envie lorsqu’elle n’essaie ni de rassurer ni d’éviter ? Elle ne transforme pas cette question en devoir de découverte. Elle peut y répondre dans le temps, en restant attentive à son propre vécu. Clara garde également la possibilité de dire ce qui lui manque. Leur travail commun consiste à rendre les deux expériences dicibles, puis à choisir ce qu’elles peuvent construire ensemble.
+Inès garde une question pour plus tard : à quels moments a-t-elle elle-même envie de proposer quelque chose ? Elle y pense à la sortie d’une exposition, lorsque Clara lui prend la main et qu’elle a envie de la garder. Elle ne demande pas ce que ce geste promet pour le soir.
 
 ---
 

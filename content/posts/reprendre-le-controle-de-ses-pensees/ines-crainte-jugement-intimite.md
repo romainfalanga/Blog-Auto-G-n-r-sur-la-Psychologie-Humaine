@@ -15,7 +15,7 @@ draft: false
 
 Le papier crépon accroche les doigts d’Inès lorsqu’elle range le matériel d’un atelier de lecture. Sur une petite carte destinée au bac de récupération, elle écrit une phrase pour elle : « J’aime quand tu me dis ce que tu apprécies dans nos moments ensemble. » Elle trouve les mots trop solennels, barre « apprécies », puis froisse la carte. Sa crainte du jugement intime tient moins au contenu qu’à l’image d’elle-même qu’elle croit donner en le demandant.
 
-Inès, trente ans, est bibliothécaire et vit avec Clara depuis trois ans. Elle parle désormais plus clairement de certaines limites et sait demander une présence lorsqu’une journée la secoue. Dire ce qu’elle aime reste pourtant une autre difficulté. Un refus lui paraît défendable parce qu’il protège quelque chose. Une préférence lui semble exposer un désir sans protection, avec le risque d’entendre que c’est trop tendre, trop sérieux ou simplement étrange.
+Elle peut dire à Clara qu’elle préfère garder son carnet fermé. Sur la carte, les mots qu’elle écrit ne protègent rien; ils disent quelque chose qu’elle aimerait. Elle relit la phrase et pense à la voix qu’elle prendrait si elle en faisait une blague.
 
 Clara lui propose justement de choisir ensemble ce qui leur ferait plaisir pendant leur prochaine journée libre. Inès répond par une idée de marché et de promenade. Elle aime réellement cette idée, mais garde une autre envie : entendre de temps en temps des mots d’affection précis dans leur intimité, au lieu de supposer qu’elles les connaissent déjà. Elle n’attend ni déclaration spectaculaire ni phrase répétée sur commande. Elle voudrait seulement pouvoir le dire sans se moquer d’elle-même avant que l’autre réponde.
 
@@ -51,7 +51,7 @@ La carte barrée contient moins une difficulté de vocabulaire qu’une tentativ
 
 Le choix utile porte alors sur un risque raisonnable et limité. Inès peut commencer par une demande simple, dans un moment calme, sans raconter toutes ses attentes ni choisir la situation qui la met le plus à nu. Elle peut aussi décider de ne pas parler aujourd’hui. La progression n’exige pas une escalade vers des confidences toujours plus intimes. Elle consiste à retrouver le choix entre parler, attendre et garder une part privée.
 
-## Trois techniques pour exprimer une préférence sans se forcer
+## Faire entendre une préférence sans la défendre
 
 ### 1. Écrire la prédiction et les indices disponibles
 
@@ -77,13 +77,13 @@ Inès distingue alors trois éléments : le respect reçu, la compréhension obt
 
 Après l’échange, elle choisit un bilan court : ce qu’elle dit, ce que Clara répond et ce qu’elle souhaite retenir. Elle ne repasse pas chaque inflexion de voix pour vérifier qu’aucune gêne n’existe. Une conversation intime peut comporter des hésitations sans être ratée. Si une maladresse la touche, elle pourra la nommer. Le bilan doit soutenir son jugement, plutôt que remplacer la recherche de certitude initiale par une surveillance de la conversation.
 
-## Inès laisse sa préférence être personnelle
+## Les titres de romans au bord du canal
 
 Le panier de linge est vide lorsque Clara évoque une soirée au bord du canal. Elle aime la manière dont Inès s’arrête devant les devantures pour inventer des titres de romans à partir des enseignes. Inès trouve le souvenir un peu inattendu. Elle s’aperçoit qu’elle attend une formulation plus solennelle, puis écoute ce que Clara choisit réellement de partager. L’attention ne ressemble pas exactement à celle qu’elle rédige sur sa carte ; elle lui convient néanmoins.
 
 Inès ne réclame pas une preuve supplémentaire pour vérifier la sincérité du moment. Elle peut dire ce qu’elle reçoit et garder le reste ouvert. Quelques jours plus tard, elle n’arrive pas à formuler une autre préférence et répond par une plaisanterie. Elle ne traite pas ce retour comme l’effacement de la première conversation. Elle peut reprendre sa phrase plus tard, ou décider qu’elle ne veut pas aborder ce point maintenant.
 
-Son regard sur l’autonomie devient moins rigide. Elle peut garder un carnet personnel et demander une parole tendre. Elle peut refuser un geste et souhaiter une proximité choisie. Ces besoins ne construisent pas un portrait parfaitement cohérent à prouver aux autres ; ils décrivent une expérience vivante. La crainte du jugement reste parfois présente, mais elle ne choisit plus automatiquement le degré de dévoilement à sa place.
+Inès avait préparé plusieurs phrases pour dire pourquoi le canal lui plaisait tant. Elle n’en utilise aucune. Clara désigne la devanture d’un commerce fermé et invente le titre d’un roman si mauvais qu’Inès rit avant de pouvoir lui répondre.
 
 ---
 

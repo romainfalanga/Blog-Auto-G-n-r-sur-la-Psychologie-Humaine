@@ -43,7 +43,7 @@ Au début, Élise souhaite seulement éviter quelques minutes de confusion. Ensu
 
 Il existe aussi des situations dans lesquelles on ne doit pas revenir seul ou immédiatement. Une tâche incompréhensible appelle une précision, un échange dangereux appelle une protection, une fatigue importante appelle du repos. Choisir une distraction ne signifie pas prévoir un retour automatique quelles que soient les circonstances. Il s’agit de décider avec les informations disponibles, et de pouvoir réviser cette décision. Le retour peut être un appel pour demander de l’aide, une nouvelle date réaliste ou la reconnaissance qu’une activité n’a plus sa place dans le programme.
 
-## Trois façons de rendre la pause plus lisible
+## Préparer la reprise avant de fermer l’écran
 
 ### 1. Nommer ce que l’on cherche à interrompre
 
@@ -63,11 +63,11 @@ Laissez une indication concrète avant la pause. Reprendre le dossier est vaste 
 
 Le retour mérite ensuite un examen bref : l’étape a-t-elle apporté une information, faut-il de l’aide, le délai reste-t-il réaliste ? Évitez de juger toute la pause à partir du résultat final. Une distraction peut avoir été reposante même si le dossier reste compliqué. À l’inverse, avoir terminé ne rend pas souhaitable une soirée passée à lutter contre l’épuisement. Le but est de pouvoir alterner repos et engagement de manière soutenable, en tenant compte de ses besoins et des obligations réelles, plutôt que d’obtenir une disponibilité sans interruption.
 
-## Élise répond à deux questions
+## Deux questions après le dîner
 
 Après le dîner, Élise écrit à Cédric au sujet des sièges et demande à Mireille un rendez-vous sur place. Son message reste bref. Elle n’essaie pas de terminer seule tout le projet avant de se coucher. Les deux réponses pourront modifier la suite et elle accepte, avec une certaine impatience, de les attendre. Elle ferme ensuite l’ordinateur. Une partie d’elle voudrait vérifier si un message arrive déjà. Elle remarque cette envie et choisit de garder le créneau du lendemain pour les précisions. Ce choix ne lui paraît pas encore naturel.
 
-Le lendemain, Mireille confirme la visite du jardin. Élise retrouve sa note au lieu de devoir fouiller toute la soirée dans sa mémoire. Elle remarque que la pause a séparé deux moments au lieu d’absorber le reste de la journée. Elle n’en conclut pas qu’elle saura toujours faire ainsi. Elle garde parfois longtemps son téléphone quand elle est seule, y compris depuis sa séparation. Ce soir précis lui donne seulement un exemple différent : se distraire peut être une décision entière, puis laisser la place à une autre décision, sans exiger d’oublier ce qui l’inquiète.
+Le lendemain, Mireille confirme la visite. À côté de la réponse, Élise retrouve la note de la veille sur les sièges. Elle était sûre qu’elle aurait oublié une question importante en fermant l’écran. Il lui en manque peut-être encore une, mais elle sait ce qu’elle vient vérifier en premier.
 
 ---
 

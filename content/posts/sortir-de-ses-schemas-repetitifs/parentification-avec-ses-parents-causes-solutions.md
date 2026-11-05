@@ -13,7 +13,7 @@ contexte: "avec ses parents"
 draft: false
 ---
 
-L'odeur de vieux papier et de poussière emplit le salon de Geneviève en ce vendredi après-midi. Isabelle est assise en tailleur sur le tapis usé, entourée de classeurs qui débordent. Sa mère, installée dans le fauteuil à fleurs, pointe du doigt une pile de factures d'un geste hésitant. Isabelle sent une tension familière grimper le long de sa nuque, un mélange de protection instinctive et de lassitude profonde. Elle a quarante-sept ans, mais dans cette pièce, elle a de nouveau huit ans, celle qui devait traduire les silences de son père et apaiser les crises de larmes de sa mère.
+Geneviève a posé les factures sur le tapis. Isabelle s’assoit par terre et ouvre la première enveloppe avant même que sa mère ait fini de lui expliquer pourquoi elle l’a appelée. C’est la place qu’elle prend chaque fois dans ce salon. À huit ans déjà, elle allait s’asseoir près de sa mère après les disputes.
 
 Elle parcourt les relevés de compte avec une efficacité chirurgicale. C'est un automatisme, une seconde nature qu'elle a longtemps confondue avec de la simple dévotion filiale. Il y a deux jours à peine, au collège, elle s'efforçait de ne pas juger Mathieu, cet élève en difficulté, en se rappelant ses propres mécanismes de défense. Aujourd'hui, face à Geneviève qui se plaint de sa voisine ou de son chauffage, Isabelle perçoit avec une acuité nouvelle le rôle qu'elle joue depuis toujours. Elle n'est pas seulement la fille qui aide sa mère, elle est le pilier sur lequel une structure fragile s'appuie sans jamais demander si le pilier est fatigué.
 
@@ -57,20 +57,16 @@ Lorsque la situation le permet, demandez ce qui est urgent, ce qui relève de vo
 
 Repérez une règle que vous vous appliquez, comme « je dois répondre aussitôt ». Cherchez une option possible, par exemple convenir d’une heure pour rappeler en cas de demande ordinaire. Vous pouvez en discuter avec quelqu’un de confiance si cette idée vous met en difficulté.
 
-## Isabelle commence à poser les armes
+## Le classeur reste chez Geneviève
 
-Isabelle referme le dernier classeur. Le silence dans le salon de sa mère n'est plus aussi pesant qu'il y a une heure. Elle regarde Geneviève qui commence à ranger ses papiers, un peu plus lentement certes, mais elle le fait. Isabelle a résisté à l'envie de tout classer par ordre chronologique à sa place. Elle a simplement trié les urgences et laissé le reste. C'est un pas significatif, une transformation discrète de ses habitudes. Elle ne cherche plus à être la solution à toutes les angoisses de sa mère.
+Isabelle met les factures à échéance de côté. Geneviève lui tend le reste du classeur. « Celles-ci peuvent attendre. Tu veux qu’on regarde ensemble comment les ranger la prochaine fois ? » Sa mère fait la moue. Isabelle a déjà la main sur un intercalaire ; elle la retire.
 
-Elle pense à Aurélie et au message qu'elle va lui envoyer en sortant. Ce ne sera pas un message pour vérifier si tout va bien ou pour s'excuser de son absence, mais simplement pour lui dire qu'elle a hâte de la retrouver. Sa prise de conscience sur son attachement anxieux porte ses fruits. En cessant de vouloir être indispensable pour être aimée, elle s'autorise enfin à être aimée pour ce qu'elle est, avec ses failles et sa fatigue. Elle sent une forme de légèreté inédite, comme si les fils invisibles qui la reliaient aux besoins des autres se détendaient enfin.
-
-En marchant vers sa voiture, Isabelle profite de l'air frais du soir. Elle ne rentre pas immédiatement. Elle décide de s'arrêter quelques minutes dans le parc qui borde la rue de sa mère. Elle s'assoit sur un banc, écoute le chant lointain d'un oiseau et le bruit des voitures. Pour la première fois depuis longtemps, elle n'est pas en train de planifier, de soigner ou de prévoir. Elle est juste là, Isabelle, quarante-sept ans, femme et mère, mais plus jamais petite fille sacrifiée. Elle sait que le chemin sera encore long pour défaire quarante ans de réflexes, mais elle a franchi le seuil de la lucidité.
+Dehors, elle écrit à Aurélie qu’elle a hâte de rentrer. Elle s’aperçoit qu’elle n’a toujours pas répondu à Théo pour les pâtes. Elle s’arrête devant une épicerie et appelle son fils pour savoir ce qu’il reste vraiment dans le placard.
 
 ---
 
 Le vécu d’Isabelle donne un exemple de responsabilités familiales portées trop tôt. Il invite à examiner les demandes actuelles, l’aide que l’on souhaite offrir et les ressources qui existent autour de soi.
 
-Le chemin vers la guérison demande de la patience et de la bienveillance envers soi-même. Il ne s'agit pas de rompre les liens, mais de les transformer pour qu'ils ne soient plus basés sur le sacrifice, mais sur un échange équilibré entre adultes. Vous avez le droit d'exister en dehors de votre utilité pour les autres.
-
-Si vous vous reconnaissez dans le parcours d'Isabelle et que cette fatigue émotionnelle devient trop lourde à porter seule, l'accompagnement par un professionnel de la psychologie est une option précieuse. Un thérapeute pourra vous aider à dénouer ces schémas anciens et à construire des relations plus saines et plus sereines avec vos proches et avec vous-même.
+Si les responsabilités familiales vous laissent peu de place pour le reste de votre vie et que la fatigue s’installe, vous pouvez en parler à un psychologue.
 
 Sources : [Dariotis et collègues, revue systématique des travaux sur la parentification, 2023](https://pubmed.ncbi.nlm.nih.gov/37444045/).

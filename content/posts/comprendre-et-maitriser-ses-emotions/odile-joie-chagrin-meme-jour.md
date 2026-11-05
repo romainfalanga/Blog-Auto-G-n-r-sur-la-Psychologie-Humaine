@@ -15,9 +15,9 @@ draft: false
 
 Le lecteur change de voix pour incarner un client qui exige un remboursement après avoir mangé tout son gâteau. Odile voit venir la réplique, mais la mauvaise foi du personnage la fait rire avant même qu’elle soit prononcée. Assise à côté de Josiane, elle essaie de reprendre son sérieux et repart de plus belle lorsque le comédien soulève une boîte parfaitement vide. La petite salle du quartier résonne d’un amusement collectif qui ne lui demande aucun effort. Pendant quelques minutes, elle n’est ni préoccupée par un document ni attentive à la manière dont elle devrait aller.
 
-Au milieu du texte suivant, elle pense que Françoise aurait voulu discuter pendant toute la lecture, à voix assez basse pour croire qu’elle ne dérange personne. Le souvenir lui donne envie de se tourner vers une chaise qui n’est pas celle de sa sœur. La peine arrive avec cette impulsion familière. Françoise est morte il y a six mois. Odile le sait sans devoir se le répéter, mais certains gestes attendus restent plus rapides que cette connaissance. Elle regarde le programme pour retrouver le fil de la scène.
+Au milieu du texte suivant, Odile se tourne vers la chaise à côté d’elle. Françoise lui aurait soufflé une remarque à mi-voix. C’est Josiane qui est là. Odile serre le programme dans ses mains et met un moment à retrouver le fil.
 
-L’ancienne agente postale de soixante-quatorze ans apprécie cette sortie et sent pourtant sa gorge se contracter. Elle remarque immédiatement qu’elle utilise le mot pourtant, comme si les deux expériences ne pouvaient pas appartenir à la même soirée. Depuis plusieurs semaines, elle essaie de laisser ses journées varier. Elle hésite encore devant le plaisir pris sans penser à sa sœur. Elle se demande si son rire trop libre ne la rend pas moins fidèle à ce qui lui manque, puis s’agace de transformer une lecture comique en nouvelle interrogation sur sa manière de faire son deuil.
+Elle aime toujours le spectacle. Quand elle se l’explique, elle ajoute mentalement « pourtant ». Elle a ri avant que le comédien finisse sa phrase ; elle pense à Françoise maintenant. Au mot suivant, le comédien change encore de voix. Odile lève les yeux.
 
 À l’entracte, Josiane demande si elle aime le spectacle. Odile répond oui, puis ajoute que Françoise lui manque à cet instant. Sa voisine commence à dire que sa sœur aurait sûrement voulu la voir rire. Elle s’arrête, cherchant une formule moins certaine. Odile apprécie l’intention, mais ne veut pas devoir deviner les souhaits de la morte pour justifier un plaisir présent. Elle préfère dire que la scène la fait rire, que l’absence reste douloureuse et que les deux informations sont exactes. Elles vont chercher un verre d’eau sans décider laquelle doit prendre toute la place.
 
@@ -29,7 +29,7 @@ Le NHS rappelle que le deuil se manifeste de façons diverses, que les sentiment
 
 La difficulté vient parfois moins du plaisir que de la signification qu’on lui attribue ensuite. Odile peut penser que rire revient à oublier ou que penser à Françoise devrait immédiatement interrompre la joie. Ces règles ne sont pas des faits observés. Elles expriment peut-être sa recherche d’une manière fidèle de vivre avec le souvenir. Elle peut examiner cette recherche sans lui répondre par une autre obligation, comme être heureuse parce que sa sœur l’aurait voulu. L’expérience présente peut avoir le droit d’exister sans recevoir l’autorisation supposée de la personne morte.
 
-## Comment le plaisir devient-il une question de fidélité ?
+## Quand un rire fait penser à quelqu’un
 
 ### On prend une absence d’attention pour un oubli du lien
 
@@ -43,7 +43,7 @@ Odile voudrait parfois savoir si elle est réellement contente ou réellement tr
 
 Dire que Françoise aurait voulu Odile heureuse peut sembler doux. Mais personne ne connaît exactement ce qu’elle aurait dit aujourd’hui, et cette supposition risque de faire du bonheur un devoir envers elle. D’autres paroles peuvent être plus proches des faits : la sortie semble lui plaire, sa sœur lui manque, une pause est possible si elle le souhaite. Un soutien n’a pas à fournir une explication rassurante à chaque émotion. Il peut laisser la place à une expérience mêlée, sans chercher à la corriger ni à obtenir un résultat joyeux avant la fin de l’entracte.
 
-## Trois pistes pour laisser plusieurs émotions avoir une place
+## Rester avec ce qu’on éprouve à la fois
 
 ### 1. Décrire ce qui plaît et ce qui manque séparément
 
@@ -57,7 +57,7 @@ Odile se demande ce que son rire aurait réellement causé. Il n’a pas effacé
 
 À l’entracte, Odile peut décider de rester, de sortir quelques minutes ou de rentrer. Elle vérifie ce qu’elle souhaite et les possibilités concrètes avec Josiane. Aucune option ne doit servir un examen de courage ou une démonstration qu’elle accepte enfin la perte. Elle choisit de rester parce qu’elle veut entendre la suite, tout en sachant que certains passages pourraient la toucher. Sa voisine accepte qu’elle parle moins au retour si elle en a besoin. Ce cadre ne garantit pas une seconde partie agréable. Il permet seulement que le plaisir déjà vécu ne soit pas annulé par avance et que la peine n’empêche pas automatiquement tout choix. Si les activités perdent durablement tout intérêt ou deviennent très difficiles à vivre, un soutien professionnel peut aider à examiner la situation dans son ensemble.
 
-## Odile retrouve une place dans la salle avec deux émotions
+## La boîte vide, puis la scène suivante
 
 La seconde partie commence sur un ton plus calme. Odile suit le texte sans chercher à reproduire son rire du début. Une phrase lui plaît, une autre moins. Elle remarque que le spectacle n’a pas à devenir un moment exceptionnel pour avoir été une bonne idée. Son attention se déplace parfois vers Françoise, puis revient aux personnages. Elle laisse ces passages exister sans compter ceux qui parleraient de progrès et ceux qui signaleraient un retour en arrière. Cette comptabilité lui prendrait davantage de place que la lecture elle-même.
 

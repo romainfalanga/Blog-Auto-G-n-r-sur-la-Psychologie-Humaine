@@ -13,7 +13,7 @@ contexte: "face à l'autorité"
 draft: false
 ---
 
-Adrien ajuste ses lunettes devant l'écran de son ordinateur de bureau. Le curseur clignote dans la barre de réponse du mail qu'il vient de recevoir d'Antoine, le directeur artistique d'une grande agence avec qui il collabore en freelance depuis peu. Le message est pourtant simple : Antoine demande une révision sur le logo qu'Adrien a envoyé hier soir. Mais pour Adrien, chaque mot semble peser une tonne. Il sent une raideur familière envahir sa nuque, la même sensation qu'il éprouvait autrefois quand son père vérifiait ses devoirs ou quand Marina, son ex-compagne, lui expliquait comment organiser ses factures parce qu'il semblait incapable de le faire seul.
+Le courriel d’Antoine contient deux demandes : agrandir le lettrage et prévoir une version sur fond sombre. Adrien ouvre son fichier. Une troisième question lui vient, autrement plus embarrassante à écrire : est-ce que l’ensemble vous plaît encore ? Il laisse le curseur au bout de cette phrase sans l’envoyer.
 
 Il jette un regard à son carnet de notes posé à côté du clavier, ce même carnet où il a commencé à consigner ses pensées pour ne plus laisser ses émotions dicter sa réalité. Il y a quelques jours, alors qu'il luttait contre la tristesse et l'ombre de Marina, il avait promis de ne plus laisser son anxiété définir sa valeur. Pourtant, face à ce mail d'un homme qui représente l'autorité, il se sent soudain redevenir un petit garçon de huit ans, maladroit et démuni. Il a l'impression que s'il prend une décision créative seul, il va forcément se tromper. Il a déjà ouvert trois onglets de tutoriels pour vérifier des paramètres techniques qu'il maîtrise pourtant parfaitement depuis des années.
 
@@ -51,7 +51,7 @@ Adrien peut écrire à son moi plus jeune comme il écrirait à une personne qu�
 ### 3. Essayer une tâche simple sans vérification immédiate
 Sur un détail à faible enjeu, Adrien peut travailler quelques minutes avant de demander un avis. Il relit ensuite son travail avec un critère précis, par exemple la lisibilité du logo. Quand le brief est ambigu ou que l’enjeu est élevé, consulter reste pertinent.
 
-## Adrien commence à se faire confiance
+## Une version à envoyer
 
 Adrien lève les mains de son clavier et observe ses tatouages au poignet, des lignes géométriques qu'il a lui-même dessinées il y a des années. Il se souvient qu'à l'époque, il n'avait demandé l'avis de personne pour ce choix qui marque sa peau pour toujours. Pourquoi serait-il moins capable aujourd'hui de choisir entre deux nuances de bleu pour un client ? Il ferme les tutoriels ouverts sur son navigateur. Un calme étrange s'installe dans la pièce, seulement troublé par le ronronnement du ventilateur de son ordinateur.
 
@@ -59,9 +59,11 @@ Il repense à sa progression depuis sa rupture avec Marina. Il a appris à ident
 
 En se levant pour aller vers sa fenêtre qui donne sur une petite rue de Lyon, Adrien ressent une forme de solidité nouvelle. Le sentiment d'être un imposteur n'a pas totalement disparu, mais il ne dirige plus ses doigts sur le clavier. Il réalise que l'autorité n'est qu'un miroir sur lequel il projetait ses propres doutes d'enfant. En choisissant d'agir malgré la peur de l'incompétence, il commence enfin à devenir le propre patron de son esprit, une étape cruciale pour son épanouissement en tant qu'homme et en tant qu'artiste indépendant.
 
+Il envoie à Antoine les deux versions et lui demande sur quel support le lettrage doit rester lisible. Il cherche encore son accusé de réception avant de quitter le bureau.
+
 ---
 
-Le chemin pour se libérer de la dépendance et de l'incompétence face à l'autorité demande de la patience et de la bienveillance envers soi-même. Ce qui compte pour Adrien, c’est de distinguer un choix qu’il peut faire de lui-même d’une question qui mérite une clarification. Chaque petite décision prise seul est une victoire qui vient fragiliser les fondations de cette croyance limitante.
+Adrien peut arrêter un choix de lettrage avec les indications qu’il a. Pour le support final, il a encore besoin d’une réponse d’Antoine.
 
 Il est normal de ressentir une résistance intérieure lors des premières tentatives d'autonomie. Le doute peut revenir. Vous pouvez ajuster la difficulté de l’exercice à ce qui vous semble faisable aujourd’hui.
 

@@ -13,11 +13,9 @@ contexte: "en tant que manager"
 draft: false
 ---
 
-Nadia ajuste sa veste de tailleur devant la vitre teintée de la salle de réunion. À travers le verre, elle observe son équipe s'installer pour le grand oral des nouveaux candidats. Son regard se pose sur Julie, son assistante, qui dispose avec soin les dossiers sur la table. Nadia sent une tension familière, mais contrairement à ses crises de panique d'avril dernier lors de sa présentation au comité de direction, elle se sent plus ancrée. Elle se rappelle avoir compris, il y a quelques semaines seulement, que ses émotions ne sont pas aussi visibles qu'elle le croit. Cette prise de conscience de l'illusion de transparence lui permet aujourd'hui d'afficher un calme serein, même si son esprit de haut potentiel tourne à plein régime.
+Le premier candidat, Marc, accroche le pied d’une chaise en entrant. Nadia écrit « hésitant » en haut de la fiche. Dix minutes plus tard, il décrit avec précision un lancement où son équipe avait changé de direction faute de données. Elle se rend compte qu’elle a pris plus de notes sur son entrée que sur sa réponse.
 
-Le premier candidat, un jeune homme nommé Marc, entre dans la pièce. Il trébuche légèrement sur le tapis, s'excuse avec une maladresse un peu gauche et bafouille ses premières salutations. Immédiatement, une sentence tombe dans l'esprit de Nadia : pas assez rigoureux, manque d'assurance. Elle note deux mots sur son carnet : instable, fragile. Elle ne peut s'empêcher de comparer cette entrée ratée à la rigueur quasi militaire qu'elle avait imposée pour l'anniversaire de Yasmine. Pour elle, si le cadre initial n'est pas parfait, tout le projet est compromis. Pendant les quarante minutes qui suivent, Marc déploie pourtant des arguments techniques d'une précision chirurgicale et propose une stratégie marketing innovante qui pourrait révolutionner leur prochain lancement. Mais Nadia n'écoute que d'une oreille distraite. Elle cherche inconsciemment chaque petit signe qui confirmerait sa première impression négative.
-
-À la fin de l'entretien, elle ferme son dossier d'un geste sec. Elle repense à ses séances de pilates qui l'aident à canaliser son besoin de contrôle, mais ici, dans le cadre professionnel, ses vieux réflexes de directrice marketing exigeante reprennent le dessus. Elle a déjà tranché. Pour elle, Marc est hors-jeu dès la première minute. C'est en voyant Julie griffonner des notes enthousiastes qu'un doute traverse l'esprit de Nadia. Est-elle en train de juger l'entièreté d'une compétence sur une simple entrée en matière ? Son cerveau, si rapide à analyser, vient de se faire piéger par sa propre efficacité.
+Sarah passe ensuite. Elle a une façon plus assurée de présenter son parcours. Nadia a déjà une préférence avant la première question technique. Elle retourne la fiche de Marc et reprend les critères qu’elle avait préparés avec Julie.
 
 ## Définition de l'effet de primauté chez le manager
 
@@ -47,13 +45,11 @@ Préparez les mêmes questions principales et les mêmes critères pour chaque c
 ### 3. La prise de note différée et collaborative
 Prenez des notes factuelles pendant l'entretien et reportez le jugement global. Quand plusieurs personnes évaluent la candidature, chacune peut d'abord remplir sa propre grille. Les écarts permettent ensuite de revenir sur les exemples qui les expliquent.
 
-## Évolution de Nadia vers un leadership plus juste
+## Julie remet une réponse dans la balance
 
-Alors que le deuxième candidat s'apprête à entrer, Nadia pose son stylo. Elle repense à Marc, qui attend sans doute dans le couloir avec l'espoir d'avoir convaincu. Elle réalise que son besoin de contrôle est en train de saboter son recrutement, tout comme il avait failli lui faire refuser son poste actuel par peur de l'inconnu et attachement au statu quo. Elle décide d'appliquer immédiatement la technique de l'inversion. Elle regarde ses notes : instable, fragile. Elle se force alors à se remémorer la partie technique de l'exposé de Marc. Il a parlé de l'automatisation des flux de données avec une clarté remarquable. Elle ajoute une note : visionnaire, précis, excellente maîtrise technique.
+Nadia demande à Julie de donner son avis avant elle. Julie a retenu une autre réponse de Marc et trouvé celle de Sarah plus claire sur les délais. Nadia avait écrit un avis presque inverse. Elles relisent leurs notes et s’aperçoivent que leurs questions de relance n’étaient pas les mêmes.
 
-Quand le candidat suivant, une femme prénommée Sarah, s'installe, Nadia s'efforce de rester neutre. Sarah est charismatique, elle sourit avec assurance et son introduction est parfaite. Nadia sent l'envie de l'embaucher immédiatement. Mais elle se souvient de l'effet de primauté. Elle décide de rester vigilante. Pendant tout l'entretien, elle s’appuie sur les mêmes critères. Elle note que si l'entrée était brillante, Sarah reste assez évasive sur les questions de mise en œuvre concrète au milieu de l'échange. Nadia ne se laisse pas aveugler par le départ éclatant. Elle se sent plus équilibrée dans son rôle de leader.
-
-Après le départ de Sarah, Nadia appelle Julie dans son bureau. Pour la première fois, elle ne donne pas son avis en premier. Elle demande à Julie ce qu'elle a pensé de la cohérence des arguments techniques de Marc par rapport à ceux de Sarah. La discussion qui s'ensuit est riche et nuancée. Nadia sent que sa posture change. Elle n'est plus la directrice qui doit tout savoir et tout trancher instantanément pour prouver sa valeur. Elle accepte de laisser de la place à l'incertitude et à la réévaluation. En sortant du bureau, elle pense à Antoine et à leur soirée à venir. Elle se dit que cette nouvelle souplesse mentale, qu'elle commence à explorer dans son carnet de journaling, pourrait bien l'aider à être simplement présente, sans chercher à étiqueter chaque instant ou à performer.
+Nadia demande qu’au prochain entretien elles posent les deux mêmes cas à tous les candidats. Elle barre « hésitant » sans effacer ce qu’elle a vu en entrant. Dans la marge, elle note surtout la réponse qu’elle veut pouvoir comparer.
 
 ---
 

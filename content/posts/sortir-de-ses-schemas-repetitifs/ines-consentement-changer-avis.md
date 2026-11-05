@@ -51,7 +51,7 @@ Demander une couverture permet à Inès de gagner quelques secondes, mais ne tra
 
 Inès n’est pas coupable d’hésiter ni obligée de parler parfaitement pour être respectée. Elle peut chercher une manière accessible de signaler l’arrêt. Un mot bref, une main écartée ou un geste convenu peuvent aider si parler devient difficile. L’important est que la partenaire accueille l’information et cesse, plutôt que d’exiger une explication complète avant d’entendre la limite. Les ajustements de communication soutiennent le droit de choisir ; ils ne le conditionnent pas.
 
-## Trois techniques pour rendre le changement d’avis praticable
+## Quand l’une veut s’arrêter
 
 ### 1. Préparer une phrase qui annonce seulement l’arrêt
 
@@ -77,13 +77,13 @@ Le but n’est pas de démontrer que dire non n’a jamais de conséquences inco
 
 Une semaine plus tard, Inès peut refaire ce bilan en quelques lignes : qu’est-ce que je voulais, qu’est-ce que j’ai communiqué, comment mon choix a-t-il été accueilli ? Elle ne comptabilise pas les refus comme des échecs. Si l’observation révèle de la peur, des pressions ou une impossibilité répétée de s’arrêter, elle cherchera un soutien adapté. L’exercice doit ouvrir des choix, pas encourager à rester exposée pour obtenir des données supplémentaires.
 
-## Inès laisse une soirée changer de direction
+## Le train de retour
 
 Sur le quai du retour, Clara sort de son sac les cartes de l’exposition. Elles en comparent les couleurs pendant qu’un agent déplace un panneau roulant. Inès garde le souvenir d’un moment maladroit, mais aussi celui du roman lu côte à côte ensuite. La soirée ne correspond pas au scénario qu’elle imagine avant le départ. Elle n’en devient pas une soirée perdue. Ce constat reste modeste et suffisamment concret pour qu’elle puisse s’y appuyer.
 
 À la bibliothèque, quelques jours plus tard, Inès range des albums et remarque que sa pensée retourne encore à la question de Clara. Elle se demande si elle aurait dû mieux la rassurer. Elle retrouve la distinction travaillée : répondre à une question n’oblige pas à annuler un arrêt. Elle prévoit d’en parler au dîner, sans rouvrir une négociation sur ce qu’elle aurait dû accepter. La conversation porte sur les mots utiles et sur ce qui les rend toutes deux à l’aise.
 
-Clara dit qu’elle préfère une phrase directe à une longue disparition derrière des prétextes. Inès ne promet pas d’être toujours capable de cette clarté. Elle peut en revanche demander que leurs vérifications restent bienvenues et que l’hésitation ne soit pas traitée comme un oui. Elles gardent la possibilité de modifier leur accord de communication. Leur progrès se mesure ici à un arrêt respecté et à une conversation possible, pas à la disparition de toute gêne.
+Clara lui dit qu’elle a préféré entendre « attends » plutôt que de se demander pourquoi Inès ne lui répondait plus. Inès s’en souviendra sans être certaine que le mot lui viendra aussi vite une autre fois. Pour le moment, elle montre à Clara la carte de l’exposition qu’elle aimerait accrocher chez elles.
 
 ---
 

@@ -13,9 +13,9 @@ contexte: "lors d'un déménagement"
 draft: false
 ---
 
-Thomas contemple les cartons empilés dans le salon de leur nouvel appartement, situé dans une petite rue calme de Lyon. Le ruban adhésif crisse sous ses doigts alors qu'il scelle la dernière boîte de livres d'histoire. Nous sommes le 12 avril 2026, et ce déménagement marque une étape cruciale dans sa vie avec Émilie. Pourtant, au lieu de l'excitation attendue, un vide étrange l'envahit. Il regarde par la fenêtre le camion stationné en double file, les mains ballantes, incapable de se mobiliser pour la suite des opérations.
+Le premier carton que Thomas ouvre à Lyon porte la mention « livres », mais il contient aussi le câble de la lampe et les albums photo. Il commence une pile pour chaque pièce. Dans le nouvel appartement, aucune des piles n’a encore d’endroit où aller. Émilie lui demande s’il veut qu’elle choisisse avec lui un coin pour la bibliothèque.
 
-Cette sensation de flottement n'est pas nouvelle pour lui. Il se souvient de cette réunion avec sa collègue Valérie en mars dernier, où il s'était laissé porter par la décision du groupe sans conviction, ou de ce moment de paralysie au supermarché face au choix d'un café. Aujourd'hui, l'ennui s'installe comme une brume épaisse. Ce n'est pas le manque d'occupation qui le pèse, car il reste des dizaines d'objets à trier, mais une absence totale d'élan vital. Il se sent spectateur de sa propre installation, comme si son esprit cherchait à s'absenter d'une réalité trop chargée d'enjeux.
+Thomas avait promis de libérer le passage avant le soir. Il tire un carton contre le mur et s’assoit dessus. Il ne sait pas encore s’il s’ennuie parce qu’il répète le même geste depuis le matin ou s’il veut surtout que personne ne lui pose une nouvelle question. Il demande à Émilie de reprendre après le déjeuner.
 
 Émilie l'appelle depuis la cuisine pour savoir où ranger les verres à vin. Thomas répond par un automatisme poli, mais son regard reste fixé sur une rayure sur le parquet. Il ressent une lassitude mentale qui confine au désintérêt total. Il se demande si les allers-retours dans les escaliers avec Antoine l’ont aussi fatigué. D'ailleurs, il repense avec une pointe de regret au message ambigu qu'il avait envoyé à Antoine quelques jours plus tôt : une fois de plus, il avait sacrifié son propre repos pour ne pas dire non, et cette fatigue accumulée nourrit aujourd'hui son envie de disparaître dans le décor. C'est un désengagement émotionnel profond. Il se demande pourquoi, alors qu'il devrait se réjouir de ce nouveau départ, il éprouve cette envie irrépressible de ne rien faire, de se laisser couler dans une passivité morne.
 
@@ -53,7 +53,7 @@ Le tri peut lui paraître monotone même s’il tient à son nouveau logement. P
 ### 3. L'acceptation de la pause émotionnelle
 Thomas peut s’accorder un moment sans trier. S’il remarque une autre préoccupation, il peut la noter ; s’il ne remarque rien, la pause reste possible.
 
-## Évolution de Thomas et reprise d'initiative
+## Un carton de photos suffit
 
 Assis sur une pile de journaux, Thomas se demande s’il craint de décevoir Émilie. Il n’a pas besoin d’en être certain pour reprendre doucement par un carton de photos.
 
@@ -64,7 +64,5 @@ Il regarde autour de lui. Les murs blancs de la chambre d'amis, qui pourrait dev
 ---
 
 L’ennui n’est pas un message à décoder à tout prix. Thomas peut changer de tâche, faire une pause ou parler à Émilie des décisions en suspens.
-
-Votre valeur ne se mesure pas à votre productivité, même au milieu des cartons. S'autoriser à ressentir de la lassitude est une étape vers une gestion plus saine de ses émotions. C'est en acceptant ces moments de creux que l'on trouve la force de construire des bases solides pour la suite de son parcours personnel.
 
 Si cet ennui se transforme en une apathie persistante, un sentiment de vide durable ou s'il s'accompagne d'une tristesse profonde qui vous empêche d'avancer au quotidien, il est utile de consulter un professionnel de la psychologie. Un thérapeute pourra vous aider à démêler les racines de cette déconnexion et à retrouver un élan vital authentique.

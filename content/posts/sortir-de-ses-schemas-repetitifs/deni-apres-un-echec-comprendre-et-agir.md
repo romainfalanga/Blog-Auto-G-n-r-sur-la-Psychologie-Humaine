@@ -13,7 +13,7 @@ contexte: "après un échec"
 draft: false
 ---
 
-Adrien est assis sur un banc de pierre, le long du canal Saint-Martin, en ce dimanche 26 avril 2026. L'air printanier est encore frais, mais il ne sent pas la brise qui fait rider la surface de l'eau. Ses yeux restent fixés sur l'écran éteint de sa tablette graphique, posée sur ses genoux. Il y a dix jours, l'appel d'offres pour la marque de cosmétiques éthiques, celui pour lequel il s'était tant battu malgré ses doutes, a rendu son verdict. Il n'a pas été retenu. Le client s'est contenté d'un message automatique froid et laconique.
+Au bord du canal Saint-Martin, Adrien ferme son agenda pour la deuxième fois. Il avait choisi ce banc pour reprendre le travail. Dix jours après la réponse à l’appel d’offres, il continue de répondre à Charlotte que ce contrat n’avait pas grande importance. Cela fait pourtant une demi-heure qu’il n’a pas allumé sa tablette.
 
 Depuis cette annonce, Adrien agit comme si de rien n'était. Il se lève à la même heure, installe son matériel dans ce parc qu'il affectionne, et lance ses playlists habituelles. Il dit à sa sœur Charlotte, lorsqu'elle l'appelle, que tout va bien, que ce n'est qu'un contretemps et qu'il a déjà d'autres pistes bien plus intéressantes. Pourtant, son stylet reste immobile. Il passe des heures à réorganiser les dossiers de son ordinateur ou à nettoyer ses pinceaux, sans jamais tracer la moindre ligne. Il se répète que ce refus n'était pas un véritable échec, mais une erreur de jugement de la part de la marque qui n'a pas compris sa vision artistique.
 
@@ -59,13 +59,15 @@ S’il le souhaite, Adrien peut rouvrir le dossier du projet refusé deux minute
 
 Adrien redoute ce que reconnaître sa déception voudrait dire pour lui. Cette approche consiste à se demander quelles seraient les conséquences concrètes si l'on reconnaissait que cet échec est douloureux. On liste alors les impacts réels et non fantasmés. Adrien pourrait s'apercevoir que s'il admet sa tristesse, il devra éventuellement chercher un autre contrat plus rapidement, mais il ne perdra pas son talent. Identifier que la réalité de l'échec est gérable rend le déni moins nécessaire comme bouclier.
 
-## Évolution d'Adrien et acceptation
+## Ce qu’il dit du refus
 
 Sur son banc face au canal, Adrien soupèse son stylet. Il se souvient de la période qui a suivi sa rupture avec Marina, lorsqu'il se perdait dans des activités secondaires pour ne pas voir que la relation était terminée. Il reconnaît ce goût amer, ce même cynisme qu'il avait ressenti au square du Temple en observant son ancienne agence. Il comprend que son silence créatif actuel n'est pas une panne d'inspiration, mais une réaction de son esprit qui refuse de valider sa souffrance.
 
 Il sort finalement son carnet, celui qui contient ses réflexions sur ses schémas passés. Il écrit une seule phrase, la main un peu tremblante : "Je suis triste et j'ai honte d'avoir perdu ce contrat." En traçant ces mots, il sent un picotement derrière ses yeux, une sensation qu'il avait étouffée par une discipline de fer ces derniers jours. Il ne cherche pas à se justifier, il ne blâme pas le client, il ne se traite pas d'incapable. Il reconnaît simplement l'émotion telle qu'elle est, appliquant enfin la leçon apprise lors de ses crises de rumination nocturnes : nommer le sentiment pour ne plus le laisser devenir une faillite identitaire globale.
 
-Ce geste simple semble débloquer sa respiration. Le monde autour de lui reprend ses couleurs. Il regarde le tatouage sur son poignet, un petit symbole de résilience qu'il s'est fait faire après son départ de l'agence. Il se rappelle qu'il a déjà traversé des périodes difficiles. En acceptant de regarder l'échec en face, Adrien cesse d'être une victime passive de ses propres mécanismes de défense. Il n'a pas encore de nouvelle idée de logo, mais il n'a plus besoin de faire semblant. Il range son matériel, se lève, et décide d'appeler Julien pour lui proposer une promenade sincère.
+Ce geste simple semble débloquer sa respiration. Le vent continue de soulever les coins de la feuille. Il replie son carnet pour garder la phrase avec lui. Il regarde le tatouage sur son poignet, un petit symbole de résilience qu'il s'est fait faire après son départ de l'agence. Il se rappelle qu'il a déjà traversé des périodes difficiles. En acceptant de regarder l'échec en face, Adrien cesse d'être une victime passive de ses propres mécanismes de défense. Il n'a pas encore de nouvelle idée de logo, mais il n'a plus besoin de faire semblant. Il range son matériel, se lève, et décide d'appeler Julien pour lui proposer une promenade sincère.
+
+Charlotte lui demande au téléphone s’il a travaillé ce matin. Il lui dit qu’il a sorti ses affaires et qu’il n’a presque rien fait. Elle attend. Adrien ajoute qu’il aurait aimé avoir ce contrat. C’est plus qu’il ne lui en a dit lors de leurs derniers appels.
 
 ---
 

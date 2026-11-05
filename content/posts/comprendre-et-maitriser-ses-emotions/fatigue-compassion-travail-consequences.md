@@ -13,11 +13,11 @@ contexte: "au travail"
 draft: false
 ---
 
-La porte du bureau claque doucement derrière elle. Isabelle reste un instant appuyée contre le bois froid, ses doigts encore chauds du stylo abandonné sur la table. Aujourd'hui, elle a reçu trois élèves en crise successive : une élève secouée par une dispute familiale, un garçon tremblant qui refuse d'aller en classe, et une jeune fille qui parle d'abandon avec la même précision qu'une adolescente qui a déjà trop donné. Le couloir est encombré d'odeurs de vestes mouillées et d'un crissement de sacs à dos sur le carrelage, mais ce sont les sons étouffés et les visages trop jeunes qui restent collés à sa peau.
+Isabelle a ouvert son rapport il y a dix minutes. Elle n’a encore écrit que la date. Une élève est venue après une dispute familiale, un autre n’a pas réussi à entrer en classe, puis la dernière est restée bien après la sonnerie. Quand quelqu’un frappe de nouveau, Isabelle espère un instant que la porte ne s’ouvrira pas.
 
-Elle s'assied sur la chaise en plastique de son bureau, le dossier froid contre son dos. Le rapport qu'elle doit rédiger reste vierge. Ses yeux verts scrutent l'écran sans s'y fixer. Elle sent une sorte de vide qui n'est pas une absence d'émotion mais une forme d'engourdissement. Elle a donné tellement d'attention aujourd'hui qu'il ne lui en reste plus pour elle ou même pour son fils, Théo. Le mot revient en boucle dans sa tête : fatigue de compassion au travail. Elle sait nommer ce qui lui arrive, et cela rend la tension moins mystérieuse, mais pas moins lourde.
+Le rapport est encore ouvert sur son écran. Isabelle relit une phrase et ne sait plus si elle l’a écrite ou simplement pensée. Ce soir, Théo voulait lui faire écouter un morceau. Elle aimerait avoir assez d’attention pour l’écouter jusqu’au bout.
 
-Isabelle se souvient de son inquiétude quand Aurélie tardait à répondre et de la difficulté de laisser Geneviève trier ses papiers. Ces souvenirs lui viennent en refermant la porte. Au collège, elle vient aussi d’enchaîner trois entretiens sans pause, un élément concret dont elle peut parler avec l’équipe.
+Elle regarde les trois entretiens sur son agenda. Ils se touchent. Elle n’a rien prévu entre la fin du dernier et l’arrivée du prochain élève. Elle ouvre un message pour l’équipe, le referme, puis écrit une question précise sur le rendez-vous de demain.
 
 ## Qu’est-ce que la fatigue de compassion ?
 
@@ -53,7 +53,7 @@ Elle peut dire : « Je vais vérifier avec vous qui peut vous accompagner pour l
 
 Une supervision organisée dans un cadre professionnel peut servir à examiner les situations, les appuis et les responsabilités. Les changements à discuter peuvent concerner les créneaux, le nombre de suivis ou les relais. Les temps de repos et l’organisation du travail ont leur place dans cet échange.
 
-## Évolution d'Isabelle face aux frontières professionnelles
+## Le relais du lendemain
 
 Après le troisième entretien, Isabelle vérifie avec l’équipe quelle personne prendra le relais. Elle termine le rapport et le range dans le dossier professionnel prévu. En quittant le bâtiment, elle sait quelle suite a été décidée et par qui.
 

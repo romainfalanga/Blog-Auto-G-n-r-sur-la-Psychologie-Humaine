@@ -13,7 +13,7 @@ contexte: "en couple"
 draft: false
 ---
 
-La poêle fait un petit cliquetis quand Thomas retourne les légumes. Émilie mange lentement, le regard posé sur la fenêtre embuée par la pluie fine qui tombe dehors. Thomas sent son estomac se nouer : il sait que derrière ce mutisme il y a un jugement sur leur conversation d'hier au sujet des enfants. Il pense déjà aux réponses, aux justifications qu'il préparera. Sans attendre, il commence à raconter tout ce qu'il a lu sur la parentalité, à énumérer des arguments qui, selon lui, la rassureront.
+La poêle fait un petit cliquetis quand Thomas retourne les légumes. Émilie mange lentement, le regard posé sur la fenêtre embuée par la pluie fine qui tombe dehors. Thomas sent son estomac se nouer : il est tenté d’entendre dans ce silence un jugement sur leur conversation d'hier au sujet des enfants. Il pense déjà aux réponses, aux justifications qu'il préparera. Sans attendre, il commence à raconter tout ce qu'il a lu sur la parentalité, à énumérer des arguments qui, selon lui, la rassureront.
 
 Émilie lève à peine la tête. Elle souffle un mot qui ressemble à "je suis fatiguée" puis reprend son assiette. Thomas entend dans cette phrase un reproche. Ses mains cherchent son couteau, il parle plus vite, plus bas, comme pour éviter d'allumer encore plus la pièce. Il suppose qu'elle lui reproche d'avoir trop insisté hier, qu'elle le trouve égoïste, qu'elle doute de sa capacité à être père. Ses paroles se transforment en aveu anticipé : il évoque ses propres peurs, ses manières d'avoir grandi dans une famille nombreuse et son besoin de plaire, avant même qu'Émilie n'exprime une seule critique.
 
@@ -47,7 +47,7 @@ Cette méthode consiste à reconnaître la pensée comme une hypothèse plutôt 
 ### 3. Laisser une hypothèse en suspens
 Thomas peut noter les mots prononcés, le sens qu’il leur a donné et ce qui reste incertain. Un ton ou un geste ne donne pas automatiquement accès à une intention. Il peut poser une question si le moment convient, puis accepter qu’Émilie préfère répondre plus tard.
 
-## Évolution de Thomas : poser des questions au lieu de suppositions
+## La question qu’il n’a pas posée hier
 
 Ce soir, après avoir commencé à justifier ses positions comme auparavant, Thomas ralentit sa propre voix. Il pense à la vérification factuelle qu'il a pratiquée après la réunion du 18 mars. Il sait que tout anticiper lui a déjà coûté une dispute avec Émilie le 15 mars, quand il a voulu aider la conversation en proposant des solutions plutôt qu'en écoutant. Il se rappelle des mots de Valérie en salle des professeurs, quand elle a noté qu'il gagnait souvent l'adhésion en cédant mais perdait sa tranquillité intérieure.
 

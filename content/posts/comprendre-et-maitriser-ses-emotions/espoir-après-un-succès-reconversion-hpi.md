@@ -13,11 +13,9 @@ contexte: "après un succès"
 draft: false
 ---
 
-Le soleil de cet après-midi d'avril tape contre la vitre de l'ancien bureau commercial de Margot, devenu aujourd'hui son sanctuaire de coach. Elle fixe le virement qui vient d'apparaître sur son écran : le paiement de son premier programme complet d'accompagnement. C'est concret, c'est là. Ce succès, qu'elle attendait depuis son burn-out il y a deux ans, devrait la faire sauter de joie, mais un frisson étrange parcourt son échine. Elle se souvient de la paralysie qu'elle ressentait le mois dernier face à ses archives, ce biais du coût irrécupérable qui la retenait en arrière. Aujourd'hui, le verrou a sauté. Elle ne cherche plus à obtenir un remboursement imaginaire de ses années de labeur en s'accrochant à de vieux dossiers ; elle accepte enfin que sa valeur ne dépend pas de son titre de directrice commerciale, mais de sa capacité actuelle à accompagner l'autre.
+Le virement s’affiche sur le téléphone de Margot. C’est le premier règlement d’un programme complet, après les rendez-vous isolés du début. Elle lit le montant deux fois. Dans le bureau, à l’endroit où elle a posé une lampe pour les séances, le trophée de Chloé prend toujours la poussière.
 
-Elle se lève et marche vers la fenêtre. Dans le jardin, les cerisiers sont en fleurs, une explosion de blanc qui contraste avec le silence pesant de la maison. Philippe est encore au travail et les chambres de Chloé et Martin restent désespérément rangées. Margot caresse le bois du rebord de la fenêtre, sentant sa rugosité sous ses doigts. Elle ressent une émotion nouvelle, plus profonde qu'une simple satisfaction passagère. C'est une lumière qui s'allume au loin, une sorte de certitude fragile mais tenace que l'avenir n'est plus une menace, mais un terrain de jeu. Elle repense à ce trophée de danse de Chloé retrouvé récemment, qui l'avait plongée dans une nostalgie dévorante. Ce vide affectif, qu'elle tentait de combler par une fusion impossible avec ses enfants, commence à laisser place à une saine autonomie.
-
-Pourtant, Margot commence déjà à analyser cette sensation. Est-ce de l'optimisme béat ? Ou cet espoir est-il le moteur dont elle a besoin pour reconstruire son couple et sa vie de femme de cinquante ans ? Elle repense à sa séance de méditation de ce matin. Elle commence enfin à habiter son corps plutôt que de simplement le diriger comme elle le faisait dans le commerce. Ce premier succès professionnel n'est pas une fin, c'est le point de départ d'une trajectoire qu'elle n'osait plus imaginer.
+Elle ouvre son calendrier pour voir combien de créneaux elle pourrait proposer le mois suivant. Elle en compte trop : lundi, par exemple, elle avait prévu d’aller marcher avec Philippe. Elle laisse les créneaux en brouillon et lui envoie une photo du virement, montant masqué, accompagnée d’un point d’exclamation. Puis elle revient au calendrier.
 
 ## Qu'est-ce que l'espoir après un succès ?
 
@@ -47,13 +45,11 @@ Contrairement au journal de gratitude qui se concentre sur le passé immédiat, 
 ### 3. La technique de l'ancrage par le succès
 Quand l'espoir vous submerge ou que le doute pointe son nez derrière la réussite, utilisez un objet physique qui symbolise votre succès. Pour Margot, cela pourrait être son nouveau carnet de notes de coach. Tenez l'objet dans vos mains, fermez les yeux et rappelez-vous l'instant précis où vous avez reçu la nouvelle de votre succès. Ressentez la chaleur dans votre poitrine et la clarté d'esprit. Le carnet peut servir de rappel de ce que Margot a déjà fait ; il n’a pas besoin de lui faire revivre la même émotion pour être utile.
 
-## Margot commence à poser de nouveaux jalons
+## Deux créneaux sur le calendrier
 
-Le soir tombe sur la maison, mais au lieu de l'angoisse habituelle face au silence, Margot ressent une étrange paix. Elle repense au dîner de la semaine dernière où elle avait dû pratiquer la respiration en boîte pour ne pas exploser face à Philippe. Ce soir-là, le dégoût qu'elle ressentait pour ses bruits de mastication semblait insurmontable. Aujourd'hui, l'espoir après un succès lui donne une force différente. Elle ne se sent plus comme une victime de sa vie, mais comme l'architecte de son renouveau. Elle prend son journal et, au lieu de simplement lister ses gratitudes, elle dessine les contours de ce qu'elle veut pour son couple.
+Margot réserve deux créneaux pour préparer les séances du programme. Dans la case de mardi, elle laisse du temps pour reprendre les notes de sa cliente. C’est encore le seul programme complet payé. Elle n’a pas de réponse pour le mois suivant.
 
-Quand Philippe rentre, il la trouve dans la cuisine, non pas prostrée sur ses doutes, mais occupée à préparer un plat dont l'odeur de thym et de citron embaume la pièce. Elle l'accueille avec un regard direct, sans ce voile de tristesse qui l'habitait depuis le départ de Chloé. Elle lui raconte sa journée, son premier contrat, et surtout, elle partage son espoir. Elle ne lui demande pas de la rassurer, elle l'invite dans sa vision. C'est un changement radical car elle n'attend plus que le bonheur vienne de l'extérieur, elle le cultive activement.
-
-Elle sait que le chemin sera encore long et que les vieux démons de la perfection ne sont jamais loin. Mais ce soir, l'espoir n'est pas une simple idée abstraite. C'est une boussole. Elle repense à Sylvie, sa mentor, qui lui disait souvent que le plus dur n'est pas de réussir, mais d'accepter que l'on mérite de réussir. Margot sourit en servant le dîner. Elle réalise que ce premier succès n'était que le déclencheur d'une transformation bien plus vaste, celle d'une femme qui réapprend à s'aimer et à croire en demain, même quand la maison est un peu trop grande.
+Philippe a vu son message. À table, il lui demande si elle avait peur que le paiement n’arrive pas. Elle dit que oui, et ajoute qu’elle avait aussi très envie de l’appeler. Après le dîner ils regardent la météo de lundi. Leur autre discussion attendra le moment prévu.
 
 ---
 

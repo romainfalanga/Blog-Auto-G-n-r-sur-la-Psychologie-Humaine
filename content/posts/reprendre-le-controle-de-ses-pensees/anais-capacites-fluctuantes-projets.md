@@ -13,7 +13,7 @@ editorial_pack: "psychology-v10"
 draft: false
 ---
 
-Une affiche de bal occupe la moitié de la table du centre culturel. Anaïs suit du regard les lettres rouges et le nom d'une salle disparue. Ses capacités fluctuantes ne l'empêchent pas d'avoir envie de participer à cette exposition d'affiches anciennes. Elles rendent plus difficile la question qui suit : que peut-elle promettre aujourd'hui pour une date où elle ne connaît pas son état ?
+Une affiche de bal occupe la moitié de la table du centre culturel. Anaïs suit du regard les lettres rouges et le nom d'une salle disparue. Anaïs voudrait retrouver à quel endroit on dansait. Elle imagine déjà la question qu’un visiteur pourrait poser devant l’affiche. Quand Mireille lui montre le calendrier, elle voit tout ce qu’elle devrait encore faire entre la recherche du nom et l’ouverture au public.
 
 Mireille propose qu'elle prépare les notices de plusieurs documents. Anaïs, quarante-six ans, agente d'accueil municipale, connaît bien le quartier et aime retrouver son histoire dans les détails. Sa polyarthrite est diagnostiquée et suivie médicalement. Elle adapte déjà davantage son quotidien avec Benoît, son compagnon, mais un projet associatif lui semble demander une fiabilité d'une autre sorte, comme si la date finale annulait les variations possibles.
 
@@ -83,7 +83,7 @@ Elle ne cherche pas à prouver qu'une meilleure organisation supprime les sympt�
 
 Au point prévu, trois issues restent possibles : continuer de la même manière, réduire le rôle ou passer le relais. Aucune ne résume toute sa valeur. Le critère est la compatibilité entre le projet, les capacités présentes et les autres besoins. Anaïs peut rester liée à l'exposition sous une autre forme si l'écriture ne convient plus.
 
-## Anaïs choisit deux notices et un point de rencontre
+## Deux notices pour l’affiche rouge
 
 Devant l'affiche rouge, elle propose de commencer par deux documents qui l'intéressent particulièrement. Elle ne prend pas l'installation des panneaux et demande que les fichiers soient accessibles sans transport supplémentaire. Mireille accepte le principe, puis elles vérifient ce qui reste à répartir. L'accord demande quelques minutes de plus qu'un oui enthousiaste, mais ressemble davantage à un engagement réel.
 

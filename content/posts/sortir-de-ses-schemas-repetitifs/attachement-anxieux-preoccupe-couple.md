@@ -13,7 +13,7 @@ contexte: "en couple"
 draft: false
 ---
 
-Le soleil déclinait doucement sur l’horizon, colorant la pièce d’un orange chaud. Isabelle, 47 ans, psychologue scolaire dans un collège, était assise sur le canapé du salon, le téléphone à la main, le regard fixé sur l’écran. Son fils Théo, 16 ans, était dans sa chambre, casque sur les oreilles. Sa compagne, Aurélie, venait de sortir faire quelques courses, mais elle sentait déjà ce nœud familier se serrer dans son estomac. Chaque minute sans message, chaque silence devenait pour elle un vrai tourment. Elle se répétait : « Pourquoi elle ne m’a pas encore écrit ? Elle va peut-être partir… » Son cœur s’emballait, ses pensées tourbillonnaient, et elle n’arrivait plus à se calmer.
+Aurélie est partie faire des courses. Isabelle a déjà vérifié deux fois qu’elle n’avait pas coupé les notifications. Au bout du couloir, Théo rit dans son casque. Elle écrit « Tu rentres vers quelle heure ? », puis efface le message. Ce qu’elle voudrait savoir, c’est si Aurélie lui en veut encore.
 
 Quelques jours plus tôt, Aurélie lui avait confié vouloir un peu d’espace après une dispute anodine. Pourtant, cette « distance » résonnait pour Isabelle comme une menace, réveillant ses peurs intimes. Elle se surprenait à relire ses anciens textos, à scruter son téléphone pour un signe d’attention. Cette agitation constante l’épuisait, et elle se sentait encore plus isolée, enfermée dans une boucle qu’elle ne comprenait pas totalement.
 
@@ -45,7 +45,7 @@ Isabelle se souvient que sa mère ne répondait pas toujours à ses appels. Elle
 
 ## 3 techniques pour apaiser l'attachement anxieux-préoccupé en couple
 
-Si vous vous reconnaissez dans le vécu de Isabelle, voici quelques pistes concrètes pour mieux gérer cette hyperactivation émotionnelle et sortir de ce schéma répétitif.
+Si vous vous reconnaissez dans le vécu d’Isabelle, voici quelques pistes concrètes pour mieux gérer cette hyperactivation émotionnelle et sortir de ce schéma répétitif.
 
 ### 1. Pratiquer la pleine conscience émotionnelle
 
@@ -57,18 +57,18 @@ Exprimer ses besoins sans agressivité ni accusation est essentiel. Plutôt que 
 
 ### 3. Construire un espace personnel rassurant
 
-L’indépendance affective ne signifie pas couper le lien, mais développer ses propres ressources : hobbies, activités sociales, moments de détente seule. Isabelle a commencé à pratiquer la marche en nature et la lecture, ce qui lui a permis de se recentrer sur elle-même et de ne plus dépendre exclusivement des signes d’attention de Aurélie.
+L’indépendance affective ne signifie pas couper le lien, mais développer ses propres ressources : hobbies, activités sociales, moments de détente seule. Isabelle a commencé à pratiquer la marche en nature et la lecture, ce qui lui a permis de se recentrer sur elle-même et de ne plus dépendre exclusivement des signes d’attention d’Aurélie.
 
-## Isabelle apprend à accueillir ses peurs sans les laisser diriger
+## Quand Aurélie revient
 
-Au fil des semaines, Isabelle a intégré ces techniques avec patience. Lorsqu’elle ressentait l’angoisse monter, elle s’accordait une pause, respirait, et notait ses émotions dans un carnet. Elle a aussi commencé à en parler avec Aurélie, qui a accueilli sa vulnérabilité avec tendresse. Ce partage a renforcé leur lien et apaisé les tensions.
+Quand Aurélie revient, Isabelle l’aide à ranger les courses. Elle lui demande si elles peuvent reparler de leur dispute après le repas. Aurélie dit qu’elle préfère attendre le lendemain. Isabelle tend la main vers son téléphone, puis lui demande simplement si le lendemain soir lui convient.
 
-Isabelle commence à distinguer ses souvenirs, l’inquiétude qu’elle ressent aujourd’hui et les informations qu’Aurélie lui donne. Les réponses tardives la déstabilisent encore parfois. Quand elle peut en parler, elle découvre plusieurs façons de rester en lien.
+Plus tard, elle lit deux pages dans son lit et reprend le même paragraphe. La question lui revient. Au moins, elle a une heure pour en reparler.
 
-## Un message d’espoir pour vous
+## En parler quand le silence inquiète
 
 Si les silences vous préoccupent, une pause, une demande concrète et des activités qui vous intéressent peuvent vous donner des options. Vous pouvez observer ce qui vous aide dans cette relation et à quels moments.
 
-N’hésitez pas à vous faire accompagner par un professionnel si ces difficultés persistent ou deviennent trop lourdes à porter seule. Le chemin vers une meilleure connaissance de soi est un voyage rempli de découvertes, et vous méritez d’y avancer avec douceur et bienveillance. Comme Isabelle, vous pouvez transformer vos schémas répétitifs en une source de croissance et de sérénité.
+Si l’attente ou les conflits prennent une place difficile à supporter au quotidien, vous pouvez en parler avec un professionnel.
 
 Sources : [Fraley et collègues, mesure de l’attachement adulte, 2000](https://pubmed.ncbi.nlm.nih.gov/10707340/).

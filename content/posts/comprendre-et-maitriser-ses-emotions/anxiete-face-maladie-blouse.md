@@ -13,11 +13,13 @@ contexte: "face à la maladie"
 draft: false
 ---
 
-Le signal sonore du cabinet s'interrompt. Priya replie avec soin la chemise cartonnée du patient, ses doigts s'attardant sur l'étiquette usée. Mercredi 18 mars 2026, 20h10. La pluie s'écrase contre les vitres du parking tandis qu'à l'intérieur, la lumière crue des néons souligne la blancheur de sa blouse. Un diagnostic complexe est posé sur le bureau : une pathologie chronique qui renvoie Priya à la santé fragile de son père, Raj. Des souvenirs refont surface : les couloirs d'hôpital, le ton de voix altéré de sa mère, Anjali. Une tension sourde commence à s'installer dans sa poitrine, une sensation familière de "fermeture" qu'elle connaît trop bien.
+Priya vient de vérifier pour la troisième fois le numéro de téléphone du patient. Il doit rappeler avec les résultats d’un examen. Elle sait que le numéro est bon. Ce sont les mots « je vous tiens au courant » qu’elle n’arrive pas à laisser derrière elle.
+
+À l’hôpital, lorsqu’ils attendaient les résultats de Raj, sa mère lui avait dit la même chose. Anjali avait continué de parler après, de sa place de parking et de la soupe à réchauffer. Priya se souvient mieux de ces détails que du reste de l’appel. Elle referme le dossier et commence à trier ceux du lendemain.
 
 ## Les manifestations silencieuses de l'angoisse en milieu médical
 
-Elle ne met pas de mots sur son anxiété. À la place, elle planifie. Elle rédige les ordonnances, remplit chaque ligne du carnet de suivi et aligne les documents administratifs avec une rigueur presque chirurgicale. Cette surcharge de travail devient son abri : chaque case cochée l'éloigne de la peur qui l'habite. Lorsque Julie, la secrétaire, raccroche le combiné et lui adresse un signe de tête amical, Priya répond par un hochement bref, presque distant. 
+Elle complète le carnet de suivi, puis s’attarde sur une série de documents qui peuvent attendre demain. La secrétaire raccroche et lui demande si elle a encore besoin d’elle. Priya répond que non sans lever la tête. Une fois la porte fermée, elle s’aperçoit qu’elle a commencé à relire une ordonnance déjà signée.
 
 Priya reconnaît dans sa façon de se plonger dans les dossiers un geste familier. Il lui rappelle la distance qu’elle a prise après une soirée intime. Ce rapprochement est une piste pour elle ; ni la rigueur professionnelle ni le besoin d’une pause ne suffisent à révéler un style d’attachement.
 
@@ -39,6 +41,6 @@ Si cela lui convient, Priya peut remarquer le contact de ses pieds au sol ou la 
 
 Dans sa voiture à l’arrêt, Priya remarque ses doigts crispés sur le volant. Elle se demande si elle a besoin de repos, d’un échange avec un collègue ou d’un rendez-vous pour elle-même. Elle peut se poser cette question sans attribuer son ressenti à un seul trait de sa personnalité.
 
-## Priya commence à accepter de ressentir
+## Un appel à Anita
 
-Ce soir, Priya se demande quelle part de son agitation tient à la charge du cabinet et quelle part tient au souvenir de son père. Elle reconnaît l’inquiétude et décide d’en parler. Elle peut rester attentive à ses patients tout en faisant une place à ses propres besoins.
+Dans sa voiture, Priya envoie un message à sa sœur. « Papa, tu l’as eu cette semaine ? » Elle ajoute après une pause : « J’ai repensé à l’hôpital aujourd’hui. » Elle aurait préféré pouvoir lui dire pourquoi précisément. Anita lui propose de s’appeler le lendemain. Priya range le téléphone et rentre chez elle.

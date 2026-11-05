@@ -13,7 +13,7 @@ tags: ["couple à distance", "communication", "intimité", "limites", "Malik"]
 draft: false
 ---
 
-Deux assiettes sont visibles à l’écran, mais une seule personne est encore là. Malik attend Awa à l’heure de leur repas partagé à distance. Le lien tient parfois à ces détails : préparer quelque chose en même temps, se montrer une image ou raconter un incident sans importance. Ce soir, elle doit interrompre la connexion pour une contrainte professionnelle. Malik comprend le motif et reste néanmoins déçu.
+Awa a posé son assiette devant la caméra avant de s’absenter. La sienne n’est plus très chaude. Malik s’était mis à table en même temps qu’elle, comme ils le font certains soirs. Il voit maintenant son verre à l’écran et entend le bruit du dépôt dans sa propre mémoire, une fin de poste où lui aussi avait annoncé cinq minutes et mis beaucoup plus longtemps. Il voudrait savoir s’il doit encore attendre.
 
 Au dépôt, une intervention tardive change souvent son propre programme. Il sait ce que signifie une journée qui déborde. Pourtant, lorsqu’Awa ne revient pas à l’heure annoncée, il compte les minutes plutôt que manger. Il voudrait savoir s’il attend encore ou s’il poursuit sa soirée. La question pratique commence à prendre une autre forme : est-ce que ce moment compte autant pour elle ?
 
@@ -57,7 +57,7 @@ Une pause peut être utile lorsqu’elle possède un repère partagé. Dire que 
 
 Ils ne pourront pas toujours trouver un créneau parfait. Une réparation peut commencer par un message bref qui reconnaît l’effet de la dernière phrase, puis se poursuivre plus tard. Le couple gagne à disposer de plusieurs formes de reprise, au lieu de considérer le contact synchrone comme la seule preuve valable d’attention.
 
-## 3 techniques pour construire une proximité praticable
+## Savoir ce qu’on attend d’un appel
 
 ### 1. Distinguer contact bref et temps de discussion
 

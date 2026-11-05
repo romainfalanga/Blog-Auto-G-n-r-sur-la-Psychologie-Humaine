@@ -13,13 +13,9 @@ contexte: "lors d'un deuil"
 draft: false
 ---
 
-Monique ouvre la fenêtre du salon. L'air du soir entre en silence, froid et humide, sur la peau de ses avant-bras. Elle fixe la tasse de thé refroidie sur la table, sans goût, sans envie de la porter à ses lèvres. Les photos encadrées sur le buffet le regardent comme des témoins immobiles. Sa respiration est plate, comme si chaque inspiration devait traverser un épais rideau d'eau.
+La tasse de Monique a refroidi pendant qu’elle cherchait un numéro dans le carnet de Jean-Claude. Elle ne sait plus très bien quel numéro. Elle s’arrête à une page où il a noté le nom d’un garagiste, puis à une autre où l’encre a traversé le papier. Jean-Claude est mort depuis environ trois ans. Dans cette maison, elle ouvre encore un tiroir pour lui demander quelque chose avant de se rappeler qu’elle ne peut pas.
 
-À la bibliothèque où elle fait du bénévolat, elle répond aux questions des lecteurs, mais ses mots semblent séparés d'elle, mécaniques. À la maison, dans cette grande maison trop silencieuse depuis la disparition de Jean-Claude, elle oublie des rendez-vous, perd son portefeuille, puis s'en veut longuement, comme si chaque petite erreur confirmait qu'elle ne maîtrise plus rien. Elle sent, au fond de sa gorge, une pesanteur qui ralentit ses gestes, et parfois une colère glacée qui la surprend et la fait pleurer, sans prévenir.
-
-Monique pense souvent à la dernière voix de Jean-Claude qu'elle a entendue, à la dernière fois où elle a serré sa main. Elle voudrait pouvoir revenir en arrière, dire une chose différente, réparer un détail. Cette incapacité à agir, ce poids qui rend l'avenir flou, elle le ressent sans toujours pouvoir le nommer : c'est une impression d'impuissance liée au deuil qui s'insinue dans son quotidien, discrète mais totale.
-
-Elle lit des articles, parle peu, reçoit des messages amicaux auxquels elle répond par des silences. Sa sensibilité rend chaque remarque plus vive, chaque souvenir plus douloureux. Elle ne sait pas encore que cette impuissance peut se manifester de façons très concrètes, parfois invisibles, et qu’il existe des gestes simples pour reprendre un peu de contrôle, tout en douceur.
+Le matin, à la bibliothèque où elle est bénévole, une lectrice avait voulu savoir si un livre serait disponible vendredi. Monique a donné la date tout de suite. Une fois rentrée, elle a passé une heure devant le carnet sans décider si elle voulait le ranger. Elle ouvre la fenêtre. Dehors, quelqu’un referme une portière.
 
 ## Qu'est-ce que l'impuissance ?
 
@@ -88,18 +84,16 @@ Exercice concret :
 
 Écrire ou faire un rituel peut compter pour certaines personnes. Il est possible de ne rien écrire, de s’arrêter si le chagrin devient trop vif ou de choisir un geste plus simple, comme écouter une chanson.
 
-## Monique commence à reprendre du pouvoir sur son quotidien
+## Une bouteille sur la table de nuit
 
-Monique choisit aujourd'hui une micro-décision. Elle met son réveil 15 minutes plus tôt et pose une bouteille d'eau sur sa table de nuit. Elle se sent d'abord un peu sceptique face à la simplicité du geste, puis soulagée en le faisant. Plus tard, elle suit l'exercice d'ancrage avant d'ouvrir sa boîte mail, et la tension dans sa poitrine s'apaise légèrement. Nommer sa "colère" au lieu de tourner en rond la rend moins menaçante.
+Monique laisse le carnet dans le tiroir, à portée de main. Elle essaie d’écrire quelques mots à Jean-Claude. Elle s’arrête après son prénom et s’autorise à laisser la feuille telle quelle ce soir.
 
-Le soir, elle écrit. Les mots viennent par à-coups, parfois fragmentés, parfois précis. Elle n'essaie pas de réparer l'irréparable, mais elle dépose une intention. Elle décide de garder cette lettre dans une boîte. À chaque fois qu'elle la regarde, elle sent un peu plus d'ordre revenir en elle. Ces petits actes n'effacent pas la douleur, mais ils lui redonnent des morceaux d'autonomie : elle choisit, elle agit, elle s'autorise à faire des choses imparfaites.
-
-Avec le temps, Monique remarque des changements. Certains jours restent lourds, d'autres moins. Elle appelle un ami plus souvent, accepte un café en terrasse, et constate que l'isolement se fissure. Elle comprend que l'impuissance ne disparaît pas d'un coup, mais qu'en accumulant des micro-actions et des rituels, elle peut construire des points de stabilité. Elle se sent désormais plus capable de demander de l'aide quand la charge devient trop grande.
+Elle pose une bouteille d’eau sur sa table de nuit. Demain, elle voudrait pouvoir descendre prendre son café avant d’ouvrir le courrier. Elle ne sait pas si elle se lèvera plus tôt. Elle envoie un message à une amie pour lui demander quand elle passe près de la bibliothèque, puis ferme le tiroir.
 
 ---
 
 La perte ne s'efface pas instantanément, mais comprendre comment l'impuissance s'installe permet d'agir différemment. En identifiant les signes (paralysie, rumination, fatigue) et en pratiquant des techniques simples comme l'ancrage ou les micro-décisions, on peut progressivement retrouver du sens.
 
-Si vous vous reconnaissez dans le parcours de Monique et que ce sentiment vous pèse, sachez qu’il existe des ressources pour vous accompagner. Consulter un psychologue ou un spécialiste du deuil est une étape précieuse si la souffrance devient trop envahissante.
+Si l’impuissance vous pèse durablement ou vous empêche de faire des choses essentielles, vous pouvez en parler à un psychologue ou à un professionnel du deuil.
 
 Vous n'êtes pas seule. Il est possible, pas à pas, de poser des gestes qui allègent la charge. Nommer vos émotions et honorer la mémoire par des rituels sont des manières douces de reprendre la main sur votre vie, jour après jour.

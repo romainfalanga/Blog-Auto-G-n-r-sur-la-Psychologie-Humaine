@@ -89,7 +89,7 @@ Si un regret apparaît, comparez-le à ces données plutôt qu’à une version 
 
 On peut aussi partager le choix avec une personne respectueuse, en précisant que l’on souhaite être écouté plutôt que jugé. Cette présence peut aider à supporter un renoncement. Elle n’a pas pour fonction de certifier que tout se passera bien. Certaines décisions restent difficiles parce qu’elles opposent des besoins importants dans une marge insuffisante.
 
-## Samira répond sans inventer une solution de garde
+## Samira rappelle avant de repartir
 
 Mireille ne peut pas accueillir Noé ce samedi. Jeanne propose un créneau qui ne couvre pas le début de mission. Samira apprécie leurs réponses claires, même si elles ne résolvent rien. Elle rappelle l’agence et demande si un autre horaire est envisageable. La proposition concerne précisément l’ouverture du magasin ; aucune adaptation n’est possible aujourd’hui.
 
@@ -97,7 +97,7 @@ Elle refuse donc la mission en expliquant la contrainte de garde, sans raconter 
 
 En rentrant, elle voit une autre mère récupérer son enfant chez ses parents et ressent un regret piquant. Cette scène ne prouve pas qu’une solution équivalente était disponible pour elle. Elle retrouve sur l’enveloppe les horaires et les réponses de ses relais. Ces lignes l’aident à se rappeler que son choix répond à une impossibilité actuelle, pas à une indifférence au travail.
 
-Noé lui demande ce qu’ils feront samedi. Samira propose une visite à la bibliothèque, déjà accessible sur leur trajet habituel. Elle n’en fait pas la compensation morale d’une mission perdue. Ils auront un moment ensemble, et le besoin de revenu demeure. Tenir ces deux réalités lui paraît plus juste que de se forcer à choisir une histoire entièrement heureuse ou entièrement ratée.
+Noé veut savoir ce qu’ils feront samedi. Samira lui propose la bibliothèque, qu’ils peuvent rejoindre à pied. Il choisit déjà le livre qu’il veut rapporter. Elle lui demande où il l’a rangé, puis revient à son agenda. Le créneau de travail restera vide. Elle ne sait pas encore comment elle remplacera cette somme dans le budget.
 
 ---
 

@@ -75,13 +75,13 @@ Une fois l'ordre choisi, il vérifie ce qui se passe si une nouvelle urgence arr
 
 Ils choisissent un point de suivi limité et une personne chargée de porter les besoins qui dépassent leur marge. Rémi ne devient pas responsable d'un plan complet de prévention. Il apporte son expérience du travail réel et vérifie que les reports décidés ne lui reviennent pas tous ensuite, en plus du poste habituel. Une organisation soutenable demande de regarder la suite, pas seulement de traverser une journée difficile.
 
-## Rémi commence à rendre un arbitrage visible
+## Le bilan reste au tableau
 
 Le départ est contrôlé, mais la réception reste plus tendue que prévu. Claire réorganise une partie des rôles et le bilan attend réellement la relecture convenue. Rémi n'obtient pas une journée calme. Il constate pourtant une différence : il peut dire où se trouve sa priorité sans inventer un arrangement secret pour chaque nouvelle demande. Les collègues savent à qui poser certaines questions pendant le contrôle.
 
 En fin de poste, il ressent encore de la fatigue et de l'irritation. Il ne traite pas ces sensations comme la preuve que la discussion échoue. Une amélioration partielle peut coexister avec un besoin de changement plus large. Il note un exemple où l'ordre choisi aide et un autre où les moyens restent insuffisants. Claire accepte de les reprendre au prochain point avec les personnes concernées. Le suivi existe, même si son résultat n'est pas garanti.
 
-À l'appartement, Rémi dit à Julie qu'il souhaite garder un moment sans démarche commune avant de regarder les papiers. Il propose un créneau précis pour la suite. Elle lui indique aussi sa disponibilité. Leur organisation ne répare pas le quai, mais elle évite de faire porter à leur relation tout ce qui reste tendu au travail. Rémi peut utiliser des repères personnels tout en reconnaissant que certaines demandes doivent être discutées collectivement.
+Avant de partir, Claire revient sur la fiche essayée depuis le premier chargement. Les mentions utiles sont trop petites lorsqu’on consulte le support debout. Rémi lui montre une ligne qu’il a retrouvée grâce à elle et une autre qu’il a dû refaire. Ils gardent la fiche près du poste et choisissent de corriger seulement la taille des caractères pour le prochain essai. À l’appartement, Rémi demande à Julie de laisser les papiers jusqu’après le repas. Ils ont une heure en tête pour s’y remettre.
 
 ---
 

@@ -13,7 +13,7 @@ episode: 2
 draft: false
 ---
 
-La porte du monte-charge se referme sur le dernier bac. Éloi relit la liste de préparation et cherche une ligne qu'il pourrait prendre en charge sans demander confirmation à chaque geste. Son sentiment d'efficacité reste fragile depuis le retour sur les morceaux irréguliers. Il sait désormais demander un critère précis, mais il voudrait aussi sentir qu'il peut faire quelque chose de fiable avec ce critère. Cédric lui propose une partie limitée de la mise en place. Éloi entend surtout le poste entier qu'il ne maîtrise pas encore.
+La porte du monte-charge se referme sur le dernier bac. Éloi tient encore la liste de préparation. La ligne qu’il veut prendre en charge est près du bas. Il hésite entre appeler Cédric maintenant et lui demander à quel moment ils pourront regarder le lot.
 
 « Tu vérifies ce lot, puis on regarde ensemble », précise le chef de partie. Le lot est à portée, le matériel prévu aussi. Éloi connaît les consignes nécessaires pour cette tâche, mais il anticipe déjà le prochain service, les demandes simultanées et la vitesse des autres. Dans cette scène imaginée, son essai actuel devient trop petit pour compter. Il commence à préparer en cherchant des signes qu'il va forcément être dépassé ensuite.
 
@@ -51,7 +51,7 @@ Avant de montrer le lot, Éloi sent ses mains moites et vérifie encore la liste
 
 Il n'a pas besoin de supprimer l'inquiétude avant de faire vérifier. Il peut consulter les critères disponibles et apporter le résultat au moment convenu. Cette démarche reste prudente : elle ne consiste pas à ignorer les signes de fatigue ou à poursuivre un geste dangereux. Elle distingue simplement la question « comment je me sens ? » de la question « quels éléments permettent de juger ce travail ? ».
 
-## 3 techniques pour construire un sentiment d'efficacité réaliste
+## S’essayer à une tâche dont on connaît le bord
 
 ### 1. Choisir un défi limité et un critère observable
 
@@ -75,7 +75,7 @@ Quand le premier lot est validé, Éloi demande quelle variation il peut essayer
 
 L'appui est défini avant l'essai. Éloi sait qui peut répondre et à quel moment il doit s'arrêter pour vérifier. Il ne transforme pas le test en défi solitaire destiné à prouver sa valeur. Si la difficulté dépasse ce qui est prévu, revenir à un cadre plus accompagné est une décision d'apprentissage. Il pourra reprendre ensuite avec une information supplémentaire, plutôt qu'avec la seule obligation de réussir davantage.
 
-## Éloi commence à nommer une capacité précise
+## Le premier lot contrôlé
 
 Cédric valide plusieurs éléments du lot et demande un ajustement sur un autre. Éloi entend d'abord surtout ce dernier point. Il regarde ensuite sa note et voit qu'il peut conserver deux informations : il effectue une partie du travail de façon fiable, et une étape demande encore une pratique guidée. Il n'a pas besoin de choisir entre « tout est réussi » et « cela ne compte pas ».
 
@@ -85,7 +85,7 @@ Il ajoute cette séquence à sa note : voir le contrôle, le reformuler, le tent
 
 Lors de l'essai suivant, la cadence le déstabilise. Il revient à la vérification convenue et demande un avis avant de continuer. Le résultat est moins régulier que dans le créneau calme. Cette différence le déçoit, mais elle lui indique une limite de transfert. Le premier essai ne devient pas faux pour autant. Ils peuvent maintenant travailler la variation de contexte, avec une base plus précise que sa crainte initiale d'être incapable de tenir un poste.
 
-Au foyer, Éloi retrouve Quentin dans la salle commune. Il lui raconte ce qu'il prend en charge et ce qu'il vérifie encore, sans effacer les appuis reçus. Quentin lui parle d'une tâche qu'il apprend lui aussi. Leur échange ne prouve pas qu'ils avancent au même rythme. Il rend simplement la période d'apprentissage moins solitaire. Éloi se sent encore inquiet pour la suite, mais il dispose d'un exemple concret de ce qu'il peut déjà faire.
+Au foyer, Éloi raconte à Quentin qu’il a presque fini un lot seul. Quentin lui demande ce que le chef a dû reprendre. Éloi lui montre le geste avec les mains. Il peut maintenant expliquer l’ajustement. Il ne sait toujours pas s’il le retrouvera aussi vite à la prochaine préparation.
 
 ---
 

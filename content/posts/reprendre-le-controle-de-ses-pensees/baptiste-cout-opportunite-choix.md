@@ -13,7 +13,7 @@ episode: 3
 draft: false
 ---
 
-Le formulaire de la maison de quartier ne demande que quelques informations. Baptiste s’arrête pourtant devant la case du samedi matin. Il aimerait participer à l’atelier de photographie, qui comprend une sortie pour observer les bâtiments depuis la rue. Le créneau correspond aussi à la promenade à vélo qu’Emmanuel lui a proposée. Les deux activités lui plaisent. Il cherche immédiatement s’il peut partir avant la fin de l’une, rejoindre l’autre en route et rentrer assez tôt pour garder le reste du week-end intact. Son programme devient compliqué avant même qu’il ait accepté quoi que ce soit.
+Le formulaire de la maison de quartier ne demande que quelques informations. Baptiste s’arrête pourtant devant la case du samedi matin. Il aimerait participer à l’atelier de photographie, qui comprend une sortie pour observer les bâtiments depuis la rue. Le créneau correspond aussi à la promenade à vélo qu’Emmanuel lui a proposée. Il s’imagine à vélo dans la première descente, puis devant la façade qu’on doit photographier. Il cherche immédiatement s’il peut partir avant la fin de l’une, rejoindre l’autre en route et rentrer assez tôt pour garder le reste du week-end intact. Son programme devient compliqué avant même qu’il ait accepté quoi que ce soit.
 
 À trente-sept ans, entre son poste de coordinateur de maintenance, les temps avec Caroline et leur fille Elsa, Baptiste ne dispose pas de matinées libres à volonté. Ce samedi est possible parce qu’ils ont déjà discuté de leur organisation. Caroline prévoit sa propre activité le dimanche et ils tiennent à conserver un temps commun. Ajouter une seconde sortie ne signifie donc pas seulement déplacer une ligne dans un agenda. Cela peut modifier le repos, les trajets et la disponibilité de quelqu’un d’autre. Baptiste le sait, mais une activité qui lui plaît devient plus difficile à laisser passer lorsqu’elle apparaît sur une invitation précise.
 
@@ -57,7 +57,7 @@ Baptiste retient trois possibilités : l’atelier, la promenade ou une matinée
 
 S’il choisit l’atelier, Baptiste peut dire à Emmanuel qu’il regrette de manquer la sortie et qu’il ne sera pas présent cette fois. Il n’a pas besoin d’ajouter immédiatement un rendez-vous de compensation. Une envie de promenade peut rester ouverte sans date promise. Reconnaître ce renoncement évite d’attendre du choix retenu qu’il efface toutes les qualités de l’autre. L’atelier pourra être intéressant et comporter des moments moins agréables ; cela ne rendra pas automatiquement la promenade supérieure. Après l’expérience, Baptiste pourra regarder ce qu’il a appris pour de prochains choix, en tenant compte des informations dont il disposait réellement. La comparaison ne doit pas devenir une vérification permanente de l’activité alternative pendant celle qu’il a choisie.
 
-## Baptiste garde un samedi avec une seule sortie
+## Le vélo attendra
 
 Il s’inscrit à l’atelier parce que le thème lui plaît et que cette séance précise ne revient pas prochainement. Il refuse la promenade de façon claire. Emmanuel lui souhaite une bonne matinée et lui demande de montrer quelques images s’il en a envie. Baptiste ressent encore une petite déception en rangeant la carte du parcours. Il ne cherche pas à prouver que son choix était tellement meilleur qu’aucune envie de vélo ne devrait subsister. Les deux propositions lui plaisaient ; en laisser une de côté implique justement de manquer quelque chose qui comptait.
 

@@ -13,9 +13,9 @@ contexte: "en amitié"
 draft: false
 ---
 
-Sophie observe Claire qui rit d'une anecdote et sent aussitôt une petite alarme interne se déclencher : pourquoi est-ce que je ne trouve pas ça aussi drôle, pourquoi est-ce que je me sens surqualifiée à la fois et insuffisante ? Aujourd'hui, 13 mai 2026, elles sont installées dans un salon de thé près d'une librairie, et Claire la félicite pour une nouvelle fonctionnalité qu'elle a déployée hier. Sophie répond en souriant, mais juste après, elle minimise, parlant de « chance » et de « bug facile à corriger ».
+Claire a attendu qu’elles soient sorties du bureau pour lui en reparler. « Le test que tu as ajouté m’a fait gagner du temps hier. » Sophie met son sachet de thé de côté. Elle répond que le bug était facile à trouver. Dans le salon de thé, il n’y a personne d’autre de l’équipe à convaincre. Le réflexe lui est quand même venu.
 
-La voix intérieure de Sophie, familière et acérée, lui souffle que si on gratte un peu, on découvrira sa vraie compétence : insuffisante. Ce scénario lui rappelle la fois où Marc s'était moqué d'elle en réunion le 23 avril, et comment elle s'était ensuite mise à multiplier les corrections de son code jusqu'à l'épuisement, comme elle l'avait raconté dans l'article du 15 mars. Depuis, elle écrit encore régulièrement dans son carnet pour noter ces moments de doute, mais aujourd'hui le doute prend le pas sur la fierté. Elle repense à ce déjeuner à Nantes où elle avait annulé son repos pour ses parents ; ici, avec Claire, elle réalise qu'elle est encore en train de sacrifier sa propre satisfaction pour maintenir cette image de la personne sans histoire, toujours prête à s'effacer derrière le mérite des autres.
+Elle n’a pas oublié la moquerie de Marc. Elle s’aperçoit qu’elle s’attend à retrouver le même ton même quand c’est Claire qui parle. D’habitude, elle expliquerait le ticket, les deux essais ratés et la part de hasard. Elle regarde le thé déborder un peu dans la soucoupe et attend d’avoir envie de répondre.
 
 Claire remarque le changement et pose une question douce : « Tu penses que tu as bien fait, non ? » Sophie répond automatiquement qu'elle a juste eu de la chance et qu'elle prépare déjà une punition future : la prochaine tâche qui prouvera qu'elle ne mérite pas les compliments. Sa main cherche la sensation familière du carnet posé sur la table, elle griffonne une ligne, comme pour empêcher la pensée de monter en intensité. Elle se souvient de sa récente crise d'angoisse à la laverie face à ses comptes bancaires : là aussi, une émotion brute avait court-circuité sa logique. Elle s'efforce de respirer, tentant de rationaliser ce que Claire vient de dire plutôt que de prendre sa crainte d’être démasquée pour ce que Claire voulait lui dire.
 
@@ -63,7 +63,7 @@ Comment le pratiquer :
 - Durée : 10 minutes d'entraînement, puis application en situation.
 - But : essayer d’accueillir le compliment sans le contester sur-le-champ. Elle peut encore douter après l’échange.
 
-## Sophie commence à accepter un compliment sans l'effacer
+## Recevoir le compliment avant d’expliquer le bug
 Aujourd'hui, après l'échange initial avec Claire, Sophie décide d'essayer l'entraînement à la réponse affirmative. Quand Claire lui dit que son dernier push était très propre, Sophie sent la vieille impulsion qui la pousse à expliquer. Elle retient sa première réaction et, intérieurement, visualise la phrase préparée : « Merci, ça me fait plaisir. »
 
 La surprise est double : Claire sourit, contente d'être entendue, et Sophie remarque une sensation nouvelle au niveau de la mâchoire, qui semble moins tendue. Elle ouvre ensuite son carnet et note le compliment avec l’exemple de travail concret que Claire a cité. Cet acte la rattache à la pratique documentaire qu'elle avait commencée, mais cette fois avec un objectif relationnel. Elle se sent loin de la Sophie qui s'excusait excessivement après avoir été moquée par Marc ; elle commence à habiter sa propre compétence.

@@ -13,7 +13,7 @@ tags: ["démarches administratives", "charge mentale", "accès aux services", "s
 draft: false
 ---
 
-Le document apparaît bien dans la liste des fichiers transmis. Malik lit pourtant qu’une pièce reste attendue pour son dossier d’Assurance Maladie. La charge mentale des démarches administratives commence dans cet écart : il ne sait pas si le fichier est illisible, s’il correspond à une autre demande ou si le message précède son envoi. Il relit la page sans trouver la précision qui manque.
+Malik ouvre le fichier transmis à l’Assurance Maladie. Toutes les pages sont là. Dans l’onglet d’à côté, on lui indique toujours qu’une pièce manque. Il recopie les deux références sur le revers d’une enveloppe, puis regarde la date du message. Ça pourrait être un envoi ancien ou une autre pièce. Il n’a aucun moyen de choisir entre les deux en ouvrant une quatrième fois son document.
 
 Il utilise régulièrement des outils numériques pour ses photographies et son travail. Cette aisance ne lui donne pas la signification d’une consigne administrative ambiguë. Il peut ouvrir le fichier, vérifier ses pages et rester incapable de savoir ce que l’organisme attend. Il se dit d’abord qu’il devrait comprendre après quatre ans de vie ici, puis reconnaît la même règle excessive que devant le vestiaire du nouveau dépôt.
 
@@ -55,7 +55,7 @@ Une fois le message envoyé, Malik pense qu’il devrait vérifier plus souvent.
 
 Une fréquence de vérification peut être discutée selon les indications du service et l’urgence réelle. Il n’existe pas de règle universelle valable pour tous les dossiers. Un délai ou une échéance incertaine demande une clarification, pas une décision improvisée à partir d’un conseil général. Malik peut chercher cette information avant de se donner un rythme.
 
-## 3 techniques pour rendre la démarche plus lisible
+## Poser une question à l’interlocuteur qui peut y répondre
 
 ### 1. Écrire le point de blocage et une question précise
 

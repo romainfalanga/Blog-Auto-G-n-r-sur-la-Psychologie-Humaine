@@ -13,7 +13,7 @@ editorial_pack: "psychology-v10"
 draft: false
 ---
 
-La photocopie du guichet montre une surface grise où les objets semblent faciles à déplacer. Anaïs y indique les dossiers, le clavier et la zone où le public pose ses documents. Sa demande d'aménagement au travail commence avec ce plan imparfait : sur le papier, les gestes paraissent courts ; pendant une permanence, leur répétition et leur organisation ne se vivent pas de la même manière.
+La photocopie du guichet montre une surface grise où les objets semblent faciles à déplacer. Anaïs y indique les dossiers, le clavier et la zone où le public pose ses documents. Le passage qu’elle avait demandé de dégager est assez large, sur le dessin. Elle ajoute les cartons à l’endroit où elle les trouve souvent. Le trajet que fait sa main pour attraper les dossiers tient dans une marge minuscule.
 
 Agente d'accueil municipale de quarante-six ans, Anaïs vit avec une polyarthrite diagnostiquée et suivie médicalement. Elle ne souhaite pas que Gabrielle, sa responsable, établisse un avis médical à partir du dessin. Elle veut décrire les difficultés rencontrées et clarifier la démarche permettant de faire examiner la compatibilité des conditions de travail avec sa santé.
 
@@ -83,7 +83,7 @@ Si une mesure est proposée, l'enjeu est de voir comment elle fonctionne dans l'
 
 Si la réponse tarde ou ne traite pas la difficulté, elle recherche un appui compétent pour comprendre les suites possibles, notamment dans les relais de prévention ou de représentation disponibles. Elle ne transforme pas un échange insuffisant en preuve qu'aucune aide n'existe. Elle n'a pas non plus à engager seule toutes les démarches sans soutien.
 
-## Anaïs repart avec un interlocuteur et une prochaine étape
+## Le trajet des dossiers
 
 Sur le plan, elle montre un trajet répété plutôt qu'un simple point douloureux. Gabrielle pose des questions sur l'organisation des dossiers. Elles distinguent un rangement qui peut être revu dans le service et les besoins qui doivent être examinés dans le cadre de santé au travail. Anaïs peut expliquer sans devoir annoncer elle-même une solution médicale.
 

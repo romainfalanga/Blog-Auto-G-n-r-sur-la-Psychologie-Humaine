@@ -13,11 +13,11 @@ contexte: "lors d'un entretien d'embauche"
 draft: false
 ---
 
-Karim ajuste le col de sa chemise dans le hall vitré de cette tour de la Part-Dieu, à Lyon. L'air conditionné diffuse une odeur de moquette neuve et de produit nettoyant citronné. Ses doigts pianotent nerveusement sur le cuir de sa sacoche. Il a quarante ans aujourd'hui, et après avoir dirigé ses propres restaurants, il se retrouve dans la position du candidat pour un poste de consultant en stratégie culinaire. Le silence de la salle d'attente lui semble assourdissant, entrecoupé seulement par le cliquetis régulier d'une horloge murale qui semble ralentir chaque seconde.
+Karim regarde les aiguilles de l’horloge du hall, à la Part-Dieu. Il est venu pour un poste de consultant en stratégie culinaire. Le projet d’école solidaire reste dans son carnet, avec un bail à examiner ; il lui faut un revenu pendant qu’il en étudie la faisabilité. En face de la salle d’entretien, il relit ses trois exemples et raye le plus spectaculaire. Il le connaît par cœur et risque de le placer avant même de savoir ce qu’on lui demande.
 
-Il se remémore le chemin parcouru depuis ce fameux soir de mai où il avait choisi de ne pas signer le bail de son école de cuisine sans une expertise comptable. Ce jour-là, il avait pour la première fois vaincu son biais d'action. Mais aujourd'hui, l'attente est une épreuve physique. Une assistante passe avec une pile de dossiers, le frôlant à peine, et Karim manque de se lever d'un bond, croyant que son tour arrive. Il sent une chaleur monter dans sa nuque, une envie irrépressible que tout commence, ou plutôt, que tout soit déjà terminé. Il reconnaît cette sensation : c'est la même qui le poussait autrefois à acheter des cadeaux hors de prix pour Lina afin d'abréger les silences gênants lors de leurs après-midis ensemble.
+Quelques jours plus tôt, il a laissé le projet de bail dans le garage au lieu de le signer pour en finir. Ça lui a coûté une soirée à vérifier son téléphone. Ce matin, il a proposé à Sofia de rentrer pour le dîner, sans ajouter qu’il aurait une réponse du recruteur. Dans le hall, il se surprend déjà à vouloir lui annoncer quelque chose.
 
-La porte du bureau s'ouvre enfin. Une femme, Julie, l'invite à entrer. Karim s'installe, les muscles des cuisses tendus, prêt à répondre à chaque question. Il remarque que ses réponses fusent avant même que Julie n'ait terminé ses phrases. Il veut convaincre, il veut prouver sa valeur, mais surtout, il veut combler chaque milliseconde de vide. Son regard dérive vers la fenêtre où les voitures s'écoulent sur le boulevard. Il pense à Sofia, qui l'attend pour fêter son anniversaire ce soir, et à ses enfants, Amine, Lina et Sami. Sa jambe gauche s'agite sous la table, un mouvement saccadé qu'il tente de dissimuler en croisant les jambes.
+Julie vient le chercher. Dans le bureau, elle lui demande de poser sa sacoche et commence à présenter le poste. Karim se surprend à hocher la tête avant la fin de ses phrases. Il cherche où poser ses mains et les met à plat sur son carnet.
 
 ## Définition de l'impatience et mécanismes psychologiques
 
@@ -57,13 +57,13 @@ Si cela vous aide, remarquez le contact de vos pieds avec le sol avant de reveni
 
 Si une question paraît ambiguë, vérifiez votre compréhension : « Vous voulez savoir comment je travaille quand je ne décide pas seul ? » La reformulation est utile lorsqu'elle clarifie la demande. Elle n'est pas une obligation pour chaque question.
 
-## Évolution de Karim et maîtrise de l'instant
+## La question que Julie n’avait pas finie
 
-Assis face à Julie, Karim sent l'urgence habituelle lui mordre l'estomac. Il veut lui raconter comment il a redressé son premier établissement, comment il a géré son associé Romain, comment il a appris de ses échecs à Lyon et Marseille. Mais il se souvient des leçons de ces derniers mois. Il comprend désormais que son enthousiasme débordant peut devenir un piège s'il ne l'apprivoise pas par l'immobilité. Il voit sa main droite s'approcher de son téléphone posé sur la table, un vieux réflexe de patron débordé, et il choisit délibérément de la poser à plat sur sa cuisse.
+À la première question de Julie, Karim la coupe pour raconter le redressement de son premier établissement. Il voit son stylo s’arrêter. « Pardon, vous n’aviez pas fini. » Elle voulait savoir comment il réagissait quand un plan ne marchait pas. Il garde l’exemple de Lyon, mais commence par ce qu’il avait refusé d’entendre de la part de Romain.
 
 Il applique la virgule mentale. Lorsque Julie l'interroge sur sa capacité à accepter les directives d'un supérieur après des années d'indépendance, Karim ne bondit pas. Il laisse le silence s'installer un instant. Il remarque une petite plante grasse sur le bureau de la recruteuse. Il prend le temps d'observer la texture de ses feuilles avant de répondre. Sa voix est plus grave, plus posée que d'habitude. Il n'est plus le Karim qui fuyait le silence de sa maison pour se réfugier dans l'agitation de ses cuisines.
 
-Julie sourit et prend quelques notes. Karim ne cherche pas à lire ce qu'elle écrit. Il accepte l'incertitude du moment. Il réalise que cette attente n'est pas un obstacle, mais une partie intégrante de sa transformation. En sortant de l'entretien, il ne se précipite pas sur son téléphone pour appeler Sofia. Il marche lentement vers l'ascenseur, savourant la sensation d'être présent dans sa propre vie. L'impatience est toujours là, quelque part, mais elle ne tient plus le volant.
+Julie reprend des notes, sans lui dire quand il aura une réponse. Dans l’ascenseur, Karim écrit à Sofia : « C’est fini, je rentre. » Il avait commencé par « Ça s’est très bien passé ». Il garde cette phrase pour le moment où elle lui demandera comment c’était.
 
 ---
 

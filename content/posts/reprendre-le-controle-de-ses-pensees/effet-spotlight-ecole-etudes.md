@@ -13,11 +13,9 @@ contexte: "à l'école ou aux études"
 draft: false
 ---
 
-L'odeur du diluant chatouille les narines de Mei tandis qu'elle reste figée devant sa feuille. Autour d'elle, des crayons frottent le papier, des rires s'échappent d'un coin de l'atelier, une radio diffuse des morceaux choisis pour la séance du lundi 29 mars 2026. Mei tient son crayon sans bouger. Sa main tremble à l'idée qu'un trait trop fort trahisse son manque d'assurance.
+Mei vient de dépasser le bord du personnage. La bavure n’est pas large, mais elle ne voit plus qu’elle. Elle rapproche la planche de son tabouret au moment où M. Dubois s’arrête au chevalet d’à côté. Elle se demande combien d’étudiants l’ont regardée faire.
 
-M. Dubois passe entre les chevalets. Ses pas résonnent sur le sol en béton. Mei sent comme un projecteur imaginaire posé sur son bras droit. Elle est assise au fond, comme d'habitude, tête légèrement baissée, carnet serré contre sa cuisse. Océane, à quelques marches de distance, lève la main pour demander un avis et lui adresse un sourire encourageant. Mei ne répond pas. Elle repense à l'exposition où, quelques semaines plus tôt, une plaisanterie la mettait sans le vouloir sous les yeux de tous et où elle avait appris à nommer sa gêne plutôt que la subir.
-
-Aujourd'hui, ce n'est pas seulement la crainte du jugement qui la paralyse ; c'est la certitude, forte et presque physique, que chaque maladresse est remarquée. Elle pense que tout le monde voit la petite tache de graphite sur son pouce, que tous commentent mentalement la faiblesse de ses ombres. Pourtant, autour d'elle, chacun est concentré sur sa propre planche. Mei est convaincue du contraire, sans s'en rendre compte ; une distorsion de l'attention s'est installée, comme un verre grossissant posé sur ses inquiétudes. Cette sensation de vulnérabilité lui rappelle étrangement les dîners avec Li et Wei, où elle scrutait chaque micro-expression de son père pour anticiper une critique sur son avenir. Ici, à l'école, le professeur remplace l'autorité paternelle, et le regard des autres étudiants devient une extension de cette pression à la perfection qu'elle s'impose depuis toujours.
+Océane traverse l’atelier pour emprunter du diluant. Elle parle de deux silhouettes qui se détachent bien l’une de l’autre. Mei lui tend le flacon sans lui demander à quel dessin elle pense. Toute la séance, chaque bruit de pas lui fait relever la tête.
 
 ## Définition de l'effet spotlight
 
@@ -71,17 +69,11 @@ Si un comportement ciblé se répète, décrire les faits à un adulte de confia
 
 Cette note ne mesure pas l’anxiété ni l’attention du groupe. Évitez de vous obliger à compter les regards si cela prend toute la place.
 
-## Évolution de Mei et intégration des acquis
+## Ce qu’Océane avait vu
 
-Aujourd'hui, quand M. Dubois s'arrête devant elle, Mei sent toujours une montée de chaleur aux joues, mais elle active maintenant son geste d'ancrage sans y penser. Elle presse la tranche de son carnet, répète mentalement motif et le monde reprend une texture de papier et de graphite plutôt qu'un théâtre d'observation. Océane remarque ce petit geste et lui lance un signe complice pendant la pause ; ce contact silencieux lui apporte un signal de sécurité.
+Quand la planche sèche, Mei la montre à Océane. « Si tu ne pouvais me dire qu’un truc sur cette image, tu dirais quoi ? » Océane parle du contraste entre les personnages. Elle demande ensuite si la main du personnage de droite doit disparaître dans le fond. Mei attend encore qu’elle désigne la bavure. Elle ne le fait pas.
 
-Mei demande à Océane ce qu’elle a retenu de sa planche. Océane parle du contraste entre deux personnages. Mei avait passé la séance à penser au trait qui dépassait ; elle note que ce détail n’était pas le seul élément visible.
-
-Repérer les preuves lui permet de se délier progressivement de la certitude absolue d'être au centre de l'attention. Elle se surprend à présenter un petit croquis lors d'une critique de groupe, en annonçant qu'elle veut simplement récolter deux remarques précises. Ce cadrage lui sert à diminuer l'enjeu interne. Le retour est court et utile. Après la séance, elle note dans son carnet des éléments concrets : la question qui a été posée et ce qu’elle en retient. Ces faits écrits se mêlent à ce qu'elle a appris lors des dîners avec ses parents : l'ancrage et l'identification des émotions ne sont pas seulement des outils pour tenir une conversation, ils sont aussi des moyens de traverser une session critique.
-
-Depuis les étapes précédentes, Mei a appris à nommer sa gêne et à reconnaître les mécanismes du faux self. Aujourd'hui, l'effet spotlight devient une pièce supplémentaire du puzzle qui explique pourquoi elle évitait les présentations et cachait ses dessins au restaurant familial. Elle conserve ses acquis : le geste d'ancrage éprouvé face à la pression parentale et la capacité à mettre des mots sur son vécu. Ces compétences convergent et lui donnent une plus grande marge de manœuvre.
-
-Le chemin se poursuit. Il y a des jours où l'anticipation redevient intense et où elle se replie. Mais ces moments sont désormais entrecoupés d'expériences contraires, d'objectifs concrets et d'observations factuelles. Le monde extérieur ne change pas brusquement, mais Mei apprend à réguler la façon dont elle interprète ce qui se passe autour d'elle.
+Mei ne sait pas ce qu’en ont pensé les autres. Sur son carnet elle dessine une autre version de la main, puis laisse sa planche sur le chevalet pendant qu’elle va rincer ses pinceaux.
 
 ---
 

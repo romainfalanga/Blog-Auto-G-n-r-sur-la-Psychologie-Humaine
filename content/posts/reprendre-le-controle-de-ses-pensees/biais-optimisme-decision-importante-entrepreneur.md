@@ -13,7 +13,7 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Karim fait glisser son doigt nerveusement sur la surface lisse de son bureau en chêne. Devant lui, Romain, son associé, aligne des graphiques aux courbes descendantes qui ne laissent place à aucune interprétation fantaisiste. Les chiffres du troisième restaurant à Lyon, ouvert il y a peine quelques semaines, sont dans le rouge vif. Pourtant, Karim n'écoute que d'une oreille distraite le récit des pertes financières. Son regard est fixé sur une photo de Marseille qui trône sur son écran d'ordinateur, un nouvel emplacement de rêve sur le Vieux-Port qu'un contact vient de lui proposer.
+Romain aligne les chiffres de Lyon sur le bureau. Le restaurant a ouvert quelques semaines plus tôt, après des mois de travaux payés en partie sur les économies de Karim. Dans un autre onglet, une photo du Vieux-Port s’affiche. Un contact vient de lui signaler un local à Marseille. Karim agrandit la terrasse sur la photo pendant que Romain lui demande s’il a entendu le montant à régler vendredi.
 
 Dans son esprit, la machine à projets s'emballe déjà, balayant les avertissements de son ami de longue date. Il imagine l'inauguration, l'odeur du sel marin mêlée à celle de sa cuisine méditerranéenne, et surtout, ce sentiment de victoire qu'il recherche depuis qu'il a quitté l'épicerie familiale pour bâtir son empire. Il se souvient de l'échec cuisant qu'il a frôlé fin mars, quand il s'obstinait à financer Lyon malgré les dettes, mais une petite voix intérieure lui murmure que cette fois, ce sera différent. Marseille, c'est sa chance de tout effacer, de prouver à Sofia qu'il ne s'est pas trompé de chemin. Il se rappelle pourtant le message de rupture de communication qu'elle lui avait envoyé après son échec à se déconnecter lors de leur dîner d'anniversaire, une blessure encore vive qui devrait l'inciter à la prudence plutôt qu'à la fuite en avant.
 
@@ -57,13 +57,13 @@ Cherchez des exemples comparables : taille, lieu, prix, type de clientèle et p�
 
 Prévoyez des points de revue avec les personnes concernées, par exemple si le coût des travaux dépasse le budget ou si la date d'ouverture glisse. À chaque point, comparez les options et leurs conséquences. Les clauses d'un contrat et les obligations liées à une sortie méritent un avis compétent avant tout engagement.
 
-## Évolution de Karim et retour à la réalité
+## Rien à signer aujourd’hui
 
 Le silence s'installe dans le bureau. Karim regarde Romain, non plus comme un obstacle à son ambition, mais comme le garde-fou dont il a besoin. Il se souvient de la déception dans les yeux de sa fille Lina lors du dernier spectacle manqué et de la distance qui s'est installée avec Sofia. Il revoit la vidéo de Sami perdant sa première dent, ce moment précieux qu'il n'a vécu que par écran interposé, et ressent à nouveau ce regret qu'il a appris à identifier comme le moteur d'un changement nécessaire. Il réalise que son envie d'ouvrir à Marseille n'est pas seulement une opportunité d'affaires, mais une tentative de fuir le sentiment d'échec lié à l'ouverture difficile de Lyon.
 
 Il prend une feuille blanche et trace trois colonnes : ce qui est confirmé, ce qu'il suppose et ce qu'il doit vérifier. Il se demande ce qui se passerait si les travaux coûtaient plus cher ou si l'ouverture était retardée. Il n'a pas encore les chiffres pour trancher ; il sait maintenant lesquels demander.
 
-Il repose son stylo et regarde Romain. Il lui annonce qu'il ne signera rien aujourd'hui pour Marseille. Il propose d'utiliser la technique du pré-mortem ensemble, dès demain, pour analyser sérieusement la situation de Lyon avant de songer à toute expansion. Ce soir, il rentrera à l'heure pour le dîner. Ce n'est pas l'abandon de son ambition, mais le début d'une sagesse nouvelle. Karim comprend que sa plus grande réussite ne sera pas le nombre de ses enseignes, mais sa capacité à rester présent pour ceux qu'il aime, tout en gérant son entreprise avec une clarté qu'il n'avait jamais osé affronter.
+« Rien aujourd’hui », dit Karim en refermant l’annonce. Il propose de revoir ensemble les échéances de Lyon. Avant de sortir, il copie pourtant le numéro de l’intermédiaire sur un coin de feuille. Il rentre pour dîner à l’heure qu’il avait annoncée. Le papier est toujours dans sa poche.
 
 ---
 

@@ -21,7 +21,7 @@ draft: false
     <p class="parcours-resume">La lumière grise du matin traverse les stores et dessine des rayures sur le parquet. Youssef est assis à la table de la cuisine, une tasse de café tiède entre les mains.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Toujours assis à table, alors que sa tasse refroidit, Youssef se souvient de ses récentes découvertes. Le 7 mars, il avait appris à repérer ses projections sur les autres, et le 8 mars, il s&#x27;était exercé à questionner ses certitudes mentales.</p>
+      <p>Youssef fait tourner sa tasse. « C’est logique, pour son boulot. Mais ça va me faire drôle de ne plus le voir le jeudi. » Le mot « triste » lui paraît trop grand, le mot « inquiet » un peu plus proche.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -40,10 +40,10 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-projection-en-couple-comprendre-autre/">Projection sociale en couple : écouter avant de supposer</a></h3>
     <div class="parcours-date">2026-03-22</div>
-    <p class="parcours-resume">Youssef ajuste ses lunettes devant l&#x27;écran de son ordinateur portable, mais ses yeux ne lisent pas les lignes de code habituelles. À côté de lui, dans leur salon baigné par une lumière grise de fin d&#x27;après-midi, Léa fait défiler des annonces immobilières sur sa tablette avec une rapidité qui…</p>
+    <p class="parcours-resume">« Celui-là a une vraie cuisine. » Léa tourne sa tablette vers Youssef. Elle a repéré plusieurs annonces à Lyon pendant qu’il finissait de ranger chez lui. Il n’a encore pris aucune décision et elle garde son studio à Paris.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Youssef lâche doucement l&#x27;épaule de Léa et s&#x27;assoit sur le tapis, à ses pieds. Il ne cherche plus à lui imposer son calme artificiel.</p>
+      <p>Youssef pose les deux pieds sur le tapis. Il trouve plus facile de lui demander de faire une pause que de reconnaître qu’il ne sait toujours pas s’il a envie de partir. Il essaie de lui dire de quel côté vient son hésitation.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-projection-en-couple-comprendre-autre/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -51,7 +51,7 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-ancrage-decision-importante/">Biais d&#x27;ancrage face à une décision importante : le repérer</a></h3>
     <div class="parcours-date">2026-03-26</div>
-    <p class="parcours-resume">Il est midi quand Youssef referme la porte du parking de l&#x27;immeuble, la carte magnétique accrochant encore à son porte-clés. Il tient dans sa main l&#x27;e-mail qui vient d&#x27;arriver : une proposition interne pour diriger une équipe à Lyon, avec un package salarial chiffré en première ligne.</p>
+    <p class="parcours-resume">Dans l’ascenseur, Youssef garde le pouce sur l’écran pour que le message ne s’éteigne pas. Son entreprise lui propose de prendre la tête d’une équipe à Lyon. « Rémunération : 48 000 € bruts par an. » Il lit la ligne deux fois.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Aujourd&#x27;hui, fin mars, il relit l&#x27;e-mail dans l&#x27;appartement. Léa prépare le dîner dans la cuisine ouverte, et leurs voix se croisent sans heurt.</p>
@@ -62,10 +62,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/suppression-emotionnelle-reevaluation-cognitive-couple/">Suppression émotionnelle ou réévaluation cognitive en couple</a></h3>
     <div class="parcours-date">2026-04-03</div>
-    <p class="parcours-resume">Le brouhaha de la brasserie parisienne semble s&#x27;estomper autour de la table ronde où Youssef est assis en face de Léa. Ce soir du 03 avril 2026, l&#x27;air est doux, mais une tension invisible électrise l&#x27;espace entre eux.</p>
+    <p class="parcours-resume">Léa laisse refroidir ses frites. « J’ai envie qu’on parle de Lyon. Quand tu regardes les annonces, j’ai parfois l’impression que je suis déjà dans les cartons. » À la table d’à côté, le serveur demande qui a pris le plat du jour.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>De retour dans leur appartement, le silence n&#x27;est plus aussi pesant qu&#x27;avant. Youssef retire ses chaussures et observe Léa qui s&#x27;installe sur le canapé, un livre à la main mais le regard perdu dans le vide.</p>
+      <p>Ils repassent chez Youssef. Léa reprend le livre qu’elle y a laissé et vérifie l’heure du métro. Il lui demande s’ils peuvent revenir deux minutes sur ce qui s’est dit au restaurant.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/suppression-emotionnelle-reevaluation-cognitive-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -84,10 +84,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/ambivalence-emotionnelle-reconversion-professionnelle-burn-out/">Ambivalence émotionnelle et reconversion professionnelle</a></h3>
     <div class="parcours-date">2026-04-19</div>
-    <p class="parcours-resume">Youssef fixe l&#x27;écran de son ordinateur professionnel, mais les lignes de code se brouillent. Dans le reflet de la fenêtre de son appartement parisien, son regard calme trahit une lassitude profonde.</p>
+    <p class="parcours-resume">L’enveloppe n’est pas cachetée. Youssef en ressort sa lettre de démission pour vérifier l’adresse, bien qu’il la connaisse. Il est encore en arrêt et l’entreprise attend aussi une réponse sur Lyon.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Assis à sa table de travail, Youssef pose son stylo. Il vient de terminer son premier exercice de cartographie émotionnelle.</p>
+      <p>Youssef retourne la lettre et note au verso ce qu’il voudrait garder de son travail, puis ce qu’il ne veut pas retrouver. Chez Leïla, il avait essayé de donner un mot à ce qui se passait sur le moment. Sur cette feuille, les mots peuvent rester côte à côte.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/ambivalence-emotionnelle-reconversion-professionnelle-burn-out/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -95,7 +95,7 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-representativite-decision-importante-youssef/">Biais de représentativité face à une décision importante</a></h3>
     <div class="parcours-date">2026-04-23</div>
-    <p class="parcours-resume">Youssef ajuste ses écouteurs alors que ses baskets frappent le bitume humide du canal de l&#x27;Ourcq. En ce 23 avril 2026, l&#x27;air printanier est encore frais, mais la sueur perle déjà sur son front après cinq kilomètres de course.</p>
+    <p class="parcours-resume">Au bout du canal de l’Ourcq, le lacet de Youssef se défait. Il ralentit devant un café et pose un pied sur le rebord du trottoir. Sur son téléphone, un message de recrutement d’une banque attend depuis la veille.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Assis sur son banc, Youssef reprend son carnet et commence à appliquer la technique de déconstruction du prototype. Il écrit en haut de la page : Qu&#x27;est-ce qu&#x27;un expert en éthique numérique ?</p>
@@ -106,7 +106,7 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/granularite-emotionnelle-en-couple-comprendre-ressentis/">Granularité émotionnelle : trouver des mots plus précis</a></h3>
     <div class="parcours-date">2026-04-26</div>
-    <p class="parcours-resume">Le ciel de ce 26 avril 2026 est d&#x27;un gris métallique qui rappelle à Youssef la couleur de son ancien tableau de bord d&#x27;ingénieur. Assis sur le canapé en tissu chiné de l&#x27;appartement qu&#x27;il partage avec Léa, il observe les gouttes de pluie s&#x27;écraser contre la vitre.</p>
+    <p class="parcours-resume">« Bof. » Le mot sort avant que Léa ait fini sa question. Elle passe chez Youssef en fin d’après-midi, son sac de cours posé près de la porte. Elle lui a demandé comment se passe l’attente depuis son arrêt, pas comment il compte organiser son lundi.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Youssef repose son regard sur Léa. Il se souvient de cette période, il y a encore quelques mois, où il aurait simplement dit qu&#x27;il était fatigué avant de partir courir pour évacuer la tension.</p>
@@ -117,10 +117,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/intellectualisation-au-travail-hpi-solutions/">Intellectualisation au travail : comment sortir du mental ?</a></h3>
     <div class="parcours-date">2026-05-05</div>
-    <p class="parcours-resume">Youssef ajuste ses lunettes devant l&#x27;écran de son ordinateur portable, installé à la table de la cuisine. En ce 5 mai 2026, l&#x27;appartement est baigné d&#x27;une atmosphère calme, loin du tumulte de l&#x27;open space qu&#x27;il a quitté il y a quelques semaines.</p>
+    <p class="parcours-resume">Son manager lui propose un appel de vingt minutes pour parler de sa reprise. Youssef laisse la notification ouverte sur la table de la cuisine, puis lance un tableur. Avant même de répondre, il a créé une colonne pour les réunions et une autre pour les tâches qu’il imagine retrouver.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Youssef repousse doucement son ordinateur. Le fichier Excel est toujours ouvert, mais il décide de ne pas remplir la cellule suivante.</p>
+      <p>Youssef repousse le portable. Dans le fichier, il a mis une durée à côté de chaque réunion sans savoir lesquelles le concernent. Il se rappelle la question de Léa après son « bof » : « Qu’est-ce que tu voudrais savoir ? » Ici, il veut surtout savoir ce qui est prévu pour la première semaine.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/intellectualisation-au-travail-hpi-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -128,10 +128,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/isolation-affect-conflit-comprendre-mecanisme/">Isolation de l&#x27;affect en conflit : comprendre ce mécanisme</a></h3>
     <div class="parcours-date">2026-05-09</div>
-    <p class="parcours-resume">Youssef se tient immobile au milieu du salon encombré de cartons ouverts. Le ruban adhésif crisse sous ses doigts alors qu&#x27;il scelle une boîte destinée à leur futur appartement lyonnais.</p>
+    <p class="parcours-resume">Léa pose trois livres sur la table, à côté du devis du déménageur. « Je peux t’aider à ranger aujourd’hui. Pour samedi, tu dois me redire ce que tu attends de moi. » Youssef prépare son départ de Paris vers Lyon.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Assis sur le bord d&#x27;un carton rempli de ses essais de philosophie, Youssef observe Léa qui s&#x27;est tue, épuisée de heurter ce silence minéral. Il se concentre sur ses mains, notant la moiteur de ses paumes et la tension dans ses avant-bras.</p>
+      <p>Youssef pose le feutre sur le carton de livres. Il pourrait répéter l’heure qu’ils ont retenue avec le déménageur. Il cherche plutôt une phrase sur ce qu’il a entendu.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/isolation-affect-conflit-comprendre-mecanisme/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -139,10 +139,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/memoire-emotionnelle-lors-dun-deuil/">La mémoire émotionnelle lors d&#x27;un deuil : comprendre son impact</a></h3>
     <div class="parcours-date">2026-05-18</div>
-    <p class="parcours-resume">Youssef se tient immobile au milieu du salon encombré de cartons de déménagement. À vingt-neuf ans, il s&#x27;apprête à quitter Paris pour Lyon avec Léa, mais l&#x27;appartement semble soudain trop vaste, trop silencieux.</p>
+    <p class="parcours-resume">Dans la boîte en bois, le ressort du couvercle résiste. Youssef force à peine et sent l’odeur du tabac froid avant de reconnaître les affaires de Hamid, son père décédé quelques semaines plus tôt. Il avait sorti la boîte pour choisir ce qu’il emporterait à Lyon.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Youssef lâche doucement la boîte en bois. Il ne fuit pas dans une autre pièce et ne se lance pas dans un calcul complexe pour ignorer ce qu&#x27;il ressent, dépassant ainsi son ancien réflexe de confusion émotionnelle où il utilisait les chiffres comme bouclier.</p>
+      <p>Il tend la calculatrice à Léa. « Quand il rentrait, il la posait toujours à gauche de son assiette. » Il ne sait pas pourquoi c’est ce détail-là qui lui vient. Léa retourne l’objet et voit qu’un coin du boîtier a été recollé.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/memoire-emotionnelle-lors-dun-deuil/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

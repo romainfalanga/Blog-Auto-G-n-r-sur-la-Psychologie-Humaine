@@ -15,7 +15,7 @@ draft: false
 
 Une chute de bois roule sous l’établi pendant que Salomé agrandit une photographie sur son écran. L’atelier présenté en ligne possède un mur clair, des outils alignés et un instrument terminé sans aucune trace de travail autour. Elle regarde ensuite sa propre table, couverte de protections, de notes et d’une réparation en cours. En quelques images, la comparaison transforme une différence de présentation en doute sur sa compétence professionnelle.
 
-Salomé a vingt-neuf ans, est luthière, célibataire et non binaire. Elle utilise les accords féminins qu’elle choisit. Son identité ne permet pas de déduire un sentiment d’imposture ou une manière particulière de se comparer. Aujourd’hui, elle veut préparer quelques images de son travail pour la page de l’atelier. Elle consulte d’autres présentations afin de trouver des idées. Le but initial se déplace : elle ne cherche plus un cadrage utile, mais une preuve qu’elle mérite autant sa place que les personnes visibles.
+Sur l’image, personne n’a laissé traîner le moindre chiffon. Salomé tourne la tête vers sa propre table : le crayon repose sur un chiffon taché, à portée de main, exactement où elle le cherche depuis le matin. Elle a dégagé une partie de l’établi pour photographier un instrument. Tout ce qui est hors du cadre lui paraît soudain de trop.
 
 Gaspard, son collègue artisan, lui demande quelle photographie l’intéresse. Salomé lui montre l’établi impeccable et dit que leur espace paraît amateur à côté. Gaspard remarque qu’on ne voit qu’un angle de la pièce et un objet terminé. Salomé connaît cette évidence, mais ne l’utilise pas dans son évaluation. Elle compare la totalité désordonnée de son activité à une sélection publique dont elle ignore le temps de préparation et les conditions de réalisation.
 
@@ -77,13 +77,13 @@ Elle prépare ensuite une photographie qui montre ce qu’elle veut expliquer, a
 
 Après quelques essais, elle évalue l’usage : la consultation lui apporte-t-elle des idées, des informations ou surtout un jugement répété sur elle-même ? Les réponses peuvent varier selon les jours et les comptes. Elle peut ajuster ce qu’elle regarde, demander des explications à un pair ou revenir à des échanges plus détaillés. Le but est une source d’apprentissage praticable, pas une discipline parfaite face à toutes les images qui circulent.
 
-## Salomé prépare une image sans refaire sa valeur professionnelle
+## Le réglage qu’Étienne veut reprendre
 
 Elle dégage un coin de table et place l’instrument pour rendre visible la zone dont elle veut parler. Gaspard tient un panneau clair pendant qu’elle cherche le cadrage. Autour, le reste de l’atelier continue à contenir des boîtes et des projets. L’image finale est plus nette que la pièce entière. Salomé voit directement comment une vitrine peut être exacte dans ce qu’elle montre et incomplète sur les conditions de production.
 
 Étienne essaie son instrument et décrit ce qui lui convient mieux. Il signale aussi un point qu’elle doit revoir avec lui. Salomé peut recevoir ce retour sans passer d’une validation totale à une dévalorisation totale. Le travail possède des critères et reste ajustable. Elle n’a pas besoin que le client admire son équipement pour que la conversation soit utile. Elle n’écarte pas non plus une remarque pertinente parce qu’elle travaille à retrouver de la confiance.
 
-Le lendemain, une autre publication suscite encore une comparaison. Salomé remarque le mouvement plus tôt et cherche ce qui est comparable. Parfois, elle trouve une piste intéressante. Parfois, elle choisit de revenir à sa tâche. Son progrès ne consiste pas à devenir indifférente au regard des autres. Elle commence à demander à chaque source ce qu’elle peut réellement lui apprendre, dans les conditions concrètes de son atelier.
+Le lendemain, Salomé retrouve une autre photo d’atelier sur son téléphone. Elle l’agrandit pour comprendre comment la lumière atteint le bois. Puis elle pose l’appareil et reprend le point qu’Étienne a signalé. Elle a assez d’idées pour l’image. Pour ce réglage, il lui reste quelque chose à écouter.
 
 ---
 

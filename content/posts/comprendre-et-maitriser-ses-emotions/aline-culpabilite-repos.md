@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-Le sachet de prunes roule sur la couverture et Aline le rattrape avant qu’il atteigne l’herbe. Elle choisit ce dimanche au bord d’un étang avec Étienne, sans permanence ni inventaire. Pourtant, la culpabilité au repos s’invite avant le pique-nique. À quelques kilomètres, Claire prépare le local pour une autre activité associative. Aline imagine les chaises encore empilées et compare leur poids au sien, assise avec un livre sur les genoux.
+Le sachet de prunes roule sur la couverture et Aline le rattrape avant qu’il atteigne l’herbe. Elle choisit ce dimanche au bord d’un étang avec Étienne, sans permanence ni inventaire. Elle a emporté son livre, mais son téléphone repose dessus. Étienne lui demande s’ils mangent d’abord ou s’ils font le tour de l’étang. À quelques kilomètres, Claire prépare le local pour une autre activité associative. Aline imagine les chaises encore empilées et compare leur poids au sien, assise avec un livre sur les genoux.
 
 La liste des inscriptions appartient désormais à Bastien. Aline ne vérifie plus chaque modification et le rendez-vous de suivi suffit pour l’instant. Elle dispose donc réellement de cette journée. Aucun engagement oublié ne justifie son malaise. Elle cherche néanmoins une utilité au déplacement : rapporter des branches pour l’atelier, photographier les panneaux du sentier, profiter du trajet pour acheter une pièce manquante. Étienne lui demande si elle souhaite lire ou préparer une collecte.
 
@@ -81,7 +81,7 @@ Elle imagine ce qu’elle dirait à un membre du groupe qui annonce un dimanche 
 
 Si elle finit tout de même par consulter la conversation, elle peut s’arrêter après l’avoir remarqué. Inutile de déclarer la journée ratée puis de reprendre toutes les tâches par découragement. Elle pose de nouveau l’appareil dans son sac. Revenir à une décision reste possible au milieu d’une heure imparfaite, sans exiger un départ neuf et une volonté exceptionnelle.
 
-## Aline commence à laisser son dimanche exister
+## Le livre reste ouvert
 
 Étienne revient du sentier avec une petite pierre coincée dans la semelle. Ils la délogent à l’aide d’une brindille, puis déplient le repas. Aline raconte un passage du livre. Elle ne vérifie pas immédiatement si la conversation est suffisamment agréable pour justifier son absence du local. Ce changement tient à peu de choses : elle cesse, quelques minutes, de comparer deux vies possibles.
 

@@ -43,7 +43,7 @@ L’agacement pousse Élise à vouloir tout annuler immédiatement. Cette envie 
 
 On observe parfois l’inverse : quelqu’un change sans cesse de méthode dès qu’un inconfort apparaît. Cela ressemble à de l’adaptation, mais peut empêcher de poursuivre une action importante. Le mouvement n’est donc pas une preuve suffisante de souplesse. La question utile est celle de la fonction du changement. Permet-il de mieux répondre au contexte, ou seulement de s’éloigner au plus vite de la sensation désagréable ? Une même décision, comme reporter une réunion, peut avoir des raisons différentes selon les faits, les moyens et le moment.
 
-## Trois appuis pour retrouver une marge
+## Ce qu’on peut déplacer
 
 ### 1. Décrire l’événement avant le verdict
 
@@ -63,11 +63,11 @@ Une option n’a pas besoin d’être excellente pour mériter un essai prudent.
 
 Vous pouvez vous demander quel petit pas donnera une information nouvelle. Un appel, un déplacement raisonnable ou une demande de délai suffisent parfois. Si l’incertitude et la contrariété envahissent durablement le sommeil, les relations ou les activités, un psychologue ou un médecin peut aider à comprendre ce qui se joue. Ce soutien ne suppose pas d’attendre que la situation devienne intenable. Il peut aussi porter sur les conditions matérielles et professionnelles qui limitent les choix, au lieu de ramener toute difficulté à une disposition individuelle.
 
-## Élise garde une ligne non remplie
+## La feuille d’inscription circule
 
 À dix heures, Élise explique la fermeture de la salle sans longue justification. Certaines personnes acceptent de discuter dans l’accueil, une autre préfère revenir plus tard. Ce n’est pas la réunion imaginée. Le bruit du hall coupe parfois une phrase et Élise regrette de ne pas disposer d’un espace plus tranquille. Elle note ce problème au lieu de déclarer que tout s’est finalement mieux passé ainsi. Cédric s’occupe de l’intervention technique. Elle lui laisse cette tâche et rappelle seulement le créneau auquel elle aura besoin d’une nouvelle information.
 
-À midi, la feuille comporte des demandes concrètes sur les espaces extérieurs. Mireille lui a répondu : le jardin partagé pourrait accueillir une rencontre si les conditions sont précisées. Élise conserve cette piste. Elle rejoint Françoise avec un peu de retard et commence par raconter la matinée sans chercher à lui donner une morale. Elle est encore contrariée par la fuite. Elle remarque simplement qu’après le premier blocage, elle a pu poser une autre question. Dans son carnet, une ligne reste vide pour la suite, plutôt qu’un programme immédiatement refermé.
+À midi, la feuille comporte déjà plusieurs demandes sur les espaces extérieurs. Mireille lui a répondu au sujet du jardin, et Élise note les conditions à vérifier avant d’en parler aux habitants. Elle rejoint Françoise pour le déjeuner sans emporter la feuille. Quand son amie lui demande si la réunion a eu lieu, elle commence par lui parler de la porte fermée.
 
 ---
 

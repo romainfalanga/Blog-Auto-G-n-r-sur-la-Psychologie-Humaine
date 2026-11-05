@@ -13,7 +13,7 @@ episode: 1
 draft: false
 ---
 
-Le couteau de Cédric produit un bruit régulier contre la planche. Éloi regarde les morceaux tomber, presque semblables, dans un bac. Recevoir un retour sur son travail lui paraît plus difficile que regarder le chef : les mains de celui-ci connaissent déjà le prochain geste. À dix-neuf ans, Éloi commence son apprentissage en cuisine et voudrait que cette assurance passe dans ses propres doigts. Quand il reprend la place, ses morceaux changent de taille et le rythme se brise immédiatement.
+Le couteau de Cédric produit un bruit régulier contre la planche. Éloi regarde les morceaux tomber dans un bac, presque de la même taille. Quand il tourne la tête vers sa propre planche, il en voit deux qui ne cuiront pas au même rythme.
 
 « Tu as bien regardé ? » demande Cédric, sans hausser la voix. Éloi répond oui, parce que c'est vrai. Il ne détourne pas les yeux pendant la démonstration. Pourtant, il se souvient surtout de la vitesse, du bac qui se remplit et de l'aisance du chef. Il ne saurait pas expliquer comment celui-ci choisit son point de départ. Il recommence plus vite, obtient un résultat moins régulier et s'arrête avant de faire un geste incertain.
 
@@ -51,7 +51,7 @@ Cédric rectifie parfois son propre geste sans commentaire. Éloi regarde surtou
 
 Au foyer, Nora lui demande qui lui montre une manière respectueuse de poser une question. Il pense à une collègue qui annonce clairement ce qu'elle sait et ce qu'elle doit confirmer. L'apprentissage par observation concerne aussi cette parole. Éloi peut choisir des modèles différents pour des compétences différentes, sans idéaliser une personne entière. Il peut apprendre le geste de Cédric et une manière de demander auprès d'une autre collègue.
 
-## 3 techniques pour recevoir un retour utile à l’apprentissage
+## Obtenir le détail d’un retour
 
 ### 1. Demander le critère derrière le commentaire
 
@@ -75,13 +75,13 @@ Il conserve une note courte sur le repère validé, sans remplacer les documents
 
 Il distingue aussi la correction nécessaire de la manière dont elle est donnée. Il peut reconnaître un défaut dans son résultat tout en disant qu'une remarque personnelle le met en difficulté. Si des paroles humiliantes se répètent, il en parle à son formateur ou à un référent avec des faits précis. Recevoir un retour ne signifie pas devoir accepter n'importe quel traitement pour mériter sa place d'apprenti.
 
-## Éloi commence à demander une suite au commentaire
+## Le couteau de Cédric s’arrête
 
 À la prochaine préparation, Éloi demande à Cédric de montrer le point qu'il ne comprend pas. Le chef commence par répondre qu'il faut pratiquer, puis accepte de détailler un repère. Éloi retrouve une partie de ce qu'il voit dans son propre essai. Le résultat reste irrégulier, mais il sait désormais quoi comparer. Il ne confond plus aussi vite le manque de vitesse et l'absence totale de compréhension.
 
 Il remarque également que Cédric met de côté un élément pour le vérifier. Le geste dure peu et ne fait pas l'objet d'un discours. Éloi le questionne ensuite, au moment convenu. Il découvre une décision qu'il ne voyait pas auparavant : l'expérience ne supprime pas tous les doutes, elle permet aussi de mieux les traiter. Cette observation l'aide à arrêter un essai incertain sans y voir immédiatement une preuve d'inaptitude.
 
-De retour au foyer, il retrouve Nora dans le couloir des boîtes aux lettres. Il lui décrit le repère qu'il cherche maintenant, puis admet qu'il se compare encore à Quentin. Elle ne lui promet pas qu'il apprendra aussi vite. Ils parlent plutôt du temps de pratique disponible et du prochain échange avec son formateur. Éloi repart avec une question concrète, pas avec l'obligation nouvelle de se sentir confiant à tout prix.
+Au foyer, Nora lui demande si le chef lui a montré comment faire. Éloi lui explique la taille que Cédric attend. Il ajoute que Quentin allait encore deux fois plus vite que lui. Nora lui demande s’ils avaient les mêmes légumes à couper. Éloi ne s’était pas posé la question.
 
 ---
 

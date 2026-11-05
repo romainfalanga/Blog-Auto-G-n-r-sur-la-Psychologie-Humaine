@@ -13,11 +13,11 @@ contexte: "après une rupture amoureuse"
 draft: false
 ---
 
-Hugo fixe le manche de sa guitare, les doigts immobiles sur les cordes de métal. Dans le petit appartement qu'il occupait encore avec Chloé il y a deux semaines, le silence est devenu un bourdonnement insupportable. Le 15 avril 2026 marque un tournant qu'il n'avait pas prévu. Hier encore, après le succès de son concert au Melody, il se sentait invincible, porté par cette euphorie qui lui donnait l'illusion d'une toute-puissance retrouvée, prêt à reconquérir Chloé par un message enflammé. Aujourd'hui, la redescente est brutale. Il regarde son téléphone, espérant une réponse qui ne vient pas, tout en ressentant une envie viscérale de bloquer son numéro pour ne plus jamais entendre parler d'elle.
+Au réveil, Hugo retrouve le message qu’il a envoyé après le concert du Melody. Chloé ne lui a pas répondu. Depuis qu’elle ne dort plus à l’appartement, il a parfois envie de l’appeler dès qu’il se lève. Ce matin, il veut aussi bloquer son numéro pour ne pas avoir à attendre.
 
-Cette dualité le déchire. Il se lève, marche jusqu'à la fenêtre qui donne sur une rue animée de Paris, et sent la panique monter. C'est un paradoxe vivant : il est terrifié à l'idée qu'elle l'ait définitivement oublié, mais l'idée même qu'elle puisse franchir cette porte et le prendre dans ses bras lui donne envie de s'enfuir en courant. Il se souvient de la répétition du 02 avril où il avait saboté l'harmonie du groupe simplement parce qu'elle s'était montrée trop tendre. Ce besoin de proximité qui se transforme instantanément en peur de l'étouffement est un cycle qu'il ne connaît que trop bien.
+Il s’approche de la fenêtre. L’autre jour au studio, il a joué trop fort quand elle a voulu se rapprocher. Il se demande ce qu’il ferait si elle sonnait à la porte maintenant. Il aimerait l’entendre, mais il n’est pas certain de vouloir rouvrir cette conversation chez lui.
 
-Ses bagues s'entrechoquent alors qu'il se passe la main dans les cheveux. Il pense à son père, Alain, et à cette exigence de perfection qui planait toujours sur son enfance. L'amour était une récompense pour une bonne note ou une performance musicale réussie, jamais un port calme. Hugo réalise que son lien avec Chloé est le miroir de cette instabilité. Il l'aime à en mourir, puis il la déteste pour le pouvoir qu'elle a sur lui. En ce moment précis, il oscille entre la détresse de l'abandon et un besoin de protection farouche qui le pousse à s'isoler dans sa tour d'ivoire créative.
+Hugo pose son téléphone sur le bord de l’évier. Il peut avoir deux envies contraires sans laisser celle qui vient d’arriver décider pour l’autre.
 
 ## Qu’est-ce que l’ambivalence après une rupture ?
 
@@ -59,13 +59,11 @@ Hugo peut écrire d'un côté ce qui lui manque et de l'autre ce qui lui fait ch
 
 Si un message n'est pas nécessaire, Hugo peut écrire un brouillon sans l'envoyer et laisser retomber l'urgence. Si Chloé a demandé de ne plus être contactée, il respecte cette limite. Une personne de confiance peut l'écouter sans qu'il ait besoin de reprendre contact.
 
-## Hugo commence à choisir la stabilité
+## Ce qui peut attendre demain
 
-Assis à sa petite table de cuisine, Hugo repose son stylo. Il vient de noter ses envies contradictoires. Sur le papier, les mots sont crus. Une part de lui craint de finir seul s'il ne supplie pas Chloé de revenir, tandis qu'une autre lui assure que reprendre la relation pourrait lui faire perdre ses repères. En regardant ces deux réalités écrites noir sur blanc, il ressent un soulagement. Il ne se sent plus égaré. Il comprend qu'il peut ressentir les deux choses sans envoyer de message.
+Hugo écrit deux lignes dans son carnet. Sur l’une, ce qu’il voudrait dire à Chloé; sur l’autre, ce qui le ferait reculer si elle répondait. Il referme le carnet. Rien n’a changé sur le téléphone. Il commence à regarder à quelle heure il devrait rejoindre Samba.
 
-Il se lève et se dirige vers l'évier pour se rafraîchir le visage. L'eau froide sur sa peau le ramène à la réalité de cet après-midi d'avril. Il repense à sa conversation avec son frère jumeau Théo, qui l'encourageait déjà à identifier ses schémas il y a quelques semaines. Hugo réalise qu'il a parcouru du chemin depuis ce jour sur le banc du parc où il se sentait totalement vide. Il ne subit plus ses émotions comme des tempêtes imprévisibles, il commence à reconnaître ce qui les fait revenir.
-
-Ce soir, il ne travaillera pas au bar. Il a décidé de passer la soirée avec Samba, son ami musicien. Malgré le sentiment de trahison qu'il a ressenti lorsque Samba a rejoint un autre groupe pour la tournée d'été, Hugo choisit de ne pas s'isoler. Il a simplement envie de passer la soirée avec son ami. En rangeant sa guitare dans son étui, il ne cherche plus à composer le morceau parfait qui sauvera sa relation, mais simplement à trouver un accord qui sonne juste en lui-même.
+Ils ont encore à parler de la tournée. Hugo voudrait aussi jouer un morceau avec lui sans reprendre toute cette histoire dès l’entrée. Il lui demande s’il est d’accord. Samba répond qu’il a une heure. Hugo prend l’étui, laisse le carnet et descend.
 
 ---
 

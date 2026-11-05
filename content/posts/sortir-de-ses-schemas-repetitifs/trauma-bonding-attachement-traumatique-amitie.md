@@ -53,15 +53,13 @@ Elle peut noter qu’Amina écoute ses préférences et ne lui en veut pas de re
 
 Djamila peut dire : « Merci, j’ai envie de te voir, mais j’aimerais d’abord qu’on en parle. » Elle n’a aucune obligation de raconter ses violences passées pour poser une limite. Si l’autre menace, isole ou cherche à contrôler, il est légitime de demander du soutien sans tester sa réaction par une confidence.
 
-## Djamila commence à poser les armes
+## Une invitation qu’elle peut modifier
 
-Djamila repose son téléphone sur le guéridon. Elle repense à la réunion difficile avec Antoine il y a quelques semaines, où elle avait réussi à identifier son biais de confirmation. Elle se rend compte que sa réaction envers Amina est le revers de la même médaille. Si elle voit Antoine comme un prédateur potentiel, elle voit la douceur d'Amina comme une anomalie risquée. Elle se lève et va rejoindre Adam qui termine son coloriage. Il a dessiné une maison avec un toit rouge et un immense jardin. Il n'y a pas d'orage dans le ciel de son dessin, juste un soleil jaune et calme.
+Djamila reprend son téléphone et retrouve l’invitation. Elle aimerait marcher avec Amina. À l’idée de dormir loin d’Adam, elle se met en revanche à calculer ce qu’elle ferait en cas d’appel, alors qu’il ne lui a rien demandé.
 
-Elle comprend que pour offrir cet avenir à son fils, elle doit elle-même réapprendre à habiter le calme. Elle ne veut plus que son cœur ne batte que par la peur ou par la réconciliation forcée. Elle se souvient des conseils du Dr Martin sur la résilience : ce n'est pas seulement survivre à la tempête, c'est aussi apprendre à ne pas la recréer quand le ciel est bleu. Son armure de glace, qu'elle avait déjà commencé à fissurer lors de ses précédentes prises de conscience, lui semble aujourd'hui trop lourde et inutile dans la chaleur de son salon.
+Elle écrit : « J’ai envie de venir. Est-ce qu’on peut commencer par une journée ? Je préférerais rentrer le soir. » Le soulagement qu’elle éprouve en relisant son message l’étonne. Un week-end entier est une option qu’elle pourra regarder plus tard.
 
-Elle se rappelle avec une pointe de tristesse la disparition de sa grand-mère, dont le deuil avait réveillé ses vieux démons de l'abandon. À l'époque, elle tournait en rond dans cet appartement, incapable de s'ancrer dans le présent. Aujourd'hui, en regardant le dessin d'Adam, elle réalise le chemin parcouru depuis qu'elle a quitté l'emprise de Samir. Elle n'est plus cette femme qui subit les vagues de stress sans comprendre d'où elles viennent. Elle a appris à nommer ses déclencheurs, même si le réflexe de suspicion reste encore vif.
-
-Elle reprend son téléphone et tape une réponse à Amina. Ses doigts hésitent un instant, puis elle écrit : merci pour cette proposition, ça me fait un peu peur de partir comme ça, mais je sais que c'est exactement ce dont j'ai besoin. Je viens avec plaisir. En envoyant ce message, Djamila sent une petite décharge d'adrénaline, mais cette fois, c'est celle du courage. Elle choisit de ne pas écouter la voix de la méfiance qui lui murmure de rester cachée. Elle choisit de faire confiance à la réalité présente plutôt qu'aux fantômes de Samir qui hantent encore ses réflexes.
+Le téléphone reste silencieux quelques minutes. Djamila va chercher les feutres qui roulent sous le meuble d’Adam. Quand il lui demande si elle sort samedi, elle lui dit qu’elle attend une réponse.
 
 ---
 

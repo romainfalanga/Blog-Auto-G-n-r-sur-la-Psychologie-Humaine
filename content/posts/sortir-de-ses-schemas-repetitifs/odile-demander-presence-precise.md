@@ -15,9 +15,9 @@ draft: false
 
 Odile déplie le plan sur le rebord de la fenêtre pour essayer de l’orienter dans le bon sens. Les traits du document représentent les accès de son immeuble pendant des travaux. Elle reconnaît la cour mais ne comprend pas pourquoi une flèche traverse ce qui devrait être un mur. Une réunion d’information est prévue dans une salle voisine. Elle compte y assister et poser ses questions. Ce qu’elle aimerait surtout, c’est disposer ensuite de quelqu’un avec qui reprendre ce qui a été dit, au lieu de rentrer seule avec une nouvelle pile de documents.
 
-Elle pense à Josiane, qui habite à proximité et pourrait être intéressée par certains changements d’accès. Son premier message reste pourtant très vague : « Tu fais quoi jeudi ? » Odile imagine déjà devoir expliquer pourquoi elle ne peut pas se débrouiller. Elle sait lire un document, a travaillé pendant des années à expliquer des démarches au public et tient à garder ses décisions. À soixante-quatorze ans, demander une présence lui semble parfois risquer d’être immédiatement considérée comme une personne dont il faudrait désormais gérer les affaires.
+Odile tape « Tu fais quoi jeudi ? », puis laisse le message dans le brouillon. Josiane est aussi concernée par le nouvel accès à la cour. Odile voudrait lui dire qu’elle aimerait comparer leurs notes après la réunion. Quand elle relit son message, rien n’en parle. Il pourrait aussi bien annoncer une invitation à prendre le thé ou une demande pour tout l’après-midi.
 
-Avant la mort de Françoise, elle aurait peut-être appelé sa sœur en rentrant, moins pour obtenir une expertise que pour raconter la réunion et vérifier une phrase mal comprise. Ce type d’échange familier lui manque depuis six mois. Odile ne souhaite pas demander à Josiane de devenir Françoise, ni lui raconter toute son histoire chaque fois qu’un besoin apparaît. Elle voudrait seulement une présence pour une tâche précise. Pourtant, elle hésite entre taire ce besoin et le présenter comme une grande difficulté qui justifierait enfin de déranger.
+Françoise aurait posé le plan à plat et suivi les flèches avec le doigt. Odile avait l’habitude de lui téléphoner après les réunions qu’elle ne savait pas résumer. Josiane n’aurait pas les mêmes questions, mais elle pourrait avoir entendu une phrase qu’Odile a manquée. Odile reprend le téléphone et relit son brouillon.
 
 Lucie appelle au moment où sa mère cherche un autre mot que « accompagner ». Sa fille lui propose aussitôt de prendre un jour pour venir. Odile la remercie, mais ce déplacement ne correspond pas à ce qu’elle cherche. La réunion n’exige pas une journée entière de soutien. Elle réalise qu’elle saura difficilement recevoir une aide ajustée si sa demande ne dit ni ce qu’elle souhaite ni ce qu’elle garde pour elle. Elle commence donc par expliquer à Lucie ce qu’une présence pourrait concrètement changer, sans devoir prouver qu’elle est incapable de se rendre seule dans la salle.
 
@@ -29,7 +29,7 @@ Les ressources du NIH sur les liens sociaux et celles du NHS sur les relations s
 
 Une demande n’est pas davantage une preuve de dépendance générale. L’autonomie peut comprendre la possibilité de choisir des appuis, de définir ce que l’on délègue et de rester responsable de ses préférences. Odile peut demander à Josiane de prendre quelques notes tout en posant elle-même ses questions. Elle peut aussi ne rien déléguer et souhaiter simplement une compagnie. Pour que l’échange reste libre, l’autre doit pouvoir préciser ses possibilités ou refuser. Cette liberté ne rend pas le besoin moins légitime ; elle oblige parfois à chercher une autre forme de réponse.
 
-## Pourquoi une demande simple peut-elle devenir difficile ?
+## La différence entre venir et prendre le relais
 
 ### On attend que le besoin soit assez grave pour compter
 
@@ -43,7 +43,7 @@ La proposition de Lucie part d’une intention attentive. Elle peut pourtant dé
 
 Le message « Tu fais quoi jeudi ? » peut laisser Josiane penser qu’il s’agit d’un repas ou d’une course. Odile espère qu’elle devinera une disponibilité suffisante et qu’il sera ensuite plus facile de demander. Cette stratégie risque pourtant de mettre chacune dans une position inconfortable. Josiane peut s’être déclarée libre sans souhaiter l’activité ; Odile peut avoir l’impression de transformer cette réponse en obligation. Une demande explicite permet à l’autre de savoir à quoi elle répond. Elle n’assure pas un accord, mais réduit les attentes qui reposeraient uniquement sur une interprétation.
 
-## Trois pistes pour demander sans abandonner sa place
+## Préciser la demande, entendre la réponse
 
 ### 1. Décrire l’appui attendu avant de choisir la personne
 
@@ -57,7 +57,7 @@ Odile réécrit son message : elle indique le lieu, l’horaire prévu et le sou
 
 Si Josiane accepte, Odile peut lui expliquer qu’elle posera elle-même ses questions et souhaite seulement vérifier les informations entendues. Elle peut lui demander de signaler un oubli sans prendre la parole systématiquement à sa place. Ces limites ne sont pas des reproches préventifs. Elles donnent une forme à la coopération. Après la réunion, elles pourront constater ce qui a convenu et modifier leur manière de faire une prochaine fois. Une aide n’a pas besoin d’être parfaitement organisée du premier coup. Si Odile se sent dépossédée ou si Josiane trouve la demande plus lourde que prévu, cette information doit pouvoir être discutée sans transformer l’une en personne ingrate ou l’autre en accompagnante insuffisante.
 
-## Odile propose un rendez-vous avec un début et une fin
+## Deux versions de la même consigne
 
 Josiane répond qu’elle souhaite aussi comprendre le nouveau passage vers la cour. Elle peut venir, mais doit repartir à une heure précise. Odile accepte cette limite et propose de se retrouver devant la salle. Elles ne s’engagent pas encore à prendre des notes détaillées : chacune aura un document et pourra repérer ses propres questions. Le besoin devient une activité partagée plutôt qu’un service dont Odile serait l’unique bénéficiaire. Cette réciprocité n’est pas nécessaire pour que la demande soit valable, mais elle correspond à ce qu’elles découvrent ici.
 

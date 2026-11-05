@@ -15,7 +15,7 @@ draft: false
 
 La valise roule mal sur une jointure du quai. Inès la soulève pendant que Clara cherche le numéro de sa voiture. Dans quelques minutes, sa compagne part pour quatre jours de rencontres associatives. Inès se réjouit du programme qu’elle se prépare de son côté et anticipe déjà un appartement un peu différent sans les bruits de Clara. Confiance et espace personnel prennent une forme concrète : comment rester en lien pendant cette séparation sans devoir rendre compte de chaque heure ?
 
-Inès, bibliothécaire de trente ans, vit avec Clara depuis trois ans. Elles traversent d’autres absences courtes, mais parlent rarement de ce qu’elles attendent du contact et du retour. Cette fois, Inès veut éviter les accords supposés. Elle aime recevoir quelques nouvelles, sans avoir envie d’un appel quotidien imposé. Clara prévoit des journées denses et souhaite garder la possibilité de passer une soirée avec les autres participantes sans surveiller l’heure.
+Elles ont déjà passé quelques jours l’une sans l’autre. Inès aime recevoir un message quand Clara arrive et n’a pas envie de prévoir un appel chaque soir. Clara compte passer du temps avec les autres participantes après les rencontres. Avant qu’elle monte dans le train, elles essaient de se dire ce qu’elles voudront savoir.
 
 Sur le quai, elles choisissent un premier message à l’arrivée, puis des nouvelles selon leur disponibilité. Elles conviennent aussi qu’une urgence sera annoncée comme telle. Aucun partage permanent de localisation n’est prévu. Inès n’en ressent pas le besoin, mais connaît sa tendance à vérifier davantage quand elle ne sait pas à quoi s’attendre. L’accord pratique ne promet pas de supprimer toute inquiétude ; il donne quelques repères qui évitent de traiter chaque délai comme une information sur le lien.
 
@@ -51,7 +51,7 @@ Avant le retour, Inès imagine une longue soirée à raconter leurs journées. C
 
 Les retrouvailles constituent un moment à organiser, pas seulement un événement qui devrait produire spontanément la même émotion. Un accueil bref, une pause puis un repas peuvent convenir davantage qu’un programme entier. Inès peut dire qu’elle souhaite un temps partagé, tandis que Clara peut préciser de quoi elle est capable à l’arrivée. Leur confiance gagne à supporter ce passage, avec des rythmes qui se rapprochent sans devoir coïncider immédiatement.
 
-## Trois techniques pour garder le lien et l’espace personnel
+## Prévoir le retour aussi bien que le départ
 
 ### 1. Convenir de repères de contact assez simples
 
@@ -77,13 +77,13 @@ Inès dit aussi ce qu’elle voudrait garder de ses jours seuls : une heure de l
 
 Après le retour, elles font un bilan bref : les contacts conviennent-ils, l’accueil laisse-t-il assez de place à chacune, un besoin reste-t-il sans réponse ? Elles ne notent pas la quantité de manque éprouvée. L’une peut apprécier davantage le temps seul et l’autre souhaiter plus de nouvelles. Ces différences peuvent être discutées sans hiérarchie automatique. Leur prochain arrangement partira de ce qu’elles observent, plutôt que d’une règle supposée des couples qui s’aiment.
 
-## Inès retrouve Clara sans annuler les jours vécus séparément
+## Une portion attend dans la cuisine
 
 Le train de Clara arrive avec du retard. Inès reçoit l’information, mange un peu plus tôt et laisse une portion prête. À la porte, elles choisissent une étreinte, puis Clara pose ses chaussures et va se doucher. Inès termine une page sur le canapé. Elle ressent un décalage entre l’arrivée imaginée et celle qui se déroule, sans le transformer en indice d’un lien moins solide. Elles disposent encore d’un temps choisi après cette transition.
 
 Au repas, Clara raconte un atelier, puis s’arrête parce qu’elle mélange les prénoms des participantes. Inès parle de la lecture publique et du roman trouvé. Elles ne doivent pas reconstituer quatre jours d’un seul trait. Certains moments restent à raconter, d’autres ne seront pas partagés. Le contenu privé ne devient pas suspect parce qu’il manque au récit. Chacune reste libre d’offrir les détails qu’elle souhaite, dans le respect des personnes extérieures aussi.
 
-Le dimanche, Inès garde son heure de lecture et Clara poursuit son courrier. Elles se retrouvent ensuite pour marcher. La séparation temporaire leur laisse un apprentissage très concret : un repère de contact peut sécuriser le lien sans occuper toutes les heures, et un accueil peut être chaleureux sans exiger une disponibilité immédiate. Inès conserve une part de manque lors des absences ; elle commence à l’accompagner avec des choix plutôt qu’avec une surveillance.
+Le dimanche, Inès lit un moment tandis que Clara reprend son courrier. Quand Clara a terminé, elle lui propose de sortir marcher. Inès finit son chapitre avant d’aller chercher ses chaussures. Elle avait promis une promenade; elle n’avait pas prévu de refermer le livre au premier bruit.
 
 ---
 

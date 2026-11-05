@@ -13,11 +13,9 @@ contexte: "lors d'un deuil"
 draft: false
 ---
 
-Monique trie les dossiers médicaux de Jean-Claude sur le bureau, des feuilles froissées qui racontent des mois d'hospitalisations et de rendez-vous. Le papier dégage une odeur de colle sèche et d'encre ancienne. Elle glisse son doigt entre deux pages et tombe sur un petit carnet à la couverture usée, celui que Jean-Claude utilisait pour noter ses rendez-vous et ses pensées furtives. Le nom d'un traitement, une blague écrite en marge, une liste de courses barrée d'une écriture inclinée : autant de traces matérielles d'une vie partagée qui lui rappellent la précision avec laquelle il organisait son quotidien.
+« Si seulement on avait commencé plus tôt… » Monique retrouve cette phrase dans une liasse de dossiers médicaux de Jean-Claude. Elle reconnaît son écriture. Il n’a pas noté de date. Sur le papier placé juste au-dessous, il est question d’un rendez-vous différent. Elle a envie de rapprocher les deux feuilles ; rien ne prouve qu’elles parlent de la même chose.
 
-Elle lit un mot griffonné d'une main qu'elle reconnaît immédiatement : "Si seulement on avait commencé plus tôt..." La phrase résonne en elle comme une tentative désespérée d'ordonner l'impossible. Aujourd'hui, le 18 mars 2026, dans le bureau aux murs tapissés de classiques de la littérature (qu'elle connaît par cœur après des décennies d'enseignement), Monique ressent ce besoin familier de chercher une cause simple pour expliquer l'injuste. Elle a appris, lors de son précédent travail de réflexion le 12 mars, à nommer son impuissance ; elle se souvient de cette sensation de "rideau épais" qui la paralysait devant sa tasse de thé. Aujourd'hui, elle ne subit plus cette paralysie de la même manière, mais un autre mécanisme se dessine, plus discret et plus tenace : la conviction que le monde devrait être juste, et que si ce n'est pas le cas, il faut identifier qui a failli.
-
-Sa voisine, Geneviève, frappe à la porte en apportant des madeleines. Elles échangent quelques mots sur la météo, mais l'esprit de Monique revient sans cesse au carnet. Elle pressent que cette recherche d'une faute ou d'une solution constitue un bouclier psychologique, un biais cognitif qui la protège du vertige. Elle perçoit aussi, avec sa curiosité d'enseignante, qu'il y a là une histoire plus profonde, tissée de traditions familiales, de loyautés invisibles et de la crainte du vide. Elle qui a passé sa vie à expliquer la structure des récits à ses élèves cherche maintenant à rationaliser le chaos de sa propre existence. Aujourd'hui, elle veut comprendre pourquoi ce besoin de justice devient si impérieux face à la perte.
+Geneviève sonne avec des madeleines. Monique les pose sur une assiette sans lui montrer le carnet. En lui demandant si elle prend du thé, elle s’entend déjà chercher qui aurait pu faire quelque chose, à quel moment, et pourquoi personne ne l’avait fait.
 
 ## Qu'est-ce que le biais du monde juste ?
 
@@ -65,13 +63,11 @@ Exercice concret : Monique se lance un défi : accepter un déjeuner familial o�
 
 Pourquoi ça marche : L'action produit des preuves concrètes qui contredisent les théories émotionnelles. Cela aide Monique à revenir à une approche plus empirique de sa propre vie.
 
-## Monique élargit son horizon
+## Une phrase sans date
 
-Monique teste le journal des faits un soir, après le départ de Geneviève. Elle écrit la phrase trouvée dans le carnet et y appose, pour la première fois, une explication médicale lue récemment. Ce n'est pas un soulagement immédiat, mais une mise en perspective qui calme la morsure de la culpabilité. Elle utilise ses acquis sur l'identification des émotions pour mettre des mots sur la tension qui l'habite, se rappelant que nommer son ressenti est le premier pas pour ne plus le subir.
+Plus tard, Monique recopie la phrase avec les points de suspension. Elle veut ajouter le nom d’un médecin qu’elle a retrouvé dans le dossier, puis le laisse sur la feuille d’à côté. Elle pourrait demander une explication sur un terme médical qu’elle ne comprend pas. Elle n’a pas de réponse au « si seulement ».
 
-Elle rédige ensuite sa lettre croisée. L'exercice la surprend : sa plume parvient à énoncer des limites et des probabilités sans porter de jugement. Elle sent que la rigidité de ses pensées, héritée de son besoin de tout contrôler par l'intellect, commence à s'assouplir. Quelques jours plus tard, elle accepte l'invitation de son fils François. Elle s'attendait à une gêne insupportable, mais elle note, au retour, que la journée a été ponctuée de souvenirs doux et de rires partagés. Cette expérience lui prouve que l'on peut avancer sans nier le passé.
-
-Ces outils s'articulent entre eux : nommer ses émotions la protège des réactions instinctives, le journal apporte de la rigueur, la lettre offre un nouveau regard et l'action lui redonne sa liberté de mouvement. Monique comprend que son besoin d'un monde ordonné était aussi le reflet d'une éducation où la responsabilité était centrale. Elle voit désormais cette exigence comme une habitude mentale que l'on peut apprendre à assouplir, une évolution nécessaire pour sortir de l'impuissance qui la figeait autrefois.
+Geneviève a laissé trois madeleines. Monique en prend une pour la manger avec le thé qu’elle n’a pas bu pendant la visite. Elle retourne la page sur le bureau. Quand elle la rouvrira, elle veut retrouver les deux choses séparées : ce que Jean-Claude a écrit et ce qu’elle imagine à partir de là.
 
 ---
 

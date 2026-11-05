@@ -13,7 +13,7 @@ editorial_pack: "psychology-v10"
 draft: false
 ---
 
-Le volet accroche à mi-hauteur et laisse une fente claire sur la couverture. Maëlle tire une nouvelle fois sur la sangle, puis abandonne. À vingt-sept ans, elle travaille comme opératrice dans une usine agroalimentaire, avec une équipe du matin cette semaine et une équipe d'après-midi la suivante. Aujourd'hui, ses horaires alternés lui donnent une sensation étrange : elle rentre épuisée, mais ne trouve pas le sommeil au moment où elle peut enfin s'allonger.
+Le volet accroche à mi-hauteur et une raie de lumière tombe sur la couverture. Maëlle tire de nouveau sur la sangle. Rien. À vingt-sept ans, elle connaît assez bien ses rotations à l’usine agroalimentaire pour savoir que la semaine du matin lui demande déjà de décaler plusieurs choses. La prochaine, elle sera d’après-midi. Aujourd’hui, elle avait prévu de récupérer avant une course. Elle s’allonge du côté où le soleil ne l’atteint pas encore.
 
 Dans la cour, un camion recule au rythme de ses avertissements sonores. Son compagnon, Julien, déplace un panier de linge et demande si elle veut déjeuner avec lui. Elle répond trop sèchement : « Je ne sais même plus quand j'ai faim. » Il pose le panier. Elle préférerait lui expliquer ce décalage plutôt que lui laisser croire qu'elle refuse sa présence, mais les mots semblent aussi mal rangés que les heures de sa journée.
 
@@ -55,7 +55,7 @@ La fatigue peut rendre les échanges plus difficiles, mais elle n'excuse pas tou
 
 Cette distinction lui évite un marché coûteux où elle répare chaque tension en renonçant à récupérer. Une réparation relationnelle peut prendre la forme d'une explication claire, d'excuses adaptées et d'un autre arrangement. Elle ne demande pas nécessairement une présence immédiate ni un effort supplémentaire.
 
-## 3 techniques pour protéger les possibilités de sommeil
+## Préparer une plage de repos
 
 ### 1. Observer une rotation sans se donner une note
 
@@ -81,7 +81,7 @@ Au travail, elle distingue ensuite les demandes organisationnelles des informati
 
 Enfin, elle prévoit ce qu'elle fait si la somnolence rend une tâche ou un trajet dangereux : interrompre la situation à risque, prévenir selon les procédures adaptées et rechercher une solution sûre. Elle ne se promet pas de rester éveillée par la seule motivation. Cette limite de sécurité compte davantage que l'image de fiabilité qu'elle aimerait donner.
 
-## Maëlle commence à décrire son rythme sans s'accuser
+## Ce que disent ses horaires
 
 Le camion quitte la cour. Maëlle ressort du lit et rejoint Julien devant le planning, sans annoncer qu'elle va désormais tout maîtriser. Elle montre simplement les deux cases qui se suivent : fin de poste, obligations, puis réveil suivant. « Quand tu vois une après-midi libre, moi je vois ma seule possibilité de sommeil », dit-elle. Il comprend mieux la différence entre être chez soi et être disponible.
 

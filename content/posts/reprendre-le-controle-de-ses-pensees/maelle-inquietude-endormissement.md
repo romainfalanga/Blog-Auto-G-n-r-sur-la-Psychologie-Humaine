@@ -15,7 +15,7 @@ draft: false
 
 Les chiffres rouges du réveil se reflètent sur le bord de la commode. Maëlle les connaît sans les regarder vraiment : elle vient de calculer le nombre d'heures qui la séparent de sa prochaine prise de poste. La peur de ne pas dormir arrive avant le sommeil lui-même. Elle prépare mentalement une journée difficile, puis s'inquiète de cette inquiétude, comme si la pensée ajoutait déjà une heure d'éveil.
 
-Julien range un livre de recettes dans le couloir. Ils protègent désormais davantage les périodes de récupération de Maëlle, vingt-sept ans, opératrice agroalimentaire en horaires alternés. Le rideau provisoire empêche la lumière de passer sous le volet défectueux. La pièce est mieux préparée, mais Maëlle découvre une autre difficulté : elle vérifie si chaque amélioration fonctionne, avec l'attention tendue d'une personne qui attend un résultat urgent.
+Dans le couloir, Julien range le livre de recettes qu’il avait prévu d’ouvrir pour le dîner. Il sait qu’elle doit se lever tôt et ne lui pose pas de question. Le rideau provisoire tient toujours devant le volet. Elle n’a plus à chercher une position à l’abri de la lumière ; depuis qu’elle est couchée, en revanche, elle tient les comptes. Si elle s’endort avant le prochain changement de chiffre, calcule-t-elle, il lui restera presque six heures.
 
 « Tu veux que je déplace le réveil ? » demande son compagnon depuis la porte. Elle commence par refuser. Si elle ne voit plus l'heure, comment saura-t-elle combien de temps elle perd ? En entendant sa propre question, elle perçoit le piège. Elle cherche une information qui ne lui permet pas de dormir et qui, chaque fois qu'elle la consulte, lui donne une raison supplémentaire de s'alarmer.
 
@@ -57,7 +57,7 @@ Certaines préoccupations contiennent une information utile. Si elle craint de m
 
 Julien ne l'aide pas lorsqu'il répond trop vite : « Arrête d'y penser, tu vas dormir. » Il veut la rassurer, mais elle se sent responsable d'une pensée qu'elle ne parvient pas à interrompre. Elle a davantage besoin qu'il reconnaisse la difficulté et l'aide à préserver le cadre qu'ils choisissent ensemble.
 
-## 3 techniques pour réduire la surveillance du sommeil
+## Desserrer l’attention portée à l’heure
 
 ### 1. Préparer le nécessaire avant la période de repos
 

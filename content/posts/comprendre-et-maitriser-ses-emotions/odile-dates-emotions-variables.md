@@ -15,7 +15,7 @@ draft: false
 
 Sur le calendrier posé près de la radio, Odile entoure une date déjà soulignée. Le jour de naissance de Françoise approche. D’habitude, elle cherche à cette période une carte assez moqueuse pour faire protester sa sœur. Cette année, aucun courrier ne partira. Odile referme le capuchon de son feutre, puis le rouvre pour écrire une autre information dans la même case : rendez-vous chez le cordonnier. Les deux indications côte à côte lui paraissent d’abord incongrues, comme si la réparation d’une fermeture éclair n’avait pas le droit de partager cette journée.
 
-Françoise est morte il y a six mois. Odile a déjà traversé des dimanches pénibles et des journées étonnamment tranquilles, sans toujours pouvoir prévoir les uns ou les autres. Pourtant, cette date lui semble annoncer nécessairement quelque chose de très difficile. À soixante-quatorze ans, l’ancienne agente postale ne manque pas d’expérience des anniversaires ; elle manque seulement de repères pour celui-ci. Elle voudrait pouvoir choisir un programme qui protège à la fois le souvenir et sa possibilité de vivre la journée sans la redouter pendant toute la semaine.
+Le dimanche précédent, Odile a eu du mal à finir le déjeuner. La veille, elle avait passé la matinée à lire sans penser à Françoise. Elle ne sait pas ce qui arrivera le jour entouré. Elle connaît assez bien le chemin jusqu’au cordonnier et sait qu’elle peut déplacer le rendez-vous. Sur le calendrier, c’est encore la seule chose pour laquelle elle ait une heure.
 
 Lucie lui envoie un message pour demander si elle souhaite faire quelque chose ensemble. Sa fille serait disponible au téléphone, mais ne peut pas se déplacer. Odile pense à une promenade avec Josiane, puis se demande si une promenade serait suffisante. Suffisante pour qui, elle ne le sait pas exactement. Elle imagine que ne rien organiser risquerait de rendre l’absence plus dure, et qu’organiser quelque chose de trop important pourrait l’épuiser. La préparation devient plus lourde que la décision concrète à prendre.
 
@@ -29,7 +29,7 @@ Le deuil ne suit pas un calendrier qui obligerait à ressentir davantage certain
 
 Prévoir et contrôler ne sont donc pas la même opération. Prévoir consiste à regarder les contraintes connues, à choisir une présence éventuelle et à laisser une marge si c’est possible. Contrôler totalement demanderait de garantir l’absence de peine ou, au contraire, de produire une émotion jugée fidèle. Ces garanties ne sont pas disponibles. L’enjeu peut devenir plus modeste : traverser un moment important avec des possibilités adaptées, y compris celle de changer un projet. Un rituel peut être choisi, mais aucune cérémonie n’est requise pour que la personne morte conserve une place.
 
-## Comment l’approche d’une date peut-elle prendre trop de place ?
+## Le jour entouré sur le calendrier
 
 ### On vit plusieurs fois une journée qui n’a pas encore eu lieu
 
@@ -43,7 +43,7 @@ Si Odile se réveille relativement tranquille, elle risque de croire qu’elle n
 
 Lucie aimerait peut-être partager une anecdote ; Josiane pourrait proposer une sortie ; Odile peut préférer garder une partie du temps pour elle. Ces souhaits ne se classent pas automatiquement du plus fidèle au moins fidèle. Ils concernent des liens différents avec Françoise et des besoins actuels différents. Une proposition peut être refusée sans interdire à l’autre de vivre son propre souvenir. Lorsqu’un désaccord apparaît, préciser ce que chacun souhaite réellement permet souvent une discussion plus concrète que décider quelle manière de commémorer serait moralement correcte.
 
-## Trois pistes pour préparer sans imposer la journée
+## Prévoir un appui et pouvoir en changer
 
 ### 1. Séparer les contraintes connues du scénario imaginé
 
@@ -57,7 +57,7 @@ Odile envisage de relire une carte envoyée autrefois par Françoise et de racon
 
 Odile demande à Lucie si elles peuvent fixer un horaire d’appel tout en gardant le droit de parler moins longtemps. Elle vérifie aussi qu’un autre moment est possible si un imprévu survient. Ce cadre ne garantit pas qu’elle se sentira accompagnée exactement comme elle le souhaite, mais il réduit une incertitude pratique. Avec Josiane, elle peut convenir d’une promenade courte ou d’un simple message, sans devoir rester dehors si cela ne lui convient plus. Les personnes disponibles ont leurs limites ; les connaître évite de concentrer toutes les attentes sur un appel. Si l’isolement ou la souffrance inquiètent, un professionnel ou une structure de soutien peut aider à préparer des appuis plus adaptés que la seule bonne volonté des proches.
 
-## Odile garde une journée avec plusieurs possibilités
+## Le passage chez le cordonnier
 
 La veille de l’anniversaire, Odile parle avec sa fille. Elles choisissent une heure où aucune n’aura à interrompre la conversation pour un rendez-vous immédiat. Lucie raconte qu’elle associe sa tante à des cartes postales pleines de commentaires sur la météo. Odile rit et se rappelle une carte où la pluie semblait occuper plus de place que le voyage. Elle apprécie cet échange, puis demande à parler d’autre chose. Elle ne veut pas épuiser toutes les anecdotes avant même que la date arrive, et Lucie n’a pas besoin d’insister pour que la préparation ait été utile.
 
@@ -65,7 +65,7 @@ Le lendemain matin, Odile ressent surtout une fatigue ordinaire. Elle ne cherche
 
 Pendant l’appel prévu, elle raconte une histoire moins aimable de sa sœur, une dispute dont elle peut maintenant reconnaître le côté absurde. Lucie écoute sans transformer Françoise en personne parfaite. Odile constate que le souvenir peut conserver cette complexité. Après la conversation, elle laisse le téléphone près d’elle, sans attendre que quelqu’un vienne remplir toute la soirée. Elle choisit de revoir une émission, puis pense de nouveau à la date. La peine revient avec une pensée tendre. Elle n’a pas à prolonger délibérément ce moment ni à s’en débarrasser rapidement.
 
-Avant de se coucher, Odile ne note pas si elle a bien traversé l’anniversaire. Elle remarque seulement que certains appuis ont convenu et qu’elle aurait préféré un peu moins de courses. Cette information pourra servir une autre fois, sans devenir une règle pour l’année suivante. La prochaine date importante pourra susciter une autre expérience. Elle a gardé une place à Françoise et plusieurs possibilités pour elle-même. Rien de cela ne supprime le manque ; cela lui permet de ne pas confier toute sa journée à la crainte de ce qu’elle devrait ressentir.
+Avant de se coucher, Odile pose le sac du cordonnier près de la porte. Elle avait prévu de ranger les chaussures en rentrant. Elle verra demain. Pour l’instant, elle se rappelle le moment où Lucie a ri au téléphone, et le bruit qu’a fait la fermeture éclair quand le cordonnier lui a montré la réparation.
 
 ---
 

@@ -19,7 +19,7 @@ draft: false
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/vincent-charge-aidance-taches-invisibles/">Charge d’aidance : Vincent nomme les tâches invisibles</a></h3>
-    <p class="parcours-resume">Vincent garde en tête les trajets, appels et démarches en plus de son travail ferroviaire. Avec Cédric, il rend les tâches visibles ; Cédric garde un dossier et Julie récupère une commande.</p>
+    <p class="parcours-resume">À la quincaillerie, Vincent demande à Julie de récupérer des pièces pour le robinet. Il découvre qu’une partie de la charge tient au suivi des tâches.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/vincent-charge-aidance-taches-invisibles/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">

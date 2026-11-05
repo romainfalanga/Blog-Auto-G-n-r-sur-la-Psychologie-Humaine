@@ -13,11 +13,9 @@ contexte: "avec ses enfants"
 draft: false
 ---
 
-L'odeur de la pâte à gâteau remplit la cuisine alors que Nadia ajuste nerveusement son tablier en lin. Elle surveille Yasmine, 8 ans, qui tente de peser le sucre avec une application solennelle. La journée a été rude au bureau, marquée par une série de réunions interminables où Nadia a dû, encore une fois, jouer les pare-feux pour son équipe. Elle repense à cet effet Zeigarnik qu'elle a appris à identifier la semaine dernière, cette sensation de dossiers inachevés qui tournent en boucle dans son crâne. Elle essaie de se rendre présente, de savourer ce mercredi après-midi de garde alternée, mais ses doigts tambourinent sur le plan de travail en quartz. Elle se surprend à vérifier ses notifications, une habitude héritée de sa gestion de crise avec son assistante Julie, avant de s'imposer de reposer son téléphone.
+Le paquet de farine bascule quand Yasmine le rapproche de la balance. Nadia la voit tendre la main pour le rattraper, trop tard. Elle hausse la voix avant même que le paquet soit par terre. « Monte dans ta chambre. Je vais finir. »
 
-Tout se passe bien jusqu'au moment où Yasmine, dans un élan d'enthousiasme pour casser les œufs, heurte le sachet de farine ouvert. Le nuage blanc explose sur le sol sombre et recouvre les chaussures vernies de Nadia. Le silence qui suit est lourd. Nadia sent une chaleur brutale monter de sa poitrine vers son cou. Ce n'est pas juste de la farine, c'est une intrusion de plus, un grain de sable dans l'engrenage de sa vie qu'elle s'efforce de maintenir si parfaite depuis son divorce. Elle voit les yeux de sa fille s'agrandir, non pas de tristesse, mais de surprise face à la rigidité soudaine de sa mère.
-
-Yasmine commence à bafouiller une excuse, mais Nadia l'interrompt d'une voix sèche, trop haute, trop tranchante. Elle lui ordonne de monter dans sa chambre le temps qu'elle nettoie, invoquant un manque de soin insupportable. Alors que sa fille s'éloigne, les épaules basses, Nadia s'agenouille avec une éponge. Elle frotte le sol avec une vigueur disproportionnée, comme si elle tentait d'effacer non seulement la farine, mais aussi l'impuissance qui la ronge depuis son divorce avec Karim. Sa respiration est courte, saccadée. Elle réalise que ce n'est pas le geste de Yasmine qui la met dans cet état, mais quelque chose de plus profond : cette alerte permanente qu'elle n'a pas réussi à désactiver en quittant le bureau.
+À huit ans, Yasmine sait peser les ingrédients. Nadia le sait aussi. Elle vient de passer la journée à reprendre un dossier après des interruptions ; elle avait imaginé le gâteau prêt avant le dîner. Elle se met à nettoyer très vite. Sur le plan de travail, Yasmine avait mis de côté la spatule qu’elle voulait utiliser.
 
 ## Qu'est-ce que la frustration avec ses enfants ?
 
@@ -47,13 +45,11 @@ Interrogez l'interprétation qui vous vient d'emblée. Yasmine a renversé de la
 ### 3. Faire une transition ou annoncer une pause
 Au retour du travail, si vous en avez le temps, essayez de noter ce qui reste à traiter et quand vous pourrez le reprendre. Dans l'échange avec l'enfant, une phrase comme « Je suis énervée, je vais prendre une minute et revenir » aide à annoncer la pause. Restez à proximité si l'enfant a besoin de surveillance. Revenez ensuite dire ce que vous regrettez ou ce que vous demandez pour la suite.
 
-## Nadia commence à transformer sa relation
+## Une deuxième place devant le saladier
 
-Assise sur le carrelage maintenant propre, Nadia laisse l'éponge de côté. Elle se souvient de ce qu'elle a appris sur le contrôle et la persévérance lors de ses séances de pilates, mais aussi de ses réflexions sur sa charge mentale de manager. Elle comprend que son exigence envers elle-même est une armure qu'elle porte depuis l'enfance pour honorer le parcours de ses parents, Fatima et son père, mais que cette armure étouffe aujourd'hui Yasmine. Elle se lève, les genoux un peu douloureux, et monte l'escalier qui mène à la chambre de sa fille.
+Nadia frappe à la porte de Yasmine. « J’ai crié pour la farine. Je n’aurais pas dû. » Yasmine regarde le bord de sa couette. Nadia attend un peu. La petite lui dit qu’elle pensait pouvoir attraper le paquet, puis demande si le gâteau est déjà au four.
 
-Elle frappe doucement à la porte, un geste qu'elle oublie souvent dans sa hâte habituelle. Yasmine est assise sur son lit, tripotant le bord de sa couette. Nadia s'assoit à côté d'elle, sans chercher à dominer l'espace. Elle lui explique calmement qu'elle était fatiguée par son travail et que sa réaction était excessive. Elle utilise la technique du recadrage : elle reconnaît que Yasmine voulait participer et que la farine n'est qu'un détail sans importance. Pour la première fois depuis longtemps, elle ne cherche pas à diriger la conversation comme elle le ferait en réunion de direction ; elle écoute simplement le récit de la journée de sa fille.
-
-En redescendant, elles décident de finir le gâteau ensemble. Nadia accepte les traces de farine sur le plan de travail et confie le fouet à Yasmine. Elle repense à ses dossiers qui lui reviennent parfois à l'esprit après le travail. Prévoir quand elle les reprendra lui donne un point de départ. Dans la cuisine, elle peut surtout décider d'écouter Yasmine et finir le gâteau avec elle.
+Elles redescendent après un moment. Nadia mesure ce qui reste de farine. Yasmine lui tend la spatule et dit qu’elle veut battre elle-même. Nadia commence à la prendre par le manche, puis pousse le saladier vers sa fille.
 
 ---
 

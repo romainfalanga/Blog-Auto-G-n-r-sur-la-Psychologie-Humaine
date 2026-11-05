@@ -13,11 +13,11 @@ contexte: "après une rupture amoureuse"
 draft: false
 ---
 
-L’air est froid ce soir-là, et Fabien serre son manteau un peu plus fort autour de lui en marchant dans le parc près de chez lui. La lumière des réverbères se reflète sur les flaques d’eau laissées par la pluie de l’après-midi. Son téléphone vibre une fois, puis plus rien. Il sait que ces vibrations, ce silence, racontent la même histoire : elle ne répondra pas. Depuis deux ans, après la fin de son mariage avec Véronique, chaque jour semble comme un pas de plus dans le vide. Cadre RH depuis vingt ans, il conseille les autres sur leurs problèmes, mais n'a pas su gérer les siens. Leurs enfants, Marine et Lucas, vivent chez leur mère, et l'appartement qu'il occupe seul sent encore le neuf.
+Dans le parc, Fabien ralentit assez pour regarder son téléphone. Une notification, mais rien de Véronique. Il a laissé Marine et Lucas chez leur mère et n’attend aucune réponse urgente. Il garde pourtant l’écran dans la main.
 
-Fabien s’assoit sur un banc, ses mains tremblent légèrement. Il repense aux centaines d’heures passées ensemble, aux projets qu’ils avaient, aux cadeaux échangés, aux mots doux murmurés. Pourtant, Véronique a pris un chemin différent, et lui est resté bloqué, coincé dans cette attente douloureuse. Il a du mal à tourner la page, se répétant que tout ce qu’il a investi ne doit pas être perdu. Mais cette persistance le ronge. Pourquoi est-il si difficile de lâcher prise, alors que la relation est terminée ? 
+Depuis la fin de son mariage, il fait parfois le compte du temps qu’ils ont passé à aménager la maison, des travaux qu’ils ont remis à plus tard, des vacances dont il se rappelle surtout les trajets. Il peine à croire que ces années puissent rester importantes alors qu’il n’y aura pas de retour à la vie d’avant.
 
-Ce soir, Fabien sent une drôle de fatigue sur son cœur, un poids invisible qu’il ne sait pas encore nommer. Ce poids tient aussi à la fin d’une relation. Dans l’idée de devoir continuer parce qu’il a tant investi, Fabien reconnaît en revanche un raisonnement que l’on appelle biais du coût irrécupérable.
+Sur le banc, Fabien ouvre une conversation avec Véronique. La dernière chose qu’il lui a demandée concerne les enfants. La suivante, dans le brouillon, ne concerne qu’eux deux. Il a envie de l’envoyer. Il peut aussi se demander ce qu’une réponse changerait aujourd’hui.
 
 ## Qu’est-ce que le biais du coût irrécupérable ?
 
@@ -51,20 +51,18 @@ Imaginez votre vie dans un an, sans cette relation. Que voulez-vous construire p
 
 Vous pouvez couper certaines notifications ou ranger des archives si cela vous aide à choisir à quoi donner votre attention. Respectez une demande de non-contact. Des échanges nécessaires, par exemple pour l’organisation avec les enfants, peuvent rester dans un cadre convenu.
 
-## Fabien trouve son chemin vers la liberté intérieure
+## Le prochain dimanche
 
-Au fil des semaines, Fabien commence à mettre en pratique ces techniques. La première fois qu’il pose sur papier tout ce qu’il a investi, il ressent un mélange de tristesse et de clarté. Puis, en écrivant son futur, il s’autorise à rêver sans Véronique, à envisager un quotidien où il pourrait se sentir heureux seul, un quotidien où ses balades en vélo le dimanche et ses soirées jazz ne seraient plus des fuites mais des choix.
+Fabien efface le brouillon et garde la conversation ouverte. Il en aura encore besoin pour régler les vacances avec Véronique. Le soir, à l’appartement, il écrit le nom de Marine à côté de celui d’un film qu’ils avaient prévu de voir ensemble. Il lui demande si elle veut y aller dimanche. Elle a déjà quelque chose de prévu, mais lui propose le suivant.
 
-Il installe des règles simples : plus de consultation des réseaux sociaux le soir, plus de messages envoyés dans l’espoir d’une réponse. Ces petits gestes, au début difficiles, deviennent des alliés puissants. Peu à peu, le poids invisible qu’il portait s’allège, et il découvre de nouvelles ressources en lui.
-
-Fabien comprend qu’abandonner l’espoir de faire revivre cette histoire n’est pas un échec, mais un acte de courage et de respect envers lui-même.
+Il hésite encore à appeler Véronique une fois le téléphone posé. À défaut de décider ce qu’il fera les autres soirs, il range son manteau, prend un disque dans le carton et s’aperçoit que la platine n’est pas encore branchée.
 
 ## Conclusion : un chemin possible pour vous aussi
 
-Le biais du coût irrécupérable après une rupture amoureuse est un mécanisme naturel qui peut malheureusement prolonger la souffrance si on ne le reconnaît pas. Mais comme Fabien, vous avez la possibilité de reprendre le contrôle sur vos pensées, de vous libérer de ce poids et de vous ouvrir à un futur où vous serez la priorité.
+Le temps passé ensemble peut compter pour Fabien sans déterminer sa prochaine décision. Il peut revenir à la question plus tard et garder les échanges nécessaires à l’organisation de la famille.
 
 N’oubliez pas : faire ce travail demande du temps et de la douceur envers soi. Si la douleur devient trop intense, consulter un professionnel de la psychologie peut être un précieux soutien. Vous n’êtes pas seul(e).
 
-Et vous, où en êtes-vous avec vos pensées liées à votre dernière relation ? Peut-être que, comme Fabien, vous avez déjà fait un premier pas, sans même le savoir. Chaque petit geste compte pour avancer vers la paix intérieure.
+
 
 Sources : [Arkes et Blumer, 1985](https://www.sciencedirect.com/science/article/pii/0749597885900494).

@@ -75,13 +75,13 @@ Au point prévu, Rémi transmet la validation et demande la confirmation nécess
 
 Si Nicolas ne peut pas poursuivre, ils nomment la raison et reviennent vers Claire si l'arbitrage dépasse leur rôle. Rémi ne compense pas automatiquement en reprenant tout. Il peut aider sur un point précis ou ajuster la répartition avec accord. Le partage reste réel lorsque les obstacles peuvent être discutés et que la responsabilité n'est pas secrètement conservée par une seule personne, derrière l'apparence d'une délégation.
 
-## Rémi commence à laisser une intention visible
+## Ce que Nicolas doit retrouver
 
 La validation suivante arrive pendant un contrôle. Rémi utilise le support retenu et termine l'action nécessaire avant la relève. Lorsqu'il rejoint Nicolas, l'indice lui fait retrouver la transmission attendue. Il peut donner l'information sans compter sur le souvenir spontané de la demande initiale. Nicolas confirme la suite et pose une question sur un cas différent. Le rappel résout un oubli possible ; il ne remplace pas la discussion professionnelle.
 
 Un jour, Rémi oublie de mettre à jour l'état après avoir transmis. Nicolas vérifie inutilement un point déjà traité. Ils corrigent le support et précisent la fermeture. L'outil n'est pas infaillible, mais le défaut est maintenant observable. Ils peuvent l'ajuster sans conclure qu'aucune aide ne sert. Claire regarde aussi si le nombre de suivis reste compatible avec leur charge, car un rappel ne crée pas de temps supplémentaire pour traiter davantage de dossiers.
 
-À la colocation, Rémi et Julie adaptent le même principe pour les documents communs : une intention est reliée au moment où les informations nécessaires sont disponibles. Ils ne se confient pas toutes leurs responsabilités personnelles. Ils choisissent seulement un repère partagé pour ce qui les concerne tous deux. Rémi accepte que Julie préfère un autre support. La fonction du rappel compte davantage que l'uniformité d'un système qu'il imposerait partout.
+Julie pose les justificatifs sur la table. Pour leur facture, Rémi voudrait préparer une relance tout de suite. Elle lui montre le jour où le montant sera disponible. Ils conviennent d’ouvrir ensemble le document ce soir-là. Au quai, Nicolas n’avait pas eu besoin de trois rappels. Il avait surtout besoin de retrouver l’information au bon endroit.
 
 ---
 

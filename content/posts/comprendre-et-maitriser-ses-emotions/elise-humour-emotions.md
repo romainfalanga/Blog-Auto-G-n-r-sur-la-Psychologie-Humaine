@@ -43,7 +43,7 @@ On peut observer l’après plutôt que surveiller chaque blague. Est-ce que vou
 
 La comparaison avec des situations plus graves peut également fermer une porte. Il est exact que la réunion perturbée n’a rien d’une catastrophe. Cela ne dit rien de la déception d’Élise à ce moment. Une émotion n’a pas besoin de gagner un concours de gravité pour être nommée. Reconnaître ce qui touche n’oblige pas les proches à tout résoudre, ni à prolonger indéfiniment la conversation. Une phrase précise permet souvent un échange plus simple qu’une longue série de plaisanteries dont chacun doit deviner ce qu’elles recouvrent.
 
-## Deux essais pour garder plusieurs registres
+## Changer de registre au milieu d’une phrase
 
 ### 1. Ajouter une phrase vraie après la formule drôle
 
@@ -61,11 +61,11 @@ Si l’autre plaisante pendant que vous essayez de parler sérieusement, vous po
 
 Lorsque toute expression émotionnelle paraît dangereuse, ou que le décalage entre le rire affiché et la souffrance devient épuisant, un professionnel peut aider à explorer ce fonctionnement. Un psychologue n’a pas pour rôle de retirer l’humour d’une personne. Il peut l’aider à disposer d’autres manières de reconnaître ses besoins. Les proches apportent une présence différente, précieuse mais limitée. Françoise peut écouter le récit du déjeuner ; elle n’a pas à interpréter chaque plaisanterie ni à devenir responsable de ce qu’Élise ressent ensuite.
 
-## Élise ne prépare pas la prochaine réplique
+## Ce qu’elle raconte à Mireille
 
 Le soir, Élise appelle Mireille au sujet du jardin. Elle raconte d’abord que la salle municipale a choisi une décoration aquatique. Mireille rit. Élise ajoute que la fermeture l’a vraiment contrariée et qu’elle souhaite vérifier calmement les conditions d’une rencontre dehors. Elle demande ce qui est possible sans annoncer que le jardin sera forcément une meilleure solution. Mireille évoque la météo, les sièges et les déplacements des habitants. La conversation reste concrète. Quelques plaisanteries circulent encore, mais elles ne remplacent pas les questions d’organisation.
 
-Après l’appel, Élise repense au déjeuner. Elle n’a pas confié une douleur ancienne ni découvert une explication définitive à son humour. Elle a seulement remarqué le moment où sa légèreté devenait une obligation. Le lendemain, elle fera peut-être encore une pirouette quand elle sera fatiguée. Elle pourrait même ne pas vouloir revenir dessus. Son point d’appui est plus modeste : avec Françoise, elle sait maintenant qu’une phrase sérieuse peut suivre le rire sans casser leur proximité. Elle conserve cette possibilité pour les préparatifs qui viennent.
+Le lendemain, en parlant à Françoise, elle ressort l’expression « plafond optionnel ». Elle rit encore en la disant. Puis elle lui raconte la seule demande d’un habitant à laquelle elle n’a pas su répondre. Françoise lui demande ce qu’il voulait exactement. Elles en parlent avant de commander.
 
 ---
 

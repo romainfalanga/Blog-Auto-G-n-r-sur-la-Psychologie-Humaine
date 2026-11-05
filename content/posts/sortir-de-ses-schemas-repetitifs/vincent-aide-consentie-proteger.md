@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-La file se resserre devant le contrôle des billets et Vincent pose les mains sur les poignées du fauteuil de Cédric. L’aide consentie cesse soudain d’être une simple intention. Il souhaite dégager le passage avant qu’un groupe approche. Cédric lui demande d’arrêter : « Je préfère avancer moi-même. Je te dirai si j’ai besoin. » Vincent retire ses mains et garde le billet plié entre ses doigts.
+La file se resserre devant le contrôle des billets et Vincent pose les mains sur les poignées du fauteuil de Cédric. Il s’apprête à faire avancer le fauteuil avant que le groupe derrière eux arrive au contrôle. Cédric lui demande d’arrêter : « Je préfère avancer moi-même. Je te dirai si j’ai besoin. » Vincent retire ses mains et garde le billet plié entre ses doigts.
 
 Ils arrivent enfin à l’exposition préparée ensemble. Le choix de l’hébergement tient compte de leurs deux préférences et les informations utiles sont partagées. Vincent pense donc respecter davantage l’autonomie de son compagnon. Dans ce passage encombré, pourtant, son envie de protéger devance la question. Il n’attend pas de connaître la difficulté rencontrée par Cédric ; il répond à celle qu’il imagine en voyant la foule.
 
@@ -81,7 +81,7 @@ Ils distinguent une information, une proposition et une décision. Vincent peut 
 
 Ils prévoient enfin que chacun peut dire stop ou demander une pause dans la discussion. Le but n’est pas de rendre Cédric responsable de l’éducation permanente de Vincent. Celui-ci peut réfléchir à ses propres habitudes, chercher des informations fiables et revenir avec des questions précises. Leur conversation doit soutenir la vie commune, pas devenir un travail supplémentaire imposé à la personne dont le choix est déjà trop souvent devancé.
 
-## Vincent commence à laisser la question venir avant le geste
+## Retirer les mains des poignées
 
 Dans la salle d’exposition, Cédric s’arrête devant une vitrine basse. Vincent garde sa place à côté et attend. Un autre visiteur leur demande s’il peut passer. Cédric répond directement. La scène dure quelques secondes et ne produit aucune difficulté particulière. Vincent observe à quel point il peut laisser un échange ordinaire se dérouler sans en assurer lui-même la fluidité.
 

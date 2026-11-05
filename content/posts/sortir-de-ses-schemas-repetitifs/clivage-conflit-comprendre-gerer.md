@@ -13,9 +13,9 @@ contexte: "en situation de conflit"
 draft: false
 ---
 
-La scie circulaire cesse de chanter. Bernard repose la planche de chêne et frotte la poussière sur ses paumes larges, la surface rugueuse du bois gratte la pulpe des doigts. Il est 06 mai 2026, l'atelier sent l'huile de lin et la pluie récente, et dehors Sultan gratte la porte comme pour appeler à la conversation qu'il redoute. Aujourd'hui, la visite d'Éric tourne court et le mot qui lui vient en pensée est étrange et clinique : clivage en situation de conflit. Il comprend, avec une précision de menuisier, que la manière dont il oppose tout ce qui touche à Hélène à ce qui touche à Éric est une fracture intérieure.
+Éric parle de la maison pendant que Bernard attend l’arrêt complet de la scie. Il voudrait examiner plusieurs possibilités. À la deuxième, Bernard l’interrompt. Il se rend compte qu’il a entendu le mot vendre là où son fils avait parlé d’estimation. Il pose la planche et reprend le dernier mot à voix haute.
 
-Éric est dans l'encadrement de la porte, le manteau encore humide, la voix tendue mais contrôlée. Bernard suit le dialogue comme il suit un gabarit, il mesure, il compare, il ajuste ses réponses au millimètre. Quand son fils évoque la vente de la maison d'Hélène, Bernard divise le monde en deux cases nettes, difficilement conciliables : ce qui est sacré et ne se touche pas, et ce qui menace d'effacer Hélène. Le conflit allume une mécanique qu'il connaît depuis l'enfance, héritée d'une famille qui exigeait la retenue et le jugement sans nuance. Ce mutisme protecteur, qui l'avait déjà paralysé lors de son voyage en Toscane, revient comme un vieux réflexe de survie.
+Éric pose sa liste sur l’établi pour que Bernard puisse la lire. Son manteau laisse des gouttes sur le papier. Quand son fils évoque la vente de la maison d'Hélène, Bernard divise le monde en deux cases nettes, difficilement conciliables : ce qui est sacré et ne se touche pas, et ce qui menace d'effacer Hélène. Le conflit allume une mécanique qu'il connaît depuis l'enfance, héritée d'une famille qui exigeait la retenue et le jugement sans nuance. Ce mutisme protecteur, qui l'avait déjà paralysé lors de son voyage en Toscane, revient comme un vieux réflexe de survie.
 
 La tension s'installe comme un clou qu'on enfonce trop vite. Bernard a fait des progrès ces dernières semaines, il a accepté l'enveloppe notariale qu'il laissait de côté en mars, il est allé en Toscane en avril et, pour la première fois, il a laissé monter la tristesse. Mais face à Éric, la vieille stratégie revient. Il se referme, parle en contre-ordres et utilise le silence comme une frontière. Il sent que ce comportement est une forme de clivage, il veut pourtant faire autrement parce que la réconciliation avec son fils est devenue, lentement, la priorité du temps présent. Il se souvient de la chaise en cerisier terminée récemment : il ne veut plus que ses meubles soient les seuls messagers de son affection.
 
@@ -56,7 +56,7 @@ Cette technique utilise l'attachement aux objets comme passerelle vers la parole
 
 Bernard transforme sa tendance à s'exprimer uniquement par le travail en une invitation au dialogue. En racontant l'histoire du buffet à Éric, il ouvre la porte à la co-construction d'une décision. L'exercice donne à la fois du respect pour le passé et une possibilité de futur partagé. Ces trois techniques visent à réduire l'urgence du jugement dichotomique pour créer une tierce position entre tout garder et tout jeter.
 
-## Évolution du personnage et intégration
+## Reprendre la discussion sur la maison
 Dans l'atelier, Bernard prend le chevet en noyer qu'il a restauré pour Hélène et suit l'exercice du discours en objet détaché. Il tient l'objet avec respect. Au lieu d'opposer immédiatement les propositions d'Éric, il prononce la phrase préparée : « J'éprouve de la colère quand je pense que la maison va changer ». La voix est rauque, mesurée, c'est une phrase courte qui ne condamne pas. Éric fronce les sourcils, surpris par ce ton nouveau.
 
 Ils essaient ensuite le petit accord. Éric obtient de garder une armoire pour ses affaires et Bernard obtient que la table d'Hélène reste intacte dans la salle à manger pendant encore quelques mois. C'est une victoire modeste, mais la discussion adopte la couleur du compromis plutôt que celle du verdict. Bernard se rappelle aussi de l'épisode où il avait laissé monter la tristesse devant son établi en avril, cette mémoire physique l'aide à valider d'abord l'émotion d'Éric. Il lui dit : « Tu as raison de vouloir clarifier, je veux te rejoindre sur ce point », puis propose de trier une seule pièce ensemble le samedi suivant.
@@ -64,6 +64,8 @@ Ils essaient ensuite le petit accord. Éric obtient de garder une armoire pour s
 En fin de journée, alors que la pluie redouble et que Sultan s'ébroue contre la porte, Bernard sent une fatigue différente. Ce n'est pas la rigidité d'avant, ni le repli définitif, c'est l'épuisement de quelqu'un qui a tenu une conversation sans transformer l'autre en figure totalement bonne ou totalement mauvaise. Ce soir-là, il prépare une petite liste : trois objets qu'il acceptera de discuter avec Éric et trois phrases d'ouverture. Il sait que la pratique est nécessaire et qu'il peut revenir à l'atelier pour reprendre une pièce si les choses deviennent difficiles.
 
 Il utilise le langage de l'outil pour mesurer ses progrès : la première journée où il a nommé son émotion, la première où il a validé une remarque d'Éric, la première où il a proposé une action réversible. Ces repères remplacent la chronologie émotive floue qui l'avait paralysé jusque-là.
+
+Quand Éric reprend sa liste, Bernard lui demande de revenir à l’estimation. Ils n’ont pas choisi l’avenir de la maison. Ils écrivent sur une seule feuille les deux informations qu’il leur manque.
 
 ---
 

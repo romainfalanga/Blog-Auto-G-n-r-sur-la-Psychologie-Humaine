@@ -13,7 +13,7 @@ episode: 11
 draft: false
 ---
 
-La liste de Baptiste contient trois lignes et lui paraît raisonnable. Préparer une prochaine question au travail, vérifier deux façades pour le parcours photographique et trier les vêtements d’Elsa devenus trop petits. Les verbes sont simples et l’ensemble occupe moins de place qu’un programme de courses. Il commence à répartir les tâches, puis ajoute les éléments nécessaires : un échange avec Patricia, les trajets, les images à transmettre et le temps où Caroline et lui doivent choisir ce qu’ils gardent pour leur fille. Les trois lignes deviennent une suite de préparations qu’il n’avait pas comptées.
+La liste de Baptiste contient trois lignes et lui paraît raisonnable. Préparer une prochaine question au travail, vérifier deux façades pour le parcours photographique et trier les vêtements d’Elsa devenus trop petits. Il pourrait plier la liste en deux et la mettre dans sa poche. Caroline regarde les trois lignes et lui demande à quel moment ils trient les vêtements ensemble. Il commence à répartir les tâches, puis ajoute les éléments nécessaires : un échange avec Patricia, les trajets, les images à transmettre et le temps où Caroline et lui doivent choisir ce qu’ils gardent pour leur fille. Les trois lignes deviennent une suite de préparations qu’il n’avait pas comptées.
 
 À trente-sept ans, le coordinateur de maintenance sait que des tâches courtes peuvent dépendre d’étapes longues. Il oublie pourtant facilement cette différence lorsqu’il veut préserver plusieurs projets à la fois. Le projet photographique lui plaît et il a accepté une contribution limitée, pas l’organisation générale. Le travail documentaire demande encore des informations, sans nouvelle version adoptée. Le tri des vêtements est une tâche partagée avec Caroline. Chacun de ces engagements possède une limite claire lorsqu’il le regarde seul. Leur réunion dans la même semaine demande un autre examen.
 
@@ -57,7 +57,7 @@ Baptiste regarde le trajet, l’échange préalable et le moment où il pourra p
 
 Avec Caroline, Baptiste décide de commencer par une seule catégorie de vêtements, à un moment convenu. Le reste n’est pas abandonné ; il n’est simplement plus présenté comme une tâche complète à finir cette semaine. Au travail, il vérifie quel point doit réellement être préparé maintenant. Pour les photographies, il connaît la personne à prévenir si une partie du repérage devient impossible. Ces décisions donnent un cadre à l’imprévu avant qu’il soit vécu comme une faute. Il ne s’agit pas de préparer toutes les exceptions imaginables. Il suffit parfois d’identifier une priorité, un périmètre minimal et un interlocuteur. Si la même difficulté se répète, un bilan peut montrer que l’objectif reste trop coûteux ou que l’organisation réclame un changement plus large.
 
-## Baptiste termine une contribution et signale ce qui manque
+## La façade derrière les travaux
 
 Le jour du repérage, une partie d’une façade est masquée par une installation de travaux qu’il n’avait pas anticipée. Baptiste ne cherche pas un accès interdit ou une image prise dans de mauvaises conditions pour cocher son objectif. Il observe ce qui est visible depuis l’espace public et note la limite. Il transmet ensuite les informations disponibles avec une question sur la suite. Le collectif peut choisir un autre lieu ou attendre une possibilité différente. La contribution possède un résultat et une réserve ; elle n’a pas besoin de se présenter comme complète pour que le travail réalisé soit utile.
 

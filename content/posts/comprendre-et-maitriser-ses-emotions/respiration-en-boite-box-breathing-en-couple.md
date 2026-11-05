@@ -13,11 +13,9 @@ contexte: "en couple"
 draft: false
 ---
 
-Le silence dans la cuisine est si dense qu’il semble peser sur les épaules de Margot. Elle observe Philippe qui découpe méthodiquement son steak, le bruit de la fourchette contre la faïence résonnant comme une agression dans cette pièce autrefois pleine des rires de Martin et Chloé. Depuis ce fameux dîner d'il y a six jours où elle a ressenti ce dégoût viscéral, une barrière invisible s'est dressée entre eux. Margot sent une chaleur familière monter le long de sa nuque, cette même tension qui l'avait paralysée lors de sa première séance de coaching avec sa cliente le mois dernier.
+Philippe laisse ses clés sur la table. Margot avait préparé une phrase en rentrant : depuis le dîner de mercredi, elle voudrait qu’ils parlent de leurs soirées. Quand elle l’entend répondre « On a dit qu’on en parlerait, oui », elle réplique qu’il n’a pas pensé à le faire. Elle connaît la phrase qui va suivre, celle sur les fois où elle s’enferme elle-même dans le bureau.
 
-Elle se redresse sur sa chaise en bois, les doigts serrés sur le bord de la table. Philippe lève les yeux, son regard croise le sien, et Margot sent le conflit immanent, une de ces disputes circulaires qui commencent par un reproche sur le ménage pour finir sur l'échec de leurs vingt dernières années. Sa poitrine se comprime. Elle reconnaît ce signal d'alarme, ce driver sois forte qui lui hurle de durcir le ton, de ne pas montrer sa vulnérabilité face à celui qu'elle ne reconnaît plus vraiment. Elle repense à ce trophée de danse de Chloé retrouvé récemment ; ce vide qu'elle tentait de combler par l'exigence envers Philippe lui saute soudain aux yeux.
-
-Pourtant, Margot ne veut pas exploser. Elle ne veut plus subir cette spirale de stress qui la laisse épuisée et nostalgique d'une harmonie disparue. Elle se souvient des conseils de sa mentor Sylvie sur la régulation du système nerveux autonome. Au lieu de répondre à la remarque acerbe que Philippe s'apprête à lancer sur le prix des courses, elle décide de tester cet outil simple qu'elle a commencé à étudier pour ses futurs clients. Elle visualise un carré parfait dans son esprit et commence à compter, discrètement, sous la table.
+Elle tire sa chaise et se rend compte qu’elle serre encore le dossier. Elle a envie de faire la liste des soirs où Philippe n’a pas posé de question. Au lieu de se lancer, elle lui dit qu’elle revient dans un instant. Elle va jusqu’à l’évier et pose les deux mains sur le plan de travail. Philippe, derrière elle, souffle qu’il n’a pas envie d’attendre toute la soirée.
 
 ## Qu'est-ce que la respiration en boîte (box breathing) ?
 
@@ -25,7 +23,7 @@ La respiration en boîte, ou respiration carrée, alterne quatre phases de duré
 
 ## Comment la respiration en boîte se manifeste dans le contexte en couple ?
 
-Dans la scène, compter les respirations aide Margot à prendre un instant avant de répondre. L’exercice n’agit pas sur le comportement de Philippe.
+Dans la scène, Margot tente de compter, puis revient à son souffle habituel. L’important pour elle est d’avoir un moment avant de répondre. La pause n’agit pas sur le comportement de Philippe.
 
 ### Une courte pause avant de répondre
 
@@ -33,7 +31,7 @@ Margot remarque que sa nuque chauffe et qu’elle s’apprête à répondre sèc
 
 ### La gestion du silence oppressant
 
-Dans une crise conjugale, le silence n'est pas toujours synonyme de paix ; il est souvent lourd de non-dits et de ressentiment. Margot essaie de voir si quelques respirations lui laissent le temps de choisir la suite. Elle peut aussi quitter la pièce. Pour Margot, cela signifie pouvoir s'asseoir face à Philippe sans que son corps ne réagisse comme s'il était face à une menace imminente, transformant le silence de plomb en un espace de neutralité. Elle comprend que ce silence n'est plus une fatalité héritée de son passé de directrice commerciale, mais un terrain qu'elle peut choisir d'habiter différemment.
+Un silence peut donner du temps ou rendre l’échange plus tendu. À l’évier, Margot entend que Philippe s’impatiente. Elle lui a dit qu’elle reviendrait et peut préciser de combien de temps elle a besoin. Si le cadre n’est pas sûr, elle peut s’éloigner.
 
 ### La préparation à une conversation difficile
 
@@ -53,15 +51,13 @@ Si les deux personnes en ont envie, chacune peut prendre une pause au même mome
 
 ### 3. La respiration d'ancrage avant les retrouvailles
 
-Pour éviter de décharger votre stress professionnel ou vos doutes existentiels sur votre conjoint en rentrant chez vous, pratiquez la respiration en boîte juste avant de franchir le seuil de la porte ou de sortir de votre bureau de coaching. Faites trois cycles complets en vous concentrant sur la sensation de l'air qui entre et sort de vos poumons. Margot essaie cette pause pour repérer la tension qu’elle ramène du travail. Margot utilise désormais cette technique pour ne plus ramener l'ombre de ses dossiers d'archives ou ses doutes sur sa légitimité de coach dans l'espace sacré de son foyer. Si la fatigue est toujours là, vous pouvez convenir d’un autre moment pour parler.
+En rentrant du travail, vous pouvez prendre un moment pour remarquer ce que vous avez encore en tête avant de lancer une discussion. Si vous essayez de ralentir votre respiration, faites-le sans forcer et arrêtez si vous êtes mal à l’aise. Si la fatigue est toujours là, vous pouvez convenir d’un autre moment pour parler.
 
-## Margot commence à poser les armes
+## Deux minutes à l’évier
 
-Assise à cette table de cuisine qui lui semble parfois être un champ de bataille, Margot termine son quatrième cycle de respiration. Elle sent la chaleur dans sa nuque s'atténuer. Philippe pose enfin ses couverts et la regarde, l'air fatigué. Il s'apprête à dire quelque chose sur le fait qu'elle semble ailleurs, mais Margot le devance. Elle ne le fait pas avec l'agressivité qu'elle aurait eue il y a quelques semaines, mais avec une douceur qu'elle redécouvre.
+La première inspiration est plus courte qu’elle l’avait prévu. Margot renonce à compter parfaitement et reprend à son rythme. Les clés de Philippe n’ont pas bougé. Elle revient s’asseoir sans avoir préparé une meilleure réponse à toutes ses objections.
 
-Elle se souvient de sa formation avec Sylvie et de la force qu'il faut pour être vulnérable. Elle ne cherche plus à être la directrice commerciale qui gère tout, ni la mère parfaite dont les enfants n'auraient jamais dû partir. Elle accepte d'être simplement Margot, une femme de 52 ans qui doute et qui a peur du changement. En pratiquant la respiration en boîte en couple, elle ne cherche pas à effacer leurs problèmes, mais à se donner les moyens de les affronter sans se détruire.
-
-Philippe semble déstabilisé par son calme. Le reproche qui pointait sur ses lèvres s'efface. Margot sent qu'elle vient de gagner une petite victoire sur ses vieux schémas. Elle n'est plus l'esclave de ses émotions immédiates. Elle commence à percevoir Philippe non plus comme une source de dégoût ou de déception, mais comme un être humain tout aussi perdu qu'elle dans cette nouvelle étape de leur vie. Elle décide de poser sa main sur la table, la paume ouverte, offrant un espace de communication qu'ils n'avaient pas exploré depuis longtemps.
+« J’ai envie qu’on ait une soirée ensemble, pas de décider comment on va passer toutes les autres. » Philippe propose jeudi. Margot a une séance ce soir-là et le lui dit ; ils regardent le calendrier. Le silence n’est pas beaucoup moins embarrassant quand elle lui passe le téléphone, mais ils parlent du même jour.
 
 ---
 

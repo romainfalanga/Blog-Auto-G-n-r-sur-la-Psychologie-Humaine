@@ -15,9 +15,9 @@ draft: false
 
 Le bruit des verres, des rires rapprochés et le cliquetis discret des badges remplissent la salle. Stéphane tient son verre d'eau d'une main, le carnet de visite dans l'autre, et entend encore le mot "intégration" qu'il a prononcé en présentant son offre. Il a bégayé une seconde sur le tarif, une fraction de seconde qui, dans sa tête, prend des dimensions dramatiques. Immédiatement, il imagine les regards qui se figent, les sourires gênés, la pensée commune : "Il n'a pas l'air sûr de lui."
 
-Le mot-clé est là, dès l'instant présent : effet spotlight en société et dans les interactions sociales. Stéphane sait, intellectuellement, que la plupart des gens sont occupés à parler d'eux-mêmes, mais son cerveau glisse vers une autre logique. Il sent la chaleur au niveau des tempes, l'envie de corriger son propos, et il enchaîne plus vite, comme pour combler la fissure qu'il perçoit dans l'image qu'il renvoie. Ce besoin de perfection n'est pas nouveau ; c'est le même moteur qui le poussait, enfant, à scruter le visage de ses parents pour y déceler une once de la fierté qu'ils réservaient à Philippe.
+Il s’entend ajouter une précision sur le tarif que personne ne lui a demandée. À la fin, une invitée revient sur le délai d’intégration. Stéphane répond à sa question et cherche sur son visage un signe qu’elle a remarqué l’hésitation. Elle est déjà en train de sortir sa carte de visite.
 
-Une semaine s'est écoulée depuis la réunion où le directeur commercial a félicité un collègue et non lui. Depuis cet épisode, il note qu'il réagit désormais plus tôt : il prépare encore plus ses slides, sourit davantage, serre davantage les mains. À l'extérieur, il reste le roi du réseau ; à l'intérieur, il se persuade que chacun a remarqué ce petit raté. À la table voisine, Marc plaisante, Sandrine lui adresse un signe rassurant, et Maxime, chez eux, s'intéresse plus aux vidéos de skate qu'aux histoires de travail de son père. Pourtant, Stéphane continue de penser que la pièce est braquée sur lui.
+À la table voisine, Marc parle avec deux clients. Stéphane s’approche pour lui demander s’il a entendu sa présentation. Avant d’arriver, il se rappelle que Marc était occupé à tenir cette table. Il va plutôt voir la directrice marketing qui lui a laissé sa carte. Il a encore une vraie question à lui poser.
 
 ## Définition de l'effet spotlight
 
@@ -83,7 +83,7 @@ Exercice concret :
 
 Il peut ensuite décider s'il a besoin de préciser un point. Il n'a pas à transformer chaque interaction en exercice de mesure.
 
-## Stéphane commence à éteindre le projecteur imaginaire
+## Reprendre une conversation après l’hésitation
 
 Dans la deuxième partie de la soirée, après avoir appliqué la technique du changement de focus une première fois, Stéphane entame une conversation avec une directrice marketing qu'il respecte. Au lieu de contrôler chaque mot, il pose la question qu'il a préparée et écoute. Il note la façon dont elle parle d'un débat interne sur les cibles. Sa tension baisse, non parce qu'il relâche magiquement, mais parce qu'il s'intéresse à l'histoire qu'elle lui raconte sans chercher à savoir ce qu'elle a remarqué.
 

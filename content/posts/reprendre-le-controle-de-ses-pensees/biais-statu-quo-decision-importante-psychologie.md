@@ -13,11 +13,9 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Nadia fait glisser son badge contre le lecteur magnétique de l'entrée. Le bip sonore habituel résonne dans le hall désert. Il est à peine sept heures et demie ce mercredi 25 mars 2026, et l'odeur du produit de nettoyage industriel flotte encore dans l'air frais. Elle s'installe à son bureau, pose son sac en cuir structuré sur le fauteuil d'appoint et observe la vue sur les toits de la ville. Sur son écran, un mail reste ouvert depuis vendredi dernier. C'est une proposition ferme pour un poste de directrice générale dans une scale-up concurrente. Une opportunité majeure, un salaire plus élevé, et surtout, un projet qui fait vibrer la leader qu'elle a toujours été. Pourtant, ses doigts restent immobiles au-dessus du clavier.
+Nadia ouvre de nouveau l’offre de la scale-up. Le salaire est indiqué. Les horaires des soirs de lancement ne le sont pas. Elle connaît déjà ceux de son poste actuel, ce qui lui permet de prévoir avec son ex-mari les semaines où elle récupère Yasmine.
 
-Elle repense à la semaine dernière, quand elle a réussi à ne pas envoyer ce mail cinglant à son assistante Julie. Elle a appris à tempérer son exigence, à comprendre que son besoin de contrôle était une armure héritée de Fatima, sa mère. Elle sent qu'elle a progressé, qu'elle est plus à l'écoute de Yasmine, sa fille, avec qui elle a réussi à transformer la corvée du rangement en un moment de rire hier soir. Mais ici, face à ce contrat, une force invisible la cloue au sol. Elle connaît chaque recoin de ce bureau, chaque faille de son équipe actuelle, chaque humeur de son patron. C'est inconfortable, elle frôle l'épuisement professionnel tous les trois mois, mais c'est sa zone de confort. L'idée de tout recommencer ailleurs lui donne une sensation de vertige, une envie soudaine de refermer son ordinateur et de s'occuper d'un dossier urgent mais sans importance.
-
-Le café noir qu'elle vient de verser dans son mug en céramique est brûlant. Elle fixe la vapeur qui s'élève et se demande pourquoi elle, la femme d'action, la directrice marketing qui n'a peur de rien, se sent soudainement incapable de cliquer sur Accepter. Elle se trouve des excuses : Julie a besoin d'elle, le projet en cours est crucial, Yasmine a déjà vécu le séisme du divorce avec Karim, il ne faudrait pas rajouter de l'instabilité. Elle sait, au fond d'elle, que ce sont des écrans de fumée. Elle s'accroche à une situation qui ne lui convient plus simplement parce qu'elle est déjà là. Nadia est prisonnière d'un mécanisme psychologique puissant qui paralyse ses capacités de décision.
+Elle regarde par la vitre du bureau. Julie passe devant sans s’arrêter : elles ont discuté du rapport de marché trois jours plus tôt, et Julie a rendu sa version elle-même. Nadia a parfois envisagé de partir en pensant que tout dépendait de sa présence. Aujourd’hui, c’est la case vide du calendrier de l’autre entreprise qui l’empêche de répondre. Elle veut savoir ce qu’elle pourrait y mettre avant de décider.
 
 ## Définition du biais de statu quo
 
@@ -51,15 +49,11 @@ Décrivez ce qui pourrait se passer si vous restez et ce qui pourrait se passer 
 ### 3. La politique des petits paris réversibles
 Repérez un pas qui apporte de l'information avant de vous engager. Nadia peut rencontrer l'équipe et clarifier les conditions de l'offre. Une période d'essai ne garantit pas le retour à son ancien poste ; elle vérifie quels choix restent réellement ouverts.
 
-## Évolution du personnage de Nadia
+## Trois horaires à vérifier
 
-Nadia repose son mug. Elle prend une feuille de papier et trace deux colonnes. Elle applique la technique de l'inversion. Si elle arrivait aujourd'hui de l'étranger avec ses compétences, accepterait-elle de rester dans une structure où elle a déjà atteint son plafond de verre ? La réponse est un non catégorique. Elle se souvient de l'effet Zeigarnik qu'elle avait appris à identifier, ses réflexions sur les dossiers inachevés. Elle réalise que rester ici, c'est laisser une immense tâche inachevée dans son ambition personnelle.
+Nadia appelle le recruteur. Elle lui demande quels jours l’équipe reste tard et combien de fois elle aurait à se déplacer. Il doit vérifier un des horaires. Elle ajoute cette réponse à côté de son propre calendrier plutôt que de l’inscrire dans la colonne des avantages.
 
-Elle se lève et marche jusqu'à la fenêtre. Le soleil commence à frapper les vitres de l'immeuble d'en face. Elle repense au gâteau renversé avec Yasmine. Elle avait compris ce jour-là qu'elle ne voulait plus être une machine de guerre glaciale, mais une femme vivante, capable d'embrasser l'imprévu. Rester dans ce poste par peur, c'est redevenir cette version d'elle-même qui s'accroche aux murs pour ne pas tomber. Elle sent une chaleur monter dans sa poitrine, non pas celle de l'angoisse, mais celle d'une excitation oubliée.
-
-Elle se rappelle soudain la sensation de tension sourde qui l'habitait lors de ses précédentes crises de gestion. Elle a appris à identifier ces signaux physiques de stress pour ne plus les laisser dicter ses réactions, comme elle l'avait fait avec Julie ou lors de ses disputes avec Karim. Cette fois, elle choisit d'utiliser cette énergie pour avancer plutôt que pour se figer.
-
-Elle retourne à son bureau et appelle Julie. Elle ne lui donne pas un ordre, elle lui demande simplement si elle aurait quelques minutes pour discuter de l'avenir du département dans l'après-midi. Nadia commence à préparer son départ, non pas comme une fuite, mais comme une conquête de son propre espace. Elle envoie un court message à Karim pour lui demander d'avancer de trente minutes la récupération de Yasmine vendredi, car elle a un rendez-vous important. Elle ne subit plus le calendrier, elle le façonne. Pour la première fois depuis des mois, elle ne cherche plus à contrôler l'avenir, elle accepte de le créer.
+Avec Julie, elle parle de ce qu’il resterait à transmettre si elle partait. Julie lui pose une question à laquelle Nadia n’avait pas pensé, sur les décisions que son responsable garderait. À dix-huit heures, l’offre attend encore une réponse. Nadia réserve un appel dans son agenda quand les renseignements seront arrivés.
 
 ---
 

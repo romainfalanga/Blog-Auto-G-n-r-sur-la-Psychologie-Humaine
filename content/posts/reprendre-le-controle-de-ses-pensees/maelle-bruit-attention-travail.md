@@ -15,7 +15,7 @@ draft: false
 
 Le convoyeur s'arrête et le changement de son surprend Maëlle davantage que son roulement continu. À travers ses protections auditives, elle entend un choc métallique, puis une consigne qu'elle ne comprend qu'en partie. Sa charge d'attention ne disparaît pas avec l'arrêt de la machine. Elle doit encore identifier qui parle, vérifier les voyants et attendre de connaître la suite avant de reprendre son geste.
 
-Opératrice agroalimentaire de vingt-sept ans, elle connaît cette ligne et ses repères. Ses horaires alternés rendent néanmoins certaines journées plus difficiles. Elle apprend à protéger son sommeil et à ne plus donner toutes ses périodes de repos aux obligations familiales. Sur le poste, elle se juge encore autrement : si elle connaît le travail, elle devrait pouvoir tout entendre et tout retenir, même lorsque plusieurs sollicitations se superposent.
+Maëlle connaît assez bien cette ligne pour reconnaître le bruit d’un bac mal posé. La voix, en revanche, lui parvient de côté et derrière les protections. Elle se surprend à penser qu’elle devrait savoir quoi faire sans demander. Les bons jours, elle aurait peut-être entendu du premier coup ; ce jour-là, il lui manque un mot. Il se trouve que c’est le mot qui décide s’il faut attendre ou reprendre.
 
 Sa collègue Claire répète la consigne en se plaçant face à elle. Maëlle comprend enfin qu'il faut attendre un contrôle. « Je croyais que tu me demandais de relancer », répond-elle. Le malentendu reste sans conséquence parce qu'elles le vérifient avant d'agir. Il lui laisse pourtant une inquiétude : son attention lui paraît défaillante, alors que l'échange se déroule dans un environnement objectivement difficile à lire.
 
@@ -57,7 +57,7 @@ Elle peut examiner cette histoire sans nier le malentendu. Oui, elle n'entend pa
 
 Cette distinction ne sert pas à banaliser les erreurs ou à dissimuler les incidents. Lorsqu'un événement doit être signalé, il mérite de l'être selon les procédures prévues. Une description factuelle protège davantage le collectif qu'un récit centré sur la honte ou qu'une tentative de faire oublier ce qui arrive.
 
-## 3 techniques pour clarifier la charge d'attention
+## De la consigne entendue à la consigne vérifiée
 
 ### 1. Décrire un épisode au lieu de se qualifier
 

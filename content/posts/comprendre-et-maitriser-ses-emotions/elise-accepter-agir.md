@@ -43,7 +43,7 @@ On peut croire que la bonne décision doit s’accompagner d’un sentiment d’
 
 L’émotion mérite néanmoins une place. Se presser d’agir pour ne jamais la sentir peut créer une autre forme de fuite. Élise s’accorde quelques instants pour reconnaître ce qui lui coûte, puis passe aux appels nécessaires. Plus tard, elle pourra se reposer. La quantité de temps utile varie selon l’intensité, la situation et les moyens. Il n’est pas demandé de traverser seul une souffrance importante. Un professionnel peut accompagner des réactions qui persistent, débordent les capacités habituelles ou compliquent durablement le sommeil, le travail et les relations.
 
-## Trois distinctions qui soutiennent l’action
+## Décider quand l’imprévu est déjà là
 
 ### 1. Nommer la réalité et le souhait séparément
 
@@ -63,11 +63,11 @@ L’action suivante peut être modeste : passer un appel, transmettre une inform
 
 Il est possible que la frustration revienne après cette limite. On peut la remarquer sans transformer chaque retour en tâche supplémentaire. Élise pourra dîner avec Françoise même si elle pense encore à la rencontre. Le repos n’est pas réservé aux situations achevées. Si les problèmes dépassent durablement les moyens disponibles, demander un soutien professionnel, social ou organisationnel peut constituer le geste proportionné. Le choix ne se réduit pas à agir davantage ou à accepter davantage. Il peut être de changer les conditions, de partager la charge ou de reconnaître qu’une aide extérieure est nécessaire.
 
-## Élise termine une journée inachevée
+## Elle laisse la prochaine date vide
 
 Les appels sont faits. Certaines personnes comprennent le report, d’autres expriment une vraie lassitude. Élise ne cherche pas à obtenir de chacune une approbation. Elle transmet les informations et accueille les préférences utiles pour la suite. Une demande de rencontre intérieure revient plusieurs fois. Elle la fait apparaître dans son compte rendu, même si elle ne possède pas encore de réponse. Le travail du jour est terminé ; le besoin ne l’est pas. Elle distingue cette fin de tâche de la résolution du problème, ce qui lui permet de quitter le bureau sans prétendre que tout est réglé.
 
-Chez elle, elle raconte la pluie à Françoise puis parle d’autre chose. Plus tard, elle lit le court message de Mireille sur une activité possible autour des graines. Elle répond qu’elle souhaite en discuter, mais qu’elle veut garder une forme limitée et préserver son temps personnel au jardin. Elle ne sait pas encore ce que cela donnera. La soirée contient de la déception et un peu de curiosité. Aucun de ces sentiments ne décide seul de la suite. Élise laisse la proposition attendre un vrai moment de réflexion, plutôt que de lui demander de réparer immédiatement la journée.
+Plus tard, Élise reçoit un message de Mireille au sujet de quelques graines à présenter. Elle lui répond qu’elle veut bien en parler. Elle ne l’inscrit pas sur le message de report. Les personnes prévenues ont déjà changé leur programme une fois, et elle ne tient pas à leur donner une nouvelle date avant de savoir ce qui peut se faire.
 
 ---
 

@@ -43,7 +43,7 @@ Il arrive que l’on se sente obligé de saisir une nouveauté pour prouver que 
 
 L’inverse est possible aussi : défendre une stabilité devenue contraignante parce qu’un essai paraît devoir être décisif. Réduire l’enjeu peut alors aider. Un après-midi ne tranche pas toute une orientation de vie. L’expérience doit cependant rester proportionnée aux conséquences. Un essai réversible autour de graines n’équivaut pas à une dépense importante, une décision de soin ou un engagement professionnel. Pour des choix à fort impact, des informations et des avis adaptés sont nécessaires. La petite échelle ne doit pas être seulement un mot rassurant posé sur une décision qui aurait en réalité de grands effets.
 
-## Trois façons de donner des bords à l’essai
+## Définir le premier essai
 
 ### 1. Formuler ce que l’on veut apprendre
 
@@ -63,11 +63,11 @@ Après l’essai, on peut se demander ce qui a plu, ce qui a coûté et ce qui d
 
 Si toute nouveauté déclenche une souffrance importante, ou si les engagements s’accumulent malgré des conséquences pénibles, un psychologue ou un autre professionnel peut aider à comprendre la situation. Les conditions matérielles et relationnelles doivent aussi être regardées. Avoir besoin de stabilité peut être adapté à une période chargée ; ne pas disposer de temps ou d’argent n’est pas un manque d’audace. L’exploration reste une possibilité parmi d’autres. Elle ne doit pas devenir une consigne de développement personnel qui ajouterait une nouvelle exigence à un quotidien déjà difficile à tenir.
 
-## Élise accepte seulement la première étape
+## Des sachets sur la table
 
 Élise retrouve Mireille au jardin et lui propose le cadre imaginé. Mireille accepte de ne pas annoncer une série de séances. Elles regarderont d’abord les conditions de lieu et de participation, puis fixeront une date si celles-ci conviennent. Élise apporte quelques sachets pour vérifier le matériel, sans prendre la liste entière des tâches. Au bout du temps prévu, elle range ses affaires et rejoint sa parcelle. Elle ressent un peu de gêne à laisser Mireille terminer une note, puis se rappelle que leurs rôles ont été répartis. Elle n’a pas promis de rester jusqu’à ce qu’il n’y ait plus rien à faire.
 
-La séance n’a pas encore eu lieu. Le besoin d’un espace adapté pour les habitants reste ouvert et la salle commune attend toujours sa remise à disposition. L’essai autour des graines ne résout pas ces questions. Élise le sait et les conserve dans un autre compte rendu. Elle se sent curieuse, encore hésitante, parfois tentée de prendre davantage pour faciliter la suite. Elle écrit à Françoise que le déjeuner du week-end tient toujours. Dans son carnet, la proposition occupe une place définie. Pour le moment, elle lui demande seulement d’être une expérience possible, assez petite pour laisser le reste de sa vie autour.
+La salle reste fermée. Élise garde le dossier à la résidence et emporte seulement les sachets pour regarder avec Mireille lesquels pourraient servir. Elles ont prévu de se revoir après le premier essai. Sur l’enveloppe, Élise n’inscrit qu’une seule date.
 
 ---
 

@@ -13,7 +13,7 @@ contexte: "en amitié"
 draft: false
 ---
 
-La radio diffuse une chanson populaire du village. Bernard essuie ses mains sur le tablier, la paume encore marquée par la graisse du bois, et regarde par la fenêtre de l'atelier. À l'orée du hameau, on voit les banderoles et la file de voisins qui se dirigent vers la place. Marcel, le voisin, passe devant la porte ouverte et lève la main en faisant un signe d'invitation. Bernard répond d'un geste bref. Sultan se couche entre les établis et laisse échapper un souffle sonore, témoignant lui aussi du départ des villageois.
+À la radio, la chanson est couverte un instant par un appel depuis la route. Bernard lève la tête ; ce sont des gens du hameau qui passent près de l’atelier. Il connaît leurs voix et tarde à aller les rejoindre. Il a déjà préparé la commode d’Éric pour le transport. Personne ne lui a demandé de s’occuper seul du reste de la journée.
 
 Bernard pense au collectif d'il y a quelques semaines, à la discussion tendue avec son fils Éric le 6 mai, quand le silence avait refermé la pièce comme un couvercle. Depuis cette rencontre, il garde en mémoire le cliquetis des outils plus que les mots échangés. Il sait que ses meubles parlent pour lui, que chaque tiroir d'une commode contient un effort d'affection qu'il n'arrive pas à formuler autrement. Pourtant, aujourd'hui, la musique du village lui paraît étrangère, comme une langue qu'il ne maîtrise plus.
 
@@ -74,17 +74,19 @@ Exercice concret :
 
 Bernard peut choisir ce qu’il a envie de partager et quand, sans fréquence imposée. Après avoir déjà accepté sa tristesse lors d'un épisode récent dans son atelier, où il avait laissé couler ses larmes devant Sultan sans chercher à les transformer en travail productif, Bernard peut étendre cette capacité à des paroles brèves dirigées vers un ami.
 
-## Bernard commence à briser son isolement social et l'aliénation
+## Un café après la livraison
 
-Aujourd'hui, Bernard attache une petite étiquette à la poignée d'une commode en cours de finition. L'étiquette porte une phrase courte écrite à la main : « Pour Éric, avec pensée. » Ce geste reprend la technique du message matériel avec émotion verbalisée qu'il a testée la semaine précédente. Il sait qu'il ne peut pas offrir la confession complète d'un coup, mais il veut que son fils lise autre chose qu'un meuble, une trace de parole.
+Aujourd'hui, Bernard attache une petite étiquette à la poignée d'la commode qu’Éric avait essayée en mars. L'étiquette porte une phrase courte écrite à la main : « Pour Éric. On la portera à deux. » Les tiroirs sont prêts depuis mars. Avec leur désaccord sur la maison, ils n’avaient plus reparlé du transport. Il sait qu'il ne peut pas offrir la confession complète d'un coup, mais il veut que son fils lise autre chose qu'un meuble, une trace de parole.
 
 Il se rappelle la journée du 16 mars où il avait fui la conversation en se plongeant dans le travail. Cette fois, il garde la possibilité d'un échange ouverte. Il appelle Marcel pour accepter l'invitation, mais il précise qu'il restera au coin du stand pour montrer un outil, un petit pont calculé et concret. Marcel, heureux, accepte. Bernard ressent un mélange d'appréhension et d'anticipation froide qu'il reconnaît désormais comme une sensation connue et non menaçante, loin de la rigidité physique qui l'avait bloqué le dos en avril dernier.
 
 Au cours de la rencontre, il utilise une des courtes phrases qu'il a répétées à l'atelier. Quand Marcel lui demande comment il va, Bernard répond : « Je travaille beaucoup, mais j'ai eu une journée lourde. » Ce n'est pas une confession dramatique, c'est une mise en mots mesurée qui surprend Marcel par sa simplicité. Le voisin écoute, pose une main hésitante sur l'épaule du tablier, et parle d'un souvenir commun d'Hélène. Bernard reste essentiellement silencieux, mais la main de Marcel et ces quelques mots suffisent à rendre l'instant moins désertique.
 
-De retour à l'atelier, Bernard place la commode prête dans sa camionnette et décide d'aller la porter lui-même chez Éric. Il utilise le même geste appris : joindre la fabrication à une phrase écrite et un bref commentaire en face-à-face. Quand Éric ouvre la porte, la tension est palpable, mais la carte collée sur la commode fait office de médiateur. Bernard ne prononce pas un long discours. Il dit simplement : « Je voulais que tu aies ça. » Éric répond par un remerciement, puis par un silence qui n'est plus un abîme mais une attente. C'est un progrès concret par rapport à la dernière fois où la pièce s'était fermée.
+De retour à l’atelier, Bernard appelle Éric pour savoir s’il peut lui apporter la commode. Éric a un créneau et l’attend pour aider au déchargement. Il utilise le même geste appris : joindre la fabrication à une phrase écrite et un bref commentaire en face-à-face. Quand Éric ouvre la porte, la tension est palpable, mais la carte collée sur la commode fait office de médiateur. Bernard ne prononce pas un long discours. Il dit simplement : « Je voulais que tu aies ça. » Éric répond par un remerciement, puis par un silence qui n'est plus un abîme mais une attente. C'est un progrès concret par rapport à la dernière fois où la pièce s'était fermée.
 
 Ces actions s'inscrivent dans la continuité de son parcours. Il utilise la reconnaissance de son surcontrôle et ses moments de tristesse acceptés pour oser des gestes sociaux calibrés. Il n'efface pas son histoire, il l'intègre. Son retrait n'est plus une incapacité définitive, mais une stratégie qu'il peut, peu à peu, détourner et réorienter.
+
+Éric ouvre la porte pour la commode. Bernard lui dit que le collectif passera peut-être à l’atelier un autre jour. En repartant, il garde leur invitation à prendre un café et reprend la route du hameau.
 
 ---
 

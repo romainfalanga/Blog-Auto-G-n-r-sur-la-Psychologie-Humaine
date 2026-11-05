@@ -15,7 +15,7 @@ draft: false
 
 Le visiteur pose son étui contre la chaise et montre à Salomé le portrait de l’atelier qu’il vient de lire. Il apprécie le passage sur la conservation des traces anciennes. Puis il lui demande ce que sa non-binarité change dans sa vie amoureuse. Salomé tient encore la fiche de réception de l’instrument. Elle ne souhaite pas répondre. La curiosité déplace le rendez-vous vers un espace personnel qu’elle n’ouvre pas en accueillant un nouveau client.
 
-Salomé a vingt-neuf ans, est luthière et célibataire. Elle choisit les accords féminins pour parler d’elle. Son identité publique n’autorise pas à déduire ses attirances, son histoire ou les informations qu’elle souhaite partager. Elle sait garder certaines photographies privées et décider des limites d’un portrait. En face d’une question directe, elle hésite pourtant à interrompre, parce que le visiteur paraît aimable et présente sa demande comme une envie de comprendre.
+Le visiteur connaît déjà le prénom de Salomé. Il dit qu’il a lu son portrait et demande si c’est elle qui fait les réparations. Jusqu’ici, l’échange lui convient. Elle sort la fiche de réception. Quand il lui demande avec qui elle partage sa vie, elle garde le stylo au-dessus de la case réservée à l’instrument.
 
 Elle répond d’abord qu’il existe beaucoup de parcours différents. Le visiteur acquiesce, puis revient à son cas particulier. Salomé voit que sa réponse générale ne transmet pas la limite. Elle risque de continuer à fournir des explications pour éviter de dire qu’elle ne veut pas de cette conversation. Son temps professionnel se remplit d’un travail pédagogique qu’elle ne choisit pas aujourd’hui. L’amabilité de l’échange ne retire pas ce décalage.
 
@@ -77,13 +77,13 @@ Elle identifie aussi ce qui justifierait de revoir la relation professionnelle :
 
 Dans votre contexte, la suite peut être un changement de sujet, une pause, un départ ou un recours à une personne responsable. Choisissez ce qui est accessible et proportionné. Une limite ne devient pas moins valable si vous manquez de moyens pour la faire respecter immédiatement. Chercher du soutien permet parfois de déplacer la responsabilité vers l’environnement, au lieu de demander toujours une formulation plus efficace à la personne interrogée.
 
-## Salomé reprend le rendez-vous sans offrir de compensation
+## La conversation revient à l’instrument
 
 Le visiteur acquiesce et s’excuse. Salomé prend la fiche de réception et lui demande ce qu’il souhaite faire examiner. Il décrit une difficulté avec l’instrument et la conversation retrouve son objet. Elle ne raconte pas un détail personnel à la fin pour prouver que tout va bien. Elle peut accepter l’excuse et garder la limite. Le rendez-vous se termine correctement, sans qu’une familiarité supplémentaire soit nécessaire pour effacer la gêne initiale.
 
 Après son départ, elle reste un peu irritée et vérifie qu’elle ne transforme pas ce sentiment en jugement sur sa propre manière d’accueillir. Elle est capable d’être attentive à un client tout en gardant une partie de sa vie hors du service. Elle n’a pas à devenir moins chaleureuse avec tous les visiteurs. Elle peut simplement conserver une phrase disponible et observer la façon dont les personnes réagissent lorsqu’elle l’utilise.
 
-Le portrait public reste en ligne avec les passages qu’elle choisit. Salomé ne conclut pas qu’une visibilité personnelle ouvre nécessairement la porte à toutes les intrusions. Elle garde le droit de mentionner son identité et d’en délimiter les suites. Le changement est concret : une question reçoit un refus clair, le refus est maintenu, puis le travail continue. La curiosité ne décide pas seule du périmètre de leur relation.
+Une fois le visiteur parti, Salomé reprend la fiche. Elle a noté à quel moment le problème apparaît et ce qu’il souhaite lui faire écouter au prochain rendez-vous. Il lui reste de l’agacement. Avant de ranger la fiche, elle envoie le devis promis. Le portrait reste en ligne avec les passages qu’elle avait approuvés.
 
 ---
 

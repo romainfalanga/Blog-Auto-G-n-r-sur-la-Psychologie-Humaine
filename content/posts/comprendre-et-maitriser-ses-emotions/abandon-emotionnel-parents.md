@@ -13,7 +13,7 @@ contexte: "avec ses parents"
 draft: false
 ---
 
-Le carton grince quand Léa le tire vers elle dans le garage d'Anne. L'air est chargé d'odeurs de lessive sèche et de poussière ancienne. Ses doigts glissent sur des images d'école primaire, des poèmes froissés, un dessin crayonné d'une maison aux couleurs vives. Elle tient le papier contre sa paume, le coin encore fixé à d'autres feuilles par une agrafe rouillée. Sur le dessin, un petit personnage se tient près de la porte, séparé de deux figures plus grandes qui se font face. Le trait de crayon est appuyé, comme pour marquer une absence physique.
+Anne a tiré un carton du garage. À l’intérieur, un dessin tient encore sous une agrafe rouillée. Léa reconnaît sa façon de faire les toits et le petit personnage qu’elle avait dessiné à l’écart des deux autres. Elle aurait du mal à dire ce qu’elle voulait raconter à six ans. Elle a quand même envie de demander à sa mère si elle se souvient de ce jour-là.
 
 Elle se rappelle avec netteté cette impression d'être invisible alors que ses parents se disputaient dans le salon. Elle avait six ans. Les mots fusaient, rapides, incompréhensibles, et elle s'était accroupie près du radiateur, persuadée qu'elle devait s'effacer pour ne pas déranger. Aujourd'hui, à 23 ans, étudiante en master de psychologie clinique, Léa observe le dessin. Elle sent qu'une pièce de son histoire réapparaît. Ce papier réactive un vieux mécanisme : elle veille instinctivement aux manques des autres pour s'assurer qu'on ne l'oublie pas.
 
@@ -30,16 +30,19 @@ Léa se demande si ses efforts pour se rendre indispensable ont parfois quelque 
 ## Comment l'abandon émotionnel se manifeste-t-il avec ses parents ?
 
 ### 1. L'invisibilité affective et les messages ambivalents
+
 L'invisibilité survient quand un parent est là physiquement, mais reste hermétique aux besoins de l'enfant. Les signaux sont contradictoires : une attention soudaine suivie d'une indifférence totale. Cela se traduit par des remarques comme "Tu es trop sensible" ou des humeurs imprévisibles. Pour Léa, le souvenir de ses parents en plein conflit alors qu'elle cherchait leur regard est un marqueur : elle a fini par croire que sa valeur dépendait de la météo intérieure des autres.
 
 Exemple : un parent qui, une fois rentré du travail, reste absorbé par son téléphone durant tout le dîner, peut manquer ce que son enfant cherche à lui raconter. Le contexte et le caractère répété de la situation comptent.
 
 ### 2. La sur-responsabilisation et le rôle de "soignant"
+
 On parle de parentification lorsqu’un enfant prend durablement des responsabilités de soin habituellement assumées par des adultes, au-delà de ce que son âge permet d’attendre. Des [travaux sur la parentification](https://pubmed.ncbi.nlm.nih.gov/21520081/) ont relevé des associations avec certaines difficultés à l’âge adulte, sans établir le parcours d’un enfant à partir d’un seul souvenir.
 
 Exemple : Léa prend systématiquement les nouveaux amis de son entourage sous son aile. Elle organise tout et devance les besoins pour éviter le moindre malaise, agissant comme un rempart contre une éventuelle rupture du lien.
 
 ### 3. La peur du vide et l'idéalisation
+
 Léa redoute parfois que les personnes auxquelles elle tient se détournent d’elle. Pour se protéger, on peut avoir tendance à idéaliser ses relations, plaçant l'autre sur un piédestal pour ignorer les signes de détachement. Cette idéalisation crée une illusion de sécurité.
 
 Exemple : Léa perçoit souvent ses partenaires comme des sauveurs providentiels. Elle occulte leurs défauts et surestime leur capacité à réparer ses blessures, ce qui peut la décevoir quand leurs attentes diffèrent.
@@ -49,6 +52,7 @@ Exemple : Léa perçoit souvent ses partenaires comme des sauveurs providentiels
 Ces méthodes sont conçues pour s'intégrer au quotidien, en utilisant des outils simples comme l'écriture ou l'observation de soi.
 
 ### 1. Cartographier ses besoins émotionnels
+
 L’objectif est de préciser ce qui pourrait vous aider aujourd’hui, sans devoir en trouver l’origine.
 
 Exercice pratique :
@@ -61,6 +65,7 @@ Exercice pratique :
 Pourquoi cela fonctionne : En identifiant vos besoins, vous cessez de les projeter sur les autres et reprenez le pouvoir sur votre propre régulation.
 
 ### 2. Utiliser des scripts relationnels
+
 Il s'agit d'apprendre à exprimer ses limites ou ses attentes sans que la peur de l'abandon ne paralyse la parole.
 
 Exercice pratique :
@@ -73,6 +78,7 @@ Exercice pratique :
 Pourquoi cela fonctionne : Avoir des mots prêts à l'emploi diminue le stress du moment et permet d'affirmer sa place dans la relation.
 
 ### 3. Établir un dialogue intérieur avec son histoire
+
 L'idée est de construire une sécurité interne là où la présence parentale a été défaillante.
 
 Exercice pratique :
@@ -83,7 +89,7 @@ Exercice pratique :
 
 Vous pouvez laisser cette lettre de côté si l’exercice accroît la détresse ; elle ne répare pas à elle seule une relation.
 
-## Le chemin de Léa vers l'apaisement
+## Le carton reste ouvert
 
 Le soir même, après avoir rangé le dessin, Léa s'installe sur son lit avec son carnet. Elle applique ce qu'elle a appris lors de sa première prise de conscience au café : nommer l'émotion brute pour ne pas la laisser prendre toute la place. Elle écrit : "Je ressens une tristesse ancienne, mais calme". Elle commence sa cartographie et identifie un besoin majeur : la reconnaissance de sa propre sensibilité, celle-là même qu'elle tentait de camoufler pour paraître "normale" devant ses camarades de fac.
 
@@ -95,7 +101,7 @@ Ces étapes transforment sa manière d'être aux autres. Elle garde son empathie
 
 ---
 
-Le dessin retrouvé dans le garage n'efface pas le passé, mais il donne à Léa une occasion de réfléchir à ses craintes. En mettant des mots sur l'abandon émotionnel et en utilisant des techniques concrètes, elle transforme ses réflexes de survie en une présence à soi plus sereine.
+Le dessin retourne dans le carton. Léa ne sait toujours pas si Anne se rappelle le même après-midi qu’elle. Elle lui demande si elle peut emporter la boîte dans son studio. Les papiers qu’elle voulait jeter attendront une autre fois.
 
 Si ce récit résonne en vous, gardez à l'esprit que ces blessures demandent de la patience. Ces exercices sont des points de départ pour identifier vos besoins et construire une relation plus juste avec vous-même et votre entourage.
 

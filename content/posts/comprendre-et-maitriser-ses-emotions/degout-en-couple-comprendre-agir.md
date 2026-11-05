@@ -13,11 +13,9 @@ contexte: "en couple"
 draft: false
 ---
 
-Margot repose doucement la fourchette sur le rebord de son assiette en grès. En ce mardi 15 avril 2026, le silence de la salle à manger est seulement interrompu par le bruit de mastication de Philippe, assis en face d'elle. Depuis que Martin et Chloé ont quitté le nid familial, chaque petit son semble amplifié par le vide de la maison. Elle observe son mari, l'homme avec qui elle partage sa vie depuis plus de vingt-cinq ans, et un frisson désagréable lui parcourt l'échine. Ce n'est pas de la colère, ni de la tristesse, mais une sensation de l'ordre du physique, une envie de s'écarter, une crispation de la lèvre supérieure alors qu'il s'essuie bruyamment la bouche.
+Mercredi, Philippe a préparé un plat qu’ils faisaient souvent du temps où Martin et Chloé rentraient dîner. Margot mâche une bouchée, puis la laisse sur le bord de l’assiette. Philippe demande si c’est trop salé. Elle lui répond trop vite que non.
 
-Elle se souvient de ce qu'elle a appris avec Sylvie, sa mentor en coaching, sur les drivers : son fameux sois parfaite essaie de reprendre le dessus en lui dictant de rester digne et de ne rien montrer. Pourtant, l'odeur du plat de viande que Philippe a préparé lui paraît soudainement insupportable, presque rance, alors qu'elle sait pertinemment que les produits sont frais. Margot sent une barrière invisible se dresser entre eux, une clôture de barbelés émotionnels qu'elle n'avait pas vue venir lors de sa remise en question existentielle des derniers mois. Elle qui luttait encore récemment contre le biais du coût irrécupérable en s'accrochant à ses vieux dossiers de directrice commerciale, elle se demande si elle n'est pas en train d'appliquer la même logique à son mariage, restant par habitude plutôt que par envie.
-
-Elle repense à ce trophée de danse de Chloé retrouvé il y a peu, à cette nostalgie qui l'avait submergée. Aujourd'hui, l'émotion est radicalement différente, plus froide, plus tranchante. C'est une répulsion sourde qui s'installe, une distance qui ne demande qu'à s'accroître. Elle se lève brusquement pour débarrasser la table, fuyant le regard interrogateur de Philippe, ses mains agrippant nerveusement le rebord du plateau pour masquer leur léger tremblement.
+Ils ont à peine parlé depuis qu’ils se sont assis. Margot supporte mal le bruit des couverts ce soir, et encore moins l’idée de faire semblant que tout se passe bien. Elle se demande si elle en veut à Philippe pour les conversations qu’ils évitent ou si elle arrive simplement à table sans avoir envie de lui parler. Elle ne sait pas quoi dire qui soit vrai sans être blessant. Elle débarrasse son verre et laisse son assiette devant elle.
 
 ## Qu'est-ce que le dégoût en couple ?
 
@@ -47,13 +45,11 @@ Si Margot en a envie, elle peut noter un souvenir agréable pour compléter le r
 ### 3. La communication des limites territoriales
 Si la discussion peut se faire en sécurité, Margot peut demander un moment de tranquillité qui lui convient. Si vous subissez des menaces, des violences ou des pressions sexuelles, [chercher du soutien et vous mettre en sécurité](https://www.service-public.gouv.fr/particuliers/vosdroits/F12544) passe avant la discussion de couple.
 
-## Margot commence à poser un nouveau regard
+## Parler avant de servir le thé
 
-Le lendemain de ce dîner pesant, Margot décide de partir marcher en forêt, son refuge habituel. Le craquement des branches sèches sous ses chaussures de randonnée l'aide à cadencer ses pensées. Elle se rend compte que son dégoût envers Philippe est intimement lié à sa propre peur de stagner. Depuis qu'elle s'est libérée de son driver sois parfaite lors de ses séances avec Sylvie, elle a l'impression de courir vers une nouvelle version d'elle-même, tandis que Philippe semble rester figé dans son ancienne vie commerciale. Elle reconnaît là son ancien biais rétrospectif : elle a tendance à voir son passé comme une voie sans issue et projette cette amertume sur Philippe, comme s'il représentait tout ce qu'elle a voulu fuir.
+Le lendemain, Margot marche jusqu’au chêne où elle fait demi-tour d’habitude. Elle pense au repas, à la question sur le sel, au soulagement qu’elle a senti en quittant la table. Elle ne trouve pas une explication qui tienne pour tout.
 
-Elle s'arrête près d'un grand chêne et sort son carnet. Elle commence à pratiquer la technique de l'observation phénoménologique. Elle réalise que ce n'est pas Philippe qui la dégoûte, mais l'image de la passivité qu'elle projette sur lui. Cette prise de conscience est un soulagement. Elle se rappelle qu'il a été son plus grand soutien lors de son épuisement professionnel à 50 ans, l'accompagnant avec une patience infinie quand elle ne pouvait plus se lever. Elle identifie que son besoin d'espace est criant maintenant que la maison est vide, et qu'elle a confondu ce besoin de retrait avec une fin de l'amour.
-
-En rentrant, elle ne fuit pas dans son bureau. Elle s'installe dans la cuisine où Philippe prépare le thé. Elle ne le regarde pas comme un étranger encombrant, mais comme un homme qui, lui aussi, traverse tant bien que mal le départ des enfants. Elle prend la parole, non pas pour critiquer ses bruits ou ses manières, mais pour exprimer son besoin vital d'avoir des soirées de solitude pour intégrer ses nouvelles compétences de coach. Elle voit les traits de Philippe s'apaiser, et pour la première fois depuis des semaines, elle ne ressent pas l'envie de s'écarter quand il effleure sa main pour lui tendre sa tasse. Le chemin sera long, mais elle a choisi de ne plus laisser le dégoût dicter sa loi.
+Philippe prépare du thé quand elle rentre. Margot lui dit qu’elle est sortie de table parce qu’elle avait peur de lui parler sèchement. « J’ai cru que tu ne voulais plus manger avec moi », répond-il. Elle sait qu’elle l’a laissé le croire. Il est tard pour continuer la conversation. Ils conviennent d’y revenir, un autre soir, avant le dîner.
 
 ---
 

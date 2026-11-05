@@ -13,11 +13,11 @@ contexte: "face à la maladie"
 draft: false
 ---
 
-La lumière blanche du box de cardiologie pique les yeux de Camille. Elle est assise sur le rebord du lit, les mains immobiles, le stéthoscope pendant autour du cou comme un poids familier. Un patient âgé pleure doucement, la voix cassée par la peur, et pourtant Camille ressent une sorte d’anesthésie intérieure : ses émotions sont atténuées, comme si un voile la séparait du chagrin de cet homme. Aujourd’hui, le 15 mars 2026, elle note le mot « vide » sur un post-it collé à son agenda.
+Camille retire son stéthoscope et le garde un moment sur ses genoux. Le patient vient de lui dire qu’il a peur ; elle lui a demandé ce qui l’inquiétait le plus, comme elle le fait d’habitude. Il attend maintenant sa réponse. Ce 15 mars, de retour au poste, elle écrit « vide » sur un coin de papier. Elle ne trouve pas d’autre mot.
 
 Le couloir sent la solution hydroalcoolique et le café tiède qu’elle n’a pas eu le temps de boire. Sa collègue Nathalie pose une main rassurante sur son épaule, mais Camille répond par un sourire mécanique. À la maison, Léo et Emma attendent que maman prépare les repas comme d’habitude, et David lui envoie un message : « Tu veux que je m'occupe de la douche des enfants ce soir ? ». Elle répond « non, tout va bien », car admettre sa fatigue lui semble encore être une défaite.
 
-Depuis ses articles précédents, elle travaille sur ses exigences envers les enfants et la parentification imposée par sa propre mère, Françoise. Elle se souvient de la semaine dernière, quand elle a repéré sa tendance à dramatiser avec David et qu’elle a appliqué l’exercice de respiration appris récemment. Aujourd’hui, la situation est différente : la fatigue de compassion face à la maladie l’épuise, et elle commence à comprendre que donner sans limite a un coût réel, pour elle comme pour ceux qu’elle aide.
+Camille se revoit avec David après une garde, quand elle avait fini par lui parler trop sèchement pour une histoire de vaisselle. Aujourd’hui, elle hésite à passer le relais alors qu’une famille attend de lui parler. Elle regarde le tableau des soins. Si elle reste avec eux, une collègue devra encore reprendre les deux tâches qu’elle a déjà laissées en attente.
 
 ## Qu'est-ce que la fatigue de compassion ?
 
@@ -72,7 +72,7 @@ Exercice concret :
     *   Pour vos proches : « J'ai besoin de vingt minutes de calme pour décompresser avant que nous discutions de la soirée. »
 *   Entraînez-vous à dire ces phrases avec assurance. Au travail, convenez d’un relais si un patient a besoin d’aide dans l’intervalle.
 
-## Camille commence à reprendre soin d'elle
+## Le premier mot à David
 
 Camille rentre chez elle après sa garde, le cœur encore un peu lourd mais avec son nouveau rituel en tête. Dans le vestiaire, elle ferme les yeux, pratique sa respiration, retire son badge et le range dans son sac. Elle envoie le mot-clé à David, qui lui répond par un petit cœur. Ce geste simple lui procure un premier soulagement.
 
@@ -81,6 +81,8 @@ Camille rentre chez elle après sa garde, le cœur encore un peu lourd mais avec
 La semaine suivante, elle utilise son script avec un collègue qui lui confie une histoire difficile. Elle parvient à poser une limite claire et retourne à ses tâches sans culpabiliser. Elle mobilise aussi les outils appris pour apaiser ses pensées avec David ; quand l'angoisse monte face à la situation d'un patient, elle exprime calmement ce qui l'inquiète au lieu de s'enfermer dans des scénarios sombres. Peu à peu, l'épuisement s'atténue et la frontière entre l'empathie et l'absorption émotionnelle devient plus nette.
 
 Camille ne change pas tout du jour au lendemain, mais elle sent que l'anesthésie s'efface. Elle retrouve des moments de connexion authentique avec ses patients et, surtout, elle commence à intégrer qu'il est possible d'être une soignante dévouée tout en se protégeant.
+
+David lui écrit que la douche des enfants est déjà faite. Camille range son badge et lui demande s’il reste de quoi dîner. Elle voudrait encore expliquer pourquoi elle n’a pas fait tout ce qu’elle avait prévu. Elle part du vestiaire sans taper ce deuxième message.
 
 ---
 

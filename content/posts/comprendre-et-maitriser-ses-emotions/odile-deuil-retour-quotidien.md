@@ -15,11 +15,11 @@ draft: false
 
 La branche des lunettes d’Odile reste dans sa main tandis que la monture tombe sur le comptoir. L’opticien promet une réparation rapide. Elle doit patienter près d’un présentoir où des cordons multicolores pendent comme de minuscules guirlandes. Françoise aurait choisi le plus voyant uniquement pour l’agacer. La pensée arrive sans prévenir. Odile, qui discutait une minute auparavant des travaux du quartier, n’écoute plus la question du vendeur. Elle lui demande de répéter, embarrassée par ce changement si brusque.
 
-Le matin même, elle quitte son appartement de bonne humeur. Elle a envoyé à sa fille Lucie la recette retrouvée dans sa boîte en métal et prévoit une séance de cinéma avec Josiane. La mort de sa sœur reste présente, six mois après le décès, mais elle ne pense pas à cette perte à chaque instant. Cette matinée lui paraît presque suspecte maintenant qu’un présentoir lui donne envie de pleurer. À soixante-quatorze ans, l’ancienne agente postale connaît les journées contrastées ; elle ne sait pourtant pas comment interpréter celle-ci.
+Le matin même, Odile est sortie de bonne humeur. Elle a envoyé à Lucie la photo de la recette retrouvée dans sa boîte en métal. Elle a prévu d’aller au cinéma avec Josiane. Il y a encore une heure, elle aurait dit que c’était une bonne journée. Près du présentoir, elle met plus de temps que prévu à choisir sa réponse quand le vendeur lui demande si elle veut un cordon. Elle n’en veut pas ; elle aurait aimé montrer le jaune à Françoise.
 
 Quand elle sort du magasin avec ses lunettes réparées, son téléphone affiche un message du groupe de quartier. Quelqu’un a publié une photographie d’un trottoir barré avec un commentaire ridicule sur les grandes expéditions urbaines. Odile rit. Puis elle se reproche de passer si vite de la peine à une plaisanterie. Elle imagine son chagrin comme une tâche qui devrait occuper une durée suffisante avant de laisser place au reste. Elle ne saurait pas dire qui fixe cette durée, mais elle ressent nettement le contrôle qu’elle essaie d’exercer.
 
-À l’arrêt de bus, Josiane la rejoint pour aller chercher les places de cinéma. Odile explique la réparation et le souvenir. Elle commence à ajouter que tout va bien, puis s’interrompt : tout ne va pas bien et tout ne va pas mal. Cette formulation inhabituelle lui semble plus proche de sa journée. Josiane lui demande si elle souhaite rentrer. Odile regarde le panneau des horaires. Elle veut toujours voir le film, à condition de pouvoir changer d’avis si l’attente ou la foule deviennent trop pénibles.
+À l’arrêt de bus, Josiane la rejoint pour aller chercher les places. Odile lui raconte l’histoire du présentoir. « Tu veux rentrer ? » demande Josiane. Odile regarde le panneau : le prochain bus est dans quatre minutes. Elle veut voir le film. Si elle en a assez avant la fin, elle peut sortir et retrouver Josiane devant la salle.
 
 ## Qu’est-ce que l’oscillation du deuil dans une journée ordinaire ?
 
@@ -29,7 +29,7 @@ Le NHS précise que les émotions du deuil peuvent surgir de façon inattendue e
 
 Cette souplesse n’efface pas les difficultés concrètes. Certaines personnes doivent assumer de nouvelles tâches après un décès ; d’autres subissent des démarches longues ou disposent de très peu de soutien. Revenir aux obligations n’est pas toujours une liberté choisie. À l’inverse, un temps sans penser au proche peut être apprécié sans constituer une fuite. Pour Odile, l’enjeu est de distinguer ce qu’elle souhaite, ce qu’elle doit faire et ce qu’elle peut reporter. Elle n’a pas à produire une quantité suffisante de tristesse pour avoir le droit de s’occuper de sa vie.
 
-## Comment ces mouvements deviennent-ils difficiles à comprendre ?
+## De l’opticien au cinéma
 
 ### On transforme une émotion du moment en bilan général
 
@@ -43,7 +43,7 @@ Une course, une sortie ou un échange peuvent apporter un appui, mais leur inté
 
 Odile répond souvent que tout va bien parce qu’elle ne souhaite pas transformer chaque rencontre en conversation sur le décès. Ce choix de confidentialité peut lui convenir. Il devient plus coûteux lorsqu’elle se sent obligée de maintenir la même humeur pendant toute une sortie. Elle n’a alors plus de mots pour demander quelques minutes seule ou changer un horaire. Expliquer une variation ne nécessite pas de tout raconter : elle peut dire qu’un souvenir l’a touchée et qu’elle préfère poursuivre plus doucement. Son interlocutrice dispose d’une indication concrète, sans devenir responsable de son état émotionnel.
 
-## Trois pistes pour traverser une journée contrastée
+## Laisser de la place à la suite de la journée
 
 ### 1. Remplacer le verdict par une observation située
 
@@ -57,7 +57,7 @@ Avant le cinéma, Odile et Josiane peuvent vérifier l’horaire, la possibilit�
 
 Au lieu de demander à Josiane de la distraire absolument, Odile peut préciser : « J’aimerais continuer la sortie. Si je parle moins dans le bus, ne crois pas que je t’en veux. » Elle peut aussi demander une pause ou proposer de raconter ce qui la touche. Josiane reste une amie avec ses propres possibilités, pas une accompagnante disponible sans limite. Une demande claire aide à négocier ce qui convient à toutes les deux. Si ce type d’appui manque, d’autres proches, un groupe de soutien ou un professionnel peuvent constituer des interlocuteurs. Il n’est pas nécessaire de réunir toutes les formes de soutien dans une seule relation, ni de parler du décès à chaque rencontre pour que le lien soit utile.
 
-## Odile poursuit sa sortie sans promettre une humeur stable
+## Le film dure vingt minutes de trop
 
 Dans le bus, Odile regarde les commerces défiler puis raconte une dispute ancienne autour d’un choix de lunettes. Josiane écoute et pose une question sur Françoise. Odile répond brièvement, avant de s’intéresser aux affiches du film. Elle remarque le changement de sujet, mais renonce pour cette fois à le corriger. Son attention n’est pas un hommage qu’elle devrait garder constamment fixé sur une seule personne. Elle peut se déplacer vers ce qui l’entoure, puis revenir au souvenir plus tard.
 

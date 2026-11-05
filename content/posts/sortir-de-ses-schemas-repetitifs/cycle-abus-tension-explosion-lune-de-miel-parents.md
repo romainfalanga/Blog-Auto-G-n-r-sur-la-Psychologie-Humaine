@@ -55,13 +55,11 @@ Un cadeau ne vous oblige pas à répondre, à reprendre une visite ni à accepte
 
 Au calme, Djamila peut remarquer qu’elle serre la mâchoire ou qu’elle tremble et se demander ce qui l’aiderait : faire une pause, appeler une personne de confiance, choisir un autre moment pour lire ses messages. Une sensation ne permet pas à elle seule de prévoir les actes d’autrui ; elle mérite tout de même qu’on y prête attention.
 
-## Évolution du personnage et nouvelles balises
+## Le samedi d’Adam
 
-Au fur et à mesure que la voix de sa mère s'apaise au téléphone, passant du reproche à une proposition soudaine d'inviter Adam à passer le week-end, Djamila sent le piège de la lune de miel se refermer. Habituellement, elle aurait cédé, soulagée par ce retour au calme. Mais aujourd'hui, elle se souvient de son travail sur le biais de confirmation. Elle ne veut plus ignorer les signaux d'alarme simplement parce qu'elle a soif de paix. Elle prend une inspiration mesurée et décide de ne pas valider ce changement d'humeur comme une excuse suffisante.
+Sa mère lui demande si Adam ne préférerait pas passer le week-end chez elle. Djamila manque de répondre qu’elle verra. Elle a déjà promis à Adam qu’ils iraient en forêt. « Samedi, on garde notre sortie », dit-elle. Elle accepte de reparler d’une visite un autre jour, puis termine l’appel.
 
-Elle regarde son fils, qui continue de dessiner paisiblement. Elle ne veut pas qu'Adam grandisse en apprenant à décrypter les silences et les tempêtes pour se sentir aimé. Sa progression est réelle. Elle se rappelle sa réaction face à Amina il y a quelques semaines, quand elle avait repoussé une aide sincère par peur d'une manipulation cachée. Elle remarque qu’il lui est parfois plus difficile de décliner une invitation de sa mère que d’accepter l’aide d’Amina. Elle essaie d’écouter cette différence sans s’en attribuer la faute. En apprenant à dire non à sa mère pendant la phase de tension, elle apprend aussi à dire oui à la bienveillance authentique des autres.
-
-Djamila finit par répondre d'une voix calme mais ferme, déclinant l'invitation pour le week-end en expliquant qu'elle et Adam ont déjà prévu une sortie en forêt. Elle ne s'excuse pas. Elle ne cherche pas à apaiser la déception qui pointe déjà dans le ton de sa mère. En raccrochant, elle ressent une fatigue immense, mais ses mains ne tremblent plus. Elle retourne s'asseoir près de son fils et prend un feutre bleu. Elle commence à dessiner des vagues sur la feuille d'Adam, des vagues régulières et tranquilles, symbole d'une vie qu'elle choisit désormais de mener loin des tempêtes cycliques qui l'ont si longtemps malmenée.
+Dans la cuisine, elle continue à entendre la voix de sa mère un moment après avoir raccroché. Adam lui montre un arbre qu’il a dessiné. Il veut savoir s’ils en verront un aussi grand. Djamila lui demande de laisser le dessin sur la table pour qu’ils pensent à l’emporter.
 
 ---
 

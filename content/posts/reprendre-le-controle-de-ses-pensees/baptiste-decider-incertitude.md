@@ -13,7 +13,7 @@ episode: 2
 draft: false
 ---
 
-Les deux feuilles portent presque les mêmes rubriques, mais Baptiste les aligne une nouvelle fois au bord du bureau. La première présente toutes les informations sur une page dense. La seconde sépare le résumé des détails, avec un risque de navigation supplémentaire. Il doit proposer à Patricia une manière de recueillir les observations des équipes sur les transmissions entre deux dépôts. Rien ne modifiera encore les procédures de maintenance. Pourtant, choisir le document lui donne l’impression de s’engager déjà sur toutes les réactions qu’il pourrait susciter.
+Les deux feuilles portent presque les mêmes rubriques, mais Baptiste les aligne une nouvelle fois au bord du bureau. La première présente toutes les informations sur une page dense. La seconde sépare le résumé des détails, avec un risque de navigation supplémentaire. Il doit proposer à Patricia une manière de recueillir les observations des équipes sur les transmissions entre deux dépôts. Rien ne modifiera encore les procédures de maintenance. Baptiste finit par poser la deuxième feuille devant la première, puis les inverse encore. Choisir le document lui donne l’impression de s’engager déjà sur toutes les réactions qu’il pourrait susciter.
 
 Emmanuel passe la tête par la porte et donne son avis : le résumé séparé lui semble plus facile à lire, mais il faudrait le montrer à ceux qui utiliseront la fiche en fin de poste. Baptiste note ce point, puis demande ce qu’il se passerait si certains ne lisaient jamais la seconde page. Son collègue répond qu’ils ne peuvent pas le savoir maintenant. La réponse est raisonnable et frustrante. À trente-sept ans, Baptiste coordonne régulièrement des activités avec des informations incomplètes ; il aimerait néanmoins que cette proposition ordinaire ne comporte aucun angle mort.
 
@@ -57,7 +57,7 @@ Baptiste choisit quelques questions utiles : les lecteurs trouvent-ils la date e
 
 Avec sa proposition, Baptiste peut indiquer pourquoi il privilégie une version et ce qu’il souhaite encore apprendre. Il propose un échange où les utilisateurs chercheront une information à partir d’un exemple fictif, sans modifier les transmissions réelles. Le compte rendu permettra ensuite de choisir la suite dans le cadre prévu. Cette annonce évite que le document soit pris pour un résultat définitif. Elle protège aussi Baptiste de la nécessité de défendre chaque détail pour ne pas paraître s’être trompé. Réviser une hypothèse devient une partie attendue du travail. Lorsque l’incertitude concerne un domaine spécialisé, le moment de révision doit inclure les interlocuteurs compétents ; un simple engagement personnel à rester souple ne remplace pas leur validation.
 
-## Baptiste propose une version et conserve ses questions
+## Un résumé à faire lire
 
 Il retient la version avec le résumé séparé, parce que les informations demandées pour la première lecture y sont plus visibles. Il écrit deux limites : la navigation devra être observée et certains intitulés restent à préciser. Patricia lit sa proposition et demande une vérification supplémentaire sur la provenance des exemples. Baptiste la fait avant l’envoi. Il ne traite pas cette demande comme la preuve que toutes ses hésitations étaient fondées ni comme un obstacle inutile à sa décision. Elle concerne un critère réel du cadre et reçoit une réponse précise.
 

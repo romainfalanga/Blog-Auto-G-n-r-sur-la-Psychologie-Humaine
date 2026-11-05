@@ -13,7 +13,7 @@ contexte: "en société et dans les interactions sociales"
 draft: false
 ---
 
-Le cuir de la chaussure de Marc grince sur le parquet ciré du salon feutré où se tient ce cocktail de fin de séminaire. Stéphane ajuste sa cravate, sentant le contact frais de la soie contre ses doigts. Il y a quelques jours encore, lors de ce networking du 18 mars, il luttait contre l'effet spotlight, persuadé que chaque regard pointait ses moindres failles. Aujourd'hui, l'ambiance est différente. Marc, son collègue de toujours, raconte une anecdote sur un contrat remporté en contournant de manière douteuse certaines règles éthiques. Un rictus involontaire étire la lèvre supérieure de Stéphane. Il ressent une crispation soudaine au niveau de l'estomac, une envie physique de s'éloigner, comme si l'air autour de son collaborateur devenait soudainement irrespirable.
+Marc attend que le serveur se soit éloigné pour répéter la remarque qu’il a faite sur un client. Stéphane connaît le rire qui lui vient dans ces moments-là : c’est celui qu’il utilise d’habitude pour ne pas casser la conversation. Il tient son verre devant lui. Cette fois, il n’a pas envie de faire semblant d’avoir trouvé ça drôle.
 
 Ce n'est pas de la colère, ni de la peur. C'est une sensation de rejet viscéral qui lui remonte à la gorge. Il observe le visage de Marc, dont les traits lui paraissent soudainement grossiers, presque repoussants. Autour d'eux, les rires des autres commerciaux résonnent comme un vacarme discordant. Stéphane se souvient de la voix de son frère Philippe, qui utilisait souvent ce même ton suffisant pour écraser les autres. Le dégoût qu'il éprouve en cet instant n'est pas lié à une odeur ou à un aliment avarié, mais à une attitude, une valeur bafouée qui vient heurter son propre sens de l'intégrité, ce socle qu'il essaie de reconstruire depuis qu'il a compris son besoin d'approbation.
 
@@ -51,7 +51,7 @@ Il peut prendre un peu de distance, observer son envie de réagir et choisir la 
 
 Après le cocktail, Stéphane peut marcher un moment ou en parler avec Sandrine. Il n'a rien à nettoyer sur lui : prendre une pause ou retrouver son activité suffit s'il en ressent le besoin.
 
-## Évolution de Stéphane et affirmation de ses limites
+## Laisser la plaisanterie tomber
 
 Le lendemain du cocktail, Stéphane se trouve dans son bureau, les dossiers de Marc étalés devant lui. Habituellement, il aurait cherché à lisser les angles, à rire des plaisanteries de son collègue pour maintenir cette image de commercial affable qu'il cultive depuis des années. Mais l'expérience de la veille résonne encore en lui. Il repense à ses séances de travail sur l'approbation et l'effet spotlight. Il comprend désormais que son dégoût n'est pas un ennemi à camoufler, mais un allié qui lui indique où se situent ses limites non négociables.
 

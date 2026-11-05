@@ -15,7 +15,7 @@ draft: false
 
 Gaspard tourne son écran vers Salomé. Un courriel collectif présente les ateliers du quartier et utilise pour elle une formule qu’elle ne choisit pas. Son collègue demande : « Tu préfères répondre ou tu veux que je demande la correction ? » Salomé regarde la réparation qui l’attend sur l’établi. Elle pourrait écrire elle-même. Elle apprécie aussi que le soutien quotidien puisse prendre la forme d’un message précis, sans qu’elle doive expliquer encore une fois tous les mots à employer.
 
-Elle a vingt-neuf ans, est luthière, célibataire et non binaire. Elle utilise les accords féminins par choix. Les derniers mois lui donnent des appuis pour préciser une adresse, choisir ce qu’elle révèle et interrompre une curiosité intrusive. Ces expériences ne racontent pas un mécanisme causé par son identité. Elles montrent des situations où le respect dépend aussi des interlocuteurs et de l’organisation, et où elle ne souhaite pas porter seule toutes les corrections.
+Le message qui vient de circuler reprend la présentation de Salomé avec une formulation qu’elle n’a pas choisie. Depuis les premières fiches de l’été, elle a pris l’habitude de vérifier les supports elle-même. Ce matin, elle tient une pièce qu’elle doit coller avant de ranger ses serre-joints. Gaspard a déjà ouvert le fil sur son téléphone.
 
 Elle dit à Gaspard qu’un relais lui conviendrait, à condition de rester sur la formulation de la présentation. Elle ne veut pas qu’il raconte son parcours ni qu’il transforme l’erreur en débat public sur le genre. Gaspard propose une réponse brève et la lui montre avant de l’envoyer. L’alliance commence avec cette vérification. Être aidée ne signifie pas perdre la main sur le contenu qui la concerne.
 
@@ -77,13 +77,13 @@ Avec Nora, le bilan est différent. L’échange après la réunion dure plus lo
 
 Un ajustement peut aussi porter sur un geste qui aide mal. Vous pouvez dire qu’une intervention attire trop l’attention ou transmet plus que ce que vous souhaitez. La personne alliée peut reconnaître cette information sans attendre d’être déclarée parfaite. Une alliance utile accepte les corrections. Si les limites sont régulièrement ignorées au nom de l’aide, il peut être nécessaire de réduire le rôle confié et de chercher un autre appui.
 
-## Salomé reçoit un relais et garde sa parole
+## Nora écrit après la réunion
 
 La présentation corrigée arrive dans le fil collectif. Salomé n’a pas à répondre une seconde fois pour expliquer pourquoi la modification compte. Elle vérifie les informations professionnelles et retourne à l’instrument. Gaspard reprend son travail. Leur alliance ne devient pas le sujet de toute la journée. Un geste bref et consenti suffit à déplacer une partie de la charge, sans effacer la personne directement concernée ni héroïser celui qui aide.
 
 À la réunion du jardin, Salomé se présente seule, retrouve des visages connus et choisit un créneau qui lui convient. Elle demande une précision sur une tâche, sans proposer de réparer tout ce qui se casse. Le soir, elle raconte à Nora deux éléments, puis elles passent à leur énigme. Le soutien ne dépend pas d’un récit complet de chaque interaction. Salomé peut recevoir une attention et décider quand elle souhaite changer de sujet.
 
-Les situations difficiles ne disparaissent pas. Un autre message demandera peut-être une correction, une autre rencontre un appui différent. Salomé garde des phrases, des choix et des relations qui rendent ces décisions moins solitaires. Elle ne devient pas autosuffisante et n’attend pas que les autres prennent toute la place. Elle construit une manière de participer au quotidien où son identité, son travail et sa vie privée peuvent être respectés par des actions partagées.
+Nora lui envoie un message au moment où elle rentre : « T’as trouvé un créneau ? » Salomé répond qu’elle viendra regarder les semis, mais qu’elle n’a pas pu rester pour la répartition du matériel. Puis elle ouvre le fil des artisans. Gaspard s’en est tenu à la ligne convenue. Elle lui écrit pour confirmer qu’elle l’a lue.
 
 ---
 

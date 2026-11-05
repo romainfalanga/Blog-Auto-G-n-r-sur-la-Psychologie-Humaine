@@ -75,13 +75,13 @@ Lire une liste et effectuer une tâche ne donnent pas toujours les mêmes questi
 
 Après ce premier cas, il identifie ce qui demande encore une aide et ce qu'il peut effectuer seul. Il conserve cette différence, au lieu de conclure qu'une procédure est entièrement acquise ou totalement incomprise. Un second cas peut varier sur un détail. Si la difficulté revient toujours au même endroit, il faut peut-être modifier l'explication ou le support, plutôt qu'exiger une attention plus intense sans préciser son objet.
 
-## Rémi commence à faire préciser ce qu'il doit retenir
+## Ce qui manque sur la fiche
 
 Quand la collègue du service retours vient chercher le colis, Rémi ne raconte pas une victoire spectaculaire. Il lui montre la fiche en cours de validation et demande si elle retrouve bien le document attendu. Elle remarque un intitulé ambigu. Ils le transmettent à Claire, qui rectifie la version. Le support devient plus utile grâce à un défaut observé, pas grâce à la volonté d'être irréprochable dès sa création.
 
 Le même jour, Rémi oublie encore un détail oral qui ne figure nulle part. Il le récupère en posant une question, avec un agacement qui persiste quelques minutes. Ses outils n'effacent pas le besoin d'apprendre. Ils lui donnent une manière moins coûteuse de repérer ce qu'il ne sait pas. Il garde sa fiche de reprise pour les interruptions et distingue désormais ce problème d'une consigne insuffisamment stabilisée.
 
-À la colocation, il range les papiers de la facture avec Julie. Elle préfère une enveloppe, lui une pince sur le panneau commun. Ils choisissent l'enveloppe parce qu'elle ferme et protège les documents. Rémi accepte un outil différent de son idée initiale. Ce qui compte est qu'ils le retrouvent et sachent tous deux ce qu'il contient. Il n'a pas besoin que toute sa vie ressemble au quai pour profiter d'un repère clair.
+À l’appartement, Julie tient une enveloppe et Rémi a déjà trouvé une pince à accrocher sur le panneau. Ils testent les deux sur la pile des factures. Avec la pince, la première feuille recouvre le montant de la seconde. L’enveloppe reste près des clés. Julie lui demande simplement d’écrire « électricité » dessus pour qu’elle puisse la reprendre sans lui téléphoner.
 
 ---
 

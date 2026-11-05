@@ -75,13 +75,13 @@ Rémi choisit une variation sans conséquence sur les données : conserver une m
 
 Il prévoit aussi une limite au suivi. Après l'envoi, il ne rouvre pas le fichier toutes les quelques minutes pour chercher une amélioration. Il garde les demandes de correction pour le moment de relecture et répond si une information importante apparaît. Cette limite soutient la fin de la tâche. Elle protège aussi le temps des collègues, qui n'ont pas à suivre plusieurs versions presque identiques sans savoir laquelle fait référence.
 
-## Rémi commence à remettre une version utilisable
+## La bordure reste grise
 
 La bordure reste grise. Rémi transmet le bilan avec une note claire sur son périmètre. Il éprouve une envie immédiate de corriger une phrase, puis revient aux critères : l'information est compréhensible et aucune donnée ne change. Il laisse le fichier fermé. Ce geste ne lui apporte pas une certitude parfaite. Il lui permet simplement de consacrer le créneau suivant au travail prévu, sans garder le bilan ouvert comme une tâche jamais achevée.
 
 Claire demande une modification d'intitulé pendant la relecture. Rémi ressent une contrariété vive : c'est précisément le type de remarque qu'il veut éviter. Ils la traitent pourtant sans remettre en cause le reste. Le document sert à discuter des retours, et la correction entre dans le travail ordinaire. Cette expérience ne prouve pas que toute critique sera facile. Elle montre qu'une remarque peut conduire à une révision limitée, sans invalider son sérieux ni ses besoins d'organisation.
 
-À la colocation, il retrouve le dossier d'abonnement avec Julie. Une question demeure après leur relance. Ils décident de comparer les réponses disponibles au moment convenu, plutôt que de rechercher toutes les offres possibles pour garantir le meilleur choix imaginable. Rémi reconnaît le même point difficile : terminer suppose parfois d'accepter une limite d'information. Il peut la nommer et choisir une suite, sans prolonger indéfiniment les retouches ou les recherches.
+Julie sort le dossier d’abonnement et lui montre la réponse du fournisseur. Rémi remarque un endroit où la formulation pourrait être plus claire. Julie lui demande plutôt s’il a obtenu le renseignement qu’ils cherchaient. Il lit la dernière ligne à voix haute. Une question reste ouverte. Ils la gardent pour la prochaine offre à comparer et ferment l’enveloppe.
 
 ---
 

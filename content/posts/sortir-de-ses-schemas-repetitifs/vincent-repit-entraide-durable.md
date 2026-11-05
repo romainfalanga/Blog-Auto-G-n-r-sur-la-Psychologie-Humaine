@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-La roue du vélo tourne encore lorsque Vincent quitte l’atelier participatif. Le répit et l’entraide durable prennent pour lui la forme de cette heure passée à régler un frein avec d’autres habitués. Il parle d’outils, demande un conseil et laisse une autre personne essayer le réglage qu’elle lui explique. Il ne pense pas aux démarches pendant quelques minutes, puis s’en souvient. La pause reste valable même si sa tête ne devient pas complètement vide.
+La roue du vélo tourne encore lorsque Vincent quitte l’atelier participatif. Il l’a fait tourner une dernière fois avant de reposer le vélo. Quelqu’un lui a montré comment éviter que le patin frotte sur la jante. Il essaiera de refaire le réglage la semaine prochaine. Il parle d’outils, demande un conseil et laisse une autre personne essayer le réglage qu’elle lui explique. Il ne pense pas aux démarches pendant quelques minutes, puis s’en souvient. La pause reste valable même si sa tête ne devient pas complètement vide.
 
 En reprenant son antivol, il regarde la date de la prochaine séance. Il aimerait revenir. Son premier mouvement est d’attendre de voir si tout sera réglé dans l’immeuble. Puis il se rappelle que la porte reste un dossier extérieur, pas une condition qu’il peut satisfaire seul avant d’avoir une vie personnelle. Depuis son échange avec Denis, il sait mieux demander une présence précise. Il lui reste à donner à ces appuis une place qui ne dépende pas de son dernier moment de fatigue.
 
@@ -77,7 +77,7 @@ Ils envisagent aussi ce qui se passe si un appui se retire. Une course peut êtr
 
 Le bilan reste suffisamment léger pour ne pas absorber le répit. Une courte discussion et quelques notes peuvent suffire. Si des besoins complexes demandent une coordination plus importante, ils peuvent chercher un accompagnement. L’organisation n’a pas à devenir un projet parfait tenu par Vincent seul. Sa valeur réside dans les possibilités réelles qu’elle ouvre et dans la liberté de la revoir.
 
-## Vincent commence à compter sur un cadre qu’il peut modifier
+## Retrouver une heure à l’atelier
 
 Lors du premier créneau prévu, Vincent retourne à l’atelier. Il prévient simplement Cédric de son horaire, comme ils en conviennent pour leur organisation. Il ne lui demande pas de certifier que tout ira parfaitement pendant son absence. Cédric indique son programme de travail et une question pratique à traiter le lendemain. Leur échange reste celui de deux partenaires qui partagent des informations utiles.
 

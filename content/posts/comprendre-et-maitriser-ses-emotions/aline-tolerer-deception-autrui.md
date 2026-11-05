@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-Le bord de l’affiche se décolle du panneau et Aline le maintient avec une punaise jaune. « C’est vraiment dommage », dit Claire derrière elle. Tolérer la déception de l’autre ne ressemble pas, à cet instant, à une idée abstraite. La coordinatrice souhaite ouvrir une deuxième permanence de réparation chaque mois. Aline vient de refuser d’en assurer la responsabilité. Son magasin prépare une livraison importante et elle ne veut pas ajouter cet engagement durable.
+Le bord de l’affiche se décolle du panneau et Aline le maintient avec une punaise jaune. « C’est vraiment dommage », dit Claire derrière elle. Aline pousse trop fort sur la punaise et enfonce le pouce dans le liège. Elle prend le temps de décoller sa main avant de répondre. La coordinatrice souhaite ouvrir une deuxième permanence de réparation chaque mois. Aline vient de refuser d’en assurer la responsabilité. Son magasin prépare une livraison importante et elle ne veut pas ajouter cet engagement durable.
 
 Elle entend le mot « dommage » comme une alarme. Ses doigts fouillent déjà le pot de punaises pour s’occuper. Elle cherche une phrase qui retirerait la déception du visage de Claire : proposer seulement le premier mois, préparer les outils chaque semaine, former quelqu’un sur son temps libre. Toutes ces solutions recréent presque exactement la charge qu’elle vient de refuser. Rien de nouveau n’arrive dans la situation ; seule l’émotion de l’autre devient visible.
 
@@ -81,7 +81,7 @@ Si elle découvre une promesse oubliée, la réponse change. Elle peut reconnaî
 
 Elle garde enfin un contre-indice concret contre la peur de rupture : la prochaine réunion reste au calendrier et Claire lui demande encore son avis sur un achat. Aline ne collecte pas ces détails pour se rassurer indéfiniment. Elle les utilise une fois pour mettre son scénario à l’épreuve des faits, puis revient aux tâches auxquelles elle consent réellement.
 
-## Aline commence à laisser Claire être contrariée
+## Claire tourne la page du calendrier
 
 Claire dit qu’elle espère démarrer avant l’hiver. Aline répond qu’elle comprend l’intérêt du projet, puis maintient sa disponibilité actuelle. Un espace peu confortable reste entre elles. Aline ne le remplit pas immédiatement. Claire tourne une page du calendrier et propose d’en parler à la prochaine réunion. Le problème change de place : il redevient un sujet collectif.
 

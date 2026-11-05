@@ -75,13 +75,13 @@ Après avoir replacé les objets retenus, Rémi teste l'usage avec Julie. Peuven
 
 Ils gardent également une trace de ce qui reste à décider et du prochain moment possible. Rémi utilise son acquis sur les reprises : dernière étape terminée, question ouverte, suite envisagée. La note est commune, parce que le projet l'est aussi. Julie choisit de vérifier les modalités du dépôt. Rémi regroupe les objets validés. Chacun sait ce qu'il prend en charge et ce qui ne doit pas être décidé seul.
 
-## Rémi commence à terminer une partie qui sert vraiment
+## Les étagères du bas
 
 La zone basse paraît moins spectaculaire que le grand tri imaginé. Quelques objets restent au-dessus, et le sac des dons n'est pas encore parti. Rémi ressent une déception en regardant la liste incomplète. Puis Julie range l'aspirateur sans déplacer les boîtes. Le résultat choisi existe. Il peut le reconnaître sans prétendre que tout est réglé. Leur prochaine séance n'aura pas à recommencer par déblayer l'entrée entière.
 
 Le lendemain, Rémi consulte les modalités de la ressourcerie avec Julie. Certains objets ne sont pas acceptés. Il faut donc revoir une partie du plan et chercher une destination adaptée. Cette information aurait été plus coûteuse après un déplacement chargé. Rémi trouve encore pénible de ne pas finir d'un seul mouvement, mais il accepte que vérifier soit parfois une étape à part entière, même quand elle ne produit aucun sac vide.
 
-Au travail, il regarde son bilan avec un autre œil. Relever les motifs, valider leur regroupement et compter ne sont pas seulement trois cases. La validation conditionne le comptage utile. Il montre cette dépendance à Claire pour convenir d'un moment de relecture. Son premier geste lui permet de commencer ; le lien entre les étapes l'aide maintenant à avancer dans la bonne direction. Les deux appuis se complètent sans devenir une méthode rigide pour toute activité.
+Au travail, Rémi place côte à côte les intitulés qu’il a préparés et le relevé qu’il doit compter. Il retrouve deux lignes qui dépendent encore d’une validation de Claire. Il les laisse ouvertes. À la maison aussi, il reste une boîte en travers du placard et un sac dont ils ne savent pas quoi faire. Julie sort les tasses par l’étagère dégagée sans déplacer le reste.
 
 ---
 

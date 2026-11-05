@@ -15,11 +15,11 @@ draft: false
 
 L’affiche tient de travers sur le mur parce qu’un morceau d’adhésif se décolle. Odile recule pour la lire sans se laisser distraire par ce détail. Les activités du quartier occupent presque toute la page ; les informations de lieu, elles, se perdent dans des caractères minuscules. Elle a accepté deux séances de préparation du programme et vient avec son carnet de dessins de devantures. Elle imagine un titre plus lisible, pas une révolution de l’association. Pourtant, au moment de sortir le carnet, elle hésite comme si proposer une modification l’obligeait à justifier sa présence entière.
 
-Gérard montre une version qu’il préfère déjà. Il s’en occupe depuis longtemps et parle de ce qui se fait habituellement. Odile reconnaît une partie des bonnes raisons : les moyens sont limités, tout le monde ne possède pas le même logiciel et certaines personnes lisent difficilement de petites lettres. Elle pense néanmoins qu’une autre disposition aiderait. À soixante-quatorze ans, après des années comme agente postale, elle sait qu’une information peut être présente sur une feuille sans être facile à trouver. Elle aimerait apporter cette expérience sans devenir responsable de toutes les affiches futures.
+Gérard montre la version qu’il utilise depuis plusieurs années. Elle peut être retouchée avec le logiciel que possède le secrétariat. Il la plie pour montrer comment ils la distribuent. L’adresse se retrouve juste au pli. Odile lui demande où elle devrait chercher l’information si elle recevait cette feuille sans connaître la salle. Elle avait appris à poser ce genre de question quand un usager lui tendait un formulaire.
 
 Une participante annonce qu’elle ne vient qu’à la première séance. Personne ne proteste. Odile remarque ce détail avec intérêt : elle anticipait une exigence d’engagement que le groupe ne formule pas toujours. Mais, un peu plus tard, quelqu’un affirme que les personnes vraiment investies devraient être disponibles le samedi entier. La phrase ne lui est pas adressée directement. Elle suffit pourtant à lui faire envisager d’annuler son propre rendez-vous pour montrer qu’elle mérite sa place, alors qu’elle avait annoncé une contribution limitée.
 
-Elle garde le carnet sur ses genoux pendant que les autres discutent. Depuis la mort de sa sœur Françoise, il y a six mois, elle apprécie ces occasions de partager une activité qui ne porte pas seulement sur le deuil. Elle ne souhaite pas perdre cette possibilité. Cela ne lui donne pourtant aucune envie supplémentaire de travailler tout un samedi. Elle cherche une manière de rester dans la conversation avec un avis et un temps qui lui appartiennent, plutôt que choisir entre acquiescer à tout et quitter la salle.
+Odile garde le carnet sur ses genoux. Elle a envie de revenir à la séance suivante. Elle n’a pas envie d’annuler son rendez-vous pour rendre le projet plus simple. En écoutant Gérard compter les exemplaires, elle note deux choses : une version lisible de loin et le travail qu’elle pourra terminer avant de revenir.
 
 ## Qu’est-ce qu’une participation collective qui respecte l’autonomie ?
 
@@ -29,7 +29,7 @@ Les ressources du NIH sur les relations sociales présentent de nombreuses forme
 
 Pour Odile, appartenir au groupe n’exige pas de devenir semblable à tous ses membres. Elle peut préférer un autre format d’affiche, refuser une journée complète et apprécier malgré cela le projet commun. Les autres peuvent aussi désapprouver sa proposition ou ne pas avoir les moyens de l’adopter. Il s’agit de regarder comment cette différence est traitée : peut-on examiner les raisons, chercher une solution et maintenir le lien ? L’absence de conflit n’est pas la seule mesure d’une bonne participation. La manière de traverser un désaccord fournit souvent une information plus utile sur les possibilités réelles.
 
-## Comment la recherche d’une place peut-elle réduire les choix ?
+## Ce qui se décide autour de l’affiche
 
 ### On confond l’accueil avec l’accord permanent
 
@@ -43,7 +43,7 @@ La remarque sur les personnes vraiment investies introduit une mesure morale du 
 
 L’activité apporte à Odile des échanges différents de ceux qu’elle partage avec Lucie ou Josiane. Elle ne remplace pas sa sœur. Si elle attend du collectif qu’il supprime tout sentiment de manque, elle risque de considérer chaque désaccord comme une menace immense. Garder plusieurs relations et plusieurs intérêts peut permettre de laisser à cette activité une fonction plus limitée. Cela ne signifie pas que chacun possède facilement d’autres appuis. Lorsqu’un groupe constitue la seule occasion de contact, les possibilités de choix sont plus étroites et peuvent nécessiter un soutien concret pour être élargies.
 
-## Trois pistes pour participer sans tout céder
+## Contribuer sur un temps convenu
 
 ### 1. Nommer son intérêt et les conditions de sa participation
 
@@ -57,7 +57,7 @@ Au lieu d’affirmer que l’affiche est mal faite, Odile peut demander à plusi
 
 Une première réunion peut laisser un malaise sans suffire à juger tout le collectif. Odile peut regarder ce qui se répète : les demandes sont-elles expliquées, les refus respectés, les tâches réparties, les erreurs reconnues ? Ces observations valent davantage qu’un verdict immédiat sur son aptitude à appartenir. Elle peut préciser une limite et voir si un ajustement devient possible. Elle peut également choisir de moins participer si les conditions ne lui conviennent pas. Le retrait n’est pas nécessairement un échec personnel ; l’engagement n’est pas nécessairement une preuve de bonne santé. Quand une relation de groupe devient humiliante ou envahissante, chercher un avis extérieur peut aider à retrouver des options, sans imposer de confrontation à tout prix.
 
-## Odile laisse son idée circuler sans prendre tout le programme
+## L’adresse passe au-dessus du pli
 
 Elle pose le carnet sur la table et montre une disposition simple, inspirée des lettres qu’elle a dessinées. Gérard commence par expliquer que l’affiche a toujours eu son format actuel. Odile reconnaît cette continuité, puis lui demande de vérifier avec elle la place de l’adresse. Une autre participante propose d’imprimer les deux versions en petite taille pour voir ce qui reste lisible. Le groupe ne se range pas immédiatement à son avis. La discussion devient néanmoins plus concrète et son idée peut être examinée sans que personne ait besoin d’abandonner toute sa manière de faire.
 

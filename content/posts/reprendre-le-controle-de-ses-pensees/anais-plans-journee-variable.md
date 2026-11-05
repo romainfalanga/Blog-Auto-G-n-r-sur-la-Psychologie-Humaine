@@ -13,7 +13,7 @@ editorial_pack: "psychology-v10"
 draft: false
 ---
 
-Trois adresses entourées de bleu se suivent sur le carnet d'Anaïs : le marché, le centre culturel et le magasin où une commande attend. Ses plans pour une journée variable ressemblent encore à un itinéraire unique. Elle regarde les horaires, puis la notice de l'exposition qu'elle souhaite apporter à Mireille. Tout paraît compatible sur le papier. Son état du jour lui indique pourtant que cet enchaînement coûte davantage qu'elle ne le prévoit.
+Trois adresses entourées de bleu se suivent sur le carnet d'Anaïs : le marché, le centre culturel et le magasin où une commande attend. Hier, elle avait lié les trois arrêts par deux traits. Ce matin, elle revient sur les horaires du centre culturel. Elle aimerait trouver ce qui reste possible sans avoir à refaire la journée entière. Elle regarde les horaires, puis la notice de l'exposition qu'elle souhaite apporter à Mireille. Tout paraît compatible sur le papier. Son état du jour lui indique pourtant que cet enchaînement coûte davantage qu'elle ne le prévoit.
 
 À quarante-six ans, agente d'accueil municipale, Anaïs vit avec une polyarthrite diagnostiquée et suivie. Elle connaît les recommandations qui la concernent et ne cherche pas à passer outre pour sauver un samedi idéal. Elle ressent néanmoins une contrariété précise : elle dispose enfin d'une journée sans permanence, et cette disponibilité du calendrier ne lui donne pas automatiquement les capacités qu'elle attend.
 
@@ -83,7 +83,7 @@ Elle formule le message autour de l'organisation : « Je ne viens pas au centre 
 
 Après la journée, Anaïs regarde ce qui fonctionne pour préparer une prochaine fois. Elle ne se note pas selon la ressemblance avec le programme initial. Elle examine si le plan respecte ses besoins, les conseils reçus et les contraintes des personnes concernées. Une option utile aujourd'hui peut demander une révision la semaine suivante.
 
-## Anaïs retire une adresse et garde une conversation
+## Une adresse barrée
 
 Sur le carnet, elle barre le magasin et transforme le centre culturel en appel convenu. Benoît choisit de faire quelques achats pendant qu'elle préserve une période moins sollicitante. Ils gardent ensuite un repas simple ensemble. Le samedi ne ressemble pas à leur projet initial, et Anaïs le regrette encore. Elle n'utilise plus ce regret pour conclure qu'il ne reste rien.
 

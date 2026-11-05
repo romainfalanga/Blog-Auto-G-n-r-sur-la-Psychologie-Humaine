@@ -75,13 +75,13 @@ Après une interruption, Rémi s'accorde un bref contrôle de situation. Il retr
 
 À la fin du poste, il note une seule observation utile pour le lendemain : le support aide, gêne ou manque à un endroit précis. Il laisse de côté les appréciations globales comme « journée catastrophique ». S'il oublie la trace, il examine ce qui l'en empêche : stylo inaccessible, urgence réelle, consigne contradictoire. L'erreur devient une information pour ajuster l'organisation, sans être banalisée quand une correction professionnelle est nécessaire.
 
-## Rémi commence à demander des transitions possibles
+## Le lot bleu attend son tour
 
 Le chargement suivant ne ressemble pas à une démonstration parfaite. Une feuille glisse au sol, un collègue pose sa question avant de voir le contrôle en cours et Rémi répond par réflexe. Il retrouve cependant les mots « référence à vérifier » sur son support. Au lieu de recompter toute la palette, il reprend au contrôle indiqué, après avoir vérifié que le lot ne change pas. Il gagne surtout une certitude sur la prochaine action.
 
 Claire accepte un essai pendant une semaine et demande un retour sur les difficultés. Rémi apprécie cet accord précis, mais reste contrarié de devoir expliquer quelque chose qui lui paraît évident une fois nommé. Il ne transforme pas cette irritation en preuve d'échec. Le quai demeure bruyant et les demandes restent nombreuses. L'objectif actuel est plus modeste : éviter certaines reprises inutiles et rendre visibles celles que l'équipe ne peut pas supprimer.
 
-Au retour à la colocation, Julie lui demande si sa journée lui laisse assez d'énergie pour préparer le repas commun. Rémi dit qu'il préfère couper les légumes avant de discuter de la facture d'électricité. Ce n'est pas une règle qu'il impose dans tout l'appartement. Il nomme simplement une transition dont il a besoin ce soir. Julie accepte, puis lui rappelle la facture une fois le plan de travail dégagé. Le repère passe par une conversation, sans ajouter une application.
+Le soir, Julie ouvre l’enveloppe de la facture au moment où Rémi sort les carottes. « Je peux couper ça avant ? » Elle pose les papiers sur le rebord, où ils ne prendront pas l’eau. À la fin du repas, c’est lui qui les rapproche. Il a encore en tête l’étiquette déchirée et la façon dont il a perdu la ligne, mais Julie lui demande seulement de vérifier le montant qui les concerne tous les deux.
 
 ---
 

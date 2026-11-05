@@ -13,7 +13,7 @@ editorial_pack: "psychology-v10"
 draft: false
 ---
 
-« Ça va comment depuis la dernière fois ? » Anaïs lit cette question en haut de la feuille qu'elle prépare pour sa consultation. Décrire ses sensations lui semble moins facile que répondre par une conclusion : ça va mal, ça repart, elle en fait trop. Les mots arrivent avec leurs explications déjà attachées. Elle cherche une manière de raconter ce qui change sans décider à la place du professionnel de ce qui le cause.
+« Ça va comment depuis la dernière fois ? » Anaïs lit cette question en haut de la feuille qu'elle prépare pour sa consultation. Elle essaie d’abord « Ça repart ». Au guichet, ses doigts l’ont gênée à deux moments très différents. Elle retourne la feuille pour trouver assez de place pour les décrire. Les mots arrivent avec leurs explications déjà attachées. Elle cherche une manière de raconter ce qui change sans décider à la place du professionnel de ce qui le cause.
 
 À quarante-six ans, agente d'accueil municipale, elle vit avec une polyarthrite diagnostiquée et suivie. Elle connaît certaines manifestations et les consignes qui la concernent. Les jours ne lui donnent pourtant pas tous la même expérience. Une gêne peut compliquer un geste familier ; une fatigue peut réduire sa disponibilité alors que le programme semble raisonnable. Elle souhaite apporter ces différences au rendez-vous plutôt que les réduire à une appréciation globale.
 
@@ -83,7 +83,7 @@ Elle peut demander : quels changements dois-je signaler, par quel canal et dans 
 
 Si elle souhaite être accompagnée, elle en discute avec Benoît et avec le professionnel. Elle peut aussi préférer un entretien seule. L'appui ne doit pas lui retirer sa parole. Une personne présente peut aider à retenir une information sans devenir celle qui décide de ce qu'Anaïs ressent ou de ce qui l'inquiète.
 
-## Anaïs apporte des exemples au rendez-vous
+## Une feuille pour le médecin
 
 Sur sa feuille, elle remplace « je ne tiens plus rien » par deux situations précises. Elle conserve aussi une question sur la fatigue et une autre sur l'installation utilisée pour les notices. Le document tient sur une page. Elle n'y cherche plus la démonstration qu'elle mérite une écoute ; elle rassemble ce qu'elle souhaite examiner.
 

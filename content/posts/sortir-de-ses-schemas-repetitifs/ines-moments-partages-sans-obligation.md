@@ -15,7 +15,7 @@ draft: false
 
 « Il faut qu’on en profite vraiment. » Inès prononce cette phrase en étalant deux billets d’exposition sur le meuble de l’entrée. Clara demande ce que « vraiment » veut dire. Inès pense à une journée sans courses, sans travail et sans conversation difficile. Elle y ajoute silencieusement de la complicité, de la tendresse et une sensation nette de se retrouver. Le moment partagé n’a pas commencé qu’il porte déjà une liste de résultats à atteindre.
 
-À trente ans, Inès travaille comme bibliothécaire et vit avec Clara depuis trois ans. Elles viennent de traverser un déplacement de quatre jours en clarifiant les contacts et les retrouvailles. Leur lien gagne des repères. Inès remarque pourtant qu’une journée libre lui donne encore envie de vérifier que tout va bien entre elles. L’exposition sonore devient presque une occasion à réussir, alors qu’elle choisit initialement les billets par curiosité pour les machines présentées.
+Depuis le retour de Clara, chacune a repris ses habitudes à l’appartement. Inès avait choisi ces billets pour les machines dont elle avait vu les photos. En les posant sur le meuble, elle s’entend pourtant attendre davantage de la journée que d’avoir le temps de les écouter.
 
 Sur le trajet, un tram reste immobilisé après un incident de circulation. Clara propose de marcher jusqu’au musée. Inès calcule le temps perdu, la visite raccourcie et le repas qui risque de se décaler. Elle sent monter une irritation qu’elle attribue au retard. Une autre attente apparaît : elle voudrait une journée assez harmonieuse pour confirmer tous les progrès de leurs conversations. Le trajet ordinaire semble menacer une démonstration qu’elles n’annoncent jamais ensemble.
 
@@ -51,7 +51,7 @@ Au musée, Clara préfère écouter longuement une installation tandis qu’Inè
 
 Cette possibilité dépend d’un accord réel. Si l’une se sent régulièrement laissée seule lors de sorties annoncées comme communes, le besoin de présence mérite d’être discuté. Ici, elles proposent une courte séparation et un lieu de retour. L’espace personnel ne sert pas à effacer la demande initiale d’être ensemble. Il ajoute une souplesse qui permet à chacune de rester intéressée, plutôt que de tenir une présence uniquement pour respecter une image du couple.
 
-## Trois techniques pour organiser une présence libre et concrète
+## Partir ensemble sans choisir la fin à l’avance
 
 ### 1. Dire l’intention et retirer le résultat implicite
 
@@ -77,13 +77,13 @@ Le bilan peut inclure une difficulté. Inès trouve leur courte séparation dans
 
 Enfin, elles choisissent ce qu’elles gardent pour une prochaine fois et laissent le reste. Inès ne transforme pas une réussite en nouvelle obligation régulière. Le musée n’a pas à devenir leur rituel obligatoire, et une activité commune n’a pas besoin de s’améliorer à chaque essai. Une relation peut être nourrie par des moments modestes, parfois imparfaits, dont chacune conserve le droit de dire ce qu’elle apprécie et ce qu’elle souhaite changer.
 
-## Inès rentre sans réclamer une suite à la journée
+## Deux manières d’écouter
 
 Dans la dernière salle, un mécanisme fait grincer des lames de bois avec une régularité étrange. Inès préfère le son produit par un autre appareil. Clara reste écouter, puis la rejoint près des casiers. Elles racontent leurs impressions différentes en récupérant les manteaux. La conversation comporte des désaccords de goût et quelques détails amusants. Elle ne fournit aucune preuve définitive sur leur avenir ; elle leur donne un souvenir qu’elles choisissent de partager.
 
 Au retour, Clara souhaite continuer un projet personnel. Inès se surprend à penser qu’elles pourraient prolonger leur journée à deux, puis reconnaît que ce souhait constitue une nouvelle proposition. Elle le dit sans présenter le temps déjà passé comme un acompte. Clara préfère garder son projet et propose de cuisiner ensemble plus tard. Inès accepte, un peu déçue et contente de la visite. Les deux émotions n’obligent pas à reprendre la négociation.
 
-Elles préparent ensuite un repas simple et parlent d’autre chose. La journée ne comporte pas de rapprochement intime supplémentaire. Inès peut la considérer comme un temps commun valable, sans chercher ce qui manque au programme pour lui donner une fin correcte. Elle garde encore des attentes et des moments d’hésitation. Elle dispose désormais de mots pour les reconnaître avant qu’ils deviennent des obligations invisibles adressées à Clara.
+Elles mangent à la maison et ne cherchent pas à refaire le parcours ensemble. Clara reprend son projet après le dîner. Inès cherche le nom de l’appareil qu’elle a préféré et lit quelques lignes à son sujet. Elle en parlera peut-être à Clara demain, si l’envie lui reste.
 
 ---
 

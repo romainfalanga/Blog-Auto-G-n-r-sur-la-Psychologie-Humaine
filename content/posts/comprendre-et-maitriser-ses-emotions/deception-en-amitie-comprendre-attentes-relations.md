@@ -13,9 +13,9 @@ contexte: "en amitié"
 draft: false
 ---
 
-Léa ajuste ses lunettes tout en replaçant une mèche de ses cheveux bruns bouclés derrière son oreille. Elle se trouve au deuxième étage de la bibliothèque universitaire, entourée par l'odeur du vieux papier et le murmure constant des pages que l'on tourne. Depuis qu'elle a découvert ce vieux dessin dans le garage de sa mère Anne il y a deux jours, un croquis qui révélait son invisibilité d'enfant, elle se demande ce qui l’amène à prendre autant de responsabilités dans ses amitiés.
+Zoé a annulé leur déjeuner. Deux heures plus tard, Léa la voit à la bibliothèque, entourée de trois étudiants. Elle relit le message de midi : « Désolée, je ne peux pas. » Elle cherche une précision qui n’y figure pas. Devant elle, son manuel est resté à la même page.
 
-Ses yeux noisette se fixent soudain sur une table près de la grande baie vitrée. Zoé, sa meilleure amie, est là. Elle ne révise pas. Elle est entourée de trois étudiants de la filière communication, ceux que Léa trouve toujours un peu superficiels. Ils rient aux exclats, s'échangeant des vidéos sur leurs téléphones. Zoé semble radieuse, totalement absorbée par cette dynamique de groupe dont Léa est exclue. Pourtant, Zoé lui avait envoyé un message le matin même pour décliner leur déjeuner habituel, prétextant une surcharge de travail et un besoin de calme absolu.
+À leur table, quelqu’un tourne son ordinateur pour montrer une image. Zoé rit avant même de la voir. Léa avait cru qu’elle avait dû partir en urgence. Elle a envie de traverser la salle et de lui demander devant les autres ce qu’elle avait de si important.
 
 Un froid piquant envahit la poitrine de la jeune femme. Ce n'est pas le rejet brûlant qu'elle a ressenti sur cette terrasse la semaine dernière, c'est quelque chose de plus lourd, de plus amer. Elle sent le poids de tous les services rendus, de toutes les heures passées à écouter les déboires amoureux de Zoé, de tous les résumés de cours qu'elle lui a préparés. Elle se rend compte qu'elle a investi une énergie colossale dans cette relation, espérant secrètement une loyauté sans faille en retour. Cette fois, la réalité ne colle plus du tout à l'image idéale qu'elle se faisait de leur lien.
 
@@ -55,7 +55,7 @@ Au lieu de ruminer ou de lancer des reproches qui braqueront l'autre, cette tech
 
 Cette technique invite à ne pas placer tous ses besoins affectifs sur une seule personne. En psychologie, on parle de soutien social diversifié. L'exercice est simple : listez différents types de besoins (besoin de rire, besoin d'être écouté, besoin de travailler, besoin d'aventure) et associez-y plusieurs personnes différentes. Si Zoé est la personne avec qui Léa aime rire, elle n'est peut-être pas celle qui peut lui offrir la sécurité émotionnelle dont elle a besoin pour ses études. En acceptant que Zoé ait des limites, Léa diminue la pression qu'elle met sur cette amitié et se protège des futures déceptions en investissant dans d'autres liens, comme son bénévolat ou ses échanges avec le Dr Moreau.
 
-## Évolution de Léa face à la situation
+## Le déjeuner annulé
 
 Léa reste immobile quelques minutes, observant le manège de Zoé à distance. Elle sent une larme couler le long de son nez, mais elle ne l'essuie pas tout de suite. Elle se souvient de ce qu'elle a appris sur le rejet social lors de ses précédentes réflexions. Elle comprend que son malaise actuel n'est pas seulement dû au comportement de Zoé, mais à l'histoire qu'elle se raconte. Elle s'était persuadée qu'en étant l'amie parfaite, elle serait indispensable. Elle pensait pouvoir réparer le manque d'attention de son père Michel en étant omniprésente pour Zoé.
 
@@ -65,7 +65,7 @@ Elle sort son carnet de notes de son sac. Elle ne commence pas par écrire une l
 
 Léa décide de ne pas s'enfuir de la bibliothèque. Elle ne va pas non plus interrompre le groupe de Zoé pour faire une scène. Elle choisit de s'installer à une table un peu plus loin, hors de la vue de son amie, pour se concentrer sur son propre travail. Elle se promet d'envoyer un message calme à Zoé plus tard dans la soirée, non pas pour la culpabiliser, mais pour lui dire qu'elle a été blessée par le décalage entre ses paroles et ses actes. Pour la première fois, Léa ne cherche pas à sauver la situation ou à s'excuser d'exister. Elle s'occupe de son propre espace intérieur.
 
-En quittant la bibliothèque deux heures plus tard, elle croise son propre reflet dans la porte vitrée. Elle voit une jeune femme qui, malgré ses blessures, commence à comprendre que l'amitié n'est pas un contrat d'assurance contre la solitude. Elle se sent plus solide, non pas parce qu'elle ne souffre plus, mais parce qu'elle sait quoi faire de sa souffrance. Elle repense au Dr Moreau qui expliquait que la maturité émotionnelle commence là où l'idéalisation s'arrête. Ce soir, Léa rentre dans son studio avec une vision moins parfaite du monde, mais beaucoup plus juste.
+Deux heures plus tard, le message qu’elle a envoyé à Zoé n’a pas encore reçu de réponse. Léa a presque envie de le supprimer. Elle glisse son manuel dans son sac et descend. Ce qu’elle a écrit tient toujours : elle avait réservé ce midi et aimerait savoir quand elles pourront se voir.
 
 ---
 

@@ -15,7 +15,7 @@ draft: false
 
 Le carrelage de la piscine garde la chaleur sous les pieds d’Inès. Cécile lui montre la photo qu’elles viennent de faire près du bassin extérieur. Inès voit d’abord son bras, puis le pli du tissu sur son ventre. Elle oublie presque le jeu où elles essaient de rejoindre le bord sans éclater de rire. Son image du corps se rétrécit soudain à quelques détails figés dans un cadre qu’elle agrandit avec deux doigts.
 
-Inès a trente ans, est bibliothécaire et vit avec Clara depuis trois ans. Elle ne souhaite pas que Cécile supprime la photo pour tout le monde. Elle demande simplement qu’elle ne soit pas publiée. Son amie accepte et lui tend sa serviette. Le droit de choisir ce qui circule lui semble plus accessible depuis leurs discussions sur la vie privée. Cela ne calme pourtant pas la comparaison qui se poursuit pendant qu’elle remet ses chaussures mouillées.
+Inès demande à Cécile de ne pas publier la photo. Cécile acquiesce et lui tend sa serviette. Il lui a semblé plus simple de dire ce qu’elle ne veut pas voir circuler depuis la discussion du carnet avec Clara. Elle regarde quand même son bras dans la glace du vestiaire avant d’enfiler son chandail.
 
 Dans le tram du retour, Inès imagine déjà comment Clara verra ce corps le soir. Elle se représente leur chambre comme une scène et cherche la posture qui cacherait les détails observés sur la photo. Clara n’émet aucune critique ; elle n’est même pas présente. L’inquiétude arrive avec un regard supposé, qu’Inès fabrique à partir de sa propre inspection. Elle se surprend à chercher une stratégie pour paraître naturelle plutôt qu’à se demander de quoi elle a envie.
 
@@ -51,7 +51,7 @@ Inès envisage de demander à Clara si elle trouve son ventre différent. Un com
 
 Clara peut dire qu’elle aime être près d’elle, sans discuter chaque détail comme un défaut à réfuter. Inès peut préciser ce qui l’aide : entendre une parole chaleureuse, choisir ses vêtements ou éviter les commentaires comparatifs. Si un commentaire réel la blesse, elle peut en parler directement. Il ne serait pas juste de renvoyer toute difficulté à sa seule interprétation. Les faits du lien restent importants, même lorsqu’une inquiétude intérieure joue un rôle.
 
-## Trois techniques pour retrouver une place dans son expérience
+## Revenir à ce que le corps perçoit
 
 ### 1. Distinguer description, jugement et scénario
 
@@ -77,13 +77,13 @@ Elles conviennent que les commentaires sur les corps, y compris les comparaisons
 
 Pour préparer votre propre demande, partez d’un effet concret : « Quand la conversation se concentre sur mon apparence, je continue à la surveiller. J’aimerais parler de ce qui nous fait du bien dans le moment. » Adaptez les mots à votre expérience réelle. Si l’autre fait des remarques humiliantes, la demande doit aussi porter sur leur arrêt. Le soutien relationnel ne consiste pas à mieux tolérer une critique répétée.
 
-## Inès retrouve un souvenir plus large que la photo
+## Le bassin avant la photo
 
 Le lendemain, Cécile lui raconte à nouveau le jeu dans le bassin et le rire qui leur fait perdre la course. Inès peut retrouver le froid de l’eau sur les chevilles et la rugosité de la margelle. La photographie n’occupe plus tout le souvenir. Elle ne revient pas sur sa demande de ne pas la publier. Cette limite reste compatible avec une journée dont elle veut conserver le plaisir et la complicité.
 
 Chez elle, elle choisit une proximité avec Clara et garde un vêtement dans lequel elle se sent bien. Ce choix ne prouve ni progrès ni recul à lui seul. L’élément nouveau tient à la question qu’elle se pose : est-ce ce qui me convient, plutôt que ce qui réussira le mieux à dissimuler une imperfection supposée ? Elle ne trouve pas toujours une réponse nette. Elle peut néanmoins ralentir avant de faire de chaque ajustement une obligation.
 
-Certains jours, les commentaires intérieurs reprennent de la place. Inès retourne alors aux distinctions simples, sans passer la soirée à se corriger. Son expérience ne devient pas parfaite. Elle gagne quelques moments où son attention revient à une conversation, à une sensation agréable ou à une préférence claire. Ce sont des changements situés, qui n’exigent pas qu’elle se sente réconciliée une fois pour toutes avec toutes les images de son corps.
+La photo lui revient un soir alors qu’elle se change. Elle se rappelle aussi que Cécile riait trop pour nager droit. Son regard n’a pas changé partout, tout le temps. En pensant au bassin, elle retrouve pourtant un détail qu’elle avait oublié pendant qu’elle regardait son bras : elle s’était bien amusée.
 
 ---
 

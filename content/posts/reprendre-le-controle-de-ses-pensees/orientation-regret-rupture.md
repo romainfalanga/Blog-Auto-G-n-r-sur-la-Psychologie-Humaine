@@ -13,9 +13,9 @@ contexte: "après une rupture amoureuse"
 draft: false
 ---
 
-Adrien étale les pages sur la table de son atelier, les croquis de Marina se chevauchent comme des feuilles mortes. Le papier crisse sous ses doigts, l'encre encore humide dégage une odeur métallique qui le ramène à la dernière dispute. Il relève la tête, la pièce est éclairée par la lampe industrielle au-dessus de son plan de travail, le lo-fi en fond forme un tapis sonore qui noie à moitié ses pensées. Aujourd'hui, 1er mai 2026, la pile de dessins devient un album de « j'aurais dû » qui colonise son esprit.
+Le dernier dessin de Marina s’est collé au précédent. Adrien sépare les feuilles, lentement pour ne pas arracher un coin. Il se rappelle ce qu’elle avait dit la dernière fois qu’ils se sont disputés et ce qu’il aurait préféré avoir répondu. Puis le téléphone vibre : Antoine attend encore sa version. La phrase qu’il répète en silence ne donne aucune indication sur le fichier à envoyer.
 
-Un mail de son client Antoine attend une réponse dans sa boîte. Ce message, demandant une énième révision, aurait normalement déclenché chez lui cette vieille sensation d'incompétence héritée de ses rapports complexes avec son père, mais aujourd'hui, la paralysie est différente. La phrase qui tourne dans sa tête n'est pas liée au logo : elle ramène toujours à la même image, la fin brutale avec Marina et la question qui s'impose sans cesse, « si j'avais fait autrement ». Il reconnaît le schéma, il y a quelques semaines il notait déjà ces répétitions dans son carnet, un outil hérité de ses prises de conscience lors de ses précédents exercices contre la rumination, et pourtant le cycle se renforce. La décision de quitter le CDI pour devenir freelance, l'épuisement professionnel, le rejet par Marina, tout se mêle et nourrit un regret qui entrave son énergie créative.
+La demande d’Antoine attend depuis le matin. Ce message, demandant une énième révision, aurait normalement déclenché chez lui cette vieille sensation d'incompétence héritée de ses rapports complexes avec son père, mais aujourd'hui, la paralysie est différente. La phrase qui tourne dans sa tête n'est pas liée au logo : elle ramène toujours à la même image, la fin brutale avec Marina et la question qui s'impose sans cesse, « si j'avais fait autrement ». Il reconnaît le schéma, il y a quelques semaines il notait déjà ces répétitions dans son carnet, un outil hérité de ses prises de conscience lors de ses précédents exercices contre la rumination, et pourtant le cycle se renforce. La décision de quitter le CDI pour devenir freelance, l'épuisement professionnel, le rejet par Marina, tout se mêle et nourrit un regret qui entrave son énergie créative.
 
 Il se lève, marche jusqu'à la fenêtre qui donne sur la cour pavée et saisit son carnet. Plutôt que d'effacer ou de fuir, comme il l'avait fait au canal Saint-Martin en se cachant derrière des tâches techniques stériles, il feuillette les entrées où il avait appris à repérer ses pensées automatiques. Il sait désormais que la rumination n'est pas neutre : elle travaille comme un acide qui ronge la confiance et transforme le passé en condamnation. Aujourd'hui, il veut comprendre pourquoi cette orientation vers le regret prend autant de place.
 
@@ -70,7 +70,7 @@ Exercice concret :
 
 Cela permet de rendre visible la possibilité d'agir immédiatement et de casser le cercle de la procrastination.
 
-## Évolution du personnage face au regret
+## Le dessin et le contrat
 Il reprend un croquis, mais cette fois-ci il suit l'exercice de restructuration : il écrit sur la marge « ce que je sais » et « ce que j'imagine ». Là où autrefois l'image ravivait la douleur, il inscrit des éléments concrets, comme les discussions ratées, les nuits de fatigue après des semaines de non-dits ou son manque d'expérience dans la gestion des émotions. Il appelle ensuite sa sœur Charlotte pour lui raconter la méthode, et elle répond avec un rire franc qui allège l'atmosphère. Ils conviennent d'un défi : Adrien enverra une version du logo révisée à Antoine avant la fin de la journée.
 
 Il applique la balance des preuves à une pensée plus globale : « je suis incapable d'aimer ». La colonne de droite se remplit : projets menés, soutien offert à Charlotte lors de son déménagement, moments où il a su se montrer vulnérable sans être rejeté. Ce n'est pas une victoire totale, mais il sent moins le besoin de tourner et retourner une même scène. L'atelier redevient un espace d'expérimentation, loin de l'amertume qui l'avait poussé à s'isoler au square du Temple.
@@ -78,6 +78,8 @@ Il applique la balance des preuves à une pensée plus globale : « je suis inca
 Il accepte une proposition d'exposition collective dans une galerie, non pour immortaliser Marina mais pour explorer un thème qui l'intéresse : la dissonance entre image interne et image perçue. La perspective d'un engagement concret déplace l'énergie du regret vers la création. Il utilise les micro-engagements et, à la fin de la journée, il a envoyé deux mails, dessiné trente minutes sur un motif urbain et noté, dans son carnet, le sentiment d'avoir retrouvé une part de contrôle.
 
 Ce processus fait suite à ses apprentissages précédents : reconnaître sa rumination, utiliser le carnet pour interroger les pensées et sortir du déni qui célébrait la façade professionnelle tout en évitant la douleur. Aujourd'hui, il compose avec ses fragilités au lieu de les laisser écrire le scénario entier de sa vie.
+
+Il envoie la version à Antoine. Le croquis de Marina reste sur la table, sous une feuille vierge qu’il prendra pour son premier essai d’exposition.
 
 ---
 

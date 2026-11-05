@@ -47,11 +47,11 @@ Prenez un carnet et notez ce qui est vraiment important pour vous dans votre tra
 3. S’entraîner à dire non avec bienveillance  
 Si Stéphane a la marge de le faire, il peut dire : « Je peux m'en charger jeudi. Si c'est pour demain, quel autre dossier dois-je décaler ? » Quand les demandes dépassent durablement les moyens, discuter de la charge de travail peut être plus utile que de chercher la formule parfaite.
 
-### Le chemin de Stéphane vers une meilleure estime de lui-même
+### Pour jeudi, s’il faut choisir
 
-En appliquant ces techniques, Stéphane commence à sentir un léger changement. Lors d’une réunion, il prend le temps de respirer avant de répondre et ose exprimer une idée différente, même s'il redoute un peu la réaction. Il relit régulièrement ses valeurs écrites et réalise qu’il souhaite plus de respect pour son temps et ses compétences. Peu à peu, il apprend à dire non, d’abord timidement, puis avec plus d’assurance.
+À la fin du point d’équipe, le directeur demande si quelqu’un peut prendre le compte rendu client pour le lendemain. Stéphane a déjà ouvert son agenda quand il voit le rendez-vous de Maxime, noté à dix-huit heures. Il peut prendre le compte rendu pour jeudi. Si c’est pour demain, demande-t-il, quel dossier faut-il décaler ? Le directeur garde le document devant lui et dit qu’il reviendra vers l’équipe.
 
-Ce chemin n’est pas sans difficulté : l’envie de plaire ne disparaît pas du jour au lendemain, et parfois, la peur de décevoir ressurgit. Mais Stéphane comprend qu’il peut changer ses habitudes, pas en les niant, mais en les accueillant avec douceur et en choisissant ce qui lui fait du bien.
+En quittant la salle, Stéphane a envie de retourner proposer de tout faire. Il aperçoit son collègue Marc, qui a suivi la négociation de bout en bout, et lui demande une précision sur le dossier plutôt que son avis sur sa réponse. Il ne sait toujours pas qui prendra le compte rendu.
 
 ### Reconnaissance et limites peuvent coexister
 

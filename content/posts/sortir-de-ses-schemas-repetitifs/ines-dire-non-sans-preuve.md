@@ -15,7 +15,7 @@ draft: false
 
 « J’ai peut-être mal à la tête. » Inès entend sa propre phrase et sait qu’elle ne décrit pas ce qu’elle ressent. Elle veut seulement refuser le massage sensuel que Clara vient de proposer. Elles disposent d’une journée libre, la vaisselle est faite et aucune urgence ne les attend. Inès cherche une preuve de son droit à dire non, comme si l’absence d’envie n’avait pas assez de consistance dans une journée aussi agréable.
 
-Elle a trente ans, travaille comme bibliothécaire et vit avec Clara depuis trois ans. Leurs conversations récentes lui permettent de poser certaines limites et de réparer des mots blessants. Elle connaît les principes qu’elle souhaite suivre. Pourtant, au moment où rien de visible ne semble empêcher le rapprochement, elle invente un début d’empêchement. Clara lui propose de baisser le store et de lui apporter de l’eau. La réponse est attentionnée et repose sur une information inexacte.
+À la gare, Inès avait dit qu’elle voulait s’arrêter, et Clara s’était arrêtée. Cette fois, elle croit qu’un refus avant même d’avoir essayé demandera davantage d’explications. Clara lui propose de baisser le store et d’aller chercher de l’eau. Inès la regarde se lever et mesure ce qu’elle lui a laissé comprendre.
 
 Inès pourrait accepter cette aide et attendre que la proposition s’éloigne. Elle voit cependant le problème qu’elle crée : si la douleur supposée disparaît, le motif présenté disparaît avec elle. Il faudrait alors un autre obstacle, ou un accord donné pour rester cohérente avec sa première explication. Elle pose le coussin qu’elle tient et revient sur sa phrase : « En fait, je n’ai pas mal à la tête. Je cherche une raison parce que je n’ai pas envie de ce massage. »
 
@@ -51,7 +51,7 @@ Si Inès prétend être trop fatiguée, elle peut ensuite se sentir empêchée d
 
 Elle peut choisir de corriger un motif inexact tout en gardant sa limite. « Ce que je viens de dire n’est pas juste. Je ne souhaite simplement pas ce geste maintenant. » L’honnêteté porte sur la raison, le refus sur son choix. Clara peut être contrariée par l’information inventée et en parler. Cela ne crée pas pour Inès une obligation de consentir afin de réparer le mensonge. Les deux sujets doivent conserver leurs frontières.
 
-## Trois techniques pour laisser le non suffire
+## Laisser le refus tenir tout seul
 
 ### 1. Repérer la preuve que l’on s’apprête à fabriquer
 
@@ -77,13 +77,13 @@ Lorsqu’un refus réveille un doute plus large, elles peuvent également choisi
 
 Pour essayer ce cadre, vérifiez qu’un report ne sert pas à éviter indéfiniment une difficulté commune. Un prochain moment réaliste, ou une demande d’aide professionnelle si les échanges restent bloqués, peut être nécessaire. Mais accepter cette responsabilité n’implique pas de céder aujourd’hui. Un couple peut examiner ses attentes, ses différences et sa compatibilité en maintenant pour chaque personne une liberté concrète dans tous les gestes intimes.
 
-## Inès garde sa journée agréable après le refus
+## Le store peut rester levé
 
 Elles finissent par travailler chacune sur une activité personnelle. Clara classe des photos de paysage. Inès rempote une plante dont les racines dépassent du contenant. Le frottement de la terre contre ses doigts l’intéresse davantage que le programme qu’elle imagine devoir justifier. Elle n’a pas besoin de se comporter comme une personne malade pour rendre son refus cohérent. Sa journée peut rester plaisante, active et libre de proximité non souhaitée.
 
 Au repas, elle revient sur le faux motif et présente ses excuses pour cette information. Clara explique que cela lui donne envie de vérifier si les réponses suivantes sont directes. Inès l’entend sans promettre une aisance parfaite. Elle propose plutôt de corriger lorsqu’elle se surprend à inventer un empêchement. Clara dit qu’elle peut recevoir un non sans chercher une raison. Ce sont des engagements de comportement, plus modestes qu’une garantie de ne plus jamais hésiter.
 
-La fois suivante, Inès ajoute encore une explication, mais elle est vraie et choisie. Elle ne se donne pas pour objectif de devenir mystérieuse ou avare de contexte. Elle cherche simplement à savoir qu’elle pourrait s’arrêter après le non et rester respectée. Cette possibilité change la fonction de ses paroles : le contexte devient une confidence éventuelle, plutôt qu’un dossier à présenter pour obtenir un droit qui lui appartient déjà.
+La fois suivante, Inès donne une raison parce qu’elle a envie de la dire. Elle s’entend commencer une deuxième explication, puis s’arrête. Elle revient au rempotage et demande à Clara si elle a gardé le plus grand pot.
 
 ---
 

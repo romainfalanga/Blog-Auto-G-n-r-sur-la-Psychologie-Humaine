@@ -17,7 +17,7 @@ Odile tire une chaise à l’extrémité de la longue table de la bibliothèque.
 
 Son téléphone affiche un message de Lucie : Gérard propose un déjeuner, sa fille pense que cela lui ferait du bien. Odile apprécie Gérard, mais elle a déjà choisi son programme. Elle prévoit de déjeuner simplement, de lire et de chercher un carnet pour ses dessins. Elle ne souhaite ni justifier cet après-midi par une grande fatigue ni inventer un rendez-vous. Pourtant, elle sait que la mort de Françoise a changé la façon dont certains proches interprètent ses refus. Un moment seule devient vite, à leurs yeux, un signe de danger.
 
-À soixante-quatorze ans, Odile vit seule depuis longtemps par choix. Elle voit régulièrement Josiane, téléphone à Lucie et participe parfois aux activités du quartier. L’absence de sa sœur ne se confond pas avec l’absence de tout entourage. Il lui arrive de manquer d’une conversation précise, impossible à retrouver ailleurs ; il lui arrive également de savourer une heure sans conversation. Devant le message, elle craint que défendre ce second besoin lui interdise ensuite de reconnaître le premier. Elle ne veut pas être enfermée dans le rôle de celle qui préfère toujours se débrouiller seule.
+Odile n’a pas attendu de vivre ce deuil pour aimer certaines heures seule. Elle voit Josiane, appelle Lucie et se rend parfois aux activités du quartier. Ce qui lui manque à cet instant, c’est de pouvoir montrer à Françoise la photo de la mercerie et d’entendre son avis. Même si elle acceptait de déjeuner avec Gérard, ce manque serait encore là. Elle a aussi envie de rester à cette table et de recopier une lettre jusqu’à voir comment elle est faite.
 
 Elle répond finalement qu’elle remercie Gérard et préfère garder son après-midi de lecture. Elle ajoute qu’elle aimerait le voir vendredi. La proposition n’est pas un alibi : ce rendez-vous lui convient réellement. Puis elle retourne à la photographie de la mercerie. Quelques minutes plus tard, elle découvre qu’elle relit la même légende, occupée à imaginer la réaction de sa fille. Le temps seule qu’elle désirait est en train de devenir un débat intérieur avec un public absent.
 
@@ -29,7 +29,7 @@ Le sentiment de solitude peut naître d’un écart entre les liens que l’on s
 
 Le NIH présente plusieurs manières de développer ou d’entretenir des relations, sans réduire celles-ci à une fréquence unique de sorties. Pour Odile, les liens disponibles et les temps seuls peuvent se soutenir mutuellement. Un après-midi tranquille lui permet de poursuivre un intérêt qui lui appartient ; une rencontre choisie lui offre autre chose. Elle n’a pas à transformer cette complémentarité en équilibre parfaitement calculé. La question utile reste située : ce temps seule me convient-il maintenant, et ai-je des possibilités de relation lorsque je les souhaite ?
 
-## Comment distinguer un choix personnel d’une solitude qui pèse ?
+## Une préférence et un obstacle ne se ressemblent pas
 
 ### Le soulagement immédiat ne raconte pas toute l’expérience
 
@@ -43,7 +43,7 @@ La réponse à Gérard comporte un refus et une possibilité de rencontre. Odile
 
 Lorsqu’un objet rappelle Françoise ou qu’une démarche paraît pénible, Odile peut souhaiter une présence. Cette demande ne contredit pas son refus du déjeuner. L’autonomie comprend aussi la possibilité de choisir et de solliciter des aides. Si elle tente de protéger une image de parfaite indépendance, elle risque de ne plus demander ce qui lui serait utile. À l’inverse, accepter une aide ponctuelle ne donne pas à son entourage le pouvoir d’organiser toutes ses journées. Les besoins changent ; les accords peuvent rester précis plutôt que définir une identité de personne solitaire ou dépendante.
 
-## Trois pistes pour garder le choix et les liens
+## Dire ce qu’on souhaite garder pour soi
 
 ### 1. Nommer ce que l’on souhaite faire de ce temps
 
@@ -57,7 +57,7 @@ Sans compter mécaniquement ses rencontres, Odile peut identifier les interlocut
 
 Odile peut dire à Lucie : « J’aime cet après-midi seule. Cela ne veut pas dire que je voudrai toujours rester chez moi. Si je souhaite une présence, j’aimerais pouvoir te le demander. » Elle ne garantit pas qu’elle appellera immédiatement chaque fois qu’elle se sent mal ; ce serait une promesse difficile à tenir. Elle donne plutôt une indication sur la manière dont sa fille peut rester en lien sans surveiller son emploi du temps. Lucie peut également exprimer ses inquiétudes, surtout si elle observe des changements concrets. Une conversation utile porte alors sur ces faits, les besoins et les possibilités, plutôt que sur l’idée générale qu’une personne endeuillée ne devrait jamais passer un dimanche seule.
 
-## Odile garde son après-midi et prépare une rencontre
+## Vendredi lui convient
 
 À la bibliothèque, Odile éteint l’affichage des messages pour terminer quelques pages. Elle choisit trois enseignes à recopier, puis se rend à la papeterie voisine. Le vendeur lui propose un carnet très élégant qu’elle trouve trop cher. Elle en prend un plus simple, dont le papier convient à son crayon. Ce petit achat ne marque pas une renaissance. Il sert une curiosité déjà présente avant le décès et toujours disponible aujourd’hui, même si elle n’a pas la même énergie chaque semaine.
 

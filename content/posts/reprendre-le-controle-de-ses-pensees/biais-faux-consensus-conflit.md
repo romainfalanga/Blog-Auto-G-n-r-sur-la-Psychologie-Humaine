@@ -13,9 +13,9 @@ contexte: "en situation de conflit"
 draft: false
 ---
 
-La sonnette d'alarme du restaurant retentit pendant que Karim range une pile de factures sur le comptoir. Il a le téléphone collé à la paume et cherche l'énergie d'affronter la dispute qui l'attend à la maison. Depuis quelques jours, les échanges avec Sofia sont tendus : elle explique que ses décisions professionnelles écrasent la vie familiale. Karim pense que sa façon de piloter l'entreprise est la meilleure et il a la certitude que Sofia exagère. Ce soir, il est persuadé d'avoir raison et imagine qu'elle finira par reconnaître qu'il prend les bonnes décisions pour tout le monde.
+Karim finit de ranger les factures dans le second établissement. Sofia a demandé qu’ils parlent à son retour. Il compose déjà sa réponse en empilant les enveloppes. D’après lui, n’importe qui dans l’équipe aurait fait la même chose pour ne pas perdre le local de Marseille. Il n’a demandé à personne.
 
-Dans le trajet entre la cuisine du second établissement et la sortie, Karim rumine en silence. Il se rappelle la vidéo que Sami a envoyée il y a quelques semaines quand il a manqué la première dent tombée de l'enfant, et le visage déçu de Lina à son spectacle que Karim n'a pas vu (chapitre 1). Il sait que ses absences pèsent, pourtant il considère que l'effort investi pour maintenir la PME à flot justifie tout. Il est convaincu que la plupart des gens autour de lui approuvent sa méthode, ou du moins comprennent ses choix. Cette certitude lui rappelle amèrement le soir où il avait accepté un contrat en plein dîner d'anniversaire avec Sofia ; à l'époque, il pensait sincèrement qu'elle comprendrait l'importance de l'enjeu, alors qu'il ne faisait que projeter ses propres priorités sur elle.
+En quittant le restaurant, Karim pense à la console que Lina n’avait pas ouverte. Il s’était attendu à ce qu’elle soit contente. Avec Sofia, il s’apprête encore à expliquer ce qu’elle devrait penser d’une décision qui la concerne. Il efface le message qu’il venait de rédiger et garde la discussion pour ce soir.
 
 Assis sur la banquette d'une aire de livraison, il lit un message de Romain qui met en garde une nouvelle fois sur les finances. Karim suppose aussitôt que Romain veut freiner l'expansion par peur et non par prudence. Il imagine que ses équipes partagent son appétit du risque. Cette certitude rapide l'empêche d'entendre les signaux réels du conflit. Karim est confronté à une version familière d'un piège cognitif : il donne une réalité sociale à ses impressions, sans vérifier. Ce biais s'infiltre dans ses disputes et dans ses décisions impulsives.
 
@@ -84,9 +84,9 @@ Exercice concret :
 
 La pause laisse du temps pour vérifier un fait. Sa durée dépend du délai disponible, sans garantie sur l'effet émotionnel.
 
-## Évolution de Karim face à ses certitudes en pleine dispute
+## La réponse de Sofia
 
-Ce soir, quand Sofia évoque une nouvelle fois son exaspération, Karim sent l'ancienne mécanique s'enclencher : il prend mentalement la majorité pour acquise et s'apprête à réagir. Mais il se souvient aussi des situations précédentes, notamment du chapitre 2 où son impulsivité a coûté un dîner important, et du chapitre 6 où il a compris que les cadeaux ne remplacent pas la présence. Il se rappelle surtout son entêtement à Lyon, où il s'était accroché à son troisième restaurant par peur d'admettre son échec, persuadé que tout le monde attendait de lui qu'il réussisse à n'importe quel prix. Il retient sa première phrase et décide de préparer quelques questions.
+Le soir, Sofia lui demande ce qu’il a engagé à Marseille avant de lui dire qu’elle a annulé un rendez-vous pour être là. Karim répond d’abord que Romain finirait par comprendre. « Je te demande ce que tu as fait, moi », dit-elle. Il lui donne le montant et précise ce qu’il ignore encore. Elle ne lui dit pas que ce n’est pas grave.
 
 Assis à la table du salon, le téléphone posé face visible, il écrit rapidement trois voix imaginées : l'avis d'Amine, qui pourrait craindre une perte de présence paternelle ; l'avis d'un chef de cuisine, qui verrait la nouvelle ouverture comme un risque ; l'avis d'une cliente fidèle, qui pourrait attendre plus de constance. En relisant ces voix, Karim sent son ton se modifier. Il pose une question à Sofia au lieu d'argumenter et demande si elle accepte d'exprimer son point de vue par écrit pour qu'ils puissent en discuter calmement le lendemain.
 

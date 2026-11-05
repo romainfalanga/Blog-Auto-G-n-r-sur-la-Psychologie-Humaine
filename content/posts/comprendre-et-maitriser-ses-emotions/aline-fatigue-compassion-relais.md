@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-Aline range les pots de colle et remarque qu’elle n’écoute plus Bastien jusqu’au bout. La fatigue de compassion lui revient en tête, expression entendue lors d’une réunion entre associations. La permanence de réparation se termine, mais plusieurs récits restent présents : une personne évoque un logement mal chauffé, une autre l’isolement depuis un déménagement. Aline vient pour les objets et découvre souvent des difficultés qui les dépassent. Ce soir, elle souhaite que plus personne ne lui raconte rien.
+Aline range les pots de colle et remarque qu’elle n’écoute plus Bastien jusqu’au bout. Elle lui demande de répéter, puis s’aperçoit qu’elle attend surtout qu’il termine. À la réunion entre associations, quelqu’un avait parlé de fatigue de compassion. Sur le moment, elle avait pensé à des bénévoles plus exposés qu’elle. La permanence de réparation se termine, mais plusieurs récits restent présents : une personne évoque un logement mal chauffé, une autre l’isolement depuis un déménagement. Aline vient pour les objets et découvre souvent des difficultés qui les dépassent. Ce soir, elle souhaite que plus personne ne lui raconte rien.
 
 Cette envie la heurte. Elle se décrit habituellement comme attentive et disponible. Elle sait maintenant demander si une aide est souhaitée et limiter certaines missions. Pourtant, le cadre du local ne prévoit pas clairement ce qu’un bénévole fait lorsqu’un échange devient très personnel. Aline reste, écoute et cherche des solutions hors de ses compétences. Puis elle retrouve sa journée de quincaillerie sans véritable transition entre les deux rôles.
 
@@ -81,7 +81,7 @@ Elle prépare une phrase pour les échanges qui commencent à la fermeture : « 
 
 À la maison, elle peut demander à Étienne un moment tranquille ou une activité partagée, sans lui confier le rôle de réparer toute sa fatigue. Elle garde aussi un lien avec l’association qui ne passe pas uniquement par les récits difficiles : une formation technique, un rangement commun, un repas. Ces temps ne compensent pas un manque de moyens, mais peuvent rappeler la diversité de ce qui la relie au projet.
 
-## Aline commence à demander un cadre plus soutenant
+## Fermer le local à l’heure
 
 À la réunion, Aline décrit sa difficulté sans raconter la vie des visiteurs. Elle explique qu’elle poursuit mentalement certaines conversations et qu’elle ne sait pas toujours où s’arrête son rôle. Bastien reconnaît qu’il ne sait pas non plus comment orienter. Claire découvre que le problème ne concerne pas uniquement le nombre de chaises ou d’outils disponibles.
 

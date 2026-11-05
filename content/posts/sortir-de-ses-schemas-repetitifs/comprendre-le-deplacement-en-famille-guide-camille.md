@@ -13,9 +13,9 @@ contexte: "en famille"
 draft: false
 ---
 
-Camille ajuste la sangle de son sac à dos alors que la porte de l'appartement claque derrière elle. La journée en cardiologie a été éprouvante, marquée par une tension constante et l'odeur persistante de l'éther qui semble coller à sa peau. Elle a dû gérer une urgence vitale à midi, puis l'impatience d'une famille en colère contre les délais d'attente. À l'intérieur d'elle, une pression sourde demande à sortir, mais elle a gardé son masque d'infirmière impeccable, celui que sa mère Françoise lui a appris à porter dès l'enfance. Elle repense brièvement à Monsieur Laroche et à son habitude de s'oublier dans le soin, réalisant que cette abnégation qu'elle a longtemps vue comme une vertu est en train de saturer son espace mental.
+Les chaussures de foot de Léo empêchent Camille d’ouvrir entièrement la porte de la cuisine. Elle les repousse du pied. Quelques heures plus tôt, au service, une famille lui a reproché une attente dont elle ne pouvait pas décider seule. Elle n’y pense plus clairement lorsqu’elle appelle son fils, trop fort pour la distance qui les sépare.
 
-Elle entre dans la cuisine et voit Léo, son fils de dix ans, qui a laissé traîner ses chaussures de football au milieu du couloir. Près de lui, Emma joue avec des paillettes qui s'éparpillent sur le parquet fraîchement nettoyé. David, son mari, est au téléphone, une main sur une pile de courriers non ouverts. Soudain, une colère disproportionnée monte en elle. Elle n'est pas simplement agacée, elle est hors d'elle. Elle s'en prend à Léo avec une sévérité qui la surprend elle-même, fustigeant son manque de respect pour son travail acharné à la maison.
+Léo revient du salon pour voir ce qu’elle veut. Près de lui, Emma joue avec des paillettes qui s'éparpillent sur le parquet fraîchement nettoyé. David, son mari, est au téléphone, une main sur une pile de courriers non ouverts. Soudain, une colère disproportionnée monte en elle. Elle n'est pas simplement agacée, elle est hors d'elle. Elle s'en prend à Léo avec une sévérité qui la surprend elle-même, fustigeant son manque de respect pour son travail acharné à la maison.
 
 Léo baisse la tête, ses yeux bleus, si semblables aux siens, se remplissent de confusion. Emma s'arrête net de jouer, le corps tendu. En voyant le visage décontenancé de son fils, Camille sent un froid glacial l'envahir. Elle se souvient de ce qu'elle a appris ces dernières semaines sur ses schémas de pensée, notamment cette vulnérabilité au danger qu'elle a explorée récemment lorsqu'elle craignait pour sa propre santé. Cette fois, ce n'est pas la peur qui parle, c'est autre chose. Elle réalise qu'elle ne gronde pas Léo pour ses chaussures, mais qu'elle décharge sur lui tout le stress accumulé à l'hôpital et la frustration de ne jamais se sentir assez reconnue, ce même sentiment d'imposture qui la hante après chaque succès professionnel.
 
@@ -57,18 +57,18 @@ Quand Camille remarque qu’elle est sur le point de crier, elle peut prendre un
 
 Elle peut dire à Léo : « Je suis énervée, je prends une minute, puis je reviens. » Si elle a crié, elle peut s’excuser sans lui demander de l’apaiser ni détailler des situations de soin.
 
-## Évolution du personnage et apaisement
+## Une excuse, puis les chaussures
 
-Camille regarde Léo, qui est toujours immobile devant ses chaussures de foot. Elle voit dans ses yeux la même crainte qu'elle ressentait autrefois devant Françoise. Elle s'approche doucement et s'accroupit à sa hauteur. Elle ne cherche plus à justifier sa colère par le désordre. Au contraire, elle choisit la vérité. Elle lui explique calmement que sa journée a été lourde et qu'elle a déversé son stress sur lui de façon injuste. Elle lui demande pardon, car elle sait maintenant que son rôle de base de sécurité exige cette honnêteté.
+Camille regarde Léo, qui est toujours immobile devant ses chaussures de foot. Il tient ses lacets sans les nouer. Camille se rappelle qu’après un cri de Françoise elle-même attendait parfois avant de se remettre à bouger. Elle demande à Léo s’il veut qu’elle reste. Elle s'approche doucement et s'accroupit à sa hauteur. Elle ne cherche plus à justifier sa colère par le désordre. Au contraire, elle choisit la vérité. « Je t’ai crié dessus pour les chaussures. J’aurais pu te demander de les ranger autrement. Pardon. » Léo hoche la tête, reprend un lacet et demande s’il est encore à l’heure pour le foot.
 
 David s'approche et pose une main sur son épaule. Cette fois, Camille ne se raidit pas. Elle accepte ce soutien, se souvenant de ses récentes prises de conscience sur l'abnégation et le sacrifice de soi. Elle comprend qu'en voulant être l'infirmière parfaite et la mère parfaite, elle finit par devenir une source de tension pour ceux qu'elle aime. En identifiant le déplacement, elle commence à séparer ses différents mondes. Elle réalise que le tumulte de la cardiologie n'a pas sa place dans le rire de ses enfants.
 
 Le soir venu, alors qu'elle prépare les repas comme à son habitude, elle ne le fait plus dans une sorte de transe anxieuse ou en luttant contre un biais de négativité qui lui ferait voir tout ce qui reste à faire. Elle prend le temps de savourer le silence de la cuisine, sans culpabiliser de ne pas avoir tout réglé à l'hôpital. Son parcours se poursuit, mais ce soir, elle a repris la conversation avec Léo et pris la responsabilité d’avoir crié. Elle se sent plus légère, car elle a cessé de porter ses problèmes au mauvais endroit.
 
+Camille attend que Léo ait noué ses lacets. Elle lui tient la porte et lui demande s’il veut qu’elle l’accompagne jusqu’au terrain. Il veut descendre jusqu’au hall le premier. Camille le rejoint avec sa gourde.
+
 ---
 
 Camille ne sait pas toujours d’où vient sa colère. Elle peut agir sur ce qu’elle fait quand elle la ressent et demander de l’aide si les cris ou les gestes intimidants se répètent.
-
-Si vous vous reconnaissez dans le parcours de Camille et que vous sentez que vos réactions émotionnelles en famille vous échappent, sachez que vous n'êtes pas seul. Ces mécanismes sont souvent des héritages profonds qui demandent du temps pour être déconstruits. Chaque prise de conscience est un pas de plus vers votre équilibre.
 
 Si la charge émotionnelle devient trop lourde ou si ces schémas répétitifs affectent durablement votre vie familiale, solliciter l'aide d'un professionnel de la santé mentale est une démarche constructive. Un psychologue pourra vous accompagner pour identifier les racines de ces déplacements et vous aider à retrouver une relation plus sereine avec vous-même et votre entourage.

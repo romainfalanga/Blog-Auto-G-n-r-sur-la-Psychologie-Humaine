@@ -15,7 +15,7 @@ draft: false
 
 La clé glisse une première fois contre la serrure. Inès la remet dans le bon sens, puis garde la main sur la poignée. Elle entend Clara déplacer une chaise à l’intérieur. Depuis une discussion difficile à la bibliothèque, elle cherche une présence qui l’aide à retrouver un peu de stabilité. Elle voudrait demander à Clara de rester près d’elle quelques minutes. À la place, elle prépare « ça va » pour le moment où sa compagne la verra entrer.
 
-Inès a trente ans et travaille comme bibliothécaire. Aujourd’hui, une personne conteste longuement une règle de réservation devant plusieurs usagers. La discussion se termine sans incident, mais Inès rejoue les phrases pendant le trajet du retour. Elle se demande si sa voix semble sèche, si elle doit écrire à sa responsable et si quelqu’un pense qu’elle gère mal l’accueil. Les questions se présentent ensemble et elle n’arrive plus à les ordonner.
+Une personne a contesté la règle de réservation devant plusieurs usagers. Inès se repasse la phrase qu’elle a employée à l’accueil. Dans la rue, elle avait décidé d’en parler à Lucie. Devant la porte, elle veut surtout raconter le moment où tout le monde la regardait.
 
 Clara, avec qui elle vit depuis trois ans, prépare de son côté une réunion associative. Leur dernier échange sur la fatigue les aide à nommer plus tôt leurs capacités. Inès sait donc que sa compagne peut ne pas être disponible immédiatement. Elle transforme pourtant cette possibilité de refus en raison de ne rien demander. Elle espère que Clara comprendra seule qu’elle a besoin d’attention, tout en redoutant de lui imposer la responsabilité de son état.
 
@@ -51,7 +51,7 @@ Lorsque Clara demande quelques minutes avant de venir, Inès ressent une décept
 
 Si les reports s’accumulent sans retour, la question serait différente et mériterait une conversation. Le but n’est pas de trouver une explication rassurante à chaque absence. Il est d’évaluer les comportements sur une durée adaptée. Une sécurité suffisante se construit aussi dans la fiabilité des reprises annoncées. Inès n’a pas à se persuader qu’un lien la soutient si les faits montrent régulièrement qu’elle ne peut pas y exprimer de besoin.
 
-## Trois techniques pour demander une présence sans la rendre obligatoire
+## Demander de l’écoute et laisser l’autre répondre
 
 ### 1. Préciser le besoin, la forme et la durée essayée
 
@@ -77,13 +77,13 @@ Elle remercie Clara pour son écoute, sans annoncer qu’elle devra forcément r
 
 Vous pouvez dessiner une petite carte de ressources : personnes de confiance, actions personnelles, appuis professionnels ou organisationnels selon le problème. Cette carte ne sert pas à devenir autosuffisante ni à refuser tout besoin relationnel. Elle évite seulement qu’une seule personne porte tout le soutien. Elle aide aussi à repérer un manque réel de ressources, qui peut demander une recherche concrète de relais plutôt qu’un effort supplémentaire pour se calmer seule.
 
-## Inès reçoit de l’aide sans confier toute sa soirée
+## Dix minutes, puis le square
 
 Dehors, l’enveloppe glisse difficilement dans la fente de la boîte. Inès la pousse du bout des doigts, puis fait le tour du square avant de rentrer. Le désaccord professionnel reste présent. Il a cependant une prochaine étape limitée, et elle n’a plus besoin de rejouer toute la scène pour savoir quoi demander. La conversation avec Clara ne résout pas la situation ; elle lui permet de la regarder avec un peu plus d’ordre.
 
 Le lendemain, Lucie lui indique comment elle présente elle-même la règle. Elles envisagent une petite modification du panneau d’accueil. Inès peut examiner cette amélioration sans y voir la preuve qu’elle échoue la veille. Clara n’a pas eu à lui garantir que tout était parfait pour qu’elle se sente soutenue. Elle lui offre une présence dont Inès se sert ensuite pour reprendre sa part d’action, avec les ressources du contexte professionnel.
 
-Lors d’une autre soirée, Clara n’est pas disponible. Inès le reçoit avec déception et choisit un autre appui. Elle ne prétend pas que toutes les réponses se valent ni qu’elle ne souhaite plus être rejointe. Elle garde la possibilité de discuter du lien si les besoins restent régulièrement sans place. Son progrès tient à une demande plus lisible et à une expérience concrète d’aide consentie, sans faire de Clara la garante permanente de son équilibre.
+Une autre fois, Clara est déjà attendue à sa réunion quand Inès aimerait lui parler. Inès est déçue. Elle marche jusqu’à la boîte aux lettres, puis laisse à Clara un message pour lui demander si elles pourront se retrouver à son retour. En chemin, elle trouve la question qu’elle voudrait poser à Lucie le lendemain.
 
 ---
 

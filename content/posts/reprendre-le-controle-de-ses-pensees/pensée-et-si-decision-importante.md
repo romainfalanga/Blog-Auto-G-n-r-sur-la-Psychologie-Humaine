@@ -13,7 +13,7 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Le couloir devant le bureau du Dr Moreau sent les feuillets froissés et la gomme à effacer. Léa appuie la paume de sa main contre la couverture d'un carnet où elle griffonne des listes depuis deux heures. Aujourd'hui, 18 mai 2026, elle doit dire oui ou non à une offre de stage clinique à Grenoble qui commence en septembre. Le dossier est brillant, la bourse est presque assurée, mais c'est loin du studio où elle vit avec Youssef et loin de sa routine de bénévolat.
+Devant le bureau du Dr Moreau, Léa relit le message du stage à Grenoble. Il commence en septembre et la réponse est attendue aujourd’hui. Elle pense à son studio, au bénévolat et à Youssef qui prépare de son côté son départ pour Lyon. Ils n’ont pas décidé de vivre ensemble. Sur sa feuille, pourtant, la première ligne dit : « Si je dis oui, qu’est-ce qui se passe pour nous ? »
 
 À chaque idée d'accepter, une série de scénarios envahit sa tête : et si je m'éloigne de Youssef et que notre couple se fragilise ? Et si je rate mes exams parce que le rythme est trop exigeant ? Et si je quitte la sécurité et que je m'effondre ? Ces enchaînements de "et si" lui volent la concentration. Elle a déjà expliqué ce processus sur son blog personnel, elle en a parlé à Zoé, et elle reconnaît la vieille stratégie de sur-responsabilisation qui la poursuit depuis l'enfance. Elle se revoit encore, petite, essayant de devancer les besoins de sa mère pour stabiliser l'ambiance à la maison, ou plus récemment, s'épuisant sur le dossier de Zoé pour éviter une catastrophe imaginaire.
 
@@ -28,32 +28,38 @@ Léa anticipe surtout des difficultés après son départ. Certaines appellent u
 ## Manifestations face à une décision importante
 
 ### 1. Les scénarios catastrophiques qui reviennent
+
 Léa enchaîne des visions dramatiques sans cesse renouvelées : elle imagine des ruptures, des échecs académiques ou l'effondrement de son engagement bénévole. Concrètement, cela se traduit par des nuits où elle réécrit mentalement chaque décision possible, jusqu'à perdre l'énergie nécessaire pour comparer objectivement les options. Devant l'offre de stage, elle voit seulement le pire cas, comme si chaque option conduisait automatiquement à une catastrophe. Cette tendance est le prolongement direct de sa pensée dichotomique : soit elle reste et sauve tout, soit elle part et tout s'écroule.
 
 ### 2. Paralysie décisionnelle par surcharge d'anticipations
+
 Sous l'effet des "et si", Léa met la décision en attente. Elle multiplie les listes, consulte ses notes, demande l'avis de Dr Moreau et de Zoé, sans jamais trancher. Cette paralysie tient moins à une absence d'information qu'à l'illusion que toutes les conséquences possibles doivent être connues avant d'agir. Elle refuse de répondre à l'offre tant qu'elle n'aura pas simulé tous les scénarios imaginables.
 
 ### 3. Sur-responsabilisation et tentative de contrôle sur l'incontrôlable
+
 Les "et si" conduisent Léa à croire qu'elle peut prévenir chaque douleur d'autrui ou chaque risque en faisant le choix parfait. Pour Léa, accepter ressemble un moment à une faute envers Youssef, alors qu’elle peut réfléchir à son projet et à sa relation séparément. Elle considère que partir signifierait abandonner Youssef, comme si sa présence seule garantissait la survie du couple, une résonance directe avec le divorce de ses parents où elle s'était sentie investie d'une mission de médiatrice impuissante.
 
 ## Techniques pour reprendre le contrôle
 
 ### 1. Séparer ce que l’on sait, ce que l’on craint et ce que l’on peut faire
+
 Notez la question qui revient, les informations dont vous disposez et une action éventuelle. Léa ne peut pas chiffrer le risque de rupture ; elle peut réfléchir à ce qu’elle souhaite demander à Youssef. Pour la bourse, elle peut vérifier le calendrier auprès de l’établissement.
 
 ### 2. Expérimentation raisonnée et plan d'action à petite échelle
+
 Cette méthode transforme l'indécision en test contrôlé. Définissez un petit engagement de durée limitée qui simule la décision. Par exemple, demandez à l’équipe ce qui est possible dans la convention et si un point de suivi peut être prévu. Établissez un critère de réussite simple, comme la possibilité de suivre les cours et de participer à deux sessions de bénévolat par mois. Notez la durée de l'expérimentation et un plan de secours si vos critères ne sont pas atteints. Les expériences réduisent l'incertitude réelle et montrent que l'on peut tester sans tout sacrifier, ce qui rassure la partie contrôlante de l'esprit.
 
 ### 3. Dialogue socratique avec votre conseiller interne
+
 Il s'agit de challenger les croyances automatiques derrière les "et si" en adoptant une posture interrogative. Quand une pensée surgit, écrivez-la en une phrase, puis posez cinq questions : quelles preuves montrent que cela est systématiquement vrai ? Quelle est l'alternative la plus plausible ? Que dirait un ami objectif ? Quelle est la pire conséquence réaliste et comment y répondre ? Quelle décision semble la plus alignée avec mes valeurs de psychologue en devenir ? Pour Léa, ce dialogue l'aide à se rappeler ses valeurs professionnelles et à opposer des preuves concrètes aux scénarios alarmistes, sans devoir prouver que toutes ses inquiétudes sont infondées. La méthode transforme une rumination en examen critique, ce qui affaiblit les raisonnements erronés nés de la peur.
 
-## Évolution de Léa et choix en conscience
+## La réponse au stage
 
 Assise dans le bureau du Dr Moreau, Léa lit ses notes. Elle ne peut pas prédire la réaction de Youssef, mais elle a des questions précises sur le stage et souhaite savoir comment organiser ses trajets. Elle remarque qu’elle n’a pas besoin de garantir l’avenir du couple pour reconnaître que cette offre l’intéresse.
 
 Elle propose ensuite un plan d'expérimentation : demander une clause de mobilité dans la convention de stage et prévoir un point de situation au bout de six semaines. Elle formule à voix haute le dialogue socratique qu'elle a préparé, et Dr Moreau lui offre des retours clairs. L'angoisse ne dicte plus la discussion entière car elle utilise des outils concrets.
 
-Chez elle, dans le studio, elle écrit un billet pour son blog où elle décrit le processus pour solidifier sa propre logique interne. Elle contacte Youssef pour discuter calmement du projet, sans dramatiser, en présentant les options et en lui demandant son point de vue réel. Elle sait que le résultat n'est pas entièrement entre ses mains, mais elle cesse de traiter la décision comme un test moral de sa valeur.
+De retour au studio, Léa prépare sa réponse au stage et note deux questions sur les trajets et la convention. Elle prévient Youssef qu’elle voudrait lui parler de Grenoble. Elle n’écrit pas qu’elle a trouvé une solution pour eux deux. Il reste une décision à prendre pour septembre, et une autre conversation à avoir.
 
 Ses gestes sont mesurés, sa voix est moins hachée. Elle sait que l'issue peut être inconfortable, et c'est désormais acceptable parce qu'elle a prévu des étapes. Les techniques apprises précédemment, comme identifier les distorsions cognitives, nommer la colère ou repérer la tendance à tout sauver, se mettent au service d'une méthode pragmatique. Elle dirige désormais sa peur avec des outils.
 

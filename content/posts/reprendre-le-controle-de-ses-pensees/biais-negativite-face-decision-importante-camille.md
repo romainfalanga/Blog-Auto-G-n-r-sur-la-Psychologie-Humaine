@@ -13,7 +13,7 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Camille est immobile devant son casier, dans le couloir silencieux du service de cardiologie. Entre ses doigts fins, elle serre une enveloppe qui contient une proposition de poste en tant que cadre de santé. C'est le tournant qu'elle attendait pour alléger ses gardes de nuit et passer plus de temps avec Léo et Emma. Pourtant, ses yeux bleus fatigués ne voient que la liste infinie des problèmes potentiels. Elle imagine déjà les tensions avec l'équipe, les réunions qui s'éternisent et la responsabilité écrasante si un planning de garde s'effondre. Le succès qu'elle a rencontré lors de sa dernière procédure médicale, le 18 mars dernier, semble loin, évaporé sous le poids d'un futur qu'elle repeint systématiquement en gris. À l'époque, elle avait déjà eu du mal à s'attribuer cette réussite, et aujourd'hui, ce sentiment d'imposture revient la hanter : est-elle vraiment capable de diriger une équipe ?
+Camille glisse l’enveloppe dans son sac et la ressort avant d’avoir fermé son casier. Le service lui propose d’envisager un poste de cadre de santé. Elle aimerait savoir combien de nuits elle aurait encore à assurer et quelle place il lui resterait auprès des patients. Pour l’instant, l’enveloppe dit surtout qu’il faut prendre rendez-vous.
 
 Elle repense à ce moment, il y a deux semaines, où elle avait enfin identifié sa fatigue de compassion. Elle a fait du chemin depuis, acceptant l'aide de David pour les repas et les rendez-vous médicaux de Léo. Mais aujourd'hui, face à cette opportunité de carrière, une force invisible semble la tirer vers l'arrière. Son esprit énumère les risques avec une précision chirurgicale : et si elle perdait sa proximité avec les patients ? Et si Françoise, sa mère, trouvait encore à redire sur son manque d'ambition si elle hésitait trop ? Cette exigence maternelle, qui l'avait poussée autrefois à s'oublier pour soigner les autres, se transforme maintenant en une peur paralysante de l'échec. Le moindre accroc futur prend une place disproportionnée, occultant totalement l'augmentation de salaire et les week-ends qu'elle pourrait enfin passer à jouer dans le jardin.
 
@@ -53,13 +53,15 @@ Camille imagine une journée ordinaire et une journée difficile, puis compare s
 
 Camille se demande ce qu’elle conseillerait à Nathalie : vérifier la fiche de poste, parler à une personne qui occupe la fonction et demander comment l’équipe est soutenue. Elle peut ensuite appliquer ces questions à sa propre situation.
 
-## Évolution de Camille et prise de décision
+## Les questions avant la réponse
 
-Camille repose l'enveloppe sur le banc et ferme les yeux. Elle ne cherche pas à chasser ses pensées sombres, elle les observe simplement passer, comme elle a appris à le faire récemment pour calmer son hypervigilance d'infirmière. Elle se rend compte que sa peur du conflit avec ses collègues est une vieille résonance de son éducation, ce besoin de plaire à tout prix pour ne pas subir les foudres de Françoise. Mais aujourd'hui, elle n'est plus la petite fille qui cherche l'approbation. Elle est une infirmière expérimentée qui connaît sa valeur.
+Camille étale l’enveloppe sur le banc. Elle avait déjà préparé une réponse pour le cas où l’équipe l’accuserait de vouloir s’éloigner des gardes. En y repensant, elle ne sait pas ce que les collègues en diraient. Il lui revient qu’au dernier changement d’horaire, elle s’était réjouie de la franchise de Nathalie. Elle voudrait lui en parler avant de rentrer.
 
 Elle sort son petit carnet de son sac à main, celui qu'elle utilise pour noter ses gratitudes depuis qu'elle a compris l'importance de prendre soin d'elle. Elle trace deux colonnes et note un bénéfice possible, un risque concret et une question pour le service. Elle sourit en écrivant le prénom de Léo, imaginant qu'elle pourra enfin assister à son tournoi de football le samedi matin sans être écrasée par la fatigue de compassion qui l'isolait autrefois. Le biais de négativité face à une décision importante perd de son emprise alors que la liste des joies possibles s'allonge sous sa plume.
 
-En quittant le vestiaire, Camille croise Nathalie qui lui adresse un clin d'œil. Au lieu de répondre par son habituel sourire de façade, ce masque mécanique qu'elle portait quand elle se sentait vide, Camille s'arrête et lui annonce qu'elle va accepter le poste. Elle sent une légère appréhension, mais elle l'accepte. Elle sait quelles questions poser si une difficulté se présente. Elle marche vers la sortie, le pas plus léger, prête à commencer ce nouveau chapitre de sa vie, tout en sachant qu'elle possède les outils pour naviguer dans les tempêtes, si elles se présentent.
+En quittant le vestiaire, Camille croise Nathalie qui lui adresse un clin d'œil. Au lieu de répondre par son habituel sourire de façade, ce masque mécanique qu'elle portait quand elle se sentait vide, Camille s’arrête. « Ça m’intéresse. Je vais leur demander combien de temps on aura pour organiser le passage. » Elle laisse l’enveloppe ouverte dans son sac. Une partie d’elle voudrait déjà se décider ; il lui faut encore connaître les horaires et ce que le service prévoit pour l’accompagner.
+
+Avant de rentrer, elle écrit les trois questions au dos de l’enveloppe. À David, elle dit que le poste l’intéresse et que les horaires restent à vérifier. David ouvre le calendrier pour voir quels mercredis seraient concernés. Camille lui demande d’attendre son rendez-vous pour en parler.
 
 ---
 

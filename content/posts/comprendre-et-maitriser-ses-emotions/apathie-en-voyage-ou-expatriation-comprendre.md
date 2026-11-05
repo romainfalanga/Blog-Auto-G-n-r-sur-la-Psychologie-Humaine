@@ -13,7 +13,7 @@ contexte: "en voyage ou en expatriation"
 draft: false
 ---
 
-Bernard contemple la place centrale de ce petit village de Toscane depuis le banc en pierre où il est assis. Il est censé profiter de ce voyage, un cadeau de son fils Éric pour ses cinquante-huit ans, une tentative maladroite de rompre son isolement après les années passées à se murer dans son atelier de menuiserie. Autour de lui, les touristes s'extasient devant la façade de la cathédrale, les odeurs de basilic frais et de cuir tanné flottent dans l'air tiède de ce mois d'avril 2026. Pourtant, Bernard ne ressent rien. Ni joie, ni curiosité, pas même l'agacement que lui procurait autrefois la foule.
+Éric avait réservé le séjour pour ses cinquante-huit ans. Bernard a glissé la carte du village toscan dans sa poche et s’est arrêté à la première place. Il a dit au téléphone que l’arrivée s’était bien passée. Maintenant que personne ne lui demande rien, il ne sait pas très bien ce qu’il aurait envie de voir.
 
 Ses mains calleuses, habituées à caresser le grain du chêne ou du noyer, reposent à plat sur ses genoux. Il se souvient de la commode qu'il a terminée pour Éric il y a quelques semaines, ce meuble qui devait dire tout ce qu'il ne savait pas verbaliser. Il avait alors pris conscience de son besoin de connexion, mais ici, loin de ses outils et de son chien Sultan resté chez le voisin Marcel, il se sent comme une écorce vide. Le paysage est sublime, mais c'est comme s'il regardait un film en noir et blanc dont le son est coupé. Ce mutisme intérieur, qu'il utilisait autrefois comme un bouclier contre le jugement de ses parents, s'est transformé en une chape de plomb qui l'empêche désormais de goûter à la liberté offerte par son fils.
 
@@ -57,13 +57,15 @@ Pour lutter contre l'émoussement émotionnel, il est utile de se focaliser sur 
 
 L'apathie en voyage est souvent exacerbée par la rupture brutale avec le quotidien. Créer des ponts avec ce que l'on aime chez soi permet de sécuriser le psychisme. L'exercice consiste à intégrer une habitude familière et réconfortante dans le nouveau contexte, sans lien avec le tourisme. Cela peut être écouter une émission de radio spécifique, pratiquer un geste manuel ou cuisiner un plat connu. Ces ancres servent de base de sécurité à partir de laquelle la curiosité pourra, plus tard, refaire surface.
 
-## Évolution de Bernard : reprendre contact avec la matière
+## Le détour par l’atelier
 
 Bernard se lève du banc. Ses pas le mènent presque malgré lui vers une petite ruelle latérale, loin du tumulte des guides touristiques. Au détour d'une porte cochère entrouverte, une odeur familière vient chatouiller ses narines, celle de la sciure de bois et du vernis à l'ancienne. Ses sens, si longtemps anesthésiés, tressaillent. Il s'arrête devant l'atelier d'un restaurateur de meubles. À l'intérieur, un homme plus jeune que lui s'escrime sur le pied d'une table baroque.
 
 Il ne ressent pas de joie subite, mais une curiosité technique pointe le nez. Il observe la position des mains de l'autre artisan, le choix des ciseaux. Il se souvient de ce qu'il a appris sur son besoin de sortir du mutisme. Il se racle la gorge. Les mots sont difficiles à sortir, mais il s'approche et désigne un rabot sur l'établi. Il pose une question simple sur l'essence du bois utilisé. L'artisan italien lui répond avec passion, et même si Bernard ne saisit pas tous les mots, il comprend la langue de la fibre et de la sève. Il réalise que son métier n'est plus seulement un refuge pour fuir les autres, mais peut devenir un pont pour les rejoindre.
 
 Ce moment ne dissipe pas totalement le brouillard de l'apathie, mais il crée une brèche. Bernard réalise qu'il n'a pas besoin de devenir un touriste enthousiaste pour exister ici. Il peut être lui-même, un menuisier en voyage, qui observe le monde à travers le prisme de son métier. Ce soir, en rentrant à sa pension, il sortira le carnet de croquis qu'Hélène lui avait offert autrefois et qu'il n'avait jamais utilisé. Il n'y dessinera pas des paysages grandioses, mais les détails techniques des assemblages qu'il a vus aujourd'hui. C'est un premier pas vers Éric, une manière de préparer le récit de son voyage, non pas avec des adjectifs vides, mais avec la précision de son regard retrouvé.
+
+De retour sur la place, Bernard appelle Éric. Il lui parle de l’atelier au lieu de résumer le voyage. À la question de savoir s’il ira au musée le lendemain, il répond qu’il verra en se levant.
 
 ---
 

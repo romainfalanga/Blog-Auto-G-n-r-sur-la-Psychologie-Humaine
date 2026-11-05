@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-« Je voudrais essayer encore. » Hélène garde la main sur la poignée du tiroir pendant qu’Aline tend déjà le bras vers le tournevis. Demander si une aide est souhaitée semble évident à la responsable de quincaillerie. Pourtant, à l’atelier associatif, elle saute cette étape devant un geste qui lui paraît facile. Le meuble grince, le tiroir résiste et une petite file se forme près de l’établi. Elle pense faire gagner du temps à tout le monde.
+« Je voudrais essayer encore. » Hélène garde la main sur la poignée du tiroir pendant qu’Aline tend déjà le bras vers le tournevis. Aline voit le tiroir coincer à gauche. À la quincaillerie, elle montrerait tout de suite où appuyer. Elle a déjà saisi l’outil avant d’avoir demandé à Hélène où elle en est. Le meuble grince, le tiroir résiste et une petite file se forme près de l’établi. Elle pense faire gagner du temps à tout le monde.
 
 Hélène, venue avec ce meuble dans le coffre d’une amie, n’attend pas seulement une réparation. Elle veut comprendre pourquoi la poignée bouge et pouvoir la régler elle-même. Elle explique son projet sans élever la voix. Aline retire sa main. Le tournevis reste entre elles, posé sur un chiffon bleu. Le refus n’est pas une remise en cause de ses compétences ; il précise l’usage qu’une autre personne souhaite en faire.
 
@@ -81,7 +81,7 @@ L’exercice consiste à observer ce qui apparaît après un refus : déception,
 
 Après l’atelier, le groupe échange sur les demandes rencontrées sans exposer inutilement les histoires personnelles des participants. Aline propose que l’accueil comporte une question sur l’objectif de la visite. Cette petite modification rend la vérification moins dépendante de sa seule vigilance. Le collectif peut soutenir une pratique respectueuse au lieu d’attendre qu’une bénévole se souvienne toujours de ralentir.
 
-## Aline commence à laisser l’autre guider la demande
+## Laisser le tournevis à Hélène
 
 Hélène reprend l’outil et cherche le bon angle. Aline attend. Le geste dure plus longtemps que si elle le réalise elle-même, et la file ne disparaît pas. Claire explique le temps d’attente aux personnes présentes. L’une préfère revenir une autre fois ; une autre accepte un premier échange avec Bastien. Le lieu s’adapte imparfaitement, mais il ne fait pas porter tout l’ajustement à Hélène.
 

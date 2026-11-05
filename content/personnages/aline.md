@@ -19,7 +19,7 @@ draft: false
   <div class="parcours-entry">
     <div class="parcours-cat">Sortir de ses schémas répétitifs</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer/">« Syndrome du sauveur » : une expression courante</a></h3>
-    <p class="parcours-resume">Aline tient l’inventaire contre sa poitrine. Ce mardi, chaque case semble lui rappeler un service qu’elle pourrait rendre, et qu’elle se sent déjà tenue de rendre.</p>
+    <p class="parcours-resume">Aline tient l’inventaire contre sa poitrine. Elle entend son téléphone sonner au fond de la poche de son tablier. Il reste trois références de poignées à compter.</p>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">

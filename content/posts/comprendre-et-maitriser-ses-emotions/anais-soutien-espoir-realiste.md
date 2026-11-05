@@ -13,7 +13,7 @@ editorial_pack: "psychology-v10"
 draft: false
 ---
 
-Un visiteur se penche sur la notice de l'affiche rouge et demande pourquoi le nom de la rue change. Anaïs répond depuis la chaise prévue près du panneau. Son espoir réaliste prend cette forme ordinaire : une question à laquelle elle aime répondre, un siège disponible et Mireille qui peut prendre le relais. Elle ne reste pas toute la durée de l'exposition. Sa présence n'en devient pas moins réelle.
+Un visiteur se penche sur la notice de l'affiche rouge et demande pourquoi le nom de la rue change. Anaïs répond depuis la chaise prévue près du panneau. Elle connaît la réponse à cette question. Pour la suivante, il faudra reprendre les dates sur l’autre panneau. Mireille a posé sa propre copie du programme près du siège. Elle ne reste pas toute la durée de l'exposition. Sa présence n'en devient pas moins réelle.
 
 À quarante-six ans, agente d'accueil municipale, elle vit toujours avec une polyarthrite diagnostiquée et suivie. Les symptômes ne disparaissent pas avec l'aboutissement du projet. Les questions d'aménagement au travail avancent à leur rythme et certains jours restent difficiles. Aujourd'hui, elle participe dans les conditions discutées, avec les précautions qui la concernent et la possibilité de partir sans devoir sauver toute l'organisation.
 
@@ -83,7 +83,7 @@ Elle prévoit comment réduire, reporter ou transmettre si son état le demande.
 
 Après, elle regarde ce qu'elle souhaite retenir : une présence, une question, une difficulté à faire examiner. Le bilan ne devient pas un score de courage. Il l'aide à préparer la suite, avec la possibilité de demander du soutien psychologique lorsque l'incertitude, la tristesse ou la fatigue émotionnelle prennent trop de place.
 
-## Anaïs quitte l'exposition sans retirer sa présence
+## Mireille prend la question suivante
 
 Le visiteur remercie Anaïs et poursuit son chemin vers un autre panneau. Elle se tourne vers Mireille pour lui transmettre la question qu'elle n'arrive pas à vérifier immédiatement. Le relais fonctionne sans cérémonie. Son amie connaît le document, et Anaïs n'a pas à rester uniquement parce qu'elle commence la conversation.
 

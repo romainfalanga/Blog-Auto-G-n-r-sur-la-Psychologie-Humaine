@@ -13,7 +13,7 @@ episode: 1
 draft: false
 ---
 
-Baptiste déplace une petite voiture en plastique pour poser son agenda sur la table. Elsa a installé un garage entre le panier de fruits et les documents de sa mère. Sa fille de cinq ans explique qu’une place reste disponible pour les véhicules en panne. Baptiste lui promet de regarder après avoir vérifié l’horaire du lendemain. Un message de Patricia annonce une réunion sur la transmission des informations entre deux dépôts. L’heure proposée se superpose à celle où il doit récupérer Elsa à son atelier. Il regarde les deux lignes et cherche immédiatement comment ne décevoir personne.
+Baptiste déplace une petite voiture en plastique pour poser son agenda sur la table. Elsa a installé un garage entre le panier de fruits et les documents de sa mère. Sa fille de cinq ans explique qu’une place reste disponible pour les véhicules en panne. Baptiste gare une voiture dans la seule place libre, puis ouvre l’agenda. Elsa lui demande si le conducteur compte repartir avant la fermeture. Un message de Patricia annonce une réunion sur la transmission des informations entre deux dépôts. L’heure proposée se superpose à celle où il doit récupérer Elsa à son atelier. Il regarde les deux lignes et cherche immédiatement comment ne décevoir personne.
 
 À trente-sept ans, il coordonne la maintenance dans un réseau de transports. Il apprécie le travail bien fait, les échanges précis et la possibilité d’aider une équipe à s’organiser. Il tient également aux moments où Caroline, sa compagne, peut compter sur lui sans devoir préparer une solution de secours. Cette semaine, elle termine plus tard et la récupération d’Elsa fait partie de leur répartition prévue. Baptiste ne pense pas que ces deux engagements soient incompatibles en général. Ils le deviennent simplement à cet horaire précis.
 
@@ -57,7 +57,7 @@ Avant de déplacer l’engagement familial, Baptiste peut demander la raison de 
 
 Une fois l’information recueillie, Baptiste peut expliquer sa proposition sans se qualifier lui-même de bon ou de mauvais collègue. Il indique sa disponibilité, la contribution qu’il peut fournir et les éléments qu’il souhaite reprendre ensuite. Il n’a pas besoin de raconter toute sa vie familiale pour qu’un horaire annoncé soit considéré. Il peut néanmoins préciser la contrainte utile dans le cadre de leur relation professionnelle. Si son choix déplace une tâche vers Emmanuel, son collègue, il doit vérifier son accord et la charge correspondante plutôt que nommer cela entraide par principe. La cohérence se regarde dans les actes et leurs conséquences, pas seulement dans le sentiment d’avoir choisi selon ses valeurs. Un bilan ultérieur peut permettre d’ajuster ce qui ne fonctionne pas.
 
-## Baptiste pose une question avant de déplacer son engagement
+## L’heure de la réunion
 
 Le lendemain matin, il demande à Patricia si toute la réunion exige sa présence à l’heure proposée. Elle explique que cet horaire était le seul repéré rapidement, sans avoir encore vérifié toutes les contraintes. Ils découvrent une possibilité plus tôt pour la première partie. L’échange ne règle pas tout : un interlocuteur ne peut venir qu’en fin de journée. Baptiste propose de préparer les exemples de transmission et de participer au premier créneau, puis de lire le compte rendu de la seconde partie. Patricia vérifie que cette répartition répond au besoin du projet au lieu de l’accepter seulement pour lui faire plaisir.
 

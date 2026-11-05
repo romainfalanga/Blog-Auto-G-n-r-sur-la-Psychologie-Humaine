@@ -13,11 +13,9 @@ contexte: "en période de reconversion professionnelle"
 draft: false
 ---
 
-Margot ajuste le col de son chemisier en lin devant le miroir de l'entrée. Ses cheveux poivre et sel, qu'elle assume avec une élégance naturelle, encadrent un visage marqué par une tension inhabituelle. Dans trente minutes, elle reçoit sa toute première cliente officielle dans son petit bureau aménagé, celui-là même où elle triait ses vieilles archives de directrice commerciale il y a encore quelques jours. Le silence de la maison, depuis que Martin et Chloé ont pris leur envol, semble soudain pesant, presque accusateur. Elle fixe son reflet et une phrase tourne en boucle dans son esprit, acide et glaciale : tu n'es qu'une commerciale qui joue à la psy.
+La chaise est tournée de travers depuis que Margot a déplacé les cartons. Dans trente minutes, Julie va s’y asseoir. Ce sera la première consultation qu’elle mène en dehors des séances d’essai, comme celle avec Claire. Margot relit ses notes à voix basse. Dès qu’elle arrive à la question du début, une autre phrase lui revient : tu fais semblant d’être à ta place ici.
 
-Cette pensée la paralyse. Elle revoit les dossiers de ses vingt-cinq ans de carrière, ces preuves de sa valeur passée qu'elle a eu tant de mal à laisser partir, comme si son identité restait accrochée à des chiffres de vente et des rapports trimestriels. Elle se souvient de sa conversation avec Sylvie, sa mentor, qui l'encourageait à embrasser sa nouvelle légitimité. Pourtant, aujourd'hui, Margot se sent comme une imposture. Elle a beau avoir identifié ses drivers, ce fameux sois parfaite qui l'épuise et l'avait déjà tenue éveillée jusqu'à point d'heure devant son écran, elle se heurte à un mur invisible qui lui murmure que changer de voie après 50 ans est une erreur monumentale que personne ne lui pardonnera.
-
-Elle s'assoit à son bureau, les mains posées à plat sur le bois verni. Elle tente de se remémorer ses exercices de méditation, mais le doute est plus fort. Chaque diplôme de coaching accroché au mur lui semble être un décor de théâtre prêt à s'effondrer. Elle pense à Philippe, son mari, qui la soutient sans faille, et elle craint de le décevoir en échouant si près du but. Pour Margot, ce n'est pas seulement un rendez-vous professionnel qui se joue, c'est la validation de son droit à exister autrement que par son ancien titre de cadre dirigeante.
+Elle se regarde dans le miroir de l’entrée et repense à l’assurance qu’elle affichait en réunion. Elle sait mener un entretien. Elle ne sait pas encore si les questions qu’elle a préparées aideront Julie. Elle remonte ouvrir son carnet. Sur une page, elle note ce qu’elle propose dans le cadre du coaching. Elle laisse de la place pour ce que Julie lui demandera.
 
 ## Définition des croyances limitantes
 
@@ -57,13 +55,11 @@ Nous sommes souvent beaucoup plus durs avec nous-mêmes qu'avec nos proches. Pou
 
 On peut essayer une formulation qui colle mieux à ce que l’on sait aujourd’hui. Une fois la croyance limitante identifiée, il s'agit de rédiger une version alternative qui soit à la fois réaliste et motivante. Au lieu de dire je n'ai aucune expérience en coaching, Margot peut formuler : je mets mes vingt-cinq ans de compréhension du monde de l'entreprise au service de l'accompagnement humain. L'exercice consiste à répéter cette nouvelle affirmation chaque matin en lien avec une action concrète. Par exemple, chaque fois qu'elle prépare une séance, elle se rappelle que son passé n'est pas un obstacle, mais un socle unique qui la différencie des autres coachs.
 
-## Évolution du personnage et transformation de la vision
+## Julie pose son sac
 
-Le carillon de l'entrée retentit, signalant l'arrivée de sa cliente. Margot se lève, mais cette fois, elle ne lisse pas son vêtement avec nervosité. Elle se remémore l'exercice de mise à l'épreuve des faits qu'elle a pratiqué la veille dans son journal de gratitude. Elle sait maintenant que sa croyance de n'être qu'une commerciale est une distorsion de la réalité. Elle est une femme de 52 ans riche d'un parcours complexe, capable d'allier la structure du monde des affaires à une écoute attentive dans le cadre du coaching. Elle sait que cet accompagnement ne remplace pas des soins psychologiques.
+Au coup de sonnette, Margot a encore le carnet à la main. Elle l’abandonne sur le bureau et descend. Julie entre avec un sac trop grand pour le crochet de l’entrée. « Posez-le où vous voulez. » Margot s’entend parler plus vite qu’elle ne l’aurait voulu.
 
-Elle descend l'escalier, chaque pas résonnant dans la maison silencieuse non plus comme un écho de vide, mais comme une marche vers sa nouvelle autonomie. Elle repense aux dossiers qu'elle a fini par jeter, acceptant que sa valeur ne réside pas dans des archives, mais dans sa capacité actuelle à se renouveler. Elle a compris que s'accrocher à ces papiers n'était qu'une tentative de rachat de ses efforts passés, un biais cognitif qu'elle a désormais identifié. Elle ne cherche plus à être parfaite, comme elle tentait de le faire autrefois pour masquer ses doutes. Elle accepte d'être une débutante expérimentée, un paradoxe qui lui donne une force tranquille.
-
-En ouvrant la porte à Julie, sa première cliente, Margot lui adresse un sourire déterminé. Ce n'est pas le sourire de façade qu'elle arborait en réunion de direction, mais un sourire authentique, ancré dans sa nouvelle légitimité. Elle sent que le poids sur ses épaules, cette vieille habitude de porter la responsabilité du monde entier et de ne jamais rien partager avec Philippe, s'est considérablement allégé. Elle est prête à écouter, à guider, et surtout, à se laisser surprendre par ce que cette nouvelle étape de sa vie lui réserve.
+Elle explique ce qu’elle propose et précise que le coaching ne remplace pas des soins psychologiques. Julie lui demande si elles peuvent commencer par la situation de la veille plutôt que par ce qu’elle avait annoncé au téléphone. Margot tourne sa feuille. « Oui. Racontez-moi hier. »
 
 ---
 

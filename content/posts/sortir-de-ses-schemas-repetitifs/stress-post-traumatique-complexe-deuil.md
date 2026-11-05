@@ -13,9 +13,9 @@ contexte: "lors d'un deuil"
 draft: false
 ---
 
-Djamila tourne en rond dans son appartement silencieux. Son fils Adam, 6 ans, dort dans la chambre d’à côté, et elle fait attention à ne pas faire de bruit. Le ciel est gris dehors, et l’air semble chargé d’une tristesse qu’elle ne parvient pas à chasser. Travailleuse sociale dans une association d’aide aux femmes, elle accompagne chaque jour d’autres personnes brisées, mais depuis la disparition de sa grand-mère il y a trois mois, chaque jour ressemble à un combat intérieur. Elle repense aux derniers instants, aux mots non dits, et à cette boule dans sa poitrine qui ne veut pas disparaître. Parfois, un bruit anodin suffit à la faire sursauter — le même sursaut qu’elle avait quand Samir, son ex-conjoint manipulateur, haussait le ton. Son corps est toujours en alerte, comme s’il avait empilé les traumatismes sans jamais les digérer. Elle ressent aussi une fatigue écrasante, malgré des nuits longues et agitées. L’appartement, qu’elle a reconstruit seule avec Adam après avoir quitté Samir, lui semble parfois étranger, presque menaçant. Pourtant, Djamila ne veut pas se plaindre, ni inquiéter ses proches. Elle a l’impression d’être piégée dans ses émotions sans savoir comment en sortir.  
+Djamila traverse le couloir sans allumer. Adam dort. Sous sa porte, la veilleuse découpe un rectangle orange que Djamila enjambe, comme si elle risquait de le réveiller en marchant dessus. Dans l’entrée, une porte claque chez les voisins. Elle serre les clés qu’elle tient encore, puis reconnaît la voix de la voisine sur le palier.
 
-La mort de sa grand-mère a bouleversé Djamila. Elle remarque aussi que certains bruits lui rappellent la vie avec Samir. Ces deux souffrances peuvent coexister. La scène montre ce qu’elle ressent ; elle ne permet pas d’établir un diagnostic.
+Elle aurait voulu raconter à sa grand-mère le mot qu’Adam a inventé pour la veilleuse. Sa grand-mère est morte il y a trois mois. La porte qui claque lui rappelle plutôt les soirs où son ex-conjoint Samir haussait la voix. Quand son médecin lui demandera comment elle dort, elle ne saura pas laquelle de ces deux choses expliquer d’abord.
 
 ## Qu’est-ce que le trouble de stress post-traumatique complexe ?
 
@@ -45,11 +45,11 @@ Djamila peut noter un souvenir ordinaire de sa grand-mère ou une chose qui l’
 
 Une amie peut l’accompagner en promenade, ou Djamila peut essayer un groupe de parole si elle en a envie. Si les souvenirs de violence reviennent au point de perturber son sommeil ou son travail, une évaluation est indiquée. Pour le TSPT, les [recommandations du NICE](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations) prévoient notamment des thérapies centrées sur le trauma avec des professionnels formés, adaptées aux besoins et à la sécurité de la personne.
 
-## Djamila, vers la lumière
+## Les deux lignes du carnet
 
-Au fil des semaines, Djamila essaie de faire une pause quand un bruit la ramène à la vie avec Samir. Elle ouvre parfois son carnet et choisit un souvenir de sa grand-mère qu’elle a envie de garder. Encouragée par une amie, elle rejoint aussi un groupe de parole dédié au deuil. Elle y trouve un lieu où elle se sent comprise et moins seule.
+Après une première rencontre avec le groupe de parole, Djamila note ce dont elle a parlé : le rire de sa grand-mère quand Adam lui demandait de refaire une histoire. Elle est contente d’avoir raconté ce détail. Au retour, le bruit du portail lui fait encore serrer les clés.
 
-Djamila ne sait pas encore comment nommer toutes ses difficultés. Elle a commencé à reprendre pied et décide de parler aussi des sursauts et du sommeil agité à son médecin.
+Dans le carnet, sous le souvenir de sa grand-mère, elle écrit une deuxième ligne : « Le portail. Même sursaut en rentrant. » Elle garde les deux pour son rendez-vous avec le médecin.
 
 ## Quand demander de l’aide
 

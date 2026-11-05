@@ -13,7 +13,7 @@ contexte: "en colocation"
 draft: false
 ---
 
-L'odeur de pizza surgelée flotte encore dans le salon de la colocation alors que Maxime jette nonchalamment son téléphone sur la table basse. Lucas, installé dans le vieux fauteuil en cuir, sent son estomac se contracter. Il vient de recevoir un virement de sa mère, Sandrine, accompagné d'un message qui lui brûle les yeux : *C’est tout ce qu’on a pu mettre de côté ce mois-ci, mon grand. Travaille bien.* Il repense à son entretien à La Défense il y a trois jours, où il luttait contre l'effet spotlight à cause d'une tache sur sa cravate. Aujourd'hui, le malaise est bien plus profond, ancré dans une réalité qu'il essaie désespérément de camoufler à ses amis.
+Sandrine vient de lui faire un virement. Lucas voudrait lui écrire merci avant que Maxime ne remarque l’écran. Du canapé, son colocataire annonce qu’il a trouvé un chalet pour leur week-end au ski. Lucas regarde le prix par personne. Avec le virement de sa mère, ça ne passe toujours pas.
 
 On se fait le week-end au ski dont on a parlé ? demande Maxime en naviguant sur un site de réservation de chalets haut de gamme. Romain lève les yeux de sa console, déjà emballé par l'idée. Lucas sent une bouffée de chaleur lui monter aux joues. Il ouvre discrètement l'application de sa banque sous la table. Le solde s'affiche en rouge, impitoyable. Il sait qu'il ne peut pas suivre, que chaque euro dépensé ici est un sacrifice de plus pour ses parents. Mais l'idée d'avouer sa situation financière lui semble insupportable, comme s'il allait soudainement perdre sa place dans ce trio d'étudiants d'école de commerce brillants et sans soucis.
 
@@ -59,7 +59,7 @@ S’il le souhaite, Lucas peut dire : « Le ski dépasse mon budget ce mois-ci. 
 
 La honte se nourrit de critères de succès rigides et souvent externes. Lucas peut travailler sur sa boussole interne en listant ses propres valeurs, indépendamment de celles de son école ou de ses colocataires. L'exercice consiste à écrire trois choses dont il est fier et qui ne sont pas liées à l'argent ou au prestige social. Il peut s'agir de sa persévérance, de son soutien envers ses parents ou de ses compétences sportives. En renforçant son estime de soi globale, il rend son identité moins vulnérable aux fluctuations de son compte en banque.
 
-## Lucas ose montrer sa vulnérabilité
+## Ce que coûte le week-end
 
 Quelques jours après l'épisode du voyage au ski, Lucas se retrouve seul dans la cuisine avec Romain. Ce dernier est en train de préparer un café tout en racontant ses propres galères de stage. Lucas sent l'opportunité de mettre en pratique ce qu'il commence à comprendre sur son fonctionnement. Il se souvient de sa réussite à La Défense, où il avait compris que les gens ne le scrutaient pas autant qu'il le pensait. Ici, c'est la même chose : ses amis ne l'aiment pas pour son solde bancaire, mais pour qui il est.
 

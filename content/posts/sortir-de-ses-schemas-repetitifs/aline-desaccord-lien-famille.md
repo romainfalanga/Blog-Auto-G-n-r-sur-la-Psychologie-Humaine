@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-La nappe s’accroche au tiroir du buffet quand la mère d’Aline sort un carnet d’adresses. Garder un désaccord sans rompre le lien commence ici, au milieu d’une liste d’invités. Ses parents souhaitent réunir la famille pour leur anniversaire de mariage. Ils imaginent qu’Aline réserve la salle, coordonne les repas et négocie avec son frère, qui préfère une fête plus petite. « Tu sais lui parler », dit son père en poussant le carnet vers elle.
+La nappe s’accroche au tiroir du buffet quand la mère d’Aline sort un carnet d’adresses. Aline dégage la nappe et voit que son prénom est déjà écrit à côté du numéro de la salle. Ses parents souhaitent réunir la famille pour leur anniversaire de mariage. Ils imaginent qu’Aline réserve la salle, coordonne les repas et négocie avec son frère, qui préfère une fête plus petite. « Tu sais lui parler », dit son père en poussant le carnet vers elle.
 
 Aline regarde les noms et compte immédiatement les appels à passer. Elle connaît ce rôle de médiatrice, nommé ouvertement dans la famille : quand deux personnes ne s’entendent pas, on lui demande de transmettre, reformuler et adoucir. Aujourd’hui, sa mère précise aussi l’attente : « Pour nous, la famille passe avant les activités du week-end. » Aline entend une priorité familiale explicite, pas une intention cachée qu’il faudrait démasquer.
 
@@ -81,7 +81,7 @@ Elle peut aussi rester au repas sans faire semblant d’être parfaitement déte
 
 Ce geste de lien ne garantit pas que les autres réagiront comme elle l’espère. Si un proche transforme le désaccord en reproches répétés, Aline peut écourter la conversation ou limiter les échanges sur ce sujet. Garder le lien reste une possibilité à construire à plusieurs, pas une obligation de rester exposée jusqu’à obtenir l’approbation de chacun.
 
-## Aline commence à parler en son nom
+## Deux recherches de salle
 
 Sa mère répond qu’elle espère davantage d’aide, surtout parce qu’Aline sait organiser. Aline reconnaît cette confiance et maintient sa proposition de deux recherches de salle. Son père demande qui centralisera les réponses. Elle ne se précipite pas. Ils constatent qu’aucune personne n’est désignée et qu’il faudra réduire le projet ou répartir cette tâche autrement.
 

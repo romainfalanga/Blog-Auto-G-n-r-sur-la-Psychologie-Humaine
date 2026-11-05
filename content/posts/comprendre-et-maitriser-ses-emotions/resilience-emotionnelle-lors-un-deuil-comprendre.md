@@ -13,11 +13,11 @@ contexte: "lors d'un deuil"
 draft: false
 ---
 
-Patrick est immobile devant l'établi du garage, les mains posées à plat sur le bois froid et marqué par les années. Une fine couche de poussière recouvre les outils que son père, Marcel, rangeait avec une précision militaire. Depuis l'enterrement de son père il y a trois jours, Patrick n'a pas réussi à bricoler. Ses lombaires le tirent, un rappel constant de cette décharge subie sur le chantier il y a quelques semaines, mais la douleur physique semble presque dérisoire face au vide qui occupe désormais l'espace entre ces murs.
+Patrick cherche une pince dans son garage et tombe sur celle que Marcel lui a offerte le jour où il est passé chef d’équipe. Son père avait entouré le manche de ruban pour que la pince ne glisse pas. Il en reste un bout sous la vis.
 
-Le silence de la maison est entrecoupé par le bruit lointain d'une voiture qui passe dans la rue. Patrick regarde une vieille pince multiprise que Marcel lui avait offerte quand il est passé chef d'équipe. Il se souvient de sa propre colère sur le chantier le 10 avril dernier, cette rage qui avait explosé contre le jeune Antoine. Aujourd'hui, la fureur a laissé place à une lourdeur grise. Il n'a plus envie de crier, ni de se cacher dans sa camionnette. Il se sent juste nu, dépouillé de cette armure de force que son père lui avait pourtant appris à porter comme une seconde peau.
+L’enterrement a eu lieu trois jours plus tôt. Patrick s’est remis à descendre au garage sans raison précise : il déplace deux outils, il remonte. Aujourd’hui il reste devant l’établi, un doigt accroché au ruban. Au-dessus, Catherine ouvre le tiroir à couverts.
 
-Il entend les pas de Catherine dans la cuisine, au-dessus de lui. Elle ne descend pas, elle lui laisse cet espace, respectant cette pudeur qu'il tente de briser depuis qu'il a compris que son silence l'éloignait de ses enfants, Stéphanie et Julien. Il repense avec une pointe de regret à ce dimanche de mars chez Catherine, où il était resté de marbre face à la détresse de Stéphanie, incapable de sortir de sa prison de verre. Patrick passe un doigt sur le métal rouillé de la pince. Il ne veut plus simplement refouler ou exploser. Il cherche une voie pour tenir debout sans redevenir une statue de pierre. Il commence à comprendre que la force, ce n'est peut-être pas de ne rien ressentir, mais de survivre à ce qu'il ressent.
+Il pourrait remettre la pince où elle était. Il la garde dans sa main jusqu’en haut de l’escalier. À mi-chemin, il se rappelle que Marcel lui a tendu l’outil manche en avant, comme s’il lui passait le relais d’une tâche très simple.
 
 ## Comprendre la diversité des réactions après un décès
 
@@ -51,20 +51,13 @@ Un repas, une promenade ou un échange peut lui offrir un moment différent. Si 
 
 « J’aimerais te montrer quelque chose que papa m’a donné », peut-il dire à Catherine. S’il préfère garder ce souvenir pour lui, il peut simplement demander un peu de compagnie.
 
-## Évolution de Patrick et reconstruction
+## Le bout de ruban
 
-Patrick quitte enfin l'établi. Il ne range pas la pince multiprise. Il la prend avec lui et monte l'escalier qui mène à la cuisine. Le craquement familier des marches ne le fait plus grimacer de la même façon. Il entre dans la pièce où Catherine finit de préparer le repas. Elle l'observe, remarquant ses mains abîmées qui tiennent l'outil. Patrick ne détourne pas le regard cette fois. Il s'approche de la table et s'assoit, non pas comme un homme vaincu, mais comme quelqu'un qui accepte de poser son fardeau.
+Patrick pose la pince sur la nappe. « C’est lui qui avait mis ça. Il trouvait les manches trop lisses. » Catherine lui demande si Marcel l’avait fait pour tous ses outils. Patrick ne sait plus. Il s’assied et lui montre comment le ruban avait été enroulé.
 
-Il raconte à Catherine quand Marcel lui a offert la pince. Elle lui demande s’il a envie de rester à table. Patrick accepte. Il sait que le souvenir peut le toucher autrement demain.
-
-Le soir même, il appelle son fils Julien. La conversation est brève, mais Patrick ose dire qu'il est fier de lui, sans détour, sans parler de la météo pour masquer son affection. En raccrochant, il ressent une fatigue saine. Le deuil de son père est là, bien réel, mais Patrick commence à comprendre que son propre chemin ne s'arrête pas à cette tombe. Il est le chef d'équipe de sa propre vie, et il apprend enfin à diriger ses émotions avec la même justesse qu'il dirigeait ses hommes sur les chantiers.
-
+Le soir, il appelle Julien pour lui demander s’il se souvient de la pince. Son fils confond d’abord avec celle de la caisse verte. Patrick le laisse chercher. Quand Julien retrouve le bon souvenir, il raconte un détail dont Patrick n’avait jamais entendu parler : Marcel avait acheté le ruban avec lui.
 ---
 
-Patrick partage un souvenir et retrouve un peu de compagnie. On peut vivre ces moments différemment d’un jour à l’autre.
-
-Le rythme et les besoins peuvent évoluer. Les personnes endeuillées peuvent chercher un soutien quand elles en ressentent le besoin.
-
-Si la perte d'un proche devient trop lourde ou si la douleur semble insurmontable, solliciter l'aide d'un professionnel de la santé mentale est une démarche constructive. Un psychologue ou un thérapeute spécialisé dans le deuil offre un espace sécurisé pour naviguer dans ces moments difficiles et accompagne vers une reconstruction durable.
+Une personne endeuillée peut retrouver un moment de compagnie et éprouver de nouveau le manque. Si la souffrance devient trop lourde à porter, il est possible de chercher un soutien adapté auprès d’un professionnel.
 
 Sources : [Bonanno et collègues, trajectoires après un décès, 2002](https://pubmed.ncbi.nlm.nih.gov/12416919/), [Stroebe et Schut, modèle du double processus de deuil, 1999](https://pubmed.ncbi.nlm.nih.gov/10848151/), [NHS, deuil et perte](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/).

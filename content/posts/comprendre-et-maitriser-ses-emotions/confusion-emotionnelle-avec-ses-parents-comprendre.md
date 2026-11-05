@@ -17,7 +17,7 @@ Le carrelage de la cuisine de sa mère, Leïla, brille sous l'éclat de la lumi�
 
 Il se souvient de ce dîner au restaurant avec Léa, il y a quelques jours, où il avait utilisé la réévaluation cognitive pour ne pas se murer dans le silence. Il a fait des progrès, il le sait. Pourtant, ici, face à la vulnérabilité de sa mère, les outils habituels semblent s'enrayer. Leïla pose sa main sur la sienne, cherchant une connexion, un écho à son récit nostalgique. Youssef sourit poliment, mais à l'intérieur, c'est le brouillard total. Est-il triste ? Est-il agacé par ce déballage de sentiments ? Est-il simplement fatigué de sa semaine au bureau ? Il est incapable de coller une étiquette sur ce qu'il traverse.
 
-Cette sensation de ne pas savoir ce que l'on ressent, de percevoir un signal physique sans pouvoir le traduire en mot, c'est ce qu'il commence à identifier comme une forme de saturation. Son père, Hamid, n'est pas loin, lisant le journal dans le salon. De lui, Youssef a appris que les émotions sont un jardin secret qu'on ne cultive que dans l'ombre. Ce contraste permanent entre l'expressivité de sa mère et la pudeur de son père crée en lui une zone de turbulence. Il regarde sa montre, notant qu'il est exactement seize heures trente, cherchant dans la précision des chiffres un refuge contre l'indéfinissable qui l'envahit.
+Autrefois, Hamid lisait le journal dans la pièce voisine. À travers la porte ouverte, il levait un instant les yeux, repliait la page des annonces, puis reprenait sa lecture. Youssef repense à ce geste pendant que Leïla parle. Il regarde sa montre : seize heures trente. Sa mère en est au même souvenir et il se demande s’il a manqué une question.
 
 ## Définition de la confusion émotionnelle
 
@@ -35,7 +35,7 @@ Chez Youssef, la confusion naît souvent du décalage entre l'adulte qu'il est d
 
 ### L'intellectualisation comme bouclier de protection
 
-Comme il l'a découvert lors de ses précédentes réflexions sur son exigence élevée, Youssef utilise la logique pour cartographier son monde. Face à ses parents, cette tendance s'accentue. Si son père Hamid fait une remarque sur sa carrière ou sur son futur déménagement à Lyon avec Léa, Youssef ne ressent pas immédiatement de la colère ou de l'oppression. À la place, il analyse la structure syntaxique de la phrase de son père ou évalue la pertinence statistique de son argument. Se concentrer sur les mots du père laisse à Youssef moins de place pour se demander ce qu’il éprouve, dans ce moment précis.
+Comme il l'a découvert lors de ses précédentes réflexions sur son exigence élevée, Youssef utilise la logique pour cartographier son monde. Face à ses parents, cette tendance s'accentue. Quand il repense à une remarque de Hamid sur sa carrière, Youssef n’éprouve pas toujours immédiatement de la colère ou de l'oppression. À la place, il analyse la structure syntaxique de la phrase de son père ou évalue la pertinence statistique de son argument. Se concentrer sur les mots du père laisse à Youssef moins de place pour se demander ce qu’il éprouve, dans ce moment précis.
 
 Youssef se souvient du besoin de tout remettre en ordre qu’il a éprouvé en regardant jouer son neveu. Il s’interroge sur ce que ces scènes ont en commun, sans y voir la preuve d’un mécanisme ou d’une cause unique.
 
@@ -59,7 +59,7 @@ Une roue d’émotions peut servir de liste de mots. Elle ne permet pas de dédu
 
 Il s'agit d'une technique de pleine conscience appliquée aux relations familiales. Lorsqu'une sensation de flou apparaît, au lieu de lutter contre elle ou de chercher une explication logique, on s'autorise à dire intérieurement : en ce moment, je ressens quelque chose de confus, et c'est normal. L'exercice consiste à accepter le brouillard comme un état en soi, plutôt que comme un problème à résoudre. Pour Youssef, cela signifie accepter qu'il puisse se sentir à la fois aimant et étouffé par sa mère, sans que cela fasse de lui un mauvais fils. Il peut garder plusieurs mots possibles, ou ne pas en choisir pour l’instant.
 
-## Évolution du personnage et déchiffrage du silence
+## Ce que Leïla raconte encore
 
 Assis dans la cuisine, Youssef sent que la pression dans sa poitrine ne diminue pas, mais il décide de ne plus l'ignorer en comptant les gouttes du robinet. Il applique la cartographie sensorielle. Il remarque que ses mains sont crispées sur le rebord de la table. Il les desserre consciemment, sentant la texture de la toile cirée sous ses doigts. Il regarde sa mère, Leïla, qui attend toujours un signe de sa part. Au lieu de chercher une analyse sur l'histoire de la Tunisie ou de projeter son propre stress comme il l'avait fait par le passé avec Léa lors de leur recherche d'appartement, il choisit la vérité de l'instant.
 
@@ -67,12 +67,10 @@ Il se rappelle comment il avait interprété l'enthousiasme de Léa comme une so
 
 Il ne sait toujours pas exactement s'il est triste pour elle ou pour lui-même, mais il reconnaît une forme de tendresse mêlée à une légère fatigue. C'est un progrès immense par rapport au masque de marbre qu'il arborait encore quelques mois plus tôt. Il prend la main de sa mère dans la sienne et serre légèrement. Il n'a pas besoin de mots compliqués pour exister dans cette pièce. Il accepte que sa relation avec ses parents soit faite de silences lourds d'histoire et de pudeur, et que sa confusion émotionnelle est simplement le signe qu'il apprend un langage qu'il avait longtemps cru inutile.
 
-En quittant l'appartement de ses parents ce soir-là, Youssef marche dans la rue avec une sensation de clarté nouvelle. Il n'a pas résolu tous ses conflits internes, mais il a cessé de se battre contre son propre ressenti. Il sait que lorsqu'il rentrera chez lui, il pourra expliquer à Léa non pas ce qu'il a pensé de son après-midi, mais ce qu'il a perçu, physiquement et émotionnellement. Il comprend que l'intellectualisation était une cage et que le flou, s'il est accueilli, est la première étape vers une authenticité qu'il n'osait pas imaginer.
+En quittant l’appartement de Leïla ce soir-là, Youssef marche dans la rue avec une sensation de clarté nouvelle. Il n'a pas résolu tous ses conflits internes, mais il a cessé de se battre contre son propre ressenti. Il sait que lorsqu'il rentrera chez lui, il pourra expliquer à Léa non pas ce qu'il a pensé de son après-midi, mais ce qu'il a perçu, physiquement et émotionnellement. Il comprend que l'intellectualisation était une cage et que le flou, s'il est accueilli, est la première étape vers une authenticité qu'il n'osait pas imaginer.
 
 ---
 
-Traverser une période de confusion émotionnelle avec ses parents est une expérience déstabilisante qui demande de la patience et de la bienveillance envers soi-même. Il n’est pas nécessaire d’y voir un signe de transformation ni d’en trouver immédiatement la cause. En apprenant à écouter votre corps et à nommer vos ressentis, vous transformez progressivement ce brouillard en une boussole précieuse pour vos relations futures.
-
-L'histoire de Youssef montre que même les esprits les plus rationnels peuvent trouver un chemin vers leur ressenti. Il est possible de se réapproprier son dictionnaire émotionnel et d'apprendre à naviguer dans les eaux parfois troubles de l'héritage familial. Chaque petit pas, chaque sensation identifiée, est une victoire sur le silence et l'inhibition.
+Youssef peut rester avec sa mère et remarquer qu’il éprouve à la fois de la tendresse et de la fatigue. Il pourra revenir à ce mélange plus tard, s’il en a envie.
 
 Si vous vous sentez régulièrement submergé par ce flou ou si vous avez l'impression que vos émotions sont inaccessibles au point de nuire à votre quotidien, l'aide d'un professionnel de la psychologie peut être utile. Un thérapeute pourra vous accompagner dans l'exploration de ces zones d'ombre et vous aider à traduire ce que votre esprit masque encore par la logique.

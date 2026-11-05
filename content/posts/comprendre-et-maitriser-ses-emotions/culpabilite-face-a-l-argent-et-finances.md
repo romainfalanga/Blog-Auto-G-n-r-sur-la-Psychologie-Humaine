@@ -53,9 +53,9 @@ Si leur budget laisse une marge, Thomas et Émilie peuvent convenir d’un monta
 
 La culpabilité se nourrit d'un discours interne critique et sévère. La technique de l'auto-compassion, développée par la chercheuse Kristin Neff, consiste à se traiter avec la même gentillesse que l'on traiterait un ami. Quand Thomas ressent cette oppression au moment de payer, il peut se dire intérieurement qu'il est normal de ressentir une tension car il a appris que l'argent était une ressource rare, mais qu'aujourd'hui, cet achat est cohérent avec sa vie. L'exercice consiste à remplacer le mot faute par le mot choix. On ne commet pas une faute en achetant du café de qualité, on fait un choix conscient qui honore le goût de sa compagne et le plaisir de partager un moment ensemble.
 
-## Thomas commence à poser ses propres limites financières
+## Un seul paquet dans le panier
 
-De retour dans sa cuisine, Thomas range les courses. Il a finalement pris le café préféré d'Émilie, ainsi que le paquet moins cher pour ses propres tasses du matin. C’est un compromis qu’il accepte enfin, sans se sentir obligé de se punir. Lorsqu'Émilie entre dans la pièce et remarque le café artisanal, elle le remercie d'un ton léger. Thomas sent la pulsion de se justifier monter en lui, l'envie de dire qu'il a hésité, qu'il a fait attention au reste du panier. Mais il se souvient de sa réflexion sur la lecture de pensée : il ne sait pas ce qu'elle pense, et il n'a pas besoin de s'excuser d'exister financièrement.
+De retour dans sa cuisine, Thomas range les courses. Il a pris le café qu’Émilie préfère, mais il a laissé l’autre paquet au magasin : il lui en reste dans le placard. Il garde le ticket pour voir ce que cette dépense représente dans la semaine. Quand Émilie le remercie, il ouvre la bouche pour lui parler du prix, puis lui demande si elle en veut une tasse.
 
 Il s'assoit à la table en bois et décide de parler franchement à Émilie de ses angoisses liées au futur enfant et au budget. Contrairement à leur discussion du 15 mars où il cherchait à tout résoudre seul, il exprime simplement son ressenti. Il admet qu'il a peur de manquer, non pas par manque de moyens, mais et ne sait pas encore quelle part tient à sa situation actuelle et quelle part à ses souvenirs. Émilie l'écoute, sa main posée sur la sienne. Ils ne sont plus dans le triangle de sauveur et de victime, mais dans un échange d'adulte à adulte. Thomas réalise que sa valeur ne dépend pas de l'équilibre parfait de son compte épargne, mais de sa capacité à être présent et honnête.
 
@@ -64,7 +64,5 @@ Ce soir-là, en préparant le dîner, Thomas ne ressent pas ce tiraillement habi
 ---
 
 L’inquiétude de Thomas peut tenir à ses souvenirs et à des contraintes présentes. Un budget serré reste un problème concret. En parler avec Émilie peut les aider à savoir où ils ont de la marge et où il leur faut un soutien.
-
-Le chemin vers la sérénité financière ne se limite pas à savoir remplir un tableau Excel. Il demande d'explorer ses blessures d'enfance avec douceur et de s'autoriser à exister au-delà du simple rôle de pourvoyeur ou d'épargnant. Chaque petite victoire contre la culpabilité, comme un achat plaisir assumé ou une discussion honnête avec ses proches, est un pas vers une liberté véritable. Vous n'êtes pas vos finances, et votre valeur humaine est indépendante du solde de votre compte en banque.
 
 Si ces sentiments de culpabilité ou d'anxiété face à vos finances deviennent envahissants et impactent votre quotidien ou vos relations, vous pouvez solliciter l'aide d'un professionnel de la psychologie. Un accompagnement thérapeutique peut vous aider à dénouer les fils complexes de votre histoire familiale et à construire un rapport à l'argent qui soit enfin au service de votre épanouissement, et non un frein à votre bonheur.

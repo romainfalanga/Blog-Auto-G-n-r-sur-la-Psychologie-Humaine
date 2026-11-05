@@ -13,7 +13,7 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Camille tient son badge dans la paume, le plastique glissant contre sa peau un peu moite. Il est midi quinze, la sonnerie du service s'est tue depuis dix minutes, et elle se tient devant son casier au parking de l'hôpital, écoutant le cliquetis lointain des chariots. Aujourd'hui, la direction a confirmé par mail la proposition qu'on lui a faite la semaine dernière : un poste de cadre de santé. C'est une opportunité qui change la donne pour sa famille, mais son esprit file déjà mille scénarios. Elle pense à Léo et Emma, à qui elle préparerait plus de stabilité, et en même temps elle imagine des réunions interminables, des conflits à trancher, et la critique potentielle de sa mère, Françoise.
+Le mail est arrivé avant midi. La direction confirme le poste de cadre dont Camille avait parlé à Nathalie fin mars. Cette fois, il y a un délai de réponse, un horaire indiqué et des éléments encore à demander. Devant son casier, Camille compte les mercredis du mois sur son téléphone avant de se rendre compte qu’elle ignore toujours comment se passera la prise de poste.
 
 Cette hésitation réveille en elle un écho familier. Elle se revoit, quelques mois plus tôt, incapable de franchir le seuil de la chambre d'un patient sans vérifier trois fois ses constantes par peur de l'erreur. Elle repense au jour où sa gêne thoracique a été évaluée à l’hôpital : elle ne cherche plus l'invincibilité, mais la justesse. Pourtant, l'enjeu de ce nouveau poste réactive son vieux réflexe de vouloir tout contrôler pour ne laisser aucune prise au jugement maternel.
 
@@ -45,7 +45,7 @@ Plutôt que des signes extrêmes, l'inquiétude peut produire des indices physiq
 Exemple : se surprendre à vérifier plusieurs fois un dossier la nuit ou à se lever pour écrire une note, comme si l'action empêchait l'angoisse de monter. Ces micro-comportements peuvent passer inaperçus mais maintiennent l'alerte.
 
 ## Techniques pour apaiser l'inquiétude et décider sereinement
-Voici trois techniques pratiques, numérotées et directement applicables, que Camille utilise aujourd'hui en s'appuyant sur les acquis de ses chapitres précédents : nommer la catastrophisation, pratiquer l'auto-compassion et repérer le filtre mental.
+L’offre soulève trois questions différentes. Camille essaie de séparer ce qu’elle craint, ce qu’elle peut demander au service et ce qu’elle devra décider elle-même.
 
 ### 1. La technique du scénario balisé
 Objectif : transformer la rumination en plan d'action mesurable.
@@ -68,16 +68,18 @@ Exercice : vérifiez la date réelle de réponse et choisissez quand reprendre l
 
 Le délai sert à organiser les démarches ; il ne garantit pas que l’inquiétude disparaîtra. Pour Camille, la date fixe surtout le moment où elle reprendra les informations disponibles et décidera de sa réponse.
 
-## Évolution de Camille et passage à l'action
-Camille applique la technique du scénario balisé dans la salle d'archives de l'hôpital, entourée d'odeurs de papier et du froissement des gants jetables. Elle écrit, au stylo bleu, trois lignes pour chaque scénario, et découvre qu'elle peut imaginer des actions concrètes qui ne dévorent pas sa vie familiale. Elle se rappelle qu'elle a appris à reconnaître la catastrophisation (chapitre 3), et cette prise de conscience l'aide à distinguer les scénarios plausibles des scénarios dramatiques.
+## Ce qu’il reste à demander
+Camille applique la technique du scénario balisé dans la salle d'archives de l'hôpital, entourée d'odeurs de papier et du froissement des gants jetables. Elle écrit, au stylo bleu, trois lignes pour chaque scénario, et découvre qu'elle peut imaginer des actions concrètes qui ne dévorent pas sa vie familiale. Elle se rappelle qu'elle a appris à reconnaître sa réaction à la toux de Léo, et cette prise de conscience l'aide à distinguer les scénarios plausibles des scénarios dramatiques.
 
 Dans le tram, Camille note qu’elle ne peut pas prévoir ce que dira Françoise. Elle se souvient de l’exercice du 27 avril et se dit : « Je peux me tromper et apprendre, comme je l’ai déjà fait en service. »
 
-Elle repense à la manière dont elle a récemment géré la fin de vie de Monsieur Girard. Elle avait su rester présente sans se laisser submerger, une preuve tangible qu'elle possède désormais une solidité émotionnelle qu'elle n'avait pas l'année dernière. Cette compétence de régulation, elle peut la transposer dans ce nouveau rôle de cadre.
+Elle repense à la manière dont elle a récemment géré la fin de vie de Monsieur Girard. Elle avait su rester présente sans se laisser submerger, elle avait pu écouter, puis faire intervenir Julie quand la discussion dépassait ce qu’elle pouvait répondre. Elle se demande qui assurerait un relais semblable pendant ses premières semaines dans le poste.
 
 Camille vérifie le délai de réponse et demande quelles formes de soutien sont possibles. David propose de revoir avec elle l’organisation des semaines de travail. L’inquiétude est encore là, mais elle sait quelles questions poser.
 
 Elle sent une nouveauté dans son rapport à l'incertitude. Là où autrefois son esprit pouvait rester piégé, elle utilise maintenant des routines apprises comme le nommage des pensées, l'auto-compassion et le contrôle des ruminations comme des outils. Ce n'est pas une disparition de la peur, mais une relation différente avec elle : une capacité à la questionner et à poser des pas concrets, même imparfaits.
+
+Camille envoie ses questions à la direction. À la maison, elle entoure un mercredi sur le calendrier avec David, puis repose le feutre pour attendre les horaires. L’enveloppe de mars lui avait donné envie d’y aller. Pour répondre au mail, elle a besoin de la suite.
 
 ---
 

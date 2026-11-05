@@ -15,7 +15,7 @@ draft: false
 
 La ficelle du sachet de semences se défait entre les doigts de Salomé. Elle connaît le nom des bois, beaucoup moins celui des plantes qu’on lui propose de semer. Nora l’invite à découvrir son jardin partagé et lui montre où poser son sac. Salomé apprécie d’arriver dans un lieu où elle peut apprendre. Puis une personne entend qu’elle est luthière et lui demande si elle pourrait réparer le banc, apporter des outils et revenir samedi prochain.
 
-À vingt-neuf ans, Salomé est célibataire, non binaire et utilise les accords féminins. Elle partage son atelier avec Gaspard et vient de trouver des façons plus choisies de se présenter dans les rencontres professionnelles. Au jardin, elle souhaite surtout passer du temps dehors avec Nora et rencontrer d’autres personnes. Son identité ne dit rien de sa manière d’entrer dans ce groupe. La tension présente vient d’une invitation chaleureuse qui s’accompagne soudain de plusieurs attentes.
+Nora lui montre le banc près de la barrière. Avant même d’en essayer l’assise, Salomé reconnaît l’assemblage et imagine comment remplacer la vis tordue. Le sachet de semences est encore entre ses mains. Elle est venue pour demander à Nora comment mettre les graines en terre. Déjà, quelqu’un lui a apporté un tournevis.
 
 Elle répond « je vais voir » à la réparation et accepte déjà de chercher une vis. Elle aime rendre service et sait examiner un assemblage. Elle remarque néanmoins que sa première visite se remplit de tâches qu’elle ne choisit pas. Elle voudrait demander comment planter les graines, mais craint de paraître moins utile que ce que son métier laisse espérer. L’appartenance commence à ressembler à une place qu’il faudrait payer par sa disponibilité.
 
@@ -77,13 +77,13 @@ Le résultat pourrait être différent sans devenir un rejet. Le groupe pourrait
 
 Après la visite, elle fait un bilan simple : quel moment l’intéresse, quelle limite est respectée, quelle attente doit encore être clarifiée ? Elle évite de juger tout le groupe à partir d’un seul détail favorable. Elle peut revenir et observer davantage. Elle peut aussi choisir de ne pas poursuivre si le cadre ne lui convient pas. Une appartenance choisie inclut la possibilité d’évaluer le lieu, et pas seulement de se demander si le lieu l’accepte.
 
-## Salomé revient pour autre chose que rendre service
+## La terre dans les dents du râteau
 
 À la fin de l’après-midi, Salomé lave le petit râteau avec Nora. La terre résiste dans les rainures et éclabousse le bord de l’évier extérieur. Elle connaît maintenant le nom de deux plantes et se trompe encore sur la troisième. Cette place de débutante lui plaît. Elle n’a pas réparé le banc et reste néanmoins incluse dans la conversation sur la prochaine récolte. Le fait compte davantage qu’une garantie abstraite d’être toujours bienvenue.
 
 Elle annonce sa prochaine venue sans s’engager sur toutes les semaines. Une personne lui demande encore si elle pourra regarder le banc un jour. Salomé répond qu’elle décidera plus tard, après avoir vu l’ampleur de la tâche. Elle n’utilise pas le refus pour devenir distante ni le futur pour promettre une réparation cachée. Elle garde un choix ouvert parce qu’elle ne sait pas encore ce qu’elle souhaite offrir.
 
-En quittant le jardin, elle dit à Nora qu’elle apprécie d’être venue. Elle peut aussi nommer la pression qu’elle se met autour de l’utilité. Nora l’écoute sans la définir comme incapable de recevoir un accueil. Salomé garde une hypothèse locale sur cette première visite et des faits qui la nuancent. Elle peut appartenir à ce groupe avec des compétences, des limites et une curiosité qui ne se résument pas à un seul rôle.
+En passant près de la sortie, Salomé retrouve le banc. Le pied bouge encore. Quelqu’un a posé une cale en attendant. Elle en parle à Nora, qui lui dit qu’un autre jardinier a promis de regarder samedi. Salomé lui demande plutôt si les semis pourront supporter la chaleur annoncée. Elles reviennent jusqu’au carré pour vérifier où tombe l’ombre.
 
 ---
 

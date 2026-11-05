@@ -13,7 +13,7 @@ contexte: "avec ses enfants"
 draft: false
 ---
 
-Bernard frotte une dernière surface de la commode avec un chiffon imbibé d'huile. Le bois exhale une odeur chaude et résineuse qui lui parle plus facilement qu'une discussion. Au milieu de l'atelier, entre les copeaux et les outils polis, il pense au mot qui l'obsède aujourd'hui : manque affectif avec ses enfants. Il sait que ce meuble porte une part de lui, un message arrêté, mais il hésite à glisser des mots au-delà des tiroirs.
+La commode est prête à être vérifiée. Bernard a laissé le dernier tiroir entrouvert parce qu’il accroche encore en fin de course. Il demandera à Éric de le soulever un peu quand il passera. C’est une façon familière de travailler côte à côte. Pour le reste, il aimerait trouver un moment où ils auront tous les deux les mains libres.
 
 Sultan s'étire près de l'établi, la radio diffuse une émission régionale, et Bernard range un racloir. Il repense à la dernière visite d'Éric, la tension dans l'encadrement de la porte, la façon dont son fils évite certains sujets. Depuis le 16 mars, il a remarqué qu'il se réfugie dans le travail quand une conversation devient trop chaude, un réflexe qu'il utilisait jadis pour fuir le jugement de ses propres parents. Depuis le 18 mars, il sent que la solitude le pèse autrement qu'avant. Aujourd'hui, ce n'est plus seulement Hélène qui manque, c'est la façon de partager le quotidien avec Éric, sans mâchoires serrées ni élégance muette.
 
@@ -69,14 +69,16 @@ Exercice concret :
 
 Cette note sert à préparer une proposition. L’autre reste libre de ne pas en parler ou de préférer une autre forme de contact.
 
-## Évolution de Bernard et nouveaux rituels
-La porte de l'atelier s'ouvre, Éric apparaît, la commode en toile de fond. Bernard sent une familiarité nerveuse, mais il a essayé la technique du mot en petites étapes pendant une semaine déjà. Il a envoyé trois messages courts, il a tenu la règle des phrases factuelles. Éric remarque la régularité et cela désamorce une partie de la rancœur.
+## Éric soulève le tiroir
+La porte de l'atelier s'ouvre, Éric apparaît, la commode en toile de fond. Bernard sent une familiarité nerveuse, mais il a repris la phrase qu’il avait prononcée une semaine plus tôt et s’est essayé à écrire avant leur prochain rendez-vous. Il a envoyé trois messages courts, il a tenu la règle des phrases factuelles. Éric remarque la régularité et cela désamorce une partie de la rancœur.
 
 Ils lèvent ensemble un tiroir pour vérifier la course. Sultan pose la tête sur le pied de la commode, comme pour attester que la présence est réelle. Bernard dit d'une voix mesurée, sans fioritures : "J'ai poli les poignées comme tu aimes." Ce n'est pas une confession lyrique, mais c'est une avancée. Éric répond, hésitant, et la conversation se noue sur la commode plutôt que dans un face-à-face accusateur. Bernard sourit intérieurement en constatant que son besoin de connexion n'est plus seulement comblé par le travail solitaire du bois, mais par ce fragile échange.
 
 Lors de la pause, Bernard propose à Éric de l'aider pour la finition. Ils acceptent la règle de l'atelier partagé : dix minutes de travail, dix minutes d'échange factuel. Le cadre fonctionne. Les gestes remplacent l'angoisse d'une déclaration orale lourde. Bernard sent que ses acquis précédents (la reconnaissance de son surcontrôle et la conscience de son isolement) l'aident à structurer ces rencontres. Il comprend que ses meubles peuvent être des médiateurs, pas des barrières.
 
 Après le départ d'Éric, Bernard s'installe à son établi et ouvre la feuille où il a inscrit ses intentions. Il complète la troisième colonne en ajoutant une promesse modeste : appeler son fils une fois par semaine, même si l'appel est court. Il sait que la constance est plus précieuse qu'une explosion émotionnelle. Cette stratégie de petits pas est un nouveau rituel qu'il s'autorise, sans trahir sa pudeur, mais en répondant enfin à son propre manque.
+
+Éric tire le tiroir jusqu’au bout et dit qu’il faudra le porter à deux. Bernard propose d’attendre un moment où ils pourront tous les deux s’en occuper. Ils laissent la commode contre le mur.
 
 ---
 

@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-« Les étiquettes, je peux les refaire. » Aline prononce cette phrase devant une pile de boîtes parfaitement identifiables. Au local associatif, le partage des tâches figure au programme de la réunion, mais sa surresponsabilité prend déjà les devants. Claire propose de confier les inscriptions à Bastien. Aline connaît les anciens formulaires et commence aussitôt à énumérer toutes les exceptions, jusqu’à transformer une mission simple en épreuve de qualification.
+« Les étiquettes, je peux les refaire. » Aline prononce cette phrase devant une pile de boîtes parfaitement identifiables. Au local, elle a même apporté les deux feutres qu’elle préfère pour le tableau. Bastien pose son propre cahier à côté des boîtes. Claire propose de confier les inscriptions à Bastien. Aline connaît les anciens formulaires et commence aussitôt à énumérer toutes les exceptions, jusqu’à transformer une mission simple en épreuve de qualification.
 
 La responsable de quincaillerie n’a pourtant plus à transporter les établis. Elle conserve la limite posée quelques jours plus tôt et sa randonnée avec Étienne a bien lieu. Elle revient avec de la boue sur les chaussures et le plaisir d’avoir laissé le groupe s’organiser. Ce soir, néanmoins, l’idée d’une inscription oubliée lui paraît plus difficile à supporter qu’un trajet assuré par quelqu’un d’autre. La limite matérielle est acquise plus vite que la confiance.
 
@@ -81,7 +81,7 @@ Elle s’entraîne avec un exemple sans gravité : un participant demande un cr�
 
 Le groupe prévoit aussi qu’aucun bénévole ne garde seul un dossier inaccessible. Les accès utiles sont partagés de façon appropriée et les coordonnées personnelles ne circulent pas au-delà du nécessaire. Une personne peut donc s’absenter sans préparer une passation héroïque. Cette mesure concrète soutient davantage la continuité du projet que l’engagement vague de « faire confiance » à l’avenir.
 
-## Aline commence à laisser une mission entière
+## Le tableau de Bastien
 
 Jeudi, Bastien arrive avec une liste de questions brève. Aline attend presque un problème qui justifierait son inquiétude. Il manque une information sur l’accessibilité de la salle, qu’ils demandent à Claire. Le reste avance. Le tableau comporte une présentation différente de celle d’Aline, mais les participants reçoivent une réponse et les créneaux sont lisibles.
 

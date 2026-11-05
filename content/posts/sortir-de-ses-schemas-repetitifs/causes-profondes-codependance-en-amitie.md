@@ -13,7 +13,7 @@ contexte: "en amitié"
 draft: false
 ---
 
-La lumière crue de sa lampe de bureau projette des ombres allongées sur les murs tapissés de fiches de révisions de son studio. Léa frotte ses yeux irrités par la fatigue alors que l'horloge affiche deux heures du matin. À côté d'elle, Zoé somnole sur le canapé convertible, attendant que Léa termine de corriger la bibliographie de son dossier de rattrapage. Léa sait qu'elle a son propre examen de psychopathologie demain matin à la faculté, mais une force invisible l'empêche de fermer son ordinateur. Elle se sent responsable de la réussite de son amie, comme si l'échec de Zoé serait le sien.
+Il est deux heures du matin et Zoé s’est endormie sur le canapé du studio. Léa en est à la dernière référence du dossier. Elle s’était proposée pour relire deux pages ; elle a maintenant ouvert le fichier de mise en page. Son propre travail attend sous l’ordinateur, marqué d’un morceau de papier.
 
 Chaque clic sur le clavier résonne dans le silence pesant de la pièce. Léa se souvient de ce sentiment d'urgence qu'elle éprouvait enfant, lorsqu'elle essayait de consoler sa mère, Anne, après une énième dispute avec Michel. Aujourd'hui, elle reproduit ce schéma avec une précision chirurgicale. Elle a déjà compris, lors de ses récentes réflexions sur son sentiment de rejet et ses biais de lecture de pensée, que son besoin de sécurité affective est immense. Pourtant, savoir ne suffit pas toujours à arrêter le mouvement. Elle se sent investie d'une mission de sauvetage qui l'épuise physiquement. Cette compulsion à vouloir sauver Zoé fait écho à la trahison qu'elle a ressentie à la bibliothèque, lorsqu'elle avait réalisé que son dévouement n'était pas toujours réciproque.
 
@@ -35,7 +35,7 @@ La manifestation la plus flagrante est l'incapacité à dire non, même lorsque 
 
 ### 2. L'hyper-responsabilisation face aux émotions de l'autre
 
-Léa se sent responsable de l’humeur de son amie dans cette scène. Si l'autre est triste, en colère ou stressé, elle pense que c'est à elle de trouver la solution. Cela crée une vigilance constante, une forme de radar émotionnel qui cherche en permanence à détecter le moindre signe de malaise chez l'autre. Dans ses chapitres précédents, Léa avait identifié sa tendance à la lecture de pensée. Ici, cette distorsion sert de moteur à la codépendance : elle interprète un silence de Zoé comme une détresse qu'elle doit absolument réparer, oubliant que Zoé est une adulte responsable de ses propres états d'âme.
+Quand Zoé s’interrompt, Léa cherche déjà ce qu’elle pourrait dire pour la faire aller mieux. Elle a connu ce réflexe dans d’autres conversations, où elle avait pris un silence pour une réponse. Cette fois, elle demande à Zoé si elle souhaite continuer à en parler ou passer à autre chose.
 
 ### 3. Vérifier l’aide que l’autre demande
 
@@ -57,18 +57,16 @@ Cet exercice consiste à noter sur une feuille, lors d'une interaction tendue, c
 
 Il s'agit de s'entraîner à exprimer un besoin personnel simple avant de s'occuper de celui de l'autre. Pour une demande ordinaire, avant d’accepter d’aider, l'exercice demande de verbaliser une limite physique ou temporelle. Par exemple, préciser que l'on souhaite manger d'abord, ou que l'aide sera limitée à trente minutes avant d'aller dormir. Commencer par de petites affirmations permet de muscler sa capacité à exister à côté de l'autre, et non plus seulement à travers lui.
 
-## Léa commence à poser les armes
+## À Zoé de terminer
 
 L'écran de l'ordinateur scintille encore, mais Léa s'arrête net. Elle vient de taper la dernière référence bibliographique pour Zoé. Elle regarde son amie, endormie, et ressent une bouffée de chaleur qui n'est pas de l'affection, mais de la colère envers elle-même. Elle se rappelle ses séances de travail avec le Dr Moreau et ses réflexions sur sa propre enfance. Elle comprend que ce qu'elle fait ce soir n'est pas de l'amitié pure, c'est une vieille armure qu'elle a enfilée pour ne pas se sentir rejetée.
 
 Elle décide de ne pas finir la mise en page. Elle enregistre le document, ferme le capot de l'ordinateur avec un bruit sec et se lève. Ses jambes sont lourdes, mais elle ressent une étrange légèreté mentale. Elle réveille doucement Zoé. Elle lui explique, avec une voix calme mais ferme, qu'elle a fait le maximum mais qu'elle doit maintenant s'occuper de son propre examen. Elle ne s'excuse pas. Elle ne propose pas de se lever plus tôt le matin pour finir. Elle pose simplement le fait que sa propre réussite compte tout autant que celle de son amie.
 
-Zoé, un peu embrumée, marmonne un remerciement et s'étire. Contrairement aux craintes de Léa, son amie ne semble pas furieuse ni prête à couper les ponts. Ce constat agit comme un baume sur ses vieilles blessures d'abandon. Léa s'installe dans son lit, sentant le contact frais des draps contre sa peau. Pour la première fois depuis longtemps, elle ne cherche pas à deviner ce que Zoé pense d'elle. Elle se concentre sur sa propre respiration, sur le calme qui revient dans son studio, et sur cette victoire de s'être choisie au milieu de la nuit.
+Zoé demande si elle peut finir sur l’ordinateur de Léa. Léa lui envoie le fichier, mais garde l’ordinateur pour reprendre ses propres notes le lendemain. Elle se couche. Elle entend Zoé continuer à taper sur son téléphone et doit résister à l’envie de lui proposer encore un coup de main.
 
 ---
 
-Sortir de la codépendance en amitié est un processus long qui demande de la patience et de la bienveillance envers soi-même. Comme Léa, vous avez peut-être appris très tôt que votre valeur résidait dans votre utilité pour les autres. Apprendre à défaire ces nœuds est un acte de courage qui permet de construire des relations basées sur une véritable liberté et non sur la peur de perdre l'autre.
-
-Chaque limite posée, chaque besoin exprimé est une étape vers la reconstruction d'une estime de soi solide. Le chemin n'est pas linéaire, il y aura des moments de doute, mais la clarté que l'on gagne sur son propre fonctionnement est précieuse. Vous n'avez pas à être le sauveur de tout votre entourage pour mériter d'être aimé.
+Rendre le fichier à Zoé est une limite que Léa peut tenir ce soir. Elle entend encore les touches du téléphone et se demande si son amie lui en veut.
 
 Si vous sentez que ce schéma de sacrifice systématique vous épuise ou impacte votre santé mentale, entamer un travail avec un professionnel de la psychologie peut être bénéfique. Un thérapeute peut vous aider à explorer les racines de votre attachement et à transformer durablement votre manière d'être en lien avec les autres, pour que l'amitié reste une source de joie.

@@ -13,9 +13,9 @@ contexte: "lors d'un deuil"
 draft: false
 ---
 
-L'odeur de la sciure de chêne flotte dans l'air frais de ce matin d'avril. Bernard est debout devant son établi, une varlope à la main, mais son geste s'arrête net. Ses doigts calleux effleurent le grain du bois, là où le veinage dessine une courbe douce qui lui rappelle la naissance du cou d'Hélène. D'ordinaire, il aurait déjà repris le rabotage avec une précision mathématique, s'enfermant dans ce silence protecteur qui lui sert d'armure depuis l'accident. Mais aujourd'hui, la résistance physique qu'il opposait autrefois à la douleur semble s'être évaporée, surtout après ce blocage lombaire qui l'a forcé à l'immobilité il y a dix jours.
+En cherchant un embout, Bernard ouvre le mauvais tiroir. Il y trouve la poignée qu’Hélène avait choisie pour son buffet et qu’il avait gardée après l’avoir remplacée. Il connaît le poids de cette pièce au creux de la main. Il ne s’attendait pas à devoir s’asseoir pour la regarder.
 
-Il s'assoit lourdement sur son tabouret haut, celui qu'il a fabriqué il y a trente ans. Sultan, son vieux chien, vient poser son museau sur son genou, sentant sans doute que l'équilibre habituel de son maître vacille. Bernard ne cherche pas à attraper un ciseau à bois pour s'occuper l'esprit. Il fixe simplement le buffet en noyer qu'Hélène aimait tant, placé dans un coin de l'atelier pour être restauré. Ses yeux se brouillent. Ce n'est pas la colère sourde qu'il a ressentie en Toscane lors de ce voyage vide de sens, ni l'apathie qui l'écrasait le mois dernier. C'est une sensation nouvelle, plus fluide, plus pesante aussi.
+Il s’est assis sur le tabouret qu’il avait fabriqué il y a trente ans. Sultan, son vieux chien, vient poser son museau sur son genou, sentant sans doute que l'équilibre habituel de son maître vacille. Bernard ne cherche pas à attraper un ciseau à bois pour s'occuper l'esprit. Il fixe simplement le buffet en noyer qu'Hélène aimait tant, placé dans un coin de l'atelier pour être restauré. Ses yeux se brouillent. Ce n'est pas la colère sourde qu'il a ressentie en Toscane lors de ce voyage vide de sens, ni l'apathie qui l'écrasait le mois dernier. C'est une sensation nouvelle, plus fluide, plus pesante aussi.
 
 Une goutte d'eau finit par s'écraser sur le dos de sa main droite, celle qui porte les traces de quarante ans de métier. Bernard regarde cette larme avec une curiosité presque enfantine. Durant des décennies, il a cru que la force d'un homme résidait dans sa capacité à rester de marbre, une leçon apprise à la dure auprès de parents qui ne toléraient aucun débordement. Pourtant, à cet instant précis, le silence de l'atelier ne lui semble plus être une prison, mais un espace où cette humidité sur ses joues a enfin le droit d'exister. Il n'essaie plus de transformer son chagrin en meuble pour le fils avec qui il tente de se réconcilier, il le laisse simplement couler.
 
@@ -47,13 +47,15 @@ Puisque la parole est parfois difficile, notamment pour des tempéraments pudiqu
 ### 3. La planification de micro-connexions sociales
 Si un peu de compagnie vous ferait du bien, proposez une activité simple à quelqu’un de confiance. Vous pouvez aussi demander une aide pratique sans raconter votre peine. Le besoin d’être seul par moments n’établit pas un trouble du deuil.
 
-## Bernard commence à laisser couler ses larmes
+## Le buffet reste dans l’atelier
 
-Le soleil de cet après-midi de printemps décline, projetant de longues ombres sur les copeaux qui jonchent le sol de l'atelier. Bernard ne s'est pas remis au travail. Il est resté là, assis face au buffet d'Hélène, acceptant pour la première fois que sa carcasse d'homme fort puisse aussi être le réceptacle d'une immense fragilité. Il se souvient de la rigidité de son propre père et réalise qu'il n'est plus obligé de suivre ce vieux schéma. Il se souvient du jour où son dos l’a obligé à s’arrêter. Aujourd’hui, il peut laisser couler ses larmes sans en tirer d’explication pour sa douleur.
+Bernard remet la poignée d’Hélène dans le tiroir. Un client doit passer demain et la pièce sur l’établi attendra encore un peu. Il envoie un message pour dire que le travail prendra du retard. Il sait qu’il peut quitter l’atelier ce soir sans savoir encore quoi faire du buffet. Il est resté là, assis face au buffet d'Hélène, acceptant pour la première fois que sa carcasse d'homme fort puisse aussi être le réceptacle d'une immense fragilité. Il se souvient de la rigidité de son propre père et réalise qu'il n'est plus obligé de suivre ce vieux schéma. Il se souvient du jour où son dos l’a obligé à s’arrêter. Aujourd’hui, il peut laisser couler ses larmes sans en tirer d’explication pour sa douleur.
 
 Il prend son téléphone, un geste qui lui demandait autrefois un effort important. Il compose le numéro d'Éric. Lorsque son fils décroche, Bernard ne cherche pas à masquer le tremblement de sa voix. Il ne parle pas de la commode ou de l'établi en cours. Il dit simplement qu'il est en train de regarder le meuble en noyer et que la présence d'Hélène lui manque terriblement ce soir. Le silence à l'autre bout du fil n'est pas pesant, il est plein de cette reconnaissance mutuelle qu'ils cherchent depuis longtemps.
 
 En raccrochant, Bernard sent une fatigue saine, bien différente de l'épuisement nerveux des mois passés. Il sait que la tristesse lors d'un deuil ne va pas disparaître demain, mais il a compris qu'elle n'est pas son ennemie. Elle lui rappelle ce qui lui manque d’Hélène. Il se lève, caresse une dernière fois le bois lisse et appelle Sultan pour une promenade dans les champs. Il n'est plus l'artisan qui se cache derrière son établi, il est un homme qui commence à réapprendre à vivre, une émotion à la fois.
+
+Il descend le chemin avec Sultan. Au portail, il lui vient une phrase qu’il aurait dite à Hélène autrefois à propos de la poignée. Il prend son téléphone, le repose et laisse Sultan choisir de quel côté ils partiront.
 
 ---
 

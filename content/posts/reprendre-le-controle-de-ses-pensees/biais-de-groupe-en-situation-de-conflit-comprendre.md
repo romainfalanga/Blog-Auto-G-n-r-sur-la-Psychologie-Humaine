@@ -13,7 +13,7 @@ contexte: "en situation de conflit"
 draft: false
 ---
 
-La salle des professeurs du collège sent la craie humide et le café réchauffé. Isabelle est assise au bout de la grande table en chêne, ses doigts croisés autour de sa tasse de tisane tiède. Autour d'elle, l'atmosphère est électrique. Une réunion de crise vient de s'improviser suite à l'incident de la veille impliquant un groupe d'élèves de troisième. Laurent, le professeur d'histoire, hausse le ton en affirmant que ces familles sont de toute façon démissionnaires et qu'on ne peut plus rien tirer de ce quartier. Isabelle sent une étrange impulsion monter en elle, une envie de hocher la tête avec force, de se fondre dans cette colère collective qui semble souder ses collègues comme un seul bloc contre l'extérieur.
+La salle des professeurs du collège sent la craie humide et le café réchauffé. Isabelle est assise au bout de la grande table en chêne, ses doigts croisés autour de sa tasse de tisane tiède. Autour d'elle, l'atmosphère est électrique. Une réunion de crise vient de s'improviser suite à l'incident de la veille impliquant un groupe d'élèves de troisième. Le professeur d’histoire, hausse le ton en affirmant que ces familles sont de toute façon démissionnaires et qu'on ne peut plus rien tirer de ce quartier. Isabelle sent une étrange impulsion monter en elle, une envie de hocher la tête avec force, de se fondre dans cette colère collective qui semble souder ses collègues comme un seul bloc contre l'extérieur.
 
 Pourtant, une petite voix intérieure la retient. Elle repense à son fils Théo, avec qui les tensions s'apaisent doucement depuis qu'elle a compris ses propres schémas d'attachement le mois dernier. Elle se souvient aussi de sa fatigue de compassion, ce poids qui l'épuisait il y a quelques jours à peine. Aujourd'hui, elle perçoit physiquement le besoin de sécurité que lui procure cette réunion. En se rangeant du côté du nous, les profs, contre eux, les parents, elle ressent un soulagement immédiat, une protection contre l'épuisement qui la guette. C'est tellement plus simple de détester ensemble que de chercher à comprendre seule.
 
@@ -49,13 +49,11 @@ Le bien-être et la sécurité des élèves donnent une question concrète à l�
 
 Isabelle remarque qu’elle se crispe. Elle prend un instant pour distinguer sa colère, les informations entendues et ce qu’elle souhaite proposer. Ce sont ses propres réactions, même si la discussion les influence. Elle peut demander un temps de vérification avant qu’une décision soit prise.
 
-## Évolution du personnage : Isabelle choisit la nuance
+## Une objection autour de la table
 
-Isabelle pose sa tasse et écoute Laurent. Elle comprend qu’approuver les autres sur-le-champ lui éviterait un désaccord pénible. Elle se demande si les informations disponibles suffisent à parler de toutes les familles du quartier.
+Isabelle repose sa tasse. Elle demande de quels élèves il s’agit et quelles familles ont déjà été jointes. Son collègue répond qu’ils perdent du temps. Elle revient à sa question : qui appellera les parents des élèves présents, et sur quels faits ?
 
-Elle prend la parole, sa voix est calme, un peu plus assurée que d'habitude. Elle ne contredit pas frontalement Laurent, elle utilise un objectif concret partagé. Elle rappelle à l'assemblée qu'ils sont tous là parce qu'ils se soucient de l'avenir de ces jeunes, et que si le dialogue est rompu avec les familles, c'est leur propre travail qui devient impossible. Elle voit quelques regards s'adoucir, comme si la tension dans la pièce perdait de son intensité. Elle sent qu'elle n'est plus l'enfant qui doit plaire à tout prix, mais une professionnelle qui sait poser des limites tout en restant ouverte.
-
-En sortant de la réunion, Isabelle ne se sent pas épuisée comme les jours précédents. Elle a réussi à ne pas se laisser absorber par le biais de groupe en situation de conflit. Elle marche vers son bureau en pensant à Théo. Elle se rend compte que sa capacité à rester elle-même, même sous la pression du groupe, est un accomplissement personnel majeur. Elle n'a plus besoin de choisir un camp pour exister. Elle se sent simplement à sa place, lucide et enfin capable de protéger son énergie tout en restant fidèle à ses valeurs de psychologue.
+À la sortie, ils n’ont pas le même avis sur la réunion. Deux appels ont été répartis. Isabelle vérifie qu’elle n’a pas promis de prendre les deux. Dans le couloir, elle a encore envie d’aller expliquer à son collègue qu’elle ne l’accusait de rien.
 
 ---
 

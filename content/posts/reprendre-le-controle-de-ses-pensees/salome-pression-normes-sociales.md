@@ -15,9 +15,9 @@ draft: false
 
 Les cintres s’entrechoquent derrière une porte entrouverte. Pour la photographie d’un collectif d’artisans, on propose à Salomé une veste sombre qui n’est pas la sienne. « Pour donner une image sérieuse et homogène », explique la personne qui organise la séance. Salomé regarde sa chemise brodée, puis le vêtement tendu. Elle rencontre une pression de norme sociale sous une forme très concrète : une manière de paraître est présentée comme la condition évidente de la crédibilité.
 
-Salomé a vingt-neuf ans, est luthière et partage son atelier avec Gaspard. Elle est célibataire, non binaire et choisit les accords féminins. Ces informations ne déterminent pas son style vestimentaire ni sa réaction. Elle aime cette chemise et ne comprend pas encore pourquoi elle devrait l’échanger. Elle pourrait apprécier une photographie uniforme si elle en connaissait le projet. Ce qui l’agace est l’équivalence rapide entre veste sombre, neutralité et sérieux professionnel.
+Sur la table d’à côté, plusieurs artisans déplient déjà la veste qu’on leur a apportée. Une manche dépasse du bord. Salomé tient la sienne par le col sans l’enfiler. Lors de la préparation de sa fiche, elle avait demandé à voir le texte avant sa diffusion. Ici, elle ne sait même pas si la veste fait partie du projet du photographe.
 
-Après avoir choisi une présentation publique pour une rencontre artisanale, elle souhaite garder la même maîtrise sur son image. Pourtant, plusieurs personnes enfilent déjà les vêtements proposés. Salomé se demande si sa question ralentira tout le monde. Personne ne la critique directement. Le mouvement du groupe suffit à lui donner l’impression qu’une discussion n’est plus possible. Elle commence à tenir la veste devant elle avant d’avoir décidé de la porter.
+Quelqu’un fait passer les cintres vides jusqu’à la porte. Salomé se décale pour lui laisser le passage. Dans le miroir, elle regarde la veste tenue devant elle et la manche brodée qu’elle recouvre. Le photographe appelle les premiers du groupe. Elle garde la veste à la main pour aller lui poser sa question.
 
 Gaspard lui demande si la taille lui convient. Salomé répond : « Je ne sais pas encore si je veux la mettre. Je voudrais comprendre la consigne. » Elle retourne vers l’organisation et pose une question précise : la veste est-elle nécessaire pour une raison technique ou seulement préférée pour le rendu ? La réponse ne réglera pas toute la place des normes dans le métier. Elle peut néanmoins transformer une obligation supposée en demande identifiable, qu’elle pourra accepter ou discuter.
 
@@ -77,13 +77,13 @@ Cette réception ne garantit pas que toute différence sera bien accueillie aill
 
 Le bilan peut tenir en trois phrases : qu’est-ce que je choisis, qu’est-ce qui se produit, qu’est-ce que je garde pour la suite ? Il ne demande pas de noter sa capacité à résister aux normes. Parfois, le choix sera de suivre un usage qui convient ; parfois, de le discuter ; parfois, de chercher un autre environnement. La finalité est une décision informée, dans les possibilités réelles de la situation.
 
-## Salomé reste dans la photo avec un choix qui lui appartient
+## La chemise reste dans le cadre
 
-Le photographe demande au groupe de déplacer les établis de démonstration de quelques centimètres. Salomé tient un instrument et attend le signal. Elle n’a plus la veste empruntée sur le bras. Le soulagement n’efface pas son irritation devant le mot « neutre » utilisé au départ. Elle prévoit d’en reparler calmement avec l’organisation, car la présentation de la consigne pourrait être plus claire lors d’une prochaine séance.
+Le photographe demande au groupe de déplacer les établis de démonstration de quelques centimètres. Salomé tient un instrument et attend le signal. Elle n’a plus la veste empruntée sur le bras. Le mot « sérieuse », prononcé au début, l’agace encore. Elle prévoit d’en reparler calmement avec l’organisation, car la présentation de la consigne pourrait être plus claire lors d’une prochaine séance.
 
-Gaspard lui dit qu’il croit lui aussi la veste obligatoire. Leur échange ne transforme pas les autres artisans en personnes incapables de choisir. Il montre seulement que deux personnes peuvent supposer une même contrainte sans qu’elle existe vraiment. Salomé n’a pas dû convaincre tout le monde de changer de tenue pour trouver sa place dans l’image. La consigne clarifiée suffit à rendre plusieurs choix possibles.
+Gaspard lui dit qu’il avait compris, lui aussi, que la veste était obligatoire. Leur échange ne transforme pas les autres artisans en personnes incapables de choisir. Il montre seulement que deux personnes peuvent supposer une même contrainte sans qu’elle existe vraiment. Salomé n’a pas dû convaincre tout le monde de changer de tenue pour trouver sa place dans l’image. La consigne clarifiée suffit à rendre plusieurs choix possibles.
 
-Elle reçoit ensuite la photographie et vérifie qu’elle correspond à l’usage annoncé. Elle s’y reconnaît et donne son accord pour cette affiche précise. Le prochain contexte pourra demander autre chose. Elle conserve surtout une question disponible : est-ce une nécessité, une habitude ou une attente supposée ? Cette question lui permet de rencontrer une norme sans lui confier immédiatement le jugement de sa compétence ou de sa légitimité.
+Plus tard, le photographe envoie l’image. Salomé y distingue le manche de l’instrument et le bord de sa chemise. Elle répond qu’il peut employer cette photographie pour l’affiche. Dans la série de clichés suivante, elle laisse celui où elle regarde ailleurs, même si elle préfère la façon dont la lumière y tombe sur le bois.
 
 ---
 

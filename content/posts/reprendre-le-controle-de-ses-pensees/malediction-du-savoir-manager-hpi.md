@@ -61,15 +61,11 @@ Présentez une décision par étapes si cela convient au groupe. Demandez ensuit
 
 Les 90 secondes et les quelques mots retenus par Fabien dans la scène sont des choix de réunion, pas un protocole validé. L’équipe doit pouvoir faire préciser le contenu et exprimer un désaccord sans être mise à l’épreuve.
 
-## Évolution de Fabien et ajustement du discours
+## La consigne au moment de la relève
 
-De retour à son appartement qui sent encore le neuf, Fabien relit ses notes. Il se rappelle les exercices sur les injonctions de type "je dois" qui l'avaient tant paralysé face à Lucas et Véronique. Il comprend que son exigence de perfection intellectuelle est une autre forme de ces obligations rigides. Ces acquis ne sont pas restés théoriques. Aujourd'hui, ils deviennent des outils pour briser son scénario de vie d'enfant parentifié qui devait tout comprendre tout seul. Il prépare la réunion de demain avec la carte de rôle sous le bras et une liste de trois questions naïves prêtes à être posées.
+Dans l’atelier, Fabien pose sa fiche près des consignes habituelles. Il pense qu’il lui manque une explication sur le calendrier. Une opératrice lui montre un autre problème : le nom qu’il emploie pour une tâche ne désigne pas la même chose dans les deux équipes. Il raye le mot et lui demande comment elle l’indiquerait au poste.
 
-Le lendemain matin, il entre dans la salle d'atelier avec une fiche accrochée au tableau : "Si j'étais opérateur, voici ce qui m'inquiéterait". Il commence par lire la première question naïve, puis explique la décision en deux segments de 90 secondes. Un responsable d'équipe lève la main et reformule en huit mots ce qu'il a compris. Fabien corrige une phrase qui, dans sa tête, avait du sens mais révélait des suppositions erronées. Il sent une dynamique changer : la conversation devient plus lente, inclusive, moins assujettie à son rythme interne.
-
-Ce processus le rattache aussi à sa vie personnelle. Lors d'un dîner avec Lucas, il utilise le même schéma : il écrit deux questions simples sur un post-it pour ouvrir la discussion, évitant les interprétations automatiques. Lucas répond différemment, de manière plus franche et moins défensive. Fabien apprécie ces réajustements, non pas comme une victoire intellectuelle, mais comme une modulation relationnelle qui tient compte de l'autre.
-
-En intégrant ces techniques, il garde sa rigueur analytique, mais il module son discours pour que les autres ne soient pas obligés de parcourir le chemin mental qu'il prend naturellement. Il ne supprime pas sa connaissance, il la traduit. Ce changement s'inscrit comme la continuité des chapitres précédents : après avoir reconnu ses transmissions familiales et la rigidité de ses obligations internes, il mobilise maintenant son expertise pour faciliter la navigation des autres, plutôt que pour imposer un panorama mental unique.
+Au dîner, Lucas lui raconte un problème d’horaires. Fabien commence par proposer une solution, puis s’aperçoit qu’il ne sait pas qui finit l’entraînement à quelle heure. Il demande à Lucas de lui montrer. Il n’a pas besoin de sortir un post-it.
 
 ---
 

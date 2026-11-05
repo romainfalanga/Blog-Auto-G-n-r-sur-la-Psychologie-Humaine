@@ -15,7 +15,7 @@ draft: false
 
 Le petit enregistreur repose entre un chevalet et une boîte de chevilles. Salomé accueille une personne qui prépare un portrait des ateliers du quartier. La première question porte sur sa non-binarité, la deuxième sur la réaction des clients, la troisième sur la difficulté de trouver sa place. Salomé répond d’abord, puis regarde l’instrument qu’elle prépare pour l’entretien. Elle souhaite parler de son travail et se sent progressivement réduite à une seule étiquette.
 
-Elle a vingt-neuf ans, est luthière, célibataire et choisit les accords féminins. Son identité non binaire compte pour elle. Elle décide récemment de la mentionner dans une présentation publique et ne souhaite pas effacer ce choix. Mais cette information ne constitue pas le résumé de toutes ses expériences. Elle aime aussi les énigmes, les cartes de randonnée et le bruit d’un outil correctement affûté. Aucun de ces goûts ne doit servir à démontrer ou à contredire son identité.
+Pour la fiche des artisans, Salomé avait choisi elle-même la phrase qui présentait son identité. La personne venue enregistrer ce portrait l’a lue. Ses deux premières questions tournent autour de cette phrase. Salomé avait posé un chevalet sur la table en pensant montrer ce qu’elle a dû changer à sa forme. Pour l’instant, elle ne l’a pas encore pris en main.
 
 La personne qui mène l’entretien pense lui donner une visibilité bienvenue. Salomé n’a pas encore expliqué qu’elle attend un équilibre différent. Elle peut interpréter les questions comme une réduction, tout en reconnaissant une intention possiblement favorable. Le décalage ne se résout pas en choisissant qui est une bonne personne. Il demande de préciser le projet : un portrait d’atelier, un témoignage sur le genre ou une articulation discutée entre plusieurs aspects de sa vie.
 
@@ -77,13 +77,13 @@ Elle prévoit aussi une activité choisie pour elle, sans fonction de représent
 
 Un repère utile peut être une relation, un objet, un projet ou une phrase liée à des faits. Il n’a pas à annuler la douleur d’une réduction extérieure. Si une institution vous classe de façon contraignante, des changements pratiques peuvent être nécessaires. Le rappel personnel soutient votre jugement ; il ne remplace pas les demandes d’ajustement, les corrections ni les appuis qui permettent d’être mieux reconnue dans l’environnement.
 
-## Salomé laisse le portrait s’élargir sans vouloir tout y mettre
+## Le chevalet à côté du micro
 
 L’enregistreur continue pendant qu’elle montre l’instrument. La personne qui l’interroge remarque la différence entre deux traces sur le bois. Salomé explique ce qu’elle choisit de conserver et pourquoi. Elle retrouve le plaisir d’une question qui lui demande une réponse précise, sans décider à l’avance du sens général de sa présence. L’entretien contient encore sa non-binarité, mais ne s’y arrête plus comme à une explication suffisante.
 
 Lorsqu’elle reçoit les passages proposés pour vérification factuelle, elle corrige une formulation qui laisse entendre qu’elle change d’accords selon les situations. Elle demande le féminin, conformément à son choix. Elle garde une question personnelle et plusieurs éléments professionnels. Le texte ne résume toujours pas toute sa vie. Elle n’en fait pas une condition impossible avant d’accepter qu’un portrait partiel soit publié.
 
-Le soir, Nora lui demande surtout si elle souhaite poursuivre leur énigme. Salomé raconte brièvement l’entretien, puis ouvre la feuille de jeu. Elle peut être la personne interviewée, la luthière, l’amie qui cherche un indice et une personne non binaire sans que chaque moment doive afficher toutes ces dimensions. Sa continuité ne dépend pas d’une présentation identique partout. Elle tient aussi à la possibilité de choisir ce qui vient au premier plan.
+Nora lui demande si elle veut reprendre l’énigme. Salomé raconte qu’au début de l’entretien, le chevalet est resté dix minutes à côté du micro sans que personne y touche. Elle sourit en l’entendant formulé ainsi. Puis Nora lui montre deux mots qu’elle n’arrive pas à faire tenir dans la même grille.
 
 ---
 

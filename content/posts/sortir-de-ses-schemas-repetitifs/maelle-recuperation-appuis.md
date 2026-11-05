@@ -15,7 +15,7 @@ draft: false
 
 Le coin du carnet s'est recourbé à force de voyager dans son sac. Maëlle l'aplatit contre son genou dans la salle d'attente du service de santé au travail. Sa récupération et les appuis disponibles occupent les pages de manière inégale : beaucoup de dates, quelques horaires, des remarques sur le bruit et une question entourée deux fois, « à qui demander quoi ? ». Elle craint d'apporter un problème trop ordinaire pour justifier ce rendez-vous.
 
-À vingt-sept ans, opératrice agroalimentaire en horaires alternés, elle ne manque pas totalement de soutien. Julien, son compagnon, protège avec elle certaines périodes de repos. Claire lui indique comment porter une question d'organisation au travail. Pourtant, chaque aide semble traiter un morceau différent. Maëlle cherche encore la personne qui pourrait lui donner d'un coup la bonne manière de dormir, de tenir le poste et de préserver sa vie commune.
+Maëlle tourne les pages de son carnet dans la salle d’attente. Il y a les heures de sommeil qu’elle a notées chez elle, une conversation avec Julien sur les courses et la date à laquelle Claire lui a conseillé de faire remonter les modifications tardives. Ces aides lui ont servi à des moments différents. Dans la marge, elle essaie de dire en quelques mots ce qu’elle est venue demander au service de santé au travail.
 
 Une porte s'ouvre. En se levant, elle serre le carnet comme un devoir qu'on va corriger. Puis elle se rappelle le but choisi : expliquer les conditions de sa récupération, pas prouver qu'elle sait parfaitement les gérer. Elle entre avec des observations incomplètes et plusieurs questions. Ce sont précisément les éléments qu'un rendez-vous peut permettre d'examiner avec elle.
 
@@ -61,7 +61,7 @@ Le même raccourci apparaît lorsqu'un interlocuteur professionnel ne peut pas t
 
 Il faut aussi reconnaître les obstacles réels. Les ressources coûtent du temps, parfois de l'argent et de l'énergie administrative. Maëlle peut avoir besoin d'aide pour accéder à l'aide. Une liste de services ne suffit pas si elle ne peut pas téléphoner aux heures d'ouverture ou comprendre le circuit proposé.
 
-## 3 techniques pour rendre les appuis utilisables
+## Préparer la consultation et la suite
 
 ### 1. Associer chaque obstacle à une ressource possible
 

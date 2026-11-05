@@ -43,7 +43,7 @@ Le brouillon d’Élise propose d’abandonner avant même que le groupe ait re�
 
 Se retirer sans fin serait autre chose. Si le brouillon reste fermé pendant des jours et que personne n’est informé, l’intervalle devient un report coûteux. Le repère utile est un retour suffisamment défini et réaliste. Il peut inclure une information simple : je prends connaissance de votre réponse et reviens demain sur les points pratiques. Cela évite de se forcer à produire une décision complète pendant le premier choc. Il faut ensuite tenir le délai ou prévenir si une contrainte empêche de le faire. La pause conserve ainsi un lien avec l’action.
 
-## Trois appuis après une réponse décevante
+## Faire circuler la nouvelle du refus
 
 ### 1. Créer un intervalle proportionné
 
@@ -63,11 +63,11 @@ Demandez-vous ce qui vous appartient maintenant, sans reprendre tout ce qui dép
 
 La responsabilité comprend aussi le droit de réduire ou d’arrêter un projet. Être bienveillant envers soi ne signifie pas persévérer coûte que coûte. Le groupe pourra décider qu’une autre forme est possible ou que les conditions ne sont pas réunies. Il faudra alors regarder ce qui a été appris, ce qui reste nécessaire et comment l’annoncer. Une décision d’arrêt peut être sérieuse et cohérente. Ce qui change, c’est qu’elle découle d’un examen des moyens et des besoins, plutôt que du désir urgent de ne plus ressentir la honte d’un revers.
 
-## Élise laisse le groupe recevoir la nouvelle
+## Le premier courriel reste au brouillon
 
 Mireille répond qu’elle est déçue et souhaite maintenir un échange. Cédric précise que le refus ne modifie pas les informations techniques déjà obtenues. Élise accueille ces réponses sans tenter de les rendre plus enthousiastes. La difficulté d’accès au jardin reste à résoudre et les futurs bacs n’ont pas de budget. Une possibilité de matériel récupéré pourra être étudiée, mais elle n’est pas encore validée. Élise inscrit ces points pour le prochain rendez-vous. Elle ressent encore une gêne en annonçant le refus, mais n’a plus besoin de le présenter comme la fin de toute la démarche.
 
-Avant de quitter son bureau, elle relit sa première version du message puis la supprime. Elle ne s’en sert pas pour se moquer de sa réaction. Elle y reconnaît le moment où elle voulait disparaître du projet en s’excusant de l’avoir proposé. Le courriel envoyé est plus court et plus exact. Elle conserve ce constat, avec sa déception. Le lendemain apportera peut-être une nouvelle contrariété, et la pause ne sera pas toujours facile à prendre. Elle possède désormais une expérience limitée : attendre un peu peut permettre de répondre sans se condamner ni fuir la suite.
+Avant de quitter le bureau, elle relit la phrase où elle annonçait la fin de la rencontre. Elle l’efface. Au sujet du jardin, Mireille n’a proposé qu’un échange pour le moment. Élise le note à l’heure où elle aurait mis une nouvelle date si elle s’était encore crue obligée de tout régler ce soir.
 
 ---
 

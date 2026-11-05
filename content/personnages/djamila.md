@@ -18,7 +18,7 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/stress-post-traumatique-complexe-deuil/">Deuil et stress post-traumatique complexe : les distinguer</a></h3>
     <div class="parcours-date">2026-03-07</div>
-    <p class="parcours-resume">Djamila tourne en rond dans son appartement silencieux. Son fils Adam, 6 ans, dort dans la chambre d’à côté, et elle fait attention à ne pas faire de bruit.</p>
+    <p class="parcours-resume">Djamila traverse le couloir sans allumer. Adam dort. Sous sa porte, la veilleuse découpe un rectangle orange que Djamila enjambe, comme si elle risquait de le réveiller en marchant dessus.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Le deuil peut être très douloureux et coexister avec les suites de violences. Il est possible de demander de l’aide dès que la souffrance pèse sur la vie quotidienne.</p>
@@ -32,7 +32,7 @@ draft: false
     <p class="parcours-resume">Le carrelage de la petite brasserie près de l&#x27;association brille sous les néons crus, alors que la pluie de mars tambourine contre la vitrine. Djamila est assise face à Amina, sa collègue et amie, dont le rire franc l&#x27;apaise d&#x27;ordinaire.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>De retour au bureau, Djamila repense à sa réaction lors du déjeuner. Elle sent encore cette raideur dans sa nuque, mais elle refuse de laisser son passé dicter son présent.</p>
+      <p>De retour à l’association, Djamila repense au moment où elle a tendu la main vers la serviette pour dégager son bras. Amina avait posé des gâteaux pour Adam au bureau une fois. Ce souvenir compte, mais Djamila n’a pas besoin de faire la liste de ce qu’elle doit à son amie avant de lui parler.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-en-amitie-causes-profondes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -43,7 +43,7 @@ draft: false
     <p class="parcours-resume">Le stylo bille de Djamila survole son carnet à spirales sans oser se poser sur le papier. Assise dans son petit bureau de l&#x27;association, elle observe la femme installée en face d&#x27;elle.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Après le départ d&#x27;Antoine, Djamila ne reste pas prostrée. Elle termine son entretien avec la bénéficiaire en lui adressant un regard plein de sororité, puis elle attend qu&#x27;elle soit partie pour ouvrir son journal.</p>
+      <p>Djamila revient au rendez-vous interrompu. Elle demande à la femme où elle en était avant qu’Antoine entre. Une fois seule, elle vérifie sa boîte de réception, écrit l’heure dans son carnet et laisse une ligne vide sous ce qu’elle ne peut pas vérifier.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-psychologique-au-travail/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -51,10 +51,10 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-confirmation-conflit/">Biais de confirmation en situation de conflit : comment il vous piège</a></h3>
     <div class="parcours-date">2026-03-24</div>
-    <p class="parcours-resume">La sonnette d&#x27;alerte retentit dans la petite salle de réunion lorsque la porte claque. Djamila fixe la table en plastique, ses doigts effleurent le carnet où elle note les rendez-vous et les noms des bénéficiaires.</p>
+    <p class="parcours-resume">Pendant une réunion à l’association, Djamila anticipe le dénigrement d’Antoine. Elle compare ce qu’il demande aujourd’hui avec ce qu’elle avait noté après un entretien interrompu.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Aujourd&#x27;hui, après la réunion, Djamila reprend le carnet où elle note ses apprentissages depuis les sessions avec le Dr Martin. Elle ouvre la page du 19 mars et relit la méthode d&#x27;identification des pensées automatiques qu&#x27;elle a déjà utilisée pour distinguer les manipulations des souvenirs…</p>
+      <p>Djamila demande à Antoine quel document lui manque. Le désaccord persiste et elle garde les deux notes.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-confirmation-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -65,7 +65,7 @@ draft: false
     <p class="parcours-resume">Le néon du couloir de l&#x27;association grésille par intermittence, projetant une lumière saccadée sur les dossiers empilés devant Djamila. Elle ajuste son foulard de soie émeraude, sentant une chaleur monter le long de son cou.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Antoine lève enfin les yeux, l&#x27;air absent. Il lâche un simple &quot;On verra ça demain, Djamila, je n&#x27;ai pas la tête à tes urgences là&quot;.</p>
+      <p>« On verra ça demain », dit Antoine. Djamila rassemble ses feuilles. Elle a encore envie de lui répondre sur le même ton, et la réunion de mardi lui revient.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/sentiment-injustice-conflit-reconstruction-post-toxique/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -73,10 +73,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/trauma-bonding-attachement-traumatique-amitie/">Lien traumatique : les effets d’une relation violente sur l’amitié</a></h3>
     <div class="parcours-date">2026-04-14</div>
-    <p class="parcours-resume">Djamila ajuste son foulard de soie turquoise devant le petit miroir de l&#x27;entrée. Le silence de l&#x27;appartement est à peine troublé par le bruit des feutres d&#x27;Adam qui s&#x27;applique sur un dessin dans sa chambre.</p>
+    <p class="parcours-resume">L’invitation d’Amina à partir un week-end fait revenir le souvenir des accalmies avec Samir. Djamila se demande de quoi elle a envie dans cette amitié.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Djamila repose son téléphone sur le guéridon. Elle repense à la réunion difficile avec Antoine il y a quelques semaines, où elle avait réussi à identifier son biais de confirmation.</p>
+      <p>Elle propose une journée à Amina et attend sa réponse, sans s’engager sur le week-end entier.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/trauma-bonding-attachement-traumatique-amitie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -87,7 +87,7 @@ draft: false
     <p class="parcours-resume">Djamila étale soigneusement la confiture de fraises sur la tartine d&#x27;Adam. Le bruit du couteau qui racle le pain grillé résonne dans la cuisine silencieuse de cet appartement qu&#x27;elle a patiemment décoré, loin de l&#x27;ombre de Samir.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Au fur et à mesure que la voix de sa mère s&#x27;apaise au téléphone, passant du reproche à une proposition soudaine d&#x27;inviter Adam à passer le week-end, Djamila sent le piège de la lune de miel se refermer. Habituellement, elle aurait cédé, soulagée par ce retour au calme.</p>
+      <p>Sa mère lui demande si Adam ne préférerait pas passer le week-end chez elle. Djamila manque de répondre qu’elle verra. Elle a déjà promis à Adam qu’ils iraient en forêt.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/cycle-abus-tension-explosion-lune-de-miel-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -95,10 +95,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/soulagement-apres-un-succes/">Soulagement après un succès : sentir, comprendre, intégrer</a></h3>
     <div class="parcours-date">2026-04-24</div>
-    <p class="parcours-resume">La sonnette de la salle polyvalente claque encore dans les oreilles de Djamila lorsqu&#x27;elle traverse le parking ce 24 avril 2026. Elle tient entre ses doigts le dossier laqué qu&#x27;on lui a remis, un peu chaud après les applaudissements.</p>
+    <p class="parcours-resume">Un dossier défendu à l’association est accepté. Djamila découvre que le soulagement peut coexister avec l’attente d’un nouveau problème.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Sur le trajet du retour, Adam entonne une chanson dont la cadence lui rappelle les cours de self-défense. Djamila sourit en observant la façon dont il plie le ticket de croque-monsieur en avion en papier.</p>
+      <p>Elle retrouve, plié contre la décision écrite, le ticket avec lequel Adam jouait pendant le trajet.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/soulagement-apres-un-succes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -106,10 +106,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/fierte-au-travail-comprendre-manifestations-hpi/">Fierté au travail : la comprendre pour mieux s&#x27;épanouir</a></h3>
     <div class="parcours-date">2026-05-04</div>
-    <p class="parcours-resume">Djamila ajuste son foulard de soie turquoise devant le reflet de la vitre de la salle de réunion. Aujourd&#x27;hui, le 4 mai 2026, l&#x27;ambiance au sein de l&#x27;association est électrique, mais pour une fois, ce n&#x27;est pas à cause d&#x27;un conflit avec Antoine.</p>
+    <p class="parcours-resume">Amina fait glisser une feuille sur la table de réunion. À côté du résultat du projet, quelqu’un a ajouté le nom de Djamila. Elle se prépare à expliquer les détails qui restent à régler.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>À la fin de la réunion, Amina s&#x27;approche de Djamila près de la machine à eau. Elle lui pose une main légère sur l&#x27;épaule, un geste que Djamila ne rejette pas cette fois-ci, malgré le léger sursaut qui l&#x27;habite encore.</p>
+      <p>Près de la machine à eau, Amina lève la main vers son épaule, puis s’arrête : « Je peux ? » À la brasserie, Djamila n’avait pas eu le temps de répondre à cette question. Cette fois, elle acquiesce. Elle a encore la nuque serrée et n’a pas envie de rester dans le couloir à parler d’elle.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/fierte-au-travail-comprendre-manifestations-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -117,10 +117,10 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-ecole-etudes-psychologie/">Conformisme à l’école et en formation : l’effet de la majorité</a></h3>
     <div class="parcours-date">2026-05-13</div>
-    <p class="parcours-resume">Djamila ajuste son foulard turquoise devant le miroir de l&#x27;entrée de l&#x27;institut de formation. Aujourd&#x27;hui, elle participe à une journée de spécialisation sur l&#x27;accompagnement des victimes de violences intra-familiales, un domaine qu&#x27;elle connaît par cœur dans sa pratique de travailleuse sociale.</p>
+    <p class="parcours-resume">Sur le formulaire de la formation, Djamila hésite devant la ligne « fonction ». Elle écrit « travailleuse sociale », puis ajoute le nom de l’association. Elle est venue pour une spécialisation sur l’accompagnement des victimes de violence.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Au retour de la pause déjeuner, Djamila sent que l&#x27;atmosphère du groupe est pesante. Le projet sur lequel ils travaillent s&#x27;enlise dans une vision simpliste qui ne rend pas justice à la complexité des parcours des femmes qu&#x27;elle aide au quotidien.</p>
+      <p>Pendant la mise en commun, le porte-parole du groupe résume les priorités sans mentionner le suivi psychologique. Djamila attend qu’il ait fini. Elle dit qu’elle ne signerait pas le résumé tel quel : dans le cas proposé, personne ne sait qui recontactera la bénéficiaire après le rendez-vous.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-ecole-etudes-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -128,10 +128,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/enfant-interieur-apres-rupture-amoureuse/">Enfant intérieur après une rupture : comprendre ses blessures</a></h3>
     <div class="parcours-date">2026-05-17</div>
-    <p class="parcours-resume">Djamila est assise sur le carrelage froid de sa cuisine, entourée de cartons à moitié ouverts. Le 17 mai 2026 marque une étape qu&#x27;elle n&#x27;avait pas prévue : elle finit de trier les dernières affaires de Samir, son ex-conjoint, quatre mois après son départ fracassant.</p>
+    <p class="parcours-resume">Djamila termine le tri des affaires de Samir, quatre mois après son départ. Dans un carton resté sous la table de la cuisine, elle retrouve un carnet d’Adam et la boîte qui contient son acte d’adoption. Elle était venue chercher du ruban adhésif.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Djamila repose délicatement le carnet d&#x27;Adam. Elle ne cherche plus à masquer les tremblements de ses mains.</p>
+      <p>Dans le carnet, Adam a laissé une page libre entre deux dessins. Djamila prend une autre feuille et y trace quelques formes, les mains encore peu sûres. Ça lui rappelle l’après-midi où il lui a montré comment dessiner les pattes de son dragon.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/enfant-interieur-apres-rupture-amoureuse/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

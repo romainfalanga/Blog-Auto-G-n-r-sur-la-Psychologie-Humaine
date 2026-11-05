@@ -13,7 +13,7 @@ tags: ["adaptation", "stress", "ressources", "repères", "Malik"]
 draft: false
 ---
 
-Le casier porte le bon numéro, mais Malik cherche encore de quel côté s’ouvre le vestiaire. Le stress d’adaptation s’invite dans ce changement temporaire de dépôt. Il connaît son métier ; il ne connaît pas encore les lieux, le trajet de relève et les personnes à qui poser chaque question. Les premiers jours, même ranger sa tenue réclame une décision qui se faisait auparavant sans y penser.
+Au dépôt provisoire, le casier porte le bon numéro. Malik ne sait toujours pas de quel côté débouche le vestiaire. Il a dû demander où se font les relèves, puis revenir sur ses pas pour retrouver l’armoire qu’on lui avait indiquée. Il a passé assez de temps à réparer des rames pour savoir de quoi il a besoin au poste. Aujourd’hui, c’est surtout le temps passé à chercher qui l’empêche de s’installer comme d’habitude.
 
 Bastien cherche lui aussi la salle de pause. Ils comparent leurs détours et rient d’une porte qui conduit au mauvais couloir. Malik apprécie cette difficulté partagée. Elle lui rappelle qu’un nouveau contexte demande un apprentissage, quelle que soit l’origine de la personne. Ses quatre années de vie ici ne le rendent pas obligé de tout savoir, pas plus que son arrivée choisie du Sénégal ne devrait expliquer chaque moment de fatigue.
 
@@ -55,7 +55,7 @@ Le trajet plus long déplace son heure de repas, les appels avec Awa et les renc
 
 Un lien peut tolérer un changement annoncé sans disparaître. Awa peut proposer un échange plus court ; le groupe photo peut lui transmettre le thème suivant. Ces possibilités dépendent d’accords réels, pas de personnes toujours disponibles. Malik peut demander une adaptation précise plutôt que promettre la même présence dans une semaine matériellement différente.
 
-## 3 techniques pour chercher des ressources adaptées au changement
+## Ce qu’il faut apprendre dans un nouveau dépôt
 
 ### 1. Identifier la demande nouvelle et le repère manquant
 

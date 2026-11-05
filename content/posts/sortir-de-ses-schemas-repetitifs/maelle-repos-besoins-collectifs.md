@@ -15,7 +15,7 @@ draft: false
 
 La table de réunion garde les marques rondes des bouteilles d'eau et une pile de feuilles dépasse près du projecteur. Maëlle pose son carnet fermé devant elle. Faire reconnaître des besoins de repos collectifs lui semble plus difficile que parler de sa propre fatigue en consultation. Ici, il faut transformer des expériences dispersées en question de travail, sans prétendre que tous les corps réagissent de la même façon.
 
-Claire s'assied à côté d'elle. Elles travaillent dans la même usine agroalimentaire et connaissent les transmissions parfois confuses près de la ligne. Maëlle a vingt-sept ans, reste opératrice en horaires alternés et ne devient pas responsable de la prévention parce qu'elle prend la parole aujourd'hui. Elle apporte des exemples : changements tardifs de planning, pauses qui récupèrent mal, difficultés de concentration quand les sollicitations se superposent.
+Claire s’assied à côté d’elle. Elles reconnaissent sur les feuilles distribuées le type de transmission qu’elles ont dû faire répéter près du convoyeur. Maëlle a aussi noté l’heure du changement de planning et ce que ça a déplacé pour son équipe. Elle a laissé de la place sous les deux lignes : Claire et les autres ne rencontrent pas forcément les mêmes problèmes selon leurs postes.
 
 Le responsable demande ce qui pose le plus de problème. Maëlle regarde ses collègues avant de répondre. Elle ne veut ni parler pour tout le monde ni se cacher derrière un « on » vague. Elle choisit une première phrase : « Je peux décrire ce que je rencontre, et je crois que plusieurs points méritent qu'on les regarde ensemble. » L'entrée est modeste. Elle lui permet néanmoins de commencer sans fabriquer une unanimité.
 
@@ -57,7 +57,7 @@ Elle peut reconnaître les gestes utiles déjà tentés, puis revenir au point p
 
 Le risque inverse serait de nier toute ressource individuelle ou relationnelle. Maëlle ne choisit pas entre les deux niveaux. Elle les articule : des appuis chez elle, un suivi de santé quand il est nécessaire et une prévention au travail qui concerne les facteurs communs. Cette articulation lui permet de garder la bonne question devant chaque interlocuteur.
 
-## 3 techniques pour porter une question collective sans tout porter
+## Ce qui peut être inscrit à la prochaine réunion
 
 ### 1. Relier un exemple à une condition de travail
 
@@ -91,7 +91,7 @@ Le responsable propose une première vérification sur l'anticipation des horair
 
 À la sortie, une collègue commence à lui raconter toutes ses difficultés. Maëlle l'écoute un moment, puis précise qu'elle ne peut pas porter seule le suivi. Elle indique le cadre de la démarche et les appuis disponibles. Cette limite lui coûte : elle aime être utile. Elle comprend aussi que prendre toute la charge recréerait précisément le déséquilibre qu'elle cherche à rendre visible.
 
-Chez elle, Julien lui demande comment cela se passe. Maëlle répond sans victoire spectaculaire : quelques questions sont mieux posées, une suite existe, rien ne garantit encore le changement. Puis elle lui propose de parler de sa journée à lui. Son carnet reste dans le sac. Le travail peut avancer ailleurs pendant qu'elle reprend une place dans sa propre soirée.
+Chez elle, Julien lui demande si la réunion a changé quelque chose. « Le responsable vérifie qui peut revoir les horaires. On en reparle jeudi », répond Maëlle. Elle ne sort pas le carnet. Elle a promis de regarder le compte rendu, pas de recueillir toutes les situations à la place de ses collègues. Julien commence à lui parler d’une livraison qu’il a attendue toute la journée. Elle lui demande si le colis est enfin arrivé.
 
 ---
 

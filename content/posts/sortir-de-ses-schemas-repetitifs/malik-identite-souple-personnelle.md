@@ -13,7 +13,7 @@ tags: ["identité", "souplesse", "continuité de soi", "présentation", "Malik"]
 draft: false
 ---
 
-Trois lignes sont prévues sous son nom et Malik en écrit déjà huit. Garder une identité souple et personnelle devient une question de place sur le carton de l’accrochage. Il commence par son métier, ajoute son arrivée du Sénégal quatre ans plus tôt, évoque Dakar, puis cherche comment parler de son regard. Aucun de ces éléments n’est faux. Leur accumulation ressemble pourtant à un dossier qui chercherait à expliquer entièrement son existence avant de montrer une image.
+Sur le carton de l’accrochage, trois lignes tiennent sous le nom de Malik. Il en a écrit huit. Il commence par les tramways, situe la photo du banc à Dakar, essaie une phrase sur son arrivée en France. La visiteuse qui regardera la chaise réparée n’aura peut-être pas besoin de tout cela. Il pose à côté du carton le tirage qu’il voudrait qu’on regarde en premier.
 
 Fatou lui demande ce qu’il souhaite que les visiteurs sachent pour regarder cette série. Malik revient aux photographies : une roue, une fenêtre, un banc et des objets dont les traces l’intéressent. Son métier de mécanicien participe à son attention. Ses lieux et ses liens y participent aussi. Il ne veut pas faire de chaque photo une illustration obligatoire de sa migration choisie ou de la distance avec Awa.
 
@@ -55,7 +55,7 @@ Après la décision de Marc, Malik possède un récit important à faire entendr
 
 Son entourage peut soutenir ce choix en demandant ce qu’il souhaite partager. Fatou peut respecter la notice qu’il écrit ; Awa peut écouter un récit différent dans leur relation intime. Aucun cercle n’a besoin de recevoir toute la biographie pour rencontrer quelque chose de vrai. Le droit à une identité personnelle comprend celui de sélectionner les informations selon le contexte.
 
-## 3 techniques pour se décrire sans se figer
+## Choisir ce que la notice doit dire
 
 ### 1. Choisir une description pour une situation précise
 
@@ -89,7 +89,7 @@ Fatou relit la notice avec lui et pose une question sur le mot usage. Malik pré
 
 Pendant l’accrochage, une visiteuse lui demande si ses images racontent le départ de son pays. Il répond que cette dimension peut compter pour certaines et que celle qu’ils regardent porte surtout sur une réparation. La conversation continue sur l’objet. Il n’efface pas son parcours ; il choisit le sujet de cette rencontre.
 
-Le dossier administratif attend encore une réponse et le travail avec les interlocuteurs concernés par la discrimination reste à poursuivre. L’atelier d’Oumar n’a pas retrouvé un avenir clair. Malik termine néanmoins l’accrochage avec des images qu’il souhaite montrer et des liens présents. Une vie peut continuer à se définir pendant que plusieurs questions restent sans solution.
+À la fin de l’accrochage, Malik remet droit le carton sous la chaise. Sur son téléphone, le dossier administratif n’a pas bougé. Il n’a pas non plus de nouvelles de l’atelier d’Oumar ni de suite à la conversation avec Bastien. Quand Fatou l’appelle pour aller voir un tirage qu’elle vient de déplacer, il laisse le téléphone dans sa poche et la rejoint. Il s’arrête devant la photo pour regarder la lumière sur un pied réparé.
 
 ---
 

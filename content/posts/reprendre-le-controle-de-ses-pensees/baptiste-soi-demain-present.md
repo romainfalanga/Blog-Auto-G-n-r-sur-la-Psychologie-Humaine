@@ -13,7 +13,7 @@ episode: 8
 draft: false
 ---
 
-Baptiste retrouve son badge au fond d’un sac de courses. Il le pose sur une étagère pour ne plus le chercher, puis déplace une boîte qui risque de le cacher. Il pense à la matinée du lendemain : départ plus tôt, document à emporter et organisation différente pour Elsa. Préparer quelques éléments maintenant pourrait éviter une course au dernier moment. Il commence mentalement une liste, mais chaque point lui rappelle autre chose. En moins de deux minutes, sa soirée calme devient un programme de rangement, de cuisine et de vérification de toutes les affaires de la famille.
+Baptiste retrouve son badge au fond d’un sac de courses. Il le pose sur une étagère. La boîte d’Elsa recouvre la moitié du badge, qui disparaîtra derrière le couvercle si quelqu’un la pousse un peu. Il pense à la matinée du lendemain : départ plus tôt, document à emporter et organisation différente pour Elsa. Préparer quelques éléments maintenant pourrait éviter une course au dernier moment. Il commence mentalement une liste, mais chaque point lui rappelle autre chose. En moins de deux minutes, sa soirée calme devient un programme de rangement, de cuisine et de vérification de toutes les affaires de la famille.
 
 À trente-sept ans, le coordinateur de maintenance apprécie les préparations qui rendent les échanges plus simples. Il connaît aussi la fatigue qu’il tente parfois de confier au lendemain. Quand il reporte tout, il imagine un Baptiste du matin parfaitement disponible, qui aura le temps de chercher le badge et de terminer un document entre deux demandes. Quand il veut corriger ce report, il tombe facilement dans l’excès inverse : tout préparer aujourd’hui pour ne laisser aucune difficulté à la personne qu’il sera demain. Les deux versions semblent oublier une partie de ses ressources réelles.
 
@@ -57,7 +57,7 @@ Le badge dans le sac répond à un problème déjà rencontré. Préparer la ver
 
 Baptiste décide d’arrêter la préparation après avoir rangé les objets essentiels et vérifié le point partagé avec Caroline. Il ne promet pas que tout le reste sera facile. Il conserve du temps pour regarder les photographies et se coucher à une heure qui lui convient. Cette limite ne transforme pas le loisir en récompense méritée ; elle reconnaît qu’il fait déjà partie des besoins de la soirée. Si une tâche réellement urgente apparaît, ils pourront réexaminer l’accord avec ses conséquences. La limite n’a pas à devenir une règle rigide qui ignore les situations. Elle évite surtout que le mot demain autorise une prolongation sans fin de tout ce qui pourrait être fait aujourd’hui.
 
-## Baptiste laisse une matinée préparée et encore imparfaite
+## Mettre le badge dans le sac
 
 Il met le badge et le document dans le sac, puis écrit sur un papier la question qui devra être reprise au travail. Elle exige une information qu’il ne possède pas à la maison. Il ne tente pas de la résoudre en rouvrant tous ses messages. Caroline lui précise l’organisation convenue pour Elsa et ils repèrent une seule confirmation à envoyer. La préparation prend moins de temps que le programme qu’il avait imaginé. Elle laisse encore des tâches ordinaires au lendemain, comme préparer les boissons et vérifier les vêtements selon le temps.
 

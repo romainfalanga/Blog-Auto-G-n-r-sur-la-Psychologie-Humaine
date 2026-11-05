@@ -43,7 +43,7 @@ Il arrive que l’on compare sa situation à celle de personnes plus démunies p
 
 L’injonction peut aussi se cacher dans une pratique régulière. Si chaque soirée doit se terminer par trois éléments heureux, une personne risque d’inventer des réponses pour remplir le rituel. Le geste devient une performance supplémentaire. Il est possible de s’arrêter, de changer sa fréquence ou de constater seulement qu’une journée a été difficile. La reconnaissance ne perd pas sa valeur parce qu’elle n’est pas quotidienne. Un relevé libre peut contenir un appui, un manque et une question encore ouverte, sans obliger ces éléments à former une conclusion rassurante.
 
-## Trois manières de reconnaître sans effacer
+## Remercier et garder le problème sur la table
 
 ### 1. Décrire le geste et son effet limité
 
@@ -63,11 +63,11 @@ Si cela vous convient, notez un appui concret puis une difficulté qui conserve 
 
 Quand la souffrance dure, perturbe le sommeil ou rend les activités habituelles difficiles, la recherche de petits appuis peut accompagner une demande d’aide mais ne doit pas la retarder. Un professionnel, médecin ou psychologue, peut considérer l’ensemble de la situation. Les ressources collectives comptent également : conditions de travail, droits, aides matérielles et relations fiables. Remercier les personnes présentes ne dispense pas les institutions de leurs responsabilités. Cette distinction évite de demander à la reconnaissance personnelle de compenser ce qui exige une réponse concrète à une autre échelle.
 
-## Élise laisse deux lignes dans son compte rendu
+## Deux lignes dans le compte rendu
 
 Le lendemain, Élise prépare le point sur la rencontre. Elle mentionne le prêt de chaises et le travail de Cédric. Sur la ligne suivante, elle indique que l’accès doit encore être examiné et qu’aucune annonce définitive ne sera faite avant cette vérification. Elle hésite devant cette réserve, puis la conserve. Ce document n’a pas pour fonction de montrer qu’elle sait tout faire aboutir. Il doit permettre aux autres de comprendre où en est le projet. Elle décide d’appeler Mireille pour une visite commune, plutôt que de résoudre le passage en silence.
 
-En fin de journée, Cédric lui répond que le merci lui a fait plaisir. Il ajoute une question sur le nombre de personnes attendu. La conversation continue simplement. Élise remarque qu’elle n’a pas dû choisir entre chaleur et précision. Elle ne sait pas si ce sera aussi facile dans un lien moins stable, et sa tendance à se sentir redevable reste présente. Pour cette rencontre, elle dispose néanmoins de deux phrases distinctes. L’une reconnaît l’aide reçue ; l’autre laisse la place à ce qui manque. Elle les gardera toutes deux pour la suite des préparatifs.
+Cédric lui écrit que le merci lui a fait plaisir. Il lui demande aussi combien de places il faut prévoir. Élise compte sur la liste d’inscription, puis lui donne deux nombres : les personnes attendues et celles qui ont demandé un siège près du portail. Ils ont encore besoin de savoir si on peut laisser cet espace libre.
 
 ---
 

@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-Vincent fait glisser une brochure vers Cédric et annonce qu’il trouve un hébergement plus simple pour leur week-end. L’autonomie du proche ne lui semble pas en jeu : il souhaite seulement éviter les obstacles et alléger la préparation. La première adresse comporte une entrée dont les informations restent floues. Il choisit donc un lieu plus éloigné de l’exposition qu’ils souhaitent voir, sans demander lequel des deux souhaite encore comparer les possibilités.
+Vincent fait glisser une brochure vers Cédric et annonce qu’il trouve un hébergement plus simple pour leur week-end. « Ils m’ont confirmé l’accès par écrit. » Il a déjà noté l’heure à laquelle ils pourraient arriver. La première adresse comporte une entrée dont les informations restent floues. Il choisit donc un lieu plus éloigné de l’exposition qu’ils souhaitent voir, sans demander lequel des deux souhaite encore comparer les possibilités.
 
 Cédric regarde la carte. « Je préfère qu’on vérifie le premier lieu avant de l’écarter. Et je veux choisir avec toi. » Vincent entend une demande précise. Depuis leur relevé des tâches invisibles, plusieurs dossiers changent de main. Il comprend mieux ce qu’il porte, mais il confond encore parfois le fait de prendre en charge une recherche avec le droit d’en fixer seul la conclusion. La brochure devient la preuve matérielle de ce raccourci.
 
@@ -81,7 +81,7 @@ Un accord peut également être révisé si une information nouvelle apparaît. 
 
 Vincent observe enfin sa réaction lorsqu’une proposition n’est pas retenue. Il peut être déçu ou avoir l’impression d’avoir travaillé pour rien. Il peut nommer cet effort sans utiliser sa fatigue comme argument pour imposer l’option. Les informations recueillies restent utiles, même si elles conduisent à choisir autrement. Aider à décider n’exige pas que sa propre préférence gagne.
 
-## Vincent commence à préparer le voyage à deux
+## Cédric rappelle la première adresse
 
 Cédric appelle le premier hébergement et revient avec une réponse écrite sur les points qu’il souhaite vérifier. Vincent lit les informations au lieu de proposer immédiatement une nouvelle question. Ils comparent les deux lieux. Le premier leur convient finalement mieux, mais un autre horaire de départ est nécessaire. Vincent explique ce qui reste compatible avec sa fin de poste.
 

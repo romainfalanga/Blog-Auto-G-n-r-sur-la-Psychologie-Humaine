@@ -13,11 +13,9 @@ contexte: "au travail"
 draft: false
 ---
 
-L'écran de l'ordinateur projette une lumière crue sur le visage de Nadia en ce lundi 22 mars 2026. Dans les bureaux encore silencieux de sa boîte tech, elle relit pour la quatrième fois le rapport de marché que Julie, son assistante, lui a envoyé hier soir. Un détail l'arrête net : une virgule mal placée dans un tableau de données et un alignement de paragraphe qui manque de rigueur. Ses doigts survolent le clavier, prêts à rédiger un mail cinglant pour souligner ce manque de professionnalisme. Elle sent cette tension familière dans sa nuque, la même qui l'habitait il y a dix jours lorsqu'elle n'arrivait pas à décrocher de ses dossiers en cours.
+Julie a rendu le rapport de marché. Nadia retrouve d’abord la virgule au mauvais endroit, puis un défaut d’alignement. Elle prépare un retour sur ces deux points sans avoir vérifié le chiffre qui doit servir à prendre la décision.
 
-Soudain, le clic de la souris résonne dans le vide et un souvenir d'enfance s'impose à elle avec une netteté déconcertante. Elle a dix ans, elle tend son cahier de mathématiques à sa mère, Fatima, fière de son 18 sur 20. Le regard de sa mère ne s'attarde pas sur la note, mais sur les deux points manquants. Pourquoi pas 20, Nadia ? Nous n'avons pas fait tous ces sacrifices pour que tu sois presque la meilleure. Cette voix, à la fois aimante et implacable, est devenue sa propre boussole interne. C'est elle qui la pousse aujourd'hui à exiger l'impossible de ses équipes, comme elle l'exige d'elle-même depuis son divorce avec Karim.
-
-Nadia suspend son geste. Elle se rappelle l'épisode de la farine avec sa fille Yasmine, la semaine dernière. Elle avait vu dans le regard de la petite la même crainte qu'elle ressentait face à Fatima. En voulant protéger Julie d'une erreur médiocre, n'est-elle pas en train de reproduire ce cycle de pression permanente ? La directrice marketing qu'elle est devenue réalise que sa quête de perfection n'est plus une quête d'excellence, mais une armure devenue trop lourde à porter. Elle baisse les mains, laisse l'e-mail en brouillon et observe le ciel gris par la fenêtre, cherchant à comprendre pourquoi l'erreur lui semble être une menace vitale.
+À dix ans, elle avait rapporté un dix-huit en mathématiques et Fatima lui avait demandé où étaient les deux autres points. Nadia pense aussi à Yasmine et à la farine, à l’ordre qu’elle a donné avant de vérifier ce qui s’était passé. Elle supprime du brouillon « encore un manque de rigueur ». Avant de demander une correction à Julie, elle veut trouver quelle erreur changerait réellement le rapport.
 
 ## Définition des exigences élevées et de la critique excessive
 
@@ -51,13 +49,11 @@ Distinguez les vérifications indispensables et celles qui apportent peu pour un
 ### 3. Le dialogue avec la part critique
 Cette technique invite à identifier la voix qui critique à l'intérieur de soi. Quand Nadia sent la colère monter face à une erreur, elle peut s'arrêter et se demander si elle entend sa propre voix ou celle de Fatima. L'exercice consiste à répondre à cette voix critique avec bienveillance, comme elle le ferait pour Yasmine. Elle peut se dire intérieurement qu'elle a le droit d'être fatiguée, que Julie a le droit d'être humaine, et qu'une erreur ne remet pas en cause leur légitimité dans cette entreprise. Elle utilise ici la même capacité de recul qu'elle a développée pour désamorcer ses biais cognitifs lors de ses précédentes crises de stress.
 
-## Évolution de Nadia et transformation de son leadership
+## La version que Julie remettra elle-même
 
-Vers 11h, Julie entre dans le bureau de Nadia avec une hésitation visible. Elle vient chercher le retour sur le rapport. D'ordinaire, Nadia aurait pointé du doigt les erreurs avec une précision chirurgicale. Mais ce matin, elle repense à sa résolution de mieux gérer sa frustration. Elle s'arrête un instant pour se recentrer sur ses sensations physiques. Elle perçoit la fraîcheur de l'air qui entre par l'entrebâillement de la fenêtre.
+Julie vient chercher un retour. Nadia lui montre le chiffre qu’elle n’a pas compris. Julie l’a calculé à partir d’une série dont le titre prête à confusion. Elles conviennent de clarifier le titre et de garder le calcul. Nadia est tentée de refaire elle-même tout le tableau ; Julie lui dit qu’elle peut s’en occuper pour le lendemain.
 
-Julie, le rapport est globalement excellent, commence Nadia en cherchant un ton plus doux. Elle voit l'étonnement sur le visage de son assistante. Les données sont solides et l'analyse est pertinente. J'ai noté quelques détails de forme, mais rien qui ne puisse être corrigé en cinq minutes. On ne va pas y passer la journée. Elle n'envoie pas le mail cinglant. À la place, elle propose à Julie de s'asseoir pour discuter de la stratégie globale, délaissant enfin la micro-gestion qui l'étouffait. Elle comprend que son mode gestion de crise, si utile pour grimper les échelons, est devenu un obstacle à son bonheur et à celui de son entourage.
-
-En agissant ainsi, Nadia ressent une légèreté nouvelle. Elle ne cherche plus à prouver qu'elle est invincible, elle cherche à être une leader inspirante. Elle comprend que son héritage familial, cette volonté farouche de réussir, est une force qui n'a plus besoin d'être une prison. En quittant son bureau ce soir-là, elle ne repense pas aux virgules manquantes. Elle pense à la partie de jeux de société qu'elle a promise à Yasmine, acceptant l'idée que le désordre et l'imperfection font aussi partie d'une vie équilibrée.
+Une fois seule, Nadia voit de nouveau la virgule à l’écran. Elle remet le rapport dans le dossier partagé en laissant Julie propriétaire du document. En fin de journée, elle ouvre le fichier pour vérifier qu’il a avancé. Puis elle le referme sans le modifier.
 
 ---
 

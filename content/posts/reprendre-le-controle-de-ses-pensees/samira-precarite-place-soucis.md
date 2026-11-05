@@ -81,7 +81,7 @@ Avant l’échange, elle prépare une phrase et une question : « Je dois organi
 
 Une personne de confiance peut également aider à préparer l’appel ou rester présente à côté d’elle. Il faut vérifier ce soutien plutôt que le présumer disponible. Le partage d’une petite tâche a parfois plus d’effet qu’un long encouragement. Il rend une part de l’environnement plus praticable, même lorsque le problème de revenus reste entier.
 
-## Samira retrouve une question à la fois
+## Les trombones derrière la tasse
 
 Le lendemain, Chantal lui garde une place dans le petit local de pause, sans lui promettre de solution. Samira appelle l’agence. Elle apprend que la confirmation arrivera en fin d’après-midi et qu’une réponse le lendemain reste possible. Cette précision n’ajoute aucune heure au contrat. Elle lui évite cependant de surveiller son appareil pendant tout le trajet de l’école.
 
@@ -89,7 +89,7 @@ Sur son enveloppe, elle barre « rappeler » et écrit le nouveau délai. Le ges
 
 Au repas, Noé fabrique un parcours avec son aimant et des trombones. Samira se trompe sur le sens de déplacement. Il rit et lui montre encore. Elle reste inquiète pour la semaine suivante, mais cet échange existe à côté de l’inquiétude. La précarité ne lui retire ni sa curiosité ni la possibilité de partager un moment ordinaire avec son enfant.
 
-Un nouveau message de travail peut bouleverser cet équilibre demain. Samira le sait. Elle garde l’enveloppe dans la poche du cartable, pas comme une méthode à réussir parfaitement, mais comme un appui à essayer de nouveau. Elle commence aussi à reconnaître qu’un planning moins incertain lui serait plus utile que de se reprocher sa fatigue.
+Après le repas, Noé cache un trombone derrière la tasse. Samira doit deviner de quel côté il va ressortir quand il approche son aimant. Elle se trompe, puis il lui donne l’aimant pour qu’elle essaie elle-même. L’agence n’a toujours pas confirmé ses heures. Dans la poche du cartable, l’enveloppe porte la date à laquelle elle doit rappeler.
 
 ---
 

@@ -13,7 +13,7 @@ contexte: "lors d'un deuil"
 draft: false
 ---
 
-Isabelle gravit lentement les marches grinçantes de l'escalier menant à l'appartement de sa mère, Geneviève. Dans ses mains, elle serre un dossier contenant les actes de décès de son oncle, le frère de Geneviève, parti subitement il y a dix jours. Depuis cette perte, l'atmosphère est lourde, saturée d'un silence qui semble juger chaque geste. Isabelle se souvient de sa séance de restructuration cognitive avec la méthode ABCDE il y a quelques semaines, quand elle essayait de ne plus céder à la culpabilité face aux demandes maternelles. Aujourd'hui, la charge est différente, plus acide.
+Dans l’escalier de Geneviève, Isabelle change les papiers de main. Ils concernent son oncle, le frère de sa mère, mort dix jours plus tôt. Elle avait proposé de les apporter. Elle ne sait plus très bien si elle a demandé à Geneviève quand celle-ci voudrait s’en occuper.
 
 En entrant dans le salon, elle trouve sa mère assise dans son fauteuil habituel, entourée de photos jaunies. Geneviève lève les yeux, mais son regard n'est pas celui de la tristesse partagée. C'est un masque de froideur, une moue qui s'étire vers le bas. Lorsque Isabelle dépose les documents sur la table basse et suggère de commencer à trier les affaires, sa mère laisse échapper un bruit sec, entre le rire et le rejet. Elle lance une phrase qui cingle : "Toi, la grande psychologue, tu crois vraiment que tes petits papiers vont changer quoi que ce soit à ce que je traverse ? Tu n'as jamais rien compris à la famille de toute façon."
 
@@ -51,7 +51,7 @@ Elle sait que sa mère est endeuillée. Elle ignore ce que la remarque voulait o
 
 Isabelle peut préciser : « Je peux t’aider pour les papiers, mais cette remarque me blesse. Je vais prendre l’air un moment. » Elle adapte cette décision aux circonstances. Si les propos se répètent ou si elle se sent en danger, elle peut chercher un appui et choisir la distance dont elle a besoin.
 
-## Évolution du personnage et résolution
+## Les papiers sur le buffet
 
 Isabelle regarde les mains de Geneviève puis les siennes. Elle a envie de rappeler tout ce qu’elle fait depuis des années. Elle prend le temps de choisir une réponse qui porte sur cette conversation.
 
@@ -59,7 +59,7 @@ Elle commence par dire que la remarque l’a blessée. Sa mère ne répond pas t
 
 Geneviève accepte de laisser les papiers de côté. Isabelle lui propose une tisane ou quelques minutes au jardin. Elle ne sait pas si la remarque sera rediscutée. Pour aujourd’hui, elle peut rester un moment si cela lui convient.
 
-En sortant dans le jardin, Isabelle sent l'air frais sur son visage. Elle repense à Théo, son fils, et se fait la promesse de continuer ce travail sur elle-même pour ne jamais lui transmettre ces schémas de mépris ou de sacrifice de soi. Elle n'est plus la petite fille de huit ans qui essayait de réparer ses parents. Elle est Isabelle, une femme lucide qui apprend à naviguer dans les tempêtes émotionnelles sans y perdre son âme. Le deuil de son oncle est là, douloureux, mais il devient aussi l'occasion d'une guérison plus ancienne, celle de sa propre relation à l'amour et au respect.
+Dans le jardin, Geneviève désigne une branche que son frère avait taillée trop court. Isabelle ne lui demande pas de revenir sur ce qu’elle a dit dans le salon. Elle reste jusqu’à la fin de sa tisane. Au moment de partir, elle vérifie que le dossier est toujours sur le buffet.
 
 ---
 

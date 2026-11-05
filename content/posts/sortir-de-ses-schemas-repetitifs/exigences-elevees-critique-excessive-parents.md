@@ -19,7 +19,7 @@ Son père pose ses couverts avec une précision d'ingénieur et l'observe avec u
 
 Sa mère, toujours prompte à valoriser l'effort, ajoute qu'une telle opportunité ne se présente pas deux fois et qu'il serait dommage que son dossier manque de relief. Sophie sent une chaleur sèche lui monter aux joues. Elle repense à son code informatique qu'elle vérifie dix fois par peur de l'erreur, une habitude qu'elle a identifiée récemment comme un rempart contre son anxiété et une stratégie de défense pour ne pas perdre sa crédibilité. Ici, sous le regard parental, ses réussites professionnelles de développeuse web semblent soudainement insuffisantes, comme si elle redevenait la petite fille qui devait justifier un 18 sur 20 au lieu d'un 20.
 
-Elle répond d'une voix qu'elle essaie de garder stable, expliquant que le processus de recrutement est long dans les startups. Pourtant, intérieurement, la machine à autocritique s'emballe. Elle se demande si elle a été assez percutante lors de l'entretien, si son portfolio était vraiment à la hauteur du marché actuel, retombant dans les cycles de surpensée qui l'épuisent habituellement la nuit devant son écran. Le rôti a soudainement le goût de la poussière. Sophie réalise que ce n'est pas seulement l'attente qui l'épuise, mais ce standard invisible qu'elle transporte partout avec elle, ce besoin d'être irréprochable pour se sentir digne d'exister à cette table.
+Elle dit que le recrutement pour l’association suit son cours. Son père lui demande ce qu’on lui a posé comme questions. Sophie se rappelle la question sur la taille de l’équipe, celle à laquelle elle a répondu plus vite qu’elle ne voulait. Elle a déjà rouvert son dossier deux fois depuis l’entretien. Elle ne voit pas ce qu’une troisième lecture lui apprendrait.
 
 ## Qu'est-ce que les exigences élevées et la critique excessive ?
 
@@ -55,18 +55,16 @@ Pour sortir de la pensée binaire du tout ou rien, il est utile de définir des 
 
 Dans une situation sans enjeu important, Sophie peut admettre qu’elle ne connaît pas la réponse à une question de son père, sans promettre de la trouver dans l’heure. Elle observe ce qui se passe, qu’il réagisse bien ou non. Le [Centre for Clinical Interventions](https://www.cci.health.wa.gov.au/Resources/For-Clinicians/Perfectionism) propose des exercices comparables pour examiner des attentes liées au perfectionnisme. Cela n’oblige pas à se mettre en difficulté ou à négliger une vérification qui protège quelqu’un.
 
-## Sophie commence à poser les armes
+## La tarte aux bords trop cuits
 
-Alors que le dessert est servi, une tarte aux pommes dont la pâte est légèrement trop cuite sur les bords, sa mère s'en excuse plusieurs fois. Sophie observe la scène avec une lucidité nouvelle. Elle voit dans l'agitation de sa mère le reflet de ses propres tourments. Au lieu de rassurer machinalement comme elle le ferait d'habitude, elle décide d'appliquer une des techniques apprises lors de son parcours thérapeutique. Elle sourit et dit simplement que la tarte est délicieuse ainsi et que ce moment ensemble compte plus que la cuisson de la pâte.
+Sa mère coupe la tarte et montre le bord trop cuit. Elle allait remettre le morceau sur le plat ; Sophie lui tend son assiette. « Donne, j’aime bien quand ça croustille. » Elle entend sa mère s’excuser une deuxième fois et retrouve dans la scène quelque chose de son propre réflexe.
 
 Son père s'apprête à revenir sur le sujet du poste de directrice technique, mais Sophie l'interrompt avec douceur. Elle lui explique qu'elle préfère ne pas parler de travail aujourd'hui, car elle a besoin de déconnecter pour être pleinement présente avec eux. C'est une limite qu'elle n'avait jamais osé poser, une évolution majeure par rapport à ses anciennes habitudes de justification constante. Elle sent une légère accélération de son pouls, un reste d'anxiété, mais elle tient bon. Son père hoche la tête et commence à raconter une anecdote sur ses récentes randonnées.
 
-En quittant la maison de ses parents en fin d'après-midi, Sophie ne ressent pas l'épuisement habituel. Elle réalise que son besoin de perfection était un bouclier qui l'empêchait de vivre des relations authentiques. En acceptant de ne pas être l'employée idéale ou la fille parfaite durant ces quelques heures, elle a ouvert une brèche vers plus de liberté. Elle sait que le chemin sera encore long et que la critique excessive reviendra frapper à sa porte dès lundi matin au bureau, mais elle possède désormais des outils pour ne plus la laisser diriger sa vie.
+En attendant son train, Sophie se demande si elle a été sèche en changeant de sujet. Elle commence un message à ses parents, « Désolée pour tout à l’heure », puis efface les trois mots. Elle les remercie pour le déjeuner. Il lui reste un bout de tarte dans le sac, emballé par sa mère.
 
 ---
 
 Pendant ce repas, Sophie trouve une marge de manœuvre : elle peut être présente à table sans devoir faire le bilan de sa carrière.
 
-Le voyage vers l'acceptation de son imperfection est sans doute l'un des plus courageux que l'on puisse entreprendre. En cessant de viser une version idéale et inatteignable de nous-mêmes, nous laissons enfin de la place pour qui nous sommes réellement. C'est dans ces failles et ces moments de vulnérabilité que se créent les connexions les plus sincères avec les autres et avec soi-même.
-
-Si vous vous reconnaissez dans le parcours de Sophie et que ces exigences deviennent un fardeau trop lourd à porter au quotidien, solliciter l'aide d'un professionnel de la santé mentale peut être bénéfique. Un psychologue pourra vous accompagner pour identifier l'origine de vos schémas et vous aider à construire des stratégies adaptées à votre histoire personnelle pour retrouver un équilibre durable.
+Si vous passez plusieurs jours à rejouer chaque remarque après un repas de famille et que cela vous épuise, vous pouvez en parler à un psychologue.

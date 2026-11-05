@@ -13,9 +13,9 @@ contexte: "en couple"
 draft: false
 ---
 
-Léa ajuste ses lunettes tout en fixant le mur blanc de son studio. Face à elle, Youssef reste immobile sur le petit canapé en velours. Elle vient de lui confier, avec une voix tremblante, cette peur viscérale qui l'habite depuis le divorce de ses parents quand elle avait six ans, cette angoisse de n'être qu'une option dans la vie de ceux qu'elle aime. Elle s'est mise à nu, livrant ses fragilités les plus intimes comme elle ne l'avait jamais fait auparavant, même avec sa meilleure amie Zoé. Elle attend un mot, un geste, une validation émotionnelle qui viendrait panser cette plaie encore ouverte.
+Léa a dit à Youssef qu’elle avait peur de n’être qu’une option pour les gens qu’elle aime. Il est assis sur le petit canapé de son studio. Elle attend encore une réponse quand il lui demande si elle en a parlé au Dr Moreau.
 
-Le silence de Youssef s'étire et devient pesant. Il la regarde avec une curiosité presque clinique, ses sourcils légèrement froncés comme s'il analysait une équation mathématique complexe. Enfin, il finit par dire que c'est une réaction intéressante d'un point de vue analytique et qu'elle devrait sans doute en parler davantage lors de son prochain stage avec le Dr Moreau. Ce n'est pas de la méchanceté, c'est de la distance. Pour Léa, ce manque de résonance affective agit comme une lame. Elle se sent brusquement dépossédée de son secret, jetée hors de leur bulle d'intimité.
+Elle pensait qu’il allait lui demander à quel moment elle avait commencé à éprouver ça. Il lui parle plutôt de son prochain stage et de ce que son professeur pourrait en dire. Léa ne sait pas comment il l’a entendu. Elle sait seulement qu’après cette réponse, elle n’a plus envie d’en raconter davantage.
 
 Dans l'esprit de la jeune étudiante, un mot clignote en rouge : trahison. Ce n'est pas une infidélité physique, ce n'est pas un mensonge sur son emploi du temps, mais c'est une rupture brutale du pacte de sécurité qu'elle pensait avoir tissé avec lui. Elle repense à cette nuit blanche où elle rédigeait le dossier de Zoé par pur besoin de se sentir indispensable. Ici, elle a tenté d'exister par sa vulnérabilité, et le vide qu'elle reçoit en retour lui semble être la plus cruelle des déloyautés. Ses mains deviennent moites et elle sent le froid du carrelage sous ses pieds nus, accentuant son sentiment d'isolement. Elle reconnaît physiquement cette sensation, la même que lorsqu’elle avait vu Zoé à la bibliothèque après l’annulation de leur déjeuner : ce décalage violent entre son investissement total et la réalité de l'autre.
 
@@ -57,13 +57,11 @@ Souvent, la trahison naît d'un malentendu sur les règles du jeu relationnel. P
 
 Léa peut prendre du recul et choisir si elle souhaite parler, faire une pause ou appeler une personne de confiance. Elle n’a pas besoin de se replonger dans l’enfance pour savoir qu’une limite lui importe.
 
-## Léa commence à poser les armes
+## Deux minutes sur le canapé
 
-Léa observe Youssef. Elle sent la chaleur monter dans son cou, cette réaction familière qu'est la colère défensive. Mais elle se souvient de ce qu'elle a appris en étudiant ses propres biais de lecture de pensée. Elle réalise que Youssef ne cherche pas à la trahir activement. Sa réponse analytique est sa propre armure, sa manière à lui de gérer une intensité émotionnelle qui l'effraie peut-être. Elle ne s'efface pas comme elle le faisait avec Zoé, elle ne cherche pas non plus à le sauver de sa propre froideur en devenant l'étudiante parfaite ou la compagne sacrificielle.
+Léa rapproche sa chaise du canapé. « J’ai encore envie de te le dire. Tu peux juste m’écouter deux minutes ? » Youssef commence à répondre, puis se tait. Elle reprend là où elle s’était arrêtée. Quand il pose sa main sur la sienne, elle la laisse quelques secondes avant de se lever.
 
-Elle décide d'utiliser la technique du pont émotionnel. D'une voix plus calme, elle lui explique que son analyse, bien que pertinente académiquement, la laisse seule avec sa détresse. Elle lui dit que pour elle, l'intimité signifie être accueillie sans jugement et sans diagnostic. Youssef semble déstabilisé par cette franchise dépourvue d'agressivité. Il pose sa main sur la sienne, un geste rare. C'est un progrès notable, mais pour Léa, c'est une victoire immense sur ses anciens schémas de retrait et de jalousie. Elle ne cherche plus à protéger son territoire affectif par la froideur, mais par une communication authentique.
-
-Elle distingue maintenant le sentiment d’avoir été trahie de ce qu’elle a pu observer : elle n’a pas reçu le soutien qu’elle espérait. En cessant d'idéaliser la relation comme un absolu de fusion, elle commence à accepter que Youssef est un être distinct, avec ses propres limites. Elle n'est plus la petite fille de six ans impuissante face au silence de ses parents. Elle est une femme de 23 ans capable de définir ses besoins et de protéger son cœur, sans attendre que l'autre soit parfait pour se sentir entière.
+Elle n’a pas envie de reprendre toute leur conversation ce soir. Elle lui dit que sa réponse l’a laissée seule avec ce qu’elle venait de raconter. Youssef lui demande ce qu’elle aurait voulu entendre. Elle ne trouve pas de réponse immédiate. Elle préfère commencer par ce qu’elle a réussi à lui dire.
 
 ---
 

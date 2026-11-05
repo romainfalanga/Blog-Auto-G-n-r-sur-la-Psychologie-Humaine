@@ -13,7 +13,7 @@ editorial_pack: "psychology-v10"
 draft: false
 ---
 
-« Pourtant, vous avez l'air en forme. » La remarque arrive au moment où Anaïs demande qu'on laisse un passage libre derrière l'accueil municipal. Son handicap invisible, ou plus exactement les limites liées à sa polyarthrite qui ne se voient pas, devient soudain une question à défendre. Elle vient de recevoir plusieurs personnes avec attention. Cette présence professionnelle semble maintenant utilisée comme preuve que l'aménagement demandé n'est pas nécessaire.
+« Pourtant, vous avez l'air en forme. » La remarque arrive au moment où Anaïs demande qu'on laisse un passage libre derrière l'accueil municipal. Anaïs vérifie si son interlocuteur regarde les cartons ou son visage. Elle s’était attendue à devoir expliquer où les mettre. Elle vient de recevoir plusieurs personnes avec attention. Cette présence professionnelle semble maintenant utilisée comme preuve que l'aménagement demandé n'est pas nécessaire.
 
 Anaïs a quarante-six ans et sa maladie est diagnostiquée, suivie médicalement. Elle ne demande pas à son interlocuteur d'en évaluer la gravité. Elle souhaite que les cartons provisoirement déposés soient déplacés afin de ne pas compliquer encore ses mouvements dans cet espace. La demande concerne un obstacle concret. La réponse la ramène à son apparence, comme si un visage disponible annulait le reste de l'expérience.
 
@@ -83,7 +83,7 @@ Une démarche administrative éventuelle demande des informations personnalisée
 
 Elle conserve des exemples utiles et recherche un accompagnement si les démarches deviennent trop lourdes. La reconnaissance ne doit pas être un nouveau travail invisible à accomplir seule. Certaines réponses prendront du temps ; cela ne l'oblige pas à attendre pour faire examiner un obstacle immédiat ou une difficulté de sécurité.
 
-## Anaïs ne transforme pas le hall en dossier médical
+## Dégager le passage du guichet
 
 Après l'intervention de Céline, elle répond à la remarque sur son apparence : « Je peux avoir l'air disponible et rencontrer des limites qui ne se voient pas. Pour l'instant, parlons du passage. » Les cartons sont déplacés. Elle ne sait pas si son interlocuteur comprend toute la question. Elle obtient au moins que la demande concrète ne reste pas suspendue à ce jugement.
 

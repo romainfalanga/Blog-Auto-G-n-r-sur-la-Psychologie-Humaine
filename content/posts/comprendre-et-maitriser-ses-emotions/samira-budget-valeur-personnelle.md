@@ -81,7 +81,7 @@ Si quelqu’un propose de couvrir une dépense, clarifiez la nature de cette pro
 
 L’accord peut rester impossible ou nécessiter une autre organisation. Samira garde le droit de réduire sa participation à la rencontre plutôt que de dépasser ses limites. Une relation respectueuse permet de discuter un arrangement ; elle ne garantit pas que toutes les envies communes deviennent accessibles. Le désaccord pratique peut être reconnu sans devenir une rupture d’affection.
 
-## Samira garde sa place autour de la table
+## Il faut quand même quelqu’un pour les boissons
 
 Soraya propose de reprendre les lignes à plusieurs plutôt que de maintenir une personne par achat. Samira précise qu’elle ne souhaite pas présenter ses comptes et que son créneau de préparation reste limité. Sa sœur répond qu’elle a seulement besoin de savoir sur quoi compter. La tension ne disparaît pas, mais les mots portent enfin sur l’organisation réelle.
 
@@ -89,7 +89,7 @@ Le cousin insiste encore sur le coût total. Samira ne cherche plus un magasin p
 
 Sur le chemin, elle ressent une gêne persistante et pense qu’elle pourrait revenir avec quelque chose de plus pour se racheter. Elle reconnaît cette impulsion sans la traiter comme un ordre. Aucun tort n’a besoin d’être réparé par un achat. Elle attend de savoir si une information manque réellement, plutôt que de répondre au seul inconfort d’avoir parlé clairement.
 
-La rencontre familiale reste à venir. Samira ne sait pas comment chacun se souviendra de la discussion. Elle sait seulement que son budget possède une limite et que cette limite peut être dite. Cette phrase ne lui donne pas davantage de moyens, mais elle lui évite cette fois de faire de l’argent une condition silencieuse de sa place parmi les autres.
+La rencontre familiale est encore à venir. En sortant, Samira se surprend à calculer le prix des boissons dans une autre enseigne. Devant l’école, elle a déjà fait un détour semblable dans sa tête, en cherchant de quoi éviter une conversation. Elle range le téléphone avant de refaire la liste. Le jour venu, elle viendra avec le temps qu’elle a proposé.
 
 ---
 

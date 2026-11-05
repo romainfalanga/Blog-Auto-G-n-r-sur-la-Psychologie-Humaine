@@ -17,7 +17,7 @@ L'obscurité s'est installée sur les toits de Paris ce 11 avril 2026. Dans son 
 
 Elle fait défiler les lignes de texte colorées sur son écran sombre. Le silence de la pièce est seulement interrompu par le ronronnement lointain d'une voiture dans la rue. Soudain, sans qu'elle l'ait consciemment convoquée, une phrase claque dans sa tête, aussi nette qu'un sous-titre de film : Si tu ne trouves pas l'erreur maintenant, c'est que tu ne vaux rien techniquement. Ce n'est pas une réflexion construite, c'est un éclair, une certitude glaciale qui s'impose à elle alors qu'elle est assise au milieu de son salon.
 
-Ses doigts s'immobilisent sur le pavé tactile. Elle sent une tension familière grimper le long de sa nuque, un écho des déjeuners chez ses parents à Nantes où l'excellence était la seule monnaie d'échange acceptée. Cette phrase assassine n'est pas le fruit d'une analyse logique de son travail de développeuse, mais elle la reçoit de plein fouet. Elle se sent soudainement minuscule, incapable, comme si toute sa carrière ne tenait qu'à la résolution immédiate de ce détail insignifiant.
+Ses doigts s'immobilisent sur le pavé tactile. Le curseur n’a pas bougé. Elle se rappelle ces repas à Nantes où, lorsqu’elle annonçait une note, ses parents demandaient aussitôt la meilleure de la classe. Cette phrase assassine n'est pas le fruit d'une analyse logique de son travail de développeuse, mais elle la reçoit de plein fouet. Elle se sent soudainement minuscule, incapable, comme si toute sa carrière ne tenait qu'à la résolution immédiate de ce détail insignifiant.
 
 ## Définition des pensées automatiques négatives
 
@@ -57,9 +57,9 @@ Face à une pensée automatique comme celle affirmant que sa valeur est nulle si
 
 Sophie peut aussi orienter son attention vers ce qu’elle perçoit autour d’elle. La technique consiste à identifier, au moment où la pensée surgit, trois textures sous ses doigts, deux odeurs environnantes et un son lointain. Pour Sophie, cela signifie toucher le grain du papier de son carnet, sentir l'arôme de son thé et écouter le tic-tac discret d'une horloge. Le [guide de l’OMS](https://www.who.int/publications/i/item/9789240003927) décrit ce type d’ancrage pour traverser un moment de stress. Il ne sert pas à établir qu’une situation est sûre et le nombre de sensations n’est pas une règle.
 
-## Évolution du personnage et limites personnelles
+## Fermer l’ordinateur avec le doute
 
-Sophie repose son carnet de notes sur la table basse. Elle vient d'y inscrire en minuscules lettres la phrase qui la tourmentait, suivie de sa déconstruction : J'ai la pensée que ma valeur dépend de ce bug, mais c'est une erreur de logique. Elle se souvient de sa prise de conscience lors du déjeuner chez ses parents, où elle avait compris que son besoin de perfection était un bouclier. Aujourd'hui, elle choisit de ne plus lever ce bouclier quand elle est seule dans son salon. Elle comprend que son érosion intérieure ne vient pas de son travail, mais de la manière dont elle s'interdit le droit à l'erreur.
+Sophie écrit : « L’alerte ne dit pas que c’est mon code. Je regarderai au travail. » Elle commence à ajouter ce qu’elle vérifiera et s’arrête au troisième point. Il n’y a rien de nouveau depuis qu’elle a ouvert son ordinateur. Écrire la liste jusqu’au bout serait encore une manière d’y passer la soirée.
 
 Elle ferme doucement son ordinateur. Le clic de l'écran qui se rabat sonne comme une petite victoire sur elle-même. Pour la première fois depuis longtemps, elle ne cherche pas à résoudre le problème technique avant de dormir. Elle accepte que l'incertitude soit présente, sans pour autant la laisser définir qui elle est. Elle se lève, range sa tasse dans l'évier et sent la fraîcheur du carrelage sous ses pieds.
 

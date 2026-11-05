@@ -13,11 +13,9 @@ contexte: "sur les réseaux sociaux"
 draft: false
 ---
 
-Aujourd'hui, 19 mai 2026, Mei attend sa machine à laver dans la petite buanderie de la résidence étudiante, son carnet de croquis posé sur les genoux. L'air porte une odeur de bouillon de poulet qui remonte du restaurant de ses parents au rez-de-chaussée, un parfum qui lui rappelle les dîners où elle gardait ses aquarelles cachées pour ne pas décevoir les ambitions médicales de son père, Wei. Elle fait glisser son pouce sur l'écran et parcourt son fil d'actualité sans vraiment regarder, entraînée dans une succession d'affirmations et d'images qui reviennent comme un métronome.
+Dans la buanderie de la résidence, Mei reconnaît la formule avant d’ouvrir la troisième publication : « Les studios ne gardent que les portfolios de six pages. » Elle l’a déjà mise en marge du sien. Cette fois le post n’indique aucun studio. Le précédent renvoyait à une vidéo où la phrase était prononcée à l’identique.
 
-À chaque répétition d'une idée, un post qui dit qu'un certain style de dessin "marche mieux" ou une affirmation sur ce que les recruteurs attendent, Mei sent quelque chose se tisser dans sa tête : une croyance qui n'existait pas vraiment avant et qui commence à sembler évidente. Cet ensemble de messages finit par résonner plus fort que ses propres intuitions artistiques. Elle repense à la période du 19 avril où elle avait identifié l'effet de simple exposition en observant son envie d'acheter des logiciels de dessin sous l'influence des algorithmes. Aujourd'hui, elle soupçonne que ce n'est pas seulement la répétition visuelle qui l'affecte, mais un biais cognitif précis : l'effet de vérité illusoire sur les réseaux sociaux.
-
-Julien lui envoie un message pour savoir si elle veut dîner. Elle hésite, la main qui tremble légèrement. Ce n'est plus la peur de s'effacer totalement dans leur relation comme au début, car elle a appris à identifier son mécanisme de fusion, mais c'est parce que dans son fil un compte influent vient de publier une liste d'erreurs fatales à éviter pour être un bon illustrateur. Un écho ancien revient, ce besoin de plaire qui la poussait jadis à mimer les désirs de Julien ou les attentes de ses professeurs. Mei ferme les yeux, caresse la couverture usée de son carnet et décide de noter trois idées avant d'aller rejoindre Julien, pour tester ses ressentis face à ces affirmations répétées.
+Un message de Julien lui demande où ils dînent. Mei a envie de répondre « où tu veux », comme souvent. Elle lui propose un endroit qui ne soit pas trop bruyant et repose son téléphone pour vider le tambour. Le linge sent le savon. La phrase des six pages lui revient avant la fin du pliage.
 
 ## Définition de l'effet de vérité illusoire
 
@@ -78,22 +76,16 @@ Exercice concret :
 
 Pour Mei, qui aime expérimenter, cet exercice devient un terrain d'entraînement pour refuser la fusion aux tendances. Elle sait, depuis son travail sur la honte face à l'autorité, qu'exprimer une préférence personnelle est un acte qui peut être accompli sans sacrifier son identité d'artiste pour obtenir une simple approbation.
 
-## Évolution de Mei et choix de ses repères
+## La recommandation introuvable
 
-Mei part dîner avec Julien après avoir noté trois idées contradictoires dans son carnet. Dans le tram, elle reconnaît la vieille impulsion à plaire, celle qui l'avait fait feindre la passion pour la médecine à la table familiale, mais quelque chose a changé aujourd'hui. Elle se rappelle la fois où elle a pris le train pour Florence et a senti une ouverture plus vaste que ses anciennes craintes. Ces acquis ne sont pas théoriques, ils agissent comme des balises contre le faux self qu'elle s'était construit.
+Dans le tram, Mei retrouve la vidéo. Elle cite un conseil de recruteur repris ailleurs sans son contexte. Sur le site du studio dont le nom apparaît enfin, elle ne trouve aucune limite de pages pour le portfolio. Elle ne sait pas si un autre studio l’exige, et garde la question pour la candidature qu’elle préparera réellement.
 
-Au restaurant du campus, elle met en pratique la vérification active : un post viral conseillé par une camarade lui semble douteux, elle le note et le vérifiera plus tard. La vérification lui évite de changer son style brusquement. Plus tard, de retour dans sa chambre, elle lance le compteur de répétitions personnelles sur une page de son carnet. Les répétitions sur la même technique d'ombrage apparaissent en rouge : elle décide de faire un croquis de contraste, un petit atelier de contre-preuves créatives pour voir comment cela résonne en elle.
-
-En quelques jours, Mei remarque que son fil d'actualité n'a plus le même pouvoir automatique. Elle alterne son exposition : un jour elle suit des comptes qui la challengent, l'autre jour des comptes qui la nourrissent. Elle utilise ses talents d'observatrice pour repérer quand une idée revient sans source solide. Lors d'un cours, au lieu de se taire devant une remarque populaire, elle cite son petit registre et demande poliment la source, appliquant ce qu'elle a appris pour sortir de l'assujettissement face à l'autorité. Océane remarque son changement et la complimente sur la clarté de son propos ; Mei sent une nouvelle confiance dans sa capacité à choisir plutôt qu'à plaire.
-
-Ses parents, Li et Wei, la trouvent plus décidée à la maison lorsqu'elle évoque ses méthodes de tri. Elle n'impose rien, elle explique calmement qu'elle teste des règles plutôt que d'adopter celles qui circulent. Ce comportement est cohérent avec ce qu'elle avait commencé à faire lors du dîner familial décrit dans son exploration du faux self : protéger son identité sans se couper des autres. Julien perçoit aussi la différence : elle ne mime plus systématiquement ses préférences musicales ou cinématographiques, elle propose ses choix et accepte ceux de l'autre autrement, transformant leur relation en un espace de partage authentique plutôt qu'en une performance de docilité.
+Au restaurant, Julien regarde le croquis de Florence qu’elle lui tend. Mei fait défiler son portfolio jusqu’à la dernière planche. Elle ne supprime rien ce soir. Elle voudrait d’abord savoir à qui elle l’enverra.
 
 ---
 
 Une idée familière peut sembler crédible pour cette seule raison. On peut chercher sa source, vérifier que les reprises sont indépendantes ou, s’il s’agit d’un conseil artistique, le mettre à l’épreuve du travail que l’on souhaite faire.
 
-Si vous vous reconnaissez dans l'histoire de Mei, rappelez-vous que ces techniques sont des gestes simples et réutilisables. Elles ne remplacent pas un accompagnement professionnel si les difficultés persistent : si l'anxiété sociale, la peur du jugement ou la détresse face à la désinformation deviennent envahissantes, il est recommandé de consulter un psychologue ou un professionnel de la santé mentale.
-
-Vous n'êtes pas obligé d'accepter une croyance parce qu'elle revient souvent. Comme Mei, vous pouvez apprendre à vérifier, à expérimenter et à choisir vos propres repères en ligne. Ces petits ajustements permettent de reprendre le contrôle de vos pensées et de préserver votre liberté créative et émotionnelle.
+Si la peur du jugement ou l’anxiété liée aux contenus en ligne devient envahissante, un psychologue ou un professionnel de santé mentale peut vous accompagner.
 
 Sources : [Hasher, Goldstein et Toppino, 1977](https://www.sciencedirect.com/science/article/pii/S0022537177800121) ; [Pennycook, Cannon et Rand, 2018](https://pubmed.ncbi.nlm.nih.gov/30247057/).

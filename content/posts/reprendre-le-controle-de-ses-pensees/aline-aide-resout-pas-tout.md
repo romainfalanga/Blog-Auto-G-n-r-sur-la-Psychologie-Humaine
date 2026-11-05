@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-Un album de mariage repose sur la table, ouvert sur une photographie dont la couleur commence à pâlir. Quand l’aide ne résout pas tout, Aline cherche encore souvent un objet à remettre en ordre. Sa mère choisit des images pour la fête familiale et parle soudain d’autre chose : elle se sent seule pendant certaines soirées avec son mari. « Je n’ai pas envie que tu lui en parles », ajoute-t-elle. Aline garde une photographie entre deux doigts et ne sait plus où la poser.
+Un album de mariage repose sur la table, ouvert sur une photographie dont la couleur commence à pâlir. Aline redresse la pile des photographies qui ne rentreront pas dans l’album. Elle s’était promis de s’en tenir à ces images et aux deux salles à vérifier. Sa mère choisit des images pour la fête familiale et parle soudain d’autre chose : elle se sent seule pendant certaines soirées avec son mari. « Je n’ai pas envie que tu lui en parles », ajoute-t-elle. Aline garde une photographie entre deux doigts et ne sait plus où la poser.
 
 Elle imagine aussitôt une sortie à organiser, un repas pour rapprocher ses parents ou une conversation séparée avec son père. Ces solutions familières rencontrent une limite explicite : sa mère ne lui confie pas une mission de médiation. Depuis la discussion sur la fête, Aline laisse déjà son frère exprimer ses choix directement. Ici, le sujet devient plus privé et la frontière lui paraît moins facile à tenir, parce qu’elle souhaite soulager une personne qu’elle aime.
 
@@ -81,7 +81,7 @@ Elle observe ensuite l’envie d’intervenir dans l’organisation de la fête 
 
 Si la situation lui pèse ensuite, elle peut parler de son propre vécu à une personne de confiance ou à un professionnel en protégeant les détails privés. Elle peut dire qu’elle se sent inquiète pour ses parents, sans divulguer la confidence à tout le groupe familial. Chercher un soutien pour sa place n’exige pas de faire circuler intégralement le récit de sa mère.
 
-## Aline commence à laisser une question ouverte
+## L’album reste sur la table
 
 Sa mère parle d’une soirée précise où elle souhaite discuter et où son mari préfère regarder une émission. Aline écoute sans chercher immédiatement qui a raison. Elle pose une question sur ce qui manque à sa mère, puis se rappelle que le point de vue de son père ne lui est pas donné. Elle n’a pas à compléter ce vide par des suppositions sur ses intentions.
 

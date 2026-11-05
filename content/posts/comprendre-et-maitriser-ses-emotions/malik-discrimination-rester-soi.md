@@ -13,7 +13,7 @@ tags: ["discrimination", "origine", "travail", "dignité", "Malik"]
 draft: false
 ---
 
-La fiche de présentation reste devant Malik, avec le schéma qu’il prépare pour les visiteurs du dépôt. Marc, le responsable de la journée, lui annonce qu’un collègue prendra la parole à sa place. Le motif ne reste pas ambigu : pour représenter l’équipe, il préfère une personne née en France. Malik entend une discrimination dans cette décision professionnelle, pas une difficulté personnelle à s’intégrer ou une inquiétude sans fondement.
+Malik a préparé une fiche pour montrer une pièce du tramway aux visiteurs. Marc pose le doigt sur le nom de celui qui parlera. Ce n’est plus celui de Malik. « Il me faut quelqu’un qui soit né en France pour présenter l’équipe », dit-il. Malik attend une précision sur le travail qu’on lui reproche. Marc n’en donne aucune. Dans l’atelier, Bastien a entendu la phrase.
 
 Bastien est présent. Il rappelle que Malik connaît le matériel et prépare cette intervention depuis plusieurs jours. Marc ne conteste pas sa compétence ; il répète son choix. La précision rend la scène plus pénible encore. Malik n’a pas de défaut technique à corriger pour retrouver la place retirée. On le renvoie à une origine dont il ne devrait pas avoir à se détacher pour présenter son métier.
 
@@ -55,7 +55,7 @@ Malik veut parler à Awa, puis craint de ne plus rien partager d’autre avec el
 
 Il peut choisir le destinataire et le périmètre du récit. Awa peut connaître la scène ; Fatou peut simplement savoir qu’il traverse une journée difficile et préfère regarder les images. Il ne ment pas en gardant certains détails privés. Il ne trahit pas davantage sa dignité s’il souhaite raconter précisément l’injustice à quelqu’un qui l’écoute.
 
-## 3 techniques pour chercher des appuis et préserver ses choix
+## Rassembler les faits et choisir des appuis
 
 ### 1. Garder le fait distinct des verdicts sur soi
 

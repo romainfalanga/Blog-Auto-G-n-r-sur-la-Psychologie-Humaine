@@ -13,11 +13,9 @@ contexte: "en période de fêtes de famille"
 draft: false
 ---
 
-L'odeur du gigot d'agneau et du romarin embaume la cuisine, une fragrance qui, d'ordinaire, devrait évoquer la joie des retrouvailles. Pourtant, Monique sent une étrange lourdeur s'installer alors qu'elle dresse la table pour le déjeuner de ce dimanche de printemps. Jacques est là, assis sur le banc de bois de la salle à manger, feuilletant un recueil de poésie. C'est sa première grande réception ici, dans cette maison de l'Oise où Jean-Claude occupait autrefois la place du chef de famille. Monique ajuste son collier de perles, celui de sa mère, et sent le métal froid contre sa peau. Elle a invité Isabelle et François, ses enfants, pour célébrer cette nouvelle étape de sa vie, mais une voix intérieure, persistante et acide, lui murmure qu'elle trahit la mémoire de ceux qui ne sont plus là.
+Pour le déjeuner de famille, Monique a mis le plat au four avant l’arrivée de Jacques. Sur la table, il reste la place que Jean-Claude prenait d’habitude. Elle vient de la donner à Jacques sans s’en apercevoir. Elle déplace un couvert, puis le remet où il était.
 
-Elle se souvient de sa conversation avec Jacques au salon de thé il y a quelques jours, lorsqu'elle luttait contre son sentiment d'imposture. Aujourd'hui, l'enjeu semble plus vaste encore. En disposant les verres en cristal, elle sursaute au bruit d'une voiture qui stationne dans l'allée. Ses mains, habituellement si agiles pour corriger des copies de français, tremblent légèrement. Elle a toujours été l'enfant sage, celle qui s'occupait de ses parents vieillissants sans jamais faillir, l'enfant parentifiée qui portait le monde sur ses frêles épaules d'institutrice. En voyant Isabelle sortir de la voiture avec les petits-enfants, Monique ressent une impulsion soudaine de tout annuler, de redevenir la veuve solitaire et digne que sa propre mère aurait approuvée.
-
-Jacques se lève pour l'aider, posant une main rassurante sur son épaule. Monique se crispe. Elle pense à son père, cet artisan rigoureux qui ne s'autorisait jamais de repos, et à Jean-Claude, avec qui elle a partagé trente-huit ans de traditions immuables. Accueillir un nouvel homme à cette table, lors d'une fête de famille, lui semble être une infraction à un code secret, une dette qu'elle n'aurait pas remboursée. Elle regarde le couvert vide qu'elle a instinctivement failli dresser par habitude, avant de se reprendre. Pourquoi se sent-elle si coupable de vouloir être heureuse alors que le soleil d'avril inonde la terrasse ?
+Elle a envie de voir ses enfants et de les laisser parler à Jacques. Elle redoute aussi la question qu’ils pourraient lui poser sur la maison. Quand Jacques propose de mettre la carafe sur la table, Monique lui demande de la poser près de François. Le couvert ne bouge plus.
 
 ## Qu'est-ce que les loyautés invisibles de Boszormenyi-Nagy ?
 
@@ -57,18 +55,14 @@ Le génogramme est une sorte d'arbre généalogique enrichi de données psycholo
 
 Si cela lui convient, Monique peut demander à chacun d’apporter un plat. Une gêne ou une culpabilité éventuelle ne prouve ni qu’elle a tort, ni qu’elle a découvert une loyauté cachée.
 
-## Monique commence à choisir sa propre voie
+## À quelle place ils s’assoient
 
-Isabelle et François sont arrivés. Les rires de Lola résonnent dans le couloir, brisant le silence qui pesait tant sur Monique ces derniers mois. Au moment de passer à table, Monique sent à nouveau cette vieille anxiété monter, cette envie de s'excuser d'être là, avec Jacques, dans cette maison qui a connu tant d'autres printemps. Elle se souvient de l'exercice du génogramme qu'elle a esquissé mentalement le matin même. Elle se rappelle de sa tante Lucie, la sœur de son père, qui avait osé voyager et refaire sa vie après une épreuve. Elle choisit de se connecter à cette loyauté là, celle de la vie qui continue.
+Isabelle arrive avec Lola. François pose un gâteau dans la cuisine et remarque la photo de Jean-Claude sur le meuble. Il demande où elle a été prise. Monique raconte le début du séjour ; Isabelle retrouve le nom du village.
 
-Elle regarde Jacques, qui discute avec François de la dernière exposition à Paris. Elle remarque que son fils sourit, qu'il semble soulagé de voir sa mère entourée et vivante. Monique réalise soudain que sa loyauté envers ses enfants passe aussi par son propre bonheur. Si elle reste figée dans le deuil et la rigueur, elle leur transmettra ce même fardeau, tout comme elle l'a ressenti avec ses propres parents. En s'autorisant à rire à une boutade de Jacques, elle offre à Isabelle et François la permission d'être heureux eux aussi.
-
-Le déjeuner se déroule avec une fluidité nouvelle. Monique n'est plus seulement l'ancienne professeure de français nostalgique ou la veuve de Jean-Claude. Elle est Monique, une femme de 62 ans qui apprécie le goût du vin blanc et la chaleur d'une main amicale. Elle n'a pas oublié le passé, elle a simplement décidé que sa dette était payée. En desservant les assiettes, elle ne ressent plus le besoin de vérifier si elle a tout fait parfaitement. Elle se surprend même à laisser Jacques l'aider pour la vaisselle, acceptant cette complicité sans rougir. Elle comprend que son évolution n'est pas une trahison, mais un hommage à la vie que ses parents lui ont transmise.
+À table, Jacques échange avec François sur l’exposition qu’il a proposée à Monique. Elle ne sait pas encore ce que François pense de leur relation. Elle sait ce qu’elle peut lui dire : « On ira ensemble, et je rentrerai le soir. » Lola demande le gâteau. Monique se lève pour aller le chercher.
 
 ---
 
 Monique peut se sentir attachée à un rituel et vouloir le modifier. L’image des loyautés invisibles l’aide à parler de ces obligations ressenties, sans présumer de ce que les autres membres de la famille pensent ou doivent changer.
-
-Comme Monique, vous pouvez apprendre à distinguer ce qui vous appartient de ce qui vous a été légué. Les fêtes de famille, bien que parfois éprouvantes, sont des occasions uniques de pratiquer cette distinction et de poser de nouveaux jalons pour votre équilibre émotionnel. Chaque petit changement est une victoire sur les schémas du passé.
 
 Si vous sentez que ces poids sont trop lourds à porter seul ou que la culpabilité vous paralyse malgré vos efforts, un professionnel de la psychologie familiale ou un thérapeute spécialisé dans les approches transgénérationnelles peut vous accompagner. Ce travail aide à dénouer les fils les plus complexes et à retrouver votre pleine liberté d'être.

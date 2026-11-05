@@ -13,7 +13,7 @@ contexte: "en amitié"
 draft: false
 ---
 
-Le rire de Romain résonne dans le salon de la colocation, un bruit franc qui tranche avec l'humidité de ce lundi 13 avril 2026. Lucas est assis sur le rebord du canapé, le corps penché en avant, les yeux fixés sur ses deux amis. Il vient de terminer le récit de sa journée de stage, ou plutôt, une version légèrement augmentée de sa réalité. Il raconte comment son tuteur, ce même homme qui critiquait son mémoire il y a quelques semaines, l'aurait consulté pour une décision stratégique majeure. C'est faux, bien sûr. En réalité, il a simplement passé l'après-midi à formater des tableaux Excel, mais il a besoin de voir cette lueur d'admiration dans le regard de Maxime.
+Lucas raconte à ses colocataires qu’il a rattrapé une présentation de stage juste avant la réunion. Il a surtout corrigé un tableau, mais Romain rit et le récit s’allonge. Quand Maxime consulte son téléphone, Lucas cherche déjà une autre histoire.
 
 Un silence s'installe pendant que Maxime consulte son téléphone. Lucas sent une pointe d'angoisse monter. Est-ce qu'il en a trop fait ? Est-ce qu'ils s'ennuient ? Pour combler le vide, il enchaîne immédiatement sur une autre anecdote, plus impressionnante, sur ses futurs projets de carrière. Il surveille chaque micro-expression sur leurs visages, cherchant désespérément un signe de validation, un hochement de tête, n'importe quoi qui lui confirmerait qu'il est à la hauteur de ce milieu d'école de commerce où il se sent encore comme un intrus. Il se rappelle soudain l'entretien à La Défense où il pensait que tout le monde fixait sa cravate ; ici, c'est son CV imaginaire qu'il essaie de rendre impeccable pour ne pas être démasqué.
 
@@ -57,7 +57,7 @@ Avec un ami en qui il a confiance, Lucas pourrait dire simplement : « J’ai pa
 
 Quand il pense « Je dois montrer que les sacrifices de mes parents ont payé », Lucas peut se demander à quoi cette règle l’oblige aujourd’hui. La rendre moins sévère peut vouloir dire accepter de raconter une journée ordinaire, ou parler à ses parents de ce qui l’intéresse dans le stage autant que de ses résultats.
 
-## Lucas commence à poser les armes
+## Une histoire qui n’impressionne personne
 
 Un soir, ses amis parlent des offres d’embauche. Lucas est tenté d’inventer qu’un cabinet de conseil l’a approché. Il repense à son entretien et à la place qu’avait prise sa cravate dans sa tête : il n’avait aucun moyen de savoir qui y avait prêté attention. Il repose son verre et écoute la fin de la phrase de Romain.
 

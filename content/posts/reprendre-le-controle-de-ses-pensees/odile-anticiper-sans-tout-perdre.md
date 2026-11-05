@@ -15,9 +15,9 @@ draft: false
 
 Gérard fait glisser une brochure entre les deux verres et désigne un appartement qu’il compte visiter. Le logement se trouve dans une autre commune, à quelques kilomètres. Il y gagnerait un accès plus simple aux commerces. Il ne dit pas qu’il part demain, ni même qu’il a décidé de déménager. Odile entend pourtant surtout le mot départ. Pendant qu’il explique la disposition des pièces, elle imagine les déjeuners plus difficiles à organiser, les invitations moins nombreuses et les habitudes qui disparaissent une à une.
 
-Le chemin du retour lui paraît rempli de confirmations. Une boutique ferme pour travaux ; une voisine qu’elle connaît peu parle de quitter la ville ; le panneau d’une ligne de bus annonce un horaire modifié. Aucun de ces faits n’a la même importance, mais Odile les rassemble dans une histoire où tout ce qui la relie au quartier serait en train de s’effacer. À soixante-quatorze ans, l’ancienne agente postale sait que les lieux et les relations changent. Aujourd’hui, cette connaissance ne lui apporte pas un repère ; elle devient le point de départ d’une liste sans fin.
+Sur le chemin du retour, Odile voit que la boutique ferme pour travaux et que les horaires du bus vont changer. Une voisine dit qu’elle pense quitter la ville. En arrivant dans sa rue, Odile ne sait déjà plus laquelle de ces annonces l’inquiète le plus. Elle vérifie d’abord si le bus du marché est concerné, puis se retrouve à chercher un trajet vers la commune de Gérard.
 
-Françoise est morte il y a six mois et lui manque toujours. Odile remarque que le projet de Gérard touche une peur plus large que ce déplacement encore hypothétique. Elle pense à la possibilité de perdre d’autres proches, à sa propre autonomie et aux trajets qui pourraient un jour devenir compliqués. Elle ne veut pas nier que ces questions existent. Elle aimerait seulement savoir comment les préparer sans passer ses soirées à les vivre déjà, dans des scènes imaginées où aucune relation ni ressource actuelle ne semble rester disponible.
+Françoise lui manque au moment où elle se demande à qui elle parlera si Gérard déménage. Il vient seulement de lui montrer une brochure, et Odile imagine déjà un déjeuner auquel elle renonce faute de transport. Elle essaie de retrouver dans quelle phrase il a dit qu’il partait. Il n’en a prononcé aucune.
 
 Arrivée chez elle, elle ouvre un plan de transports. Elle cherche d’abord le trajet vers la commune de Gérard, puis consulte les correspondances vers plusieurs autres lieux dont personne n’a parlé. Une demi-heure passe. Elle ne possède pas davantage d’informations sur l’appartement, mais elle se sent plus inquiète. Le carnet de dessins reste fermé sur la table. Odile comprend qu’elle ne prépare plus seulement une possibilité de trajet : elle essaie de résoudre en une soirée toutes les pertes que son imagination peut proposer.
 
@@ -29,7 +29,7 @@ Le NHS, dans ses ressources sur la résolution de problèmes, propose de disting
 
 Il faut également reconnaître les contraintes présentes. Si un transport manque, si un proche est réellement moins disponible ou si un logement devient inaccessible, le problème ne se réduit pas à une anticipation du pire. Il mérite une réponse concrète et parfois un soutien extérieur. L’objectif n’est donc pas de remplacer toute inquiétude par une pensée rassurante. Odile peut garder une estimation prudente, examiner des informations contradictoires et décider ce qui appelle une action. Elle peut aussi constater qu’une question reste ouverte sans laisser cette ouverture occuper toutes les autres dimensions de sa soirée.
 
-## Comment le futur prend-il toute la place ?
+## Des départs en cascade
 
 ### Une possibilité devient une suite déjà écrite
 
@@ -43,7 +43,7 @@ Une fermeture provisoire, un changement de bus et un projet de déménagement n�
 
 La première recherche d’itinéraire a une question précise. Les suivantes se multiplient parce qu’Odile espère obtenir une sécurité complète. Chaque réponse ouvre une autre possibilité, et elle ne sait plus ce qui lui permettrait de fermer le plan. Ce n’est pas le temps passé seul qui indique si la démarche est utile. Elle peut examiner le résultat : dispose-t-elle d’une information nécessaire, d’une décision possible ou seulement de nouveaux scénarios ? Définir le besoin de départ et le prochain point de vérification peut rendre plus visible le moment où la recherche a rempli sa fonction.
 
-## Trois pistes pour préparer sans tout vivre d’avance
+## Vérifier une information, laisser le reste ouvert
 
 ### 1. Revenir à une question assez précise pour être examinée
 
@@ -57,7 +57,7 @@ Odile peut formuler ce qui la touche : l’idée de rencontres moins spontanées
 
 Odile sait que Gérard visitera l’appartement prochainement. Elle pourra lui demander ensuite ce qu’il en pense, au lieu de préparer maintenant toutes les variantes du projet. Elle note ce point de retour, ferme le plan et choisit une action qui lui convient ce soir. Il peut s’agir de dessiner, préparer un repas ou appeler quelqu’un pour parler d’un autre sujet. Ce déplacement d’attention ne supprime pas le futur et ne constitue pas une obligation de se distraire. Il donne une place aux besoins actuels après une préparation suffisante pour le moment. Si la crainte revient, Odile peut se rappeler ce qui a été examiné et la prochaine information attendue, sans recommencer intégralement la recherche. Une inquiétude persistante ne signifie pas que l’essai a été mal réalisé.
 
-## Odile garde une question ouverte et ferme le plan
+## Le trajet qu’elle n’a pas à faire ce soir
 
 Sur le papier, elle distingue ce qui est certain de ce qui reste conditionnel. Gérard veut visiter un appartement. Il n’a pas encore décidé de partir. Si le projet se confirme, un trajet semble possible mais mérite une vérification. Elle s’arrête avant de rechercher des logements pour elle-même dans toutes les communes voisines. Cette limite lui paraît d’abord imprudente. Elle reconnaît l’inconfort sans le traiter comme la preuve d’un danger immédiat que de nouvelles recherches permettraient d’annuler.
 

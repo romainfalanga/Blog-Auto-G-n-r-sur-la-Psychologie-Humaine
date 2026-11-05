@@ -73,16 +73,14 @@ Exercice concret :
 
 Ce détour peut aider Stéphane à formuler une question plutôt qu'une accusation. La réaction de ses collègues reste ouverte.
 
-## Évolution du personnage : Stéphane redéfinit ses critères
-Dans la semaine qui suit sa séance du 12 mai, Stéphane installe son carnet de preuves sur la table du salon. Sandrine le remarque pendant qu'il dresse la liste des trois petites victoires de la semaine, et il lui décrit l'exercice en citant la réunion du 9 mars comme point de référence. Il utilise maintenant ce retour aux faits avant d'ouvrir la porte de la salle de réunion, et il formule désormais une hypothèse contextuelle à voix haute avant de juger un collègue. Il a cessé d'appeler sa mère au moindre revers, préférant noter ses émotions dans son carnet pour rester dans sa posture d'adulte avant de choisir à qui il souhaite parler.
+## Comparer un geste plutôt que deux vies
+De retour à la salle, Stéphane reprend le poids qu’il avait utilisé la semaine précédente. Il aimerait demander à l’homme du banc voisin depuis combien de temps il s’entraîne. Ce qu’il aimerait surtout, il le reconnaît, c’est savoir s’il est en retard. Il note plutôt le réglage qui lui a évité de tirer sur l’épaule.
 
 Au travail, face à Marc et à un nouveau dossier, il applique le miroir contextuel : il décrit sobrement les faits, propose une action commune et s'abstient de la lecture hostile qui le poussait auparavant à blâmer. Lors de la présentation d'un plan, au lieu de neutraliser toute joie intérieure, il relit sa fiche de preuves et annonce une compétence qu'il mettra en avant. Ce rituel le stabilise. Il n'est pas immunisé contre l'angoisse, mais il gagne en clarté sur l'origine de ses pensées.
 
-Sur le plan familial, lorsqu'il regarde Maxime se comparer au capitaine de l'équipe de foot du collège, Stéphane reconnaît la transposition : il comprend qu'il reproduit avec son fils le même modèle de compétition qu'il a subi avec Philippe. Il discute avec Sandrine d'expliquer à Maxime comment repérer la comparaison ascendante et comment consigner ses propres progrès. Ce geste traduit une avancée concrète dans sa manière d'accompagner les autres et lui-même, en réutilisant les stratégies qu'il a découvertes.
+Maxime lui raconte qu’un autre joueur a mieux couru à l’entraînement. Stéphane est sur le point de lui proposer un programme. Il lui demande ce qui l’a gêné dans le match. Maxime parle d’un appel de balle qu’il a manqué, puis d’une passe qu’il aimerait réussir. Son père lui demande de lui montrer laquelle.
 
 ---
-
-La comparaison injuste, surtout en situation de compétition, n'est pas une fatalité. En la nommant, en la recontextualisant et en se dotant d'outils concrets comme le carnet de preuves ou le miroir contextuel, il devient possible de diminuer son pouvoir et de retrouver une appréciation plus juste de ses compétences. Stéphane n'élimine pas ses doutes immédiatement, mais il apprend à repérer le mécanisme ancien qui relie ses réactions présentes à l'ombre de son frère et aux habitudes éducatives de sa famille.
 
 Si vous vous reconnaissez dans ces comparaisons qui altèrent le plaisir et la confiance, commencez par un geste concret : notez aujourd'hui une réussite vérifiable et la compétence qui l'a permise. Si ces schémas vous bloquent malgré vos efforts, consulter un professionnel de la santé mentale peut vous offrir un espace sécurisé pour explorer ces dynamiques plus profondément et construire des stratégies sur mesure.
 

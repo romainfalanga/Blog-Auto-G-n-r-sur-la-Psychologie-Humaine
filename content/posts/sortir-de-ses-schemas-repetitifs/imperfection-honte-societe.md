@@ -13,7 +13,7 @@ contexte: "en société et dans les interactions sociales"
 draft: false
 ---
 
-Le carrelage du hall résonne sous les chaussures de Stéphane tandis qu'il ajuste la pochette de sa présentation. Il sent encore l'odeur de la pluie sur l'asphalte et le frottement frais du cuir de son attaché-case contre sa paume. Aujourd'hui, le mot-clé sur sa liste mentale s'impose : imperfection et honte en société et dans les interactions sociales. Il le prononce mentalement comme une hypothèse à tester plutôt qu'un verdict.
+Dans le hall, Stéphane ouvre sa pochette pour la troisième fois. Il retrouve le devis sous les cartes de visite. Il lui manque la dernière version d’un tarif, et le client risque de la demander au dîner. Il pourrait appeler son bureau avant de monter. Il compose le numéro, puis réalise qu’à cette heure il n’aura sans doute personne.
 
 Un collègue plaisante non loin de la machine à café ; le rire se répercute, net, métallique. Stéphane sourit, sa poignée de main est ferme comme toujours, il sait jouer le rôle du commercial sûr de lui. Mais quand il repense à la dernière réunion, au compliment donné à Marc plutôt qu'à lui, une sensation familière remonte, née dans l'enfance quand son frère Philippe brillait dans tout ce qu'il entreprenait. Ce soir, face à des clients importants, il imagine déjà un petit faux pas, et la honte qui l'accompagne, invisible mais rugueuse, prête à tordre sa voix.
 
@@ -59,7 +59,7 @@ S'il a envie de raconter une erreur qui a permis un apprentissage, Stéphane peu
 
 Dans le récit, Stéphane trouve utile de dire ce qu'il a appris. Une réponse professionnelle peut aussi rester brève et ne porter que sur l'information à vérifier.
 
-## Évolution du personnage : Stéphane choisit la transparence
+## Vérifier le tarif le lendemain
 
 Le soir même, lors du dîner avec le client, Stéphane ressent la tension familière mais tente l'expérience. Au lieu de verrouiller une réponse qu'il n'est pas sûr de maîtriser, il lance, d'une voix mesurée, une phrase préparée : "Sur ce point précis, je n'ai pas la donnée sous les yeux, je préfère vérifier et revenir avec une info précise." Le silence de la salle n'est pas dramatique ; on entend quelques couverts, une voix qui répond "merci", un rire léger. Il note intérieurement l'absence de jugement cinglant qui l'avait hanté.
 
@@ -67,12 +67,10 @@ Plus tard, il utilise la reformulation bienveillante quand une remarque d'un col
 
 Le lendemain, autour du déjeuner avec Sandrine, il raconte l'anecdote qu'il a choisie de partager lors d'une réunion d'équipe : une erreur d'anticipation commerciale qui lui a coûté un contrat mineur mais lui a appris à intégrer un contrôle client plus serré. Sandrine réagit avec chaleur ; Maxime, qui passe, lance un commentaire amusé sur l'idée que son père admette ses erreurs. Stéphane sent quelque chose de différent : il a utilisé ses compétences narratives pour transformer une imperfection en capital de confiance.
 
-Ces gestes ne résolvent pas tous les anciens schémas. Parfois, il reprend son instinct de préparer trop, parfois la comparaison le rattrape. Mais il constate qu'après les exercices, les sueurs froides avant une réunion sont moins fréquentes, et que ses interactions sociales gagnent en naturel. Il combine désormais l'expérimentation sociale graduelle, l'identification de l'effet spotlight et la valeur-protection du dégoût : il pose des limites, expose une faiblesse quand c'est pertinent, et refuse la performance à tout prix.
+Le lendemain, avant même d’ouvrir sa messagerie, Stéphane s’entend répéter la phrase qu’il a dite au dîner. Le client n’en a pas reparlé. Il lui écrit pour confirmer le tarif convenu. Il lui reste une présentation à préparer et il hésite encore sur le nombre de fois où il la répétera.
 
 ---
 
 Stéphane apprend à séparer la gêne d'un moment du jugement qu'il porte sur toute sa personne. Il peut répondre à une erreur concrète sans faire de sa discrétion un défaut.
 
 Si la peur du jugement conduit à éviter des échanges importants ou pèse durablement sur la vie quotidienne, un professionnel de santé peut aider à examiner la situation.
-
-Comme Stéphane, vous n'avez pas à renoncer à votre compétence sociale pour embrasser votre humanité. La voie vers des échanges moins contrôlés et plus vrais s'apprend, se pratique et s'inscrit dans le temps. Si vous êtes timide et reconnaissez vos propres mécanismes, rappelez-vous qu'il existe des outils concrets pour apprivoiser l'imperfection et la honte en société et dans les interactions sociales, et que demander de l'aide est une décision courageuse et utile.

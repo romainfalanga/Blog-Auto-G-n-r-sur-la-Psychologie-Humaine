@@ -13,11 +13,11 @@ contexte: "en famille"
 draft: false
 ---
 
-Patrick fixe le cadran de sa montre à quartz. Onze heures pile, ce lundi 11 mai 2026. L'air dans le salon de sa mère est lourd, chargé de l'odeur de cire et de poussière des maisons que l'on vide. Depuis le décès de son père Marcel le mois dernier, Patrick pensait avoir fait le plus dur. Il avait tenu bon lors de l'enterrement, gérant ses douleurs lombaires et son deuil avec cette dignité silencieuse qu'il s'efforce de cultiver. Mais aujourd'hui, alors qu'il doit trier les papiers administratifs avec Catherine, sa femme, un ressort semble se casser.
+Dans le salon de sa mère, Patrick compare deux chemises de papiers. Il s’énerve contre une facture qu’il a déjà lue trois fois. Sur la dernière page, Marcel a écrit le montant au crayon, au centime près. Catherine lui propose de laisser cette chemise pour plus tard.
 
-Catherine pose une main douce sur son bras et suggère de faire une pause. C'est le déclic. Sans un mot, sans même un regard, Patrick se lève brusquement. Sa chaise racle le parquet dans un cri strident. Il sort de la pièce, traverse le couloir d'un pas lourd et s'enferme dans le garage de son défunt père. Ses mains, calleuses et marquées par des décennies de chantier, se saisissent d'une vieille massue. Il se met à frapper avec une force inouïe sur un vieil établi branlant, transformant le bois en éclats. Ce n'est pas de la colère réfléchie, c'est une décharge brutale, un besoin physique de pulvériser quelque chose puisque la douleur intérieure reste indestructible.
+Patrick repousse sa chaise et traverse le couloir. Dans le garage de ses parents, il saisit une massue. Il frappe l’établi de Marcel plusieurs fois. Un éclat heurte une boîte métallique et tombe près de la porte. Patrick s’arrête, le dos douloureux, et voit que le bois a fendu. Il pose la massue hors de portée.
 
-Il s’arrête, le souffle court et le dos douloureux. Des éclats sont éparpillés sur le sol. Patrick voit que son geste a abîmé l’établi et aurait pu blesser quelqu’un. Il pose la massue à distance et reste un moment dans le garage.
+Il ne voit pas Catherine depuis le garage. Il ne sait pas si elle est restée dans le salon. Quand il entend un bruit au bout du couloir, il dit qu’il ne va pas ressortir tout de suite.
 
 ## Comprendre l’effet du geste sur les personnes présentes
 
@@ -39,20 +39,13 @@ Sortir quelques minutes d’une discussion peut être utile quand la situation e
 
 Patrick peut dire ce qu’il a fait, reconnaître la peur que cela a pu provoquer et demander ce dont Catherine a besoin. Elle peut vouloir rester à distance. Il peut prendre rendez-vous pour discuter de ce comportement, de sa douleur et de son deuil. Ce rendez-vous peut aider à préparer une réponse pour une prochaine montée de tension.
 
-## Évolution de Patrick et résolution du conflit
+## Catherine prend ses affaires
 
-Assis à distance de la massue, Patrick écoute le silence de la maison. Il entend Catherine lui dire depuis le couloir qu’elle s’est éloignée quand elle a entendu les coups. Il lui répond qu’il a posé l’outil et qu’il restera là pour le moment.
+Depuis le couloir, Catherine lui dit qu’elle s’est éloignée quand elle a entendu les coups. Patrick répond qu’il a posé la massue. Il reste dans le garage. Les papiers sont encore sur la table du salon quand elle vient prendre son sac.
 
-Plus tard, ils conviennent de parler en gardant chacun l’espace dont il a besoin. Patrick ne reprend pas le tri des papiers. Il sait qu’il devra aussi faire examiner son dos.
-
-« J’ai frappé l’établi. Ça a pu te faire peur », dit Patrick. Catherine lui répond qu’elle préfère rester chez sa sœur cet après-midi. Il accepte sa décision et propose de reparler des papiers un autre jour. Il décide de demander un avis professionnel au sujet de son geste et de ce qui l’a précédé.
-
+Plus tard, à distance, Patrick lui dit : « J’ai frappé l’établi. Tu as eu peur. » Catherine préfère passer l’après-midi chez sa sœur. Elle ne veut pas reparler du tri pour le moment. Patrick n’insiste pas. Il décide de demander une aide professionnelle au sujet des coups, séparément du rendez-vous pour son dos.
 ---
 
-Dans cette scène, le deuil et la douleur font partie des circonstances. La réponse au geste commence par la sécurité et la prise en compte de ses effets sur Catherine.
-
-Si vous craignez de reproduire un geste dangereux, cherchez un appui professionnel dès que possible. Une personne qui a eu peur ou subi des menaces peut aussi obtenir de l’aide pour elle-même.
-
-En cas de danger immédiat, éloignez-vous si vous le pouvez et contactez les services d’urgence.
+Frapper un objet peut effrayer et mettre d’autres personnes en danger. Si la situation présente un danger immédiat, éloignez-vous si vous le pouvez et contactez les services d’urgence. Si vous craignez de reproduire un geste dangereux, cherchez rapidement un appui professionnel. La personne qui a eu peur peut également demander de l’aide pour elle-même.
 
 Sources : [NHS, chercher de l’aide pour la colère et les comportements menaçants](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/), [NHS, soutien en cas de violences dans le couple ou la famille](https://www.nhs.uk/live-well/getting-help-for-domestic-violence/).

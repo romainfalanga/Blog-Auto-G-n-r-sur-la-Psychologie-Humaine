@@ -47,20 +47,16 @@ S'il dispose du temps nécessaire, Stéphane peut relire le plan plus tard ou de
 ### 3. La déconstruction du processus par les coûts
 Il peut séparer le temps déjà passé, les coûts à venir et les bénéfices attendus, puis comparer les options selon les mêmes critères. Le nombre de lignes dans chaque colonne ne permet pas de détecter un biais.
 
-## Évolution du personnage et lâcher-prise
+## Enregistrer une autre version du plan
 
-Assis dans son bureau après la réunion, Stéphane observe son plan stratégique étalé sur la table. Les remarques du directeur commercial résonnent encore, mais cette fois, il ne ressent plus cette colère sourde qui le poussait à vouloir écraser toute contradiction. Il se souvient de ses expériences passées, notamment du jour où il avait compris que son besoin d'approbation le sabotait. Il réalise que son acharnement à vouloir tout construire seul est une autre facette de cette même peur, celle de ne pas être à la hauteur s'il n'est pas l'unique architecte de sa réussite.
+Stéphane affiche côte à côte son plan de reprise pour Lemoine et les corrections de Marc. Il a consacré plusieurs soirées à la partie sur le calendrier. Marc veut avancer le point avec le service juridique ; sur l’ancien plan, il faut attendre un accord qui risque de ne pas venir à temps. Stéphane relit cette ligne avant de regarder la suivante.
 
-Il se rappelle aussi ce cocktail de networking où il s'était senti observé par tout le monde à cause d'un simple bégaiement. Aujourd'hui, il comprend que cet effet spotlight l'avait poussé à surcontrôler ce dossier pour éviter toute faille apparente. Mais ce surcontrôle l'a conduit droit dans le piège de l'effet IKEA.
+À la réunion, il a défendu le calendrier en rappelant combien de soirées il avait fallu pour le construire. En relisant les deux versions, il voit qu’il n’a pas répondu à la question de Marc sur la date du rappel.
 
-Il prend son stylo et commence l'exercice de déconstruction. Il note honnêtement les heures passées et, en regardant la colonne des bénéfices réels, il admet que deux des suggestions de Marc étaient effectivement plus pertinentes que ses propres idées. Ce n'est pas facile. Son ego proteste, lui rappelant l'image de son frère Philippe qui réussissait tout sans effort apparent. Mais Stéphane choisit de ne plus écouter cette vieille rengaine. Il décroche son téléphone et appelle Marc pour lui proposer de revoir ensemble la partie budgétaire du dossier.
+Il surligne les dates qui changent si l’appel avance de deux jours. Marc passe à la porte avec son manteau au bras. Stéphane lui montre le document et lui demande de rester le temps de vérifier l’enchaînement.
 
-En ouvrant la porte à la collaboration, Stéphane sent une forme de soulagement nouvelle. Il ne porte plus seul le poids de la perfection. Il comprend que la valeur d'une décision importante ne réside pas dans le fait qu'il l'ait façonnée de ses propres mains, mais dans sa justesse et son efficacité collective. Ce soir, en rentrant chez lui, il ne se servira pas son whisky habituel pour oublier la tension de la journée. Il se sent plus léger, conscient d'avoir désamorcé un piège mental qui, pendant des années, l'avait empêché de voir la réalité telle qu'elle est.
+Ils déplacent l’appel au service juridique au mardi matin. Stéphane tient encore à la visite qu’il a prévue chez Lemoine ; Marc veut vérifier si leur interlocutrice sera là. Aucun des deux ne connaît la suite. Stéphane donne au document un nouveau numéro de version au lieu de le renommer « final ».
 
 ---
-
-Prendre conscience de l'effet IKEA est une étape fondamentale pour quiconque cherche à affiner son discernement. Ce biais nous rend humains, car il témoigne de notre besoin d'être fiers de ce que nous accomplissons. Cependant, dans le cadre de décisions cruciales, cet attachement peut devenir un frein majeur à la réussite et à l'épanouissement personnel. Apprendre à séparer l'effort du résultat est un exercice de maturité psychologique qui demande de la patience et de l'humilité.
-
-Comme Stéphane, vous pouvez choisir de ne plus être l'otage de vos propres créations. En acceptant que vos idées ne sont pas des extensions de votre identité, vous vous donnez la liberté de les améliorer, de les transformer ou même de les abandonner si nécessaire. Le véritable contrôle ne consiste pas à tout faire soi-même, mais à savoir s'entourer des bons regards pour éclairer nos propres angles morts.
 
 Si les désaccords se répètent au travail, Stéphane peut en parler à un collègue ou demander un retour sur sa façon de décider. Si la difficulté le fait souffrir durablement, un professionnel peut l'aider à faire le point.

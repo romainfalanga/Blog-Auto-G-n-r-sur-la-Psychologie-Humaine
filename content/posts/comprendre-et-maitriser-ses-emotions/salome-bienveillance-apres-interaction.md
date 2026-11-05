@@ -15,7 +15,7 @@ draft: false
 
 La poignée reste tiède sous la main de Salomé après le départ d’Étienne. Son client vient récupérer un instrument qui n’est pas prêt. Une pièce arrive en retard, et Salomé oublie de prévenir que le rendez-vous doit être déplacé. Étienne exprime sa contrariété devant ce trajet inutile. Salomé présente ses excuses et propose une nouvelle date. Une fois la porte refermée, elle se parle comme si cet échange prouvait qu’elle n’est pas faite pour son métier.
 
-Elle a vingt-neuf ans, est luthière, célibataire et non binaire, avec des accords féminins qu’elle choisit. Aucune de ces informations ne permet de déduire sa réaction à une réclamation. Aujourd’hui, elle identifie un fait précis : elle manque une étape de communication avec un client régulier. Sa pensée élargit ce fait à l’ensemble de ses compétences, puis de sa valeur. « Tu gâches toujours la confiance qu’on te donne », se dit-elle en rangeant le bordereau.
+Le rendez-vous figure bien dans le carnet. Salomé a entouré la nouvelle date, sans écrire qu’il fallait appeler Étienne. Lui s’est déplacé pour rien. À présent, elle relit son message et cherche une formule qui expliquerait comment elle a pu oublier. L’instrument est toujours en cours de réglage, là où elle l’a laissé hier.
 
 Gaspard travaille à l’autre établi. Il entend qu’elle déplace plusieurs fois la même boîte et lui demande si elle veut parler. Salomé répond d’abord qu’elle devrait surtout apprendre à être professionnelle. La phrase ressemble à un programme, mais ne dit pas quelle action changer. Elle continue de punir son caractère au lieu d’examiner l’information oubliée, la vérification nécessaire et le message qu’elle doit encore envoyer.
 
@@ -77,13 +77,13 @@ Dans son carnet, elle ajoute un repère simple : tout décalage de livraison ent
 
 Une fois ces actions effectuées, elle note que la tâche est traitée pour aujourd’hui. Le regret peut revenir. Elle peut lui répondre en retrouvant les faits et les actions déjà faites, puis choisir une autre activité. Cela ne signifie pas interdire toute pensée sur l’échange. Il s’agit d’éviter un nouveau jugement sans information nouvelle. Si les épisodes deviennent fréquents ou envahissants, un accompagnement peut aider à comprendre ce qui entretient cette répétition.
 
-## Salomé garde une erreur dans une journée plus large
+## Le lendemain à l’heure dite
 
 Étienne répond qu’une récupération le lendemain lui convient. Il reste contrarié par le déplacement, ce que Salomé peut entendre sans recommencer ses excuses à chaque message. Elle prépare le rendez-vous et poursuit une autre réparation. Son intérêt pour le son revient avant que tout malaise disparaisse. La journée ne se réduit plus au moment de la poignée, même si elle en garde un souvenir désagréable.
 
 Gaspard lui demande plus tard ce qu’elle souhaite changer dans le planning. Salomé explique le repère choisi, sans se présenter comme une personne qu’il faudrait désormais surveiller. Son collègue propose de rendre les livraisons visibles dans leur agenda partagé. Ils organisent chacun leur activité, mais cet élément commun peut être utile. L’environnement devient un appui, au lieu de laisser l’amélioration dépendre uniquement d’une vigilance intérieure plus sévère.
 
-Le lendemain, Salomé accueille Étienne, explique l’intervention et respecte la date annoncée. L’échange reste professionnel, sans grande scène de réconciliation. Elle n’obtient pas un verdict sur sa valeur et n’en demande pas. Elle dispose d’un fait nouveau : elle peut répondre à une erreur avec une action et un ton intérieur moins hostile. La responsabilité conserve sa place, tandis que la punition cesse d’occuper tout l’espace.
+Le lendemain, Étienne arrive à l’heure convenue. Salomé a posé l’instrument près de la porte et vérifie avec lui les deux réglages qu’elle a repris. Il range ses affaires, lui dit au revoir et repart. Une autre commande est déjà sur l’établi. Avant d’y toucher, elle retourne au planning et note à côté de l’heure le moment où il faudra prévenir.
 
 ---
 

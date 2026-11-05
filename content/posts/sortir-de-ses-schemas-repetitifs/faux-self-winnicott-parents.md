@@ -13,11 +13,9 @@ contexte: "avec ses parents"
 draft: false
 ---
 
-La poêle claque, des baguettes raclent un wok, et Mei pose sa main sur la table en bois pour s'ancrer dans la réalité. Sa mère, Li, commente le menu d'un ton faussement léger, tandis que son père, Wei, lance une remarque sur l'avenir comme on donne un ordre : « Tu sais, la médecine, c'est du solide. » Mei répond par un sourire de façade, le carnet de croquis serré contre sa cuisse sous la table. Elle pense aux dessins réalisés l'après-midi même, ces personnages aux ombres denses qu'elle n'ose pas montrer, ces traits qu'elle s'acharne à rendre impeccables pour espérer être à la hauteur.
+Au restaurant, Wei demande à Mei si elle a pensé à reprendre des études de médecine. Il tient le ticket de la table six entre le pouce et l’index, prêt à repartir en cuisine. Mei lui répond qu’elle verra. Elle entend le ton appliqué qu’elle prend chaque fois que la question revient.
 
-Au milieu du brouhaha du restaurant familial, Mei prend conscience de ce que représente le faux self (Winnicott) avec ses parents : cette part d'elle-même qui joue la fille docile pour éviter les tensions et obtenir une forme de reconnaissance. Elle se souvient du vernissage de la semaine dernière, quand une plaisanterie l'avait placée au centre de l'attention et qu'elle avait réussi à nommer son malaise. Cette capacité à identifier ses émotions lui donne désormais une marge de manœuvre. Face à Li et Wei, elle utilise ce réflexe : identifier le mot "peur" avant de répondre, garder la main sur le carnet, sentir le grain du papier sous ses doigts. Elle réalise que ce silence poli qu'elle s'impose est le prolongement de cet embarras qu'elle a ressenti à l'école d'art : une peur viscérale d'être "vue" sans avoir le contrôle sur son image.
-
-La conversation se poursuit, rythmée par les rires et la musique de l'enceinte du restaurant. Océane lui a envoyé un message de soutien, mais Mei répond par un simple symbole graphique. Elle perçoit la friction entre sa passion pour l'illustration et l'image que ses parents projettent sur elle. Cette tension dépasse le simple malentendu culturel ou générationnel : c'est une construction intime ancrée dans son enfance. Ce que Winnicott appelle le faux self s'est installé comme un vêtement trop étroit, une posture adoptée pour rester incluse. Mei commence à en voir les coutures. Le premier mouvement consiste à identifier cette armure. Le second est d'apprendre à s'en défaire, avec douceur et sans fracas.
+Li lui demande d’aller chercher deux bols. Dans la réserve, Mei reçoit une photo d’Océane : leur dessin épinglé de travers après le vernissage. Elle répond par un pouce levé. Elle aurait plus de choses à lui dire qu’à Wei ce soir, mais la table six attend. Sur le chemin du retour elle s’arrête pour redresser un des bols sur la pile.
 
 ## Qu'est-ce que le faux self (Winnicott) ?
 Le « faux self » est une notion de la théorie psychanalytique de Donald Winnicott. Dans son essai de 1960, il distingue plusieurs formes d’adaptation, dont certaines peuvent protéger la spontanéité. Cette notion ne désigne ni un diagnostic ni une preuve sur la qualité du lien parental.
@@ -61,12 +59,11 @@ Ces points offrent une base stable, sans être dans la provocation ni dans la d�
 
 Application pratique : répéter ces phrases seule, puis devant des amis, jusqu'à ce qu'elles deviennent naturelles. Utiliser ce script pour remplacer les réponses automatiques habituelles.
 
-## Mei commence à libérer sa voix
-Le soir même, après le service, Mei effleure le coin de son carnet. Elle relit ses colonnes du journal à deux voix et décide d'envoyer un détail d'illustration à sa mère. Elle ajoute une légende courte, presque factuelle, et attend. La réponse de Li mêle étonnement et curiosité, sans critique immédiate. Mei évalue son anxiété : 5 sur 10. C'est un progrès notable par rapport à la semaine passée. Elle se souvient qu'au vernissage, elle avait réussi à nommer son embarras. Cet échange est une occasion de partager un dessin sans devoir tout expliquer.
+## La photo recadrée
 
-Dans les jours qui suivent, Mei poursuit son exposition graduée : une photo partielle, puis une œuvre complète. Elle ne cherche pas une ovation, mais une reconnaissance de son existence propre. Son perfectionnisme diminue car les retours, même s'ils sont parfois maladroits, deviennent des informations utiles plutôt que des sentences. Océane continue de l'encourager et M. Dubois lui apporte des conseils techniques qui renforcent sa légitimité. Mei ne change pas radicalement de personnalité, mais elle découvre qu'elle peut faire évoluer le regard de ses parents sans se renier.
+Après le service, Mei choisit une photo de son illustration. Sur la première version, elle a coupé presque toute l’image ; sur la seconde, on voit au moins les mains et la moitié du décor. Elle envoie la seconde à Li : « C’est la planche dont je te parlais. »
 
-Ce processus s'inscrit dans la continuité de ses apprentissages : identifier l'émotion, la nommer et agir de manière mesurée. Les outils de régulation émotionnelle s'additionnent. Le faux self ne disparaît pas instantanément, mais il ne dicte plus toutes ses réactions. Mei ressent une nouvelle fluidité entre son univers créatif et le cadre familial. Elle commence à raconter, par touches successives, qui elle est vraiment.
+Li lui répond plus tard : « C’est toi qui as fait ces ombres ? » Mei écrit oui et laisse la conversation là. Elle n’a pas reparlé des études avec Wei. Elle garde la photo entière dans ses favoris, au cas où sa mère voudrait la voir.
 
 ---
 

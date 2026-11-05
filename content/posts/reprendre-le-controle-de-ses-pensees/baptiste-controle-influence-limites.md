@@ -13,7 +13,7 @@ episode: 9
 draft: false
 ---
 
-Baptiste actualise sa messagerie alors qu’aucun son n’annonce de réponse. Une confirmation manque pour organiser le prochain échange sur les supports de transmission. Il a envoyé une demande claire, puis une précision sur les créneaux. Il pourrait encore ajouter un message, mais ne sait pas quelle information nouvelle y mettre. Il imagine seulement qu’une relance supplémentaire lui donnerait moins l’impression d’attendre. Le projet paraît suspendu à une personne absente de son bureau, tandis que toutes les autres tâches deviennent des activités secondaires dont il peine à retrouver l’intérêt.
+Baptiste actualise sa messagerie alors qu’aucun son n’annonce de réponse. Une confirmation manque pour organiser le prochain échange sur les supports de transmission. Il a envoyé une demande claire, puis une précision sur les créneaux. Il pourrait encore ajouter un message, mais ne sait pas quelle information nouvelle y mettre. Il laisse la fenêtre d’un troisième courriel ouverte. À côté, le tableau des tâches avance si peu qu’il a presque cessé de le regarder. Le projet paraît suspendu à une personne absente de son bureau, tandis que toutes les autres tâches deviennent des activités secondaires dont il peine à retrouver l’intérêt.
 
 À trente-sept ans, le coordinateur de maintenance est habitué à suivre les suites données aux demandes. Cette attention fait partie de son travail. Il ne peut pas considérer toute attente comme une occasion de lâcher prise, surtout lorsqu’une échéance ou une responsabilité existe. Ici, il doit distinguer une relance utile de la tentative de produire par insistance une réponse dont le moment dépend aussi d’autres personnes. Il connaît le besoin du projet ; il ne connaît pas encore toutes les contraintes de l’interlocuteur. L’absence de réponse ne lui fournit pas à elle seule une explication.
 
@@ -57,7 +57,7 @@ Baptiste vérifie que sa demande indique l’objectif, les créneaux et le déla
 
 Baptiste peut constater qu’il ne connaît pas encore la date, puis avancer sur un élément préparatoire qui ne dépend pas de cette décision. Il ne s’agit pas de faire n’importe quoi pour oublier. L’action doit avoir une utilité ou répondre à un besoin réel, y compris une pause. Si la pensée revient, il peut se rappeler le prochain point de suivi plutôt que recommencer toute la recherche. L’inconfort ne disparaît pas nécessairement. Il n’a pas besoin de contrôler parfaitement cet état pour poursuivre une activité. Si l’attente révèle une charge excessive ou une responsabilité sans moyens, la prochaine action peut être d’en parler et de chercher un appui, plutôt que de développer seul davantage de tolérance à une situation mal organisée.
 
-## Baptiste garde un suivi sans rester devant la messagerie
+## La réponse peut encore manquer
 
 Il complète le tableau des éléments préparatoires avec Emmanuel. Certaines rubriques demandent encore une décision et restent marquées comme telles. Ils ne les remplissent pas par supposition pour donner l’impression que le projet avance. Patricia sait désormais ce qui peut être prêt et ce qui dépend de la confirmation. Cette visibilité ne supprime pas le retard, mais elle répartit mieux les responsabilités. Baptiste n’a plus à contenir seul l’incertitude en vérifiant constamment si quelque chose a changé.
 

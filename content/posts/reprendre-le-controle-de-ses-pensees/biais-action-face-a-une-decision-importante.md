@@ -13,7 +13,7 @@ contexte: "face à une décision importante"
 draft: false
 ---
 
-Karim se tient debout dans la pénombre de son garage aménagé, les mains crispées sur le dossier d'une chaise en bois. Devant lui, sur son établi, repose le contrat de bail pour le local de sa future école de cuisine solidaire. Ses doigts tambourinent un rythme nerveux. Il sent cette électricité familière parcourir ses jambes, une envie irrépressible de signer, d'envoyer un mail, de passer un appel, de faire n'importe quoi pour que ce projet avance enfin. Depuis la vente de son restaurant marseillais, le calme de sa nouvelle vie de reconverti lui semble parfois plus exténuant qu'un service de cent couverts.
+Le projet de bail tient en six pages. Karim en est à la signature avant d’avoir lu les conditions de sortie. Le garage est encore plein d’ustensiles à ranger. Il imagine déjà un cours de cuisine dans le local et la satisfaction d’annoncer à Sofia que quelque chose avance enfin.
 
 Il jette un regard vers la fenêtre qui donne sur le jardin. Sofia aide Lina avec ses devoirs, tandis qu'il entend les rires étouffés d'Amine et Sami qui jouent à l'étage. Il se souvient de ce soir de mars où il avait manqué la dent de lait de son fils à cause de son travail, ou de cette dispute fracassante avec son associé Romain à propos de l'investissement de Lyon. À cette époque, il pensait que l'action était la seule réponse possible à l'angoisse. Aujourd'hui, le silence de la pièce lui pèse, et le besoin d'agir, de valider ce nouveau local tout de suite, sans attendre l'expertise comptable prévue pour lundi, occupe tout son esprit.
 
@@ -35,7 +35,7 @@ Karim a envie de signer pour ne plus laisser le dossier en suspens. Ce sentiment
 
 ### 2. La valorisation excessive de l'effort visible
 
-Ouvrir un nouveau restaurant est visible et donne des résultats faciles à annoncer. Reprendre les problèmes du site de Lyon l'est moins. Avant d'engager des fonds, Karim peut comparer ce que chaque projet apporterait et ce qu'il laisserait sans solution.
+Ouvrir un nouveau restaurant est visible et donne des résultats faciles à annoncer. À Lyon, les services continuent pendant qu’il examine avec Romain les comptes et ce qu’une fermeture engagerait pour l’équipe. Avant d'engager des fonds, Karim peut comparer ce que chaque projet apporterait et ce qu'il laisserait sans solution.
 
 ### 3. La peur du regret lié à l'inaction
 
@@ -57,7 +57,7 @@ Comparez les effets d'une signature immédiate et ceux d'un report : frais engag
 
 Si la signature peut attendre, notez l'information qui pourrait changer votre choix et une manière de l'obtenir. Karim pourrait passer dans le quartier à d'autres heures si la fréquentation lui paraît déterminante. S'il dispose déjà des renseignements nécessaires, attendre davantage n'est pas forcément utile.
 
-## Évolution du personnage et résolution
+## Le bail reste sur l’établi
 
 Assis sur son tabouret, Karim lâche enfin le dossier du bail. Après avoir vérifié l'échéance du bail, il laisse son téléphone dans le garage pour le dîner. Il se remémore les paroles de Sofia lors de leur dernière promenade : il n'a plus rien à prouver à personne, ni à son père, ni à lui-même. Il réalise que son envie de signer ce contrat à l'instant même est une résurgence de son ancien moi, celui qui cherchait dans l'hyperactivité un remède à son sentiment d'illégitimité et qui utilisait des cadeaux coûteux pour masquer ses failles. Il choisit de respirer l'odeur du bois scié dans son garage et de savourer la liberté de ne pas décider tout de suite.
 

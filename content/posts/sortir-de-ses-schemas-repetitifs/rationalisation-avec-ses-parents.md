@@ -17,7 +17,7 @@ Aujourd'hui, le carillon de la porte d'entrée grince quand Stéphane passe le p
 
 Stéphane s'assoit sur une chaise en bois dont l'assise craque. Autour de la table, les conversations tournent sur les nouvelles du voisinage, et lui remet en place un mensonge minime qu'il vient de lâcher. Il a dit qu'il gère parfaitement la charge au travail, alors que la semaine dernière il a laissé un rapport à moitié fini. Il protège son image auprès d'eux sans se rendre compte qu'il édulcore la vérité, un mouvement automatique qui, tout enfant parentifié qu'il a été, lui servait à maintenir la paix familiale. Cette tendance à surjouer son assurance, qu'il a analysée lors du cocktail de networking en mars dernier, refait surface ici sous une forme plus intime, comme un bouclier contre le jugement de ceux qui l'ont vu grandir.
 
-Le 28 avril 2026, il a 46 ans, et il comprend différemment ce mécanisme qu'il appelle rationalisation avec ses parents. Ce mot revient souvent dans ses lectures récentes, depuis les articles où il a travaillé son besoin de reconnaissance au travail et commencé à nommer ses imperfections. Aujourd'hui, face à ses parents, il sent que ces justifications servent autre chose qu'à éviter une dispute : elles recouvrent une loyauté ancienne, une peur d'être celui qui blesse, un rôle qu'il tient depuis l'adolescence.
+Sa mère lui demande s’il verra Maxime ce week-end. Il commence à parler du calendrier commercial alors qu’il n’a même pas demandé à son fils ce qu’il a prévu. La réponse ressemble à celle qu’il se donne à lui-même quand il repousse la question. Il pose sa cuillère : « Je ne lui ai pas encore demandé. »
 
 ## Définition de la rationalisation
 
@@ -59,11 +59,11 @@ Stéphane peut écrire ce qu'il veut garder privé, puis essayer une formule cou
 
 Il n'est pas nécessaire de retrouver un souvenir d'enfance ou de partager une lettre. Si une conversation est intimidante ou ne paraît pas sûre, se protéger et trouver un appui peut passer avant la recherche des bons mots.
 
-## Évolution du personnage et prise de conscience
+## Répondre à la question sur Maxime
 
-Dans la voiture qui le ramène du domicile parental, Stéphane déplie sa note sur le journal des écarts. Il compte quatre moments où il a maquillé la réalité. Il sourit, mais d'une façon différente que les habituels rituels d'autocritique. Il a utilisé le questionnement en cinq points à table quand sa mère a demandé s'il voyait Maxime ce week-end. Au lieu de lancer une justification sur son planning, il a reconnu, d'une phrase courte, qu'il était préoccupé et qu'il proposerait un créneau précis pour son fils. Ce n'est pas un aveu tonitruant, mais c'est la première fois qu'il évite consciemment la narration protectrice.
+Une fois garé devant chez lui, Stéphane reprend la phrase. À table, il a finalement dit que le dossier Lemoine l’occupait beaucoup et qu’il n’avait pas encore fixé de sortie avec Maxime. Sa mère lui a demandé pourquoi il ne s’organisait pas à l’avance. Stéphane n’a rien trouvé à répondre.
 
-Ce comportement s'appuie sur ce qu'il a appris depuis mars : il nomme désormais ses imperfections, il repère l'effet spotlight qui amplifie sa peur du jugement, et il comprend aujourd'hui que la rationalisation est souvent une réponse à la rivalité avec Philippe. Il a aussi réutilisé la stratégie du dégoût comme boussole discutée précédemment, mais cette fois pour repérer les moments où il justifie plutôt qu'expliquer.
+Il pourrait revenir sur tout ce qu’il a raconté à ses parents. Il préfère écrire à Maxime pour lui proposer une heure. Le reste du déjeuner lui revient par morceaux quand il monte l’escalier.
 
 À la maison, il montre à Sandrine la phrase qu'il aurait aimé dire. Elle lit, pose sa main sur la sienne, et lui propose un petit contrat : lors de la prochaine visite familiale, il note en temps réel une phrase qu'il aurait souhaité dire différemment. Ils organisent cette idée avec rigueur, presque comme un plan de vente. Stéphane trouve ce cadre rassurant ; il convertit son besoin de contrôle en protocole d'entraînement émotionnel.
 

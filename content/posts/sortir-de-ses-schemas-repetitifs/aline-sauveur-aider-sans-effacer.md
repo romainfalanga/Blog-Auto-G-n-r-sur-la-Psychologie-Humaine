@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-Aline tient l’inventaire contre sa poitrine. Ce mardi, chaque case semble lui rappeler un service qu’elle pourrait rendre, et qu’elle se sent déjà tenue de rendre. À trente-neuf ans, la responsable de quincaillerie termine sa journée parmi des cartons de poignées de porte. Le local associatif doit accueillir une permanence de réparation samedi. La coordinatrice, Claire, cherche une personne pour transporter les établis. Aline propose déjà sa voiture avant de demander l’heure du rendez-vous.
+Aline tient l’inventaire contre sa poitrine. Elle entend son téléphone sonner au fond de la poche de son tablier. Il reste trois références de poignées à compter. Elle remet l’inventaire à plus tard et décroche quand même. À trente-neuf ans, la responsable de quincaillerie termine sa journée parmi des cartons de poignées de porte. Le local associatif doit accueillir une permanence de réparation samedi. La coordinatrice, Claire, cherche une personne pour transporter les établis. Aline propose déjà sa voiture avant de demander l’heure du rendez-vous.
 
 Elle connaît ce mouvement rapide : une difficulté apparaît et ses mains cherchent immédiatement une solution. Réparer, trouver le bon contact, avancer les frais, remplacer quelqu’un. L’association compte sur ses compétences, qui sont réelles. Elle apprécie de transmettre un geste et de rendre un lieu accueillant. Mais son compagnon, Étienne, l’attend samedi pour une randonnée qu’ils préparent ensemble. Elle transforme intérieurement cette sortie en luxe facultatif, puis se reproche son agacement.
 
@@ -81,7 +81,7 @@ Cette demande ne constitue pas une facture adressée au collectif. Elle l’aide
 
 Pour maintenir ce repère, elle prévoit de regarder son agenda chaque mercredi avant la réunion associative. Elle y inscrit également un temps sans utilité particulière. Étienne n’a pas à devenir le gardien de ses limites. Elle lui demande plutôt de partager leurs projets clairement, afin qu’ils existent dans la décision au même titre que les sollicitations extérieures.
 
-## Aline commence à proposer une aide plus juste
+## Bastien prend la perceuse
 
 Bastien répond qu’il souhaite essayer seul avant de demander un accompagnement. Aline ressent une pointe de déception. Elle aime transmettre, et sa scène de dépannage imaginée lui plaisait déjà. Elle prête néanmoins la perceuse, montre comment vérifier le serrage et précise les conditions de retour. Le prêt reste un vrai geste, même s’il ne la rend pas indispensable pendant toute une soirée.
 

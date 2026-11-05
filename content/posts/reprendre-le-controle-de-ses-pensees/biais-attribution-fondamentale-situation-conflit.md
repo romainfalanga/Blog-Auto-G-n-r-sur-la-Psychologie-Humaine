@@ -17,7 +17,7 @@ L'air de la salle de réunion est pesant en ce lundi 13 avril 2026. Stéphane r�
 
 Cette dureté envers son collègue le surprend lui-même. Il y a quelques semaines encore, Stéphane luttait contre son propre effet spotlight, cette impression que tout le monde scrutait ses moindres failles lors d'un cocktail. Il se souvient de cette sensation d'être mis à nu, de la peur que son frère Philippe, toujours si parfait, ne vienne hanter ses performances professionnelles. Pourtant, ici, c'est lui qui devient le juge. Il plaque sur Marc une étiquette de personnalité, ignorant totalement que le serveur de l'entreprise a subi une panne majeure tout le week-end, compliquant la tâche de toute l'équipe.
 
-Le regard de Stéphane croise celui de Sandrine, qui l'accompagne par la pensée depuis leur discussion de la veille sur son besoin constant de validation. Il réalise qu'il est en train de faire exactement ce qu'il redoute que les autres fassent avec lui : réduire un homme à une erreur passagère. Sa main, qui serrait nerveusement un stylo en argent, se desserre. Il prend conscience que son jugement n'est pas une analyse objective de la situation, mais un mécanisme de défense pour se rassurer sur sa propre valeur face à la compétition acharnée qu'il s'impose depuis l'enfance.
+Stéphane s’entend sur le point de dire que Marc manque de rigueur. Il revoit sa propre hésitation sur un tarif et le temps qu’il a passé à imaginer ce qu’on en avait conclu. Il regarde de nouveau la feuille de suivi. Il y a un message au sujet d’un serveur qu’il n’a pas encore lu.
 
 ## Définition du biais d'attribution fondamentale
 
@@ -57,18 +57,16 @@ Se rappeler sa propre nervosité peut ouvrir une hypothèse sur celle de Marc. C
 
 Lors d'une confrontation, évitez les phrases commençant par "tu es" ou "il est", qui figent l'identité. Remplacez-les par des descriptions de situations. Au lieu de penser que Marc est brouillon, considérez que le processus de transmission des données semble avoir rencontré un obstacle. En changeant votre langage intérieur, vous modifiez votre réponse émotionnelle. Cela permet de désamorcer l'agressivité et d'ouvrir un espace de dialogue où l'autre ne se sent pas attaqué dans son être, mais soutenu dans la résolution d'un problème.
 
-## Évolution de Stéphane et changement de regard
+## Demander ce qui bloque la signature
 
-Stéphane observe Marc qui tente de reprendre le fil de son explication. Au lieu de laisser son irritation dicter sa prochaine remarque cinglante, il se remémore sa propre lutte contre la honte et son besoin de perfection. Il réalise que sa dureté envers Marc est le miroir exact de la dureté qu'il s'inflige à lui-même. S'il autorise Marc à être faillible à cause des circonstances, il s'autorise aussi, par extension, à ne pas être ce surhomme qu'il essaie de projeter pour égaler Philippe.
+Marc reprend l’ordre des appels. Il bute sur l’heure de la dernière transmission. Stéphane a encore envie de l’interrompre. Il regarde la date du message et demande à quel moment le serveur a cessé de répondre.
 
-Il prend la parole, mais son ton a changé. Il ne cherche plus à écraser Marc pour briller auprès du directeur commercial. "Marc, je sais que les serveurs ont posé problème ce week-end, est-ce que c'est cela qui a bloqué la finalisation du contrat ?", demande-t-il avec une neutralité exempte de sarcasme. Le soulagement sur le visage de son collègue est immédiat. La tension dans la pièce chute d'un cran. Stéphane sent une satisfaction nouvelle, bien plus profonde que celle d'une joute verbale remportée : celle d'avoir brisé un cercle vicieux de jugement.
+Marc lui montre l’heure du dernier envoi et celle où le client a demandé une nouvelle validation. Le retard ne s’explique pas tout entier par la panne. Stéphane propose qu’ils rappellent Lemoine ensemble. Avant la fin de la réunion, il dit qu’il a jugé trop vite le travail de Marc.
 
-Le soir, en rentrant chez lui, Stéphane ne ressent pas le besoin habituel de se servir un whisky pour oublier sa journée. Il discute avec Maxime de ses difficultés en mathématiques sans le comparer aux notes que Philippe obtenait au même âge. En comprenant le biais d'attribution fondamentale en situation de conflit, Stéphane commence à démanteler les murs qu'il a construits entre lui et les autres. Il ne voit plus ses collègues comme des rivaux à évaluer, mais comme des partenaires naviguant, comme lui, dans les courants parfois contraires de la vie professionnelle.
+Le soir, Maxime lui montre un exercice qu’il n’a pas terminé. Stéphane a déjà la phrase « il suffit de te concentrer » au bord des lèvres. Il la retient juste assez longtemps pour lui demander où il s’est arrêté. Maxime lui montre la deuxième ligne.
 
 ---
 
 Dans la réunion, la question sur le serveur ouvre une discussion que l'étiquette « incompétent » aurait fermée. Stéphane peut tenir compte d'une contrainte et demander ce qui aurait pu être fait autrement.
-
-Nous avons tous tendance à être les héros de notre propre histoire et les critiques impitoyables de celle des autres. Pourtant, chaque personne que nous rencontrons mène une bataille dont nous ne savons rien. En accordant aux autres la même nuance que celle que nous espérons pour nous-mêmes, nous transformons radicalement la qualité des échanges et la gestion des conflits quotidiens.
 
 Si vous sentez que vos relations sont marquées par une critique constante ou une irritabilité difficile à contrôler, entamer un travail avec un professionnel de la psychologie peut être bénéfique. Comprendre l'origine de vos schémas de pensée est une étape majeure pour vous libérer du poids de la comparaison et retrouver une sérénité authentique dans vos interactions sociales.

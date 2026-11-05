@@ -18,7 +18,7 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-entretien-embauche/">Effet spotlight : Lucas craint qu’on remarque sa cravate</a></h3>
     <div class="parcours-date">2026-03-15</div>
-    <p class="parcours-resume">La salle d&#x27;attente au pied de la tour à La Défense est froide, l&#x27;air climatisé pince sa nuque. Lucas ajuste sa cravate, ses doigts collants sur la soie, et fixe la micro-tache noire comme si elle occupait tout l&#x27;espace.</p>
+    <p class="parcours-resume">À La Défense, Lucas tire sa cravate vers la lumière pour vérifier la tache. Il remet le tissu en place quand la porte s’ouvre. Ce n’est pas son tour.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>La porte s&#x27;ouvre. Lucas sent son cœur s&#x27;emballer, mais il active ses outils.</p>
@@ -29,7 +29,7 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/honte-en-colocation-causes-solutions/">Honte en colocation : comprendre et surmonter cette émotion</a></h3>
     <div class="parcours-date">2026-03-18</div>
-    <p class="parcours-resume">L&#x27;odeur de pizza surgelée flotte encore dans le salon de la colocation alors que Maxime jette nonchalamment son téléphone sur la table basse. Lucas, installé dans le vieux fauteuil en cuir, sent son estomac se contracter.</p>
+    <p class="parcours-resume">Sandrine vient de lui faire un virement. Lucas voudrait lui écrire merci avant que Maxime ne remarque l’écran. Du canapé, son colocataire annonce qu’il a trouvé un chalet pour leur week-end au ski.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Quelques jours après l&#x27;épisode du voyage au ski, Lucas se retrouve seul dans la cuisine avec Romain. Ce dernier est en train de préparer un café tout en racontant ses propres galères de stage.</p>
@@ -40,7 +40,7 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/echec-ecole-etudes-psychologie-hpi/">Difficulté aux études : Lucas reprend un rapport refusé</a></h3>
     <div class="parcours-date">2026-03-25</div>
-    <p class="parcours-resume">L&#x27;écran de l&#x27;ordinateur portable de Lucas projette une lumière crue sur son visage fatigué, dans la pénombre de sa chambre de colocation. Le curseur clignote sur une page blanche, juste en dessous du titre de son mémoire de fin d&#x27;études.</p>
+    <p class="parcours-resume">Lucas a ouvert trois fois le fichier du mémoire. Le commentaire sur la première page est le même : argument à reprendre, sources à vérifier. Il avait lu « refusé » dans le mail et s’était arrêté là.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>La porte de la chambre s&#x27;ouvre doucement. Maxime, son colocataire, passe la tête par l&#x27;entrebâillement avec un ballon de basket usé sous le bras.</p>
@@ -51,7 +51,7 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/envie-en-situation-de-competition-hpi/">Envie en compétition : ce que Lucas admire chez Antoine</a></h3>
     <div class="parcours-date">2026-03-26</div>
-    <p class="parcours-resume">Le caoutchouc des semelles crisse sur le parquet ciré du gymnase municipal en ce jeudi 26 mars 2026. Lucas court, le souffle court, mais son regard ne quitte pas Antoine, un ailier de l&#x27;équipe adverse qui enchaîne les paniers avec une aisance insolente.</p>
+    <p class="parcours-resume">Antoine marque de nouveau depuis le même endroit. Lucas l’a vu regarder un coéquipier avant de prendre le tir ; il aimerait savoir s’il avait prévu de passer. Quand le ballon lui revient, Lucas tire tout de suite.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Sous la douche froide du gymnase, Lucas laisse l&#x27;eau couler sur sa nuque. Il ferme les yeux et tente de mettre en pratique la respiration consciente qu&#x27;il avait apprise pour calmer son anxiété lors de son entretien à La Défense.</p>
@@ -62,7 +62,7 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-ecole-etudes-lucas/">Sentiment d’imposture aux études : Lucas ose une question</a></h3>
     <div class="parcours-date">2026-04-07</div>
-    <p class="parcours-resume">L&#x27;amphithéâtre de l&#x27;école de commerce est plongé dans une pénombre relative, seulement troublée par l&#x27;éclat des dizaines d&#x27;écrans d&#x27;ordinateurs allumés. Lucas est assis au milieu du troisième rang, son stylo bille tournant nerveusement entre ses doigts.</p>
+    <p class="parcours-resume">Le professeur demande ce qui distingue les deux études sur le microcrédit. Lucas a écrit un point d’interrogation entre les noms des auteurs. Il lève son stylo de quelques centimètres et le repose quand une étudiante de devant prend la parole.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Le cours de stratégie se termine. Les étudiants rangent leurs affaires dans un brouhaha de chaises et de discussions animées.</p>
@@ -73,7 +73,7 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-amitie-enfance/">Quand le besoin d’approbation prend trop de place en amitié</a></h3>
     <div class="parcours-date">2026-04-13</div>
-    <p class="parcours-resume">Le rire de Romain résonne dans le salon de la colocation, un bruit franc qui tranche avec l&#x27;humidité de ce lundi 13 avril 2026. Lucas est assis sur le rebord du canapé, le corps penché en avant, les yeux fixés sur ses deux amis.</p>
+    <p class="parcours-resume">Lucas raconte à ses colocataires qu’il a rattrapé une présentation de stage juste avant la réunion. Il a surtout corrigé un tableau, mais Romain rit et le récit s’allonge. Quand Maxime consulte son téléphone, Lucas cherche déjà une autre histoire.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Un soir, ses amis parlent des offres d’embauche. Lucas est tenté d’inventer qu’un cabinet de conseil l’a approché.</p>
@@ -84,7 +84,7 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-barnum-forer-reseaux-sociaux/">Effet Barnum : quand une vidéo semble parler de vous</a></h3>
     <div class="parcours-date">2026-04-16</div>
-    <p class="parcours-resume">Lucas est allongé sur son lit, dans la pénombre de sa chambre de colocation. Le bruit sourd de la télévision dans le salon indique que Maxime et Romain sont encore réveillés, mais il préfère rester seul.</p>
+    <p class="parcours-resume">Dans sa chambre, Lucas arrête une vidéo en plein milieu. La voix dit que les gens qui font rire les autres cachent souvent un doute profond. Il pense tout de suite à la dernière soirée à la coloc.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Le lendemain soir, Lucas se retrouve à nouveau sur son téléphone. Une nouvelle vidéo défile : Pourquoi les gens ambitieux nés dans des milieux modestes sont souvent des perfectionnistes anxieux.</p>
@@ -95,10 +95,10 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-dotation-decision-importante-lucas/">Effet de dotation : Lucas compare deux options de travail</a></h3>
     <div class="parcours-date">2026-04-24</div>
-    <p class="parcours-resume">Lucas fixe l&#x27;écran de son vieux téléphone dont l&#x27;angle est légèrement fêlé. Sur l&#x27;application de messagerie, un message de Mathieu, le manager qu&#x27;il a rencontré lors d&#x27;un forum de recrutement, reste en attente de réponse.</p>
+    <p class="parcours-resume">Lucas a un entretien final à Lyon et commence déjà à imaginer ce qu’il quitterait à Paris.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Assis dans un coin calme de la colocation, Lucas réfléchit. Il tente d&#x27;appliquer la technique du test de remplacement.</p>
+      <p>Il accepte l’entretien pour vérifier ce que le poste pourrait lui apporter avant de prendre une décision.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-dotation-decision-importante-lucas/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -106,7 +106,7 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-bandwagon-amitie/">Effet bandwagon : Lucas hésite à suivre ses amis</a></h3>
     <div class="parcours-date">2026-04-29</div>
-    <p class="parcours-resume">Lucas marche le long du quai du métro, ses baskets frottant contre le béton humide. Dans sa poche, le groupe de discussion de la colocation s’active : un message collectif propose une sortie ce soir, avec une idée précise que tout le monde semble déjà valider.</p>
+    <p class="parcours-resume">Sur le quai, Lucas ouvre le groupe de la coloc. Maxime envoie le prix de la soirée, Romain répond qu’il y va, puis un troisième ami réserve. Lucas commence à taper « pareil » avant d’avoir regardé son solde.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Ce soir, dans le salon de la colocation, la proposition revient : un événement très en vogue dans la ville, avec un coût élevé et une organisation de dernière minute. Maxime en parle avec son énergie habituelle, Romain rit, puis les regards glissent vers Lucas comme s’il devait valider l’idée.</p>
@@ -117,10 +117,10 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-recence-decision-importante/">Effet de récence : quel poids donner au dernier avis ?</a></h3>
     <div class="parcours-date">2026-05-05</div>
-    <p class="parcours-resume">Lucas est assis sur le banc en bois de la salle de sport de l&#x27;école, encore en short, les chaussures de basket craquant légèrement quand il change de position. L&#x27;odeur de caoutchouc chaud et de tissu mouillé flotte autour de lui tandis que son regard se fixe sur l&#x27;écran de son ordinateur…</p>
+    <p class="parcours-resume">Lucas reçoit l’offre de Lyon. La dernière remarque de son tuteur lui revient au moment de comparer ses options.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Lucas range son ordinateur dans son sac et sort sous la pluie fine qui tombe sur le campus. Il se rappelle qu&#x27;il a déjà essayé des méthodes utiles : la respiration consciente apprise avant l&#x27;entretien à La Défense l&#x27;a aidé à ne pas céder à l&#x27;anxiété, et il a déjà demandé un délai pour répondre…</p>
+      <p>Après deux jours, il accepte un début à Lyon après son stage et son mémoire. Il en parle à ses colocataires.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-recence-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -128,7 +128,7 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/agacement-en-colocation-comprendre-emotions/">Agacement en colocation : comment mieux gérer ses émotions</a></h3>
     <div class="parcours-date">2026-05-17</div>
-    <p class="parcours-resume">Le bruit métallique d&#x27;une fourchette qui gratte le fond d&#x27;une poêle à frire en téflon résonne dans toute la cuisine. Lucas, assis à la table en bois brut qui sert de bureau improvisé, sent une tension immédiate grimper le long de sa colonne vertébrale.</p>
+    <p class="parcours-resume">La fourchette de Romain grince sur le fond de la poêle. Lucas remet ses écouteurs. Le son passe quand même.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Le silence revient enfin dans la pièce. Romain a terminé de manger et s&#x27;apprête à laisser sa poêle sale dans l&#x27;évier.</p>
@@ -139,7 +139,7 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/correlation-illusoire-sur-les-reseaux-sociaux/">Corrélation illusoire sur les réseaux sociaux : s&#x27;en libérer</a></h3>
     <div class="parcours-date">2026-05-21</div>
-    <p class="parcours-resume">Lucas est affalé dans le canapé gris de la colocation, celui-là même où il a si souvent douté de son avenir ces derniers mois. La lumière bleutée de son smartphone éclaire son visage concentré alors qu&#x27;il fait défiler son fil Instagram.</p>
+    <p class="parcours-resume">Lucas cherche une note pour son mémoire et s’arrête sur le fil d’un coach. Trois vidéos associent le réveil à cinq heures et des réussites spectaculaires. Il reconnaît la même personne dans deux des images.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
       <p>Lucas repose son téléphone sur la table basse, entre une boîte de pizza vide et un manuel de marketing de Romain. Il vient de passer dix minutes à analyser pourquoi la vidéo de ce coach en développement personnel l&#x27;a mis si mal à l&#x27;aise.</p>

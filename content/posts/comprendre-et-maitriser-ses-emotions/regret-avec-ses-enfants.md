@@ -13,9 +13,9 @@ contexte: "avec ses enfants"
 draft: false
 ---
 
-La lumière de l'écran éclaire le bureau de Karim. Il est tard, la ville dort, mais son téléphone vibre une dernière fois. Sofia lui a envoyé une courte vidéo : Sami, 5 ans, affiche un sourire gêné en mordant dans une pomme, puis glisse la main vers sa bouche où une petite dent solitaire bouge encore. La vidéo dure quinze secondes et chaque image crée un creux dans la poitrine de Karim. Le sentiment de regret avec ses enfants s'insinue dans sa tête comme une alarme qu'il ne sait plus ignorer.
+Sofia a envoyé quinze secondes de vidéo. Sami mord dans sa pomme, s’arrête et tend sa petite dent à la caméra. Karim ne sait pas si son fils le cherche du regard ou regarde simplement l’écran. Il regarde la vidéo une deuxième fois. Il avait promis de rentrer avant le dîner.
 
-Autour de lui, la cuisine de sa PME est silencieuse, les frigos ronronnent, son mug de café refroidit. Il ressent le goût amer du café, le tic de sa jambe droite qui ballotte sous le bureau, et l'odeur de papier un peu sec provenant d'une pile de factures. Il se souvient d'avoir manqué, la semaine dernière, le spectacle de Lina parce qu'une réunion avec des investisseurs s'est éternisée. Il reconnaît aussi cette tension qu'il identifie mieux maintenant, depuis l'article du 2 mars sur la gestion de la colère, et cette culpabilité que Sofia lui a décrite il y a quelques jours lors de leur dernière mise au point.
+Les frigos tournent derrière la cloison. Sur son bureau, la tasse a laissé un cercle entre deux factures. Karim imagine la salle du spectacle de Lina. Il était encore avec les investisseurs quand elle est montée sur scène. Sofia lui a raconté que Lina avait regardé plusieurs fois vers la porte.
 
 Karim regarde la vidéo encore une fois. Il n'a pas été présent pour la première dent de Sami. Ce n'est pas juste une absence ponctuelle, c'est une collection de petits manqués qui finissent par peser lourd. Il sent monter quelque chose qui n'est ni de la colère ni tout à fait de la culpabilité, quelque chose de plus sourd et persistant : le regret. Il prend une profonde inspiration, utilise la respiration courte apprise pour calmer ses nerfs, et comprend que la prochaine étape consiste à distinguer ce qu'il peut réparer de ce qui appartient au remords moral.
 
@@ -28,6 +28,7 @@ Karim se demande ce qui se serait passé s'il avait décalé sa réunion. La vid
 ## Comment le regret se manifeste avec ses enfants ?
 
 ### La rumination mentale
+
 Karim revoit la vidéo de Sami en boucle et se demande ce qu'il aurait pu faire autrement. Quand la question revient sans information nouvelle, il peut distinguer ce qui ne peut plus changer de ce qu'il peut organiser pour le prochain rendez-vous.
 
 Exemples concrets :
@@ -35,12 +36,14 @@ Exemples concrets :
 - Un entrepreneur pense aux moments manqués et se sent tellement mal qu'il finit par éviter les moments familiaux par peur de ne pas être à la hauteur.
 
 ### Regret d'action vs regret d'inaction
+
 Dans [les études de Gilovich et Medvec](https://pubmed.ncbi.nlm.nih.gov/7965599/), le regret d'avoir agi était davantage rapporté à court terme et celui de n'avoir pas agi davantage à long terme. C'est une tendance de groupe, pas une règle propre aux parents ou une prédiction pour Karim.
 
 Exemples concrets :
 - Karim peut regretter d'avoir crié un soir et, séparément, de ne pas avoir assisté à plusieurs matchs. L'un ne doit pas forcément s'atténuer quand l'autre prend de la place.
 
 ### Remords moral vs regret pragmatique
+
 Le mot « remords » insiste ici sur le reproche moral que l'on s'adresse. On peut aussi regretter un événement qu'on n'a pas pu empêcher. La distinction aide à poser une question : une excuse est-elle due, ou peut-on surtout agir pour l'avenir ? Les deux peuvent aller ensemble.
 
 Exemples concrets :
@@ -50,6 +53,7 @@ Exemples concrets :
 ## 3 techniques pour apaiser le regret avec ses enfants
 
 ### 1. La réparation ciblée
+
 L'idée est d'identifier une action concrète, simple mais forte, pour montrer aux enfants que l'on est bien là. Le but n'est pas d'effacer le passé, mais de construire de nouveaux souvenirs dès maintenant.
 
 Exercice concret :
@@ -58,6 +62,7 @@ Exercice concret :
 Ce rendez-vous permet à Karim de tenir une promesse concrète. Il peut demander à Sami si l'histoire lui plaît sans attendre de lui un signe que le passé est réparé.
 
 ### 2. Le recadrage entre regret et remords
+
 Distinguer ce qu'on aurait pu faire autrement de ce qui échappait à son contrôle aide à décider s'il faut présenter des excuses, changer son organisation ou simplement reconnaître qu'un moment a compté.
 
 Exercice concret :
@@ -66,6 +71,7 @@ Exercice concret :
 Nommer le reproche aide Karim à choisir un geste précis, comme présenter des excuses ou mieux protéger un prochain rendez-vous.
 
 ### 3. Le micro-engagement et le calendrier visible
+
 Il s'agit de transformer de grandes intentions floues comme "je vais passer plus de temps avec eux" en engagements précis. Sanctuariser des moments dans l'agenda redonne de la crédibilité à sa parole et rassure la famille.
 
 Exercice concret :
@@ -73,7 +79,7 @@ Exercice concret :
 
 Un rendez-vous visible peut aider les adultes à organiser leurs contraintes. Il reste une proposition à ajuster en famille, sans faire des enfants les gardiens de l'agenda de Karim.
 
-## Karim commence à réparer
+## Le dessin de Sami
 
 Karim regarde la vidéo de Sami une dernière fois, puis ferme son ordinateur. Il envoie un message vocal à Sofia, simple et direct : "Je rentre demain à 18 h. On notera notre petit-déjeuner du dimanche sur le tableau blanc." C'est une promesse claire et réalisable. Il s'appuie sur ce qu'il a déjà appris : la respiration pour gérer la tension (article du 2 mars), la transformation de la culpabilité en responsabilité (article du 7 mars) et la vigilance face aux automatismes de travail. Ces outils l'aident à ne pas sombrer dans un regret qui paralyse.
 

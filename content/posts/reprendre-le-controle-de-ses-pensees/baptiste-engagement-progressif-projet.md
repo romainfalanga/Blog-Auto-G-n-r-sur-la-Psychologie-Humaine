@@ -13,7 +13,7 @@ episode: 10
 draft: false
 ---
 
-Baptiste garde le courriel ouvert pendant qu’il regarde les photographies de son atelier. La maison de quartier cherche des participants pour préparer un petit parcours autour des façades et des formes visibles dans les rues. Il pourrait proposer quelques images et un trajet. Il aime l’idée, mais son imagination saute aussitôt à une exposition complète : choix des lieux, repérages, impressions, réunion et présentation devant un groupe. Il n’a encore accepté aucune tâche et se sent déjà en retard sur un projet qui n’existe pas sous cette forme.
+Baptiste garde le courriel ouvert pendant qu’il retrouve les photographies de la sortie du samedi. En allant à l’atelier plutôt qu’à vélo, il avait espéré apprendre à regarder les bâtiments d’un peu plus près. Il a encore deux images d’une même façade qu’il n’arrive pas à départager. La maison de quartier cherche des participants pour préparer un petit parcours autour des façades et des formes visibles dans les rues. Il pourrait proposer quelques images et un trajet. Il aime l’idée, mais son imagination saute aussitôt à une exposition complète : choix des lieux, repérages, impressions, réunion et présentation devant un groupe. Il n’a encore accepté aucune tâche et se sent déjà en retard sur un projet qui n’existe pas sous cette forme.
 
 À trente-sept ans, il dispose d’un temps limité entre la coordination de maintenance, les moments avec Caroline et Elsa et les activités qu’il souhaite garder. Il ne veut pas répondre oui par enthousiasme puis compter sur ses soirées pour absorber toutes les tâches. Il ne veut pas non plus attendre d’être sûr de sa compétence photographique avant de participer. L’atelier lui a donné envie d’observer davantage, pas un titre d’expert. La proposition devrait pouvoir accueillir cette place de débutant intéressé, si c’est réellement ce que le collectif recherche.
 
@@ -57,7 +57,7 @@ Baptiste choisit un créneau pour regarder ses images et vérifier les lieux qu�
 
 Après la rencontre, Baptiste souhaite savoir quelle tâche pourrait lui convenir, quel temps elle demanderait et quels appuis seraient disponibles. Il ne promet pas qu’un essai agréable mènera forcément à un rôle plus grand. Le groupe doit pouvoir compter sur ce qu’il a accepté, puis réexaminer la suite avec lui. Cette manière de procéder laisse aussi une place à une découverte moins favorable : trop de réunions, un objectif qui ne lui plaît pas ou une charge mal répartie. Dans ce cas, il pourra terminer une contribution annoncée et ne pas continuer. Un bilan n’a pas à chercher uniquement les raisons de s’investir davantage ; il sert à comparer le projet réel avec l’intérêt et les ressources qui l’avaient rendu possible au départ.
 
-## Baptiste apporte trois images et reste un participant débutant
+## Trois images sur la table
 
 L’organisatrice lui répond que la première rencontre vise justement à regarder les propositions et à préciser les rôles. Elle accepte sa contribution limitée. Baptiste prépare trois images, dont une lui plaît moins techniquement mais soulève une question intéressante sur le trajet. Il ne passe pas sa soirée à la corriger pour que personne ne puisse remarquer son niveau. Il note ce qu’il voudrait demander et ferme le dossier au moment prévu. Cette préparation lui donne un début concret, avec encore un peu d’hésitation.
 

@@ -77,13 +77,13 @@ Elle évite de se demander seulement si elle paraît assez assurée. La question
 
 On peut également chercher un appui pratique : faire mettre à jour une fiche, demander à un collègue de reprendre correctement une présentation ou choisir un canal où la correction sera conservée. L’objectif n’est pas de tout gérer seule par une meilleure formulation. La reconnaissance peut être soutenue par l’organisation. Les personnes et les structures qui utilisent l’information ont leur part à prendre dans sa bonne transmission.
 
-## Salomé reprend sa commande sans ouvrir sa biographie
+## Le paquet est à son nom
 
 Gaspard l’aide à déposer le bois sur le support de stockage. Il lui demande si la livraison correspond aux dimensions prévues. Salomé raconte brièvement le comptoir, puis précise qu’elle préfère ne pas consacrer la pause entière à l’incident. Son collègue l’entend et revient aux pièces commandées. La même journée contient ainsi une formule qui lui déplaît, une correction respectée et un retour à une conversation professionnelle ordinaire.
 
 Salomé vérifie la surface du bois avec la paume et note un détail à surveiller lors de la préparation. Elle retrouve le but de sa sortie. L’interaction ne définit pas son identité entière ni la qualité de sa journée. Elle peut être encore agacée tout en s’intéressant à son travail. Elle n’a pas besoin que tout le malaise disparaisse pour reprendre une action choisie.
 
-Lors de sa commande suivante, elle ajoute une courte indication sur la fiche de contact. Elle ne transforme pas cet ajout en garantie contre toutes les erreurs. Il rend seulement l’information plus accessible. Son progrès se situe là : choisir une demande proportionnée, préserver le contenu qu’elle ne souhaite pas exposer et évaluer la réponse reçue. Elle reste libre de corriger autrement, ou de ne pas le faire dans un autre contexte.
+Lors de sa commande suivante, Salomé écrit son prénom en haut de la fiche. Il reste une ligne pour les coordonnées et deux pour les dimensions du bois. Elle remplit celles-là aussi. Au comptoir, si quelqu’un se trompe encore, elle verra sur le moment si elle a envie de reprendre la conversation.
 
 ---
 

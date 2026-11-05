@@ -17,7 +17,7 @@ La lumière grise du matin traverse les stores et dessine des rayures sur le par
 
 Léa insiste, ses yeux cherchent le contact. Elle veut savoir si c'était triste, réjouissant ou inquiétant. Youssef sent un vide précis derrière sa cage thoracique, comme si une notice d'utilisation s'ouvrait dans sa tête : "Mutation = déplacement = conséquences logiques." Les mots pour décrire ses émotions ne viennent pas. Il perçoit la déception dans la voix de Léa et, malgré son attachement pour elle, il se referme, perplexe.
 
-Cette scène se déroule aujourd'hui, le 15 mars 2026, dans leur appartement à Paris. Depuis ses dernières réflexions où il explorait le biais de projection (7 mars 2026) puis le biais de disponibilité (8 mars 2026), Youssef a appris à repérer ses automatismes de pensée. Youssef remarque surtout qu’il a du mal à trouver des mots pour dire ce qu’il ressent. Il fait un lien avec la pudeur de son père Hamid, sans savoir ce qui explique cette difficulté.
+Léa a laissé son écharpe sur le dossier de la chaise. Elle doit repartir à son studio après le café. Youssef voudrait lui répondre avant qu’elle se lève, mais tout ce qui lui vient concerne le poste de Nicolas : le trajet, la prise de fonctions, l’adresse du nouveau bureau. Il pense à Hamid, qui lui demandait souvent comment les choses s’étaient passées et plus rarement ce qu’il en avait éprouvé. Ça lui revient sans lui donner de réponse.
 
 ## Qu'est-ce que l'alexithymie ?
 Le psychiatre [Peter Sifneos](https://pubmed.ncbi.nlm.nih.gov/4770536/) a employé le terme « alexithymie » dans ses travaux cliniques. En recherche, il désigne plusieurs dimensions, notamment la difficulté à identifier ou à décrire ses émotions et une attention davantage tournée vers les faits extérieurs, comme le distinguent les [travaux de Bagby, Parker et Taylor](https://pubmed.ncbi.nlm.nih.gov/8126686/).
@@ -81,8 +81,8 @@ Exercice pratique :
 
 Pourquoi ça marche : cette méthode transforme l'expression des sentiments en une habitude progressive, sans exiger de grandes révélations immédiates.
 
-## Youssef commence à s'ouvrir
-Toujours assis à table, alors que sa tasse refroidit, Youssef se souvient de ses récentes découvertes. Le 7 mars, il avait appris à repérer ses projections sur les autres, et le 8 mars, il s'était exercé à questionner ses certitudes mentales. Aujourd'hui, il s'appuie sur ces acquis : il observe sa pensée "C'est logique" comme un simple automatisme, puis cherche la sensation qui se cache derrière.
+## Le jeudi sans Nicolas
+Youssef fait tourner sa tasse. « C’est logique, pour son boulot. Mais ça va me faire drôle de ne plus le voir le jeudi. » Le mot « triste » lui paraît trop grand, le mot « inquiet » un peu plus proche. Léa lui demande si Nicolas lui a dit quand il partirait. Youssef n’a pas pensé à le lui demander.
 
 Il prend une feuille et commence son premier journal des sensations, de manière un peu maladroite : "Conversation Nicolas, poitrine serrée. Mot possible : inquiétude." Il ressent une légère libération en l'écrivant. Le soir, face à Léa, il tente la micro-divulgation. Il dit, avec une voix un peu hésitante mais calme : "Sur une échelle de 1 à 5, j'étais à 3, plutôt inquiet." Léa reformule simplement ses propos. Elle ne demande pas de long discours, juste une validation de ce qu'il ressent.
 
@@ -94,7 +94,5 @@ Il y a encore des silences et des réflexes rationnels. Le changement ne se fait
 
 Conclusion
 L'alexithymie au sein du couple ne signifie pas un manque d'amour, mais une difficulté à traduire son monde intérieur. Avec des outils comme le journal des sensations, la roue des émotions ou le partage guidé, il est possible d'apprendre à communiquer ses ressentis pas à pas.
-
-Youssef ne change pas du tout au tout, mais il avance. Il met ses capacités d'analyse au service de sa vie intérieure. Le récit illustre comment Youssef trouve quelques façons de partager ses hésitations.
 
 Si vous vous reconnaissez dans ce parcours, sachez qu'il est tout à fait naturel de solliciter de l'aide. Un psychologue ou un thérapeute peut proposer des stratégies sur mesure pour débloquer la communication. Le chemin vers une relation plus riche émotionnellement est ouvert à tous, une étape à la fois.

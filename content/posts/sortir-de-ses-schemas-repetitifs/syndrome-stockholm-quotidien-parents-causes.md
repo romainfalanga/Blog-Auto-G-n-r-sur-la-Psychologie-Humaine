@@ -59,13 +59,13 @@ S'il peut le faire en privé, Stéphane peut noter une phrase prononcée, son ef
 
 Si partir à une heure choisie est sans danger, Stéphane peut prévoir son trajet retour et annoncer son départ simplement. En cas de menaces, de contrôle ou de violences, la priorité est de trouver un soutien sûr ; il n'est pas nécessaire de confronter ses proches. Le [ministère de la Justice](https://www.justice.fr/je-suis-victime/violences) oriente les personnes confrontées à des violences, y compris intrafamiliales.
 
-## Stéphane commence à poser ses propres jalons
+## Monter dans le train prévu
 
-Assis dans le salon de ses parents, Stéphane regarde l'horloge au-dessus du buffet. Il est 15h30. D'ordinaire, il resterait jusqu'à l'épuisement, s'imprégnant de la mélancolie de sa mère et de l'amertume de son père. Mais aujourd'hui, quelque chose a changé. Il ne veut plus valoriser une relation difficile simplement parce qu'il y a investi énormément d'efforts depuis quarante ans. Il respire calmement, sentant le contact de ses pieds sur le sol, une sensation d'ancrage qu'il a apprise à cultiver.
+L’horloge marque quinze heures trente. Stéphane a dit en arrivant qu’il devait prendre le train de seize heures. Il reste une facture sans justificatif. Il indique à son père où la ranger, puis demande à sa mère si elle veut qu’il lui note le numéro à appeler. Il a encore le temps pour ça.
 
 Lorsqu'il se lève, son père fronce les sourcils et commence une tirade sur le fait que les enfants sont toujours pressés une fois qu'ils ont réussi. Autrefois, Stéphane se serait confondu en excuses, aurait proposé de rester une heure de plus ou aurait cherché à anesthésier son malaise. Cette fois, il ne justifie rien. Il aide simplement son père à refermer le classeur de factures, lui serre la main fermement et embrasse sa mère. Il ressent une pointe de culpabilité, mais il la reconnaît comme un vestige de son ancien schéma, la crainte habituelle de décevoir ses parents.
 
-En marchant vers la gare, Stéphane ne ressent pas un soulagement immédiat, mais une forme de solidité nouvelle. Il appelle sa compagne pour lui proposer une activité pour la soirée. Il ne cherche pas à compenser son anxiété, il choisit simplement d'investir son énergie là où elle est nourrie. Il repense à ses années de compétition avec son frère et réalise que son besoin de briller était une tentative de s'évader de cette emprise. Désormais, il n'a plus besoin de gagner toutes les batailles pour exister. Il est simplement lui-même, un homme de 46 ans qui apprend à ne plus être l'otage de son passé.
+À la gare, Stéphane hésite entre monter dans le train et revenir finir le classeur. Sa mère lui a demandé de prévenir quand il serait rentré. Il lui écrit qu’il a son train, pose le téléphone sur ses genoux et pense encore à la phrase de son père. Il se promet de rappeler dans la semaine, à un moment qu’il pourra choisir.
 
 ---
 

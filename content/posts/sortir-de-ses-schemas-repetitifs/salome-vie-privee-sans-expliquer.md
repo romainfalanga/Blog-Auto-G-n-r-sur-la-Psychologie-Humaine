@@ -15,7 +15,7 @@ draft: false
 
 La boîte à chaussures contient des enveloppes de formats différents et une poignée de photographies. Salomé en cherche une pour une soirée proposée par Nora : chacun peut apporter un souvenir et raconter une histoire. Elle lit à nouveau l’invitation, qui précise bien « si vous voulez ». Malgré cette liberté annoncée, elle se sent tenue de trouver une image. Sa vie privée lui paraît plus difficile à préserver lorsque personne ne lui donne de raison évidente de se protéger.
 
-Salomé a vingt-neuf ans, est luthière et célibataire. Elle est non binaire et utilise les accords féminins par choix. Cette identité ne permet pas de conclure qu’elle éprouve un rapport particulier aux images anciennes. Aujourd’hui, elle souhaite simplement garder ses photographies d’enfance pour elle. Certaines lui plaisent, d’autres l’indiffèrent. Elle ne veut pas que la soirée ouvre une discussion sur son parcours familial ou sur son apparence à différents âges.
+Salomé connaît assez Nora pour avoir passé des soirées entières à chercher un mot dans une grille. Cette fois, son amie a proposé d’apporter des photos d’enfance. Salomé ouvre la boîte, reconnaît le coin déchiré d’un tirage et la referme. Elle a envie d’aller chez Nora. Elle n’a pas envie d’y passer les images une à une.
 
 Elle pourrait apporter un objet récent ou venir sans rien. Pourtant, elle commence à préparer une explication sur les photos qu’elle ne retrouverait pas. Cette raison n’est pas vraie. Elle sert à éviter une question possible : pourquoi ne souhaite-t-elle pas participer à ce partage ? Salomé voit le même glissement que dans certaines présentations publiques : une information accessible lui semble devoir être disponible, sauf si elle peut fournir un obstacle reconnu par les autres.
 
@@ -77,13 +77,13 @@ Elle peut aussi sortir prendre l’air si le format devient trop centré sur des
 
 Après la rencontre, elle évaluera le respect du cadre plutôt que la quantité de choses qu’elle raconte. Peut-elle dire non, les relances cessent-elles, le groupe lui laisse-t-il une place ordinaire ? Ces questions permettent de regarder l’environnement. Si la réserve est accueillie, elle dispose d’un appui pour d’autres échanges. Si elle est tournée en ridicule, le problème ne sera pas seulement sa difficulté à expliquer : la relation demandera aussi un ajustement.
 
-## Salomé vient avec son jeu et garde ses images chez elle
+## La boîte reste sur l’étagère
 
 La boîte à chaussures retourne sur l’étagère. Salomé prend la feuille d’énigmes et un plat qu’elle souhaite partager. Chez Nora, plusieurs personnes apportent un objet, deux viennent sans souvenir. Salomé découvre qu’elle imagine un format plus obligatoire que celui qui se déroule. Cette observation ne rend pas sa préparation ridicule. Elle lui permet de constater la place réelle laissée au choix et d’alléger un scénario qui l’occupe avant la rencontre.
 
 À table, quelqu’un lui demande si elle a une histoire à raconter. Elle dit qu’elle préfère écouter cette fois. La conversation continue. Plus tard, elle raconte spontanément une scène du jardin partagé, parce qu’elle en a envie. Personne ne lui demande d’équilibrer ce récit avec une photo ancienne. Elle peut participer à plusieurs niveaux sans que l’un donne accès à tous les autres.
 
-En rentrant, Salomé remarque qu’elle n’invente pas de raison et ne promet rien pour la prochaine soirée. Elle reste parfois gênée par l’idée de décevoir une curiosité. Cette gêne ne lui dicte plus toute la réponse. Ses photos peuvent garder leur place privée, même dans une amitié qu’elle apprécie. Le changement tient à cette possibilité ordinaire, sans événement spectaculaire ni révélation finale sur ce qu’elles contiennent.
+En rentrant, Salomé retrouve la boîte à chaussures. Elle la repousse un peu plus loin sur l’étagère et pose devant la feuille d’énigmes, pliée à l’endroit où Nora a marqué un indice. Elle se sent encore gênée d’avoir répondu à côté au moment du tour de table. Plus tard, elle se souvient qu’elle avait aussi raconté une histoire qui lui plaisait.
 
 ---
 

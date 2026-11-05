@@ -35,7 +35,7 @@ Une manifestation courante consiste à tester sans cesse l'engagement et la fiab
 
 ### 2. Le surcontrôle de l'information personnelle
 
-La rétention d'information est une autre stratégie typique. Dans une amitié saine, le partage de vulnérabilités renforce le lien. Pour quelqu'un souffrant de ce schéma, dévoiler une peur ou une difficulté revient à donner une arme à l'autre. Djamila, par exemple, évite de parler de ses doutes sur son éducation avec Adam de peur qu'Amina ne la juge ou ne rapporte ses propos à leur direction. Elle préfère rester la femme forte, la travailleuse sociale exemplaire, gardant ses fêlures pour son journal intime, tout comme elle cachait ses larmes lors des premiers mois de son deuil pour ne pas paraître "brisée".
+Djamila évite de parler à Amina de ses doutes sur une décision concernant Adam. Elle redoute que la conversation circule ensuite à l’association. Elle peut tenir à cette amitié et préférer parler d’Adam ailleurs. Si elle a envie d’en dire davantage, elle peut d’abord demander à Amina si la conversation restera entre elles.
 
 ### 3. L'interprétation erronée des signaux neutres
 
@@ -57,13 +57,13 @@ Pour réapprendre la vulnérabilité sans se sentir en danger, il est utile d'ut
 
 Quand elle se sait à l’abri, Djamila peut remarquer le contact de ses pieds au sol et regarder autour d’elle. Le [guide de l’OMS sur le stress](https://tdr.who.int/home/our-work/global-engagement/9789240003927) propose des exercices de ce type. Ils donnent un point d’appui dans l’instant ; ils ne démontrent pas qu’une personne est fiable et ne sont pas un traitement du TSPT.
 
-## Djamila commence à baisser la garde
+## La manche et la serviette
 
-De retour au bureau, Djamila repense à sa réaction lors du déjeuner. Elle sent encore cette raideur dans sa nuque, mais elle refuse de laisser son passé dicter son présent. Elle reconnaît cette impression d'être en alerte alors qu'elle ne sait pas encore ce que son amie attend. Elle décide d'appliquer la technique des preuves contradictoires avant de reprendre son travail de suivi avec les femmes qu'elle accompagne.
+De retour à l’association, Djamila repense au moment où elle a tendu la main vers la serviette pour dégager son bras. Amina avait posé des gâteaux pour Adam au bureau une fois. Ce souvenir compte, mais Djamila n’a pas besoin de faire la liste de ce qu’elle doit à son amie avant de lui parler.
 
-Elle se remémore tous les moments où Amina a été présente pour elle sans rien demander en retour. Elle se rappelle le jour où Amina a apporté des gâteaux pour Adam sans raison particulière, ou la fois où elle l'a écoutée sans jugement après l'enterrement. Ces faits sont têtus, ils ne collent pas avec l'image d'une manipulatrice. Djamila sent une légère détente dans sa poitrine, un espace qui s'ouvre. Ce n'est pas encore de la confiance totale, mais c'est une suspension de l'incrédulité.
+Elle la rattrape dans le couloir. « Tout à l’heure, j’ai reculé parce que je n’aime pas qu’on me touche par surprise. Ça m’arrive même avec des gens que j’aime bien. » Amina, qui attendait sans savoir si elle avait fait une remarque maladroite, baisse la main qu’elle allait justement lui poser sur l’épaule.
 
-En fin de journée, Djamila croise Amina dans le couloir. Au lieu de baisser les yeux, elle s'arrête. Sa voix est un peu hésitante, mais elle parvient à dire qu'elle a eu une réaction de recul tout à l'heure car elle a encore du mal avec les gestes de gentillesse inattendus. Elle accepte finalement l'aide d'Amina pour le dossier Lopez. En voyant le sourire sincère de sa collègue, Djamila comprend qu'en protégeant son cœur de façon si hermétique, elle se privait aussi de la chaleur humaine nécessaire à sa reconstruction. Elle rentre chez elle ce soir-là avec un sentiment de victoire, prête à retrouver Adam pour une séance de dessin, consciente que chaque risque pris est une pierre de plus vers sa liberté.
+« Je te demanderai », dit-elle. Puis elle veut savoir si Adam a aimé les gâteaux. Djamila lui raconte qu’il en a gardé un pour le lendemain.
 
 ---
 

@@ -15,7 +15,7 @@ draft: false
 
 La lampe de la cuisine jette une lumière jaunie sur la cafetière et les partitions éparpillées. Hugo reste assis sur le tabouret, la veste en jean encore imprégnée par la chaleur du bar. Son téléphone affiche un message laconique de Chloé : "On doit parler." Il sent ses mains devenir moites, comme si un accord dissonant venait de résonner dans sa poitrine.
 
-Il se souvient de la dernière fois où un silence de Chloé l'a renvoyé à ses peurs d'abandon. Trois semaines plus tôt, sur un banc du parc, il avait reconnu ce vide qui le saisit après une rupture. Puis, en travaillant au bar quelques jours plus tard, il avait compris qu'il basculait d'une adoration totale à une colère vive quand il percevait un manque d'attention. Ces deux étapes l'ont aidé à mettre des mots sur ce qui lui arrive, mais ce message déclenche quelque chose de plus rapide et plus convaincant : il convertit son ressenti en certitude.
+Il se souvient de la dernière fois où un silence de Chloé l'a renvoyé à ses peurs d'abandon. Douze jours plus tôt, sur un banc du parc, il avait reconnu ce vide qui le saisit après une rupture. Puis, en travaillant au bar quelques jours plus tard, il avait compris qu'il basculait d'une adoration totale à une colère vive quand il percevait un manque d'attention. Ces deux étapes l'ont aidé à mettre des mots sur ce qui lui arrive, mais ce message déclenche quelque chose de plus rapide et plus convaincant : il convertit son ressenti en certitude.
 
 Sans réfléchir, Hugo commence une partition mentale : "Si elle veut parler, c'est fini." La guitare dans son étui lui semble lourde, comme si chaque corde vibrait d'une accusation. Il évite d'appeler Théo parce qu'il sait qu'il pourrait tout noyer sous des hypothèses. Il ouvre un carnet et cherche à appliquer ce qu'il a appris ces dernières semaines, à savoir donner un nom à son émotion et repérer le tout ou rien. Mais la voix intérieure qui traduit la sensation en verdict est coriace : "Elle ne m'aime plus." Ce passage du ressenti à la vérité est exactement ce qu'on appelle le raisonnement émotionnel, et dans un couple fragile, il a l'habitude de déclencher des ruptures dramatiques.
 
@@ -65,19 +65,11 @@ Si les deux personnes veulent parler et que le cadre s'y prête, Hugo peut poser
 
 Engagez l'action en observant seulement ce qui est dit et fait, sans ajouter d'interprétations. Notez le résultat et comparez-le à l'hypothèse initiale. Au lieu d'envoyer un message accusateur, Hugo choisit d'écrire : "J'ai vu ton message, je suis disponible pour parler. Je veux t'écouter." Il teste ainsi si la réponse confirme son scénario ou non.
 
-## Évolution de Hugo face à ses émotions
+## Ce qu’elle voulait lui dire
 
-Ce soir, Hugo hésite entre envoyer un message accusateur et appliquer ses outils. Il respire et cherche un point d'appui dans ses réflexions. Il pense à la scène du parc du 11 mars où il avait reconnu ce vide, et au moment où il a senti l'idéalisation basculer en dévalorisation au bar le 18 mars. Ces étapes sont désormais des repères.
+Hugo écrit ce qu’il s’apprête à répondre à Chloé, puis retourne voir son message. Il y lit de nouveau « On doit parler. » Il se rend compte que le reste vient de lui. Il lui demande si elle peut lui dire de quoi il s’agit, parce que cette phrase l’a inquiété.
 
-Il se rend compte que sa progression n'est pas linéaire : identifier le splitting était une chose, mais ne pas agir sous l'impulsion de la peur en est une autre. Il choisit délibérément de ne pas sombrer dans le rejet brutal qu'il avait manifesté au bar en entendant le rire de Chloé. Au lieu de cela, il utilise sa capacité nouvelle à nommer ses états internes pour stabiliser son comportement.
-
-Il ouvre un carnet et remplit la double colonne. La peur de la rupture cohabite avec des preuves moins dramatiques. Il écrit un message simple et mesuré : "Ton message m'inquiète. Je suis là pour écouter quand tu veux parler. Peux-tu me dire si tu veux qu'on se voie ou qu'on s'appelle ?" Il appuie sur envoyer sans déclarer de verdict.
-
-Quand Chloé répond plus tard, ce n'est ni un adieu ni un événement extraordinaire. Elle explique qu'elle est stressée par une répétition et voulait organiser une conversation sur la gestion de leur temps ensemble. La réalité n'était pas celle que Hugo avait imaginée. Il ressent un soulagement. Il note dans son carnet ce contraste entre la croyance immédiate et la réalité.
-
-Hugo ne pense pas que tout soit réglé, mais il sent un changement dans sa manière d'agir. Auparavant, il aurait réagi sur l'instant, exprimé son sentiment d'abandon ou coupé le contact. Maintenant, il a essayé de remettre son émotion à l'épreuve de faits concrets. Sa dépendance affective et sa peur de l'abandon restent présentes, mais il dispose d'outils qui l'empêchent de transformer chaque alerte intérieure en une sentence définitive.
-
-Il en parle ensuite avec Théo et Samba. Théo remarque la différence : Hugo n'assène plus des conclusions, il partage des observations. Samba lui propose un petit rituel avant les soirées pour se recentrer sur les faits plutôt que sur les sentiments qui montent. Ces pratiques sont simples, concrètes et compatibles avec son quotidien. Hugo réutilise régulièrement le questionnement socratique. Ce n'est pas magique, mais c'est une progression constante. Ses chansons ne sont plus seulement des déclarations désespérées, elles deviennent des terrains où il peut nommer une peur sans la convertir en verdict.
+Chloé lui répond plus tard qu’elle voulait parler du programme de la répétition. Hugo est soulagé; il lui faut tout de même un moment avant de croire qu’il peut revenir à autre chose. En passant au studio, il raconte à Théo à quel point il s’était senti sûr de la rupture. Samba lui demande s’il a encore besoin d’un moment avant de commencer. Hugo dit oui.
 
 ---
 

@@ -51,13 +51,11 @@ Quand toute l'attention de Hugo se porte sur le choix de Samba, il peut revenir 
 
 Si l'échange paraît possible, Hugo peut attendre de pouvoir formuler une question simple : « J'ai été blessé d'apprendre ton départ. J'avais compris qu'on s'était engagés pour le tremplin. Tu l'avais compris de la même façon ? » Il peut aussi décider qu'il lui faut d'abord de la distance.
 
-## Hugo commence à poser les armes
+## La conversation après le tremplin
 
-Assis sur un flight-case dans l'ombre des coulisses, Hugo tente d'appliquer la méthode du recadrage. Il se remémore sa discussion avec son frère jumeau Théo, qui lui rappelait souvent que la réussite de l'un n'était pas l'échec de l'autre. Il réalise que son sentiment de trahison est un écho direct des exigences de son père, Alain, pour qui la victoire était la seule monnaie d'échange acceptable contre de l'affection. En comprenant cela, Hugo commence à voir Samba non plus comme un déserteur, mais comme un musicien qui trace son propre chemin, tout comme lui.
+Derrière la porte, Hugo demande à Samba quand il a donné sa réponse au groupe. Samba lui explique qu’il comptait l’annoncer après le tremplin. Hugo lui dit qu’il aurait préféré l’apprendre de lui. Ils n’ont pas le temps de discuter de ce que ça change pour leurs dates. Un bénévole annonce à Hugo qu’il va jouer.
 
-Il repense à sa session de travail sur le raisonnement émotionnel. Il reconnaît que ce qu'il ressent, cette trahison cuisante, n'est pas forcément la vérité absolue de la situation. Ce n'est pas parce qu'il se sent trahi qu'il l'est réellement. Cette distinction lui permet de desserrer l'étreinte sur le manche de sa guitare. Il se lève, rajuste ses bagues et inspire longuement, non pas pour chasser sa colère, mais pour lui faire une place sans la laisser diriger ses mains sur les cordes. Il se souvient de l'importance d'identifier et de nommer ses émotions, un outil qu'il a commencé à forger après sa rupture avec Chloé pour ne plus simplement subir ses tempêtes intérieures.
-
-Lorsqu'il entre enfin sur scène, la lumière des projecteurs l'éblouit. Il aperçoit Samba au fond de la salle, qui lui adresse un signe de tête discret. Au lieu de détourner le regard, Hugo répond par un bref hochement de tête. Il commence à jouer les premières notes de sa composition, non pas pour battre les autres ou pour prouver quelque chose à son père, mais pour honorer sa propre musique. Il n'est plus en guerre contre le monde entier, mais en accord avec sa propre vulnérabilité.
+Hugo entre seul sur scène pour son passage. Il aperçoit Samba au fond de la salle et hoche la tête. Il veut encore savoir comment ils vont s’organiser. Les premières notes de son morceau, elles, n’ont pas changé.
 
 ---
 

@@ -15,7 +15,7 @@ draft: false
 
 Le carton bloque la moitié du passage entre l’entrée et le séjour. Odile le déplace d’abord avec le pied, puis s’arrête en entendant un choc de vaisselle. Elle pose son sac et vérifie ce qu’il contient : deux bols, une écharpe, une pile de magazines et un petit vase dépareillé. Ces affaires de Françoise lui ont été confiées après un accord entre les proches. Elles lui appartiennent désormais, mais elle n’a pas encore décidé de la place qu’elle souhaite leur donner. Depuis plusieurs semaines, elle contourne le carton comme si cet emplacement provisoire était un choix sans conséquence.
 
-À soixante-quatorze ans, Odile sait qu’un appartement n’absorbe pas indéfiniment de nouveaux objets. Elle vit seule par choix et aime pouvoir retrouver facilement ses affaires. Elle n’a rien d’une personne indifférente aux souvenirs : la recette manuscrite de sa sœur se trouve dans son classeur de cuisine. Pourtant, ces magazines ne lui plaisent pas et elle n’utilise jamais ce genre de vase. Reconnaître ce manque d’intérêt lui donne l’impression désagréable de porter un jugement sur Françoise, morte il y a six mois.
+La recette manuscrite de Françoise a rejoint le classeur de cuisine. Odile connaît sa place. Pour les magazines, elle voit bien qu’elle les a posés près de l’entrée parce qu’aucun rayon ne lui vient à l’esprit. Elle prend le petit vase. Si elle l’avait trouvé dans une boutique, elle n’aurait pas hésité à le reposer. Maintenant, elle se demande à quel endroit Françoise le rangeait.
 
 Lucie vient lui rendre visite dans l’après-midi. Odile voudrait profiter de sa présence pour examiner quelques objets, mais redoute le conseil de tout photographier ou de tout donner. Elle-même change de préférence selon ce qu’elle touche. Le bol bleu lui rappelle un déjeuner précis. L’écharpe lui évoque seulement la difficulté de sa sœur à assortir les couleurs. Elle rit de ce souvenir, puis s’arrête : peut-on se défaire d’une chose qui permet encore de rire ? La question transforme chaque objet en obligation de mémoire.
 
@@ -29,7 +29,7 @@ Après un décès, décider du sort de certaines affaires peut rendre l’absenc
 
 L’objet ne fournit pas à lui seul une mesure de l’amour ou du manque. Garder beaucoup de choses ne prouve pas que l’on se souvient mieux, et laisser partir une chose ne prouve pas que l’on oublie. Cela ne veut pas dire que toute décision est légère ou sans regret. Il est possible de regretter un geste, de préférer attendre ou de devoir décider dans une situation contrainte. Pour Odile, chercher un choix suffisamment ajusté paraît plus réaliste que trouver la décision parfaite qui garantirait de ne jamais éprouver de peine en repensant au carton.
 
-## Comment les affaires d’un proche peuvent-elles devenir difficiles à trier ?
+## Un bol que chacune reconnaît autrement
 
 ### Plusieurs questions se cachent dans une seule décision
 
@@ -43,7 +43,7 @@ Ne pas décider tout de suite peut offrir une pause utile, surtout après des se
 
 Lucie souhaite le bol bleu pour des vacances chez sa tante ; Odile l’associe à une autre période. Leurs préférences ne forment pas un concours de fidélité. Elles peuvent décrire ce que chacune aimerait faire de l’objet et vérifier ce qui a déjà été convenu concernant sa propriété. Dans d’autres familles, un désaccord matériel ou juridique exige des informations et des interlocuteurs adaptés. Une technique émotionnelle ne tranche pas ces questions. Ici, Odile possède le choix, mais elle peut prendre en compte le souhait de sa fille sans être obligée de le satisfaire immédiatement.
 
-## Trois pistes pour décider sans faire de chaque objet une épreuve
+## Trier un carton à la fois
 
 ### 1. Examiner quelques choses avec des questions différentes
 
@@ -57,7 +57,7 @@ Odile peut raconter à Lucie le déjeuner associé au bol avant de décider où 
 
 Pour le bol, Odile propose d’attendre la fin de l’après-midi. Elle souhaite d’abord essayer une place dans son placard, puis réfléchir à l’idée de le confier à Lucie. Sa fille n’interprète pas ce délai comme une promesse de don. Elles précisent aussi qu’aucun sac destiné à être donné ne partira sans un dernier accord d’Odile. Ces limites évitent que l’aide au tri se transforme en décision prise pour elle. Une présence peut servir à porter, à écouter ou à rendre une question plus concrète ; elle n’a pas besoin d’accélérer. Si les émotions deviennent trop difficiles ou si le tri réveille d’autres préoccupations, s’arrêter et chercher un soutien approprié restent possibles. Le volume traité ne mesure pas la qualité de cette séance.
 
-## Odile choisit quelques destinations et laisse une question ouverte
+## Le vase attend dans le carton
 
 Elles déplient l’écharpe sur le canapé. Lucie propose de la mettre immédiatement avec les vêtements à donner. Odile découvre qu’elle a envie de l’essayer, moins pour son élégance que pour voir si elle lui tient chaud. L’accord est simple : elle la garde pour le moment, sans décider de la porter toute sa vie. Les magazines vont dans un sac distinct après vérification de quelques pages. Le vase reste en attente, parce qu’Odile se souvient qu’une amie de Françoise cherchait ce modèle. Elle notera la question au lieu de conserver indéfiniment tous les objets au cas où quelqu’un les désirerait.
 
@@ -65,7 +65,7 @@ Le bol bleu trouve une place, mais Odile n’a pas envie de l’utiliser. Elle l
 
 Une heure passe. Le carton n’est pas vide et la pièce n’est pas transformée. Elles ont pourtant dégagé le passage, attribué des destinations à quelques choses et repéré ce qui demande encore une information. Odile ressent un manque en voyant partir le bol, alors même que la décision lui convient. Elle n’y voit pas la preuve qu’elle aurait dû le garder. L’objet comptait ; son départ peut donc la toucher. Elle remercie Lucie d’avoir respecté les pauses et lui demande de l’aider à transporter le sac de magazines, sans ajouter d’autre carton au programme.
 
-Avant le dîner, Odile pose une chaise dans l’entrée pour remettre ses chaussures. Le passage libre est un bénéfice très ordinaire et immédiatement appréciable. Elle ne dit pas qu’elle fait enfin de la place au futur ni qu’elle laisse le passé derrière elle. Françoise lui manque toujours et certains objets restent difficiles à regarder. Aujourd’hui, elle peut simplement circuler plus facilement chez elle. Elle conserve le droit de ne pas trier davantage cette semaine, et celui de changer un emplacement si une solution ne lui convient plus.
+Avant le dîner, Odile installe une chaise dans l’entrée pour remettre ses chaussures. Le passage suffit pour la déplacer sans heurter le carton. Elle aperçoit encore le vase à l’intérieur. Elle tourne l’ouverture du carton vers le mur pour ne pas l’accrocher en sortant.
 
 ---
 

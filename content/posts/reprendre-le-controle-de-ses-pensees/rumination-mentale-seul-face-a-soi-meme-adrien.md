@@ -13,7 +13,7 @@ contexte: "seul(e) face à soi-même"
 draft: false
 ---
 
-Le curseur de la souris clignote sur l'écran sombre, une pulsation régulière qui rythme le silence de l'atelier. Adrien ajuste son casque, les premières notes d'une playlist tournent en boucle depuis trois heures, mais la musique ne parvient plus à étouffer le bruit de ses propres pensées. Il est deux heures du matin en ce 8 avril 2026, et le projet de logo pour son nouveau client reste vide. À la place des vecteurs et des courbes, un calque nommé Marina-test occupe le centre de son espace de travail. C'est un portrait aux traits nerveux, une esquisse qu'il retouche sans cesse, incapable de poser le stylet.
+À deux heures, Adrien a encore les yeux sur la liste des calques. Il lui faudrait tracer la première forme d’un logo. Le seul calque rempli porte le nom Marina-test. Il déplace la ligne du nez de quelques pixels, annule, puis refait le mouvement qu’il vient d’annuler. Il ne sait plus depuis combien de temps il retravaille ce dessin.
 
 Il revoit la scène de leur rupture, il y a un an déjà. Pourquoi a-t-elle dit que son manque d'ambition l'étouffait alors qu'il venait de quitter son CDI pour se lancer en freelance ? Il se demande s'il aurait dû être plus présent, ou peut-être moins. Les mêmes questions tournent, s'entrechoquent, reviennent au point de départ comme un disque rayé. La sensation de fraîcheur de l'air nocturne sur ses bras tatoués ne suffit pas à le ramener au présent. Il se sent prisonnier d'une boucle temporelle où chaque souvenir de Marina devient une preuve de sa propre inadéquation.
 
@@ -57,13 +57,15 @@ Vous pouvez faire une courte pause et choisir un détail auquel prêter attentio
 
 Adrien essaie de passer de « Pourquoi cela m’arrive ? » à « Qu’est-ce que je fais en ce moment ? » Il note quelques faits de la dernière heure, comme avoir ouvert son logiciel, tracé des lignes ou bu un verre d’eau. Si écrire entretient la boucle, il peut ranger son carnet.
 
-## Évolution du personnage et reprise de contrôle
+## Une forme avant d’aller dormir
 
-Adrien dépose son stylet sur la tablette graphique. Le silence de l'appartement ne lui semble plus aussi menaçant. Il observe le dessin de Marina et réalise que ce n'est pas un hommage, mais une ancre qui le retient dans le passé. Se souvenant de sa prise de conscience sur le raisonnement émotionnel quelques semaines plus tôt, il comprend que sa tristesse actuelle n'est pas une preuve qu'il est un raté, mais simplement une tristesse qui revient avec ses souvenirs de Marina.
+Adrien dépose son stylet sur la tablette graphique. Le silence de l'appartement ne lui semble plus aussi menaçant. Il observe le dessin de Marina. Il y a apporté trois corrections, qu’il saurait à peine retrouver. Se souvenant de sa prise de conscience sur le raisonnement émotionnel quelques semaines plus tôt, il comprend que sa tristesse actuelle n'est pas une preuve qu'il est un raté, mais simplement une tristesse qui revient avec ses souvenirs de Marina.
 
-Il se lève et se dirige vers la cuisine. Il boit un grand verre d'eau fraîche, se concentrant uniquement sur la sensation du liquide. C'est un geste simple, mais il le fait avec une intention totale. Il décide d'appliquer la technique de l'ajournement : il s'autorisera à repenser à cette rupture demain, lors de sa séance de sport avec Julien. Pour l'instant, la priorité n'est plus de comprendre Marina, mais de respecter son propre engagement professionnel.
+Il se lève et se dirige vers la cuisine. Il boit un grand verre d'eau fraîche, se concentrant uniquement sur la sensation du liquide. C'est un geste simple, mais il le fait avec une intention totale. Il écrit « demain » sur le bord d’une feuille et laisse le reste de la ligne vide. Il compte toujours rejoindre Julien pour leur séance de sport. Il aimerait pouvoir l’écouter parler un peu, lui aussi. Pour l'instant, la priorité n'est plus de comprendre Marina, mais de respecter son propre engagement professionnel.
 
-En revenant à son bureau, il ferme le fichier Marina-test sans l'enregistrer. Il ouvre une page blanche. Il ne cherche pas l'inspiration géniale, il cherche juste à tracer une forme, puis une autre. Son tatouage au poignet bouge au rythme de ses mouvements. Il n'est plus le petit garçon qui attend la validation de son père ou l'approbation d'une femme qui n'est plus là. Il est un homme de 31 ans, artisan de sa propre vie, qui apprend à ne plus être absorbé par les mêmes questions. La nuit est encore longue, mais elle lui appartient enfin.
+En revenant à son bureau, il ferme le fichier Marina-test sans l'enregistrer. Il ouvre une page blanche. Il ne cherche pas l'inspiration géniale, il cherche juste à tracer une forme, puis une autre. Son tatouage au poignet bouge au rythme de ses mouvements. Au premier trait, il repense à Marina. Il laisse le trait en place et règle l’épaisseur du suivant.
+
+Il laisse un repère sur le logo pour se souvenir de la prochaine correction et éteint l’écran. Dans la cuisine, il règle son réveil. La feuille où il a écrit « demain » reste sous le verre.
 
 ---
 
@@ -71,4 +73,4 @@ La rumination mentale seul face à soi-même est un défi quotidien, comme Adrie
 
 Comprendre ce qu'Adrien rejoue dans ses pensées lui laisse une question concrète : peut-il résoudre quelque chose maintenant ? Si la réponse est non, il peut essayer de revenir à une autre activité. Si les pensées reviennent, cela ne veut pas dire qu'il a échoué.
 
-Si vous sentez que ces pensées circulaires deviennent trop envahissantes, qu'elles altèrent votre sommeil ou votre travail, solliciter l'aide d'un professionnel de santé mentale est une démarche constructive. Un psychologue pourra vous accompagner pour déconstruire ces mécanismes et vous aider à retrouver une clarté d'esprit durable. Des solutions existent pour retrouver la paix intérieure.
+Si vous sentez que ces pensées circulaires deviennent trop envahissantes, qu'elles altèrent votre sommeil ou votre travail, solliciter l'aide d'un professionnel de santé mentale est une démarche constructive. Vous pouvez lui décrire à quel moment les pensées reviennent et ce qu’elles vous empêchent de faire.

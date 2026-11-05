@@ -13,11 +13,9 @@ contexte: "avec ses enfants"
 draft: false
 ---
 
-Le vent d'avril fait claquer légèrement le store de la boutique de glaces sur le port. Monique ajuste son cardigan en laine fine et sent le poids familier du collier de perles de sa mère contre son cou. Lola, sa petite-fille de sept ans, pointe avec enthousiasme un bac de sorbet à la mangue d'un jaune éclatant. Monique s'apprête à commander quand une sensation de brûlure familière lui remonte à la gorge, une voix intérieure, rugueuse comme celle de son père artisan, qui murmure que c'est bien trop cher pour de l'eau sucrée. Elle revoit son père, dans son atelier de l'Oise, rangeant chaque vis avec une économie de geste qui frisait l'ascétisme, lui répétant que le plaisir est un luxe que les gens sérieux ne s'offrent pas.
+Sur le port, Lola s’arrête devant le glacier. Monique s’arrête aussi, mais dit d’abord qu’elles n’ont pas faim. Lola lit quand même les parfums. Le café coûte le même prix que les autres ; Monique vérifie deux fois, comme elle a vérifié la facture de la chaudière.
 
-La retraitée hésite, sa main se serrant sur son porte-monnaie en cuir. Elle se souvient de ses angoisses de mars, quand elle triait ses factures avec la peur irrationnelle de manquer de ressources malgré ses comptes à l'équilibre. Aujourd'hui, face à l'impatience joyeuse de Lola, cette peur se transforme en une injonction de sévérité. Monique sent qu'elle est sur le point de refuser ce plaisir à l'enfant, non pas par nécessité, mais par une sorte de loyauté invisible envers une lignée qui a toujours privilégié la survie sur la vie. Elle repense à cette tasse de thé refroidie qu'elle fixait pendant des heures après le départ de Jean-Claude, prisonnière d'une impuissance qui l'empêchait de s'autoriser le moindre mouvement vers la vie.
-
-Monique regarde les yeux pétillants de Lola. Elle peut dire non pour des raisons de budget, ou dire oui parce que ce plaisir est à sa portée. Elle reconnaît surtout une phrase familière : dans sa famille, s’offrir quelque chose par simple plaisir avait souvent mauvaise presse.
+Sa mère portait ce même collier de perles, et rappelait volontiers que ce qu’on achète pour le plaisir pouvait toujours attendre. Monique ne sait plus qui a commencé à le dire dans la famille. Elle a repris la phrase avec ses enfants. Au moment où elle va la répéter à Lola, elle regarde les prix, compte ce qu’elle a dans son porte-monnaie et lui demande ce qu’elle prendrait.
 
 ## Définition des transmissions transgénérationnelles
 
@@ -53,13 +51,11 @@ Cette technique de visualisation demande de repérer le moment précis où une v
 
 Monique peut écrire une lettre qu’elle garde pour elle, en distinguant les habitudes familiales qui lui sont utiles de celles qu’elle souhaite changer. L’exercice ne suppose ni dette à rendre ni pacte inconscient à rompre.
 
-## Évolution de Monique et libération du passé
+## Café pour Monique, mangue pour Lola
 
-Dans la file d'attente du glacier, Monique respire l'odeur sucrée des gaufres chaudes et le parfum iodé du port. Elle ne fixe plus son porte-monnaie, mais le profil rieur de Lola. Elle se souvient de sa prise de conscience lors de sa visite au cimetière, quand elle avait compris que sa tendance à anticiper la déception était un bouclier devenu inutile. Elle sent que son collier de perles, autrefois symbole d'un poids étouffant, n'est plus qu'un simple bijou.
+Monique commande une glace au café et un sorbet mangue pour Lola. « Je croyais que tu n’avais pas faim », dit Lola. « J’ai changé d’avis. » Elles trouvent un banc sans dossier et s’assoient face aux bateaux.
 
-Elle commande deux boules de sorbet mangue pour Lola et une glace au café pour elle-même. C'est un acte de rébellion contre des décennies de privations inutiles. En tendant le cornet à sa petite-fille, Monique sent un lien nouveau se tisser. Elle n'est plus la gardienne d'un temple de douleur, mais une femme qui choisit de savourer le présent. Elle pense à Isabelle et François, et se promet de leur parler de ces découvertes, non pas pour les accuser, mais pour les autoriser, eux aussi, à vivre sans ces ombres.
-
-Elle s'assoit sur un banc de bois face aux bateaux qui tanguent doucement. En dégustant sa glace, elle réalise que son deuil pour Jean-Claude change de couleur. Il n'est plus cette chape de plomb qui l'isolait, mais une partie de son histoire qu'elle peut désormais porter sans se sentir coupable d'être encore là. Monique regarde Lola se tacher le bout du nez avec la mangue et rit franchement. Ce son n'avait pas résonné depuis longtemps, mais il semble aujourd'hui s'installer durablement dans son quotidien.
+Le café a un goût plus amer qu’elle ne pensait. Elle en donne un peu à Lola, qui lui rend la cuillère aussitôt. Monique garde son collier. Elle se demande si sa mère aurait choisi le même parfum, puis demande à Lola de lui passer la serviette en papier.
 
 ---
 

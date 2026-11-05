@@ -13,7 +13,7 @@ episode: 5
 draft: false
 ---
 
-La remarque occupe trois lignes dans le compte rendu : plusieurs lecteurs confondent deux champs de la version proposée. Baptiste la relit comme si elle avait dû lui sauter aux yeux dès le premier jour. Le support documentaire qu’il préparait n’a pas été adopté en l’état. Une partie du travail reste utile, mais cette conclusion ne l’empêche pas de penser qu’il aurait pu éviter tout l’essai. Il agrandit le document, regarde les intitulés et ne parvient plus à les voir autrement que comme une erreur évidente.
+La remarque occupe trois lignes dans le compte rendu : plusieurs lecteurs confondent deux champs de la version proposée. Baptiste prend son exemplaire de l’essai et place les trois lignes à côté des intitulés. Une fois la confusion signalée, il a du mal à retrouver ce qu’il voyait avant. Le support documentaire qu’il préparait n’a pas été adopté en l’état. Une partie du travail reste utile, mais cette conclusion ne l’empêche pas de penser qu’il aurait pu éviter tout l’essai. Il agrandit le document, regarde les intitulés et ne parvient plus à les voir autrement que comme une erreur évidente.
 
 À trente-sept ans, le coordinateur de maintenance sait pourtant que le projet était limité. Les échanges portaient sur des exemples fictifs et aucune procédure réelle n’a été modifiée. L’essai avait précisément pour fonction de faire apparaître des problèmes de compréhension. Il n’y a pas de conséquence technique à réparer dans les interventions. Il reste du temps mobilisé, des attentes à expliquer et une déception qu’il trouve disproportionnée. Baptiste voudrait apprendre de ce qui s’est passé sans reconstruire après coup une histoire où toutes les informations auraient été présentes depuis le début.
 
@@ -57,7 +57,7 @@ Baptiste peut poser trois questions différentes : la version retenue répondait
 
 Baptiste décide de préparer avec Patricia une courte liste des usages à consulter avant une autre proposition. Cette action répond à l’omission repérée. Il ne promet pas de ne plus jamais oublier une perspective ni de consulter toutes les personnes possibles pour chaque document. Ils doivent définir un cadre réaliste selon le projet. Une fois cette correction notée et la discussion prévue, Baptiste peut cesser de rouvrir le fichier pour chercher un sentiment de pardon complet. Le regret peut rester présent sans nécessiter une nouvelle analyse identique. Si la relecture devient envahissante ou si elle s’accompagne d’une forte dévalorisation, un soutien professionnel peut aider à examiner ce cycle, tout en conservant les responsabilités réelles à traiter.
 
-## Baptiste garde une omission précise et plusieurs raisons valables
+## Ce qu’il savait avant l’essai
 
 Il présente à Patricia ce qu’il a retrouvé. Elle confirme que l’essai limité avait pour fonction d’éclairer les points ouverts. Elle considère aussi que certains usages auraient dû être représentés plus tôt. Baptiste peut entendre cette remarque sans devoir choisir entre se défendre entièrement et tout prendre sur lui. Ils précisent les personnes à associer au prochain point, avec les contraintes de disponibilité. La correction crée un travail supplémentaire. Elle n’annule pas le temps déjà consacré, mais donne une direction plus utile que l’idée générale de mieux réfléchir la prochaine fois.
 

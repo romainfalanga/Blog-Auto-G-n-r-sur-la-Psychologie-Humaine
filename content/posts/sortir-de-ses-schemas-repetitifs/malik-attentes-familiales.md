@@ -13,7 +13,7 @@ tags: ["attentes familiales", "limites", "autonomie", "loyauté", "Malik"]
 draft: false
 ---
 
-Les voix se superposent dans l’appel familial. Malik distingue une proposition de date, puis une autre, avant d’entendre que le premier dimanche du mois convient à tout le monde. Négocier les attentes familiales commence pour lui par une correction embarrassante : il travaille certains dimanches et ne peut pas promettre sa présence à ce rendez-vous régulier. Le silence qui suit sa phrase lui paraît plus long que l’échange lui-même.
+Dans l’appel familial, Malik reconnaît la voix de Mariama derrière celles de deux cousins. Quelqu’un propose le premier dimanche du mois et un autre répond que ça convient à tout le monde. Malik consulte ses horaires de dépôt. « Pas toujours à moi », dit-il, mais une autre voix part déjà sur l’heure du rendez-vous. Il attend qu’elle se taise pour dire les deux dimanches où il travaille.
 
 Mariama souhaite rassembler les nouvelles de chacun et éviter les appels dispersés. Malik apprécie cette intention. Un cousin répond cependant que, lorsque l’on tient à être là, on trouve le temps. Malik ressent la même envie de se justifier que devant un horaire imposé ailleurs. Il prépare le détail de toutes ses prises de poste, puis se demande pourquoi son affection doit passer un examen de calendrier.
 
@@ -57,7 +57,7 @@ Le groupe peut répartir cette tâche ou accepter qu’un appel ne rassemble pas
 
 Malik peut proposer une idée sans devenir responsable de sa réussite. Les autres gardent leur rôle dans la confirmation, la ponctualité et l’expression de leurs limites. Une négociation plus équitable commence aussi par ne pas laisser la même personne porter tout le travail qui permet à l’accord d’exister.
 
-## 3 techniques pour négocier sans promettre l’impossible
+## Une date que chacun peut accepter ou refuser
 
 ### 1. Séparer le besoin de la forme proposée
 

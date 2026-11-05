@@ -13,11 +13,11 @@ contexte: "dans l'intimité et la sexualité"
 draft: false
 ---
 
-Priya, 33 ans, médecin généraliste en cabinet de ville, s'installe sur le bord de son lit, le cœur un peu lourd. Elle vient de passer un moment intime avec l'homme qu'elle fréquente depuis quelques semaines, mais au lieu de ressentir une connexion chaleureuse, elle se sent étrangement distante, presque vide. Elle évite son regard, joue nerveusement avec la couverture, et murmure quelques mots pour écourter la soirée. Ce même schéma se répète à chaque relation épisodique, et Priya ne comprend pas pourquoi elle se ferme ainsi, comme si une barrière se dressait entre elle et l'autre. Depuis sa relation toxique avec Damien à 25 ans, un manipulateur qui a détruit sa confiance, elle fuit l'intimité tout en la désirant secrètement.
+Priya est assise au bord du lit, son verre entre les mains. Il vient de lui demander s’il peut rester. Elle répond qu’elle travaille tôt. C’est vrai, mais elle sait qu’il ne lui a pas demandé à quelle heure commence sa journée.
 
-Dans sa tête, une petite voix lui souffle qu'elle devrait profiter de ces instants de tendresse, mais une autre, plus forte, la pousse à garder ses distances, à ne pas trop s'engager émotionnellement. Priya ressent un mélange de culpabilité et de frustration. Elle aimerait pouvoir s'abandonner, s'ouvrir, mais elle a peur. Cette peur l'incite à désactiver ses émotions et à se protéger en se coupant de l'autre.
+Elle a trente-deux ans et fréquente cet homme depuis quelques semaines. Quand il se relève pour chercher son pull, elle aimerait qu’il attende encore un instant. Elle voudrait aussi qu’il rentre. Avec Damien, autrefois, une hésitation suffisait pour qu’il décide à sa place. Elle se demande si ce souvenir pèse sur sa réponse ce soir. Elle ne sait pas encore lequel de ses deux souhaits l’emporte.
 
-Priya cherche un vocabulaire pour décrire ce qu’elle ressent. Le modèle de l’attachement adulte lui donne une piste. Une soirée ne permet pas de déterminer un style ni d’en établir la cause.
+Il retrouve le pull sur le dossier de la chaise. « Attends », dit-elle, puis elle lui demande de poser le verre qu’elle tient depuis tout à l’heure. C’est la seule chose qu’elle sache lui demander pour le moment.
 
 ## Qu'est-ce que l'attachement évitant-dédaigneux (désactivation du système) ?
 
@@ -64,20 +64,12 @@ Mettre des mots sur ses émotions aide à les apprivoiser.
 - Chaque jour, notez une situation où vous avez ressenti une émotion forte, ce que vous avez fait, comment vous auriez préféré réagir.
 - Cela développe la conscience de soi et prépare à des relations plus authentiques.
 
-## Le chemin de Priya vers plus d'intimité
+## Il retrouve son pull
 
-Priya décide d’initier ces exercices, commençant par la pleine conscience corporelle. Chaque soir, elle s'accorde cinq minutes pour écouter son corps et ses émotions après un moment intime. Progressivement, elle remarque que ses sensations deviennent plus claires, moins enfouies.
+Il prend le verre et le laisse sur la table de nuit. Priya lui dit qu’elle a besoin de passer le reste de la soirée seule. « Tu veux que je te laisse ? » Il attend sa réponse avant de ramasser ses affaires. Elle dit oui.
 
-Elle ose aussi partager ses besoins avec son partenaire. Lorsqu'elle sent la peur monter, elle exprime son besoin de temps ou de douceur. À sa grande surprise, son partenaire accueille ces confidences avec patience, ce qui lui donne un sentiment de sécurité inédit.
+Plus tard, Priya note la question exacte dans son carnet. Elle ne sait pas si elle aura envie d’en parler à leur prochain rendez-vous. En fermant le cahier, elle garde la différence entre la phrase qu’elle a dite pour le faire partir et celle qui disait ce dont elle avait besoin.
 
-Enfin, le journal devient un allié précieux pour Priya. En écrivant ses ressentis, elle comprend mieux ses réflexes de fuite et apprend à accueillir ses émotions sans jugement. Ces petits pas lui ouvrent la voie d’une intimité plus riche et plus douce.
+## Si la situation reste difficile
 
-## Conclusion : Vers une nouvelle relation à soi et aux autres
-
-Priya peut trouver une façon de parler de ses préférences et des moments où elle hésite. Le vocabulaire de l’attachement peut l’aider à formuler des questions ; il ne décide pas de la façon dont elle doit vivre sa sexualité.
-
-Il ne s’agit pas d’un changement immédiat, mais d’un cheminement patient vers plus de confiance, d’authenticité et de tendresse. Chaque petit pas compte, chaque émotion accueillie est une victoire.
-
-Si vous vous sentez bloqué(e) ou profondément en souffrance, n’hésitez pas à consulter un professionnel, un psychologue ou un thérapeute, qui saura vous accompagner avec bienveillance.
-
-Vous méritez une intimité où vous vous sentez libre, aimé(e) et pleinement vous-même. Priya est un personnage de fiction : sa manière d’avancer illustre une possibilité. Prenez ce temps pour vous découvrir, à votre rythme, et laissez éclore une nouvelle manière d’aimer.
+Un modèle d’attachement peut aider à formuler des questions. Chacun reste libre de choisir le degré d’intimité qui lui convient. Si la situation cause une souffrance durable, en parler à un psychologue peut être une possibilité.

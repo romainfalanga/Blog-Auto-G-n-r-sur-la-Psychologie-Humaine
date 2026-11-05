@@ -15,7 +15,7 @@ draft: false
 
 La porte coupe-feu se referme derrière Salomé avec un claquement qui couvre la fin d’une phrase. Elle vient repérer la salle où elle doit présenter son travail de luthière en soirée. Dans le couloir, un participant tient des propos méprisants sur les personnes qui « compliquent tout avec le genre ». Salomé ne sait pas s’il connaît sa présentation publique. Elle sait en revanche qu’elle n’a plus envie d’attendre seule dans cette pièce isolée après la fermeture du hall.
 
-À vingt-neuf ans, elle est célibataire, non binaire et choisit les accords féminins. Elle partage son atelier avec Gaspard et prépare une rencontre artisanale depuis plusieurs semaines. Elle accepte de mentionner son identité dans sa fiche, sans ouvrir toute sa vie aux questions. Aujourd’hui, la sécurité du contexte devient une question concrète. Elle entend un commentaire hostile et évalue ce qu’il change pour sa participation.
+Salomé connaît l’ordre de la démonstration : préparer les outils, faire écouter une note, changer le réglage, faire écouter à nouveau. Elle a accepté qu’on mentionne son identité dans le programme de cette rencontre. Dans le couloir, la remarque qu’elle vient d’entendre la fait hésiter à déballer ses outils à l’emplacement prévu.
 
 La personne chargée de l’accueil lui indique où poser ses outils, puis repart vers un autre étage. Salomé pourrait installer sa table comme prévu et attendre de voir. Elle pourrait aussi annuler immédiatement. Elle ne veut ni minimiser ce qu’elle vient d’entendre ni transformer un commentaire en certitude sur toutes les personnes présentes. Entre ces conclusions, il lui manque des informations pratiques : qui reste sur place, où se trouve l’équipe et peut-elle travailler dans le hall ouvert ?
 
@@ -81,13 +81,13 @@ Pendant la séance, elle revient à son activité autant que possible. Elle mont
 
 Après, elle fait un bilan court sur les conditions et les comportements. Le hall lui convient mieux ; l’accueil reste présent ; aucun commentaire ne lui est adressé pendant la démonstration. Elle peut garder aussi le coût du repérage initial et décider de demander ces informations plus tôt la prochaine fois. L’absence d’incident ne prouve pas que sa prudence était inutile. Elle montre seulement comment cette soirée se déroule avec les aménagements choisis.
 
-## Salomé participe dans un cadre qu’elle peut quitter
+## La table dans le hall
 
 La table est déplacée près d’un panneau d’exposition, à distance du passage. Salomé installe un tissu sous l’instrument et retrouve l’ordre de sa démonstration. Elle reste moins à l’aise que dans son atelier. Elle peut néanmoins parler de ce qu’elle connaît sans consacrer toute son attention au couloir. Le changement de lieu ne résout pas les propos entendus, mais il répond à un besoin précis de cette participation.
 
 Un visiteur lui demande comment elle apprend à entendre une différence de son. Salomé répond avec un exemple et lui propose d’écouter deux notes. Cette conversation professionnelle reprend une place réelle dans la soirée. Elle n’efface pas la question de l’accueil. Salomé transmettra un retour factuel à l’organisation si elle le souhaite, en distinguant le commentaire initial de la manière dont l’équipe répond à sa demande.
 
-Au départ, elle envoie le message prévu à Gaspard et rentre avec sa caisse. Elle ne conclut ni qu’elle doit s’exposer davantage ni qu’elle doit éviter tous les lieux nouveaux. Elle garde un apprentissage situé : vérifier les conditions, demander un aménagement et conserver une sortie lui donne davantage de choix. La sécurité reste une affaire de contexte et d’appuis, pas une qualité qu’elle aurait réussi ou échoué à produire seule.
+Une fois la caisse fermée, Salomé envoie à Gaspard le message qu’elle lui avait promis. Elle attend de retrouver la rue pour lui écrire ce qui lui a déplu dans le couloir. Dans le bus, la main posée sur la poignée de la caisse, elle repense à l’oreille attentive du visiteur qui avait voulu réentendre la seconde note.
 
 ---
 

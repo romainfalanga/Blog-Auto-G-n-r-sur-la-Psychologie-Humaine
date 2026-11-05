@@ -13,13 +13,11 @@ contexte: "en couple"
 draft: false
 ---
 
-Le studio de répétition est plongé dans une pénombre bleutée, saturée par l'odeur de poussière chaude des amplificateurs. Hugo ajuste la sangle de sa guitare, les doigts machinalement posés sur les cordes métalliques. À sa droite, Chloé termine de régler son micro. Elle se tourne vers lui et lui adresse un regard d'une douceur désarmante, une attention qui, il y a encore quelques semaines, aurait suffi à le transporter. Mais aujourd'hui, 02 avril 2026, ce signe d'affection agit comme un signal d'alarme. Une pensée glaciale traverse l'esprit de Hugo : ce bonheur est trop calme, c'est forcément le prélude d'une catastrophe.
+Chloé termine de régler son micro. Depuis leur reprise de contact, ils ont parlé du bar puis de la répétition, et Hugo a cru par moments qu’ils se retrouveraient. Quand elle lui sourit, il pense au contraire que ça ne peut pas durer. Il se penche sur sa pédale et lui répond à peine.
 
-Il se revoit sur ce banc de parc en mars dernier, terrassé par le vide après une énième rupture avec elle. Il se souvient aussi de cette soirée au bar où il avait basculé dans le rejet total simplement parce qu'elle riait avec d'autres. Même s'il a appris à identifier son mécanisme de raisonnement émotionnel lors de leur dernière explication, le réflexe est là, tapi dans l'ombre. Au lieu de rendre son sourire à Chloé, Hugo détourne les yeux et se concentre sur sa pédale d'effet. Il devient brusquement froid, répondant par monosyllabes quand elle lui propose d'attaquer le nouveau morceau.
+Chloé lui demande si elle peut s’approcher. Hugo prétend qu’il doit s’accorder. Il se souvient qu’elle lui a expliqué quelques jours plus tôt de quoi parlait son message. Cette fois, il ne demande rien. Il s’applique à paraître déjà ailleurs.
 
-Chloé fronce les sourcils, déstabilisée par ce changement de température soudain. Elle tente une approche, pose une main sur son bras, mais il se dégage prétextant un accordage imprécis. Dans sa tête, Hugo est déjà en train de construire un mur. Il se dit qu'en s'éloignant le premier, il souffrira moins quand elle finira par se lasser de lui. C'est un scénario qu'il connaît par cœur, une musique de fond qui tourne en boucle depuis son enfance avec son père Alain, où chaque fausse note pouvait signifier la perte de l'affection paternelle. Cette fois, il ne s'agit pas d'un appel manqué de son frère Théo qu'il ignore pour s'isoler, mais d'une mise à distance active de la personne qu'il aime le plus, comme si saboter le présent était sa seule manière de gérer l'angoisse du futur.
-
-L'air devient lourd entre eux. Samba, à la batterie, donne le décompte, mais Hugo joue avec une agressivité inhabituelle. Il sabote la mélodie, crée une dissonance volontaire. Il est prisonnier de ce cycle où l'intimité déclenche une terreur viscérale. Pour lui, être aimé, c'est attendre le moment où l'autre partira. Alors, pour reprendre le contrôle, il crée lui-même l'instabilité qu'il redoute tant.
+Samba donne le décompte. Hugo entre trop fort et joue sur la voix de Chloé. Au deuxième passage, Samba s’arrête. Ils ont réservé la salle pour une heure et viennent de perdre un morceau entier.
 
 ## Qu’est-ce que le schéma d’abandon et d’instabilité ?
 
@@ -55,13 +53,11 @@ Quand l'inquiétude prend toute la place, Hugo peut choisir un appui qui ne dép
 
 Si chacun souhaite parler, Hugo peut dire ce qu'il ressent et demander une précision. Chloé peut répondre, demander du temps ou poser une limite. Dire sa peur n'autorise pas à réclamer des garanties ni à vérifier sans cesse où l'autre se trouve.
 
-## Hugo choisit de poser les armes
+## Samba arrête la répétition
 
-La répétition s'arrête sur une fausse note de guitare. Le silence qui suit est lourd, presque palpable dans la petite pièce. Hugo sent ses muscles crispés, son regard fixe le sol. Il voit les chaussures de Chloé s'approcher. Il sait qu'il est à la croisée des chemins, là où d'habitude il lancerait une remarque sarcastique pour provoquer le départ de la jeune femme et ainsi confirmer sa solitude.
+Hugo pose la guitare. Il aurait envie de dire que Chloé l’a déstabilisé. Il dit plutôt qu’il a joué par-dessus sa voix et demande si elle veut reprendre. Chloé répond qu’elle a besoin de sortir un moment. Samba lui laisse la place de passer sans donner un nouveau décompte.
 
-Il se souvient de ce qu'il a appris sur le splitting et le vide. Il comprend que cette envie de fuir, cette froideur qu'il s'impose, est son héritage. C'est Alain qui parle à travers ses doigts crispés sur le manche de la guitare. Il prend une inspiration lente, notant la texture du bois de l'instrument sous ses doigts. Il décide, pour la première fois, de ne pas suivre le scénario habituel. Il ne veut plus être celui qui sabote sa propre musique. Il se rappelle ses efforts récents pour ne plus transformer ses émotions en vérités absolues et choisit de tester cette nouvelle solidité.
-
-Hugo relève la tête. Chloé ne semble pas en colère, mais simplement triste, déroutée. Il ne lui sourit pas encore, c'est trop tôt, mais il ne détourne pas le regard. Il lâche enfin sa guitare pour la poser sur son support. Il s'approche d'elle et murmure, la voix un peu enrouée, qu'il a eu peur et qu'il a besoin d'un instant pour se retrouver. Ce n'est pas un changement radical, mais c'est une fissure dans son armure. Il commence à comprendre que l'instabilité n'est pas une fatalité, mais une protection dont il n'a plus besoin pour survivre.
+Hugo reste dans le studio. Il ne sait pas encore s’il va expliquer à Chloé pourquoi il s’est fermé. Il peut en revanche reprendre la partie avec Samba, au volume qu’ils avaient convenu, si son ami a encore envie de jouer.
 
 ---
 

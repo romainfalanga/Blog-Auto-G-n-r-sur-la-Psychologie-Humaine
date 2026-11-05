@@ -43,7 +43,7 @@ Dans un groupe, les tâches vont facilement vers celle qui répond vite, connaî
 
 Une aide ponctuelle ne compense pas forcément un manque structurel. Si le transport doit être assuré à chaque rencontre, il faut prévoir les responsabilités et les moyens correspondants. Si les allées excluent certaines personnes, leur demander de venir accompagnées ne résout pas à lui seul l’accès. L’entraide peut faire émerger ces questions et soutenir une demande institutionnelle. Elle ne devrait pas dissimuler les besoins en mobilisant toujours les mêmes proches. Un projet peut être réduit ou reporté lorsque les conditions ne sont pas réunies, même si toutes les personnes présentes sont de bonne volonté.
 
-## Trois gestes pour rendre l’appui utilisable
+## Faire apparaître qui peut faire quoi
 
 ### 1. Faire l’inventaire des besoins avant celui des volontaires
 
@@ -63,11 +63,11 @@ Les disponibilités varient. Une contribution réaliste aujourd’hui peut deven
 
 Quand l’isolement, la difficulté à demander ou le sentiment d’être indispensable deviennent très coûteux, un psychologue ou un autre professionnel peut accompagner la réflexion. Des appuis sociaux ou associatifs peuvent aussi être adaptés aux besoins matériels. Les rôles sont complémentaires. Un proche peut lire une page ; il n’a pas à remplacer un service ou à traiter une souffrance persistante. Reconnaître les limites d’une ressource ne la dévalorise pas. Cela permet de l’utiliser pour ce qu’elle peut réellement apporter et de chercher ailleurs ce qui manque encore.
 
-## Élise n’est plus seule au centre de la feuille
+## Le plan reste chez Mireille
 
 Le compte rendu de la visite contient trois noms et plusieurs questions ouvertes. Élise relit ses engagements une seule fois avant de l’envoyer, en gardant le petit repère essayé avec le courriel précédent. Elle ressent encore l’envie de rajouter qu’elle s’occupera des détails oubliés. Elle retire cette phrase trop large et propose plutôt un point dans deux jours. Ce n’est pas un refus d’aider. Elle cesse de promettre à l’avance un travail dont personne ne connaît encore le contenu. La demande de bacs reste une piste à documenter, avec un financement à discuter.
 
-Le samedi, Élise revient au jardin sans carnet professionnel. Mireille lui donne une information sur la prochaine réunion, puis la laisse s’occuper de sa parcelle. Élise doit se retenir de reprendre immédiatement le dossier. Elle apprécie pourtant de retrouver sa place de participante. Elle ne se sent pas détachée du projet ; elle remarque qu’elle peut y contribuer sans l’incarner entièrement. Cette distinction reste fragile, surtout lorsque les délais approchent. Le point prévu et les tâches nommées lui offrent un soutien collectif auquel revenir, au lieu d’une promesse de tout faire tenir par sa seule disponibilité.
+Lors d’un autre passage au jardin, Élise revient sans le dossier. Quand Mireille lui rappelle la prochaine réunion, elle est tentée de vérifier avec elle toute la liste. Elle lui demande seulement qui gardera le plan. Mireille l’a déjà rangé dans l’abri. Élise retourne à sa parcelle, où il reste des tuteurs à planter.
 
 ---
 

@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-L’imprimante avale une feuille de travers et recrache un numéro de dossier. La charge d’organisation de Vincent ne tient pas dans ce papier. Pour obtenir une réparation de la porte commune, il faut décrire le défaut, trouver le bon interlocuteur, connaître le délai annoncé, puis vérifier si quelqu’un intervient. La porte résiste au passage de Cédric. À cet obstacle concret s’ajoute le travail de maintenir la demande en mouvement.
+L’imprimante avale une feuille de travers et recrache un numéro de dossier. Vincent le pose près du clavier, au-dessus du courriel du gestionnaire. À lire l’objet du message, on croirait que la réparation est déjà prévue. Pour obtenir une réparation de la porte commune, il faut décrire le défaut, trouver le bon interlocuteur, connaître le délai annoncé, puis vérifier si quelqu’un intervient. La porte résiste au passage de Cédric. À cet obstacle concret s’ajoute le travail de maintenir la demande en mouvement.
 
 Cédric propose de contacter le gestionnaire. Vincent répond qu’il s’en occupe déjà, puis se rappelle les appels qu’il garde en tête depuis plusieurs jours. Il voudrait partager cette tâche, mais lui transmettre seulement le numéro ne suffirait pas. Cédric ne sait pas quelles réponses Vincent reçoit ni ce qui reste incertain. « Est-ce que tu peux me montrer où ça en est ? » demande-t-il.
 
@@ -77,7 +77,7 @@ Quand le service répond, Cédric actualise la prochaine étape. Vincent n’a p
 
 Ils définissent enfin ce qui fermera la tâche : une réparation vérifiée dans les conditions d’usage concernées, et non la simple annonce d’une intervention. Si le problème persiste, ils notent ce qui ne fonctionne pas et la suite souhaitée. Le dossier ne se ferme pas pour obtenir artificiellement une liste vide, mais il ne reste pas ouvert après sa résolution par habitude de contrôle.
 
-## Vincent commence à partager ce qu’il gardait en tête
+## Transmettre le dossier de la porte
 
 Cédric lit la dernière réponse et relève une ambiguïté que Vincent ne remarque pas : le message évoque le réglage de la porte sans préciser la difficulté signalée. Il demande une clarification. Vincent ressent l’envie de corriger la formulation, puis la relit. Elle décrit bien le problème et n’exige aucune modification pour ressembler exactement à la phrase qu’il aurait écrite.
 

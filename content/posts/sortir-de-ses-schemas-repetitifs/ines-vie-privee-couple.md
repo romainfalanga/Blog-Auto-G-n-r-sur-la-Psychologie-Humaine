@@ -15,7 +15,7 @@ draft: false
 
 Le carnet vert reste ouvert entre la corbeille de linge et un paquet de graines. Inès le repère en traversant le séjour, puis le retourne avant que Clara n’arrive avec deux assiettes. Le geste est rapide, presque défensif. Elle n’écrit rien contre sa compagne. Elle note seulement des impressions de lecture et des pensées inachevées qu’elle préfère garder privées. Pourtant, ce besoin lui paraît soudain difficile à défendre dans leur appartement commun.
 
-Clara demande si elle vient de cacher quelque chose. Le ton est curieux plutôt qu’accusateur, mais Inès entend déjà le début d’une explication interminable. Bibliothécaire de trente ans, en couple avec Clara depuis trois ans, elle sait désormais mieux parler de ses limites intimes. Elle ne s’attend pas à retrouver une hésitation semblable devant un carnet qui contient une liste de mots, une contrariété de travail et une description de pluie sur des stores.
+Clara lui demande si elle vient de cacher quelque chose. Inès se prépare à expliquer chaque page. Elle n’y a pourtant écrit qu’une contrariété du travail, une liste de mots et quelques lignes sur la pluie contre les stores. Elle hésite à répondre autrement qu’en tendant le carnet.
 
 « C’est mon carnet, je n’ai pas envie qu’il soit lu », dit-elle. Clara répond qu’elle ne comptait pas le lire. Puis elle ajoute qu’elle aurait aimé connaître la contrariété de travail, puisque Inès semble préoccupée depuis son retour. La conversation rassemble deux questions différentes : Clara souhaite comprendre son état ; Inès souhaite garder le choix de la manière et du moment où elle en parle. Aucune de ces questions ne se résout en donnant accès aux pages.
 
@@ -51,7 +51,7 @@ Inès envisage de laisser Clara lire une seule page pour prouver qu’elle ne ca
 
 Cela ne signifie pas que tout partage supplémentaire est mauvais. Inès peut lire un passage parce qu’elle le souhaite, puis garder les autres pour elle. Le critère utile est la liberté ressentie et réelle : peut-elle refuser sans être punie, interrogée indéfiniment ou accusée ? Peut-elle changer les règles d’accès ? Observer ces conditions aide davantage que compter les informations révélées et les comparer à une norme supposée du couple transparent.
 
-## Trois techniques pour définir une vie privée partageable
+## Ce que le carnet ne doit pas expliquer
 
 ### 1. Nommer trois espaces concrets plutôt qu’une philosophie
 
@@ -77,13 +77,13 @@ Inès note qu’elle aimerait entendre : « Je l’ai ouvert en pensant que c’
 
 Si la frontière est franchie volontairement ou à répétition, une promesse ne suffit pas : les intrusions doivent cesser. Si votre téléphone est surveillé ou que vous craignez des représailles, cherchez d’abord un appui spécialisé depuis un moyen de communication sûr. Modifier un accès en présence d’un contrôle peut alerter la personne qui l’exerce ; vous pouvez préparer cette décision avec cet appui. Cet exercice ne demande jamais de rendre ses données plus visibles pour prouver qu’une intrusion n’aurait pas dû avoir lieu.
 
-## Inès pose le carnet sans préparer une défense
+## Les graines ont germé
 
 Le dimanche suivant, Inès écrit pendant que Clara rempote les graines devenues de petites pousses. La terre laisse une odeur humide dans la pièce. Inès termine une phrase, referme le carnet et le pose sur l’étagère convenue. Elle n’explique pas son contenu. Clara demande si elle veut tenir un pot pendant qu’elle répartit les racines, et Inès accepte. Elles passent d’une activité personnelle à une tâche commune sans cérémonie autour de la frontière.
 
 La contrariété professionnelle trouve ensuite sa place dans une conversation choisie. Inès raconte un désaccord sur l’organisation d’une animation à la bibliothèque. Elle garde certaines formulations privées parce qu’elles sont encore approximatives. Clara l’écoute et demande quel soutien serait utile. Le récit partagé n’est pas moins sincère parce qu’il ne reproduit pas toutes les pages. Il est adressé, choisi et suffisamment clair pour permettre un échange.
 
-Inès garde parfois un geste rapide pour retourner le carnet. Elle ne se force pas à le laisser ouvert comme exercice de confiance. Elle observe plutôt que Clara respecte l’accord et qu’un espace privé n’empêche pas leurs retrouvailles. Une future situation, avec un appareil ou une confidence extérieure, demandera peut-être une nouvelle précision. Elles disposent désormais d’une façon de poser la question sans transformer automatiquement la réserve en accusation.
+Il arrive qu’Inès retourne encore le carnet en entendant Clara dans le couloir. Un dimanche, elle le laisse près des pots pendant qu’elle cherche un arrosoir. Quand elle revient, Clara lui demande où ranger les tuteurs. Inès lui répond et reprend sa page.
 
 ---
 

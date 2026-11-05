@@ -13,11 +13,9 @@ contexte: "en société et dans les interactions sociales"
 draft: false
 ---
 
-Nadia ajuste le revers de son blazer bleu nuit devant la porte vitrée de la salle de conférence. Aujourd'hui, 27 avril 2026, elle doit présenter la nouvelle stratégie marketing devant le comité de direction. Ses paumes sont moites et elle sent une chaleur monter le long de sa nuque. Elle est persuadée que tout le monde remarque l'imperceptible tremblement de sa main droite alors qu'elle tient sa télécommande. Elle repense à ce dîner chez sa mère Fatima, il y a deux jours, où ses remords l'avaient rendue tout aussi vulnérable. À cet instant, Nadia a l'impression d'être une vitrine de verre : chaque battement de son cœur trop rapide, chaque hésitation dans son souffle lui semblent exposés aux yeux de tous ses collègues.
+Nadia perd le fil à la cinquième diapositive. Elle prend une gorgée d’eau, passe par erreur à la suivante et revient en arrière. Elle est persuadée que Julie, qui connaît le déroulé, a vu qu’elle cherchait ses mots. Au bout de la table, Mathieu a la tête penchée sur ses notes.
 
-Elle entre dans la pièce et croise le regard de son assistante Julie. Nadia se fige un instant, convaincue que Julie déchiffre instantanément la panique qui bouillonne sous son masque de directrice marketing infaillible. C'est le même sentiment d'être mise à nu qu'elle a ressenti avec Antoine récemment, lorsqu'elle craignait que son incapacité à se détendre ne soit inscrite en lettres capitales sur son front. Elle s'installe au bout de la table, pose son dossier avec une précision millimétrée, un réflexe de son besoin de contrôle qu'elle avait déjà identifié lors de l'organisation de l'anniversaire de Yasmine, mais son esprit lui dicte que son malaise est flagrant. Elle croit que ses collègues voient à travers elle comme si sa peau était devenue transparente.
-
-Pourtant, autour de la table, les visages restent neutres ou attentifs. Personne ne semble noter l'orage intérieur qui la secoue. Mathieu, le directeur financier, consulte ses notes avec décontraction. Claire, la responsable des ventes, lui adresse un signe de tête encourageant. Nadia ignore encore que ce qu'elle vit est une tendance que des chercheurs ont observée dans certaines situations. Elle est prisonnière d'une distorsion cognitive qui lui fait surestimer la visibilité de ses états internes.
+La directrice du produit l’arrête sur une question de calendrier. Nadia répond plus vite qu’elle ne le voulait. Elle reprend la phrase pour préciser la date. Quand elle arrive au bout du diaporama, elle se rappelle surtout les secondes où elle n’a rien dit.
 
 ## Définition de l'illusion de transparence
 
@@ -57,13 +55,11 @@ Si vous remarquez que vous surveillez vos battements de cœur au point de perdre
 
 Avec une personne de confiance, dire ce qu'on ressent ou ce qu'on demande peut éviter un malentendu. Nadia peut dire à Antoine qu'elle a besoin de repos, sans attendre qu'il le devine. Au travail ou dans une situation peu sûre, chacun choisit ce qu'il souhaite partager.
 
-## Évolution de Nadia et authenticité retrouvée
+## Ce que Mathieu a relevé
 
-Nadia termine sa présentation sous les applaudissements polis mais sincères des membres du comité. Elle s'assoit, le souffle encore un peu court, mais elle se souvient de l'exercice que sa lecture matinale lui a suggéré. Au lieu de s'enfermer dans sa propre analyse, elle observe Julie qui lui adresse un pouce levé discret. Nadia décide d'appliquer la technique du feedback. À la fin de la séance, alors que les participants quittent la salle, elle s'approche de Mathieu.
+En sortant, Nadia demande à Mathieu si elle a parlé trop vite. Il lui dit qu’il a eu du mal à noter la dernière date. À propos du blanc entre les diapositives, il ne se souvient de rien de particulier. C’est son retour, pas celui de tout le comité.
 
-Elle lui demande s'il a trouvé qu'elle parlait trop vite à cause du stress. Mathieu la regarde avec une pointe de surprise et lui répond qu'au contraire, il l'a trouvée particulièrement calme et posée aujourd'hui. Ce décalage entre son ressenti intérieur et la perception de Mathieu agit comme un déclic. Nadia réalise que son armure, qu'elle pensait si fine et transparente, est en fait un rempart solide que les autres ne franchissent pas sans son invitation. Elle repense à la fois où elle avait failli envoyer un mail cinglant à Julie ; elle comprend maintenant que sa dureté de l'époque servait aussi à masquer cette vulnérabilité qu'elle croyait trop visible.
-
-En sortant du bureau, Nadia ne ressent plus le besoin de tout régenter pour cacher ses failles. Elle repense à son parcours, de la gestion de l'effet Zeigarnik à l'acceptation de ses remords familiaux. Elle comprend que l'illusion de transparence en société et dans les interactions sociales était l'un des derniers verrous l'empêchant d'être authentique. Ce soir, en retrouvant Yasmine et Antoine, elle ne s'attendra pas à ce qu'ils lisent dans ses pensées. Elle utilisera ses mots, avec douceur, sachant que sa transparence n'est pas une fatalité, mais un choix qu'elle peut désormais piloter.
+Nadia modifie la page du calendrier pour rendre la date lisible. Elle est encore fatiguée et hésite à demander à Julie ce qu’elle a vu. Elle lui écrit plutôt pour vérifier si elle a besoin du fichier avant demain. Julie lui demande de le laisser dans le dossier partagé.
 
 ---
 

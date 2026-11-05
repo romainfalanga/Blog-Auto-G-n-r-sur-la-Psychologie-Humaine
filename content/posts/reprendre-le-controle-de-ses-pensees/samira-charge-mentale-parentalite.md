@@ -83,7 +83,7 @@ Choisissez avec l’enfant un geste simple qui concerne ses propres affaires. No
 
 En cas d’oubli, cherchez ce qui manque à l’organisation avant d’augmenter les reproches. Le dessin sur le calendrier peut aider, mais n’est pas une garantie. La fatigue, les changements d’horaire et le développement de l’enfant comptent. La coopération familiale garde plus de souplesse lorsqu’elle laisse le droit d’apprendre et le droit de rester un enfant.
 
-## Samira accepte un trajet partagé
+## Le bonnet à côté des lunettes
 
 La séance suivante commence avec une nouvelle difficulté : sa mission de caisse est prolongée d’une demi-heure. Samira consulte l’accord prévu avec Jeanne et confirme le trajet plutôt que de tout annuler par réflexe. Elle reste chargée de récupérer Noé ensuite, mais une partie de la course ne dépend plus d’elle seule.
 
@@ -91,7 +91,7 @@ Au vestiaire, son fils lui montre le bonnet déjà rangé. Il oublie en revanche
 
 Elle écrit à Jeanne pour la remercier et vérifier que l’organisation lui convient. Sa voisine de portail précise qu’elle peut refaire ce trajet occasionnellement, avec confirmation préalable. Samira accepte cette limite. Une aide partielle ne remplit pas le vide d’un soutien permanent, mais elle existe et peut être utilisée sans prétendre davantage.
 
-Le soir, elle voit toujours des papiers à lire près de la pince. La charge mentale ne disparaît pas de l’appartement. Elle en distingue cependant mieux les éléments et ne les confond plus tous avec son identité de mère. Une préparation ratée peut être discutée, un relais peut être demandé et Noé peut raconter sa piscine sans devenir son assistant de gestion.
+Le soir, Noé ajoute ses lunettes à son dessin. Il veut aussi noter tous les jours où ils vont à la piscine. Samira lui laisse dessiner un bonnet à côté des affaires et garde pour elle le calendrier des séances. Jeanne pourra accompagner Noé de la grille de l’école à l’arrêt du bus scolaire lorsqu’elles se le seront confirmé. Pour le reste du trajet, l’organisation ne change pas.
 
 ---
 

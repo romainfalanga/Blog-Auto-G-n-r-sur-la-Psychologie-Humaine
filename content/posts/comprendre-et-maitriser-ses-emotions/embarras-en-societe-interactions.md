@@ -13,11 +13,9 @@ contexte: "en société et dans les interactions sociales"
 draft: false
 ---
 
-Mei ajuste sa veste sans vraiment regarder son reflet. Elle participe à un vernissage organisé par son école d'art, entourée de camarades de promo et de nouveaux visages. Son cœur remonte légèrement dans sa gorge quand une plaisanterie la place, sans qu'elle l'ait cherché, au centre de la conversation. Elle sent ses joues chauffer, sa voix se tasser, et tout à coup, elle a l'impression que tous les regards pèsent comme un poids humide sur ses épaules.
+Quelqu’un au vernissage demande où se trouve l’artiste. Mei lui indique sa propre planche sans répondre à la question. « Ah, c’est vous ? » dit la personne. Au même moment, quelqu’un rit derrière elles. Mei fait tomber le feuillet du programme en essayant de le plier.
 
-Elle voudrait sourire pour détendre l'atmosphère, mais son expression ressemble plutôt à une grimace. Elle entend un léger rire, distant, et son esprit s'emballe : "Ils pensent que je suis ridicule." Cette sensation lui est familière depuis le lycée. Mei repense à son adolescence, aux discussions à la cantine où elle évitait les projecteurs. Son amie de promo Océane lui fait signe de la rejoindre, mais Mei reste figée. À 22 ans, elle se dit qu'elle est simplement timide, et que l'embarras dans ses interactions sociales finit toujours par la rattraper malgré ses efforts.
-
-Autour d'elle, le bruit de la vaisselle, le parfum du café et le brouhaha des conversations forment une toile trop vive. Elle perçoit le contact du cuir de sa chaise, l'air frais sur sa nuque, le goût métallique d'une salive soudain trop présente. Au lieu de se détendre, elle se replie sur elle-même, parle moins, choisit des phrases courtes et cherche à disparaître. Pourtant, elle a envie de participer, de contribuer et d'être entendue. Ses parents, Li et Wei, qui tiennent un restaurant et auraient préféré la voir en médecine, ne comprennent déjà pas son choix artistique — si en plus elle n'arrive pas à s'imposer socialement, comment pourra-t-elle un jour exposer ses illustrations ? Ce soir, Mei commence à se demander si cette gêne est uniquement de la timidité, ou s'il s'agit d'un mécanisme différent qu'elle pourrait apprendre à reconnaître et à maîtriser.
+Elle se baisse pour le ramasser, ravie pendant une seconde de n’avoir à regarder personne. Sous les spots, elle voit la petite zone où elle avait hésité entre deux gris. Elle aimerait expliquer pourquoi elle a gardé le plus sombre. En relevant la tête, elle ne sait déjà plus si le rire concernait sa réponse.
 
 ## Qu'est-ce que l'embarras ?
 
@@ -59,19 +57,15 @@ Ensuite, reformulez votre pensée : "Ils ont ri, mais ils ne cherchent sans dout
 ### 3. Choisir un petit pas social
 Si vous souhaitez participer davantage dans un contexte où vous vous sentez en sécurité, choisissez une petite action utile, comme dire bonjour ou poser une question. Aucune progression n’est imposée. L’exposition thérapeutique pour une anxiété sociale importante se décide avec un professionnel formé. Une moquerie, une humiliation ou une menace réelle appelle du soutien, pas un exercice pour s’y habituer.
 
-## Vers une plus grande aisance pour Mei
+## Le gris qu’elle avait choisi
 
-Après quelques semaines de pratique, Mei commence à voir des changements. Lors d'une nouvelle rencontre, une plaisanterie fuse et elle sent ses joues chauffer. Cette fois, elle utilise la respiration ancrante et se dit : "Ce n'est qu'un moment un peu gênant, rien de plus." Elle prend alors la parole avec une pointe d'humour, ce qui désamorce la situation. Ses camarades réagissent avec bienveillance, et l'instant se transforme en un échange agréable.
+Elle s’éloigne jusqu’au buffet. Océane lui tend un gobelet et demande si elle a vu la planche accrochée près de l’entrée. Mei lui raconte la question de la visiteuse. Océane avait entendu rire aussi, sans savoir à quoi quelqu’un réagissait.
 
-Elle continue ses exercices d'exposition. Une petite victoire : elle a proposé une idée lors d'une critique de groupe en cours. Même si sa voix a tremblé au départ, les retours ont été positifs. Les sensations physiques sont toujours là, mais elles sont moins envahissantes. Mei note dans son carnet que son appréhension matinale diminue. Elle commence à voir l'embarras non plus comme une fatalité, mais comme un signal passager qu'elle peut apprivoiser.
-
-Avec le temps, elle réalise que cette sensibilité lui indique aussi l'importance qu'elle accorde à ses relations. En acceptant cette émotion au lieu de la fuir, elle gagne en authenticité. Sa timidité ne s'est pas envolée, mais elle est devenue plus légère. Elle ose davantage, et chaque expérience réussie renforce sa confiance en elle.
+Plus tard, une étudiante s’arrête devant le dessin. Mei est à côté. Elle sent ses joues chauffer de nouveau et dit quand même : « De loin on ne le voit pas, mais j’ai changé ce gris au dernier moment. » L’étudiante recule d’un pas pour regarder.
 
 ---
 
 L'embarras en société est une émotion courante, souvent accompagnée de signes physiques comme le rougissement. Elle se distingue de la honte par sa brièveté et son rôle de régulateur social. Mieux comprendre ce mécanisme permet d'utiliser des outils concrets comme la respiration, la réévaluation des pensées et l'exposition progressive.
-
-Si vous vous reconnaissez dans le parcours de Mei, rappelez-vous que ces changements se font en douceur. Chaque petit pas vers les autres est une victoire, et l'aisance sociale se construit avec patience et bienveillance envers soi-même.
 
 Si l'embarras ou l'anxiété sociale deviennent trop pesants et limitent votre quotidien, n'hésitez pas à vous tourner vers un professionnel de la santé mentale. Un psychologue pourra vous proposer un accompagnement sur mesure, notamment à travers les thérapies cognitives et comportementales, pour vous aider à retrouver sérénité et confiance dans vos échanges.
 

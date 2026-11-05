@@ -13,11 +13,9 @@ contexte: "au travail"
 draft: false
 ---
 
-Monique ajuste son cardigan en laine légère et s'installe devant l'ordinateur de la petite bibliothèque municipale. Le soleil de ce 11 mai 2026 tape contre les vitres, mais elle ne le remarque pas vraiment. Elle trie les retours de livres tout en guettant l'entrée. Depuis qu'elle a accepté de coordonner l'équipe de bénévoles pour le festival du livre local, elle se sent investie d'une mission invisible qui dépasse de loin le simple classement alphabétique. Elle passe ses soirées à anticiper les frustrations de Claire, la nouvelle recrue qui semble toujours au bord des larmes, et à arrondir les angles avec Antoine, dont le ton brusque finit par irriter tout le monde.
+À la bibliothèque municipale, Monique vient faire sa permanence bénévole. Elle a deux fiches de prêt à corriger et quelques formulaires à rendre à la mairie. Dans la réserve, Claire, qui s’occupe du festival avec l’équipe, recompte des cartons. Antoine, un autre bénévole, lui dit de ne pas y passer la journée. Monique s’apprête à intervenir. Aucun des deux ne lui a rien demandé.
 
-Jacques lui a proposé d'aller marcher en forêt cet après-midi, mais Monique a décliné, prétextant une pile de formulaires administratifs à terminer pour la mairie. En réalité, elle se sent vidée. Ce n'est pas une fatigue physique, comme celle qu'elle ressentait après une longue journée de cours devant ses élèves de terminale, mais une sorte de brouillard interne. Elle se souvient de sa prise de conscience en avril dernier, quand elle avait compris que l’habitude pouvait compter dans son hésitation à vendre sa maison. Elle pensait avoir fait le plus dur en acceptant de s'ouvrir à Jacques et au changement, mais aujourd'hui, elle se retrouve de nouveau prisonnière d'un mécanisme qu'elle ne nomme pas encore. Cette propension à s'oublier pour les autres lui rappelle amèrement ses années de mariage avec Jean-Claude, où elle portait seule le poids du climat familial pour éviter les vagues, s'interdisant toute vulnérabilité.
-
-Elle sursaute quand la porte s'ouvre. C'est Claire, le visage fermé. Immédiatement, le radar interne de Monique s'active. Elle analyse la posture de la jeune femme, cherche le mot juste pour la rassurer avant même qu'elle ne parle, et s'apprête à absorber sa mauvaise humeur pour maintenir l'harmonie du groupe. Monique porte sur ses épaules le climat émotionnel de toute la bibliothèque, sans que personne ne lui ait rien demandé. C'est un poids familier, presque confortable dans sa lourdeur, mais qui commence à l'étouffer.
+Jacques a proposé une marche en forêt cet après-midi. Elle a décliné en pensant au travail qu’elle aurait à rattraper si la discussion tournait mal. Elle regarde ses deux fiches. Si elle les termine avant midi, elle peut encore faire la permanence comme prévu. Elle ne sait pas ce qu’il adviendra des cartons.
 
 ## Définition de la charge mentale émotionnelle
 
@@ -63,17 +61,15 @@ Monique peut se demander s’il lui revient de résoudre chaque tension, et si u
 
 Exercice : quand aucun danger ni obligation urgente n’appelle une réponse, demandez qui peut prendre en charge le problème, ou convenez d’un moment pour en discuter. S’il revient régulièrement, la répartition des rôles et les conditions d’organisation méritent aussi d’être examinées.
 
-## Évolution de Monique vers un équilibre émotionnel
+## Ce qui revient à Claire
 
-Assise à son bureau de la bibliothèque, Monique observe Claire qui s'agite avec les cartons. Habituellement, Monique se serait levée pour l'aider tout en lui demandant si son week-end s'était bien passé, craignant que son silence ne soit interprété comme de la froideur. Aujourd'hui, elle se remémore sa découverte sur les loyautés invisibles. Elle réalise qu'en voulant toujours tout lisser, elle rejoue le rôle de sa propre mère qui s'effaçait pour que son père ne s'emporte jamais. Elle comprend que cette peur de déplaire est la même qui l'avait paralysée sur le port avec sa petite-fille Lola, lorsqu'elle n'osait pas s'autoriser un plaisir simple de peur de rompre une règle tacite de rigueur.
+Claire lui demande enfin un avis sur les cartons. Monique lui montre où elle a rangé le plan du festival. « Je peux t’aider à vérifier les stands, mais je n’ai pas décidé des emplacements. » Claire répond qu’elle en parlera à Antoine. Elle paraît toujours contrariée.
 
-Elle décide d'appliquer la technique du bouclier. Lorsque Claire s'approche pour se plaindre une nouvelle fois du manque d'organisation pour le festival, Monique ne cherche pas à s'excuser ou à trouver une solution miracle sur-le-champ. Elle lui adresse un regard calme et répond avec une douceur qu'elle puise dans sa nouvelle sérénité : C'est vrai que c'est un défi, Claire. J'ai confiance en ta capacité à organiser ton stand comme tu l'entends. Elle retourne ensuite à ses fiches, le cœur étonnamment léger.
-
-Ce changement ne se fait pas sans une pointe d'anxiété, car Monique a l'impression de trahir sa nature profonde de professeure bienveillante. Mais en fin d'après-midi, alors qu'elle ferme la bibliothèque, elle se rend compte qu'elle n'est pas épuisée. Elle a encore de l'énergie pour Jacques. Elle l'appelle en sortant, la voix assurée, pour lui proposer de le rejoindre au jardin public. Elle comprend que son espace mental est un sanctuaire qu'elle a le droit de protéger, et que le monde ne s'écroule pas lorsqu'elle cesse de porter les émotions de la terre entière sur ses épaules.
+Quand ses fiches sont terminées, Monique prévient qu’elle s’en va. Il est trop tard pour la marche que Jacques avait proposée. Elle lui écrit qu’elle aimerait la remettre un autre jour. Dans le bus, elle pense encore aux cartons. Ils n’ont plus besoin qu’elle retourne à la bibliothèque aujourd’hui.
 
 ---
 
-La charge mentale émotionnelle au travail ou dans la vie associative est un fardeau d'autant plus lourd qu'il est rarement reconnu par la société. En prenant conscience de votre rôle de régulateur émotionnel, vous faites le premier pas vers une forme de liberté essentielle. Comme Monique, vous pouvez apprendre à séparer votre valeur personnelle de votre capacité à rendre les autres heureux ou tranquilles.
+Dans une équipe bénévole comme au travail, les tâches relationnelles peuvent s’ajouter aux responsabilités prévues. L’équipe peut nommer ce qu’elle attend de chacun et discuter de la répartition. La réponse ne dépend pas uniquement de la personne qui aide le plus.
 
 Il est normal de ressentir une forme de vide ou de culpabilité au début, car ce mécanisme de protection est souvent ancré depuis l'enfance. Cependant, en pratiquant des limites saines, vous redonnez aux autres leur autonomie tout en préservant votre propre santé mentale. C'est un acte de respect envers vous-même, mais aussi envers la maturité émotionnelle de votre entourage.
 

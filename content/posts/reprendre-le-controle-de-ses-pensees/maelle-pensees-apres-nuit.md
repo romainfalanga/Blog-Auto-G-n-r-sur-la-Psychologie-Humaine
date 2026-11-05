@@ -15,7 +15,7 @@ draft: false
 
 Le ticket colle au pouce de Maëlle quand elle le glisse dans sa poche. Le bus quitte la zone industrielle et traverse des rues où les commerces installent leurs présentoirs. Ses pensées après le poste de nuit restent dans l'atelier : une collègue demande où se trouve une fiche, elle répond trop vite, puis l'échange se perd dans le bruit. Depuis, elle rejoue la scène avec des variantes qui ne lui donnent aucune réponse nouvelle.
 
-Cette rotation prévoit des nuits, après plusieurs semaines d'autres horaires. Maëlle, vingt-sept ans, reste opératrice dans la même usine agroalimentaire et connaît les exigences de son poste. Elle choisit aujourd'hui le bus pour son retour. Elle ne souhaite pas transformer sa vigilance incertaine en pari au volant. Cette décision de sécurité ne lui évite pas une autre forme de prolongation du travail : son attention continue de refaire l'échange dans l'atelier.
+La rotation de nuit a repris après plusieurs semaines à d’autres heures. Maëlle a pris le bus pour le retour : elle est trop fatiguée pour compter sur sa vigilance au volant. À l’usine, elle est restée quelques minutes de plus pour transmettre ce qui devait l’être. Le bus lui donne maintenant un endroit où elle n’a plus de consigne à transmettre, même si elle continue à entendre la dernière phrase de Claire.
 
 À la prochaine station, elle sort son carnet. Elle prépare déjà des observations sur son sommeil et apprend à décrire sa fatigue sans s'insulter. Cette fois, la page demeure vide. Faut-il écrire tout ce qui traverse sa tête ? Appeler Claire ? Reconstituer la phrase exacte ? Le carnet peut devenir un appui ou une nouvelle manière de rester au travail, selon ce qu'elle y dépose.
 
@@ -57,7 +57,7 @@ Le même risque existe avec les échanges entre collègues. Une transmission né
 
 Maëlle peut donc examiner le coût et l'utilité de ses démarches. Demander une information qui modifie une décision a une fonction claire. Reposer la même question après une réponse suffisante cherche parfois un apaisement qui ne tient que quelques instants. Cette observation ne mérite pas une nouvelle accusation ; elle aide à choisir autrement la suite.
 
-## 3 techniques pour trier les pensées après le poste
+## Que faire de ce qui revient dans le bus ?
 
 ### 1. Écrire la question professionnelle en une phrase
 

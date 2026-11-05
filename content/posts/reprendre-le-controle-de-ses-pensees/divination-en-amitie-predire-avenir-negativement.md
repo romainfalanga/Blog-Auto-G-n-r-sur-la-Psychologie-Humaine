@@ -13,7 +13,7 @@ contexte: "en amitié"
 draft: false
 ---
 
-Hugo ajuste la sangle de sa guitare, debout dans le couloir étroit qui mène à la scène du petit festival de quartier. L'air est chargé d'une odeur de poussière et de bière tiède. À quelques mètres, Samba discute avec le technicien du son. Depuis que son ami a rejoint un groupe rival le mois dernier, chaque interaction ressemble à une marche sur des œufs. Hugo sent une tension familière grimper le long de sa nuque. Il regarde Samba rire à une blague du technicien et, instantanément, un scénario catastrophe s'installe dans son esprit.
+Hugo ajuste la sangle de sa guitare, debout dans le couloir étroit qui mène à la scène du petit festival de quartier. L'air est chargé d'une odeur de poussière et de bière tiède. À quelques mètres, Samba discute avec le technicien du son. Depuis que son ami a rejoint un groupe rival le mois dernier, chaque interaction ressemble à une marche sur des œufs. Hugo ouvre la bouche pour l’appeler. Samba rit à une blague du technicien et Hugo laisse retomber sa main. Il s’imagine déjà remballer ses affaires sans qu’ils se soient parlé.
 
 Il se dit que ce soir est le point final de leur amitié. Il imagine déjà la fin du concert : Samba partira sans lui dire un mot, rejoindra ses nouveaux acolytes et oubliera définitivement les années de galère passées à composer ensemble dans des chambres de bonne. Hugo se voit déjà seul sur le parking, rangeant son matériel sous une pluie fine, tandis que son ami s'éloigne dans un van luxueux. Cette certitude que tout va mal se terminer lui coupe l'envie de jouer. Ses doigts deviennent froids, presque rigides sur le manche de son instrument.
 
@@ -55,13 +55,11 @@ Une relation se comprend à partir de plusieurs faits : une invitation récente,
 
 S'il n'y a rien d'urgent, Hugo peut différer une réaction et voir ce qu'il apprend ensuite. Une menace, une limite franchie ou un engagement à confirmer peut demander une action plus rapide.
 
-## Hugo choisit de poser les armes
+## Samba donne le départ
 
-Samba s'approche d'Hugo, une bouteille d'eau à la main. Hugo sent la pulsion de faire une remarque acide sur son nouveau groupe, une façon de signifier qu'il sait que le lien va se rompre avant que cela n'arrive vraiment. Mais il se rappelle ses exercices sur le raisonnement émotionnel et ses récentes analyses sur ses états du Moi. Ses mains sont moites, son rythme cardiaque s'accélère, mais ce n'est pas une preuve que le désastre arrive. C'est simplement de l'anxiété. Il choisit de mobiliser son Adulte pour ne pas suivre la pente savonneuse de sa pensée catastrophique.
+Samba lui tend une bouteille d’eau. Hugo a une remarque toute prête sur son nouveau groupe. Il lui demande plutôt s’ils peuvent reparler des dates de l’été après le concert. Samba lui dit qu’il ne pourra pas rester longtemps, mais qu’ils peuvent prendre cinq minutes avant qu’il parte.
 
-Il regarde Samba dans les yeux, sans l'humour défensif qu'il utilisait avec Chloé il y a quelques jours dans le local technique. Il se force à imaginer le troisième scénario : et si ce soir était juste un bon moment de musique entre deux vieux amis ? Et si le départ de Samba n'était pas une trahison, mais juste une étape professionnelle qui n'enlevait rien à leur lien ? Hugo sent une légère détente dans sa mâchoire, un contraste frappant avec la rigidité qu'il affichait lors de ses crises d'euphorie suivies de chutes brutales. Il ne sourit pas encore, mais il ne fuit pas non plus.
-
-Samba lui pose une main sur l'épaule et lui propose de caler leurs guitares sur le premier morceau. Hugo hoche la tête. Il réalise que pendant des années, il a passé plus de temps à pleurer la fin de ses amitiés dans son esprit qu'à les vivre réellement. Aujourd'hui, il décide de laisser le futur tranquille. Il se concentre sur le poids de sa guitare, le bruit de la foule qui s'amasse derrière le rideau et la présence réelle de son ami à ses côtés. Le concert peut commencer.
+Hugo n’entend d’abord que « pas longtemps ». Il boit une gorgée, puis demande à Samba s’ils gardent le même départ sur le premier morceau. Samba le lui montre en frappant le rythme du bout des doigts sur sa jambe. Hugo reprend l’entrée avec lui. Pour le reste, ils ont un moment convenu, même s’il est court.
 
 ---
 

@@ -43,7 +43,7 @@ On peut aussi perdre le moment en essayant trop fort d’en profiter. Élise pou
 
 Le même risque existe lorsqu’un proche recommande de sortir prendre l’air pour régler une difficulté durable. Cette proposition peut être accueillie comme une invitation si elle respecte les préférences et les capacités. Elle peut aussi devenir invalidante si elle remplace l’écoute ou une aide nécessaire. Le jardin ne résout pas le manque de moyens de la résidence. Il offre ce jour-là une parenthèse appréciable et quelques contraintes nouvelles. Reconnaître les deux permet de conserver une relation plus libre au lieu, sans devoir lui attribuer un pouvoir qu’il n’a pas.
 
-## Trois invitations faciles à modifier
+## S’arrêter pendant qu’il se passe quelque chose
 
 ### 1. Choisir un détail qui attire déjà l’attention
 
@@ -63,11 +63,11 @@ Raconter une expérience peut lui donner une place dans la journée. Élise pour
 
 Si les activités autrefois appréciées semblent durablement vides, si la fatigue ou la souffrance empêchent de vivre normalement, un professionnel de santé peut aider à comprendre la situation. Il n’est pas nécessaire d’attendre qu’une promenade ou une activité plaisante fonctionne enfin. Un médecin ou un psychologue pourra considérer les difficultés dans leur ensemble. Les gestes ordinaires restent des appuis possibles ; ils n’ont pas à porter seuls la responsabilité du mieux-être. Cette limite protège aussi les moments agréables : ils peuvent être vécus pour eux-mêmes, sans devoir produire un changement général.
 
-## Élise repart avec une observation précise
+## La pomme dans le récit de la visite
 
 En rentrant à la résidence, Élise appelle Cédric au moment prévu. L’intervention avance, mais la salle restera fermée plus longtemps qu’elle ne l’espérait. Sa déception revient immédiatement. Elle ne se dit pas que le jardin aurait dû la rendre plus sereine. Elle demande les informations nécessaires puis prévient les habitants concernés. Son carnet conserve les obstacles d’accès repérés avec Mireille. Le petit temps sur le banc ne l’a pas rendue moins attentive à ces problèmes. Elle dispose simplement d’un souvenir supplémentaire dans une journée qui ne se réduit plus aux préparatifs.
 
-Le soir, elle raconte la visite à Françoise. Elle parle des allées, des places assises et de la pomme, dans cet ordre un peu désordonné qui lui ressemble. Son amie évoque une musique entendue dans le bus. Aucune ne cherche à conclure que tout va bien. Leur conversation contient des préoccupations et des choses appréciées. Élise prévoit de retourner au jardin pour travailler le parcours avec Mireille. Elle ne sait pas si elle retrouvera le même plaisir. Elle n’a pas besoin de le promettre pour garder l’envie d’y passer un moment.
+Le soir, Françoise lui demande comment est le jardin. Élise lui parle des allées et des places assises, puis, sans bien savoir pourquoi, de la pomme. Françoise lui parle d’une musique qu’elle a entendue dans le bus. Élise voudrait savoir où on peut l’écouter. Le point sur la fermeture peut attendre qu’elles aient fini de parler du bus.
 
 ---
 

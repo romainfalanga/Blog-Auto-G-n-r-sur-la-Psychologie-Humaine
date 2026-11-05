@@ -13,7 +13,7 @@ editorial_pack: "psychology-v10"
 draft: false
 ---
 
-Les serviettes forment une pile de travers au bout de la table. Anaïs compte les places, puis recommence, incapable de décider si elle doit sortir une autre assiette. Sa fatigue et son besoin de repos existent déjà, mais elle attend un argument plus spectaculaire pour s'arrêter. Des amis arrivent dans une heure. Le repas est presque prêt, la pièce assez rangée, et ce « presque » lui paraît encore une raison de continuer.
+Les serviettes forment une pile de travers au bout de la table. Anaïs compte les places, puis recommence, incapable de décider si elle doit sortir une autre assiette. Elle pense s’asseoir après les serviettes. En les comptant, elle se rappelle le dessous-de-plat qu’elle est allée chercher deux fois sans le rapporter. Des amis arrivent dans une heure. Le repas est presque prêt, la pièce assez rangée, et ce « presque » lui paraît encore une raison de continuer.
 
 À quarante-six ans, agente d'accueil municipale, elle vit avec une polyarthrite diagnostiquée et suivie. Son état ne devient pas évident aux yeux des invités lorsqu'ils franchissent la porte. Elle tient souvent à les accueillir debout, à poser elle-même les plats, à montrer une disponibilité qu'elle n'éprouve pas entièrement. Elle souhaite une rencontre agréable, puis se retrouve à consacrer au décor l'énergie dont elle aurait besoin pour y participer.
 
@@ -83,7 +83,7 @@ Après, elle regarde ce qui reste possible. Elle peut poursuivre la rencontre, d
 
 Si la fatigue change, persiste de façon préoccupante ou s'accompagne de manifestations inhabituelles, elle en parle à son équipe médicale. Elle ne compense pas ce questionnement par une multiplication d'exercices ou par une modification de ses soins. Le repos quotidien et le suivi restent deux dimensions qui se complètent.
 
-## Anaïs reste dans la conversation
+## Le dessert à sa place
 
 À l'arrivée de Mireille, les serviettes sont toujours de travers. Personne ne semble s'en préoccuper. Anaïs annonce qu'elle reste davantage assise et demande à son amie de poser le dessert au bon endroit. Le geste organise la rencontre sans grand discours. Elle peut écouter le récit d'une sortie plutôt que chercher une raison de se lever.
 

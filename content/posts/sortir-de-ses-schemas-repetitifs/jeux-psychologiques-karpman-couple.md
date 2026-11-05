@@ -17,9 +17,9 @@ Thomas est assis à la table de la cuisine, sa tasse de café encore tiède entr
 
 "Tu devrais prendre un congé, tu pourrais parler à ton chef, et puis je peux m'occuper de la paperasse ce week-end", lance Thomas, trop vite, avant même qu'Émilie ait fini sa phrase. Il voit son regard changer, une ride se creuser entre ses sourcils, et remarque qu’il a proposé des solutions avant d’écouter. La conversation s'échauffe malgré lui : Émilie répond qu'elle n'a pas besoin qu'on lui impose des solutions, elle voulait simplement être entendue. Thomas se raidit, ses mains se ferment sur la tasse. Son envie de bien faire se heurte à la réalité : sa compagne réclame du soutien émotionnel, pas un plan d'action.
 
-Depuis leurs échanges des derniers jours, notamment depuis l'article du 12 mars où il travaillait sur la lecture de pensée en couple, Thomas reconnaît mieux ses automatismes. Il se souvient aussi de son premier article sur le triangle de Karpman en amitié, publié le 7 mars, qui lui avait ouvert les yeux sur sa tendance à se surinvestir pour être aimé. Mais comprendre ne suffit pas toujours. Ce soir, il réalise que son rôle de sauveur occulte des sujets plus profonds, comme la question de la parentalité qu'ils hésitent tous deux à aborder. Thomas sent que s'il continue ainsi, les discussions sur l'idée d'avoir des enfants deviendront des terrains de jeux psychologiques, chargés de frustrations et de rancœurs qui n'ont rien à voir avec le fond du sujet.
+Thomas tourne sa tasse par l’anse. Il était déjà sur le point d’ouvrir son agenda pour trouver une heure où l’aider. Émilie n’a pas demandé de congé ni de rendez-vous ; elle a essayé de lui raconter ce qui se passe. Il ferme l’agenda avant de lever les yeux.
 
-Il inspire, pose la tasse et tente une autre voie. Il souhaite éviter la dispute sans pour autant trahir son envie d'aider. C'est le moment où il réalise que les jeux psychologiques (le triangle de Karpman : persécuteur, victime, sauveur) en couple ne sont pas des concepts abstraits : ils vibrent ici, dans la chaleur de cette cuisine, entre deux personnes qui s'aiment mais répètent des schémas. Il se rappelle alors les exercices testés après l'article sur l'assujettissement face à l'autorité, et choisit d'essayer, ici et maintenant, une autre façon d'écouter.
+« Tu veux me raconter la suite ? » Elle lui demande de ne pas lui couper la parole. Il répond oui, puis se surprend à chercher encore, pendant qu’elle parle, quel conseil lui donner.
 
 ## Qu'est-ce que les jeux psychologiques (triangle de Karpman : persécuteur, victime, sauveur) ?
 
@@ -51,9 +51,9 @@ Il s'agit d'utiliser l'assertivité pour exprimer un besoin sans l'imposer. Thom
 ### 3. Proposer une pause
 Si tous deux se sentent libres de parler, Thomas et Émilie peuvent convenir d’une pause quand ils en ont besoin. Ils peuvent ensuite reprendre ou remettre l’échange à plus tard. Une pause convenue ne règle pas une situation de violence.
 
-## Thomas commence à changer sa façon d'agir
+## Ce qu’Émilie n’a pas fini de dire
 
-Thomas essaie la technique du journal dès le lendemain. Le matin du 16 mars 2026, après une course sous la pluie, il s'assoit avec son carnet et retranscrit la soirée précédente. Écrire le moment où il a enchaîné les solutions lui donne une image nette de son costume de sauveur. Il se souvient de la règle apprise lors de son travail sur l'assujettissement : repérer le réflexe et prendre une seconde avant d'agir. Cette seconde devient sa meilleure alliée.
+Le lendemain de la discussion, Thomas note dans son carnet les trois propositions qu’il a faites avant de demander ce qu’Émilie attendait. Il se souvient même du moment où elle a posé sa tasse. Ce qu’elle voulait lui dire ensuite, il en est moins sûr.
 
 La première fois qu'Émilie utilise le mot-rituel qu'ils ont choisi, Thomas sent l'habitude de reprendre la parole pour "aider" le tirailler. Il respire deux fois, utilise une phrase en "je" et demande ce dont elle a besoin. Elle répond qu'elle veut juste être entendue. Thomas écoute, vraiment, sans proposer de plan d'action. Il remarque immédiatement la différence : Émilie se détend, sa voix s'adoucit. Leur conversation sur la parentalité, qui avait tendance à virer aux reproches et aux peurs, devient pour la première fois un échange factuel sur leurs souhaits et leurs craintes.
 

@@ -13,7 +13,7 @@ contexte: "après un succès"
 draft: false
 ---
 
-La sonnerie de fin de garde résonne dans le couloir de cardiologie et Camille range son badge avec des mouvements précis, presque rituels. Une collègue la serre dans les bras, des félicitations fusent pour la procédure qu'elle a conduite avec calme, et son nom apparaît dans le message d'équipe partagé ce matin, suivi d'émojis et de remerciements. Pourtant, quand elle pousse la porte du vestiaire à 18 h 12, la félicitation reste accrochée comme une étiquette étrangère à son vêtement : elle sent qu'on lui a prêté un rôle qu'elle ne mérite pas.
+Le message d’équipe cite Camille dans la deuxième ligne. Elle descend directement à la troisième pour vérifier si Suzanne et les autres y figurent. On la félicite pour son rôle dans la procédure du jour. Elle relit la phrase et commence à composer une réponse qui ne parle que de l’équipe.
 
 C'est le 18 mars 2026. Dans le trajet de retour, elle consulte son agenda électronique et note entre deux rendez-vous le mot « célébrer » griffonné en petit, comme si inscrire l'idée permettait de la contrecarrer. À la maison, Léo demande si elle peut lire une histoire, Emma brandit un dessin froissé, David prépare la soirée. Les enfants la regardent avec l'attente simple de la présence maternelle. Camille sourit, dépose son sac, et entend une petite voix intérieure qui répète que tout cela est une erreur, qu'à la prochaine maladresse on découvrira son imposture.
 
@@ -60,7 +60,7 @@ Si une erreur survient, Camille identifie ce qu’elle peut en apprendre. Un inc
 
 Associez une fréquence fixe, par exemple une fois par semaine, pour éviter que l'exercice ne devienne une source supplémentaire de charge mentale.
 
-## Évolution de Camille et intégration des réussites
+## Répondre à Suzanne
 Le lendemain, Suzanne, une infirmière de nuit, lui envoie un message : « Bien joué hier, tu as géré la situation. » Camille lit le message en préparant les repas pour l'école, un geste devenu automatique depuis qu'elle s'astreint à noter les priorités la veille. Elle répond merci et se force à ne pas ajouter d'explication. Puis, comme le propose la technique du journal de preuves, elle inscrit sur la ligne du jour : coordination de l’équipe, retour de Suzanne.
 
 Ce petit geste lui semble presque étranger, mais il est déjà différent : elle accepte le compliment et le consigne comme une donnée. Dans l'après-midi, en se rappelant le post-it vide collé sur le bord du moniteur il y a quelques jours, elle sent un paysage intérieur qui se recompose. La fatigue de compassion existe toujours, elle la reconnaît, mais elle ne laisse plus le doute annuler le succès. Quand David lui dit qu'il est fier d'elle, elle prononce merci et cette fois elle ajoute qu'elle a appris à mieux déléguer lors de la procédure. C'est un pas concret pour mettre des mots sur une compétence réelle, loin du sourire mécanique qu'elle affichait autrefois pour masquer son épuisement.
@@ -68,6 +68,8 @@ Ce petit geste lui semble presque étranger, mais il est déjà différent : ell
 Au travail, elle expérimente la troisième technique : après une erreur minime dans la transmission d'information, elle en parle dans le cadre prévu au service et se fixe une amélioration pour la prochaine transmission. Le processus transforme la culpabilité anticipée en tâche opérationnelle. Les enfants sentent la différence aussi : Léo la trouve plus disponible pour jouer vingt minutes le soir, parce qu'elle a accepté de refuser une reprise de garde qu'elle n'avait pas prévue.
 
 Ces changements ne suppriment pas toutes les inquiétudes, mais ils donnent à Camille des outils concrets pour équilibrer sa sensibilité avec des preuves objectives. Elle n'efface pas son exigence naturelle, mais elle la met à l'épreuve de la réalité et lui permet d'être une alliée plutôt qu'un juge.
+
+Camille remercie Suzanne et lui dit ce qu’elle a repéré pendant le soin. Elle glisse ensuite le téléphone dans sa poche. Le doute lui revient à la garde suivante, mais elle sait à quelle collègue poser une question sur ce qui s’est passé.
 
 ---
 

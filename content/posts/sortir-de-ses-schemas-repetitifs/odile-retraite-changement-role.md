@@ -15,7 +15,7 @@ draft: false
 
 Le trousseau glisse sur la table pliante et s’arrête contre le programme des activités. Gérard explique que les clés de la petite salle doivent rester chez quelqu’un du quartier. Il regarde Odile : elle connaît les habitants, a l’habitude des papiers et peut facilement s’en occuper puisqu’elle est retraitée. La proposition vient avec un compliment et plusieurs tâches que personne n’a encore décrites. Odile touche le trousseau sans le prendre. Elle apprécie qu’on reconnaisse son expérience, beaucoup moins que son temps paraisse déjà attribué.
 
-Ancienne agente postale, elle sait expliquer une procédure, vérifier une liste et conserver une information utile sans raconter les affaires des gens. Ces compétences restent présentes depuis son départ du travail, il y a plusieurs années. Elle n’a pourtant aucune envie de reproduire un guichet dans son immeuble. À soixante-quatorze ans, ses journées comprennent des lectures, des rencontres, des démarches personnelles et parfois rien de prévu. Elle considère cette dernière possibilité comme une liberté, même si elle peine à la défendre devant une demande qui paraît raisonnable.
+À la poste, Odile vérifiait toujours à quel service une demande était adressée avant de répondre. En écoutant Gérard, elle se demande déjà qui appellerait le dimanche si la salle était fermée. Elle regarde son agenda, où le jeudi après-midi est encore vide. C’est peut-être la raison pour laquelle Gérard a pensé à elle. Elle n’a pas envie d’en faire un horaire de permanence.
 
 Depuis la mort de Françoise, il y a six mois, certaines habitudes familiales changent également. Sa sœur lui demandait des avis précis et contestait sans hésiter ceux qui ne lui convenaient pas. Cette place de conseillère familière lui manque. Quand Gérard lui fait confiance devant le groupe, Odile ressent un plaisir qui compte vraiment. Elle se demande si refuser les clés reviendrait à refuser une occasion de retrouver une utilité. Elle n’a pas encore formulé le fait qu’une place agréable peut devenir contraignante si elle comprend une disponibilité permanente.
 
@@ -29,7 +29,7 @@ Le changement ne concerne pas seulement les premiers mois. Des années plus tard
 
 Les ressources institutionnelles sur les liens sociaux présentent diverses formes de participation : apprendre, transmettre, partager une activité ou aider ponctuellement. Elles ne font pas de l’engagement permanent une obligation ni une mesure de santé. Pour Odile, le problème consiste à choisir une participation qui lui convient et à en connaître les conditions réelles. Elle peut aimer être utile tout en appréciant de ne plus dépendre d’un planning collectif. Ces deux préférences ne sont pas incohérentes. Elles demandent parfois un accord plus précis qu’une simple acceptation ou un refus global.
 
-## Comment une nouvelle place devient-elle trop étroite ?
+## Les responsabilités qu’on n’a pas nommées
 
 ### La disponibilité est supposée à partir du statut
 
@@ -43,7 +43,7 @@ Parce qu’Odile sait classer des documents, on imagine qu’elle veut forcémen
 
 Odile apprécie la confiance du groupe et n’a pas à se méfier de ce plaisir. La difficulté apparaît lorsqu’elle commence à croire qu’elle doit accepter pour rester intéressante ou conserver les invitations. Elle peut vérifier ce que les autres apprécient dans la relation : sa conversation, ses idées et sa présence ne se résument pas à la possession d’un trousseau. Les réponses ne seront pas toujours rassurantes. Si un collectif ne lui fait une place qu’à condition d’un travail qu’elle ne souhaite pas, cette information mérite d’être prise au sérieux, au lieu de chercher uniquement à renforcer sa confiance personnelle.
 
-## Trois pistes pour choisir un rôle qui reste vivable
+## Fixer le périmètre avant de s’engager
 
 ### 1. Décrire les tâches avant de décider du nom
 
@@ -57,19 +57,19 @@ Odile peut accepter une permanence précise sans prendre en charge l’ensemble 
 
 Si Odile attend de ce projet qu’il lui redonne toute la place laissée vide par sa sœur, la responsabilité risque de devenir disproportionnée. Elle ne peut pas remplacer Françoise par un groupe, mais elle peut préserver différents appuis : sa relation avec Lucie, les sorties avec Josiane, la lecture, le dessin ou de nouvelles rencontres. Ces possibilités ne sont pas une ordonnance d’occupation du temps. Certaines semaines, une seule activité lui suffit. La question est plutôt de ne pas confier à un rôle unique la tâche de prouver sa valeur, de remplir toutes ses journées et de supprimer le manque. Un professionnel peut aider à examiner cette pression si elle devient pesante, tout comme un proche peut simplement rappeler qu’il apprécie sa compagnie sans service rendu.
 
-## Odile propose un essai plutôt qu’une disponibilité générale
+## Deux rendez-vous au crayon
 
 Le groupe trace quatre colonnes sur une grande feuille. Gérard découvre que garder les clés ne règle pas la question des horaires. Une autre personne se propose pour l’ouverture du mercredi, à condition d’avoir un double et une consigne claire. Odile explique qu’elle veut bien aider à rendre le programme plus lisible. Elle a repéré des informations contradictoires entre deux affiches et cela l’intéresse de les corriger. Elle ne promet pas de gérer ensuite toutes les modifications. Son intervention devient plus précise et, curieusement, plus facile à imaginer.
 
 En quittant la salle, Gérard lui dit qu’il la pensait volontaire pour l’ensemble. Odile répond qu’elle hésite encore sur certains détails et veut commencer par les deux séances proposées. Il paraît contrarié par le problème d’organisation qui reste entier. Elle supporte mal cette réaction pendant quelques mètres, puis se rappelle que le problème existait avant sa réponse. Elle n’est pas obligée de l’effacer pour préserver leur bonne entente. Elle lui demande simplement de lui transmettre l’horaire confirmé. Leur relation peut contenir cette petite tension et une coopération qui ne répond pas à toutes ses attentes.
 
-Dans son agenda, Odile inscrit les deux séances au crayon. Elle laisse libre un après-midi où elle souhaite retourner à la bibliothèque. Elle ne coche pas une case intitulée retraite réussie et ne tire pas de conclusion générale sur sa capacité à poser des limites. Elle a accepté une tâche qui mobilise son expérience sans reprendre exactement son ancien rôle. Elle pourra trouver l’essai agréable, trop lourd ou peu intéressant. La possibilité de le réviser fait partie de l’accord, autant que celle d’apporter quelque chose au quartier.
+Odile inscrit les deux séances au crayon. Elle laisse libre l’après-midi où elle voudrait retourner à la bibliothèque. En fermant l’agenda, elle voit Gérard poser le trousseau devant lui. Personne ne l’a encore pris. Ils en reparleront quand ils auront établi les horaires.
 
 Le soir, Lucie lui demande si elle a de nouvelles responsabilités. Odile raconte les affiches et la discussion sur les clés. Sa fille s’étonne qu’un projet si modeste demande autant de précision. Odile reconnaît le côté laborieux de la réunion. Elle sait pourtant ce qui change pour elle : elle peut contribuer sans que toute sa disponibilité soit présumée. Elles parlent ensuite de la recette de Françoise et d’un souvenir amusant. La valeur de cette conversation ne tient à aucune fonction à remplir. Cette différence lui paraît utile, même si elle ne résout pas les questions du prochain mois.
 
 ---
 
-À la retraite, une place peut évoluer longtemps après le départ du travail. Des compétences restent disponibles, des envies se transforment et de nouvelles circonstances modifient ce que vous souhaitez proposer. Vous pouvez apprécier l’utilité, la transmission ou la responsabilité sans en faire les seules manières de compter. Vous pouvez aussi préférer une activité où personne ne vous connaît dans votre ancien métier et où vous avez le droit de débuter.
+Les compétences acquises au travail restent disponibles après la retraite. Leur usage dépend du rôle proposé et de ce que vous souhaitez y consacrer. Une tâche familière peut vous plaire ; une activité où vous débutez peut aussi vous intéresser. L’important pour décider est de connaître l’engagement que l’on vous demande, y compris les horaires et les relais.
 
 Avant un engagement, décrire les tâches, les horaires et les relais peut rendre le choix plus concret. Une contribution limitée n’est pas une participation de moindre valeur. Elle peut être exactement celle qui convient à votre situation et au projet, ou révéler que les besoins doivent être organisés autrement. Le temps personnel, le repos et les activités sans résultat attendu peuvent rester des éléments légitimes de votre vie.
 

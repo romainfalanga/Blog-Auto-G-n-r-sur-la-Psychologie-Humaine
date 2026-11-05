@@ -57,18 +57,16 @@ Pour contrer la tendance à l'obséquiosité, entraînez-vous à utiliser des ph
 
 Après un conflit où vous avez eu l'impression de jouer un rôle, prenez votre carnet de notes. Divisez une page en deux colonnes. Dans la colonne de gauche, écrivez ce que vous avez dit et fait. Dans la colonne de droite, écrivez ce que vous pensiez et ressentiez réellement. Cet exercice permet de comparer ce que vous avez ressenti et ce que vous avez dit. Il ne mesure pas la dissociation et ne la traite pas. En relisant ces pages, vous commencez à donner une place légitime à votre colère, lui montrant qu'elle a le droit d'exister, même si elle n'est pas encore prête à être exprimée tout haut devant l'autre. Sophie utilise ici ses acquis précédents sur les pensées automatiques pour ne plus laisser son cerveau transformer ses doutes en vérités absolues.
 
-## Évolution de Sophie et affirmation de soi
+## Revenir sur la proposition rejetée
 
-Le lendemain de sa réunion avec Marc, Sophie est de nouveau à son poste de travail dans l'open-space. Elle a passé une partie de la soirée à remplir son carnet des vérités cachées, et remarque qu’elle attend beaucoup d’elle-même quand le ton monte. Elle est aussi inquiète du jugement professionnel de Marc. Si elle n'est pas la collègue la plus gentille et la plus docile, elle a peur d'être perçue comme incompétente, une crainte qu'elle avait déjà identifiée lors de sa réflexion sur l'effet Dunning-Kruger.
+Le lendemain, Sophie ouvre les notes de Marc sur la refonte. Elle a écrit « pas de souci » à la fin de la réunion et voudrait maintenant reprendre les deux points qui la gênent. Elle se rappelle s’être excusée alors qu’elle ne demandait rien d’autre qu’un examen de sa proposition.
 
 Marc s'approche de son bureau pour lui demander où en est la refonte de la base de données. Habituellement, Sophie lui aurait répondu avec un enthousiasme forcé. Cette fois, elle sent la vague de chaleur monter dans son cou, le signal de son agacement. Elle ne sourit pas. Elle ne s'excuse pas. Elle ajuste ses lunettes rondes, regarde son écran, puis lève les yeux vers lui. Elle utilise la technique de la verbalisation neutre : "J'ai étudié tes retours de la veille. Certains points sont pertinents, mais la structure initiale doit rester pour garantir la performance. On en discute en réunion technique demain."
 
-Marc semble déstabilisé par ce ton calme et professionnel, dépourvu de sa souplesse habituelle. Il bafouille un accord avant de s'éloigner. Sophie sent son cœur battre un peu plus vite, mais ce n'est pas la panique habituelle. C'est la force de la sincérité. Elle n'a pas été impolie, elle a simplement cessé d'être excessivement aimable pour masquer sa désapprobation. Pour la première fois, elle n'a pas l'impression d'avoir trahi sa propre expertise. Elle se sert un thé vert, les mains stables, et se replonge dans son code avec une clarté d'esprit nouvelle.
+Marc ne répond pas tout de suite. Il finit par demander quel cas Sophie veut comparer. Elle lui montre la note sur la base de données. Quand il repart, elle relit son propre message d’hier. Elle ne sait toujours pas ce qu’il a pensé de son ton. Le point technique, lui, est resté dans la discussion.
 
 ---
 
 La formation réactionnelle fait partie d’un cadre théorique. Dans l’histoire de Sophie, le fait concret est qu’elle montre de la politesse tout en éprouvant de la colère. Elle peut se demander ce dont elle a besoin sans chercher à étiqueter ce comportement.
-
-L'évolution de Sophie montre que l'on peut sortir de ces schémas répétitifs en s'autorisant à ne plus être la personne parfaite que l'on attend de nous. La colère, la frustration ou le désaccord ne sont pas des ennemis à transformer, mais des signaux précieux sur nos limites et nos besoins réels. Apprendre à les écouter sans les travestir est le premier pas vers une vie plus alignée et des relations plus saines.
 
 Si ce décalage est pénible, en parler avec un professionnel peut aider à comprendre dans quelles situations il revient. Si une personne vous menace, vous n’avez pas à lui exprimer vos émotions pour justifier le recours à une aide.

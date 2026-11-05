@@ -13,7 +13,7 @@ episode: 7
 draft: false
 ---
 
-Baptiste efface du tableau une flèche devenue inutile. La séance de coordination se termine sans annonce spectaculaire. Deux personnes ont clarifié une responsabilité, une date doit être confirmée et un document reste à reprendre. Les participants rangent leurs affaires pendant qu’il vérifie les points notés. Quelqu’un remercie rapidement l’équipe puis sort pour un autre rendez-vous. Baptiste regarde la salle vide et éprouve une déception qu’il aurait du mal à expliquer : tout cela paraît bien ordinaire au regard du temps qu’il a consacré à la préparation.
+Baptiste efface du tableau une flèche devenue inutile. La flèche reliait les noms de deux personnes. Elles ont enfin réparti le suivi et l’une d’elles vient de partir avec le document sous le bras. Deux personnes ont clarifié une responsabilité, une date doit être confirmée et un document reste à reprendre. Les participants rangent leurs affaires pendant qu’il vérifie les points notés. Quelqu’un remercie rapidement l’équipe puis sort pour un autre rendez-vous. Baptiste regarde la salle vide et éprouve une déception qu’il aurait du mal à expliquer : tout cela paraît bien ordinaire au regard du temps qu’il a consacré à la préparation.
 
 À trente-sept ans, il coordonne la maintenance dans un réseau de transports et apprécie généralement la coopération concrète. Il aimerait parfois que son travail produise un résultat visible et clairement attribuable à ce qu’il fait. Une information mieux comprise se remarque surtout quand elle manquait auparavant. Quand elle circule correctement, chacun poursuit son activité. Baptiste sait que cette discrétion n’équivaut pas à une absence d’utilité, mais cette connaissance reste abstraite certains jours. Il compare la séance à l’image d’un projet qui transformerait immédiatement le fonctionnement du service.
 
@@ -57,7 +57,7 @@ Baptiste tient à une coopération où les personnes disposent d’informations 
 
 Baptiste peut proposer une fin de séance plus courte avec trois points de suite, plutôt qu’un long document rédigé seul après son horaire. Il vérifie que ce format convient au besoin réel et aux règles du service. Cette proposition n’assure pas que tout sera simple, mais elle relie l’utilité souhaitée à une façon de travailler plus soutenable. Il peut également préserver une activité personnelle sans lui demander de compenser toute la frustration professionnelle. Les loisirs ne sont pas des outils obligatoires pour supporter une organisation excessive. Si l’impression de vide ou l’épuisement persistent, un professionnel peut aider à examiner la santé, les attentes et les conditions de vie, tandis que certains changements demanderont une réponse collective ou organisationnelle.
 
-## Baptiste transmet un résultat limité sans le minimiser
+## Les deux points qui ont avancé
 
 Il envoie à Patricia les points réellement clarifiés et les questions ouvertes. Il ne transforme pas la note en présentation d’un succès pour masquer l’arrêt de la fiche. Il ne l’accompagne pas non plus d’une phrase qui retire sa valeur au travail réalisé. Patricia lui demande de distinguer plus visiblement la prochaine décision de la simple information. Baptiste corrige cette partie. Un échange ordinaire peut améliorer le document sans devenir une appréciation globale de sa compétence ou de son importance dans l’équipe.
 

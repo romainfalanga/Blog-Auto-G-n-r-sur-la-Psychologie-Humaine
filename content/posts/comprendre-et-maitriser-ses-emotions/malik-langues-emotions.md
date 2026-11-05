@@ -15,7 +15,7 @@ draft: false
 
 Le voyant d’enregistrement reste allumé alors que Malik ne dit plus rien. Il prépare un message à Awa après la fermeture de l’atelier photo. La langue de ses émotions ne lui paraît pas inaccessible ; c’est la formulation exacte qui résiste. « Ça me manque » peut désigner leurs conversations en présence, une promenade ou la possibilité de partager une tâche banale. Il ne veut pas que son message ressemble à un reproche de vivre loin.
 
-Il recommence en français, puis poursuit quelques phrases en wolof. Les deux langues font partie de sa vie depuis bien avant son installation ici, choisie quatre ans plus tôt. Aucune ne contient automatiquement le vrai Malik. Certaines expressions évoquent une relation particulière, un ton familier ou une situation où il les utilise souvent. Il cherche moins une traduction parfaite qu’une manière juste de se faire comprendre par Awa.
+Il recommence en français, puis poursuit en wolof. Avec Awa, il passe souvent de l’un à l’autre sans préparer sa phrase. Là, il bute sur le même mot. Il ne parle ni d’une dispute ni d’un projet qu’ils pourraient organiser par téléphone. Il parle d’un mur sur lequel ils auraient posé une photo ensemble. Il essaie la phrase que cette image lui suggère, dans la langue qui lui vient à ce moment-là.
 
 Elle lui répond en demandant ce qui lui manque aujourd’hui, précisément. Malik voit alors le détail : choisir ensemble une photo à accrocher, sans envoyer plusieurs versions sur un petit écran. L’émotion devient plus facile à raconter lorsqu’elle rejoint cette scène. Il peut éprouver de la tendresse, de l’agacement devant la distance et du plaisir pour sa rencontre photo dans la même journée.
 
@@ -57,7 +57,7 @@ Une expérience limitée permet de le vérifier : ajouter un mot sur son état e
 
 Malik conserve aussi des limites. Il peut souhaiter parler d’une émotion à Awa et garder ce détail privé avec sa mère. Tout dire à chacun ne constitue pas une meilleure expression de soi. Le choix du destinataire fait partie d’une communication respectueuse de ses besoins et de ceux des autres.
 
-## 3 techniques pour trouver une expression qui vous ressemble
+## Chercher une phrase que l’autre peut entendre
 
 ### 1. Partir d’une scène plutôt que chercher le mot parfait
 

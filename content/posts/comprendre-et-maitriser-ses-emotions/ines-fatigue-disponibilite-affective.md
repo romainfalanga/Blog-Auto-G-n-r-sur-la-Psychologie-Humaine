@@ -15,7 +15,7 @@ draft: false
 
 Les roulettes du chariot grincent lorsqu’Inès pousse les derniers albums vers la réserve. La bibliothèque accueille un festival jeunesse et les groupes se succèdent depuis l’ouverture. À trente ans, Inès aime expliquer comment une histoire peut se lire à plusieurs voix. Aujourd’hui, après des heures de consignes, de questions et de bruit, elle n’a plus envie de produire une phrase complète. Sa fatigue rencontre pourtant un autre rendez-vous : Clara souhaite lui parler d’une difficulté qui la préoccupe.
 
-Dans le vestiaire, Inès relit le message de sa compagne, avec qui elle vit depuis trois ans. Elle répond qu’elle rentre bientôt et ajoute un cœur. Elle hésite à préciser qu’elle a besoin de temps seule. Depuis plusieurs semaines, elles parlent davantage de désir, de limites et de vie privée. Inès craint qu’une nouvelle demande d’espace ressemble à un retrait systématique. Elle préférerait pouvoir rester disponible par simple décision.
+Dans le vestiaire de la bibliothèque, Inès répond qu’elle rentre bientôt et ajoute un cœur. Clara lui demande si elle aura le temps de regarder son dossier. Inès pense à toutes les fois où elle a demandé de l’espace ces derniers jours et hésite à dire qu’elle n’a pas envie de parler dès la porte passée.
 
 En arrivant, elle trouve Clara près de la fenêtre, un courrier entre les mains. Sa compagne commence à raconter les étapes d’une démarche difficile. Inès entend les mots mais n’en retient pas l’ordre. Elle pose une question dont Clara vient de donner la réponse. « Tu m’écoutes ? » demande celle-ci. Inès répond trop vite qu’elle écoute, puis s’irrite de devoir le prouver. Le bruit d’une fourchette tombée au sol lui paraît disproportionné.
 
@@ -51,7 +51,7 @@ Inès envisage de promettre une longue soirée d’écoute le lendemain. Elle ne
 
 Un repère de retour peut rester utile s’il correspond à une intention réaliste et révisable. « Je te propose qu’on fasse le point après le repas » diffère de « je serai entièrement disponible demain ». Le premier donne une prochaine étape ; le second promet un état intérieur. Clara peut accepter le repère ou dire qu’elle a besoin d’un autre soutien. Le repos d’Inès ne lui impose pas d’attendre seule lorsque son propre besoin est important.
 
-## Trois techniques pour ajuster la disponibilité affective
+## Dire le temps dont on dispose
 
 ### 1. Décrire sa capacité avec un exemple observable
 
@@ -77,13 +77,13 @@ Inès garde en même temps sa limite : elle ne peut pas tenir une longue convers
 
 Pour adapter cette piste, distinguez le fait à réparer de la capacité à préserver. « J’ai parlé durement » porte sur le ton. « J’ai besoin de dormir » porte sur une nécessité actuelle. Les deux peuvent être vrais. Si les échanges blessants deviennent fréquents, cherchez aussi les conditions qui les entretiennent : charges de travail, répartition des tâches, manque de relais ou conflits non traités. Les explications individuelles ne suffisent pas toujours à modifier la situation.
 
-## Inès revient avec une présence plus modeste et plus claire
+## Les deux piles sur le tapis
 
 Après sa pause, Inès rejoint Clara sur le tapis, où les documents sont regroupés en deux piles. Elle ne se sent pas pleine d’énergie. Elle peut néanmoins suivre une question à la fois. Clara explique d’abord ce qui l’inquiète, puis demande simplement une relecture. Inès accepte cette tâche précise. La conversation n’a ni l’ampleur ni la fluidité qu’elles imaginent au départ, mais elle correspond mieux à leurs moyens présents.
 
 Elles choisissent ensuite de remettre une partie de la démarche au jour suivant et de demander un renseignement à une personne compétente. Inès ne devient pas l’unique ressource de Clara. Cette répartition réduit la pression sur leur échange sans dévaluer leur lien. Avant de se coucher, elles parlent brièvement du festival jeunesse. Clara ne demande pas tous les détails et Inès ne se force pas à en produire pour prouver qu’elle retrouve sa bonne humeur.
 
-La semaine suivante, Inès prévient avant une autre animation qu’elle risque d’être peu disponible après son service. Ce message ne lui réserve pas automatiquement toute la soirée seule. Il ouvre une organisation plus précoce. Clara peut annoncer un besoin important et elles peuvent prévoir une solution. Inès garde la difficulté de certaines fins de journée ; elle commence à ne plus la dissimuler jusqu’au moment où son ton décide à sa place.
+Avant un autre atelier, Inès écrit qu’elle rentrera sans doute fatiguée et qu’elle pourra regarder un seul document après le dîner. Clara lui répond qu’elle va demander le délai à la personne qui a envoyé le dossier. Inès termine son service sans savoir encore ce qu’elles auront à faire le soir. Elle sait au moins qu’elle n’a pas promis toute la soirée.
 
 ---
 

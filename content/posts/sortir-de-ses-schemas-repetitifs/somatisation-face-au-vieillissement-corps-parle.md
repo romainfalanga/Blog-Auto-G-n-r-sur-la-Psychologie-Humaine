@@ -13,9 +13,9 @@ contexte: "face au vieillissement"
 draft: false
 ---
 
-L'odeur de la sciure de chêne flotte dans l'air frais de ce 10 avril 2026. Dans son atelier niché au cœur de la campagne, Bernard s'apprête à déplacer une lourde planche destinée au nouveau projet de son fils Éric. C'est un établi, solide et massif, qu'il veut lui offrir comme un pont jeté au-dessus de leurs silences habituels. Ce besoin de matérialiser son affection par le bois est un vieux réflexe, une habitude qu'il a développée pour compenser ce mutisme hérité de ses parents, ce bouclier qu'il utilisait jadis pour fuir leur jugement et qui le sépare aujourd'hui de ses propres enfants. Sultan, son fidèle compagnon à quatre pattes, somnole près du poêle à bois éteint. Bernard agrippe le bois, ses mains calleuses trouvant une prise ferme, mais alors qu'il amorce un mouvement de rotation, un éclair de douleur déchire le bas de son dos.
+Bernard tire la planche du tas par un bout. Il avait prévu de demander à Éric de prendre l’autre côté, mais il lui restait juste assez de place pour essayer seul. Une douleur lui coupe le geste. Il repose le bois aussi près qu’il le peut, puis reste appuyé contre l’établi. Sultan s’est levé avec le bruit.
 
-Le choc est si brutal qu'il reste figé, les doigts crispés sur l'écorce rugueuse. Ce n'est pas une simple fatigue musculaire. C'est un verrouillage total, une barre de fer qui semble lui traverser les lombaires. Il lâche prise et se laisse glisser lentement contre l'établi, le visage buriné contracté par l'effort de ne pas crier. À 58 ans, Bernard sent son corps lui envoyer un signal qu'il ne peut plus ignorer sous le bruit de sa ponceuse. La douleur est apparue pendant qu’il soulevait la planche. Il ne sait pas encore ce qui l’a provoquée.
+Il attend debout, une main sur l’établi. Il n’a pas les moyens de dire ce qui s’est passé dans son dos. Quand il essaie de faire un pas, la douleur l’arrête de nouveau. À 58 ans, Bernard sent son corps lui envoyer un signal qu'il ne peut plus ignorer sous le bruit de sa ponceuse. La douleur est apparue pendant qu’il soulevait la planche. Il ne sait pas encore ce qui l’a provoquée.
 
 Il reste assis sur le sol en béton froid, observant ses mains qui tremblent légèrement. Il se souvient de ce qu'il a appris récemment sur son besoin de tout contrôler, sur ce mutisme qu'il utilisait jadis pour se protéger de ses parents. Aujourd'hui, le bois ne suffit plus à absorber son chagrin. Le silence de l'atelier, autrefois son sanctuaire, devient le théâtre d'une rébellion physique. Il se demande d’abord comment se relever et qui appeler. Les mots qu’il aimerait dire à Éric peuvent attendre un moment plus calme.
 
@@ -57,13 +57,15 @@ Pour ceux qui ont du mal à poser des mots directs sur leurs sentiments, utilise
 
 Pendant qu’il attend un avis, Bernard apprécie simplement la chaleur de Sultan contre lui. Ce moment de réconfort ne traite pas la douleur et n’a pas de durée particulière.
 
-## Bernard commence à écouter son corps
+## Éric prend l’autre côté
 
 Chez lui, quelques heures après le blocage, Bernard appelle pour demander un avis médical. Sultan se couche contre lui. Bernard essaie de décrire le mouvement qu’il faisait lorsque la douleur est apparue.
 
 La douleur le décide aussi à demander un coup de main pour l’atelier. Il prend son téléphone et écrit à Éric : « Mon dos a lâché aujourd’hui. J’ai demandé un avis. Est-ce que tu peux venir m’aider ? J’aimerais aussi qu’on parle un peu. »
 
 Ce geste est une révolution pour l'artisan. En avouant sa faiblesse physique, il ouvre la porte à une connexion émotionnelle. La douleur est toujours là, lancinante, mais elle ne semble plus être un mur infranchissable. Elle est devenue un signal de navigation. Bernard comprend que vieillir n'est pas forcément se briser, mais c'est accepter que la structure doit devenir plus souple pour ne pas casser sous le vent des émotions. Il regarde les poutres du plafond, conscient que même le chêne le plus solide a besoin de respirer pour traverser les siècles.
+
+Éric prend l’autre bout de la planche quand ils reviennent à l’atelier. Bernard la lâche avant qu’il le lui demande. Pour le reste, il attend l’avis qu’il vient de solliciter.
 
 ---
 

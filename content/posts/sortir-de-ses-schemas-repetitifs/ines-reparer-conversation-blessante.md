@@ -15,7 +15,7 @@ draft: false
 
 La fermeture du sac isotherme coince sur un morceau de tissu. Inès tire, Clara lui demande si elle veut de l’aide, et la réponse part avant qu’elle ait choisi ses mots : « Tu veux toujours tout gérer, même ce que je peux faire seule. » Clara laisse le sac sur le banc du marché couvert. Le bruit des caisses de légumes continue autour d’elles. Inès sait déjà qu’elle transforme un geste proposé en accusation générale.
 
-À trente ans, Inès travaille comme bibliothécaire et vit avec Clara depuis trois ans. Elles parlent davantage de leurs limites et de leurs préférences intimes. Cette attention lui fait du bien, mais elle la confond parfois avec un examen permanent. Aujourd’hui, elle se sent observée après une conversation personnelle de la veille. Cela explique une partie de sa sensibilité ; cela ne signifie pas que Clara cherche à la contrôler en proposant de débloquer une fermeture.
+Inès se sent encore observée après leur conversation de la veille. Le sac ne ferme pas. Elle répond à Clara comme si celle-ci lui demandait des comptes, alors qu’elle vient seulement de lui proposer de dégager le tissu.
 
 « Je te demande seulement si tu veux de l’aide », répond Clara. Inès pourrait reconnaître le décalage. Elle ajoute pourtant : « Oui, c’est toujours seulement une question. » Cette seconde phrase lui paraît plus dure encore une fois prononcée. Clara reprend son panier et dit qu’elle préfère terminer les courses séparément. Inès reste avec le sac enfin fermé et une envie pressante de convaincre sa compagne qu’elle ne pense pas vraiment ce qu’elle vient de dire.
 
@@ -51,7 +51,7 @@ La phrase « tu ne m’en veux plus ? » vient rapidement à Inès. Elle aimerai
 
 Inès peut dire qu’elle regrette et tolérer que l’ambiance reste moins légère. Elle peut également prendre soin de son propre inconfort par une marche, une activité ou un échange approprié avec une personne extérieure, sans diffuser des détails privés de Clara. Elle n’a pas à se punir pour être crédible. La responsabilité consiste à agir plus justement, pas à souffrir assez pour obtenir l’effacement de la remarque.
 
-## Trois techniques pour réparer avec des actes précis
+## Reprendre les mots qui ont blessé
 
 ### 1. Nommer le fait et reconnaître sa part sans condition
 
@@ -77,13 +77,13 @@ Elles conviennent aussi d’un repère lorsque l’une entend « toujours » ou 
 
 Quelques jours plus tard, Inès vérifie brièvement si l’accord est utile. Elle n’attend pas une note sur la qualité de ses excuses. Elle regarde si elle utilise le remplacement et si Clara peut proposer sans être immédiatement soupçonnée. Si l’ironie revient souvent, une aide extérieure pourra être pertinente. Le changement ne se déduit pas d’une promesse ; il se voit dans des interactions répétées où les besoins et les limites restent dicibles.
 
-## Inès répare sans exiger une soirée intacte
+## Clara ne revient pas tout de suite
 
 Après la conversation, Clara préfère lire dans la pièce voisine. Inès voudrait proposer tout de suite une activité commune. Elle reconnaît cette envie de retrouver une ambiance familière, puis laisse Clara choisir sa soirée. Elle range les provisions et prépare son propre repas. Ces gestes ne constituent pas une pénitence. Ils lui permettent de poursuivre une vie ordinaire sans faire dépendre la réparation d’un retour immédiat à la tendresse.
 
 Le lendemain, elles reparlent de la journée libre prévue. Clara ne revient pas automatiquement sur toutes leurs intentions, mais dit qu’elle garde encore la remarque en tête. Inès peut l’entendre sans répondre qu’elle s’excuse déjà. Elle ne recommence pas non plus le même discours pour obtenir un autre résultat. Elle indique ce qu’elle essaie de faire différemment et accueille que le temps nécessaire ne soit pas exactement le sien.
 
-Au marché suivant, Clara demande si elle veut porter le panier. Inès répond qu’elle préfère le garder et lui confier le sac le plus léger. L’échange ne comporte aucune explication psychologique. C’est précisément un changement concret : une proposition, une préférence, un ajustement. La relation ne devient pas exempte de tensions. Inès dispose d’une manière plus fidèle de préserver son autonomie et d’un chemin pour revenir lorsqu’elle blesse malgré son intention.
+Au marché suivant, Clara demande à Inès si elle veut lui passer le panier. Inès préfère le garder et lui confie le sac léger. Clara lui demande alors où elles avaient acheté les dernières tomates. Le marché continue, sans qu’Inès ait besoin de vérifier que l’autre conversation est définitivement terminée.
 
 ---
 

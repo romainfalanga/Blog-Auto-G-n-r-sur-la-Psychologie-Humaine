@@ -13,7 +13,7 @@ contexte: "au travail"
 draft: false
 ---
 
-Djamila ajuste son foulard de soie turquoise devant le reflet de la vitre de la salle de réunion. Aujourd'hui, le 4 mai 2026, l'ambiance au sein de l'association est électrique, mais pour une fois, ce n'est pas à cause d'un conflit avec Antoine. Elle vient de terminer la présentation du nouveau protocole d'accueil pour les femmes victimes de violences, un projet qu'elle porte à bout de bras depuis des mois. Le silence qui suit son intervention est rompu par les applaudissements de ses collègues. Amina lui lance un regard brillant d'admiration, tandis qu'Antoine lui-même hoche la tête avec une forme de respect inhabituelle. Djamila sent une chaleur monter dans son cou, une sensation de plénitude qu'elle n'avait pas ressentie depuis longtemps. Elle se redresse, son menton pointe vers le haut, et pendant une seconde, elle se sent invincible, dominant la pièce de toute sa stature.
+Amina fait glisser une feuille sur la table de réunion. À côté du résultat du projet, quelqu’un a ajouté le nom de Djamila. Elle se prépare à expliquer les détails qui restent à régler. Une collègue la devance : « Je voulais te remercier pour les rendez-vous que tu as obtenus. » Djamila garde son stylo fermé.
 
 Pourtant, cette sensation s'accompagne d'une rigidité soudaine. Elle repense à son parcours, à ce soulagement qu'elle a appris à identifier il y a quelques semaines lors de l'officialisation du projet de relogement. Mais ici, l'émotion est différente, plus tranchante. C'est une force qui la pousse à vouloir tout contrôler, à refuser presque les compliments en les balayant d'un revers de main mental, comme si accepter cette réussite la rendait vulnérable à une chute future. Son esprit tourne à plein régime, analysant les micro-expressions de l'assemblée. Elle se demande si cette satisfaction qu'elle éprouve n'est pas une forme de danger, un signal qui pourrait attirer l'attention de personnes manipulatrices, comme son ex-conjoint Samir qui savait si bien utiliser ses succès pour mieux la rabaisser ensuite.
 
@@ -57,13 +57,11 @@ Pour équilibrer la fierté authentique et éviter l'orgueil ou la dévalorisati
 
 Djamila peut, si elle le souhaite, demander un avis à Amina sur un point précis. Dans un climat de travail qui ne lui paraît pas sûr, elle peut aussi choisir un autre interlocuteur ou ne rien partager. La réaction d’un collègue ne mesure pas sa compétence ni les progrès de sa reconstruction.
 
-## Évolution de Djamila et intégration de la réussite
+## Un merci sans rectificatif
 
-À la fin de la réunion, Amina s'approche de Djamila près de la machine à eau. Elle lui pose une main légère sur l'épaule, un geste que Djamila ne rejette pas cette fois-ci, malgré le léger sursaut qui l'habite encore. Amina lui confie qu'elle a été impressionnée par la manière dont elle a géré les questions difficiles d'Antoine. Djamila sent la fierté remonter, mais au lieu de répondre par une pirouette d'humilité ou de se raidir, elle applique l'ancrage sensoriel. Elle sent le froid du gobelet dans sa main gauche, observe les reflets de l'eau, et se tourne vers son amie. Elle prend le temps de dire simplement merci, en y ajoutant qu'elle a effectivement beaucoup travaillé sur ce dossier et qu'elle est contente que cela se voie.
+Près de la machine à eau, Amina lève la main vers son épaule, puis s’arrête : « Je peux ? » À la brasserie, Djamila n’avait pas eu le temps de répondre à cette question. Cette fois, elle acquiesce. Elle a encore la nuque serrée et n’a pas envie de rester dans le couloir à parler d’elle.
 
-C'est une petite révolution intérieure. Djamila réalise qu'elle n'a pas besoin de se cacher derrière une fausse modestie pour être en sécurité. Elle se souvient de ses séances avec le Dr Martin où ils exploraient comment son passé avec Samir l'avait forcée à rendre ses réussites invisibles pour éviter les représailles. Aujourd'hui, elle choisit de s'autoriser cette place. Elle pense à son fils Adam, à qui elle veut apprendre que l'on peut être fier de soi sans écraser les autres. Elle ne cherche plus à confirmer ses biais de méfiance, mais à intégrer ses succès comme des briques solides dans la reconstruction de sa nouvelle vie.
-
-En quittant le bureau pour aller chercher Adam à l'école, Djamila ne ressent plus cette tension dans la nuque qui l'accompagnait après chaque succès. Elle marche d'un pas assuré sur le trottoir, savourant le bruit de ses chaussures sur le ciment. Elle a compris que la fierté au travail n'est pas un piège, mais une célébration de sa résilience. Elle n'est plus la victime qui se cache, ni la combattante qui s'isole dans sa tour d'ivoire de compétences. Elle est une femme qui, progressivement, réapprend à habiter sa propre valeur, avec douceur et fermeté, consciente que chaque pas vers l'acceptation de soi est une victoire sur le passé.
+« Merci », dit-elle à Amina. Elle pense à ajouter que tout le monde avait fait sa part. Elle le pense toujours en allant chercher Adam, et elle sait à qui elle voudrait le dire. Pour le moment, c’est son propre travail qu’on vient de reconnaître.
 
 ---
 

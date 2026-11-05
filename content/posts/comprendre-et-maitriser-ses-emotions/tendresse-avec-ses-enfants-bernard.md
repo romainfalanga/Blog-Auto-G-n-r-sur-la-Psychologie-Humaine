@@ -13,9 +13,9 @@ contexte: "avec ses enfants"
 draft: false
 ---
 
-Bernard est debout dans son atelier, le dos voûté comme la coque d'un vieux bateau, et observe Éric de dos. C'est le 20 mai 2026, dehors l'air sent l'herbe du pré mouillée ; à l'intérieur, le bois embaume la cire et l'huile de lin. La radio diffuse des nouvelles, voix lointaines et statiques, et Sultan dort roulé contre le pied d'établi.
+Éric revient chercher un outil qu’il a laissé sur l’établi. Bernard le reconnaît à sa manière d’ouvrir la porte jusqu’en butée. Il aimerait lui dire qu’il était content de le voir la dernière fois. Sa main part avant la phrase, puis il la laisse retomber sur le bord de la table.
 
-Il voudrait poser la main sur l'épaule de son fils pour dire merci, pour calmer la rigidité qui traîne entre eux depuis des mois. Ses doigts se referment sur le rabot, la paume rugueuse rencontre le bois, et il reste planté là, muet. Ce geste manqué est familier : la tendresse se fraye un chemin en lui, mais ses mots ne suivent pas. Il revoit ses parents, figés dans ce même mutisme protecteur qu'il a longtemps pris pour de la force, avant de comprendre en Toscane que ce bouclier n'était qu'une chape de plomb l'isolant du monde.
+Il voudrait poser la main sur l'épaule de son fils pour dire merci, pour calmer la rigidité qui traîne entre eux depuis des mois. Il regarde la main qu’il vient de poser sur la table et reste silencieux. Ce geste manqué est familier : la tendresse se fraye un chemin en lui, mais ses mots ne suivent pas. Il revoit ses parents, figés dans ce même mutisme protecteur qu'il a longtemps pris pour de la force, avant de comprendre en Toscane que ce bouclier n'était qu'une chape de plomb l'isolant du monde.
 
 Depuis quelques semaines, il repense aux conversations interrompues du 6 mai et aux meubles qu'il a offerts comme messages muets. Il se rappelle avoir compris, lors d'un précédent rendez-vous avec Éric, que ses silences n'étaient pas neutres mais constituaient un barrage. Aujourd'hui il veut que la tendresse ne soit plus seulement une pièce finie, un tiroir poli, mais une présence perceptible quand Éric pose la main sur le placard qu'il a construit.
 
@@ -30,7 +30,7 @@ La tendresse parentale peut passer par des actes qui ne ressemblent pas à des d
 ### 1. Les objets comme messages affectifs
 Bernard parle en meubles. Le buffet réparé, la chaise restaurée, la table offerte sont des phrases silencieuses adressées à Éric. Un objet porte la trace d'heures passées, d'attention minutieuse, de choix de bois et d'assemblages solides. Pour l'enfant, recevoir un meuble pensé pour lui peut signifier que son parent pense à lui et l'accompagne.
 
-La commode que Bernard finit pour la chambre d'Éric contient des tiroirs aux dimensions adaptées aux outils que son fils aime. C'est une manière de dire qu'il connaît ses besoins sans prononcer un mot.
+La table d’atelier que Bernard finit pour Éric comporte un tiroir assez profond pour ses outils. C'est une manière de dire qu'il connaît ses besoins sans prononcer un mot.
 
 ### 2. Le soin quotidien et la constance
 La tendresse s'exprime aussi par la régularité : appeler pour demander si tout va bien, laisser du pain dans le frigo, réparer la poignée de la voiture de son fils. Ces petits gestes répétés créent une trame de sécurité affective.
@@ -60,14 +60,16 @@ Transformer une transmission de savoir-faire en moment relationnel est une méth
 
 Pendant la session, il s'agit de poser trois phrases clés pour expliquer, encourager et complimenter. Enseigner est un moyen d'être proche sans forcer l'expression émotionnelle. Le parent montre sa confiance dans l'autre et crée des souvenirs partagés.
 
-## Évolution de Bernard vers des gestes qui parlent
+## Demander avant de poser la main
 Aujourd’hui, dans l’atelier, Bernard garde ses outils sur l’établi. Quand Éric se tourne, il lui demande s’il peut lui poser la main sur l’épaule. Éric acquiesce, surpris. Le geste est bref et Bernard laisse son fils reprendre sa place à l’établi.
 
-Ce n'est pas une transformation radicale car les vieilles habitudes de silence s'accrochent. Pourtant Bernard a changé depuis le 16 mars, quand il se réfugiait dans le travail pour éviter la conversation. Il se souvient de la commode qu'il avait terminée, du blocage lombaire du 10 avril qui l’avait amené à demander un coup de main, et de la dispute du 6 mai qui a fissuré son clivage. Ces souvenirs servent désormais de repères. Les techniques apprises, comme reconnaître le surcontrôle, comprendre la somatisation ou accepter la tristesse, l'aident à choisir un geste plus direct. Il veut pouvoir demander de l’aide quand il en a besoin.
+Bernard se rappelle la planche qu’il avait voulu porter seul. Quand il avait enfin appelé Éric, son fils lui avait demandé par quel bout il devait la prendre. Pour la table, Bernard aimerait qu’ils en parlent avant de devoir la soulever.
 
-Il met en pratique la première technique un peu plus tard en glissant une petite note collée sous la table qu'il vient de finir pour Éric. La note dit simplement : "Pour tes outils, fais-en bon usage". Peu d'élocution, mais l'intention est nommée. Il sent que cela change la résonance du cadeau ; ce n'est plus seulement du bois travaillé, c'est un message conscient.
+Plus tard, il glisse une note dans le tiroir de la table qu’il finit pour Éric. « Pour tes outils. On réglera la hauteur ensemble si tu veux. » Il hésite à écrire qu’il a pensé à lui en la fabriquant. Il remet la note en place et laisse le tiroir ouvert.
 
-La troisième technique s'invite la semaine suivante. Bernard propose à Éric de l'aider à réparer une fenêtre. Il parle peu, mais il explique, encourage et salue le geste de son fils. Ils rient même quand une vis se coince. Ce partage n'efface pas toutes les tensions, mais il tisse un fil nouveau. Pour la première fois depuis longtemps, Bernard accepte que sa tendresse puisse se montrer sans se perdre, et qu'elle n'a pas besoin d'être parfaite pour atteindre son but.
+Sur le bord de la table, Bernard a laissé une vis grippée qu’il voulait retirer seul. Éric lui montre un embout. Quand la vis leur échappe à tous les deux, Bernard rit en même temps que son fils et lui demande de tenir la table.
+
+Avant de partir, Éric remet l’outil sur la table et lui demande quand ils régleront le tiroir. Bernard propose samedi. La prochaine fois, il lui faudra encore choisir s’il parle ou s’il laisse l’outil répondre à sa place.
 
 ---
 

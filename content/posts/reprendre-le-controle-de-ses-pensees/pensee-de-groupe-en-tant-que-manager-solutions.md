@@ -15,9 +15,9 @@ draft: false
 
 Le plafond de la salle de réunion du lycée semble plus bas que d'habitude sous la lumière crue des néons. Thomas ajuste ses lunettes, ses doigts effleurant sa barbe de trois jours. Autour de la table, ses collègues discutent avec passion du futur projet d'établissement. Valérie, toujours aussi énergique, mène le débat d'une main de fer, proposant une restructuration complète des sorties scolaires qui priverait les classes de seconde de leur voyage annuel en Provence. Thomas sent une résistance intérieure, une intuition qui lui rappelle l'importance de ce projet pour ses élèves qu'il accompagne avec patience.
 
-Pourtant, quand il regarde autour de lui, tous les autres professeurs hochent la tête à l'unisson. Le silence de Thomas pèse lourd dans la pièce imprégnée d'une odeur de vieux papier et de craie. Il repense à ses récents déboires dans son nouvel appartement lyonnais avec Émilie, où il avait fini par s'effacer totalement derrière les cartons de déménagement. Hier encore, il se sentait sans élan au milieu de ses cartons, mais aujourd'hui, le malaise est différent. C'est une pression invisible, une sorte de courant chaud qui l'entraîne à dire oui alors que tout son être crie non. Il revoit la scène en salle des professeurs quelques mois plus tôt, quand il avait accepté sans broncher le protocole de Valérie par simple peur d'être exclu du cercle.
+Thomas voit deux collègues acquiescer. Une autre trace un cercle autour d’une date sans prendre la parole. Il ne sait pas si elle partage ses réserves. Lors de la discussion sur le protocole, il avait attendu la fin pour demander un essai. Cette fois, la proposition concerne plusieurs niveaux et la décision n’est pas encore prise.
 
-Valérie se tourne vers lui avec un regard d'une intensité redoutable, attendant sa validation. Thomas sait qu'en tant que coordinateur de niveau, sa voix compte comme celle d'un manager d'équipe pédagogique. Il se souvient de sa difficulté à poser des limites lors du déménagement d'Antoine ou face à l'indiscipline de Julie. La peur de décevoir le groupe, ce besoin d'harmonie qu'il porte depuis son enfance entre ses trois frères et sœurs, remonte à la surface. Il s'apprête à ouvrir la bouche pour acquiescer, pour se fondre dans la masse, pour ne pas être celui qui brise l'unité de façade de cette fin de journée d'avril.
+Valérie se tourne vers lui avec un regard d'une intensité redoutable, attendant sa validation. Thomas sait qu'en tant que coordinateur de niveau, il peut demander que l’équipe examine les conséquences pour chaque classe. Il se rappelle avoir dû expliquer à Loïc à quelle heure il repartait le jour du déménagement. Ici, il s’agit d’une décision collective et il peut demander du temps pour en examiner les effets. La peur de décevoir le groupe, ce besoin d'harmonie qu'il porte depuis son enfance entre ses trois frères et sœurs, remonte à la surface. Il s'apprête à ouvrir la bouche pour acquiescer, pour se fondre dans la masse, pour ne pas être celui qui brise l'unité de façade de cette fin de journée d'avril.
 
 ## Définition de la pensée de groupe
 
@@ -25,7 +25,7 @@ Dans [son ouvrage de 1972](https://books.google.com/books/about/Victims_of_Group
 
 Ce modèle invite Thomas à se demander comment les avis divergents sont sollicités. Des hochements de tête ne permettent pas de savoir si chacun est d’accord ni de conclure à une pensée de groupe.
 
-## Manifestations de la pensée de groupe chez le manager
+## Ce qui empêche les objections de remonter
 
 ### 1. L'autocensure systématique des membres
 
@@ -47,13 +47,13 @@ Cette méthode consiste à désigner officiellement une personne lors de chaque 
 
 ### 2. Le recours aux experts extérieurs et à l'anonymat
 
-Pour briser l'illusion d'unanimité, il est essentiel d'intégrer des points de vue qui n'appartiennent pas au cercle restreint du pouvoir. En tant que manager, Thomas peut solliciter l'avis de collègues d'autres établissements ou utiliser des boîtes à idées anonymes avant les réunions décisives. L'exercice pratique réside dans la collecte de notes écrites non signées. Thomas peut demander à chacun d'écrire anonymement sur un papier son plus grand doute concernant le projet de Valérie, puis de mélanger les papiers pour les lire à haute voix. Des notes non signées peuvent faciliter la prise de parole, sans garantir l’anonymat dans une petite équipe.
+Pour briser l'illusion d'unanimité, il est essentiel d'intégrer des points de vue qui n'appartiennent pas au cercle restreint du pouvoir. Comme coordinateur de niveau, Thomas peut solliciter l'avis de collègues d'autres établissements ou utiliser des boîtes à idées anonymes avant les réunions décisives. L'exercice pratique réside dans la collecte de notes écrites non signées. Thomas peut demander à chacun d'écrire anonymement sur un papier son plus grand doute concernant le projet de Valérie, puis de mélanger les papiers pour les lire à haute voix. Des notes non signées peuvent faciliter la prise de parole, sans garantir l’anonymat dans une petite équipe.
 
 ### 3. La méthode du second tour de table différé
 
 Si le calendrier le permet, le groupe peut prévoir un temps de réflexion avant de valider la décision. Après être parvenu à un accord, le manager demande à chacun de rentrer chez soi et de revenir le lendemain avec une perspective fraîche. L'exercice consiste à clore la séance en disant : Nous sommes d'accord sur le principe, mais nous ne validerons rien avant demain matin pour laisser infuser nos réflexions personnelles. Pour Thomas, ce temps mort est vital. Il permet de sortir de l'influence du groupe, de discuter avec Émilie ou de courir le matin pour retrouver sa propre boussole interne avant de s'engager.
 
-## Évolution de Thomas et affirmation de sa voix
+## Faire un tour des objections
 
 La réunion touche à sa fin quand Thomas sent une chaleur monter dans son cou. Il se souvient de son passage dans le triangle de Karpman avec Émilie, où il avait compris que vouloir sauver tout le monde finissait par l'étouffer. S'il dit oui maintenant uniquement pour faire plaisir à Valérie et maintenir la paix, il trahit ses élèves et sa propre expertise d'enseignant. Il repense à la culpabilité qu'il ressentait au supermarché devant les cafés, cette peur de mal faire qui le rendait impuissant. Il réalise que son silence actuel n'est qu'une autre forme de ce sacrifice de soi qu'il a trop longtemps pratiqué pour acheter la tranquillité.
 

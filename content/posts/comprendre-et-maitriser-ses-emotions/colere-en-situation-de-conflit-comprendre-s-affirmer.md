@@ -13,11 +13,11 @@ contexte: "en situation de conflit"
 draft: false
 ---
 
-L'odeur de la poussière de béton et le vrombissement de la pelleteuse s'engouffrent dans la cabine de la camionnette où Patrick se réfugie. Ses mains, burinées par quarante ans de labeur, agrippent le volant écaillé avec une force qui fait blanchir ses phalanges. Il y a dix minutes, sur le haut du chantier, il a failli renverser le petit Antoine. Le jeune ouvrier a encore laissé traîner des étais mal fixés, et Patrick, en voulant les déplacer seul malgré son dos qui le martyrise, a senti une décharge électrique lui lacérer les lombaires. La douleur a agi comme une étincelle sur un baril de poudre. Il a hurlé. Pas un simple recadrage de chef d'équipe, mais un cri rauque, une explosion de fureur qui a cloué tout le monde au silence sous le ciel gris de ce 10 avril 2026.
+Un étai ripe. Patrick lâche la barre et crie à Antoine de reculer. Un second cri lui échappe, plus fort que le premier. Cette fois, le jeune homme a déjà fait deux pas en arrière.
 
-Il fixe ses paumes calleuses. Il se revoit, il y a quelques semaines, incapable d'ouvrir ce bocal de haricots devant Catherine, ou luttant contre ses larmes dans son garage face aux outils de son père Marcel. Il pensait avoir fait le plus dur en acceptant sa fragilité physique. Pourtant, cette rage qui lui brûle la gorge aujourd'hui est nouvelle par son intensité. C'est comme si, en brisant l'armure du silence, il avait libéré un torrent qu'il ne sait plus endiguer. Il se sent comme un gamin pris en faute, alors qu'il est le patron ici. La honte remplace doucement l'adrénaline, et il déteste ce sentiment.
+La livraison est en retard. Patrick a voulu avancer les étais avant de reprendre les vérifications, alors qu’il avait dit quelques jours plus tôt qu’il attendrait le matériel. Quand il s’est baissé, son dos l’a surpris. Il ne sait pas exactement à quelle distance la barre est passée d’Antoine. Il demande à un collègue de garder la zone libre et descend vers la camionnette.
 
-Patrick observe Antoine au loin, qui range les outils d'un air penaud. L'image de son père Marcel lui revient en mémoire, ce père qui ne criait jamais mais dont le regard froid suffisait à glacer le sang. Marcel disait qu'un homme qui perd ses nerfs est un homme faible. Patrick se demande s'il est devenu cet homme faible, ou si cette colère est le dernier rempart d'une identité de bâtisseur qui s'effrite en même temps que ses vertèbres. Il doit sortir de ce véhicule, mais ses jambes tremblent encore. Le conflit n'est pas réglé, il est juste en suspens, lourd comme un sac de ciment mouillé.
+Dans la cabine, il entend encore le mot qu’il a lancé à Antoine devant tout le monde. Il avait de quoi arrêter le travail sans l’insulter. À travers la vitre, il voit le jeune homme qui a repris ses gants. Patrick reste assis quelques minutes avant de retourner vers lui.
 
 ## Comprendre la colère en situation de conflit
 
@@ -41,20 +41,13 @@ Patrick peut reconnaître son cri et s’en excuser. Avec Antoine et l’équipe
 
 Une synthèse de Kjærvik et Bushman a trouvé que les activités qui réduisent l’activation, comme certaines pauses et formes de respiration, diminuaient en moyenne la colère et l’agressivité dans les études analysées. Les activités qui augmentaient l’activation ne produisaient pas le même résultat général. Une pause adaptée est une possibilité, avec des effets variables. Patrick peut desserrer les mains et attendre un moment avant de retourner discuter. Il n’a pas à serrer un outil ni à chercher à « évacuer » du cortisol.
 
-## Évolution du personnage et résolution
+## De retour près des étais
 
-Dans la camionnette, Patrick reprend son souffle après avoir demandé à un collègue de garder la zone dégagée. Il attend de pouvoir parler puis rejoint Antoine.
+« Je t’ai crié dessus. Je n’aurais pas dû. » Antoine ne répond pas tout de suite. Il montre du doigt une cale qu’on ne voyait pas depuis l’autre côté. Patrick lui demande de reprendre depuis le début. Antoine accepte, puis dit qu’il aurait préféré qu’on lui parle avant de bouger les étais.
 
-Patrick lui dit qu’il est désolé de lui avoir crié dessus. Il mentionne son inquiétude pour la sécurité et propose de vérifier ensemble ce qui a conduit à l’incident. Antoine répond qu’il a été surpris par le cri et explique ce qu’il a vu.
-
-En rentrant, Patrick prévoit de raconter la scène à Catherine. Il se souvient de sa douleur et de la réaction d’Antoine. Il demandera aussi à l’équipe de revoir les consignes de manutention.
-
+Ils laissent la zone vide le temps de faire le point avec l’équipe. Quand quelqu’un demande qui a décidé d’avancer le travail, Patrick dit que c’était lui. En rangeant ses affaires, il retrouve le numéro du cabinet qu’il avait recopié. Il l’a gardé dans sa poche toute la semaine sans l’appeler.
 ---
 
-Dans cette scène, la colère de Patrick et la sécurité du chantier demandent deux réponses. Il peut reconnaître l’émotion, réparer ses paroles et participer à la recherche d’une solution concrète.
-
-Si vous craignez de faire du mal à quelqu’un, prenez de la distance si c’est possible et demandez de l’aide. Quand la situation le permet, reprendre l’échange plus tard laisse davantage de choix.
-
-Si vous constatez que la colère envahit trop souvent votre quotidien ou qu'elle nuit à vos relations professionnelles et personnelles, solliciter l'accompagnement d'un professionnel de la psychologie est une démarche constructive. Un thérapeute peut vous aider à explorer les racines de cette émotion et à construire des ponts là où vous aviez l'habitude d'ériger des murs. Comprendre son esprit permet de l'apaiser.
+En cas de risque de faire du mal à quelqu’un, éloignez-vous si vous le pouvez et demandez de l’aide. Si la colère se traduit régulièrement par des gestes ou des paroles qui vous inquiètent, un professionnel de santé peut aider à préparer des réponses adaptées.
 
 Sources : [Kjærvik et Bushman, synthèse des études sur les activités de gestion de la colère, 2024](https://pubmed.ncbi.nlm.nih.gov/38518585/), [INRS, prévention des lombalgies au travail](https://www.inrs.fr/risques/lombalgies/prevention).

@@ -13,7 +13,7 @@ contexte: "face à la maladie"
 draft: false
 ---
 
-Camille ajuste son badge sur sa blouse blanche alors que l'horloge du service de cardiologie affiche 14h15. Ce dimanche 5 avril 2026, l'unité est étrangement calme, mais une sensation familière de picotement envahit sa propre cage thoracique. Elle pense au stress de la semaine, puis craint un problème cardiaque. Elle n’a pas de quoi trancher entre ces hypothèses. Depuis qu'elle a identifié son biais de négativité il y a quelques semaines lors de sa réflexion sur son nouveau poste, elle tente de filtrer ces pensées, pourtant l'idée d'une défaillance cardiaque imminente s'installe avec une précision chirurgicale.
+Camille est en train d’accrocher son badge quand elle remarque une gêne dans la poitrine. Elle vérifie l’heure, 14 h 15, et pose le badge au lieu de repartir aussitôt. Deux explications lui viennent. Elle n’a pas de quoi trancher et elle ne tient pas à se tromper parce qu’elle se trouve déjà à l’hôpital.
 
 Elle s'isole un instant dans la réserve de matériel, l'odeur de désinfectant et le contact froid des étagères métalliques l'ancrent un instant dans la réalité. Son regard tombe sur ses mains qui tremblent légèrement. Elle repense à sa mère, Françoise, qui lui répétait sans cesse qu'une infirmière doit être invincible, tout en scrutant le moindre signe de faiblesse physique chez ses enfants. Camille se sent soudain comme une petite fille de huit ans, terrifiée à l'idée qu'un microbe invisible puisse anéantir son monde. Elle reconnaît cette vieille peur de tomber malade. Ce souvenir ne lui dit rien de la cause de la gêne qu’elle ressent.
 
@@ -57,13 +57,15 @@ Une fois les soins organisés, Camille peut dire à une personne de confiance qu
 
 Si une évaluation a déjà été faite, que la situation n’a pas changé et qu’elle connaît les consignes de suivi, Camille peut noter qu’elle veut rouvrir les mêmes pages web et choisir de passer à autre chose. Cet essai ne remplace ni les consignes reçues ni une consultation pour un symptôme préoccupant.
 
-## Camille commence à apprivoiser son corps
+## Faire évaluer la douleur
 
 De retour dans le couloir, Camille dit à Nathalie qu’elle ressent une gêne dans la poitrine. Nathalie prend le relais auprès des patients et l’aide à joindre l’équipe chargée des urgences internes. Camille décrit l’heure de début de la gêne et son évolution. Elle laisse l’équipe l’examiner au lieu de conclure que le café ou le manque de sommeil suffit à expliquer ce qu’elle ressent.
 
 Après l’évaluation, Camille repart avec des consignes sur les signes qui doivent la faire reconsulter. Elle repense à l’épuisement qu’elle avait ressenti le mois dernier. Elle n’est pas obligée d’être invincible pour être une bonne mère ou une bonne infirmière.
 
 En rentrant, Camille remercie Nathalie de lui avoir permis de se faire examiner rapidement. Léo et Emma accourent à la porte. Elle pose son sac et les embrasse, heureuse d’être là.
+
+Quand le relais est assuré, Camille retrouve son badge au poste. Elle le met dans sa poche et relit les consignes qui lui ont été données. La sensation lui revient à l’esprit dans l’escalier ; elle garde à portée les indications de l’équipe.
 
 ---
 

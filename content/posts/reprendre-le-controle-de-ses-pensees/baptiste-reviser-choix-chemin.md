@@ -13,7 +13,7 @@ episode: 12
 draft: false
 ---
 
-Baptiste détache du mur les deux versions de la fiche qui ne sera pas adoptée en l’état. Il les avait gardées pour préparer les questions suivantes, pas pour continuer à les diffuser. Les nouveaux échanges ont déplacé le problème : une partie de la difficulté vient d’une consigne mal comprise dans le support existant, et non seulement de sa mise en page. Patricia propose d’examiner une clarification dans le cadre de validation prévu avant de préparer un nouvel outil. Baptiste comprend le raisonnement. Il sent pourtant une résistance immédiate à l’idée que tant de pages restent finalement dans un dossier de travail.
+Baptiste détache du mur les deux versions de la fiche qui ne sera pas adoptée en l’état. Il avait gardé les deux versions pendant la pause pour retrouver les questions des équipes. Il voit encore sur l’une l’endroit où un lecteur avait cherché longtemps la consigne. La version n’a pas circulé depuis l’essai. Les nouveaux échanges ont déplacé le problème : une partie de la difficulté vient d’une consigne mal comprise dans le support existant, et non seulement de sa mise en page. Patricia propose d’examiner une clarification dans le cadre de validation prévu avant de préparer un nouvel outil. Baptiste comprend le raisonnement. Il sent pourtant une résistance immédiate à l’idée que tant de pages restent finalement dans un dossier de travail.
 
 À trente-sept ans, le coordinateur de maintenance a consacré des créneaux, sollicité des collègues et espéré un résultat visible. L’essai limité a révélé des ambiguïtés ; la consultation élargie a apporté d’autres informations. Il sait qu’aucune procédure réelle n’a été modifiée et qu’un arrêt faisait partie des suites possibles. Ces éléments ne suppriment pas sa déception. Il aimerait retrouver une manière d’utiliser toute la préparation, comme si une partie laissée de côté rendait suspect l’ensemble de son investissement.
 
@@ -57,7 +57,7 @@ Baptiste conserve les observations de lecture et les questions des équipes. Il 
 
 Baptiste peut expliquer ce qui a changé dans la compréhension du besoin, ce qui est conservé et ce qui doit encore être validé. Il ne présente pas l’ajustement comme un triomphe destiné à effacer toute déception. Il peut reconnaître le travail fourni et les réserves des participants. La prochaine action sera limitée : réunir les éléments nécessaires à la clarification, puis les soumettre aux interlocuteurs compétents. Elle ne devient pas automatiquement un nouveau grand projet pour remplacer celui qui s’arrête. Une limite de temps et un point de bilan peuvent éviter de reproduire la même pression sous une autre forme. Si la révision réveille un reproche personnel sans fin, un appui extérieur peut aider à le distinguer des tâches et responsabilités réelles qui restent à traiter.
 
-## Baptiste conserve les observations et laisse partir une version
+## Deux fiches détachées du mur
 
 Lors du point, Patricia demande ce que la clarification permettrait de comprendre. Baptiste présente deux exemples et les limites de leurs observations. Emmanuel ajoute une question qui n’a pas encore reçu de réponse. Ils décident de préparer une proposition courte dans le cadre existant, avec les validations requises avant tout usage. La nouvelle fiche reste arrêtée. Baptiste ne promet pas qu’elle ne servira jamais, mais ne la garde pas non plus comme une solution en attente d’un public à convaincre. Elle a le statut d’un travail passé dont certains éléments sont conservés.
 

@@ -13,7 +13,7 @@ contexte: "en amitié"
 draft: false
 ---
 
-Le soleil d'avril caresse la terrasse du petit café où Isabelle est installée avec Catherine. Les bruits de la rue, le cliquetis des cuillères sur la porcelaine et l'odeur du pain grillé devraient composer une bulle de sérénité. Pourtant, Isabelle sent une tension familière grimper le long de sa nuque. Catherine vient de poser son regard sur l'écran de son téléphone pour la troisième fois en dix minutes. Ce geste, pourtant banal, déclenche un mécanisme immédiat dans l'esprit d'Isabelle. Elle se demande si elle parle trop d'elle-même, si ses récits sur le collège l'ennuient ou si Catherine regrette d'avoir accepté cette invitation.
+Au café, Catherine retourne son téléphone, lit quelque chose et le repose. Isabelle allait lui raconter sa soirée de vendredi. À la place, elle demande si Catherine doit bientôt repartir. Elle regrette déjà le ton de sa question.
 
 Isabelle ajuste sa veste légère, le regard fuyant vers les passants. Elle se revoit quelques semaines plus tôt, lors de cette soirée seule après le départ de Théo, luttant contre la culpabilité face aux messages de sa mère Geneviève. Elle a fait du chemin depuis qu'elle a testé la méthode ABCDE pour gérer ses émotions, mais aujourd'hui, le terrain est différent. Ce n'est plus la psychologue scolaire lucide qui analyse le biais de groupe en salle des professeurs, c'est l'amie qui se sent soudainement illégitime. Catherine relève la tête, mais Isabelle a déjà construit tout un scénario où elle n'est qu'un poids, une compagnie par défaut pour son amie.
 
@@ -57,13 +57,11 @@ Que sait Isabelle ? Que dirait-elle à Catherine si leurs rôles étaient invers
 
 Quand la relation et le moment s’y prêtent, Isabelle peut demander : « Tu sembles attendre quelque chose, tout va bien ? » Elle laisse à Catherine la possibilité de répondre ou de garder cela privé. Une question posée pour mieux comprendre peut être plus utile que des demandes répétées de réassurance.
 
-## Évolution d'Isabelle et désamorçage des doutes
+## Catherine attend des nouvelles
 
-Assise au soleil, Isabelle sent le poids de ses suppositions s'alléger. Elle regarde Catherine, qui vient enfin de ranger son téléphone dans son sac avec un geste de dépit. Au lieu de se recroqueviller sur sa peur d'être ennuyeuse, Isabelle décide d'utiliser la curiosité, une force qu'elle a développée en travaillant sur son biais d'attribution fondamentale au collège. Elle ne veut plus supposer, elle veut savoir.
+Catherine rallume encore l’écran. « Tu attends des nouvelles ? » finit par demander Isabelle. Sa sœur doit recevoir les résultats d’un examen. Catherine lui dit qu’elle a du mal à suivre deux conversations à la fois.
 
-"Catherine, tout va bien ? Tu sembles préoccupée par tes messages", lui demande-t-elle avec une douceur sincère. Catherine lève les yeux, surprise, et laisse échapper un soupir de soulagement. Elle explique alors que sa sœur attend les résultats d'un examen médical important et qu'elle guette des nouvelles depuis le matin. Ce n'était pas de l'ennui, c'était de l'inquiétude. Isabelle sent une chaleur lui monter aux joues, non pas de honte, mais de compréhension. Ses pensées automatiques l'avaient totalement trompée.
-
-En rentrant chez elle à pied, Isabelle s'arrête dans un parc pour profiter de la lumière de fin de journée. Elle repense à son parcours depuis quelques mois. Elle n'est plus seulement la psychologue qui aide les autres, ou la fille qui porte les angoisses de sa mère. Elle apprend, progressivement, à ne plus être sa propre ennemie dans ses relations. Elle réalise que ses amitiés peuvent être un lieu de repos plutôt qu'un terrain de performance. En quittant le parc, elle envoie un court message à Catherine pour lui dire qu'elle pense fort à sa sœur. Cette fois, elle n'attend pas la réponse avec anxiété, libérée de ce besoin de guetter chaque minute de silence comme elle le faisait autrefois avec Aurélie. Elle sait que le silence ne définit pas sa valeur.
+Isabelle lui propose de marcher plutôt que de commander autre chose. Dans la rue, Catherine sort encore son téléphone. Cette fois, Isabelle ne reprend pas son récit depuis le début pour le rendre plus intéressant. Elle attend que son amie relève les yeux.
 
 ---
 

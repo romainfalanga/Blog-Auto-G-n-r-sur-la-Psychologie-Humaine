@@ -51,13 +51,13 @@ Thomas peut séparer les mots qu’il a entendus, son souvenir et ce dont il a b
 ### 3. Demander une pause si l’échange est sûr
 Quand la discussion est sûre, Thomas peut dire qu’il souhaite une pause et proposer de reprendre plus tard. Si l’autre menace, contrôle ou empêche de partir, la priorité est de se mettre à l’abri et de [chercher de l’aide](https://www.arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple), sans obligation de reprendre le dialogue.
 
-## Thomas commence à nommer ses tempêtes
+## Répondre pour demain
 
-Thomas ne baisse pas les yeux. Il sent toujours l'inconfort dans sa poitrine, mais il refuse de se laisser emporter par son réflexe de fuite habituel. Il se remémore sa discussion avec son frère Antoine, qui lui avait fait remarquer son abnégation constante et son incapacité à dire non. Il choisit de ne pas s'excuser pour son retard sur le portfolio, conscient que son accablement récent n'était pas de la paresse mais une période de fatigue et de découragement. À la place, il prend un instant pour stabiliser son souffle, sentant le contact du parquet sous ses chaussettes, une texture familière qui l'aide à rester ancré.
+Thomas sent sa réponse prête : il pourrait promettre de finir le portfolio dans la soirée. Il pense au samedi où il s’était engagé trop vite auprès de Loïc. Il dit à Émilie qu’il ne pourra pas lui donner de date aujourd’hui. Elle précise qu’elle voulait surtout savoir s’il comptait encore bloquer tout le week-end pour travailler dessus.
 
-Émilie, je sens que ta remarque déclenche chez moi une forte anxiété, dit-il d'une voix qu'il s'efforce de garder stable. J'ai l'impression d'être jugé et cela me donne envie de me braquer. J'ai besoin de comprendre si tu es inquiète pour notre avenir ou si tu es simplement frustrée par l'organisation de la journée. En formulant ses propres ressentis, Thomas brise le cercle vicieux de la lecture de pensée qu'il pratiquait tant par le passé. Il n'est plus la victime passive du ton d'Émilie, il devient l'observateur de sa propre réaction.
+« J’ai cru que tu me demandais de me justifier. » Thomas s’arrête là. Quand Émilie lui répond, il ne sait pas tout de suite quoi faire de sa propre irritation. Il la laisse terminer.
 
-La surprise se lit sur le visage de sa compagne. Le ton de la discussion change instantanément. Dire ce qu’il ressent ouvre un échange dans cette scène. Cela ne garantit pas la même réaction à chaque fois. Il ne cherche plus à sauver la situation à n'importe quel prix, mais à rester honnête avec lui-même. C'est une victoire, un pas sur le chemin de sa reconversion et de son affirmation personnelle, marquant un changement fondamental par rapport à ses anciens réflexes d'effacement. Il réalise qu'il peut traverser un conflit sans que celui-ci ne devienne une menace pour son existence même.
+Émilie laisse le plat sur le comptoir. « J’ai besoin de savoir si on déjeune ensemble demain. » Thomas peut lui répondre sur le déjeuner. Pour le portfolio, il préfère en reparler le lendemain. Le couvercle a fait plus de bruit que la question, se dit-il une fois qu’il l’a entendue.
 
 ---
 

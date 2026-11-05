@@ -13,7 +13,7 @@ contexte: "face à la solitude"
 draft: false
 ---
 
-Le bruit sourd de la pluie contre la fenêtre rythme ses pensées. Adrien, 31 ans, graphiste freelance, est assis seul dans son appartement, un peu perdu dans l’immensité de son salon vide. Depuis que Marina l’a quitté il y a un an, la solitude lui pèse comme un poids insupportable. Ce soir encore, même son ami proche Julien n’a pas donné signe de vie. Il regarde son téléphone, vide de messages, et sent ce vide grandir en lui. Il redoute l’idée que cette situation se répète, qu’il se retrouve encore abandonné, comme un enfant livré à lui-même.
+Adrien pose le téléphone à côté de son verre, écran contre table. Il se donne jusqu’à la fin du morceau avant de le retourner. Au milieu du refrain, il le reprend. Toujours rien de Julien. Un an après le départ de Marina, il y a des soirs où dix minutes lui paraissent suffisantes pour décider qu’une personne est en train de sortir de sa vie.
 
 Dans sa mémoire, des souvenirs remontent : les absences répétées d’un père souvent parti, une mère débordée qui ne semblait jamais vraiment disponible. Adrien se souvient de ces instants où il cherchait un signe d’attachement, une preuve que quelqu’un serait toujours là. Mais l’instabilité de son enfance a marqué sa façon de voir ses relations aujourd’hui. Chaque rupture, chaque distance, ravive cette blessure profonde.
 
@@ -58,7 +58,7 @@ Face à l’instabilité vécue dans l’enfance, recréer des liens fiables est
 
 - Exercice : Identifiez des personnes de confiance avec qui vous pouvez parler ouvertement de vos émotions. Planifiez des temps réguliers d’échange, comme une promenade, un café ou un appel, pour nourrir ces relations de façon saine.
 
-## Le chemin de Adrien vers plus de sérénité
+## Un message sans certitude
 
 Après plusieurs semaines à pratiquer ces exercices, Adrien commence à ressentir un changement subtil mais réel. Lorsqu’il est seul, il ne panique plus immédiatement. Il respire, observe ses émotions avec plus de bienveillance, et se rappelle qu’il peut être là pour lui-même, un peu comme il aurait voulu qu’on le soit dans son enfance.
 
@@ -66,10 +66,8 @@ La lettre à son enfant intérieur a été un moment fort : il a enfin mis des m
 
 Si vous vous reconnaissez dans l’histoire de Adrien, sachez que vous n’êtes pas seul(e) face à cette difficulté. Vous pouvez vous demander ce qui vous inquiète aujourd’hui sans avoir à retrouver une origine à votre inquiétude.
 
-## Conclusion : un avenir possible sans peur de la solitude
+Julien finit par écrire qu’il était en train de dîner et demande si Adrien veut venir courir cette semaine. Adrien a encore envie de demander pourquoi il n’avait pas prévenu. Il lui répond qu’il est libre jeudi, puis remet le téléphone à côté du verre.
 
-L’abandon et instabilité n’est pas une fatalité. En acceptant de regarder en face cette peur, en comprenant d’où elle vient et en appliquant des outils simples, vous pouvez apprendre à vivre la solitude autrement. Plutôt qu’un vide insupportable, elle peut devenir un espace de paix et de ressourcement.
+## Quand l’attente devient difficile
 
-La suite du récit illustre une manière possible de trouver plus de soutien et de confiance. N’hésitez pas à cheminer à votre rythme, à demander de l’aide si nécessaire, et surtout, à vous offrir la même bienveillance que celle que vous donneriez à un ami cher.
-
-La solitude peut être une compagne douce, quand on a appris à ne plus craindre l’abandon. Et ce voyage, vous pouvez le commencer dès aujourd’hui.
+Le schéma d’abandon ou d’instabilité permet d’examiner la place de cette peur dans une relation. Les expériences et les circonstances diffèrent d’une personne à l’autre. Si la peur de perdre vos proches vous empêche régulièrement de dormir, de travailler ou de garder des liens qui vous importent, un professionnel de santé mentale peut vous aider à faire le point.

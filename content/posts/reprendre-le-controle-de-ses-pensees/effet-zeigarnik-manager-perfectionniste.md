@@ -13,11 +13,9 @@ contexte: "en tant que manager"
 draft: false
 ---
 
-Nadia, 38 ans, directrice marketing dans une entreprise tech, est assise dans son bureau. Son regard se balade nerveusement entre l’écran de son ordinateur et la pile de dossiers sur la table. Elle a commencé une présentation importante pour son équipe, mais une réunion impromptue l’a interrompue au milieu de la préparation. Elle sent une tension sourde dans sa poitrine, une sorte de poids qui ne la quitte pas. Elle jette un coup d’œil à son téléphone : depuis ce matin, trois notifications de mails non lus clignotent, un message de son assistante Julie, et un rappel qu’elle doit récupérer sa fille Yasmine, 8 ans, à 18h chez son ex-mari pour la garde alternée. Mais elle n’arrive pas à s’y plonger.
+À dix-sept heures douze, Nadia voit que son diaporama s’arrête sur un graphique sans légende. On l’a appelée en réunion au milieu de la préparation. Depuis, elle a ouvert trois fois le même message de Julie et n’a pas retrouvé le chiffre à inscrire sous le graphique.
 
-Dans sa tête, les tâches s’amoncellent : finir la présentation, répondre aux mails, préparer le planning de la semaine, sans oublier les retours à faire à ses collaborateurs. Pourtant, elle a décidé de ranger son bureau et de faire une pause café. Mais même en dehors de son bureau, elle ne peut s’empêcher de divaguer sur ce qu’elle n’a pas terminé. Le visage crispé, elle sait qu’elle doit faire plus, mieux, tout de suite.
-
-Nadia vit ce moment comme une petite guerre intérieure : impossible de se détacher de ces activités inachevées qui l’appellent sans cesse. Elle ne comprend pas pourquoi elle a tant de mal à se concentrer alors qu’elle a simplement été interrompue. Elle se sent coupable de ne pas avancer aussi vite qu’elle le voudrait.
+Elle doit récupérer Yasmine chez son père à dix-huit heures. Elle range une pile de dossiers qui ne lui servira pas ce soir, rouvre le fichier, puis retourne à sa boîte mail. Il lui reste assez de temps pour avancer sur un point. Elle ne sait pas encore lequel elle acceptera de laisser pour demain.
 
 ### Qu’est-ce que l’effet Zeigarnik ?
 
@@ -25,7 +23,7 @@ L’effet Zeigarnik désigne un avantage de rappel des tâches interrompues sur 
 
 Bluma Zeigarnik a publié ses expériences en 1927. En 2025, Ghibellini et Meier ont rassemblé les études utilisant des tâches interrompues : ils n’ont pas retrouvé d’avantage de rappel général, mais ont relevé une tendance à reprendre les tâches interrompues. Chez Nadia, les dossiers qui lui reviennent à l'esprit constituent une expérience personnelle.
 
-### Comment l’effet Zeigarnik se manifeste-t-elle en tant que manager ?
+### Ce qui revient à l’esprit quand le travail s’interrompt
 
 Au travail, les interruptions, les échéances et les responsabilités peuvent toutes expliquer qu'un dossier revienne à l'esprit. Les exemples suivants illustrent ce que Nadia remarque dans son quotidien.
 
@@ -33,7 +31,7 @@ Au travail, les interruptions, les échéances et les responsabilités peuvent t
 
 - Emails non répondus : Plusieurs messages restent à traiter. Nadia se demande lesquels requièrent une réponse avant ce soir, même en ouvrant un autre dossier.
 
-- Feedbacks en suspens : Vous avez promis à un collaborateur un retour sur son travail, mais vous n’avez pas encore trouvé le temps. Cette responsabilité non réglée vous hante, et vous empêchez d'être pleinement disponible pour d'autres tâches.
+- Feedbacks en suspens : Vous avez promis à un collaborateur un retour sur son travail, mais vous n’avez pas encore trouvé le temps. Cette responsabilité non réglée vous hante, et vous empêche d’être pleinement disponible pour d'autres tâches.
 
 Nadia s’inquiète de la qualité du résultat, ce qui lui donne une autre raison de repenser au dossier. Ni cette inquiétude ni les pensées répétitives ne suffisent à identifier un effet sur la mémoire.
 
@@ -48,24 +46,18 @@ Voici des façons d'organiser le travail ou de faire une pause, à adapter aux c
    Travaillez par intervalles de 25 minutes dédiés à une seule tâche, suivis de courtes pauses. Cela vous aide à avancer progressivement même sur des projets longs, en évitant la paralysie due à la peur de ne pas faire assez. Vingt-cinq minutes est un repère d'organisation ; vous pouvez choisir une durée adaptée au travail.
 
 3. S’accorder des pauses mentales conscientes
-   Lorsque vous êtes interrompu ou que vous ne pouvez pas finir une tâche, pratiquez la pleine conscience pour revenir au moment présent sans culpabilité. Par exemple, fermez les yeux, observez votre respiration, et acceptez que la tâche attendra. Si cela ne vous convient pas, notez seulement à quel point reprendre, puis faites votre pause habituelle.
+   Lorsque vous êtes interrompu ou que vous ne pouvez pas finir une tâche, pratiquez la pleine conscience pour revenir au moment présent sans culpabilité. Par exemple, fermez les yeux, observez votre respiration, et acceptez que la tâche attendra. Si cela ne vous convient pas, notez seulement à quel endroit reprendre, puis faites votre pause habituelle.
 
-### Retour à Nadia : le début d’un changement
+### La légende attendra demain
 
-Après avoir découvert ces techniques, Nadia décide de les mettre en pratique. Elle écrit toutes ses tâches sur un carnet, ce qui lui permet de visualiser clairement ce qu’elle doit faire. Ses dossiers ne lui semblent plus insurmontables.
+Nadia retrouve le chiffre et écrit la légende. La diapositive suivante lui paraît tout de suite plus urgente. Elle pose le doigt sur la touche pour l’ouvrir, puis note sur un papier : « Demain : vérifier avec Julie d’où vient la série de mars. »
 
-Elle utilise aussi la technique Pomodoro. Plutôt que d’essayer de finir toute sa présentation d’un coup, elle travaille par petits intervalles. Elle ressent une vraie satisfaction à chaque session terminée, et son anxiété s’apaise peu à peu.
+Elle entend la notification de Julie en fermant l’ordinateur. Sur le trajet pour aller chercher Yasmine, elle pense encore au diaporama à deux reprises. La deuxième fois, elle se rappelle la question qu’elle a laissée sur le papier et descend à son arrêt.
 
-Lorsqu’elle est interrompue, Nadia pratique une pause consciente : elle ferme les yeux quelques secondes, respire profondément, et accepte que la présentation ne soit pas finie maintenant. Elle sent cette petite voix intérieure qui lui demandait de finir tout de suite s’éloigner.
-
-Petit à petit, Nadia trouve une façon de reprendre ses dossiers. Les interruptions lui pèsent encore certains jours. Quand elles deviennent trop nombreuses, elle en discute avec son équipe.
-
-### Conclusion : un pas vers la maîtrise de soi
+### Ce que l’exemple de Nadia permet de distinguer
 
 L’effet Zeigarnik est un résultat de recherche sur le rappel, aux résultats variables. Dans le quotidien de Nadia, noter la prochaine étape est une façon de retrouver le fil au retour d'une interruption.
 
-Si vous vous reconnaissez dans l’histoire de Nadia, rappelez-vous que ce chemin est une construction progressive. Ne jugez pas vos pensées ni vos émotions, observez-les avec bienveillance. Et surtout, n’hésitez pas à consulter un professionnel si cette sensation d’obsession mentale devient trop envahissante.
-
-Reprendre le contrôle de ses pensées, c’est possible pour vous aussi. Chaque petit pas compte. Quel sera le vôtre aujourd’hui ?
+Si les pensées liées au travail deviennent envahissantes ou nuisent durablement au repos, vous pouvez en parler à un professionnel de santé.
 
 Sources : [Zeigarnik, travaux de 1927](https://doi.org/10.1007/BF02409755) ; [Ghibellini et Meier, méta-analyse de 2025](https://www.nature.com/articles/s41599-025-05000-w) ; [Masicampo et Baumeister, expériences sur la planification](https://pubmed.ncbi.nlm.nih.gov/21688924/).

@@ -13,7 +13,7 @@ editorial_pack: psychology-v10
 draft: false
 ---
 
-Aline raye une case du planning avec un crayon de bois, puis suspend son geste. Choisir une entraide fidèle à ses valeurs ne consiste pas simplement à laisser davantage de cases vides. Claire prépare la prochaine saison associative et demande à chacun ce qu’il souhaite porter. Aline pourrait reconduire toutes ses missions par habitude. Elle pourrait aussi refuser tout engagement pour éviter de retomber dans l’excès. Aucune de ces réponses ne décrit vraiment son envie.
+Aline raye une case du planning avec un crayon de bois, puis suspend son geste. Sur le premier planning, elle avait mis son nom partout où il manquait quelqu’un. Elle le lit encore de loin, sous les traits de gomme. Claire prépare la prochaine saison associative et demande à chacun ce qu’il souhaite porter. Aline pourrait reconduire toutes ses missions par habitude. Elle pourrait aussi refuser tout engagement pour éviter de retomber dans l’excès. Aucune de ces réponses ne décrit vraiment son envie.
 
 Elle aime transmettre le maniement des outils, voir un objet retrouver un usage et participer à un lieu où les personnes se rencontrent sans devoir acheter quelque chose. Ces plaisirs restent présents malgré les semaines fatigantes. Elle veut aussi garder du temps avec Étienne, ses amis et sa famille, sans devenir l’intermédiaire obligatoire de chaque difficulté. Le planning n’oppose pas une vie généreuse à une vie égoïste ; il rassemble plusieurs attachements qui réclament des formes concrètes.
 
@@ -81,7 +81,7 @@ Elle cherche aussi ce qui arriverait si elle disait non. Une contrariété ordin
 
 Enfin, elle se laisse la possibilité d’un oui enthousiaste. Son parcours ne lui demande pas de suspecter chaque envie d’aider. Elle peut apprécier un dépannage imprévu et décider de déplacer une activité pour lui faire de la place. Ce qui change est sa capacité à nommer le coût, à entendre la demande et à choisir sans transformer ce geste en définition complète de qui elle doit être.
 
-## Aline commence à choisir sa manière de contribuer
+## Deux ateliers à essayer
 
 À la réunion, Aline présente les deux ateliers d’essai. Claire pose des questions sur le matériel et le calendrier. Bastien propose de préparer les inscriptions selon la fiche qu’ils utilisent déjà. Aline lui transmet les informations sans reprendre la mission. Le projet se construit autour de plusieurs contributions, avec une responsabilité d’animation qu’elle accepte cette fois clairement.
 

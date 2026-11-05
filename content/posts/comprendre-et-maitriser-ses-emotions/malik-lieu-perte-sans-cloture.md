@@ -17,7 +17,7 @@ Les deux battants de l’atelier sont cachés derrière des panneaux. Malik agra
 
 Malik demande si l’établi est conservé. Son oncle répond qu’une partie du matériel attend dans un local et qu’il espère pouvoir revenir. Une autre personne de la famille parle déjà de fermeture définitive. Les informations ne permettent pas de trancher. Malik ressent autre chose que le plaisir triste de revoir un ancien lieu : il ignore ce qu’il peut encore attendre de cet endroit.
 
-Le banc photographié pour sa première rencontre au groupe se trouve justement à côté de la cour. Il aime l’image pour la conversation qu’elle lui rappelle, pas parce que toute sa vie passée serait contenue dans ce quartier. Il choisit de vivre ici depuis quatre ans et garde plusieurs lieux familiers à Dakar. La transformation de cet atelier ne rend pas son départ forcé après coup, mais elle peut tout de même compter.
+Le banc de la première rencontre photo se trouve à côté de la cour. Malik l’avait choisi parce qu’il se rappelait une conversation qui avait commencé là et fini dans l’atelier. Sur l’image récente, il ne retrouve que le bord d’un battant derrière les panneaux. Il avait choisi de partir et connaît toujours plusieurs endroits à Dakar où il aime revenir. Ce banc-là garde un souvenir qu’il aimerait pouvoir retrouver sur place.
 
 Awa lui dit qu’elle peut demander des nouvelles lors d’un passage proche. Malik commence une longue liste de questions, puis l’interrompt. Il veut une certitude qu’elle ne possède pas davantage. Il cherche comment rester lié à ce lieu sans demander à ses proches de surveiller chaque changement ni considérer le prochain séjour comme un rendez-vous avec une version garantie du passé.
 
@@ -55,7 +55,7 @@ L’atelier lui rappelle des discussions, des objets réparés et une manière d
 
 Une continuité ne demande pourtant pas que le lieu reste intact. Des souvenirs, des relations et certaines pratiques peuvent se poursuivre ailleurs. Ce constat ne rend pas la transformation indifférente. Il ouvre seulement plusieurs supports possibles, au lieu de demander à un seul espace de conserver toute une histoire personnelle.
 
-## 3 techniques pour vivre avec une perte qui reste incertaine
+## Garder le souvenir et laisser une place à l’incertitude
 
 ### 1. Distinguer ce qui est connu de ce qui reste ouvert
 
