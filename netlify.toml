@@ -40,7 +40,7 @@
 
 # Nettoie les paramètres avant les règles de proxy, qui les transmettent automatiquement.
 [[edge_functions]]
-  pattern = "^/(mon-personnage|mes-personnages|mes-histoires|journal)(/|$)"
+  pattern = "^/(mon-personnage|mes-personnages|mes-histoires|journal)(/.*)?$"
   function = "legacy-private-pages"
 
 [[redirects]]
