@@ -23,7 +23,7 @@ Elle souhaite participer à la fête, mais ne veut ni en porter toute l’organi
 
 Garder un désaccord sans rompre le lien consiste à reconnaître que des personnes peuvent conserver des avis différents tout en choisissant les formes de relation qui restent possibles entre elles. Cela ne demande ni un consensus permanent ni le maintien de toute proximité à n’importe quel prix. La sécurité, le respect et la liberté de chacun comptent dans ce choix.
 
-Les travaux d’Assor, Roth et Deci examinent notamment la place de l’approbation conditionnelle dans les relations parentales. Ils offrent un repère pour distinguer une attente d’un accord libre, sans permettre de déduire l’histoire d’une famille à partir d’une phrase. Ici, les attentes sont dites : les parents souhaitent une grande fête et espèrent qu’Aline en assure la coordination.
+Assor, Roth et Deci étudient notamment ce que des étudiants rapportent de l’approbation de leurs parents lorsqu’elle dépend de leur comportement. Une attente explicite ne suffit pas à dire que les parents d’Aline lui retirent leur affection si elle refuse. Ici, les attentes sont dites : les parents souhaitent une grande fête et espèrent qu’Aline en assure la coordination.
 
 Aline peut comprendre ce souhait et ne pas adopter la priorité exactement comme eux. À trente-neuf ans, sa vie comprend le magasin, son couple, l’association et des temps personnels. Une frontière familiale précise ce qui relève de ses décisions et ce qu’elle accepte de partager. Elle peut donner deux heures à la préparation sans rendre tous ses week-ends disponibles.
 

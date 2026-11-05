@@ -1,7 +1,7 @@
 ---
 title: "Abnégation et sacrifice de soi face à la maladie : s'oublier"
 date: 2026-04-03T04:49:30+00:00
-description: "Camille, infirmière, s'oublie dans le soin aux autres. Découvrez comment sortir du schéma d'abnégation et de sacrifice de soi pour retrouver un équilibre."
+description: "En fin de garde, Camille hésite à partir après la transmission. Elle apprend à prendre une pause et à accepter la relève."
 categories: ["Sortir de ses schémas répétitifs"]
 tags: ["abnégation", "épuisement", "psychologie", "schémas précoces", "soin"]
 slug: "abnegation-sacrifice-de-soi-maladie"
@@ -21,21 +21,21 @@ Ses articulations la font souffrir, une douleur sourde qu'elle ignore avec une h
 
 ## Définition de l'abnégation et du sacrifice de soi
 
-Le schéma d'abnégation et de sacrifice de soi est une structure psychologique profonde où l'individu répond de manière excessive aux besoins des autres au détriment de ses propres besoins fondamentaux. Selon le psychologue Jeffrey Young, créateur de la thérapie des schémas, ce mécanisme naît souvent d'une grande sensibilité innée combinée à un environnement familial où l'enfant a dû prendre soin de ses parents ou répondre à des exigences émotionnelles élevées. Contrairement à l'altruisme sain, l'abnégation est motivée par une culpabilité sous-jacente ou par la peur de blesser l'autre.
+Dans le [modèle de Jeffrey Young](https://www.guilford.com/excerpts/young.pdf?t=1), le sacrifice de soi décrit la tendance à s’occuper des besoins d’autrui en négligeant régulièrement les siens. C’est un cadre thérapeutique, pas un diagnostic. En milieu de soin, une pause manquée peut aussi tenir à la charge de travail ou au manque de personnel.
 
-Le sujet qui souffre de ce schéma a l'impression que ses propres désirs sont égoïstes ou insignifiants. Dans le cas de Camille, cela se traduit par une incapacité à poser des limites, que ce soit à l'hôpital ou dans sa vie de mère. Elle rationalise son épuisement en le transformant en une vertu morale. C'est un cercle vicieux : plus elle se sacrifie, plus elle se sent valorisée socialement, mais plus son réservoir émotionnel se vide, la menaçant d'un effondrement qu'elle refuse de voir venir.
+Camille craint de ne pas être à la hauteur si elle demande un relais. Elle se rappelle les attentes de Françoise, sans savoir quelle part cette histoire a dans sa décision de rester.
 
 ## Manifestations de l'abnégation et du sacrifice de soi face à la maladie
 
 Dans un contexte médical ou de soin à un proche, ce schéma prend une dimension particulière car la souffrance de l'autre semble légitimer l'oubli de soi.
 
-### La fusion émotionnelle avec la souffrance d'autrui
+### Continuer à penser au service une fois rentrée
 
-Camille ne se contente pas de soigner, elle absorbe la détresse de ses patients. Lorsqu'un diagnostic tombe pour une personne de son service, elle le porte chez elle, y pensant en préparant les repas de Léo et Emma. Cette manifestation se traduit par une porosité totale des frontières entre soi et l'autre. Le soignant ou l'aidant finit par croire que s'il s'autorise un moment de joie ou de repos, il trahit celui qui souffre. C'est une forme de loyauté invisible qui emprisonne Camille dans une hyper-vigilance constante. Elle se rappelle l'épisode où elle avait noté le mot vide sur un post-it dans ce même box de cardiologie ; ce vide n'était pas une absence de sentiments, mais le résultat d'une absorption totale de la douleur des autres qui ne lui laissait plus de place pour elle-même.
+Après une garde difficile, Camille continue de penser à certains patients quand elle prépare le repas. Elle se souvient du jour où elle avait écrit « vide » sur un post-it. Ce souvenir ne suffit pas à expliquer son épuisement.
 
 ### La négligence systématique de ses propres signaux corporels
 
-Face à la maladie, Camille considère ses besoins physiques comme des obstacles à son efficacité. Elle ignore sa faim, sa soif ou son besoin de sommeil, les traitant comme des faiblesses. Cette manifestation du sacrifice de soi est périlleuse car elle conduit directement au burn-out. Elle se dit souvent qu'elle se reposera quand le patient ira mieux, mais dans un service de cardiologie, il y a toujours un nouveau patient, une nouvelle urgence. Elle repousse indéfiniment le moment de prendre soin de son propre corps, qu'elle traite comme une machine au service des autres. Cette tendance à s'oublier est le prolongement direct de son perfectionnisme hérité de Françoise, où l'excellence ne tolère aucune défaillance humaine.
+Camille remet souvent à plus tard le moment de boire, de manger ou de s’arrêter. L’[INRS](https://www.inrs.fr/risques/epuisement-burnout/ce-qu-il-faut-retenir.html) décrit l’épuisement professionnel en lien avec le stress chronique au travail et recommande d’agir sur l’organisation. Une pause manquée ne permet pas de prédire un burnout.
 
 ### La difficulté à déléguer et à recevoir de l'aide
 
@@ -43,19 +43,19 @@ L'abnégation s'accompagne souvent d'une croyance selon laquelle personne ne peu
 
 ## Techniques pour agir face à l'abnégation et au sacrifice de soi
 
-Sortir de ce schéma demande un réapprentissage de la notion de besoin et une déconstruction de la culpabilité héritée de l'enfance.
+Camille peut reconnaître ses besoins et regarder comment organiser la prise en charge avec l’équipe. Elle n’a pas à choisir entre les soins et toutes ses pauses.
 
 ### 1. La technique du thermomètre des besoins
 
 Cette méthode consiste à s'arrêter trois fois par jour, même pendant seulement trente secondes, pour évaluer ses besoins sur une échelle de un à dix. Camille peut pratiquer cet exercice entre deux chambres de patients. Elle doit se poser trois questions : Quel est mon niveau de fatigue physique ? Quel est mon niveau de soif ou de faim ? Quelle émotion je ressens là, tout de suite ? En nommant ses besoins, elle commence à réintégrer l'idée qu'elle existe en dehors de son rôle de soignante. L'objectif n'est pas de tout résoudre immédiatement, mais de briser l'automatisme de l'anesthésie de soi.
 
-### 2. Le dialogue avec l'enfant intérieur et la figure d'autorité
+### 2. Entendre la culpabilité sans lui laisser décider
 
-Puisque le schéma de Camille est lié à l'exigence de sa mère Françoise, elle peut utiliser la technique du dialogue imaginaire. Lorsqu'elle ressent une culpabilité intense à l'idée de prendre sa pause, elle doit identifier quelle voix parle en elle. Est-ce la sienne ou celle de sa mère ? Elle peut alors se dire intérieurement qu'elle voit cette peur de décevoir, mais qu'aujourd'hui, elle est l'adulte et décide que se reposer dix minutes fera d'elle une meilleure infirmière pour la suite de la garde. Cela permet de mettre de la distance entre ses actions présentes et les injonctions passées.
+Quand une pause lui fait honte, Camille se rappelle qu’elle peut la prendre dès que la relève est assurée. Elle n’a pas besoin de déterminer si la culpabilité vient de Françoise pour demander un relais.
 
-### 3. La planification de l'auto-soin non négociable
+### 3. Prévoir une vraie relève et du temps pour soi
 
-Pour une personne souffrant d'abnégation, le repos doit être traité comme une prescription médicale pour être accepté. Camille peut noter dans son agenda, entre le rendez-vous chez le dentiste d'Emma et ses horaires de garde, des plages de quinze minutes intitulées soin personnel. Pendant ces moments, elle s'oblige à faire une activité qui n'a aucune utilité pour les autres, comme lire un chapitre d'un roman, écouter un morceau de musique ou simplement marcher sans but. L'exercice consiste à tenir ces rendez-vous avec la même rigueur qu'elle mettrait à administrer un traitement vital à un patient.
+Camille vérifie comment les pauses s’organisent au service. Si elle ne peut pas les prendre régulièrement, elle peut en parler avec l’équipe ou la santé au travail. Chez elle, elle convient avec David d’un moment pour se reposer, sans en faire une obligation à réussir.
 
 ## Évolution du personnage : Camille commence à poser ses limites
 
@@ -67,7 +67,7 @@ En marchant vers sa voiture sur le parking désert, Camille ne ressent pas la li
 
 ---
 
-Le chemin vers l'équilibre est rarement linéaire, surtout quand le dévouement a été une boussole pendant des décennies. Pour Camille, comprendre que son abnégation est un héritage de son éducation et non une fatalité est le premier pas vers une vie plus sereine. Apprendre à se considérer comme une personne digne de soins, au même titre que ses patients ou ses enfants, demande du temps et de la patience envers soi-même.
+Accepter la relève aide Camille ce matin. Quand les moyens manquent au service, elle peut aussi demander une réponse collective au lieu de porter seule la charge.
 
 Si vous vous reconnaissez dans ce parcours, rappelez-vous que poser des limites n'est pas un acte d'égoïsme, mais un acte de préservation indispensable. En prenant soin de votre propre réservoir, vous devenez capable d'aider les autres de manière plus authentique et durable, sans vous consumer dans le processus. Vous avez le droit d'exister pour vous-même, indépendamment de l'utilité que vous apportez au monde.
 

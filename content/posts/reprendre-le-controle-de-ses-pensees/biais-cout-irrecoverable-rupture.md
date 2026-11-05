@@ -1,9 +1,9 @@
 ---
 title: "Biais du coût irrécupérable après une rupture amoureuse : comment s'en libérer"
 date: 2026-03-08T11:47:44+00:00
-description: "Découvrez comment le biais du coût irrécupérable empire après une rupture amoureuse et 3 techniques pour reprendre le contrôle de vos pensées."
+description: "Après sa rupture, Fabien se demande quelles décisions il prend pour l’avenir et lesquelles il prend pour justifier le temps déjà investi."
 categories: ["Reprendre le contrôle de ses pensées"]
-tags: ["biais du coût irrécupérable", "rupture amoureuse", "dépendance affective", "psychologie", "reprendre le contrôle"]
+tags: ["biais du coût irrécupérable", "rupture amoureuse", "prise de décision", "psychologie", "attachement"]
 slug: "biais-cout-irrecoverable-rupture"
 readingTime: 4
 wordCount: 994
@@ -17,13 +17,13 @@ L’air est froid ce soir-là, et Fabien serre son manteau un peu plus fort auto
 
 Fabien s’assoit sur un banc, ses mains tremblent légèrement. Il repense aux centaines d’heures passées ensemble, aux projets qu’ils avaient, aux cadeaux échangés, aux mots doux murmurés. Pourtant, Véronique a pris un chemin différent, et lui est resté bloqué, coincé dans cette attente douloureuse. Il a du mal à tourner la page, se répétant que tout ce qu’il a investi ne doit pas être perdu. Mais cette persistance le ronge. Pourquoi est-il si difficile de lâcher prise, alors que la relation est terminée ? 
 
-Ce soir, Fabien sent une drôle de fatigue sur son cœur, un poids invisible qu’il ne sait pas encore nommer. Ce poids, c’est ce que les psychologues appellent le biais du coût irrécupérable, un piège mental qui s’aggrave avec le temps si on n’en prend pas conscience.
+Ce soir, Fabien sent une drôle de fatigue sur son cœur, un poids invisible qu’il ne sait pas encore nommer. Ce poids tient aussi à la fin d’une relation. Dans l’idée de devoir continuer parce qu’il a tant investi, Fabien reconnaît en revanche un raisonnement que l’on appelle biais du coût irrécupérable.
 
 ## Qu’est-ce que le biais du coût irrécupérable ?
 
 Le biais du coût irrécupérable est la tendance psychologique à continuer une action ou un engagement simplement parce que l’on y a déjà consacré du temps, de l’énergie ou des ressources, même si cela n’apporte plus de bénéfices ou cause du tort. En d’autres termes, c’est ce mécanisme qui nous pousse à ne pas abandonner quelque chose parce que l’on a « déjà trop investi ».
 
-Ce concept, étudié notamment par le psychologue Paul Samuelson, explique pourquoi on peut rester coincé dans des décisions qui ne sont plus bonnes pour nous, simplement par peur de perdre ce qui a été investi auparavant. C’est un mécanisme de notre cerveau pour éviter la sensation de gaspillage ou d’échec.
+Les psychologues Hal Arkes et Catherine Blumer ont étudié cet effet, notamment à partir de décisions liées à un abonnement et à des projets. Leur travail ne décrit pas un mécanisme cérébral ni la cause du chagrin après une rupture. Appliquée à Fabien, l’idée sert à interroger une décision actuelle : la prend-il pour ce qu’elle peut lui apporter désormais ou pour justifier le temps déjà passé ?
 
 ## Comment le biais du coût irrécupérable se manifeste-t-il après une rupture amoureuse ?
 
@@ -45,11 +45,11 @@ Prenez une feuille et notez tout ce que vous avez investi dans la relation : tem
 
 ### 2. Se projeter dans l’avenir avec un nouveau récit
 
-Imaginez votre vie dans un an, sans cette relation. Que voulez-vous construire pour vous-même ? Faites un exercice d’écriture où vous décrivez ce futur positif, en vous concentrant sur vos besoins et vos envies. Cela aide à reprogrammer votre esprit, à créer un nouveau récit qui ne dépend pas du passé.
+Imaginez votre vie dans un an, sans cette relation. Que voulez-vous construire pour vous-même ? Faites un exercice d’écriture où vous décrivez ce futur positif, en vous concentrant sur vos besoins et vos envies. Ce carnet peut donner une place à vos projets en plus de celle que prend le passé.
 
 ### 3. Mettre en place des barrières numériques et émotionnelles
 
-Réduisez les interactions avec votre ex-partenaire sur les réseaux sociaux, désactivez les notifications, et évitez de revisiter de vieux souvenirs numériques. Cette démarche est un acte d'amour pour vous-même, qui freine les rappels constants de la rupture et facilite la guérison.
+Vous pouvez couper certaines notifications ou ranger des archives si cela vous aide à choisir à quoi donner votre attention. Respectez une demande de non-contact. Des échanges nécessaires, par exemple pour l’organisation avec les enfants, peuvent rester dans un cadre convenu.
 
 ## Fabien trouve son chemin vers la liberté intérieure
 
@@ -66,3 +66,5 @@ Le biais du coût irrécupérable après une rupture amoureuse est un mécanisme
 N’oubliez pas : faire ce travail demande du temps et de la douceur envers soi. Si la douleur devient trop intense, consulter un professionnel de la psychologie peut être un précieux soutien. Vous n’êtes pas seul(e).
 
 Et vous, où en êtes-vous avec vos pensées liées à votre dernière relation ? Peut-être que, comme Fabien, vous avez déjà fait un premier pas, sans même le savoir. Chaque petit geste compte pour avancer vers la paix intérieure.
+
+Sources : [Arkes et Blumer, 1985](https://www.sciencedirect.com/science/article/pii/0749597885900494).

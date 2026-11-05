@@ -21,13 +21,13 @@ Chloé passe la tête par l'entrebâillement de la porte, le regard inquiet, mai
 
 ## Qu'est-ce que la trahison en situation de compétition ?
 
-La trahison en situation de compétition se définit comme la perception d'une rupture de confiance ou d'un manquement aux attentes de loyauté dans un contexte où les ressources ou les reconnaissances sont limitées. Selon les travaux du psychologue Morton Deutsch sur la coopération et la compétition, le sentiment de trahison émerge souvent quand un individu perçoit qu'un allié privilégie son propre intérêt au détriment du lien ou d'un objectif commun. Dans le domaine de la psychologie sociale, les chercheurs étudient comment ces situations activent des zones du cerveau liées à la douleur physique, transformant une simple déception stratégique en une expérience douloureuse.
+On se sent parfois trahi quand une décision prise en situation de rivalité semble rompre une promesse ou une attente de loyauté. Le sentiment de blessure est réel. Pour savoir si un accord a été rompu, il reste à identifier ce qui avait été promis et ce qui s'est passé.
 
 ## Comment la trahison en situation de compétition se manifeste-t-elle ?
 
 ### La distorsion de l'intention d'autrui
 
-Dans un contexte de rivalité, la première manifestation est souvent une interprétation erronée des motivations de l'autre. Hugo, par exemple, ne voit pas le choix de Samba comme une opportunité de carrière pour son ami, mais comme une volonté délibérée de lui nuire ou de le rabaisser. Cette distorsion cognitive transforme un partenaire en adversaire, effaçant des années de complicité au profit d'un récit de persécution. Le sujet se sent alors victime d'un scénario où chaque succès de l'autre est vécu comme une attaque personnelle.
+Hugo entend le choix professionnel de Samba comme une volonté de lui nuire. Le départ peut lui faire mal sans que Samba ait cherché à le rabaisser. À l'inverse, si un engagement précis avait été pris, Hugo peut nommer cet engagement et demander ce qu'il est devenu.
 
 ### Le repli défensif et le sabotage
 
@@ -45,11 +45,11 @@ Cette méthode consiste à séparer rigoureusement les faits objectifs des inter
 
 ### 2. L'ancrage dans les valeurs propres
 
-Quand le sentiment de trahison nous envahit, c'est souvent parce que l'estime de soi dépend du regard des autres ou du résultat d'un concours. Cette technique propose de se reconnecter à ses motivations personnelles, indépendamment de la réussite d'autrui. L'exercice consiste à identifier trois valeurs fondamentales qui guident votre pratique. Pour Hugo, il s'agit de l'expression sincère, la maîtrise technique et le partage avec le public. En se concentrant sur ces valeurs durant l'action, l'attention se déplace de la rivalité vers l'accomplissement personnel, rendant les mouvements des autres moins menaçants pour l'identité propre.
+Quand toute l'attention de Hugo se porte sur le choix de Samba, il peut revenir à ce qu'il tient à faire en musique : progresser, jouer sincèrement et partager quelque chose avec le public. Cela ne règle pas le désaccord, mais lui donne un repère pour décider de la suite.
 
 ### 3. La communication non violente différée
 
-Face à une trahison perçue, la réaction immédiate est souvent l'attaque ou la fuite. Cette technique encourage à retarder l'interaction pour exprimer son besoin de clarté de manière constructive. L'exercice pratique demande de formuler une phrase respectant le schéma OSBD (Observation, Sentiment, Besoin, Demande) sans l'envoyer immédiatement. Par exemple : "Quand j'ai appris ton départ (Observation), je me suis senti délaissé (Sentiment), car j'ai besoin de loyauté pour me sentir en sécurité dans notre amitié (Besoin). Pourrais-tu m'expliquer comment tu as pris cette décision ? (Demande)". Cet écrit sert de libération et prépare le terrain pour une discussion réelle une fois que l'orage émotionnel est passé. Hugo commence à comprendre que cette approche est bien plus saine que de ne pas décrocher son téléphone, comme il l'avait fait avec son frère jumeau Théo lors de sa période de vide intérieur.
+Si l'échange paraît possible, Hugo peut attendre de pouvoir formuler une question simple : « J'ai été blessé d'apprendre ton départ. J'avais compris qu'on s'était engagés pour le tremplin. Tu l'avais compris de la même façon ? » Il peut aussi décider qu'il lui faut d'abord de la distance.
 
 ## Hugo commence à poser les armes
 
@@ -61,7 +61,7 @@ Lorsqu'il entre enfin sur scène, la lumière des projecteurs l'éblouit. Il ape
 
 ---
 
-La trahison, qu'elle soit réelle ou perçue, est l'un des sentiments les plus complexes à gérer, surtout lorsqu'elle se manifeste dans un climat de rivalité. Elle réactive souvent des schémas anciens liés au besoin de reconnaissance et à la peur du rejet. Apprendre à différencier l'acte de l'autre de notre propre valeur est un travail de longue haleine qui demande de la patience et de l'auto-compassion.
+Hugo peut prendre sa blessure au sérieux sans décider d'avance de l'intention de Samba. Comprendre le désaccord ne l'oblige ni à pardonner ni à poursuivre la collaboration.
 
 En transformant la compétition en une occasion de se recentrer sur ses propres aspirations, on retire aux autres le pouvoir de nous briser émotionnellement. Le parcours de Hugo montre que la compréhension de nos mécanismes internes est la clé pour ne plus subir les aléas relationnels comme des fatalités, mais comme des étapes vers une meilleure connaissance de soi.
 

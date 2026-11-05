@@ -23,7 +23,7 @@ Au foyer de jeunes travailleurs, où il vit depuis le début de son contrat, il 
 
 Un retour d'apprentissage est une information sur un travail ou une manière de faire, destinée à aider une personne à comprendre l'écart entre ce qu'elle produit et un objectif. Il peut venir d'un formateur, d'un collègue ou d'une comparaison avec un critère explicite. Pour être utilisable, il doit indiquer quelque chose que l'apprenant peut examiner ou modifier. Une appréciation globale ne remplit pas toujours cette fonction, même quand elle est prononcée avec une intention pédagogique.
 
-John Hattie et Helen Timperley distinguent dans leurs travaux les retours centrés sur la tâche, sur les processus et sur la manière de réguler son apprentissage. Un commentaire sur la personne ne donne pas les mêmes informations qu'un repère sur son travail. Ces distinctions n'imposent pas une formule parfaite pour chaque échange. Elles invitent surtout à demander où l'on va, ce qui correspond déjà au but et quelle suite devient possible.
+Dans leur synthèse, John Hattie et Helen Timperley distinguent les retours qui portent sur la tâche, la méthode, la façon de suivre et d'ajuster son travail, ou la personne elle-même. Pour le geste qu'Éloi apprend, une remarque sur la régularité des morceaux renseigne sur le résultat. Une explication de la façon de vérifier cette régularité lui indique quoi regarder au prochain essai.
 
 Le retour n'est pas forcément agréable. Un professionnel peut signaler une erreur réelle qu'il faut corriger. Le reconnaître ne demande pas de transformer cette erreur en jugement général sur soi. « Ces morceaux sont irréguliers » décrit un résultat observable. « Tu ne feras jamais rien correctement » condamne une personne sans lui apprendre à agir. Le premier constat peut soutenir un travail ; le second peut blesser et mérite d'être nommé comme tel.
 
@@ -67,7 +67,7 @@ Après avoir regardé, Éloi explique ce qu'il remarque avec ses propres mots. S
 
 Quand le résultat diffère, il évite la question trop large « c'est nul ? ». Il demande ce qui correspond au critère et ce qui doit changer. Cédric peut alors distinguer un progrès de régularité d'un problème de rythme. Deux aspects peuvent évoluer à des vitesses différentes. Cette précision permet à Éloi de poursuivre un apprentissage réel sans devoir attendre une réussite complète pour reconnaître une information utile.
 
-Il conserve une note courte sur le repère validé, sans remplacer les documents professionnels ni prendre d'image d'une personne sans son accord. Au prochain essai, il regarde si ce repère l'aide encore. Si la tâche ou le matériel change, il demande ce qui reste valable. Apprendre implique aussi de connaître les limites d'une méthode, plutôt que de transférer automatiquement un geste à toutes les situations.
+Il conserve une note courte sur le repère validé, sans remplacer les documents professionnels ni prendre d'image d'une personne sans son accord. Au prochain essai, il regarde si ce repère l'aide encore. Le modèle de Barry Zimmerman décrit ce cycle de préparation, d'observation et de bilan. Ici, Éloi le fait avec les validations prévues en cuisine. Si la tâche ou le matériel change, il demande ce qui reste valable. Apprendre implique aussi de connaître les limites d'une méthode, plutôt que de transférer automatiquement un geste à toutes les situations.
 
 ### 3. Distinguer information utile et parole blessante
 

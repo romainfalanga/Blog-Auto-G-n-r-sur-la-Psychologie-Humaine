@@ -21,13 +21,13 @@ Elle remonte dans sa voiture, le moteur peine à démarrer dans l'humidité ambi
 
 ## Qu'est-ce que la négativité et le pessimisme ?
 
-La négativité et le pessimisme se définissent comme une inclinaison psychologique à anticiper des résultats défavorables et à se focaliser prioritairement sur les aspects déplaisants d'une situation. Dans le domaine de la psychologie cognitive, ce concept est souvent rattaché aux travaux de Martin Seligman sur l'impuissance apprise et les styles explicatifs. Selon Seligman, le pessimiste a tendance à considérer les événements négatifs comme permanents, universels et personnels.
+Le pessimisme désigne ici l’attente d’un résultat défavorable. Monique remarque aussi qu’elle accorde beaucoup d’attention à ce qui pourrait mal se passer. On peut avoir une inquiétude fondée ou une habitude d’anticiper le pire ; les deux ne se confondent pas.
 
-Contrairement à une idée reçue, ce n'est pas seulement un trait de caractère inné. C'est souvent un mécanisme de survie développé durant l'enfance. Pour Monique, le pessimisme agit comme une armure. Si elle s'attend à ce que la batterie de sa voiture tombe en panne ou que sa fille la critique, elle a l'impression de garder le contrôle. Le choc de la réalité sera moins violent si elle l'a déjà visualisé. C'est ce qu'on appelle le pessimisme défensif, une stratégie qui permet de gérer l'anxiété en abaissant ses attentes au minimum pour éviter une souffrance émotionnelle trop brutale, comme celle qu'elle a vécue lors du décès de son mari.
+Dans leurs [expériences sur le pessimisme défensif](https://pubmed.ncbi.nlm.nih.gov/3806357/), Julie Norem et Nancy Cantor ont étudié la façon dont des personnes anxieuses abordaient une tâche où elles risquaient d’échouer, parfois en se donnant de faibles attentes. Cela ne fait pas de tout pessimisme un mécanisme de survie ni une conséquence de l’enfance. Monique a l’impression que prévoir la panne lui évite d’être prise au dépourvu.
 
 ## Comment la négativité et le pessimisme se manifestent dans le contexte avec ses parents ?
 
-L'éducation reçue joue un rôle de moule pour nos perceptions futures. Chez Monique, la négativité et le pessimisme avec ses parents ne sont pas des concepts abstraits, mais des réalités quotidiennes qui influencent ses relations actuelles, même si ses parents ne sont plus là.
+Monique se souvient des mises en garde de ses parents. Elles peuvent éclairer certaines de ses habitudes, avec le deuil, les expériences récentes et les risques bien réels de la journée.
 
 ### 1. La transmission du filtre de protection
 
@@ -39,7 +39,7 @@ Parfois, le pessimisme est une forme de loyauté. Si nos parents ont eu une vie 
 
 ### 3. L'anticipation des critiques comme mode relationnel
 
-Le pessimisme se niche aussi dans l'attente constante du jugement. Monique a grandi dans un environnement où la perfection était la norme et le reproche facile. Par conséquent, elle entre dans chaque interaction sociale, notamment avec ses enfants, avec un bouclier levé. Elle imagine les reproches avant qu'ils ne soient formulés. Cela crée des prophéties autoréalisatrices : à force d'être sur la défensive et de projeter de la négativité, elle finit par provoquer les tensions qu'elle redoutait, validant ainsi son sentiment que les relations sont compliquées et décevantes.
+Monique attend des reproches et se surprend à répondre sèchement avant d’avoir entendu Isabelle. Elle peut changer sa façon d’aborder l’échange sans se croire responsable de toutes les tensions.
 
 ## Techniques pour agir face à la négativité et au pessimisme
 
@@ -51,7 +51,7 @@ Cette méthode consiste à identifier une pensée pessimiste automatique et à c
 
 ### 2. Le suivi des micro-réussites sensorielles
 
-Pour contrer la négativité héritée de l'éducation, il est utile de porter attention aux faits bruts qui contredisent le pessimisme. Monique peut tenir un carnet où elle note trois éléments factuels positifs par jour, mais en se concentrant sur les sens. Ce n'est pas de la pensée positive forcée, mais de l'observation : le goût exact d'une sauce réussie, la douceur du tissu de son cardigan, ou l'odeur du papier des livres à la bibliothèque. En ancrant le positif dans le corps, on court-circuite les pensées automatiques liées au passé familial pour revenir dans le présent immédiat.
+Si cela lui plaît, Monique peut remarquer un détail agréable de sa journée, sans en faire une obligation ni s’en servir pour écarter un souci concret.
 
 ### 3. La lettre de décharge éducationnelle
 

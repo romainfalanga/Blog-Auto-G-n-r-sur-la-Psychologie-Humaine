@@ -1,5 +1,5 @@
 ---
-title: "Fatigue affective : Inès précise ce qu’elle peut offrir"
+title: "Fatigue et écoute : Inès précise ce qu’elle peut offrir"
 date: 2026-09-20T08:00:00+00:00
 description: "Après une animation bruyante, Inès cherche comment retrouver Clara sans promettre une attention qu’elle n’a plus à cet instant."
 categories: ["Comprendre et maîtriser ses émotions"]
@@ -93,4 +93,4 @@ Décrire une capacité actuelle, négocier une transition et réparer le ton san
 
 Une fatigue persistante, inhabituelle ou très handicapante mérite d’être abordée avec un médecin. Si les besoins de soutien et de repos deviennent un conflit durable, une psychologue ou un autre professionnel peut aider à examiner leur organisation et leurs effets. Vous pouvez demander de l’aide sans devoir prouver que votre fatigue est plus légitime que celle d’une autre personne.
 
-Sources : [Études de journal quotidien sur la qualité du sommeil et le soutien dans les couples](https://pmc.ncbi.nlm.nih.gov/articles/PMC10247628/).
+Sources : [Études de journal quotidien sur la qualité du sommeil et le soutien dans les couples](https://pmc.ncbi.nlm.nih.gov/articles/PMC10247628/) ; [Assurance Maladie, fatigue : quand consulter](https://www.ameli.fr/assure/sante/themes/asthenie-fatigue/bons-reflexes-cas-faut-consulter).

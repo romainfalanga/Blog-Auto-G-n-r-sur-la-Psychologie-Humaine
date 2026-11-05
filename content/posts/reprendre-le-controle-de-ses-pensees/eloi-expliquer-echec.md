@@ -23,7 +23,7 @@ La formatrice lui demande de décrire la méthode qu'il emploie pour remplir la 
 
 Une attribution est une explication que l'on donne à un résultat, en reliant ce qui arrive à certaines causes. Après un échec, on peut invoquer une méthode, un manque de connaissances, un effort, une condition extérieure ou une capacité supposée. Ces explications influencent la suite : ce que l'on pense pouvoir changer, l'aide que l'on demande et la probabilité de tenter à nouveau. Elles ne sont pas toujours examinées comme des hypothèses ; elles peuvent sembler immédiatement vraies.
 
-Bernard Weiner propose une théorie des attributions liée à la motivation et aux émotions. Il distingue notamment la localisation des causes, leur stabilité et leur caractère contrôlable. Une cause considérée comme définitive et impossible à modifier n'ouvre pas les mêmes perspectives qu'une méthode à apprendre. Ce cadre n'exige pas de choisir systématiquement l'explication la plus positive. Il invite à examiner ce qui est réellement connu et ce qui reste supposé.
+Bernard Weiner propose une théorie des attributions liée à la motivation et aux émotions. Il distingue le fait de situer une cause en soi ou dans la situation, de la croire durable et de penser qu'elle peut être contrôlée. Une cause considérée comme définitive et impossible à modifier n'ouvre pas les mêmes perspectives qu'une méthode à apprendre. Ce cadre n'exige pas de choisir systématiquement l'explication la plus positive. Il invite à examiner ce qui est réellement connu et ce qui reste supposé.
 
 Éloi passe de « plusieurs lignes sont fausses » à « je ne suis pas fait pour cela ». La seconde phrase déborde beaucoup les faits. Elle affirme une incapacité stable à partir d'un résultat limité. À l'inverse, dire que la feuille ne compte pas serait aussi trompeur : savoir adapter des quantités fait partie des compétences attendues. Une explication utile reconnaît l'erreur et cherche ses causes sans transformer l'ensemble de la personne en cause unique.
 
@@ -73,7 +73,7 @@ Il conserve également ce qui dépend du cadre : temps de relecture, accès au s
 
 Éloi essaie une formulation factuelle : « Cette fiche comporte des erreurs, je dois comprendre la méthode et la faire vérifier. » Elle ne nie pas la difficulté. Elle lui indique une suite possible. Il peut y ajouter son émotion : « Je suis déçu et j'ai peur de ne pas y arriver. » Le ressenti n'a pas besoin d'être transformé en description définitive de ses capacités pour être entendu.
 
-Les expériences de Juliana Breines et Serena Chen suggèrent qu'une attitude de compassion envers soi après une difficulté peut soutenir la motivation à s'améliorer. Elles ne promettent pas qu'une phrase bienveillante suffira à apprendre un calcul. Éloi retient surtout qu'il peut chercher à corriger sans s'attaquer. Une parole utile rend la réparation pensable ; elle ne sert ni à excuser une erreur non traitée ni à exiger une émotion positive.
+Dans une expérience de Juliana Breines et Serena Chen, après un premier test difficile, les participants invités à se traiter avec bienveillance ont consacré plus de temps à étudier que ceux des groupes de comparaison. Le temps d'étude est le résultat observé ici. Pour apprendre le calcul, Éloi a toujours besoin de l'explication et de la pratique. Éloi retient surtout qu'il peut chercher à corriger sans s'attaquer. Une parole utile rend la réparation pensable ; elle ne sert ni à excuser une erreur non traitée ni à exiger une émotion positive.
 
 ## Éloi commence à corriger un travail plutôt que sa personne
 
@@ -91,4 +91,4 @@ Vous pouvez choisir un événement limité et demander ce qui est observé, ce q
 
 Si les échecs déclenchent une autocritique intense, une honte durable ou un découragement qui vous empêche d'agir, un professionnel peut vous aider à travailler cette souffrance. Un formateur peut aussi préciser les apprentissages nécessaires. Vous avez le droit de recevoir une correction et un soutien respectueux au même moment.
 
-Sources : [Bernard Weiner, attributions, motivation et émotions](https://pubmed.ncbi.nlm.nih.gov/3903815/) ; [Breines et Chen, compassion envers soi et motivation à s'améliorer](https://pubmed.ncbi.nlm.nih.gov/22645164/).
+Sources : [Bernard Weiner, attributions, motivation et émotions](https://pubmed.ncbi.nlm.nih.gov/3903815/) ; [Breines et Chen, compassion envers soi et motivation à s'améliorer](https://journals.sagepub.com/doi/10.1177/0146167212445599).

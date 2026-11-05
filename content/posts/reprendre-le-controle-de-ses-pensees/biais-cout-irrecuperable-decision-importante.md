@@ -21,9 +21,9 @@ Philippe l'appelle depuis le couloir pour savoir si elle veut sortir marcher en 
 
 ## Définition du biais du coût irrécupérable
 
-Le biais du coût irrécupérable est la tendance psychologique à poursuivre un projet ou à maintenir un comportement uniquement en raison des ressources, qu'il s'agisse de temps, d'argent ou d'énergie, déjà investies, plutôt que sur la base des bénéfices futurs. Ce concept a été largement documenté par l'économiste Richard Thaler et le psychologue Hal Arkes. Ce biais s'explique par notre aversion viscérale à la perte : nous préférons persévérer dans une voie sans issue plutôt que d'accepter que notre investissement initial est définitivement perdu.
+Un coût irrécupérable est une dépense passée qu’on ne peut plus récupérer, quelle que soit la décision actuelle. Dans les [expériences de Hal Arkes et Catherine Blumer](https://www.sciencedirect.com/science/article/pii/0749597885900494), un investissement passé pouvait inciter à poursuivre une activité, même sans avantage futur correspondant. Une crainte de paraître gaspiller peut y contribuer ; ce n’est pas l’unique explication.
 
-Dans le cas de Margot, son passé de directrice commerciale agit comme une ancre. Elle ne garde pas ces dossiers parce qu'ils sont utiles à son futur de coach, mais parce que son cerveau refuse de comptabiliser ces vingt-cinq ans comme une dépense sans retour. Ce mécanisme cognitif nous pousse à finir un mauvais film au cinéma simplement parce qu'on a payé le billet, ou à rester dans une relation malheureuse parce qu'on y a consacré dix ans de sa vie. Le biais du coût irrécupérable face à une décision importante nous fait regarder dans le rétroviseur alors que la route se trouve devant nous.
+Dans le cas de Margot, son passé de directrice commerciale agit comme une ancre. Elle ne garde pas ces dossiers parce qu'ils sont utiles à son futur de coach, mais parce que elle espère que garder ces papiers donnera une autre issue à l’effort déjà fourni. Ce mécanisme cognitif nous pousse à finir un mauvais film au cinéma simplement parce qu'on a payé le billet, ou à rester dans une relation malheureuse parce qu'on y a consacré dix ans de sa vie. Le biais du coût irrécupérable face à une décision importante nous fait regarder dans le rétroviseur alors que la route se trouve devant nous.
 
 ## Manifestations du biais face à une décision importante
 
@@ -33,7 +33,7 @@ Lorsque nous faisons face à un tournant de vie, le biais se manifeste par une c
 
 ### 2. La justification de la persévérance irrationnelle
 
-Ce biais nous pousse à inventer des raisons logiques pour continuer à porter un fardeau devenu inutile. On se convainc que l'on pourrait avoir besoin de ces vieux contacts, que ces méthodes pourraient servir un jour, ou que l'on doit honorer le chemin parcouru. Dans une transition professionnelle, cela se traduit par une difficulté à investir pleinement dans de nouveaux outils ou de nouvelles formations, car une partie de notre énergie reste mobilisée pour maintenir en vie l'ancien système. Margot reconnaît ici l'influence de son driver sois forte qui l'a longtemps poussée à porter des charges inutiles par simple habitude de résistance.
+Ce biais nous pousse à inventer des raisons logiques pour continuer à porter un fardeau devenu inutile. On se convainc que l'on pourrait avoir besoin de ces vieux contacts, que ces méthodes pourraient servir un jour, ou que l'on doit honorer le chemin parcouru. Dans une transition professionnelle, cela se traduit par une difficulté à investir pleinement dans de nouveaux outils ou de nouvelles formations, car une partie de notre énergie reste mobilisée pour maintenir en vie l'ancien système. Margot se demande si elle garde ces papiers pour un usage précis ou parce qu’elle a du mal à tourner la page.
 
 ### 3. Le dilemme de la légitimité
 
@@ -43,7 +43,7 @@ Le coût irrécupérable crée une distorsion sur notre valeur personnelle. On p
 
 ### 1. La règle du coût nul
 
-Cette technique consiste à imaginer que vous partez de zéro aujourd'hui, sans aucun passé. Posez-vous la question suivante : si je n'avais pas passé vingt-cinq ans dans le commerce et que je découvrais ces dossiers pour la première fois dans ce bureau, est-ce que je choisirais de les garder ? Si la réponse est non, le biais est identifié. Pour Margot, cela signifie s'autoriser à regarder son bureau comme une page blanche. L'exercice consiste à lister les trois éléments essentiels pour sa séance de demain et à constater que les trophées de 2014 n'en font pas partie.
+Cette technique consiste à imaginer que vous partez de zéro aujourd'hui, sans aucun passé. Posez-vous la question suivante : si je n'avais pas passé vingt-cinq ans dans le commerce et que je découvrais ces dossiers pour la première fois dans ce bureau, est-ce que je choisirais de les garder ? Si la réponse est non, demandez-vous si un objet a aujourd’hui une utilité, une valeur affective ou doit être conservé. Le simple fait de le garder ne suffit pas à identifier un biais. Pour Margot, cela signifie s'autoriser à regarder son bureau comme une page blanche. L'exercice consiste à lister les trois éléments essentiels pour sa séance de demain et à constater que les trophées de 2014 n'en font pas partie.
 
 ### 2. Le recadrage par l'apprentissage
 
@@ -55,7 +55,7 @@ Projetez-vous dans deux ans, alors que votre nouvelle activité est florissante.
 
 ## Évolution de Margot et allégement du bagage
 
-Margot repose le trophée en Plexiglas sur le haut d'une pile de papiers à recycler. Elle s'assoit par terre, au milieu de son bureau encombré, et prend son journal de gratitude. Elle n'écrit pas sur ses succès commerciaux passés. Elle écrit sa reconnaissance pour la clarté qu'elle ressent en cet instant précis. Elle comprend que son identité n'est pas la somme de ses investissements passés, mais la direction qu'elle choisit de prendre maintenant. Elle se souvient de sa lutte contre les injonctions internes, ce besoin de perfection qui l'obligeait à tout garder sous contrôle. Elle réalise que son pessimisme de l'autre soir sur le parking de Lyon n'était qu'une autre forme de ce biais, une peur de perdre pied si elle lâchait ses anciens repères.
+Margot repose le trophée en Plexiglas sur le haut d'une pile de papiers à recycler. Elle s'assoit par terre, au milieu de son bureau encombré, et prend son journal de gratitude. Elle n'écrit pas sur ses succès commerciaux passés. Elle écrit sa reconnaissance pour la clarté qu'elle ressent en cet instant précis. Elle comprend que son identité n'est pas la somme de ses investissements passés, mais la direction qu'elle choisit de prendre maintenant. Elle se souvient de sa lutte contre les injonctions internes, ce besoin de perfection qui l'obligeait à tout garder sous contrôle. Elle réalise que les doutes de l’autre soir sur le parking de Lyon rendaient ses anciens repères plus précieux à ses yeux.
 
 Elle se lève et commence à remplir un grand sac de tri avec une détermination nouvelle. Ses gestes sont fluides, presque rythmés. Elle ne jette pas son passé, elle le remercie d'avoir été là avant de lui dire au revoir. Elle conserve uniquement un petit carnet de notes où elle avait consigné ses premières réflexions sur l'humain, le seul lien véritablement utile avec sa nouvelle vie de coach. En vidant ses étagères, elle sent qu'elle évacue aussi une partie de l'incertitude qui l'avait envahie après sa séance avec Sylvie.
 

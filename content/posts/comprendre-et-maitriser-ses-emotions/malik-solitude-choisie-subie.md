@@ -25,7 +25,7 @@ Il retrouve la photo de la feuille et prépare un message pour Fatou. Au lieu d�
 
 La solitude choisie est un temps sans compagnie que la personne souhaite ou accepte comme favorable à ses besoins du moment. La solitude subie correspond ici à un écart pénible entre les liens désirés et les contacts réellement disponibles. Être physiquement seul ne suffit donc pas à savoir comment l’expérience est vécue.
 
-Thuy-Vy Nguyen et ses collègues étudient les effets émotionnels de périodes de solitude dans plusieurs expériences. Ils observent notamment l’importance du choix et des conditions de l’activité. Ces résultats ne signifient pas que rester seul calme toujours une personne ou qu’une promenade devrait corriger un manque de relations. Ils invitent à regarder la qualité de l’expérience plutôt que sa seule durée.
+Dans les études de Thuy-Vy Nguyen et de ses collègues, de courts moments passés seul réduisent l’intensité de certains états, agréables comme désagréables. Dans une des études, le choix de passer du temps seul s’accompagne de plus de détente et de moins de stress. Ces résultats ne signifient pas que rester seul calme toujours une personne ou qu’une promenade devrait corriger un manque de relations. Ils invitent à regarder la qualité de l’expérience plutôt que sa seule durée.
 
 On peut également se sentir seul au milieu d’un groupe. Une conversation où l’on ne peut rien partager de personnel peut laisser un besoin de lien intact. À l’inverse, une relation importante peut rester présente pendant un temps solitaire grâce au souvenir d’un échange et à la possibilité de se retrouver. La quantité de personnes autour de soi ne résume pas l’appui disponible.
 
@@ -102,4 +102,4 @@ Identifier un besoin, formuler une invitation précise et garder un passage vers
 Si le manque de lien devient durable, entraîne un retrait important ou s’accompagne d’une détresse persistante, un médecin ou un psychologue peut aider. Des ressources associatives ou locales peuvent également être recherchées selon les possibilités. Le soutien doit respecter le goût du calme autant que le besoin de relation, sans pathologiser l’un ou l’autre.
 
 Sources :
-- [Nguyen, Ryan et Deci, expériences sur la solitude et ses conditions de choix](https://pubmed.ncbi.nlm.nih.gov/29072531/)
+- [Nguyen, Ryan et Deci, expériences sur la solitude et ses conditions de choix](https://journals.sagepub.com/doi/10.1177/0146167217733073)

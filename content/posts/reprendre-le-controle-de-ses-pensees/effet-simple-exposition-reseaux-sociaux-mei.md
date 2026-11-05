@@ -21,13 +21,13 @@ Son pouce continue de parcourir l'écran. Une publicité pour un logiciel de des
 
 ## Qu'est-ce que l'effet de simple exposition ?
 
-L'effet de simple exposition est un biais cognitif qui nous pousse à manifester un sentiment positif ou une préférence envers un stimulus, qu'il s'agisse d'une personne, d'un objet, d'une image ou d'un son, par le simple fait d'y avoir été exposé de manière répétée. Ce concept a été théorisé par le psychologue social Robert Zajonc en 1968. Ses recherches ont démontré que la familiarité engendre l'attrait : plus nous voyons quelque chose, plus notre cerveau traite l'information facilement, ce qui génère une sensation de sécurité et de plaisir inconscient.
+Dans les expériences de Robert Zajonc, en 1968, des participants ont évalué plus favorablement certains éléments qu’ils avaient rencontrés plusieurs fois. L’effet de simple exposition concerne l’agrément ou la préférence dans certaines conditions ; il n’implique pas que tout ce qui se répète finit par plaire.
 
-Dans le cerveau de Mei, ce mécanisme est à l'œuvre sans qu'elle le sache. Ce n'est pas que l'influenceuse est intrinsèquement plus intéressante qu'une autre, c'est simplement que l'algorithme la lui montre tous les jours. Ce phénomène est particulièrement puissant car il ne nécessite aucune interaction directe ni aucun effort conscient. C'est une forme d'apprentissage passif. Plus une image est familière, plus elle nous semble vraie, esthétique ou souhaitable, même si nous avions un avis neutre ou négatif au départ.
+Mei remarque qu’un visuel revient et commence à lui plaire. L’histoire ne permet pas d’isoler la répétition de ce qu’elle aime déjà, de la mise en scène ou de la popularité du compte. Juger une affirmation vraie parce qu’elle est répétée renvoie à une autre notion, l’effet de vérité illusoire.
 
 ## Comment l'effet de simple exposition se manifeste sur les réseaux sociaux ?
 
-Sur les plateformes numériques, l'effet de simple exposition sur les réseaux sociaux est démultiplié par la puissance des algorithmes de recommandation. Ces systèmes sont conçus pour nous présenter de manière répétée des contenus similaires, créant ainsi une bulle de familiarité qui finit par modifier notre perception de la réalité et de nous-mêmes.
+Un fil peut présenter plusieurs fois une image, un produit ou un style. Le résultat de laboratoire ne suffit pas à mesurer ce qui se passe pour Mei sur une plateforme, où interviennent aussi ses abonnements, la publicité et la présentation des contenus.
 
 ### La standardisation des canons de beauté et de succès
 
@@ -35,7 +35,7 @@ Pour une artiste comme Mei, ce biais se manifeste par une uniformisation de ses 
 
 ### L'illusion de nécessité pour les produits de consommation
 
-Mei remarque que des objets dont elle n'avait aucun besoin finissent par devenir des envies pressantes. Une marque de pinceaux spécifiques ou une tablette graphique dernier cri apparaissent dans les mains de tous les artistes qu'elle suit. Au début, elle est indifférente. Puis, à la cinquième apparition, elle devient curieuse. À la vingtième, elle est convaincue que ces outils sont la clé de sa réussite. L'effet de simple exposition sur les réseaux sociaux transforme la répétition visuelle en une preuve sociale de qualité, masquant le fait que ses outils actuels lui conviennent parfaitement.
+Mei remarque que des objets dont elle n'avait aucun besoin finissent par devenir des envies pressantes. Une marque de pinceaux spécifiques ou une tablette graphique dernier cri apparaissent dans les mains de tous les artistes qu'elle suit. Au début, elle est indifférente. Puis, à la cinquième apparition, elle devient curieuse. Puis elle se demande si ces outils seraient utiles. Cette impression peut tenir à la répétition ou aux recommandations qui l’accompagnent ; ni l’une ni les autres ne suffisent à juger de la qualité du matériel.
 
 ### La modification des opinions et des comportements relationnels
 
@@ -51,11 +51,11 @@ Cette technique consiste à casser la boucle de répétition en introduisant int
 
 ### 2. Le marquage de l'intentionnalité
 
-Face à une image ou une publicité qui revient souvent, vous devez verbaliser consciemment le processus en cours. Au lieu de subir le flux, dites-vous intérieurement que vous voyez cette image pour la dixième fois et que votre cerveau commence à l'aimer parce qu'elle est familière, pas parce qu'elle est meilleure. Ce simple étiquetage permet de passer du système limbique, émotionnel et automatique, au cortex préfrontal, analytique. Cela brise le charme de la familiarité. Exercice : dès que vous ressentez une envie d'achat ou un sentiment d'infériorité, demandez-vous si vous aimiez cela il y a trois jours ou si c'est la répétition qui parle.
+Vous pouvez remarquer qu’un produit revient souvent et vous demander à quoi il vous servirait. Faites la différence entre le connaître, le trouver attirant et avoir une raison concrète de l’acheter.
 
-### 3. La mise en jachère numérique
+### 3. Faire une pause si elle est utile
 
-Pour contrer l'effet de simple exposition sur les réseaux sociaux, il est crucial de créer des périodes de vide sensoriel. La répétition fonctionne car elle est continue. En instaurant des pauses de vingt-quatre heures sans réseaux sociaux, vous permettez à votre propre identité et à vos goûts originels de refaire surface. C'est durant ces moments de calme que Mei peut retrouver le lien avec ses propres intuitions artistiques, loin du bruit des standards imposés. Exercice : choisissez un jour par semaine où les réseaux sociaux sont interdits, et consacrez ce temps à une activité manuelle sans modèle extérieur, comme le dessin d'observation directe.
+Choisissez une pause qui vous convient si le fil vous fatigue, ou essayez un dessin d’observation sans regarder d’exemples. Aucune durée n’est nécessaire pour « retrouver » ses goûts ; l’idée est de se donner une autre activité possible.
 
 ## Mei commence à filtrer son monde
 
@@ -72,3 +72,5 @@ Comprendre l'effet de simple exposition est une étape majeure pour quiconque so
 Ce chemin vers une plus grande autonomie de pensée demande de la patience et de l'observation. Comme Mei, vous pouvez apprendre à différencier vos désirs profonds des influences répétitives de votre environnement. La connaissance de soi est la meilleure défense contre les automatismes de notre esprit.
 
 Si vous ressentez que l'anxiété liée aux réseaux sociaux ou la comparaison permanente aux autres deviennent envahissantes, vous pouvez consulter un psychologue ou un thérapeute. Un accompagnement professionnel peut vous aider à déconstruire ces mécanismes et à renforcer votre estime de soi face aux pressions extérieures.
+
+Sources : [Zajonc, 1968, article original](https://isr.umich.edu/wp-content/uploads/historicPublications/Theattitudinaleffects_2360_.PDF).

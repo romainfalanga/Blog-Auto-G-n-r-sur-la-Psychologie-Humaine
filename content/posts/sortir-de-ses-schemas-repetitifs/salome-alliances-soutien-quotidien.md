@@ -25,7 +25,7 @@ Le soir, Nora lui propose de l’accompagner à une réunion du jardin partagé.
 
 Une alliance de soutien est un accord, parfois simple et ponctuel, par lequel des personnes contribuent à rendre une situation plus praticable dans le respect des choix de celle qui est concernée. Elle peut porter sur une correction, une présence, une information ou une tâche. Elle ne se résume pas à une déclaration de bonnes intentions. Son utilité se voit dans ce qui devient effectivement plus accessible et dans la liberté conservée par chacun.
 
-Une recherche sur l’expression des identités non binaires au travail examine notamment les pratiques de soutien entre collègues et l’autonomie dans l’emploi. Elle rappelle que les possibilités d’expression dépendent aussi des conditions relationnelles et organisationnelles. Elle ne garantit pas qu’un collègue donné sera toujours un bon relais. Dans l’atelier de Salomé, l’appui doit être défini, accepté et évalué à partir d’actions précises, sans déduire ses besoins de sa seule identité.
+Dans une enquête auprès de personnes non binaires au travail, celles qui rapportaient davantage de soutien de leurs collègues ou d’autonomie dans leur emploi faisaient aussi état d’un écart moindre entre la façon dont elles exprimaient leur genre au travail et celle qu’elles souhaitaient. L’enquête ne démontre pas qu’une intervention d’un collègue produit cet effet, et elle ne porte pas sur l’entraide entre amis. Pour Salomé, l’utilité du relais se voit dans un fait précis : Gaspard demande la correction convenue et s’en tient à cette demande.
 
 Le soutien n’a pas besoin de tout résoudre pour compter. Gaspard peut demander une correction et ne pas pouvoir l’accompagner à chaque événement. Nora peut proposer un échange après une réunion et ne pas vouloir analyser longuement tous les courriels professionnels. Des rôles limités peuvent être plus fiables que des promesses très larges. Salomé peut aussi chercher des ressources liées à une situation, comme une personne responsable du lieu ou un conseil professionnel pertinent.
 
@@ -47,7 +47,7 @@ Cette sélection n’évalue pas l’amitié. Refuser une forme d’aide ne sign
 
 ### Faire du soutien une dette sans limite
 
-Salomé imagine parfois qu’accepter un service l’obligera à répondre présent à la prochaine demande. Elle pourrait alors hésiter à recevoir, même lorsque l’aide est simple. La réciprocité compte dans leurs relations, mais elle ne nécessite pas une équivalence immédiate entre chaque geste. Gaspard peut corriger un courriel aujourd’hui ; Salomé peut contribuer autrement à l’atelier plus tard, selon un choix et non selon une facture affective invisible.
+Salomé imagine parfois qu’accepter un service l’obligera à répondre présente à la prochaine demande. Elle pourrait alors hésiter à recevoir, même lorsque l’aide est simple. La réciprocité compte dans leurs relations, mais elle ne nécessite pas une équivalence immédiate entre chaque geste. Gaspard peut corriger un courriel aujourd’hui ; Salomé peut contribuer autrement à l’atelier plus tard, selon un choix et non selon une facture affective invisible.
 
 Il est utile de discuter les engagements réels lorsqu’une aide prend du temps ou se répète. Un relais ponctuel ne doit pas devenir un rôle permanent sans accord. De même, une demande future peut recevoir un non même après un service reçu. La gratitude et la limite peuvent coexister. Ce fonctionnement demande une organisation assez claire pour que personne ne soit supposé disponible indéfiniment au nom de la solidarité.
 

@@ -15,7 +15,7 @@ draft: false
 
 La porte du bureau claque doucement, puis un bruit de sac qui traîne sur le carrelage. Isabelle relève la tête, ses doigts chauffés par la tisane encore tiède posée sur le coin du bureau. Devant elle, Mathieu, seize ans, évite le regard et pose ses baskets pleines de boue sur le carrelage humide du couloir. Il dit tout bas qu'il a encore manqué les trois dernières heures. Sans réfléchir, Isabelle pense que c'est de la paresse.
 
-La pensée lui arrive comme une vieille habitude, familière et rapide. Elle remarque la crispation dans sa poitrine, la façon dont elle replie son carnet de notes comme pour rassembler une autorité instantanée. Elle se souvient alors d'une image plus ancienne : elle, à huit ans, réglant les disputes parentales comme si c'était son travail, jugeant vite pour garder la maison au calme. Ce réflexe, consistant à attribuer un trait fixe à une personne, s'est infiltré dans sa pratique professionnelle sans qu'elle le voie. C'est le même mécanisme qui, hier encore, lui faisait interpréter le silence d'Aurélie comme un désintérêt profond plutôt que comme une simple batterie de téléphone déchargée.
+La pensée lui arrive rapidement. Elle remarque la crispation dans sa poitrine et se souvient d’une période où elle se sentait chargée de calmer les disputes à la maison. Ce souvenir lui vient sans expliquer à lui seul son jugement sur Mathieu. Elle reconnaît une habitude : tirer une conclusion sur quelqu’un avant d’avoir examiné la situation.
 
 Aujourd'hui, 18 mars 2026, au collège où elle travaille, Isabelle comprend que ce jugement immédiat pèse sur sa fatigue émotionnelle. Elle repense à la conversation d'il y a dix jours, quand elle découvrait son attachement anxieux-préoccupé avec Aurélie ; elle a appris à repérer les signes d'activation et à nommer ses peurs. Maintenant, elle s'autorise à questionner ce jugement sur Mathieu, à chercher des causes situées plutôt qu'à coller une étiquette. Elle sent la tension demeurer, mais aussi une curiosité nouvelle, comme si elle décidait d'enquêter avant de condamner, rationalisant ses émotions pour ne plus être l'esclave de ses premières impulsions.
 
@@ -23,17 +23,17 @@ Aujourd'hui, 18 mars 2026, au collège où elle travaille, Isabelle comprend que
 
 Le biais d'attribution fondamentale est la tendance à expliquer le comportement d'autrui par des caractéristiques stables de sa personnalité plutôt que par des facteurs contextuels ou situationnels. Le concept est souvent attribué à Lee Ross, qui a popularisé l'expression fundamental attribution error en 1977, et s'inscrit dans la lignée des travaux de Fritz Heider sur l'attribution causale. En psychologie sociale, ce biais explique pourquoi nous jugeons vite un élève paresseux plutôt que d'envisager des difficultés familiales, des troubles du sommeil ou un trajet scolaire perturbé.
 
-Des recherches en psychologie de l'éducation montrent que les enseignants et professionnels de l'école peuvent, sans s'en rendre compte, adopter des attributions internes pour expliquer les échecs ou absences des élèves. Ces attributions influencent les attentes, les interactions et les décisions pédagogiques. Bernard Weiner, avec sa théorie de l'attribution, a aussi montré que la façon dont on attribue une réussite ou un échec (cause interne contre cause externe, stable contre instable) a des conséquences directes sur la motivation et le soutien accordé.
+Dans l’expérience de Jones et Harris, des participants ont parfois attribué à un auteur l’opinion défendue dans un texte, même quand la consigne lui imposait cette position. Le contexte scolaire d’Isabelle diffère de cette expérience. Le modèle de Weiner distingue aussi plusieurs dimensions des causes perçues, dont leur stabilité et la possibilité de les modifier. Interpréter une difficulté comme définitive peut influer sur les attentes, sans déterminer la suite à coup sûr.
 
 ## Manifestations du biais d'attribution à l'école et dans les études
 
 ### 1. Attribuer les absences ou retards à la paresse
 
-Dans le cas d'absences répétées, il est facile de penser que l'élève manque de volonté. Par exemple, un professeur qui remarque que Jules manque souvent la dernière heure conclut qu'il est démotivé. Or, la réalité peut être un travail de nuit pour aider la famille, un trajet compliqué ou une anxiété sociale aiguë. Ce type d'attribution interne conduit souvent à des sanctions ou à un retrait de soutien, ce qui aggrave le décrochage. La conséquence pour l'élève est une diminution du soutien, tandis que pour le personnel, cela génère un sentiment d'échec et une charge émotionnelle accrue.
+Quand un élève manque souvent la dernière heure, un adulte peut supposer qu’il se désintéresse du cours. Des difficultés de transport, de santé ou d’organisation familiale peuvent aussi compter. Une absence peut demander un suivi. Un jugement rapide risque d’orienter la réponse avant que les obstacles soient connus.
 
 ### 2. Expliquer les performances faibles par le manque de capacité
 
-Quand une élève obtient de mauvaises notes, le réflexe est de l'inscrire dans une capacité supposée. On entend parfois qu'elle n'est pas faite pour les mathématiques plutôt que de considérer qu'elle n'a pas compris un point clé ou qu'elle n'a pas bénéficié du soutien nécessaire à la maison. Cette explication stable renforce les croyances limitantes chez l'élève, réduit les attentes positives du professeur et peut créer une prophétie auto-réalisatrice. Cela mène à une baisse de l'investissement pédagogique qui renforce l'échec.
+Après une mauvaise note, dire qu’une élève « n’est pas faite pour les mathématiques » laisse peu de place aux difficultés précises et aux moyens d’apprendre. L’élève peut avoir manqué une notion ou avoir besoin d’un autre appui. Il vaut mieux vérifier ces possibilités avant de réduire ses occasions de progresser.
 
 ### 3. Interpréter les comportements difficiles comme des traits de caractère
 
@@ -43,7 +43,7 @@ Un comportement agressif ou un retrait social est souvent interprété comme une
 
 ### 1. Journal de contexte et observation systématique
 
-L'objectif est de repérer les facteurs situés avant de nommer un trait. Pendant une semaine, pour chaque incident notable comme une absence ou un conflit, notez en deux colonnes ce que vous avez observé, puis quatre éléments de contexte possibles (sommeil, famille, transport, charge scolaire). Par exemple, si un élève est absent le mercredi, les contextes possibles incluent un problème de transport, une dispute familiale ou un travail après l'école. Cette méthode n'a pas pour but de trouver la cause exacte à chaque fois, mais d'entraîner le réflexe de poser plusieurs hypothèses contextuelles avant d'assigner une caractéristique stable. Cet entraînement ralentit l'automatisme du jugement.
+Distinguez l’observation, par exemple trois absences, des hypothèses qui demandent une vérification. Une question sur les obstacles rencontrés peut être plus utile que plusieurs suppositions sur la vie familiale. Dans un cadre professionnel, gardez uniquement les informations nécessaires au suivi, selon les règles de confidentialité.
 
 ### 2. Le temps des trois vérifications
 
@@ -59,9 +59,9 @@ Isabelle applique ces techniques dès le lendemain. Elle prend son carnet et, au
 
 Elle utilise ensuite l'entretien exploratoire avec la famille. La conversation révèle un changement de garde récent et une incompréhension sur les horaires du transport scolaire. Ensemble, ils conçoivent un plan simple : prévenir le collège si la garde change et proposer à Mathieu un rattrapage hebdomadaire. Isabelle garde une note dans son journal de contexte, ce qui l'aide à mesurer l'efficacité de la solution.
 
-Cet exercice a un effet secondaire sur sa propre histoire. Quand Aurélie met plus de temps que d'habitude à répondre à un message, Isabelle sent l'anxiété monter, mais elle s'applique à répéter ses trois vérifications : que sait-elle vraiment et quelles explications contextuelles sont possibles ? Elle se remémore ses réflexions sur son attachement anxieux et utilise désormais ces outils ensemble. Elle réalise que son besoin de contrôle, né de son rôle de "petite médiatrice" dans son enfance, peut être apaisé par cette rationalisation. Plutôt que de ruminer des scénarios, elle envoie un message clair et neutre, puis va marcher dans le parc pour observer ses pensées sans se laisser mener par elles. Ce geste demande de l'énergie, mais il s'avère plus efficace que la réaction instinctive.
+Cet exercice a un effet secondaire sur sa propre histoire. Quand Aurélie met plus de temps que d'habitude à répondre à un message, Isabelle sent l'anxiété monter, mais elle s'applique à répéter ses trois vérifications : que sait-elle vraiment et quelles explications contextuelles sont possibles ? Elle se remémore ses réflexions sur son attachement anxieux et utilise désormais ces outils ensemble. Elle remarque qu’une première interprétation peut changer quand elle envisage plusieurs explications. Plutôt que de ruminer des scénarios, elle envoie un message clair et neutre, puis va marcher dans le parc pour observer ses pensées sans se laisser mener par elles. Ce jour-là, la pause l’aide à formuler un message qu’elle juge plus clair.
 
-Isabelle accepte aussi de partager la charge. Elle appelle Catherine, une amie enseignante, pour échanger sur un cas similaire et envisage de solliciter un temps de co-intervention. Demander de l'aide reste difficile, vestige d'une enfance où elle assumait tout très tôt, mais elle constate que déléguer une partie du suivi réduit sa fatigue. Au fil des semaines, ses dossiers d'élèves gagnent en précision. Les remarques deviennent descriptives et orientées vers les solutions. Elle observe que les élèves répondent mieux quand ils sentent une volonté de comprendre plutôt que de juger. Pour elle, le biais d'attribution fondamentale ne disparaît pas, mais il devient un signal qu'elle apprend à interroger.
+Isabelle accepte de partager la charge avec les personnes habilitées au collège. Elle peut parler de sa façon de travailler avec Catherine sans lui transmettre d’informations sur Mathieu. Au fil des semaines, ses notes de suivi distinguent mieux ce qu’elle observe et ce qui reste à vérifier.
 
 ---
 
@@ -70,3 +70,5 @@ Isabelle comprend maintenant que le biais d'attribution fondamentale affecte aut
 Changer un réflexe d'interprétation demande du temps et des outils concrets. Le journal de contexte, la vérification en trois étapes et l'entretien exploratoire transforment un jugement en question et ouvrent des possibilités d'action.
 
 Si la difficulté persiste, si l'épuisement émotionnel est important ou si vous sentez que la situation influence sévèrement votre quotidien, consulter un professionnel de la santé mentale ou un collègue référent reste une démarche prudente. Vous disposez de ressources pour apprendre à regarder le monde différemment.
+
+Sources : [Jones et Harris, expérience sur l’attribution d’attitudes, 1967](https://doi.org/10.1016/0022-1031(67)90034-0), [Weiner, modèle des attributions de réussite et d’échec, 1985](https://pubmed.ncbi.nlm.nih.gov/3903815/).

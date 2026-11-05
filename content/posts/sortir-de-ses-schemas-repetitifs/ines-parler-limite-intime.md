@@ -39,11 +39,11 @@ Inès compose mentalement une explication trop vaste. Elle cherche des arguments
 
 Clara n’exige pas ce débat. Inès anticipe une contestation à partir de sa propre exigence de cohérence. Cette observation reste locale : elle ne suffit pas à lui attribuer un fonctionnement permanent. Le contexte compte aussi. Les discussions publiques sur la sexualité peuvent rendre certaines personnes inquiètes d’être jugées trop prudentes ou trop curieuses. Aucune de ces normes ne décide à leur place. L’intimité n’est pas un examen d’ouverture d’esprit.
 
-### Donner un accord d’attente pour amortir le refus
+### Laisser la décision en suspens pour amortir le refus
 
 « On verra » semble préserver toutes les possibilités, mais ne correspond pas toujours à une véritable indécision. Pour Inès, ces mots servent à repousser une gêne. Ils conduisent ensuite à surveiller le sujet, à anticiper une relance et à composer des excuses. Son envie de ménager l’échange crée ainsi une incertitude qu’elle doit porter plus longtemps. Elle peut corriger cette réponse sans se reprocher d’avoir cherché du temps.
 
-Une formulation provisoire reste utile lorsqu’elle exprime une vraie hésitation : « Je ne sais pas et je ne veux pas décider maintenant. » Cette phrase contient déjà une limite actuelle. Le problème n’est pas de réfléchir lentement, mais de laisser entendre une disponibilité qui n’existe pas. Inès apprend à distinguer ses besoins : parfois elle veut réfléchir, parfois elle sait qu’elle refuse et cherche seulement comment le dire.
+Une formulation provisoire reste utile lorsqu’elle exprime une vraie hésitation : « Je ne sais pas et je ne veux pas décider maintenant. » Cette phrase contient déjà une limite actuelle. Ni « on verra » ni un temps de réflexion ne donnent le feu vert pour commencer. Inès peut préciser son choix quand elle le souhaite ; Clara doit attendre un accord libre avant d’envisager un geste. Inès apprend à distinguer ses besoins : parfois elle veut réfléchir, parfois elle sait qu’elle refuse et cherche seulement comment le dire.
 
 ### Croire que comprendre signifie obtenir tous les détails
 
@@ -93,4 +93,4 @@ Choisir ce que l’on explique, nommer la limite et prévoir une pause offrent d
 
 Si parler d’intimité provoque une souffrance persistante, une psychologue ou un professionnel formé peut accompagner cette réflexion à votre rythme. En présence d’insistance, de menaces ou de représailles, cherchez un soutien qui prenne ces comportements au sérieux. Vous n’avez pas à exposer davantage votre vie pour mériter que votre limite soit respectée.
 
-Sources : [Organisation mondiale de la santé, cadre de la santé sexuelle](https://www.who.int/fr/health-topics/sexual-health).
+Sources : [Organisation mondiale de la santé, cadre de la santé sexuelle](https://www.who.int/fr/health-topics/sexual-health) ; [Arrêtons les violences, repères sur le consentement](https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-sexuelles).

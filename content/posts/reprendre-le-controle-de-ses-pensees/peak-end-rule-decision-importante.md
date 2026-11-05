@@ -23,9 +23,9 @@ Elle respire sans gestes ostentatoires et se rappelle la consigne donnée dans l
 
 ## Définition du concept de peak-end rule
 
-La peak-end rule est la tendance cognitive à évaluer une expérience globale principalement en fonction de son moment le plus intense (le pic) et de la façon dont elle se termine (la fin), plutôt que de la moyenne de tous les instants vécus. Le concept a été étudié et mis en évidence par Daniel Kahneman et ses collègues, notamment dans une étude de 1993 qui montre comment les gens préfèrent parfois une expérience plus longue mais se terminant mieux qu'une expérience plus courte avec une fin désagréable. Ce biais s'inscrit dans les travaux plus larges sur les heuristiques et biais cognitifs, domaine dans lequel Kahneman est une référence.
+La règle du pic et de la fin décrit un résultat observé dans certaines études : les moments les plus intenses et la fin peuvent peser dans l’évaluation d’une expérience passée. Dans une [expérience de 1993](https://journals.sagepub.com/doi/10.1111/j.1467-9280.1993.tb00589.x), Daniel Kahneman et ses collègues ont comparé deux immersions brèves de la main dans l’eau froide. Beaucoup de participants préféraient répéter la version plus longue dont la fin était un peu moins douloureuse.
 
-Les expériences montrent que, pour de nombreuses décisions impliquant un vécu temporel comme les vacances, les soins médicaux ou les relations, la mémoire sélective oriente les jugements futurs. En pratique, cela signifie qu'une seule dispute marquante ou un dernier geste chaleureux peut peser disproportionnellement dans un choix qui devrait reposer sur l'ensemble des données et des valeurs personnelles.
+Cette expérience ne démontre pas que la même règle décide d’une vente, d’un déménagement ou d’une relation. Pour Monique, c’est une question utile : quels souvenirs reviennent en premier, et quelles informations importantes ne lui viennent pas aussi vite ?
 
 ## Manifestations de la règle face à une décision importante
 
@@ -33,7 +33,7 @@ Les expériences montrent que, pour de nombreuses décisions impliquant un vécu
 
 Pour Monique, le moment dramatique qui influence son jugement est la dernière nuit passée seule après l'enterrement de Jean-Claude. Dans le contexte d'une décision comme vendre la maison, cela se traduit par une tendance à considérer ce souvenir comme un indice de ce que serait la vie après le déménagement : elle généralise une intense douleur passée à une règle universelle. Elle peut ainsi s'opposer au projet en se basant sur cette mémoire seule, alors que la majorité des jours dans cette maison étaient empreints de routines moins visibles mais aussi de plaisirs.
 
-Par exemple, une personne peut refuser une greffe risquant une courte période de douleur finale parce qu'elle se remémore une fin douloureuse dans une autre expérience, sans considérer les années de bien-être potentiel après l'intervention.
+Le souvenir de cette nuit dit quelque chose de son chagrin. Il ne permet pas de prévoir à lui seul ce que serait une autre maison ou une vie commune avec Jacques.
 
 ### 2. Le poids accordé à la dernière interaction
 
@@ -47,9 +47,9 @@ La peak-end rule peut aussi jouer en faveur d'une décision quand un moment trè
 
 ### 1. Cartographier l'expérience complète
 
-Au lieu de s'appuyer sur le souvenir du pic et de la fin, il est utile de dresser une carte temporelle de l'expérience. Prenez une grande feuille et tracez une frise chronologique représentant les huit derniers mois de votre vie commune ou la durée pertinente. Pour chaque jour ou semaine, notez une émotion dominante (satisfait, neutre, tendu, heureux) et un événement marquant. Attribuez une couleur par émotion. Calculez ensuite la proportion de moments positifs, neutres et négatifs. Cela aide à voir la moyenne plutôt que les extrêmes.
+Notez quelques moments ordinaires dont vous vous souvenez, en plus des plus marquants. Nul besoin de compter les jours ni de calculer des proportions : une frise reconstruite de mémoire ne donne pas une mesure fiable de toute l’expérience.
 
-Monique utilise cette carte pour comparer la fréquence réelle des moments agréables avec Jacques par rapport à la récurrence des tensions. En voyant la dominance des tons chaleureux sur la frise, le pic négatif perd de son autorité décisionnelle. Elle se rend compte que son angoisse financière, celle qui la paralysait en mars devant ses factures, s'est apaisée grâce à cette vision globale de ses ressources réelles.
+En relisant sa frise, Monique retrouve des exemples de moments agréables et de désaccords. Elle traite ses ressources financières à part, avec les chiffres et les informations qu’elle peut vérifier.
 
 ### 2. Le protocole de la fin alternative
 

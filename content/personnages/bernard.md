@@ -18,10 +18,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-parents/">Surcontrôle émotionnel et inhibition avec ses parents</a></h3>
     <div class="parcours-date">2026-03-16</div>
-    <p class="parcours-resume">Le 16 mars 2026, Bernard travaille dans son atelier de menuiserie sur une commode destinée à son fils Éric. Alors qu'Éric tente d'engager la conversation, Bernard se réfugie dans le travail manuel pour éviter d'affronter la tension émotionnelle et le conflit latent.</p>
+    <p class="parcours-resume">La sciure sent fort dans l&#x27;atelier ce matin du 16 mars 2026. Bernard tient le rabot, ses mains larges et calleuses glissent sur la commode qu&#x27;il construit pour Éric.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Bernard prend conscience que son mutisme et son surcontrôle émotionnel sont des mécanismes de survie hérités de son enfance, utilisés jadis pour fuir le jugement de ses propres parents.</p>
+      <p>Aujourd&#x27;hui, au milieu du bruit monotone du rabot, Bernard tente une première approche. Il se remémore la phrase préparée, sent le bois sous ses doigts et lance d&#x27;une voix un peu rauque : &quot;Je suis content que tu sois là.&quot; Éric se fige, surpris par cette attention si simple.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -29,32 +29,32 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solitude-face-a-la-solitude-comprendre-difference/">Face à la solitude : comprendre et mieux la vivre</a></h3>
     <div class="parcours-date">2026-03-18</div>
-    <p class="parcours-resume">Bernard travaille seul dans son atelier de menuiserie sur une commode destinée à son fils Éric, accompagné de son chien Sultan. Alors qu'il ressent le vide laissé par le départ d'Hélène, il prend conscience que son silence et son retrait du monde, autrefois protecteurs, sont devenus une source de souffrance physique et émotionnelle.</p>
+    <p class="parcours-resume">Le rabot glisse sur le plateau de chêne avec un sifflement régulier que Bernard connaît par cœur. Des copeaux blonds s&#x27;accumulent à ses pieds, recouvrant ses chaussures de sécurité usées.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Bernard a compris que son mutisme est un héritage familial servant de bouclier contre la vulnérabilité, transformant son sanctuaire créatif en une cellule d'isolement. Il réalise que son besoin de connexion n'est plus comblé par le travail du bois ou le souvenir des disparus.</p>
+      <p>Bernard s&#x27;assoit sur son établi, les jambes un peu lourdes. Il regarde la commode d&#x27;Éric, cette pièce de bois qu&#x27;il a façonnée avec tant de soin mais aussi avec tant de non-dits.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solitude-face-a-la-solitude-comprendre-difference/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/manque-affectif-enfants-causes/">Manque affectif avec ses enfants : comprendre les causes profondes</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/manque-affectif-enfants-causes/">Quand la proximité manque entre Bernard et son fils</a></h3>
     <div class="parcours-date">2026-03-23</div>
-    <p class="parcours-resume">Bernard termine la fabrication d'une commode dans son atelier, espérant que ce meuble transmettra l'affection qu'il n'arrive pas à verbaliser à son fils Éric. Il réfléchit à la tension palpable lors de leur dernière rencontre et réalise que son refuge dans le travail manuel est une répétition des schémas de son propre passé familial.</p>
+    <p class="parcours-resume">Bernard frotte une dernière surface de la commode avec un chiffon imbibé d&#x27;huile. Le bois exhale une odeur chaude et résineuse qui lui parle plus facilement qu&#x27;une discussion.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Bernard prend conscience que son mutisme et son habitude de matérialiser son amour par des objets ont transformé son atelier en une cellule d'isolement, créant une distance émotionnelle avec ses enfants.</p>
+      <p>La porte de l&#x27;atelier s&#x27;ouvre, Éric apparaît, la commode en toile de fond. Bernard sent une familiarité nerveuse, mais il a essayé la technique du mot en petites étapes pendant une semaine déjà.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/manque-affectif-enfants-causes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-autruche-deuil-comprendre-evitement/">Biais de l'autruche lors d'un deuil : comprendre le déni</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-autruche-deuil-comprendre-evitement/">Faire face à un courrier difficile après un deuil</a></h3>
     <div class="parcours-date">2026-03-30</div>
-    <p class="parcours-resume">Bernard, un artisan menuisier vivant avec son chien Sultan, évite d'ouvrir une enveloppe notariale concernant la succession de sa femme Hélène. Il s'immerge dans son travail pour ignorer les sollicitations de son fils Éric qui tente de régler les détails administratifs et matériels du deuil.</p>
+    <p class="parcours-resume">L&#x27;odeur de la sciure de chêne sature l&#x27;air frais de ce 30 mars 2026. Dans son atelier situé au cœur de la campagne française, Bernard fait glisser son rabot avec une précision millimétrée.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Bernard prend conscience qu'il pratique un tri sélectif de la réalité pour se protéger de la douleur, utilisant son atelier comme un refuge pour maintenir sa femme dans une zone grise temporelle.</p>
+      <p>Le soleil décline sur les collines environnantes, dessinant de longues ombres sur l&#x27;établi. Bernard repose son rabot.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-autruche-deuil-comprendre-evitement/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -62,43 +62,43 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/apathie-en-voyage-ou-expatriation-comprendre/">Apathie en voyage ou expatriation : comprendre ce vide intérieur</a></h3>
     <div class="parcours-date">2026-04-04</div>
-    <p class="parcours-resume">Bernard se trouve en Toscane pour un voyage offert par son fils Éric, mais il reste plongé dans une apathie profonde malgré la beauté du village. Bien qu'il ait récemment affronté la réalité administrative de son deuil en ouvrant une enveloppe notariale, il se sent émotionnellement vide et déconnecté de son environnement.</p>
+    <p class="parcours-resume">Bernard contemple la place centrale de ce petit village de Toscane depuis le banc en pierre où il est assis. Il est censé profiter de ce voyage, un cadeau de son fils Éric pour ses cinquante-huit ans, une tentative maladroite de rompre son isolement après les années passées à se murer dans son…</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Bernard prend conscience que son mutisme intérieur, autrefois un bouclier protecteur contre ses parents, est devenu une chape de plomb qui l'empêche de ressentir la moindre émotion. Il réalise que l'ouverture de l'enveloppe notariale a épuisé ses dernières réserves d'élan vital.</p>
+      <p>Bernard se lève du banc. Ses pas le mènent presque malgré lui vers une petite ruelle latérale, loin du tumulte des guides touristiques.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/apathie-en-voyage-ou-expatriation-comprendre/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/somatisation-face-au-vieillissement-corps-parle/">Somatisation face au vieillissement : quand le corps parle</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/somatisation-face-au-vieillissement-corps-parle/">Mal de dos : Bernard demande de l’aide</a></h3>
     <div class="parcours-date">2026-04-10</div>
-    <p class="parcours-resume">Le 10 avril 2026, alors qu'il fabrique un établi pour son fils Éric dans son atelier, Bernard est victime d'un blocage lombaire brutal en déplaçant une planche. Cette douleur physique intense survient dans un contexte émotionnel lourd marqué par le départ d'Hélène et la réception d'un courrier notarial.</p>
+    <p class="parcours-resume">L&#x27;odeur de la sciure de chêne flotte dans l&#x27;air frais de ce 10 avril 2026. Dans son atelier niché au cœur de la campagne, Bernard s&#x27;apprête à déplacer une lourde planche destinée au nouveau projet de son fils Éric.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Bernard réalise que son corps exprime physiquement le mutisme et le chagrin qu'il s'efforce de taire depuis des années. Il comprend que sa rigidité musculaire est une armure émotionnelle devenue contre-productive face au vieillissement et à ses deuils non exprimés.</p>
+      <p>Chez lui, quelques heures après le blocage, Bernard appelle pour demander un avis médical. Sultan se couche contre lui.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/somatisation-face-au-vieillissement-corps-parle/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/comprendre-tristesse-lors-d-un-deuil/">Tristesse lors d'un deuil : comprendre et traverser cette émotion</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/comprendre-tristesse-lors-d-un-deuil/">Tristesse lors d&#x27;un deuil : comprendre et traverser cette émotion</a></h3>
     <div class="parcours-date">2026-04-20</div>
-    <p class="parcours-resume">Bernard, un menuisier endeuillé par la perte de sa femme Hélène, se retrouve immobilisé dans son atelier après un blocage lombaire. Alors qu'il tentait de restaurer un buffet en noyer, il cesse de lutter contre sa douleur et laisse enfin couler ses larmes sous le regard de son chien Sultan.</p>
+    <p class="parcours-resume">L&#x27;odeur de la sciure de chêne flotte dans l&#x27;air frais de ce matin d&#x27;avril. Bernard est debout devant son établi, une varlope à la main, mais son geste s&#x27;arrête net.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Bernard abandonne sa posture de stoïcisme héritée de ses parents pour accepter la tristesse comme un processus nécessaire. Il comprend que sa force ne réside plus dans l'armure du silence, mais dans la capacité à vivre son chagrin sans chercher à le transformer immédiatement en travail productif.</p>
+      <p>Le soleil de cet après-midi de printemps décline, projetant de longues ombres sur les copeaux qui jonchent le sol de l&#x27;atelier. Bernard ne s&#x27;est pas remis au travail.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/comprendre-tristesse-lors-d-un-deuil/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-omission-face-a-la-solitude-bernard/">Biais d'omission face à la solitude : pourquoi on se tait</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-omission-face-a-la-solitude-bernard/">Biais d’omission : Bernard hésite à reprendre contact</a></h3>
     <div class="parcours-date">2026-04-30</div>
-    <p class="parcours-resume">Bernard termine la restauration d'une chaise en cerisier destinée à son fils Éric dans son atelier. Malgré son envie de renouer le contact, il hésite longuement devant son téléphone, paralysé par la peur de commettre une erreur de communication qui aggraverait leurs tensions.</p>
+    <p class="parcours-resume">Le rabot glisse sur le bois de cerisier avec un sifflement régulier que Bernard connaît par cœur. Dans l&#x27;air frais de ce matin d&#x27;avril, la poussière de bois danse près de l&#x27;établi.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Bernard prend conscience que son silence n'est pas neutre mais constitue un choix actif qui alimente son isolement. Il réalise que son habitude de privilégier les objets matériels pour exprimer ses sentiments est une stratégie d'évitement héritée de son passé.</p>
+      <p>Bernard lâche son rabot et s&#x27;assoit sur son tabouret usé. Sultan vient poser son museau sur ses bottes poussiéreuses.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-omission-face-a-la-solitude-bernard/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -106,10 +106,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/clivage-conflit-comprendre-gerer/">Clivage en situation de conflit : comprendre et agir</a></h3>
     <div class="parcours-date">2026-05-06</div>
-    <p class="parcours-resume">Le 06 mai 2026, Bernard reçoit son fils Éric dans son atelier de menuiserie pour discuter de la vente de la maison d'Hélène. Face à la tension du conflit, Bernard se mure dans le silence et le clivage, opposant radicalement le caractère sacré de la mémoire de sa femme aux propositions pratiques de son fils.</p>
+    <p class="parcours-resume">La scie circulaire cesse de chanter. Bernard repose la planche de chêne et frotte la poussière sur ses paumes larges, la surface rugueuse du bois gratte la pulpe des doigts.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Bernard identifie son mécanisme de clivage comme un héritage familial et un réflexe de survie qui paralyse sa communication. Il exprime désormais la volonté de ne plus laisser ses meubles être ses seuls messagers et place la réconciliation avec Éric comme sa priorité actuelle.</p>
+      <p>Dans l&#x27;atelier, Bernard prend le chevet en noyer qu&#x27;il a restauré pour Hélène et suit l&#x27;exercice du discours en objet détaché. Il tient l&#x27;objet avec respect.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/clivage-conflit-comprendre-gerer/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -117,10 +117,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-amitie/">Isolement social et aliénation en amitié : comprendre et agir</a></h3>
     <div class="parcours-date">2026-05-12</div>
-    <p class="parcours-resume">Bernard observe depuis son atelier les villageois et son voisin Marcel se rendre à une fête locale, mais choisit de rester en retrait avec son chien Sultan. Il repense à une dispute tendue avec son fils Éric survenue le 6 mai et réalise que son mutisme et son travail du bois sont ses seuls moyens d'expression.</p>
+    <p class="parcours-resume">La radio diffuse une chanson populaire du village. Bernard essuie ses mains sur le tablier, la paume encore marquée par la graisse du bois, et regarde par la fenêtre de l&#x27;atelier.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Bernard identifie son silence comme un mécanisme de défense hérité et comprend que ses meubles sont des substituts affectifs, marquant le début d'un désir de reconnecter autrement avec les autres.</p>
+      <p>Aujourd&#x27;hui, Bernard attache une petite étiquette à la poignée d&#x27;une commode en cours de finition. L&#x27;étiquette porte une phrase courte écrite à la main : « Pour Éric, avec pensée. » Ce geste reprend la technique du message matériel avec émotion verbalisée qu&#x27;il a testée la semaine précédente.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-amitie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -128,10 +128,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/tendresse-avec-ses-enfants-bernard/">Comment montrer la tendresse avec ses enfants quand on ne sait pas parler</a></h3>
     <div class="parcours-date">2026-05-20</div>
-    <p class="parcours-resume">Le 20 mai 2026, dans son atelier imprégné d'odeurs de bois et de cire, Bernard observe son fils Éric tout en luttant contre son mutisme habituel. Malgré une rigidité persistante entre eux, il tente de transformer son silence protecteur en une forme de tendresse concrète à travers la fabrication d'une commode sur mesure.</p>
+    <p class="parcours-resume">Bernard est debout dans son atelier, le dos voûté comme la coque d&#x27;un vieux bateau, et observe Éric de dos. C&#x27;est le 20 mai 2026, dehors l&#x27;air sent l&#x27;herbe du pré mouillée ; à l&#x27;intérieur, le bois embaume la cire et l&#x27;huile de lin.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Bernard a pris conscience que ses silences agissaient comme un barrage et que son héritage familial de mutisme n'était pas une force, mais une chape de plomb. Il cherche désormais à ce que ses créations artisanales ne soient plus seulement des objets, mais des vecteurs perceptibles de son affection.</p>
+      <p>Aujourd’hui, dans l’atelier, Bernard garde ses outils sur l’établi. Quand Éric se tourne, il lui demande s’il peut lui poser la main sur l’épaule.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/tendresse-avec-ses-enfants-bernard/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

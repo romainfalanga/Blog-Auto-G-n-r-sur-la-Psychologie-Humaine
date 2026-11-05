@@ -1,7 +1,7 @@
 ---
 title: "Attachement évitant-dédaigneux dans l'intimité et la sexualité"
 date: 2026-03-08T17:03:19+00:00
-description: "Découvrez comment sortir du schéma d'attachement évitant-dédaigneux dans l'intimité et la sexualité grâce à l'histoire de Priya et des exercices pratiques."
+description: "Priya ressent le besoin de prendre ses distances après un moment intime. L’attachement adulte offre une piste, parmi d’autres, pour en parler."
 categories: ["Sortir de ses schémas répétitifs"]
 tags: ["attachement-évitant", "intimité", "sexualité", "psychologie", "développement-personnel"]
 slug: "attachement-evitant-dans-intimite"
@@ -17,19 +17,19 @@ Priya, 33 ans, médecin généraliste en cabinet de ville, s'installe sur le bor
 
 Dans sa tête, une petite voix lui souffle qu'elle devrait profiter de ces instants de tendresse, mais une autre, plus forte, la pousse à garder ses distances, à ne pas trop s'engager émotionnellement. Priya ressent un mélange de culpabilité et de frustration. Elle aimerait pouvoir s'abandonner, s'ouvrir, mais elle a peur. Cette peur l'incite à désactiver ses émotions et à se protéger en se coupant de l'autre.
 
-Cette situation n'est pas qu'une difficulté passagère. Elle touche à une dynamique profonde qui s'est installée dans sa vie affective et sexuelle. Pour comprendre ce qui se passe, il est important d'explorer le concept d'attachement évitant-dédaigneux, aussi appelé "désactivation du système d'attachement".
+Priya cherche un vocabulaire pour décrire ce qu’elle ressent. Le modèle de l’attachement adulte lui donne une piste. Une soirée ne permet pas de déterminer un style ni d’en établir la cause.
 
 ## Qu'est-ce que l'attachement évitant-dédaigneux (désactivation du système) ?
 
-L'attachement évitant-dédaigneux est un style d'attachement identifié par la théorie de l'attachement, développée par le psychologue John Bowlby. Ce style se caractérise par une tendance à minimiser l'importance des relations affectives et à désactiver son propre système d'attachement pour ne pas ressentir de douleur émotionnelle. En d'autres termes, la personne évite de dépendre des autres ou d'exprimer ses besoins affectifs pour se protéger d'éventuels rejets ou abandons.
+Dans leur [modèle de l’attachement adulte](https://pubmed.ncbi.nlm.nih.gov/1920064/), Kim Bartholomew et Leonard Horowitz ont proposé quatre profils, dont un profil dit évitant-dédaigneux. Ces profils sont des catégories de recherche. Ils ne sont ni des diagnostics ni des identités fixes.
 
-La "désactivation du système" désigne ce mécanisme de défense interne qui pousse à se couper émotionnellement, à refouler ses désirs d'intimité, afin d'éviter la vulnérabilité. Ce comportement trouve souvent ses racines dans l'enfance et l'éducation. Par exemple, un enfant dont les besoins affectifs n'ont pas été suffisamment reconnus ou qui a vécu une relation froide, distante ou rejetante avec ses figures d'attachement va apprendre à se débrouiller seul, à se protéger en se fermant.
+La désactivation est un autre terme du modèle de l’attachement : il renvoie à des stratégies comme s’appuyer moins sur autrui quand on est en détresse. Elle ne désigne pas le fait de couper ses émotions sur commande. Le besoin de distance peut dépendre de la situation, de la relation et de la préférence de chacun.
 
 ## Comment se manifeste l'attachement évitant-dédaigneux dans l'intimité et la sexualité ?
 
 Dans la vie intime et sexuelle, ce style d'attachement peut prendre plusieurs formes. Priya, par exemple, ressent souvent le besoin de garder une certaine distance émotionnelle lors des moments d'intimité. Elle peut s'engager physiquement sans vraiment se connecter affectivement, ou bien interrompre les échanges affectifs pour ne pas se sentir trop exposée. Ce comportement peut aussi s'accompagner d'une difficulté à exprimer ses désirs ou ses limites, ou au contraire, d'une tendance à contrôler la situation pour ne pas perdre le contrôle émotionnel.
 
-D'autres personnes avec un attachement évitant-dédaigneux peuvent vivre des expériences similaires : préférer des relations peu engageantes, éviter les conversations profondes sur leurs émotions, ou se sentir mal à l'aise face à la dépendance émotionnelle de leur partenaire. Ce mécanisme protège temporairement du risque de souffrance, mais il peut aussi isoler et empêcher de vivre des relations authentiques et épanouissantes.
+Préférer des relations sans engagement, ne pas aimer certains gestes ou vouloir être seul après un rapport ne sont pas en soi des signes de trouble. La question pour Priya est de savoir si la distance correspond à ce qu’elle veut ou si elle vit une gêne qu’elle aimerait aborder.
 
 ### Quelques exemples concrets
 
@@ -39,11 +39,11 @@ D'autres personnes avec un attachement évitant-dédaigneux peuvent vivre des ex
 
 ## Comment Priya peut-elle commencer à sortir de ce schéma évitant ?
 
-Changer ce schéma demande du temps, de la patience et des actions concrètes. Voici trois techniques que Priya, et vous-même si vous vous reconnaissez, pouvez essayer pour réactiver doucement son système d'attachement et se sentir plus à l’aise dans l’intimité.
+Priya peut essayer les pistes suivantes si elle en a envie. Elle garde le droit de ne pas parler, de mettre fin à un moment intime ou de changer d’avis. Rien ne l’oblige à poursuivre une pratique pour améliorer son attachement.
 
 ### 1. S'exercer à la pleine conscience corporelle
 
-L'attachement évitant peut entraîner une dissociation entre le corps et les émotions. Prendre le temps de ressentir son corps peut aider à se reconnecter à ses sensations.
+Si cela lui convient, Priya peut remarquer ses appuis ou ce qu’elle voit autour d’elle. Le [guide de l’OMS sur le stress](https://tdr.who.int/home/our-work/global-engagement/9789240003927) propose ce type de repère. Elle peut arrêter si l’attention aux sensations augmente le malaise.
 
 - Asseyez-vous confortablement, fermez les yeux, et portez votre attention sur les sensations physiques : la chaleur dans vos mains, le contact de vos pieds avec le sol, votre respiration.
 - Notez sans juger ce que vous ressentez, que cela soit agréable ou désagréable.
@@ -55,7 +55,7 @@ Il est souvent difficile pour une personne évitante d'exprimer ce qu'elle resse
 
 - Choisissez un moment calme pour parler à votre partenaire d’un besoin simple (un câlin, une pause, une parole rassurante).
 - Utilisez des phrases en "je", par exemple : "Je me sens un peu stressée, j’aurais besoin d’un moment pour respirer."
-- Cela crée un dialogue sécurisé et encourage l'ouverture.
+- Si le partenaire écoute, l’échange peut devenir plus facile. Une phrase ne suffit pas à rendre une relation sûre.
 
 ### 3. Tenir un journal émotionnel
 
@@ -74,10 +74,10 @@ Enfin, le journal devient un allié précieux pour Priya. En écrivant ses resse
 
 ## Conclusion : Vers une nouvelle relation à soi et aux autres
 
-L'attachement évitant-dédaigneux dans l'intimité et la sexualité est un mécanisme de protection issu souvent d’une histoire d’enfance où les besoins affectifs n’ont pas toujours été suffisamment reconnus. En comprenant ce fonctionnement, comme Priya, vous pouvez commencer à dénouer ces schémas répétitifs.
+Priya peut trouver une façon de parler de ses préférences et des moments où elle hésite. Le vocabulaire de l’attachement peut l’aider à formuler des questions ; il ne décide pas de la façon dont elle doit vivre sa sexualité.
 
 Il ne s’agit pas d’un changement immédiat, mais d’un cheminement patient vers plus de confiance, d’authenticité et de tendresse. Chaque petit pas compte, chaque émotion accueillie est une victoire.
 
 Si vous vous sentez bloqué(e) ou profondément en souffrance, n’hésitez pas à consulter un professionnel, un psychologue ou un thérapeute, qui saura vous accompagner avec bienveillance.
 
-Vous méritez une intimité où vous vous sentez libre, aimé(e) et pleinement vous-même. Priya en est la preuve vivante, et vous le pouvez aussi. Prenez ce temps pour vous découvrir, à votre rythme, et laissez éclore une nouvelle manière d’aimer.
+Vous méritez une intimité où vous vous sentez libre, aimé(e) et pleinement vous-même. Priya est un personnage de fiction : sa manière d’avancer illustre une possibilité. Prenez ce temps pour vous découvrir, à votre rythme, et laissez éclore une nouvelle manière d’aimer.

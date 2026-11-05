@@ -25,7 +25,7 @@ Une identité au-delà de la maladie désigne la possibilité de se reconnaître
 
 La maladie peut modifier des activités, des relations et des projets. Certaines pertes sont concrètes et ne se résolvent pas par une nouvelle manière de parler. Une personne peut regretter ce qui devient difficile, avoir besoin de soins et souhaiter conserver des intérêts. Ces réalités peuvent coexister sans qu'une émotion correcte soit exigée pour avancer.
 
-Les travaux de la sociologue Kathy Charmaz sur le vécu des maladies chroniques examinent notamment les atteintes à l'image de soi. Ils rappellent que la souffrance ne se réduit pas aux manifestations physiques. Cela n'implique pas que toutes les personnes suivent le même parcours identitaire, ni que leur attitude détermine la maladie. Le contexte social et les possibilités de participation comptent également.
+Dans une étude qualitative menée auprès de 57 personnes vivant avec diverses maladies chroniques, la sociologue Kathy Charmaz décrit notamment comment certaines éprouvent une perte de l'image qu'elles avaient d'elles-mêmes. Elle s'intéresse à leur vécu, au-delà des seules manifestations physiques. Cela n'implique pas que toutes les personnes suivent le même parcours identitaire, ni que leur attitude détermine la maladie. Le contexte social et les possibilités de participation comptent également.
 
 L'Organisation mondiale de la santé souligne le rôle des obstacles environnementaux dans les situations de handicap et la participation. Cette perspective évite de demander à Anaïs de reconstruire seule une identité tandis que les lieux ou les attentes l'excluent. Une activité accessible, un rôle reconnu et un accueil respectueux peuvent rendre visibles des dimensions de soi que les contraintes empêchent d'exprimer.
 

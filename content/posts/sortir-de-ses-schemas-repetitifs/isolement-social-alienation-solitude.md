@@ -21,16 +21,16 @@ Dans son immeuble, un voisin rit dans un couloir ; le son lui arrive comme un é
 
 ## Définition de l'isolement social et de l'aliénation
 
-L'isolement social et l'aliénation sont deux réalités proches. L'isolement social désigne une faible quantité ou qualité de relations sociales, tandis que l'aliénation décrit le sentiment d'être étranger à son environnement social et à soi-même.
+L’isolement social concerne le peu de contacts ou de liens disponibles. La solitude ressentie désigne le sentiment que les liens disponibles ne correspondent pas à ceux dont on a besoin. Ici, Fabien emploie « aliénation » pour parler de son sentiment d’étrangeté dans un groupe. Ce mot ne désigne pas un diagnostic.
 
-John T. Cacioppo, chercheur pionnier sur la solitude, a largement étudié les effets sur la santé mentale et physique, montrant que la solitude active des circuits de vigilance et d'anticipation négative. De son côté, Julianne Holt-Lunstad a coordonné une méta-analyse en 2015 indiquant que l'isolement social et la solitude sont associés à une augmentation du risque de mortalité, de l'ordre d'environ 25 à 30 % selon les indicateurs. Ces travaux placent l'isolement social et l'aliénation non seulement comme des expériences subjectives, mais aussi comme des facteurs ayant des conséquences mesurables sur la santé.
+Une synthèse d’études publiée en 2015 a observé que l’isolement et la solitude étaient associés à une mortalité plus élevée dans les populations étudiées. Ce résultat ne démontre pas une causalité unique et ne prédit pas ce qui arrivera à une personne. Il ne s’applique pas d’emblée au sentiment d’aliénation dont parle Fabien.
 
 Dans le cas de Fabien, cette définition relie directement sa réalité quotidienne : il ne manque pas d'interactions formelles au travail, mais il manque d'appartenances informelles et ressent une aliénation intérieure. Comprendre ces concepts aide à distinguer ce qui relève des circonstances, comme la distance géographique des enfants ou la rupture, et ce qui relève de convictions et de routines psychiques héritées.
 
 ## Manifestations de l'isolement et de l'aliénation face à la solitude
 
 ### 1. L'isolement actif déguisé en autonomie
-Chez certaines personnes, l'isolement s'affiche comme un choix valorisé, une autonomie revendiquée. Ce comportement protège d'un risque perçu : dépendre des autres. Fabien, qui assume sa solitude en façade, présente ce profil. Il valorise la maîtrise, il organise son appartement et il rationalise son emploi du temps. Par exemple, il refuse les invitations en expliquant un emploi du temps chargé, alors que l'invitation aurait permis une interaction informelle. Cette stratégie réduit les situations imprévisibles, mais elle diminue aussi les opportunités de lien non instrumentalisé.
+On peut apprécier des moments seul sans en souffrir. Fabien constate qu’il décline parfois des invitations dont il aurait pourtant envie, en partie parce qu’il appréhende l’imprévu. Pour d’autres personnes, des horaires, une rupture, des difficultés de transport ou l’exclusion peuvent réduire les occasions de rencontre.
 
 ### 2. L'aliénation identitaire dans les groupes
 L'aliénation se manifeste quand la personne se sent étrangère même en présence d'autres, comme si un fossé cognitif séparait son ressenti de celui du groupe. Concrètement, Fabien est à l'aise en réunion RH car il a un rôle, une tâche et un cadre. Quand il est invité à une soirée sans rôle attribué, il se sent inutile et adopte une posture réservée. Lors d'un barbecue organisé par un collègue non hiérarchique, il observe plus qu'il n'échange, cherchant inconsciemment des marqueurs de compétence pour se raccrocher. Il retrouve alors cette nappe phréatique de silence qu'il a identifiée chez son père, cette pudeur excessive qui devient un mur dès que le protocole social disparaît.
@@ -85,3 +85,5 @@ La solitude vécue comme isolement social et aliénation n'est pas une fatalité
 Si vous vous reconnaissez dans le sentiment d'aliénation de Fabien, rappelez-vous que demander de l'aide ou consulter un professionnel est une démarche utile et légitime. Un psychologue ou un thérapeute peut accompagner la déconstruction des croyances héritées et proposer des outils adaptés à votre histoire personnelle.
 
 Le changement ne suppose pas l'effacement du passé, mais la création d'expériences nouvelles qui contredisent les récits limitants. Fabien n'est pas encore délivré de toutes ses résistances, mais il avance vers une vie où la solitude n'est plus un verdict. Cette évolution est à votre portée.
+
+Sources : [National Academies, Social Isolation and Loneliness in Older Adults](https://nap.nationalacademies.org/catalog/25663/social-isolation-and-loneliness-in-older-adults-opportunities-for-the) ; [Holt-Lunstad et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25910392/).

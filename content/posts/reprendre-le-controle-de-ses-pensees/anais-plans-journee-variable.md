@@ -91,7 +91,7 @@ Mireille répond que l'appel lui convient. La notice peut être lue sans qu'Ana�
 
 Pendant l'échange, Anaïs parle des lettres rouges de l'affiche et d'une date à vérifier. Elle reste une participante au projet, même avec un format différent. Elle ne compense pas l'absence par la promesse d'une présence plus longue la prochaine fois. Le point de révision prévu permettra de discuter de la suite.
 
-Le soir, elle note ce qui mérite d'être repris : prévenir plus tôt l'aide, distinguer achat et sortie commune, ne pas remplacer le repos par du ménage. Elle garde aussi le plaisir de la conversation. Le bilan contient une difficulté réelle et des éléments préservés, sans demander à l'un d'effacer l'autre.
+Le soir, elle note ce qui mérite d'être repris : prévenir plus tôt les personnes concernées, distinguer achat et sortie commune, ne pas remplacer le repos par du ménage. Elle garde aussi le plaisir de la conversation. Le bilan contient une difficulté réelle et des éléments préservés, sans demander à l'un d'effacer l'autre.
 
 ---
 

@@ -17,15 +17,15 @@ Il est 21h, l'écran de Sophie clignote en bleu dans son petit appartement paris
 
 Sophie se décrit intérieurement comme perfectionniste et analytique, mais ce soir, elle sent que cette rigueur se retourne contre elle. Le ronron du ventilateur de son ordinateur lui paraît trop fort. Elle repense à la remarque faite par Marc en réunion, au petit silence qui a suivi sa phrase, et son cerveau brode une histoire entière où elle a perdu toute crédibilité. Elle note ces pensées dans son carnet, comme elle l'a appris lors d'un article précédent, puis les relit, se juge, et recommence. Claire, qui l'appelait pour lui proposer un thé la veille, lui parlait de lâcher-prise ; Sophie a hoché la tête, sachant que la réalité est bien plus complexe.
 
-Depuis qu'elle a exploré le biais de confirmation début mars, puis travaillé sur son syndrome de l'imposteur et réalisé son génogramme, Sophie reconnaît mieux ses automatismes. Pourtant, la surpensée la surprend encore, insidieuse, comme une humidité qui pénètre ses certitudes. Ce soir, elle réalise que l'overthinking au travail n'est pas seulement une mauvaise habitude : c'est un moteur silencieux qui la pousse à retarder, à vérifier et à se critiquer jusqu'à l'épuisement. Elle prend une longue inspiration, pose sa tasse, et décide d'écrire ce qui se passe, sans chercher la solution parfaite immédiatement.
+Depuis qu'elle a exploré le biais de confirmation début mars, puis travaillé sur son sentiment d’imposture et réalisé son génogramme, Sophie reconnaît mieux ses automatismes. Pourtant, la surpensée la surprend encore, insidieuse, comme une humidité qui pénètre ses certitudes. Ce soir, elle réalise que l'overthinking au travail n'est pas seulement une mauvaise habitude : c'est un moteur silencieux qui la pousse à retarder, à vérifier et à se critiquer jusqu'à l'épuisement. Elle prend une longue inspiration, pose sa tasse, et décide d'écrire ce qui se passe, sans chercher la solution parfaite immédiatement.
 
 ## Qu'est-ce que l'overthinking (surpensée) ?
 
-L'overthinking, ou surpensée, est la tendance à ruminer de façon excessive sur des idées, des scénarios ou des décisions. On répète mentalement ces pensées sans jamais parvenir à une résolution utile.
+« Overthinking » ou « surpensée » désigne couramment une réflexion qui tourne en rond. Ce n’est pas un diagnostic. Ressasser une remarque passée et s’inquiéter de ce qui pourrait arriver demain peuvent se ressembler, mais ces pensées n’ont pas toujours le même contenu ni la même fonction.
 
-Dans le cas de Sophie, cela se manifeste par des révisions infinies de son code et des prédictions catastrophiques sur la démonstration du lendemain. Ce phénomène s'appuie sur des travaux reconnus en psychologie cognitive. Susan Nolen-Hoeksema a beaucoup étudié la rumination, montrant qu'elle augmente la détresse émotionnelle et nourrit l'anxiété. Adrian Wells, avec son modèle métacognitif, explique comment nos croyances sur la pensée elle-même (par exemple : "si j'y pense assez, j'éviterai l'erreur") entretiennent ce cercle vicieux. Des enquêtes suggèrent que près de 30 % des actifs sont régulièrement concernés par ces pensées répétitives liées au travail, ce qui finit par nuire à la concentration, à la créativité et au sommeil.
+Chez Sophie, ces pensées accompagnent des relectures répétées du code et des prédictions sur la démonstration du lendemain. Les [travaux de Susan Nolen-Hoeksema et ses collègues](https://pubmed.ncbi.nlm.nih.gov/26158958/) portent notamment sur la rumination, le fait de revenir de façon répétée sur sa détresse et ses causes ou conséquences. Ils ne donnent pas de mesure de la « surpensée » au travail.
 
-Comprendre la surpensée comme un processus, et non comme un simple trait de caractère, permet d'envisager des stratégies pour l'interrompre. Pour Sophie, ce changement de perspective est déjà un progrès : reconnaître que ses pensées la manipulent lui permet d'agir plutôt que de subir.
+Comprendre la surpensée comme un processus, et non comme un simple trait de caractère, permet d'envisager des stratégies pour l'interrompre. Pour Sophie, ce changement de perspective est déjà un progrès : remarquer quand elle repasse sur la même question lui donne une occasion d’essayer autre chose.
 
 ## Comment la surpensée se manifeste-t-elle au travail ?
 
@@ -35,12 +35,12 @@ L'overthinking se traduit souvent par l'incapacité à prendre des décisions si
 Exemple concret : devant un choix technique, une personne qui surpense passera des heures à lire des articles et à comparer les options, au lieu d'appliquer une solution validée pour ensuite l'ajuster.
 
 ### Anticipation catastrophique et perte de confiance
-Une autre manifestation fréquente est l'anticipation exagérée des pires scénarios. Sophie se voit déjà expliquer la cause d'un crash devant toute l'équipe, rougissant, incapable de répondre. Ce scénario renforce son syndrome de l'imposteur : à force d'imaginer l'échec, elle finit par croire qu'elle est incompétente. Cette habitude érode la confiance et amplifie l'autocritique.
+Une autre manifestation fréquente est l'anticipation exagérée des pires scénarios. Sophie se voit déjà expliquer la cause d'un crash devant toute l'équipe, rougissant, incapable de répondre. Ce scénario va de pair avec un sentiment d’imposture : à force d'imaginer l'échec, elle finit par croire qu'elle est incompétente. Cette habitude érode la confiance et amplifie l'autocritique.
 
-Exemple concret : après une présentation, au lieu de savourer sa réussite, l'overthinker ressasse chaque phrase, interprète un simple regard comme une condamnation et oublie totalement les retours positifs.
+Exemple concret : après une présentation, au lieu de savourer sa réussite, Sophie peut ressasser chaque phrase, interprète un simple regard comme une condamnation et oublie totalement les retours positifs.
 
 ### Multitasking mental et fatigue cognitive
-La surpensée provoque un multitâche mental constant. Sophie se trouve simultanément en train d'écrire du code, de planifier les tests, de repenser à un échange avec Claire et d'imaginer comment expliquer une erreur au directeur technique. Ce fractionnement de l'attention épuise le cerveau, diminue la qualité du travail et provoque des erreurs paradoxales. À force de vouloir être partout, elle n'est plus nulle part.
+Sophie remarque qu’elle passe sans cesse d’un sujet à l’autre. Sophie se trouve simultanément en train d'écrire du code, de planifier les tests, de repenser à un échange avec Claire et d'imaginer comment expliquer une erreur au directeur technique. Quand son attention passe d’un souci à un autre, elle a parfois du mal à reprendre le fil du code. À force de vouloir être partout, elle n'est plus nulle part.
 
 Exemple concret : tenter de corriger un bug tout en répondant à des messages internes, oublier d'enregistrer sa progression, et se retrouver à refaire un travail déjà commencé.
 
@@ -49,17 +49,17 @@ Exemple concret : tenter de corriger un bug tout en répondant à des messages i
 ### 1. La règle des 5 minutes : interrompre la boucle pensée-action
 Exercice concret : Quand la pensée commence à tourner en boucle, Sophie se donne 5 minutes pour écrire la pensée exacte dans son carnet et noter son intensité sur une échelle de 0 à 10. Une fois ce temps écoulé, elle ferme le carnet, lance un minuteur de 25 minutes (technique Pomodoro) et se concentre uniquement sur une tâche précise. Si la pensée revient, elle la note brièvement et se replonge dans son travail. Cet exercice crée une séparation entre la réflexion et l'action.
 
-Pourquoi ça marche : Mettre un cadre temporel et externaliser la pensée réduit son pouvoir. Le cerveau est rassuré, car il sait qu'il pourra y revenir plus tard. Sophie utilise déjà un carnet depuis son travail sur l'irritabilité, et cette règle renforce cette bonne habitude.
+Ce que Sophie essaie : noter la question, puis revenir à une tâche définie. Les durées sont des exemples et elle peut les adapter. Sophie utilise déjà un carnet depuis son travail sur l'irritabilité, et cette règle renforce cette bonne habitude.
 
 ### 2. La distanciation métacognitive : regarder la pensée comme un objet
 Exercice concret : Sophie apprend à se dire : "Je remarque que je suis en train d'anticiper un bug" plutôt que "Je vais forcément faire une erreur". Elle pratique cet exercice trois fois par jour : assise, les yeux fermés, elle observe une pensée liée au travail et lui donne un nom simple, comme "anticipation" ou "jugement". Elle visualise la pensée comme un nuage qui passe, sans s'y accrocher.
 
-Pourquoi ça marche : Cette distance, appelée décentration, casse le lien automatique entre la pensée et l'émotion. En reconnaissant la pensée comme une simple construction mentale, Sophie réduit l'intensité du stress. C'est une technique qu'elle commence à maîtriser grâce à la pleine conscience.
+Ce que Sophie essaie : reconnaître une pensée sans la traiter comme une prédiction. Le [guide de l’OMS sur le stress](https://www.who.int/publications/i/item/9789240003927) propose une pratique comparable. Si l’exercice l’agite, elle peut l’interrompre.
 
 ### 3. Le plan de vérification limité : réduire l'obsession du détail
 Exercice concret : Pour éviter de réécrire la même fonction dix fois, Sophie définit un plan de vérification en deux étapes : d'abord une checklist minimale pour les points critiques (tests validés, revue par Marc), puis un temps maximum pour les améliorations secondaires (par exemple 30 minutes). Elle s'engage à respecter ce plan et à fermer son ticket même si elle n'a pas l'impression que tout est parfait.
 
-Pourquoi ça marche : Encadrer la vérification empêche l'exigence de se transformer en paralysie. Sophie, qui a grandi avec les attentes élevées de son père ingénieur, trouve ici une façon structurée d'honorer ses standards sans y laisser toute son énergie.
+Ce que Sophie essaie : convenir d’un point d’arrêt, sans écourter les vérifications nécessaires. Sophie, qui a grandi avec les attentes élevées de son père ingénieur, trouve ici une façon structurée d'honorer ses standards sans y laisser toute son énergie.
 
 ## Sophie commence à reprendre le dessus
 

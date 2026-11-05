@@ -23,7 +23,7 @@ L’ancienne agente postale de soixante-quatorze ans apprécie cette sortie et s
 
 ## Qu’est-ce que ressentir de la joie et du chagrin ensemble ?
 
-Plusieurs émotions peuvent coexister dans une même situation ou se succéder rapidement. Une activité agréable peut apporter du plaisir tandis qu’une absence reste présente. Cette coexistence ne rend pas nécessairement l’une des émotions superficielle. La joie concerne peut-être une réplique, une compagnie ou une surprise ; la peine concerne la personne avec qui l’on aurait aimé partager l’instant. Les émotions ne répondent pas toujours à la même partie de l’expérience. Leur coexistence ne demande donc pas une conclusion unique sur la valeur globale de la soirée ou sur l’importance de la relation perdue.
+Joie et chagrin peuvent se succéder rapidement ou être ressentis ensemble. Dans une expérience de Jeff Larsen et Peter McGraw, des participants ont déclaré ressentir davantage d’émotions mêlées pendant un extrait de film doux-amer que pendant l’extrait de comparaison. Ce résultat porte sur leurs déclarations pendant une projection ; il ne décrit pas un passage obligé du deuil. Cette coexistence ne rend pas nécessairement l’une des émotions superficielle. La joie concerne peut-être une réplique, une compagnie ou une surprise ; la peine concerne la personne avec qui l’on aurait aimé partager l’instant. Les émotions ne répondent pas toujours à la même partie de l’expérience. Leur coexistence ne demande donc pas une conclusion unique sur la valeur globale de la soirée ou sur l’importance de la relation perdue.
 
 Le NHS rappelle que le deuil se manifeste de façons diverses, que les sentiments ne sont pas forcément constants et qu’il n’existe pas une bonne manière unique de ressentir la perte. Cela ne promet pas un retour rapide du plaisir et ne l’impose pas. Certaines personnes n’en éprouvent pas pendant une période, d’autres en trouvent dans des moments précis, d’autres encore se sentent surprises par un rire. Le rythme ne doit pas devenir une comparaison supplémentaire. Odile peut reconnaître ce qu’elle ressent sans prétendre qu’une soirée agréable témoigne de l’état émotionnel de toutes les personnes endeuillées.
 
@@ -78,3 +78,4 @@ Si la culpabilité, la perte d’intérêt ou la douleur vous inquiètent et pè
 Sources :
 - [NHS, Grief after bereavement or loss](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)
 - [OMS, Doing What Matters in Times of Stress](https://www.who.int/publications/i/item/9789240003927)
+- [Larsen et McGraw, étude des émotions mêlées](https://pubmed.ncbi.nlm.nih.gov/21219075/)

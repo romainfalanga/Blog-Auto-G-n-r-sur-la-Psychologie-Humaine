@@ -25,7 +25,7 @@ Il pose les tirages et nomme ce qui lui importe le plus pendant cet appel : êtr
 
 Disposer de soutiens dans plusieurs cercles signifie pouvoir chercher des formes d’aide complémentaires auprès de relations ou de services différents. Le soutien peut être affectif, pratique, informatif ou lié à une activité partagée. Une personne importante peut apporter beaucoup sans être disponible ni compétente pour chaque besoin.
 
-Sheldon Cohen et Thomas Wills examinent les liens entre soutien social et stress en distinguant notamment l’existence d’un réseau et les ressources qu’il peut réellement fournir face à une demande. Leur cadre souligne l’intérêt de l’adéquation entre besoin et appui. Il ne permet pas de promettre qu’un nombre plus élevé de relations protégera automatiquement Malik de toute difficulté.
+Dans leur synthèse sur le soutien social et le stress, Sheldon Cohen et Thomas Wills distinguent la taille du réseau et le fait de percevoir qu’une aide adaptée serait disponible en cas de besoin. Les deux mesures ne disent pas la même chose : un grand nombre de contacts ne garantit pas de trouver une écoute ou une aide pratique. Il ne permet pas de promettre qu’un nombre plus élevé de relations protégera automatiquement Malik de toute difficulté.
 
 Le réseau utile ne se compte donc pas seulement en contacts. Malik peut connaître de nombreuses personnes et ne pas savoir à qui poser une question confidentielle. Il peut aussi disposer d’un petit nombre de liens fiables pour des besoins précis. La qualité, l’accès et le respect des limites comptent autant que la diversité apparente.
 

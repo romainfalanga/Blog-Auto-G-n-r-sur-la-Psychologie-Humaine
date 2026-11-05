@@ -43,7 +43,7 @@ Or le bien-être n’est pas une disponibilité générale. Inès peut passer un
 
 Clara entend « mal à la tête » et propose un ajustement. Elle répond au problème qui lui est présenté. Inès peut alors vivre cette réponse comme une tentative de contourner son non, alors que le refus n’est pas encore formulé clairement. Leur malentendu se construit avec deux informations différentes : Inès pense annoncer qu’elle ne veut pas ; Clara croit apprendre qu’elle souhaite peut-être, mais qu’un inconfort la gêne.
 
-Cela n’excuse jamais une insistance après un refus clair. Cela aide seulement à comprendre la situation présente. Inès peut corriger son information sans exiger de Clara qu’elle devine ce qui se trouve derrière chaque prétexte. Clara peut accueillir la correction sans reprocher à Inès de ne pas avoir mieux parlé du premier coup. Le respect doit rester possible même lorsque l’expression initiale est maladroite ou change en cours de conversation.
+Le malentendu porte sur l’explication, sans autoriser le geste : un doute, une hésitation ou une absence de réponse demandent de s’arrêter et de vérifier, sans insister. Inès n’a pas à produire un refus parfaitement formulé. Inès peut corriger son information sans exiger de Clara qu’elle devine ce qui se trouve derrière chaque prétexte. Clara peut accueillir la correction sans reprocher à Inès de ne pas avoir mieux parlé du premier coup. Le respect doit rester possible même lorsque l’expression initiale est maladroite ou change en cours de conversation.
 
 ### Construire une cohérence qui enferme la suite
 
@@ -93,4 +93,4 @@ Repérer une justification fabriquée, placer le non avant le contexte et donner
 
 Si refuser provoque une peur durable, des interrogatoires ou des représailles, une psychologue ou un autre professionnel peut aider à examiner la situation et vos ressources. Une aide individuelle peut être choisie sans accord de la partenaire. Vous n’avez pas à fournir une preuve de souffrance pour mériter le respect de votre non.
 
-Sources : [Santé publique France, réponses sur les relations et le consentement](https://www.onsexprime.fr/vos-questions/relations).
+Sources : [Santé publique France, repères sur le consentement](https://www.onsexprime.fr/la-sexualite/ok-ou-pas-ok/ok-pas-ok-le-consentement-c-est-obligatoire) ; [Arrêtons les violences, repères sur le consentement](https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-sexuelles).

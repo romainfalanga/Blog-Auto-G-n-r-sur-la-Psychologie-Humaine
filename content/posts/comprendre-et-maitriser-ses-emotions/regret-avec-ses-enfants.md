@@ -1,7 +1,7 @@
 ---
 title: "Regret avec ses enfants : comprendre et agir"
 date: 2026-03-16T06:27:40+00:00
-description: "Comprendre la différence entre regret et remords et 3 techniques concrètes pour apaiser le regret avec ses enfants. Témoignage de Karim."
+description: "Avec l'histoire fictive de Karim, distinguez regret et remords et voyez comment tenir un nouvel engagement auprès de ses enfants."
 categories: ["Comprendre et maîtriser ses émotions"]
 tags: ["regret", "parentalité", "équilibre-vie-travail", "psychologie", "remords"]
 slug: "regret-avec-ses-enfants"
@@ -21,31 +21,31 @@ Karim regarde la vidéo encore une fois. Il n'a pas été présent pour la premi
 
 ## Qu'est-ce que le regret ?
 
-Le regret est ce sentiment inconfortable qui surgit quand nous imaginons qu'une autre décision aurait pu produire un meilleur résultat pour nous ou pour nos proches. En psychologie, des chercheurs comme Thomas Gilovich et Victoria Medvec ont montré que la nature de nos regrets évolue avec le temps : à court terme, nous regrettons surtout nos actions (ce que nous avons fait), tandis qu'à long terme, ce sont nos inactions (ce que nous n'avons pas fait) qui nous hantent le plus. Daniel Kahneman a également mis en lumière la façon dont nos biais de pensée colorent ces évaluations.
+Le regret peut surgir quand on compare ce qui s'est passé à ce qu'on imagine après un autre choix. La comparaison ne prouve pas que l'autre issue aurait été possible, ni qu'elle aurait été meilleure.
 
-Pour Karim, le regret prend la forme d'images mentales : et si j'avais décalé cette réunion ? Et si j'avais posé mon téléphone pendant le gâteau d'anniversaire ? Scientifiquement, le regret implique une comparaison entre la réalité et un scénario imaginaire. Cela active des zones du cerveau liées à l'évaluation des erreurs et à l'apprentissage.
+Karim se demande ce qui se serait passé s'il avait décalé sa réunion. La vidéo lui montre un moment manqué ; elle ne peut pas lui dire ce qu'aurait changé sa présence.
 
 ## Comment le regret se manifeste avec ses enfants ?
 
 ### La rumination mentale
-Le regret envers ses enfants se traduit souvent par des pensées répétitives. Karim revoit la vidéo de Sami en boucle, imaginant qu'il aurait pu être là pour applaudir quand la dent est tombée. Cette rumination peut entraîner de l'insomnie, de l'irritabilité et une moins bonne disponibilité émotionnelle, même quand il est physiquement à la maison.
+Karim revoit la vidéo de Sami en boucle et se demande ce qu'il aurait pu faire autrement. Quand la question revient sans information nouvelle, il peut distinguer ce qui ne peut plus changer de ce qu'il peut organiser pour le prochain rendez-vous.
 
 Exemples concrets :
 - Un parent repense sans cesse à une dispute et imagine une réponse plus douce.
 - Un entrepreneur pense aux moments manqués et se sent tellement mal qu'il finit par éviter les moments familiaux par peur de ne pas être à la hauteur.
 
 ### Regret d'action vs regret d'inaction
-Selon les recherches de Gilovich et Medvec, ces deux types de regrets ne pèsent pas de la même manière. Avec les enfants, le regret d'inaction est très fréquent : ne pas être allé à un spectacle, ne pas avoir lu l'histoire du soir. Pour Karim, les longues semaines de travail alimentent ce vide, car ce sont ces absences répétées qui marquent le plus sur la durée. Il réalise que son "escalade d'engagement" envers sa PME, ce besoin de toujours en faire plus pour justifier ses efforts passés, l'a conduit à sacrifier ces instants irremplaçables.
+Dans [les études de Gilovich et Medvec](https://pubmed.ncbi.nlm.nih.gov/7965599/), le regret d'avoir agi était davantage rapporté à court terme et celui de n'avoir pas agi davantage à long terme. C'est une tendance de groupe, pas une règle propre aux parents ou une prédiction pour Karim.
 
 Exemples concrets :
-- Sur le moment, on peut regretter d'avoir perdu patience et d'avoir crié (action). Avec les années, on regrette surtout d'avoir manqué les premiers pas ou les confidences du soir (inaction).
+- Karim peut regretter d'avoir crié un soir et, séparément, de ne pas avoir assisté à plusieurs matchs. L'un ne doit pas forcément s'atténuer quand l'autre prend de la place.
 
 ### Remords moral vs regret pragmatique
-Le remords touche à la conscience : on se reproche d'avoir blessé quelqu'un en agissant contre ses propres valeurs. Le regret est plus large et peut simplement concerner une opportunité perdue. Karim fait maintenant la différence entre sa culpabilité (évoquée le 7 mars) et un remords plus profond. Il ne s'agit pas seulement d'une erreur d'agenda, mais d'un décalage entre le père qu'il veut être et la réalité de ses choix.
+Le mot « remords » insiste ici sur le reproche moral que l'on s'adresse. On peut aussi regretter un événement qu'on n'a pas pu empêcher. La distinction aide à poser une question : une excuse est-elle due, ou peut-on surtout agir pour l'avenir ? Les deux peuvent aller ensemble.
 
 Exemples concrets :
 - Remords : oublier de récupérer Lina à l'école et sentir qu'on a brisé sa confiance.
-- Regret : ne pas avoir assisté aux matchs de foot pour construire des souvenirs communs, un manque que le temps rend plus sensible.
+- Regret : ne pas avoir assisté aux matchs de foot pour construire des souvenirs communs, un manque qu'il ressent en revoyant les photos des matchs.
 
 ## 3 techniques pour apaiser le regret avec ses enfants
 
@@ -53,25 +53,25 @@ Exemples concrets :
 L'idée est d'identifier une action concrète, simple mais forte, pour montrer aux enfants que l'on est bien là. Le but n'est pas d'effacer le passé, mais de construire de nouveaux souvenirs dès maintenant.
 
 Exercice concret :
-- Cette semaine, Karim choisit un rituel : chaque soir pendant quinze minutes, il lit une histoire à Sami sans aucun téléphone à proximité. Il annonce cette intention à Sofia et aux enfants, puis note ces moments sur un calendrier familial. Après une semaine, il observe l'effet sur l'humeur de Sami et sur son propre sentiment de présence.
+- Cette semaine, Karim propose à Sami de lire une histoire ensemble, sans téléphone. Il choisit avec Sofia un moment où il pourra être présent et le note sur son calendrier.
 
-Pourquoi ça marche : ces petites réparations régulières réduisent l'écart entre l'image que l'on a de soi et ses actes, tout en renforçant le lien affectif.
+Ce rendez-vous permet à Karim de tenir une promesse concrète. Il peut demander à Sami si l'histoire lui plaît sans attendre de lui un signe que le passé est réparé.
 
 ### 2. Le recadrage entre regret et remords
-Distinguer ce qui relève d'une faute morale de ce qui est une occasion manquée permet de choisir la bonne réponse. On peut alors décider soit de demander pardon, soit de changer son organisation pour l'avenir.
+Distinguer ce qu'on aurait pu faire autrement de ce qui échappait à son contrôle aide à décider s'il faut présenter des excuses, changer son organisation ou simplement reconnaître qu'un moment a compté.
 
 Exercice concret :
 - Sur une feuille, Karim note trois situations qui le tourmentent. Pour chacune, il se demande : 1) Ai-je agi contre mes valeurs profondes ? 2) Est-ce une situation que je peux encore rattraper ou compenser ? Pour les remords, il prévoit une explication sincère avec l'enfant. Pour les regrets d'inaction, il définit un plan pratique pour ne plus laisser passer ces moments.
 
-Pourquoi ça marche : mettre des mots sur la nature du malaise permet d'agir concrètement au lieu de rester dans l'auto-punition.
+Nommer le reproche aide Karim à choisir un geste précis, comme présenter des excuses ou mieux protéger un prochain rendez-vous.
 
 ### 3. Le micro-engagement et le calendrier visible
 Il s'agit de transformer de grandes intentions floues comme "je vais passer plus de temps avec eux" en engagements précis. Sanctuariser des moments dans l'agenda redonne de la crédibilité à sa parole et rassure la famille.
 
 Exercice concret :
-- Karim met en place un contrat familial avec trois rendez-vous par semaine (petit-déjeuner le dimanche, jeu de société le mercredi, lecture le vendredi) et une sortie mensuelle. Il affiche ces engagements sur un tableau blanc. Si une réunion menace ces créneaux, il délègue ou déplace son rendez-vous professionnel. Il utilise la pause émotionnelle apprise précédemment pour ne pas annuler à la dernière minute sous le coup du stress. C'est un changement radical par rapport à ses anciennes colères de fin de journée, où il se sentait acculé par les demandes de sa famille.
+- Avec Sofia et les enfants, Karim choisit des moments possibles : le petit-déjeuner du dimanche ou un jeu le mercredi. Il réserve ces créneaux sur son agenda et prévoit de prévenir si un empêchement survient.
 
-Pourquoi ça marche : l'engagement visible crée une saine habitude et limite la tentation de laisser le travail déborder systématiquement sur la vie privée.
+Un rendez-vous visible peut aider les adultes à organiser leurs contraintes. Il reste une proposition à ajuster en famille, sans faire des enfants les gardiens de l'agenda de Karim.
 
 ## Karim commence à réparer
 
@@ -83,7 +83,7 @@ Il ne cherche pas à effacer le passé, il apprend à construire la suite. Lorsq
 
 ---
 
-Le regret avec ses enfants n'est pas une fatalité, c'est un signal qui indique ce qui compte vraiment pour vous. Faire la part des choses entre le regret et le remords permet d'agir avec justesse. Des habitudes simples comme les réparations ciblées ou les micro-engagements transforment la peine en une nouvelle façon d'être présent.
+Chez Karim, le regret lui rappelle l'importance de ces moments. S'il tient un rendez-vous cette semaine, la dent de Sami ne retombera pas pour autant ; il sera disponible pour ce que son fils vit aujourd'hui.
 
 Si vous ressentez, comme Karim, le poids de certaines absences, commencez par un petit pas. Choisissez un geste concret pour cette semaine et tenez-vous-y. C'est l'accumulation de ces petites attentions qui crée un changement durable.
 

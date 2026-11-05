@@ -23,7 +23,7 @@ Awa lui dit qu’elle peut demander des nouvelles lors d’un passage proche. Ma
 
 ## Qu’est-ce qu’une perte sans clôture claire liée à un lieu ?
 
-Une perte sans clôture claire est une expérience dans laquelle ce qui disparaît, ce qui demeure et ce qui peut revenir restent incertains. Pauline Boss développe le concept de perte ambiguë à partir de situations relationnelles où présence et absence ne se recouvrent pas simplement. Elle l’élargit dans ses échanges à certaines transformations sociales et aux liens avec des lieux de vie.
+Dans cette histoire, la perte reste incertaine : Malik ne sait pas ce qui disparaîtra, ce qui demeurera ni ce qui peut revenir. Pauline Boss a d’abord formulé la notion de perte ambiguë à propos de liens familiaux où une personne peut être présente d’une façon et absente d’une autre. Elle évoque aussi, dans son entretien avec l’APA, la possibilité de rester attaché à un lieu perdu.
 
 Employer ce repère pour l’atelier demande de rester précis. Il ne s’agit pas d’assimiler un bâtiment transformé à la disparition d’une personne, ni de poser un diagnostic sur Malik. Le point commun discuté ici est l’incertitude de la perte : il ne sait pas si le lieu retrouvera sa fonction, changera profondément ou cessera de l’avoir.
 

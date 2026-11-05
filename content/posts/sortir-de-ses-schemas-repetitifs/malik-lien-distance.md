@@ -99,7 +99,8 @@ Entretenir un lien à distance demande des accords qui respectent la proximité 
 
 Distinguer les usages, prévoir les imprévus et partager des attentes précises peut alléger certains malentendus. Ces gestes ne résolvent pas à eux seuls les questions de distance ou d’avenir commun. Ils créent des conditions pour en parler sans transformer chaque retard en jugement sur la relation entière.
 
-Si les échanges deviennent durablement douloureux, un psychologue ou un professionnel de l’accompagnement du couple peut aider à les examiner. Une surveillance imposée, une peur ou une restriction de liberté mérite une attention particulière. Chercher du soutien ne signifie pas que la distance rendrait le couple défaillant par définition.
+Si les deux personnes peuvent parler librement et se sentent en sécurité, un professionnel peut aider à examiner des échanges durablement douloureux. En cas de surveillance imposée, de peur ou de restrictions de liberté, cherchez d’abord un soutien confidentiel et spécialisé, sans passer par une discussion à deux si elle risque de vous exposer.
 
 Sources :
-- [Jiang et Hancock, étude des échanges et de l’intimité dans les couples à distance](https://academic.oup.com/joc/article-abstract/63/3/556/4086003?login=false)
+- [Jiang et Hancock, étude des échanges et de l’intimité dans les couples à distance](https://doi.org/10.1111/jcom.12029)
+- [Arrêtons les violences, repérer le contrôle dans le couple et trouver de l’aide](https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple)

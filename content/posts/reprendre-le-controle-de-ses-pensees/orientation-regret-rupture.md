@@ -1,14 +1,14 @@
 ---
-title: "Orientation vers le regret après une rupture : pourquoi ça empire"
+title: "Quand les regrets tournent en boucle après une rupture"
 date: 2026-05-01T05:48:49+00:00
-description: "Comprendre pourquoi l'orientation vers le regret s'aggrave après une rupture et 3 techniques concrètes pour retrouver le présent."
+description: "Adrien repense à sa rupture avec Marina et distingue les faits, les « si seulement » et les décisions encore possibles."
 categories: ["Reprendre le contrôle de ses pensées"]
 tags: ["regret", "rupture", "rumination", "psychologie", "relations"]
 slug: "orientation-regret-rupture"
 readingTime: 7
 wordCount: 1781
 personnage: "Adrien"
-sujet: "orientation vers le regret"
+sujet: "regrets répétitifs"
 contexte: "après une rupture amoureuse"
 draft: false
 ---
@@ -19,8 +19,8 @@ Un mail de son client Antoine attend une réponse dans sa boîte. Ce message, de
 
 Il se lève, marche jusqu'à la fenêtre qui donne sur la cour pavée et saisit son carnet. Plutôt que d'effacer ou de fuir, comme il l'avait fait au canal Saint-Martin en se cachant derrière des tâches techniques stériles, il feuillette les entrées où il avait appris à repérer ses pensées automatiques. Il sait désormais que la rumination n'est pas neutre : elle travaille comme un acide qui ronge la confiance et transforme le passé en condamnation. Aujourd'hui, il veut comprendre pourquoi cette orientation vers le regret prend autant de place.
 
-## Définition de l'orientation vers le regret
-L'orientation vers le regret est la tendance mentale à revisiter le passé en se focalisant sur ce qui aurait dû être fait, en préférant des scénarios imaginaires du type « si seulement » plutôt que d'accepter les limites de ce qui s'est réellement produit. Le psychologue Nico Zeelenberg est l'un des chercheurs majeurs qui ont étudié le regret, son rôle adaptatif et ses dérives. Dans la littérature, le regret est présenté tantôt comme une émotion utile pour ajuster un comportement futur, tantôt comme un piège lorsque la répétition mentale empêche l'engagement dans le présent. Des études estiment qu'environ la moitié des personnes rapportent des regrets persistants après une rupture importante, et chez certains individus cette orientation vers le regret devient un processus chronique qui alimente la rumination et la paralysie décisionnelle.
+## Comprendre le regret après une rupture
+Le regret peut naître lorsqu’on imagine une issue préférable à celle qui s’est produite et qu’on l’associe à une décision. [Marcel Zeelenberg et Rik Pieters](https://research.tilburguniversity.edu/en/publications/a-theory-of-regret-regulation-10/) ont proposé une théorie sur le rôle du regret dans les décisions. Imaginer « si j’avais fait autrement » relève de la [pensée contrefactuelle](https://pubmed.ncbi.nlm.nih.gov/18453477/) : on peut en tirer une idée pour la suite, ou revenir sans cesse au même scénario. Dans cet article, « orientation vers le regret » décrit cette habitude d’Adrien, sans désigner un diagnostic.
 
 ## Manifestations après une rupture amoureuse
 ### Intrusions de « j'aurais dû » et scénarios alternatifs incessants
@@ -29,7 +29,7 @@ Après une rupture, l'orientation vers le regret se manifeste souvent par des pe
 Exemple concret : Adrien imagine plusieurs façons d'avoir réagi lors de la rupture, et chacune valide l'idée qu'il a failli. Plus il répète ces scénarios, plus il se sent responsable, même quand la réalité comportait des parts de responsabilité partagée.
 
 ### Procrastination et paralysie dans le présent
-L'orientation vers le regret détourne des ressources cognitives essentielles, au point que la personne reporte des tâches concrètes. Le cerveau, occupé à retraiter le passé, a moins d'espace pour planifier et agir. Adrien le vit quand il laisse traîner la réponse à un client important, préférant passer du temps à redessiner des portraits de Marina plutôt qu'à créer un logo. Ce comportement fait écho à sa tendance à l'évitement proactif, où il s'enferme dans une bulle de nostalgie pour ne pas affronter les exigences du monde réel.
+Chez Adrien, reprendre mentalement le fil de la dispute finit par occuper le temps qu’il voulait consacrer à d’autres activités. Adrien le vit quand il laisse traîner la réponse à un client important, préférant passer du temps à redessiner des portraits de Marina plutôt qu'à créer un logo. Ce comportement fait écho à sa tendance à l'évitement proactif, où il s'enferme dans une bulle de nostalgie pour ne pas affronter les exigences du monde réel.
 
 Exemple concret : Le temps qu'il consacre à refaire mentalement des scènes passées se transforme en retard sur des échéances professionnelles, et la culpabilité nourrit à son tour la rumination.
 
@@ -38,9 +38,9 @@ L'orientation vers le regret alimente souvent l'idéalisation de la relation per
 
 Exemple concret : Lors d'une sortie au parc avec sa sœur Charlotte, il compare machinalement les passants aux souvenirs de sa vie passée, prolongeant la sensation d'absence et refusant de voir les possibilités nouvelles.
 
-## Techniques pour reprendre le contrôle
+## Trois pistes pour faire de la place au présent
 ### 1. Restructuration des pensées (exercice guidé)
-Transformer des « j'aurais dû » automatiques en hypothèses testables permet d'ouvrir l'espace mental. Au lieu d'alimenter une version idéalisée du passé, il s'agit d'accepter la pluralité des facteurs qui ont mené à la rupture.
+On ne peut pas vérifier ce qui se serait passé en faisant un autre choix. On peut examiner les informations disponibles à l’époque et en tirer une question utile pour une situation à venir. Au lieu d'alimenter une version idéalisée du passé, il s'agit d'accepter la pluralité des facteurs qui ont mené à la rupture.
 
 Exercice concret :
 - Prenez votre carnet. Notez une pensée de regret précise, par exemple « j'aurais dû partir plus tôt ce soir-là ».
@@ -55,8 +55,8 @@ Cette technique capitalise sur une habitude déjà acquise par Adrien : noter se
 
 Exercice concret :
 - Dans le carnet, créez deux colonnes sous un titre clair, par exemple « Preuve que j'ai échoué » et « Preuve que j'ai agi de façon raisonnable ».
-- Pour une pensée-type « je suis nul en amour », listez 5 éléments concrets qui soutiennent cette idée (dates, faits) puis 5 éléments concrets qui la contreflexent (réussites relationnelles passées, moments de soutien, démarches pour s'améliorer).
-- Relisez ces listes à voix haute régulièrement et notez l'impact sur votre humeur.
+- Reformulez le jugement en termes concrets : « Dans cette discussion, qu’ai-je dit ou fait ? » Notez un fait qui vous préoccupe et un fait qui nuance votre interprétation. Une scène difficile ne définit pas votre valeur.
+- Relisez une fois si cela vous aide. Si vous repartez dans la même boucle, vous pouvez fermer le carnet.
 
 L'objectif est de ramener le récit émotionnel vers des données vérifiables et de limiter les généralisations.
 
@@ -81,7 +81,7 @@ Ce processus fait suite à ses apprentissages précédents : reconnaître sa rum
 
 ---
 
-Adrien n'efface pas ses regrets, il les range différemment. En transformant les « j'aurais dû » en hypothèses testables, en équilibrant ses jugements par des preuves concrètes et en s'engageant par petits pas dans des actions significatives, il réduit la force corrosive de l'orientation vers le regret après une rupture amoureuse. La mémoire cesse d'être un tribunal permanent pour devenir une source d'informations utilisables.
+Adrien n'efface pas ses regrets, il les range différemment. En distinguant les faits des scénarios qu’il ne peut pas vérifier, en équilibrant ses jugements par des preuves concrètes et en s'engageant par petits pas dans des actions significatives, il réduit la force corrosive de l'orientation vers le regret après une rupture amoureuse. La mémoire cesse d'être un tribunal permanent pour devenir une source d'informations utilisables.
 
 Si vous vous reconnaissez dans ce mécanisme, rappelez-vous qu'il existe des stratégies concrètes pour intervenir et que certaines habitudes, comme tenir un carnet factuel, peuvent déjà vous servir. Pour des difficultés persistantes, ou si le regret envahit votre quotidien au point d'empêcher vos activités, consulter un psychologue ou un psychiatre est une démarche utile.
 

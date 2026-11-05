@@ -16,12 +16,12 @@ draft: false
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/rejet-societe-interactions-sociales/">Rejet en société et dans les interactions sociales : comprendre et dépasser ses peurs</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/rejet-societe-interactions-sociales/">Rejet en société : ce qui arrive et ce qu’on redoute</a></h3>
     <div class="parcours-date">2026-03-09</div>
-    <p class="parcours-resume">Sur la terrasse d'un café près de la fac, Léa, 23 ans, étudiante en master de psychologie clinique, attend son amie Zoé en observant les conversations animées autour d'elle. Malgré ses efforts, un sentiment lourd de rejet s'installe, écho du divorce de ses parents quand elle avait 6 ans.</p>
+    <p class="parcours-resume">Léa déglutit lentement, ses mains légèrement moites serrant la petite tasse de café devant elle. Autour d&#x27;elle, la terrasse du café bruissait de conversations animées, de rires et de regards échangés sans effort apparent.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Léa apprend à identifier et nommer ce qu'elle ressent dans cette situation, une étape importante pour mieux réguler ses émotions plutôt que de les subir.</p>
+      <p>Léa déglutit lentement, ses mains légèrement moites serrant la petite tasse de café devant elle. Autour d&#x27;elle, la terrasse du café bruissait de conversations animées, de rires et de regards échangés sans effort apparent.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/rejet-societe-interactions-sociales/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -29,32 +29,32 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/abandon-emotionnel-parents/">Abandon émotionnel avec ses parents : comprendre et agir</a></h3>
     <div class="parcours-date">2026-03-17</div>
-    <p class="parcours-resume">En triant des cartons d'enfance dans le garage d'Anne, Léa découvre un dessin illustrant son sentiment d'invisibilité lors des disputes de ses parents. Cette trouvaille l'amène à analyser son passé à la lumière de ses études en psychologie clinique, faisant le lien entre ses traumatismes d'enfance et ses comportements actuels.</p>
+    <p class="parcours-resume">Le carton grince quand Léa le tire vers elle dans le garage d&#x27;Anne. L&#x27;air est chargé d&#x27;odeurs de lessive sèche et de poussière ancienne.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Léa identifie que son besoin compulsif de 'sauver' les autres et sa peur du rejet social, notamment avec Zoé, prennent racine dans l'abandon émotionnel parental et la parentification qu'elle a subis.</p>
+      <p>Le soir même, après avoir rangé le dessin, Léa s&#x27;installe sur son lit avec son carnet. Elle applique ce qu&#x27;elle a appris lors de sa première prise de conscience au café : nommer l&#x27;émotion brute pour ne pas la laisser prendre toute la place.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/abandon-emotionnel-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/deception-en-amitie-comprendre-attentes-relations/">Déception en amitié : comprendre ses attentes pour moins souffrir</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/deception-en-amitie-comprendre-attentes-relations/">Déception en amitié : ce qu’on attend et ce qu’on sait</a></h3>
     <div class="parcours-date">2026-03-19</div>
-    <p class="parcours-resume">Alors qu'elle révise à la bibliothèque universitaire, Léa surprend sa meilleure amie Zoé en train de s'amuser avec d'autres étudiants, alors que celle-ci avait prétendu avoir besoin de calme pour travailler. Cette découverte provoque chez Léa un sentiment d'amertume et de trahison, la confrontant brutalement au décalage entre son investissement amical et la réalité.</p>
+    <p class="parcours-resume">Léa ajuste ses lunettes tout en replaçant une mèche de ses cheveux bruns bouclés derrière son oreille. Elle se trouve au deuxième étage de la bibliothèque universitaire, entourée par l&#x27;odeur du vieux papier et le murmure constant des pages que l&#x27;on tourne.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Léa réalise que son dévouement excessif envers Zoé était une stratégie inconsciente pour garantir sa propre sécurité affective et éviter l'abandon. Elle commence à désidéaliser sa relation et à comprendre que sa déception naît de l'effondrement d'une illusion qu'elle a elle-même entretenue.</p>
+      <p>Léa reste immobile quelques minutes, observant le manège de Zoé à distance. Elle sent une larme couler le long de son nez, mais elle ne l&#x27;essuie pas tout de suite.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/deception-en-amitie-comprendre-attentes-relations/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jalousie-en-situation-de-conflit-comprendre-agir/">Jalousie en situation de conflit : comprendre pour s'apaiser</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jalousie-en-situation-de-conflit-comprendre-agir/">Jalousie en situation de conflit : comprendre pour s&#x27;apaiser</a></h3>
     <div class="parcours-date">2026-03-25</div>
-    <p class="parcours-resume">Léa ressent une vive jalousie envers un nouvel étudiant brillant qui semble impressionner sa meilleure amie Zoé. Dans l'amphithéâtre de la faculté, elle adopte un comportement froid et distant envers Zoé pour masquer sa peur d'être remplacée.</p>
+    <p class="parcours-resume">Léa ajuste la sangle de son sac à dos, sentant le poids familier de son manuel de psychopathologie contre ses omoplates. Elle marche d&#x27;un pas rapide dans les couloirs carrelés de la faculté, mais son esprit est ailleurs, coincé dans la cuisine de son studio.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Léa parvient à identifier que sa réaction viscérale est liée à son schéma d'abandon issu du divorce de ses parents. Elle passe d'un besoin de 'sauver' les autres à une volonté lucide de protéger son territoire affectif tout en observant ses propres mécanismes de retrait.</p>
+      <p>Le cours se termine et le brouhaha des chaises que l&#x27;on replie remplit l&#x27;amphithéâtre. Léa voit Zoé s&#x27;approcher d&#x27;elle, un air hésitant sur le visage.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jalousie-en-situation-de-conflit-comprendre-agir/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -62,87 +62,87 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/lecture-de-pensee-en-amitie-psychologie/">Lecture de pensée en amitié : comment arrêter de deviner ?</a></h3>
     <div class="parcours-date">2026-04-02</div>
-    <p class="parcours-resume">Léa observe son amie Zoé rire avec d'autres étudiants à la cafétéria de la faculté de psychologie. Persuadée que Zoé la critique et s'apprête à la remplacer, elle s'isole dans une spirale d'interprétations négatives basées sur de simples regards.</p>
+    <p class="parcours-resume">Léa ajuste ses lunettes tout en gardant les yeux fixés sur le fond de la cafétéria de la faculté de psychologie. À une table ronde, près de la grande baie vitrée, Zoé rit aux éclats avec deux étudiants d&#x27;une autre promotion.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Léa réalise que sa prétendue intuition est en réalité une distorsion cognitive appelée 'lecture de pensée'. Elle comprend que ce mécanisme est une hyper-vigilance héritée du divorce de ses parents et de son passé d'enfant devant anticiper les crises familiales.</p>
+      <p>Assise à sa table de cafétéria, Léa sent la tension monter, mais elle se souvient soudainement de son cours sur les distorsions cognitives et de son propre cheminement. Elle repense à ce dessin qu&#x27;elle a trouvé dans le garage de sa mère, Anne, où elle s&#x27;était dessinée invisible.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/lecture-de-pensee-en-amitie-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/causes-profondes-codependance-en-amitie/">La codépendance en amitié : comprendre les causes profondes</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/causes-profondes-codependance-en-amitie/">Codépendance en amitié : quand aider prend toute la place</a></h3>
     <div class="parcours-date">2026-04-08</div>
-    <p class="parcours-resume">Léa passe une nuit blanche à rédiger le dossier de rattrapage de son amie Zoé au détriment de ses propres révisions pour son examen de psychopathologie. Malgré son épuisement physique et le souvenir d'une trahison passée à la bibliothèque, elle se sent incapable de s'arrêter, prisonnière d'une mission de sauvetage envers son amie.</p>
+    <p class="parcours-resume">La lumière crue de sa lampe de bureau projette des ombres allongées sur les murs tapissés de fiches de révisions de son studio. Léa frotte ses yeux irrités par la fatigue alors que l&#x27;horloge affiche deux heures du matin.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Léa prend conscience que son dévouement excessif est une forme de codépendance ancrée dans son enfance, où elle devait déjà consoler sa mère. Elle réalise qu'elle s'efface totalement derrière les besoins de Zoé par peur de devenir inutile et de voir la relation s'évaporer.</p>
+      <p>L&#x27;écran de l&#x27;ordinateur scintille encore, mais Léa s&#x27;arrête net. Elle vient de taper la dernière référence bibliographique pour Zoé.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/causes-profondes-codependance-en-amitie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/trahison-en-couple-comprendre-surmonter-blessure/">Trahison en couple : comprendre et surmonter cette blessure</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/trahison-en-couple-comprendre-surmonter-blessure/">Se sentir trahie quand une confidence reste sans écho</a></h3>
     <div class="parcours-date">2026-04-18</div>
-    <p class="parcours-resume">Léa a partagé ses blessures d'enfance liées au divorce de ses parents avec son compagnon Youssef dans son studio. Au lieu de recevoir le soutien attendu, elle s'est heurtée à une analyse froide et clinique de sa part, ce qu'elle a vécu comme une profonde trahison émotionnelle.</p>
+    <p class="parcours-resume">Léa ajuste ses lunettes tout en fixant le mur blanc de son studio. Face à elle, Youssef reste immobile sur le petit canapé en velours.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Léa a réalisé que la trahison ne se limite pas à l'infidélité, mais réside aussi dans le désengagement affectif et l'absence de résonance de l'autre face à sa vulnérabilité.</p>
+      <p>Léa observe Youssef. Elle sent la chaleur monter dans son cou, cette réaction familière qu&#x27;est la colère défensive.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/trahison-en-couple-comprendre-surmonter-blessure/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-psychologique-intimite-sexualite/">Gaslighting et manipulation dans l'intimité : s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-psychologique-intimite-sexualite/">Gaslighting dans l’intimité : reconnaître les agissements</a></h3>
     <div class="parcours-date">2026-04-22</div>
-    <p class="parcours-resume">Alors qu'elle range son studio, Léa tente d'exprimer son malaise à son compagnon Youssef suite à une remarque désobligeante sur son corps lors d'un moment intime. Youssef nie les faits avec assurance, utilisant le gaslighting pour faire douter Léa de sa propre mémoire et de sa santé mentale.</p>
+    <p class="parcours-resume">Le parquet de son studio craque sous ses pas alors que Léa range ses fiches de révision sur la théorie de l&#x27;attachement. Youssef est assis sur le lit, le regard fixe, le silence pesant.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Léa prend conscience que sa tendance à la codépendance et son passé d'enfant de parents divorcés la rendent vulnérable à cette manipulation, l'amenant à faire le lien entre ses révisions théoriques et sa réalité toxique.</p>
+      <p>Léa pose ses fiches sur son bureau et s&#x27;assoit, le dos bien droit. Elle sent le froid du bois contre ses cuisses, un détail sensoriel qu&#x27;elle choisit d&#x27;habiter pleinement pour ne pas se laisser emporter par les paroles de Youssef.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-psychologique-intimite-sexualite/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/dependance-affective-attachement-anxieux/">la dépendance affective vs l'attachement anxieux en couple</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/dependance-affective-attachement-anxieux/">Dépendance affective et anxiété d’attachement en couple</a></h3>
     <div class="parcours-date">2026-04-30</div>
-    <p class="parcours-resume">Alors qu'elle révise ses cours de psychologie dans son studio, Léa analyse sa relation tendue avec Youssef suite à une remarque sèche et un silence prolongé de sa part. Elle fait le lien entre ses réactions viscérales actuelles et son passé, notamment le divorce de ses parents et son habitude de se sacrifier pour les autres comme elle l'a fait pour son amie Zoé.</p>
+    <p class="parcours-resume">Léa tapote son stylo contre la couverture d&#x27;un manuel de psychologie de la faculté. Le cliquetis régulier casse la présence du voisin qui répète une leçon à voix basse.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Léa a pris conscience que son besoin d'être indispensable et sa peur de l'abandon sont les racines de sa dépendance affective. Elle comprend désormais la distinction théorique entre son style d'attachement anxieux et ses comportements de codépendance, ce qui renforce sa volonté de ne plus tolérer l'inacceptable.</p>
+      <p>Ce soir, dans le studio, Léa relit une des lettres qu&#x27;elle a écrites à la petite fille qu&#x27;elle fut. Elle sent une combinaison d&#x27;émotions, de la tristesse, mais aussi une forme de calme différent de l&#x27;urgence habituelle.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/dependance-affective-attachement-anxieux/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/pensee-tout-ou-rien-conflit/">Pensée tout-ou-rien en situation de conflit : comprendre et agir</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/pensee-tout-ou-rien-conflit/">Pensée tout-ou-rien : remettre de la nuance dans un conflit</a></h3>
     <div class="parcours-date">2026-05-04</div>
-    <p class="parcours-resume">Après une dispute avec son compagnon Youssef qui a critiqué son émotivité, Léa se retrouve seule dans leur studio, plongée dans ses cours de psychologie. Elle observe comment ses pensées basculent instantanément vers des conclusions extrêmes de rejet total ou de rupture imminente.</p>
+    <p class="parcours-resume">Le robinet du petit évier claque par intermittence, comme un métronome désaccordé. Léa tient entre ses doigts une fiche de cours sur les schémas cognitifs, la couverture froissée par la nervosité.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Léa identifie que sa pensée tout-ou-rien est un mécanisme de survie hérité de son enfance et de l'instabilité émotionnelle de ses parents. Elle prend conscience que cette distorsion cognitive alimente son urgence émotionnelle et son besoin de surinvestissement relationnel.</p>
+      <p>Dans la cuisine du studio, quelques jours après l’épisode du 4 mai, Léa relit ce qu’elle a noté. Elle garde deux éléments distincts : elle a été blessée et elle ne sait pas encore ce que Youssef veut pour leur relation.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/pensee-tout-ou-rien-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/rage-en-situation-de-conflit/">Rage en situation de conflit : pourquoi elle revient et que faire</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/rage-en-situation-de-conflit/">Rage en situation de conflit : faire une pause et agir</a></h3>
     <div class="parcours-date">2026-05-13</div>
-    <p class="parcours-resume">Lors d'une réunion d'association tendue, Léa est confrontée à l'indifférence d'Antoine qui souhaite reporter un dossier urgent de violence conjugale. Cette situation déclenche chez elle une rage intense, ravivant des souvenirs d'enfance liés à l'inaction de ses parents et à son sentiment d'abandon.</p>
+    <p class="parcours-resume">La réunion de l&#x27;association commence tard, dans une salle où le chauffage cliquette et où les chaises en plastique frottent le sol. Léa tient son carnet à la main, la couverture un peu cornée, comme si le contact du papier l&#x27;ancrait dans la réalité.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Léa prend conscience que sa colère actuelle est une réactivation de ses blessures passées et de sa tendance au 'tout ou rien'. Elle réalise que sa rage est le revers de son habitude à anticiper les besoins des autres pour éviter les conflits.</p>
+      <p>Dans la salle, Léa se lève et prend la parole, mais cette fois elle teste le script assertif qu&#x27;elle a répété mentalement. Sa voix est ferme et mesurée.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/rage-en-situation-de-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/pensée-et-si-decision-importante/">Se libérer de la pensée du "et si" face à une décision importante</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/pensée-et-si-decision-importante/">Les « et si » face à une décision importante</a></h3>
     <div class="parcours-date">2026-05-18</div>
-    <p class="parcours-resume">Léa se rend chez le Dr Moreau le 18 mai 2026 pour décider d'accepter ou non un stage clinique à Grenoble prévu pour septembre. Elle est assaillie par des scénarios catastrophes impliquant sa relation avec Youssef et sa réussite académique, faisant écho à son passé d'enfant médiatrice.</p>
+    <p class="parcours-resume">Le couloir devant le bureau du Dr Moreau sent les feuillets froissés et la gomme à effacer. Léa appuie la paume de sa main contre la couverture d&#x27;un carnet où elle griffonne des listes depuis deux heures.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Léa identifie que ses pensées en 'et si' sont une forme de sur-responsabilisation liée à son schéma d'abandon. Elle commence à apprendre une méthode de cartographie pour transformer ses angoisses spéculatives en probabilités mesurables.</p>
+      <p>Assise dans le bureau du Dr Moreau, Léa lit ses notes. Elle ne peut pas prédire la réaction de Youssef, mais elle a des questions précises sur le stage et souhaite savoir comment organiser ses trajets.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/pensée-et-si-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

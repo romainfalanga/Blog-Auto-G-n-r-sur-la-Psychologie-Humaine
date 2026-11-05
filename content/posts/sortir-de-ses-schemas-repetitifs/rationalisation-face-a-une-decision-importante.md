@@ -17,13 +17,13 @@ Priya ajuste sa blouse blanche, l'index crispé sur le bouton de sa manchette. D
 
 Elle se surprend à lister mentalement toutes les raisons pour lesquelles elle devrait refuser cette offre. Elle se dit que le trajet sera plus long de sept minutes, que le loyer est légèrement au-dessus du prix du marché, ou que ses patients actuels, comme la fidèle Claire qu'elle suit pour sa pathologie chronique, seraient perturbés par ce changement. Chaque argument semble d'une logique implacable. Elle se convainc que son refus n'est pas dicté par la peur de déplaire à Anjali ou par son besoin de sécurité, mais par une analyse purement pragmatique et professionnelle. Cette froideur procédurale, qu'elle a longtemps utilisée pour maintenir une distance avec ses patients, se retourne aujourd'hui contre ses propres aspirations.
 
-Priya se souvient de la fois où, face à Antoine de l'instance régionale, elle s'était murée dans un mépris froid pour protéger son ego. Aujourd'hui, le mécanisme est plus subtil. Il n'y a pas de colère, juste une construction intellectuelle parfaite pour justifier son immobilisme. Elle se sent investie d'une mission de sagesse médicale. En réalité, elle est en train de construire une prison de papier faite de faux arguments pour éviter de confronter le conflit familial qui couve. Elle veut être la fille parfaite, celle qui ne fait pas de vagues, tout en se persuadant qu'elle agit par pure rigueur scientifique, un héritage direct de l'éducation de Raj qui lui a appris que l'excellence était le seul rempart contre l'imprévisibilité du monde.
+Priya se souvient de la fois où, face à Antoine de l'instance régionale, elle s'était murée dans un mépris froid pour protéger son ego. Aujourd'hui, le mécanisme est plus subtil. Il n'y a pas de colère, juste une construction intellectuelle parfaite pour justifier son immobilisme. Elle se sent investie d'une mission de sagesse médicale. En réalité, elle est en train de construire une liste où les contraintes du cabinet et son appréhension de la réaction familiale sont mêlées. Elle veut être la fille parfaite, celle qui ne fait pas de vagues, tout en se persuadant qu'elle agit par pure rigueur scientifique, un héritage direct de l'éducation de Raj qui lui a appris que l'excellence était le seul rempart contre l'imprévisibilité du monde.
 
 ## Définition de la rationalisation face à une décision importante
 
-La rationalisation est un mécanisme de défense psychologique qui consiste à justifier un comportement ou un sentiment par des raisons logiques, acceptables et rationnelles, afin de masquer les véritables motivations inconscientes qui sont souvent liées à l'anxiété ou à la culpabilité. Ce concept a été exploré par Anna Freud, qui a détaillé comment l'ego tente de se protéger contre les tensions internes en réinterprétant la réalité de manière à la rendre supportable.
+La [rationalisation](https://dictionary.apa.org/rationalization) désigne le fait de donner une justification plausible à une décision ou une réaction. Dans la théorie psychanalytique, elle est décrite comme un mécanisme de défense. Cela ne permet pas de déterminer de l’extérieur les « vraies » motivations d’une personne.
 
-Dans le cadre d'une décision importante, ce processus devient un filtre qui déforme la perception des faits. Au lieu de regarder les émotions en face, comme la peur de l'échec ou le désir de plaire à autrui, nous créons un argumentaire solide et cohérent pour valider un choix qui nous maintient dans notre zone de confort. C'est une forme d'auto-persuasion où l'intellect se met au service du déni émotionnel.
+Priya peut réellement s’inquiéter du loyer et craindre de déplaire à ses parents. Les deux raisons peuvent coexister. Vérifier les coûts et la continuité des soins reste utile, même après avoir reconnu son appréhension.
 
 ## Manifestations de la rationalisation dans la prise de décision
 
@@ -43,7 +43,7 @@ La rationalisation sert aussi à apaiser la dissonance cognitive après avoir pr
 
 ### 1. La technique du miroir émotionnel
 
-Cette méthode consiste à identifier l'émotion primaire qui surgit avant que l'intellect ne commence à construire ses arguments. Pour l'appliquer, asseyez-vous dans un endroit calme avec une feuille de papier. Notez la décision que vous devez prendre. Au lieu de lister les avantages et les inconvénients, fermez les yeux et cherchez la toute première sensation physique qui apparaît. Si vous ressentez une tension dans la mâchoire ou un froid soudain, nommez l'émotion associée, par exemple la crainte du jugement. L'exercice consiste à écrire que vous sentez de la peur, et non que vous pensez que c'est risqué. En nommant l'émotion, vous réduisez l'emprise de la rationalisation.
+Notez la décision, puis ce qui vous inquiète ou vous attire. Vous pouvez ajouter des faits à vérifier. Une tension dans la mâchoire ne révèle pas une émotion précise et ne suffit pas à décider.
 
 ### 2. Le test de l'ami imaginaire
 
@@ -51,7 +51,7 @@ Le but de cet exercice est de sortir de son propre système de justification en 
 
 ### 3. La méthode des trois Pourquoi
 
-Inspirée des techniques de résolution de problèmes, cette méthode vise à déshabiller l'argument rationnel pour atteindre la racine émotionnelle. Prenez votre argument principal contre une décision et demandez-vous pourquoi vous pensez cela. À la réponse obtenue, demandez à nouveau pourquoi. Répétez l'opération une troisième fois. Par exemple, si vous dites que le loyer est trop cher, demandez-vous pourquoi c'est un frein. Si la réponse est que vous craignez de ne pas être rentable, demandez pourquoi. Vous finirez souvent par découvrir une peur de l'échec ou une crainte de décevoir vos proches, révélant ainsi que l'argument financier n'était qu'une couverture.
+Demandez-vous pourquoi un élément compte pour vous et ce qui permettrait de l’évaluer. Un loyer élevé peut peser financièrement et réveiller une peur de l’échec. L’une de ces raisons n’annule pas l’autre.
 
 ## Évolution de Priya vers une décision authentique
 
@@ -59,7 +59,7 @@ Priya repose le contrat sur son bureau. Elle repense à son parcours, à cette t
 
 Elle prend un carnet et applique la technique des trois Pourquoi. Pourquoi ce trajet de sept minutes lui pose-t-il vraiment problème ? Parce qu'elle veut être disponible immédiatement si ses parents ont besoin d'elle. Pourquoi ? Parce qu'elle se sent responsable de leur bonheur. Pourquoi ? Parce qu'elle craint que son autonomie ne soit perçue comme un abandon. Les mots sont posés sur le papier, crus et sans les fioritures de la logique médicale. Pour la première fois, elle ne cherche pas à se justifier par le prix du mètre carré ou la logistique des dossiers patients. Elle accepte enfin de voir que son refus systématique de l'autorité administrative n'était qu'une diversion pour ne pas affronter l'autorité familiale.
 
-Priya se lève et s'approche de la fenêtre qui donne sur le petit jardin du cabinet. Elle ressent une clarté nouvelle. Ce n'est pas que le risque a disparu, mais elle sait enfin contre quoi elle se bat réellement. Ce n'est pas un problème de gestion de cabinet, c'est un problème d'affirmation de soi. Elle décide de ne pas rappeler sa mère tout de suite. Elle va d'abord s'autoriser à vivre cette envie de liberté, sans la découper en morceaux de logique froide. Elle comprend que pour soigner les autres, elle doit d'abord cesser de se mentir à elle-même avec de faux diagnostics sur ses propres désirs.
+Priya se lève et s'approche de la fenêtre qui donne sur le petit jardin du cabinet. Elle ressent une clarté nouvelle. Ce n'est pas que le risque a disparu, mais elle sait enfin contre quoi elle se bat réellement. L’affirmation de soi compte dans ce choix, tout comme les conditions de gestion du cabinet. Elle décide de ne pas rappeler sa mère tout de suite. Elle va d'abord s'autoriser à vivre cette envie de liberté, sans la découper en morceaux de logique froide. Elle comprend que pour soigner les autres, elle doit d'abord cesser de se mentir à elle-même avec de faux diagnostics sur ses propres désirs.
 
 ---
 

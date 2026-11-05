@@ -27,7 +27,7 @@ La sécurité affective désigne ici la possibilité de se sentir assez en confi
 
 Des recherches sur la réceptivité perçue du partenaire examinent comment le sentiment d’être comprise et accueillie s’associe à l’expression émotionnelle. Elles éclairent une dimension de l’intimité, sans garantir qu’une formulation particulière produira une réponse apaisante. Dans le cas d’Inès, le repère utile reste observable : Clara écoute, ne la ridiculise pas et peut annoncer sa propre limite. L’assurance vient de comportements répétés, pas d’une phrase magique.
 
-La corégulation décrit un ajustement où la présence ou les réponses d’une autre personne peuvent participer à la régulation de notre état. Cela peut prendre une forme ordinaire : une voix familière, un rythme de conversation plus lent ou une activité simple réalisée côte à côte. Il ne s’agit pas de transférer ses émotions à l’autre pour qu’elle les résolve. Inès garde une part active dans l’identification de son besoin et dans les moyens qu’elle choisit.
+Dans les recherches de Butler et Randall, la corégulation émotionnelle désigne une influence réciproque : les réactions de chacune peuvent influer sur l’état émotionnel de l’autre au fil de l’échange. La scène montre plus simplement une forme de soutien : une voix familière et une conversation plus lente peuvent convenir à Inès ce soir. Elle garde une part active dans l’identification de son besoin et dans les moyens qu’elle choisit.
 
 Cet appui doit être adapté à l’expérience des deux personnes. Une présence peut aider aujourd’hui et peser demain. Un contact physique peut être souhaité ou inconfortable. Clara ne doit pas tenir la main d’Inès pour démontrer son affection, et Inès n’a pas à accepter une solution qui ne lui convient pas. La sécurité relationnelle inclut cette liberté réciproque. Elle ne signifie ni absence de désaccord ni suppression de toutes les émotions difficiles.
 
@@ -87,10 +87,10 @@ Lors d’une autre soirée, Clara n’est pas disponible. Inès le reçoit avec 
 
 ---
 
-La sécurité affective et une demande claire peuvent se soutenir mutuellement. Inès découvre qu’elle peut demander une présence précise tout en laissant Clara annoncer sa capacité. La corégulation prend ici une forme simple : une écoute choisie l’aide à organiser ce qu’elle ressent, sans rendre sa compagne responsable de faire disparaître l’émotion.
+La sécurité affective et une demande claire peuvent se soutenir mutuellement. Inès découvre qu’elle peut demander une présence précise tout en laissant Clara annoncer sa capacité. L’écoute choisie aide Inès à organiser ce qu’elle ressent, et Clara peut elle aussi dire comment elle vit l’échange. La scène donne un exemple de soutien possible.
 
 Décrire l’aide souhaitée, observer ce qui convient et garder plusieurs appuis rendent cette démarche plus concrète. Vous pouvez commencer par un besoin limité plutôt que demander une garantie générale sur le lien. Une réponse ajustée peut être utile même si elle ne correspond pas exactement à l’horaire ou à la forme imaginée au départ.
 
 Si l’insécurité relationnelle ou la difficulté à se stabiliser devient persistante, une psychologue ou un autre professionnel peut vous accompagner. Un soutien adapté peut aussi aider à distinguer les interprétations inquiètes d’un contexte réellement peu fiable ou dangereux. Vous n’avez pas à porter vos émotions entièrement seule, et aucune personne proche ne doit en devenir l’unique responsable.
 
-Sources : [Recherche sur la réceptivité perçue du partenaire et l’expression émotionnelle](https://pubmed.ncbi.nlm.nih.gov/31414835/).
+Sources : [Recherche sur la réceptivité perçue du partenaire et l’expression émotionnelle](https://pubmed.ncbi.nlm.nih.gov/31414835/) ; [Butler et Randall, définition proposée de la corégulation émotionnelle](https://journals.sagepub.com/doi/10.1177/1754073912451630).

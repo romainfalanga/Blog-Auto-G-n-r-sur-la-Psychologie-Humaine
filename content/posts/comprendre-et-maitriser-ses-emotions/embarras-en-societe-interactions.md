@@ -23,9 +23,9 @@ Autour d'elle, le bruit de la vaisselle, le parfum du café et le brouhaha des c
 
 L'embarras est une émotion sociale, généralement brève, qui surgit lorsqu'on a l'impression de perdre de la valeur aux yeux des autres.
 
-Dans le cas de Mei, l'embarras apparaît quand elle se sent mise en lumière d'une manière qu'elle ne contrôle pas, provoquant des réactions corporelles comme le rougissement ou la baisse du regard. Ce concept a été largement étudié en psychologie sociale et en sociologie, notamment par Erving Goffman qui a analysé le "travail du visage" et les manœuvres que nous utilisons pour préserver notre image dans les échanges. Le psychologue Dacher Keltner a également montré que l'embarras joue un rôle utile : elle aide à réparer les liens et signale aux autres une intention de coopération.
+Mei se sent soudain mise en avant et ses joues chauffent. Des expériences de Feinberg et ses collègues suggèrent que des signes d’embarras peuvent être interprétés comme des signaux d’attention à autrui. Un regard baissé ou un rire ne permet pas de déduire avec certitude une émotion ou une intention.
 
-Sur le plan biologique, l'embarras déclenche souvent une réaction du système nerveux (augmentation du rythme cardiaque, rougeur du visage) et des comportements d'apaisement, comme l'évitement du regard ou un rire nerveux. Dans la recherche, on distingue l'embarras de la honte ou de la culpabilité par son intensité plus légère, sa durée plus courte et sa fonction tournée vers la réconciliation avec le groupe.
+L’embarras peut s’accompagner de rougeurs, d’une accélération du cœur ou d’un rire nerveux. Ces signes ne sont ni systématiques ni propres à cette émotion. Gêne, honte et timidité peuvent se recouper ; leur durée ou leur intensité ne suffit pas toujours à les distinguer.
 
 ## Comment l'embarras se manifeste-t-il en société ?
 
@@ -35,7 +35,7 @@ L'une des manifestations les plus visibles de l'embarras est l'évitement du reg
 Par exemple, lors d'un apéritif, si quelqu'un raconte une anecdote maladroite sur elle, Mei préfère se replier et aller se servir un verre plutôt que de répondre. Ce comportement laisse parfois les autres perplexes ou peut être interprété, à tort, comme de la froideur ou du dédain.
 
 ### Rougissement, voix tremblante et signes physiques
-L'embarras s'accompagne souvent de réactions physiques marquées. Mei sent ses joues s'échauffer, sa voix perdre en assurance et ses mains devenir moites. Ces signaux physiologiques sont universels et difficiles à cacher. Ils révèlent aux autres une vulnérabilité immédiate.
+L'embarras s'accompagne souvent de réactions physiques marquées. Mei sent ses joues s'échauffer, sa voix perdre en assurance et ses mains devenir moites. Ces réactions varient d’une personne et d’une situation à l’autre.
 
 On peut citer l'exemple d'une présentation en petit comité : Mei bafouille sur une phrase, rougit et perd le fil. Même si l'erreur est minime, ses réactions physiques lui donnent l'impression que sa maladresse est bien plus grave qu'elle ne l'est en réalité.
 
@@ -47,7 +47,7 @@ Mei est timide par tempérament et ressent souvent une appréhension avant une r
 ## 3 techniques pour mieux vivre l'embarras en public
 
 ### 1. La respiration ancrante : apaiser le corps pour retrouver ses mots
-Cette technique utilise le souffle pour briser le cycle physique de l'embarras. En pratique : dès que vous sentez le rougissement ou l'accélération du cœur, inspirez lentement pendant 4 secondes, retenez votre souffle 2 secondes, puis expirez pendant 6 secondes. Répétez cela trois fois en gardant les épaules relâchées. Si c'est possible, fermez brièvement les yeux. Cette respiration calme le système nerveux, réduit la tension et vous offre un court instant de répit pour répondre plus sereinement. Mei peut utiliser cette méthode discrètement avant de reprendre la parole, afin que sa voix retrouve sa stabilité.
+Vous pouvez marquer une courte pause, laisser votre respiration se faire sans la forcer et reprendre quand vous le souhaitez. Cela peut donner du temps pour retrouver un mot. Si porter attention à votre souffle vous gêne, passez cette étape.
 
 ### 2. La réévaluation cognitive : changer de regard sur la situation
 L'embarras s'amplifie quand on imagine que la situation est catastrophique pour notre image. La réévaluation consiste à repérer la pensée automatique qui nous envahit pour la remplacer par une vision plus réaliste. Posez-vous trois questions :
@@ -56,8 +56,8 @@ L'embarras s'amplifie quand on imagine que la situation est catastrophique pour 
 3. Que dirais-je à un ami qui vit la même chose ?
 Ensuite, reformulez votre pensée : "Ils ont ri, mais ils ne cherchent sans doute pas à me blesser." En réunion, Mei peut se répéter cette phrase intérieurement pour faire redescendre la pression.
 
-### 3. L'exposition graduée : apprivoiser le malaise par petits pas
-L'idée est de réduire l'hyper-vigilance en multipliant les expériences sociales de manière contrôlée. Vous pouvez établir une liste de situations, de la moins stressante à la plus difficile (par exemple : saluer un collègue, poser une question simple, puis prendre la parole en grand groupe). Fixez-vous de courts moments chaque semaine pour affronter l'étape suivante. Après chaque essai, notez ce qui s'est bien passée. Le but n'est pas de supprimer l'embarras, mais d'apprendre qu'on peut le traverser sans danger. Mei commence par intervenir une seule fois pendant la pause entre deux cours, puis augmente la difficulté petit à petit.
+### 3. Choisir un petit pas social
+Si vous souhaitez participer davantage dans un contexte où vous vous sentez en sécurité, choisissez une petite action utile, comme dire bonjour ou poser une question. Aucune progression n’est imposée. L’exposition thérapeutique pour une anxiété sociale importante se décide avec un professionnel formé. Une moquerie, une humiliation ou une menace réelle appelle du soutien, pas un exercice pour s’y habituer.
 
 ## Vers une plus grande aisance pour Mei
 
@@ -74,3 +74,5 @@ L'embarras en société est une émotion courante, souvent accompagnée de signe
 Si vous vous reconnaissez dans le parcours de Mei, rappelez-vous que ces changements se font en douceur. Chaque petit pas vers les autres est une victoire, et l'aisance sociale se construit avec patience et bienveillance envers soi-même.
 
 Si l'embarras ou l'anxiété sociale deviennent trop pesants et limitent votre quotidien, n'hésitez pas à vous tourner vers un professionnel de la santé mentale. Un psychologue pourra vous proposer un accompagnement sur mesure, notamment à travers les thérapies cognitives et comportementales, pour vous aider à retrouver sérénité et confiance dans vos échanges.
+
+Sources : [Feinberg, Willer et Keltner, 2012](https://pubmed.ncbi.nlm.nih.gov/21928915/) ; [NICE, recommandations sur l’anxiété sociale](https://www.nice.org.uk/Guidance/CG159/chapter/recommendations).

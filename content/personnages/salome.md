@@ -18,8 +18,8 @@ draft: false
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Sortir de ses schémas répétitifs</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/salome-nom-maniere-adressee/">Reconnaissance du nom : Salomé précise comment lui parler</a></h3>
-    <p class="parcours-resume">Chez un fournisseur de bois, Salomé précise son prénom et ses accords féminins puis revient à sa commande sans ouvrir une biographie.</p>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/salome-nom-maniere-adressee/">Salomé demande qu’on l’appelle par son prénom</a></h3>
+    <p class="parcours-resume">Chez son fournisseur, Salomé précise son prénom et les accords féminins qu’elle utilise. Le vendeur corrige sa manière de l’appeler et elle revient à sa commande.</p>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/salome-nom-maniere-adressee/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
@@ -37,7 +37,7 @@ draft: false
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/salome-securite-adaptation-contexte/">Sécurité et contexte : Salomé adapte sa participation</a></h3>
-    <p class="parcours-resume">Après un commentaire hostile dans un couloir, Salomé affiche brièvement un signe conciliant pour terminer l’échange et rejoindre le hall. Elle demande ensuite un autre emplacement et identifie les appuis disponibles.</p>
+    <p class="parcours-resume">Après une remarque hostile dans le couloir, Salomé reste brièvement cordiale et rejoint le hall. Elle demande un autre emplacement et repère sur qui elle peut compter.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/salome-securite-adaptation-contexte/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">

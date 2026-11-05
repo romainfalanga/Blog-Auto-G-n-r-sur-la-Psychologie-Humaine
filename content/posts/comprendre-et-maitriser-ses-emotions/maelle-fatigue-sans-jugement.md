@@ -31,7 +31,7 @@ Il existe aussi d'autres causes possibles à une fatigue. Ce récit n'autorise p
 
 La bienveillance envers soi n'est pas non plus une obligation de penser positivement. Maëlle peut trouver cette fatigue injuste, être agacée et regretter l'énergie qui lui manque. Elle essaie seulement de ne pas ajouter à la difficulté physique un procès sur la personne qu'elle est. Cela laisse davantage de place pour décider ce qu'elle peut faire maintenant.
 
-## Comment le jugement transforme-t-il une fatigue ordinaire ?
+## Comment le jugement change-t-il le vécu de la fatigue ?
 
 ### Une difficulté locale devient une identité
 

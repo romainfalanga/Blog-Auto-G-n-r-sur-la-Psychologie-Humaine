@@ -1,7 +1,7 @@
 ---
 title: "Comparaison injuste en situation de compétition : s'en libérer"
 date: 2026-05-12T05:45:12+00:00
-description: "Stéphane apprend à repérer et désamorcer la comparaison injuste en situation de compétition grâce à 3 techniques concrètes ancrées dans son enfance."
+description: "À la salle de sport et au travail, Stéphane transforme parfois l'avance d'un autre en jugement sur lui-même. Des pistes pour comparer des choses comparables."
 categories: ["Reprendre le contrôle de ses pensées"]
 tags: ["comparaison injuste", "comparaison sociale", "compétition", "anxiété sociale", "psychologie"]
 slug: "comparaison-injuste-competition"
@@ -13,18 +13,18 @@ contexte: "en situation de compétition"
 draft: false
 ---
 
-La salle de musculation résonne d'un cliquetis métallique. Stéphane frotte le manche d'une barre et sent la gomme rugueuse sous ses doigts, puis regarde l'homme à côté de lui, un homme de son âge dont la silhouette affine et la posture assurée déclenchent instantanément une série d'images. Aujourd'hui, 12 mai 2026, il observe en silence, tandis que la sueur perle au-dessus de sa tempe grisonnante, et remarque combien chaque mouvement de cet inconnu réactive une vieille habitude : se comparer, se mesurer, se juger moins bien.
+La salle de musculation résonne d'un cliquetis métallique. Stéphane frotte le manche d'une barre et sent la gomme rugueuse sous ses doigts, puis regarde l'homme à côté de lui, un homme de son âge dont la silhouette élancée et la posture assurée déclenchent instantanément une série d'images. Aujourd'hui, 12 mai 2026, il observe en silence, tandis que la sueur perle au-dessus de sa tempe grisonnante, et remarque combien chaque mouvement de cet inconnu réactive une vieille habitude : se comparer, se mesurer, se juger moins bien.
 
 Il se souvient du déjeuner chez ses parents, il y a quelques semaines, quand la rationalisation remontait à la surface et qu'il justifiait son stress au travail devant sa mère. Il visualise aussi la réunion du 9 mars où le directeur commercial a félicité un autre collègue, et la façon dont ce moment a réactualisé l'ombre de son frère Philippe. Ces images se superposent à la vision du sportif en face de lui, et la comparaison n'est plus seulement physique, elle engloutit son histoire d'enfant et ses anciens classements fraternels. Cette sensation de petitesse est la même que celle ressentie face au profil Instagram d'Antoine, où l'effet de halo lui faisait croire que la réussite d'un autre annulait sa propre valeur.
 
 Un claquement sec signale la fin d'une série d'exercices. Stéphane range sa serviette, entend le rire bref de l'autre homme qui parle au téléphone et ressent une crispation familière qui n'ose pas se montrer au grand jour au bureau. Il sait comment, au travail, la même mécanique transforme un succès d'un collègue en preuve silencieuse de son insuffisance. Son masque social reste intact : poignée de main ferme, costume bien coupé quand il retourne à l'agence. À l'intérieur, il trame déjà des scénarios pour la prochaine grande réunion. Il repense aux stratégies qu'il a testées depuis mars et se demande lesquelles pourront l'aider à sortir de cette spirale de comparaison injuste en situation de compétition.
 
 ## Définition de la comparaison injuste
-La comparaison injuste est la tendance à se mesurer systématiquement à des personnes ou à des critères qui créent un écart perçu démesuré, souvent au détriment de l'estime de soi. Le phénomène s'appuie sur la théorie de la comparaison sociale développée par Leon Festinger en 1954 qui explique que les êtres humains évaluent leurs opinions et capacités en se référant aux autres.
+La « comparaison injuste » désigne ici une comparaison qui néglige le contexte ou transforme un résultat ponctuel en verdict sur soi. Dans sa [théorie de la comparaison sociale](https://journals.sagepub.com/doi/10.1177/001872675400700202), Leon Festinger propose que nous évaluions certaines de nos opinions ou capacités en nous référant aux autres.
 
-Des psychologues comme Jerry Suls et Thomas Wills ont ensuite distingué comparaison ascendante, se comparer à quelqu'un jugé meilleur, et descendante, se comparer à quelqu'un jugé moins bien, montrant que la comparaison ascendante, si elle est fréquente et non contextualisée, augmente le stress et le sentiment d'inadéquation. Des recherches plus récentes confirment que, en contexte compétitif, les comparaisons ascendantes répétées sont liées à une détérioration du bien-être professionnel et à une augmentation de l'anxiété liée à la performance.
+Se comparer à quelqu'un qui semble plus avancé peut décourager ou donner une piste. Dans les [expériences de Lockwood et Kunda](https://doi.org/10.1037/0022-3514.73.1.91), les effets variaient notamment selon que la réussite paraissait accessible. Il ne s'agit pas d'un effet uniforme de la compétition.
 
-Dans le cas de Stéphane, la comparaison injuste n'est pas seulement un réflexe social : elle réactive des blessures familiales anciennes, comme la rivalité avec son frère Philippe, et nourrit son syndrome de l'imposteur. Comprendre cela, c'est accepter que la comparaison a une histoire et des déclencheurs précis, et que l'on peut agir sur ses conséquences.
+Stéphane pense à la rivalité avec Philippe quand un collègue est félicité. Le récit montre ce souvenir en train de revenir, sans en faire une explication générale de la comparaison.
 
 ## Manifestations de la comparaison injuste en situation de compétition
 ### 1. Comparaison ascendante automatique et évaluation globale
@@ -38,18 +38,18 @@ Une autre manifestation est la minimisation systématique de ses propres succès
 Après une bonne présentation, il note mentalement trois détails à améliorer et un seul point positif, ce qui entretient l'angoisse avant la suivante.
 
 ### 3. Lecture hostile des intentions des autres et sentiment d'injustice
-La comparaison injuste en compétition favorise aussi le biais d'attribution négative : on interprète les succès des autres comme immérités, on se sent lésé. Cela ressemble à ce qu'il a ressenti face à Marc lors de la réunion du 13 avril, où il jugeait la responsabilité du retard sans considérer les facteurs externes. En compétition, cette lecture hostile renforce l'amertume et la rumination.
+Stéphane peut avoir envie d'expliquer le succès d'un collègue par une faveur. Si un critère a réellement été appliqué de manière inégale, il peut le nommer et poser une question ; le sentiment d'injustice ne tranche pas la question à lui seul.
 
 Il peut interpréter un compliment porté à un pair comme une dévalorisation implicite, ce qui alimente des pensées suggérant qu'on essaie de le placer en second plan.
 
 ## Techniques pour reprendre le contrôle
-### 1. Recontextualiser la comparaison : l'exercice des quatre raisons
+### 1. Recontextualiser une comparaison
 L'objectif est de transformer une comparaison ascendante automatique en une observation factuelle et utile.
 
 Exercice concret :
 1. Quand une pensée de comparaison surgit, arrêter l'histoire mentale et noter la pensée précise sur un carnet.
-2. Pour cette pensée, écrire quatre éléments : la donnée observable (chiffre, fait), trois facteurs contextuels possibles (ressources, timing, réseau), une preuve contraire (un indicateur qui montre votre compétence) et une action utile à mener (petit ajustement concret).
-3. Lire à voix haute ces éléments pendant 60 secondes avant toute réaction.
+2. Noter la donnée observable, ce qui rend les situations différentes, ce qu'on ignore et une action utile s'il y en a une.
+3. Relire la note si elle est utile ; il n'y a pas de délai à respecter.
 
 Cela réduit l'amalgame entre un résultat isolé et une valeur personnelle. Stéphane peut réutiliser ici son acquis de mars sur la reconnaissance des déclencheurs et la nomination des émotions, en remplaçant l'histoire intérieure par des faits mesurables.
 
@@ -71,10 +71,10 @@ Exercice concret :
 2. Décrire ensuite ce que penserait une personne bienveillante mais honnête à propos de vos actions et de celles des autres.
 3. Noter une action concrète issue de cette lecture, par exemple poser une question claire ou partager une donnée, et s'engager à l'exécuter.
 
-Ce protocole empêche l'escalade émotionnelle en créant un décalage mental. Stéphane peut associer cela à ses connaissances sur l'effet de halo et le biais d'attribution : souvent, ce qu'il voit n'est pas aussi globalement positif ou négatif qu'il le ressent.
+Ce détour peut aider Stéphane à formuler une question plutôt qu'une accusation. La réaction de ses collègues reste ouverte.
 
 ## Évolution du personnage : Stéphane redéfinit ses critères
-Dans la semaine qui suit sa séance du 12 mai, Stéphane installe son carnet de preuves sur la table du salon. Sandrine le remarque pendant qu'il dresse la liste des trois petites victoires de la semaine, et il lui décrit l'exercice en citant la réunion du 9 mars comme point de référence. Il utilise maintenant la technique des quatre raisons avant d'ouvrir la porte de la salle de réunion, et il formule désormais une hypothèse contextuelle à voix haute avant de juger un collègue. Il a cessé d'appeler sa mère au moindre revers, préférant noter ses émotions dans son carnet pour rester dans sa posture d'adulte plutôt que de basculer dans la régression.
+Dans la semaine qui suit sa séance du 12 mai, Stéphane installe son carnet de preuves sur la table du salon. Sandrine le remarque pendant qu'il dresse la liste des trois petites victoires de la semaine, et il lui décrit l'exercice en citant la réunion du 9 mars comme point de référence. Il utilise maintenant ce retour aux faits avant d'ouvrir la porte de la salle de réunion, et il formule désormais une hypothèse contextuelle à voix haute avant de juger un collègue. Il a cessé d'appeler sa mère au moindre revers, préférant noter ses émotions dans son carnet pour rester dans sa posture d'adulte avant de choisir à qui il souhaite parler.
 
 Au travail, face à Marc et à un nouveau dossier, il applique le miroir contextuel : il décrit sobrement les faits, propose une action commune et s'abstient de la lecture hostile qui le poussait auparavant à blâmer. Lors de la présentation d'un plan, au lieu de neutraliser toute joie intérieure, il relit sa fiche de preuves et annonce une compétence qu'il mettra en avant. Ce rituel le stabilise. Il n'est pas immunisé contre l'angoisse, mais il gagne en clarté sur l'origine de ses pensées.
 
@@ -86,4 +86,4 @@ La comparaison injuste, surtout en situation de compétition, n'est pas une fata
 
 Si vous vous reconnaissez dans ces comparaisons qui altèrent le plaisir et la confiance, commencez par un geste concret : notez aujourd'hui une réussite vérifiable et la compétence qui l'a permise. Si ces schémas vous bloquent malgré vos efforts, consulter un professionnel de la santé mentale peut vous offrir un espace sécurisé pour explorer ces dynamiques plus profondément et construire des stratégies sur mesure.
 
-Changer la manière dont vous vous comparez peut transformer vos relations, votre performance et votre quotidien.
+Stéphane peut parfois garder de la comparaison une information utile, sans en tirer un classement de toute sa personne.

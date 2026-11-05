@@ -23,7 +23,7 @@ Aline connaît déjà cette distinction depuis le prêt de la perceuse à Bastie
 
 Une aide souhaitée est une proposition de soutien dont la forme et l’étendue correspondent à ce que la personne accepte dans la situation présente. Le souhait peut porter sur un conseil, un geste partagé, une intervention complète ou simplement un temps d’écoute. Il peut aussi évoluer au cours de la rencontre ; un accord initial ne donne pas nécessairement carte blanche pour tout décider.
 
-Les recherches de Weinstein et Ryan sur les motivations de l’aide rappellent l’importance du sentiment de choix pour les personnes impliquées. Leur travail ne fournit pas une procédure universelle pour chaque atelier. Il soutient néanmoins une question utile : l’intervention laisse-t-elle aux deux personnes la possibilité d’agir volontairement, ou l’une se sent-elle poussée à donner ou recevoir davantage qu’elle ne le souhaite ?
+Weinstein et Ryan étudient surtout les raisons pour lesquelles une personne aide et leurs liens avec l’expérience de celle qui aide et de celle qui reçoit. Ces études ne déterminent pas comment vérifier l’accord d’Hélène. Dans cet atelier, Aline peut lui demander quel geste elle accepte et s’assurer qu’elle peut changer d’avis.
 
 Aline ne doit pas obtenir une permission solennelle avant chaque parole. Une question simple peut suffire dans une interaction ordinaire : « Tu préfères que je te montre, qu’on regarde ensemble ou que je te laisse essayer ? » L’objectif est de comprendre la demande, pas de transformer un dépannage en formulaire. Le ton et le temps laissé à la réponse comptent autant que le choix des mots.
 

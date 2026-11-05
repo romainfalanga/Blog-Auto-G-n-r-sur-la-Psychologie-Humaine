@@ -1,19 +1,19 @@
 ---
-title: "Syndrome du sauveur : Aline aide sans s’effacer"
+title: "« Syndrome du sauveur » : une expression courante"
 date: 2026-09-01T08:00:00+00:00
-description: "À la quincaillerie et dans son association, Aline apprend à proposer une aide choisie, avec des limites et une place pour elle."
+description: "L’expression « syndrome du sauveur » ne désigne pas un diagnostic. Aline apprend à aider sans tout prendre en charge ni oublier ses limites."
 categories: ["Sortir de ses schémas répétitifs"]
 tags: ["rôle de sauveur", "entraide", "limites", "autonomie", "réciprocité", "association"]
 slug: "aline-sauveur-aider-sans-effacer"
 personnage: "Aline"
-sujet: "Syndrome du sauveur : aider sans s’effacer"
+sujet: "L’expression « syndrome du sauveur » et l’aide sans s’effacer"
 contexte: "dans l’entraide associative"
 episode: 1
 editorial_pack: psychology-v10
 draft: false
 ---
 
-Le syndrome du sauveur ne figure pas sur l’inventaire qu’Aline tient contre sa poitrine. Pourtant, ce mardi, il semble occuper toutes les cases. À trente-neuf ans, la responsable de quincaillerie termine sa journée parmi des cartons de poignées de porte. Le local associatif doit accueillir une permanence de réparation samedi. La coordinatrice, Claire, cherche une personne pour transporter les établis. Aline propose déjà sa voiture avant de demander l’heure du rendez-vous.
+Aline tient l’inventaire contre sa poitrine. Ce mardi, chaque case semble lui rappeler un service qu’elle pourrait rendre, et qu’elle se sent déjà tenue de rendre. À trente-neuf ans, la responsable de quincaillerie termine sa journée parmi des cartons de poignées de porte. Le local associatif doit accueillir une permanence de réparation samedi. La coordinatrice, Claire, cherche une personne pour transporter les établis. Aline propose déjà sa voiture avant de demander l’heure du rendez-vous.
 
 Elle connaît ce mouvement rapide : une difficulté apparaît et ses mains cherchent immédiatement une solution. Réparer, trouver le bon contact, avancer les frais, remplacer quelqu’un. L’association compte sur ses compétences, qui sont réelles. Elle apprécie de transmettre un geste et de rendre un lieu accueillant. Mais son compagnon, Étienne, l’attend samedi pour une randonnée qu’ils préparent ensemble. Elle transforme intérieurement cette sortie en luxe facultatif, puis se reproche son agacement.
 
@@ -21,7 +21,7 @@ Un autre message arrive dans la conversation collective. Bastien, nouveau béné
 
 ## Qu’est-ce que le syndrome du sauveur ?
 
-Le syndrome du sauveur est une expression courante qui décrit une manière de se rendre excessivement responsable des difficultés d’autrui, parfois au prix de ses propres besoins ou de la liberté de la personne aidée. Ce n’est pas, en lui-même, un diagnostic médical. Le terme rassemble des situations différentes et ne permet pas de conclure à une cause unique.
+Le syndrome du sauveur est une expression courante qui décrit une manière de se rendre excessivement responsable des difficultés d’autrui, parfois au prix de ses propres besoins ou de la liberté de la personne aidée. Cette expression ne désigne pas un diagnostic médical. Le terme rassemble des situations différentes et ne permet pas de conclure à une cause unique.
 
 Chez Aline, l’aide n’est ni fausse ni inutile. Les établis doivent effectivement être déplacés. La quincaillerie lui donne des compétences recherchées et l’association manque de moyens. Le problème se situe dans la transformation d’une possibilité en obligation personnelle : si elle sait faire quelque chose, elle pense devoir le faire. La phrase laisse peu de place aux autres bénévoles, au temps disponible et à son envie réelle.
 
@@ -93,10 +93,10 @@ Le vendredi, elle arrive au local pour la demi-heure annoncée. Un carton de vis
 
 ---
 
-Le syndrome du sauveur peut devenir un repère utile lorsqu’il permet d’examiner une façon d’aider, sans réduire une personne à une étiquette. L’enjeu est de distinguer la demande réelle, la responsabilité choisie et les besoins que l’on rend habituellement invisibles. Le contexte matériel et la répartition des tâches méritent autant d’attention que les habitudes individuelles.
+L’expression « syndrome du sauveur » peut servir à parler d’une façon d’aider sans réduire la personne à une étiquette. L’enjeu est de distinguer la demande réelle, la responsabilité choisie et les besoins que l’on rend habituellement invisibles. Le contexte matériel et la répartition des tâches méritent autant d’attention que les habitudes individuelles.
 
 Aline ne renonce pas à la solidarité. Elle découvre une aide qui laisse de la place à l’initiative d’autrui, au collectif et à sa propre vie. Un délai, une question et une proposition délimitée ne règlent pas tout. Ils peuvent néanmoins ouvrir une relation où la présence ne dépend plus de la disponibilité permanente.
 
 Si le besoin de tout prendre en charge entraîne une fatigue importante, des conflits répétés ou une détresse persistante, un psychologue ou un autre professionnel peut aider à comprendre ce fonctionnement. Un soutien associatif ou une réorganisation concrète peut également être nécessaire. Vous avez le droit de chercher plusieurs appuis et de conserver ce qui vous relie aux autres.
 
-Sources : [Ryan et Deci, présentation de la théorie de l’autodétermination](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf).
+Sources : [Ryan et Deci, présentation de la théorie de l’autodétermination](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf) ; [Cleveland Clinic, le sens courant de l’expression « savior complex »](https://health.clevelandclinic.org/savior-complex).

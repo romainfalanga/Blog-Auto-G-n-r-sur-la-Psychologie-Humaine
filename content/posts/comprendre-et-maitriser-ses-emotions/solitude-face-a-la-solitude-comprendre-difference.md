@@ -21,9 +21,9 @@ Bernard éteint la radio qui diffusait un jazz lointain. Le vide l'envahit d'un 
 
 ## Définition de la solitude et du sentiment d'isolement
 
-La solitude est un état subjectif de détresse émotionnelle qui survient lorsqu'une personne perçoit un écart entre les relations sociales qu'elle désire et celles qu'elle possède réellement. Contrairement à l'isolement social qui est une mesure objective du nombre de contacts, la solitude est une expérience interne douloureuse. Le psychologue John Cacioppo définit cet état comme une alarme biologique signalant que notre besoin fondamental de connexion n'est pas rempli, de la même manière que la faim signale un besoin de nourriture.
+Le sentiment de solitude correspond à un écart ressenti entre les liens que l’on souhaite et ceux dont on dispose. L’isolement social désigne le fait d’avoir peu de contacts ou de liens. On peut se sentir seul en groupe ou apprécier un temps passé seul.
 
-Scientifiquement, cet état active les mêmes zones cérébrales que la douleur physique. Pour un homme comme Bernard, cette situation se complique d'une distinction cruciale entre la solitude positive, appelée solitude choisie, et la solitude subie. La première permet la réflexion et la créativité, tandis que la seconde érode la santé mentale et physique sur le long terme.
+La recherche distingue ces expériences car elles ne se recouvrent pas toujours. Pour Bernard, l’atelier est parfois un lieu de calme et parfois un endroit où le contact lui manque.
 
 ## Manifestations de la solitude chez l'individu
 
@@ -31,9 +31,9 @@ Scientifiquement, cet état active les mêmes zones cérébrales que la douleur 
 
 Chez Bernard, la solitude se manifeste d'abord par une tendance à transformer l'atelier en une forteresse. Au début, après le départ d'Hélène, rester seul était une protection nécessaire contre la pitié des autres ou l'obligation de parler de sa douleur. Cependant, avec le temps, cet isolement protecteur s'est transformé en un retrait social automatique. Il refuse les invitations de son voisin Marcel non pas parce qu'il n'a pas envie de le voir, mais parce qu'il a perdu l'habitude du mécanisme de la conversation. Le silence est devenu sa zone de confort, mais une zone de confort qui l'étouffe. Ce comportement est le prolongement direct de l'inhibition qu'il pratiquait enfant pour éviter les foudres de ses parents : en ne disant rien, il pensait ne rien risquer, oubliant que le vide est aussi une forme de souffrance.
 
-### L'attachement excessif aux objets et au passé
+### Les objets qui rappellent un proche
 
-Une autre manifestation courante est le transfert d'affection vers les objets inanimés ou les souvenirs. Pour Bernard, chaque meuble qu'il restaure est une conversation fantôme avec le passé. Il entretient un rapport presque charnel avec les outils d'Hélène ou les vieux buffets qu'il répare, car ces objets ne le rejettent pas et n'exigent pas de vulnérabilité. Cet ancrage dans le passé crée un décalage avec le présent, notamment avec son fils Éric qui représente une réalité vivante, mouvante et parfois conflictuelle qu'il ne sait plus gérer. Travailler le bois est devenu une béquille pour son surcontrôle émotionnel, une manière de transformer l'angoisse du lien humain en une matière solide et prévisible.
+Bernard tient aux meubles qu’il a fabriqués et aux outils d’Hélène. Les objets peuvent conserver une place dans le souvenir ou servir d’invitation à un échange. Leur importance n’est pas un signe de solitude ; Bernard se demande seulement quels liens lui manquent aujourd’hui.
 
 ### La sensation de déconnexion malgré la présence d'autrui
 
@@ -47,7 +47,7 @@ Cette technique consiste à nommer l'état dans lequel on se trouve pour reprend
 
 ### 2. La technique du micro-lien social
 
-Pour les personnes qui ont du mal avec les grandes discussions émotionnelles, la technique du micro-lien est idéale. Elle repose sur l'idée de cultiver des interactions brèves et sans enjeu pour réactiver les circuits sociaux du cerveau. L'exercice est simple : engager une conversation de moins de deux minutes avec une personne croisée dans la journée, comme le boulanger, le facteur ou un voisin. Il ne s'agit pas de parler de soi, mais de poser une question ouverte sur l'autre ou sur l'environnement immédiat. Ces petites touches de connexion humaine réduisent le sentiment d'invisibilité sociale.
+Si vous avez envie d’un échange bref, vous pouvez saluer un voisin, prendre des nouvelles d’un proche ou proposer une activité qui vous plaît. Les possibilités dépendent aussi de l’accès aux lieux, des horaires, de la mobilité et de l’accueil qu’on y trouve.
 
 ### 3. La lettre de l'objet médiateur
 
@@ -68,3 +68,5 @@ La transition entre une solitude choisie et un isolement subi est souvent invisi
 S'ouvrir au monde après une longue période de repli demande de la patience et de la bienveillance envers soi-même. Une simple phrase, un geste vers un proche ou une interaction anodine avec un inconnu sont autant de fils que vous tissez pour reconstruire votre sécurité émotionnelle. L'essentiel est de recommencer à exister aux yeux d'autrui, sans chercher à tout transformer immédiatement.
 
 Si le poids de la solitude devient trop lourd à porter ou s'accompagne d'un sentiment de désespoir persistant, solliciter l'aide d'un professionnel de santé ou d'un psychologue est une démarche utile. La parole est un outil puissant qui permet de restaurer les liens que l'on pensait brisés. Il existe toujours un moyen de retrouver le chemin vers les autres, une étape après l'autre.
+
+Sources : [National Academies, isolement social et solitude](https://www.nationalacademies.org/read/25663/chapter/2).

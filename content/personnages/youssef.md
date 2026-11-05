@@ -1,7 +1,7 @@
 ---
 title: "Youssef"
 date: 2026-10-30T08:24:22+00:00
-description: "Youssef est un ingénieur en informatique en fin d'arrêt maladie, confronté au décès récent de son père alors qu'il prépare son déménagement à Lyon. Il réalise que sa logique rationnelle est impuissante face au choc sensoriel et émotionnel du deuil."
+description: "Ingénieur informatique, Youssef prépare son déménagement à Lyon et cherche des mots pour parler du décès de son père."
 slug: "youssef"
 prenom: "Youssef"
 date_naissance: "1996-08-14"
@@ -18,43 +18,43 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple/">Alexithymie en couple : comprendre et agir au quotidien</a></h3>
     <div class="parcours-date">2026-03-15</div>
-    <p class="parcours-resume">Quand Léa lui demande ce qu'il a ressenti à l'annonce de la mutation de Nicolas, Youssef répond simplement « C'est logique. » Il compte les craquelures de sa tasse pendant qu'elle cherche son regard, incapable de nommer les émotions que ses proches attendent de lui.</p>
+    <p class="parcours-resume">La lumière grise du matin traverse les stores et dessine des rayures sur le parquet. Youssef est assis à la table de la cuisine, une tasse de café tiède entre les mains.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Youssef identifie son alexithymie partielle, comprenant que sa tendance à intellectualiser ses ressentis est un héritage culturel et familial transmis par son père Hamid.</p>
+      <p>Toujours assis à table, alors que sa tasse refroidit, Youssef se souvient de ses récentes découvertes. Le 7 mars, il avait appris à repérer ses projections sur les autres, et le 8 mars, il s&#x27;était exercé à questionner ses certitudes mentales.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/alexithymie-en-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-enfants/">Exigences élevées et critique excessive avec ses enfants</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-enfants/">Exigences élevées : quand corriger prend le pas sur le jeu</a></h3>
     <div class="parcours-date">2026-03-18</div>
-    <p class="parcours-resume">Youssef observe son neveu jouer chez lui sous le regard de sa compagne Léa. En intervenant de manière rigide pour corriger l'alignement des jouets de l'enfant, il réalise que son besoin de perfection étouffe la spontanéité de son entourage.</p>
+    <p class="parcours-resume">Le plastique rouge du camion de pompiers heurte le carrelage de la cuisine avec un bruit sec. Youssef observe son neveu de quatre ans, le fils de sa sœur aînée, qui tente désespérément d&#x27;aligner une file de voitures miniatures le long d&#x27;une ligne imaginaire.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Il prend conscience que son exigence extrême est un héritage de son père, Hamid, et que cette rigidité, autrefois vue comme une force professionnelle, est devenue une prison émotionnelle menaçante pour son futur projet de famille.</p>
+      <p>La semaine suivante, Youssef se retrouve à nouveau avec son neveu dans le jardin de ses parents. Le petit garçon a décidé de transvaser de l&#x27;eau d&#x27;un seau vers un bac à sable.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-enfants/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-projection-en-couple-comprendre-autre/">Biais de projection en couple : mieux comprendre l'autre</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-projection-en-couple-comprendre-autre/">Projection sociale en couple : écouter avant de supposer</a></h3>
     <div class="parcours-date">2026-03-22</div>
-    <p class="parcours-resume">Alors que Léa cherche avec enthousiasme un nouvel appartement, Youssef interprète son excitation comme du stress et tente de la calmer de manière clinique. Face à l'incompréhension de sa compagne, il réalise qu'il a projeté sa propre insécurité face au changement sur elle.</p>
+    <p class="parcours-resume">Youssef ajuste ses lunettes devant l&#x27;écran de son ordinateur portable, mais ses yeux ne lisent pas les lignes de code habituelles. À côté de lui, dans leur salon baigné par une lumière grise de fin d&#x27;après-midi, Léa fait défiler des annonces immobilières sur sa tablette avec une rapidité qui…</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Youssef prend conscience de son biais de projection, comprenant qu'il utilise son propre ressenti comme unique grille de lecture pour analyser les émotions de Léa afin de masquer son propre besoin de contrôle.</p>
+      <p>Youssef lâche doucement l&#x27;épaule de Léa et s&#x27;assoit sur le tapis, à ses pieds. Il ne cherche plus à lui imposer son calme artificiel.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-projection-en-couple-comprendre-autre/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-ancrage-decision-importante/">Biais d'ancrage face à une décision importante : le repérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-ancrage-decision-importante/">Biais d&#x27;ancrage face à une décision importante : le repérer</a></h3>
     <div class="parcours-date">2026-03-26</div>
-    <p class="parcours-resume">Youssef reçoit une proposition de mutation interne pour diriger une équipe à Lyon avec un salaire de 48 000 euros. Alors qu'il tente d'analyser froidement l'offre, il réalise que ce premier chiffre et les commentaires de ses collègues influencent de manière disproportionnée sa réflexion.</p>
+    <p class="parcours-resume">Il est midi quand Youssef referme la porte du parking de l&#x27;immeuble, la carte magnétique accrochant encore à son porte-clés. Il tient dans sa main l&#x27;e-mail qui vient d&#x27;arriver : une proposition interne pour diriger une équipe à Lyon, avec un package salarial chiffré en première ligne.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Conscient de son alexithymie et de sa tendance à l'intellectualisation, Youssef identifie comment le biais d'ancrage et son héritage familial (la rigidité de son père Hamid) limitent sa perception de la réalité et ses choix de carrière.</p>
+      <p>Aujourd&#x27;hui, fin mars, il relit l&#x27;e-mail dans l&#x27;appartement. Léa prépare le dîner dans la cuisine ouverte, et leurs voix se croisent sans heurt.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-ancrage-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -62,10 +62,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/suppression-emotionnelle-reevaluation-cognitive-couple/">Suppression émotionnelle ou réévaluation cognitive en couple</a></h3>
     <div class="parcours-date">2026-04-03</div>
-    <p class="parcours-resume">Lors d'un dîner dans une brasserie parisienne le 3 avril 2026, Youssef fait face aux doutes de sa compagne Léa concernant leur futur déménagement à Lyon. Au lieu d'accueillir la vulnérabilité de Léa, il se mure dans une froideur mathématique et intellectualise la situation pour masquer sa propre angoisse.</p>
+    <p class="parcours-resume">Le brouhaha de la brasserie parisienne semble s&#x27;estomper autour de la table ronde où Youssef est assis en face de Léa. Ce soir du 03 avril 2026, l&#x27;air est doux, mais une tension invisible électrise l&#x27;espace entre eux.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Youssef commence à prendre conscience de son alexithymie et du coût de sa suppression émotionnelle, réalisant que son 'masque de marbre' crée une barrière avec Léa plutôt que de la protéger. Il entrevoit la réévaluation cognitive comme une alternative pour transformer ses perceptions défensives en empathie.</p>
+      <p>De retour dans leur appartement, le silence n&#x27;est plus aussi pesant qu&#x27;avant. Youssef retire ses chaussures et observe Léa qui s&#x27;installe sur le canapé, un livre à la main mais le regard perdu dans le vide.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/suppression-emotionnelle-reevaluation-cognitive-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -73,10 +73,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/confusion-emotionnelle-avec-ses-parents-comprendre/">Confusion émotionnelle avec ses parents : comprendre ce flou</a></h3>
     <div class="parcours-date">2026-04-09</div>
-    <p class="parcours-resume">Youssef rend visite à ses parents, Leïla et Hamid, dans leur cuisine familiale. Face à la vulnérabilité émotionnelle de sa mère et à la pudeur silencieuse de son père, il se retrouve incapable d'identifier ses propres sentiments, plongeant dans un brouillard intérieur malgré ses récents progrès avec Léa.</p>
+    <p class="parcours-resume">Le carrelage de la cuisine de sa mère, Leïla, brille sous l&#x27;éclat de la lumière d&#x27;avril. Youssef est assis à la table en bois, les mains posées à plat sur la nappe en toile cirée.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Youssef identifie son mécanisme de confusion émotionnelle : il comprend qu'il utilise l'intellectualisation et la précision technique (calculs mentaux, analyse des chiffres) comme boucliers pour compenser son incapacité à nommer ses émotions face aux attentes familiales.</p>
+      <p>Assis dans la cuisine, Youssef sent que la pression dans sa poitrine ne diminue pas, mais il décide de ne plus l&#x27;ignorer en comptant les gouttes du robinet. Il applique la cartographie sensorielle.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/confusion-emotionnelle-avec-ses-parents-comprendre/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -84,10 +84,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/ambivalence-emotionnelle-reconversion-professionnelle-burn-out/">Ambivalence émotionnelle et reconversion professionnelle</a></h3>
     <div class="parcours-date">2026-04-19</div>
-    <p class="parcours-resume">En arrêt pour épuisement professionnel le 19 avril 2026, Youssef hésite à signer sa lettre de démission malgré son désir de lancer un projet de conseil en éthique numérique. Face à sa compagne Léa, il dissimule son tiraillement intérieur entre son besoin de liberté et la peur de trahir l'héritage social de son père, Hamid.</p>
+    <p class="parcours-resume">Youssef fixe l&#x27;écran de son ordinateur professionnel, mais les lignes de code se brouillent. Dans le reflet de la fenêtre de son appartement parisien, son regard calme trahit une lassitude profonde.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Youssef identifie son ambivalence émotionnelle comme la source de sa paralysie, comprenant que son besoin de perfection et son héritage familial entrent en conflit avec sa volonté de reconversion.</p>
+      <p>Assis à sa table de travail, Youssef pose son stylo. Il vient de terminer son premier exercice de cartographie émotionnelle.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/ambivalence-emotionnelle-reconversion-professionnelle-burn-out/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -95,21 +95,21 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-representativite-decision-importante-youssef/">Biais de représentativité face à une décision importante</a></h3>
     <div class="parcours-date">2026-04-23</div>
-    <p class="parcours-resume">En arrêt pour épuisement professionnel, Youssef hésite entre un poste sécurisant en banque et son projet de conseil en éthique numérique lors d'un footing au canal de l'Ourcq. En observant des entrepreneurs en terrasse, il se sent illégitime car il ne correspond pas au stéréotype de l'extraverti sûr de lui.</p>
+    <p class="parcours-resume">Youssef ajuste ses écouteurs alors que ses baskets frappent le bitume humide du canal de l&#x27;Ourcq. En ce 23 avril 2026, l&#x27;air printanier est encore frais, mais la sueur perle déjà sur son front après cinq kilomètres de course.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Youssef identifie que son blocage est cognitif : il réalise qu'il utilise le biais de représentativité pour juger sa propre viabilité professionnelle en se basant sur des clichés plutôt que sur ses compétences réelles.</p>
+      <p>Assis sur son banc, Youssef reprend son carnet et commence à appliquer la technique de déconstruction du prototype. Il écrit en haut de la page : Qu&#x27;est-ce qu&#x27;un expert en éthique numérique ?</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-representativite-decision-importante-youssef/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/granularite-emotionnelle-en-couple-comprendre-ressentis/">Granularité émotionnelle en couple : mieux nommer pour s'aimer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/granularite-emotionnelle-en-couple-comprendre-ressentis/">Granularité émotionnelle : trouver des mots plus précis</a></h3>
     <div class="parcours-date">2026-04-26</div>
-    <p class="parcours-resume">En arrêt pour épuisement professionnel, Youssef partage un moment de tension silencieuse avec sa compagne Léa dans leur appartement. Confronté à son incapacité habituelle à exprimer son ressenti au-delà d'un simple « bof », il tente de décomposer son malaise intérieur pour sortir de son mutisme habituel.</p>
+    <p class="parcours-resume">Le ciel de ce 26 avril 2026 est d&#x27;un gris métallique qui rappelle à Youssef la couleur de son ancien tableau de bord d&#x27;ingénieur. Assis sur le canapé en tissu chiné de l&#x27;appartement qu&#x27;il partage avec Léa, il observe les gouttes de pluie s&#x27;écraser contre la vitre.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Youssef prend conscience que son héritage paternel rigide et son alexithymie l'ont poussé à intellectualiser ses émotions par les chiffres. Il comprend que développer sa granularité émotionnelle est essentiel pour ne plus se murer dans le silence et pour se reconnecter réellement à Léa.</p>
+      <p>Youssef repose son regard sur Léa. Il se souvient de cette période, il y a encore quelques mois, où il aurait simplement dit qu&#x27;il était fatigué avant de partir courir pour évacuer la tension.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/granularite-emotionnelle-en-couple-comprendre-ressentis/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -117,32 +117,32 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/intellectualisation-au-travail-hpi-solutions/">Intellectualisation au travail : comment sortir du mental ?</a></h3>
     <div class="parcours-date">2026-05-05</div>
-    <p class="parcours-resume">Youssef, un ingénieur en fin d'arrêt maladie pour épuisement professionnel, reçoit un message de son manager pour organiser son entretien de reprise. Face à l'angoisse, il se réfugie immédiatement dans la création de graphiques Excel et l'analyse sémantique de l'e-mail pour rationaliser son retour.</p>
+    <p class="parcours-resume">Youssef ajuste ses lunettes devant l&#x27;écran de son ordinateur portable, installé à la table de la cuisine. En ce 5 mai 2026, l&#x27;appartement est baigné d&#x27;une atmosphère calme, loin du tumulte de l&#x27;open space qu&#x27;il a quitté il y a quelques semaines.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Youssef prend conscience que son recours systématique à la logique et aux chiffres est un mécanisme de défense hérité de son père pour masquer sa vulnérabilité. Il réalise qu'il traite sa vie comme un code à débugger, restant spectateur de ses propres émotions sans les ressentir.</p>
+      <p>Youssef repousse doucement son ordinateur. Le fichier Excel est toujours ouvert, mais il décide de ne pas remplir la cellule suivante.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/intellectualisation-au-travail-hpi-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/isolation-affect-conflit-comprendre-mecanisme/">Isolation de l'affect en conflit : comprendre ce mécanisme</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/isolation-affect-conflit-comprendre-mecanisme/">Isolation de l&#x27;affect en conflit : comprendre ce mécanisme</a></h3>
     <div class="parcours-date">2026-05-09</div>
-    <p class="parcours-resume">En plein déménagement vers Lyon, Youssef fait face aux reproches de sa compagne Léa dans leur appartement parisien. Face à la tension qui monte, il se détache émotionnellement de la dispute, analysant froidement les propos de Léa comme des données logistiques plutôt que de ressentir de la colère ou de la tristesse.</p>
+    <p class="parcours-resume">Youssef se tient immobile au milieu du salon encombré de cartons ouverts. Le ruban adhésif crisse sous ses doigts alors qu&#x27;il scelle une boîte destinée à leur futur appartement lyonnais.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Youssef identifie son recours à l'isolation de l'affect comme un mécanisme de défense inconscient hérité de son père. Il comprend qu'il transforme les conflits humains en équations logiques pour se protéger, tout en réalisant que ce silence clinique accroît la détresse de sa partenaire.</p>
+      <p>Assis sur le bord d&#x27;un carton rempli de ses essais de philosophie, Youssef observe Léa qui s&#x27;est tue, épuisée de heurter ce silence minéral. Il se concentre sur ses mains, notant la moiteur de ses paumes et la tension dans ses avant-bras.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/isolation-affect-conflit-comprendre-mecanisme/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/memoire-emotionnelle-lors-dun-deuil/">La mémoire émotionnelle lors d'un deuil : comprendre son impact</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/memoire-emotionnelle-lors-dun-deuil/">La mémoire émotionnelle lors d&#x27;un deuil : comprendre son impact</a></h3>
     <div class="parcours-date">2026-05-18</div>
-    <p class="parcours-resume">En plein déménagement de Paris vers Lyon avec sa compagne Léa, Youssef découvre une boîte appartenant à son père défunt, Hamid. Le contact avec cet objet et une vieille calculatrice déclenche un choc sensoriel et émotionnel violent qui paralyse ses mécanismes habituels de défense logique.</p>
+    <p class="parcours-resume">Youssef se tient immobile au milieu du salon encombré de cartons de déménagement. À vingt-neuf ans, il s&#x27;apprête à quitter Paris pour Lyon avec Léa, mais l&#x27;appartement semble soudain trop vaste, trop silencieux.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Youssef réalise que son armure d'intellectualisation et ses réflexes d'ingénieur sont impuissants face à la mémoire émotionnelle du deuil. Il commence à comprendre que la théorie et la logique ne suffisent pas pour traiter la douleur et qu'il doit accepter de vivre l'émotion plutôt que de chercher à la coder.</p>
+      <p>Youssef lâche doucement la boîte en bois. Il ne fuit pas dans une autre pièce et ne se lance pas dans un calcul complexe pour ignorer ce qu&#x27;il ressent, dépassant ainsi son ancien réflexe de confusion émotionnelle où il utilisait les chiffres comme bouclier.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/memoire-emotionnelle-lors-dun-deuil/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

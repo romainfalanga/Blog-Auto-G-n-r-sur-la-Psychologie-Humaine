@@ -109,4 +109,3 @@ Si les décisions provoquent une détresse durable ou une paralysie fréquente, 
 
 Sources :
 - [Maule et ses collègues, étude expérimentale sur la pression temporelle et la décision](https://pubmed.ncbi.nlm.nih.gov/10900697/)
-- [Mani et ses collègues, préoccupations financières et ressources cognitives](https://pubmed.ncbi.nlm.nih.gov/23990553/)

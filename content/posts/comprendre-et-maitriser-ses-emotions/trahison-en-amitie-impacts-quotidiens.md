@@ -21,9 +21,9 @@ Depuis ses précédents moments d'introspection, quand elle a commencé à recon
 
 ## Définition de la trahison en amitié
 
-La trahison en amitié est l'expérience où une confiance placée dans un ami est rompue de manière perçue comme injuste ou déloyale. Le concept renvoie à la rupture d'attentes implicites de soutien, de confidentialité ou de loyauté entre personnes proches. La psychologue Jennifer Freyd, connue pour la théorie du trauma de trahison, a montré que la trahison par une personne proche produit des réactions particulières parce qu'elle remet en cause des besoins fondamentaux de sécurité relationnelle. Des recherches en psychologie sociale indiquent que la trahison augmente le stress, favorise la méfiance et peut entraîner un retrait social, des symptômes anxieux ou des comportements d'évitement.
+On peut parler de trahison lorsqu’un engagement de confiance est rompu, par exemple quand une confidence est divulguée. Le sentiment de trahison peut aussi surgir alors que chacun n’avait pas compris la même chose. Les [travaux de Jennifer Freyd](https://dynamic.uoregon.edu/jjf/defineBT.html) sur le trauma de trahison concernent notamment les violences et violations graves de confiance ; ils n’établissent pas qu’une rencontre fortuite comme celle de Julie soit traumatique.
 
-Dans le cas de Priya, la trahison perçue ne vient pas d'une nouvelle interaction sentimentale avec Damien, mais d'un relais social : une amie de longue date qui évoque un hasard de rencontre. Cela révèle que pour elle la trahison est moins liée à un acte isolé qu'au réseau de loyautés et de promesses implicites qui structurent sa vie sociale. Elle se souvient de la manière dont elle s'était isolée après sa rupture à 25 ans, et elle réalise que son réflexe de désactivation du système d'attachement est prêt à se déclencher à nouveau pour la protéger de Julie.
+Priya a des raisons de ne pas vouloir que Damien sache quoi que ce soit sur sa vie actuelle. Elle peut nommer cette limite sans conclure d’emblée que Julie l’a franchie en lui parlant.
 
 ## Manifestations de la trahison en amitié
 
@@ -43,7 +43,7 @@ Une méthode utile consiste à écrire clairement ce qui s'est passé et les ém
 Exercice concret :
 - Notez la situation factuelle : qui a dit quoi, où, quand.
 - Distinguez les faits des interprétations : écrivez d'abord les éléments objectifs, puis à côté ce que vous supposez ou ressentez.
-- Tracez une carte de loyauté : qui sont les personnes impliquées, quels sont les liens de confiance existants et quelles attentes implicites ont été violées ?
+- Tracez une carte de loyauté : qui sont les personnes impliquées, quels sont les liens de confiance existants et quelles attentes étaient explicites, et qu’est-ce qui reste à éclaircir ?
 Mettre des mots et une structure sur l'événement réduit l'ampleur des interprétations automatiques et permet de voir si la réaction correspond à une blessure ancienne. Priya utilise déjà ce type d'exercice pour repérer ses déclencheurs depuis qu'elle explore son attachement évitant-dédaigneux. Ici, elle le transforme en outil pour décider si la rupture est ponctuelle ou symptomatique d'un schéma.
 
 ### 2. Communication calibrée et demande de clarification
@@ -54,13 +54,13 @@ Exercice concret :
 - Si l'échange devient trop chargé, proposez une pause et repassez à une discussion plus tard, ou écrivez une lettre que vous n'envoyez pas pour clarifier vos pensées.
 La clarification permet souvent de réduire l'incertitude qui alimente la rumination. Priya, qui tend à fermer la porte, s'entraîne à poser cette question simple sans se lancer dans une attaque. Elle a déjà pratiqué des formulations brèves pour gérer son anxiété, et l'outil lui sert maintenant dans la sphère amicale.
 
-### 3. Exposition relationnelle progressive et test de réalité
-Cette technique consiste à réintroduire graduellement des interactions contrôlées pour vérifier la réalité des craintes.
+### 3. Choisir la distance qui vous convient
+Priya peut choisir de parler brièvement à Julie si elle le souhaite, de différer la réponse ou de garder ses distances.
 Exercice concret :
-- Planifiez un test sûr : un appel de dix minutes avec l'amie concernée ou une rencontre en groupe court, sans aborder le sujet sensible.
+- Si vous décidez d’échanger, choisissez un format qui vous convient. Une conversation n’est pas un test de sécurité.
 - Avant l'échange, définissez votre objectif concret, par exemple écouter dix minutes sans chercher à prouver une trahison.
 - Après l'échange, notez ce qui est allé contre vos peurs et ce qui les a confirmées. Faites un bilan factuel.
-Les personnes évitantes peuvent surévaluer le risque relationnel. L'exposition progressive permet de collecter des données et d'ajuster la réaction émotionnelle. Priya peut utiliser ce protocole pour se réhabituer aux interactions sociales sans entrer dans une spirale de méfiance. Elle se rend compte que cette méthode est l'exact opposé de sa fuite habituelle dans le travail nocturne, une évolution majeure par rapport à sa gestion de l'anxiété passée.
+En cas de menaces, de pressions ou de risque que des informations circulent vers une personne violente, il est légitime de demander un appui. Vous n’avez pas à reprendre contact pour vérifier une crainte.
 
 ## Évolution de Priya et apaisement de la méfiance
 
@@ -76,6 +76,6 @@ Elle appelle sa sœur Anita pour partager ce progrès. La voix d'Anita, chaleure
 
 ---
 
-La trahison en amitié laisse des traces concrètes dans la vie quotidienne : baisse d'implication sociale, ruminations, renforcement des mécanismes d'évitement et parfois une réorientation professionnelle comme refuge. Comprendre ces mécanismes aide à sortir de l'impasse et à choisir des réponses moins dommageables sur le long terme. Les outils pratiques présentés ici peuvent aider à transformer une blessure en une information utile plutôt qu'en une condamnation définitive.
+Pour Priya, la rencontre évoquée par Julie a un effet réel, même si les deux amies n’avaient pas défini la même attente. Elles choisissent de se parler. Une autre personne pourrait garder ses distances, sans que ce choix prouve un problème d’attachement.
 
 Si vous vous reconnaissez dans l'histoire de Priya et que la trahison d'un ami influence votre travail, votre sommeil ou votre confiance en soi, sachez que des ressources existent. Consulter un psychologue ou un thérapeute permet d'explorer ces schémas avec un accompagnement adapté et de mettre en place des stratégies personnalisées. La douleur d'une trahison est réelle et mérite d'être prise au sérieux pour retrouver une vie sociale apaisée, même si la confiance se reconstruit lentement.

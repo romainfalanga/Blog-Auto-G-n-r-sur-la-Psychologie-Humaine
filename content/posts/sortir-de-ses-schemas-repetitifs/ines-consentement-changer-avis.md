@@ -23,7 +23,7 @@ Le train suivant fait trembler légèrement la vitre. Inès finit par dire : « 
 
 ## Qu’est-ce qu’un consentement qui peut changer ?
 
-Le consentement est un accord libre portant sur ce que l’on choisit de vivre maintenant, et cet accord peut être retiré. Une proposition initiale ne transforme pas la suite en engagement irrévocable. Accepter une proximité ne signifie pas accepter toutes les proximités. Avoir envie au début ne garantit pas de garder envie. Cette possibilité de changement appartient à chaque personne, y compris dans une relation ancienne et affectueuse.
+Le consentement sexuel est un accord libre et éclairé, donné avant un geste précis et que l’on peut retirer à tout moment. Le silence ou l’absence de réaction ne suffisent jamais à établir un accord. Une proposition initiale ne transforme pas la suite en engagement irrévocable. Accepter une proximité ne signifie pas accepter toutes les proximités. Avoir envie au début ne garantit pas de garder envie. Cette possibilité de changement appartient à chaque personne, y compris dans une relation ancienne et affectueuse.
 
 L’Organisation mondiale de la santé place le respect et l’absence de coercition au centre de la santé sexuelle. Ce cadre aide à déplacer la question d’Inès. Il ne s’agit pas de déterminer si son refus est suffisamment raisonnable, mais de préserver une possibilité réelle de choisir. Une soirée réussie, un trajet payé ou l’attention de Clara ne produisent aucune dette intime. Le plaisir partagé ne peut pas être exigé en remboursement d’un bon moment.
 
@@ -47,7 +47,7 @@ Une déception peut exister sans devenir une pression. Clara peut avoir envie d�
 
 ### Remplacer une information claire par des indices
 
-Demander une couverture permet à Inès de gagner quelques secondes, mais ne transmet pas ce qu’elle veut. Clara peut légitimement croire qu’elle a froid. Les indices corporels comptent et doivent inciter à vérifier, surtout lorsqu’une personne se fige ou paraît absente. Ils ne constituent cependant pas un code universel où chaque mouvement aurait un sens garanti. La question explicite et la réponse explicite rendent ici la situation plus lisible.
+Demander une couverture permet à Inès de gagner quelques secondes, mais ne transmet pas ce qu’elle veut. Clara peut légitimement croire qu’elle a froid. Si l’autre se fige, paraît absente ou si l’accord devient incertain, on arrête le geste et on vérifie si elle souhaite quelque chose. Les signes corporels n’ont pas un sens universel. En l’absence d’un accord libre et clair, on ne reprend pas.
 
 Inès n’est pas coupable d’hésiter ni obligée de parler parfaitement pour être respectée. Elle peut chercher une manière accessible de signaler l’arrêt. Un mot bref, une main écartée ou un geste convenu peuvent aider si parler devient difficile. L’important est que la partenaire accueille l’information et cesse, plutôt que d’exiger une explication complète avant d’entendre la limite. Les ajustements de communication soutiennent le droit de choisir ; ils ne le conditionnent pas.
 
@@ -93,4 +93,4 @@ Une phrase courte, un signal compris et l’observation des réactions peuvent r
 
 Si la peur, la douleur ou la pression occupent durablement l’intimité, un professionnel de santé ou une psychologue peut aider à comprendre la situation sans imposer de pratique ni de rythme. Lorsque les limites sont ignorées, un soutien individuel et la sécurité passent avant les exercices de couple. Aucun travail de communication ne vous oblige à continuer ce que vous ne souhaitez plus.
 
-Sources : [Organisation mondiale de la santé, santé sexuelle et respect des choix](https://www.who.int/fr/health-topics/sexual-health).
+Sources : [Organisation mondiale de la santé, santé sexuelle et respect des choix](https://www.who.int/fr/health-topics/sexual-health) ; [Arrêtons les violences, repères sur le consentement et les violences sexuelles](https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-sexuelles).

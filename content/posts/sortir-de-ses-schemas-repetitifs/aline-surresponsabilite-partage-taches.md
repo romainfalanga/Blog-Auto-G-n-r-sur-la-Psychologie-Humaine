@@ -25,7 +25,7 @@ La surresponsabilité est la tendance à s’attribuer une part excessive de la 
 
 Aline doit effectivement veiller à certaines choses. Son association reçoit du public et son rôle professionnel comporte des obligations précises. La responsabilité n’est donc pas une erreur à supprimer. Ce qui devient coûteux, c’est l’idée qu’elle doit vérifier personnellement chaque détail et empêcher toute difficulté, même lorsqu’une autre personne dispose des informations et des moyens nécessaires pour agir.
 
-Les recherches de Netta Weinstein et Richard Ryan sur les motivations de l’aide distinguent une aide choisie d’une aide vécue sous pression. Elles invitent à regarder la manière d’aider, au-delà du geste visible. Ici, Aline utilise ce repère pour se demander si elle transmet une mission par confiance ou si elle organise une surveillance qui lui permet seulement de rester indispensable.
+Netta Weinstein et Richard Ryan étudient la différence entre le fait d’aider de son plein gré et celui d’aider sous pression. Leurs études ne portent pas sur le partage des tâches dans une association. Dans cette scène, Aline peut vérifier un point concret : Bastien a-t-il les informations et la marge de décision nécessaires pour avancer sans lui demander une validation à chaque inscription ?
 
 Partager une tâche comprend plusieurs éléments : savoir ce qui est attendu, disposer des informations utiles, pouvoir prendre certaines décisions et connaître le moment où demander un appui. Si Aline distribue des actions mais garde en tête tous les délais et les exceptions, elle reste le centre de contrôle. Les autres peuvent travailler beaucoup sans que sa charge d’organisation diminue.
 

@@ -1,9 +1,9 @@
 ---
-title: "Déception en amitié : comprendre ses attentes pour moins souffrir"
+title: "Déception en amitié : ce qu’on attend et ce qu’on sait"
 date: 2026-03-19T04:37:12+00:00
 description: "Pourquoi l'amitié fait-elle parfois si mal ? À travers l'histoire de Léa, découvrez comment surmonter la déception en amitié et ajuster vos attentes."
 categories: ["Comprendre et maîtriser ses émotions"]
-tags: ["déception", "amitié", "psychologie", "attentes", "codépendance"]
+tags: ["déception", "amitié", "psychologie", "attentes"]
 slug: "deception-en-amitie-comprendre-attentes-relations"
 readingTime: 8
 wordCount: 1882
@@ -13,7 +13,7 @@ contexte: "en amitié"
 draft: false
 ---
 
-Léa ajuste ses lunettes tout en replaçant une mèche de ses cheveux bruns bouclés derrière son oreille. Elle se trouve au deuxième étage de la bibliothèque universitaire, entourée par l'odeur du vieux papier et le murmure constant des pages que l'on tourne. Depuis qu'elle a découvert ce vieux dessin dans le garage de sa mère Anne il y a deux jours, un croquis qui révélait son invisibilité d'enfant, elle se sent plus lucide sur ses propres mécanismes. Elle sait désormais que son envie de sauver le monde entier prend racine dans le silence de ses six ans, au milieu des éclats de voix de ses parents.
+Léa ajuste ses lunettes tout en replaçant une mèche de ses cheveux bruns bouclés derrière son oreille. Elle se trouve au deuxième étage de la bibliothèque universitaire, entourée par l'odeur du vieux papier et le murmure constant des pages que l'on tourne. Depuis qu'elle a découvert ce vieux dessin dans le garage de sa mère Anne il y a deux jours, un croquis qui révélait son invisibilité d'enfant, elle se demande ce qui l’amène à prendre autant de responsabilités dans ses amitiés.
 
 Ses yeux noisette se fixent soudain sur une table près de la grande baie vitrée. Zoé, sa meilleure amie, est là. Elle ne révise pas. Elle est entourée de trois étudiants de la filière communication, ceux que Léa trouve toujours un peu superficiels. Ils rient aux exclats, s'échangeant des vidéos sur leurs téléphones. Zoé semble radieuse, totalement absorbée par cette dynamique de groupe dont Léa est exclue. Pourtant, Zoé lui avait envoyé un message le matin même pour décliner leur déjeuner habituel, prétextant une surcharge de travail et un besoin de calme absolu.
 
@@ -23,15 +23,15 @@ Léa repose son manuel de psychologie clinique sans bruit. Elle éprouve une dé
 
 ## Définition de la déception en amitié
 
-La déception en amitié est une émotion complexe qui survient lorsqu'un écart significatif se creuse entre nos attentes relationnelles et la réalité du comportement de l'autre. En psychologie, ce concept est souvent lié à la théorie de la dissonance cognitive de Leon Festinger, qui décrit l'inconfort ressenti lorsque nos croyances, comme l'idée qu'une amie est toujours présente, sont contredites par les faits.
+La déception peut survenir quand un événement ne correspond pas à ce qu’on espérait. Dans leurs [expériences sur les décisions](https://pubmed.ncbi.nlm.nih.gov/9719660/), Marcel Zeelenberg et ses collègues ont distingué déception et regret. L’amitié n’était pas l’objet de ces expériences : ici, la scène illustre le décalage entre ce que Léa attendait et ce qu’elle a vu.
 
-Contrairement à la colère qui est une réaction d'attaque, ou à la tristesse qui est une réaction de perte, la déception est une émotion de désillusion. Elle marque le moment où l'image idéalisée que nous avions de l'autre ou de la relation s'effondre. Le chercheur Nico Frijda souligne que la déception naît de la non-réalisation d'un espoir. Dans le cas de Léa, cet espoir est teinté de ses blessures d'enfance : elle attend de l'amitié une sécurité absolue que ses parents, Michel et Anne, n'ont pas su lui offrir lors de leur divorce.
+On peut être déçu, en colère et triste à la fois. Léa espérait un moment à deux et se demande comment comprendre ce qu’elle voit. Le fait que Zoé ait refusé le déjeuner ne lui dit pas à lui seul pourquoi elle est ensuite venue à la bibliothèque.
 
 ## Manifestations de la déception amicale
 
 ### Le sentiment d'injustice et le bilan comptable
 
-L'une des premières manifestations de la déception est l'apparition d'un inventaire mental. On se surprend à lister tout ce que l'on a donné, sacrifié ou toléré pour l'autre. C'est ce que les psychologues appellent la théorie de l'équité de Hatfield. On a l'impression que la balance est déséquilibrée. Léa, par exemple, se rappelle immédiatement la fois où elle a annulé un rendez-vous important pour consoler Zoé, et compare ce sacrifice au mensonge par omission dont elle est témoin aujourd'hui. Cette sensation d'être lésée transforme la générosité passée en amertume présente.
+L'une des premières manifestations de la déception est l'apparition d'un inventaire mental. On se surprend à lister tout ce que l'on a donné, sacrifié ou toléré pour l'autre. Léa compare les efforts qu’elle a faits et ceux qu’elle croit recevoir ; ce décompte décrit sa réaction. On a l'impression que la balance est déséquilibrée. Léa, par exemple, se rappelle immédiatement la fois où elle a annulé un rendez-vous important pour consoler Zoé, et compare ce sacrifice au décalage qu’elle observe aujourd’hui. Cette sensation d'être lésée transforme la générosité passée en amertume présente.
 
 ### Le retrait émotionnel et la désidéalisation
 
@@ -39,17 +39,17 @@ La déception agit comme un voile qui tombe. On commence à voir les défauts de
 
 ### La remise en question de sa propre valeur
 
-Souvent, la déception en amitié se déplace vers soi-même. On se demande ce que l'on a fait de mal ou pourquoi on n'est pas assez pour mériter la vérité ou l'attention de l'autre. Pour une personne comme Léa, qui a vécu l'abandon émotionnel parental, la déception amicale réveille la peur de ne pas être digne d'intérêt. On finit par se reprocher d'avoir été trop naïf ou de s'être trop investi, ce qui alimente une déception envers soi-même, mélangeant ainsi la douleur de la trahison à une baisse d'estime personnelle.
+Souvent, la déception en amitié se déplace vers soi-même. On se demande ce que l'on a fait de mal ou pourquoi on n'est pas assez pour mériter la vérité ou l'attention de l'autre. Léa reconnaît une peur familière de ne pas compter pour ses proches. Elle peut éprouver cela sans avoir à prouver que cette peur vient de son enfance. On finit par se reprocher d'avoir été trop naïf ou de s'être trop investi, ce qui alimente une déception envers soi-même, mélangeant ainsi la douleur de la trahison à une baisse d'estime personnelle.
 
 ## Techniques pour agir face à la déception
 
-### 1. La technique du cercle des responsabilités
+### 1. Distinguer les faits et les attentes
 
-Cet exercice consiste à dessiner un grand cercle sur une feuille et à y répartir les responsabilités de la situation de manière objective. Dans une portion du cercle, notez ce qui appartient à l'autre : ses choix, son besoin d'espace, ses propres peurs. Dans une autre portion, notez ce qui vous appartient : vos attentes non exprimées, votre tendance à surinvestir, votre lecture de la situation. Cela permet de sortir du rôle de victime ou de sauveur. Pour Léa, cela signifie réaliser que si Zoé a menti, c'est peut-être par peur de la blesser ou par besoin de légèreté, et non par désamour pur. En séparant les faits de ses propres projections, elle réduit l'impact émotionnel de l'événement.
+Dans son carnet, Léa peut noter ce qu’elle a observé, ce qu’elle espérait et ce qu’elle ignore. Elle ne connaît pas les raisons de Zoé et n’a pas à décider de la part de faute de chacune pour savoir qu’elle est déçue.
 
 ### 2. La communication non violente par le Je
 
-Au lieu de ruminer ou de lancer des reproches qui braqueront l'autre, cette technique vise à exprimer sa déception de manière constructive. L'exercice consiste à formuler une phrase suivant cette structure : "Quand j'ai vu que tu étais à la bibliothèque alors que je pensais que tu voulais être seule, je me suis sentie déçue et confuse, car j'accorde beaucoup d'importance à notre complicité. J'aurais besoin de comprendre ce qui s'est passé." L'objectif n'est pas d'obtenir des excuses immédiates, mais de poser ses limites et de vérifier ses perceptions. Cela évite que la déception ne se transforme en rancœur tenace qui empoisonne la relation.
+Au lieu de ruminer ou de lancer des reproches qui braqueront l'autre, cette technique vise à exprimer sa déception de manière constructive. L'exercice consiste à formuler une phrase suivant cette structure : "Quand j'ai vu que tu étais à la bibliothèque alors que je pensais que tu voulais être seule, je me suis sentie déçue et confuse, car j'accorde beaucoup d'importance à notre complicité. J'aurais besoin de comprendre ce qui s'est passé." L'objectif n'est pas d'obtenir des excuses immédiates, mais de poser ses limites et de vérifier ses perceptions. Une telle phrase peut ouvrir une conversation si les deux le souhaitent.
 
 ### 3. Le réajustement des attentes et la diversification
 
@@ -61,7 +61,7 @@ Léa reste immobile quelques minutes, observant le manège de Zoé à distance. 
 
 Cette prise de conscience est le fruit d'un long travail de nommage de ses émotions, entamé lors de ses observations au café. Elle ne se laisse plus submerger par la panique du rejet comme autrefois. Elle reconnaît le schéma de parentification qu'elle a subi enfant, lorsqu'elle tentait de stabiliser l'humeur de ses parents, et voit comment elle a transposé ce rôle de médiatrice et de soutien inconditionnel sur Zoé.
 
-Elle sort son carnet de notes de son sac. Elle ne commence pas par écrire une lettre de reproches. À la place, elle dessine le cercle des responsabilités qu'elle vient d'étudier. Elle écrit dans sa part du cercle : attentes irréalistes de fusion. Elle écrit dans la part de Zoé : manque de transparence. Ce simple geste de mise à plat lui permet de respirer un peu plus librement. La trahison semble moins immense, moins personnelle. C'est un décalage de besoins, pas une catastrophe.
+Elle sort son carnet de notes de son sac. Elle ne commence pas par écrire une lettre de reproches. À la place, elle écrit trois choses : le déjeuner a été annulé, elle comptait sur ce moment et elle ne sait pas ce que Zoé avait en tête. Ce simple geste de mise à plat lui permet de respirer un peu plus librement. La trahison semble moins immense, moins personnelle. C'est un décalage de besoins, pas une catastrophe.
 
 Léa décide de ne pas s'enfuir de la bibliothèque. Elle ne va pas non plus interrompre le groupe de Zoé pour faire une scène. Elle choisit de s'installer à une table un peu plus loin, hors de la vue de son amie, pour se concentrer sur son propre travail. Elle se promet d'envoyer un message calme à Zoé plus tard dans la soirée, non pas pour la culpabiliser, mais pour lui dire qu'elle a été blessée par le décalage entre ses paroles et ses actes. Pour la première fois, Léa ne cherche pas à sauver la situation ou à s'excuser d'exister. Elle s'occupe de son propre espace intérieur.
 

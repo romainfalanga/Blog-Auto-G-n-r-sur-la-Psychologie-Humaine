@@ -21,7 +21,7 @@ Il sait aussi que rester ici, parmi les copeaux et l'odeur de l'huile de lin, es
 
 ## Qu'est-ce que l'isolement social et l'aliénation en amitié ?
 
-L'isolement social et l'aliénation en amitié désignent le sentiment d'éloignement et de rupture psychologique vis-à-vis des cercles amicaux, qui peut survenir malgré des contacts physiques ou des rencontres régulières. Le sociologue Melvin Seeman a étudié l'aliénation comme une perte de connexion au monde social. En neurosciences sociales, John Cacioppo a montré que la solitude et l'isolement ont des effets mesurables sur la santé mentale et physique. Selon une méta-analyse publiée en 2015 dans Perspectives on Psychological Science, le sentiment de solitude est associé à une augmentation significative du risque de mortalité, ce qui souligne l'importance clinique et sociale du phénomène.
+L’isolement social concerne le manque de contacts ou de liens disponibles. Le sentiment de solitude peut exister même quand les rencontres sont régulières. « Aliénation » décrit ici l’impression de ne plus trouver sa place parmi ses amis ; ce mot n’est pas un diagnostic. La synthèse de Holt-Lunstad et ses collègues a relevé une association entre des indicateurs de solitude ou d’isolement et la mortalité, pas une cause unique ni un pronostic individuel.
 
 Dans le cas de Bernard, cet isolement social et cette aliénation se manifestent en amitié par une préférence pour le silence et les objets plutôt que par la parole. Sa relation avec Marcel et les autres voisins conserve des rituels sociaux, tels que les salutations ou les invitations, mais ces occasions ne parviennent pas à combler le fossé intérieur hérité de son enfance et renforcé par le deuil. Ce mutisme intérieur, qu'il a identifié lors de son voyage en Toscane comme une chape de plomb, l'empêche de rejoindre la fête, même si l'envie de connexion commence à poindre sous sa carapace de menuisier. Comprendre la nature de ce schéma aide à saisir pourquoi ses meubles sont souvent ses seuls témoins et messagers.
 
@@ -33,7 +33,7 @@ L'une des formes les plus fréquentes d'isolement en amitié est le retrait qui 
 Lors d'un repas de quartier, la personne peut accepter l'invitation mais manger à l'écart, sourire poliment, et n'initier aucune discussion intime.
 
 ### 2. Conversion des liens en objets symboliques
-Un autre signe d'aliénation est la transformation des relations en artefacts matériels. La personne exprime son attachement par des cadeaux, des gestes concrets, ou des créations, plutôt que par des mots. Bernard manifeste cet aspect en offrant des meubles fabriqués à la main à Éric, le meuble devient la lettre qu'il n'écrit pas. Il a longtemps pratiqué ce biais d'omission, pensant que le silence était neutre alors qu'il s'agissait d'un choix actif pour éviter la confrontation directe des sentiments.
+Offrir un meuble ou réparer un objet peut être une manière d’exprimer son affection. Chez Bernard, l’objet est parfois le début d’un échange. La façon de donner un cadeau n’est pas un signe d’aliénation.
 
 Cela peut consister à envoyer régulièrement des colis ou réparer les choses des autres sans jamais évoquer ses émotions ou ses besoins.
 
@@ -52,7 +52,7 @@ Exercice concret :
 2. Formuler l'invitation de manière factuelle : « Marcel, j'aurai mon établi dehors cet après-midi, si tu veux, on peut parler cinq minutes. »
 3. Après l'interaction, noter brièvement sur un carnet ce qui s'est passé pour construire une trace positive.
 
-La structure diminue l'incertitude et permet au cerveau de tolérer une mise en relation progressive. Bernard, qui maîtrise le travail concret, peut utiliser sa manière d'entrer en relation en proposant de montrer une technique de menuiserie comme prétexte social.
+Une invitation précise peut rendre l’échange plus facile à envisager. Bernard, qui maîtrise le travail concret, peut utiliser sa manière d'entrer en relation en proposant de montrer une technique de menuiserie comme prétexte social.
 
 ### 2. Technique du message matériel avec émotion verbalisée
 L'idée est de combiner l'expression symbolique par un objet avec une phrase courte et sincère qui précise l'intention affective. Cela permet de garder la force de ce que Bernard sait faire, fabriquer, tout en ajoutant un mot qui humanise le geste.
@@ -72,7 +72,7 @@ Exercice concret :
 2. Miser sur des formats courts et répétables, par exemple trois phrases de trente secondes sur trois jours différents.
 3. Tester ces phrases d'abord avec le chien, puis avec Marcel, puis avec Éric, en augmentant progressivement la portée.
 
-La répétition de petites expressions réduit l'anxiété associée à la vulnérabilité. Après avoir déjà accepté sa tristesse lors d'un épisode récent dans son atelier, où il avait laissé couler ses larmes devant Sultan sans chercher à les transformer en travail productif, Bernard peut étendre cette capacité à des paroles brèves dirigées vers un ami.
+Bernard peut choisir ce qu’il a envie de partager et quand, sans fréquence imposée. Après avoir déjà accepté sa tristesse lors d'un épisode récent dans son atelier, où il avait laissé couler ses larmes devant Sultan sans chercher à les transformer en travail productif, Bernard peut étendre cette capacité à des paroles brèves dirigées vers un ami.
 
 ## Bernard commence à briser son isolement social et l'aliénation
 
@@ -88,8 +88,10 @@ Ces actions s'inscrivent dans la continuité de son parcours. Il utilise la reco
 
 ---
 
-La solitude et le sentiment d'aliénation en amitié ne sont pas des preuves de faiblesse, mais souvent des héritages de stratégies de survie. Pour Bernard, ce schéma prend racine dans une enfance où le silence protégeait, puis s'est consolidé après la perte d'Hélène. Comprendre les mécanismes permet de nommer la blessure et d'imaginer des gestes concrets pour la réparer.
+Bernard remarque que certaines habitudes ont changé depuis la perte d’Hélène. Les difficultés à retrouver des liens peuvent aussi tenir à l’éloignement, à la mobilité ou aux occasions de rencontre. Elles ne prouvent pas qu’on a appris à se protéger par le silence.
 
 Si vous vous reconnaissez dans l'histoire de Bernard, gardez à l'esprit que de petites actions ciblées peuvent modifier la dynamique des relations. Les techniques proposées, comme inviter par petits ponts, associer objets et phrases, ou s'entraîner à de petites vulnérabilités, sont des outils pratiques qui respectent la pudeur tout en ouvrant des voies de rencontre.
 
 Si l'isolement perdure, si la douleur devient trop lourde ou interfère avec le quotidien, il est recommandé de consulter un professionnel de la santé mentale. Un psychologue ou un thérapeute peut accompagner la mise en pratique de ces techniques, explorer les causes profondes et offrir un cadre sécurisé pour renouer avec les autres. Il n'y a pas d'urgence à tout transformer immédiatement. L'important est de commencer, à l'image de Bernard qui remet une commode entre les mains de son fils et pose ainsi la première pierre d'une nouvelle conversation.
+
+Sources : [National Academies, isolement social et solitude](https://www.nationalacademies.org/read/25663/chapter/2) ; [Holt-Lunstad et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25910392/).

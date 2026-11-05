@@ -23,7 +23,7 @@ Quand Josiane frappe pour apporter des pommes, Odile tient encore la feuille. Sa
 
 ## Qu’est-ce qu’un lien qui continue après un décès ?
 
-Après la mort d’une personne, la relation concrète s’interrompt : on ne peut plus lui téléphoner, lui demander un avis nouveau ou partager un repas avec elle. Ce fait peut coexister avec une présence du souvenir dans la vie quotidienne. Un geste appris, une expression, un récit transmis ou un objet choisi peuvent conserver une place. Parler ici de lien qui continue décrit cette manière de vivre avec la trace d’une relation. Cela n’affirme pas que la personne décédée communique réellement ni que chacun devrait rechercher une présence particulière.
+Après la mort d’une personne, la relation concrète s’interrompt : on ne peut plus lui téléphoner, lui demander un avis nouveau ou partager un repas avec elle. Ce fait peut coexister avec une présence du souvenir dans la vie quotidienne. Un geste appris, une expression, un récit transmis ou un objet choisi peuvent conserver une place. Des chercheurs parlent de « liens qui continuent » pour décrire différentes façons de vivre avec la trace d’une relation. Dans le suivi de Paul Boelen et de ses collègues, les liens entre ces gestes et le chagrin varient selon la forme que prend le souvenir. Cette étude ne dit pas que garder une recette soulage ou aggrave le chagrin. Dans le récit, Odile retrouve une façon de parler de sa sœur, sans croire que Françoise lui répond.
 
 Cette place peut prendre des formes très différentes. Certaines personnes parlent volontiers du proche ; d’autres préfèrent une activité silencieuse ou ne souhaitent pas garder d’objets. Une photo peut réconforter aujourd’hui et être trop douloureuse demain. L’importance d’une relation ne se mesure donc ni au nombre de souvenirs exposés, ni à la fréquence des visites dans un lieu commémoratif. Le NHS rappelle que le deuil se manifeste diversement et qu’il n’existe pas une bonne manière unique de ressentir une perte. Cette diversité laisse de la place aux préférences et aux circonstances.
 
@@ -76,3 +76,4 @@ Si le deuil vous laisse durablement sans appui, vous empêche de prendre soin de
 Sources :
 - [NHS, Grief after bereavement or loss](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)
 - [NIH, Social Wellness Toolkit](https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit)
+- [Boelen et ses collègues, étude de suivi sur les liens qui continuent après un décès](https://pubmed.ncbi.nlm.nih.gov/16972374/)

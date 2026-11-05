@@ -18,10 +18,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/embarras-en-societe-interactions/">Embarras en société : comprendre la gêne et agir</a></h3>
     <div class="parcours-date">2026-03-12</div>
-    <p class="parcours-resume">Lors d'un vernissage organisé par son école d'art, une plaisanterie place Mei, 22 ans, au centre de la conversation sans qu'elle l'ait cherché. Ses joues chauffent, sa voix se tasse, et elle a l'impression que tous les regards la jugent, tandis que son amie Océane lui fait signe en vain.</p>
+    <p class="parcours-resume">Mei ajuste sa veste sans vraiment regarder son reflet. Elle participe à un vernissage organisé par son école d&#x27;art, entourée de camarades de promo et de nouveaux visages.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Mei apprend à identifier et nommer ce qu'elle ressent dans cette situation, une étape importante pour mieux réguler ses émotions plutôt que de les subir.</p>
+      <p>Après quelques semaines de pratique, Mei commence à voir des changements. Lors d&#x27;une nouvelle rencontre, une plaisanterie fuse et elle sent ses joues chauffer.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/embarras-en-societe-interactions/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -29,54 +29,54 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/faux-self-winnicott-parents/">Comprendre le faux self (Winnicott) avec ses parents</a></h3>
     <div class="parcours-date">2026-03-18</div>
-    <p class="parcours-resume">Lors d'un dîner au restaurant familial avec ses parents, Li et Wei, Mei dissimule son carnet de croquis tout en feignant d'accepter leurs injonctions sur une carrière en médecine. Malgré la pression de son père, elle utilise l'ancrage physique et l'identification de ses émotions pour maintenir son calme face à leurs attentes.</p>
+    <p class="parcours-resume">La poêle claque, des baguettes raclent un wok, et Mei pose sa main sur la table en bois pour s&#x27;ancrer dans la réalité. Sa mère, Li, commente le menu d&#x27;un ton faussement léger, tandis que son père, Wei, lance une remarque sur l&#x27;avenir comme on donne un ordre : « Tu sais, la médecine, c&#x27;est du…</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Mei a pris conscience que sa docilité et son perfectionnisme sont des manifestations d'un 'faux self' construit pour plaire à ses parents. Elle commence à identifier ses peurs en temps réel, ce qui lui donne une nouvelle marge de manœuvre pour protéger son identité artistique.</p>
+      <p>Le soir même, après le service, Mei effleure le coin de son carnet. Elle relit ses colonnes du journal à deux voix et décide d&#x27;envoyer un détail d&#x27;illustration à sa mère.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/faux-self-winnicott-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-ecole-etudes/">Effet spotlight à l'école : quand on se sent trop observé</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-ecole-etudes/">Effet spotlight à l&#x27;école : quand on se sent trop observé</a></h3>
     <div class="parcours-date">2026-03-29</div>
-    <p class="parcours-resume">Lors d'un cours de dessin le lundi 29 mars 2026, Mei se sent paralysée par l'impression que tous ses camarades et son professeur, M. Dubois, scrutent ses moindres erreurs. Malgré un signe amical d'Océane, elle reste figée par l'effet spotlight, projetant sur l'atelier la pression à la perfection qu'elle subit habituellement lors des dîners avec ses parents, Li et Wei.</p>
+    <p class="parcours-resume">L&#x27;odeur du diluant chatouille les narines de Mei tandis qu&#x27;elle reste figée devant sa feuille. Autour d&#x27;elle, des crayons frottent le papier, des rires s&#x27;échappent d&#x27;un coin de l&#x27;atelier, une radio diffuse des morceaux choisis pour la séance du lundi 29 mars 2026.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Mei identifie que sa peur du jugement est une distorsion cognitive appelée l'effet spotlight, réalisant que son besoin de se cacher est un vestige de son 'faux self' développé pour satisfaire ses parents.</p>
+      <p>Aujourd&#x27;hui, quand M. Dubois s&#x27;arrête devant elle, Mei sent toujours une montée de chaleur aux joues, mais elle active maintenant son geste d&#x27;ancrage sans y penser.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-ecole-etudes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/">Assujettissement face à l'autorité : s'affirmer enfin</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/">Assujettissement face à l&#x27;autorité : s&#x27;affirmer enfin</a></h3>
     <div class="parcours-date">2026-03-31</div>
-    <p class="parcours-resume">Le 31 mars 2026, Mei se rend dans le bureau de son professeur d'art, M. Dubois, pour présenter ses illustrations oniriques. Malgré sa volonté initiale de défendre son style personnel, elle se retrouve paralysée par son besoin de plaire et sa peur de l'autorité, prête à renoncer à sa vision artistique face au jugement du professeur.</p>
+    <p class="parcours-resume">Mei est immobile devant la porte close du bureau de M. Dubois.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Mei prend conscience que sa docilité et son besoin de validation sont des mécanismes de protection hérités de son enfance, agissant comme une armure trop étroite qui étouffe son identité et son intuition créative.</p>
+      <p>M. Dubois repose les planches de Mei sur le bureau.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/assujettissement-face-a-l-autorite-se-liberer/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/fusion-personnalite-atrophiee-intimite-sexualite/">Fusion et personnalité atrophiée dans l'intimité : s'épanouir</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/fusion-personnalite-atrophiee-intimite-sexualite/">Intimité : Mei apprend à dire ce qu’elle veut</a></h3>
     <div class="parcours-date">2026-04-04</div>
-    <p class="parcours-resume">Mei, étudiante et artiste, hésite à rejoindre Julien pour une soirée film alors qu'elle prend conscience de sa tendance à s'effacer totalement dans leur relation naissante. Elle réalise que, par peur du rejet, elle mime les désirs de Julien et étouffe sa propre personnalité, tant dans leurs choix quotidiens que dans leur intimité sexuelle.</p>
+    <p class="parcours-resume">Mei est assise sur le bord de son lit étroit, dans sa chambre de la résidence étudiante. L&#x27;air est frais pour un début d&#x27;avril, et elle remonte machinalement ses chaussettes en laine par-dessus son legging.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Mei identifie son mécanisme de fusion comme une extension du 'faux self' développé face à ses parents pour être la fille idéale. Elle comprend que son incapacité à poser des limites et à exprimer ses propres goûts atrophie sa personnalité et transforme ses interactions en performances de docilité.</p>
+      <p>Le soir même, alors que Julien arrive dans sa petite chambre de résidence, Mei sent l&#x27;habituelle pulsion de camouflage l&#x27;envahir. Elle a envie de ranger ses dessins, de mettre la musique qu&#x27;il préfère et de se préparer à être la version d&#x27;elle-même la plus lissée possible.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/fusion-personnalite-atrophiee-intimite-sexualite/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/honte-face-a-l-autorite-causes-profondes/">Honte face à l'autorité : comprendre ses causes profondes</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/honte-face-a-l-autorite-causes-profondes/">Honte face à l’autorité : le cas de Mei</a></h3>
     <div class="parcours-date">2026-04-13</div>
-    <p class="parcours-resume">Mei se retrouve paralysée devant le bureau de son professeur d'art, M. Dubois, au moment de lui présenter ses illustrations oniriques. Elle est submergée par une honte viscérale qui fait écho au silence pesant de son père, Wei, et à la pression familiale liée à ses anciennes ambitions médicales.</p>
+    <p class="parcours-resume">Le couloir de l&#x27;école d&#x27;art est plongé dans une pénombre relative, seulement troublée par le ronronnement lointain d&#x27;une machine à café. Mei se tient debout devant la porte en chêne du bureau de M.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Mei prend conscience que sa peur de l'autorité transforme une simple évaluation technique en un procès de sa valeur personnelle, l'amenant à percevoir son art comme une imposture. Elle réalise que son perfectionnisme est un 'faux self' construit pour satisfaire ses parents plutôt que sa propre identité d'illustratrice.</p>
+      <p>Mei reste immobile dans le couloir, mais au lieu de s&#x27;enfuir vers la sortie comme elle l&#x27;aurait fait auparavant, elle décide de mettre en pratique ce qu&#x27;elle a appris sur son fonctionnement interne. Elle se souvient de sa prise de conscience avec Julien, lorsqu&#x27;elle avait réalisé que sa…</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/honte-face-a-l-autorite-causes-profondes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -84,32 +84,32 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-simple-exposition-reseaux-sociaux-mei/">Effet de simple exposition sur les réseaux sociaux : décodage</a></h3>
     <div class="parcours-date">2026-04-19</div>
-    <p class="parcours-resume">Le dimanche 19 avril 2026, Mei observe son fil d'actualité dans sa chambre étudiante et ressent un malaise face aux standards de perfection des réseaux sociaux. Elle réalise que son désir d'acheter des vêtements ou des logiciels de dessin est influencé par la répétition de ces images, faisant le lien avec sa tendance passée à mimer les désirs de Julien.</p>
+    <p class="parcours-resume">Mei est installée sur son lit, dans sa petite chambre de la résidence étudiante. La lumière de ce dimanche 19 avril 2026 décline doucement, jetant des reflets orangés sur ses affiches d&#x27;expositions.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Mei prend conscience de l'effet de simple exposition et comprend que sa perception de son propre art et de ses goûts est polluée par la saturation visuelle des algorithmes. Elle décide de poser son téléphone pour reprendre le contrôle sur ses véritables aspirations et son style décalé.</p>
+      <p>Mei pose son téléphone sur sa table de nuit et attrape son carnet. Elle regarde le dessin commencé plus tôt, une créature hybride aux ailes de papier, très loin des standards lisses de son fil d&#x27;actualité.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-simple-exposition-reseaux-sociaux-mei/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/sentiment-inadequation-ecole-etudes-hpi/">Inadéquation à l'école ou aux études : comprendre ce décalage</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/sentiment-inadequation-ecole-etudes-hpi/">Se sentir en décalage pendant ses études</a></h3>
     <div class="parcours-date">2026-04-28</div>
-    <p class="parcours-resume">Mei se trouve dans son atelier d'école d'art le 28 avril 2026, où elle ressent un profond sentiment de décalage face à ses camarades comme Océane. Elle repense à son dîner de la veille avec Julien, constatant l'écart entre sa pensée complexe et la simplicité linéaire de son entourage.</p>
+    <p class="parcours-resume">Mei est assise sur un tabouret haut dans l&#x27;atelier de l&#x27;école d&#x27;art, le dos légèrement voûté sur son carnet. Autour d&#x27;elle, le brouhaha des autres étudiants forme un mur de sons indistincts.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Mei identifie que son malaise n'est plus une peur du regard des autres (effet spotlight), mais une fatigue structurelle liée à la nécessité de traduire constamment sa pensée en arborescence pour s'adapter à la norme.</p>
+      <p>Mei repose son stylet et regarde son carnet de croquis. Elle vient de terminer une illustration complexe où des personnages aux contours flous tentent de s&#x27;emboîter dans des cadres rigides.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/sentiment-inadequation-ecole-etudes-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/peur-face-a-lautorite/">Peur face à l'autorité : comprendre ses racines et agir</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/peur-face-a-lautorite/">Peur face à l&#x27;autorité : comprendre ses racines et agir</a></h3>
     <div class="parcours-date">2026-05-02</div>
-    <p class="parcours-resume">Mei se rend au bureau de M. Dubois pour déposer son projet final de dessin, luttant contre une peur paralysante de l'autorité. Elle se remémore son enfance où elle cachait ses aquarelles à son père pour répondre à ses attentes académiques, et hésite longuement devant la porte du professeur avant de glisser son travail dans le tiroir.</p>
+    <p class="parcours-resume">Le couloir paraît trop étroit. Mei serre son carnet de croquis contre sa poitrine, les coins déjà froissés par des pages griffonnées la veille.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Mei prend conscience que sa peur de l'autorité est un écho de son passé familial qui bride son intuition créative et la pousse au conformisme. Bien qu'elle sache désormais nommer cette émotion, elle réalise qu'elle doit encore apprendre à ne plus sacrifier son identité d'artiste pour obtenir une simple approbation.</p>
+      <p>Le lundi suivant, Mei se tient de nouveau dans le couloir. Son carnet est plus lourd de nouvelles pages.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/peur-face-a-lautorite/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -117,10 +117,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/emerveillement-en-voyage-ou-en-expatriation-guide/">Émerveillement en voyage ou en expatriation : le guide de Mei</a></h3>
     <div class="parcours-date">2026-05-06</div>
-    <p class="parcours-resume">Mei prend le train de la gare de Lyon vers Florence pour son premier voyage en solitaire après avoir soumis son projet final à M. Dubois. Durant le trajet à travers les Alpes, elle vit une expérience de transcendance face aux paysages montagneux, s'éloignant de ses anciens schémas de dépendance envers ses parents et son ami Julien.</p>
+    <p class="parcours-resume">Mei ajuste la sangle de son sac à dos, sentant le grain du tissu contre son épaule. Elle se tient sur le quai de la gare de Lyon, à Paris, en ce mercredi 6 mai 2026.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Mei expérimente l'effet du 'petit soi', réalisant que l'émerveillement réduit son anxiété sociale et son besoin de validation constante. Elle commence à délaisser son 'faux self' de docilité pour embrasser une identité plus authentique et connectée à l'immensité du monde.</p>
+      <p>Arrivée à Florence, Mei se dirige vers son petit logement situé près du marché de San Lorenzo. Elle se sent différente de celle qui, quelques semaines plus tôt, s&#x27;excusait presque d&#x27;exister en présence d&#x27;Océane ou de ses parents.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/emerveillement-en-voyage-ou-en-expatriation-guide/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -128,10 +128,10 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-verite-illusoire-reseaux-sociaux/">Effet de vérité illusoire sur les réseaux sociaux : comment ça nous piège</a></h3>
     <div class="parcours-date">2026-05-19</div>
-    <p class="parcours-resume">Alors qu'elle attend sa lessive dans sa résidence étudiante, Mei est confrontée à une surcharge d'injonctions artistiques sur son fil d'actualité. Malgré l'invitation à dîner de Julien, elle se sent paralysée par la répétition de conseils en ligne qui contredisent ses propres intuitions.</p>
+    <p class="parcours-resume">Aujourd&#x27;hui, 19 mai 2026, Mei attend sa machine à laver dans la petite buanderie de la résidence étudiante, son carnet de croquis posé sur les genoux. L&#x27;air porte une odeur de bouillon de poulet qui remonte du restaurant de ses parents au rez-de-chaussée, un parfum qui lui rappelle les dîners…</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Mei identifie l'effet de vérité illusoire, réalisant que la répétition de certains discours numériques altère son jugement et réactive son ancien besoin de plaire aux figures d'autorité.</p>
+      <p>Mei part dîner avec Julien après avoir noté trois idées contradictoires dans son carnet. Dans le tram, elle reconnaît la vieille impulsion à plaire, celle qui l&#x27;avait fait feindre la passion pour la médecine à la table familiale, mais quelque chose a changé aujourd&#x27;hui.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-verite-illusoire-reseaux-sociaux/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

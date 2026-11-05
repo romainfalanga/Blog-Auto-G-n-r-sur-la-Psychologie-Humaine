@@ -25,7 +25,7 @@ Un décalage de rythmes dans le couple est une différence entre les moments de 
 
 Le temps passé dans le même logement ne suffit pas à décrire le temps vécu ensemble. Une personne peut revenir pour dormir quand l'autre souhaite discuter. Elles partagent une adresse, parfois une table, sans disposer d'une attention comparable. La recherche sur le temps commun des couples examine justement les contraintes professionnelles et familiales qui participent à ces possibilités de rencontre. Elle ne fournit pas un nombre universel de minutes garantissant une bonne relation.
 
-Dans leur étude sur ce thème, Sarah Flood et Katie Genadek mettent en rapport le temps partagé et les exigences du travail et de la famille. Ce type de résultat rappelle que l'organisation temporelle compte. Il ne permet pas de prédire la satisfaction de Maëlle et Julien à partir de leur planning, ni d'attribuer chaque désaccord aux horaires. Leur histoire particulière doit rester au centre de la discussion.
+Sarah M. Flood et Katie R. Genadek ont étudié, à partir de journaux d’emploi du temps de personnes mariées aux États-Unis, les liens entre les exigences du travail, celles de la famille et le temps passé ensemble. Ces associations ne permettent pas de prédire la satisfaction de Maëlle et Julien ni d’attribuer leurs désaccords à leurs horaires.
 
 Le décalage peut aussi modifier le sens attribué aux comportements. Regarder l'heure signifie pour Maëlle anticiper son départ sans stress. Julien y lit une attention déjà ailleurs. Ces deux expériences peuvent être entendues sans déclarer l'une fausse. L'enjeu est de passer de l'intention supposée à une description assez claire pour chercher un accord.
 
@@ -73,7 +73,7 @@ Julien peut remplacer « tu regardes toujours l'heure » par « j'aimerais un mo
 
 Maëlle formule également ce dont elle a besoin maintenant : « Je veux manger avec toi et partir sans courir. Est-ce qu'on peut laisser le paiement pour demain ? » Elle ne promet pas une attention illimitée à une heure où elle ne la possède pas. Elle propose un arrangement concret, que Julien peut accepter ou discuter.
 
-Cette manière de parler ne garantit pas l'accord. Un refus ou une déception peut rester. Si les échanges deviennent méprisants, menaçants ou durablement impossibles, un accompagnement adapté peut être nécessaire. Une technique de communication ne remplace pas la sécurité ni le respect dans une relation.
+Cette manière de parler ne garantit pas l'accord. Un refus ou une déception peut rester. Si l’un menace, contrôle ou agresse l’autre, la priorité est la sécurité. La personne concernée peut demander de l’aide à un service spécialisé sans devoir négocier avec son partenaire. En cas de danger immédiat, elle peut contacter les secours.
 
 ### 3. Préserver un moment qui n'a qu'une fonction
 
@@ -99,6 +99,6 @@ Les rythmes différents dans un couple peuvent créer des malentendus même lors
 
 Un accord utile protège la récupération et donne une place aux besoins des deux partenaires. Il peut être court, révisable et imparfait. Sa valeur tient à ce qu'il rend possible dans la vie réelle, avec les contraintes qui existent aujourd'hui.
 
-Si les conflits se répètent ou deviennent douloureux, un psychologue ou un professionnel de l'accompagnement conjugal peut aider à les examiner. Les difficultés liées aux horaires méritent aussi une discussion au travail : le couple n'a pas à résoudre seul toutes leurs conséquences.
+Si des désaccords se répètent dans une relation où chacun peut parler et refuser sans crainte, un psychologue ou un professionnel de l’accompagnement conjugal peut aider à les examiner. Les difficultés liées aux horaires méritent aussi une discussion au travail : le couple n'a pas à résoudre seul toutes leurs conséquences.
 
-Sources : [Flood et Genadek, contraintes de travail et temps partagé des couples](https://pmc.ncbi.nlm.nih.gov/articles/PMC4712716/) ; [INRS, horaires atypiques et vie familiale](https://www.inrs.fr/risques/travail-horaires-atypiques/foire-aux-questions.html).
+Sources : [Flood et Genadek, contraintes de travail et temps partagé des couples](https://pmc.ncbi.nlm.nih.gov/articles/PMC4712716/) ; [INRS, horaires atypiques et vie familiale](https://www.inrs.fr/risques/travail-horaires-atypiques/foire-aux-questions.html) ; [Arrêtons les violences, violences au sein du couple](https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple).

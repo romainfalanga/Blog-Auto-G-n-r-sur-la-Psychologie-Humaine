@@ -21,13 +21,13 @@ Elle pose ses paumes à plat sur la table en bois mélaminé. Le contact froid d
 
 ## Définition du sentiment d'injustice
 
-Le sentiment d'injustice est une réponse émotionnelle complexe qui surgit lorsque nous percevons une transgression d'une norme morale ou d'un contrat social implicite, entraînant un préjudice pour soi ou pour autrui. Selon les travaux du chercheur en psychologie sociale Melvin Lerner sur la Croyance en un monde juste, l'être humain a un besoin fondamental de croire que chacun reçoit ce qu'il mérite. Lorsque cette croyance est brisée par un événement arbitraire ou malveillant, le cerveau envoie un signal d'alerte massif, souvent traduit par de la colère ou de la résignation.
+Le sentiment d’injustice peut surgir lorsqu’une décision, une parole ou une pratique paraît violer un droit, une règle ou une attente. Les [travaux de Melvin Lerner et Carolyn Simmons](https://pubmed.ncbi.nlm.nih.gov/5969146/) sur la réaction des observateurs face à une personne lésée ont notamment exploré le fait de dévaloriser une victime innocente dans certaines conditions expérimentales. Ils ne font pas de chaque sentiment d’injustice un effet d’une croyance en un monde juste.
 
-Pour une survivante comme Djamila, cette notion est exacerbée par un passé de victimisation. Le sentiment d'injustice en situation de conflit ne concerne pas seulement le désaccord présent, mais réactive une blessure identitaire profonde. C'est la sensation que l'ordre des choses est corrompu. Scientifiquement, cela active l'amygdale, le centre de la peur et de la survie, ainsi que l'insula, une zone du cerveau liée au dégoût et à la perception de l'équité.
+Pour Djamila, ce qu’elle vit au bureau fait aussi écho à des humiliations passées. Cela n’annule pas la question présente : la famille qu’elle accompagne a besoin d’une réponse et elle n’en a pas encore reçu.
 
 ## Manifestations du sentiment d'injustice en situation de conflit
 
-En plein cœur d'une confrontation, le sentiment d'injustice ne se contente pas d'être une pensée, il devient une expérience totale qui déforme la réalité et la communication.
+Une forte colère peut pousser à réagir vite ou à revenir longtemps sur l’échange. Elle peut aussi alerter sur un problème réel. Les émotions, les faits observés et les décisions à prendre sont trois éléments à considérer.
 
 ### 1. La rumination mentale et la préparation de plaidoiries
 
@@ -35,11 +35,11 @@ La manifestation la plus fréquente est le monologue intérieur incessant. Le su
 
 ### 2. L'hypersensibilité aux signaux de mépris
 
-Une personne ayant vécu une relation toxique développe des antennes ultra-sensibles. En situation de conflit, le sentiment d'injustice se nourrit de micro-signaux, comme un soupir, un regard fuyant ou un ton condescendant. Ces détails sont perçus comme des preuves irréfutables d'un manque de respect délibéré. Pour Djamila, le fait qu'Antoine regarde son téléphone n'est pas vu comme une simple distraction, mais comme une attaque frontale contre sa légitimité professionnelle et humaine. Elle reconnaît ici l'hypervigilance qu'elle a développée pour survivre aux manipulations de Samir, une armure de glace qui, si elle l'a protégée autrefois, risque aujourd'hui de l'isoler de ses collègues.
+Le regard baissé d’Antoine rappelle à Djamila le mépris de Samir. Elle peut reconnaître que ce souvenir joue un rôle et garder la question professionnelle ouverte : est-ce que la demande a été entendue, et comment obtenir une réponse ?
 
 ### 3. Le besoin de réparation immédiate ou de vengeance
 
-Lorsque l'injustice est ressentie, une pulsion de rétablissement de l'équilibre apparaît. Cela peut se traduire par des comportements passifs-agressifs ou, au contraire, par une escalade verbale pour forcer l'autre à admettre ses orts. On cherche moins à régler le litige qu'à obtenir une forme de punition pour l'offenseur. Le risque est alors de passer du statut de victime d'une situation à celui d'agresseur par réaction, ce qui brouille encore davantage les pistes du conflit initial.
+Le besoin d’être entendu ou d’obtenir réparation peut être pressant. Si l’échange s’envenime, il est possible de le suspendre, de faire appel à un tiers ou de suivre la procédure prévue. La colère de Djamila ne lui attribue pas la responsabilité des agissements d’autrui.
 
 ## Techniques pour agir face au sentiment d'injustice
 
@@ -51,7 +51,7 @@ Cet exercice consiste à séparer physiquement les faits objectifs des ressentis
 
 ### 2. Le questionnement de la règle universelle
 
-Le sentiment d'injustice naît souvent d'une règle interne que nous projetons sur les autres, comme l'idée que si l'on est poli, on doit être écouté. Face au conflit, demandez-vous quelle règle l'autre a transgressée. Cette règle est-elle partagée par lui ou est-ce une attente personnelle ? En identifiant que l'autre fonctionne avec un code différent, même s'il est médiocre ou agaçant, on réduit l'impact émotionnel. Il ne s'agit pas d'excuser le comportement, mais de comprendre qu'il ne s'agit pas d'une attaque personnelle contre vos valeurs, mais d'une défaillance de l'autre. L'exercice consiste à reformuler la situation : ce n'est pas une injustice contre moi, c'est Antoine qui ne remplit pas ses fonctions correctement. Djamila utilise ici les outils d'analyse du Dr Martin pour distinguer ses traumatismes passés des agressions réelles du présent, évitant ainsi de sombrer dans le doute profond que provoquait autrefois le gaslighting de son ex-conjoint.
+Demandez-vous quelle attente est en jeu : une préférence personnelle, une règle de travail ou un droit. Dans la scène, Djamila distingue le ton qui l’a blessée de l’urgence du dossier et des obligations professionnelles. Quand une personne est en danger, l’action requise n’a pas à attendre que l’émotion retombe.
 
 ### 3. La méthode du tiers médiateur interne
 
@@ -63,12 +63,12 @@ Antoine lève enfin les yeux, l'air absent. Il lâche un simple "On verra ça de
 
 Elle choisit une autre voie. Elle ne sourit pas, elle ne s'excuse pas. Elle prend une respiration courte et range calmement ses affaires. Elle a déjà identifié l'injustice : Antoine manque à son devoir professionnel. Mais au lieu de se laisser consumer par la rage, elle active sa part de travailleuse sociale combative. Elle sait que si elle explose maintenant, il utilisera sa réaction contre elle pour la faire passer pour instable, une tactique que Samir maîtrisait. Elle se rappelle le déjeuner avec Amina où elle avait failli repousser une aide sincère par simple réflexe de survie ; aujourd'hui, elle refuse que ce même réflexe sabote sa mission auprès des bénéficiaires.
 
-En quittant le bureau, elle ne rentre pas directement chez elle. Elle s'arrête dans le petit parc à côté de l'école d'Adam. Elle s'assoit sur un banc, observant les pigeons qui se chamaillent pour un morceau de pain. Elle ouvre son journal intime et applique la technique de la double colonne. D'un côté, le comportement d'Antoine. De l'autre, sa propre douleur de survivante. En séparant les deux, elle sent la pression diminuer. Le sentiment d'injustice est toujours là, mais il est devenu un moteur froid et précis. Elle ne va pas se venger, elle va agir efficacement. Demain, elle enverra un compte-rendu factuel de l'échange, car elle a appris que sa valeur ne dépend plus de la validation de ceux qui la traitent mal.
+En quittant le bureau, elle ne rentre pas directement chez elle. Elle s'arrête dans le petit parc à côté de l'école d'Adam. Elle s'assoit sur un banc, observant les pigeons qui se chamaillent pour un morceau de pain. Elle ouvre son journal intime et applique la technique de la double colonne. D'un côté, le comportement d'Antoine. De l'autre, sa propre douleur de survivante. En séparant les deux, elle sent la pression diminuer. Le sentiment d'injustice est toujours là, mais il est devenu un moteur froid et précis. Elle ne va pas se venger, elle va agir efficacement. Elle a signalé l’urgence sans attendre par le circuit prévu. Demain, elle pourra envoyer un compte rendu factuel de l’échange, selon les règles de confidentialité de l’association, car elle a appris que sa valeur ne dépend plus de la validation de ceux qui la traitent mal.
 
 ---
 
 Le sentiment d'injustice est l'une des émotions les plus difficiles à réguler car elle touche à nos valeurs fondamentales et à notre besoin de sécurité. Pour une personne en reconstruction après un traumatisme relationnel, chaque conflit peut ressembler à un tribunal où se rejouent les abus passés. Apprendre à identifier ce mécanisme est la première étape pour ne plus laisser l'injustice vous emprisonner dans une colère stérile.
 
-En transformant cette douleur en une analyse factuelle, vous reprenez le pouvoir que l'autre tente de vous enlever. Vous n'êtes plus la victime qui subit l'arbitraire, mais un observateur lucide qui choisit ses réponses en fonction de ses propres intérêts et de ses limites. La guérison ne signifie pas que les injustices disparaissent, mais qu'elles perdent le pouvoir de vous détruire de l'intérieur.
+Mettre les faits par écrit peut aider à choisir une démarche. Cela ne retire rien au préjudice et ne transfère pas la responsabilité de l’injustice à la personne qui la subit.
 
 Si vous sentez que ce sentiment d'injustice devient omniprésent au point de paralyser votre quotidien ou vos relations, solliciter l'aide d'un psychologue spécialisé dans les traumatismes peut être une démarche utile. Un accompagnement professionnel permet de traiter les racines de ces blessures et d'apprendre à construire des frontières solides qui vous protègeront durablement.

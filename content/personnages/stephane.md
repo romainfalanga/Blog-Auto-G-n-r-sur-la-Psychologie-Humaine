@@ -16,12 +16,12 @@ draft: false
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-travail/">Comment la recherche d'approbation au travail sabote Aïssatou</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-travail/">Quand la recherche d&#x27;approbation pèse au travail</a></h3>
     <div class="parcours-date">2026-03-09</div>
-    <p class="parcours-resume">En réunion, Stéphane, 45 ans, commercial grands comptes, sent son cœur battre plus fort quand le directeur commercial félicite un collègue plutôt que lui. Grandi dans l'ombre de son frère Philippe, il court après la validation, tandis que sa femme Sandrine est la seule à voir ses doutes.</p>
+    <p class="parcours-resume">L’air est lourd dans la salle de réunion. Stéphane, 45 ans, commercial grands comptes dans une multinationale, serre ses mains sur la table, sent son cœur battre un peu plus vite.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Stéphane prend conscience d'un schéma répétitif qui s'active dans cette situation. Malgré son côté sociable en apparence, il commence à identifier les déclencheurs et à envisager d'autres façons de réagir.</p>
+      <p>L’air est lourd dans la salle de réunion. Stéphane, 45 ans, commercial grands comptes dans une multinationale, serre ses mains sur la table, sent son cœur battre un peu plus vite.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-travail/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -29,10 +29,10 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-en-societe/">Effet spotlight en société : pourquoi vous pensez que tout le monde vous regarde</a></h3>
     <div class="parcours-date">2026-03-18</div>
-    <p class="parcours-resume">Lors d'un cocktail de networking le 18 mars 2026, Stéphane bégaye légèrement sur ses tarifs et s'imagine que toute l'assemblée a remarqué sa faille. Malgré les signes rassurants de ses collègues Marc et Sandrine, il s'enferme dans un surcontrôle social pour masquer ce qu'il perçoit comme une humiliation publique.</p>
+    <p class="parcours-resume">Le bruit des verres, des rires rapprochés et le cliquetis discret des badges remplissent la salle. Stéphane tient son verre d&#x27;eau d&#x27;une main, le carnet de visite dans l&#x27;autre, et entend encore le mot &quot;intégration&quot; qu&#x27;il a prononcé en présentant son offre.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Stéphane prend conscience de son 'effet spotlight', réalisant que son anxiété sociale et son besoin de perfection sont profondément ancrés dans une rivalité fraternelle ancienne. Il comprend que sa tendance à surjouer son assurance est une réponse directe à sa peur d'être jugé.</p>
+      <p>Dans la deuxième partie de la soirée, après avoir appliqué la technique du changement de focus une première fois, Stéphane entame une conversation avec une directrice marketing qu&#x27;il respecte. Au lieu de contrôler chaque mot, il pose la question qu&#x27;il a préparée et écoute.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-en-societe/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -40,21 +40,21 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/degout-en-société-interactions-sociales/">Dégoût en société : comprendre cette émotion sociale complexe</a></h3>
     <div class="parcours-date">2026-03-23</div>
-    <p class="parcours-resume">Lors d'un cocktail de fin de séminaire, Stéphane ressent un dégoût viscéral face à son collègue Marc, qui se vante d'avoir remporté un contrat par des méthodes malhonnêtes. Ce rejet physique et moral le pousse à s'écarter de la conversation pour préserver son intégrité.</p>
+    <p class="parcours-resume">Le cuir de la chaussure de Marc grince sur le parquet ciré du salon feutré où se tient ce cocktail de fin de séminaire. Stéphane ajuste sa cravate, sentant le contact frais de la soie contre ses doigts.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Stéphane apprend à utiliser son dégoût comme une boussole interne pour protéger ses valeurs, cessant de masquer ses émotions sous un sourire de façade pour obtenir l'approbation des autres.</p>
+      <p>Le lendemain du cocktail, Stéphane se trouve dans son bureau, les dossiers de Marc étalés devant lui. Habituellement, il aurait cherché à lisser les angles, à rire des plaisanteries de son collègue pour maintenir cette image de commercial affable qu&#x27;il cultive depuis des années.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/degout-en-société-interactions-sociales/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/imperfection-honte-societe/">Imperfection et honte en société : comment s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/imperfection-honte-societe/">Imperfection et honte en société : comment s&#x27;en libérer</a></h3>
     <div class="parcours-date">2026-03-26</div>
-    <p class="parcours-resume">Stéphane se prépare pour une présentation cruciale devant des clients importants tout en luttant contre un sentiment d'infériorité ravivé par le succès d'un collègue, Marc. Il se remémore sa rivalité fraternelle avec Philippe et analyse ses réactions lors d'un récent cocktail professionnel.</p>
+    <p class="parcours-resume">Le carrelage du hall résonne sous les chaussures de Stéphane tandis qu&#x27;il ajuste la pochette de sa présentation. Il sent encore l&#x27;odeur de la pluie sur l&#x27;asphalte et le frottement frais du cuir de son attaché-case contre sa paume.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Il commence à percevoir que son besoin de perfection est une stratégie de défense contre la honte et envisage d'expérimenter la vulnérabilité en nommant ses imperfections plutôt qu'en les masquant.</p>
+      <p>Le soir même, lors du dîner avec le client, Stéphane ressent la tension familière mais tente l&#x27;expérience. Au lieu de verrouiller une réponse qu&#x27;il n&#x27;est pas sûr de maîtriser, il lance, d&#x27;une voix mesurée, une phrase préparée : &quot;Sur ce point précis, je n&#x27;ai pas la donnée sous les yeux, je…</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/imperfection-honte-societe/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -62,43 +62,43 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-de-halo-sur-les-reseaux-sociaux/">Effet de halo sur les réseaux sociaux : décoder nos jugements</a></h3>
     <div class="parcours-date">2026-04-04</div>
-    <p class="parcours-resume">Le samedi 04 avril 2026, Stéphane observe avec envie le profil social d'Antoine, un entrepreneur à succès, tout en étant assis aux côtés de sa compagne Sandrine. Cette comparaison numérique réveille ses insécurités professionnelles et personnelles, le renvoyant à ses propres difficultés de communication avec son fils Maxime.</p>
+    <p class="parcours-resume">Stéphane est assis dans le canapé du salon, la lumière bleue de son smartphone éclairant son visage aux tempes grisonnantes. Sandrine lit à côté de lui, mais il ne la remarque pas vraiment.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Stéphane prend conscience qu'il est victime de l'effet de halo en attribuant des vertus héroïques à un inconnu sur la base d'une simple photo. Il réalise que ce mécanisme de sabotage est lié à son besoin de validation ancré depuis son enfance.</p>
+      <p>Il repose son téléphone sur la table basse et prend une inspiration lente. Il regarde Sandrine qui est plongée dans son livre, ses lunettes glissant légèrement sur son nez.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-de-halo-sur-les-reseaux-sociaux/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-attribution-fondamentale-situation-conflit/">Biais d'attribution fondamentale en situation de conflit</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-attribution-fondamentale-situation-conflit/">Biais d&#x27;attribution fondamentale en situation de conflit</a></h3>
     <div class="parcours-date">2026-04-13</div>
-    <p class="parcours-resume">Lors d'une réunion tendue le 13 avril 2026, Stéphane juge sévèrement son collègue Marc pour le retard d'un contrat avec le groupe Lemoine, l'étiquetant comme incompétent. Sous le regard de Sandrine, il réalise qu'il ignore les causes réelles du problème, notamment une panne de serveur majeure ayant paralysé l'équipe tout le week-end.</p>
+    <p class="parcours-resume">L&#x27;air de la salle de réunion est pesant en ce lundi 13 avril 2026. Stéphane réajuste sa cravate, sentant la texture lisse de la soie sous ses doigts, un réflexe qu&#x27;il a développé pour masquer son trouble.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Stéphane prend conscience qu'il projette ses propres insécurités et son besoin de supériorité sur Marc via le biais d'attribution fondamentale. Il comprend que sa dureté est un mécanisme de défense lié à sa compétition fraternelle et à son anxiété sociale.</p>
+      <p>Stéphane observe Marc qui tente de reprendre le fil de son explication. Au lieu de laisser son irritation dicter sa prochaine remarque cinglante, il se remémore sa propre lutte contre la honte et son besoin de perfection.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-attribution-fondamentale-situation-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-ikea-decision-importante-psychologie/">Effet IKEA : pourquoi nous surestimons nos propres idées ?</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-ikea-decision-importante-psychologie/">Effet IKEA : pourquoi tient-on à ce qu&#x27;on fabrique ?</a></h3>
     <div class="parcours-date">2026-04-17</div>
-    <p class="parcours-resume">Stéphane présente seul un plan stratégique pour le compte Lemoine au siège social, après y avoir travaillé de manière acharnée et solitaire pour se prouver sa valeur face à son frère Philippe. Confronté aux critiques du directeur commercial lors de la réunion, il réagit avec une ferveur irrationnelle, incapable de remettre en question son travail.</p>
+    <p class="parcours-resume">Stéphane ajuste sa cravate devant la glace de l&#x27;ascenseur qui le mène au cinquième étage du siège social. Dans sa main droite, il serre une tablette contenant la nouvelle version du plan stratégique pour le compte Lemoine.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Stéphane est en proie à l'effet IKEA : il confond l'effort fourni avec la qualité de son projet, ce qui le rend hermétique aux conseils extérieurs et aveugle face aux failles de son plan. Il n'a pas encore réussi à prendre la distance nécessaire pour accepter la critique constructive.</p>
+      <p>Assis dans son bureau après la réunion, Stéphane observe son plan stratégique étalé sur la table. Les remarques du directeur commercial résonnent encore, mais cette fois, il ne ressent plus cette colère sourde qui le poussait à vouloir écraser toute contradiction.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-ikea-decision-importante-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/rationalisation-avec-ses-parents/">Rationalisation avec ses parents : pourquoi et comment s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/rationalisation-avec-ses-parents/">Rationalisation avec ses parents : pourquoi et comment s&#x27;en libérer</a></h3>
     <div class="parcours-date">2026-04-28</div>
-    <p class="parcours-resume">Le 28 avril 2026, Stéphane, 46 ans, rend visite à ses parents pour un déjeuner familial. Malgré son succès professionnel apparent, il utilise la rationalisation pour masquer son stress au travail et ses tensions familiales, notamment concernant son fils Maxime et son frère Philippe.</p>
+    <p class="parcours-resume">Aujourd&#x27;hui, le carillon de la porte d&#x27;entrée grince quand Stéphane passe le portail des parents. Il a enfilé sa veste bien coupée par habitude professionnelle, mais ses mains restent froides malgré la poignée ferme qu&#x27;il imprime sur chaque porte depuis l&#x27;enfance.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Stéphane prend conscience que ses justifications automatiques sont un mécanisme de défense hérité de son passé d'enfant parentifié. Il réalise qu'il édulcore la vérité pour maintenir la paix familiale et protéger son image, au détriment d'une expression authentique de ses besoins.</p>
+      <p>Dans la voiture qui le ramène du domicile parental, Stéphane déplie sa note sur le journal des écarts. Il compte quatre moments où il a maquillé la réalité.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/rationalisation-avec-ses-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -106,32 +106,32 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/regression-apres-un-echec-psychologie/">Régression après un échec : comprendre ce mécanisme psychologique</a></h3>
     <div class="parcours-date">2026-05-04</div>
-    <p class="parcours-resume">Après avoir perdu le contrat Lemoine au profit d'un concurrent, Stéphane ressent une détresse profonde qui le renvoie émotionnellement à son enfance. Au lieu de se confier à sa compagne Sandrine, il appelle sa mère pour chercher une consolation enfantine et se réfugie dans sa voiture devant son club de golf.</p>
+    <p class="parcours-resume">Stéphane est garé sur une place de stationnement délimitée par des lignes blanches délavées, juste devant l&#x27;entrée de son club de golf habituel. Ses mains, habituellement si fermes lors d&#x27;une poignée de main commerciale, agrippent le volant en cuir avec une intensité inhabituelle.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Stéphane prend conscience de sa tendance à la régression psychologique, réalisant qu'il abandonne son identité d'adulte compétent pour redevenir l'enfant cherchant la validation maternelle face à l'échec.</p>
+      <p>Trois jours ont passé depuis l&#x27;annonce de la perte du compte Lemoine. Stéphane est assis dans son salon, tandis que Maxime, son fils, travaille sur son bureau à l&#x27;autre bout de la pièce.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/regression-apres-un-echec-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/comparaison-injuste-competition/">Comparaison injuste en situation de compétition : s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/comparaison-injuste-competition/">Comparaison injuste en situation de compétition : s&#x27;en libérer</a></h3>
     <div class="parcours-date">2026-05-12</div>
-    <p class="parcours-resume">Lors d'une séance de musculation le 12 mai 2026, Stéphane se compare douloureusement à un autre sportif, ce qui déclenche des réminiscences de sa rivalité fraternelle avec Philippe et d'une réunion professionnelle marquante le 9 mars. Malgré son masque social impeccable à l'agence, il réalise que ses succès passés sont systématiquement éclipsés par un sentiment d'insuffisance face à la réussite d'autrui.</p>
+    <p class="parcours-resume">La salle de musculation résonne d&#x27;un cliquetis métallique. Stéphane frotte le manche d&#x27;une barre et sent la gomme rugueuse sous ses doigts, puis regarde l&#x27;homme à côté de lui, un homme de son âge dont la silhouette élancée et la posture assurée déclenchent instantanément une série d&#x27;images.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Stéphane prend conscience que sa tendance à la comparaison ascendante est un mécanisme automatique lié à son histoire familiale et qu'il minimise ses propres réussites par une relativisation punitive. Il commence à identifier ses déclencheurs émotionnels pour tenter de briser sa spirale d'anxiété de performance.</p>
+      <p>Dans la semaine qui suit sa séance du 12 mai, Stéphane installe son carnet de preuves sur la table du salon. Sandrine le remarque pendant qu&#x27;il dresse la liste des trois petites victoires de la semaine, et il lui décrit l&#x27;exercice en citant la réunion du 9 mars comme point de référence.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/comparaison-injuste-competition/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-stockholm-quotidien-parents-causes/">Syndrome de Stockholm du quotidien avec ses parents : comprendre</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-stockholm-quotidien-parents-causes/">Loyauté familiale : poser ses limites quand les visites pèsent</a></h3>
     <div class="parcours-date">2026-05-14</div>
-    <p class="parcours-resume">Stéphane, un commercial de 46 ans, se rend chez ses parents en banlieue parisienne pour les aider administrativement. Confronté aux piques de son père et aux plaintes de sa mère, il retombe instantanément dans un rôle d'enfant soumis, justifiant leurs comportements toxiques malgré les avertissements de sa compagne.</p>
+    <p class="parcours-resume">Stéphane ajuste le col de sa chemise dans le reflet de la vitre du train qui le mène vers la banlieue parisienne. À 46 ans, ce commercial de haut vol a l&#x27;habitude de mener des négociations complexes, mais aujourd&#x27;hui, l&#x27;enjeu est différent.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Stéphane prend conscience qu'il souffre d'une forme de syndrome de Stockholm du quotidien, agissant comme un otage émotionnel qui protège ses propres 'geôliers' pour éviter la douleur de la désapprobation.</p>
+      <p>Assis dans le salon de ses parents, Stéphane regarde l&#x27;horloge au-dessus du buffet. Il est 15h30.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-stockholm-quotidien-parents-causes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

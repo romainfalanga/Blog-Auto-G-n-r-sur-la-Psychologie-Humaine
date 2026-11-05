@@ -25,7 +25,7 @@ Sur le trajet, ils s’arrêtent devant un banc encore humide. Elle garde le car
 
 Les soucis de précarité occupent l’attention lorsque des besoins matériels incertains réclament des vérifications, des anticipations et des décisions répétées. Il ne s’agit pas d’une faiblesse de caractère. Chercher comment payer, manger, se déplacer ou garder un logement constitue un travail réel. Quand les ressources restent imprévisibles, certaines questions reviennent parce que leur réponse dépend d’informations encore absentes.
 
-Une étude d’Anandi Mani et de ses collègues examine comment les préoccupations financières peuvent peser sur des performances cognitives dans des situations déterminées. Elle ne permet pas de mesurer les capacités de Samira ni de résumer toute expérience de pauvreté. Elle invite surtout à considérer le coût de la situation avant de conclure qu’une personne manque d’effort ou d’organisation.
+Anandi Mani et ses collègues ont observé des différences dans les résultats de certains tests cognitifs lorsque les préoccupations financières étaient plus présentes, dans les situations qu’ils ont étudiées. Une autre étude, menée par Leandro Carvalho et ses collègues auprès de ménages américains aux revenus modestes, n’a pas trouvé de différence dans ces tests autour du jour de paie. Ces travaux ne mesurent pas les capacités de Samira. Dans son histoire, les horaires à vérifier, les factures et la garde mobilisent concrètement du temps et de l’attention.
 
 L’attention disponible varie aussi avec le sommeil, les interruptions et les exigences professionnelles. Samira ne devient pas incompétente parce qu’elle relit un ticket. Elle accomplit simultanément un travail rémunéré et un travail d’anticipation invisible. Le problème ne se résout donc pas en lui conseillant simplement de penser à autre chose. Une facture reste une facture même lorsque l’on parvient à regarder un arbre.
 
@@ -101,4 +101,5 @@ Si l’inquiétude perturbe durablement le sommeil, le travail ou les liens, un 
 
 Sources :
 - [Mani et ses collègues, étude sur les préoccupations financières et la cognition](https://pubmed.ncbi.nlm.nih.gov/23990553/)
-- [Organisation mondiale de la santé, guide Faire ce qui compte en période de stress](https://www.who.int/publications/i/item/9789240003927)
+- [Carvalho et ses collègues, étude sur les ressources financières et la décision autour du jour de paie](https://business.columbia.edu/faculty/research/poverty-and-economic-decision-making-evidence-changes-financial-resources-payday)
+- [Organisation mondiale de la santé, guide Faire ce qui compte en période de stress](https://www.who.int/fr/publications/b/53604)

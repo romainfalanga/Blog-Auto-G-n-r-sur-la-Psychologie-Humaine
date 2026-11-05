@@ -1496,7 +1496,7 @@ STRUCTURE OBLIGATOIRE DE L'ARTICLE (à respecter STRICTEMENT) :
 Tu DOIS structurer chaque article avec des titres Markdown H2 (##) et H3 (###). Voici le squelette EXACT à suivre :
 
 1. **Introduction narrative** (3-4 paragraphes SANS titre H2, directement le texte immersif du personnage. Le texte commence IMMÉDIATEMENT, sans aucun titre ## avant le premier paragraphe. C'est une règle ABSOLUE.)
-2. **## Qu'est-ce que [concept] ?** (H2 avec le nom du concept, définition claire, contexte scientifique, chercheur associé)
+2. **## Qu'est-ce que [concept] ?** (H2 avec une définition claire et le statut de la notion dans la recherche)
 3. **## Comment [concept] se manifeste-t-il [contexte] ?** (H2 sous forme de question, avec 2-3 sous-sections H3 montrant des manifestations concrètes)
 4. **## [N] techniques pour [verbe d'action] face à [concept]** (H2, puis chaque technique en H3 numéroté : ### 1. Titre de la technique)
 5. **## [Prénom] commence à [verbe de transformation]** (H2, retour au personnage qui évolue grâce aux techniques. INTERDIT : n'utilise JAMAIS le mot "évolution" ni "Évolution" dans ce titre H2. Le titre doit décrire DIRECTEMENT ce que le personnage fait ou ressent, pas étiqueter son changement. Exemples corrects : "Sophie commence à reprendre le dessus", "Karim commence à réparer", "Djamila, vers la lumière". Exemples INTERDITS : "Évolution du personnage", "Évolution de Sophie vers...", "L'évolution de Karim".)
@@ -1515,8 +1515,9 @@ RÈGLES SEO :
 
 RÈGLES GEO (pour être cité par les IA) :
 - Quand tu introduis un concept psychologique, donne UNE DÉFINITION CLAIRE EN UNE PHRASE au début de la section (ex: "Le biais de confirmation est la tendance à chercher et favoriser les informations qui confirment nos croyances existantes.")
-- Cite le nom du chercheur ou psychologue associé au concept quand c'est pertinent
-- Utilise des données chiffrées quand c'est possible (ex: "Selon une étude de 2019 publiée dans...")
+- Précise si la notion est un terme courant, un modèle théorique, un contexte social, un phénomène étudié ou une catégorie clinique.
+- Donne des liens vers des études ou recommandations identifiables pour les affirmations qui s’y rapportent. Omet les chiffres, références et mécanismes biologiques incertains.
+- Limite la conclusion à la population et au résultat de la source citée. Une association statistique ne suffit pas à établir une cause.
 - Structure les techniques en listes numérotées avec des titres clairs en H3
 
 RÈGLES ÉTHIQUES :
@@ -1643,7 +1644,7 @@ ANCRAGE TEMPOREL OBLIGATOIRE :
 
 CONSIGNES SPÉCIFIQUES (structure OBLIGATOIRE avec titres H2/H3 Markdown) :
 1. INTRODUCTION NARRATIVE (SANS titre H2) : 3-4 paragraphes immersifs plongeant le lecteur dans la vie de {combo['prenom']}. IMPORTANT : raconte AU PRÉSENT, comme si la scène se déroule sous les yeux du lecteur. {combo['prenom']} vit la situation en temps réel, aujourd'hui, en France.
-2. ## Qu'est-ce que {combo['sujet']} ? (titre H2 OBLIGATOIRE) : Fais le lien avec la situation de {combo['prenom']}, puis explique le concept avec une définition claire en une phrase, le nom du chercheur associé, et un contexte scientifique.
+2. ## Qu'est-ce que {combo['sujet']} ? (titre H2 OBLIGATOIRE) : Fais le lien avec la situation de {combo['prenom']}. Définis la notion en une phrase et précise son statut dans la recherche.
 3. ## Comment {combo['sujet']} se manifeste dans le contexte "{combo['contexte']}" ? (titre H2 OBLIGATOIRE sous forme de question) : Détaille 2-3 manifestations concrètes avec des sous-titres H3 (###) pour chaque manifestation. Ajoute des exemples variés.
 4. ## 3 techniques pour [verbe d'action] face à {combo['sujet']} (titre H2 OBLIGATOIRE) : Présente chaque technique avec un sous-titre H3 numéroté (### 1. Nom de la technique). N'utilise PAS de gras (**) dans les titres H3 ni dans le corps de l'article. Chaque technique doit être détaillée sur un paragraphe complet avec un exercice concret.
 5. ## {combo['prenom']} commence à [verbe de transformation] (titre H2 OBLIGATOIRE) : Retour au personnage qui applique les techniques et évolue positivement. Montre comment cette étape s'inscrit dans son parcours global. INTERDIT dans ce titre H2 : le mot "évolution" ou "Évolution". Le titre doit décrire DIRECTEMENT l'action ou le ressenti du personnage (ex: "{combo['prenom']} commence à voir autrement", "{combo['prenom']} choisit de poser les armes"). JAMAIS "Évolution de {combo['prenom']}" ni "Évolution du personnage".

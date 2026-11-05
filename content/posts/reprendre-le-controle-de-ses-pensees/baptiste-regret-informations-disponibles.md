@@ -23,7 +23,7 @@ Il ouvre ses premières notes au lieu de continuer à regarder seulement la vers
 
 ## Qu’est-ce que juger un choix avec les informations de l’époque ?
 
-Regarder les informations de l’époque consiste à distinguer ce que l’on savait, ce que l’on pouvait raisonnablement vérifier et ce que le résultat a révélé plus tard. Après un événement, certains liens deviennent plus visibles. Il peut alors sembler qu’ils étaient forcément prévisibles dans leur forme exacte. Cette impression ne dit pas à elle seule ce qu’une personne pouvait connaître avant d’agir. Pour évaluer un choix, il est utile d’examiner la démarche et les éléments disponibles, pas seulement le résultat aujourd’hui connu. Cela ne garantit pas que la démarche était bonne ; cela permet de poser la question plus précisément.
+Regarder les informations de l’époque consiste à distinguer ce que l’on savait, ce que l’on pouvait raisonnablement vérifier et ce que le résultat a révélé plus tard. Dans des expériences de Baruch Fischhoff (1975), des participants informés d’une issue la jugeaient plus probable rétrospectivement que des personnes qui ne la connaissaient pas. Ce biais rétrospectif porte sur le jugement de ce qui était prévisible. Il peut éclairer ce que Baptiste remarque, sans prouver que son regret est injustifié. Pour évaluer un choix, il est utile d’examiner la démarche et les éléments disponibles, pas seulement le résultat aujourd’hui connu. Cela ne garantit pas que la démarche était bonne ; cela permet de poser la question plus précisément.
 
 Un résultat défavorable peut suivre une préparation attentive, tout comme un résultat favorable peut survenir malgré une préparation insuffisante. Ces possibilités ne dispensent pas de responsabilité. Elles évitent simplement d’utiliser la réussite comme preuve automatique de qualité ou la déception comme preuve automatique d’erreur. Les ressources du NHS sur l’examen des pensées invitent à regarder les faits qui soutiennent une interprétation et ceux qui la nuancent. Baptiste peut s’appuyer sur cette démarche pour examiner sa conclusion générale : il aurait dû savoir et aurait donc dû agir autrement. Cette conclusion doit être confrontée à des éléments datés et concrets.
 
@@ -76,5 +76,6 @@ Reconnaître une omission précise ne demande pas de condamner toute une décisi
 Si la relecture des décisions devient répétitive, occupe durablement vos moments de repos ou s’accompagne d’une dévalorisation qui vous inquiète, un psychologue, un médecin ou un professionnel adapté peut vous aider. Le soutien peut distinguer ce qui demande une réparation concrète de ce qui relève d’un reproche sans fin. Il n’a pas à effacer toute responsabilité pour permettre de poursuivre, ni à transformer chaque regret en preuve que vous avez mal choisi.
 
 Sources :
+- [Fischhoff, expériences sur le jugement rétrospectif](https://doi.org/10.1037/0096-1523.1.3.288)
 - [NHS, Thought record](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/)
 - [NHS, Problem solving](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)

@@ -100,5 +100,5 @@ La comparaison avec un frère ou une sœur peut compliquer cet équilibre en tra
 Si la dette ressentie ou les comparaisons familiales rendent les relations durablement pénibles, un psychologue peut accompagner leur exploration. Pour les besoins de relais, un professionnel social peut aussi rechercher des ressources complémentaires. Une personne ne devrait pas devoir prouver son autonomie parfaite pour recevoir un soutien respectueux.
 
 Sources :
-- [Jensen et ses collègues, comparaison fraternelle à l’âge adulte et qualité des relations](https://doi.org/10.1177/0192513X211030726)
+- [Jensen et ses collègues, comparaison fraternelle à l’âge adulte et qualité des relations](https://journals.sagepub.com/doi/full/10.1177/0192513X211030726)
 - [Organisation mondiale de la santé, déterminants sociaux de la santé mentale](https://www.who.int/publications/i/item/9789241506809)

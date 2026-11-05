@@ -1,7 +1,7 @@
 ---
-title: "Le dégoût en couple : comprendre ce signal pour sauver son union"
+title: "Dégoût en couple : comprendre ce que l’on ressent"
 date: 2026-04-15T05:00:08+00:00
-description: "Margot, 52 ans, fait face au dégoût en couple. Découvrez comment décoder cette émotion puissante et agir avant qu'il ne soit trop tard pour votre relation."
+description: "Margot ressent de la répulsion lors d’un dîner avec Philippe. Elle distingue ses sensations, ses jugements et ses limites."
 categories: ["Comprendre et maîtriser ses émotions"]
 tags: ["dégoût", "relation de couple", "psychologie des émotions", "crise de milieu de vie", "communication conjugale"]
 slug: "degout-en-couple-comprendre-agir"
@@ -21,31 +21,31 @@ Elle repense à ce trophée de danse de Chloé retrouvé il y a peu, à cette no
 
 ## Qu'est-ce que le dégoût en couple ?
 
-Le dégoût en couple est une émotion de rejet profond qui se manifeste par une envie de s'éloigner de l'autre pour protéger son intégrité physique ou psychologique. Le psychologue Paul Ekman, pionnier dans l'étude des émotions de base, définit le dégoût comme une réaction universelle de survie visant à éviter l'incorporation de substances contaminantes, mais qui s'étend, dans les relations humaines, au rejet de comportements ou de traits de personnalité jugés toxiques. Dans le cadre conjugal, cette émotion est souvent le signe que les limites personnelles ont été franchies de manière répétée ou que l'intimité est devenue envahissante.
+Dans cette scène, Margot appelle « dégoût » une répulsion qui lui donne envie de s’écarter. Elle peut prendre un instant pour repérer ce qui la gêne : un bruit, une odeur, un contact qu’elle ne souhaite pas ou un échange blessant. L’émotion ne dit pas à elle seule pourquoi elle est là ni ce qu’elle doit décider pour son couple.
 
-Contrairement à la colère qui cherche le conflit pour résoudre un problème, le dégoût cherche l'évitement et la rupture du lien. Des recherches menées par le Laboratoire de Recherche Relationnelle de John Gottman ont identifié le mépris, une forme sociale du dégoût, comme l'un des prédicteurs les plus fiables du divorce. C'est une émotion qui, si elle n'est pas traitée, a tendance à se cristalliser, transformant des détails insignifiants en sources de répulsion majeures.
+Le mépris implique un jugement de supériorité envers une autre personne ; il ne se confond pas avec le dégoût. Dans leur [suivi de couples mariés](https://pubmed.ncbi.nlm.nih.gov/11924092/), John Gottman et Robert Levenson ont exploré les liens entre les émotions observées lors d’échanges et les divorces ultérieurs. Ces résultats ne permettent pas de prédire l’avenir d’un couple à partir d’une réaction de répulsion.
 
 ## Comment le dégoût en couple se manifeste-t-il au quotidien ?
 
 ### 1. L'hypersensibilité aux habitudes physiques
-Lorsque le dégoût s'installe, les aspects sensoriels du partenaire deviennent des agressions. Cela peut être le bruit de sa respiration, son odeur corporelle pourtant familière, ou ses manières de table comme Margot l'expérimente ce soir. Ce qui était autrefois perçu comme une simple habitude ou un trait de caractère sans importance devient un déclencheur de rejet viscéral. Le cerveau émotionnel traite alors la présence du partenaire comme une menace pour le bien-être sensitif de l'individu.
+Lorsque le dégoût s'installe, les aspects sensoriels du partenaire deviennent des agressions. Cela peut être le bruit de sa respiration, son odeur corporelle pourtant familière, ou ses manières de table comme Margot l'expérimente ce soir. Ce qui était autrefois perçu comme une simple habitude ou un trait de caractère sans importance devient un déclencheur de rejet viscéral. Pour Margot, le bruit des couverts devient si envahissant qu’elle a envie de quitter la table.
 
 ### 2. Le retrait de l'intimité et de la tendresse
-La manifestation la plus fréquente du dégoût en couple reste l'évitement du contact physique. On assiste à une sorte de réflexe de recul dès que l'autre tente une approche, un baiser ou une caresse. Ce n'est pas seulement une baisse de libido, mais une véritable barrière cutanée qui se forme. La personne qui ressent le dégoût peut se sentir envahisée par la simple proximité de l'autre sur le canapé, cherchant inconsciemment à recréer un espace vital de sécurité autour de soi.
+On peut avoir envie de reculer devant un contact ou de demander de l’espace, et chacun a le droit de refuser un baiser ou une caresse sans devoir expliquer son ressenti.
 
 ### 3. La dépréciation morale et le jugement permanent
-Le dégoût peut aussi être moral. On commence à juger les valeurs du partenaire, son manque d'ambition, sa paresse ou sa façon de gérer les problèmes comme étant inférieurs ou dégradants. Dans le cas de Margot, sa reconversion exigeante et sa quête de sens font que le comportement plus pantouflard de Philippe lui semble soudainement médiocre. Ce décalage crée une hiérarchie dans le couple où celui qui ressent le dégoût se sent moralement supérieur, ce qui érode les fondements de l'égalité et du respect mutuel. Margot réalise que son driver fais des efforts la pousse à mépriser ceux qui, à ses yeux, semblent se laisser porter par le courant.
+Margot remarque que sa répulsion sensorielle s’accompagne parfois d’un jugement sur Philippe. Les deux ne se confondent pas. On commence à juger les valeurs du partenaire, son manque d'ambition, sa paresse ou sa façon de gérer les problèmes comme étant inférieurs ou dégradants. Dans le cas de Margot, sa reconversion exigeante et sa quête de sens font que le comportement plus pantouflard de Philippe lui semble soudainement médiocre. Ce décalage crée une hiérarchie dans le couple où celui qui ressent le dégoût se sent moralement supérieur, ce qui érode les fondements de l'égalité et du respect mutuel. Margot réalise que son driver fais des efforts la pousse à mépriser ceux qui, à ses yeux, semblent se laisser porter par le courant.
 
 ## 3 techniques pour agir concrètement face au dégoût en couple
 
 ### 1. La technique de l'observation phénoménologique
-Cette méthode consiste à observer la sensation de dégoût comme un phénomène extérieur sans porter de jugement moral sur soi ou sur l'autre. Lorsque la sensation de rejet monte, installez-vous confortablement dans une pièce calme et décrivez précisément ce qui se passe dans votre corps : une tension dans la mâchoire, une lourdeur dans l'estomac, ou une envie de reculer. L'exercice consiste à noter ces faits sur un carnet pendant dix minutes, en utilisant des phrases commençant par "je remarque que". Cela permet de désamorcer l'aspect viscéral de l'émotion en sollicitant le cortex préfrontal, la zone du cerveau responsable de la réflexion logique.
+Cette méthode consiste à observer la sensation de dégoût comme un phénomène extérieur sans porter de jugement moral sur soi ou sur l'autre. Lorsque la sensation de rejet monte, installez-vous confortablement dans une pièce calme et décrivez précisément ce qui se passe dans votre corps : une tension dans la mâchoire, une lourdeur dans l'estomac, ou une envie de reculer. L'exercice consiste à noter ces faits sur un carnet pendant dix minutes, en utilisant des phrases commençant par "je remarque que". Margot peut essayer de distinguer la sensation, la situation et ce qu’elle en déduit, sans se donner pour objectif d’effacer la sensation.
 
 ### 2. La réévaluation cognitive par le biais de la gratitude
-Le dégoût fonctionne comme une loupe qui n'éclaire que les défauts. Pour contrebalancer cet effet, reprenez votre journal de gratitude, comme Margot a l'habitude de le faire, mais orientez-le spécifiquement sur des souvenirs anciens où le partenaire était une source de sécurité ou de plaisir. L'exercice est le suivant : listez chaque jour trois moments du passé où vous avez admiré une qualité de votre conjoint. L'objectif n'est pas de nier le dégoût actuel, mais de rappeler à votre cerveau que le partenaire n'est pas réductible à la source de contamination perçue aujourd'hui, afin de réintroduire de la nuance dans votre perception.
+Si Margot en a envie, elle peut noter un souvenir agréable pour compléter le récit qu’elle se fait de sa relation. Un bon souvenir ne change rien à son droit de refuser un contact ou de poser une limite aujourd’hui.
 
 ### 3. La communication des limites territoriales
-Souvent, le dégoût naît d'un manque d'espace personnel, surtout lors du syndrome du nid vide. La technique consiste à définir des zones de refuge et des moments de solitude obligatoire. Organisez une discussion calme avec votre partenaire pour établir une cartographie de la maison ou de l'emploi du temps où chacun peut être totalement seul, sans sollicitation. L'exercice pratique est de s'octroyer deux heures par jour de solitude totale, sans aucune interaction, pour permettre au système nerveux de s'apaiser et de ne plus percevoir l'autre comme un envahisseur permanent de votre espace vital.
+Si la discussion peut se faire en sécurité, Margot peut demander un moment de tranquillité qui lui convient. Si vous subissez des menaces, des violences ou des pressions sexuelles, [chercher du soutien et vous mettre en sécurité](https://www.service-public.gouv.fr/particuliers/vosdroits/F12544) passe avant la discussion de couple.
 
 ## Margot commence à poser un nouveau regard
 
@@ -57,7 +57,7 @@ En rentrant, elle ne fuit pas dans son bureau. Elle s'installe dans la cuisine o
 
 ---
 
-Le dégoût en couple est sans doute l'une des émotions les plus difficiles à avouer, car elle semble porter en elle une condamnation définitive de la relation. Pourtant, comme Margot l'a découvert, cette réaction viscérale est souvent un signal d'alarme envoyé par notre psyché pour nous indiquer que nos besoins d'autonomie ou nos valeurs sont en souffrance. Identifier cette émotion tôt est utile pour éviter qu'elle ne se transforme en mépris irréparable.
+Le dégoût en couple est sans doute l'une des émotions les plus difficiles à avouer, car elle semble porter en elle une condamnation définitive de la relation. Margot, elle, profite de cette pause pour clarifier le temps dont elle aimerait disposer. La même émotion peut se présenter dans d’autres situations, sans mener à la même décision.
 
 Il est possible de transformer cette crise en une opportunité de redéfinir les bases de l'engagement. En apprenant à mettre des mots sur ces sensations de rejet et en rétablissant des frontières saines, on peut souvent retrouver le chemin vers l'autre. L'important est de ne pas rester seul avec ce sentiment de culpabilité qui accompagne souvent le dégoût, mais de chercher à comprendre ce qu'il raconte de notre propre évolution intérieure.
 

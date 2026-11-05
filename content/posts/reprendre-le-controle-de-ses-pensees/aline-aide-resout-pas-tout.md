@@ -25,7 +25,7 @@ Reconnaître les limites de l’aide consiste à distinguer ce que l’on peut o
 
 Aline peut écouter sa mère, mais elle ne peut pas rendre les soirées de ses parents satisfaisantes à leur place. Elle ne connaît que ce que sa mère choisit de dire. Le fait d’être sa fille lui donne un lien important, pas un accès automatique à toute leur intimité. Si elle organise une réconciliation sans accord, elle risque d’ajouter une intrusion à une difficulté déjà sensible.
 
-Les recherches de Gross et John examinent notamment la retenue de l’expression émotionnelle et la manière de réinterpréter une situation. Elles ne permettent pas d’expliquer une famille à distance. Elles offrent ici un repère pour observer une règle racontée : face à l’inconfort, les membres de cette famille privilégient souvent l’action et réduisent la place accordée à la parole émotionnelle.
+Gross et John étudient deux façons de réguler ses émotions : changer sa manière d’interpréter une situation et retenir l’expression visible de ce que l’on ressent. Leur étude ne porte pas sur les règles de cette famille. La remarque de la mère d’Aline indique qu’elle valorise l’action et la discrétion ; elle ne dit pas ce que les autres membres de la famille ressentent ni pourquoi ils agissent.
 
 Cette règle n’agit pas de manière identique chez tous. Aline peut aimer réparer pour le plaisir de son métier, parce qu’un besoin matériel existe ou parce qu’elle ne sait pas quoi dire. Elle ne doit pas attribuer toute sa générosité à une phrase familiale. Elle peut simplement remarquer qu’aujourd’hui, son envie d’organiser quelque chose apparaît au moment où l’écoute devient incertaine.
 

@@ -21,37 +21,37 @@ Le regard de Stéphane croise celui de Sandrine, qui l'accompagne par la pensée
 
 ## Définition du biais d'attribution fondamentale
 
-Le biais d'attribution fondamentale est la tendance psychologique à surestimer l'importance des caractéristiques personnelles d'un individu et à sous-estimer l'influence des facteurs situationnels pour expliquer son comportement. En d'autres termes, si quelqu'un échoue, nous pensons que c'est à cause de sa personnalité, alors que si nous échouons, nous invoquons les circonstances. Ce concept a été mis en lumière par le psychologue Lee Ross en 1977, suite à des expériences démontrant que les observateurs ignorent souvent les contraintes sociales imposées aux acteurs.
+On parle de biais d'attribution fondamentale lorsqu'on donne trop de poids aux dispositions d'une personne et trop peu aux contraintes de la situation. Dans une [expérience classique de Jones et Harris](https://doi.org/10.1016/0022-1031(67)90034-0), des participants attribuaient parfois à l'auteur d'un texte l'opinion qu'il avait défendue, même lorsqu'on lui avait imposé cette position.
 
-Pour Stéphane, ce mécanisme est particulièrement actif. En attribuant l'échec de Marc à une faiblesse de caractère, il se place inconsciemment dans une position de supériorité. C'est une manière de calmer cette anxiété sociale qui le ronge depuis qu'il est petit garçon, vivant dans l'ombre d'un frère brillant. Si Marc est intrinsèquement incompétent, alors Stéphane est intrinsèquement meilleur, ce qui apaise momentanément son syndrome de l'imposteur. La psychologie sociale montre que ce biais est un raccourci mental universel qui nous permet de simplifier un monde complexe, mais il devient toxique en situation de conflit.
+Stéphane juge Marc à partir d'un retard avant de prendre en compte la panne du serveur. Il peut reconnaître l'erreur de jugement sans conclure qu'elle révèle forcément un problème de confiance en lui.
 
 ## Manifestations du biais en situation de conflit
 
-Le biais d'attribution fondamentale en situation de conflit transforme souvent une simple maladresse en une guerre d'intentions. Lorsque nous sommes en désaccord ou que nous subissons un préjudice, notre cerveau cherche un coupable facile.
+Dans ce conflit, Stéphane traite son jugement sur Marc comme une explication alors qu'il lui manque une partie des faits.
 
-### 1. La personnalisation de l'erreur d'autrui
+### 1. Expliquer un retard par le caractère
 
 Dans le feu de l'action, nous avons tendance à croire que l'autre agit par malveillance ou par défaut de caractère. Si un collègue ne répond pas à un e-mail urgent, nous nous disons qu'il est arrogant ou désorganisé. Nous oublions qu'il traverse peut-être une crise familiale ou que sa boîte de réception est saturée par un problème technique. Pour Stéphane, voir Marc bafouiller devient la preuve d'une nature fragile, et non le signe d'une fatigue accumulée après une nuit de travail sur les serveurs. Ce réflexe de condamnation immédiate rappelle à Stéphane son récent dégoût viscéral envers les méthodes de Marc lors du dernier séminaire ; il réalise que son cerveau utilise ses griefs passés pour valider son jugement actuel, transformant une circonstance technique en un défaut moral définitif.
 
-### 2. L'indulgence excessive pour ses propres failles
+### 2. Comparer les informations dont on dispose
 
-À l'inverse, lorsque nous commettons la même erreur, nous sommes extrêmement conscients des facteurs extérieurs. Si Stéphane arrive en retard à une réunion, il l'attribue aux embouteillages exceptionnels ou à un appel imprévu de son fils Maxime. Il ne se dira jamais qu'il est un éternel retardataire. Ce décalage de perception crée un sentiment d'injustice flagrant durant les conflits : nous nous sentons incompris alors que nous jugeons les autres sans nuance. Stéphane se souvient de sa propre présentation devant les clients importants où il bégayait par peur de l'imperfection ; à ce moment-là, il aurait détesté qu'on le juge sur sa seule nervosité plutôt que sur la qualité de son dossier.
+Stéphane connaît ses propres raisons quand il arrive en retard, sans forcément connaître celles de Marc. Ce contraste n'est pas la définition du biais. Une [méta-analyse de Bertram Malle](https://pubmed.ncbi.nlm.nih.gov/17073526/) n'a pas retrouvé l'asymétrie générale souvent résumée par « nos actes s'expliquent par la situation, ceux des autres par leur caractère ».
 
 ### 3. L'ancrage dans l'éducation et la comparaison
 
-Ce biais est souvent renforcé par une éducation basée sur la performance et la comparaison constante. Stéphane a grandi avec l'idée que le succès est une question de volonté et de talent inné, une vision transmise par des parents qui louaient les facilités de son frère Philippe. En conséquence, face à un conflit, il perçoit les difficultés de ses collaborateurs comme des tares éducatives ou caractérielles. Cela durcit ses interactions et empêche toute résolution constructive, car il ne cherche plus une solution, mais confirme un jugement sur la personne.
+Stéphane se souvient des comparaisons avec Philippe et se demande si elles influencent son regard aujourd'hui. C'est une piste du récit, pas une cause établie du biais.
 
 ## Techniques pour agir avec discernement
 
-Pour ne plus tomber dans le piège de la condamnation automatique, il est nécessaire de rééduquer notre regard sur les comportements d'autrui, surtout quand la tension monte.
+Tenir compte des circonstances aide à décider quoi demander. Cela n'efface pas la responsabilité éventuelle de chacun.
 
 ### 1. La technique des trois scénarios alternatifs
 
-Face à un comportement qui provoque une irritation ou déclenche un conflit, forcez votre esprit à générer trois explications qui n'ont rien à voir avec la personnalité de l'individu. Par exemple, si Marc ne rend pas son rapport à temps, imaginez que : 1. Il attend une information cruciale d'un tiers. 2. Il a mal interprété la priorité de la tâche à cause d'une consigne floue. 3. Il fait face à un imprévu technique majeur. Cet exercice permet de briser l'automatisme du jugement de caractère et de ramener la discussion sur des faits situationnels. Stéphane applique désormais cette méthode pour éviter de sombrer dans l'effet de halo négatif qu'il avait ressenti en comparant sa vie à celle d'Antoine sur les réseaux sociaux, où il projetait des qualités ou des défauts sans aucune preuve tangible.
+Avant de juger le retard, Stéphane peut identifier un autre facteur possible : une consigne floue, une donnée manquante ou la panne de serveur. Il peut ensuite chercher à vérifier plutôt que choisir l'explication qui lui convient.
 
 ### 2. Le retournement de perspective temporelle
 
-Imaginez que vous êtes à la place de la personne que vous jugez, mais avec votre propre historique de stress. Demandez-vous : dans quelles circonstances précises pourrais-je agir exactement comme elle ? Si Stéphane se rappelle ses propres sueurs froides avant une présentation, il peut comprendre que le bafouillage de Marc est une réaction physiologique au stress et non une preuve d'incompétence. C'est utiliser son propre vécu de l'effet spotlight pour développer une empathie tactique en plein conflit.
+Se rappeler sa propre nervosité peut ouvrir une hypothèse sur celle de Marc. Cela ne permet pas de savoir avec certitude ce qu'il éprouve.
 
 ### 3. La reformulation centrée sur le contexte
 
@@ -67,7 +67,7 @@ Le soir, en rentrant chez lui, Stéphane ne ressent pas le besoin habituel de se
 
 ---
 
-Le parcours de Stéphane montre que nos jugements les plus sévères sont souvent le reflet de nos propres insécurités. En apprenant à identifier le biais d'attribution fondamentale, nous passons d'un état de réaction défensive à un état d'action consciente. Ce n'est pas seulement une technique de communication, c'est un chemin vers une meilleure connaissance de soi et une paix relationnelle durable.
+Dans la réunion, la question sur le serveur ouvre une discussion que l'étiquette « incompétent » aurait fermée. Stéphane peut tenir compte d'une contrainte et demander ce qui aurait pu être fait autrement.
 
 Nous avons tous tendance à être les héros de notre propre histoire et les critiques impitoyables de celle des autres. Pourtant, chaque personne que nous rencontrons mène une bataille dont nous ne savons rien. En accordant aux autres la même nuance que celle que nous espérons pour nous-mêmes, nous transformons radicalement la qualité des échanges et la gestion des conflits quotidiens.
 

@@ -23,7 +23,7 @@ Cédric lui demande quelle tâche il aimerait mieux comprendre lors du prochain 
 
 La motivation désigne les processus qui orientent une personne vers une activité, soutiennent son engagement ou la conduisent à s'en éloigner. Elle peut inclure le plaisir de faire, l'intérêt d'apprendre, un résultat important ou une contrainte extérieure. Ces raisons peuvent coexister dans la même journée. Une personne n'a pas besoin d'éprouver le même enthousiasme pour chaque partie d'un travail pour y trouver un sens ou décider de le poursuivre.
 
-Edward Deci et Richard Ryan développent la théorie de l'autodétermination, qui distingue différentes qualités de motivation et souligne les besoins d'autonomie, de compétence et de lien. Le contexte peut soutenir ou contrarier ces besoins. Cette approche n'invite pas à opposer simplement la passion et l'argent. Elle aide à examiner comment les raisons d'agir sont vécues et quelles conditions permettent un engagement plus choisi.
+Dans la théorie de l'autodétermination de Richard Ryan et Edward Deci, la motivation intrinsèque correspond à l'intérêt ou au plaisir que procure l'activité elle-même. Une motivation extrinsèque vise un résultat distinct de l'activité. Elle peut être vécue comme une pression ou comme une raison que l'on fait sienne. Éloi peut aimer certains gestes, tenir à apprendre un métier et avoir besoin d'un revenu. Le cadre de travail peut soutenir son autonomie, son sentiment de compétence et ses liens avec l'équipe.
 
 L'intérêt peut aussi évoluer avec l'expérience. Une tâche d'abord opaque devient parfois plus attirante lorsqu'on comprend ce qu'on observe et ce qu'on peut y modifier. À l'inverse, une activité appréciée peut devenir pénible dans une cadence excessive ou un cadre humiliant. L'absence d'élan ne renseigne donc pas seulement sur une préférence profonde. Elle peut signaler un manque de moyens, de repos, de compréhension ou de marge de choix.
 
@@ -91,4 +91,4 @@ Vous pouvez regarder ce qui vous attire dans une activité, ce qui compte pour v
 
 Si la perte d'intérêt devient durable, touche de nombreuses activités ou s'accompagne d'une souffrance importante, un professionnel peut vous aider à comprendre ce qui se passe. Un formateur ou un interlocuteur du travail peut aussi agir sur les conditions concrètes. La motivation mérite d'être soutenue, pas seulement exigée.
 
-Sources : [Deci et Ryan, cadre de la théorie de l'autodétermination](https://selfdeterminationtheory.org/theory/) ; [Ryan et Deci, motivation et besoins psychologiques](https://doi.org/10.1037/0003-066X.55.1.68).
+Sources : [Deci et Ryan, cadre de la théorie de l'autodétermination](https://selfdeterminationtheory.org/theory/) ; [Ryan et Deci, motivation et besoins psychologiques](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf).

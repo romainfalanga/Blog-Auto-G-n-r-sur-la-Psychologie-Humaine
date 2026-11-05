@@ -1,7 +1,7 @@
 ---
 title: "Thomas"
 date: 2026-10-30T08:24:22+00:00
-description: "Thomas est enseignant d'histoire-géographie en pleine crise d'épuisement alors qu'il tente de se reconvertir dans l'édition. En couple avec Émilie à Lyon, il se sent submergé par la peur de l'échec et son rôle de 'sauveur'."
+description: "Professeur d’histoire-géographie à Lyon, Thomas envisage de se reconvertir dans l’édition. Il essaie de poser des limites au travail et avec ses proches."
 slug: "thomas"
 prenom: "Thomas"
 date_naissance: "1992-02-22"
@@ -16,45 +16,45 @@ draft: false
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/jeux-psychologiques-karpman-couple/">Les jeux psychologiques (triangle de Karpman) en couple</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/jeux-psychologiques-karpman-couple/">Triangle de Karpman : Thomas apprend à écouter Émilie</a></h3>
     <div class="parcours-date">2026-03-15</div>
-    <p class="parcours-resume">Le 15 mars 2026, lors d'une discussion tendue dans leur cuisine, Thomas tente d'imposer des solutions aux problèmes professionnels d'Émilie au lieu de l'écouter. Cette interaction déclenche un conflit où Thomas réalise qu'il a endossé son rôle habituel de sauveur au sein du triangle de Karpman.</p>
+    <p class="parcours-resume">Thomas est assis à la table de la cuisine, sa tasse de café encore tiède entre les mains. À travers la fenêtre, les premières feuilles des platanes tremblent sous une pluie fine, en ce 15 mars 2026.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Thomas prend conscience que son automatisme de sauveur sert à masquer des angoisses plus profondes, notamment sa peur de décevoir et son appréhension face au sujet de la parentalité.</p>
+      <p>Thomas essaie la technique du journal dès le lendemain. Le matin du 16 mars 2026, après une course sous la pluie, il s&#x27;assoit avec son carnet et retranscrit la soirée précédente.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/jeux-psychologiques-karpman-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-conformite-travail/">Biais de conformité au travail : comment il s’installe sans qu’on voie</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-conformite-travail/">Conformité au travail : quand Thomas hésite à contredire</a></h3>
     <div class="parcours-date">2026-03-18</div>
-    <p class="parcours-resume">Lors d'une réunion en salle des professeurs, Thomas accepte sans protester un nouveau protocole pédagogique imposé par sa collègue Valérie, malgré ses doutes sur l'efficacité pour ses élèves de seconde. Bien qu'il tente d'appliquer des techniques de pose de limites apprises après une dispute avec Émilie, il finit par céder à la pression du groupe pour maintenir l'harmonie.</p>
+    <p class="parcours-resume">La cloche de la salle des professeurs tinte en même temps qu&#x27;une chaise raclant le sol. Thomas froisse un peu la feuille du nouveau protocole que Valérie étale sur la table, son stylo glissant entre ses doigts.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Thomas réalise avec amertume que son besoin de conformité est une extension de son complexe du sauveur : il troque son rôle de protecteur contre celui d'exécutant docile pour masquer sa peur de décevoir et d'être exclu.</p>
+      <p>Aujourd&#x27;hui, Thomas met en œuvre ces techniques en saluant d&#x27;abord la logique exprimée par Valérie, puis en proposant le test pilote avec une voix qui tremble légèrement mais qui conserve un ton factuel. Il utilise la phrase tampon qu&#x27;il a répétée.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-conformite-travail/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/lecture-pensee-en-couple/">Lecture de pensée en couple : quand on croit deviner l'autre</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/lecture-pensee-en-couple/">Lecture de pensée en couple : quand on croit deviner l&#x27;autre</a></h3>
     <div class="parcours-date">2026-03-21</div>
-    <p class="parcours-resume">Lors d'un dîner tendu le 15 mars, Thomas interprète le silence d'Émilie comme un jugement sur leur discussion de la veille concernant la parentalité. Pour pallier son anxiété, il se lance dans un monologue justificatif et des aveux sur ses propres peurs avant même qu'elle n'exprime la moindre critique.</p>
+    <p class="parcours-resume">La poêle fait un petit cliquetis quand Thomas retourne les légumes. Émilie mange lentement, le regard posé sur la fenêtre embuée par la pluie fine qui tombe dehors.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Thomas identifie son réflexe de 'lecture de pensée' comme un prolongement de sa peur de décevoir et de son rôle de sauveur, réalisant que ses suppositions dictent ses réactions au détriment d'une communication authentique.</p>
+      <p>Ce soir, après avoir commencé à justifier ses positions comme auparavant, Thomas ralentit sa propre voix. Il pense à la vérification factuelle qu&#x27;il a pratiquée après la réunion du 18 mars.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/lecture-pensee-en-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/culpabilite-face-a-l-argent-et-finances/">Culpabilité face à l'argent et aux finances : s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/culpabilite-face-a-l-argent-et-finances/">Culpabilité face à l’argent : Thomas hésite devant un achat</a></h3>
     <div class="parcours-date">2026-03-24</div>
-    <p class="parcours-resume">Thomas se retrouve paralysé au supermarché, incapable de choisir entre un café de marque pour faire plaisir à sa compagne Émilie et une marque distributeur pour économiser. Ce dilemme financier réveille en lui des voix du passé et une profonde anxiété liée à ses responsabilités de futur père et à son récent salaire d'enseignant.</p>
+    <p class="parcours-resume">Le froid piquant de ce matin de mars s&#x27;insinue sous le manteau de Thomas alors qu&#x27;il marche dans l&#x27;allée du supermarché. Ses yeux font des allers-retours incessants entre la liste de courses rédigée par Émilie et les étiquettes de prix sur les étagères.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Thomas prend conscience que son rapport à l'argent est dicté par un héritage familial de sacrifice et que sa culpabilité financière influence ses interactions sociales, le poussant à l'effacement de soi.</p>
+      <p>De retour dans sa cuisine, Thomas range les courses. Il a finalement pris le café préféré d&#x27;Émilie, ainsi que le paquet moins cher pour ses propres tasses du matin.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/culpabilite-face-a-l-argent-et-finances/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -62,54 +62,54 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/abnegation-et-sacrifice-de-soi-en-amitie/">Abnégation et sacrifice de soi en amitié : comment dire stop ?</a></h3>
     <div class="parcours-date">2026-04-01</div>
-    <p class="parcours-resume">Thomas se retrouve tiraillé entre une demande pressante de son ami Antoine pour un déménagement et une promesse faite à sa compagne Émilie. Incapable de dire non par peur de décevoir, il finit par envoyer un message ambigu qui sacrifie son propre bien-être et son couple pour éviter le conflit.</p>
+    <p class="parcours-resume">Le vent frais d&#x27;avril s&#x27;engouffre dans la cour du lycée alors que Thomas range ses copies de terminale dans son sac en cuir usé. Il consulte sa montre, il est déjà tard, mais son ami d&#x27;enfance, Antoine, vient de lui envoyer un message vocal de quatre minutes.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Thomas prend conscience que son abnégation est un schéma ancré depuis son enfance pour maintenir l'harmonie, mais il reste pour l'instant incapable de briser ce cycle de sacrifice de soi malgré la fatigue émotionnelle qu'il ressent.</p>
+      <p>Le lendemain de la réception du message d&#x27;Antoine, Thomas se trouve dans la salle des professeurs, songeur. Il observe Valérie qui lui demande à nouveau de jeter un œil à son nouveau projet pédagogique.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/abnegation-et-sacrifice-de-soi-en-amitie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/ennui-lors-un-demenagement-signes-anxiete/">Ennui lors d'un déménagement : comprendre ce signal d'alerte</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/ennui-lors-un-demenagement-signes-anxiete/">Ennui au milieu des cartons : ce que Thomas remarque</a></h3>
     <div class="parcours-date">2026-04-12</div>
-    <p class="parcours-resume">Le 12 avril 2026, Thomas emménage avec sa compagne Émilie dans un nouvel appartement à Lyon après avoir reçu l'aide de son frère Antoine. Malgré l'importance de l'événement, il se retrouve paralysé par un ennui profond et un désengagement émotionnel total face aux cartons à déballer.</p>
+    <p class="parcours-resume">Thomas contemple les cartons empilés dans le salon de leur nouvel appartement, situé dans une petite rue calme de Lyon. Le ruban adhésif crisse sous ses doigts alors qu&#x27;il scelle la dernière boîte de livres d&#x27;histoire.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Thomas identifie que son ennui n'est pas de la paresse, mais un mécanisme de défense psychologique pour fuir l'angoisse liée au changement et aux futures responsabilités, comme la parentalité. Il prend conscience que son habituel 'réflexe de sauveur' s'est éteint, laissant place à un évitement cognitif.</p>
+      <p>Assis sur une pile de journaux, Thomas se demande s’il craint de décevoir Émilie. Il n’a pas besoin d’en être certain pour reprendre doucement par un carton de photos.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/ennui-lors-un-demenagement-signes-anxiete/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/punition-ecole-etudes-schema-repetitif/">Punition à l'école ou aux études : comprendre ce schéma répétitif</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/punition-ecole-etudes-schema-repetitif/">Punition à l’école : distinguer la règle et la note</a></h3>
     <div class="parcours-date">2026-04-16</div>
-    <p class="parcours-resume">Thomas, enseignant à Lyon, se retrouve dans sa salle de classe face à Julie, une élève n'ayant pas rendu son projet. Tiraillé entre le règlement imposé par ses collègues et son empathie, il hésite à lui infliger un zéro pointé.</p>
+    <p class="parcours-resume">L&#x27;odeur de la craie et le bourdonnement des néons de la salle 204 semblent plus lourds que d&#x27;habitude en ce jeudi 16 avril 2026. Thomas ajuste ses lunettes tout en fixant la pile de copies étalée sur son bureau de chêne clair.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Thomas réalise que son refus de sanctionner est une projection de sa propre peur panique de la punition et de l'échec, héritée d'une enfance marquée par le besoin de ne jamais décevoir ses parents.</p>
+      <p>Assis dans le silence de sa classe alors que Julie vient de sortir avec une échéance de remise fixée conformément aux règles du lycée, Thomas ressent une sensation inhabituelle. Ce n&#x27;est pas le soulagement de celui qui a évité le conflit, mais la satisfaction de celui qui a enfin posé une…</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/punition-ecole-etudes-schema-repetitif/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/pensee-de-groupe-en-tant-que-manager-solutions/">Pensée de groupe en tant que manager : s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/pensee-de-groupe-en-tant-que-manager-solutions/">Pensée de groupe : faire place au désaccord en réunion</a></h3>
     <div class="parcours-date">2026-04-22</div>
-    <p class="parcours-resume">Lors d'une réunion pédagogique au lycée, Thomas, coordinateur de niveau, se retrouve confronté à la pression de Valérie qui souhaite supprimer un voyage scolaire en Provence. Malgré ses doutes intérieurs, il lutte contre son envie de s'effacer pour maintenir l'harmonie du groupe, faisant écho à ses difficultés personnelles récentes avec Émilie.</p>
+    <p class="parcours-resume">Le plafond de la salle de réunion du lycée semble plus bas que d&#x27;habitude sous la lumière crue des néons. Thomas ajuste ses lunettes, ses doigts effleurant sa barbe de trois jours.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Thomas prend conscience que son besoin de validation et sa peur du conflit le poussent à l'autocensure et à la pensée de groupe, l'empêchant d'exercer son rôle de manager avec intégrité.</p>
+      <p>La réunion touche à sa fin quand Thomas sent une chaleur monter dans son cou. Il se souvient de son passage dans le triangle de Karpman avec Émilie, où il avait compris que vouloir sauver tout le monde finissait par l&#x27;étouffer.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/pensee-de-groupe-en-tant-que-manager-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/accablement-en-periode-de-reconversion-professionnelle/">Accablement et reconversion : comment sortir de l'impasse ?</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/accablement-en-periode-de-reconversion-professionnelle/">Accablement et reconversion : Thomas demande du soutien</a></h3>
     <div class="parcours-date">2026-04-29</div>
-    <p class="parcours-resume">Thomas, en pleine reconversion dans l'édition à Lyon, se sent totalement paralysé par l'accablement dans son nouvel appartement avec Émilie. Entre ses cartons non déballés et ses copies de lycéens non corrigées, il est incapable de répondre aux sollicitations de sa collègue Valérie ou de rassurer sa compagne sur l'avancée de son portfolio.</p>
+    <p class="parcours-resume">Thomas fixe l&#x27;écran de son ordinateur portable, les yeux piquant sous la lumière crue de la cuisine. À Lyon, ce 29 avril 2026, la pluie cogne avec une régularité de métronome contre les vitres du nouvel appartement qu&#x27;il partage avec Émilie.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Thomas prend conscience que son épuisement n'est pas une simple fatigue, mais une saturation de son système nerveux liée à son rôle historique de 'sauveur' et à une peur viscérale de l'échec. Il commence à comprendre que sa paralysie décisionnelle est un mécanisme de protection face à la surcharge émotionnelle de sa transition professionnelle.</p>
+      <p>Assis sur son canapé, Thomas lâche enfin son stylo. Pour la première fois depuis des semaines, il ne cherche pas à lutter contre la fatigue.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/accablement-en-periode-de-reconversion-professionnelle/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -117,21 +117,21 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/declencheurs-emotionnels-situation-conflit/">Déclencheurs émotionnels : les identifier en situation de conflit</a></h3>
     <div class="parcours-date">2026-05-08</div>
-    <p class="parcours-resume">Lors d'un après-midi de jour férié à Lyon, Thomas subit une montée d'angoisse suite à une remarque d'Émilie sur sa reconversion professionnelle. Confronté au ton tranchant de sa compagne et au bruit d'un plat en verre, il se retrouve paralysé par la peur de mal faire, un sentiment qui fait écho à ses difficultés passées au supermarché et à son travail d'enseignant.</p>
+    <p class="parcours-resume">Le silence pèse lourd dans le salon de leur appartement lyonnais ce vendredi 8 mai. Thomas est debout près de la fenêtre, observant les passants qui profitent du jour férié.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Thomas identifie pour la première fois ses réactions physiques comme des signaux d'alerte de son corps. Il prend conscience que son besoin de plaire et sa peur du conflit sont des mécanismes de défense hérités de son enfance, et il commence à ressentir une colère sous-jacente au lieu de sa docilité habituelle.</p>
+      <p>Thomas ne baisse pas les yeux. Il sent toujours l&#x27;inconfort dans sa poitrine, mais il refuse de se laisser emporter par son réflexe de fuite habituel.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/declencheurs-emotionnels-situation-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/surgeneralisation-ecole-lycee/">Surgénéralisation à l'école : comprendre et agir au lycée</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/surgeneralisation-ecole-lycee/">Surgénéralisation à l&#x27;école : comprendre et agir au lycée</a></h3>
     <div class="parcours-date">2026-05-10</div>
-    <p class="parcours-resume">Thomas, enseignant en pleine reconversion dans l'édition, fait face à une crise de confiance dans un couloir d'école après avoir corrigé une copie ratée. Sa collègue Valérie l'invite à une réunion alors qu'il lutte contre une paralysie décisionnelle liée à ses doutes professionnels et personnels.</p>
+    <p class="parcours-resume">La sonnerie vient de retentir mais Thomas reste appuyé contre le mur du couloir, son sac posé à ses pieds. Autour de lui, des élèves rient, des feuilles volent, et l&#x27;odeur de craie ancienne remonte des salles.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Thomas parvient à identifier son mécanisme de surgénéralisation et tente de mettre en pratique une technique de distinction entre les faits bruts et ses interprétations catastrophiques. Il prend conscience de ses automatismes de 'sauveur' et de ses peurs liées à son passé pour mieux les confronter.</p>
+      <p>Dans le couloir du lycée, Thomas relit la copie qu&#x27;il a annotée. Il se rappelle la réunion du 15 mars où il avait endossé le rôle de sauveur, et la récente prise en main des déclencheurs qu&#x27;il a identifiés le 8 mai.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/surgeneralisation-ecole-lycee/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -139,10 +139,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/sublimation-reconversion-professionnelle/">Sublimation en période de reconversion professionnelle</a></h3>
     <div class="parcours-date">2026-05-16</div>
-    <p class="parcours-resume">Thomas se trouve dans une librairie lyonnaise le 16 mai 2026, hanté par son passé d'enseignant et son burn-out alors qu'il postule pour un poste d'éditeur. Il réfléchit à sa difficulté de dire non et à sa tendance à se sacrifier, tout en s'exerçant à l'annotation de manuscrits pour sa reconversion.</p>
+    <p class="parcours-resume">Il est 16 mai 2026, Thomas parcourt le rayon poésie d&#x27;une petite librairie lyonnaise, les doigts effleurant des couvertures rugueuses. L&#x27;odeur du papier humide après la pluie lui rappelle ses années d&#x27;étudiant.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Thomas commence à percevoir que son besoin de 'sauver' les autres peut être transformé en rigueur éditoriale, mais il réalise qu'il doit apprendre à distinguer la réalisation de soi de la simple protection contre l'angoisse.</p>
+      <p>Dans la librairie, Thomas reprend son cahier. Il se rappelle la réunion du 18 mars où il avait accepté le protocole de Valérie sans rien dire, et le malaise que cela lui a laissé.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/sublimation-reconversion-professionnelle/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

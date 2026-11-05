@@ -21,9 +21,9 @@ Le téléphone affiche un message de sa fille Isabelle qui lui demande si elle c
 
 ## Définition de l'isolement social et de l'aliénation
 
-L'isolement social et l'aliénation se définissent comme un état de déconnexion profonde, où l'individu se sent étranger à son environnement social et incapable d'établir des liens significatifs. Selon le sociologue Melvin Seeman, qui a théorisé ce concept dans les années 1950, l'aliénation se décline en plusieurs dimensions, notamment le sentiment d'impuissance, l'absence de sens et l'isolement social. Ce n'est pas simplement le fait d'être seul physiquement, c'est la sensation d'être déconnecté des valeurs, des normes et des autres membres de la communauté, même en étant entouré.
+L’isolement social renvoie à la rareté des contacts ou des liens, tandis que la [solitude ressentie](https://joint-research-centre.ec.europa.eu/scientific-activities/survey-methods-and-analysis-centre/loneliness/defining-loneliness_en) est l’écart entre les liens que l’on a et ceux dont on a besoin. On peut apprécier d’être seul ou se sentir seul parmi d’autres. Dans un [article de 1959](https://doi.org/10.2307/2088565), le sociologue Melvin Seeman distinguait plusieurs sens de l’aliénation, dont l’impuissance, la perte de sens et l’isolement ; le terme ne se réduit pas à un diagnostic ou à une peur des autres.
 
-Dans le cas de Monique, cette aliénation est teintée de nostalgie et de deuil, créant une barrière entre son identité passée d'épouse et de professeure respectée et sa réalité actuelle de femme seule. Ce mécanisme psychologique agit souvent comme une protection contre la peur d'être incompris ou rejeté, mais il finit par emprisonner la personne dans une cellule dont elle a elle-même forgé les barreaux. Elle a appris à nommer cette impuissance qui la paralysait autrefois devant sa tasse de thé refroidie, mais l'étape suivante consiste à ne plus laisser cette étiquette devenir sa seule identité sociale.
+Monique se sent loin des conversations qui rythmaient autrefois sa journée. Le décès de Jean-Claude et le changement de rythme après la retraite comptent, de même que ses envies du moment et les occasions de voir des proches.
 
 ## Manifestations dans les interactions sociales
 
@@ -40,20 +40,20 @@ En société, l'aliénation peut prendre la forme d'un silence pesant. Lors de r
 
 ## Techniques pour agir face à l'isolement
 
-Pour sortir de cette impasse, il est nécessaire de déconstruire les croyances héritées de l'enfance et de réapprendre à s'exposer avec douceur au regard de l'autre.
+Monique peut partir d’un lien qu’elle aimerait retrouver ou d’un obstacle concret, comme la fatigue, les horaires ou un déplacement difficile. Il n’est pas nécessaire d’attribuer sa solitude à l’enfance pour demander du soutien.
 
 ### 1. La technique du dévoilement progressif
-Cette méthode consiste à partager une information personnelle mineure, mais authentique, lors d'une interaction banale. Au lieu de répondre que tout va bien à une question de courtoisie, l'exercice consiste à exprimer une émotion réelle, par exemple : "Je me sens un peu nostalgique aujourd'hui avec ce temps pluvieux". Cela permet de briser le mur de l'aliénation en créant une brèche d'humanité. L'objectif est de constater que l'autre ne nous rejette pas lorsqu'on enlève le masque, mais qu'au contraire, cela favorise souvent une connexion plus sincère.
+Si vous en avez envie, vous pouvez dire à une personne de confiance comment vous vous sentez. Monique choisit quelques mots et Geneviève l’écoute. Cette réponse n’est pas garantie ; vous avez le droit de garder des choses pour vous.
 
 ### 2. La cartographie des héritages éducatifs
-Il s'agit d'un exercice d'écriture réflexive. Sur une feuille de papier, listez les règles implicites reçues de vos parents concernant les relations sociales, comme l'idée de ne pas déranger, de garder ses problèmes pour soi ou d'être toujours impeccable. À côté de chaque règle, notez comment elle influence votre comportement actuel de retrait. En prenant conscience que votre isolement social et votre aliénation sont en partie le fruit d'un conditionnement ancien, vous pouvez choisir activement de désobéir à ces vieilles consignes pour tester de nouvelles manières d'être avec les autres.
+Vous pouvez noter les situations où la solitude vous pèse, celles où elle vous repose, et les obstacles aux contacts que vous aimeriez. Monique se demande si une courte visite lui conviendrait mieux qu’un après-midi entier.
 
 ### 3. La focalisation externe active
 Lors d'une interaction sociale, l'anxiété nous pousse souvent à une auto-observation excessive, comme la manière de se tenir ou la recherche de la phrase parfaite. La technique de focalisation externe consiste à porter toute son attention sur l'autre : la couleur de ses yeux, le timbre de sa voix, le contenu exact de ses propos. En devenant un observateur curieux plutôt qu'un juge sévère de soi-même, on diminue la charge mentale liée à l'aliénation et on se reconnecte au moment présent, facilitant ainsi une réponse naturelle et fluide.
 
 ## Évolution de Monique : ouvrir sa porte
 
-Le carillon de l'entrée retentit, interrompant les pensées de Monique. C'est Geneviève, sa voisine, qui vient chercher la réponse pour le thé de l'après-midi. Habituellement, Monique aurait inventé une excuse polie, un mal de tête ou un livre urgent à terminer. Mais elle se souvient de sa réflexion sur son besoin de contrôler son environnement pour ne plus souffrir. Elle réalise que son isolement est une prison dorée qu'elle a elle-même décorée avec ses souvenirs de Jean-Claude. Elle comprend désormais que son biais du monde juste l'avait poussée à s'isoler pour éviter l'imprévisibilité des autres, mais que cette sécurité n'était qu'une autre forme de paralysie.
+Le carillon de l'entrée retentit, interrompant les pensées de Monique. C'est Geneviève, sa voisine, qui vient chercher la réponse pour le thé de l'après-midi. Habituellement, Monique aurait inventé une excuse polie, un mal de tête ou un livre urgent à terminer. Mais elle se souvient de sa réflexion sur son besoin de contrôler son environnement pour ne plus souffrir. Elle se demande si elle a besoin de repos ou si un thé lui ferait plaisir malgré son appréhension.
 
 Elle ouvre la porte et, pour la première fois, elle ne se contente pas d'un sourire de façade. Elle regarde Geneviève et remarque que sa voisine porte un foulard un peu de travers, un détail humain qui la touche. Monique repense à sa technique de dévoilement. Elle ne dit pas que tout est parfait. Elle avoue, d'une voix un peu hésitante, qu'elle craignait de venir car elle se sent parfois un peu rouillée dans l'art de la conversation depuis qu'elle vit seule.
 

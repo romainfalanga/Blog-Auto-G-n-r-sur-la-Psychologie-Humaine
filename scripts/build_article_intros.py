@@ -22,17 +22,6 @@ CHARACTER_NAMES = [p['prenom'] for p in json.loads((ROOT / 'scripts/personnages.
 PERSONALIZED_SENTENCE = re.compile(r'\b(?:Pour|Chez|Dans le cas de|Comme)\s+(?:' + '|'.join(re.escape(name) for name in CHARACTER_NAMES) + r')\b')
 ABBREVIATIONS = {'m', 'mme', 'mlle', 'dr', 'pr', 'prof', 'etc', 'cf', 'ex', 'av', 'env', 'vol', 'p', 'pp', 'al'}
 
-# One older article has no generic definition and remains narrative under its
-# first H2. These exact educational sentences are selected from later sections.
-# Each tuple names the actual source heading and the unchanged source sentence.
-EXTRACTIVE_OVERRIDES = {
-    'posts/comprendre-et-maitriser-ses-emotions/anxiete-face-maladie-blouse': [
-        ('Priya commence à accepter de ressentir', "L'anxiété liée à la maladie ne ressemble pas forcément à une crise de panique : elle s'exprime parfois par une quête de perfection clinique."),
-        ("1. L'identification des mécanismes de défense", "Reconnaître que l'agitation professionnelle sert de bouclier permet de nommer l'émotion sous-jacente."),
-    ]
-}
-
-
 def normalized(text: str) -> str:
     text = unicodedata.normalize('NFD', text.lower().replace('’', "'"))
     return ''.join(c for c in text if unicodedata.category(c) != 'Mn')
@@ -120,7 +109,7 @@ def excerpt(paragraph: str) -> str:
 
 
 def build(write: bool = True) -> tuple[dict, dict]:
-    output, report = {}, {'articles': 0, 'h3_definitions': [], 'extractive_overrides': [], 'short_complete_definitions': [], 'long_complete_definitions': []}
+    output, report = {}, {'articles': 0, 'h3_definitions': [], 'short_complete_definitions': [], 'long_complete_definitions': []}
     for path in sorted((ROOT / 'content/posts').rglob('*.md')):
         if path.name == '_index.md':
             continue
@@ -134,30 +123,19 @@ def build(write: bool = True) -> tuple[dict, dict]:
         body = split[2]
         identifier = path.relative_to(ROOT / 'content').with_suffix('').as_posix()
         candidates = sections(body)
-        if identifier in EXTRACTIVE_OVERRIDES:
-            selected = EXTRACTIVE_OVERRIDES[identifier]
-            for heading, sentence in selected:
-                matching = [s for s in candidates if s['heading'] == heading]
-                if len(matching) != 1 or not any(sentence in p for p in matching[0]['paragraphs']):
-                    raise ValueError(f'Override no longer matches unchanged source: {identifier}')
-            text = ' '.join(sentence for _, sentence in selected)
-            headings = [heading for heading, _ in selected]
-            entry = {'text': text, 'source_heading': headings[0], 'source_headings': headings, 'method': 'extractive_cross_section'}
-            report['extractive_overrides'].append(identifier)
-        else:
-            definition = next((s for s in candidates if any(marker in normalized(s['heading']) for marker in DEFINITION_MARKERS)), None)
-            if not definition or not definition['paragraphs']:
-                raise ValueError(f'No explanatory definition section; review manually: {identifier}')
-            paragraph = definition['paragraphs'][0]
-            if paragraph.startswith(('-', '*', '#')):
-                raise ValueError(f'Expected explanatory prose, not list: {identifier}')
-            text = excerpt(paragraph)
-            # Exactly one contiguous excerpt from one explanatory paragraph.
-            if text not in paragraph:
-                raise ValueError(f'Excerpt is not verbatim after Markdown removal: {identifier}')
-            entry = {'text': text, 'source_heading': definition['heading'], 'source_paragraph': 1, 'method': 'definition_excerpt'}
-            if definition['level'] == 3:
-                report['h3_definitions'].append(identifier)
+        definition = next((s for s in candidates if any(marker in normalized(s['heading']) for marker in DEFINITION_MARKERS)), None)
+        if not definition or not definition['paragraphs']:
+            raise ValueError(f'No explanatory definition section; review manually: {identifier}')
+        paragraph = definition['paragraphs'][0]
+        if paragraph.startswith(('-', '*', '#')):
+            raise ValueError(f'Expected explanatory prose, not list: {identifier}')
+        text = excerpt(paragraph)
+        # Exactly one contiguous excerpt from one explanatory paragraph.
+        if text not in paragraph:
+            raise ValueError(f'Excerpt is not verbatim after Markdown removal: {identifier}')
+        entry = {'text': text, 'source_heading': definition['heading'], 'source_paragraph': 1, 'method': 'definition_excerpt'}
+        if definition['level'] == 3:
+            report['h3_definitions'].append(identifier)
         entry['source_body_sha256'] = hashlib.sha256(body.encode()).hexdigest()
         if len(entry['text']) < 200:
             report['short_complete_definitions'].append({'id': identifier, 'length': len(entry['text'])})

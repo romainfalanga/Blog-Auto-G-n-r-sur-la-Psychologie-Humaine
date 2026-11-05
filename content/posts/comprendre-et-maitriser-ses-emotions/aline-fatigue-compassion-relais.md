@@ -1,7 +1,7 @@
 ---
-title: "Fatigue de compassion : Aline cherche des relais concrets"
+title: "Fatigue de compassion : un terme aux sens variables"
 date: 2026-09-19T08:00:00+00:00
-description: "Les récits difficiles entendus au local continuent après la permanence. Aline cherche un cadre, des relais et une récupération adaptée."
+description: "« Fatigue de compassion » recouvre plusieurs usages et ne pose pas un diagnostic. Aline examine sa fatigue et cherche des relais au local."
 categories: ["Comprendre et maîtriser ses émotions"]
 tags: ["fatigue de compassion", "association", "relais", "écoute", "charge émotionnelle", "soutien"]
 slug: "aline-fatigue-compassion-relais"
@@ -23,7 +23,7 @@ Claire lui demande si elle veut préparer la prochaine permanence. Aline répond
 
 La fatigue de compassion est une expression utilisée pour décrire certaines difficultés liées à l’exposition répétée à la souffrance d’autrui dans une activité d’aide. Ses définitions varient selon les travaux, parfois en lien avec l’épuisement et le stress traumatique secondaire. Le terme ne permet pas, à lui seul, de déterminer ce qu’une personne vit ni d’établir un diagnostic.
 
-Les outils ProQOL distinguent notamment la satisfaction de contribuer, l’épuisement et des difficultés liées à l’exposition à des expériences éprouvantes. Des recherches auprès de bénévoles examinent aussi le rôle du soutien et du contexte d’engagement. Ces repères invitent à décrire les conditions concrètes plutôt qu’à conclure qu’une personne « manque de compassion » dès qu’elle se sent fatiguée.
+Le manuel ProQOL distingue trois dimensions : la satisfaction de contribuer, l’épuisement et le stress traumatique secondaire. L’outil ne pose pas de diagnostic. Le stress traumatique secondaire désigne des réactions liées à l’exposition indirecte au vécu traumatique d’une autre personne ; entendre parler d’isolement ou de difficultés de logement ne suffit pas à le conclure. Une enquête de Rosaura Gonzalez-Mendez et de ses collègues auprès de bénévoles de la Croix-Rouge espagnole examine ces questions par questionnaire, sans permettre d’établir ce qui cause la fatigue d’Aline ni l’effet qu’auraient les relais dans son association.
 
 Pour Aline, plusieurs explications restent ouvertes. L’inventaire du magasin mobilise beaucoup d’énergie. Les permanences s’enchaînent avec peu de pauses, et elle ne sait pas toujours où orienter les demandes sociales. Les récits entendus peuvent ajouter une charge émotionnelle. Il serait prématuré de choisir une seule cause ou de supposer un traumatisme parce qu’une soirée lui paraît particulièrement lourde.
 
@@ -99,4 +99,4 @@ Aline ne retrouve pas une disponibilité illimitée. Elle construit une présenc
 
 Si une activité d’aide entraîne une détresse persistante, des troubles du sommeil, un évitement important ou une fatigue qui déborde sur la vie quotidienne, un médecin ou un psychologue peut aider à évaluer les besoins. Le collectif peut également chercher une formation et un accompagnement adaptés. Demander un relais protège la qualité de l’accueil autant que la personne qui le demande.
 
-Sources : [ProQOL, présentation des dimensions de la qualité de vie dans l’aide](https://proqol.org/proqol-1) ; [recherche sur les ressources et la fatigue de compassion chez les bénévoles](https://pmc.ncbi.nlm.nih.gov/articles/PMC7084609/).
+Sources : [Manuel ProQOL, dimensions et limites de l’outil](https://proqol.org/proqol-manual) ; [National Child Traumatic Stress Network, définition du stress traumatique secondaire](https://nctsn.org/trauma-informed-care/secondary-traumatic-stress) ; [Gonzalez-Mendez et ses collègues, enquête auprès de bénévoles](https://pubmed.ncbi.nlm.nih.gov/32182798/).

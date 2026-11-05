@@ -73,7 +73,7 @@ Julien déplace le réveil sans modifier l'alarme. Maëlle garde le moyen de se 
 
 Maëlle prévoit que l'envie de vérifier reviendra. Elle peut la reconnaître sans engager automatiquement le mouvement : « Je cherche encore un chiffre pour me rassurer. » Elle n'a pas à se reprocher cette envie. Elle peut simplement choisir de ne pas la suivre cette fois, ou reprendre l'essai après une vérification.
 
-Si elle reste éveillée et inconfortable, elle ne transforme pas cette technique en épreuve d'immobilité. Elle recherche une activité calme compatible avec son environnement et demande un avis médical si le problème persiste. Le but n'est pas de tenir dans le lit à tout prix, ni de gagner un concours contre ses pensées.
+Si elle reste éveillée et inconfortable, elle peut se lever si cela lui est possible, lire quelques pages en lumière tamisée et retourner au lit quand l’envie de dormir revient. Si la difficulté se répète, elle demande un avis médical adapté à ses horaires alternés. Il ne s’agit pas de réduire son temps de sommeil ni de gagner un concours contre ses pensées.
 
 ### 3. Prévoir la sécurité sans raconter la catastrophe
 

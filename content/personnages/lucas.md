@@ -16,12 +16,12 @@ draft: false
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-entretien-embauche/">Effet spotlight lors d'un entretien d'embauche : s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-entretien-embauche/">Effet spotlight : Lucas craint qu’on remarque sa cravate</a></h3>
     <div class="parcours-date">2026-03-15</div>
-    <p class="parcours-resume">Lucas attend un entretien d'embauche stratégique dans une tour à La Défense, paralysé par l'idée qu'une micro-tache sur sa cravate soit le centre de l'attention. Malgré sa préparation avec son ami Maxime, il se sent observé par les autres candidats et craint d'être jugé sur ce détail insignifiant.</p>
+    <p class="parcours-resume">La salle d&#x27;attente au pied de la tour à La Défense est froide, l&#x27;air climatisé pince sa nuque. Lucas ajuste sa cravate, ses doigts collants sur la soie, et fixe la micro-tache noire comme si elle occupait tout l&#x27;espace.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Lucas identifie son anxiété comme étant l'effet spotlight, comprenant que sa perception de ses propres défauts est largement surestimée par rapport à la réalité du recruteur. Il commence à utiliser des techniques de respiration consciente pour gérer cette distorsion cognitive.</p>
+      <p>La porte s&#x27;ouvre. Lucas sent son cœur s&#x27;emballer, mais il active ses outils.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-spotlight-entretien-embauche/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -29,98 +29,98 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/honte-en-colocation-causes-solutions/">Honte en colocation : comprendre et surmonter cette émotion</a></h3>
     <div class="parcours-date">2026-03-18</div>
-    <p class="parcours-resume">Lucas, étudiant en école de commerce issu d'un milieu modeste, reçoit une aide financière de sa mère qu'il cache à ses colocataires, Maxime et Romain. Pour ne pas avouer qu'il n'a pas les moyens de participer à un week-end au ski, il invente un mensonge sur une mission freelance prestigieuse.</p>
+    <p class="parcours-resume">L&#x27;odeur de pizza surgelée flotte encore dans le salon de la colocation alors que Maxime jette nonchalamment son téléphone sur la table basse. Lucas, installé dans le vieux fauteuil en cuir, sent son estomac se contracter.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Lucas prend conscience que sa peur d'être exclu le pousse à porter un masque social épuisant, transformant sa honte de classe en un mensonge qui le protège immédiatement mais le ronge intérieurement.</p>
+      <p>Quelques jours après l&#x27;épisode du voyage au ski, Lucas se retrouve seul dans la cuisine avec Romain. Ce dernier est en train de préparer un café tout en racontant ses propres galères de stage.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/honte-en-colocation-causes-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/echec-ecole-etudes-psychologie-hpi/">Échec à l'école ou aux études : comprendre les causes profondes</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/echec-ecole-etudes-psychologie-hpi/">Difficulté aux études : Lucas reprend un rapport refusé</a></h3>
     <div class="parcours-date">2026-03-25</div>
-    <p class="parcours-resume">Lucas reçoit un avis défavorable de son tuteur de stage concernant son mémoire, jugeant son travail hors sujet et mal structuré. Seul dans sa colocation, il se confronte à cet échec académique tout en redoutant la déception de ses parents, Sandrine et Jean-Marc, et en se comparant à la réussite professionnelle de son colocataire Romain.</p>
+    <p class="parcours-resume">L&#x27;écran de l&#x27;ordinateur portable de Lucas projette une lumière crue sur son visage fatigué, dans la pénombre de sa chambre de colocation. Le curseur clignote sur une page blanche, juste en dessous du titre de son mémoire de fin d&#x27;études.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Lucas réalise que son perfectionnisme et son besoin de paraître impeccable, liés à ses origines modestes et à sa douance, sont devenus des freins paralysants. Il commence à identifier ses mécanismes d'auto-sabotage, comme le choix de sujets trop complexes pour protéger son estime de soi.</p>
+      <p>La porte de la chambre s&#x27;ouvre doucement. Maxime, son colocataire, passe la tête par l&#x27;entrebâillement avec un ballon de basket usé sous le bras.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/echec-ecole-etudes-psychologie-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/envie-en-situation-de-competition-hpi/">Envie en situation de compétition : comprendre et s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/envie-en-situation-de-competition-hpi/">Envie en compétition : ce que Lucas admire chez Antoine</a></h3>
     <div class="parcours-date">2026-03-26</div>
-    <p class="parcours-resume">Lors d'un match de basket le 26 mars 2026, Lucas subit une défaite face à Antoine, un adversaire dont l'aisance déclenche chez lui une envie profonde. Ce sentiment de médiocrité fait écho à ses difficultés actuelles en école de commerce, notamment les critiques de son tuteur de stage sur son mémoire.</p>
+    <p class="parcours-resume">Le caoutchouc des semelles crisse sur le parquet ciré du gymnase municipal en ce jeudi 26 mars 2026. Lucas court, le souffle court, mais son regard ne quitte pas Antoine, un ailier de l&#x27;équipe adverse qui enchaîne les paniers avec une aisance insolente.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Lucas prend conscience que son envie n'est pas de la haine, mais le reflet de ses propres carences et de son syndrome de l'imposteur. Il réalise que sa tendance à la comparaison permanente transforme son ambition en un poison paralysant au lieu d'un moteur.</p>
+      <p>Sous la douche froide du gymnase, Lucas laisse l&#x27;eau couler sur sa nuque. Il ferme les yeux et tente de mettre en pratique la respiration consciente qu&#x27;il avait apprise pour calmer son anxiété lors de son entretien à La Défense.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/envie-en-situation-de-competition-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-ecole-etudes-lucas/">Syndrome de l'imposteur aux études : s'en libérer avec Lucas</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-ecole-etudes-lucas/">Sentiment d’imposture aux études : Lucas ose une question</a></h3>
     <div class="parcours-date">2026-04-07</div>
-    <p class="parcours-resume">Lucas, étudiant en école de commerce issu d'un milieu modeste, se sent comme une fraude lors d'un cours de stratégie internationale face à son colocataire Romain. Malgré une question pertinente en tête, il reste silencieux par peur d'être démasqué, tout en luttant contre la pression financière et les attentes de ses parents, Sandrine et Jean-Marc.</p>
+    <p class="parcours-resume">L&#x27;amphithéâtre de l&#x27;école de commerce est plongé dans une pénombre relative, seulement troublée par l&#x27;éclat des dizaines d&#x27;écrans d&#x27;ordinateurs allumés. Lucas est assis au milieu du troisième rang, son stylo bille tournant nerveusement entre ses doigts.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Le personnage prend conscience que son sentiment d'illégitimité est lié à une dissonance entre ses origines sociales et son environnement actuel, le poussant à alterner entre perfectionnisme paralysant et auto-sabotage.</p>
+      <p>Le cours de stratégie se termine. Les étudiants rangent leurs affaires dans un brouhaha de chaises et de discussions animées.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-ecole-etudes-lucas/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-amitie-enfance/">Recherche d'approbation en amitié : comment s'en libérer ?</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-amitie-enfance/">Quand le besoin d’approbation prend trop de place en amitié</a></h3>
     <div class="parcours-date">2026-04-13</div>
-    <p class="parcours-resume">Lors d'une soirée en colocation le 13 avril 2026, Lucas embellit ses accomplissements de stage pour impressionner ses amis Maxime et Romain. Malgré ses efforts pour paraître brillant, il finit par ressentir un vide émotionnel et l'épuisement de devoir constamment jouer un rôle.</p>
+    <p class="parcours-resume">Le rire de Romain résonne dans le salon de la colocation, un bruit franc qui tranche avec l&#x27;humidité de ce lundi 13 avril 2026. Lucas est assis sur le rebord du canapé, le corps penché en avant, les yeux fixés sur ses deux amis.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Lucas prend conscience que son besoin de validation transforme ses amitiés en une performance permanente, l'empêchant d'être authentique par peur d'être démasqué comme un imposteur.</p>
+      <p>Un soir, ses amis parlent des offres d’embauche. Lucas est tenté d’inventer qu’un cabinet de conseil l’a approché.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-amitie-enfance/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-barnum-forer-reseaux-sociaux/">Effet Barnum sur les réseaux sociaux : s'en libérer avec Lucas</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-barnum-forer-reseaux-sociaux/">Effet Barnum : quand une vidéo semble parler de vous</a></h3>
     <div class="parcours-date">2026-04-16</div>
-    <p class="parcours-resume">Lucas, fatigué par son stage et ses tensions financières avec ses colocataires Maxime et Romain, tombe sur une vidéo traitant de l'hypersensibilité sur les réseaux sociaux. Convaincu que la description s'applique parfaitement à lui, il s'abonne au compte pour trouver une explication à son sentiment d'imposture et à ses difficultés sociales.</p>
+    <p class="parcours-resume">Lucas est allongé sur son lit, dans la pénombre de sa chambre de colocation. Le bruit sourd de la télévision dans le salon indique que Maxime et Romain sont encore réveillés, mais il préfère rester seul.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Le personnage passe d'un état de fatigue mentale et de culpabilité à un sentiment de soulagement immédiat en s'identifiant à un portrait psychologique vague. Il croit avoir trouvé la clé de son mal-être, ignorant qu'il est victime de l'effet Barnum.</p>
+      <p>Le lendemain soir, Lucas se retrouve à nouveau sur son téléphone. Une nouvelle vidéo défile : Pourquoi les gens ambitieux nés dans des milieux modestes sont souvent des perfectionnistes anxieux.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-barnum-forer-reseaux-sociaux/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-dotation-decision-importante-lucas/">Effet de dotation face à une décision importante : s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-dotation-decision-importante-lucas/">Effet de dotation : Lucas compare deux options de travail</a></h3>
     <div class="parcours-date">2026-04-24</div>
-    <p class="parcours-resume">Lucas reçoit une offre d'emploi prestigieuse à Lyon, mais hésite à quitter son stage actuel à Paris malgré les conditions médiocres. En pleine colocation avec Maxime, il se sent paralysé par l'idée d'abandonner ses dossiers et ses habitudes, illustrant son attachement irrationnel à sa situation présente.</p>
+    <p class="parcours-resume">Lucas fixe l&#x27;écran de son vieux téléphone dont l&#x27;angle est légèrement fêlé. Sur l&#x27;application de messagerie, un message de Mathieu, le manager qu&#x27;il a rencontré lors d&#x27;un forum de recrutement, reste en attente de réponse.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Lucas prend conscience de son incapacité à trancher face à une opportunité évidente, réalisant que sa peur de la perte surpasse son ambition. Il lutte contre son syndrome de l'imposteur et son besoin de contrôle, restant pour l'instant bloqué dans le statu quo.</p>
+      <p>Assis dans un coin calme de la colocation, Lucas réfléchit. Il tente d&#x27;appliquer la technique du test de remplacement.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-dotation-decision-importante-lucas/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-bandwagon-amitie/">Effet bandwagon en amitié : pourquoi tu te laisses entraîner</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-bandwagon-amitie/">Effet bandwagon : Lucas hésite à suivre ses amis</a></h3>
     <div class="parcours-date">2026-04-29</div>
-    <p class="parcours-resume">Lucas, étudiant de 25 ans vivant en colocation avec Maxime et Romain, reçoit une proposition de sortie groupée sur son téléphone alors qu'il est dans le métro. Malgré la pression de son mémoire et ses contraintes financières, il lutte contre son réflexe habituel d'acquiescement social pour ne pas décevoir ses amis. Il finit par envoyer un message d'hésitation assumée au lieu de son 'oui' automatique habituel.</p>
+    <p class="parcours-resume">Lucas marche le long du quai du métro, ses baskets frottant contre le béton humide. Dans sa poche, le groupe de discussion de la colocation s’active : un message collectif propose une sortie ce soir, avec une idée précise que tout le monde semble déjà valider.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Lucas a réussi à identifier l'effet bandwagon qui transforme ses désirs en réflexes collectifs et a testé pour la première fois une technique de 'pseudo-décision'. Il commence à lier son besoin de conformité à son syndrome de l'imposteur et à son milieu social modeste.</p>
+      <p>Ce soir, dans le salon de la colocation, la proposition revient : un événement très en vogue dans la ville, avec un coût élevé et une organisation de dernière minute. Maxime en parle avec son énergie habituelle, Romain rit, puis les regards glissent vers Lucas comme s’il devait valider l’idée.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-bandwagon-amitie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-recence-decision-importante/">Effet de récence face à une décision importante : comment l'éviter</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-recence-decision-importante/">Effet de récence : quel poids donner au dernier avis ?</a></h3>
     <div class="parcours-date">2026-05-05</div>
-    <p class="parcours-resume">Assis dans sa salle de sport, Lucas hésite entre un stage à Lyon et rester à Paris alors qu'il subit la pression des derniers avis négatifs de son tuteur, de son colocataire Romain et de sa mère Sandrine. Il analyse sa tendance à surévaluer ces informations récentes au détriment de son parcours global en école de commerce.</p>
+    <p class="parcours-resume">Lucas est assis sur le banc en bois de la salle de sport de l&#x27;école, encore en short, les chaussures de basket craquant légèrement quand il change de position. L&#x27;odeur de caoutchouc chaud et de tissu mouillé flotte autour de lui tandis que son regard se fixe sur l&#x27;écran de son ordinateur…</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Lucas identifie l'effet de récence comme le moteur de son indécision actuelle et réalise que son syndrome de l'imposteur se nourrit de ses dernières interactions sociales plutôt que d'une vision d'ensemble.</p>
+      <p>Lucas range son ordinateur dans son sac et sort sous la pluie fine qui tombe sur le campus. Il se rappelle qu&#x27;il a déjà essayé des méthodes utiles : la respiration consciente apprise avant l&#x27;entretien à La Défense l&#x27;a aidé à ne pas céder à l&#x27;anxiété, et il a déjà demandé un délai pour répondre…</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-recence-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -128,21 +128,21 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/agacement-en-colocation-comprendre-emotions/">Agacement en colocation : comment mieux gérer ses émotions</a></h3>
     <div class="parcours-date">2026-05-17</div>
-    <p class="parcours-resume">Le 17 mai 2026, Lucas tente de corriger son mémoire dans la cuisine de sa colocation malgré le bruit et les odeurs de cuisine de son colocataire Romain. Alors qu'il se prépare pour une réunion de stage en visioconférence, il ressent une exaspération croissante face au manque de propreté et à la nonchalance de Romain.</p>
+    <p class="parcours-resume">Le bruit métallique d&#x27;une fourchette qui gratte le fond d&#x27;une poêle à frire en téflon résonne dans toute la cuisine. Lucas, assis à la table en bois brut qui sert de bureau improvisé, sent une tension immédiate grimper le long de sa colonne vertébrale.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Lucas passe d'une retenue silencieuse, dictée par son besoin d'approbation et ses origines modestes, à une exaspération sourde qu'il a du mal à contenir. Il prend conscience que son agacement est lié à une focalisation sélective sur les défauts de l'autre et à sa propre tendance au retrait social pour éviter le conflit.</p>
+      <p>Le silence revient enfin dans la pièce. Romain a terminé de manger et s&#x27;apprête à laisser sa poêle sale dans l&#x27;évier.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/agacement-en-colocation-comprendre-emotions/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/correlation-illusoire-sur-les-reseaux-sociaux/">Corrélation illusoire sur les réseaux sociaux : s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/correlation-illusoire-sur-les-reseaux-sociaux/">Corrélation illusoire sur les réseaux sociaux : s&#x27;en libérer</a></h3>
     <div class="parcours-date">2026-05-21</div>
-    <p class="parcours-resume">Lucas, affalé dans son canapé en colocation, compare sa vie à celle de son ancien camarade Thomas sur Instagram. Il se sent médiocre face aux succès mis en scène de ce dernier et commence à lier arbitrairement la réussite professionnelle à un mode de vie millimétré.</p>
+    <p class="parcours-resume">Lucas est affalé dans le canapé gris de la colocation, celui-là même où il a si souvent douté de son avenir ces derniers mois. La lumière bleutée de son smartphone éclaire son visage concentré alors qu&#x27;il fait défiler son fil Instagram.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Le personnage prend conscience de sa tendance à créer des connexions artificielles entre l'apparence et le succès (corrélation illusoire). Il réalise que ce biais cognitif alimente son sentiment d'imposteur et son besoin de trouver des explications externes à son mal-être.</p>
+      <p>Lucas repose son téléphone sur la table basse, entre une boîte de pizza vide et un manuel de marketing de Romain. Il vient de passer dix minutes à analyser pourquoi la vidéo de ce coach en développement personnel l&#x27;a mis si mal à l&#x27;aise.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/correlation-illusoire-sur-les-reseaux-sociaux/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

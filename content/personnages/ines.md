@@ -48,7 +48,7 @@ draft: false
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/ines-fatigue-disponibilite-affective/">Fatigue affective : Inès précise ce qu’elle peut offrir</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/ines-fatigue-disponibilite-affective/">Fatigue et écoute : Inès précise ce qu’elle peut offrir</a></h3>
     <p class="parcours-resume">Après un festival jeunesse, Inès ne parvient pas à écouter le récit de Clara. Elles évaluent l’urgence, aménagent une transition et choisissent une tâche d’aide limitée.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/ines-fatigue-disponibilite-affective/" class="parcours-link">Lire</a>
   </div>

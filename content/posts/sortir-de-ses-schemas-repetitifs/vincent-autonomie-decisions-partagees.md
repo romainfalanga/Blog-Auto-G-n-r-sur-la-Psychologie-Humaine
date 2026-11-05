@@ -23,7 +23,7 @@ Il s’assied à côté de la table plutôt que de défendre immédiatement son 
 
 L’autonomie dans une situation d’aide est la possibilité de participer aux choix qui concernent sa vie, y compris lorsqu’on souhaite ou nécessite un soutien pour certaines actions. Elle ne se confond pas avec le fait de tout faire sans personne. Une aide choisie peut soutenir l’autonomie ; une organisation efficace peut au contraire la réduire si elle remplace la décision de la personne concernée.
 
-La théorie de l’autodétermination de Ryan et Deci définit notamment l’autonomie par le sentiment d’agir avec un choix reconnu. Ce repère aide Vincent à distinguer une activité, une décision et les moyens de la mettre en œuvre. Cédric peut demander qu’un appel soit passé tout en souhaitant choisir l’hébergement. La personne qui effectue la tâche ne devient pas automatiquement propriétaire de la décision.
+Dans la théorie de l’autodétermination de Ryan et Deci, l’autonomie désigne le sentiment d’agir de son plein gré, y compris avec l’aide d’autrui. La Convention de l’ONU relative aux droits des personnes handicapées protège aussi, sur le plan des droits, la liberté de faire ses propres choix. Ce repère aide Vincent à distinguer une activité, une décision et les moyens de la mettre en œuvre. Cédric peut demander qu’un appel soit passé tout en souhaitant choisir l’hébergement. La personne qui effectue la tâche ne devient pas automatiquement propriétaire de la décision.
 
 Les décisions du couple ont plusieurs niveaux. Cédric peut préciser ce qui lui convient pour ses déplacements et les appuis qu’il accepte. Vincent peut préciser sa disponibilité, son budget et ce qu’il souhaite pour le week-end. Le lieu retenu concerne les deux. Il doit donc être discuté à partir d’informations accessibles à chacun, sans réduire l’un au rôle de protecteur et l’autre au rôle de personne protégée.
 
@@ -99,4 +99,4 @@ Vincent conserve son envie de faciliter le voyage et laisse Cédric définir les
 
 Si l’organisation de l’aide crée des tensions persistantes ou rend les choix difficiles à exprimer, un psychologue ou un professionnel de l’accompagnement peut proposer un espace de clarification. Les obstacles matériels demandent aussi des réponses concrètes adaptées. Un meilleur dialogue peut soutenir la décision, mais il ne remplace pas l’accessibilité et les moyens nécessaires.
 
-Sources : [Ryan et Deci, autonomie et sentiment de choix](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf).
+Sources : [Ryan et Deci, autonomie et sentiment de choix](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf) ; [ONU, Convention relative aux droits des personnes handicapées, article 3](https://www.ohchr.org/sites/default/files/Ch_IV_15.pdf).

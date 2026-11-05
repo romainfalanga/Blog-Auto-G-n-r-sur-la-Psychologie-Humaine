@@ -21,9 +21,9 @@ Son perfectionnisme médical, qu'elle a appris à identifier comme un bouclier c
 
 ## Définition du concept de biais de disponibilité
 
-Le biais de disponibilité est un raccourci mental qui consiste à privilégier les informations immédiatement disponibles en mémoire, souvent parce qu'elles sont récentes, spectaculaires ou chargées d'émotions. Ce concept a été mis en lumière par les psychologues Amos Tversky et Daniel Kahneman en 1973. Dans le cadre d'une décision importante, ce mécanisme nous pousse à surestimer la probabilité d'un événement simplement parce que nous pouvons facilement en citer un exemple.
+Amos Tversky et Daniel Kahneman ont étudié en [1973](https://www.sciencedirect.com/science/article/pii/0010028573900339) un raccourci qui consiste à estimer la fréquence ou la probabilité d’un événement à partir de la facilité avec laquelle des exemples viennent à l’esprit. Un exemple marquant peut peser trop lourd ; la facilité du rappel et la probabilité réelle ne se confondent pas.
 
-Pour Priya, ce biais se manifeste par la prédominance de ses souvenirs douloureux avec Damien et les récits d'échecs professionnels qu'elle a consultés récemment. Le cerveau humain cherche l'efficacité avant la précision. Face à l'incertitude, il pioche dans les souvenirs les plus accessibles pour simuler le futur. Si les informations qui remontent sont négatives ou alarmantes, la décision sera biaisée vers la prudence excessive ou l'évitement, même si les faits objectifs suggèrent une autre direction. C'est une forme de survie cognitive qui fausse la perception du risque réel.
+Les souvenirs de Damien et le récit d’un litige viennent vite à l’esprit de Priya. Ils peuvent lui suggérer des questions à vérifier, mais ne permettent pas d’estimer la fiabilité de Marc.
 
 ## Manifestations du biais face à une décision importante
 
@@ -47,17 +47,17 @@ Cette méthode consiste à sortir de la narration interne pour se concentrer exc
 
 ### 2. L'inversion de la charge mentale de preuve
 
-Pour contrer le biais de disponibilité, il est utile de chercher activement des exemples contraires à ceux qui nous hantent. Priya peut s'astreindre à se remémorer trois exemples de collaborations médicales qui ont été d'immenses réussites autour d'elle, comme celle de sa consoeur Sarah qui a doublé son temps libre grâce à un associé fiable. Elle doit noter ces exemples par écrit pour leur donner la même consistance que ses peurs. En saturant sa mémoire de travail avec des réussites, elle rééquilibre la balance cognitive et diminue la puissance des souvenirs négatifs qui monopolisaient son attention.
+Cherchez des informations favorables et défavorables sur des cas comparables. Se rappeler trois réussites peut nuancer l’image du moment, mais trois anecdotes ne donnent pas un taux de réussite.
 
 ### 3. La mise en perspective temporelle et statistique
 
-Cette technique demande de s'extraire de l'instant présent en consultant des statistiques réelles plutôt qu'en se fiant à ses impressions. Priya peut se renseigner sur le taux réel de litiges entre associés dans sa région ou sur la durée moyenne des collaborations réussies. En plaçant son cas personnel dans une perspective globale, le risque perçu diminue souvent drastiquement. L'exercice consiste à se demander quels chiffres elle montrerait à une amie dans la même situation pour la rassurer. Ce décentrement permet de court-circuiter l'affect et de retrouver une vision plus saine de la réalité.
+Si des données comparables existent, elles peuvent aider à situer le risque. Leur rôle est d’éclairer la décision, qu’elles rassurent ou non. Priya peut aussi vérifier les références et les conditions de l’association, sans chiffrer ce qu’elle ne sait pas.
 
 ## Évolution de Priya face à ses mécanismes cognitifs
 
 Priya repose les dossiers sur le bureau en métal. Elle sent que son rythme cardiaque s'est apaisé. En utilisant sa grille de critères factuels, elle s'aperçoit que Marc a des recommandations exemplaires de la part de médecins qu'elle respecte profondément. L'image de Damien, qui l'avait paralysée quelques minutes plus tôt, commence à perdre de sa netteté. Elle réalise que son besoin de contrôle, ce vieux compagnon de route qu'elle avait déjà commencé à apprivoiser lors de sa réflexion sur l'anxiété face à la maladie, tentait simplement de la protéger une fois de plus, mais de manière maladroite. Elle comprend que son attachement évitant cherche ici une excuse rationnelle pour ne pas s'engager dans une nouvelle relation de confiance, même professionnelle.
 
-Elle prend un carnet et trace deux colonnes. À gauche, elle note les peurs liées à ses souvenirs. À droite, elle écrit les faits réels concernant les candidats. Ce simple geste de matérialiser ses pensées lui permet de voir la déformation que son esprit opérait. Elle se souvient de son parcours, de cette Priya qui, il y a quelques semaines encore, aurait fermé les dossiers et reporté la décision par pur évitement, se réfugiant dans le silence comme elle le faisait après ses rendez-vous galants. Aujourd'hui, elle choisit de rester face à l'incertitude. Elle accepte que le risque zéro n'existe pas, mais que le risque lié au biais de disponibilité est bien plus grand que celui de faire confiance à un professionnel compétent.
+Elle prend un carnet et trace deux colonnes. À gauche, elle note les peurs liées à ses souvenirs. À droite, elle écrit les faits réels concernant les candidats. Ce simple geste de matérialiser ses pensées lui permet de voir la déformation que son esprit opérait. Elle se souvient de son parcours, de cette Priya qui, il y a quelques semaines encore, aurait fermé les dossiers et reporté la décision par pur évitement, se réfugiant dans le silence comme elle le faisait après ses rendez-vous galants. Aujourd'hui, elle choisit de rester face à l'incertitude. Elle accepte que le risque zéro n'existe pas, mais qu’elle peut vérifier les éléments du dossier avant de tirer une conclusion sur Marc.
 
 En quittant la salle de garde pour rejoindre son cabinet, elle se sent plus légère. Elle ne cherche plus à tout verrouiller par peur du passé, mais à construire son avenir sur des bases concrètes. Elle décide de fixer un entretien avec Marc pour le lendemain. Sa méfiance relationnelle, bien que toujours présente en arrière-plan, ne dicte plus sa conduite professionnelle. Elle avance avec une prudence nouvelle, non plus basée sur des fantômes, mais sur une conscience aiguë de ses propres mécanismes cognitifs.
 

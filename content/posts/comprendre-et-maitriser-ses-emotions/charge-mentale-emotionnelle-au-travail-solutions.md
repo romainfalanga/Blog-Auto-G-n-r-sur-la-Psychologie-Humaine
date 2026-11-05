@@ -15,19 +15,19 @@ draft: false
 
 Monique ajuste son cardigan en laine légère et s'installe devant l'ordinateur de la petite bibliothèque municipale. Le soleil de ce 11 mai 2026 tape contre les vitres, mais elle ne le remarque pas vraiment. Elle trie les retours de livres tout en guettant l'entrée. Depuis qu'elle a accepté de coordonner l'équipe de bénévoles pour le festival du livre local, elle se sent investie d'une mission invisible qui dépasse de loin le simple classement alphabétique. Elle passe ses soirées à anticiper les frustrations de Claire, la nouvelle recrue qui semble toujours au bord des larmes, et à arrondir les angles avec Antoine, dont le ton brusque finit par irriter tout le monde.
 
-Jacques lui a proposé d'aller marcher en forêt cet après-midi, mais Monique a décliné, prétextant une pile de formulaires administratifs à terminer pour la mairie. En réalité, elle se sent vidée. Ce n'est pas une fatigue physique, comme celle qu'elle ressentait après une longue journée de cours devant ses élèves de terminale, mais une sorte de brouillard interne. Elle se souvient de sa prise de conscience en avril dernier, quand elle avait compris que son refus de vendre sa maison était lié à un biais de normalité. Elle pensait avoir fait le plus dur en acceptant de s'ouvrir à Jacques et au changement, mais aujourd'hui, elle se retrouve de nouveau prisonnière d'un mécanisme qu'elle ne nomme pas encore. Cette propension à s'oublier pour les autres lui rappelle amèrement ses années de mariage avec Jean-Claude, où elle portait seule le poids du climat familial pour éviter les vagues, s'interdisant toute vulnérabilité.
+Jacques lui a proposé d'aller marcher en forêt cet après-midi, mais Monique a décliné, prétextant une pile de formulaires administratifs à terminer pour la mairie. En réalité, elle se sent vidée. Ce n'est pas une fatigue physique, comme celle qu'elle ressentait après une longue journée de cours devant ses élèves de terminale, mais une sorte de brouillard interne. Elle se souvient de sa prise de conscience en avril dernier, quand elle avait compris que l’habitude pouvait compter dans son hésitation à vendre sa maison. Elle pensait avoir fait le plus dur en acceptant de s'ouvrir à Jacques et au changement, mais aujourd'hui, elle se retrouve de nouveau prisonnière d'un mécanisme qu'elle ne nomme pas encore. Cette propension à s'oublier pour les autres lui rappelle amèrement ses années de mariage avec Jean-Claude, où elle portait seule le poids du climat familial pour éviter les vagues, s'interdisant toute vulnérabilité.
 
 Elle sursaute quand la porte s'ouvre. C'est Claire, le visage fermé. Immédiatement, le radar interne de Monique s'active. Elle analyse la posture de la jeune femme, cherche le mot juste pour la rassurer avant même qu'elle ne parle, et s'apprête à absorber sa mauvaise humeur pour maintenir l'harmonie du groupe. Monique porte sur ses épaules le climat émotionnel de toute la bibliothèque, sans que personne ne lui ait rien demandé. C'est un poids familier, presque confortable dans sa lourdeur, mais qui commence à l'étouffer.
 
 ## Définition de la charge mentale émotionnelle
 
-La charge mentale émotionnelle est un concept qui désigne l'effort invisible et constant fourni par une personne pour gérer, anticiper et réguler les émotions des autres afin de maintenir un climat relationnel harmonieux.
+Ici, « charge mentale émotionnelle » désigne l’effort d’anticiper des tensions et de prendre en charge le climat d’un groupe. C’est une expression descriptive, sans définition clinique.
 
-Ce terme a été largement popularisé par la sociologue Arlie Russell Hochschild dans ses travaux sur le travail émotionnel. Elle définit ce phénomène comme la gestion de ses propres sentiments pour créer un état d'esprit approprié chez autrui. Dans le cadre de Monique, cela signifie qu'elle ne se contente pas d'organiser des livres. Elle surveille les tensions, tempère les ego et s'assure que chacun se sente bien, souvent au détriment de son propre équilibre. Contrairement à la charge mentale domestique qui concerne les tâches logistiques, la charge émotionnelle se concentre sur le flux des sentiments et la responsabilité du bien-être d'autrui.
+Dans [The Managed Heart](https://www.ucpress.edu/book/9780520272941/the-managed-heart), la sociologue Arlie Russell Hochschild décrit le travail émotionnel demandé dans certains emplois : réguler ce que l’on ressent ou ce que l’on montre en fonction du rôle professionnel. Le bénévolat de Monique fait écho à cette notion. L’[INRS](https://www.inrs.fr/risques/psychosociaux/facteurs-risques) replace les exigences émotionnelles parmi les risques psychosociaux liés aussi à l’organisation, aux moyens et au soutien disponibles.
 
 ## Manifestations de la charge émotionnelle au travail
 
-Bien que Monique soit retraitée, ses activités de bénévolat et ses engagements associatifs reproduisent exactement les dynamiques de la charge mentale émotionnelle au travail. C'est un processus insidieux qui s'installe souvent chez ceux qui ont une grande empathie ou un fort besoin de contrôle social.
+Au festival, Monique cumule le classement, la coordination et des efforts de médiation. Le fait qu’elle soit bénévole ne rend pas cette fatigue moins réelle ; il compte pour distinguer la situation du travail salarié.
 
 ### L'anticipation constante des besoins d'autrui
 
@@ -39,7 +39,7 @@ Celui qui porte la charge mentale émotionnelle au travail devient souvent le m�
 
 ### Le refoulement de ses propres limites
 
-Pour maintenir la paix, la personne finit par ignorer ses propres signaux d'alarme. Elle accepte de travailler plus, de rester plus tard ou de gérer des dossiers complexes simplement parce qu'elle ne veut pas décevoir ou créer de la déception. Pour Monique, cela s'inscrit dans sa culpabilité générationnelle et sa peur de la solitude. En se rendant indispensable émotionnellement, elle s'assure une place, mais elle oublie qu'elle est en train de s'épuiser, frôlant un état de saturation qui ressemble de près au burn-out professionnel qu'elle a parfois connu en fin de carrière. Elle réalise que ce besoin de tout lisser est une extension de cette armure qu'elle portait déjà lors de ses déjeuners de famille, cette loyauté invisible qui la pousse à se sacrifier pour le confort des siens.
+Pour maintenir la paix, la personne finit par ignorer ses propres signaux d'alarme. Elle accepte de travailler plus, de rester plus tard ou de gérer des dossiers complexes simplement parce qu'elle ne veut pas décevoir ou créer de la déception. Pour Monique, cela s'inscrit dans sa culpabilité générationnelle et sa peur de la solitude. En se rendant indispensable émotionnellement, elle s'assure une place, mais elle oublie qu'elle est en train de s'épuiser, et retrouve une fatigue qu’elle avait déjà ressentie en fin de carrière. Elle réalise que ce besoin de tout lisser est une extension de cette armure qu'elle portait déjà lors de ses déjeuners de famille, cette loyauté invisible qui la pousse à se sacrifier pour le confort des siens.
 
 ## Techniques pour agir face à la charge mentale émotionnelle
 
@@ -59,9 +59,9 @@ Exercice : Entraînez-vous à utiliser des formulations neutres quand un collèg
 
 ### 3. La désactivation du mode sauveur
 
-La charge mentale émotionnelle est souvent nourrie par le triangle dramatique de Karpman, où l'on prend le rôle du sauveteur. Pour en sortir, il faut accepter l'idée que les autres sont capables de gérer leurs propres frustrations. C'est un acte de confiance envers autrui que de le laisser vivre son inconfort sans chercher à le réparer immédiatement.
+Monique peut se demander s’il lui revient de résoudre chaque tension, et si une autre personne peut prendre le relais. Pour un désaccord ordinaire, attendre avant de proposer une solution est une option. Face à une menace ou à une situation qui requiert d’intervenir, la priorité est de demander du soutien et de suivre les règles prévues.
 
-Exercice : La prochaine fois que vous sentez une tension monter dans une pièce ou une réunion, forcez-vous à ne rien faire pendant cinq minutes. Observez l'inconfort qui monte en vous, cette envie irrépressible de faire une blague ou de proposer une solution. Respirez et restez simplement présent sans intervenir. Vous constaterez souvent que la situation se régule d'elle-même, ou que quelqu'un d'autre prend le relais, vous libérant ainsi de votre fonction de gardien du temple.
+Exercice : quand aucun danger ni obligation urgente n’appelle une réponse, demandez qui peut prendre en charge le problème, ou convenez d’un moment pour en discuter. S’il revient régulièrement, la répartition des rôles et les conditions d’organisation méritent aussi d’être examinées.
 
 ## Évolution de Monique vers un équilibre émotionnel
 
@@ -77,4 +77,4 @@ La charge mentale émotionnelle au travail ou dans la vie associative est un far
 
 Il est normal de ressentir une forme de vide ou de culpabilité au début, car ce mécanisme de protection est souvent ancré depuis l'enfance. Cependant, en pratiquant des limites saines, vous redonnez aux autres leur autonomie tout en préservant votre propre santé mentale. C'est un acte de respect envers vous-même, mais aussi envers la maturité émotionnelle de votre entourage.
 
-Si vous vous sentez dans un état d'épuisement profond, si le simple fait de penser à vos interactions sociales vous paralyse de fatigue, un accompagnement avec un psychologue peut être utile. Le burn-out émotionnel est une réalité sérieuse qui nécessite parfois de déconstruire des schémas de pensée anciens pour retrouver le chemin de la sérénité.
+Si l’épuisement persiste ou perturbe le quotidien, il est possible d’en parler à un professionnel de santé. Dans la CIM-11, l’[OMS](https://www.who.int/News/Item/28-05-2019-Burn-out-an-Occupational-Phenomenon-International-Classification-of-Diseases) réserve le terme *burn-out* au contexte professionnel ; la fatigue de Monique mérite attention sans qu’on doive lui attribuer cette étiquette.

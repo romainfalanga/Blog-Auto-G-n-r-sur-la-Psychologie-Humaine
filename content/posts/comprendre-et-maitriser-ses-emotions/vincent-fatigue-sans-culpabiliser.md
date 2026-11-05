@@ -21,7 +21,7 @@ Chez eux, Cédric termine une traduction et demande s’ils regardent le meuble 
 
 ## Qu’est-ce que reconnaître sa fatigue sans culpabiliser ?
 
-Reconnaître sa fatigue sans culpabiliser consiste à prendre au sérieux une diminution de ses ressources sans la transformer en preuve de faiblesse, d’égoïsme ou de manque d’amour. La fatigue est une expérience réelle, dont les causes peuvent être multiples. La culpabilité est un jugement sur ce que l’on croit devoir faire. Les deux peuvent se rencontrer sans décrire le même problème.
+Reconnaître sa fatigue sans culpabiliser consiste à prendre au sérieux une diminution de ses ressources sans la transformer en preuve de faiblesse, d’égoïsme ou de manque d’amour. La fatigue est une expérience réelle, dont les causes peuvent être multiples. La culpabilité est une émotion qui peut apparaître quand on pense avoir manqué à un devoir. La ressentir ne suffit pas à établir qu’on a mal agi. Les deux peuvent se rencontrer sans décrire le même problème.
 
 Dans ses travaux sur la bienveillance envers soi, Kristin Neff propose de reconnaître une difficulté avec une attitude compréhensive plutôt qu’une critique sévère. Ce cadre comprend aussi le rappel que les limites font partie de l’expérience humaine et une attention qui n’exagère ni n’efface ce qui est vécu. Il ne mesure pas la fatigue de Vincent et ne remplace aucune évaluation de santé.
 
@@ -97,4 +97,4 @@ Vincent ne découvre pas une formule qui rend chaque pause confortable. Il appre
 
 Si la fatigue persiste, change de façon inhabituelle ou gêne durablement les activités, un médecin peut aider à en rechercher les causes. Un psychologue peut accompagner une culpabilité tenace, et un professionnel social peut explorer les soutiens disponibles. Vous n’avez pas besoin de prouver que vous allez plus mal que quelqu’un d’autre pour parler de vos difficultés.
 
-Sources : [Kristin Neff, définition de la bienveillance envers soi](https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf).
+Sources : [Kristin Neff, définition de la bienveillance envers soi](https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf) ; [Assurance Maladie, fatigue : quand consulter](https://www.ameli.fr/assure/sante/themes/asthenie-fatigue/bons-reflexes-cas-faut-consulter).

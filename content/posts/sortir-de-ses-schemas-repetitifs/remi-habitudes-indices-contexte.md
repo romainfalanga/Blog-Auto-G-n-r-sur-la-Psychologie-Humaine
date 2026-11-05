@@ -43,7 +43,7 @@ Il peut examiner d'autres appuis avec cette question : quel indice lui fait cons
 
 Poser le courrier sur le sac permet à Rémi de quitter rapidement les démarches. Le geste lui apporte une transition vers le repos. Cette fonction mérite d'être reconnue. S'il ajoute une longue vérification administrative dès l'arrivée, il risque de l'éviter à nouveau. L'alternative doit conserver une partie du bénéfice recherché : déposer les papiers dans un lieu fiable, puis pouvoir vraiment passer à autre chose sans devoir tout traiter sur-le-champ.
 
-Il retrouve ici la question de l'émotion de la tâche. Certains courriers sont plus désagréables que d'autres et ne se régleront pas par un simple changement de boîte. L'habitude peut garantir un emplacement, pas supprimer l'inconfort d'une demande. Il peut ensuite prévoir un moment et un appui si nécessaire. Cela évite de demander à un seul automatisme de résoudre à la fois le rangement, la motivation, la compréhension et la décision.
+Il retrouve ici la question de l'émotion de la tâche. Certains courriers sont plus désagréables que d'autres et ne se régleront pas par un simple changement de boîte. L’habitude peut rendre l’emplacement plus prévisible, sans supprimer l’inconfort d’une demande. Il peut ensuite prévoir un moment et un appui si nécessaire. Cela évite de demander à un seul automatisme de résoudre à la fois le rangement, la motivation, la compréhension et la décision.
 
 ### Le changement de contexte fait apparaître la fragilité du système
 

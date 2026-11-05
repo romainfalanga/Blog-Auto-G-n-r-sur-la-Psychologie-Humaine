@@ -43,7 +43,7 @@ Claire observe généralement le résultat final, pas toutes les reprises qui le
 
 Après la deuxième interruption, Rémi saute une vérification qu'il effectue habituellement. Il ne choisit pas délibérément de travailler moins bien : il cherche à tenir le départ annoncé. La pression du délai modifie ce qu'il pense pouvoir s'autoriser. Il passe d'une tâche à l'autre sans noter l'étape en cours, puis perd davantage de temps à corriger. L'accélération donne un soulagement bref, parce qu'elle ressemble à une réponse active.
 
-Les travaux de Gloria Mark et de ses collègues sur le travail interrompu invitent justement à regarder aussi l'effort et le stress, pas seulement la durée finale. Rémi peut terminer un chargement dans les temps tout en le payant par une tension accrue. Une journée apparemment réussie ne prouve pas que l'organisation est soutenable. Inversement, un retard ne renseigne pas à lui seul sur la qualité de son attention ou sa bonne volonté.
+Dans une expérience simulant des tâches de bureau, Gloria Mark et ses collègues ont observé que les participants interrompus terminaient plus vite tout en signalant davantage d’effort et de stress. Ce résultat invite à regarder le coût du travail en plus du délai, sans prédire l’effet de chaque interruption sur le quai. Rémi peut terminer un chargement dans les temps tout en le payant par une tension accrue. Une journée apparemment réussie ne prouve pas que l'organisation est soutenable. Inversement, un retard ne renseigne pas à lui seul sur la qualité de son attention ou sa bonne volonté.
 
 ### Le jugement remplace la description
 
@@ -91,4 +91,4 @@ Vous pouvez partir d'une situation limitée : quelle information manque au momen
 
 Si les difficultés d'attention persistent, touchent plusieurs domaines de votre vie ou vous mettent en danger, un professionnel de santé peut vous aider à les examiner sans conclusion hâtive. Au travail, les interlocuteurs compétents peuvent aussi discuter des aménagements et de la charge réelle. Demander cet appui ne retire rien aux compétences que vous utilisez déjà.
 
-Sources : [Rubinstein, Meyer et Evans, contrôle des changements de tâche](https://doi.org/10.1037/0096-1523.27.4.763) ; [Mark, Gudith et Klocke, coût du travail interrompu](https://doi.org/10.1145/1357054.1357072).
+Sources : [Rubinstein, Meyer et Evans, contrôle des changements de tâche](https://doi.org/10.1037/0096-1523.27.4.763) ; [Mark, Gudith et Klocke, coût du travail interrompu](https://www.ics.uci.edu/~gmark/chi08-mark.pdf).

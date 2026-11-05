@@ -1,9 +1,9 @@
 ---
 title: "Biais de la malédiction du savoir en tant que manager"
 date: 2026-05-03T05:37:03+00:00
-description: "Comment le biais de la malédiction du savoir nuit aux managers HPI et 3 techniques concrètes pour le déjouer au quotidien."
+description: "Fabien repère ce que l’équipe ne peut pas deviner et adapte ses explications pour rendre les décisions de travail discutables."
 categories: ["Reprendre le contrôle de ses pensées"]
-tags: ["biais-cognitif", "management", "HPI", "communication", "ressources-humaines"]
+tags: ["biais-cognitif", "management", "communication", "explication", "ressources-humaines"]
 slug: "malediction-du-savoir-manager-hpi"
 readingTime: 7
 wordCount: 1805
@@ -21,11 +21,11 @@ Sur le chemin du parking, les semelles de Fabien cognent le bitume humide. Il re
 
 ## Définition du biais de la malédiction du savoir
 
-Le biais de la malédiction du savoir est la tendance à supposer que les autres possèdent les mêmes informations ou la même compréhension que nous, ce qui rend difficile d'expliquer clairement ce que l'on sait. Le concept a été étudié par des psychologues et économistes comme Colin Camerer, George Loewenstein et Martin Weber dans les années 1980, et popularisé par les expériences d'Elizabeth Newton sur la transmission d'informations.
+La malédiction du savoir désigne la difficulté à estimer le jugement de personnes qui n’ont pas les informations dont nous disposons. Camerer, Loewenstein et Weber ont étudié cet effet dans une expérience de décision économique. La réunion de Fabien en offre une illustration, pas une répétition de l’expérience.
 
-Dans un contexte scientifique, ce biais montre que la connaissance préalable déforme notre estimation de la perspective des non-initiés. Les recherches montrent que les experts surestiment régulièrement la capacité des novices à comprendre des informations techniques, ce qui conduit à des communications inefficaces et à des décisions mal comprises. En entreprise, ce phénomène est particulièrement visible quand un manager assume des repères partagés que son équipe n'a pas.
+Au travail, la difficulté peut venir d’informations que l’équipe n’a pas reçues : des alternatives écartées, un acronyme interne ou l’incidence d’une décision sur les horaires. Clarifier ces éléments ne règle pas forcément le désaccord de fond.
 
-Fabien, cadre RH et personne à haut potentiel intellectuel, est sensible à ce biais : son expertise RH lui donne un niveau de détail et des raccourcis mentaux qui échappent souvent à l'auditoire. Comprendre la malédiction du savoir, c'est se donner la possibilité de traduire un savoir dense en informations maniables pour les autres.
+Fabien connaît le dossier depuis plusieurs mois. Il peut vérifier le contexte qu’il partage avec ses collègues sans expliquer ses habitudes de communication par son profil intellectuel.
 
 ## Manifestations du biais en tant que manager
 
@@ -54,12 +54,12 @@ Forcer la formulation de questions basiques oblige le cerveau expert à ralentir
 ### 2. Technique des cartes de rôle : structurer la perspective des interlocuteurs
 Pour une décision touchant plusieurs groupes, créez trois cartes de rôle simples, par exemple pour un opérateur, un responsable d'atelier ou un parent à charge. Pour chaque carte, notez leurs besoins concrets, leurs craintes et le vocabulaire qu'ils utilisent. Pendant la réunion, lisez à voix haute une carte et demandez au groupe si cette perspective est juste.
 
-Cette mise en scène réduit l'illusion que tout le monde partage le même niveau cognitif et émotionnel. Elle transforme l'argumentation en réponse ciblée. Dans votre dossier RH, ajoutez une fiche sur les impacts par profil avant de soumettre une décision. Lors de la réunion, attribuez une carte à quelqu'un et invitez-le à défendre ce point de vue.
+Cette mise en scène réduit l'illusion que tout le monde partage les mêmes informations et contraintes. Elle transforme l'argumentation en réponse ciblée. Dans votre dossier RH, ajoutez une fiche sur les impacts par profil avant de soumettre une décision. Lors de la réunion, attribuez une carte à quelqu'un et invitez-le à défendre ce point de vue.
 
 ### 3. Technique de l'itération rapide : feedback par étapes
-Au lieu d'une longue explication, découpez votre message en séquences de 90 secondes maximum. Après chaque séquence, posez une question fermée simple : "Est-ce clair ?" ou "Une information manque-t-elle ?". Si la réponse est négative, demandez à la personne de formuler en 10 mots ce qu'elle a compris.
+Présentez une décision par étapes si cela convient au groupe. Demandez ensuite ce que la mesure changerait concrètement dans le travail ou quelles informations manquent, et précisez que vous cherchez à vérifier votre explication.
 
-Les managers ont parfois tendance à privilégier des messages denses. L'itération brisée force la traduction en modules digestes et permet une correction immédiate des malentendus. Lors de la prochaine réunion, imposez la règle des segments de 90 secondes et du résumé en 10 mots. Notez combien de clarifications sont nécessaires pour adapter votre discours.
+Les 90 secondes et les quelques mots retenus par Fabien dans la scène sont des choix de réunion, pas un protocole validé. L’équipe doit pouvoir faire préciser le contenu et exprimer un désaccord sans être mise à l’épreuve.
 
 ## Évolution de Fabien et ajustement du discours
 
@@ -75,6 +75,8 @@ En intégrant ces techniques, il garde sa rigueur analytique, mais il module son
 
 À la fin de la semaine, Fabien note dans son carnet professionnel trois situations où la malédiction du savoir aurait pu provoquer un incident : une fiche de poste ambiguë, une procédure présentée trop vite ou une réorganisation mal expliquée. Pour chacune, il a appliqué la technique des cartes de rôle et le retour en aveugle. Les retours sont concrets : moins de mails de clarification, des échanges plus calmes en réunion et une confiance qui se rétablit progressivement entre lui et ses équipes.
 
-Si vous vous reconnaissez dans cette histoire, rappelez-vous que la malédiction du savoir ne signifie pas que vous êtes un mauvais communicant ou que votre expertise est un handicap. C'est un biais cognitif très humain, fréquent chez les profils qui traitent l'information rapidement et profondément. Les techniques proposées ici visent à rendre votre savoir accessible, sans le diluer.
+Si vous vous reconnaissez dans cette histoire, rappelez-vous que la malédiction du savoir ne signifie pas que vous êtes un mauvais communicant ou que votre expertise est un handicap. Cette difficulté peut concerner quiconque connaît bien un dossier. Les techniques proposées ici visent à rendre votre savoir accessible, sans le diluer.
 
 Si la difficulté à partager votre expertise entraîne des tensions répétées, des épisodes de stress ou un épuisement durable, il est conseillé de consulter un professionnel, comme un psychologue du travail, un coach professionnel ou un thérapeute, pour un accompagnement personnalisé. La transformation est possible, et elle commence souvent par de petits ajustements de langage qui changent la qualité des relations.
+
+Sources : [Camerer, Loewenstein et Weber, 1989](https://authors.library.caltech.edu/records/zgwcn-vap73).

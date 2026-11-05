@@ -16,23 +16,23 @@ draft: false
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude/">Abandon/instabilité face à la solitude : comprendre et agir</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude/">Abandon et instabilité face à la solitude : comprendre et agir</a></h3>
     <div class="parcours-date">2026-03-07</div>
-    <p class="parcours-resume">Seul dans son appartement un soir de pluie, Adrien, 31 ans, graphiste freelance, regarde son téléphone vide de messages depuis que Marina l'a quitté il y a un an. Ce schéma d'instabilité affective, nourri par la solitude du freelance, le pousse à interpréter chaque silence comme une confirmation de rejet.</p>
+    <p class="parcours-resume">Le bruit sourd de la pluie contre la fenêtre rythme ses pensées. Adrien, 31 ans, graphiste freelance, est assis seul dans son appartement, un peu perdu dans l’immensité de son salon vide.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Adrien prend conscience d'un schéma répétitif qui s'active dans cette situation. Malgré son côté créatif, il commence à identifier les déclencheurs et à envisager d'autres façons de réagir.</p>
+      <p>L’abandon et instabilité n’est pas une fatalité. En acceptant de regarder en face cette peur, en comprenant d’où elle vient et en appliquant des outils simples, vous pouvez apprendre à vivre la solitude autrement.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/raisonnement-emotionnel-seul-face-a-soi/">Raisonnement émotionnel seul(e) face à soi-même : quand le ressenti ment</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/raisonnement-emotionnel-seul-face-a-soi/">Raisonnement émotionnel : quand le ressenti fait preuve</a></h3>
     <div class="parcours-date">2026-03-17</div>
-    <p class="parcours-resume">Adrien, graphiste freelance, se retrouve paralysé devant une toile blanche dans son atelier, interprétant son anxiété comme une preuve de l'échec futur de son projet. Il se remémore sa rupture avec Marina et ses échanges avec son ami Julien pour comprendre comment ses émotions dictent sa perception de la réalité.</p>
+    <p class="parcours-resume">Adrien fixe la toile blanche qui occupe la moitié de son atelier. La lampe diffuse une chaleur discrète, le papier texturé crisse sous ses doigts lorsqu&#x27;il en parcourt la surface.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Il a pris conscience de la transversalité de ses schémas, réalisant que le raisonnement émotionnel qu'il appliquait à sa vie sentimentale affecte désormais sa sphère professionnelle. Il décide de ne plus subir ces pensées mais de les noter dans un carnet pour les interroger objectivement.</p>
+      <p>Après avoir pratiqué ces techniques, Adrien observe un changement dans son quotidien. En utilisant la colonne des faits alors qu&#x27;il hésitait à dessiner, il s&#x27;est aperçu que sa liste concrète était bien plus rassurante que sa narration intérieure : le client n&#x27;avait jamais exprimé de…</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/raisonnement-emotionnel-seul-face-a-soi/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -40,54 +40,54 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/melancolie-face-a-la-solitude/">Mélancolie face à la solitude : comprendre et agir</a></h3>
     <div class="parcours-date">2026-03-21</div>
-    <p class="parcours-resume">Le 21 mars 2026, Adrien se retrouve paralysé dans son atelier entre ses obligations de freelance et l'envie de dessiner Marina. Malgré sa solitude, il tente d'utiliser son carnet de notes pour ne pas laisser sa mélancolie et ses souvenirs transformer son travail en procrastination.</p>
+    <p class="parcours-resume">Adrien reste assis sur le tabouret de son atelier, sa main droite tachée d&#x27;encre, le crayon suspendu au-dessus d&#x27;une page à moitié occupée. La playlist lo-fi murmure dans la pièce, la cafetière est froide depuis des heures, et dehors la ville claque au rythme des tramways.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Adrien commence à distinguer la mélancolie esthétique, qui nourrit son art, du piège de l'idéalisation nostalgique qui bloque son action et ses relations réelles. Il apprend à identifier ses schémas d'instabilité pour ne plus laisser son anxiété définir sa valeur professionnelle.</p>
+      <p>Ce soir, il teste la première session de 50 minutes. Il choisit de travailler sur le logo client en le divisant en trois étapes simples.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/melancolie-face-a-la-solitude/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/dependance-incompetence-face-autorite-causes/">Dépendance et incompétence face à l'autorité : s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/dependance-incompetence-face-autorite-causes/">Se sentir incapable de décider face à l’autorité</a></h3>
     <div class="parcours-date">2026-03-24</div>
-    <p class="parcours-resume">Adrien, graphiste freelance, se retrouve paralysé par un mail de son client Antoine demandant une révision de logo. Cette interaction avec une figure d'autorité déclenche chez lui un profond sentiment d'incompétence, le renvoyant à ses insécurités passées avec son père et son ex-compagne Marina.</p>
+    <p class="parcours-resume">Adrien ajuste ses lunettes devant l&#x27;écran de son ordinateur de bureau. Le curseur clignote dans la barre de réponse du mail qu&#x27;il vient de recevoir d&#x27;Antoine, le directeur artistique d&#x27;une grande agence avec qui il collabore en freelance depuis peu.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Adrien identifie son schéma de dépendance et d'incompétence, réalisant que son besoin de validation constante est un mécanisme de défense lié à son passé d'enfant parentifié. Il prend conscience que sa procrastination et sa quête de réassurance sabotent son autonomie professionnelle.</p>
+      <p>Adrien lève les mains de son clavier et observe ses tatouages au poignet, des lignes géométriques qu&#x27;il a lui-même dessinées il y a des années. Il se souvient qu&#x27;à l&#x27;époque, il n&#x27;avait demandé l&#x27;avis de personne pour ce choix qui marque sa peau pour toujours.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/dependance-incompetence-face-autorite-causes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien/">Rumination mentale seul face à soi-même : s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien/">Rumination : quand les mêmes pensées reviennent</a></h3>
     <div class="parcours-date">2026-04-08</div>
-    <p class="parcours-resume">Seul dans son atelier à deux heures du matin, Adrien est incapable de travailler sur le logo d'un client, obsédé par un portrait de son ex-compagne, Marina. Il s'enferme dans une analyse obsessionnelle de leur rupture survenue un an plus tôt, délaissant ses responsabilités professionnelles pour revivre ses échecs passés.</p>
+    <p class="parcours-resume">Le curseur de la souris clignote sur l&#x27;écran sombre, une pulsation régulière qui rythme le silence de l&#x27;atelier. Adrien ajuste son casque, les premières notes d&#x27;une playlist tournent en boucle depuis trois heures, mais la musique ne parvient plus à étouffer le bruit de ses propres pensées.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Adrien identifie son mécanisme de rumination mentale comme une forme insidieuse de dépendance affective et de tendance à l'idéalisation. Il réalise que sa solitude transforme son introspection en un tribunal mental où il généralise ses difficultés actuelles en une faillite identitaire globale.</p>
+      <p>Adrien dépose son stylet sur la tablette graphique. Le silence de l&#x27;appartement ne lui semble plus aussi menaçant.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/rumination-mentale-seul-face-a-soi-meme-adrien/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-negativite-situation-competition-adrien/">Biais de négativité en situation de compétition : s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-negativite-situation-competition-adrien/">Biais de négativité : quand un défaut prend toute la place</a></h3>
     <div class="parcours-date">2026-04-14</div>
-    <p class="parcours-resume">Adrien, graphiste freelance à Paris, participe à un appel d'offres crucial pour une marque de cosmétiques éthiques. En analysant les portfolios de ses concurrents, notamment celui de Julie, il sombre dans l'autocritique et ignore ses propres succès passés malgré le soutien silencieux de sa sœur Charlotte.</p>
+    <p class="parcours-resume">Adrien ajuste ses lunettes devant l&#x27;éclat bleuté de son moniteur. Le silence de son appartement parisien est seulement troublé par les basses sourdes d&#x27;une playlist lo-fi qui tourne en boucle.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Adrien identifie son biais de négativité et son raisonnement émotionnel, réalisant que son cerveau amplifie ses doutes et les forces de ses rivaux tout en occultant ses propres compétences techniques.</p>
+      <p>Adrien dépose son stylo numérique sur sa tablette graphique. Ses yeux quittent l&#x27;écran pour se poser sur son carnet de notes, celui-là même qu&#x27;il a commencé à remplir après avoir compris comment son raisonnement émotionnel le trompait.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-negativite-situation-competition-adrien/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/amertume-reconversion-professionnelle-burn-out/">Amertume et reconversion : sortir du cercle vicieux du burn-out</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/amertume-reconversion-professionnelle-burn-out/">Amertume et reconversion après un burn-out</a></h3>
     <div class="parcours-date">2026-04-16</div>
-    <p class="parcours-resume">Adrien, en pleine reconversion après un burn-out, observe avec amertume son ancienne agence depuis le square du Temple. Marqué par l'échec récent d'un appel d'offres face à son ancienne collègue Julie, il sombre dans un cynisme qui paralyse sa créativité et le pousse à s'isoler de ses proches.</p>
+    <p class="parcours-resume">Adrien est assis sur un banc de pierre dans le square du Temple, à Paris. Un vent frais de mi-avril fait frissonner les jeunes feuilles des arbres.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Il identifie son amertume comme un mécanisme de défense protégeant son estime de soi, mais réalise que ce sentiment transforme sa lucidité en un poison qui sabote ses opportunités professionnelles et sociales.</p>
+      <p>Adrien referme son carnet de croquis. Il se lève du banc et s&#x27;éloigne du square, tournant le dos aux vitrines de son ancienne agence.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/amertume-reconversion-professionnelle-burn-out/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -95,43 +95,43 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/deni-apres-un-echec-comprendre-et-agir/">Déni après un échec : comprendre ce mécanisme pour avancer</a></h3>
     <div class="parcours-date">2026-04-26</div>
-    <p class="parcours-resume">Après avoir essuyé un refus froid pour un appel d'offres de cosmétiques éthiques, Adrien s'installe au canal Saint-Martin et feint la normalité auprès de sa sœur Charlotte. Il s'enferme dans une routine de tâches techniques stériles pour masquer son incapacité totale à dessiner et son refus d'affronter cet échec.</p>
+    <p class="parcours-resume">Adrien est assis sur un banc de pierre, le long du canal Saint-Martin, en ce dimanche 26 avril 2026. L&#x27;air printanier est encore frais, mais il ne sent pas la brise qui fait rider la surface de l&#x27;eau.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Adrien bascule dans un mécanisme de déni protecteur, utilisant la rationalisation et l'évitement proactif pour ne pas admettre que ce rejet professionnel réveille son sentiment d'incompétence.</p>
+      <p>Sur son banc face au canal, Adrien soupèse son stylet. Il se souvient de la période qui a suivi sa rupture avec Marina, lorsqu&#x27;il se perdait dans des activités secondaires pour ne pas voir que la relation était terminée.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/deni-apres-un-echec-comprendre-et-agir/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/orientation-regret-rupture/">Orientation vers le regret après une rupture : pourquoi ça empire</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/orientation-regret-rupture/">Quand les regrets tournent en boucle après une rupture</a></h3>
     <div class="parcours-date">2026-05-01</div>
-    <p class="parcours-resume">Le 1er mai 2026, Adrien se retrouve paralysé dans son atelier par le souvenir de sa rupture avec Marina, incapable de répondre à une demande de révision de son client Antoine. Confronté à ses croquis et à ses regrets, il tente d'utiliser son carnet de notes pour analyser ses pensées automatiques et comprendre pourquoi il s'enferme dans des scénarios alternatifs du passé.</p>
+    <p class="parcours-resume">Adrien étale les pages sur la table de son atelier, les croquis de Marina se chevauchent comme des feuilles mortes. Le papier crisse sous ses doigts, l&#x27;encre encore humide dégage une odeur métallique qui le ramène à la dernière dispute.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Adrien identifie que son orientation vers le regret agit comme un acide rongeant sa confiance et sa créativité, passant d'une fuite technique stérile à une volonté d'affronter consciemment ses mécanismes de rumination.</p>
+      <p>Il reprend un croquis, mais cette fois-ci il suit l&#x27;exercice de restructuration : il écrit sur la marge « ce que je sais » et « ce que j&#x27;imagine ». Là où autrefois l&#x27;image ravivait la douleur, il inscrit des éléments concrets, comme les discussions ratées, les nuits de fatigue après des…</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/orientation-regret-rupture/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/annulation-retroactive-en-situation-de-conflit/">Annulation rétroactive en situation de conflit : s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/annulation-retroactive-en-situation-de-conflit/">Annulation rétroactive : peut-on effacer une dispute ?</a></h3>
     <div class="parcours-date">2026-05-10</div>
-    <p class="parcours-resume">Lors d'une dispute dans son appartement au sujet du désordre, Adrien utilise l'annulation rétroactive contre sa sœur Charlotte en niant tout son soutien passé. Face à la blessure de sa sœur, il réalise qu'il utilise ce mécanisme de défense pour effacer les souvenirs positifs dès qu'un conflit surgit.</p>
+    <p class="parcours-resume">Adrien se tient debout dans le couloir étroit de son appartement, le pinceau encore humide à la main. Face à lui, sa sœur Charlotte pointe du doigt le désordre qui s&#x27;accumule dans le salon depuis qu&#x27;il a commencé sa nouvelle série de toiles.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Adrien prend conscience que ce 'coup de gomme mental' est un réflexe de protection contre la culpabilité et la dette émotionnelle, mais qu'il ne fait que l'isoler davantage. Il commence à faire le lien entre ses réactions actuelles et son passé d'enfant parentifié.</p>
+      <p>Assis sur son canapé, Adrien observe Charlotte qui s&#x27;apprête à partir, son sac sur l&#x27;épaule. L&#x27;ancienne version d&#x27;Adrien l&#x27;aurait laissée partir, se persuadant qu&#x27;elle est trop envahissante et qu&#x27;il se porte mieux seul, s&#x27;enfermant dans ce cynisme qu&#x27;il avait développé après son burn-out.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/annulation-retroactive-en-situation-de-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/technique-rain-seul-face-a-soi-meme/">La technique RAIN pour gérer ses émotions seul face à soi-même</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/technique-rain-seul-face-a-soi-meme/">RAIN : quatre repères pour observer une émotion</a></h3>
     <div class="parcours-date">2026-05-19</div>
-    <p class="parcours-resume">Adrien, graphiste hypersensible, se retrouve paralysé par l'angoisse et la solitude dans son salon alors qu'il tente de dessiner. Confronté au souvenir de sa rupture avec Marina et à une dispute passée avec sa sœur Charlotte, il choisit cette fois de ne pas fuir dans le travail ou d'appeler son ami Julien pour être rassuré.</p>
+    <p class="parcours-resume">Adrien est assis par terre dans son salon, entouré de carnets de croquis ouverts et de feuilles volantes. Le silence de l&#x27;appartement est seulement rompu par le ronronnement lointain d&#x27;un ventilateur.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Il décide d'abandonner ses mécanismes de déni et de procrastination technique pour affronter ses émotions. En s'initiant à la technique RAIN, il apprend à observer son sentiment d'inadéquation sans s'y identifier, passant de la réaction passive à une présence consciente.</p>
+      <p>Adrien repose sa main sur le parquet. Il vient de passer dix minutes à appliquer les étapes de la technique RAIN dans le silence de son salon.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/technique-rain-seul-face-a-soi-meme/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

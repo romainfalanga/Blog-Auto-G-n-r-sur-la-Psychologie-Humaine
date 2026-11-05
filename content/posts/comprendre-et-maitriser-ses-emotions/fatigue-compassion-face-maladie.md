@@ -1,7 +1,7 @@
 ---
-title: "Fatigue de compassion face à la maladie : comment aider au quotidien"
+title: "Fatigue de compassion : quand le soin devient éprouvant"
 date: 2026-03-15T19:02:40+00:00
-description: "Comprendre la fatigue de compassion face à la maladie et 3 techniques concrètes pour aider un proche soignant à retrouver énergie et sens."
+description: "Après une garde difficile, Camille se sent distante. Elle cherche du soutien et s’interroge sur sa charge de travail."
 categories: ["Comprendre et maîtriser ses émotions"]
 tags: ["fatigue de compassion", "soins", "infirmiere", "empathie", "santé mentale"]
 slug: "fatigue-compassion-face-maladie"
@@ -21,14 +21,14 @@ Depuis ses articles précédents, elle travaille sur ses exigences envers les en
 
 ## Qu'est-ce que la fatigue de compassion ?
 
-La fatigue de compassion est la réduction progressive de la capacité d'un soignant à ressentir de l'empathie et à répondre émotionnellement face à la souffrance d'autrui. Le concept est largement associé aux travaux de Charles R. Figley, qui, dans les années 1990, a décrit ce phénomène comme le prix psychologique de l’exposition répétée à la détresse d’autrui.
+L’expression « fatigue de compassion » est utilisée de plusieurs manières. Dans [le modèle de Charles Figley](https://pubmed.ncbi.nlm.nih.gov/12412153/), elle renvoie à l’impact que peut avoir l’exposition au traumatisme d’autrui dans une relation d’aide. Dans l’usage courant, elle désigne parfois un épuisement plus général face à la souffrance. Le mot ne suffit pas à expliquer le détachement de Camille.
 
-Dans le milieu hospitalier, cette fatigue se rapproche du stress traumatique secondaire et du burnout (notamment décrit par Christina Maslach). Des études estiment que 20 à 40 % des soignants montrent des signes d'épuisement compassionnel selon les services, ce qui représente un enjeu majeur pour l'équilibre des équipes et la qualité des soins.
+Le stress traumatique secondaire renvoie à des réactions après exposition indirecte à un traumatisme. L’[OMS décrit le burnout](https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases) comme un phénomène professionnel lié au stress chronique au travail qui n’a pas été géré, sans en faire une maladie. Ces notions se recoupent dans certains récits, mais ne s’établissent pas sur une liste de signes. Des estimations obtenues avec des outils et des groupes différents ne donnent pas un taux unique chez les soignants.
 
 ## Comment la fatigue de compassion se manifeste-t-elle face à la maladie ?
 
 ### 1. Engourdissement émotionnel et détachement
-L'un des signes les plus fréquents est l'émoussement affectif : le soignant ressent moins d'empathie, comme Camille aujourd'hui auprès de son patient. Plutôt que d'être submergée par la tristesse, elle se sent distante, comme si ses émotions passaient à travers un filtre. Ce détachement protège temporairement, mais il altère la qualité de la relation soignant-patient et accentue la culpabilité chez les personnes hypersensibles.
+Camille remarque qu’elle se sent distante auprès de ce patient, alors qu’elle a habituellement envie de lui parler. Plutôt que d'être submergée par la tristesse, elle se sent distante, comme si ses émotions passaient à travers un filtre. Ce ressenti peut avoir plusieurs causes. Il ne suffit ni à évaluer la qualité des soins ni à nommer un trouble.
 
 Exemple concret : une infirmière qui, après des semaines de gardes intenses, répond par des phrases courtes aux confidences d'un malade et évite le contact visuel, alors qu'elle faisait preuve de beaucoup de chaleur auparavant.
 
@@ -38,29 +38,29 @@ La fatigue de compassion peut aussi se traduire par une irritabilité accrue, un
 Exemple concret : se focaliser uniquement sur les gestes techniques sans prendre le temps d'expliquer les soins, par manque d'énergie émotionnelle, ce qui peut créer des tensions avec les proches ou les collègues.
 
 ### 3. Symptômes physiques et évitement
-Les manifestations physiques incluent l'insomnie, les maux de tête, les tensions musculaires et une fatigue chronique que le repos ne suffit plus à apaiser. Le comportement d'évitement apparaît aussi : on retarde une visite à un patient difficile, on écourte les échanges ou, à l'inverse, on se surinvestit pour compenser un sentiment d'impuissance.
+L’insomnie, les maux de tête et la fatigue peuvent accompagner une période éprouvante et ont de nombreuses causes possibles. Le comportement d'évitement apparaît aussi : on retarde une visite à un patient difficile, on écourte les échanges ou, à l'inverse, on se surinvestit pour compenser un sentiment d'impuissance.
 
 Exemple concret : arriver en retard aux rendez-vous familiaux pour essayer de « refaire le plein » d'énergie, ou annuler des sorties par peur de ne pas tenir le coup émotionnellement.
 
 ## 3 techniques pour se protéger face à la fatigue de compassion
 
 ### 1. Le rituel de déconnexion (micro-ritualisation)
-L'idée est de créer un geste simple et systématique à la fin de chaque garde pour marquer la frontière entre le travail et la vie personnelle. Cela aide le cerveau à quitter l'univers de la maladie.
+L'idée est de créer un geste simple et systématique à la fin de chaque garde pour marquer la frontière entre le travail et la vie personnelle. C’est une manière de marquer la fin de sa garde.
 
 Exercice concret :
-*   Avant de quitter l'hôpital, prenez trois minutes dans un endroit calme pour respirer selon le rythme 4-4-6 (inspiration 4 secondes, blocage 4 secondes, expiration 6 secondes).
+*   Avant de quitter l'hôpital, prenez trois minutes dans un endroit calme pour faire une pause et respirer à votre rythme.
 *   Enlevez physiquement votre badge ou votre montre et rangez-les soigneusement dans votre sac en vous disant intérieurement : « Je dépose ma journée ici pour ce soir ».
 *   Envoyez un message court à une personne de confiance (comme David pour Camille) avec un mot-clé convenu pour signaler que vous passez en « mode maison ».
 
-Ce rituel régulier renforce la barrière psychologique et limite l'accumulation de stress entre deux services.
+Camille essaie ce rituel si elle le trouve utile. Il ne modifie ni les horaires ni la charge du service.
 
 ### 2. Les micro-pauses d'ancrage sensoriel
-Au cours de la journée, accordez-vous de courts instants pour vous reconnecter à vous-même. Ces pauses permettent de réguler l'émotion et de stopper l'engrenage de l'hyper-empathie qui finit par vider vos réserves.
+Au cours de la journée, accordez-vous de courts instants pour vous reconnecter à vous-même. Une courte pause, si les soins le permettent, peut donner un moment pour remarquer sa fatigue. L’[OMS propose des exercices d’ancrage](https://www.who.int/publications/i/item/9789240003927) dans son guide sur le stress.
 
 Exercice concret :
 *   Choisissez trois moments clés (après un soin difficile, avant une transmission ou après un événement marquant).
-*   Pendant une à trois minutes, pratiquez l'ancrage : posez les mains sur vos cuisses, sentez la texture du tissu, identifiez trois sons autour de vous. Inspirez sur 4 temps et expirez sur 6, puis nommez simplement l'émotion présente sans la juger (« fatigue », « tristesse » ou « agacement »).
-*   Notez ce mot sur un carnet, puis refermez-le. Reconnaître l'émotion permet d'éviter qu'elle ne s'accumule de façon invisible.
+*   Pendant une à trois minutes, pratiquez l'ancrage : posez les mains sur vos cuisses, sentez la texture du tissu, identifiez trois sons autour de vous. Respirez à votre rythme, puis nommez simplement l'émotion présente sans la juger (« fatigue », « tristesse » ou « agacement »).
+*   Notez ce mot sur un carnet, puis refermez-le. Si vous notez quelque chose, ne consignez aucun détail permettant d’identifier un patient.
 
 ### 3. Le script de parole et les limites bienveillantes
 Apprendre à formuler des limites claires permet de préserver son énergie sans pour autant renoncer à la bienveillance. Cette forme d'affirmation de soi protège contre la tendance à vouloir tout porter sur ses épaules.
@@ -70,7 +70,7 @@ Exercice concret :
     *   Pour un patient en détresse quand vous manquez de temps : « Je comprends votre inquiétude, je reviens vers vous dès que j'ai fait le point avec le médecin. »
     *   Pour un collègue qui a besoin de se confier longuement : « Je peux t'écouter quelques minutes, ensuite je devrai retourner finir mes soins. »
     *   Pour vos proches : « J'ai besoin de vingt minutes de calme pour décompresser avant que nous discutions de la soirée. »
-*   Entraînez-vous à dire ces phrases avec assurance. L'efficacité vient de la répétition et du respect de la limite que vous posez pour vous-même.
+*   Entraînez-vous à dire ces phrases avec assurance. Au travail, convenez d’un relais si un patient a besoin d’aide dans l’intervalle.
 
 ## Camille commence à reprendre soin d'elle
 
@@ -84,7 +84,7 @@ Camille ne change pas tout du jour au lendemain, mais elle sent que l'anesthési
 
 ---
 
-La fatigue de compassion est une réalité pour de nombreux soignants. Reconnaître ces signes est la première étape pour retrouver un équilibre. En installant des rituels de déconnexion, des pauses d'ancrage et des limites claires, on peut réduire l'impact émotionnel de la maladie sans perdre son humanité.
+Les exercices de transition peuvent convenir à Camille. Ils ne répondent pas aux gardes trop longues, au manque de personnel ou à des situations répétées difficiles. L’[INRS](https://www.inrs.fr/risques/epuisement-burnout/ce-qu-il-faut-retenir.html) met l’accent sur la prévention collective et le rôle du service de prévention et de santé au travail. Camille peut demander un échange sur les horaires, les relais et le soutien d’équipe.
 
 Si vous accompagnez une personne dans la situation de Camille, proposez-lui des gestes concrets : préparer un repas, écouter sans chercher de solution immédiate, ou l'encourager à prendre du temps pour elle. La bienveillance envers les autres commence par la bienveillance envers soi-même.
 

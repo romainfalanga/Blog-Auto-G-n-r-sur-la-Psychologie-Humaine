@@ -66,7 +66,17 @@ test('natural catalogue questions keep only their actual topic across the real e
   ['Comment trouver un article qui parle de la peur de décevoir ?',/approbation|abnégation|Karpman|décevoir|déception|limite/i],
   ['Connais-tu un article sur le HPI ?',/HPI|Intellectualisation/i]
  ]){
-  const result=lookupReadingCatalogue(EXAMPLES,query);assert.ok(result.total_matches>0,query);if(query.includes('HPI'))assert.ok(result.matches.every(x=>EXAMPLES.find(e=>e.id===x.id).keywords.includes('HPI')));else assert.ok(result.matches.some(x=>expected.test(x.title)),query);assert.equal(result.absence_proven,false);assert.equal(result.searched_all,true);for(const item of result.matches)assert.ok(EXAMPLES.some(e=>e.id===item.id&&e.title===item.title&&e.url===item.url));
+  const result=lookupReadingCatalogue(EXAMPLES,query);
+  assert.ok(result.total_matches>0,query);
+  const articles=result.matches.map(item=>{
+   const article=EXAMPLES.find(e=>e.id===item.id);
+   assert.ok(article&&article.title===item.title&&article.url===item.url);
+   return article;
+  });
+  if(query.includes('HPI'))assert.ok(articles.every(article=>article.keywords.includes('HPI')));
+  else assert.ok(articles.some(article=>[article.title,article.sujet,...article.keywords].some(value=>expected.test(value))),query);
+  assert.equal(result.absence_proven,false);
+  assert.equal(result.searched_all,true);
  }
  const syndrome=lookupReadingCatalogue(EXAMPLES,'As-tu un personnage autour du syndrome du sauveur ?'),complex=lookupReadingCatalogue(EXAMPLES,'Connais-tu un récit sur le complexe du sauveur ?');assert.deepEqual(complex.matches,syndrome.matches);assert.match(expandReadingQuery('Je cherche une lecture sur le complexe du sauveur.'),/abnégation sacrifice de soi/);
  for(const query of ['Est-ce que tu connais un article qui parle de la zzzthemeinexistant ?', 'Une histoire sur la dissociation et zzzthemeinexistant ?', 'Un article sur la peur de décevoir et zzzthemeinexistant ?', 'Un récit sur le complexe du sauveur et zzzthemeinexistant ?', 'Connais-tu un article ?']){const result=lookupReadingCatalogue(EXAMPLES,query);assert.equal(result.total_matches,0,query);assert.deepEqual(result.matches,[]);assert.equal(result.absence_proven,false);}

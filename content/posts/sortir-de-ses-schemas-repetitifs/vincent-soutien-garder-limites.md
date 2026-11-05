@@ -23,7 +23,7 @@ Depuis la sortie à la projection, Vincent sait mieux nommer un obstacle et choi
 
 Un soutien qui respecte les limites est une aide dont la forme, le périmètre et les informations partagées restent discutables par les personnes concernées. Il peut s’agir d’une écoute, d’un renseignement, d’une présence ou d’un appui pratique. Recevoir cette aide ne retire pas le droit de refuser un conseil, de préserver sa vie privée ou de modifier sa demande.
 
-Les travaux de Sheldon Cohen et Thomas Wills sur le soutien social examinent notamment comment les ressources relationnelles peuvent compter dans les situations de stress. Ils distinguent plusieurs formes de soutien et discutent leur adéquation aux besoins. Ce cadre n’implique pas qu’avoir beaucoup de proches suffise, ni que toute aide proposée soit automatiquement utile à celui qui la reçoit.
+Dans leur synthèse des études sur le stress et le soutien social, Sheldon Cohen et Thomas Wills distinguent la taille du réseau et la disponibilité perçue d’une aide qui correspond au besoin. Les deux ne renseignent pas sur la même chose : compter des proches ne dit pas, par exemple, qui peut offrir une écoute ou un relais. Ce cadre n’implique pas qu’avoir beaucoup de proches suffise, ni que toute aide proposée soit automatiquement utile à celui qui la reçoit.
 
 Vincent peut apprécier Denis et ne pas souhaiter lui raconter certains détails. La confiance n’exige pas une transparence totale. Elle peut se construire dans la capacité à dire ce que l’on souhaite partager et à voir cette limite respectée. Un échange bref et choisi peut convenir davantage qu’une longue conversation où l’on se sent obligé de tout expliquer pour mériter d’être entendu.
 
@@ -95,4 +95,4 @@ Vincent découvre qu’il peut être entendu sans tout raconter et refuser une p
 
 Si vous ne trouvez pas d’espace de parole respectueux, si l’isolement augmente ou si la détresse persiste, un psychologue ou un professionnel social peut aider à chercher des appuis adaptés. Vous pouvez parler de votre expérience sans exposer toute la vie de votre proche. Vous pouvez aussi dire qu’une aide proposée ne convient pas, puis rechercher avec quelqu’un une autre possibilité.
 
-Sources : [Cohen et Wills, travaux sur le stress et le soutien social](https://pubmed.ncbi.nlm.nih.gov/3901065/).
+Sources : [Cohen et Wills, travaux sur le stress et le soutien social](https://lchc.ucsd.edu/MCA/Mail/xmcamail.2012_11.dir/pdfYukILvXsL0.pdf).

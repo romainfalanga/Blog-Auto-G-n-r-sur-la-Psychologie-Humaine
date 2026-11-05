@@ -100,5 +100,5 @@ Décrire l’envie, vérifier une occasion réelle et donner à l’essai une fi
 Si toute envie semble durablement inaccessible ou si la détresse occupe l’ensemble du quotidien, un médecin ou un psychologue peut offrir un accompagnement. Un professionnel social peut aussi aider à rechercher des ressources locales selon la situation. L’espace personnel se soutient mieux lorsque les besoins essentiels et les contraintes réelles sont pris au sérieux.
 
 Sources :
-- [Peter Gollwitzer, article sur les intentions de mise en œuvre](https://doi.org/10.1037/0003-066X.54.7.493)
+- [Peter Gollwitzer, article sur les intentions de mise en œuvre](https://www.socmot.uni-konstanz.de/publications/implementation-intentions-strong-effects-simple-plans)
 - [Gollwitzer et Sheeran, présentation des plans associés à des situations repérables](https://dccps.nci.nih.gov/BRP/constructs/implementation_intentions/goal_intent_attain.pdf)

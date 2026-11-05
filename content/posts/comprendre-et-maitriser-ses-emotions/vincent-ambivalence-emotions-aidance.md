@@ -21,9 +21,9 @@ Il garde son manteau sur le dossier d’une chaise. Depuis leur sortie, il sait 
 
 ## Qu’est-ce que l’ambivalence émotionnelle ?
 
-L’ambivalence émotionnelle est la présence de sentiments différents, parfois opposés, à propos d’une même situation ou d’un même lien. Elle peut prendre la forme d’émotions mêlées ou de changements rapprochés dans la manière de vivre un événement. Elle ne constitue pas en elle-même un diagnostic ni la preuve qu’une relation serait fausse ou condamnée.
+L’ambivalence émotionnelle désigne ici des sentiments qui tirent dans des directions différentes à propos d’une même situation ou d’un même lien. Ressentir deux émotions ensemble et passer de l’une à l’autre au cours d’une journée sont deux expériences possibles ; l’une ne prouve pas l’autre. Elle ne constitue pas en elle-même un diagnostic ni la preuve qu’une relation serait fausse ou condamnée.
 
-Les recherches de Larsen, McGraw et Cacioppo montrent notamment que joie et tristesse peuvent coexister dans certaines situations. Leurs travaux ne décrivent pas toute l’expérience de l’aidance. Ils offrent néanmoins un contre-exemple à la règle que Vincent s’impose : une émotion agréable n’annule pas nécessairement une émotion pénible, et l’inverse reste également vrai.
+Dans les études de Larsen, McGraw et Cacioppo, des participants ont déclaré ressentir à la fois de la joie et de la tristesse dans certains contextes, par exemple juste après un film. Leurs travaux ne décrivent pas toute l’expérience de l’aidance. Ils offrent néanmoins un contre-exemple à la règle que Vincent s’impose : une émotion agréable n’annule pas nécessairement une émotion pénible, et l’inverse reste également vrai.
 
 Dans sa vie avec Cédric, plusieurs dimensions se rencontrent. Il éprouve du plaisir dans leur relation, de la fatigue liée à certaines tâches et de la colère contre des obstacles extérieurs. Ces émotions n’ont pas forcément le même objet. Dire qu’il en a assez des appels n’équivaut pas à dire qu’il en a assez de son compagnon. La précision permet de parler d’un problème sans réduire toute la vie commune à ce problème.
 

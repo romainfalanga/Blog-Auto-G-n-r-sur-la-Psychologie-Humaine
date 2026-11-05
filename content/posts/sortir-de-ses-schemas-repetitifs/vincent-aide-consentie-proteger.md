@@ -23,7 +23,7 @@ Un agent indique une autre entrée dans la salle. Vincent se tourne vers Cédric
 
 Une aide consentie est un soutien dont la personne concernée accepte la forme, la portée et le moment, avec la possibilité de refuser ou de demander un changement. Dans la vie ordinaire, cette vérification peut être brève et naturelle. Elle est particulièrement utile lorsqu’un geste touche le corps, un équipement personnel, une décision ou un espace privé.
 
-Les recherches sur l’aide distinguent notamment des interventions qui fournissent des moyens d’agir et celles qui accomplissent l’action à la place de la personne. Cette distinction ne classe pas une forme comme toujours bonne et l’autre comme toujours mauvaise. Cédric peut souhaiter l’une ou l’autre selon la situation. Le point essentiel pour Vincent est de vérifier ce qui est demandé aujourd’hui.
+Dans des expériences en psychologie sociale, Nadler et Chernyak-Hai distinguent les aides qui donnent des moyens de résoudre un problème et celles qui apportent la solution complète. Leurs expériences ne portent pas sur les déplacements en fauteuil ni sur l’aide dans un couple. Cette distinction ne classe pas une forme comme toujours bonne et l’autre comme toujours mauvaise. Cédric peut souhaiter l’une ou l’autre selon la situation. Le point essentiel pour Vincent est de vérifier ce qui est demandé aujourd’hui.
 
 Le fauteuil appartient à l’espace personnel de Cédric et sert à ses déplacements. Vincent ne peut pas considérer ses poignées comme un outil disponible dès qu’il juge une intervention utile. Une habitude de soutien entre eux n’équivaut pas à une autorisation permanente. Ils peuvent avoir des accords pratiques connus et les réviser lorsqu’un geste ne convient plus.
 
@@ -99,4 +99,4 @@ Vincent apprend à distinguer le besoin de Cédric de sa propre inquiétude. Il 
 
 Si les interventions non souhaitées ou les inquiétudes autour de l’aide deviennent une source durable de tension, un psychologue ou un professionnel de l’accompagnement peut aider à clarifier les accords. Les choix et les limites des deux personnes méritent d’être entendus. Un soutien adapté peut aussi porter sur les obstacles concrets qui rendent certaines situations plus difficiles.
 
-Sources : [Nadler et Chernyak-Hai, formes d’aide orientées vers les moyens d’agir ou la prise en charge](https://doi.org/10.1037/a0034152).
+Sources : [Nadler et Chernyak-Hai, formes d’aide orientées vers les moyens d’agir ou la prise en charge](https://doi.org/10.1037/a0034152) ; [Guide ministériel sur l’accueil des personnes handicapées](https://www.ecologie.gouv.fr/sites/default/files/documents/bien%20accueillir%20MAJ%202025_VF_0.pdf).

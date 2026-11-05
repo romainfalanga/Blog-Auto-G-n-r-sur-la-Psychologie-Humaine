@@ -21,16 +21,16 @@ En quittant la salle pour aller chercher de l'eau, elle aperçoit Adam dessinant
 
 ## Définition du biais de confirmation
 
-Le biais de confirmation est la tendance à rechercher, interpréter et retenir les informations qui confirment nos croyances préexistantes, en ignorant ou en dévalorisant celles qui les contredisent. C'est Peter Wason, dans les années 1960, qui a mis en évidence ce phénomène avec ses célèbres tâches de sélection. Raymond Nickerson l'a ensuite étudié comme un biais omniprésent affectant le raisonnement humain. En psychologie sociale, ce mécanisme explique pourquoi, en situation de conflit, nous avons souvent l'illusion d'avoir raison : notre cerveau privilégie activement les éléments compatibles avec notre lecture de la situation.
+Le biais de confirmation désigne la tendance à rechercher ou interpréter les informations d’une manière qui favorise une idée déjà présente. Dans une [expérience de 1960](https://journals.sagepub.com/doi/10.1080/17470216008416717), Peter Wason demandait aux participants de découvrir une règle qui décrivait des suites de nombres. Beaucoup s’en tenaient à des essais compatibles avec leur idée de départ. Une tâche de raisonnement ne permet toutefois pas de conclure qu’une personne qui soupçonne une violence se trompe.
 
-Dans le cas de Djamila, ce biais se superpose à un contexte traumatique antérieur et à une hypervigilance relationnelle. Cela signifie que ses attentes, par exemple l'idée qu'on va la contester ou la manipuler, orientent la recherche d'indices dans l'environnement de travail et transforment des détails neutres en preuves irréfutables. Les recherches en sciences cognitives montrent que ce processus est renforcé par des émotions fortes. La peur et la colère favorisent la sélection de preuves concordantes, ce qui rend le biais de confirmation particulièrement actif lors des tensions.
+Djamila a appris à repérer très vite certains signes de tension avec Samir. Au travail, un ton sec lui rappelle ces moments. Elle cherche ce qui permet de distinguer la remarque qu’elle vient d’entendre de l’intention qu’elle prête à Antoine, tout en gardant la possibilité d’un problème réel.
 
 ## Manifestations du biais en situation de conflit
 
 ### 1. La perception sélective des preuves
 Dans un conflit, le biais de confirmation pousse à remarquer surtout les éléments qui confirment l'idée que l'autre a tort ou souhaite nuire. Par exemple, lorsqu'Antoine affirme qu'il n'avait pas reçu le courriel, Djamila retient uniquement le fait que sa voix était sèche et oublie la possibilité d'une erreur technique. La perception sélective transforme des indices ambigus en preuves définitives. Concrètement, cela signifie garder en mémoire un mot prononcé il y a six mois par un collègue et l'utiliser comme preuve d'une intention générale, tout en effaçant les gestes de soutien ou les éléments neutres.
 
-Ce mécanisme est d'autant plus puissant chez Djamila qu'il s'est construit comme une stratégie de défense vitale durant ses années avec Samir. À l'époque, chaque micro-indice de changement d'humeur chez son ex-conjoint devait être repéré pour anticiper une crise. Aujourd'hui, son cerveau continue d'appliquer cette grille de lecture ultra-sensible à des contextes professionnels sains, transformant une simple divergence d'opinion en une menace imminente pour son intégrité.
+Avec Samir, surveiller son humeur a parfois aidé Djamila à éviter une scène. Aujourd’hui, le même type d’attention peut la pousser à tirer une conclusion rapide d’un indice ambigu. La présence de ce réflexe ne signifie pas que l’environnement professionnel est sûr ou dangereux.
 
 ### 2. Lecture intentionnelle hostile
 Le biais de confirmation alimente la tendance à attribuer des motivations négatives aux actions des autres. En situation de conflit, on commence à supposer que les remarques sont intentionnelles, même quand elles sont neutres. Pour Djamila, qui a survécu à des manipulations, il est facile de traduire un retrait de parole d'Antoine en tentative de domination. Le cerveau remplit rapidement le vide d'information par la version la plus menaçante.
@@ -45,7 +45,7 @@ Après une réunion tendue, Djamila échange avec une collègue qui évoque ce t
 ## Techniques pour contrer le biais de confirmation
 
 ### 1. Technique du contre-échantillonnage
-Dès qu'une conviction forte surgit en conflit, prenez une feuille ou une note sur votre téléphone et tracez deux colonnes : preuves pour et preuves contre. En trois minutes, listez au moins trois éléments pour chaque colonne. L'objectif n'est pas d'atteindre la neutralité parfaite mais d'obliger votre cerveau à considérer des informations qui iraient autrement se perdre.
+Si une situation est ambiguë et que vous pouvez prendre du recul, notez ce que vous avez observé, les explications possibles et les éléments qui permettraient de les départager. Une colonne peut rester vide : l’exercice ne demande pas de fabriquer des arguments ou d’ignorer des faits de violence.
 
 À la suite d'une remarque d'Antoine, Djamila inscrit voix sèche, a coupé la parole dans la colonne pour, puis cherche dans la colonne contre : il a approuvé ma dernière note la semaine passée, il a un stress administratif aujourd'hui, il peut y avoir eu un malentendu sur l'heure. Cet exercice l'aide à ralentir l'accumulation automatique de preuves et à évaluer la situation de façon plus nuancée. Le contre-échantillonnage brise l'algorithme mental par lequel on ne collecte que les cas confirmants.
 
@@ -73,6 +73,6 @@ Elle sait que ce n'est pas un renoncement à sa vigilance. Son passé avec Samir
 
 La conscience du mécanisme est la première ouverture possible vers d'autres choix. Reconnaître que le biais de confirmation en situation de conflit existe n'enlève rien à la légitimité des émotions, cela permet au contraire de les examiner sans leur confier automatiquement la conclusion finale. Les techniques présentées sont des outils concrets applicables en situation professionnelle ou personnelle.
 
-Si vous vous reconnaissez dans le profil de Djamila, sachez que ces stratégies ne demandent pas d'abandonner votre vigilance utile mais de la rendre plus flexible et plus précise. Elles aident à séparer ce qui relève d'un danger réel de ce qui est une répétition mentale d'un passé douloureux. Pour des difficultés persistantes, notamment quand le conflit réactive un traumatisme ancien, il est préférable de consulter un professionnel pour un accompagnement adapté.
+Ces outils aident à examiner une situation ambiguë. Ils ne remplacent pas une démarche de protection ou de signalement si des menaces, des humiliations ou des violences sont en cours. Si la détresse persiste, il est possible d’en parler à un professionnel.
 
 Changer la manière dont on traite l'information est un apprentissage concret. Comme Djamila, vous pouvez intégrer ces outils progressivement pour reprendre le contrôle de vos pensées et faire des choix plus ajustés en situation de conflit.

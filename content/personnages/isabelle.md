@@ -16,23 +16,23 @@ draft: false
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-anxieux-preoccupe-couple/">Comprendre l'attachement anxieux-préoccupé en couple : le cas de Kévin</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-anxieux-preoccupe-couple/">En couple, Isabelle cherche à se sentir rassurée</a></h3>
     <div class="parcours-date">2026-03-08</div>
-    <p class="parcours-resume">Isabelle, 47 ans, psychologue scolaire et mère de Théo, guette chaque message de sa compagne Aurélie partie faire les courses. Chaque minute de silence alimente son anxiété relationnelle, révélant un style d'attachement anxieux-préoccupé qui transforme l'absence ordinaire en menace d'abandon.</p>
+    <p class="parcours-resume">Le soleil déclinait doucement sur l’horizon, colorant la pièce d’un orange chaud. Isabelle, 47 ans, psychologue scolaire dans un collège, était assise sur le canapé du salon, le téléphone à la main, le regard fixé sur l’écran.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Isabelle prend conscience d'un schéma répétitif qui s'active dans cette situation. Malgré son côté bienveillante, elle commence à identifier les déclencheurs et à envisager d'autres façons de réagir.</p>
+      <p>Si les silences vous préoccupent, une pause, une demande concrète et des activités qui vous intéressent peuvent vous donner des options. Vous pouvez observer ce qui vous aide dans cette relation et à quels moments.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-anxieux-preoccupe-couple/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-attribution-fondamentale-ecole/">Biais d'attribution fondamentale à l'école : comprendre et agir</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-attribution-fondamentale-ecole/">Biais d&#x27;attribution fondamentale à l&#x27;école : comprendre et agir</a></h3>
     <div class="parcours-date">2026-03-18</div>
-    <p class="parcours-resume">Le 18 mars 2026, au collège, Isabelle est confrontée au retard de Mathieu, un élève de seize ans qu'elle juge d'abord comme paresseux. Elle fait le lien entre ce réflexe de jugement immédiat et son passé familial où elle devait réguler les conflits parentaux dès l'âge de huit ans.</p>
+    <p class="parcours-resume">La porte du bureau claque doucement, puis un bruit de sac qui traîne sur le carrelage. Isabelle relève la tête, ses doigts chauffés par la tisane encore tiède posée sur le coin du bureau.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Isabelle prend conscience de son biais d'attribution fondamentale et décide de substituer la curiosité au jugement automatique pour réduire sa fatigue émotionnelle. Elle commence à questionner les causes situationnelles des comportements d'autrui plutôt que de coller des étiquettes de personnalité.</p>
+      <p>Isabelle applique ces techniques dès le lendemain. Elle prend son carnet et, au lieu de noter Mathieu comme paresseux, elle remplit une grille de contexte : heure de sortie du bus, présence d&#x27;une aide familiale, repos la veille.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-attribution-fondamentale-ecole/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -40,10 +40,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions/">La parentification avec ses parents : comprendre ce poids invisible</a></h3>
     <div class="parcours-date">2026-03-20</div>
-    <p class="parcours-resume">Isabelle se rend chez sa mère, Geneviève, pour l'aider à gérer ses factures et ses plaintes quotidiennes. Dans ce salon chargé de souvenirs, elle réalise qu'elle reproduit depuis l'enfance un schéma de pilier émotionnel pour ses parents, au détriment de son propre équilibre.</p>
+    <p class="parcours-resume">L&#x27;odeur de vieux papier et de poussière emplit le salon de Geneviève en ce vendredi après-midi. Isabelle est assise en tailleur sur le tapis usé, entourée de classeurs qui débordent.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Isabelle prend conscience que son besoin d'être indispensable et son anxiété relationnelle découlent de sa parentification. Elle décide que ce cycle de sacrifice de soi doit s'arrêter pour ne pas impacter sa propre vie et ses relations.</p>
+      <p>Isabelle referme le dernier classeur. Le silence dans le salon de sa mère n&#x27;est plus aussi pesant qu&#x27;il y a une heure.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/parentification-avec-ses-parents-causes-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -51,10 +51,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/fatigue-compassion-travail-consequences/">Fatigue de compassion au travail : conséquences au quotidien</a></h3>
     <div class="parcours-date">2026-03-29</div>
-    <p class="parcours-resume">Isabelle, psychologue scolaire, termine une journée éprouvante marquée par l'accueil de trois élèves en crise. Épuisée et émotionnellement engourdie, elle peine à rédiger ses rapports et redoute de ne plus avoir d'énergie pour son fils Théo.</p>
+    <p class="parcours-resume">La porte du bureau claque doucement derrière elle. Isabelle reste un instant appuyée contre le bois froid, ses doigts encore chauds du stylo abandonné sur la table.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Elle identifie son état comme de la fatigue de compassion et comprend que son épuisement professionnel réactive son schéma d'enfant parentifiée qui régulait autrefois les conflits de ses parents.</p>
+      <p>Après le troisième entretien, Isabelle vérifie avec l’équipe quelle personne prendra le relais. Elle termine le rapport et le range dans le dossier professionnel prévu.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/fatigue-compassion-travail-consequences/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -62,87 +62,87 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-en-situation-de-conflit-comprendre/">Biais de groupe en situation de conflit : le comprendre</a></h3>
     <div class="parcours-date">2026-04-06</div>
-    <p class="parcours-resume">Lors d'une réunion de crise au collège suite à un incident avec des élèves, Isabelle observe ses collègues, dont Laurent et Claire, s'unir dans une colère collective contre les parents. Elle ressent la tentation de se fondre dans ce 'nous' protecteur pour échapper à sa propre fatigue émotionnelle, tout en luttant contre son besoin viscéral de neutralité.</p>
+    <p class="parcours-resume">La salle des professeurs du collège sent la craie humide et le café réchauffé. Isabelle est assise au bout de la grande table en chêne, ses doigts croisés autour de sa tasse de tisane tiède.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Isabelle prend conscience que le biais de groupe agit comme un mécanisme de défense simplificateur qui apaise son épuisement, mais elle réalise que son appartenance au groupe des professeurs menace son intégrité de psychologue et sa capacité d'empathie.</p>
+      <p>Isabelle pose sa tasse et écoute Laurent. Elle comprend qu’approuver les autres sur-le-champ lui éviterait un désaccord pénible.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-en-situation-de-conflit-comprendre/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/methode-abcde-ellis-seule-face-a-soi-meme/">La méthode ABCDE d'Ellis : s'apaiser seul face à soi-même</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/methode-abcde-ellis-seule-face-a-soi-meme/">La méthode ABCDE d&#x27;Ellis : s&#x27;apaiser seul face à soi-même</a></h3>
     <div class="parcours-date">2026-04-10</div>
-    <p class="parcours-resume">Isabelle se retrouve seule chez elle le 10 avril 2026 après le départ de son fils Théo chez son père, Laurent. Un message culpabilisant de sa mère, Geneviève, déclenche une crise d'anxiété qui la pousse à utiliser la méthode ABCDE d'Ellis pour ne pas céder au cycle du sacrifice de soi.</p>
+    <p class="parcours-resume">Isabelle repose le couvercle de la bouilloire avec une lenteur calculée. Le clic métallique résonne dans la cuisine silencieuse, un bruit presque trop fort pour cette soirée du 10 avril 2026.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Isabelle passe d'une réaction émotionnelle de culpabilité héritée de l'enfance à une démarche de restructuration cognitive. Elle décide de ne pas s'excuser immédiatement et choisit d'analyser rationnellement ses croyances pour briser sa fatigue de compassion.</p>
+      <p>Isabelle repose son stylo sur le carnet. Les colonnes sont remplies.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/methode-abcde-ellis-seule-face-a-soi-meme/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/pensees-automatiques-negatives-en-amitie-isabelle/">Pensées automatiques négatives en amitié : s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/pensees-automatiques-negatives-en-amitie-isabelle/">En amitié, Isabelle interroge ses premières impressions</a></h3>
     <div class="parcours-date">2026-04-18</div>
-    <p class="parcours-resume">Isabelle partage un café en terrasse avec son amie Catherine, mais se laisse envahir par l'anxiété lorsque cette dernière consulte son téléphone. Elle sombre dans un cycle de pensées automatiques négatives, interprétant ce geste banal comme un signe d'ennui et de rejet de sa propre personne.</p>
+    <p class="parcours-resume">Le soleil d&#x27;avril caresse la terrasse du petit café où Isabelle est installée avec Catherine. Les bruits de la rue, le cliquetis des cuillères sur la porcelaine et l&#x27;odeur du pain grillé devraient composer une bulle de sérénité.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Isabelle identifie que son hypervigilance et sa tendance à la lecture de pensée sont des mécanismes de défense hérités de son enfance. Elle réalise que son attachement anxieux et son passé d'enfant parentifiée s'exportent désormais dans ses relations amicales, créant une fatigue de compassion.</p>
+      <p>Assise au soleil, Isabelle sent le poids de ses suppositions s&#x27;alléger. Elle regarde Catherine, qui vient enfin de ranger son téléphone dans son sac avec un geste de dépit.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/pensees-automatiques-negatives-en-amitie-isabelle/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/dissociation-rupture-amoureuse/">Dissociation après une rupture amoureuse : comment s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/dissociation-rupture-amoureuse/">Après sa rupture, Isabelle se sent parfois déconnectée</a></h3>
     <div class="parcours-date">2026-04-23</div>
-    <p class="parcours-resume">Isabelle, enseignante au collège, traverse des épisodes de dissociation marqués par des pertes de mémoire immédiate et des gestes automatiques suite à sa rupture avec Laurent. En pleine journée de travail le 23 avril 2026, elle jongle entre ses obligations professionnelles, un appel de son fils Théo et les réminiscences de son passé d'enfant parentifiée.</p>
+    <p class="parcours-resume">Isabelle regarde l’horloge du collège. La récréation vole en éclats de rires et de chaussures qui claquent.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Elle identifie ses absences comme un mécanisme de survie hérité de son enfance et tente de coupler la méthode ABCDE à des gestes concrets pour reprendre pied dans la réalité. Elle prend conscience que son passé influence sa réaction actuelle à la rupture et à son épuisement professionnel.</p>
+      <p>Après une réunion tendue, Isabelle sent le tissu de sa veste sous ses doigts et reprend le fil avec la personne qui lui parle. Le soir, elle écrit ce qu’elle peut décrire précisément et appelle le cabinet médical pour un rendez-vous.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/dissociation-rupture-amoureuse/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mepris-lors-d-un-deuil-comprendre-surmonter/">Le mépris lors d'un deuil : comprendre et surmonter cette émotion</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mepris-lors-d-un-deuil-comprendre-surmonter/">Quand des paroles blessent pendant le deuil</a></h3>
     <div class="parcours-date">2026-04-30</div>
-    <p class="parcours-resume">Isabelle se rend chez sa mère, Geneviève, pour l'aider à gérer les formalités administratives suite au décès de son oncle. Elle y est accueillie avec une froideur extrême et subit des remarques méprisantes visant à disqualifier son aide et sa légitimité familiale.</p>
+    <p class="parcours-resume">Isabelle gravit lentement les marches grinçantes de l&#x27;escalier menant à l&#x27;appartement de sa mère, Geneviève. Dans ses mains, elle serre un dossier contenant les actes de décès de son oncle, le frère de Geneviève, parti subitement il y a dix jours.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Isabelle identifie le mépris comme un mécanisme de défense chez sa mère et fait le lien avec les comportements passés de son ex-mari Laurent. Elle parvient à rester lucide et présente sans se laisser dissocier, appliquant ses connaissances psychologiques pour éviter la fatigue de compassion.</p>
+      <p>Isabelle regarde les mains de Geneviève puis les siennes. Elle a envie de rappeler tout ce qu’elle fait depuis des années.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mepris-lors-d-un-deuil-comprendre-surmonter/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/empathie-cognitive-vs-affective-avec-ses-parents/">Empathie cognitive vs affective avec ses parents : le guide</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/empathie-cognitive-vs-affective-avec-ses-parents/">Empathie en famille : Isabelle écoute et pose une limite</a></h3>
     <div class="parcours-date">2026-05-05</div>
-    <p class="parcours-resume">Isabelle rend visite à sa mère, Geneviève, pour l'aider dans ses démarches administratives liées au deuil. Face aux plaintes et à l'agressivité de sa mère, Isabelle lutte pour ne pas sombrer dans une détresse émotionnelle par procuration, puisant dans ses outils thérapeutiques pour maintenir une distance nécessaire.</p>
+    <p class="parcours-resume">Isabelle gravit les quatre étages de l&#x27;immeuble de sa mère, Geneviève, les bras chargés d&#x27;un sac de courses et de quelques dossiers du collège qu&#x27;elle n&#x27;a pas eu le cœur de laisser dans son casier. L&#x27;odeur familière de l&#x27;encaustique et du jasmin l&#x27;accueille dès le palier, mais une tension…</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Isabelle parvient à conscientiser la distinction entre l'empathie affective, qui l'épuise par contagion, et l'empathie cognitive, qui lui permet de comprendre les peurs de sa mère sans les subir physiquement.</p>
+      <p>Isabelle repose la lettre et demande à sa mère ce qui l’inquiète dans le document. Geneviève indique un délai.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/empathie-cognitive-vs-affective-avec-ses-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/fenetre-de-tolerance-dan-siegel-en-famille/">Fenêtre de tolérance en famille : le guide de Dan Siegel</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/fenetre-de-tolerance-dan-siegel-en-famille/">Quand Isabelle a besoin d’une pause en famille</a></h3>
     <div class="parcours-date">2026-05-14</div>
-    <p class="parcours-resume">Isabelle, psychologue scolaire fatiguée par son travail, fait face à l'agressivité verbale de son fils Théo après une journée tendue. Alors qu'elle tente une médiation, elle sent son équilibre émotionnel vaciller, ravivant des souvenirs de son enfance d'enfant parentifiée et de sa rupture difficile avec Laurent.</p>
+    <p class="parcours-resume">Le parquet du couloir craque sous les pas de Théo. Isabelle, installée dans le fauteuil du salon, sent ses muscles se raidir instantanément.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Elle identifie qu'elle est en train de sortir de sa 'fenêtre de tolérance' vers l'hyper-activation. Elle prend conscience que son passé de médiatrice familiale et sa fatigue actuelle réduisent sa capacité à rester calme face aux provocations de son fils.</p>
+      <p>Théo est toujours là, debout au milieu du salon, les sourcils froncés. Isabelle sent la fatigue de compassion qui l&#x27;avait frappée au travail revenir.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/fenetre-de-tolerance-dan-siegel-en-famille/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/les-5-blessures-ame-rupture-amoureuse/">Les 5 blessures de l'âme après une rupture amoureuse</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/les-5-blessures-ame-rupture-amoureuse/">Après une rupture, Isabelle apprivoise le manque</a></h3>
     <div class="parcours-date">2026-05-21</div>
-    <p class="parcours-resume">Isabelle, psychologue scolaire et mère de Théo, réfléchit à sa récente rupture avec Aurélie lors d'un moment de solitude au Jardin du Luxembourg. Elle analyse ses échecs sentimentaux passés, notamment son divorce avec Laurent, à travers le prisme des blessures de l'âme et de son passé d'enfant parentifiée.</p>
+    <p class="parcours-resume">Isabelle s’assied sur un banc en bois face au bassin du Jardin du Luxembourg. Le vent soulève quelques mèches de ses cheveux roux.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Elle prend conscience que ses réactions émotionnelles, comme sa peur de l'abandon et son besoin de contrôle, sont des masques protecteurs issus de blessures d'enfance non résolues. Elle commence à identifier ses propres schémas de dépendance et de rigidité pour ne plus subir ses pensées automatiques.</p>
+      <p>Quand les ombres s’allongent sur les graviers, Isabelle se lève et envoie un message à Catherine pour proposer une promenade. Elle ne sait pas si Catherine sera libre.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/les-5-blessures-ame-rupture-amoureuse/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

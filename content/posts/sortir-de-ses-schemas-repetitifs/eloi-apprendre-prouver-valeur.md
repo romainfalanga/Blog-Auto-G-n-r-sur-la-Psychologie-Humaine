@@ -21,7 +21,7 @@ Quentin prend une fiche différente et demande un support. Éloi remarque qu'il 
 
 ## Qu'est-ce qu'un objectif d'apprentissage ?
 
-Un objectif d'apprentissage vise à développer une compréhension ou une compétence, tandis qu'un objectif de performance porte davantage sur le résultat démontré ou sur la manière dont la capacité est évaluée. Ces orientations peuvent coexister. Un examen demande une performance réelle, et un entraînement peut comporter un résultat à atteindre. La difficulté apparaît lorsque toute situation devient un verdict sur la personne, y compris celles qui sont prévues pour découvrir et corriger.
+Dans le modèle de Carol Dweck et Ellen Leggett, un but d'apprentissage vise à développer une compétence. Un but de performance vise à obtenir un jugement favorable sur sa compétence ou à éviter un jugement défavorable. Ces buts peuvent coexister. Le type de séance donne un cadre, et Éloi peut chercher à comprendre une méthode tout en voulant faire bonne impression. La difficulté apparaît lorsque toute situation devient un verdict sur la personne, y compris celles qui sont prévues pour découvrir et corriger.
 
 Carol Dweck et Ellen Leggett proposent un cadre de recherche qui relie les buts poursuivis à la manière d'aborder les difficultés. Les objectifs centrés sur l'apprentissage peuvent soutenir la recherche de stratégies lorsqu'une tâche résiste. Ce cadre n'établit pas qu'une bonne attitude suffit à réussir. Les compétences, l'enseignement, les ressources et les conditions d'évaluation restent déterminants. Il ne faut pas transformer le droit d'apprendre en obligation de tout surmonter seul.
 
@@ -43,7 +43,7 @@ Il n'a pas à chercher systématiquement l'exercice le plus difficile. Un défi 
 
 Pendant une explication, Éloi comprend le début et perd un lien dans la suite. Il pourrait le signaler. Il préfère attendre, espérant retrouver seul ce qui manque. Cette stratégie protège brièvement son image, mais rend la fin de l'explication plus opaque. Il doit ensuite travailler avec une méthode incomplète. L'effort supplémentaire devient invisible, et la question initiale se transforme en confusion plus large.
 
-Il peut reconnaître que demander comporte un risque relationnel. Un interlocuteur peut répondre trop vite ou de manière désagréable. Il ne suffit pas de lui dire de ne pas avoir peur. Le cadre doit prévoir des moments de clarification et un traitement respectueux des difficultés. La recherche sur la sécurité psychologique des équipes rappelle l'importance d'un environnement où les risques interpersonnels de l'apprentissage peuvent être discutés.
+Il peut reconnaître que demander comporte un risque relationnel. Un interlocuteur peut répondre trop vite ou de manière désagréable. Il ne suffit pas de lui dire de ne pas avoir peur. Le cadre doit prévoir des moments de clarification et un traitement respectueux des difficultés. Dans une entreprise industrielle, Amy Edmondson observe un lien entre la possibilité perçue de prendre des risques relationnels et des comportements d'apprentissage en équipe. Au centre de formation, la manière dont les questions sont reçues peut aider Éloi à trouver le bon moment pour demander une explication.
 
 ### Le résultat efface les informations du parcours
 

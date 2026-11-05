@@ -1,7 +1,7 @@
 ---
 title: "Recevoir de l’aide sans se justifier : l’essai d’Aline"
 date: 2026-09-15T08:00:00+00:00
-description: "Une panne oblige Aline à accepter un trajet proposé par Chloé. Elle apprend à recevoir sans prouver son besoin ni rembourser aussitôt."
+description: "Après une panne, Chloé propose un trajet à Aline. Elle apprend à choisir l’aide qui lui convient sans prouver son besoin ni rembourser aussitôt."
 categories: ["Sortir de ses schémas répétitifs"]
 tags: ["recevoir de l’aide", "réciprocité", "amitié", "autonomie", "gratitude", "besoins"]
 slug: "aline-recevoir-aide-justifier"
@@ -23,7 +23,7 @@ Son amie l’arrête avec douceur : elle n’a pas besoin de connaître chaque r
 
 Recevoir une aide sans se justifier consiste à accepter un soutien proposé ou demandé sans devoir démontrer que l’on mérite d’en bénéficier par une histoire complète, un épuisement extrême ou une dette future. Cela ne dispense pas de donner les informations utiles. Un horaire et une adresse peuvent être nécessaires ; le récit de toute la semaine ne l’est pas toujours.
 
-Les recherches de Clark et Mills sur les relations d’échange et les relations attentives aux besoins montrent que les attentes de retour varient selon le cadre relationnel. Aline en retient une question pratique : son amie lui demande-t-elle un remboursement précis, ou transforme-t-elle elle-même une offre ponctuelle en dette immédiate ? Cette distinction mérite d’être vérifiée plutôt que supposée.
+Margaret Clark et Judson Mills distinguent les échanges qui appellent un retour et les liens dans lesquels on aide en réponse à un besoin. Dans des tâches de laboratoire, Clark a ensuite observé que les participants ne suivaient pas les contributions de chacun de la même façon selon le type de relation attendu. Aline en retient une question pratique : son amie lui demande-t-elle un remboursement précis, ou transforme-t-elle elle-même une offre ponctuelle en dette immédiate ? Cette distinction mérite d’être vérifiée plutôt que supposée.
 
 Dans certaines relations, les services s’accompagnent effectivement de pressions ou de reproches ultérieurs. La prudence peut alors être utile. Accepter sans se justifier ne signifie pas faire confiance à toute proposition. Aline dispose ici d’une histoire où Chloé respecte ses refus et ne réclame pas de contrepartie cachée. Elle peut regarder ces faits au lieu d’appliquer une méfiance identique à toutes les personnes.
 
@@ -99,4 +99,4 @@ Aline ne devient pas moins capable parce qu’elle accepte un trajet. Elle déco
 
 Si recevoir du soutien provoque une honte persistante, des dettes épuisantes ou un refus de toute aide nécessaire, un psychologue peut vous accompagner dans cette exploration. Selon la situation, un appui social ou pratique peut également rendre les propositions plus accessibles. Vous pouvez chercher une aide dont les conditions sont explicites et dont la portée respecte votre vie.
 
-Sources : [Clark et collègues, attention aux contributions dans différents cadres relationnels](https://pubmed.ncbi.nlm.nih.gov/6491869/).
+Sources : [Margaret Clark, suivi des contributions dans deux cadres relationnels](https://pubmed.ncbi.nlm.nih.gov/6491869/) ; [Clark et Mills, étude sur les relations d’échange et les relations attentives aux besoins](https://clarkrelationshiplab.yale.edu/sites/default/files/files/Interpersonal%20attraction%20in%20exchance%20and%20commual%20relationships.pdf).

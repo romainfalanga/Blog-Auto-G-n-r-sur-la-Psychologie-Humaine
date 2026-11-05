@@ -25,7 +25,7 @@ Gaspard, son collègue artisan, lui demande quelle photographie l’intéresse. 
 
 Évaluer sa compétence sous le regard des autres consiste à apprécier ce que l’on sait faire en tenant compte de retours, de critères et d’images sociales, avec le risque de confondre ces sources. Un avis précis d’un client, une comparaison visuelle et une norme du métier ne donnent pas la même information. La compétence concerne des actions et des savoirs situés. Elle ne se lit pas intégralement dans l’apparence d’un atelier ni dans l’aisance d’une présentation.
 
-Des études sur les comparaisons dans les réseaux sociaux examinent comment le fait de se comparer à des profils perçus comme plus favorables peut modifier l’évaluation de soi dans l’instant. Ces travaux ne portent pas spécifiquement sur la lutherie et ne prouvent pas que toute consultation est nuisible. Ils invitent à regarder le type de comparaison effectué, son intensité et les informations réellement disponibles, plutôt qu’à traiter les images comme des mesures neutres.
+Midgley et ses collègues ont étudié les comparaisons sur les réseaux sociaux, notamment pendant la consultation d’un fil de publications et dans une expérience. Lorsque les personnes se comparaient à d’autres qu’elles estimaient mieux placées, certaines évaluations d’elles-mêmes baissaient à court terme. Les études ne mesurent ni la compétence professionnelle ni un effet durable. Dans le cas de Salomé, la photographie montre ce qu’un atelier a choisi de publier ; elle ne permet pas d’évaluer son propre travail.
 
 Dans le cas de Salomé, la vitrine en ligne présente un résultat choisi. Cela ne signifie pas qu’il est faux ou que l’autre artisan cache une réalité médiocre. La qualité peut être réelle et l’image soignée. Mais Salomé ne connaît ni les années d’expérience, ni le budget, ni la taille de l’équipe, ni le temps dédié à la photographie. Elle ne peut pas déduire de ces images une comparaison complète entre leurs conditions de travail.
 
@@ -93,4 +93,4 @@ Contextualiser la comparaison, choisir des critères observables et donner une f
 
 Si les comparaisons deviennent envahissantes ou limitent durablement votre activité, une psychologue ou un autre professionnel peut aider à examiner leur place et les conditions qui les entretiennent. Des retours de métier et des ressources matérielles peuvent aussi être nécessaires. Le travail ne consiste pas seulement à penser plus positivement dans un contexte dont les contraintes restent réelles.
 
-Sources : [Études des comparaisons sur les réseaux sociaux et de leurs effets sur l’évaluation de soi, 2020](https://pubmed.ncbi.nlm.nih.gov/32790470/).
+Sources : [Midgley et collègues, comparaisons sur les réseaux sociaux et évaluation de soi, 2021](https://pubmed.ncbi.nlm.nih.gov/32790470/).

@@ -1,5 +1,5 @@
 ---
-title: "Raisonnement émotionnel en couple : comment il sabote l'amour"
+title: "Raisonnement émotionnel en couple : quand une crainte devient une certitude"
 date: 2026-03-23T04:35:08+00:00
 description: "Découvrez comment le raisonnement émotionnel en couple s'installe discrètement et 3 techniques concrètes pour y faire face, à travers l'histoire d'Hugo."
 categories: ["Reprendre le contrôle de ses pensées"]
@@ -23,9 +23,9 @@ Ce mécanisme de pensée automatique lui rappelle cruellement les silences pesan
 
 ## Définition du raisonnement émotionnel
 
-Le raisonnement émotionnel est la tendance à croire qu'une émotion reflète une réalité objective : "je me sens abandonné, donc elle m'abandonne." C'est une distorsion cognitive décrite dans le cadre de la thérapie cognitive, associée notamment aux travaux d'Aaron T. Beck et popularisée par David D. Burns dans l'étude des erreurs de pensée.
+Le raisonnement émotionnel consiste à tirer une conclusion sur les faits à partir de son seul ressenti : « Je me sens abandonné, donc elle m'abandonne. » Le [Centre for Clinical Interventions](https://cci.health.wa.gov.au/~/media/CCI/Mental-Health-Professionals/Eating-Disorders/Eating-Disorders---Information-Sheets/Eating-Disorders-Information-Sheet---Unhelpful-Thinking-Styles.pdf) le décrit parmi les styles de pensée abordés en thérapie cognitive.
 
-Dans la littérature scientifique, le raisonnement émotionnel est classé parmi les biais cognitifs qui maintiennent l'anxiété et la dépression en transformant des états internes en preuves externes. La thérapie cognitivo-comportementale (TCC) propose des outils précis pour repérer ce processus et le tester, car sentir quelque chose n'implique pas automatiquement que cette chose soit vraie.
+Une émotion renseigne sur ce qu'on vit et mérite d'être écoutée. Pour savoir ce que l'autre a fait, voulu ou promis, il faut d'autres éléments. Un comportement répété ou une limite franchie mérite d'être pris au sérieux.
 
 ## Manifestations du raisonnement émotionnel dans le couple
 
@@ -43,7 +43,7 @@ Ici, la logique n'est pas factuelle mais affective : l'intensité du ressenti se
 
 ### 3. Lire dans les pensées et projeter des intentions
 
-Le raisonnement émotionnel pousse aussi à attribuer des pensées et des intentions à l'autre. Hugo entend Chloé rire avec un ami et imagine qu'elle se moque de lui. Il part du principe que puisqu'elle rit, elle pense qu'il est nul, et il admet cette idée sans vérifier. Il interprète également une phrase incomplète comme un aveu d'usure dans la relation. Cette projection efface la complexité de l'autre et crée des actions défensives qui renforcent la distance.
+Hugo glisse parfois de « je me sens mis à distance » à « elle cherche à me faire partir ». Prêter cette intention ajoute une seconde hypothèse, différente du ressenti lui-même.
 
 ## Techniques pour apaiser le raisonnement émotionnel
 
@@ -51,7 +51,7 @@ Le raisonnement émotionnel pousse aussi à attribuer des pensées et des intent
 
 L'objectif est de distinguer ce que vous ressentez de ce qui est objectivement observable. Quand une pensée surgit, comme "Elle ne m'aime plus", écrivez-la en haut d'une page. Listez ensuite les preuves pour cette pensée (faits observables) et les preuves contre (éléments contraires).
 
-Posez-vous des questions : "Qu'est-ce que je sais avec certitude ? Quels faits pourraient contredire mon impression ?" Évaluez la probabilité réelle que votre conclusion soit vraie sur une échelle de 0 à 100. Face au message "On doit parler", Hugo note que si le message est bref, ils ont parlé récemment et elle a réservé une salle pour leur duo. Il constate que la certitude de la rupture n'atteint pas 100 % et s'autorise à attendre la discussion.
+Hugo peut noter ce qu'il observe, ce qu'il ressent et ce qu'il en conclut. Il peut ensuite se demander ce qui appuie sa lecture, ce qui la contredit et ce qui reste inconnu.
 
 ### 2. Utiliser le journal en double colonne
 
@@ -61,7 +61,7 @@ Dans la colonne alternative, écrivez au moins deux interprétations plausibles 
 
 ### 3. Pratiquer l'expérimentation comportementale
 
-Il s'agit de transformer une croyance émotionnelle en hypothèse testable par le comportement. Formulez une hypothèse issue du ressenti, par exemple : "Si je lui demande, elle va me dire qu'elle veut rompre". Concevez ensuite une action simple pour tester l'hypothèse de façon non agressive, comme une question ouverte ou une demande de précision.
+Si les deux personnes veulent parler et que le cadre s'y prête, Hugo peut poser une question précise à Chloé : « Quand tu as dit que tu voulais de l'espace, qu'est-ce que tu voulais dire ? » Il peut entendre sa réponse sans insister pour la faire changer.
 
 Engagez l'action en observant seulement ce qui est dit et fait, sans ajouter d'interprétations. Notez le résultat et comparez-le à l'hypothèse initiale. Au lieu d'envoyer un message accusateur, Hugo choisit d'écrire : "J'ai vu ton message, je suis disponible pour parler. Je veux t'écouter." Il teste ainsi si la réponse confirme son scénario ou non.
 
@@ -83,6 +83,6 @@ Il en parle ensuite avec Théo et Samba. Théo remarque la différence : Hugo n'
 
 La manière dont nous transformons nos émotions en vérités a un poids important dans les relations. Le raisonnement émotionnel en couple n'est pas une fatalité : c'est une habitude mentale que l'on peut détecter, nommer et tester avec des procédures simples.
 
-Si vous vous reconnaissez dans l'histoire d'Hugo, rappelez-vous que vos ressentis comptent, mais qu'ils ne suffisent pas à prouver ce qui se passe chez l'autre. Chercher des preuves, écrire vos pensées et tester vos hypothèses sont des gestes concrets qui protègent la relation des conclusions hâtives.
+Dans un désaccord ordinaire, suspendre une conclusion peut aider à écouter. En présence de menaces, de violence ou de peur pour sa sécurité, l'enjeu est de se protéger et de chercher du soutien, pas de tester une hypothèse avec la personne qui fait peur.
 
 Si ces mécanismes créent une souffrance importante ou perturbent vos relations malgré vos efforts, il est recommandé de consulter un professionnel, comme un psychologue ou un thérapeute cognitivo-comportemental, pour un accompagnement personnalisé. Un professionnel peut vous aider à adapter ces techniques à votre histoire et à vos besoins.

@@ -1,7 +1,7 @@
 ---
 title: "Clivage en situation de conflit : comprendre et agir"
 date: 2026-05-06T05:47:16+00:00
-description: "Bernard, artisan ébéniste, apprend à reconnaître le clivage en situation de conflit pour renouer le lien avec son fils Éric."
+description: "Dans un conflit sur la maison d’Hélène, Bernard remarque qu’il oppose deux options sans laisser de place au désaccord ni aux compromis."
 categories: ["Sortir de ses schémas répétitifs"]
 tags: ["clivage", "conflit", "deuil", "relations-toxiques", "communication"]
 slug: "clivage-conflit-comprendre-gerer"
@@ -20,9 +20,9 @@ La scie circulaire cesse de chanter. Bernard repose la planche de chêne et frot
 La tension s'installe comme un clou qu'on enfonce trop vite. Bernard a fait des progrès ces dernières semaines, il a accepté l'enveloppe notariale qu'il laissait de côté en mars, il est allé en Toscane en avril et, pour la première fois, il a laissé monter la tristesse. Mais face à Éric, la vieille stratégie revient. Il se referme, parle en contre-ordres et utilise le silence comme une frontière. Il sent que ce comportement est une forme de clivage, il veut pourtant faire autrement parce que la réconciliation avec son fils est devenue, lentement, la priorité du temps présent. Il se souvient de la chaise en cerisier terminée récemment : il ne veut plus que ses meubles soient les seuls messagers de son affection.
 
 ## Définition du clivage
-Le clivage est un mécanisme psychologique qui sépare les expériences, les personnes ou les émotions en catégories « toutes bonnes » ou « toutes mauvaises », sans place pour l'ambivalence. Le concept a été largement développé en psychanalyse, notamment par Melanie Klein, puis repris et précisé par Otto Kernberg dans le cadre des troubles des relations d'objet.
+Dans les écrits psychanalytiques de Melanie Klein, le clivage est une notion théorique décrivant notamment une séparation entre aspects perçus comme bons et mauvais. Dans la scène, Bernard reconnaît une lecture en tout ou rien. Un désaccord vif ne permet pas de conclure à un mécanisme psychique ni à un trouble.
 
-Cliver consiste à fragmenter la réalité émotionnelle pour la rendre supportable : on met dans un tiroir ce qui rassure et dans un autre ce qui fait peur. En science clinique, on observe le clivage surtout dans des contextes de stress relationnel et de conflit, où il sert à protéger l'identité mais crée des impasses dans la communication. Ce mécanisme est fréquent chez les personnes ayant vécu des pertes précoces ou des relations difficiles, car il offre une certitude temporaire quand le monde extérieur paraît chaotique.
+Bernard entend la proposition de vente comme si elle devait effacer Hélène. Il peut se demander si une autre lecture est possible. Le récit ne permet pas d’attribuer cette réaction à une perte précoce ni d’en faire un mécanisme qui protégerait son identité.
 
 ## Manifestations du clivage en situation de conflit
 ### 1. Polarisation des rôles : ami et ennemi
@@ -31,12 +31,12 @@ Le clivage pousse à attribuer à l'autre un rôle sans nuance. Dans un conflit 
 Lors d'une discussion sur les meubles d'Hélène, un commentaire anodin d'Éric devient la preuve d'une volonté systématique d'effacer la mémoire de sa mère. Ainsi, chaque initiative d'Éric active la catégorie « mauvaise » dans l'esprit de Bernard, rendant la discussion stérile.
 
 ### 2. Oscillation émotionnelle et réactions instantanées
-Le clivage crée des sautes d'humeur apparentes : une personne perçue comme « bonne » peut devenir « mauvaise » sur un mot ou un geste. En pleine dispute, cela se voit par des ruptures de ton et des décisions brusques. Bernard, habitué à la constance de ses outils, peut brusquement couper la conversation et revenir plus tard avec une proposition non négociable, comme si l'affect changeait de tiroir.
+Dans la scène, Bernard change de ton et interrompt l’échange. Cela peut se produire pour de multiples raisons. Reconnaître le changement de ton ne dit pas ce qu’il se passe dans son esprit.
 
 Après un commentaire d'Éric, Bernard propose de sceller une armoire dans le grenier plutôt que d'en discuter, décision qui exprime un rejet immédiat plutôt qu'une négociation.
 
-### 3. Évitement et objectification
-Le clivage peut pousser à remplacer la relation par des objets et des rituels. Pour un ébéniste attaché aux meubles, les objets deviennent des représentants de la personne disparue. En situation de conflit, il est tentant de parler aux choses plutôt qu'à l'être humain : « ce buffet est pour elle » remplace alors « je suis désolé ». C'est une manière de maintenir la mémoire sans autoriser la complexité d'une conversation.
+### 3. Quand un objet prend toute la place dans l’échange
+Un meuble peut représenter un souvenir sans remplacer la relation. Bernard montre une table à Éric et se rend compte qu’il aimerait aussi lui dire pourquoi elle compte. Ce geste n’est pas un signe clinique.
 
 Quand Éric propose de réarranger la maison, Bernard répond en montrant une table qu'il a refaite et affirme que le travail manuel dira ce qu'il n'arrive pas à dire à voix haute. Cette tendance à matérialiser ses sentiments, qu'il avait déjà identifiée en fabriquant la commode pour son fils, reste son refuge le plus tenace.
 
@@ -44,7 +44,7 @@ Quand Éric propose de réarranger la maison, Bernard répond en montrant une ta
 ### 1. Nommer une émotion en une phrase
 L'objectif est de ralentir l'automatisme de catégorisation en ajoutant un descriptif simple et vérifiable. Lors d'un échange conflictuel, il s'agit de dire une phrase courte commençant par « J'éprouve... » et de décrire une sensation physique ou une émotion factuelle, par exemple : « J'éprouve de la peur quand on parle de la maison ». La règle consiste à n'utiliser qu'une seule phrase, sans justification ni attaque.
 
-Bernard peut reprendre cet exercice dans l'atelier. Plutôt que d'opposer « Tu veux vendre tout et tout perdre », il peut dire « J'éprouve de la colère en imaginant que la maison change ». Cette simple formulation fragmente le mécanisme du clivage en ajoutant de l'information nuancée. Bernard a commencé à remarquer les signes physiques de son malaise, comme un blocage lombaire ou de la fatigue, qui sont des indices utiles pour alimenter cette phrase.
+Bernard peut reprendre cet exercice dans l'atelier. Plutôt que d'opposer « Tu veux vendre tout et tout perdre », il peut dire « J'éprouve de la colère en imaginant que la maison change ». Cette simple formulation fragmente le mécanisme du clivage en ajoutant de l'information nuancée. Bernard peut parler du changement qu’il redoute sans chercher une explication à son mal de dos.
 
 ### 2. Le petit accord : valider puis proposer
 L'idée est de sortir de la logique tout ou rien en posant d'abord une validation factuelle, puis une proposition modérée. Dans une discussion, commencez par reconnaître un point valable chez l'autre (« Tu as raison que la maison a besoin d'entretien »), puis énoncez une suggestion limitée et réversible (« Et si on commençait par trier une seule pièce ensemble samedi matin ? »).
@@ -69,6 +69,8 @@ Il utilise le langage de l'outil pour mesurer ses progrès : la première journ�
 
 La tentative de Bernard n'efface pas ses blessures ni la complexité de son deuil, mais elle montre qu'un mécanisme ancien comme le clivage peut être contourné par des gestes précis et modestes. En reconnaissant la polarisation interne, en nommant une émotion en une phrase et en transformant les objets en médiateurs, il s'ouvre à une communication moins tranchante.
 
-Ces techniques sont des outils à pratiquer régulièrement. Le clivage en situation de conflit s'est souvent construit sur des décennies, le changement demande donc du temps, des essais et parfois des désaccords répétés.
+Dans un échange ordinaire, nommer un désaccord ou faire une pause peut ouvrir une autre option. Si la situation devient menaçante ou violente, s’éloigner et chercher de l’aide passe avant le compromis.
 
 Si les conflits restent intenses, si la douleur persiste ou si vous avez vécu des relations difficiles prolongées, consulter un professionnel comme un psychologue, un psychiatre ou un thérapeute familial permet d'accompagner ces processus en sécurité. Demander de l'aide est un acte de soin, comme réparer une chaise, cela nécessite parfois un outillage adapté et la présence d'une main experte.
+
+Sources : [Klein, Notes on Some Schizoid Mechanisms](https://pmc.ncbi.nlm.nih.gov/articles/PMC3330415/).

@@ -17,7 +17,7 @@
         "articles": [
           {
             "episode": 1,
-            "subject": "Syndrome du sauveur : aider sans s’effacer",
+            "subject": "L’expression « syndrome du sauveur » et l’aide sans s’effacer",
             "coverage_requirements": []
           },
           {
@@ -593,7 +593,7 @@
         "articles": [
           {
             "episode": 1,
-            "subject": "Reconnaissance du nom et manière d’être adressée",
+            "subject": "Prénom choisi et affirmation sociale du genre",
             "coverage_requirements": []
           },
           {
@@ -611,8 +611,8 @@
             "subject": "Sécurité et adaptation au contexte",
             "coverage_requirements": [
               {
-                "pattern_id": "appeasement",
-                "angle": "Apaisement stratégique face à une hostilité, sans consentement ni diagnostic"
+                "pattern_id": "flexible_coping",
+                "angle": "Ajuster sa participation à la situation et aux appuis disponibles."
               }
             ]
           },
@@ -1568,7 +1568,7 @@
           "Se parler avec bienveillance après une interaction"
         ],
         "cat3_schemas": [
-          "Reconnaissance du nom et manière d’être adressée",
+          "Prénom choisi et affirmation sociale du genre",
           "Appartenance sans effacement de soi",
           "Vie privée et droit de ne pas expliquer",
           "Poser une limite à la curiosité",
@@ -2002,12 +2002,12 @@
       "episode": 1,
       "slug": "aline-sauveur-aider-sans-effacer",
       "path": "content/posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer.md",
-      "title": "Syndrome du sauveur : Aline aide sans s’effacer",
-      "sujet": "Syndrome du sauveur : aider sans s’effacer",
+      "title": "« Syndrome du sauveur » : une expression courante",
+      "sujet": "L’expression « syndrome du sauveur » et l’aide sans s’effacer",
       "contexte": "dans l’entraide associative",
       "category_key": "cat3_schemas",
-      "resume_narratif": "Aline propose un transport et un dépannage avant de vérifier sa disponibilité ou la demande. Elle prête une perceuse, limite sa participation au chargement et maintient une randonnée choisie avec Étienne.",
-      "evolution": "Première distinction entre offrir une aide, prendre le contrôle et se rendre disponible sans limite. La gêne et le désir de reconnaissance persistent.",
+      "resume_narratif": "Aline tient l’inventaire contre sa poitrine. Ce mardi, chaque case semble lui rappeler un service qu’elle pourrait rendre, et qu’elle se sent déjà tenue de rendre.",
+      "evolution": "Bastien répond qu’il souhaite essayer seul avant de demander un accompagnement. Aline ressent une pointe de déception.",
       "pattern_ids": [
         "overresponsibility",
         "boundaries",
@@ -2015,8 +2015,10 @@
         "reciprocity"
       ],
       "source_urls": [
-        "https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf"
-      ]
+        "https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf",
+        "https://health.clevelandclinic.org/savior-complex"
+      ],
+      "words": 1980
     },
     {
       "episode": 2,
@@ -2037,7 +2039,8 @@
       ],
       "source_urls": [
         "https://pubmed.ncbi.nlm.nih.gov/20085397/"
-      ]
+      ],
+      "words": 1949
     },
     {
       "episode": 3,
@@ -2079,8 +2082,10 @@
         "repair_after_conflict"
       ],
       "source_urls": [
-        "https://doi.org/10.1207/S15327965PLI1104_01"
-      ]
+        "https://doi.org/10.1207/S15327965PLI1104_01",
+        "https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple"
+      ],
+      "words": 2029
     },
     {
       "episode": 5,
@@ -2100,8 +2105,9 @@
         "balanced_self_evaluation"
       ],
       "source_urls": [
-        "https://doi.org/10.1037/0022-3514.37.1.12"
-      ]
+        "https://clarkrelationshiplab.yale.edu/sites/default/files/files/Interpersonal%20attraction%20in%20exchance%20and%20commual%20relationships.pdf"
+      ],
+      "words": 1995
     },
     {
       "episode": 6,
@@ -2143,7 +2149,8 @@
       ],
       "source_urls": [
         "https://pubmed.ncbi.nlm.nih.gov/20085397/"
-      ]
+      ],
+      "words": 2005
     },
     {
       "episode": 8,
@@ -2163,8 +2170,10 @@
         "boundaries"
       ],
       "source_urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/6491869/"
-      ]
+        "https://pubmed.ncbi.nlm.nih.gov/6491869/",
+        "https://clarkrelationshiplab.yale.edu/sites/default/files/files/Interpersonal%20attraction%20in%20exchance%20and%20commual%20relationships.pdf"
+      ],
+      "words": 2083
     },
     {
       "episode": 9,
@@ -2186,12 +2195,13 @@
       ],
       "source_urls": [
         "https://pubmed.ncbi.nlm.nih.gov/14686884/"
-      ]
+      ],
+      "words": 1984
     },
     {
       "episode": 10,
       "slug": "aline-fatigue-compassion-relais",
-      "title": "Fatigue de compassion : Aline cherche des relais concrets",
+      "title": "Fatigue de compassion : un terme aux sens variables",
       "sujet": "Fatigue de compassion et relais concrets",
       "contexte": "dans une association confrontée à des récits de difficultés sociales",
       "personnage": "Aline",
@@ -2207,9 +2217,11 @@
         "workload_context"
       ],
       "source_urls": [
-        "https://proqol.org/proqol-1",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7084609/"
-      ]
+        "https://proqol.org/proqol-manual",
+        "https://nctsn.org/trauma-informed-care/secondary-traumatic-stress",
+        "https://pubmed.ncbi.nlm.nih.gov/32182798/"
+      ],
+      "words": 2038
     },
     {
       "episode": 11,
@@ -2232,7 +2244,8 @@
       ],
       "source_urls": [
         "https://pubmed.ncbi.nlm.nih.gov/12916575/"
-      ]
+      ],
+      "words": 2075
     },
     {
       "episode": 12,
@@ -2274,9 +2287,9 @@
       ],
       "source_urls": [
         "https://doi.org/10.1037/0096-1523.27.4.763",
-        "https://doi.org/10.1145/1357054.1357072"
+        "https://www.ics.uci.edu/~gmark/chi08-mark.pdf"
       ],
-      "words": 2036
+      "words": 2061
     },
     {
       "episode": 2,
@@ -2339,7 +2352,7 @@
         "https://doi.org/10.1037/0022-3514.41.3.586",
         "https://prospectivepsych.org/publications/implementation-intentions-strong-effects-simple-plans"
       ],
-      "words": 1979
+      "words": 1996
     },
     {
       "episode": 5,
@@ -2466,7 +2479,7 @@
         "https://pubmed.ncbi.nlm.nih.gov/22645164/",
         "https://pubmed.ncbi.nlm.nih.gov/8666712/"
       ],
-      "words": 2032
+      "words": 2027
     },
     {
       "episode": 11,
@@ -2488,7 +2501,7 @@
         "https://pubmed.ncbi.nlm.nih.gov/2142956/",
         "https://pubmed.ncbi.nlm.nih.gov/25666463/"
       ],
-      "words": 1994
+      "words": 2010
     },
     {
       "episode": 12,
@@ -2509,7 +2522,7 @@
         "https://doi.org/10.1002/ejsp.674",
         "https://pubmed.ncbi.nlm.nih.gov/25404057/"
       ],
-      "words": 2057
+      "words": 2058
     },
     {
       "personnage": "Maëlle",
@@ -2553,7 +2566,8 @@
       "source_urls": [
         "https://www.inserm.fr/dossier/insomnie/",
         "https://www.ameli.fr/assure/sante/themes/insomnie-adulte/vivre-insomnie"
-      ]
+      ],
+      "words": 1835
     },
     {
       "personnage": "Maëlle",
@@ -2597,7 +2611,8 @@
       "source_urls": [
         "https://www.inrs.fr/risques/travail-horaires-atypiques/effets-sur-la-sante-et-accidents.html",
         "https://www.inrs.fr/risques/travail-horaires-atypiques/demarche-de-prevention.html"
-      ]
+      ],
+      "words": 1908
     },
     {
       "personnage": "Maëlle",
@@ -2640,8 +2655,10 @@
       ],
       "source_urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC4712716/",
-        "https://www.inrs.fr/risques/travail-horaires-atypiques/foire-aux-questions.html"
-      ]
+        "https://www.inrs.fr/risques/travail-horaires-atypiques/foire-aux-questions.html",
+        "https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple"
+      ],
+      "words": 1921
     },
     {
       "personnage": "Maëlle",
@@ -2795,9 +2812,10 @@
       ],
       "source_urls": [
         "https://pubmed.ncbi.nlm.nih.gov/23990553/",
-        "https://www.who.int/publications/i/item/9789240003927"
+        "https://business.columbia.edu/faculty/research/poverty-and-economic-decision-making-evidence-changes-financial-resources-payday",
+        "https://www.who.int/fr/publications/b/53604"
       ],
-      "words": 1976
+      "words": 2021
     },
     {
       "episode": 2,
@@ -2948,10 +2966,9 @@
         "decision_overload"
       ],
       "source_urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/10900697/",
-        "https://pubmed.ncbi.nlm.nih.gov/23990553/"
+        "https://pubmed.ncbi.nlm.nih.gov/10900697/"
       ],
-      "words": 2038
+      "words": 2029
     },
     {
       "episode": 9,
@@ -2992,7 +3009,7 @@
         "behavioral_experiment"
       ],
       "source_urls": [
-        "https://doi.org/10.1037/0003-066X.54.7.493",
+        "https://www.socmot.uni-konstanz.de/publications/implementation-intentions-strong-effects-simple-plans",
         "https://dccps.nci.nih.gov/BRP/constructs/implementation_intentions/goal_intent_attain.pdf"
       ],
       "words": 1918
@@ -3015,7 +3032,7 @@
         "practical_support"
       ],
       "source_urls": [
-        "https://doi.org/10.1177/0192513X211030726",
+        "https://journals.sagepub.com/doi/full/10.1177/0192513X211030726",
         "https://www.who.int/publications/i/item/9789241506809"
       ],
       "words": 1912
@@ -3063,7 +3080,7 @@
         "https://doi.org/10.3102/003465430298487",
         "https://doi.org/10.1207/s15430421tip4102_2"
       ],
-      "words": 1955
+      "words": 1970
     },
     {
       "episode": 2,
@@ -3082,11 +3099,10 @@
         "observational_learning"
       ],
       "source_urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/14300234/",
         "https://pubmed.ncbi.nlm.nih.gov/847061/",
         "https://doi.org/10.1037/0022-3514.41.3.586"
       ],
-      "words": 2118
+      "words": 2138
     },
     {
       "episode": 3,
@@ -3105,9 +3121,9 @@
       ],
       "source_urls": [
         "https://pubmed.ncbi.nlm.nih.gov/3903815/",
-        "https://pubmed.ncbi.nlm.nih.gov/22645164/"
+        "https://journals.sagepub.com/doi/10.1177/0146167212445599"
       ],
-      "words": 1978
+      "words": 2011
     },
     {
       "episode": 4,
@@ -3128,7 +3144,7 @@
         "https://doi.org/10.1177/001872675400700202",
         "https://pubmed.ncbi.nlm.nih.gov/847061/"
       ],
-      "words": 1960
+      "words": 1962
     },
     {
       "episode": 5,
@@ -3147,9 +3163,9 @@
       ],
       "source_urls": [
         "https://selfdeterminationtheory.org/theory/",
-        "https://doi.org/10.1037/0003-066X.55.1.68"
+        "https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf"
       ],
-      "words": 1951
+      "words": 1968
     },
     {
       "episode": 6,
@@ -3170,7 +3186,7 @@
         "https://doi.org/10.1037/0033-295X.95.2.256",
         "https://doi.org/10.2307/2666999"
       ],
-      "words": 1992
+      "words": 2029
     },
     {
       "episode": 7,
@@ -3256,7 +3272,7 @@
         "https://pubmed.ncbi.nlm.nih.gov/3903815/",
         "https://doi.org/10.2307/2666999"
       ],
-      "words": 1985
+      "words": 2017
     },
     {
       "episode": 11,
@@ -3297,9 +3313,9 @@
       ],
       "source_urls": [
         "https://selfdeterminationtheory.org/theory/",
-        "https://doi.org/10.1037/a0019682"
+        "https://eric.ed.gov/?id=EJ892818"
       ],
-      "words": 2013
+      "words": 2018
     },
     {
       "personnage": "Inès",
@@ -3318,9 +3334,10 @@
         "autonomy"
       ],
       "source_urls": [
-        "https://www.who.int/fr/health-topics/sexual-health"
+        "https://www.who.int/fr/health-topics/sexual-health",
+        "https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-sexuelles"
       ],
-      "words": 2062
+      "words": 2084
     },
     {
       "personnage": "Inès",
@@ -3360,9 +3377,10 @@
         "intimacy_communication"
       ],
       "source_urls": [
-        "https://www.who.int/fr/health-topics/sexual-health"
+        "https://www.who.int/fr/health-topics/sexual-health",
+        "https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-sexuelles"
       ],
-      "words": 2058
+      "words": 2084
     },
     {
       "personnage": "Inès",
@@ -3381,9 +3399,10 @@
         "trust"
       ],
       "source_urls": [
-        "https://onlinelibrary.wiley.com/doi/10.1111/pere.12419"
+        "https://onlinelibrary.wiley.com/doi/10.1111/pere.12419",
+        "https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple"
       ],
-      "words": 2107
+      "words": 2131
     },
     {
       "personnage": "Inès",
@@ -3410,7 +3429,7 @@
       "personnage": "Inès",
       "episode": 6,
       "slug": "ines-fatigue-disponibilite-affective",
-      "title": "Fatigue affective : Inès précise ce qu’elle peut offrir",
+      "title": "Fatigue et écoute : Inès précise ce qu’elle peut offrir",
       "sujet": "Fatigue et disponibilité affective",
       "contexte": "après une journée d’animation à la bibliothèque",
       "path": "content/posts/comprendre-et-maitriser-ses-emotions/ines-fatigue-disponibilite-affective.md",
@@ -3423,9 +3442,10 @@
         "assertive_request"
       ],
       "source_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10247628/"
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10247628/",
+        "https://www.ameli.fr/assure/sante/themes/asthenie-fatigue/bons-reflexes-cas-faut-consulter"
       ],
-      "words": 2074
+      "words": 2079
     },
     {
       "personnage": "Inès",
@@ -3444,9 +3464,10 @@
         "co_regulation"
       ],
       "source_urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/31414835/"
+        "https://pubmed.ncbi.nlm.nih.gov/31414835/",
+        "https://journals.sagepub.com/doi/10.1177/1754073912451630"
       ],
-      "words": 2077
+      "words": 2081
     },
     {
       "personnage": "Inès",
@@ -3486,9 +3507,10 @@
         "communication_clarification"
       ],
       "source_urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/31393139/"
+        "https://pubmed.ncbi.nlm.nih.gov/31393139/",
+        "https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple"
       ],
-      "words": 2073
+      "words": 2119
     },
     {
       "personnage": "Inès",
@@ -3507,9 +3529,10 @@
         "self_trust"
       ],
       "source_urls": [
-        "https://www.onsexprime.fr/vos-questions/relations"
+        "https://www.onsexprime.fr/la-sexualite/ok-ou-pas-ok/ok-pas-ok-le-consentement-c-est-obligatoire",
+        "https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-sexuelles"
       ],
-      "words": 2054
+      "words": 2076
     },
     {
       "personnage": "Inès",
@@ -3529,9 +3552,10 @@
         "privacy_boundaries"
       ],
       "source_urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/18665709/"
+        "https://pubmed.ncbi.nlm.nih.gov/18665709/",
+        "https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple"
       ],
-      "words": 2108
+      "words": 2134
     },
     {
       "personnage": "Inès",
@@ -3595,8 +3619,10 @@
         "decision_tradeoffs"
       ],
       "source_urls": [
-        "https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf"
-      ]
+        "https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf",
+        "https://www.ohchr.org/sites/default/files/Ch_IV_15.pdf"
+      ],
+      "words": 1988
     },
     {
       "episode": 3,
@@ -3617,8 +3643,10 @@
         "repair_after_conflict"
       ],
       "source_urls": [
-        "https://doi.org/10.1037/a0034152"
-      ]
+        "https://doi.org/10.1037/a0034152",
+        "https://www.ecologie.gouv.fr/sites/default/files/documents/bien%20accueillir%20MAJ%202025_VF_0.pdf"
+      ],
+      "words": 1992
     },
     {
       "episode": 4,
@@ -3640,7 +3668,8 @@
       ],
       "source_urls": [
         "https://pubmed.ncbi.nlm.nih.gov/11642354/"
-      ]
+      ],
+      "words": 1983
     },
     {
       "episode": 5,
@@ -3659,10 +3688,12 @@
         "needs_expression"
       ],
       "source_urls": [
-        "https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf"
+        "https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf",
+        "https://www.ameli.fr/assure/sante/themes/asthenie-fatigue/bons-reflexes-cas-faut-consulter"
       ],
       "personnage": "Vincent",
-      "path": "content/posts/comprendre-et-maitriser-ses-emotions/vincent-fatigue-sans-culpabiliser.md"
+      "path": "content/posts/comprendre-et-maitriser-ses-emotions/vincent-fatigue-sans-culpabiliser.md",
+      "words": 1944
     },
     {
       "episode": 6,
@@ -3706,7 +3737,8 @@
         "https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf"
       ],
       "personnage": "Vincent",
-      "path": "content/posts/sortir-de-ses-schemas-repetitifs/vincent-couple-place-aidance.md"
+      "path": "content/posts/sortir-de-ses-schemas-repetitifs/vincent-couple-place-aidance.md",
+      "words": 1910
     },
     {
       "episode": 8,
@@ -3794,10 +3826,11 @@
         "consistency_in_relationships"
       ],
       "source_urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/3901065/"
+        "https://lchc.ucsd.edu/MCA/Mail/xmcamail.2012_11.dir/pdfYukILvXsL0.pdf"
       ],
       "personnage": "Vincent",
-      "path": "content/posts/sortir-de-ses-schemas-repetitifs/vincent-soutien-garder-limites.md"
+      "path": "content/posts/sortir-de-ses-schemas-repetitifs/vincent-soutien-garder-limites.md",
+      "words": 1979
     },
     {
       "episode": 12,
@@ -3826,22 +3859,22 @@
       "personnage": "Salomé",
       "episode": 1,
       "slug": "salome-nom-maniere-adressee",
-      "title": "Reconnaissance du nom : Salomé précise comment lui parler",
-      "sujet": "Reconnaissance du nom et manière d’être adressée",
+      "title": "Salomé demande qu’on l’appelle par son prénom",
+      "sujet": "Prénom choisi et affirmation sociale du genre",
       "contexte": "au comptoir d’un fournisseur de bois pour son atelier",
       "path": "content/posts/sortir-de-ses-schemas-repetitifs/salome-nom-maniere-adressee.md",
       "category_key": "cat3_schemas",
-      "resume_narratif": "Chez un fournisseur de bois, Salomé précise son prénom et ses accords féminins puis revient à sa commande sans ouvrir une biographie.",
-      "evolution": "Elle peut choisir une correction limitée et garder son agacement même lorsqu’elle est respectée.",
+      "resume_narratif": "Chez son fournisseur, Salomé précise son prénom et les accords féminins qu’elle utilise. Le vendeur corrige sa manière de l’appeler et elle revient à sa commande.",
+      "evolution": "Salomé choisit jusqu’où expliquer sa demande et garde la main sur la suite de l’échange.",
       "pattern_ids": [
         "identity_recognition",
         "self_expression",
         "boundaries"
       ],
       "source_urls": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7678041/"
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6165713/"
       ],
-      "words": 2000
+      "words": 2009
     },
     {
       "personnage": "Salomé",
@@ -3883,7 +3916,7 @@
       "source_urls": [
         "https://doi.org/10.1080/09585192.2023.2284191"
       ],
-      "words": 2065
+      "words": 2080
     },
     {
       "personnage": "Salomé",
@@ -3894,19 +3927,19 @@
       "contexte": "avant une démonstration artisanale dans un lieu peu connu",
       "path": "content/posts/comprendre-et-maitriser-ses-emotions/salome-securite-adaptation-contexte.md",
       "category_key": "cat2_emotions",
-      "resume_narratif": "Après un commentaire hostile dans un couloir, Salomé affiche brièvement un signe conciliant pour terminer l’échange et rejoindre le hall. Elle demande ensuite un autre emplacement et identifie les appuis disponibles.",
-      "evolution": "Elle distingue l’apaisement stratégique du consentement, maintient la responsabilité de l’auteur des propos et participe dans un cadre révisable avec des relais concrets.",
+      "resume_narratif": "Après une remarque hostile dans le couloir, Salomé reste brièvement cordiale et rejoint le hall. Elle demande un autre emplacement et repère sur qui elle peut compter.",
+      "evolution": "Elle peut s’éloigner sans approuver les propos, puis adapter sa participation aux appuis disponibles.",
       "pattern_ids": [
         "power_imbalance",
         "boundaries",
         "disclosure_choice",
-        "appeasement"
+        "flexible_coping"
       ],
       "source_urls": [
         "https://pubmed.ncbi.nlm.nih.gov/40386695/",
-        "https://doi.org/10.1016/0162-3095(81)90025-X"
+        "https://doi.org/10.1016/0162-3095(81"
       ],
-      "words": 2200
+      "words": 2189
     },
     {
       "personnage": "Salomé",
@@ -3948,7 +3981,7 @@
       "source_urls": [
         "https://guilfordjournals.com/doi/10.1521/soco.1985.3.1.94"
       ],
-      "words": 2044
+      "words": 2037
     },
     {
       "personnage": "Salomé",
@@ -3969,7 +4002,7 @@
       "source_urls": [
         "https://pubmed.ncbi.nlm.nih.gov/22645164/"
       ],
-      "words": 2021
+      "words": 2026
     },
     {
       "personnage": "Salomé",
@@ -3990,7 +4023,7 @@
       "source_urls": [
         "https://www.jstor.org/stable/jj.18255126"
       ],
-      "words": 2056
+      "words": 2055
     },
     {
       "personnage": "Salomé",
@@ -4012,7 +4045,7 @@
       "source_urls": [
         "https://pubmed.ncbi.nlm.nih.gov/32790470/"
       ],
-      "words": 2123
+      "words": 2124
     },
     {
       "personnage": "Salomé",
@@ -4054,7 +4087,7 @@
       "source_urls": [
         "https://pubmed.ncbi.nlm.nih.gov/18194024/"
       ],
-      "words": 2080
+      "words": 2090
     },
     {
       "personnage": "Salomé",
@@ -4076,7 +4109,7 @@
       "source_urls": [
         "https://doi.org/10.1080/09585192.2023.2284191"
       ],
-      "words": 2104
+      "words": 2120
     },
     {
       "episode": 1,
@@ -4097,7 +4130,7 @@
       "source_urls": [
         "https://pubmed.ncbi.nlm.nih.gov/15958143/"
       ],
-      "words": 1909
+      "words": 1915
     },
     {
       "episode": 2,
@@ -4139,7 +4172,7 @@
       "source_urls": [
         "https://www.bu.edu/psych/charris/papers/BilingualTaboo.pdf"
       ],
-      "words": 1904
+      "words": 1925
     },
     {
       "episode": 4,
@@ -4158,9 +4191,10 @@
         "active_listening"
       ],
       "source_urls": [
-        "https://academic.oup.com/joc/article-abstract/63/3/556/4086003?login=false"
+        "https://doi.org/10.1111/jcom.12029",
+        "https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple"
       ],
-      "words": 1866
+      "words": 1884
     },
     {
       "episode": 5,
@@ -4179,9 +4213,9 @@
         "support_seeking"
       ],
       "source_urls": [
-        "https://pubmed.ncbi.nlm.nih.gov/29072531/"
+        "https://journals.sagepub.com/doi/10.1177/0146167217733073"
       ],
-      "words": 1882
+      "words": 1899
     },
     {
       "episode": 6,
@@ -4225,7 +4259,7 @@
       "source_urls": [
         "https://doi.org/10.1111/j.1464-0597.1997.tb01087.x"
       ],
-      "words": 1805
+      "words": 1811
     },
     {
       "episode": 8,
@@ -4271,7 +4305,7 @@
         "https://www.apa.org/news/podcasts/speaking-of-psychology/ambiguous-loss",
         "https://onbeing.org/programs/pauline-boss-navigating-loss-without-closure/"
       ],
-      "words": 1894
+      "words": 1898
     },
     {
       "episode": 10,
@@ -4316,7 +4350,7 @@
         "https://doi.org/10.1037/0033-2909.98.2.310",
         "https://www.france-services.gouv.fr/demarches-et-services"
       ],
-      "words": 1869
+      "words": 1888
     },
     {
       "episode": 12,
@@ -4359,9 +4393,10 @@
       ],
       "source_urls": [
         "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/",
-        "https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit"
+        "https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit",
+        "https://pubmed.ncbi.nlm.nih.gov/16972374/"
       ],
-      "words": 1826
+      "words": 1884
     },
     {
       "episode": 2,
@@ -4381,9 +4416,10 @@
       ],
       "source_urls": [
         "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/",
-        "https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit"
+        "https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit",
+        "https://pubmed.ncbi.nlm.nih.gov/10848151/"
       ],
-      "words": 1930
+      "words": 1961
     },
     {
       "episode": 3,
@@ -4404,9 +4440,10 @@
       ],
       "source_urls": [
         "https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit",
-        "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/"
+        "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/",
+        "https://www.cdc.gov/social-connectedness/risk-factors/index.html"
       ],
-      "words": 1933
+      "words": 1976
     },
     {
       "episode": 4,
@@ -4473,9 +4510,10 @@
       ],
       "source_urls": [
         "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/",
-        "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/"
+        "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/",
+        "https://doi.org/10.1093/geronb/gbt061"
       ],
-      "words": 1913
+      "words": 1972
     },
     {
       "episode": 7,
@@ -4588,9 +4626,10 @@
       ],
       "source_urls": [
         "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/",
-        "https://www.who.int/publications/i/item/9789240003927"
+        "https://www.who.int/publications/i/item/9789240003927",
+        "https://pubmed.ncbi.nlm.nih.gov/21219075/"
       ],
-      "words": 1954
+      "words": 1994
     },
     {
       "episode": 12,
@@ -4656,8 +4695,9 @@
       ],
       "source_urls": [
         "https://www.has-sante.fr/jcms/c_1695997/en/parler-avec-son-medecin",
-        "https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/article/le-service-public-d-information-en-sante-spis"
-      ]
+        "https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/article/sante-fr-le-site-du-service-public-d-information-en-sante"
+      ],
+      "words": 1826
     },
     {
       "personnage": "Anaïs",
@@ -4789,7 +4829,8 @@
       "source_urls": [
         "https://www.ameli.fr/assure/sante/themes/polyarthrite-rhumatoide/vivre-polyarthrite-rhumatoide",
         "https://www.has-sante.fr/jcms/p_3565615/fr/l-activite-physique-pour-votre-sante-polyarthrite-rhumatoide"
-      ]
+      ],
+      "words": 1824
     },
     {
       "personnage": "Anaïs",
@@ -4811,7 +4852,8 @@
       "source_urls": [
         "https://pubmed.ncbi.nlm.nih.gov/10261981/",
         "https://www.who.int/health-topics/disability"
-      ]
+      ],
+      "words": 1820
     },
     {
       "personnage": "Anaïs",
@@ -4856,7 +4898,8 @@
         "https://www.service-public.gouv.fr/particuliers/vosdroits/F496",
         "https://www.service-public.gouv.fr/particuliers/vosdroits/F31472",
         "https://www.monparcourshandicap.gouv.fr/emploi/quest-ce-que-le-maintien-dans-lemploi"
-      ]
+      ],
+      "words": 1835
     },
     {
       "personnage": "Anaïs",
@@ -4947,7 +4990,7 @@
         "https://openstax.org/books/principles-economics-3e/pages/2-1-how-individuals-make-choices-based-on-their-budget-constraint",
         "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/"
       ],
-      "words": 1952
+      "words": 1950
     },
     {
       "episode": 4,
@@ -4989,10 +5032,11 @@
         "responsibility_repair"
       ],
       "source_urls": [
+        "https://doi.org/10.1037/0096-1523.1.3.288",
         "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/",
         "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/"
       ],
-      "words": 1920
+      "words": 1942
     },
     {
       "episode": 6,
@@ -5150,10 +5194,11 @@
         "values_alignment"
       ],
       "source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/0749597885900494",
         "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/",
         "https://www.who.int/publications/i/item/9789240003927"
       ],
-      "words": 1985
+      "words": 2029
     },
     {
       "personnage": "Élise",
@@ -5216,7 +5261,8 @@
       "source_urls": [
         "https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Tolerating-Distress",
         "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/"
-      ]
+      ],
+      "words": 1944
     },
     {
       "personnage": "Élise",
@@ -5258,7 +5304,8 @@
       "source_urls": [
         "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
         "https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit"
-      ]
+      ],
+      "words": 1963
     },
     {
       "personnage": "Élise",
@@ -5277,9 +5324,11 @@
         "habit_cues"
       ],
       "source_urls": [
+        "https://www.ameli.fr/assure/sante/themes/toc/definition-formes-toc-causes",
         "https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Social-Anxiety",
         "https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Worry-and-Rumination"
-      ]
+      ],
+      "words": 1939
     },
     {
       "personnage": "Élise",
@@ -5407,7 +5456,8 @@
       "source_urls": [
         "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/",
         "https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit"
-      ]
+      ],
+      "words": 2028
     }
   ]
 }

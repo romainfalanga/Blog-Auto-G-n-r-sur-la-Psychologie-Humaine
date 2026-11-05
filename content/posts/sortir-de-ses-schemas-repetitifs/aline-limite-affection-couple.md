@@ -23,7 +23,7 @@ Aline sent ses joues chauffer. Elle trouve sa propre réponse confuse et voudrai
 
 Une limite relationnelle exprime ce qu’une personne accepte, refuse ou peut offrir dans une situation donnée, sans décider à la place de l’autre de ce qu’il doit ressentir. Elle peut concerner le temps, le corps, les objets, la disponibilité ou la vie privée. Sa formulation gagne à porter sur un comportement concret plutôt que sur un jugement général sur la relation.
 
-La théorie de l’autodétermination de Deci et Ryan distingue l’autonomie de l’isolement : agir avec un sentiment de choix peut coexister avec un lien important. Ce repère aide Aline à penser deux besoins ensemble. Elle peut souhaiter une soirée seule et aimer Étienne. Le fait de nommer l’un ne supprime pas automatiquement l’autre, même si la conversation provoque momentanément de la gêne.
+Dans la théorie de l’autodétermination de Deci et Ryan, agir de manière autonome signifie agir de son plein gré. On peut faire ce choix tout en restant proche d’une autre personne et en tenant compte d’elle. Ce repère aide Aline à penser deux besoins ensemble. Elle peut souhaiter une soirée seule et aimer Étienne. Le fait de nommer l’un ne supprime pas automatiquement l’autre, même si la conversation provoque momentanément de la gêne.
 
 Leurs préférences ne coïncident pas toujours. Étienne peut être déçu de sortir sans elle et décider de participer quand même. Aline peut reconnaître cette déception sans annuler son choix pour la faire disparaître. Respecter une limite n’impose pas une réponse enthousiaste ; cela suppose surtout que le refus reste possible, sans sanction, pression ou dette affective organisée.
 
@@ -97,6 +97,6 @@ Poser une limite sans retirer son affection demande de distinguer une décision,
 
 Pour Aline, le lien devient plus lisible quand elle cesse de deviner les accusations et de fournir des garanties sans fin. Elle découvre qu’une soirée seule peut coexister avec des projets communs. Les maladresses continuent, mais elles peuvent être nommées sans transformer chaque désaccord en jugement sur tout le couple.
 
-Si les échanges deviennent durablement douloureux ou si toute limite déclenche une détresse importante, un psychologue peut aider à travailler cette communication, seul ou à deux selon la situation. En présence de peur ou de contraintes imposées, un soutien adapté à la sécurité de chacun est nécessaire. Le droit d’exprimer un besoin ne dépend pas de la capacité à le formuler parfaitement.
+Si les échanges deviennent durablement douloureux et que chacun peut parler librement, un psychologue peut aider à examiner la communication. En présence de menaces, de peur ou de contrôle imposé, cherchez d’abord un soutien confidentiel et spécialisé. Ne vous sentez pas tenu d’en parler en présence de la personne qui vous met en danger. Le droit d’exprimer un besoin ne dépend pas de la capacité à le formuler parfaitement.
 
-Sources : [Deci et Ryan, besoins psychologiques et autonomie](https://doi.org/10.1207/S15327965PLI1104_01).
+Sources : [Deci et Ryan, besoins psychologiques et autonomie](https://doi.org/10.1207/S15327965PLI1104_01) ; [Arrêtons les violences, repères sur le contrôle et aide spécialisée](https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple).

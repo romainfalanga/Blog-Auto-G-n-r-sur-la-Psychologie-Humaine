@@ -25,7 +25,7 @@ La scène discriminatoire avec Marc reste néanmoins présente. Malik sait que t
 
 Le stress d’adaptation est la tension qui peut apparaître lorsque les demandes d’un contexte nouveau ou modifié dépassent momentanément les repères et les ressources disponibles. Il ne constitue pas en soi un diagnostic. Il peut accompagner un changement de travail, de lieu, d’organisation ou de milieu de vie, avec une intensité très variable.
 
-John Berry propose un cadre de réflexion sur l’acculturation et l’adaptation qui souligne la diversité des expériences et le rôle des conditions sociales autant que personnelles. Ce cadre ne permet pas de lire l’histoire de Malik comme une suite obligatoire de difficultés migratoires. Il rappelle surtout que l’environnement d’accueil, les possibilités de choix et les ressources influencent l’expérience du changement.
+John Berry propose un cadre de réflexion sur l’acculturation et l’adaptation qui souligne la diversité des expériences et le rôle des conditions sociales autant que personnelles. Ce cadre concerne la rencontre entre milieux culturels ; il n’explique pas, à lui seul, la fatigue après un changement de dépôt. Malik peut examiner séparément ses conditions de travail et ce qui, dans son histoire migratoire, compte à ses yeux.
 
 Choisir de partir n’implique pas que chaque étape sera facile. Cela n’implique pas davantage de regretter ce choix lorsqu’une difficulté survient. Malik peut apprécier sa vie, avoir construit des liens et rencontrer une nouvelle période exigeante. Ces réalités coexistent. L’effort présent n’efface pas ses compétences acquises ni les raisons personnelles de son installation.
 

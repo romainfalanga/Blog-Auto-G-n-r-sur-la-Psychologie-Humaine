@@ -31,11 +31,7 @@
   {{- if .Params.tags }}
   "keywords": [{{ range $i, $t := .Params.tags }}{{ if $i }}, {{ end }}"{{ $t }}"{{ end }}],
   {{- end }}
-  {{- if .Params.wordCount }}
-  "wordCount": {{ .Params.wordCount }},
-  {{- else }}
   "wordCount": {{ .WordCount }},
-  {{- end }}
   "inLanguage": "fr"
 }
 </script>

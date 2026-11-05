@@ -65,7 +65,7 @@ Anaïs commence par quelques repères : qui publie, avec quelles compétences, �
 
 Elle distingue ensuite témoignage, information générale et recommandation personnalisée. La feuille de Mireille relève du récit et de la promotion d'une méthode, pas d'une évaluation de son dossier. Cette qualification lui permet de la replacer dans une catégorie plus juste, sans devoir prouver que chaque phrase est fausse.
 
-Pour commencer une recherche, elle privilégie des ressources institutionnelles comme l'Assurance maladie, l'Inserm ou le Service public d'information en santé. Le ministère présente Santé.fr comme un accès à des contenus sélectionnés et transparents. Ces repères facilitent l'orientation ; ils ne dispensent pas d'examiner la date et la portée d'une information précise.
+Pour commencer une recherche, elle privilégie des ressources institutionnelles comme l'Assurance maladie, l'Inserm ou le Service public d'information en santé. Santé.fr, le site du Service public d'information en santé, indexe notamment des contenus produits par des acteurs publics de santé. Ces repères facilitent l'orientation ; ils ne dispensent pas d'examiner la date et la portée d'une information précise.
 
 ### 2. Transformer le doute en question pour le suivi
 
@@ -101,4 +101,4 @@ Un témoignage peut offrir une rencontre sans devenir une preuve ou un conseil a
 
 Pour une information qui vous inquiète ou pourrait modifier vos soins, parlez avec un professionnel de santé. Votre équipe médicale peut examiner sa pertinence pour votre situation. En cas de symptôme inhabituel ou de signe d'alerte, suivez les consignes reçues plutôt que d'attendre une réponse dans une recherche en ligne.
 
-Sources : [HAS, parler avec son médecin](https://www.has-sante.fr/jcms/c_1695997/en/parler-avec-son-medecin) ; [Ministère de la Santé, le Service public d'information en santé](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/article/le-service-public-d-information-en-sante-spis).
+Sources : [HAS, parler avec son médecin](https://www.has-sante.fr/jcms/c_1695997/en/parler-avec-son-medecin) ; [Ministère de la Santé, le Service public d'information en santé](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/article/sante-fr-le-site-du-service-public-d-information-en-sante).

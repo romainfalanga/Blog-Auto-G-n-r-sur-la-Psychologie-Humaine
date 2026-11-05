@@ -1,7 +1,7 @@
 ---
 title: "Abandon et instabilité en couple : comprendre ses schémas"
 date: 2026-04-02T04:49:35+00:00
-description: "Hugo lutte contre la peur de l'abandon et l'instabilité dans son couple. Découvrez les causes profondes de ce schéma et comment s'en libérer durablement."
+description: "Hugo redoute d'être quitté. Le modèle de la schémathérapie aide à nommer cette attente et à la distinguer de ce qui se passe dans son couple."
 categories: ["Sortir de ses schémas répétitifs"]
 tags: ["abandon", "instabilité émotionnelle", "psychologie de couple", "schémas répétitifs", "dépendance affective"]
 slug: "abandon-instabilité-couple-causes-solutions"
@@ -21,39 +21,39 @@ Chloé fronce les sourcils, déstabilisée par ce changement de température sou
 
 L'air devient lourd entre eux. Samba, à la batterie, donne le décompte, mais Hugo joue avec une agressivité inhabituelle. Il sabote la mélodie, crée une dissonance volontaire. Il est prisonnier de ce cycle où l'intimité déclenche une terreur viscérale. Pour lui, être aimé, c'est attendre le moment où l'autre partira. Alors, pour reprendre le contrôle, il crée lui-même l'instabilité qu'il redoute tant.
 
-## Qu'est-ce que abandon et instabilité ?
+## Qu’est-ce que le schéma d’abandon et d’instabilité ?
 
-Le schéma d'abandon et instabilité est la croyance conditionnée que les personnes significatives de notre vie finiront par nous quitter, nous rejeter ou nous décevoir de manière imprévisible. Ce concept a été largement théorisé par le psychologue Jeffrey Young, créateur de la Schémathérapie. Selon lui, ce schéma s'installe généralement durant l'enfance si l'environnement familial était instable, si un parent était physiquement ou émotionnellement absent, ou si l'affection était imprévisible.
+Dans la [schémathérapie](https://www.schematherapysociety.org/Schema-Therapy) développée par Jeffrey Young, le schéma d'abandon et d'instabilité décrit l'attente que les liens importants deviennent imprévisibles ou cessent. Ce cadre propose des hypothèses sur la façon dont ces attentes se construisent. Il ne permet pas de déduire l'enfance de quelqu'un à partir de sa peur actuelle.
 
-Pour quelqu'un comme Hugo, le monde relationnel est perçu comme un terrain mouvant. Il n'y a pas de base solide. Cette insécurité interne pousse l'individu à être hypervigilant, guettant le moindre signe de désintérêt chez son partenaire. Paradoxalement, cette peur de l'abandon mène souvent à des comportements qui provoquent précisément la rupture redoutée, créant ce que la psychologie appelle une prophétie autoréalisatrice.
+Hugo surveille parfois les signes d'éloignement. Le récit explore son inquiétude, mais certains liens sont réellement instables : une inquiétude n'est ni la preuve que l'autre part, ni une raison d'écarter ce qu'on observe.
 
-## Comment abandon et instabilité se manifestent dans le contexte en couple ?
+## Comment la peur de l'abandon apparaît-elle dans le couple ?
 
 ### 1. L'hypervigilance aux signaux de rejet
 
-Dans une relation marquée par ce schéma, le moindre changement d'humeur du partenaire est interprété comme une preuve de désamour imminent. Si Chloé met plus de temps à répondre à un message ou si elle semble pensive, Hugo ne perçoit pas cela comme une fatigue passagère mais comme le début de la fin. Cette lecture déformée de la réalité maintient le système nerveux dans un état d'alerte permanent, rendant la détente impossible au sein du couple.
+Dans une relation marquée par ce schéma, le moindre changement d'humeur du partenaire est interprété comme une preuve de désamour imminent. Si Chloé met plus de temps à répondre à un message ou si elle semble pensive, Hugo ne perçoit pas cela comme une fatigue passagère mais comme le début de la fin. Cette interprétation rend le silence difficile à supporter pour Hugo, même s'il ne sait pas encore pourquoi Chloé ne répond pas.
 
 ### 2. Les tests de loyauté répétés
 
-Le besoin de réassurance devient insatiable. Pour apaiser son angoisse, la personne peut inconsciemment tester son partenaire. Hugo peut se montrer froid ou provoquer une dispute pour voir si Chloé va rester ou si elle va fuir. Le problème est que ces tests finissent par épuiser l'autre. À force de devoir prouver sans cesse son attachement, le partenaire peut finir par s'éloigner réellement, validant ainsi la croyance initiale de la personne blessée : je savais qu'elle finirait par partir.
+Hugo peut être tenté de provoquer une dispute pour savoir si Chloé restera. Demander une preuve à répétition peut peser sur l'autre. Si Chloé prend de la distance, cela ne prouve pas que les premières craintes de Hugo étaient justes.
 
 ### 3. L'alternance entre fusion et retrait
 
-L'instabilité se traduit souvent par des variations émotionnelles intenses. On passe de moments de fusion, où l'on idéalise l'autre pour combler son vide intérieur, à des phases de retrait brutal dès qu'une menace d'abandon est perçue. Hugo utilise le retrait comme un bouclier. En se mettant à distance émotionnellement, il tente de se protéger d'une douleur qu'il juge inévitable. C'est une stratégie de survie qui empêche pourtant toute construction durable. Hugo commence à réaliser que ce retrait est le jumeau de son splitting : soit il fusionne totalement, soit il érige une muraille de glace pour ne plus rien ressentir.
+L'instabilité se traduit souvent par des variations émotionnelles intenses. On passe de moments de fusion, où l'on idéalise l'autre pour combler son vide intérieur, à des moments où il se retire brusquement parce qu'il redoute d'être quitté. Hugo utilise le retrait comme un bouclier. En se mettant à distance émotionnellement, il tente de se protéger d'une douleur qu'il juge inévitable. C'est une stratégie de survie qui empêche pourtant toute construction durable. Hugo commence à réaliser que ce retrait est le jumeau de son splitting : soit il fusionne totalement, soit il érige une muraille de glace pour ne plus rien ressentir.
 
-## Techniques pour agir face à abandon et instabilité
+## Trois pistes pour répondre à la peur de l'abandon
 
 ### 1. La distinction entre la peur passée et la réalité présente
 
-Cette technique consiste à identifier le moment où le schéma s'active et à le nommer pour s'en distancier. Lorsque Hugo sent la panique monter, il peut se dire intérieurement : Ceci n'est pas une menace réelle de Chloé, c'est mon vieux schéma d'abandon qui se réveille. L'exercice pratique consiste à tenir un carnet de bord où l'on note l'élément déclencheur, par exemple un silence de l'autre, l'émotion ressentie comme la terreur ou la colère, et la réalité objective, comme le fait qu'elle soit simplement concentrée sur son travail. Cela permet de rééduquer le cerveau à ne plus confondre les souvenirs traumatiques avec les interactions présentes.
+Hugo peut noter séparément ce qui s'est passé, ce qu'il ressent et les informations qui lui manquent. Par exemple : « Elle n'a pas répondu aujourd'hui ; j'ai peur de la perdre ; je ne sais pas pourquoi elle n'a pas répondu. » Si des limites ou des engagements sont régulièrement ignorés, il peut aussi les prendre en compte.
 
-### 2. Le dialogue avec l'enfant intérieur insécure
+### 2. Chercher du soutien
 
-Puisque ce schéma prend racine dans l'enfance, il est utile de s'adresser à la part de soi qui a souffert de l'instabilité parentale. Hugo peut imaginer le petit garçon qu'il était face à l'exigence d'Alain. L'exercice consiste à s'apporter à soi-même la sécurité que l'on n'a pas reçue. Dans les moments de crise, Hugo peut poser une main sur son thorax et se dire qu'il est là pour lui-même et qu'il ne s'abandonnera pas, même si les autres partent. Cette auto-parentalité réduit la dépendance excessive envers les réactions du partenaire pour se sentir exister.
+Quand l'inquiétude prend toute la place, Hugo peut choisir un appui qui ne dépend pas d'une réponse immédiate de Chloé : retrouver une activité familière, parler à Théo ou demander un avis professionnel si la difficulté revient souvent.
 
 ### 3. La communication vulnérable plutôt que réactive
 
-Au lieu de se murer dans le silence ou de provoquer une rupture préventive, la technique consiste à exprimer son besoin de sécurité de manière authentique. Au lieu de dire "Tu ne m'aimes plus, je le vois bien", Hugo peut apprendre à dire qu'il se sent soudainement très anxieux et qu'il a peur d'un éloignement, ce qui lui permet de demander à être rassuré. L'exercice pratique est de s'entraîner à exprimer l'émotion primaire, la peur, plutôt que la défense secondaire, la colère ou le retrait. Cela donne une chance au partenaire de comprendre ce qui se joue et de répondre par du soutien plutôt que par de la défensive.
+Si chacun souhaite parler, Hugo peut dire ce qu'il ressent et demander une précision. Chloé peut répondre, demander du temps ou poser une limite. Dire sa peur n'autorise pas à réclamer des garanties ni à vérifier sans cesse où l'autre se trouve.
 
 ## Hugo choisit de poser les armes
 
@@ -67,6 +67,6 @@ Hugo relève la tête. Chloé ne semble pas en colère, mais simplement triste, 
 
 Le chemin pour s'extraire des schémas d'abandon et d'instabilité demande de la patience et une grande dose de compassion envers soi-même. Comme Hugo, vous avez peut-être construit des forteresses pour vous protéger d'une douleur ancienne, mais ces mêmes murs vous empêchent aujourd'hui de goûter à la sérénité d'un amour partagé. Comprendre l'origine de ces mécanismes est la première étape pour cesser de les subir.
 
-Chaque fois que vous choisissez la vulnérabilité plutôt que le retrait, vous réparez un peu de cette insécurité profonde. Il est possible de transformer cette peur viscérale en une capacité à créer des liens solides, basés sur la réalité du présent plutôt que sur les fantômes du passé. L'instabilité ne définit pas votre valeur, elle raconte simplement une histoire qui cherche aujourd'hui un dénouement plus doux.
+Hugo commence à séparer la peur qu'il ressent de la réponse qu'il choisit. Il peut poser une question ou prendre de la distance, selon la situation.
 
 Si ces cycles de rupture et de réconciliation vous épuisent, ou si la peur de perdre l'autre vous empêche de vivre pleinement, solliciter l'aide d'un professionnel de santé mentale est une démarche constructive. Un psychologue pourra vous accompagner pour désamorcer ces schémas profonds et vous aider à construire cette sécurité intérieure qui vous permettra de trouver un équilibre durable.

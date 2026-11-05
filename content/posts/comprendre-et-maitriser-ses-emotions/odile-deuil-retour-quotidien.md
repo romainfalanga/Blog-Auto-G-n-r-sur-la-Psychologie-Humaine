@@ -23,7 +23,7 @@ Quand elle sort du magasin avec ses lunettes réparées, son téléphone affiche
 
 ## Qu’est-ce que l’oscillation du deuil dans une journée ordinaire ?
 
-Le mot oscillation décrit ici des mouvements entre des moments où la perte occupe le premier plan et d’autres où l’attention revient vers les tâches, les relations ou les intérêts présents. Il ne désigne pas deux étapes qu’il faudrait alterner correctement. Une conversation peut rappeler l’absence ; réparer des lunettes peut demander une attention pratique ; une plaisanterie peut procurer un plaisir réel. Ces expériences peuvent se succéder sans former une progression régulière vers un état final. Elles peuvent aussi se mêler dans une même scène, comme lorsque Odile rit en évoquant une sœur qui lui manque.
+Dans leur modèle du double processus du deuil, Margaret Stroebe et Henk Schut proposent que l’on puisse, selon les moments, s’occuper de ce qui touche à la perte, s’adapter à des changements du quotidien ou faire une pause. Dans le récit d’Odile, le mot oscillation aide à décrire ces allers-retours. Il ne désigne pas deux étapes à suivre ni une fréquence à respecter. Une conversation peut rappeler l’absence ; réparer des lunettes peut demander une attention pratique ; une plaisanterie peut procurer un plaisir réel. Ces expériences peuvent se succéder sans former une progression régulière vers un état final. Elles peuvent aussi se mêler dans une même scène, comme lorsque Odile rit en évoquant une sœur qui lui manque.
 
 Le NHS précise que les émotions du deuil peuvent surgir de façon inattendue et ne sont pas nécessairement présentes tout le temps. Il rappelle également que les étapes souvent évoquées ne constituent pas un ordre obligatoire. Cela ne permet pas de prévoir comment chacun vivra demain, mais remet en question l’idée qu’une journée agréable annulerait une perte ou qu’une journée pénible ferait repartir de zéro. Le ressenti varie avec les événements, le repos disponible, les appuis, les souvenirs et bien d’autres éléments. Une seule scène ne résume donc pas l’ensemble d’un deuil.
 
@@ -78,3 +78,4 @@ Si la souffrance vous inquiète, si les tâches essentielles deviennent durablem
 Sources :
 - [NHS, Grief after bereavement or loss](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)
 - [NIH, Social Wellness Toolkit](https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit)
+- [Stroebe et Schut, modèle du double processus du deuil](https://pubmed.ncbi.nlm.nih.gov/10848151/)

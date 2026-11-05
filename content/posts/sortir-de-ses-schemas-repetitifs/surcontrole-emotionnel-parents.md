@@ -21,9 +21,9 @@ Depuis la veille, depuis les derniers articles qu'il a lus et auxquels il a rép
 
 ## Qu'est-ce que le surcontrôle émotionnel ou l'inhibition ?
 
-Le surcontrôle émotionnel, ou inhibition émotionnelle, est cette tendance à réprimer ou bloquer l'expression de ses ressentis, souvent pour éviter un conflit ou par peur de la honte. James J. Gross, chercheur spécialisé dans la régulation des émotions, a montré que cette stratégie de suppression réduit l'expression visible de ce que l'on éprouve, mais augmente en réalité le stress interne et les tensions avec l'entourage.
+Retenir l’expression d’une émotion désigne ici le fait d’éprouver quelque chose sans le montrer. Le terme « surcontrôle » renvoie à un ensemble plus large d’habitudes et ne constitue pas un diagnostic. Gross et Levenson ont étudié en laboratoire ce qui changeait quand des participants retenaient leur expression en regardant un film. Ces résultats ne signifient pas que tout silence augmente le stress.
 
-Chez Bernard, cela se manifeste par un silence rigide, une focalisation totale sur sa tâche et une difficulté à mettre des mots sur la douleur liée au deuil d'Hélène. Le contexte familial joue ici un rôle majeur : l'éducation et les règles parentales ont façonné une manière spécifique de gérer ses sentiments, un héritage souvent transmis de génération en génération. Les travaux sur l'attachement de John Bowlby montrent que ces modèles parentaux influencent directement notre sentiment de sécurité et notre capacité à partager ce que nous avons sur le cœur.
+Bernard pense aux réactions de ses parents et à ce qu’il a appris à montrer devant eux. Ce rapprochement éclaire son histoire à ses yeux. Il ne permet pas de lire son attachement ni d’expliquer toute sa réserve.
 
 ## Comment l'inhibition se manifeste-t-elle avec ses proches ?
 
@@ -39,16 +39,15 @@ Quand les mots manquent, les gestes prennent le relais. Bernard fabrique des meu
 ## 3 techniques pour apprendre à lâcher prise
 
 ### 1. Nommer l'émotion (l'exercice du vocabulaire affectif)
-L'idée est de développer un vocabulaire précis pour apaiser les tensions du corps quand une émotion surgit. 
-En pratique : chaque soir, pendant cinq minutes, Bernard note sur une fiche l'émotion ressentie dans la journée (tristesse, irritation, apaisement, nostalgie) avec une phrase simple : "Aujourd'hui, j'ai ressenti cela quand il s'est passé ceci." L'objectif est d'habituer le cerveau à voir l'émotion comme une simple information et non comme une menace. Commencer par des mots simples aide à dépasser la honte : on commence par "fatigué", puis "triste", jusqu'à "en colère". Cet entraînement permet, petit à petit, de s'ouvrir plus facilement à un proche.
+Bernard utilise un mot pour nommer ce qu’il ressent, sans chercher à faire disparaître une tension physique. Si vous voulez garder une trace, notez une situation et le mot qui vous vient, sans ordre imposé. Il est aussi possible de ne pas écrire ou de garder la note pour soi.
 
-### 2. La micro-vulnérabilité graduelle (la parole planifiée)
+### 2. Préparer une phrase à son rythme
 Le but est de s'exposer très progressivement à l'expression d'un besoin ou d'un sentiment, dans un cadre rassurant. 
 En pratique : préparer trois phrases très courtes, classées par difficulté. Pour Bernard, cela pourrait être :
 *   Niveau 1 : "Je suis content que tu sois là."
 *   Niveau 2 : "J'aimerais qu'on passe plus de temps ensemble."
 *   Niveau 3 : "Parfois, je me sens seul depuis la mort d'Hélène."
-Le plan consiste à choisir un moment calme dans l'atelier et à prononcer la première phrase. Une fois que la gêne diminue après plusieurs essais, on passe à la suivante. Cette méthode utilise la sécurité d'un lieu connu pour autoriser enfin la parole.
+Bernard choisit une phrase qui lui convient et un moment où il souhaite la dire. Il peut aussi attendre ou écrire. Si le contexte est hostile, chercher un appui est préférable à une divulgation forcée.
 
 ### 3. Le rituel du partage accompagné d'un mot
 Il s'agit d'utiliser un geste concret pour soutenir une parole brève. 
@@ -58,7 +57,7 @@ En pratique : en terminant la commode pour Éric, Bernard peut graver discrètem
 
 Aujourd'hui, au milieu du bruit monotone du rabot, Bernard tente une première approche. Il se remémore la phrase préparée, sent le bois sous ses doigts et lance d'une voix un peu rauque : "Je suis content que tu sois là." Éric se fige, surpris par cette attention si simple. Le visage de Bernard est marqué par le temps, ses yeux brillent un instant, mais il ne cherche pas à se cacher derrière son travail. C'est un petit pas, presque rien, mais c'est un début. Quelques jours plus tôt, il aurait détourné le regard et laissé le silence s'installer. Les progrès sont là : il met en pratique ses réflexions sur l'isolement et son comportement face aux tensions.
 
-Il réalise que son apathie passée n'était pas de l'indifférence, mais une peur panique de perdre pied. Il utilise aussi son carnet d'émotions commencé récemment. C'est un outil simple qui l'aide à comprendre que la nostalgie et l'apaisement peuvent cohabiter. La méthode du rituel porte aussi ses fruits : il a glissé une petite plaque gravée dans le tiroir et a réussi à dire à Éric où la trouver. Ce geste a permis d'amorcer une discussion plus douce, sans la peur habituelle de mal faire.
+Il repense à des moments où il était silencieux sans pour autant se désintéresser d’Éric. Il utilise aussi son carnet d'émotions commencé récemment. C'est un outil simple qui l'aide à comprendre que la nostalgie et l'apaisement peuvent cohabiter. La méthode du rituel porte aussi ses fruits : il a glissé une petite plaque gravée dans le tiroir et a réussi à dire à Éric où la trouver. Ce geste a permis d'amorcer une discussion plus douce, sans la peur habituelle de mal faire.
 
 Le chemin de Bernard n'est pas une ligne droite. Le lendemain, il lui arrive de se replier et de reprendre sa posture de contrôle. Mais il persévère, car il sent que ces essais brisent sa rigidité intérieure. Il comprend que son éducation ne le rend pas incapable d'aimer, elle lui a simplement donné des outils qui ne sont plus adaptés à ses besoins actuels. En combinant ces nouveaux exercices, il apprend à créer des ouvertures, jusqu'à ce que sa voix devienne aussi naturelle que le passage de son rabot.
 
@@ -69,3 +68,5 @@ Le lien entre notre éducation et le surcontrôle émotionnel n'est pas une fata
 Ce parcours est fait de petites victoires : un mot partagé, une émotion notée, un symbole transmis. Si vous vous reconnaissez dans la pudeur de Bernard, sachez qu'il existe des moyens concrets pour apprendre à exprimer ce que vous ressentez sans vous laisser submerger. L'accompagnement par un professionnel, comme un psychologue ou un thérapeute, peut être d'une grande aide pour adapter ces outils à votre propre histoire et apaiser une souffrance qui dure.
 
 Le changement est possible à tout âge. Pour Bernard comme pour beaucoup d'autres, l'apprentissage émotionnel se construit petit à petit, une étape après l'autre.
+
+Sources : [Gross et Levenson, Hiding Feelings](https://pubmed.ncbi.nlm.nih.gov/9103721/) ; [Butler et al., effets sociaux de la suppression expressive](https://pubmed.ncbi.nlm.nih.gov/12899316/).

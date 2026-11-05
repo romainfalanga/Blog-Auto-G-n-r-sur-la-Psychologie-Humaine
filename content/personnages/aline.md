@@ -18,8 +18,8 @@ draft: false
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Sortir de ses schémas répétitifs</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer/">Syndrome du sauveur : Aline aide sans s’effacer</a></h3>
-    <p class="parcours-resume">Aline propose un transport et un dépannage avant de vérifier sa disponibilité ou la demande. Elle prête une perceuse, limite sa participation au chargement et maintient une randonnée choisie avec Étienne.</p>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer/">« Syndrome du sauveur » : une expression courante</a></h3>
+    <p class="parcours-resume">Aline tient l’inventaire contre sa poitrine. Ce mardi, chaque case semble lui rappeler un service qu’elle pourrait rendre, et qu’elle se sent déjà tenue de rendre.</p>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/aline-sauveur-aider-sans-effacer/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
@@ -72,7 +72,7 @@ draft: false
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/aline-fatigue-compassion-relais/">Fatigue de compassion : Aline cherche des relais concrets</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/aline-fatigue-compassion-relais/">Fatigue de compassion : un terme aux sens variables</a></h3>
     <p class="parcours-resume">Des récits de difficultés sociales continuent à occuper Aline après la permanence. Elle décrit les facteurs et construit avec le groupe un relais d’accueil, une orientation et une fermeture plus lisible.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/aline-fatigue-compassion-relais/" class="parcours-link">Lire</a>
   </div>

@@ -23,7 +23,7 @@ Depuis la remarque sur son apparence, elles conviennent de reprendre le sujet da
 
 Un aménagement du travail lié à la santé est une adaptation des conditions d'exercice destinée à tenir compte de la situation d'une personne, dans un cadre évalué et approprié. Il peut concerner le matériel, l'installation, certaines modalités d'organisation ou d'autres conditions du poste. Sa forme ne se déduit pas d'un diagnostic isolé et ne se choisit pas uniquement à partir d'une préférence personnelle.
 
-Dans la fonction publique, les services compétents de santé et de prévention participent à l'examen des conditions de travail. Service Public décrit le rôle du médecin du travail dans la vérification de la compatibilité entre l'état de santé et le poste, ainsi que dans les propositions d'aménagement. Anaïs peut s'informer sur le dispositif applicable à sa collectivité territoriale et demander comment y accéder.
+Dans la fonction publique territoriale, le médecin du travail peut proposer des aménagements du poste ou des conditions de travail en fonction de l'état de santé. D'après Service Public, Anaïs peut demander une visite auprès du service de médecine préventive sans que son administration en connaisse le motif. Le service lui indique comment prendre rendez-vous.
 
 Cette démarche ne remplace pas son suivi par l'équipe qui soigne sa polyarthrite. Les rôles se complètent : le suivi de la maladie et l'évaluation des conditions professionnelles répondent à des questions liées, mais différentes. Anaïs peut demander comment transmettre les éléments utiles dans le bon cadre, sans communiquer tous ses documents de santé à sa hiérarchie.
 

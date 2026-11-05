@@ -16,12 +16,12 @@ draft: false
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/stress-post-traumatique-complexe-deuil/">Comprendre le stress post-traumatique complexe (C-PTSD) lors d'un deuil</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/stress-post-traumatique-complexe-deuil/">Deuil et stress post-traumatique complexe : les distinguer</a></h3>
     <div class="parcours-date">2026-03-07</div>
-    <p class="parcours-resume">Pendant qu'Adam, 6 ans, dort dans la chambre d'à côté, Djamila tourne en rond dans l'appartement qu'elle a reconstruit seule après avoir quitté son ex-conjoint manipulateur Samir. La disparition de sa grand-mère il y a trois mois ravive des traumatismes empilés que son corps n'a jamais digérés.</p>
+    <p class="parcours-resume">Djamila tourne en rond dans son appartement silencieux. Son fils Adam, 6 ans, dort dans la chambre d’à côté, et elle fait attention à ne pas faire de bruit.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Djamila prend conscience d'un schéma répétitif qui s'active dans cette situation. Malgré son côté combative, elle commence à identifier les déclencheurs et à envisager d'autres façons de réagir.</p>
+      <p>Le deuil peut être très douloureux et coexister avec les suites de violences. Il est possible de demander de l’aide dès que la souffrance pèse sur la vie quotidienne.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/stress-post-traumatique-complexe-deuil/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -29,10 +29,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-en-amitie-causes-profondes/">Méfiance et abus en amitié : comprendre ses schémas profonds</a></h3>
     <div class="parcours-date">2026-03-18</div>
-    <p class="parcours-resume">Lors d'un déjeuner dans une brasserie, Djamila réagit avec froideur et suspicion lorsqu'Amina, sa collègue et amie, lui propose de l'aider avec un dossier professionnel. Ce geste déclenche chez elle un réflexe de survie lié à son passé de femme victime de manipulations sous l'emprise de son ex-conjoint, Samir.</p>
+    <p class="parcours-resume">Le carrelage de la petite brasserie près de l&#x27;association brille sous les néons crus, alors que la pluie de mars tambourine contre la vitrine. Djamila est assise face à Amina, sa collègue et amie, dont le rire franc l&#x27;apaise d&#x27;ordinaire.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Djamila identifie ses pensées comme des réflexes de survie issus d'un stress post-traumatique complexe, prenant conscience que son 'armure de glace' l'isole et l'empêche d'accepter le soutien dont elle a besoin.</p>
+      <p>De retour au bureau, Djamila repense à sa réaction lors du déjeuner. Elle sent encore cette raideur dans sa nuque, mais elle refuse de laisser son passé dicter son présent.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-en-amitie-causes-profondes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -40,10 +40,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-psychologique-au-travail/">Gaslighting et manipulation au travail : comment les repérer ?</a></h3>
     <div class="parcours-date">2026-03-19</div>
-    <p class="parcours-resume">Alors qu'elle reçoit une bénéficiaire victime de violences, Djamila est brusquement interrompue par son coordinateur Antoine. Ce dernier tente de la déstabiliser en affirmant faussement l'avoir prévenue de son passage, provoquant chez elle un malaise et un doute profond sur sa propre perception.</p>
+    <p class="parcours-resume">Le stylo bille de Djamila survole son carnet à spirales sans oser se poser sur le papier. Assise dans son petit bureau de l&#x27;association, elle observe la femme installée en face d&#x27;elle.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Djamila prend conscience que sa vulnérabilité actuelle est un mélange entre son hypervigilance héritée de son ex-conjoint Samir et une possible manipulation réelle de la part d'Antoine. Elle commence à appliquer les outils d'analyse du Dr Martin pour distinguer les traumatismes passés des agressions présentes.</p>
+      <p>Après le départ d&#x27;Antoine, Djamila ne reste pas prostrée. Elle termine son entretien avec la bénéficiaire en lui adressant un regard plein de sororité, puis elle attend qu&#x27;elle soit partie pour ouvrir son journal.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/gaslighting-manipulation-psychologique-au-travail/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -51,43 +51,43 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-confirmation-conflit/">Biais de confirmation en situation de conflit : comment il vous piège</a></h3>
     <div class="parcours-date">2026-03-24</div>
-    <p class="parcours-resume">Lors d'une réunion le 24 mars 2026, Djamila entre en conflit avec son coordinateur Antoine au sujet du signalement d'une bénéficiaire. Elle réalise que son esprit sélectionne uniquement les indices hostiles chez lui pour confirmer son sentiment de mise à l'épreuve.</p>
+    <p class="parcours-resume">La sonnette d&#x27;alerte retentit dans la petite salle de réunion lorsque la porte claque. Djamila fixe la table en plastique, ses doigts effleurent le carnet où elle note les rendez-vous et les noms des bénéficiaires.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Djamila identifie concrètement son biais de confirmation, comprenant que son passé traumatique avec Samir active une hypervigilance qui transforme des détails neutres en preuves de manipulation.</p>
+      <p>Aujourd&#x27;hui, après la réunion, Djamila reprend le carnet où elle note ses apprentissages depuis les sessions avec le Dr Martin. Elle ouvre la page du 19 mars et relit la méthode d&#x27;identification des pensées automatiques qu&#x27;elle a déjà utilisée pour distinguer les manipulations des souvenirs…</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-confirmation-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/sentiment-injustice-conflit-reconstruction-post-toxique/">Surmonter le sentiment d'injustice en situation de conflit</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/sentiment-injustice-conflit-reconstruction-post-toxique/">Surmonter le sentiment d&#x27;injustice en situation de conflit</a></h3>
     <div class="parcours-date">2026-03-27</div>
-    <p class="parcours-resume">Djamila se trouve dans les bureaux de son association pour défendre le dossier de relogement d'une famille face à Antoine, son coordinateur. L'indifférence de ce dernier, qui l'ignore en consultant son téléphone, déclenche chez elle un profond sentiment d'injustice et réactive les traumatismes liés au mépris de son ex-conjoint, Samir.</p>
+    <p class="parcours-resume">Le néon du couloir de l&#x27;association grésille par intermittence, projetant une lumière saccadée sur les dossiers empilés devant Djamila. Elle ajuste son foulard de soie émeraude, sentant une chaleur monter le long de son cou.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Djamila prend conscience que sa colère actuelle est amplifiée par son passé de victimisation et son hypervigilance. Elle parvient à identifier que son sentiment d'injustice active des mécanismes de défense anciens, comme la rumination et le besoin de réparation, tout en essayant de ne pas basculer dans l'explosion verbale.</p>
+      <p>Antoine lève enfin les yeux, l&#x27;air absent. Il lâche un simple &quot;On verra ça demain, Djamila, je n&#x27;ai pas la tête à tes urgences là&quot;.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/sentiment-injustice-conflit-reconstruction-post-toxique/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/trauma-bonding-attachement-traumatique-amitie/">Le trauma bonding en amitié : comprendre cet attachement</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/trauma-bonding-attachement-traumatique-amitie/">Lien traumatique : les effets d’une relation violente sur l’amitié</a></h3>
     <div class="parcours-date">2026-04-14</div>
-    <p class="parcours-resume">Djamila reçoit une invitation d'Amina pour un week-end à la mer, mais ressent une méfiance et un malaise inattendus face à cette proposition bienveillante. Elle réalise que le calme de cette amitié saine l'angoisse, car son système nerveux est encore marqué par les cycles de violence et de réconciliation vécus avec son ex-compagnon, Samir.</p>
+    <p class="parcours-resume">Djamila ajuste son foulard de soie turquoise devant le petit miroir de l&#x27;entrée. Le silence de l&#x27;appartement est à peine troublé par le bruit des feutres d&#x27;Adam qui s&#x27;applique sur un dessin dans sa chambre.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Djamila identifie son attachement traumatique (trauma bonding) et comprend que son cerveau confond l'intensité du conflit avec la réalité du lien affectif. Elle prend conscience qu'elle doit nommer ce besoin inconscient de souffrance pour réussir à accepter la stabilité relationnelle.</p>
+      <p>Djamila repose son téléphone sur le guéridon. Elle repense à la réunion difficile avec Antoine il y a quelques semaines, où elle avait réussi à identifier son biais de confirmation.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/trauma-bonding-attachement-traumatique-amitie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/cycle-abus-tension-explosion-lune-de-miel-parents/">Le cycle de l'abus avec ses parents : briser le schéma</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/cycle-abus-tension-explosion-lune-de-miel-parents/">Le cycle de l&#x27;abus avec ses parents : briser le schéma</a></h3>
     <div class="parcours-date">2026-04-20</div>
-    <p class="parcours-resume">Alors qu'elle prépare le petit-déjeuner pour son fils Adam, Djamila reçoit un appel de sa mère qui déclenche une vive anxiété. Cette interaction téléphonique, marquée par des reproches et une tension croissante, lui fait réaliser que le schéma de violence qu'elle a connu avec son ex-conjoint Samir prend racine dans sa dynamique familiale.</p>
+    <p class="parcours-resume">Djamila étale soigneusement la confiture de fraises sur la tartine d&#x27;Adam. Le bruit du couteau qui racle le pain grillé résonne dans la cuisine silencieuse de cet appartement qu&#x27;elle a patiemment décoré, loin de l&#x27;ombre de Samir.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Djamila identifie pour la première fois le cycle de l'abus (tension, explosion, lune de miel) au sein de sa relation avec ses parents. Elle comprend que son hypervigilance et son attirance passée pour des hommes toxiques découlent d'une confusion neurologique entre soulagement après la terreur et sécurité réelle.</p>
+      <p>Au fur et à mesure que la voix de sa mère s&#x27;apaise au téléphone, passant du reproche à une proposition soudaine d&#x27;inviter Adam à passer le week-end, Djamila sent le piège de la lune de miel se refermer. Habituellement, elle aurait cédé, soulagée par ce retour au calme.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/cycle-abus-tension-explosion-lune-de-miel-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -95,32 +95,32 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/soulagement-apres-un-succes/">Soulagement après un succès : sentir, comprendre, intégrer</a></h3>
     <div class="parcours-date">2026-04-24</div>
-    <p class="parcours-resume">Le 24 avril 2026, Djamila célèbre l'officialisation du projet de relogement qu'elle a porté pendant des mois lors d'une cérémonie à la salle polyvalente. Malgré le succès et les félicitations d'Amina, elle ressent une ambivalence entre le soulagement physique et un réflexe d'hypervigilance en rentrant chez elle avec son fils Adam.</p>
+    <p class="parcours-resume">La sonnette de la salle polyvalente claque encore dans les oreilles de Djamila lorsqu&#x27;elle traverse le parking ce 24 avril 2026. Elle tient entre ses doigts le dossier laqué qu&#x27;on lui a remis, un peu chaud après les applaudissements.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Djamila apprend à distinguer le soulagement authentique, fruit de son propre travail, de la 'lune de miel' factice qu'elle subissait autrefois. Elle commence à nommer ses mécanismes de défense, comme le biais de confirmation et l'armure de glace, pour ne plus jeter ses émotions aux oubliettes.</p>
+      <p>Sur le trajet du retour, Adam entonne une chanson dont la cadence lui rappelle les cours de self-défense. Djamila sourit en observant la façon dont il plie le ticket de croque-monsieur en avion en papier.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/soulagement-apres-un-succes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/fierte-au-travail-comprendre-manifestations-hpi/">Fierté au travail : la comprendre pour mieux s'épanouir</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/fierte-au-travail-comprendre-manifestations-hpi/">Fierté au travail : la comprendre pour mieux s&#x27;épanouir</a></h3>
     <div class="parcours-date">2026-05-04</div>
-    <p class="parcours-resume">Le 4 mai 2026, Djamila présente avec succès son nouveau protocole d'accueil pour les victimes de violences au sein de son association. Malgré les applaudissements de ses collègues Amina et Antoine, elle lutte contre un sentiment de fierté qu'elle perçoit comme une vulnérabilité dangereuse.</p>
+    <p class="parcours-resume">Djamila ajuste son foulard de soie turquoise devant le reflet de la vitre de la salle de réunion. Aujourd&#x27;hui, le 4 mai 2026, l&#x27;ambiance au sein de l&#x27;association est électrique, mais pour une fois, ce n&#x27;est pas à cause d&#x27;un conflit avec Antoine.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Djamila identifie sa fierté comme un mécanisme de défense ambivalent, oscillant entre un sentiment d'invincibilité et une hypervigilance héritée de son passé avec son ex-conjoint Samir. Elle réalise que son besoin de tout contrôler et de diluer ses succès l'isole de son équipe.</p>
+      <p>À la fin de la réunion, Amina s&#x27;approche de Djamila près de la machine à eau. Elle lui pose une main légère sur l&#x27;épaule, un geste que Djamila ne rejette pas cette fois-ci, malgré le léger sursaut qui l&#x27;habite encore.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/fierte-au-travail-comprendre-manifestations-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-ecole-etudes-psychologie/">Biais de groupe à l'école ou aux études : le comprendre</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-ecole-etudes-psychologie/">Conformisme à l’école et en formation : l’effet de la majorité</a></h3>
     <div class="parcours-date">2026-05-13</div>
-    <p class="parcours-resume">Djamila participe à une formation sur les violences intra-familiales où elle est confrontée à un groupe de stagiaires dominants imposant leurs opinions. Lors d'un exercice pratique, elle ressent la pression de se conformer à leur avis erroné, ravivant ses anciens réflexes de soumission développés avec son ex-conjoint Samir.</p>
+    <p class="parcours-resume">Djamila ajuste son foulard turquoise devant le miroir de l&#x27;entrée de l&#x27;institut de formation. Aujourd&#x27;hui, elle participe à une journée de spécialisation sur l&#x27;accompagnement des victimes de violences intra-familiales, un domaine qu&#x27;elle connaît par cœur dans sa pratique de travailleuse sociale.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Elle identifie son envie de s'effacer comme un vestige de son passé traumatique et prend conscience que le biais de groupe agit sur elle comme une pression invisible vers le conformisme.</p>
+      <p>Au retour de la pause déjeuner, Djamila sent que l&#x27;atmosphère du groupe est pesante. Le projet sur lequel ils travaillent s&#x27;enlise dans une vision simpliste qui ne rend pas justice à la complexité des parcours des femmes qu&#x27;elle aide au quotidien.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-groupe-ecole-etudes-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -128,10 +128,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/enfant-interieur-apres-rupture-amoureuse/">Enfant intérieur après une rupture : comprendre ses blessures</a></h3>
     <div class="parcours-date">2026-05-17</div>
-    <p class="parcours-resume">Le 17 mai 2026, Djamila trie les dernières affaires de son ex-conjoint Samir dans son appartement, quatre mois après leur rupture. En tombant sur son acte d'adoption et un carnet de son fils Adam, elle subit une crise d'hypervigilance déclenchée par un bruit dans l'escalier.</p>
+    <p class="parcours-resume">Djamila est assise sur le carrelage froid de sa cuisine, entourée de cartons à moitié ouverts. Le 17 mai 2026 marque une étape qu&#x27;elle n&#x27;avait pas prévue : elle finit de trier les dernières affaires de Samir, son ex-conjoint, quatre mois après son départ fracassant.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Djamila réalise que sa détresse actuelle et son besoin de sauver les autres ne sont pas seulement liés à la toxicité de Samir, mais trouvent leur source dans une blessure d'abandon originelle liée à son adoption et son passé à l'orphelinat.</p>
+      <p>Djamila repose délicatement le carnet d&#x27;Adam. Elle ne cherche plus à masquer les tremblements de ses mains.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/enfant-interieur-apres-rupture-amoureuse/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

@@ -23,7 +23,7 @@ Il pose délicatement son livre sur le guéridon, évitant de faire du bruit pou
 
 L'envie est une émotion complexe qui surgit lorsque nous percevons chez autrui un avantage, une possession ou une réussite que nous désirons pour nous-mêmes, déclenchant un sentiment d'infériorité ou de frustration. Selon le psychologue social Richard Smith, l'envie se distingue de la jalousie car elle ne nécessite que deux protagonistes : soi-même et la personne enviée, sans la menace d'une tierce personne venant briser un lien affectif. Dans le cadre académique, cette émotion est exacerbée par la constante évaluation et la hiérarchisation des individus.
 
-Ce sentiment n'est pas une simple méchanceté gratuite, mais un mécanisme de comparaison sociale qui trouve ses racines dans notre besoin d'estime de soi. Une étude publiée dans la revue Science en 2009 montre que l'envie active les mêmes zones cérébrales que la douleur physique, notamment le cortex cingulaire antérieur. Dans le contexte des études, l'envie agit comme un signal d'alarme nous indiquant un écart entre notre situation actuelle et nos ambitions idéalisées, souvent amplifiée par la pression de la réussite sociale et familiale.
+Une expérience d’imagerie publiée dans Science en 2009 a observé que les situations fictives jugées plus enviables s’accompagnaient d’une activité plus élevée dans une partie du cortex cingulaire antérieur. Elle n’a pas montré que l’envie et la douleur physique sont la même expérience. Dans les études, l’envie peut inviter à regarder ce que la réussite de l’autre représente pour soi, parmi d’autres lectures possibles.
 
 ## Comment l'envie à l'école ou aux études se manifeste-t-elle ?
 
@@ -34,7 +34,7 @@ Dans le milieu scolaire, l'envie se manifeste souvent par une comparaison systé
 Pour protéger une estime de soi malmenée, l'envie peut se transformer en hostilité déguisée. Cela se traduit par des remarques minimisant le travail des autres, comme le fait de dire qu'un camarade a réussi grâce au favoritisme ou à la chance. C'est un mécanisme de défense psychologique qui vise à rétablir une forme d'équilibre interne. En discréditant la source de l'envie, le sujet tente de réduire la douleur de sa propre perception d'échec, ce qui crée souvent des tensions au sein des groupes de travail ou des promotions.
 
 ### 3. Le désengagement par crainte de l'infériorité
-Certains étudiants, face à une envie trop douloureuse, choisissent de se désinvestir totalement de leurs études. C'est une forme de stratégie d'auto-handicap : en ne faisant aucun effort, ils justifient leur absence de réussite par leur manque d'implication plutôt que par un manque de capacités. Cela permet d'éviter la confrontation directe avec le succès des pairs qui, s'il était affronté frontalement, confirmerait une sensation d'incompétence insupportable. Ce retrait est un cri de détresse silencieux qui masque une envie profonde de briller.
+Un étudiant peut se désengager pour éviter une comparaison douloureuse. Mais un retrait a de nombreuses explications possibles, dont le manque de soutien, des obstacles matériels ou la fatigue. Mieux vaut demander ce qui rend les études difficiles plutôt que conclure à l’envie ou à l’auto-handicap.
 
 ## 3 techniques pour agir face à l'envie à l'école ou aux études
 
@@ -42,10 +42,10 @@ Certains étudiants, face à une envie trop douloureuse, choisissent de se dési
 Cette méthode consiste à lister précisément ce qui suscite l'envie et à interroger la valeur réelle de ces éléments dans sa propre vie. Souvent, nous envions un camarade pour un résultat qui ne correspond même pas à nos aspirations profondes, simplement parce que le système éducatif le valorise. L'exercice consiste à prendre une feuille et à écrire le nom de la personne enviée, puis l'objet de l'envie. Dans une seconde colonne, il faut noter si cet objet contribue réellement à son propre projet de vie à long terme ou s'il s'agit d'une validation sociale superficielle. Cela permet de ramener l'attention sur ses besoins authentiques.
 
 ### 2. La transformation de l'envie malveillante en envie bénigne
-La psychologie distingue l'envie malveillante, qui souhaite la chute de l'autre, de l'envie bénigne, qui motive à s'améliorer. Pour effectuer cette bascule, il faut pratiquer l'observation analytique des stratégies de la personne enviée. Au lieu de se focaliser sur le résultat, l'étudiant doit lister les actions concrètes que l'autre a mises en place pour réussir. L'exercice pratique consiste à demander directement à la personne enviée un conseil ou une méthode de travail. Cette action de rapprochement réduit l'hostilité et transforme l'autre en une ressource plutôt qu'en un obstacle, facilitant l'apprentissage par observation.
+Van de Ven et ses collègues ont étudié deux formes d’envie : l’une orientée vers l’amélioration de sa propre situation, l’autre vers la perte de l’avantage d’autrui. Dans un échange où chacun se sent à l’aise, on peut demander à un camarade comment il a préparé une étape qui nous intéresse. Cela donne une information concrète ; personne n’a à convertir son émotion sur commande.
 
 ### 3. Le renforcement de l'auto-compassion et de la gratitude
-L'envie prend racine sur un terrain de manque et d'insatisfaction chronique. La technique de l'auto-compassion, développée par Kristin Neff, propose de se traiter avec la même bienveillance qu'on offrirait à un ami en difficulté. Concrètement, chaque soir, l'étudiant doit noter trois petites victoires personnelles de la journée qui ne dépendent d'aucune comparaison avec autrui, comme la compréhension d'un concept difficile ou la gestion de son temps. En cultivant la reconnaissance pour son propre parcours, on diminue la dépendance au regard extérieur et on apaise la douleur de la comparaison sociale.
+L’autocompassion invite à se traiter avec la bienveillance qu’on offrirait à un ami en difficulté. Si l’exercice vous convient, notez un progrès qui ne dépend pas du classement, comme comprendre un concept difficile. Vous pouvez garder en vue le rôle des ressources, des contraintes et du soutien disponible dans les parcours scolaires.
 
 ## Fabien commence à poser les mots sur l'amertume
 
@@ -62,3 +62,5 @@ L'envie dans le cadre des études est une étape humaine, un miroir de nos propr
 Ces sentiments de frustration ou d'infériorité sont fréquents. Ces émotions sont des indicateurs précieux de ce qui compte pour vous, et apprendre à les écouter sans se laisser submerger est une compétence clé de l'intelligence émotionnelle. Chaque progrès vers une meilleure compréhension de soi est une victoire sur l'ombre de la comparaison.
 
 Si vous sentez que l'envie ou la pression liée à la réussite scolaire devient trop lourde à porter, ou si elle affecte durablement votre santé mentale et votre estime de soi, il est utile de consulter un psychologue ou un conseiller d'orientation. Parler à un professionnel permet de mettre en lumière des schémas profonds et de trouver des outils adaptés pour s'épanouir sereinement dans son parcours.
+
+Sources : [Takahashi et al., Science, 2009](https://pubmed.ncbi.nlm.nih.gov/19213918/) ; [Van de Ven et al., 2009](https://pubmed.ncbi.nlm.nih.gov/19485619/).

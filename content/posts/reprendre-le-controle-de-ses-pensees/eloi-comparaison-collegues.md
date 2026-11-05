@@ -21,7 +21,7 @@ Cédric lui demande de rester sur le rôle convenu. Éloi entend d'abord qu'il n
 
 ## Qu'est-ce que la comparaison sociale ?
 
-La comparaison sociale est le fait d'évaluer certaines de ses opinions, capacités ou situations en les rapprochant de celles d'autres personnes. Leon Festinger propose une théorie fondatrice de ce processus. Lorsque les repères objectifs manquent ou restent difficiles à interpréter, les autres peuvent servir de points de référence. La comparaison peut informer, motiver ou aider à comprendre un niveau attendu. Elle peut aussi devenir trompeuse si l'on oublie ce qui rend les situations différentes.
+La comparaison sociale consiste à prendre d'autres personnes comme point de référence pour s'évaluer. Leon Festinger propose notamment que l'on compare ses opinions ou ses capacités à celles des autres lorsqu'on manque de critères indépendants de ces comparaisons. Au stand, la vitesse de Cédric est visible et Éloi en fait un repère. Pour juger sa propre préparation, il a surtout besoin de savoir ce que son rôle exige à ce moment-là.
 
 Se comparer à une personne plus expérimentée n'est donc pas toujours inutile. Éloi peut découvrir un geste, une organisation ou un niveau de qualité qu'il souhaite apprendre. La question porte sur l'usage de cette information. Regarde-t-il une manière de faire pour choisir un prochain apprentissage, ou transforme-t-il l'écart en classement global des personnes ? Le premier usage ouvre une piste ; le second risque de réduire son propre travail à tout ce qui lui manque.
 
@@ -87,7 +87,7 @@ Au foyer, il raconte la journée à Nora sans cacher la différence de cadence. 
 
 La comparaison au travail peut apporter des repères si l'on précise ce que l'on compare et dans quelles conditions. Éloi commence à utiliser l'expérience de Cédric comme une source d'apprentissage. L'écart ne disparaît pas, mais il ne résume plus aussi vite sa propre place. Les critères, les appuis et les essais restent plus utiles qu'un classement global.
 
-Vous pouvez choisir une différence précise et demander ce qu'elle vous apprend sur la prochaine étape possible. Il est légitime d'admirer une compétence et de ressentir de l'envie. Ces réactions ne vous obligent pas à copier immédiatement le résultat ni à minimiser ce que vous savez déjà faire. Une comparaison utile doit vous laisser une action ou une question, pas seulement une note sur vous-même.
+Vous pouvez choisir une différence précise et demander ce qu'elle vous apprend sur la prochaine étape possible. Il est légitime d'admirer une compétence et de ressentir de l'envie. Ces réactions ne vous obligent pas à copier immédiatement le résultat ni à minimiser ce que vous savez déjà faire. Si vous cherchez à apprendre de la comparaison, essayez d'en tirer une question sur le geste ou le critère qui vous intéresse.
 
 Si les comparaisons nourrissent une honte durable, une autocritique intense ou un évitement qui vous fait souffrir, un professionnel peut vous aider à examiner ce mécanisme. Un formateur peut également préciser les critères et les conditions de progression. Le droit d'apprendre ne dépend pas du fait d'être déjà aussi rapide ou aussi assuré qu'une personne expérimentée.
 

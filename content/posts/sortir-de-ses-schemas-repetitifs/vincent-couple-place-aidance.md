@@ -23,7 +23,7 @@ Le relais de Julie permet de sortir une course de leur agenda, et l’étagère 
 
 Préserver une relation de couple dans l’aidance consiste à garder une place pour les choix, les échanges et la proximité des partenaires au milieu des tâches de soutien et des contraintes de vie. Il n’existe pas de forme unique de cette proximité. Elle peut passer par une conversation, de l’humour, une activité, des gestes affectueux ou une intimité souhaitée par les deux personnes.
 
-La théorie de l’autodétermination, développée notamment par Richard Ryan et Edward Deci, distingue les besoins d’autonomie, de compétence et de lien. L’autonomie renvoie à la possibilité de consentir à ses choix, pas à l’obligation de tout faire seul. Ce cadre aide à penser une proximité où recevoir un appui et garder sa voix peuvent aller ensemble.
+La théorie de l’autodétermination, développée notamment par Richard Ryan et Edward Deci, distingue les besoins d’autonomie, de compétence et de lien. Dans cette théorie, l’autonomie renvoie au sentiment d’agir de son plein gré, même lorsqu’on reçoit l’aide de quelqu’un. Ce cadre aide à penser une proximité où recevoir un appui et garder sa voix peuvent aller ensemble.
 
 Dans le couple de Vincent et Cédric, les tâches d’aidance existent. Les conditions matérielles ne se règlent pas par une soirée agréable. Elles peuvent demander du temps, de l’argent ou l’intervention de services. Mais elles ne décrivent pas tout leur lien. Cédric est aussi traducteur, lecteur et interlocuteur ; Vincent est technicien ferroviaire, amateur de musique et compagnon avec ses propres préférences.
 

@@ -21,9 +21,9 @@ En observant les portraits de ces praticiens épanouis sur le site web de la cli
 
 ## Définition du concept : le biais de survivant
 
-Le biais de survivant est une erreur logique qui consiste à se focaliser sur les personnes ou les processus qui ont franchi avec succès un processus de sélection, tout en ignorant ceux qui ont échoué, car ils sont invisibles. Ce concept a été particulièrement mis en lumière par le mathématicien Abraham Wald durant la Seconde Guerre mondiale. En observant les impacts de balles sur les avions revenant de mission, il avait compris qu'il ne fallait pas renforcer les zones touchées, mais précisément celles qui étaient intactes sur les survivants, car les avions touchés à ces endroits critiques ne revenaient jamais pour être examinés.
+Le biais du survivant apparaît lorsqu’on tire une conclusion sur un ensemble à partir des seuls cas qui restent observables après une sélection. Pendant la Seconde Guerre mondiale, [Abraham Wald](https://www.cna.org/analyses/1980/a-method-of-estimating-plane-vulnerability) a proposé une méthode pour estimer la vulnérabilité des avions en tenant compte du fait que les dommages mesurés provenaient des appareils revenus de mission.
 
-Dans le quotidien de Priya, ce biais cognitif se manifeste par une tendance à n'écouter que les histoires de réussite spectaculaires pour valider une prise de risque. En psychologie sociale, cela mène souvent à une distorsion de la perception du risque et à une surestimation de ses propres chances de succès. Le succès dépend parfois de facteurs extérieurs non reproductibles ou d'une résilience que tout le monde ne possède pas au même degré. Pour une personnalité contrôlante comme Priya, ce biais est un piège, car il lui fait croire qu'en suivant scrupuleusement le plan des gagnants, elle maîtrisera l'issue de sa propre carrière.
+Les témoignages de la clinique forment une sélection promotionnelle. Priya ignore combien de médecins ont accepté, refusé ou quitté le poste. Elle peut relever cette limite sans en déduire que les personnes absentes ont toutes échoué.
 
 ## Manifestations du biais face à une décision importante
 
@@ -35,7 +35,7 @@ On a tendance à copier les stratégies de ceux qui sont au sommet en pensant qu
 
 ### 2. La minimisation des risques réels
 
-Lorsque nous ne voyons que les rescapés, nous sous-estimons la probabilité de rencontrer des obstacles. Dans le domaine médical, Priya voit des collègues s'associer avec succès, oubliant les nombreuses ruptures d'associations qui finissent au tribunal. Elle a déjà vécu cette paralysie par le passé lors du choix d'un associé, se souvenant de Marc qui lui rappelait Damien. Ici, le biais de survivant l'entraîne dans l'excès inverse : une confiance aveugle basée sur une sélection de témoignages positifs, ce qui est tout aussi dangereux pour son équilibre émotionnel. Elle comprend que son jugement est souvent altéré par ce qu'elle a récemment lu ou vécu, une forme de biais de disponibilité qu'elle commence à peine à apprivoiser.
+Ne voir que les témoignages favorables ne suffit pas à estimer le risque. Priya peut demander le nombre de départs, les motifs connus et les conditions de travail. Le récit d’un seul départ complète la brochure sans donner un taux fiable.
 
 ### 3. La pression sociale de la réussite visible
 
@@ -47,11 +47,11 @@ Pour reprendre le contrôle de son jugement, il est essentiel de réintégrer le
 
 ### 1. La technique du cimetière des données
 
-Cette méthode consiste à chercher activement des informations sur ceux qui ne sont plus là ou qui n'ont pas réussi. Pour Priya, cela signifie ne pas se contenter des brochures de la clinique. Elle peut décider de contacter des anciens praticiens de cet établissement ayant quitté leur poste. L'exercice consiste à lister trois raisons potentielles pour lesquelles ce projet pourrait échouer pour elle, en se basant sur ses propres limites, comme son besoin d'indépendance ou son évitement émotionnel. En identifiant le cimetière des échecs, on redonne une dimension humaine et réaliste à la décision.
+Priya peut demander si des données sur le renouvellement de l’équipe existent, ou parler à des personnes encore en poste et à d’anciens membres. Changer de travail, rester ou partir d’un établissement ne suffit pas à définir une réussite ou un échec.
 
 ### 2. Le questionnement des variables cachées
 
-Il s'agit de décomposer une réussite pour voir ce qui ne relève pas du talent ou de la méthode. Lorsqu'elle observe un confrère qui semble tout réussir, Priya doit se demander quels privilèges ou circonstances ont facilité ce parcours. Est-ce un héritage, une absence de charges familiales, une santé de fer ? L'exercice pratique consiste à prendre une feuille et à tracer deux colonnes. Dans la première, notez les actions visibles du survivant. Dans la seconde, notez les facteurs de chance ou de contexte qu'il ne mentionne jamais. Cela permet de désacraliser le modèle et de ramener la décision à sa propre réalité.
+Distinguez ce que les témoignages établissent des questions qu’ils laissent ouvertes : horaires, charge de travail, soutien de l’équipe, autonomie. Évitez d’attribuer aux personnes des privilèges ou des problèmes privés dont vous ne savez rien.
 
 ### 3. La simulation du scénario du naufrage
 

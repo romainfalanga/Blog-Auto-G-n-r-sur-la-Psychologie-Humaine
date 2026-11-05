@@ -1,9 +1,9 @@
 ---
 title: "Surgénéralisation à l'école : comprendre et agir au lycée"
 date: 2026-05-10T05:45:12+00:00
-description: "Thomas, prof HPI, découvre comment distinguer surgénéralisation et pensée globale à l'école et apprend 3 techniques concrètes pour réagir."
+description: "Thomas remarque qu’il tire un jugement sur son enseignement d’un seul exercice. Il revient à ce qui s’est passé en classe."
 categories: ["Reprendre le contrôle de ses pensées"]
-tags: ["surgénéralisation", "pensées-automatiques", "HPI", "lycée", "techniques-pratiques"]
+tags: ["surgénéralisation", "pensées-automatiques", "raisonnement", "lycée", "techniques-pratiques"]
 slug: "surgeneralisation-ecole-lycee"
 readingTime: 7
 wordCount: 1762
@@ -21,7 +21,7 @@ Une collègue, Valérie, l'interpelle en passant et lui demande s'il veut partic
 
 ## Qu'est-ce que la surgénéralisation ?
 
-La surgénéralisation est la tendance à tirer une règle générale à partir d'un seul événement, en étendant une conclusion particulière à toutes les situations similaires. Le concept s'inscrit dans le champ des distorsions cognitives étudiées en thérapie cognitive et comportementale, domaines largement développés par Aaron T. Beck et popularisés par David D. Burns. Des recherches en TCC montrent que la surgénéralisation est particulièrement fréquente chez les personnes exposées à l'anxiété ou à la dépression, et qu'elle alimente la paralysie décisionnelle et la rumination.
+La surgénéralisation consiste à tirer une règle plus large que ne le permettent les faits. C’est un repère du cadre cognitif issu notamment des [travaux d’Aaron Beck](https://pubmed.ncbi.nlm.nih.gov/14045261/). Elle peut survenir chez différentes personnes et ne permet pas de reconnaître une dépression, un trouble anxieux ou un haut potentiel.
 
 Dans le cas de Thomas, la surgénéralisation prend la forme d'une pensée qui passe de "cet exercice n'a pas fonctionné" à "je ne sais pas enseigner" puis à "je vais échouer dans l'édition", produisant une cascade de certitudes négatives qui le coupent de choix concrets.
 
@@ -40,7 +40,7 @@ Exemple concret : un enseignant observe un groupe distrait pendant une séance e
 ### 3. Anticipation catastrophique pour les choix d'orientation et de reconversion
 La surgénéralisation influence aussi les décisions majeures. Un refus pour un stage ou un commentaire négatif peut être interprété comme la preuve qu'une voie professionnelle est impossible. Pour Thomas, qui souhaite se reconvertir dans l'édition, une remarque sceptique d'un collègue ou une hésitation lors d'un atelier suffit à transformer son avenir en impasse : s'il ne convainc pas maintenant, il ne réussira jamais dans l'édition. Cette peur viscérale de l'échec est le moteur de son accablement récent, celui qui l'empêche parfois de corriger ses copies ou d'avancer sur son portfolio par simple crainte de confirmer ses propres prédictions sombres.
 
-Exemple concret : un étudiant HPI qui ne reçoit pas d'admission pour un master particulier peut penser qu'il n'a aucun talent pour la recherche et abandonner des options qui lui conviendraient mieux.
+Exemple concret : un étudiant qui ne reçoit pas d'admission pour un master particulier peut penser qu'il n'a aucun talent pour la recherche et abandonner des options qui lui conviendraient mieux.
 
 ## 3 techniques pour reprendre le contrôle face à la surgénéralisation
 
@@ -50,17 +50,17 @@ Cette méthode consiste à isoler l'événement déclencheur et à l'examiner co
 Exercice concret :
 1. Identifiez l'énoncé généralisant (par exemple : "Je suis nul en pédagogie").
 2. Reformulez en une phrase factuelle et datée : "Le 10 mai 2026, lors du TD sur l'évaluation, plusieurs élèves n'ont pas compris cet exercice."
-3. Cherchez des preuves contraires sur une échelle 0 à 10 : notez trois situations où l'enseignement a été efficace (dates, faits, réactions d'élèves).
+3. Notez des situations comparables qui aident à nuancer la conclusion, sans compter les points ni noter d’informations permettant d’identifier un élève.
 4. Concluez par une phrase nuancée : "Un incident s'est produit aujourd'hui, cela ne prouve pas que je sois incapable d'enseigner."
 
-L'exercice s'appuie sur la logique temporelle pour couper l'élan vers la généralisation. Il est particulièrement utile pour les personnes HPI qui ont besoin d'arguments cohérents et précis.
+Le but est de comparer l’ampleur de la conclusion à ce que l’événement permet réellement de dire.
 
 ### 2. Le dossier des exceptions
 Constituer un dossier concret rassemblant les exceptions aux règles négatives permet de contester les généralisations par la preuve empirique.
 
 Exercice concret :
 1. Prenez un carnet ou un dossier numérique.
-2. Chaque semaine, notez au moins deux exemples concrets où vos actions ont donné un résultat positif (retours d'élèves, réussite d'un atelier, compliments d'un collègue).
+2. Si cela vous aide, notez des exemples concrets où vos actions ont donné un résultat positif (retours d'élèves, réussite d'un atelier, compliments d'un collègue).
 3. Pour chaque exemple, précisez la date, le contexte, ce que vous avez fait et le résultat observé.
 4. Relisez ce dossier avant de prendre une décision importante ou quand une pensée généralisante survient.
 
@@ -72,10 +72,10 @@ Plutôt que de laisser la pensée généralisante décider pour vous, planifiez 
 Exercice concret :
 1. Formulez l'hypothèse issue de la surgénéralisation (ex : "Si j'envoie mon manuscrit à une maison d'édition, il sera rejeté et cela prouvera que je ne suis pas fait pour l'édition").
 2. Définissez une expérience courte et limitée dans le temps (par exemple : envoyer une proposition à deux maisons d'édition choisies, préparer un courriel type).
-3. Définissez les critères de succès indépendants du verdict (par exemple : obtenir des retours constructifs, compléter la démarche administrative).
+3. Définissez ce qui dépend de vous, par exemple préparer et envoyer le dossier, et ce qu’un retour éventuel pourra éclairer.
 4. Exécutez l'expérience, notez les résultats et comparez-les à l'hypothèse initiale.
 
-L'approche transforme une croyance globale en une hypothèse testable, ce qui réduit l'impact émotionnel des conclusions hâtives. Pour Thomas, ce protocole l'aide à avancer dans sa reconversion sans que la peur du rejet devienne un frein absolu.
+La démarche peut apporter un retour sur cette proposition précise. Une réponse, même négative, ne tranche pas la question de l’aptitude à travailler dans l’édition. Pour Thomas, ce protocole l'aide à avancer dans sa reconversion sans que la peur du rejet devienne un frein absolu.
 
 ## Thomas commence à poser des choix mesurés
 
@@ -89,6 +89,6 @@ Le soir, chez lui à Lyon, il retrouve Émilie et lui raconte ces micro-décisio
 
 À la fin de cette journée, le bilan de Thomas est simple : la surgénéralisation continue de surgir, mais elle n'est plus la seule voix audible dans sa tête. Il apprend à lui répondre avec des outils concrets, des preuves et de petites expériences qui rétablissent une logique plus fidèle aux faits.
 
-Si vous vous reconnaissez dans ces mécanismes, sachez que cela ne signifie pas une faiblesse personnelle. Les distorsions cognitives comme la surgénéralisation sont des stratégies mentales qui se sont mises en place pour gérer l'incertitude, mais elles peuvent être remises en question par des techniques simples et répétables.
+Un [relevé des pensées](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/) peut aider à comparer la conclusion aux faits. Thomas peut aussi se demander si la consigne était suffisamment claire et ce qu’il pourrait modifier.
 
 Enfin, si la surgénéralisation alimente une détresse importante, une paralysie décisionnelle prolongée ou une souffrance quotidienne, il est recommandé de consulter un professionnel de santé mentale formé à la thérapie cognitive et comportementale. Un accompagnement personnalisé permet d'adapter ces exercices et d'explorer d'autres leviers pour retrouver une capacité d'agir sereine.

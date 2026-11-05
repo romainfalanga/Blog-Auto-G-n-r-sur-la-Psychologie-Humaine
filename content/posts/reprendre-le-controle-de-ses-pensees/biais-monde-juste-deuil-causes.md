@@ -21,9 +21,9 @@ Sa voisine, Geneviève, frappe à la porte en apportant des madeleines. Elles é
 
 ## Qu'est-ce que le biais du monde juste ?
 
-Le biais du monde juste est la tendance à croire que chacun obtient ce qu'il mérite et que l'existence suit une logique équitable. Ce concept, étudié dès les années 1960 par le psychologue social Melvin Lerner, désigne une stratégie mentale qui aide à maintenir un sentiment de sécurité face à l'imprévisible.
+La croyance en un monde juste est l’idée que les gens reçoivent ce qu’ils méritent. Dans une [expérience de 1966](https://pubmed.ncbi.nlm.nih.gov/5969146/), Melvin Lerner et Carolyn Simmons ont observé que, dans certaines conditions, des témoins dévalorisaient une victime innocente. Cela décrit une réaction possible dans ce dispositif, pas la proportion des personnes qui pensent ainsi ni une explication de tous les regrets après un décès.
 
-Dans le cas de Monique, ce biais se manifeste par l'idée implicite que, si tout avait été fait "correctement", Jean-Claude n'aurait pas souffert ou serait encore là. La recherche en psychologie sociale montre que cette croyance est largement partagée : des enquêtes estiment que 50 à 70 % des personnes manifestent une confiance spontanée en un monde ordonné. Lerner explique que ce biais réduit l'anxiété en donnant une apparence de moralité aux événements, sauf qu'il produit souvent de la culpabilité et du blâme quand la réalité s'avère purement aléatoire.
+Monique glisse de « Est-ce que quelque chose aurait pu être fait autrement ? » à « Quelqu’un a forcément mal agi ». Une question sur les soins peut être légitime. Le résultat ne suffit pas, à lui seul, à établir une faute ou à expliquer ce qui se serait passé autrement.
 
 ## Comment le biais du monde juste se manifeste dans le deuil ?
 
@@ -38,23 +38,23 @@ Ce biais pousse à transformer une tragédie en une fable morale, où la vertu d
 Exemple concret : attribuer un décès à un prétendu "manque de volonté" ou à une hygiène de vie imparfaite, plutôt qu'à des facteurs pathologiques, c'est plaquer de la morale sur de la complexité.
 
 ### 3. Résistance au changement et blocage
-Si le monde est censé être juste, transformer son quotidien après la perte peut ressembler à une trahison, comme si s'adapter revenait à admettre que l'univers n'obéit à aucune règle morale. Pour Monique, cette croyance renforce l'immobilisme qu'elle a déjà ressenti lors de ses premières semaines de deuil : elle hésite à vendre la maison, à s'engager dans de nouveaux projets bénévoles ou à accueillir de nouvelles amitiés. Le biais du monde juste peut figer le deuil en le rendant sacré, empêchant toute évolution pratique.
+Monique hésite aussi à accepter une invitation : elle craint qu’un bon moment efface quelque chose de Jean-Claude. Ce sentiment de loyauté ne découle pas nécessairement de la croyance en un monde juste. Le chagrin et la crainte de changer de vie méritent aussi d’être entendus.
 
 Exemple concret : refuser une aide logistique parce que l'accepter signifierait valider que la perte est définitive et non une injustice que l'on pourrait réparer par la souffrance.
 
 ## 3 techniques pour prendre de la distance avec ce biais
 
 ### 1. Le journal des faits et des probabilités
-Technique : Tenir un carnet structuré en deux colonnes : "Ma perception" et "Réalité factuelle". Chaque fois qu'une pensée accusatrice surgit ("Si seulement nous avions..."), notez l'idée dans la première colonne. Dans la seconde, rassemblez les éléments objectifs (dates, diagnostics, avis médicaux) et des données générales (statistiques de santé, limites des traitements). L'objectif est de confronter une intuition morale à la réalité concrète.
+Si une pensée accusatrice revient, distinguez ce que vous savez, ce que vous supposez et ce qui reste inconnu. Pour une question médicale précise, un professionnel peut aider à comprendre un compte rendu ; des statistiques générales ne disent pas ce qui aurait changé le cours de la maladie de Jean-Claude.
 
-Exercice concret : Monique consigne la phrase du carnet de Jean-Claude dans la colonne de gauche. À droite, elle reporte les comptes rendus médicaux montrant l'agressivité de la pathologie malgré les soins. Elle note une information vérifiée sur l'évolution habituelle de cette maladie. Cet exercice aide à dissoudre le lien automatique entre "faute" et "résultat".
+Monique note la phrase du carnet. À côté, elle écrit ce qu’elle sait de la chronologie et les questions qu’elle aimerait poser, sans transformer les inconnues en preuves contre elle.
 
 Pourquoi ça marche : Cette méthode mobilise les capacités d'analyse de Monique pour objectiver ses croyances et réintroduire la notion d'incertitude là où elle voyait une erreur personnelle.
 
 ### 2. La lettre de perspective croisée
 Technique : Écrire une lettre adressée à "l'ordre des choses", en demandant pourquoi cet événement a eu lieu. Ensuite, répondez à votre propre texte en adoptant un point de vue neutre et extérieur (celui d'un chercheur, d'un statisticien ou d'un observateur impartial) qui expose les causes multiples et la part de hasard. Ce dialogue permet de séparer l'émotion de l'explication factuelle.
 
-Exercice concret : Monique écrit : "Pourquoi Jean-Claude, alors qu'il était un homme bon ?". Elle répond ensuite en se mettant à la place d'un clinicien, listant trois facteurs biologiques et génétiques, tout en précisant ce que la science ne peut pas prédire. Elle relit la réponse pour laisser infuser une voix qui ne juge pas, mais qui explique.
+Monique écrit : « Pourquoi Jean-Claude, alors que c’était un homme bon ? » Elle se répond que les qualités d’une personne n’expliquent pas sa maladie et qu’elle peut rester sans réponse sur certains points.
 
 Pourquoi ça marche : La mise en dialogue crée un décalage salutaire. Pour une femme de lettres comme Monique, transformer la pensée en récit dialogué permet de nuancer l'idée d'une justice immanente.
 
@@ -75,6 +75,6 @@ Ces outils s'articulent entre eux : nommer ses émotions la protège des réacti
 
 ---
 
-Se confronter au biais du monde juste ne fait pas disparaître la tristesse, mais permet de briser le cercle de la culpabilité et de l'immobilité. Pour Monique, identifier pourquoi elle cherche un responsable (son parcours d'enseignante, son héritage culturel, sa peur de l'inconnu) lui donne l'espace nécessaire pour ajuster ses réactions. Ces méthodes lui offrent des moyens concrets de transformer un récit moral pesant en une vision plus juste et apaisée de la réalité.
+Repérer le passage du regret à la recherche d’une faute peut aider Monique à prendre un peu de recul. Cela ne dissipe pas le deuil et n’écarte pas les questions concrètes qu’elle pourrait vouloir poser.
 
 Si vous vous retrouvez dans le cheminement de Monique, sachez qu'il est naturel de chercher un sens à ce qui semble injuste. Toutefois, si ces mécanismes finissent par entraver votre quotidien, votre sommeil ou vos liens sociaux, solliciter un professionnel de santé mentale peut s'avérer précieux. La douleur du deuil demande du soutien, et chercher une aide extérieure est un acte de soin envers soi-même.

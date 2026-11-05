@@ -1,7 +1,7 @@
 ---
 title: "Anxiété face à la maladie : quand la blouse cache la peur"
 date: 2026-03-18T04:37:40+00:00
-description: "Priya, médecin, découvre comment l'anxiété face à la maladie s'infiltre sans bruit dans son travail et apprend 3 techniques concrètes pour la gérer."
+description: "Un dossier rappelle à Priya la maladie de son père. Elle remarque sa propre inquiétude et réfléchit au soutien dont elle a besoin."
 categories: ["Comprendre et maîtriser ses émotions"]
 tags: ["anxiété", "santé mentale", "professionnels de santé", "gestion du stress", "psychologie"]
 slug: "anxiete-face-maladie-blouse"
@@ -19,22 +19,26 @@ Le signal sonore du cabinet s'interrompt. Priya replie avec soin la chemise cart
 
 Elle ne met pas de mots sur son anxiété. À la place, elle planifie. Elle rédige les ordonnances, remplit chaque ligne du carnet de suivi et aligne les documents administratifs avec une rigueur presque chirurgicale. Cette surcharge de travail devient son abri : chaque case cochée l'éloigne de la peur qui l'habite. Lorsque Julie, la secrétaire, raccroche le combiné et lui adresse un signe de tête amical, Priya répond par un hochement bref, presque distant. 
 
-Ce réflexe de mise à distance l'interpelle soudain : c'est exactement le même mécanisme de désactivation qu'elle a ressenti récemment après sa soirée avec l'homme qu'elle fréquente. Comme après un moment d'intimité trop intense, elle érige ici une muraille de professionnalisme pour ne pas laisser la vulnérabilité du patient (et la sienne) l'atteindre. Se plonger dans le soin des autres lui offre une contenance tout en érigeant une barrière protectrice.
+Priya reconnaît dans sa façon de se plonger dans les dossiers un geste familier. Il lui rappelle la distance qu’elle a prise après une soirée intime. Ce rapprochement est une piste pour elle ; ni la rigueur professionnelle ni le besoin d’une pause ne suffisent à révéler un style d’attachement.
+
+## Comprendre l’inquiétude face à la maladie
+
+L’annonce ou le souvenir d’une maladie peut raviver des inquiétudes sur la santé d’un proche. L’émotion et la façon d’y répondre varient selon la situation. Dans les métiers du soin, la charge de travail et l’exposition à la détresse peuvent aussi peser sur ce que l’on ressent.
 
 ## Techniques de gestion émotionnelle et de régulation
 
 ### 1. L'identification des mécanismes de défense
 
-Priya utilise l'hyper-productivité pour éviter de se confronter à sa propre vulnérabilité. Reconnaître que l'agitation professionnelle sert de bouclier permet de nommer l'émotion sous-jacente. Au lieu de se laisser submerger par la charge de travail, elle peut s'arrêter pour observer ce que le diagnostic du patient réveille en elle. Elle se rappelle que depuis sa relation avec Damien à 25 ans, elle a appris à transformer sa peur en une autonomie rigide ; aujourd'hui, elle tente de ne plus laisser ce vieux réflexe de survie dicter sa conduite médicale.
+Priya se demande si remplir toutes les cases l’aide à différer la peur qui remonte en pensant à son père. Elle peut aussi regarder les conditions de travail qui pèsent sur elle. L’[INRS](https://www.inrs.fr/risques/psychosociaux/facteurs-risques) cite notamment la surcharge, les exigences émotionnelles et le manque de soutien parmi les facteurs de risques psychosociaux.
 
 ### 2. L'observation des sensations physiques
 
-Plutôt que d'ignorer les signaux de son corps, elle apprend à les décoder. La raideur de sa nuque ou la crispation de sa mâchoire sont des indicateurs précieux. En portant son attention sur ces points de tension sans chercher à les faire disparaître immédiatement, elle parvient à désamorcer l'escalade du stress. Elle applique ici la même vigilance qu'elle commence à exercer dans sa vie privée pour identifier ses "déclencheurs d'évitement".
+Si cela lui convient, Priya peut remarquer le contact de ses pieds au sol ou la tension de sa mâchoire. Le [guide de l’OMS sur le stress](https://tdr.who.int/home/our-work/global-engagement/9789240003927) propose des exercices d’ancrage. Une sensation n’en indique pas la cause : un symptôme physique nouveau ou préoccupant mérite une évaluation plutôt qu’une attribution automatique à l’anxiété.
 
-### 3. La prise de conscience des schémas d'attachement
+### 3. Faire le point sur ses besoins
 
-Assise dans son véhicule, elle perçoit la crispation de ses doigts sur le volant et la texture du siège lui paraît inhabituellement inconfortable. Elle analyse sa réaction : il y a peu, en explorant son profil d'attachement évitant-dédaigneux, elle avait compris sa tendance naturelle à s'isoler face à l'émotion. Elle réalise que son besoin de tout contrôler au cabinet est une extension de ce schéma. Face à la maladie, elle ne fuit pas la pièce, mais elle fuit l'impact émotionnel de la souffrance d'autrui en se réfugiant dans la technique.
+Dans sa voiture à l’arrêt, Priya remarque ses doigts crispés sur le volant. Elle se demande si elle a besoin de repos, d’un échange avec un collègue ou d’un rendez-vous pour elle-même. Elle peut se poser cette question sans attribuer son ressenti à un seul trait de sa personnalité.
 
 ## Priya commence à accepter de ressentir
 
-Ce soir, elle saisit que ce comportement se manifeste au travail sous l'apparence d'un dévouement sans faille. L'anxiété liée à la maladie ne ressemble pas forcément à une crise de panique : elle s'exprime parfois par une quête de perfection clinique. Priya intègre désormais que nommer cette peur constitue sa première véritable étape vers l'apaisement. Elle ne se contente plus de "gérer" ses patients ; elle commence à accepter de ressentir, sans que cela ne menace son intégrité de médecin.
+Ce soir, Priya se demande quelle part de son agitation tient à la charge du cabinet et quelle part tient au souvenir de son père. Elle reconnaît l’inquiétude et décide d’en parler. Elle peut rester attentive à ses patients tout en faisant une place à ses propres besoins.

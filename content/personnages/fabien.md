@@ -16,23 +16,23 @@ draft: false
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-cout-irrecoverable-rupture/">Biais du coût irrécupérable après une rupture amoureuse : comment s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-cout-irrecoverable-rupture/">Biais du coût irrécupérable après une rupture amoureuse : comment s&#x27;en libérer</a></h3>
     <div class="parcours-date">2026-03-08</div>
-    <p class="parcours-resume">Deux ans après son divorce avec Véronique, Fabien, cadre RH, erre dans un parc en se demandant pourquoi il n'arrive pas à tourner la page. Seul dans un appartement qui sent le neuf, loin de ses enfants Marine et Lucas, il réalise qu'il reste accroché non pas à l'amour, mais aux années investies.</p>
+    <p class="parcours-resume">L’air est froid ce soir-là, et Fabien serre son manteau un peu plus fort autour de lui en marchant dans le parc près de chez lui. La lumière des réverbères se reflète sur les flaques d’eau laissées par la pluie de l’après-midi.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Fabien prend du recul sur ses propres pensées et identifie un biais cognitif à l'oeuvre. Cette prise de conscience l'aide à reprendre le contrôle de son raisonnement.</p>
+      <p>Le biais du coût irrécupérable après une rupture amoureuse est un mécanisme naturel qui peut malheureusement prolonger la souffrance si on ne le reconnaît pas. Mais comme Fabien, vous avez la possibilité de reprendre le contrôle sur vos pensées, de vous libérer de ce poids et de vous ouvrir à…</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-cout-irrecoverable-rupture/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/transmissions-transgenerationnelles-avec-ses-parents-guide/">Transmissions transgénérationnelles avec ses parents : s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/transmissions-transgenerationnelles-avec-ses-parents-guide/">Habitudes familiales : Fabien interroge les silences transmis</a></h3>
     <div class="parcours-date">2026-03-18</div>
-    <p class="parcours-resume">Lors d'un déjeuner dominical chez son père, Fabien observe le silence pesant qui règne durant le repas. Il réalise que ce mutisme est identique à celui qu'il a partagé avec son fils Lucas le week-end précédent et à celui qui habitait son appartement depuis son divorce avec Véronique.</p>
+    <p class="parcours-resume">L&#x27;odeur du rôti de bœuf marine dans l&#x27;air épais de la salle à manger paternelle, un parfum de dimanche qui n&#x27;a pas changé depuis trente ans. Fabien ajuste ses lunettes, observant son père qui découpe la viande avec une précision chirurgicale, sans dire un mot.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Fabien prend conscience que son inhibition relationnelle est un héritage transgénérationnel, une 'nappe phréatique invisible' transmise par son père et son grand-père. Il comprend que son rôle de cadre RH est peut-être une tentative de structurer ce chaos émotionnel familial.</p>
+      <p>Le déjeuner se termine. Fabien aide son père à débarrasser la table, un rituel millimétré où chaque assiette retrouve sa place exacte dans le lave-vaisselle.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/transmissions-transgenerationnelles-avec-ses-parents-guide/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -40,43 +40,43 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-solitude/">Isolement social et aliénation face à la solitude</a></h3>
     <div class="parcours-date">2026-03-28</div>
-    <p class="parcours-resume">Le 28 mars 2026, Fabien observe la vie des autres depuis son balcon, confronté à un sentiment d'aliénation malgré une vie matérielle ordonnée. Il analyse la dissonance entre son aisance professionnelle en RH et son incapacité à s'intégrer dans des cercles informels, faisant le lien avec le silence émotionnel observé chez son père.</p>
+    <p class="parcours-resume">Un samedi soir, Fabien reste debout sur son balcon, une tisane oubliée sur la rambarde, et regarde les fenêtres des immeubles d&#x27;en face. Les apparences de sa vie sont ordonnées, tout est à sa place : l&#x27;appartement sent encore le neuf, ses livres sont alignés, son pull col roulé est repassé.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Fabien identifie que sa solitude n'est pas qu'une habitude, mais une conviction profonde d'être inadapté aux groupes. Il comprend que son besoin de maîtrise et son héritage familial agissent comme des barrières à l'imprévu relationnel.</p>
+      <p>Désormais, Fabien applique ces techniques avec la même rigueur qu&#x27;il applique à un audit RH, mais avec plus de douceur. Il s&#x27;inscrit à un petit cercle de lecture du quartier, un rendez-vous de quarante minutes le mardi soir, volontairement sans objectif professionnel.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/isolement-social-alienation-solitude/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/comprendre-envie-ecole-etudes-psychologie/">Comprendre l'envie dans les études : causes et solutions</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/comprendre-envie-ecole-etudes-psychologie/">Comprendre l&#x27;envie dans les études : causes et solutions</a></h3>
     <div class="parcours-date">2026-04-01</div>
-    <p class="parcours-resume">Dans son nouvel appartement, Fabien observe son fils Lucas qui éprouve de l'amertume face à la réussite d'un camarade admis en grande école. Témoin de cette tension silencieuse, Fabien se remémore ses propres années d'études marquées par la compétition et l'influence de son propre père.</p>
+    <p class="parcours-resume">Fabien ajuste ses lunettes tout en observant son fils, Lucas, penché sur son manuel de physique dans le salon de leur nouvel appartement. Le silence n&#x27;est plus aussi pesant que lors de leurs précédentes rencontres, car Fabien a appris à ne plus craindre les blancs dans la conversation, un…</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Fabien délaisse son ancienne posture d'analyse froide et distante pour adopter une approche plus empathique, décidant d'ouvrir le dialogue avec son fils pour l'aider à décoder ce sentiment d'envie.</p>
+      <p>Fabien s&#x27;approche de Lucas et s&#x27;assoit en face de lui, respectant l&#x27;espace de son fils. Il ne cherche pas à donner une leçon de morale, mais à partager une vulnérabilité.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/comprendre-envie-ecole-etudes-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mepris-au-travail-comprendre-et-agir/">Le mépris au travail : le comprendre pour mieux s'en protéger</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mepris-au-travail-comprendre-et-agir/">Le mépris au travail : le comprendre pour mieux s&#x27;en protéger</a></h3>
     <div class="parcours-date">2026-04-05</div>
-    <p class="parcours-resume">Le 05 avril 2026, Fabien subit le mépris d'un jeune consultant externe lors d'une réunion de travail à l'usine. Ce dernier rejette avec condescendance sa proposition de médiation sociale, renvoyant Fabien à un sentiment d'obsolescence professionnelle.</p>
+    <p class="parcours-resume">Le néon du bureau de l&#x27;usine scintille avec un bourdonnement électrique agaçant en ce lundi 05 avril 2026. Fabien ajuste ses lunettes, les yeux fixés sur le compte-rendu de réunion qu&#x27;il vient de recevoir.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Grâce à son esprit analytique de HPI, Fabien identifie le mépris comme un signal émotionnel complexe plutôt qu'une preuve de sa propre infériorité. Il décide de ne plus gaspiller son énergie émotionnelle pour obtenir la validation d'autrui, faisant le lien avec son biais du coût irrécupérable.</p>
+      <p>Fabien pose son stylo sur le bureau. Il ne fuit pas le regard du consultant.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mepris-au-travail-comprendre-et-agir/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/gerer-obligations-rigides-je-dois-il-faut-conflit/">Gérer les "je dois et il faut" (obligations rigides) en conflit</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/gerer-obligations-rigides-je-dois-il-faut-conflit/">Gérer les &quot;je dois et il faut&quot; (obligations rigides) en conflit</a></h3>
     <div class="parcours-date">2026-04-15</div>
-    <p class="parcours-resume">Le mardi 15 avril 2026, Fabien se retrouve dans son nouvel appartement face à une double tension : un message de son ex-épouse Véronique concernant les vacances et l'attitude provocatrice de son fils Lucas. Coincé dans son rôle de médiateur, il ressent physiquement le poids de ses propres exigences de perfection et de contrôle.</p>
+    <p class="parcours-resume">Le carrelage de la cuisine de Fabien brille sous la lumière crue de ce mardi 15 avril 2026. L&#x27;odeur de peinture fraîche de son nouvel appartement, qui l&#x27;obsédait tant il y a quelques semaines, s&#x27;est enfin estompée pour laisser place à un parfum plus neutre.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Fabien prend conscience que sa rigidité mentale, héritée du silence de son père, transforme ses interactions en conflits internes. Il commence à identifier que ses injonctions de type 'je dois' étouffent ses propres besoins et nuisent à sa relation avec son fils.</p>
+      <p>Fabien dépose doucement le verre qu&#x27;il tenait. Au lieu de lancer une remontrance à Lucas sur son manque de politesse, il choisit de s&#x27;asseoir à la table de la cuisine.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/gerer-obligations-rigides-je-dois-il-faut-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -84,10 +84,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/scenario-de-vie-analyse-transactionnelle-famille/">Le scénario de vie en famille : comprendre ses racines</a></h3>
     <div class="parcours-date">2026-04-21</div>
-    <p class="parcours-resume">Fabien, cadre RH récemment installé dans un nouvel appartement à Lyon, fait face au silence de son fils Lucas qui annule une sortie. Cette situation le renvoie à sa propre enfance et à ses difficultés relationnelles persistantes, notamment son divorce avec Véronique et son burn-out latent.</p>
+    <p class="parcours-resume">Le parquet de l&#x27;appartement craque sous les pas de Fabien alors qu&#x27;il transporte une pile de dossiers vers son bureau. En cette fin d&#x27;après-midi du 21 avril 2026, la lumière printanière décline sur Lyon, projetant des ombres étirées sur les murs blancs de son nouveau logement.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Grâce au concept de scénario de vie, Fabien réalise qu'il reproduit inconsciemment le mutisme de son père et son rôle d'enfant parentifié, comprenant que sa posture de médiateur impassible est une stratégie de survie qui l'isole aujourd'hui.</p>
+      <p>Le lendemain de sa réflexion, Fabien décide de mettre en pratique ses découvertes. Lorsque Lucas passe à l&#x27;appartement pour récupérer des affaires de sport, le silence habituel menace de s&#x27;installer.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/scenario-de-vie-analyse-transactionnelle-famille/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -95,10 +95,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/positions-de-vie-travail-analyse-transactionnelle/">Positions de vie au travail : sortir des schémas répétitifs</a></h3>
     <div class="parcours-date">2026-04-25</div>
-    <p class="parcours-resume">Fabien, cadre RH de cinquante ans, se retrouve paralysé par un courriel de Julie, une jeune responsable d'équipe contestant ses directives. Malgré son autorité fonctionnelle, il s'apprête à rédiger une réponse excessivement soumise pour éviter le conflit, ravivant ses blessures liées à son divorce avec Véronique et son rôle d'enfant parentifié.</p>
+    <p class="parcours-resume">Fabien ajuste ses lunettes devant l&#x27;écran de son ordinateur, dans le silence feutré de son bureau à l&#x27;usine. Le ronronnement lointain des machines de production lui parvient comme un écho rassurant, contrastant avec l&#x27;agitation intérieure qu&#x27;il ressent depuis son arrivée.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Fabien identifie sa tendance à la soumission (position -/+) comme un mécanisme de survie hérité de son passé familial. Il décide de rompre avec cet automatisme pour chercher une position d'équilibre (+/+) où il se respecte tout en respectant l'autre.</p>
+      <p>Assis dans son bureau, Fabien prend une inspiration lente et efface le brouillon de sa réponse à Julie. Il se rappelle son parcours : le deuil de son couple avec Véronique, cette tendance à s&#x27;effacer qu&#x27;il a héritée de son père, et ce sentiment d&#x27;obsolescence qu&#x27;il a parfois ressenti face à la…</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/positions-de-vie-travail-analyse-transactionnelle/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -106,32 +106,32 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/malediction-du-savoir-manager-hpi/">Biais de la malédiction du savoir en tant que manager</a></h3>
     <div class="parcours-date">2026-05-03</div>
-    <p class="parcours-resume">Lors d'une réunion en usine le 3 mai 2026, Fabien, cadre RH, échoue à faire comprendre une décision technique à son équipe et à Julie, la responsable d'équipe. Confronté à des regards fuyants et à un courriel sec, il réalise qu'il utilise des raccourcis mentaux inaccessibles à ses interlocuteurs.</p>
+    <p class="parcours-resume">La porte de la salle de réunion s&#x27;ouvre sur un souffle d&#x27;air froid chargé d&#x27;odeur d&#x27;huile et de papier. Fabien tient un marqueur dans la main droite, la capuche de son pull col roulé froissée par le geste.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Fabien prend conscience que son expertise crée un 'mur de verre' et qu'il reproduit malgré lui le silence pesant de son père. Il comprend que pour être un manager efficace, il doit traduire son savoir dense en informations maniables sans sombrer dans ses anciens réflexes de soumission.</p>
+      <p>De retour à son appartement qui sent encore le neuf, Fabien relit ses notes. Il se rappelle les exercices sur les injonctions de type &quot;je dois&quot; qui l&#x27;avaient tant paralysé face à Lucas et Véronique.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/malediction-du-savoir-manager-hpi/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/compulsion-repetition-freud-seul-face-soi-meme/">Compulsion de répétition : pourquoi reproduit-on les mêmes échecs ?</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/compulsion-repetition-freud-seul-face-soi-meme/">La compulsion de répétition selon Freud : une lecture</a></h3>
     <div class="parcours-date">2026-05-08</div>
-    <p class="parcours-resume">Seul dans son nouvel appartement à Lyon le 8 mai, Fabien prépare une omelette en réfléchissant à son isolement croissant. Il réalise que son mutisme, qui a causé l'échec de son mariage avec Véronique, est une reproduction exacte du comportement de son père.</p>
+    <p class="parcours-resume">Fabien ajuste ses lunettes devant le reflet de la baie vitrée qui surplombe Lyon. En ce vendredi 8 mai, jour férié et calme, le silence de son nouvel appartement est presque palpable.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Fabien identifie son mécanisme de compulsion de répétition lié à son passé d'enfant parentifié. Il comprend que son besoin de contrôle et son retrait social, bien que protecteurs, risquent de transmettre ce même schéma de solitude à son fils Lucas.</p>
+      <p>Fabien repose sa fourchette. Il vient de passer dix minutes à observer sa réaction face au silence de la pièce.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/compulsion-repetition-freud-seul-face-soi-meme/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/adultification-avec-ses-parents-sortir-schema/">L'adultification avec ses parents : sortir du rôle de pilier</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/adultification-avec-ses-parents-sortir-schema/">Parentification : Fabien questionne son rôle de pilier</a></h3>
     <div class="parcours-date">2026-05-18</div>
-    <p class="parcours-resume">Lors d'un déjeuner dominical chez son père, Fabien se retrouve instinctivement à gérer les factures et l'anxiété de son géniteur. Il réalise que ce rôle de 'parent de son parent' est un automatisme épuisant qu'il transpose également dans son métier de cadre RH.</p>
+    <p class="parcours-resume">Fabien ajuste ses lunettes devant le buffet en chêne de la salle à manger paternelle. L&#x27;odeur de la cire et du rôti dominical flotte dans l&#x27;air, une fragrance immuable qui semble figer le temps.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Fabien identifie son mécanisme d'adultification : il comprend que son hyper-responsabilisation et son besoin de contrôle, hérités de l'enfance, ont saboté son mariage et menacent désormais sa relation avec son fils Lucas.</p>
+      <p>Assis sur le bord du canapé de son père, Fabien sent le poids des factures dans sa main. D&#x27;habitude, il les aurait emportées pour les traiter chez lui, le soir, entre deux dossiers de licenciement.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/adultification-avec-ses-parents-sortir-schema/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

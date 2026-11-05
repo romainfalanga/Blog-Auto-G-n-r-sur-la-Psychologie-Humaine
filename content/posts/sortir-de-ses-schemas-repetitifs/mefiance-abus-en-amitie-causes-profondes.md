@@ -17,13 +17,13 @@ Le carrelage de la petite brasserie près de l'association brille sous les néon
 
 Djamila se fige instantanément. Elle sent le contact de la main d'Amina comme une brûlure légère, une intrusion. Son regard devient soudainement froid et analytique, balayant le visage de son amie à la recherche d'une faille. Que veut-elle vraiment en échange ? Est-ce une manière de prouver qu'elle est plus efficace au travail ? Va-t-elle utiliser ce service pour lui demander une faveur impossible plus tard ? Le souvenir de Samir, son ex-conjoint, surgit sans prévenir, lui rappelant que chaque geste de gentillesse était, chez lui, un hameçon destiné à la piéger. Elle revoit encore les murs de l'appartement qu'elle a dû reconstruire seule, brique par brique, après avoir fui ses manipulations.
 
-Elle retire doucement son bras, prétextant vouloir attraper une serviette. Depuis qu'elle a commencé à travailler sur son stress post-traumatique complexe après le décès de sa grand-mère, elle sait que ces pensées sont des réflexes de survie, mais la sensation de danger est bien réelle. Elle voit Amina froncer les sourcils, perplexe devant ce recul soudain. Djamila aimerait lui expliquer que ce n'est pas contre elle, mais les mots restent coincés. Sa combativité habituelle, celle qui lui permet de tenir debout pour son fils de 6 ans, se transforme ici en une armure de glace, l'isolant du monde extérieur alors même qu'elle a besoin de soutien.
+Elle retire doucement son bras, prétextant vouloir attraper une serviette. Depuis qu’elle parle avec son médecin des souvenirs ravivés après le décès de sa grand-mère, elle sait que ces pensées sont des réflexes de survie, mais la sensation de danger est bien réelle. Elle voit Amina froncer les sourcils, perplexe devant ce recul soudain. Djamila aimerait lui expliquer que ce n'est pas contre elle, mais les mots restent coincés. Sa combativité habituelle, celle qui lui permet de tenir debout pour son fils de 6 ans, se transforme ici en une armure de glace, l'isolant du monde extérieur alors même qu'elle a besoin de soutien.
 
 ## Définition du concept de méfiance et abus
 
-Le schéma de méfiance et d'abus est la croyance inconditionnelle que les autres nous feront du mal, nous manipuleront, nous humilieront ou nous trahiront intentionnellement. Ce concept a été théorisé par le psychologue américain Jeffrey Young dans le cadre de la thérapie des schémas. Selon Young, ce schéma se développe souvent durant l'enfance ou à la suite de relations d'emprise prolongées, créant une vision du monde où la vulnérabilité est perçue comme un danger.
+Dans la [thérapie des schémas](https://www.schematherapysociety.org/Schema-Therapy) de Jeffrey Young, « méfiance et abus » désigne l’attente que les autres puissent nous tromper, nous humilier ou profiter de nous. C’est un concept du modèle. Il ne permet ni de poser un diagnostic ni de décider si quelqu’un est fiable. La prudence face à des violences ou à des pressions réelles est justifiée.
 
-Pour une femme comme Djamila, ce schéma agit comme un filtre déformant la réalité. Ce n'est pas une simple timidité ou une prudence passagère, c'est une structure cognitive rigide qui dicte que derrière chaque acte de générosité se cache une intention malveillante. Le cerveau, en état d'alerte constante, scanne l'environnement à la recherche de preuves confirmant que l'autre n'est pas fiable. C'est une stratégie de protection qui finit par emprisonner la personne dans une solitude défensive, empêchant la création de liens authentiques.
+Djamila craint qu’Amina attende quelque chose en retour. Le souvenir de Samir donne du poids à cette crainte. Elle peut se demander ce qu’elle observe aujourd’hui et ce dont elle aurait besoin pour répondre librement à l’offre.
 
 ## Manifestations du schéma en amitié
 
@@ -43,7 +43,7 @@ Le cerveau hypervigilant interprète chaque petit changement de comportement com
 
 ## Techniques pour désamorcer la méfiance
 
-Sortir de ce schéma demande un travail de rééducation émotionnelle. Il s'agit de réapprendre au système nerveux que la sécurité peut exister dans le lien avec l'autre, tout en conservant un discernement sain.
+Djamila essaie de faire la différence entre un indice ambigu et un comportement qui appelle une limite. Aucun exercice n’oblige à faire confiance, à confier quelque chose de personnel ni à écarter un danger.
 
 ### 1. La technique des preuves contradictoires
 
@@ -55,11 +55,11 @@ Pour réapprendre la vulnérabilité sans se sentir en danger, il est utile d'ut
 
 ### 3. L'ancrage corporel de sécurité
 
-Lorsque le schéma s'active, le corps entre en mode combat ou fuite. La technique consiste à identifier le signal physique de la méfiance : pour Djamila, c'est une tension dans les mâchoires et un retrait du buste, des symptômes qu'elle a appris à identifier comme des déclencheurs de son C-PTSD. À ce moment précis, pratiquez l'exercice du balayage sensoriel 5-4-3-2-1. Nommez intérieurement cinq couleurs que vous voyez, quatre sons que vous entendez, trois textures que vous pouvez toucher, deux odeurs et un goût. En ramenant l'attention sur les sens immédiats, vous coupez court au scénario catastrophe mental et signalez à votre cerveau que vous êtes ici et maintenant, en sécurité, loin du passé toxique.
+Quand elle se sait à l’abri, Djamila peut remarquer le contact de ses pieds au sol et regarder autour d’elle. Le [guide de l’OMS sur le stress](https://tdr.who.int/home/our-work/global-engagement/9789240003927) propose des exercices de ce type. Ils donnent un point d’appui dans l’instant ; ils ne démontrent pas qu’une personne est fiable et ne sont pas un traitement du TSPT.
 
 ## Djamila commence à baisser la garde
 
-De retour au bureau, Djamila repense à sa réaction lors du déjeuner. Elle sent encore cette raideur dans sa nuque, mais elle refuse de laisser son passé dicter son présent. Elle se souvient que son cerveau est comme un système d'alarme trop sensible qui se déclenche au moindre courant d'air depuis la disparition de sa grand-mère. Elle décide d'appliquer la technique des preuves contradictoires avant de reprendre son travail de suivi avec les femmes qu'elle accompagne.
+De retour au bureau, Djamila repense à sa réaction lors du déjeuner. Elle sent encore cette raideur dans sa nuque, mais elle refuse de laisser son passé dicter son présent. Elle reconnaît cette impression d'être en alerte alors qu'elle ne sait pas encore ce que son amie attend. Elle décide d'appliquer la technique des preuves contradictoires avant de reprendre son travail de suivi avec les femmes qu'elle accompagne.
 
 Elle se remémore tous les moments où Amina a été présente pour elle sans rien demander en retour. Elle se rappelle le jour où Amina a apporté des gâteaux pour Adam sans raison particulière, ou la fois où elle l'a écoutée sans jugement après l'enterrement. Ces faits sont têtus, ils ne collent pas avec l'image d'une manipulatrice. Djamila sent une légère détente dans sa poitrine, un espace qui s'ouvre. Ce n'est pas encore de la confiance totale, mais c'est une suspension de l'incrédulité.
 
@@ -67,7 +67,7 @@ En fin de journée, Djamila croise Amina dans le couloir. Au lieu de baisser les
 
 ---
 
-Comprendre l'origine de sa méfiance est la première étape pour transformer ses relations. Le schéma de méfiance et abus n'est pas une fatalité ni un trait de caractère immuable, mais une cicatrice psychologique qui nécessite du soin et de la patience. En identifiant les déclencheurs et en pratiquant des techniques d'ancrage, il devient possible de distinguer les dangers réels des fantômes du passé.
+Djamila peut prendre son temps : accepter un service, le décliner ou demander plus d’informations. Le comportement d’Amina au fil du temps compte davantage qu’un seul geste, agréable ou inquiétant.
 
 Le chemin vers une confiance sereine est rarement linéaire. Il y aura des jours de recul et des jours d'ouverture, comme pour Djamila. L'essentiel est de rester bienveillant envers soi-même et de reconnaître que cette hypervigilance a un jour servi à vous protéger. Aujourd'hui, vous pouvez apprendre à déposer les armes, une étape à la fois, pour laisser entrer de nouveau la lumière de l'amitié sincère.
 

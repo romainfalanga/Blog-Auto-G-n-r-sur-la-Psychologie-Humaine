@@ -1,7 +1,7 @@
 ---
 title: "Patrick"
 date: 2026-10-30T08:24:22+00:00
-description: "Patrick est chef d'équipe dans le BTP, marié et grand-père. Il entame une démarche de guérison émotionnelle par l'écriture expressive pour briser le cycle du silence et de la colère hérité de son père."
+description: "Chef d’équipe dans le BTP, marié et grand-père, Patrick essaie d’écrire quelques lignes sur son père et choisit ce qu’il partage avec ses proches."
 slug: "patrick"
 prenom: "Patrick"
 date_naissance: "1969-10-28"
@@ -16,34 +16,34 @@ draft: false
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-famille/">Surcontrôle émotionnel/inhibition en famille : comment s'en libérer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-famille/">En famille, Patrick laisse voir ce qu’il ressent</a></h3>
     <div class="parcours-date">2026-03-15</div>
-    <p class="parcours-resume">Le dimanche 15 mars 2026, lors d'un repas chez Catherine, Patrick se retrouve incapable de manifester son empathie envers sa fille Stéphanie qui traverse une période difficile. Malgré un fort élan intérieur, il réagit par une banalité sur la météo pour masquer son émotion.</p>
+    <p class="parcours-resume">Le soleil entre par la fenêtre de la cuisine et réchauffe la tasse de café posée devant Patrick. Aujourd&#x27;hui, c&#x27;est dimanche 15 mars 2026, et la maison de Catherine sent le pain grillé et la soupe de légumes.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Patrick prend conscience que son surcontrôle émotionnel, hérité de l'éducation rigide de son père, agit désormais comme une prison qui l'empêche de se lier intimement avec ses enfants adultes.</p>
+      <p>Depuis sa prise de conscience, Patrick change peu à peu. Il a commencé par nommer ses émotions, un geste discret qu&#x27;il pratique tôt le matin avant que la maison ne s&#x27;éveille.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/surcontrole-emotionnel-famille/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-point-aveugle-face-vieillissement-psychologie/">Biais du point aveugle face au vieillissement : le voir en soi</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-point-aveugle-face-vieillissement-psychologie/">Au chantier, Patrick revoit son jugement</a></h3>
     <div class="parcours-date">2026-03-18</div>
-    <p class="parcours-resume">Sur son chantier, Patrick ressent de vives douleurs physiques liées à l'âge mais les ignore tout en jugeant sévèrement la fatigue d'un jeune intérimaire. Malgré ses efforts récents pour être plus à l'écoute de ses émotions, il reproduit inconsciemment le comportement stoïque et déniant de son père Marcel face au vieillissement.</p>
+    <p class="parcours-resume">Le froid de ce matin de mars pique les mains de Patrick alors qu&#x27;il déplie le plan de masse sur le capot de son utilitaire. À 56 ans, le geste devrait être machinal, mais une décharge électrique parcourt ses lombaires, l&#x27;obligeant à se figer un instant, le souffle court.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Patrick prend conscience qu'il est prisonnier d'une rigidité mentale héritée de son éducation, le rendant aveugle à ses propres limites physiques alors qu'il est très lucide sur celles des autres.</p>
+      <p>En rentrant, Patrick pense au reproche de son collègue. Il remarque qu’il se montre attentif à la manière dont les autres jugent et qu’il a peu interrogé sa propre impression.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-point-aveugle-face-vieillissement-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-face-au-vieillissement-accepter-limites/">Vulnérabilité face au vieillissement : l'accepter pour revivre</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-face-au-vieillissement-accepter-limites/">Patrick accepte un coup de main</a></h3>
     <div class="parcours-date">2026-03-22</div>
-    <p class="parcours-resume">Patrick, un ancien chef de chantier de 56 ans souffrant d'arthrose, se retrouve incapable d'ouvrir un bocal de haricots sous les yeux de sa femme Catherine. Malgré son éducation rigide prônant l'invulnérabilité, il choisit de ne pas exploser de colère et finit par avouer son impuissance physique.</p>
+    <p class="parcours-resume">Patrick lutte contre un bocal de haricots verts dont le couvercle semble soudé par une force invisible. Ses mains, marquées de cicatrices blanchies et de cals durcis par quarante ans de chantier, glissent sur le verre froid.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Patrick commence à briser l'armure de force héritée de son père en acceptant sa fragilité physique et émotionnelle. Il comprend que son silence passé a créé une distance avec ses proches et choisit l'authenticité plutôt que la performance.</p>
+      <p>Assis sur le banc en bois du jardin, Patrick observe son petit-fils Léo qui tente de construire un château de sable dans le carré de terre sous le cerisier. D&#x27;habitude, il se serait précipité pour lui montrer comment faire, pour diriger, pour être le chef qui sait tout.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-face-au-vieillissement-accepter-limites/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -51,87 +51,87 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/nostalgie-face-a-la-solitude-comprendre-emotions/">Nostalgie face à la solitude : comprendre et mieux vivre</a></h3>
     <div class="parcours-date">2026-03-30</div>
-    <p class="parcours-resume">Seul dans son garage, Patrick manipule les vieux outils de son père Marcel tout en faisant face au silence de sa maison depuis le départ de ses enfants. Confronté à ses propres limites physiques et à la solitude, il se remémore des moments de vulnérabilité récents, comme son incapacité à ouvrir un bocal devant sa femme Catherine.</p>
+    <p class="parcours-resume">Patrick manipule un vieux niveau à bulle en aluminium, dont la peinture verte s&#x27;écaille sous ses doigts calleux. Le métal est froid, marqué par des décennies de chantiers éprouvants.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Patrick commence à déconstruire le modèle de dureté hérité de son père pour accepter sa propre vulnérabilité, réalisant que la nostalgie est un pont nécessaire entre l'homme fort qu'il était et celui qu'il devient.</p>
+      <p>Assis dans son garage, Patrick repose doucement le niveau à bulle sur l&#x27;établi. Il ne le range pas tout de suite dans la caisse à outils.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/nostalgie-face-a-la-solitude-comprendre-emotions/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/impuissance-face-au-vieillissement-signes-et-solutions/">Impuissance face au vieillissement : comment l'apprivoiser ?</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/impuissance-face-au-vieillissement-signes-et-solutions/">Au chantier, Patrick retrouve une marge d’action</a></h3>
     <div class="parcours-date">2026-04-06</div>
-    <p class="parcours-resume">Le 06 avril 2026, Patrick subit une violente décharge lombaire sur son chantier alors qu'il observe le jeune Antoine manipuler des charges avec aisance. Incapable de maintenir son rôle de pilier physique, il se retire à l'écart pour confronter son sentiment d'impuissance face au déclin de son corps.</p>
+    <p class="parcours-resume">Le vrombissement de la pelleteuse s&#x27;arrête brusquement, laissant place au sifflement du vent sur le chantier de ce lotissement en lisière de forêt. Patrick ajuste son casque blanc, les pieds ancrés dans la boue fraîche de ce 06 avril 2026.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Patrick prend conscience que son identité, bâtie sur la force brute et l'utilité physique, s'effondre. Il réalise que son 'biais du point aveugle' l'a empêché d'accepter sa propre fatigue, le laissant désormais face à un vide identitaire et une perte de contrôle totale.</p>
+      <p>En rentrant du chantier ce soir-là, Patrick ne se réfugie pas immédiatement dans son garage pour s&#x27;isoler avec ses souvenirs. Il s&#x27;assoit à la table de la cuisine où Catherine prépare le dîner.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/impuissance-face-au-vieillissement-signes-et-solutions/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/colere-en-situation-de-conflit-comprendre-s-affirmer/">Colère en situation de conflit : comprendre et s'affirmer</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/colere-en-situation-de-conflit-comprendre-s-affirmer/">Colère en situation de conflit : comprendre et s&#x27;affirmer</a></h3>
     <div class="parcours-date">2026-04-10</div>
-    <p class="parcours-resume">Sur son chantier le 10 avril 2026, Patrick a explosé de rage contre son jeune ouvrier Antoine après avoir manqué de le renverser à cause d'une vive douleur aux lombaires. Réfugié dans sa camionnette, il lutte désormais contre la honte et des tremblements physiques après ce débordement de fureur inédit.</p>
+    <p class="parcours-resume">L&#x27;odeur de la poussière de béton et le vrombissement de la pelleteuse s&#x27;engouffrent dans la cabine de la camionnette où Patrick se réfugie. Ses mains, burinées par quarante ans de labeur, agrippent le volant écaillé avec une force qui fait blanchir ses phalanges.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Patrick réalise que sa colère est un mécanisme de défense masquant sa peur du déclin physique et son sentiment d'impuissance. Il comprend que son armure de silence s'est brisée, libérant un torrent émotionnel qu'il ne parvient plus à contrôler comme le faisait son père.</p>
+      <p>Dans la camionnette, Patrick reprend son souffle après avoir demandé à un collègue de garder la zone dégagée. Il attend de pouvoir parler puis rejoint Antoine.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/colere-en-situation-de-conflit-comprendre-s-affirmer/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/resilience-emotionnelle-lors-un-deuil-comprendre/">Résilience émotionnelle lors d'un deuil : le parcours de Patrick</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/resilience-emotionnelle-lors-un-deuil-comprendre/">Après la mort de Marcel, Patrick partage un souvenir</a></h3>
     <div class="parcours-date">2026-04-17</div>
-    <p class="parcours-resume">Trois jours après l'enterrement de son père Marcel, Patrick se recueille dans son garage, confronté au vide et à ses douleurs physiques persistantes. Malgré sa pudeur habituelle, il tente de briser son isolement émotionnel vis-à-vis de sa femme Catherine et de ses enfants, Stéphanie et Julien.</p>
+    <p class="parcours-resume">Patrick est immobile devant l&#x27;établi du garage, les mains posées à plat sur le bois froid et marqué par les années. Une fine couche de poussière recouvre les outils que son père, Marcel, rangeait avec une précision militaire.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Patrick commence à comprendre que la véritable force ne réside pas dans le refoulement ou l'armure de pierre héritée de son père, mais dans l'acceptation de sa propre vulnérabilité et la capacité à survivre à ses émotions.</p>
+      <p>Patrick quitte enfin l&#x27;établi. Il ne range pas la pince multiprise.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/resilience-emotionnelle-lors-un-deuil-comprendre/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-de-leurre-face-au-vieillissement-quotidien/">Effet de leurre face au vieillissement : déjouer les pièges</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-de-leurre-face-au-vieillissement-quotidien/">Effet de leurre : Patrick compare trois abonnements</a></h3>
     <div class="parcours-date">2026-04-28</div>
-    <p class="parcours-resume">Le 28 avril 2026, Patrick se rend dans un magasin de bricolage pour rénover l'étagère de son petit-fils Léo tout en luttant contre une douleur lombaire persistante. Face à une publicité pour une salle de sport senior, il se retrouve confronté à trois offres tarifaires conçues pour déclencher l'effet de leurre.</p>
+    <p class="parcours-resume">L&#x27;odeur de la peinture fraîche dans le rayon bricolage de ce grand magasin de banlieue parisienne pique les narines de Patrick. Aujourd&#x27;hui, 28 avril 2026, il cherche de quoi rénover l&#x27;étagère de son petit-fils Léo.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Patrick passe d'une posture de force héritée de son père à une acceptation de sa vulnérabilité, ce qui lui permet de questionner ses automatismes de consommation au lieu de céder à une impulsion marketing.</p>
+      <p>Patrick s’éloigne du panneau sans remplir le formulaire. Il a noté les trois prix et le nombre de séances.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-de-leurre-face-au-vieillissement-quotidien/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-angle-mort-vieillissement-psychologie/">Biais de l'angle mort face au vieillissement : le comprendre</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-angle-mort-vieillissement-psychologie/">Au travail, Patrick prend sa douleur au sérieux</a></h3>
     <div class="parcours-date">2026-05-02</div>
-    <p class="parcours-resume">Sur un chantier à Lyon, Patrick, 56 ans, s'apprête à réprimander son jeune collègue Antoine pour une mauvaise posture de travail. Au même instant, il est frappé par une violente douleur lombaire qu'il s'efforçait d'ignorer depuis son réveil.</p>
+    <p class="parcours-resume">L&#x27;air frais de ce début de mois de mai pique les joues de Patrick alors qu&#x27;il grimpe sur l&#x27;échafaudage du chantier de rénovation. À cinquante-six ans, il connaît chaque bruit de ce quartier de Lyon, chaque craquement du bois et chaque sifflement du vent entre les poutres.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Patrick prend conscience de son biais de l'angle mort : il réalise qu'il projette ses propres limites physiques sur les autres pour éviter d'affronter son propre vieillissement et l'héritage de dureté légué par son père Marcel.</p>
+      <p>Après s’être mis en sécurité, Patrick s’assoit et demande à Antoine de prendre un instant pour regarder comment ils pourraient déplacer les charges autrement.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-angle-mort-vieillissement-psychologie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/acting-out-passage-a-l-acte-famille/">Acting out en famille : comprendre le passage à l'acte</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/acting-out-passage-a-l-acte-famille/">Quand Patrick abîme l’établi de son père</a></h3>
     <div class="parcours-date">2026-05-11</div>
-    <p class="parcours-resume">Alors qu'il triait les papiers de son défunt père avec sa femme Catherine, Patrick subit une surcharge émotionnelle. Il s'isole brusquement dans le garage de Marcel pour détruire un établi à coups de massue, illustrant un passage à l'acte violent face à son deuil impossible à verbaliser.</p>
+    <p class="parcours-resume">Patrick fixe le cadran de sa montre à quartz. Onze heures pile, ce lundi 11 mai 2026.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Patrick prend conscience que son corps court-circuite sa pensée par des décharges physiques brutales lorsqu'il se sent vulnérable. Il réalise que son éducation l'empêchant de pleurer transforme son chagrin en une destruction gratuite qui l'effraie désormais.</p>
+      <p>Assis à distance de la massue, Patrick écoute le silence de la maison. Il entend Catherine lui dire depuis le couloir qu’elle s’est éloignée quand elle a entendu les coups.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/acting-out-passage-a-l-acte-famille/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/ecriture-expressive-pennebaker-en-famille-guide/">Écriture expressive (Pennebaker) en famille : le guide de Patrick</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/ecriture-expressive-pennebaker-en-famille-guide/">Patrick ouvre un carnet après la mort de Marcel</a></h3>
     <div class="parcours-date">2026-05-16</div>
-    <p class="parcours-resume">Seul dans son garage, Patrick contemple les dégâts qu'il a causés à son établi lors d'une crise de colère passée. Hanté par le deuil de son père Marcel et ses douleurs physiques, il décide de suivre le conseil de sa fille Stéphanie en commençant à écrire dans un carnet neuf.</p>
+    <p class="parcours-resume">La poussière danse dans le rai de lumière qui traverse le garage de Marcel. Patrick passe ses doigts calleux sur le rebord de l&#x27;établi qu&#x27;il a violemment amoché il y a quelques jours.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Patrick passe du stoïcisme violent à la vulnérabilité en acceptant que l'écriture expressive peut servir d'exutoire à ses émotions refoulées. Il comprend que son silence et sa rage étaient un héritage paternel toxique qu'il doit briser pour préserver ses relations familiales.</p>
+      <p>Patrick tient son stylo bille comme il tiendrait un burin, fermement, presque trop. Sur la première page blanche, il écrit : &quot;Papa est parti et je me sens comme un gosse perdu dans le brouillard&quot;.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/ecriture-expressive-pennebaker-en-famille-guide/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

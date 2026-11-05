@@ -18,32 +18,32 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/overthinking-surpensee-travail/">Overthinking (surpensée) au travail : le reconnaître enfin</a></h3>
     <div class="parcours-date">2026-03-15</div>
-    <p class="parcours-resume">Tard le soir dans son appartement parisien, Sophie s'épuise à réécrire obsessionnellement une fonction de code pour une démo prévue le lendemain. Elle rumine également sur une remarque de son collègue Marc, interprétant un silence de réunion comme une perte de crédibilité totale.</p>
+    <p class="parcours-resume">Il est 21h, l&#x27;écran de Sophie clignote en bleu dans son petit appartement parisien. Elle est assise devant son bureau, sa tasse de thé vert refroidit à côté du clavier, et ses doigts repartent une fois de plus sur la même fonction qu&#x27;elle réécrit pour la dixième fois.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Sophie réalise que sa surpensée n'est pas de la rigueur mais un moteur d'épuisement qui la pousse à l'auto-critique systématique. Elle décide d'interrompre le cycle en documentant son état émotionnel sans chercher de solution immédiate.</p>
+      <p>Ce soir, Sophie applique la règle des 5 minutes. Elle inscrit sa pensée : &quot;Et si la démo plante, je serai exposée.&quot; Elle note un 8 sur 10.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/overthinking-surpensee-travail/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-dunning-kruger-decision-importante/">Effet Dunning-Kruger : comment décider sans se tromper ?</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/effet-dunning-kruger-decision-importante/">Effet Dunning-Kruger : évaluer ce qu’on sait faire</a></h3>
     <div class="parcours-date">2026-03-18</div>
-    <p class="parcours-resume">Sophie hésite à envoyer sa candidature pour un poste de directrice technique dans une association tout en préparant du thé dans son salon. Elle se remémore une discussion avec son amie Claire au parc, qui soulignait ses contradictions entre sa confiance excessive sur des sujets nouveaux et ses doutes sur ses expertises réelles.</p>
+    <p class="parcours-resume">Le vent frais de mars siffle légèrement contre la vitre du petit bureau que Sophie a aménagé dans son salon. Ses doigts survolent le clavier, mais restent suspendus au-dessus de la touche Entrée.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Sophie prend conscience que sa perception de ses propres compétences est déformée par l'effet Dunning-Kruger, réalisant qu'elle sous-estime ses acquis techniques tout en simplifiant peut-être trop les défis du management.</p>
+      <p>Assise sur son tapis de yoga, Sophie ne cherche pas cette fois à vider son esprit, mais à observer ses pensées avec la distance qu&#x27;elle a commencé à acquérir ces dernières semaines. Elle repense à son travail précédent sur la surpensée.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-dunning-kruger-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets/">Anxiété au travail : signes discrets qui passent inaperçus</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets/">Anxiété au travail : quand l’inquiétude prend de la place</a></h3>
     <div class="parcours-date">2026-03-20</div>
-    <p class="parcours-resume">Sophie, installée dans son open-space parisien, lutte contre son anxiété face à un message de son collègue Marc et à une réunion imminente. Elle tente de gérer ses ruminations en utilisant son carnet de notes tout en analysant ses comportements de sur-analyse et de vérification excessive de son code.</p>
+    <p class="parcours-resume">Sophie est assise à son bureau en open-space. L&#x27;icône de message de Marc clignote dans la barre, et elle observe le petit point lumineux sans intervenir.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Sophie réalise que sa rigueur technique extrême est en réalité une stratégie de défense contre la peur de perdre sa crédibilité. Elle commence à percevoir l'anxiété comme la racine de ses distorsions cognitives et de son sentiment d'imposture.</p>
+      <p>Sophie applique la « boîte à soucis » pendant une pause avec ses collègues. Quand Marc lui envoie un message pour demander un ajustement mineur sur une API, elle marque immédiatement l&#x27;inquiétude : « peur d&#x27;être jugée », aucun reproche dans le message, première action : répondre en décrivant…</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/anxiete-au-travail-signes-discrets/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -51,10 +51,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-parents/">Exigences élevées et critique excessive avec ses parents</a></h3>
     <div class="parcours-date">2026-03-30</div>
-    <p class="parcours-resume">Lors d'un déjeuner dominical chez ses parents à Nantes, Sophie est confrontée à leurs questions pressantes concernant sa candidature à un poste de directrice technique. Malgré ses réussites en tant que développeuse web, elle se sent redevenir une petite fille soumise à un jugement constant, luttant contre son anxiété et son besoin de perfection.</p>
+    <p class="parcours-resume">L&#x27;odeur du rôti de bœuf et du romarin emplit la salle à manger de ses parents, à Nantes, ce 30 mars 2026. Sophie ajuste ses lunettes rondes et lisse machinalement le tissu de son pantalon à pinces.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Sophie prend conscience que son épuisement mental ne vient pas seulement de l'attente d'une réponse professionnelle, mais d'un standard d'excellence invisible et rigide qu'elle s'impose pour se sentir digne de l'estime de ses parents.</p>
+      <p>Alors que le dessert est servi, une tarte aux pommes dont la pâte est légèrement trop cuite sur les bords, sa mère s&#x27;en excuse plusieurs fois. Sophie observe la scène avec une lucidité nouvelle.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/exigences-elevees-critique-excessive-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -62,87 +62,87 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/abnegation-sacrifice-de-soi-vieillissement-parents/">Abnégation et sacrifice de soi face au vieillissement des parents</a></h3>
     <div class="parcours-date">2026-04-06</div>
-    <p class="parcours-resume">Lors d'un déjeuner dominical chez ses parents à Nantes, Sophie se retrouve à accomplir une multitude de tâches ménagères et logistiques pour les soulager. Malgré sa fatigue et ses propres besoins, elle accepte d'aller à la pharmacie, annulant ainsi sa soirée de repos prévue à Paris.</p>
+    <p class="parcours-resume">Le carrelage froid de la cuisine de ses parents, à Nantes, semble absorber toute l&#x27;énergie de Sophie en ce dimanche après-midi de printemps. Elle est agenouillée devant le vieux réfrigérateur, une éponge à la main, frottant une tache de confiture oubliée sur une étagère en plastique.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Sophie commence à nommer son 'érosion intérieure' et réalise que son dévouement excessif est un schéma profond lié à son besoin d'être la petite fille parfaite pour mériter l'estime de ses parents. Elle identifie le lien entre son comportement actuel et ses mécanismes de défense professionnels.</p>
+      <p>Assise dans le train du retour, Sophie ne regarde pas le paysage défiler. Elle a son carnet ouvert sur les genoux.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/abnegation-sacrifice-de-soi-vieillissement-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/pensees-automatiques-negatives-seule-face-a-soi-meme/">Pensées automatiques négatives : s'en libérer quand on est seule</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/pensees-automatiques-negatives-seule-face-a-soi-meme/">Pensées automatiques négatives : les remarquer quand on est seule</a></h3>
     <div class="parcours-date">2026-04-11</div>
-    <p class="parcours-resume">Un dimanche soir dans son appartement parisien, Sophie est assaillie par une pensée automatique dévalorisante en vérifiant son code informatique. Seule face à son écran, elle revit une tension familière liée à son éducation et sombre dans une spirale d'autocritique technique.</p>
+    <p class="parcours-resume">L&#x27;obscurité s&#x27;est installée sur les toits de Paris ce 11 avril 2026. Dans son appartement du onzième arrondissement, Sophie termine son thé vert, dont l&#x27;amertume légère lui tapisse le palais.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Sophie identifie le mécanisme de ses pensées automatiques comme le moteur de son syndrome de l'imposteur et réalise que ses émotions ne sont pas des faits. Elle prend conscience que son cerveau transforme des doutes mineurs en vérités absolues par réflexe.</p>
+      <p>Sophie repose son carnet de notes sur la table basse. Elle vient d&#x27;y inscrire en minuscules lettres la phrase qui la tourmentait, suivie de sa déconstruction : J&#x27;ai la pensée que ma valeur dépend de ce bug, mais c&#x27;est une erreur de logique.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/pensees-automatiques-negatives-seule-face-a-soi-meme/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/formation-reactionnelle-en-situation-de-conflit/">Formation réactionnelle en situation de conflit : comprendre ce mécanisme</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/formation-reactionnelle-en-situation-de-conflit/">Formation réactionnelle : que dit un sourire en conflit ?</a></h3>
     <div class="parcours-date">2026-04-17</div>
-    <p class="parcours-resume">Lors d'une réunion tendue, Sophie subit le rejet injuste de son travail sur une base de données par son collègue Marc. Au lieu d'exprimer sa colère, elle réagit par une gentillesse excessive et une soumission totale, acceptant de tout recommencer malgré son ressentiment intérieur.</p>
+    <p class="parcours-resume">Le néon de la salle de réunion grésille légèrement, un bruit sec qui s&#x27;accorde avec la tension qui grimpe dans la poitrine de Sophie. Assise face à Marc, elle sent ses doigts se crisper sur son carnet de notes, celui-là même où elle avait commencé à documenter ses états émotionnels pour…</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Sophie identifie son comportement comme une formation réactionnelle, un mécanisme de défense qui transforme sa rage en politesse mielleuse pour éviter le conflit. Elle réalise que ce schéma, hérité d'une éducation exigeante, devient un obstacle épuisant à son affirmation de soi.</p>
+      <p>Le lendemain de sa réunion avec Marc, Sophie est de nouveau à son poste de travail dans l&#x27;open-space. Elle a passé une partie de la soirée à remplir son carnet des vérités cachées, et remarque qu’elle attend beaucoup d’elle-même quand le ton monte.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/formation-reactionnelle-en-situation-de-conflit/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/humiliation-en-societe-comprendre-pourquoi/">Humiliation en société : comprendre pourquoi elle existe</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/humiliation-en-societe-comprendre-pourquoi/">Humiliation au travail : que faire après une moquerie ?</a></h3>
     <div class="parcours-date">2026-04-23</div>
-    <p class="parcours-resume">Lors d'une présentation en réunion le 23 avril 2026, Sophie est publiquement moquée par son collègue Marc qui imite ses hésitations, provoquant un rire général. Soutenue ensuite par son amie Claire, elle analyse ce sentiment d'humiliation qui la pousse instinctivement à la sur-justification et au retrait.</p>
+    <p class="parcours-resume">Le crépitement du vidéoprojecteur couvre le bruit des claviers dans l&#x27;open-space. Sophie tient sa tasse de thé vert entre les mains, sent la porcelaine tiède contre ses doigts et suit la présentation du produit sur l&#x27;écran.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Sophie identifie que sa vulnérabilité au sarcasme professionnel prend racine dans l'exigence de performance imposée par ses parents. Elle prend conscience de son mécanisme de défense consistant à s'excuser excessivement pour réparer son image sociale.</p>
+      <p>Après la réunion, Sophie suit les trois étapes qu&#x27;elle connaît maintenant bien. Elle ouvre son carnet sur la terrasse du bâtiment, écrit les faits observables, puis remplit le tableau des preuves.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/humiliation-en-societe-comprendre-pourquoi/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/comprendre-sentiment-echec-apres-un-echec/">Surmonter le sentiment d'échec après un échec : le guide</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/comprendre-sentiment-echec-apres-un-echec/">Après un refus : Sophie traverse le sentiment d’échec</a></h3>
     <div class="parcours-date">2026-05-01</div>
-    <p class="parcours-resume">Sophie reçoit un refus pour un poste de directrice technique, justifié par un manque d'expérience en gestion d'équipe. Cet échec la plonge dans une spirale de doutes, ravivant le souvenir d'une humiliation passée avec son collègue Marc et des exigences paternelles de son enfance.</p>
+    <p class="parcours-resume">Sophie fixe l&#x27;écran de son téléphone, immobile dans l&#x27;entrée de son appartement. Un courriel vient d&#x27;arriver, celui qu&#x27;elle attendait depuis des semaines : la réponse pour le poste de directrice technique.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Sophie identifie son mécanisme d'overthinking et prend conscience de son schéma d'échec, réalisant qu'elle transforme un revers professionnel ponctuel en une vérité absolue sur sa propre nullité.</p>
+      <p>Sophie repose son stylo. Elle vient de terminer une liste dans son carnet, inspirée par les conseils de son amie Claire.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/comprendre-sentiment-echec-apres-un-echec/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/heuristique-affect-argent/">Heuristique d'affect face à l'argent : pourquoi nos émotions faussent nos choix</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/heuristique-affect-argent/">Heuristique d’affect : quand un placement paraît rassurant</a></h3>
     <div class="parcours-date">2026-05-08</div>
-    <p class="parcours-resume">Le 8 mai 2026, Sophie se trouve dans une laverie automatique pour gérer son anxiété financière après avoir reçu une notification bancaire déstabilisante. Elle réfléchit à ses réactions émotionnelles disproportionnées face à l'argent, faisant le lien avec son récent échec professionnel et l'exigence paternelle vécue à Nantes.</p>
+    <p class="parcours-resume">La machine à laver cliquette, sa porte en verre fait vibrer l&#x27;air d&#x27;une musique régulière. Sophie plie un jean, le tissu encore tiède, le parfum du détergent lui chatouille le nez.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Sophie identifie le concept d'heuristique d'affect comme la source de ses décisions impulsives, comprenant que ses émotions (peur ou excitation) court-circuitent son analyse rationnelle des risques financiers.</p>
+      <p>Sophie se lève avec son carnet sous le bras, la laverie s&#x27;éclaircit, elle replace sa bouteille de thé vert dans son sac. Elle suit la première technique qu&#x27;elle teste depuis quelques jours : à la moindre alerte, elle note l&#x27;émotion et l&#x27;intensité.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/heuristique-affect-argent/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-amitie-causes/">Le syndrome de l'imposteur en amitié : comprendre ses racines</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-amitie-causes/">Sentiment d’imposture : recevoir un compliment d’une amie</a></h3>
     <div class="parcours-date">2026-05-13</div>
-    <p class="parcours-resume">Le 13 mai 2026, Sophie partage un moment dans un salon de thé avec son amie Claire, qui la félicite pour une réussite technique. Malgré ce succès, Sophie est assaillie par son syndrome de l'imposteur, minimisant son travail et luttant contre une voix intérieure qui la dévalorise.</p>
+    <p class="parcours-resume">Sophie observe Claire qui rit d&#x27;une anecdote et sent aussitôt une petite alarme interne se déclencher : pourquoi est-ce que je ne trouve pas ça aussi drôle, pourquoi est-ce que je me sens surqualifiée à la fois et insuffisante ? Aujourd&#x27;hui, 13 mai 2026, elles sont installées dans un salon de…</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Sophie réalise que ses mécanismes de défense, comme la surcompensation et l'effacement de soi, polluent désormais ses relations amicales et pas seulement son travail. Elle commence à identifier ses distorsions cognitives en tentant de rationaliser les compliments de Claire plutôt que de les fuir.</p>
+      <p>Aujourd&#x27;hui, après l&#x27;échange initial avec Claire, Sophie décide d&#x27;essayer l&#x27;entraînement à la réponse affirmative. Quand Claire lui dit que son dernier push était très propre, Sophie sent la vieille impulsion qui la pousse à expliquer.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/syndrome-imposteur-amitie-causes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-parents/">Recherche d'approbation et reconnaissance avec ses parents</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-parents/">Recherche d&#x27;approbation et reconnaissance avec ses parents</a></h3>
     <div class="parcours-date">2026-05-20</div>
-    <p class="parcours-resume">Lors d'un appel téléphonique avec son père ingénieur, Sophie tente désespérément d'obtenir une marque de fierté en détaillant ses prouesses techniques de développeuse. Face à la réaction neutre de son père, elle observe ses propres mécanismes de sur-justification et de perfectionnisme depuis son appartement parisien.</p>
+    <p class="parcours-resume">Le téléphone colle légèrement contre la joue de Sophie, la coque déjà griffée par des années d&#x27;appels rapides. Son père parle d&#x27;un détail technique de son dernier projet web, comme s&#x27;il commentait la construction d&#x27;une maquette qu&#x27;il pourrait corriger.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Sophie réalise que sa quête de validation professionnelle est une extension d'un schéma d'enfance où l'excellence était la condition de l'amour parental. Elle commence à utiliser un carnet de notes pour documenter ses pensées répétitives et interrompre ses automatismes émotionnels.</p>
+      <p>Aujourd&#x27;hui, après avoir raccroché, Sophie relit la colonne des faits et remarque qu&#x27;elle a reformulé mentalement l&#x27;interprétation comme &quot;mon père n&#x27;a pas le vocabulaire pour exprimer sa fierté&quot;. Cette alternative lui semble plausible et atténue l&#x27;urgence de prouver davantage.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-parents/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

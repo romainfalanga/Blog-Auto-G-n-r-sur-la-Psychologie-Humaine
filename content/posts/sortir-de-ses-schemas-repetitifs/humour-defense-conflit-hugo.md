@@ -1,7 +1,7 @@
 ---
 title: "Humour comme défense en situation de conflit : comprendre et agir"
 date: 2026-05-03T05:41:46+00:00
-description: "Hugo utilise l'humour pour se protéger durant une dispute. Comprendre la différence entre humour défensif et humour adaptatif, avec 3 techniques concrètes."
+description: "Hugo plaisante pour se protéger pendant une dispute. Comment entendre ce que la blague évite et reconnaître l'effet qu'elle peut avoir sur l'autre ?"
 categories: ["Sortir de ses schémas répétitifs"]
 tags: ["humour-défensif", "conflit", "schémas-répétitifs", "dépendance-affective", "psychologie"]
 slug: "humour-defense-conflit-hugo"
@@ -21,11 +21,11 @@ Chloé repose un carton et riposte sans humour. La conversation dérape, chacun 
 
 ## Définition de l'humour comme défense
 
-L'humour comme défense est l'utilisation de la plaisanterie, de l'ironie ou du sarcasme pour protéger le moi contre une émotion menaçante ou une confrontation douloureuse.
+Une plaisanterie peut faire respirer une conversation ou déplacer un sujet qui met mal à l'aise. « Humour comme défense » décrit ici l'usage que Hugo en fait quand il ne sait pas dire ce qui le touche.
 
-Ce concept s'enracine dans la théorie des mécanismes de défense d'Anna Freud et dans les travaux de George Vaillant, qui classe l'humour parfois comme une défense mature lorsqu'il permet de relativiser sans nier ses émotions. Cependant, les psychologues distinguent l'humour adaptatif, qui aide à réguler les émotions et à créer du lien, de l'humour défensif, qui masque, détourne ou évite l'expression honnête d'un besoin ou d'une douleur. Des études en psychologie sociale montrent que l'humour peut réduire la tension perçue dans un échange, mais qu'un usage systématique pour éviter la vulnérabilité est associé à des relations moins satisfaisantes et à un maintien des schémas de dépendance affective.
+Dans leur [étude sur les styles d’humour](https://www.sciencedirect.com/science/article/pii/S0092656602005342), Rod Martin et ses collègues distinguent plusieurs usages, notamment plaisanter pour créer du lien, se donner du recul, se moquer des autres ou se déprécier. Leurs mesures ne permettent ni d'expliquer une blague isolée ni de conclure qu'elle cause une dépendance affective.
 
-Dans le cas d'Hugo, l'humour comme défense se relie à son histoire familiale et à ses schémas déjà identifiés : idéalisation et dévaluation, oscillations émotionnelles et peur de l'abandon héritée de son père Alain. Savoir reconnaître si sa blague est un pont vers l'autre ou un écran qui cache sa fragilité est l'enjeu.
+Hugo peut se demander si sa plaisanterie facilite l'échange ou évite une réponse attendue. Il peut aussi écouter l'effet qu'elle a eu, même si cet effet diffère de ce qu'il souhaitait.
 
 ## Manifestations de l'humour en situation de conflit
 
@@ -36,7 +36,7 @@ Hugo fait souvent une plaisanterie pour désamorcer une accusation ou minimiser 
 Une autre manifestation est l'humour qui masque la colère ou la peur d'abandon. Hugo utilise parfois le sarcasme pour attaquer à distance : une blague acérée sur la profession de comédien dramatique de Chloé au lieu d'exprimer qu'il se sent rejeté. Ce déplacement protège momentanément son Enfant blessé, mais il nourrit la dynamique de splitting qu'il connaît bien, où l'autre devient tour à tour adorée et ennemi. Il revoit encore le visage de Samba lors du tremplin musical : à l'époque, il n'avait pas d'humour pour masquer sa rage, seulement du silence et du rejet. Aujourd'hui, il réalise que ses vannes sont juste une version plus socialement acceptable de ce même retrait.
 
 ### 3. L'humour qui sollicite l'approbation sociale
-Parfois l'humour devient un instrument pour séduire et regagner de la proximité tout en évitant l'intimité réelle. Après son concert triomphal, il envoie un message plein d'esprit à Chloé pour provoquer un rire plutôt que d'écrire un message vulnérable. C'est une stratégie de survie relationnelle qui ressemble aux comportements appris dans son enfance, où l'amour était conditionnel à la performance. L'humour agit alors comme une monnaie d'échange : il fonctionne souvent, mais il ne crée pas d'attachements sécurisants.
+Après le concert, Hugo envoie à Chloé un message plein d'esprit. Le récit laisse ouverte la question de savoir ce qu'il cherche : partager une joie, renouer ou éviter de dire qu'elle lui manque. Un rire ne vaut ni accord ni invitation à relancer.
 
 ## Techniques pour transformer l'humour comme défense
 
@@ -67,8 +67,8 @@ Ce changement n'efface pas tout. Il tombe parfois encore dans le rire déplacé 
 
 ---
 
-La capacité à transformer l'humour défensif en humour adaptatif est un apprentissage possible. Hugo commence à le comprendre aujourd'hui, en testant des gestes simples : nommer l'intention derrière une plaisanterie, reformuler son besoin, écrire ce qui se cache sous la blague. Ces petites pratiques ne coupent pas la douleur, mais elles empêchent l'humour de la masquer indéfiniment.
+Quand Hugo s'aperçoit que sa blague a blessé, il peut reconnaître ce qu'il a dit et s'excuser sans demander à l'autre de le rassurer. Si l'autre ne souhaite pas en parler, il respecte cette décision.
 
-Si vous vous reconnaissez dans l'histoire d'Hugo, notamment l'usage systématique de l'humour pour éviter la vulnérabilité ou les oscillations émotionnelles après une relation toxique, sachez que vous pouvez modifier ces schémas. Les techniques présentées ici sont des outils concrets que vous pouvez tester immédiatement. Elles complètent, sans les remplacer, l'accompagnement professionnel.
+Si le réflexe revient et rend les conversations difficiles, on peut réfléchir à une réponse avec une personne de confiance ou un professionnel. Les pistes proposées servent à observer ce qui se passe dans un échange.
 
 Enfin, si ces difficultés persistent ou si la souffrance vous semble trop lourde, consulter un psychologue ou un thérapeute est une démarche courageuse et recommandée. Un professionnel peut vous aider à approfondir ces mécanismes, à les relier à votre histoire, et à construire des stratégies durables pour sortir des schémas répétitifs.

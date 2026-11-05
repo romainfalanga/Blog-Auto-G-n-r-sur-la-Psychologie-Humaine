@@ -16,12 +16,12 @@ draft: false
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-evitant-dans-intimite/">Attachement évitant-dédaigneux dans l'intimité et la sexualité</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-evitant-dans-intimite/">Attachement évitant-dédaigneux dans l&#x27;intimité et la sexualité</a></h3>
     <div class="parcours-date">2026-03-08</div>
-    <p class="parcours-resume">Priya, 33 ans, médecin généraliste, se sent étrangement distante après un moment intime avec l'homme qu'elle fréquente. Depuis sa relation toxique avec Damien à 25 ans, elle fuit l'intimité tout en la désirant, reproduisant un schéma d'évitement qui l'empêche de se connecter émotionnellement.</p>
+    <p class="parcours-resume">Priya, 33 ans, médecin généraliste en cabinet de ville, s&#x27;installe sur le bord de son lit, le cœur un peu lourd. Elle vient de passer un moment intime avec l&#x27;homme qu&#x27;elle fréquente depuis quelques semaines, mais au lieu de ressentir une connexion chaleureuse, elle se sent étrangement distante,…</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Priya prend conscience d'un schéma répétitif qui s'active dans cette situation. Malgré son côté compétente, elle commence à identifier les déclencheurs et à envisager d'autres façons de réagir.</p>
+      <p>Priya peut trouver une façon de parler de ses préférences et des moments où elle hésite. Le vocabulaire de l’attachement peut l’aider à formuler des questions ; il ne décide pas de la façon dont elle doit vivre sa sexualité.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/attachement-evitant-dans-intimite/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -29,10 +29,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/anxiete-face-maladie-blouse/">Anxiété face à la maladie : quand la blouse cache la peur</a></h3>
     <div class="parcours-date">2026-03-18</div>
-    <p class="parcours-resume">Tard le soir au cabinet médical, Priya traite un dossier de pathologie chronique qui réveille des souvenirs douloureux liés à la santé de son père, Raj. Pour masquer son anxiété, elle se réfugie dans une hyper-productivité rigide et une mise à distance émotionnelle, un comportement qu'elle observe également dans sa vie sentimentale.</p>
+    <p class="parcours-resume">Le signal sonore du cabinet s&#x27;interrompt. Priya replie avec soin la chemise cartonnée du patient, ses doigts s&#x27;attardant sur l&#x27;étiquette usée.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Priya réalise que son besoin de contrôle clinique et son perfectionnisme sont des mécanismes de défense issus de son profil d'attachement évitant-dédaigneux. Elle commence à accepter sa vulnérabilité au lieu de la fuir par la technique, marquant un tournant dans sa pratique médicale et sa gestion émotionnelle.</p>
+      <p>Ce soir, Priya se demande quelle part de son agitation tient à la charge du cabinet et quelle part tient au souvenir de son père. Elle reconnaît l’inquiétude et décide d’en parler.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/anxiete-face-maladie-blouse/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -40,10 +40,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/trahison-en-amitie-impacts-quotidiens/">Trahison en amitié : comprendre ses impacts au quotidien</a></h3>
     <div class="parcours-date">2026-03-28</div>
-    <p class="parcours-resume">Priya reçoit un message de son amie Julie mentionnant une rencontre fortuite avec Damien, son ex-partenaire manipulateur. Se sentant trahie par cette rupture de loyauté, elle décline froidement l'invitation de Julie et se réfugie dans son cabinet médical pour retrouver un sentiment de contrôle.</p>
+    <p class="parcours-resume">Il est 19h45, le parking du cabinet est presque désert. Priya relit le message de Julie une fois de plus : « On se voit ce soir ?</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Priya identifie que cette situation réactive son attachement évitant et ses blessures passées, la poussant à utiliser son travail et l'hyper-productivité comme des remparts contre l'imprévisibilité relationnelle.</p>
+      <p>Après sa garde, Priya accepte finalement de parler brièvement à Julie au téléphone le 28 mars 2026, une semaine après le message. La voix de Julie est rapide, un peu embarrassée ; elle décrit la rencontre avec Damien comme fortuite, sans échange intime, et admet ne pas avoir pensé à prévenir…</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/trahison-en-amitie-impacts-quotidiens/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -51,43 +51,43 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-disponibilite-face-a-une-decision-importante/">Biais de disponibilité face à une décision importante : Priya</a></h3>
     <div class="parcours-date">2026-04-01</div>
-    <p class="parcours-resume">Priya, médecin en garde hospitalière, doit choisir un nouvel associé pour son cabinet parmi trois candidats. Elle se retrouve paralysée par la méfiance envers le candidat Marc, dont le profil lui rappelle son ex-partenaire Damien, et par des lectures récentes sur des échecs associatifs.</p>
+    <p class="parcours-resume">Le carrelage blanc de la salle de garde du centre hospitalier où Priya effectue sa vacation de garde semble plus froid que d&#x27;habitude. Elle ajuste le col de sa blouse, une habitude qui la rassure depuis ses débuts.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Priya prend conscience que son jugement est altéré par le biais de disponibilité, transformant ses souvenirs émotionnels et ses lectures alarmistes en un filtre déformant qui alimente son anxiété et son besoin de contrôle.</p>
+      <p>Priya repose les dossiers sur le bureau en métal. Elle sent que son rythme cardiaque s&#x27;est apaisé.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-disponibilite-face-a-une-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mepris-face-a-l-autorite-mecanisme-defense/">Mépris face à l'autorité : comprendre ce mécanisme de défense</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mepris-face-a-l-autorite-mecanisme-defense/">Mépris face à l’autorité : ce que Priya met à distance</a></h3>
     <div class="parcours-date">2026-04-07</div>
-    <p class="parcours-resume">Le 07 avril 2026, Priya participe à une visioconférence sur les procédures de télétransmission animée par Antoine, un administratif de l'instance régionale de santé. Agacée par son ton condescendant, elle réagit par un mépris silencieux et une dévaluation intellectuelle pour se protéger de ce qu'elle perçoit comme une tentative de contrôle.</p>
+    <p class="parcours-resume">Priya ajuste l&#x27;oreillette de son kit mains libres alors que la voix monocorde du représentant de l&#x27;instance régionale de santé résonne dans son cabinet. Nous sommes le 07 avril 2026, et cette réunion en visioconférence sur les nouvelles procédures de télétransmission semble s&#x27;éterniser.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Priya prend conscience que son mépris est une armure familière et un mécanisme de défense hérité de ses relations passées pour éviter toute sensation d'emprise. Elle réalise toutefois que cette stratégie de supériorité, bien qu'efficace pour préserver son ego, l'isole progressivement dans une tour d'ivoire.</p>
+      <p>La réunion touche à sa fin. Au lieu de quitter brutalement la conversation comme elle en avait l&#x27;intention, Priya prend une inspiration lente, consciente de la tension dans sa mâchoire.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mepris-face-a-l-autorite-mecanisme-defense/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Schéma répétitif</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-face-a-l-autorite/">Méfiance et abus face à l'autorité : comprendre ce schéma</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-face-a-l-autorite/">Méfiance et abus face à l&#x27;autorité : comprendre ce schéma</a></h3>
     <div class="parcours-date">2026-04-11</div>
-    <p class="parcours-resume">Le 11 avril 2026, Priya reçoit un courrier de l'Ordre des médecins au Cabinet Médical des Glycines, ce qui déclenche chez elle une profonde suspicion. Cette interaction avec l'autorité réveille les traumatismes liés à son ex-conjoint Damien, qui l'isolait de sa sœur Anita, et à son récent conflit avec Antoine, un responsable administratif.</p>
+    <p class="parcours-resume">Priya ajuste sa blouse blanche devant le petit miroir de son bureau, un geste machinal qu&#x27;elle répète chaque jour à la même heure. Le Cabinet Médical des Glycines est encore silencieux en ce samedi 11 avril 2026, mais l&#x27;air semble peser sur ses épaules.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Priya réalise que son mépris envers ses collègues et son hyper-vigilance administrative sont en réalité une armure défensive. Elle comprend que son éducation rigide par Raj et Anjali, axée sur l'excellence comme rempart, a cristallisé son schéma de méfiance et d'abus.</p>
+      <p>Assise à son bureau, Priya reprend la lettre de l&#x27;Ordre des médecins. Elle repense à sa séance de méditation de ce matin et tente d&#x27;appliquer la technique de la double lecture.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/mefiance-abus-face-a-l-autorite/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Biais cognitif</div>
-    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-autorite-face-a-l-autorite-priya/">Biais d'autorité face à l'autorité : s'en libérer avec Priya</a></h3>
+    <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-autorite-face-a-l-autorite-priya/">Biais d’autorité : quand le statut pèse sur le jugement</a></h3>
     <div class="parcours-date">2026-04-20</div>
-    <p class="parcours-resume">Priya, médecin au Cabinet des Glycines, se retrouve confrontée à de nouvelles directives administratives signées par un éminent professeur. Cette injonction ravive ses tensions internes entre son besoin de perfectionnisme et sa méfiance envers la hiérarchie, faisant écho à ses conflits passés avec Antoine de l'instance régionale de santé.</p>
+    <p class="parcours-resume">Priya ajuste sa blouse blanche devant le miroir de son bureau, un geste machinal qui lui sert d&#x27;armure. Le Cabinet Médical des Glycines est encore calme à cette heure, mais une pile de formulaires envoyés par l&#x27;assurance maladie trône sur son bureau comme un reproche silencieux.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Elle prend conscience que son rejet systématique de l'autorité est un héritage de son père Raj et une extension de son attachement évitant, transformant chaque directive en un combat identitaire binaire entre soumission et rébellion.</p>
+      <p>Priya ferme les yeux quelques secondes, laissant le brouhaha de la salle d&#x27;attente devenir un simple fond sonore. Elle repense à son passé, à Damien qui utilisait un ton d&#x27;expert pour la manipuler, et à son père qui n&#x27;acceptait aucune contradiction.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-autorite-face-a-l-autorite-priya/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -95,21 +95,21 @@ draft: false
     <div class="parcours-cat">Biais cognitif</div>
     <h3 class="parcours-title"><a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-survivant-face-decision-importante/">Biais de survivant face à une décision importante : le guide</a></h3>
     <div class="parcours-date">2026-04-21</div>
-    <p class="parcours-resume">Priya, médecin de 33 ans au Cabinet des Glycines, hésite à accepter un poste de direction dans une clinique privée lyonnaise prestigieuse malgré la pression de sa famille. En analysant les témoignages de réussite de ses confrères, elle réalise qu'elle est victime du biais de survivant en ignorant les échecs invisibles de ceux qui n'ont pas supporté la pression.</p>
+    <p class="parcours-resume">Priya lisse nerveusement sa blouse blanche avant de s&#x27;asseoir face à son écran. Sur le bureau en bois clair du Cabinet des Glycines, une brochure aux couleurs élégantes vante les mérites d&#x27;une clinique privée ultra-moderne située en plein cœur de Lyon.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Elle passe d'une volonté de copier aveuglément les modèles de réussite pour satisfaire son besoin de contrôle à une prise de conscience lucide sur ses propres limites, notamment son attachement évitant et sa vulnérabilité face au stress.</p>
+      <p>Priya repose la brochure sur son bureau. Le silence du cabinet semble soudainement propice à cette nouvelle réflexion.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-de-survivant-face-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-en-couple-signes/">Vulnérabilité en couple : 10 signes qui vous concernent</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-en-couple-signes/">Vulnérabilité en couple : s’ouvrir à son rythme</a></h3>
     <div class="parcours-date">2026-05-01</div>
-    <p class="parcours-resume">Lors d'un dîner aux saveurs indiennes, Priya se sent déstabilisée par une question personnelle de son partenaire sur ses passions. Elle ressent une forte résistance intérieure et une envie de fuir la conversation en se réfugiant derrière des excuses professionnelles.</p>
+    <p class="parcours-resume">La fourchette frotte l&#x27;assiette, le chutney de mangue pique la langue. Priya écoute l&#x27;homme en face d&#x27;elle parler de ses voyages, de ses enfants perdus de vue et de son souhait d&#x27;ouvrir une vraie conversation.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Priya prend conscience que sa méfiance et son besoin de contrôle sont des mécanismes de défense hérités de son passé. Elle identifie son incapacité à se livrer comme un refus de la vulnérabilité, qu'elle percevait jusqu'ici comme une faille.</p>
+      <p>Le lendemain de la soirée, Priya ouvre son carnet de notes personnelles pour trier ses propres émotions. Elle note la question de son interlocuteur et sa propre réaction, une combinaison de retrait et d&#x27;envie.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-en-couple-signes/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -117,10 +117,10 @@ draft: false
     <div class="parcours-cat">Émotion</div>
     <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/indifference-face-maladie/">Indifférence face à la maladie : quand le soin devient distance</a></h3>
     <div class="parcours-date">2026-05-12</div>
-    <p class="parcours-resume">Priya, médecin généraliste au Cabinet des Glycines, mène une consultation avec Claire, une patiente atteinte d'une maladie chronique. Elle adopte une neutralité clinique extrême et une froideur procédurale pour se protéger de la charge émotionnelle de la patiente.</p>
+    <p class="parcours-resume">La sonnette du Cabinet des Glycines tinte et Priya relève la tête. Aujourd&#x27;hui, le mot-clé tourne déjà dans son esprit : indifférence face à la maladie.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Priya réalise que son calme apparent n'est pas seulement une compétence professionnelle, mais une stratégie de désengagement liée à son style d'attachement évitant et à son éducation rigide. Elle prend conscience que cette indifférence, héritée de son passé, crée une barrière qui l'empêche d'offrir une véritable empathie.</p>
+      <p>Après la consultation de Claire, Priya prend la liberté de pratiquer le signal d&#x27;alarme interne qu&#x27;elle a mis en place. Elle écrit &quot;tendance à conclure&quot; sur une petite feuille et se rappelle mentalement la phrase d&#x27;empathie.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/indifference-face-maladie/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>
@@ -128,10 +128,10 @@ draft: false
     <div class="parcours-cat">Schéma répétitif</div>
     <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/rationalisation-face-a-une-decision-importante/">Rationalisation face à une décision importante : le guide</a></h3>
     <div class="parcours-date">2026-05-19</div>
-    <p class="parcours-resume">Priya, installée dans son cabinet des Glycines, hésite à signer le bail d'un nouveau local médical moderne pour s'émanciper. Elle fait face à la pression indirecte de sa mère Anjali et utilise des arguments logiques de façade pour justifier son envie de refuser l'offre par peur du conflit familial.</p>
+    <p class="parcours-resume">Priya ajuste sa blouse blanche, l&#x27;index crispé sur le bouton de sa manchette. Dans le silence de son cabinet des Glycines, l&#x27;horloge murale égrène les secondes alors qu&#x27;elle fixe le contrat de bail d&#x27;un nouveau local médical situé à l&#x27;autre bout de la ville.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Priya prend conscience qu'elle utilise la rationalisation et sa rigueur scientifique comme un mécanisme de défense pour masquer son besoin de sécurité et son désir de rester la 'fille parfaite'. Elle réalise que son immobilisme n'est pas de la sagesse médicale, mais une construction intellectuelle pour éviter d'affronter ses émotions.</p>
+      <p>Priya repose le contrat sur son bureau. Elle repense à son parcours, à cette tendance qu&#x27;elle a identifiée depuis quelques mois à se réfugier derrière sa blouse pour ne pas ressentir.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/rationalisation-face-a-une-decision-importante/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

@@ -75,7 +75,7 @@ Elles imaginent un cas ordinaire : l’une ouvre par erreur un document personne
 
 Inès note qu’elle aimerait entendre : « Je l’ai ouvert en pensant que c’était la recette et je me suis arrêtée. » Elle préfère cette phrase à « de toute façon, il n’y avait rien ». Ce qui est en jeu n’est pas seulement la gravité du contenu découvert. C’est sa possibilité de décider qui y accède. Clara formule le même besoin pour ses propres échanges amicaux. La règle cesse ainsi d’être une faveur accordée à la seule Inès.
 
-Si la frontière est franchie volontairement ou de manière répétée, la réparation doit porter sur les faits : accès retiré, accord revu, comportement interrompu. Une promesse vague ne suffit pas toujours à rétablir la confiance. Il peut être utile de chercher une aide professionnelle pour évaluer la situation. Cet exercice ne demande jamais de rendre ses données plus visibles pour prouver qu’une intrusion n’aurait pas dû avoir lieu.
+Si la frontière est franchie volontairement ou à répétition, une promesse ne suffit pas : les intrusions doivent cesser. Si votre téléphone est surveillé ou que vous craignez des représailles, cherchez d’abord un appui spécialisé depuis un moyen de communication sûr. Modifier un accès en présence d’un contrôle peut alerter la personne qui l’exerce ; vous pouvez préparer cette décision avec cet appui. Cet exercice ne demande jamais de rendre ses données plus visibles pour prouver qu’une intrusion n’aurait pas dû avoir lieu.
 
 ## Inès pose le carnet sans préparer une défense
 
@@ -93,4 +93,4 @@ Quelques accords concrets, une information relationnelle claire et une réparati
 
 Si les demandes d’accès deviennent insistantes, si vous avez peur de refuser ou si les intrusions se répètent, une psychologue ou un autre professionnel peut vous aider à examiner ces comportements et vos possibilités. Vous pouvez chercher cet appui seul. Préserver une part de vie privée n’exige pas d’attendre que son contenu devienne assez sensible pour mériter le respect.
 
-Sources : [Kil et collègues, autonomie, dévoilement et vie privée dans les relations, 2022](https://onlinelibrary.wiley.com/doi/10.1111/pere.12419).
+Sources : [Kil et collègues, autonomie, dévoilement et vie privée dans les relations, 2022](https://onlinelibrary.wiley.com/doi/10.1111/pere.12419) ; [Arrêtons les violences, contrôle et cyberviolences au sein du couple](https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple).

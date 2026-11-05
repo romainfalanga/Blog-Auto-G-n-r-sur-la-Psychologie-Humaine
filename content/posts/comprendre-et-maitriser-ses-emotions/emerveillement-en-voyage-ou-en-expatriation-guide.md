@@ -1,7 +1,7 @@
 ---
 title: "Émerveillement en voyage ou en expatriation : le guide de Mei"
 date: 2026-05-06T05:44:39+00:00
-description: "Découvrez comment l'émerveillement en voyage ou en expatriation transforme notre psychologie. Suivez le parcours de Mei pour cultiver cette émotion vitale."
+description: "Dans le train pour Florence, Mei fait l’expérience de l’émerveillement et essaie de garder une place pour ce qui la surprend."
 categories: ["Comprendre et maîtriser ses émotions"]
 tags: ["émerveillement", "psychologie positive", "expatriation", "voyage", "émotions"]
 slug: "emerveillement-en-voyage-ou-en-expatriation-guide"
@@ -21,9 +21,9 @@ Une sensation de vertige délicieux l'envahit. C'est comme si le monde s'élargi
 
 ## Définition de l'émerveillement
 
-L'émerveillement est une émotion complexe qui surgit lorsque nous sommes confrontés à quelque chose de vaste, de beau ou de transcendant qui dépasse notre compréhension habituelle du monde. Selon le psychologue Dacher Keltner, pionnier de l'étude scientifique de cette émotion à l'Université de Berkeley, l'émerveillement se définit par deux composantes clés : la perception d'une immensité, qu'elle soit physique ou conceptuelle, et le besoin d'accommodation, c'est-à-dire la nécessité pour notre cerveau de mettre à jour ses structures mentales pour intégrer cette nouvelle expérience.
+Dans le modèle proposé par Dacher Keltner et Jonathan Haidt, l’émerveillement associe la perception de quelque chose de vaste, au sens physique ou figuré, et le sentiment que nos repères ordinaires ne suffisent pas à comprendre ce que l’on voit. Il peut naître d’un paysage, d’une œuvre ou d’une idée.
 
-Scientifiquement, l'émerveillement provoque une diminution de l'activité du réseau du mode par défaut dans le cerveau, la zone associée au moi et aux pensées autoréférencées. C'est ce que les chercheurs appellent l'effet du petit soi. En voyage ou en expatriation, cette émotion agit comme un puissant levier de transformation psychologique car elle nous force à sortir de nos routines de pensée et à embrasser l'inconnu avec une curiosité renouvelée, réduisant ainsi temporairement le stress et l'anxiété liés à notre identité sociale.
+Dans plusieurs études, Piff et ses collègues ont observé qu’une expérience d’émerveillement pouvait s’accompagner d’un « petit soi », c’est-à-dire d’un sentiment d’être moins au centre de ce qui arrive. C’est un ressenti étudié dans des conditions précises, pas une zone cérébrale ni un bénéfice garanti en voyage.
 
 ## Manifestations de l'émerveillement en voyage et expatriation
 
@@ -31,7 +31,7 @@ Le dépaysement lié à l'expatriation ou au voyage est un terrain fertile pour 
 
 ### La dilatation du temps et de l'espace
 
-En situation d'émerveillement, notre perception du temps se modifie. Une heure passée à contempler une architecture séculaire ou un paysage naturel grandiose semble s'étirer. Pour l'expatrié, cela se traduit souvent par des moments de suspension où le poids des démarches administratives ou de l'adaptation culturelle s'évapore au profit d'une présence pure à l'instant. On se sent soudainement connecté à l'histoire du lieu, perdant la notion de l'urgence quotidienne.
+Pour Mei, le trajet paraît suspendu lorsqu’elle découvre les montagnes. On peut aussi remarquer un paysage sans perdre la notion du temps, et un déplacement ou une expatriation peuvent s’accompagner de fatigue, de contraintes ou d’incertitude.
 
 ### La réduction des préoccupations égocentrées
 
@@ -39,7 +39,7 @@ C'est l'une des manifestations les plus libératrices. Face à l'immensité d'un
 
 ### L'ouverture à l'altérité et à la nouveauté
 
-L'émerveillement agit comme un moteur de curiosité. Il pousse le voyageur à sortir de sa zone de confort pour comprendre ce qu'il observe. Cela se manifeste par une envie soudaine d'apprendre la langue, de goûter des saveurs inconnues ou d'échanger avec des habitants. Pour Mei, cela signifie par exemple oser poser une question à un guide ou observer les gestes d'un artisan dans une ruelle de Florence sans avoir l'impression d'être une intruse, loin de la fatigue structurelle qu'elle ressentait en essayant de traduire sa pensée en arborescence pour s'adapter à la norme de ses camarades.
+L'émerveillement agit comme un moteur de curiosité. Il pousse le voyageur à sortir de sa zone de confort pour comprendre ce qu'il observe. Cela se manifeste par une envie soudaine d'apprendre la langue, de goûter des saveurs inconnues ou d'échanger avec des habitants. Pour Mei, cela signifie par exemple oser poser une question à un guide ou observer les gestes d'un artisan dans une ruelle de Florence sans avoir l'impression d'être une intruse, loin des préoccupations qui l’occupent d’ordinaire en classe.
 
 ## Techniques pour cultiver l'émerveillement
 
@@ -51,11 +51,11 @@ Cette technique consiste à se déplacer dans un nouvel environnement sans but p
 
 ### 2. La tenue d'un journal d'étonnement visuel
 
-Plutôt que de simplement prendre des photos avec un smartphone, ce qui peut parfois nous détacher de l'expérience réelle et nous soumettre à l'effet de simple exposition des réseaux sociaux, essayez de décrire par écrit ou par le dessin un seul détail qui vous a frappé dans la journée. Cela peut être la couleur particulière d'un volet, la forme d'un nuage au-dessus d'un monument ou la lumière sur une place de marché. L'exercice consiste à consacrer dix minutes le soir à retranscrire cette vision en utilisant des adjectifs précis. Cette pratique renforce les connexions neuronales liées à l'observation et prolonge les effets bénéfiques de l'émerveillement sur le bien-être.
+Plutôt que de simplement prendre des photos avec un smartphone, ce qui peut parfois nous détacher de l'expérience réelle et nous soumettre à l'effet de simple exposition des réseaux sociaux, essayez de décrire par écrit ou par le dessin un seul détail qui vous a frappé dans la journée. Cela peut être la couleur particulière d'un volet, la forme d'un nuage au-dessus d'un monument ou la lumière sur une place de marché. L'exercice consiste à consacrer dix minutes le soir à retranscrire cette vision en utilisant des adjectifs précis. Le journal donne à Mei une trace du détail qu’elle a choisi d’observer.
 
 ### 3. La technique de la contemplation statique
 
-Choisissez un lieu qui vous inspire et asseyez-vous pendant au moins quinze minutes sans rien faire d'autre que regarder. Au début, votre esprit risque de vagabonder vers vos inquiétudes ou votre liste de tâches. Accueillez ces pensées et laissez-les passer. Revenez doucement à l'observation de ce qui est devant vous. L'exercice consiste à remarquer trois choses que vous n'aviez pas vues durant les cinq premières minutes. Cette méthode favorise l'accommodation mentale nécessaire à l'émerveillement profond et aide à réguler le système nerveux.
+Choisissez un lieu qui vous inspire et asseyez-vous pendant au moins quinze minutes sans rien faire d'autre que regarder. Au début, votre esprit risque de vagabonder vers vos inquiétudes ou votre liste de tâches. Accueillez ces pensées et laissez-les passer. Revenez doucement à l'observation de ce qui est devant vous. L'exercice consiste à remarquer trois choses que vous n'aviez pas vues durant les cinq premières minutes. Vous pouvez rester le temps qui vous convient. Il n’y a rien à réussir ni d’émotion particulière à provoquer.
 
 ## Évolution de Mei face au monde
 
@@ -67,8 +67,10 @@ Le soir, dans la pénombre de sa chambre, elle écrit à Julien pour lui raconte
 
 ---
 
-L'émerveillement en voyage ou en expatriation est bien plus qu'une simple émotion passagère. C'est un outil thérapeutique puissant qui nous permet de redéfinir notre rapport à nous-mêmes et aux autres. En nous confrontant à la vastitude et à la beauté, nous apprenons à relativiser nos peurs et à cultiver une curiosité qui est le moteur de toute croissance personnelle. Pour les profils introvertis ou anxieux, c'est une porte d'entrée privilégiée vers une meilleure régulation émotionnelle.
+Mei trouve dans ce voyage un moment où ses préoccupations occupent moins de place. L’émerveillement est une expérience possible, près de chez soi aussi. Il ne constitue pas un traitement de l’anxiété.
 
 Comme Mei, vous pouvez utiliser ces moments de dépaysement pour briser vos vieux schémas de pensée et vous autoriser à être simplement présent, sans jugement. Que ce soit à travers une marche sensorielle ou la contemplation d'un paysage, chaque instant d'étonnement est une pierre de plus dans la construction de votre équilibre intérieur. C'est en apprenant à regarder le monde avec des yeux neufs que nous finissons par nous voir nous-mêmes avec plus de bienveillance.
 
 Si vous ressentez que votre anxiété ou votre sentiment d'inadéquation vous empêche de profiter de ces moments précieux, n'oubliez pas qu'un accompagnement avec un professionnel de la psychologie peut vous aider. Le voyage est une magnifique opportunité de découverte, mais le chemin vers la connaissance de soi bénéficie parfois d'un guide pour éclairer les zones d'ombre et transformer chaque découverte en un véritable levier de changement durable.
+
+Sources : [Keltner et Haidt, 2003](https://pubmed.ncbi.nlm.nih.gov/29715721/) ; [Piff et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25984788/).

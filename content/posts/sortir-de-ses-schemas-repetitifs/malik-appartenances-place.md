@@ -25,7 +25,7 @@ Sur le chemin du retour, il en parle à Awa, sa compagne qui vit à Dakar. Elle 
 
 Vivre des appartenances multiples consiste à se reconnaître dans plusieurs groupes, lieux, pratiques ou relations qui participent à la manière de se définir. Ces appartenances peuvent être nationales, professionnelles, familiales ou liées à une activité. Elles ne forment pas nécessairement deux blocs opposés entre lesquels il faudrait choisir une fois pour toutes.
 
-Verónica Benet-Martínez et Jana Haritatos étudient l’intégration de l’identité biculturelle. Leurs travaux distinguent notamment le sentiment de distance entre des univers culturels et le sentiment de conflit entre eux. Leur étude porte sur une population particulière et ne permet pas de déduire l’expérience de Malik à partir de son pays d’origine. Elle rappelle surtout que différence et incompatibilité ne sont pas équivalentes.
+Verónica Benet-Martínez et Jana Haritatos étudient l’intégration de l’identité biculturelle. Leurs travaux distinguent notamment le sentiment de distance entre des univers culturels et le sentiment de conflit entre eux. Leur étude porte sur des personnes sino-américaines qui se reconnaissent dans deux cultures. Elle ne permet pas de déduire l’expérience de Malik à partir de son pays d’origine. Elle rappelle surtout que différence et incompatibilité ne sont pas équivalentes.
 
 Malik peut reconnaître des habitudes distinctes entre plusieurs milieux sans se sentir déchiré. Il peut aussi rencontrer une tension dans une situation précise, par exemple lorsqu’une question lui impose de choisir une seule origine significative. Cette tension dépend de l’interaction autant que de son histoire. Elle ne démontre ni un trouble identitaire ni une migration regrettée.
 

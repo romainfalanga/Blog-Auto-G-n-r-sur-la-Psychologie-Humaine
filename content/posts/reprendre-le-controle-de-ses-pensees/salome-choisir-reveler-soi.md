@@ -25,7 +25,7 @@ Une mèche de bois enroulée reste accrochée au bord de la table. Salomé la d�
 
 Choisir son dévoilement de soi consiste à décider quelles informations personnelles partager, avec qui, dans quel contexte et dans quelle forme. Ce choix n’est pas nécessairement global. Une personne peut être ouverte avec une amie, discrète dans une présentation publique et précise sur ses accords au travail. Ces différences ne prouvent pas qu’elle se contredit. Elles peuvent refléter des usages, des niveaux de confiance et des objectifs distincts.
 
-Une étude qualitative longitudinale sur les intentions de dévoilement au travail chez de jeunes adultes LGBTQ examine les écarts entre ce qu’ils prévoient et ce qu’ils choisissent ensuite. Elle met en évidence l’intérêt du contexte réel dans ces décisions. Cette recherche ne dicte pas la réponse de Salomé et ne rend pas chaque information personnelle identique. Elle permet de regarder le dévoilement comme un choix situé plutôt que comme un test unique, réussi ou raté une fois pour toutes.
+Dans des entretiens menés à deux ans d’intervalle, de jeunes adultes LGBTQ racontent ce qu’ils comptaient révéler au travail et ce qui s’est passé ensuite. Certaines personnes disent avoir changé de projet faute d’occasion d’en parler ou en raison de ce qui passait pour professionnel dans leur milieu. L’étude porte sur des échanges au travail ; elle ne prédit ni la réaction du public de Salomé ni la circulation de sa fiche.
 
 La visibilité peut apporter une reconnaissance, une occasion de rencontre ou une manière de ne pas laisser les autres tout supposer. Elle peut également attirer une curiosité non souhaitée ou faire circuler une information plus largement que prévu. Aucune de ces possibilités ne crée une obligation de parler ou de se taire. Salomé peut considérer les conséquences sans être définie par sa prudence ni jugée selon la quantité d’informations qu’elle rend publiques.
 
@@ -49,7 +49,7 @@ Elle connaît aussi des exemples de visibilité qui lui font du bien. Elle aimer
 
 Salomé imagine tour à tour une salle accueillante et une série de questions intrusives. Dans les deux scénarios, tout le public semble réagir pareil. L’incertitude réelle est plus variée. Certaines personnes s’intéresseront au bois, d’autres aux accords, d’autres ne liront pas la fiche. Elle ne peut pas anticiper chaque réaction. Elle peut en revanche demander comment les échanges seront animés et quelle place elle souhaite donner aux questions personnelles.
 
-Elle distingue alors la réception souhaitée et les conditions qu’elle peut vérifier. Un public favorable ne peut pas être promis. Une relecture du texte, un accord sur les photos et une personne référente peuvent l’être. La préparation utile porte sur ces éléments contrôlables. Elle évite ainsi de chercher une certitude sociale complète avant toute décision, tout en refusant de traiter les conditions de diffusion comme un détail sans conséquence.
+Elle distingue alors la réception souhaitée et les conditions qu’elle peut vérifier. Elle ne peut pas savoir à l’avance comment le public réagira. Elle peut demander qui relira le texte, quelles photos pourront être publiées et à qui s’adresser en cas de problème. La préparation utile porte sur ces éléments contrôlables. Elle évite ainsi de chercher une certitude sociale complète avant toute décision, tout en refusant de traiter les conditions de diffusion comme un détail sans conséquence.
 
 ## Trois techniques pour choisir ce que l’on révèle
 

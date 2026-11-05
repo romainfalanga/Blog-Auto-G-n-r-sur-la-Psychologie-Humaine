@@ -25,7 +25,7 @@ L'autonomie est la possibilité de participer à ses choix et d'agir d'une mani�
 
 Dans la théorie de l'autodétermination, Edward Deci et Richard Ryan examinent le rôle de l'autonomie, du sentiment de compétence et du lien dans la motivation. Le soutien à l'autonomie peut passer par l'écoute du point de vue, des choix significatifs et des explications utiles. Il ne consiste pas seulement à laisser une personne sans consigne. Pour un débutant, l'absence de repères peut augmenter la confusion plutôt que créer une liberté réellement utilisable.
 
-Hyungshim Jang, Johnmarshall Reeve et Edward Deci étudient conjointement le soutien à l'autonomie et la structure dans des classes. Leurs observations soulignent que ces dimensions peuvent aller ensemble dans l'engagement des élèves. Ces résultats ne prouvent pas à eux seuls ce qui fonctionne dans toute cuisine professionnelle. Ils offrent une question pertinente : comment donner une place au choix tout en rendant les objectifs, les retours et les moyens suffisamment clairs ?
+Hyungshim Jang, Johnmarshall Reeve et Edward Deci étudient conjointement le soutien à l'autonomie et la structure dans des classes. Dans ces classes, le soutien à l'autonomie et la structure sont tous deux associés à l'engagement que les observateurs voient en classe. Pour l'engagement déclaré par les élèves, seul le soutien à l'autonomie présente une association propre dans leur analyse. Au restaurant, Éloi et Cédric cherchent quels choix et quels repères peuvent l'aider pendant cet essai.
 
 Un cadre soutenant définit les exigences nécessaires, les marges et les appuis. Il peut comporter des règles non négociables liées à la sécurité ou aux responsabilités. Il peut aussi laisser plusieurs façons d'atteindre un résultat, selon ce que le contexte autorise. Pour être utile, cette distinction doit être explicite. Une liberté annoncée qui s'accompagne ensuite de reproches pour un choix non expliqué reste difficile à utiliser.
 
@@ -91,4 +91,4 @@ Vous pouvez demander quelle décision vous revient, quelles exigences doivent ê
 
 Si le manque de marge ou la peur de demander provoquent une souffrance durable, un professionnel peut vous accompagner pour examiner la situation. Les responsables du travail ou de la formation peuvent aussi agir sur les objectifs, les moyens et les retours. Vous avez le droit de chercher une autonomie qui soutient votre vie, avec des liens et un cadre sur lesquels vous pouvez compter.
 
-Sources : [Deci et Ryan, autonomie, compétence et lien dans la motivation](https://selfdeterminationtheory.org/theory/) ; [Jang, Reeve et Deci, soutien à l'autonomie et structure dans l'apprentissage](https://doi.org/10.1037/a0019682).
+Sources : [Deci et Ryan, autonomie, compétence et lien dans la motivation](https://selfdeterminationtheory.org/theory/) ; [Jang, Reeve et Deci, soutien à l'autonomie et structure dans l'apprentissage](https://eric.ed.gov/?id=EJ892818).
