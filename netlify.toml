@@ -38,7 +38,8 @@
   status = 200
   force = true
 
-# Routes personnelles : proxifier les deux formes sans redirection de slash.
+# Le Worker redirige les anciennes pages privées sans leurs paramètres de récit.
+# Netlify transmettrait la requête à l’identique avec une redirection 301 ou 302.
 
 [[redirects]]
   from = "/mon-personnage"

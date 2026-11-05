@@ -1,4 +1,9 @@
-<section id="personnages" class="character-directory" aria-label="Explorer les personnages">
+<section id="personnages" class="character-directory" aria-labelledby="character-directory-title">
+  <div class="character-directory-heading">
+    <h2 id="character-directory-title">Explorer les personnages</h2>
+    {{ $characters := where .Site.RegularPages "Section" "personnages" }}
+    <p id="character-count" class="keyword-explainer" role="status">{{ len $characters }} personnages à explorer</p>
+  </div>
   <div class="character-search-box" role="search" aria-label="Trouver un personnage">
     <div class="character-search-field">
       <svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>
@@ -6,8 +11,6 @@
       <button type="button" id="character-search-clear" aria-label="Effacer la recherche" hidden>Effacer</button>
     </div>
   </div>
-  {{ $characters := where .Site.RegularPages "Section" "personnages" }}
-  <p id="character-count" class="keyword-explainer" role="status">{{ len $characters }} personnages à explorer</p>
   <p id="character-search-empty" class="character-search-empty" hidden>Aucun personnage ne réunit ces termes. Essayez un thème plus large ou retirez un mot.</p>
   {{ $registry := (readFile "scripts/personnages.json" | transform.Unmarshal).personnages }}
   {{ $searchIndex := slice }}
@@ -40,18 +43,19 @@
     {{ $keywords = uniq $keywords }}
     {{ $publicParcours := .Content | replaceRE `(?s)<div class="parcours-evolution">.*?</div>` "" | plainify }}
     {{ $searchIndex = $searchIndex | append (dict "id" .File.ContentBaseName "name" (.Params.prenom | default .Title) "profile" (printf "%s %s %s %s" $presentation .Params.profession .Params.situation $traits) "keywords" $keywords "stories" (printf "%s %s" $stories $publicParcours)) }}
-    <article class="perso-card reveal-card" data-character-id="{{ .File.ContentBaseName }}">
+    <article class="perso-card" data-character-id="{{ .File.ContentBaseName }}">
+      {{ $prenom := .Params.prenom | default .Title }}
       <div class="perso-card-top">
-        {{ $prenom := .Params.prenom | default .Title }}
+        <span class="character-initial" data-tone="{{ mod .Weight 3 }}" aria-hidden="true">{{ upper (substr $prenom 0 1) }}</span>
         {{ if .Params.date_naissance }}
           {{ $birth := time .Params.date_naissance }}{{ $age := sub now.Year $birth.Year }}{{ if lt (now.Format "0102") ($birth.Format "0102") }}{{ $age = sub $age 1 }}{{ end }}
-          <h3 class="perso-name">{{ $prenom }}, {{ $age }} ans</h3>
+          <h3 class="perso-name">{{ $prenom }} <span>{{ $age }} ans</span></h3>
         {{ else }}<h3 class="perso-name">{{ .Title }}</h3>{{ end }}
       </div>
       {{ with $cues }}
       <ul class="character-card-cues" aria-label="Repères dans ses histoires">{{ range .keywords }}<li>{{ . }}</li>{{ end }}</ul>
       {{ end }}
-      <a href="{{ .RelPermalink }}" class="perso-btn">Découvrir ses histoires</a>
+      <a href="{{ .RelPermalink }}" class="perso-btn" aria-label="Découvrir ses histoires, {{ $prenom }}">Découvrir ses histoires <span aria-hidden="true">→</span></a>
     </article>
     {{ end }}
   </div>

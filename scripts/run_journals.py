@@ -1,4 +1,4 @@
-"""Run the historic editorial pipeline for private portrait and story jobs.
+"""Run the batch analysis for private portraits.
 
 OpenRouter key stays in Cloudflare. GitHub OIDC authorizes bounded per-job calls.
 Private context exists only in process memory, never in Git, artifacts or logs.
@@ -75,13 +75,17 @@ def main():
         if not jobs:
             break
         job=jobs[0]
+        if job.get('kind')!='portrait' or job.get('schema_version')!=2:
+            # A stale Worker can still hand out a retired lease during rollout.
+            # Do not send its private data to the provider or publish any result.
+            break
         try:
             result=generate(job,proxy)
             try:
                 internal('/'+job['id']+'/complete',result)
             except TransportFailure as exc:
                 # A lost completion response may already have committed. Replay
-                # this same payload once; never redraft or consume another credit.
+                # this same payload once; never re-run the analysis.
                 if exc.code!='provider_error':raise
                 internal('/'+job['id']+'/complete',result)
             completed+=1

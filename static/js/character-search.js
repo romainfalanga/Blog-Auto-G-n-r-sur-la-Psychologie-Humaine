@@ -101,7 +101,7 @@
   function update() {
     var query=input.value.trim(), results=search(entries,query), shown=new Set(results.map(function(r){return r.entry.id;}));
     cards.forEach(function(card,id){card.hidden=!shown.has(id);});
-    results.forEach(function(r){var card=cards.get(r.entry.id);if(!card)return;grid.append(card);card.classList.add('is-visible');});
+    results.forEach(function(r){var card=cards.get(r.entry.id);if(!card)return;grid.append(card);});
     document.getElementById('character-count').textContent=results.length+' personnage'+(results.length>1?'s':'')+(query?' pour cette recherche':' à explorer');
     document.getElementById('character-search-empty').hidden=!!results.length;
     clear.hidden=!query;

@@ -1,12 +1,12 @@
-# Journal personnel — V6
+# Espace personnel et Ambre
 
-Pages de l’interface : `/mon-accompagnement/`, `/mon-personnage/`, `/mon-portrait/`, `/mes-proches/`, `/ma-ligne-de-vie/`, `/mon-compte/`. Les données sont privées et authentifiées. Les anciennes routes `/mes-histoires/`, `/mes-articles/` et `/journal/` conservent leurs paramètres lors des redirections.
+Pages de l’interface : `/mon-accompagnement/`, `/mon-portrait/`, `/mes-proches/`, `/ma-ligne-de-vie/`, `/mon-compte/`. Les données sont privées et authentifiées. Les anciens liens conservent les paramètres liés aux articles publics, à la navigation personnelle ou au paiement lorsque la destination les utilise.
 
 ## Base et migration
 
-Appliquer les migrations `0001` à `0011` dans l'ordre. Sur une base existante, créer d'abord un point de restauration D1 et suspendre les générations. La migration `0005_personal_context_characters.sql` conserve IDs, corps, retours et ordre des histoires ; elle les rattache au premier personnage et inscrit leurs crédits dans leur semaine d'origine. Les portraits V1 sont invalidés pour être reconstruits à partir des sources originales. `0006_recommendation_exposures.sql` stocke uniquement des IDs d'articles publics récemment proposés.
+Appliquer les migrations `0001` à `0014` dans l'ordre. Sur une base existante, créer d'abord un point de restauration D1 et suspendre les générations. La migration `0005_personal_context_characters.sql` conserve IDs, corps, retours et ordre des histoires ; elle les rattache au premier personnage et inscrit leurs crédits dans leur semaine d'origine. Les portraits V1 sont invalidés pour être reconstruits à partir des sources originales. `0006_recommendation_exposures.sql` stocke uniquement des IDs d'articles publics récemment proposés.
 
-Ne pas rejouer aveuglément une migration appliquée. Le déploiement de `worker.mjs` exige tous les modules importés de `src/`, notamment `personal-backend.mjs`, `private-context.mjs`, `recommendations.mjs`, sa baseline et le catalogue. `GENERATION_PAUSED=true` suspend claims, appels IA, préparations, continuations et publications ; lecture et édition personnelle restent disponibles.
+Ne pas rejouer aveuglément une migration appliquée. Le déploiement de `worker.mjs` exige tous les modules importés de `src/`, notamment `personal-backend.mjs`, `private-context.mjs`, `recommendations.mjs`, sa baseline et le catalogue. `GENERATION_PAUSED=true` suspend la prise en charge et la publication des analyses ; lecture et édition personnelle restent disponibles.
 
 Les proches, événements, associations, révisions, manifestes et demandes sont décrits dans [le contrat partagé](../docs/contrats-implementation-v2.md). Les créations utilisent une clé idempotente ; les modifications et suppressions vérifient la révision. Supprimer un proche conserve les événements liés. Export et suppression du compte couvrent les nouvelles tables.
 
@@ -14,23 +14,17 @@ Les proches, événements, associations, révisions, manifestes et demandes sont
 
 Un like, une relation décrite, un événement ou une mémoire personnelle peuvent démarrer le portrait. Un nom et rôle seuls ne servent pas de preuve. Les dérivés réutilisables sont attachés à une source, sa révision, son hash et la version de l'analyse. Toute assertion publiée exige une citation exacte d'une source autorisée. Un like sans commentaire reste un intérêt de faible confiance. Les très grands contextes sont traités par tranches avec couverture explicite, jamais silencieusement tronqués.
 
-En mode `FREE_ACCESS_ENABLED=true`, la plateforme est accessible sans paiement et ces anciens plafonds gratuits ne bloquent plus les révisions de portrait. Les quotas de chat, d’histoires et les budgets techniques restent actifs. Les sources modifiées invalident l'analyse en cours ; les recommandations provisoires restent disponibles. Les préférences de style ou d'évitement ne deviennent pas des faits autobiographiques.
+En mode `FREE_ACCESS_ENABLED=true`, la plateforme est accessible sans paiement et ces anciens plafonds gratuits ne bloquent plus les révisions de portrait. Le quota de conversation et les budgets techniques restent actifs. Les sources modifiées invalident l'analyse en cours ; les recommandations provisoires restent disponibles. Les préférences de style ou d'évitement ne deviennent pas des faits autobiographiques.
 
 Le classement V2 est déterministe, sans appel IA par requête, et ne remplit pas la liste avec des sujets sans rapport. Les expositions sont bornées à cent IDs sur sept jours et ne modifient pas le portrait. Les résultats synthétiques ne démontrent pas une amélioration générale chez les lecteurs ayant déjà des likes : consulter [l'évaluation](../docs/implementation-algorithmique-v2.md).
 
-## Un personnage et crédits
+## Accès et analyse du portrait
 
-L'identité et le canon fictif sont stables ; les facettes personnelles sont neutralisées si leurs preuves ne sont plus actuelles. Les événements « pour me comprendre seulement » sont exclus des consignes fictives. Si aucune source n'est utilisable pour la fiction, les fiches restent explicitement exploratoires sans fausses preuves.
+Le tarif configuré est de 29 EUR/mois après sept jours d’essai. La conversation permet 100 réponses réussies par semaine. Ambre sélectionne des lectures dans le catalogue public et peut proposer des mises à jour des données personnelles à vérifier avant enregistrement.
 
-La préparation de la fiche ne consomme pas de crédit. Chaque demande continue le dernier épisode du personnage actif, avec une seule demande active par compte. Un crédit par semaine civile Europe/Paris est réservé atomiquement. Une demande qui traverse le changement de semaine compte dans la semaine de publication. Rejouer la même demande, reprendre après correction ou republier une completion déjà reçue ne débite pas un second crédit. Un échec définitif, une annulation ou une expiration libère la réservation.
+Le Worker analyse le portrait. Pour les contextes longs, le workflow `.github/workflows/generate-articles.yml` exécute `scripts/run_journals.py` toutes les quinze minutes, manuellement ou après modification du pipeline. OIDC vérifie le dépôt, la branche, le workflow et l’événement. La clé OpenRouter reste dans Cloudflare.
 
-Le tarif est de 29 EUR/mois après sept jours d’essai, carte requise. Le chat permet 100 réponses réussies par semaine. La préparation du personnage demande une présentation, une réaction décrite et un cadre de vie exploitable. Le récit peut être demandé pendant l’actualisation du portrait. Les bindings Stripe sont requis pour encaisser ; aucun achat n'est nécessaire à la recette technique.
-
-## Génération
-
-Le workflow `.github/workflows/generate-articles.yml` exécute `scripts/run_journals.py` toutes les quinze minutes, manuellement ou après modification du pipeline. La préparation et les récits sont demandés explicitement. OIDC vérifie signature, dépôt, branche, workflow et événement. La clé OpenRouter reste dans Cloudflare.
-
-La chaîne V2 extrait les sources, synthétise le portrait, prépare les personnages puis, pour chaque demande, cadre, rédige, contrôle, corrige si nécessaire et résume le texte final. Les anciennes résolutions sont recherchées dans tout l'historique du personnage. Les preuves du delta narratif citent le corps final. Les limites sont cumulées sur la demande : vingt appels maximum, trois tentatives, bail de trente minutes ; le runner cesse de réclamer de nouvelles tâches après vingt minutes et de lancer des appels après vingt-cinq minutes. Les erreurs publiques ne contiennent pas le contexte privé.
+Les anciennes adresses du personnage et de ses histoires redirigent vers Ambre. La migration `0014_retire_personal_stories.sql` ferme les demandes de récit ouvertes et préserve les données historiques dans l’export du compte.
 
 ## Vérification
 
@@ -60,6 +54,6 @@ Catalogue partagé : `data/psychology_catalog.json`, génération par `node scri
 
 Les enregistrements relancent l’analyse native avec debounce court et contrôle sémantique séparé. Un cron Worker chaque minute récupère les tâches interrompues. Pour les contextes dépassant 130 000 caractères, la tâche est laissée au pipeline Python par lots (workflow toutes les 15 minutes) ; la couverture reste explicite. Aucun secret GitHub supplémentaire n’est nécessaire.
 
-Le statut Stripe n’est pas modifié par le mode de test. Pour rétablir le paiement requis, modifier explicitement `FREE_ACCESS_ENABLED`; ne pas fabriquer d’abonnement dans la base. La clé OpenRouter reste un secret du Worker. Les générations coûtent des crédits au propriétaire même si l’interface est ouverte gratuitement.
+Le statut Stripe n’est pas modifié par le mode de test. Pour rétablir le paiement requis, modifier explicitement `FREE_ACCESS_ENABLED`; ne pas fabriquer d’abonnement dans la base. La clé OpenRouter reste un secret du Worker. Les analyses coûtent des crédits au propriétaire même si l’interface est ouverte gratuitement.
 
 `0011_native_portrait_candidate.sql` ajoute un candidat non publié, lié au job et invalidé à chaque changement de source. La reprise vérifie ce candidat sans refaire la synthèse ; publication uniquement après contrôle sémantique. `OPENROUTER_PORTRAIT_MODEL` vaut actuellement `anthropic/claude-sonnet-5.5` ; le pipeline Python conserve le modèle analytique général.

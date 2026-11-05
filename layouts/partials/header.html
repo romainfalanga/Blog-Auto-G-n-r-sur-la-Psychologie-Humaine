@@ -5,7 +5,7 @@
     <nav class="site-navigation" id="site-navigation" aria-label="Navigation principale">
       <ul class="nav-links">
         {{ range .Site.Data.navigation }}
-        <li><a href="{{ .href }}">{{ .label }}</a></li>
+        <li><a href="{{ .href }}"{{ if and $.IsHome (eq .href "/") }} aria-current="page"{{ end }}>{{ .label }}</a></li>
         {{ end }}
       </ul>
     </nav>

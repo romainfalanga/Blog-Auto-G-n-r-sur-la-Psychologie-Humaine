@@ -4,8 +4,8 @@
   "description": "Blog de psychologie vulgarisée pour mieux se comprendre soi-même",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#FAFAF8",
-  "theme_color": "#5BA8A0",
+  "background_color": "#F2F5F7",
+  "theme_color": "#F2F5F7",
   "lang": "fr",
   "icons": [
     {

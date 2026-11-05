@@ -1,6 +1,6 @@
 # Décode ton esprit
 
-Site : https://decodetonesprit.fr. Pages personnelles : `/mon-accompagnement/`, `/mon-portrait/`, `/mes-proches/`, `/ma-ligne-de-vie/`, `/mon-personnage/` et `/mon-compte/`. Les anciens liens `/mes-histoires/` et `/mes-personnages/` restent valides.
+[Décode ton esprit](https://decodetonesprit.fr) réunit le catalogue public et l’espace personnel. Cet espace comprend `/mon-accompagnement/`, `/mon-portrait/`, `/mes-proches/`, `/ma-ligne-de-vie/` et `/mon-compte/`. Les anciennes adresses de récits personnalisés redirigent vers Ambre. Les données historiques restent dans l’export privé du compte.
 
 Le catalogue réunit 387 articles et 33 personnages publics. Les 231 récits antérieurs sont conservés ; les 13 nouveaux parcours comportent chacun 12 récits rédigés directement, sans appel au générateur d’articles. La recherche combine mots-clés et formulations proches, sans propositions à l’ouverture du champ. Les cartes affichent les repères psychologiques de chaque parcours.
 
@@ -10,19 +10,17 @@ Dans **Mon portrait**, chacun se présente avec ses propres mots : perception de
 
 Le portrait distingue déclarations, hypothèses et intérêts de lecture. Ses éléments sont rattachés aux sources originales et à leur révision. Une correction ou suppression invalide les anciennes déductions ; la fiction ne devient jamais une biographie réelle. Les recommandations exploitent séparément résonance, différences, préférences de lecture et sujets à éviter.
 
-**Mon personnage** propose une seule identité fictive stable et une histoire suivie. Sa préparation nécessite un accès actif, une présentation, des réactions décrites et un cadre de vie exploitable. Une histoire est disponible par semaine civile, du lundi à minuit au lundi suivant en Europe/Paris. La demande réserve le crédit et la publication le consomme. Les personnages secondaires de l’ancienne version restent en archives, avec leurs histoires et retours ; ils ne génèrent plus de nouveaux épisodes.
-
-Le mode de test `FREE_ACCESS_ENABLED=true` permet actuellement d’utiliser la plateforme sans paiement, en conservant les quotas et les conditions de démarrage du personnage. Le tarif configuré pour une future activation est de 29 EUR/mois après sept jours gratuits. Le paiement dépend de la configuration Stripe ; une interface publiée ne signifie pas qu’un encaissement est activé.
+Le mode de test `FREE_ACCESS_ENABLED=true` permet actuellement d’utiliser la plateforme sans paiement. Le tarif configuré pour une future activation est de 29 EUR/mois après sept jours gratuits. Le paiement dépend de la configuration Stripe.
 
 **Ambre** propose une conversation IA, avec 100 messages utilisateur ayant reçu une réponse par semaine. La présentation reste le premier message des conversations, y compris les fils existants. Elle ne consomme aucun message. L’envoi apparaît immédiatement, avec un indicateur d’attente puis une révélation progressive de la réponse validée. La dictée française du navigateur affiche un texte modifiable, sans envoi automatique ni conservation d’audio par l’application ; sa disponibilité et son service vocal dépendent du navigateur.
 
-Les propositions de modification du portrait, des proches et de la ligne de vie sont sourcées, modifiables et appliquées uniquement après acceptation. Les capacités sont calculées côté serveur puis revérifiées à la confirmation. La préparation du personnage peut être lancée depuis le chat. Les histoires demandées dans le chat utilisent le même crédit hebdomadaire, avec un angle approuvé. L’historique reste distinct du profil ; son effacement depuis l’interface ne réinitialise pas les quotas.
+Les propositions de modification du portrait, des proches et de la ligne de vie sont sourcées, modifiables et appliquées uniquement après acceptation. Les capacités sont calculées côté serveur puis revérifiées à la confirmation. Ambre peut proposer des articles déjà publiés et relier la lecture à ce que la personne vient de partager. Chaque réponse contient au maximum deux questions. L’historique reste distinct du profil ; son effacement depuis l’interface ne réinitialise pas les quotas.
 
 La cartographie présente d’abord les pistes personnelles, puis leurs éléments d’appui, contre-indices, autres explications et questions. L’exploration des 161 repères reste accessible séparément. Ces repères ne constituent ni des diagnostics ni des probabilités cliniques validées.
 
 ## Architecture
 
-Hugo/Netlify sert le catalogue public. Cloudflare Worker/D1 gère comptes, sources personnelles, personnages, crédits et histoires privées. GitHub Actions traite la file toutes les quinze minutes ; il ne crée aucun récit sans demande. Les retards du planificateur sont possibles.
+Hugo/Netlify sert le catalogue public. Cloudflare Worker/D1 gère les comptes, les sources personnelles, la conversation et l’analyse du portrait. GitHub Actions relaie l’analyse du portrait pour les contextes longs. Les retards du planificateur sont possibles.
 
 La clé `OPENROUTER_API_KEY` reste un secret Cloudflare. Les Actions s'authentifient par OIDC auprès d'une passerelle qui vérifie versions, bail, droits et budgets avant chaque appel. Les textes privés ne sont écrits ni dans Git, ni dans les articles publics, ni dans les logs Actions.
 
@@ -43,4 +41,4 @@ Voir [le plan et les décisions V4](docs/plan-accompagnement-v4.md), [le guide b
 
 V10 : [plan, revue et validation](docs/plan-ambre-v10.md), [audit de couverture](docs/couverture-v10-proposition.md), [contrat de capacités](docs/plan-capacites-v10.md), [interface](docs/plan-interface-v10.md), [manifeste des 156 récits](data/editorial_pack_v10.json).
 
-V13 : [plan Ambre, portrait et histoires personnelles](docs/plan-ambre-v13.md).
+[Plan de refonte de l’espace personnel](docs/plan-espace-ambre-v14.md).

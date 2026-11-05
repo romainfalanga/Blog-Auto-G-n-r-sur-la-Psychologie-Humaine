@@ -176,18 +176,27 @@ async function routes(request,env,ctx) {
   const url=new URL(request.url),path=url.pathname,method=request.method;
   if(method==='GET'&&path==='/') return Response.redirect('https://decodetonesprit.fr/',302);
   if(['GET','HEAD'].includes(method)&&['/mes-articles','/mes-articles/'].includes(path)) return Response.redirect(new URL('/mon-portrait/'+url.search+'#mes-articles',env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
-  if(['GET','HEAD'].includes(method)&&['/mes-histoires','/mes-histoires/','/mes-personnages','/mes-personnages/'].includes(path)) return Response.redirect(new URL('/mon-personnage/'+url.search,env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
-  const pageTitles={'/mon-accompagnement':'Ambre','/mon-personnage':'Mon personnage','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mon-portrait':'Mon portrait','/mon-compte':'Mon compte'};
+  if(['GET','HEAD'].includes(method)&&/^\/(?:mon-personnage|mes-histoires|mes-personnages)(?:\/|$)/.test(path)) return new Response(null,{status:302,headers:{Location:'/mon-accompagnement/'}});
+  const pageTitles={'/mon-accompagnement':'Ambre','/mes-proches':'Mes proches','/ma-ligne-de-vie':'Ma ligne de vie','/mon-portrait':'Mon portrait','/mon-compte':'Mon compte'};
   const pagePath=path.replace(/\/$/,'');
   if(['GET','HEAD'].includes(method)&&pageTitles[pagePath]) {
     const page=HTML.replace(/<title>[^<]*<\/title>/,'<title>Décode ton esprit</title>');
     return new Response(method==='HEAD'?null:page,{headers:{'Content-Type':'text/html; charset=utf-8'}});
   }
-  if(['GET','HEAD'].includes(method)&&['/journal','/journal/'].includes(path)) {
-    const tab=url.searchParams.get('tab');
-    const destination=url.searchParams.has('payment')?'/mon-compte/':url.searchParams.has('story')?'/mon-personnage/':url.searchParams.has('article')||url.searchParams.has('character')||tab==='likes'?'/mon-portrait/':tab==='portrait'?'/mon-portrait/':tab==='account'?'/mon-compte/':'/mon-personnage/';
-    return Response.redirect(new URL(destination+url.search+(destination==='/mon-portrait/'&&(url.searchParams.has('article')||url.searchParams.has('character')||tab==='likes')?'#mes-articles':''),env.PUBLIC_ORIGIN||'https://decodetonesprit.fr').href,302);
+  if(['GET','HEAD'].includes(method)&&/^\/journal(?:\/|$)/.test(path)) {
+    const query=url.searchParams,tab=query.get('tab'),params=new URLSearchParams();
+    if(query.has('payment')) {
+      params.set('payment',query.get('payment'));
+      return new Response(null,{status:302,headers:{Location:'/mon-compte/?'+params}});
+    }
+    if(query.has('article')||tab==='likes') {
+      for(const key of ['article','like'])if(query.has(key))params.set(key,query.get(key));
+      return new Response(null,{status:302,headers:{Location:'/mon-portrait/'+(params.size?'?'+params:'')+'#mes-articles'}});
+    }
+    const destination=tab==='portrait'?'/mon-portrait/':tab==='account'?'/mon-compte/':'/mon-accompagnement/';
+    return new Response(null,{status:302,headers:{Location:destination}});
   }
+  if(/^\/api\/(?:characters|stories|story-requests)(?:\/|$)/.test(path)) error(410,'Cette fonctionnalité a été retirée.','feature_retired');
   if(method==='GET'&&path==='/api/examples') return json({examples:EXAMPLES.map(({id,title,url,character,description,keywords,character_keywords,sujet,category})=>({id,title,url,character,description,keywords:keywords||[],character_keywords:character_keywords||[],sujet:sujet||'',category:category||''}))});
   if(method==='GET'&&path==='/api/health') return json({ok:true,billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY)});
   if(method==='GET'&&path==='/robots.txt') return new Response('User-agent: *\nDisallow: /\n');
@@ -293,32 +302,6 @@ async function routes(request,env,ctx) {
     if(expected!==null&&!saved[1].meta.changes)error(409,'Votre mémoire a changé. Rechargez-la avant de réessayer.','revision_conflict');
     await personal.sourcesChanged(env,user.id,ctx);
     return json({ok:true,source_version:(await first(env,'SELECT version FROM profiles WHERE user_id=?',user.id)).version,memory_version:(await first(env,'SELECT version FROM memories WHERE user_id=?',user.id)).version});
-  }
-  if(path==='/api/stories'&&method==='GET') return json({stories:await all(env,'SELECT id,day,title,summary,created_at FROM stories WHERE user_id=? ORDER BY day DESC LIMIT 366',user.id)});
-  const storyMatch=path.match(/^\/api\/stories\/([\w-]+)(\/feedback)?$/);
-  if(storyMatch) {
-    const story=await first(env,'SELECT * FROM stories WHERE id=? AND user_id=?',storyMatch[1],user.id); if(!story) error(404,'Histoire introuvable.');
-    if(!storyMatch[2]&&method==='GET') return json({story:{...story,reflection_questions:parse(story.reflection_questions,[]),narrative_delta:parse(story.narrative_delta)},feedback:await first(env,'SELECT resonance,feelings,why,correction,differences,scope,preference,avoid,revision FROM feedback WHERE story_id=? AND user_id=?',story.id,user.id)});
-    if(storyMatch[2]&&method==='PUT') {
-      const data=await body(request,60000); if(!Number.isInteger(data.resonance)||data.resonance<1||data.resonance>5) error(400,'Choisissez une note de 1 à 5.');
-      if(!Number.isInteger(data.revision)||data.revision<0)error(400,'La révision du retour est requise, ou 0 pour un premier retour.','revision_required');
-      const activeStory="EXISTS(SELECT 1 FROM stories s JOIN personal_characters c ON c.id=s.character_id AND c.user_id=s.user_id WHERE s.id=? AND s.user_id=? AND c.is_primary=1)";
-      if(!await first(env,'SELECT 1 AS active WHERE '+activeStory,story.id,user.id))error(409,'Ce personnage est archivé. Son histoire reste en lecture seule.','character_archived');
-      const fields={resonance:data.resonance,feelings:text(data.feelings||'',3000),why:text(data.why||'',4000),correction:text(data.correction||'',4000),differences:text(data.differences||'',4000),scope:text(data.scope||'overall',30),preference:text(data.preference||'',4000),avoid:text(data.avoid||'',4000)};
-      if(!['overall','situation','reaction','character','style'].includes(fields.scope))error(400,'Portée invalide.','invalid_scope');
-      const keys=Object.keys(fields),values=Object.values(fields),expected=data.revision;
-      const result=await env.DB.batch([
-        env.DB.prepare(`INSERT INTO feedback(story_id,user_id,${keys.join(',')}) SELECT ?,?,${keys.map(()=>'?').join(',')} WHERE ${activeStory} AND ((?=0 AND NOT EXISTS(SELECT 1 FROM feedback WHERE story_id=? AND user_id=?)) OR EXISTS(SELECT 1 FROM feedback WHERE story_id=? AND user_id=? AND revision=?)) ON CONFLICT(story_id) DO UPDATE SET ${keys.map(k=>k+'=excluded.'+k).join(',')},revision=feedback.revision+1,updated_at=CURRENT_TIMESTAMP WHERE feedback.revision=? AND ${activeStory} AND (${keys.map(k=>'feedback.'+k+'!=excluded.'+k).join(' OR ')})`).bind(story.id,user.id,...values,story.id,user.id,expected,story.id,user.id,story.id,user.id,expected,expected,story.id,user.id),
-        env.DB.prepare('UPDATE profiles SET version=version+1 WHERE user_id=? AND changes()>0').bind(user.id)
-      ]);
-      const saved=await first(env,'SELECT resonance,feelings,why,correction,differences,scope,preference,avoid,revision FROM feedback WHERE story_id=? AND user_id=?',story.id,user.id);
-      if(!result[0].meta.changes){
-        if(!await first(env,'SELECT 1 AS active WHERE '+activeStory,story.id,user.id))error(409,'Ce personnage est archivé. Son histoire reste en lecture seule.','character_archived');
-        if(!saved||saved.revision!==expected||keys.some(k=>saved[k]!==fields[k]))error(409,'Ce retour a été modifié. Votre brouillon est conservé.','revision_conflict');
-      }
-      await personal.sourcesChanged(env,user.id,ctx);
-      return json({ok:true,feedback:saved,source_version:(await first(env,'SELECT version FROM profiles WHERE user_id=?',user.id)).version});
-    }
   }
   if(path==='/api/billing/checkout'&&method==='POST') {
     if(!billingReady(env)||!env.OPENROUTER_API_KEY) error(503,'Les abonnements ne sont pas encore ouverts.');

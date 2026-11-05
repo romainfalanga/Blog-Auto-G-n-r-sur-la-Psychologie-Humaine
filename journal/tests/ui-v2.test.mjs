@@ -38,7 +38,6 @@ class Element {
   matches(selector) {
     if(selector==='input,select,textarea')return ['INPUT','SELECT','TEXTAREA'].includes(this.tagName);
     if(selector==='[data-reload-source]')return this.dataset.reloadSource!==undefined;
-    if(selector==='[data-continue-character]')return this.dataset.continueCharacter!==undefined;
     if(selector==='[data-map-mode]')return this.dataset.mapMode!==undefined;
     if(selector==='button[type=submit]')return this.tagName==='BUTTON'&&this.type==='submit';
     if(selector==='[name=people_ids]:checked')return this.name==='people_ids'&&this.checked;
@@ -52,8 +51,8 @@ class Element {
 function environment(extra={}) {
   const doc={ids:new Map(),addEventListener(){},removeEventListener(){},createElement(tag){return new Element(tag,this)},createTextNode(text){return String(text)},getElementById(id){return this.ids.get(id)||null},querySelectorAll(selector){return [...this.ids.values()].filter(x=>x.matches(selector))},querySelector(selector){if(selector.startsWith('#')){const [id,...rest]=selector.slice(1).split(' ');return this.getElementById(id)?.querySelector(rest.join(' '))||null;}return this.querySelectorAll(selector)[0]||null}};
   class FormDataMock { constructor(form){this.values=form.querySelectorAll('input,select,textarea').filter(x=>x.name&&!x.disabled&&(x.type!=='checkbox'||x.checked)).map(x=>[x.name,x.value]);}entries(){return this.values.values();} }
-  const ctx=vm.createContext({document:doc,FormData:FormDataMock,URL,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),continueKeys:new Map(),tab:'journal',characterData:{},characters:[]},renderTokens:new WeakMap(),confirm:()=>true,refreshRecommendations(){},status(){},clearTimeout(){},setTimeout(){return 1},console,...extra});
-  for (const name of ['renderGuard','el','actionButton','formValues','busy','sourceField','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','characterSearch','requestIsActive','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','drawChatCharacterPreparation','scrollChatTo','revealChatResponse','chatMessageEntry','drawChatReadings','retryChatMessage','mapEvidenceContent']) vm.runInContext(functionCode(name),ctx);
+  const ctx=vm.createContext({document:doc,FormData:FormDataMock,URL,URLSearchParams,crypto:{randomUUID:()=> 'create-uuid'},state:{people:[],events:[],sourceDrafts:new Map(),tab:'chat'},renderTokens:new WeakMap(),confirm:()=>true,refreshRecommendations(){},status(){},clearTimeout(){},setTimeout(){return 1},console,...extra});
+  for (const name of ['renderGuard','el','actionButton','formValues','busy','sourceField','newClientId','captureSourceDraft','sourceDate','drawSourceEditor','chatConsent','chatFailureMessage','applyChatAvailability','scheduleChatCooldown','chatIsCurrent','chatCapabilityMessage','chatHasPending','updateChatControls','disposeChatInterface','resetChatSession','reconcileChatTurn','createChatShell','drawChatGate','scrollChatTo','revealChatResponse','chatMessageEntry','drawChatReadings','retryChatMessage','mapEvidenceContent']) vm.runInContext(functionCode(name),ctx);
   vm.runInContext(script.match(/var PERSON_ROLES=.*\n/)[0]+script.match(/var EVENT_KINDS=.*\n/)[0],ctx);
   vm.runInContext(functionCode('createVoiceInput'),ctx);
   ctx.drawSourceSection=()=>{};ctx.sourceSaved=()=>{};
@@ -69,14 +68,10 @@ function chatFixture(extra={}) {
  return {...env,view,get form(){return env.doc.getElementById('chat-form')},get input(){return env.doc.getElementById('chat-content')},get send(){return env.doc.getElementById('chat-form').querySelector('button[type=submit]')}};
 }
 
-test('the generated application script parses, and canonical URLs keep both identities',()=>{
+test('the generated application script parses without personal story controls',()=>{
   new vm.Script(script);
-  const {ctx}=environment();
-  assert.equal(ctx.characterSearch('char & a','old/story?1'),'?personnage=char+%26+a&story=old%2Fstory%3F1');
-  assert.equal(ctx.requestIsActive({status:'waiting_portrait'}),true);
-  assert.equal(ctx.requestIsActive({status:'completed'}),false);
   assert.match(functionCode('renderLikes'),/legacy.id='suggestions';legacy.tabIndex=-1/);
-  assert.doesNotMatch(HTML,/Mes histoires|une histoire chaque jour|quotidiennes/);
+  assert.doesNotMatch(HTML,/Mon personnage|Mes histoires|une histoire chaque jour/);
 });
 
 test('a retry retains the person creation key and full unsaved text after a failed write',async()=>{
@@ -90,18 +85,18 @@ test('a retry retains the person creation key and full unsaved text after a fail
   assert.equal(calls[0][2].relationship_text,'Un texte personnel complet.');
 });
 
-test('life-event form preserves an approximate age, associations and understanding-only choice',async()=>{
-  let sent;const env=editFixture('events',{title:'Un tournant',kind:'turning_point',date_precision:'age',age_text:'Vers 15 ans',date_start:'2020',description:'Mon ressenti.',people_ids:['p1'],fiction_use:'understanding_only'},{api:async(path,method,payload)=>{sent=payload;throw new Error('offline')}});
+test('life-event form preserves an approximate age, and associated people',async()=>{
+  let sent;const env=editFixture('events',{title:'Un tournant',kind:'turning_point',date_precision:'age',age_text:'Vers 15 ans',date_start:'2020',description:'Mon ressenti.',people_ids:['p1']},{api:async(path,method,payload)=>{sent=payload;throw new Error('offline')}});
   const form=env.form; // Simulate a selected checkbox exactly as FormData exposes it.
   const person=env.doc.createElement('input');person.type='checkbox';person.name='people_ids';person.value='p1';person.checked=true;form.append(person);
   await form.fire('submit');
   assert.equal(sent.age_text,'Vers 15 ans');assert.equal(sent.date_start,'');assert.equal(sent.date_end,'');
-  assert.equal(sent.fiction_use,'understanding_only');assert.deepEqual(Array.from(sent.people_ids),['p1']);assert.equal(sent.current_importance,null);
+  assert.equal('fiction_use' in sent,false);assert.deepEqual(Array.from(sent.people_ids),['p1']);assert.equal(sent.current_importance,null);
   assert.equal(env.ctx.sourceDate(sent),'Vers 15 ans');
 });
 
 test('saving a year never invents a month or day, and changing precision updates required fields',async()=>{
-  let sent;const env=editFixture('events',{title:'2020',kind:'positive',date_precision:'unknown',description:'Un souvenir',people_ids:[],fiction_use:'abstract'},{api:async(p,m,d)=>{sent=d;throw new Error('offline')}});
+  let sent;const env=editFixture('events',{title:'2020',kind:'positive',date_precision:'unknown',description:'Un souvenir',people_ids:[]},{api:async(p,m,d)=>{sent=d;throw new Error('offline')}});
   const precision=field(env.form,'date_precision','year');await precision.fire('change');field(env.form,'date_start','2020');
   assert.equal(env.form.elements.date_start.required,true);assert.equal(env.form.elements.age_text.required,false);
   await env.form.fire('submit');assert.equal(sent.date_start,'2020');assert.equal(sent.date_precision,'year');assert.equal(sent.age_text,'');
@@ -119,13 +114,6 @@ test('text typed while saving remains a draft with the newly saved revision',asy
   const draft=env.ctx.state.sourceDrafts.get('people');assert.equal(draft.id,'p1');assert.equal(draft.revision,1);assert.equal(draft.values.relationship_text,'Après la demande');assert.equal(draft.creation_id,undefined);
 });
 
-test('continuation retries use the same idempotency key and latest parent, never the episode being read',async()=>{
-  const calls=[];const env=environment({api:async(...args)=>{calls.push(args);throw new Error('network')}});env.host('view');env.host('character-preparation');env.ctx.drawCharacterCards=()=>{};env.ctx.renderQuota=()=>{};env.ctx.drawRequestState=()=>{};
-  vm.runInContext(functionCode('continueCharacter'),env.ctx);env.ctx.state.selected='old-story';const button=env.doc.createElement('button'),character={id:'c1',last_story_id:'latest-story'};
-  await env.ctx.continueCharacter(character,button);await env.ctx.continueCharacter(character,button);
-  assert.equal(calls.length,2);assert.equal(calls[0][2].idempotency_key,calls[1][2].idempotency_key);assert.equal(calls[0][2].expected_parent_id,'latest-story');
-});
-
 test('Netlify proxies both canonical forms with private no-store and keeps legacy query paths',()=>{
   const config=readFileSync(new URL('../../netlify.toml',import.meta.url),'utf8');
   for(const path of ['/mes-personnages','/mes-personnages/*','/mes-histoires','/journal'])assert.ok(config.includes('from = "'+path+'"'));
@@ -140,17 +128,9 @@ test('a late source-save response cannot replace another editor opened in the sa
   assert.equal(env.ctx.state.sourceDrafts.get('people').id,'other-person');assert.equal(env.doc.getElementById('people-form').elements.relationship_text.value,'Autre brouillon');
 });
 
-test('a second continuation action is ignored while the first response is pending',async()=>{
-  let reject;const request=new Promise((resolve,r)=>reject=r),calls=[];const env=environment({api:async(...args)=>{calls.push(args);return request}});env.host('view');env.host('character-preparation');env.ctx.drawCharacterCards=()=>{};
-  vm.runInContext(functionCode('continueCharacter'),env.ctx);
-  const first=env.ctx.continueCharacter({id:'c1',last_story_id:null},env.doc.createElement('button'));
-  await env.ctx.continueCharacter({id:'c2',last_story_id:null},env.doc.createElement('button'));
-  assert.equal(calls.length,1);reject(new Error('network'));await first;assert.equal(env.ctx.state.characterRequestPending,false);
-});
-
 test('V3 separates relationship and life pages from the declared and interpreted portrait',()=>{
   const env=environment();vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('pageForPath'),env.ctx);
-  assert.equal(env.ctx.pageForPath('/mes-proches'),'people');assert.equal(env.ctx.pageForPath('/ma-ligne-de-vie/'),'events');assert.equal(env.ctx.pageForPath('/mon-personnage/'),'journal');
+  assert.equal(env.ctx.pageForPath('/mes-proches'),'people');assert.equal(env.ctx.pageForPath('/ma-ligne-de-vie/'),'events');assert.equal(env.ctx.pageForPath('/mon-accompagnement/'),'chat');
   assert.doesNotMatch(functionCode('renderPortrait'),/renderPersonalSources/);
   assert.match(functionCode('renderPortrait'),/renderSelfProfile/);
   assert.match(HTML,/À propos de moi/);assert.match(functionCode('renderPortrait'),/data-portrait-tab="synthesis">Mon portrait/);
@@ -176,27 +156,12 @@ test('self presentation keeps edits typed during a save with the new revision',a
   assert.equal(env.ctx.state.selfRevision,3);assert.equal(env.ctx.state.selfDraft.self_description,'Après');assert.match(env.doc.getElementById('self-profile-status').textContent,/restent à sauvegarder/);
 });
 
-test('one active character is gated by readiness and archives have no continuation action',()=>{
-  const env=environment();env.host('character-cards');Object.assign(env.ctx.state,{me:{subscription:{active:true}},archivedCharacters:[{id:'old'}],characters:[{id:'active',identity:{name:'Nina'}},{id:'ignored'}],selectedCharacter:'active',characterData:{readiness:{eligible:false},quota:{remaining:7}}});
-  vm.runInContext(functionCode('characterName')+'\n'+functionCode('characterEligible')+'\n'+functionCode('drawCharacterCards'),env.ctx);
-  env.ctx.drawCharacterCards();let cards=env.doc.getElementById('character-cards');assert.equal(cards.children.length,1);assert.equal(cards.querySelector('[data-continue-character]').disabled,true);
-  env.ctx.state.characterData.readiness.eligible=true;env.ctx.drawCharacterCards();assert.equal(cards.querySelector('[data-continue-character]').disabled,false);
-  env.ctx.state.selectedCharacter='old';env.ctx.drawCharacterCards();assert.equal(cards.querySelector('[data-continue-character]'),null);assert.match(cards.textContent,/Revenir à mon personnage actif/);
-});
-
 test('V4 global navigation has exactly the shared public links in source order',()=>{
   const navigation=JSON.parse(readFileSync(new URL('../../data/navigation.json',import.meta.url),'utf8'));
   const menu=HTML.match(/<ul class="nav-links">([\s\S]*?)<\/ul>/)[1];
   const links=[...menu.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map(match=>({href:match[1],label:match[2]}));
-  assert.deepEqual(links,navigation);assert.equal(links.length,7);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
+  assert.deepEqual(links,navigation);assert.equal(links.length,6);assert.doesNotMatch(menu,/Se connecter|Se déconnecter/);
   assert.match(readFileSync(new URL('../../layouts/partials/header.html',import.meta.url),'utf8'),/\.Site\.Data\.navigation/);
-});
-
-test('new character page shows the evidence grid and never fetches an old story when empty',async()=>{
-  const calls=[];const env=environment({api:async(path)=>{calls.push(path);return {characters:[],archived_characters:[],readiness:{eligible:false,reasons:['information_required'],information:[{id:'reaction',label:'Une réaction qui revient',complete:false}]}}},capturePageDrafts(){}});
-  const host=env.host('view');Object.assign(env.ctx.state,{me:{subscription:{active:false}},selected:'old-story',selectedCharacter:null});
-  vm.runInContext(functionCode('characterEligible')+'\n'+functionCode('characterProgress')+'\n'+functionCode('renderJournal'),env.ctx);
-  await env.ctx.renderJournal();assert.deepEqual(calls,['/api/characters']);assert.match(host.textContent,/Une réaction qui revient/);assert.doesNotMatch(host.textContent,/articles aimés|archives|quota|première histoire/i);assert.deepEqual(env.ctx.state.characters,[]);
 });
 
 test('portrait rendering no longer exposes the obsolete fictional character card',()=>{
@@ -353,11 +318,7 @@ test('V6 completed map feedback retains edits made during the write with a new c
 
 test('V6 portrait polling refreshes content without route rendering and stops after navigation',async()=>{
  const timers=[],calls=[],applied=[];const env=environment({setTimeout(fn){timers.push(fn);return timers.length},clearTimeout(){},api:async(path)=>{calls.push(path);return {status:'ready',source_version:5}},applyPortraitData(data){applied.push(data)}});env.ctx.state.tab='portrait';vm.runInContext(functionCode('schedulePortraitPoll'),env.ctx);env.ctx.schedulePortraitPoll(()=>true,{status:'queued'});assert.equal(timers.length,1);await timers.shift()();assert.deepEqual(calls,['/api/portrait']);assert.equal(applied.length,1);assert.equal(timers.length,0);
- env.ctx.schedulePortraitPoll(()=>true,{status:'updating'});env.ctx.state.tab='journal';await timers.shift()();assert.equal(calls.length,1);
-});
-
-test('free preview permits an eligible character and does not bypass the information grid',()=>{
- const env=environment();vm.runInContext(functionCode('characterEligible')+'\n'+functionCode('characterProgress'),env.ctx);Object.assign(env.ctx.state,{me:{access:{mode:'free_preview',allowed:true},subscription:{active:false}},characterData:{readiness:{eligible:true}}});assert.equal(env.ctx.characterEligible(),true);env.ctx.state.characterData.readiness.eligible=false;assert.equal(env.ctx.characterEligible(),false);assert.match(env.ctx.characterProgress({readiness:{information:[{id:'self',label:'Votre présentation',complete:false}]}}).textContent,/À préciser : Votre présentation/);assert.doesNotMatch(env.ctx.characterProgress({readiness:{}}).textContent,/abonnement actif/);
+ env.ctx.schedulePortraitPoll(()=>true,{status:'updating'});env.ctx.state.tab='chat';await timers.shift()();assert.equal(calls.length,1);
 });
 
 test('V6 free preview account displays access and quotas without checkout or subscription offers',()=>{
@@ -523,19 +484,6 @@ test('chat completion and fallback refresh cannot clear another view draft after
  assert.equal(env.ctx.state.chatDraft,'Brouillon actuel');assert.equal(env.ctx.state.chatSendKey.key,'current');assert.equal(env.ctx.state.chatRequest.id,'current');assert.equal(env.ctx.state.chatSending,true);assert.equal(env.ctx.state.chatData.marker,'current');
 });
 
-test('a first feedback draft keeps revision zero when the story is reopened after another editor saves',async()=>{
- let remoteFeedback=null,sent;const env=environment({plainBody(){},characterName:()=> 'Camille',capturePageDrafts(){},api:async(path,method,payload)=>{if(method==='PUT'){sent=payload;const error=new Error('Ce retour a été modifié.');error.status=409;throw error;}return {story:{id:'s1',character_id:'c1',title:'Fiction',body:'Fiction',reflection_questions:[]},feedback:remoteFeedback}}});
- Object.assign(env.ctx.state,{tab:'journal',selected:'s1',selectedCharacter:'c1',characters:[{id:'c1'}],archivedCharacters:[],feedbackDrafts:new Map()});
- const form=env.host('feedback-form');for(const id of ['reading','story-label','story-title','story-preview','story-preview-section','story-body','story-reflection','recognition'])env.host(id);
- for(const name of ['why','correction','differences','scope','preference','avoid']){const input=env.doc.createElement('textarea');input.id='feedback-'+name;input.name=name;form.append(input);}
- env.ctx.formValues=()=>({resonance:'5',why:env.doc.getElementById('feedback-why').value});vm.runInContext(functionCode('storyDefinitionPreview')+'\n'+functionCode('loadStory'),env.ctx);
- await env.ctx.loadStory('s1');env.doc.getElementById('feedback-why').value='Mon brouillon initial';await form.fire('input');assert.equal(env.ctx.state.feedbackDrafts.get('s1').revision,0);
- remoteFeedback={revision:1,resonance:3,why:'Un autre onglet'};await env.ctx.loadStory('s1');assert.equal(env.doc.getElementById('feedback-why').value,'Mon brouillon initial');
- // The test DOM keeps the original form node; use only the freshly rendered handler.
- form.listeners.submit=form.listeners.submit.slice(-1);await form.fire('submit');
- assert.equal(sent.revision,0);assert.equal(sent.why,'Mon brouillon initial');assert.equal(env.ctx.state.feedbackDrafts.get('s1').revision,0);assert.equal(env.ctx.state.feedbackDrafts.get('s1').why,'Mon brouillon initial');
-});
-
 test('append proposals show and submit only the added fragment while keeping the full original in the preview',async()=>{
  let sent,confirmations=0;const original='Une longue présentation déjà enregistrée. '.repeat(180),env=environment({confirm(){confirmations++;return true},api:async(path,method,payload)=>{sent={path,payload};throw new Error('Réseau indisponible')}});env.ctx.state.chatProposalDrafts=new Map();vm.runInContext(functionCode('drawChatProposal'),env.ctx);
  const host=env.host('proposals');env.ctx.drawChatProposal(host,{id:'append',kind:'self_profile_patch',revision:2,payload:{self_description:'Une précision nouvelle.'},before:{self_description:original},field_modes:{self_description:'append'},evidence_quote:'Mes mots exacts.'},()=>true);
@@ -578,7 +526,7 @@ test('V10 polling failure restores no old text over a following draft and can re
 });
 
 test('new welcome remains first in conversations with existing history and uses no quota',()=>{
- let calls=0;const env=chatFixture({api:async()=>{calls++;throw new Error('Unexpected')}}),welcome={id:'ambre-welcome-v2',role:'assistant',content:'Bonjour, je suis Ambre. Qu’aimeriez-vous comprendre ?'};
+ let calls=0;const env=chatFixture({api:async()=>{calls++;throw new Error('Unexpected')}}),welcome={id:'ambre-welcome-v3',role:'assistant',content:'Bonjour, je suis Ambre. Qu’aimeriez-vous comprendre ?'};
  env.ctx.state.chatData.welcome=welcome;env.ctx.drawChat(env.view,()=>true);const greeting=env.view.querySelector('.chat-assistant');assert.equal(greeting.querySelector('.chat-content').textContent,welcome.content);assert.equal(env.ctx.state.chatData.messages.length,0);assert.equal(env.ctx.state.chatData.quota.remaining,100);assert.equal(calls,0);
  env.ctx.drawChat(env.view,()=>true);assert.equal(env.view.querySelector('.chat-assistant'),greeting);assert.equal(env.view.querySelectorAll('.chat-assistant').length,1);
  env.ctx.state.chatData.messages=[{id:'first-user',client_key:'first-client',role:'user',content:'Bonjour',status:'completed'}];env.ctx.drawChat(env.view,()=>true);assert.equal(env.view.querySelectorAll('.chat-assistant').length,1);assert.equal(env.view.querySelector('.chat-thread').children[0],greeting);assert.equal(env.view.querySelectorAll('.chat-user').length,1);assert.equal(calls,0);
@@ -627,8 +575,8 @@ test('the microphone icon waits for the final French transcript before re-enabli
 
 test('V10 proposal availability updates without destroying its edited fields or the composer',async()=>{
  const env=chatFixture({api:async()=>{throw new Error('Must not accept')}}),form=env.form;
- env.ctx.state.chatData.capabilities={story_request:{allowed:false,reasons:['portrait_required']}};env.ctx.state.chatData.proposals=[{id:'story-preview',kind:'story_request',status:'pending',revision:1,payload:{requested_focus:'Une piste proposée.'}}];vm.runInContext(functionCode('drawChatProposal'),env.ctx);env.ctx.drawChat(env.view,()=>true);const proposal=env.doc.getElementById('chat-proposals').querySelector('form'),accept=proposal.querySelector('button[type=submit]');assert.equal(accept.disabled,true);assert.match(proposal.textContent,/portrait doit être analysé et à jour/);const focus=proposal.elements.requested_focus;focus.value='Mon thème édité.';await focus.fire('input');await proposal.fire('submit');assert.equal(accept.disabled,true);
- env.ctx.state.chatData.capabilities.story_request.allowed=true;env.ctx.drawChat(env.view,()=>true);assert.equal(env.doc.getElementById('chat-proposals').querySelector('form'),proposal);assert.equal(focus.value,'Mon thème édité.');assert.equal(accept.disabled,false);assert.equal(env.form,form);
+ env.ctx.state.chatData.capabilities={self_profile_patch:{allowed:false,reasons:['target_missing']}};env.ctx.state.chatData.proposals=[{id:'self-preview',kind:'self_profile_patch',status:'pending',revision:1,payload:{self_description:'Une précision.'}},{id:'old-story',kind:'story_request',status:'pending',revision:1,payload:{requested_focus:'Retiré'}}];vm.runInContext(functionCode('drawChatProposal'),env.ctx);env.ctx.drawChat(env.view,()=>true);const proposal=env.doc.getElementById('chat-proposals').querySelector('form'),accept=proposal.querySelector('button[type=submit]');assert.equal(accept.disabled,true);assert.match(proposal.textContent,/Cette opération n’est pas disponible/);assert.equal(env.doc.getElementById('chat-proposals').querySelectorAll('form').length,1);const focus=proposal.elements.self_description;focus.value='Mon thème édité.';await focus.fire('input');await proposal.fire('submit');assert.equal(accept.disabled,true);
+ env.ctx.state.chatData.capabilities.self_profile_patch.allowed=true;env.ctx.drawChat(env.view,()=>true);assert.equal(env.doc.getElementById('chat-proposals').querySelector('form'),proposal);assert.equal(focus.value,'Mon thème édité.');assert.equal(accept.disabled,false);assert.equal(env.form,form);
 });
 
 test('V10 personal map search stays personal until the user explicitly explores the catalogue',async()=>{

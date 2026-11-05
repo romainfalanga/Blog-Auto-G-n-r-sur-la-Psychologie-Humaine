@@ -1,4 +1,4 @@
-name: Portraits et histoires demandées
+name: Analyse des portraits privés
 
 on:
   schedule:
@@ -33,9 +33,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Installer les dépendances du générateur historique
+      - name: Installer les dépendances d’analyse
         run: pip install -r scripts/requirements.txt
-      - name: Adapter le pipeline historique aux portraits et articles privés
+      - name: Traiter les portraits en attente
         env:
           JOURNAL_URL: https://decode-journal.romainfalanga83.workers.dev
         run: python scripts/run_journals.py

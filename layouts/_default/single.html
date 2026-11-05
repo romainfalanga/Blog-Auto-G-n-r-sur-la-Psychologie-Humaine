@@ -1,12 +1,13 @@
 {{ define "main" }}
 <article class="single-article" itemscope itemtype="https://schema.org/Article">
-  <h1 itemprop="headline">{{ .Title }}</h1>
-
-  {{- if .File }}
-  {{- $id := strings.TrimSuffix ".md" .File.Path }}
-  {{- with index .Site.Data.article_keywords $id }}{{ with .character }}
-  <p class="article-character"><a href="/personnages/{{ (index $.Site.Data.article_keywords $id).character_id }}/">{{ . }}</a></p>
-  {{- end }}{{ end }}{{ end }}
+  <header class="article-heading">
+    {{- if .File }}
+    {{- $id := strings.TrimSuffix ".md" .File.Path }}
+    {{- with index .Site.Data.article_keywords $id }}{{ with .character }}
+    <p class="article-character"><a href="/personnages/{{ (index $.Site.Data.article_keywords $id).character_id }}/">{{ . }}</a></p>
+    {{- end }}{{ end }}{{ end }}
+    <h1 itemprop="headline">{{ .Title }}</h1>
+  </header>
 
   {{ partial "article-intro.html" . }}
 

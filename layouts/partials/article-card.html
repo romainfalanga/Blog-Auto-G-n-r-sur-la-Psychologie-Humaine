@@ -3,7 +3,7 @@
 {{- $id := "" -}}
 {{- with $page.File }}{{ $id = strings.TrimSuffix ".md" .Path }}{{ end -}}
 {{- $cues := index $page.Site.Data.article_keywords $id -}}
-<article class="article-card reveal-card">
+<article class="article-card">
   {{- if eq $level "h3" }}
   <h3 class="card-title"><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h3>
   {{- else }}
