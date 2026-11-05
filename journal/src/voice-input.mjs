@@ -1,23 +1,48 @@
-// Browser dictation only. No audio blob, upload, backend key or automatic send.
+// The browser's recognizer owns capture. The app only receives editable text.
 // This function is self-contained because the app embeds it in its inline script.
 export function createVoiceInput(options, platform=globalThis){
  const {input,button,status,onChange=()=>{},onState=()=>{},isCurrent=()=>true,maxLength=6000}=options;
  const Recognition=platform.SpeechRecognition||platform.webkitSpeechRecognition;
- let recognition=null,active=false,busy=false,disposed=false,epoch=0,lastValue=input.value||'',prefix='',suffix='';
+ const delay=platform.setTimeout?.bind(platform)||setTimeout;
+ const clearDelay=platform.clearTimeout?.bind(platform)||clearTimeout;
+ const review='Vous pouvez relire le texte avant de l’envoyer.';
+ let recognition=null,phase='idle',disposed=false,phaseTimer=null,localReady=false;
+ let original='',lastValue=input.value||'',prefix='',suffix='';
  const current=()=>!disposed&&isCurrent()&&input.isConnected!==false;
+ const inProgress=()=>phase!=='idle';
  function announce(message){if(current()&&status)status.textContent=message;}
  function state(){
   if(!current())return;
-  button.setAttribute('aria-pressed',String(active));
-  button.setAttribute('aria-label',active||busy?'Arrêter la dictée':'Dicter un message');
-  button.title=active||busy?'Arrêter la dictée':'Dicter un message';
-  if(button.dataset){button.dataset.voiceActive=String(active);button.dataset.voiceBusy=String(busy);}
-  onState({active,busy,available:Boolean(Recognition)});
+  const listening=phase==='listening';
+  const label=!Recognition?'Dictée indisponible':phase==='finishing'?'Finalisation de la dictée':inProgress()?'Arrêter la dictée':'Dicter un message';
+  button.disabled=!Recognition||phase==='finishing';
+  button.setAttribute('aria-pressed',String(listening));
+  button.setAttribute('aria-label',label);
+  button.title=label;
+  if(button.dataset)button.dataset.voicePhase=phase;
+  onState({active:listening,busy:phase==='starting'||phase==='finishing',available:Boolean(Recognition)});
  }
- function stop(message='Vous pouvez corriger le texte avant de l’envoyer.'){
-  epoch++;active=false;busy=false;const previous=recognition;recognition=null;
-  if(previous){previous.onresult=previous.onerror=previous.onend=previous.onstart=null;try{previous.abort?previous.abort():previous.stop();}catch{}}
-  state();if(message)announce(message);
+ function reset(message,abort){
+  const previous=recognition;
+  recognition=null;
+  phase='idle';
+  clearDelay(phaseTimer);
+  phaseTimer=null;
+  if(previous){
+   previous.onresult=previous.onerror=previous.onend=previous.onstart=previous.onaudiostart=null;
+   if(abort)try{previous.abort?previous.abort():previous.stop();}catch{}
+  }
+  state();announce(message);
+ }
+ function stop(message=review){reset(message,true);}
+ function finish(){
+  if(phase==='starting'){stop('Dictée annulée. Votre texte est conservé.');return;}
+  const instance=recognition;
+  phase='finishing';state();announce('Finalisation de la dernière phrase…');
+  // Keep accepting the final result after stop(). If the service stalls,
+  // keep the visible transcript and release the composer.
+  phaseTimer=delay(()=>{if(recognition===instance)stop(review);},3000);
+  try{instance.stop();}catch{stop(review);}
  }
  function dispose(){
   if(disposed)return;
@@ -25,57 +50,71 @@ export function createVoiceInput(options, platform=globalThis){
   platform.document?.removeEventListener('visibilitychange',visibility);platform.removeEventListener?.('pagehide',pagehide);
  }
  function manualEdit(){
-  if((active||busy)&&input.value!==lastValue){stop('Dictée arrêtée. Vous pouvez modifier votre message.');onChange(input.value);}
+  if(inProgress()&&input.value!==lastValue){stop('Dictée arrêtée. Votre modification est conservée.');onChange(input.value);}
  }
- function visibility(){if(platform.document?.visibilityState==='hidden'&&(active||busy))stop('Dictée arrêtée lorsque la page est masquée.');}
- function pagehide(){stop('');}
- async function start(){
-  if(!Recognition||!current()||input.disabled||active||busy)return;
-  const token=++epoch;busy=true;state();announce('Préparation de la dictée…');
-  let local=false;
-  // Use an already-installed French pack when available. Do not trigger a
-  // large model download or silently promise offline support on every browser.
-  if(typeof Recognition.available==='function'){
-   try{local=await Recognition.available({langs:['fr-FR'],processLocally:true})==='available';}catch{}
-  }
-  if(!current()||token!==epoch)return;
+ function visibility(){if(platform.document?.visibilityState==='hidden'&&inProgress())stop('Dictée arrêtée lorsque la page est masquée.');}
+ function pagehide(){if(inProgress())stop('');}
+ function start(){
+  if(!Recognition||!current()||input.disabled||inProgress())return;
   let instance;
-  try{instance=new Recognition();}catch{stop('La dictée est indisponible dans ce navigateur.');return;}
-  recognition=instance;instance.lang='fr-FR';instance.continuous=true;instance.interimResults=true;instance.maxAlternatives=1;
-  if(local&&'processLocally' in instance)instance.processLocally=true;
-  const value=String(input.value||''),startAt=Number.isInteger(input.selectionStart)?input.selectionStart:value.length,endAt=Number.isInteger(input.selectionEnd)?input.selectionEnd:startAt;
-  prefix=value.slice(0,startAt);suffix=value.slice(endAt);lastValue=value;
-  const valid=()=>current()&&token===epoch&&recognition===instance;
-  instance.onstart=()=>{if(!valid()){try{instance.abort();}catch{}return;}busy=false;active=true;state();announce(local?'Dictée sur cet appareil. Parlez, puis corrigez le texte.':'Dictée du navigateur. Parlez, puis corrigez le texte.');};
+  try{instance=new Recognition();}catch{announce('La dictée est indisponible dans ce navigateur.');return;}
+  recognition=instance;phase='starting';
+  instance.lang='fr-FR';instance.continuous=true;instance.interimResults=true;instance.maxAlternatives=1;
+  const local=localReady&&'processLocally' in instance;
+  if(local)instance.processLocally=true;
+  original=String(input.value||'');lastValue=original;
+  const startAt=Number.isInteger(input.selectionStart)?input.selectionStart:original.length;
+  const endAt=Number.isInteger(input.selectionEnd)?input.selectionEnd:startAt;
+  prefix=original.slice(0,startAt);suffix=original.slice(endAt);
+  const valid=()=>current()&&recognition===instance;
+  function listening(){
+   if(!valid()||phase!=='starting')return;
+   clearDelay(phaseTimer);phaseTimer=null;phase='listening';state();
+   announce(local?'Micro actif. Dictée en français sur cet appareil.':'Micro actif. Parlez, puis appuyez sur Arrêter la dictée.');
+  }
+  instance.onstart=listening;instance.onaudiostart=listening;
   instance.onresult=event=>{
    if(!valid())return;
-   // A keystroke or a send can change the editor before a queued result event.
-   // Never overwrite the next draft or a user's manual correction.
    if(input.value!==lastValue){stop('Dictée arrêtée pour conserver votre modification.');return;}
-   const parts=[];for(let i=0;i<event.results.length;i++){const words=event.results[i]?.[0]?.transcript;if(typeof words==='string'&&words.trim())parts.push(words.trim());}
-   let spoken=parts.join(' ');if(!spoken)return;
-   const left=prefix&&!/\s$/.test(prefix)?' ':'',right=suffix&&!/^\s|^[,.!?;:]/.test(suffix)?' ':'';
+   listening();
+   // The result list contains all final segments and the current provisional
+   // text. Provisional segments can be revised or removed by the recognizer.
+   let spoken='';
+   for(let i=0;i<event.results.length;i++){
+    const transcript=event.results[i]?.[0]?.transcript;
+    const words=typeof transcript==='string'?transcript.trim():'';
+    if(words)spoken+=(spoken&&!/^[,.…)]/.test(words)?' ':'')+words;
+   }
+   const left=prefix&&!/\s$/.test(prefix)&&!/^[,.…)]/.test(spoken)?' ':'',right=suffix&&!/^\s|^[,.!?;:]/.test(suffix)?' ':'';
    const available=Math.max(0,maxLength-prefix.length-suffix.length-left.length-right.length),tooLong=spoken.length>available;
-   if(tooLong)spoken=spoken.slice(0,available);
-   lastValue=prefix+left+spoken+right+suffix;input.value=lastValue;
-   try{input.setSelectionRange(prefix.length+left.length+spoken.length,prefix.length+left.length+spoken.length);}catch{}
-   onChange(lastValue);
+   if(tooLong)spoken=spoken.slice(0,available).replace(/[\uD800-\uDBFF]$/u,'');
+   const value=spoken?prefix+left+spoken+right+suffix:original;
+   if(value!==lastValue){
+    lastValue=value;input.value=value;
+    try{input.setSelectionRange(spoken?startAt+left.length+spoken.length:startAt,spoken?startAt+left.length+spoken.length:endAt);}catch{}
+    onChange(value);
+   }
    if(tooLong)stop('Limite du message atteinte. Relisez le texte avant de l’envoyer.');
   };
   instance.onerror=event=>{
    if(!valid())return;
-   const errors={'not-allowed':'Le microphone est bloqué. Autorisez-le dans votre navigateur.','service-not-allowed':'La dictée est bloquée par votre navigateur.','audio-capture':'Aucun microphone accessible. Vérifiez le périphérique utilisé.','no-speech':'Aucune parole détectée. Vous pouvez relancer la dictée.','network':'Le service de dictée du navigateur est indisponible. Votre texte est conservé.','language-not-supported':'La dictée française est indisponible dans ce navigateur.','aborted':'Dictée arrêtée. Votre texte est conservé.'};
-   stop(errors[event.error]||'La dictée s’est interrompue. Votre texte est conservé.');
+   if(local&&event.error==='language-not-supported')localReady=false;
+   const errors={'not-allowed':'Microphone bloqué. Autorisez-le dans les réglages du site ou utilisez le micro de votre clavier.','service-not-allowed':'La dictée est bloquée par votre navigateur. Essayez le micro de votre clavier.','audio-capture':'Aucun microphone accessible. Vérifiez le périphérique utilisé.','no-speech':'Aucune parole détectée. Rapprochez-vous du micro, puis réessayez.','network':'Le service de dictée du navigateur est indisponible. Votre texte est conservé.','language-not-supported':local?'La dictée locale est indisponible. Appuyez à nouveau pour utiliser le service du navigateur.':'La dictée française est indisponible dans ce navigateur.','aborted':'Dictée arrêtée. Votre texte est conservé.'};
+   reset(errors[event.error]||'La dictée s’est interrompue. Votre texte est conservé.',false);
   };
-  instance.onend=()=>{if(valid())stop();};
-  announce(local?'Autorisez le microphone pour commencer.':'Votre navigateur peut transmettre la voix à son service de dictée. Aucun audio n’est enregistré sur Décode ton esprit.');
+  instance.onend=()=>{if(valid())reset(lastValue!==original?review:'Aucun texte reconnu. Appuyez sur le micro pour réessayer.',false);};
+  state();announce(local?'Autorisez le microphone pour commencer.':'Autorisez le microphone. Votre navigateur peut utiliser son service vocal.');
+  phaseTimer=delay(()=>{if(valid()&&phase==='starting')stop('Le navigateur n’a pas démarré la dictée. Vérifiez l’accès au micro ou utilisez le micro du clavier.');},12000);
+  // Start inside the click handler so the browser keeps the user activation.
   try{instance.start();}catch{if(valid())stop('Impossible de démarrer la dictée. Votre texte est conservé.');}
  }
- function toggle(){if(active||busy)stop();else void start();}
- button.setAttribute('aria-pressed','false');button.setAttribute('aria-label','Dicter un message');
- if(!Recognition){button.disabled=true;button.title='Dictée indisponible dans ce navigateur';announce('Pour dicter ici, utilisez un navigateur compatible ou le micro de votre clavier.');state();return {stop,dispose,isActive:()=>false};}
+ function toggle(){if(phase==='finishing')return;if(inProgress())finish();else start();}
+ if(!Recognition){state();announce('La dictée est indisponible ici. Vous pouvez utiliser le micro de votre clavier.');return {stop,dispose,isActive:()=>false};}
+ if(typeof Recognition.available==='function'){
+  try{Promise.resolve(Recognition.available({langs:['fr-FR'],processLocally:true})).then(value=>{localReady=value==='available';},()=>{});}catch{}
+ }
  button.addEventListener('click',toggle);input.addEventListener('input',manualEdit);
  platform.document?.addEventListener('visibilitychange',visibility);platform.addEventListener?.('pagehide',pagehide);state();
- return {stop,dispose,isActive:()=>active||busy};
+ return {stop,dispose,isActive:inProgress};
 }
 export const VOICE_INPUT_SCRIPT='var createVoiceInput = '+createVoiceInput.toString()+';';

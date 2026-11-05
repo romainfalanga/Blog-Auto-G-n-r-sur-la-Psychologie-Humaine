@@ -22,9 +22,9 @@ Le classement V2 est déterministe, sans appel IA par requête, et ne remplit pa
 
 L'identité et le canon fictif sont stables ; les facettes personnelles sont neutralisées si leurs preuves ne sont plus actuelles. Les événements « pour me comprendre seulement » sont exclus des consignes fictives. Si aucune source n'est utilisable pour la fiction, les fiches restent explicitement exploratoires sans fausses preuves.
 
-La préparation de la fiche ne consomme pas de crédit. Chaque demande continue le dernier épisode du personnage actif, avec une seule demande active par compte. Sept crédits par semaine civile Europe/Paris, sans report, sont réservés atomiquement. Rejouer la même demande, reprendre après correction ou republier une completion déjà reçue ne débite pas un second crédit. Un échec définitif, une annulation ou une expiration libère la réservation.
+La préparation de la fiche ne consomme pas de crédit. Chaque demande continue le dernier épisode du personnage actif, avec une seule demande active par compte. Un crédit par semaine civile Europe/Paris est réservé atomiquement. Une demande qui traverse le changement de semaine compte dans la semaine de publication. Rejouer la même demande, reprendre après correction ou republier une completion déjà reçue ne débite pas un second crédit. Un échec définitif, une annulation ou une expiration libère la réservation.
 
-Le tarif est de 29 EUR/mois après sept jours d’essai, carte requise. Le chat (100 réponses réussies par semaine) est accessible pendant l’essai sans dix likes ; les histoires exigent dix likes, une présentation et un portrait analysé à jour. Les bindings Stripe sont requis pour encaisser ; aucun achat n'est nécessaire à la recette technique.
+Le tarif est de 29 EUR/mois après sept jours d’essai, carte requise. Le chat permet 100 réponses réussies par semaine. La préparation du personnage demande une présentation, une réaction décrite et un cadre de vie exploitable. Le récit peut être demandé pendant l’actualisation du portrait. Les bindings Stripe sont requis pour encaisser ; aucun achat n'est nécessaire à la recette technique.
 
 ## Génération
 

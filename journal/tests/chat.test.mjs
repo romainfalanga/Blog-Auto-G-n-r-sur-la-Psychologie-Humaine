@@ -11,14 +11,14 @@ async function message(s,key='request_001',content='Je rumine quand je me sens c
 function withFetch(t,fn){const previous=globalThis.fetch;globalThis.fetch=fn;t.after(()=>{globalThis.fetch=previous;});}
 test('an empty chat welcomes without consent, provider call, turn, quota or private inventory',async t=>{
  const s=setup();let calls=0;withFetch(t,async()=>{calls++;throw Error('No provider during welcome');});
- let state=await s.call('/api/chat');assert.equal(state.consent,false);assert.equal(state.messages.length,0);assert.equal(state.welcome.id,'ambre-welcome-v1');assert.equal(state.welcome.role,'assistant');assert.match(state.welcome.content,/À propos de moi/);assert.equal(state.quota.used,0);assert.equal(s.raw.prepare('SELECT count(*) n FROM chat_turns').get().n,0);assert.equal(s.raw.prepare('SELECT count(*) n FROM provider_budgets').get().n,0);
+ let state=await s.call('/api/chat');assert.equal(state.consent,false);assert.equal(state.messages.length,0);assert.equal(state.welcome.id,'ambre-welcome-v2');assert.equal(state.welcome.role,'assistant');assert.match(state.welcome.content,/À propos de moi/);assert.equal(state.quota.used,0);assert.equal(s.raw.prepare('SELECT count(*) n FROM chat_turns').get().n,0);assert.equal(s.raw.prepare('SELECT count(*) n FROM provider_budgets').get().n,0);
  s.raw.prepare("UPDATE profiles SET self_data=? WHERE user_id='a'").run(JSON.stringify({first_name:'Alix',self_description:'PRIVATE PROFILE VALUE'}));s.raw.prepare("INSERT INTO personal_people(id,user_id,creation_id,payload_hash,display_name,role,relationship_text) VALUES('p','a','person','hash','PRIVATE NAME','friend','PRIVATE ACCOUNT')").run();
- state=await s.call('/api/chat');assert.match(state.welcome.content,/Bonjour Alix/);assert.match(state.welcome.content,/déjà renseignées/);assert.doesNotMatch(state.welcome.content,/PRIVATE/);assert.ok(state.welcome.content.split(/\s+/).length>=100&&state.welcome.content.split(/\s+/).length<=140);assert.equal(calls,0);
+ state=await s.call('/api/chat');assert.match(state.welcome.content,/Bonjour Alix/);assert.match(state.welcome.content,/déjà renseignées/);assert.doesNotMatch(state.welcome.content,/PRIVATE/);assert.match(state.welcome.content,/ligne de vie/i);assert.match(state.welcome.content,/une histoire personnalisée par semaine/);assert.equal(calls,0);
 });
 
 test('capabilities describe exact profile, memory, collection and story limits without granting actions',async()=>{
- const s=setup();s.raw.prepare("UPDATE memories SET text=? WHERE user_id='a'").run('🙂'.repeat(5000));let state=await s.call('/api/chat');assert.equal(state.capabilities.memory_append.allowed,false);assert.equal(state.capabilities.memory_append.remaining_characters,0);assert.equal(state.capabilities.person_create.limit,50);assert.equal(state.capabilities.life_event_create.limit,500);assert.equal(state.capabilities.person_update.allowed,false);assert.equal(state.capabilities.life_event_update.allowed,false);assert.ok(state.capabilities.story_request.reasons.includes('likes_required'));assert.equal(state.capabilities.story_request.likes_target,10);assert.equal(state.capabilities.story_request.quota.limit,7);
- storyReady(s);state=await s.call('/api/chat');assert.equal(state.capabilities.story_request.allowed,true);assert.equal(state.capabilities.story_request.likes_count,10);assert.equal(state.capabilities.story_request.portrait_ready,true);assert.equal(state.capabilities.story_request.character_ready,true);assert.equal(s.raw.prepare('SELECT count(*) n FROM story_requests').get().n,0);
+ const s=setup();s.raw.prepare("UPDATE memories SET text=? WHERE user_id='a'").run('🙂'.repeat(5000));let state=await s.call('/api/chat');assert.equal(state.capabilities.memory_append.allowed,false);assert.equal(state.capabilities.memory_append.remaining_characters,0);assert.equal(state.capabilities.person_create.limit,50);assert.equal(state.capabilities.life_event_create.limit,500);assert.equal(state.capabilities.person_update.allowed,false);assert.equal(state.capabilities.life_event_update.allowed,false);assert.ok(state.capabilities.story_request.reasons.includes('information_required'));assert.deepEqual(state.capabilities.story_request.information.map(item=>item.id),['self','reaction','situation']);assert.equal(state.capabilities.story_request.quota.limit,1);
+ storyReady(s);state=await s.call('/api/chat');assert.equal(state.capabilities.story_request.allowed,true);assert.ok(state.capabilities.story_request.information.every(item=>item.complete));assert.equal(s.raw.prepare('SELECT count(*) n FROM article_likes').get().n,0);assert.equal(state.capabilities.story_request.portrait_ready,true);assert.equal(state.capabilities.story_request.character_ready,true);assert.equal(s.raw.prepare('SELECT count(*) n FROM story_requests').get().n,0);
 });
 
 test('a forbidden story from a faulty model replaces false success prose while retaining valid personal proposals',async t=>{
@@ -29,8 +29,8 @@ test('a forbidden story from a faulty model replaces false success prose while r
 
 test('story eligibility is checked again after generation and for old pending confirmations',async t=>{
  const s=setup();storyReady(s);await ready(s);withFetch(t,async()=>output([{kind:'story_request',payload:{requested_focus:'Réfléchir à la confiance'}}]));let result=await message(s,'eligible_story'),proposal=result.proposals[0];assert.equal(proposal.kind,'story_request');
- s.raw.prepare("DELETE FROM article_likes WHERE user_id='a' AND article_id='example-0'").run();assert.equal((await s.call(`/api/chat/proposals/${proposal.id}/accept`,'POST',{revision:1})).code,'likes_required');assert.equal(s.raw.prepare('SELECT status FROM chat_proposals WHERE id=?').get(proposal.id).status,'pending');assert.equal(s.raw.prepare('SELECT count(*) n FROM story_requests').get().n,0);
- const other=setup();storyReady(other);await ready(other);globalThis.fetch=async()=>{const week=parisWeek(new Date(other.getClock()*1000)).week_start;for(let i=0;i<7;i++)other.raw.prepare("INSERT INTO story_requests(id,user_id,character_id,idempotency_key,parameter_hash,week_start,status,credit_status,source_version,canon_version,expires_at) VALUES(?,'a','main',?,'seed',?,'completed','consumed',2,0,?)").run('full'+i,'full-key'+i,week,other.getClock()+60);return output([{kind:'story_request',payload:{requested_focus:'Une autre histoire'}}],'Je vais préparer votre histoire.');};
+ s.raw.prepare("UPDATE profiles SET self_data='{}',version=version+1 WHERE user_id='a'").run();assert.equal((await s.call(`/api/chat/proposals/${proposal.id}/accept`,'POST',{revision:1})).code,'information_required');assert.equal(s.raw.prepare('SELECT status FROM chat_proposals WHERE id=?').get(proposal.id).status,'pending');assert.equal(s.raw.prepare('SELECT count(*) n FROM story_requests').get().n,0);
+ const other=setup();storyReady(other);await ready(other);globalThis.fetch=async()=>{const week=parisWeek(new Date(other.getClock()*1000)).week_start;for(let i=0;i<1;i++)other.raw.prepare("INSERT INTO story_requests(id,user_id,character_id,idempotency_key,parameter_hash,week_start,status,credit_status,source_version,canon_version,expires_at) VALUES(?,'a','main',?,'seed',?,'completed','consumed',2,0,?)").run('full'+i,'full-key'+i,week,other.getClock()+60);return output([{kind:'story_request',payload:{requested_focus:'Une autre histoire'}}],'Je vais préparer votre histoire.');};
  result=await message(other,'quota_changed');assert.equal(result.proposals.length,0);assert.match(result.messages.at(-1).content,/renouvellement du quota/);assert.doesNotMatch(result.messages.at(-1).content,/Je vais préparer/);assert.equal(result.capabilities.story_request.allowed,false);
 });
 
@@ -59,7 +59,7 @@ test('one like and an ordinary question cannot expose personalized proposal, ima
  for(const claim of ['Je peux vous proposer une histoire personnalisée avec votre personnage.','Si vous le souhaitez, je peux imaginer une nouvelle histoire pour vous.','Voulez-vous une histoire sur mesure ?','Souhaitez-vous un récit personnalisé ?','Je peux vous proposer de créer un article.']){
   const s=setup();s.raw.prepare("INSERT INTO article_likes(user_id,article_id) VALUES('a','example-0')").run();await ready(s);prose='Votre fatigue peut avoir plusieurs explications. '+claim+' Dans quel contexte apparaît-elle ?';
   const result=await message(s,'ordinary_question','Pourquoi suis-je si fatigué après avoir aidé les autres ?'),reply=result.messages.at(-1).content;
-  assert.equal(result.capabilities.story_request.likes_count,1);assert.equal(result.capabilities.story_request.allowed,false);assert.equal(result.quota.used,1);assert.equal(result.proposals.length,0);assert.equal(reply.includes(claim),false,claim);assert.match(reply,/Aucune nouvelle histoire n’a été demandée/);assert.match(reply,/Votre fatigue peut avoir plusieurs explications/);assert.match(reply,/Dans quel contexte apparaît-elle/);assert.equal(s.raw.prepare('SELECT count(*) n FROM story_requests').get().n,0);
+  assert.ok(result.capabilities.story_request.reasons.includes('information_required'));assert.equal(result.capabilities.story_request.allowed,false);assert.equal(result.quota.used,1);assert.equal(result.proposals.length,0);assert.equal(reply.includes(claim),false,claim);assert.match(reply,/Aucune nouvelle histoire n’a été demandée/);assert.match(reply,/Votre fatigue peut avoir plusieurs explications/);assert.match(reply,/Dans quel contexte apparaît-elle/);assert.equal(s.raw.prepare('SELECT count(*) n FROM story_requests').get().n,0);
  }
 });
 
@@ -76,7 +76,7 @@ test('a future condition does not protect a separate immediate creation promise'
 });
 
 test('user messages and pending requests expose only their own client key for lost-response reconciliation',async t=>{
- const s=setup();await ready(s);let resolve,started;const start=new Promise(r=>{started=r;});withFetch(t,async()=>{started();return new Promise(r=>{resolve=()=>r(output());});});const tasks=[];const result=await message(s,'lost_post_key','Un message.',{waitUntil:p=>tasks.push(p)});await start;assert.equal(result.pending_request.client_key,'lost_post_key');assert.equal(result.messages[0].client_key,'lost_post_key');assert.equal((await s.call('/api/chat','GET',undefined,'b')).messages.length,0);resolve();await Promise.all(tasks);const final=await s.call('/api/chat');assert.equal(final.messages.find(m=>m.role==='user').client_key,'lost_post_key');assert.equal(final.messages.find(m=>m.role==='assistant').client_key,undefined);assert.equal(final.welcome,null);assert.equal((await message(s,'lost_post_key','Un message.')).quota.used,1);
+ const s=setup();await ready(s);let resolve,started;const start=new Promise(r=>{started=r;});withFetch(t,async()=>{started();return new Promise(r=>{resolve=()=>r(output());});});const tasks=[];const result=await message(s,'lost_post_key','Un message.',{waitUntil:p=>tasks.push(p)});await start;assert.equal(result.pending_request.client_key,'lost_post_key');assert.equal(result.messages[0].client_key,'lost_post_key');assert.equal((await s.call('/api/chat','GET',undefined,'b')).messages.length,0);resolve();await Promise.all(tasks);const final=await s.call('/api/chat');assert.equal(final.messages.find(m=>m.role==='user').client_key,'lost_post_key');assert.equal(final.messages.find(m=>m.role==='assistant').client_key,undefined);assert.equal(final.welcome.id,'ambre-welcome-v2');assert.equal((await message(s,'lost_post_key','Un message.')).quota.used,1);
 });
 
 test('verified global catalogue matches correct a false model claim of no public character without inventing a link',async t=>{
@@ -94,9 +94,26 @@ test('purge withdraws consent, retains consumed quota and prevents late publicat
 test('expired lease releases reservation and discards late response',async t=>{const s=setup();await ready(s);let resolve,started;const start=new Promise(r=>{started=r;});withFetch(t,async()=>{started();return new Promise(r=>{resolve=()=>r(output());});});const tasks=[];await message(s,'request_001',undefined,{waitUntil:p=>tasks.push(p)});await start;s.setClock(s.getClock()+80);assert.equal((await s.call('/api/chat')).quota.reserved,0);resolve();await Promise.all(tasks);const res=await s.call('/api/chat');assert.equal(res.quota.used,0);assert.equal(res.messages.filter(x=>x.role==='assistant').length,0);});
 test('source changes and budget exhaustion cannot publish; retry attempt cost remains bounded',async t=>{const s=setup();await ready(s);withFetch(t,async()=>{s.raw.prepare("UPDATE profiles SET version=version+1 WHERE user_id='a'").run();return output([{kind:'self_profile_patch',payload:{emotions:'Tristesse'}}]);});let res=await message(s);assert.equal(res.quota.used,0);assert.equal(res.proposals.length,0);assert.equal(res.last_error.code,'context_changed');s.env.WEEKLY_TOKEN_BUDGET=1;let called=false;globalThis.fetch=async()=>{called=true;return output();};res=await message(s,'request_002');assert.equal(res.quota.used,0);assert.equal(res.last_error.code,'generation_budget');assert.equal(called,false);assert.ok(s.raw.prepare('SELECT reserved_tokens FROM provider_budgets').get().reserved_tokens>0);});
 test('rejected proposal cannot apply and event associations are owner-scoped at acceptance',async t=>{const s=setup();await ready(s);withFetch(t,async()=>output([{kind:'self_profile_patch',payload:{emotions:'De la colère'}}]));let res=await message(s);const p=res.proposals[0];assert.equal((await s.call(`/api/chat/proposals/${p.id}/reject`,'POST',{revision:1})).status,200);assert.equal((await s.call(`/api/chat/proposals/${p.id}/accept`,'POST',{revision:2})).code,'proposal_closed');s.raw.prepare("INSERT INTO personal_people(id,user_id,creation_id,payload_hash,display_name,role) VALUES('foreign','b','foreign','hash','Père','father')").run();globalThis.fetch=async()=>output([{kind:'life_event_create',payload:{title:'Voyage',description:'Un voyage important'}}]);res=await message(s,'request_002');const event=res.proposals.find(x=>x.kind==='life_event_create');assert.equal((await s.call(`/api/chat/proposals/${event.id}/accept`,'POST',{revision:1,payload:{...event.payload,people_ids:['foreign']}})).code,'revision_conflict');assert.equal(s.raw.prepare('SELECT count(*) n FROM life_events').get().n,0);});
-function storyReady(s){s.raw.prepare("UPDATE profiles SET self_data=?,version=version+1 WHERE user_id='a'").run(JSON.stringify({self_description:'Je souhaite comprendre mes réactions.'}));for(let n=0;n<10;n++)s.raw.prepare("INSERT INTO article_likes(user_id,article_id) VALUES('a',?)").run('example-'+n);const version=s.raw.prepare("SELECT version FROM profiles WHERE user_id='a'").get().version;s.raw.prepare("INSERT INTO user_portraits(user_id,portrait,analyzed_version,schema_version) VALUES('a',?,?,2)").run(JSON.stringify({coverage:{pending:[]},psychological_map:[]}),version);s.raw.prepare("INSERT INTO personal_characters(id,user_id,slot,identity,is_primary) VALUES('main','a',1,?,1)").run(JSON.stringify({name:'Alix',description:'Une relieuse'}));return version;}
-test('accepted story uses existing quota, parent/idempotence guards and requested focus',async t=>{const s=setup();storyReady(s);await ready(s);withFetch(t,async()=>output([{kind:'story_request',summary:'Explorer la critique',payload:{requested_focus:'Prendre du recul face à une critique.'}}]));let res=await message(s);let p=res.proposals[0];assert.equal(s.raw.prepare('SELECT count(*) n FROM story_requests').get().n,0);res=await s.call(`/api/chat/proposals/${p.id}/accept`,'POST',{revision:1});assert.equal(res.status,200);const r=s.raw.prepare('SELECT * FROM story_requests').get();assert.equal(r.credit_status,'reserved');assert.equal(r.requested_focus,'Prendre du recul face à une critique.');assert.equal((await s.personal.quota(s.env,'a')).remaining,6);assert.equal((await s.call(`/api/chat/proposals/${p.id}/accept`,'POST',{revision:1})).status,200);assert.equal(s.raw.prepare('SELECT count(*) n FROM story_requests').get().n,1);s.raw.prepare("UPDATE story_requests SET status='completed',credit_status='consumed' WHERE id=?").run(r.id);const insert=s.raw.prepare("INSERT INTO story_requests(id,user_id,character_id,idempotency_key,parameter_hash,week_start,expected_parent_id,status,credit_status,source_version,canon_version,expires_at) VALUES(?,'a','main',?,'seed',?,NULL,'completed','consumed',?,0,?)");for(let n=0;n<5;n++)insert.run('seed'+n,'seed-key'+n,r.week_start,r.source_version,s.getClock()+60);res=await message(s,'request_002');p=res.proposals.find(x=>x.status==='pending');insert.run('seed5','seed-key5',r.week_start,r.source_version,s.getClock()+60);res=await s.call(`/api/chat/proposals/${p.id}/accept`,'POST',{revision:1});assert.equal(res.code,'quota_exhausted');assert.equal(s.raw.prepare('SELECT count(*) n FROM story_requests').get().n,7);});
-test('chat never offers a story when its character and profile prerequisites are missing',async t=>{const s=setup();await ready(s);withFetch(t,async()=>output([{kind:'story_request',payload:{requested_focus:'Réfléchir à la confiance'}}],'Je vais créer votre histoire.'));const res=await message(s);assert.equal(res.proposals.length,0);assert.equal(res.capabilities.story_request.allowed,false);assert.match(res.messages.at(-1).content,/10 lecture|dix|atteindre dix/);assert.match(res.messages.at(-1).content,/Aucune nouvelle histoire n’a été demandée/);assert.doesNotMatch(res.messages.at(-1).content,/Je vais créer/);assert.equal(s.raw.prepare('SELECT count(*) n FROM story_requests').get().n,0);});
+function storyReady(s){s.raw.prepare("UPDATE profiles SET self_data=?,version=version+1 WHERE user_id='a'").run(JSON.stringify({self_description:'Je souhaite mieux comprendre mes limites.',recurring_patterns:'Je rumine après avoir reçu une critique au travail.',current_context:'Je travaille dans une équipe qui se réorganise.'}));const version=s.raw.prepare("SELECT version FROM profiles WHERE user_id='a'").get().version;s.raw.prepare("INSERT INTO user_portraits(user_id,portrait,analyzed_version,schema_version) VALUES('a',?,?,2)").run(JSON.stringify({coverage:{pending:[]},psychological_map:[]}),version);s.raw.prepare("INSERT INTO personal_characters(id,user_id,slot,identity,is_primary) VALUES('main','a',1,?,1)").run(JSON.stringify({name:'Alix',description:'Une relieuse'}));return version;}
+test('accepted story reserves the single weekly credit and a retry is idempotent',async t=>{
+ const s=setup();storyReady(s);await ready(s);
+ withFetch(t,async()=>output([{kind:'story_request',summary:'Explorer la critique',payload:{requested_focus:'Prendre du recul face à une critique.'}}]));
+ let result=await message(s),proposal=result.proposals[0];
+ assert.equal(s.raw.prepare('SELECT count(*) n FROM story_requests').get().n,0);
+ const accept='/api/chat/proposals/'+proposal.id+'/accept';
+ assert.equal((await s.call(accept,'POST',{revision:1})).status,200);
+ const request=s.raw.prepare('SELECT * FROM story_requests').get();
+ assert.equal(request.credit_status,'reserved');assert.equal(request.requested_focus,'Prendre du recul face à une critique.');
+ assert.equal((await s.personal.quota(s.env,'a')).remaining,0);
+ assert.equal((await s.call(accept,'POST',{revision:1})).status,200);
+ s.raw.prepare("UPDATE story_requests SET status='completed',credit_status='consumed' WHERE id=?").run(request.id);
+ result=await message(s,'request_002');
+ assert.ok(result.capabilities.story_request.reasons.includes('quota_exhausted'));
+ assert.ok(!result.proposals.some(item=>item.status==='pending'));
+ assert.equal(s.raw.prepare('SELECT count(*) n FROM story_requests').get().n,1);
+});
+
+test('chat never offers a story when its character and profile prerequisites are missing',async t=>{const s=setup();await ready(s);withFetch(t,async()=>output([{kind:'story_request',payload:{requested_focus:'Réfléchir à la confiance'}}],'Je vais créer votre histoire.'));const res=await message(s);assert.equal(res.proposals.length,0);assert.equal(res.capabilities.story_request.allowed,false);assert.match(res.messages.at(-1).content,/précisions|repères/);assert.match(res.messages.at(-1).content,/Aucune nouvelle histoire n’a été demandée/);assert.doesNotMatch(res.messages.at(-1).content,/Je vais créer/);assert.equal(s.raw.prepare('SELECT count(*) n FROM story_requests').get().n,0);});
 test('Paris week rollover restores weekly quota without altering old consumption',async t=>{const s=setup();await ready(s);s.setClock(Date.parse('2026-10-25T22:59:30Z')/1000);withFetch(t,async()=>output());let res=await message(s);assert.equal(res.quota.week_start,'2026-10-19');assert.equal(res.quota.used,1);s.setClock(Date.parse('2026-10-25T23:00:01Z')/1000);res=await s.call('/api/chat');assert.equal(res.quota.week_start,'2026-10-26');assert.equal(res.quota.used,0);assert.equal(s.raw.prepare("SELECT count(*) n FROM chat_turns WHERE credit_status='consumed'").get().n,1);});
 test('invented quote cannot create a proposal and immediate danger yields no stored suggestions',async t=>{const s=setup();await ready(s);withFetch(t,async()=>new Response(JSON.stringify({choices:[{message:{content:JSON.stringify({content:'Je vous écoute.',proposals:[{kind:'self_profile_patch',evidence_quote:'Je suis toujours calme.',payload:{emotions:'Calme'}}]})},finish_reason:'stop'}]})));let res=await message(s);assert.equal(res.quota.used,0);assert.equal(res.proposals.length,0);globalThis.fetch=async()=>output([{kind:'self_profile_patch',payload:{emotions:'Détresse'}}],'Restons centrés sur votre sécurité et une aide humaine immédiate.');res=await message(s,'request_002','Je vais me suicider.');assert.equal(res.quota.used,1);assert.equal(res.proposals.length,0);assert.equal(s.raw.prepare("SELECT self_data FROM profiles WHERE user_id='a'").get().self_data,'{}');});
 test('export contains all nonpurged turns while display remains bounded',async()=>{const s=setup();const insert=s.raw.prepare("INSERT INTO chat_turns(id,user_id,idempotency_key,payload_hash,status,credit_status,week_start,source_version,consent_revision,content,response) VALUES(?,'a',?,'hash','completed','consumed','2026-10-26',1,1,'message','réponse')");for(let n=0;n<65;n++)insert.run('archive'+n,'archive_key'+n);assert.equal((await s.call('/api/chat')).messages.length,120);assert.equal((await s.chat.exportData(s.env,'a')).chat_messages.length,130);});
@@ -407,4 +424,64 @@ test('narrated replacements and reported commands cannot promote the model appen
   const result=await message(s,'narrated_not_command',quote),p=result.proposals[0];assert.equal(p.field_modes.self_description,'append',quote);assert.equal((await s.call(`/api/chat/proposals/${p.id}/accept`,'POST',{revision:1})).status,200);
   assert.equal(JSON.parse(s.raw.prepare("SELECT self_data FROM profiles WHERE user_id='a'").get().self_data).self_description,'Une présentation à conserver.\n\nUne précision proposée.');
  }
+});
+
+test('provider and legacy output share a hard limit of two displayed questions',async t=>{
+ const s=setup();await ready(s);
+ withFetch(t,async(_url,opts)=>{
+  const schema=JSON.parse(opts.body).response_format.json_schema.schema;
+  assert.equal(schema.properties.questions.maxItems,2);
+  return Response.json({choices:[{message:{content:JSON.stringify({content:'Vous évoquez deux situations différentes. Encore une question dans le texte ?',questions:['Quand cela commence-t-il ?','Que dites-vous à votre proche ?', 'Une troisième question ?'],proposals:[],reading_suggestions:[]})},finish_reason:'stop'}]});
+ });
+ let result=await message(s);
+ assert.equal(result.messages.at(-1).content.match(/\?/g).length,2);
+ assert.match(result.messages.at(-1).content,/Quand cela commence-t-il/);
+ assert.doesNotMatch(result.messages.at(-1).content,/Encore une question|Une troisième/);
+ globalThis.fetch=async()=>output([],'Vous faites une distinction. Quand cela arrive-t-il ? Que remarquez-vous ? Quel serait un autre exemple ? Vous pouvez prendre votre temps.');
+ result=await message(s,'request_002');
+ assert.equal(result.messages.at(-1).content.match(/\?/g).length,2);
+ assert.doesNotMatch(result.messages.at(-1).content,/un autre exemple/);
+ assert.match(result.messages.at(-1).content,/prendre votre temps/);
+});
+
+test('a turn can review linked portrait, relative and event and preserves consent for every update',async t=>{
+ const s=setup();await ready(s);
+ s.raw.prepare("INSERT INTO personal_people(id,user_id,creation_id,payload_hash,display_name,role,relationship_text) VALUES('dad','a','dad','hash','Paul','father','Nous parlons le dimanche.')").run();
+ s.raw.prepare("INSERT INTO life_events(id,user_id,creation_id,payload_hash,title,kind,description) VALUES('move','a','move','hash','Changement d’équipe','turning_point','J’ai rejoint une autre équipe.')").run();
+ s.raw.prepare("INSERT INTO life_event_people(event_id,person_id,user_id) VALUES('move','dad','a')").run();
+ const quote='Depuis mon changement d’équipe, je m’isole le soir et j’en parle moins à mon père.';
+ const change=(field,value)=>({changes:[{field,mode:'append',value_json:JSON.stringify(value)}]});
+ withFetch(t,async(_url,opts)=>{
+  const request=JSON.parse(opts.body),context=JSON.parse(request.messages[1].content.slice(request.messages[1].content.indexOf('{')));
+  assert.deepEqual(context.events.find(event=>event.id==='move').people_ids,['dad']);
+  assert.match(request.messages[0].content,/À chaque tour, compare/);
+  return Response.json({choices:[{message:{content:JSON.stringify({content:'Votre changement d’équipe semble avoir modifié vos soirées et vos échanges avec votre père.',questions:[],reading_suggestions:[],proposals:[
+   {kind:'self_profile_patch',evidence_quote:quote,payload:{recurring_patterns:'Je m’isole le soir depuis le changement d’équipe.'}},
+   {kind:'person_update',target_id:'dad',evidence_quote:quote,payload:change('relationship_text','Depuis mon changement d’équipe, j’en parle moins à mon père.')},
+   {kind:'life_event_update',target_id:'move',evidence_quote:quote,payload:change('meaning_now','Depuis ce changement, je m’isole le soir.')},
+  ]})},finish_reason:'stop'}]});
+ });
+ let result=await message(s,'linked_update',quote);
+ assert.equal(result.proposals.length,3);
+ assert.equal(s.raw.prepare("SELECT relationship_text FROM personal_people WHERE id='dad'").get().relationship_text,'Nous parlons le dimanche.');
+ for(const proposal of result.proposals)assert.equal((await s.call('/api/chat/proposals/'+proposal.id+'/accept','POST',{revision:proposal.revision})).status,200);
+ assert.match(s.raw.prepare("SELECT relationship_text FROM personal_people WHERE id='dad'").get().relationship_text,/dimanche.*\n\nDepuis/);
+ assert.match(s.raw.prepare("SELECT meaning_now FROM life_events WHERE id='move'").get().meaning_now,/m’isole le soir/);
+ assert.equal(s.raw.prepare("SELECT count(*) n FROM life_event_people WHERE event_id='move' AND person_id='dad'").get().n,1);
+});
+
+test('character preparation from Ambre needs confirmation and can start with zero likes',async()=>{
+ const s=setup();storyReady(s);
+ s.raw.prepare("DELETE FROM personal_characters WHERE user_id='a'").run();
+ const route='/api/chat/character/prepare';
+ assert.equal((await s.call(route,'POST',{accepted:false})).code,'invalid_consent');
+ assert.equal((await s.call(route,'POST',{accepted:true})).code,'consent_required');
+ await ready(s);
+ assert.equal((await s.call('/api/chat')).capabilities.character_preparation.allowed,true);
+ const result=await s.call(route,'POST',{accepted:true});
+ assert.equal(result.status,200);
+ assert.ok(['queued','preparing','waiting_portrait'].includes(result.character_preparation_status));
+ assert.equal(result.quota.used,0);
+ assert.equal(result.capabilities.story_request.quota.remaining,1);
+ assert.equal(s.raw.prepare("SELECT count(*) n FROM journal_jobs WHERE user_id='a' AND kind='characters'").get().n,1);
 });

@@ -1175,7 +1175,9 @@ def generate_characters_v2(job,adapter):
           'missing_slots':job['missing_slots'], 'character_histories':job.get('character_histories',{})}
     instruction='''Prépare seulement les slots explicitement présents dans missing_slots.
 Pour la version à personnage unique, crée UNE identité fictive nuancée capable d'explorer plusieurs
-aspects du portrait dans une même histoire suivie. N'invente aucun autre slot ni personnage parallèle.
+aspects du portrait dans une même histoire suivie. Donne-lui un quotidien et des liens fictifs où les
+réactions et ressources abstraites peuvent se manifester, au travail, avec des proches ou dans la vie ordinaire
+selon les orientations reçues. N'invente aucun autre slot ni personnage parallèle.
 Ce personnage n'est ni un diagnostic ni une copie autobiographique. Son âge et son genre peuvent
 refléter life_context s'il est renseigné, sans en déduire sa psychologie. L'identité déjà archivée prime.
 Pour chaque NOUVEAU personnage, choisis story_domain, social_setting et principal_resource parmi
@@ -1483,7 +1485,11 @@ def generate_story_v2(job,adapter):
     adapter.stage='planning'
     plan=ask(adapter,'''Cadre le prochain épisode du seul personnage reçu, depuis son canon et son parent.
 Une scène ordinaire ou positive est possible. Choisis une tension nuancée, respecte ses acquis anciens
-et les orientations/préférences abstraites fournies. Invente une scène dans SON univers déjà établi. La fiction n'est jamais une biographie.
+et les orientations/préférences abstraites fournies. Invente une scène dans SON univers déjà établi.
+Un ancien réflexe peut revenir, mais le contexte, la réponse ou les conséquences doivent avoir évolué.
+Donne aussi aux proches fictifs des intentions plausibles et laisse une incertitude quand le personnage
+n'a pas de quoi les connaître. Une réaction du personnage ne prouve pas ce que pense l'autre.
+La fiction n'est jamais une biographie.
 Retourne {"subject":"concept pédagogique","scene":"scène inventée","continuity":"faits à respecter",
 "ending":"issue plausible, éventuellement ouverte","practice":"exercice de réflexion facultatif"}.
 Aucun vécu réel, aucune identité de proche ni événement autobiographique ne figure dans ce brief :
@@ -1497,7 +1503,10 @@ Chaque champ contient une à trois phrases concises.''',context,structured_token
 la borne vérifiée de 1000 à 2200 mots (hors métadonnées),
 avec au moins trois titres ## courts, propres aux moments ou aux repères du récit. Montre les gestes,
 dialogues et réactions du personnage ; explique les repères utiles sans les répéter dans plusieurs
-sections. Ajoute un exercice facultatif et une conclusion. Raconte à la TROISIÈME PERSONNE : prénom puis il/elle selon le canon ; pas un journal
+sections. Choisis des détails du quotidien qui ont un rôle dans la scène. Si une piste revient d'un
+épisode ancien, fais sentir ce qui change dans un geste, une réplique ou ses conséquences. La conclusion
+peut tenir à un acte ou à une question qui reste ouverte. Ajoute un exercice facultatif.
+Raconte à la TROISIÈME PERSONNE : prénom puis il/elle selon le canon ; pas un journal
 au « je ». Le « je » est réservé aux dialogues entre guillemets. Identité et relations du personnage reçu stables. Aucun genre, pays, famille imposés.
 Ne copie jamais les personnes ou événements réels. Aucune étude, citation savante ou diagnostic inventé.
 Aucun progrès thérapeutique obligatoire. La pédagogie reste dans les formulations du référentiel reçu ;

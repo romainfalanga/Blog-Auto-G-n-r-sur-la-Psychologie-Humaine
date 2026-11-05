@@ -6,12 +6,12 @@ function chatIsCurrent(current){return current()&&state.tab==='chat'}
 function chatHasPending(){return !!(state.chatSending||state.chatOutbox&&['sending','pending','uncertain'].includes(state.chatOutbox.status))}
 function chatCapabilityMessage(kind){
  var capability=state.chatData&&state.chatData.capabilities&&state.chatData.capabilities[kind];if(!capability||capability.allowed!==false)return '';
- var reasons={likes_required:'Aimez encore quelques lectures pour préparer votre personnage.',self_description_required:'Complétez votre présentation pour préparer votre personnage.',portrait_required:'Votre portrait doit être analysé et à jour.',character_required:'Votre personnage doit être prêt.',character_not_ready:'Votre personnage doit être prêt.',quota_exhausted:'Les sept histoires de cette semaine sont utilisées.',request_in_progress:'Une histoire est déjà en préparation.',active_request:'Une histoire est déjà en préparation.',provider_missing:'La préparation est momentanément indisponible.',provider_cooldown:'Le fournisseur est temporairement indisponible.',generation_budget:'Le budget de génération est momentanément atteint.',request_limit:'La limite de demandes du jour est atteinte.',subscription_required:'Un accès actif est nécessaire.'};
+ var reasons={information_required:'Précisez votre situation et vos réactions pour préparer votre personnage.',portrait_required:'Votre portrait doit être analysé et à jour.',character_required:'Votre personnage doit être prêt.',character_not_ready:'Votre personnage doit être prêt.',quota_exhausted:'Votre histoire de la semaine a déjà été publiée.',request_in_progress:'Une histoire est déjà en préparation.',active_request:'Une histoire est déjà en préparation.',provider_missing:'La préparation est momentanément indisponible.',provider_cooldown:'Le fournisseur est temporairement indisponible.',generation_budget:'Le budget de génération est momentanément atteint.',request_limit:'La limite de demandes du jour est atteinte.',subscription_required:'Un accès actif est nécessaire.'};
  return (capability.reasons||[]).map(function(reason){return reasons[reason]}).filter(Boolean).join(' ')||'Cette opération n’est pas disponible pour le moment.';
 }
 function updateChatControls(){
  var data=state.chatData||{},form=document.getElementById('chat-form');if(!form)return;
- var send=form.querySelector('button[type=submit]');if(send)send.disabled=chatHasPending()||!chatConsent(data)||!data.access||!data.access.allowed||!!(data.quota&&Number(data.quota.remaining||0)<=0);
+ var send=form.querySelector('button[type=submit]');if(send)send.disabled=chatHasPending()||!!state.chatVoice?.isActive()||!chatConsent(data)||!data.access||!data.access.allowed||!!(data.quota&&Number(data.quota.remaining||0)<=0);
  var mounted=document.getElementById('view'),shell=mounted&&mounted.chatShell;if(shell)shell.thread.querySelectorAll('button').forEach(function(button){if(button.dataset.chatRetry)button.disabled=!!(state.chatSending||!data.access||!data.access.allowed||data.quota&&Number(data.quota.remaining||0)<=0)});
  var input=form.elements.content;if(input)input.disabled=!!(data.access&&data.access.reason==='authentication_required');
  var quota=document.getElementById('chat-quota');if(quota&&data.quota)quota.textContent=Number(data.quota.remaining||0)+' / '+Number(data.quota.limit||100)+' messages';
@@ -72,18 +72,19 @@ function createChatShell(view,current){
  },'text'))}
  tools.append(privacy);toolbar.append(tools);surface.append(toolbar);
  var scroll=el('div','conversation-scroll');scroll.id='conversation-scroll';var thread=el('section','chat-thread');thread.setAttribute('aria-label','Conversation');thread.setAttribute('role','log');thread.setAttribute('aria-live','off');scroll.append(thread);
- var proposals=el('section');proposals.id='chat-proposals';scroll.append(proposals);surface.append(scroll);
+ var proposals=el('section');proposals.id='chat-proposals';scroll.append(proposals);var preparation=el('section','chat-gate');preparation.hidden=true;scroll.append(preparation);surface.append(scroll);
  var gate=el('div');gate.id='chat-gates';surface.append(gate);
  var form=el('form','chat-composer');form.id='chat-form';var row=el('div','composer-row'),label=el('label','visually-hidden','Votre message');label.htmlFor='chat-content';var input=el('textarea');input.id='chat-content';input.name='content';input.maxLength=6000;input.required=true;input.placeholder=guest?'Connectez-vous pour écrire…':'Votre message…';input.value=state.chatDraft||'';input.disabled=guest;
- input.addEventListener('input',function(){state.chatDraft=input.value});var mic=el('button','chat-microphone','Dicter');mic.type='button';mic.setAttribute('aria-label','Dicter un message');mic.title='Dicter un message';
+ input.addEventListener('input',function(){state.chatDraft=input.value});var mic=el('button','chat-microphone');mic.type='button';mic.setAttribute('aria-label','Dicter un message');mic.setAttribute('aria-describedby','chat-voice-status');mic.title='Dicter un message';
+ mic.innerHTML='<svg class="microphone-glyph" aria-hidden="true" focusable="false" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="3" width="6" height="12" rx="3"/><path d="M5 11v1a7 7 0 0 0 14 0v-1M12 19v3m-3 0h6"/></svg><svg class="stop-glyph" aria-hidden="true" focusable="false" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><rect x="5" y="5" width="14" height="14" rx="2"/></svg>';
  var send=el('button','','Envoyer');send.type='submit';input.addEventListener('keydown',function(event){if(event.key==='Enter'&&!event.shiftKey&&!event.isComposing&&!send.disabled){event.preventDefault();form.requestSubmit()}});
  var feedback=el('p','status');feedback.id='chat-status';feedback.setAttribute('role','status');var voiceStatus=el('p','chat-voice-status');voiceStatus.id='chat-voice-status';voiceStatus.setAttribute('role','status');
  row.append(label,input,mic,send);form.append(row,voiceStatus,feedback);form.addEventListener('submit',async function(event){event.preventDefault();await sendChat(form,current)});surface.append(form);
  var announcement=el('p','visually-hidden');announcement.setAttribute('role','status');surface.append(announcement);
  var next=actionButton('Nouvelle réponse',function(){if(shell.latestResponse){scrollChatTo(shell,shell.latestResponse,false);next.hidden=true}},'chat-new-response');next.hidden=true;surface.append(next);
- var shell={surface:surface,scroll:scroll,thread:thread,proposals:proposals,gate:gate,form:form,input:input,mic:mic,voiceStatus:voiceStatus,feedback:feedback,announcement:announcement,next:next,messages:new Map(),proposalNodes:new Map(),follow:true};
+ var shell={surface:surface,scroll:scroll,thread:thread,proposals:proposals,preparation:preparation,gate:gate,form:form,input:input,mic:mic,voiceStatus:voiceStatus,feedback:feedback,announcement:announcement,next:next,messages:new Map(),proposalNodes:new Map(),follow:true};
  scroll.addEventListener('scroll',function(){shell.follow=scroll.scrollHeight-scroll.scrollTop-scroll.clientHeight<100});view.replaceChildren(surface);view.chatShell=shell;
- if(!guest&&typeof createVoiceInput==='function')state.chatVoice=createVoiceInput({input:input,button:mic,status:voiceStatus,maxLength:6000,isCurrent:function(){return chatIsCurrent(current)},onChange:function(value){if(chatIsCurrent(current))state.chatDraft=value},onState:function(voice){if(!chatIsCurrent(current))return;mic.textContent=voice.active||voice.busy?'Arrêter':'Dicter';mic.className='chat-microphone'+(voice.active?' is-listening':'')}});else mic.disabled=true;
+ if(!guest&&typeof createVoiceInput==='function')state.chatVoice=createVoiceInput({input:input,button:mic,status:voiceStatus,maxLength:6000,isCurrent:function(){return chatIsCurrent(current)},onChange:function(value){if(chatIsCurrent(current))state.chatDraft=value},onState:function(){if(chatIsCurrent(current))updateChatControls()}});else mic.disabled=true;
  return shell;
 }
 function drawChatGate(shell,data,current){
@@ -123,11 +124,25 @@ function chatMessageEntry(shell,message,current,animate){
  }
  return entry;
 }
+function drawChatCharacterPreparation(shell,data,current){
+ var host=shell.preparation,cap=data.capabilities&&data.capabilities.character_preparation;
+ if(!host)return;
+ var visible=chatConsent(data)&&cap&&!cap.ready&&(cap.allowed||cap.pending),signature=JSON.stringify([visible,cap&&cap.allowed,cap&&cap.pending]);
+ if(host.preparationSignature===signature)return;
+ host.preparationSignature=signature;host.replaceChildren();host.hidden=!visible;if(!visible)return;
+ if(cap.pending){var link=el('a','text-link','Voir mon personnage');link.href='/mon-personnage/';host.append(el('p','','Votre personnage est en préparation.'),link);return}
+ var button=actionButton('Préparer mon personnage',async function(){
+  button.disabled=true;feedback.textContent='Préparation de votre personnage…';
+  try{var next=await api('/api/chat/character/prepare','POST',{accepted:true});if(!chatIsCurrent(current))return;state.chatData=next;drawChat(document.getElementById('view'),current);if(!host.hidden&&next.character_preparation_status==='waiting_portrait')feedback.textContent='Votre portrait est en cours d’actualisation.'}
+  catch(err){if(chatIsCurrent(current)){feedback.textContent=err.message;button.disabled=false}}
+ },'secondary'),feedback=el('p','status');feedback.setAttribute('role','status');
+ host.append(el('p','','Votre portrait contient assez de repères pour préparer votre personnage.'),button,feedback);
+}
 function drawChat(view,current,options){
  if(!current())return;var data=state.chatData||{},shell=view.chatShell||createChatShell(view,current),animate=!!(options&&options.animate),messages=(data.messages||[]).map(function(message,index){return Object.assign({},message,{id:message.id||'history-'+index+'-'+message.role})}),box=state.chatOutbox,keys=new Set();
- if(!messages.length&&!box&&data.welcome){messages.push(data.welcome)}
+ if(data.welcome){messages=messages.filter(function(message){return !/^ambre-welcome-/.test(message.id)});messages.unshift(data.welcome)}
  if(box&&!messages.some(function(message){return message.role==='user'&&(message.client_key===box.client_key||box.request_id&&message.id===box.request_id+'-user')}))messages.push({id:'client:'+box.client_key,client_key:box.client_key,role:'user',content:box.content,status:box.status});
- messages.forEach(function(message){var entry=chatMessageEntry(shell,message,current,animate);keys.add(String(message.id));entry.meta.replaceChildren();shell.thread.append(entry.item);
+ messages.forEach(function(message){var entry=chatMessageEntry(shell,message,current,animate&&message.id!==data.welcome?.id);keys.add(String(message.id));entry.meta.replaceChildren();shell.thread.append(entry.item);
   if(message.role==='user'&&['failed','expired','cancelled'].includes(message.status)&&!(box&&(message.client_key===box.client_key||box.request_id&&message.id===box.request_id+'-user')))entry.meta.append(el('p','helper','Réponse non aboutie.'));
   if(message.role==='user'&&box&&(message.client_key===box.client_key||box.request_id&&message.id===box.request_id+'-user')&&['uncertain','failed'].includes(box.status)){
    var retryButton=actionButton('Réessayer ce message',function(){retryChatMessage(box,current)},'text');retryButton.dataset.chatRetry=box.client_key;entry.meta.append(el('p','status error',box.error||'Ce message n’a pas abouti.'),retryButton);
@@ -137,7 +152,7 @@ function drawChat(view,current,options){
  if(state.chatSending){if(!shell.waiting){var waiting=el('article','chat-message chat-assistant chat-thinking');waiting.id='chat-pending-indicator';waiting.setAttribute('role','status');waiting.append(el('h3','','Ambre'),el('span','','Ambre réfléchit…'));var dots=el('span','thinking-dots');dots.setAttribute('aria-hidden','true');for(var i=0;i<3;i++)dots.append(el('i'));waiting.append(dots);shell.waiting=waiting}shell.thread.append(shell.waiting)}else if(shell.waiting){shell.waiting.remove();shell.waiting=null}
  var proposals=(data.proposals||[]).filter(function(proposal){return proposal.status==='pending'}),proposalIds=new Set();proposals.forEach(function(proposal){proposalIds.add(proposal.id);var signature=JSON.stringify(proposal),stored=shell.proposalNodes.get(proposal.id);if(!stored){var host=el('div');shell.proposals.append(host);drawChatProposal(host,proposal,current);shell.proposalNodes.set(proposal.id,{host:host,signature:signature})}var mounted=shell.proposalNodes.get(proposal.id),note=mounted.host.querySelector('.chat-capability'),form=mounted.host.querySelector('form'),submit=form&&form.querySelector('button[type=submit]'),unavailable=chatCapabilityMessage(proposal.kind);if(note){note.textContent=unavailable;note.hidden=!unavailable}if(submit&&form.dataset.submitting!=='true')submit.disabled=!!unavailable;});shell.proposalNodes.forEach(function(stored,id){if(!proposalIds.has(id)){stored.host.remove();shell.proposalNodes.delete(id)}});
  if(shell.responseToAnchor){if(shell.follow){scrollChatTo(shell,shell.responseToAnchor,false);shell.follow=false}else shell.next.hidden=false;shell.responseToAnchor=null}
- drawChatGate(shell,data,current);updateChatControls();if(!state.chatSending){if(box&&box.error&&['failed','uncertain'].includes(box.status)){shell.feedback.textContent=box.error;shell.feedback.className='status error'}else if(data.last_error){shell.feedback.textContent=chatFailureMessage(data);shell.feedback.className='status error'}else{shell.feedback.textContent='';shell.feedback.className='status'}}scheduleChatCooldown(current,data);
+ drawChatGate(shell,data,current);drawChatCharacterPreparation(shell,data,current);updateChatControls();if(!state.chatSending){if(box&&box.error&&['failed','uncertain'].includes(box.status)){shell.feedback.textContent=box.error;shell.feedback.className='status error'}else if(data.last_error){shell.feedback.textContent=chatFailureMessage(data);shell.feedback.className='status error'}else{shell.feedback.textContent='';shell.feedback.className='status'}}scheduleChatCooldown(current,data);
  if(options&&options.sent){shell.follow=true;scrollChatTo(shell,shell.waiting||shell.thread.children[shell.thread.children.length-1],false)}
  if(!shell.initialPositioned){shell.initialPositioned=true;var last=messages.slice().reverse().find(function(message){return message.role==='assistant'});if(last){var entry=shell.messages.get(String(last.id));scrollChatTo(shell,entry&&entry.item,false)}}
 }

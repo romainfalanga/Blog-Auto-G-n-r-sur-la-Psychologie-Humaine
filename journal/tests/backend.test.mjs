@@ -44,7 +44,7 @@ test('legacy inspirations migrate losslessly without deleting source rows',()=>{
 
 test('unlimited likes and optional explanations invalidate source only on actual changes',async()=>{
  const env={DB:database()};const a=await register(env),b=await register(env,'b@example.com');await prepareUser(env,a,14);
- let me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.deepEqual(me.readiness,{likes_count:14,explained_count:0,target:10,ready:true});assert.equal(me.profile.display_name,undefined);const source=me.source_version;
+ let me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.deepEqual(me.readiness,{likes_count:14,explained_count:0});assert.equal(me.profile.display_name,undefined);const source=me.source_version;
  await like(env,a,0);me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal(me.source_version,source);
  let r=await like(env,a,0,'Je me reconnais dans cette réaction.');let likes=await r.json();assert.equal(likes.count,14);assert.equal(likes.explained_count,1);assert.equal(likes.source_version,source+1);
  await like(env,a,0,'Je me reconnais dans cette réaction.');me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal(me.source_version,source+1);
@@ -205,7 +205,7 @@ async function addEvent(env,a,extra={}){const r=await request(env,'/api/life-eve
 async function addPerson(env,a,extra={}){const r=await request(env,'/api/people',{method:'POST',cookie:a.cookie,data:{creation_id:crypto.randomUUID(),display_name:'Mon proche',role:'friend',relationship_text:'Cette amitié me rassure quand je doute.',...extra}});assert.equal(r.status,201,JSON.stringify(await r.clone().json()));return (await r.json()).person;}
 function portraitV2(job,{pending=[]}={}){const sources=job.sources.filter(s=>!pending.includes(s.id)),refs=sources.slice(0,1).map(s=>s.id),explicit=sources.find(s=>s.explicit);return {schema_version:2,psychological_map:[],summary:'Des pistes à explorer depuis les éléments exprimés.',summary_evidence:refs,axes:[{label:'Confiance et liens',why:'Une piste exprimée ou un intérêt de lecture.',claim_type:sources[0].explicit?'hypothesis':'interest',confidence:sources[0].explicit?0.5:0.2,evidence:refs}],strengths:explicit?[{text:'Une ressource évoquée dans les liens.',evidence:[explicit.id]}]:[],uncertainties:['Ces éléments ne définissent pas toute votre vie.'],citations:sources.map(s=>({source_id:s.id,revision:s.revision,quote:s.text.slice(0,Math.min(120,s.text.length))})),coverage:{processed:sources.map(s=>s.id),pending}};}
 const storyV2=()=>{const s=story();return {...s,narrative_delta:{events:[{text:'Le personnage tente une action.',quote:'Une fiction possible, pas une biographie.'}],relationships:[],open_questions:[],resolution:{text:'Une perspective reste ouverte.',quote:'Une fiction possible, pas une biographie.'}}};};
-async function readyInputs(env,a){await prepareUser(env,a);const current=await (await request(env,'/api/self-profile',{cookie:a.cookie})).json();assert.equal((await request(env,'/api/self-profile',{method:'PUT',cookie:a.cookie,data:{expected_revision:current.revision,self_description:'Je souhaite apprendre à poser mes limites.'}})).status,200);}
+async function readyInputs(env,a,likes=10){await prepareUser(env,a,likes);const current=await (await request(env,'/api/self-profile',{cookie:a.cookie})).json();assert.equal((await request(env,'/api/self-profile',{method:'PUT',cookie:a.cookie,data:{expected_revision:current.revision,self_description:'Je souhaite apprendre à poser mes limites.',recurring_patterns:'Je réponds oui trop vite quand un proche me sollicite.'}})).status,200);}
 async function setupV2(env,a){pay(env,a);await readyInputs(env,a);await addEvent(env,a);let j=await claim(env);assert.equal(j?.kind,'portrait');await complete(env,j,{portrait:portraitV2(j)});assert.equal(await claim(env),undefined,'No automatically generated stories');let r=await request(env,'/api/characters/prepare',{method:'POST',cookie:a.cookie,data:{}});assert.equal(r.status,202,JSON.stringify(await r.clone().json()));j=await claim(env);assert.equal(j?.kind,'characters');await complete(env,j,{characters:j.missing_slots.map(slot=>({slot,identity:{name:'Personnage '+slot,description:'Une identité fictive distincte '+slot},facet:{label:'Une perspective '+slot,description:'Explorer une piste avec prudence.',evidence:[j.sources.find(s=>s.type==='event')?.id||j.sources[0].id]},narrative_state:{questions:[]}}))});return (await (await request(env,'/api/characters',{cookie:a.cookie})).json()).characters;}
 async function continueStory(env,a,ch,key=crypto.randomUUID()){return request(env,'/api/characters/'+ch.id+'/continue',{method:'POST',cookie:a.cookie,data:{idempotency_key:key,expected_parent_id:ch.last_story_id}});}
 async function published(env,a,ch){const r=await continueStory(env,a,ch);assert.equal(r.status,202,JSON.stringify(await r.clone().json()));const j=await claim(env);assert.equal(j?.kind,'story');const out=await (await complete(env,j,storyV2())).json();return {j,id:out.story_id};}
@@ -232,7 +232,7 @@ test('portrait rejects missing summary evidence, forged citations, stale revisio
 
 test('one character identity is stable and only explicit continuations create stories',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env);const chars=await setupV2(env,a);assert.equal(chars.length,1);assert.equal(new Set(chars.map(c=>c.id)).size,1);assert.equal(await claim(env),undefined);await request(env,'/api/characters/prepare',{method:'POST',cookie:a.cookie,data:{}});assert.equal(await claim(env),undefined);await addEvent(env,a);const j=await claim(env);await complete(env,j,{portrait:portraitV2(j)});const again=(await (await request(env,'/api/characters',{cookie:a.cookie})).json()).characters;assert.deepEqual(again.map(c=>[c.id,c.identity]),chars.map(c=>[c.id,c.identity]));assert.equal(await claim(env),undefined);});
 
-test('seven shared weekly publications across characters reject an eighth with replay-safe completion',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env);const chars=await setupV2(env,a);for(let i=0;i<7;i++){const ch=chars[0],{j,id}=await published(env,a,ch);const replay=await (await complete(env,j,storyV2())).json();assert.equal(replay.story_id,id);ch.last_story_id=id;}const r=await continueStory(env,a,chars[0]);assert.equal(r.status,429);assert.equal((await r.json()).code,'quota_exhausted');const state=await (await request(env,'/api/characters',{cookie:a.cookie})).json();assert.equal(state.quota.used,7);assert.equal(state.quota.remaining,0);assert.equal(env.DB.raw.prepare('SELECT count(*) n FROM stories').get().n,7);assert.equal(env.DB.raw.prepare("SELECT count(*) n FROM story_requests WHERE credit_status='consumed'").get().n,7);});
+test('one weekly publication blocks a second and its completion is replay-safe',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env),[ch]=await setupV2(env,a);const {j,id}=await published(env,a,ch);const replay=await (await complete(env,j,storyV2())).json();assert.equal(replay.story_id,id);ch.last_story_id=id;const r=await continueStory(env,a,ch);assert.equal(r.status,429);assert.equal((await r.json()).code,'quota_exhausted');const state=await (await request(env,'/api/characters',{cookie:a.cookie})).json();assert.equal(state.quota.limit,1);assert.equal(state.quota.used,1);assert.equal(state.quota.remaining,0);assert.equal(env.DB.raw.prepare('SELECT count(*) n FROM stories').get().n,1);assert.equal(env.DB.raw.prepare("SELECT count(*) n FROM story_requests WHERE credit_status='consumed'").get().n,1);});
 
 test('concurrent characters reserve one credit; same key replays and conflicting params fail',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env);const chars=await setupV2(env,a),key=crypto.randomUUID();const first=await continueStory(env,a,chars[0],key),saved=(await first.json()).request;let r=await continueStory(env,a,chars[0],key);assert.equal((await r.json()).request.id,saved.id);r=await continueStory(env,a,{...chars[0],last_story_id:'conflicting-parent'},key);assert.equal(r.status,409);assert.equal((await r.json()).code,'idempotency_conflict');await request(env,'/api/story-requests/'+saved.id+'/cancel',{method:'POST',cookie:a.cookie,data:{}});const races=await Promise.all([1,2,3].map(()=>continueStory(env,a,chars[0])));assert.equal(races.filter(r=>r.status===202).length,1);assert.equal(races.filter(r=>r.status===409).length,2);const state=await (await request(env,'/api/characters',{cookie:a.cookie})).json();assert.equal(state.quota.reserved,1);assert.equal(state.quota.used,0);});
 
@@ -240,11 +240,21 @@ test('cancellation wins before publication and cannot undo an already published 
 
 test('source rebase keeps request, reserved week, attempts and provider budget and invalidates old lease',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env),chars=await setupV2(env,a);const r=await continueStory(env,a,chars[0]),saved=(await r.json()).request,j=await claim(env);env.DB.raw.prepare('UPDATE story_requests SET provider_calls=6,reserved_tokens=20000 WHERE id=?').run(saved.id);env.DB.raw.prepare('UPDATE journal_jobs SET provider_calls=6,reserved_tokens=20000 WHERE id=?').run(j.id);await addEvent(env,a);await assert.rejects(complete(env,j,storyV2()),e=>e.status===409);let row=env.DB.raw.prepare('SELECT * FROM story_requests WHERE id=?').get(saved.id);assert.equal(row.status,'waiting_portrait');assert.equal(row.provider_calls,6);assert.equal(row.attempts,1);assert.equal(row.week_start,saved.week_start);const p=await claim(env);assert.equal(p.kind,'portrait');await complete(env,p,{portrait:portraitV2(p)});const retry=await claim(env);assert.equal(retry.kind,'story');assert.equal(retry.request_id,saved.id);assert.equal(retry.request.provider_calls,6);assert.equal(retry.request.attempts,2);assert.notEqual(retry.lease_token,j.lease_token);await complete(env,retry,storyV2());});
 
+test('a new story waits for the current portrait after a source edit',async()=>{
+ const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env),[ch]=await setupV2(env,a);
+ await addPerson(env,a);
+ const response=await continueStory(env,a,ch);assert.equal(response.status,202);
+ const reservation=await response.json();assert.equal(reservation.request.status,'waiting_portrait');assert.equal(reservation.quota.reserved,1);
+ const portraitJob=await claim(env);assert.equal(portraitJob.kind,'portrait');await complete(env,portraitJob,{portrait:portraitV2(portraitJob)});
+ const storyJob=await claim(env);assert.equal(storyJob.kind,'story');assert.equal(storyJob.request_id,reservation.request.id);assert.equal(storyJob.source_version,portraitJob.source_version);
+ await complete(env,storyJob,storyV2());
+});
+
 test('subscription expiry, request expiry and expired leases cannot publish or retain credits',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env),chars=await setupV2(env,a);let r=await continueStory(env,a,chars[0]),id=(await r.json()).request.id,j=await claim(env);env.DB.raw.prepare('UPDATE journal_jobs SET lease_until=0 WHERE id=?').run(j.id);await assert.rejects(complete(env,j,storyV2()),e=>e.status===409);env.DB.raw.prepare('UPDATE story_requests SET expires_at=0 WHERE id=?').run(id);r=await request(env,'/api/story-requests/'+id,{cookie:a.cookie});assert.equal((await r.json()).request.status,'expired');r=await continueStory(env,a,chars[0]);id=(await r.json()).request.id;j=await claim(env);env.DB.raw.prepare('UPDATE subscriptions SET paid_until=0 WHERE user_id=?').run(a.user.id);await assert.rejects(complete(env,j,storyV2()),e=>e.status===409);r=await request(env,'/api/story-requests/'+id,{cookie:a.cookie});assert.equal((await r.json()).request.credit_status,'released');});
 
 test('Paris calendar weeks handle midnight and both DST changes independently from 168 hours',()=>{assert.equal(parisWeek(new Date('2026-11-01T22:59:59Z')).week_start,'2026-10-26');assert.equal(parisWeek(new Date('2026-11-01T23:00:00Z')).week_start,'2026-11-02');assert.equal(parisWeek(new Date('2026-03-23T10:00:00Z')).renews_at,'2026-03-29T22:00:00.000Z');assert.equal(parisWeek(new Date('2026-10-19T10:00:00Z')).renews_at,'2026-10-25T23:00:00.000Z');});
 
-test('an old-week reservation completing now consumes its original week',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env),chars=await setupV2(env,a);const r=await continueStory(env,a,chars[0]),saved=(await r.json()).request;env.DB.raw.prepare("UPDATE story_requests SET week_start='2020-01-06' WHERE id=?").run(saved.id);const j=await claim(env);await complete(env,j,storyV2());assert.equal(env.DB.raw.prepare('SELECT week_start FROM story_requests WHERE id=?').get(saved.id).week_start,'2020-01-06');const state=await (await request(env,'/api/characters',{cookie:a.cookie})).json();assert.equal(state.quota.used,0);});
+test('an active reservation crossing Monday counts once and consumes the publication week',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env),[ch]=await setupV2(env,a);const r=await continueStory(env,a,ch),saved=(await r.json()).request;env.DB.raw.prepare("UPDATE story_requests SET week_start='2020-01-06' WHERE id=?").run(saved.id);let state=await (await request(env,'/api/characters',{cookie:a.cookie})).json();assert.equal(state.quota.reserved,1);assert.equal(state.quota.remaining,0);const j=await claim(env);await complete(env,j,storyV2());assert.equal(env.DB.raw.prepare('SELECT week_start FROM story_requests WHERE id=?').get(saved.id).week_start,saved.week_start);state=await (await request(env,'/api/characters',{cookie:a.cookie})).json();assert.equal(state.quota.used,1);assert.equal(state.quota.reserved,0);ch.last_story_id=saved.id;assert.equal((await continueStory(env,a,ch)).status,429);});
 
 test('understanding-only scene text cannot reach characters or story prompts through portrait or derivatives',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env);pay(env,a);await readyInputs(env,a);await addEvent(env,a,{description:'PRIVATE FORBIDDEN SCENE 123456',fiction_use:'understanding_only'});await addEvent(env,a,{description:'Une ressource admissible.'});let j=await claim(env);await complete(env,j,{portrait:portraitV2(j)});await request(env,'/api/characters/prepare',{method:'POST',cookie:a.cookie,data:{}});j=await claim(env);assert.equal(j.kind,'characters');assert.equal(JSON.stringify(j).includes('PRIVATE FORBIDDEN SCENE'),false);assert.ok(j.sources.some(s=>s.restricted&&s.text===''));});
 
@@ -274,7 +284,7 @@ test('foreign character, story, request and event links are rejected at both API
 
 test('free portrait starts remain bounded after personal form edits and do not depend on likes',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env);await addEvent(env,a);for(let i=0;i<3;i++){const j=await claim(env);assert.equal(j.kind,'portrait');await complete(env,j,{portrait:portraitV2(j)});await addEvent(env,a);if(i<2){assert.equal(await claim(env),undefined);env.DB.raw.prepare('UPDATE portrait_usage SET last_started=last_started-601 WHERE user_id=?').run(a.user.id);}}assert.equal(await claim(env),undefined);const state=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(state.reason,'quota');assert.equal(state.status,'queued');assert.ok(state.retry_after>Math.floor(Date.now()/1000));});
 
-test('character history remains separate after more than thirty episodes and no catalogue entry blocks the queue',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env),chars=await setupV2(env,a);const db=env.DB.raw;for(let i=1;i<=35;i++){db.prepare('INSERT INTO stories(id,user_id,day,title,body,summary,reflection_questions,practice,character_id,episode_number,parent_story_id) VALUES(?,?,?,?,?,?,?,?,?,?,?)').run('historic-'+i,a.user.id,'2020-01-01','History '+i,'Body','Resolution '+i,'[]','',chars[0].id,i,i===1?null:'historic-'+(i-1));}db.prepare('UPDATE personal_characters SET canon_version=35,last_story_id=? WHERE id=?').run('historic-35',chars[0].id);chars[0].last_story_id='historic-35';db.exec('DELETE FROM public_examples');await continueStory(env,a,chars[0]);const j=await claim(env);assert.equal(j.kind,'story');assert.equal(j.history.length,35);assert.equal(j.history[0].summary,'Resolution 1');assert.equal(j.history.at(-1).summary,'Resolution 35');assert.deepEqual(j.inspirations,[]);const publishedStory=await (await complete(env,j,storyV2())).json();chars[0].last_story_id=publishedStory.story_id;await continueStory(env,a,chars[0]);const j2=await claim(env);assert.equal(j2.history.length,36);assert.equal(j2.character.id,chars[0].id);});
+test('character history remains separate after more than thirty episodes and no catalogue entry blocks the queue',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env),chars=await setupV2(env,a);const db=env.DB.raw;for(let i=1;i<=35;i++){db.prepare('INSERT INTO stories(id,user_id,day,title,body,summary,reflection_questions,practice,character_id,episode_number,parent_story_id) VALUES(?,?,?,?,?,?,?,?,?,?,?)').run('historic-'+i,a.user.id,'2020-01-01','History '+i,'Body','Resolution '+i,'[]','',chars[0].id,i,i===1?null:'historic-'+(i-1));}db.prepare('UPDATE personal_characters SET canon_version=35,last_story_id=? WHERE id=?').run('historic-35',chars[0].id);chars[0].last_story_id='historic-35';db.exec('DELETE FROM public_examples');await continueStory(env,a,chars[0]);const j=await claim(env);assert.equal(j.kind,'story');assert.equal(j.history.length,35);assert.equal(j.history[0].summary,'Resolution 1');assert.equal(j.history.at(-1).summary,'Resolution 35');assert.deepEqual(j.inspirations,[]);const publishedStory=await (await complete(env,j,storyV2())).json();chars[0].last_story_id=publishedStory.story_id;db.prepare("UPDATE story_requests SET week_start='2020-01-06' WHERE id=?").run(publishedStory.story_id);await continueStory(env,a,chars[0]);const j2=await claim(env);assert.equal(j2.history.length,36);assert.equal(j2.character.id,chars[0].id);});
 
 test('partial dates reject zero segments without inventing missing day or month',async()=>{const env={DB:database()},a=await register(env);for(const [date_precision,date_start]of [['month','2020-00'],['day','2020-06-00'],['day','2021-02-29']]){const r=await request(env,'/api/life-events',{method:'POST',cookie:a.cookie,data:{creation_id:crypto.randomUUID(),title:'Date',description:'Contexte',date_precision,date_start}});assert.equal(r.status,400,date_start);}const e=await addEvent(env,a,{date_precision:'month',date_start:'2020-06'});assert.equal(e.date_start,'2020-06');const undated=await addEvent(env,a,{date_precision:'unknown',date_start:''});assert.equal(undated.date_start,'');});
 
@@ -288,7 +298,7 @@ test('the bounded five-hundred-event collection remains complete without a giant
 
 test('recommendation exposure stores bounded public IDs without changing personal source versions',async()=>{const env={DB:database()},a=await register(env);await like(env,a,0,'Je souhaite explorer la confiance et les relations.');const v=versionOf(env,a);for(let i=0;i<150;i++)env.DB.raw.prepare('INSERT INTO recommendation_exposures(user_id,article_id,shown_at) VALUES(?,?,?)').run(a.user.id,'old-'+i,i<20?'2020-01-01 00:00:00':'2026-11-03 00:00:00');const r=await request(env,'/api/recommendations',{cookie:a.cookie});assert.equal(r.status,200);assert.equal(versionOf(env,a),v);assert.ok(env.DB.raw.prepare('SELECT count(*) n FROM recommendation_exposures WHERE user_id=?').get(a.user.id).n<=100);assert.equal(env.DB.raw.prepare("SELECT count(*) n FROM recommendation_exposures WHERE shown_at<'2021'").get().n,0);});
 
-test('an understanding-only event can build a portrait but cannot bypass V3 character requirements',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env);pay(env,a);await addEvent(env,a,{fiction_use:'understanding_only'});const j=await claim(env);await complete(env,j,{portrait:portraitV2(j)});const r=await request(env,'/api/characters/prepare',{method:'POST',cookie:a.cookie,data:{}});assert.equal(r.status,409);assert.equal((await r.json()).code,'likes_required');assert.equal(await claim(env),undefined);});
+test('an understanding-only event contributes to the portrait but cannot fill the fictional situation',async()=>{const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env);pay(env,a);await readyInputs(env,a,0);await addEvent(env,a,{fiction_use:'understanding_only'});const j=await claim(env);await complete(env,j,{portrait:portraitV2(j)});const r=await request(env,'/api/characters/prepare',{method:'POST',cookie:a.cookie,data:{}});assert.equal(r.status,409);assert.equal((await r.json()).code,'information_required');const state=await (await request(env,'/api/characters',{cookie:a.cookie})).json();assert.deepEqual(state.readiness.information.map(i=>[i.id,i.complete]),[['self',true],['reaction',true],['situation',false]]);assert.equal(state.readiness.portrait_ready,true);assert.equal(await claim(env),undefined);});
 
 test('self profile validates optional fields, isolates identity from analysis and uses compare-and-swap revisions',async()=>{
  const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env),b=await register(env,'other-profile@example.com');
@@ -307,7 +317,7 @@ test('demographics and occupation alone provide no psychological evidence or cha
  const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env);pay(env,a);await prepareUser(env,a);
  await request(env,'/api/self-profile',{method:'PUT',cookie:a.cookie,data:{expected_revision:1,occupation:'Psychologue',gender:'female',birth_date:'1980-01-01'}});
  const j=await claim(env);assert.equal(j.sources.some(s=>s.type==='profile'),false);await complete(env,j,{portrait:portraitV2(j)});
- const state=await (await request(env,'/api/characters',{cookie:a.cookie})).json();assert.equal(state.readiness.likes_count,10);assert.equal(state.readiness.has_self_description,false);assert.deepEqual(state.readiness.reasons,['self_description_required']);assert.equal((await request(env,'/api/characters/prepare',{method:'POST',cookie:a.cookie,data:{}})).status,409);
+ const state=await (await request(env,'/api/characters',{cookie:a.cookie})).json();assert.ok(state.readiness.information.every(i=>!i.complete));assert.deepEqual(state.readiness.reasons,['information_required']);assert.equal((await request(env,'/api/characters/prepare',{method:'POST',cookie:a.cookie,data:{}})).status,409);
 });
 
 test('V3 migration preserves three identities and histories, archives secondary jobs and retains consumed quotas',async()=>{
@@ -322,10 +332,10 @@ test('V3 migration preserves three identities and histories, archives secondary 
  assert.equal((await request(env,'/api/characters/char-2/continue',{method:'POST',cookie:a.cookie,data:{idempotency_key:'archive-attempt',expected_parent_id:null}})).status,409);assert.deepEqual(db.prepare('PRAGMA foreign_key_check').all(),[]);
 });
 
-test('loss of eligibility between claim and completion releases reservation and prevents publication',async()=>{
- for(const remove of ['likes','description']){const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env),chars=await setupV2(env,a);await continueStory(env,a,chars[0]);const j=await claim(env);
- if(remove==='likes')await request(env,'/api/likes/'+encodeURIComponent(examples[0].id),{method:'PUT',cookie:a.cookie,data:{liked:false}});else await request(env,'/api/self-profile',{method:'PUT',cookie:a.cookie,data:{expected_revision:2,self_description:''}});
- await assert.rejects(complete(env,j,storyV2()),e=>e.status===409);const state=await (await request(env,'/api/characters',{cookie:a.cookie})).json();assert.equal(state.readiness.eligible,false);assert.equal(state.quota.reserved,0);assert.equal(state.quota.used,0);assert.equal(env.DB.raw.prepare('SELECT count(*) n FROM stories').get().n,0);
+test('removing every usable source revokes a reserved fiction request, while removing a like does not',async()=>{
+ for(const remove of ['like','usable sources']){const env={DB:database(),OPENROUTER_API_KEY:'test'},a=await register(env),[ch]=await setupV2(env,a);await continueStory(env,a,ch);const j=await claim(env);
+ if(remove==='like')await request(env,'/api/likes/'+encodeURIComponent(examples[0].id),{method:'PUT',cookie:a.cookie,data:{liked:false}});else{await request(env,'/api/self-profile',{method:'PUT',cookie:a.cookie,data:{expected_revision:2,self_description:'',recurring_patterns:''}});const event=j.sources.find(s=>s.type==='event');await request(env,'/api/life-events/'+event.id.slice(6),{method:'DELETE',cookie:a.cookie,data:{revision:event.revision}});}
+ await assert.rejects(complete(env,j,storyV2()),e=>e.status===409);const state=await (await request(env,'/api/characters',{cookie:a.cookie})).json();assert.equal(state.readiness.eligible,remove==='like');assert.equal(state.quota.reserved,remove==='like'?1:0);assert.equal(state.quota.used,0);assert.equal(env.DB.raw.prepare('SELECT count(*) n FROM stories').get().n,0);
  }
 });
 
@@ -361,7 +371,7 @@ test('trial entitlement uses trial end exclusively and preserves full story life
  const me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal(me.subscription.active,true);assert.equal(me.subscription.trial_eligible,false);assert.equal(me.subscription.access_until,t+604800);
  let r=await continueStory(env,a,chars[0]);assert.equal(r.status,202);const id=(await r.json()).request.id,j=await claim(env);assert.equal(j.kind,'story');await complete(env,j,storyV2());
  assert.equal(env.DB.raw.prepare('SELECT credit_status FROM story_requests WHERE id=?').get(id).credit_status,'consumed');
- const latest=env.DB.raw.prepare('SELECT last_story_id FROM personal_characters WHERE id=?').get(chars[0].id);r=await continueStory(env,a,{...chars[0],last_story_id:latest.last_story_id});assert.equal(r.status,202);const pending=(await r.json()).request.id;
+ const latest=env.DB.raw.prepare('SELECT last_story_id FROM personal_characters WHERE id=?').get(chars[0].id);env.DB.raw.prepare("UPDATE story_requests SET week_start='2020-01-06' WHERE id=?").run(id);r=await continueStory(env,a,{...chars[0],last_story_id:latest.last_story_id});assert.equal(r.status,202);const pending=(await r.json()).request.id;
  env.DB.raw.prepare('UPDATE subscriptions SET trial_end=0 WHERE user_id=?').run(a.user.id);
  r=await request(env,'/api/story-requests/'+pending,{cookie:a.cookie});assert.equal((await r.json()).request.credit_status,'released');
  assert.equal(env.DB.raw.prepare("SELECT count(*) AS n FROM story_requests WHERE user_id=? AND credit_status='consumed'").get(a.user.id).n,1);
@@ -417,18 +427,22 @@ test('approved reading focus reaches story jobs and is part of idempotency',asyn
  const j=await claim(env);assert.equal(j.kind,'story');assert.equal(j.requested_focus,payload.requested_focus);assert.equal((await (await request(env,'/api/characters',{cookie:a.cookie})).json()).quota.reserved,1);
 });
 
-test('free preview preserves genuine subscription state and unlocks full fiction lifecycle with original gates and quota',async()=>{
+test('free preview with zero likes queues character preparation while its portrait is updating',async()=>{
  const env={DB:database(),OPENROUTER_API_KEY:'test',FREE_ACCESS_ENABLED:'true'},a=await register(env);
  let me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.deepEqual(me.access,{allowed:true,mode:'free_preview'});assert.equal(me.subscription.active,false);assert.equal(me.subscription.status,'none');
- let response=await request(env,'/api/characters/prepare',{method:'POST',cookie:a.cookie,data:{}});assert.equal((await response.json()).code,'likes_required');
- await prepareUser(env,a);response=await request(env,'/api/characters/prepare',{method:'POST',cookie:a.cookie,data:{}});assert.equal((await response.json()).code,'self_description_required');
- await request(env,'/api/self-profile',{method:'PUT',cookie:a.cookie,data:{expected_revision:1,self_description:'Je souhaite apprendre à poser mes limites.'}});
- response=await request(env,'/api/characters/prepare',{method:'POST',cookie:a.cookie,data:{}});assert.equal((await response.json()).code,'portrait_required');
- let job=await claim(env);await complete(env,job,{portrait:portraitV2(job)});
- response=await request(env,'/api/characters/prepare',{method:'POST',cookie:a.cookie,data:{}});assert.equal(response.status,202);job=await claim(env);assert.equal(job.kind,'characters');
+ let response=await request(env,'/api/characters/prepare',{method:'POST',cookie:a.cookie,data:{}});assert.equal((await response.json()).code,'information_required');
+ await request(env,'/api/self-profile',{method:'PUT',cookie:a.cookie,data:{expected_revision:1,recurring_patterns:'Je réponds oui trop vite quand un proche me sollicite.',current_context:'Au travail, des demandes arrivent souvent juste avant mon départ.'}});
+ const partial=await (await request(env,'/api/characters',{cookie:a.cookie})).json();
+ assert.deepEqual(partial.readiness.information.map(i=>[i.id,i.complete]),[['self',false],['reaction',true],['situation',true]]);
+ assert.equal(partial.readiness.eligible,false);
+ await request(env,'/api/self-profile',{method:'PUT',cookie:a.cookie,data:{expected_revision:2,self_description:'Je souhaite apprendre à poser mes limites.'}});
+ response=await request(env,'/api/characters/prepare',{method:'POST',cookie:a.cookie,data:{}});assert.equal(response.status,202);const preparation=await response.json();assert.equal(preparation.status,'waiting_portrait');assert.ok(preparation.readiness.information.every(i=>i.complete));
+ response=await request(env,'/api/characters/prepare',{method:'POST',cookie:a.cookie,data:{}});assert.equal(response.status,202);assert.equal(env.DB.raw.prepare("SELECT count(*) AS n FROM journal_jobs WHERE kind='characters'").get().n,1);
+ let job=await claim(env);assert.equal(job.kind,'portrait');assert.equal(job.likes.length,0);await complete(env,job,{portrait:portraitV2(job)});
+ job=await claim(env);assert.equal(job.kind,'characters');assert.equal(job.likes.length,0);
  await complete(env,job,{characters:job.missing_slots.map(slot=>({slot,identity:{name:'Alix',description:'Un personnage fictif.'},facet:{label:'Une piste à explorer',description:'Une perspective prudente.',evidence:[job.sources.find(s=>s.explicit).id]},narrative_state:{}}))});
  const character=(await (await request(env,'/api/characters',{cookie:a.cookie})).json()).characters[0];
- for(let index=0;index<7;index++){const result=await published(env,a,character);character.last_story_id=result.id;}
+ const result=await published(env,a,character);character.last_story_id=result.id;
  response=await continueStory(env,a,character);assert.equal(response.status,429);assert.equal((await response.json()).code,'quota_exhausted');
  me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.equal(me.subscription.active,false);assert.equal(me.subscription.status,'none');
  env.FREE_ACCESS_ENABLED='false';me=await (await request(env,'/api/me',{cookie:a.cookie})).json();assert.deepEqual(me.access,{allowed:false,mode:'subscription_required'});
@@ -448,20 +462,32 @@ test('free preview bypasses free portrait start/cooldown limits and each source 
  state=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(state.status,'ready');assert.equal(state.retry_after,null);
 });
 
-test('portrait corrections append atomically, remain private and replay without duplicate versions',async()=>{
+function internalPortraitFeedback(env,account,data){
+ const backend=createPersonalBackend({error(status,message,code){throw Object.assign(new Error(message),{status,code});},json:value=>value,text:value=>String(value||''),body:request=>request.json(),now:()=>Math.floor(Date.now()/1000),random:()=>crypto.randomUUID(),decorateLikes:value=>value,recommender:createRecommender(examples),examples});
+ const url=new URL('/api/portrait/feedback',origin);
+ return backend.routes(new Request(url,{method:'POST',body:JSON.stringify(data)}),env,account.user,url.pathname,url);
+}
+
+test('the former cartography feedback endpoint rejects account requests without changing the portrait',async()=>{
+ const env={DB:database()},a=await register(env),version=versionOf(env,a);
+ const response=await request(env,'/api/portrait/feedback',{method:'POST',cookie:a.cookie,data:{pattern_id:'rumination',kind:'nuance',text:'Une précision.',creation_id:crypto.randomUUID()}});
+ assert.equal(response.status,404);assert.equal(versionOf(env,a),version);
+});
+
+test('internal portrait corrections append atomically, remain private and replay without duplicate versions',async()=>{
  const env={DB:database(),FREE_ACCESS_ENABLED:'true'},a=await register(env),b=await register(env,'feedback-other@example.com');
  await request(env,'/api/memory',{method:'PUT',cookie:a.cookie,data:{text:'Une correction déjà écrite par moi.'}});const before=versionOf(env,a);
  const first={pattern_id:'rumination',kind:'nuance',text:'Cela arrive surtout quand je manque de sommeil.',creation_id:crypto.randomUUID()};
  const second={pattern_id:'rumination',kind:'not_concerned',text:'En vacances cette piste ne me correspond pas.',creation_id:crypto.randomUUID()};
- const responses=await Promise.all([first,second].map(data=>request(env,'/api/portrait/feedback',{method:'POST',cookie:a.cookie,data})));for(const response of responses)assert.equal(response.status,200);
+ const responses=await Promise.all([first,second].map(data=>internalPortraitFeedback(env,a,data)));for(const response of responses)assert.equal(response.ok,true);
  let memory=await (await request(env,'/api/memory',{cookie:a.cookie})).json();assert.ok(memory.text.startsWith('Une correction déjà écrite par moi.'));assert.ok(memory.text.includes(first.text));assert.ok(memory.text.includes(second.text));assert.equal(versionOf(env,a),before+2);
- const after=versionOf(env,a),replay=await (await request(env,'/api/portrait/feedback',{method:'POST',cookie:a.cookie,data:first})).json();assert.equal(replay.replayed,true);assert.equal(versionOf(env,a),after);
- assert.equal((await request(env,'/api/portrait/feedback',{method:'POST',cookie:a.cookie,data:{...first,text:'Un autre retour.'}})).status,409);
- assert.equal((await request(env,'/api/portrait/feedback',{method:'POST',cookie:a.cookie,data:{...first,creation_id:crypto.randomUUID(),pattern_id:'invented'}})).status,400);
+ const after=versionOf(env,a),replay=await internalPortraitFeedback(env,a,first);assert.equal(replay.replayed,true);assert.equal(versionOf(env,a),after);
+ await assert.rejects(internalPortraitFeedback(env,a,{...first,text:'Un autre retour.'}),error=>error.status===409);
+ await assert.rejects(internalPortraitFeedback(env,a,{...first,creation_id:crypto.randomUUID(),pattern_id:'invented'}),error=>error.status===400);
  assert.equal((await (await request(env,'/api/memory',{cookie:b.cookie})).json()).text,'');
  memory=await (await request(env,'/api/memory',{cookie:a.cookie})).json();assert.equal(memory.text.split(first.text).length-1,1);
  await request(env,'/api/memory',{method:'PUT',cookie:a.cookie,data:{text:'x'.repeat(9950)}});const fullVersion=versionOf(env,a);
- const tooLong=await request(env,'/api/portrait/feedback',{method:'POST',cookie:a.cookie,data:{...first,creation_id:crypto.randomUUID()}});assert.equal((await tooLong.json()).code,'memory_limit');assert.equal(versionOf(env,a),fullVersion);assert.equal((await (await request(env,'/api/memory',{cookie:a.cookie})).json()).text.length,9950);
+ await assert.rejects(internalPortraitFeedback(env,a,{...first,creation_id:crypto.randomUUID()}),error=>error.code==='memory_limit');assert.equal(versionOf(env,a),fullVersion);assert.equal((await (await request(env,'/api/memory',{cookie:a.cookie})).json()).text.length,9950);
 });
 
 test('source writes debounce a durable native refresh and latest source version wins without duplicate provider calls',async t=>{
@@ -473,7 +499,8 @@ test('source writes debounce a durable native refresh and latest source version 
  await request(env,'/api/memory',{method:'PUT',cookie:a.cookie,context,data:{text:'Je souhaite nuancer ce récit avec mes mots.'}});
  assert.equal(env.DB.raw.prepare('SELECT status FROM journal_jobs WHERE id=?').get(old.id).status,'obsolete');
  assert.equal(calls,0);assert.ok(tasks.length>=2);await Promise.all(tasks);
- const state=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(state.status,'ready');assert.equal(state.analyzed_version,versionOf(env,a));assert.equal(calls,2);assert.equal(state.psychology_map.outdated,false);assert.ok(Array.isArray(state.portrait.psychological_map));
+ const state=await (await request(env,'/api/portrait',{cookie:a.cookie})).json();assert.equal(state.status,'ready');assert.equal(state.analyzed_version,versionOf(env,a));assert.equal(calls,2);assert.equal(state.psychology_map,undefined);assert.equal(state.portrait.psychological_map,undefined);
+ const exported=await (await request(env,'/api/export',{cookie:a.cookie})).json();assert.equal(exported.portrait.psychology_map.outdated,false);assert.ok(Array.isArray(exported.portrait.portrait.psychological_map));
 });
 
 test('cron refresh recovers a persisted portrait queue and rejects stale model results after an intervening source write',async t=>{
@@ -487,14 +514,14 @@ test('current-version legacy portraits are queued for map upgrade and claims can
  const env={DB:database(),OPENROUTER_API_KEY:'mock-provider',FREE_ACCESS_ENABLED:'true'},a=await register(env),b=await register(env,'scoped@example.com');await addEvent(env,a);await addEvent(env,b);
  const scoped=(await (await claimJobs(env,b.user.id,'portrait',90)).json()).jobs[0];assert.equal(scoped.user_id,b.user.id);await complete(env,scoped,{portrait:portraitV2(scoped)});
  const legacy=JSON.parse(env.DB.raw.prepare('SELECT portrait FROM user_portraits WHERE user_id=?').get(b.user.id).portrait);delete legacy.psychological_map;env.DB.raw.prepare('UPDATE user_portraits SET portrait=? WHERE user_id=?').run(JSON.stringify(legacy),b.user.id);
- const state=await (await request(env,'/api/portrait',{cookie:b.cookie})).json();assert.equal(state.status,'queued');assert.equal(state.outdated,true);assert.equal(state.psychology_map.outdated,true);
+ const state=await (await request(env,'/api/portrait',{cookie:b.cookie})).json();assert.equal(state.status,'queued');assert.equal(state.outdated,true);assert.equal(state.psychology_map,undefined);
  const upgrade=(await (await claimJobs(env,b.user.id,'portrait',90)).json()).jobs[0];assert.equal(upgrade.user_id,b.user.id);assert.equal(upgrade.source_version,scoped.source_version);assert.notEqual(upgrade.id,scoped.id);
  assert.equal(env.DB.raw.prepare("SELECT status FROM journal_jobs WHERE user_id=? AND kind='portrait' ORDER BY created_at LIMIT 1").get(a.user.id).status,'pending');
 });
 
 test('versioned memory editors cannot overwrite a concurrently appended portrait correction',async()=>{
  const env={DB:database()},a=await register(env);const memory=await (await request(env,'/api/memory',{cookie:a.cookie})).json();
- const data={pattern_id:'rumination',kind:'nuance',text:'Un contexte précis à conserver.',creation_id:crypto.randomUUID()};assert.equal((await request(env,'/api/portrait/feedback',{method:'POST',cookie:a.cookie,data})).status,200);
+ const data={pattern_id:'rumination',kind:'nuance',text:'Un contexte précis à conserver.',creation_id:crypto.randomUUID()};assert.equal((await internalPortraitFeedback(env,a,data)).ok,true);
  const version=versionOf(env,a);let response=await request(env,'/api/memory',{method:'PUT',cookie:a.cookie,data:{text:'Mon ancien brouillon.',expected_version:memory.version}});assert.equal(response.status,409);assert.equal((await response.json()).code,'revision_conflict');assert.equal(versionOf(env,a),version);
  const latest=await (await request(env,'/api/memory',{cookie:a.cookie})).json();assert.ok(latest.text.includes(data.text));response=await request(env,'/api/memory',{method:'PUT',cookie:a.cookie,data:{text:latest.text+' Une précision ajoutée.',expected_version:latest.version}});assert.equal(response.status,200);
 });
@@ -630,4 +657,15 @@ test('a cached cancellation response cannot report success while canonical Strip
   const cancel=()=>request(env,'/api/billing/cancel',{method:'POST',cookie:a.cookie,data:{}});let response=await cancel();assert.equal(response.status,502);assert.equal((await response.json()).code,'cancellation_not_confirmed');assert.equal(db.prepare('SELECT cancel_at_period_end FROM subscriptions WHERE user_id=?').get(a.user.id).cancel_at_period_end,0);
   response=await cancel();assert.equal(response.status,200);assert.equal((await response.json()).cancel_at_period_end,true);assert.notEqual(keys[0],keys[1]);
  }finally{globalThis.fetch=originalFetch;}
+});
+
+test('a legacy reservation is released before provider work if this week already has a published story',async()=>{
+ const env={DB:database(),OPENROUTER_API_KEY:'test'},account=await register(env),[character]=await setupV2(env,account);
+ const {id}=await published(env,account,character);
+ env.DB.raw.prepare(`INSERT INTO story_requests(id,user_id,character_id,idempotency_key,parameter_hash,week_start,expected_parent_id,status,credit_status,source_version,canon_version,expires_at)
+  SELECT 'legacy-reserved',user_id,character_id,'legacy-reserved','legacy',week_start,?,'queued','reserved',source_version,1,expires_at FROM story_requests WHERE id=?`).run(id,id);
+ assert.equal(await claim(env),undefined);
+ const row=env.DB.raw.prepare("SELECT status,credit_status,error_code FROM story_requests WHERE id='legacy-reserved'").get();
+ assert.deepEqual({...row},{status:'cancelled',credit_status:'released',error_code:'quota_exhausted'});
+ assert.equal(env.DB.raw.prepare('SELECT count(*) n FROM stories').get().n,1);
 });

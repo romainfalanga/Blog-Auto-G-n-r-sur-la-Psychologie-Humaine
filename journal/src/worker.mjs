@@ -126,7 +126,6 @@ async function githubIdentity(request,env) {
   return claims;
 }
 const frenchDay=()=>new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Paris',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
-const TARGET_LIKES=10;
 const catalog=new Map(EXAMPLES.map(example=>[example.id,example]));
 const recommender=createRecommender(EXAMPLES);
 const FREE_PORTRAIT_STARTS=3;
@@ -138,19 +137,24 @@ function decorateLikes(rows) {
   });
 }
 async function likesFor(env,userId) {return decorateLikes(await all(env,'SELECT article_id,reason,differences,created_at,updated_at FROM article_likes WHERE user_id=? ORDER BY created_at,article_id',userId));}
-function readinessFor(likes) {return {likes_count:likes.length,explained_count:likes.filter(l=>l.reason.trim()||l.differences.trim()).length,target:TARGET_LIKES,ready:likes.length>=TARGET_LIKES};}
+function likeCounts(likes) {return {likes_count:likes.length,explained_count:likes.filter(l=>l.reason.trim()||l.differences.trim()).length};}
 async function likesResponse(env,userId) {
   // One SQLite read snapshot binds the collection and its version. A concurrent edit
   // can return a newer snapshot, but can never tag this older collection with it.
   const snapshot=await first(env,`SELECT p.version,(SELECT json_group_array(json_object('article_id',article_id,'reason',reason,'differences',differences,'created_at',created_at,'updated_at',updated_at)) FROM (SELECT article_id,reason,differences,created_at,updated_at FROM article_likes WHERE user_id=p.user_id ORDER BY created_at,article_id)) AS likes_json FROM profiles p WHERE p.user_id=?`,userId);
   if(!snapshot) error(401,'Compte introuvable.');
-  const likes=decorateLikes(parse(snapshot.likes_json,[])),r=readinessFor(likes);
-  return {likes,count:r.likes_count,explained_count:r.explained_count,target:TARGET_LIKES,source_version:snapshot.version};
+  const likes=decorateLikes(parse(snapshot.likes_json,[])),r=likeCounts(likes);
+  return {likes,count:r.likes_count,explained_count:r.explained_count,source_version:snapshot.version};
 }
 const personal=createPersonalBackend({error,json,text,body,now,random,decorateLikes,recommender,examples:EXAMPLES});
 const chat=createChatBackend({error,json,text,body,now,random,personal});
 const readingContext=(env,userId)=>personal.context(env,userId);
 const portraitFor=(env,userId)=>personal.portrait(env,userId);
+function withoutPsychologyMap(value){
+  if(!value)return value;
+  const {psychology_map,psychological_map,...visible}=value;
+  return visible;
+}
 export const claimJobs=(env,...filters)=>personal.claimJobs(env,...filters);
 export const completeJob=(env,id,data)=>personal.completeJob(env,id,data);
 export const proxyJobLLM=(env,id,data)=>personal.proxyJobLLM(env,id,data);
@@ -193,7 +197,7 @@ async function routes(request,env,ctx) {
   if(path==='/api/me'&&method==='GET') {
     const user=await userFor(request,env,false); if(!user) return json({user:null,configuration:{billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY),free_access:platformAccess(env,null).mode==='free_preview'}});
     const p=await first(env,'SELECT * FROM profiles WHERE user_id=?',user.id),s=await first(env,'SELECT * FROM subscriptions WHERE user_id=?',user.id),m=await first(env,'SELECT text,proposal,version FROM memories WHERE user_id=?',user.id);
-    const readiness=readinessFor(await likesFor(env,user.id)),inspirations_count=readiness.likes_count;
+    const readiness=likeCounts(await likesFor(env,user.id)),inspirations_count=readiness.likes_count;
     return json({user,access:platformAccess(env,s),inspirations_count,readiness,consent_ai:Boolean(p.consent_ai),source_version:p.version,profile:{...parse(p.data),consent_ai:Boolean(p.consent_ai)},subscription:{status:s.status,active:activeSubscription(s),paid_until:s.paid_until,trial_end:s.trial_end,trial_used_at:s.trial_used_at,trial_eligible:!s.trial_used_at,cancel_at_period_end:Boolean(s.cancel_at_period_end),access_until:accessUntil(s),manageable:Boolean(s.customer_id)},memory:m,configuration:{billing:billingReady(env),ai:Boolean(env.OPENROUTER_API_KEY),free_access:platformAccess(env,null).mode==='free_preview'}});
   }
   if(['/api/auth/register','/api/auth/login'].includes(path)&&method==='POST') {
@@ -212,6 +216,7 @@ async function routes(request,env,ctx) {
     return session(env,user);
   }
   const user=await userFor(request,env);
+  if(path==='/api/portrait/feedback') error(404,'Route inconnue.');
   const chatResponse=await chat.routes(request,env,user,path,url,ctx);if(chatResponse)return chatResponse;
   const personalResponse=await personal.routes(request,env,user,path,url,ctx);if(personalResponse)return personalResponse;
   if(path==='/api/auth/logout'&&method==='POST') {
@@ -233,7 +238,11 @@ async function routes(request,env,ctx) {
     await personal.sourcesChanged(env,user.id,ctx);
     return json({ok:true,consent_ai:Boolean(p.consent_ai),source_version:p.version});
   }
-  if(path==='/api/portrait'&&method==='GET') {await personal.sourcesChanged(env,user.id,ctx);return json(await portraitFor(env,user.id));}
+  if(path==='/api/portrait'&&method==='GET') {
+    await personal.sourcesChanged(env,user.id,ctx);
+    const portrait=withoutPsychologyMap(await portraitFor(env,user.id));
+    return json({...portrait,portrait:withoutPsychologyMap(portrait.portrait),provisional_portrait:withoutPsychologyMap(portrait.provisional_portrait)});
+  }
   if(path==='/api/recommendations'&&method==='GET') {
     const context=await readingContext(env,user.id);
     const rankingContext={...context,portrait:context.portrait_version===context.source_version?context.portrait:null};
