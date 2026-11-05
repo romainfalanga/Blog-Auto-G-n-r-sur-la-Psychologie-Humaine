@@ -38,8 +38,10 @@
   status = 200
   force = true
 
-# Le Worker redirige les anciennes pages privées sans leurs paramètres de récit.
-# Netlify transmettrait la requête à l’identique avec une redirection 301 ou 302.
+# Nettoie les paramètres avant les règles de proxy, qui les transmettent automatiquement.
+[[edge_functions]]
+  pattern = "^/(mon-personnage|mes-personnages|mes-histoires|journal)(/|$)"
+  function = "legacy-private-pages"
 
 [[redirects]]
   from = "/mon-personnage"
