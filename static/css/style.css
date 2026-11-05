@@ -148,7 +148,7 @@ hr {
    ======================================== */
 .articles-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr));
   gap: 1.5rem;
   align-items: stretch;
 }
@@ -387,6 +387,7 @@ hr {
    PAGINATION
    ======================================== */
 .pagination {
+  flex-wrap: wrap;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -598,7 +599,7 @@ main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 
 .hero-companion a span, .perso-btn span, .catalogue-back span { font-size: 1.15rem; }
 .character-directory { scroll-margin-top: 86px; }
 .character-directory-heading { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: .3rem 1rem; margin: 0 0 .8rem; }
-.character-directory-heading h2 { margin: 0; font: 700 clamp(1.35rem, 3vw, 1.85rem)/1.25 var(--font-serif); letter-spacing: -.025em; }
+.character-directory-heading :is(h1,h2) { margin: 0; font: 700 clamp(1.35rem, 3vw, 1.85rem)/1.25 var(--font-serif); letter-spacing: -.025em; }
 .character-directory-heading p { margin: 0; font-size: .82rem; }
 .character-search-box { margin: 0 0 1.35rem; padding: .25rem 1rem; border: 1px solid #BACCD3; border-radius: 10px; background: var(--color-card-bg); }
 .character-search-box:focus-within { border-color: var(--color-accent); box-shadow: 0 0 0 2px #B9D8D0; }
@@ -614,9 +615,6 @@ main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 
 .character-directory .perso-card { display: flex; flex-direction: column; min-width: 0; padding: 1.1rem 1.2rem .25rem; background: var(--color-card-bg); border: 1px solid var(--color-border); border-radius: 12px; transition: border-color .2s; }
 .character-directory .perso-card:hover, .character-directory .perso-card:focus-within { border-color: #8EADA8; }
 .character-directory .perso-card-top { display: flex; align-items: center; gap: .75rem; margin: 0 0 .8rem; text-align: left; }
-.character-initial { display: grid; place-items: center; flex: none; width: 44px; height: 44px; border-radius: 9px; background: #E5F0ED; color: var(--color-accent); font: 700 1.25rem/1 var(--font-serif); }
-.character-initial[data-tone="2"] { color: #304E69; background: #E7EFF7; }
-.character-initial[data-tone="0"] { color: #6B4936; background: #F4EDE6; }
 .character-directory .perso-name { margin: 0; font: 700 1.2rem/1.2 var(--font-serif); overflow-wrap: anywhere; }
 .character-directory .perso-name span { display: block; margin-top: .17rem; color: var(--color-text-light); font: 500 .77rem/1.2 var(--font-sans); }
 .character-card-cues { list-style: none; padding: 0; margin: 0 0 .85rem; color: var(--color-text-light); font: 500 .82rem/1.55 var(--font-sans); text-align: left; }
@@ -635,7 +633,7 @@ main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 
   .hero-companion { display: flex; align-items: center; padding: 0 .75rem; gap: .55rem; }
   .hero-companion h2, .hero-companion p { display: none; }
   .hero-companion svg { flex: none; width: 20px; height: 20px; }
-  .character-directory-heading h2 { font-size: clamp(1.22rem, 5.5vw, 1.65rem); }
+  .character-directory-heading :is(h1,h2) { font-size: clamp(1.22rem, 5.5vw, 1.65rem); }
   .character-search-box { margin-bottom: 1rem; padding-inline: .75rem; }
 }
 @media (max-width: 540px) { .character-directory .perso-grid { grid-template-columns: 1fr; gap: .75rem; } }
@@ -643,8 +641,7 @@ main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 
 /* A profile introduces a character, then their stories read as an ordered list. */
 .personnages-page { max-width: 900px; margin-inline: auto; }
 .catalogue-back { margin: 0 0 .6rem; }
-.perso-profile { display: grid; grid-template-columns: auto minmax(0, 1fr); align-items: start; gap: clamp(.8rem, 3vw, 1.5rem); max-width: none; margin: 0 0 2rem; padding: clamp(1.15rem, 4vw, 2.25rem); background: #E4EDF0; border: 1px solid var(--color-border); border-radius: 14px; text-align: left; }
-.perso-profile .character-initial { width: clamp(44px, 8vw, 68px); height: clamp(44px, 8vw, 68px); font-size: clamp(1.3rem, 3vw, 2rem); background: var(--color-card-bg); }
+.perso-profile { display: block; align-items: start; gap: clamp(.8rem, 3vw, 1.5rem); max-width: none; margin: 0 0 2rem; padding: clamp(1.15rem, 4vw, 2.25rem); background: #E4EDF0; border: 1px solid var(--color-border); border-radius: 14px; text-align: left; }
 .perso-profile-name { margin: 0 0 .4rem; font-size: clamp(1.75rem, 4vw, 3.05rem); line-height: 1.1; letter-spacing: -.045em; }
 .perso-profile-bio { max-width: 64ch; margin: 0; color: var(--color-text-light); font-size: 1rem; line-height: 1.6; }
 .perso-parcours-page { max-width: none; }
@@ -653,13 +650,11 @@ main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 
 .parcours-entry { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: .2rem 1rem; align-items: start; padding: 1.1rem clamp(1rem, 4vw, 1.7rem); border: 0; border-radius: 0; background: transparent; }
 .parcours-entry + .parcours-entry { border-top: 1px solid var(--color-border); }
 .parcours-entry:hover, .parcours-entry:focus-within { background: #F8FAFB; box-shadow: none; }
-.parcours-cat { grid-column: 1 / -1; margin: 0; color: var(--color-accent); font: 650 .77rem/1.45 var(--font-sans); text-transform: none; letter-spacing: 0; }
 .parcours-title { grid-column: 1; margin: 0; font-size: 1.15rem; }
 .parcours-title a { color: var(--color-text); }
 .parcours-title a:hover { color: var(--color-accent); }
-.parcours-date { grid-column: 1; color: var(--color-text-light); font-size: .77rem; }
 .parcours-resume { grid-column: 1; margin: 0; max-width: 70ch; color: var(--color-text-light); font-size: .88rem; line-height: 1.6; }
-.parcours-link { grid-column: 2; grid-row: 2 / span 2; display: inline-flex; align-items: center; gap: .35rem; min-height: 44px; padding: 0 .2rem; font-size: .86rem; font-weight: 650; }
+.parcours-link { grid-column: 2; grid-row: 1 / span 2; display: inline-flex; align-items: center; gap: .35rem; min-height: 44px; padding: 0 .2rem; font-size: .86rem; font-weight: 650; }
 .parcours-link::after { content: "→" / ""; }
 .personnages-page .journal-invitation { max-width: none; margin: 1.6rem 0 0; }
 .perso-back { margin-top: 1.25rem; text-align: left; }

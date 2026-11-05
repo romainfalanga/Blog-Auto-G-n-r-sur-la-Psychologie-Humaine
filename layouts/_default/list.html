@@ -1,8 +1,9 @@
 {{ define "main" }}
 <div class="list-page">
   <div class="category-header">
-    <h1>{{ .Title }}</h1>
-    {{ if .Content }}
+    {{ $isCategory := or (eq .Section "categories") (and (eq .Section "posts") (ne .RelPermalink "/posts/")) }}
+    <h1>{{ if $isCategory }}Explorer les articles{{ else }}{{ .Title }}{{ end }}</h1>
+    {{ if and .Content (not $isCategory) }}
     <div class="category-description">
       {{ .Content }}
     </div>
@@ -10,7 +11,9 @@
   </div>
 
   <div class="articles-grid">
-    {{ range .Paginator.Pages }}
+    {{ $pages := .Pages }}
+    {{ if or (and (eq .Kind "taxonomy") (eq .Section "categories")) (eq .RelPermalink "/posts/") }}{{ $pages = where .Site.RegularPages "Section" "posts" }}{{ end }}
+    {{ range (.Paginate $pages).Pages }}
     {{ partial "article-card.html" (dict "page" . "level" "h2") }}
     {{ end }}
   </div>
@@ -21,11 +24,16 @@
     {{ if $paginator.HasPrev }}
     <a href="{{ $paginator.Prev.URL }}" rel="prev">&laquo; Précédent</a>
     {{ end }}
+    {{ $previous := 0 }}
     {{ range $paginator.Pagers }}
+    {{ if or (eq .PageNumber 1) (eq .PageNumber $paginator.TotalPages) (and (ge .PageNumber (sub $paginator.PageNumber 2)) (le .PageNumber (add $paginator.PageNumber 2))) }}
+    {{ if gt (sub .PageNumber $previous) 1 }}<span class="pagination-gap" aria-hidden="true">…</span>{{ end }}
     {{ if eq . $paginator }}
-    <span class="active">{{ .PageNumber }}</span>
+    <span class="active" aria-current="page">{{ .PageNumber }}</span>
     {{ else }}
-    <a href="{{ .URL }}">{{ .PageNumber }}</a>
+    <a href="{{ .URL }}" aria-label="Page {{ .PageNumber }}">{{ .PageNumber }}</a>
+    {{ end }}
+    {{ $previous = .PageNumber }}
     {{ end }}
     {{ end }}
     {{ if $paginator.HasNext }}

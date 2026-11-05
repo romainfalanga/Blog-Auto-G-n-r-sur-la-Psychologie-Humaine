@@ -9,7 +9,7 @@
 {{ $related = first 3 $related }}
 {{ if $related }}
 <section class="related-articles">
-  <h2>Articles dans la même catégorie</h2>
+  <h2>Pour poursuivre votre lecture</h2>
   <div class="articles-grid related-list">
     {{ range $related }}
     {{ partial "article-card.html" (dict "page" . "level" "h3") }}

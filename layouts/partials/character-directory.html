@@ -1,6 +1,6 @@
 <section id="personnages" class="character-directory" aria-labelledby="character-directory-title">
   <div class="character-directory-heading">
-    <h2 id="character-directory-title">Explorer les personnages</h2>
+    {{ if .IsHome }}<h1 id="character-directory-title">Explorer les personnages</h1>{{ else }}<h2 id="character-directory-title">Explorer les personnages</h2>{{ end }}
     {{ $characters := where .Site.RegularPages "Section" "personnages" }}
     <p id="character-count" class="keyword-explainer" role="status">{{ len $characters }} personnages à explorer</p>
   </div>
@@ -15,7 +15,14 @@
   {{ $registry := (readFile "scripts/personnages.json" | transform.Unmarshal).personnages }}
   {{ $searchIndex := slice }}
   <div class="perso-grid" id="character-results">
+    {{ $ordered := slice }}
+    {{ range .Site.Data.character_discovery }}
+      {{ with $.Site.GetPage (printf "/personnages/%s" .) }}{{ $ordered = $ordered | append . }}{{ end }}
+    {{ end }}
     {{ range $characters.ByWeight }}
+      {{ if not (in $.Site.Data.character_discovery .File.ContentBaseName) }}{{ $ordered = $ordered | append . }}{{ end }}
+    {{ end }}
+    {{ range $ordered }}
     {{ $name := (.Params.prenom | default .Title) | lower }}
     {{ $cues := index .Site.Data.character_keywords $name }}
     {{ $presentation := .Description }}
@@ -46,7 +53,6 @@
     <article class="perso-card" data-character-id="{{ .File.ContentBaseName }}">
       {{ $prenom := .Params.prenom | default .Title }}
       <div class="perso-card-top">
-        <span class="character-initial" data-tone="{{ mod .Weight 3 }}" aria-hidden="true">{{ upper (substr $prenom 0 1) }}</span>
         {{ if .Params.date_naissance }}
           {{ $birth := time .Params.date_naissance }}{{ $age := sub now.Year $birth.Year }}{{ if lt (now.Format "0102") ($birth.Format "0102") }}{{ $age = sub $age 1 }}{{ end }}
           <h3 class="perso-name">{{ $prenom }} <span>{{ $age }} ans</span></h3>

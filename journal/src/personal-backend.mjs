@@ -26,6 +26,9 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
  const creation=data=>{const id=string(data.creation_id,120);if(!/^[A-Za-z0-9_-]{8,120}$/.test(id))fail(400,'Identifiant de création requis.','creation_id_required');return id;};
  function personData(data){const p={display_name:string(data.display_name),role:choices(data.role??'other',['father','mother','parent','partner','child','sibling','friend','best_friend','other'],'Rôle'),custom_role:string(data.custom_role),relationship_text:string(data.relationship_text,6000),period_start:string(data.period_start),period_end:string(data.period_end)};if(!p.display_name)fail(400,'Indiquez un prénom ou pseudonyme.','invalid_input');return p;}
  function eventData(data){const e={title:string(data.title,160),kind:choices(data.kind??'other',['difficult','positive','turning_point','ambivalent','other'],'Type'),description:string(data.description,6000),meaning_now:string(data.meaning_now,2000),date_precision:choices(data.date_precision??'unknown',['unknown','year','month','day','range','age'],'Précision de date'),date_start:string(data.date_start,10),date_end:string(data.date_end,10),age_text:string(data.age_text,80),current_importance:data.current_importance??null};
+ if(['unknown','age'].includes(e.date_precision)){e.date_start='';e.date_end='';}
+ if(e.date_precision!=='range')e.date_end='';
+ if(e.date_precision!=='age')e.age_text='';
  if(!e.title||!e.description)fail(400,'Un titre et une description sont requis.','invalid_input');
  if(e.current_importance!==null&&(!Number.isInteger(e.current_importance)||e.current_importance<1||e.current_importance>5))fail(400,'Importance invalide.','invalid_input');
  const validDate=v=>{if(!/^\d{4}(?:-\d{2}(?:-\d{2})?)?$/.test(v))return false;const parts=v.split('-'),[y,m,d]=parts.map(Number),end=new Date(0);end.setUTCFullYear(y,m||1,0);return y>=1&&y<=9999&&(parts.length<2||m>=1&&m<=12)&&(parts.length<3||d>=1&&d<=end.getUTCDate());};
@@ -58,7 +61,20 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
  async function crud(request,env,user,path,url){const match=path.match(/^\/api\/(people|life-events)(?:\/([\w-]+))?$/);if(!match)return null;const isPerson=match[1]==='people',table=isPerson?'personal_people':'life_events',kind=isPerson?'person':'event',id=match[2],method=request.method;
  const transform=row=>isPerson?personRow(row):eventRow(env,row);
  if(method==='GET'&&id){const row=await first(env,`SELECT * FROM ${table} WHERE id=? AND user_id=?`,id,user.id);if(!row)fail(404,'Élément introuvable.','not_found');return json({[kind]:await transform(row),source_version:await version(env,user.id)});}
- if(method==='GET'&&!id){const cursor=string(url.searchParams.get('cursor')||'',120),limit=Number(url.searchParams.get('limit')||50);if(!Number.isInteger(limit)||limit<1||limit>50)fail(400,'Pagination invalide.','invalid_pagination');const rows=await all(env,`SELECT * FROM ${table} WHERE user_id=? AND id>? ORDER BY id LIMIT ?`,user.id,cursor,limit+1);const more=rows.length>limit,items=await Promise.all(rows.slice(0,limit).map(transform));return json({[isPerson?'people':'events']:items,next_cursor:more?items.at(-1).id:null,source_version:await version(env,user.id)});}
+ if(method==='GET'&&!id){
+  const cursor=string(url.searchParams.get('cursor')||'',120),limit=Number(url.searchParams.get('limit')||50);
+  if(!Number.isInteger(limit)||limit<1||limit>50)fail(400,'Pagination invalide.','invalid_pagination');
+  let rows;
+  if(isPerson)rows=await all(env,'SELECT * FROM personal_people WHERE user_id=? AND id>? ORDER BY id LIMIT ?',user.id,cursor,limit+1);
+  else{
+   const dateOrder="CASE WHEN date_precision IN ('unknown','age') THEN '' ELSE date_start END";
+   const anchor=cursor?await first(env,`SELECT id,${dateOrder} AS sort_date FROM life_events WHERE id=? AND user_id=?`,cursor,user.id):null;
+   if(cursor&&!anchor)fail(409,'Ce repère de pagination a changé. Rechargez votre ligne de vie.','pagination_changed');
+   rows=anchor?await all(env,`SELECT * FROM life_events WHERE user_id=? AND (${dateOrder}<? OR (${dateOrder}=? AND id>?)) ORDER BY ${dateOrder} DESC,id LIMIT ?`,user.id,anchor.sort_date,anchor.sort_date,anchor.id,limit+1):await all(env,`SELECT * FROM life_events WHERE user_id=? ORDER BY ${dateOrder} DESC,id LIMIT ?`,user.id,limit+1);
+  }
+  const more=rows.length>limit,items=await Promise.all(rows.slice(0,limit).map(transform));
+  return json({[isPerson?'people':'events']:items,next_cursor:more?items.at(-1).id:null,source_version:await version(env,user.id)});
+ }
  if(!['POST','PATCH','DELETE'].includes(method)||method==='POST'&&id||method!=='POST'&&!id)fail(405,'Méthode non autorisée.','method_not_allowed');
  const data=await body(request,45000);let prior=null,expected=null;
  if(id){prior=await first(env,`SELECT * FROM ${table} WHERE id=? AND user_id=?`,id,user.id);if(!prior)fail(404,'Élément introuvable.','not_found');expected=revision(data);if(expected!==prior.revision)fail(409,'Cet élément a été modifié dans un autre onglet.','revision_conflict');}
@@ -121,7 +137,7 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
    bump(env,user.id)
   ]);
   const saved=await first(env,"SELECT payload_hash FROM context_mutations WHERE user_id=? AND kind='psychology_feedback' AND creation_id=?",user.id,key);
-  if(!saved)fail(400,'Votre mémoire est pleine. Raccourcissez-la avant d’ajouter cette correction.','memory_limit');
+  if(!saved)fail(400,'La mémoire de précisions a atteint sa limite. Vous pouvez mettre à jour les informations concernées dans Mon portrait, À propos de moi.','memory_limit');
   if(saved.payload_hash!==payloadHash)fail(409,'Cet identifiant a déjà servi pour un autre retour.','idempotency_conflict');
   const memory=await first(env,'SELECT version FROM memories WHERE user_id=?',user.id);
   return json({ok:true,replayed:!result[0].meta.changes,feedback:{pattern_id:patternId,kind},source_version:await version(env,user.id),memory_version:memory.version});

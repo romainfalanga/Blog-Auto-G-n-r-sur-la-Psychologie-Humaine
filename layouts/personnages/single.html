@@ -4,7 +4,6 @@
 
   {{- $prenom := .Params.prenom | default .Title }}
   <header class="perso-profile">
-    <span class="character-initial" aria-hidden="true">{{ upper (substr $prenom 0 1) }}</span>
     <div class="perso-profile-copy">
     {{- if .Params.date_naissance }}
       {{- $birth := time .Params.date_naissance }}
@@ -27,6 +26,7 @@
   <div class="perso-parcours-page">
     {{ $parcours := .Content | replaceRE `(?s)<div class="parcours-evolution">.*?</div>` "" }}
     {{ $parcours = $parcours | replaceRE `(<a[^>]*class="parcours-link"[^>]*>).*?(</a>)` "${1}Lire${2}" }}
+    {{ $parcours = $parcours | replaceRE `(?s)<div class="parcours-(?:date|cat)">.*?</div>` "" }}
     {{ $parcours | safeHTML }}
   </div>
 

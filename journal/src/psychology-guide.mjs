@@ -4,7 +4,7 @@ const stop=new Set('avec dans pour une des les leur cette ces est sont etre avoi
 const terms=value=>new Set((fold(value).match(/[a-z]{4,}/g)||[]).filter(t=>!stop.has(t)));
 // Retrieval broadens the hypotheses available without placing hundreds of full
 // interview entries in every turn. Its score is text relevance, never likelihood.
-export function selectPsychologyGuide({query='',sources=[],hypotheses=[],limit=24,includeIndex=true}={}){
+export function selectPsychologyGuide({query='',sources=[],hypotheses=[],limit=24,includeIndex=true,relevantOnly=false}={}){
  const queryTerms=terms(query),sourceTerms=terms(sources.map(s=>s.text||JSON.stringify(s.fields||s.derivative||{})).join(' '));
  // Contradicted or dismissed hypotheses remain available as limits in the
  // conversation, but must not steer the next exploration as active patterns.
@@ -25,7 +25,7 @@ export function selectPsychologyGuide({query='',sources=[],hypotheses=[],limit=2
  // by the direct question or the bounded active hypotheses above.
  const represented=new Set(selected.map(p=>p.domain));
  for(const row of ranked)if(row.score>0&&!represented.has(row.p.domain)&&take(row))represented.add(row.p.domain);
- for(const row of ranked)take(row);
+ for(const row of ranked)if(!relevantOnly||row.score>0)take(row);
  return {version:catalog.version,scope:catalog.scope,domains:catalog.domains,
   ...(includeIndex?{index:catalog.patterns.map(p=>[p.id,p.domain,p.label])}:{}),
   patterns:selected.map(p=>({id:p.id,domain:p.domain,subdomain:p.subdomain,kind:p.kind,label:p.label,description:p.description,signals:(p.signals||[]).slice(0,3),alternatives:(p.alternatives||[]).slice(0,2),questions:(p.questions||[]).slice(0,2),related:p.related})),

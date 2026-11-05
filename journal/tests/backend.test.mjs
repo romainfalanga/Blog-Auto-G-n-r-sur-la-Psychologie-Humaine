@@ -608,3 +608,17 @@ test('portrait proxy keeps the approved model, twenty call limit and observed us
   assert.equal(db.prepare('SELECT status FROM journal_jobs WHERE id=?').get(job.id).status,'failed');
  }finally{globalThis.fetch=original;}
 });
+
+test('timeline pagination is chronological across pages and preserves UUID cursors',async()=>{
+ const env={DB:database()},a=await register(env);
+ const insert=env.DB.raw.prepare("INSERT INTO life_events(id,user_id,creation_id,payload_hash,title,kind,description,date_precision,date_start) VALUES(?,?,?,'hash','Moment','other','Un souvenir.',?,?)");
+ for(let i=0;i<55;i++)insert.run('event-'+String(54-i).padStart(3,'0'),a.user.id,'creation-'+i,'year',String(1950+i));
+ insert.run('undated',a.user.id,'undated','unknown','');
+ let response=await request(env,'/api/life-events',{cookie:a.cookie}),page=await response.json();
+ assert.equal(response.status,200);assert.equal(page.events.length,50);assert.equal(page.events[0].date_start,'2004');assert.equal(page.events.at(-1).date_start,'1955');
+ const cursor=page.next_cursor;
+ response=await request(env,'/api/life-events?cursor='+cursor,{cookie:a.cookie});page=await response.json();
+ assert.equal(page.events[0].date_start,'1954');assert.equal(page.events.at(-1).id,'undated');assert.equal(page.events.length,6);assert.equal(page.next_cursor,null);
+ env.DB.raw.prepare('DELETE FROM life_events WHERE id=?').run(cursor);
+ response=await request(env,'/api/life-events?cursor='+cursor,{cookie:a.cookie});assert.equal(response.status,409);assert.equal((await response.json()).code,'pagination_changed');
+});

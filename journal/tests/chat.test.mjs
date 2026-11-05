@@ -488,3 +488,45 @@ test('retired preparation route cannot schedule an old job or consume a message'
  assert.equal((await s.call('/api/chat')).quota.used,0);
  assert.equal(s.raw.prepare("SELECT count(*) n FROM journal_jobs WHERE user_id='a' AND kind='characters'").get().n,0);
 });
+
+test('selected timeline sources retain date precision and related people instead of losing chronology',async t=>{
+ const s=setup();await ready(s);
+ s.raw.prepare("INSERT INTO personal_people(id,user_id,creation_id,payload_hash,display_name,role,custom_role,period_start,period_end) VALUES('sam','a','sam','hash','Sam','other','Collègue','2019','2022')").run();
+ s.raw.prepare("INSERT INTO life_events(id,user_id,creation_id,payload_hash,title,kind,description,date_precision,age_text,current_importance) VALUES('move','a','move','hash','Déménagement','turning_point','Sam était présent.','age','Vers 15 ans',4)").run();
+ s.raw.prepare("INSERT INTO life_event_people(event_id,person_id,user_id) VALUES('move','sam','a')").run();
+ withFetch(t,async(_,options)=>{
+  const text=JSON.parse(options.body).messages[1].content,data=JSON.parse(text.slice(text.indexOf('{')));
+  const event=data.sources.find(source=>source.id==='event:move');
+  assert.equal(event.temporal.precision,'age');assert.equal(event.temporal.age,'Vers 15 ans');assert.equal(event.temporal.start,'');
+  assert.equal(event.current_importance,4);assert.equal(event.related_people[0].id,'sam');
+  assert.equal(data.people[0].custom_role,'Collègue');assert.equal(data.people[0].period_end,'2022');
+  assert.deepEqual(data.coverage.events,{included:1,total:1});return output();
+ });
+ assert.equal((await message(s,'chronology_01','Revenons au déménagement avec Sam.')).quota.used,1);
+});
+
+test('a later relevant hypothesis outranks unrelated first entries and portrait text remains structured',async t=>{
+ const s=setup();await ready(s);
+ const unrelated=Array.from({length:6},(_,i)=>({pattern_id:'unrelated_'+i,status:'exploring',observation:'Une autre piste.',evidence:[]}));
+ const sleep={pattern_id:'sleep',status:'mixed',observation:'Mon sommeil change après une nuit de travail.',evidence:[],counter_evidence:['memory:a']};
+ s.personal.context=async()=>({source_version:1,portrait_version:1,sources:[],people:[],events:[],portrait:{summary:'Une synthèse. '.repeat(200),uncertainties:['Le rôle des horaires reste à explorer.'],psychological_map:[...unrelated,sleep]}});
+ withFetch(t,async(_,options)=>{
+  const text=JSON.parse(options.body).messages[1].content,data=JSON.parse(text.slice(text.indexOf('{')));
+  assert.equal(data.psychological_hypotheses[0].pattern_id,'sleep');assert.deepEqual(data.psychological_hypotheses[0].counter_evidence,['memory:a']);
+  assert.equal(typeof data.portrait,'object');assert.equal(data.portrait.summary_excerpted,true);assert.equal(data.portrait.uncertainties[0],'Le rôle des horaires reste à explorer.');
+  assert.deepEqual(data.coverage.hypotheses,{included:4,total:7});return output();
+ });
+ assert.equal((await message(s,'relevant_map','Je veux comprendre mon sommeil après le travail.')).quota.used,1);
+});
+
+test('an accepted partial date correction removes obsolete dates and age fields',async t=>{
+ const s=setup();await ready(s);
+ s.raw.prepare("INSERT INTO life_events(id,user_id,creation_id,payload_hash,title,kind,description,date_precision,date_start,date_end) VALUES('move','a','move','hash','Déménagement','turning_point','Un souvenir.','range','2003','2005')").run();
+ const quote='Je ne connais plus la date de ce déménagement.';
+ withFetch(t,async()=>narratedOutput('life_event_update','move',[{field:'date_precision',mode:'set',value_json:'"unknown"'}],quote));
+ const result=await message(s,'date_correction',quote),proposal=result.proposals[0];
+ assert.equal(proposal.payload.date_start,'');assert.equal(proposal.payload.date_end,'');
+ assert.equal((await s.call('/api/chat/proposals/'+proposal.id+'/accept','POST',{revision:1})).status,200);
+ const saved=s.raw.prepare("SELECT date_precision,date_start,date_end,age_text FROM life_events WHERE id='move'").get();
+ assert.deepEqual({...saved},{date_precision:'unknown',date_start:'',date_end:'',age_text:''});
+});

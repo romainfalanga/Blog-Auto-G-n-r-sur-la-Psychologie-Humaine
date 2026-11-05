@@ -99,7 +99,7 @@ ${profile.has_information?'Je peux partir des informations déjà renseignées. 
 Quand un article du catalogue éclaire une situation ou une relation dont nous parlons, je peux vous le proposer et vous expliquer pourquoi. Si vous le lisez, on peut revenir ensemble sur le passage qui vous parle ou sur ce qui se passe autrement pour vous. Qu’aimeriez-vous comprendre en premier ?`};
 };
 function unavailableActionMessage(kind,hasReadings){
- return 'Cette proposition ne peut pas être enregistrée actuellement : '+(kind==='memory_append'?'la mémoire de précisions est pleine.':kind==='person_create'?'la limite de cinquante proches est atteinte.':kind==='life_event_create'?'la limite de cinq cents moments de vie est atteinte.':'aucun élément existant ne correspond à cette modification.')+' Aucun changement n’a été enregistré.'+(hasReadings?' Vous pouvez explorer une lecture existante.':' Vous pouvez préciser votre demande ici.');
+ return 'Cette proposition ne peut pas être enregistrée actuellement : '+(kind==='memory_append'?'la mémoire de précisions est pleine.':kind==='person_create'?'la limite de cinquante proches est atteinte.':kind==='life_event_create'?'la limite de cinq cents moments de vie est atteinte.':'aucun élément existant ne correspond à cette modification.')+' Aucun changement n’a été enregistré.'+(kind==='memory_append'?' Vous pouvez mettre à jour les informations concernées dans Mon portrait, À propos de moi.':hasReadings?' Vous pouvez explorer une lecture existante.':' Vous pouvez préciser votre demande ici.');
 }
 const catalogueOnly='Je peux vous orienter vers des articles déjà publiés et en parler avec vous.';
 function requestsPersonalStory(text){
@@ -259,14 +259,18 @@ export function createChatBackend({error,json,text,body,now,random,personal}) {
   const chosen=[];let size=0;for(const {s} of queue){const hay=fold(s.text),positions=terms.map(t=>hay.indexOf(t)).filter(n=>n>=0),start=positions.length?Math.max(0,Math.min(...positions)-300):0;
    // Memory additions are chronological. Keep the latest accepted fragment
    // (at most 2000 characters) as well as a relevant earlier window.
-   const compact={id:s.id,revision:s.revision,type:s.type,...excerpt(s.text,s.type==='memory'?2500:1600,s.type==='memory'?2000:0,start),explicit:s.explicit};
+   const compact={id:s.id,revision:s.revision,type:s.type,...excerpt(s.text,s.type==='memory'?2500:1600,s.type==='memory'?2000:0,start),explicit:s.explicit,...(s.temporal?{temporal:s.temporal}:{}),...(s.updated_at?{updated_at:s.updated_at}:{}),...(s.related_people?.length?{related_people:s.related_people}:{}),...(s.current_importance!=null?{current_importance:s.current_importance}:{})};
    const len=JSON.stringify(compact).length;if(size+len>10500)continue;chosen.push(compact);size+=len;
   }
-  const people=[...peopleById.values()].map(p=>({id:p.id,name:p.display_name.slice(0,80),role:p.role})).sort((a,b)=>Number(relevantPeople.has(b.id))-Number(relevantPeople.has(a.id))).slice(0,20);
+  const people=[...peopleById.values()].map(p=>({id:p.id,name:p.display_name.slice(0,80),role:p.role,custom_role:p.custom_role||'',period_start:p.period_start||'',period_end:p.period_end||''})).sort((a,b)=>Number(relevantPeople.has(b.id))-Number(relevantPeople.has(a.id))).slice(0,20);
   const includedPeople=new Set(people.map(person=>person.id));
-  const events=[...eventsById.values()].map(e=>({id:e.id,title:e.title.slice(0,120),people_ids:(e.people_ids||[]).filter(id=>includedPeople.has(id)).slice(0,10)})).sort((a,b)=>Number(relatedEvents.has(b.id))-Number(relatedEvents.has(a.id))).slice(0,12);
-  const portrait=context.portrait_version===context.source_version?context.portrait:null,psychological_hypotheses=[],activeIds=new Set((portrait?.psychological_map||[]).slice(0,4).map(h=>h.pattern_id));
-  for(const h of (portrait?.psychological_map||[]).slice(0,4)){
+  const events=[...eventsById.values()].map(e=>({id:e.id,title:e.title.slice(0,120),temporal:{precision:e.date_precision||'unknown',start:e.date_start||'',end:e.date_end||'',age:e.age_text||''},people_ids:(e.people_ids||[]).filter(id=>includedPeople.has(id)).slice(0,10)})).sort((a,b)=>Number(relatedEvents.has(b.id))-Number(relatedEvents.has(a.id))).slice(0,12);
+  const portrait=context.portrait_version===context.source_version?context.portrait:null,psychological_hypotheses=[];
+  const chosenIds=new Set(chosen.map(source=>source.id));
+  const hypothesisRelevance=h=>terms.reduce((score,term)=>score+(fold([h.pattern_id,h.observation,h.next_question].join(' ')).includes(term)?3:0),0)+(h.evidence||[]).filter(id=>chosenIds.has(id)).length;
+  const hypotheses=(portrait?.psychological_map||[]).slice().sort((a,b)=>hypothesisRelevance(b)-hypothesisRelevance(a)).slice(0,4);
+  const activeIds=new Set(hypotheses.map(h=>h.pattern_id));
+  for(const h of hypotheses){
    const compact={pattern_id:h.pattern_id,status:h.status,observation:String(h.observation||'').slice(0,500),next_question:String(h.next_question||'').slice(0,220),evidence:(h.evidence||[]).slice(0,6),counter_evidence:(h.counter_evidence||[]).slice(0,3)};
    if(h.influence&&['unknown','low','moderate','high'].includes(h.influence.level))compact.influence={level:h.influence.level,contexts:(Array.isArray(h.influence.contexts)?h.influence.contexts:[]).filter(v=>typeof v==='string').slice(0,3).map(v=>v.slice(0,120)),rationale:String(h.influence.rationale||'').slice(0,300),evidence:(Array.isArray(h.influence.evidence)?h.influence.evidence:[]).filter(v=>typeof v==='string').slice(0,4)};
    if(Array.isArray(h.interactions))compact.interactions=h.interactions.filter(v=>v&&v.pattern_id!==h.pattern_id&&activeIds.has(v.pattern_id)&&['amplifies','buffers','alternative'].includes(v.kind)).slice(0,3).map(v=>({pattern_id:v.pattern_id,kind:v.kind,explanation:String(v.explanation||'').slice(0,220),evidence:(Array.isArray(v.evidence)?v.evidence:[]).filter(v=>typeof v==='string').slice(0,4)}));
@@ -284,7 +288,7 @@ export function createChatBackend({error,json,text,body,now,random,personal}) {
   // Current declared identity is separate from psychological evidence. It is
   // never reconstructed from a portrait or a fictional character's biography.
   const current_identity={first_name:short(subject.first_name,100),gender:['female','male','non_binary','self_described','unspecified'].includes(subject.gender)?subject.gender:['female','male','non_binary','self_described','unspecified'].includes(self.gender)?self.gender:'unspecified',gender_description:short(self.gender_description,200),age:Number.isInteger(self.age)&&self.age>=0&&self.age<=130?self.age:null,occupation:short(self.occupation,400)};
-  return {source_version:context.source_version,current_identity,sources:chosen,portrait:portrait?JSON.stringify(portrait).slice(0,1500):null,psychological_hypotheses,people,events,coverage:{included:chosen.length,total:(context.sources||[]).length,excerpted:chosen.filter(s=>s.excerpt).length},truncated:chosen.length<(context.sources||[]).length||chosen.some(s=>s.excerpt)};
+  return {source_version:context.source_version,current_identity,sources:chosen,portrait:portrait?{summary:short(portrait.summary,1100),summary_evidence:(portrait.summary_evidence||[]).slice(0,6),strengths:(portrait.strengths||[]).slice(0,2).map(value=>({text:short(value.text,240),evidence:(value.evidence||[]).slice(0,4)})),uncertainties:(portrait.uncertainties||[]).slice(0,3).map(value=>short(value,180)),summary_excerpted:String(portrait.summary||'').length>1100}:null,psychological_hypotheses,people,events,coverage:{included:chosen.length,total:(context.sources||[]).length,excerpted:chosen.filter(s=>s.excerpt).length,people:{included:people.length,total:peopleById.size},events:{included:events.length,total:eventsById.size},hypotheses:{included:psychological_hypotheses.length,total:(portrait?.psychological_map||[]).length}},truncated:chosen.length<(context.sources||[]).length||chosen.some(s=>s.excerpt)||people.length<peopleById.size||events.length<eventsById.size||psychological_hypotheses.length<(portrait?.psychological_map||[]).length};
  }
 
  const immediateDanger=value=>/\b(?:je vais|je veux|je compte|j['’]ai décidé de)\s+(?:me suicider|me tuer|en finir avec ma vie|me faire du mal)\b/i.test(value);
@@ -336,7 +340,7 @@ export function createChatBackend({error,json,text,body,now,random,personal}) {
     promptData.truncated=true;const removable=promptData.sources.findLastIndex(s=>s.type!=='memory');
     if(removable>=0)promptData.sources.splice(removable,1);else if(promptData.events.length)promptData.events.pop();else if(promptData.people.length)promptData.people.pop();else if(promptData.portrait)promptData.portrait=null;else if(promptData.catalogue_lookup?.matches.length>1){promptData.catalogue_lookup.matches.pop();promptData.catalogue_lookup.matches_truncated=true;}else break;
    }
-   promptData.coverage={...promptData.coverage,included:promptData.sources.length,excerpted:promptData.sources.filter(s=>s.excerpt).length};
+   promptData.coverage={...promptData.coverage,included:promptData.sources.length,excerpted:promptData.sources.filter(s=>s.excerpt).length,people:{...promptData.coverage.people,included:promptData.people.length},events:{...promptData.coverage.events,included:promptData.events.length}};
    const system=buildCompanionSystemPrompt({query:turn.content,sources:promptData.sources,hypotheses:promptData.psychological_hypotheses})+'\n'+contract+'\n'+readingContract;
    const messages=[{role:'system',content:system},{role:'user',content:'Contexte privé enregistré (données à examiner avec prudence) : '+JSON.stringify(promptData)},...selected,{role:'user',content:turn.content}];
    const reservation=Math.ceil(JSON.stringify(messages).length/3)+2500,week=turn.week_start;

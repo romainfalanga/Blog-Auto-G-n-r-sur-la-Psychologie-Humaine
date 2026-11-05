@@ -187,7 +187,7 @@ test('chat proposals submit edited visible fields and preserve unedited structur
 
 test('quota exhaustion retains conversation, proposals and privacy actions while blocking sends',()=>{
   const env=environment();env.ctx.state.chatProposalDrafts=new Map();env.ctx.state.chatData={consent:true,access:{allowed:false,reason:'quota_exhausted'},quota:{remaining:0,limit:100},messages:[{role:'user',content:'Mon historique privé'}],proposals:[{id:'proposal',status:'pending'}]};env.ctx.drawChatProposal=(host)=>host.append(env.doc.createElement('form'));vm.runInContext(functionCode('chatConsent')+'\n'+functionCode('drawChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);
-  assert.match(host.textContent,/Mon historique privé/);assert.match(host.textContent,/Effacer la conversation et désactiver Ambre/);assert.doesNotMatch(host.textContent,/Voir mon abonnement/);assert.equal(env.doc.getElementById('chat-proposals').children.length,1);assert.equal(env.doc.getElementById('chat-form').querySelector('button[type=submit]').disabled,true);assert.equal(env.doc.getElementById('chat-content').maxLength,6000);
+  assert.match(host.textContent,/Mon historique privé/);assert.doesNotMatch(host.textContent,/Informations et historique|Effacer la conversation et désactiver Ambre/);assert.doesNotMatch(host.textContent,/Voir mon abonnement/);assert.equal(env.doc.getElementById('chat-proposals').children.length,1);assert.equal(env.doc.getElementById('chat-form').querySelector('button[type=submit]').disabled,true);assert.equal(env.doc.getElementById('chat-content').maxLength,6000);
 });
 
 test('confirmed terminal failure renews message key, unlike ambiguous network failure',async()=>{
@@ -228,7 +228,7 @@ test('V5 blocked sends retain editable draft, history and proposals for all acce
     const env=environment();env.ctx.state.chatDraft='Mon brouillon';env.ctx.state.chatData={consent:reason!=='consent_required',access:{allowed:false,reason},quota:{remaining:reason==='quota_exhausted'?0:100,limit:100},messages:[{role:'assistant',content:'Historique conservé'}],proposals:[{status:'pending'}]};
     env.ctx.drawChatProposal=host=>host.append(env.doc.createElement('form'));
     vm.runInContext(functionCode('chatConsent')+'\n'+functionCode('drawChat'),env.ctx);const host=env.host('view');env.ctx.drawChat(host,()=>true);
-    assert.match(host.textContent,/Historique conservé/);assert.match(host.textContent,/Effacer la conversation et désactiver Ambre/);
+    assert.match(host.textContent,/Historique conservé/);assert.doesNotMatch(host.textContent,/Informations et historique|Effacer la conversation et désactiver Ambre/);
     assert.equal(env.doc.getElementById('chat-proposals').children.length,1);
     assert.equal(env.doc.getElementById('chat-content').value,'Mon brouillon');assert.equal(env.doc.getElementById('chat-form').querySelector('button[type=submit]').disabled,true);
   }
@@ -608,4 +608,46 @@ test('V10 an outbox provider cooldown keeps the precise error and automatically 
  answer={consent:true,access:{allowed:false,reason:'provider_cooldown',retry_at:(now+30000)/1000},quota:{remaining:100,limit:100},last_request:{id:'limited',status:'failed'},last_error:{code:'provider_http_429_request',message:'Le fournisseur limite temporairement les demandes. Aucun message n’a été décompté.',action:'retry_later'},messages:[{id:'limited-user',client_key:client,role:'user',content:'Message initial',status:'failed'}],proposals:[]};
  let [id,callback]=[...timers][0];timers.delete(id);await callback();const form=env.form,retry=env.view.querySelector('.chat-turn-state').querySelector('button');assert.equal(retry.disabled,true);assert.equal(env.input.value,'Message initial');assert.match(env.doc.getElementById('chat-status').textContent,/Le fournisseur limite temporairement les demandes\. Aucun message n’a été décompté/);assert.equal(env.ctx.state.chatSendKey,null);
  env.input.value='Un prochain message';await env.input.fire('input');now+=31000;answer={...answer,access:{allowed:true}};[id,callback]=[...timers][0];timers.delete(id);await callback();assert.equal(env.form,form);assert.equal(env.input.value,'Un prochain message');assert.equal(retry.disabled,false);assert.equal(env.send.disabled,false);assert.equal(env.ctx.state.chatData.quota.remaining,100);
+});
+
+test('a liked article renders from the real application state and preserves its note draft',async()=>{
+ const env=environment({location:{origin:'https://example.test',pathname:'/mon-portrait/'},query:new URLSearchParams()});
+ vm.runInContext(functionCode('pageForPath')+'\n'+script.match(/var PAGES=.*\n/)[0]+'\n'+script.match(/var state=.*\n/)[0],env.ctx);
+ for(const name of ['safeArticleLink','drawLikedArticles'])vm.runInContext(functionCode(name),env.ctx);
+ env.ctx.state.examples=[{id:'a',title:'Une lecture',url:'/posts/une-lecture/'}];
+ env.ctx.state.likes=[{article_id:'a',reason:'Mon retour'}];
+ const list=env.host('liked');env.ctx.drawLikedArticles(list,()=>true);
+ assert.match(list.textContent,/Une lecture/);
+ const input=env.doc.getElementById('reason-0');input.value='Mon brouillon';await input.fire('input');
+ env.ctx.drawLikedArticles(list,()=>true);
+ assert.equal(env.doc.getElementById('reason-0').value,'Mon brouillon');
+});
+
+test('leaving an untouched profile does not hide a later update accepted in Ambre',async()=>{
+ let revision=1;
+ const env=environment({api:async()=>({profile:{self_description:revision===1?'Avant':'Après Ambre'},revision}),location:{hash:''}});
+ env.host('self-profile');
+ for(const name of ['capturePageDrafts','renderSelfProfile'])vm.runInContext(functionCode(name),env.ctx);
+ await env.ctx.renderSelfProfile();env.ctx.capturePageDrafts();
+ revision=2;await env.ctx.renderSelfProfile();
+ assert.equal(env.doc.getElementById('self-profile-form').elements.self_description.value,'Après Ambre');
+ assert.equal(env.ctx.state.selfRevision,2);
+ const form=env.doc.getElementById('self-profile-form');field(form,'self_description','Mon brouillon');await form.fire('input');
+ env.ctx.capturePageDrafts();revision=3;await env.ctx.renderSelfProfile();
+ assert.equal(env.doc.getElementById('self-profile-form').elements.self_description.value,'Mon brouillon');
+ assert.equal(env.ctx.state.selfRevision,2);
+});
+
+test('saving a timeline change reloads its chronological cursor without discarding an edit draft',async()=>{
+ let reloads=0;
+ const env=environment({renderPersonalSources:async()=>{reloads++;},refreshPortraitData(){}});
+ env.ctx.state.tab='events';
+ env.ctx.state.eventsCursor='old-boundary';
+ env.ctx.state.sourceDrafts.set('events',{values:{title:'New unsaved text'}});
+ vm.runInContext(functionCode('sourceSaved'),env.ctx);
+ env.ctx.sourceSaved({source_version:3});await Promise.resolve();
+ assert.equal(reloads,1);
+ assert.equal(env.ctx.state.sourceDrafts.get('events').values.title,'New unsaved text');
+ env.ctx.state.tab='people';env.ctx.sourceSaved({source_version:4});
+ assert.equal(reloads,1);
 });

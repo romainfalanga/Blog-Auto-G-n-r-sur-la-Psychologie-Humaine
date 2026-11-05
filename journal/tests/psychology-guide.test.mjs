@@ -55,3 +55,10 @@ test('active hypotheses use at most half the companion budget before score-order
  // bonus; their counter-evidence remains in the separate conversation context.
  const contradicted=hypotheses.map(h=>({...h,status:'contradicted'}));assert.deepEqual(selectPsychologyGuide({query,sources:broadSources,hypotheses:contradicted,limit:8,includeIndex:false}).patterns,selectPsychologyGuide({query,sources:broadSources,limit:8,includeIndex:false}).patterns);
 });
+
+test('an empty companion guide does not introduce unrelated psychological patterns',()=>{
+ const guide=selectPsychologyGuide({query:'Bonjour',limit:8,includeIndex:false,relevantOnly:true});
+ assert.deepEqual(guide.patterns,[]);
+ const relevant=selectPsychologyGuide({query:'rumination',limit:8,includeIndex:false,relevantOnly:true});
+ assert.ok(relevant.patterns.some(pattern=>pattern.id==='rumination'));
+});

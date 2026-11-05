@@ -62,15 +62,7 @@ function drawChatReadings(host,suggestions){
 function createChatShell(view,current){
  var data=state.chatData||{},guest=data.access&&data.access.reason==='authentication_required',surface=el('section','conversation');surface.setAttribute('aria-label','Ambre');
  var toolbar=el('div','conversation-toolbar');toolbar.append(el('span','','Ambre · psychologue IA'));
- var tools=el('details','conversation-tools');tools.append(el('summary','','Informations et historique'));var privacy=el('div','conversation-info');
- privacy.append(el('p','','Ambre, psychologue IA, vous aide à réfléchir à votre vécu. Elle ne remplace pas un professionnel de santé.'),el('p','helper','Vos messages et le contexte utile sont transmis à OpenRouter. Les modifications de votre portrait, de vos proches et de votre ligne de vie nécessitent votre validation.'),el('p','helper','La dictée utilise votre navigateur et peut transmettre la voix à son service vocal. Le texte reste modifiable avant l’envoi. Aucun audio n’est conservé ici.'));
- if(!guest){privacy.append(el('p','helper','Effacer la conversation désactive les échanges avec Ambre. Les informations déjà acceptées restent enregistrées. Le quota reste inchangé.'),actionButton('Effacer la conversation et désactiver Ambre',async function(event){
-  if(!confirm('Effacer cet historique et désactiver Ambre ? Les informations déjà acceptées dans votre profil restent conservées.'))return;
-  disposeChatInterface();event.currentTarget.disabled=true;
-  try{await api('/api/chat','DELETE');if(!chatIsCurrent(current))return;resetChatSession();state.chatDraft='';state.chatSendKey=null;state.chatProposalDrafts.clear();renderChat()}
-  catch(err){if(current()){privacy.append(el('p','status error',err.message));event.currentTarget.disabled=false}}
- },'text'))}
- tools.append(privacy);toolbar.append(tools);surface.append(toolbar);
+ surface.append(toolbar);
  var scroll=el('div','conversation-scroll');scroll.id='conversation-scroll';var thread=el('section','chat-thread');thread.setAttribute('aria-label','Conversation');thread.setAttribute('role','log');thread.setAttribute('aria-live','off');scroll.append(thread);
  var proposals=el('section');proposals.id='chat-proposals';scroll.append(proposals);surface.append(scroll);
  var gate=el('div');gate.id='chat-gates';surface.append(gate);
