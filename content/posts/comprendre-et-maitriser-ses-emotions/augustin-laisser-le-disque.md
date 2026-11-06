@@ -32,7 +32,11 @@ Maxence lui demande après le passage si l’effet marchait. Augustin répond qu
 
 ## Le silence pendant que la main travaille
 
-Un temps sans mouvement visible peut faire partie d’une action en cours. Augustin est en train d’ajuster sa prise ; Maxence voit surtout que la scène attend. Comme certaines actions coordonnées prennent davantage de temps avec un TDC, l’écart entre ce que la personne fait et ce que les autres voient peut se répéter. L’aide de Maxence a permis de continuer le passage, mais elle a changé la question posée par l’essai : Augustin ne sait toujours pas s’il peut prendre le disque depuis le bac. Il est aussi contrarié qu’un ami ait décidé à sa place. Ce sentiment dépend de ce qu’ils s’étaient promis et du rôle qu’Augustin veut jouer. Une autre fois, il pourrait préférer que Maxence lui tende l’objet.
+Un temps sans mouvement visible peut faire partie d’une action en cours. Augustin est en train d’ajuster sa prise ; Maxence voit surtout que la scène attend. Comme certaines actions coordonnées prennent davantage de temps avec un TDC, l’écart entre ce que la personne fait et ce que les autres voient peut se répéter.
+
+## Comment cette difficulté se manifeste
+
+L’aide de Maxence a permis de continuer le passage, mais elle a changé la question posée par l’essai : Augustin ne sait toujours pas s’il peut prendre le disque depuis le bac. Il est aussi contrarié qu’un ami ait décidé à sa place. Ce sentiment dépend de ce qu’ils s’étaient promis et du rôle qu’Augustin veut jouer. Une autre fois, il pourrait préférer que Maxence lui tende l’objet.
 
 ## Laisser une demande d’aide possible
 
@@ -41,8 +45,3 @@ Ils peuvent décider à deux de la conduite à tenir la prochaine fois. Pendant 
 ## Maxence reste aux clés
 
 À la deuxième prise, Augustin tourne le carton vers lui avant de le soulever. Maxence ne bouge pas. Le disque passe au-dessus du bac et la jointure dorée brille assez longtemps pour que Maya la voie du fond. Augustin ne s’empresse pas de lui dire que tout est réglé. Depuis le fond, Maya dit que le reflet se voit mieux que sur le disque pâle. Augustin range le pâle avec les échantillons et propose de garder le doré sans ajouter de rayons. Il demande à Maxence de laisser le bac en place pour la prochaine répétition et lui montre de quel côté il veut retrouver le soleil. Maxence replie le couvercle de la boîte à gâteaux. Il a hâte de l’entendre dans la grande salle.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Blank et al., recommandations cliniques internationales de l’EACD sur le trouble du développement de la coordination (2019)](https://onlinelibrary.wiley.com/doi/full/10.1111/dmcn.14132)

@@ -34,19 +34,18 @@ Depuis son évaluation, Renaud connaît le nom de son trouble. Il a essayé de l
 
 L’évaluation d’un trouble de la personnalité porte sur des difficultés durables et sur leurs effets. Le DSM-5-TR décrit le trouble de la personnalité narcissique à partir d’un ensemble de caractéristiques persistantes, qui peuvent concerner la façon de se voir, la recherche d’admiration et la place accordée aux autres. Les exemples du travail et de la vie proche permettent de voir ce qui revient et dans quelles circonstances. Leur gravité et les autres explications possibles se discutent en consultation.
 
-Renaud peut avoir tenu compte de sa sœur le dimanche et avoir trouvé difficile son refus le jour du dîner. Observer ces différences informe aussi sur son fonctionnement. Le travail avec sa thérapeute lui permet de parler à la fois des moments où son choix s’est resserré et des appuis qui l’aident parfois à répondre autrement.
-
-## Deux manières de décrire les troubles de la personnalité
-
 Le DSM-5-TR nomme le trouble de la personnalité narcissique comme une catégorie. La CIM-11 adopte une approche dimensionnelle. Elle décrit les difficultés durables du fonctionnement personnel et relationnel, évalue leur sévérité et permet de préciser des domaines de traits. Parmi eux, la dissocialité peut décrire des difficultés à prendre en compte les droits ou les besoins d’autrui et certaines attentes de traitement de faveur.
 
-Ce domaine peut rendre compte de certains traits narcissiques. Sa pertinence se juge pour la personne évaluée. L’intitulé DSM-5-TR ne fixe donc pas automatiquement un ensemble de traits ou un degré de sévérité en CIM-11. Renaud peut utiliser la description qu’on lui a expliquée pour poser des questions à son équipe et regarder ce qu’il souhaite travailler au quotidien.
+Ce domaine peut rendre compte de certains traits narcissiques. Sa pertinence se juge pour la personne évaluée. L’intitulé DSM-5-TR ne fixe donc pas automatiquement un ensemble de traits ou un degré de sévérité en CIM-11.
+
+## Une remarque sur une tâche qui touche aussi sa place
+
+Renaud retrouve dans la phrase de Nora une sensation qu’il a connue quand Édith lui a expliqué qu’elle garderait l’heure du dîner. Un désaccord ancien avec son associé lui revient aussi. En consultation, il remarque l’écart entre les mots de Nora sur le choix d’une intervenante et la réponse qu’il lui a faite sur les responsabilités du studio. Il se rappelle également avoir pu tenir compte de sa sœur un autre dimanche. Ces différences aident à comprendre quand la réaction apparaît et ce qui varie d’une situation à l’autre.
+
+## Apporter les faits et choisir une réponse précise
+
+Renaud peut utiliser la description qu’on lui a expliquée pour poser des questions à sa thérapeute. En relisant les deux messages, il peut séparer le choix annoncé par Nora de ce qu’il a entendu sur son propre rôle. Il choisit de prévenir l’équipe s’il change d’avis et de transmettre le relevé attendu. Si une situation comparable se présente, il pourra l’apporter en consultation et examiner si ces deux gestes l’ont aidé à répondre à la tâche, même si la remarque continue de lui peser.
 
 ## Une phrase à garder sous les dates
 
 La thérapeute lui demande ce qu’il voudrait pouvoir faire la prochaine fois qu’une place au premier rang lui échappe. Renaud fait glisser les deux messages sur l’écran. « Prévenir si je change d’avis, et envoyer ce que je devais envoyer. » Il écrit la phrase sous les dates. Ce soir, il n’appelle personne pour raconter le rendez-vous. Il veut d’abord demander à Yara si elle a reçu le nouveau document du centre. Il lui écrit pour convenir du moment où ils pourront le lire ensemble.
-
-## Sources
-
-- [American Psychiatric Association, présentation du trouble de la personnalité narcissique selon le DSM-5-TR](https://www.psychiatry.org/news-room/apa-blogs/what-is-narcissistic-personality-disorder/)
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)

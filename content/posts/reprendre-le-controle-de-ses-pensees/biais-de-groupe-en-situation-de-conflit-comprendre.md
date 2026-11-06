@@ -11,6 +11,8 @@ personnage: "Isabelle"
 sujet: "favoritisme envers son groupe"
 contexte: "en situation de conflit"
 draft: false
+editorial_sources:
+- https://doi.org/10.1002/ejsp.2420010202
 ---
 
 La salle des professeurs du collège sent la craie humide et le café réchauffé. Isabelle est assise au bout de la grande table en chêne, ses doigts croisés autour de sa tasse de tisane tiède. Autour d'elle, l'atmosphère est électrique. Une réunion de crise vient de s'improviser suite à l'incident de la veille impliquant un groupe d'élèves de troisième. Le professeur d’histoire, hausse le ton en affirmant que ces familles sont de toute façon démissionnaires et qu'on ne peut plus rien tirer de ce quartier. Isabelle sent une étrange impulsion monter en elle, une envie de hocher la tête avec force, de se fondre dans cette colère collective qui semble souder ses collègues comme un seul bloc contre l'extérieur.
@@ -62,5 +64,3 @@ Favoriser son groupe et céder à un avis majoritaire peuvent aller de pair, com
 Un désaccord peut être discuté à partir de l’événement et de l’objectif poursuivi. Isabelle peut entendre la frustration de ses collègues tout en demandant que les familles soient considérées selon les situations réelles.
 
 Si vous constatez que ces schémas de groupe génèrent chez vous une souffrance persistante ou un sentiment d'isolement, il est toujours bénéfique de consulter un professionnel de la psychologie. Un accompagnement thérapeutique peut vous aider à explorer vos appartenances et à renforcer votre affirmation de soi au sein du collectif. Se comprendre est le premier pas vers une paix durable avec soi et avec les autres.
-
-Sources : [Tajfel et collègues, expérience de catégorisation sociale, 1971](https://doi.org/10.1002/ejsp.2420010202).

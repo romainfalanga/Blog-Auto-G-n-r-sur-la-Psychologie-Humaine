@@ -31,9 +31,11 @@ Elle apporte à sa thérapeute une page où elle a écrit le détour du canal, l
 
 ## Revenir sur ce qui a aidé et ce qui coûte encore
 
-Le suivi d’un trouble de stress post-traumatique peut faire place à l’évolution des réactions, aux activités importantes pour la personne et aux besoins qui demeurent. Le NICE prévoit que les professionnels puissent préparer la suite du soutien avec elle, y compris lorsque des difficultés persistent. Selma peut dire qu’elle a apprécié la mission et signaler que certains bruits, les réveils ou les changements de lieu restent pénibles. Le partage des récoltes lui fournit aussi une expérience qu’elle peut décrire si elle a envie de parler de ses relations.
+Le suivi d’un trouble de stress post-traumatique peut faire place à l’évolution des réactions, aux activités importantes pour la personne et aux besoins qui demeurent. Le NICE prévoit que les professionnels puissent préparer la suite du soutien avec elle, y compris lorsque des difficultés persistent.
 
-Elle peut vérifier avec sa thérapeute ce qu’elles reprennent au prochain rendez-vous et la façon de la joindre si elle rencontre une difficulté avant. Elle peut dire à André quel appui pratique l’intéresse, comme garder un horaire convenu pour l’arrosage. Il peut décider de la part qu’il souhaite prendre.
+## Les tâches qu’elle retrouve et celles qui lui coûtent encore
+
+Selma a retrouvé le plaisir de rendre un dossier utilisable pour la personne suivante. Elle se rappelle aussi la matinée où le changement de salle l’a arrêtée à l’accueil. Sur la page qu’elle apporte en consultation, les nuits difficiles et le détour du canal côtoient le souvenir d’une conversation avec les voisins. Son travail et sa vie sociale lui donnent des exemples de ce qu’elle reprend et des situations qui restent éprouvantes.
 
 ## Garder la suite professionnelle ouverte
 
@@ -41,11 +43,8 @@ Au rendez-vous de santé au travail, Selma peut demander quelles options restent
 
 D’ici là, le projet de la serre garde sa place. Elle peut convenir d’un prochain partage, revoir la quantité de graines qu’elle veut garder ou laisser un rang libre. Ce sont des décisions à prendre avec les personnes concernées, au moment qui lui convient.
 
+Avec sa thérapeute, Selma peut préciser les questions à reprendre et savoir à qui s’adresser si une difficulté survient avant le prochain rendez-vous. Elle peut dire à André quel appui pratique l’intéresse, comme garder un horaire convenu pour l’arrosage. André choisit la part qu’il souhaite prendre.
+
 ## Le rang reste libre
 
 En sortant du cabinet, Selma confirme le rendez-vous de santé au travail et demande combien de temps l’échange pourra durer. Elle retrouve André près du banc. Il a apporté les graines dont il lui avait parlé. Elle ouvre le sachet et voit que les fleurs qui y sont dessinées sont bleues. André lui propose d’en emporter la moitié. Elle lui demande si elle peut regarder le sachet chez elle. Il lui dit de lui rendre le reste jeudi. Au bout de l’allée, elle laisse le dernier rang libre pour le moment.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

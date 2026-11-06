@@ -1,5 +1,5 @@
 ---
-title: "Odile : choisir un temps seule après une perte"
+title: Choisir un temps seule après une perte
 date: 2026-11-03T08:20:00+00:00
 description: "Odile aime lire seule, même après la mort de sa sœur. Comment distinguer ce temps choisi d’un isolement qui ne lui conviendrait plus ?"
 categories: ["Sortir de ses schémas répétitifs"]
@@ -74,8 +74,3 @@ Après une perte, vivre ou passer du temps seul ne signifie pas automatiquement 
 Votre entourage peut s’inquiéter avec de bonnes intentions et se tromper sur ce dont vous avez besoin. Une préférence précise, un refus ou une demande de compagnie peuvent aider à construire des accords plus justes. Il n’est pas nécessaire d’être toujours indépendant pour avoir droit à un espace personnel, ni d’accepter toutes les invitations pour préserver une relation. Les contraintes d’accès méritent autant d’attention que les intentions.
 
 Si le temps seul devient douloureux, si vous ne trouvez plus de liens souhaités ou si vos journées se réduisent durablement malgré votre envie de faire autrement, vous pouvez en parler à un médecin, un psychologue ou un professionnel de proximité. Une aide peut porter sur les obstacles pratiques, le deuil ou les relations. Elle peut aussi respecter votre goût pour la tranquillité au lieu de vous imposer une vie sociale standard.
-
-Sources :
-- [NIH, Social Wellness Toolkit](https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit)
-- [NHS, Grief after bereavement or loss](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)
-- [CDC, distinction entre isolement social et sentiment de solitude](https://www.cdc.gov/social-connectedness/risk-factors/index.html)

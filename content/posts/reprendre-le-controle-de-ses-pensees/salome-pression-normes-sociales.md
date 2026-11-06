@@ -92,5 +92,3 @@ La pression des normes sociales peut rendre une convention si évidente qu’ell
 Demander la fonction d’une consigne, séparer les informations et tenter un ajustement limité peut rendre les alternatives plus visibles. Vous pouvez suivre une norme qui vous convient, la discuter ou vous adapter temporairement pour préserver votre sécurité. Aucun geste isolé ne prouve à lui seul votre authenticité ou votre capacité à vous respecter.
 
 Si des attentes répétées deviennent humiliantes, excluantes ou épuisantes, une psychologue ou un autre professionnel peut aider à examiner leurs effets et les possibilités d’appui. Des changements d’organisation peuvent être nécessaires. Le travail ne consiste pas uniquement à devenir plus résistante à un environnement qui refuse toute place à vos choix.
-
-Sources : [Recherche sur l’expression des identités non binaires, le soutien et l’autonomie au travail](https://doi.org/10.1080/09585192.2023.2284191).

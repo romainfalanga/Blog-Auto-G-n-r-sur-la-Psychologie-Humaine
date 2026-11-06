@@ -1,0 +1,568 @@
+{
+  "character_id": "lila",
+  "bio": "Lila a 30 ans. Technicienne lumière, elle aime les photographies où un reflet révèle une pièce derrière la vitrine. Au début de la troisième semaine après la naissance de son fils, une dépression du post-partum s’installe. Elle dort mal même quand Thomas prend le relais, perd de l’intérêt pour son travail et se juge durement lorsqu’on lui propose de l’aide. Elle est suivie par sa médecin et l’équipe périnatale. Elle aimerait éclairer une exposition à des horaires qu’elle choisit, avec quelqu’un pour la relayer.",
+  "profile_topics": [
+    "Dépression du post-partum",
+    "Perte d’intérêt et de plaisir",
+    "Sommeil et fatigue",
+    "Culpabilité et demande d’aide",
+    "Reprise à horaires choisis"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "lila-quand-les-choses-aimees-perdent-leur-attrait",
+      "title": "Quand les choses aimées perdent leur attrait",
+      "description": "Une exposition de photographies donne à Lila envie de dire oui sur le papier. Elle cherche ce qu’elle éprouve en ouvrant le dossier.",
+      "context": "chez Lila, huit semaines après l’accouchement, devant une proposition de travail",
+      "topics": [
+        "Perte d’intérêt",
+        "Plaisir émoussé",
+        "Retrait après la naissance"
+      ],
+      "clinical_focus": "Perte d’intérêt et de plaisir",
+      "clinical_intro": "Une exposition de photographies arrive dans la boîte de réception de Lila. Elle reconnaît le genre de travail qu’elle aimait et ressent à peine l’envie d’ouvrir le dossier. Dans la dépression du post-partum, la baisse du plaisir peut toucher des intérêts très éloignés de la maternité. L’écart entre ce qui compte pour Lila et ce qu’elle éprouve aide à comprendre son retrait.",
+      "opening": "Le courriel de Farid arrive un mardi à dix heures. La médiathèque va exposer des photographies de vitrines prises après la fermeture. Il cherche quelqu’un pour regarder les éclairages avec Élise. Il a joint trois images et une note sur la salle. Sur la première, une enseigne de pressing forme une ligne pâle au-dessus d’une rangée de cintres. Il y a six mois, Lila aurait agrandi la photo jusqu’à trouver où la rue se reflétait. Aujourd’hui, elle ferme l’aperçu avec le même mouvement que lorsqu’elle range une facture.\n\nThomas a emmené leur fils marcher un peu avant de passer à la boulangerie. Lila a la table pour elle. Elle sort de son tiroir le carnet où elle garde des dessins de salles. Sur la couverture, une goutte de peinture jaune s’est écaillée. À l’intérieur, elle retrouve le nom d’une lampe qu’Élise lui avait prêtée. Elle pourrait demander si la médiathèque en a une du même type. Elle fixe le nom, ouvre la réponse à Farid et attend de sentir ce qui la pousse d’habitude à commencer.\n\nLe silence du salon lui paraît plus lourd que prévu. Depuis que la docteure Caradec a nommé la dépression du post-partum, Lila sait expliquer à peu près ce qui lui arrive. Ce matin, elle trouve plus difficile de s’avouer qu’elle se désintéresse aussi des lumières. Elle imprime la photo du pressing sur une feuille déjà utilisée. En la posant près du carnet, elle voit que le néon se poursuit dans le verre. Elle a encore envie de savoir comment cette photo rend en grand. C’est une envie petite, qui lui coûte déjà un effort à suivre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand le plaisir devient moins accessible",
+          "text": "Une dépression peut rendre difficile l’accès au plaisir ou à l’intérêt, y compris dans une activité qui comptait beaucoup. Le terme anhédonie désigne cette diminution de la capacité à éprouver du plaisir. Le phénomène peut concerner ce qu’on attend d’une activité et ce qu’on ressent en la faisant. Lila se souvient précisément de ce qu’elle aimait dans les reflets et dans le travail à deux. Son expérience présente est plus terne que ce souvenir. Dans une évaluation, le professionnel regarde aussi l’humeur, le sommeil, l’énergie et la façon dont ces changements se prolongent ou gênent la vie quotidienne. Le plaisir peut revenir par moments au cours d’un même épisode."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Une invitation familière qui demande un effort nouveau",
+          "text": "Lila aurait d’habitude ouvert les trois images et imaginé des essais avec Élise. Ce matin, elle peut décrire le sujet du courriel et expliquer ce qu’elle y ferait, puis se sentir incapable d’aller plus loin. Le geste qu’on observe, fermer une pièce jointe, a plusieurs sens possibles. Dans son cas, il vient avec d’autres changements qui se répètent depuis des semaines. Elle a aussi cessé d’écouter ses émissions préférées et doit se décider longtemps avant de répondre à une amie. Sa façon de continuer certaines tâches à la maison peut rendre ce retrait difficile à percevoir pour son entourage. Il lui reste quelques curiosités précises, dont la ligne du pressing."
+        },
+        {
+          "role": "strategies",
+          "heading": "Séparer une question de l’engagement qui viendra ensuite",
+          "text": "Une proposition de travail comporte plusieurs décisions. Lila peut chercher une information sur la salle avant de dire si elle souhaite y travailler. L’heure d’accès et la présence d’Élise comptent pour elle. Elle peut demander ces deux précisions, puis laisser passer le temps nécessaire à sa réponse. Pour parler de la baisse de plaisir avec sa médecin, elle dispose d’un exemple distinct des tâches qui entourent la naissance. Elle peut décrire ce que faisaient naître autrefois les photos, ce qu’elle ressent depuis plusieurs semaines et les rares moments où quelque chose l’intéresse encore. Le suivi pourra tenir compte de l’évolution dans plusieurs domaines de sa vie."
+        }
+      ],
+      "ending_title": "Une question sur l’heure d’ouverture",
+      "ending": "Lila envoie deux lignes à Farid. Elle lui demande quand ils peuvent accéder à la salle en journée et si Élise serait présente. Dans le carnet, elle glisse la photo entre deux dessins anciens. Au retour de Thomas, elle lui parle du pressing et du fait qu’ouvrir le message lui a pris toute la matinée. Il lui propose de réchauffer la soupe à midi. Lila accepte, puis demande si elle peut lui expliquer plus tard pourquoi la promenade n’a pas suffi à lui donner du repos.",
+      "mirror": [
+        "Thomas peut écouter la différence qu’elle vient de lui montrer. « Tu connaissais ce genre de travail et l’envie de regarder est devenue difficile à retrouver. Tu veux me dire ce qui se passe les autres jours aussi ? » Il peut convenir avec Lila d’un moment pour en parler. Réchauffer la soupe reste un geste concret qu’il peut faire avec son accord, même si la conversation est courte."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-baby-blues"
+      ],
+      "continuity": {
+        "choice": "Lila envoie à Farid deux questions sur les horaires et la présence d’Élise. Elle confie à Thomas le coût de cette réponse.",
+        "next": "Jeudi, Farid a répondu. Lila reprend avec Thomas la différence entre son manque de sommeil et ce qu’elle ressent quand elle peut se reposer."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "lila-sommeil-et-fatigue-quand-le-relais-est-la",
+      "title": "Le sommeil qui tarde même quand le relais est là",
+      "description": "Lila revient sur une matinée où Thomas a pris le relais. Elle cherche des mots pour distinguer ses nuits courtes de ce qui persiste.",
+      "context": "à la cuisine le jeudi, après une matinée où Thomas s’est occupé de leur fils",
+      "topics": [
+        "Sommeil perturbé",
+        "Fatigue et dépression",
+        "Retentissement du manque d’énergie"
+      ],
+      "clinical_focus": "Sommeil et fatigue persistante",
+      "clinical_intro": "Thomas s’occupe de leur fils pendant que Lila se repose. Elle reste longtemps éveillée et se relève avec le même poids qu’avant. Après une naissance, les nuits entrecoupées et les symptômes d’une dépression peuvent coexister. Raconter ce qui arrive quand une occasion de dormir se présente aide Lila à préciser sa fatigue et à décrire ses difficultés en consultation.",
+      "opening": "Jeudi, Thomas frappe doucement à la chambre. Il est onze heures et demie. Ils avaient convenu qu’il garderait leur fils avec lui jusqu’à onze heures, et qu’il repousserait l’heure si le calme tenait. Lila lui dit d’entrer. Elle connaît la petite rayure de la porte par cœur. Elle l’a suivie des yeux en calculant combien de temps de repos il lui restait. Une fois, elle a cru s’endormir. La pensée du lendemain est venue avec une netteté désagréable, jusqu’à lui rappeler le rendez-vous chez la docteure Caradec.\n\nÀ la cuisine, Thomas lui verse un verre d’eau. Il a entendu sa mère au téléphone expliquer que les premières semaines étaient épuisantes pour tout le monde. « Elle avait l’air de vouloir me rassurer », dit-il. Lila ouvre la bouche et se tait. Au fond, elle a elle-même pris longtemps sa fatigue pour une question d’horaires. Cette nuit, c’est bien le réveil de leur fils qui l’a tirée du sommeil. Mais lundi soir, Thomas était près de lui et elle a passé une heure dans le lit à se demander pourquoi une simple course lui avait paru insurmontable.\n\nSon téléphone vibre. Farid confirme qu’Élise peut venir à la médiathèque en journée. Il propose de regarder les tirages avant de fixer quoi que ce soit. Lila lit le message, le laisse ouvert et revient à la table. « Quand j’arrive à me reposer, il y a encore des choses qui restent », dit-elle à Thomas. Elle prend l’exemple du dossier de photos. Elle raconte aussi une promenade toute proche où elle avait dû s’asseoir avant le retour, les jambes pesantes, alors qu’elle aurait aimé prolonger le détour.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Plusieurs formes de fatigue peuvent se superposer",
+          "text": "Le sommeil et l’énergie peuvent être perturbés pendant une dépression du post-partum. Après une naissance, les réveils, la récupération physique et l’organisation quotidienne peuvent aussi jouer un rôle. Une même personne peut vivre ces effets ensemble. Pour les comprendre, les professionnels demandent à quoi ressemblent les nuits et les journées, depuis quand elles ont changé et ce que la fatigue rend plus difficile. Chez Lila, les moments où Thomas prend le relais apportent une information de plus. Elle a parfois du mal à trouver le sommeil alors qu’une occasion de dormir est disponible, et certains changements dans son humeur et son intérêt continuent à d’autres heures."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Du temps libre vécu comme du temps compté",
+          "text": "Lila guette l’heure, se demande combien de minutes lui restent et s’accroche à des pensées sur le lendemain. Une période calme lui permet de remarquer ces difficultés. Elle voit aussi que sa fatigue change ce qu’elle entreprend, de l’ouverture d’un courriel à la longueur d’un trajet familier. Thomas a surtout accès aux éléments qu’il partage avec elle, comme les réveils de la nuit. Lila peut lui raconter ce qui se passe pendant les relais et comment elle se sent après. La médecin, de son côté, a besoin du tableau plus large pour reprendre l’évaluation si le sommeil ou l’énergie changent."
+        },
+        {
+          "role": "strategies",
+          "heading": "Raconter deux moments précis au prochain rendez-vous",
+          "text": "Pour demain, Lila peut préparer une description brève d’une nuit interrompue par les besoins du bébé et d’un moment où elle est restée éveillée malgré le calme. Elle peut préciser ce que cela change le lendemain, par exemple les trajets qui lui paraissent plus longs ou les messages qu’elle met de côté. Si la fatigue s’accentue, sa médecin peut réexaminer aussi les facteurs physiques et le contexte de récupération. À la maison, un relais régulier reste utile parce qu’il réduit la charge et rend du temps disponible. Lila et Thomas peuvent décider ensemble de sa durée et de ce qui aide Lila à utiliser ce temps comme elle le souhaite."
+        }
+      ],
+      "ending_title": "Deux phrases pour la consultation",
+      "ending": "Lila note la nuit de lundi et la rayure de la porte dans le petit agenda qu’elle emportera demain. Thomas lui demande s’il peut raconter à sa mère qu’elle est suivie. Lila préfère qu’il dise seulement que la fatigue les oblige à espacer les visites. Elle répond ensuite à Farid qu’elle est intéressée par une visite et lui propose le mardi matin. Le dossier de photos reste ouvert sur la table jusqu’au déjeuner.",
+      "mirror": [
+        "Thomas peut demander « À quel moment tu as pu dormir, et comment tu te sentais en te levant ? » Il entendra ainsi une partie de la journée qu’il ne voit pas. S’il doit décliner une visite, il peut suivre la phrase choisie ensemble et garder les informations de santé de Lila dans le cercle qu’elle a défini."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-baby-blues",
+        "has-accompagnement-postnatal"
+      ],
+      "continuity": {
+        "choice": "Lila note deux exemples de sommeil pour la consultation, indique à Thomas ce qu’il peut partager et propose une visite le mardi matin.",
+        "next": "Vendredi, elle revient avec la docteure Caradec sur l’histoire du début des symptômes et sur ce qui avait différencié ses deux premières périodes après la naissance."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "lila-baby-blues-depression-dater-les-changements",
+      "title": "Du baby blues à l’évaluation d’une dépression",
+      "description": "Avec sa médecin, Lila revient sur la troisième semaine après l’accouchement et comprend pourquoi deux repères figurent dans son dossier.",
+      "context": "au cabinet de la docteure Caradec le vendredi de la neuvième semaine après la naissance",
+      "topics": [
+        "Baby blues",
+        "Épisode dépressif unique",
+        "Contexte post-partum"
+      ],
+      "clinical_focus": "Baby blues et épisode dépressif",
+      "clinical_intro": "Lila se rappelle de premiers jours émotifs qui se sont apaisés, puis d’une tristesse et d’un désintérêt qui ont pris de la place à partir de la troisième semaine. Avec sa médecin, elle distingue le passage transitoire du début et la période qui a conduit au diagnostic. Le moment où le tableau dépressif a commencé renseigne aussi le contexte retenu par la CIM-11.",
+      "opening": "La docteure Caradec reconnaît l’agenda vert qu’avait apporté Lila trois semaines plus tôt. Lila l’ouvre à la nuit de lundi. Le mot « rayure », écrit plus gros que les autres, lui rappelle le temps passé dans la chambre. La médecin lui demande si cette façon de rester éveillée existait avant la naissance. Lila feuillette quelques pages en arrière. Elle retrouve le nom du marchand de fruits où elle était passée au début de la troisième semaine. Il lui avait proposé une poire mûre. Ce matin-là, elle avait décliné son invitation à goûter et était rentrée avec le sentiment que la journée était déjà finie.\n\nLes premiers jours étaient différents. Elle avait pleuré en trouvant une tasse cassée et ri du bruit que Thomas avait fait en ouvrant une bouteille d’eau. Vers la fin de la première semaine, elle s’était sentie plus stable. Elle avait même ressorti son carnet pour dessiner les fenêtres de l’immeuble d’en face. Puis, au début de la troisième, la tristesse avait pris davantage de place et les dessins s’étaient arrêtés. Plus de deux semaines avaient passé quand Sarah, sa sage-femme, lui avait demandé à la fin de la cinquième semaine comment elle allait dans les moments où elle pouvait être seule.\n\nLila se souvient de sa réponse à l’entretien postnatal précoce. « Je voudrais que quelqu’un me croie quand je dis que ça continue. » Sarah l’avait aidée à obtenir une consultation pendant la sixième semaine. La docteure Caradec lui avait demandé comment elle vivait les journées, comment elle avait dormi dans sa vie avant la grossesse et si elle avait connu d’autres périodes où son humeur et son énergie avaient changé fortement. Cette fois, Lila vient pour la suite. Elle désigne sur le compte rendu les deux mentions qu’elle a relues chez elle et demande ce qu’elles décrivent chacune.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Deux descriptions pour comprendre le diagnostic et son contexte",
+          "text": "Après l’accouchement, le baby blues désigne des fluctuations émotionnelles précoces qui s’apaisent généralement en quelques jours et au plus en deux semaines. Une humeur dépressive ou une baisse du plaisir qui persiste, s’intensifie ou gêne le quotidien mérite une évaluation. La médecin de Lila a retenu un premier épisode dépressif, dans la catégorie 6A70 de la CIM-11. Elle a ajouté la mention 6E20 pour le contexte de début après l’accouchement, sans symptômes psychotiques. La catégorie 6E20 situe un syndrome significatif débuté pendant la grossesse ou jusqu’à environ six semaines après la naissance. Lorsqu’un trouble spécifique est établi, il figure avec cette mention. Des dépressions du post-partum peuvent aussi débuter plus tard au cours de la première année après la naissance et justifient alors autant d’attention."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce qui avait changé après le passage des premiers jours",
+          "text": "Le début de la troisième semaine aide Lila à dater la période où plusieurs difficultés se sont installées ensemble. Elle avait cessé de dessiner, éprouvait de la tristesse une grande partie du temps et dormait mal, avec un effort croissant pour les choses ordinaires. La consultation de la sixième semaine a porté aussi sur l’état physique, les antécédents et les autres explications possibles. Son évaluation a mis en évidence ce premier épisode sans symptôme psychotique. Cette façon de reprendre l’histoire est plus informative que de demander à Lila si elle a pleuré. Elle distingue l’émotion qui monte puis passe et les changements qui continuent à prendre du terrain dans ses journées."
+        },
+        {
+          "role": "strategies",
+          "heading": "Mettre en commun les observations à des moments distincts",
+          "text": "L’entretien postnatal précoce offre un temps pour parler des changements d’humeur, du quotidien et de l’aide disponible. En France, il se déroule entre la quatrième et la huitième semaine. On peut demander conseil à un médecin, à une sage-femme ou à une équipe de PMI dès que la souffrance apparaît, quel que soit le moment de l’entretien. Dans le cas de Lila, Sarah a entendu une difficulté qui durait et la docteure Caradec a pris le temps de l’évaluer. Revoir aujourd’hui le passage des premiers jours aux semaines suivantes permet à Lila de préciser les mots qu’elle utilise et de convenir avec sa médecin de ce qu’elles vont suivre."
+        }
+      ],
+      "ending_title": "Le marque-page change de semaine",
+      "ending": "La médecin écrit sous les deux mentions « l’épisode dépressif » et « son début après la naissance ». Lila marque la troisième semaine avec le bord d’un ticket de pharmacie. Elles conviennent que le prochain rendez-vous servira notamment à discuter des options de psychothérapie et des questions que Lila souhaite poser. En sortant, elle reçoit de Naïma une proposition de soupe pour le lendemain. Elle hésite devant le message et se promet de rappeler son amie une fois rentrée.",
+      "mirror": [
+        "Si Lila choisit de reparler de la consultation, Naïma peut demander « Qu’est-ce que tu aimerais que je retienne de ce que ta médecin t’a expliqué ? » La date peut servir à reconnaître le temps que Lila a passé à faire face à ces difficultés. Naïma peut aussi lui demander de quel appui elle a besoin cette semaine et la laisser décider de la part du rendez-vous qu’elle souhaite raconter."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim-6e20",
+        "oms-cim-6a70",
+        "ameli-baby-blues",
+        "has-accompagnement-postnatal"
+      ],
+      "continuity": {
+        "choice": "Lila clarifie le premier épisode dépressif et la mention de contexte avec sa médecin. Elles gardent un rendez-vous pour discuter du suivi.",
+        "next": "Naïma propose un appui concret. Lila doit choisir si elle l’accepte et quelle place elle souhaite lui donner."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "lila-quand-demander-de-laide-reveille-la-culpabilite",
+      "title": "Quand demander de l’aide réveille la culpabilité",
+      "description": "Lila hésite devant un service proposé par Naïma. Elle cherche une façon d’accepter de l’aide et de choisir ce qu’elle raconte.",
+      "context": "le samedi, chez Lila, quand Naïma vient déposer le déjeuner",
+      "topics": [
+        "Culpabilité",
+        "Autocritique dépressive",
+        "Aide choisie"
+      ],
+      "clinical_focus": "Culpabilité et demande d’aide",
+      "clinical_intro": "Naïma propose de passer et Lila se demande aussitôt ce qu’elle aurait dû réussir seule. La culpabilité de la dépression du post-partum peut donner à un besoin concret le sens d’une faute personnelle. En regardant ce que son amie lui propose et ce qu’elle souhaite recevoir, Lila peut répondre à l’invitation sans avoir à défendre sa valeur.",
+      "opening": "Naïma est devant l’immeuble avec un sac dont une anse s’est décousue. Lila la voit depuis le deuxième étage essayer de porter le tout par le fond. Elle descend lui ouvrir. Elle avait rappelé la veille pour accepter la soupe. À présent, en voyant les pots et le linge dont Naïma les a entourés, elle pense à la dernière fois où elle lui a apporté quelque chose. Il y avait de la neige et Naïma attendait qu’on lui installe une fenêtre. Lila cherche combien de mois les séparent de ce jour.\n\nElles déposent les pots sur la table. Thomas est parti chercher un colis avec leur fils. Naïma raconte que son sac a tenu pendant trois courses avant de choisir précisément cet escalier pour s’ouvrir. Lila sourit et se met à essuyer une trace déjà sèche sur le plan de travail. « On aurait pu se débrouiller », dit-elle. Naïma pose le linge à côté des pots. « Tu veux qu’on mange ensemble ou tu avais envie d’un peu de temps à toi ? »\n\nLila s’était préparée à un commentaire sur son appartement ou sur sa façon de s’organiser. La question lui laisse une décision plus petite. Elle se demande quand même si elle doit expliquer le rendez-vous d’hier pour justifier qu’on lui apporte un repas. Elle pense à sa médecin, aux deux lignes sur le compte rendu, à la place que le récit prendrait sur la table. Ce qu’elle voudrait surtout, aujourd’hui, c’est pouvoir parler du vide qu’elle ressent certains matins, à quelqu’un qui l’a connue bien avant. Elle sort deux bols et demande à Naïma si elle a le temps de rester une demi-heure.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le jugement sévère qui s’attache à un besoin ordinaire",
+          "text": "La culpabilité peut prendre une place importante pendant une dépression. Une difficulté limitée, comme préparer un repas un jour d’épuisement, peut conduire à un jugement général sur sa valeur ou sa capacité à s’occuper des siens. Le même événement prend alors plus de poids que sa conséquence réelle. Chez Lila, le repas offert lui rappelle tous les services qu’elle estime ne plus rendre. Elle imagine un solde à régler avant de pouvoir répondre. La scène permet de regarder les faits qui ont déclenché la pensée et ce que Lila y ajoute. Elle pourra en parler avec la professionnelle qui la suit si ces jugements reviennent et l’empêchent de solliciter du soutien."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le coût des efforts pour avoir l’air de se débrouiller",
+          "text": "Lila se met à nettoyer alors que la table est disponible pour manger. La culpabilité l’amène aussi à chercher une explication qu’elle pourrait donner à son amie. Ces gestes mobilisent de l’énergie et éloignent la conversation qu’elle voudrait avoir. Elle entend assez clairement ce que propose Naïma pour répondre sur le repas, puis choisir à part ce qu’elle dira de sa dépression. Une personne peut aussi accueillir une aide avec ambivalence, soulagée de la recevoir et inquiète d’en avoir besoin. Une question précise laisse à cette ambivalence une place dans la conversation et aide à repérer l’aide qui correspond vraiment au moment."
+        },
+        {
+          "role": "strategies",
+          "heading": "Dire quel service aiderait et combien de temps",
+          "text": "Lila peut demander un repas aujourd’hui, ou une présence dont elles fixent ensemble la durée. Elle peut aussi différer les questions qui lui demandent davantage d’effort. Au lieu d’anticiper le jugement de Naïma, elle peut partir des mots que celle-ci emploie et vérifier ce qu’elle est disposée à faire. Elle aimerait la prévenir de la visite à la médiathèque et lui demander un court appel ensuite. Cet accord donne à chacune une part simple à tenir. Il libère une place pour la conversation, tandis que la culpabilité et la façon dont elle se répète restent des sujets possibles dans les soins."
+        }
+      ],
+      "ending_title": "Deux bols et une demi-heure",
+      "ending": "Elles mangent près de la fenêtre. Lila dit qu’elle traverse une dépression depuis la naissance et qu’elle voit une médecin. Elle parle du matin où elle était restée longtemps devant le dossier du pressing. Elle garde pour elle le compte rendu. Naïma aimerait voir le pressing et Lila lui envoie une photo de la feuille imprimée. Quand Naïma reprend son sac, Lila lui demande si elle sera disponible pour un appel après la visite du mardi. Naïma est libre à midi. Lila note l’heure à côté du rendez-vous que Farid vient de confirmer.",
+      "mirror": [
+        "Naïma peut donner les limites de son offre et écouter la réponse. « Je peux rester jusqu’à une heure et t’appeler mardi à midi. Tu préfères qu’on en parle à ce moment-là ? » Lila peut choisir un seul appui et garder les éléments de sa consultation qu’elle souhaite protéger. Si Naïma en parle à quelqu’un d’autre, elle lui demande d’abord quel accord Lila lui donne."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-baby-blues",
+        "has-accompagnement-postnatal"
+      ],
+      "continuity": {
+        "choice": "Lila choisit un repas avec Naïma et lui confie ce qu’elle souhaite de sa dépression. Elles fixent un appel mardi à midi.",
+        "next": "Mardi, Lila retrouve Farid et Élise à la médiathèque pour regarder la salle et les tirages. Elle appelle Naïma après la visite."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "lila-garder-le-fil-quand-les-informations-se-bousculent",
+      "title": "Garder le fil quand les informations se bousculent",
+      "description": "Pendant la visite de la salle, Lila comprend les choix d’éclairage mais perd les horaires. Elle demande un autre rythme pour en parler.",
+      "context": "le mardi matin à la médiathèque, lors d’une première visite sans engagement",
+      "topics": [
+        "Difficulté de concentration",
+        "Prise de décision",
+        "Ajustement au travail"
+      ],
+      "clinical_focus": "Concentration et choix simultanés",
+      "clinical_intro": "Lila peut décrire la lumière qu’elle veut pour la salle. Quand plusieurs horaires et contraintes arrivent à la fois, elle perd le fil. La difficulté à se concentrer pendant une dépression peut coexister avec des connaissances et des gestes précis. Une information reprise à l’écrit lui rend la possibilité de choisir ce qu’elle souhaite essayer.",
+      "opening": "Farid leur ouvre la salle à dix heures. La pièce sent la peinture et le carton neuf. Trois tirages sont posés contre un mur, chacun dans une enveloppe blanche. Lila reconnaît le pressing au pli de la première protection. Elle s’accroupit devant la photo avec Élise. Sur le tirage, le reflet qu’elle avait aperçu occupe presque tout le bord gauche. Il y a aussi une chaise derrière la vitrine. Lila avance d’un pas, puis recule et montre l’endroit où la chaise disparaît sous la lumière du plafond.\n\nFarid a la clé de la salle dans une main et son téléphone dans l’autre. Il parle du moment où les cadres seront livrés, de deux dates où la médiathèque peut ouvrir la pièce en avance, et de la personne qui viendra montrer le parcours à l’équipe. Lila essaye de rattacher chaque horaire à ce qu’ils feront. Pendant qu’il ajoute une précision, elle se demande si elle a entendu mardi deux fois, ou une fois mardi et une fois jeudi. Elle se surprend à hocher la tête avant d’avoir choisi.\n\nÉlise redresse un tirage. Le geste permet à Lila de reprendre la conversation à un endroit qu’elle reconnaît. « Je peux te dire quel mur je regarderais en premier. Pour les heures, j’ai perdu le fil au milieu. » Elle aurait préféré garder cette phrase pour l’escalier. Farid pose le téléphone sur une pile de chaises. Élise lui demande quel reflet la gêne, puis attend qu’elle finisse de montrer le bord de la photo. Lila entend enfin la différence entre la pièce qu’elle regarde et le rendez-vous qu’on lui demande de fixer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Comprendre une chose et perdre le fil de la suivante",
+          "text": "Une dépression peut rendre la concentration ou les décisions plus difficiles. On peut reconnaître un détail et expliquer une procédure familière, puis éprouver un effort inhabituel à conserver plusieurs informations et à faire un choix. Le sommeil et l’énergie peuvent aussi peser dans ces moments. Pour Lila, le nombre de tâches simultanées est un élément concret. La discussion mêle le contenu de la salle, l’arrivée des cadres et ses disponibilités. En consultation, une situation aussi précise aide à estimer le retentissement et à voir si la difficulté se répète ailleurs. Aujourd’hui, elle peut encore décider du mur à observer quand la question lui est posée séparément."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le signe discret d’un accord devenu flou",
+          "text": "Farid pourrait entendre le mouvement de tête de Lila comme un accord. Elle l’a surtout fait pour suivre le rythme de l’échange. La différence devient visible quand elle demande de reprendre les heures. Elle peut savoir que la chaise a besoin d’une lumière moins dure et rester incertaine sur le jour où l’on pourra vérifier son idée. Dans un autre contexte, elle a mis de côté un message à cause d’un intérêt émoussé. Ici, elle veut continuer et se heurte à la façon dont l’information arrive. Nommer précisément cet obstacle donne à l’équipe une réponse plus utile qu’une appréciation générale de son état."
+        },
+        {
+          "role": "strategies",
+          "heading": "Garder deux étapes et une trace écrite",
+          "text": "Pour la visite, Lila peut décrire l’essai qu’elle aimerait faire. La décision sur sa présence viendra quand elle aura reçu une proposition claire. Farid peut lui envoyer le jour, l’heure, la durée et les personnes prévues. Élise peut aussi indiquer ce qu’elle pourra reprendre seule si un changement survient. Lila a le choix de préciser qu’elle veut lire les détails chez elle, sans ouvrir sa vie médicale aux collègues. Si ces difficultés d’attention se multiplient, elle peut apporter cet exemple à son prochain rendez-vous. La petite modification dans l’échange règle le besoin de la salle et laisse au suivi médical sa propre question."
+        }
+      ],
+      "ending_title": "Le bord gauche sur un bout de papier",
+      "ending": "Lila écrit « pressing, bord gauche » sur la note de salle. Farid lui promet un message avec une seule proposition, le jeudi de la semaine suivante à onze heures, pour un essai de quarante-cinq minutes. Elle lui dira sa réponse après avoir lu les conditions. À midi, dehors, elle appelle Naïma comme prévu. Elle lui parle d’abord de la chaise. Ensuite elle dit qu’elle aimerait aborder en consultation ce qui se passe quand les informations se bousculent. Naïma lui propose de l’accompagner à un rendez-vous si cela peut lui servir.",
+      "mirror": [
+        "Élise peut clarifier à voix haute ce qu’elles viennent de décider. « Le mur du pressing est notre premier essai. Farid t’écrit pour l’horaire et on attend ta réponse. » Elle rend visible la différence entre un choix technique et une disponibilité. Si Lila revient sur son accord pour la visite suivante, Élise et Farid peuvent reparler de l’organisation à partir du créneau réellement possible."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-baby-blues",
+        "has-depression-adulte"
+      ],
+      "continuity": {
+        "choice": "Lila propose l’essai près du tirage du pressing, demande les détails à l’écrit et appelle Naïma à midi.",
+        "next": "Le message écrit arrive avant la consultation de jeudi. Lila vient avec son exemple de concentration et ses questions sur les options de soin."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "lila-choisir-un-soin-quand-plusieurs-aides-sont-possibles",
+      "title": "Choisir un soin quand plusieurs aides sont possibles",
+      "description": "Lila apporte ses questions en consultation. Elle veut savoir comment le suivi peut s’ajuster à sa situation et garder une part dans les choix.",
+      "context": "le jeudi suivant la visite, au rendez-vous consacré à la suite du suivi",
+      "topics": [
+        "Psychothérapie",
+        "Décision partagée",
+        "Suivi médical périnatal"
+      ],
+      "clinical_focus": "Options de soin et préférences",
+      "clinical_intro": "Lila a envie d’être aidée et hésite sur la façon d’organiser les rendez-vous. Dans la dépression du post-partum, le suivi peut associer des appuis médicaux, psychologiques et périnataux. Parler des symptômes, du quotidien et de ses préférences lui permet de comprendre la proposition de sa médecin et de savoir quand elles la réexamineront ensemble.",
+      "opening": "Lila a glissé une petite feuille derrière la coque de son téléphone. Elle y a écrit trois questions en attendant le bus. La dernière déborde vers le bord, là où le papier se plie. La docteure Caradec lui demande comment s’est passée la visite à la médiathèque. Lila raconte la chaise derrière le verre et les horaires qu’elle avait mélangés. Elle ouvre le message de Farid pour montrer ce qu’ils lui ont ensuite envoyé. Un seul rendez-vous, avec Élise et une heure de fin. En dessous, Farid a écrit qu’Élise peut reprendre l’essai si Lila reporte.\n\nLila tourne la feuille et demande comment se passerait une première séance avec une psychologue. Elle s’était imaginé devoir y raconter sa grossesse d’une seule traite. Elle aimerait d’abord comprendre comment les journées deviennent si lourdes et ce qu’elle se dit quand quelqu’un lui propose de l’aider. La docteure Caradec lui parle d’une psychologue qui travaille avec l’équipe de périnatalité. Elle lui demande aussi ce que Lila voudrait savoir sur les autres options de soin.\n\nSa troisième question concerne l’allaitement et les traitements. Elle avait hésité à l’écrire, parce qu’elle craint que poser la question sonne comme une décision. La médecin la laisse terminer. Elle revient avec elle sur les difficultés qui continuent, sur ses préférences et sur ce qu’elles voudraient suivre. Au moment de regarder les disponibilités, Lila repère un mercredi après-midi. Elle sait que Naïma lui a offert de l’accompagner un jour si elle le souhaite. Aujourd’hui, elle voudrait surtout que sa médecin lui explique qui appeler si une semaine devenait soudain plus difficile.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un suivi qui se construit avec la personne",
+          "text": "Le traitement d’une dépression du post-partum se décide à partir des symptômes, de leur intensité, du retentissement et de ce qui convient à la personne. Il peut inclure une psychothérapie, un traitement médicamenteux discuté avec un médecin et des soins plus rapprochés si la situation le demande. Le médecin peut prendre en compte le choix d’allaiter lorsque la question d’un médicament se pose et expliquer les bénéfices et les risques dans la situation particulière. Lila veut comprendre ce que chaque rendez-vous peut lui apporter. Les aides qu’elle sollicite auprès de Thomas ou de Naïma peuvent s’articuler à ce suivi en lui laissant du temps pour y accéder."
+        },
+        {
+          "role": "manifestations",
+          "heading": "L’effort nécessaire pour commencer une démarche de soin",
+          "text": "Organiser un rendez-vous peut sembler démesuré quand l’énergie est basse ou que plusieurs décisions se présentent ensemble. Lila a besoin de savoir qui elle va rencontrer, quand elle devra partir et si elle peut garder du temps pour le retour. Elle veut aussi pouvoir poser une question médicale dont elle ignore encore la réponse. Sa façon d’écrire avant la consultation donne une place à cette question, même quand l’échange passe à un autre sujet. La médecin peut constater l’écart entre l’envie d’être aidée et l’effort que la démarche représente. Ensemble, elles peuvent ajuster le premier contact pour que cet effort reste soutenable."
+        },
+        {
+          "role": "strategies",
+          "heading": "Fixer une première séance et prévoir un point de réévaluation",
+          "text": "Lila peut choisir le rendez-vous avec la psychologue et garder un prochain point médical pour revoir le sommeil, l’humeur et le retentissement. La médecin lui donne le moyen de reprendre contact plus tôt si son état change. Lila peut lui demander ce qui sera partagé avec la psychologue et ce qu’elle préfère raconter elle-même. Si elle souhaite un appui de Naïma, elles peuvent convenir d’un trajet ensemble ou d’un autre service en dehors de la consultation. L’aide qui convient pour s’y rendre et les informations de santé dont Lila souhaite parler relèvent de deux accords distincts."
+        }
+      ],
+      "ending_title": "Un mercredi avec le retour déjà prévu",
+      "ending": "Le rendez-vous est fixé au mercredi de la semaine suivante. Lila accepte que la docteure Caradec transmette à la psychologue le motif de l’orientation. Elle demande à Naïma si elle peut l’attendre après la séance à l’arrêt du bus et garde le numéro du cabinet dans ses favoris. Avant de rentrer, elle répond aussi à Farid qu’elle peut envisager l’essai du jeudi à onze heures avec le relais d’Élise. Farid lui demande de confirmer en début de semaine.",
+      "mirror": [
+        "Naïma peut confirmer ce qu’elle peut faire. « Je peux te retrouver à l’arrêt à seize heures. Tu veux qu’on rentre ensemble ou que je t’attende le temps du bus ? » Si Lila souhaite rester seule après la séance, Naïma peut convenir avec elle d’un autre moment. La décision de parler du contenu du rendez-vous revient à Lila."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-baby-blues",
+        "has-depression-adulte",
+        "has-accompagnement-postnatal"
+      ],
+      "continuity": {
+        "choice": "Lila choisit un premier rendez-vous avec la psychologue, fixe un point médical, demande un relais à Naïma et retient provisoirement l’essai du jeudi.",
+        "next": "En début de semaine, elle contacte plus tôt que prévu le cabinet au sujet d’une aggravation. Le créneau d’essai attend sa confirmation."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "lila-aggravation-savoir-quand-passer-le-relais",
+      "title": "Quand l’état s’aggrave, savoir à qui passer le relais",
+      "description": "Une aggravation amène Lila à appeler son cabinet plus tôt que prévu. Elle trouve les mots pour expliquer ce qui a changé depuis samedi.",
+      "context": "le lundi matin à la maison, avant le rendez-vous psychologique prévu mercredi",
+      "topics": [
+        "Aggravation dépressive",
+        "Contact médical rapide",
+        "Urgence en post-partum"
+      ],
+      "clinical_focus": "Aggravation et relais médical",
+      "clinical_intro": "Le lundi, Lila mesure que son état a changé depuis son dernier rendez-vous. Des choses qu’elle arrivait encore à faire lui demandent soudain trop d’effort. Elle appelle son cabinet plus tôt que prévu. Une aggravation mérite une évaluation rapide. D’autres signes, comme une confusion soudaine importante, demandent un relais d’urgence, avec une réponse adaptée à ce qu’on observe.",
+      "opening": "Le lundi à neuf heures, Lila retrouve dans sa poche la feuille sur laquelle elle avait noté le rendez-vous du mercredi. Le premier pli a tenu, le deuxième s’est déchiré. Elle l’étale sous sa tasse. Depuis samedi, la matinée entière lui paraît trop grande à commencer. Hier, elle avait mis une veste pour aller chercher du pain et l’avait retirée avant la porte. Elle voulait aussi répondre à Naïma, qui avait confirmé l’heure à l’arrêt du bus. Elle a lu trois fois ce message familier sans trouver la force d’y envoyer un mot.\n\nThomas est resté à la maison le temps d’attendre un plombier. Il remarque le bol qu’elle a sorti et l’eau qu’elle a mise à chauffer. « Tu veux que je m’occupe du petit déjeuner ou qu’on parle d’abord ? » Lila lui dit qu’elle aimerait parler. Elle garde les mains sur la table, parce que c’est plus facile que d’essayer encore de faire quelque chose. « Depuis samedi, je vais franchement moins bien. J’ai l’impression de passer la journée à me préparer à vivre une journée. »\n\nLila pense à la proposition que lui a faite la docteure Caradec de rappeler avant le prochain rendez-vous. Elle va chercher le numéro. Quand l’assistante décroche, elle commence par dire qu’elle a déjà un suivi. Puis elle raconte la différence des deux derniers jours et demande à parler à la médecin aujourd’hui. Thomas est assis de l’autre côté de la table. Il attend la fin de l’appel pour lui proposer de prendre en charge le déjeuner et le trajet si le cabinet peut la recevoir.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’importance d’un changement par rapport aux jours précédents",
+          "text": "Pendant le suivi d’une dépression du post-partum, une aggravation marquée mérite un contact médical rapide. La personne peut décrire ce qui s’est accentué, à quel moment et avec quelles conséquences. Les soignants peuvent examiner son état, sa sécurité, son sommeil, la charge qu’elle porte et les autres explications possibles. Ils déterminent ensuite le niveau de soins nécessaire. Dans le cas de Lila, l’effort pour manger, sortir ou répondre à quelqu’un s’est fortement accru en quelques jours. Le rendez-vous de mercredi reste utile et le cabinet a besoin de connaître ce changement dès aujourd’hui pour proposer la réponse adaptée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Des signes d’urgence à reconnaître dans le post-partum",
+          "text": "Un épisode psychotique après l’accouchement constitue une urgence psychiatrique. Une désorientation marquée qui apparaît brutalement, une confusion importante ou des symptômes psychotiques nouveaux, comme des hallucinations, appellent une évaluation urgente. Une cause physique peut aussi provoquer certains de ces signes et mérite d’être recherchée. Un danger immédiat pour la personne ou pour l’enfant justifie un appel aux secours quelle qu’en soit la cause. Dans cette histoire, Lila se souvient des événements, décrit leur enchaînement et signale une aggravation dépressive. C’est l’évaluation médicale du jour qui précisera sa situation. À eux seuls, les quelques gestes que voit Thomas donnent surtout des faits à transmettre."
+        },
+        {
+          "role": "strategies",
+          "heading": "Utiliser le contact convenu et connaître l’accès aux secours",
+          "text": "Lila indique au cabinet son suivi, le début de l’aggravation et les activités devenues difficiles. Elle laisse un moyen de la rappeler et demande quelle suite est possible. Thomas peut alléger la journée et l’accompagner si elle le souhaite. En France, pour une confusion soudaine importante, de nouveaux symptômes psychotiques ou un danger immédiat, on peut appeler le 15 ou le 112 et décrire ce qui est en train de se passer. Les secours orientent la réponse. La place d’un proche est d’obtenir ce relais et de donner des faits utiles, tandis que les professionnels évaluent la situation et sa cause."
+        }
+      ],
+      "ending_title": "Une place au cabinet dans l’après-midi",
+      "ending": "La docteure Caradec rappelle avant onze heures et lui propose de venir en début d’après-midi. Lila accepte que Thomas la dépose. Elle lui demande de rester avec leur fils et choisit d’entrer seule dans le cabinet. À la consultation, la médecin évalue cette aggravation et convient avec elle de rapprocher le suivi. Lila envoie ensuite un signe à Naïma pour maintenir leur rendez-vous de mercredi. Elle garde le message à Farid pour le lendemain matin.",
+      "mirror": [
+        "Thomas peut dire « Je peux préparer le déjeuner et te déposer au cabinet. Tu veux que j’entre avec toi ou que je reste avec le petit ? » Il peut suivre le choix de Lila et préciser ce qu’il a observé si elle lui demande d’en parler. Face à un danger immédiat ou à des signes d’urgence, l’appel au 15 ou au 112 passe en premier."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-baby-blues",
+        "has-depression-adulte",
+        "fr-secours-perinatal"
+      ],
+      "continuity": {
+        "choice": "Lila appelle son cabinet et consulte le jour même. La médecin évalue l’aggravation et rapproche le suivi. Le rendez-vous du mercredi est maintenu.",
+        "next": "Mardi matin, Lila répond au message de Farid au sujet de l’essai de jeudi et choisit de le reporter."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "lila-ralentissement-et-possibilite-de-reporter",
+      "title": "Reporter une tâche quand l’effort de commencer augmente",
+      "description": "Après avoir revu sa médecin, Lila propose de déplacer l’essai. Elle garde une place dans le projet avec une contribution limitée.",
+      "context": "le mardi suivant l’aggravation, avant de confirmer l’essai à la médiathèque",
+      "topics": [
+        "Ralentissement",
+        "Baisse d’énergie",
+        "Report d’un engagement"
+      ],
+      "clinical_focus": "Ralentissement et effort d’initiative",
+      "clinical_intro": "Après la consultation, Lila souhaite toujours essayer son éclairage mais peine à commencer les tâches ordinaires. Dans une dépression, l’initiative et le rythme des gestes peuvent devenir plus coûteux. Reporter l’essai tout en transmettant une observation concrète lui permet de conserver un choix sur le projet et du temps pour le suivi rapproché.",
+      "opening": "Mardi, Lila trouve la photo du pressing au milieu du carnet. Un coin a marqué la page suivante. Elle veut envoyer à Élise l’endroit où la chaise disparaît. Elle pose la feuille sur la table, prend un stylo, s’aperçoit qu’il est sec et ouvre le tiroir pour en chercher un autre. Quand elle le referme, elle n’a plus en tête ce qu’elle était venue prendre. Elle se rend compte qu’elle est debout depuis plusieurs minutes à tenir la feuille. Elle s’assied avec le sentiment de devoir prendre chaque geste à part. Sur la table, le carnet lui rappelle la chaise qu’elle voulait montrer.\n\nLa veille, la docteure Caradec a avancé leur prochain point médical et s’est assurée avec Lila qu’elle pouvait joindre le cabinet en cas de nouveau changement. Lila a encore le message de Farid qui demande si l’essai aura bien lieu jeudi. Elle avait imaginé revenir dès cette semaine, écouter avec Élise le bruit léger des boutons de la régie et se pencher sur le mur pendant qu’on essaye une lumière. Ce désir est toujours là. En regardant le stylo qu’elle tient enfin, elle doit admettre le temps que lui a pris cette recherche banale.\n\nElle ouvre le message de Farid et commence par « Je crois que je pourrai ». Elle relit l’heure de fin. Si elle confirme, il réservera la salle et Élise viendra plus tôt. Lila tient à ce que chacune puisse s’organiser. Elle efface sa première phrase et appelle Farid. Il répond en marchant, puis s’arrête quand elle lui demande de décaler. Il peut proposer le jeudi suivant à la même heure, avec Élise. Il lui demande s’il peut déjà utiliser son observation sur le pressing. Lila regarde de nouveau sa photo pour décider ce qu’elle veut leur transmettre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le temps nécessaire à des gestes qui semblaient simples",
+          "text": "Une dépression peut s’accompagner d’une diminution d’énergie et, dans certaines présentations, d’un ralentissement qui touche les gestes, la parole ou la pensée. L’impression subjective de devoir fournir un effort inhabituel est aussi utile à décrire. Une même activité peut demander davantage de temps quand la personne doit l’initier, garder son but en tête et reprendre après une interruption. La scène de Lila montre plusieurs de ces difficultés ensemble. Pour en comprendre le poids, sa médecin peut demander comment elles ont évolué et ce qu’elles changent à la maison ou dans les projets. Une matinée à elle seule donne une observation à replacer dans cette histoire."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Avoir envie d’une chose et prévoir moins d’actions",
+          "text": "Lila se représente encore l’essai avec Élise et y trouve de l’intérêt. En même temps, commencer la tâche la plus simple lui coûte plus que la semaine précédente. Elle évalue donc deux questions. La première concerne ce qu’elle veut faire. La seconde porte sur le temps et l’énergie qu’elle peut engager jeudi. Ce décalage explique qu’elle puisse appeler Farid pour reporter tout en parlant avec précision du tirage. Sa disponibilité pour l’essai reste différente de sa capacité à envoyer une observation courte. En soins, ces variations aident à parler du fonctionnement avec des exemples, au-delà du seul fait qu’elle envisage encore de travailler."
+        },
+        {
+          "role": "strategies",
+          "heading": "Donner une réponse qui laisse à chacun une marge réelle",
+          "text": "Lila peut annoncer le report avec les informations dont Farid a besoin pour organiser la salle. Elle est libre de choisir ce qu’elle dit de son état. Ensemble, ils peuvent convenir d’un prochain créneau, d’un délai pour le confirmer et de la personne qui prend la suite si elle reporte encore. Si transmettre la photo lui convient, Lila peut indiquer un seul détail et laisser l’équipe décider de ce qu’elle en fait avant l’essai. En parallèle, son suivi rapproché permet de parler du ralentissement et de demander de l’aide si les activités ordinaires se réduisent davantage. Le report règle la disponibilité de jeudi."
+        }
+      ],
+      "ending_title": "Une flèche sur le tirage",
+      "ending": "Lila trace une flèche et prend une photo de la feuille. Elle autorise Farid à l’envoyer à Élise. Ils retiennent jeudi prochain à onze heures et conviennent que Lila confirmera le mardi. En fin de journée, elle laisse l’agenda ouvert à la séance du lendemain. Naïma lui envoie une photo du banc près de l’arrêt où elles se retrouveront. Lila répond qu’elle le reconnaît au morceau de peinture manquant sur le dossier.",
+      "mirror": [
+        "Farid peut répondre sur l’organisation. « Je préviens Élise et je garde jeudi prochain à onze heures jusqu’à ta confirmation mardi. Si tu veux, je lui transmets aussi ta flèche. » Un horaire, une personne et un délai clairs évitent à Lila d’avoir à deviner ce qui se passera. Farid peut également annoncer ce que l’équipe devra faire d’ici là."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-baby-blues",
+        "has-depression-adulte"
+      ],
+      "continuity": {
+        "choice": "Lila reporte l’essai d’une semaine, transmet son indication sur le tirage et fixe le mardi pour confirmer. La première séance a lieu le mercredi.",
+        "next": "Après la première séance et le point médical, Lila confirme le mardi suivant. Elle retrouve Élise pour l’essai jeudi à onze heures."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "lila-quand-le-plaisir-revient-par-moments",
+      "title": "Quand le plaisir revient par moments",
+      "description": "Une décision de lumière redonne du plaisir à Lila pendant l’essai. Elle mesure cet instant et l’effort qu’il lui a demandé.",
+      "context": "à onze heures le jeudi, une semaine après le créneau reporté",
+      "topics": [
+        "Plaisir retrouvé",
+        "Fluctuation des symptômes",
+        "Ressources personnelles"
+      ],
+      "clinical_focus": "Plaisir ponctuel et évolution",
+      "clinical_intro": "Pendant l’essai, Lila retrouve du plaisir à regarder la lumière changer sur une photographie. Cet instant compte alors même que sa matinée a été difficile. Dans le suivi d’une dépression, les moments d’intérêt retrouvé apportent une information parmi d’autres. Lila peut les apprécier et continuer de parler en soin des symptômes qui pèsent sur son quotidien.",
+      "opening": "Il est onze heures moins deux quand Lila arrive devant la médiathèque. Elle a envoyé sa confirmation mardi après son point médical. La semaine précédente, elle a fait sa première séance avec la psychologue. Au retour, Naïma l’attendait sur le banc et elles ont raté un bus parce que Lila avait envie de terminer ce qu’elle lui racontait sur le trajet. Elle lui a surtout parlé de l’effort qu’avait demandé d’arriver à l’heure. Ce matin encore, sortir lui a pris si longtemps qu’elle a mangé le reste de son petit déjeuner debout dans l’entrée.\n\nÉlise a posé le tirage du pressing sur un support et gardé la flèche imprimée au bord de la console. Farid leur a ouvert la salle avant de repartir à l’accueil. Lila enlève son manteau. Elle montre où elle se placerait en entrant et demande à Élise d’essayer le second réglage qu’elles avaient évoqué. La chaise est de nouveau visible. En même temps, un reflet de la salle se superpose à celui du néon sur la droite. Lila essaie deux positions, puis demande de revenir au réglage intermédiaire.\n\nQuand Élise revient vers elle, Lila a toujours les yeux sur la vitre du pressing. Pendant quelques secondes elle suit la ligne blanche sans surveiller l’heure et sans penser à ce que cette matinée devrait dire de sa santé. Elle demande à Élise ce qu’elle voit dans la partie droite. Elles ne sont pas d’accord sur l’endroit où commence le reflet. Lila rit, avance d’un pas et le lui montre. Ensuite elle se rend compte qu’elle a envie d’en parler à quelqu’un en sortant.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une amélioration peut se voir dans des moments précis",
+          "text": "Le plaisir et l’intérêt peuvent évoluer au cours d’un épisode dépressif. Une personne peut retrouver une sensation familière dans une activité et rester en difficulté dans d’autres parties de sa journée. En consultation, l’évolution s’apprécie sur plusieurs situations et dans la durée, avec l’humeur, l’énergie, le sommeil et le retentissement. Lila a envie de partager le moment où elle a suivi le reflet. Cet instant lui apprend quelque chose qu’elle peut raconter avec précision. L’effort de se préparer et la fatigue ressentie ensuite apportent aussi des informations utiles. Ces observations permettent de discuter des changements sans avoir à leur donner d’emblée le sens d’une rémission."
+        },
+        {
+          "role": "manifestations",
+          "heading": "La différence entre tenir un essai et s’y intéresser",
+          "text": "Lila avait déjà su décrire la chaise lors de la première visite. Cette fois, elle éprouve du plaisir en comparant ce qu’elle voit avec Élise. Le changement se manifeste dans l’attention qu’elle porte au reflet, l’envie de vérifier sa position et le rire qui arrive pendant leur désaccord. Ce plaisir a pris de la place dans une durée définie. Lila sent aussi que sa concentration baisse à la fin de l’essai. Elle peut prendre au sérieux les deux aspects. L’équipe a prévu quarante-cinq minutes pour cette tâche, ce qui permet de finir la comparaison à l’heure où elles avaient décidé de s’arrêter."
+        },
+        {
+          "role": "strategies",
+          "heading": "Garder ce qui aide à décrire un moment qui compte",
+          "text": "Lila peut noter ce qu’elle a aimé et ce qu’elle voudrait essayer de nouveau. Elle peut en parler à quelqu’un sans faire de ce souvenir une promesse pour le lendemain. Dans le suivi, elle peut situer l’expérience parmi les autres activités et expliquer de combien de temps elle a eu besoin pour s’y rendre puis récupérer. Farid et Élise ont besoin de savoir quel éclairage a été retenu, et de convenir avec elle d’un autre créneau si elle le souhaite. Un accord séparé sur la durée du montage l’aide à décider en fonction de ce que cette tâche demande."
+        }
+      ],
+      "ending_title": "Le réglage à inscrire sur la fiche",
+      "ending": "Élise inscrit le choix sur la fiche de salle et regarde l’horloge. Il est onze heures quarante-cinq. Lila range son tirage du pressing dans le carnet. Avant de repartir, Farid lui propose le montage du mardi de dix heures à midi, avec Élise pour le relais. Lila veut d’abord vérifier que la matinée est libre. En marchant vers l’arrêt, elle sent la fatigue revenir et décide de rentrer directement. Elle écrit à Thomas qu’elle a envie de lui raconter le moment où la chaise est revenue dans la lumière.",
+      "mirror": [
+        "Thomas peut accueillir le récit là où Lila commence. « Montre-moi la photo et l’endroit où tu as vu la chaise. » Il peut se réjouir de ce qu’elle a aimé et lui demander ensuite si elle souhaite du temps pour récupérer. C’est aussi une façon de découvrir ce qu’elle souhaite reprendre sans décider de la suite du projet à sa place."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-baby-blues",
+        "has-depression-adulte"
+      ],
+      "continuity": {
+        "choice": "Lila et Élise choisissent un réglage et terminent l’essai à onze heures quarante-cinq. Lila souhaite raconter le plaisir ressenti et réfléchit au montage du mardi.",
+        "next": "Jeudi soir, Lila partage la photo avec Thomas, discute du récit qu’il fera à sa mère et vérifie les appuis du mardi."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "lila-se-sentir-loin-tout-en-etant-presente",
+      "title": "Se sentir loin tout en étant présente",
+      "description": "Lila partage le plaisir de l’essai avec Thomas. Elle lui parle aussi des moments où elle peine à se sentir proche de leur fils.",
+      "context": "le jeudi soir, après l’essai, à la table où Lila montre la photographie du pressing",
+      "topics": [
+        "Lien au bébé",
+        "Sentiment de distance",
+        "Parole choisie en famille"
+      ],
+      "clinical_focus": "Sentiment de distance après la naissance",
+      "clinical_intro": "Lila retrouve l’envie de raconter son travail à Thomas. Elle hésite davantage à lui dire que, près de leur fils, elle éprouve parfois une distance qui la déroute. Une dépression du post-partum peut modifier le sentiment de proximité. Mettre des mots sur ce décalage permet de chercher une aide adaptée, en laissant du temps à la relation.",
+      "opening": "Thomas regarde la photo sur le téléphone de Lila et agrandit la vitrine du bout des doigts. Il a beau chercher, il voit surtout un banc là où elle lui décrit la chaise. Lila ressort le tirage plié. Elle se penche à côté de lui, pose l’index au bas de la vitre et lui montre les deux pieds de bois. Il rit de s’être appliqué à compter les lattes d’un banc. Leur fils dort dans la pièce à côté. Sur le chemin du retour, Lila s’était répété ce qu’elle voulait raconter du pressing. Pouvoir s’arrêter à un détail avec Thomas lui fait du bien.\n\nIl lui dit que sa mère a proposé de venir samedi et demande s’il peut lui raconter l’essai. Elle avait voulu savoir si Lila se sentait mieux. Lila laisse le téléphone contre la salière. Ce soir, elle aimerait que son plaisir soit entendu. Elle pense aussi à tout à l’heure, quand Thomas lui a confié leur fils en allant préparer le dîner. Elle lui a parlé en regardant sa petite main. Tout lui paraissait très loin alors qu’elle le tenait contre elle. Elle avait attendu un sentiment familier et s’était demandé s’il lui échappait parce qu’elle s’y prenait mal.\n\nThomas demande s’il est arrivé quelque chose. « Il y a des moments où je suis là et je me sens loin », dit-elle. Elle essaie de préciser en lui racontant le temps passé près de la fenêtre avec le petit. Puis elle dit qu’elle aimerait reprendre cette conversation lors d’une séance. Thomas attend un peu. Le tirage est entre eux. Lila le tourne du côté où il a enfin repéré la chaise et lui demande ce qu’il avait envie de raconter à sa mère.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La proximité vécue peut changer pendant une dépression",
+          "text": "Une dépression du post-partum peut s’accompagner d’un sentiment de distance ou d’une difficulté à éprouver le plaisir et la tendresse qu’on attendait auprès du bébé. Les expériences varient. Certaines personnes traversent une dépression tout en se sentant proches de leur enfant. D’autres vivent un décalage entre les soins qu’elles lui donnent et ce qu’elles ressentent. Ce décalage peut être douloureux et s’ajouter à une culpabilité déjà présente. Dans une consultation, en parler permet d’évaluer à la fois la souffrance de la mère, les appuis disponibles et la relation dans son ensemble. Un moment de distance renseigne sur ce que Lila vit à cet instant. Le lien se construit au fil de nombreux échanges."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Deux expériences différentes dans la même journée",
+          "text": "Lila vient de trouver du plaisir à montrer le pressing. Quelques heures plus tôt, elle a fait attention à son fils tout en éprouvant une impression d’éloignement. Elle craint que Thomas lise l’une de ces expériences comme l’explication de l’autre. Les observer séparément permet de parler de ce qui se passe à la maison et de ce qui l’a intéressée pendant l’essai. Thomas a besoin d’entendre ce qu’elle ressent, car de l’extérieur il peut surtout constater qu’elle a pris le petit et lui a parlé. Lila voudrait faire connaître la distance sans devoir annoncer à sa famille comment toute sa journée s’est passée."
+        },
+        {
+          "role": "strategies",
+          "heading": "Parler du lien et partager une tâche avec deux accords distincts",
+          "text": "Lila peut apporter un moment précis en consultation et dire ce qui l’inquiète. Si elle le souhaite, l’équipe périnatale peut aussi l’aider à penser les moments de proximité, la répartition des soins et les appuis à la maison. Avec Thomas, elle peut choisir une façon de passer du temps près de leur fils qui corresponde à son énergie du jour. Ils peuvent aussi s’entendre sur la matinée du montage, pour que chacun sache ce qu’il prend en charge. À propos de la famille, Lila peut donner son accord pour raconter le projet et réserver ce qu’elle a confié sur son sentiment de distance à la conversation de ce soir."
+        }
+      ],
+      "ending_title": "L’histoire de la chaise peut circuler",
+      "ending": "Lila demande à Thomas de raconter l’essai à sa mère comme une histoire de travail. Elle souhaite garder le reste entre eux pour l’instant. Thomas est disponible le mardi matin jusqu’à treize heures et prendra le relais à la maison. Lila écrit à Farid qu’elle accepte le montage de dix heures à midi, avec Élise pour reprendre la salle ensuite. Elle ajoute dans son agenda une phrase pour sa prochaine séance, « Je veux parler des moments où je me sens loin. »",
+      "mirror": [
+        "Thomas peut accueillir ce que Lila vient de confier. « Ça a l’air difficile de te sentir loin alors que tu aimerais être proche. Qu’est-ce qui t’aiderait ce soir ? » Il peut aussi confirmer le relais de mardi et demander séparément ce qu’elle accepte de partager avec sa mère. Le récit de l’essai appartient à la conversation qu’ils viennent d’avoir, et Lila peut en préciser les limites."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-baby-blues",
+        "has-accompagnement-postnatal"
+      ],
+      "continuity": {
+        "choice": "Lila garde sa confidence sur le sentiment de distance pour Thomas et le suivi. Elle confirme le montage de mardi avec le relais à la maison et en salle.",
+        "next": "Mardi, le montage commence à dix heures. Une demande supplémentaire met à l’épreuve l’accord de fin de matinée."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "lila-passer-la-main-quand-la-tache-se-prolonge",
+      "title": "Passer la main quand la tâche se prolonge",
+      "description": "Un ajout de dernière minute déborde sur l’heure convenue. Lila doit décider comment finir sa part du montage avec Élise.",
+      "context": "le mardi à la médiathèque, à la fin du montage prévu de dix heures à midi",
+      "topics": [
+        "Retentissement professionnel",
+        "Limite d’engagement",
+        "Relais entre collègues"
+      ],
+      "clinical_focus": "Retentissement dépressif au travail",
+      "clinical_intro": "À la fin du montage, une nouvelle demande arrive alors que Lila a presque atteint l’heure convenue. Le retentissement d’une dépression peut se lire dans l’effort nécessaire pour prolonger une tâche et récupérer ensuite. Lila s’appuie sur l’accord avec Élise pour finir sa part, transmettre ce qui reste et tenir la limite qu’elles ont fixée.",
+      "opening": "Le dernier cadre du mur du pressing est enfin posé. Élise se tient au fond de la salle avec la fiche de réglages et Lila regarde ce qui se passe lorsqu’on avance depuis la porte. Sur le tirage voisin, la vitrine d’une mercerie renvoie une ligne brillante qui se voit à peine de près. Lila la signale. Elles s’accordent sur une correction et reviennent au pressing. Le néon traverse de nouveau le verre, avec la chaise en dessous.\n\nÀ onze heures quarante, Farid entre avec un tirage supplémentaire. La photographe voudrait l’ajouter au bout du premier mur. Elle viendra en fin d’après-midi pour vérifier la place. Farid pose la nouvelle image sur un banc et demande à Lila si elle pourrait regarder avec eux comment elle répond à la mercerie. Lila trouve la question intéressante. Elle commence à compter dans sa tête le temps nécessaire pour l’essai, le trajet et ce qu’elle a prévu chez elle. Elle s’aperçoit qu’elle a déjà envisagé de revenir à l’heure où la photographe passera, alors qu’elle avait accepté une seule matinée.\n\nElle regarde Élise. La dernière heure lui a demandé davantage de reprises que la première. Elle a perdu deux fois le nom d’un mur en parlant, et le bruit de l’accueil qu’on entend à travers la porte la coupe au milieu de ses phrases. Sur la fiche, la place réservée à la dernière vérification est encore vide. « Je peux vous dire ce que je vois d’ici », dit-elle à Farid. « Ensuite, il faudrait que quelqu’un reprenne la discussion avec la photographe. » Elle attend de l’entendre confirmer qui pourra le faire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le retentissement se mesure aussi à l’effort et au temps de récupération",
+          "text": "Une dépression peut gêner le travail quand l’énergie, l’attention ou le rythme des gestes ont changé. La personne peut réaliser une tâche tout en y consacrant davantage d’effort que d’habitude et en ayant ensuite besoin de récupérer. Une équipe de soin peut s’intéresser à ce que le travail demande, au temps pendant lequel la personne peut y participer et à la façon dont elle se sent après. Lila connaît le métier et tient une place dans le montage. La fin de la matinée lui donne aussi des indications sur l’effort cumulé. Les deux informations peuvent guider la discussion sur la suite."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le changement qui transforme une demande en plusieurs rendez-vous",
+          "text": "À première vue, Farid demande un avis sur un tirage. Pour Lila, accepter toute la suite signifierait rester davantage, attendre la photographe ou revenir plus tard. La demande arrive au moment où elle doit déjà faire plus d’effort pour retrouver ses mots et suivre les échanges. Elle distingue l’avis qu’elle peut donner maintenant du travail qui restera à quelqu’un. Ce découpage rend l’organisation plus claire pour l’équipe. Il lui permet aussi de prendre la fatigue en compte avant que l’heure fixée soit passée. Elle souhaite récupérer l’après-midi et partager la journée à la maison comme convenu."
+        },
+        {
+          "role": "strategies",
+          "heading": "Une transmission avec une personne et un résultat attendus",
+          "text": "Avant midi, Lila peut montrer ce qu’elle voit sur le mur et laisser un repère sur la fiche. Farid peut confirmer à Élise la suite qu’elle prend en charge, puis accueillir la photographe au moment prévu. Une transmission aussi concrète précise la décision qui reste ouverte et qui pourra la prendre. Elle laisse à Lila le choix de quitter la salle à l’heure convenue. Si d’autres aménagements deviennent nécessaires, elle peut en discuter à partir de ce qu’elle a observé, avec les personnes concernées. Son équipe de soin peut, de son côté, revenir sur ce que cette matinée a demandé et sur ce qu’elle souhaite reprendre."
+        }
+      ],
+      "ending_title": "La fiche reste dans la salle",
+      "ending": "Lila et Élise inscrivent le point à vérifier près du cadre de la mercerie. Farid confirme qu’il verra la photographe avec Élise en fin d’après-midi. À midi, Lila remet la fiche sur le banc et quitte la salle. Élise lui propose de lui dire où ils auront placé le dernier tirage, une fois l’installation terminée. Lila répond qu’elle ira le voir samedi avec Naïma si l’ouverture au public est bien maintenue. Dehors, elle reprend le temps qu’elle s’était laissé pour rentrer.",
+      "mirror": [
+        "Farid peut acter le relais pendant que les trois sont ensemble. « Lila, montre à Élise le bord que tu veux qu’on regarde. Élise et moi verrons la photographe tout à l’heure. » Il peut rendre l’heure de fin visible dans ses décisions, puis envoyer l’information sur le résultat si Lila souhaite la recevoir. La tâche restante a ainsi une personne clairement désignée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-baby-blues",
+        "has-depression-adulte"
+      ],
+      "continuity": {
+        "choice": "Lila transmet son observation et part à midi comme convenu. Farid et Élise reprennent le dernier tirage avec la photographe.",
+        "next": "Samedi, Lila visite l’exposition ouverte avec Naïma. Elle voit l’installation achevée et prend une décision sur les prochaines propositions."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "lila-faire-le-point-apres-une-reprise-choisie",
+      "title": "Faire le point après une reprise choisie",
+      "description": "Lila visite l’exposition terminée. Elle sépare ce qu’elle a accompli, ce que le suivi doit encore aborder et ce qu’elle veut ensuite.",
+      "context": "le samedi après le montage, pendant une visite de l’exposition ouverte au public",
+      "topics": [
+        "Évolution des symptômes",
+        "Continuité du suivi",
+        "Projet à horaires choisis"
+      ],
+      "clinical_focus": "Évolution et continuité du suivi",
+      "clinical_intro": "Lila voit le résultat de sa reprise à horaires choisis. Elle garde aussi en tête les matins lourds dont elle veut parler au prochain rendez-vous. Le suivi d’un premier épisode dépressif tient compte des améliorations et des difficultés qui se poursuivent. Faire le point sur les deux l’aide à décider du prochain pas dans les soins et de ce qu’elle souhaite au travail.",
+      "opening": "Naïma reconnaît le pressing de l’autre côté de la salle. « Je croyais que ta photo était plus petite. » Lila lui avait envoyé une photo de la feuille imprimée après leur déjeuner. Elle la sort du carnet pour comparer. Le vrai tirage remplit le cadre. Derrière la vitrine, la chaise se voit dès l’entrée. Plus loin, la dernière image a trouvé sa place sur le côté, près d’un rideau sombre. Élise lui a écrit que la photographe l’avait préférée là. Lila change de côté pour essayer de comprendre ce choix et finit par trouver une distance où les deux vitrines se répondent.\n\nElles s’arrêtent au milieu de la salle. Farid passe leur dire bonjour. Il remercie Lila pour le réglage et lui parle d’un vernissage ailleurs, dont il cherche encore l’équipe. Il aurait besoin d’une réponse dans la semaine. Lila écoute avec une curiosité qui la surprend. Ensuite elle pense à la consultation de mardi, à la matinée où préparer ses affaires lui a de nouveau pris presque une heure et à la quantité de place qu’elle veut garder chez elle. Elle demande de quel jour il s’agit. Ce sera un soir, avec des horaires qui dépendent encore du lieu.\n\nAprès le départ de Farid, Naïma lui demande ce qu’elle a envie de faire. Lila regarde une dernière fois la chaise. Elle avait accepté de s’occuper de cette exposition avec une fin à midi et quelqu’un pour prendre la suite. Ce sont des détails dont elle éprouve de la fierté au même titre que le reflet. Elle dit qu’elle aime être là aujourd’hui, debout devant un travail fini, et qu’elle voudrait en profiter avant de choisir une autre salle.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Suivre plusieurs changements au-delà d’un projet terminé",
+          "text": "Au cours du suivi d’un premier épisode dépressif, les soignants examinent l’évolution de l’humeur, de l’intérêt, du sommeil et du fonctionnement au fil du temps. Les soignants peuvent ajuster avec la personne la fréquence des rendez-vous et les soins dont elle a besoin. Une reprise souhaitée peut apporter un renseignement sur les ressources retrouvées. Les difficultés qui persistent ou réapparaissent méritent aussi d’être abordées. Lila peut parler de la satisfaction de voir l’exposition et de la durée que lui demandent encore certains gestes. Le tableau d’ensemble aide à préciser ce qui évolue et ce qui a besoin d’attention."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Reconnaître ce qui a été possible dans des conditions précises",
+          "text": "Lila a repris une tâche de lumière, sur un seul projet, après avoir reporté l’essai et fait reprendre une partie du montage. Ces conditions ont une place dans l’histoire de cette reprise. Elle peut être fière du résultat et préférer laisser passer l’invitation pour un vernissage en soirée. Elle a retrouvé des moments de curiosité, alors que son rythme du matin et la sensation de distance restent parfois difficiles. Son état, ce qu’elle souhaite faire et les conditions concrètes du travail apportent des informations différentes. Elle peut les mettre en relation sans les résumer à une seule réponse sur sa santé."
+        },
+        {
+          "role": "strategies",
+          "heading": "Garder le rendez-vous et répondre au projet proposé",
+          "text": "Pour mardi, Lila peut préparer deux ou trois exemples de ce qui a bougé et de ce qui la préoccupe encore. Elle peut vérifier avec sa médecin qui joindre si son état se dégrade de nouveau, et poursuivre les séances selon l’accord pris avec sa psychologue. Du côté du travail, elle peut donner une réponse à Farid sur le vernissage et lui préciser le genre de créneau qu’elle envisagera plus tard. Les appuis trouvés au fil de l’exposition donnent des questions pratiques à poser la prochaine fois. Lila garde ainsi une décision qui concerne ses intérêts et un rendez-vous où parler de son état."
+        }
+      ],
+      "ending_title": "Le premier mur avant de partir",
+      "ending": "Lila dit à Farid qu’elle décline le vernissage et qu’elle aimerait reparler de créneaux en journée plus tard. Elle met l’heure du rendez-vous médical dans son téléphone et ajoute deux mots, « les matins ». Avant de quitter la médiathèque, elle emmène Naïma devant le premier mur. Elle lui montre où se placer pour voir à la fois la chaise et la ligne du néon. Puis elle reste à côté d’elle pour regarder ce qu’une autre personne va y trouver.",
+      "mirror": [
+        "Naïma peut demander « Tu veux qu’on regarde encore un peu ou qu’on fasse le tour avant de partir ? » Elle peut s’intéresser à l’exposition et écouter la réponse de Lila sur les prochains projets. Si Lila reparle du rendez-vous, Naïma peut demander quel appui lui servirait cette fois, en tenant compte de ce qu’elle peut proposer."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-baby-blues",
+        "has-depression-adulte"
+      ],
+      "continuity": {
+        "choice": "Lila voit l’exposition installée, décline un deuxième projet en soirée et garde son rendez-vous de suivi.",
+        "next": "Le projet choisi est terminé. Lila continue son suivi et pourra discuter de nouvelles conditions quand une proposition lui conviendra."
+      }
+    }
+  ]
+}

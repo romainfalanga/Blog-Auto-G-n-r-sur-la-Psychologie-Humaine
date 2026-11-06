@@ -9,6 +9,10 @@ personnage: "Isabelle"
 sujet: "Réactions émotionnelles et pensées répétées après une rupture"
 contexte: "après une rupture amoureuse"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/39092184/
+- https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/
+- https://pubmed.ncbi.nlm.nih.gov/25606351/
 ---
 
 Isabelle s’assied sur un banc en bois face au bassin du Jardin du Luxembourg. Le vent soulève quelques mèches de ses cheveux roux. Elle ouvre le carnet qu’elle emporte depuis sa séparation avec Aurélie, puis le referme presque aussitôt. Elle a déjà passé une partie de la matinée à relire le dernier message de son ex-compagne. Devant elle, un couple parle à voix basse et un pigeon s’approche de ses chaussures.
@@ -66,5 +70,3 @@ De retour chez elle, elle remet le carnet sur la table. Elle écrit qu’elle po
 Après une rupture, reconnaître précisément ce qui manque peut aider à choisir une action à sa portée. La peine d’une soirée ne suffit pas à conclure qu’elle se répétera toujours ni qu’une seule explication rend compte de la relation.
 
 Si la détresse persiste, s’intensifie ou rend le quotidien difficile, vous pouvez en parler à votre médecin ou à un psychologue. Un professionnel peut examiner avec vous les circonstances, les symptômes et les soutiens dont vous disposez.
-
-Sources : [Acolin et collègues, trajectoires de symptômes dépressifs après une rupture, 2023](https://pubmed.ncbi.nlm.nih.gov/39092184/), [NHS, relevé de pensées en TCC](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/), [Sbarra et collègues, essai sur l’écriture expressive après une séparation, 2013](https://pubmed.ncbi.nlm.nih.gov/25606351/).

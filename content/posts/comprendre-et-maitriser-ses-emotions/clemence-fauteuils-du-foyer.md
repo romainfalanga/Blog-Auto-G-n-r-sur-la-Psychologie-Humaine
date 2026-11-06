@@ -30,7 +30,11 @@ Baya finit de rapporter une affiche à la référente. En revenant, elle dit qu�
 
 ## Comprendre l’envie de s’éloigner du groupe
 
-Un trouble des conduites alimentaires peut compliquer certains moments de vie sociale et laisser intact l’intérêt pour ce qui s’y passe. Le NICE recommande de tenir compte de ces besoins dans le suivi. Clémence peut dire à l’équipe qu’elle veut entendre la discussion après le film et préciser ce qui rend l’entrée dans le groupe difficile. Les professionnels peuvent discuter avec elle de ce qui l’aiderait dans ce contexte. Sa manière de participer au foyer ne permet pas de juger à elle seule de son état. Elle choisit quand rejoindre la discussion et quand en sortir, selon ses envies, les circonstances et les avis utiles à sa santé.
+Un trouble des conduites alimentaires peut compliquer certains moments de vie sociale et laisser intact l’intérêt pour ce qui s’y passe. Le NICE recommande de tenir compte de ces besoins dans le suivi.
+
+## Comment cette difficulté se manifeste
+
+Clémence peut dire à l’équipe qu’elle veut entendre la discussion après le film et préciser ce qui rend l’entrée dans le groupe difficile. Les professionnels peuvent discuter avec elle de ce qui l’aiderait dans ce contexte. Sa manière de participer au foyer ne permet pas de juger à elle seule de son état. Elle choisit quand rejoindre la discussion et quand en sortir, selon ses envies, les circonstances et les avis utiles à sa santé.
 
 ## Demander un geste que Baya peut choisir
 
@@ -39,8 +43,3 @@ Clémence peut demander à Baya de lui présenter quelqu’un. La demande a un d
 ## La question sur la gare
 
 Clémence demande à Baya si elle veut bien l’accompagner vers l’étudiante de la gare. Baya lui présente l’étudiante qu’elle cherchait, qui travaille sur le montage, puis va rendre son livre. Clémence pose sa question sur le dernier plan. Quelqu’un croit que le générique a commencé plus tôt. Elles en parlent encore quand Baya vient leur dire au revoir. Clémence lui demande si elle pourra lui envoyer la référence du passage dont elles viennent de parler.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG69, repérage et prise en charge des troubles des conduites alimentaires](https://www.nice.org.uk/guidance/ng69/chapter/recommendations)

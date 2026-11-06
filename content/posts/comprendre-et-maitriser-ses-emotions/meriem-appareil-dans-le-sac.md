@@ -31,7 +31,11 @@ De l’autre côté de la table, Ève a fini de fermer une boîte. Meriem a chau
 
 ## Quand la demande continue après le refus
 
-Une demande qui se répète après un refus pose un problème concret dans la relation. Le stress post-traumatique complexe peut rendre une émotion plus difficile à traverser, et le refus doit être entendu quel que soit l’état de la personne. Meriem a répondu deux fois sur le cadre de la rencontre. Rémi poursuit alors que la limite est claire. Le retour d’une forte impression d’être coincée appartient au vécu de Meriem. La décision de mettre fin à l’échange peut se fonder sur ce qui vient de se passer, sans chercher pourquoi son corps réagit aussi fort.
+Une demande qui se répète après un refus pose un problème concret dans la relation. Le stress post-traumatique complexe peut rendre une émotion plus difficile à traverser, et le refus doit être entendu quel que soit l’état de la personne. Meriem a répondu deux fois sur le cadre de la rencontre. Rémi poursuit alors que la limite est claire.
+
+## Comment cette difficulté se manifeste
+
+Le retour d’une forte impression d’être coincée appartient au vécu de Meriem. La décision de mettre fin à l’échange peut se fonder sur ce qui vient de se passer, sans chercher pourquoi son corps réagit aussi fort.
 
 Le manuel de l’OMS décrit aussi des difficultés de confiance et de proximité dans ce trouble. L’entourage ne peut pas déduire d’une réaction ce qu’une personne a vécu. Dans les soins, le NICE demande de prendre en compte la sécurité et la stabilité de la situation. Ici, le geste immédiat est d’arrêter une rencontre dont les conditions ne sont plus respectées.
 
@@ -44,8 +48,3 @@ Pour l’annonce, Salomé peut confirmer ce qui a été recueilli et repartir du
 ## La pochette retourne dans le sac de Meriem
 
 « On arrête. Ève, tu peux appeler Dalila ? » Meriem glisse la pochette dans son propre sac. Dalila vient, met fin à la visite et raccompagne Rémi. L’appareil est resté rangé. À l’accueil, Ève demande ce que Meriem veut transmettre pour le bulletin. Meriem dicte : « Pas d’image. Pour le texte, renvoie-moi la version finale. » Ève lui montre le message avant de l’envoyer à Salomé. Dalila s’occupe de signaler que la visite a dû être interrompue et convient avec Salomé que Rémi ne reviendra pas pour l’échange. Dehors, Meriem découvre qu’elle a froissé la poche jaune. Elle la remet à plat sur son genou ; le pli reste.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

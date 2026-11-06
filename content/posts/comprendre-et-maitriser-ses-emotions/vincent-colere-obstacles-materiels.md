@@ -94,5 +94,3 @@ La colère face aux obstacles matériels peut être une réaction à une entrave
 Vincent apprend à protester sans confisquer la parole de Cédric. Il distingue le passage bloqué, l’accumulation de démarches et le comportement qu’il souhaite adopter. Il peut regretter une phrase et maintenir une demande légitime. Cette précision laisse plus de place aux décisions communes et à la possibilité de préserver une partie de leur sortie.
 
 Si la colère devient difficile à contenir, abîme les échanges ou s’accompagne d’une détresse durable, un psychologue peut aider à comprendre les situations qui l’alimentent et à choisir d’autres réponses. Des interlocuteurs associatifs ou professionnels peuvent aussi soutenir les démarches d’accès. Vous n’avez pas à rendre les obstacles acceptables pour travailler sur la manière dont vous y réagissez.
-
-Sources : [James Gross, étude expérimentale sur différentes formes de régulation émotionnelle](https://pubmed.ncbi.nlm.nih.gov/9457784/).

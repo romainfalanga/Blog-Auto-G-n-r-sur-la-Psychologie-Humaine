@@ -34,7 +34,11 @@ Son médecin a posé un diagnostic de trouble anxieux généralisé avant ce cha
 
 Le trouble anxieux généralisé se manifeste par une appréhension persistante ou des inquiétudes marquées qui touchent plusieurs aspects de la vie. La CIM-11 lui attribue le code 6B00. Dans le quotidien, ces préoccupations peuvent porter sur le travail, la santé, les finances ou les proches. Certaines personnes éprouvent aussi de la tension, des difficultés à se concentrer ou un sommeil perturbé. La situation d’Antonin donne un aperçu de ce retentissement. Le sujet qui l’occupe change en quelques instants alors que la demande d’Eva, elle, reste la même.
 
-Le médecin tient compte de la souffrance, du temps et de l’effort que la personne consacre à tenir ses activités. Une chaise bien réparée et un cahier à jour disent ce qu’Antonin a accompli. Ils renseignent moins sur le sommeil qu’il a perdu ou sur ce qu’il n’a pas pu faire après le travail. Ces éléments s’examinent en consultation, dans le contexte de la vie et de la santé de la personne.
+Le médecin tient compte de la souffrance, du temps et de l’effort que la personne consacre à tenir ses activités.
+
+## Comment cette difficulté se manifeste
+
+Une chaise bien réparée et un cahier à jour disent ce qu’Antonin a accompli. Ils renseignent moins sur le sommeil qu’il a perdu ou sur ce qu’il n’a pas pu faire après le travail. Ces éléments s’examinent en consultation, dans le contexte de la vie et de la santé de la personne.
 
 Les inquiétudes d’Antonin durent depuis plusieurs mois et reviennent aussi en dehors de l’école. Le médecin tient compte de cette persistance, de la gêne et de l’effort qu’Antonin doit fournir pour rester attentif. Une préoccupation peut avoir un sujet très concret. Sa fréquence, son intensité et la difficulté à la laisser de côté contribuent à éclairer le trouble.
 
@@ -47,8 +51,3 @@ Pour son suivi, Antonin peut raconter le moment où la liste des travaux a rejoi
 ## Le nom du premier groupe
 
 Antonin propose l’ensemble de clarinettes, qui s’entasse depuis des mois dans une salle où le dernier rang touche le mur. Eva note le nom au crayon. Elle garde une place pour la date quand les travaux auront avancé. La chaise, elle, est prête à reprendre sa place dans le couloir. Avant de quitter le bureau, Antonin écrit à Benoît qu’il aimerait jouer jeudi et qu’il regardera comment venir. Il n’a pas encore répondu au bruit de la roue.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

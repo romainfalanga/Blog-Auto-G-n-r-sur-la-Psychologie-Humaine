@@ -92,5 +92,3 @@ Une différence de désir dans le couple décrit deux vécus qui ne coïncident 
 Vous pouvez commencer par un moment concret, distinguer vos formes de disponibilité ou organiser une rencontre sans résultat attendu. Ces pistes offrent du langage et du temps, sans garantir que les envies s’accorderont. Une conversation utile peut reconnaître une différence durable tout en préservant la dignité de chacune.
 
 Si cette différence devient une source persistante de souffrance, une psychologue ou un professionnel de santé formé à la santé sexuelle peut accompagner la réflexion. Une douleur, un changement préoccupant ou un effet médicamenteux mérite aussi une évaluation adaptée. Chercher de l’aide ne signifie pas devoir atteindre un rythme prescrit ; le consentement reste nécessaire à chaque moment.
-
-Sources : [Jodouin et collègues, étude quotidienne et longitudinale du désir dans les couples, 2021](https://pubmed.ncbi.nlm.nih.gov/34426897/).

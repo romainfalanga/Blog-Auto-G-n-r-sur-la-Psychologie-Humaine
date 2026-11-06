@@ -11,6 +11,8 @@ personnage: "Nadia"
 sujet: "biais de statu quo"
 contexte: "face à une décision importante"
 draft: false
+editorial_sources:
+- https://doi.org/10.1007/BF00055564
 ---
 
 Le salaire de la scale-up tient sur une ligne. Nadia le recopie à côté du sien. Pour les horaires, l’offre parle de disponibilité lors des lancements. Elle ouvre le calendrier de la semaine où Yasmine est chez elle, compte le trajet depuis l’adresse du nouveau bureau et essaie de placer la sortie de l’école. Le calcul marche jusqu’à la première soirée qui n’a pas d’heure.
@@ -66,5 +68,3 @@ Une situation connue peut avoir de vrais avantages. Le point utile consiste à v
 Comparer honnêtement les deux options peut conduire à partir, à rester ou à demander du temps. Pour Nadia, l'intérêt est de pouvoir expliquer sa décision par des critères qu'elle reconnaît.
 
 Si vous vous trouvez dans une situation où l'indécision devient une source de souffrance chronique ou si vous sentez que vos blocages vous empêchent de mener la vie que vous souhaitez, vous pouvez consulter un psychologue. Un professionnel peut vous aider à déconstruire les peurs sous-jacentes à votre besoin de contrôle et à traverser les périodes de transition avec plus de sérénité et de clarté.
-
-Sources : [Samuelson et Zeckhauser, travaux sur le statu quo](https://doi.org/10.1007/BF00055564).

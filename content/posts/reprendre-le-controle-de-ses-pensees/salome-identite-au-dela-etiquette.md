@@ -92,5 +92,3 @@ Une identité au-delà d’une seule étiquette permet de garder plusieurs aspec
 Une carte de situations, un changement d’angle et un repère personnel peuvent aider à retrouver cette pluralité. Vous n’avez pas à multiplier les activités ni à démontrer une cohérence parfaite entre tous vos goûts. Les étiquettes peuvent servir la compréhension sans remplacer l’écoute de ce que vous vivez réellement.
 
 Si le regard des autres devient durablement réducteur ou douloureux, une psychologue ou un autre professionnel peut vous aider à examiner ses effets et les possibilités de réponse. Ce travail doit respecter votre manière de vous définir. Il peut soutenir vos choix sans transformer votre identité en explication automatique de vos difficultés.
-
-Sources : [Linville, complexité de soi et réactions aux évaluations, 1985](https://guilfordjournals.com/doi/10.1521/soco.1985.3.1.94).

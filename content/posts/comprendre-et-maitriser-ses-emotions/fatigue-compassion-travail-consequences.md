@@ -11,6 +11,9 @@ personnage: "Isabelle"
 sujet: "fatigue de compassion"
 contexte: "au travail"
 draft: false
+editorial_sources:
+- https://www.nctsn.org/trauma-informed-care/secondary-traumatic-stress
+- https://www.who.int/standards/classifications/frequently-asked-questions/burn-out-an-occupational-phenomenon
 ---
 
 Isabelle a ouvert son rapport il y a dix minutes. Elle a écrit la date, puis la première moitié d’une phrase. Une élève est venue après une dispute familiale, un autre n’a pas réussi à entrer en classe et la dernière est restée bien après la sonnerie. Quelqu’un frappe. Isabelle espère un instant que la personne, faute de réponse, continuera dans le couloir.
@@ -70,5 +73,3 @@ L’histoire d’Isabelle montre comment une succession d’entretiens éprouvan
 Une pause ou un échange de soutien peut être utile. L’organisation du travail et le suivi professionnel restent des leviers à examiner si les difficultés se répètent.
 
 Si la fatigue persiste ou si elle impacte fortement le fonctionnement quotidien, il est recommandé de consulter un professionnel, comme un psychologue ou un médecin du travail, pour un accompagnement adapté. Cette charge ne doit pas être portée seule.
-
-Sources : [NCTSN, stress traumatique secondaire chez les professionnels de l’aide](https://www.nctsn.org/trauma-informed-care/secondary-traumatic-stress), [OMS, définition du burnout professionnel](https://www.who.int/standards/classifications/frequently-asked-questions/burn-out-an-occupational-phenomenon).

@@ -1,5 +1,5 @@
 ---
-title: "Odile : participer à un collectif en gardant ses choix"
+title: Participer à un collectif en gardant ses choix
 date: 2026-11-03T09:10:00+00:00
 description: "Au quartier, Odile apporte une idée au programme commun. Elle cherche comment participer sans devoir être d’accord avec tout ni tout prendre."
 categories: ["Sortir de ses schémas répétitifs"]
@@ -74,7 +74,3 @@ Un collectif peut offrir des relations, des activités et une possibilité de co
 Observer la manière dont un groupe traite les différences peut aider à décider de la suite. Un désaccord n’impose pas de partir, mais la participation n’oblige pas à accepter l’humiliation ou une disponibilité illimitée. Vous pouvez proposer un essai, réviser un rôle ou chercher un autre espace. Les possibilités dépendent aussi des transports, du coût, de l’accessibilité et de l’accueil ; elles ne reposent pas uniquement sur votre aisance sociale.
 
 Si vous vous sentez durablement sans place, enfermé dans des obligations collectives ou privé de liens souhaités, un professionnel de proximité, un psychologue ou un médecin peut vous aider à examiner la situation. Un soutien peut porter sur les relations et sur les obstacles pratiques. Il n’a pas à vous rendre plus accommodant à tout prix, mais à élargir les choix disponibles dans votre vie actuelle.
-
-Sources :
-- [NIH, Social Wellness Toolkit](https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit)
-- [OMS, Mental health](https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response)

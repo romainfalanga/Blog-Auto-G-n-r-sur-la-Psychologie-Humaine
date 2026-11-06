@@ -100,5 +100,3 @@ La peur de ne pas dormir peut rendre le coucher semblable à une épreuve à ré
 Une nuit incomplète ne permet pas de juger sa valeur, et un exercice imparfait ne ferme pas les possibilités d'aide. L'objectif est de rendre la période de repos moins occupée par le contrôle, avec des attentes réalistes et une attention aux conditions qui restent modifiables.
 
 Si vos difficultés de sommeil durent, consultez un médecin. Un professionnel peut rechercher leurs causes et proposer un accompagnement adapté. En présence de somnolence dangereuse, la sécurité du trajet et du poste reste prioritaire, même lorsque vous espérez pouvoir tenir.
-
-Sources : [Inserm, insomnie](https://www.inserm.fr/dossier/insomnie/) ; [Assurance maladie, mieux dormir à l'âge adulte](https://www.ameli.fr/assure/sante/themes/insomnie-adulte/vivre-insomnie).

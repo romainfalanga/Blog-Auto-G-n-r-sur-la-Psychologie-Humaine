@@ -21,7 +21,7 @@ draft: false
     <p class="parcours-resume">L’air est lourd dans la salle de réunion. Stéphane, 45 ans, commercial grands comptes dans une multinationale, serre ses mains sur la table, sent son cœur battre un peu plus vite.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>L’air est lourd dans la salle de réunion. Stéphane, 45 ans, commercial grands comptes dans une multinationale, serre ses mains sur la table, sent son cœur battre un peu plus vite.</p>
+      <p>Stéphane propose de prendre le compte rendu pour jeudi et demande quel dossier décaler s’il faut le rendre dès le lendemain. Il attend la réponse du directeur.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/recherche-approbation-reconnaissance-travail/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

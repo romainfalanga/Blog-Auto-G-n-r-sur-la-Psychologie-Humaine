@@ -1,5 +1,5 @@
 ---
-title: "Élise : garder du jeu quand le programme change"
+title: Garder du jeu quand le programme change
 description: "Une salle fermée bouscule Élise. Elle cherche une réponse adaptée sans renoncer à ce qui compte ni prétendre apprécier l’imprévu."
 slug: elise-imprevu-souplesse
 date: 2026-10-01T09:00:00+02:00
@@ -13,6 +13,7 @@ contexte: "Une fuite rend la salle commune de la résidence indisponible avant u
 editorial_pack: psychology-v10
 episode: 1
 ---
+
 Élise tient la poignée de la salle commune quand Cédric l’appelle depuis le couloir. Une fuite a mouillé le plafond et la pièce doit rester fermée dans l’attente de l’intervention prévue. Sur sa feuille, les chaises sont déjà comptées, la rencontre des habitants commence à dix heures et le café doit arriver dans une demi-heure. Elle reste devant la porte avec ses clés à la main. À cinquante-quatre ans, elle connaît les incidents d’une résidence municipale. Cela ne l’empêche pas de penser aussitôt que toute la matinée est perdue. Elle pose une question technique, puis une deuxième, comme si une précision supplémentaire pouvait rendre la pièce disponible.
 
 Cédric lui explique ce qui est certain et ce qu’il attend encore. Élise entend sa réponse mais continue de regarder son programme. Elle a passé la veille à déplacer des rendez-vous pour cette rencontre. Plusieurs habitants doivent venir parler de leurs envies pour les espaces communs. Annuler lui paraît humiliant, improviser lui paraît peu sérieux. Entre ces deux idées, elle ne voit plus beaucoup de place. Elle sent surtout l’agacement de devoir prévenir tout le monde alors qu’elle avait enfin l’impression que les choses étaient prêtes. Elle range ses clés trop brusquement et remarque le bruit du trousseau contre le comptoir.
@@ -76,7 +77,3 @@ Un imprévu peut décevoir même lorsqu’une adaptation devient possible. Recon
 Pour commencer, une distinction suffit parfois : voici ce qui arrive, voici le verdict que j’ajoute, voici ce que je peux vérifier. Il reste ensuite à décider si l’on ajuste, si l’on demande de l’aide ou si l’on reporte. Aucune de ces réponses ne prouve à elle seule une force ou une faiblesse.
 
 Élise n’est pas devenue à l’aise avec tous les changements. Elle dispose seulement d’un repère qu’elle pourra oublier, retrouver et modifier. La prochaine rencontre demandera encore de la préparation. Cette préparation peut désormais contenir une place pour ce qu’elle ne sait pas encore.
-
-Sources :
-- [Organisation mondiale de la santé, Faire ce qui compte en période de stress](https://www.who.int/publications/i/item/9789240003927)
-- [NHS, Résolution de problèmes](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)

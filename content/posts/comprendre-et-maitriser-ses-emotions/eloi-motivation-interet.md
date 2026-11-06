@@ -90,5 +90,3 @@ La motivation peut mêler intérêt, sens, liens et besoins matériels. Éloi co
 Vous pouvez regarder ce qui vous attire dans une activité, ce qui compte pour vous et ce qui vous contraint. Ces dimensions peuvent coexister. Un essai limité peut préciser un intérêt, et une décision de repos peut éclairer une baisse d'élan. Vous n'avez pas à transformer chaque moment difficile en verdict sur votre vocation.
 
 Si la perte d'intérêt devient durable, touche de nombreuses activités ou s'accompagne d'une souffrance importante, un professionnel peut vous aider à comprendre ce qui se passe. Un formateur ou un interlocuteur du travail peut aussi agir sur les conditions concrètes. La motivation mérite d'être soutenue, pas seulement exigée.
-
-Sources : [Deci et Ryan, cadre de la théorie de l'autodétermination](https://selfdeterminationtheory.org/theory/) ; [Ryan et Deci, motivation et besoins psychologiques](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf).

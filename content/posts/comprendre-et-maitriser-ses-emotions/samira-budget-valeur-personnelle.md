@@ -1,5 +1,5 @@
 ---
-title: "Samira : parler d’un budget sans réduire sa valeur"
+title: Parler d’un budget sans réduire sa valeur
 date: 2026-09-17T08:00:00+00:00
 description: "Un échange sur les dépenses fait hésiter Samira. Elle cherche des mots précis pour parler de ses moyens sans se laisser définir par eux."
 slug: "samira-budget-valeur-personnelle"
@@ -98,7 +98,3 @@ Parler d’un budget peut toucher le besoin de respect et d’appartenance, surt
 Nommer la limite, distinguer l’émotion du jugement et vérifier l’accord rendent parfois l’échange plus clair. Ces gestes n’empêchent ni les désaccords ni les réactions blessantes. Ils aident surtout à ne pas accepter une dépense ou une charge supplémentaire pour prouver que l’on mérite d’être présent.
 
 Si ces conversations provoquent une honte durable, un retrait relationnel ou une détresse importante, un psychologue ou un autre professionnel de santé peut soutenir la réflexion. Pour les besoins matériels, un accompagnement adapté peut être recherché séparément. Le respect de soi ne remplace pas les ressources nécessaires pour vivre, mais ces ressources ne conditionnent pas le droit au respect.
-
-Sources :
-- [Crocker et Wolfe, modèle des conditions de la valeur personnelle](https://pubmed.ncbi.nlm.nih.gov/11488379/)
-- [CNCDH, précarité sociale et atteintes à la dignité](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000028048736)

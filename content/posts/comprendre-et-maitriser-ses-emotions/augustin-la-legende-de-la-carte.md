@@ -32,7 +32,11 @@ Il y a encore les trois couleurs à faire, et le vendredi l’atelier ouvre just
 
 ## La copie occupe une partie du cours
 
-Une tâche de copie peut prendre du temps et de l’attention au point de gêner l’accès à ce qui est expliqué en même temps. Le CDDR de l’OMS cite l’écriture manuscrite, les dessins de cartes et la prise de notes parmi les activités où les difficultés de coordination peuvent se manifester. Le trait bleu d’Augustin n’apprend rien sur sa compréhension des risques d’inondation. L’important ici est ce qu’il n’a pas entendu pendant qu’il s’occupait du tracé, puis le temps qu’il lui faudrait pour le rattraper. Safia peut lui passer la légende, ce qui l’aide pour cette page ; elle ne peut pas à elle seule lui rendre l’échange auquel il voulait participer.
+Une tâche de copie peut prendre du temps et de l’attention au point de gêner l’accès à ce qui est expliqué en même temps. Le CDDR de l’OMS cite l’écriture manuscrite, les dessins de cartes et la prise de notes parmi les activités où les difficultés de coordination peuvent se manifester.
+
+## Comment cette difficulté se manifeste
+
+Le trait bleu d’Augustin n’apprend rien sur sa compréhension des risques d’inondation. L’important ici est ce qu’il n’a pas entendu pendant qu’il s’occupait du tracé, puis le temps qu’il lui faudrait pour le rattraper. Safia peut lui passer la légende, ce qui l’aide pour cette page ; elle ne peut pas à elle seule lui rendre l’échange auquel il voulait participer.
 
 ## Conserver la question de géographie
 
@@ -41,9 +45,3 @@ Mme Besson peut garder l’objectif du cours et essayer une autre répartition d
 ## Le fleuve déjà imprimé
 
 Mme Besson sort un exemplaire qu’elle avait prévu pour un autre groupe. Le coude y est bleu foncé. Elle écrit en bas les deux termes à ajouter en début de séance suivante et lui demande de lui dire après le cours s’il a réussi à suivre la discussion. Augustin n’a plus à reprendre tout le tracé après l’atelier. Avant de fermer son sac, il demande de quel côté est son arrêt. L’enseignante lui montre la rue qui descend vers le fleuve. En suivant son doigt, Augustin repère le petit triangle juste à côté de l’arrêt. C’est la salle où ils vont jouer.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé, Guide parcours de santé de l’enfant avec troubles spécifiques du langage et des apprentissages (2017)](https://www.has-sante.fr/upload/docs/application/pdf/2018-01/guide_tsla_vf.pdf)
-- [Blank et al., recommandations cliniques internationales de l’EACD sur le trouble du développement de la coordination (2019)](https://onlinelibrary.wiley.com/doi/full/10.1111/dmcn.14132)

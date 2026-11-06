@@ -90,5 +90,3 @@ Après une erreur, la manière de se parler peut faciliter la réparation ou ajo
 Vous pouvez décrire l'événement, l'action nécessaire et l'information qui vous manque. Si vous vous retirez, regardez si ce moment vous repose ou rend le retour plus difficile. Un contact bref et choisi peut être suffisant pour retrouver une relation réelle, sans devoir obtenir une approbation générale ni raconter votre difficulté à tout le monde.
 
 Si l'autocritique, la honte ou le retrait deviennent persistants et vous font souffrir, un professionnel peut vous aider à les examiner. Les relations de travail et les paroles réellement reçues méritent aussi d'être prises en compte. Vous avez le droit de corriger une erreur, de demander un appui et de rester une personne digne de respect dans le même mouvement.
-
-Sources : [Breines et Chen, compassion envers soi et amélioration après une difficulté](https://pubmed.ncbi.nlm.nih.gov/22645164/) ; [Sheila Woody, étude clinique de l'attention centrée sur soi](https://pubmed.ncbi.nlm.nih.gov/8666712/).

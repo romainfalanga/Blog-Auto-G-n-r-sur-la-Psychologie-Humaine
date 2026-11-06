@@ -33,6 +33,8 @@ Elle commence à corriger la phrase comme s’il s’agissait d’une traduction
 
 Une invitation peut être bienvenue sans que la personne ait envie d’en faire un événement public. Blandine tient au groupe et aux traces du travail de Jeanne. Elle connaît sa propre hésitation à entrer dans la salle. L’idée de revenir un soir lui appartient ; la rédaction d’un programme donne à cette idée un autre poids. Elle pourrait se sentir tenue d’être présente ou de répondre à des questions auxquelles elle n’a encore rien décidé de dire.
 
+## Comment cette difficulté se manifeste
+
 Le chœur a vu ses absences et la retrouve autour de deux documents. Cette partie de sa vie ne suffit pas à rendre compte de son deuil ou de son suivi. Dans un échange avec un proche ou une professionnelle, Blandine peut dire ce qu’elle voudrait rendre possible dans cette salle. Dans l’échange sur le programme, elle peut se limiter à dire où elle consent à voir les deux noms et où elle ne le souhaite pas.
 
 ## Reprendre le texte avant son impression
@@ -44,8 +46,3 @@ La même distinction vaut pour l’essai de jeudi. Léon peut dire quand le grou
 ## Une ligne retirée avant impression
 
 Alice retire la phrase pendant leur appel. Sur son exemplaire, Blandine garde la fiche intérieure avec les deux noms, en attente de sa décision sur le don. Plus tard, Léon lui propose la fin de répétition jeudi, vers vingt heures, et indique qu’une chaise est disponible à côté de la porte, dans la salle. Blandine répond qu’elle verra sur place. Elle ne confirme rien de plus. Elle lui demande de commencer le morceau à l’heure prévue même si la chaise est vide.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS — Grief after bereavement or loss : vécu du deuil et soutien](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)

@@ -11,6 +11,8 @@ personnage: "Fabien"
 sujet: "biais du coût irrécupérable"
 contexte: "après une rupture amoureuse"
 draft: false
+editorial_sources:
+- https://www.sciencedirect.com/science/article/pii/0749597885900494
 ---
 
 Fabien vient de laisser Marine et Lucas chez leur mère. Au moment de partir, il a retenu la grille qui frotte sur le sol. Véronique avait proposé de la faire raboter la dernière fois qu’ils en avaient parlé. Ils s’étaient mis à comparer le prix de deux devis, puis il avait fallu aller chercher Lucas. Fabien pousse la grille de l’épaule pour la refermer. Elle passe encore si on la soulève un peu.
@@ -51,18 +53,14 @@ Imaginez votre vie dans un an, sans cette relation. Que voulez-vous construire p
 
 Vous pouvez couper certaines notifications ou ranger des archives si cela vous aide à choisir à quoi donner votre attention. Respectez une demande de non-contact. Des échanges nécessaires, par exemple pour l’organisation avec les enfants, peuvent rester dans un cadre convenu.
 
-## Le prochain dimanche
-
-Fabien efface le brouillon et garde la conversation ouverte. Il en aura encore besoin pour régler les vacances avec Véronique. Le soir, à l’appartement, il écrit le nom de Marine à côté de celui d’un film qu’ils avaient prévu de voir ensemble. Il lui demande si elle veut y aller dimanche. Elle a déjà quelque chose de prévu, mais lui propose le suivant.
-
-Il hésite encore à appeler Véronique une fois le téléphone posé. À défaut de décider ce qu’il fera les autres soirs, il range son manteau, prend un disque dans le carton et s’aperçoit que la platine n’est pas encore branchée.
-
-## Conclusion : un chemin possible pour vous aussi
+### Conclusion : un chemin possible pour vous aussi
 
 Le temps passé ensemble peut compter pour Fabien sans déterminer sa prochaine décision. Il peut revenir à la question plus tard et garder les échanges nécessaires à l’organisation de la famille.
 
 N’oubliez pas : faire ce travail demande du temps et de la douceur envers soi. Si la douleur devient trop intense, consulter un professionnel de la psychologie peut être un précieux soutien. Vous n’êtes pas seul(e).
 
+## Le prochain dimanche
 
+Fabien efface le brouillon et garde la conversation ouverte. Il en aura encore besoin pour régler les vacances avec Véronique. Le soir, à l’appartement, il écrit le nom de Marine à côté de celui d’un film qu’ils avaient prévu de voir ensemble. Il lui demande si elle veut y aller dimanche. Elle a déjà quelque chose de prévu, mais lui propose le suivant.
 
-Sources : [Arkes et Blumer, 1985](https://www.sciencedirect.com/science/article/pii/0749597885900494).
+Il hésite encore à appeler Véronique une fois le téléphone posé. À défaut de décider ce qu’il fera les autres soirs, il range son manteau, prend un disque dans le carton et s’aperçoit que la platine n’est pas encore branchée.

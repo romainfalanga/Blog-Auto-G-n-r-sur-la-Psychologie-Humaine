@@ -1,0 +1,52 @@
+{
+  "references": {
+    "nielsen-tnf-consensus": {
+      "title": "Nielsen et coll., consensus clinique sur la kinésithérapie des troubles moteurs fonctionnels",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4602268/"
+    },
+    "physio4fmd": {
+      "title": "Nielsen et coll., essai multicentrique Physio4FMD, The Lancet Neurology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38768621/"
+    },
+    "apa-dsm-tnf": {
+      "title": "American Psychiatric Association, note DSM-5-TR sur le trouble à symptomatologie neurologique fonctionnelle",
+      "url": "https://www.psychiatry.org/getmedia/c57b724e-7fc7-4082-bbbf-28b458709b51/APA-DSM5TR-FunctionalNeurologicalSymptomDisorder.pdf"
+    },
+    "apa-dsm-organisation": {
+      "title": "DSM-5-TR, chapitre sur les troubles à symptomatologie somatique et apparentés",
+      "url": "https://doi.org/10.1176/appi.books.9780890425787.x09_Somatic_Symptom_and_Related_Disorders"
+    },
+    "assurance-maladie-avc": {
+      "title": "Assurance Maladie, reconnaître les signes d’AVC et agir",
+      "url": "https://www.ameli.fr/assure/sante/urgence/pathologies/avc"
+    }
+  },
+  "dossier": {
+    "name": "Trouble neurologique fonctionnel",
+    "aliases": [
+      "Trouble dissociatif à symptômes neurologiques",
+      "Trouble à symptomatologie neurologique fonctionnelle",
+      "Symptômes neurologiques fonctionnels",
+      "Trouble de conversion",
+      "TNF",
+      "6B60"
+    ],
+    "references": [
+      "oms-cddr",
+      "nielsen-tnf-consensus",
+      "physio4fmd",
+      "apa-dsm-tnf",
+      "apa-dsm-organisation",
+      "assurance-maladie-avc"
+    ],
+    "points": [
+      "OMS CDDR, 6B60, p. 366 et pp. 371–372, et Nielsen et coll., passage sur les signes cliniques positifs. Le trouble comporte des symptômes neurologiques involontaires qui ont un retentissement fonctionnel. Dans la présentation motrice de Gaëlle, un signe recherché et interprété par son neurologue éclaire la différence entre certaines situations d’examen. Le raisonnement tient aussi compte de l’histoire et des autres causes possibles. Un résultat d’imagerie isolé, les fluctuations ordinaires et les observations d’un proche ne suffisent pas à établir le diagnostic.",
+      "OMS CDDR, 6B60, pp. 366–369 et 371–372. La famille comprend plusieurs présentations possibles, notamment motrices, sensorielles ou cognitives. La trajectoire de Gaëlle suit sa faiblesse fonctionnelle et ses difficultés de marche déjà évaluées. Un trouble neurologique fonctionnel peut coexister avec une autre affection. Le récit garde séparés les signes habituels de Gaëlle et le trouble de la parole nouveau, soudain et évalué en urgence.",
+      "OMS CDDR, 6B60, pp. 369–372, et Nielsen et coll., passage sur le modèle biopsychosocial. Les facteurs associés au début ou à la persistance des symptômes sont variables. Un événement traumatique peut jouer un rôle chez certaines personnes. Sa présence n’est pas requise et aucun événement ni aucune origine psychologique précise n’est attribué à Gaëlle. La gêne, l’irritation et le soulagement racontés sont des émotions vécues dans des situations concrètes.",
+      "L’OMS place la famille 6B60, trouble dissociatif à symptômes neurologiques, parmi les troubles dissociatifs. Dans le DSM-5-TR de l’APA, le trouble à symptomatologie neurologique fonctionnelle, suivi entre parenthèses de l’ancien nom de trouble de conversion, relève des troubles à symptomatologie somatique et apparentés. Ces regroupements distincts ne justifient ni transposition automatique des critères ni conclusion sur la cause d’un cas individuel.",
+      "Nielsen et coll., consensus clinique, et Physio4FMD, essai multicentrique. Un suivi peut faire intervenir plusieurs disciplines selon les symptômes, les priorités et la situation de la personne. Gaëlle discute ses objectifs et ses aménagements avec son kinésithérapeute et son neurologue. Les approches et leurs bénéfices varient. Dans Physio4FMD, l’intervention spécialisée n’a pas montré de supériorité significative sur le critère principal de fonctionnement physique à douze mois par rapport à la kinésithérapie neurologique habituelle. Le récit ne prescrit aucun exercice et son issue n’est pas une promesse de récupération.",
+      "Assurance Maladie, conduite à tenir devant des signes d’AVC ou d’AIT, et OMS CDDR, p. 372. Une difficulté soudaine à parler requiert une évaluation urgente même si elle disparaît. En France, l’appel au 15 ou au 112 permet une orientation sans attendre. Le diagnostic connu ne remplace pas cette démarche. Le récit ne tranche pas la cause de l’épisode aigu et conserve les consignes de suivi données à Gaëlle par son équipe."
+    ]
+  },
+  "direction": "Gaëlle, 38 ans, est potière bénévole et veut pouvoir accueillir des visiteurs à la journée portes ouvertes de son atelier. Sa faiblesse fonctionnelle et ses difficultés de marche ont déjà été évaluées en neurologie. Elle est suivie par le docteur Benali et fait le point avec Aïcha, sa kinésithérapeute. Lina, bénévole à l’atelier, connaît ses préférences. Rachid coordonne l’association et Maud, sa sœur, partage avec elle des activités hors de la poterie. Le parcours va du choix d’une assise au partage des responsabilités le jour de l’ouverture. Le récit distingue la réalité des symptômes, l’interprétation clinique des signes et l’incertitude sur les causes. Une difficulté de parole brutale appelle une réponse urgente et un suivi distincts. La reprise est un choix de Gaëlle, qui conserve son droit à l’aide, au repos, à la confidentialité et à des activités sans rapport avec les soins."
+}

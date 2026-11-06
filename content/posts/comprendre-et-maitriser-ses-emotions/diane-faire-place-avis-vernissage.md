@@ -30,7 +30,11 @@ Rémi sort un programme de sa poche et cherche les horaires du lendemain. Il pro
 
 ## Recevoir un avis et garder confiance dans son choix
 
-Quand on présente un objet auquel on a beaucoup pensé, un avis inattendu peut donner envie de justifier immédiatement chaque détail. Diane savait que le bord du bol aurait pu lui faire renoncer à l’exposition. La remarque sur la profondeur lui rappelle ce doute. La visiteuse lui montre aussi un effet qu’elle n’avait pas remarqué de cet endroit. Diane peut entendre ce regard, dire comment elle a fait la carafe et garder sa propre idée du bol. Elle a choisi de présenter les deux pièces parce qu’elle aimait les voir ensemble. La remarque lui donne un autre point de vue sur ce choix.
+Quand on présente un objet auquel on a beaucoup pensé, un avis inattendu peut donner envie de justifier immédiatement chaque détail. Diane savait que le bord du bol aurait pu lui faire renoncer à l’exposition. La remarque sur la profondeur lui rappelle ce doute. La visiteuse lui montre aussi un effet qu’elle n’avait pas remarqué de cet endroit.
+
+## Comment cette difficulté se manifeste
+
+Diane peut entendre ce regard, dire comment elle a fait la carafe et garder sa propre idée du bol. Elle a choisi de présenter les deux pièces parce qu’elle aimait les voir ensemble. La remarque lui donne un autre point de vue sur ce choix.
 
 ## Garder des rendez-vous pour des choses différentes
 
@@ -39,8 +43,3 @@ Un suivi peut rester utile après un épisode psychotique alors même que des ac
 ## Dimanche, après le marché
 
 Diane demande à Maud si elle peut récupérer les pièces après le marché, au lieu de venir à la première heure. Maud dit qu’elle sera dans la salle jusqu’à midi. Rémi propose de ramener un sac assez grand pour tenir la carafe debout. Diane lui montre le bol et lui dit qu’elle hésite à s’en servir pour les poires. Elle l’imagine sur le plan de travail, à côté de la bouilloire, puis l’imagine déjà rempli de clés. Elle lui demande de choisir au marché des poires assez petites pour qu’on continue de voir le bleu.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG178, évaluation et accompagnement après un premier épisode psychotique chez l’adulte](https://www.nice.org.uk/guidance/cg178/evidence/full-guideline-pdf-490503565)

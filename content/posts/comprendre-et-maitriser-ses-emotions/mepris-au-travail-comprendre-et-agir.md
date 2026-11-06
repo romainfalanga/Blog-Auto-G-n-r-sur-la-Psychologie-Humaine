@@ -11,6 +11,9 @@ personnage: "Fabien"
 sujet: "mépris"
 contexte: "au travail"
 draft: false
+editorial_sources:
+- https://www.inrs.fr/risques/harcelements-violences-internes/ce-qu-il-faut-retenir.html
+- https://doi.org/10.1007/BF00995675
 ---
 
 Le néon du bureau de l'usine scintille avec un bourdonnement électrique agaçant ce matin-là. Fabien ajuste ses lunettes, les yeux fixés sur le compte-rendu de réunion qu'il vient de recevoir. En face de lui, assis de travers sur une chaise en plastique, un jeune consultant externe termine sa phrase par un petit claquement de langue sec. Le regard du jeune homme glisse sur le pull col roulé de Fabien, s'arrête une seconde sur ses cheveux poivre et sel, puis repart vers l'écran d'un air dédaigneux. Fabien sent une pointe d'acidité monter dans sa poitrine, une sensation qu'il connaît trop bien mais qu'il a longtemps étouffée sous des couches de professionnalisme.
@@ -70,5 +73,3 @@ Le mépris au travail est un défi de taille, surtout pour ceux qui, comme Fabie
 En apprenant à distinguer votre valeur réelle des projections dédaigneuses d'autrui, vous créez un espace de sécurité intérieure indispensable. Que ce soit par le biais de techniques de communication ou par un travail profond sur vos héritages émotionnels, il est possible de transformer ces interactions toxiques en opportunités de croissance. Le chemin est exigeant, mais il mène vers une authenticité qui ne dépend plus du regard de l'autre.
 
 Si des faits se répètent ou si vous craignez des représailles, vous n’avez pas à confronter seul la personne. Notez, si vous le pouvez, les faits précis et les dates, et demandez conseil au service de prévention et de santé au travail ou à un représentant du personnel. L’organisation a aussi un rôle de prévention et de réponse.
-
-Sources : [INRS, harcèlement moral et violence interne](https://www.inrs.fr/risques/harcelements-violences-internes/ce-qu-il-faut-retenir.html) ; [Russell, expérience sur le rôle du contexte](https://doi.org/10.1007/BF00995675).

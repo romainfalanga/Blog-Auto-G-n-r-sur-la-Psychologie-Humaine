@@ -11,6 +11,8 @@ personnage: "Fabien"
 sujet: "parentification"
 contexte: "avec ses parents"
 draft: false
+editorial_sources:
+- https://www.tandfonline.com/doi/full/10.1080/01926187.2010.531652
 ---
 
 Le père de Fabien a repoussé son assiette pour déplier une lettre. Quand il tend le bras vers les factures, Fabien se lève. Il apporte l’enveloppe et commence à classer les feuilles par date. Son père suit du doigt une ligne de la première et lui dit qu’il voudrait comprendre d’où vient la somme. Fabien a déjà sorti deux autres courriers. Il pense au temps que lui prendront les appels s’il les fait demain pendant sa pause.
@@ -68,5 +70,3 @@ Fabien apprend à discuter de l’aide qu’il peut offrir. Une difficulté pré
 Poser une limite peut soulever des sentiments mêlés. La culpabilité n’est ni la preuve d’un rôle ancien ni la preuve que la limite est mauvaise. Quand un proche a de véritables besoins d’aide, ces besoins peuvent aussi être discutés avec lui et avec des services adaptés.
 
 Si vous sentez que ce poids est trop lourd à porter seul ou que ces schémas bloquent votre épanouissement personnel et amoureux, un accompagnement par un professionnel de la psychologie peut être utile. Un thérapeute pourra vous aider à dénouer ces liens complexes et à retrouver votre juste place au sein de votre histoire familiale.
-
-Sources : [Hooper et al., développement d’un outil de recherche sur la parentification](https://www.tandfonline.com/doi/full/10.1080/01926187.2010.531652).

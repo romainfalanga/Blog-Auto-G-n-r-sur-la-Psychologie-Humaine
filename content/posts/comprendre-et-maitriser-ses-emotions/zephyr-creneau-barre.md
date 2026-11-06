@@ -33,7 +33,11 @@ Cette fois elle vient le chercher pour le dépôt à la banque. Il avait promis 
 
 Dans le trouble schizotypique, des soupçons et des difficultés relationnelles peuvent se prolonger au-delà d’un échange. L’effet se voit ici dans l’après-midi que Zéphyr passe à reprendre la scène et dans son envie de se retirer. Le musée a réellement modifié le planning. L’intention que Zéphyr y lit reste à éclaircir avec Maud.
 
-Une information incomplète peut faire naître une interprétation qui finit par sembler aussi sûre que le fait de départ. Zéphyr a vu une ligne barrée ; il n’a pas entendu quelqu’un décider de l’exclure. La remarque sur la place, faite à un autre moment, prend pourtant pour lui la valeur d’une explication. Avant qu’il ait posé une question, elle a déjà changé deux choses : sa façon d’aborder Maud et ce qu’il fait de son projet.
+Une information incomplète peut faire naître une interprétation qui finit par sembler aussi sûre que le fait de départ.
+
+## Comment cette difficulté se manifeste
+
+Zéphyr a vu une ligne barrée ; il n’a pas entendu quelqu’un décider de l’exclure. La remarque sur la place, faite à un autre moment, prend pourtant pour lui la valeur d’une explication. Avant qu’il ait posé une question, elle a déjà changé deux choses : sa façon d’aborder Maud et ce qu’il fait de son projet.
 
 Une méfiance persistante et le retrait des échanges font partie des difficultés qui peuvent être présentes dans le trouble schizotypique. Le guide de la CIM-11 les situe dans un ensemble durable et tient compte de leur retentissement. Une réaction devant un planning ne permet à elle seule aucune conclusion. Il arrive aussi qu’une équipe se parle mal ou oublie de transmettre une information. Dans le hall, ces deux questions restent ouvertes.
 
@@ -46,8 +50,3 @@ L’inquiétude peut rester après la réponse. Dans un suivi, reprendre la scè
 ## Remettre un tabouret debout
 
 « Est-ce qu’on a retiré mon essai ? » Maud lui montre la feuille posée à côté du téléphone. Le créneau du vendredi a sauté parce que la visite des écoles occupe la salle ; elle a barré la ligne avant de transmettre le changement. Le projet reste à présenter au bureau de l’association. « J’aurais dû venir te le dire. » Zéphyr attend un peu avant de lui rendre la feuille. Il est encore contrarié. Ils conviennent qu’elle lui laissera un mot quand une date bouge. Jeudi, l’atelier pourra recevoir un seul adulte pour voir si sa démonstration est compréhensible avant d’en parler au bureau. Zéphyr lui donne l’accord pour inviter Loïc, un habitué du musée, puis soulève la bâche d’un côté.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Mayo Clinic, schizotypie : évaluation, psychothérapies et accompagnement](https://www.mayoclinic.org/diseases-conditions/schizotypal-personality-disorder/diagnosis-treatment/drc-20353924)

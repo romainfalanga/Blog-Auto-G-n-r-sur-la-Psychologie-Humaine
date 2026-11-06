@@ -33,7 +33,11 @@ Mercredi, il reverra Sonia. Depuis le point médical, il a repris quelques sorti
 
 Zéphyr se repose avec plaisir à l’établi. Après les sons qui l’ont effrayé, il a aussi renoncé à des sorties qu’il aurait aimé faire. Le trouble schizotypique peut s’accompagner de retrait. Pour parler de son retentissement, Zéphyr et son équipe ont besoin de savoir à quel moment la solitude correspond à un choix et à quel moment elle lui coûte quelque chose.
 
-Le temps qu’on choisit de passer avec les autres dépend aussi de ce qu’on souhaite pouvoir faire avant et après. Zéphyr veut transmettre un geste qu’il aime. Il tient aussi à ses matinées à l’établi, à ses sorties et au temps qu’il retrouve avec Agnès. Après une séance réussie, il peut dire quels engagements lui permettraient de retrouver ce plaisir le mois suivant. Pour Basile, cela précise aussi ce qui peut être annoncé au public.
+Le temps qu’on choisit de passer avec les autres dépend aussi de ce qu’on souhaite pouvoir faire avant et après.
+
+## Comment cette difficulté se manifeste
+
+Zéphyr veut transmettre un geste qu’il aime. Il tient aussi à ses matinées à l’établi, à ses sorties et au temps qu’il retrouve avec Agnès. Après une séance réussie, il peut dire quels engagements lui permettraient de retrouver ce plaisir le mois suivant. Pour Basile, cela précise aussi ce qui peut être annoncé au public.
 
 Les difficultés liées au trouble schizotypique peuvent varier dans leur intensité. Zéphyr garde avec son équipe la possibilité de parler des perceptions qui l’inquiètent et de leurs effets sur ses journées. Le goût qu’il a pour le calme de l’atelier mérite aussi d’être entendu comme une préférence. Il peut en tenir compte quand il choisit ce qu’il veut proposer.
 
@@ -46,8 +50,3 @@ Chez Agnès, les décisions sont plus petites. Elle peut proposer une sortie, et
 ## Deux dates, une place au comptoir
 
 Zéphyr écrit à Basile qu’il propose une matinée par mois, dans la petite salle, avec le temps d’essai qu’ils viennent de trouver. Après vérification des permanences, Maud et Mounir confirment les deux dates espacées. Basile remplit les deux cases du programme et leur donne rendez-vous après la seconde pour voir la suite. Zéphyr se charge de remettre la fiche au comptoir. Il laisse une place pour que Maud ajoute le nom de la personne à prévenir si l’horaire change. La veille de son rendez-vous avec Sonia, il retrouve le papier du centre et le range avec les heures qu’il a notées. Agnès lui envoie un message. Le vendeur de poires sera là samedi. Il lui répond qu’il viendra avec son sac.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Mayo Clinic, schizotypie : évaluation, psychothérapies et accompagnement](https://www.mayoclinic.org/diseases-conditions/schizotypal-personality-disorder/diagnosis-treatment/drc-20353924)

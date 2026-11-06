@@ -11,6 +11,9 @@ personnage: "Fabien"
 sujet: "les positions de vie (+/+, +/-, -/+, -/-)"
 contexte: "au travail"
 draft: false
+editorial_sources:
+- https://journals.sagepub.com/doi/10.1177/036215377100100409
+- https://www.inrs.fr/risques/harcelements-violences-internes/ce-qu-il-faut-retenir.html
 ---
 
 Julie lui répond pendant qu’il cherche la deuxième pièce jointe. Dans l’atelier, elle ne voit pas comment appliquer la directive. Fabien n’a d’abord lu que « Je ne vois pas comment ». Il ouvre un brouillon avec la formule qu’il emploie quand un dossier se tend : « Je suis désolé de vous imposer ce changement. » Il est sur le point de lui promettre un délai qu’il n’a pas le pouvoir d’accorder.
@@ -66,5 +69,3 @@ Le voyage vers une meilleure compréhension de soi est jalonné de ces victoires
 Ces mécanismes sont souvent ancrés dans notre histoire personnelle et leur transformation demande du temps. L'important est de cultiver une curiosité bienveillante envers votre propre fonctionnement, comme Fabien le fait avec courage. Chaque fois que vous choisissez la position gagnant et gagnant, vous honorez votre valeur et celle de ceux qui vous entourent.
 
 Si vous sentez que certains schémas répétitifs sont trop pesants ou difficiles à modifier seul, l'aide d'un professionnel de la psychologie peut être bénéfique. Un accompagnement thérapeutique offre l'espace nécessaire pour explorer ces racines et construire des relations plus saines dans tous les domaines de votre vie.
-
-Sources : [Ernst, The OK Corral, 1971](https://journals.sagepub.com/doi/10.1177/036215377100100409) ; [INRS, harcèlement moral et violence interne](https://www.inrs.fr/risques/harcelements-violences-internes/ce-qu-il-faut-retenir.html).

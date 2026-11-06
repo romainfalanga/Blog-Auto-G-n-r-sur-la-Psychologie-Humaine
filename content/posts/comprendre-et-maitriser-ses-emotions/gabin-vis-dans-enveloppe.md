@@ -32,7 +32,11 @@ Il ouvre le rabat et fait glisser la vis sur le bois. Il demande si l’atelier 
 
 ## Garder un accès au suivi après la période aiguë
 
-Après une reprise du jeu ou une crise, un suivi peut être repris ou adapté selon les besoins de la personne. Le NICE recommande que l’accès au soutien reste possible et que les appuis pour les conséquences du jeu soient discutés avec elle. Gabin a repris rendez-vous avec le service et posé une question sur la sécurité. Il peut aussi demander comment les professionnels qu’il a rencontrés vont se coordonner, selon son accord et sa situation. La suite clinique et le point sur ses finances ont leurs interlocuteurs. Il peut exprimer ses préférences, dire ce qui lui paraît encore difficile et vérifier quand il aura une prochaine réponse.
+Après une reprise du jeu ou une crise, un suivi peut être repris ou adapté selon les besoins de la personne. Le NICE recommande que l’accès au soutien reste possible et que les appuis pour les conséquences du jeu soient discutés avec elle.
+
+## Comment cette difficulté se manifeste
+
+Gabin a repris rendez-vous avec le service et posé une question sur la sécurité. Il peut aussi demander comment les professionnels qu’il a rencontrés vont se coordonner, selon son accord et sa situation. La suite clinique et le point sur ses finances ont leurs interlocuteurs. Il peut exprimer ses préférences, dire ce qui lui paraît encore difficile et vérifier quand il aura une prochaine réponse.
 
 ## Choisir une tâche qui tient dans la journée
 
@@ -43,8 +47,3 @@ Nora n’a pas à accompagner cette reprise. Si elle veut des nouvelles, elle pe
 ## La chaise près du passage
 
 Gabin replace la vis et demande à la bénévole de vérifier avec lui que la chaise tient correctement. Ils en mettent deux côte à côte pour voir combien de place elles prennent. La bénévole lui propose de venir une heure avant le repas pour les disposer. Il accepte de vérifier son horaire à la cuisine et lui donne le jour où il répondra. Avant de repartir, il laisse la chaise à l’endroit où elle pourra être prise sans déplacer les autres.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG248, repérage et accompagnement des dommages liés aux jeux d’argent](https://www.nice.org.uk/guidance/ng248/chapter/recommendations)

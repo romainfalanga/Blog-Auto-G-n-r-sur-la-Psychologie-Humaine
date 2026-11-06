@@ -33,6 +33,8 @@ Elle retrouve dans sa poche le bout de papier vert qu’elle avait apporté à l
 
 Une émotion intense peut rendre difficile de suivre tout ce qui se passe dans un échange. Dans un profil borderline, les professionnels peuvent s’intéresser à des réactions émotionnelles qui reviennent et à leurs effets dans plusieurs contextes. Dans la cour du festival, deux documents indiquent des lieux différents et un reproche a été prononcé devant d’autres personnes. Il y a un problème de livraison à traiter et une relation de travail à reprendre.
 
+## Comment cette difficulté se manifeste
+
 Mina peut reconnaître ce qu’elle a dit et entendre ensuite la version de Rachid. Elle peut également dire que sa remarque l’a blessée. Elle ne connaît pas son intention. Son envie d’interrompre la conversation peut lui donner un repère pour demander un temps avant de décider ce qu’elle veut faire de ce désaccord.
 
 ## Faire passer la tâche pendant la pause
@@ -44,8 +46,3 @@ Mina peut aussi apporter cette scène au suivi, en précisant ce qui l’a aidé
 ## Le numéro au dos du planning
 
 La collègue trouve le numéro derrière le planning et appelle depuis le local. Mina entend que les tables seront déposées à l’endroit confirmé par la coordination. Quand le conducteur revient pour récupérer sa fiche, elle lui tient la porte. Elle ne reprend pas encore la discussion devant lui. À Rachid, elle envoie un message pour proposer de regarder les deux fiches à seize heures. Il répond qu’il a un autre rendez-vous à ce moment-là. Mina le laisse proposer un horaire et va coller l’étiquette qu’on attend sur la première table.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG78, accompagnement des personnes présentant un profil borderline](https://www.nice.org.uk/guidance/cg78/chapter/Recommendations)

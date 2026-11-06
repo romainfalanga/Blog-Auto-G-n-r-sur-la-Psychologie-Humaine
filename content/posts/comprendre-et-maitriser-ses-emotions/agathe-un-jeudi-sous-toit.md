@@ -32,7 +32,11 @@ Agathe barra son trajet sur le coin du plan. « Je peux dire où on part. Après
 
 ## Ce qui change quand le contexte change
 
-Dans le trouble développemental du langage, une difficulté peut redevenir visible lorsque la situation impose davantage de travail de compréhension ou de formulation. Agathe avait préparé un trajet qu’elle pouvait montrer dans le jardin. La nouvelle annonce lui demande de distinguer ce qui est déplacé, ce qui est reporté et ce que les adultes feront. Elle retient deux mots et ne parvient pas à les relier tout de suite. Le changement de lieu explique une partie de l’effort : elle ne peut plus regarder le banc pour imaginer l’arrivée. Les appuis essayés au cabinet ou au jardin restent des possibilités. C’est à l’école de les adapter à cette nouvelle annonce avec Agathe et les autres élèves.
+Dans le trouble développemental du langage, une difficulté peut redevenir visible lorsque la situation impose davantage de travail de compréhension ou de formulation. Agathe avait préparé un trajet qu’elle pouvait montrer dans le jardin. La nouvelle annonce lui demande de distinguer ce qui est déplacé, ce qui est reporté et ce que les adultes feront.
+
+## Comment cette difficulté se manifeste
+
+Elle retient deux mots et ne parvient pas à les relier tout de suite. Le changement de lieu explique une partie de l’effort : elle ne peut plus regarder le banc pour imaginer l’arrivée. Les appuis essayés au cabinet ou au jardin restent des possibilités. C’est à l’école de les adapter à cette nouvelle annonce avec Agathe et les autres élèves.
 
 ## Remettre les décisions dans l’ordre
 
@@ -41,9 +45,3 @@ On peut d’abord rendre la décision de Camille explicite : le jardin est ferm�
 ## Le portillon sur la table
 
 À la salle de lecture, Mme Roussel déplaça une pile de revues pour libérer une table. Agathe choisit une place pour le grand plan et marqua le départ d’un petit morceau de carton debout. « Le portillon », dit-elle à Inès, qui le regarda de travers. Agathe inclina le carton : maintenant on pouvait voir les barreaux. Elles convinrent qu’Inès distribuerait les copies, que Camille montrerait la boîte et qu’Agathe commencerait le trajet. Quand les questions viendraient, elles poseraient la question des fleurs à côté du plan. Avant de fermer son sac, Agathe glissa son petit papier « laquelle d’abord ? » dans la poche de devant.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé, Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2822893/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages)
-- [American Speech-Language-Hearing Association, Spoken Language Disorders](https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/)

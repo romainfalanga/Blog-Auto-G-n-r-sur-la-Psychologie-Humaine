@@ -30,11 +30,15 @@ Maud a fermé l’appartement en sortant et l’a dit à Noémie. Sur le chemin,
 
 ## Soutenir une personne quand la réponse a déjà été donnée
 
-Maud peut répondre à la situation et à la personne de deux façons différentes. L’information pratique a déjà été transmise quand elles sont sorties. L’inquiétude de Noémie, elle, est toujours présente. Maud peut l’entendre sans ajouter un récit détaillé du bruit de la porte ou un nouveau contrôle. L’accord a été préparé au calme avec la clinicienne. Le rôle de Maud se limite à ce qu’elle a accepté et à ce que Noémie a choisi de lui demander.
+Maud peut répondre à la situation et à la personne de deux façons différentes. L’information pratique a déjà été transmise quand elles sont sorties. L’inquiétude de Noémie, elle, est toujours présente. Maud peut l’entendre sans ajouter un récit détaillé du bruit de la porte ou un nouveau contrôle. L’accord a été préparé au calme avec la clinicienne.
 
-Une telle décision tient à leur situation. D’autres demandes concernent des faits nouveaux ou des responsabilités réelles. Si la serrure casse ou si Maud a oublié une clé, elles peuvent se communiquer l’information et chercher une solution adaptée. Les décisions qui touchent au soin peuvent être réexaminées avec la clinicienne. Maud garde son rôle de partenaire, avec ses propres envies, son temps et la possibilité d’expliquer qu’une partie de l’accord lui demande trop.
+## Le besoin d’entendre de nouveau que la porte est fermée
+
+Maud a fermé l’appartement et l’a dit à Noémie en sortant. Pourtant, sur le chemin, Noémie dit qu’elle a de nouveau envie de demander si la porte est bien fermée. Dans la file du cinéma, elle voudrait encore entendre un détail sur la poignée. C’est le même épisode de fermeture qui l’occupe aux deux moments. La première réponse ne fait pas disparaître l’envie d’obtenir une nouvelle confirmation, alors même que Noémie veut continuer vers le film.
 
 ## Laisser un choix après le moment difficile
+
+L’accord porte sur cette demande répétée, dans les limites de ce que Noémie souhaite et de ce que Maud accepte. Si un fait nouveau survient, par exemple une serrure cassée ou une clé oubliée, elles peuvent se donner l’information et chercher une solution. Elles peuvent revoir l’accord avec la clinicienne si une partie devient trop difficile à tenir.
 
 Noémie peut ressentir de la gêne quand Maud rappelle ce qu’elles ont prévu. Elle peut dire qu’elle préfère quelques instants sans discussion, qu’elle aimerait marcher ensemble ou qu’elle ne veut plus aller au cinéma ce soir. Le billet n’est pas un engagement de soin. Maud a aussi le droit de vouloir voir le film et de décider avec Noémie comment elles s’organisent. Leur envie de sortir leur appartient, même si la difficulté se présente sur le trajet.
 
@@ -43,8 +47,3 @@ Après coup, Noémie souhaite dire à la clinicienne que le silence à côté de
 ## Elles partent à pied
 
 Au feu suivant, Noémie demande à Maud de marcher avec elle jusqu’à la salle. Elle n’a plus envie qu’on lui tienne le bras. Dans la file, elle voudrait encore une précision sur la poignée. Maud lui montre l’annonce du festival imprimée au dos de leur billet. Noémie prend son billet, puis lui raconte ce qu’il reste de l’affiche. Quand elles sortent du cinéma, elles sont d’accord sur un point. La chaise de jardin était le meilleur accessoire du film.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG31, prise en charge du TOC](https://www.nice.org.uk/guidance/cg31/chapter/Recommendations)

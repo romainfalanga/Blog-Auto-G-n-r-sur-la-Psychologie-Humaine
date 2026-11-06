@@ -21,7 +21,7 @@ draft: false
     <p class="parcours-resume">Djamila traverse le couloir sans allumer. Adam dort. Sous sa porte, la veilleuse découpe un rectangle orange que Djamila enjambe, comme si elle risquait de le réveiller en marchant dessus.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Le deuil peut être très douloureux et coexister avec les suites de violences. Il est possible de demander de l’aide dès que la souffrance pèse sur la vie quotidienne.</p>
+      <p>Après le groupe de parole, Djamila note un souvenir de sa grand-mère et le sursaut au bruit du portail. Elle garde les deux pour son rendez-vous avec le médecin.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/stress-post-traumatique-complexe-deuil/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

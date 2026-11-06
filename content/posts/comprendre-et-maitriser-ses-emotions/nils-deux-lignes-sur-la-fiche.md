@@ -29,7 +29,11 @@ Nils regarde le basilic qui s’éloigne dans un sac de toile. Il voudrait racon
 
 ## Perdre le fil au milieu du bruit
 
-Les difficultés d’attention peuvent faire partie du vécu d’une personne qui a une schizophrénie. Elles n’ont ni la même place ni la même intensité chez tout le monde. Dans la pépinière, un chariot couvre des mots que n’importe qui pourrait manquer. Nils remarque aussi l’effort qu’il lui faut pour retrouver une phrase dès que plusieurs voix arrivent ensemble. Il connaît cet effort et sait qu’une consigne brève ou un mot écrit peut lui donner un point de reprise.
+Les difficultés d’attention peuvent faire partie du vécu d’une personne qui a une schizophrénie. Elles n’ont ni la même place ni la même intensité chez tout le monde. Dans la pépinière, un chariot couvre des mots que n’importe qui pourrait manquer.
+
+## Comment cette difficulté se manifeste
+
+Nils remarque aussi l’effort qu’il lui faut pour retrouver une phrase dès que plusieurs voix arrivent ensemble. Il connaît cet effort et sait qu’une consigne brève ou un mot écrit peut lui donner un point de reprise.
 
 Son diagnostic a été posé avant cette histoire. Il éclaire certains aspects de son expérience, dont il peut parler en suivi, sans expliquer tout ce qui se passe ce matin. Il sait poser une question de jardinage, choisir un exemple et remarquer une réponse trop rapide. Ce qui manque à cet instant, c’est la fin de la phrase de la cliente. Elle peut la lui redire.
 
@@ -42,9 +46,3 @@ Sur le banc, Maud peut lui donner deux informations concrètes : le temps dispon
 ## La fiche dans la poche
 
 Aïcha vient chercher le total. Nils déchire la fiche en deux le long du pli et lui tend le haut. Sur le bas, à côté de « balcon », il écrit « quand arroser ? ». Dehors, Maud l’attend avec la chaussette qui dépasse de son sac. Il lui demande si elle peut garder son idée d’arrosoir pour une autre fois. Il voudrait commencer par la question, sans rien dessous. Maud lui propose le mardi, quand le studio est libre après les annonces. Il accepte l’essai, replie le papier une deuxième fois et le glisse derrière sa carte de bus.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE, psychose et schizophrénie chez l’adulte (CG178)](https://www.nice.org.uk/guidance/cg178/chapter/recommendations)
-- [OMS, fiche d’information sur la schizophrénie](https://www.who.int/news-room/fact-sheets/detail/schizophrenia)

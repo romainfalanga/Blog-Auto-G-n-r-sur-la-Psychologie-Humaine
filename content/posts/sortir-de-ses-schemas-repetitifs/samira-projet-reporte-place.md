@@ -1,5 +1,5 @@
 ---
-title: "Samira : faire une place à un projet longtemps reporté"
+title: Faire une place à un projet longtemps reporté
 date: 2026-09-19T08:00:00+00:00
 description: "Un atelier de dessin attire Samira. Elle cherche une première expérience compatible avec ses moyens, sans transformer son envie en obligation."
 slug: "samira-projet-reporte-place"
@@ -98,7 +98,3 @@ Un projet reporté ne révèle pas nécessairement une envie trop faible. Il peu
 Décrire l’envie, vérifier une occasion réelle et donner à l’essai une fin sans verdict peuvent préserver la curiosité. La petite étape ne doit pas servir à minimiser les obstacles ni à faire de chaque moment libre une obligation de progrès. Une activité personnelle peut avoir de la valeur sans devenir une performance supplémentaire.
 
 Si toute envie semble durablement inaccessible ou si la détresse occupe l’ensemble du quotidien, un médecin ou un psychologue peut offrir un accompagnement. Un professionnel social peut aussi aider à rechercher des ressources locales selon la situation. L’espace personnel se soutient mieux lorsque les besoins essentiels et les contraintes réelles sont pris au sérieux.
-
-Sources :
-- [Peter Gollwitzer, article sur les intentions de mise en œuvre](https://www.socmot.uni-konstanz.de/publications/implementation-intentions-strong-effects-simple-plans)
-- [Gollwitzer et Sheeran, présentation des plans associés à des situations repérables](https://dccps.nci.nih.gov/BRP/constructs/implementation_intentions/goal_intent_attain.pdf)

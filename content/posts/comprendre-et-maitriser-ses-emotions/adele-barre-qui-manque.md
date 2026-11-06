@@ -31,7 +31,11 @@ La personne qui montre le métier a accepté qu’Inès enregistre le bruit de l
 
 ## L’effort du repas peut prendre la place de la conversation
 
-L’ARFID peut gêner la participation aux repas partagés et aux activités qui s’organisent autour d’eux. Selon les personnes et les moments, manger avec d’autres peut faire partie de ce que l’on souhaite, et un endroit plus calme peut aider quand l’environnement devient difficile. Le même appui n’a pas à être choisi chaque fois. À midi, Adèle a pu prendre son repas dans le cadre prévu avec le groupe. Elle a aussi dû faire un effort pour retrouver le fil de la conversation. Ces deux aspects peuvent être entendus ensemble lorsqu’elle en reparlera avec l’équipe.
+L’ARFID peut gêner la participation aux repas partagés et aux activités qui s’organisent autour d’eux. Selon les personnes et les moments, manger avec d’autres peut faire partie de ce que l’on souhaite, et un endroit plus calme peut aider quand l’environnement devient difficile. Le même appui n’a pas à être choisi chaque fois.
+
+## Comment cette difficulté se manifeste
+
+À midi, Adèle a pu prendre son repas dans le cadre prévu avec le groupe. Elle a aussi dû faire un effort pour retrouver le fil de la conversation. Ces deux aspects peuvent être entendus ensemble lorsqu’elle en reparlera avec l’équipe.
 
 Le choix de rejoindre la table commune n’annonce pas celui du soir. Les accompagnateurs peuvent conserver les autres modalités convenues et demander à Adèle ce qui a été possible seulement lorsqu’ils ont un moment pour parler à part. Le suivi garde ses propres repères, au-delà de ce qu’un camarade pourrait remarquer pendant le déjeuner.
 
@@ -44,9 +48,3 @@ Au moment de reprendre sa bande blanche, Adèle a une décision à prendre : mon
 ## Garder l’ombre
 
 Adèle retourne la bande blanche et trace les deux montants. À la place du troisième, elle dessine une barre qui s’arrête un peu avant le bord. Inès l’appelle pour écouter le début de sa prise. On entend un frottement, un silence bref, puis le claquement du métier. Adèle demande qu’elle garde le frottement. Elle inscrit dans la marge de sa bande, en tout petit : « Vu du bout de la ligne. »
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Maudsley Centre for Child and Adolescent Eating Disorders (NHS) — ARFID Service Frequently Asked Questions](https://mccaed.slam.nhs.uk/wp-content/uploads/2022/12/ARFID-Service-FAQs-Dec-22.pdf)
-- [Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust — ARFID: Creating supportive mealtimes](https://www.cntw.nhs.uk/resources/avoidant-restrictive-food-intake-disorder-arfid-simple-suggestions-series-creating-supportive-mealtimes)

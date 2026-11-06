@@ -31,7 +31,11 @@ Maud arrive avec la photo pour la lettre et le planning du mardi. Hélène fait 
 
 ## Garder le choix du soutien après l’essai
 
-Le fait qu’un appui ait été utile une fois ne détermine pas celui qu’il faudra la prochaine fois. L’OMS décrit, dans le TDI, des besoins de soutien qui peuvent changer selon le contexte et les circonstances de vie. Hélène a désormais deux plans pour rejoindre le dépôt. Elle a fait le détour depuis Tannerie et peut choisir l’aide qu’elle souhaite si la déviation continue. Cela n’empêche pas de revenir au trajet de Verrerie quand l’arrêt rouvrira.
+Le fait qu’un appui ait été utile une fois ne détermine pas celui qu’il faudra la prochaine fois. L’OMS décrit, dans le TDI, des besoins de soutien qui peuvent changer selon le contexte et les circonstances de vie.
+
+## Comment cette difficulté se manifeste
+
+Hélène a désormais deux plans pour rejoindre le dépôt. Elle a fait le détour depuis Tannerie et peut choisir l’aide qu’elle souhaite si la déviation continue. Cela n’empêche pas de revenir au trajet de Verrerie quand l’arrêt rouvrira.
 
 La HAS conseille d’ajuster les appuis avec la personne et de vérifier les renseignements qui lui permettent de se projeter. Le planning ne lui dit rien sur les travaux. Maud peut lui confirmer quelle ligne du plan correspond au mardi et lui demander si le contact prévu est encore disponible. Hélène peut choisir d’appeler avant de monter ou de convenir d’un rendez-vous à la boîte à livres.
 
@@ -46,9 +50,3 @@ Maud peut garder une trace des emplacements choisis et du moment où l’équipe
 Maud reprend la photo de biais. Hélène la regarde : on y voit les panneaux et le rayon. Elle valide ce cadrage. Pour mardi, les travaux sont confirmés. Elle demande qu’Ilyes lui envoie, avant son départ, un message qui dit s’il sera joignable pendant le bout à pied. S’il ne peut pas, elle et Maud fixeront un autre appui avant le rendez-vous.
 
 Le soir, dans la cour, une amie choisit la chaise en rotin parce que c’est la seule où elle peut étendre les jambes sous la table. Hélène a laissé le carton de la tarte fermé jusqu’à ce que tout le monde soit assis. Quand elle l’ouvre, le dessus est fendu au milieu. Léa lui tend le couteau. Hélène lui passe d’abord la pelle à tarte : elle s’est gardé la part avec le plus de croûte, Léa peut choisir la sienne.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé, TDI : travail et vie active (volet 2)](https://www.has-sante.fr/upload/docs/application/pdf/2025-11/dir7/tdi_emploi_volet2.pdf)
-- [Haute Autorité de santé, TDI : autodétermination, participation et citoyenneté (volet 1)](https://www.has-sante.fr/upload/docs/application/pdf/2022-09/02_tdi_rbpp_autodetermination.pdf)

@@ -31,7 +31,11 @@ Il s’assoit sur la marche pour laisser passer un commerçant. Lucie lui envoie
 
 ## Comprendre ce qui mérite encore un avis
 
-Reprendre une activité et avoir besoin d’un avis plus tard peuvent faire partie du même parcours. Le NICE recommande de discuter du cours variable du trouble et de la façon de reconnaître des changements qui comptent pour la personne. La fatigue, la contrariété ou plusieurs idées dans une discussion n’établissent pas à elles seules un épisode. Émilien remarque des ressemblances avec un moment difficile, mais aussi des différences, notamment le fait qu’il voulait dormir davantage. Il ne cherche pas à résoudre cette incertitude par un calcul. Il décrit à l’équipe ce qui se répète, ce qui a changé et ce qu’il était en train de faire. Si un signe s’accentue ou si un risque apparaît, le plan prévoit comment recontacter l’équipe.
+Reprendre une activité et avoir besoin d’un avis plus tard peuvent faire partie du même parcours. Le NICE recommande de discuter du cours variable du trouble et de la façon de reconnaître des changements qui comptent pour la personne. La fatigue, la contrariété ou plusieurs idées dans une discussion n’établissent pas à elles seules un épisode.
+
+## Comment cette difficulté se manifeste
+
+Émilien remarque des ressemblances avec un moment difficile, mais aussi des différences, notamment le fait qu’il voulait dormir davantage. Il ne cherche pas à résoudre cette incertitude par un calcul. Il décrit à l’équipe ce qui se répète, ce qui a changé et ce qu’il était en train de faire. Si un signe s’accentue ou si un risque apparaît, le plan prévoit comment recontacter l’équipe.
 
 ## Revenir à une décision de travail qui peut attendre
 
@@ -40,8 +44,3 @@ Le changement de lieu est réel : il y a de l’eau près de l’installation et
 ## L’écoute peut attendre
 
 Émilien laisse un message au contact du plan, avec les changements qu’il a remarqués. Il retrouve ensuite Dorian dans la petite salle. Ils décident que les chaises resteront contre le mur jusqu’à l’accord des commerçants. Émilien lui tend la rallonge enroulée ; elle n’est plus nécessaire. Ils ont une enceinte, deux extraits et un autre jour possible. En rentrant, Émilien répond à la photo du pont. Il demande à Lucie par quel côté on y arrive.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

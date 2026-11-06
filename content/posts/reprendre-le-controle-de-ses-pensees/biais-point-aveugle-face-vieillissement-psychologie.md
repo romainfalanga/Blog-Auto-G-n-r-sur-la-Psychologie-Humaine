@@ -11,6 +11,9 @@ personnage: "Patrick"
 sujet: "biais du point aveugle"
 contexte: "face au vieillissement"
 draft: false
+editorial_sources:
+- https://doi.org/10.1177/0146167202286008
+- https://www.inrs.fr/risques/lombalgies/prevention
 ---
 
 Patrick déplie le plan de masse sur le capot. Son dos le lance quand il se penche, alors il bloque le coin de la feuille avec le mètre au lieu de tendre le bras. Un intérimaire s’arrête de l’autre côté du véhicule. Il dit qu’il a mal à l’épaule et demande à changer de tâche pour la fin du poste. Patrick regarde le trait qu’il vient de suivre du doigt. Il n’a pas vu le geste dont parle le jeune homme.
@@ -22,6 +25,8 @@ Il replie le plan, rate le pli, puis le recommence. Marcel montait sur les toits
 ## Qu’est-ce que le biais du point aveugle ?
 
 Dans les expériences de Pronin, Lin et Ross, des personnes reconnaissaient plus facilement l’influence de certains biais chez les autres que dans leurs propres jugements. Ce résultat concerne la perception des biais. Le fait de minimiser une douleur, à lui seul, n’illustre pas ce phénomène.
+
+## Le même effort, deux jugements
 
 Patrick reproche aux collègues de juger les ouvriers d’après leur âge. Quand un collègue lui demande pourquoi il traite la douleur du plus jeune comme un signe de fragilité, il assure que son jugement est objectif. C’est cette différence d’examen, selon qu’il parle des collègues ou de lui-même, qui illustre le point aveugle.
 
@@ -44,8 +49,7 @@ Patrick signale que certains mouvements sont difficiles et fait examiner la situ
 À la fin du poste, Patrick retrouve le collègue qui lui a fait la remarque. Il commence par lui demander s’il connaît la tâche de l’intérimaire. « Viens voir avec moi demain », répond l’autre. Patrick accepte. Il garde pour lui la défense qu’il a répétée en pliant les plans.
 
 Chez lui, Catherine lui demande s’il veut prendre l’autre côté de la table pour servir la soupe. « Oui. J’ai le dos qui coince. » Il dit ça en sortant les bols, les yeux sur le placard. Elle rapproche une chaise. Il s’y assied avant d’avoir fini de mettre la table.
+
 ---
 
 Examiner son propre jugement avec les mêmes critères que ceux des autres aide à revenir aux faits. Au travail, un symptôme gênant et les conditions qui l’accompagnent peuvent être discutés avec les personnes compétentes en prévention et en santé.
-
-Sources : [Pronin, Lin et Ross, expériences sur la perception des biais, 2002](https://doi.org/10.1177/0146167202286008), [INRS, prévention des lombalgies au travail](https://www.inrs.fr/risques/lombalgies/prevention).

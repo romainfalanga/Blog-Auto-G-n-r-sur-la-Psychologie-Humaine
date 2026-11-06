@@ -1,0 +1,469 @@
+{
+  "character_id": "damien",
+  "bio": "Damien a 35 ans. Il travaille dans un atelier de transformation alimentaire et joue de la basse dans une fanfare. Depuis l’hiver dernier, une équipe spécialisée le suit pour un trouble explosif intermittent. Des accès brefs et disproportionnés l’amènent parfois à crier, à insulter ou à endommager un objet. Il aime écrire des fins de morceaux où même les débutants trouvent leur entrée. Après une agression liée au prêt d’une salle, il voudrait rester musicien dans le groupe. Il doit d’abord assumer ce qui s’est passé et respecter les distances choisies par les autres.",
+  "profile_topics": [
+    "Trouble explosif intermittent",
+    "Accès d’agression impulsive",
+    "Signaux de montée de tension",
+    "Sécurité et limites des proches",
+    "Responsabilité après une agression"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "damien-explosion-pour-une-cle",
+      "title": "Quand un désaccord d’horaire vire à l’agression",
+      "description": "À la salle des Tilleuls, une discussion sur un horaire vire à l’agression. Damien confie la clé et doit répondre du dommage.",
+      "context": "Un jeudi soir à la salle des Tilleuls, pendant un passage entre deux associations",
+      "topics": ["Accès disproportionné", "Agression impulsive", "Mise en sécurité"],
+      "clinical_focus": "Accès agressif disproportionné",
+      "clinical_intro": "Pendant une discussion sur l’horaire de la salle, Damien crie sur Mireille et projette son pupitre. La scène montre la brièveté d’un accès du trouble explosif intermittent et la durée de ses effets. Une fois l’accès passé, les personnes qui ont eu peur choisissent encore de quelle distance elles ont besoin.",
+      "opening": "Damien avait glissé une étiquette rouge au bout de la clé pour la retrouver à l’aveugle dans sa housse de basse. Il la fait tinter devant Judith, au fond de la salle des Tilleuls. Jeudi, c’est le seul soir où les gens de la fanfare et du groupe de couture se croisent. Mireille a laissé un pupitre près de la prise électrique. Elle y pose un patron agrandi pour le lire debout. Damien attend de lui demander s’il peut installer son ampli plus tôt samedi pour essayer les dernières mesures d’un air que les cuivres jouent trop vite.\n\nMireille ouvre la feuille de réservation. Elle lui montre la ligne qui donne la salle à son groupe jusqu’à dix-huit heures. S’il veut arriver avant, elle lui dit de demander à Armelle en mairie si une autre pièce est libre. Damien entend dans sa voix quelque chose qu’il prend pour du mépris. Il coupe Mireille, crie qu’elle lui fait perdre son temps et l’insulte. Puis il projette le pupitre sur le côté. Il tombe sur les dalles. Un pied se tord. Mireille recule. À côté d’elle, une femme reprend son sac et sort avec elle. Judith recule à son tour vers le hall. Damien reste près de sa housse. Il entend la porte extérieure se refermer.\n\nQuand il parle de nouveau, sa voix a déjà baissé. Il dit à Judith qu’il ne se reconnaît pas. Il sait à quel genre d’accès les soignants l’ont aidé à mettre un nom l’hiver précédent. Il cherche maintenant à comprendre à quelle vitesse il a levé la voix. Judith, depuis le hall, lui dit de rester à distance. Elle a entendu les mots et vu le pied du pupitre plier. Elle ira voir si les deux femmes ont besoin d’aide, une fois dehors. Elle demande que la clé soit laissée sur la table, derrière lui. Il la prend par son étiquette rouge. Samedi, c’était lui qui devait ouvrir.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un accès bref qui dépasse le désaccord",
+          "text": "Dans le trouble explosif intermittent, des actes agressifs impulsifs surviennent par accès brefs et répétés, d’une intensité sans commune mesure avec la situation qui les précède. La question du créneau existe bel et bien. La force avec laquelle Damien s’en prend à Mireille et au matériel déborde ce qu’il était venu discuter. Son diagnostic a été établi à partir d’un ensemble de situations et de leurs conséquences sur la durée. Pour comprendre une autre personne, une scène comme celle-ci renseignerait d’abord sur l’agression et le besoin de protection."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce qui reste quand la voix redescend",
+          "text": "Damien retrouve vite un ton bas et cherche à expliquer son geste. Mireille a déjà quitté la pièce. Sa sortie, le recul de Judith et le pupitre endommagé donnent à voir des effets qui se prolongent au-delà de l’accès. Damien peut avoir été surpris par la rapidité du débordement et Mireille peut avoir peur de le revoir. Son sentiment à lui ne donne aucune mesure de ce qu’elle a éprouvé. Le fait qu’aucune personne n’ait été touchée ne retire rien au danger de la scène."
+        },
+        {
+          "role": "strategies",
+          "heading": "Rendre la clé et laisser les sorties libres",
+          "text": "La discussion sur la salle s’arrête. Damien peut s’écarter et laisser Judith décider, pour elle-même, si elle accepte de récupérer la clé une fois les lieux dégagés. Mireille peut partir, demander un appui ou choisir à qui signaler les faits. Une personne menacée ou témoin d’un danger immédiat peut appeler les secours. En France, le 17 ou le 112 sont des recours. Plus tard, Damien pourra signaler lui-même les faits au bureau et en parler à l’équipe qui le suit. La remise de la clé sert d’abord à éviter une nouvelle rencontre imposée samedi."
+        }
+      ],
+      "ending_title": "L’étiquette rouge sur la table",
+      "ending": "Il laisse la clé sur la table et sort par la porte opposée au hall. Dans sa voiture, il attend que ses mains cessent de trembler avant de repartir. Il vient de taper « Dis à Mireille que » sur son téléphone. Il efface la ligne. Judith lui envoie un message quand elle a repris la clé. Après s’être assurée que les deux femmes sont parties ensemble, elle informe le bureau et suspend l’usage du créneau. Damien confirme au bureau qu’il a insulté Mireille et endommagé le pupitre. Il appelle ensuite le secrétariat de son équipe de soins pour demander un échange plus tôt que prévu. Il inscrit lui-même dans son agenda que samedi, il n’ouvrira pas.",
+      "mirror": [
+        "Judith peut quitter la pièce avec les autres et s’assurer, depuis un endroit sûr, que Mireille dispose du soutien qu’elle souhaite. « Je peux rester ici avec toi ou appeler quelqu’un si tu le veux. » Si le danger est encore présent, elle peut d’abord s’éloigner et appeler les secours. Une fois à l’abri, Mireille choisit si elle veut parler et à qui. Judith décide séparément si elle accepte de rapporter les faits au bureau."
+      ],
+      "sources": ["oms-cddr", "oms-cim-6c73", "france-violences-urgence"],
+      "continuity": {
+        "choice": "Damien laisse la clé à Judith, s’écarte et demande un échange à son équipe de soins. Judith suspend le créneau dans l’attente du cadre municipal.",
+        "next": "Le bureau et Armelle prennent le relais. Damien ne revient pas à la salle sans accord et n’adresse aucun message à Mireille."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "damien-violence-des-mots-au-travail",
+      "title": "Des insultes qui changent la manière de travailler",
+      "description": "Au travail, Damien revient sur les insultes adressées à Noé. Maud organise une transmission qui évite de les réunir.",
+      "context": "Le lundi suivant, dans le local de transmission de l’atelier de transformation alimentaire",
+      "topics": ["Agression verbale", "Répétition des accès", "Protection au travail"],
+      "clinical_focus": "Agression verbale et retentissement",
+      "clinical_intro": "À l’atelier, les insultes lancées à Noé n’ont rien cassé. Elles ont pourtant changé la manière dont il organise chaque passage de consignes. Cet épisode éclaire la place des accès verbaux dans le trouble explosif intermittent et le retentissement qu’une équipe peut observer même quand la scène ne laisse aucune marque physique.",
+      "opening": "À l’atelier, Damien reconnaît les lots de pommes aux caisses de couleur que les producteurs laissent au quai. Quand ils ont passé la matinée au conditionnement, il prend les premières étiquettes du rouleau pour l’équipe suivante. C’est la petite avance qu’il faisait souvent à Noé. Depuis plusieurs semaines, il pose le rouleau sur le bureau de Maud et elle le remet elle-même. Ce lundi, il a fini assez tôt pour demander si Noé veut reprendre la transmission habituelle. Il n’a pas encore franchi la porte du bureau quand Maud lui dit que Noé préfère maintenir la consigne actuelle.\n\nUn mois et demi plus tôt, Noé avait posé sur le tableau une ligne supplémentaire à vérifier. La vérification concernait aussi Damien. Il avait crié que Noé faisait exprès de le désigner, puis l’avait insulté devant les gens qui pointaient. L’échange avait duré moins longtemps que l’arrivée de l’équipe suivante. À l’époque, Damien s’était rappelé qu’il n’avait rien jeté. Il avait attendu le lendemain pour parler de l’incident à Maud et avait seulement dit qu’ils s’étaient accrochés. Noé avait demandé une autre organisation pour les passages d’équipe.\n\nMaud garde un doigt sur la feuille où elle note les transmissions. Elle veut savoir si Damien a une information de travail à faire passer aujourd’hui. Il lui tend le rouleau. En voyant la case où elle inscrit les problèmes remontés dans la journée, il pense au pupitre des Tilleuls. L’incident de jeudi a laissé un pied tordu. À l’atelier, il a surtout laissé à Noé la tâche de contourner un collègue. Il demande à Maud à qui il peut faire un récit complet, sans aller chercher Noé dans le vestiaire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Des paroles peuvent constituer l’accès",
+          "text": "Dans le trouble explosif intermittent, certains accès sont essentiellement verbaux. L’évaluation considère l’intensité et la répétition des attaques au fil du temps, ainsi que leurs conséquences. Une insulte isolée peut justifier un signalement et une réponse au travail, même si elle ne suffit pas à établir ce trouble. Le diagnostic connu de Damien aide son équipe de soins à reprendre son histoire. La tâche de l’atelier consiste à traiter les faits qui se sont produits dans ses locaux et à protéger les personnes concernées."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le trajet que Noé a changé",
+          "text": "En disant qu’ils se sont accrochés, Damien avait donné l’impression d’un échange partagé. Il avait accusé puis insulté Noé devant l’équipe. Cette différence devient visible quand Noé demande que Maud reçoive les rouleaux à sa place. Dans un milieu où chacun dépend de la précision des consignes, devoir éviter un collègue change des tâches ordinaires. Noé peut décrire ces conséquences dans ses propres termes ou passer par l’interlocuteur qu’il juge approprié."
+        },
+        {
+          "role": "strategies",
+          "heading": "Décrire les faits sans solliciter la personne visée",
+          "text": "Maud peut recevoir le récit de Damien à part et indiquer le circuit de signalement de l’atelier. Avec l’encadrement, elle peut rendre la transmission prévisible et vérifier que Noé dispose d’un interlocuteur choisi pour toute difficulté. Damien peut nommer ses paroles et leurs conséquences, puis examiner avec les soignants ce qu’il a pris pour une accusation. Son récit clinique reste distinct du passage de consignes. Noé n’a aucune obligation de participer à ces échanges ou de reprendre contact."
+        }
+      ],
+      "ending_title": "Le rouleau reste sur le bureau",
+      "ending": "Damien attend la fin de la transmission et revient au bureau. Il rectifie ce qu’il a dit le mois précédent. « J’ai crié sur Noé devant l’équipe et je l’ai insulté. » Maud note les faits selon le circuit de l’atelier. Elle confirme que le rouleau et les consignes passeront encore par elle ou par Denis, son relais de l’après-midi. Noé peut transmettre ses observations séparément, à qui il le souhaite dans l’encadrement. Damien reporte l’ancienne consigne sur son tableau personnel. Il avait écrit une flèche vers le poste de Noé. Il écrit maintenant le nom du relais.",
+      "mirror": [
+        "Noé peut s’adresser à Maud pour parler de l’organisation dont il a besoin. « Je souhaite garder une transmission par le bureau. Si tu as besoin de mon récit, propose-moi un créneau à part. » Il peut aussi demander l’appui d’un autre interlocuteur du travail. Il peut demander cet aménagement sans raconter de nouveau l’incident. Maud peut assurer le relais sans transmettre de détails sur la santé de Damien ni demander à Noé de le rassurer."
+      ],
+      "sources": ["oms-cddr", "oms-cim-6c73", "inrs-violence-interne"],
+      "continuity": {
+        "choice": "Damien précise son signalement et respecte la transmission séparée demandée par Noé.",
+        "next": "Maud ou Denis reçoivent les consignes. Le récit exact des insultes pourra servir au suivi clinique, sans mobiliser Noé."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "damien-colere-sans-agression",
+      "title": "Garder le droit d’être en colère après un accès",
+      "description": "Face à un changement d’horaire à l’atelier, Damien cherche comment défendre son temps de travail et rester entendu.",
+      "context": "Un mardi midi, devant le planning de l’atelier",
+      "topics": ["Colère ordinaire", "Désaccord légitime", "Expression sans intimidation"],
+      "clinical_focus": "Différence entre colère et agression",
+      "clinical_intro": "Un changement d’horaire met Damien en colère. Il perdrait un rendez-vous pris depuis longtemps et veut pouvoir le dire. Cette scène permet de distinguer l’émotion, parfois justifiée, des accès agressifs répétés du trouble explosif intermittent. Damien peut prendre la situation au sérieux et défendre sa demande sans que l’autre ait à céder par crainte.",
+      "opening": "Damien lit le nouveau planning en remontant de la cantine. Il a l’habitude de plier le papier dans la poche de sa blouse pour entourer chez lui les dates de répétition. Cette fois, il s’arrête à la ligne du mercredi. Deux heures ont été ajoutées l’après-midi et personne ne lui a demandé s’il pouvait rester. Il a un rendez-vous chez le dentiste qu’il attend depuis le début de l’été. Au-dessus de son nom, le même changement apparaît pour Aïcha. Elle pose son café près de la photocopie et lui dit qu’elle a déjà organisé la sortie d’école avec sa voisine pour l’ancien horaire.\n\nDamien a envie de dire que c’est injuste. Il la regarde, cherchant à savoir s’il peut employer ce mot sans qu’elle pense à la scène avec Noé. Aïcha a surtout envie de savoir à qui poser la question. Damien lit la dernière ligne. Les demandes de changement sont à remettre au bureau avant mercredi matin. Il propose à Aïcha d’écrire chacun ses contraintes. Elle voudrait d’abord retrouver le planning d’origine, qu’elle avait pris en photo. Damien peut l’attendre près de la photocopieuse sans avoir à lui raconter ce qui l’inquiète.\n\nQuand Maud passe avec sa boîte de repas vide, Damien dit qu’il est en colère et explique la raison. Il parle d’un rendez-vous pris depuis longtemps et des conséquences qu’aurait un report. Maud n’a pas posé le nouvel horaire. Elle sait en revanche où transmettre une demande. Elle lui dit qu’elle a quatre minutes avant de rejoindre son équipe. Damien choisit de lui montrer les deux horaires côte à côte. Il a toujours le visage chaud. Il sait encore ce qu’il est venu demander.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une émotion qui peut signaler un grief fondé",
+          "text": "La colère peut surgir devant une contrariété ou une injustice réelle. Damien craint de perdre un rendez-vous parce que son horaire a été modifié. Le fait de ressentir et de nommer cette colère n’annonce pas à lui seul un accès du trouble explosif intermittent. Le diagnostic porte sur un ensemble d’accès agressifs, avec une réaction disproportionnée et un retentissement dans le temps. Examiner la situation concrète évite de rabattre toute émotion d’une personne sur son diagnostic."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Laisser une place à ce que l’autre répond",
+          "text": "Damien a le visage chaud et parle d’injustice. Il entend aussi qu’Aïcha a une contrainte différente de la sienne et que Maud a peu de temps. Il parvient à formuler sa propre demande et à laisser Maud expliquer ce qui relève de son rôle. Dans cette scène, l’agacement reste compatible avec la possibilité pour chacun de parler et de refuser une proposition. La même sensation dans le corps peut se retrouver dans des situations très différentes."
+        },
+        {
+          "role": "strategies",
+          "heading": "Donner une forme précise à la contestation",
+          "text": "Damien peut s’appuyer sur la date du changement, le rendez-vous et le canal prévu par l’atelier. Cela lui donne une demande qu’un responsable pourra examiner. Aïcha choisit séparément ce qu’elle souhaite présenter. Maud peut distinguer la question des horaires des démarches de sécurité déjà engagées après les insultes adressées à Noé. Si un échange devient intimidant, son interruption et le relais par l’encadrement gardent leur place. L’existence d’un sujet de désaccord ne justifie aucune attaque contre la personne qui en parle."
+        }
+      ],
+      "ending_title": "Deux horaires sur la même feuille",
+      "ending": "Damien remet sa demande avant la fin du service. Le lendemain matin, le responsable confirme qu’il peut partir à l’heure prévue au départ. Aïcha négocie pour elle-même un échange de créneau avec une collègue. Dans le local, Damien barre les deux heures ajoutées sur sa copie. Il garde le papier pour son rendez-vous avec l’équipe de soins. En plus de parler du pupitre, il voudrait pouvoir raconter une journée où il a été en colère et où la question posée au départ est restée le sujet de la discussion.",
+      "mirror": [
+        "Aïcha peut défendre sa propre contrainte sans devenir porte-parole ni arbitre. « J’ai gardé le planning précédent. Je vais présenter ma demande de mon côté. » Maud peut accueillir une contestation précise et indiquer le circuit prévu. En présence d’insultes ou de menaces, elle peut mettre fin à l’échange et demander un relais. Elle garde le droit de poser cette limite même si le grief sur les horaires est fondé."
+      ],
+      "sources": ["oms-cddr", "oms-cim-6c73", "inrs-violence-interne"],
+      "continuity": {
+        "choice": "Damien présente sa demande d’horaire sans intimidation et conserve son rendez-vous. Il garde la feuille comme exemple à reprendre en consultation.",
+        "next": "Le contraste entre une colère exprimée et un accès pourra aider Damien à examiner ce qu’il entend dans les propos des autres."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "damien-lire-une-demande-comme-une-attaque",
+      "title": "Quand une demande de vérification ressemble à une attaque",
+      "description": "Un message de la mairie paraît accusateur à Damien. En consultation, il reprend les mots exacts et l’intention qu’il leur prête.",
+      "context": "La semaine suivante, avant un rendez-vous avec la psychologue de l’équipe",
+      "topics": ["Attribution d’hostilité", "Perception de menace", "Temps avant de répondre"],
+      "clinical_focus": "Attribution rapide d’une intention hostile",
+      "clinical_intro": "Damien lit une demande de vérification comme une façon de le rabaisser. En consultation, il compare les mots du message et ce qu’il y entend. Ce rapprochement éclaire une réaction qui peut précéder certains accès du trouble explosif intermittent. L’impression d’une attaque mérite d’être examinée, surtout quand elle donne envie de répondre sur-le-champ.",
+      "opening": "Il y a trois chaises vertes dans la salle d’attente. Damien choisit celle près de la fenêtre, où la lumière lui permet de lire ce qu’il a écrit sur le planning de l’atelier. Au dos, il a griffonné la phrase qui lui est venue quand Mireille lui a montré le tableau de la salle. Elle se croit au-dessus de moi. Il ne se souvient plus de la première insulte. Il se souvient de cette phrase entière, alors que Mireille n’a rien dit de semblable.\n\nSon téléphone vibre. Le bureau de la fanfare a transféré la réponse d’Armelle. La mairie demande que le prochain créneau soit confirmé par un membre du bureau. Damien lit d’abord qu’on lui retire le droit de donner une date. Il imagine qu’Armelle envoie ce message pour le remettre à sa place. Ses pouces vont directement au bouton de réponse. Il commence à écrire qu’il faisait déjà les réservations quand d’autres venaient seulement pour jouer. Il relit la première ligne. Personne ne lui a demandé de répondre. Le transfert lui a simplement été adressé parce qu’il était encore inscrit sur le fil.\n\nQuand la psychologue le reçoit, il apporte le brouillon et la feuille du travail. Elle lui demande de retrouver la phrase exacte du courriel avant de raconter le reste. Il lui lit les quelques mots sur la confirmation du créneau. Puis il lui lit sa réponse inachevée. Elle lui demande ce qu’Armelle a écrit qui permette de décider de son intention. Il fait défiler le courriel jusqu’à la signature. Il reste une demande de confirmation, une date et les horaires du guichet. Le nom de Mireille n’y figure pas.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Entendre une intention dans des mots ambigus",
+          "text": "Dans certains accès du trouble explosif intermittent, une personne réagit très vite à une menace qu’elle croit percevoir. L’attribution d’hostilité désigne le fait de prêter à autrui l’intention de nuire, parfois sur des indices qui laissent place à plusieurs lectures. Pour Damien, une demande adressée au bureau devient la preuve qu’on veut l’humilier. Le contexte compte. Un ton sec ou une décision restrictive peuvent être réels. La distinction porte sur ce que l’on peut établir et sur l’intention que l’on en déduit."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Une certitude qui se forme avant la réponse",
+          "text": "Damien peut citer la pensée qui a traversé la salle et retrouver le début du brouillon. Dans les deux cas, il se prépare à se défendre alors qu’il connaît mal l’intention de l’autre personne. La fois du pupitre, cette interprétation a précédé des actes agressifs. Dans la salle d’attente, elle est encore au stade d’une pensée et d’un message non envoyé. Aucune de ces observations n’indique que tous ses accès suivent la même suite ni que l’interprétation explique à elle seule le geste."
+        },
+        {
+          "role": "strategies",
+          "heading": "Relire en séparant les mots et leur interprétation",
+          "text": "La psychologue propose à Damien d’écrire une phrase observée et la lecture qui lui est venue, puis de chercher une autre lecture plausible. Cette façon d’examiner une situation peut s’inscrire dans un travail cognitivo-comportemental avec l’équipe. Damien peut garder le brouillon fermé et demander au bureau quelle action relève de lui. Ce détour ne lui donne aucun motif pour faire préciser à Mireille ce qu’elle a voulu dire jeudi. La confirmation revient à Judith et l’échange avec la mairie reste administratif."
+        }
+      ],
+      "ending_title": "Deux phrases au dos du planning",
+      "ending": "Dans la marge, Damien écrit « confirmer par le bureau » puis, dessous, « je crois qu’elle veut me remettre à ma place ». Il garde le point de vue qu’il a eu, à côté des mots du courriel. En sortant, il efface le brouillon. Il répond seulement à Judith, qui lui avait demandé s’il avait encore la référence de l’ancienne réservation. Il lui envoie le numéro. Judith s’occupe de demander à Armelle quels soirs sont disponibles. Elle lui dira si le bureau a besoin d’un autre document.",
+      "mirror": [
+        "Judith peut transmettre une consigne sans se porter garante de l’intention d’Armelle. « Il me faut la référence de la réservation. Je me charge de la réponse. » Elle peut aussi retirer Damien d’un fil auquel il n’a plus à participer. Si son ton devient agressif, elle peut interrompre l’échange et demander un relais. Elle n’a pas à lui prouver que personne ne lui en veut."
+      ],
+      "sources": ["oms-cddr", "mccloskey-tcc-2022", "mccloskey-tcc-2008"],
+      "continuity": {
+        "choice": "Damien garde son interprétation distincte du message, efface le brouillon et transmet seulement une référence à Judith.",
+        "next": "Judith demande des disponibilités à la mairie. Damien dispose d’une scène récente à reprendre avec l’équipe sans contacter Mireille."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "damien-reperer-la-montee-de-tension",
+      "title": "Repérer la montée de tension assez tôt pour s’écarter",
+      "description": "Pendant qu’il aide sa sœur avec une étagère, Damien reconnaît une montée de tension et interrompt sa participation.",
+      "context": "Le dimanche, dans la cour de Leïla, la sœur de Damien",
+      "topics": ["Signaux avant-coureurs", "Retrait avant l’escalade", "Limite librement choisie"],
+      "clinical_focus": "Signaux avant un accès agressif",
+      "clinical_intro": "Chez sa sœur, Damien sent ses avant-bras se durcir et voudrait répéter plus fort ce qu’il vient de dire. Certains accès du trouble explosif intermittent peuvent être précédés d’une montée de tension, parfois très courte. Apprendre à reconnaître ses propres signes peut ouvrir un moment pour s’écarter. Leïla, elle, décide comment poursuivre sa journée.",
+      "opening": "Leïla a trouvé une petite étagère sous le préau du dépôt-vente. Elle veut y ranger ses pots de graines et a demandé à Damien de venir l’aider à remettre un fond. Elle a passé la matinée à peindre les côtés d’un bleu qu’elle a fait préparer à partir d’une poignée de porte. Damien tient le panneau en place pendant qu’elle cherche un crayon. Depuis la cour, on entend quelqu’un exercer un roulement de tambour à la maison d’en face. Damien essaie de deviner si c’est l’un des percussionnistes de la fanfare.\n\nLe panneau glisse de quelques centimètres. Leïla demande de recommencer la mesure du bas. Damien lui répond qu’il a déjà vérifié. Elle lui dit que le bois dépasse. Il regarde le trait et sent ses avant-bras se durcir autour du panneau. Le ton qu’il a employé l’instant d’avant lui revient, et il a envie de redire la même chose plus fort. Avec sa psychologue, il a commencé à noter les premiers instants dont il se souvient avant certains accès. Une voix qui accélère et des bras tendus figurent parmi ces souvenirs. Il ne les remarque pas à chaque fois.\n\nDamien pose le panneau contre l’établi, à sa place habituelle. « Je vais m’arrêter là et rentrer », dit-il. Elle lui demande de prendre aussi son sac en partant. Elle voulait finir avant le repas et connaît une voisine qui pourrait tenir le fond cinq minutes. Damien regarde le bout du panneau qui dépasse. Il aurait aimé pouvoir régler ça vite. Il récupère son sac et se dirige vers le portillon. Leïla remet le crayon derrière son oreille et retourne vers la peinture.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Des indices parfois perceptibles avant l’accès",
+          "text": "Certains accès du trouble explosif intermittent sont précédés par une sensation de tension ou d’activation. Chez Damien, la raideur qu’il ressent et l’envie de parler plus fort prennent leur sens parce qu’il les a déjà remarquées dans des moments comparables. Ces signes peuvent varier ou passer inaperçus. Une tension des bras pendant un travail manuel, à elle seule, renseigne peu sur ce qui va se passer. L’équipe aide Damien à examiner l’ensemble de la situation et à reconnaître le moment où il lui devient difficile d’envisager une autre réponse."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le panneau dépasse et la voix change",
+          "text": "Leïla voit un trait mal placé et demande une nouvelle mesure. Damien sent surtout qu’il voudrait imposer la première mesure avant de regarder ce qu’elle lui montre. Il reconnaît à la fois un changement physique et une envie d’insister. Cet écart entre le problème à résoudre et la réponse qui lui vient est le repère qu’il peut reprendre. Pour Leïla, les informations utiles sont ce qu’elle entend, la place qu’elle garde dans la cour et la possibilité de finir son projet comme elle le souhaite."
+        },
+        {
+          "role": "strategies",
+          "heading": "Préparer un retrait qui ne fait pas obstacle à l’autre",
+          "text": "Avec l’équipe, Damien peut prévoir un geste d’interruption qui dépend de lui. Ici, il cesse de tenir le panneau, annonce qu’il se retire et emporte ses affaires en libérant la cour. Il peut ensuite décrire le moment précis à sa psychologue et examiner ce qui l’a rendu possible. Leïla n’a pas à reconnaître un signal, à annoncer le retrait pour lui ou à attendre qu’il revienne. Si elle se sent en danger, elle peut chercher de l’aide et s’éloigner sans expliquer son choix."
+        }
+      ],
+      "ending_title": "Le sac emporté du premier coup",
+      "ending": "Une fois chez lui, Damien inscrit l’heure et le moment où il a senti ses bras changer. Il avait d’abord écrit « l’étagère n’est pas finie ». Il ajoute « je suis parti dès que j’ai eu envie de hausser le ton ». Leïla lui envoie le soir une photo des pots de graines sur les tablettes. Elle a terminé avec sa voisine et lui demande de laisser le prochain dimanche libre pour elle. Damien répond qu’il a compris. Il garde la photo dans le fil, à la date où elle l’a envoyée, sans chercher une nouvelle date pour bricoler ensemble.",
+      "mirror": [
+        "Leïla peut vouloir poursuivre seule ou avec quelqu’un d’autre. Dans un moment sûr, elle peut dire « Emporte ton sac, je vais terminer avec ma voisine. » Elle peut aussi laisser partir Damien sans engager de discussion. La manière dont il repère sa tension et poursuit son suivi lui appartient. Leïla choisit si elle veut parler ensuite, partager la photo ou garder son dimanche pour elle."
+      ],
+      "sources": ["oms-cddr", "mccloskey-tcc-2022", "mccloskey-tcc-2008"],
+      "continuity": {
+        "choice": "Damien interrompt son aide avant d’agresser, quitte la cour et accepte le dimanche libre demandé par Leïla.",
+        "next": "Il apporte ses observations au suivi. Une réussite dans la cour ne modifie ni le circuit à l’atelier ni les limites de la salle."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "damien-examiner-les-causes-d-un-acces",
+      "title": "Vérifier ce qui pourrait expliquer un accès agressif",
+      "description": "En reprenant une soirée mal située avec son psychiatre, Damien distingue une consommation, sa chronologie et les faits certains.",
+      "context": "Quelques jours plus tard, au rendez-vous de suivi dans le service spécialisé",
+      "topics": ["Évaluation différentielle", "Effets des substances", "Chronologie des accès"],
+      "clinical_focus": "Évaluation des autres causes possibles",
+      "clinical_intro": "Damien se souvient d’une soirée où il avait bu, mais il hésite sur ce qui s’était passé avant le débordement. Un diagnostic de trouble explosif intermittent demande d’examiner les autres explications possibles, dont les effets d’une substance ou d’un médicament. Même quand le diagnostic est connu, une chronologie claire aide à évaluer une scène ou un changement.",
+      "opening": "Damien a apporté le petit carnet qu’il utilise d’habitude pour noter les reprises des cuivres. Les premières pages contiennent des dates, des bouts de mesures et des flèches vers des refrains. Il en a retourné une pour écrire les accès dont il se rappelle. Le psychiatre de l’équipe lui demande d’abord comment s’est passée la semaine. Damien raconte la cour de Leïla et le moment où il est parti. Il avait aussi écrit le mot « soirée » au bas de la page. En le montrant, il précise qu’il avait évité de donner un détail sur cette soirée, lors de leurs premiers entretiens l’hiver dernier.\n\nC’était après le repas de fin de saison de la fanfare. Il avait bu. Au moment de récupérer sa veste, il avait crié sur quelqu’un qui avait déplacé les manteaux. Il ne se rappelle pas clairement combien de temps s’était écoulé entre le repas et les cris. Avant la consultation, il avait demandé la date à Judith. Elle lui avait envoyé une photo des chaises empilées à la fin du repas. La date figure sous l’image. Elle ne dit rien de ce qui s’est passé près du vestiaire.\n\nIl tourne une autre page. Deux accès qu’il avait décrits au moment de l’évaluation ont eu lieu à d’autres périodes, le matin à l’atelier et un samedi lors d’un déménagement, sans consommation d’alcool d’après son souvenir. Le psychiatre lui demande s’il y a eu, autour de ces dates, des changements de traitement ou d’autres difficultés dont ils n’avaient pas parlé. Damien s’attendait à une réponse sur le repas. Il comprend qu’il peut commencer par séparer ce dont il se souvient et ce qu’il a reconstruit depuis.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’histoire permet d’examiner plusieurs explications",
+          "text": "Un professionnel qui évalue des accès agressifs cherche aussi si un autre trouble, une affection neurologique ou les effets d’une substance ou d’un médicament expliquent mieux ce qui se passe. Il peut examiner, par exemple, si les accès surviennent seulement lors d’un épisode d’un trouble de l’humeur ou seulement pendant une intoxication ou un sevrage. Une consommation et le trouble explosif intermittent peuvent coexister. La succession des faits aide à apprécier leur relation. Le diagnostic de Damien est connu et ce rendez-vous sert à préciser une situation qui lui échappait."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le souvenir d’une soirée et ceux des autres jours",
+          "text": "Damien peut situer le repas à partir de la photo, mais la photo ne permet pas de reconstituer sa consommation, son état ni ses paroles. Les autres accès dont il a parlé donnent un contexte différent. S’il hésite sur l’ordre des événements, cette incertitude a sa place dans le récit qu’il apporte en consultation. Les conséquences de ses cris sont réelles quelle que soit l’interprétation clinique de cette soirée. La personne qui les a subis garde le droit de tenir ses distances."
+        },
+        {
+          "role": "strategies",
+          "heading": "Apporter des dates et signaler les changements",
+          "text": "Damien peut noter le contexte, les consommations ou changements de médicaments dont il se souvient, et les détails dont il est moins sûr. Le psychiatre examine cette chronologie avec les autres éléments de l’évaluation. Si un accès change de forme ou apparaît dans un contexte médical nouveau, Damien peut le signaler au service pour que ce changement soit examiné. Il peut faire cette démarche sans modifier lui-même son traitement ni demander à quelqu’un de retourner dans une situation inquiétante pour préciser un souvenir."
+        }
+      ],
+      "ending_title": "Une ligne qui reste incomplète",
+      "ending": "Damien trace une ligne pour la date du repas. Dans la colonne des faits, il écrit qu’il a crié au vestiaire et qu’il avait bu. À côté, il inscrit qu’il ignore le délai entre les deux. Le psychiatre reprend ce point avec les notes des premiers entretiens et convient avec lui de continuer à relever les changements qui pourraient compter pour la suite. Damien ferme le carnet en laissant le marque-page sur la bonne feuille. Il a gardé au fond sa partition de la fanfare. Ce jour-là, il a eu besoin des pages qui restaient libres.",
+      "mirror": [
+        "Judith peut répondre à une demande simple sur une date si elle en a envie. « J’ai la date du repas. Pour le reste, je ne veux pas reprendre la soirée. » Si elle-même a besoin d’en parler, elle choisit la personne à qui elle s’adresse. Damien peut expliquer les éléments dont il dispose à son équipe et reconnaître les points inconnus. La participation de Judith n’est une condition ni du suivi ni du respect de ses limites."
+      ],
+      "sources": ["oms-cddr", "oms-cim-6c73"],
+      "continuity": {
+        "choice": "Damien clarifie son souvenir partiel au psychiatre et l’équipe poursuit la revue de la chronologie et du suivi.",
+        "next": "Les décisions sur les contacts et le prêt restent indépendantes de l’explication clinique. Le prochain échange sur la salle passe par le bureau."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "damien-impulsivite-et-emprise",
+      "title": "Distinguer un accès impulsif d’une conduite d’emprise",
+      "description": "Mireille demande qu’aucun message ne lui soit transmis. Damien se demande pourquoi il tient encore à lui faire dire quelque chose.",
+      "context": "Le jeudi suivant, au téléphone avec Judith après un point du bureau",
+      "topics": ["Conduites coercitives", "Absence de contact", "Responsabilité des actes"],
+      "clinical_focus": "Distinction entre impulsivité et emprise",
+      "clinical_intro": "Mireille refuse le contact, y compris un message confié à quelqu’un d’autre. Damien doit respecter cette limite, quelle que soit son envie de s’expliquer. Le trouble explosif intermittent concerne des accès impulsifs. Comprendre cette distinction aide à reconnaître les conduites qui visent à contrôler les choix d’autrui et à prendre au sérieux leurs effets, même quand la personne invoque un diagnostic.",
+      "opening": "Damien attend dans la file de la boulangerie quand Judith l’appelle. Il sort sous l’auvent pour mieux entendre. Elle vient de parler à Armelle au sujet de la salle. Mireille a transmis son choix à la mairie. Elle veut que les associations règlent les dates par écrit et qu’aucun message de Damien ne lui soit transmis, même par quelqu’un qu’elle connaît. Le dossier du pupitre pourra passer par Armelle. À côté de Damien, le livreur de pain replie une caisse. Judith attend qu’il ait passé la porte avant de poursuivre.\n\nDamien avait préparé une phrase sur son téléphone. Il comptait demander à Judith de la lire à Mireille, sans ajouter son numéro. La phrase commençait par « Je ne t’ai pas jeté le pupitre dessus ». Maintenant que Judith lui rapporte la demande, il essaie d’imaginer comment sa phrase serait reçue à la fin d’une séance de couture. Mireille viendrait de dire qu’elle ne veut pas entendre de lui et quelqu’un se présenterait tout de même avec ses mots. Judith se tait. Damien lui demande si elle a reçu d’autres consignes pour le matériel. Elle lui répond que le bureau va attendre un écrit et qu’elle n’en saura pas davantage aujourd’hui.\n\nLa psychologue lui avait demandé le matin même de nommer le résultat qu’il attendait d’un message. Damien aurait voulu que Mireille cesse de croire qu’il pourrait recommencer. C’est précisément une décision qui échappe à sa phrase. Il efface le brouillon sous l’auvent et retourne prendre sa place dans la file. Il dit à Judith qu’il a entendu la demande. Il ne lui propose pas une autre manière de faire passer le message.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Comprendre à quoi servent les actes dans la relation",
+          "text": "Le trouble explosif intermittent décrit des accès agressifs impulsifs ou réactifs. Une agression employée comme moyen d’obtenir un résultat relève d’une autre lecture. Dans une relation, l’emprise peut s’installer par des menaces, la surveillance ou des restrictions répétées qui réduisent les choix de l’autre. Une explosion soudaine peut aussi s’inscrire dans un ensemble de conduites coercitives. La rapidité d’un acte, un regret exprimé ensuite ou un diagnostic connu ne permettent pas de conclure qu’une personne est en sécurité. La protection répond aux actes et à leur contexte."
+        },
+        {
+          "role": "manifestations",
+          "heading": "La limite porte aussi sur les intermédiaires",
+          "text": "Mireille précise qu’elle ne veut pas recevoir de paroles de Damien par l’intermédiaire d’une connaissance. Il envisageait pourtant de faire lire une phrase qui réduisait la gravité de son geste. Son brouillon ne démontre pas une conduite d’emprise. À présent que le refus est connu, transmettre ce texte par Judith reviendrait à contourner une limite claire. Le besoin de reprendre le contrôle de sa propre image appartient à Damien. Mireille a déjà donné le cadre qui lui convient pour le prêt et le matériel."
+        },
+        {
+          "role": "strategies",
+          "heading": "Traiter le dommage dans le cadre qui a été accepté",
+          "text": "Damien peut laisser le bureau et la mairie régler les questions matérielles, sans faire joindre des paroles personnelles au dossier. Judith peut refuser le rôle de messagère. Dans une relation où une personne craint des violences ou se sait surveillée, elle peut chercher un appui spécialisé par un moyen sûr pour elle. Une rencontre destinée à obtenir une explication ou une réconciliation ne conditionne jamais cette aide. Si le danger est immédiat, elle peut appeler les secours dès que possible en sécurité."
+        }
+      ],
+      "ending_title": "Un appel qui se termine sans message à porter",
+      "ending": "Judith lui demande seulement de lui envoyer la référence du modèle, qu’il a retrouvée dans l’inventaire dont il s’occupait au printemps, afin que le bureau puisse traiter le dommage. Damien prend son pain et rentre chez lui. Il adresse la référence à Judith avec la date de l’incident. Il laisse les destinataires tels qu’ils sont. Puis il note dans son carnet la demande de Mireille, avec les mots « pas par quelqu’un d’autre ». Il pourra travailler avec sa psychologue sur son envie d’expliquer. Du côté de la salle, il attend les indications du bureau.",
+      "mirror": [
+        "Judith peut dire « Je traite la question du pupitre pour le bureau. Je ne transmettrai pas de message à Mireille. » Elle peut aussi se retirer et demander à un autre membre de traiter la partie matérielle. Mireille peut choisir un canal indirect pour la logistique et refuser qu’on lui demande de raconter la scène. Si elle cherche un soutien, le moment et l’interlocuteur lui appartiennent."
+      ],
+      "sources": ["oms-cddr", "france-violences-couple", "france-violences-urgence"],
+      "continuity": {
+        "choice": "Damien renonce au message et transmet une référence au seul bureau pour le dossier matériel. Judith s’en tient à ce rôle.",
+        "next": "Le bureau attend la réponse de la mairie sur le remplacement du pupitre et sur les créneaux. La limite sans contact s’applique aux intermédiaires."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "damien-reparer-le-pupitre-sans-condition",
+      "title": "Réparer un dommage en laissant l’autre choisir la distance",
+      "description": "Une solution est trouvée pour le pupitre. Damien doit dissocier ce qu’il peut réparer et ce qu’il voudrait encore obtenir.",
+      "context": "La semaine suivante, dans le bureau de la fanfare",
+      "topics": ["Honte après l’accès", "Réparation matérielle", "Réparation sans contrepartie"],
+      "clinical_focus": "Regret et responsabilité après l’accès",
+      "clinical_intro": "Devant le devis du pupitre, Damien a honte et voudrait savoir si son geste sera accepté. Le regret peut suivre un accès du trouble explosif intermittent. Il renseigne sur le vécu de Damien, tandis que le remplacement, les limites et les décisions de Mireille suivent leurs propres chemins. Chacun de ces éléments a une place dans l’après-coup.",
+      "opening": "Au bureau de la fanfare, Judith a sorti le devis de sous une chemise de partitions. Damien reconnaît la forme du pupitre sur la petite photo du magasin. Il avait cru que l’ancienne tige serait facile à remettre droite. Le devis prévoit un remplacement et la mairie a confirmé que Mireille souhaite récupérer le nouveau pupitre au guichet, à l’heure qui lui convient. Le bureau le commande. Damien peut prendre la dépense à sa charge en passant par la trésorière. Il fait glisser le papier pour lire le montant, puis recommence depuis le haut.\n\nIl avait failli annuler la rencontre en passant devant la salle des Tilleuls. Il avait vu des portants de couture derrière une fenêtre et imaginé toutes les conversations qui pouvaient avoir lieu à propos de lui. Maintenant qu’il est assis, il voudrait que Judith lui dise si Mireille a trouvé bien qu’il rembourse. La dernière fois, il a accepté qu’elle ne reçoive aucun message. Il remarque qu’il attend tout de même quelque chose en sens inverse. Il demande plutôt à la trésorière comment le reçu sera transmis.\n\nLa trésorière lui dit qu’elle peut attester le paiement au nom du bureau. Le moment où Mireille viendra chercher l’objet concerne le guichet et restera de leur côté. Sur la table, les partitions dépassent de la chemise. Damien reconnaît le morceau dont il voulait ralentir le dernier refrain. Il demande si le bureau a décidé qui jouerait la basse au concert. Judith dit qu’ils se prononceront séparément sur sa place. Pour l’instant, ils sont là pour le pupitre. Damien reprend le devis et demande à quelle date l’association veut commander.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le regret et la réparation suivent deux rythmes",
+          "text": "Une personne peut ressentir de la honte, de la fatigue ou du regret après un accès du trouble explosif intermittent. Ces réactions sont variables et n’indiquent pas à elles seules qu’un danger a cessé. La honte de Damien le pousse à éviter la rencontre avec le bureau et lui donne envie d’une réponse rassurante. La réparation porte sur un fait précis, le pupitre qu’il a endommagé. Elle avance si la dépense et la remise de l’objet sont prises en charge dans le cadre choisi par la personne touchée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Chercher une réponse au-delà du reçu",
+          "text": "Damien relit le papier plusieurs fois et cherche sur le visage de Judith un indice sur Mireille. Il découvre qu’il avait mêlé trois décisions. La trésorière peut organiser le remplacement, Mireille décide ce qu’elle veut communiquer et le bureau traite à part sa participation musicale. Quand Judith s’en tient au devis, Damien peut entendre la consigne sans la transformer en signe de pardon ou de rejet. L’envie d’être rassuré reste une difficulté à travailler avec son équipe."
+        },
+        {
+          "role": "strategies",
+          "heading": "Prendre en charge le coût sans négocier un retour",
+          "text": "Damien peut régler la dépense convenue, obtenir un reçu et laisser la mairie remettre le pupitre au moment choisi par Mireille. Le groupe peut conserver les dispositions de sécurité après ce paiement. Le regret peut être repris en consultation pour examiner ce qui se passe entre le souhait de réparer et la tentation de chercher une réponse. La personne lésée peut laisser l’objet transiter par le guichet ou demander une autre solution au bureau. Elle conserve le choix de parler ou de garder le silence."
+        }
+      ],
+      "ending_title": "Le reçu de la trésorière",
+      "ending": "La trésorière imprime le reçu après le paiement. Damien le range dans son carnet derrière la référence de réservation. Il demande à Judith de ne pas lui communiquer la date de retrait. Elle lui donne le jour de la prochaine réunion du bureau. Les conditions pour jouer seront discutées sans que le remplacement serve de preuve sur sa conduite à venir. Damien reprend sa veste. Avant de partir, il montre à Judith, sur sa propre partition, la mesure où il aimerait laisser un temps aux cuivres. Elle accepte de la regarder quand le bureau aura traité la question de sa place.",
+      "mirror": [
+        "La trésorière peut faire savoir à Damien ce qui a été réglé. « Le paiement est reçu. La mairie et Mireille s’occupent de la suite. » Mireille peut choisir une remise qui lui convient, demander un relais ou ne donner aucun retour. Judith peut laisser la question musicale au bureau. Chacun peut participer à une décision précise sans accepter une rencontre, offrir de réconfort ni se prononcer sur le pardon."
+      ],
+      "sources": ["oms-cddr", "oms-cim-6c73", "france-violences-couple"],
+      "continuity": {
+        "choice": "Damien règle le remplacement par la trésorerie et laisse le retrait confidentiel. Le bureau traite sa place à part.",
+        "next": "Le devis est clos pour Damien. La possibilité d’une reprise à la fanfare reste ouverte et dépend d’une décision distincte."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "damien-revoir-le-plan-apres-un-acces",
+      "title": "Agir quand le premier plan ne tient plus",
+      "description": "Un nouvel accès vise Maud à l’atelier. Le passage de relais protège les collègues et donne un point de départ au suivi.",
+      "context": "Le lundi d’après, au début du service de l’après-midi",
+      "topics": ["Nouvel accès", "Réévaluation du plan", "Relais de sécurité"],
+      "clinical_focus": "Nouvel accès malgré des progrès",
+      "clinical_intro": "Chez Leïla, Damien avait senti la tension assez tôt pour se retirer. Cette fois, à l’atelier, il insulte Maud avant d’identifier ce qui monte. Le trouble explosif intermittent peut évoluer de façon inégale. Le nouvel accès demande une réponse pour protéger les collègues et un réexamen du plan de suivi, même si un autre épisode s’est mieux passé.",
+      "opening": "Le lundi, Damien trouve une rangée d’étiquettes retournées sur la table de transmission. Il se souvient du lot et commence à lire le numéro à voix haute. Maud lui demande de poser la feuille dans le bac prévu. Elle avait donné la même consigne à l’équipe précédente pendant qu’il était au quai. Il entend qu’elle lui demande de poser la feuille et se surprend, presque dans la foulée, à lui crier dessus. Il l’insulte quand elle fait un pas en arrière. Aïcha lève la tête du planning. Maud sort du local sans répondre et appelle Denis depuis le bureau voisin.\n\nDamien a encore la feuille entre les mains. Il s’était imaginé qu’il sentirait d’abord ses avant-bras, comme chez Leïla. Il ne trouve rien de tel dans les secondes qui viennent de passer. Il pense au rouleau que Noé devait récupérer. Denis arrive à l’entrée du local et lui demande de laisser les documents sur la table et de gagner la salle de pause, que l’équipe utilise à d’autres heures. Damien pose la feuille. Il passe par le couloir libre, sans entrer dans le bureau où Maud est allée. Denis prend les transmissions en charge.\n\nDans la salle de pause, Damien voit sa veste accrochée sous une affiche de l’atelier. Il envisage de revenir pour dire que la consigne n’était pas claire. Il se rappelle comment il avait présenté les insultes contre Noé comme un accrochage. Il écrit ce qu’il vient de faire et le nom de la personne qui a repris le travail. Puis il appelle le service qui le suit pour signaler un nouvel accès. Denis lui donne ensuite l’heure à laquelle ils feront un point avec le responsable, séparément de Maud.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une stratégie peut aider dans certaines situations",
+          "text": "Savoir interrompre une montée de tension peut devenir un appui dans le trouble explosif intermittent. Un nouvel accès reste possible, notamment lorsque le changement survient avant que la personne remarque un signal. Damien a pu partir assez tôt de chez Leïla. À l’atelier, ses paroles agressives sont déjà sorties quand il se rend compte de ce qui s’est passé. Ce contraste donne une raison de revoir le plan en consultation. Il ne permet ni de prévoir la prochaine scène ni de conclure que l’expérience de la cour a perdu toute valeur."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le signal qu’il cherche et l’insulte entendue",
+          "text": "Damien cherche dans son souvenir la tension qu’il attendait dans les bras. Maud a entendu une insulte et a dû s’écarter pour solliciter Denis. Ces deux observations répondent à des questions différentes. Le souvenir de Damien peut aider l’équipe à ajuster le suivi. Les faits et leurs conséquences au travail appellent des mesures indépendantes de sa capacité à expliquer ce qui s’est passé. Denis peut également veiller à ce que l’ancienne consigne concernant Noé ne soit pas modifiée par le changement du jour."
+        },
+        {
+          "role": "strategies",
+          "heading": "Prévoir aussi la réponse à un accès déjà survenu",
+          "text": "La priorité est d’interrompre l’exposition des collègues et de passer par l’encadrement. Damien peut s’écarter, suivre les consignes de sécurité du lieu et signaler l’épisode à son équipe de soins. Avec elle, il pourra prévoir une réponse qui ne dépend pas seulement de repérer une sensation dans son corps. Le relais professionnel reste organisé par l’atelier. Maud peut choisir de faire un signalement ou de demander un appui séparé. Elle n’a aucune obligation d’être présente quand le responsable reçoit Damien."
+        }
+      ],
+      "ending_title": "Deux entretiens séparés",
+      "ending": "Denis reçoit Damien avec le responsable avant la fin du service. Il lui confirme qu’il assurera les transmissions les jours où Damien et Maud se croisent, le temps que l’encadrement fixe la suite. Maud choisit de voir le responsable à un autre moment. Damien accepte l’organisation et reçoit un rendez-vous plus rapproché du service de soins. En sortant, il écrit à Judith qu’il préfère que le bureau n’envisage pas de reprise pour lui cette semaine. Il lui demande de laisser quelqu’un d’autre assurer la basse si le groupe travaille le morceau. Il n’envoie aucun détail sur Maud.",
+      "mirror": [
+        "Maud peut quitter le local et demander à Denis de prendre les consignes. Une fois en sécurité, elle peut dire au responsable « Je veux parler de l’insulte à part et savoir qui assurera les transmissions. » Elle peut demander un appui sans parler à Damien. Aïcha choisit si elle veut rapporter ce qu’elle a vu. Le plan de soins de Damien reste la responsabilité de Damien et de son équipe."
+      ],
+      "sources": ["oms-cddr", "inrs-violence-interne", "mccloskey-tcc-2022"],
+      "continuity": {
+        "choice": "Damien suit le relais donné par Denis, signale le nouvel accès à son équipe et reporte une éventuelle reprise musicale. Maud choisit un entretien à part.",
+        "next": "Le soin et le travail réexaminent leurs plans respectifs. Le bureau peut régler le prêt avec la mairie sans attendre que Damien rejoue."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "damien-regler-le-pret-en-respectant-les-limites",
+      "title": "Régler le prêt d’une salle après avoir perdu la confiance",
+      "description": "La mairie confirme le calendrier des Tilleuls. Damien peut contribuer au morceau sans reprendre la réservation ni la clé.",
+      "context": "Le mercredi, après la confirmation écrite de la mairie",
+      "topics": ["Retentissement social", "Responsabilités séparées", "Accord sans rencontre"],
+      "clinical_focus": "Retentissement durable sur les engagements",
+      "clinical_intro": "L’agression liée à la salle a duré peu de temps. Plusieurs semaines plus tard, elle change encore les démarches de la fanfare et le rôle de Damien. Le retentissement du trouble explosif intermittent se lit aussi dans ces conséquences. Régler le désaccord sur les horaires permet aux deux groupes d’avancer sans que Mireille doive rencontrer Damien.",
+      "opening": "Armelle a imprimé deux feuilles avec les mêmes cases. Judith vérifie la couleur qu’elle leur avait demandée. Sur les deux, la couture a le jeudi soir et la fanfare deux samedis par mois. Toute exception sera réglée par courriel avec la mairie, assez tôt pour que l’autre groupe puisse garder son créneau. La clé à étiquette rouge restera au guichet entre les usages. Armelle rappelle que chaque association a confirmé par écrit. Judith signe pour la fanfare et prend la feuille qui ira dans son local. Elle a encore le temps de rejoindre les musiciens avant qu’ils choisissent les morceaux du concert.\n\nElle envoie à Damien un extrait du calendrier de la fanfare. Sur son téléphone, il retrouve la date où il voulait installer l’ampli en avance. Elle ne correspond plus à rien. Il n’ira pas chercher la clé et ne sera pas chargé des échanges avec le groupe de couture. Il ouvre le calendrier de son téléphone. Il avait gardé une alerte pour les horaires de la salle, qu’il avait créée en début d’année pour ne jamais oublier d’ouvrir. Il efface l’alerte. Il garde le rendez-vous du lendemain avec l’équipe de soins. À l’atelier, Denis assure encore les passages qui nécessitent un relais.\n\nDans un deuxième message, Judith lui demande s’il veut transmettre son idée pour la fin du morceau. Damien avait écrit des indications entre des notes de basse. Elles lui paraissaient claires chez lui et il ne sait pas si quelqu’un saura où regarder. Il ouvre le carnet près de son bol et fait une copie. En haut de la page, il ajoute le numéro de la mesure. Il demande à Judith de dire aux musiciens qu’ils peuvent essayer cette fin même s’ils choisissent de faire venir un autre bassiste.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Des conséquences qui dépassent le temps de l’accès",
+          "text": "Le retentissement fait partie de ce que les professionnels examinent pour comprendre le trouble explosif intermittent. Quelques instants d’agression peuvent changer l’usage d’un lieu, la répartition des rôles et l’envie de se retrouver. Dans le cas de Damien, le problème de départ portait sur une heure de réservation. Après l’agression, il a fallu un cadre qui protège le groupe de couture, un circuit pour le matériel et une décision sur les tâches de Damien. Les parties peuvent régler ces questions à des rythmes différents."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le rôle qui disparaît du calendrier",
+          "text": "La clé représentait une responsabilité dont Damien était fier. Quand il supprime l’alerte, il voit ce qu’il perd dans les semaines à venir. Mireille a besoin de pouvoir utiliser la salle à l’horaire prévu sans avoir à réexpliquer sa limite. Judith peut régler le prêt en tant que membre du bureau et garder du temps pour jouer. En traitant chaque besoin séparément, l’accord évite de faire de la présence de Damien la condition de la répétition ou de celle de Mireille la condition de l’accord."
+        },
+        {
+          "role": "strategies",
+          "heading": "Confier la salle à un circuit prévisible",
+          "text": "Le calendrier écrit, la clé remise au guichet et le rôle de Judith permettent aux associations d’agir sans contact entre les personnes concernées. Damien peut vérifier ce qu’il a encore le droit de faire et rendre utiles ses notes de musique par la voie convenue. Le bureau garde la décision sur sa participation future. Il n’a pas besoin d’une attestation de pardon ni d’un témoignage de Mireille pour organiser le prêt. Toute nouvelle difficulté peut être adressée à Armelle par le canal prévu."
+        }
+      ],
+      "ending_title": "La mesure envoyée au groupe",
+      "ending": "Judith reçoit la copie pendant qu’elle affiche le nouveau calendrier. Elle confirme à Damien que la réservation est réglée. Elle remet la page à Baptiste, qui dirige les répétitions. Il veut essayer la fin avec les musiciens avant de décider s’ils la gardent. Damien écrit « transmis » sur son carnet. Il avait imaginé que son idée n’existerait que s’il la jouait lui-même. Il entend pourtant très bien la basse de quelqu’un d’autre pendant qu’il relit ses deux dernières lignes. Il laisse le carnet ouvert sur la table et se prépare à partir à l’atelier.",
+      "mirror": [
+        "Armelle peut informer chaque association de l’accord écrit et du retrait de la clé. « Pour modifier un créneau, écrivez au guichet. » Elle peut faire ce point sans transmettre de message personnel. Mireille peut s’en tenir à la réponse donnée pour son groupe. Judith peut rester responsable du calendrier tout en refusant de s’occuper des relations entre les personnes. Chacun sait où adresser une question de salle."
+      ],
+      "sources": ["oms-cddr", "oms-cim-6c73", "france-violences-couple"],
+      "continuity": {
+        "choice": "Les associations confirment le prêt par écrit. Damien renonce à la clé et autorise l’usage de sa proposition musicale quel que soit le bassiste.",
+        "next": "Baptiste peut travailler la fin. Le bureau examine séparément une reprise limitée, après le rendez-vous de suivi qui revoit le plan."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "damien-reprendre-une-repetition-avec-un-relais",
+      "title": "Reprendre une répétition avec un rôle et des limites clairs",
+      "description": "Après avoir revu son plan avec l’équipe, Damien essaie un morceau en petit groupe. Chacun garde la possibilité de partir.",
+      "context": "Deux semaines plus tard, lors d’une répétition limitée de la fanfare",
+      "topics": ["Suivi cognitivo-comportemental", "Reprise progressive", "Plan ajusté après l’accès"],
+      "clinical_focus": "Reprise graduelle avec plan révisé",
+      "clinical_intro": "La fanfare propose à Damien d’essayer un morceau avec quelques volontaires. En consultation, il a préparé une réponse qui ne dépend plus d’un signe physique repéré à temps. Des approches cognitivo-comportementales peuvent aider certaines personnes suivies pour un trouble explosif intermittent. Ici, l’essai musical dépend aussi du cadre posé par le groupe et des choix de chacun.",
+      "opening": "Baptiste a aligné quatre chaises près de la prise, dans le local où la fanfare range ses partitions. Damien vient avec sa housse et son ampli. La salle des Tilleuls reste fermée pour lui ce jour-là. Le bureau lui propose de travailler un seul morceau avec Judith et deux autres musiciens qui ont accepté de venir. Baptiste commence par donner l’heure de fin. Quelqu’un pourra partir avant, sans avoir à expliquer pourquoi. Si une difficulté survient, Baptiste pourra arrêter la répétition. Damien sort la partition pliée à la dernière mesure. Il s’était promis de lire d’abord la leur.\n\nPendant le rendez-vous qui a suivi l’incident au travail, la psychologue lui a demandé ce qu’il ferait s’il se rendait compte qu’il coupe la parole avant de sentir la tension dans les bras. Ils ont travaillé une phrase courte et un geste de retrait. À l’atelier, le relais de Denis dépend toujours de l’organisation de l’équipe. Pour la musique, Damien sait qu’il peut interrompre sa propre participation sans attendre que Judith le lui suggère. Il a vérifié avec Baptiste où ranger l’ampli à la fin pour laisser le passage libre.\n\nLe premier essai dure deux minutes. Un des saxophones entre une mesure avant lui. Baptiste demande de repartir du refrain. Damien pensait que l’endroit délicat était la fin. Il pointe le passage du doigt et parle en même temps que Judith. Il s’entend lui couper la parole. Il dit qu’il s’arrête un instant et pose sa basse sur son support. Il s’écarte jusqu’au bout de la pièce. En face, Judith montre à Baptiste le repère qui manque sur sa propre feuille. Quand Damien revient près de la chaise, Baptiste lui demande s’il veut tenter la reprise. Damien dit qu’il est prêt si les autres le souhaitent. Baptiste laisse chacun décider pour lui-même.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un suivi qui se travaille dans des situations précises",
+          "text": "Des thérapies cognitivo-comportementales ont été étudiées dans le trouble explosif intermittent. De petits essais chez des adultes suivis pour ce trouble ont observé une diminution de comportements agressifs avec des interventions à plusieurs composantes. Ces résultats soutiennent une option de soin à discuter et laissent ouverte la réponse de chaque personne. Dans le suivi de Damien, repérer une montée de tension, revoir les interprétations et répéter un retrait font partie du travail. Les conditions d’une répétition restent du ressort de l’association et de ses membres."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Un changement dans l’échange avant un signe physique",
+          "text": "Damien s’entend couvrir la voix de Judith. Dans ce contexte, c’est un indice qui lui permet d’interrompre son intervention. Couper une parole peut aussi arriver dans un échange ordinaire et ne permet pas de reconnaître à lui seul un accès. La situation diffère de l’insulte adressée à Maud. Damien a ici l’occasion de faire une pause, tandis que Judith conserve sa place dans la discussion et explique ce qui manque sur la partition. Leur problème musical peut être repris si les personnes présentes le souhaitent."
+        },
+        {
+          "role": "strategies",
+          "heading": "Garder une sortie et décider à chaque reprise",
+          "text": "Baptiste peut s’en tenir au morceau et à la durée annoncée. Les participants peuvent interrompre leur présence sans fournir d’explication. Damien a préparé une manière de se retirer qui dépend de lui. Si une personne se sent menacée, elle peut partir ou demander de l’aide sans attendre qu’il applique ce qu’il a travaillé. Après la répétition, Damien peut rapporter à l’équipe l’indice qu’il a perçu et les difficultés restantes. Une séance utile ne décide pas à elle seule de la suite."
+        }
+      ],
+      "ending_title": "Le repère dessiné pour tous",
+      "ending": "Les trois musiciens veulent faire un dernier essai. Judith propose de dessiner un trait avant l’entrée du saxophone. Cette fois, ils jouent jusqu’à la fin. Damien tient le dernier temps assez longtemps pour que les autres puissent respirer avant de jouer leur note. Baptiste clôt la séance à l’heure prévue et leur propose de faire le point chacun de son côté avant le concert. Dans son carnet, Damien écrit « j’ai coupé la parole, j’ai posé la basse, j’ai attendu ». Il garde cette ligne pour son prochain rendez-vous. Baptiste écrira de son côté aux volontaires.",
+      "mirror": [
+        "Baptiste peut annoncer une condition que les volontaires comprennent d’emblée. « On fait un seul morceau. Tu peux partir quand tu veux. » Judith peut continuer si elle le souhaite, jouer à un autre moment ou cesser l’essai. Elle peut aussi signaler un problème au bureau. Damien peut parler de ses propres observations en consultation. Aucun membre de la fanfare n’a à évaluer ses progrès cliniques pour décider s’il veut jouer."
+      ],
+      "sources": ["oms-cddr", "mccloskey-tcc-2022", "mccloskey-tcc-2008"],
+      "continuity": {
+        "choice": "Damien utilise le plan revu et joue une répétition limitée. Baptiste propose de recueillir séparément les choix sur la suite musicale.",
+        "next": "Le bureau doit confirmer la participation au concert. La salle, la clé et le circuit sans contact restent régis par leur propre accord."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "damien-jouer-sans-reclamer-la-confiance",
+      "title": "Jouer sa partie sans réclamer la confiance",
+      "description": "Au concert, Damien tient le rôle musical qu’il voulait garder. Les limites décidées après l’agression continuent de s’appliquer.",
+      "context": "Un samedi de concert sous la halle, après l’essai de répétition",
+      "topics": ["Évolution dans le temps", "Confiance et autonomie", "Maintien du suivi"],
+      "clinical_focus": "Évolution et confiance des proches",
+      "clinical_intro": "Damien peut jouer un morceau au concert et continue son suivi du trouble explosif intermittent. Cette reprise est un changement observable. Elle ne fixe pas le rythme auquel les autres souhaitent le revoir. Les limites choisies, le prêt de la salle et la responsabilité de ses actes gardent leur place quand il retrouve un projet qui lui tient à cœur.",
+      "opening": "Sous la halle, Judith pose la caisse de partitions près de l’ampli. Damien a reçu du bureau l’autorisation de jouer un morceau au concert, après un point avec les musiciens concernés. La clé des Tilleuls est restée au guichet de la mairie. Il a apporté un rouleau de ruban pour retenir les feuilles au vent et le carnet où la dernière mesure est maintenant tracée deux fois. Il vérifie l’horaire du morceau. Après, il a prévu de ranger ses affaires du côté du quai, sans traverser l’espace où les bénévoles servent les boissons.\n\nLeïla lui a demandé la date en répondant à une photo de son carnet. Elle lui a dit qu’elle passerait le samedi au jardin partagé, où elle échange des graines. Damien se surprend à compter les chaises du premier rang avant de se rappeler qu’elle l’a déjà informé de son choix. Il range le téléphone. Les gens du groupe de couture n’ont aucune démarche à faire pour ce concert. Leurs créneaux sont inscrits sur la feuille de la mairie. Le bureau sait seulement que le dossier du pupitre est clos, sans autre retour attendu.\n\nJuste avant de jouer, un pan de la toile claque sous la halle. Baptiste refait le signe de départ pour que les percussionnistes le voient. Damien avait la main prête et doit attendre un temps de plus. Il regarde la partition de Judith. Le trait dessiné au dernier essai est toujours là. Il pense au premier jeudi, quand il voulait à tout prix essayer le morceau avant les autres. Cette fois, il écoute la reprise et entre avec les saxophones. Il a devant lui la fin qu’il avait imaginée et assez de place pour entendre les autres s’en servir.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Mesurer l’évolution au fil des situations",
+          "text": "L’évolution du trouble explosif intermittent s’apprécie dans le temps. L’équipe peut revenir sur les accès, sur leurs effets et sur ce que Damien réussit à faire quand une difficulté apparaît. Une soirée qui se passe bien renseigne sur un lieu, un moment et des conditions précises. Après les insultes au travail, l’équipe a aussi un épisode où le premier repère a manqué. Les deux expériences ont leur place dans le suivi. Damien peut retrouver une part de sa vie musicale tout en gardant des rendez-vous et des engagements de sécurité."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Les progrès et les décisions des autres se voient séparément",
+          "text": "Damien attend le nouveau signe de Baptiste et peut reprendre le morceau à l’endroit prévu. Judith vient jouer dans le cadre défini par le bureau. Leïla passe sa journée au jardin, et les choix de Mireille restent pris en compte dans l’accord sur la salle. Ces conduites n’ont pas à traduire un même niveau de confiance. Pour Damien, jouer à nouveau a une valeur propre. Pour les autres, la possibilité de venir, de partir ou de garder de la distance a aussi une valeur en elle-même."
+        },
+        {
+          "role": "strategies",
+          "heading": "Maintenir les dispositions après le concert",
+          "text": "Damien peut apporter au suivi ce qu’il a observé pendant la répétition et le concert, ainsi que ce qui lui reste difficile. Il peut aussi vérifier auprès de Baptiste ce qui est convenu pour les prochains morceaux. Le bureau garde les dispositions sur la clé et sur les échanges entre associations. Le choix de Mireille de ne recevoir aucun message continue de s’appliquer. Damien peut prendre sa part de responsabilité et continuer son projet sans organiser un moment où les autres devraient reconnaître son évolution."
+        }
+      ],
+      "ending_title": "Une dernière note tenue ensemble",
+      "ending": "Baptiste lève la main pour la dernière note. Damien la tient le temps prévu, puis entend le petit bruit des saxophones qu’on repose sur les genoux. Quand le morceau est fini, il débranche son ampli et le range du côté convenu. Judith lui demande s’il veut essayer le même arrangement sur un autre air, la semaine suivante, avec le même cadre de répétition. Il accepte. Sur son téléphone, il ajoute l’horaire sous le rendez-vous déjà pris avec l’équipe. Il pense aux graines de Leïla et se dit qu’elle lui racontera son samedi si elle en a envie. Il repart avec la basse et son carnet.",
+      "mirror": [
+        "Leïla peut dire « Samedi, j’ai mon échange de graines. Je te souhaite un bon concert. » Elle peut aussi décliner sans préciser son programme. Judith peut proposer une nouvelle répétition à des conditions qu’elle choisit et demander au bureau de prendre la suite. Mireille peut conserver sa distance. Personne n’a à venir, parler, confirmer un changement ou pardonner pour que Damien puisse poursuivre ses soins et la musique."
+      ],
+      "sources": ["oms-cddr", "mccloskey-tcc-2022", "france-violences-couple"],
+      "continuity": {
+        "choice": "Damien joue la fin du morceau dans le cadre prévu, accepte un nouvel essai limité et maintient ses rendez-vous.",
+        "next": "Le prêt est réglé et l’objectif de garder une place musicale est atteint. Le suivi, les relais au travail et la limite sans contact suivent leur propre cours."
+      }
+    }
+  ]
+}

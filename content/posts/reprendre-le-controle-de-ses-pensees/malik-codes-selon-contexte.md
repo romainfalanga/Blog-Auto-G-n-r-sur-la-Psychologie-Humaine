@@ -1,5 +1,5 @@
 ---
-title: "Malik : changer de codes sans se perdre"
+title: Changer de codes sans se perdre
 date: 2026-09-04T09:00:00+00:00
 description: "Du dépôt au groupe photo, Malik adapte ses mots. Il distingue une souplesse choisie des efforts qu’un milieu lui impose."
 slug: "malik-codes-selon-contexte"
@@ -100,6 +100,3 @@ Changer de codes selon le contexte peut être une ressource de communication. Le
 Repérer une attente, préparer une transition et examiner le coût des ajustements aide parfois à retrouver du choix. La souplesse personnelle ne dispense pas les autres de leur responsabilité d’accueil. Une pression injuste ne devient pas acceptable parce qu’une personne sait s’y adapter.
 
 Si ces efforts entraînent une fatigue durable ou le sentiment de ne jamais pouvoir exister librement, un psychologue peut aider à explorer les situations concernées. Il importe de partir des faits et des besoins exprimés, sans attribuer automatiquement le problème à une origine ou à une identité biculturelle. Plusieurs façons de parler peuvent appartenir à une même personne.
-
-Sources :
-- [Hong et ses collègues, approche dynamique des cadres culturels](https://pubmed.ncbi.nlm.nih.gov/10916861/)

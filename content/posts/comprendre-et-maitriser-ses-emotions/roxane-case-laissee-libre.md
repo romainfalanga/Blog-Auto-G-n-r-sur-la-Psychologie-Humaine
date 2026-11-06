@@ -31,11 +31,15 @@ Mme Sorel attend de savoir où placer le deuxième carton. Roxane pense à la pa
 
 ## Une aide précise laisse chacun prendre sa place
 
-Un appui à la prise de parole peut être prévu pour un moment donné et changé quand le groupe ou le lieu change. Dans un trouble des sons de la parole, une difficulté à se faire comprendre peut rester présente alors même qu’on ajuste la situation. Zoé peut dire une phrase au signal de Roxane lors du premier passage. Au deuxième, Roxane souhaite choisir entre la dire elle-même et la proposer sur carton. Dans les deux cas, le public peut continuer à suivre le jeu.
+Un appui à la prise de parole peut être prévu pour un moment donné et changé quand le groupe ou le lieu change. Dans un trouble des sons de la parole, une difficulté à se faire comprendre peut rester présente alors même qu’on ajuste la situation. Une personne qui connaît déjà la voix de Roxane ou le sujet de la devinette dispose de repères que d’autres auditeurs découvrent sur le moment.
 
-L’enseignante met ces possibilités à leur portée. Elle n’a pas besoin de décider de la participation de Roxane d’après ce qu’elle a entendu un jour de répétition. Elle peut s’assurer que les cartes sont accessibles, garder le déroulement assez souple et laisser Zoé mener son atelier. Leur travail sert le même projet de classe.
+## Ce qu’un auditeur parvient à entendre
+
+Lors d’une répétition, Salomé avait distingué le début de l’indice depuis le fond de la salle et demandé à Roxane de redire la fin. Sur un enregistrement, le bruit du ruban adhésif avait couvert une partie de la phrase. Le père de Roxane, habitué à sa façon de parler et déjà au courant de la devinette, avait compris plus vite ce qu’elle demandait dans un autre échange. Roxane se demande ce que le deuxième groupe entendra si plusieurs personnes répondent en même temps. En regardant la case qui se libère, elle craint d’avoir de nouveau à reprendre sa phrase alors que le jeu avance.
 
 ## Faire de la place aux premières idées
+
+Au premier passage, Zoé peut dire l’indice au signal de Roxane. Au deuxième, Roxane pourra le dire elle-même ou tendre le carton pour que le public lise sa phrase. Mme Sorel garde les cartes accessibles et laisse Roxane choisir sur place, pendant que Zoé mène son atelier.
 
 Nassim apporte la boîte à jetons. Roxane se souvient que, dans la cour, revenir à une marque aidait les joueurs à voir ce qui comptait. Elle propose un coin de table où poser un jeton à la première hypothèse. Elle pourra attendre quelques propositions sans prendre la parole dans le bruit des réponses. Après le second indice, les visiteurs pourront déplacer leur jeton s’ils ont changé d’idée. Le dessin reste caché jusque-là.
 
@@ -44,9 +48,3 @@ Zoé inscrit son nom près du rabat et sur le plan de l’atelier dessin. Roxane
 ## Une place pour les plumes
 
 Roxane barre le prénom de Zoé dans la deuxième colonne, puis le récrit plus loin, du côté du dessin. Elle dessine un petit carton à la place qui se libère. Mme Sorel leur demande si elle doit garder un double des indices. Roxane lui confie le premier. Elle glisse le second dans la poche du panneau, avec le galet pour le premier passage. Zoé dégage le bord du plan pour y sécher ses plumes de papier. Roxane en trouve une dont l’extrémité est pliée. Elle demande si elle peut la garder pour mettre dans son enveloppe.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal — Speech Sound Disorders: Articulation and Phonology](https://www.asha.org/practice-portal/clinical-topics/articulation-and-phonology/)
-- [Haute Autorité de santé — Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages ? (2017)](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)

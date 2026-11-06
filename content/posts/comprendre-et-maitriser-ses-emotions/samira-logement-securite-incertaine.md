@@ -1,5 +1,5 @@
 ---
-title: "Samira : le logement incertain et le besoin de sécurité"
+title: Le logement incertain et le besoin de sécurité
 date: 2026-09-03T08:00:00+00:00
 description: "Un courrier réveille les inquiétudes de Samira pour son logement. Elle distingue les informations à vérifier et les appuis à solliciter."
 slug: "samira-logement-securite-incertaine"
@@ -98,7 +98,3 @@ L’incertitude du logement touche des repères essentiels. Une réaction inqui�
 Ces démarches dépendent aussi de services accessibles, d’un temps disponible et d’un soutien matériel réel. Une personne qui reste en difficulté malgré ses efforts n’a pas échoué à se sécuriser intérieurement. Elle peut avoir besoin d’une réponse extérieure plus solide que ce qu’un exercice peut apporter.
 
 Si cette insécurité pèse durablement sur le sommeil ou la vie familiale, un médecin ou un psychologue peut proposer un espace de soutien. Pour les questions de logement, un professionnel compétent doit examiner la situation particulière. Chercher ces deux formes d’aide permet de prendre au sérieux la personne et les conditions dans lesquelles elle vit.
-
-Sources :
-- [Organisation mondiale de la santé, recommandations sur le logement et la santé](https://www.who.int/publications/i/item/9789241550376)
-- [ANIL, orientation des particuliers vers leur ADIL](https://www.anil.org/contact/)

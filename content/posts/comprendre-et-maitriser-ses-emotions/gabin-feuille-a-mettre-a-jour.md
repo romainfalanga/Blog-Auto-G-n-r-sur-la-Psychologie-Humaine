@@ -32,7 +32,11 @@ Il commence à taper « Il y a un retard ». Il a déjà écrit ces mots au déb
 
 ## Reprendre contact après avoir rejoué
 
-Une reprise du jeu peut survenir après une période où la personne avait retrouvé davantage de maîtrise. Le NICE recommande un accès rapide au soutien lorsque cela arrive et une discussion sur ce qui s’est passé. Gabin peut apporter au service ce qu’il sait de la veille, même s’il ne comprend pas encore pourquoi le plan a été difficile à utiliser. Il peut dire ce que la perte change aujourd’hui et demander quand ils peuvent se parler. L’équipe pourra revoir avec lui les protections, le soutien et les besoins qui ont changé. Le fait d’avoir déjà parlé de ces difficultés lui donne un point de départ pour le rendez-vous.
+Une reprise du jeu peut survenir après une période où la personne avait retrouvé davantage de maîtrise. Le NICE recommande un accès rapide au soutien lorsque cela arrive et une discussion sur ce qui s’est passé.
+
+## Comment cette difficulté se manifeste
+
+Gabin peut apporter au service ce qu’il sait de la veille, même s’il ne comprend pas encore pourquoi le plan a été difficile à utiliser. Il peut dire ce que la perte change aujourd’hui et demander quand ils peuvent se parler. L’équipe pourra revoir avec lui les protections, le soutien et les besoins qui ont changé. Le fait d’avoir déjà parlé de ces difficultés lui donne un point de départ pour le rendez-vous.
 
 ## Actualiser les informations pour le foyer
 
@@ -41,8 +45,3 @@ Nora peut organiser ses dépenses quand elle sait ce que Gabin est en mesure de 
 ## La chaise rangée et le message envoyé
 
 Gabin retrouve le contact et demande un échange plus tôt. Puis il envoie à Nora les deux informations qu’il a vérifiées et lui indique que le montant du prochain versement a changé. Il lui écrit quand il reviendra vers elle après le rendez-vous budgétaire. Nora répond qu’elle a reçu le message et regardera son propre échéancier. Gabin glisse la vis dans une enveloppe et la pose sur la chaise. Il enverra l’heure de son prochain passage à l’atelier quand il la connaîtra.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG248, repérage et accompagnement des dommages liés aux jeux d’argent](https://www.nice.org.uk/guidance/ng248/chapter/recommendations)

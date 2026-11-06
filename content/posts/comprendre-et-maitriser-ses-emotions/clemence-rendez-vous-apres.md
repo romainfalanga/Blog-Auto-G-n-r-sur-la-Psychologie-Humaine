@@ -31,7 +31,11 @@ Pendant l’entretien, elle pose le document sur la table et demande qui va repr
 
 ## Assurer la continuité après une évaluation urgente
 
-Quand plusieurs services interviennent auprès d’une personne qui a un trouble des conduites alimentaires, la coordination fait partie des soins. Le NICE recommande que les équipes concernées se transmettent les informations utiles et collaborent sur la suite de la prise en charge. Clémence peut demander ce qui a déjà été transmis, qui répondra à ses questions et comment se dérouleront les prochains rendez-vous. Elle peut apporter le document qu’elle a reçu et signaler ce qu’elle ne comprend pas. Les professionnels apprécient l’évolution de sa santé et l’aident à décider de la suite. La reprise du ciné-club peut être un sujet de discussion avec l’équipe.
+Quand plusieurs services interviennent auprès d’une personne qui a un trouble des conduites alimentaires, la coordination fait partie des soins. Le NICE recommande que les équipes concernées se transmettent les informations utiles et collaborent sur la suite de la prise en charge.
+
+## Comment cette difficulté se manifeste
+
+Clémence peut demander ce qui a déjà été transmis, qui répondra à ses questions et comment se dérouleront les prochains rendez-vous. Elle peut apporter le document qu’elle a reçu et signaler ce qu’elle ne comprend pas. Les professionnels apprécient l’évolution de sa santé et l’aident à décider de la suite. La reprise du ciné-club peut être un sujet de discussion avec l’équipe.
 
 ## Répondre au club sur ce qui change pour la soirée
 
@@ -40,8 +44,3 @@ Clémence peut prévenir la référente qu’elle attend de confirmer sa présen
 ## La fiche sort de la chemise
 
 Clémence repart en sachant quel contact prendra la suite et à quel moment elles feront le point. Elle transmet la fiche à la référente et lui dit qu’elle confirmera sa présence après ce rendez-vous. Baya lui envoie la question qu’elle a écrite sur le rideau. Clémence lui répond sur un mot qu’elle trouve bien choisi, puis demande si la référente a réussi à lire la référence de la copie. Le document de l’évaluation reste rangé dans sa chemise.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG69, repérage et prise en charge des troubles des conduites alimentaires](https://www.nice.org.uk/guidance/ng69/chapter/recommendations)

@@ -31,9 +31,11 @@ Inès traverse le hall avec son cahier à spirale. La vitrine doit accueillir le
 
 ## Évaluer ce qui a changé et ce qui gêne encore les repas
 
-Le suivi de l’ARFID peut tenir compte de ce qui a facilité ou gêné les repas dans un nouveau cadre, tout en continuant d’évaluer la santé et les besoins nutritionnels. La possibilité d’aller au voyage renseigne sur ce séjour et les appuis effectivement disponibles. Un séjour possible avec des appuis donne un point de départ pour examiner les difficultés qui persistent. L’ARFID peut continuer à l’âge adulte et peut aussi se manifester pour la première fois à cet âge. Le suivi s’adapte à ce que la personne vit et aux effets de la restriction sur sa santé et son quotidien. La diététicienne peut reprendre avec Adèle les différences entre les repas et la façon dont le retour au collège se passe. Le médecin garde sa part dans le suivi de la santé.
+Le suivi de l’ARFID peut tenir compte de ce qui a facilité ou gêné les repas dans un nouveau cadre, tout en continuant d’évaluer la santé et les besoins nutritionnels. La possibilité d’aller au voyage renseigne sur ce séjour et les appuis effectivement disponibles. Un séjour possible avec des appuis donne un point de départ pour examiner les difficultés qui persistent. L’ARFID peut continuer à l’âge adulte et peut aussi se manifester pour la première fois à cet âge. Le suivi s’adapte à ce que la personne vit et aux effets de la restriction sur sa santé et son quotidien.
 
-Adèle veut garder un point pour une prochaine sortie : elle a pu demander de l’aide plus tôt quand elle savait à qui parler. Pour les repas, il faudra discuter du prochain lieu et des besoins du moment avant de reprendre le même plan. Rien n’oblige à décider de la prochaine nuit hors de chez elle à la fin de ce rendez-vous.
+## La nuit au centre et le temps passé à redouter les repas
+
+Eva se souvient d’abord qu’Adèle a dormi au centre. Adèle repense au déjeuner qu’elle a pu prendre au réfectoire, puis aux tables déplacées le soir. Elle se rappelle le temps passé à se demander si elle devrait réussir à manger comme à midi. Elle a aussi pu demander l’aide plus tôt au petit déjeuner. Le récit du séjour fait apparaître l’effort que le simple fait d’être restée ne rend pas visible.
 
 ## Laisser au dessin l’espace qui lui revient
 
@@ -41,13 +43,8 @@ Pour choisir son tirage, Adèle peut regarder de l’endroit d’où les élève
 
 Eva peut venir voir la vitrine et demander à Adèle de lui montrer cette différence. À un autre moment, elle peut lui proposer de reprendre le prochain rendez-vous et la question des repas au collège. Adèle a choisi de faire place à ces deux conversations. Elle n’a pas besoin de les tenir devant les mêmes personnes.
 
+La diététicienne peut reprendre avec Adèle les différences entre les repas et la façon dont le retour au collège se passe. Le médecin garde sa part dans le suivi de la santé. Avant une autre sortie, les adultes et Adèle pourront discuter des besoins et des appuis selon le lieu. Adèle peut en reparler au moment de préparer une prochaine sortie.
+
 ## À hauteur de la barre courte
 
 Adèle rend le tirage régulier à Mme Roussel. Elle garde celui qui laisse des vides et l’abaisse jusqu’à ce que la barre courte sorte du reflet. Inès écrit « Vu du bout de la ligne » en haut du carton et lui rend le crayon. Adèle signe à côté du mot « dessin ». Inès écrit son prénom sur la ligne « son ». Eva lui demande d’où vient le bleu. Adèle déplie dans son carnet le morceau d’épaule de la vieille veste. Elle lui montre l’envers, que le soleil n’a pas décoloré, puis demande à Mme Roussel s’il restera assez de papier pour essayer une autre couleur la semaine prochaine.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Hospices civils de Lyon — ARFID ou trouble évitant ou restrictif de la prise alimentaire](https://www.chu-lyon.fr/arfid)
-- [Maudsley Centre for Child and Adolescent Eating Disorders (NHS) — ARFID Service Frequently Asked Questions](https://mccaed.slam.nhs.uk/wp-content/uploads/2022/12/ARFID-Service-FAQs-Dec-22.pdf)
-- [Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust — ARFID: Creating supportive mealtimes](https://www.cntw.nhs.uk/resources/avoidant-restrictive-food-intake-disorder-arfid-simple-suggestions-series-creating-supportive-mealtimes)

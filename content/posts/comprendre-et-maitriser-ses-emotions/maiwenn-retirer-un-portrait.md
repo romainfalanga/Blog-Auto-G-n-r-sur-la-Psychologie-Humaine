@@ -32,7 +32,11 @@ Le portrait, c’est autre chose. Dans le cadre, Rachid regarde au-dessus de l�
 
 ## Quand un changement visible entraîne du travail invisible
 
-Une retouche tardive peut demander beaucoup de travail quand écrire et relire exigent déjà un effort important. Rachid a parlé de son visage ; il n’a rien dit du cadrage. Pour Maïwenn, il change tout de même plusieurs choses : l’ordre des deux images, la phrase voisine et le temps qu’elle doit trouver pour les revoir. Elle peut être déçue de perdre un cadre qu’elle aime et respecter la décision. L’accord sur les mots de Rachid et celui sur la photo sont deux questions distinctes. Elles avaient prévu de lui montrer l’image ; elle ne lui demande pas de l’accepter pour leur éviter des modifications.
+Une retouche tardive peut demander beaucoup de travail quand écrire et relire exigent déjà un effort important. Rachid a parlé de son visage ; il n’a rien dit du cadrage.
+
+## Comment cette difficulté se manifeste
+
+Pour Maïwenn, il change tout de même plusieurs choses : l’ordre des deux images, la phrase voisine et le temps qu’elle doit trouver pour les revoir. Elle peut être déçue de perdre un cadre qu’elle aime et respecter la décision. L’accord sur les mots de Rachid et celui sur la photo sont deux questions distinctes. Elles avaient prévu de lui montrer l’image ; elle ne lui demande pas de l’accepter pour leur éviter des modifications.
 
 ## Reprendre le fil à partir de ce qui reste
 
@@ -41,8 +45,3 @@ Lou ressort le tirage de la pince orange, où on ne lit pas les noms du plan. Su
 ## À la place du portrait
 
 Chez elle, Maïwenn enlève le portrait du dossier de la maquette et prévient Sofiane de l’échange. Elle ne lui envoie pas les raisons de Rachid, qu’elle ne lui a pas demandées. À côté du tirage de la pince, elle place la nouvelle légende et laisse un commentaire pour Lou. Ensemble, elles relisent le début modifié et la phrase sur les chariots. Elles notent que les faits ont été vérifiés. À quinze heures trente vendredi, il restera à vérifier la forme de la nouvelle légende et le reste de l’épreuve.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [American Speech-Language-Hearing Association, Written Language Disorders](https://www.asha.org/Practice-Portal/Clinical-Topics/Written-Language-Disorders/)

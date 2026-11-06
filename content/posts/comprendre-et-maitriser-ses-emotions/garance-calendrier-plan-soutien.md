@@ -32,6 +32,8 @@ Garance lui montre la page des contacts et garde les autres feuilles dans la poc
 
 Un plan partagé peut préciser ce que la personne veut faire et qui contacter si une inquiétude apparaît. Le NICE recommande de construire ces repères avec la personne suivie et, lorsque c’est approprié, avec les proches qu’elle choisit. Les changements qui retiennent l’attention, les modalités de contact et la réponse en cas de risque sont discutés dans le cadre des soins. Pour Garance, la pochette contient des informations de travail. Elle peut les reprendre au rendez-vous si ses besoins ou les disponibilités d’Éva changent.
 
+## Comment cette difficulté se manifeste
+
 Garance partage la manière dont elle souhaite qu’Éva lui parle. Elle peut préciser quels faits lui semblent utiles, comme une succession de nuits très différentes ou des engagements inhabituels. Éva peut lui dire ce qu’elle observe, demander comment Garance se sent et lui rappeler le contact prévu. La lecture clinique revient aux soignants. Si la situation paraît urgente ou présente un danger immédiat, le plan indique de joindre un service d’urgence. Éva peut demander de l’aide sans attendre d’avoir compris quel épisode se dessine.
 
 ## Séparer les engagements et le soutien
@@ -43,8 +45,3 @@ Garance souhaite aussi pouvoir écrire à sa psychiatre avant le prochain rendez
 ## Une seule notice dans le message
 
 Garance sort la partition du sac et la donne à Éva. Sur l’écran, elle écrit à Lise qu’elle pourra relire une notice, si le texte est prêt à temps, et qu’elle préfère laisser les autres à l’ensemble. Elle garde le calendrier ouvert jusqu’à ce que l’heure de retour du catalogue soit notée. Éva photographie la page de contacts avec son accord. Garance range le reste dans la pochette bleue. Quand Éva s’en va, elle joue le début de la valse à mi-voix en cherchant un trombone. Elle se rappelle enfin l’endroit où sa partie reprend.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

@@ -100,5 +100,3 @@ Les rythmes différents dans un couple peuvent créer des malentendus même lors
 Un accord utile protège la récupération et donne une place aux besoins des deux partenaires. Il peut être court, révisable et imparfait. Sa valeur tient à ce qu'il rend possible dans la vie réelle, avec les contraintes qui existent aujourd'hui.
 
 Si des désaccords se répètent dans une relation où chacun peut parler et refuser sans crainte, un psychologue ou un professionnel de l’accompagnement conjugal peut aider à les examiner. Les difficultés liées aux horaires méritent aussi une discussion au travail : le couple n'a pas à résoudre seul toutes leurs conséquences.
-
-Sources : [Flood et Genadek, contraintes de travail et temps partagé des couples](https://pmc.ncbi.nlm.nih.gov/articles/PMC4712716/) ; [INRS, horaires atypiques et vie familiale](https://www.inrs.fr/risques/travail-horaires-atypiques/foire-aux-questions.html) ; [Arrêtons les violences, violences au sein du couple](https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple).

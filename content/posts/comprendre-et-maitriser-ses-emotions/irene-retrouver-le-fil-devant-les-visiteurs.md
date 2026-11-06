@@ -31,7 +31,11 @@ Ilyès avait glissé un signet sous la première page des toits. Il se tourne ve
 
 ## Reprendre peut faire partie de la lecture
 
-Participer à une activité reste possible quand un mouvement répété en interrompt un moment. Ce qui compte ici, c’est qu’Irène puisse retrouver l’image et décider ce qu’elle veut faire de la remarque du garçon. Après l’expérience du CDI, le rire lui fait lever la tête. Dans cette salle, le garçon montre un détail du livre. Irène a le temps d’écouter sa proposition avant de revenir au pli. Elle n’a pas à deviner ce qu’un autre visiteur penserait de ses gestes.
+Participer à une activité reste possible quand un mouvement répété en interrompt un moment. Ce qui compte ici, c’est qu’Irène puisse retrouver l’image et décider ce qu’elle veut faire de la remarque du garçon. Après l’expérience du CDI, le rire lui fait lever la tête. Dans cette salle, le garçon montre un détail du livre.
+
+## Comment cette difficulté se manifeste
+
+Irène a le temps d’écouter sa proposition avant de revenir au pli. Elle n’a pas à deviner ce qu’un autre visiteur penserait de ses gestes.
 
 La possibilité de reprendre vient de plusieurs choses qui fonctionnent ensemble : l’espace disponible, le signet et l’accord avec Ilyès. Elle se voit dans la question qu’Irène peut poser ensuite. On pourrait avoir la même reprise un jour où les mouvements sont plus présents, ou perdre le fil un jour où ils le sont moins. L’essai renseigne sur l’aide apportée dans cette lecture.
 
@@ -44,8 +48,3 @@ La femme a posé une question à laquelle le livre ne donne pas de réponse. Les
 ## La miche devient une sonnette
 
 « La page, s’il te plaît. » Ilyès retrouve le pli grâce au signet et Irène demande qui viendrait sonner. Le garçon dit « les gens du canal » : ils sortiraient par les marches et monteraient jusqu’aux toits pour acheter du pain. La femme rit à son tour et montre où elle ferait passer le chemin. Irène esquisse la liaison au verso d’un signet. Quand le groupe repart, elle demande à Ilyès d’accueillir le suivant le temps qu’elle range ce dessin dans leur pochette. Puis elle pousse sa trousse de quelques centimètres pour qu’elle ne recouvre pas le banc.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Great Ormond Street Hospital for Children (NHS) — Stereotypies: repetitive movements or sounds (2026)](https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/stereotypies-repetitive-movements-or-sounds/)

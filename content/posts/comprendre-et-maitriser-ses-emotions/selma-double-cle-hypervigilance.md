@@ -33,6 +33,8 @@ Une fois le portail fermé, ils restent sous l’auvent. Selma demande si André
 
 L’hypervigilance peut se manifester par une attention soutenue à ce qui pourrait signaler un danger. Dans le trouble de stress post-traumatique, ce sentiment d’alerte peut rester marqué alors même que la personne a vérifié les éléments disponibles dans la situation. Il peut lui coûter du temps ou lui rendre difficile de suivre une conversation. Une personne peut par ailleurs devoir vérifier un risque concret. La protection de l’espace où le vitrier travaille garde son importance.
 
+## Comment cette difficulté se manifeste
+
 Selma a deux renseignements différents à considérer. Elle connaît les limites indiquées par le vitrier. Elle remarque aussi que son attention retourne aux bruits quand André lui parle. Elle peut apporter cette différence à sa thérapeute. L’une des questions à examiner concerne les situations où l’alerte prend plus de place qu’elle ne le souhaiterait.
 
 ## Un accord qui dit ce que chacun prend en charge
@@ -44,8 +46,3 @@ Si Selma trouve difficile de cesser de guetter le bruit après leur échange, el
 ## L’enveloppe au prénom d’André
 
 Selma sort le double de l’enveloppe. Elle montre à André le repère de l’allée et lui dit quand elle prévoit de revenir jeudi. « L’arrosoir est au bout, tu le verras. » Il lui demande s’il peut apporter un deuxième sachet de radis. Elle lui répond qu’elle attend de voir combien de place prennent les premiers. Lorsqu’ils arrivent au coin de la rue, la feuille de plastique claque encore. André prend le chemin de la boulangerie. Selma cherche dans sa poche le reçu du vitrier qu’elle voulait mettre à l’abri et garde l’enveloppe vide pour le ranger.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

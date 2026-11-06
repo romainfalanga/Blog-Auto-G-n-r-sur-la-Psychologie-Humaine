@@ -1,5 +1,5 @@
 ---
-title: "Patrick accepte un coup de main"
+title: Accepter de l’aide quand l’autonomie change
 date: 2026-03-22T04:33:16+00:00
 description: "Quand ouvrir un bocal devient douloureux, Patrick décide de dire à Catherine qu’il a besoin d’aide."
 categories: ["Comprendre et maîtriser ses émotions"]
@@ -11,6 +11,8 @@ personnage: "Patrick"
 sujet: "vulnérabilité"
 contexte: "face au vieillissement"
 draft: false
+editorial_sources:
+- https://www.inrs.fr/risques/lombalgies/prevention
 ---
 
 Le bocal glisse dans le torchon. Au deuxième essai, la douleur dans le pouce de Patrick remonte jusque dans le poignet. Il pose les haricots près de l’évier et enfonce la pointe d’une petite cuillère sous le couvercle. Sur la planche, les tomates sont déjà coupées. Il lui manque juste les haricots pour finir le déjeuner.
@@ -52,8 +54,7 @@ Si les souvenirs de Marcel lui reviennent, Patrick peut écrire quelques lignes 
 L’après-midi, Léo remplit de terre un seau qu’il ne réussit pas à retourner. Patrick se penche pour le lui prendre, puis s’arrête. « Tu veux que je le tienne ? » Son petit-fils préfère appuyer sur les bords et le retourner tout seul. Le château se défait d’un côté. Léo décrète qu’il faut une porte à cet endroit.
 
 Catherine revient avec deux verres d’eau. Patrick lui dit qu’il a aussi demandé un coup de main pour prendre des notes au chantier. Ça l’a gêné, et le bocal l’agace encore. Catherine ne commente pas. Elle demande à Léo où on entre. Patrick lui montre la porte avec le pied, du bout de sa chaussure.
+
 ---
 
 Une douleur peut appeler un ajustement ou un avis médical. Demander un coup de main pour une tâche laisse chacun décider de l’aide qu’il peut donner ou qu’il souhaite recevoir.
-
-Sources : [INRS, prévention des lombalgies au travail](https://www.inrs.fr/risques/lombalgies/prevention).

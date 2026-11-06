@@ -32,6 +32,8 @@ Maintenant, Éva lui écrit qu’elle a reçu plusieurs messages avant l’aube 
 
 Un changement qui persiste et se manifeste dans plusieurs activités mérite d’être décrit à un professionnel. Garance a repéré des nuits plus courtes, une activité inhabituelle et des engagements qui s’accumulent. Elle se rappelle aussi des soirées où elle parlait beaucoup après une bonne répétition et retrouvait ensuite son rythme. La comparaison l’aide à dire ce qui lui paraît nouveau dans ces derniers jours.
 
+## Comment cette difficulté se manifeste
+
 Une nuit brève ou un devis trop vite accepté ne suffit pas à établir un épisode. Le manque de sommeil peut avoir plusieurs causes. Une évaluation examine notamment l’évolution de l’humeur, de l’énergie, du besoin de sommeil et des comportements par rapport aux habitudes de la personne. Garance peut transmettre des faits même si elle ignore leur sens. Elle dispose d’un plan convenu pour joindre son équipe lorsque plusieurs changements préoccupants se prolongent.
 
 ## Écrire au cabinet et suspendre un engagement
@@ -43,8 +45,3 @@ Dans l’intervalle, elle peut prévenir un client qu’elle confirmera la date 
 ## Le brouillon reste ouvert
 
 Garance téléphone au cabinet. Elle donne des exemples avant de dire le mot qu’elle a hésité à employer. La personne qui répond lui propose un créneau rapproché avec la psychiatre et lui rappelle comment joindre le service si la situation se dégrade avant ce rendez-vous. Garance note ces deux informations près du téléphone. Elle écrit à Lise qu’elle doit revoir ce qu’elle pourra faire sur les notices. Puis elle ouvre le catalogue à la page où elle s’était arrêtée. Dans la marge, elle retrouve un commentaire qu’elle a déjà traité et choisit de le laisser pour l’instant.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

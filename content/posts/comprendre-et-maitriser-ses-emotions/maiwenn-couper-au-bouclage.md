@@ -32,7 +32,11 @@ Sofiane arrive pour demander si le bas de page peut être fixé. Maïwenn avait 
 
 ## Quand l’effort est réel et que l’appui a une limite
 
-Des appuis utiles peuvent alléger une partie du travail sans faire disparaître le temps nécessaire pour produire un texte. Sur le premier accord, un indice a suffi. Sur le second, Maïwenn a demandé la formulation ; Lou la lui a donnée et Maïwenn a vérifié ce qu’elle mettait dans la phrase. Elle connaît mieux ce qu’elle veut demander dans l’instant. Il reste d’autres lignes à relire. Lou a réservé un quart d’heure pour toute l’épreuve. L’encadré devait justement pouvoir sortir dans ces conditions. Le retirer permet de tenir un choix fait en amont, plutôt que de faire semblant d’avoir relu.
+Des appuis utiles peuvent alléger une partie du travail sans faire disparaître le temps nécessaire pour produire un texte. Sur le premier accord, un indice a suffi.
+
+## Comment cette difficulté se manifeste
+
+Sur le second, Maïwenn a demandé la formulation ; Lou la lui a donnée et Maïwenn a vérifié ce qu’elle mettait dans la phrase. Elle connaît mieux ce qu’elle veut demander dans l’instant. Il reste d’autres lignes à relire. Lou a réservé un quart d’heure pour toute l’épreuve. L’encadré devait justement pouvoir sortir dans ces conditions. Le retirer permet de tenir un choix fait en amont, plutôt que de faire semblant d’avoir relu.
 
 ## Valider une page à la taille du temps disponible
 
@@ -41,8 +45,3 @@ Maïwenn et Lou reprennent ce qu’elles pourront vérifier avant le départ de 
 ## Donner son accord sur l’épreuve
 
 À quinze heures quarante-quatre, Lou tient encore son sac ouvert quand Sofiane leur montre le bas de page recalé. Maïwenn lit la légende de la table. Elle retrouve le bruit du plateau, puis le silence. Lou lui montre leurs deux prénoms sous le titre. Elles donnent leur accord à Sofiane. Il transmet le numéro avant seize heures. Maïwenn replie la feuille où le rectangle est rayé et la glisse dans sa poche. Elle regrette encore le tablier, mais ne veut plus remettre l’encadré.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [American Speech-Language-Hearing Association, Written Language Disorders](https://www.asha.org/Practice-Portal/Clinical-Topics/Written-Language-Disorders/)

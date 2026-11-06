@@ -18,7 +18,7 @@ draft: false
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Sortir de ses schémas répétitifs</div>
-    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/salome-nom-maniere-adressee/">Salomé demande qu’on l’appelle par son prénom</a></h3>
+    <h3 class="parcours-title"><a href="/posts/sortir-de-ses-schemas-repetitifs/salome-nom-maniere-adressee/">Demander à être appelée par son prénom choisi</a></h3>
     <p class="parcours-resume">Chez son fournisseur, Salomé précise son prénom et les accords féminins qu’elle utilise. Le vendeur corrige sa manière de l’appeler et elle revient à sa commande.</p>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/salome-nom-maniere-adressee/" class="parcours-link">Lire</a>
   </div>

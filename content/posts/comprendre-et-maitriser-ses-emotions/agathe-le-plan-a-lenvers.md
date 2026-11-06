@@ -32,7 +32,11 @@ Près du cabanon, Lila retourna la page pour retrouver le fermoir dans la légen
 
 ## Reprendre avec ses propres repères
 
-Reformuler une consigne consiste à redire son sens, parfois en s’appuyant sur un geste ou un exemple. Dans le trouble développemental du langage, comprendre puis formuler une réponse peuvent présenter des difficultés distinctes. Agathe préfère montrer l’endroit qu’elle a compris et dire ensuite ce qu’elle ferait. Cette fois, elle utilise cette manière de faire pour donner un départ à Sami. Son trajet n’a pas besoin d’être décrit d’un seul souffle : il devient possible de comparer un lieu réel, un dessin et un geste. Le premier essai des deux CM1 ne renseigne pas sur leur langage. Le plan ne disait pas comment se placer ; ce manque suffit à expliquer qu’on parte ailleurs.
+Reformuler une consigne consiste à redire son sens, parfois en s’appuyant sur un geste ou un exemple. Dans le trouble développemental du langage, comprendre puis formuler une réponse peuvent présenter des difficultés distinctes.
+
+## Comment cette difficulté se manifeste
+
+Agathe préfère montrer l’endroit qu’elle a compris et dire ensuite ce qu’elle ferait. Cette fois, elle utilise cette manière de faire pour donner un départ à Sami. Son trajet n’a pas besoin d’être décrit d’un seul souffle : il devient possible de comparer un lieu réel, un dessin et un geste. Le premier essai des deux CM1 ne renseigne pas sur leur langage. Le plan ne disait pas comment se placer ; ce manque suffit à expliquer qu’on parte ailleurs.
 
 ## Voir ce que fait l’autre du message
 
@@ -41,9 +45,3 @@ Au lieu de répéter le trajet plus fort, on peut convenir d’un point de dépa
 ## La légende au bord du banc
 
 Lila dessina un fermoir et écrivit « réserve » dans la marge, à la hauteur du cabanon. Camille ouvrit la porte et Sami montra la boîte à côté de la ficelle. Agathe pouvait maintenant sortir la question des fleurs. Sami voulait les voir depuis le banc ; Lila préférait un coin qui laisserait le passage libre. Elle dessina une étoile au pied de la clôture et Sami en mit une près du banc. Agathe ne gomma aucune des deux. De retour en classe, Inès voulait savoir si le plan avait marché. Agathe lui montra les traits de Lila et les deux étoiles. Il faudrait expliquer à leurs camarades comment ils en étaient arrivés là, avant de recopier tout cela.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [American Speech-Language-Hearing Association, Spoken Language Disorders](https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/)
-- [Haute Autorité de santé, Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2822893/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages)

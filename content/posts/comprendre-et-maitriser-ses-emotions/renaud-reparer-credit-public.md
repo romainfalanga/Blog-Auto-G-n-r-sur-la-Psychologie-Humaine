@@ -34,6 +34,8 @@ Il demande si elle a déjà une formulation. Yara lui montre les trois lignes qu
 
 Recevoir de la reconnaissance pour un travail qu’on n’a pas fait peut mettre une personne devant une décision. Chez Renaud, l’attribution erronée satisfait un besoin de visibilité particulièrement fort. Il cherche d’abord une formulation qui lui permettrait de garder une partie de cette place. La préoccupation pour sa propre image peut donner moins de poids à ce que l’erreur coûte à Yara.
 
+## Comment cette difficulté se manifeste
+
 Le fait à traiter se vérifie dans deux documents. Yara a conçu les formes et mené les essais. Renaud a travaillé sur les textes et les panneaux. La correction porte sur le crédit diffusé et ne dépend pas de l’histoire de son diagnostic. Yara conserve une possibilité de vérifier ce qui change et de répondre si la phrase est reprise ailleurs.
 
 ## Faire parvenir la correction aux personnes concernées
@@ -45,8 +47,3 @@ Plus tard, Renaud peut parler en consultation de sa difficulté à se séparer d
 ## La version que Nora envoie
 
 Nora accuse réception et propose de retirer le premier fichier. Renaud envoie la description courte qu’ils ont relue ensemble. Lorsque la nouvelle pièce jointe arrive, Yara retrouve son nom à côté de sa contribution. Elle ferme l’ancienne version et demande à Renaud s’il pourra répondre aux questions du fabricant pendant qu’elle explique l’essai. Il répond oui. Avant de partir, il voit une invitation de Malik pour dîner le mois suivant. Il lui demande si Édith peut venir aussi.
-
-## Sources
-
-- [American Psychiatric Association, présentation du trouble de la personnalité narcissique selon le DSM-5-TR](https://www.psychiatry.org/news-room/apa-blogs/what-is-narcissistic-personality-disorder/)
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)

@@ -31,7 +31,11 @@ En rentrant chercher les couverts pour vérifier qu’il y en a assez, Hélène 
 
 ## Le coût de décoder une consigne en dehors du travail
 
-Une consigne peut attendre qu’elle soit présentée dans des conditions où la personne pourra l’utiliser. Le message de la recyclerie mélange le trajet d’Hélène et les horaires du camion, comme si une même image suffisait aux deux destinataires. L’OMS rappelle que le fonctionnement au quotidien dépend aussi de ce que demande l’environnement. Dans le cas d’Hélène, il est plus utile de distinguer qui doit faire quoi que de lui demander de relire la photo jusqu’à en tirer une heure.
+Une consigne peut attendre qu’elle soit présentée dans des conditions où la personne pourra l’utiliser. Le message de la recyclerie mélange le trajet d’Hélène et les horaires du camion, comme si une même image suffisait aux deux destinataires. L’OMS rappelle que le fonctionnement au quotidien dépend aussi de ce que demande l’environnement.
+
+## Comment cette difficulté se manifeste
+
+Dans le cas d’Hélène, il est plus utile de distinguer qui doit faire quoi que de lui demander de relire la photo jusqu’à en tirer une heure.
 
 La HAS propose de partir des préférences, du rythme et des habitudes de vie de la personne. Hélène veut le renseignement de l’équipe pendant son temps de travail. Elle sait quelle question poser, et le fait que Léa pourrait interpréter la photo plus vite ne lui donne pas la réponse officielle du dépôt. Le dimanche, ce qui compte à cette table est de décider du dîner.
 
@@ -44,9 +48,3 @@ Au travail, le responsable du planning reste le mieux placé pour confirmer l’
 ## La tarte reste au programme
 
 Léa décide qu’elle apportera les boissons ; Hélène garde la tarte et en commande une à la boulangerie du quartier pour le samedi suivant. Elle ne veut pas avoir le four à surveiller pendant que les amis sont là. Le lundi, Maud lui confirme que le rendez-vous du jeudi reste à neuf heures à l’accueil du dépôt. C’est le camion qui est avancé. Hélène inscrit l’heure en haut de son plan plié. Sur le groupe de discussion, elle confirme le dîner de samedi à quatre. La chaise en rotin reste libre, faute de volontaire.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé, TDI : autodétermination, participation et citoyenneté (volet 1)](https://www.has-sante.fr/upload/docs/application/pdf/2022-09/02_tdi_rbpp_autodetermination.pdf)
-- [Haute Autorité de santé, accompagnement de la personne présentant un TDI : synthèse du volet 1](https://www.has-sante.fr/upload/docs/application/pdf/2022-09/tdi_synthese_rbpp_volet1.pdf)

@@ -11,6 +11,8 @@ personnage: "Fabien"
 sujet: "biais de la malédiction du savoir"
 contexte: "en tant que manager"
 draft: false
+editorial_sources:
+- https://authors.library.caltech.edu/records/zgwcn-vap73
 ---
 
 La porte de la salle de réunion s'ouvre sur un souffle d'air froid chargé d'odeur d'huile et de papier. Fabien tient un marqueur dans la main droite, la capuche de son pull col roulé froissée par le geste. Devant lui, quatre visages attendent, certains froncent les sourcils, d'autres regardent leurs carnets comme s'ils cherchaient un point d'ancrage. Il énonce des termes techniques avec la précision d'un cadre RH qui connaît son dossier, mais il sent que quelque chose cloche : les interventions sont courtes, les regards fuyants. Il répète la même phrase avec des mots différents, sans parvenir à rendre la décision accessible.
@@ -74,5 +76,3 @@ Au dîner, Lucas lui raconte un problème d’horaires. Fabien commence par prop
 Si vous vous reconnaissez dans cette histoire, rappelez-vous que la malédiction du savoir ne signifie pas que vous êtes un mauvais communicant ou que votre expertise est un handicap. Cette difficulté peut concerner quiconque connaît bien un dossier. Les techniques proposées ici visent à rendre votre savoir accessible, sans le diluer.
 
 Si la difficulté à partager votre expertise entraîne des tensions répétées, des épisodes de stress ou un épuisement durable, il est conseillé de consulter un professionnel, comme un psychologue du travail, un coach professionnel ou un thérapeute, pour un accompagnement personnalisé. La transformation est possible, et elle commence souvent par de petits ajustements de langage qui changent la qualité des relations.
-
-Sources : [Camerer, Loewenstein et Weber, 1989](https://authors.library.caltech.edu/records/zgwcn-vap73).

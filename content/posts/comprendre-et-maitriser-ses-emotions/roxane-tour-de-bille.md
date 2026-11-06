@@ -31,7 +31,11 @@ Il reste assez de temps avant la sonnerie pour discuter ou pour jouer. Roxane tr
 
 ## Se comprendre et être d’accord sont deux choses
 
-Les situations où un enfant se fait bien comprendre peuvent coexister avec des échanges qui restent difficiles. Dans une conversation qui avance vite, la personne qui écoute n’a parfois que quelques mots pour retrouver l’intention du locuteur. Une phrase enregistrée à l’école, avec un sujet connu de Zoé, et une règle donnée à la récréation à deux élèves peu familiers demandent des choses différentes. Le tour de bille perdu ne permet pas de conclure que la parole de Roxane s’est dégradée.
+Les situations où un enfant se fait bien comprendre peuvent coexister avec des échanges qui restent difficiles. Dans une conversation qui avance vite, la personne qui écoute n’a parfois que quelques mots pour retrouver l’intention du locuteur. Une phrase enregistrée à l’école, avec un sujet connu de Zoé, et une règle donnée à la récréation à deux élèves peu familiers demandent des choses différentes.
+
+## Comment cette difficulté se manifeste
+
+Le tour de bille perdu ne permet pas de conclure que la parole de Roxane s’est dégradée.
 
 La démonstration rend sa proposition claire. La fille qui joue la comprend et y voit un inconvénient. Cette objection a de la valeur pour Roxane : son idée vient d’être entendue, et elle peut maintenant discuter de la règle avec une autre joueuse. Une aide à la communication doit laisser de la place à ce genre de désaccord.
 
@@ -44,8 +48,3 @@ Nassim peut aider en suivant la règle, comme tous les joueurs. S’il a encore 
 ## À elle d’essayer la pente
 
 Roxane récupère son tour. La bille part du trait, longe le bouchon et s’arrête un peu trop tôt dans la terre. Elle renonce à la pousser du bout du doigt : tout le monde a vu où elle s’est arrêtée. La fille tente de passer du côté du mur. Quand la sonnerie retentit, Roxane et Nassim dessinent le bouchon à la craie pour retrouver sa place le lendemain. Au moment de ranger la bille, Roxane garde un peu de craie au pouce. Elle voudrait que les joueurs de la médiathèque aient, eux aussi, un endroit pour déposer une première idée avant d’entendre la suite.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal — Speech Sound Disorders: Articulation and Phonology](https://www.asha.org/practice-portal/clinical-topics/articulation-and-phonology/)

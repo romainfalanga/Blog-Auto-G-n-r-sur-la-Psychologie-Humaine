@@ -33,9 +33,13 @@ Jeanne lui demande si elle doit dire à Nadia que le don est annulé. Armand lui
 
 Un retour à domicile est un moment pour vérifier avec la personne ce qu’elle peut reprendre, ce qui lui coûte davantage et les aides dont elle a besoin. Une évaluation urgente a répondu à la confusion de dimanche ; le suivi peut maintenant reprendre les difficultés présentes à la maison et les comparer au fonctionnement antérieur. L’évolution de la maladie et les suites d’un autre problème de santé sont des questions que les professionnels examinent dans leur contexte. La famille peut décrire les changements sans conclure seule à un nouveau stade.
 
-La Haute Autorité de santé invite à préparer le retour, à adapter les aides si nécessaire et à coordonner les intervenants. Armand peut demander ce que le médecin propose de revoir et à quel moment. Si une nouvelle confusion brutale apparaît, il faut à nouveau solliciter sans attendre une évaluation médicale urgente.
+## La confusion inhabituelle et ce qui reste difficile au retour
+
+Dimanche, Jeanne avait trouvé Armand très différent de la veille. Il avait du mal à rester attentif à sa voix et perdait le fil au milieu de phrases courtes. Au retour de l’hôpital, il retrouve sa manière habituelle de parler avec elle. Il se fatigue encore vite devant plusieurs papiers. Par deux fois, il a cru que l’ancien billet indiquait un rendez-vous pour le jour même. Ces observations précisent ce qui a changé à la maison depuis la sortie.
 
 ## Garder deux rendez-vous distincts
+
+La Haute Autorité de santé invite à préparer le retour, à adapter les aides si nécessaire et à coordonner les intervenants. Armand peut demander au médecin ce qu’il propose de revoir et à quel moment. Si une nouvelle confusion brutale apparaît, il faut à nouveau solliciter sans attendre une évaluation médicale urgente.
 
 Armand peut faire de la fatigue et de la reprise des papiers des sujets de suivi. Il peut garder le contact du cabinet à un endroit qu’il repère et noter, avec l’équipe, à qui demander de l’aide entre les visites. Jeanne peut convenir du temps qu’elle a pour lire le document de sortie avec lui. Le médecin, le service à domicile et la consultation mémoire peuvent préciser qui reprend chaque question.
 
@@ -44,10 +48,3 @@ Armand peut aussi recontacter Nadia, en lui disant seulement ce qui est utile po
 ## Le plan vert dans la chemise personnelle
 
 L’équipe confirme un passage supplémentaire d’Irène pour revoir les repères à la maison, après le rendez-vous du médecin. Armand tire le plan vert du carton. Il aime encore suivre du doigt la dernière rue de la tournée. Sur la liste provisoire, il demande à Jeanne de barrer ce plan et d’écrire « reste chez moi ». Il le met près du fauteuil, avec l’original du pont bas. Il appelle Nadia pour revoir les trois autres cartes à la grande table, à dix heures le jeudi suivant. Ils conviennent que l’affiche attendra. Le nouveau billet remplace l’ancien au miroir.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, parcours de soins du trouble neurocognitif associé à la maladie d’Alzheimer](https://www.has-sante.fr/jcms/c_2906096/fr/patients-presentant-un-trouble-neurocognitif-associe-a-la-maladie-d-alzheimer-ou-a-une-maladie-apparentee-guide-parcours-de-soins)
-- [NICE NG97, évaluation, soins et soutien des personnes vivant avec une démence et de leurs proches](https://www.nice.org.uk/guidance/ng97/resources/dementia-assessment-managementand-support-for-people-living-with-dementia-and-their-carers-pdf-1837760199109)
-- [HAS, confusion aiguë chez la personne âgée : repérage et prise en charge initiale](https://www.has-sante.fr/jcms/c_819557/fr/)

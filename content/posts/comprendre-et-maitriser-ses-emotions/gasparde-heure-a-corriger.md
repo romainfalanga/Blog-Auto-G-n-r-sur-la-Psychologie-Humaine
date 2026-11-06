@@ -30,7 +30,11 @@ Basile cherche une feuille pour prendre des notes. Gasparde l’arrête. « Il f
 
 ## Réparer un fait à la bonne échelle
 
-Une erreur concrète peut être corrigée pendant qu’on s’inquiète encore de ce qu’elle donnera à penser. Gasparde sait d’où vient l’heure qu’elle a écrite. Dounia et son amie ont besoin de connaître la bonne. Basile peut consigner le décalage pour examiner le fonctionnement du club. Gasparde peut demander comment l’incident figurera au bilan et quel usage sera fait de l’information.
+Une erreur concrète peut être corrigée pendant qu’on s’inquiète encore de ce qu’elle donnera à penser. Gasparde sait d’où vient l’heure qu’elle a écrite. Dounia et son amie ont besoin de connaître la bonne. Basile peut consigner le décalage pour examiner le fonctionnement du club.
+
+## Comment cette difficulté se manifeste
+
+Gasparde peut demander comment l’incident figurera au bilan et quel usage sera fait de l’information.
 
 La conviction que le document servira à l’écarter est une expérience dont elle peut parler à Farah si elle persiste. Le trouble délirant peut donner beaucoup de poids à certains événements autour d’une préoccupation. Les éléments qui entrent dans l’évaluation dépassent cette conversation. Sur le moment, Gasparde choisit d’expliquer sa correction avec des mots qu’elle emploierait aussi pour un autre membre du club.
 
@@ -43,8 +47,3 @@ Les autres questions ont chacune leur place. Nathalie peut préciser quel dimanc
 ## Dix heures trente, en toutes lettres
 
 Dounia accepte de prévenir son amie. Gasparde lui demande si elle souhaite encore relire le plan. « Les entrées, oui. Les horaires, vous vous débrouillez », répond Dounia. Basile ajoute au bilan qu’on doit vérifier l’heure dans le registre avant d’afficher. Il propose de garder l’accueil du samedi et de retenter un dimanche le mois prochain avec Nathalie. Il rappelle que les adhérents appellent le numéro du club. Gasparde veut encore revoir l’accord avec le comité samedi, après l’accueil. Elle écrit dix heures trente sur le brouillon, puis passe le crayon à Basile pour qu’il note le temps réservé aux questions téléphoniques.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NSW Health, communiquer avec une personne qui vit une expérience psychotique](https://www.health.nsw.gov.au/mentalhealth/psychosocial/strategies/Pages/communicating-psychosis.aspx)

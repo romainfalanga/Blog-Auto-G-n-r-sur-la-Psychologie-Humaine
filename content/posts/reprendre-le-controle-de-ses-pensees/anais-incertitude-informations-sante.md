@@ -100,5 +100,3 @@ L'incertitude de santé ne disparaît pas devant la quantité d'informations dis
 Un témoignage peut offrir une rencontre sans devenir une preuve ou un conseil adapté. Une recherche peut s'arrêter pour aujourd'hui sans que le soin soit abandonné. Ces limites préservent de l'énergie et laissent une place aux autres dimensions de la vie.
 
 Pour une information qui vous inquiète ou pourrait modifier vos soins, parlez avec un professionnel de santé. Votre équipe médicale peut examiner sa pertinence pour votre situation. En cas de symptôme inhabituel ou de signe d'alerte, suivez les consignes reçues plutôt que d'attendre une réponse dans une recherche en ligne.
-
-Sources : [HAS, parler avec son médecin](https://www.has-sante.fr/jcms/c_1695997/en/parler-avec-son-medecin) ; [Ministère de la Santé, le Service public d'information en santé](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/article/sante-fr-le-site-du-service-public-d-information-en-sante).

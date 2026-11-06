@@ -32,7 +32,11 @@ Aïcha lui propose de choisir entre raconter l’histoire du canal à l’accuei
 
 Pour Noémie, la réussite de la soirée peut tenir à la rencontre avec les visiteurs. Elle pourra aussi éprouver du doute et avoir du mal à suivre une conversation. En consultation, la clinicienne peut demander ce qui a changé dans la vie de Noémie et ce qui lui demande encore beaucoup d’effort. Le retentissement sur le travail, le couple, les loisirs et les déplacements compte dans l’appréciation de ses difficultés. Une soirée seule donne un aperçu de ces domaines.
 
-La présentation en salle et le travail d’exposition en thérapie ont chacun leur cadre. Noémie a choisi de parler des cartes près d’une vitrine parce que ce format lui plaît et qu’il convient à l’organisation. Elle peut discuter en consultation du doute qui lui revient au milieu de cette tâche. Son choix professionnel a aussi un intérêt pour elle en dehors du suivi. Elle a préparé pendant des semaines ce qu’elle voudrait montrer aux visiteurs.
+La présentation en salle et le travail d’exposition en thérapie ont chacun leur cadre.
+
+## Comment cette difficulté se manifeste
+
+Noémie a choisi de parler des cartes près d’une vitrine parce que ce format lui plaît et qu’il convient à l’organisation. Elle peut discuter en consultation du doute qui lui revient au milieu de cette tâche. Son choix professionnel a aussi un intérêt pour elle en dehors du suivi. Elle a préparé pendant des semaines ce qu’elle voudrait montrer aux visiteurs.
 
 ## Partager une responsabilité pendant un moment public
 
@@ -43,8 +47,3 @@ Maud a prévu de passer après la première prise de parole. Elle peut venir com
 ## Une invitation le long du canal
 
 Un garçon demande si le chemin de halage existe encore. Noémie lui montre une photographie et lui dit que le chemin n’a pas le même tracé sur les plans les plus récents. Il veut savoir où est passée la petite porte rouge. Noémie promet de chercher, car elle n’a pas encore trouvé de réponse sûre. Quand Maud arrive, elle commence par lui montrer les rames dessinées par la classe. Puis elle lui demande si elle voudrait retourner un dimanche vers l’escalier du canal.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG31, prise en charge du TOC](https://www.nice.org.uk/guidance/cg31/chapter/Recommendations)

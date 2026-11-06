@@ -33,7 +33,11 @@ Côme ouvre la conversation avec Florian. Il lui demande s’il est disponible p
 
 Dans le trouble du jeu vidéo, la difficulté répétée à maîtriser sa pratique peut coexister avec des projets qui tiennent à cœur. Le message du groupe rappelle à Côme un plaisir concret et l’envie de savoir ce qui s’est passé. Il pense au temps qu’il voudrait y passer, puis à la fois où le temps prévu avait débordé. Ce sont les répétitions et leurs conséquences dans la vie quotidienne qui comptent dans l’évaluation.
 
-Une envie de jouer peut rester présente pendant qu’une autre décision se précise. Côme connaît le rendez-vous qu’il veut préserver. Se rappeler le coût d’une soirée semblable lui donne un point de comparaison pour décider ce soir. Les soirées où ce choix devient difficile sont aussi des exemples dont il pourra parler lors du suivi.
+Une envie de jouer peut rester présente pendant qu’une autre décision se précise.
+
+## Comment cette difficulté se manifeste
+
+Côme connaît le rendez-vous qu’il veut préserver. Se rappeler le coût d’une soirée semblable lui donne un point de comparaison pour décider ce soir. Les soirées où ce choix devient difficile sont aussi des exemples dont il pourra parler lors du suivi.
 
 ## Composer avec un appui qui varie selon le soir
 
@@ -44,9 +48,3 @@ Côme retrouve une activité qu’il peut commencer de lui-même. La règle qui 
 ## La photo avec le casier ouvert
 
 La règle est pliée dans le carton avec les pions. Côme la déploie sur la table de la cuisine et suit la première traversée du doigt. Il laisse son ordinateur en veille. Il pense encore à la route de la partie en ligne, mais veut vérifier où chacun pose son pion avant de franchir la rivière. La photo qu’attend Sana viendra demain. Il lui a promis de lui montrer le jeu avec la rivière en place.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Trouble du jeu vidéo : questions et réponses](https://www.who.int/fr/news-room/questions-and-answers/item/gaming-disorder)
-- [CHU de Nantes, Addictologie : consultations spécialisées](https://www.chu-nantes.fr/venir-en-consultation-45)

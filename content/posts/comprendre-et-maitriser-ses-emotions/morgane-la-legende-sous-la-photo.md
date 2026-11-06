@@ -32,7 +32,11 @@ Morgane rejoint Sonia et lui demande si elles peuvent écrire ce que l’on voit
 
 ## Retrouver plusieurs façons de parler de soi
 
-Les inquiétudes liées au poids ou à la silhouette peuvent peser sur l’évaluation que certaines personnes font d’elles-mêmes. Dans cette scène, Morgane s’attend à être interrogée sur ce qui lui coûte. Elle repère aussi ce qu’elle a choisi, ce qu’elle sait faire et la contribution de Yassine. Ce sont plusieurs éléments d’un même souvenir. L’effet de la matinée sur son image d’elle-même peut être discuté avec Anna si elle le souhaite. Elle peut se sentir fière et rester en difficulté un autre jour. La manière dont elle a participé décrit ce moment et le rôle qu’elle y a joué.
+Les inquiétudes liées au poids ou à la silhouette peuvent peser sur l’évaluation que certaines personnes font d’elles-mêmes. Dans cette scène, Morgane s’attend à être interrogée sur ce qui lui coûte. Elle repère aussi ce qu’elle a choisi, ce qu’elle sait faire et la contribution de Yassine.
+
+## La légende qui change ce qu’elle retient de la matinée
+
+En relisant la légende, Morgane imagine les questions des lecteurs et le regard qu’ils pourraient poser sur son corps. En parlant avec Yassine, elle retrouve le souvenir du geste qu’elle a montré à la première visiteuse. Les deux font partie de ce qui lui reste de la matinée. Elle avait éprouvé de la gêne et trouvé une façon d’aider quelqu’un à faire tenir la branche.
 
 ## Décider ensemble de la trace qu’on laisse
 
@@ -41,9 +45,3 @@ Morgane peut discuter de la légende comme d’une décision de travail. Yassine
 ## La légende qu’ils choisissent
 
 La nouvelle légende indique le nom de Yassine près de son essai et celui de Morgane près de la table d’accueil. Elle explique que les personnes pouvaient venir à n’importe quel moment essayer un geste. La photo retenue montre seulement les personnes qui ont accepté ce cadrage. La lettre est partie, et Sonia apporte une demande de l’accueil. Des visiteurs aimeraient retrouver un essai dans quelques semaines. Morgane demande s’ils peuvent réserver un temps d’équipe pour décider de la suite.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et Fédération française anorexie boulimie, recommandations sur la boulimie et l’hyperphagie boulimique](https://www.has-sante.fr/upload/docs/application/pdf/2019-09/boulimie_et_hyperphagie_boulimique_-_recommandations.pdf)
-- [NICE, recommandations NG69 sur les troubles des conduites alimentaires](https://www.nice.org.uk/guidance/ng69/evidence/full-guideline-pdf-161214767896)

@@ -1,5 +1,5 @@
 ---
-title: "Baptiste : penser à demain sans s’oublier aujourd’hui"
+title: Penser à demain sans s’oublier aujourd’hui
 date: 2026-11-03T11:10:00+00:00
 description: "Préparer le lendemain pourrait aider Baptiste, mais il est déjà fatigué. Il cherche un geste utile sans confier tout le travail au présent."
 categories: ["Reprendre le contrôle de ses pensées"]
@@ -74,7 +74,3 @@ Prendre en compte le futur peut aider à choisir une préparation concrète. Cel
 Une action courte ou un repère extérieur peut parfois apporter davantage qu’une longue préparation destinée à supprimer toute incertitude. Le résultat restera imparfait et pourra être ajusté. Une difficulté le lendemain ne prouve pas automatiquement que vous auriez dû en faire plus la veille. Il est utile de regarder ce que la préparation a permis, ce qu’elle a coûté et ce qui dépendait réellement de vos moyens.
 
 Si la préparation occupe toutes vos soirées, si le report vous met régulièrement en difficulté ou si la fatigue vous inquiète, un médecin, un psychologue ou un professionnel adapté peut vous aider à examiner la situation. Des changements de charge, des aides concrètes ou une organisation collective différente peuvent être nécessaires. L’appui peut chercher un rythme plus vivable entre les besoins présents et futurs, sans réduire la difficulté à un manque de discipline.
-
-Sources :
-- [NIMH, Caring for Your Mental Health](https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health)
-- [NHS, Problem solving](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)

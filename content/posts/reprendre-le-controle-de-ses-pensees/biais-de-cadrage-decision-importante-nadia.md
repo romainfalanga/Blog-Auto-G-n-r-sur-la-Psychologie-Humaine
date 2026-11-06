@@ -11,6 +11,8 @@ personnage: "Nadia"
 sujet: "biais de cadrage"
 contexte: "face à une décision importante"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/7455683/
 ---
 
 « Quatre sur cinq, c’est une bonne base », dit Nadia. Sur l’écran, le graphique est vert et le titre annonce que 80 % du portefeuille sera conservé. Elle avait prévu de demander un autre scénario de lancement. Elle pose la feuille correspondante sous son carnet. Autour de la table, on commence à parler des dates possibles.
@@ -60,5 +62,3 @@ Le cadrage peut infléchir un choix, même lorsque les chiffres sont exacts. Vé
 L'évolution vers une meilleure connaissance de soi ne signifie pas devenir infaillible. Il s'agit d'apprendre à observer ses propres mécanismes avec bienveillance et à ajuster sa trajectoire lorsque la peur ou le besoin de contrôle prennent le dessus. Chaque décision est une opportunité de pratiquer cette nouvelle souplesse mentale.
 
 Si vous sentez que certaines peurs ou un besoin de contrôle excessif paralysent votre quotidien malgré vos efforts, un échange avec un professionnel de la psychologie peut être utile. Un accompagnement thérapeutique aide à déconstruire les cadres profonds issus de votre éducation ou de vos expériences passées pour vous offrir une vision plus sereine de votre avenir.
-
-Sources : [Tversky et Kahneman, expérience de cadrage](https://pubmed.ncbi.nlm.nih.gov/7455683/).

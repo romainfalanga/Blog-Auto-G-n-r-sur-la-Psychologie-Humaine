@@ -32,6 +32,8 @@ Brigitte lui demande si le double de samedi tient toujours. Gasparde dit oui tro
 
 Parler du retentissement d’une inquiétude peut ouvrir une conversation avant même qu’on puisse en raconter le contenu. Gasparde explique comment elle dort et ce que les relectures occupent dans sa soirée. Brigitte peut comprendre qu’elle a passé une nuit pénible sans être chargée de trancher le sens des messages. Elle peut aussi entendre une demande sur le tennis. La présence qu’elle offre tient à leur relation, avec une place pour leurs envies à toutes les deux.
 
+## Comment cette difficulté se manifeste
+
 Le diagnostic de Gasparde vient éclairer ce qu’elle rapporte à son équipe de soins. Dans le trouble délirant, la préoccupation et la souffrance ont une intensité variable. Pour le suivi, l’équipe a besoin de savoir ce qui change dans la vie de Gasparde, comment elle le vit et à quels moments elle souhaite de l’aide. Une proche peut l’écouter et soutenir l’accès à cette conversation.
 
 ## Choisir une confidence et un rendez-vous
@@ -43,9 +45,3 @@ Les deux amies peuvent protéger une heure qu’elles partagent. Elles ont besoi
 ## Samedi, le temps de deux sets
 
 Brigitte lui propose seize heures samedi, avant que le vent baisse. Gasparde dit qu’elle aimerait venir même si le tableau lui trotte encore dans la tête. Elle lui demande de garder la conversation du banc pour elles. Brigitte acquiesce, sort son agenda et lui montre le créneau avec un rond autour. Gasparde sort aussi son téléphone. Elle attend de rentrer pour écrire à Basile qu’elle ne prendra aucun appel pendant le double. Sur le banc, elle ouvre seulement le couvercle du café. Brigitte lui tend le dernier bout de croûte. Elles mettent quelques secondes à décider laquelle le veut le plus.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NSW Health, communiquer avec une personne qui vit une expérience psychotique](https://www.health.nsw.gov.au/mentalhealth/psychosocial/strategies/Pages/communicating-psychosis.aspx)
-- [OMS, Guide d’intervention mhGAP, version 2.0 : principes de soins et suivi des psychoses](https://www.who.int/publications/i/item/9789241549790)

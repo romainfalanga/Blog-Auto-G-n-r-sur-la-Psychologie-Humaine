@@ -11,6 +11,10 @@ personnage: "Bernard"
 sujet: "tristesse"
 contexte: "lors d'un deuil"
 draft: false
+editorial_sources:
+- https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/
+- https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/article/que-faire-et-a-qui-s-adresser-face-a-une-crise-suicidaire
+- https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient_presentant-une-lombalgie-commune
 ---
 
 En cherchant un embout, Bernard ouvre le mauvais tiroir. Il y trouve la poignée qu’Hélène avait choisie pour son buffet et qu’il avait gardée après l’avoir remplacée. Il connaît le poids de cette pièce au creux de la main. Il ne s’attendait pas à devoir s’asseoir pour la regarder.
@@ -64,5 +68,3 @@ La tristesse est une réaction possible après une perte. Elle peut prendre plus
 Chaque parcours est unique. Il n'y a pas de bonne ou de mauvaise façon de ressentir la tristesse lors d'un deuil, tant que l'on s'autorise à accueillir ce qui se présente sans jugement. La patience envers soi-même est une alliée précieuse dans cette traversée.
 
 Si le chagrin ou le désespoir rendent la vie quotidienne difficile, vous pouvez demander de l’aide à un professionnel de santé sans délai imposé. Si des idées suicidaires apparaissent, cherchez de l’aide immédiatement ; en cas de danger immédiat, contactez les secours.
-
-Sources : [NHS, vivre un deuil et demander de l’aide](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/) ; [Ministère de la Santé, aide en cas de crise suicidaire](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/article/que-faire-et-a-qui-s-adresser-face-a-une-crise-suicidaire) ; [Haute Autorité de santé, prise en charge de la lombalgie](https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient_presentant-une-lombalgie-commune).

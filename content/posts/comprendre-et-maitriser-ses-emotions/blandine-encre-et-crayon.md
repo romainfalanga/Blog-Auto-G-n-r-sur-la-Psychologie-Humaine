@@ -32,7 +32,11 @@ Léon demande s’il peut noter pour le prochain jeudi l’essai qu’ils vienne
 
 ## Observer la place prise par les souvenirs matériels
 
-Une partition peut être à la fois un outil de musique, un objet familier et un souvenir privé. Les descriptions cliniques de l’OMS signalent que certaines personnes préservent tous les objets de la personne morte exactement en place. Un professionnel s’intéresse à ce que ce geste signifie dans l’ensemble de leur vie. Une partition conservée ne suffit pas à conclure à un trouble. Ici, Blandine cherche à décider de l’avenir de feuilles différentes. Elle veut savoir qui lira l’indication sur les basses. Elle aime encore, les jours où elle le choisit, retrouver seule le crayon des Saules.
+Une partition peut être à la fois un outil de musique, un objet familier et un souvenir privé. Les descriptions cliniques de l’OMS signalent que certaines personnes préservent tous les objets de la personne morte exactement en place. Un professionnel s’intéresse à ce que ce geste signifie dans l’ensemble de leur vie. Une partition conservée ne suffit pas à conclure à un trouble.
+
+## Comment cette difficulté se manifeste
+
+Ici, Blandine cherche à décider de l’avenir de feuilles différentes. Elle veut savoir qui lira l’indication sur les basses. Elle aime encore, les jours où elle le choisit, retrouver seule le crayon des Saules.
 
 Ce choix lui demande du temps. La partition personnelle peut rester telle quelle et Le Pont servir à la prochaine répétition par l’intermédiaire d’une note de Léon. Ce qui concerne le suivi, si Blandine veut en parler, est la place que prend le dossier dans certaines journées, au point qu’une course ou un rendez-vous n’a plus lieu. Ce qui concerne l’archive est le sens qu’elle veut donner à ce don précis.
 
@@ -45,8 +49,3 @@ Ils sont d’accord sur les feuilles discutées et sur ce qui peut être utilis�
 ## Deux titres sur la fiche
 
 Alice écrit Le Pont et Les Fenêtres. Elle laisse vide la ligne du don et envoie une copie du brouillon à Blandine seulement. Malo prend la version propre, que Léon lui confie jusqu’à jeudi. En reprenant la chemise jaune, Blandine demande si elle pourrait entendre de loin ce que donnerait la mesure neuf. Léon lui répond qu’il peut lui dire l’heure à laquelle ils prévoient de travailler le morceau. Il reste à voir si elle voudra venir l’écouter.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS — Grief after bereavement or loss : vécu du deuil et soutien](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)

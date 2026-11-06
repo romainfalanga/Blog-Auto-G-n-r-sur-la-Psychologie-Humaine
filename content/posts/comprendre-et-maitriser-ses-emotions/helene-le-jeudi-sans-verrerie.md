@@ -33,6 +33,8 @@ Le 4 s’approche. Hélène pourrait monter et demander en route, mais elle a be
 
 Une déviation change la tâche, même lorsqu’on connaît le trajet habituel. Hélène sait dans quel bus monter et où reconnaître l’entrée du dépôt depuis Verrerie. Rien de cela ne lui dit comment rejoindre le même endroit à pied depuis Tannerie. En plus, le nom des deux arrêts se ressemble et la feuille est difficile à lire. La question est de retrouver des informations et des repères qui correspondent au trajet du jour.
 
+## Comment cette difficulté se manifeste
+
 L’OMS décrit des besoins de soutien qui peuvent varier lors d’un changement de routine. La HAS propose de préparer avec la personne des situations d’imprévu dans les transports : quel contact joindre, comment expliquer où l’on se trouve et de quels repères on a besoin. Le plan d’Hélène ne contenait pas la déviation. Le numéro de repli de la boutique, qu’elle avait choisi d’y mettre, lui permet de faire passer sa question à la bonne personne.
 
 ## Confirmer le rendez-vous avant de proposer un détour
@@ -44,8 +46,3 @@ Pour ce matin, Hélène souhaite une réponse qui lui permette d’agir à parti
 ## Rendez-vous annulé, bordereau maintenu
 
 Maud confirme que le rendez-vous est annulé pour ce matin. Elle joindra Ilyes pour lui demander d’envoyer une copie à la boutique ; Hélène l’utilisera là-bas pour préparer les étiquettes de rayon. Hélène rentre à pied à la recyclerie par le chemin qu’elle connaît depuis l’arrêt Marché. Elle demande que l’équipe regarde avec elle le détour avant le prochain rendez-vous. À côté de « Verrerie », elle glisse un feuillet qui dépasse quand le plan est plié : « arrêt fermé ». Elle laisse le nom d’origine lisible. La fermeture annoncée est temporaire.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé, TDI : travail et vie active (volet 2)](https://www.has-sante.fr/upload/docs/application/pdf/2025-11/dir7/tdi_emploi_volet2.pdf)

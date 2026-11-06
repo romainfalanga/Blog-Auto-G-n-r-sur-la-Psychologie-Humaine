@@ -90,5 +90,3 @@ La distractibilité dépend de l'interaction entre une personne, une tâche et u
 Vous pouvez observer un contexte précis et modifier un élément accessible, puis regarder ce que cela permet réellement. Le changement peut être modeste et n'a pas à rendre votre environnement parfait. Une adaptation utile soutient l'activité tout en respectant les besoins des autres, vos ressources et les exigences de sécurité du lieu.
 
 Si les difficultés restent marquées dans des contextes variés, vous gênent durablement ou vous exposent à un risque, un professionnel peut vous aider à en comprendre les facteurs. Ce regard peut compléter les ajustements concrets. Il n'est pas nécessaire de vous attribuer une étiquette pour reconnaître aujourd'hui qu'une situation demande trop d'attention au même moment.
-
-Sources : [Jan Theeuwes, sélection attentionnelle et informations saillantes](https://pubmed.ncbi.nlm.nih.gov/1620571/) ; [Rubinstein, Meyer et Evans, coût des transitions entre tâches](https://pubmed.ncbi.nlm.nih.gov/11518143/).

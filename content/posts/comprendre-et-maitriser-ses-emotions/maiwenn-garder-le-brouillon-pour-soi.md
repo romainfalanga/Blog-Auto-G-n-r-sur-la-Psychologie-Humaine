@@ -32,7 +32,11 @@ Lou aperçoit le téléphone tourné vers la vitre. « On attend d’arriver ? �
 
 ## Un outil change d’usage quand le lieu change
 
-L’intérêt d’un appui à l’écriture dépend aussi du bruit, du temps disponible et de la possibilité de s’en servir à son aise. Au CDI, Maïwenn pouvait dicter assez bas et reprendre son texte devant un écran stable. Dans le bus, elle doit à la fois surveiller ce que le téléphone a compris et décider si elle veut que des inconnus entendent le brouillon. Son choix de ranger la dictée tient à ces deux choses. Il ne dit pas que la dictée a cessé de lui être utile. Sur un autre trajet, elle pourrait préférer n’écrire aucun mot.
+L’intérêt d’un appui à l’écriture dépend aussi du bruit, du temps disponible et de la possibilité de s’en servir à son aise. Au CDI, Maïwenn pouvait dicter assez bas et reprendre son texte devant un écran stable.
+
+## Comment cette difficulté se manifeste
+
+Dans le bus, elle doit à la fois surveiller ce que le téléphone a compris et décider si elle veut que des inconnus entendent le brouillon. Son choix de ranger la dictée tient à ces deux choses. Il ne dit pas que la dictée a cessé de lui être utile. Sur un autre trajet, elle pourrait préférer n’écrire aucun mot.
 
 ## Sauver l’observation avant de chercher la phrase
 
@@ -41,8 +45,3 @@ En gardant deux repères et une image, Maïwenn retrouve quelque chose dont elle
 ## Le téléphone repasse de l’autre côté
 
 Deux arrêts avant le sien, Lou rend le téléphone. Elle propose de garder pour le texte l’idée du plateau qui apparaît avant la main, et de relire la description mercredi avec le carnet. Maïwenn tape « depuis la rue » sous ses deux repères. Pendant une seconde, elle essaie de retrouver sa phrase mot pour mot. Elle revient à ce qu’elle a vu : un petit délai entre le plateau et la main, qui vaut la peine d’être raconté. Elle range le téléphone. Il leur reste jusqu’à l’arrêt de Lou pour discuter d’autre chose. Maïwenn lui demande comment son groupe s’est retrouvé avec une caisse claire de trop.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [American Speech-Language-Hearing Association, Written Language Disorders](https://www.asha.org/Practice-Portal/Clinical-Topics/Written-Language-Disorders/)

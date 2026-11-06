@@ -44,9 +44,3 @@ Lison peut faire reformuler les données qui ont changé, puis demander qu’ell
 ## Devis attendu
 
 Farah demande de patienter. Lison dessine une flèche en travers du patron et écrit « largeur » dessus. Quand Farah reprend, un rouleau du lot B17 est bien disponible dans un autre dépôt, en 140 cm de large. Le métrage demandé peut être coupé en une pièce. Farah propose de le réserver jusqu’au lendemain midi ; le devis arrivera le matin. Lison confirme par écrit les deux lignes à chiffrer : six mètres de toile ardoise et 1,85 m de sergé ocre dans les conditions convenues. Elle envoie une copie à Nora. Sur sa fiche, elle laisse la commande au statut « devis attendu ».
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Staller et al. — Neurodivergent Conditions Critically Limit Societal Participation: The Case of Dyscalculia in Adults (2025)](https://journals.sagepub.com/doi/10.1177/27546330251406911)
-- [Mon Parcours Handicap — Compenser votre handicap en formation](https://www.monparcourshandicap.gouv.fr/formation-professionnelle/compenser-votre-handicap-en-formation)

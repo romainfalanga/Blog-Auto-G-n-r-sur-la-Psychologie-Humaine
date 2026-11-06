@@ -31,7 +31,11 @@ Zoé, revenue pour son cahier, voit la feuille où Roxane a tracé deux cases, �
 
 ## Quand une idée arrive par morceaux
 
-Un trouble développemental des sons de la parole peut faire qu’un interlocuteur ne saisit qu’une partie d’une phrase, même lorsque la pièce est calme. Le trouble de Roxane est connu depuis avant ce projet. Certaines difficultés persistent dans la production de sons ou dans leur enchaînement, avec un effet sur la possibilité de se faire comprendre. Dans cette scène, elle sait déjà quel genre de jeu elle veut construire. Mme Sorel a besoin d’un autre point de départ pour saisir le détail de sa proposition.
+Un trouble développemental des sons de la parole peut faire qu’un interlocuteur ne saisit qu’une partie d’une phrase, même lorsque la pièce est calme. Le trouble de Roxane est connu depuis avant ce projet. Certaines difficultés persistent dans la production de sons ou dans leur enchaînement, avec un effet sur la possibilité de se faire comprendre.
+
+## Comment cette difficulté se manifeste
+
+Dans cette scène, elle sait déjà quel genre de jeu elle veut construire. Mme Sorel a besoin d’un autre point de départ pour saisir le détail de sa proposition.
 
 Un échange comme celui du bureau ne suffit jamais à identifier un trouble chez quelqu’un. Les professionnels considèrent l’histoire de l’enfant, sa façon de parler dans plusieurs situations et les effets durables dans sa vie. Dans l’instant, Mme Sorel a une tâche plus simple : retrouver avec Roxane le bout d’idée qui s’est perdu.
 
@@ -44,9 +48,3 @@ Mme Sorel peut aider les deux élèves à convenir de ce premier essai. Elle tie
 ## Deux noms sous la pince
 
 Roxane dessine une gouttière sous « Je crois » et laisse l’autre case vide. « Si on trouve un oiseau qui fait un bruit de gouttière, on le met là », dit-elle. Elle demande à Zoé de venir écouter au square le lendemain. Zoé répond qu’elle veut bien, à condition de pouvoir essayer un dessin qui cache quelque chose. Elles écrivent chacune leur prénom. Sous la pince, Roxane glisse aussi la feuille à deux cases : elle veut retrouver l’idée exacte vendredi, même si aucun oiseau du square ne la lui donne.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal — Speech Sound Disorders: Articulation and Phonology](https://www.asha.org/practice-portal/clinical-topics/articulation-and-phonology/)
-- [Haute Autorité de santé — Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages ? (2017)](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)

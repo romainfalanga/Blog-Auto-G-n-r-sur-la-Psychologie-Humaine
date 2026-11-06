@@ -94,5 +94,3 @@ Préserver une relation de couple dans l’aidance implique de donner une place 
 Vincent découvre qu’une soirée commune peut être intéressante sans devenir exceptionnelle. Il écoute Cédric comme un interlocuteur, exprime son envie de proximité et accueille une réponse qui ne coïncide pas toujours avec la sienne. L’entraide et l’affection peuvent se rencontrer sans être échangées comme une dette ou une récompense.
 
 Si les tensions, la solitude ou les difficultés d’intimité persistent, un psychologue ou un professionnel formé à l’accompagnement des couples peut aider à ouvrir la discussion. Un soutien pratique peut aussi réduire la place prise par l’organisation. Vous pouvez chercher une aide qui respecte les deux voix, sans attendre de savoir exactement ce qui devrait changer dans votre relation.
-
-Sources : [Ryan et Deci, théorie de l’autodétermination et besoins psychologiques](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf).

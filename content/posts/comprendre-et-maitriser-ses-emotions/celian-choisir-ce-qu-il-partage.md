@@ -32,7 +32,11 @@ Il demande d’abord si, en disant non, il pourra quand même recevoir la fiche 
 
 ## Un besoin de formation peut se dire en peu de mots
 
-Une personne peut expliquer ce qui l’aide à accéder à une consigne sans raconter au groupe son parcours de santé. Célian donne à Aïcha un exemple concret : avec la fiche disponible plus tôt, il a pu repérer une étape et réfléchir à une question. La formatrice sait déjà qu’il a une dyslexie, parce qu’il le lui a dit en privé. Ils peuvent reparler de ses besoins sans transformer cette confidence en annonce. La discussion avec le référent handicap du centre, si Célian souhaite faire le point sur d’autres besoins de formation, se prépare à part. Il peut demander quelles informations seraient utiles, à qui et pour quelle raison.
+Une personne peut expliquer ce qui l’aide à accéder à une consigne sans raconter au groupe son parcours de santé. Célian donne à Aïcha un exemple concret : avec la fiche disponible plus tôt, il a pu repérer une étape et réfléchir à une question. La formatrice sait déjà qu’il a une dyslexie, parce qu’il le lui a dit en privé. Ils peuvent reparler de ses besoins sans transformer cette confidence en annonce.
+
+## Comment cette difficulté se manifeste
+
+La discussion avec le référent handicap du centre, si Célian souhaite faire le point sur d’autres besoins de formation, se prépare à part. Il peut demander quelles informations seraient utiles, à qui et pour quelle raison.
 
 ## Choisir le moment de lire et celui de prendre la parole
 
@@ -41,9 +45,3 @@ Préparer un passage à l’avance peut réduire la pression du moment, sans sup
 ## La phrase qu’Aïcha pourra dire
 
 Aïcha relit la phrase à voix haute, puis Célian lui demande de s’arrêter après « l’étape qu’on voudra expliquer ». Ils s’accordent pour refaire le point après deux exercices. Il glisse la fiche pliée dans son sac, où traîne encore le ticket froissé du premier essai. Plus tard, il termine les lignes mises de côté au restaurant et rapporte sa feuille à Farah. À sa pause, il appelle le cabinet de Mme Vidal, l’orthophoniste qui l’avait reçu plus jeune. Elle a un créneau le lundi suivant. Il accepte et garde dans ses notes une question qu’il aimerait lui poser : que peut-il attendre d’un retour au cabinet, maintenant qu’il travaille ?
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé — Guide du parcours de santé des enfants avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)
-- [La bonne alternance — Apprentissage et handicap : les aménagements de la formation](https://labonnealternance.apprentissage.beta.gouv.fr/guide/apprentissage-et-handicap)

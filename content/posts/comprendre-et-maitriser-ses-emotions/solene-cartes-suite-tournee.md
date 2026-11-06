@@ -32,6 +32,8 @@ Depuis son passage aux urgences, Solène revoit la docteure Da Costa. Le prochai
 
 Le rétablissement en santé mentale peut inclure la poursuite d’un projet, des liens et des décisions de la vie ordinaire. Les orientations de l’OMS proposent un accompagnement qui tient compte de ces objectifs. Pour Solène, la séance a donné des retours qui l’intéressent : quelqu’un a pu s’attacher à la chaise et quelqu’un d’autre a reconnu le geste du parapluie. Elle peut modifier la présentation, raccourcir l’annonce ou laisser un intervalle. Elle peut encore être en désaccord avec Célestin sur le premier film.
 
+## Comment cette difficulté se manifeste
+
 Le suivi de son trouble schizoaffectif garde son propre calendrier. Le CDDR décrit plusieurs évolutions, avec des périodes d’amélioration qui varient selon les personnes. Le guide mhGAP inclut des contacts réguliers, à ajuster avec l’équipe selon les besoins. Solène veut parler à sa psychiatre du retour de sa concentration en journée et des matins où elle peine encore à se lever. Au dépôt, elle peut simplement indiquer les créneaux où elle sera présente.
 
 ## Emporter deux changements qui peuvent être essayés
@@ -43,9 +45,3 @@ Avant de confirmer la salle près du marché, l’équipe veut revoir l’image 
 ## Une ligne vide entre la chaise et l’abribus
 
 Sur la fiche destinée à Célestin, Solène laisse une ligne vide entre les deux premiers films et écrit « laisser quelques secondes avant de relancer ». Ils essaieront ensemble de savoir combien de secondes cela fait. Mireille emporte le plan à faire vérifier. En rentrant, Solène retrouve le bol de Livia retourné sur l’égouttoir. L’anse est toujours trop basse. Elle propose d’y mettre les clés, qui tombent chaque soir entre le mur et le meuble. Livia lui tend la tasse fêlée qu’elle avait mise de côté pour les clés. « Le bol, j’ai encore envie de m’en servir. » Solène glisse le trousseau dans la tasse. Livia remplit le bol jusqu’à l’anse.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, services de santé mentale communautaires : résumé des orientations](https://www.who.int/fr/publications/i/item/9789240025684)
-- [OMS, Guide d’intervention mhGAP, version 2.0](https://www.who.int/publications/i/item/9789241549790)

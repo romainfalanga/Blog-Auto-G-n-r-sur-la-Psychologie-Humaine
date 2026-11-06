@@ -34,20 +34,16 @@ On lui pose des questions sur son état et sur ce qu’elle sait du suivi. Elle 
 
 Une confusion qui apparaît rapidement justifie une aide médicale urgente. Un sevrage d’alcool peut entraîner des complications graves après une baisse ou un arrêt, notamment après une consommation importante et prolongée. D’autres problèmes de santé peuvent aussi provoquer une confusion. L’équipe doit évaluer l’état de la personne et l’histoire récente pour rechercher la cause et décider du lieu des soins.
 
-Joëlle connaît certains éléments et en découvre d’autres en arrivant. Les signes qu’elle décrit au 15, l’heure du changement si elle la connaît et le contexte du suivi donnent des points d’appui. La question de savoir s’il s’agit d’un sevrage se pose avec les soignants. La présence d’un rendez-vous prévu dans la journée ne répond pas à cette urgence.
+## Le changement que Joëlle constate en arrivant
+
+Éric tremble. Il demande à Joëlle à quelle heure leur mère doit rentrer et lui parle de la salle des fêtes alors qu’elle vient récupérer le disque. Par moments, elle a du mal à suivre ce qu’il dit. Elle sait qu’il a signalé une reprise de consommation et qu’un rendez-vous est prévu, mais elle ignore ce qui s’est passé depuis. C’est le changement soudain qu’elle décrit aux secours. Les soignants en rechercheront la cause.
 
 ## Ce que la sœur peut transmettre dans ce moment
 
-Joëlle peut transmettre une information reçue directement et dire quand elle manque d’un élément. Son rôle porte sur le changement qu’elle voit et sur l’appel. Le professionnel qui répond peut préciser ce qu’il faut faire en attendant l’arrivée d’une équipe. En France, le 15 ou le 112 permettent de joindre des secours pour une urgence médicale.
+Joëlle appelle aussitôt, même si un rendez-vous est prévu plus tard. Elle peut transmettre une information reçue directement, comme le message de la veille, dire quand elle a remarqué le changement et préciser ce qu’elle ignore. Son rôle porte sur le changement qu’elle voit et sur l’appel. Le professionnel qui répond peut préciser ce qu’il faut faire en attendant l’arrivée d’une équipe. En France, le 15 ou le 112 permettent de joindre des secours pour une urgence médicale.
 
 Après le relais, l’évaluation et les décisions de traitement passent aux soignants. Joëlle peut demander à qui parler pour être informée de la suite, dans le cadre qu’Éric voudra et pourra fixer. Son propre travail, le disque et le repas peuvent être repris plus tard. Dans l’immédiat, elle a reconnu qu’il fallait appeler et a fourni les renseignements qu’elle connaissait.
 
 ## Le disque reste sur le buffet
 
 Quand l’équipe arrive, Joëlle retrouve le message de la veille pour donner l’heure exacte. Elle dit ce qu’Éric lui a écrit et ce qu’elle a vu en entrant. Les soignants poursuivent l’évaluation et l’emmènent pour des soins. Le disque est sur le buffet, à côté du carton où il a noté l’heure du rendez-vous. Joëlle le laisse là. Elle téléphone à son travail pour prévenir qu’elle sera en retard, puis rejoint l’endroit où l’équipe lui a proposé d’attendre. Éric lui dira après la prise en charge ce qu’il a compris du sevrage que les médecins ont retenu.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG100, évaluation et soins en cas de sevrage aigu d’alcool](https://www.nice.org.uk/guidance/cg100/chapter/recommendations)
-- [Service Public, numéros d’urgence médicale en France](https://www.service-public.gouv.fr/particuliers/vosdroits/F33954)

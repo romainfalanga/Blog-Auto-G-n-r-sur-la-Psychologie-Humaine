@@ -92,5 +92,3 @@ Confiance et espace personnel se construisent dans des engagements assez clairs 
 Quelques repères de contact, des activités réellement choisies et un accueil en plusieurs temps peuvent soutenir une séparation temporaire. Vous pouvez souhaiter des nouvelles et apprécier un moment seul. L’essentiel est de pouvoir discuter de ces besoins sans faire d’un délai ou d’une différence de rythme une preuve automatique sur l’amour reçu.
 
 Si l’absence provoque une détresse persistante ou si le lien comporte de la surveillance et des pressions, une psychologue ou un autre professionnel peut aider à distinguer les difficultés et les ressources. Les faits de la relation méritent autant d’attention que les interprétations. Un espace personnel respecté ne doit pas être gagné en renonçant à demander de la fiabilité.
-
-Sources : [Diamond et collègues, séparations temporaires et retrouvailles liées aux déplacements, 2008](https://pubmed.ncbi.nlm.nih.gov/18665709/) ; [Arrêtons les violences, repérer le contrôle dans le couple](https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple).

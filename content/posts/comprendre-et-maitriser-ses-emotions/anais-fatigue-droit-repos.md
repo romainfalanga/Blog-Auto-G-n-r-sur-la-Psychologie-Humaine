@@ -100,5 +100,3 @@ Le besoin de repos n'attend pas d'être visible pour devenir légitime. Anaïs c
 Une pause peut préserver une part de participation sans faire disparaître la fatigue. Sa valeur ne se mesure pas uniquement à ce qu'elle permet de reprendre ensuite. Elle peut aussi éviter de réduire toute la rencontre à l'effort nécessaire pour paraître disponible.
 
 Avec une maladie chronique, les variations de fatigue méritent d'être partagées avec les professionnels qui vous suivent. Un psychologue peut également aider lorsque la culpabilité ou la peur du regard empêchent durablement de respecter les besoins. Ce soutien accompagne la vie avec la maladie sans en inventer une cause psychologique.
-
-Sources : [Assurance maladie, quotidien et suivi avec une polyarthrite](https://www.ameli.fr/assure/sante/themes/polyarthrite-rhumatoide/vivre-polyarthrite-rhumatoide) ; [Inserm, manifestations de la polyarthrite rhumatoïde](https://www.inserm.fr/dossier/polyarthrite-rhumatoide/).

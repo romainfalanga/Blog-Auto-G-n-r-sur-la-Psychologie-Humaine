@@ -30,7 +30,11 @@ Lucile pose le feutre. Owen reprend : « La même minute. » Il dessine un nœud
 
 ## Une idée peut précéder le mot
 
-Le bégaiement peut interrompre le déroulement de la parole alors même que la personne sait ce qu’elle veut dire. Une répétition, un son qui se prolonge ou un blocage peuvent rendre cette interruption perceptible. Dans un blocage, il peut n’y avoir aucun son à entendre pendant un moment. Cela n’indique ni la qualité de l’idée, ni le travail qui a précédé la prise de parole, ni l’intelligence de la personne. La CIM-11 regroupe le bégaiement développemental dans les troubles de la fluence de la parole. Chez Owen, le diagnostic est établi depuis avant cette réunion. Dans cette scène, ce qui lui coûte est aussi de devoir récupérer une idée que le mot proposé par Lucile a déjà fait partir dans une autre direction.
+Le bégaiement peut interrompre le déroulement de la parole alors même que la personne sait ce qu’elle veut dire. Une répétition, un son qui se prolonge ou un blocage peuvent rendre cette interruption perceptible. Dans un blocage, il peut n’y avoir aucun son à entendre pendant un moment. Cela n’indique ni la qualité de l’idée, ni le travail qui a précédé la prise de parole, ni l’intelligence de la personne. La CIM-11 regroupe le bégaiement développemental dans les troubles de la fluence de la parole.
+
+## Comment cette difficulté se manifeste
+
+Chez Owen, le diagnostic est établi depuis avant cette réunion. Dans cette scène, ce qui lui coûte est aussi de devoir récupérer une idée que le mot proposé par Lucile a déjà fait partir dans une autre direction.
 
 ## Le cercle autour du sac
 
@@ -39,10 +43,3 @@ Le mot deviné par Lucile est plausible : elle regarde un sac au tableau et pens
 ## Une seule trotteuse
 
 Owen efface le cercle au tableau, puis relie d’un trait les trois cadrans sur sa feuille. « Il nous faut un banc, précise-t-il. Le bus, on peut l’entendre. » Nassim dit qu’il veut bien écouter un essai mais qu’il ne réservera pas trois après-midi pour le même plan. Owen ajoute au-dessous des croquis : « Une minute, trois points de vue. » Lucile lui demande s’il veut porter l’idée à la prochaine rencontre avec le professeur qui encadre le club. Il dit oui. En passant la porte, il remarque qu’il a oublié le feutre et emporte quand même la feuille.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal, bégaiement, bredouillement et fluence de la parole](https://www.asha.org/practice-portal/clinical-topics/fluency-disorders/)
-- [NIDCD (NIH), qu’est-ce que le bégaiement ?](https://www.nidcd.nih.gov/health/stuttering)
-- [Stuttering Foundation, six conseils pour parler avec une personne qui bégaie](https://www.stutteringhelp.org/6-tips-speaking-someone-who-stutters)

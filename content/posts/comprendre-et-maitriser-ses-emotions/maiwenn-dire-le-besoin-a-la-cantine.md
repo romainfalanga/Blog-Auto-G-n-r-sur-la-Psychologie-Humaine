@@ -32,7 +32,11 @@ Lou a seulement vu le message du groupe. Sofiane demande à quelle heure il pour
 
 ## Dire ce qui aide n’oblige pas à dire pourquoi
 
-Une personne peut parler des conditions qui l’aident à écrire sans raconter son histoire de santé à ses camarades. Le groupe a besoin de connaître les étapes du reportage et les horaires des deux autrices. Il peut travailler à partir de ces informations. Dans le parcours de soins et de scolarisation, certains échanges peuvent être utiles avec les personnes concernées, et se discutent avec le jeune et sa famille. Ce n’est pas le même échange qu’un message dans la conversation du journal. Le rendez-vous avec Mme Lenoir avait un objet précis, convenu avec Maïwenn, et ne lui donne pas à justifier ensuite son besoin devant la table entière.
+Une personne peut parler des conditions qui l’aident à écrire sans raconter son histoire de santé à ses camarades. Le groupe a besoin de connaître les étapes du reportage et les horaires des deux autrices. Il peut travailler à partir de ces informations. Dans le parcours de soins et de scolarisation, certains échanges peuvent être utiles avec les personnes concernées, et se discutent avec le jeune et sa famille. Ce n’est pas le même échange qu’un message dans la conversation du journal.
+
+## Comment cette difficulté se manifeste
+
+Le rendez-vous avec Mme Lenoir avait un objet précis, convenu avec Maïwenn, et ne lui donne pas à justifier ensuite son besoin devant la table entière.
 
 ## Faire une demande qui engage les deux autrices
 
@@ -41,9 +45,3 @@ Lou et Maïwenn peuvent dire ce qu’elles feront elles-mêmes : vérifier ensem
 ## Envoyer l’horaire depuis son propre téléphone
 
 Maïwenn lit à Lou le message qu’elle a préparé. Lou lui demande d’y préciser l’heure de son départ, puis Maïwenn l’envoie. Sofiane répond qu’il laissera l’encadré détachable et garde seize heures comme limite. Elles apporteront une version où l’encadré peut être retiré d’un bloc. Maïwenn ne sait pas encore si l’équipe trouvera le rythme raisonnable au moment du bouclage. Pour l’instant, aucune question sur sa santé ne s’est glissée dans le fil du journal.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de Santé, parcours de santé des enfants avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2822893/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages)
-- [Haute Autorité de Santé, rôle du médecin de l’enfant dans le parcours de santé des TSLA](https://www.has-sante.fr/jcms/c_2823395/fr/parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-role-du-medecin-de-l-enfant-intervenant-dans-le-premier-niveau-de-recours-aux-soins)

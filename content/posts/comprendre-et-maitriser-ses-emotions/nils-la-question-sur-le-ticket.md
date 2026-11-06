@@ -31,7 +31,11 @@ Maud a préparé deux micros. Renée est venue avec sa question écrite et ne vo
 
 Dans l’essai, Nils multiplie les explications parce qu’il craint de perdre le fil. Il a pourtant besoin d’entendre le dernier détail de Renée pour choisir sa réponse. Le chronomètre renseigne sur la place qu’il reste dans l’émission. Le ticket lui redonne le point de départ que la pression lui avait fait perdre.
 
-Une activité choisie peut faire partie des objectifs d’une personne suivie pour une schizophrénie. Dans un projet de quartier, chacun peut décider de la manière dont il souhaite contribuer. Renée souhaite apporter ses mots et les entendre relus avant la diffusion. Nils a déjà demandé qu’on lui laisse choisir ce qu’il présente de lui-même et ce qu’on fait de sa voix. Ils peuvent maintenant régler la contribution de Renée avec la même précision. Elle lui montre l’information qui lui manque pour faire une réponse utile. Il lui montre le temps dont ils disposent. Maud sait quelle version de la question elle pourra lire.
+Une activité choisie peut faire partie des objectifs d’une personne suivie pour une schizophrénie. Dans un projet de quartier, chacun peut décider de la manière dont il souhaite contribuer. Renée souhaite apporter ses mots et les entendre relus avant la diffusion.
+
+## Comment cette difficulté se manifeste
+
+Nils a déjà demandé qu’on lui laisse choisir ce qu’il présente de lui-même et ce qu’on fait de sa voix. Ils peuvent maintenant régler la contribution de Renée avec la même précision. Elle lui montre l’information qui lui manque pour faire une réponse utile. Il lui montre le temps dont ils disposent. Maud sait quelle version de la question elle pourra lire.
 
 Le NICE demande de tenir compte des préférences et des objectifs de la personne dans l’accompagnement. Une réunion de radio a son propre objet. Nils peut y proposer ce qu’il veut faire sans que sa collègue ait à juger s’il est prêt sur le plan clinique. Renée peut corriger ses mots pour une raison aussi simple : elle veut pouvoir reconnaître sa question.
 
@@ -44,8 +48,3 @@ Ils préparent aussi une prise complète à diffuser samedi si le direct n’est
 ## Deux fichiers qui portent leur nom
 
 Renée écoute la dernière lecture. À sa demande, Maud remplace « l’autre pot » par « mon pot rouge ». Nils reprend sa réponse courte et demande à Maud de l’arrêter dès qu’il dit le mot « gouttière » une deuxième fois. Il ne le dit qu’une fois. Sur l’écran, ils écrivent « Intro – 1 min » et « Chronique entière – secours ». Nils garde la maquette du premier jour dans le dossier de travail. Avant de partir, il prend le ticket en photo avec l’accord de Renée, rend le papier et prépare sa propre fiche pour le lendemain.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE, psychose et schizophrénie chez l’adulte (CG178)](https://www.nice.org.uk/guidance/cg178/chapter/recommendations)

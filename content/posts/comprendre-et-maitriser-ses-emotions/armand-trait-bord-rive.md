@@ -31,7 +31,11 @@ Une des personnes demande s’il veut que Nadia raconte à sa place. « Je veux 
 
 ## Une difficulté à trouver le mot dans une conversation
 
-La maladie d’Alzheimer peut gêner la recherche de mots et la conduite d’une conversation, en plus des difficultés de mémoire. Dans une discussion où plusieurs personnes parlent, suivre les suggestions et garder la phrase en tête peuvent devenir deux tâches à la fois. Il est possible qu’Armand profite d’une indication sur la carte tout en continuant à chercher le mot qu’il avait en tête. Il peut aussi contourner le mot pour donner son explication autrement.
+La maladie d’Alzheimer peut gêner la recherche de mots et la conduite d’une conversation, en plus des difficultés de mémoire. Dans une discussion où plusieurs personnes parlent, suivre les suggestions et garder la phrase en tête peuvent devenir deux tâches à la fois.
+
+## Comment cette difficulté se manifeste
+
+Il est possible qu’Armand profite d’une indication sur la carte tout en continuant à chercher le mot qu’il avait en tête. Il peut aussi contourner le mot pour donner son explication autrement.
 
 L’aider à reprendre est différent de lui faire réciter ce dont il se souvient. Le guide de la Haute Autorité de santé invite à maintenir le dialogue malgré les difficultés de langage, et le NICE propose, si nécessaire, des modes de communication adaptés. Dans ce cas, la carte peut porter une partie de l’explication et les autres peuvent attendre qu’Armand dise comment il veut continuer.
 
@@ -44,9 +48,3 @@ Si Armand accepte de participer à une présentation, il peut choisir d’en fai
 ## Le carré au bout du trait
 
 Nadia promet de reprendre le cadrage. Armand lui dicte une phrase sur le chemin de la rive et la lui fait répéter pour l’entendre d’un bout à l’autre. Il accepte l’idée d’une brève rencontre autour des cartes le jour où il les donnera, s’ils peuvent décider du format ensemble. Quand les visiteurs sont partis, Nadia l’aide à remettre l’original dans sa chemise. Armand lui montre le carré une dernière fois. « Si vous gardez ça, vous gardez le chemin entier. » Les anneaux peuvent attendre.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, parcours de soins du trouble neurocognitif associé à la maladie d’Alzheimer](https://www.has-sante.fr/jcms/c_2906096/fr/patients-presentant-un-trouble-neurocognitif-associe-a-la-maladie-d-alzheimer-ou-a-une-maladie-apparentee-guide-parcours-de-soins)
-- [NICE NG97, évaluation, soins et soutien des personnes vivant avec une démence et de leurs proches](https://www.nice.org.uk/guidance/ng97/resources/dementia-assessment-managementand-support-for-people-living-with-dementia-and-their-carers-pdf-1837760199109)

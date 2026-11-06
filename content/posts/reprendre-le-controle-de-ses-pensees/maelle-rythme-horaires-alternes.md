@@ -98,5 +98,3 @@ Les horaires alternés mettent parfois en conflit le calendrier du travail et le
 Le repos se prépare aussi dans les conditions matérielles, les liens et l'organisation du travail. Préserver une période, négocier une tâche ou faire remonter une difficulté sont des gestes utiles même lorsque leurs effets restent partiels. Leur valeur ne dépend pas d'une récupération immédiate et complète.
 
 Si les difficultés de sommeil persistent, ou si une somnolence menace votre sécurité, un médecin et le service de prévention et de santé au travail peuvent vous accompagner. Il n'est pas nécessaire d'attendre de ne plus tenir pour parler de ce qui rend le repos difficile.
-
-Sources : [INRS, prévention des risques liés aux horaires atypiques](https://www.inrs.fr/risques/travail-horaires-atypiques/demarche-de-prevention.html) ; [INRS, questions sur les horaires atypiques](https://www.inrs.fr/risques/travail-horaires-atypiques/foire-aux-questions.html).

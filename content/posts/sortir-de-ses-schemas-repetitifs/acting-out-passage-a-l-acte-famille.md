@@ -11,6 +11,9 @@ personnage: "Patrick"
 sujet: "Geste destructeur et sécurité après un conflit familial"
 contexte: "en famille"
 draft: false
+editorial_sources:
+- https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/
+- https://www.nhs.uk/live-well/getting-help-for-domestic-violence/
 ---
 
 Dans le salon de sa mère, Patrick compare deux chemises de papiers. Il relit une facture pour vérifier si elle a déjà été réglée. Sur la dernière page, Marcel a écrit le montant au crayon, au centime près, sans indiquer ce qu’il avait fait ensuite. Patrick connaît la façon dont son père formait le chiffre sept. Il vient de passer le doigt sur celui-ci trois fois.
@@ -24,6 +27,8 @@ Il ne voit pas Catherine. Il ne sait pas si elle est restée dans le salon. Il e
 ## Comprendre l’effet du geste sur les personnes présentes
 
 Dans un conflit, frapper ou casser un objet peut mettre les personnes présentes en danger et les effrayer. Prendre de la distance et protéger les personnes vient avant toute discussion sur les raisons du geste.
+
+## La peur qui reste après le geste
 
 Patrick quitte la pièce puis frappe un établi avec une massue. Il endommage le bois, réveille une douleur et effraie Catherine. Le récit permet de décrire ces conséquences et le contexte du deuil. Il ne permet pas de déduire un conflit inconscient. Selon les cadres cliniques, le terme « acting out » peut désigner une interprétation du sens d’un acte. Ici, on s’en tient au geste et à ce que Patrick et Catherine en disent.
 
@@ -46,8 +51,7 @@ Patrick peut dire ce qu’il a fait, reconnaître la peur que cela a pu provoque
 Depuis le couloir, Catherine lui dit qu’elle s’est éloignée quand elle a entendu les coups. Patrick répond qu’il a posé la massue. Il reste dans le garage. Les papiers sont encore sur la table du salon quand elle vient prendre son sac.
 
 Plus tard, à distance, Patrick lui dit : « J’ai frappé l’établi. Tu as eu peur. » Catherine préfère passer l’après-midi chez sa sœur. Elle ne veut pas reparler du tri pour le moment. Patrick n’insiste pas. Il décide de demander une aide professionnelle au sujet des coups, séparément du rendez-vous pour son dos.
+
 ---
 
 Frapper un objet peut effrayer et mettre d’autres personnes en danger. Si la situation présente un danger immédiat, éloignez-vous si vous le pouvez et contactez les services d’urgence. Si vous craignez de reproduire un geste dangereux, cherchez rapidement un appui professionnel. La personne qui a eu peur peut également demander de l’aide pour elle-même.
-
-Sources : [NHS, chercher de l’aide pour la colère et les comportements menaçants](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anger/), [NHS, soutien en cas de violences dans le couple ou la famille](https://www.nhs.uk/live-well/getting-help-for-domestic-violence/).

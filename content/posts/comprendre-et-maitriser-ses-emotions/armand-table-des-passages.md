@@ -33,7 +33,11 @@ De nouvelles personnes arrivent par la cour. Armand écoute deux questions qui s
 
 Une personne qui vit avec la maladie d’Alzheimer peut continuer à participer à des activités qui lui importent, avec un soutien qui s’ajuste à ses besoins. Le NICE recommande de proposer des activités en fonction de ses préférences. Armand avait prévu une entrée en matière et a pu reprendre autrement quand une question l’a détourné de la phrase. Son échange avec la lectrice donne un usage aux cartes. Il ne prédit pas comment une conversation se déroulera un autre jour.
 
-Le besoin d’aide peut évoluer et varier selon le contexte. Armand a gardé le plaisir de chercher un passage à deux, puis choisi de passer la parole quand plusieurs questions sont arrivées ensemble. Le signal convenu avec Nadia lui laisse la possibilité d’ajuster sa place en cours de rencontre. Si le format cesse de lui convenir, sa décision peut être revue sans défaire ce qu’il a déjà transmis.
+Le besoin d’aide peut évoluer et varier selon le contexte.
+
+## Comment cette difficulté se manifeste
+
+Armand a gardé le plaisir de chercher un passage à deux, puis choisi de passer la parole quand plusieurs questions sont arrivées ensemble. Le signal convenu avec Nadia lui laisse la possibilité d’ajuster sa place en cours de rencontre. Si le format cesse de lui convenir, sa décision peut être revue sans défaire ce qu’il a déjà transmis.
 
 ## Anticiper ce qui mérite d’être revu
 
@@ -44,10 +48,3 @@ Le contact du service et la prochaine date de suivi permettent de discuter de ce
 ## Le nom de l’escalier
 
 En quittant le foyer, Armand demande à Nadia si elle peut laisser un crayon près de la copie pour que les gens lui signalent d’autres noms. Elle propose un cahier à côté du plan. Il dit oui et glisse dans sa poche le papier de la lectrice. Chez lui, le plan vert dépasse de la chemise personnelle. Il le laisse où il est et sort l’original du pont bas. Sur un papier à part, il recopie le nom de l’escalier. Il essaie les deux rives du regard, replie la carte, puis écrit sous le nom : « Demander par où elle descendait. »
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG97, évaluation, soins et soutien des personnes vivant avec une démence et de leurs proches](https://www.nice.org.uk/guidance/ng97/resources/dementia-assessment-managementand-support-for-people-living-with-dementia-and-their-carers-pdf-1837760199109)
-- [HAS, parcours de soins du trouble neurocognitif associé à la maladie d’Alzheimer](https://www.has-sante.fr/jcms/c_2906096/fr/patients-presentant-un-trouble-neurocognitif-associe-a-la-maladie-d-alzheimer-ou-a-une-maladie-apparentee-guide-parcours-de-soins)
-- [OMS, principaux repères sur la démence](https://www.who.int/fr/news-room/fact-sheets/detail/dementia)

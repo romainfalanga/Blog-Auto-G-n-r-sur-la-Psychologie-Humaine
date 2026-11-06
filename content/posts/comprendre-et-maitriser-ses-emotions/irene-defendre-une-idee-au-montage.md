@@ -33,6 +33,8 @@ Ilyès attend sa réponse pendant que ses mains bougent. La trousse est à sa dr
 
 Un aménagement peut aider à poursuivre un échange même quand des mouvements répétés sont présents. Sur cette table, Irène a de l’espace et la flèche et son papier restent à portée de main. Ilyès lui laisse le temps de reprendre le feutre. Son avis sur les flèches peut entrer dans la discussion. Le mouvement lui-même ne renseigne pas sur la solidité de cet avis, ni sur la quantité d’aide qu’elle souhaite.
 
+## Comment cette difficulté se manifeste
+
 Il y a une semaine, l’espace autour de la table posait une question de sécurité. Cette fois, la pièce permet surtout de travailler et de revenir à ce qu’on regardait. Les conditions favorables se jugent par ce qu’elles rendent possible pour les deux lecteurs. Il restera à voir comment ils s’en sortent lorsque d’autres personnes attendent de tourner les pages.
 
 ## Séparer l’entrée du chemin à découvrir
@@ -44,8 +46,3 @@ Mylène peut tenir les exemplaires et demander ce qu’ils essaient. Elle n’a 
 ## Deux entrées et une fenêtre à trouver
 
 Ilyès essaie d’abord le dessin qui indique toutes les étapes. Puis il passe à l’autre. Il trouve sa propre fenêtre une fois qu’il a renoncé à suivre la bordure du canal. « D’accord pour deux flèches au départ », dit-il. Irène ajoute une petite ombre sous la marche pour donner envie de soulever le pli. Elle demande à Mylène s’ils peuvent inviter Aya à l’essai de vendredi. Avant de refermer le livre, Ilyès dessine un toit sur une flèche et une ligne d’eau sur l’autre. Irène garde les deux bandes dans la pochette du livre.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Great Ormond Street Hospital for Children (NHS) — Stereotypies: repetitive movements or sounds (2026)](https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/stereotypies-repetitive-movements-or-sounds/)

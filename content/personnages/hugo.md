@@ -6,7 +6,7 @@ slug: "hugo"
 prenom: "Hugo"
 date_naissance: "1999-02-08"
 profession: "Musicien semi-professionnel et serveur pour payer les factures"
-situation: "Célibataire, récemment séparé de chloé"
+situation: "Célibataire, récemment séparé de Chloé"
 nb_articles: 11
 weight: 14
 draft: false

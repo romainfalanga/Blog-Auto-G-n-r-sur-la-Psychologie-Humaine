@@ -90,5 +90,3 @@ Transmettre une tâche demande de rendre visibles les rôles, les attentes et le
 Vous pouvez repérer une intention future et demander quel événement devrait vous la rappeler. Le support doit apparaître là où l'action est possible et contenir assez d'informations pour être utilisable. Un point de fermeture évite ensuite que le rappel reste actif inutilement. La clarté du partage compte autant que la présence d'un signal.
 
 Si les oublis restent fréquents, vous gênent durablement ou vous exposent à des risques, un professionnel peut vous aider à examiner les facteurs en jeu. Au travail, les moyens, les procédures et la charge doivent aussi être discutés. Vous avez le droit de vous appuyer sur des repères sans transformer votre mémoire en preuve quotidienne de votre valeur.
-
-Sources : [Einstein et McDaniel, étude de la mémoire prospective](https://pubmed.ncbi.nlm.nih.gov/2142956/) ; [Sam Gilbert, utilisation stratégique des rappels](https://pubmed.ncbi.nlm.nih.gov/25666463/).

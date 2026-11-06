@@ -92,5 +92,3 @@ La vie privée et le droit de ne pas expliquer permettent de garder un choix mê
 Séparer la décision de l’explication, préparer une réponse courte et choisir une autre forme de participation peuvent aider. Vous pouvez garder un sujet privé tout en restant ouverte sur d’autres. Les limites sont plus habitables lorsqu’elles peuvent être comprises comme des choix de contenu, plutôt que comme une note attribuée à la relation entière.
 
 Si les demandes d’explication deviennent répétées, intrusives ou éprouvantes, une psychologue ou un autre professionnel peut aider à examiner le contexte et les possibilités de soutien. Il peut être nécessaire d’ajuster les relations, pas seulement vos formulations. Vous n’avez pas à rendre votre vie assez douloureuse dans un récit pour qu’elle mérite de rester privée.
-
-Sources : [Petronio, frontières de la vie privée et partage d’informations, 2002](https://www.jstor.org/stable/jj.18255126).

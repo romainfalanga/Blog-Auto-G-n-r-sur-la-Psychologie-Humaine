@@ -549,10 +549,7 @@ hr {
 .home-characters p{max-width:650px;font-size:.95rem;line-height:1.7;color:#54655c;margin:0}
 .characters-discovery-link{display:inline-block;flex-shrink:0;padding:12px 18px;border:1px solid #9cbfb0;border-radius:6px;font:600 .9rem/1.5 var(--font-sans);color:#315f4d;text-decoration:none;text-align:center}
 .characters-discovery-link:hover{background:#e2eee7;text-decoration:none}
-.article-overview{padding:20px 24px;background:#f0f6f2;border-left:3px solid #78a48e;border-radius:0 6px 6px 0;margin:0 0 32px}
-.article-overview h2{font:600 1rem/1.4 var(--font-sans);color:#355e4d;margin:0 0 10px;text-align:left}
-.article-overview p{font:400 1rem/1.75 var(--font-sans);margin:0;color:#3e5147}
-@media(max-width:700px){.home-characters{flex-direction:column;align-items:flex-start;padding:24px;gap:22px}.article-overview{padding:18px 20px}}
+@media(max-width:700px){.home-characters{flex-direction:column;align-items:flex-start;padding:24px;gap:22px}}
 
 
 /* Shared navigation and page alignment */
@@ -663,9 +660,6 @@ main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 
 .article-diagnosis { margin: .7rem 0 0; color: #25454F; font: 700 .94rem/1.5 var(--font-sans); }
 .reading-page .article-content { font-size: clamp(1rem, 1.7vw, 1.15rem); line-height: 1.8; }
 .reading-page .article-content p { margin-bottom: 1.2rem; }
-.article-overview { margin-bottom: 1.65rem; padding: 1.1rem 1.2rem; border: 1px solid #CFDFDA; border-left: 3px solid var(--color-accent); border-radius: 8px; background: #F0F6F4; }
-.article-overview h2 { color: var(--color-accent); }
-.article-overview p { color: var(--color-text); }
 .article-mirror { margin: 2rem 0 0; padding: clamp(1rem, 3.5vw, 1.6rem); border-left: 3px solid var(--color-accent); border-radius: 0 8px 8px 0; background: #F0F6F4; }
 .article-content .article-mirror h2 { margin: 0 0 .75rem; color: var(--color-accent); }
 .article-content .article-mirror p:last-child { margin-bottom: 0; }
@@ -688,7 +682,6 @@ main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 
   .reading-page main { padding: 0; }
   .reading-page .single-article { padding: 1.3rem clamp(1rem, 5vw, 1.75rem) 1.8rem; border: 0; border-bottom: 1px solid var(--color-border); border-radius: 0; }
   .single-article .article-heading h1 { font-size: clamp(1.7rem, 6.6vw, 2.4rem); }
-  .article-overview { padding: .95rem 1rem; }
 }
 
 /* Compact footer, aligned with the top-level workspace links. */

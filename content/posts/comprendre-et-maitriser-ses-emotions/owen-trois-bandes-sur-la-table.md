@@ -30,7 +30,11 @@ Quand vient le tour des questions, Nassim soutient qu’un seul récit pourrait 
 
 ## Avoir plusieurs façons de contribuer
 
-Un support visuel ou écrit peut donner à une personne qui bégaie un autre moyen de faire passer une partie de son idée tout en lui laissant la possibilité de parler. Pour Owen, les bandes maintiennent ensemble les trois points de vue pendant qu’il explique le ruban. Elles restent lisibles pendant son blocage. Il peut les montrer, ajouter une précision à voix haute et décider quand il a terminé. L’ASHA invite à regarder la participation et les conditions de communication, en plus de ce qui arrive à la parole elle-même. Un support aide parfois à préserver une place dans la conversation sans changer la fluence. Owen bute encore sur « poignée » et transmet quand même la différence qui l’intéresse. Demain, il pourra préférer s’en passer pour une autre discussion.
+Un support visuel ou écrit peut donner à une personne qui bégaie un autre moyen de faire passer une partie de son idée tout en lui laissant la possibilité de parler.
+
+## Comment cette difficulté se manifeste
+
+Pour Owen, les bandes maintiennent ensemble les trois points de vue pendant qu’il explique le ruban. Elles restent lisibles pendant son blocage. Il peut les montrer, ajouter une précision à voix haute et décider quand il a terminé. L’ASHA invite à regarder la participation et les conditions de communication, en plus de ce qui arrive à la parole elle-même. Un support aide parfois à préserver une place dans la conversation sans changer la fluence. Owen bute encore sur « poignée » et transmet quand même la différence qui l’intéresse. Demain, il pourra préférer s’en passer pour une autre discussion.
 
 ## Comparer ce que chacun voit
 
@@ -39,9 +43,3 @@ La proposition doit encore répondre à la question de Nassim. M. Vasseur peut t
 ## Un plan pour deux versions
 
 Nassim mesure la largeur des trois bandes avec son téléphone, puis retire l’appareil : « Fixe, vraiment fixe. » Lucile se charge du sac et Owen accepte de réduire l’essai au seul banc. M. Vasseur confirme le mercredi et leur montre où l’établissement garde les documents pour le tournage et l’enregistrement. Ils régleront les autorisations avant les essais, même si les versions sont destinées au seul travail du club. Owen glisse les trois bandes dans une chemise que Lucile lui prête. Il lui dit qu’il aimerait aussi donner de la voix au film, mais qu’il ne sait pas encore quelle partie il voudrait faire.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal, bégaiement, bredouillement et fluence de la parole](https://www.asha.org/practice-portal/clinical-topics/fluency-disorders/)
-- [Éduscol, modèles d’autorisation d’enregistrement et d’utilisation de l’image et de la voix](https://eduscol.education.gouv.fr/6231/protection-des-donnees-personnelles-et-assistance)

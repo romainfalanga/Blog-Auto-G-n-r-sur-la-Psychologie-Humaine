@@ -31,7 +31,11 @@ Yannis tient la feuille par les coins. Blandine lui demande de la mettre sur la 
 
 ## Quand le manque occupe la journée
 
-Dans le trouble du deuil prolongé, l’absence d’une personne morte revient avec une douleur qui prend durablement beaucoup de place dans la vie quotidienne. L’OMS décrit dans la CIM-11 le manque persistant de la personne disparue ou des pensées envahissantes à son sujet, avec une douleur émotionnelle intense. La clinicienne qui a évalué Blandine a discuté avec elle de la place que cette douleur avait prise depuis le décès, de son contexte et de ce que lui demandaient ses journées de travail. Blandine est déjà suivie ; le dîner montre seulement un moment de cette histoire.
+Dans le trouble du deuil prolongé, l’absence d’une personne morte revient avec une douleur qui prend durablement beaucoup de place dans la vie quotidienne. L’OMS décrit dans la CIM-11 le manque persistant de la personne disparue ou des pensées envahissantes à son sujet, avec une douleur émotionnelle intense. La clinicienne qui a évalué Blandine a discuté avec elle de la place que cette douleur avait prise depuis le décès, de son contexte et de ce que lui demandaient ses journées de travail.
+
+## Comment cette difficulté se manifeste
+
+Blandine est déjà suivie ; le dîner montre seulement un moment de cette histoire.
 
 Avoir envie de raconter une chose à quelqu’un qui est mort fait aussi partie du deuil ordinaire. Un objet chargé de souvenirs ou un après-midi difficile ne renseigne pas à lui seul sur l’ensemble d’une vie. Ce qui pèse ici, c’est que plusieurs heures ont passé à circuler entre le dossier, le texte du guide et un message que Blandine veut pourtant écrire. Elle pourrait raconter cette succession à sa thérapeute, jusqu’à la phrase qu’elle avait voulu corriger.
 
@@ -44,8 +48,3 @@ Yannis, lui, peut l’aider à tenir le repas en cours. Il sait où est le sel e
 ## Une demande qui tient sur deux lignes
 
 Blandine efface « quand je reviendrai ». Elle demande si Léon pourrait lui dire de quelles partitions annotées le chœur aurait l’usage et ajoute qu’elle souhaite d’abord en parler. Puis elle pose le téléphone sur le buffet et replace la feuille sous l’élastique bleu. À table, Yannis raconte l’histoire du plat en verre qu’il a apporté au mauvais étage la dernière fois. Blandine lui rappelle que le voisin l’a rendu avec des biscuits dedans.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS — Grief after bereavement or loss : vécu du deuil et soutien](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)

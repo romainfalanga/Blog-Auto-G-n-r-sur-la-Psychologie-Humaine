@@ -1,5 +1,5 @@
 ---
-title: "Odile : les liens qui continuent après un décès"
+title: Les liens qui continuent après un décès
 date: 2026-11-03T08:00:00+00:00
 description: "Après la mort de sa sœur, Odile cherche une place au souvenir. Un récit sur les liens qui changent, sans calendrier imposé au deuil."
 categories: ["Comprendre et maîtriser ses émotions"]
@@ -72,8 +72,3 @@ Un lien après un décès peut se transformer sans disparaître complètement de
 Il est possible que la même expérience apporte du réconfort et de la peine. Cette coexistence n’impose pas de chercher une leçon dans la perte. Un soutien utile peut consister à écouter, à aider matériellement ou à parler d’autre chose à votre demande. Votre entourage n’a pas nécessairement les mêmes souhaits que vous ; expliciter une limite ou une demande peut rendre l’échange plus ajusté, sans garantir qu’il sera immédiatement facile.
 
 Si le deuil vous laisse durablement sans appui, vous empêche de prendre soin de vous ou s’accompagne d’une souffrance qui vous inquiète, vous pouvez en parler à un médecin, un psychologue ou un professionnel formé à l’accompagnement du deuil. Il n’est pas nécessaire d’attendre un calendrier précis pour demander ce soutien. L’objectif peut être de retrouver des possibilités dans votre vie actuelle, en respectant la place singulière de la personne morte.
-
-Sources :
-- [NHS, Grief after bereavement or loss](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)
-- [NIH, Social Wellness Toolkit](https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit)
-- [Boelen et ses collègues, étude de suivi sur les liens qui continuent après un décès](https://pubmed.ncbi.nlm.nih.gov/16972374/)

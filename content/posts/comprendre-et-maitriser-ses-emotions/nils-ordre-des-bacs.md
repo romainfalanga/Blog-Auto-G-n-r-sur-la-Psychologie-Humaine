@@ -31,7 +31,11 @@ Aïcha ajoute un trait à côté du deuxième point. Elle voulait indiquer le ba
 
 Certaines personnes qui vivent avec une schizophrénie ont des difficultés d’attention ou de mémoire qui gênent des tâches précises. Nils sait reconnaître le moment où il perd l’ordre d’une série d’instructions. La scène comporte aussi des problèmes de travail concrets : deux personnes parlent en même temps, le passage est encombré et l’étiquette n’est plus sur le bon bac. Ces éléments peuvent gêner la tâche pour plusieurs raisons. Ils ne permettent pas de tirer une conclusion clinique à partir de ce qui se passe à l’ouverture.
 
-La première liste les aide à distinguer deux actions, puis crée un autre doute avec son trait ambigu. Nils et Aïcha la modifient ensemble. La possibilité de reprendre au bon endroit dépend autant de la lisibilité de la feuille que de la personne qui la tient. Ils gardent le bon de livraison pour identifier les lots.
+La première liste les aide à distinguer deux actions, puis crée un autre doute avec son trait ambigu.
+
+## Comment cette difficulté se manifeste
+
+Nils et Aïcha la modifient ensemble. La possibilité de reprendre au bon endroit dépend autant de la lisibilité de la feuille que de la personne qui la tient. Ils gardent le bon de livraison pour identifier les lots.
 
 ## Se mettre d’accord sur le travail à finir
 
@@ -42,9 +46,3 @@ Nils ne s’engage pas à tenir une liste pour toute la livraison. Ils essaient 
 ## Les initiales au crayon
 
 Au moment d’ouvrir, Nils range les étiquettes d’origine et fixe les nouvelles, une sur chaque bac vérifié. Il inscrit ses initiales à côté du dernier bac et laisse le crayon accroché à la planchette par sa pince. Pendant la pause, il découvre un message de Maud avec la maquette de l’affiche de l’émission. Sous le nom de la radio, elle lui demande de fournir une courte présentation. Il sait donner les trois mots qui disent ce qu’il fait à la pépinière. Il se demande qui choisira la phrase entière. Il répond qu’il préfère regarder la maquette avec elle mercredi, avant de lui envoyer du texte.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE, psychose et schizophrénie chez l’adulte (CG178)](https://www.nice.org.uk/guidance/cg178/chapter/recommendations)
-- [OMS, fiche d’information sur la schizophrénie](https://www.who.int/news-room/fact-sheets/detail/schizophrenia)

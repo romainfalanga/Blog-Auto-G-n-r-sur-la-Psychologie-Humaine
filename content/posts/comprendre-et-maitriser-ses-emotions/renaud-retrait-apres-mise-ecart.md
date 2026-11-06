@@ -34,7 +34,9 @@ Le lendemain, il entend le fabricant repartir avant de sortir de son bureau. Yar
 
 Certaines personnes présentant ce trouble réagissent à une critique ou à une déception en s’isolant. La honte ou l’impression d’avoir perdu sa place peut rendre difficile le fait de rester en lien. Se retirer peut diminuer l’inconfort sur le moment. Le résultat peut aussi être un travail reporté ou une conversation laissée à la charge des autres. Ces effets dépendent de la situation et des responsabilités de chacun.
 
-Renaud peut choisir la part qu’il souhaite prendre dans la rencontre de presse. Il avait aussi accepté une tâche distincte auprès du fabricant. En laissant cette tâche en suspens, il met son équipe devant une décision qu’elle ne peut pas prendre. Comprendre la raison de son retrait l’aide à examiner ce qu’il pourra faire autrement. Cette compréhension ne remplace pas l’envoi du relevé.
+## Le soulagement immédiat et la validation reportée
+
+Quand Nora propose que Yara parle à la presse, Renaud interprète ce choix comme une mise à l’écart. Il déplace le relevé et annonce qu’il laissera les autres faire la réunion. Le soulagement est immédiat. Le lendemain, Yara reporte la validation de deux panneaux parce qu’elle n’a pas les mesures attendues. Le retrait a changé une tâche que Renaud avait acceptée et coûté une semaine à l’équipe.
 
 ## Répondre à la tâche et parler ailleurs du sentiment d’exclusion
 
@@ -45,9 +47,3 @@ Le sentiment d’exclusion demeure pour Renaud. Il a prévu une consultation la 
 ## Le relevé dans le dossier commun
 
 Renaud remet le document à sa place et envoie le lien à Yara et au fabricant. Il indique qu’il n’était pas venu alors qu’il avait le relevé et demande un créneau pour reprendre la validation. Yara peut venir jeudi matin. Elle lui demande de déposer les mesures la veille à l’avenir. Avant de fermer son agenda, il ajoute une note à son rendez-vous de consultation. Il écrit la phrase de Nora aussi exactement qu’il peut se la rappeler.
-
-## Sources
-
-- [American Psychiatric Association, présentation du trouble de la personnalité narcissique selon le DSM-5-TR](https://www.psychiatry.org/news-room/apa-blogs/what-is-narcissistic-personality-disorder/)
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Edershile et collègues, variations de grandiosité et de vulnérabilité dans les interactions, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11326982/)

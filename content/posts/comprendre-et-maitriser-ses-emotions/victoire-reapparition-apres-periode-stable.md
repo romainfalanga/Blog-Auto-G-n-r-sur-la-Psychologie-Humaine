@@ -30,18 +30,16 @@ Lila ouvre un plan sur la table et cherche dans quel sens faire apparaître la g
 
 ## Replacer un épisode dans l’évolution du trouble
 
-La boulimie nerveuse peut évoluer de façon variable, avec des symptômes persistants chez certaines personnes et des périodes d’apaisement puis de réapparition chez d’autres. Un épisode peut être source de détresse et justifier d’en reparler en consultation, même si des changements utiles ont déjà eu lieu. L’équipe peut regarder ce qui a changé, la répétition éventuelle des crises ou des compensations, leurs conséquences et l’état physique de la personne. Elle peut reprendre les ressources qu’elle utilise et les difficultés auxquelles elle se heurte encore. Pour Victoire, le fait d’avoir connu des soirées plus libres reste un élément de l’histoire. Dire à Nora ce qui vient d’arriver lui permettra de décrire ce dont elle a besoin maintenant.
+La boulimie nerveuse peut évoluer de façon variable, avec des symptômes persistants chez certaines personnes et des périodes d’apaisement puis de réapparition chez d’autres. Un épisode peut être source de détresse et justifier d’en reparler en consultation, même si des changements utiles ont déjà eu lieu. L’équipe peut regarder ce qui a changé, la répétition éventuelle des crises ou des compensations, leurs conséquences et l’état physique de la personne. Elle peut reprendre les ressources qu’elle utilise et les difficultés auxquelles elle se heurte encore.
+
+## Le découragement qui revient jusque dans le pliage
+
+Victoire avait retrouvé des soirées plus libres. Après la nouvelle crise, elle se demande si elle a parlé trop vite de cette amélioration à Nora. Le lendemain, elle montre à Lila comment plier le plan et refait le même pli deux fois. Elle finit par lui dire qu’elle souhaite s’arrêter après la pile en cours. Les soirées plus libres et la difficulté présente font partie de la même évolution.
 
 ## Répartir ce qui peut être fait aujourd’hui
 
-Victoire peut demander à Lila de l’aider sur une tâche dont les contours sont visibles, comme finir le pliage ou emporter ce qui reste. Lila peut dire ce qu’elle a le temps de faire. Elle n’a pas à déterminer la gravité de la reprise des symptômes. Pour cette question, Victoire utilise le contact convenu avec l’équipe et sait que la situation sera évaluée avec elle. Elle veut garder la possibilité de venir dimanche et revoir sa part du travail selon ce qu’elles décideront. La date du rallye donne une échéance au groupe. Elle laisse aussi des choix que Victoire peut ajuster indépendamment du rendez-vous de soins, comme présenter le plan au départ ou rester à l’accueil.
+Victoire peut demander à Lila de l’aider sur une tâche dont les contours sont visibles, comme finir le pliage ou emporter ce qui reste. Lila peut dire ce qu’elle a le temps de faire. Elle n’a pas à déterminer la gravité de la reprise des symptômes. Pour cette question, Victoire utilise le contact convenu avec l’équipe. Elle peut dire à Nora ce qui est revenu et comment cela a pesé sur le pliage, pour préciser ce dont elle a besoin maintenant. Elle veut garder la possibilité de venir dimanche et revoir sa part du travail selon ce qu’elles décideront. La date du rallye donne une échéance au groupe. Elle laisse aussi des choix que Victoire peut ajuster indépendamment du rendez-vous de soins, comme présenter le plan au départ ou rester à l’accueil.
 
 ## Le sac des plans à moitié plein
 
 Lila termine la pile et prend le reste du sac avec elle. Avant de partir, elle demande si Victoire veut qu’elle repasse samedi. Victoire lui propose de la retrouver à la salle pour installer l’accueil. Elle met de côté le plan sur lequel on voit le portail avant la flèche. Le lendemain, le service lui propose un créneau pour parler avec Nora.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et FFAB, Boulimie et hyperphagie boulimique, recommandations de bonne pratique](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique)
-- [Haute Autorité de santé et FFAB, prise en charge pluriprofessionnelle coordonnée](https://www.has-sante.fr/jcms/p_3099804/fr/prise-en-charge-pluriprofessionnelle-coordonnee-fiche-outil)

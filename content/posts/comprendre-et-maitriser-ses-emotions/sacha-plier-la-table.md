@@ -31,7 +31,11 @@ Nora apporte un chiffon. L’homme qui voulait filmer est revenu acheter du terr
 
 ## Une tâche peut être faite au prix d’un effort invisible
 
-Dans le trouble d’anxiété sociale, une personne peut continuer une activité qui lui importe tout en y consacrant un effort que les autres ne voient pas. L’OMS invite à tenir compte de ce coût dans l’évaluation du retentissement. Le fait que Sacha ait transmis une information utile aux visiteurs et la fatigue qu’il décrit après l’atelier peuvent être vrais en même temps. Le temps d’attente avant d’appeler son frère lui donne une façon précise de parler de ce que l’atelier lui a demandé. La fatigue d’une journée ne s’explique toutefois pas à elle seule par un diagnostic.
+Dans le trouble d’anxiété sociale, une personne peut continuer une activité qui lui importe tout en y consacrant un effort que les autres ne voient pas. L’OMS invite à tenir compte de ce coût dans l’évaluation du retentissement.
+
+## Comment cette difficulté se manifeste
+
+Le fait que Sacha ait transmis une information utile aux visiteurs et la fatigue qu’il décrit après l’atelier peuvent être vrais en même temps. Le temps d’attente avant d’appeler son frère lui donne une façon précise de parler de ce que l’atelier lui a demandé. La fatigue d’une journée ne s’explique toutefois pas à elle seule par un diagnostic.
 
 Il y a eu aussi un échange qui lui a plu avec madame Baudry, une fois les autres visiteurs partis. En parler au cabinet donne une image plus complète de la matinée. Sacha peut garder de cet atelier le plaisir d’une conversation et demander de revoir la préparation avant d’en prendre un autre en charge.
 
@@ -44,8 +48,3 @@ NICE recommande de faire participer la personne à l’examen des effets du soin
 ## Le chevalet reste au comptoir
 
 Gaspard libère le ressort. Sacha replie la table avec lui, puis pose le chevalet à côté du cahier des commandes. Ils s’accordent sur une dizaine de fiches en libre-service. En fin de journée, au cabinet, Sacha parle de la réponse sur les racines et du dimanche avec son frère. Il veut continuer à travailler sur les moments où il surveille chaque mot, même quand la conversation lui plaît. En sortant, il envoie un message à son frère pour lui proposer un tour au marché, tous les deux. Il a oublié ce qu’il voulait lui raconter la dernière fois. Il se rappelle juste qu’il a envie de le voir.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG159, reconnaissance, évaluation et traitement du trouble d’anxiété sociale](https://www.nice.org.uk/guidance/cg159/resources/social-anxiety-disorder-recognition-assessment-and-treatment-pdf-35109639699397)

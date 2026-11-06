@@ -43,8 +43,3 @@ Lison reporte les 75 cm sur la ligne « stock utilisable vérifié » et précis
 ## Une deuxième étiquette sur le rouleau
 
 Ilyès vérifie une dernière fois la ligne de 185 cm et regarde l’horloge. Lison lui dit qu’elle a ce qu’il lui faut et peut rendre la table. Elle écrit sur le rouleau « 75 cm utilisables, mesurés aujourd’hui », avec la date. En bas de la fiche, elle ajoute « ocre B17, largeur 140 cm », puis elle prélève pour le dossier un petit morceau dans la partie abîmée, là où le sergé a encore sa vraie couleur. Avant de remonter le rouleau, elle montre la nouvelle étiquette à Nora, qui réserve le coupon pour les vestes. Il faut que la personne qui redescendra ce coupon sache où poser son mètre.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Staller et al. — Neurodivergent Conditions Critically Limit Societal Participation: The Case of Dyscalculia in Adults (2025)](https://journals.sagepub.com/doi/10.1177/27546330251406911)

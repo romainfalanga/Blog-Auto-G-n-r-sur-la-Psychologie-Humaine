@@ -1,5 +1,5 @@
 ---
-title: "Samira : garder sa colère face à une situation injuste"
+title: Garder sa colère face à une situation injuste
 date: 2026-09-11T08:00:00+00:00
 description: "Un planning modifié sans échange met Samira en colère. Elle cherche une réponse qui protège ses besoins et laisse visible l’injustice."
 slug: "samira-colere-situation-injuste"
@@ -100,7 +100,3 @@ La colère face à une situation injuste peut signaler qu’un besoin ou un trai
 Un fait précis, une transition entre deux interactions et un appui adapté ouvrent plusieurs réponses possibles. Chacune possède un coût et des limites. Une personne qui diffère sa protestation ne consent pas nécessairement à ce qui lui arrive ; elle peut chercher la manière la moins risquée de continuer à agir.
 
 Si la colère devient persistante, envahit la vie quotidienne ou entraîne des comportements préoccupants, un psychologue ou un médecin peut aider. Un professionnel compétent doit examiner séparément les questions de travail. Le soutien émotionnel et l’examen des conditions concrètes se complètent sans réduire le problème à la façon de penser de la personne.
-
-Sources :
-- [Van Zomeren et ses collègues, colère de groupe et ressources d’action collective](https://pubmed.ncbi.nlm.nih.gov/15535777/)
-- [Défenseur des droits, enquête sur la précarité et les obstacles d’accès aux droits](https://www.defenseurdesdroits.fr/acces-aux-droits-des-personnes-en-situation-de-precarite-1205)

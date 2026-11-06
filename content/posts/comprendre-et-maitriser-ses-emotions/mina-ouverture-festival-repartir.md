@@ -31,7 +31,11 @@ Mina peut préparer les enveloppes sans tous les programmes, le temps d’avoir 
 
 ## Reconnaître une réaction récurrente au travail
 
-Un suivi peut prendre en compte les difficultés que la personne rencontre au travail et les objectifs qu’elle souhaite y garder. Le NICE prévoit de discuter d’objectifs concrets liés à l’emploi et à la vie quotidienne. Dans la scène, Mina veut accueillir les bénévoles et donner une information fiable. Elle remarque aussi l’effet qu’a sur elle la réponse de Rachid. Elle peut apporter ces deux observations au suivi et choisir de traiter la livraison avec la coordination.
+Un suivi peut prendre en compte les difficultés que la personne rencontre au travail et les objectifs qu’elle souhaite y garder. Le NICE prévoit de discuter d’objectifs concrets liés à l’emploi et à la vie quotidienne.
+
+## Comment cette difficulté se manifeste
+
+Dans la scène, Mina veut accueillir les bénévoles et donner une information fiable. Elle remarque aussi l’effet qu’a sur elle la réponse de Rachid. Elle peut apporter ces deux observations au suivi et choisir de traiter la livraison avec la coordination.
 
 Le fait d’avoir pu reprendre leur désaccord la dernière fois ne garantit pas un accord aujourd’hui. Mina et Rachid peuvent se répartir les tâches à partir de leurs disponibilités. Les raisons d’un retard ou d’une réponse brève peuvent rester ouvertes jusqu’à ce qu’ils aient de quoi les comprendre.
 
@@ -44,8 +48,3 @@ Son activité de reliure reste dans son agenda. Elle peut en parler à Béatrice
 ## Le prénom sous la dernière case
 
 La coordination désigne quelqu’un pour reprendre la table. Mina écrit le prénom de cette personne sous la dernière case et lui montre où poser les boîtes qui manquent. Rachid revient pendant le changement. Il voudrait encore regarder la question des créneaux du lendemain. Mina lui dit qu’elle peut en parler le matin suivant. Elle prend avec elle le morceau de papier vert qu’elle avait laissé derrière le planning pour écrire une étiquette. En sortant, elle compte le temps qu’il lui reste pour rejoindre l’atelier.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG78, accompagnement des personnes présentant un profil borderline](https://www.nice.org.uk/guidance/cg78/chapter/Recommendations)

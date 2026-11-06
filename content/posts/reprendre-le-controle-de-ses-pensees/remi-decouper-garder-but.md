@@ -90,5 +90,3 @@ Découper une tâche est utile lorsque les étapes gardent un lien avec un résu
 Vous pouvez choisir un résultat d'usage, puis regarder quelles étapes le rendent possible. Le bon niveau de détail est celui qui vous aide à agir et à décider. S'il vous oblige à entretenir un système plus lourd que la tâche elle-même, vous pouvez le simplifier. Le plan doit rester au service du travail et des personnes concernées.
 
 Si l'organisation quotidienne reste source de détresse ou si les difficultés dépassent ce que ces repères peuvent soutenir, un professionnel peut vous aider à examiner la situation. Les contraintes matérielles et la répartition des responsabilités méritent aussi leur place dans cette discussion. Avoir besoin d'un appui ne signifie pas que vous manquez de volonté ou de valeur.
-
-Sources : [Bandura et Schunk, sous-objectifs et sentiment de compétence](https://doi.org/10.1037/0022-3514.41.3.586) ; [Gollwitzer, préparer le passage à l'action](https://prospectivepsych.org/publications/implementation-intentions-strong-effects-simple-plans).

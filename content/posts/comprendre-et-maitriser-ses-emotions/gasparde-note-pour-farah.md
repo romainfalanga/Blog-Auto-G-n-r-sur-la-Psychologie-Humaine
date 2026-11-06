@@ -32,7 +32,11 @@ Gasparde a davantage envie de répondre à la seconde question. Dimanche, elle a
 
 Un rendez-vous de suivi donne l’occasion de parler de ce qui devient plus difficile et de ce qu’on tient à continuer. Farah connaît le trouble délirant pour lequel Gasparde est suivie. Elle entend une évolution de la préoccupation, du sommeil et du temps passé à revenir sur les messages. Elle peut lui demander ce qui s’est passé entre les rendez-vous, quels appuis étaient disponibles et comment elle a pu jouer samedi. L’ensemble compte pour préparer la suite.
 
-La CIM-11 prévoit que l’évolution du trouble s’évalue en tenant compte du tableau clinique. Une soirée difficile et une bonne partie de tennis apportent chacune un renseignement sur la vie de Gasparde. Son équipe peut les replacer dans ce qu’elle rapporte sur la durée et dans les décisions de suivi déjà prises avec elle.
+La CIM-11 prévoit que l’évolution du trouble s’évalue en tenant compte du tableau clinique.
+
+## Comment cette difficulté se manifeste
+
+Une soirée difficile et une bonne partie de tennis apportent chacune un renseignement sur la vie de Gasparde. Son équipe peut les replacer dans ce qu’elle rapporte sur la durée et dans les décisions de suivi déjà prises avec elle.
 
 ## Savoir qui joindre et garder le choix
 
@@ -43,9 +47,3 @@ La fiche qu’elles préparent part de moments reconnus par Gasparde. Elle voudr
 ## Un numéro au dos des scores
 
 Gasparde recopie le numéro du centre au dos de la feuille et ajoute la plage où une personne peut lui répondre. Farah lui précise comment l’équipe reprend les messages et propose un autre rendez-vous la semaine suivante. Gasparde accepte et relit à voix haute ce qu’elle voudrait dire au téléphone si elle appelait avant. « Je dors moins et j’ai du mal à décrocher du club. On peut se parler ? » Farah lui demande si elle veut conserver cette phrase. Gasparde l’écrit sous le numéro, en plus petit. Elle replie la feuille du côté des scores et la range dans la poche où elle garde sa carte du bus.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Guide d’intervention mhGAP, version 2.0 : principes de soins et suivi des psychoses](https://www.who.int/publications/i/item/9789241549790)
-- [NSW Health, communiquer avec une personne qui vit une expérience psychotique](https://www.health.nsw.gov.au/mentalhealth/psychosocial/strategies/Pages/communicating-psychosis.aspx)

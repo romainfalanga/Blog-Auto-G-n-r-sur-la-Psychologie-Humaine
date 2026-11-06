@@ -32,7 +32,11 @@ Mme Roussel montra deux cases dans l’agenda : un petit essai jeudi et une pré
 
 ## Donner une place à l’avis de l’enfant
 
-Dans le parcours décrit par la Haute Autorité de santé, l’enfant et ses parents participent aux décisions avec les professionnels qui l’accompagnent. Cette participation suppose des échanges que l’enfant peut suivre et une occasion de dire ce qui lui sert. Les mêmes difficultés de langage peuvent avoir des effets différents d’une activité à l’autre. Agathe sait expliquer ce qui s’est passé devant le bureau, mais le vocabulaire de la réunion lui échappe par moments. Demander à l’enseignante ce qu’elle entend par « aménagements » change la suite de la discussion. Sa mère peut apporter ce qu’elle observe et Mme Roussel parler de ce qu’elle peut organiser à l’école. Le suivi du langage continue avec l’orthophoniste, sans que la réunion décide à sa place de la suite des soins.
+Dans le parcours décrit par la Haute Autorité de santé, l’enfant et ses parents participent aux décisions avec les professionnels qui l’accompagnent. Cette participation suppose des échanges que l’enfant peut suivre et une occasion de dire ce qui lui sert. Les mêmes difficultés de langage peuvent avoir des effets différents d’une activité à l’autre.
+
+## Comment cette difficulté se manifeste
+
+Agathe sait expliquer ce qui s’est passé devant le bureau, mais le vocabulaire de la réunion lui échappe par moments. Demander à l’enseignante ce qu’elle entend par « aménagements » change la suite de la discussion. Sa mère peut apporter ce qu’elle observe et Mme Roussel parler de ce qu’elle peut organiser à l’école. Le suivi du langage continue avec l’orthophoniste, sans que la réunion décide à sa place de la suite des soins.
 
 ## Faire circuler ce qui permet d’agir
 
@@ -41,9 +45,3 @@ Dans ce jardin, Camille a besoin de savoir comment rendre une consigne plus faci
 ## Un jeudi, puis un autre
 
 Mme Roussel écrivit dans la première case « deux CM1 essayent la carte », puis dans la seconde « accueil de la classe au jardin ». Elle s’occuperait de demander à l’autre enseignante quels élèves pouvaient venir au premier essai et confirmerait le second créneau. Agathe demanda à voir la première ligne avant de partir ; elle la copia au dos de son plan. Sa mère rangea le dossier dans son sac. Sur le pas de la porte, elle demanda à Agathe si elle voulait rester cinq minutes pour reparler du collège. Agathe vérifia l’heure à l’horloge de la classe. « Pas aujourd’hui. On va au marché demain. Là, j’ai encore le temps de passer voir les pots sur le balcon. »
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé, Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2822893/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages)
-- [American Speech-Language-Hearing Association, Spoken Language Disorders](https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/)

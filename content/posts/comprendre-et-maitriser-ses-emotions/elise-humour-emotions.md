@@ -1,5 +1,5 @@
 ---
-title: "Élise : rire sans effacer ce qui la touche"
+title: Rire sans effacer ce qui la touche
 description: "Après une réunion perturbée, Élise plaisante. Elle découvre quand l’humour l’aide et quand il coupe court à une émotion encore présente."
 slug: elise-humour-emotions
 date: 2026-10-02T09:00:00+02:00
@@ -13,6 +13,7 @@ contexte: "Au déjeuner avec Françoise, Élise transforme les difficultés de l
 editorial_pack: psychology-v10
 episode: 2
 ---
+
 Élise pose son sac sur la chaise du restaurant et annonce à Françoise qu’elle vient de lancer le premier salon municipal avec plafond optionnel. Son amie rit, puis demande si la fuite est importante. Élise raconte la salle fermée, les échanges dans l’accueil et le café servi au milieu des passages. Elle trouve une formule drôle pour chaque détail. Le récit devient fluide, bien plus fluide que la matinée. Elle apprécie de pouvoir en rire après avoir cherché une autre organisation. Pourtant, quand le serveur repart, son sourire reste un instant sur son visage tandis que ses mains continuent à froisser le coin de la serviette.
 
 Françoise lui demande comment elle a vécu l’annulation d’une partie du programme. Élise répond que personne n’est mort et que son talent pour déplacer des chaises demeure intact. La phrase fait sourire son amie, mais ne répond pas vraiment. Elle le sait au moment où elle la prononce. Elle n’a pas envie de transformer ce déjeuner en plainte. Depuis sa séparation, huit ans auparavant, leurs rendez-vous ont accueilli des conversations de toutes sortes. Françoise ne lui demande jamais d’être légère. C’est Élise qui arrive parfois avec une petite scène comique déjà prête pour éviter le moment où elle devra chercher ses mots.
@@ -74,7 +75,3 @@ Le rire peut soutenir une relation et rendre une journée plus respirable. Il n�
 Une émotion ne devient pas illégitime parce que d’autres difficultés sont plus graves. Dire une déception précise peut aider l’entourage à comprendre, sans lui demander une réparation totale. Une limite claire protège aussi le droit de ne pas approfondir un sujet à ce moment.
 
 Élise garde son sens de la formule. Elle essaie de ne plus lui confier toute la conversation. Cette liberté reste variable selon les jours, les personnes et la fatigue. Elle se construit dans des échanges ordinaires, avec des essais parfois maladroits et une place pour revenir sur ce que l’on a voulu dire.
-
-Sources :
-- [Centre for Clinical Interventions, Tolérer l’inconfort émotionnel](https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Tolerating-Distress)
-- [CDC, Écouter et soutenir une personne](https://www.cdc.gov/emotional-well-being/conversations-matter/)

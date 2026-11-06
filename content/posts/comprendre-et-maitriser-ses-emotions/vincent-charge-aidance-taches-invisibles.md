@@ -98,5 +98,3 @@ La charge d’aidance comprend aussi le travail d’anticipation, de mémoire et
 Vincent ne cherche pas à se retirer de la relation. Il apprend à nommer les tâches sans réduire Cédric à celles-ci, et à demander un appui qui laisse chacun choisir. Les premières modifications restent modestes. Elles peuvent néanmoins ouvrir un espace où l’attention ne doit plus être portée intégralement par une seule mémoire.
 
 Si l’aidance s’accompagne d’une fatigue persistante, d’une détresse ou de difficultés à tenir les autres domaines de vie, un médecin, un psychologue ou un professionnel social peut aider à examiner la situation. Les besoins de la personne accompagnée et ceux de l’aidant méritent d’être regardés ensemble, avec le respect des choix et de la vie privée de chacun.
-
-Sources : [Haute Autorité de santé, répit des aidants et évaluation globale des besoins](https://www.has-sante.fr/jcms/p_3351732/fr/repit-des-aidants).

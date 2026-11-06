@@ -33,7 +33,11 @@ Maud passe et demande si le dessin a gagné. Les questions repartent aussitôt :
 
 Un panneau peut fonctionner depuis une entrée et rester invisible depuis une autre. Hélène a changé à la fois le dessin, les mots et l’emplacement. Le client qui lit « Tasses » donne une indication sur ce qui lui a servi. La cliente qui voit le dos du carton indique une limite de l’installation. Ces retours aident à choisir la prochaine modification. Ils ne permettent pas d’attribuer à l’image, à elle seule, les progrès observés.
 
-La HAS recommande de tenir compte des propositions de la personne et de l’environnement réel de travail. L’OMS distingue différents domaines de fonctionnement dans le TDI. Dans cette situation, suivre plusieurs questions qui arrivent en même temps demande à Hélène un effort qu’elle peut limiter en remettant les étapes dans l’ordre. En revanche, comparer ce que les clients voient depuis deux entrées relève d’un savoir qu’elle construit sur le rayon.
+La HAS recommande de tenir compte des propositions de la personne et de l’environnement réel de travail. L’OMS distingue différents domaines de fonctionnement dans le TDI.
+
+## Comment cette difficulté se manifeste
+
+Dans cette situation, suivre plusieurs questions qui arrivent en même temps demande à Hélène un effort qu’elle peut limiter en remettant les étapes dans l’ordre. En revanche, comparer ce que les clients voient depuis deux entrées relève d’un savoir qu’elle construit sur le rayon.
 
 ## Faire une modification qu’on pourra encore déplacer
 
@@ -44,9 +48,3 @@ Les observations de Dario ont un rôle précis : ce qu’il voit et ce qu’on l
 ## Une seconde entrée sur le croquis
 
 Hélène et Maud repartent de la porte latérale. Le panneau est trop loin pour lire un texte au dos. Hélène place un carton de réserve sur le montant le plus proche, le temps de vérifier que la flèche reste visible quand une personne s’arrête devant. Elle veut garder les deux mots sur les étagères et mettre un deuxième panneau à cet endroit. Maud croit qu’il ne reste qu’un seul support neuf. Hélène lui demande de vérifier avant samedi midi ; elle apportera son croquis et verra ce qu’elles peuvent faire avec le matériel disponible. Elles conviennent de reprendre aussi la légende de la lettre à ce moment-là.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé, TDI : travail et vie active (volet 2)](https://www.has-sante.fr/upload/docs/application/pdf/2025-11/dir7/tdi_emploi_volet2.pdf)
-- [Haute Autorité de santé, accompagnement de la personne présentant un TDI : synthèse du volet 1](https://www.has-sante.fr/upload/docs/application/pdf/2022-09/tdi_synthese_rbpp_volet1.pdf)

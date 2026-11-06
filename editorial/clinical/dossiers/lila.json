@@ -1,0 +1,54 @@
+{
+  "references": {
+    "oms-cim-6e20": {
+      "title": "OMS, CIM-11 en français, catégorie 6E20",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#1124422593"
+    },
+    "oms-cim-6a70": {
+      "title": "OMS, CIM-11 en français, épisode dépressif unique, catégorie 6A70",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#578635574"
+    },
+    "ameli-baby-blues": {
+      "title": "Assurance Maladie, baby blues et dépression du post-partum",
+      "url": "https://www.ameli.fr/assure/sante/devenir-parent/accouchement-nouveau-ne-et-retour-la-maison/baby-blues-depression-post-partum-grossesse"
+    },
+    "has-accompagnement-postnatal": {
+      "title": "Haute Autorité de santé, recommandations sur l’accompagnement médico-psycho-social pendant la grossesse et en postnatal, annexe 9",
+      "url": "https://www.has-sante.fr/jcms/p_3492567/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal-recommandations"
+    },
+    "has-depression-adulte": {
+      "title": "Haute Autorité de santé, dépression de l’adulte, repérage et prise en charge initiale",
+      "url": "https://www.has-sante.fr/jcms/pprd_2974237/fr/depression-de-l-adulte-reperage-et-prise-en-charge-initiale"
+    },
+    "fr-secours-perinatal": {
+      "title": "Service Public, numéros d’urgence médicale en France",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954"
+    }
+  },
+  "dossier": {
+    "name": "Dépression du post-partum",
+    "aliases": [
+      "Dépression postnatale",
+      "Dépression post-partum"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-cim-6e20",
+      "oms-cim-6a70",
+      "ameli-baby-blues",
+      "has-accompagnement-postnatal",
+      "has-depression-adulte",
+      "fr-secours-perinatal"
+    ],
+    "points": [
+      "Le CDDR de l’OMS, pages 639 à 641, décrit la catégorie contextuelle 6E20 pour un syndrome significatif qui débute pendant la grossesse ou jusqu’à environ six semaines après l’accouchement, sans symptômes psychotiques, avec retentissement et après examen des autres explications pertinentes. Quand un trouble spécifique est établi, l’OMS demande d’indiquer aussi ce trouble. Pour Lila, la médecin évalue un trouble dépressif à épisode unique, catégorie 6A70, puis ajoute le contexte sans psychose 6E20. L’entrée éditoriale de Lila est 6E20. Les deux codes distinguent le trouble évalué et son contexte. 6E20 ne désigne pas à lui seul une dépression et ne remplace pas 6A70.",
+      "Le CDDR décrit le tableau dépressif dans le chapitre des troubles de l’humeur, pages 213 à 216, et l’épisode unique à partir de la page 244. L’évaluation considère notamment l’humeur, la capacité à éprouver de l’intérêt ou du plaisir, l’énergie, le sommeil, les pensées dévalorisantes, la concentration, le retentissement et les antécédents. Lila avait d’abord retrouvé son état habituel après quelques jours d’émotions fluctuantes. Au début de la troisième semaine, une tristesse et une perte d’intérêt durables apparaissent, avec insomnie malgré des occasions de repos, culpabilité et difficultés d’attention. Sarah repère la souffrance lors de l’entretien postnatal précoce en fin de cinquième semaine. La docteure Caradec évalue et diagnostique le premier épisode pendant la sixième semaine. L’évaluation ne retrouve pas d’épisode dépressif antérieur, de manie, d’hypomanie, de symptômes psychotiques ou d’autre cause expliquant mieux ce tableau. Elle peut être reprise au fil du suivi.",
+      "L’Assurance Maladie distingue les fluctuations précoces et transitoires du baby blues d’un tableau intense, durable ou qui gêne le quotidien. En cas de souffrance marquée, on peut consulter d’emblée. Une dépression postnatale peut aussi apparaître plus tard dans l’année suivant la naissance. La fenêtre du CDDR sert à la mention CIM-11 de contexte 6E20 et ne délimite ni toute dépression du post-partum, ni le moment où demander de l’aide. Les repères de date dans le récit servent à l’évaluation, sans grille d’autodiagnostic.",
+      "La baisse d’intérêt ou de plaisir peut concerner des activités désirées ou familières. L’insomnie, la fatigue, le ralentissement, l’attention fragile, les jugements sévères sur soi et le retrait peuvent prendre une place variable. Une difficulté à se sentir proche du bébé peut s’inscrire dans le tableau, sans être nécessaire au diagnostic ou prédire l’avenir du lien. Les fluctuations et le maintien de certaines tâches n’annulent pas le retentissement. Ces manifestations peuvent avoir d’autres causes, que l’évaluation clinique examine.",
+      "L’Assurance Maladie et l’annexe 9 des recommandations de la HAS distinguent l’entretien postnatal précoce, lieu de repérage et d’orientation, de l’évaluation clinique et de la consultation postnatale. Un médecin ou une sage-femme peut être contacté avant cet entretien ou après lui. Le suivi peut coordonner des soins médicaux, psychologiques et périnataux. Les choix de psychothérapie, de médicament et, si nécessaire, de soins plus rapprochés s’ajustent à la situation avec la patiente. Le souhait concernant l’allaitement, s’il est pertinent, fait partie des éléments à discuter avec le prescripteur. Donner des exemples de décisions et de relais, sans posologie ni recommandation individuelle.",
+      "Un changement marqué ou une aggravation mérite un contact rapide avec un professionnel. Un épisode psychotique après l’accouchement constitue une urgence psychiatrique. Une confusion soudaine importante, une désorientation marquée ou des symptômes psychotiques nouveaux demandent une évaluation urgente, sans présumer leur cause. Face à un danger immédiat ou à de tels signes d’urgence en France, le 15 ou le 112 permet d’obtenir un relais. L’histoire de Lila montre une aggravation évaluée rapidement sans symptôme psychotique ni danger immédiat. Les repères d’urgence restent distincts de ce qu’elle vit, sans description de situation dangereuse.",
+      "Les appuis matériels, l’écoute et la répartition de tâches se discutent avec Lila. Ils peuvent rendre les soins et le quotidien plus accessibles. Les proches demandent son accord avant de partager des informations ou de s’inscrire dans son suivi. En urgence, ils peuvent solliciter les secours sans tenter d’établir un diagnostic. Le travail sur un projet unique à horaires choisis est un objectif qui appartient à Lila. Il ne détermine ni le diagnostic, ni la réponse au traitement. Le suivi se poursuit après l’exposition, en fonction de l’évolution et de ce qu’elle souhaite reprendre."
+    ]
+  },
+  "direction": "Lila a trente ans et travaille à la lumière. Elle aime les détails qu’on peut retrouver d’une salle à l’autre, comme le dessin d’un néon éteint ou un reflet sur une vitre. Farid lui propose l’éclairage d’une exposition de photographies de devantures. Elle veut accepter un seul projet, à des horaires définis avec un relais identifié. Thomas, l’autre parent, prend sa part du quotidien. Naïma, une amie choisie par Lila, l’accompagne quand elle le lui demande. Sarah est sa sage-femme. La docteure Caradec assure l’évaluation et le suivi médical. Le diagnostic est posé avant le premier épisode, qui se déroule à huit semaines de la naissance. L’épisode 3 revient sur le début en troisième semaine, le repérage en fin de cinquième et l’évaluation en sixième. Lila choisit l’accès à son histoire personnelle et garde la possibilité de reporter un essai, y compris quand elle en a envie. Le dénouement tient à l’éclairage de l’exposition et à un accord de travail appliqué jusqu’au bout. Les soins suivent leur propre calendrier."
+}

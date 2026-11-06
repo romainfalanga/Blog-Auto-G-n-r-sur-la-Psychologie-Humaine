@@ -33,7 +33,11 @@ La docteure Rigal reprend avec lui l’ancienneté de la peur et l’effort qu�
 
 Dans le trouble d’anxiété sociale, la crainte d’être mal jugé devient une source durable de souffrance ou gêne la participation à des situations qui comptent. La docteure Rigal explique à Sacha le lien qu’elle fait entre la peur, le départ du café et les changements dans ses journées de travail. Elle a aussi entendu parler des moments où il reste malgré l’anxiété et doit fournir un effort qui passe inaperçu. L’évaluation a pris plusieurs échanges : une scène peut éclairer une difficulté, tandis que la conclusion appartient au professionnel qui examine l’ensemble et les autres explications possibles.
 
-La peur peut se manifester dans certaines interactions et laisser d’autres échanges disponibles et agréables. Aimer converser en tête-à-tête appartient aux préférences de Sacha. Un tempérament réservé ou le trac avant une intervention ne portent pas le même sens qu’une peur persistante dont la personne souffre ou qui lui fait abandonner des activités qu’elle voudrait garder.
+La peur peut se manifester dans certaines interactions et laisser d’autres échanges disponibles et agréables.
+
+## Comment cette difficulté se manifeste
+
+Aimer converser en tête-à-tête appartient aux préférences de Sacha. Un tempérament réservé ou le trac avant une intervention ne portent pas le même sens qu’une peur persistante dont la personne souffre ou qui lui fait abandonner des activités qu’elle voudrait garder.
 
 La peur est présente depuis plusieurs mois. Sacha décrit son effort pour continuer à parler lorsque d’autres clients s’approchent, et les rencontres auxquelles il renonce alors qu’il aurait envie d’y aller. Ce retentissement renseigne l’évaluation au même titre que ce qu’il fait effectivement devant les autres.
 
@@ -46,8 +50,3 @@ Sacha garde la main sur ce qu’il raconte à Gaspard. Les deux collègues peuve
 ## Deux choses à retenir
 
 La docteure Rigal lui dit qu’il peut continuer à préférer les conversations à deux. Elle note avec lui deux choses pour leur prochain rendez-vous : les questions qu’il se pose sur les soins, et ce qu’il voudrait pouvoir faire à la graineterie. En partant, Sacha colle le rabat du sachet avec un bout d’adhésif prêté par le secrétariat. Dans la rue, il écrit à Gaspard : « On reprend le plan de table mardi ? Je peux apporter deux plants. » Puis il met le sachet dans la poche où il range d’habitude ses clefs.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG159, reconnaissance, évaluation et traitement du trouble d’anxiété sociale](https://www.nice.org.uk/guidance/cg159/resources/social-anxiety-disorder-recognition-assessment-and-treatment-pdf-35109639699397)

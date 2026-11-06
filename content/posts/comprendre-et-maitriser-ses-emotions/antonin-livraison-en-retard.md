@@ -32,7 +32,11 @@ Eva veut prévenir le professeur avant le cours du soir. Elle lui demande combie
 
 ## Une incertitude a parfois des conséquences concrètes
 
-Un retard peut créer de vraies difficultés d’organisation et laisser en suspens plusieurs décisions. L’inquiétude d’Antonin s’appuie ici sur une livraison qui a changé et sur un groupe à prévenir. Le seuil repris et la porte attendue relèvent du chantier. L’ouverture reste soumise aux validations prévues. Antonin peut faire remonter le retard et demander quand viendra la prochaine information, tandis qu’Eva et lui examinent les salles qui peuvent effectivement être utilisées.
+Un retard peut créer de vraies difficultés d’organisation et laisser en suspens plusieurs décisions. L’inquiétude d’Antonin s’appuie ici sur une livraison qui a changé et sur un groupe à prévenir. Le seuil repris et la porte attendue relèvent du chantier. L’ouverture reste soumise aux validations prévues.
+
+## Comment cette difficulté se manifeste
+
+Antonin peut faire remonter le retard et demander quand viendra la prochaine information, tandis qu’Eva et lui examinent les salles qui peuvent effectivement être utilisées.
 
 L’inquiétude occupe une autre part de son temps quand il imagine devoir expliquer un manquement dont personne ne lui a parlé. Il voudrait répondre à cette éventualité avant de prévenir les musiciens. Son médecin peut l’aider à décrire cet enchaînement et son coût. Pour le professeur, l’information utile tient pour l’instant au créneau confirmé, à sa durée provisoire et à la personne qui le rappellera.
 
@@ -45,8 +49,3 @@ Antonin peut dire à Eva quelles décisions il a la possibilité de prendre et l
 ## Un mardi reste possible
 
 Eva contacte le professeur pour le premier mardi. Antonin note le prochain point annoncé par le fournisseur et transmet le retard à la direction. Il supprime de son brouillon les demandes qui n’ont pas encore de réponse. Dans le couloir, les deux élèves ont cessé de jouer. Il retrouve le titre du morceau sur la partition qu’ils ont laissée ouverte avec leur professeur. Il demandera à Eva si elle a retrouvé la personne qui avait joué à cette audition. La date de réouverture reste vide.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

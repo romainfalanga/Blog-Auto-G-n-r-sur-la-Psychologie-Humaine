@@ -33,7 +33,11 @@ Le téléphone indique que son signalement a été reçu. Le service reviendra v
 
 Une précaution est justifiée lorsqu’elle répond à une information crédible et à une responsabilité précise. Un seuil qui se soulève dans un passage appelle un signalement et le respect des consignes de l’établissement. Le diagnostic d’Antonin ne change rien à cette responsabilité. Il a observé un défaut, suspendu ce qu’il devait organiser et transmis le point au service qui en a la charge. La décision sur l’accès et les travaux revient aux personnes compétentes.
 
-L’inquiétude peut se prolonger après les mesures nécessaires. Antonin pense à ce qu’il a vu, puis à ce qui pourrait se révéler ailleurs. Il voudrait connaître la suite alors que l’examen est encore à venir. Il peut rapporter cette succession à son médecin, qui l’aide à comprendre ce qui se passe pour lui au-delà de la précaution. Si un nouveau défaut est observé, il reste une information à transmettre selon les mêmes consignes.
+L’inquiétude peut se prolonger après les mesures nécessaires.
+
+## Comment cette difficulté se manifeste
+
+Antonin pense à ce qu’il a vu, puis à ce qui pourrait se révéler ailleurs. Il voudrait connaître la suite alors que l’examen est encore à venir. Il peut rapporter cette succession à son médecin, qui l’aide à comprendre ce qui se passe pour lui au-delà de la précaution. Si un nouveau défaut est observé, il reste une information à transmettre selon les mêmes consignes.
 
 ## Donner une suite au report
 
@@ -44,8 +48,3 @@ Le point auquel ils attendent une réponse ne donne aucune date certaine de réo
 ## Une annonce décollée du mur
 
 Eva écrit aux professeurs avant qu’ils se déplacent. Antonin porte deux pupitres dans une salle déjà ouverte et vérifie que le responsable du chantier a reçu le changement de planning. Sur l’annonce, le titre qu’il cherchait est caché sous une bande de papier. Il la donne à Eva, qui connaît encore quelqu’un ayant joué à cette audition. Le seuil sera examiné sans eux. La semaine prochaine, ils devront aussi trouver où les clarinettes peuvent répéter en attendant.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

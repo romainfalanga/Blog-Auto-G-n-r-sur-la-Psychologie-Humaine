@@ -94,5 +94,3 @@ Le répit et l’entraide durable reposent sur des temps choisis, des responsabi
 Vincent garde une vie personnelle, une relation de couple et une part d’entraide sans les réduire à une seule mission. Il accepte de revoir l’organisation quand elle ne convient plus. Cette souplesse ne supprime pas les obstacles matériels, mais elle permet de reconnaître plus tôt ce qui tient, ce qui manque et ce qui ne peut pas reposer sur une seule personne.
 
 Si la fatigue, l’isolement ou la détresse persistent, un médecin, un psychologue ou un professionnel social peut aider à évaluer la situation et à chercher des ressources adaptées. Vous pouvez demander un appui avant d’être à bout. Vous pouvez aussi préserver la parole, les choix et la vie privée de votre proche tout en faisant une place entière à vos propres besoins.
-
-Sources : [Haute Autorité de santé, répit des aidants et évaluation des besoins](https://www.has-sante.fr/jcms/p_3351732/fr/repit-des-aidants).

@@ -98,5 +98,3 @@ L’autonomie du proche ne se mesure pas au nombre de tâches accomplies sans ai
 Vincent conserve son envie de faciliter le voyage et laisse Cédric définir les vérifications qui le concernent. Ils rencontrent des compromis et renoncent à une activité, sans que ce renoncement résume leur relation. L’aide devient plus ajustée quand les deux personnes peuvent nommer ce qu’elles souhaitent et ce qu’elles ne peuvent pas offrir.
 
 Si l’organisation de l’aide crée des tensions persistantes ou rend les choix difficiles à exprimer, un psychologue ou un professionnel de l’accompagnement peut proposer un espace de clarification. Les obstacles matériels demandent aussi des réponses concrètes adaptées. Un meilleur dialogue peut soutenir la décision, mais il ne remplace pas l’accessibilité et les moyens nécessaires.
-
-Sources : [Ryan et Deci, autonomie et sentiment de choix](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf) ; [ONU, Convention relative aux droits des personnes handicapées, article 3](https://www.ohchr.org/sites/default/files/Ch_IV_15.pdf).

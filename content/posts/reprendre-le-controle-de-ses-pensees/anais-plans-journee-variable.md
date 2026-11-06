@@ -100,5 +100,3 @@ Un plan flexible aide Anaïs à conserver certaines fonctions d'une journée san
 La modification peut rester décevante tout en étant utile. Elle ne devient ni un échec personnel ni une obligation de produire autrement. Une journée variable peut contenir du repos, du lien et une activité choisie, dans une combinaison différente de celle imaginée.
 
 Avec une maladie chronique, les adaptations restent liées aux recommandations de votre suivi. Pour un changement de santé inhabituel ou préoccupant, contactez un professionnel selon les consignes reçues. L'organisation souple accompagne les soins ; elle ne remplace pas l'évaluation médicale.
-
-Sources : [Assurance maladie, adapter le quotidien avec une polyarthrite](https://www.ameli.fr/assure/sante/themes/polyarthrite-rhumatoide/vivre-polyarthrite-rhumatoide) ; [HAS, précautions pour une activité adaptée à la polyarthrite](https://www.has-sante.fr/jcms/p_3565615/fr/l-activite-physique-pour-votre-sante-polyarthrite-rhumatoide).

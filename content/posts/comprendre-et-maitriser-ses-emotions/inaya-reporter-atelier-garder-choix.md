@@ -30,7 +30,11 @@ Nino entre pour demander qui l’accompagne au dessin. « Mercredi, c’est Myri
 
 ## Revoir ce qui est nécessaire dans l’immédiat
 
-Après une aggravation, les besoins peuvent changer d’une journée à l’autre. Un nouveau contact avec l’équipe permet de revoir la sécurité, le soutien disponible et la suite des soins. Inaya n’a pas à démontrer qu’elle peut tenir sa date pour montrer que la prise en charge lui est utile. Elle peut dire que certaines tâches lui coûtent encore beaucoup et demander avec qui refaire le point si cela change.
+Après une aggravation, les besoins peuvent changer d’une journée à l’autre. Un nouveau contact avec l’équipe permet de revoir la sécurité, le soutien disponible et la suite des soins.
+
+## Comment cette difficulté se manifeste
+
+Inaya n’a pas à démontrer qu’elle peut tenir sa date pour montrer que la prise en charge lui est utile. Elle peut dire que certaines tâches lui coûtent encore beaucoup et demander avec qui refaire le point si cela change.
 
 Elle peut aussi séparer la décision urgente des décisions qui peuvent attendre. Sofia a besoin de savoir que le créneau se libère et que les personnes inscrites seront prévenues. La date suivante, le nombre de commandes qu’Inaya reprendra et ce qu’elle dira publiquement peuvent rester en suspens. Reporter un engagement n’oblige pas à annoncer ce que deviendra le projet.
 
@@ -43,9 +47,3 @@ Myriam peut offrir une aide précise pendant une durée qu’elle peut tenir. Mi
 ## L’affiche attendra
 
 Sur le verso, Inaya écrit la phrase que Sofia pourra transmettre : « L’atelier de samedi est reporté. Nous reprendrons contact si nous fixons une nouvelle date. » Myriam demande si elle veut garder le dessin de la table pour six. Inaya l’enlève de dessous l’affiche et le coince sous la boîte de biscuits. Il y restera le temps qu’il faudra. Plus tard, Nino revient avec la bretelle roulée autour du poignet. Ils cherchent ensemble la couture qui a lâché, et s’arrêtent quand la lumière de la cuisine ne suffit plus.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, épisode dépressif caractérisé chez l’adulte](https://www.has-sante.fr/jcms/c_1739917/fr/episode-depressif-caracterise-de-l-adulte-prise-en-charge-en-premier-recours)
-- [NICE NG222, dépression de l’adulte](https://www.nice.org.uk/guidance/NG222/chapter/recommendations)

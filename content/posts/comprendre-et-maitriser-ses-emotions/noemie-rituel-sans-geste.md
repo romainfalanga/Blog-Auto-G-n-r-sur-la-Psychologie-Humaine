@@ -32,7 +32,11 @@ Deux arrêts plus loin, le chien a disparu et le carnet est toujours ouvert sur 
 
 Le TOC peut comporter des compulsions mentales. Une personne peut se repasser un souvenir, compter dans sa tête ou répéter une formule parce qu’elle se sent tenue de le faire. Certaines de ces répétitions visent à neutraliser une pensée intrusive ou à établir une certitude. Pour Noémie, l’image du poignet lui vient spontanément. Elle cherche ensuite à la remettre dans l’ordre, avec le bruit et les mouvements qu’elle voudrait retrouver. Elle reprend la séquence jusqu’à ce qu’elle lui paraisse complète, ou jusqu’à ce que le trajet l’interrompe.
 
-Le même travail de mémoire peut avoir un sens très différent selon le moment. Quand Noémie essaie de retrouver la berge pour dessiner, elle accepte aisément qu’une courbe lui échappe. Dans le souvenir de la fermeture, elle se sent obligée de combler le détail manquant avant de poursuivre autre chose. Ce contraste aide à comprendre sa scène. Le seul fait de penser longtemps à un événement ne permet pas de savoir à quoi sert cette répétition pour quelqu’un d’autre.
+Le même travail de mémoire peut avoir un sens très différent selon le moment.
+
+## Comment cette difficulté se manifeste
+
+Quand Noémie essaie de retrouver la berge pour dessiner, elle accepte aisément qu’une courbe lui échappe. Dans le souvenir de la fermeture, elle se sent obligée de combler le détail manquant avant de poursuivre autre chose. Ce contraste aide à comprendre sa scène. Le seul fait de penser longtemps à un événement ne permet pas de savoir à quoi sert cette répétition pour quelqu’un d’autre.
 
 ## Rendre le coût visible au rendez-vous
 
@@ -43,8 +47,3 @@ La prise en charge du TOC peut aussi tenir compte des rituels mentaux et des ten
 ## Un souvenir à apporter au cabinet
 
 Le lendemain, Maud retrouve le croquis sur la table, sous le sachet de pain. Noémie complète la berge avec un escalier qu’elle a vu en marchant depuis l’autre arrêt. Elle raconte le détour, puis le moment où elle s’est rendu compte qu’elle n’écoutait plus les annonces. Avant son départ, elle glisse le carnet de croquis dans son sac avec une reproduction pour Aïcha. L’escalier pourrait figurer dans leur promenade autour du canal.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG31, prise en charge du TOC](https://www.nice.org.uk/guidance/cg31/chapter/Recommendations)

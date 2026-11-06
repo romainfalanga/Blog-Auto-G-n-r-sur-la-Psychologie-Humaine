@@ -32,7 +32,11 @@ Fatou lui demande par message si elle veut qu’on interrompe les départs. Nour
 
 Une pause choisie peut permettre de décider de la suite quand un environnement devient difficile à supporter. Les sensibilités sensorielles peuvent compter dans le quotidien d’une personne autiste. Nour avait repéré le marché et prévu un autre trajet. L’enceinte introduit un son qu’elle n’avait pas anticipé. Pour elle, les mots deviennent plus difficiles à suivre et parler lui demande plus d’effort. Elle peut utiliser l’écrit et s’éloigner, y compris après avoir préparé la visite avec soin.
 
-Le NICE recommande d’ajuster le cadre des soins et de l’accompagnement aux besoins sensoriels et de communication. Dans la sortie organisée par Nour, cette idée prend la forme d’un lieu de retrait et d’un moyen de rester en contact choisi. D’autres personnes peuvent préférer un soutien différent. Laisser Nour décider du moment où elle souhaite répondre lui donne une place réelle dans l’organisation.
+Le NICE recommande d’ajuster le cadre des soins et de l’accompagnement aux besoins sensoriels et de communication.
+
+## Comment cette difficulté se manifeste
+
+Dans la sortie organisée par Nour, cette idée prend la forme d’un lieu de retrait et d’un moyen de rester en contact choisi. D’autres personnes peuvent préférer un soutien différent. Laisser Nour décider du moment où elle souhaite répondre lui donne une place réelle dans l’organisation.
 
 ## Passer un relais limité
 
@@ -43,8 +47,3 @@ Sur la feuille, Nour retrouve le chemin du quai et l’adresse du banc. Elle env
 ## Un message depuis la banquette
 
 Sous l’auvent, Nour lit le message qui annonce le départ du groupe par le quai. Elle reste encore un moment sur la banquette, puis répond qu’elle va rentrer. Avant de se lever, elle voit Rita revenir par l’autre rue et montrer du doigt l’ancienne entrée de la cour à quelqu’un. Rita vient lui dire que deux voisins ont gardé la carte pour chercher les fixations un autre jour. Nour lui demande de transmettre qu’elle récupérera la chemise chez Fatou. Elle est contente que des gens aient eu envie de revenir voir le passage. Elle n’a plus envie de retraverser le square aujourd’hui.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG142, accompagnement des adultes autistes](https://www.nice.org.uk/guidance/cg142/chapter/Recommendations)

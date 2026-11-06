@@ -100,5 +100,3 @@ Faire reconnaître des besoins de repos collectifs commence parfois par un exemp
 Une première discussion n'est pas une garantie d'amélioration. Elle peut néanmoins ouvrir une démarche suivie, avec des rôles identifiés et des observations qui reviennent vers l'organisation. Les besoins individuels et les protections communes peuvent y trouver leur place ensemble.
 
 Si la fatigue affecte votre santé ou votre sécurité, sollicitez un médecin et le service de prévention et de santé au travail. Les interlocuteurs de prévention et les représentants du personnel peuvent aussi soutenir la dimension collective. Votre repos n'a pas à attendre l'aboutissement de toute la démarche pour compter.
-
-Sources : [INRS, prévention collective des horaires atypiques](https://www.inrs.fr/risques/travail-horaires-atypiques/demarche-de-prevention.html) ; [INRS, démarche de prévention des risques psychosociaux](https://www.inrs.fr/risques/psychosociaux/prevention.html).

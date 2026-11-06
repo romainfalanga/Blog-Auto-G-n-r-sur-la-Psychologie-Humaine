@@ -1,5 +1,5 @@
 ---
-title: "Baptiste : le coût des possibilités auxquelles on renonce"
+title: Le coût des possibilités auxquelles on renonce
 date: 2026-11-03T10:20:00+00:00
 description: "Un atelier photo et une sortie à vélo occupent le même créneau. Baptiste compare les choix réels, sans additionner toutes les vies possibles."
 categories: ["Reprendre le contrôle de ses pensées"]
@@ -74,7 +74,3 @@ Un choix peut comporter un renoncement réel sans être une erreur. Le coût d�
 Comparer des possibilités réelles peut aussi révéler un coût porté par d’autres personnes. Les accords de temps, les déplacements et les besoins de récupération méritent d’être nommés avant d’ajouter une activité. Vous pouvez apprécier plusieurs options, choisir l’une d’elles et garder un peu de regret pour une autre. Le choix n’a pas à démontrer que tout ce qui n’est pas vécu était sans intérêt.
 
 Si les décisions ordinaires deviennent très difficiles, si les renoncements vous occupent durablement ou si les contraintes ne vous laissent presque aucune marge, un psychologue, un médecin ou un professionnel adapté peut vous aider à examiner ce qui pèse. Parfois, le besoin concerne moins une méthode de comparaison qu’un appui concret ou une organisation différente. L’objectif peut être de retrouver des choix assez vivables, pas de réussir à exploiter parfaitement chaque possibilité.
-
-Sources :
-- [OpenStax, Principles of Economics, choix et coût d’opportunité](https://openstax.org/books/principles-economics-3e/pages/2-1-how-individuals-make-choices-based-on-their-budget-constraint)
-- [NHS, Problem solving](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)

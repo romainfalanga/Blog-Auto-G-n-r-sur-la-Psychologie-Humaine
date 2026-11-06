@@ -33,6 +33,8 @@ Il voit Mounir retirer ses coudes de la table pour lui faire de la place. La fic
 
 Une conversation peut se brouiller parce que les personnes répondent à partir d’objets différents. Pour Gil, la question part de la pendule qui l’attend chez lui. Pour Zéphyr, tout ce qui vient d’être dit s’applique à la platine posée devant le groupe. Il faut quelques secondes pour voir que les deux ne sont plus au même endroit dans l’explication. Ensuite, la gêne d’avoir perdu le fil peut peser plus lourd que la question elle-même.
 
+## Comment cette difficulté se manifeste
+
 La CIM-11 décrit chez certaines personnes ayant un trouble schizotypique des difficultés durables à se faire suivre dans les échanges. Dans cet atelier, une indication claire est utile à tout le monde. Gil peut laisser sa question en suspens, Mounir redonner la consigne du tour et Zéphyr retrouver le point auquel il peut répondre. Chacun agit sur une partie de l’échange.
 
 ## Revenir par un geste qu’on avait promis
@@ -44,8 +46,3 @@ Un échange dont on retrouve le fil peut donner matière à un retour sur ce qui
 ## Le tour de Loïc
 
 Mounir invite Clara à refaire la rotation et Zéphyr retrouve assez de voix pour lui demander ce qu’elle a vu bouger. Gil essaie à son tour, puis pousse la platine vers Loïc. Quand Loïc parvient à entraîner la seconde roue, il rappelle à Zéphyr le mot « adresse ». Zéphyr lui montre la petite maison de l’autre côté de la fiche et lit la phrase qu’Agnès a choisie sur la cloche. Clara dit qu’enfant, elle reconnaissait le retour de sa mère au bruit du portail. Zéphyr avait imaginé raconter le reste. Il voit l’heure et ferme la pochette. Gil sort en disant qu’il cherchera le nom de sa pendule avant de poser sa question. Zéphyr inscrit dans la marge quarante minutes pour trois personnes. Il veut garder le temps de la manipulation dans la prochaine séance.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Mayo Clinic, schizotypie : évaluation, psychothérapies et accompagnement](https://www.mayoclinic.org/diseases-conditions/schizotypal-personality-disorder/diagnosis-treatment/drc-20353924)

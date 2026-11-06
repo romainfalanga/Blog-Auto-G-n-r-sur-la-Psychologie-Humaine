@@ -31,6 +31,8 @@ Elsa s’installe sans enlever son sac. « Quand tu m’écris que tu dors mal, 
 
 Un plan discuté à l’avance peut préciser ce que la personne souhaite faire si son état change, les appuis qu’elle veut solliciter et la façon de joindre les professionnels. Nils a repéré des moments où plusieurs choses changeaient à la fois. L’équipe l’aide à distinguer ce qui mérite une conversation de suivi de ce qui demande un contact plus rapide. Son expérience de mardi peut entrer dans cette conversation sans devenir une rechute annoncée. Une mauvaise nuit, à elle seule, ne raconte pas la même chose que le retour de plusieurs difficultés qui s’accentuent.
 
+## Comment cette difficulté se manifeste
+
 Ils se mettent d’accord pour que Nils puisse appeler sans attendre son prochain rendez-vous s’il remarque que les expériences qui l’inquiètent reviennent davantage ou qu’il a plus de mal à mener sa journée. Ils vérifient aussi la marche à suivre si le service est fermé et qu’une aide ne peut pas attendre. Ces repères répondent à sa situation ; l’équipe peut les revoir avec lui.
 
 ## Donner à Elsa sa partie du plan
@@ -42,9 +44,3 @@ Le rôle qu’elle accepte laisse place à ses autres engagements. À la radio, 
 ## Deux copies différentes
 
 L’imprimante recrache une page de travers. Nils et Elsa rient de la bande blanche qui mange le bas du papier. Ils vérifient que les deux numéros se lisent et que la copie d’Elsa ne contient que le passage dont ils viennent de convenir. Elle la plie dans la poche intérieure de son sac. Nils photographie le verso de sa page pour pouvoir l’ouvrir depuis son téléphone. Sur la route, Aïcha lui envoie une photo des lots arrivés plus tôt que prévu : les étiquettes se sont décollées d’un bac. Il lui répond qu’il regardera lundi, au début de sa matinée.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE, psychose et schizophrénie chez l’adulte (CG178)](https://www.nice.org.uk/guidance/cg178/chapter/recommendations)
-- [NICE, expérience des soins en santé mentale chez l’adulte (CG136)](https://www.nice.org.uk/guidance/cg136/chapter/recommendations)

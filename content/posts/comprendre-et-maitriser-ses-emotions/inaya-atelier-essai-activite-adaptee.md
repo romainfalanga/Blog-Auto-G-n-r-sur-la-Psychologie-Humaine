@@ -30,7 +30,11 @@ Au bout de vingt minutes, Inaya se rend compte qu’elle n’écoute plus le dé
 
 ## Comprendre la différence entre faire quelque chose et aller mieux
 
-Inaya a retrouvé un peu de curiosité au contact de la tige courbée, tout en se fatiguant vite. Une activité peut avoir de l’intérêt et demander un effort réel le même jour. Le fait d’y prendre plaisir un instant n’indique pas que la dépression a disparu. Inversement, vouloir raccourcir un essai n’efface pas le savoir-faire qu’elle vient de montrer. Inaya peut raconter les deux aspects au suivi.
+Inaya a retrouvé un peu de curiosité au contact de la tige courbée, tout en se fatiguant vite. Une activité peut avoir de l’intérêt et demander un effort réel le même jour. Le fait d’y prendre plaisir un instant n’indique pas que la dépression a disparu. Inversement, vouloir raccourcir un essai n’efface pas le savoir-faire qu’elle vient de montrer.
+
+## Comment cette difficulté se manifeste
+
+Inaya peut raconter les deux aspects au suivi.
 
 Le NICE décrit l’activation comportementale comme une intervention structurée qui examine notamment les liens entre activités et humeur et aide à planifier des changements avec un accompagnement adapté. L’atelier d’Inaya est une activité de son choix et un projet de travail. Il n’a pas à tenir lieu de soin ni à produire un effet donné pour avoir sa place dans le récit.
 
@@ -43,9 +47,3 @@ Une activité choisie peut être modifiée sans être abandonnée. Ici, les deux
 ## Un format qui laisse un relais
 
 Aurore tient à emporter l’anémone. Elle ne veut pas du modèle complet et le dit avec une franchise qui fait rire Myriam. Quand la salle se vide, Inaya reprend le brouillon : vingt minutes d’explication lui suffisent, suivies d’un temps où chacun compose à son rythme. Elles demandent à Sofia de réserver un samedi, en convenant d’une solution si la date doit changer. Inaya rentre sans s’arrêter à la boutique. Elle a gardé l’après-midi pour elle. En posant son sac à la maison, elle retrouve un pétale au revers de sa manche.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, épisode dépressif caractérisé chez l’adulte](https://www.has-sante.fr/jcms/c_1739917/fr/episode-depressif-caracterise-de-l-adulte-prise-en-charge-en-premier-recours)
-- [NICE NG222, dépression de l’adulte](https://www.nice.org.uk/guidance/NG222/chapter/recommendations)

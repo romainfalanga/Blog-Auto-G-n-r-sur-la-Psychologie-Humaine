@@ -1,5 +1,5 @@
 ---
-title: "Malik : garder une identité souple et personnelle"
+title: Garder une identité souple et personnelle
 date: 2026-09-24T09:00:00+00:00
 description: "Pour présenter ses photos, Malik écrit quelques lignes sur lui. Il choisit une description personnelle qui garde une place au changement."
 slug: "malik-identite-souple-personnelle"
@@ -98,7 +98,3 @@ Garder une identité souple et personnelle permet de reconnaître plusieurs aspe
 Choisir une description située, repérer une continuité concrète et essayer une nuance offrent des points d’appui. Ces gestes ne demandent pas de raconter tout son parcours ni de rendre chaque expérience positive. Ils laissent une place au changement, aux liens et au droit de garder certaines choses pour soi.
 
 Si les questions d’identité deviennent durablement douloureuses ou limitent fortement la vie quotidienne, un psychologue peut accompagner leur exploration. Ce soutien doit respecter les appartenances choisies et les faits vécus, sans diagnostiquer la personne à partir de son origine. Malik n’a pas besoin d’une définition finale pour continuer à décider de la manière dont il souhaite être connu.
-
-Sources :
-- [Allen McConnell, cadre des multiples aspects du concept de soi](https://pubmed.ncbi.nlm.nih.gov/20539023/)
-- [Benet-Martínez et Haritatos, dimensions de l’expérience identitaire biculturelle](https://pubmed.ncbi.nlm.nih.gov/15958143/)

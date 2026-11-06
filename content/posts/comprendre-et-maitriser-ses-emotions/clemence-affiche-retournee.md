@@ -31,7 +31,11 @@ Baya cherche de nouveau le haut de l’affiche. Clémence lui dit qu’elle voud
 
 ## L’effet d’un commentaire sur la honte corporelle
 
-Une remarque sur l’apparence peut être difficile à recevoir et ne renseigne pas sur l’état de santé d’une personne. Dans le suivi d’un trouble des conduites alimentaires, le NICE recommande de tenir compte des difficultés que les personnes peuvent éprouver à en parler et de leur environnement social. Clémence peut vouloir poser une limite à une conversation sans dire au groupe qu’elle est suivie. Elle peut aussi reprendre cette scène avec l’équipe spécialisée si elle continue à l’occuper. L’équipe lui demandera ce qu’elle a vécu et ce dont elle a besoin. Elle peut commencer par dire ce qui lui a été difficile dans la situation.
+Une remarque sur l’apparence peut être difficile à recevoir et ne renseigne pas sur l’état de santé d’une personne. Dans le suivi d’un trouble des conduites alimentaires, le NICE recommande de tenir compte des difficultés que les personnes peuvent éprouver à en parler et de leur environnement social.
+
+## Comment cette difficulté se manifeste
+
+Clémence peut vouloir poser une limite à une conversation sans dire au groupe qu’elle est suivie. Elle peut aussi reprendre cette scène avec l’équipe spécialisée si elle continue à l’occuper. L’équipe lui demandera ce qu’elle a vécu et ce dont elle a besoin. Elle peut commencer par dire ce qui lui a été difficile dans la situation.
 
 ## Choisir une réponse qui convient sur le moment
 
@@ -42,8 +46,3 @@ Baya peut lui demander comment elle aimerait que cette limite soit tenue et dire
 ## L’affiche revient dans le cadre
 
 Clémence demande à Baya de revenir à l’horaire ou au film si le sujet revient en groupe. Elle préfère pour aujourd’hui garder la suite de la conversation entre elles. Baya lui demande si elle peut annoncer l’heure du foyer dans le fil. Clémence dit oui et lui montre l’endroit qu’elle avait corrigé. Elles remettent l’affiche dans le cadre. Au moment de fermer l’attache, Clémence remarque que la flèche de Baya dépasse encore du carnet. Elle lui demande si elle l’a gardée pour son introduction.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG69, repérage et prise en charge des troubles des conduites alimentaires](https://www.nice.org.uk/guidance/ng69/chapter/recommendations)

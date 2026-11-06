@@ -31,17 +31,18 @@ Nora pose le plat sur le meuble et lui demande ce qui l’inquiète pour ce soir
 
 ## Quand la sécurité passe en premier
 
-Une reprise du jeu et ses conséquences peuvent s’accompagner d’une détresse aiguë. Le NICE recommande une évaluation urgente lorsqu’il existe un risque important ou immédiat pour la personne. La crainte exprimée par Gabin demande une réponse sans attendre le rendez-vous déjà prévu. Face à un danger immédiat, on contacte les services d’urgence. Ils peuvent orienter l’aide selon la situation. En parler clairement permet à l’interlocuteur de comprendre la demande. L’appel peut commencer par le lieu où se trouve la personne et ce qu’elle vient d’exprimer. Les détails du loyer et l’histoire complète du jeu pourront être abordés plus tard.
+Une reprise du jeu et ses conséquences peuvent s’accompagner d’une détresse aiguë. Le NICE recommande une évaluation urgente lorsqu’il existe un risque important ou immédiat pour la personne.
+
+## Quand il dit ce qu’il craint pour ce soir
+
+Gabin a déjà pris rendez-vous avec le service. Devant la porte, il n’arrive pourtant plus à se projeter jusqu’au lendemain. Il commence par parler du retard du loyer, le sujet qu’il sait nommer. Quand Nora lui demande ce qui l’inquiète ce soir, il dit qu’il a peur de se faire du mal. Cette phrase lui apprend ce qui est urgent dans la situation présente.
 
 ## Aider à appeler et laisser les professionnels prendre le relais
+
+Face à un danger immédiat, on contacte les services d’urgence. Ils peuvent orienter l’aide selon la situation. En parler clairement permet à l’interlocuteur de comprendre la demande. L’appel peut commencer par le lieu où se trouve la personne et ce qu’elle vient d’exprimer. Les détails du loyer et l’histoire complète du jeu pourront être abordés plus tard.
 
 Nora peut rester à portée de voix si elle se sent en sécurité et aider Gabin à appeler. Elle peut lui laisser la parole ou transmettre elle-même ce qu’il vient de lui dire. Le service joint pourra préciser la conduite à tenir et évaluer la situation. Un proche peut avoir besoin d’aide pour lui-même après cet échange. Nora pourra en demander une et choisir ce qu’elle souhaite raconter. La prise en charge et la suite du suivi relèvent des professionnels. Les deux colocataires reprendront leurs questions d’argent quand la situation le permettra et quand chacun sera disponible.
 
 ## L’appel depuis l’entrée
 
 Gabin appelle les services d’urgence avec Nora. Il dit où ils sont, puis lui tend le téléphone pour qu’elle répète la phrase qu’il a eu du mal à finir. Ils suivent les indications reçues et attendent le relais. Nora repousse le papier des dépenses pour poser le téléphone sur le meuble. Le plat qu’elle avait rapporté reste à côté. Gabin lui demande de rallumer le couloir quand la lumière s’éteint.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG248, repérage et accompagnement des dommages liés aux jeux d’argent](https://www.nice.org.uk/guidance/ng248/chapter/recommendations)

@@ -33,6 +33,8 @@ Côme se rappelle l’avoir retenu après une partie qu’ils venaient de perdre
 
 Un soutien entre amis peut se discuter sans confier à l’un la responsabilité de la pratique de l’autre. Côme a demandé de l’aide avec un mot qui lui paraissait clair. Florian a entendu qu’il faudrait intervenir pendant la partie. Ils ne parlent plus de la même chose quand Côme précise qu’il aimerait une conversation. Une voix au téléphone serait un moment à deux, qui dépend de leur disponibilité comme le rendez-vous à l’atelier.
 
+## Comment cette difficulté se manifeste
+
 Les difficultés de Côme à quitter le jeu existaient aussi un soir où il jouait seul. Le guide de l’OMS invite à considérer le contexte des parties et le retentissement de la pratique. Ici, Florian peut avoir contribué à prolonger une partie, comme un ami qu’on a plaisir à garder avec soi. Il peut reconnaître ce souvenir sans devoir déterminer quand la difficulté relève du trouble. Côme dispose d’un suivi pour en parler.
 
 ## Garder le choix de partager une information
@@ -44,9 +46,3 @@ Leur accord laisse la place à une réponse négative. Si Florian ne répond pas
 ## Deux avant-bras sur le carton
 
 À l’atelier, Florian pose les avant-bras sur le carton et les écarte jusqu’à prendre toute sa largeur. Côme s’assied à côté de lui. Il lui demande de faire comme s’il tenait des cartes, et le mouvement devient tout de suite plus petit. Ils mettent un trait à l’endroit où la chaise du bout peut reculer. En repartant, Florian demande quelle phrase il doit reconnaître. Côme dit : « T’es dispo pour parler dix minutes, sans lancer ? » Florian répond qu’il entendra une question. Sur le gabarit, Côme conserve les marques des deux coudes, même si elles ne se font pas face.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Trouble du jeu vidéo : questions et réponses](https://www.who.int/fr/news-room/questions-and-answers/item/gaming-disorder)
-- [CHU de Nantes, Addictologie : consultations spécialisées](https://www.chu-nantes.fr/venir-en-consultation-45)

@@ -11,6 +11,9 @@ personnage: "Patrick"
 sujet: "colère"
 contexte: "en situation de conflit"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/38518585/
+- https://www.inrs.fr/risques/lombalgies/prevention
 ---
 
 Un étai ripe. Patrick lâche la barre et crie à Antoine de reculer. Le jeune homme a déjà fait deux pas quand Patrick crie encore : « Bouge, abruti ! » Antoine regarde la barre, puis Patrick. Il ne bouge plus.
@@ -27,6 +30,8 @@ La colère peut surgir quand une situation paraît menaçante, injuste ou frustr
 
 ## Ce qui demande une réponse dans cette scène
 
+## Trois façons de faire face au conflit
+
 ### Sécuriser le chantier
 
 Avant toute discussion, il faut éloigner les personnes de la zone dangereuse et suivre la procédure prévue par l’équipe. Patrick peut demander un relais et éviter de déplacer seul le matériel s’il n’est pas en mesure de le faire en sécurité.
@@ -39,7 +44,7 @@ Si la zone est sécurisée, Patrick peut s’écarter un instant. Il remarque se
 
 Patrick peut reconnaître son cri et s’en excuser. Avec Antoine et l’équipe, il peut ensuite préciser ce qu’il faut vérifier sur les étais et décider comment éviter une nouvelle situation dangereuse. Expliquer son inquiétude ne retire pas la responsabilité de ses paroles.
 
-## Pourquoi la décharge n’est pas une règle
+### Pourquoi la décharge n’est pas une règle
 
 Une synthèse de Kjærvik et Bushman a trouvé que les activités qui réduisent l’activation, comme certaines pauses et formes de respiration, diminuaient en moyenne la colère et l’agressivité dans les études analysées. Les activités qui augmentaient l’activation ne produisaient pas le même résultat général. Une pause adaptée est une possibilité, avec des effets variables. Patrick peut desserrer les mains et attendre un moment avant de retourner discuter. Il n’a pas à serrer un outil ni à chercher à « évacuer » du cortisol.
 
@@ -48,8 +53,7 @@ Une synthèse de Kjærvik et Bushman a trouvé que les activités qui réduisent
 « Je t’ai crié dessus. Je n’aurais pas dû. » Antoine ne répond pas tout de suite. Il montre du doigt une cale qu’on ne voyait pas depuis l’autre côté. Patrick lui demande de reprendre depuis le début. Antoine accepte, puis dit qu’il aurait préféré qu’on lui parle avant de bouger les étais.
 
 Ils laissent la zone vide le temps de faire le point avec l’équipe. Quand quelqu’un demande qui a décidé d’avancer le travail, Patrick dit que c’était lui. En rangeant ses affaires, il retrouve le numéro du cabinet qu’il avait recopié. Il l’a gardé dans sa poche toute la semaine sans l’appeler.
+
 ---
 
 En cas de risque de faire du mal à quelqu’un, éloignez-vous si vous le pouvez et demandez de l’aide. Si la colère se traduit régulièrement par des gestes ou des paroles qui vous inquiètent, un professionnel de santé peut aider à préparer des réponses adaptées.
-
-Sources : [Kjærvik et Bushman, synthèse des études sur les activités de gestion de la colère, 2024](https://pubmed.ncbi.nlm.nih.gov/38518585/), [INRS, prévention des lombalgies au travail](https://www.inrs.fr/risques/lombalgies/prevention).

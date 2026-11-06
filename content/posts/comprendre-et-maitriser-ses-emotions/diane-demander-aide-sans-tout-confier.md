@@ -30,17 +30,18 @@ Diane s’attendait à devoir choisir entre rentrer sans rendez-vous et rester �
 
 ## Faire préciser l’aide prévue avant de rentrer
 
-Une évaluation de suivi peut déboucher sur plusieurs formes d’aide selon ce que l’équipe observe et ce dont la personne a besoin. La docteure Lenoir a entendu que Diane s’inquiète, même si son impression a un peu changé depuis le matin. Elle précise le relais médical qui s’applique avant le prochain appel et vérifie avec Diane qu’elle sait comment le joindre. Le diagnostic du premier épisode ne permet pas d’interpréter d’avance une expérience nouvelle. Diane a de quoi dire à l’équipe ce qui évolue et peut parler avec Rémi de ce qui lui ferait du bien pour ce soir.
+Une évaluation de suivi peut déboucher sur plusieurs formes d’aide selon ce que l’équipe observe et ce dont la personne a besoin. La docteure Lenoir reprend avec Diane le contexte de cette expérience, le sommeil et les autres changements récents. Elle tient compte du premier épisode et examine comment la situation actuelle évolue.
+
+## La peur persiste alors que la certitude varie
+
+Au rendez-vous, Diane dit que par moments elle peut envisager d’avoir mal entendu les clients du marché. Avant l’hôpital, elle ne parvenait plus à envisager une autre interprétation. Cette fois, le doute lui laisse un peu de place et la peur reste assez vive pour qu’elle redoute de passer la soirée seule. Pendant qu’elle attend de connaître l’heure du prochain appel, elle se surprend à imaginer plusieurs fois la même demande à Rémi. Elle voudrait qu’il reste près de son téléphone. Elle peut ainsi raconter comment l’impression a changé et ce qui continue à l’inquiéter.
 
 ## Dire combien de temps on peut rester
 
-Rémi rappelle quand il a quitté son travail. « Ça me fait un peu peur, ce soir. Est-ce que tu pourrais passer ? » Il doit aller chercher un meuble avec un ami et n’est pas sûr de l’heure à laquelle ils auront fini. Il peut lui parler un quart d’heure maintenant et reprendre le téléphone plus tard, à une heure qu’il connaît. Diane se rend compte qu’elle avait surtout envie de dire le nom qu’elle avait choisi de garder pour elle au premier rendez-vous. Elle lui demande s’il veut l’entendre, puis lui dit le nom donné par la psychiatre à l’épisode de l’hôpital. Elle lui précise qu’elle a choisi de lui en parler à lui. Il lui demande ce que l’équipe prévoit pour le lendemain et garde ces informations pour eux.
+Avant que Diane reparte, la docteure Lenoir précise qui joindre si la situation change avant le prochain appel et vérifie avec elle qu’elle sait comment le faire. Diane garde ce relais médical et réfléchit à ce qu’elle aimerait partager avec Rémi ce soir.
+
+Quand Rémi rappelle après son travail, Diane lui demande « Ça me fait un peu peur, ce soir. Est-ce que tu pourrais passer ? » Il doit aller chercher un meuble avec un ami et n’est pas sûr de l’heure à laquelle ils auront fini. Il peut lui parler un quart d’heure maintenant et reprendre le téléphone plus tard, à une heure qu’il connaît. Diane se rend compte qu’elle avait surtout envie de dire le nom qu’elle avait choisi de garder pour elle au premier rendez-vous. Elle lui demande s’il veut l’entendre, puis lui dit le nom donné par la psychiatre à l’épisode de l’hôpital. Elle lui précise qu’elle a choisi de lui en parler à lui. Il lui demande ce que l’équipe prévoit pour le lendemain et garde ces informations pour eux.
 
 ## Deux lignes dans l’agenda
 
 Diane demande à Rémi s’ils peuvent s’appeler à neuf heures et parler aussi du meuble. Il lui répond qu’il ne promet pas tous les soirs de la semaine, puis répète l’heure de celui-ci. Quand ils raccrochent, Diane écrit « rappel équipe » à l’heure convenue sur son agenda et met « Rémi » sur une autre ligne. Le lendemain, après le rappel de l’équipe, elle envoie à Maud l’heure à laquelle elle compte venir installer les pièces. Elle lui demande si les mesures peuvent attendre ce moment-là. Elle ne reparle pas à Maud du rendez-vous annulé.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG178, évaluation et accompagnement après un premier épisode psychotique chez l’adulte](https://www.nice.org.uk/guidance/cg178/evidence/full-guideline-pdf-490503565)

@@ -30,7 +30,11 @@ Diane dit oui, puis pose le ticket sur la table. La psychiatre lui dit que l’�
 
 ## Comment l’équipe a évalué le trouble psychotique aigu et transitoire
 
-Un diagnostic s’appuie sur l’ensemble de l’évaluation et peut être réexaminé au fil du suivi. La psychiatre rappelle que le changement s’est installé en quelques jours et que les manifestations ont varié rapidement, puis se sont apaisées pendant le séjour. Elle explique que l’examen médical, les échanges sur les médicaments et les substances et les entretiens avec l’équipe ont aussi servi à chercher d’autres explications. Dans la CIM-11, le terme « transitoire » renvoie à la durée limitée de l’épisode évalué. Il ne fixe ni la durée du suivi, ni la suite pour Diane. La docteure Lenoir distingue ce que l’équipe a observé de ce qu’elle continuera à vérifier.
+Un diagnostic s’appuie sur l’ensemble de l’évaluation et peut être réexaminé au fil du suivi. La psychiatre explique que l’examen médical, les échanges sur les médicaments et les substances et les entretiens avec l’équipe ont aussi servi à chercher d’autres explications. Dans la CIM-11, le terme « transitoire » renvoie à la durée limitée de l’épisode évalué. La durée du suivi et les questions à reprendre se discutent avec Diane au fil des rendez-vous.
+
+## Des changements rapides dont Diane se souvient
+
+Dans les premiers jours, Diane était par moments certaine que les conversations autour d’elle parlaient d’elle. En quelques jours, ce qui dominait a changé. Elle avait surtout du mal à mettre ses propres phrases en ordre. Ces difficultés se sont apaisées pendant le séjour. Depuis sa sortie, elle a pu écrire à Maud et relire le message en suivant le sens de ce qu’elle avait écrit. Quand la psychiatre lui demande comment se sont passées les deux dernières soirées, Diane remarque que la certitude qui lui faisait peur n’est pas revenue.
 
 ## Se mettre d’accord sur qui appeler
 
@@ -39,8 +43,3 @@ Diane veut savoir qui joindre si elle a de nouveau une expérience qui la troubl
 ## Le ticket dans la pochette
 
 Diane ressort avec une feuille pliée dans une pochette transparente. Elle hésite à jeter le ticket, puis le glisse derrière la feuille. La prochaine date est écrite en clair et elle sait quel numéro appeler ; sa question peut rester là pour ce qui n’a pas encore de réponse. Rémi lui envoie la photo d’une péniche avec un chien à l’avant. Diane lui propose de se retrouver près du canal dimanche. Elle voudrait lui donner le numéro, puis lui parler d’une chose qu’elle se rappelle avoir dite avant son entrée à l’hôpital. Cette fois, elle ne commence pas à écrire les excuses dans le fil.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG178, évaluation et accompagnement après un premier épisode psychotique chez l’adulte](https://www.nice.org.uk/guidance/cg178/evidence/full-guideline-pdf-490503565)

@@ -90,5 +90,3 @@ Le perfectionnisme peut rendre la fin plus difficile que le démarrage. Rémi co
 Vous pouvez choisir une tâche limitée, préciser les critères de fin et observer ce que les vérifications ajoutent réellement. Un détail améliorable peut rester compatible avec un résultat utile. La souplesse devient plus accessible lorsqu'elle porte sur un élément concret, avec un enjeu connu et une possibilité de correction adaptée.
 
 Si les exigences provoquent une souffrance durable, empêchent souvent de terminer ou occupent une place excessive dans votre jugement sur vous-même, un professionnel peut vous aider à comprendre cette boucle. Les attentes du travail doivent aussi pouvoir être clarifiées. Vous avez le droit de chercher une qualité soutenable, avec des limites suffisamment claires pour pouvoir vous arrêter.
-
-Sources : [Shafran, Cooper et Fairburn, analyse du perfectionnisme](https://pubmed.ncbi.nlm.nih.gov/12074372/) ; [Breines et Chen, rapport à soi après une difficulté](https://pubmed.ncbi.nlm.nih.gov/22645164/).

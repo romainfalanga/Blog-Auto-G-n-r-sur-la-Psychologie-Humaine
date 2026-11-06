@@ -100,5 +100,3 @@ Percevoir ses besoins corporels aide Maëlle à distinguer une sensation, l'hist
 Un ajustement simple peut améliorer une partie de la journée sans tout expliquer. Le besoin trouve surtout une place lorsqu'une possibilité concrète l'accompagne : une tâche reportée, un relais ou une discussion sur les conditions qui empêchent régulièrement d'y répondre.
 
 Si une sensation vous inquiète, persiste ou s'accompagne d'une fatigue inhabituelle, consultez un médecin. Un professionnel peut aider à comprendre ce qui se passe. Vous pouvez apporter une description de votre expérience, sans devoir en connaître la cause avant le rendez-vous.
-
-Sources : [Khalsa et collègues, repères de recherche sur l'interoception](https://pmc.ncbi.nlm.nih.gov/articles/PMC6054486/) ; [INRS, prévention et récupération en horaires atypiques](https://www.inrs.fr/risques/travail-horaires-atypiques/demarche-de-prevention.html).

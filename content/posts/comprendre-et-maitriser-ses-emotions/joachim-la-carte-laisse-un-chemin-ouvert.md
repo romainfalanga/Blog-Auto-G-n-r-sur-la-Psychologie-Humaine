@@ -31,7 +31,11 @@ Au rendez-vous suivant, Louise ouvre la carte à l’endroit où Joachim avait n
 
 ## Regarder la vie quotidienne sur plusieurs moments
 
-L’agoraphobie peut avoir des effets durables et variables. Un déplacement rendu possible et une situation qui reste très difficile peuvent exister à quelques jours d’intervalle. La comparaison gagne à porter sur des faits. Joachim a rejoint le lavoir avec Diego, repris un retour court dans le cadre de son suivi et choisi comment présenter une photo. Il a aussi quitté une file et reporté une visite après un changement de trajet. Avec Louise, il peut regarder ce que cela change pour ses sorties, son travail et ses relations.
+L’agoraphobie peut avoir des effets durables et variables. Un déplacement rendu possible et une situation qui reste très difficile peuvent exister à quelques jours d’intervalle. La comparaison gagne à porter sur des faits.
+
+## Comment cette difficulté se manifeste
+
+Joachim a rejoint le lavoir avec Diego, repris un retour court dans le cadre de son suivi et choisi comment présenter une photo. Il a aussi quitté une file et reporté une visite après un changement de trajet. Avec Louise, il peut regarder ce que cela change pour ses sorties, son travail et ses relations.
 
 Le suivi peut s’intéresser à la peur et à la place que la personne retrouve pour des activités qui lui importent. Joachim a aimé expliquer l’ombre du banc. Ce détail a du sens même s’il ne dit rien du prochain voyage. Sa façon de choisir un rendez-vous, d’en parler et de tenir compte du temps des autres fait également partie du parcours qu’il peut raconter.
 
@@ -44,9 +48,3 @@ Diego peut garder son envie de marcher jusqu’au verger. Les deux hommes peuven
 ## Une carte à montrer et un retour à discuter
 
 Ana retrouve la carte dans sa boîte aux lettres. Joachim lui a entouré la plaque de rue qu’il a photographiée le premier matin. Quand elle vient dîner, elle lui demande de lui montrer le reflet qu’on voit au-dessus du lavoir. Joachim va chercher les autres images. Il lui propose de choisir une séance pour le prochain film, un jour où ils en auront envie tous les deux. Sur le buffet, il a laissé son carnet ouvert à la page du rond-point. Il sait ce qu’il voudra aborder avec Louise.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, manifestations de l’agoraphobie](https://www.nhs.uk/mental-health/conditions/agoraphobia/symptoms/)
-- [NHS, prise en charge de l’agoraphobie](https://www.nhs.uk/mental-health/conditions/agoraphobia/treatment/)

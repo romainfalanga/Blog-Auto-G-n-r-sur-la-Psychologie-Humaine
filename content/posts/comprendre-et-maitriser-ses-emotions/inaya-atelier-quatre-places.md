@@ -32,6 +32,8 @@ Myriam jette un coup d’œil à l’horloge et prend le relais au moment conven
 
 L’atelier a eu lieu quelques semaines après le report, dans un format plus court. Cela dit quelque chose de ce qui a été possible avec Myriam, cette salle et ce groupe. Cela ne permet pas de dire si Inaya est en rémission. L’évaluation porte sur une évolution plus large, avec le vécu de la personne et la place que prennent encore les difficultés dans le quotidien.
 
+## Comment cette difficulté se manifeste
+
 Inaya peut aimer montrer une branche et trouver le bruit de la salle difficile à supporter. Si le lendemain elle n’a pas envie d’ouvrir la boutique, elle peut le dire au suivi sans effacer son plaisir du samedi. À l’inverse, elle peut aussi parler de ce qui a marché et de ce qu’elle souhaiterait garder. Rien ne l’oblige à présenter une journée à la fois comme un échec ou comme une preuve qu’elle va bien.
 
 ## Garder du temps après l’activité
@@ -43,9 +45,3 @@ Préserver le rendez-vous de suivi et une partie de la journée après l’ateli
 ## Quatre places pour cette fois
 
 Quand le groupe est parti, Inaya photographie le bouquet seul, devant le mur où pend le règlement de la salle. Elle cadre de façon à laisser les chaises hors de l’image. Myriam remplit le dernier seau pour le nettoyer et lui demande si elle a envie de déjeuner. Inaya répond qu’elle veut rentrer manger avec Nino. Elle n’a pas encore d’idée pour l’après-midi. Elle envoie à sa sœur la photo des fleurs ; le texte qu’elle commence sur un prochain atelier reste en brouillon.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, épisode dépressif caractérisé chez l’adulte](https://www.has-sante.fr/jcms/c_1739917/fr/episode-depressif-caracterise-de-l-adulte-prise-en-charge-en-premier-recours)
-- [NICE NG222, dépression de l’adulte](https://www.nice.org.uk/guidance/NG222/chapter/recommendations)

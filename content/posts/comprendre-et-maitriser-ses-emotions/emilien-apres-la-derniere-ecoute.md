@@ -31,7 +31,11 @@ Après le message qu’il avait laissé sous l’auvent, Émilien a reparlé ave
 
 ## Comprendre pourquoi le suivi peut évoluer avec la personne
 
-Le NICE recommande de reparler de la prise en charge dans la durée, notamment après un épisode, avec les objectifs et les préférences de la personne. Un plan peut être revu quand un contact change, qu’un signe a été difficile à interpréter ou que le rôle d’un proche ne lui convient plus. Émilien sait ce qu’il veut apporter au prochain rendez-vous : un exemple où il a utilisé le contact et une question sur les soirs où il travaille. Il peut discuter des difficultés qui restent, de ce qu’il souhaite retrouver et du suivi qui a du sens pour lui. Une séance au marché qui se passe comme il le souhaite ne dit pas à elle seule comment vont évoluer les symptômes.
+Le NICE recommande de reparler de la prise en charge dans la durée, notamment après un épisode, avec les objectifs et les préférences de la personne. Un plan peut être revu quand un contact change, qu’un signe a été difficile à interpréter ou que le rôle d’un proche ne lui convient plus.
+
+## Des signes de sommeil encore difficiles à interpréter
+
+À l’écoute du marché, Émilien se concentre sur deux retouches et entend les propositions des commerçants. Il retrouve en même temps le papier qu’il a gardé après son appel sous l’auvent. À ce moment-là, des changements de sommeil lui rappelaient son épisode, mais il avait envie de dormir davantage. La rencontre lui montre ce qu’il peut de nouveau faire au travail. La question de ses nuits reste à examiner avec l’équipe.
 
 ## Garder au projet sa propre mesure
 
@@ -39,11 +43,8 @@ Le NICE recommande de reparler de la prise en charge dans la durée, notamment a
 
 Lucie n’a pas participé à la restauration et ne tient pas le calendrier des rendez-vous. Émilien peut choisir de lui faire écouter le passage dont la vendeuse a parlé. C’est aussi une manière de lui raconter sa journée, au même titre qu’elle lui raconte son détour à vélo.
 
+Au prochain rendez-vous, Émilien peut reprendre le moment où il a utilisé le contact et poser sa question sur les soirs où il travaille. Il peut discuter des difficultés qui restent et des activités qu’il souhaite retrouver.
+
 ## Deux retouches avant de diffuser
 
 Avant de ranger l’enceinte, Émilien écoute une dernière fois l’annonce du prix. Cette fois, il remarque que le chariot repart avant le rire. Il note la coupe, remercie la vendeuse et tend à Dorian la liste des deux changements qu’ils ont acceptés. À la maison, Lucie a remis le feuillet de contact sous l’aimant. Émilien pose le casque à côté de leurs assiettes. Il lui demande si elle voudra écouter après dîner. Elle finit d’abord de lui raconter comment son amie a raté le chemin du pont.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

@@ -32,7 +32,11 @@ Il a envie de voir son prénom dans le programme. Il a aussi envie que les spect
 
 ## Savoir à qui l’on parle
 
-Une personne peut vouloir expliquer un besoin à quelqu’un qui l’aide et garder cette information pour elle ailleurs. Augustin a montré un détail de son travail à son ergothérapeute, un croquis à Samira et une difficulté de copie à Mme Besson. Ces échanges avaient des buts différents. Un programme se lit par des gens que la troupe ne connaît pas et peut être gardé après le spectacle. Le CDDR et les recommandations de l’EACD décrivent le retentissement que les difficultés de coordination peuvent avoir sur le sentiment de compétence et la participation. Dans cet encadré, le sujet est ce qu’Augustin souhaite rendre public de sa contribution. Sa crainte d’être ramené à l’effort qu’un geste lui demande n’est pas un signe clinique.
+Une personne peut vouloir expliquer un besoin à quelqu’un qui l’aide et garder cette information pour elle ailleurs. Augustin a montré un détail de son travail à son ergothérapeute, un croquis à Samira et une difficulté de copie à Mme Besson. Ces échanges avaient des buts différents. Un programme se lit par des gens que la troupe ne connaît pas et peut être gardé après le spectacle. Le CDDR et les recommandations de l’EACD décrivent le retentissement que les difficultés de coordination peuvent avoir sur le sentiment de compétence et la participation.
+
+## Comment cette difficulté se manifeste
+
+Dans cet encadré, le sujet est ce qu’Augustin souhaite rendre public de sa contribution. Sa crainte d’être ramené à l’effort qu’un geste lui demande n’est pas un signe clinique.
 
 ## Parler de ce qu’on a inventé
 
@@ -41,8 +45,3 @@ Nora peut demander à Augustin de relire sa ligne avant de la mettre en page. S�
 ## Une ligne sous la fenêtre
 
 Quand Nora revient, Augustin lui montre le dos de la feuille : « Comment fait-on du jour avec du carton ? » Il veut bien mettre son prénom après la phrase, dans l’encadré des accessoires. Nora dit qu’on pourrait répondre à sa question dans le programme. Augustin préfère qu’on voie la réponse dans la salle. Elle ajoute le point d’interrogation au propre. Avant de ranger le fichier jusqu’à la distribution, elle lui montre l’épreuve entière. Ils la replient et la fenêtre apparaît exactement entre leurs deux pouces.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Blank et al., recommandations cliniques internationales de l’EACD sur le trouble du développement de la coordination (2019)](https://onlinelibrary.wiley.com/doi/full/10.1111/dmcn.14132)

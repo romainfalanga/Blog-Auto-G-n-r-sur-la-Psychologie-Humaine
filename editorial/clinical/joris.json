@@ -1,0 +1,559 @@
+{
+  "character_id": "joris",
+  "bio": "Joris, 29 ans, est technicien lumière. Il partage un studio avec Samir, son ami d’enfance. Il vit avec un trouble dépersonnalisation-déréalisation diagnostiqué et bénéficie d’un suivi. Certains jours, ce qu’il fait ou ce qui l’entoure lui paraît étrangement lointain. Il reconnaît cette impression et se fatigue pourtant à poursuivre une conversation ou une tâche. Avec sa collègue Ava, il prépare la lumière d’une lecture publique à la bibliothèque. Il aimerait trouver un éclairage simple pour Dounia et Luc, puis les retrouver au foyer pour parler de leurs textes.",
+  "profile_topics": [
+    "Trouble dépersonnalisation-déréalisation",
+    "Détachement de soi",
+    "Étrangeté du monde familier",
+    "Épreuve du réel préservée",
+    "Coût invisible au quotidien"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "joris-un-geste-qui-lui-parait-lointain",
+      "title": "Quand ses propres gestes paraissent lointains au travail",
+      "description": "Pendant un essai lumière, Joris sait quel réglage il vient de choisir. L’impression de distance qui l’accompagne lui demande pourtant un effort.",
+      "context": "Lors du premier essai lumière pour une lecture publique",
+      "topics": [
+        "Dépersonnalisation",
+        "Détachement de soi",
+        "Coût de l’attention"
+      ],
+      "clinical_focus": "Dépersonnalisation et détachement de soi",
+      "clinical_intro": "Joris lance un essai lumière avec Ava. Il sait quel réglage il vient de choisir, mais son geste lui paraît lointain. Dans la dépersonnalisation, des actes ou des émotions que l’on reconnaît comme siens peuvent sembler lointains. Pour Joris, l’écart entre ce qu’il sait et ce qu’il éprouve complique une décision de travail qu’il aurait autrement prise sans y penser longtemps.",
+      "opening": "Joris a relu les deux textes dans le bus. Dounia finit le sien par une phrase si courte qu’il avait cru manquer une ligne. Luc, lui, garde sa dernière phrase entière sur la même page. Joris en parle à Ava en installant leurs feuilles sur la table de la régie. Il voudrait deux éclairages sobres. Le premier laisserait Dounia lever la tête sans chercher le public. Le second donnerait à Luc assez de lumière pour lire son carnet. Ava dit qu’ils pourront choisir ensemble après les avoir entendus.\n\nIls font un essai avec la bibliothèque encore vide. Joris envoie le réglage qu’ils viennent de préparer. Il reconnaît son choix et peut en expliquer la raison. Au moment où Ava lui demande s’il voudrait en essayer un autre, son propre geste lui paraît lointain. Il connaît cette impression, dont il a déjà parlé à la psychiatre qui le suit pour son trouble dépersonnalisation-déréalisation. Ce matin, elle lui demande assez d’attention pour qu’il perde le début de la question d’Ava. Il se serait contenté d’approuver pour éviter de lui faire répéter. La lumière resterait pourtant leur affaire à tous les deux.\n\nIl demande si elle parlait du carnet ou du moment où Dounia lèverait la tête. Ava remet la feuille à plat et lui montre la ligne qu’elle vient d’entourer. Elle a entendu Dounia dire qu’elle aime attendre un peu avant de commencer. Joris propose de garder ce réglage comme premier essai et de demander aux auteurs de le voir avant d’en décider.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand le sentiment de proximité à soi change",
+          "text": "La dépersonnalisation désigne un vécu de détachement par rapport à soi, à ses actes, à ses pensées ou à ses émotions. Joris reconnaît avoir choisi et lancé le réglage. Sa difficulté tient à la manière inhabituelle dont il éprouve ce geste. Le trouble dépersonnalisation-déréalisation peut comporter des manifestations de dépersonnalisation, de déréalisation ou les deux. Le ressenti et l’appréciation de ce qui se passe sont deux aspects que son suivi l’aide à décrire."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Une décision ordinaire peut coûter davantage",
+          "text": "Ava voit la lumière changer au bon moment. De son côté, Joris doit faire un effort supplémentaire pour entendre la question et rester dans leur échange. Il veut répondre sur le réglage et se sent tenté de dire oui avant d’avoir compris ce qu’elle propose. Le retentissement peut se loger dans ces petites reprises. À la fin d’un essai, le matériel est prêt et la fatigue que la personne a ressentie reste parfois invisible pour le reste de l’équipe."
+        },
+        {
+          "role": "strategies",
+          "heading": "Rendre la question de travail plus précise",
+          "text": "Joris peut demander à Ava de reformuler ce qu’elle veut décider. Ils reprennent le carnet de Luc et la pause que Dounia souhaite avant sa lecture. La décision porte alors sur deux besoins qu’ils pourront vérifier avec les auteurs. S’il reparle de cette scène en consultation, Joris pourra dire à quel moment la gêne a eu un effet et comment il a choisi de rester associé à la décision. Les détails utiles au travail peuvent être partagés séparément de son histoire de santé."
+        }
+      ],
+      "ending_title": "Deux essais sur la feuille jaune",
+      "ending": "Joris note le prénom de chaque auteur sur la feuille jaune et laisse un espace pour sa réponse. Il propose à Ava de relire les deux textes le lendemain avec eux dans la salle. En rangeant ses affaires, il reprend la phrase finale de Dounia. Il aimerait savoir si elle la lit en regardant encore le papier. Il glisse la copie dans son sac pour en parler à Samir au dîner.",
+      "mirror": [
+        "Ava peut revenir à la question qui les occupe. « Je demandais ce que tu voulais essayer pour la dernière ligne de Dounia. On regarde la feuille ensemble ? » Elle peut laisser Joris demander une pause ou proposer un autre moment. Une réponse donnée vite, ou une demande de répétition, ne l’oblige pas à deviner ce qu’il traverse. Ils pourront décider du réglage avec la personne qui l’utilisera."
+      ],
+      "sources": [
+        "oms-cddr",
+        "apa-dissociation"
+      ],
+      "continuity": {
+        "choice": "Joris demande à Ava de reformuler et garde deux essais ouverts jusqu’à la répétition avec les auteurs.",
+        "next": "Il ramène le texte de Dounia au studio et constate une autre forme de distance au cours du dîner avec Samir."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "joris-le-studio-familier",
+      "title": "Quand la pièce où l’on vit paraît soudain lointaine",
+      "description": "Au dîner, le studio semble étrange à Joris. Il reconnaît pourtant les lieux et demande à Samir de reprendre la conversation.",
+      "context": "Le soir du premier essai, au studio partagé avec Samir",
+      "topics": [
+        "Déréalisation",
+        "Lieux familiers",
+        "Disponibilité dans les échanges"
+      ],
+      "clinical_focus": "Déréalisation dans un lieu familier",
+      "clinical_intro": "Au dîner, le studio qu’il partage avec Samir paraît lointain à Joris. Il le reconnaît et sait que leur pièce est la même. La déréalisation touche la façon dont l’environnement est vécu. Dans cette scène, la gêne se voit surtout à ce que Joris a du mal à suivre le récit de son ami alors qu’il voulait l’écouter.",
+      "opening": "Samir déplace le courrier pour poser deux assiettes. Il a rapporté du pain du magasin qui vient de changer de propriétaire. Joris lui demande si la nouvelle personne garde la recette qu’ils aiment. Il sort aussi le texte de Dounia de son sac. Il voudrait lui faire entendre la dernière phrase, une fois qu’il aura fini de raconter sa journée. Dans leur studio, leurs repas se font à la table où Samir a réparé plusieurs fois la même chaise.\n\nSamir raconte qu’il a retrouvé une amie de leur école dans la file du magasin. Au milieu de son récit, la pièce paraît lointaine à Joris. Il sait où il est. Il reconnaît les affaires de Samir, sa propre feuille et la table. Pourtant, sa part de la conversation s’arrête. Il se rend compte qu’il vient de répondre par un « oui » et ignore si son ami posait une question. Il se souvient des deux premiers mots de ce que Samir disait sur l’école. Il n’a pas envie de faire semblant d’avoir entendu la suite.\n\nSamir se lève pour reprendre le pain. Joris lui demande de revenir à la personne rencontrée dans la file. Il lui dit qu’il est gêné par l’impression dont ils ont déjà parlé et qu’il voudrait reprendre doucement. Samir demande s’il a encore envie de lui lire la phrase. Joris a d’abord envie de refermer la feuille pour la soirée. Il propose plutôt de finir le repas, puis de décider si c’est encore un bon moment pour tous les deux.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le détachement peut concerner ce qui entoure la personne",
+          "text": "La déréalisation désigne un vécu d’étrangeté ou de distance à l’égard de l’environnement. La dépersonnalisation concerne le rapport à soi. Joris peut parler de deux moments différents, le geste de travail qui lui paraît lointain et le studio familier qui perd sa proximité habituelle. Le trouble peut associer les deux manifestations. Dans la scène du dîner, Joris reconnaît les lieux et les personnes. Il comprend que c’est son expérience de la pièce qui a changé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce que l’ami remarque depuis sa chaise",
+          "text": "Samir peut entendre une réponse brève et croire que son histoire arrive à un mauvais moment. Joris aurait voulu savoir ce que son amie est devenue. Il peine à rester disponible et risque de perdre aussi le plaisir de lui lire le texte. Selon la situation, une personne peut conserver les repères habituels et éprouver une gêne suffisante pour que la discussion lui coûte beaucoup. Cette différence compte quand le professionnel s’intéresse au retentissement à la maison."
+        },
+        {
+          "role": "strategies",
+          "heading": "Choisir ensemble ce qu’on reprend ce soir",
+          "text": "Joris demande de revenir à un passage précis du récit. Il peut dire ce qu’il a envie d’écouter maintenant et reporter la lecture à plus tard. Samir peut reprendre son histoire ou lui dire qu’il préfère finir de manger. Cette organisation leur appartient. Au suivi, Joris pourra expliquer comment l’échange s’est interrompu et ce qu’il a souhaité retrouver, sans devoir décrire chaque sensation de la soirée. Le caractère familier de la pièce et les effets sur la discussion donnent déjà des repères utiles."
+        }
+      ],
+      "ending_title": "Garder le texte pour après le repas",
+      "ending": "Samir leur verse de l’eau et reprend le moment où il a reconnu le manteau de leur amie. Joris le laisse terminer. Plus tard, il lit les deux dernières lignes de Dounia sans chercher à retrouver l’impression qu’il avait eue dans le bus. Samir lui demande s’il peut aussi lire le début. Ils s’arrêtent sur une question que Joris veut poser à Dounia demain. De combien de temps a-t-elle besoin avant la première phrase ?",
+      "mirror": [
+        "Samir peut demander à Joris ce qu’il souhaite dans cette conversation. « Je peux reprendre au début de l’histoire, ou on se garde ça pour demain. Tu veux encore qu’on lise après ? » Il peut prendre sa propre fatigue en compte. Si Joris évoque une impression familière, Samir peut la prendre au sérieux et lui laisser la possibilité de dire ce qu’il attend ce soir."
+      ],
+      "sources": [
+        "oms-cddr",
+        "apa-dissociation"
+      ],
+      "continuity": {
+        "choice": "Joris distingue le vécu au studio du geste de travail, reprend le repas avec Samir et garde une question pour Dounia.",
+        "next": "Avec les auteurs, il reprend cette question alors qu’une impression d’étrangeté et un problème concret de lecture risquent de se mêler."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "joris-la-feuille-quil-peut-examiner",
+      "title": "Une impression d’étrangeté et ce qu’on peut constater ensemble",
+      "description": "À la répétition, Joris trouve la salle étrange et Dounia lui signale un reflet sur sa feuille. Chacun peut décrire ce qu’il éprouve.",
+      "context": "Dans la bibliothèque, à la première répétition avec les auteurs",
+      "topics": [
+        "Épreuve du réel",
+        "Faits partagés",
+        "Différence entre vécu et changement extérieur"
+      ],
+      "clinical_focus": "Appréciation du réel préservée",
+      "clinical_intro": "Joris reconnaît la bibliothèque alors qu’elle lui semble étrange. Dounia lui parle au même moment d’un reflet qui la gêne pour lire. Joris peut entendre sa demande et s’en occuper tout en reconnaissant sa propre impression. C’est un exemple de ce que les cliniciens appellent l’épreuve du réel préservée dans le trouble dépersonnalisation-déréalisation.",
+      "opening": "Dounia arrive avec ses pages tenues par un élastique. Elle a gardé la pause dont Ava avait parlé. Elle veut pouvoir regarder la première rangée avant de lire. Luc arrive plus tard, avec un carnet dont il a numéroté les coins. Joris lui montre la feuille jaune et demande si les deux essais l’intéressent encore. Luc répond qu’il doit d’abord voir où il pourra poser le carnet quand il tourne la page.\n\nPendant qu’ils cherchent l’endroit, Joris éprouve une impression d’étrangeté dans la salle. Il sait que la bibliothèque est la même que la veille. Il comprend la demande de Luc et s’entend lui proposer une table à côté du pupitre. Dounia lui dit qu’un reflet l’empêche de voir le dernier mot depuis la place où elle veut se tenir. Joris a envie de lui répondre qu’il vérifiera plus tard. Son impression prend déjà de la place et il craint de mélanger ce qu’il ressent avec ce qu’elle essaie de lui expliquer.\n\nIl demande à Dounia de lui montrer la ligne. Elle avance le papier, puis lui montre ce qu’elle peut lire depuis sa place. Ava demande si elle veut conserver le pupitre à cet endroit. Dounia préfère pouvoir le laisser et lire sa feuille un peu plus près d’elle. Joris propose de comparer les deux possibilités avec elle avant de noter leur choix. Il retrouve ce qu’il voulait lui demander sur la pause. Dounia dit qu’elle peut la montrer plutôt que la décrire. Ils lui laissent le temps de recommencer à son rythme.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Reconnaître une impression comme une impression",
+          "text": "L’épreuve du réel reste préservée pendant les manifestations de ce trouble. Le terme désigne ici la possibilité de reconnaître qu’une expérience d’étrangeté relève de son vécu et que le monde extérieur n’a pas changé de cette façon. Joris éprouve une distance dans la salle et reconnaît en même temps les lieux et ce qui s’y passe. Le professionnel examine cette capacité avec l’histoire des symptômes, leurs circonstances et les autres explications possibles. Un détail de cette scène pris seul renseigne peu sur un diagnostic."
+        },
+        {
+          "role": "manifestations",
+          "heading": "La demande de Dounia a son propre objet",
+          "text": "Joris peut entendre le mot « reflet » alors qu’il peine déjà à rester disponible. Dounia lui indique une ligne qu’elle voudrait lire depuis une place particulière. Son besoin peut être discuté avec elle. L’impression de Joris peut coexister avec un problème que l’équipe observe et règle dans le cours ordinaire du travail. Le fait qu’il puisse prendre une décision avec Dounia laisse ouverte la question du coût que cet essai a eu pour lui."
+        },
+        {
+          "role": "strategies",
+          "heading": "Se répartir les décisions du moment",
+          "text": "Ava peut reprendre la question de la place pendant que Joris écoute ce que Dounia veut faire de la feuille. Joris peut décrire ensuite au suivi les deux questions qui se posaient en même temps, sans essayer de vérifier tout ce qu’il a ressenti. Le réglage se décide avec l’équipe. L’évaluation du vécu, notamment lorsque quelque chose change, se fait avec la professionnelle qui le suit. Joris sait déjà quel exemple il veut reprendre et peut garder la suite de la répétition pour eux quatre."
+        }
+      ],
+      "ending_title": "La pause que Dounia choisit",
+      "ending": "Dounia lit la première phrase après un silence plus long que Joris ne l’aurait prévu. La feuille reste visible pour elle à la place qu’elle a choisie. Il marque cette décision sur la feuille jaune, puis demande à Luc où poser sa table. En sortant, il envoie à Samir une phrase sur le texte. Il garde pour le rendez-vous une autre phrase, sur la salle qu’il connaissait et qui lui avait pourtant semblé étrange.",
+      "mirror": [
+        "Ava peut revenir à une question que les auteurs et Joris peuvent traiter ensemble. « Dounia, montre-nous où tu veux lire. Joris, tu veux prendre cette décision avec elle ou je te résume après ? » Si Joris décrit plus tard son impression, Ava peut lui demander ce qui lui a coûté pendant l’essai. Elle peut prendre son récit au sérieux et garder la décision clinique pour le suivi."
+      ],
+      "sources": [
+        "oms-cddr",
+        "apa-dissociation"
+      ],
+      "continuity": {
+        "choice": "Joris distingue son impression et le problème de reflet, puis confirme avec Dounia l’emplacement et la pause de départ.",
+        "next": "Au studio, une phrase de Samir sur une journée éprouvante rappelle à Joris la question de la durée et de la répétition des expériences."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "joris-une-impression-qui-est-passee",
+      "title": "Une impression passagère et des difficultés qui se répètent",
+      "description": "Samir évoque un moment d’étrangeté après une journée éprouvante. Joris mesure l’intérêt de raconter aussi ce qui arrive entre les épisodes.",
+      "context": "Au studio, après une journée éprouvante pour Samir",
+      "topics": [
+        "Expérience transitoire",
+        "Répétition du vécu",
+        "Retentissement dans le temps"
+      ],
+      "clinical_focus": "Durée et répétition des difficultés",
+      "clinical_intro": "Après une journée éprouvante, Samir raconte avoir été brièvement gêné par une impression d’étrangeté. Joris y reconnaît quelque chose qu’il connaît. Il repense aussi aux moments où cette impression revient alors qu’il veut travailler ou retrouver des amis. Un vécu passager peut ressembler à une manifestation du trouble. Le suivi s’intéresse à la répétition, aux circonstances et à la place prise dans la vie quotidienne.",
+      "opening": "Il manque le prénom de Luc sur le carton d’invitation. Joris le voit en posant son sac sur la chaise. Samir est en train de vérifier l’heure de la lecture pour pouvoir venir au foyer. Il a aidé une amie à déménager la veille et a passé la journée à répondre à des messages de travail. Il regarde le carton, se frotte les yeux et demande s’il est possible que tout ait paru bizarre quelques instants en rentrant. Il a mangé et dormi. Ce matin, il est surtout content de retrouver le pain qu’il avait laissé de côté.\n\nJoris reconnaît quelque chose dans les mots de Samir. Il a envie de raconter tout de suite la bibliothèque, la phrase de Dounia et l’effort de suivre la conversation au dîner. Il commence par lui demander comment il va aujourd’hui. Samir répond qu’il est fatigué et qu’il n’a plus cette impression. Il veut savoir si le deuxième auteur apporte bien son carnet. Joris lui montre le carton, puis voit encore la place où Luc devrait apparaître. Il voudrait pouvoir demander à la bibliothèque de corriger le nom avant que les invitations circulent.\n\nPlus tard, il retrouve une note d’un rendez-vous de l’année précédente. Il avait écrit qu’il ne répondait plus à certains messages après le travail, tant une conversation supplémentaire lui demandait d’effort. Il pense à cette phrase en envoyant la correction à Ava. Ce qui lui importe aujourd’hui, c’est autant de pouvoir finir l’invitation que de trouver du temps pour parler de ces retours au prochain suivi.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Situer un vécu dans la durée",
+          "text": "Des impressions passagères de détachement ou d’étrangeté peuvent se produire dans certaines circonstances, notamment lors d’un stress important ou d’un épuisement. Les ressemblances entre les mots de deux personnes renseignent sur une partie de leur vécu. Le trouble dépersonnalisation-déréalisation s’évalue dans une histoire plus large. Le professionnel examine la récurrence ou la persistance, la gêne, les conséquences dans plusieurs domaines et les autres explications. La conversation de ce matin donne à Joris une façon de préciser ce qui l’amène en suivi."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce qui continue après le moment d’étrangeté",
+          "text": "Samir parle d’un court épisode et de sa journée suivante. Joris se rappelle des messages auxquels il a cessé de répondre à certaines périodes. Il a parfois pu terminer une tâche tout en gardant trop peu d’énergie pour une conversation ensuite. Ces effets apparaissent à distance des moments où le vécu change. Il peut les rapporter au même titre que l’impression elle-même. Samir peut aussi garder son expérience à lui et dire simplement ce qu’il a éprouvé en rentrant."
+        },
+        {
+          "role": "strategies",
+          "heading": "Choisir un exemple à reprendre au rendez-vous",
+          "text": "Joris retrouve une phrase qui décrit une conséquence concrète. Pour en parler avec sa psychiatre, il peut choisir cette période et ce qui s’est passé plus récemment, sans reconstituer chaque moment. Il peut également dire ce qu’il aimerait retrouver dans ses soirées. Pour Samir, la demande reste différente. Il veut assister à une lecture et peut dire à son ami ce qui lui est arrivé. Chacun peut chercher un avis professionnel s’il en ressent le besoin."
+        }
+      ],
+      "ending_title": "Le carton revient avec les deux prénoms",
+      "ending": "Ava renvoie le carton corrigé avec le prénom de Luc de la même taille que celui de Dounia. Joris valide le texte et propose à Samir de le lire avant de l’envoyer à une amie. Puis il vérifie la date de son rendez-vous de suivi. Il voudrait expliquer qu’il a eu plus de mal à s’occuper de ses messages ces derniers jours. Il demande à la psychiatre s’ils pourront faire le point ensemble.",
+      "mirror": [
+        "Samir peut raconter ce qu’il a ressenti avec ses propres mots. S’il entend que Joris vit des difficultés répétées, il peut lui demander « Tu veux me dire ce que ça change pour toi cette semaine ? » Ils peuvent se reconnaître dans certains moments et laisser à chacun la possibilité de décrire le reste. Une comparaison entre leurs journées ne remplace pas l’évaluation menée au rendez-vous."
+      ],
+      "sources": [
+        "oms-cddr",
+        "apa-dissociation"
+      ],
+      "continuity": {
+        "choice": "Joris choisit de reparler du coût répété des épisodes en consultation et valide le carton qui mentionne les deux auteurs.",
+        "next": "À l’approche du rendez-vous, un changement de gêne le matin mérite d’être décrit avec le reste de sa situation."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "joris-un-changement-a-signaler",
+      "title": "Quand une gêne qui change mérite une nouvelle question",
+      "description": "La gêne dure plus longtemps au réveil. Joris apporte ce changement à sa psychiatre et parle des circonstances qu’il remarque.",
+      "context": "Après plusieurs matins difficiles, pendant un rendez-vous de suivi",
+      "topics": [
+        "Évaluation des autres causes",
+        "Évolution des manifestations",
+        "Situation médicale à revoir"
+      ],
+      "clinical_focus": "Évaluer un changement de manifestations",
+      "clinical_intro": "Joris connaît les moments où ses activités paraissent lointaines. Depuis quelques jours, il les retrouve dès le matin et a plus de mal à partir travailler. Il hésite à mettre cette évolution sur le compte du trouble connu. Le rendez-vous permet de situer ce qui a changé et de revoir avec la professionnelle les autres éléments qui peuvent compter.",
+      "opening": "À la bibliothèque, Ava a laissé une note sur la feuille jaune pour lui rappeler de vérifier l’heure de retour de Luc. Joris la lit avant de partir au rendez-vous. Il sait déjà quelle table l’auteur préfère. Pourtant, depuis quelques jours, sortir du studio le matin lui prend plus de temps. Le moment de distance se prolonge et il a eu mal à la tête à deux reprises. Il a failli écrire à Ava que tout cela venait du trouble, puis il a effacé la moitié du message. Il lui a seulement confirmé qu’il vérifierait l’heure après son rendez-vous.\n\nSa psychiatre ouvre son dossier et lui demande s’il a pu se libérer comme prévu. Joris parle d’abord du carton d’invitation. Il se souvient de ce qu’il voulait dire quand il lui a écrit. En face d’elle, il ne sait plus très bien dans quel ordre raconter les derniers jours. Il lui dit qu’il se souvient d’un matin où il a envoyé le même message une deuxième fois parce qu’il le croyait encore en brouillon. Il mentionne les maux de tête et le sommeil plus court les soirs où il a préparé deux répétitions.\n\nElle reprend avec lui ce qui ressemble à son vécu habituel et ce qui lui semble différent. Elle lui demande si quelque chose a changé dans sa santé, ses traitements ou sa consommation de produits. Joris lui parle aussi d’une journée où il avait bien dormi et a pourtant éprouvé la gêne. Ils conviennent d’en parler à son médecin traitant pour revoir les maux de tête et ce qui peut leur être associé. Elle lui propose de revenir sur ce qu’ils auront appris au rendez-vous suivant.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Tenir compte de plusieurs explications possibles",
+          "text": "Des manifestations de dépersonnalisation ou de déréalisation peuvent apparaître dans plusieurs situations cliniques. Des problèmes médicaux et les effets de substances ou de certains traitements peuvent également entrer dans l’évaluation. Le professionnel prend en compte ce que la personne décrit et décide quelles vérifications sont utiles. Un trouble déjà diagnostiqué donne à Joris un repère pour raconter une partie de son expérience. Une évolution du vécu et d’autres gênes peuvent mériter d’être examinées pour elles-mêmes."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Décrire une différence observable dans la journée",
+          "text": "Joris rapporte un déplacement du moment où la gêne se produit et un effet sur le départ au travail. Il mentionne des maux de tête. La relation entre les événements demande encore à être éclaircie. Le fait qu’il ait dormi moins certains jours fait partie du contexte, sans expliquer à lui seul la gêne. Les exemples qu’il donne aident sa psychiatre à voir ce qui l’a préoccupé et comment il souhaite être accompagné."
+        },
+        {
+          "role": "strategies",
+          "heading": "Repartir avec un relais convenu",
+          "text": "Joris sait quelle question il veut poser à son médecin et à quel rendez-vous il pourra en reparler. Il peut décider avec sa psychiatre ce qu’elle lui conseille de transmettre. Au travail, il peut se limiter aux questions pratiques qui demandent une réponse aujourd’hui. Ava a besoin de savoir à quelle heure Luc pourra revenir et si Joris est disponible pour la répétition. Les renseignements médicaux peuvent rester dans les échanges de soin."
+        }
+      ],
+      "ending_title": "Une heure confirmée et un rendez-vous pris",
+      "ending": "En sortant, Joris prend le rendez-vous convenu avec son médecin. Il écrit à Ava que Luc a confirmé l’essai du jeudi et lui propose de reprendre les décisions de la feuille jaune dans l’après-midi. Il lui demande de réserver cinq minutes pour parler de leur façon de se passer la main. Dans son sac, il garde une note sur les changements du matin pour le rendez-vous médical.",
+      "mirror": [
+        "Samir peut demander « Tu veux que je te libère la table pour appeler ton médecin ? » ou proposer de reprendre un projet commun après le rendez-vous. Si Joris décrit quelque chose qui le gêne depuis peu, Samir peut l’écouter et suivre le relais convenu. Il peut rester proche de lui et laisser aux professionnels le soin d’examiner ces changements."
+      ],
+      "sources": [
+        "oms-cddr",
+        "mayo-depersonnalisation"
+      ],
+      "continuity": {
+        "choice": "Joris décrit les changements, prend le rendez-vous médical convenu et propose à Ava de discuter de leur répartition.",
+        "next": "Ava et Joris reparlent de l’effort qu’a demandé la répétition avec les auteurs et choisissent comment se répartir le travail."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "joris-quand-ava-le-croyait-tranquille",
+      "title": "Ce que le calme apparent laisse invisible au travail",
+      "description": "Ava pensait Joris tranquille après l’essai. Il choisit de lui dire combien la décision lui avait coûté et propose un relais.",
+      "context": "À deux, avant la répétition du jeudi",
+      "topics": [
+        "Retentissement invisible",
+        "Partager une information choisie",
+        "Relais convenu"
+      ],
+      "clinical_focus": "Gêne invisible et relation de travail",
+      "clinical_intro": "Ava se souvient d’un essai où Joris lui paraissait calme. Il se rappelle surtout avoir eu du mal à rester disponible pour décider avec elle. Un trouble dépersonnalisation-déréalisation peut demander beaucoup d’effort alors que peu de signes sont visibles. Joris choisit ce qu’il souhaite expliquer à sa collègue pour qu’ils puissent se répartir le travail et parler du projet ensemble.",
+      "opening": "Ava lit les deux dernières lignes de Luc avant de sortir son crayon. Il veut encore déplacer sa table pour garder de la place au bord du carnet. Joris lui montre le réglage qu’il a noté pour lui. Il l’avait trouvé pendant l’essai où Dounia avait demandé qu’on regarde son papier. Ava se souvient qu’il paraissait tranquille malgré toutes les demandes et lui propose de prendre les deux passages pendant qu’elle accueillera les auteurs. Il était resté concentré, dit-elle. Ce compliment lui fait plaisir avant de lui paraître un peu loin de ce qu’il se rappelle.\n\nJoris regarde la case laissée vide près du nom de Luc. Il sait qu’il peut décider lui-même de ce qu’il raconte. Il dit à Ava qu’il éprouve parfois un détachement qui l’oblige à faire plus d’effort pour suivre une décision. Il connaît le trouble et il en parle en consultation. Il lui dit qu’il veut garder la décision sur l’éclairage de Luc, mais qu’il préférerait qu’ils puissent se passer la main pendant un essai si l’un des deux a besoin de reprendre son temps.\n\nAva lui demande quel rôle il voudrait lui donner. Elle tient à rencontrer les auteurs et peut passer par la régie au moment où ils répètent ensemble. Joris propose de demander clairement un relais en nommant le passage concerné. Ava lui dit qu’elle aimerait pouvoir lui demander la même chose quand elle accueille quelqu’un. Ils gardent les deux demandes sur la feuille jaune. Joris note seulement les tâches et leurs prénoms. Joris lui demande de garder entre eux ce qu’il vient de lui confier. Ava acquiesce.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le retentissement ne se lit pas entièrement sur un visage",
+          "text": "Une personne peut continuer à travailler ou répondre à une question en éprouvant une distance qui lui coûte beaucoup. Le trouble dépersonnalisation-déréalisation peut avoir un retentissement même quand l’activité reste visible de l’extérieur. Ava voyait un collègue qui tenait la répétition. Joris se rappelle l’effort pour rester dans l’échange et le temps qu’il lui fallait pour comprendre une demande. Les deux observations peuvent être entendues ensemble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Choisir à qui expliquer l’effort fourni",
+          "text": "Joris veut garder la décision sur la lumière de Luc. Il peut reconnaître que certains moments demandent de répartir autrement ce qu’ils font. Parler du trouble à Ava change ce qu’elle peut comprendre de la situation. La conversation ne dit rien de ce que les auteurs ont besoin de savoir. Joris peut utiliser des mots différents en consultation, avec Samir et au travail, selon la question qui les réunit."
+        },
+        {
+          "role": "strategies",
+          "heading": "Définir un relais avec des tâches précises",
+          "text": "Ava et Joris s’accordent sur le moment où chacun peut demander de l’aide et sur ce que l’autre reprend alors. Ils peuvent revoir cet accord quand le déroulement change. Joris peut aussi dire au suivi si cette répartition lui permet de garder sa place dans le projet ou si elle lui demande encore beaucoup. Ce retour ne transforme pas l’organisation de la régie en soin. Il permet de raconter une décision qui a compté dans sa semaine."
+        }
+      ],
+      "ending_title": "Des prénoms sur la feuille jaune",
+      "ending": "Luc arrive avant Dounia et demande à essayer le carnet à la place qu’ils viennent de choisir. Joris lui montre le réglage, puis laisse Ava lui poser sa question sur l’accueil. À la fin, il replie la feuille jaune sans y ajouter d’explication personnelle. Il envoie à Samir le carton final. Ils iront voir une petite exposition ce week-end, avant la dernière répétition. Il aimerait lui proposer une heure qui leur laisse la soirée libre.",
+      "mirror": [
+        "Ava peut répondre à ce que Joris lui confie en lui demandant ce que cela implique dans leur travail commun. « D’accord. À quel moment voudrais-tu que je reprenne, et qu’est-ce que je dis aux autres si on échange les rôles ? » Elle peut vérifier sa propre disponibilité. Les auteurs peuvent être informés du déroulement que Joris et Ava ont convenu, selon les informations que Joris choisit de partager."
+      ],
+      "sources": [
+        "oms-cddr",
+        "apa-dissociation",
+        "mayo-depersonnalisation"
+      ],
+      "continuity": {
+        "choice": "Joris choisit ce qu’il confie à Ava et ils fixent une demande explicite de relais qui vaut pour chacun.",
+        "next": "Lors d’une sortie avec Samir, Joris retrouve une impression de distance loin des tâches et des lumières de la lecture."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "joris-loin-de-la-regie",
+      "title": "Retrouver la même impression dans une sortie choisie",
+      "description": "À une exposition avec Samir, la gêne revient loin des projecteurs. Joris cherche ce qu’il veut faire de leur fin d’après-midi.",
+      "context": "Un samedi, dans une petite exposition d’estampes avec Samir",
+      "topics": [
+        "Variation selon le moment",
+        "Retentissement hors du travail",
+        "Choisir la suite d’une sortie"
+      ],
+      "clinical_focus": "Une gêne dans des contextes différents",
+      "clinical_intro": "Joris s’attendait à se sentir plus disponible en dehors de la bibliothèque. Lors d’une exposition avec Samir, une impression de distance revient pourtant. Il sait où il est et aimerait voir les œuvres. Les manifestations du trouble peuvent varier d’un moment à l’autre. La scène permet de regarder ce que Joris fait de cette sortie alors qu’il n’en connaît pas précisément la cause.",
+      "opening": "Le premier dessin représente une enveloppe ouverte, posée au bord d’une fenêtre. Samir est venu voir l’exposition pour les estampes d’un ami. Joris s’est surtout demandé comment les artistes s’y prendraient pour montrer la lumière sans employer de couleur. Il garde en poche le carton de la lecture. Un livreur leur demande dans l’entrée si l’exposition ferme bientôt et Joris lui montre l’horaire. Il avait envie de passer ici depuis longtemps. Il a aussi vu son médecin pour les maux de tête. Il a prévu de faire le point avec sa psychiatre comme convenu.\n\nAu milieu des estampes, Joris retrouve l’impression que les lieux lui paraissent lointains. Il entend Samir lui demander laquelle il choisirait pour le mur du studio. Il regarde les deux images que son ami lui indique et ne sait plus très bien comment lui dire que l’une lui plaisait avant même qu’il la montre. Il s’était attendu à se sentir plus tranquille dans un lieu où personne ne lui demandait de régler quoi que ce soit. Il essaie de trouver une explication dans sa journée. Le temps passe et Samir attend encore sa réponse.\n\nJoris lui dit qu’il voudrait voir la dernière salle, puis décider s’il reste pour la présentation de l’artiste. Samir a déjà convenu d’y assister et peut rentrer plus tard. Ils s’entendent pour se retrouver le soir au studio. Dans la dernière pièce, Joris voit une estampe qui lui donne envie de reprendre une idée pour l’accueil des auteurs. Il la montre à Samir avant de remettre son manteau.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un contexte peut compter sans tout expliquer",
+          "text": "Les manifestations du trouble peuvent varier dans leur intensité et dans leur durée. Certains moments éprouvants peuvent compter dans ce que la personne rapporte, et d’autres épisodes paraissent difficiles à relier à une circonstance précise. Joris cherche d’abord du côté de sa journée de travail. L’exposition lui apporte un exemple dans un autre cadre. Ce que la personne remarque donne des éléments à discuter au suivi. Pour comprendre ce qui arrive, le professionnel peut aussi chercher ce qui mérite une vérification indépendante."
+        },
+        {
+          "role": "manifestations",
+          "heading": "La sortie a encore des choses à lui apporter",
+          "text": "Joris se sent moins disponible pour parler, alors qu’il a envie de regarder une dernière salle. Samir tient à la présentation de son ami. Le projet partagé et la durée de la sortie deviennent deux décisions différentes. Joris peut vouloir rentrer plus tôt et garder quelque chose de ce qu’il a vu. L’effet du trouble se retrouve ici dans la difficulté à répondre et à choisir sur le moment, même si le cadre est éloigné de ses tâches professionnelles."
+        },
+        {
+          "role": "strategies",
+          "heading": "Reprendre la question que l’on peut décider sur place",
+          "text": "Les deux amis peuvent convenir de ce qu’ils feront ensuite, selon leurs envies et le temps dont chacun dispose. Joris peut garder l’idée du dessin qu’il veut reprendre avec Ava. Plus tard, il pourra raconter en consultation ce qu’il avait voulu faire, le moment où il s’est senti moins disponible et l’accord qu’il a choisi avec Samir. Il n’a pas besoin d’avoir identifié une cause au moment de se séparer de son ami."
+        }
+      ],
+      "ending_title": "L’image qu’il garde pour l’accueil",
+      "ending": "Joris rentre avant la présentation. Il note une idée sur le carton de la lecture. Il voudrait laisser les auteurs choisir eux-mêmes où s’asseoir au foyer pour parler avec les gens qui viendront les voir. Quand Samir rentre, Joris lui demande ce que son ami a dit de l’estampe à l’enveloppe. Il lui raconte aussi qu’il avait surtout essayé de comprendre ce qui lui arrivait. C’est ce moment-là qu’il voudrait reprendre au suivi.",
+      "mirror": [
+        "Samir peut demander « Tu veux qu’on regarde la dernière salle ensemble et qu’on se retrouve plus tard au studio ? » Il peut tenir à la présentation et proposer de lui raconter ce qu’il y aura entendu. Si Joris veut parler de ce qui a changé, Samir peut l’écouter. Ils peuvent aussi reprendre simplement le plaisir qu’ils ont eu devant l’une des estampes."
+      ],
+      "sources": [
+        "oms-cddr",
+        "apa-dissociation",
+        "mayo-depersonnalisation"
+      ],
+      "continuity": {
+        "choice": "Joris reste pour la dernière salle, rentre avant la présentation et garde une idée d’accueil. Il choisit de reparler au suivi du temps qu’il a passé à chercher une cause.",
+        "next": "En consultation, il reprend la sortie et choisit un objectif lié à la place que prend cette recherche dans ses échanges."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "joris-quand-la-question-prend-la-place",
+      "title": "Quand chercher une explication prend toute la conversation",
+      "description": "Joris voudrait comprendre ce qui lui est arrivé pendant la sortie. Avec sa psychiatre, il choisit ce qu’il veut travailler dans ses échanges.",
+      "context": "En consultation après l’exposition",
+      "topics": [
+        "Attention mobilisée par la gêne",
+        "Questionnement persistant",
+        "Objectif de suivi choisi"
+      ],
+      "clinical_focus": "Attention mobilisée par le vécu",
+      "clinical_intro": "Joris raconte qu’à l’exposition, il revenait à la même question au lieu de parler des estampes avec Samir. Il voudrait comprendre pourquoi l’impression revient et retrouver plus de place pour l’échange. Le rendez-vous permet de prendre sa question au sérieux et de choisir un objectif de suivi lié à ce qu’il souhaite faire de ses journées.",
+      "opening": "Joris apporte le carton sur lequel il a noté l’idée d’accueil. Il veut d’abord terminer l’histoire qu’il a commencée avec sa psychiatre au rendez-vous précédent. Il a vu le médecin, comme ils en avaient parlé. Ils reprennent les informations qu’il souhaite lui transmettre. Puis il raconte l’exposition. Il avait regardé les deux estampes et réfléchi à la fatigue, au travail, à l’heure du repas. Il a entendu les gens prendre place près de l’artiste avant de trouver quelque chose à dire à Samir sur les dessins.\n\nIl pense surtout à ce qui lui arrive quand quelqu’un veut passer à un autre sujet. Il a envie de retenir la conversation jusqu’à ce qu’il ait une explication. À la maison, il lui est arrivé de reposer la même question à Samir alors que son ami lui avait déjà dit ce qu’il avait observé. La psychiatre lui demande ce qu’il aurait aimé entendre ensuite à l’exposition. Joris se souvient que Samir avait reconnu la signature de son ami au bas d’une estampe. Il aurait aimé lui demander comment ils s’étaient connus.\n\nIls discutent de ce que Joris voudrait retrouver, y compris quand l’impression ne se dissipe pas tout de suite. Il demande s’ils peuvent parler de la place que cette question occupe et de ce qui pourrait l’aider à rester un peu plus disponible. Sa psychiatre propose d’examiner avec lui des exemples comme celui de l’exposition. Joris garde sur la feuille le nom de l’artiste et ce qu’il a envie de demander à Samir. Il a aussi une question pour Ava. Ils peuvent maintenant choisir comment recevoir les auteurs après la lecture.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Prendre au sérieux le temps occupé par une question",
+          "text": "La peur de ce que signifie l’étrangeté peut ajouter de la détresse à celle du vécu lui-même. Chez Joris, chercher une explication lui prend parfois beaucoup de place dans un échange. Sa psychiatre écoute cette inquiétude et peut examiner avec lui ce qu’il attend d’une réponse et ce que cette recherche change dans ses journées. Ce travail peut s’inscrire dans un accompagnement psychologique discuté avec la personne. Les approches adaptées font encore l’objet de recherches."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le moment que Joris voudrait retrouver",
+          "text": "Joris se rappelle la question qu’il a posée plusieurs fois et le sujet dont il n’a pas parlé avec Samir. Sa difficulté a aussi pris la forme d’une conversation qu’il a laissé passer. Il voudrait garder la possibilité de revenir à ce qui l’intéresse. Un objectif de suivi peut porter sur un aspect précis de la vie quotidienne, par exemple la disponibilité pour une sortie, un projet ou une rencontre. Joris choisit d’abord ce qui lui importe dans ses échanges."
+        },
+        {
+          "role": "strategies",
+          "heading": "Parler des objectifs et des options en consultation",
+          "text": "Joris peut dire à sa psychiatre qu’il voudrait comprendre sa gêne et retrouver de la place pour ce qu’il aime faire. Ils peuvent examiner ensemble les approches possibles. Un petit essai de faisabilité a étudié une thérapie cognitivo-comportementale adaptée à ce trouble. Il reste à établir dans quelle mesure cette approche aide dans différents contextes. La discussion en consultation part de la difficulté que Joris souhaite aborder et de l’aide qu’il aimerait recevoir."
+        }
+      ],
+      "ending_title": "Une question pour Samir et une autre pour Ava",
+      "ending": "Dans le couloir, Joris écrit à Samir qu’il aimerait savoir comment il a rencontré l’auteur des estampes. Il garde le carton pour la prochaine répétition. Il propose à Ava de lui montrer l’idée du foyer quand ils auront arrêté les réglages. Il ne sait pas encore combien de temps il aura envie de rester avec les auteurs. Il veut pouvoir choisir ce soir-là et se garder un rendez-vous de suivi après la lecture.",
+      "mirror": [
+        "Samir peut écouter la question de Joris et lui dire quand il a du temps pour parler. « Je peux te dire ce que j’ai remarqué, et j’aimerais aussi te raconter l’histoire de l’artiste. » Si Joris souhaite revenir longuement sur son vécu, Samir peut convenir d’un autre moment ou l’encourager à reprendre la question au suivi. Leur échange a aussi une place pour ce qui les intéressait à l’exposition."
+      ],
+      "sources": [
+        "oms-cddr",
+        "mayo-depersonnalisation",
+        "hunter-essai-faisabilite"
+      ],
+      "continuity": {
+        "choice": "Joris choisit de travailler en suivi sur l’espace que prennent ses interrogations et garde un objectif relationnel concret.",
+        "next": "Lors de la dernière répétition, il reprend sa place dans une décision même quand le changement lui fait douter de son travail."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "joris-la-demande-qui-change-lessai",
+      "title": "Demander du temps quand une nouvelle consigne arrive",
+      "description": "Luc veut revoir l’éclairage avant la lecture. Joris a du mal à suivre la demande, puis retrouve une décision qu’il souhaite prendre.",
+      "context": "Pendant la dernière répétition, avant l’accueil des auteurs",
+      "topics": [
+        "Effort de concentration",
+        "Doute sur sa place",
+        "Relais dans une tâche"
+      ],
+      "clinical_focus": "Difficulté à suivre une nouvelle demande",
+      "clinical_intro": "Luc demande un changement au dernier essai. Joris comprend l’enjeu, mais la gêne rend difficile le passage d’une consigne à l’autre. Il pense d’abord qu’Ava ferait mieux de tout reprendre. Le trouble peut compliquer des activités que la personne sait mener. La scène montre comment Joris demande de la place pour réfléchir et choisit le rôle qu’il veut garder.",
+      "opening": "Luc revient avec une feuille à côté de son carnet. Il veut lire une note très courte avant le texte et la déposer ensuite sur la table. Joris avait prévu un réglage pour le carnet. Il prend la feuille jaune et commence à expliquer où Luc s’arrêtera. Ava lui montre qu’elle peut garder le même éclairage sur les deux supports s’ils les placent ensemble. Luc regarde la feuille et demande s’il peut tenir sa note un instant avant de la poser.\n\nJoris sait qu’il peut examiner cette demande. Il retrouve pourtant le détachement qui lui a déjà coûté une partie d’un échange. Il entend le début de la phrase, suit le regard de Luc, puis demande où il veut poser son carnet. Luc vient de le dire. Joris craint de leur faire perdre du temps. Il aurait envie de laisser son crayon à Ava et de s’occuper de l’accueil sans rien expliquer. Il pense au compliment qu’elle lui avait fait et à la décision qu’ils ont prise depuis. Le relais peut porter sur ce qui est nécessaire maintenant.\n\nIl demande à Ava de reprendre la consigne de Luc pendant qu’il se donne un moment pour regarder la disposition avec eux. Luc montre à quel endroit il veut terminer sa note. Joris revient sur ce qu’il avait souhaité garder de l’essai. Il voudrait que le papier reste lisible pendant le temps où l’auteur le tient. Il propose qu’ils regardent cette partie du texte et confirme qu’il pourra préparer le passage de Luc si la consigne reste celle-là. Ava dit qu’elle veut elle aussi finir l’essai avant d’aller au foyer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La gêne peut se voir dans le coût de la tâche",
+          "text": "Un trouble dépersonnalisation-déréalisation peut rendre une activité plus difficile alors que la personne connaît ce qu’elle a à faire. Joris a des repères sur la lumière et il comprend la demande de Luc. Ce jour-là, il a besoin qu’une partie de la consigne soit redite avant de pouvoir répondre. Il peut rapporter cette difficulté en consultation, comme un exemple des effets de la gêne. Le travail partagé garde ses propres exigences et décisions."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le doute porte aussi sur le regard de l’équipe",
+          "text": "Quand Joris doit poser une question déjà traitée, il imagine qu’Ava voudra reprendre l’ensemble de l’essai. Cette crainte a un effet sur ce qu’il est prêt à demander. Il finit par nommer la partie du travail où un relais lui serait utile et reprend une décision sur l’éclairage. Ava peut lui dire ce qui lui convient et signaler si elle doit partir au foyer. La scène fait place à leurs deux responsabilités."
+        },
+        {
+          "role": "strategies",
+          "heading": "Redire ce que l’on souhaite garder dans le projet",
+          "text": "Joris et Ava peuvent revoir l’accord quand une demande arrive. Joris précise quelle consigne il souhaite entendre de nouveau et ce qu’il se sent prêt à préparer. L’essai peut confirmer la décision avec Luc. Au suivi, il pourra raconter le moment où il a eu envie de se retirer et le rôle qu’il a voulu garder. Ce que le relais lui a permis de faire lui donne une manière de décrire le retentissement autrement qu’en résumant la répétition par une réussite ou un échec."
+        }
+      ],
+      "ending_title": "Le passage de Luc reste sur sa ligne",
+      "ending": "Luc lit sa note, la pose et ouvre son carnet. Joris confirme l’éclairage qu’ils viennent de choisir. Il écrit les deux supports sur la feuille jaune et la laisse à Ava pour qu’elle y ajoute ses propres indications. Puis il lui montre l’idée pour le foyer. Il propose de laisser une place aux auteurs près de la grande table et de leur demander s’ils veulent rester parler avec le public.",
+      "mirror": [
+        "Ava peut reprendre la demande de Luc et vérifier quelle partie de l’essai Joris veut mener. « Je redis le passage sur la note, puis tu peux nous dire ce que tu préfères pour la lecture. » Elle peut aussi dire combien de temps elle a avant d’aller au foyer. L’accord entre eux peut rester pratique, y compris si Luc leur demande ce qui change pour son texte."
+      ],
+      "sources": [
+        "oms-cddr",
+        "apa-dissociation",
+        "mayo-depersonnalisation"
+      ],
+      "continuity": {
+        "choice": "Joris demande un relais sur la consigne, confirme l’éclairage de Luc et présente l’idée d’accueil à Ava.",
+        "next": "Ils préparent le foyer avec les auteurs, et Joris décide comment organiser sa présence et son retour."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "joris-laccueil-quil-peut-choisir",
+      "title": "Rester disponible aux autres quand on se sent distant",
+      "description": "En préparant le foyer, Joris craint de paraître indifférent. Les auteurs l’aident à imaginer un accueil qui leur laisse aussi le choix.",
+      "context": "Au foyer de la bibliothèque, avant la soirée",
+      "topics": [
+        "Distance émotionnelle",
+        "Crainte de paraître indifférent",
+        "Choix dans les échanges"
+      ],
+      "clinical_focus": "Décalage entre intérêt et émotion ressentie",
+      "clinical_intro": "Joris tient à recevoir Dounia et Luc après la lecture. Quand il se sent distant, il craint pourtant de paraître indifférent à ce qu’ils lui disent. Le trouble dépersonnalisation-déréalisation peut modifier la façon dont une personne éprouve une émotion alors même que la rencontre compte pour elle. Joris demande aux auteurs comment ils aimeraient être reçus et définit la place qu’il veut tenir.",
+      "opening": "La grande table est couverte de cartons vides. Dounia en déplace un, puis tire une chaise du côté où elle a laissé son sac. Joris lui demande si elle voudrait rester un peu ici après la lecture. Il avait imaginé disposer deux chaises derrière la table et inviter les lecteurs à s’approcher. Dounia préfère s’asseoir de côté pour que la première personne venue lui parler puisse s’asseoir aussi. Elle propose de laisser du papier à disposition pour que les personnes qui le préfèrent puissent lui écrire leur question. Luc est partant pour signer quelques livres. Il ne sait pas encore s’il voudra faire durer la discussion.\n\nPendant qu’il les écoute, Joris se sent à distance de ce moment qu’il attend depuis l’exposition. Il mesure combien il lui importe de les recevoir et trouve difficile de reconnaître l’élan qu’il avait en présentant son idée à Ava. Dounia lui demande ce qu’il en pense. Il lui répond d’abord qu’il peut arranger les chaises. Elle attend. Il se rend compte qu’elle lui demandait aussi s’il comptait venir.\n\nJoris lui dit qu’il veut être là au début et qu’il aimerait lui poser une question sur la dernière page. Il propose de les présenter aux lecteurs qui resteront, puis de partir quand il en aura besoin. La bibliothécaire a prévu de rester au foyer jusqu’à la fermeture. Elle passera voir si Dounia et Luc souhaitent encore recevoir du monde. Luc désigne la place libre à côté de sa chaise. Joris pourrait s’y mettre le temps qu’il veut.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand l’intérêt et le ressenti divergent",
+          "text": "Le trouble dépersonnalisation-déréalisation peut s’accompagner d’une impression de distance par rapport à ses propres émotions. Une personne peut savoir qu’une rencontre lui importe et éprouver peu de proximité avec ce qu’elle attendait d’y ressentir. Dans cette scène, Joris reconnaît ce qui l’a amené au foyer. L’intérêt pour les textes de Dounia et de Luc se retrouve dans ses questions et ses décisions. Il a du mal à sentir l’enthousiasme qui accompagnait l’idée à l’exposition et s’inquiète de ce que les auteurs pourraient comprendre de son attitude."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Une question reste en suspens derrière les chaises",
+          "text": "En parlant de mobilier, Joris donne une réponse qu’il sait mettre en pratique tout de suite. Il laisse de côté une question plus personnelle qui demande de se projeter dans la soirée. Dounia peut entendre cette première réponse comme le signe qu’il a déjà prévu de repartir, ou simplement comme une préoccupation pour la disposition du foyer. Sa patience permet à Joris d’entendre le reste de la question. Il trouve une façon de dire qu’il souhaite la retrouver même s’il ignore comment il se sentira à ce moment-là."
+        },
+        {
+          "role": "strategies",
+          "heading": "Convenir d’une présence que chacun peut ajuster",
+          "text": "Joris propose de commencer l’accueil, puis de décider de la durée de sa présence sur place. Les auteurs choisissent eux aussi comment répondre au public. Ils peuvent en parler directement et savoir qui fera vivre le foyer après son départ. L’organisation lui laisse la possibilité de rester en lien même quand la distance intérieure le surprend. Il pourra discuter en consultation du poids que prend cette gêne, surtout si elle revient dans des moments qui lui tiennent à cœur. Les auteurs peuvent garder la conversation sur ce qu’ils souhaitent partager ce soir-là."
+        }
+      ],
+      "ending_title": "Une chaise pour le début de la rencontre",
+      "ending": "Joris place une chaise de biais à côté de Dounia, pose quelques feuilles sur la table et fait de la place pour les livres de Luc. Il prévient Samir qu’il viendra l’accueillir s’il est déjà au foyer, et qu’ils peuvent rentrer chacun à leur heure. Dounia lui propose de garder sa question pour le début de la rencontre. En quittant la table, il se rappelle qu’il comptait surtout entendre comment elle avait choisi son dernier mot.",
+      "mirror": [
+        "Dounia peut demander à Joris s’il compte venir au foyer, puis lui proposer une place pour le temps qu’il a envie d’y passer. « J’aimerais bien entendre ta question. Tu peux t’asseoir ici quand on aura fini. » Elle peut aussi dire si elle souhaite recevoir encore des lecteurs après son départ. Ils disposent chacun d’une marge pour décider en fonction de la soirée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "apa-dissociation"
+      ],
+      "continuity": {
+        "choice": "Joris donne aux deux auteurs le choix de leur accueil et prévoit de le commencer, puis de décider de sa durée. La bibliothécaire reste au foyer.",
+        "next": "La lecture a lieu et Joris revient au foyer avec une question pour Dounia et un choix à faire sur le moment de rentrer."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "joris-une-question-apres-la-lecture",
+      "title": "Prendre part à une soirée qui demande de l’effort",
+      "description": "Après avoir éclairé les deux lectures, Joris rejoint les auteurs. Il éprouve de nouveau une distance et choisit le temps qu’il veut passer avec eux.",
+      "context": "Le soir de la lecture, de la régie au foyer",
+      "topics": [
+        "Participation choisie",
+        "Effort peu visible",
+        "Retentissement fluctuant"
+      ],
+      "clinical_focus": "Participation malgré le retentissement du trouble",
+      "clinical_intro": "Le soir de la lecture, Joris mène les réglages prévus et rejoint les auteurs au foyer. Une impression de distance revient au milieu d’un échange. Il parvient à poser sa question, puis décide de la durée de sa présence. Une activité menée à bien peut compter pour la personne tout en lui demandant un effort que les autres aperçoivent peu.",
+      "opening": "Dounia attend quelques secondes avant de commencer. Joris garde le réglage choisi avec elle lors de leur première répétition. À la fin, elle salue le public et emporte sa feuille vers le foyer. Luc arrive avec la note et le carnet. Pendant qu’il présente sa page, Ava indique à Joris que la bibliothécaire lui parle en même temps de l’ouverture des portes. Elle lui demande de garder le passage de Luc pendant qu’elle règle ce point avec elle. Joris acquiesce et retrouve sur la feuille jaune le détail qu’ils avaient repris ensemble. Luc termine sa note, la pose et ouvre son carnet.\n\nAprès les applaudissements, Joris retrouve Dounia près de la grande table. Elle lit la question que vient de lui tendre une personne du public et désigne l’autre chaise à Joris. Joris présente à Luc une personne qui tient son livre à la main. Samir est venu et a déjà retrouvé une connaissance au fond du foyer. Joris veut encore poser sa question à Dounia. Au moment où elle se tourne vers lui, il retrouve l’impression d’être loin de ce qui se passe. Il attend qu’une personne finisse de parler, puis demande à Dounia comment elle a choisi le dernier mot.\n\nDounia lui dit qu’elle avait essayé trois fins. Elle a gardé la seule qui lui donnait envie de relire la première page. Joris a envie de lui dire ce que sa pause au début du texte a changé pour lui. Il se donne le temps de finir la phrase. Il hésite ensuite à demander comment elle travaille d’habitude. La fatigue a pris assez de place pour qu’il ait du mal à écouter la réponse, et la bibliothécaire revient vers la table.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une activité accomplie peut rester coûteuse",
+          "text": "La gêne liée à la dépersonnalisation ou à la déréalisation peut varier au cours d’une même activité. Ce que la personne arrive à faire et l’effort qu’elle doit y consacrer renseignent sur deux aspects de sa vie. Joris mène le passage de Luc avec la consigne préparée et rejoint les auteurs. Au foyer, la distance qu’il éprouve lui demande de choisir à quoi il peut encore prêter attention. Son récit de la soirée peut inclure ce qu’il a accompli et le moment où rester plus longtemps lui aurait coûté davantage."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Laisser une question pour une autre fois",
+          "text": "Au début du spectacle, la préparation l’aide à passer d’un texte à l’autre et à prendre sa part du travail avec Ava. Au foyer, il doit suivre plusieurs échanges et revenir à ce qu’il voulait dire. Il a pu obtenir la réponse qui l’intéressait. Il réalise que pour entendre une réponse plus longue, il lui faudrait une disponibilité qu’il sent diminuer. La difficulté se voit surtout dans la question qu’il garde pour une autre occasion. Dounia, qui a entendu sa première question, peut comprendre autrement son départ."
+        },
+        {
+          "role": "strategies",
+          "heading": "Clore l’échange et garder la suite ouverte",
+          "text": "Joris peut remercier Dounia pour ce qu’elle vient de lui dire et proposer de reprendre la conversation un autre jour. L’accord avec la bibliothécaire donne à chacun la possibilité de poursuivre l’accueil. Le départ a une signification que Joris peut dire dans ses mots, s’il le souhaite. Il a déjà prévu un retour avec sa psychiatre. Il pourra y décrire l’intérêt de la rencontre, la gêne survenue au milieu et les conséquences sur le reste de sa soirée. Ces éléments permettent de discuter d’un choix situé dans sa vie."
+        }
+      ],
+      "ending_title": "La première question a trouvé sa réponse",
+      "ending": "Joris remercie Dounia, puis tend son programme à Luc, qui signe à côté de son nom. La bibliothécaire prend la chaise libre pour accueillir les dernières personnes. Avant de rentrer, Joris dit à Samir qu’il a eu le temps de poser sa question et qu’il lui racontera la réponse au studio. Il glisse le programme avec la feuille jaune dans sa poche. Il veut les garder pour reparler de la soirée, chacun pour ce qu’il lui rappelle.",
+      "mirror": [
+        "Si Samir retrouve Joris près de la porte, il peut lui demander ce qu’il a aimé dans la rencontre et lui proposer d’en reparler au studio. « Je vais rester encore un peu. Ça me fera plaisir de savoir ce que Dounia t’a répondu. » Il peut entendre que la soirée a eu du sens et qu’elle lui a coûté de l’énergie. La bibliothécaire et les auteurs restent libres de prolonger leur échange."
+      ],
+      "sources": [
+        "oms-cddr",
+        "apa-dissociation",
+        "mayo-depersonnalisation"
+      ],
+      "continuity": {
+        "choice": "Joris tient son passage, commence l’accueil des auteurs, échange avec Dounia puis rentre à l’heure qu’il choisit.",
+        "next": "Il reprend la soirée en consultation, retrouve les deux auteurs dans le bilan du projet et choisit ce qu’il veut faire ensuite."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "joris-ce-quil-veut-faire-ensuite",
+      "title": "Faire le bilan et choisir la suite",
+      "description": "Joris parle du coût de la soirée en consultation et retrouve les auteurs pour un bilan. Une nouvelle idée prolonge ce qu’il a aimé faire.",
+      "context": "Dans les jours qui suivent la lecture, en consultation puis à la bibliothèque",
+      "topics": [
+        "Bilan du retentissement",
+        "Objectifs de soin",
+        "Projet créatif"
+      ],
+      "clinical_focus": "Évaluer le retentissement sur la durée",
+      "clinical_intro": "La lecture a eu lieu, et Joris a accueilli Dounia et Luc. Les moments de détachement reviennent encore et sa psychiatre lui demande ce qu’il aimerait changer dans son quotidien. En reprenant ce qui a demandé de l’effort et ce qui lui a donné envie de poursuivre, Joris fait une place à son suivi et à un autre projet de lumière.",
+      "opening": "Joris pose sur la table de la consultation le programme signé par Luc. Il voulait apporter la feuille jaune aussi. Ava lui a demandé de la lui passer pour le bilan à la bibliothèque. Elle souhaite reprendre avec les auteurs le moment où elle a ouvert les portes. Joris arrive à parler de la note et du carnet sans son document de travail. Il explique surtout ce qui s’est passé ensuite au foyer. Il a pu écouter Dounia et lui répondre. Il se rappelle qu’en rentrant, il avait attendu le lendemain pour raconter à Samir ce qu’elle lui avait dit. Il était content d’avoir posé sa question et avait besoin que la journée s’arrête.\n\nDepuis, le détachement lui a encore pris du temps chez lui. Lors d’un autre dîner, il a perdu une partie du récit de Samir sur l’artiste des estampes et a demandé à reprendre l’histoire plus tard. La psychiatre revient avec lui sur ce qui lui a permis de choisir pendant la soirée et sur ce qui reste pénible. Joris voudrait pouvoir suivre plus facilement un échange ordinaire, même les semaines où il n’a rien de particulier à préparer. Ils conviennent de poursuivre le travail à partir de cette difficulté et fixent un rendez-vous.\n\nÀ la bibliothèque, Luc revient sur le temps qu’il a eu pour passer de la note au carnet. Dounia avait remarqué qu’elle pouvait attendre avant le premier mot. Joris leur demande ce qu’ils garderaient si les textes étaient lus à nouveau. En écoutant leurs réponses, il repense à l’estampe de l’enveloppe. Il aimerait voir ce que donne un petit dessin près d’une page lue à voix haute.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Suivre ce que le trouble change dans la vie",
+          "text": "L’évolution du trouble dépersonnalisation-déréalisation s’apprécie dans la durée et peut varier selon les personnes. La gêne peut revenir malgré un projet mené à terme. En consultation, la personne et le professionnel peuvent reprendre à la fois le vécu de détachement, les effets sur la vie et ce que la personne voudrait retrouver. Joris parle d’un projet qui a abouti et de conversations qu’il a encore du mal à suivre. Le bilan lui donne le temps de s’arrêter sur un dîner ordinaire, où l’effort mérite lui aussi d’être entendu."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce que racontent le spectacle et le dîner",
+          "text": "Au foyer, Joris pouvait choisir le moment de sa question et la personne à qui il la posait. Au studio, l’histoire de Samir suivait son propre cours et Joris en a manqué une partie. Il a demandé de la reprendre et garde pourtant le regret de ne pas avoir suivi son ami du premier coup. Ce coût se révèle au fil des activités qui l’intéressent, y compris des plus familières. L’avis de Luc et de Dounia porte sur le travail de lumière. Joris garde sa propre lecture de l’effort qu’il a fourni."
+        },
+        {
+          "role": "strategies",
+          "heading": "Garder un objectif au suivi et un projet à soi",
+          "text": "Les choix d’accompagnement se discutent avec le professionnel, en tenant compte de ce que la personne souhaite et de ce qui la gêne. Joris propose de reprendre les échanges où il perd le fil, avec des exemples assez simples pour qu’ils puissent en parler. Le projet de dessin appartient à un autre registre. Il peut demander à Ava si elle veut le regarder avec lui, puis appeler l’artiste dont Samir lui a parlé. Il retrouve ainsi une question de métier qu’il a envie d’explorer à son rythme."
+        }
+      ],
+      "ending_title": "Une place pour le dessin près du texte",
+      "ending": "Joris range le programme signé avec la feuille jaune qu’Ava lui rend. Il remercie les auteurs pour leurs remarques et note ce qu’il voudrait reprendre un jour avec eux. En rentrant, il demande à Samir s’il peut lui présenter l’artiste des estampes. Samir propose de lui écrire ensemble le lendemain. Joris ouvre un carnet et dessine la table qu’il aimerait éclairer, avec assez de place pour la page et l’image.",
+      "mirror": [
+        "Samir peut reprendre l’histoire de l’artiste quand tous les deux ont du temps et demander à Joris ce qu’il aimerait lui montrer. « On peut lui parler de ta table demain, si tu veux. Tu pensais à quel dessin ? » S’il lui parle du dîner où il a perdu le fil, Samir peut lui dire où ils s’étaient arrêtés. Leur projet de rencontre reste une idée qu’ils peuvent suivre ensemble."
+      ],
+      "sources": [
+        "oms-cddr",
+        "apa-dissociation",
+        "mayo-depersonnalisation"
+      ],
+      "continuity": {
+        "choice": "Joris et sa psychiatre poursuivent le suivi autour des échanges ordinaires. Le bilan de la lecture est fait et Joris ouvre un nouveau projet.",
+        "next": "La lecture et l’accueil sont achevés. Joris conserve un rendez-vous et s’intéresse à une collaboration autour d’un texte et d’une estampe."
+      }
+    }
+  ]
+}

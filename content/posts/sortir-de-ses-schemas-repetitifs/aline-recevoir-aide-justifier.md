@@ -98,5 +98,3 @@ Recevoir de l’aide sans se justifier permet de distinguer les informations uti
 Aline ne devient pas moins capable parce qu’elle accepte un trajet. Elle découvre que l’amitié peut aussi exister lorsqu’elle n’en organise pas chaque geste. L’embarras demeure un moment, sans décider entièrement de sa réponse. Elle peut laisser l’autre contribuer et choisir plus tard les gestes qu’elle souhaite offrir à son tour.
 
 Si recevoir du soutien provoque une honte persistante, des dettes épuisantes ou un refus de toute aide nécessaire, un psychologue peut vous accompagner dans cette exploration. Selon la situation, un appui social ou pratique peut également rendre les propositions plus accessibles. Vous pouvez chercher une aide dont les conditions sont explicites et dont la portée respecte votre vie.
-
-Sources : [Margaret Clark, suivi des contributions dans deux cadres relationnels](https://pubmed.ncbi.nlm.nih.gov/6491869/) ; [Clark et Mills, étude sur les relations d’échange et les relations attentives aux besoins](https://clarkrelationshiplab.yale.edu/sites/default/files/files/Interpersonal%20attraction%20in%20exchance%20and%20commual%20relationships.pdf).

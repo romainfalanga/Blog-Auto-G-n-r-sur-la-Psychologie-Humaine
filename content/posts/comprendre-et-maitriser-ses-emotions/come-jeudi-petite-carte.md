@@ -32,7 +32,11 @@ Il demande à Sana quand elle finit le jeudi. Elle lui répond avec le planning 
 
 ## Le groupe compte dans l’histoire
 
-Le jeu en ligne peut être un lieu de rencontre et de coopération. Dans le guide de l’OMS, la coordination entre joueurs fait partie du contexte qui peut entretenir une pratique intensive. Elle ne suffit pas à établir un trouble et le lien entre les joueurs peut avoir de la valeur. Côme veut entendre Sana raconter le raccourci du moulin, autant qu’il veut essayer ce raccourci. Il sait aussi que, lorsqu’il tient à jouer avec le groupe, il accepte parfois un horaire dont il connaît déjà le coût le lendemain.
+Le jeu en ligne peut être un lieu de rencontre et de coopération. Dans le guide de l’OMS, la coordination entre joueurs fait partie du contexte qui peut entretenir une pratique intensive. Elle ne suffit pas à établir un trouble et le lien entre les joueurs peut avoir de la valeur.
+
+## Comment cette difficulté se manifeste
+
+Côme veut entendre Sana raconter le raccourci du moulin, autant qu’il veut essayer ce raccourci. Il sait aussi que, lorsqu’il tient à jouer avec le groupe, il accepte parfois un horaire dont il connaît déjà le coût le lendemain.
 
 Dimanche soir, Côme regrettera de manquer la suite. Sana connaît déjà ce décalage : depuis quelque temps, son service se termine trop tard pour les rejoindre dès le début. En demandant un autre moment, il découvre une question qui les concerne tous les deux.
 
@@ -45,8 +49,3 @@ La petite carte répond à cette soirée précise. Elle ne préjuge pas de ce qu
 ## Le moulin après le dîner
 
 Jeudi, Sana leur montre un sentier si près de l’eau que Florian passe devant trois fois. Côme rit quand il les voit ressortir derrière le moulin. Au moment de quitter, il aimerait revoir ce qu’il a raté dimanche. Florian dit qu’il part pour le cinéma ; Sana lui demande de lui raconter le film plus tard. Côme reste dans la conversation le temps de leur dire où trouver les images de la partie, puis se déconnecte. Il n’a toujours pas vu la suite du scénario. Il lui reste une soirée, et la voix de Sana qui leur criait de faire demi-tour.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Trouble du jeu vidéo : questions et réponses](https://www.who.int/fr/news-room/questions-and-answers/item/gaming-disorder)

@@ -33,7 +33,11 @@ Le devis lui demande une réponse sur une réparation déterminée. Benoît lui 
 
 Dans l’anxiété généralisée, les inquiétudes peuvent s’étendre à plusieurs domaines du quotidien et se poursuivre quand la situation qui les a suscitées a changé. Antonin pense à une dépense concrète, puis à la santé de son frère et à la réouverture du local. Il a des raisons distinctes de s’intéresser à chacun de ces sujets. Ce qui lui pèse ici, c’est la place qu’ils prennent tous au même moment, jusque dans la réponse à une invitation simple.
 
-Une dépense de vélo mérite d’être examinée selon ses moyens et le service proposé. Antonin peut demander au réparateur de préciser ce qui entre dans le devis. Sa conversation avec Benoît concerne aussi un autre choix, leur prochaine soirée. Ces éléments peuvent être traités avec des personnes différentes. Le médecin peut, lui, entendre comment le passage d’un sujet à l’autre joue sur sa concentration ou le temps qu’il passe à décider.
+Une dépense de vélo mérite d’être examinée selon ses moyens et le service proposé.
+
+## Comment cette difficulté se manifeste
+
+Antonin peut demander au réparateur de préciser ce qui entre dans le devis. Sa conversation avec Benoît concerne aussi un autre choix, leur prochaine soirée. Ces éléments peuvent être traités avec des personnes différentes. Le médecin peut, lui, entendre comment le passage d’un sujet à l’autre joue sur sa concentration ou le temps qu’il passe à décider.
 
 ## Répondre à l’invitation avec l’information disponible
 
@@ -44,8 +48,3 @@ Si Antonin veut reparler de ses inquiétudes en consultation, il peut décrire u
 ## Deux places sur la ligne de bus
 
 Benoît ramasse la craie. Antonin lui dit qu’il peut le retrouver à l’arrêt. Au réparateur, il demande un délai jusqu’au lendemain pour donner sa réponse. Il garde le prix écrit dans sa poche au lieu de chercher ce qu’un autre atelier aurait facturé pour une panne différente. Au café, il se rappelle enfin pourquoi la craie lui paraît si petite. Son père la cassait en deux pour que chacun en garde une moitié. Benoît dit qu’il s’en souvient aussi.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

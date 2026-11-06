@@ -33,6 +33,8 @@ André se rapproche de l’entrée. Elle lève une main pour qu’il reste où i
 
 Un bruit qui rappelle un événement traumatique peut provoquer un sursaut intense ou un besoin pressant de s’éloigner. Dans les descriptions cliniques de la CIM-11, le sentiment de menace persistante fait partie de ce que les professionnels examinent dans le trouble de stress post-traumatique, identifié par le code 6B40. Ils recherchent aussi des reviviscences, où l’événement semble se reproduire dans le présent, et un évitement des rappels du traumatisme. Ils examinent les effets de ces réactions sur le travail, les relations ou d’autres activités. L’évaluation tient compte de l’ensemble de l’expérience et de son évolution.
 
+## Comment cette difficulté se manifeste
+
 Selma a entendu un bruit, puis son attention s’est portée sur la porte. Ce qu’elle pourra dire à sa thérapeute, si elle souhaite revenir sur ce moment, tient déjà en quelques observations. Elle peut parler de ce qu’elle faisait juste avant, de ce qu’elle a ressenti et du temps qu’il lui a fallu pour retrouver ses repères. Ces mots peuvent servir même si elle choisit de garder le récit de l’accident pour un autre moment.
 
 ## Finir une matinée comme elle le souhaite
@@ -44,8 +46,3 @@ La serre a aussi ses propres décisions. André peut garder ses graines et reven
 ## Le montant vert restera dans le dessin
 
 Ils sortent par l’allée. André lui montre de loin le couvercle posé à plat sur la dalle. Selma ramasse les deux sachets qui ont glissé sur le seuil et lui rend celui des radis. Sur son papier, elle entoure le montant vert pour le retrouver quand elle parlera au vitrier. La mesure attendra. Au portail, André lui demande où elle achète son fromage. Elle lui indique la boutique au coin de la place et passe un doigt sur les dents de la clé avant de l’enfoncer dans la serrure.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

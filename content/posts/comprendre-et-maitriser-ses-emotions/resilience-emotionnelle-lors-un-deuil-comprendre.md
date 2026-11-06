@@ -11,6 +11,10 @@ personnage: "Patrick"
 sujet: "résilience émotionnelle"
 contexte: "lors d'un deuil"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/12416919/
+- https://pubmed.ncbi.nlm.nih.gov/10848151/
+- https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/
 ---
 
 Patrick cherche une pince dans son garage. Un écrou tourne avec la vis qu’il essaie de retirer. La première qu’il trouve est celle que Marcel lui a offerte le jour où il est passé chef d’équipe. Son père avait entouré le manche de ruban pour que la pince ne glisse pas. Il en reste un bout sous l’articulation, noir à force d’avoir pris la poussière et la graisse.
@@ -56,8 +60,7 @@ Un repas, une promenade ou un échange peut lui offrir un moment différent. Si 
 Patrick pose la pince sur la nappe. « C’est lui qui avait mis ça. Il trouvait les manches trop lisses. » Catherine lui demande si Marcel l’avait fait pour tous ses outils. Patrick ne sait plus. Il s’assied et lui montre comment le ruban avait été enroulé.
 
 Le soir, il appelle Julien pour lui demander s’il se souvient de la pince. Son fils confond d’abord avec celle de la caisse verte. Patrick le laisse chercher. Quand Julien retrouve le bon souvenir, il raconte un détail dont Patrick n’avait jamais entendu parler : Marcel avait acheté le ruban avec lui.
+
 ---
 
 Une personne endeuillée peut retrouver un moment de compagnie et éprouver de nouveau le manque. Si la souffrance devient trop lourde à porter, il est possible de chercher un soutien adapté auprès d’un professionnel.
-
-Sources : [Bonanno et collègues, trajectoires après un décès, 2002](https://pubmed.ncbi.nlm.nih.gov/12416919/), [Stroebe et Schut, modèle du double processus de deuil, 1999](https://pubmed.ncbi.nlm.nih.gov/10848151/), [NHS, deuil et perte](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/).

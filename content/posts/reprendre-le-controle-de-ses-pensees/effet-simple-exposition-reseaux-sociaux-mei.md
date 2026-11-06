@@ -11,6 +11,8 @@ personnage: "Mei"
 sujet: "effet de simple exposition"
 contexte: "sur les réseaux sociaux"
 draft: false
+editorial_sources:
+- https://isr.umich.edu/wp-content/uploads/historicPublications/Theattitudinaleffects_2360_.PDF
 ---
 
 Il lui manque un pli dans l’aile gauche. Mei essaie de retrouver une référence sur son téléphone et tombe sur la publicité du logiciel. La main du démonstrateur n’est pas encore entrée dans l’image qu’elle sait où elle va cliquer. En deux gestes, le fond disparaît. La première fois, Mei avait trouvé que l’exemple ne disait rien sur le travail qu’elle faisait. À présent, elle reconnaît le nom au point de le chercher spontanément quand elle songe à changer d’outil.
@@ -68,5 +70,3 @@ Elle reprend le trait sous l’aile, plus épais à un endroit qu’à l’autre
 Comprendre l'effet de simple exposition est une étape majeure pour quiconque souhaite protéger sa santé mentale à l'ère du numérique. Ce biais nous montre que notre cerveau est naturellement attiré par ce qui lui est familier, mais que cette préférence n'est pas toujours synonyme de vérité ou de bien-être. En identifiant la répétition, nous retrouvons notre liberté de choix.
 
 Si vous ressentez que l'anxiété liée aux réseaux sociaux ou la comparaison permanente aux autres deviennent envahissantes, vous pouvez consulter un psychologue ou un thérapeute. Un accompagnement professionnel peut vous aider à déconstruire ces mécanismes et à renforcer votre estime de soi face aux pressions extérieures.
-
-Sources : [Zajonc, 1968, article original](https://isr.umich.edu/wp-content/uploads/historicPublications/Theattitudinaleffects_2360_.PDF).

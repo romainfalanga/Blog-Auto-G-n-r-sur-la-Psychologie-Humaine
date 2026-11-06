@@ -32,7 +32,11 @@ Elle lui demande si elle doit prendre la suite au premier silence pour assurer l
 
 ## Une pause ne dit pas à elle seule qui parle ensuite
 
-Un silence pendant un blocage de parole ne signifie pas que la personne a terminé ni qu’elle souhaite être relayée. Le CDDR de l’OMS et le portail de l’ASHA décrivent des blocages qui peuvent être silencieux et varier avec la situation. Lucile peut demander ce qu’Owen préférerait si le temps devient court, plutôt que d’assimiler chaque pause à une difficulté qu’elle doit résoudre. Owen peut souhaiter garder sa phrase jusqu’au bout et, un autre jour, passer la main plus tôt. La carte retournée convient à cette présentation parce qu’ils en décident ensemble. Elle ne promet ni que la parole sera fluide, ni que le passage sera facile à chronométrer.
+Un silence pendant un blocage de parole ne signifie pas que la personne a terminé ni qu’elle souhaite être relayée. Le CDDR de l’OMS et le portail de l’ASHA décrivent des blocages qui peuvent être silencieux et varier avec la situation.
+
+## Comment cette difficulté se manifeste
+
+Lucile peut demander ce qu’Owen préférerait si le temps devient court, plutôt que d’assimiler chaque pause à une difficulté qu’elle doit résoudre. Owen peut souhaiter garder sa phrase jusqu’au bout et, un autre jour, passer la main plus tôt. La carte retournée convient à cette présentation parce qu’ils en décident ensemble. Elle ne promet ni que la parole sera fluide, ni que le passage sera facile à chronométrer.
 
 ## Réduire le texte pour tout le monde
 
@@ -41,9 +45,3 @@ Alma a une contrainte commune aux clubs. Lucile peut raccourcir l’accueil et g
 ## Le dos blanc de la carte
 
 Lucile lit son accueil raccourci, puis s’arrête sans expliquer tout le film. Owen lève la carte, la repose du même côté et lui dit : « Blanc seulement si je te passe la main. » Ils essaient la transition une fois ; Owen utilise le signal cette fois pour que Nassim puisse tester le départ du film. Lucile garde sa feuille entière dans sa poche. Alma annonce qu’elle fera le rappel sur les téléphones avant l’introduction. Owen demande qu’on laisse allumée la petite lampe de la table. Il pourra lire la carte ou ne pas la toucher. Quand les premières chaises raclent le sol dans le couloir, il cherche où poser son verre sans mouiller la carte.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal, bégaiement, bredouillement et fluence de la parole](https://www.asha.org/practice-portal/clinical-topics/fluency-disorders/)
-- [Stuttering Foundation, six conseils pour parler avec une personne qui bégaie](https://www.stutteringhelp.org/6-tips-speaking-someone-who-stutters)

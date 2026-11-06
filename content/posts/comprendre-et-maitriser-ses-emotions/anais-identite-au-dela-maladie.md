@@ -100,5 +100,3 @@ L'identité au-delà de la maladie ne demande pas de cacher les difficultés ou 
 Un rôle limité, un intérêt intact ou une conversation choisie peuvent soutenir cette diversité. Leur existence dépend aussi de conditions accessibles et de relations respectueuses. La reconstruction ne repose pas uniquement sur une volonté individuelle de voir les choses autrement.
 
 Si la maladie modifie douloureusement votre image de vous-même, un psychologue ou un autre professionnel de votre suivi peut vous accompagner. Les pertes méritent d'être entendues, tout comme les liens et les possibilités qui restent à explorer. Vous n'avez pas à produire un récit positif pour recevoir ce soutien.
-
-Sources : [Kathy Charmaz, maladie chronique et image de soi](https://pubmed.ncbi.nlm.nih.gov/10261981/) ; [OMS, handicap, environnement et participation](https://www.who.int/health-topics/disability).

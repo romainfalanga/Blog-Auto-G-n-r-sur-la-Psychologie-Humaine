@@ -32,7 +32,11 @@ Samira ramène les deux textes sur la même chaise. Maya dit qu’elle a encore 
 
 ## Faire place à ce qui donne envie de jouer
 
-L’autonomie consiste aussi à choisir une activité d’après ce qu’on y trouve de plaisant et d’important. Les recommandations de l’EACD invitent à tenir compte du point de vue du jeune et de ses forces lorsqu’on fixe les objectifs d’un accompagnement. Augustin a trouvé un agencement des clés qui lui permet d’essayer le monologue. Il sait maintenant ce qu’il aime de chaque scène et ce que chacune lui demande. Choisir le voisin peut laisser une vraie déception : il aimait parler à cette clé. Le choix lui donne en même temps le geste qu’il voulait depuis le début et un silence que trois personnes fabriquent ensemble. La difficulté motrice fait partie de l’arbitrage ; elle n’a pas écrit sa préférence.
+L’autonomie consiste aussi à choisir une activité d’après ce qu’on y trouve de plaisant et d’important. Les recommandations de l’EACD invitent à tenir compte du point de vue du jeune et de ses forces lorsqu’on fixe les objectifs d’un accompagnement.
+
+## Comment cette difficulté se manifeste
+
+Augustin a trouvé un agencement des clés qui lui permet d’essayer le monologue. Il sait maintenant ce qu’il aime de chaque scène et ce que chacune lui demande. Choisir le voisin peut laisser une vraie déception : il aimait parler à cette clé. Le choix lui donne en même temps le geste qu’il voulait depuis le début et un silence que trois personnes fabriquent ensemble. La difficulté motrice fait partie de l’arbitrage ; elle n’a pas écrit sa préférence.
 
 ## Prévoir une autre façon de faire, à la demande
 
@@ -41,8 +45,3 @@ La troupe peut maintenant décider de ce qui se passe si le disque se décale ou
 ## Un mot dans la marge du voisin
 
 Augustin et Maya essaient « Montrez-leur » : c’est le signal qu’il peut lui donner s’il veut qu’elle lève le disque. La première fois, elle cherche une place pour les clés. Elle les pose dans le vide qu’Augustin avait demandé au début et recommence. Maxence attend toujours la fin de la réplique sur le réveil. Samira inscrit Maya au concierge et Augustin au voisin. Augustin prend son texte. Il demande à Maya de garder le silence avant « égaré » à sa façon à elle ; il voudrait voir ce que ça donne depuis la coulisse.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Blank et al., recommandations cliniques internationales de l’EACD sur le trouble du développement de la coordination (2019)](https://onlinelibrary.wiley.com/doi/full/10.1111/dmcn.14132)

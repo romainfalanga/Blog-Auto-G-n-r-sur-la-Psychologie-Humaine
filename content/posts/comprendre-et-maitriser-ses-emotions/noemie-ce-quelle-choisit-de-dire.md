@@ -32,7 +32,9 @@ Trois appels arrivent pendant qu’elle cherche. Il y a une question sur l’hor
 
 Le TOC peut peser sur une journée de travail même si les collègues voient surtout le résultat. Noémie s’aperçoit qu’elle a consacré du temps à reprendre des vérifications en plus des demandes ordinaires de l’équipe. Elle souhaite dire à Aïcha que le diagnostic existe. Elle peut aussi s’en tenir à une description de ce qui l’aiderait à finir la recherche. Le détail d’une obsession, des séances ou de l’accord avec Maud reste une information personnelle qu’elle est libre de garder.
 
-Aïcha peut prendre au sérieux la demande et dire de quelles informations elle a besoin pour répartir le travail. Elles peuvent distinguer une note pratique accessible à l’équipe d’une confidence confiée à Aïcha. Si un autre interlocuteur doit participer à une décision, Noémie peut demander à en parler avant toute transmission. Les besoins du service et le temps dont chacune dispose entrent dans l’organisation. L’accord se construit avec ces contraintes.
+## Une vérification qui fait perdre le fil d’une recherche
+
+Après chaque appel, Noémie retourne au début du document. Elle revient même à une cote qui a déjà été confirmée. La crainte qu’une erreur compromette tout le dossier retient son attention alors qu’elle sait où poursuivre la recherche sur les barques. Quand elle relève la tête, elle ne sait plus quelle photo elle voulait montrer à la classe. Le résultat du travail peut rester exact et lui avoir demandé beaucoup plus de temps.
 
 ## Prévoir qui traite quoi pendant un travail précis
 
@@ -40,11 +42,8 @@ Aïcha a besoin de pouvoir joindre Noémie si une personne signale un problème 
 
 Le plan de soin continue d’être discuté en consultation. Si Noémie veut expliquer à sa clinicienne comment les interruptions compliquent sa journée, elle peut reprendre un exemple précis et ce qu’elles ont pu modifier au bureau. Aïcha n’a pas à décider si une reprise du registre est un rituel ni à en faire un indicateur de progrès. La question des barques doit recevoir une réponse étayée, même si cette réponse reste incomplète.
 
+Aïcha peut préciser les informations dont elle a besoin pour répartir le travail. Elles peuvent distinguer la note pratique accessible à l’équipe d’une confidence faite à Aïcha. Si une autre personne doit intervenir, Noémie peut demander à en parler avant toute transmission.
+
 ## Un créneau défini à deux
 
 Noémie parle de son diagnostic en une phrase et garde les séances pour elle. Aïcha note le moment où elles reprendront les textes et l’adresse à laquelle faire suivre les questions de mise en page. Noémie trouve enfin une photographie où une barque a un chargement visible. Elle écrit à côté du nom de l’élève « une image à regarder ensemble ». En allant chercher la fiche du cliché, Aïcha s’arrête devant le mur du couloir. Une tache sombre apparaît au-dessus de la salle où elles devaient recevoir la classe.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG31, prise en charge du TOC](https://www.nice.org.uk/guidance/cg31/chapter/Recommendations)

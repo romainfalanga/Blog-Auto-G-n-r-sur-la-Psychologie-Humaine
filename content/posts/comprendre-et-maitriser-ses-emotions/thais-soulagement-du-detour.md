@@ -32,7 +32,11 @@ Le bus met plus de temps que prévu. À l’arrivée, l’archiviste a remis les
 
 ## Le soulagement arrive avant les conséquences
 
-Renoncer à un passage qui déclenche une peur intense peut faire retomber la tension rapidement. Ce changement immédiat peut rendre le détour particulièrement attirant quand une situation similaire se présente. Les conséquences du détour arrivent parfois plus tard et sont moins perceptibles sur le moment. Pour Thaïs, le soulagement survient dès l’abri du tram. Le rendez-vous manqué apparaît une fois qu’elle est devant les archives.
+Renoncer à un passage qui déclenche une peur intense peut faire retomber la tension rapidement. Ce changement immédiat peut rendre le détour particulièrement attirant quand une situation similaire se présente. Les conséquences du détour arrivent parfois plus tard et sont moins perceptibles sur le moment.
+
+## Comment cette difficulté se manifeste
+
+Pour Thaïs, le soulagement survient dès l’abri du tram. Le rendez-vous manqué apparaît une fois qu’elle est devant les archives.
 
 Ce fonctionnement s’apprécie dans la durée. Éviter un lieu peut être un choix adapté à la sécurité, à la fatigue ou au programme du jour. Un aménagement de travail peut aussi permettre une participation importante. Dans le suivi d’une phobie, il est possible d’examiner les situations où une personne perd de la marge de décision et celles où elle gagne une façon de participer à une activité qu’elle a choisie.
 
@@ -45,8 +49,3 @@ Pour la carte, elle peut vérifier avec l’archiviste les modalités d’un nou
 ## Reprendre un créneau
 
 Thaïs écrit à l’archiviste pour demander quand elles pourront reprendre le rendez-vous. Elle note les deux titres de documents dans son carnet et garde les cartes postales pour la prochaine fois. Puis elle ouvre une note pour sa consultation et inscrit simplement « le soulagement est arrivé avant que je vérifie l’heure ». Milo lui a répondu qu’il veut voir la drôle de plaque de rue. Elle lui envoie le nom de l’arrêt.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, Phobias](https://www.nhs.uk/mental-health/conditions/phobias/)

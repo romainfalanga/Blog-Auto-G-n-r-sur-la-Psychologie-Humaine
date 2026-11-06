@@ -31,7 +31,11 @@ Maud trouve le crayon sous le carnet. Elle dit qu’elle doit partir la premièr
 
 ## Comprendre ce que l’évitement peut prendre dans une vie
 
-Certaines personnes qui vivent avec un TOC se détournent de situations parce qu’elles s’attendent à une pensée intrusive, à une forte gêne ou au temps que prendraient leurs rituels. Les décisions peuvent finir par restreindre des activités auxquelles elles tiennent. Noémie se souvient d’une promenade qu’elle voulait faire et du moment où elle a envisagé tout le temps du retour au cas où elle voudrait vérifier. La décision de rester lui avait alors semblé plus simple. Elle retrouve maintenant le message de Sarah et le souhait qu’elle avait d’y répondre autrement.
+Certaines personnes qui vivent avec un TOC se détournent de situations parce qu’elles s’attendent à une pensée intrusive, à une forte gêne ou au temps que prendraient leurs rituels. Les décisions peuvent finir par restreindre des activités auxquelles elles tiennent.
+
+## Comment cette difficulté se manifeste
+
+Noémie se souvient d’une promenade qu’elle voulait faire et du moment où elle a envisagé tout le temps du retour au cas où elle voudrait vérifier. La décision de rester lui avait alors semblé plus simple. Elle retrouve maintenant le message de Sarah et le souhait qu’elle avait d’y répondre autrement.
 
 Les raisons de refuser une invitation sont nombreuses. La fatigue, le prix ou l’envie de rester seule peuvent suffire. En consultation, Noémie peut parler des occasions qui lui ont manqué et du rôle que joue le TOC dans certaines de ses décisions. Elle choisit ce qu’elle aimerait retrouver et la place qu’elle souhaite donner à ces objectifs dans son suivi.
 
@@ -44,8 +48,3 @@ Si Noémie change d’avis, elle peut prévenir Sarah. Si elle vient, elle peut 
 ## Elle rejoint Sarah dans la salle
 
 Sarah attend près de l’entrée avec le programme plié en deux. Noémie lui montre l’escalier sur son croquis avant de ranger son carnet. Elles s’assoient au fond. À la première entrée de la clarinette, Noémie reconnaît le passage que Maud reprend à la maison. Elle entend cette fois une réponse des autres instruments. En sortant, elle veut savoir comment Maud repère ce moment. Maud dit qu’elle écoute surtout la contrebasse et propose de la lui faire entendre à la prochaine répétition.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG31, prise en charge du TOC](https://www.nice.org.uk/guidance/cg31/chapter/Recommendations)

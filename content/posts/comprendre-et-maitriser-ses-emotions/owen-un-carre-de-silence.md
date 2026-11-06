@@ -32,7 +32,11 @@ Owen avait défendu ce bruit dès le premier dessin. Il le déplace avec la sour
 
 ## La fluence n’est pas une règle de montage
 
-Le bégaiement modifie parfois le rythme audible d’une phrase sans enlever ce qu’elle dit. Dans les approches de l’ASHA qui accordent une place à la participation, la façon de parler ne suffit pas à juger la réussite d’un échange. Un montage de fiction pose ici une question différente : de quoi le film a-t-il besoin à cet endroit, et qu’accepte la personne enregistrée ? Owen peut laisser entendre le début repris du mot parce qu’il préfère cette prise dans la scène. Il peut aussi couper une pause ailleurs pour avancer dans l’action. Aucune de ces décisions ne démontre qu’il parle mieux ni qu’il accepte que le même enregistrement circule hors du film.
+Le bégaiement modifie parfois le rythme audible d’une phrase sans enlever ce qu’elle dit. Dans les approches de l’ASHA qui accordent une place à la participation, la façon de parler ne suffit pas à juger la réussite d’un échange. Un montage de fiction pose ici une question différente : de quoi le film a-t-il besoin à cet endroit, et qu’accepte la personne enregistrée ?
+
+## Comment cette difficulté se manifeste
+
+Owen peut laisser entendre le début repris du mot parce qu’il préfère cette prise dans la scène. Il peut aussi couper une pause ailleurs pour avancer dans l’action. Aucune de ces décisions ne démontre qu’il parle mieux ni qu’il accepte que le même enregistrement circule hors du film.
 
 ## Écouter avec l’image et le bruit
 
@@ -41,9 +45,3 @@ Nassim a essayé de faire rentrer la voix dans un espace trop court. En redonnan
 ## Le bus après la phrase
 
 Nassim remet la prise 2, puis Owen coupe après « trempait » et laisse le bus partir plus loin. Lucile vérifie sa réplique ; Lina confirme que le bruit arrive maintenant quand le sac a quitté le cadre. Ils exportent une version pour la regarder tous les quatre avec M. Vasseur. Chacun a donné son accord pour cette écoute de travail, dans la salle du club. Nassim range les anciennes prises sans les joindre à la vidéo. Sur le chemin du casier, Owen pense qu’il aurait pu se battre tout l’après-midi pour le départ du bus. Il se demande encore si, avec le nouveau raccord, on reconnaîtra le ruban.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal, bégaiement, bredouillement et fluence de la parole](https://www.asha.org/practice-portal/clinical-topics/fluency-disorders/)
-- [Éduscol, modèles d’autorisation d’enregistrement et d’utilisation de l’image et de la voix](https://eduscol.education.gouv.fr/6231/protection-des-donnees-personnelles-et-assistance)

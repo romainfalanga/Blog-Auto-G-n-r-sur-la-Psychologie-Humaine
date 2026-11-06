@@ -31,7 +31,11 @@ Son médecin ouvre le dossier. Il sait déjà que sa thérapeute la suit pour un
 
 ## Examiner la fatigue et son retentissement
 
-La fatigue, les nuits hachées ou le retrait social peuvent avoir plusieurs explications, même chez une personne qui a déjà reçu un diagnostic. Le trouble de stress post-traumatique complexe peut s’accompagner d’autres difficultés, notamment de symptômes dépressifs. Le médecin peut examiner comment le sommeil a changé, dans quelles circonstances les réveils surviennent et quelles conséquences ils ont sur les journées. Il peut aussi rechercher d’autres causes, selon ce que Meriem lui raconte et ce qu’il observe.
+La fatigue, les nuits hachées ou le retrait social peuvent avoir plusieurs explications, même chez une personne qui a déjà reçu un diagnostic. Le trouble de stress post-traumatique complexe peut s’accompagner d’autres difficultés, notamment de symptômes dépressifs. Le médecin peut examiner comment le sommeil a changé, dans quelles circonstances les réveils surviennent et quelles conséquences ils ont sur les journées.
+
+## Comment cette difficulté se manifeste
+
+Il peut aussi rechercher d’autres causes, selon ce que Meriem lui raconte et ce qu’il observe.
 
 Le fait de ruminer au réveil et l’expérience de revivre quelque chose comme si cela se produisait à nouveau sont deux vécus différents. La distinction aide à décrire une nuit ; elle ne permet pas de s’attribuer un trouble du sommeil, une dépression ou un trouble post-traumatique. Lorsque plusieurs difficultés se présentent ensemble, le NICE invite les professionnels à tenir compte de leur gravité et de leur effet sur la possibilité de suivre un traitement. Meriem n’a pas à arriver avec une explication déjà faite.
 
@@ -44,8 +48,3 @@ La préparation du samedi a une autre échéance. Meriem peut garder le dessin d
 ## Deux lignes à laisser chez le médecin
 
 Le médecin lui pose des questions sur les dernières semaines et lui propose un point de suivi. Meriem accepte qu’il note les heures et ce qu’elles lui coûtent dans la journée. Elle garde la feuille ; elle lui faut un exemple d’impression réduite pour expliquer les contrôles du samedi. En sortant, elle écrit à Ève pour lui demander de compter les enveloppes jeudi. Ève répond qu’elle le fera avant 18 h 30. Ce sera assez tôt pour donner un chiffre à Salomé, qui prépare le bulletin de la maison de quartier. Meriem vérifie une fois le nom inscrit en tête du message, puis range le téléphone.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

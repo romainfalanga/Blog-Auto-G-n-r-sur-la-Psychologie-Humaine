@@ -32,6 +32,8 @@ Brigitte lui envoie une photo du grip qu’elle a promis de lui prêter. Gaspard
 
 Une période plus agréable et le retour d’une préoccupation peuvent faire partie de la même évolution. Gasparde a aimé jouer, a passé du temps avec sa sœur et a ensuite vécu une nuit difficile. L’équipe peut entendre ces moments ensemble. Elle peut lui demander ce que la phrase a réveillé, combien de temps elle a été occupée à la relire et ce qu’elle souhaite retrouver dans ses journées.
 
+## Comment cette difficulté se manifeste
+
 Dans la CIM-11, l’appréciation de l’évolution du trouble délirant demande de regarder la durée et l’ensemble des signes avec la personne. Gasparde choisit d’appeler à partir d’une difficulté qu’elle avait nommée avec Farah. Le contenu d’un message du club peut rester un sujet à part. Le besoin qu’elle exprime concerne le temps que l’inquiétude reprend et la possibilité d’en parler avec quelqu’un qui connaît son suivi.
 
 ## Utiliser le contact qu’on a préparé ensemble
@@ -43,9 +45,3 @@ Brigitte peut choisir une heure pour passer et demander à Gasparde si elle veut
 ## La feuille à portée de main
 
 À l’heure notée sur la feuille, Gasparde appelle le centre. L’accueil lui propose un rappel de Farah dans la matinée et vérifie à quel numéro elle sera joignable. Quand Farah rappelle, Gasparde lui décrit la phrase et lui dit qu’elle a hésité à appeler parce que les autres jours lui avaient fait du bien. Elles conviennent d’avancer leur prochain rendez-vous. Gasparde replie la feuille avant de nettoyer la plaque. Lorsque Brigitte arrive, elle montre le rond qui reste encore. Elle lui demande si elle prend du café. Le grip promis est déjà dans la poche du manteau de Brigitte.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Guide d’intervention mhGAP, version 2.0 : principes de soins et suivi des psychoses](https://www.who.int/publications/i/item/9789241549790)
-- [NSW Health, communiquer avec une personne qui vit une expérience psychotique](https://www.health.nsw.gov.au/mentalhealth/psychosocial/strategies/Pages/communicating-psychosis.aspx)

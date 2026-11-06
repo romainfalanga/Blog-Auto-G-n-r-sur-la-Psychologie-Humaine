@@ -33,6 +33,8 @@ Zéphyr l’avait vu donner un coup de pouce à la fiche et avait pris son dépa
 
 Un échange interrompu laisse parfois à chacun une explication qu’il n’a jamais pu vérifier auprès de l’autre. Loïc savait déjà qu’il s’était trompé de boîte lors du premier essai à deux. Il croit avoir recommencé. Zéphyr, lui, a entendu une plainte sur le temps d’attente et l’a prise pour un avis sur sa capacité à enseigner. La plainte existe : Loïc a déplacé un cours et a attendu. Elle peut être entendue sans qu’on lui prête le reste.
 
+## Comment cette difficulté se manifeste
+
 Quand la méfiance ou le retrait pèsent durablement dans les relations, le coût se voit aussi dans ces petits rendez-vous qu’on ne reprend plus. Le trouble schizotypique peut éclairer une partie de la difficulté de Zéphyr, dont le suivi continue. Les raisons de Loïc lui appartiennent et méritent d’être entendues comme celles de n’importe quel participant.
 
 ## Une réponse qu’on pourra tenir
@@ -44,8 +46,3 @@ Un suivi psychologique peut aider à retravailler des échanges qui restent pén
 ## Laisser le vélo contre la grille
 
 Zéphyr dit à Loïc qu’il n’a pas pris la mauvaise pièce et qu’il regrette de l’avoir laissé attendre sans consigne. Loïc pose enfin son vélo contre le mur et prend le bout du banc. Ce qui l’intéresse encore, c’est d’essayer la rotation lui-même, pas d’assister à une deuxième explication complète. Il veut bien recevoir la date quand elle sera fixée, quitte à dire non. Zéphyr note le geste dans la marge de sa fiche : « Un tour par personne. » Loïc le voit écrire, puis se lève : il veut encore son dépliant avant de repartir. Zéphyr lui indique le côté du comptoir où on l’a rangé.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Mayo Clinic, schizotypie : évaluation, psychothérapies et accompagnement](https://www.mayoclinic.org/diseases-conditions/schizotypal-personality-disorder/diagnosis-treatment/drc-20353924)

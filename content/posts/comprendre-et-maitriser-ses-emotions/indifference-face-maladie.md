@@ -56,6 +56,7 @@ Si l'indifférence s'accompagne d'un épuisement profond, d'un sentiment d'ineff
 À la consultation suivante, Priya arrive au même moment où elle voudrait déjà proposer une suite. Elle laisse finir la phrase qu’elle allait interrompre. Une information sur les heures de travail change le créneau qu’elle peut proposer.
 
 À midi, elle demande à la secrétaire de lui indiquer quels rendez-vous de la semaine peuvent être espacés. La journée reste chargée. Lorsqu’elle reprend le dossier de Claire, elle vérifie avec elle comment sera organisé le retour avant de terminer l’appel.
+
 ---
 
 Le calme peut être utile au soin. Il devient parfois difficile de savoir si l’on a laissé assez de place à une information importante. La charge, l’organisation du travail et le soutien de l’équipe méritent d’être examinés. Si cette difficulté pèse durablement, un médecin ou un psychologue peut proposer un appui.

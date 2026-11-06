@@ -31,9 +31,15 @@ Inès redescend avec une photo du canal prise depuis le bout de la plateforme. E
 
 ## Apprécier la peur dans son contexte
 
-Devant un chemin fermé après la chute d’un arbre, respecter la barrière est une décision de sécurité. Sur une plateforme en service, Thaïs éprouve une peur très forte à la vue de la hauteur. Ce contraste donne des éléments pour comprendre ce qu’elle vit, parce qu’elle connaît depuis longtemps cette réaction dans plusieurs lieux présentant la même caractéristique. Une situation autorisée peut encore comporter des règles à suivre. L’intensité de la peur ne donne à elle seule ni une estimation du risque, ni l’explication de cette peur.
+Devant un chemin fermé après la chute d’un arbre, respecter la barrière est une décision de sécurité. Sur une plateforme en service, Thaïs éprouve une peur très forte à la vue de la hauteur. Ce contraste donne des éléments pour comprendre ce qu’elle vit, parce qu’elle connaît depuis longtemps cette réaction dans plusieurs lieux présentant la même caractéristique.
+
+Une situation autorisée peut encore comporter des règles à suivre. L’intensité de la peur ne donne à elle seule ni une estimation du risque, ni l’explication de cette peur.
 
 Dans une évaluation clinique, le professionnel tient compte des conditions concrètes et de la façon dont la peur, l’évitement ou l’effort se répètent. Des signes physiques comme les tremblements ou les palpitations peuvent accompagner la peur. Leur présence, à elle seule, ne suffit pas à définir une phobie spécifique.
+
+## La peur sur la première marche de la plateforme
+
+Thaïs suit le chemin balisé avec Inès et parle des noms recueillis. Sur la première marche de la plateforme ouverte, elle aperçoit l’eau à travers le garde-corps. Son ventre se serre et sa voix porte moins. Son pied est immobile, et elle l’imagine déjà glisser. Elle attend en bas et remarque ensuite un reflet qui gêne la lecture de la borne sur la photo d’Inès.
 
 ## Garder la sécurité et le travail dans leur rôle
 
@@ -44,8 +50,3 @@ Thaïs peut également garder pour une consultation la question de savoir ce qui
 ## La borne sur deux photos
 
 Thaïs demande à Samir de vérifier de quel côté se trouve le numéro. Inès prend une deuxième photo. En rapprochant les deux images, Thaïs se rend compte que les chiffres correspondent à une ancienne feuille du cadastre. Elle note le lien avec le plan et envoie le renseignement au groupe. Avant de partir, elle demande à Samir de discuter des rôles au calme, au bureau, avec le tracé du repérage sous les yeux.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, Phobias](https://www.nhs.uk/mental-health/conditions/phobias/)

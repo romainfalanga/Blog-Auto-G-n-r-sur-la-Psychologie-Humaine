@@ -33,6 +33,8 @@ Ilyès s’approche de la grande table. C’est vrai qu’on verrait de loin les
 
 Pour évaluer un aménagement, il faut regarder ce que la personne pourra y faire quand le lieu sera réellement utilisé. Une grande table laisse de la place aux pages, mais les passages autour comptent aussi pour Irène. Le déplacement vers le hall rapprocherait son poste d’une file qui se déplace. Après le heurt, le duo avait retrouvé une table où les allées de service restaient à distance et où chacun savait où poser ses affaires. Le changement mérite une nouvelle discussion.
 
+## Comment cette difficulté se manifeste
+
 Irène n’a pas besoin de reproduire ce qui s’est passé près du comptoir pour faire prendre sa demande au sérieux. Mylène peut examiner avec elle les conditions d’accueil, garder le relais convenu en cas de douleur et choisir un endroit qui permette au duo de travailler. Cette décision d’organisation ne répond pas à la place de l’équipe pédiatrique à une question clinique.
 
 ## Régler l’attente avec les visiteurs
@@ -44,9 +46,3 @@ Pour ceux qui ne peuvent pas rester, Irène et Ilyès peuvent laisser au comptoi
 ## Le ticket donne une heure
 
 Irène propose deux horaires à Mylène. Ilyès lui demande s’ils peuvent montrer les deux flèches au comptoir, comme pour annoncer une ligne de métro. Il sort la copie sombre de la pochette du livre. Irène accepte qu’on en fasse quelques exemplaires pour l’accueil. Mylène organise deux petits groupes dans la salle du conte et écrit les heures sur les signets. Une famille ne peut pas rester pour le second horaire ; elle prend un plan et repart. Irène aurait aimé lui montrer la fenêtre. Elle reprend sa trousse et s’installe dans la salle avec Ilyès. On frappe : le premier groupe attend derrière la porte.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Great Ormond Street Hospital for Children (NHS) — Stereotypies: repetitive movements or sounds (2026)](https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/stereotypies-repetitive-movements-or-sounds/)
-- [MedlinePlus (US National Library of Medicine) — Stereotypic movement disorder (2026)](https://medlineplus.gov/ency/article/001548.htm)

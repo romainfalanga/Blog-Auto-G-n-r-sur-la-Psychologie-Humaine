@@ -94,5 +94,3 @@ Rendre visible la charge d’organisation consiste à décrire les étapes, les 
 Vincent quitte la logique du dossier conservé dans une seule tête. Avec Cédric, il garde un repère commun et un partage explicite des décisions. Le système reste modeste et révisable. Son intérêt se mesure à la compréhension et à la marge qu’il apporte, sans demander à quelqu’un de devenir le secrétaire permanent de toute la vie commune.
 
 Si les démarches deviennent trop lourdes, un professionnel social ou une structure d’accompagnement peut aider à rechercher des appuis concrets. Un psychologue peut accompagner la difficulté à laisser une responsabilité partagée ou une inquiétude persistante. Vous pouvez commencer par une seule démarche, tout en reconnaissant les obstacles institutionnels que votre organisation personnelle ne peut pas résoudre seule.
-
-Sources : [Allison Daminger, recherche sur la dimension cognitive du travail domestique](https://doi.org/10.1177/0003122419859007).

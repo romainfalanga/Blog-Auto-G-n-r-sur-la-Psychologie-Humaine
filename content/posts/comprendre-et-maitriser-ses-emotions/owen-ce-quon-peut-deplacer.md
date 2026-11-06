@@ -31,7 +31,11 @@ Demain, ils auront un micro. Owen voudrait lire les deux phrases de la personne 
 
 ## Choisir ce qu’on attend du suivi
 
-L’accompagnement orthophonique d’un adolescent qui bégaie peut porter sur la façon dont il souhaite participer à des situations qui comptent pour lui. L’ASHA décrit des objectifs adaptés à la personne, qui peuvent concerner l’aisance à communiquer, l’impact du bégaiement au quotidien et les réactions de l’entourage. La fréquence des blocages entendus en séance ne résume pas ce qui se passe au lycée. En France, l’orthophoniste est un professionnel de santé qui intervient notamment dans les troubles de la parole. Avec Mme Roussel, Owen peut examiner ce qui lui convient et ce qui lui pèse, même s’il n’a aucun extrait à lui faire écouter. Elle ne décide ni de son rôle dans le film, ni des personnes à qui il le montrera.
+L’accompagnement orthophonique d’un adolescent qui bégaie peut porter sur la façon dont il souhaite participer à des situations qui comptent pour lui. L’ASHA décrit des objectifs adaptés à la personne, qui peuvent concerner l’aisance à communiquer, l’impact du bégaiement au quotidien et les réactions de l’entourage. La fréquence des blocages entendus en séance ne résume pas ce qui se passe au lycée. En France, l’orthophoniste est un professionnel de santé qui intervient notamment dans les troubles de la parole.
+
+## Comment cette difficulté se manifeste
+
+Avec Mme Roussel, Owen peut examiner ce qui lui convient et ce qui lui pèse, même s’il n’a aucun extrait à lui faire écouter. Elle ne décide ni de son rôle dans le film, ni des personnes à qui il le montrera.
 
 ## Deux phrases qu’il a envie de dire
 
@@ -40,9 +44,3 @@ Mme Roussel reprend une différence qu’Owen a lui-même formulée. Au club, il
 ## Le message à Nassim
 
 Sur le trottoir, Owen retrouve le brouillon d’un message où il avait seulement écrit : « Je peux aider au son. » Il efface cette phrase et envoie au groupe : « J’aimerais lire les deux phrases de la troisième personne pour l’essai. Prévoyons un peu de marge pour chaque voix. » Lucile répond avec une photo du sac qu’elle a trouvé chez elle. Nassim écrit qu’ils verront ce que rend le micro, et demande s’il a vu un bouchon noir. Owen photographie le bouchon dans sa paume, juste avant que le bus arrive. Personne n’a encore dit si la troisième voix restera dans le film.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal, bégaiement, bredouillement et fluence de la parole](https://www.asha.org/practice-portal/clinical-topics/fluency-disorders/)
-- [Assurance Maladie, bilan des troubles de la parole et rôle de l’orthophoniste](https://www.ameli.fr/assure/sante/themes/trouble-expression-langage-oral-enfant/reconnaitre-signes-parole)

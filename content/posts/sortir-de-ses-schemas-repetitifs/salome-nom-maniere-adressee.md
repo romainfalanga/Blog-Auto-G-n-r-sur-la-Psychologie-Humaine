@@ -1,5 +1,5 @@
 ---
-title: "Salomé demande qu’on l’appelle par son prénom"
+title: Demander à être appelée par son prénom choisi
 date: 2026-08-02T08:00:00+00:00
 description: "Chez son fournisseur, Salomé précise son prénom et les accords féminins qu’elle utilise, sans avoir à raconter son parcours."
 categories: ["Sortir de ses schémas répétitifs"]
@@ -92,5 +92,3 @@ Le prénom et les accords font partie des façons concrètes de respecter la man
 Une correction courte, une limite aux questions et l’observation de la suite peuvent soutenir cette démarche. Vous pouvez choisir quand parler et quel canal utiliser. Ne pas corriger dans une situation donnée ne retire rien à votre préférence. Le respect ne doit pas dépendre de votre disponibilité à expliquer votre parcours.
 
 Si les interactions répétées deviennent éprouvantes ou limitent votre quotidien, une psychologue ou un autre professionnel respectueux de votre manière de vous définir peut aider à examiner le contexte et les appuis disponibles. Cet accompagnement n’a pas à remettre votre identité en question. Il peut soutenir vos choix sans vous charger seule de réparer chaque environnement.
-
-Sources : [Russell et collègues, étude observationnelle sur l’usage du prénom choisi chez des jeunes trans, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6165713/).

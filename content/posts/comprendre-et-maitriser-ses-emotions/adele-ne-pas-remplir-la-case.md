@@ -33,7 +33,9 @@ Adèle fait glisser la pochette vers elle. La soirée est encore vide sur son pr
 
 Dans l’ARFID, une équipe spécialisée peut examiner les besoins nutritionnels, la santé et ce qui facilite ou complique les repas dans différents cadres. Selon la situation, le suivi associe des professionnels de plusieurs métiers. Le médecin et la diététicienne peuvent notamment examiner l’évolution de la croissance et les apports. Aucun repas raconté dans ce bureau ne suffit à déterminer l’ensemble de ces éléments. Ce que rapporte Adèle sur la cantine et sur la maison permet de comprendre pourquoi les mêmes arrangements ne fonctionneraient pas forcément dans les deux lieux.
 
-La diététicienne peut partir du suivi déjà en place pour proposer avec Adèle et Eva des modalités de repas compatibles avec le séjour. Elle reprend ces propositions avec le reste de l’équipe, notamment si le séjour modifie l’organisation des appuis habituels. Le centre et les adultes qui y encadreront le groupe doivent dire ce qu’ils peuvent assurer. Il faut les deux réponses avant de confirmer la nuit.
+## Un repas possible à la maison ne répond pas à la question du séjour
+
+Adèle se souvient surtout du bruit des chaises à la cantine. Le même jour, elle a pu prendre chez elle le repas dont elle avait parlé avec la diététicienne. Dans le bureau, elle retrouve son envie de tisser et son inquiétude à l’idée du dîner au centre. Elle a peur qu’un oui à l’atelier l’engage déjà pour toute la soirée. Les repas et les conditions dans lesquelles ils se déroulent pèsent différemment dans sa décision.
 
 ## Prévoir qui peut aider à changer de plan
 
@@ -41,13 +43,8 @@ Le point qu’Adèle met sur la table est très concret : que pourra-t-elle dema
 
 Prévoir un retour donne une réponse à une inquiétude présente. Cela laisse aussi la place à une autre question : si elle souhaite rester, quels appuis peuvent rendre ce choix possible ? La diététicienne propose de noter les deux questions pour le collège.
 
+La diététicienne peut partir du suivi déjà en place pour proposer avec Adèle et Eva des modalités de repas compatibles avec le séjour. Elle reprend ces propositions avec le reste de l’équipe, notamment si le séjour modifie l’organisation des appuis habituels. Le centre et les adultes qui encadreront le groupe doivent dire ce qu’ils peuvent assurer. Il faut les deux réponses avant de confirmer la nuit.
+
 ## Deux questions au verso
 
 Adèle prend la feuille de la pochette. Elle écrit au verso « où demander de l’aide ? » et « qui appelle maman ? ». Eva lui dit qu’elle pourra se libérer le soir et rester joignable le lendemain. La diététicienne convient de transmettre à la famille les éléments utiles après échange avec le médecin. Adèle remet la feuille dans la pochette, côté questions en haut. Elle laisse la case de la soirée telle quelle.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Hospices civils de Lyon — ARFID ou trouble évitant ou restrictif de la prise alimentaire](https://www.chu-lyon.fr/arfid)
-- [Maudsley Centre for Child and Adolescent Eating Disorders (NHS) — ARFID Service Frequently Asked Questions](https://mccaed.slam.nhs.uk/wp-content/uploads/2022/12/ARFID-Service-FAQs-Dec-22.pdf)
-- [Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust — ARFID: Creating supportive mealtimes](https://www.cntw.nhs.uk/resources/avoidant-restrictive-food-intake-disorder-arfid-simple-suggestions-series-creating-supportive-mealtimes)

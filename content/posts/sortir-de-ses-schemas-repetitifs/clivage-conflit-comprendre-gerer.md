@@ -11,6 +11,8 @@ personnage: "Bernard"
 sujet: "clivage"
 contexte: "en situation de conflit"
 draft: false
+editorial_sources:
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC3330415/
 ---
 
 Éric parle de la maison pendant que Bernard attend l’arrêt complet de la scie. Il voudrait examiner plusieurs possibilités. À la deuxième, Bernard l’interrompt. Il se rend compte qu’il a entendu le mot vendre là où son fils avait parlé d’estimation. Il pose la planche et reprend le dernier mot à voix haute.
@@ -74,5 +76,3 @@ La tentative de Bernard n'efface pas ses blessures ni la complexité de son deui
 Dans un échange ordinaire, nommer un désaccord ou faire une pause peut ouvrir une autre option. Si la situation devient menaçante ou violente, s’éloigner et chercher de l’aide passe avant le compromis.
 
 Si les conflits restent intenses, si la douleur persiste ou si vous avez vécu des relations difficiles prolongées, consulter un professionnel comme un psychologue, un psychiatre ou un thérapeute familial permet d'accompagner ces processus en sécurité. Demander de l'aide est un acte de soin, comme réparer une chaise, cela nécessite parfois un outillage adapté et la présence d'une main experte.
-
-Sources : [Klein, Notes on Some Schizoid Mechanisms](https://pmc.ncbi.nlm.nih.gov/articles/PMC3330415/).

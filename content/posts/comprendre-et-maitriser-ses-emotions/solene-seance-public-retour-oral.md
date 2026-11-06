@@ -32,7 +32,11 @@ Une spectatrice s’arrête près des cartes, lit « À quel moment avez-vous pe
 
 Les soutiens centrés sur la personne peuvent tenir compte du rôle qu’elle souhaite exercer, de ses préférences et de ce qui l’aide à y participer. Pour Solène, la séance a été préparée avec une heure de fin et des collègues qui savent quand reprendre les tâches. Elle a pu choisir les films, les présenter et écouter les spectateurs. La façon dont elle a vécu cet après-midi lui appartient et pourra être racontée en suivi si elle le souhaite.
 
-Le manuel de l’OMS décrit plusieurs évolutions possibles du trouble schizoaffectif. Une journée où Solène prend plaisir à travailler ne dit pas ce qui lui arrivera ensuite. Les échanges avec sa psychiatre continuent. À la médiathèque, elle peut profiter des rires et des silences, se mettre un moment à l’écart ou rendre sa place à Mireille à l’heure convenue. Ces choix n’ont pas besoin d’être interprétés par l’équipe du cinéma.
+Le manuel de l’OMS décrit plusieurs évolutions possibles du trouble schizoaffectif.
+
+## Comment cette difficulté se manifeste
+
+Une journée où Solène prend plaisir à travailler ne dit pas ce qui lui arrivera ensuite. Les échanges avec sa psychiatre continuent. À la médiathèque, elle peut profiter des rires et des silences, se mettre un moment à l’écart ou rendre sa place à Mireille à l’heure convenue. Ces choix n’ont pas besoin d’être interprétés par l’équipe du cinéma.
 
 ## Laisser la remarque changer la question
 
@@ -43,8 +47,3 @@ Mireille reprend l’accueil à quinze heures, comme prévu. Elle peut continuer
 ## La pile reste à Mireille
 
 La spectatrice accepte que Solène note le parapluie et veut garder pour elle le souvenir qui lui est revenu avec ce geste. Solène écrit deux mots, lui relit la carte et la met dans l’enveloppe. À quinze heures, Mireille prend place derrière la table. Solène lui montre aussi la note d’une personne qui aurait voulu plus de silence entre deux films. Célestin continue de ranger son matériel avant son départ, à quinze heures trente. Dehors, Solène se rend compte qu’elle se souvient du rire et du bruit sec du parapluie posé sur le banc. Elle prend le temps de rappeler Livia.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, services de santé mentale communautaires : résumé des orientations](https://www.who.int/fr/publications/i/item/9789240025684)

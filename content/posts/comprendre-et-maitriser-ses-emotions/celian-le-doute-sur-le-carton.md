@@ -30,7 +30,11 @@ Célian dépose le carton de l’autre côté de la caisse. Il remercie le comme
 
 ## Distinguer la lecture difficile de l’information absente
 
-Un trouble de la lecture peut demander plus de temps pour retrouver une mention précise, même quand la personne en comprend l’importance. Célian lit ce qu’il trouve sur le premier sachet. Ce texte ne lui indique pas les ingrédients de l’autre variété. Dans cette scène, relire ou faire lire plus vite ne restituerait pas une information que personne n’a à disposition. Il y a donc deux questions : comment accéder à l’information qui existe, et que décider lorsqu’on ne l’a pas ? Célian peut demander à Léonie de regarder un endroit précis avec lui et choisir de renoncer au lot une fois la réponse du commerçant connue.
+Un trouble de la lecture peut demander plus de temps pour retrouver une mention précise, même quand la personne en comprend l’importance. Célian lit ce qu’il trouve sur le premier sachet. Ce texte ne lui indique pas les ingrédients de l’autre variété.
+
+## Comment cette difficulté se manifeste
+
+Dans cette scène, relire ou faire lire plus vite ne restituerait pas une information que personne n’a à disposition. Il y a donc deux questions : comment accéder à l’information qui existe, et que décider lorsqu’on ne l’a pas ? Célian peut demander à Léonie de regarder un endroit précis avec lui et choisir de renoncer au lot une fois la réponse du commerçant connue.
 
 ## Conserver les informations utiles au goûter
 
@@ -39,9 +43,3 @@ Les étiquettes des produits alimentaires préemballés vendus donnent des infor
 ## Le ticket sous la balance
 
 Dehors, Léonie propose un pictogramme de pomme sur le panneau. Célian lui dit qu’il veut bien un dessin pour attirer l’œil et une feuille à côté pour les ingrédients. Ils se donnent rendez-vous chez lui vendredi, avant que Léonie prenne son bus. Elle pourra faire le panneau et l’aider à comparer la liste aux emballages. Célian range le ticket de Nadia dans une poche fermée. Il avait cru, devant la caisse, qu’il faudrait justifier le carton refusé en détail. Léonie s’inquiète surtout de savoir si elle pourra dessiner les pommes avec des dents. Il lui demande d’en faire au moins une qui ait l’air de sourire.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé — Guide du parcours de santé des enfants avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)
-- [Entreprendre Service Public — Information sur les allergènes des produits alimentaires](https://entreprendre.service-public.gouv.fr/vosdroits/F32192)

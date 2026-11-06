@@ -33,6 +33,8 @@ Une fois le bruit retombé, Roxane dit au garçon que son jeton peut rester où 
 
 Les ajustements d’un lieu et les aides entre personnes peuvent faciliter un échange au moment où il se déroule. Quand les chaises grincent et que Roxane se détourne du micro, une partie du message échappe au garçon. Le groupe change ce qu’il peut changer : la place du micro, la distance avec les derniers arrivés et le moment où la parole reprend. La possibilité d’utiliser un support écrit ou de passer une phrase à Zoé reste utile, que le malentendu vienne du bruit ou d’une difficulté à distinguer des sons.
 
+## Comment cette difficulté se manifeste
+
 Le passage de relais appartient à Roxane. Cette fois, elle le déclenche avant de commencer son indice. Zoé a attendu le signe convenu. Elle dit « Je frappe le bois avec mon bec », retourne le second carton et écarte sa chaise. Roxane entend un enfant demander : « Alors c’est un oiseau qui tape ? » Elle découvre ce que ça fait d’attendre une réponse de ce côté de la table, sans avoir à préparer sa phrase.
 
 ## La réponse et ce qu’ils en font
@@ -44,10 +46,3 @@ Au deuxième passage, Zoé part à l’atelier dessin. Deux visiteurs parlent en
 ## Le galet reste dans sa poche
 
 Une petite fille déplace son jeton du mot « marteau » vers « oiseau ». Roxane soulève le rabat devant elle. Cette fois, la fille veut savoir pourquoi le pic fait ce bruit. Roxane ne connaît pas encore la réponse à lui donner. Elle lui montre où Salomé a posé un livre d’oiseaux et lui propose d’aller chercher avec elle quand l’atelier sera fini. Elle remet le galet dans sa poche. De l’autre côté de la salle, Zoé montre à des enfants trois façons de tracer un bec. Roxane compte deux jetons sur « moteur » et laisse le papier là où ils l’ont posé.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal — Speech Sound Disorders: Articulation and Phonology](https://www.asha.org/practice-portal/clinical-topics/articulation-and-phonology/)
-- [Haute Autorité de santé — Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages ? (2017)](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)
-- [Ligue pour la protection des oiseaux — Pic épeiche, fiche espèce](https://www.lpo.fr/decouvrir-la-nature/fiches-especes/fiches-especes/oiseaux/pics/pic-epeiche)

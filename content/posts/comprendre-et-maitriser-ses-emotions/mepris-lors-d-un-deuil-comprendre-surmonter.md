@@ -11,6 +11,8 @@ personnage: "Isabelle"
 sujet: "mépris"
 contexte: "lors d'un deuil"
 draft: false
+editorial_sources:
+- https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/
 ---
 
 Dans l’escalier de Geneviève, Isabelle change les papiers de main. Ils concernent son oncle, le frère de sa mère, mort dix jours plus tôt. Elle avait proposé de les apporter. Elle ne sait plus très bien si elle a demandé à Geneviève quand celle-ci voudrait s’en occuper.
@@ -68,5 +70,3 @@ Dans la scène, la perte du frère de Geneviève et les paroles qui blessent Isa
 Une limite peut être formulée sans chercher à résoudre le deuil de l’autre. Si la discussion reste dévalorisante, vous pouvez interrompre l’échange et chercher un soutien.
 
 Si vous vous sentez bloqué dans une relation marquée par le mépris ou si le poids d'un deuil devient trop lourd à porter seul, solliciter l'aide d'un professionnel de santé mentale est une démarche constructive. Un psychologue pourra vous offrir un espace neutre pour déconstruire ces schémas et retrouver ainsi une communication plus saine avec vous-même et avec votre entourage. La guérison est un processus qui demande du temps et de la bienveillance envers soi-même.
-
-Sources : [NHS, réactions possibles après un deuil](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/).

@@ -32,7 +32,11 @@ Camille leur annonça qu’on pouvait mettre la feuille dans le classeur du caba
 
 ## Ce que montre une passation réussie
 
-Une adaptation peut rendre une activité accessible alors que des difficultés de langage restent présentes. Lila et Nora trouvent la boîte grâce à des repères qu’elles peuvent comparer au lieu, et parce qu’elles peuvent s’entraider sans qu’Agathe indique chaque pas. Agathe reprend une question quand Camille parle du classeur et de la copie dans la même phrase. Dans le trouble développemental du langage, les points d’appui et les difficultés peuvent évoluer, et ce qui demande un effort varie selon les situations. Le résultat de cet atelier concerne le projet : les nouvelles jardinières savent où commencer et peuvent modifier la carte. Il ne mesure ni le langage d’Agathe ni la suite dont elle aura besoin en orthophonie.
+Une adaptation peut rendre une activité accessible alors que des difficultés de langage restent présentes. Lila et Nora trouvent la boîte grâce à des repères qu’elles peuvent comparer au lieu, et parce qu’elles peuvent s’entraider sans qu’Agathe indique chaque pas.
+
+## Comment cette difficulté se manifeste
+
+Agathe reprend une question quand Camille parle du classeur et de la copie dans la même phrase. Dans le trouble développemental du langage, les points d’appui et les difficultés peuvent évoluer, et ce qui demande un effort varie selon les situations. Le résultat de cet atelier concerne le projet : les nouvelles jardinières savent où commencer et peuvent modifier la carte. Il ne mesure ni le langage d’Agathe ni la suite dont elle aura besoin en orthophonie.
 
 ## Laisser les suivants se servir du plan
 
@@ -41,9 +45,3 @@ Garder une version au jardin et une autre en classe permet aux nouveaux élèves
 ## Un dernier tour de banc
 
 Agathe glissa le carton original et la page aux deux dessins dans le classeur. Elle vérifia que son papier « laquelle d’abord ? » était encore dans sa poche. Lila écrivait « passage » sur sa copie sans demander où mettre les lettres. Inès attendait Agathe près de la cour. Agathe fit un dernier tour de banc, juste pour voir l’étoile depuis l’entrée, puis la rejoignit. Elle sortit sa bille blanche avec la virgule rouge : il leur restait le temps d’une partie. En rentrant, elle déplacerait son propre pot vers la rambarde. Pour ses capucines, le plan tenait dans deux chaussures et demie et la place d’ouvrir une chaise.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé, Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2822893/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages)
-- [American Speech-Language-Hearing Association, Spoken Language Disorders](https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/)

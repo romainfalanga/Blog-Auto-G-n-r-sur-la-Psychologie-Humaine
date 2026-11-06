@@ -32,6 +32,8 @@ C’est l’heure à laquelle Inaya passe d’habitude ses commandes. Elle a pr�
 
 La consultation peut relier l’évolution des symptômes, leurs conséquences et ce qui compte pour la personne. La psychiatre apporte son évaluation ; Inaya est la mieux placée pour raconter le temps que lui prend une fermeture, l’intérêt qu’elle garde pour les bouquets et ce qu’elle aimerait faire avec son fils. Les questions sur la sécurité font partie de cette évaluation. Elles ne supposent pas que le professionnel connaît déjà la réponse ou qu’une personne en difficulté doit savoir utiliser les mots cliniques.
 
+## Comment cette difficulté se manifeste
+
 La HAS préconise de construire et de revoir le projet de soins avec la personne. Le NICE insiste aussi sur ses préférences et sur la discussion des options. Concrètement, Inaya peut demander ce qu’elle devrait observer, à qui parler si la situation change et quand une nouvelle décision sera nécessaire. Elle peut signaler qu’un créneau la force à choisir entre la consultation et une responsabilité familiale, pour chercher une autre possibilité avec l’équipe.
 
 ## Se quitter avec une suite qu’elle comprend
@@ -43,9 +45,3 @@ Si son état se dégrade, Inaya peut signaler le changement sans attendre le pro
 ## Ce qu’Inaya veut partager
 
 Elles fixent un point plus rapproché et revoient qui Inaya peut joindre entre les deux. Inaya inscrit la date à côté du film. À la sortie, elle appelle Mina pour donner l’heure à laquelle elle sera de retour. Elle n’ajoute aucune explication. À Myriam, elle demande autre chose : « Est-ce qu’on peut reprendre ce qu’on veut dire à la maison de quartier ? Je voudrais qu’on fixe le format avant d’annoncer une date. » Sa sœur lui propose de se retrouver devant le panneau qu’elles ont mesuré.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, épisode dépressif caractérisé chez l’adulte](https://www.has-sante.fr/jcms/c_1739917/fr/episode-depressif-caracterise-de-l-adulte-prise-en-charge-en-premier-recours)
-- [NICE NG222, dépression de l’adulte](https://www.nice.org.uk/guidance/NG222/chapter/recommendations)

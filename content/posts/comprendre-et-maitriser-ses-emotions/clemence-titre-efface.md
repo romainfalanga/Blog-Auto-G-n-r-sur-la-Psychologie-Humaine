@@ -32,7 +32,11 @@ La semaine précédente, Clémence avait réussi à laisser Baya choisir ce qui 
 
 ## Quand le besoin de prévoir grandit avec l’anxiété
 
-Chez Clémence, décider tout de suite du film lui donnerait un peu de répit, mais ne répondrait pas à la question du repas qui occupe déjà son attention. Elle peut regarder ce qui a effectivement changé et reprendre avec l’équipe la peur qui accompagne ces imprévus. Les difficultés que la personne rencontre pendant un suivi peuvent varier d’un jour à l’autre et selon les circonstances. Le NICE recommande de tenir compte du contexte social et des besoins de la personne pendant le traitement. Clémence peut raconter ce qui se passe quand le programme qu’elle avait commencé à se représenter change. Son équipe pourra l’aider à examiner l’impact de ces moments sur sa vie. Dans l’immédiat, elle et Baya ont une copie à choisir et un délai à respecter. Chacune peut dire ce qu’elle aime dans les films proposés et ce qu’il reste à confirmer pour les projeter.
+Chez Clémence, décider tout de suite du film lui donnerait un peu de répit, mais ne répondrait pas à la question du repas qui occupe déjà son attention. Elle peut regarder ce qui a effectivement changé et reprendre avec l’équipe la peur qui accompagne ces imprévus. Les difficultés que la personne rencontre pendant un suivi peuvent varier d’un jour à l’autre et selon les circonstances. Le NICE recommande de tenir compte du contexte social et des besoins de la personne pendant le traitement.
+
+## Comment cette difficulté se manifeste
+
+Clémence peut raconter ce qui se passe quand le programme qu’elle avait commencé à se représenter change. Son équipe pourra l’aider à examiner l’impact de ces moments sur sa vie. Dans l’immédiat, elle et Baya ont une copie à choisir et un délai à respecter. Chacune peut dire ce qu’elle aime dans les films proposés et ce qu’il reste à confirmer pour les projeter.
 
 ## Reprendre l’accord avec le nouveau délai
 
@@ -41,8 +45,3 @@ Clémence peut dire qu’elle a envie de retenir tout de suite un titre qu’ell
 ## Une ligne qui attend encore
 
 À la bibliothèque, Baya lance la scène du rideau. Le magasin ferme derrière deux personnes qui ont encore quelque chose à se dire. Clémence comprend ce que Baya voudrait reprendre de la comédie et lui laisse le temps d’expliquer le reste. Elles gardent cette piste, demandent à la référente de confirmer la copie et laissent provisoirement la ligne ouverte. Clémence plie le programme imprimé pour avoir de quoi noter un mot sur le rideau.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG69, repérage et prise en charge des troubles des conduites alimentaires](https://www.nice.org.uk/guidance/ng69/chapter/recommendations)

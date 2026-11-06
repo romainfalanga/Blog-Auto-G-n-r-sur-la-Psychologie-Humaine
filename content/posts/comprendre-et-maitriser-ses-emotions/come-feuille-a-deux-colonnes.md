@@ -33,6 +33,8 @@ La psychologue lui demande ce qui l’a fait reprendre contact. Il lit les deux 
 
 La difficulté à modifier sa pratique du jeu peut se manifester dans des situations différentes chez une même personne. Côme est resté une fois parce qu’il voulait continuer avec les autres. L’autre fois, il jouait pour lui et voulait finir un passage. Dans les deux cas, il avait prévu de partir et la suite a pris le pas sur son sommeil. En consultation, les différences entre ces soirées lui donnent matière à discuter de ce qu’il peut changer. Aucun de ses amis n’était présent le deuxième soir.
 
+## Comment cette difficulté se manifeste
+
 Le guide de l’OMS distingue la pratique intensive, qui peut avoir un intérêt social ou correspondre à un événement, d’une difficulté durable qui entraîne un retentissement important. Côme a pu tenir son créneau suivant à l’atelier. Ce samedi ne retire rien aux deux autres exemples, et mérite d’être raconté avec eux. Il aide à repérer ce qui était possible dans cette situation précise.
 
 ## Choisir ce qu’il veut retrouver
@@ -44,10 +46,3 @@ Dans cette consultation, il se met d’accord sur un nouveau rendez-vous. Il dem
 ## Une heure possible au crayon
 
 Dans le couloir, il ouvre la conversation de l’équipe. Florian a écrit « dimanche soir ? » sous une image du jeu. Côme tape qu’il doit ouvrir le lundi et efface la suite, où il avait commencé à expliquer toute sa semaine. Il demande si l’équipe a un moment plus tôt le dimanche. Il garde le papier pour le prochain rendez-vous et ajoute, au crayon, à côté des deux matins : « Garder une partie avec Sana. » Le carton de l’atelier, avec la traverse à changer, retourne dans l’autre poche.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Trouble du jeu vidéo : questions et réponses](https://www.who.int/fr/news-room/questions-and-answers/item/gaming-disorder)
-- [Wölfling et al., Efficacy of Short-term Treatment of Internet and Computer Game Addiction, essai randomisé, JAMA Psychiatry (2019)](https://pubmed.ncbi.nlm.nih.gov/31290948/)
-- [CHU de Nantes, Addictologie : consultations spécialisées](https://www.chu-nantes.fr/venir-en-consultation-45)

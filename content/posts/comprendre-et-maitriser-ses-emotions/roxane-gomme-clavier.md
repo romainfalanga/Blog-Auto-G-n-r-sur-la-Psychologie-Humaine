@@ -32,7 +32,11 @@ Roxane ramène la gomme sur le carton pour le remettre droit. Elle écoute la tr
 
 ## Un enregistrement fait entendre une situation
 
-Réécouter une phrase permet de repérer ce qui a été compris dans cet enregistrement précis. Une prise au casque fait entendre un mot ou un bruit de table ; elle ne reproduit ni la conversation avec les camarades ni la situation dans la salle de la médiathèque. L’orthophoniste peut suivre la façon dont un son travaillé en rendez-vous se retrouve dans des mots, des phrases puis des échanges spontanés. Le groupe de Roxane, lui, cherche un montage qui sert la devinette. Zoé lui indique ce qu’elle comprend et Roxane peut dire quelle version donne le ton qu’elle voulait.
+Réécouter une phrase permet de repérer ce qui a été compris dans cet enregistrement précis. Une prise au casque fait entendre un mot ou un bruit de table ; elle ne reproduit ni la conversation avec les camarades ni la situation dans la salle de la médiathèque. L’orthophoniste peut suivre la façon dont un son travaillé en rendez-vous se retrouve dans des mots, des phrases puis des échanges spontanés.
+
+## Comment cette difficulté se manifeste
+
+Le groupe de Roxane, lui, cherche un montage qui sert la devinette. Zoé lui indique ce qu’elle comprend et Roxane peut dire quelle version donne le ton qu’elle voulait.
 
 Le ruban sur la première prise complique l’écoute pour des raisons qui n’appartiennent pas à la parole de Roxane. Dans la troisième, le peu de bruit de fond et la phrase que Zoé connaît facilitent peut-être l’écoute. Un autre auditeur peut avoir besoin du carton. Le groupe a prévu de le poser au moment de l’indice.
 
@@ -45,8 +49,3 @@ Il reste à décider quelle voix arrivera au public, et à quel moment. Roxane a
 ## L’espace laissé entre les deux pistes
 
 Sur la feuille de Zoé, Roxane dessine un rectangle pour le bruit et un autre pour sa voix. Entre les deux, elle trace un petit trait qui veut dire « attendre les propositions ». Elles pourront attendre plus longtemps en faisant une pause si des mains se lèvent. Mme Sorel nomme le montage retenu « À jouer au début ». À la fin de la séance, Roxane soulève la gomme. Sous le premier indice, elle trouve un carton vierge, qu’elle prend pour noter ce que l’essai dans la salle leur apprendra.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal — Speech Sound Disorders: Articulation and Phonology](https://www.asha.org/practice-portal/clinical-topics/articulation-and-phonology/)

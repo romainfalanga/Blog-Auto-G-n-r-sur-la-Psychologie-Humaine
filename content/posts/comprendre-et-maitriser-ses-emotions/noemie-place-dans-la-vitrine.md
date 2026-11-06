@@ -30,7 +30,11 @@ Elle ne regarde plus le trajet de l’enfant ni la légende. Le joint entre les 
 
 ## Comprendre ce qui distingue un goût d’une compulsion
 
-Un goût peut être fort. Noémie aimerait que les bords se répondent et que le regard suive le canal. Elle peut expliquer ce choix, entendre l’idée d’Aïcha et préférer malgré tout sa première disposition. Une compulsion peut se manifester par l’impression pressante qu’il faut refaire un geste selon une règle ou continuer jusqu’à obtenir une sensation de justesse. Dans le second moment de la scène, Noémie a perdu de vue la personne qui lira la légende. Elle déplace de nouveau la feuille pour trouver une sensation de fin qui lui échappe.
+Un goût peut être fort. Noémie aimerait que les bords se répondent et que le regard suive le canal. Elle peut expliquer ce choix, entendre l’idée d’Aïcha et préférer malgré tout sa première disposition. Une compulsion peut se manifester par l’impression pressante qu’il faut refaire un geste selon une règle ou continuer jusqu’à obtenir une sensation de justesse.
+
+## Comment cette difficulté se manifeste
+
+Dans le second moment de la scène, Noémie a perdu de vue la personne qui lira la légende. Elle déplace de nouveau la feuille pour trouver une sensation de fin qui lui échappe.
 
 La compulsion ne suppose pas toujours la crainte explicite d’un accident. La CIM-11 inclut des actes poussés par le besoin de sentir que quelque chose est enfin complet. Aimer l’ordre ou consacrer du soin à une composition fait aussi partie d’une vie ordinaire. Lors d’une évaluation, la professionnelle regarde l’ensemble des symptômes, leur persistance et leur retentissement. Aïcha peut discuter de l’alignement sans essayer de classer chacun des gestes de Noémie.
 
@@ -43,8 +47,3 @@ Aïcha et Noémie décident de reporter sur leur plan l’état du support, le p
 ## Deux dispositions à comparer
 
 Aïcha déplie le plan près de la fenêtre. Noémie montre où le dessin de l’escalier pourrait faire respirer la légende et propose de laisser les marges telles quelles pour cette maquette. Elle conserve dans son carnet un autre essai de présentation, qu’elle trouve plus beau. Elles apportent au service le point sur le support de la carte. En fin de journée, Maud lui écrit qu’elle est partie acheter le dîner. Noémie regarde le message et pense à la porte de leur appartement.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG31, prise en charge du TOC](https://www.nice.org.uk/guidance/cg31/chapter/Recommendations)

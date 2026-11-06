@@ -32,6 +32,8 @@ Elle revient au devis. Le client propose une date qu’elle pourrait tenir en pr
 
 Un plan de suivi peut évoluer avec les besoins, les expériences et les ressources de la personne. Garance souhaite garder les contacts qui lui ont permis d’obtenir un rendez-vous plus tôt et un relais urgent. Elle peut reprendre avec son équipe ce qui a été difficile à utiliser et revoir les modalités prévues. Les décisions de traitement se discutent avec sa psychiatre. Sa psychologue peut l’aider à préparer ce qu’elle veut dire sur le travail ou les répétitions.
 
+## Comment cette difficulté se manifeste
+
 Le NICE recommande de revoir la prise en charge avec la personne, y compris ses priorités et ses besoins dans la vie courante. Garance peut demander à Éva quelle part de soutien lui convient et partager la version du plan qu’elle veut lui transmettre. Elle conserve aussi des échanges privés avec les soignants. Si la sécurité est en jeu, le recours aux professionnels reste la priorité, même si Éva est disponible.
 
 ## Choisir un engagement qui tient sur le calendrier
@@ -43,8 +45,3 @@ Dans l’ensemble, Garance préfère choisir un morceau pour la prochaine séanc
 ## Le matin reste sans trait
 
 Le client accepte un délai plus long. Garance inscrit la date de remise et vérifie une dernière fois le jour où les textes arriveront. Elle laisse le matin suivant la répétition sans trait. À la salle des Forges, Éva apporte une partition qu’elles ont peu jouée. Garance lui montre d’abord la page de contacts qu’elle peut garder. Éva lui dit quels soirs elle termine tard. Elles rangent la page et posent leurs deux partitions sur le même pupitre. Garance demande à Éva de jouer les premières notes pour qu’elle retrouve l’entrée. Cette fois, elles prennent le morceau depuis le début.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

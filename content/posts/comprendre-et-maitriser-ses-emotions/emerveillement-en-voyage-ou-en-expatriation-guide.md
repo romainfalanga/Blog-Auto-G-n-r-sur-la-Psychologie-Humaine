@@ -11,6 +11,9 @@ personnage: "Mei"
 sujet: "émerveillement"
 contexte: "en voyage ou en expatriation"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/29715721/
+- https://pubmed.ncbi.nlm.nih.gov/25984788/
 ---
 
 Mei a enregistré trois fois l’adresse de son logement à Florence. Le train vient de repartir et elle vérifie l’heure de la prochaine correspondance. Elle n’était jamais partie aussi loin seule. Elle a glissé une copie de la planche remise à M. Dubois dans le carnet pour reprendre le dessin pendant le trajet. Le bord dépasse sous l’élastique. À chaque fois qu’elle ouvre le carnet, le même coin revient se mettre sous son crayon.
@@ -68,5 +71,3 @@ Elle envoie la page à Julien, avec une note au-dessous : « J’ai mis un toit 
 Mei trouve dans ce voyage un moment où ses préoccupations occupent moins de place. L’émerveillement est une expérience possible, près de chez soi aussi. Il ne constitue pas un traitement de l’anxiété.
 
 Si vous ressentez que votre anxiété ou votre sentiment d'inadéquation vous empêche de profiter de ces moments précieux, n'oubliez pas qu'un accompagnement avec un professionnel de la psychologie peut vous aider. Le voyage est une magnifique opportunité de découverte, mais le chemin vers la connaissance de soi bénéficie parfois d'un guide pour éclairer les zones d'ombre et transformer chaque découverte en un véritable levier de changement durable.
-
-Sources : [Keltner et Haidt, 2003](https://pubmed.ncbi.nlm.nih.gov/29715721/) ; [Piff et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25984788/).

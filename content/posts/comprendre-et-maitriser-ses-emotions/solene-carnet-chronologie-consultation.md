@@ -32,6 +32,8 @@ Cette façon de faire rappelle à Solène une consultation bien plus ancienne, a
 
 Dans la CIM-11, le trouble schizoaffectif désigne une certaine relation entre des symptômes psychotiques et un épisode de l’humeur. Le cadre de l’OMS porte sur un même épisode où les exigences de la schizophrénie et celles d’un épisode dépressif modéré ou sévère, maniaque ou mixte, sont remplies ensemble. Les deux ensembles de symptômes débutent en même temps ou à quelques jours l’un de l’autre. Le guide fixe une durée minimale d’un mois pour les deux ensembles lors d’un premier épisode ; pour les suivants, cette durée n’est pas nécessairement requise. Ces repères servent aux cliniciens. On peut les solliciter dès qu’un changement inquiète, bien avant de connaître sa durée.
 
+## Comment cette difficulté se manifeste
+
 Le cadre américain du DSM emploie aussi le terme « trouble schizoaffectif ». L’American Psychiatric Association y décrit notamment une période d’au moins deux semaines où des délires ou hallucinations sont présents en dehors d’un épisode majeur de l’humeur. La CIM-11 ne demande pas cette période séparée. Avec les deux lignes, la docteure Da Costa peut expliquer à Solène ce qu’elle examine dans le cadre de la CIM-11 : la relation dans le temps, la nature des manifestations et ce qu’il faut encore éclaircir.
 
 ## Demander ce que l’équipe peut dire aujourd’hui
@@ -43,9 +45,3 @@ Solène peut demander ce qui est déjà connu, ce qui mérite d’être rééval
 ## Dimanche reste en blanc
 
 La docteure ne donne pas de nouveau nom aux derniers jours. Elle fixe un prochain point rapproché et reprend avec Solène les contacts à utiliser selon l’évolution, y compris le numéro à appeler en cas d’urgence. Au moment de fermer le carnet, Solène demande si Livia peut entrer pour entendre la partie sur les contacts. Elle préfère lui raconter le reste quand elles seront dehors. Livia entre avec les deux manteaux. Elle commence par poser celui de Solène sur le dossier, puis s’assied et attend que sa compagne lui dise à quel endroit reprendre.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [American Psychiatric Association, le trouble schizoaffectif dans la classification américaine](https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia)
-- [OMS, Guide d’intervention mhGAP, version 2.0](https://www.who.int/publications/i/item/9789241549790)

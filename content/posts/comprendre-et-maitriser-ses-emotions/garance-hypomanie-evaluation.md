@@ -30,7 +30,11 @@ La spécialiste revient sur l’évolution qu’elle connaît et lui pose d’au
 
 ## Un épisode s’évalue sur son évolution
 
-Une évaluation de l’humeur relie les changements dans le temps à ce que la personne vit et fait. Dans le cas de Garance, la psychiatre a repris plusieurs jours de sommeil inhabituel, d’activité accrue et de projets qui se multiplient. Elle a aussi demandé ce que Garance pouvait encore assurer et comment elle réagissait quand quelqu’un lui signalait une difficulté. L’épisode est établi à partir de ce tableau et de l’évaluation, après l’appel qui a permis d’avancer le rendez-vous.
+Une évaluation de l’humeur relie les changements dans le temps à ce que la personne vit et fait. Dans le cas de Garance, la psychiatre a repris plusieurs jours de sommeil inhabituel, d’activité accrue et de projets qui se multiplient.
+
+## Comment cette difficulté se manifeste
+
+Elle a aussi demandé ce que Garance pouvait encore assurer et comment elle réagissait quand quelqu’un lui signalait une difficulté. L’épisode est établi à partir de ce tableau et de l’évaluation, après l’appel qui a permis d’avancer le rendez-vous.
 
 L’OMS distingue l’hypomanie de la manie par plusieurs éléments cliniques, dont le degré de perturbation du fonctionnement. La psychiatre reste attentive à cette différence dans l’histoire de Garance. Elle reprend aussi les risques présents et les circonstances qui pourraient demander une aide plus rapide. Garance peut entendre qu’elle a vécu un épisode hypomaniaque et garder le plaisir très ordinaire qu’elle a éprouvé lors de la première valse.
 
@@ -43,8 +47,3 @@ Pour le travail, elle choisit de finir le catalogue selon le délai qu’elle pe
 ## Le catalogue reste dans la colonne du milieu
 
 Garance s’assoit au café près du cabinet. Elle retire deux lignes de son calendrier et barre un rendez-vous qu’elle avait pris sans vérifier l’heure de répétition. Le catalogue reste dans la colonne du milieu. Elle écrit à sa cliente pour revenir à l’accord initial. Puis elle ouvre la conversation de l’ensemble. Elle préfère expliquer à Lise séparément ce dont elle a besoin. Elle demande si elles peuvent se voir avant la répétition pour parler des notices et du temps qu’elle pourra prendre au pupitre. Elle range le contact du cabinet à part du message.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

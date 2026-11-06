@@ -31,7 +31,11 @@ Au deuxième passage, même Owen trouve le détail difficile à voir. Il pourrai
 
 ## Ce que deux écoutes ne mesurent pas
 
-La parole d’une même personne peut sembler très différente entre une conversation à deux et une discussion devant plusieurs personnes. La variation décrite dans le CDDR de l’OMS n’implique pas que la personne connaisse moins bien son sujet dans l’un des deux cas. L’ASHA distingue aussi ce qu’on entend du retentissement que la personne décrit. Pour Owen, avoir pu parler du raccord à Nassim ne lui donne pas le pouvoir de répondre sur commande. Dans la salle, il tient encore à répondre. Pointer l’image garde le sujet en vue pendant qu’il attend son mot. Le professeur peut ensuite faire une remarque sur le détail qui lui manque, sans supposer qu’il doit simplifier le projet ou parler pour Owen.
+La parole d’une même personne peut sembler très différente entre une conversation à deux et une discussion devant plusieurs personnes. La variation décrite dans le CDDR de l’OMS n’implique pas que la personne connaisse moins bien son sujet dans l’un des deux cas. L’ASHA distingue aussi ce qu’on entend du retentissement que la personne décrit.
+
+## Comment cette difficulté se manifeste
+
+Pour Owen, avoir pu parler du raccord à Nassim ne lui donne pas le pouvoir de répondre sur commande. Dans la salle, il tient encore à répondre. Pointer l’image garde le sujet en vue pendant qu’il attend son mot. Le professeur peut ensuite faire une remarque sur le détail qui lui manque, sans supposer qu’il doit simplifier le projet ou parler pour Owen.
 
 ## Choisir la scène que l’on a envie d’introduire
 
@@ -40,9 +44,3 @@ Le groupe peut corriger un problème d’image sans rallonger la narration : ten
 ## Le trait jaune sur le mur
 
 Owen propose de tenir le plan de la poignée une seconde de plus et de prendre cette seconde sur le noir juste avant le générique. Nassim vérifie qu’ils n’auront pas à réenregistrer le bus. Lucile dessine deux traits sur une feuille, un pour l’accueil et un pour la scène. Owen écrit son prénom près du deuxième. « Si on le passe, j’aimerais présenter celle-là. » Tous les quatre acceptent de montrer le montage terminé aux responsables légaux qui voudront le voir avant de décider pour la soirée, sans leur laisser de copie. En fermant la salle, Owen reprend la feuille. Sous son prénom, il note deux choses que le public pourra regarder : le sac et le nœud.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal, bégaiement, bredouillement et fluence de la parole](https://www.asha.org/practice-portal/clinical-topics/fluency-disorders/)
-- [NIDCD (NIH), qu’est-ce que le bégaiement ?](https://www.nidcd.nih.gov/health/stuttering)

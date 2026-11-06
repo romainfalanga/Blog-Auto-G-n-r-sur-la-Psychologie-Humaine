@@ -1,5 +1,5 @@
 ---
-title: "Samira : la charge mentale de la parentalité seule"
+title: La charge mentale de la parentalité seule
 date: 2026-09-09T08:00:00+00:00
 description: "Une autorisation oubliée rend visible tout ce que Samira anticipe pour Noé. Elle cherche un relais sans faire de son fils un second adulte."
 slug: "samira-charge-mentale-parentalite"
@@ -100,7 +100,3 @@ La charge mentale de la parentalité seule comprend bien davantage que des geste
 Observer une séquence, cadrer un relais et proposer une participation adaptée à l’enfant offrent des essais concrets. Leur effet reste modeste et dépend de l’entourage disponible. Un parent peut avoir besoin de davantage de services, de temps ou de stabilité, même s’il sait déjà très bien organiser son quotidien.
 
 Si la fatigue ou l’irritabilité deviennent persistantes, un médecin ou un psychologue peut aider à évaluer les besoins de soutien. Un professionnel de l’accompagnement social peut aussi rechercher des ressources locales avec le parent. Demander un relais concerne la charge à partager, pas une insuffisance d’amour pour son enfant.
-
-Sources :
-- [Allison Daminger, étude sur la dimension cognitive du travail domestique](https://doi.org/10.1177/0003122419859007)
-- [Allison Daminger, présentation de ses recherches sur le travail cognitif familial](https://www.allisondaminger.com/research)

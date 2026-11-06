@@ -33,6 +33,8 @@ Il y reste assez longtemps pour voir Maud reconduire le groupe vers la visite et
 
 Une situation qui change d’un coup peut rendre un échange beaucoup plus difficile à suivre, même si la tâche était connue quelques secondes plus tôt. Ici, trois inscrits attendent une consigne et d’autres visiteurs posent des questions. Zéphyr perd le moment où il en était et quitte la pièce. Pour lui, c’est une façon de se dégager du brouhaha. Les personnes assises n’ont reçu aucune indication sur ce qui arrive ensuite.
 
+## Comment cette difficulté se manifeste
+
 Les difficultés relationnelles et le retrait peuvent faire partie du trouble schizotypique, avec des variations au fil du temps. La scène montre ce qui arrive à Zéphyr dans cette configuration, sans faire du bruit ou de l’imprévu des signes du trouble. La flèche trompeuse est un problème réel d’organisation. Revoir la situation demande de s’occuper à la fois de l’accueil, de l’effet sur les visiteurs et de ce que Zéphyr peut reprendre ce matin-là.
 
 ## Choisir ce qu’il est possible de poursuivre
@@ -44,8 +46,3 @@ Pour un autre essai, ils pourront convenir d’un relais avant d’ouvrir. Ce tr
 ## L’annonce dans l’embrasure
 
 Zéphyr retourne jusqu’au cadre de la porte, pas plus loin. Il dit qu’ils vont s’arrêter et qu’il ne reprendra pas la démonstration ce matin. Maud propose de prévenir les trois inscrits dès qu’ils sauront ce qui peut leur être offert. Gil range ses lunettes sans répondre. Farah choisit de poursuivre la visite du musée. Loïc donne un coup de pouce à la fiche, qui glissait du bord. « J’avais gardé la matinée. » Il s’en va avant que Zéphyr trouve quoi répondre. Le lendemain de l’ouverture, la flèche restera dans le tiroir de Maud ; le deuxième samedi est encore prévu, mais il faudra décider comment faire entrer les inscrits.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Mayo Clinic, schizotypie : évaluation, psychothérapies et accompagnement](https://www.mayoclinic.org/diseases-conditions/schizotypal-personality-disorder/diagnosis-treatment/drc-20353924)

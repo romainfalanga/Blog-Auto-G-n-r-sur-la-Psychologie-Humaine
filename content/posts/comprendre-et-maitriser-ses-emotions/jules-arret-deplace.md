@@ -33,7 +33,11 @@ Solange lui téléphone pour lui dire que les voisins viennent d’arriver. Elle
 
 Un changement de transport peut demander une adaptation quelle que soit la personne qui voyage. Ici, l’arrêt a été déplacé et l’agent indique un passage autorisé. Jules peut se servir de cette information pour choisir un trajet en fonction du temps dont il dispose et de ce qu’il souhaite faire. Les travaux restent une raison de modifier son itinéraire. La peur qu’il éprouve à l’idée de voyager peut aussi peser dans le choix, et il pourra en parler séparément lors de son suivi.
 
-Le même détour peut avoir plusieurs raisons. Jules connaît une rue qu’il trouve agréable. Il craint également de revivre un épisode dans le bus. Son choix d’aujourd’hui ne dit pas à lui seul comment il souhaite travailler sur cette inquiétude. Les essais thérapeutiques restent ceux qu’il définit avec la psychiatre. Il peut aussi vouloir rentrer, faire la visite ou modifier son projet pour des raisons ordinaires.
+Le même détour peut avoir plusieurs raisons.
+
+## Comment cette difficulté se manifeste
+
+Jules connaît une rue qu’il trouve agréable. Il craint également de revivre un épisode dans le bus. Son choix d’aujourd’hui ne dit pas à lui seul comment il souhaite travailler sur cette inquiétude. Les essais thérapeutiques restent ceux qu’il définit avec la psychiatre. Il peut aussi vouloir rentrer, faire la visite ou modifier son projet pour des raisons ordinaires.
 
 ## Garder une visite qui convienne aux deux
 
@@ -44,8 +48,3 @@ S’il vient, Jules pourra dessiner la partie qui l’intéresse et discuter ave
 ## La rue qu’il connaît à pied
 
 Jules choisit le bus qui lui laisse une marche par la rue aux volets jaunes. Solange confirme qu’ils auront le temps de boire un café. À son arrivée, une partie est déjà commencée. Il demande s’il peut s’asseoir près de la boîte et dessiner la main qui vient d’y prendre une pièce. En ouvrant son carnet, il retrouve la feuille pliée du marché. Il compte apporter les deux dessins quand il parlera des dernières semaines avec la psychiatre.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

@@ -33,6 +33,8 @@ Le son démarre. Avant même que Roxane dise sa phrase, une fille du groupe anno
 
 Une réponse à une devinette renseigne sur le jeu et sur ce que les joueurs en ont perçu. Elle ne suffit pas à dire comment un enfant produit les sons de la parole. Il y a deux questions différentes autour de cette table. Nassim cherche un détail dans une consigne parlée : à quel moment doit-il avancer la boîte ? La fille du groupe, elle, dispose déjà d’un indice supplémentaire, le dessin qui dépasse. Il faut pouvoir faire la différence entre le déroulement d’une activité et la façon dont la parole a été comprise.
 
+## Comment cette difficulté se manifeste
+
 Le billet transmis à Mme Sorel lui a indiqué un appui que Roxane souhaite essayer. Quand l’enseignante dit ce qu’elle a compris et fait une pause, Roxane peut préciser son idée à Nassim. L’appui se fait au moment où il sert, dans la discussion ordinaire du groupe.
 
 ## Deux indices visibles, un dessin caché
@@ -44,9 +46,3 @@ Zoé propose un vrai rabat qui recouvre toute la couleur. Elles pourraient aussi
 ## Le pli sans rouge
 
 Quand les visiteurs d’essai sont repartis, Zoé décolle les épaisseurs et montre à Roxane un rabat assez large pour cacher le dessin. Roxane inscrit les deux indices sur des cartons séparés. Elle demande à Nassim de laisser les jetons dehors jusqu’à la première idée, quitte à les faire glisser sans bruit sur la table. Puis elle ressort la feuille à deux cases. À côté de sa gouttière, elle ajoute « moteur ». Elle prend ce mot au sérieux : il leur indique que la devinette commence enfin à fonctionner.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal — Speech Sound Disorders: Articulation and Phonology](https://www.asha.org/practice-portal/clinical-topics/articulation-and-phonology/)
-- [Haute Autorité de santé — Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages ? (2017)](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)

@@ -32,7 +32,11 @@ Garance choisit de vérifier une fois la mesure avec elle. Ensuite, elle aimerai
 
 L’attente d’un concert peut s’accompagner de trac, d’excitation ou d’un mélange des deux. Garance remarque ses mains froides et l’envie de revoir sa mesure. Ces sensations ont un contexte immédiat. Son histoire clinique garde une place si elle remarque une évolution plus durable qui lui pose question. Elle peut alors décrire les changements au cabinet, en s’appuyant sur le plan établi avec l’équipe.
 
-Le trouble bipolaire de type II se comprend à partir de l’histoire des épisodes évalués. La soirée du concert donne surtout à Garance des décisions concrètes. Elle veut savoir quand jouer, où retrouver l’ensemble et ce qu’elle peut faire en attendant. L’heure écrite par Lise répond à ces questions. Elle peut garder le choix d’écouter un morceau ou de rester dans un endroit plus calme avant de rejoindre les autres.
+Le trouble bipolaire de type II se comprend à partir de l’histoire des épisodes évalués.
+
+## Comment cette difficulté se manifeste
+
+La soirée du concert donne surtout à Garance des décisions concrètes. Elle veut savoir quand jouer, où retrouver l’ensemble et ce qu’elle peut faire en attendant. L’heure écrite par Lise répond à ces questions. Elle peut garder le choix d’écouter un morceau ou de rester dans un endroit plus calme avant de rejoindre les autres.
 
 ## Tenir la partie convenue et pouvoir la modifier
 
@@ -43,8 +47,3 @@ Après le concert, Garance peut choisir de saluer ses voisins ou de rentrer. Ell
 ## L’entrée qu’elle attendait
 
 Au fond de la salle, Garance écoute le dernier accord du premier ensemble. Elle revient derrière le rideau à l’heure écrite. L’autre altiste la rejoint et tourne la partition vers elles deux. Garance entend Éva jouer les notes qu’elle attendait. Son archet descend au moment où elle lève les yeux. Plus tard, elle remercie Lise et redescend retrouver les voisins après leur passage. Elle reste le temps que quelqu’un lui demande le nom du morceau. Puis elle va chercher son étui. À la sortie, Éva lui demande si elle veut marcher un bout de rue ensemble. Garance dit oui pour la rue, puis elle rentrera.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

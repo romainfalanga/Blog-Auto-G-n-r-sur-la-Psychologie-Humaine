@@ -33,18 +33,18 @@ Morgane écrit qu’elle est désolée et qu’il vaut mieux que la répétition
 
 ## Un retour de difficulté à examiner
 
-Un épisode survenu après une période plus calme apporte une information sur la situation actuelle. La répétition, le contexte, la souffrance et ce qui s’est passé ensuite aident l’équipe à comprendre l’évolution. Morgane est tentée de résumer la semaine à cette soirée. Les autres jours, les conditions dans lesquelles elle s’est sentie plus libre et les questions qui se posent aujourd’hui ont aussi leur place. Le NICE inclut le travail autour des difficultés futures et des rechutes dans certaines formes de prise en charge. Morgane peut revenir sur l’épisode sans devoir prouver à l’équipe qu’elle allait déjà mieux.
+Un épisode survenu après une période plus calme apporte une information sur la situation actuelle. La répétition, le contexte, la souffrance et ce qui s’est passé ensuite aident l’équipe à comprendre l’évolution.
+
+## Le lendemain, la tentation d’annuler la répétition
+
+Morgane est tentée de résumer la semaine à cette soirée. Après l’épisode, elle a repoussé une réponse à Sonia au sujet de la rallonge. Le lendemain, elle écrit presque à Yassine qu’il fera sa répétition sans elle, alors qu’elle tenait à l’écouter. Ce découragement survient après plusieurs jours où elle s’était sentie plus libre. Les deux périodes ont leur place dans le récit de ce qui lui arrive.
 
 ## Faire deux demandes de nature différente
 
 Au travail, Morgane sait qu’elle peut venir pour écouter Yassine et demander un relais pour l’installation. Elle n’a pas besoin de déclarer la soirée à toute l’équipe. Au suivi, la question porte sur ce qu’elle a éprouvé et sur le découragement qui a duré le lendemain. Elle décide d’utiliser le canal qu’Anna lui a indiqué pour signaler un changement et demander si elles peuvent en parler au prochain rendez-vous. Cette possibilité dépend de l’organisation de son service. L’aide de Sonia peut porter sur la tâche dont elles sont responsables ensemble.
 
+Le NICE inclut le travail autour des difficultés futures et des rechutes dans certaines formes de prise en charge. Morgane peut décrire cet épisode et les jours qui l’ont précédé pour discuter avec Anna de ce qui l’aiderait si la difficulté revient.
+
 ## Le message qu’elle garde
 
 Yassine répond qu’il lui réserve une chaise au premier rang. Il a envie de lui montrer un geste qu’il n’avait pas encore essayé devant elle. Morgane dit qu’elle le verra tout à l’heure. Elle écrit ensuite à l’équipe avec les mots qu’elle a trouvés en consultation. Elle relit le dernier mot de l’annonce, « essayer », et le laisse tel quel. Sonia lui demande si elle veut qu’elles se retrouvent avant la répétition.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et Fédération française anorexie boulimie, recommandations sur la boulimie et l’hyperphagie boulimique](https://www.has-sante.fr/upload/docs/application/pdf/2019-09/boulimie_et_hyperphagie_boulimique_-_recommandations.pdf)
-- [NICE, recommandations NG69 sur les troubles des conduites alimentaires](https://www.nice.org.uk/guidance/ng69/evidence/full-guideline-pdf-161214767896)

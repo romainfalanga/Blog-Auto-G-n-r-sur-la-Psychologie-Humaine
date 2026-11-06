@@ -32,7 +32,11 @@ Elle demande à Maya de lui dire ce qu’elle a vu. Maya dit qu’au moment où 
 
 ## Ce qui change avec la salle
 
-Une façon de faire qui fonctionne dans un lieu peut demander des ajustements dans un autre. Pour Augustin, la hauteur du support change sa prise et la présence d’un signal change le moment où il doit l’avoir trouvée. Il s’occupe aussi de son trajet et de sa réplique. Les recommandations internationales invitent à examiner les activités et leur environnement ensemble, y compris quand un appui a déjà fonctionné. Prendre le disque facilement dans un essai isolé ne règle pas le problème de la scène entière. Rater une entrée ne fait pas disparaître non plus ce qu’Augustin a découvert à l’atelier. Son doute porte ici sur une question précise : aura-t-il le temps de lever le soleil avant que le public entende autre chose ?
+Une façon de faire qui fonctionne dans un lieu peut demander des ajustements dans un autre. Pour Augustin, la hauteur du support change sa prise et la présence d’un signal change le moment où il doit l’avoir trouvée. Il s’occupe aussi de son trajet et de sa réplique. Les recommandations internationales invitent à examiner les activités et leur environnement ensemble, y compris quand un appui a déjà fonctionné. Prendre le disque facilement dans un essai isolé ne règle pas le problème de la scène entière.
+
+## Comment cette difficulté se manifeste
+
+Rater une entrée ne fait pas disparaître non plus ce qu’Augustin a découvert à l’atelier. Son doute porte ici sur une question précise : aura-t-il le temps de lever le soleil avant que le public entende autre chose ?
 
 ## Mettre les événements dans l’ordre
 
@@ -41,8 +45,3 @@ La troupe peut essayer un ordre différent : le disque est placé à l’avance,
 ## Du carton brun jusqu’à l’entrée
 
 Augustin pose le disque face dorée contre la table de la fenêtre. Au deuxième passage, il le soulève avant de regarder la salle. Il le repose, dit sa phrase, et le papier de Maxence crépite après le dernier mot. Samira entend tout ; Maya voudrait un silence un peu plus long avant la réplique. Augustin garde l’ordre sur la feuille de scène et ajoute une note pour vérifier la table au prochain essai. Il n’a pas décidé du rôle. Il sait maintenant comment il aimerait jouer celui-là.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Blank et al., recommandations cliniques internationales de l’EACD sur le trouble du développement de la coordination (2019)](https://onlinelibrary.wiley.com/doi/full/10.1111/dmcn.14132)

@@ -32,7 +32,11 @@ Lou lui glisse : « Continue tes photos, j’ai les mots. » Maïwenn serre sa c
 
 ## Le temps qu’on ne voit pas sur place
 
-Écrire en écoutant et reprendre ensuite des notes peut demander un effort important à une personne qui a des difficultés d’expression écrite. La rapidité de Lou est utile à l’équipe, mais la rapidité ne dit pas qui a remarqué quoi. Maïwenn voudrait garder les mots exacts du gardien tout en suivant ce qu’il montre ; si elle s’attarde à écrire, la scène continue sans elle. Lou pensait lui libérer les mains en prenant toutes les notes. Son offre prend un autre sens quand Maïwenn comprend qu’elle risque aussi de perdre le moment où l’on choisit ce qui sera raconté.
+Écrire en écoutant et reprendre ensuite des notes peut demander un effort important à une personne qui a des difficultés d’expression écrite. La rapidité de Lou est utile à l’équipe, mais la rapidité ne dit pas qui a remarqué quoi.
+
+## Comment cette difficulté se manifeste
+
+Maïwenn voudrait garder les mots exacts du gardien tout en suivant ce qu’il montre ; si elle s’attarde à écrire, la scène continue sans elle. Lou pensait lui libérer les mains en prenant toutes les notes. Son offre prend un autre sens quand Maïwenn comprend qu’elle risque aussi de perdre le moment où l’on choisit ce qui sera raconté.
 
 ## Prendre appui sur la note de l’autre
 
@@ -41,8 +45,3 @@ Se répartir des tâches n’oblige pas à séparer les idées de la personne qu
 ## Une étoile au bord du carnet
 
 Rachid accepte qu’elles prennent aussi un portrait de lui pour leur brouillon, à condition de donner son accord avant qu’elle paraisse dans le journal. Maïwenn le lui promet. Elle prend une seule photo, puis rejoint Lou contre le mur. À côté de la phrase sur les chariots, elle dessine l’étoile convenue avec Lou. En sortant, elle dit à Lou qu’elle veut écrire la légende de cette table. Lou lui passe le carnet pour qu’elle puisse reprendre les mots à tête reposée.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [American Speech-Language-Hearing Association, Written Language Disorders](https://www.asha.org/Practice-Portal/Clinical-Topics/Written-Language-Disorders/)

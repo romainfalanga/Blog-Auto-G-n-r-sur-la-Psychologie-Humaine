@@ -11,6 +11,9 @@ personnage: "Mei"
 sujet: "effet spotlight"
 contexte: "à l'école ou aux études"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/10707330/
+- https://www.etudiant.gouv.fr/fr/violences-et-discriminations
 ---
 
 Le pinceau vient de dépasser le bord du personnage. Mei tient la planche de biais pour voir si la couleur va couler. La bavure s’arrête à quelques millimètres de la manche. Debout à sa place, elle voit encore les deux silhouettes qu’elle a mises toute la matinée à séparer. Dès qu’elle recule, le petit trait lui revient au milieu du dessin comme s’il était plus foncé que les autres.
@@ -84,5 +87,3 @@ L’effet spotlight donne une piste pour réfléchir à l’attention qu’on cr
 Un retour précis ou un geste familier peuvent aider dans une situation ordinaire. Leur effet varie et il n’est pas nécessaire de compter les regards.
 
 Si l'anxiété est très envahissante ou si ces techniques semblent insuffisantes, demandez l'avis d'un professionnel qualifié. Un psychologue ou un thérapeute cognitivo-comportemental peut proposer un accompagnement adapté, notamment pour des protocoles d'exposition encadrés et un travail plus approfondi sur les schémas de pensée. Vous n'êtes pas obligé d'affronter cela seul.
-
-Sources : [Gilovich, Medvec et Savitsky, 2000](https://pubmed.ncbi.nlm.nih.gov/10707330/) ; [Étudiant.gouv, violences et discriminations](https://www.etudiant.gouv.fr/fr/violences-et-discriminations).

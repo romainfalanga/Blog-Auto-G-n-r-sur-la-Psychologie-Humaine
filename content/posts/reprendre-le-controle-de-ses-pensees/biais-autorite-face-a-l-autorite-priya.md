@@ -62,6 +62,7 @@ Visualiser une scène de tension avec l'autorité comme si un témoin extérieur
 Priya vérifie à qui s’appliquent les cinq points du document. Deux lui paraissent utiles pour préparer la consultation. Elle inscrit aussi une question à vérifier avec un confrère. Le nom du professeur figure encore au-dessus ; elle a simplement passé plus de temps à lire le reste.
 
 Après les consultations, elle répond à l’Ordre sur le point de logiciel. En rangeant le courrier, elle trouve un message de Marc : il est prêt à reparler du partage des décisions. Priya le laisse dans sa boîte de réception, avec l’intention de répondre le lendemain. Elle ne mélange pas cette décision avec celle qu’elle vient de prendre pour le patient.
+
 ---
 
 La compétence d’une personne peut justifier de prendre son avis au sérieux. Il reste à regarder sur quoi porte cet avis, quels éléments l’appuient et dans quelle situation il s’applique.

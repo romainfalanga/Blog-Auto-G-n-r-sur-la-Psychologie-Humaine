@@ -31,7 +31,11 @@ Il pousse le reçu vers Léonie. Le deuxième gâteau devait être au chocolat ;
 
 ## Répartir la charge de lecture et de vérification
 
-Une difficulté de lecture peut compliquer une partie d’un projet sans empêcher la personne de prendre les décisions qui lui reviennent. Pour établir son budget, Célian doit identifier ce qui a réellement été acheté et ce qui avait été prêté. Lire les mentions sur l’ancienne liste lui demande du temps. Choisir le menu et décider de ce qu’il peut préparer sont d’autres tâches. Rien dans cet incident ne permet de supposer qu’il a un trouble du calcul. Il a aussi des préférences précises : le gâteau aux pommes, les parts carrées et la possibilité de jouer avant le goûter. Elles l’aident à choisir les tâches dont il veut rester responsable.
+Une difficulté de lecture peut compliquer une partie d’un projet sans empêcher la personne de prendre les décisions qui lui reviennent. Pour établir son budget, Célian doit identifier ce qui a réellement été acheté et ce qui avait été prêté. Lire les mentions sur l’ancienne liste lui demande du temps.
+
+## Comment cette difficulté se manifeste
+
+Choisir le menu et décider de ce qu’il peut préparer sont d’autres tâches. Rien dans cet incident ne permet de supposer qu’il a un trouble du calcul. Il a aussi des préférences précises : le gâteau aux pommes, les parts carrées et la possibilité de jouer avant le goûter. Elles l’aident à choisir les tâches dont il veut rester responsable.
 
 ## Un nom et une action sur chaque ligne
 
@@ -40,8 +44,3 @@ Le groupe peut repartir de ce qu’il sait maintenant, au lieu de suivre toute l
 ## Le premier prénom à côté du sien
 
 Ils ouvrent le placard du club. Les gobelets sont bien là et Nadia retrouve une seconde boîte plate pour le gâteau. Yanis prend en charge les gobelets et les caisses. Léonie demande à Célian de lui garder une place à la table pour le panneau et la distribution. Célian raye le gâteau au chocolat. Il fait tenir le nouveau menu sur trois lignes et annonce vingt personnes, de l’eau, des fruits et du gâteau aux pommes. Il peut remettre les tickets à Nadia mardi prochain, après l’entraînement. Quand il arrive à la ligne du transport, il écrit Yanis à côté de son propre prénom. Puis il lui demande s’il a encore la sangle qui empêchait les caisses de glisser dans son coffre.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé — Guide du parcours de santé des enfants avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)

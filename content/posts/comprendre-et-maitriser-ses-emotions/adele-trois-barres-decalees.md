@@ -31,7 +31,11 @@ Mme Roussel pose deux trousses sur la table voisine. Elle lui demande si elle a 
 
 ## Ce qu’un repas ordinaire peut apprendre
 
-Un repas possible dans un cadre aménagé ne suffit pas à dire comment se passeront les autres repas d’une personne qui a un ARFID. Les caractéristiques des aliments, le lieu, les personnes présentes et les échanges à table peuvent différer. Ici, Adèle et les adultes vérifient une partie pratique du plan : la possibilité de trouver la personne prévue et de lui parler discrètement. Vérifier ce relais ne change rien à ce qu’Adèle a prévu pour le repas avec son équipe de suivi. Elle reste libre de dire ce qui lui a coûté de l’effort.
+Un repas possible dans un cadre aménagé ne suffit pas à dire comment se passeront les autres repas d’une personne qui a un ARFID. Les caractéristiques des aliments, le lieu, les personnes présentes et les échanges à table peuvent différer.
+
+## Comment cette difficulté se manifeste
+
+Ici, Adèle et les adultes vérifient une partie pratique du plan : la possibilité de trouver la personne prévue et de lui parler discrètement. Vérifier ce relais ne change rien à ce qu’Adèle a prévu pour le repas avec son équipe de suivi. Elle reste libre de dire ce qui lui a coûté de l’effort.
 
 Adèle apporte deux informations distinctes : elle a pu demander l’appui et elle reste préoccupée par une question qui serait posée devant le groupe. Ces précisions peuvent servir à organiser le voyage. Le médecin et la diététicienne gardent la responsabilité du suivi de la santé et de l’alimentation, qui se poursuit indépendamment de ce midi.
 
@@ -44,10 +48,3 @@ La bande de papier répond à une autre question : à quoi veut-elle employer so
 ## La bande dans le carnet
 
 Mme Roussel sort la fiche déjà signée par Eva, qui attendait encore l’accord d’Adèle. Elle la retourne du côté des ateliers. « Alors on confirme ? » Adèle dit oui pour le voyage et garde son premier choix. Elle coince la bande blanche entre les pages du carnet et précise qu’elle veut voir la fenêtre de près. « De près, oui. On demandera où on a le droit de se placer », répond la professeure. Pour la prochaine bande, Adèle essaiera deux fenêtres qui ne se touchent pas.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Hospices civils de Lyon — ARFID ou trouble évitant ou restrictif de la prise alimentaire](https://www.chu-lyon.fr/arfid)
-- [Maudsley Centre for Child and Adolescent Eating Disorders (NHS) — ARFID Service Frequently Asked Questions](https://mccaed.slam.nhs.uk/wp-content/uploads/2022/12/ARFID-Service-FAQs-Dec-22.pdf)
-- [Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust — ARFID: Creating supportive mealtimes](https://www.cntw.nhs.uk/resources/avoidant-restrictive-food-intake-disorder-arfid-simple-suggestions-series-creating-supportive-mealtimes)

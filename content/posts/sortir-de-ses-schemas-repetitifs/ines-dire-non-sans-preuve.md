@@ -92,5 +92,3 @@ Dire non sans fournir une preuve permet à Inès de distinguer son choix des obs
 Repérer une justification fabriquée, placer le non avant le contexte et donner un autre espace aux questions du couple sont trois appuis possibles. Vous pouvez partager vos raisons librement et garder la possibilité de ne pas le faire. La qualité du lien se voit aussi dans l’accueil de cette liberté, au-delà des mots utilisés pour l’annoncer.
 
 Si refuser provoque une peur durable, des interrogatoires ou des représailles, une psychologue ou un autre professionnel peut aider à examiner la situation et vos ressources. Une aide individuelle peut être choisie sans accord de la partenaire. Vous n’avez pas à fournir une preuve de souffrance pour mériter le respect de votre non.
-
-Sources : [Santé publique France, repères sur le consentement](https://www.onsexprime.fr/la-sexualite/ok-ou-pas-ok/ok-pas-ok-le-consentement-c-est-obligatoire) ; [Arrêtons les violences, repères sur le consentement](https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-sexuelles).

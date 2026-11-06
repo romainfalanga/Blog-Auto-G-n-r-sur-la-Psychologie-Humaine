@@ -30,7 +30,11 @@ Elles trouvent la barrière avant l’escalier. Le chemin qui longe le quai rejo
 
 ## Ce qu’un changement demande de reprendre
 
-Un changement imprévu peut demander de réorganiser plusieurs actions à la fois. Nour avait préparé le trajet, les pauses et le document à distribuer. L’avis oblige à relire les trois ensemble. L’OMS décrit que certaines personnes autistes éprouvent des difficultés devant des changements inattendus. Leur importance dépend de la situation. Nour peut aussi être contrariée parce qu’un travail terminé doit être repris. Elle choisit de vérifier l’obstacle avant de décider de ce qu’elle veut garder.
+Un changement imprévu peut demander de réorganiser plusieurs actions à la fois. Nour avait préparé le trajet, les pauses et le document à distribuer. L’avis oblige à relire les trois ensemble. L’OMS décrit que certaines personnes autistes éprouvent des difficultés devant des changements inattendus. Leur importance dépend de la situation.
+
+## Comment cette difficulté se manifeste
+
+Nour peut aussi être contrariée parce qu’un travail terminé doit être repris. Elle choisit de vérifier l’obstacle avant de décider de ce qu’elle veut garder.
 
 Le projet repose sur plusieurs choix de trajet. Passer tout le monde par le marché serait facile à écrire. Pour Nour, cela retirerait l’option qui lui permet d’éviter une partie du bruit. Elle peut chercher avec Fatou ce qui reste possible, sans s’engager à refaire tout le plan dans la matinée. Si la visite devait être réduite, elles pourraient conserver le temps au kiosque et laisser les personnes décider si elles souhaitent continuer.
 
@@ -43,8 +47,3 @@ Elles choisissent une version du plan à distribuer et notent la date dessus. Fa
 ## Un trait neuf vers le quai
 
 De retour chez Nour, Fatou pose les anciennes copies sur le bord de la table pour les garder à part. Nour trace le chemin du quai et inscrit l’heure du kiosque au-dessus. Elle écrit « Pour voir l’hirondelle, vous pouvez aussi ne pas la poursuivre. Elle sera au kiosque. » Fatou propose de garder cette phrase dans le message, juste après les horaires. Nour donne son accord et programme une heure pour envoyer la carte. Elle laisse la traduction dans son dossier. Elle préfère la reprendre demain, quand les deux plans auront cessé de se superposer à chaque lecture.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG142, accompagnement des adultes autistes](https://www.nice.org.uk/guidance/cg142/chapter/Recommendations)

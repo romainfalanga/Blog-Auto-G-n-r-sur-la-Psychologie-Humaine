@@ -98,5 +98,3 @@ Choisir une entraide fidèle à ses valeurs demande de relier les intentions aux
 Aline conserve son goût de l’aide tout en laissant davantage de place à l’autonomie d’autrui, à la réciprocité et à ses propres attachements. Ses anciens réflexes reviennent encore dans certaines situations. Elle dispose maintenant de questions et d’appuis pour les remarquer, puis choisir une contribution qui reste vivante au lieu de devenir une dette permanente.
 
 Si vos engagements vous épuisent ou si la peur de décevoir empêche tout choix, un psychologue peut vous accompagner dans la clarification de vos besoins et de vos valeurs. Le collectif peut aussi revoir ses rôles, ses moyens et ses attentes. Une entraide durable se construit entre plusieurs personnes ; elle n’exige pas que l’une d’elles disparaisse pour que les autres puissent compter sur elle.
-
-Sources : [Schwartz, présentation de sa théorie des valeurs](https://scholarworks.gvsu.edu/orpc/vol2/iss1/11/).

@@ -32,7 +32,11 @@ Sofiane a apporté la maquette : une page pour le marché, à côté des résult
 
 ## Le travail derrière une page qui tient
 
-Une production écrite peut sembler facile à terminer alors qu’elle a demandé beaucoup de temps, d’effort ou d’appui. Une échéance courte peut rendre ce décalage plus visible. Sofiane connaît le délai de la maquette et suppose que la relecture tient dans la place restante. Maïwenn, elle, sait ce qui se passe quand elle essaie de vérifier le sens et la forme en même temps : elle revient au début et finit parfois par ne plus savoir ce qu’elle cherchait. En disant ce qu’il reste à faire, elle donne au groupe un élément de travail dont il peut se servir.
+Une production écrite peut sembler facile à terminer alors qu’elle a demandé beaucoup de temps, d’effort ou d’appui. Une échéance courte peut rendre ce décalage plus visible. Sofiane connaît le délai de la maquette et suppose que la relecture tient dans la place restante.
+
+## Comment cette difficulté se manifeste
+
+Maïwenn, elle, sait ce qui se passe quand elle essaie de vérifier le sens et la forme en même temps : elle revient au début et finit parfois par ne plus savoir ce qu’elle cherchait. En disant ce qu’il reste à faire, elle donne au groupe un élément de travail dont il peut se servir.
 
 ## Décider avec le groupe de ce qui peut bouger
 
@@ -41,8 +45,3 @@ La date de remise ne change pas. Mme Lenoir demande ce qui peut sortir de la pag
 ## Deux rectangles et une marge
 
 Maïwenn conserve deux places : la table et, si Rachid valide l’image, le portrait. Elle range la pince orange parmi les solutions de remplacement. À la fin de la réunion, Mme Lenoir lui demande à part si elle souhaite reprendre aussi ce qui lui coûte du temps dans ses travaux de classe. Elles en ont déjà parlé ensemble. Maïwenn lui répond qu’elle veut finir de préparer le journal aujourd’hui ; elles reprendront cette autre question en privé la semaine suivante.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de Santé, parcours de santé des enfants avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2822893/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages)

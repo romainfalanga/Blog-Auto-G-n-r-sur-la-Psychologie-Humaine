@@ -92,5 +92,3 @@ La crainte du jugement dans l’intimité peut conduire à dissimuler une préf�
 Vérifier une prédiction, choisir une parole limitée et observer l’accueil peuvent aider à retrouver ce choix. Vous n’avez pas à tout dire, à le dire immédiatement ni à préférer les mêmes formes de proximité que votre partenaire. Une réponse nuancée peut rester respectueuse, tandis qu’une moquerie répétée mérite d’être reconnue comme un fait relationnel.
 
 Si la peur du jugement limite durablement votre expression ou s’inscrit dans une relation humiliante, une psychologue ou un autre professionnel peut aider à comprendre la situation et les appuis possibles. L’accompagnement doit respecter votre rythme et votre vie privée. Vous pouvez chercher une relation où vos préférences sont entendues sans être obligatoirement partagées.
-
-Sources : [Laurenceau et collègues, dévoilement de soi et réceptivité dans les échanges intimes, 1998](https://pubmed.ncbi.nlm.nih.gov/9599440/).

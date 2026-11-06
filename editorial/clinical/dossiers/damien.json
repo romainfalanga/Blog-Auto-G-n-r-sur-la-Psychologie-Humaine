@@ -1,0 +1,53 @@
+{
+  "references": {
+    "oms-cim-6c73": {
+      "title": "OMS, CIM-11, trouble explosif intermittent (6C73)",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#295017661"
+    },
+    "mccloskey-tcc-2022": {
+      "title": "McCloskey et coll., essai randomisé sur une thérapie cognitivo-comportementale du trouble explosif intermittent (2022)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36229112/"
+    },
+    "mccloskey-tcc-2008": {
+      "title": "McCloskey et coll., essai pilote randomisé sur la thérapie cognitivo-comportementale du trouble explosif intermittent (2008)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18837604/"
+    },
+    "inrs-violence-interne": {
+      "title": "INRS, prévention des violences internes au travail",
+      "url": "https://www.inrs.fr/risques/harcelements-violences-internes/prevention.html"
+    },
+    "france-violences-couple": {
+      "title": "Arrêtons les violences, repères et aide en cas de violences au sein du couple",
+      "url": "https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple"
+    },
+    "france-violences-urgence": {
+      "title": "Arrêtons les violences, contacts en cas de danger immédiat en France",
+      "url": "https://www.arretonslesviolences.gouv.fr/contact"
+    }
+  },
+  "dossier": {
+    "name": "Trouble explosif intermittent",
+    "aliases": [
+      "6C73",
+      "Intermittent explosive disorder"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-cim-6c73",
+      "mccloskey-tcc-2022",
+      "mccloskey-tcc-2008",
+      "inrs-violence-interne",
+      "france-violences-couple",
+      "france-violences-urgence"
+    ],
+    "points": [
+      "Le CDDR (2024, p. 530–534) décrit des accès agressifs brefs, répétés sur une période prolongée et nettement disproportionnés à la situation. Les actes de ce tableau sont impulsifs ou réactifs. L’évaluation tient compte de leur fréquence, de leur intensité, du contexte et du retentissement. Une scène isolée, même grave, appelle une réponse adaptée à ses conséquences et ne permet pas d’établir le trouble.",
+      "Les accès peuvent être verbaux ou physiques et s’accompagner de dommages matériels. Une blessure ou une dégradation n’est pas indispensable. Il arrive qu’une personne perçoive une menace là où l’intention reste incertaine ou qu’un obstacle ordinaire précède l’accès. Des signes avant-coureurs comme la tension peuvent exister sans être constants. Fatigue, honte ou regret sont possibles après coup. Aucun de ces éléments pris séparément ne démontre la cause d’un comportement.",
+      "Le professionnel vérifie si la difficulté est mieux expliquée par un autre trouble, par une maladie du système nerveux ou par les effets d’une substance ou d’un médicament, dont l’intoxication et le sevrage. La chronologie aide à distinguer une cooccurrence et un effet qui explique à lui seul le tableau. L’évaluation considère aussi le contexte social et la possibilité d’un grief fondé. Un diagnostic établi ne dispense pas de revoir un changement du tableau.",
+      "Le CDDR distingue les actes impulsifs ou réactifs de ceux qui sont planifiés ou instrumentaux. Les menaces, restrictions, surveillances ou pressions utilisées pour contrôler les choix d’autrui requièrent leur propre lecture et des mesures de protection adaptées. Une perte de contrôle rapportée ou un diagnostic ne disculpe pas une agression et ne permet pas d’écarter une situation d’emprise. Dans les scènes de violence ou de risque, la personne touchée peut se mettre en sécurité, faire appel à un tiers ou aux secours et choisir si elle parle, à qui et quand. En France, le 17 ou le 112 peut être appelé en cas de danger immédiat. Aucune rencontre, présence, réponse ou réconciliation ne conditionne la réparation.",
+      "Les essais randomisés de McCloskey et coll. (2008 et 2022) soutiennent l’intérêt possible d’interventions cognitivo-comportementales à plusieurs composantes chez des adultes suivis pour ce trouble. L’essai de 2022 a étudié un petit groupe de 44 adultes ayant terminé les séances. Ces résultats ne prédisent pas la réponse individuelle. Dans le récit, le repérage des signes, le travail sur les interprétations et la préparation d’un relais sont choisis avec l’équipe, puis revus après un incident. Ils n’offrent aucune garantie de sécurité et ne remplacent pas une intervention face au danger.",
+      "L’INRS inscrit la prévention des violences internes dans une démarche de travail et d’organisation. Dans l’atelier fictif, l’encadrement reçoit les signalements, peut entendre séparément et organise les relais. Damien répond de ses actes. Les personnes visées choisissent leur interlocuteur et n’endossent ni l’évaluation clinique ni le suivi de leur collègue. Les changements d’organisation servent la sécurité collective indépendamment des informations médicales privées."
+    ]
+  },
+  "direction": "Damien, 35 ans, travaille au conditionnement dans un atelier qui transforme les récoltes locales et joue de la basse électrique dans une fanfare associative. Il pense par rythmes, garde un carnet de bassiste et sait inventer une fin de morceau où chacun peut entrer. Il tient à rester musicien après avoir agressé verbalement Mireille, responsable du groupe de couture, et endommagé son pupitre de lecture au sujet du prêt de la salle des Tilleuls. Judith, saxophoniste et membre du bureau, assure des démarches matérielles circonscrites. Armelle représente la mairie. Leïla, sœur de Damien, garde son temps et ses choix. Maud est responsable d’équipe et Denis prend le relais au besoin. Noé, collègue de Damien, demande une transmission à part. L’équipe de soins suit un diagnostic connu depuis l’hiver précédent. L’accès inaugural, une amélioration inégale et un nouvel incident au travail conduisent à des décisions distinctes. Mireille choisit un circuit sans contact. Le prêt est réglé par écrit, le matériel est remplacé par le circuit administratif et la fanfare décide d’une reprise limitée. Le concert résout le désir musical de Damien sans solliciter la présence de Mireille ou de Leïla et sans transformer son progrès en dette de confiance. Le suivi continue."
+}

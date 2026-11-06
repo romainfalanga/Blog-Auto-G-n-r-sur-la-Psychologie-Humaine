@@ -32,7 +32,11 @@ Lou demande si le crédit photo doit être placé sous chaque image ou une seule
 
 ## Ce que la ligne sous le titre rend visible
 
-La facilité à mettre des mots sur la page ne résume pas la contribution d’une personne à un texte collectif. Une difficulté d’expression écrite peut rendre la mise en phrases plus lente, sans rien dire à elle seule de la qualité des observations ou du jugement de la personne. Dans ce reportage, Maïwenn a aussi rédigé ; Lou n’a pas seulement recopié ce que Maïwenn a vu. Lou a mené des entretiens, construit des raccords et discuté l’ordre du récit. Elles peuvent regarder ces contributions avant de décider ce que la signature dit de leur travail.
+La facilité à mettre des mots sur la page ne résume pas la contribution d’une personne à un texte collectif. Une difficulté d’expression écrite peut rendre la mise en phrases plus lente, sans rien dire à elle seule de la qualité des observations ou du jugement de la personne.
+
+## Comment cette difficulté se manifeste
+
+Dans ce reportage, Maïwenn a aussi rédigé ; Lou n’a pas seulement recopié ce que Maïwenn a vu. Lou a mené des entretiens, construit des raccords et discuté l’ordre du récit. Elles peuvent regarder ces contributions avant de décider ce que la signature dit de leur travail.
 
 ## S’accorder sur les crédits avant la dernière épreuve
 
@@ -41,8 +45,3 @@ Sur le bord du papier, Lou et Maïwenn reprennent les étapes : l’idée, les q
 ## Écrire deux prénoms au crayon
 
 Sur la marge, Maïwenn écrit « Reportage : Maïwenn et Lou ». Lou indique le crédit des photographies en dessous et rend la feuille à Sofiane. Les deux la gardent un instant par le même coin. Il reste à revoir les faits et à montrer le portrait à Rachid ; cette fois, elles n’attendront pas la fin de ces vérifications pour dire où leurs noms doivent figurer. Quand Maïwenn relâche le papier, elle a encore du mal à imaginer la ligne imprimée.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [American Speech-Language-Hearing Association, Written Language Disorders](https://www.asha.org/Practice-Portal/Clinical-Topics/Written-Language-Disorders/)

@@ -33,9 +33,13 @@ Adèle essaie de retrouver de mémoire le bruit juste avant le démarrage du mé
 
 Un repas difficile dans l’ARFID peut peser sur la décision de rester pour une activité sans résumer ce que la personne veut faire. Adèle a pu utiliser l’alternative préparée avec les adultes. Il reste à savoir comment le séjour peut continuer dans des conditions qui lui conviennent et qui respectent son suivi. Elle est aussi loin de sa chambre pour la première fois avec sa classe. Avoir envie de retrouver son lit ne dit pas, à lui seul, comment sa santé évolue ou ce dont elle aura besoin au prochain repas.
 
-Eva et Mme Roussel peuvent reprendre les faits : l’appui a été disponible ce soir, et il reste à s’assurer qu’il le sera au petit déjeuner. Pour toute question sur le plan de soins, elles s’en tiennent aux consignes convenues avec l’équipe. Eva peut se réjouir de ce qu’Adèle a déjà fait à l’atelier, quelle que soit sa décision sur la nuit.
+## L’inquiétude qui revient à la pensée du petit déjeuner
+
+De retour dans la chambre, Adèle rit avec Inès en regardant leur dessin. Au moment de décider où dormir, elle repense à la porte du réfectoire, où elle n’est pas parvenue à entrer pour dîner. La petite salle a été accessible une fois. Elle se demande encore si elle pourra s’en servir le matin et demande à sa mère de rester au téléphone pour entendre la réponse. Elle a aussi envie de retrouver son lit chez elle.
 
 ## Conserver une possibilité de retour
+
+Eva et Mme Roussel peuvent vérifier que l’appui disponible au dîner le sera aussi au petit déjeuner et dire à Adèle qui pourra la recevoir. Pour les questions liées au plan de soins, elles s’en tiennent aux consignes de l’équipe. Eva peut parler avec Adèle de ce qu’elle a aimé à l’atelier, quelle que soit sa décision sur la nuit.
 
 Le trajet du retour a été discuté avant le départ. Mme Roussel et Eva peuvent redire qui appelle si une difficulté apparaît pendant la nuit ou au réveil et où trouver un adulte. Adèle n’a pas à promettre qu’elle restera jusqu’à l’heure du car pour choisir de remonter dans la chambre maintenant. Elle sait aussi où se trouve Mme Roussel pendant la nuit et comment lui demander de l’aide.
 
@@ -44,9 +48,3 @@ Si elle souhaite rester, une tâche l’attend avec Inès : choisir comment pré
 ## Le volet est fermé
 
 Mme Roussel confirme le relais de M. Benhamou au petit déjeuner et l’accès à la petite salle. Adèle dit qu’elle veut rester. Eva lui souhaite bonne nuit et confirme qu’elle demeure joignable. Mme Roussel lui montre où frapper si elle a besoin d’elle pendant la nuit. De retour au lit, Adèle demande à Inès de lui faire entendre le frottement, puis éteint la lampe. Elle se réveille plus tard sans savoir combien de temps elle a dormi. Sa main trouve le coin du carnet dans le noir. Elle finit par se rendormir.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Maudsley Centre for Child and Adolescent Eating Disorders (NHS) — ARFID Service Frequently Asked Questions](https://mccaed.slam.nhs.uk/wp-content/uploads/2022/12/ARFID-Service-FAQs-Dec-22.pdf)
-- [Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust — ARFID: Creating supportive mealtimes](https://www.cntw.nhs.uk/resources/avoidant-restrictive-food-intake-disorder-arfid-simple-suggestions-series-creating-supportive-mealtimes)

@@ -1,5 +1,5 @@
 ---
-title: "Odile : trouver du sens dans une action ordinaire"
+title: Trouver du sens dans une action ordinaire
 date: 2026-11-03T09:20:00+00:00
 description: "Un dessin de devanture semble bien modeste à Odile. Elle cherche ce qui compte dans ses gestes, sans devoir se trouver une grande mission."
 categories: ["Reprendre le contrôle de ses pensées"]
@@ -74,7 +74,3 @@ Le sens d’une action peut tenir à quelque chose de modeste et personnel. Il n
 Après une perte ou un changement de rôle, les repères peuvent se modifier. Il n’est pas nécessaire de remplacer immédiatement une relation, un métier ou une ancienne habitude par une grande mission. Un essai limité, une conversation ou une activité choisie peuvent fournir des informations sur vos intérêts actuels. Ces expériences ne donnent pas un sens obligatoire à l’épreuve et n’ont pas à prouver que vous en sortez grandi.
 
 Si un manque d’intérêt ou un sentiment de vide persiste et vous inquiète, ou si les contraintes vous laissent sans possibilité d’action souhaitée, vous pouvez en parler à un médecin, un psychologue ou un professionnel de proximité. Le soutien peut examiner autant les conditions concrètes que l’expérience émotionnelle. Il peut aider à retrouver des possibilités à votre mesure, sans imposer une vie plus occupée ni un projet qui ne vous correspond pas.
-
-Sources :
-- [OMS, Doing What Matters in Times of Stress](https://www.who.int/publications/i/item/9789240003927)
-- [NIMH, Caring for Your Mental Health](https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health)

@@ -98,5 +98,3 @@ La réciprocité dans les relations ne demande pas que chaque geste trouve immé
 Aline ne découvre pas une règle parfaite de l’amitié. Elle apprend à demander une initiative et à observer la réponse dans le temps. Son aide garde sa valeur sans devenir le prix d’une invitation. Elle peut contribuer avec plaisir tout en reconnaissant qu’un lien a besoin de plusieurs présences pour rester vivant.
 
 Si les relations vous laissent durablement épuisé, invisible ou inquiet à l’idée de refuser, un psychologue peut aider à comprendre vos attentes et à formuler des limites. Un accompagnement peut aussi soutenir un choix de distance quand la discussion ne suffit pas. Vous n’avez pas à démontrer qu’une personne est entièrement mauvaise pour reconnaître qu’un fonctionnement ne vous convient plus.
-
-Sources : [Clark et Mills, relations communautaires et relations d’échange](https://clarkrelationshiplab.yale.edu/sites/default/files/files/Interpersonal%20attraction%20in%20exchance%20and%20commual%20relationships.pdf).

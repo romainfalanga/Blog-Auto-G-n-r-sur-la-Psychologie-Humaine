@@ -31,7 +31,11 @@ Sa phobie spécifique des hauteurs est connue de la psychologue qu’elle consul
 
 ## Comment une image peut déclencher l’alarme
 
-Dans une phobie spécifique, la peur se concentre sur une situation ou un objet. Elle peut se déclencher lors d’une rencontre avec ce qui est redouté et aussi à l’idée de cette rencontre. Le lieu représenté sur l’écran reste loin du bureau. En revanche, Thaïs imagine déjà le sol sous ses chaussures et le moment où elle devra répondre à Inès. Les sensations qu’elle éprouve à sa place sont bien présentes. La scène rend visible l’effort qu’il lui faut pour suivre une discussion alors qu’elle s’attend à avoir très peur.
+Dans une phobie spécifique, la peur se concentre sur une situation ou un objet. Elle peut se déclencher lors d’une rencontre avec ce qui est redouté et aussi à l’idée de cette rencontre. Le lieu représenté sur l’écran reste loin du bureau.
+
+## Comment cette difficulté se manifeste
+
+En revanche, Thaïs imagine déjà le sol sous ses chaussures et le moment où elle devra répondre à Inès. Les sensations qu’elle éprouve à sa place sont bien présentes. La scène rend visible l’effort qu’il lui faut pour suivre une discussion alors qu’elle s’attend à avoir très peur.
 
 Une photo inquiétante peut aussi susciter un malaise passager chez quelqu’un. Pour comprendre une phobie, un professionnel replace les réactions dans la durée et regarde leurs effets sur les déplacements, le travail ou d’autres activités. Le temps passé à préparer un trajet peut faire partie de ce retentissement, y compris quand personne ne remarque de sortie annulée.
 
@@ -44,8 +48,3 @@ Il peut être utile de pouvoir différer une décision quand plusieurs informati
 ## Revenir au nom du canal
 
 Thaïs ferme la carte du détour. Elle dit à Inès qu’elle a perdu la liste des photos et demande de reprendre depuis la première borne. Samir lui propose de venir au repérage du lendemain pour examiner les accès avant de répartir les postes. Elle accepte le repérage et garde la liste des postes à discuter. Quand l’écran revient au village, elle pose enfin son calque sur le nom du canal. Inès a entendu un quatrième nom chez sa voisine.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, Phobias](https://www.nhs.uk/mental-health/conditions/phobias/)

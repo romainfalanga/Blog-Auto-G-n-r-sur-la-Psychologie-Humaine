@@ -21,7 +21,7 @@ draft: false
     <p class="parcours-resume">Adrien pose le téléphone à côté de son verre, écran contre table. Il se donne jusqu’à la fin du morceau avant de le retourner. Au milieu du refrain, il le reprend.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Le schéma d’abandon ou d’instabilité permet d’examiner la place de cette peur dans une relation. Les expériences et les circonstances diffèrent d’une personne à l’autre.</p>
+      <p>Adrien efface son brouillon. Quand Julien lui propose d’aller courir, il répond qu’il est libre jeudi.</p>
     </div>
     <a href="/posts/sortir-de-ses-schemas-repetitifs/abandon-instabilite-face-solitude/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

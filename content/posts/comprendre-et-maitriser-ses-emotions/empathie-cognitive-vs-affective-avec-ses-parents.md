@@ -11,6 +11,8 @@ personnage: "Isabelle"
 sujet: "empathie cognitive vs affective"
 contexte: "avec ses parents"
 draft: false
+editorial_sources:
+- https://doi.org/10.1037/0022-3514.44.1.113
 ---
 
 Sur le palier de sa mère, Isabelle pose le sac de courses pour chercher ses clés. La dernière fois, elle était venue avec des papiers qu’elles n’avaient finalement pas ouverts. Ce soir, elle a prévenu Théo qu’elle rentrerait pour dîner. Elle arrive à peine à tourner la clé que Geneviève commence à lui parler d’un courrier. Elle ramasse le sac avant de répondre.
@@ -68,5 +70,3 @@ Les distinctions autour de l’empathie aident à formuler plusieurs questions :
 Vous pouvez écouter, vérifier ce que vous comprenez et proposer une aide compatible avec votre disponibilité. Les habitudes familiales et les circonstances du jour peuvent peser différemment selon les situations.
 
 Ce cheminement peut parfois nécessiter un accompagnement. Si vous vous sentez régulièrement épuisé par les émotions de vos proches ou si vous ne parvenez plus à fixer de limites, consulter un professionnel de la psychologie est une démarche utile. Un thérapeute pourra vous aider à renforcer vos frontières émotionnelles et à retrouver votre propre espace intérieur.
-
-Sources : [Davis, étude multidimensionnelle de l’empathie, 1983](https://doi.org/10.1037/0022-3514.44.1.113).

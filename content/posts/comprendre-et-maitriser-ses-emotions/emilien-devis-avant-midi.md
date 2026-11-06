@@ -31,7 +31,11 @@ Dorian lui avait proposé un essai sous l’auvent, un matin, avec une seule enc
 
 ## Comprendre pourquoi plusieurs changements comptent ensemble
 
-Dormir moins sans ressentir le besoin de récupérer, multiplier des projets et engager de l’argent plus vite qu’à l’ordinaire peuvent faire partie d’un changement que l’équipe cherchera à comprendre. Dans cette scène, la comparaison utile est celle qu’Émilien avait faite avec les professionnels : sa façon habituelle de préparer un travail, les signes observés avant son précédent épisode et ce qui arrive maintenant. Le devis ne prouve rien à lui seul. L’enthousiasme pour la diffusion a aussi une raison. Il suffit cependant que plusieurs signes préoccupants se présentent pour qu’il demande un avis selon son plan ; il n’a pas à déterminer lui-même s’il s’agit d’une rechute.
+Dormir moins sans ressentir le besoin de récupérer, multiplier des projets et engager de l’argent plus vite qu’à l’ordinaire peuvent faire partie d’un changement que l’équipe cherchera à comprendre.
+
+## Des nuits plus courtes et des décisions qui s’accélèrent
+
+Depuis trois nuits, Émilien dort peu sans avoir envie de se rendormir. Au lieu de demander le prix pour un essai, il décrit aussitôt une installation pour toute la place. Il a déjà envoyé à Dorian une liste de morceaux à l’aube et remanié le plan trois fois, sans attendre de réponse. Le projet lui plaît réellement. C’est la succession des décisions et des changements de sommeil, par rapport à ses habitudes, qui attire l’attention.
 
 ## Mettre l’engagement en attente et demander un avis
 
@@ -40,8 +44,3 @@ Dormir moins sans ressentir le besoin de récupérer, multiplier des projets et 
 ## L’acompte reste en attente
 
 Émilien retourne au comptoir. Il demande une copie du devis et précise que les quatre séances ne sont pas confirmées. Dehors, il appelle le contact indiqué et décrit les trois nuits, puis convient d’un point avec l’équipe. Dorian reçoit une seule phrase : « Je n’ai rien réservé ; on garde l’essai d’une matinée en attente. » Émilien se voit encore expliquer son installation à qui voudrait l’entendre. Il plie le devis et le range. Pour aujourd’hui, les enceintes restent chez le vendeur.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

@@ -33,6 +33,8 @@ Côme a reçu un message de Nadège à midi. Elle a récupéré un plateau de bo
 
 Le retentissement du trouble du jeu vidéo peut concerner le travail, entre autres domaines de la vie. Côme a été en retard après une nuit qu’il n’avait pas réussi à écourter. Ce mardi, il est à son poste et la livraison est en retard pour une autre raison. Il peut prendre au sérieux l’ouverture qu’il a manquée et répondre séparément à la demande d’Inès. Son horaire de fin est déjà fixé ; il choisit de dire ce qu’il peut faire d’ici là.
 
+## Comment cette difficulté se manifeste
+
 Le choix le met mal à l’aise. Depuis le matin où Inès a ouvert seule, il aimerait lui montrer qu’elle peut compter sur lui. S’il dit oui à un horaire qu’il ne connaît pas, il risque de perdre son rendez-vous sans savoir ce qu’il aura apporté à la boutique. En notant la référence des pièces, il donne à Inès une information qui lui sera utile même s’il n’est plus là.
 
 ## Deux lieux où il peut demander des choses différentes
@@ -44,9 +46,3 @@ En préparant les commandes, Côme s’aperçoit qu’il a tenu les ouvertures d
 ## La référence et le carton plié
 
 Avant de partir, Côme pose le bac préparé devant Inès et lui montre les deux références sur un ticket. Elle confirme qu’elle sait où chercher et qu’elle demandera à la responsable comment finir le rayon si la livraison tarde encore. À l’atelier, Nadège a posé le bois clair sur deux supports. Côme déplie son carton dessus : les traits de Florian tiennent dedans. Le plateau porte une rayure qui s’arrête au milieu. Il choisit de la garder. Nadège lui réserve un créneau pour monter le plateau et faire un essai avant de recevoir du monde.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Trouble du jeu vidéo : questions et réponses](https://www.who.int/fr/news-room/questions-and-answers/item/gaming-disorder)
-- [CHU de Nantes, Addictologie : consultations spécialisées](https://www.chu-nantes.fr/venir-en-consultation-45)

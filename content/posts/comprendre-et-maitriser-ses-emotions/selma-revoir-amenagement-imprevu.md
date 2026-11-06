@@ -33,7 +33,9 @@ Livia lui écrit qu’elle attend devant une salle d’un autre bâtiment. Selma
 
 Le retentissement d’un stress post-traumatique peut varier selon les circonstances. Un cadre prévisible peut aider une personne à participer à une activité, et un changement de lieu ou d’interlocuteur peut lui demander plus d’effort. Le NICE inclut le retour à des activités de la vie quotidienne, notamment professionnelles et sociales, parmi les objectifs possibles d’une prise en charge spécialisée. Les effets de ces changements se discutent à partir de l’expérience de la personne.
 
-Selma peut dire ce qui a fonctionné lors de la première matinée et ce qui a manqué aujourd’hui. Elle savait qui appeler, mais l’information sur le lieu lui est parvenue au moment d’entrer. Elle peut demander comment les changements seront signalés et ce qui est possible quand le message arrive trop tard. La responsable peut préciser les contraintes du bâtiment et les options réellement ouvertes.
+## Un bruit et une indication qu’elle n’entend qu’en partie
+
+Selma découvre à l’accueil que la salle a changé. Quand une porte se referme, elle perd une partie de la phrase qu’on lui adresse et ne retient que « on va voir ». Elle voudrait sortir de la file. La première matinée lui avait laissé le plaisir de reprendre les dossiers. Aujourd’hui, l’arrivée lui demande déjà assez d’effort pour qu’elle s’asseye avant de décider ce qu’elle pourra faire.
 
 ## S’appuyer sur le contact désigné
 
@@ -41,11 +43,8 @@ Selma peut dire ce qui a fonctionné lors de la première matinée et ce qui a m
 
 Pour Livia, un message suffit. Selma lui dit qu’elle a joint la responsable et qu’elle la préviendra de la suite du classement. Elle garde le choix de lui raconter un autre jour comment elle a vécu le changement.
 
+Selma peut signaler que le nom de la personne à joindre était disponible, mais que la nouvelle salle lui a été annoncée au dernier moment. Elle peut demander comment les prochains changements seront communiqués.
+
 ## La coupelle reste vide
 
 La responsable lui confirme que la salle proposée reste incertaine pour le reste de la matinée. Elles reportent le classement et conviennent d’un message écrit avant le prochain déplacement. Selma range le téléphone, puis retourne au comptoir signaler qu’elle part. Dehors, elle marche jusqu’au banc où elle avait posé son sac le premier jour. Elle s’y assied un moment. André lui a demandé s’il pouvait passer après la livraison des panneaux. Elle lui répond qu’il peut venir voir l’étagère samedi, quand le vitrier aura fini.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

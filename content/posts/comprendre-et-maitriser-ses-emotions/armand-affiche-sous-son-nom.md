@@ -33,7 +33,9 @@ La bénévole voudrait aussi mettre sa photo sur le panneau de l’entrée. Arma
 
 Accepter de participer à une activité publique peut laisser ouvertes plusieurs décisions sur les informations qu’on veut y partager. Armand accepte que son nom apparaisse avec le don. La photographie et le fait d’évoquer sa santé sont deux autres propositions. Il veut comprendre chacune et choisir sa réponse. Une formulation lisible, un exemple concret de l’affiche ou la possibilité de relire plus tard peuvent aider la personne à dire ce qu’elle souhaite.
 
-Dans le cadre des soins, le NICE recommande de demander à la personne quelles informations elle autorise à partager et avec qui. Au foyer, Nadia peut appliquer la même attention au choix d’Armand : son accord sur le nom porte sur ce qu’ils viennent de lire ensemble. Elle peut répondre à une rumeur en revenant au contenu annoncé : les cartes, le lieu et les conditions de la rencontre.
+## Des choix distincts difficiles à suivre en même temps
+
+Armand suit du doigt le texte de l’affiche, recommence sa lecture et demande à Nadia de redire la proposition de la bénévole. Une mention sur la mémoire lui donnerait l’impression qu’on attend de lui des dates. Il reconnaît son nom et dit qu’il peut rester. Il choisit ensuite la reproduction du pont à la place du portrait. L’effort pour reprendre les propositions laisse place à des choix différents pour chaque élément.
 
 ## Relire le document qui sera affiché
 
@@ -41,12 +43,8 @@ Armand et Nadia peuvent vérifier la version finale ensemble, à côté de la re
 
 L’annonce peut aussi dire comment la rencontre se déroulera, de façon à laisser plusieurs manières de participer. On peut venir voir le plan pendant les heures d’ouverture et lire la légende même si Armand écourte sa présence. Le don reste un projet entre lui et la bibliothèque. Si une nouvelle proposition de photo ou de récit arrive après l’impression, ils pourront la traiter séparément. Le personnel du foyer peut tenir cette limite sans demander à Jeanne de surveiller ce qui se dit.
 
+Dans le cadre des soins, le NICE recommande de demander à la personne quelles informations elle autorise à partager et avec qui. Au foyer, Nadia peut appliquer la même attention au choix d’Armand. L’accord sur son nom porte sur cette affiche. Elle peut répondre aux questions en s’en tenant à ce qui a été convenu pour la rencontre.
+
 ## À la place du portrait
 
 Nadia réimprime la feuille avec le titre proposé et la reproduction du pont bas en vignette. En dessous du nom, il reste « cartes anciennes du quartier ». Armand la relit avec elle et lui donne son accord pour cette version. La date du don sera ajoutée quand le rendez-vous sera fixé. Il reprend la première feuille pour que les deux versions ne circulent pas. Dans la cour, il croise la bénévole qui lui demande si le trait visible sur la vignette suit le chemin de halage. Il lui répond que le chemin passait un peu plus bas.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG97, évaluation, soins et soutien des personnes vivant avec une démence et de leurs proches](https://www.nice.org.uk/guidance/ng97/resources/dementia-assessment-managementand-support-for-people-living-with-dementia-and-their-carers-pdf-1837760199109)
-- [HAS, parcours de soins du trouble neurocognitif associé à la maladie d’Alzheimer](https://www.has-sante.fr/jcms/c_2906096/fr/patients-presentant-un-trouble-neurocognitif-associe-a-la-maladie-d-alzheimer-ou-a-une-maladie-apparentee-guide-parcours-de-soins)

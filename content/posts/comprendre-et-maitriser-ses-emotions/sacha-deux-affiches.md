@@ -33,6 +33,8 @@ Sacha remet de niveau un paquet d’étiquettes que l’homme avait pris dans le
 
 Une réaction de retrait s’interprète en tenant compte des conditions dans lesquelles elle survient. L’OMS rappelle que, pour évaluer une anxiété sociale, le professionnel tient compte des usages et des risques réels, par exemple quand une personne est confrontée à du harcèlement. Quelqu’un qui vit avec un trouble d’anxiété sociale peut aussi réagir à une remarque dévalorisante ou à une proposition où son origine supposée sert à l’écarter d’un rôle. Le diagnostic ne dit pas à lui seul pourquoi une personne refuse une situation donnée.
 
+## Comment cette difficulté se manifeste
+
 L’autre jour, Sacha imaginait le jugement de Nora à partir d’un sourire dont il ignorait la cause. Ici, l’organisateur a imité sa voix et dit devant lui pourquoi il voulait lui retirer la parole. Sacha peut raconter les deux scènes à la docteure Rigal. Elle peut l’écouter décrire ces circonstances différentes, sans traiter le retour sous cet auvent comme un objectif de soin.
 
 ## Répondre à la remarque dans le cadre où elle a lieu
@@ -44,9 +46,3 @@ Si une personne en France pense avoir subi une discrimination ou en avoir été 
 ## Une affiche reste en place
 
 Nora dit à Sacha qu’elle va écrire à l’association pour décliner l’animation sous l’auvent et expliquer que les propos sur sa façon de parler ont interrompu la discussion. Elle relit avec lui le passage qui le concerne avant d’envoyer le message. Sacha lui demande de s’en tenir à ce qui a été dit, sans ajouter qu’il était mal à l’aise. Il prend ensuite le feutre des mains de Gaspard. Il ajoute au bas de leur affiche : « Les pots seront fournis. » Gaspard ajoute « quinze minutes » au-dessous. Sacha repasse le S de son prénom, que le soleil a déjà pâli près de la vitre.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG159, reconnaissance, évaluation et traitement du trouble d’anxiété sociale](https://www.nice.org.uk/guidance/cg159/resources/social-anxiety-disorder-recognition-assessment-and-treatment-pdf-35109639699397)
-- [Défenseur des droits, reconnaître une discrimination et obtenir de l’aide](https://www.defenseurdesdroits.fr/discrimination-1229)

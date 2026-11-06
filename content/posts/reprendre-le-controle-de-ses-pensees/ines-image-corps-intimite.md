@@ -92,5 +92,3 @@ L’image du corps peut occuper l’intimité au point de transformer un moment 
 Une description séparée du jugement, un repère choisi et une demande de soutien précise peuvent ouvrir cette possibilité. Vous pouvez garder vos préférences de visibilité, de vêtements et de contact. Le respect de soi ne nécessite pas une exposition imposée ni l’enthousiasme permanent envers son apparence.
 
 Si la préoccupation corporelle devient envahissante, conduit à des vérifications répétées ou limite fortement la vie quotidienne, une psychologue ou un professionnel de santé peut aider à l’examiner. Une difficulté persistante mérite un accompagnement qui respecte vos choix. Vous n’avez pas à attendre d’aimer votre corps entièrement pour que ses limites et ses besoins soient pris au sérieux.
-
-Sources : [Grower et Ward, appréciation corporelle et capacité de choix dans la sexualité, 2018](https://pubmed.ncbi.nlm.nih.gov/30248567/).

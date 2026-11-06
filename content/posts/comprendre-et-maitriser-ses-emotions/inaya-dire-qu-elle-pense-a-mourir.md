@@ -30,7 +30,11 @@ Sa sœur décroche en pensant que le groupe du samedi est enfin complet. Inaya l
 
 ## Prendre au sérieux une parole qui change
 
-Des pensées de mort ou de suicide peuvent apparaître pendant un épisode dépressif. Leur présence ne permet pas à un proche de déterminer seul le danger. Elle mérite une réponse rapide et un avis professionnel, sans attendre le prochain rendez-vous ni demander à la personne de prouver que sa souffrance est assez grave. Le NICE et la HAS insistent sur l’évaluation du risque au cours du suivi. La réponse d’Inaya à la consultation et ce qu’elle dit ce soir peuvent toutes deux être vraies.
+Des pensées de mort ou de suicide peuvent apparaître pendant un épisode dépressif. Leur présence ne permet pas à un proche de déterminer seul le danger. Elle mérite une réponse rapide et un avis professionnel, sans attendre le prochain rendez-vous ni demander à la personne de prouver que sa souffrance est assez grave. Le NICE et la HAS insistent sur l’évaluation du risque au cours du suivi.
+
+## Comment cette difficulté se manifeste
+
+La réponse d’Inaya à la consultation et ce qu’elle dit ce soir peuvent toutes deux être vraies.
 
 Un proche peut écouter une phrase directe sans chercher à la contester ou à rappeler tout ce qui devrait donner envie d’aller mieux. S’il s’inquiète, il peut poser une question claire sur les pensées de suicide et aider la personne à trouver du soutien immédiatement. Il n’a pas à interpréter ses silences, à négocier une promesse ou à rester seul responsable de sa sécurité.
 
@@ -43,9 +47,3 @@ Si une situation comparable se présente sans danger immédiat apparent, un prof
 ## Myriam passe le relais
 
 Plus tard, Inaya parle à une soignante. Elle redit la phrase qu’elle a dite à Myriam et répond à des questions sur ce qui a changé depuis la consultation. La soignante lui explique la suite, puis s’assure qu’elle sait qui contacter après l’évaluation. Inaya demande à Myriam de rester le temps qu’elle retrouve sa veste. Elles laissent le tableau des inscriptions fermé. Ce soir, la seule nouvelle qu’Inaya veut donner au sujet de l’atelier tient en quelques mots : elles répondront plus tard.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, épisode dépressif caractérisé chez l’adulte](https://www.has-sante.fr/jcms/c_1739917/fr/episode-depressif-caracterise-de-l-adulte-prise-en-charge-en-premier-recours)
-- [NICE NG222, dépression de l’adulte](https://www.nice.org.uk/guidance/NG222/chapter/recommendations)

@@ -90,5 +90,3 @@ Les compétences transférables deviennent plus visibles lorsqu'on décrit des a
 Vous pouvez choisir une situation concrète, nommer ce que vous faites et regarder ce que cela permet. Cherchez ensuite les ressemblances et les différences avec le contexte qui vous intéresse. Une capacité modeste, illustrée et adaptable peut être plus utile qu'une liste de qualités générales. Les appuis reçus ont leur place dans cette description.
 
 Si vous peinez durablement à reconnaître vos ressources ou si chaque difficulté efface tout ce que vous savez faire, un professionnel peut vous accompagner dans cette réflexion. Un formateur ou un conseiller de parcours peut aussi aider à relier les expériences aux exigences réelles. Vous avez le droit de reconnaître des acquis tout en restant en apprentissage.
-
-Sources : [Barnett et Ceci, conditions et portée du transfert des apprentissages](https://pubmed.ncbi.nlm.nih.gov/12081085/) ; [Albert Bandura, sentiment d'efficacité personnelle](https://pubmed.ncbi.nlm.nih.gov/847061/).

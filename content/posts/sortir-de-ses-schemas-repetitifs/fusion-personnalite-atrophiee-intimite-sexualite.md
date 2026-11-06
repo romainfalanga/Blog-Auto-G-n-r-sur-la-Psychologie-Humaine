@@ -11,6 +11,8 @@ personnage: "Mei"
 sujet: "effacement de ses préférences et consentement dans l’intimité"
 contexte: "dans l'intimité et la sexualité"
 draft: false
+editorial_sources:
+- https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-sexuelles
 ---
 
 Julien lui envoie l’affiche d’un film et propose de le regarder chez lui. Mei commence sa réponse par « J’adore ce réalisateur ». Elle connaît son nom parce qu’il est écrit en bas de l’image. Elle relit le message de Julien. Il lui propose un film, puis lui demande si ça lui dit. Elle a déjà tapé de quoi lui faire croire qu’elle y pensait depuis longtemps.
@@ -64,5 +66,3 @@ Dans cette histoire, Mei trouve des mots pour dire ce qu’elle veut partager av
 L'intimité véritable ne demande pas de s'effacer, mais au contraire d'être pleinement présent. Chaque refus, chaque préférence exprimée et chaque moment de reconnexion à vos propres sensations renforce votre sentiment d'existence. C'est ainsi que vous construisez des relations durables, basées sur le respect mutuel et l'authenticité plutôt que sur la peur du rejet.
 
 Un psychologue peut aider à comprendre une difficulté qui se répète dans l’intimité ou devient douloureuse. En cas de pression, de menace ou de violence, la priorité est de chercher un appui sûr.
-
-Sources : [Gouvernement français, consentement et violences sexuelles](https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-sexuelles).

@@ -33,18 +33,18 @@ Anna revient avec elle sur les crises qui ont motivé le suivi et sur ce qui se 
 
 ## Mettre le même symptôme dans son contexte
 
-La perte de contrôle pendant des épisodes récurrents peut être au cœur de la boulimie et de l’hyperphagie boulimique. Dans la boulimie, ces épisodes s’accompagnent de façon régulière de conduites compensatoires inappropriées visant à prévenir la prise de poids. L’hyperphagie boulimique correspond à un autre ensemble clinique, avec des épisodes récurrents qui ne s’accompagnent pas régulièrement de telles conduites. Cette distinction se fait dans une évaluation qui considère la souffrance, le fonctionnement et d’autres explications possibles. La silhouette ne permet pas de départager les deux troubles. En français, on trouve « Frénésie alimentaire » dans la CIM-11 pour l’hyperphagie boulimique.
+La perte de contrôle pendant des épisodes récurrents peut être au cœur de la boulimie et de l’hyperphagie boulimique. Dans la boulimie, ces épisodes s’accompagnent de façon régulière de conduites compensatoires inappropriées visant à prévenir la prise de poids.
+
+L’hyperphagie boulimique correspond à un autre ensemble clinique, avec des épisodes récurrents qui ne s’accompagnent pas régulièrement de telles conduites. Cette distinction se fait dans une évaluation qui considère la souffrance, le fonctionnement et d’autres explications possibles. La silhouette ne permet pas de départager les deux troubles. En français, on trouve « Frénésie alimentaire » dans la CIM-11 pour l’hyperphagie boulimique.
+
+## Ce qui arrive pendant la crise et après
+
+Morgane se souvient du moment où elle voulait s’arrêter et du mal qu’elle avait ensuite à reprendre sa journée. Elle décrit à Anna des épisodes après lesquels elle a envie de quitter la conversation ou annule un rendez-vous. La consultation reprend ces épisodes et le fait que Morgane n’a pas régulièrement de conduites compensatoires. Ces informations éclairent le diagnostic et ce que les crises changent pour elle.
 
 ## Faire entrer la vie quotidienne dans le suivi
 
-Morgane décrit comment une crise peut être suivie d’une annulation ou d’heures où elle se sent moins disponible. L’équipe peut tenir compte de ce retentissement social, de la détresse et de sa santé physique dans le projet de soins. La HAS et la FFAB recommandent une prise en charge adaptée et discutée avec la personne. Dans la scène, la clarification du diagnostic donne surtout à Morgane un langage pour poser des questions. Elle peut choisir de parler à Lucie de ce qu’elle vit sans avoir à lui expliquer les catégories en détail. Le rendez-vous lui laisse aussi une place pour parler du projet qui l’occupe en ce moment.
+L’équipe peut tenir compte de ce retentissement social, de la détresse et de sa santé physique dans le projet de soins. La HAS et la FFAB recommandent une prise en charge adaptée et discutée avec la personne. Dans la scène, la clarification du diagnostic donne surtout à Morgane un langage pour poser des questions. Elle peut choisir de parler à Lucie de ce qu’elle vit sans avoir à lui expliquer les catégories en détail. Le rendez-vous lui laisse aussi une place pour parler du projet qui l’occupe en ce moment.
 
 ## Une phrase plutôt qu’un cours
 
 À la sortie, Morgane range le dessin du côté intact dans son sac. Elle a noté « j’ai parfois l’impression que je ne peux plus décider comment je mange » sur un coin du papier. Lucie lui a proposé de se retrouver mercredi près de la librairie. Morgane lui répond qu’elle viendra et qu’elle aimerait lui parler d’une chose qui lui prend du temps. Elles conviennent de marcher d’abord un peu, avant de chercher une table.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et Fédération française anorexie boulimie, recommandations sur la boulimie et l’hyperphagie boulimique](https://www.has-sante.fr/upload/docs/application/pdf/2019-09/boulimie_et_hyperphagie_boulimique_-_recommandations.pdf)
-- [NICE, recommandations NG69 sur les troubles des conduites alimentaires](https://www.nice.org.uk/guidance/ng69/evidence/full-guideline-pdf-161214767896)

@@ -30,7 +30,11 @@ Clémence entend son prénom et reconnaît la voix de Baya. Elle essaie de dire 
 
 ## Faire évaluer un malaise préoccupant
 
-Un malaise soudain avec des difficultés à répondre demande une aide médicale urgente. Le NICE rappelle que l’état physique des personnes qui ont un trouble des conduites alimentaires doit être évalué par des professionnels et qu’une prise en charge urgente peut être nécessaire. Le malaise peut avoir plusieurs causes. Ce que Baya vient d’observer donne un point de départ aux professionnels. Les personnes présentes ne peuvent pas en décider à partir de l’apparence de Clémence ou du fait qu’elle est suivie. Les professionnels pourront examiner la situation et demander les renseignements dont ils ont besoin.
+Un malaise soudain avec des difficultés à répondre demande une aide médicale urgente. Le NICE rappelle que l’état physique des personnes qui ont un trouble des conduites alimentaires doit être évalué par des professionnels et qu’une prise en charge urgente peut être nécessaire. Le malaise peut avoir plusieurs causes. Ce que Baya vient d’observer donne un point de départ aux professionnels.
+
+## Comment cette difficulté se manifeste
+
+Les personnes présentes ne peuvent pas en décider à partir de l’apparence de Clémence ou du fait qu’elle est suivie. Les professionnels pourront examiner la situation et demander les renseignements dont ils ont besoin.
 
 ## Donner aux secours les faits dont ils ont besoin
 
@@ -39,8 +43,3 @@ L’adresse et ce que Baya vient d’observer permettent de commencer l’appel.
 ## La référente ouvre la porte
 
 L’équipe arrive par la porte que la référente a gardée ouverte. Baya raconte ce qu’elle a vu et se décale pour laisser la place. Quand les professionnels s’adressent à Clémence, elle répond quand elle le peut. Elle demande à Baya de lui passer le sac qu’elle avait désigné. La référente pose le boîtier sur le comptoir et confirme au groupe que l’essai est reporté. Les secours prennent en charge Clémence.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG69, repérage et prise en charge des troubles des conduites alimentaires](https://www.nice.org.uk/guidance/ng69/chapter/recommendations)

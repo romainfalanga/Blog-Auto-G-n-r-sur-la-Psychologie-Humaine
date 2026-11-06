@@ -1,5 +1,5 @@
 ---
-title: "Odile : transmettre un souvenir à sa manière"
+title: Transmettre un souvenir à sa manière
 date: 2026-11-03T09:50:00+00:00
 description: "Lucie propose d’enregistrer une histoire de famille. Odile choisit ce qu’elle veut raconter, à qui et sous quelle forme, sans devoir tout transmettre."
 categories: ["Sortir de ses schémas répétitifs"]
@@ -74,7 +74,3 @@ Transmettre un souvenir peut être une occasion de relation et de choix, sans de
 Le destinataire, l’usage prévu et les personnes évoquées méritent une attention concrète. Une parole donnée dans un cadre familial n’est pas automatiquement destinée à circuler ailleurs. Préciser ce que vous souhaitez partager et ce dont vous vous souvenez peut soutenir la confiance sans rendre l’échange solennel. La transmission peut aussi laisser une place aux désaccords et aux versions différentes, au lieu de fixer immédiatement un récit unique pour tous.
 
 Si raconter certains souvenirs devient trop douloureux, si une question de mémoire vous inquiète ou si un conflit important apparaît, vous pouvez demander l’appui d’un professionnel adapté. Un psychologue ou un médecin peut aider sur l’expérience émotionnelle ou la santé ; d’autres questions nécessitent d’autres compétences. Vous n’avez pas à achever votre histoire avant de demander du soutien, ni à transformer un enregistrement en preuve de guérison ou de fidélité à une personne morte.
-
-Sources :
-- [NIH, Social Wellness Toolkit](https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit)
-- [NHS, Grief after bereavement or loss](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)

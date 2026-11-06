@@ -98,5 +98,3 @@ L’ambivalence des émotions dans l’aidance peut réunir plaisir, fatigue, af
 Vincent découvre une parole où le week-end peut lui faire du bien et l’organisation lui coûter. Il garde une sortie personnelle sans effacer le plaisir des moments communs. Cette place laissée aux nuances ne résout pas les contraintes matérielles. Elle permet de chercher des réponses plus adaptées que la promesse de rester toujours courageux et disponible.
 
 Si les émotions deviennent envahissantes, s’accompagnent d’une détresse durable ou rendent les échanges difficiles, un psychologue peut aider à les explorer. Un soutien social et des appuis pratiques peuvent également être nécessaires. Vous pouvez parler de votre propre vécu tout en respectant la vie privée du proche, sans attendre d’avoir un récit simple ou une conclusion définitive.
-
-Sources : [Larsen, McGraw et Cacioppo, recherche sur les émotions mêlées](https://pubmed.ncbi.nlm.nih.gov/11642354/).

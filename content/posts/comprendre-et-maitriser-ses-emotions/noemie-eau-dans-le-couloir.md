@@ -32,7 +32,11 @@ Quand elles reviennent à leur table, Noémie a froid aux doigts. Une autre ques
 
 Dans cette scène, l’eau qui coule et l’état du mur donnent à l’équipe une raison d’agir. Noémie suit les procédures du service et fait appel aux personnes chargées de sécuriser les lieux. Les consignes de l’établissement et les observations nouvelles gardent leur place pendant le suivi du TOC. Une décision de soin ne dispense personne d’un contrôle nécessaire ni de signaler un incident.
 
-Un souci légitime peut aussi être suivi d’une envie persistante de revenir sur chaque détail. Après le signalement, Noémie cherche dans sa mémoire un signe qu’elle aurait dû remarquer. Elle ne détient aucune information supplémentaire à transmettre sur ce point. L’enchaînement mérite d’être décrit à la clinicienne, avec l’inquiétude qui a suivi et ce qu’il lui a coûté. Elle peut aussi demander à son équipe qui prend la suite du signalement, une question concrète qui sert à partager les responsabilités.
+Un souci légitime peut aussi être suivi d’une envie persistante de revenir sur chaque détail.
+
+## Comment cette difficulté se manifeste
+
+Après le signalement, Noémie cherche dans sa mémoire un signe qu’elle aurait dû remarquer. Elle ne détient aucune information supplémentaire à transmettre sur ce point. L’enchaînement mérite d’être décrit à la clinicienne, avec l’inquiétude qui a suivi et ce qu’il lui a coûté. Elle peut aussi demander à son équipe qui prend la suite du signalement, une question concrète qui sert à partager les responsabilités.
 
 ## Répartir la suite sans exiger une garantie générale
 
@@ -43,8 +47,3 @@ Lorsqu’elle en parlera au cabinet, Noémie pourra dire quel renseignement rép
 ## La trace signalée au service
 
 Aïcha propose à l’enseignant un entretien dans la salle de lecture. Les deux femmes pourront y dérouler les reproductions du canal, avec l’accord de l’équipe qui y travaille. Noémie remet la fiche du bateau sous le dossier et laisse au service chargé du bâtiment le point de suivi. Au moment de quitter les archives, elle reçoit de Maud un enregistrement de quelques mesures jouées à la clarinette. Maud la prévient que la répétition du lendemain commencera plus tôt.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG31, prise en charge du TOC](https://www.nice.org.uk/guidance/cg31/chapter/Recommendations)

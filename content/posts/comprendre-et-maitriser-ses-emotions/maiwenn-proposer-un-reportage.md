@@ -32,7 +32,11 @@ Mme Lenoir annonce qu’il reste le temps pour une proposition. Maïwenn récup�
 
 ## Une idée peut arriver avant sa phrase
 
-Un trouble de l’expression écrite peut rendre difficile le passage d’une idée à un texte, même lorsque la personne sait ce qu’elle veut dire. Selon les personnes, les difficultés peuvent toucher l’orthographe, la grammaire, la ponctuation ou la façon de lier les idées à l’écrit. Elles ne disent rien, à elles seules, de la valeur d’une idée. Chez Maïwenn, le diagnostic a déjà été posé. Dans cette réunion, personne n’a vu le temps consacré à ce brouillon. Elle sait en revanche quel détail l’a fait s’arrêter devant la halle et quelles questions ce détail lui donne envie de poser.
+Un trouble de l’expression écrite peut rendre difficile le passage d’une idée à un texte, même lorsque la personne sait ce qu’elle veut dire. Selon les personnes, les difficultés peuvent toucher l’orthographe, la grammaire, la ponctuation ou la façon de lier les idées à l’écrit. Elles ne disent rien, à elles seules, de la valeur d’une idée.
+
+## Comment cette difficulté se manifeste
+
+Chez Maïwenn, le diagnostic a déjà été posé. Dans cette réunion, personne n’a vu le temps consacré à ce brouillon. Elle sait en revanche quel détail l’a fait s’arrêter devant la halle et quelles questions ce détail lui donne envie de poser.
 
 ## Écouter d’abord la proposition
 
@@ -41,8 +45,3 @@ Un tirage posé sur une table permet ici de commencer par le sujet. La photo ind
 ## Retourner le tirage
 
 Avant de partir, Maïwenn prend le crayon que Lou lui tend. Au dos de la photo, elle écrit seulement « avant les clients ». C’est ce qui restera sur le tableau des sujets. Elles ouvrent le message de demande de visite sur l’ordinateur du journal et le relisent ensemble. Lou se charge de l’envoyer après l’accord de Mme Lenoir. Maïwenn emporte la feuille raturée ; personne n’a besoin de la recopier pour que le sujet existe.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de Santé, parcours de santé des enfants avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2822893/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages)

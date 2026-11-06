@@ -1,5 +1,5 @@
 ---
-title: "Odile : la retraite et les rôles que l’on choisit"
+title: La retraite et les rôles que l’on choisit
 date: 2026-11-03T08:30:00+00:00
 description: "Au quartier, on compte sur l’expérience d’Odile. Elle cherche une place qui reconnaît ses compétences sans occuper tout son temps de retraitée."
 categories: ["Sortir de ses schémas répétitifs"]
@@ -74,7 +74,3 @@ Les compétences acquises au travail restent disponibles après la retraite. Leu
 Avant un engagement, décrire les tâches, les horaires et les relais peut rendre le choix plus concret. Une contribution limitée n’est pas une participation de moindre valeur. Elle peut être exactement celle qui convient à votre situation et au projet, ou révéler que les besoins doivent être organisés autrement. Le temps personnel, le repos et les activités sans résultat attendu peuvent rester des éléments légitimes de votre vie.
 
 Si un changement de rôle s’accompagne d’un sentiment durable de vide, d’une pression à rester utile ou d’une difficulté à trouver des liens souhaités, un psychologue, un médecin ou un professionnel de proximité peut vous aider à examiner ces besoins. Le soutien n’a pas à viser une retraite plus occupée. Il peut permettre de choisir une place qui respecte vos ressources, votre histoire et vos préférences actuelles.
-
-Sources :
-- [NIH, Social Wellness Toolkit](https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit)
-- [NHS, Maintaining healthy relationships and mental wellbeing](https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/)

@@ -11,6 +11,8 @@ personnage: "Patrick"
 sujet: "Retenue émotionnelle et suppression expressive"
 contexte: "en famille"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/8326473/
 ---
 
 Stéphanie n’a pas touché à son pain. Elle raconte à Patrick que son responsable lui demande encore de rester après son service. Il fait la demande au moment où elle prend son manteau, devant les autres. Patrick reconnaît la façon qu’elle a de lisser sa serviette. Enfant, elle faisait déjà ça quand elle attendait une réponse de lui.
@@ -60,10 +62,9 @@ Patrick garde la main sur la soucoupe. « Tout à l’heure, au boulot… Qu’e
 Plus tard, Catherine lui demande s’il est inquiet. Il acquiesce. Julien commence à proposer une solution, mais Patrick lui demande de le laisser finir. Il n’ajoute que deux phrases. La deuxième lui coûte plus que la première.
 
 Dans la soirée, il griffonne quelques mots qu’il aimerait dire à Marcel. Il replie la feuille et la glisse dans le tiroir de la cuisine. Quand Catherine passe, il ferme le tiroir et lui demande si Stéphanie a bien repris le reste de la soupe.
+
 ---
 
 Une réponse brève peut rendre l’attention perceptible. On peut aussi choisir de garder une émotion pour soi, selon le moment et la personne.
 
 Quand la retenue devient une source de souffrance, en parler à un psychologue peut aider à comprendre ce qui rend certains échanges difficiles.
-
-Sources : [Gross et Levenson, expérience sur la suppression de l’expression, 1993](https://pubmed.ncbi.nlm.nih.gov/8326473/).

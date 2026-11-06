@@ -100,5 +100,3 @@ La charge sensorielle au travail mérite d'être décrite dans son environnement
 Vérifier un message, signaler un obstacle et préserver une transition moins chargée constituent des appuis concrets. Leur portée reste située. Ils accompagnent la prévention et les protections nécessaires, sans se substituer à l'évaluation des risques ou aux procédures de sécurité.
 
 Un médecin, le service de prévention et de santé au travail et les interlocuteurs compétents de l'entreprise peuvent aider si la fatigue, les difficultés de concentration ou une gêne auditive persistent. Il est possible de demander cet appui à partir d'exemples ordinaires, avant qu'un incident ne donne à la difficulté une forme plus grave.
-
-Sources : [INRS, bruit et effets sur la santé](https://www.inrs.fr/risques/bruit/effets-sante.html) ; [INRS, démarche de prévention du bruit](https://www.inrs.fr/risques/bruit/demarche-prevention.html).

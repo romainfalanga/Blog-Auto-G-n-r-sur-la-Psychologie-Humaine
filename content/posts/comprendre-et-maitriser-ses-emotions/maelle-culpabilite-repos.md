@@ -100,5 +100,3 @@ La culpabilité de se reposer perd une partie de son pouvoir lorsque Maëlle dis
 Une limite peut laisser quelqu'un déçu tout en restant respectueuse. Prévoir une présence différente, annoncer un départ et rendre les tâches explicites soutient souvent mieux la relation qu'une aide fournie avec ressentiment. Le repos trouve alors une place parmi les besoins discutés.
 
 Si la culpabilité vous empêche durablement de vous arrêter, un psychologue peut aider à examiner les règles qui l'entretiennent. Une fatigue persistante mérite aussi un échange avec un médecin. Ces démarches peuvent se compléter sans réduire les contraintes du travail à un problème de pensées.
-
-Sources : [INRS, organisation et prévention des horaires atypiques](https://www.inrs.fr/risques/travail-horaires-atypiques/demarche-de-prevention.html) ; [INRS, effets sur la santé et accidents](https://www.inrs.fr/risques/travail-horaires-atypiques/effets-sur-la-sante-et-accidents.html).

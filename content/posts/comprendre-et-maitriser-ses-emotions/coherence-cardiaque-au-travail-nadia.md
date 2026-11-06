@@ -11,6 +11,11 @@ personnage: "Nadia"
 sujet: "cohérence cardiaque"
 contexte: "au travail"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/36630953/
+- https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/
+- https://www.ameli.fr/assure/sante/themes/palpitations-cardiaques/bons-reflexes
+- https://www.inrs.fr/risques/epuisement-burnout/ce-qu-il-faut-retenir.html
 ---
 
 Mathieu en est au budget du lancement quand Nadia trouve enfin un créneau commun dans son agenda. Il faudrait déplacer le rendez-vous qui suit et attendre la réponse de Karim, le père de Yasmine, pour savoir à quelle heure elle peut repartir chercher Yasmine. Elle s’est réveillée la nuit avec cette question en tête. À présent, elle vient de sélectionner une heure avant même d’avoir demandé qui aurait besoin d’être là.
@@ -61,5 +66,3 @@ Pour Nadia, la respiration cadencée est une façon de marquer une pause. L'épu
 Si la fatigue persiste ou gêne votre quotidien, parlez-en à votre médecin. Le médecin du travail peut aider à examiner les conditions de travail et les aménagements possibles, sans attendre de voir si les exercices vous soulagent.
 
 Des palpitations qui reviennent, durent ou s'aggravent méritent un avis médical. Si elles s'accompagnent de douleur dans la poitrine, de difficulté à respirer ou d'un malaise, appelez le 15 ou le 112 en France.
-
-Sources : [Balban et al., essai randomisé sur des exercices respiratoires](https://pubmed.ncbi.nlm.nih.gov/36630953/) ; [NHS, respiration sans forcer](https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/) ; [Assurance Maladie, palpitations](https://www.ameli.fr/assure/sante/themes/palpitations-cardiaques/bons-reflexes) ; [INRS, épuisement professionnel](https://www.inrs.fr/risques/epuisement-burnout/ce-qu-il-faut-retenir.html).

@@ -33,18 +33,16 @@ La docteure Benali reprend avec elle les éléments transmis et vérifie comment
 
 ## Reprendre la suite après le bilan urgent
 
-Une évaluation aux urgences répond d’abord aux symptômes présents et à la sécurité immédiate. Un suivi spécialisé peut continuer à aborder les risques physiques, l’état psychique et les effets du trouble dans la vie quotidienne. Selon la situation, les soignants vérifient notamment l’équilibre de certains sels minéraux ou le fonctionnement cardiaque, et proposent des examens adaptés. Victoire demande ce que le bilan permet de comprendre et quels points restent à suivre. Elle peut poser cette question même si les sensations se sont apaisées. Le trouble connu donne aux professionnels un contexte. Les conclusions sur le malaise et les décisions de suivi reposent sur leur évaluation, sur l’évolution et sur ce que Victoire leur décrit.
+Une évaluation aux urgences répond d’abord aux symptômes présents et à la sécurité immédiate. Un suivi spécialisé peut continuer à aborder les risques physiques, l’état psychique et les effets du trouble dans la vie quotidienne. Selon la situation, les soignants vérifient notamment l’équilibre de certains sels minéraux ou le fonctionnement cardiaque, et proposent des examens adaptés.
+
+## L’appréhension qui persiste après le malaise
+
+Les sensations se sont apaisées, mais Victoire se demande encore comment elle réagirait si elles revenaient. La question pèse sur le retour à la boutique. En parlant des horaires avec sa médecin, elle se rend compte qu’elle appréhende surtout les fermetures où elle serait seule. Le trouble connu donne aux professionnels un contexte. Leurs conclusions sur le malaise reposent sur l’évaluation, sur l’évolution et sur ce que Victoire leur décrit.
 
 ## Choisir ce que chaque personne a besoin de savoir
 
-La coordination permet à l’équipe de se transmettre des éléments utiles à la prise en charge. La docteure Benali explique à Victoire ce qu’elle propose de reprendre avec Nora et confirme avec elle le prochain contact médical. Pour la boutique, Victoire a une demande d’organisation et souhaite discuter avec Idriss de ce qui est possible. Elle peut lui dire qu’elle reprend un suivi après le malaise, et décider du niveau de détail qu’elle souhaite partager. Elle demande aussi à la médecin quelles activités et quels engagements sont adaptés pendant cette période. Lila saura seulement ce que Victoire lui dira pour organiser la prochaine réunion. Chacun peut ainsi répondre à une question à sa portée.
+La coordination permet à l’équipe de se transmettre des éléments utiles à la prise en charge. Victoire peut demander ce que le bilan permet de comprendre, quels points restent à suivre et à qui poser une question si les sensations reviennent. La docteure Benali lui explique ce qu’elle propose de reprendre avec Nora et confirme le prochain contact médical. Pour la boutique, Victoire a une demande d’organisation et souhaite discuter avec Idriss de ce qui est possible. Elle peut lui dire qu’elle reprend un suivi après le malaise, et décider du niveau de détail qu’elle souhaite partager. Elle demande aussi à la médecin quelles activités et quels engagements sont adaptés pendant cette période. Lila saura seulement ce que Victoire lui dira pour organiser la prochaine réunion. Chacun peut ainsi répondre à une question à sa portée.
 
 ## Ce que Victoire écrit à Idriss
 
 Dans le couloir, Victoire écrit à Idriss qu’elle reprend son suivi et voudrait faire les prochaines fermetures avec quelqu’un. Elle propose d’en parler au début de leur prochain service. Puis elle répond à Lila, qui a proposé de réunir les bénévoles avant le rallye. Elle peut venir à la réunion et préfère confier à Manu la démonstration du départ. Elle glisse le compte rendu dans la poche intérieure de son sac.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et FFAB, Boulimie et hyperphagie boulimique, recommandations de bonne pratique](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique)
-- [Haute Autorité de santé et FFAB, prise en charge pluriprofessionnelle coordonnée](https://www.has-sante.fr/jcms/p_3099804/fr/prise-en-charge-pluriprofessionnelle-coordonnee-fiche-outil)

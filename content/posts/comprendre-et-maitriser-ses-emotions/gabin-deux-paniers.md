@@ -32,7 +32,11 @@ Sur la table, il reste les deux assiettes du matin. Il demande à Nora si elle v
 
 ## La part du proche dans une dépense commune
 
-Les conséquences du jeu peuvent toucher les finances et le quotidien des personnes qui partagent un foyer. Le NICE recommande de proposer un soutien aux proches qui en ont besoin, y compris séparément. Nora peut fixer ce qu’elle est prête à partager, protéger l’argent destiné à ses propres dépenses et demander conseil sur les engagements qui la concernent. Gabin a, de son côté, un espace pour parler du jeu et un rendez-vous de conseil budgétaire. Leur discussion dans la cuisine peut rester sur la part de chacun, les échéances connues et la manière de s’avertir d’un changement.
+Les conséquences du jeu peuvent toucher les finances et le quotidien des personnes qui partagent un foyer. Le NICE recommande de proposer un soutien aux proches qui en ont besoin, y compris séparément. Nora peut fixer ce qu’elle est prête à partager, protéger l’argent destiné à ses propres dépenses et demander conseil sur les engagements qui la concernent.
+
+## Comment cette difficulté se manifeste
+
+Gabin a, de son côté, un espace pour parler du jeu et un rendez-vous de conseil budgétaire. Leur discussion dans la cuisine peut rester sur la part de chacun, les échéances connues et la manière de s’avertir d’un changement.
 
 ## Un accord assez précis pour les prochaines courses
 
@@ -43,8 +47,3 @@ Gabin garde le choix de reprendre la suite du loyer avec la conseillère. Nora p
 ## La liste pliée en deux
 
 Nora replie la liste pour qu’une moitié reste visible. Ils gardent un achat commun pour le dîner et séparent le reste cette semaine. Gabin confirme le prochain point sur le loyer, puis dit qu’il voudrait apporter quelque chose qu’il peut déjà préparer avec ce qu’il a. Nora lui demande de garder les assiettes qu’ils avaient mises de côté pour le repas. Les deux paniers restent dans l’entrée. Elle reprend le sien pour y mettre le plat qu’elle rend demain.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG248, repérage et accompagnement des dommages liés aux jeux d’argent](https://www.nice.org.uk/guidance/ng248/chapter/recommendations)

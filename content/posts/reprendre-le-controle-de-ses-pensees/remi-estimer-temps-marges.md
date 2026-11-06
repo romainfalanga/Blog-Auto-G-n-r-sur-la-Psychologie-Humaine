@@ -90,5 +90,3 @@ Estimer le temps demande de compter l'activité entière, avec ses transitions e
 Vous pouvez choisir une activité récurrente et regarder ce que votre estimation inclut vraiment. Une plage réaliste et une marge disponible peuvent être plus utiles qu'un horaire précis fondé sur peu d'informations. Si le volume dépasse toujours le temps disponible, le constat peut servir à revoir les engagements ou à demander un arbitrage.
 
 Si les difficultés de temps provoquent une détresse durable, perturbent plusieurs domaines de votre vie ou restent difficiles à comprendre, un professionnel peut vous aider à les examiner. Il est également légitime de discuter des échéances imposées et des ressources manquantes. Une estimation plus juste doit soutenir votre vie, pas devenir une nouvelle manière de vous reprocher chaque retard.
-
-Sources : [Buehler, Griffin et Ross, étude de l'erreur de planification](https://doi.org/10.1037/0022-3514.67.3.366) ; [Bandura et Schunk, organiser des sous-objectifs](https://doi.org/10.1037/0022-3514.41.3.586).

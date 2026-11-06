@@ -11,6 +11,9 @@ personnage: "Fabien"
 sujet: "apprentissages et habitudes relationnelles en famille"
 contexte: "avec ses parents"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/19756175/
+- https://pubmed.ncbi.nlm.nih.gov/30192087/
 ---
 
 L'odeur du rôti de bœuf marine dans l'air épais de la salle à manger paternelle, un parfum de dimanche qui n'a pas changé depuis trente ans. Fabien ajuste ses lunettes, observant son père qui découpe la viande avec une précision chirurgicale, sans dire un mot. Le seul bruit qui rompt la monotonie de cet après-midi de mars est le cliquetis métallique des couverts contre la porcelaine ébréchée. À cinquante ans, Fabien se sent soudain comme le petit garçon qui attendait une approbation ou une simple anecdote de bureau qui ne venait jamais.
@@ -60,5 +63,3 @@ Fabien peut s’interroger sur des habitudes apprises sans blâmer son père ni 
 Chaque petit pas vers une communication plus authentique est une fissure dans le mur des répétitions familiales. Comme Fabien, vous pouvez choisir de ne plus porter les bagages qui ne vous appartiennent pas. Ce travail de discernement transforme progressivement la solitude subie en une autonomie choisie, permettant de reconstruire des liens plus sincères avec ceux qui comptent vraiment.
 
 Si des expériences familiales douloureuses continuent de vous peser, un psychologue ou un médecin peut vous aider à décider quel accompagnement vous convient. Rien n’oblige à reconstituer plusieurs générations pour demander de l’aide.
-
-Sources : [Morris et al., rôle du contexte familial et socialisation émotionnelle](https://pubmed.ncbi.nlm.nih.gov/19756175/) ; [Yehuda et Lehrner, limites des résultats humains](https://pubmed.ncbi.nlm.nih.gov/30192087/).

@@ -30,7 +30,11 @@ Un médecin a commencé à évaluer ces épisodes. Jules a un nouveau rendez-vou
 
 ## Ce qu’un épisode isolé permet de dire
 
-Une attaque de panique est un épisode de peur ou d’appréhension intense qui apparaît rapidement et peut s’accompagner de sensations physiques marquées. Plusieurs causes et situations peuvent donner lieu à des signes qui se ressemblent. Une attaque seule ne permet pas de conclure à un trouble panique. Le médecin qui suit Jules lui demande de raconter ce qu’il a vécu et dans quelles circonstances. Il peut décider quels éléments de santé ou quels examens méritent d’être regardés. Pour Jules, l’évaluation est toujours en cours.
+Une attaque de panique est un épisode de peur ou d’appréhension intense qui apparaît rapidement et peut s’accompagner de sensations physiques marquées. Plusieurs causes et situations peuvent donner lieu à des signes qui se ressemblent. Une attaque seule ne permet pas de conclure à un trouble panique. Le médecin qui suit Jules lui demande de raconter ce qu’il a vécu et dans quelles circonstances. Il peut décider quels éléments de santé ou quels examens méritent d’être regardés.
+
+## Comment cette difficulté se manifeste
+
+Pour Jules, l’évaluation est toujours en cours.
 
 Le médecin peut aussi écouter ce qui a changé depuis les épisodes. Jules sait qu’il prend la porte latérale et qu’il n’a pas revu Samuel depuis quelque temps. Il voudrait expliquer ce que ça lui coûte de faire le détour, mais aussi pourquoi la table de dessin lui manque. Les circonstances, les sensations et les conséquences dans sa vie fournissent des renseignements différents.
 
@@ -43,8 +47,3 @@ Pour le prochain entretien, Jules peut raconter l’épisode de l’allée et ce
 ## Le bouquet côté stand
 
 Jules demande à finir la commande au stand. Sonia confie la livraison à la personne qui allait déjà vers l’entrée principale. Il garde le bout de ruban dans son carnet et écrit à Samuel qu’il aimerait savoir quand la table se réunira de nouveau. Il relit ensuite la carte de Solange, où elle lui demande de lui dessiner un jour le dessus de la verrière. Il sait déjà de quelle couleur il voudrait la faire.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

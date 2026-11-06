@@ -32,7 +32,11 @@ Quand le marchand eut rendu sa monnaie, Agathe rapprocha les deux sachets. « Ç
 
 ## Apprendre un mot dans une situation qui compte
 
-Le vocabulaire fait partie des dimensions du langage qui peuvent être touchées dans le trouble développemental du langage. Reconnaître une étiquette ou comprendre l’un des mots n’assure pas qu’on saisisse ce que l’autre signifie dans ce contexte. Agathe a ici une question précise : quelle place la plante occupera-t-elle ? Les deux photos donnent des indices, et le marchand rattache les mots à des formes visibles. La difficulté à comprendre un terme spécialisé est aussi très ordinaire. Le marché ne donne aucune information diagnostique nouvelle sur Agathe. Il montre ce qui change dans cet échange quand elle peut demander le renseignement dont dépend sa décision.
+Le vocabulaire fait partie des dimensions du langage qui peuvent être touchées dans le trouble développemental du langage. Reconnaître une étiquette ou comprendre l’un des mots n’assure pas qu’on saisisse ce que l’autre signifie dans ce contexte.
+
+## Comment cette difficulté se manifeste
+
+Agathe a ici une question précise : quelle place la plante occupera-t-elle ? Les deux photos donnent des indices, et le marchand rattache les mots à des formes visibles. La difficulté à comprendre un terme spécialisé est aussi très ordinaire. Le marché ne donne aucune information diagnostique nouvelle sur Agathe. Il montre ce qui change dans cet échange quand elle peut demander le renseignement dont dépend sa décision.
 
 ## Aider à obtenir une réponse sans choisir
 
@@ -41,8 +45,3 @@ La mère d’Agathe sait qu’elles cherchent un sachet pour un espace étroit. 
 ## Un sachet pour chez elle
 
 À la maison, Agathe posa le sachet de capucines près du pot vide, sans le glisser dans son sac d’école. Sa mère ouvrit la chaise et fit mine de déplier aussi ses jambes jusqu’à la rambarde. Agathe la poussa d’un pied et elles trouvèrent de la place. Le soir, elle ressortit la question sur les fleurs qui venait du carton de la classe. Elle avait d’abord prévu de répondre « capucines » parce qu’elle venait d’en choisir pour chez elle. Elle prit plutôt un deuxième papier : « Où vous voulez des fleurs ? » Elle le fixa derrière la carte grise, pour les deux élèves du jeudi. Avec un emplacement, ils pourraient expliquer ce qu’ils imaginaient avant de parler des sachets.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [American Speech-Language-Hearing Association, Spoken Language Disorders](https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/)

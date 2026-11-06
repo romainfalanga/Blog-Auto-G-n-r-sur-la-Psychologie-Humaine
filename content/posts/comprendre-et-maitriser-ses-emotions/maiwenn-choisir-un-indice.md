@@ -32,7 +32,11 @@ L’orthophoniste lui propose de montrer la zone du problème ou de regarder ave
 
 ## Une aide peut changer de taille
 
-Un appui à l’écriture peut porter sur une difficulté précise, et sa forme peut se discuter avec la personne. Au cabinet, Maïwenn a du temps pour chercher un accord et dire ce qu’elle a compris. Elle voudra parfois une indication brève, parfois regarder la phrase avec Mme Simon, parfois entendre une proposition qu’elle pourra accepter ou écarter. Ces réponses peuvent convenir à des moments différents. Mme Simon adapte le travail à l’objectif de la séance et au suivi déjà engagé. Le choix que fait Maïwenn ici ne donne aucune consigne sur le soin ou les exercices d’une autre personne.
+Un appui à l’écriture peut porter sur une difficulté précise, et sa forme peut se discuter avec la personne. Au cabinet, Maïwenn a du temps pour chercher un accord et dire ce qu’elle a compris.
+
+## Comment cette difficulté se manifeste
+
+Elle voudra parfois une indication brève, parfois regarder la phrase avec Mme Simon, parfois entendre une proposition qu’elle pourra accepter ou écarter. Ces réponses peuvent convenir à des moments différents. Mme Simon adapte le travail à l’objectif de la séance et au suivi déjà engagé. Le choix que fait Maïwenn ici ne donne aucune consigne sur le soin ou les exercices d’une autre personne.
 
 ## Garder le choix dans un travail à deux
 
@@ -41,9 +45,3 @@ Au journal, Lou n’a pas le rôle de Mme Simon. Elle peut signaler un passage, 
 ## Une demande de deux lignes
 
 Avant de reprendre son manteau, Maïwenn écrit à Lou : « Sur les accords, montre-moi le passage avant de donner ta réponse, sauf si je te la demande. Je peux faire pareil pour toi. » Lou lui répond qu’elles essaieront sur deux phrases et verront le temps que ça prend. Maïwenn range sa feuille dans une poche différente de celle où elle garde les tirages. Au prochain passage à la halle, elle veut pouvoir sortir son appareil sans chercher au milieu de tous ses papiers.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de Santé, rôle du médecin de l’enfant dans le parcours de santé des TSLA](https://www.has-sante.fr/jcms/c_2823395/fr/parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-role-du-medecin-de-l-enfant-intervenant-dans-le-premier-niveau-de-recours-aux-soins)
-- [American Speech-Language-Hearing Association, Written Language Disorders](https://www.asha.org/Practice-Portal/Clinical-Topics/Written-Language-Disorders/)

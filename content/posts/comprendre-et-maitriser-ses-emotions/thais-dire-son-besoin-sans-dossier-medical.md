@@ -32,7 +32,11 @@ Samir lui demande si elle préfère travailler au bureau ce jour-là. Thaïs com
 
 ## Quand la peur oblige à choisir ce qu’on dit
 
-Une phobie spécifique peut se traduire par des renoncements professionnels. Elle peut aussi rester peu visible lorsque la personne arrive à accomplir sa part du travail en dépensant beaucoup de temps et d’énergie à contourner certaines situations. Thaïs tient aux relevés et aux rencontres avec les habitants. Si les autres ne voient que ses refus devant une hauteur, ils peuvent tirer une conclusion erronée sur ses envies ou ses compétences.
+Une phobie spécifique peut se traduire par des renoncements professionnels. Elle peut aussi rester peu visible lorsque la personne arrive à accomplir sa part du travail en dépensant beaucoup de temps et d’énergie à contourner certaines situations.
+
+## Comment cette difficulté se manifeste
+
+Thaïs tient aux relevés et aux rencontres avec les habitants. Si les autres ne voient que ses refus devant une hauteur, ils peuvent tirer une conclusion erronée sur ses envies ou ses compétences.
 
 La crainte d’être jugée s’ajoute ici à une peur dont le déclencheur principal reste la hauteur. Elle explique une partie de la difficulté de l’entretien. Cette nuance aide à comprendre pourquoi un besoin précis semble parfois demander un récit beaucoup plus intime. Thaïs peut parler des conséquences concrètes de la peur au travail, puis choisir séparément avec qui elle veut parler de son diagnostic.
 
@@ -45,8 +49,3 @@ Si la répartition crée trop de travail pour Inès, cette dernière peut le dir
 ## Un accord en deux lignes
 
 Thaïs demande à relire le message avant l’envoi. Elle laisse la phrase qui lui attribue la coordination au sol et le contrôle des relevés. Elle ajoute le créneau où Inès pourra envoyer les photos et propose une pause à la station pour traiter les questions de noms. Samir lui dit de signaler si le plan crée une difficulté pendant la mission. Elle prend la carte et remarque qu’elle a encore le crayon dans la main.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, Phobias](https://www.nhs.uk/mental-health/conditions/phobias/)

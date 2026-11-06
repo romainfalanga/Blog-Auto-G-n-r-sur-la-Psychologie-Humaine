@@ -33,6 +33,8 @@ Au moment où Dalila ouvre les portes, une chaise racle le sol. Meriem lâche le
 
 Le stress post-traumatique complexe peut garder un retentissement même quand une personne tient une activité qui lui importe. L’effort pour accomplir une tâche ou rester en relation peut passer inaperçu quand on regarde seulement ce que la personne a réussi à faire. Meriem reconnaît le bruit d’une chaise et sa main tremble ; ce détail ne dit ni tout ce qu’elle ressent ni où elle en est dans son suivi. Ce matin, elle a préparé les copies, prévu son rôle et réservé du temps pour faire une pochette. Une journée dont elle est contente peut coexister avec des moments qui lui demandent encore beaucoup.
 
+## Comment cette difficulté se manifeste
+
 La façon dont Meriem partage son patron a aussi changé. Elle choisit de signer quelque chose qu’elle veut donner. Joël tient à une autre règle et cela ne dit rien de sa santé ni de sa confiance dans le groupe. Une personne peut se sentir proche d’une autre dans une activité et garder des choses pour elle. Pour le prochain rendez-vous de soin, Meriem pourra dire ce qui lui a demandé un effort et ce qu’elle a aimé, même si les deux se sont produits à quelques minutes d’intervalle.
 
 ## Prévoir la suite avec des personnes différentes
@@ -44,8 +46,3 @@ Le NICE recommande, pour les besoins complexes, de discuter avec la personne des
 ## L’épingle à côté de la date
 
 À onze heures, Ève prend le feutre et vient s’asseoir près du bac. Meriem rejoint Chloé. Avec le reste de nappe, elles découpent une poche assez large pour deux tickets de bus. Dalila a trouvé un samedi libre le mois suivant. Avant midi, Ève vérifie qu’elle est disponible et Meriem épingle la nouvelle date au tableau. Son prochain rendez-vous avec la thérapeute reste dans le carnet qui est au fond de son sac. Sur la table, une femme retourne le patron et demande d’où vient le tissu à carreaux. Meriem lui raconte le rideau.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

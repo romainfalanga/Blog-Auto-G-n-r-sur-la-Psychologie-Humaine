@@ -21,15 +21,15 @@ La secrétaire passe la tête par la porte pour lui demander si elle a terminé.
 
 Elle pense à demander à Anita si elle a eu des nouvelles de leur père cette semaine. Elle a son téléphone à portée de main. Elle commence plutôt à remettre les dossiers dans l’ordre des rendez-vous, avec une attention dont elle aurait eu du mal à expliquer l’urgence.
 
+## Comprendre l’inquiétude face à la maladie
+
+L’annonce ou le souvenir d’une maladie peut raviver des inquiétudes sur la santé d’un proche. L’émotion et la façon d’y répondre varient selon la situation. Dans les métiers du soin, la charge de travail et l’exposition à la détresse peuvent aussi peser sur ce que l’on ressent.
+
 ## Les manifestations silencieuses de l'angoisse en milieu médical
 
 Elle complète le carnet de suivi, puis s’attarde sur une série de documents qui peuvent attendre demain. La secrétaire raccroche et lui demande si elle a encore besoin d’elle. Priya répond que non sans lever la tête. Une fois la porte fermée, elle s’aperçoit qu’elle a commencé à relire une ordonnance déjà signée.
 
 Priya reconnaît dans sa façon de se plonger dans les dossiers un geste familier. Il lui rappelle la distance qu’elle a prise après une soirée intime. Ce rapprochement est une piste pour elle ; ni la rigueur professionnelle ni le besoin d’une pause ne suffisent à révéler un style d’attachement.
-
-## Comprendre l’inquiétude face à la maladie
-
-L’annonce ou le souvenir d’une maladie peut raviver des inquiétudes sur la santé d’un proche. L’émotion et la façon d’y répondre varient selon la situation. Dans les métiers du soin, la charge de travail et l’exposition à la détresse peuvent aussi peser sur ce que l’on ressent.
 
 ## Techniques de gestion émotionnelle et de régulation
 

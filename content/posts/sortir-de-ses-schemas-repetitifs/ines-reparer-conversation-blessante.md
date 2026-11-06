@@ -92,5 +92,3 @@ Réparer une conversation blessante demande plus que déclarer une bonne intenti
 Vous pouvez commencer par un comportement observable, une écoute réelle et un changement praticable. La réparation ne promet pas que l’autre sera aussitôt rassurée ou disponible pour la proximité. Elle laisse une place à son rythme et se poursuit dans les actes. Une relation peut reprendre sans que la soirée initiale soit reconstituée à l’identique.
 
 Si les échanges blessants se répètent ou si les tentatives de réparation deviennent elles-mêmes un lieu de pression, une psychologue ou un autre professionnel peut aider à évaluer la situation. En présence de peur ou de violence, privilégiez votre sécurité et un soutien individuel spécialisé avant tout exercice à deux. Aucune excuse ne donne droit au pardon, et aucune réparation ne demande d’abandonner ses limites fondamentales.
-
-Sources : [Recherches sur les comportements de réparation et la récupération après les conflits de couple](https://pubmed.ncbi.nlm.nih.gov/31393139/) ; [Arrêtons les violences, ressources en cas de violences au sein du couple](https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple).

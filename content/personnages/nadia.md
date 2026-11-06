@@ -21,7 +21,7 @@ draft: false
     <p class="parcours-resume">Une réunion interrompt Nadia au milieu d’un diaporama qu’elle voudrait terminer avant de retrouver Yasmine.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Elle note le chiffre à vérifier avec Julie et part à l’heure sans avoir terminé la présentation.</p>
+      <p>Nadia complète la légende, note une question pour Julie sur la série de mars et ferme son ordinateur avant d’aller chercher Yasmine.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/effet-zeigarnik-manager-perfectionniste/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

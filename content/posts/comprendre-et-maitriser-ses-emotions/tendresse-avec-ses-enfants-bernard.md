@@ -11,6 +11,9 @@ personnage: "Bernard"
 sujet: "tendresse"
 contexte: "avec ses enfants"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/3754633/
+- https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient_presentant-une-lombalgie-commune
 ---
 
 Éric revient chercher un outil qu’il a laissé sur l’établi. Bernard le reconnaît à sa manière d’ouvrir la porte jusqu’en butée. Il aimerait lui dire qu’il était content de le voir la dernière fois. Sa main part avant la phrase, puis il la laisse retomber sur le bord de la table.
@@ -78,5 +81,3 @@ La tendresse avec ses enfants peut prendre des formes insoupçonnées : des gest
 Si vous vous reconnaissez dans ce parcours, rappelez-vous qu'exprimer la tendresse ne demande pas forcément un grand discours. Des petites actions régulières, associées à des phrases courtes et à des rituels prévisibles, suffisent souvent à faire sentir l'affection. Les progrès peuvent être lents et il est normal d'hésiter ; l'essentiel est d'agir avec authenticité.
 
 Enfin, si la difficulté à verbaliser ou à se rapprocher de ses enfants s'accompagne d'une souffrance persistante, d'un blocage physique ou d'un isolement profond, consulter un professionnel comme un psychologue ou un médiateur familial peut être utile. Parler avec un spécialiste aide à transformer ces gestes muets en dialogues sincères, tout en respectant votre rythme et votre histoire personnelle.
-
-Sources : [Field et al., étude chez des nouveau-nés prématurés](https://pubmed.ncbi.nlm.nih.gov/3754633/) ; [Haute Autorité de santé, prise en charge de la lombalgie](https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient_presentant-une-lombalgie-commune).

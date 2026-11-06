@@ -31,7 +31,11 @@ Rachid revient et leur ouvre la salle. Ils trouvent deux tables pliantes et des 
 
 ## Un format utile dans une pièce peut l’être moins dans une autre
 
-Les exigences de la situation peuvent faire varier la gêne que produit une difficulté de lecture. Célian s’appuie souvent sur une consigne entendue. Dans ce couloir, le bruit couvre une partie des mots de Jade. Sur le plan écrit, il lui faut retrouver quel accès concerne les joueurs qui sortent du terrain. Il connaît le bâtiment et peut s’appuyer sur ce qu’il voit en parcourant le trajet. Un changement tardif ou une annonce dans le bruit peut aussi compliquer la tâche pour quelqu’un qui n’a pas de trouble de lecture. Le groupe peut tenir compte de ces conditions sans expliquer toutes les hésitations par le diagnostic de Célian.
+Les exigences de la situation peuvent faire varier la gêne que produit une difficulté de lecture. Célian s’appuie souvent sur une consigne entendue. Dans ce couloir, le bruit couvre une partie des mots de Jade. Sur le plan écrit, il lui faut retrouver quel accès concerne les joueurs qui sortent du terrain.
+
+## Comment cette difficulté se manifeste
+
+Il connaît le bâtiment et peut s’appuyer sur ce qu’il voit en parcourant le trajet. Un changement tardif ou une annonce dans le bruit peut aussi compliquer la tâche pour quelqu’un qui n’a pas de trouble de lecture. Le groupe peut tenir compte de ces conditions sans expliquer toutes les hésitations par le diagnostic de Célian.
 
 ## Donner le même point de départ à l’équipe
 
@@ -40,8 +44,3 @@ Une fois le trajet essayé et confirmé avec Rachid, Jade peut modifier la ligne
 ## Le panneau derrière la porte bleue
 
 Célian et Jade refont le trajet depuis le terrain. Rachid confirme la salle, l’accès et l’heure à laquelle il la leur ouvrira. Jade remplace le foyer par « salle du club, porte bleue après les vestiaires » dans le récapitulatif et prévient l’autre capitaine. À Yanis, Célian montre par où il pourra amener les caisses. Le panneau de Léonie n’a pas besoin d’un autre dessin : il changera de table. Sur le chemin du retour, Célian se souvient des vingt personnes et se demande si elles verront toutes la porte bleue. Il demande à Jade d’orienter les premiers arrivants, le temps qu’il installe les deux gâteaux.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé — Guide du parcours de santé des enfants avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)

@@ -58,6 +58,7 @@ Demandez-vous pourquoi un élément compte pour vous et ce qui permettrait de l�
 Priya demande les horaires de visite du local et le détail des charges. Elle cherche aussi l’arrêt de bus le plus proche. Cette fois, elle vérifie l’itinéraire dans les deux sens. Elle ne sait pas encore si le bail est tenable.
 
 Quand elle rappelle Anjali, sa mère lui demande d’abord si elle a des nouvelles de Raj. Puis elle veut savoir pourquoi Priya regarde d’autres locaux. Priya lui dit qu’elle n’a rien signé et qu’elle aimerait pouvoir organiser les rendez-vous différemment. Anjali a plusieurs questions. Priya en note une sur la feuille, à côté de celles qu’elle avait prévues.
+
 ---
 
 Une décision peut faire intervenir des raisons pratiques et des craintes relationnelles à la fois. Les examiner séparément aide à garder celles qui comptent réellement dans ce choix. Un professionnel de santé peut accompagner une personne qui souffre durablement de ces difficultés.

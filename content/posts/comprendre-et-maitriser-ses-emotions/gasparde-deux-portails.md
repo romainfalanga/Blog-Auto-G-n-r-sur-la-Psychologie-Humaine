@@ -30,7 +30,11 @@ Elle longe le grillage avec Dounia. De l’autre côté, un homme regarde son t�
 
 ## Traiter ce que le trajet permet de comprendre
 
-Quand un rendez-vous se passe mal, une explication peut s’imposer avant qu’on ait vu tous les détails. Gasparde a d’abord l’impression que quelqu’un a rendu son invitation introuvable. Le trajet de Levent apporte une information utile au club. Selon le point par lequel on arrive, la plaque du parc est plus visible que l’indication de Gasparde. Elle peut corriger le chemin affiché même si son inquiétude revient ensuite.
+Quand un rendez-vous se passe mal, une explication peut s’imposer avant qu’on ait vu tous les détails. Gasparde a d’abord l’impression que quelqu’un a rendu son invitation introuvable. Le trajet de Levent apporte une information utile au club.
+
+## Comment cette difficulté se manifeste
+
+Selon le point par lequel on arrive, la plaque du parc est plus visible que l’indication de Gasparde. Elle peut corriger le chemin affiché même si son inquiétude revient ensuite.
 
 Le trouble délirant peut s’accompagner de convictions persistantes sur les intentions d’autrui. Dans cette scène, le fait de voir le panneau oriente la discussion vers un problème que les trois personnes peuvent décrire. Il reste possible pour Gasparde de trouver l’incident troublant et de prendre une décision utile. La situation peut aussi être rapportée en suivi si la question continue à occuper ses soirées.
 
@@ -45,8 +49,3 @@ Dounia peut aider en décrivant ce qu’elle a vu sur le trajet. Elle peut deman
 Levent les suit jusque dans la rue. Il choisit de regarder quelques balles, debout près du banc, puis il leur demande s’il peut revenir. Gasparde lui tend le papier de l’essai. Il y dessine l’arrêt, le portail fermé et le chemin qu’il a pris. Dounia reporte la flèche au propre sur une deuxième feuille. Gasparde demande à Basile d’ajouter le croquis au prochain affichage.
 
 À seize heures, son téléphone vibre dans le sac juste avant le premier service. Gasparde reste sur la ligne. Brigitte lui montre avec son pied le côté où le vent s’est remis à souffler. Elle choisit de servir sur le revers.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NSW Health, communiquer avec une personne qui vit une expérience psychotique](https://www.health.nsw.gov.au/mentalhealth/psychosocial/strategies/Pages/communicating-psychosis.aspx)

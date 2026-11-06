@@ -92,5 +92,3 @@ La vie privée au sein du couple protège le choix de ce que l’on partage et d
 Quelques accords concrets, une information relationnelle claire et une réparation adaptée aux faits peuvent soutenir ce fonctionnement. Vous pouvez définir une frontière simple avant de discuter de toutes les autres. Il n’existe pas un degré unique de transparence qui prouverait l’amour de chaque couple. L’essentiel est que les arrangements restent compris, consentis et révisables.
 
 Si les demandes d’accès deviennent insistantes, si vous avez peur de refuser ou si les intrusions se répètent, une psychologue ou un autre professionnel peut vous aider à examiner ces comportements et vos possibilités. Vous pouvez chercher cet appui seul. Préserver une part de vie privée n’exige pas d’attendre que son contenu devienne assez sensible pour mériter le respect.
-
-Sources : [Kil et collègues, autonomie, dévoilement et vie privée dans les relations, 2022](https://onlinelibrary.wiley.com/doi/10.1111/pere.12419) ; [Arrêtons les violences, contrôle et cyberviolences au sein du couple](https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple).

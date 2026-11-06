@@ -1,5 +1,5 @@
 ---
-title: "Baptiste : réviser un choix sans effacer le chemin fait"
+title: Réviser un choix sans effacer le chemin fait
 date: 2026-11-03T11:50:00+00:00
 description: "Le projet de Baptiste change après de nouveaux échanges. Il cherche ce qui mérite d’être conservé, sans poursuivre uniquement pour sauver le temps investi."
 categories: ["Reprendre le contrôle de ses pensées"]
@@ -74,8 +74,3 @@ Réviser une décision peut préserver une direction importante tout en modifian
 Vous pouvez reconnaître un effort, conserver une partie de ce qui a été appris et laisser d’autres éléments sans usage. Il n’est pas nécessaire de transformer chaque détour en leçon heureuse. Une fin responsable peut demander une explication, un relais ou des tâches précises. Elle peut aussi laisser de la déception et un désaccord, sans vous obliger à reprendre indéfiniment le choix pour obtenir l’approbation de tous.
 
 Si revenir sur une décision provoque une forte dévalorisation, si l’effort passé vous enferme dans des engagements qui vous coûtent trop ou si vous ne parvenez plus à distinguer les options, un psychologue, un médecin ou un professionnel adapté peut vous aider à examiner la situation. Le soutien peut également porter sur les moyens et les accords concrets. L’objectif peut être de retrouver une suite vivable, sans effacer l’histoire et sans lui donner le pouvoir de décider seule de tout ce qui vient après.
-
-Sources :
-- [Arkes et Blumer, expériences sur les coûts irrécupérables](https://www.sciencedirect.com/science/article/pii/0749597885900494)
-- [NHS, Problem solving](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)
-- [OMS, Doing What Matters in Times of Stress](https://www.who.int/publications/i/item/9789240003927)

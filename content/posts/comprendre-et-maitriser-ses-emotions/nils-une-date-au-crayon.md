@@ -29,7 +29,11 @@ Ils reviennent avec le calendrier des émissions. Jo peut lui réserver le premi
 
 ## Choisir sa cadence dans le rétablissement
 
-Une personne qui vit avec une schizophrénie peut avoir des projets et des besoins qui changent au cours du temps. L’OMS décrit des parcours différents selon les personnes, avec des périodes où les difficultés peuvent être plus ou moins présentes. Le suivi peut se poursuivre tandis qu’une activité prend sa place dans la vie ordinaire. La chronique de Nils renseigne surtout sur ce qu’il veut faire avec les jardiniers du quartier. Il peut choisir la fréquence, tenir compte de ses autres engagements et demander à revoir le calendrier.
+Une personne qui vit avec une schizophrénie peut avoir des projets et des besoins qui changent au cours du temps. L’OMS décrit des parcours différents selon les personnes, avec des périodes où les difficultés peuvent être plus ou moins présentes. Le suivi peut se poursuivre tandis qu’une activité prend sa place dans la vie ordinaire.
+
+## Comment cette difficulté se manifeste
+
+La chronique de Nils renseigne surtout sur ce qu’il veut faire avec les jardiniers du quartier. Il peut choisir la fréquence, tenir compte de ses autres engagements et demander à revoir le calendrier.
 
 Dans les recommandations du NICE, les objectifs personnels et la situation de travail peuvent faire partie de la discussion avec les professionnels. Nils peut leur parler des horaires qu’il veut garder et de ce qui l’aide s’il en ressent le besoin. Il conserve aussi le chemin prévu pour demander un avis quand quelque chose change dans son quotidien. Le fait d’avoir une date à la radio lui donne un rendez-vous qu’il a choisi, avec Maud, autour d’un sujet qu’il connaît.
 
@@ -42,9 +46,3 @@ Ils conviennent d’une date et d’une courte discussion avant la suivante. Le 
 ## La question au dos de l’étiquette
 
 De retour à la pépinière pour rendre la clef du local qu’il avait emportée après sa matinée, Nils trouve un pot rouge ébréché derrière les arrosoirs. Aïcha s’en sert pour les crayons. Il en prend un et lui demande quelle plante les clients reposent le plus souvent quand elle leur explique où la mettre. Elle répond : la menthe, quand ils découvrent la place qu’elle prend. Nils retourne une étiquette vierge et écrit « quelle place pour la menthe ? ». Il glisse l’étiquette derrière sa carte de bus. Cette fois, il n’a besoin de déchirer aucune feuille : le comptage est déjà sur la planchette.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE, psychose et schizophrénie chez l’adulte (CG178)](https://www.nice.org.uk/guidance/cg178/chapter/recommendations)
-- [OMS, fiche d’information sur la schizophrénie](https://www.who.int/news-room/fact-sheets/detail/schizophrenia)

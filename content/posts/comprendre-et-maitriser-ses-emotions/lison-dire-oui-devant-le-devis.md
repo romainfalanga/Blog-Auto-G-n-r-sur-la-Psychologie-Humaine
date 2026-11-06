@@ -43,9 +43,3 @@ Lison peut reprendre son premier oui en séparant la décision sur les matières
 ## La case reste vide
 
 Nora ouvre son agenda. Mardi avant la pause, la petite table du fond est libre. Elle propose qu’elles y apportent le patron et un mètre, puis qu’elles aillent vérifier le stock un autre jour. Lison écrit « revoir quantité » sur le formulaire et laisse la case vide. Elle revient aux deux chutes pour agrafer un coin de l’ocre par-dessus l’ardoise, de sorte qu’on puisse le soulever. Nora essaie du pouce. « Ça ne se voit que si on bouge », dit-elle. Lison acquiesce. Pour cette question-là, elle sait exactement à quoi elle répond.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Staller et al. — Neurodivergent Conditions Critically Limit Societal Participation: The Case of Dyscalculia in Adults (2025)](https://journals.sagepub.com/doi/10.1177/27546330251406911)
-- [Mon Parcours Handicap — Compenser votre handicap en formation](https://www.monparcourshandicap.gouv.fr/formation-professionnelle/compenser-votre-handicap-en-formation)

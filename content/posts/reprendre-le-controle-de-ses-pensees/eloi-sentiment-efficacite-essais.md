@@ -94,5 +94,3 @@ Le sentiment d'efficacité se nourrit d'expériences dont on comprend le résult
 Vous pouvez chercher une situation assez claire pour identifier votre action, les appuis disponibles et ce qui reste à vérifier. Une petite expérience n'est pas insignifiante si elle renseigne sur une capacité réelle. Elle peut vous aider à choisir la suite, y compris lorsqu'elle montre qu'un accompagnement ou un entraînement supplémentaire est nécessaire.
 
 Si le doute devient envahissant, vous empêche durablement d'agir ou s'accompagne d'une souffrance importante, un professionnel peut vous aider à l'examiner. Un formateur ou un référent peut aussi travailler avec vous sur les conditions d'apprentissage. Vous n'avez pas à transformer seul une difficulté concrète en problème de confiance pour avoir droit à un appui.
-
-Sources : [Albert Bandura, théorie du sentiment d'efficacité personnelle](https://pubmed.ncbi.nlm.nih.gov/847061/) ; [Bandura et Schunk, sous-objectifs et apprentissage](https://doi.org/10.1037/0022-3514.41.3.586).

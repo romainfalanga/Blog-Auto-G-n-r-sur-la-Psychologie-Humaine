@@ -32,7 +32,11 @@ Lou arrive avec les derniers journaux et en garde deux au fond de la pile, un po
 
 ## Un texte publié ne dit pas tout du travail qui l’a précédé
 
-Une page qui se lit bien peut avoir demandé un effort que le lecteur ne voit pas. La publication du reportage ne suffit pas pour savoir comment évoluent les difficultés de Maïwenn. Elle dit qu’un projet est arrivé jusqu’au bout, avec des passages qu’elle a écrits, un travail partagé et des décisions sur ce qu’elles pouvaient livrer. Certaines difficultés se retrouveront peut-être dans d’autres textes, avec des délais ou des appuis différents. Pour le moment, Maïwenn est surtout surprise que quelqu’un lui parle du bruit de la table. C’est la phrase qu’elle craignait de perdre dans la version courte.
+Une page qui se lit bien peut avoir demandé un effort que le lecteur ne voit pas. La publication du reportage ne suffit pas pour savoir comment évoluent les difficultés de Maïwenn. Elle dit qu’un projet est arrivé jusqu’au bout, avec des passages qu’elle a écrits, un travail partagé et des décisions sur ce qu’elles pouvaient livrer. Certaines difficultés se retrouveront peut-être dans d’autres textes, avec des délais ou des appuis différents.
+
+## Comment cette difficulté se manifeste
+
+Pour le moment, Maïwenn est surtout surprise que quelqu’un lui parle du bruit de la table. C’est la phrase qu’elle craignait de perdre dans la version courte.
 
 ## Repartir avec une question plutôt qu’un contrat
 
@@ -41,9 +45,3 @@ Maïwenn veut garder ce qui lui a servi : discuter l’idée avant de régler to
 ## Un rectangle dans le cahier
 
 Maïwenn pose son exemplaire à côté de celui de Lou et lui montre le rectangle. Lou demande s’il s’agit du plan d’un deuxième marché. Maïwenn rit. « C’est un banc. Je vais voir qui le prend quand les autres sont libres. » Elle lui demande si elle veut lire sa question. Lou approche la main du cahier, attend que Maïwenn le lui tourne et lit la ligne du bas. Maïwenn récupère le cahier, laisse le rectangle tel quel et ajoute seulement l’heure à laquelle elle ira voir.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de Santé, parcours de santé des enfants avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2822893/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages)
-- [American Speech-Language-Hearing Association, Written Language Disorders](https://www.asha.org/Practice-Portal/Clinical-Topics/Written-Language-Disorders/)

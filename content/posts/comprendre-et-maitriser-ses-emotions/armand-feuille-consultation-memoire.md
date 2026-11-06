@@ -34,6 +34,8 @@ La médecin connaît déjà le diagnostic de maladie d’Alzheimer d’Armand et
 
 Le suivi d’un trouble neurocognitif porte aussi sur les activités auxquelles la personne tient et sur ce qui a changé pour elle. Ranger une carte et reprendre un courrier administratif le lendemain sont deux tâches différentes. La médecin peut demander ce qui se passe à chaque étape, ce qu’Armand fait encore aisément et dans quelle situation il a demandé de l’aide. Cette conversation peut guider le choix d’un soutien plus concret qu’une remarque générale sur les oublis.
 
+## Comment cette difficulté se manifeste
+
 La Haute Autorité de santé recommande de recueillir le vécu de la personne et, avec son accord dans le cadre du suivi, le point de vue de l’entourage. Jeanne a remarqué un délai et Armand a passé une soirée à chercher le plan. Chacun dispose d’une information que l’autre n’a pas. Ils peuvent les apporter au rendez-vous sans devoir s’accorder d’avance sur leur interprétation. C’est l’équipe de soins qui examine ce qu’elles changent au suivi.
 
 ## Deux sujets, deux réponses possibles
@@ -45,9 +47,3 @@ Le courrier a sa propre échéance. Armand peut préciser ce qu’il accepte que
 ## Le coin gauche du buffet
 
 Armand fait entrer le courrier dans la conversation en demandant à Jeanne de rappeler la date figurant sur l’enveloppe. Ils la reprendront ensemble le lendemain. La médecin propose de transmettre au médecin traitant, avec son accord, sa demande d’un appui à domicile pour mieux organiser ses papiers. D’ici là, Armand veut essayer de poser les affaires en cours au coin gauche du buffet ; à droite il y a la boîte à pain et son couvercle remue trop. Au moment de quitter le cabinet, il replie sa feuille en deux. Jeanne a attendu qu’il la ramasse.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, parcours de soins du trouble neurocognitif associé à la maladie d’Alzheimer](https://www.has-sante.fr/jcms/c_2906096/fr/patients-presentant-un-trouble-neurocognitif-associe-a-la-maladie-d-alzheimer-ou-a-une-maladie-apparentee-guide-parcours-de-soins)
-- [NICE NG97, évaluation, soins et soutien des personnes vivant avec une démence et de leurs proches](https://www.nice.org.uk/guidance/ng97/resources/dementia-assessment-managementand-support-for-people-living-with-dementia-and-their-carers-pdf-1837760199109)

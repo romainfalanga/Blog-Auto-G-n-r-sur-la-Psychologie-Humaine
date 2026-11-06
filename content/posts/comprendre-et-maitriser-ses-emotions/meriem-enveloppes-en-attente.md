@@ -31,7 +31,11 @@ Salomé lui a envoyé l’annonce relue, sans image. Meriem a confirmé qu’ell
 
 ## Pourquoi une décision difficile peut continuer à peser
 
-Dans un stress post-traumatique complexe, le jugement sévère porté sur soi peut revenir après une situation où la personne a pourtant pris une décision utile. Une situation peut être terminée alors que la honte et le jugement sur soi persistent. Meriem a obtenu que la visite s’arrête, puis que l’annonce paraisse dans les conditions qu’elle a relues. Une semaine après, elle se sent incapable de tenir son rôle. Dans ce passage, Meriem se rappelle sa voix et la juge ; c’est différent de l’impression initiale que le passé se produisait à nouveau.
+Dans un stress post-traumatique complexe, le jugement sévère porté sur soi peut revenir après une situation où la personne a pourtant pris une décision utile. Une situation peut être terminée alors que la honte et le jugement sur soi persistent. Meriem a obtenu que la visite s’arrête, puis que l’annonce paraisse dans les conditions qu’elle a relues. Une semaine après, elle se sent incapable de tenir son rôle.
+
+## Comment cette difficulté se manifeste
+
+Dans ce passage, Meriem se rappelle sa voix et la juge ; c’est différent de l’impression initiale que le passé se produisait à nouveau.
 
 Les symptômes peuvent être persistants et coûter un effort même lorsque des activités sont maintenues. Le diagnostic ne rend pas chaque jeudi prévisible. Il n’efface ni les préférences de Meriem ni ce qu’elle sait faire. Son hésitation peut aussi faire place à une question ordinaire de travail : qu’est-ce qu’Ève a pu préparer seule et qu’est-ce qu’elles veulent encore décider ensemble ?
 
@@ -44,8 +48,3 @@ Le NICE reconnaît que la honte ou la difficulté à faire confiance peuvent com
 ## « À vérifier », en gros
 
 Au téléphone, Meriem apprend qu’Ève n’a rien promis aux personnes qui ont déposé les trois patrons. Elle lui propose deux étiquettes : « À vérifier » et « Copies à prendre ». Elle demande à venir vendredi soir, au moment où Dalila est encore à l’accueil, pour installer les bacs avec elle. Ève peut lui accorder vingt minutes, puis elle doit partir. Ève laisse l’heure sur le tableau avant de partir. Elles conviennent de décider vendredi qui accueille les premiers visiteurs. Meriem ne promet pas de parler devant le groupe. Elle a encore rendez-vous avec sa thérapeute avant de retrouver la table.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

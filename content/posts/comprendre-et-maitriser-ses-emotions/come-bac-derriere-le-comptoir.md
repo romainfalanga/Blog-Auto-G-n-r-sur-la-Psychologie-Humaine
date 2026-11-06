@@ -33,6 +33,8 @@ Inès reprend son ticket : le client du tube attend un appel. Côme lui dit qu�
 
 Une pratique de jeu difficile à interrompre peut réduire le sommeil et peser sur le travail le lendemain. Le guide de l’OMS signale que les perturbations du sommeil peuvent faire partie du trouble du jeu vidéo. La fatigue, à elle seule, n’en donne pas la cause. Pour Côme, la question se rapporte à deux nuits qu’il connaît : il a tenté de partir du jeu, est resté et s’est retrouvé trop fatigué pour tenir l’horaire qu’il avait choisi ou accepté. Le samedi soir où il s’est couché tôt compte aussi. La difficulté peut revenir par périodes.
 
+## Comment cette difficulté se manifeste
+
 Côme connaît le nom donné à ce qu’il vit. Il a pourtant hésité à rappeler la consultation parce qu’il imaginait qu’il faudrait y apporter le relevé complet de ses parties. Ce matin, il sait déjà dire ce qui l’embête le plus : quand il compte sur sa capacité à quitter une partie à temps, il ne peut pas toujours s’y fier. Le retard lui coûte une prise d’ouverture. Il a aussi laissé à Inès une part de travail qu’elle n’avait pas prévue.
 
 ## Parler de l’ouverture à la boutique
@@ -44,9 +46,3 @@ Il peut aussi dire qu’il lui faudra du temps pour retrouver une façon de teni
 ## Au dos de la feuille d’appel
 
 Côme inscrit « samedi, établi » puis « lundi, ouverture » sur le brouillon. Il le plie côté blanc vers l’extérieur et le met dans sa poche. Après son service, il demande un rendez-vous au secrétariat de la consultation où il était déjà suivi. On lui propose le mercredi de la semaine suivante. Il vérifie son horaire de boutique avant de répondre et accepte. En fermant la conversation, il se rend compte qu’il n’a donné aucun chiffre d’heures. Il a dit qu’il avait manqué deux choses auxquelles il tenait.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Trouble du jeu vidéo : questions et réponses](https://www.who.int/fr/news-room/questions-and-answers/item/gaming-disorder)
-- [CHU de Nantes, Addictologie : consultations spécialisées](https://www.chu-nantes.fr/venir-en-consultation-45)

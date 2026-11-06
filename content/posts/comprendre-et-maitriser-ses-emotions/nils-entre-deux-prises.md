@@ -29,7 +29,11 @@ C’est au moment où il cherche sa phrase suivante qu’il croit entendre « Ni
 
 ## Une perception difficile à situer
 
-Dans la schizophrénie, il peut arriver qu’une personne entende une voix ou un son sans source extérieure perceptible. Une impression isolée ne suffit pas à établir ce qui s’est passé ni à qualifier une évolution clinique. Nils sait ce qui l’a troublé : le son lui a paru proche et son prénom a capté son attention. Il peut en parler sans fournir d’explication sûre. Une part de son inquiétude tient au fait qu’il essayait justement de faire entendre sa propre voix.
+Dans la schizophrénie, il peut arriver qu’une personne entende une voix ou un son sans source extérieure perceptible. Une impression isolée ne suffit pas à établir ce qui s’est passé ni à qualifier une évolution clinique.
+
+## Comment cette difficulté se manifeste
+
+Nils sait ce qui l’a troublé : le son lui a paru proche et son prénom a capté son attention. Il peut en parler sans fournir d’explication sûre. Une part de son inquiétude tient au fait qu’il essayait justement de faire entendre sa propre voix.
 
 Maud peut répondre de ce qu’elle sait : elle n’a pas parlé. Elle peut aussi entendre que le moment a été pénible. Chercher ensemble une origine cachée au son, ou lui demander d’admettre sur-le-champ qu’il s’est trompé, ne lui donnerait pas ce qu’il vient chercher dans le couloir. Il lui faut du temps pour décider de la suite de l’essai.
 
@@ -42,9 +46,3 @@ La question de santé suit son propre chemin. Nils a rendez-vous jeudi avec l’
 ## Le fichier sans date de diffusion
 
 Nils retourne dans la cabine et essaie la paume une fois, avant de parler. La petite barre rouge s’arrête sur l’écran. Maud attend son signe de tête pour lancer une nouvelle prise. Il lit la question, laisse un silence, puis dit ce qu’il demande à la cliente avant de parler d’arrosage. Ils écoutent la minute à voix basse. Elle contient un mot répété et un froissement de papier qui lui plaît assez. Maud l’enregistre sous « Basilic — essai » et lui en envoie une copie. Nils lui dit qu’elle peut le garder pour leur travail et lui demande de revenir vers lui s’ils veulent le diffuser.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE, psychose et schizophrénie chez l’adulte (CG178)](https://www.nice.org.uk/guidance/cg178/chapter/recommendations)
-- [Lincolnshire Partnership NHS Foundation Trust, parler avec une personne qui vit une expérience inhabituelle](https://www.lpft.nhs.uk/contact-us/support/carers-support/advice-how-manage-expressions-strange-beliefs-delusional-thoughts)

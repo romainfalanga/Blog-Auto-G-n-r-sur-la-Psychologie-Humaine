@@ -98,5 +98,3 @@ Demander si une aide est souhaitée permet de vérifier le projet, la forme de s
 Aline conserve son savoir-faire et apprend à le proposer sans prendre automatiquement la direction de la scène. Le ralentissement reste difficile quand le lieu est chargé. Le groupe peut néanmoins créer des conditions où l’autonomie ne repose pas seulement sur la capacité des participants à interrompre une bénévole bien intentionnée.
 
 Si le besoin d’intervenir malgré les refus provoque des tensions répétées ou vous laisse en détresse, un psychologue peut vous aider à explorer ce qui rend l’attente si difficile. Une formation à l’accueil ou à l’écoute peut aussi soutenir une activité associative. Chercher des repères n’enlève rien à la générosité ; cela aide à lui donner une forme que chacun peut choisir.
-
-Sources : [Weinstein et Ryan, autonomie et motivations de l’aide](https://pubmed.ncbi.nlm.nih.gov/20085397/).

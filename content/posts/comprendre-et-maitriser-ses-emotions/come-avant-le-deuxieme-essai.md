@@ -33,6 +33,8 @@ Dans le bureau, il cherche la photo du plateau et tombe sur une image de la peti
 
 Une consultation d’addictologie peut aider à revenir sur une situation précise et à discuter des possibilités de soin. La psychologue demande à Côme de lui raconter le début de soirée, là où elle avait encore plusieurs issues possibles pour lui. Il croyait d’abord qu’il fallait expliquer pourquoi il n’avait pas fermé le jeu à la fin. Il se rappelle aussi le moment où il a ouvert la carte, et celui où le rappel est apparu alors qu’il venait de chercher de l’eau. Ces souvenirs aident à dire quand le choix est devenu difficile à modifier.
 
+## Comment cette difficulté se manifeste
+
 Côme voit bien que parler avec Florian ne lui garantira pas de réussir à s’arrêter. L’ami auquel il pense n’est pas présent chaque soir ; la consultation reste le lieu où il peut reprendre ce qui ne marche pas et discuter d’autres soins si besoin. Il garde le rendez-vous prévu après celui-ci. Il veut savoir si, dans une prochaine soirée, la possibilité de parler à quelqu’un lui viendra plus tôt.
 
 ## Demander de la compagnie avec des mots ordinaires
@@ -44,9 +46,3 @@ Le repas de Côme a refroidi dans son sac. Il ne va pas tenter de transformer to
 ## La phrase avant la bouchée
 
 Dans le hall, Côme déballe son sandwich sur le papier qui l’entoure. Avant de manger, il envoie à Florian : « Il y a des soirs où j’ai du mal à décrocher du jeu. Tu crois que tu pourrais m’aider quand ça arrive ? » Il ne sait pas encore si « aider » veut dire la même chose pour eux deux. Florian a prévu de l’accompagner dimanche pour regarder le carton de la table. Il lui répond qu’ils en parleront en chemin. Côme garde la fin du message ouverte pendant qu’il mange.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Trouble du jeu vidéo : questions et réponses](https://www.who.int/fr/news-room/questions-and-answers/item/gaming-disorder)
-- [CHU de Nantes, Addictologie : consultations spécialisées](https://www.chu-nantes.fr/venir-en-consultation-45)

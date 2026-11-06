@@ -32,6 +32,8 @@ Fatou relit à voix haute. Elle se demande si les gens vont croire qu’il faudr
 
 Une personne peut parler de son diagnostic dans une relation et garder cette information privée ailleurs. Nour utilise pour elle-même le mot « autiste ». Elle en a parlé à Fatou dans une conversation choisie. Pour l’annonce, elle souhaite que les voisins lisent ce qu’ils pourront faire et sachent à qui poser une question. Elle garde la décision de se présenter autrement si elle le veut un jour.
 
+## Comment cette difficulté se manifeste
+
 Le NICE demande aux professionnels de discuter de la participation des proches avec la personne autiste et de respecter la confidentialité. L’invitation de quartier se situe en dehors du soin. Elle donne un exemple de ce qui change quand un message s’adresse à plusieurs personnes et peut être recopié. Fatou peut décrire le parcours et les choix de pause avec des termes utiles au public. Elle peut demander l’accord de Nour avant de transmettre une information personnelle.
 
 ## Laisser les gens indiquer ce qui leur serait utile
@@ -43,8 +45,3 @@ Fatou veut que son rôle soit clair. Elle peut expliquer les lieux lors du rende
 ## Le mot « autiste » reste dans la conversation
 
 Fatou retire la phrase et envoie à Nour la version qu’elle propose de diffuser. Nour lui répond qu’elle peut ajouter son prénom à côté du plan. Sur la reproduction, elle laisse le crédit de la collection et note qu’elle montrera l’image le jour de la visite. Un voisin leur demande déjà à quelle heure on pourra repartir. Nour écrit que chacun pourra rentrer quand il le souhaite et que le kiosque restera leur point commun. Avant de quitter l’ordinateur, elle ouvre le message de la professionnelle qu’elle doit voir la semaine suivante. Elle voudrait lui parler du temps qu’il lui faut pour récupérer après certaines journées.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG142, accompagnement des adultes autistes](https://www.nice.org.uk/guidance/cg142/chapter/Recommendations)

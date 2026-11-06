@@ -32,7 +32,11 @@ Avant la répétition, il avait demandé à Pascal s’il pourrait rester quelqu
 
 ## La place de l’invitation dans le désir de boire
 
-Les attentes du groupe et la crainte de s’en éloigner peuvent compter dans la difficulté à choisir. Éric associe le café à des souvenirs agréables, aux occasions de boire et à des départs qu’il a eu du mal à tenir. Quand l’invitation arrive, la perspective de perdre les photos et le moment partagé rend le refus plus coûteux. Le fait de vouloir garder des amis mérite sa place dans la discussion clinique.
+Les attentes du groupe et la crainte de s’en éloigner peuvent compter dans la difficulté à choisir. Éric associe le café à des souvenirs agréables, aux occasions de boire et à des départs qu’il a eu du mal à tenir.
+
+## Comment cette difficulté se manifeste
+
+Quand l’invitation arrive, la perspective de perdre les photos et le moment partagé rend le refus plus coûteux. Le fait de vouloir garder des amis mérite sa place dans la discussion clinique.
 
 Les soins peuvent prendre en compte les situations sociales et les ressources dont la personne dispose. Éric peut parler de ce qui lui donne envie d’y aller et chercher comment retrouver une part de ces échanges ailleurs. Les occasions de se voir n’ont pas toutes la même signification pour lui.
 
@@ -45,9 +49,3 @@ Avec Pascal, le temps convenu est celui d’une écoute et s’arrête quand Pas
 ## La photo pliée dans le dossier
 
 Gérald sort une photo pliée. Éric y voit Pascal tenant le pupitre au-dessus de sa tête pour protéger la partition. Il lui demande s’il peut la regarder de plus près. Gérald lui laisse la photo jusqu’à la répétition suivante et emporte les autres. Après leur départ, Pascal met le casque et reconnaît le bruit des cagettes. Quand il doit rentrer, Éric a encore envie de savoir ce que les autres se racontent au café. Il envoie à Gérald le nom du morceau qu’il aimerait reprendre la prochaine fois et s’arrête un moment pour regarder ce qu’on voit du défilé derrière le pupitre.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG115, évaluation et prise en charge de la dépendance à l’alcool](https://www.nice.org.uk/guidance/cg115/chapter/Recommendations)
-- [HAS, agir en premier recours pour diminuer le risque alcool](https://www.has-sante.fr/jcms/p_3326877/fr/agir-en-premier-recours-pour-diminuer-le-risque-alcool-reperer-tous-les-usages-et-accompagner-chaque-personne)

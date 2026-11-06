@@ -33,6 +33,8 @@ Béatrice lui demande si elle veut regarder ce qui l’a gênée dans le pli. Mi
 
 Chez certaines personnes, les difficultés qui concernent l’image de soi font partie d’un trouble durable du fonctionnement personnel. Le profil borderline décrit dans la CIM-11 peut notamment préciser des variations marquées de cette image. Pour comprendre le retentissement, les professionnels regardent comment ces variations se manifestent dans la durée et ce qu’elles changent dans la vie de la personne.
 
+## Comment cette difficulté se manifeste
+
 Mina passe de l’envie de fabriquer un carnet à l’idée qu’elle aurait dû y renoncer. Elle peut examiner avec Béatrice le trait sur la couverture et, au suivi, parler du jugement qui lui est venu à cet instant. Ce sont deux questions auxquelles elle s’adresse à des personnes différentes. À l’atelier, une indication sur le pli lui donne de quoi poursuivre l’apprentissage.
 
 ## Revenir à un choix qui lui appartient
@@ -44,8 +46,3 @@ Si elle a envie de ranger ses affaires et de reprendre une autre fois, cette pos
 ## Un essai de la taille d’un timbre
 
 Béatrice découpe un morceau juste assez grand pour voir le pli. Mina l’essaie près du carnet de brouillon. Il reste une trace, plus courte et moins claire. Elle pose les deux essais côte à côte, garde le papier vert pour la couverture et glisse le bout rouille avec les papiers de réserve. Avant de partir, elle demande à Béatrice combien de pages elle pourra plier au prochain cours. Elle ne lui pose pas la question qu’elle avait dans la tête en arrivant. Elle voudrait maintenant voir ce que donnera un cahier à l’intérieur.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG78, accompagnement des personnes présentant un profil borderline](https://www.nice.org.uk/guidance/cg78/chapter/Recommendations)

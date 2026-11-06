@@ -90,5 +90,3 @@ La comparaison au travail peut apporter des repères si l'on précise ce que l'o
 Vous pouvez choisir une différence précise et demander ce qu'elle vous apprend sur la prochaine étape possible. Il est légitime d'admirer une compétence et de ressentir de l'envie. Ces réactions ne vous obligent pas à copier immédiatement le résultat ni à minimiser ce que vous savez déjà faire. Si vous cherchez à apprendre de la comparaison, essayez d'en tirer une question sur le geste ou le critère qui vous intéresse.
 
 Si les comparaisons nourrissent une honte durable, une autocritique intense ou un évitement qui vous fait souffrir, un professionnel peut vous aider à examiner ce mécanisme. Un formateur peut également préciser les critères et les conditions de progression. Le droit d'apprendre ne dépend pas du fait d'être déjà aussi rapide ou aussi assuré qu'une personne expérimentée.
-
-Sources : [Leon Festinger, théorie des processus de comparaison sociale](https://doi.org/10.1177/001872675400700202) ; [Albert Bandura, sentiment d'efficacité personnelle](https://pubmed.ncbi.nlm.nih.gov/847061/).

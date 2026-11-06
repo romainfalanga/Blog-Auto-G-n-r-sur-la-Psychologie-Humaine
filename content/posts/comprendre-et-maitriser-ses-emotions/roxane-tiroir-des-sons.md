@@ -31,7 +31,11 @@ Salomé se rappelle un garçon qui avait pensé à sa sonnette. Elle retourne la
 
 ## Quand l’interlocuteur attend autre chose
 
-Une personne comprend une parole à partir des sons qu’elle distingue et de ce qu’elle s’attend à entendre. L’ASHA, une association professionnelle d’orthophonie, souligne que la familiarité avec la parole de l’enfant et le contexte de l’échange comptent. Le père de Roxane suit son raisonnement parce qu’ils ont parlé de la fausse piste avant d’arriver. Salomé, elle, pensait que Roxane allait nommer la source du bruit. Son père pourrait lever ce malentendu, mais Roxane tient à poser la question elle-même.
+Une personne comprend une parole à partir des sons qu’elle distingue et de ce qu’elle s’attend à entendre. L’ASHA, une association professionnelle d’orthophonie, souligne que la familiarité avec la parole de l’enfant et le contexte de l’échange comptent. Le père de Roxane suit son raisonnement parce qu’ils ont parlé de la fausse piste avant d’arriver.
+
+## Comment cette difficulté se manifeste
+
+Salomé, elle, pensait que Roxane allait nommer la source du bruit. Son père pourrait lever ce malentendu, mais Roxane tient à poser la question elle-même.
 
 Le geste qu’elle adresse à son père lui donne le temps de reformuler. L’issue compte pour elle : Salomé répond à la question qu’elle voulait poser, et son souvenir apporte une piste au projet. Le geste n’a pas modifié la production des sons.
 
@@ -44,9 +48,3 @@ Roxane a besoin de deux moments : celui où le visiteur se trompe de famille de 
 ## La réponse tournée vers la table
 
 Roxane essaie une phrase dans le silence qui suit le son : « Mon tambour a des racines. » Sur un bout de papier séparé, elle écrit une autre ligne, à utiliser si personne ne voit où chercher : « Je frappe le bois avec mon bec. » Salomé met les deux étiquettes de côté, le temps que Zoé entende les sons en classe. Roxane décide lequel elle lui proposera de garder. Elle remet l’étiquette du pic face contre table ; elle veut faire à Zoé le même coup qu’à elle.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal — Speech Sound Disorders: Articulation and Phonology](https://www.asha.org/practice-portal/clinical-topics/articulation-and-phonology/)
-- [Ligue pour la protection des oiseaux — Pic épeiche, fiche espèce](https://www.lpo.fr/decouvrir-la-nature/fiches-especes/fiches-especes/oiseaux/pics/pic-epeiche)

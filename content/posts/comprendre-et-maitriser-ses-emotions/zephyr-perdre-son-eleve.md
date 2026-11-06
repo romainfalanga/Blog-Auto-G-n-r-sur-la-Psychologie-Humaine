@@ -31,7 +31,11 @@ Loïc tourne le manche du tournevis entre ses doigts. Il doit partir dans vingt 
 
 ## Quand le détour imagé fait perdre le premier geste
 
-Une explication peut être très précise dans la tête de celui qui la donne et laisser celui qui écoute sans premier geste à faire. La maison dessinée par Zéphyr désigne un emplacement. Pour Loïc, la tournée du facteur ouvre plusieurs pistes à la fois. Il finit par prendre une boîte au hasard de ce qu’il a compris et se fait reprendre devant l’établi. Zéphyr, qui ne voulait pas l’humilier, perd à son tour le fil de l’échange en entendant cette tentative comme un échec du cours entier.
+Une explication peut être très précise dans la tête de celui qui la donne et laisser celui qui écoute sans premier geste à faire. La maison dessinée par Zéphyr désigne un emplacement. Pour Loïc, la tournée du facteur ouvre plusieurs pistes à la fois. Il finit par prendre une boîte au hasard de ce qu’il a compris et se fait reprendre devant l’établi.
+
+## Comment cette difficulté se manifeste
+
+Zéphyr, qui ne voulait pas l’humilier, perd à son tour le fil de l’échange en entendant cette tentative comme un échec du cours entier.
 
 Dans le trouble schizotypique, une parole qui multiplie les détours, devient difficile à suivre ou se charge d’images peut compter parmi des difficultés durables. Ce n’est pas le fait d’employer une métaphore qui a une valeur clinique. Le retentissement sur les échanges et le contexte plus large comptent. L’image de la maison peut même devenir utile si Loïc sait où regarder et ce qu’il cherche à faire.
 
@@ -44,8 +48,3 @@ Dans un accompagnement psychologique, on peut partir de scènes où l’on voudr
 ## Retourner la fiche
 
 Sur le dos du dessin, Zéphyr écrit « Montrer l’emplacement de la roue » et le désigne sur la platine. Loïc retire ses lunettes pour voir de plus près, puis lui montre l’autre emplacement en demandant s’il aura aussi son tour. Ils n’ont plus le temps de faire tourner les deux roues. Avant de filer, Loïc fait remarquer que le mot « adresse » lui aurait bien plu s’il avait vu d’abord où la pièce allait. Zéphyr replie la feuille en deux : un côté pour la première action, un côté pour les mots qui viennent ensuite. Il essaiera de la montrer comme ça au bureau.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Mayo Clinic, schizotypie : évaluation, psychothérapies et accompagnement](https://www.mayoclinic.org/diseases-conditions/schizotypal-personality-disorder/diagnosis-treatment/drc-20353924)

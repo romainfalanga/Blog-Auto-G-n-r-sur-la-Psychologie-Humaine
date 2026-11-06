@@ -32,7 +32,11 @@ Dounia ramasse sa housse. Elle répond que Basile lui a prêté les clés pour r
 
 Après une parole brusque, on peut revenir sur ce qu’on a dit avant d’avoir résolu tout ce qui l’a provoquée. Gasparde reste préoccupée par le partage des rôles au club. Elle entend aussi Dounia dire qu’elle cherchait à rendre des clés. Sa remarque a prêté une intention à Dounia et a coupé l’échange. Elle peut en répondre directement, en laissant à Dounia une place pour dire comment elle l’a reçue.
 
-Dans le trouble délirant, une conviction peut rester forte malgré un changement dans la situation qui l’a ravivée. Le récit montre une inquiétude propre à Gasparde, avec un moment où elle influence sa réponse. Gasparde pourra en parler dans son suivi. Elle choisit ici un geste relationnel précis. Elle veut que Dounia puisse poser une question au club et obtenir une réponse qui la concerne.
+Dans le trouble délirant, une conviction peut rester forte malgré un changement dans la situation qui l’a ravivée.
+
+## Comment cette difficulté se manifeste
+
+Le récit montre une inquiétude propre à Gasparde, avec un moment où elle influence sa réponse. Gasparde pourra en parler dans son suivi. Elle choisit ici un geste relationnel précis. Elle veut que Dounia puisse poser une question au club et obtenir une réponse qui la concerne.
 
 ## Faire des excuses qui laissent de la place
 
@@ -43,8 +47,3 @@ Si Gasparde se sent encore mise à l’écart, elle peut attendre le moment où 
 ## Le crochet près de la porte
 
 « Je t’ai parlé comme si tu avais demandé qu’on me remplace. Excuse-moi pour ça. Pour la clé, le crochet est à gauche quand tu entres. » Dounia dit qu’elle veut bien en rester là aujourd’hui. Elle pose le trousseau sur le crochet et revient montrer à Clara comment ouvrir le portail depuis l’intérieur. Gasparde regagne le terrain. Levent s’est placé du mauvais côté de la ligne de service. Elle s’en aperçoit seulement quand il lui demande s’il peut taper plus loin. Elle lui montre la marque effacée dans le béton. Une fois le point fini, elle lui demande s’il veut recommencer.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NSW Health, communiquer avec une personne qui vit une expérience psychotique](https://www.health.nsw.gov.au/mentalhealth/psychosocial/strategies/Pages/communicating-psychosis.aspx)

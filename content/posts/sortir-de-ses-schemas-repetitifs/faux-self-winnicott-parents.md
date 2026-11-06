@@ -11,6 +11,8 @@ personnage: "Mei"
 sujet: "le faux self (Winnicott)"
 contexte: "avec ses parents"
 draft: false
+editorial_sources:
+- https://academic.oup.com/book/1192/chapter-abstract/140028848
 ---
 
 Wei attend le ticket de la table six au bout du comptoir. Tandis que la machine imprime, il demande à Mei si elle a regardé les inscriptions en médecine. Elle était en train de lui raconter le vernissage. Le dessin dont elle parle n’est pas encore sorti de son carton. Elle répond qu’elle va voir, avec le ton sérieux qu’elle sait prendre pour que son père puisse passer à autre chose. Il arrache le ticket et lui demande si elle peut l’apporter en cuisine.
@@ -74,5 +76,3 @@ Réconcilier le vrai self et le faux self face à ses parents demande du temps e
 Vous pouvez choisir ce que vous souhaitez dire et à qui. La réserve n’est pas automatiquement une stratégie formée dans l’enfance. Si le décalage vous fait souffrir, un psychologue peut vous aider à explorer la situation actuelle.
 
 Soyez indulgent avec votre propre rythme. Comme Mei, commencez par des actions simples : nommer, écrire, montrer par petites étapes. Cela ne modifie pas le passé, mais cela permet de reprendre la main sur votre manière d'exister auprès des autres. Le vrai self n'a pas besoin d'atteindre la perfection pour avoir le droit de s'exprimer.
-
-Sources : [Winnicott, essai de 1960](https://academic.oup.com/book/1192/chapter-abstract/140028848).

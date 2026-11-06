@@ -30,7 +30,11 @@ Elle s’arrête pourtant près d’une vitrine où le groupe la dépasse. Elle 
 
 ## Le bruit change ce que permet un lieu
 
-Une personne peut vouloir participer à une sortie et avoir besoin de s’écarter de certains sons. Les particularités sensorielles décrites dans l’autisme sont variées. Certains bruits deviennent difficiles à supporter pour une personne, tandis qu’une autre remarque peu ces bruits ou rencontre des difficultés ailleurs. Nour apprécie l’animation quand elle peut s’éloigner et entend mal Fatou au milieu des chocs répétés sur les pavés. Le détour lui permet de choisir ce qu’elle veut continuer à voir.
+Une personne peut vouloir participer à une sortie et avoir besoin de s’écarter de certains sons. Les particularités sensorielles décrites dans l’autisme sont variées. Certains bruits deviennent difficiles à supporter pour une personne, tandis qu’une autre remarque peu ces bruits ou rencontre des difficultés ailleurs.
+
+## Comment cette difficulté se manifeste
+
+Nour apprécie l’animation quand elle peut s’éloigner et entend mal Fatou au milieu des chocs répétés sur les pavés. Le détour lui permet de choisir ce qu’elle veut continuer à voir.
 
 Le NICE propose de tenir compte de l’environnement physique et d’adapter les conditions de l’accompagnement si nécessaire. Pour la visite, Nour peut appliquer cette idée à son propre projet. Un passage qui lui convient un matin calme peut lui demander davantage les jours de marché. Le plan gagne à préciser où se trouve la rue animée, quand elle est occupée et par où il est possible de revenir. Chacun pourra utiliser ces indications selon ses besoins.
 
@@ -43,8 +47,3 @@ Si elle fait une pause, Nour peut choisir de revenir à la visite, de reprendre 
 ## Le bec tourné vers le passage
 
 Au kiosque, l’un des voisins retrouve sur son téléphone l’image qu’il a prise dans la cour. On y voit deux fixations au-dessus d’une porte. Nour ressort la photographie et rapproche les bords. L’hirondelle pointait bien vers le passage, même si la porte donne aujourd’hui sur la rue du marché. Fatou lui demande si elle a pu entendre son histoire sur la halle. Nour répond qu’elle aimerait la lire. En rentrant, elle se souvient qu’une autre réunion au service municipal est prévue la semaine suivante. Elle voudrait savoir ce qui est prévu avant d’entrer dans la salle.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG142, accompagnement des adultes autistes](https://www.nice.org.uk/guidance/cg142/chapter/Recommendations)

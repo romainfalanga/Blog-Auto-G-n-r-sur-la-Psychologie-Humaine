@@ -32,6 +32,8 @@ Au cabinet le lendemain, Blandine raconte d’abord Le Pont. Elle décrit la fin
 
 Des difficultés comme le retrait ou la perte d’intérêt peuvent se rencontrer dans le trouble du deuil prolongé et dans un épisode dépressif. L’OMS distingue une souffrance qui reste centrée sur la perte d’un proche et des pensées ou émotions dépressives qui touchent habituellement davantage de domaines de vie. Les deux troubles peuvent aussi coexister. La distinction relève d’une évaluation : un moment de plaisir ou plusieurs journées difficiles ne permettent pas, à eux seuls, d’en juger.
 
+## Comment cette difficulté se manifeste
+
 Blandine a déjà été évaluée pour son deuil prolongé. Elle apporte à sa thérapeute une semaine qu’il est difficile de résumer en une phrase. Il y a le jeudi, dont elle est contente, le livre qu’elle voulait offrir et les pages dont elle n’a pas pu s’occuper. La consultation lui permet de parler des effets qui persistent et de questions nouvelles, sans donner au seul jeudi la charge de dire comment elle va.
 
 ## Un accord pour le travail, un autre pour le suivi
@@ -43,9 +45,3 @@ Avec sa thérapeute, elle prévoit un nouveau point. Elles conviennent qu’elle
 ## Les légendes et le prochain rendez-vous
 
 Blandine met le rendez-vous dans son agenda et réserve le jeudi matin pour le premier retour à Esther. En sortant du cabinet, elle retrouve le reçu du livre dans sa poche. Elle écrit à son cousin pour savoir où elle peut le lui laisser. Puis elle répond à Alice : elle veut donner les deux feuilles discutées à l’annexe. Elle propose de la retrouver avec Léon vendredi après la fermeture du prêt, pour relire une dernière fois la fiche et déposer les originaux.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS — Grief after bereavement or loss : vécu du deuil et soutien](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)
-- [Shear et coll. — Optimizing Treatment of Complicated Grief: A Randomized Clinical Trial (JAMA Psychiatry, 2016)](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2526240)

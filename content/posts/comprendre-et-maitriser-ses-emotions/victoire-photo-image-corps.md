@@ -30,7 +30,11 @@ Au moment de partir, Lila propose une photo pour le groupe du rallye. Elle deman
 
 ## Quand l’apparence absorbe le jugement sur soi
 
-Beaucoup de personnes ont des préférences sur la façon dont elles apparaissent en photo. Dans la boulimie nerveuse, le poids ou la silhouette peuvent occuper une place disproportionnée dans la valeur que la personne s’attribue. Victoire se souvient encore de ce qu’elle a fait pour aider Manu. Il lui devient difficile de sentir que cette contribution compte, car l’image qu’elle anticipe semble décider de tout. Ce glissement peut s’accompagner d’évitements ou d’un retour répété à la question de l’apparence. Les réactions sont variables. L’équipe qui accompagne Victoire peut explorer la place de ces préoccupations dans plusieurs situations et leurs liens avec les crises et les compensations. Elle s’intéresse aussi à la souffrance et au temps que ces pensées prennent, indépendamment de ce que le corps donne à voir.
+Beaucoup de personnes ont des préférences sur la façon dont elles apparaissent en photo. Dans la boulimie nerveuse, le poids ou la silhouette peuvent occuper une place disproportionnée dans la valeur que la personne s’attribue.
+
+## Comment cette difficulté se manifeste
+
+Victoire se souvient encore de ce qu’elle a fait pour aider Manu. Il lui devient difficile de sentir que cette contribution compte, car l’image qu’elle anticipe semble décider de tout. Ce glissement peut s’accompagner d’évitements ou d’un retour répété à la question de l’apparence. Les réactions sont variables. L’équipe qui accompagne Victoire peut explorer la place de ces préoccupations dans plusieurs situations et leurs liens avec les crises et les compensations. Elle s’intéresse aussi à la souffrance et au temps que ces pensées prennent, indépendamment de ce que le corps donne à voir.
 
 ## Garder la main sur ce qui devient public
 
@@ -39,8 +43,3 @@ Le groupe peut avoir besoin d’un aperçu du trajet pour s’organiser. Victoir
 ## La carte porte son prénom
 
 Victoire accepte que son prénom figure sous le plan. Sur le chemin du retour, elle repense encore à son manteau avant de se rappeler la vitrine que Manu avait regardée. Elle voudrait marquer l’endroit exact où se forme la décision de tourner. Elle promet d’envoyer la version corrigée à Lila après son rendez-vous du mardi et photographie le portail depuis le trottoir.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et FFAB, Boulimie et hyperphagie boulimique, recommandations de bonne pratique](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique)

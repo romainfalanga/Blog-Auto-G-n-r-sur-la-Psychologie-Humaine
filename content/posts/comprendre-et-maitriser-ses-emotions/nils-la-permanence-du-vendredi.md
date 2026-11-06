@@ -33,6 +33,8 @@ Nils redoute de voir sa place à la pépinière fragilisée par une demande d’
 
 Une personne qui vit avec une schizophrénie peut avoir besoin d’appuis pour le travail, comme le prévoient les recommandations du NICE. Les besoins se discutent avec elle et dépendent des tâches, de ses objectifs et de sa situation. Ici, le conflit d’horaires est celui de deux engagements : une livraison prévue et la seule permanence où Renée reçoit les jardiniers avant l’émission. Le fait que Matthieu ne trouve pas de remplacement n’apprend rien sur l’état de santé de Nils. Ils peuvent regarder les cases nécessaires sans poser de questions sur sa vie privée.
 
+## Comment cette difficulté se manifeste
+
 Nils aime le travail du matin et veut garder sa place dans l’équipe. Il peut aussi être déçu de ne pas aller entre les parcelles. Quand il reprend le papier, il change la manière de faire son sujet. La demande qu’il avait prévue pour Renée reste pertinente même s’ils ne peuvent pas se voir à l’ouverture du jardin.
 
 ## Demander une contribution que Renée peut choisir
@@ -44,8 +46,3 @@ Il écrit la proposition à Maud. Elle tient en deux lignes : garder la minute p
 ## L’adresse sous la liste des outils
 
 Dans son message, Nils explique à Renée qu’il restera à la pépinière vendredi matin. Il lui demande si elle accepterait de lui transmettre une question par écrit ou de la poser elle-même à la radio. Renée répond qu’elle peut passer au studio vendredi après la permanence, en début d’après-midi. Elle a une question à elle, qu’elle voudrait lui montrer sur place. Elle ne peut pas promettre d’être libre le samedi. Nils lui donne l’heure à laquelle Maud ouvre. Il demande ensuite à Matthieu où ils poseront la planchette vendredi. La case du planning n’a pas bougé et ils auront besoin de cocher les bacs en arrivant.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE, psychose et schizophrénie chez l’adulte (CG178)](https://www.nice.org.uk/guidance/cg178/chapter/recommendations)

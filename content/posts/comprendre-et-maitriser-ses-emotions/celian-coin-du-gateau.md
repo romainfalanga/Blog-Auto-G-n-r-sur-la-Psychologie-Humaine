@@ -31,7 +31,11 @@ Le gâteau n’est pas commencé. Célian propose de garder le téléphone à po
 
 ## Comparer l’effort de lecture et l’accès par l’oral
 
-Le support oral peut rendre une consigne plus facile à utiliser quand la lecture demande beaucoup d’effort. Les personnes avec un déficit en lecture n’ont pas toutes le même profil. Certaines accèdent plus facilement au sens lorsque le texte est lu par quelqu’un, tandis que d’autres peuvent encore rencontrer des difficultés de compréhension. Célian a déjà essayé d’écouter une consigne et de la reprendre par morceaux. Il sait reproduire certains gestes après les avoir vus. Cela explique l’intérêt qu’il trouve à ces appuis dans cette cuisine ; cela ne dit rien de ce qui aiderait chaque personne qui partage son diagnostic. Le geste de la spatule, lui, est une chose qu’il a regardée et pratiquée.
+Le support oral peut rendre une consigne plus facile à utiliser quand la lecture demande beaucoup d’effort. Les personnes avec un déficit en lecture n’ont pas toutes le même profil. Certaines accèdent plus facilement au sens lorsque le texte est lu par quelqu’un, tandis que d’autres peuvent encore rencontrer des difficultés de compréhension.
+
+## Comment cette difficulté se manifeste
+
+Célian a déjà essayé d’écouter une consigne et de la reprendre par morceaux. Il sait reproduire certains gestes après les avoir vus. Cela explique l’intérêt qu’il trouve à ces appuis dans cette cuisine ; cela ne dit rien de ce qui aiderait chaque personne qui partage son diagnostic. Le geste de la spatule, lui, est une chose qu’il a regardée et pratiquée.
 
 ## Garder à portée ce qui fait foi
 
@@ -40,8 +44,3 @@ Un enregistrement permet de réécouter. S’il omet une phrase, la réécoute r
 ## Un coin pour chacun
 
 Quand ils goûtent le gâteau, Maxime veut garder une part du milieu pour la comparer à son coin. Célian trouve le milieu un peu fade et les bords à son goût. Il envisage deux recettes, puis regarde la boîte et décide de commencer par celle aux pommes, qu’il sait maintenant bien présenter. Il photographie la recette et garde la fiche dans le carnet pour son prochain essai. À Léonie, il envoie le nom du gâteau et la prévient que le reste du menu attendra le budget. Maxime repart avec son moule rond et une part carrée glissée dans du papier.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé — Guide du parcours de santé des enfants avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)

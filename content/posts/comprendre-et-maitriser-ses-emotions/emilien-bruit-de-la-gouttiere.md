@@ -31,7 +31,11 @@ Dans son téléphone, au-dessus de leur conversation, il retrouve une ancienne n
 
 ## Comprendre deux façons de dormir moins
 
-Une mauvaise nuit peut laisser quelqu’un épuisé, par exemple après un bruit répété ou une inquiétude. La diminution du besoin de sommeil décrite dans la manie peut prendre une autre forme : la personne dort peu et continue à se sentir reposée ou pleine d’énergie. Ce signe fait partie d’un ensemble et ne permet pas, même lorsqu’il est présent, de conclure à lui seul. À l’inverse, avoir une explication plausible pour une mauvaise nuit ne suffit pas à écarter une évolution si d’autres changements apparaissent. Dans le cas d’Émilien, le bruit est certain et la fatigue aussi ; la suite de la semaine, elle, reste à vivre.
+Une mauvaise nuit peut laisser quelqu’un épuisé, par exemple après un bruit répété ou une inquiétude. La diminution du besoin de sommeil décrite dans la manie peut prendre une autre forme : la personne dort peu et continue à se sentir reposée ou pleine d’énergie.
+
+## Comment cette difficulté se manifeste
+
+Ce signe fait partie d’un ensemble et ne permet pas, même lorsqu’il est présent, de conclure à lui seul. À l’inverse, avoir une explication plausible pour une mauvaise nuit ne suffit pas à écarter une évolution si d’autres changements apparaissent. Dans le cas d’Émilien, le bruit est certain et la fatigue aussi ; la suite de la semaine, elle, reste à vivre.
 
 ## Garder la question assez courte pour la poser
 
@@ -42,8 +46,3 @@ Au travail, il peut prendre une décision pour l’après-midi avec les informat
 ## Une question de sommeil pour l’équipe
 
 Ils se retrouvent au marché après l’ouverture. Émilien demande à la vendeuse s’il a bien entendu le prix ; elle lui dit qu’à l’époque elle annonçait souvent les deux montants, au kilo et à la cagette. Dorian voudrait lui faire entendre l’enregistrement plus tard, quand le stand sera moins occupé. Émilien garde ce rendez-vous possible et décale le montage. Sur le trajet du retour, il ouvre sa note et remplace le point d’interrogation qu’il avait laissé seul par une phrase : « Dans quel cas je vous appelle avant notre prochain rendez-vous ? »
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

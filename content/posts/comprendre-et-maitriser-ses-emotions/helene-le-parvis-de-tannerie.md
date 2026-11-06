@@ -31,7 +31,11 @@ Elle lui raconte qu’elle a pris le 4 à Marché, comme lors de l’essai avec 
 
 ## Décrire un lieu à partir de ce qu’on voit
 
-Un rendez-vous devient plus facile à retrouver quand le repère correspond à ce que les deux personnes peuvent voir et nommer. Ilyes pensait avoir donné un côté du bâtiment. Hélène découvre deux façades. En nommant la boîte de retour des livres, elle transforme un repère large en un endroit où Ilyes peut effectivement la rejoindre. Le problème vient en partie de l’information donnée avant le départ ; il ne disparaît pas parce que le trajet en bus s’est bien passé.
+Un rendez-vous devient plus facile à retrouver quand le repère correspond à ce que les deux personnes peuvent voir et nommer. Ilyes pensait avoir donné un côté du bâtiment.
+
+## Comment cette difficulté se manifeste
+
+Hélène découvre deux façades. En nommant la boîte de retour des livres, elle transforme un repère large en un endroit où Ilyes peut effectivement la rejoindre. Le problème vient en partie de l’information donnée avant le départ ; il ne disparaît pas parce que le trajet en bus s’est bien passé.
 
 L’OMS rappelle que les personnes avec un TDI peuvent continuer à acquérir des compétences et que leurs besoins varient selon le cadre. La HAS propose de travailler, selon les besoins de la personne, sur la manière de décrire où elle se trouve. Dans cette scène, Hélène utilise un repère qu’Ilyes n’avait pas prévu. Ils peuvent le garder pour un autre rendez-vous.
 
@@ -44,9 +48,3 @@ Au retour, Hélène peut choisir de refaire à pied la partie repérée, de dema
 ## La boîte a sa propre page
 
 Au dépôt, Hélène prend un autre papier et commence son dessin par la boîte à livres. Elle le glisse à part du plan de Verrerie, pour pouvoir changer de feuille sans reprendre les deux trajets à la fois. Elle choisit de revenir jusqu’à la boîte à pied et fixe avec Ilyes un créneau où il pourra répondre si elle l’appelle. À côté de la table de l’accueil, elle reconnaît la caisse des petits bols : le code figure côté mur. Elle demande à Ilyes de tourner l’étiquette vers l’allée avant que la caisse parte pour le magasin. Au rayon, cet après-midi, elle va justement vérifier de quel côté les gens lisent.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé, TDI : travail et vie active (volet 2)](https://www.has-sante.fr/upload/docs/application/pdf/2025-11/dir7/tdi_emploi_volet2.pdf)
-- [Haute Autorité de santé, accompagnement de la personne présentant un TDI : synthèse du volet 1](https://www.has-sante.fr/upload/docs/application/pdf/2022-09/tdi_synthese_rbpp_volet1.pdf)

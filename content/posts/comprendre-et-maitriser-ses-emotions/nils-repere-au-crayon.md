@@ -31,6 +31,8 @@ Nils trace une boîte autour du mot « terre » au milieu de la fiche. Si Maud l
 
 L’évolution de la schizophrénie varie d’une personne à l’autre et dans le temps. Une reprise d’activité peut coexister avec des difficultés qui restent présentes ou surviennent par moments. Quand Nils perd une réponse dans le studio, il peut constater ce qui l’a gêné et essayer une autre façon de travailler. L’équipe de secteur a déjà examiné le changement qu’il a remarqué vendredi. Le rendez-vous de lundi ne dispense pas de son suivi. De la même façon, un essai de micro qui accroche ne permet pas de juger de l’évolution clinique.
 
+## Comment cette difficulté se manifeste
+
 Nils a déjà repris le fil d’une consigne au rayon grâce à une note. La transposition au studio demande un choix de plus : il lui faut un mot qu’il trouve vite et une question dite à voix haute. Il veut pouvoir le tester avec la voix de Maud, puis l’adapter si l’antenne demande autre chose.
 
 ## Faire un essai sur le contenu et la durée
@@ -42,9 +44,3 @@ La place qu’il veut occuper donne une direction à leur travail, comme le NICE
 ## Le mot au bord du pli
 
 Maud fait repasser les deux prises. Dans la deuxième, il a répété « terre » sans s’en rendre compte. Nils lui dit de laisser la répétition dans le fichier de travail ; ils verront plus tard si elle gêne. Il replie la fiche en veillant à ce que la boîte reste visible. À côté du studio, une affichette annonce la permanence du jardin partagé du Clos des Mûriers, vendredi matin de la semaine suivante. Renée ouvre le jardin et répond aux questions sur les parcelles. Nils propose de passer la voir avec un micro, pour demander ce que les gens viennent chercher pendant la permanence. Il doit encore vérifier si l’heure tient avec son travail.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE, psychose et schizophrénie chez l’adulte (CG178)](https://www.nice.org.uk/guidance/cg178/chapter/recommendations)
-- [OMS, fiche d’information sur la schizophrénie](https://www.who.int/news-room/fact-sheets/detail/schizophrenia)

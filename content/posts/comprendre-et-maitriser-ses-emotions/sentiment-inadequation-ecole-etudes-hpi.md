@@ -11,6 +11,9 @@ personnage: "Mei"
 sujet: "inadéquation"
 contexte: "à l'école ou aux études"
 draft: false
+editorial_sources:
+- https://eduscol.education.gouv.fr/5415/ressources-pour-la-personnalisation-des-parcours-des-eleves-haut-potentiel
+- https://www.etudiant.gouv.fr/fr/violences-et-discriminations
 ---
 
 Dans l’atelier, Océane passe d’un tabouret à l’autre pour organiser la prochaine critique. Mei arrive au bout de la table au milieu d’une discussion sur une planche. Elle voit d’où vient le problème que les autres essaient de décrire. Un personnage paraît flotter parce que le bord du cadre coupe ses pieds avant qu’on puisse situer le sol. Mei cherche à quel moment le dire. Quelqu’un tourne déjà la page.
@@ -66,5 +69,3 @@ Se sentir en décalage peut être éprouvant. Mei distingue ce qu’elle sait fa
 Votre valeur ne dépend pas de votre capacité à vous fondre dans la masse, mais de votre courage à rester fidèle à votre propre rythme. Le monde des études est une étape, pas une destination finale. En cultivant votre singularité dès maintenant, vous vous préparez à construire une vie qui vous ressemble vraiment, loin des moules préformatés.
 
 Si ces difficultés persistent, le service de santé étudiante ou un psychologue peut vous aider à les examiner. En cas de discrimination, il existe aussi des dispositifs de signalement. Demander de l’aide n’exige pas de se reconnaître dans un profil.
-
-Sources : [Éduscol, personnalisation des parcours et diversité des besoins](https://eduscol.education.gouv.fr/5415/ressources-pour-la-personnalisation-des-parcours-des-eleves-haut-potentiel) ; [Étudiant.gouv, violences et discriminations](https://www.etudiant.gouv.fr/fr/violences-et-discriminations).

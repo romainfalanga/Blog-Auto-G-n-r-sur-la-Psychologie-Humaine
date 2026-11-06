@@ -33,6 +33,8 @@ Au milieu de la partie, une carte glisse au sol. Côme la ramasse en se demandan
 
 Le trouble du jeu vidéo se comprend à partir du retentissement de la pratique et de la difficulté à la modifier, pas de la valeur des amitiés nouées autour d’un jeu. Chez Côme, la table ouvre une possibilité de plus : retrouver des gens dont il connaît déjà les voix et les façons de choisir un chemin. Il veut aussi retourner un jeudi au moulin avec Sana et Florian. Une partie en ligne peut continuer à lui apporter ce qu’il aime, même s’il s’interroge sur le moment où elle commence et sur celui où il arrive à la quitter.
 
+## Comment cette difficulté se manifeste
+
 Au premier rendez-vous autour de la table, Côme remarque ce qui s’est passé quand Lucie a proposé une autre partie. Il avait envie de rester ; il a gardé une place pour son appel et le rangement. Le choix est lié à ce dimanche. Il ne dit pas ce que Côme pourra faire un autre soir ou au milieu d’une autre partie.
 
 ## Garder la possibilité de demander avant un rendez-vous manqué
@@ -44,9 +46,3 @@ Côme sait qui joindre s’il souhaite en parler avant la date convenue. Il peut
 ## La dernière case sur la photo
 
 Avant de ranger, Côme envoie à Sana la photo du pion arrivé près d’un pont. Elle lui répond avec trois flèches pour lui montrer une autre sortie qu’ils auraient pu prendre. Il sourit et lui demande si elle serait libre un prochain jeudi. Sur son calendrier, il retrouve la date de sa consultation et la laisse en place. Puis il passe un chiffon là où le sac de brioches a laissé quelques miettes. Il s’arrête près du bord. La prochaine fois, il demandera à Lucie où elle pose ses poignets avant de dessiner le rebord. Il sort de l’atelier avec une photo à montrer à sa sœur et l’appelle en allant vers l’arrêt du bus.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Trouble du jeu vidéo : questions et réponses](https://www.who.int/fr/news-room/questions-and-answers/item/gaming-disorder)
-- [CHU de Nantes, Addictologie : consultations spécialisées](https://www.chu-nantes.fr/venir-en-consultation-45)

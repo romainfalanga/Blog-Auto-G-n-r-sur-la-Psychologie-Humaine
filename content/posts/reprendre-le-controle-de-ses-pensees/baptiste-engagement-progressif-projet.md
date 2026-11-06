@@ -1,5 +1,5 @@
 ---
-title: "Baptiste : s’engager progressivement dans un projet"
+title: S’engager progressivement dans un projet
 date: 2026-11-03T11:30:00+00:00
 description: "Une proposition de parcours photographique attire Baptiste. Il cherche un premier engagement concret sans promettre tout le projet d’avance."
 categories: ["Reprendre le contrôle de ses pensées"]
@@ -74,7 +74,3 @@ S’engager progressivement peut permettre de connaître un projet en participan
 La disponibilité, les compétences et les appuis actuels comptent autant que l’intérêt. Ils ne doivent pas être traités comme des limites personnelles qu’une motivation suffisante ferait disparaître. Vous pouvez apprendre qu’un projet vous plaît et garder un rôle léger, ou découvrir qu’il ne correspond pas à vos préférences. Tenir la contribution acceptée et choisir ensuite une autre place peuvent faire partie du même engagement respectueux.
 
 Si commencer devient régulièrement très difficile, si vos projets alternent entre promesses excessives et retrait, ou si la charge vous inquiète, un psychologue, un médecin ou un professionnel adapté peut vous aider à examiner ce qui se passe. Les conditions concrètes et les attentes du collectif méritent également d’être regardées. L’objectif peut être de retrouver des essais compatibles avec votre vie, sans transformer tout intérêt en obligation ni toute hésitation en manque de volonté.
-
-Sources :
-- [CCI, Procrastination](https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Procrastination)
-- [NHS, Problem solving](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)

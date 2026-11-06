@@ -34,6 +34,8 @@ Gasparde s’attend à être désignée quand elle entend parler des inscription
 
 Pouvoir regarder avant de s’engager peut rendre une première visite plus abordable. Dounia connaît déjà les conditions d’un créneau de réservation. Elle imagine une première visite différente pour sa voisine ou pour elle-même quand son amie ne peut pas venir. Regarder, jouer un moment et repartir sont trois possibilités qu’elle souhaite pouvoir choisir sur place.
 
+## Comment cette difficulté se manifeste
+
 Gasparde entend d’abord la remarque comme un jugement sur sa façon d’accueillir. Puis elle écoute la suite et retrouve une question qui lui importe depuis longtemps. Les compétences de Gasparde et les effets du trouble délirant s’inscrivent dans des aspects différents de sa vie. Son attention à une personne derrière un portail n’a pas à passer au second plan dans le récit de ses inquiétudes.
 
 ## Essayer une invitation à petite échelle
@@ -45,8 +47,3 @@ Dounia donne un avis parce qu’elle a rencontré le problème de l’entrée. E
 ## Une heure et un portail
 
 Sur une feuille qu’elle fixe au registre, Gasparde écrit « Premier accueil samedi, 10 h 30 ». Elle ajoute « Venez voir ou échanger quelques balles » et indique le portail côté rue. Dounia demande une photo de la feuille pour la montrer à un collègue, Levent. Gasparde reprend le téléphone du club pour vérifier le message envoyé à Basile après le café du dimanche. Il a accepté de consulter les appels pendant le double de seize heures. Elle montre à Dounia où son invitation apparaîtra dehors, avant de lui demander ce qu’elle a pensé de son premier service. Dounia se met à rire. La balle a touché le seul poteau qu’elle voulait éviter.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Guide d’intervention mhGAP, version 2.0 : principes de soins et suivi des psychoses](https://www.who.int/publications/i/item/9789241549790)

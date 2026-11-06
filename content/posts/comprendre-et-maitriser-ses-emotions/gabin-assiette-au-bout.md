@@ -32,7 +32,11 @@ Il reste une échéance à reprendre avec la conseillère. Nora et lui ont conve
 
 ## Réévaluer les protections à mesure que la vie reprend
 
-Un suivi du trouble lié aux jeux d’argent peut évoluer avec les besoins et les préférences de la personne. Le NICE recommande de maintenir l’accès à un accompagnement selon la situation et de discuter du soutien pour les difficultés qui persistent. Gabin souhaite garder le contact clinique et revenir sur les circonstances où l’envie de rattrapage se présente. Il peut indiquer quelles mesures il utilise, celles qu’il voudrait revoir et les horaires où il lui est difficile de joindre le service. Le conseil budgétaire reste un autre rendez-vous qu’il a choisi. La réussite de ce repas et l’état de ses comptes sont deux éléments différents de sa semaine.
+Un suivi du trouble lié aux jeux d’argent peut évoluer avec les besoins et les préférences de la personne. Le NICE recommande de maintenir l’accès à un accompagnement selon la situation et de discuter du soutien pour les difficultés qui persistent.
+
+## Comment cette difficulté se manifeste
+
+Gabin souhaite garder le contact clinique et revenir sur les circonstances où l’envie de rattrapage se présente. Il peut indiquer quelles mesures il utilise, celles qu’il voudrait revoir et les horaires où il lui est difficile de joindre le service. Le conseil budgétaire reste un autre rendez-vous qu’il a choisi. La réussite de ce repas et l’état de ses comptes sont deux éléments différents de sa semaine.
 
 ## Protéger les liens et répartir les responsabilités
 
@@ -43,8 +47,3 @@ Dans l’association, Gabin peut proposer un entretien des chaises qui tienne da
 ## Gabin tire une chaise
 
 Ils conviennent que les meubles prêtés repartiront ce soir et que l’association décidera du rangement des quatre autres. Gabin note le nom de la personne qui a la clé du local. Il voit ensuite Nora couper deux parts de tarte. Elle lui demande s’il préfère le bord. Il répond oui et tire la chaise qu’il avait avancée en arrivant. À l’autre bout de la table, quelqu’un vient de poser un plat. Gabin fait circuler le sien.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG248, repérage et accompagnement des dommages liés aux jeux d’argent](https://www.nice.org.uk/guidance/ng248/chapter/recommendations)

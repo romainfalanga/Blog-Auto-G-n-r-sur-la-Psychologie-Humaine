@@ -92,5 +92,3 @@ Se parler avec bienveillance après une interaction difficile n’efface ni les 
 Décrire le fait, choisir une phrase respectueuse et accomplir une action proportionnée peuvent soutenir cette distinction. Vous pouvez regretter une erreur sans vous réduire à elle. Vous pouvez également examiner le comportement de l’autre et refuser une humiliation, même lorsqu’une critique précise est justifiée.
 
 Si l’autocritique devient envahissante ou persiste longtemps après les échanges, une psychologue ou un autre professionnel peut aider à explorer ces moments et leurs contextes. L’objectif n’est pas de vous rendre indifférente aux autres, mais de retrouver une manière plus juste de prendre votre part. Votre dignité ne doit pas être mise en attente jusqu’à la prochaine interaction réussie.
-
-Sources : [Breines et Chen, compassion envers soi et motivation à s’améliorer, 2012](https://pubmed.ncbi.nlm.nih.gov/22645164/).

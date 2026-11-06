@@ -90,5 +90,3 @@ L'orientation gagne en clarté lorsque les valeurs se relient à des situations,
 Vous pouvez partir d'une expérience qui vous importe, puis demander quelle qualité d'activité ou de relation vous souhaitez préserver. Les conditions matérielles ont leur place dans cette réflexion. Un prochain choix peut être une recherche d'information ou un essai encadré, avec le droit de revoir la piste à mesure que vous découvrez le contexte.
 
 Si l'orientation devient une source de détresse persistante ou si vous vous sentez enfermé dans des choix impossibles, un professionnel de l'accompagnement peut vous aider à clarifier les options et les appuis disponibles. Un psychologue peut également soutenir la réflexion lorsqu'elle touche profondément le jugement sur soi. Vous n'avez pas à résoudre seul tout votre avenir pour faire une prochaine démarche utile.
-
-Sources : [Shalom Schwartz, contenu et structure des valeurs](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260108602816) ; [Lent, Brown et Hackett, intérêts, choix professionnels et contexte](https://doi.org/10.1006/jvbe.1994.1027).

@@ -32,6 +32,8 @@ Célestin cherche la prise qui permet de brancher une deuxième enceinte. Solèn
 
 Une expérience auditive inhabituelle peut être très nette pour la personne qui l’entend, même quand quelqu’un d’autre ne la perçoit pas. Célestin peut décrire son écoute du passage. Il ne sait pas ce que Solène a entendu ni pourquoi. Sa réponse donne un renseignement sur l’essai, pas une réponse sur sa santé.
 
+## Comment cette difficulté se manifeste
+
 Solène vit avec un trouble schizoaffectif déjà diagnostiqué. Dans la CIM-11 de l’OMS, c’est la relation entre des symptômes psychotiques et un épisode de l’humeur, étudiés ensemble sur la durée, qui compte dans l’évaluation. Une voix à un instant précis ne suffit pas à définir un épisode. Solène peut parler de ce moment à sa psychiatre et expliquer en quoi il la gêne, y compris si elle ne trouve pas d’autre façon de le décrire. Le nom du trouble lui donne ici un contexte pour solliciter son suivi. Il ne décide pas à sa place de ce qui doit ouvrir la séance.
 
 ## Mettre un repère dans le film et laisser l’écoute s’arrêter
@@ -43,9 +45,3 @@ Les conseils de communication de NSW Health invitent à écouter une personne qu
 ## La chaise reste en tête de pile
 
 Célestin note le minutage sur sa feuille de vérification. Solène sort prendre l’air et relit le créneau d’essai du lendemain sur son calendrier : elle avait prévu les sous-titres de Trois minutes de pluie, assez serrés quand deux personnages parlent. Sur la fiche des Mains du jour, elle écrit « commencer par la chaise ? » et laisse le point d’interrogation. Dans le carnet qu’elle emporte à ses rendez-vous, elle note l’heure approximative et ce qu’elle a entendu. Le trait de son stylo traverse les deux pages, parce qu’elle a écrit dans le pli.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NSW Health, communiquer avec une personne qui traverse une psychose](https://www.health.nsw.gov.au/mentalhealth/psychosocial/strategies/Pages/communicating-psychosis.aspx)
-- [OMS, Guide d’intervention mhGAP, version 2.0](https://www.who.int/publications/i/item/9789241549790)

@@ -32,7 +32,11 @@ Diane écrit « Désolée pour tout », puis laisse le curseur clignoter. Maud s
 
 Diane a vécu des moments où des paroles ordinaires semblaient la désigner personnellement. Maintenant, elle comprend le message qu’elle reçoit et redoute les questions qui suivraient une réponse. Le vécu de la crise et la peur des réactions d’autrui ont ici des effets distincts. Son suivi lui donne un lieu où en parler, tandis qu’elle décide de ce qu’elle veut confier à Maud.
 
-Après un séjour à l’hôpital, des gestes familiers peuvent coexister avec une forte appréhension du retour. Diane retrouve l’ordre de sa cuisine et sait qu’elle a toujours envie de revoir ses pièces. Elle hésite devant ce qu’une réponse semble engager : expliquer son absence, supporter les questions, annoncer un retour dont elle ignore encore la date. Son rendez-vous de suivi dans deux jours sert à reprendre avec l’équipe ce qui s’est passé et ce qu’elle vit depuis. Maud a, elle, besoin de savoir si Diane souhaite qu’on lui garde ses pièces. Ce sont deux conversations différentes. Diane peut commencer l’une sans devoir mener l’autre le même soir.
+Après un séjour à l’hôpital, des gestes familiers peuvent coexister avec une forte appréhension du retour.
+
+## Comment cette difficulté se manifeste
+
+Diane retrouve l’ordre de sa cuisine et sait qu’elle a toujours envie de revoir ses pièces. Elle hésite devant ce qu’une réponse semble engager : expliquer son absence, supporter les questions, annoncer un retour dont elle ignore encore la date. Son rendez-vous de suivi dans deux jours sert à reprendre avec l’équipe ce qui s’est passé et ce qu’elle vit depuis. Maud a, elle, besoin de savoir si Diane souhaite qu’on lui garde ses pièces. Ce sont deux conversations différentes. Diane peut commencer l’une sans devoir mener l’autre le même soir.
 
 ## Répondre à la question que Maud a posée
 
@@ -41,8 +45,3 @@ Diane pose sa tasse sur le dessous en liège pour libérer ses deux mains. Elle 
 ## Deux pièces sur la planche du haut
 
 Diane efface « Désolée pour tout ». Elle écrit : « J’aimerais revoir les deux. Tu peux les garder ensemble quelques jours ? Je te dirai quand je peux passer. » Elle attend que le petit signe confirme l’envoi avant de poser le téléphone. Maud lui répond pendant que Rémi cherche la boîte à biscuits : « Oui. On trouvera un moment avant un cours. » Diane coupe le son et montre à son cousin le placard du milieu. Il a acheté les biscuits dont elle enlève le sucre du bout du doigt. Elle en prend deux et lui demande s’il a envie d’en garder pour le trajet.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG178, évaluation et accompagnement après un premier épisode psychotique chez l’adulte](https://www.nice.org.uk/guidance/cg178/evidence/full-guideline-pdf-490503565)

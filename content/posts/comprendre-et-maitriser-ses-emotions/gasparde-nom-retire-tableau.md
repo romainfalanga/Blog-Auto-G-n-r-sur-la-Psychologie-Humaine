@@ -32,6 +32,8 @@ Une femme arrive avec une raquette à la main. Elle s’appelle Dounia et a lais
 
 Une conviction inquiétante peut donner le sentiment que des événements ordinaires s’adressent personnellement à soi. Chez Gasparde, l’espace blanc fait surgir l’idée qu’on s’organise pour l’écarter. Elle l’éprouve avec une force qui dépasse la simple question du tableau. Cette peur s’inscrit dans une histoire plus longue dont elle parle en consultation. Son équipe lui a expliqué le diagnostic de trouble délirant avant le début du récit.
 
+## Comment cette difficulté se manifeste
+
 Dans ce trouble, les convictions persistantes peuvent concerner des intentions hostiles que la personne attribue à son entourage. Leur contenu et leur retentissement varient. La disparition du nom sur l’affiche est observable. Ce qu’elle signifie pour les autres membres du club reste à préciser. Une évaluation clinique se fait à partir d’une histoire et d’un ensemble d’éléments, y compris les conflits ou les injustices effectivement vécus.
 
 ## Faire une place à la question vérifiable
@@ -43,8 +45,3 @@ Si Basile entend surtout qu’elle a peur de perdre sa place, il peut s’arrêt
 ## Le message à Basile
 
 Elle a envoyé deux phrases. « Qui a mis la feuille sous le plastique ? Je voudrais qu’on regarde comment les gens trouvent le bon contact. » Basile lui répond depuis son travail. Il propose d’apporter les deux versions samedi matin. Gasparde fixe l’heure. Avant de partir, elle ajoute dans son carnet le rappel qu’elle vient de faire à Dounia. Dix-huit heures, mardi. Elle retient la porte derrière les deux joueurs qui sortent. L’un d’eux la remercie. Elle sent qu’elle pourrait chercher longtemps ce que son ton voulait dire. Elle descend la rue jusqu’au rond-point en pensant au double que Brigitte lui a proposé.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NSW Health, communiquer avec une personne qui vit une expérience psychotique](https://www.health.nsw.gov.au/mentalhealth/psychosocial/strategies/Pages/communicating-psychosis.aspx)

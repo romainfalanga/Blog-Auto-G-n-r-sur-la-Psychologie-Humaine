@@ -96,5 +96,3 @@ Sécurité et adaptation au contexte demandent de regarder les faits et les ress
 Un inventaire bref, des appuis identifiés et un engagement révisable peuvent rendre certaines situations plus praticables. Vous pouvez parler, modifier votre présence ou partir selon vos moyens. Une adaptation temporaire ne retire rien à la légitimité de votre manière de vous définir, et vous n’avez pas à devenir la personne qui éduque tout le monde pour préserver votre place.
 
 Si ces contextes se répètent ou laissent une détresse persistante, une psychologue ou un autre professionnel peut aider à examiner les effets et les possibilités de soutien. Les responsables des lieux et des organisations ont aussi une part à prendre. L’accompagnement ne doit pas vous imposer de rester exposée pour démontrer une confiance suffisante.
-
-Sources : [Étude qualitative sur la stigmatisation et les ressources organisationnelles au travail, 2025](https://pubmed.ncbi.nlm.nih.gov/40386695/) ; [Goldenthal, Johnston et Kraut, études de terrain sur le sourire après un faux pas social, 1981](https://doi.org/10.1016/0162-3095(81)90025-X).

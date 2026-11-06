@@ -30,7 +30,11 @@ Derrière la vitre, Sofia déplace une pile de chaises. Il y a longtemps, Inaya 
 
 ## Distinguer l’aide demandée et les informations qui la rendent possible
 
-Pour mettre en place un soutien, les personnes autour d’Inaya n’ont pas toutes besoin des mêmes informations. Sa psychiatre a besoin de savoir comment les difficultés évoluent. Myriam, à qui Inaya confie une partie de son vécu, peut demander ce qu’elle doit savoir pour tenir un relais convenu. Sofia, elle, peut réserver une salle à partir du nombre de chaises et de la durée de l’atelier. Aucun de ces interlocuteurs n’a à recevoir par défaut ce qui a été dit à un autre.
+Pour mettre en place un soutien, les personnes autour d’Inaya n’ont pas toutes besoin des mêmes informations. Sa psychiatre a besoin de savoir comment les difficultés évoluent.
+
+## Comment cette difficulté se manifeste
+
+Myriam, à qui Inaya confie une partie de son vécu, peut demander ce qu’elle doit savoir pour tenir un relais convenu. Sofia, elle, peut réserver une salle à partir du nombre de chaises et de la durée de l’atelier. Aucun de ces interlocuteurs n’a à recevoir par défaut ce qui a été dit à un autre.
 
 La HAS prévoit d’associer l’entourage au suivi si cela a du sens et avec l’accord de la personne. Dans la scène, Myriam est aussi coorganisatrice : elle peut expliquer ses propres contraintes sans expliquer la santé de sa sœur. Inaya peut accepter son aide et choisir qui saura quoi, à quel moment et pour quelle raison.
 
@@ -43,9 +47,3 @@ Ce choix de réserve sur un panneau public ne lui interdit pas de parler ouverte
 ## Le message qui part
 
 Le texte envoyé compte trois lignes. Sofia leur répond qu’elle peut leur laisser la salle un jeudi pendant une heure, rangement compris. Inaya montre l’écran à Myriam et elles dessinent sur le verso du brouillon une table et six chaises. Elles n’en occuperont que trois pour l’essai. Myriam garde la charge de répondre à Sofia au sujet du mobilier. Inaya garde celle de choisir les tiges à faire manipuler. En rentrant, elle replie le premier brouillon dans sa poche et le met au recyclage avec le ticket de bus.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, épisode dépressif caractérisé chez l’adulte](https://www.has-sante.fr/jcms/c_1739917/fr/episode-depressif-caracterise-de-l-adulte-prise-en-charge-en-premier-recours)
-- [NICE NG222, dépression de l’adulte](https://www.nice.org.uk/guidance/NG222/chapter/recommendations)

@@ -1,5 +1,5 @@
 ---
-title: "Odile : de la joie et du chagrin dans la même journée"
+title: De la joie et du chagrin dans la même journée
 date: 2026-11-03T09:40:00+00:00
 description: "Odile rit pendant une lecture publique, puis sa sœur lui manque. Ces émotions peuvent-elles coexister sans qu’elle ait à choisir la plus vraie ?"
 categories: ["Comprendre et maîtriser ses émotions"]
@@ -74,8 +74,3 @@ La joie et le chagrin peuvent concerner des aspects différents d’une même jo
 Le plaisir ne mesure pas l’oubli, pas plus que la souffrance visible ne mesure à elle seule l’attachement. Examiner une règle intérieure peut aider lorsqu’un moment agréable devient automatiquement une faute. Une présence attentive peut aussi offrir un cadre où vous n’avez pas à rester dans une seule humeur. Les activités restent des possibilités choisies, avec le droit de faire une pause ou de changer de programme.
 
 Si la culpabilité, la perte d’intérêt ou la douleur vous inquiètent et pèsent durablement sur votre quotidien, un médecin, un psychologue ou un professionnel du deuil peut vous accompagner. Il n’est pas nécessaire de demander de l’aide uniquement dans les moments les plus difficiles. Le soutien peut vous permettre de faire une place à l’ensemble de votre expérience, sans obligation d’être triste pour rester fidèle ni heureux pour rassurer les autres.
-
-Sources :
-- [NHS, Grief after bereavement or loss](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)
-- [OMS, Doing What Matters in Times of Stress](https://www.who.int/publications/i/item/9789240003927)
-- [Larsen et McGraw, étude des émotions mêlées](https://pubmed.ncbi.nlm.nih.gov/21219075/)

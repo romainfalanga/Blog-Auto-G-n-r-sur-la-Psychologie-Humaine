@@ -98,5 +98,3 @@ Poser une limite sans retirer son affection demande de distinguer une décision,
 Pour Aline, le lien devient plus lisible quand elle cesse de deviner les accusations et de fournir des garanties sans fin. Elle découvre qu’une soirée seule peut coexister avec des projets communs. Les maladresses continuent, mais elles peuvent être nommées sans transformer chaque désaccord en jugement sur tout le couple.
 
 Si les échanges deviennent durablement douloureux et que chacun peut parler librement, un psychologue peut aider à examiner la communication. En présence de menaces, de peur ou de contrôle imposé, cherchez d’abord un soutien confidentiel et spécialisé. Ne vous sentez pas tenu d’en parler en présence de la personne qui vous met en danger. Le droit d’exprimer un besoin ne dépend pas de la capacité à le formuler parfaitement.
-
-Sources : [Deci et Ryan, besoins psychologiques et autonomie](https://doi.org/10.1207/S15327965PLI1104_01) ; [Arrêtons les violences, repères sur le contrôle et aide spécialisée](https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-au-sein-du-couple).

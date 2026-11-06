@@ -32,6 +32,8 @@ Zélie lui demande combien de vélos sont encore en attente. Mathis lit les fich
 
 Le premier samedi, Mathis a dû choisir à plusieurs reprises entre répondre à une personne qui se présente et rester sur ce qu’il a engagé. L’organisation décidée à l’atelier lui donne des repères en dehors de sa mémoire. Les fiches disent ce qui est déjà pris en charge. L’heure de fin dit à partir de quand il faut garder du temps pour terminer et rendre le matériel. Zélie s’appuie sur les mêmes informations.
 
+## Comment cette difficulté se manifeste
+
 Une adaptation prend son sens dans un environnement particulier. Le NICE recommande d’examiner son effet sur la vie courante. Dans ce cas, la limite protège à la fois le temps de vérification et la possibilité de prendre une pause. Mathis remarque qu’au moment où une personne lui décrit un besoin, il a tendance à dire oui avant de regarder la file. Il peut revenir à l’ardoise et à ce qu’il a convenu avec l’équipe. La responsabilité des vélos déjà engagés et du rangement appartient à toute la permanence.
 
 ## Donner une réponse utile à la personne qui arrive tard
@@ -43,8 +45,3 @@ Après la fermeture, Mathis et Zélie regardent où les demandes se sont accumul
 ## Du temps pour les vélos déjà confiés
 
 Mathis retourne l’ardoise. La femme le remercie pour l’adresse et quitte la place en poussant le vélo. À l’heure de rendre le dernier, Zélie retrouve le nom sur la fiche et appelle la personne qui attend. Ils rangent la table avec cinq minutes de retard sur l’heure qu’ils avaient prévue. Mathis écrit ce chiffre au bas de la feuille. Au dos, il note aussi que le garçon a montré à sa mère où lire la taille d’un pneu. C’est la première chose qu’il raconte à Simon le soir. Il parlera des demandes refusées quand ils auront posé les courses sur la nouvelle table.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG87, évaluation et accompagnement du TDAH](https://www.nice.org.uk/guidance/ng87/chapter/recommendations)

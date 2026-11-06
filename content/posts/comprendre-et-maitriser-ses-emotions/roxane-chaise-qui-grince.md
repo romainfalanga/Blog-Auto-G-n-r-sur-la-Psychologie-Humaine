@@ -33,6 +33,8 @@ Roxane descend de sa petite marche et vient s’asseoir près d’elle. La place
 
 Une parole peut être audible sans être comprise en entier. Salomé entend une voix qui lui parvient de l’autre bout de la salle. Entre l’écho, la distance, l’absence d’indices visuels et les mots qu’elle n’a pas distingués, elle ne peut pas deviner à quoi tient chaque partie manquante. Le trouble de Roxane peut rendre certains sons difficiles à reconnaître. Le micro et la disposition des chaises jouent sur ce que Salomé peut entendre et voir ; ils ne changent pas à eux seuls la production des sons.
 
+## Comment cette difficulté se manifeste
+
 Mme Sorel et Salomé déplacent le panneau et essaient une place où Roxane n’a pas besoin de se dresser. Elles règlent le micro et vérifient avec elle le résultat depuis les chaises rapprochées. Après l’essai, Roxane veut que l’on garde aussi le carton du deuxième indice. Ce que Salomé comprend dans une salle vide pourra lui échapper quand la salle sera occupée.
 
 ## Se donner un signal qu’on peut voir
@@ -44,9 +46,3 @@ L’accord permet à chacune de savoir quoi attendre sans ajouter une explicatio
 ## Face orange contre la table
 
 Pour le dernier essai, Roxane se place devant le panneau, dans l’espace que Mme Sorel a dégagé. Elle dit le début du deuxième indice, regarde si Salomé attend encore, puis retourne le galet pour essayer le relais jusqu’au bout. Zoé prend la phrase. Une fois le carton posé, Roxane révèle elle-même le dessin. Elles remettent les chaises à leur place pour le club de lecture. Salomé dessine leur arc sur son plan du samedi. Roxane garde le galet dans la poche du panneau, côté orange contre le carton.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal — Speech Sound Disorders: Articulation and Phonology](https://www.asha.org/practice-portal/clinical-topics/articulation-and-phonology/)
-- [Haute Autorité de santé — Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages ? (2017)](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)

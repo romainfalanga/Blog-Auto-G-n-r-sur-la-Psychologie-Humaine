@@ -32,7 +32,11 @@ Sur la feuille, la dernière aiguille est intacte. Il s’en sert pour montrer l
 
 ## Le même propos dans deux situations
 
-Le bégaiement peut varier selon le moment, l’interlocuteur et la pression ressentie pour parler. Un titre dit facilement à une personne peut prendre davantage de temps devant un groupe ou sous un regard pressé. Ce changement n’est pas une preuve de désinvolture, ni la preuve qu’il suffirait de se détendre pour parler autrement. Le guide de l’OMS décrit cette variation selon les situations ; l’ASHA souligne aussi que ce que les autres entendent ne dit pas combien la communication coûte à la personne. Pour Owen, les huit minutes ont deux effets : elles limitent ce qu’il peut exposer et elles font peser sur son silence une interprétation. M. Vasseur croit qu’il manque une décision alors qu’Owen est en train de défendre une proposition.
+Le bégaiement peut varier selon le moment, l’interlocuteur et la pression ressentie pour parler. Un titre dit facilement à une personne peut prendre davantage de temps devant un groupe ou sous un regard pressé. Ce changement n’est pas une preuve de désinvolture, ni la preuve qu’il suffirait de se détendre pour parler autrement. Le guide de l’OMS décrit cette variation selon les situations ; l’ASHA souligne aussi que ce que les autres entendent ne dit pas combien la communication coûte à la personne.
+
+## Comment cette difficulté se manifeste
+
+Pour Owen, les huit minutes ont deux effets : elles limitent ce qu’il peut exposer et elles font peser sur son silence une interprétation. M. Vasseur croit qu’il manque une décision alors qu’Owen est en train de défendre une proposition.
 
 ## Une réservation, puis les questions
 
@@ -41,9 +45,3 @@ Le professeur a besoin d’un horaire et d’un projet de tournage assez clair p
 ## Mercredi au crayon
 
 M. Vasseur met un point d’interrogation à côté du préau sur la ligne du mercredi. Il peut garder le créneau jusqu’au lendemain à midi, pas davantage : un autre club le lui a demandé. Il propose dix minutes à la pause pour le projet. Owen déplie la feuille tout entière. « Je refais ça en trois morceaux. Vous attendez que j’aie posé le troisième pour les questions ? » Le professeur note la demande à côté de l’horaire. Dans l’escalier, Nassim veut savoir s’il doit apporter un micro. Owen lui demande plutôt une paire de ciseaux.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal, bégaiement, bredouillement et fluence de la parole](https://www.asha.org/practice-portal/clinical-topics/fluency-disorders/)
-- [NIDCD (NIH), qu’est-ce que le bégaiement ?](https://www.nidcd.nih.gov/health/stuttering)

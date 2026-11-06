@@ -33,7 +33,11 @@ Sur chaque version, elle veut le mot « Tasses » et une flèche. Le premier ess
 
 Un support sert quand il donne accès à l’information dont la personne a besoin pour agir. L’étiquette du papier et le nom affiché par l’imprimante ne se correspondent pas à première vue. Pour Hélène, découvrir ce lien alors qu’il ne reste qu’une demi-heure rend la tâche plus difficile. Son besoin d’aide concerne cette étape : retrouver la ligne et pouvoir s’en servir ensuite.
 
-La HAS invite à examiner, lorsqu’une difficulté apparaît, le matériel, la consigne et les conditions de réalisation. Montrer la bonne ligne donne ici une information vérifiable que Hélène peut réutiliser. Elle sait déjà comment disposer le texte et le dessin sur la page. L’OMS décrit des profils et des besoins de soutien variables dans le TDI ; une étape qui demande un appui ne renseigne pas, à elle seule, sur l’ensemble du travail de la personne.
+La HAS invite à examiner, lorsqu’une difficulté apparaît, le matériel, la consigne et les conditions de réalisation.
+
+## Comment cette difficulté se manifeste
+
+Montrer la bonne ligne donne ici une information vérifiable que Hélène peut réutiliser. Elle sait déjà comment disposer le texte et le dessin sur la page. L’OMS décrit des profils et des besoins de soutien variables dans le TDI ; une étape qui demande un appui ne renseigne pas, à elle seule, sur l’ensemble du travail de la personne.
 
 ## Décider ce que le test peut apprendre
 
@@ -44,9 +48,3 @@ Pour respecter la disponibilité annoncée par Dario, Hélène propose deux peti
 ## Le rouleau reste près du dessin
 
 Hélène écrit au dos des panneaux le jour prévu et le nom de chaque version. Elle met la photo au-dessus, sous un carton, pour éviter qu’elle ne se courbe. Le dessin reste sur l’établi à côté du rouleau de ruban. En passant à la caisse, elle demande à Dario de lui dire s’il ne peut plus observer samedi. Elle peut voir où regarder depuis le bout de l’allée. Avant de rentrer, elle photographie l’autre côté de la tasse, parce qu’elle se demande encore si l’éclair a pris toute la place.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé, accompagnement de la personne présentant un TDI : synthèse du volet 1](https://www.has-sante.fr/upload/docs/application/pdf/2022-09/tdi_synthese_rbpp_volet1.pdf)
-- [Haute Autorité de santé, TDI : travail et vie active (volet 2)](https://www.has-sante.fr/upload/docs/application/pdf/2025-11/dir7/tdi_emploi_volet2.pdf)

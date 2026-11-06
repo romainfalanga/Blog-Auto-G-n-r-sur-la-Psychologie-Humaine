@@ -33,6 +33,8 @@ Eva replie le programme de l’atelier de percussions. Il lui reste deux inscrip
 
 Les inquiétudes persistantes peuvent conduire à redemander comment interpréter une réponse qui laisse des choses ouvertes. Il arrive qu’une personne cherche à savoir si un autre la juge ou si une difficulté est aussi grave qu’elle le craint. Antonin connaît les mots écrits par la direction. Il voudrait aussi être certain du jugement qu’ils laissent présager. Eva peut dire ce qu’elle a compris, avec les limites de ce qu’elle sait. Son avis peut lui faire du bien un moment alors que le point de jeudi reste à venir.
 
+## Comment cette difficulté se manifeste
+
 Dans cette scène, Antonin revient au message comme il a pu revenir à une dépense ou à une inquiétude pour son frère. Le médecin examine l’ensemble de ces préoccupations. Le médecin peut lui demander ce qu’il attendait de la deuxième lecture et ce qui s’est passé ensuite. Eva peut garder sa place de collègue et répondre lorsqu’une information nouvelle est nécessaire à l’organisation.
 
 ## Proposer de l’écoute ou chercher une information
@@ -44,8 +46,3 @@ Une collègue peut entendre une inquiétude et poursuivre son travail après un 
 ## Le nom à ajouter à l’invitation
 
 Antonin demande à la direction qui doit assister au point. La responsable lui répond qu’elle attend aussi la personne qui suit la pose. Antonin lui transfère l’invitation, puis reprend le programme des percussions qu’Eva avait posé devant lui. L’atelier termine plus tôt jeudi. Il peut préparer la dernière salle sans y passer la soirée. Sur son téléphone, Benoît lui a envoyé l’heure du tournoi de billard par équipes. Il attend encore de savoir s’ils s’inscrivent.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

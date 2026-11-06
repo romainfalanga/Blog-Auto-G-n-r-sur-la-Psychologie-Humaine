@@ -34,6 +34,8 @@ Il trouve le ton inutilement ferme. Pendant quelques secondes, il envisage d’a
 
 La préférence pour un horaire différent peut être facile à expliquer. Dans cette scène, Renaud traite son retard comme une information à laquelle tout le groupe devrait s’adapter. Il suppose que sa présence et son annonce justifient l’exception. Une attente disproportionnée de traitement favorable peut faire partie des difficultés du trouble de la personnalité narcissique quand elle se répète et pèse sur les relations.
 
+## Comment cette difficulté se manifeste
+
 Le sentiment d’être mal accueilli surgit pour lui avant qu’il entende la raison d’Édith. La contrainte de Sophie reste la même quel que soit le prestige du projet dont il veut parler. Le point de vue d’Édith compte également. Elle organise son anniversaire et peut choisir de passer du temps avec plusieurs personnes. Renaud peut éprouver sa déception tout en reconnaissant ces éléments.
 
 ## Choisir ce qui dépend de soi
@@ -45,8 +47,3 @@ Dans une relation où ce genre de demande se répète, un accord explicite aide 
 ## La chaise au bout de la table
 
 La table est presque pleine quand il arrive. Édith a laissé une chaise au bout, à côté de Malik. Renaud dépose la boîte dans la cuisine et revient sans commencer son annonce. Sophie raconte qu’elle a changé de poste et son train part bientôt. Il lui demande à quelle gare elle descend. Quand elle s’en va, Édith lui propose de l’aider à porter deux cartons chez leur tante dimanche prochain. Elle veut y être à quinze heures. Il regarde l’horaire avant de dire oui.
-
-## Sources
-
-- [American Psychiatric Association, présentation du trouble de la personnalité narcissique selon le DSM-5-TR](https://www.psychiatry.org/news-room/apa-blogs/what-is-narcissistic-personality-disorder/)
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)

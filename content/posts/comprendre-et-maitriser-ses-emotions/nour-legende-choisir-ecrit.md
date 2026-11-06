@@ -31,6 +31,8 @@ Elle tape sa question dans le document commun, puis ajoute « L’hirondelle tra
 
 Le mode de communication qui convient à une personne peut varier selon le lieu et le moment. Nour utilise la parole et l’écrit. Dans la salle des retours, elle choisit le document partagé pour faire apparaître une question qui lui échappe entre deux changements de sujet. Le texte garde sa précision et son humour. Ses collègues peuvent relire le nom des rues avant de lui répondre.
 
+## Comment cette difficulté se manifeste
+
 Nour se dit autiste. Son diagnostic est connu depuis plusieurs années. L’autisme, classé parmi les troubles du neurodéveloppement dans la CIM-11 sous le code 6A02, peut concerner la communication et les interactions, la manière de composer avec les changements et les expériences sensorielles. Les profils et les besoins diffèrent largement. La façon dont Nour contribue à cette réunion raconte ce qu’elle fait de l’écrit dans une situation précise. D’autres personnes préfèrent d’autres formats, parfois au sein d’une même journée.
 
 ## Faire une place à la question écrite
@@ -42,8 +44,3 @@ Le NICE, dans ses recommandations britanniques pour l’accompagnement des adult
 ## Deux adresses au dos d’une photo
 
 En sortant, Nour garde les deux noms de rue sur une feuille séparée. Dans l’entrée de son immeuble, Fatou, sa voisine, remonte avec un sac de courses et lui demande ce qu’elle relit. Nour lui parle de l’hirondelle. Fatou travaille comme médiatrice culturelle et connaît une cour qui communique avec ces deux rues. Elle lève la main pour montrer par quel côté elle y passe. Nour lui demande si elles peuvent aller voir avec les voisins intéressés. Elle voudrait que chacun puisse choisir le chemin qui lui plaît et rejoindre les autres à un endroit simple à trouver.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG142, accompagnement des adultes autistes](https://www.nice.org.uk/guidance/cg142/chapter/Recommendations)

@@ -1,5 +1,5 @@
 ---
-title: "Élise : une pause qui laisse un chemin de retour"
+title: Une pause qui laisse un chemin de retour
 description: "Élise passe d’un écran à l’autre pour ne plus penser à un dossier. Elle essaie une distraction choisie, avec une fin et un retour possible."
 slug: elise-distraction-choisie
 date: 2026-10-03T09:00:00+02:00
@@ -13,6 +13,7 @@ contexte: "Devant un message concernant la rencontre au jardin, Élise consulte 
 editorial_pack: psychology-v10
 episode: 3
 ---
+
 Le message de Mireille attend sur l’ordinateur d’Élise. Le jardin partagé pourrait recevoir les habitants, mais il faut préciser le nombre de personnes, l’accès aux sièges et la solution en cas de pluie. Élise ouvre le document prévu pour sa réponse. Elle écrit une première phrase, puis prend son téléphone pour vérifier un horaire. Une vidéo apparaît, suivie d’une autre. Quand elle regarde de nouveau l’écran de l’ordinateur, le curseur clignote toujours après la même virgule. Elle ne s’est pas vraiment reposée. Elle a surtout cessé, pendant un moment, de sentir le poids de cette nouvelle organisation.
 
 Elle n’est pas tenue de répondre ce soir. Pourtant, elle a annoncé qu’elle enverrait les précisions avant le lendemain midi et elle aimerait finir avant le dîner. Le choix lui paraît simple : travailler sérieusement ou se laisser aller. Cette opposition rend le document encore moins attirant. Elle rouvre une application, puis passe aux photos du jardin. Certaines lui plaisent, d’autres lui rappellent les tâches en attente. Son attention se déplace sans qu’elle décide vraiment où. Elle se sent à la fois occupée et immobile. Le repas refroidit pendant qu’elle continue à faire défiler des images qu’elle retiendra à peine.
@@ -76,7 +77,3 @@ Le repos n’a pas besoin d’être mérité par l’épuisement ni justifié pa
 Quand le détour devient automatique, regarder son déclencheur, sa durée et ses conséquences fournit davantage d’informations qu’un jugement sur la volonté. Une tâche floue, une émotion difficile ou une charge excessive ne demandent pas exactement la même réponse. Les conditions de vie et de travail restent présentes dans cette réflexion.
 
 Élise garde le droit de regarder des vidéos et celui de poser son téléphone. Elle essaie surtout de retrouver une possibilité de décider. Le jardin partagé attend encore ses préparatifs ; elle peut lui consacrer un moment défini sans lui donner toute sa soirée ni devoir le chasser de son esprit.
-
-Sources :
-- [Centre for Clinical Interventions, Tolérer l’inconfort émotionnel](https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Tolerating-Distress)
-- [NHS, Résolution de problèmes](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)

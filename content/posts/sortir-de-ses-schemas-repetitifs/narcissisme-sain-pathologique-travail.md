@@ -11,6 +11,9 @@ personnage: "Nadia"
 sujet: "traits narcissiques et diagnostic"
 contexte: "au travail"
 draft: false
+editorial_sources:
+- https://www.psychiatry.org/News-room/APA-Blogs/What-Is-Narcissistic-Personality-Disorder
+- https://doi.org/10.1111/peps.12072
 ---
 
 Marc, de l’équipe produit, montre les deux premières lignes du calendrier. Il veut savoir qui a choisi de faire passer cette campagne avant les autres. « L’ordre a été arrêté la semaine dernière », répond Nadia. Elle se rappelle le moment où elle a déplacé elle-même la ligne et les raisons qu’elle avait alors. Elle pourrait les donner une par une. En voyant Marc attendre, elle ajoute que l’ordre avait déjà été communiqué.
@@ -64,5 +67,3 @@ L'ambition, l'assurance et les conflits ne constituent pas un diagnostic. Nadia 
 Modifier la façon de donner un retour peut se tenter dans une situation précise. Si les difficultés relationnelles se répètent ou s’accompagnent d’une souffrance importante, un psychologue peut aider à les comprendre.
 
 Si vous subissez des humiliations répétées ou des représailles, vous pouvez noter les faits et demander de l'aide au service de santé au travail ou à un représentant du personnel. Vous n'avez pas à identifier la personnalité du responsable pour signaler le problème.
-
-Sources : [American Psychiatric Association, trouble narcissique de la personnalité](https://www.psychiatry.org/News-room/APA-Blogs/What-Is-Narcissistic-Personality-Disorder) ; [Grijalva et al., méta-analyse sur le leadership](https://doi.org/10.1111/peps.12072).

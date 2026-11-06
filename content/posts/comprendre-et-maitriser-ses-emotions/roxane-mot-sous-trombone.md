@@ -31,7 +31,11 @@ Son père arrive pour les dernières minutes. Mme Colin demande si Roxane veut q
 
 ## Une priorité qui a du sens pour l’enfant
 
-L’accompagnement orthophonique d’un trouble des sons de la parole s’ajuste aux difficultés de l’enfant et aux situations dans lesquelles il a envie de mieux se faire comprendre. L’orthophoniste peut examiner la parole en conversation et la production de sons dans des mots, car ces situations ne demandent pas la même chose. Pour Roxane, la demande de renseignement fournit un but concret à discuter. Mme Colin reste responsable de choisir avec elle ce qu’elles travailleront et de suivre ce que cela change au fil des rendez-vous.
+L’accompagnement orthophonique d’un trouble des sons de la parole s’ajuste aux difficultés de l’enfant et aux situations dans lesquelles il a envie de mieux se faire comprendre. L’orthophoniste peut examiner la parole en conversation et la production de sons dans des mots, car ces situations ne demandent pas la même chose.
+
+## Comment cette difficulté se manifeste
+
+Pour Roxane, la demande de renseignement fournit un but concret à discuter. Mme Colin reste responsable de choisir avec elle ce qu’elles travailleront et de suivre ce que cela change au fil des rendez-vous.
 
 Leur travail a commencé bien avant la rencontre à la médiathèque. Roxane décide de garder ses indices dans la pochette pour le moment. Elle peut parler au cabinet d’une situation difficile sans devoir y répéter la présentation qu’elle prépare pour les visiteurs.
 
@@ -44,9 +48,3 @@ Roxane a une formulation à proposer. Elle voudrait que Mme Sorel puisse lui dir
 ## La feuille qui sort du cabinet
 
 Mme Colin écrit la demande en deux lignes sur un papier neuf. Roxane retire le trombone de son énigme pour le mettre sur le papier qu’ils viennent de lire ensemble. Son père est d’accord pour remettre celui-là à Mme Sorel, en tête à tête. Roxane lui demande de dire que c’est une préférence pour les échanges, pas une règle pour toute la classe. Puis elle replie sa devinette dans l’autre sens. À Zoé, elle veut la donner bien à plat, avec la place pour son dessin.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal — Speech Sound Disorders: Articulation and Phonology](https://www.asha.org/practice-portal/clinical-topics/articulation-and-phonology/)
-- [Haute Autorité de santé — Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages ? (2017)](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)

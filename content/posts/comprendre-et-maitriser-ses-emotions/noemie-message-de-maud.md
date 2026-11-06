@@ -32,6 +32,8 @@ Maud se retourne à la caisse. Noémie voit qu’elle a sorti sa carte et qu’e
 
 Une question ordinaire peut permettre de savoir qui a fermé la porte. Dans la scène de l’épicerie, Noémie a déjà reçu la réponse et cherche un indice de plus. La réassurance peut devenir une partie du rituel quand la personne demande de nouveau une certitude malgré les informations déjà obtenues. La photo d’une serrure ou le récit d’un geste peuvent calmer la peur sur le moment. Le besoin d’une preuve supplémentaire peut revenir très vite. Ce déroulement donne à Noémie quelque chose de précis à décrire en consultation.
 
+## Comment cette difficulté se manifeste
+
 Maud avait compris que sa réponse soulageait Noémie et a répondu de bonne foi. Elle découvre qu’elle a pris l’habitude de préparer des preuves avant même de quitter la maison. Le NICE recommande, lorsque l’entourage participe aux compulsions, à l’évitement ou aux demandes répétées de réassurance, que le plan de soins aide à réduire cette implication d’une manière attentive et soutenante. Les décisions qui concernent le couple peuvent être préparées avec les personnes concernées.
 
 ## Parler de l’aide à un moment choisi
@@ -43,8 +45,3 @@ Les questions pratiques entre elles gardent leur place. Si Maud doit donner le d
 ## La question que Maud pose
 
 Maud se rappelle finalement que les olives de son amie étaient violettes. Noémie lui tend le bocal vert et elle accepte d’en goûter une. La demande sur la poignée revient sur l’écran, au milieu de leurs messages. Noémie demande à Maud si elles peuvent apporter cet exemple au prochain rendez-vous. Maud dit qu’elle aimerait d’abord savoir en quoi elle pourrait intervenir. Elles conviennent d’en reparler le lendemain et finissent leur repas sur le banc.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG31, prise en charge du TOC](https://www.nice.org.uk/guidance/cg31/chapter/Recommendations)

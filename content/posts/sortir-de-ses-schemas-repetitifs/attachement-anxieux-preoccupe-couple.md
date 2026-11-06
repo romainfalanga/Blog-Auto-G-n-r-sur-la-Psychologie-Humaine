@@ -11,6 +11,8 @@ personnage: "Isabelle"
 sujet: "attachement anxieux-préoccupé (hyperactivation du système)"
 contexte: "en couple"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/10707340/
 ---
 
 Aurélie est partie faire des courses. Isabelle a déjà vérifié deux fois qu’elle n’avait pas coupé les notifications. Au bout du couloir, Théo rit dans son casque. Elle écrit « Tu rentres vers quelle heure ? », puis efface le message. Il leur manque du lait, et Isabelle pourrait lui demander si elle a pensé à en prendre. Elle sait très bien quelle réponse elle attendrait après ce message-là aussi.
@@ -39,7 +41,7 @@ Dans le contexte du couple, l’attachement anxieux-préoccupé se traduit souve
 
 Dans l’histoire, Isabelle revient souvent à ses conversations pour se rassurer. Le soulagement éventuel peut être bref, et les attentes peuvent redevenir une source de tension. Les raisons de ces gestes varient selon la personne et la relation.
 
-## Quel rôle le passé et la relation actuelle peuvent-ils jouer ?
+### Quel rôle le passé et la relation actuelle peuvent-ils jouer ?
 
 Les expériences relationnelles passées peuvent éclairer une inquiétude. L’incertitude réelle, les attentes différentes des partenaires et la manière dont une relation évolue comptent aussi.
 
@@ -61,16 +63,14 @@ Exprimer ses besoins sans agressivité ni accusation est essentiel. Plutôt que 
 
 L’indépendance affective ne signifie pas couper le lien, mais développer ses propres ressources : hobbies, activités sociales, moments de détente seule. Isabelle a commencé à pratiquer la marche en nature et la lecture, ce qui lui a permis de se recentrer sur elle-même et de ne plus dépendre exclusivement des signes d’attention d’Aurélie.
 
-## Quand Aurélie revient
-
-Quand Aurélie revient, Isabelle l’aide à ranger les courses. Elle lui demande si elles peuvent reparler de leur dispute après le repas. Aurélie dit qu’elle préfère attendre le lendemain. Isabelle tend la main vers son téléphone, puis lui demande simplement si le lendemain soir lui convient.
-
-Plus tard, elle lit deux pages dans son lit et reprend le même paragraphe. La question lui revient. Au moins, elle a une heure pour en reparler.
-
-## En parler quand le silence inquiète
+### En parler quand le silence inquiète
 
 Si les silences vous préoccupent, une pause, une demande concrète et des activités qui vous intéressent peuvent vous donner des options. Vous pouvez observer ce qui vous aide dans cette relation et à quels moments.
 
 Si l’attente ou les conflits prennent une place difficile à supporter au quotidien, vous pouvez en parler avec un professionnel.
 
-Sources : [Fraley et collègues, mesure de l’attachement adulte, 2000](https://pubmed.ncbi.nlm.nih.gov/10707340/).
+## Quand Aurélie revient
+
+Quand Aurélie revient, Isabelle l’aide à ranger les courses. Elle lui demande si elles peuvent reparler de leur dispute après le repas. Aurélie dit qu’elle préfère attendre le lendemain. Isabelle tend la main vers son téléphone, puis lui demande simplement si le lendemain soir lui convient.
+
+Plus tard, elle lit deux pages dans son lit et reprend le même paragraphe. La question lui revient. Au moins, elle a une heure pour en reparler.

@@ -32,7 +32,11 @@ Sous le disque pâle, il retrouve le soleil doré qu’ils avaient rangé à par
 
 ## Une solution garde la trace de la situation
 
-Une adaptation utile pour une représentation ne décide pas des rôles qu’une personne pourra choisir ensuite. Les difficultés liées au trouble de la coordination peuvent persister à l’adolescence, et leurs effets dépendent aussi des activités, des objets et de l’organisation du moment. Pour L’Aube en carton, Augustin a voulu un geste précis et un certain silence. Avec une autre pièce, il pourrait préférer travailler un texte plus long et laisser la fabrication à quelqu’un d’autre. Il pourra aussi éprouver de nouveau de la fatigue ou être gêné par un accessoire. Le résultat du spectacle lui donne des informations sur ce qu’il a aimé et sur les conditions qui lui ont convenu. Il ne permet pas de prévoir la suite à sa place.
+Une adaptation utile pour une représentation ne décide pas des rôles qu’une personne pourra choisir ensuite. Les difficultés liées au trouble de la coordination peuvent persister à l’adolescence, et leurs effets dépendent aussi des activités, des objets et de l’organisation du moment.
+
+## Comment cette difficulté se manifeste
+
+Pour L’Aube en carton, Augustin a voulu un geste précis et un certain silence. Avec une autre pièce, il pourrait préférer travailler un texte plus long et laisser la fabrication à quelqu’un d’autre. Il pourra aussi éprouver de nouveau de la fatigue ou être gêné par un accessoire. Le résultat du spectacle lui donne des informations sur ce qu’il a aimé et sur les conditions qui lui ont convenu. Il ne permet pas de prévoir la suite à sa place.
 
 ## Se souvenir des accords qui laissent un choix
 
@@ -41,8 +45,3 @@ Samira peut noter que les essais ont été plus utiles quand ils portaient sur u
 ## L’autre côté du carton
 
 Samira laisse la case vide. Augustin prend un programme pour sa mère et demande s’il peut utiliser le vieux soleil pour son croquis. Il trace au dos une chaise avec un dossier en biais. Maxence trouve qu’elle a l’air de bouder et fait grincer la sienne pour l’imiter. Augustin ajoute deux phrases au crayon, dont une qu’il n’arrive pas encore à dire sans rire. Avant de ranger, il demande à Maxence de venir écouter le début mercredi. Cette fois, ils n’ont pas encore de bruitage.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Blank et al., recommandations cliniques internationales de l’EACD sur le trouble du développement de la coordination (2019)](https://onlinelibrary.wiley.com/doi/full/10.1111/dmcn.14132)

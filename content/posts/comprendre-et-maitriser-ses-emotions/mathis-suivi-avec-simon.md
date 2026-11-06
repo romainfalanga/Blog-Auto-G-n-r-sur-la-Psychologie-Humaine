@@ -32,6 +32,8 @@ Quand il va chercher Simon, la place voisine est vide. Simon s’est levé pour 
 
 Mathis a plusieurs repères pour revenir sur les aménagements. Il sait à quels moments la fiche lui a permis de reprendre sans hésiter, ce qu’il lui a fallu faire avant la fermeture et ce qu’il avait encore de disponible en rentrant. Une réussite sur la place ne donne pas toute la mesure de ce qui lui coûte. Une soirée difficile ne suffit pas non plus à décider que le suivi est inutile. Les exemples lui permettent de préciser ce qu’il voudrait voir changer.
 
+## Comment cette difficulté se manifeste
+
 Le NICE recommande de revoir les choix de prise en charge avec la personne, à partir de ses priorités et de leur effet dans sa vie. Mathis et sa psychiatre font le point sur l’accompagnement commencé et gardent ouverte la discussion sur les autres options. Il mentionne aussi les mauvaises nuits qui reviennent parfois avant une journée chargée. Ils en parlent séparément. Il pourra poser des questions supplémentaires avant de modifier les soins et sait comment joindre sa psychiatre.
 
 ## Écouter deux récits en laissant à Mathis ses décisions
@@ -43,8 +45,3 @@ La présence d’un proche se discute avec la personne suivie. Mathis choisit le
 ## L’entretien auquel Simon assiste en partie
 
 La psychiatre et Mathis conviennent de poursuivre l’accompagnement et fixent un nouveau point. Simon propose d’aller chercher du pain sur le retour. Devant la porte, Mathis lit le papier une dernière fois et le replie. Il laisse passer un vélo devant le cabinet, puis lui parle du deuxième samedi. Zélie voudrait prendre les premiers vélos au pied. Il aimerait lui dire qu’il peut commencer à l’accueil, avec quelqu’un pour le relayer le temps de préparer les fiches. Simon lui demande à quelle heure ils pourront reparler du rendez-vous. Mathis propose après avoir mangé.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG87, évaluation et accompagnement du TDAH](https://www.nice.org.uk/guidance/ng87/chapter/recommendations)

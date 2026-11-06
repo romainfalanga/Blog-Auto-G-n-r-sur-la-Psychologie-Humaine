@@ -11,6 +11,9 @@ personnage: "Fabien"
 sujet: "isolement social/aliénation"
 contexte: "face à la solitude"
 draft: false
+editorial_sources:
+- https://nap.nationalacademies.org/catalog/25663/social-isolation-and-loneliness-in-older-adults-opportunities-for-the
+- https://pubmed.ncbi.nlm.nih.gov/25910392/
 ---
 
 Un samedi soir, Fabien reste debout sur son balcon, une tisane oubliée sur la rambarde, et regarde les fenêtres des immeubles d'en face. Les apparences de sa vie sont ordonnées, tout est à sa place : l'appartement sent encore le neuf, ses livres sont alignés, son pull col roulé est repassé. Pourtant, il ressent une distance qu'aucune organisation ne comble. Il travaille depuis vingt ans à gérer les émotions et les carrières des autres, et maintenant il s'interroge : pourquoi sa place ne figure pas dans un groupe, hors du cadre professionnel ?
@@ -83,5 +86,3 @@ La solitude vécue comme isolement social et aliénation n'est pas une fatalité
 Si vous vous reconnaissez dans le sentiment d'aliénation de Fabien, rappelez-vous que demander de l'aide ou consulter un professionnel est une démarche utile et légitime. Un psychologue ou un thérapeute peut accompagner la déconstruction des croyances héritées et proposer des outils adaptés à votre histoire personnelle.
 
 Le changement ne suppose pas l'effacement du passé, mais la création d'expériences nouvelles qui contredisent les récits limitants. Fabien n'est pas encore délivré de toutes ses résistances, mais il avance vers une vie où la solitude n'est plus un verdict. Cette évolution est à votre portée.
-
-Sources : [National Academies, Social Isolation and Loneliness in Older Adults](https://nap.nationalacademies.org/catalog/25663/social-isolation-and-loneliness-in-older-adults-opportunities-for-the) ; [Holt-Lunstad et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25910392/).

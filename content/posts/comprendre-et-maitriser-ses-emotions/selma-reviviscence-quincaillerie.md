@@ -33,6 +33,8 @@ André l’attend au café en face, avec le dessin de sa propre étagère dans l
 
 Une reviviscence donne à la personne l’impression qu’un événement traumatique se passe à nouveau dans le présent. Elle peut comporter des sensations, des images ou des sons. Cette impression peut occuper plus ou moins de place selon le moment. L’OMS distingue ce vécu du fait de penser à un événement passé en gardant son attention dans la situation présente. Le professionnel peut examiner avec la personne ce qu’elle a éprouvé et ce dont elle s’est rendu compte ensuite.
 
+## Comment cette difficulté se manifeste
+
 Le mot peut aider Selma à raconter pourquoi elle a perdu le fil au comptoir. Elle peut décrire l’impression que le son était revenu, le temps dont elle a eu besoin et la charnière dont elle n’arrivait plus à parler. Sa thérapeute pourra l’aider à mettre des mots sur ce moment en tenant compte des autres situations qu’elle connaît. Pour la vendeuse, il suffit de comprendre qu’une cliente a besoin d’interrompre son achat.
 
 ## Laisser du temps et proposer une aide simple
@@ -44,8 +46,3 @@ Dans un suivi spécialisé, des moyens pour faire face aux reviviscences peuvent
 ## Une charnière réservée jusqu’à demain
 
 La vendeuse écrit le prénom de Selma sur un petit ticket. Elle gardera la pièce jusqu’au lendemain, derrière la caisse. Depuis le trottoir, Selma voit André souffler sur son café. Elle lui fait signe de rester à sa table et le rejoint quand le feu passe au vert. Il sort son dessin. Elle lui demande d’attendre qu’elle ait commandé. Quand elle prend la première gorgée, elle sait à nouveau combien de trous elle avait dessinés. Elle demande à André de lui montrer comment il a compté les siens.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

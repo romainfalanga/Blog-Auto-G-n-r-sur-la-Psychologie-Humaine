@@ -30,7 +30,11 @@ Maxime approche la main de la fiche et s’arrête quand Célian la rapproche de
 
 ## Fluence de lecture et compréhension dans la dyslexie
 
-Un trouble développemental des apprentissages avec déficit en lecture peut rendre la lecture lente, imprécise ou difficile à comprendre, selon la personne et la tâche. La précision correspond aux mots lus correctement. La fluidité tient à l’aisance et au rythme avec lesquels on les lit. La compréhension concerne le sens que l’on tire du texte. Ces dimensions se rencontrent quand on lit et peuvent se révéler inégalement difficiles. S’arrêter longtemps sur une phrase ne suffit pas pour savoir ce que la personne en a compris. La lecture à voix haute d’une fiche découverte au dernier moment ne mesure pas non plus son intelligence ni l’ensemble de ses compétences. Célian sait ici expliquer comment sa formatrice manie la spatule : il l’a observée faire. Il lui faut encore retrouver dans l’écrit ce qui correspond au geste.
+Un trouble développemental des apprentissages avec déficit en lecture peut rendre la lecture lente, imprécise ou difficile à comprendre, selon la personne et la tâche. La précision correspond aux mots lus correctement. La fluidité tient à l’aisance et au rythme avec lesquels on les lit. La compréhension concerne le sens que l’on tire du texte.
+
+## Comment cette difficulté se manifeste
+
+Ces dimensions se rencontrent quand on lit et peuvent se révéler inégalement difficiles. S’arrêter longtemps sur une phrase ne suffit pas pour savoir ce que la personne en a compris. La lecture à voix haute d’une fiche découverte au dernier moment ne mesure pas non plus son intelligence ni l’ensemble de ses compétences. Célian sait ici expliquer comment sa formatrice manie la spatule : il l’a observée faire. Il lui faut encore retrouver dans l’écrit ce qui correspond au geste.
 
 ## Savoir ce qui est attendu du binôme
 
@@ -39,9 +43,3 @@ Dans l’exercice d’Aïcha, le binôme doit montrer et expliquer une étape de
 ## L’autre fiche à préparer
 
 Célian montre où la spatule passe. Maxime fait tourner le saladier trop vite pour le narguer, puis le tient comme il faut. À la fin de l’atelier, Célian rattrape Aïcha et lui demande si la prochaine fiche peut être déposée la veille. Elle propose de commencer par celle de la semaine suivante. Dans le bus, une notification du volley s’affiche : Jade cherche quelqu’un pour organiser le goûter de la rencontre prévue dans un peu plus de trois semaines. Célian imagine déjà un gâteau avec des bords assez dorés pour qu’on se dispute les coins. Il commence par écrire « je peux aider », efface « aider » et envoie : « Je veux bien m’en charger. »
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé — Guide du parcours de santé des enfants avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)
-- [La bonne alternance — Apprentissage et handicap : les aménagements de la formation](https://labonnealternance.apprentissage.beta.gouv.fr/guide/apprentissage-et-handicap)

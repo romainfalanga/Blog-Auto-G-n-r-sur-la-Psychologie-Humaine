@@ -33,6 +33,8 @@ Mounir garde sa main ouverte sur la table. Il ajoute qu’il ne pourra jamais do
 
 L’aide devient difficile à accepter quand le rôle de chacun reste implicite. Pour Mounir, prendre le début veut dire économiser quelques minutes de rangement et donner à voir deux roues. Zéphyr s’était imaginé montrer lui-même le premier geste, puis demander du renfort s’il en avait besoin. Il tient à ce moment où le visiteur comprend ce qu’il regarde. Sans s’être mis d’accord, chacun a attribué à l’autre un rôle différent.
 
+## Comment cette difficulté se manifeste
+
 Pour Zéphyr, la pensée qu’on pourrait le remplacer arrive vite et l’incite à ranger ses affaires avant de parler. Une méfiance durable peut peser sur les relations dans le trouble schizotypique. Le désaccord sur la séance reste une question que les deux hommes peuvent régler entre eux. En parlant de la fiche, Mounir peut dire ce qu’il avait compris et Zéphyr peut défendre la partie qu’il veut assurer.
 
 ## Prévoir une façon de passer la fiche
@@ -44,8 +46,3 @@ Un accompagnement psychologique peut aider à reprendre les situations où accep
 ## La fiche au milieu de la table
 
 Mounir pensait sortir les outils et faire tourner la roue une fois. Il n’avait vu aucun nouveau programme. Zéphyr garde l’introduction et propose d’essayer le relais sur-le-champ. Il pose la fiche près de Mounir, qui montre la roue et s’arrête. Il reste assez de silence pour que Zéphyr reprenne par le mot « adresse ». Au comptoir, Maud ouvre le planning. Basile leur a laissé le choix de la date de report et un samedi est libre dans trois semaines. Ils retiennent une séance de quarante minutes, à dix heures, dans la petite salle. Maud prendra les noms au hall et proposera d’abord la date aux trois personnes qui avaient attendu. Zéphyr lui tend la fiche avant qu’elle rédige son message. Il veut qu’on y annonce un tour de manipulation pour chacun.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Mayo Clinic, schizotypie : évaluation, psychothérapies et accompagnement](https://www.mayoclinic.org/diseases-conditions/schizotypal-personality-disorder/diagnosis-treatment/drc-20353924)

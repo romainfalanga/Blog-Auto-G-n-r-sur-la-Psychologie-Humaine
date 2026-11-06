@@ -32,6 +32,8 @@ Une personne tire la poignée de la presse. Dans l’enregistrement, on entend u
 
 Un même renseignement peut se lire, s’écouter ou se retrouver dans une image. Joël veut écouter la légende et retrouver l’adresse sur son téléphone. Nour veut relire les noms sur une feuille qu’elle peut retourner et commenter. Leurs choix peuvent se combiner. Le texte reste disponible quand le bruit gêne l’écoute ou quand une personne n’a pas accès à l’enregistrement.
 
+## Comment cette difficulté se manifeste
+
 Le NICE recommande de proposer les informations dans un format adapté aux besoins de la personne dans les services de soins et d’accompagnement. Nour et Joël en reprennent l’idée pour la visite. Ils vérifient que les adresses et le lieu de départ figurent dans les deux versions. La légende enregistrée peut comporter un silence que Nour marque au crayon. La feuille peut montrer où regarder sur la reproduction et donner le temps d’examiner le détail.
 
 ## Définir ensemble ce qui circule
@@ -43,8 +45,3 @@ Le projet peut prévoir une écoute au point de départ et un exemplaire imprim�
 ## Le nom de la rue s’entend dans le couloir
 
 Dans le couloir, Joël dit les deux adresses assez distinctement pour que Nour puisse les retrouver sur le plan. Elle barre une flèche devenue inutile. Fatou leur a confirmé le rendez-vous devant l’ancien porche du quai. Nour inscrit l’adresse sur la feuille et Joël la lit une dernière fois. Ils écoutent ensemble la version qu’il veut partager. Nour glisse la reproduction et un exemplaire du texte dans la chemise. Elle écrira au groupe qu’elle aimerait partir par le quai après le rendez-vous. La personne qui restera au porche a déjà accepté de garder les documents avec elle.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG142, accompagnement des adultes autistes](https://www.nice.org.uk/guidance/cg142/chapter/Recommendations)

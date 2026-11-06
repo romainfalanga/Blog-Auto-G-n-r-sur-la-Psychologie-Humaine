@@ -34,7 +34,9 @@ Il lui propose d’écouter l’entretien tout de suite, s’il lui reste un qua
 
 La dépendance à l’alcool peut se poursuivre malgré des conséquences dans les relations. Une reprise des soins peut améliorer la situation médicale et permettre de revoir les appuis. La personne avec qui un rendez-vous a été manqué a sa propre expérience de cet engagement et peut demander un changement concret. Éric peut reconnaître cette conséquence sans décider pour Joëlle ce qu’elle devrait ressentir.
 
-Dans le récit, le disque a été une raison de se voir et le matin où elle est passée a aussi été celui des secours. Joëlle peut parler des deux événements. Éric sait ce qui l’aide dans ses soins et peut dire ce qu’il est prêt à partager. Ils disposent ainsi de plusieurs sujets, dont certains concernent le soin et d’autres leur manière de se retrouver.
+## Les heures où Joëlle attendait de savoir s’il viendrait
+
+Le disque a été une raison de se voir et le matin où Joëlle est passée a aussi été celui des secours. Dans le garage, elle parle d’autres moments où elle avait attendu l’appel d’Éric avant de pouvoir organiser son après-midi. Éric voudrait d’abord lui dire que ses soins ont repris. En lui demandant quel rendez-vous elle a en tête, il entend ce que l’attente a changé pour elle, jusque dans le trajet qu’ils devaient faire ensemble.
 
 ## Faire une proposition que l’autre peut accepter ou refuser
 
@@ -45,9 +47,3 @@ La consultation peut accueillir ce qu’Éric remarque dans ses liens depuis son
 ## Écouter jusqu’au bruit des cagettes
 
 Joëlle écoute l’entretien jusqu’au bruit des cagettes. Elle pense que certains prendront le casque au milieu de la phrase. Elle lui propose d’ajouter quelques mots pour leur dire qui parle et à quel endroit. Éric note cette idée. Il remercie Joëlle d’avoir appelé les secours et lui dit qu’il entend ce qu’elle lui demande sur les rendez-vous. Elle pose le disque sur l’étagère et va sortir le vélo. Éric repart avec le casque et une phrase d’accueil. Il confirme à Mélissa qu’il peut venir à l’essai prévu une semaine avant le repas. Ils fixeront l’heure du passage de la cuisine à l’écoute.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG115, évaluation et prise en charge de la dépendance à l’alcool](https://www.nice.org.uk/guidance/cg115/chapter/Recommendations)
-- [HAS, agir en premier recours pour diminuer le risque alcool](https://www.has-sante.fr/jcms/p_3326877/fr/agir-en-premier-recours-pour-diminuer-le-risque-alcool-reperer-tous-les-usages-et-accompagner-chaque-personne)

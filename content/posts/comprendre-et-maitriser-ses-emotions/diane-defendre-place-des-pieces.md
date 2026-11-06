@@ -30,7 +30,11 @@ Une fois Anaïs revenue, Diane lui montre la photo et explique ce qu’elle essa
 
 ## La peur de déranger peut effacer une demande légitime
 
-Quand un arrangement change au dernier moment, on peut avoir du mal à dire ce qu’il rend impossible pour soi. Diane s’est entendue penser qu’elle ferait perdre du temps aux autres. En montrant la photo, elle peut expliquer ce qu’elle voulait obtenir et entendre ce qu’Anaïs attend de sa propre présentation. Elles ont deux raisons différentes de demander une certaine hauteur. Les comparer avec Maud permet de chercher un arrangement concret. Diane garde aussi la possibilité d’accepter un emplacement qui lui convient moins si les autres possibilités créent un problème de circulation ou de stabilité.
+Quand un arrangement change au dernier moment, on peut avoir du mal à dire ce qu’il rend impossible pour soi. Diane s’est entendue penser qu’elle ferait perdre du temps aux autres. En montrant la photo, elle peut expliquer ce qu’elle voulait obtenir et entendre ce qu’Anaïs attend de sa propre présentation.
+
+## Comment cette difficulté se manifeste
+
+Elles ont deux raisons différentes de demander une certaine hauteur. Les comparer avec Maud permet de chercher un arrangement concret. Diane garde aussi la possibilité d’accepter un emplacement qui lui convient moins si les autres possibilités créent un problème de circulation ou de stabilité.
 
 ## Finir sa part et décider quand partir
 
@@ -39,8 +43,3 @@ Diane s’était donné une heure pour installer ses pièces. Depuis le rendez-v
 ## Le bleu à hauteur de regard
 
 Anaïs place ses tasses sur le meuble haut et fait tourner la première. Depuis la porte, on voit son trait clair. Maud vérifie que le meuble est stable et que la circulation reste possible. Diane récupère la tablette basse et pose le bol près de la carafe, avec l’écart qu’elle avait photographié. Elle colle les deux cartels et envoie à Rémi une image de la tablette au pied de la fenêtre. Puis elle remet les pinces à Maud. Elle a terminé ce qu’elle était venue faire, même si Anaïs n’a pas encore trouvé où fixer l’étiquette de sa dernière assiette.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG178, évaluation et accompagnement après un premier épisode psychotique chez l’adulte](https://www.nice.org.uk/guidance/cg178/evidence/full-guideline-pdf-490503565)

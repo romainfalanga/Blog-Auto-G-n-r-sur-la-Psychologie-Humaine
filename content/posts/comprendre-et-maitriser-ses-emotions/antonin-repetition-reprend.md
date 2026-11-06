@@ -33,7 +33,11 @@ Il peut le faire. Il voudrait aussi attendre le dernier musicien et s’assurer 
 
 Les inquiétudes liées à l’anxiété généralisée peuvent persister quand une difficulté réelle vient de se résoudre. Le local est ouvert et le groupe joue. Antonin se demande encore ce qui pourrait se produire après son départ. Il peut observer l’effort que lui demande cette fin de journée et en parler au médecin, même s’il apprécie la répétition. L’intérêt pour son métier, le plaisir du moment et le souhait de rentrer à son heure peuvent tous faire partie de ce qu’il décrit.
 
-L’ouverture répond à des validations que l’école a reçues. Antonin a encore des tâches qui découlent de la reprise, comme vérifier avec le professeur le rangement adapté aux étuis. La question de sa présence jusqu’à la fin dépend de ce qu’il est convenu qu’il fasse. Les deux sujets peuvent être examinés séparément avec l’équipe.
+L’ouverture répond à des validations que l’école a reçues.
+
+## Comment cette difficulté se manifeste
+
+Antonin a encore des tâches qui découlent de la reprise, comme vérifier avec le professeur le rangement adapté aux étuis. La question de sa présence jusqu’à la fin dépend de ce qu’il est convenu qu’il fasse. Les deux sujets peuvent être examinés séparément avec l’équipe.
 
 ## Un problème d’étui et une heure de départ
 
@@ -44,8 +48,3 @@ Une fois le relais effectué, Antonin peut décider s’il veut écouter encore 
 ## La clé change de main
 
 Antonin montre le placard, remet la clé à la collègue de permanence et écoute une dernière mesure près de la porte. Il ne sait pas ce que donneront les semaines suivantes. En descendant l’escalier, il entend le professeur reprendre deux notes avec tout le groupe. Il sort son vélo et part vers la place. La roue tourne sans frotter. Il s’arrête devant le billard pour écrire à Benoît que la salle de musique et le vélo ont repris le même jour.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

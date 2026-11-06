@@ -1,5 +1,5 @@
 ---
-title: "Élise : rester un instant avec ce qui est agréable"
+title: Rester un instant avec ce qui est agréable
 description: "Au jardin partagé, Élise remarque un moment qui lui plaît. Elle lui laisse une place sans exiger du lieu qu’il efface ses difficultés."
 slug: elise-savourer-jardin
 date: 2026-10-04T09:00:00+02:00
@@ -13,6 +13,7 @@ contexte: "En visitant le jardin avec Mireille, Élise interrompt un instant les
 editorial_pack: psychology-v10
 episode: 4
 ---
+
 Élise passe le portail du jardin partagé avec son carnet ouvert à la page des accès. Elle rejoint Mireille près des bacs et commence par mesurer les distances du regard. Depuis la fermeture de la salle commune, elle imagine ici la prochaine rencontre des habitants de la résidence municipale. Elle pense aux sièges disponibles, au trajet depuis la rue et au bruit possible des travaux voisins. Mireille répond à une question puis lui tend une moitié de pomme. Élise la prend sans cesser d’écrire. Le jus coule sur son pouce et l’oblige à refermer le carnet.
 
 La première bouchée est un peu acide. Élise s’arrête près du banc. Elle distingue le goût de la peau, le craquement du fruit et la fraîcheur de l’air après sa marche. Rien d’exceptionnel ne se produit. Elle remarque seulement qu’elle allait avaler cette pomme comme on barre une ligne supplémentaire sur une liste. Mireille s’assied à côté d’elle pour terminer la sienne. Elles ne parlent pas immédiatement de l’organisation. Élise voit les ombres des feuilles sur le couvercle d’un arrosoir. Elle reste attentive quelques instants parce que ce petit tableau lui plaît, sans chercher à le décrire parfaitement.
@@ -76,7 +77,3 @@ Savourer une expérience revient à lui laisser une petite place, sans exiger qu
 Le bon environnement est celui qui convient suffisamment à la personne, au moment et aux possibilités d’accès. La nature peut offrir un appui choisi ; d’autres lieux et activités le peuvent aussi. Aucune préférence ne constitue un test de santé ou une obligation de gratitude.
 
 Élise garde la mémoire d’un goût et la liste des sièges manquants. Elle peut s’occuper de cette liste sans renoncer au goût. Cette coexistence ne résout pas le projet de rencontre, mais elle lui permet de traverser sa préparation avec un peu plus de diversité dans l’attention.
-
-Sources :
-- [National Institute of Mental Health, Prendre soin de sa santé mentale](https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health)
-- [Organisation mondiale de la santé, Faire ce qui compte en période de stress](https://www.who.int/publications/i/item/9789240003927)

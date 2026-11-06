@@ -30,7 +30,11 @@ Il garde un doigt sur le bord de l’enveloppe. Il n’a pas envie que Solange p
 
 ## Parler d’un diagnostic à la mesure du lien
 
-Après un diagnostic, une personne peut choisir ce qu’elle partage et le type d’aide qu’elle souhaite recevoir. Jules dit à Solange le nom du trouble et le fait que le suivi continue. Il peut garder pour les consultations la description de certains épisodes. Leur conversation peut porter sur une question de transport, sur une inquiétude ou sur un dessin, selon ce qu’ils ont envie d’échanger. Solange peut préciser ce qu’elle a compris et poser une question à laquelle Jules est libre de répondre.
+Après un diagnostic, une personne peut choisir ce qu’elle partage et le type d’aide qu’elle souhaite recevoir. Jules dit à Solange le nom du trouble et le fait que le suivi continue. Il peut garder pour les consultations la description de certains épisodes. Leur conversation peut porter sur une question de transport, sur une inquiétude ou sur un dessin, selon ce qu’ils ont envie d’échanger.
+
+## Comment cette difficulté se manifeste
+
+Solange peut préciser ce qu’elle a compris et poser une question à laquelle Jules est libre de répondre.
 
 L’aide d’un proche dépend aussi de son temps et de ses possibilités. Solange lui propose de venir au marché parce qu’elle veut être présente. Jules préfère d’abord qu’ils gardent le rendez-vous autour du dessin. Si une autre demande se présente, ils pourront voir ensemble ce qu’elle peut faire. Pour les décisions de soin, Jules a déjà des professionnels auxquels s’adresser.
 
@@ -43,8 +47,3 @@ Certaines aides rendent une activité plus facile sur le moment. Leur place peut
 ## Le triangle de lumière
 
 Solange dit qu’elle attendra le dessin et lui parlera du triangle blanc. Elle lui raconte qu’au café le plus difficile est de retrouver toutes les pièces dans la même boîte après la partie. Jules glisse le croquis dans l’enveloppe et écrit son adresse. Il garde la liste de ses questions pour la psychiatre sur une autre feuille. Dans ce qu’il voudrait lui dire au prochain entretien, la première ligne concerne la table de dessin du marché.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

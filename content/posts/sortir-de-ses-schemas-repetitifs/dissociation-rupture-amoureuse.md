@@ -11,6 +11,9 @@ personnage: "Isabelle"
 sujet: "Sensations d’irréalité et symptômes dissociatifs"
 contexte: "après une rupture amoureuse"
 draft: false
+editorial_sources:
+- https://www.nhs.uk/mental-health/conditions/dissociative-disorders/
+- https://www.nhs.uk/conditions/sudden-confusion/
 ---
 
 Isabelle pose une pile de dossiers sur son bureau. Une autre, déjà classée, l’attend dans le tiroir. Elle ne se rappelle pas l’y avoir rangée. Depuis qu’Aurélie est partie, il lui arrive aussi d’entendre les voix comme si elles venaient du bout du couloir, alors qu’on lui parle à côté d’elle. Elle essaie de se rappeler l’heure.
@@ -66,5 +69,3 @@ Une impression d’irréalité, une distraction et une perte de mémoire n’ind
 Si vous éprouvez parfois une impression de déconnexion, un repère concret peut vous aider sur le moment. En cas de symptômes répétés ou gênants, un professionnel de santé peut vous aider à chercher leur origine.
 
 Des trous de mémoire importants ou des pertes de connaissance justifient une évaluation médicale. Selon ce qui est identifié, l’accompagnement pourra porter sur le sommeil, la santé physique ou les difficultés psychologiques, entre autres.
-
-Sources : [NHS, troubles dissociatifs et évaluation des symptômes](https://www.nhs.uk/mental-health/conditions/dissociative-disorders/), [NHS, confusion soudaine et besoin d’évaluation urgente](https://www.nhs.uk/conditions/sudden-confusion/).

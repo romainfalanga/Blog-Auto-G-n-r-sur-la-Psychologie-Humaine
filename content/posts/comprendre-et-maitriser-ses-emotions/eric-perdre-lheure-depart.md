@@ -34,6 +34,8 @@ Mélissa lui propose de l’aider à retrouver le contact de l’association. É
 
 Dans la dépendance à l’alcool, la difficulté à réguler la consommation peut porter sur le moment où l’on commence ou sur celui où l’on s’arrête. Éric avait fixé son départ et préparé l’enregistrement. Il a fait un premier geste pour partir, puis a repoussé ce moment. La même difficulté lui a déjà fait manquer d’autres engagements, ce qu’il a pu décrire à son équipe d’addictologie quand le diagnostic a été établi.
 
+## Comment cette difficulté se manifeste
+
 Une soirée qui se prolonge renseigne sur ce qui s’est passé ce jour-là. Les soignants examinent la répétition du phénomène, les conséquences et la place de la consommation dans la vie de la personne. Éric aimait entendre ses amis retrouver les paroles d’un morceau. Le plaisir de cet échange et la difficulté à arrêter appartiennent tous les deux à la scène.
 
 ## Rappeler en donnant une place à la personne attendue
@@ -45,9 +47,3 @@ En consultation, Éric peut revenir sur les instants dont il se souvient, depuis
 ## Un autre moment proposé par la marchande
 
 À la pause, la marchande répond après deux sonneries. Éric lui dit qu’il lui a fait perdre du temps. Elle se rappelle du rendez-vous et ajoute qu’elle avait encore des cageots à monter dans la camionnette. Le dimanche prochain, elle ne veut pas se presser après le marché. Elle lui propose plutôt de passer un mercredi avant l’ouverture. Éric écrit le jour sur un coin de carton et demande s’il peut venir avec le micro. De retour au panier, Mélissa lui dit qu’elle est toujours partante pour le repas. Elle veut simplement qu’ils choisissent le menu assez tôt pour en parler avec Gérald.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, agir en premier recours pour diminuer le risque alcool](https://www.has-sante.fr/jcms/p_3326877/fr/agir-en-premier-recours-pour-diminuer-le-risque-alcool-reperer-tous-les-usages-et-accompagner-chaque-personne)
-- [NICE CG115, évaluation et prise en charge de la dépendance à l’alcool](https://www.nice.org.uk/guidance/cg115/chapter/Recommendations)

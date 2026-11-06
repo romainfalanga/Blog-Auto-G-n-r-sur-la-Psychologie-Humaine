@@ -33,6 +33,8 @@ Salomé vient avec le rabat plié et les deux cartons. Mme Sorel a rangé les de
 
 Une présentation réussie renseigne sur ce que l’enfant et son entourage ont pu faire dans cette situation. Le lendemain ou dans un autre lieu, certains sons peuvent encore être difficiles à comprendre. Au comptoir, Roxane retrouve la situation qu’elle avait voulu travailler avec Mme Colin : demander un renseignement à quelqu’un qui connaît moins bien sa façon de parler. Elle a dû préciser sa question, et c’est l’objet devant elle qui lui a donné l’idée d’une autre phrase.
 
+## Comment cette difficulté se manifeste
+
 Roxane pourra raconter ce moment à son prochain rendez-vous. Elle peut aussi dire que, devant le public, elle a aimé décider elle-même de passer la phrase à Zoé. Mme Colin continue de suivre avec elle ce qui lui demande de l’effort et les objectifs qui lui sont utiles. Un exemple de la vie ordinaire peut éclairer cette discussion. Il ne remplace pas l’évaluation de l’orthophoniste.
 
 ## Un autre jeu au fond de l’enveloppe
@@ -44,9 +46,3 @@ Le projet avait commencé par le désir de faire entendre une fausse piste. Pour
 ## Un bruit à garder pour la prochaine fois
 
 Joëlle appelle après avoir reçu l’enveloppe. Elle pense à un petit marteau qui a roulé d’une table. Roxane rit en imaginant l’objet et lui dit d’ouvrir le premier pli. Puis elle attend qu’elle se décide. Quand Joëlle retourne l’empreinte et trouve le dessin, elle demande si la plume vient du pic. « Du papier de Zoé », répond Roxane. Son père lui montre le livre resté ouvert près du téléphone. Elle le referme pour écouter sa tante. Tout à l’heure, elle ira noter ce qu’elle entend chez elle, quand les autres appartements commencent à s’allumer.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal — Speech Sound Disorders: Articulation and Phonology](https://www.asha.org/practice-portal/clinical-topics/articulation-and-phonology/)
-- [Haute Autorité de santé — Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages ? (2017)](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)

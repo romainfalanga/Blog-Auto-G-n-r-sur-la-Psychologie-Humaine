@@ -11,6 +11,8 @@ personnage: "Patrick"
 sujet: "nostalgie"
 contexte: "face à la solitude"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/17059314/
 ---
 
 Dans la caisse à outils, Patrick retrouve le petit niveau vert que Marcel lui a laissé. Un coin est cabossé. Il se rappelle d’où vient le choc : Julien a voulu s’en servir comme d’un marteau, puis a juré que l’outil était déjà comme ça. Patrick l’avait grondé. Marcel, en se retournant, avait souri. Patrick pose le niveau sur une traverse de l’établi. La bulle prend encore sa place entre les traits.
@@ -56,8 +58,7 @@ Patrick choisit un message bref à Stéphanie. Quand la solitude lui pèse, il p
 Patrick photographie le vieux tirage et l’envoie à Stéphanie. « C’était l’étagère du couloir. Tu t’en rappelles ? » Il tape une phrase de plus, l’efface, puis la remet : « J’étais fier que tu sois restée m’aider. »
 
 Elle ne répond pas tout de suite. Patrick pose le téléphone, tourne le niveau entre ses mains et retourne le tabouret pour remettre un pied d’aplomb. Quand Catherine rentre, les deux photos sont encore à côté de la boîte de vis. Il lui demande si elle reconnaît le pantalon de Stéphanie.
+
 ---
 
 Un souvenir peut faire sentir à la fois la proximité et le manque. Si la tristesse persiste et gêne le quotidien, un professionnel de santé peut accompagner la personne qui le souhaite.
-
-Sources : [Wildschut et collègues, expériences sur les souvenirs nostalgiques, 2006](https://pubmed.ncbi.nlm.nih.gov/17059314/).

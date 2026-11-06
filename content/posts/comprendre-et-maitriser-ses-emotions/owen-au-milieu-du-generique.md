@@ -32,7 +32,11 @@ Quand Alma rallume, un élève demande pourquoi ils montrent le banc trois fois 
 
 ## Un mot peut accrocher et le propos aller au bout
 
-Une personne peut bégayer pendant une prise de parole et transmettre ce qu’elle avait choisi de dire. Le guide de l’OMS décrit la variabilité du bégaiement d’une situation à l’autre, et l’ASHA donne une place à la participation et aux objectifs choisis par la personne. À l’estrade, Owen prend le temps du mot et l’introduction garde sa fonction : donner au public un détail à regarder. Sa prise enregistrée et sa voix dans la salle ne sont pas deux mesures de son progrès. Il peut choisir de continuer à parler dans une situation qui l’intéresse, avec ou sans bégaiement. Il pourrait aussi passer une question et garder la possibilité d’en prendre une autre plus tard.
+Une personne peut bégayer pendant une prise de parole et transmettre ce qu’elle avait choisi de dire. Le guide de l’OMS décrit la variabilité du bégaiement d’une situation à l’autre, et l’ASHA donne une place à la participation et aux objectifs choisis par la personne.
+
+## Comment cette difficulté se manifeste
+
+À l’estrade, Owen prend le temps du mot et l’introduction garde sa fonction : donner au public un détail à regarder. Sa prise enregistrée et sa voix dans la salle ne sont pas deux mesures de son progrès. Il peut choisir de continuer à parler dans une situation qui l’intéresse, avec ou sans bégaiement. Il pourrait aussi passer une question et garder la possibilité d’en prendre une autre plus tard.
 
 ## Parler d’abord de ce qui est à l’écran
 
@@ -41,9 +45,3 @@ La question sur le banc porte sur la forme du film. Owen peut dire ce qu’il vo
 ## Un bruit pour mercredi
 
 Owen répond que le banc, la première fois, n’appartient à personne ; la deuxième, c’est une place qu’on cherche ; la troisième, c’est quelque chose dont quelqu’un s’occupe. Il prend le temps de la dernière phrase. L’élève lui dit que c’est surtout le bus qu’il a attendu. Owen rit : ils ont passé plus de temps avec une grille qu’avec le banc. Lucile prend la question suivante. En remettant le matériel dans la salle du club, Owen entend la porte se refermer en deux temps. Il attend qu’elle se rouvre pour écouter encore. Sur la carte qu’il rapporte chez lui, sous « le sac / le nœud », il note : « Mercredi : une porte qu’on entend avant de la voir. »
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal, bégaiement, bredouillement et fluence de la parole](https://www.asha.org/practice-portal/clinical-topics/fluency-disorders/)
-- [Éduscol, modèles d’autorisation d’enregistrement et d’utilisation de l’image et de la voix](https://eduscol.education.gouv.fr/6231/protection-des-donnees-personnelles-et-assistance)

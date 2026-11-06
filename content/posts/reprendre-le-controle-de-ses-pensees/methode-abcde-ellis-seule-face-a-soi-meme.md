@@ -11,6 +11,8 @@ personnage: "Isabelle"
 sujet: "méthode ABCDE d'Ellis"
 contexte: "seul(e) face à soi-même"
 draft: false
+editorial_sources:
+- https://albertellis.org/wp-content/uploads/2021/09/Emotional-Disturbance-and-Its-Treatment-in-a-Nutshell-ABCs-.pdf
 ---
 
 Isabelle repose le couvercle de la bouilloire avec une lenteur calculée. Le clic métallique résonne dans la cuisine silencieuse, un bruit presque trop fort pour cette soirée du 10 avril 2026. Théo vient de partir chez son père, Laurent, pour le week-end, et l'appartement semble soudain s'être vidé de tout son oxygène. Ses cheveux roux, attachés à la hâte, s'échappent en quelques mèches sur sa nuque alors qu'elle observe la buée se former sur la fenêtre. Elle sent cette vieille connaissance, une anxiété sourde et électrique, grimper le long de sa colonne vertébrale. C'est la même sensation que lorsqu'elle attendait les messages d'Aurélie il y a quelques semaines, ce besoin viscéral de combler le vide pour ne pas sombrer.
@@ -70,5 +72,3 @@ Travailler sur ses pensées automatiques est un processus qui demande de la pati
 La solitude n'est pas forcément le terrain de l'angoisse ; elle peut devenir l'espace où l'on apprend à devenir son meilleur allié. Chaque fois qu'une croyance limitante est remplacée par une pensée plus juste et nuancée, le fardeau s'allège. C'est un entraînement de l'esprit qui, jour après jour, transforme le rapport à soi et aux autres.
 
 Si certaines pensées restent trop envahissantes malgré les efforts ou que la souffrance devient trop lourde à porter, solliciter l'aide d'un professionnel est une option précieuse. Un psychologue ou un thérapeute pourra accompagner cette démarche de restructuration cognitive et aider à explorer plus en profondeur les racines des schémas relationnels. Se faire aider est une preuve de courage et de respect envers soi-même.
-
-Sources : [Albert Ellis, présentation du modèle ABC de la REBT](https://albertellis.org/wp-content/uploads/2021/09/Emotional-Disturbance-and-Its-Treatment-in-a-Nutshell-ABCs-.pdf).

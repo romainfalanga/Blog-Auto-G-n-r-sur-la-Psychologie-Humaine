@@ -32,6 +32,8 @@ Mathis tire le calendrier vers lui. Il avait répondu oui avant d’imaginer les
 
 Une livraison comporte plusieurs actions. Quelqu’un fixe la date, quelqu’un reçoit le message, quelqu’un ouvre la porte et quelqu’un doit pouvoir appeler si le jour change. Mathis s’est engagé sur la présence à la maison, tandis que Simon garde sans l’avoir choisi la responsabilité d’attraper l’appel. Le problème existe avant la sonnerie. Ils peuvent le voir ensemble en suivant le parcours du message.
 
+## Comment cette difficulté se manifeste
+
 Les difficultés d’organisation peuvent se manifester aussi hors du travail. Elles affectent parfois la façon dont des tâches sont réparties entre adultes. Dans le suivi, Mathis peut décrire ce qu’il arrive à assurer et les endroits où il se retrouve à dépendre d’un rappel. Il souhaite que Simon puisse lui dire ce qui devient pesant sans endosser le rôle de vérifier tous ses engagements. De son côté, il veut pouvoir demander un appui ponctuel sans perdre la possibilité de prendre une décision.
 
 ## Transmettre l’information et convenir d’un horaire possible
@@ -43,8 +45,3 @@ Mathis s’interroge sur le genre de rappel qui lui sert. Il retrouve vite l’a
 ## Un créneau dont il s’occupe
 
 Le magasin propose le mardi matin suivant. Mathis vérifie qu’il ouvre l’atelier plus tard ce jour-là. Quand la confirmation arrive, il voit son numéro au bon endroit et envoie l’horaire à Simon. Il aurait aimé que la table soit montée pour le week-end. Simon lui montre les journaux pliés sous le pied de l’ancienne, qu’ils pourront garder quelques jours de plus. Mathis prend une feuille pour noter la suite. Au moment de l’ajouter au dossier pour sa psychiatre, il écrit aussi une question. Il voudrait savoir ce qui peut l’aider quand un accord reste difficile à tenir malgré un calendrier utilisable.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG87, évaluation et accompagnement du TDAH](https://www.nice.org.uk/guidance/ng87/chapter/recommendations)

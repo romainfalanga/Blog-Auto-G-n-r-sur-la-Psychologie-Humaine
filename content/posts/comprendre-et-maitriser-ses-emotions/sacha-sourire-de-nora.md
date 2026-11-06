@@ -33,6 +33,8 @@ Chez lui, il retrouve un bout de terre séchée dans le pli de sa manche. Il se 
 
 Dans l’anxiété sociale, une situation peut continuer d’occuper l’esprit après qu’elle est terminée. La personne repasse des mots, des gestes ou un signe de réaction dont le sens lui paraît incertain. La recommandation NICE invite à explorer ce qui se passe après l’échange, et certaines thérapies comportementales et cognitives adaptées au trouble travaillent ces pensées quand elles deviennent problématiques.
 
+## Comment cette difficulté se manifeste
+
 Sacha se souvient du sourire de Nora et du mot qu’il a repris. Il rapproche les deux sans savoir ce qui a fait sourire Nora. Pendant ce temps, d’autres informations lui échappent : le dessin est visible de loin, mais la motte est trop basse ; Nora a proposé de changer la place de la table. L’inquiétude est réelle. La certitude qu’il croit avoir sur ce que Nora a pensé reste à distinguer de ce qu’il a entendu et observé.
 
 ## Demander un retour qui serve au travail
@@ -44,8 +46,3 @@ Au cabinet, le sourire qu’il repasse est un exemple utile, même si Sacha n’
 ## Déplacer le plateau
 
 Le lendemain, Sacha demande à Nora où elle poserait la fiche. Elle prend un petit support qui servait aux prix des bulbes, le tourne vers la sixième place et attend que Sacha revienne se mettre derrière la table. Lui avance le plateau. La motte est visible sans que Nora ait à se pencher. Il ne lui parle pas du sourire. Avec Gaspard, ils gardent les deux rôles, choisissent le samedi dans deux semaines à dix heures et impriment l’affiche pour six personnes. Nora y ajoute l’endroit où s’inscrire.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG159, reconnaissance, évaluation et traitement du trouble d’anxiété sociale](https://www.nice.org.uk/guidance/cg159/resources/social-anxiety-disorder-recognition-assessment-and-treatment-pdf-35109639699397)

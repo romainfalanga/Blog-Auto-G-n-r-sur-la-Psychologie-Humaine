@@ -31,7 +31,11 @@ Elles imaginèrent la même scène en laissant les questions sur la table. Quand
 
 ## Décrire ce qui a demandé du travail
 
-Un suivi orthophonique peut partir d’un échange ordinaire que l’enfant voudrait rendre plus facile. Agathe décrit deux difficultés à sa manière. Une question lui parvient sans qu’elle puisse identifier ce que « après » désigne : pour répondre, il faut d’abord savoir ce que l’autre demande. Pour une autre question, elle se représente l’endroit et peine à en dire le nom. On distingue ainsi le versant réceptif, qui concerne notamment la compréhension, du versant expressif, qui concerne la production d’un message. Cette distinction aide à chercher un appui approprié. Le profil d’Agathe s’apprécie dans la durée en orthophonie et dans son parcours de soins ; le jeu des trois papiers ne détermine pas un sous-type du trouble.
+Un suivi orthophonique peut partir d’un échange ordinaire que l’enfant voudrait rendre plus facile. Agathe décrit deux difficultés à sa manière. Une question lui parvient sans qu’elle puisse identifier ce que « après » désigne : pour répondre, il faut d’abord savoir ce que l’autre demande. Pour une autre question, elle se représente l’endroit et peine à en dire le nom. On distingue ainsi le versant réceptif, qui concerne notamment la compréhension, du versant expressif, qui concerne la production d’un message. Cette distinction aide à chercher un appui approprié.
+
+## Comment cette difficulté se manifeste
+
+Le profil d’Agathe s’apprécie dans la durée en orthophonie et dans son parcours de soins ; le jeu des trois papiers ne détermine pas un sous-type du trouble.
 
 ## Revenir à ce qu’on peut essayer
 
@@ -40,9 +44,3 @@ L’objectif de cette séance se construit avec Agathe à partir de ce qui lui e
 ## Le papier dans la poche de devant
 
 La mère d’Agathe attendait près du porte-manteau. L’orthophoniste demanda à Agathe ce qu’elle voulait lui dire de la séance. Agathe lui donna le papier « laquelle d’abord ? » et garda les trois autres dans le carton. Sa mère le lut et demanda si elle devait l’apporter à la réunion de l’école. « Je le garde. Je leur montrerai si j’en ai besoin. » Elle rangea le papier dans la poche de devant. Dans l’escalier, elle sortit la copie pour lui montrer le chemin de la porte à la réserve. La boîte bleue y ressemblait à une tache grise. Quand sa mère lui demanda quel rectangle c’était, Agathe hésita elle aussi.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [American Speech-Language-Hearing Association, Spoken Language Disorders](https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/)
-- [Haute Autorité de santé, Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2822893/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages)

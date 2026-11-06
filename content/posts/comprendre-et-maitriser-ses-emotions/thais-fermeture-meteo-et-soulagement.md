@@ -34,6 +34,8 @@ Un habitant a répondu au message. Il a sorti ses anciennes photos pour reconna�
 
 Les conditions réelles d’un lieu peuvent changer et rendre une sortie inadaptée pour tous. Samir applique la fermeture communiquée par le gestionnaire. Cette décision vaut aussi pour une personne qui n’éprouve aucune peur particulière des hauteurs. Dans l’évaluation d’une phobie spécifique, un professionnel tient également compte du risque raisonnable dans une situation. Il s’intéresse aux craintes qui restent très fortes même dans certains contextes ordinaires, et aux conséquences qu’elles ont dans la vie de la personne.
 
+## Comment cette difficulté se manifeste
+
 Thaïs ressent du soulagement et de la déception dans le même quart d’heure. Le premier sentiment se comprend notamment à partir du scénario redouté avant le départ. Le second rappelle un objectif réel. Aucun de ces sentiments ne décide de la réouverture du vallon. Ils peuvent l’aider à préciser ce qu’elle veut faire de la journée et ce qu’elle souhaite aborder dans le suivi.
 
 ## Sauver ce qui a du sens quand la mission change
@@ -45,8 +47,3 @@ Avoir une autre tâche n’efface pas forcément la peur de la prochaine sortie.
 ## Une matinée dans le village
 
 L’habitant accepte de passer au café avec ses photographies. Thaïs prend les pochettes pour les regarder sans les abîmer. Samir convient d’une nouvelle date sous réserve de réouverture, et confirme que la répartition des rôles reste celle convenue après le repérage. La veille, Thaïs aurait voulu que tout le monde oublie la passerelle. En se rendant au café, elle se surprend à préparer la question qu’elle posera à sa psychologue sur les semaines à venir.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, Phobias](https://www.nhs.uk/mental-health/conditions/phobias/)

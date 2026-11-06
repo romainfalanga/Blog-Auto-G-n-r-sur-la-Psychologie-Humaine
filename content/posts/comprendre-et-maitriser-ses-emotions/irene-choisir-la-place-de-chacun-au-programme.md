@@ -33,6 +33,8 @@ Mylène les rejoint. On lui a demandé une phrase courte et elle a résumé ce q
 
 Une aide utile dans un moment précis peut devenir gênante si l’entourage en fait un rôle permanent. Ilyès a proposé de prendre la suite quand Irène avait perdu sa place vendredi. Elle lui a demandé de retrouver une image, puis a continué à parler avec Aya. La prochaine fois, elle pourra choisir autrement. Rien, dans cet accord, ne demande à Ilyès de raconter le livre à chaque visite ou à Irène de se tenir à l’écart de la lecture.
 
+## Comment cette difficulté se manifeste
+
 Les gestes répétés d’Irène peuvent compliquer une partie du travail sans dire ce qu’elle sait faire ni ce qu’elle a envie d’essayer. Dessiner lui convient souvent et c’est un plaisir qu’elle veut garder. Elle peut aussi poser une question à un visiteur. La ligne du programme peut rendre ces choix plus faciles en annonçant ce qui se passera pour le public plutôt qu’en répartissant les deux personnes.
 
 ## Réécrire ce que le visiteur va venir faire
@@ -44,8 +46,3 @@ La phrase pourrait inviter le visiteur à choisir une entrée et à chercher une
 ## Deux prénoms sur la même ligne
 
 Irène écrit « Irène et Ilyès » sous le titre. Ilyès ajoute : « Entrez par le canal ou par les toits. » Ils se disputent une minute sur le point final, parce qu’Irène veut dessiner une goutte à cet endroit. Mylène peut garder le point dans le programme et la goutte sur les signets. Ilyès lui demande de leur laisser ouvrir le livre ensemble, quitte à ce qu’il pose la première question au visiteur qui choisit le canal. Irène trouve l’idée juste et lui tend un signet sec. Ils gardent le dessin de la goutte pour le samedi.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Great Ormond Street Hospital for Children (NHS) — Stereotypies: repetitive movements or sounds (2026)](https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/stereotypies-repetitive-movements-or-sounds/)

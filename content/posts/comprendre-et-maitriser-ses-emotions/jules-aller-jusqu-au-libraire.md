@@ -32,7 +32,11 @@ Arrivé à la caisse, Jules lit le nom du livre et perd le fil du prix. Il dit �
 
 Une prise en charge structurée du trouble panique peut comprendre des essais définis avec une professionnelle formée, lorsque cela correspond à la situation et au choix de la personne. Pour Jules, ce qui compte est de pouvoir parler du trajet, de l’inquiétude qui le précède et de ce qui se passe une fois sur place. La psychiatre tient le cadre de l’essai et écoute sa demande d’arrêter. Ensemble, ils peuvent revenir sur ce qui lui a coûté et sur ce qu’il avait envie de faire.
 
-Le fait d’arriver jusqu’à une caisse ou de revenir en arrière renseigne sur ce moment. La réaction de Jules pendant l’essai ne confirme aucun diagnostic et ne permet pas de prévoir le prochain trajet. La psychiatre peut revoir avec lui le cadre des séances et répondre aux questions sur les symptômes. Un signe nouveau ou aigu garde sa place dans l’évaluation médicale, y compris au cours d’un essai.
+Le fait d’arriver jusqu’à une caisse ou de revenir en arrière renseigne sur ce moment.
+
+## Comment cette difficulté se manifeste
+
+La réaction de Jules pendant l’essai ne confirme aucun diagnostic et ne permet pas de prévoir le prochain trajet. La psychiatre peut revoir avec lui le cadre des séances et répondre aux questions sur les symptômes. Un signe nouveau ou aigu garde sa place dans l’évaluation médicale, y compris au cours d’un essai.
 
 ## Dire ce que l’on voudrait reprendre
 
@@ -43,8 +47,3 @@ Samuel peut lui donner des nouvelles du groupe sans lui demander des détails su
 ## La couverture qu’il retient
 
 Jules décrit le bruit du chariot et le moment où il a demandé de s’arrêter. La psychiatre convient avec lui de ce qu’ils reverront au rendez-vous suivant. Avant de rentrer, il écrit à Samuel le nom du livre qu’il voudrait retrouver. Samuel lui répond avec le prix et le prochain sujet de dessin. Ils vont regarder les mains derrière les comptoirs. Jules prend une feuille blanche et la glisse dans son carnet pour samedi.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

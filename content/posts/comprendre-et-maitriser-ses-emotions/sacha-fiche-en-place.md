@@ -31,7 +31,11 @@ Ils parlent d’un court échange joué ensemble au cabinet, la semaine précéd
 
 ## Ce qui se travaille au cabinet
 
-Certaines thérapies comportementales et cognitives pour l’anxiété sociale prévoient des essais convenus avec le praticien pour examiner une crainte précise. Elles peuvent aussi aider à déplacer une attention entièrement prise par ce qu’on redoute de montrer. Dans l’échange avec la docteure Rigal, Sacha a pu comparer ce qu’il croyait faire entendre à ce qu’elle avait entendu. Dans leur suivi, ils pourront discuter ensemble du café, de la question d’Omar et de ce que Sacha souhaite encore travailler. L’étape suivante dépend de cette discussion.
+Certaines thérapies comportementales et cognitives pour l’anxiété sociale prévoient des essais convenus avec le praticien pour examiner une crainte précise. Elles peuvent aussi aider à déplacer une attention entièrement prise par ce qu’on redoute de montrer. Dans l’échange avec la docteure Rigal, Sacha a pu comparer ce qu’il croyait faire entendre à ce qu’elle avait entendu.
+
+## Comment cette difficulté se manifeste
+
+Dans leur suivi, ils pourront discuter ensemble du café, de la question d’Omar et de ce que Sacha souhaite encore travailler. L’étape suivante dépend de cette discussion.
 
 Le samedi a été choisi pour des raisons qui tiennent à la boutique. Le rendez-vous de soin se poursuit ensuite quelle que soit la façon dont l’atelier se passe. Le nombre de personnes qui viendront et l’état de Sacha ce matin-là ne constituent pas une évaluation clinique. Il pourra raconter une difficulté, une bonne surprise ou simplement l’envie de changer quelque chose à la démonstration.
 
@@ -44,8 +48,3 @@ La question du film relève du même accord de préparation : demander aux visit
 ## Un signal et six fiches
 
 Gaspard essaie de poser le plateau en gardant la motte devant le dessin. « Si tu me le tends, je fais les pots ou je prends les questions ? » Sacha lui dit de commencer par les pots. Nora tiendra la caisse et redira, à l’arrivée des inscrits, qu’il n’y aura pas de film. Elle proposera la fiche aux gens de passage. Sacha en dispose six exemplaires sur la table. Il garde le dessin original dans le chevalet. Avant de rentrer, Gaspard et lui vérifient l’heure à laquelle ils pourront ouvrir ensemble le volet côté vitrine.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG159, reconnaissance, évaluation et traitement du trouble d’anxiété sociale](https://www.nice.org.uk/guidance/cg159/resources/social-anxiety-disorder-recognition-assessment-and-treatment-pdf-35109639699397)

@@ -33,7 +33,9 @@ Nadia lui rend la carte. Elle a besoin d’une pièce qui explique comment on pa
 
 Suivre plusieurs options peut demander davantage d’effort à une personne qui vit avec la maladie d’Alzheimer, surtout si les objets et les décisions se mélangent. Sur la table, Armand doit savoir de quelle carte ils parlent, distinguer présentation et don, puis envisager ce qui arrivera au papier. Le diagnostic ne donne pas la réponse à ces questions à sa place. Il peut dire ce qui lui importe quand il a la carte et les possibilités devant lui.
 
-Le NICE recommande de favoriser l’expression de la personne dans les décisions sur ses soins et, lorsque c’est utile, d’adapter la façon de présenter les informations. Dans la scène, cette attention à sa parole trouve un équivalent dans l’organisation du tri. Le partage de l’image, le sort de l’original et le texte d’accompagnement peuvent faire l’objet de conversations séparées. Une hésitation sur le texte n’oblige pas à remettre en cause son choix de garder la carte.
+## Les cartes à montrer se confondent avec celles à laisser
+
+Quand les cartes se chevauchent sur la table, Armand ne sait plus lesquelles il a apportées pour les montrer et lesquelles il voulait laisser. Il se souvient pourtant très bien de ce qu’il veut faire de l’original du pont bas. Quand Nadia ramène la carte vers elle en parlant du premier lot, il pose deux doigts sur le papier et demande à le garder. L’incertitude porte sur le tri en cours et coexiste avec un choix précis pour cette carte.
 
 ## Faire une place au provisoire
 
@@ -41,12 +43,8 @@ Nadia a besoin de savoir sur quoi elle peut commencer à travailler. Elle peut i
 
 Dans cet échange, Nadia peut expliquer ce qu’un visiteur gagnerait à voir le pont bas et entendre qu’Armand tient à feuilleter son original. Lui présenter seulement la place que l’image prendrait dans la vitrine laisse une décision trop large à déduire. En ouvrant les deux cartes et en précisant que le verso resterait privé, ils trouvent une proposition qui répond à leurs deux préoccupations. La possibilité de conserver simplement l’original reste ouverte si l’essai ne lui plaît pas.
 
+Le NICE recommande de favoriser l’expression de la personne dans les décisions sur ses soins et, lorsque c’est utile, d’adapter la façon de présenter les informations. Dans l’échange avec Nadia, le partage de l’image, le sort de l’original et le texte d’accompagnement peuvent aussi être traités séparément.
+
 ## Les annotations du verso
 
 Armand rapporte les cinq cartes. Nadia lui confie deux exemplaires de la feuille provisoire, un pour la table et un à montrer s’il souhaite de l’aide au tri. Près du fauteuil, il sort la carte du pont bas de sa chemise et relit la date à laquelle Jeanne a fait le trajet à vélo. Il ne veut pas raconter cette sortie au foyer. Il la racontera peut-être à sa fille. Pour le public, il a envie de montrer l’endroit où la rampe commençait, parce qu’on en voit encore l’amorce depuis la rive.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG97, évaluation, soins et soutien des personnes vivant avec une démence et de leurs proches](https://www.nice.org.uk/guidance/ng97/resources/dementia-assessment-managementand-support-for-people-living-with-dementia-and-their-carers-pdf-1837760199109)
-- [HAS, parcours de soins du trouble neurocognitif associé à la maladie d’Alzheimer](https://www.has-sante.fr/jcms/c_2906096/fr/patients-presentant-un-trouble-neurocognitif-associe-a-la-maladie-d-alzheimer-ou-a-une-maladie-apparentee-guide-parcours-de-soins)

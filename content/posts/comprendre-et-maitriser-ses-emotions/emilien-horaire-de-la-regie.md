@@ -33,6 +33,8 @@ Au studio, ils viennent de réécouter la phrase entière de la vendeuse. La cou
 
 Un objectif de rétablissement peut être de reprendre une tâche précise, comme préparer une balance, dans des conditions que la personne juge tenables et peut discuter avec ses professionnels. Le NICE recommande d’offrir un soutien professionnel aux personnes qui souhaitent retrouver ou reprendre un emploi. L’aide peut prendre différentes formes. Les échanges avec l’employeur sur la santé, lorsqu’ils sont envisagés avec l’équipe de soins, supposent l’accord de la personne. Émilien peut d’abord dire ce qu’il est prêt à assurer et de quoi le travail a besoin pour continuer après son départ. Il n’a pas à faire circuler son feuillet de soins dans la régie pour établir un horaire.
 
+## Comment cette difficulté se manifeste
+
 Pour Émilien, le sommeil est un repère discuté avec son équipe parce que son besoin de dormir avait changé avant son épisode. Il peut demander un horaire de fin pour des raisons pratiques et choisir avec qui il souhaite parler de ce repère de santé. Une balance sur un créneau précis lui donne un moyen d’apprécier le coût réel de la reprise.
 
 ## Écrire l’accord de travail et choisir ce qui sera partagé
@@ -44,8 +46,3 @@ Si le concert s’allonge ou si Dorian n’est plus disponible, ils auront une d
 ## Une balance aux horaires définis
 
 Émilien répond qu’il peut préparer la balance et remettre les réglages à Dorian avant le début du concert. Il demande une heure de passage et une réponse sur la personne de réserve. Dorian relit la dernière ligne avec lui : « À l’équipe, il suffit d’annoncer qui est de service à quel moment. » Le courriel part après qu’ils se sont mis d’accord sur leur part de travail. Émilien garde le dossier du marché ouvert ; la prochaine écoute doit se tenir sous l’auvent.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

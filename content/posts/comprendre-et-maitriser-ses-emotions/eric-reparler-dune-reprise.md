@@ -34,6 +34,8 @@ Quand le centre répond, Éric demande le nom de la personne à qui il peut raco
 
 Une reprise de consommation peut suivre une période d’amélioration. Elle peut concerner une soirée, se répéter ou s’installer à nouveau. L’équipe a besoin de savoir ce qui s’est passé depuis le dernier rendez-vous et ce que la situation présente implique pour la santé. Elle peut aussi reprendre avec Éric les aides qui étaient accessibles et les circonstances où elles ne lui convenaient plus.
 
+## Comment cette difficulté se manifeste
+
 Le premier refus qu’Éric a pu formuler à la répétition reste une expérience utile. Dans la situation suivante, le café est revenu comme suite immédiate de la rencontre, alors qu’il était venu rendre une photo. La discussion peut porter sur cette différence et sur les conséquences pour Joëlle. Parler du détail facilite un ajustement plus précis qu’une promesse générale d’aller mieux.
 
 ## Laisser l’équipe évaluer l’urgence du moment
@@ -45,9 +47,3 @@ L’attente d’avoir de bonnes nouvelles pourrait retarder cette évaluation. �
 ## L’heure avancée sur le carton
 
 L’infirmière reprend avec lui ce qu’il a signalé ce matin et lui propose un rendez-vous avancé pour le lendemain. Elle lui rappelle quand demander de l’aide si son état se dégrade. Éric déplace le carton sur la table et note l’heure. Il envoie ensuite à Joëlle un message où il explique qu’il a repris sa consommation, qu’il a appelé le centre et qu’il aimerait lui rendre le disque qu’elle lui avait prêté pour le projet. Joëlle peut passer demain avant son rendez-vous. Éric lui dit qu’elle n’aura pas besoin de l’attendre après.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, agir en premier recours pour diminuer le risque alcool](https://www.has-sante.fr/jcms/p_3326877/fr/agir-en-premier-recours-pour-diminuer-le-risque-alcool-reperer-tous-les-usages-et-accompagner-chaque-personne)
-- [NICE CG115, évaluation et prise en charge de la dépendance à l’alcool](https://www.nice.org.uk/guidance/cg115/chapter/Recommendations)

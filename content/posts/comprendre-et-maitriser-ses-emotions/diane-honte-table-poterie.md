@@ -30,7 +30,11 @@ La porte s’ouvre derrière elles. Anaïs, qui partage habituellement le seau d
 
 ## Une place à table sans récit à fournir
 
-On peut avoir envie de retrouver un groupe et redouter les questions qu’il pose au retour. Diane connaît Anaïs et apprécie de travailler avec elle. Entendre la question à l’improviste lui fait quand même imaginer toutes celles qui pourraient suivre. La réponse qu’elle a trouvée suffit à revenir à une conversation dont elle a envie. Elle peut en choisir une autre un autre jour, si elle le souhaite. Avec son équipe, elle a déjà pu réfléchir à ce qu’elle voulait dire à Rémi. À l’atelier, le choix porte aussi sur le moment : avec qui elle veut parler et à quel endroit.
+On peut avoir envie de retrouver un groupe et redouter les questions qu’il pose au retour. Diane connaît Anaïs et apprécie de travailler avec elle. Entendre la question à l’improviste lui fait quand même imaginer toutes celles qui pourraient suivre.
+
+## Comment cette difficulté se manifeste
+
+La réponse qu’elle a trouvée suffit à revenir à une conversation dont elle a envie. Elle peut en choisir une autre un autre jour, si elle le souhaite. Avec son équipe, elle a déjà pu réfléchir à ce qu’elle voulait dire à Rémi. À l’atelier, le choix porte aussi sur le moment : avec qui elle veut parler et à quel endroit.
 
 ## Inscrire les deux pièces et laisser les permanences
 
@@ -39,8 +43,3 @@ Maud sépare la fiche des pièces du tableau des permanences pour la préparatio
 ## Deux lignes à l’encre bleue
 
 Sur la première ligne, Diane écrit « bol bas ». La deuxième est assez longue pour « carafe sans anse », en laissant un blanc pour le titre. Maud lui demande si elle veut rester pour le cours. Elle jette un œil au tabouret puis dit qu’elle reviendra au prochain : elle voulait faire seulement ce passage aujourd’hui. Anaïs pose le pinceau sur la planche du haut. Diane va le chercher et le remet avec les deux pièces pour être sûre de le retrouver. En partant, elle voit les noms dans le tableau des permanences. La case du vendredi est encore vide.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG178, évaluation et accompagnement après un premier épisode psychotique chez l’adulte](https://www.nice.org.uk/guidance/cg178/evidence/full-guideline-pdf-490503565)

@@ -11,6 +11,9 @@ personnage: "Patrick"
 sujet: "Sentiment d’impuissance face à une limitation"
 contexte: "face au vieillissement"
 draft: false
+editorial_sources:
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC4920136/
+- https://www.inrs.fr/risques/lombalgies/prevention
 ---
 
 Antoine a déjà soulevé un côté de la plaque de coffrage. Patrick avance pour prendre l’autre. Au premier mouvement, son dos le lance jusque dans la jambe gauche. Il lâche la poignée avant d’avoir soulevé quoi que ce soit.
@@ -62,8 +65,7 @@ S’il souhaite apprendre à Antoine à lire un plan, il peut proposer un moment
 À table, Patrick raconte à Catherine que la jambe a failli le faire tomber. Elle lui demande s’il a appelé. Il n’a pas appelé. Il laisse le numéro du cabinet près du téléphone et prévoit de signaler ce qui s’est passé. Quand Catherine lui demande si la douleur descend toujours jusque dans le mollet, il essaie de répondre sans lui dire que ça passera.
 
 Le week-end suivant, Julien amène Léo. Patrick sort le mètre et montre au petit à quelle hauteur il pourra poser sa planche. Il demande à Julien de remonter l’établi avec lui. Léo tient les vis dans sa poche et en perd une. C’est lui qui la retrouve sous la semelle de Patrick.
+
 ---
 
 L’aide technique ou humaine peut modifier ce qu’il est possible de faire au travail. Si une douleur gêne une activité, demander une évaluation et discuter de son organisation sont deux démarches distinctes.
-
-Sources : [Maier et Seligman, révision de leur modèle de l’impuissance apprise, 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4920136/), [INRS, prévention des lombalgies au travail](https://www.inrs.fr/risques/lombalgies/prevention).

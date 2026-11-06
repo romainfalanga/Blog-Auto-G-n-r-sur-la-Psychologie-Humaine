@@ -31,7 +31,11 @@ Nora propose de profiter de la matinée d’animation du quartier, quand il y au
 
 ## Ce qu’un soin peut travailler
 
-Une thérapie comportementale et cognitive (TCC) adaptée à l’anxiété sociale peut aider à comprendre ce qui entretient la peur dans les situations qui comptent pour la personne. Le guide britannique NICE recommande de proposer d’abord aux adultes une forme individuelle spécifique au trouble, conduite par un professionnel formé. La personne peut poser des questions sur le déroulement, préciser ce qu’elle souhaite travailler et discuter d’autres options. Dans son rendez-vous, Sacha dit qu’il aimerait pouvoir finir une explication au lieu de céder la place dès qu’un regard s’ajoute.
+Une thérapie comportementale et cognitive (TCC) adaptée à l’anxiété sociale peut aider à comprendre ce qui entretient la peur dans les situations qui comptent pour la personne. Le guide britannique NICE recommande de proposer d’abord aux adultes une forme individuelle spécifique au trouble, conduite par un professionnel formé. La personne peut poser des questions sur le déroulement, préciser ce qu’elle souhaite travailler et discuter d’autres options.
+
+## Comment cette difficulté se manifeste
+
+Dans son rendez-vous, Sacha dit qu’il aimerait pouvoir finir une explication au lieu de céder la place dès qu’un regard s’ajoute.
 
 La démonstration lui donne un exemple concret à raconter. Elle n’est pas la mesure de l’efficacité du soin. Au cabinet, il peut parler aussi de ce que cela lui coûte de rester au café. Si une expérience de soin lui paraît trop difficile ou manque de sens pour lui, il peut expliquer ce qui le gêne et la discuter avec la docteure.
 
@@ -44,8 +48,3 @@ Sacha peut demander qu’on vérifie le format avant de l’annoncer. Une propos
 ## Six soucoupes à côté de la vitrine
 
 Sacha pousse la dernière soucoupe de la pointe du pied pour libérer le passage. « Six places. Quinze minutes. On essaie entre nous avant de donner une date ? » Nora regarde la caisse depuis la vitrine et accepte le principe. Gaspard ramasse la soucoupe, puis choisit deux pots de récupération à montrer pendant sa partie. Ils inscrivent leur essai au planning du mardi, à la fermeture. Sacha range le papier du cabinet dans son sac et laisse le plan de table sur le comptoir, pour que Nora puisse le regarder de nouveau.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG159, reconnaissance, évaluation et traitement du trouble d’anxiété sociale](https://www.nice.org.uk/guidance/cg159/resources/social-anxiety-disorder-recognition-assessment-and-treatment-pdf-35109639699397)

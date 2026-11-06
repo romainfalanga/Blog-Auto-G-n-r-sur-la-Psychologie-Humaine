@@ -11,6 +11,8 @@ personnage: "Nadia"
 sujet: "illusion de contrôle"
 contexte: "avec ses enfants"
 draft: false
+editorial_sources:
+- https://doi.org/10.1037/0022-3514.32.2.311
 ---
 
 Nadia a agrandi sur sa tablette la photo du gâteau que Yasmine lui a montré pour son anniversaire. Le glaçage couvre juste le bord et les perles dessinent un cercle régulier. Elle a prévu de faire le cercle avant de mettre les boissons au frais. Chaque fois qu’elle passe devant le plan de travail, Yasmine ajoute une assiette de couleur ou déplace un verre pour que deux copines puissent s’asseoir ensemble.
@@ -72,5 +74,3 @@ L'illusion de contrôle avec ses enfants est un piège épuisant qui nous prive 
 Une règle reste utile quand elle répond à un besoin de sécurité ou d’accompagnement. Dans la cuisine, Nadia peut garder la surveillance du four et laisser Yasmine choisir les couleurs.
 
 Cette transformation demande du temps et de la patience envers vous-même. Si vous sentez que ce besoin de contrôle devient envahissant au point de nuire à votre santé mentale ou à vos relations familiales, vous pouvez consulter un professionnel de la psychologie. Un thérapeute pourra vous aider à explorer les racines de cette insécurité et vous accompagner vers une parentalité plus sereine et plus joyeuse.
-
-Sources : [Langer, expériences sur les jeux de hasard](https://doi.org/10.1037/0022-3514.32.2.311).

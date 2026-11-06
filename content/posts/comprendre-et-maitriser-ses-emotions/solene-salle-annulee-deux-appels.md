@@ -32,6 +32,8 @@ Mireille demande si elle a lu les noms de lieux. Solène dit qu’elle souhaite 
 
 L’évaluation d’un changement tient compte de sa chronologie et de ses effets dans la vie quotidienne. Solène peut être contrariée par l’annulation et avoir besoin d’un avis sur une autre difficulté. Le courriel permet de savoir à quoi la salle va servir. Il n’explique pas le sens personnel que lui a paru prendre une remarque professionnelle, ni la tristesse qu’elle éprouvait avant de l’ouvrir.
 
+## Comment cette difficulté se manifeste
+
 Au téléphone, elle peut raconter les deux choses qu’elle a remarquées avant l’annulation, préciser ce qu’elle arrive encore à faire et dire ce qui lui devient difficile. Dans le suivi du trouble schizoaffectif, l’équipe considère la nature et l’évolution des manifestations psychotiques et de l’humeur. Ce travail demande plus que le récit d’une matinée. Selon le guide mhGAP de l’OMS, l’examen du fonctionnement et des changements depuis le dernier contact fait partie du suivi. Solène peut demander une réévaluation quand elle s’inquiète, même après une période où elle avait retrouvé ses habitudes.
 
 ## Conserver deux interlocuteurs
@@ -43,10 +45,3 @@ Pour la suite des soins, Solène se réfère au contact prévu. Elle peut demand
 ## La médiathèque sur la feuille, l’infirmière au téléphone
 
 Solène donne à Mireille le nom de la personne qui avait accueilli les essais de la tournée précédente. Puis elle s’installe dans le bureau libre et appelle l’infirmière. Celle-ci prend le temps de reprendre les faits et organise avec la psychiatre un point dans la journée. Solène demande quoi faire si elle ne se sent plus en sécurité avant le prochain contact ; elles reprennent les numéros à utiliser. Plus tard, en rentrant, Solène dit à Livia que le rendez-vous a été avancé et lui montre la page des contacts. Livia replie le coin qui recouvrait la dernière ligne.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Guide d’intervention mhGAP, version 2.0](https://www.who.int/publications/i/item/9789241549790)
-- [OMS, services de santé mentale communautaires : résumé des orientations](https://www.who.int/fr/publications/i/item/9789240025684)
-- [Service Public, numéros d’urgence en France](https://www.service-public.gouv.fr/particuliers/vosdroits/F33954)

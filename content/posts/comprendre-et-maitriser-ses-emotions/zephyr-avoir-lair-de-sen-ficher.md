@@ -33,6 +33,8 @@ Sous la table, Zéphyr a pincé le bord de sa fiche au point d’en marquer le c
 
 La façon dont une émotion se voit ou s’entend donne parfois peu d’indications sur ce que la personne éprouve. Zéphyr pensait signifier qu’il avait entendu la limite de budget. Basile croit entendre que le projet ne l’intéresse guère. La différence est concrète : si les tasses repartent en cuisine, les dates ne seront pas discutées et l’atelier perdra du temps.
 
+## Comment cette difficulté se manifeste
+
 L’expression peu visible des émotions fait partie des manifestations possibles du trouble schizotypique. Le guide de la CIM-11 l’inscrit dans un ensemble plus large. On ne peut pas partir du ton d’une réponse pour savoir si une personne tient à ce qu’elle propose, ni pour attribuer sa réserve à un trouble. Basile peut avoir besoin de savoir s’il y a un accord sur le budget. Zéphyr peut vouloir que cette question lui soit posée au lieu d’être réglée d’après sa voix.
 
 ## Reprendre le point avant les tasses
@@ -44,8 +46,3 @@ Dans un accompagnement psychologique, on peut revoir des malentendus fréquents 
 ## Deux dates au procès-verbal
 
 Basile garde le stylo en l’air pendant que Zéphyr précise son accord. Ils comptent ce qu’une seule platine permet et fixent deux samedis d’essai, à un mois d’intervalle, avec trois adultes sur inscription à chaque fois. Maud assurera l’accueil des deux séances ; elle prévient que cela ne vaut pas engagement pour les suivantes. Basile note que les objets du musée ne seront pas manipulés par le public. Zéphyr remet sa fiche dans la pochette de la platine. Sa marque est restée dans le carton, près de la maison. En sortant, il demande à Maud de lui montrer où les trois noms seront inscrits.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Mayo Clinic, schizotypie : évaluation, psychothérapies et accompagnement](https://www.mayoclinic.org/diseases-conditions/schizotypal-personality-disorder/diagnosis-treatment/drc-20353924)

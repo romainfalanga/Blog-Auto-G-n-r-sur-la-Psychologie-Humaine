@@ -92,5 +92,3 @@ L’appartenance sans effacement de soi permet de participer à un groupe sans f
 Demander les règles réelles, choisir une contribution et observer l’accueil d’une différence peuvent soutenir cette démarche. Vous pouvez avoir envie d’être membre d’un collectif et examiner s’il vous convient. La réciprocité n’exige pas une disponibilité illimitée, et un désaccord respectueux peut faire partie d’un lien vivant.
 
 Si la peur de perdre votre place conduit régulièrement à dépasser vos limites, une psychologue ou un autre professionnel peut vous aider à explorer ce qui se joue dans les contextes concernés. Il peut aussi être utile de rechercher des groupes où les règles et les contributions sont discutées plus clairement. Vous n’avez pas à vous rendre indispensable pour mériter une relation.
-
-Sources : [Ryan et Deci, autonomie, compétence et lien dans la théorie de l’autodétermination, 2000](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf).

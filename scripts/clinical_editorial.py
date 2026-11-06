@@ -13,7 +13,7 @@ from urllib.parse import urlsplit
 import yaml
 
 from build_article_intros import HEADING, WORD, normalized, plain_text
-from check_editorial_pack import CATEGORIES, ROOT
+from check_editorial_pack import CATEGORIES, ROOT, SOURCE_BLOCK, title_starts_with_name
 from integrate_editorial_pack import public_page
 
 EDITORIAL = ROOT / 'editorial/clinical'
@@ -22,6 +22,7 @@ CATEGORY, FOLDER = CATEGORIES[CATEGORY_KEY]
 PACK = 'clinical-v17'
 ARTICLE_KEYS = ('number', 'slug', 'title', 'description', 'context', 'topics', 'clinical_focus', 'clinical_intro',
                 'opening', 'sections', 'ending', 'mirror', 'sources', 'continuity')
+SECTION_ROLES = ('explanation', 'manifestations', 'strategies')
 
 
 def read(path):
@@ -52,6 +53,7 @@ def validate_episode(episode, character, number, dossier):
     require(re.fullmatch(re.escape(character['id']) + r'-[a-z0-9]+(?:-[a-z0-9]+)*', str(episode['slug'])), f'Adresse invalide : {label}')
     for key in ('title', 'description', 'context', 'opening', 'ending'):
         require(prose(episode[key]), f'Texte absent ou balise interdite dans {key} : {label}')
+    require(not title_starts_with_name(episode['title'], character['name']), f'Titre à centrer sur le sujet : {label}')
     focus, intro = episode['clinical_focus'], episode['clinical_intro']
     require(prose(focus) and '\n' not in focus and len(focus) <= 95 and 2 <= words(focus) <= 9,
             f'Notion clinique ou psychologique précise requise : {label}')
@@ -64,10 +66,19 @@ def validate_episode(episode, character, number, dossier):
     topics = episode['topics']
     require(isinstance(topics, list) and len(topics) == 3 and all(prose(v) and '\n' not in v and v == v.strip() for v in topics) and len({normalized(v) for v in topics}) == 3, f'Trois repères distincts requis : {label}')
     sections = episode['sections']
-    require(isinstance(sections, list) and len(sections) >= 2 and all(isinstance(s, dict) and prose(s.get('heading')) and '\n' not in s['heading'] and prose(s.get('text')) for s in sections), f'Deux sections éditoriales requises : {label}')
+    require(isinstance(sections, list) and len(sections) == len(SECTION_ROLES)
+            and all(isinstance(section, dict) and section.get('role') == role
+                    and prose(section.get('heading')) and '\n' not in section['heading']
+                    and prose(section.get('text')) and words(section['text']) >= 25
+                    for section, role in zip(sections, SECTION_ROLES)),
+            f'Expliquer, montrer les manifestations, puis proposer des appuis : {label}')
     mirror = episode['mirror']
     require(isinstance(mirror, list) and 1 <= len(mirror) <= 2 and all(prose(p) and '\n' not in p for p in mirror) and 40 <= words(' '.join(mirror)) <= 160, f'Rubrique des proches à revoir : {label}')
-    require(words(' '.join([episode['opening'], episode['ending'], *[s['text'] for s in sections], *mirror])) >= 550, f'Épisode trop court : {label}')
+    passages = [episode['opening'], episode['ending'], *[section['text'] for section in sections], *mirror]
+    require(words(' '.join(passages)) >= 550, f'Épisode trop court : {label}')
+    require(not any(HEADING.search(p) or p.lstrip().startswith('#') or SOURCE_BLOCK.search(p) for p in passages)
+            and not any(SOURCE_BLOCK.search(h) for h in [episode['ending_title'], *[s['heading'] for s in sections]]),
+            f'Intertitres imbriqués ou références dans le récit : {label}')
     refs = episode['sources']
     primary = character.get('primary_reference', 'oms-cddr')
     require(isinstance(refs, list) and len(set(refs)) >= 2 and primary in refs and set(refs) <= set(dossier['references']), f'Sources cliniques non autorisées ou insuffisantes : {label}')
@@ -159,8 +170,6 @@ def arc_outputs(character, manifest, publication, order, evidence):
         body = [episode['opening'].strip()]
         body.extend('## '+s['heading']+'\n\n'+s['text'].strip() for s in episode['sections'])
         body.append('## '+episode['ending_title']+'\n\n'+episode['ending'].strip())
-        refs = [evidence['references'][ref] for ref in dict.fromkeys(episode['sources'])]
-        body.append('## Sources\n\n'+'\n'.join(f'- [{ref["title"]}]({ref["url"]})' for ref in refs))
         outputs[ROOT / 'content' / (identifier+'.md')] = '---\n'+yaml.safe_dump(front,allow_unicode=True,sort_keys=False)+'---\n\n'+'\n\n'.join(body)+'\n'
         rows.append({'episode':number,'category_key':CATEGORY_KEY,'slug':slug,'title':episode['title'],
                      'resume_narratif':episode['clinical_intro']})
@@ -236,6 +245,7 @@ def brief(ident):
         'manifest_fields':['character_id', 'bio', 'profile_topics', 'episodes'],
         'profile_topics_count':5,
         'episode_fields':[*ARTICLE_KEYS, 'ending_title'],
+        'section_roles':SECTION_ROLES,
         'total_episodes':12,
         'continuity':[{'number':e['number'], 'title':e['title'], **e['continuity']} for e in episodes],
         'ready_to_draft':bool(dossier),

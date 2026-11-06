@@ -33,6 +33,8 @@ Ana approche sa main de son accoudoir. Joachim lui souffle qu’il va gagner le 
 
 Une accélération du cœur, une sensation de chaleur ou un étourdissement peuvent accompagner une forte anxiété. Dans l’agoraphobie, des symptômes de panique peuvent apparaître dans les situations que la personne redoute. Pour évaluer un trouble panique, le professionnel s’intéresse entre autres à des attaques inattendues et répétées, aux inquiétudes et aux changements qu’elles entraînent. Les deux tableaux peuvent coexister. Le fait que Joachim ait dû se lever au cinéma apporte un exemple à son suivi, parmi d’autres situations où se pose la question du départ ou de l’aide.
 
+## Comment cette difficulté se manifeste
+
 En consultation, Joachim pourra reprendre l’ordre des événements. Il réfléchissait à la sortie avant de sentir son cœur cogner. Le groupe est arrivé et un passage qu’il pensait facile lui a paru moins praticable. Une personne a déplacé son sac quand il a parlé. Ces détails renseignent sur la peur, les sensations et ce qui s’est réellement passé.
 
 ## S’entendre à l’avance sur la suite
@@ -44,8 +46,3 @@ Pour Louise, l’intérêt de cette scène tient aussi à la question que Joachi
 ## Deux souvenirs de la même séance
 
 Quand le générique se termine, Joachim est encore dans le hall. Il propose à Ana de marcher avec lui jusqu’au carrefour. Elle lui raconte comment le film revient dans la même rue à la fin. Joachim lui parle de la personne qui a ramassé le sac. Il a longtemps imaginé qu’il resterait assis faute de pouvoir demander le passage. Il ajoute ces deux détails à une note pour Louise, puis demande à Ana si elle se souvient de l’ombre qu’on voyait dans le premier plan.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, manifestations de l’agoraphobie](https://www.nhs.uk/mental-health/conditions/agoraphobia/symptoms/)

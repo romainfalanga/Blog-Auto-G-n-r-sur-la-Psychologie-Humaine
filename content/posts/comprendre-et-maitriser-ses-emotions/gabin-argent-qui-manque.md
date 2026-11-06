@@ -32,7 +32,11 @@ Il inscrit un chiffre dans la marge, puis le barre. C’est la somme qu’il vou
 
 ## Reconnaître une tentative de rattrapage
 
-Chercher à regagner au jeu une somme déjà perdue peut prolonger les dépenses et aggraver leurs conséquences. Chez Gabin, l’envie se présente comme un moyen de répondre à une question sur le loyer. Il peut reconnaître la situation en reprenant les faits. La somme manque aujourd’hui et une mise supplémentaire peut créer une nouvelle perte. La difficulté à s’arrêter malgré les conséquences fait partie de ce que les professionnels examinent dans le trouble lié aux jeux d’argent. Un exemple comme cette pause aide le service à comprendre à quel moment l’idée prend de la place.
+Chercher à regagner au jeu une somme déjà perdue peut prolonger les dépenses et aggraver leurs conséquences. Chez Gabin, l’envie se présente comme un moyen de répondre à une question sur le loyer. Il peut reconnaître la situation en reprenant les faits.
+
+## Comment cette difficulté se manifeste
+
+La somme manque aujourd’hui et une mise supplémentaire peut créer une nouvelle perte. La difficulté à s’arrêter malgré les conséquences fait partie de ce que les professionnels examinent dans le trouble lié aux jeux d’argent. Un exemple comme cette pause aide le service à comprendre à quel moment l’idée prend de la place.
 
 ## Sortir la question du loyer du résultat du jeu
 
@@ -41,8 +45,3 @@ Le NICE recommande d’examiner avec la personne ce qui précède les envies de 
 ## Avant de remonter en cuisine
 
 Il range la feuille et laisse au service un message. Il décrit l’envie de rejouer quand il essaye de calculer ce qui manque. Ensuite seulement, il rouvre la conversation avec Nora pour lui proposer le moment qu’ils avaient évoqué. Sur son plateau, le persil a collé au bord de l’assiette. Il retourne au vestiaire et garde le papier avec lui. Le chiffre barré lui servira pour parler de ce qui lui a traversé l’esprit.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG248, repérage et accompagnement des dommages liés aux jeux d’argent](https://www.nice.org.uk/guidance/ng248/chapter/recommendations)

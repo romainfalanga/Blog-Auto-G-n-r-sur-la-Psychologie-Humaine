@@ -31,7 +31,11 @@ Lucie rentre pour chercher les clés de son vélo. Elle voit la pochette à terr
 
 ## Comprendre une baisse qui dépasse la fatigue d’une journée
 
-Le trouble bipolaire de type I peut comporter des épisodes dépressifs. L’évaluation tient compte notamment d’une humeur dépressive ou d’une perte d’intérêt durable, d’autres changements comme le sommeil, l’énergie ou l’appétit, et de leur retentissement. La fatigue après une séance de restauration ne permettrait pas à elle seule de conclure. Ce qui change chez Émilien est aussi ce qui ne lui fait plus envie en dehors du travail, et la difficulté croissante à faire des choses ordinaires depuis plusieurs jours. Il ne doit pas attendre d’avoir la certitude d’être en dépression pour parler de ces changements à son équipe. La consultation sert aussi à examiner d’autres explications possibles.
+Le trouble bipolaire de type I peut comporter des épisodes dépressifs. L’évaluation tient compte notamment d’une humeur dépressive ou d’une perte d’intérêt durable, d’autres changements comme le sommeil, l’énergie ou l’appétit, et de leur retentissement. La fatigue après une séance de restauration ne permettrait pas à elle seule de conclure.
+
+## Comment cette difficulté se manifeste
+
+Ce qui change chez Émilien est aussi ce qui ne lui fait plus envie en dehors du travail, et la difficulté croissante à faire des choses ordinaires depuis plusieurs jours. Il ne doit pas attendre d’avoir la certitude d’être en dépression pour parler de ces changements à son équipe. La consultation sert aussi à examiner d’autres explications possibles.
 
 ## Dire ce qui devient difficile et demander un avis
 
@@ -40,8 +44,3 @@ Le trouble bipolaire de type I peut comporter des épisodes dépressifs. L’év
 ## Une écoute que Dorian peut assurer
 
 Émilien appelle et, quand on lui demande ce qui l’amène, lit l’heure sur le papier qu’il tient. Puis il trouve sa phrase : « Depuis deux semaines, je laisse beaucoup de choses en plan, même celles que j’attendais. » Ils conviennent d’un échange clinique. Il écrit ensuite à Dorian que l’écoute peut se faire sans lui et que l’accord se trouve dans la pochette bleue. Il ne promet pas de reprendre demain. Il laisse la pochette bien visible pour que Dorian puisse la récupérer.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

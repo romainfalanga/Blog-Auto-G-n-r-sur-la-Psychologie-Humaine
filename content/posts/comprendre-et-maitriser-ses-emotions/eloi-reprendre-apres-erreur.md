@@ -90,5 +90,3 @@ Après une erreur, une attente apprise peut préparer à un risque tout en trans
 Vous pouvez distinguer ce que vous prévoyez, les expériences qui nourrissent cette prévision et les faits du présent. Une contre-expérience n'a pas à tout changer pour être utile. Elle peut ouvrir une réponse supplémentaire : signaler clairement, demander un moment adapté et observer ce qui se passe avant de conclure sur toute la relation.
 
 Si les erreurs déclenchent une détresse persistante ou si vous recevez des paroles humiliantes répétées, un professionnel peut vous aider à examiner la situation. Les responsables de la formation ou du travail peuvent également agir sur le cadre des retours. Vous avez le droit d'apprendre à reprendre tout en demandant une manière respectueuse de traiter les difficultés.
-
-Sources : [Bernard Weiner, attributions et attentes après les résultats](https://pubmed.ncbi.nlm.nih.gov/3903815/) ; [Amy Edmondson, sécurité psychologique et apprentissage en équipe](https://doi.org/10.2307/2666999).

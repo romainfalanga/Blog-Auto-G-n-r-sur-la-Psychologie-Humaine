@@ -11,6 +11,8 @@ personnage: "Patrick"
 sujet: "Minimisation de la douleur au travail"
 contexte: "face au vieillissement"
 draft: false
+editorial_sources:
+- https://www.inrs.fr/risques/lombalgies/prevention
 ---
 
 Du premier palier de l’échafaudage, Patrick voit Antoine se préparer à porter des parpaings. Il lui demande d’attendre qu’on vérifie quel matériel est disponible. « Même pour finir la rangée ? » demande Antoine. Patrick répète qu’ils vont attendre et se tourne vers l’échelle avec son sac. Dans le sac, il y a les outils dont il aura besoin pour relever des mesures. Il avait prévu de les avoir en haut avant que les autres soient prêts.
@@ -22,6 +24,8 @@ Patrick se souvient de l’étai qui a ripé le 10 avril. Ce jour-là, lui aussi
 ## Comprendre la minimisation d’une douleur
 
 Minimiser une douleur consiste ici à la traiter comme peu importante avant d’avoir examiné ses effets sur l’activité. Au travail, une gêne qui change la façon de tenir un outil mérite d’être signalée pour que les conditions de la tâche puissent être revues.
+
+## Comment la gêne se voit dans la tâche
 
 Les exigences du poste, le manque de temps et la crainte de renoncer à une tâche appréciée peuvent compter quand Patrick retarde un signalement.
 
@@ -46,8 +50,7 @@ L’INRS souligne le rôle des aides techniques et de l’organisation du travai
 Patrick s’assoit et dit à Antoine qu’il a mal au dos. Antoine demande si le chariot libre est celui du hangar. Ils en parlent avec le collègue chargé du matériel et laissent la manutention en attente tant que la zone et l’équipement ne conviennent pas.
 
 À la pause, Patrick sort le numéro qu’il a déjà laissé plusieurs jours dans sa poche. Cette fois, il appelle. En rentrant, il donne à Catherine la date du rendez-vous. Le dos le gêne toujours pour sortir de la camionnette.
+
 ---
 
 Les mêmes règles de prévention valent pour toute l’équipe. Un symptôme qui gêne le travail peut justifier de consulter un professionnel de santé et de discuter d’un aménagement.
-
-Sources : [INRS, prévention des lombalgies au travail](https://www.inrs.fr/risques/lombalgies/prevention).

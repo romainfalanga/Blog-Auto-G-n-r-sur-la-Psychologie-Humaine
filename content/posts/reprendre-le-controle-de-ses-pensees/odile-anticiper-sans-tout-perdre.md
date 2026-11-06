@@ -1,5 +1,5 @@
 ---
-title: "Odile : anticiper sans vivre toutes les pertes à l’avance"
+title: Anticiper sans vivre toutes les pertes à l’avance
 date: 2026-11-03T09:30:00+00:00
 description: "Un ami envisage de déménager et Odile imagine déjà d’autres absences. Elle cherche une préparation utile qui laisse aussi de la place au présent."
 categories: ["Reprendre le contrôle de ses pensées"]
@@ -74,7 +74,3 @@ Préparer l’avenir peut être utile sans donner accès à une sécurité compl
 Reconnaître cette limite ne signifie pas nier les pertes, le vieillissement ou les contraintes. Certaines situations demandent des démarches importantes et des soutiens matériels. D’autres restent incertaines malgré les efforts. Vous pouvez laisser une place à la crainte et à la peine sans leur demander de prévoir l’ensemble de votre vie. Les liens et les intérêts actuels peuvent compter pendant que des questions restent ouvertes.
 
 Si les inquiétudes occupent durablement vos journées, perturbent votre sommeil ou vous empêchent de faire ce qui vous importe, un médecin, un psychologue ou un autre professionnel peut vous aider à les examiner. Le soutien peut porter sur les pensées répétées et sur les problèmes concrets qui les accompagnent. Il n’exige ni confiance absolue dans l’avenir ni renoncement à la prudence, mais cherche une manière plus vivable de composer avec ce qui peut être préparé et ce qui ne peut pas l’être entièrement.
-
-Sources :
-- [NHS, Problem solving](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)
-- [CCI, Worry and Rumination](https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Worry-and-Rumination)

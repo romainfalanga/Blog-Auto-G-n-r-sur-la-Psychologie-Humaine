@@ -33,6 +33,8 @@ Sonia prend son crayon, puis lui demande ce qu’il voudrait faire de ces deux c
 
 Une consultation peut commencer par une scène ordinaire où l’on voit ce qu’une difficulté change dans la vie. Le fromage manque au marché à la fin de la matinée. Ce qui compte pour Zéphyr, c’est d’y être allé trop tard à force de déplacer son départ. Il peut dire ce qu’il craignait et ce qu’il a fait, même s’il hésite encore sur les intentions des personnes qu’il évitait.
 
+## Comment cette difficulté se manifeste
+
 Son trouble schizotypique est connu depuis plusieurs années. La CIM-11 décrit un ensemble durable de difficultés qui peuvent toucher la manière de parler, d’interpréter ou de percevoir les choses, et les relations. Le professionnel tient compte de la souffrance, du retentissement et des autres explications possibles. Un diagnostic connu peut donner des mots à une partie de ce que Zéphyr traverse. Il laisse ouverte la question de savoir pourquoi un collègue a réagi de telle manière à une réunion.
 
 ## Préparer ce qu’on voudrait pouvoir faire
@@ -44,8 +46,3 @@ Pour la réunion, Zéphyr choisit de demander à recevoir les questions à l’a
 ## Deux lignes sur deux papiers
 
 Sur la convocation, Zéphyr note le numéro du secrétariat que Sonia lui conseille d’appeler si une difficulté change et qu’il ne peut pas attendre leur prochaine séance. Ils conviennent de revenir sur les samedis du marché. Dans le bus, il sort un autre bout de papier, le pose sur la fiche de mécanique et y écrit le message qu’il enverra à Maud : « Tu peux me dire ce que le bureau va devoir trancher ? J’aimerais montrer la platine avant les questions. » Il recopie ces deux phrases sur son téléphone. Il laisse dans la poche le papier avec le numéro du centre.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Mayo Clinic, schizotypie : évaluation, psychothérapies et accompagnement](https://www.mayoclinic.org/diseases-conditions/schizotypal-personality-disorder/diagnosis-treatment/drc-20353924)

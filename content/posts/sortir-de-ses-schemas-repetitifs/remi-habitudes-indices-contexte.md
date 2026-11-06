@@ -90,5 +90,3 @@ Les habitudes se construisent dans des contextes qui rendent certains gestes plu
 Vous pouvez observer une séquence courte et choisir un geste qui répond à un besoin réel. Un indice visible, une action limitée et une solution simple en cas de changement peuvent suffire pour un premier essai. Le rythme de formation d'une habitude varie ; vous n'avez pas à respecter un délai universel ni à transformer chaque écart en échec.
 
 Si les difficultés d'organisation ou les oublis continuent de vous faire souffrir malgré des appuis adaptés, un professionnel peut vous aider à les examiner. Les contraintes matérielles, les horaires et le partage des responsabilités doivent aussi être considérés. Vous avez le droit de chercher des repères soutenables tout en demandant que votre environnement vous laisse réellement les utiliser.
-
-Sources : [Lally et ses collègues, formation d'habitudes dans la vie quotidienne](https://doi.org/10.1002/ejsp.674) ; [Sam Gilbert, usage de rappels extérieurs pour soutenir une intention](https://pubmed.ncbi.nlm.nih.gov/25404057/).

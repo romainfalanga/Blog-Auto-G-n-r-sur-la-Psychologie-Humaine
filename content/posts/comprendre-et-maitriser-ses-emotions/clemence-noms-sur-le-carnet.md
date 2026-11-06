@@ -31,7 +31,11 @@ Baya est restée dehors parce qu’elles doivent se retrouver après. Elle lui a
 
 ## Réunir les éléments du suivi
 
-Un suivi spécialisé de l’anorexie mentale tient ensemble la santé physique, la santé psychique et ce que la personne vit dans son quotidien. Le NICE recommande une prise en charge coordonnée entre les professionnels concernés. Clémence peut leur demander comment ils se répartissent le suivi, de quelle façon ils échangent les éléments utiles et quel contact utiliser entre les rendez-vous. Les professionnels évaluent les signes préoccupants et décident avec elle des suites adaptées. Une question peut leur être adressée même lorsqu’elle ne sait pas comment la nommer. Le projet du ciné-club et les contraintes de ses études peuvent aussi figurer parmi les sujets dont elle veut parler.
+Un suivi spécialisé de l’anorexie mentale tient ensemble la santé physique, la santé psychique et ce que la personne vit dans son quotidien. Le NICE recommande une prise en charge coordonnée entre les professionnels concernés.
+
+## Comment cette difficulté se manifeste
+
+Clémence peut leur demander comment ils se répartissent le suivi, de quelle façon ils échangent les éléments utiles et quel contact utiliser entre les rendez-vous. Les professionnels évaluent les signes préoccupants et décident avec elle des suites adaptées. Une question peut leur être adressée même lorsqu’elle ne sait pas comment la nommer. Le projet du ciné-club et les contraintes de ses études peuvent aussi figurer parmi les sujets dont elle veut parler.
 
 ## Inviter Baya à un moment qu’elles choisissent
 
@@ -40,8 +44,3 @@ Clémence peut souhaiter venir seule à un entretien et retrouver Baya ensuite. 
 ## Au dos de l’invitation
 
 Clémence écrit le contact au dos de l’invitation et demande à qui s’adresser si l’inquiétude ne peut pas attendre. Elle reprend l’information dans ses propres mots avec la personne qui l’a reçue. À la sortie, Baya lui montre une image de sa comédie, prise au moment où deux personnes se croisent près d’un arrêt. Clémence lui propose de marcher vers la bibliothèque. Elle aimerait comprendre ce que Baya voit dans le décor.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG69, repérage et prise en charge des troubles des conduites alimentaires](https://www.nice.org.uk/guidance/ng69/chapter/recommendations)

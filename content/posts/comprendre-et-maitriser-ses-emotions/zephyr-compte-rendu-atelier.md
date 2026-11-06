@@ -33,6 +33,8 @@ Maud revient du hall avec deux tasses. Elle lui explique que Mounir, un bénévo
 
 On peut avoir une raison précise de se sentir exposé sans savoir ce que les autres feront de l’information. Dans ce bureau, Maud a parlé de Zéphyr au lieu de raconter ce qui est arrivé à l’entrée. Cette maladresse mérite une réponse. La crainte qu’on décide désormais de tout sans lui ne se vérifie pas dans la phrase de Maud. Les deux choses peuvent être abordées séparément.
 
+## Comment cette difficulté se manifeste
+
 Une méfiance persistante peut faire partie du trouble schizotypique. L’évaluation clinique s’appuie sur la situation de la personne et sur ce qui se répète dans sa vie. Le diagnostic de Zéphyr ne retire rien à sa possibilité de critiquer un compte rendu. Ce jour-là, il demande un changement précis : décrire l’incident et les besoins d’organisation sans lui coller une définition.
 
 ## Écrire l’incident et l’accord
@@ -44,8 +46,3 @@ Si Zéphyr veut qu’un proche participe un jour à un entretien de soin, il pou
 ## La flèche revient dans la phrase
 
 Maud remplace sa phrase par « La flèche a conduit un groupe de la visite générale à l’atelier. L’essai a été interrompu. » Zéphyr ajoute qu’il veut faire confirmer les inscriptions au hall. Il accepte qu’elle dise à Mounir qu’elle avait mal décrit l’incident et qu’ils changent l’accueil. Elle s’en excuse sans lui demander d’oublier la première version. Aux trois inscrits, ils envoient seulement que la séance s’est arrêtée et que le musée confirmera l’organisation du deuxième samedi. Zéphyr garde un œil sur la ligne jusqu’à ce que Maud ferme le document. Il sait ce qu’il a relu avec elle ; le reste n’est pas réglé d’un clic.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Mayo Clinic, schizotypie : évaluation, psychothérapies et accompagnement](https://www.mayoclinic.org/diseases-conditions/schizotypal-personality-disorder/diagnosis-treatment/drc-20353924)

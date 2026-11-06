@@ -32,18 +32,18 @@ Lila ouvre la bouche. Victoire se prépare à entendre qu’on ne l’aurait jam
 
 ## L’anticipation du regard peut entretenir le secret
 
-La honte peut conduire à taire un épisode ou à organiser sa journée pour que personne ne voie sa détresse. Une personne peut tenir ses engagements avec un effort considérable et s’attendre à être jugée si elle raconte ce que cela lui coûte. Dire le nom du trouble peut alors représenter un risque relationnel. Victoire craint que Lila examine chaque geste au repas et change de sujet lorsqu’elles auraient parlé du rallye. Les recommandations de la HAS invitent à écouter la souffrance, à accorder de l’attention à la façon d’en parler et à tenir compte du rôle choisi pour l’entourage. La silhouette de Victoire ne renseigne pas Lila sur ce qui se passe. Lila peut prendre au sérieux les mots que son amie décide de lui confier.
+La honte peut conduire à taire un épisode ou à organiser sa journée pour que personne ne voie sa détresse. Une personne peut tenir ses engagements avec un effort considérable et s’attendre à être jugée si elle raconte ce que cela lui coûte. Dire le nom du trouble peut alors représenter un risque relationnel.
+
+## La peur de voir les rencontres changer
+
+Victoire craint que Lila examine chaque geste au repas et change de sujet lorsqu’elles auraient parlé du rallye. Elle a écrit le nom du trouble sur un papier pour arriver à le dire. Quand Lila s’apprête à répondre, Victoire s’attend à entendre qu’on ne l’aurait jamais deviné. Sa silhouette et le fait qu’elle arrive à travailler donnent peu d’accès à la honte qu’elle éprouve après une crise.
 
 ## Trouver un accord que les deux personnes peuvent tenir
 
 Une confidence peut servir à obtenir un changement très concret dans la relation. Victoire veut retrouver des conversations où sa présence compte pour des raisons ordinaires. Elle peut préciser que la confidence lui appartient et indiquer ce qu’elle voudrait si le groupe commence à commenter les corps. Lila répond qu’elle pourra changer de sujet quand elle est là et qu’elle ne saura pas toujours reconnaître un moment difficile. Cette réponse lui donne une limite et un point d’appui. Les questions sur les soins restent disponibles auprès de l’équipe de Victoire. Si celle-ci souhaite y inviter son amie plus tard, elle pourra en discuter d’abord avec elle et préciser ce qu’elle voudrait partager dans ce cadre.
 
+Les recommandations de la HAS invitent à écouter la souffrance, à accorder de l’attention à la façon d’en parler et à tenir compte du rôle choisi pour l’entourage. Lila peut partir des mots que son amie décide de lui confier.
+
 ## Une phrase qui peut tenir sur un banc
 
 Lila dit qu’elle gardera la conversation entre elles. Elle demande si « on revient au trajet ? » conviendrait quand le groupe parle des silhouettes. Victoire préfère cette phrase à un signe dont il faudrait se rappeler le sens. Elles reviennent à la côte. Sur le plan, Victoire indique l’alternative qui permet de la contourner, puis regarde s’il lui reste assez de temps pour rapporter les clés à Idriss.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et FFAB, Boulimie et hyperphagie boulimique, recommandations de bonne pratique](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique)
-- [Haute Autorité de santé et FFAB, prise en charge pluriprofessionnelle coordonnée](https://www.has-sante.fr/jcms/p_3099804/fr/prise-en-charge-pluriprofessionnelle-coordonnee-fiche-outil)

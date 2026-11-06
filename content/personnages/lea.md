@@ -21,7 +21,7 @@ draft: false
     <p class="parcours-resume">Léa attend Zoé à la terrasse près de la fac. Elle a laissé la chaise d’en face libre et se demande maintenant s’il faut lui envoyer un message. À la fête, la veille, elle avait commencé à raconter quelque chose.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Léa attend Zoé à la terrasse près de la fac. Elle a laissé la chaise d’en face libre et se demande maintenant s’il faut lui envoyer un message. À la fête, la veille, elle avait commencé à raconter quelque chose.</p>
+      <p>Léa décrit la conversation interrompue pendant la fête, puis dit à Zoé la phrase qu’elle n’avait pas pu terminer.</p>
     </div>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/rejet-societe-interactions-sociales/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

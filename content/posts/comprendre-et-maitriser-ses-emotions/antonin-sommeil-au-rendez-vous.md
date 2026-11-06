@@ -33,6 +33,8 @@ Son médecin l’appelle. Antonin glisse le ticket et la feuille dans la même p
 
 Un sommeil perturbé peut accompagner l’anxiété généralisée et peser sur les journées suivantes. Le médecin regarde avec la personne à quel moment les difficultés surviennent, ce qui les accompagne et leur effet sur les activités. D’autres problèmes de santé ou circonstances peuvent aussi compter. Antonin peut décrire ses réveils, les pensées dont il se souvient et les conséquences qu’il remarque au travail ou au billard. Ces éléments renseignent le suivi sans exiger un relevé complet de toutes les nuits.
 
+## Comment cette difficulté se manifeste
+
 Dans cette consultation, le médecin s’intéresse aussi aux appuis déjà essayés. Antonin raconte le mardi où Eva a pris les appels et le temps qu’il a eu pour déposer son vélo. Ce résultat lui importe même si ses nuits restent difficiles. Il pourra dire ce qu’il a trouvé possible et ce qu’il aimerait travailler avec une aide plus structurée.
 
 ## Décider d’une étape de soin avec le médecin
@@ -44,8 +46,3 @@ Antonin demande comment accéder à un accompagnement psychologique et ce qu’i
 ## Le rendez-vous suivant dans l’agenda
 
 Ils conviennent d’un nouveau point et le médecin explique les possibilités d’accompagnement à examiner. Antonin inscrit la date dans son agenda. En sortant, il retrouve le ticket et écrit au dos le prénom du joueur qui leur avait prêté sa craie quand la leur s’était émiettée. Au même moment, Eva laisse un message. Le fournisseur de la porte du local doit revoir sa date de livraison. Antonin note l’heure à laquelle il lui répondra après être arrivé à l’école.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

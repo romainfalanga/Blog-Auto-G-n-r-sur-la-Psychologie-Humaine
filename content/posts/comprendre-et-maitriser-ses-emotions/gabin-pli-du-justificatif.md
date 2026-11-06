@@ -30,19 +30,22 @@ La personne qui le reçoit lui demande ce qui est le plus pressé. Gabin commenc
 
 Gabin voudrait repartir avec une phrase qui tienne dans un message. La conseillère lui demande ce qui est déjà versé, ce qu’il peut encore confirmer et ce qui manque. Il lui montre le pli. Il sait répondre aux deux premières questions. Pour la troisième, il faut vérifier que les sommes ne sont pas comptées deux fois. Il regarde de nouveau la liste des ferrures. Sur ce papier, il avait encore gardé l’hypothèse où il achèterait le matériel dès cette semaine.
 
-## Mettre les échéances en face des sommes disponibles
+## Le report d’une démarche après une perte
 
-Remettre les papiers dans sa poche laisse à Gabin un peu de répit. L’échéance, elle, continue d’approcher. Un conseil budgétaire peut aider à faire le point sur les sommes disponibles, les échéances et les difficultés qui demandent un avis spécialisé. Le NICE recommande de proposer, selon la situation, une orientation vers un appui pour les finances, les dettes ou le logement. Gabin apporte ses informations et décide avec la conseillère de ce qu’ils peuvent examiner d’abord. Ils donnent la priorité à ce qui touche le foyer et repèrent ce qui exige encore une vérification. Les achats pour le repas peuvent rester en attente. Un montant espéré, une avance de Nora ou une dépense annulée sans confirmation ne donnent pas les mêmes informations qu’un paiement déjà fait.
+Après des pertes au jeu, certaines conséquences continuent d’occuper la vie quotidienne. Une échéance peut approcher alors même que la personne peine à regarder les documents ou à en parler. Remettre les papiers dans sa poche laisse un peu de répit à Gabin. La dépense commune et le montant qui reste à régler sont toujours là quand il ressort la feuille.
+
+## Ce qui lui est difficile à dire
+
+Gabin prononce facilement le prix des ferrures. Pour parler du loyer, il commence par montrer la date. Le pli masque encore une partie du justificatif et il reprend la liste des chaises dès qu’une somme reste incertaine. À l’atelier, prévoir un achat lui est plus familier que de dire ce qu’il manque pour la dépense commune. À la maison, le même report laisse Nora attendre une information dont elle a besoin.
 
 ## Choisir une transparence qui permet d’agir
+
+Un conseil budgétaire peut aider à faire le point sur les sommes disponibles, les échéances et les difficultés qui demandent un avis spécialisé. Le NICE recommande de proposer, selon la situation, une orientation vers un appui pour les finances, les dettes ou le logement.
+
+Gabin apporte ses informations et décide avec la conseillère de ce qu’ils peuvent examiner d’abord. Ils donnent la priorité à ce qui touche le foyer et repèrent ce qui exige encore une vérification. Les achats pour le repas peuvent rester en attente. Un montant espéré, une avance de Nora ou une dépense annulée sans confirmation ne donnent pas les mêmes informations qu’un paiement déjà fait.
 
 Nora a besoin de savoir quelle part est versée et ce qui reste incertain pour prendre ses décisions. Gabin peut partager cette information sans lui transférer ses accès, ses documents personnels ou la charge de suivre ses dépenses. Il peut proposer un moment précis pour mettre à jour les chiffres et lui demander si ce format lui convient. Nora reste libre de s’informer sur sa propre situation auprès d’un service compétent et de définir ce qu’elle accepte de payer. Leur accord sur les charges garde ses limites, même si Gabin demande par ailleurs un soutien lié au jeu. La conseillère peut leur indiquer où se tourner si le manque met en difficulté une échéance essentielle.
 
 ## Ce qui tient sur une feuille
 
 Gabin repart avec trois lignes qu’il a rédigées lui-même. La première indique ce qu’il verse. La deuxième, ce qui reste à vérifier pour la charge commune. La troisième donne le jour où il fera le point avec Nora. Il photographie ces lignes et range ses autres papiers. Nora lui écrit qu’elle pourra regarder le document après son propre rendez-vous. Gabin prévient ensuite l’atelier qu’il attend avant d’acheter les ferrures. Cette fois, il sait exactement quelle dépense il reporte.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG248, repérage et accompagnement des dommages liés aux jeux d’argent](https://www.nice.org.uk/guidance/ng248/chapter/recommendations)

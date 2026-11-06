@@ -33,6 +33,8 @@ Chloé ouvre son sac pour ranger sa pochette. Meriem calcule combien de jours el
 
 Dans le stress post-traumatique complexe, les difficultés à se sentir proche d’autrui ou à entretenir des liens peuvent durer, y compris quand la personne aimerait garder ces liens. Elles ne prennent pas la même forme chez tout le monde. Avec Chloé, le passage de la table de couture à la table d’un café change la nature de la rencontre pour Meriem. Elle a envie de la compagnie de Chloé et pense en même temps à la manière de disparaître de ses jeudis.
 
+## Comment cette difficulté se manifeste
+
 On peut refuser une invitation par goût, par fatigue ou parce qu’on ne souhaite pas cette proximité. Un refus est une réponse à respecter et ne donne aucun renseignement sûr sur la santé de la personne. Le point important pour Meriem tient à la répétition : elle pense aux liens qu’elle aurait aimé garder et à ces rues qu’elle ne prend plus. Si elle souhaite en parler en séance, elle peut partir d’une de ces pertes, sans faire d’une invitation un examen à réussir.
 
 ## Décider à partir du temps dont on dispose
@@ -44,8 +46,3 @@ Le NICE mentionne que les difficultés relationnelles peuvent demander une atten
 ## Une poche pour le ticket
 
 Chloé veut une tisane. Meriem prend le café dans sa tasse épaisse et met sa veste sur le dossier de la chaise. Chloé sort la pochette pour y ranger son ticket de transport ; elle constate que le ticket entre dans la petite poche jaune. Meriem dit qu’elle a inventé une poche à mètre ruban et que personne ne respecte son travail. Elles rient. Quand il est temps de partir, Chloé enfile son manteau et dit à jeudi. Meriem a eu le temps de finir le café. Elle n’a promis que de rapporter une bobine verte et se réjouit déjà de choisir laquelle.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

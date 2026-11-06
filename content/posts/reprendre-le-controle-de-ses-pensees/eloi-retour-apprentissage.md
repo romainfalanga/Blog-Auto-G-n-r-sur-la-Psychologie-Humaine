@@ -90,5 +90,3 @@ Recevoir un retour devient plus utile quand une remarque se relie à un critère
 Vous pouvez choisir un seul point à observer et demander comment la personne sait qu'elle peut continuer ou qu'elle doit ajuster. Le modèle devient alors une source d'informations plutôt qu'un étalon auquel vous mesurer entièrement. Les appuis matériels, le temps disponible et la qualité des retours restent essentiels pour transformer ces informations en compétences.
 
 Si les difficultés d'apprentissage s'accompagnent d'une détresse persistante, un professionnel peut vous aider à en examiner les causes et les conséquences. Un formateur ou un référent peut aussi intervenir sur les conditions concrètes de transmission. Vous avez le droit d'avoir besoin d'explications et d'essais, même lorsque le métier semble naturel à ceux qui le pratiquent depuis longtemps.
-
-Sources : [John Hattie et Helen Timperley, le pouvoir du retour d’apprentissage](https://doi.org/10.3102/003465430298487) ; [Barry Zimmerman, processus de l’apprentissage autorégulé](https://doi.org/10.1207/s15430421tip4102_2).

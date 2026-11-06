@@ -1,0 +1,557 @@
+{
+  "character_id": "laure",
+  "bio": "Laure a 50 ans. Bibliothécaire en reconversion, elle aide Yasmina à ouvrir une grainothèque dans la bibliothèque du quartier. Elle a un trouble de détresse physique diagnostiqué après une évaluation clinique. Des douleurs et une fatigue persistantes occupent souvent son attention, et les démarches pour trouver de l’aide lui coûtent aussi de l’énergie. Elle veut tenir un créneau d’accueil qui reste faisable les jours difficiles. Avec sa médecin, sa psychologue et Yasmina, elle cherche une organisation souple qui laisse une place aux soins comme aux échanges autour des graines.",
+  "profile_topics": [
+    "Trouble de détresse physique",
+    "Symptômes corporels persistants",
+    "Attention aux sensations",
+    "Retentissement au quotidien",
+    "Suivi coordonné"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "laure-douleur-prend-place",
+      "title": "Symptômes persistants entre deux tiroirs",
+      "description": "Laure veut accueillir les visiteurs de la grainothèque. Avant de promettre un horaire, elle mesure ce que lui coûte une matinée de préparation.",
+      "context": "La salle des retours, un jeudi de septembre avant les premiers essais",
+      "topics": [
+        "Trouble de détresse physique",
+        "Attention aux symptômes",
+        "Retentissement au quotidien"
+      ],
+      "clinical_focus": "Symptômes persistants et attention soutenue",
+      "clinical_intro": "Le trouble de détresse physique associe des symptômes corporels pénibles et persistants, une attention qui reste fortement mobilisée par eux et un retentissement sur la vie quotidienne. Pour Laure, les douleurs et la fatigue comptent en elles-mêmes. L’espace qu’occupent leurs conséquences dans une tâche ordinaire compte aussi. Le diagnostic a déjà été posé par son médecin.",
+      "opening": "Les tiroirs étaient conçus pour des fiches de livres. Celui du haut glisse encore sans bruit, les deux autres penchent vers la droite. Laure les ouvre un par un pour décider où ranger les sachets. Quand elle prend le troisième par les côtés, une douleur familière remonte dans son avant-bras. Elle repose le tiroir sur la table et attend. Une fois assise, elle pense qu’elle pourrait classer les pois et les haricots pendant que la douleur se calme. Elle a travaillé assez longtemps dans cette bibliothèque pour connaître les habitudes des gens qui entrent. Quelqu’un demandera par où commencer. Elle aimerait lui répondre avec un sachet à la main.\n\nYasmina revient du bureau avec une ébauche de planning. « Tu te verrais à l’accueil le samedi ? » Laure demande de répéter. Pendant que Yasmina parlait, elle était en train de comparer son bras à celui de la veille et d’essayer de se souvenir du moment où la fatigue était arrivée. Elle a regardé trois fois le même paquet sans lire son nom. La première phrase qui lui vient est qu’elle pourra sans doute faire la matinée. Elle se rappelle la semaine dernière, où elle avait continué de trier des livres jusqu’à midi avant de rentrer et de laisser ses courses dans le sac jusqu’au soir. Elle retourne l’ébauche vers elle. « On a écrit trois heures. Est-ce qu’on peut tester une heure, avec quelqu’un qui prend la suite ? »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Deux charges dans la même tâche",
+          "text": "Le bras de Laure lui fait mal. Elle doit aussi consacrer de l’attention à la douleur, à sa durée et à ce qu’elle pourrait changer dans la suite de la journée. On voit la différence au moment où elle perd le fil d’une phrase. Elle est toujours à la table, les sachets sont à portée de main, mais une partie du travail se fait désormais dans sa tête. Dans son trouble, cette attention soutenue revient dans plusieurs situations depuis des mois et continue à peser après les explications apportées au cours du suivi."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce qui disparaît du planning",
+          "text": "Si Laure regarde seulement combien de tiroirs sont remplis, elle manque une autre partie de la matinée. Des courses sont reportées, des conversations doivent être reprises et l’horaire proposé se transforme vite en question sur la soirée entière. Le retentissement se voit en suivant ce que Laure voulait faire avant et après sa venue. La Dre Valette connaît cette histoire à travers plusieurs rendez-vous. Une seule matinée de douleur ou un besoin de repos courant apporteraient à eux seuls peu d’informations sur la situation clinique."
+        },
+        {
+          "role": "strategies",
+          "heading": "Donner une durée à un essai",
+          "text": "L’équipe peut fixer l’heure de début et celle du passage de relais avant de mettre un nom sur le planning. Pour Laure, une heure assise, avec les sachets dans un plateau à portée de main, rend la tâche assez précise pour qu’elle puisse décider. Elle pourra ensuite dire ce qui l’a aidée à accueillir quelqu’un et ce qui lui a coûté trop d’énergie. Yasmina saura de son côté quand reprendre la table et pourra prévoir ses propres tâches. Le premier essai sert à obtenir ces informations."
+        }
+      ],
+      "ending_title": "Un trait à dix heures trente",
+      "ending": "Elles trouvent un samedi où Yasmina est disponible. Laure inscrit son nom entre neuf heures trente et dix heures trente, puis tire un trait vertical et laisse Yasmina remplir la case suivante. La partie « déplacer les tiroirs » reste sur une liste à part. En partant, Laure glisse un sachet de pois sur le dessus du plateau pour montrer où elle aimerait commencer. Dans le bus, elle note deux situations à raconter à la Dre Valette mardi. Elle a encore mal au bras. Pour le samedi, elle a maintenant une durée et une personne à qui remettre la table.",
+      "mirror": [
+        "En voyant les trois heures sur l’ébauche, Yasmina peut revenir à ce que Laure propose réellement. « D’accord pour une heure. Je peux être là à dix heures trente. Tu me montres ce dont j’aurai besoin pour reprendre la table ? » Elle indique aussi jusqu’à quand elle peut rester. Elles peuvent organiser le déplacement des tiroirs à part."
+      ],
+      "sources": [
+        "oms-cddr",
+        "keeley-bdd-2023",
+        "nice-douleur-ng193"
+      ],
+      "continuity": {
+        "choice": "Laure inscrit une heure d’essai assise avec passage de relais à Yasmina.",
+        "next": "Elle apporte deux exemples de retentissement au rendez-vous médical de mardi."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "laure-evaluation-et-soins",
+      "title": "Évaluation clinique quand les rendez-vous s’empilent",
+      "description": "Avec la Dre Valette, Laure reprend ses douleurs, leurs effets et ses démarches. Elles conviennent d’un suivi et d’un échange avec sa psychologue.",
+      "context": "Le cabinet de la Dre Valette, le mardi après la préparation des tiroirs",
+      "topics": [
+        "Évaluation médicale",
+        "Affection physique concomitante",
+        "Coordination des soins"
+      ],
+      "clinical_focus": "Évaluation du trouble de détresse physique",
+      "clinical_intro": "L’évaluation du trouble de détresse physique réunit l’histoire des symptômes, la place durable qu’ils occupent dans l’attention et leurs effets sur la vie. Un examen rassurant porte sur les questions précises qu’il a permis d’explorer. Une maladie physique peut aussi expliquer une partie des symptômes et coexister avec ce trouble.",
+      "opening": "Laure étale sur le bureau trois feuilles qui n’ont pas la même taille. Elle sait à quel rendez-vous chacune correspond grâce au nom de la rue imprimé en haut. Quand la Dre Valette lui demande par quoi commencer, elle prend la feuille la plus récente, hésite et ressort le morceau de papier plié derrière sa carte de transport. Dessus, elle a écrit « tiroir, courses ». L’encre a traversé. « Je peux vous raconter les deux ? Ça résume mieux ma semaine. »\n\nElle décrit le bras douloureux, le geste qu’elle faisait et la question de Yasmina qu’elle n’a entendue qu’à moitié. Puis elle raconte les provisions restées dans le sac. La Dre Valette lui demande ce qui était habituel dans ces douleurs et ce qu’elle a ressenti autrement au fil des mois. Elles reprennent aussi un ancien problème de genou, déjà évalué et suivi séparément. Laure se souvient de la phrase prononcée lors d’une consultation antérieure. « On vous a dit que le genou n’expliquait pas l’ensemble de ce que vous ressentiez. Qu’est-ce que vous avez compris à ce moment-là ? » Laure lisse la feuille. « Que je devais repartir avec le reste. »\n\nLa médecin lui demande combien de temps elle a passé à chercher un rendez-vous depuis. Deux demi-journées, dont celle où elle voulait se renseigner sur une formation. En le disant, Laure se rend compte qu’elle ne sait plus laquelle des trois feuilles devait être montrée à quel professionnel. Elle les rapproche pour que les en-têtes soient lisibles.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que l’évaluation a réuni",
+          "text": "La Dre Valette reprend les éléments qui ont permis d’établir le diagnostic. Les douleurs et la fatigue de Laure sont présentes la plupart des jours depuis plusieurs mois. La médecin apprécie si les symptômes continuent à mobiliser une part disproportionnée de son attention au regard de sa situation médicale et des réponses qui lui ont déjà été apportées. Cela gêne des activités importantes. La question du genou montre aussi pourquoi un médecin continue à étudier les problèmes physiques et leurs effets. Un examen répond à la question pour laquelle il a été indiqué. L’évaluation du trouble demande des éléments cliniques positifs, recueillis au fil du temps."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Des démarches qui coûtent du temps",
+          "text": "Les démarches de Laure ont chacune une histoire. Parfois, elle attendait une réponse à une question ouverte. À d’autres moments, elle a repris la même recherche après une explication déjà reçue, avec l’impression qu’il lui fallait recommencer pour pouvoir décider du lendemain. La Dre Valette examine ces situations séparément. Des difficultés d’accès, des consignes peu claires ou un symptôme qui change peuvent donner de bonnes raisons de reprendre contact. La fréquence des rendez-vous, prise seule, ne renseigne guère sur ce dont Laure avait besoin."
+        },
+        {
+          "role": "strategies",
+          "heading": "Fixer qui suit quoi",
+          "text": "Elles conviennent que la Dre Valette garde la vue d’ensemble des examens et des décisions médicales. Nina Perrin, la psychologue de Laure, peut travailler avec elle sur les conséquences au quotidien et la place des symptômes dans son attention. Avant tout échange, elles délimitent ce que Laure accepte de faire circuler entre les deux professionnelles. Elle pourra garder avec elle un résumé des décisions et de la prochaine date. Ce cadre doit lui donner un point de contact, y compris si une plainte se transforme ou apparaît."
+        }
+      ],
+      "ending_title": "Une feuille pour le prochain rendez-vous",
+      "ending": "Laure récupère ses documents. La Dre Valette les lui rend dans le même ordre et lui donne un résumé daté. Elles conviennent d’une prochaine consultation et Laure choisit d’apporter elle-même le premier résumé à Nina Perrin. Elle laisse sur le papier ce qu’elles ont décidé au sujet des suites et glisse les comptes rendus complets dans son sac. Dehors, elle appelle Benoît pour confirmer leur dîner de vendredi. Il lui demande s’il faut avancer la date. « Vendredi est bien. J’aimerais juste qu’on mange chez moi cette fois. »",
+      "mirror": [
+        "Quand Laure lui dit qu’elle préfère dîner chez elle, Benoît peut demander « Qu’est-ce qui te ferait plaisir vendredi ? Je peux apporter le repas. » Il lui laisse le choix du menu et la laisse décider si elle veut revenir sur la consultation. Pour organiser leur soirée, il a seulement besoin de savoir ce qu’il peut préparer et à quelle heure venir."
+      ],
+      "sources": [
+        "oms-cddr",
+        "keeley-bdd-2023",
+        "nice-douleur-ng193"
+      ],
+      "continuity": {
+        "choice": "Laure fixe un suivi avec la Dre Valette et choisit ce qu’elle transmet à Nina.",
+        "next": "Elle dîne chez elle avec Benoît avant la permanence d’essai."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "laure-attention-diner",
+      "title": "Attention corporelle quand le dîner refroidit",
+      "description": "Benoît propose de l’aide. Pour Laure, certaines questions prolongent la surveillance de ses douleurs. Elle lui fait une demande plus précise.",
+      "context": "Chez Laure, le vendredi soir avant le premier accueil",
+      "topics": [
+        "Attention corporelle",
+        "Soutien des proches",
+        "Demandes concrètes"
+      ],
+      "clinical_focus": "Attention corporelle et demande de soutien",
+      "clinical_intro": "Quand des symptômes pénibles occupent beaucoup l’attention, une question bien intentionnée peut relancer une longue vérification. Les proches peuvent demander quelle aide est souhaitée, reconnaître ce qui est difficile et laisser la personne choisir ce qu’elle partage. Cela peut dégager du temps pour la relation, tandis que les soins restent entre les mains des professionnels.",
+      "opening": "Benoît soulève le couvercle et cherche le dessous-de-plat avec la marmite encore entre les mains. Laure lui fait signe vers le rebord de la fenêtre. La soupe arrive sur la table, avec une boîte de croûtons que leur mère utilisait autrefois pour les biscuits. Laure a envie de savoir où il l’a retrouvée. Benoît lui demande d’abord comment va son bras. Elle répond « pareil », puis se demande si c’est exact. En tendant le coude pour couper le pain, elle repère le point qu’elle sentait dans les tiroirs. Il lui paraît un peu plus près du poignet. Elle fait le mouvement une deuxième fois. Quand elle se rassoit, Benoît a commencé à lui raconter une histoire de chaudière et elle a perdu le début.\n\nÀ la troisième question sur ses douleurs, Laure pose son couteau. Elle sait ce qu’il cherche. L’an dernier, il s’était présenté chez elle un samedi en découvrant qu’elle avait annulé une sortie sans lui dire pourquoi. Depuis, il demande tôt et souvent. Cette fois elle essaie de se souvenir de ce qu’elle attendait de ce dîner. « J’ai envie que tu saches que c’est pénible, surtout demain matin. Et j’aimerais choisir quand je t’en parle. » Benoît attend un peu avant de reprendre sa cuillère. « Tu voulais que je t’accompagne demain ? » demande-t-il. Laure imagine le trajet en bus puis le trajet avec lui. Il y a une chose qu’elle préférerait lui demander.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une sensation peut relancer une comparaison",
+          "text": "Pour répondre honnêtement, Laure essaie de retrouver la sensation précédente et de décider si celle du moment a changé. Une douleur persistante peut revenir au premier plan de cette façon. Chez elle, la comparaison se poursuit parfois longtemps et repousse la conversation, le repas ou le choix d’une activité. Observer un changement peut aider dans un suivi médical. Le travail consiste ici à reconnaître quand l’attention est déjà accaparée par une comparaison répétée autour d’une plainte familière. Laure connaît cette difficulté dans bien d’autres situations que ce dîner."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Les deux personnes attendent une réponse",
+          "text": "Benoît espère repérer à quel moment sa sœur a besoin de lui. Laure essaie de lui fournir une réponse assez précise pour être comprise. Il entend une hésitation et pose la question suivante. Elle prend cette question comme un signal pour vérifier à nouveau. Ils peuvent ainsi recommencer plusieurs fois dans le même repas. Le projet du samedi devient difficile à aborder parce qu’il semble d’abord leur falloir connaître la sensation exacte du vendredi. Dans les faits, Benoît pourrait aider pour un détail du trajet même si le lendemain reste incertain."
+        },
+        {
+          "role": "strategies",
+          "heading": "Choisir ce qui peut être demandé",
+          "text": "Laure peut convenir avec son frère qu’elle ouvrira elle-même la discussion sur ses symptômes quand elle en aura besoin. Pour demain, elle aimerait un retour en voiture après le relais, s’il est disponible. Benoît peut dire à quelle heure et où il pourra venir. Ils se donnent alors un accord qui peut être tenu par chacun. Les questions qui touchent à une modification de symptômes ont leur place dans le plan discuté avec la Dre Valette. Pour ce soir, ils ont encore le temps de finir le repas ensemble."
+        }
+      ],
+      "ending_title": "Le rendez-vous sous l’horloge",
+      "ending": "Benoît pourra passer à dix heures quarante devant la bibliothèque. Laure lui donne le nom de la place pour qu’il évite de tourner dans la rue barrée. Elle lui dit qu’elle l’appellera si l’heure change. Puis elle attrape le bord de la boîte de croûtons. « Tu l’as retrouvée où, celle-là ? » Benoît lui parle d’un placard qui n’a pas été vidé depuis le déménagement. Le matin, en préparant son sac, elle pose le résumé pour Nina à côté du planning et choisit de prendre la fiche où elle a dessiné le parcours des graines.",
+      "mirror": [
+        "Benoît entend que les questions sur la douleur prennent de la place au dîner. Il peut répondre « Je te retrouve sous l’horloge à dix heures quarante. Je te laisse me dire si tu veux reparler de ton bras. » L’heure et le lieu lui permettent de prévoir aussi ses courses. Il peut ensuite reprendre leur conversation sur la boîte de croûtons."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-douleur-ng193"
+      ],
+      "continuity": {
+        "choice": "Laure demande à Benoît un retour en voiture après le relais et garde l’initiative des échanges sur ses symptômes.",
+        "next": "Elle teste le créneau de neuf heures trente avec Yasmina."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "laure-premier-accueil",
+      "title": "Fatigue et attention lors du premier accueil",
+      "description": "Laure teste un créneau d’une heure. Un visiteur arrive à la fin de son service et l’oblige à donner une forme concrète au passage de relais.",
+      "context": "La grainothèque, le samedi matin de la première permanence d’essai",
+      "topics": [
+        "Fatigue persistante",
+        "Retentissement attentionnel",
+        "Passage de relais"
+      ],
+      "clinical_focus": "Retentissement de la fatigue sur l’attention",
+      "clinical_intro": "La fatigue peut compliquer une activité qui plaît, surtout quand une partie de l’attention reste prise par les symptômes et leurs suites possibles. La première permanence permet à Laure de distinguer ce qu’elle fait avec plaisir, les difficultés qui apparaissent et les décisions que le dispositif d’accueil peut prendre en charge.",
+      "opening": "La fiche de Laure tient debout contre un pot de crayons. Elle a dessiné un grand sachet et deux flèches, une pour emprunter les graines, l’autre pour en redonner après la récolte quand c’est possible. À neuf heures cinquante, une dame en manteau de pluie lit la fiche depuis le couloir. Laure la salue et la dame s’approche. Elle a un balcon qui reçoit du soleil le matin et veut essayer autre chose que des géraniums. Laure pose deux sachets sur la table et lui demande ce qu’elle aime cuisiner. La conversation se poursuit jusqu’au moment de choisir. Une fois la porte refermée, Laure doit relire les étiquettes pour se rappeler laquelle elles ont prise. Ses épaules tirent et elle se surprend à calculer le temps qui lui reste avant de pouvoir rentrer.\n\nYasmina arrive comme prévu avec le cahier de présence. Un homme se présente au moment où Laure veut lui expliquer comment elles ont noté les emprunts. Il tient un bocal de graines sans nom. Laure sait qu’il faudra comprendre ce qu’il a récolté et quand. Elle ouvre la bouche pour l’inviter à s’asseoir, puis regarde l’horloge. La question qui la retient n’est plus de savoir à quoi correspondent les graines. Si elle commence l’entretien, pourra-t-elle l’interrompre ? Yasmina ouvre le cahier à la page du jour et pousse la deuxième chaise vers elle.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La fin d’une tâche prend aussi de l’attention",
+          "text": "Accueillir la première visiteuse, retrouver les sachets et tenir l’horaire demandent des efforts distincts. Pendant un moment, Laure écoute et choisit des graines avec plaisir. Entre deux visites, les sensations pénibles reprennent de la place et l’amènent à anticiper la suite du samedi. La difficulté se lit dans la transition. Laure a les informations utiles pour la personne suivante et peine à décider si elle doit engager un nouvel échange. Dans le suivi, elle pourra raconter ce changement au lieu de résumer l’heure en disant qu’elle a tenu."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le visiteur arrive pendant le relais",
+          "text": "Le planning indiquait deux heures de prise de poste et deux noms. Il restait à définir ce qui se passe quand la dernière minute est occupée. Laure a longtemps associé le fait de bien recevoir quelqu’un à l’idée de le suivre jusqu’au bout. Comme elle se sent déjà fatiguée, la perspective d’une conversation de durée inconnue ramène son attention sur ce qu’elle pourrait payer plus tard. Elle ne sait plus si elle choisit l’accueil ou si elle promet le reste de sa matinée. Yasmina peut réduire cette ambiguïté en se présentant tout de suite au visiteur."
+        },
+        {
+          "role": "strategies",
+          "heading": "Transmettre la question et le matériel",
+          "text": "Un passage de relais court suffit dans ce cas. Laure peut décrire ce qui vient d’arriver et laisser Yasmina se présenter. Elle peut aussi signaler où se trouvent les sachets à donner et les bocaux encore à identifier. La répartition porte sur des actions que chacune peut prendre en charge. Elle tient compte de la fatigue et se prépare les jours faciles aussi. Pour le prochain essai, Laure proposera de poser le cahier entre les deux personnes avant le changement de créneau."
+        }
+      ],
+      "ending_title": "Le bocal change de côté",
+      "ending": "« Monsieur apporte des graines dont il a perdu le nom. Je lui laisse le bocal ici et tu vois avec lui où les mettre ? » Yasmina confirme et invite l’homme à lui parler du potager. Laure prend son manteau, glisse sa fiche sous le cahier et retrouve Benoît sous l’horloge. Dans la voiture, elle dit qu’une personne est repartie avec de la ciboulette. Puis elle décrit à voix haute le moment où elle a cessé d’écouter son propre échange pour calculer son retour. Elle voudrait s’en souvenir au rendez-vous avec Nina.",
+      "mirror": [
+        "Quand Laure lui confie le bocal, Yasmina peut se tourner vers le visiteur et dire « Je prends la suite. Vous vous souvenez de la plante sur laquelle vous avez récolté ces graines ? » Elle garde le bocal et le cahier près d’elle. La conversation peut continuer avec le visiteur et Laure peut quitter la table à l’heure prévue."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-douleur-ng193"
+      ],
+      "continuity": {
+        "choice": "Laure transmet le bocal et quitte la permanence à l’heure fixée.",
+        "next": "Elle revient avec Nina sur le calcul de la suite de sa journée au milieu de l’accueil."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "laure-crainte-et-symptomes",
+      "title": "Crainte de maladie et poids des symptômes",
+      "description": "Chez Nina Perrin, Laure distingue la peur de la suite de sa journée et celle d’avoir une maladie grave. Elle choisit une scène précise à reprendre.",
+      "context": "Le cabinet de Nina Perrin, la semaine suivant le premier essai",
+      "topics": [
+        "Détresse physique",
+        "Crainte persistante de maladie",
+        "Impact des symptômes"
+      ],
+      "clinical_focus": "Symptômes vécus et crainte de maladie",
+      "clinical_intro": "Dans le trouble de détresse physique, les symptômes ressentis et leurs conséquences occupent le premier plan. Dans l’hypocondrie, au sens de la CIM-11, c’est la crainte ou la préoccupation persistante d’avoir une maladie grave qui domine. Une inquiétude pour sa santé peut accompagner les deux. Les professionnels examinent son rôle sur la durée.",
+      "opening": "Dans le cabinet, le fauteuil près de la fenêtre est plus bas que Laure ne se le rappelle. Elle choisit la chaise droite et pose son sac par terre entre ses pieds. Elle sort le résumé de la Dre Valette et le garde devant elle quelques secondes. « On a parlé du genou et de tout ce que je rapporte d’un rendez-vous à l’autre. Je voudrais qu’on garde la date du prochain, mais je peux vous raconter ce qui s’est passé à la bibliothèque. » Nina prend le temps de lui demander ce qu’elle veut laisser de côté dans le document. Laure lui montre le passage où figurent les suites convenues.\n\nElle raconte la dame au balcon, puis le bocal posé trop près de son départ. En passant d’un souvenir à l’autre, elle retrouve le moment où elle regardait la pendule. « Quand vous vous demandiez si vous pourriez recevoir ce monsieur, qu’est-ce qui vous inquiétait le plus ? » Laure pensait au déjeuner à préparer et à la fatigue du soir. Elle avait aussi voulu que la douleur s’arrête assez longtemps pour savoir ce qui était possible. D’autres jours, elle s’était demandé si une maladie lui échappait. En parlant, elle remarque que les deux phrases ont des suites différentes. Elle peut dire de la première qu’elle lui a fait laisser le bocal à Yasmina. Elle cherche encore ce qu’elle avait fait, la dernière fois, de sa crainte d’être malade.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Reconnaître ce autour de quoi la crainte s’organise",
+          "text": "La distinction porte sur l’ensemble de l’histoire. Dans le trouble de détresse physique, les symptômes pénibles et leurs effets prennent une place durable. Une personne peut également se demander s’ils indiquent une maladie. Dans l’hypocondrie telle que la CIM-11 la décrit, c’est la peur durable d’avoir une maladie grave qui organise la préoccupation. Des sensations corporelles peuvent être présentes dans cette autre situation. La question posée par Nina aide à préciser ce qui compte pour Laure dans une scène, puis à le replacer dans le suivi déjà en cours."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Suivre la question jusqu’à ce qu’elle change",
+          "text": "À la bibliothèque, Laure se demande comment elle terminera la journée avec la fatigue qu’elle connaît. L’estimation devient longue et vient au milieu d’un échange. Un autre jour, elle s’était inquiétée d’une maladie en lisant le résultat d’un examen et voulait que la Dre Valette lui en explique un terme. Dans les deux cas, elle a quelque chose à dire sur son corps. Pour les comprendre, il faut demander ce qu’elle cherchait à obtenir, le temps que cela lui a pris et ce qui s’est passé ensuite. Un énoncé isolé donne peu d’éléments."
+        },
+        {
+          "role": "strategies",
+          "heading": "Se rappeler un exemple entier",
+          "text": "Nina lui propose de retenir une seule situation entre deux consultations, avec ce qu’elle faisait avant que l’attention se fixe et ce qu’elle a pu choisir ensuite. Laure préfère la raconter après coup, quand elle peut se souvenir de la tâche et de la personne présente. Elles conviennent que les nouvelles plaintes seront abordées dans le cadre médical prévu. La psychologue aidera Laure à travailler sur les conséquences pour sa vie et sur ses décisions. Elles gardent assez de souplesse pour renoncer à la note si la chercher prend toute la place."
+        }
+      ],
+      "ending_title": "La visiteuse au balcon",
+      "ending": "Laure choisit de parler au prochain rendez-vous d’une minute pendant laquelle elle a hésité entre préparer le déjeuner et relire ses notes médicales. Elle reprend le papier de la Dre Valette et confirme à Nina qu’un échange bref sur leurs objectifs lui convient. Dehors, son téléphone indique un message de Yasmina. La dame au balcon a demandé à quelle heure revenir pour montrer une photo de ses pots. Laure a envie de l’accueillir. Elle répond qu’elle peut se libérer pour un deuxième essai si le planning inclut le même relais.",
+      "mirror": [
+        "Si Laure lui raconte qu’elle a passé la dernière minute à calculer le reste de son samedi, Benoît peut demander « Qu’est-ce qui t’aurait aidée au moment où le monsieur est arrivé ? » Il peut l’écouter expliquer son besoin d’un relais clair. Si elle souhaite parler d’une crainte liée à sa santé, il lui laisse le temps de dire ce qu’elle aimerait reprendre avec ses soignantes."
+      ],
+      "sources": [
+        "oms-cddr",
+        "keeley-bdd-2023",
+        "nice-douleur-ng193"
+      ],
+      "continuity": {
+        "choice": "Laure et Nina choisissent d’examiner une situation concrète après coup et de garder les questions médicales dans le suivi prévu.",
+        "next": "Laure confirme le principe du relais pour un deuxième essai."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "laure-planifier-avec-fatigue",
+      "title": "Fluctuation des symptômes au prochain essai",
+      "description": "Laure se réveille plus fatiguée. Elle cherche comment garder une tâche utile à la grainothèque tout en laissant à Yasmina sa propre marge.",
+      "context": "Le deuxième samedi d’essai, de la cuisine de Laure à la table des graines",
+      "topics": [
+        "Fluctuation des symptômes",
+        "Ajustement des activités",
+        "Partage des tâches"
+      ],
+      "clinical_focus": "Fluctuation et décisions au quotidien",
+      "clinical_intro": "Les symptômes persistants peuvent fluctuer et rendre les décisions difficiles à anticiper. Un créneau ajustable permet à Laure de tenir compte de la fatigue, de la disponibilité de Yasmina et du reste de sa journée. L’essai porte sur une organisation concrète. La qualité de sa participation se lit aussi dans ce qu’elle choisit de faire.",
+      "opening": "Le téléphone vibre au moment où Laure retourne une tartine tombée sur le côté. La dame au balcon viendra avec ses photos, écrit Yasmina. Laure pose le téléphone et reste debout un moment près de l’évier. Ses épaules et ses bras lui font mal comme lors d’autres matinées, avec cette fatigue qui lui fait repousser le moment de préparer son sac. Elle pense au sac avec ses fiches et au trajet jusqu’à l’arrêt. Puis elle pense à tout le samedi. Il est encore tôt et elle est déjà en train de décider qu’elle mangera seule le soir. Elle prend le café et s’assoit avant d’écrire à qui que ce soit.\n\nSur le planning, son nom est au début du créneau. Elle pourrait envoyer un seul message pour annuler et se rendormir. Elle pourrait aussi se rendre à la bibliothèque comme la dernière fois et laisser Yasmina découvrir sur place qu’elle aura du mal à tenir le début. Elle appelle pour demander ce que Yasmina a prévu avant dix heures. « Je dois préparer les retours. Si tu arrives un quart d’heure plus tard, je peux laisser le premier lot au bureau. » Laure regarde son sac. La dame voulait une réponse sur la profondeur des pots. Pour l’aider, elle a besoin de sa fiche et d’un stylo. Les tiroirs sont déjà en place depuis jeudi.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Réfléchir à une durée à la fois",
+          "text": "Le réveil difficile fait exister dans la même minute la permanence, le trajet et la soirée. Cette anticipation peut occuper Laure alors qu’elle aurait besoin de choisir seulement ce qu’elle prend dans son sac. Ses sensations lui donnent des informations sur ses capacités du moment. Elle gagne à préciser quelle décision s’impose maintenant et lesquelles pourront attendre. La fluctuation, fréquente dans les douleurs persistantes, laisse une part d’incertitude. Une adaptation testée au cas par cas permet de tenir compte des symptômes sans devoir connaître toute la journée à l’avance."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Des contraintes différentes autour de la table",
+          "text": "Le changement que Laure envisage aura aussi un effet sur le temps de Yasmina. Quand Laure lui demande comment elle a organisé les retours, elles découvrent une possibilité qu’aucune n’avait formulée sur le planning. Ouvrir quinze minutes plus tard laisse l’accueil possible avec la tâche déjà préparée. À l’inverse, déplacer l’horaire d’une heure demanderait une autre personne ou un avis aux visiteurs. Les difficultés de Laure prennent donc un relief différent suivant l’organisation. Cette donnée compte quand elle et sa psychologue examinent le retentissement du trouble."
+        },
+        {
+          "role": "strategies",
+          "heading": "Convenir d’un début plus court",
+          "text": "Laure et Yasmina se fixent un horaire précis, une manière d’afficher le changement et le même passage de relais. Laure restera assise à l’accueil. Yasmina préparera le plateau de graines en même temps que l’ouverture de la salle, dans la limite de ce qui est déjà prêt. Si le trajet coûte trop à Laure, elle peut encore choisir de faire couvrir l’accueil ou de reporter sa participation. Plus tard, elles pourront vérifier si le quart d’heure a aidé et si le déplacement de tâches reste acceptable pour chacune."
+        }
+      ],
+      "ending_title": "La hauteur du pot",
+      "ending": "Yasmina a affiché le changement à l’entrée. Laure arrive à neuf heures quarante-cinq. La dame au balcon déplie une photo où un pot dépasse à peine le bord d’une table. Laure pose son index sur la soucoupe et lui demande si elle peut mesurer la profondeur chez elle. Elles choisissent un sachet à essayer. À dix heures trente, Laure pousse le cahier vers Yasmina et s’en va comme prévu. Son bras lui fait encore mal, et le fait d’avoir pu finir l’échange lui plaît. Dans le couloir, Yasmina lui montre la date du prochain samedi et lui propose une revue du planning après la permanence.",
+      "mirror": [
+        "Au téléphone, Yasmina peut préciser le temps qu’elle a devant elle. « Je peux laisser le premier lot au bureau et afficher l’ouverture à neuf heures quarante-cinq. Est-ce que cet horaire te convient ? » Elle garde la possibilité de dire quand un décalage plus long demanderait un autre relais. Laure peut alors convenir avec elle de ce que chacune prend en charge."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-douleur-ng193"
+      ],
+      "continuity": {
+        "choice": "Laure et Yasmina décalent le début de quinze minutes et gardent un relais à dix heures trente.",
+        "next": "Elles prévoient de revoir le dispositif après une nouvelle permanence."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "laure-plainte-nouvelle",
+      "title": "Évaluation urgente devant une douleur nouvelle",
+      "description": "Une oppression thoracique apparaît pendant la permanence. Laure décrit à Yasmina ce qui est nouveau et l’équipe fait intervenir les secours.",
+      "context": "La grainothèque, vers la fin de la troisième permanence d’essai",
+      "topics": [
+        "Symptôme nouveau",
+        "Évaluation médicale urgente",
+        "Coordination de l’équipe"
+      ],
+      "clinical_focus": "Évaluation d’un symptôme corporel nouveau",
+      "clinical_intro": "Une personne suivie pour un trouble de détresse physique peut présenter un nouveau problème de santé. Les professionnels évaluent une plainte nouvelle selon ses caractéristiques et le contexte. Pour Laure, une oppression thoracique soudaine avec essoufflement justifie de solliciter les secours immédiatement. Son diagnostic antérieur reste une information dans l’évaluation.",
+      "opening": "Laure a préparé la feuille où elles noteront les horaires avant de partir déjeuner. Elle l’a glissée sous le registre pour qu’elle ne traîne pas quand les visiteurs s’approchent. Les échanges sont espacés ce matin. Elle a le temps de demander à Yasmina quel jour arrive le prochain don de sachets, puis de prêter son feutre à un homme qui veut inscrire un nom de variété. Elle retrouve la fatigue qui s’installe d’habitude vers la fin de la permanence. Elle tourne un peu sa chaise pour poser le coude.\n\nC’est en demandant si le capuchon a été remis qu’elle sent la poitrine se serrer brusquement. Elle essaie de finir la phrase. Elle manque d’air et a chaud au visage, puis sent la sueur sur son front. L’homme a déjà rendu le feutre. Yasmina la voit se tenir à la table et s’approche. « Ça serre ici. Je respire mal », dit Laure en montrant sa poitrine. Elle veut expliquer la différence et arrive à dire seulement que cela vient de commencer. Yasmina appelle le 15 tout de suite. Elle indique l’adresse de la bibliothèque, l’accès le plus proche et ce que Laure vient de lui dire. L’homme va chercher une collègue pour dégager l’entrée et accueillir les secours. Laure reste avec Yasmina, qui lui passe les questions du médecin régulateur et suit ses consignes.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La nouveauté compte dans l’évaluation",
+          "text": "Les douleurs et la fatigue qui durent ont déjà fait l’objet d’une évaluation. Laure vit à présent quelque chose de différent, avec une apparition brusque, une oppression thoracique et une difficulté à respirer. Ces signes demandent une évaluation urgente. Le trouble de détresse physique peut coexister avec d’autres affections. L’équipe de soins s’appuie sur les caractéristiques de l’épisode qui vient d’arriver et tient compte de l’histoire médicale dans son ensemble. Elle décidera des examens indiqués après avoir écouté et évalué Laure."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Les mots utiles au moment d’appeler",
+          "text": "Yasmina peut rapporter ce qu’elle a observé et ce que Laure est en mesure de lui dire. Le début est soudain, la poitrine serre, le souffle manque et les sueurs sont apparues. Elle donne aussi l’adresse et l’accès. Ces renseignements permettent au médecin régulateur de préciser la situation et de guider les personnes sur place. Laure n’a besoin ni de raconter tous les examens passés ni de formuler elle-même une explication. Quand un détail manque, Yasmina dit ce qu’elle sait, puis laisse la place aux questions."
+        },
+        {
+          "role": "strategies",
+          "heading": "Partager les tâches pendant les secours",
+          "text": "En France, une douleur thoracique accompagnée de signes de ce type conduit à appeler immédiatement le 15 ou le 112 et à suivre les consignes données. Dans la bibliothèque, Yasmina reste disponible au téléphone, tandis qu’une collègue assure l’accès et s’occupe des personnes venues échanger des graines. Quand les secours prennent le relais, Laure leur décrit l’épisode comme elle l’a vécu. Elle peut aussi préciser ses antécédents s’ils lui sont demandés. Le planning de la grainothèque sera revu une autre fois."
+        }
+      ],
+      "ending_title": "La feuille reste sous le registre",
+      "ending": "Les secours conduisent Laure pour l’évaluation indiquée. Au moment où l’équipe lui remet les consignes et le compte rendu, Laure demande à Benoît de l’aider pour le trajet de retour. Depuis la bibliothèque, Yasmina propose par message de repousser leur point sur les horaires. Laure lui répond chez elle, le soir, qu’elle le souhaite aussi. Elle envoie le compte rendu à la Dre Valette par le canal convenu au cabinet, puis demande un rendez-vous pour reprendre ensemble ce qui s’est passé.",
+      "mirror": [
+        "En entendant Laure dire que sa poitrine serre et qu’elle respire mal, Yasmina appelle immédiatement le 15. Elle indique l’adresse, l’accès et les faits. « La douleur a commencé d’un coup. Elle me dit que ça serre la poitrine et qu’elle manque d’air. » Yasmina répond aux questions du médecin régulateur et suit ses consignes. Elle laisse une collègue dégager l’entrée pour les secours."
+      ],
+      "sources": [
+        "oms-cddr",
+        "ameli-douleur-thoracique",
+        "nice-douleur-ng193"
+      ],
+      "continuity": {
+        "choice": "Laure signale l’oppression nouvelle. Yasmina appelle immédiatement le 15, puis l’équipe médicale prend le relais.",
+        "next": "Laure transmet le compte rendu et revoit la Dre Valette avant de discuter de la prochaine permanence."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "laure-suite-evaluation",
+      "title": "Suivi médical après une plainte nouvelle",
+      "description": "Laure reprend le compte rendu avec la Dre Valette. Elle précise les suites médicales et choisit les informations utiles à chacun autour d’elle.",
+      "context": "Le cabinet de la Dre Valette, quelques jours après l’épisode thoracique",
+      "topics": [
+        "Suivi après évaluation",
+        "Consignes individualisées",
+        "Consentement au partage"
+      ],
+      "clinical_focus": "Réévaluation et continuité des soins",
+      "clinical_intro": "Après l’évaluation d’un symptôme nouveau, une consultation de suivi peut servir à relire les résultats, préciser les décisions et revoir la conduite à tenir si la situation change. Laure a aussi besoin de savoir qui reçoit quelles informations. La coordination entre les professionnels se construit avec son accord.",
+      "opening": "Il reste de la buée dans le bas de la vitre du cabinet. Laure suit du doigt la ligne où le compte rendu indique à quelle heure elle a été examinée. « Ils m’ont expliqué les suites au moment où je repartais. Je savais que Benoît attendait et je crois que j’ai retenu seulement l’heure. » La Dre Valette lit avec elle ce qui a été recherché, ce que les résultats permettent de dire pour cet épisode et ce qui appelle un suivi. Elle lui demande ce qu’elle a ressenti depuis son retour, puis l’examine. Laure lui montre où sa poitrine s’était serrée. Depuis son retour, elle a surtout retrouvé la douleur de bras qu’elles connaissaient déjà.\n\nDepuis le samedi, elle a envisagé de ranger le compte rendu avec ses anciens résultats. Elle l’a finalement laissé sur la table de la cuisine et l’a relu plusieurs fois. La nuit, elle a pensé qu’il lui faudrait savoir si le même problème pouvait se reproduire avant d’accepter le moindre créneau. Elle raconte le temps passé à chercher cette réponse. La Dre Valette rapproche sa chaise et reprend avec elle les signes qui demanderaient d’agir vite, ceux qu’il faudra lui signaler et la date à laquelle elles referont le point. Laure demande à les avoir sur la même feuille que les suites déjà prévues. « Je voudrais aussi pouvoir dire à Yasmina quand on reparle du planning. Ça, je peux décider en sortant. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une réponse médicale située dans le temps",
+          "text": "Les explications portent sur ce que l’équipe a pu évaluer le samedi et sur les suites indiquées. La Dre Valette vérifie ce qui a changé depuis, reprend l’examen si nécessaire et traite les questions encore ouvertes. Ce rendez-vous permet aussi de tenir compte du trouble de détresse physique dans le suivi. Une fois chez elle, Laure a consacré beaucoup de temps à relire un document sans obtenir l’assurance qu’elle cherchait. Parler de ce temps et de la plainte nouvelle aide à répondre à deux besoins différents au cours d’une même consultation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Un papier que Laure rouvre sans cesse",
+          "text": "Relire le compte rendu peut être utile lorsque Laure veut comprendre la prochaine étape. Elle remarque que certaines relectures servaient surtout à essayer de garantir qu’elle pourrait entrer dans la bibliothèque sans retrouver l’oppression. Chaque passage sur la même ligne ramenait la décision à un futur impossible à connaître en entier. Laure a besoin d’une information applicable si une situation apparaît, et d’un cadre pour parler de cette attention répétée. Elle peut garder le compte rendu pour ses soins et mettre les consignes utiles sur une page plus facile à retrouver."
+        },
+        {
+          "role": "strategies",
+          "heading": "Savoir à qui s’adresser et pour quoi",
+          "text": "La Dre Valette note les suites convenues avec Laure, le prochain rendez-vous et les consignes adaptées à l’épisode. Laure les reformule pour vérifier ce qu’elle a compris. Elle autorise un bref échange avec Nina sur le retentissement et les objectifs de leur travail. Yasmina recevra ce qui concerne le prochain créneau et le relais. Cette répartition permet à Laure de se faire aider dans plusieurs domaines tout en maîtrisant la circulation des informations. Elle laisse aussi une place claire aux symptômes qui changeraient de nouveau."
+        }
+      ],
+      "ending_title": "Le planning peut attendre jeudi",
+      "ending": "Laure range ensemble le compte rendu et la feuille de suivi. Elle note le prochain rendez-vous dans son agenda de poche. À l’arrêt du bus, elle écrit à Yasmina qu’elle peut discuter des horaires jeudi après la fermeture, à condition de réserver une demi-heure. Elle garde pour elle les détails de la consultation. Yasmina lui répond que la bibliothèque doit aussi présenter le projet à la mairie et qu’elle viendra avec leur tableau. Laure choisit de relire les horaires d’essai avant de proposer celui qu’elle pourrait garder.",
+      "mirror": [
+        "Quand Laure lui dit que les suites sont prévues, Benoît peut demander « Est-ce qu’il y a quelque chose que tu veux que je fasse cette semaine ? On peut aussi garder notre café dimanche. » Il écoute ce qu’elle souhaite partager du rendez-vous. Les détails médicaux restent entre ses mains et celles des soignantes. Benoît garde la possibilité de dire quand il est disponible."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-douleur-ng193"
+      ],
+      "continuity": {
+        "choice": "Laure clarifie les suites médicales, les consignes et le partage limité avec Nina, puis fixe une demi-heure de discussion avec Yasmina.",
+        "next": "Elles préparent un créneau durable avant de le présenter à la mairie."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "laure-creneau-a-deux",
+      "title": "Retentissement au travail et aménagement du créneau",
+      "description": "La mairie souhaite une longue permanence. Laure et Yasmina proposent des horaires qui ménagent les visiteurs et reposent sur un relais confirmé.",
+      "context": "La bibliothèque puis la mairie, pendant la préparation de l’ouverture régulière",
+      "topics": [
+        "Retentissement au travail",
+        "Aménagement de l’accueil",
+        "Confidentialité des soins"
+      ],
+      "clinical_focus": "Retentissement dans une activité professionnelle",
+      "clinical_intro": "Le retentissement d’un trouble dépend aussi des conditions d’activité. Une tâche de durée claire avec du matériel accessible et un relais convenu peut demander moins d’effort qu’une permanence seule. Laure peut faire valoir ses besoins d’organisation à partir des essais et garder les détails médicaux dans le cadre de ses soins.",
+      "opening": "Sur le tableau de Yasmina, les trois samedis d’essai tiennent sur une feuille. À côté du deuxième, elles ont marqué au crayon l’ouverture décalée de quinze minutes. Laure ajoute la note sur le cahier de relais. Elles vont à la mairie avec les deux pages dans une chemise cartonnée. L’adjointe regarde les horaires et demande si elles pourraient garantir une présence de neuf heures à midi chaque samedi. Elle tourne la tête vers Laure, qui a décrit la façon de guider les visiteurs vers les variétés. « Vous avez l’habitude de recevoir du monde. Vous pourriez prendre la matinée ? »\n\nLaure sent son avant-bras contre le bord de la table. Elle connaît cette sensation, qui revient quand elle le laisse trop longtemps dans la même position. Elle change de place et pense aux essais. Elle a été contente de parler des pots et de voir le premier bocal arriver. Lors de la permanence décalée, elle est partie à l’heure et a réussi à profiter de l’après-midi. La réponse facile serait encore de dire qu’elle s’arrangera. Elle pose les deux pages devant l’adjointe. « Je peux assurer le premier accueil de neuf heures trente à dix heures trente, le deuxième samedi du mois. Pour ouvrir plus longtemps, j’ai besoin d’un relais affiché. » Yasmina sort son agenda. Le mois suivant, elle a déjà une obligation familiale à la date que Laure vient de proposer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une permanence peut se décrire précisément",
+          "text": "Laure peut accueillir et renseigner des visiteurs. La durée, le fait d’être seule et la possibilité de quitter la table à l’heure influent sur ce que cette tâche lui coûte. L’évaluation du retentissement gagne à préciser ces conditions. Une capacité réelle observée pendant une heure ne permet pas de prévoir trois heures identiques. Les besoins d’information des lecteurs et les disponibilités de l’équipe comptent également. À la mairie, les dates des essais et les détails du relais donnent une base commune pour prendre une décision."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le samedi commence à prendre toute la semaine",
+          "text": "Avant de répondre, Laure a déjà imaginé le temps qu’il lui faudrait récupérer après trois heures et les préparatifs à avancer pour y arriver. Elle remarque que sa journée de travail et sa semaine commencent à s’organiser autour des symptômes qu’elle anticipe. Elle dispose aussi d’informations qui proviennent des essais. Elle sait transmettre une demande à la personne suivante et se sent plus à l’aise quand celle-ci est attendue. Mettre ces éléments sur la table lui permet de discuter de ce qu’elle peut proposer au lieu de promettre une disponibilité incertaine."
+        },
+        {
+          "role": "strategies",
+          "heading": "Prévoir le relais et l’annoncer",
+          "text": "Le groupe décide d’ouvrir un samedi par mois avec deux personnes dont les tâches sont écrites. Laure apporte le créneau qu’elle souhaite garder et précise les conditions de son accueil. La mairie peut examiner la solution à partir des horaires et du service rendu. Le planning prévoit aussi qui confirme un remplacement et qui prévient les visiteurs quand il manque quelqu’un. Une personne qui se retire à l’heure dispose d’un accord déjà fait. Elle n’a pas besoin de détailler sa santé devant le public pour que l’organisation fonctionne."
+        }
+      ],
+      "ending_title": "Un nom confirmé pour chaque heure",
+      "ending": "L’adjointe accepte le démarrage mensuel. Yasmina propose de préparer le matériel avant sa date d’indisponibilité, à condition que la seconde personne soit trouvée d’ici lundi. La mairie mettra en ligne les deux premières dates et l’équipe reverra les horaires à la suite de ces ouvertures. Le lundi, une collègue de la bibliothèque, Lucie, confirme qu’elle peut tenir de dix heures trente à onze heures trente le premier jour. Laure ajoute son nom au tableau et lui propose une courte répétition.",
+      "mirror": [
+        "Devant le tableau des permanences, Yasmina peut dire « Je peux préparer le matériel avant samedi. J’ai déjà un engagement pendant l’ouverture. Qui serait disponible pour prendre la suite à dix heures trente ? » Elle contribue au projet en donnant sa disponibilité réelle. Le planning peut indiquer le nom de la personne qui a confirmé et les heures que l’équipe est en mesure d’annoncer."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-douleur-ng193"
+      ],
+      "continuity": {
+        "choice": "Le groupe décide d’une ouverture mensuelle, avec Lucie pour le premier relais de Laure à dix heures trente.",
+        "next": "Laure prépare l’ouverture et explique à Benoît quelle aide lui conviendra."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "laure-aide-et-vie-privee",
+      "title": "Soutien des proches et informations de santé",
+      "description": "Après l’épisode à la bibliothèque, Benoît veut savoir comment aider sa sœur. Laure lui dit ce qu’elle peut partager et ce dont elle a besoin.",
+      "context": "Chez Laure, un dimanche entre la réunion en mairie et l’ouverture régulière",
+      "topics": [
+        "Soutien choisi",
+        "Vie privée",
+        "Relation fraternelle"
+      ],
+      "clinical_focus": "Soutien des proches et limites",
+      "clinical_intro": "Le suivi des symptômes peut devenir très présent dans les relations. Après une alerte, l’inquiétude de Benoît et le besoin de vie privée de Laure ont tous les deux une place. Un accord sur une aide concrète et sur ce que Laure choisit de partager permet de séparer le rôle du proche de celui des soignants.",
+      "opening": "Benoît monte chez Laure avec deux brioches encore chaudes. Il pose son écharpe sur le dossier d’une chaise et demande s’il peut ouvrir la fenêtre. Sur la table, un coin du planning dépasse d’une enveloppe. Il reconnaît le nom de Lucie parce qu’elle travaille au bureau des retours. « Je croyais que Yasmina serait là. Qui sait ce qu’il s’est passé, alors ? » Laure a préparé la cafetière. Elle a encore envie de lui parler du panneau que la mairie a imprimé. Elle verse le café avant de répondre.\n\nBenoît lui dit que son téléphone est resté allumé près du lit plusieurs nuits après le samedi des secours. Il voudrait savoir si les résultats le rassureraient. Laure comprend ce qu’il veut dire. Elle sent aussi qu’elle pourrait passer le début de la visite à reprendre chaque ligne du papier, pour finir avec la même question que lui. « J’en ai reparlé avec la médecin. J’ai les suites par écrit. Je peux te dire comment on s’organise à la bibliothèque, si tu veux. » Benoît prend un morceau de brioche et regarde la porte de la cuisine, où il a suspendu son manteau. « D’accord. Je voudrais surtout savoir si tu veux que je garde ma matinée. » Laure se rappelle qu’il doit récupérer son vélo chez le réparateur ce jour-là. Elle lui demande à quelle heure.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La place d’une inquiétude partagée",
+          "text": "L’épisode à la bibliothèque a changé ce que Benoît imagine quand sa sœur part à une permanence. Il cherche une réponse qui l’aiderait à savoir s’il doit rester joignable. Laure connaît déjà cette recherche de certitude, qui lui a fait relire plusieurs fois le compte rendu. Les deux besoins peuvent être entendus. Les résultats et les consignes ont une place dans le suivi de Laure. Son frère peut lui dire ce qu’il a vécu et poser une question sur l’aide qu’il se sent en mesure d’apporter."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Une consultation menace d’occuper le café",
+          "text": "Laure remarque qu’elle prépare sa réponse comme elle préparerait le récit pour un médecin. Elle trie déjà les informations dans sa tête, cherche l’ordre des examens et anticipe les questions suivantes. L’attention revient aux symptômes et laisse en suspens la raison pour laquelle ils avaient prévu de se retrouver. Benoît, de son côté, a une question de temps et de disponibilité que le compte rendu ne peut pas résoudre. En la formulant, il permet à Laure de dire quelle aide aurait un effet sur sa matinée."
+        },
+        {
+          "role": "strategies",
+          "heading": "Réserver ensemble une aide faisable",
+          "text": "Benoît ira chercher son vélo au moment de l’ouverture. Il peut déposer la petite pile de panneaux la veille, en revenant du travail, si Laure lui indique la bonne entrée. Ils s’accordent sur cette course et gardent la possibilité de l’annuler si le bureau de la bibliothèque est fermé. La permanence a déjà un relais prévu avec Lucie. Laure pourra décider d’en reparler avec son frère si elle le souhaite. Pour le suivi de la douleur, elle garde son prochain rendez-vous et le plan établi avec la Dre Valette."
+        }
+      ],
+      "ending_title": "Le panneau peut attendre demain",
+      "ending": "Laure donne à Benoît le nom de la rue où déposer les panneaux et lui promet un message quand elle aura vérifié l’heure de fermeture. Il pose son téléphone face cachée sur la table. Ils mangent la deuxième brioche en regardant une photo du vélo avant réparation. Dans l’après-midi, Laure prépare deux questions pour la répétition avec Lucie. Elle voudrait savoir où les visiteurs attendront à l’ouverture et ce qu’il adviendra des sachets que personne n’aura le temps de classer. Elle écrit les questions sur une fiche qu’elles pourront déplacer sur la table.",
+      "mirror": [
+        "Quand Laure lui dit que Lucie prendra le relais, Benoît peut revenir à l’aide qu’il a le temps d’apporter. « Je peux déposer les panneaux vendredi en sortant du travail. Tu me confirmes l’heure de fermeture ? » Si cette course devient impossible, ils peuvent se le dire assez tôt pour prévenir la bibliothèque. Laure peut garder le compte rendu dans le cadre de son suivi."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-douleur-ng193"
+      ],
+      "continuity": {
+        "choice": "Benoît apporte les panneaux la veille. Laure garde son compte rendu privé et les soins dans le cadre convenu.",
+        "next": "Laure et Lucie répètent les deux gestes qui permettront d’ouvrir et de transmettre la table."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "laure-preparation-jours-difficiles",
+      "title": "Ajustement des tâches avant l’ouverture",
+      "description": "La veille de l’ouverture, les douleurs familières reviennent. Laure et Lucie répètent le relais et choisissent le matériel dont elles ont besoin.",
+      "context": "La bibliothèque, le vendredi de la répétition avec Lucie",
+      "topics": [
+        "Symptômes familiers",
+        "Flexibilité du créneau",
+        "Continuité des activités"
+      ],
+      "clinical_focus": "Ajustement avec des symptômes persistants",
+      "clinical_intro": "Une préparation peut être adaptée quand les symptômes familiers rendent certains gestes plus coûteux. Laure garde le suivi médical convenu et examine avec Lucie les tâches nécessaires à l’ouverture. Une répétition courte leur donne des repères sur la place des objets, l’attente des visiteurs et le passage de relais.",
+      "opening": "Les panneaux sont arrivés par l’entrée indiquée. L’un d’eux porte une trace ronde, laissée par une goutte sur le haut du carton. Laure le cale contre le mur et tourne l’autre dans le sens de la lumière pour lire l’horaire. Lucie arrive avec un trousseau dont elle détache la clé de la salle. « Je n’ai qu’une demi-heure avant la fermeture du bureau. On fait l’essai en vrai ? » Laure regarde la liste qu’elle a préparée. Elle avait prévu de jouer une visite entière avec chaque fiche. Ses bras lui font mal de cette façon diffuse et familière qu’elle connaît lorsqu’elle reste longtemps à la même table. Elle se demande déjà si elle pourra répéter la manœuvre assez de fois pour se sentir prête le lendemain.\n\nLucie tient le carton avec les fiches qu’il reste à installer. Laure voudrait vérifier tous les noms. Elle s’aperçoit qu’elle en a relu deux en gardant la main sur le troisième. Elle a aussi envie de décider tout de suite si elle se sent capable d’assurer l’ouverture. À la place, elle demande à Lucie de poser le carton. « Commençons par ce qu’on doit pouvoir faire même si on a du monde. » Lucie met le registre entre les chaises. Elle entre dans le couloir pour jouer la visiteuse, puis s’arrête. Depuis la porte, elle ne voit pas encore où déposer un sachet apporté.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le coût des gestes se voit en les répétant",
+          "text": "Laure pensait que passer en revue toute la liste lui donnerait une idée de ce qu’elle pourrait faire demain. La douleur et la fatigue familières attirent déjà l’attention et ralentissent la lecture des fiches. La répétition peut lui apprendre autre chose. Elle et Lucie peuvent découvrir un obstacle qui tient à la place du matériel ou au partage des gestes. Leur essai ne prédit pas l’état de Laure le lendemain. Il leur permet de décider avec quoi elles veulent travailler et quelle solution utiliser si l’accueil doit être raccourci."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Relire des noms ou regarder depuis la porte",
+          "text": "Laure revient plusieurs fois aux étiquettes parce qu’elle craint qu’une erreur complique la matinée au moment où elle se sentira fatiguée. En suivant la visite imaginée par Lucie, elle trouve une difficulté que les étiquettes ne pouvaient pas régler. Une personne doit savoir où laisser ses graines avant même d’arriver au bureau. Placer une boîte à l’entrée simplifie l’accueil et évite de soulever le carton à chaque dépôt. La participation de Lucie transforme une préparation qui prenait beaucoup d’attention en deux choix qu’elles peuvent vérifier."
+        },
+        {
+          "role": "strategies",
+          "heading": "Préparer une relève possible dès le départ",
+          "text": "Laure garde l’accueil assis, les réponses aux visiteurs et la remise du registre à dix heures trente. Lucie peut préparer la boîte de dépôts et reprendre les demandes en cours à son arrivée. Si Laure doit quitter plus tôt et que Lucie ne peut pas venir immédiatement, la responsable de la bibliothèque peut afficher une interruption. Elles inscrivent cette décision au dos du planning et préviennent la responsable. La conduite à tenir pour la santé de Laure reste celle qu’elle a revue avec sa médecin, avec une voie de contact si les symptômes changent."
+        }
+      ],
+      "ending_title": "La boîte à l’entrée",
+      "ending": "Lucie sort une boîte vide d’un placard et la place sous le panneau. Laure écrit « Graines à déposer » sur un carton, puis marche jusqu’à la porte pour regarder avec elle. On voit le panneau en entrant. Elles reprennent une fois le passage du cahier et arrêtent la répétition à l’heure convenue. Laure garde une seule fiche à vérifier chez elle et laisse les autres dans la boîte de préparation. Elle retrouve dans le cahier la disponibilité que Yasmina vient de confirmer pour la deuxième date. En refermant la porte, elle annonce à Lucie qu’elle lui enverra un message au départ de chez elle, comme elles viennent d’en convenir.",
+      "mirror": [
+        "En répétant le passage de relais, Lucie peut dire « Je suis au bureau des retours jusqu’à dix heures vingt-cinq. Si tu dois quitter la table avant que j’arrive, on prévient la responsable pour qu’elle affiche l’interruption. » Elle montre où elle placera la boîte et demande à Laure de lui passer le registre une fois. Chacune peut alors vérifier quel geste lui revient le lendemain."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-douleur-ng193"
+      ],
+      "continuity": {
+        "choice": "Laure et Lucie testent une boîte de dépôts et un passage de relais court, avec un dispositif si le premier créneau doit s’arrêter plus tôt.",
+        "next": "Laure envoie son message de départ et ouvre le premier créneau régulier."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "laure-creneau-qui-tient",
+      "title": "Suivi coordonné et créneau qui tient dans la durée",
+      "description": "Au premier accueil régulier, Laure répond aux visiteurs et passe le cahier à Lucie. Elle choisit ce qu’elle veut reprendre lors du prochain suivi.",
+      "context": "La grainothèque, le deuxième samedi du mois à neuf heures trente",
+      "topics": [
+        "Suivi coordonné",
+        "Activité choisie",
+        "Souplesse du relais"
+      ],
+      "clinical_focus": "Participation avec un trouble persistant",
+      "clinical_intro": "Les progrès peuvent se voir dans ce qu’une personne retrouve ou choisit, même quand les symptômes continuent. Laure dispose d’un accueil à durée définie, d’un relais et de rendez-vous de suivi. Elle peut dire ce que cette organisation lui permet de faire et signaler les changements de santé qui nécessitent une nouvelle évaluation.",
+      "opening": "La boîte de dépôts est encore vide quand Laure ouvre la porte. Elle a envoyé son message à Lucie depuis l’arrêt de bus. Sur la table, elle pose les sachets d’un côté et le registre de l’autre. Elle a laissé de la place devant la chaise visiteur. À neuf heures trente-cinq, un homme qu’elle a souvent vu rendre des romans montre les mots « Graines à déposer ». Il apporte une petite enveloppe et demande s’il doit en prendre une en échange. Laure lui explique comment elles ont imaginé le système et lui propose de regarder le tiroir ouvert. Il reste un moment debout, prend un sachet, puis le remet à sa place. « Je reviendrai après avoir regardé où j’ai de la place. » Laure lui donne une fiche avec la prochaine date.\n\nQuand il part, elle sent une fatigue déjà connue dans les épaules. Elle se demande pendant un instant si elle pourra encore faire les courses. Elle regarde l’heure, puis la note sous le cahier où elle a écrit le prochain geste utile. Il reste à indiquer le nombre de sachets reçus. Elle en note un et repense aux deux premiers essais. À l’époque, elle imaginait qu’elle devrait attendre de se sentir sûre de sa journée pour annoncer son nom sur une feuille. Lucie passe la tête par la porte à dix heures vingt-sept. Laure lui montre l’enveloppe déposée et lui dit qu’une personne reviendra prendre des graines le mois prochain.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Repérer ce que le cadre rend possible",
+          "text": "Laure ressent encore les symptômes qui font l’objet du suivi. Elle peut en parler avec ses soignantes en décrivant ce qu’ils lui coûtent et l’attention qu’ils lui prennent. L’accueil apporte une autre information. Laure a reçu quelqu’un, expliqué la circulation des sachets et transmis ce qu’il restait à faire. Elle sait dans quelles conditions cela a été possible. Ce sont des éléments concrets pour examiner la suite avec son équipe. L’évolution du trouble s’observe dans la durée, à partir des symptômes et de leur retentissement dans plusieurs domaines."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Les deux calendriers ont leur place",
+          "text": "Laure a une date pour revoir la Dre Valette et une autre pour tenir sa prochaine permanence. La première lui permet de suivre ce qui reste douloureux, de reprendre les décisions médicales et de parler de ce qui changerait. La deuxième lui donne une activité dont la durée et le relais sont connus. Elle garde aussi son travail avec Nina sur les moments où l’attention devient difficile à déplacer. En séparant les informations dont chacun a besoin, Laure peut passer d’un calendrier à l’autre avec des décisions déjà prises."
+        },
+        {
+          "role": "strategies",
+          "heading": "Faire le point sur les prochaines dates",
+          "text": "Pour les deux premières ouvertures, Laure et ses collègues ont choisi de revoir ensemble les durées et l’accès au matériel. Elles pourront conserver l’heure si elle fonctionne ou proposer un changement précis. Laure gardera, pour Nina, le souvenir de la minute où elle a recommencé à calculer ses courses et a pu revenir au registre. Avec la Dre Valette, elle évoquera la fatigue qui persiste et les questions de suivi encore ouvertes. Le projet avance avec ces rendez-vous à côté, comme avec le cahier qu’elle remet à Lucie."
+        }
+      ],
+      "ending_title": "Le nom reste jusqu’à dix heures trente",
+      "ending": "Lucie prend la place de Laure à l’heure prévue. Dans le couloir, Laure affiche la deuxième date et écrit au crayon le nom de Yasmina dans la case de relais, conformément à l’accord qu’elles ont obtenu la veille. Elles reverront les horaires ensemble après cette date. Laure met son agenda dans sa poche. La date de sa prochaine consultation y est déjà entourée. Elle traverse la place sans se presser et décide de déjeuner avant de voir pour les courses. Elle a envie de demander à Benoît s’il connaît un endroit ensoleillé où ils pourraient boire un café dimanche.",
+      "mirror": [
+        "À dix heures trente, Lucie peut prendre le registre et demander « Je prends la suite. Qu’est-ce qu’il reste à faire avec l’enveloppe ? » Laure lui transmet les informations utiles pour les visiteurs et peut partir comme convenu. Lucie pourra dire à Yasmina ce qui a facilité sa propre reprise de la table. Le cahier garde la trace du dépôt et l’horaire convenu règle le passage de relais."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-douleur-ng193"
+      ],
+      "continuity": {
+        "choice": "Laure assure son créneau d’une heure, passe la table à Lucie et prépare la seconde date avec Yasmina.",
+        "next": "L’équipe revoit l’organisation après la deuxième ouverture. Laure poursuit son suivi et signale toute évolution nouvelle dans le cadre convenu."
+      }
+    }
+  ]
+}

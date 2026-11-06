@@ -33,6 +33,8 @@ Ilyes les attend à l’accueil. Il propose d’envoyer une photo prise depuis l
 
 L’utilité d’un repère dépend de ce que la personne pourra retrouver au moment où elle en aura besoin. Une photo du parking renseigne les personnes qui arrivent en voiture. Hélène a besoin de distinguer deux entrées depuis le trottoir. Elle a aussi besoin que la direction du bus et le nom de l’arrêt restent visibles ensemble. Son plan tient ces renseignements sur une page ; la carte de son téléphone répond à d’autres questions.
 
+## Comment cette difficulté se manifeste
+
 L’OMS rappelle que les habiletés de la vie quotidienne, dont les déplacements, se regardent dans leur contexte. Un trajet peut devenir familier avec l’expérience et rester difficile si ses repères changent. La HAS suggère de discuter avec la personne de la façon de préparer un déplacement et d’envisager les imprévus. Le dessin d’Hélène répond à ses besoins à elle. Il ne permet pas de prédire le trajet qu’une autre personne saurait faire.
 
 ## S’entendre sur l’aide avant le départ
@@ -44,9 +46,3 @@ Le chemin de retour mérite son propre regard. Le même arrêt n’est pas forc�
 ## Un trait bleu pour l’accueil
 
 Hélène plie son plan de façon que « Marché → Verrerie » se lise sans le déplier. À l’intérieur, elle dessine une porte et écrit « accueil ». Pour le retour, elle choisit qu’Ilyes lui montre l’autre abri, puis prend le bus jusqu’au Marché. Avant de partir, elle lui demande quel numéro répond lorsqu’il n’est pas à l’accueil. Elle inscrit celui de la boutique sous le sien. À son prochain passage, la semaine suivante, elle doit récupérer au dépôt le bordereau des caisses de vaisselle. Elle range le plan dans la poche du sac où elle mettra le bordereau.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé, TDI : travail et vie active (volet 2)](https://www.has-sante.fr/upload/docs/application/pdf/2025-11/dir7/tdi_emploi_volet2.pdf)
-- [Haute Autorité de santé, accompagnement de la personne présentant un TDI : synthèse du volet 1](https://www.has-sante.fr/upload/docs/application/pdf/2022-09/tdi_synthese_rbpp_volet1.pdf)

@@ -31,9 +31,11 @@ Le médecin reprend avec elle les conditions dans lesquelles une activité hors 
 
 ## Décrire un effet concret au travail
 
-Le stress post-traumatique peut retentir sur le travail, notamment quand des rappels imprévus prennent l’attention ou que le sommeil est difficile. La nature du poste et de ses responsabilités compte pour comprendre ce retentissement. Une information précise est souvent plus utile dans un échange sur les conditions de travail qu’une description générale de la journée. Selma peut dire que certaines annonces lui font perdre le fil d’un échange et qu’elle a besoin de savoir à qui signaler la difficulté.
+Le stress post-traumatique peut retentir sur le travail, notamment quand des rappels imprévus prennent l’attention ou que le sommeil est difficile. La nature du poste et de ses responsabilités compte pour comprendre ce retentissement. Une information précise est souvent plus utile dans un échange sur les conditions de travail qu’une description générale de la journée.
 
-Le médecin du travail examine avec elle les conditions d’activité et les adaptations à discuter. Les décisions concernant l’exercice de fonctions de sécurité suivent les procédures prévues et relèvent des personnes habilitées. En cas de doute de Selma sur son aptitude à conduire, elle avertit immédiatement l’entreprise selon la procédure du métier. Selma peut demander à comprendre chaque étape et ce qui est envisageable maintenant. Sa thérapeute garde son propre rôle dans les soins.
+## Des annonces qui interrompent le fil des échanges
+
+Selma a noté trois difficultés à apporter au rendez-vous. Elle perd parfois le fil après une annonce imprévue. Ses nuits se coupent et il arrive qu’elle ait besoin de se faire répéter le début d’une phrase. Elle voudrait retrouver des tâches et des collègues qu’elle connaît. Ce qu’elle rapporte permet de comprendre l’effort demandé par certaines conditions, même quand le travail lui-même l’intéresse.
 
 ## Séparer ce qu’elle dit en consultation de ce qui organise la mission
 
@@ -41,12 +43,8 @@ Les informations de santé confiées au médecin du travail relèvent du secret 
 
 Une activité hors conduite peut être une possibilité à discuter. Selma peut préciser ce qui l’intéresse, demander un point de revue et décider si elle souhaite poursuivre cette piste. Les conditions de sécurité et les démarches restent à examiner avec les interlocuteurs concernés.
 
+Le médecin du travail examine avec elle les conditions d’activité et les adaptations à discuter. Les décisions concernant l’exercice de fonctions de sécurité suivent les procédures prévues et relèvent des personnes habilitées. En cas de doute de Selma sur son aptitude à conduire, elle avertit immédiatement l’entreprise selon la procédure du métier. Selma peut demander à comprendre chaque étape et ce qui est envisageable maintenant. Sa thérapeute garde son propre rôle dans les soins.
+
 ## La feuille repart dans la poche
 
 Avant de sortir, Selma reformule les questions qui restent ouvertes. Le médecin lui explique avec qui le cadre de la mission devra être défini et ce qui peut être transmis sur l’organisation. Elle garde la feuille avec ses notes personnelles et prend le document qui indique la suite. Sur le chemin du retour, elle envoie à André un message pour lui dire qu’elle passera à la serre plus tard. Il lui demande si elle pourrait regarder son rang de radis. Elle répond qu’elle regardera d’abord si les panneaux ont enfin été livrés.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)
-- [Directive 2007/59/CE, article 18.2, signalement en cas d’aptitude mise en cause](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02007L0059-20190708)

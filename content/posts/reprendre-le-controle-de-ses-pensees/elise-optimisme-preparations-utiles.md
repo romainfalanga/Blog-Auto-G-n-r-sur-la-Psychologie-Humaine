@@ -1,5 +1,5 @@
 ---
-title: "Élise : espérer avec un plan assez concret"
+title: Espérer avec un plan assez concret
 description: "Élise prépare une rencontre plus modeste au jardin. Elle cherche un optimisme compatible avec la pluie, les limites d’accès et le droit de reporter."
 slug: elise-optimisme-preparations-utiles
 date: 2026-10-10T09:00:00+02:00
@@ -13,6 +13,7 @@ contexte: "Le groupe prépare une rencontre réduite au jardin et Élise doit an
 editorial_pack: psychology-v10
 episode: 10
 ---
+
 Élise regarde la prévision météo sur son écran, puis le programme réduit posé à côté. Une rencontre courte au jardin paraît possible sous certaines conditions. Les travaux de bacs ne sont pas financés et le groupe a choisi de ne pas les annoncer comme acquis. Cédric attend encore une validation sur le petit matériel mobile envisagé. Mireille peut ouvrir un espace près de l’entrée pour éviter une partie des allées étroites. Élise voudrait écrire aux habitants que cette fois tout se passera bien. Elle reconnaît dans cette phrase son envie de réparer la déception précédente par une assurance plus forte.
 
 Elle commence plutôt par les éléments confirmés : un temps d’échange assis, un nombre de places limité et une information sur le trajet. Puis elle s’arrête devant la ligne consacrée à la pluie. Elle pourrait décider que le ciel sera clément et voir plus tard. Elle pourrait aussi passer la soirée à rechercher toutes les prévisions disponibles. Aucun de ces choix ne lui semble vraiment utile. La question est moins de savoir avec certitude quel temps il fera que de définir une décision possible si le jardin devient inconfortable. Elle appelle Mireille pour examiner ce point au lieu de consulter une autre application.
@@ -76,7 +77,3 @@ L’espoir peut rester compatible avec les faits difficiles. Il n’a pas besoin
 La préparation utile débouche sur des décisions, des responsabilités et des limites. Lorsqu’elle ne produit plus d’information nouvelle, il est possible de la laisser en attente jusqu’au moment prévu. Ce repos n’annule pas le sérieux du projet.
 
 Élise souhaite que les habitants puissent venir au jardin et conserve un plan de report. Ces deux gestes soutiennent la même intention : proposer une rencontre dans des conditions acceptables. Le budget manque encore et le ciel reste incertain. Elle avance avec ces données, plutôt qu’avec une promesse de réussite.
-
-Sources :
-- [NHS, Distinguer les problèmes et préparer des actions](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)
-- [Centre for Clinical Interventions, Inquiétude, préparation et incertitude](https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Worry-and-Rumination)

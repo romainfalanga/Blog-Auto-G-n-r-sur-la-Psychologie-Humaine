@@ -11,6 +11,9 @@ personnage: "Nadia"
 sujet: "remords"
 contexte: "en famille"
 draft: false
+editorial_sources:
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC4886498/
+- https://doi.org/10.1080/15298860309032
 ---
 
 Le gilet de Yasmine est resté chez Fatima. Nadia lit le message dans le vestiaire du pilates, une chaussure encore à la main. Sa mère a ajouté qu’elle le mettrait dans un sac près de l’entrée. D’ordinaire, Nadia répondrait qu’elle passe en rentrant. Hier, elle a quitté la table en demandant à Yasmine d’enfiler son manteau sans avoir repris la conversation.
@@ -70,5 +73,3 @@ Dans l'histoire de Nadia, les regrets lui donnent envie de réparer. Elle peut r
 La culpabilité peut elle aussi motiver une réparation. Inversement, ni la culpabilité ni le remords ne garantissent que des excuses seront bien reçues. On peut respecter la distance souhaitée par l'autre tout en changeant sa façon d'agir.
 
 Si ce sentiment de regret devient envahissant ou qu'il nourrit une dépréciation de soi persistante, l'accompagnement par un professionnel de la psychologie est recommandé. Un thérapeute pourra aider à démêler les fils de l'histoire familiale et à construire des limites saines pour vivre ses émotions sans qu'elles ne deviennent un fardeau. Chaque individu mérite de vivre ses relations familiales avec sérénité et authenticité.
-
-Sources : [Cryder et al., expériences sur la culpabilité et la réparation](https://pmc.ncbi.nlm.nih.gov/articles/PMC4886498/) ; [Neff, conceptualisation de l’autocompassion](https://doi.org/10.1080/15298860309032).

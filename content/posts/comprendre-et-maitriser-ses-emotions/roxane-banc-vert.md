@@ -31,7 +31,11 @@ Ils s’installent sous le regard de Mme Sorel, à distance de l’allée. Le br
 
 ## Ce que le bruit emporte
 
-Comprendre une parole dépend de ce qui se passe autour, de ce que l’on connaît de la personne et des sons que l’on distingue dans sa phrase. Au square, le vélo couvre une partie de la première consigne. Le malentendu reste quand il est passé : la deuxième fois, Zoé reconnaît le banc comme type de repère, sans savoir lequel. Pour Roxane, qui rencontre déjà des difficultés de prononciation dans d’autres circonstances, l’écart entre ces deux essais compte. Il montre ce que le groupe peut changer dans l’échange, et ce qui reste à préciser.
+Comprendre une parole dépend de ce qui se passe autour, de ce que l’on connaît de la personne et des sons que l’on distingue dans sa phrase. Au square, le vélo couvre une partie de la première consigne. Le malentendu reste quand il est passé : la deuxième fois, Zoé reconnaît le banc comme type de repère, sans savoir lequel.
+
+## Comment cette difficulté se manifeste
+
+Pour Roxane, qui rencontre déjà des difficultés de prononciation dans d’autres circonstances, l’écart entre ces deux essais compte. Il montre ce que le groupe peut changer dans l’échange, et ce qui reste à préciser.
 
 La carte fournit ici une information que la phrase n’a pas réussi à livrer seule. Elle sert à la tâche de tous : choisir d’où écouter. On peut repérer qu’une conversation devient plus facile après ce geste sans tirer de conclusion sur l’évolution du trouble.
 
@@ -44,8 +48,3 @@ Pour rejoindre le bon point d’écoute, elles n’auront plus à discuter des d
 ## Le point d’interrogation
 
 Roxane écrit « derrière le banc clair ? » sur la ligne du carnet réservée au son sec. Le point d’interrogation reste même si le repère est maintenant bon : il concerne ce qui faisait le bruit. Mme Sorel garde pour l’atelier d’écoute le court chant que l’on entend avant les roulettes. Pour sa devinette, Roxane choisit de chercher un son identifié ailleurs et de revenir avec deux pistes. Au retour, elle confie le carnet à Zoé. Elle garde le plan dans sa poche, plié juste à l’endroit où les deux bancs se font face.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal — Speech Sound Disorders: Articulation and Phonology](https://www.asha.org/practice-portal/clinical-topics/articulation-and-phonology/)

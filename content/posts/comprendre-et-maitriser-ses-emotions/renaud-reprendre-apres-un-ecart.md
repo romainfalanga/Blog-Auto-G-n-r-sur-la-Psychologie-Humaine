@@ -34,6 +34,8 @@ Il ouvre son dernier message de préparation avec elle. Il y retrouve les dates 
 
 Un suivi peut aider à repérer des difficultés et à développer d’autres réponses. Le besoin d’être reconnu, l’attrait d’une occasion ou la crainte de perdre une place peuvent peser de nouveau quand la situation change. Les données disponibles sur la prise en charge du trouble de la personnalité narcissique appellent à suivre des objectifs réalistes. Les progrès peuvent se voir à l’échelle de plusieurs situations, avec du temps et des reprises.
 
+## Comment cette difficulté se manifeste
+
 Renaud avait formulé une règle précise en mai et la transgresse en septembre. Il commence par attendre que Yara s’ajuste. Puis il relit un engagement qui existe déjà. La décision observable est de reprendre l’annonce auprès de Nora sans faire endosser sa promesse à Yara. Le travail sur ce qu’il a éprouvé peut continuer en parallèle.
 
 ## S’occuper de la conséquence dans le bon ordre
@@ -45,8 +47,3 @@ Yara peut garder son engagement ailleurs et choisir si elle souhaite participer 
 ## La réunion qu’ils peuvent réellement proposer
 
 Nora répond qu’elle n’a pas encore envoyé les invitations. Elle peut attendre le mercredi d’après. Yara est disponible ce jour-là pour une courte réunion et pourra décider de la suite après avoir vu le parcours. Renaud confirme seulement ce rendez-vous. Il rassemble les deux plans pour que chacun puisse les regarder avant la réunion. Le vendredi suivant, il passe encore devant le tableau où il avait écrit « version prête ». Il remplace la phrase par l’heure qu’ils ont réellement fixée.
-
-## Sources
-
-- [American Psychiatric Association, présentation du trouble de la personnalité narcissique selon le DSM-5-TR](https://www.psychiatry.org/news-room/apa-blogs/what-is-narcissistic-personality-disorder/)
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)

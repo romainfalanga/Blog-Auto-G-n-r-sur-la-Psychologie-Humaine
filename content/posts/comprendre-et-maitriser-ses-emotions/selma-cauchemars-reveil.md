@@ -33,6 +33,8 @@ André doit arroser ses radis ce matin. Elle l’aperçoit de la fenêtre, avec 
 
 Les cauchemars peuvent faire partie des manifestations du trouble de stress post-traumatique. Ils peuvent faire revenir certains aspects du traumatisme ou des émotions qui lui sont associées. Le sommeil peut aussi être interrompu pour des raisons diverses. Pour comprendre ce qui se passe, un professionnel peut demander ce que la personne remarque au réveil, à quelle fréquence cela arrive et comment elle se sent le jour. L’effet sur les activités compte autant dans la discussion que le souvenir du rêve.
 
+## Comment cette difficulté se manifeste
+
 Selma n’a pas retenu tous les détails. Elle peut parler du moment où elle se réveille, de la difficulté à retrouver le sommeil et de sa fatigue au petit déjeuner. Elle peut indiquer si elle est moins attentive le matin ou si une tâche prend plus de temps. Sa thérapeute pourra examiner avec elle ce qui appartient au suivi du traumatisme et ce qui pourrait justifier un autre avis.
 
 ## Préserver le rendez-vous et déplacer une tâche
@@ -44,9 +46,3 @@ Le montage de l’étagère relève d’un autre accord. André peut arroser com
 ## Le mug devant la fenêtre
 
 Sur la feuille qu’elle emporte au rendez-vous, Selma note que les nuits sont hachées depuis plusieurs jours et qu’elle a eu du mal à suivre une conversation ce matin. Elle trouve la formule courte et laisse le reste de la page blanc. Avant de sortir, elle lave le mug et le pose à sécher sur le bord de la fenêtre. André a ramené l’arrosoir dans l’allée. Elle lui envoie un message pour lui dire qu’elle a une idée pour l’emplacement de l’étagère. Ils regarderont ensemble quand ils seront tous les deux disponibles.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)
-- [Directive 2007/59/CE, article 18.2, signalement en cas d’aptitude mise en cause](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02007L0059-20190708)

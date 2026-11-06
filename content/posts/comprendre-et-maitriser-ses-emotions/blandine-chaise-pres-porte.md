@@ -33,6 +33,8 @@ Léon vient lui dire bonsoir pendant la pause et lui tend un exemplaire. « Tu v
 
 Une activité liée à un proche disparu peut retrouver de l’intérêt alors que le manque reste douloureux. Blandine a pu traverser la place ce soir et s’asseoir dans la salle. La semaine précédente, les chaises l’avaient arrêtée dehors. Aujourd’hui elle perçoit à la fois le geste du nouveau chanteur et un problème musical qu’elle a envie de discuter. Ces deux choses font partie de la même soirée. L’une ne retire pas sa force à l’autre.
 
+## Comment cette difficulté se manifeste
+
 L’écoute constitue la forme de participation qu’elle choisit à ce moment. Les possibilités de s’engager à nouveau dans des activités peuvent être discutées dans le suivi quand elles comptent pour la personne. La thérapeute peut aussi lui demander ce qui se passe dans les autres lieux et les jours où elle travaille. Une séance de chœur ne permet pas d’évaluer à elle seule les effets du deuil sur sa vie.
 
 ## Faire une proposition qui peut rester sans suite
@@ -44,8 +46,3 @@ De son côté, Blandine peut décider qu’un morceau lui suffit. Elle aimerait 
 ## La fin du vers en marge
 
 Blandine attend la fin du Pont, puis rend la feuille à Léon avec un mot sur la fin du vers. Elle lui demande de ne pas la compter parmi les chanteurs, mais de lui dire quels soirs elle peut venir écouter. Il range son mot avec les remarques du pupitre et dit qu’il vérifiera le passage jeudi prochain. Sur la place, le cordonnier a éteint sa vitrine. Blandine a encore envie de dire à Jeanne que les basses ont trouvé leur entrée. Elle se donne le temps d’attendre le bus suivant. En rentrant, elle trouve dans sa messagerie une proposition d’Esther pour une nouvelle commande.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS — Grief after bereavement or loss : vécu du deuil et soutien](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)

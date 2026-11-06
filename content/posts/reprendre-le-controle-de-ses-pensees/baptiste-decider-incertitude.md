@@ -1,5 +1,5 @@
 ---
-title: "Baptiste : décider avec une part d’incertitude"
+title: Décider avec une part d’incertitude
 date: 2026-11-03T10:10:00+00:00
 description: "Deux formats de compte rendu restent possibles. Baptiste cherche les informations nécessaires sans attendre une garantie sur chaque réaction."
 categories: ["Reprendre le contrôle de ses pensées"]
@@ -74,7 +74,3 @@ Une décision réfléchie peut conserver une part d’incertitude. Le niveau d�
 L’inquiétude ressentie et l’information disponible sont liées sans être identiques. Se sentir encore inquiet ne prouve pas qu’une recherche supplémentaire sera utile. Se sentir confiant ne prouve pas que les vérifications nécessaires ont été faites. Revenir aux faits, aux critères et aux interlocuteurs compétents peut aider à distinguer une préparation concrète d’une répétition qui n’ajoute plus d’élément utilisable.
 
 Si la recherche de garanties occupe durablement vos soirées, retarde les décisions importantes ou s’accompagne d’une souffrance qui vous inquiète, un psychologue, un médecin ou un professionnel adapté peut vous aider à examiner cette difficulté. Selon le contexte, des changements d’organisation ou des informations spécialisées seront également nécessaires. L’objectif peut être de choisir avec prudence et avec des limites réalistes, sans exiger de ne plus jamais douter.
-
-Sources :
-- [NHS, Problem solving](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)
-- [CCI, Worry and Rumination](https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Worry-and-Rumination)

@@ -100,5 +100,3 @@ Reconnaître la fatigue sans se juger ne consiste pas à se convaincre que tout 
 Une tâche simplifiée, une aide reçue et une période laissée libre peuvent protéger une part de récupération. Ces choix ne prouvent ni faiblesse ni vertu particulière. Ils répondent à une situation, avec les ressources et les limites disponibles à ce moment.
 
 Si votre fatigue dure, augmente ou vous inquiète, parlez-en à un médecin. Pour les contraintes professionnelles, le service de prévention et de santé au travail peut aussi vous accompagner. Un psychologue peut aider lorsque l'autocritique rend systématiquement ces démarches ou le repos difficiles.
-
-Sources : [INRS, horaires atypiques et effets sur la santé](https://www.inrs.fr/risques/travail-horaires-atypiques/effets-sur-la-sante-et-accidents.html) ; [INRS, prévention des horaires atypiques](https://www.inrs.fr/risques/travail-horaires-atypiques/demarche-de-prevention.html).

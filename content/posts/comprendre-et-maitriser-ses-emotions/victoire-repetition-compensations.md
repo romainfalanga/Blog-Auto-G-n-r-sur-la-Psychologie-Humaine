@@ -30,18 +30,16 @@ Victoire a la réponse la plus courte sur le bout de la langue. Elle pourrait di
 
 ## Ce que la compensation change dans l’évaluation
 
-Après une crise, certaines personnes ressentent une pression forte pour contrebalancer ce qu’elles redoutent pour leur poids. Dans la boulimie nerveuse, les comportements compensatoires inappropriés se répètent et font partie de ce que l’équipe évalue, avec la perte de contrôle, les préoccupations liées au corps et la souffrance ou le retentissement. L’hyperphagie boulimique comprend aussi des crises récurrentes avec perte de contrôle. L’évaluation y retrouve un autre tableau, sans la répétition des compensations qui caractérise la boulimie nerveuse. Les soignants examinent aussi la possibilité d’autres troubles, dont certaines formes d’anorexie mentale qui comportent des crises et des compensations. Chez Victoire, dire ce qui suit l’épisode aide à préciser ce qu’elle traverse et à parler de conséquences que le seul récit du repas aurait laissées de côté.
+Après une crise, certaines personnes ressentent une pression forte pour contrebalancer ce qu’elles redoutent pour leur poids. Dans la boulimie nerveuse, les comportements compensatoires inappropriés se répètent et font partie de ce que l’équipe évalue, avec la perte de contrôle, les préoccupations liées au corps et la souffrance ou le retentissement. L’hyperphagie boulimique comprend aussi des crises récurrentes avec perte de contrôle. L’évaluation y retrouve un autre tableau, sans la répétition des compensations qui caractérise la boulimie nerveuse. Les soignants examinent aussi la possibilité d’autres troubles, dont certaines formes d’anorexie mentale qui comportent des crises et des compensations.
+
+## Du soulagement bref à la peur d’en parler
+
+L’impression de reprendre la main peut compter dans la répétition du comportement. Pour Victoire, la pression baisse brièvement et une autre inquiétude apparaît, celle de devoir dissimuler ce qui vient de se passer. En consultation, elle est tentée de dire seulement qu’elle a travaillé le lendemain. Cette réponse laisserait de côté la peur de prendre du poids et les compensations répétées, qui lui demandent encore un effort pour les raconter.
 
 ## Laisser une place à ce qui était difficile à dire
 
-L’impression de reprendre la main peut compter dans la répétition du comportement. Pour Victoire, la pression baisse brièvement et une autre inquiétude apparaît, celle de devoir dissimuler ce qui vient de se passer. La consultation peut suivre cet enchaînement avec elle, sans entrer ici dans les pratiques qui la mettent en difficulté. Son équipe peut évaluer son état physique, reprendre le calendrier du suivi et explorer avec elle les moments où elle souhaiterait un soutien. Selon la HAS, la prise en charge articule les dimensions médicale, psychologique, nutritionnelle et sociale. La docteure Benali lui demande quel point elle aimerait transmettre à Nora et quel sujet elle préfère aborder elle-même. Victoire propose que la médecin leur rappelle qu’elle a enfin parlé de l’après-crise.
+Dire ce qui suit l’épisode aide Victoire à parler de conséquences que le seul récit du repas aurait laissées de côté. La consultation peut suivre cet enchaînement avec elle. Son équipe peut évaluer son état physique, reprendre le calendrier du suivi et explorer avec elle les moments où elle souhaiterait un soutien. Selon la HAS, la prise en charge articule les dimensions médicale, psychologique, nutritionnelle et sociale. La docteure Benali lui demande quel point elle aimerait transmettre à Nora et quel sujet elle préfère aborder elle-même. Victoire propose que la médecin leur rappelle qu’elle a enfin parlé de l’après-crise.
 
 ## Le portail dessiné à côté des questions
 
 En sortant, Victoire s’assoit dans le couloir pour envoyer le plan à Lila. Elle déplace la flèche vers la vitrine, puis garde son téléphone ouvert. Elle voudrait dire à Lila qu’elle est suivie et lui demander ce qu’elle peut attendre d’une conversation. Elle lui propose de s’asseoir le lendemain près de la boutique, à la pause de midi. Dans son carnet, elle note l’accord sur ce que la docteure Benali transmettra à Nora.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et FFAB, Boulimie et hyperphagie boulimique, recommandations de bonne pratique](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique)
-- [Haute Autorité de santé et FFAB, prise en charge pluriprofessionnelle coordonnée](https://www.has-sante.fr/jcms/p_3099804/fr/prise-en-charge-pluriprofessionnelle-coordonnee-fiche-outil)

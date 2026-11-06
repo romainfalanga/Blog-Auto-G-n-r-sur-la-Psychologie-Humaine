@@ -33,7 +33,11 @@ Il commence à écrire, puis dit doucement : « Là, tes mains. » Irène regard
 
 Un mouvement répété peut entraver une activité à un moment et accompagner une autre activité sans la gêner. Sur le canapé, Irène peut reprendre sa page au moment voulu. Au premier essai de l’atelier, les pages circulaient et elle perdait le raccord avant de pouvoir reprendre. Ces deux observations sont utiles ensemble. Une remarque sur ses mains attire son attention sur un événement qui, à ce moment-là, n’est pas son problème.
 
-Certaines personnes trouvent des mouvements familiers agréables ou apaisants ; d’autres les trouvent gênants à certains moments. Irène dit ce qui vaut pour elle sur ce canapé. Son père peut aussi dire ce qui l’a inquiété dans ce qu’Irène lui a raconté de l’atelier. Ils pourront comparer leurs observations et garder la possibilité d’en parler avec l’équipe pédiatrique si la difficulté change.
+Certaines personnes trouvent des mouvements familiers agréables ou apaisants ; d’autres les trouvent gênants à certains moments.
+
+## Comment cette difficulté se manifeste
+
+Irène dit ce qui vaut pour elle sur ce canapé. Son père peut aussi dire ce qui l’a inquiété dans ce qu’Irène lui a raconté de l’atelier. Ils pourront comparer leurs observations et garder la possibilité d’en parler avec l’équipe pédiatrique si la difficulté change.
 
 ## Revenir à ce que la personne essaie de faire
 
@@ -44,8 +48,3 @@ Irène voudrait garder en mémoire les fois où elle a besoin de quelque chose. 
 ## Une définition au verso
 
 Irène demande à son père de reprendre sa définition. Il avait écrit « endroit qui… ». Elle lui propose de finir par « … fait croire qu’on a déjà choisi ». Il reprend le feutre. Sur un bout de papier à elle, Irène note « petite table : garder le raccord visible ». Elle ne note rien sur le canapé. Au dîner, son père hésite au milieu d’une histoire et Irène lui dit : « Tu en étais à la sortie du rond-point. » Il reprend à cet endroit. Ça leur donne une façon très ordinaire de parler de ce qu’ils se demandent.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Great Ormond Street Hospital for Children (NHS) — Stereotypies: repetitive movements or sounds (2026)](https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/stereotypies-repetitive-movements-or-sounds/)

@@ -100,5 +100,3 @@ Le handicap invisible met parfois les personnes devant une exigence de preuve im
 Une demande concrète peut être entendue sans récit médical public. Une activité agréable peut rester présente sans annuler les difficultés dans un autre contexte. Ces distinctions aident à préserver l'autonomie et la vie privée, même lorsque certaines incompréhensions persistent.
 
 Si vos difficultés ne sont pas reconnues au travail, un professionnel de santé au travail ou de prévention et les relais compétents peuvent vous accompagner. Pour un retentissement émotionnel durable, un psychologue peut également soutenir la démarche. Vous n'avez pas à rendre la souffrance visible en permanence pour qu'elle compte.
-
-Sources : [Mon Parcours Handicap, comprendre le handicap invisible](https://www.monparcourshandicap.gouv.fr/actualite/handicap-invisible-des-difficultes-bien-reelles-derriere-labsence-de-signes-visibles) ; [Mon Parcours Handicap, maintien dans l'emploi et interlocuteurs](https://www.monparcourshandicap.gouv.fr/emploi/quest-ce-que-le-maintien-dans-lemploi).

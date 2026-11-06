@@ -31,7 +31,11 @@ Rachid écrit « Pour mardi, ça passe à dix-neuf heures. Je m’en occupe. » 
 
 ## Quand une information incomplète ressemble à un rejet
 
-Dans certaines situations, une incertitude dans un lien peut prendre une place importante avant que la personne ait obtenu les informations dont elle a besoin. Mina entend une mise à l’écart dans un changement d’heure. Le texte annonce un déplacement de livraison et dit que Rachid s’en occupe. Il reste à savoir ce qu’il entend par là. Mina peut éprouver de l’inquiétude et demander une précision sur la tâche au même moment.
+Dans certaines situations, une incertitude dans un lien peut prendre une place importante avant que la personne ait obtenu les informations dont elle a besoin. Mina entend une mise à l’écart dans un changement d’heure. Le texte annonce un déplacement de livraison et dit que Rachid s’en occupe. Il reste à savoir ce qu’il entend par là.
+
+## Comment cette difficulté se manifeste
+
+Mina peut éprouver de l’inquiétude et demander une précision sur la tâche au même moment.
 
 Au suivi, elle peut raconter comment elle en est venue à se préparer à annuler son cours et ce que la réponse de Rachid a changé. L’entretien peut s’intéresser à la façon dont des situations semblables se répètent et aux effets qu’elles ont. Au local, la question pratique peut rester plus courte que tout ce qui lui vient en tête.
 
@@ -44,8 +48,3 @@ Cette conversation peut aussi donner une information pour la prochaine livraison
 ## Le trait s’arrête au milieu du prénom
 
 Rachid répond qu’il prendra les cartons à dix-neuf heures. Il lui demande si elle peut laisser les étiquettes près de la porte. Mina remet son prénom sur le tableau à côté de « préparation », puis écrit celui de Rachid près de l’heure de livraison. En glissant le feutre dans le tiroir, elle retrouve le coin de papier vert. Elle le glisse dans son étui avec l’échantillon rouille. Il lui reste le temps de passer à l’atelier avant l’ouverture du cours.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG78, accompagnement des personnes présentant un profil borderline](https://www.nice.org.uk/guidance/cg78/chapter/Recommendations)

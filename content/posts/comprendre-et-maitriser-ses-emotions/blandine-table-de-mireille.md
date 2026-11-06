@@ -33,7 +33,11 @@ Son cousin commence une phrase : « Si ça te fait toujours cet effet après tou
 
 Un rituel de souvenir peut réveiller une émotion vive et avoir une place ordinaire dans le deuil. L’OMS souligne que les coutumes, les dates marquées et les façons de montrer son chagrin varient selon les familles et leurs contextes sociaux, culturels ou religieux. Pour la CIM-11, six mois constituent un repère minimal : dans certains contextes, une durée bien plus longue reste attendue. Le temps écoulé ne suffit jamais. L’évaluation prend aussi en compte la persistance, l’intensité, le contexte de la personne et les effets sur sa vie.
 
-Mireille ne dispose que d’un moment à table et du souvenir des repas précédents. Elle peut apprendre ce que Blandine souhaite pour cette journée. Les larmes qui surviennent en voyant l’écriture de Jeanne ne permettent pas de tirer une conclusion sur l’état de Blandine. Elles peuvent coexister avec le plaisir d’entendre le cousin raconter la dispute des deux sœurs à propos de la meilleure variété de prunes.
+Mireille ne dispose que d’un moment à table et du souvenir des repas précédents.
+
+## Comment cette difficulté se manifeste
+
+Elle peut apprendre ce que Blandine souhaite pour cette journée. Les larmes qui surviennent en voyant l’écriture de Jeanne ne permettent pas de tirer une conclusion sur l’état de Blandine. Elles peuvent coexister avec le plaisir d’entendre le cousin raconter la dispute des deux sœurs à propos de la meilleure variété de prunes.
 
 ## Garder le rituel et choisir ce qui circule
 
@@ -44,8 +48,3 @@ Blandine sait que ce déjeuner lui coûte de l’énergie ; elle veut encore ent
 ## La photo de la tarte
 
 Mireille prend la photo après que Blandine a rapproché du plat la carte au nom de Jeanne. Elles regardent ensuite le feuillet. L’initiale au dos est celle de leur mère ; Mireille lui rapportera la feuille. Blandine garde les autres et glisse dans une chemise jaune Le Pont et Les Fenêtres, les deux titres nommés par Léon. Les Saules reste sous l’élastique bleu. Dans le bus, elle s’aperçoit qu’elle a encore dans sa poche le morceau de papier sur lequel elle voulait noter la variété des prunes.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS — Grief after bereavement or loss : vécu du deuil et soutien](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)

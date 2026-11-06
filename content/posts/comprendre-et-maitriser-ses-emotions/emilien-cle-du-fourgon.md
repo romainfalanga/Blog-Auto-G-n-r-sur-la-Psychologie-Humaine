@@ -31,17 +31,18 @@ Au moment de passer devant la vitre du kiosque, il voit qu’il tient dans la m�
 
 ## Comprendre quand un nouveau risque change la réponse
 
-Émilien n’est plus seulement devant un devis qu’il peut laisser de côté. Il s’apprête à conduire alors qu’il perd le fil de ses échanges, après plusieurs nuits très courtes et alors que le déplacement n’a plus d’objet ce soir. Un rendez-vous est déjà prévu. De nouveaux éléments peuvent pourtant rendre nécessaire de reprendre contact plus vite. Le NICE recommande une évaluation spécialisée urgente lorsqu’une manie est suspectée ou qu’il existe un danger pour la personne ou pour d’autres. Il n’est pas nécessaire que les proches sachent nommer l’épisode ni qu’ils attendent de voir si la situation se résout d’elle-même. Ils peuvent décrire la conduite prévue, le changement du sommeil et ce qu’ils observent sur le moment.
+Émilien n’est plus seulement devant un devis qu’il peut laisser de côté. Il s’apprête à conduire alors qu’il perd le fil de ses échanges, après plusieurs nuits très courtes et alors que le déplacement n’a plus d’objet ce soir. Un rendez-vous est déjà prévu. De nouveaux éléments peuvent pourtant rendre nécessaire de reprendre contact plus vite.
+
+## La conduite devient urgente à ses yeux
+
+Émilien a avancé la réservation du fourgon et veut partir alors que le dépôt est fermé. Il peine à retrouver le fil de ses derniers appels et ne retrouve plus la pochette avec l’adresse. Il a presque cessé de dormir et ne ressent pas le besoin de se reposer. Dorian voit qu’il veut prendre le volant malgré ces difficultés. Cette prise de risque ajoute une urgence aux changements qu’Émilien avait déjà signalés.
 
 ## Donner la priorité à la sécurité et passer le relais
 
 Lucie peut retrouver le contact urgent prévu dans le plan. Dorian peut proposer à Émilien de s’asseoir à côté de lui près du kiosque, s’il le souhaite. Le but immédiat est de ne pas partir au volant et de joindre un professionnel qui pourra évaluer la situation. Si le danger est immédiat, les services d’urgence prennent le relais. Un proche ne se met pas en danger pour retenir la personne, ne se lance pas dans un débat sur le dépôt et ne tente pas de régler lui-même la question du traitement. Émilien peut prendre part à l’appel et dire ce qu’il veut expliquer en premier.
 
+Le NICE recommande une évaluation spécialisée urgente lorsqu’une manie est suspectée ou qu’il existe un danger pour la personne ou pour d’autres. Il n’est pas nécessaire que les proches sachent nommer l’épisode ni qu’ils attendent de voir si la situation se résout d’elle-même. Ils peuvent décrire la conduite prévue, le changement du sommeil et ce qu’ils observent sur le moment.
+
 ## Les clés restent sur la table
 
 Émilien remet la clé sur le comptoir et demande à laisser le véhicule là. Il n’est pas convaincu que la sortie était une mauvaise idée ; il sait au moins qu’il n’arrive plus à retrouver l’adresse. Au kiosque, Dorian s’écarte pour qu’il puisse parler. Émilien dit au service joint : « J’ai encore raccourci mes nuits. Je pensais prendre la route alors que tout est fermé. » On lui indique où il va pouvoir être évalué rapidement. Il demande à Dorian s’il peut attendre le temps d’organiser le trajet.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

@@ -31,7 +31,11 @@ Solène reconnaît les quatre chiffres du code d’entrée quand Livia les lit. 
 
 ## Le malaise et la confusion demandent une évaluation
 
-Un malaise avec une confusion nouvelle mérite une réponse médicale urgente, y compris lorsque la personne est déjà suivie pour sa santé mentale. Livia appelle parce que Solène a failli tomber, dit que la pièce tourne et ne reconnaît plus bien l’endroit où elle se trouve. Il revient aux professionnels d’évaluer ces faits et leurs causes. La CIM-11 demande de tenir compte d’autres causes médicales dans l’évaluation de symptômes qui pourraient ressembler à des manifestations psychotiques. Ici, Livia a une décision de sécurité à prendre avant toute explication.
+Un malaise avec une confusion nouvelle mérite une réponse médicale urgente, y compris lorsque la personne est déjà suivie pour sa santé mentale. Livia appelle parce que Solène a failli tomber, dit que la pièce tourne et ne reconnaît plus bien l’endroit où elle se trouve. Il revient aux professionnels d’évaluer ces faits et leurs causes. La CIM-11 demande de tenir compte d’autres causes médicales dans l’évaluation de symptômes qui pourraient ressembler à des manifestations psychotiques.
+
+## Comment cette difficulté se manifeste
+
+Ici, Livia a une décision de sécurité à prendre avant toute explication.
 
 En France, le 15 joint le Samu en cas d’urgence médicale et le 112 permet de joindre les secours. La personne présente peut donner l’adresse, décrire ce qui vient de changer et dire ce qu’elle ignore. La régulation décide de la réponse et donne des consignes adaptées. Le numéro de l’équipe habituelle garde sa place pour le suivi ; dans cette scène, attendre un rappel du cabinet retarderait l’évaluation du malaise.
 
@@ -44,10 +48,3 @@ Solène parvient à dire que l’interphone est en panne. Cette information aide
 ## Le carnet entre dans le sac
 
 Quand les intervenants arrivent, l’un s’adresse directement à Solène pendant que l’autre demande à Livia quand elle l’a trouvée. L’équipe évalue Solène et organise son transfert aux urgences. Elle a entendu la question sur les affaires à emporter. Elle dit « Le carnet, dans mon sac », puis laisse Livia le chercher. Livia transmet aux intervenants les coordonnées de la psychiatre. Après leur départ, elle pose le pain sur une assiette et appelle sa sœur. Elle voudrait que quelqu’un passe la rejoindre. Elle ne sait pas encore combien de temps elle aura besoin de compagnie.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Service Public, numéros d’urgence en France](https://www.service-public.gouv.fr/particuliers/vosdroits/F33954)
-- [NSW Health, communiquer avec une personne qui traverse une psychose](https://www.health.nsw.gov.au/mentalhealth/psychosocial/strategies/Pages/communicating-psychosis.aspx)
-- [Assurance Maladie, vertiges : quand consulter immédiatement](https://www.ameli.fr/assure/sante/themes/vertiges/bons-reflexes-que-faire)

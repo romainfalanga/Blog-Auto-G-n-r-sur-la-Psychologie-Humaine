@@ -98,5 +98,3 @@ L’aide consentie demande de vérifier la forme, le moment et la portée d’un
 Vincent apprend à distinguer le besoin de Cédric de sa propre inquiétude. Il conserve une présence active et accepte de ne pas décider de chaque geste. Cette pratique ne garantit pas des sorties sans difficulté. Elle permet néanmoins que les appuis choisis soutiennent la relation, au lieu d’obliger l’un à interrompre constamment l’autre pour retrouver sa place.
 
 Si les interventions non souhaitées ou les inquiétudes autour de l’aide deviennent une source durable de tension, un psychologue ou un professionnel de l’accompagnement peut aider à clarifier les accords. Les choix et les limites des deux personnes méritent d’être entendus. Un soutien adapté peut aussi porter sur les obstacles concrets qui rendent certaines situations plus difficiles.
-
-Sources : [Nadler et Chernyak-Hai, formes d’aide orientées vers les moyens d’agir ou la prise en charge](https://doi.org/10.1037/a0034152) ; [Guide ministériel sur l’accueil des personnes handicapées](https://www.ecologie.gouv.fr/sites/default/files/documents/bien%20accueillir%20MAJ%202025_VF_0.pdf).

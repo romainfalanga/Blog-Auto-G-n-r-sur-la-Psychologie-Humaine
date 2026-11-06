@@ -1,5 +1,5 @@
 ---
-title: "Malik : nommer une discrimination sans s’y réduire"
+title: Nommer une discrimination sans s’y réduire
 date: 2026-09-12T09:00:00+00:00
 description: "Écarté d’une présentation à cause de son origine, Malik cherche des appuis. Il garde le fait visible sans lui laisser définir toute sa vie."
 slug: "malik-discrimination-rester-soi"
@@ -98,7 +98,3 @@ Reconnaître une discrimination permet de garder visible un traitement injuste s
 Conserver des repères, choisir un soutien et préserver une part de vie ordinaire peuvent redonner des possibilités. Ces gestes ne garantissent pas une réparation et ne retirent pas aux organisations leur responsabilité. La personne garde le droit d’être atteinte, de réfléchir et de décider de son rythme.
 
 Un professionnel compétent peut examiner les options liées aux discriminations ; le Défenseur des droits fournit un cadre d’information. Si la détresse se prolonge, un médecin ou un psychologue peut offrir un soutien complémentaire. Ce soutien ne doit ni minimiser l’injustice ni déduire une fragilité de l’origine de la personne.
-
-Sources :
-- [Défenseur des droits, définition et domaines de discrimination](https://www.defenseurdesdroits.fr/discrimination-1229)
-- [Service Public, information générale sur les discriminations au travail](https://www.service-public.gouv.fr/particuliers/vosdroits/F1642)

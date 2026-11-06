@@ -90,5 +90,3 @@ La charge de travail ne se réduit pas à une liste ni à la capacité d'une per
 Vous pouvez choisir un exemple concret et montrer ce qu'il demande réellement, puis demander quelle activité doit attendre si tout ne peut pas être fait. Une priorité devient utile lorsqu'elle s'accompagne d'un ordre, d'un report reconnu et d'une suite. La discussion peut rester difficile ; elle n'a pas besoin de résoudre tout le travail pour rendre une première décision plus claire.
 
 Si la charge s'accompagne d'une souffrance durable, de troubles qui persistent ou d'un risque pour votre sécurité, un professionnel de santé et les interlocuteurs de prévention peuvent vous aider. Leur appui peut compléter une démarche sur l'organisation. Il est légitime de prendre soin de vos ressources tout en demandant que les conditions du travail soient examinées.
-
-Sources : [INRS, facteurs de stress dans les situations de travail](https://www.inrs.fr/risques/stress/exposition-risques-facteurs-stress) ; [INRS, objectifs, moyens et priorités au quotidien](https://www.inrs.fr/dam/inrs/CataloguePapier/ED/TI-ED-6250.pdf).

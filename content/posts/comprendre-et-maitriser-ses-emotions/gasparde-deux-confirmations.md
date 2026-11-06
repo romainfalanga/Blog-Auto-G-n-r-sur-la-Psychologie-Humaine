@@ -32,7 +32,11 @@ Basile revient avec un registre à grands carreaux. Il l’ouvre au milieu, là 
 
 Un incident réel mérite une réponse concrète, même lorsqu’il s’accompagne d’une inquiétude plus difficile à départager. Gasparde et Basile ont bien envoyé deux confirmations incompatibles. Ils peuvent reprendre les heures d’envoi et corriger les réservations. Le sentiment d’être visée demande une autre conversation, si Gasparde souhaite l’avoir. L’un de ces sujets peut avancer alors que l’autre reste douloureux.
 
-L’OMS décrit, dans le trouble délirant, des degrés variables de détresse, de préoccupation et de conviction. Chez Gasparde, le geste de Basile vers le casier et le choc de la chaise deviennent très saillants à un moment où elle redoute une mise en cause. Sa compétence sur les réservations se voit aussi. Elle retrouve l’ordre des confirmations et se rappelle une contrainte qui compte pour Dounia.
+L’OMS décrit, dans le trouble délirant, des degrés variables de détresse, de préoccupation et de conviction.
+
+## Comment cette difficulté se manifeste
+
+Chez Gasparde, le geste de Basile vers le casier et le choc de la chaise deviennent très saillants à un moment où elle redoute une mise en cause. Sa compétence sur les réservations se voit aussi. Elle retrouve l’ordre des confirmations et se rappelle une contrainte qui compte pour Dounia.
 
 ## Rendre la correction possible pour les deux
 
@@ -43,8 +47,3 @@ Basile peut reconnaître le changement qu’il a affiché sans prévenir et pren
 ## La première page du registre
 
 Dounia confirme qu’elle compte venir mardi à dix-huit heures. Agnès accepte dix-neuf heures, après avoir demandé à sa sœur si elle peut décaler le dîner. Basile inscrit les deux heures. Gasparde trace un trait en haut de la page et écrit « essai, trois semaines ». Elle tient à ce qu’une heure d’accueil figure aussi dans la prochaine version. Dounia, encore au téléphone, lui demande si on pourrait y venir pour essayer, même sans connaître les autres. Gasparde lui propose d’en parler mardi sur place. Elle range le vieux carnet dans son sac et laisse le registre ouvert sous la lampe.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NSW Health, communiquer avec une personne qui vit une expérience psychotique](https://www.health.nsw.gov.au/mentalhealth/psychosocial/strategies/Pages/communicating-psychosis.aspx)

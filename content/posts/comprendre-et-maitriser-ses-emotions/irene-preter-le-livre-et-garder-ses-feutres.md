@@ -31,21 +31,18 @@ Son père l’attend dans le hall. La veille, après le point de suivi avec la D
 
 ## Regarder ce que le soutien a permis
 
-Un suivi peut porter sur les activités que la personne veut retrouver ou poursuivre et sur les conditions qui l’y aident. Au rendez-vous après le samedi, Irène a parlé de la place laissée autour de la table, du dernier pli qu’Ilyès lui avait montré et de la question qu’elle a pu poser au garçon. Elle n’a pas eu à donner le nombre de fois où ses mains ont bougé. La pédiatre leur a demandé de reprendre contact si une douleur ou un risque réapparaît, ou si les difficultés la gênent davantage dans ce qu’elle tient à faire.
+Un suivi peut porter sur les activités que la personne veut retrouver ou poursuivre et sur les conditions qui l’y aident. La Dre Rivière demande à Irène de raconter ce que ses mouvements ont changé pendant la lecture et comment elle a retrouvé le fil. Ce récit permet d’apprécier le retentissement du trouble dans une activité précise. La pédiatre leur a demandé de reprendre contact si une douleur ou un risque réapparaît, ou si les difficultés la gênent davantage dans ce qu’elle tient à faire.
 
-Ces appuis ont servi dans un lieu et avec des personnes précises. Irène pourra garder ce qu’elle trouve utile et en reparler si elle commence un autre projet. Elle peut aussi laisser le livre disponible et choisir de ne pas venir à chaque lecture.
+## Le pli retrouvé pendant la lecture
+
+Irène raconte à la pédiatre qu’il y avait assez de place autour de la table pour qu’elle garde son côté du livre quand ses mains ont repris leur mouvement. Elle a regardé vers le garçon qui riait et a perdu de vue la miche qu’il montrait. Un pli venait de la cacher. Ilyès a retrouvé la page grâce au signet et Irène a repris l’échange en demandant qui viendrait sonner. Elle a pu écouter la réponse et dessiner le trajet proposé. La place, le pli et cette question donnent à la pédiatre des repères sur ce qu’Irène a pu poursuivre malgré l’interruption.
 
 ## Décider ce qui reste dans la salle
 
-Irène et Ilyès peuvent montrer à Mylène comment ouvrir le livre et convenir d’une date pour venir le reprendre. Il y a plusieurs objets à répartir : le livre, les flèches qui y mènent, les signets pour les lecteurs et les croquis auxquels ils tiennent. Les feutres sont à Irène. Elle peut les garder même si les personnes de la médiathèque ont envie d’annoter un plan de la rue.
+Irène pourra reprendre les appuis qui lui ont servi si elle décide de commencer un autre livre. Pour celui-ci, Irène et Ilyès peuvent montrer à Mylène comment l’ouvrir et convenir d’une date pour venir le reprendre. Il y a plusieurs objets à répartir : le livre, les flèches qui y mènent, les signets pour les lecteurs et les croquis auxquels ils tiennent. Les feutres sont à Irène. Elle peut les garder même si les personnes de la médiathèque ont envie d’annoter un plan de la rue.
 
 Pour les autres chemins, le duo peut laisser des feuilles à part et décider plus tard s’il veut en lire certaines. La fenêtre, la fausse impasse et le banc restent là où ils les ont dessinés. Le projet a une forme assez complète pour continuer sans qu’ils viennent résoudre chaque hésitation du prochain lecteur.
 
 ## Le livre dans la salle, la trousse sous le bras
 
 Irène demande à Ilyès s’il est d’accord pour laisser le livre jusqu’à la fin du mois. Il dit oui et marque la date sur le calendrier de la salle pendant qu’elle montre à Mylène comment suivre les deux entrées. Ils laissent un pot de crayons de la médiathèque et quelques feuilles pour les chemins inventés. Irène remet le ticket d’Aya près du banc et glisse le croquis du garçon dans son cahier. Dans le hall, elle retrouve son père et sort un feutre de sa trousse : « Tu crois que sous le banc, on pourrait mettre une gare ? » Il lui demande où irait le premier train.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Great Ormond Street Hospital for Children (NHS) — Stereotypies: repetitive movements or sounds (2026)](https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/stereotypies-repetitive-movements-or-sounds/)

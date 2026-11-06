@@ -1,5 +1,5 @@
 ---
-title: "Malik : trouver ses mots pour les émotions"
+title: Trouver ses mots pour les émotions
 date: 2026-09-06T09:00:00+00:00
 description: "Un message à Awa fait hésiter Malik entre plusieurs formulations. Il cherche des mots fidèles à son émotion, dans les langues de sa vie."
 slug: "malik-langues-emotions"
@@ -100,6 +100,3 @@ La langue et l’expression des émotions se rencontrent dans des histoires pers
 Partir d’une scène, comparer des formulations et vérifier ce que l’autre entend peut aider à préciser un message. Les mots n’ont pas besoin d’être parfaits pour commencer une conversation. L’écoute, le temps disponible et le droit de garder certains détails privés participent aussi à la compréhension.
 
 Si nommer ou partager les émotions reste durablement pénible, un psychologue peut accompagner cette exploration, dans une langue et des modalités adaptées lorsque cela est possible. L’accompagnement doit respecter le répertoire et les préférences de la personne. Il ne s’agit pas de diagnostiquer une difficulté à partir de son bilinguisme ou de sa migration.
-
-Sources :
-- [Harris et ses collègues, étude sur des expressions émotionnelles chez des personnes bilingues](https://www.bu.edu/psych/charris/papers/BilingualTaboo.pdf)

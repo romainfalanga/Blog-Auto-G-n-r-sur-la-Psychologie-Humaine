@@ -62,6 +62,7 @@ Priya imagine qu’elle a pris le poste et qu’en octobre elle envisage de part
 Julie travaille dans le secteur hospitalier. Au café, Priya lui montre une des pages. Julie connaît le nom d’un médecin qui a quitté une fonction semblable. Elle se rappelle qu’il parlait souvent du manque de temps avec les patients, sans savoir si c’est ce qui l’a fait partir. Priya lui demande s’il accepterait d’en parler.
 
 Le soir, elle garde la brochure et prépare deux questions sur le temps de consultation et les décisions du service. Un seul départ ne lui permet pas de trancher davantage que trois témoignages favorables. Elle n’écrit aucune réponse à la clinique ce soir-là.
+
 ---
 
 Les personnes visibles dans un témoignage ne représentent pas nécessairement toutes celles qui ont essayé. Chercher des expériences différentes permet de poser de meilleures questions, même quand le tableau reste incomplet.

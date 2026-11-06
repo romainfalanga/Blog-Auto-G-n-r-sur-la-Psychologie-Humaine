@@ -1,0 +1,39 @@
+{
+  "references": {
+    "apa-dissociation": {
+      "title": "American Psychiatric Association, présentation clinique des troubles dissociatifs",
+      "url": "https://www.psychiatry.org/patients-families/dissociative-disorders/what-are-dissociative-disorders"
+    },
+    "mayo-depersonnalisation": {
+      "title": "Mayo Clinic, évaluation et prise en charge du trouble dépersonnalisation-déréalisation",
+      "url": "https://www.mayoclinic.org/diseases-conditions/depersonalization-derealization-disorder/diagnosis-treatment/drc-20352916"
+    },
+    "hunter-essai-faisabilite": {
+      "title": "Hunter et al., essai randomisé de faisabilité sur une TCC adaptée au trouble dépersonnalisation-déréalisation",
+      "url": "https://link.springer.com/article/10.1186/s40814-025-01742-1"
+    }
+  },
+  "dossier": {
+    "name": "Trouble dépersonnalisation-déréalisation",
+    "aliases": [
+      "Dépersonnalisation",
+      "Déréalisation",
+      "Trouble de dépersonnalisation-déréalisation"
+    ],
+    "references": [
+      "oms-cddr",
+      "apa-dissociation",
+      "mayo-depersonnalisation",
+      "hunter-essai-faisabilite"
+    ],
+    "points": [
+      "OMS CDDR, 6B66, pp. 391–392, et APA, section consacrée au trouble dépersonnalisation-déréalisation. La dépersonnalisation concerne un vécu de détachement de soi ou de ses propres activités. La déréalisation concerne le sentiment d’étrangeté ou de distance par rapport à ce qui entoure la personne. Un tableau clinique peut comporter l’une, l’autre ou les deux. Le récit décrit sobrement l’effet sur la participation sans accumuler des sensations.",
+      "OMS CDDR, 6B66, pp. 391 et 394, et APA. Durant les expériences de ce trouble, l’épreuve du réel est préservée. La personne reconnaît une modification de son vécu et distingue cette impression d’un changement du monde ou d’un contrôle de ses actes par quelqu’un d’autre. Cette distinction est un élément de l’évaluation clinique dans son ensemble. Le récit évite l’autodiagnostic et les comparaisons réductrices avec les troubles psychotiques ou les autres troubles dissociatifs.",
+      "OMS CDDR, 6B66, pp. 392–395, et Mayo Clinic, section sur l’évaluation. Le clinicien examine la répétition ou la persistance, la souffrance ou le retentissement, les circonstances et les autres causes possibles. Des moments transitoires peuvent survenir lors d’un épuisement, d’un stress intense ou dans d’autres contextes. Des symptômes similaires peuvent être liés à d’autres troubles, à un problème médical ou aux effets d’un produit ou d’un traitement. Les vérifications relèvent du professionnel selon le contexte. Aucun épisode ne fournit de procédure d’évaluation personnelle.",
+      "OMS CDDR, 6B66, pp. 392–393, et APA. Le maintien de certaines activités peut demander un effort important. Un proche peut voir une personne réservée sans percevoir la gêne. L’intensité et le contexte peuvent varier. Le récit ne déduit ni cause précise d’un épisode ni antécédent particulier du diagnostic. Joris suit le retentissement qu’il souhaite discuter en consultation et choisit les informations transmises au travail.",
+      "Mayo Clinic, sections sur le traitement et l’accompagnement, et Hunter et al., essai randomisé de faisabilité, DOI 10.1186/s40814-025-01742-1. Une prise en charge psychologique peut être discutée. Des TCC adaptées ont fait l’objet d’un essai de faisabilité. Les résultats préliminaires ne suffisent pas à établir une efficacité pour tous. Le récit montre un objectif négocié avec la clinicienne, des ajustements du projet et un retour sur leur effet, sans reproduire de protocole, de prescription ou d’exercice sensoriel.",
+      "OMS CDDR, pp. 392–394, et Mayo Clinic, sections sur l’évaluation et le soutien. Une gêne nouvelle ou un changement de retentissement peut être porté à l’attention de l’équipe sans présumer sa cause. Les décisions au travail reposent sur la disponibilité de l’équipe et les tâches prévues. Les proches peuvent offrir une aide limitée et suivre l’accord passé avec Joris. Ils ne mènent pas de test et ne décident pas du soin."
+    ]
+  },
+  "direction": "Joris, 29 ans, technicien lumière, habite un studio avec Samir, son ami d’enfance. Il travaille avec Ava sur une lecture publique à la bibliothèque. Dounia et Luc y liront chacun un texte. Joris veut proposer deux éclairages sobres qui laissent chacun lire à sa façon, puis recevoir les deux auteurs au foyer. Son trouble dépersonnalisation-déréalisation a été diagnostiqué après une évaluation professionnelle avant le début du parcours. Il le distingue d’une transformation du monde ou d’une perte de contrôle par une force extérieure, même quand le vécu lui coûte de l’énergie. Il est déjà suivi par une psychiatre. Samir connaît son diagnostic, Ava apprend ce qu’il choisit de lui dire. Le déroulement associe les décisions de lumière, le coût parfois invisible au travail et à la maison, une gêne transitoire évoquée par Samir, une évolution apportée à la consultation, les modalités de relais et une présence au foyer dont Joris peut décider de la durée. Les sensations restent peu détaillées. Aucune reconstitution dangereuse, technique de modification des perceptions ou promesse de disparition rapide."
+}

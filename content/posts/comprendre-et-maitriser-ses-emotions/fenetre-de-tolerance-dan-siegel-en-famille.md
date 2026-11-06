@@ -11,6 +11,8 @@ personnage: "Isabelle"
 sujet: "Fenêtre de tolérance comme repère pédagogique"
 contexte: "en famille"
 draft: false
+editorial_sources:
+- https://www.gov.scot/publications/trauma-informed-practice-toolkit-scotland/pages/12/
 ---
 
 La boîte de céréales tombe dans la cuisine. Isabelle l’entend rebondir deux fois. Elle vient de rentrer du collège et n’a pas encore posé son sac. « Ça va, Théo ? » demande-t-elle depuis le salon. Il met assez de temps à répondre pour qu’elle soit déjà debout.
@@ -64,5 +66,3 @@ L’image de la fenêtre peut aider à nommer le moment où une conversation dev
 Si vous vous sentez souvent agité, épuisé ou déconnecté, plusieurs explications sont possibles. En parler à un professionnel peut aider à examiner ces expériences et les circonstances qui les accompagnent.
 
 Si l'épuisement émotionnel devient trop lourd ou si vous avez l'impression de ne plus pouvoir revenir dans votre zone de confort malgré vos efforts, solliciter une aide professionnelle est une option précieuse. Un psychologue ou un thérapeute peut vous accompagner pour explorer les racines de votre stress et vous aider à reconstruire une base de sécurité solide. Prendre soin de sa santé mentale est un cadeau précieux que l'on se fait à soi-même et à ceux que l'on aime.
-
-Sources : [Gouvernement écossais, usage pédagogique de la fenêtre de tolérance](https://www.gov.scot/publications/trauma-informed-practice-toolkit-scotland/pages/12/).

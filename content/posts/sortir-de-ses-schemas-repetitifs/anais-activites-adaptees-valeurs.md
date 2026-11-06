@@ -100,5 +100,3 @@ Les activités adaptées gagnent à tenir compte des valeurs personnelles autant
 La préférence ne remplace pas la sécurité, et la sécurité ne devrait pas effacer toute possibilité de choix. Un cadre discuté peut laisser une place au plaisir, aux questions et aux révisions nécessaires. L'activité n'a pas à devenir une preuve de mérite.
 
 Pour une polyarthrite ou une autre maladie chronique, demandez aux professionnels qui vous suivent quelles activités et précautions correspondent à votre situation. N'utilisez pas un récit comme programme d'exercice. Les difficultés et les changements observés peuvent être discutés sans modifier seul les soins ou les consignes.
-
-Sources : [HAS, activité physique et polyarthrite rhumatoïde](https://www.has-sante.fr/jcms/p_3565615/fr/l-activite-physique-pour-votre-sante-polyarthrite-rhumatoide) ; [Assurance maladie, activité adaptée et suivi](https://www.ameli.fr/assure/sante/themes/polyarthrite-rhumatoide/vivre-polyarthrite-rhumatoide).

@@ -32,6 +32,8 @@ Myriam arrive à l’heure convenue pour mesurer la largeur de la photo. Inaya l
 
 Un sommeil plus court ou des réveils inhabituels peuvent accompagner un épisode dépressif et peuvent aussi avoir d’autres explications. Une mauvaise nuit, prise seule, ne suffit pas pour parler de rechute. Le NICE recommande, dans le travail de prévention, de repérer avec la personne les changements qui ont précédé des périodes d’aggravation et de prévoir une réponse si ces changements reviennent. Ce sont des repères personnels, à discuter dans le suivi.
 
+## Comment cette difficulté se manifeste
+
 Chez Inaya, la question se pose parce que plusieurs choses se rejoignent : les réveils, l’effort que demandent des tâches familières et les appels qu’elle remet. Elle se rappelle que le sommeil avait changé lors d’un épisode précédent. Elle peut donner cet élément sans affirmer que l’histoire se répète. Le professionnel qui la suit pourra lui demander ce qui a changé, depuis quand et avec quel effet au travail et à la maison.
 
 ## Appeler avant d’avoir une explication complète
@@ -43,9 +45,3 @@ Si elle n’obtient pas de réponse, le médecin qui la connaît ou un autre ser
 ## Un appel avant le prochain rendez-vous
 
 Le cabinet lui propose un bref échange téléphonique le lendemain et maintient le rendez-vous prévu. Inaya note les deux moments, puis demande à Myriam de dérouler le mètre. Elles réduisent la largeur de la photo de deux centimètres. Sur le dos du papier, Inaya écrit « rappeler si ça empire », d’après la consigne reçue. Le bus repasse devant la vitrine, en pleine lumière cette fois. Elle n’a rien trouvé qui garantisse une meilleure nuit. Elle a maintenant une personne à qui dire comment se passera la suivante.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, épisode dépressif caractérisé chez l’adulte](https://www.has-sante.fr/jcms/c_1739917/fr/episode-depressif-caracterise-de-l-adulte-prise-en-charge-en-premier-recours)
-- [NICE NG222, dépression de l’adulte](https://www.nice.org.uk/guidance/NG222/chapter/recommendations)

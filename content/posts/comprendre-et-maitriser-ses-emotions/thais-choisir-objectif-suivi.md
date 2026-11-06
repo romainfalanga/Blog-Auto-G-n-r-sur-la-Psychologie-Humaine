@@ -33,20 +33,16 @@ Thaïs pense à la promenade avec Milo, au musée et au fait de pouvoir aller ch
 
 La prise en charge d’une phobie spécifique peut inclure une thérapie comportementale et cognitive. Quand un travail avec les situations redoutées est envisagé, le choix des moyens et des conditions appartient à la personne et au professionnel qui l’accompagne. Il tient compte de l’objectif, du contexte et de la sécurité. Le fait que Thaïs choisisse de garder un rôle au sol pendant les relevés ne règle pas la question du soin. Elle peut conserver ce rôle et vouloir gagner de la liberté dans des déplacements qu’elle choisit pour elle-même.
 
-Le rendez-vous sert à préciser ce qui rend une option acceptable pour Thaïs. Elle peut demander comment se passerait le suivi, à quoi elle pourrait consentir ou renoncer et comment elles jugeraient si l’approche lui est utile. Les bénéfices possibles se discutent sans promesse de résultat individuel.
+## Les sorties que la peur rend plus difficiles à garder
+
+Thaïs repense au détour qui lui a fait manquer l’archiviste et à la sortie qu’elle voulait faire avec Milo. Dans sa première idée, elle mesure son objectif à ce qu’Inès fait au travail. En parlant de ses propres sorties, elle remarque un effet plus large. Certains passages lui prennent du temps avant même qu’elle parte et pèsent sur les rendez-vous qu’elle souhaite tenir.
 
 ## Ce qu’une étude ajoute à la conversation
 
 Dans l’essai de Freeman et ses collègues, un programme précis en réalité virtuelle a réduit à court terme la peur rapportée par des adultes qui craignaient les hauteurs, par rapport au groupe témoin. La portée du résultat tient au programme étudié, aux personnes incluses et au suivi limité dans le temps. Il peut aider Thaïs à poser une question sur les options. Il ne permet pas de savoir quel accompagnement est indiqué pour elle ou ce qu’elle pourrait obtenir près de chez elle.
 
-Mme Verdier peut accueillir sa curiosité et revenir aux possibilités du suivi. L’accord de Thaïs concerne ce qu’elles décideront ensemble. Ses collègues, son frère et le calendrier d’une mission n’ont pas à fixer les étapes ni à organiser une confrontation. Elle peut avancer à partir d’un objectif défini avec elle et signaler ce qui ne lui convient pas.
+Mme Verdier peut accueillir sa curiosité et revenir aux possibilités du suivi. Thaïs peut demander comment une option se déroulerait, ce qu’elle pourrait choisir ou interrompre et à quoi elles reconnaîtraient un changement utile. L’accord concerne ce qu’elles décideront ensemble. Les bénéfices possibles se discutent sans promesse de résultat individuel. Ses collègues, son frère et le calendrier d’une mission n’ont pas à fixer les étapes ni à organiser une confrontation. Elle peut avancer à partir d’un objectif défini avec elle et signaler ce qui ne lui convient pas.
 
 ## Un objectif écrit avec ses mots
 
 Thaïs reprend son téléphone. Elle écrit « garder des sorties que j’ai choisies » à la place de « monter ». Elle accepte d’examiner avec Mme Verdier un accompagnement centré sur cette peur et demande qu’elles puissent revenir sur chaque décision. Dans le tram, elle confirme la date du prochain entretien. Elle envoie séparément à Samir le tableau des relevés au sol. Elle n’a besoin d’aucune phrase sur son suivi dans ce message.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, Phobias](https://www.nhs.uk/mental-health/conditions/phobias/)
-- [Freeman et al., essai randomisé sur la thérapie en réalité virtuelle pour la peur des hauteurs, The Lancet Psychiatry, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6063994/)

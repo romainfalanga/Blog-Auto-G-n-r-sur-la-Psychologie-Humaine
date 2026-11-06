@@ -90,5 +90,3 @@ L'autonomie peut se construire avec des règles compréhensibles, des marges ré
 Vous pouvez demander quelle décision vous revient, quelles exigences doivent être maintenues et quel appui est disponible si la situation change. Un choix limité peut être significatif lorsqu'il répond à vos raisons et peut être révisé avec l'expérience. Vous n'avez pas à tout faire seul pour participer réellement à votre parcours.
 
 Si le manque de marge ou la peur de demander provoquent une souffrance durable, un professionnel peut vous accompagner pour examiner la situation. Les responsables du travail ou de la formation peuvent aussi agir sur les objectifs, les moyens et les retours. Vous avez le droit de chercher une autonomie qui soutient votre vie, avec des liens et un cadre sur lesquels vous pouvez compter.
-
-Sources : [Deci et Ryan, autonomie, compétence et lien dans la motivation](https://selfdeterminationtheory.org/theory/) ; [Jang, Reeve et Deci, soutien à l'autonomie et structure dans l'apprentissage](https://eric.ed.gov/?id=EJ892818).

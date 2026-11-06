@@ -31,7 +31,11 @@ Célian pose le téléphone à plat et coupe l’enregistrement. Il décide de g
 
 ## Quand chercher un appui ajoute à la charge cognitive
 
-Un support qui réduit l’effort de lecture peut devenir plus encombrant si la personne doit chercher la bonne version ou gérer plusieurs informations en même temps. Chez Célian, les messages courts avaient fonctionné lors de l’essai avec Maxime. Avant le goûter, la comparaison entre les enregistrements lui prend du temps au moment où il faut préparer deux fournées et vérifier ce qui sera affiché. La fatigue et les exigences de la tâche peuvent accentuer une gêne déjà présente. Cela n’efface pas l’utilité de l’essai précédent. Célian peut changer d’appui pour cette soirée, sans renoncer à demander des supports audio dans d’autres situations.
+Un support qui réduit l’effort de lecture peut devenir plus encombrant si la personne doit chercher la bonne version ou gérer plusieurs informations en même temps.
+
+## Comment cette difficulté se manifeste
+
+Chez Célian, les messages courts avaient fonctionné lors de l’essai avec Maxime. Avant le goûter, la comparaison entre les enregistrements lui prend du temps au moment où il faut préparer deux fournées et vérifier ce qui sera affiché. La fatigue et les exigences de la tâche peuvent accentuer une gêne déjà présente. Cela n’efface pas l’utilité de l’essai précédent. Célian peut changer d’appui pour cette soirée, sans renoncer à demander des supports audio dans d’autres situations.
 
 ## Retrouver une seule référence
 
@@ -40,9 +44,3 @@ Célian utilise la recette du carnet pour les détails et garde sa petite carte 
 ## Le carnet reste ouvert
 
 Avant le départ de Léonie, ils finissent la liste et la laissent avec les emballages dans la caisse du goûter. Elle retourne son panneau contre le mur pour qu’il sèche, annonce qu’elle arrivera à la salle du club dès la fin du match et file au bus. Célian retrouve l’étape qu’il avait perdue dans l’audio. Il termine les deux fournées plus tard qu’il l’avait prévu, avec assez de temps pour les installer dans les boîtes une fois prêtes. Il envoie à Yanis l’heure à laquelle il peut passer pour les charger. Sur sa carte, il reste une dernière ligne : prendre le maillot. Il le glisse tout de suite dans le sac.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé — Guide du parcours de santé des enfants avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)
-- [Entreprendre Service Public — Information sur les allergènes des produits alimentaires](https://entreprendre.service-public.gouv.fr/vosdroits/F32192)

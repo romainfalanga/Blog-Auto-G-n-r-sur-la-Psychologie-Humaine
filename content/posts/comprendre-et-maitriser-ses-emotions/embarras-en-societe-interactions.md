@@ -11,6 +11,9 @@ personnage: "Mei"
 sujet: "embarras"
 contexte: "en société et dans les interactions sociales"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/21928915/
+- https://www.nice.org.uk/Guidance/CG159/chapter/recommendations
 ---
 
 Au vernissage, une visiteuse tient le programme ouvert contre le mur pour faire correspondre les noms et les numéros. Elle demande à Mei où se trouve l’artiste du dessin devant elles. Mei lui montre la planche du bout du doigt. Il lui vient d’abord une réponse sur le numéro, puis elle comprend qu’on attend un nom.
@@ -72,5 +75,3 @@ Plus tard, une étudiante s’arrête devant le dessin. Mei est à côté. Elle 
 L'embarras en société est une émotion courante, souvent accompagnée de signes physiques comme le rougissement. Elle se distingue de la honte par sa brièveté et son rôle de régulateur social. Mieux comprendre ce mécanisme permet d'utiliser des outils concrets comme la respiration, la réévaluation des pensées et l'exposition progressive.
 
 Si l'embarras ou l'anxiété sociale deviennent trop pesants et limitent votre quotidien, n'hésitez pas à vous tourner vers un professionnel de la santé mentale. Un psychologue pourra vous proposer un accompagnement sur mesure, notamment à travers les thérapies cognitives et comportementales, pour vous aider à retrouver sérénité et confiance dans vos échanges.
-
-Sources : [Feinberg, Willer et Keltner, 2012](https://pubmed.ncbi.nlm.nih.gov/21928915/) ; [NICE, recommandations sur l’anxiété sociale](https://www.nice.org.uk/Guidance/CG159/chapter/recommendations).

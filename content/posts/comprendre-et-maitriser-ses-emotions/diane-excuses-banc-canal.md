@@ -31,7 +31,11 @@ Il lui dit qu’il se souvient surtout de sa peur : elle voulait partir, changea
 
 ## S’excuser de la phrase dont on se souvient
 
-Après une crise, on peut avoir des souvenirs différents d’une même scène et vouloir quand même parler de ce qui a fait mal. Diane se souvient de ses propres mots. Rémi se souvient aussi des décisions qu’il a dû prendre. Elle peut reconnaître l’effet de la phrase qu’elle regrette et entendre ce qu’il lui répond. Elle lui a demandé son accord pour en parler. Il peut dire jusqu’où il souhaite aller aujourd’hui. Le diagnostic expliqué au rendez-vous donne un cadre pour comprendre une période de détresse. Il ne règle pas à lui seul la conversation que Diane et Rémi sont en train d’avoir.
+Après une crise, on peut avoir des souvenirs différents d’une même scène et vouloir quand même parler de ce qui a fait mal. Diane se souvient de ses propres mots. Rémi se souvient aussi des décisions qu’il a dû prendre.
+
+## Comment cette difficulté se manifeste
+
+Elle peut reconnaître l’effet de la phrase qu’elle regrette et entendre ce qu’il lui répond. Elle lui a demandé son accord pour en parler. Il peut dire jusqu’où il souhaite aller aujourd’hui. Le diagnostic expliqué au rendez-vous donne un cadre pour comprendre une période de détresse. Il ne règle pas à lui seul la conversation que Diane et Rémi sont en train d’avoir.
 
 ## L’urgence de ce soir-là et l’aide possible aujourd’hui
 
@@ -40,10 +44,3 @@ Rémi n’avait pas besoin de déterminer la cause de cette peur pour demander u
 ## Les deux sachets restés fermés
 
 Diane lui donne le numéro, puis range le téléphone. Elle demande à Rémi s’il veut reprendre le chemin le long des écluses. Il répond qu’il en a assez du vent et qu’il prendrait bien le raccourci vers le marché. Diane l’avait oublié, ce raccourci derrière les vélos. Elle prend les sachets restés fermés et lui en tend un. Rémi lui demande si la carafe dont elle parlait tient vraiment sans anse. Elle lui montre avec les doigts l’endroit qu’elle a resserré pour la saisir. Ils se mettent d’accord pour essayer de trouver de bonnes poires au même marché la semaine suivante.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG178, évaluation et accompagnement après un premier épisode psychotique chez l’adulte](https://www.nice.org.uk/guidance/cg178/evidence/full-guideline-pdf-490503565)
-- [NSW Health, communiquer avec une personne qui vit une psychose](https://www.health.nsw.gov.au/mentalhealth/psychosocial/strategies/Pages/communicating-psychosis.aspx)
-- [Service Public, numéros d’urgence et aide médicale urgente en France](https://www.service-public.gouv.fr/particuliers/vosdroits/F33954)

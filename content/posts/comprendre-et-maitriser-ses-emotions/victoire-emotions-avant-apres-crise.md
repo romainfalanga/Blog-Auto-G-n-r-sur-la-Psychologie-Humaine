@@ -31,18 +31,16 @@ Le samedi, à la boutique, un client lui avait parlé de l’itinéraire comme d
 
 ## Reconstituer des moments pour ouvrir plusieurs questions
 
-La psychothérapie peut examiner les liens entre pensées, émotions et comportements alimentaires, avec une attention aux situations dans lesquelles ils se produisent. Un épisode peut suivre une journée chargée, et d’autres survenir dans des circonstances différentes. La honte qui vient après peut être l’émotion la plus facile à retrouver dans le souvenir. Le travail avec Nora porte ici sur l’ordre des événements et la place que Victoire donne à chacun. Elle peut reconnaître une irritation, de la fatigue et une anticipation du regard de son frère, sans devoir décider que l’une de ces choses explique tout. Nora peut lui demander de distinguer ce dont elle se souvient et ce qu’elle reconstitue. Les incertitudes sont des informations utiles pour choisir ce qu’il reste à explorer.
+La psychothérapie peut examiner les liens entre pensées, émotions et comportements alimentaires, avec une attention aux situations dans lesquelles ils se produisent. Un épisode peut suivre une journée chargée, et d’autres survenir dans des circonstances différentes. La honte qui vient après peut être l’émotion la plus facile à retrouver dans le souvenir.
+
+## Ce que la honte fait passer au premier plan
+
+Victoire raconte d’abord la honte ressentie après la crise, parce qu’elle la retrouve plus facilement dans son souvenir. En revenant sur les heures précédentes, elle reconnaît l’irritation à propos d’une remarque, la fatigue et la crainte du regard de son frère. L’ordre est plus difficile à retrouver à l’approche de la crise. Elle se rappelle avoir voulu que quelque chose s’arrête, et hésite sur ce qu’elle ressentait à ce moment-là.
 
 ## Choisir une question utile pour la prochaine fois
 
-Victoire aimerait mieux reconnaître les moments où un engagement important commence à ressembler à une chose qu’elle devra cacher. Nora lui propose de retenir une situation dont elles pourront reparler, comme le passage entre la fermeture de la boutique et le retour chez elle. Elle lui demande aussi si la partie physique du suivi lui semble claire et si elle sait à qui poser une question qui l’inquiète. La docteure Benali garde le fil des soins avec elle. Victoire convient qu’elle préfère savoir à qui parler plutôt que d’essayer de retrouver chaque détail de sa semaine. Elle peut aussi reprendre avec Idriss la phrase qui l’a heurtée, si elle souhaite simplement réfléchir à la façon dont la boutique présente le rallye.
+Victoire aimerait mieux reconnaître les moments où un engagement important commence à ressembler à une chose qu’elle devra cacher. Nora peut lui demander de distinguer ce dont elle se souvient et ce qu’elle reconstitue. Les incertitudes aident à choisir ce qu’il reste à explorer. Elle lui propose de retenir une situation dont elles pourront reparler, comme le passage entre la fermeture de la boutique et le retour chez elle. Elle lui demande aussi si la partie physique du suivi lui semble claire et si elle sait à qui poser une question qui l’inquiète. La docteure Benali garde le fil des soins avec elle. Victoire convient qu’elle préfère savoir à qui parler plutôt que d’essayer de retrouver chaque détail de sa semaine. Elle peut aussi reprendre avec Idriss la phrase qui l’a heurtée, si elle souhaite simplement réfléchir à la façon dont la boutique présente le rallye.
 
 ## Le mot débutant sur le prospectus
 
 Victoire garde une question pour le prochain rendez-vous sur le moment où elle rentre de la boutique. En repartant, elle relit le prospectus qu’Idriss veut lui montrer le jeudi après le travail. Elle voudrait garder le mot « débutant » et rendre sa promesse visible. On peut venir apprendre à s’orienter à son rythme. Elle lui envoie cette phrase et lui propose de la regarder ensemble quand ils fermeront.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et FFAB, Boulimie et hyperphagie boulimique, recommandations de bonne pratique](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique)
-- [Haute Autorité de santé et FFAB, prise en charge pluriprofessionnelle coordonnée](https://www.has-sante.fr/jcms/p_3099804/fr/prise-en-charge-pluriprofessionnelle-coordonnee-fiche-outil)

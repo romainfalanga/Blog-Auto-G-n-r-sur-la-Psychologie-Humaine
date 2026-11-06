@@ -33,7 +33,11 @@ Livia demande si Solène veut toujours passer à l’atelier. Elle a une deuxiè
 
 Après une période de soins plus rapprochés, ce que la personne peut faire et ce qui lui demande un effort peuvent continuer d’évoluer. Le CDDR de l’OMS décrit des périodes d’amélioration avec ou sans symptômes persistants dans le trouble schizoaffectif. Le retour de Solène chez elle ne permet pas de dire ce que signifie sa fatigue. Il lui donne de nouveaux exemples à discuter : le moment où elle somnole, ce qu’elle arrive à faire dans l’après-midi et ce qui se passe quand elle se repose.
 
-Le guide de suivi mhGAP invite à revoir l’état général, le fonctionnement dans la vie quotidienne et les éventuels effets indésirables des traitements. Solène peut dire qu’elle aimerait que l’on cherche avec elle d’où vient cette fatigue. Si elle s’interroge sur un traitement, elle pose la question à la prescriptrice et convient avec elle de la suite. La façon dont elle passe un matin est utile à la consultation. Elle n’a pas à en tirer elle-même une décision de traitement.
+Le guide de suivi mhGAP invite à revoir l’état général, le fonctionnement dans la vie quotidienne et les éventuels effets indésirables des traitements.
+
+## Comment cette difficulté se manifeste
+
+Solène peut dire qu’elle aimerait que l’on cherche avec elle d’où vient cette fatigue. Si elle s’interroge sur un traitement, elle pose la question à la prescriptrice et convient avec elle de la suite. La façon dont elle passe un matin est utile à la consultation. Elle n’a pas à en tirer elle-même une décision de traitement.
 
 ## Proposer une visite qui peut s’écourter
 
@@ -44,10 +48,3 @@ Mireille a écrit pour savoir si Solène souhaitait recevoir des nouvelles de la
 ## Dix minutes au comptoir
 
 Au cabinet, Solène lit sa note sur la somnolence. La docteure reprend ce point avec elle, fixe un contact pour le réévaluer et indique quand rappeler plus tôt. En sortant, Solène écrit à Livia « J’ai envie d’essayer le comptoir. » Elles se retrouvent sans passer par l’atelier. Dix minutes plus tard, Livia cherche ses pièces et Solène lui montre où la serveuse a laissé la coupelle. Elle envoie ensuite à Mireille le message qu’elle avait préparé : elle veut connaître la date que propose la médiathèque et discuter des horaires au rendez-vous de reprise.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Guide d’intervention mhGAP, version 2.0](https://www.who.int/publications/i/item/9789241549790)
-- [OMS, services de santé mentale communautaires : résumé des orientations](https://www.who.int/fr/publications/i/item/9789240025684)
-- [Service Public, médecine du travail pour un salarié du secteur privé](https://www.service-public.gouv.fr/particuliers/vosdroits/F2211)

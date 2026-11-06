@@ -1,0 +1,38 @@
+{
+  "references": {
+    "keeley-bdd-2023": {
+      "title": "Keeley et collègues, Case-controlled field study of the ICD-11 clinical descriptions and diagnostic requirements for Bodily Distress Disorders, Journal of Affective Disorders, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37100177/"
+    },
+    "nice-douleur-ng193": {
+      "title": "NICE NG193, évaluation des douleurs chroniques chez les plus de 16 ans, recommandations 1.1.1–1.1.23",
+      "url": "https://www.nice.org.uk/guidance/ng193/chapter/recommendations"
+    },
+    "ameli-douleur-thoracique": {
+      "title": "Assurance Maladie, reconnaître une douleur thoracique qui relève de l’urgence",
+      "url": "https://www.ameli.fr/assure/sante/themes/douleur-thoracique/reconnaitre-agit-urgence"
+    }
+  },
+  "dossier": {
+    "name": "Trouble de détresse physique",
+    "aliases": [
+      "Trouble de détresse corporelle",
+      "Bodily distress disorder"
+    ],
+    "references": [
+      "oms-cddr",
+      "keeley-bdd-2023",
+      "nice-douleur-ng193",
+      "ameli-douleur-thoracique"
+    ],
+    "points": [
+      "OMS, CDDR, 6C20, pages 429–435. Le diagnostic repose sur des symptômes corporels pénibles et persistants, présents la plupart des jours depuis plusieurs mois, une attention excessive et durable portée aux symptômes ou à leurs conséquences malgré une évaluation ou des explications appropriées, et un retentissement important. La présentation peut évoluer et associer des douleurs et de la fatigue. Le professionnel tient compte des diagnostics différentiels et du contexte de soins.",
+      "OMS, CDDR. Une affection physique peut causer ou contribuer à certains symptômes et coexister avec le trouble. Le professionnel apprécie alors la place prise par l’attention et ses conséquences à la lumière de la nature et de la gravité de l’affection. Des résultats d’examen rassurants, un recours fréquent aux soins ou une sensation isolée ne suffisent jamais à établir le diagnostic.",
+      "OMS, CDDR, distinction avec le 6B23. Dans le trouble de détresse physique, la préoccupation porte principalement sur les symptômes vécus, leur gravité ou leurs conséquences. Dans l’hypocondrie au sens de la CIM-11, la crainte ou la préoccupation persistante d’avoir une maladie grave, évolutive ou menaçant la vie est au premier plan. Une inquiétude pour sa santé peut accompagner l’un ou l’autre. L’équipe situe la distinction dans l’histoire clinique.",
+      "Keeley et collègues, 2023. Étude de terrain comparant la CIM-11 et la CIM-10 auprès de cliniciens utilisant des vignettes standardisées. Les diagnostics des présentations centrées sur des symptômes corporels pénibles avec retentissement étaient plus précis avec la CIM-11 dans ces vignettes. Les auteurs signalent que les décisions face à de véritables patients peuvent différer.",
+      "NICE NG193, champ de l’évaluation des douleurs chroniques. Reconnaître la douleur, recueillir son impact, convenir des objectifs avec la personne et réévaluer si les symptômes changent, notamment en envisageant l’exploration de plaintes nouvelles. Ces principes éclairent l’accompagnement de la douleur dans le récit. La recommandation ne définit pas le trouble de détresse physique.",
+      "Assurance Maladie, douleur thoracique et urgence. Une douleur thoracique qui serre avec essoufflement, sueurs ou malaise peut relever d’une urgence. L’appel immédiat au 15 ou au 112 en France permet de transmettre les signes et de suivre les consignes. Dans l’arc, une plainte nouvelle de ce type est évaluée pour elle-même."
+    ]
+  },
+  "direction": "Laure, 50 ans, bibliothécaire en reconversion, ouvre une grainothèque avec Yasmina. Le trouble est déjà établi au début de l’arc. Laure distingue peu à peu le poids des symptômes, l’attention qui reste prise et ce qui change réellement dans sa journée. Son médecin de confiance, la Dre Valette, et sa psychologue, Nina Perrin, coordonnent les soins avec son accord. Yasmina participe au projet et Benoît est son frère. Leurs rôles et leurs disponibilités ont des limites. Au fil des essais, Laure garde un créneau d’accueil faisable, clarifie le relais et signale une plainte nouvelle à l’équipe médicale. Sa manière de décrire les graines et de les rendre accessibles lui donne une place qui dépasse son rôle de patiente."
+}

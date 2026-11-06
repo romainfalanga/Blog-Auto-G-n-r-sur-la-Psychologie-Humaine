@@ -49,12 +49,12 @@ Djamila peut noter un souvenir ordinaire de sa grand-mère ou une chose qui l’
 
 Une amie peut l’accompagner en promenade, ou Djamila peut essayer un groupe de parole si elle en a envie. Si les souvenirs de violence reviennent au point de perturber son sommeil ou son travail, une évaluation est indiquée. Pour le TSPT, les [recommandations du NICE](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations) prévoient notamment des thérapies centrées sur le trauma avec des professionnels formés, adaptées aux besoins et à la sécurité de la personne.
 
+### Quand demander de l’aide
+
+Le deuil peut être très douloureux et coexister avec les suites de violences. Il est possible de demander de l’aide dès que la souffrance pèse sur la vie quotidienne. Décrire les souvenirs, le sommeil, les situations évitées et ce qui vous aide à tenir donne un point de départ à la consultation.
+
 ## Les deux lignes du carnet
 
 Après une première rencontre avec le groupe de parole, Djamila note ce dont elle a parlé : le rire de sa grand-mère quand Adam lui demandait de refaire une histoire. Elle est contente d’avoir raconté ce détail. Au retour, le bruit du portail lui fait encore serrer les clés.
 
 Dans le carnet, sous le souvenir de sa grand-mère, elle écrit une deuxième ligne : « Le portail. Même sursaut en rentrant. » Elle garde les deux pour son rendez-vous avec le médecin.
-
-## Quand demander de l’aide
-
-Le deuil peut être très douloureux et coexister avec les suites de violences. Il est possible de demander de l’aide dès que la souffrance pèse sur la vie quotidienne. Décrire les souvenirs, le sommeil, les situations évitées et ce qui vous aide à tenir donne un point de départ à la consultation.

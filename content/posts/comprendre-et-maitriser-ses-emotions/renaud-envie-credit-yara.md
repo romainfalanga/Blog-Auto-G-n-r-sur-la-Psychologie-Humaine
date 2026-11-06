@@ -34,6 +34,8 @@ Il plie le journal en deux, puis le déplie. Il voudrait qu’il y ait une phras
 
 La joie pour quelqu’un et l’envie peuvent se côtoyer. Dans le trouble de la personnalité narcissique, la façon de se situer par rapport à autrui et de chercher de l’admiration peut donner beaucoup de poids à une comparaison. Le succès d’une autre personne peut être vécu comme le signe que sa propre place se réduit. Cette réaction ne se présente pas de manière uniforme et l’envie, à elle seule, ne renseigne pas sur un diagnostic.
 
+## Comment cette difficulté se manifeste
+
 Renaud sait que l’encadré porte sur un test préparé par Yara. Il vérifie pourtant son propre nom avant de regarder ce qu’elle explique. Cette comparaison rapide lui fait envisager de rabaisser sa collègue pour se sentir à nouveau considéré. Malik pose une autre question, qui ramène l’échange au contenu de l’article et à ce que Renaud voudrait pour lui-même.
 
 ## Distinguer la place souhaitée et le crédit dû
@@ -45,9 +47,3 @@ Reconnaître l’envie peut fournir un exemple utile en consultation. Renaud peu
 ## Une citation en entier
 
 Malik doit rentrer. Il laisse le journal sur la table et récupère le ticket de caisse qui dépassait du pli. Renaud lit enfin l’encadré du début à la fin. Il reconnaît un moment de l’essai où Yara avait demandé à une visiteuse de lui décrire son détour. Il lui envoie un mot précis sur cette citation. Puis il regarde l’invitation de Nora, reçue le matin. Elle veut leur parler de la présentation du mois suivant. Renaud confirme qu’il sera disponible.
-
-## Sources
-
-- [American Psychiatric Association, présentation du trouble de la personnalité narcissique selon le DSM-5-TR](https://www.psychiatry.org/news-room/apa-blogs/what-is-narcissistic-personality-disorder/)
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Edershile et collègues, variations de grandiosité et de vulnérabilité dans les interactions, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11326982/)

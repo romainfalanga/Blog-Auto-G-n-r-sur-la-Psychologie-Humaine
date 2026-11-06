@@ -31,7 +31,11 @@ Owen connaît la différence entre la caméra d’un proche et le compte d’un 
 
 ## Accepter un usage et en refuser un autre
 
-Accepter de faire entendre sa voix pendant une séance n’implique pas d’accepter un extrait, une mise en ligne ou l’enregistrement de ce qu’on dira dans la salle. Owen est disposé à montrer le film qu’il a monté et à en introduire une scène. Il n’a pas changé d’avis sur le compte du lycée. Sa mère peut entendre cette distinction et lui demander ce qu’il souhaite, avant de remplir les documents que l’établissement a prévus. Éduscol propose des modèles pour recueillir les autorisations d’enregistrement et d’utilisation de l’image et de la voix. Dans le récit, M. Vasseur vérifie avec le lycée les accords des personnes concernées et les autorisations de leurs responsables légaux pour les élèves mineurs.
+Accepter de faire entendre sa voix pendant une séance n’implique pas d’accepter un extrait, une mise en ligne ou l’enregistrement de ce qu’on dira dans la salle.
+
+## Comment cette difficulté se manifeste
+
+Owen est disposé à montrer le film qu’il a monté et à en introduire une scène. Il n’a pas changé d’avis sur le compte du lycée. Sa mère peut entendre cette distinction et lui demander ce qu’il souhaite, avant de remplir les documents que l’établissement a prévus. Éduscol propose des modèles pour recueillir les autorisations d’enregistrement et d’utilisation de l’image et de la voix. Dans le récit, M. Vasseur vérifie avec le lycée les accords des personnes concernées et les autorisations de leurs responsables légaux pour les élèves mineurs.
 
 ## Une demande qui vaut aussi en famille
 
@@ -40,9 +44,3 @@ L’ASHA présente le fait de parler ouvertement de son bégaiement comme une po
 ## Une ligne pour la salle
 
 Owen répond à sa mère qu’il voudrait bien qu’elle soit là. Ils renseignent la feuille pour une séance au lycée, devant les élèves et les familles invités, sans autoriser de diffusion en ligne. Au club, le lendemain, M. Vasseur confirme que les accords sont réunis pour cette séance. Alma a déjà le visuel que l’équipe a approuvé, avec le sac et le titre, sans extrait. Owen glisse la copie du programme dans la chemise de Lucile. À côté du créneau du film, il ajoute : « Rappeler de ne pas filmer. » Lucile lui demande s’il sait déjà comment il veut commencer. Owen répond qu’il sait ce qu’il veut montrer.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal, bégaiement, bredouillement et fluence de la parole](https://www.asha.org/practice-portal/clinical-topics/fluency-disorders/)
-- [Éduscol, modèles d’autorisation d’enregistrement et d’utilisation de l’image et de la voix](https://eduscol.education.gouv.fr/6231/protection-des-donnees-personnelles-et-assistance)

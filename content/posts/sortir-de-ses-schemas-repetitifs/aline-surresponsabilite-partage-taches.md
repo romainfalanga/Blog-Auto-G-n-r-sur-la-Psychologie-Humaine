@@ -98,5 +98,3 @@ La surresponsabilité se transforme plus facilement lorsque le partage des tâch
 Aline conserve son expérience et sa place dans le collectif. Elle s’autorise à transmettre une mission entière, avec une méthode qui n’est pas toujours la sienne. Le changement demeure fragile lorsqu’une difficulté apparaît, mais le groupe dispose maintenant d’un cadre pour y répondre ensemble. La solidarité peut gagner en solidité quand elle dépend moins d’une seule mémoire.
 
 Si le sentiment de devoir tout surveiller provoque une anxiété persistante, des tensions ou un épuisement, un psychologue peut vous aider à explorer cette habitude. Lorsque la charge vient aussi d’un sous-effectif ou d’une organisation défaillante, un échange avec les responsables concernés reste nécessaire. Un accompagnement individuel ne remplace pas les moyens dont un collectif a besoin.
-
-Sources : [Weinstein et Ryan, recherches sur les motivations de l’aide](https://pubmed.ncbi.nlm.nih.gov/20085397/).

@@ -32,7 +32,11 @@ Quand vint la question des fleurs, elle poussa le feutre vers les CM1. Une élè
 
 ## Répondre à la question qu’on a retrouvée
 
-Demander qu’on reprenne une question peut aider à retrouver le sens de l’échange avant de chercher une réponse. Agathe peut expliquer le trajet qu’elle a préparé ; le trouble développemental du langage continue d’avoir des effets quand plusieurs élèves l’interrogent presque ensemble. Elle perd le début de la discussion et l’autre question prend la place de celle qu’elle voulait traiter. Elle choisit de revenir aux sachets, fait redire la question et s’appuie sur la boîte. Le langage réceptif et le langage expressif sont tous deux sollicités par cet échange. Ce qui a fonctionné dans cette salle dépend aussi de Camille, qui laisse le temps nécessaire, et de l’élève, qui accepte de reprendre.
+Demander qu’on reprenne une question peut aider à retrouver le sens de l’échange avant de chercher une réponse. Agathe peut expliquer le trajet qu’elle a préparé ; le trouble développemental du langage continue d’avoir des effets quand plusieurs élèves l’interrogent presque ensemble.
+
+## Comment cette difficulté se manifeste
+
+Elle perd le début de la discussion et l’autre question prend la place de celle qu’elle voulait traiter. Elle choisit de revenir aux sachets, fait redire la question et s’appuie sur la boîte. Le langage réceptif et le langage expressif sont tous deux sollicités par cet échange. Ce qui a fonctionné dans cette salle dépend aussi de Camille, qui laisse le temps nécessaire, et de l’élève, qui accepte de reprendre.
 
 ## Donner la parole et laisser le résultat ouvert
 
@@ -41,9 +45,3 @@ On peut se mettre d’accord sur une question à la fois et donner aux autres un
 ## Le banc reste libre
 
 Sami posa le sachet de pois au bord du carré qui représentait la réserve. Agathe revint à la question du banc et le montra du doigt. « On le laisse ici. » Lila approcha la question sur les fleurs du dessin de la clôture. Sami ajouta un petit trait près du banc pour le passage, puis dit qu’on pouvait laisser cette étoile sans planter là. Agathe écrivit « à décider dehors » sous les deux propositions. La classe garda une copie et les deux sachets retournèrent dans la boîte que Camille emportait. Si l’allée séchait, deux volontaires pourraient aller chercher la boîte avec elle au dernier atelier. Lila se proposa. Nora, qui n’avait encore rien dit, leva la main. Agathe replia la carte originale.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [American Speech-Language-Hearing Association, Spoken Language Disorders](https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/)
-- [Haute Autorité de santé, Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2822893/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages)

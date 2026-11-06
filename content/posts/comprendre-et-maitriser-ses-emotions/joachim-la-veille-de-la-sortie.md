@@ -31,7 +31,11 @@ Ana regarde le téléphone qui vibre. Joachim s’attend à trouver un nouveau m
 
 ## Une peur qui commence avant la situation
 
-L’anxiété d’anticipation peut accompagner l’agoraphobie. La personne pense à une situation future et imagine ce qui arriverait si elle devait sortir ou trouver de l’aide. Une vérification peut donner une information utile, par exemple l’heure de fermeture d’un service. Joachim a déjà cette information quand il reprend son téléphone. Il repasse surtout des variantes de ce qui pourrait le coincer le lendemain. Pendant ces minutes, sa fille lui parle d’un événement important pour elle. La conversation perd en disponibilité alors qu’il est chez lui et que le déplacement reste incertain.
+L’anxiété d’anticipation peut accompagner l’agoraphobie. La personne pense à une situation future et imagine ce qui arriverait si elle devait sortir ou trouver de l’aide. Une vérification peut donner une information utile, par exemple l’heure de fermeture d’un service.
+
+## Comment cette difficulté se manifeste
+
+Joachim a déjà cette information quand il reprend son téléphone. Il repasse surtout des variantes de ce qui pourrait le coincer le lendemain. Pendant ces minutes, sa fille lui parle d’un événement important pour elle. La conversation perd en disponibilité alors qu’il est chez lui et que le déplacement reste incertain.
 
 Cet effet aide à comprendre le retentissement de l’agoraphobie. Il y a les sorties que quelqu’un annule. Il y a aussi celles qu’il fait avec beaucoup d’effort et celles qui mobilisent du temps pendant les jours qui précèdent. Un proche peut voir un agenda à peu près rempli et ignorer la place que ces préparatifs ont prise.
 
@@ -44,8 +48,3 @@ La décision de ce soir appartient à Joachim. Il choisit d’inviter Ana à rep
 ## Un message après le dîner
 
 Ana reprend depuis le moment où elle a trouvé une clé sur son bureau. Joachim découvre qu’il avait compris l’inverse. Sa collègue lui a confié la permanence qu’elle réclamait depuis des mois. Quand Ana part, il écrit à Diego qu’il passera par le marché et qu’ils pourront se voir du côté du lavoir. Il s’engage à lui confirmer le rendez-vous après ses courses. Il ajoute l’image de la boîte aux lettres au dossier qu’ils partagent.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, manifestations de l’agoraphobie](https://www.nhs.uk/mental-health/conditions/agoraphobia/symptoms/)

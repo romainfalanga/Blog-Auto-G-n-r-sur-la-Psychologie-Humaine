@@ -33,6 +33,8 @@ Sonia lui passe une enveloppe qui lui restait pour les cartes de commande. Jules
 
 L’évolution du trouble panique se discute dans le temps, selon les difficultés qui persistent, la participation aux activités et les préférences de la personne. Jules a repris certains dessins et choisit encore de rentrer directement certains jours. Il peut décrire ce que ces décisions lui permettent et les trajets qu’il trouve plus coûteux. La psychiatre peut en tenir compte pour revoir avec lui le soin et les appuis qu’il souhaite garder.
 
+## Comment cette difficulté se manifeste
+
 Jules connaît les personnes à contacter pour le suivi ou pour une question médicale. Il peut demander de reprendre un point plus tôt si ses difficultés s’accentuent. Un changement nouveau dans son état mérite d’être évalué par les professionnels selon la situation. Le choix d’une prochaine activité, de son côté, peut aussi répondre à des raisons ordinaires, comme le jour où il travaille ou la personne avec qui il veut dessiner.
 
 ## Faire des projets avec les personnes concernées
@@ -44,8 +46,3 @@ Solange lui a envoyé son propre dessin. Jules peut lui raconter ce que Sonia y 
 ## L’enveloppe et la feuille blanche
 
 Jules écrit l’adresse de Solange et glisse le bout de ruban bleu avec son dessin. Devant le marché, il répond qu’il aimerait connaître la date de la rencontre. Il choisira quand il aura vu son planning. Il passe à la boîte aux lettres avant de prendre son bus. Il pense au bouquet du lendemain et se demande si Sonia le laissera remettre un peu de gris parmi les couleurs vives.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

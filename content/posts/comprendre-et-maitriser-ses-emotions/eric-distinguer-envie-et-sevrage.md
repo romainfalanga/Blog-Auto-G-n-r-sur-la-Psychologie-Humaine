@@ -34,6 +34,8 @@ Avant cette matinée, l’alcool lui faisait moins d’effet qu’à une autre �
 
 La tolérance peut se traduire par un effet moins marqué pour une consommation comparable. Le sevrage peut survenir après une diminution ou un arrêt, lorsque le corps s’est adapté à l’alcool. Des tremblements ou des sueurs méritent d’être replacés dans ce qui précède et examinés par un professionnel. D’autres problèmes de santé peuvent entraîner des sensations proches.
 
+## Comment cette difficulté se manifeste
+
 L’envie qu’Éric a éprouvée sur la place suit l’invitation et le rappel d’une situation familière. Son histoire ancienne de signes physiques apporte au médecin une autre information. Une dépendance peut se manifester par des difficultés répétées de maîtrise et de priorité, avec des signes physiques qui varient selon les personnes. Éric peut décrire ce qu’il vit aujourd’hui sans en déduire seul le risque de sevrage.
 
 ## Demander une évaluation avant un changement important
@@ -45,9 +47,3 @@ Une baisse brusque après une consommation importante peut entraîner des compli
 ## Un numéro à côté du prénom
 
 Éric tape « consultation » dans le répertoire et se rend compte qu’il a déjà deux fiches qui portent ce nom. Il garde celle de l’addictologie et ajoute le numéro que lui indique le docteur Lenoir. Le médecin lui propose de reparler de son suivi avec son médecin habituel, s’il souhaite les mettre en lien. Éric demande ce que cela changerait pour les rendez-vous qu’il voudrait tenir à l’école. Il reprend le carton et demande le temps d’y réfléchir. Sur le dos, à côté de « kiosque », il inscrit « médecin habituel » pour la prochaine fois.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG115, évaluation et prise en charge de la dépendance à l’alcool](https://www.nice.org.uk/guidance/cg115/chapter/Recommendations)
-- [NICE CG100, évaluation et soins en cas de sevrage aigu d’alcool](https://www.nice.org.uk/guidance/cg100/chapter/recommendations)

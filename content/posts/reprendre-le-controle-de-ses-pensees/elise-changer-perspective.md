@@ -1,5 +1,5 @@
 ---
-title: "Élise : regarder autrement sans changer les faits"
+title: Regarder autrement sans changer les faits
 description: "Un financement refusé reste refusé. Élise observe ses réactions et explore une autre lecture, à partir des faits et de repères présents."
 slug: elise-changer-perspective
 date: 2026-10-09T09:00:00+02:00
@@ -13,6 +13,7 @@ contexte: "Après le refus de financement, Élise interprète le silence du grou
 editorial_pack: psychology-v10
 episode: 9
 ---
+
 Élise attend devant le portail du jardin avec une copie de la réponse municipale. Le financement des bacs n’est pas accordé. Ce fait tient en quelques lignes. Dans sa tête, il en occupe beaucoup plus : le projet ne valait probablement pas grand-chose, Mireille doit regretter de s’y être engagée, les habitants vont penser qu’elle leur a fait perdre du temps. Elle a pris une pause avant de répondre au service et évité les excuses générales. Maintenant que le groupe doit discuter de la suite, une autre réaction apparaît. Elle voudrait arriver avec une solution déjà prête pour ne pas laisser les autres face à sa déception.
 
 Mireille a quelques minutes de retard. Élise regarde son téléphone puis le message envoyé la veille. Il n’y a pas de réponse nouvelle. Elle interprète ce silence comme un signe de désaccord, alors que le rendez-vous avait simplement été confirmé plus tôt. Elle remarque qu’elle lit l’écran en serrant la feuille contre elle. Cette tension ne lui apprend pas ce que pense Mireille. Elle lui apprend quelque chose sur le moment qu’elle traverse : lorsque le résultat la déçoit, elle cherche très vite des indices de reproche. Elle n’en fait pas une définition de sa personnalité. Hier, à d’autres moments, elle a pu attendre une information sans conclure aussi vite.
@@ -76,7 +77,3 @@ Changer de perspective ne demande pas de rendre agréable un fait pénible. Il s
 L’observation de soi gagne à rester mobile. Elle décrit un fonctionnement dans un contexte et laisse la possibilité d’autres réactions. Les repères concrets du présent peuvent soutenir cette observation lorsqu’ils conviennent, avec un objectif modeste et sans promesse de traitement.
 
 Élise conserve le refus budgétaire dans son dossier et retire quelques certitudes sur ce que les autres pensent. Ce mouvement n’efface pas sa déception. Il lui permet d’écouter des avis réels, de modifier une partie du projet et de laisser ouvertes les questions qui ne peuvent pas encore recevoir de réponse.
-
-Sources :
-- [NHS, Examiner et reformuler des pensées peu aidantes](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/reframing-unhelpful-thoughts/)
-- [Organisation mondiale de la santé, Faire ce qui compte en période de stress](https://www.who.int/publications/i/item/9789240003927)

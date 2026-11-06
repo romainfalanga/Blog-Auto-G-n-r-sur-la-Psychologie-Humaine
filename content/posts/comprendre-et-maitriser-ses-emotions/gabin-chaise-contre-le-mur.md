@@ -32,7 +32,11 @@ Gabin a reçu un diagnostic de trouble lié aux jeux d’argent au service d’a
 
 ## Comment les dommages du jeu s’étendent au foyer
 
-Le trouble lié aux jeux d’argent se manifeste par un comportement de jeu qui se répète, devient difficile à maîtriser et prend une place croissante malgré ses conséquences. La CIM-11 de l’OMS le classe sous le code 6C50. Il concerne les jeux dans lesquels de l’argent est engagé sur un résultat incertain. La CIM-11 décrit séparément le trouble lié à l’usage des jeux vidéo. L’évaluation professionnelle considère ce qui se passe dans la durée et ce que cela change dans la vie de la personne. Pour Gabin, l’exemple du loyer rend visible un effet qui dépasse la somme perdue. Nora comptait sur un versement pour une dépense commune. Il avait aussi promis à l’association de confirmer ce qu’il pourrait fabriquer. Nora et la bénévole ont chacune besoin d’informations pour prendre leurs décisions.
+Le trouble lié aux jeux d’argent se manifeste par un comportement de jeu qui se répète, devient difficile à maîtriser et prend une place croissante malgré ses conséquences. La CIM-11 de l’OMS le classe sous le code 6C50. Il concerne les jeux dans lesquels de l’argent est engagé sur un résultat incertain. La CIM-11 décrit séparément le trouble lié à l’usage des jeux vidéo. L’évaluation professionnelle considère ce qui se passe dans la durée et ce que cela change dans la vie de la personne.
+
+## Comment cette difficulté se manifeste
+
+Pour Gabin, l’exemple du loyer rend visible un effet qui dépasse la somme perdue. Nora comptait sur un versement pour une dépense commune. Il avait aussi promis à l’association de confirmer ce qu’il pourrait fabriquer. Nora et la bénévole ont chacune besoin d’informations pour prendre leurs décisions.
 
 ## Dire la part qui concerne chacun
 
@@ -43,8 +47,3 @@ Le NICE souligne que la honte et la crainte d’en parler peuvent compliquer l�
 ## Une réponse à l’atelier
 
 Gabin confirme à la bénévole qu’une chaise est prête et que le bois des suivantes est disponible. Pour les ferrures, il lui demande jusqu’à quand l’association peut attendre sa réponse. Dehors, il écrit à Nora que la somme prévue pour le loyer ne sera pas entière et qu’il voudrait lui en parler à table. Il relit son message sans ajouter qu’il réglera tout d’ici vendredi. Il ne connaît pas encore la date.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG248, repérage et accompagnement des dommages liés aux jeux d’argent](https://www.nice.org.uk/guidance/ng248/chapter/recommendations)

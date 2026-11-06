@@ -33,7 +33,11 @@ Elle voudrait reporter le tout et garder ses enveloppes à la maison. Elle voudr
 
 L’évitement des rappels du traumatisme fait partie du noyau commun au stress post-traumatique et à sa forme complexe. Il peut s’agir de tenir à distance une conversation, un lieu ou des pensées que la personne associe à l’événement. Pour Meriem, remettre le message à plus tard a été une façon de ne pas retrouver une impression qui venait de la saisir. Quand elle lit la proposition écrite, elle découvre ce que ce délai a changé dans sa journée : Ève a dû retenir une table avant d’avoir sa réponse.
 
-Décider de ne pas s’exposer à un risque réel ou préférer lire une information importante sont des choix qui ont leur raison. La fuite et la fermeture de la salle existent indépendamment de ce que Meriem éprouve. Le coût qu’elle voudrait examiner en suivi tient au moment où elle a coupé le message et perdu une possibilité de prendre part à la décision. La CIM-11 situe ce genre de difficulté dans un ensemble évalué par un professionnel. La façon de répondre à un seul message ne dit rien de certain sur l’histoire de la personne.
+Décider de ne pas s’exposer à un risque réel ou préférer lire une information importante sont des choix qui ont leur raison.
+
+## Comment cette difficulté se manifeste
+
+La fuite et la fermeture de la salle existent indépendamment de ce que Meriem éprouve. Le coût qu’elle voudrait examiner en suivi tient au moment où elle a coupé le message et perdu une possibilité de prendre part à la décision. La CIM-11 situe ce genre de difficulté dans un ensemble évalué par un professionnel. La façon de répondre à un seul message ne dit rien de certain sur l’histoire de la personne.
 
 ## Annoncer ce qui peut se faire au hall
 
@@ -44,8 +48,3 @@ Le cadre adapté dont parlent les recommandations du NICE concerne le soin, nota
 ## Un dépôt de trente minutes
 
 Meriem écrit à Ève qu’elle tiendra la table jusqu’à 18 heures. Au hall, Dalila déplace le panneau près de la porte extérieure. Deux enveloppes arrivent, dont celle d’un homme qui doit repartir avec son vélo avant la pluie. Meriem inscrit les conditions de partage qu’il lui donne et lui fait relire. À 18 heures, Ève l’aide à ranger les deux enveloppes dans le placard de l’accueil. La bobine verte y attendra aussi. Sur le chemin du retour, Meriem se surprend à tenir son téléphone allumé dans la main. Elle pense à ces nuits où elle vérifie l’heure de la même façon et finit par ne plus dormir.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

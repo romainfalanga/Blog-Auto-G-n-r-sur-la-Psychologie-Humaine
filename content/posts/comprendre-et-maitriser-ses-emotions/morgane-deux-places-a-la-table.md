@@ -33,7 +33,11 @@ Elles atteignent le café dont les tables se sont libérées depuis leur départ
 
 ## La honte se mesure aussi à ce qu’elle éloigne
 
-Dans l’hyperphagie boulimique, les épisodes peuvent s’accompagner de honte, de culpabilité ou de dégoût. Le regard que Morgane porte sur elle-même continue à peser après la crise et l’amène à réduire les occasions de voir sa sœur. Elle avait envie de retrouver Lucie et redoutait ce qu’elle pourrait deviner. Les deux sentiments peuvent coexister. La souffrance et le retentissement social ont une place dans l’évaluation et dans le suivi. Morgane peut expliquer à Anna qu’une partie difficile se joue quand elle voit une invitation apparaître sur son téléphone le lendemain.
+Dans l’hyperphagie boulimique, les épisodes peuvent s’accompagner de honte, de culpabilité ou de dégoût. Le regard que Morgane porte sur elle-même continue à peser après la crise et l’amène à réduire les occasions de voir sa sœur.
+
+## Comment cette difficulté se manifeste
+
+Elle avait envie de retrouver Lucie et redoutait ce qu’elle pourrait deviner. Les deux sentiments peuvent coexister. La souffrance et le retentissement social ont une place dans l’évaluation et dans le suivi. Morgane peut expliquer à Anna qu’une partie difficile se joue quand elle voit une invitation apparaître sur son téléphone le lendemain.
 
 ## Passer de la rassurance à l’écoute
 
@@ -42,8 +46,3 @@ Lucie cherchait à rendre la situation moins menaçante et a ramené ce qu’ell
 ## Une raison de reprendre la marche
 
 Morgane dit qu’elle aurait voulu voir Lucie les deux autres mercredis. Lucie se tait un instant, puis lui demande si elle veut garder leur prochain rendez-vous même quand la veille a été difficile. Morgane répond qu’elle préférerait pouvoir lui écrire qu’elle a besoin d’un tour court. Elles s’installent près de la fenêtre et reviennent au plan imprimé dans le livre. Avant de rentrer, Morgane retrouve un message de Sonia. L’équipe a obtenu un créneau lundi pour essayer l’accueil des visiteurs.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et Fédération française anorexie boulimie, recommandations sur la boulimie et l’hyperphagie boulimique](https://www.has-sante.fr/upload/docs/application/pdf/2019-09/boulimie_et_hyperphagie_boulimique_-_recommandations.pdf)

@@ -11,6 +11,9 @@ personnage: "Isabelle"
 sujet: "pensées automatiques négatives"
 contexte: "en amitié"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/14045261/
+- https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/
 ---
 
 Au café, Catherine retourne son téléphone, lit quelque chose et le repose. Isabelle allait lui raconter sa soirée de vendredi. À la place, elle demande si Catherine doit bientôt repartir. Sa question a le ton de quelqu’un qui s’apprête à demander l’addition. Catherine relève les yeux. « Tu voulais me dire quoi sur vendredi ? »
@@ -70,5 +73,3 @@ Prendre conscience de ses pensées automatiques négatives en amitié est une é
 Gardez à l'esprit que ces schémas de pensée sont tenaces et qu'il est normal qu'ils réapparaissent, surtout en période de fatigue ou de stress. L'objectif n'est pas de les faire disparaître totalement, mais de ne plus les laisser diriger votre vie et vos émotions. Avec de la pratique, vous apprendrez à les identifier comme de simples bruits de fond plutôt que comme des vérités absolues.
 
 Si vous constatez que ces pensées automatiques vous isolent, provoquent une anxiété sociale persistante ou nuisent gravement à votre bien-être, vous pouvez consulter un professionnel de la psychologie. Un accompagnement en thérapie cognitive et comportementale (TCC) peut vous aider à restructurer ces schémas en profondeur et à retrouver le plaisir des échanges sans la peur constante du jugement.
-
-Sources : [Beck, étude historique du contenu des pensées dans la dépression, 1963](https://pubmed.ncbi.nlm.nih.gov/14045261/), [NHS, relevé de pensées en TCC](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/).

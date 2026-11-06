@@ -34,20 +34,18 @@ Il téléphone à Pascal. Le mois dernier, après une consultation, il lui avait
 
 Une envie forte de boire peut prendre de l’ampleur dans un lieu, une heure ou un échange associés à la consommation. La photo rassemble la table et le groupe, deux choses qui ont souvent précédé le moment de boire pour Éric. Elle rappelle aussi des relations auxquelles il tient. Il peut vouloir être avec les anciens et éprouver en même temps une envie de boire qui mobilise son attention.
 
-La scène renseigne sur une envie dans son contexte. Le sevrage est une autre question clinique, qui se pose quand des symptômes apparaissent après une baisse ou un arrêt de la consommation. Éric peut préciser ce qu’il a ressenti, ce qui venait de se passer et s’il a remarqué d’autres changements. Son équipe peut donner un sens à ces éléments en tenant compte de son histoire et de son état de santé.
+Le sevrage est une autre question clinique, qui se pose quand des symptômes apparaissent après une baisse ou un arrêt de la consommation.
+
+## L’invitation qui fait perdre le fil du rendez-vous
+
+Éric reconnaît la table du café derrière Pascal sur la photo. Il lit plusieurs fois la même invitation et a du mal à garder en tête qu’il doit retrouver Mélissa. À ce moment, il pense à la fois au plaisir de revoir les anciens et au bref soulagement qu’il associe à la décision de rester boire. L’envie demeure quand il se sépare de Pascal, même s’il rejoint Mélissa à l’heure convenue.
 
 ## Demander un appui assez précis pour recevoir une réponse
 
 Pascal sait qu’Éric peut lui demander de parler. Il lui reste à dire s’il a du temps et ce qu’il peut partager. Marcher jusqu’à la boulangerie est possible pour lui aujourd’hui. Éric peut demander un trajet qui ne passe pas devant le café et expliquer qu’il retrouvera ensuite Mélissa. La demande tient dans le moment, sans obliger Pascal à répondre à chaque invitation à sa place.
 
-En consultation, Éric peut décrire le passage de l’entretien à la photo et ce qui a rendu possible la suite. Les aides qu’il souhaite préparer pourront varier selon qu’il se trouve seul, avec ses collègues ou au milieu des anciens. Son propre but reste important. Ce mercredi, il voulait écouter avec Mélissa la voix de la marchande et lui demander ce qu’elle entendait derrière.
+En consultation, Éric peut décrire le passage de l’entretien à la photo, ce qu’il a ressenti, les autres changements qu’il a éventuellement remarqués et ce qui a rendu possible la suite. L’équipe peut reprendre ces éléments avec lui en tenant compte de son histoire et de son état de santé. Les aides qu’il souhaite préparer pourront varier selon qu’il se trouve seul, avec ses collègues ou au milieu des anciens. Son propre but reste important. Ce mercredi, il voulait écouter avec Mélissa la voix de la marchande et lui demander ce qu’elle entendait derrière.
 
 ## Garder le son du bois
 
 Pascal arrive au kiosque avec le sac vide plié dans sa poche. Éric lui fait entendre quelques secondes de l’enregistrement. Pascal reconnaît le bruit du bois et dit que son père empilait les caisses comme ça aussi. Ils descendent ensemble jusqu’à la boulangerie. Éric a encore envie de répondre à la photo quand ils se quittent. Il glisse le téléphone dans sa veste pour retrouver Mélissa à l’heure convenue. Au premier écouteur, elle croit qu’un mot est couvert. Ils repassent la fin et entendent la marchande s’arrêter le temps de caler une cagette. Éric laisse le bruit en place.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG115, évaluation et prise en charge de la dépendance à l’alcool](https://www.nice.org.uk/guidance/cg115/chapter/Recommendations)
-- [HAS, agir en premier recours pour diminuer le risque alcool](https://www.has-sante.fr/jcms/p_3326877/fr/agir-en-premier-recours-pour-diminuer-le-risque-alcool-reperer-tous-les-usages-et-accompagner-chaque-personne)

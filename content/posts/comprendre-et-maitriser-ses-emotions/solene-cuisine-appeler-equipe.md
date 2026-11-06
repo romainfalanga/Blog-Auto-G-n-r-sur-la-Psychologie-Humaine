@@ -32,6 +32,8 @@ Livia dit « C’était peut-être les voisins ». Elle le dit très vite, et So
 
 Quand un changement de l’humeur et une expérience inhabituelle préoccupent la personne, les deux peuvent être décrits au même contact de soins. Solène peut dire ce qui s’est produit au dépôt puis chez elle. Elle peut aussi dire que le plaisir qu’elle trouve d’habitude dans certaines activités lui manque ces derniers jours. Des exemples comme la promenade annulée ou la blague qui ne vient pas renseignent sur son quotidien. L’équipe les replace dans ce qu’elle connaît de son suivi et dans ce qui s’est passé depuis le dernier rendez-vous.
 
+## Comment cette difficulté se manifeste
+
 La CIM-11 réserve le mot « épisode », dans ce cadre diagnostique, à une évaluation de la nature des symptômes, de leur intensité et de leur évolution. Solène n’a pas besoin de savoir si ce qu’elle décrit correspond à un épisode pour appeler. Le guide de l’OMS sur le suivi prévoit de pouvoir reprendre contact entre deux consultations quand quelque chose demande un avis. L’appel est une façon de convenir de la suite avec l’équipe.
 
 ## Choisir la présence dont elle a besoin pendant l’appel
@@ -43,9 +45,3 @@ Avant de composer, Solène lui demande de s’asseoir à l’autre bout de la ta
 ## Livia reste au bout de la table
 
 L’infirmière écoute Solène, lui demande si elle peut parler tranquillement et reprend avec elle les changements des derniers jours. Elle propose d’avancer son rendez-vous et précise par quel numéro joindre l’équipe plus tôt si la situation se dégrade. Solène le note, puis relit l’heure à voix haute. Livia demande si elle a encore besoin d’elle pour quelque chose avant de partir. « Si, envoie-moi la photo », dit Solène. Elle veut voir comment on tient un bol dont l’anse touche presque la table. Pendant que Livia passe son manteau, elle retrouve enfin une raison de rire de cette poignée.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Guide d’intervention mhGAP, version 2.0](https://www.who.int/publications/i/item/9789241549790)
-- [NSW Health, communiquer avec une personne qui traverse une psychose](https://www.health.nsw.gov.au/mentalhealth/psychosocial/strategies/Pages/communicating-psychosis.aspx)

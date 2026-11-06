@@ -30,7 +30,11 @@ Les réponses sont dans la conversation de la rencontre, entre les remarques sur
 
 ## Le temps qu’il faut pour lire juste
 
-Une lecture exacte peut demander des relectures et beaucoup de temps dans un trouble développemental des apprentissages avec déficit en lecture. Ce coût se voit peu quand on ne regarde que le résultat final. Célian finit par lire la réponse en entier : la joueuse quitte le gymnase avant le goûter. Ce qui lui demande encore du travail, c’est de la relier au bon prénom et de vérifier si elle corrige une réponse précédente. Le fil est confus en lui-même. Cette difficulté isolée pourrait arriver à d’autres personnes. Chez Célian, elle s’ajoute à des difficultés durables dont les répercussions ont été évaluées. Une liste mal organisée ou une tâche à laquelle on manque d’habitude ne permet pas de conclure à un trouble.
+Une lecture exacte peut demander des relectures et beaucoup de temps dans un trouble développemental des apprentissages avec déficit en lecture. Ce coût se voit peu quand on ne regarde que le résultat final. Célian finit par lire la réponse en entier : la joueuse quitte le gymnase avant le goûter. Ce qui lui demande encore du travail, c’est de la relier au bon prénom et de vérifier si elle corrige une réponse précédente. Le fil est confus en lui-même. Cette difficulté isolée pourrait arriver à d’autres personnes.
+
+## Comment cette difficulté se manifeste
+
+Chez Célian, elle s’ajoute à des difficultés durables dont les répercussions ont été évaluées. Une liste mal organisée ou une tâche à laquelle on manque d’habitude ne permet pas de conclure à un trouble.
 
 ## Écrire la réponse là où on la cherchera
 
@@ -39,8 +43,3 @@ Jade et Célian ont besoin de la même information : une présence au goûter co
 ## Laisser un blanc
 
 Célian montre à Jade comment il verrait la feuille, avec les confirmations à gauche et une petite colonne « à revoir » à droite. Elle lui demande de remplacer son titre « absents » : ceux qui doivent attraper un train après le match seront bien sur le terrain. Il écrit « goûter seulement » au-dessus de la colonne des réponses, puis rectifie encore : « reste au goûter ». Jade s’engage à faire compléter la liste au plus tard le mardi qui précède la rencontre. Léonie regarde leurs colonnes et propose de fabriquer le panneau du menu quand celui-ci sera décidé. Célian laisse la case du lieu vide. À elle, il promet au moins de savoir bientôt comment s’appellera le gâteau.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé — Guide du parcours de santé des enfants avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)

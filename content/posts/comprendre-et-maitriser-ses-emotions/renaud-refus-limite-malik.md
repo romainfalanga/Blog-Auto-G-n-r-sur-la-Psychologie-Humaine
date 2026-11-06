@@ -32,7 +32,11 @@ Il voit le visage de Malik changer. Le plat est encore trop chaud et Édith l’
 
 ## Une limite peut être ressentie comme une mise en cause
 
-Lorsqu’un sentiment de valeur dépend beaucoup de la façon dont on pense être perçu, une réponse négative peut prendre un poids important. Certaines personnes présentant un trouble de la personnalité narcissique éprouvent une forte sensibilité au jugement et peuvent se défendre en dépréciant l’autre ou en mettant en doute ses raisons. Les réactions varient. Pour comprendre celle de Renaud, la scène donne accès à ce qu’il entend et à la suite qu’il s’apprête à donner.
+Lorsqu’un sentiment de valeur dépend beaucoup de la façon dont on pense être perçu, une réponse négative peut prendre un poids important. Certaines personnes présentant un trouble de la personnalité narcissique éprouvent une forte sensibilité au jugement et peuvent se défendre en dépréciant l’autre ou en mettant en doute ses raisons. Les réactions varient.
+
+## Comment cette difficulté se manifeste
+
+Pour comprendre celle de Renaud, la scène donne accès à ce qu’il entend et à la suite qu’il s’apprête à donner.
 
 Malik demande que le dîner reste privé et maintient son invitation. Renaud associe rapidement le refus de la photo à un manque de confiance. En invitant d’autres personnes à prendre parti, il fait peser sur Malik le coût de sa propre gêne. La raison donnée par son ami concerne le cadre dans lequel il veut recevoir.
 
@@ -45,9 +49,3 @@ Le sentiment de rejet peut revenir même après cette décision. Renaud peut not
 ## Le téléphone sur le meuble de l’entrée
 
 Après le dessert, Renaud apporte deux assiettes dans la cuisine. Il demande à Malik s’il a le temps de parler une minute. « Je t’ai fait répondre sur la confiance alors que tu parlais de la photo. » Malik ferme le robinet. Il dit qu’il a entendu la reprise et veut finir la soirée tranquillement. Renaud revient s’asseoir. Au moment de partir, il pense à demander à Malik s’il voudra venir à l’ouverture du centre le mois suivant. Il lui propose de lui envoyer les horaires quand ils seront publics. Malik accepte de les recevoir et dit qu’il regardera s’il peut se libérer.
-
-## Sources
-
-- [American Psychiatric Association, présentation du trouble de la personnalité narcissique selon le DSM-5-TR](https://www.psychiatry.org/news-room/apa-blogs/what-is-narcissistic-personality-disorder/)
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Edershile et collègues, variations de grandiosité et de vulnérabilité dans les interactions, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11326982/)

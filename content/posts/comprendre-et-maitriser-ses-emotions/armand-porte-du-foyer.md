@@ -33,6 +33,8 @@ La table de prêt donne sur l’accueil. Une classe y dépose des livres au mome
 
 Une activité familière peut devenir plus difficile quand les repères du lieu changent ou que plusieurs informations arrivent en même temps. Le parcours habituel d’Armand et le nom qu’il a en tête lui servent encore. Devant une entrée déplacée, le panneau lui demande d’associer une flèche, un service et un trajet dont il ne voit pas encore la fin. Au comptoir, les interruptions s’ajoutent à ce qu’il essaie de raconter. Ces difficultés sont concrètes même si, quelques minutes plus tard, la conversation se déroule mieux à une autre table.
 
+## Comment cette difficulté se manifeste
+
 La maladie d’Alzheimer évolue avec le temps, et ses effets diffèrent d’une personne à l’autre. Les aides peuvent donc se discuter à partir d’une activité et d’un lieu précis. L’aisance d’Armand dans la salle calme n’établit ni un retour durable de capacités perdues ni ce qu’il pourra faire dans un environnement différent. Elle montre qu’il peut présenter sa carte dans les conditions de cette rencontre.
 
 ## Rendre l’arrivée plus simple
@@ -44,10 +46,3 @@ Pour le projet lui-même, Nadia peut proposer une table disponible à une heure 
 ## Côté cour
 
 Nadia suit du doigt le bord du canal sous la tache. Elle aimerait garder plusieurs cartes qui permettent de comparer le même endroit à différentes époques. Armand propose d’apporter un premier ensemble ; le plan qu’il vient d’ouvrir en fera partie. Ils conviennent d’un rendez-vous le jeudi suivant, à dix heures. Nadia lui écrit « porte verte, côté cour » sur le billet, puis lui montre où se trouve la sonnette extérieure. En repartant, Armand regarde l’emplacement depuis la rue. La peinture tire sur le bleu ; pour lui, elle restera verte.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, principaux repères sur la démence](https://www.who.int/fr/news-room/fact-sheets/detail/dementia)
-- [NICE NG97, évaluation, soins et soutien des personnes vivant avec une démence et de leurs proches](https://www.nice.org.uk/guidance/ng97/resources/dementia-assessment-managementand-support-for-people-living-with-dementia-and-their-carers-pdf-1837760199109)
-- [HAS, parcours de soins du trouble neurocognitif associé à la maladie d’Alzheimer](https://www.has-sante.fr/jcms/c_2906096/fr/patients-presentant-un-trouble-neurocognitif-associe-a-la-maladie-d-alzheimer-ou-a-une-maladie-apparentee-guide-parcours-de-soins)

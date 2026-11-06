@@ -32,7 +32,11 @@ Elle posa le plan sur le cahier et prit deux papiers. Sur le premier, elle dessi
 
 ## Rendre une suite d’événements compréhensible
 
-Le trouble développemental du langage peut concerner la façon d’organiser un récit pour quelqu’un qui n’était pas là. Dans ce cas, il faut choisir les détails, indiquer de qui on parle et relier les moments entre eux. Agathe a des images assez nettes pour reprendre les gestes de Lila. Ce qui lui demande plus de travail est de les transformer en un récit qui donne ces images au lecteur. Les besoins varient selon les tâches ; être à l’aise pour décrire un repère avec le plan devant soi ne dit pas comment on racontera l’essai le lendemain. Les professionnels peuvent examiner ces différences quand elles gênent les apprentissages. Le texte de classe est une occasion d’essayer une autre forme de récit, sans en tirer de bilan.
+Le trouble développemental du langage peut concerner la façon d’organiser un récit pour quelqu’un qui n’était pas là. Dans ce cas, il faut choisir les détails, indiquer de qui on parle et relier les moments entre eux.
+
+## Comment cette difficulté se manifeste
+
+Agathe a des images assez nettes pour reprendre les gestes de Lila. Ce qui lui demande plus de travail est de les transformer en un récit qui donne ces images au lecteur. Les besoins varient selon les tâches ; être à l’aise pour décrire un repère avec le plan devant soi ne dit pas comment on racontera l’essai le lendemain. Les professionnels peuvent examiner ces différences quand elles gênent les apprentissages. Le texte de classe est une occasion d’essayer une autre forme de récit, sans en tirer de bilan.
 
 ## Écrire autour des moments utiles
 
@@ -41,9 +45,3 @@ Mme Roussel peut rappeler ce que la page doit faire comprendre : d’abord le mo
 ## Deux dessins et une cause
 
 Agathe écrivit sous le premier dessin : « Lila retourne la feuille pour voir le signe. » Inès nota sous le second, après lui avoir relu la phrase : « Le signe est devant : on garde la feuille dans le même sens. » Le cadre était trop petit pour les deux étoiles. Agathe les mit dans une autre case, avec une question pour la classe qui reprendrait le jardin. La page pouvait désormais rejoindre les copies du plan. Mme Roussel leur confirma que les CM1 devaient venir le jeudi suivant, en deux groupes. Agathe rentra avec les deux dessins dans son sac pour les recopier au propre. La pluie commençait à piquer le papier qu’elle avait laissé dépasser.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [American Speech-Language-Hearing Association, Spoken Language Disorders](https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/)
-- [Haute Autorité de santé, Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2822893/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages)

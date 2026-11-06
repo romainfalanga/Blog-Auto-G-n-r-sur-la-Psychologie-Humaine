@@ -92,5 +92,3 @@ Parler d’une limite intime consiste à donner une information sur ce que l’o
 Choisir ce que l’on explique, nommer la limite et prévoir une pause offrent des appuis concrets. Vous pouvez commencer par une seule phrase adaptée à votre vocabulaire. La gêne peut rester présente pendant que la communication devient plus claire. Elle ne prouve pas que le choix est mauvais ni qu’il faudrait le rendre provisoire pour être aimable.
 
 Si parler d’intimité provoque une souffrance persistante, une psychologue ou un professionnel formé peut accompagner cette réflexion à votre rythme. En présence d’insistance, de menaces ou de représailles, cherchez un soutien qui prenne ces comportements au sérieux. Vous n’avez pas à exposer davantage votre vie pour mériter que votre limite soit respectée.
-
-Sources : [Organisation mondiale de la santé, cadre de la santé sexuelle](https://www.who.int/fr/health-topics/sexual-health) ; [Arrêtons les violences, repères sur le consentement](https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-sexuelles).

@@ -1,5 +1,5 @@
 ---
-title: "Élise : une routine utile peut avoir une fin"
+title: Une routine utile peut avoir une fin
 description: "Élise distingue les vérifications nécessaires à la résidence de celles qu’elle répète pour retrouver une certitude qui ne dure pas."
 slug: elise-routines-verifications
 date: 2026-10-06T09:00:00+02:00
@@ -13,6 +13,7 @@ contexte: "Avant de quitter la résidence, Élise relit plusieurs fois le même 
 editorial_pack: psychology-v10
 episode: 6
 ---
+
 Élise termine sa journée en suivant la procédure habituelle de la résidence municipale. Les informations utiles sont transmises, les locaux concernés par la fuite restent signalés et Cédric a confirmé le point technique attendu. Ces étapes lui servent de repères. Elle les coche une fois, puis revient à son ordinateur pour relire le courriel concernant la visite du jardin. Le nombre de sièges y figure, ainsi que l’horaire et les questions d’accès. Elle l’a déjà vérifié avant l’envoi. Pourtant, elle ouvre encore le message, parcourt les mêmes lignes et cherche l’erreur qu’elle aurait pu ne pas voir.
 
 Aucune information nouvelle n’apparaît. Élise ferme la fenêtre, se lève, puis se demande si elle n’a pas indiqué le mauvais jour. Elle se rassied. Le jour est correct. Le soulagement vient immédiatement, mais laisse bientôt la place à une autre question : et si Mireille comprenait que tout est validé ? Elle relit encore. Le message contient bien la réserve nécessaire. Ce soir, la routine de fin de journée s’allonge autour d’un courriel ordinaire. Elle pense aux habitants qui comptent sur elle, aux préparatifs déjà déplacés et à son désir d’éviter un nouvel embarras.
@@ -76,8 +77,3 @@ Une routine soutient lorsqu’elle accomplit une fonction identifiable dans des 
 Les précautions utiles restent utiles. Clarifier les responsabilités, préserver les protocoles et demander un avis compétent protège de décisions simplistes. Sur une tâche ordinaire, distinguer une vérification nécessaire d’une répétition destinée à calmer le doute peut ouvrir un essai limité.
 
 Élise ne quitte pas son bureau avec une certitude totale. Elle part après les étapes requises, en sachant quand elle reprendra le dossier. Cette limite reste imparfaite et révisable. Elle lui permet de conserver le soutien de ses habitudes sans leur demander de garantir qu’aucun imprévu ne se produira.
-
-Sources :
-- [Assurance Maladie, formes et manifestations du TOC](https://www.ameli.fr/assure/sante/themes/toc/definition-formes-toc-causes)
-- [Centre for Clinical Interventions, Comportements de sécurisation et anxiété sociale](https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Social-Anxiety)
-- [Centre for Clinical Interventions, Inquiétude et rumination](https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Worry-and-Rumination)

@@ -98,5 +98,3 @@ La culpabilité au repos ne prouve pas automatiquement qu’une responsabilité 
 Aline conserve son goût de l’entraide et découvre un dimanche qui n’a pas besoin de devenir utile à chaque instant. Le temps personnel peut contenir du plaisir, de l’ennui et une gêne persistante. Il existe malgré cela. La liberté se construit aussi quand on n’attend plus un sentiment d’autorisation parfait avant de s’arrêter.
 
 Une culpabilité envahissante, une fatigue qui persiste ou une impossibilité durable de ralentir peuvent justifier un échange avec un psychologue ou un médecin. Cet accompagnement peut aider à comprendre les règles que l’on s’impose et à repérer d’autres difficultés. Les horaires, les moyens matériels et la répartition réelle des charges doivent aussi pouvoir être discutés.
-
-Sources : [Tangney et collègues, distinction entre honte, culpabilité et embarras](https://pubmed.ncbi.nlm.nih.gov/8667166/) ; [Neff, présentation du concept d’autocompassion](https://doi.org/10.1080/15298860309032).

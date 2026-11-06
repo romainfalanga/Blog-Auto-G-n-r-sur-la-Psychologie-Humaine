@@ -32,7 +32,11 @@ Samira, l’éducatrice, passe chercher les cartons secs. Augustin se tourne ver
 
 ## Ce qui se voit quand on compte les pièces
 
-Un geste qui prend du temps peut demander beaucoup d’effort, même si le résultat est encore peu visible. Le trouble développemental de la coordination motrice, dont Augustin connaît le diagnostic depuis avant le début de l’atelier, peut rendre certaines actions plus lentes ou moins précises. Les gestes concernés ne sont pas les mêmes chez tout le monde. Tenir ensemble deux matières qui glissent et ajuster leur bord lui demande ici plusieurs reprises. Nora voit surtout le nombre d’objets posés sur la table ; Augustin, lui, sait combien de fois il a dû recommencer. Cette différence de point de vue suffit à faire passer un choix auquel il tient pour quelque chose qu’il délaisse. Son diagnostic ne dit ni quelles idées il aura ni le plaisir qu’il prend à les réaliser.
+Un geste qui prend du temps peut demander beaucoup d’effort, même si le résultat est encore peu visible. Le trouble développemental de la coordination motrice, dont Augustin connaît le diagnostic depuis avant le début de l’atelier, peut rendre certaines actions plus lentes ou moins précises. Les gestes concernés ne sont pas les mêmes chez tout le monde. Tenir ensemble deux matières qui glissent et ajuster leur bord lui demande ici plusieurs reprises.
+
+## Comment cette difficulté se manifeste
+
+Nora voit surtout le nombre d’objets posés sur la table ; Augustin, lui, sait combien de fois il a dû recommencer. Cette différence de point de vue suffit à faire passer un choix auquel il tient pour quelque chose qu’il délaisse. Son diagnostic ne dit ni quelles idées il aura ni le plaisir qu’il prend à les réaliser.
 
 ## Choisir ce qu’on veut voir depuis la salle
 
@@ -41,8 +45,3 @@ Le groupe a besoin d’accessoires finis. Avant d’attribuer le travail selon l
 ## Deux bandes contre le mur
 
 Augustin pose le disque contre le mur et recule jusqu’à la porte. De là, il ne voit pas sa trace de pouce. Il voit les deux bandes. Nora vient se placer à côté de lui et penche la tête : elles brillent surtout quand il bouge. Il propose d’essayer le papier le plus large mercredi, avec le disque posé à plat. Nora lui réserve une chute. Avant de partir, Augustin prend aussi le texte que Maya a laissé sur une chaise. Il plie le coin de la page où le concierge parle tout seul à ses clés.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Blank et al., recommandations cliniques internationales de l’EACD sur le trouble du développement de la coordination (2019)](https://onlinelibrary.wiley.com/doi/full/10.1111/dmcn.14132)

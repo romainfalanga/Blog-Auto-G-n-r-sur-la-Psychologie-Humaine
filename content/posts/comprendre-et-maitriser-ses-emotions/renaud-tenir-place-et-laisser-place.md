@@ -34,6 +34,8 @@ Nora pose deux cartons de nom sur une tablette. Elle demande à Yara si elle veu
 
 Le suivi d’un trouble de la personnalité s’intéresse au fonctionnement dans le temps. Une personne peut éprouver une réaction familière et trouver davantage de façons d’y répondre. La décision qu’elle prend, la place qu’elle laisse à autrui et les effets de ses actes donnent des points d’appui concrets pour examiner ce changement. Un seul jour facile offre un exemple parmi d’autres.
 
+## Comment cette difficulté se manifeste
+
 Renaud continue de souhaiter être reconnu par la visiteuse et par Nora. Il conserve aussi l’accord passé avec Yara et peut décrire le travail qu’ils ont fait chacun. Il a annoncé la visite quand elle était prête et choisit un moment réaliste pour examiner la flèche. Les conséquences de ces décisions se constatent dans le travail. Yara peut décider de ses tâches et les visiteurs disposent d’un parcours utilisable.
 
 ## Garder un projet à soi et une relation à deux
@@ -45,8 +47,3 @@ Les liens avec Malik et Édith ont également leur propre rythme. Renaud peut le
 ## Une place à la table de dix-huit heures
 
 Il envoie un message court à Yara pour lui confirmer qu’il a noté les deux questions sur le retour. Dehors, la visiteuse repart par la cour. Renaud la voit lever la feuille pour la regarder à la lumière. Il aurait aimé lui parler encore du panneau. Il la laisse rejoindre les autres et ferme la porte derrière elle. À dix-huit heures, Édith lui fait signe depuis la table où Malik vient de s’asseoir. Renaud pose son manteau sur le dossier. Il a envie de raconter la visite. Il demande d’abord à Édith ce qu’il en est de la chambre que cherchait son amie.
-
-## Sources
-
-- [American Psychiatric Association, présentation du trouble de la personnalité narcissique selon le DSM-5-TR](https://www.psychiatry.org/news-room/apa-blogs/what-is-narcissistic-personality-disorder/)
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)

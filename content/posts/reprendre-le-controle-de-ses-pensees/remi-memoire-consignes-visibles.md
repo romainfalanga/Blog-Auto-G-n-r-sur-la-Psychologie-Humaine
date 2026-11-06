@@ -90,5 +90,3 @@ La mémoire de travail soutient des gestes très quotidiens, mais elle n'a pas �
 Si vous perdez le fil d'une explication, vous pouvez demander à reformuler l'ordre ou à vérifier un exemple. La question utile n'est pas seulement « pourquoi je ne retiens pas ? », mais aussi « quelle information doit rester disponible, et où ? ». Un support clair, actualisé et accepté peut être plus pertinent qu'un nouvel effort pour tout garder en tête.
 
 Si les oublis restent fréquents malgré des conditions adaptées, ou s'ils s'accompagnent d'une souffrance importante, un professionnel peut vous aider à comprendre les facteurs en jeu. Cette démarche n'impose aucune conclusion à l'avance. Elle peut compléter les appuis de l'entourage et les ajustements du travail, sans réduire votre valeur à une performance de mémoire.
-
-Sources : [Alan Baddeley, développement du concept de mémoire de travail](https://pubmed.ncbi.nlm.nih.gov/34312672/) ; [Sam Gilbert, usage de rappels extérieurs](https://pubmed.ncbi.nlm.nih.gov/25404057/).

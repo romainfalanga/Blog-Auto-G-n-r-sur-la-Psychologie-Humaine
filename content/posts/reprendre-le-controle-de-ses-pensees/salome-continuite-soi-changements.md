@@ -92,5 +92,3 @@ La continuité de soi au fil des changements ne demande pas de conserver chaque 
 Quelques scènes, une valeur vécue de plusieurs façons et un tri limité peuvent ouvrir cette réflexion. Vous pouvez changer une présentation, apprendre une méthode ou laisser partir un objet sans annuler tout ce qui précède. Une histoire personnelle peut rester partielle et en mouvement, sans devoir devenir parfaitement explicable pour les autres.
 
 Si des changements rendent le sentiment de soi durablement douloureux ou difficile à saisir, une psychologue ou un autre professionnel respectueux peut accompagner l’exploration. Il n’est pas nécessaire de tout raconter d’un seul trait. L’aide peut soutenir vos repères actuels et votre liberté de choisir ce que vous souhaitez conserver, transformer ou laisser privé.
-
-Sources : [McLean, continuité personnelle et identité narrative à différents âges, 2008](https://pubmed.ncbi.nlm.nih.gov/18194024/).

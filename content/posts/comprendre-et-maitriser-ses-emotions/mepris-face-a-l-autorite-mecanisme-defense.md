@@ -62,6 +62,7 @@ Priya remarque la fatigue d’Antoine et reprend la discussion par une question 
 Antoine se frotte les yeux et propose de passer au point suivant. Priya rallume son micro. « Pour un dossier déjà ouvert, vous voulez qu’on reprenne la saisie depuis le début ? » Il répond que la réponse dépend du logiciel et lui demande le nom du sien. Il doit se renseigner. La réunion a duré quinze minutes de plus que prévu, et Priya ne trouve toujours pas la procédure convaincante.
 
 Elle note la question en attente. Le dossier de Marc est dessous. Elle le rouvre et regarde à nouveau la question qu’il lui a posée. Elle ne sait pas encore si elle a envie de lui proposer une seconde rencontre. Elle laisse son numéro là où elle pourra le retrouver.
+
 ---
 
 Il est possible de poser une question ou de contester une consigne sans se prononcer sur la valeur de son interlocuteur. Un psychologue peut accompagner l’examen de ces réactions si elles entraînent une souffrance persistante.

@@ -31,7 +31,11 @@ Mina dit qu’elle aurait besoin de pouvoir prévoir son après-midi. Alice rép
 
 ## Un besoin de lien et deux emplois du temps
 
-Une crainte forte de perdre un lien peut faire partie des difficultés décrites par le profil borderline. Les professionnels s’intéressent à la manière dont cette crainte revient et aux effets qu’elle a sur les relations. Mina peut se demander ce qu’elle éprouve en entendant la réponse d’Alice et ce dont elle a besoin pour son dimanche. Alice peut apprécier leurs rendez-vous et avoir une disponibilité qui varie avec la troupe.
+Une crainte forte de perdre un lien peut faire partie des difficultés décrites par le profil borderline. Les professionnels s’intéressent à la manière dont cette crainte revient et aux effets qu’elle a sur les relations.
+
+## Comment cette difficulté se manifeste
+
+Mina peut se demander ce qu’elle éprouve en entendant la réponse d’Alice et ce dont elle a besoin pour son dimanche. Alice peut apprécier leurs rendez-vous et avoir une disponibilité qui varie avec la troupe.
 
 Il est possible de formuler une demande de contact et d’entendre la limite que pose l’autre personne. Ce que Mina souhaite préserver peut tenir à un moment précis ou à une façon de se prévenir. Elle peut aussi dire qu’elle reste déçue et décider de ce qu’elle fera pendant ce temps.
 
@@ -44,8 +48,3 @@ Si elles veulent que cette façon de se prévenir change, elles peuvent en repar
 ## Dimanche à la table de reliure
 
 Mina ouvre les horaires de l’atelier sur son téléphone et prend le créneau du dimanche. Elle dit à Alice qu’elle aurait aimé la voir et qu’elle préfère prévoir son après-midi. Alice ne trouve pas d’autre date sur le moment. Elle reprend l’ourlet et propose de se faire signe la semaine suivante. En la regardant partir, Mina a encore envie de lui demander si elle a bien compris. Elle garde sur la table la soucoupe qu’Alice a poussée vers elle, parce qu’il reste un carré de chocolat qu’elles n’ont pas partagé.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG78, accompagnement des personnes présentant un profil borderline](https://www.nice.org.uk/guidance/cg78/chapter/Recommendations)

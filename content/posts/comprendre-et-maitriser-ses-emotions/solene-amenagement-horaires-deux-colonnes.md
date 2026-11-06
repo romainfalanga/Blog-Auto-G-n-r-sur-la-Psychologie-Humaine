@@ -33,7 +33,11 @@ Mireille fait défiler la semaine suivante. « Si tu ne peux pas venir le soir, 
 
 Solène doit pouvoir expliquer ce qu’elle arrive à faire et discuter de l’effort que lui demande une séance. La possibilité de suivre un créneau court lui rend une part du travail accessible. Pour garder sa place dans la programmation, elle a aussi besoin que le partage des tâches soit discuté avec elle.
 
-En France, une personne salariée du privé peut contacter directement le service de prévention et de santé au travail. Le médecin du travail peut proposer des aménagements du poste ou du temps de travail en fonction de la situation. Il est tenu au secret médical : les informations qu’il recueille sur la santé de la personne pendant la visite ne sont pas communiquées à l’employeur. Mireille a besoin de connaître le cadre des horaires et les tâches à prévoir. Solène peut garder pour sa psychiatre ce qu’elles ont repris à propos des urgences.
+En France, une personne salariée du privé peut contacter directement le service de prévention et de santé au travail. Le médecin du travail peut proposer des aménagements du poste ou du temps de travail en fonction de la situation. Il est tenu au secret médical : les informations qu’il recueille sur la santé de la personne pendant la visite ne sont pas communiquées à l’employeur. Mireille a besoin de connaître le cadre des horaires et les tâches à prévoir.
+
+## Comment cette difficulté se manifeste
+
+Solène peut garder pour sa psychiatre ce qu’elles ont repris à propos des urgences.
 
 Le suivi d’un trouble schizoaffectif tient compte de l’évolution des symptômes et de leur retentissement. Les périodes plus difficiles et les périodes intermédiaires ne se ressemblent pas forcément. Les orientations de l’OMS sur le rétablissement invitent à tenir compte des objectifs de la personne. Dans ce cadre, Solène peut dire quelles tâches donnent du sens à sa reprise et signaler si le nouvel horaire devient difficile à tenir.
 
@@ -46,10 +50,3 @@ Mireille peut accepter ou refuser la date pour des raisons de personnel et de bu
 ## Trois noms et une heure de fin
 
 La bibliothécaire confirme le samedi à quatorze heures et propose d’ouvrir à treize heures trente. Célestin peut tenir la projection et doit partir à quinze heures trente. Mireille prend la fin de l’accueil et la fermeture avec la bibliothécaire. Solène inscrit ses deux heures d’essai et son créneau du samedi. Mireille lui demande si elle veut montrer les cartes des Tilleuls. Solène sort celle sur les sous-titres, puis se ravise et lui donne d’abord celle de la chaise. L’une donne le point de départ du nouvel essai ; l’autre rappelle pourquoi le programme commence dans un atelier.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, services de santé mentale communautaires : résumé des orientations](https://www.who.int/fr/publications/i/item/9789240025684)
-- [Service Public, médecine du travail pour un salarié du secteur privé](https://www.service-public.gouv.fr/particuliers/vosdroits/F2211)
-- [Service Public, secret médical et médecine du travail](https://www.service-public.gouv.fr/particuliers/vosdroits/F34302)

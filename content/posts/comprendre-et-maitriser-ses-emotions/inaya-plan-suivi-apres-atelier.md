@@ -32,7 +32,11 @@ Nino est assis près de la porte. Il a rapporté une feuille de la médiathèque
 
 Dans la prévention des rechutes, le NICE recommande de revoir avec la personne ce qui l’a aidée, ce qui a précédé une aggravation et les réponses possibles. Pour Inaya, le changement de sommeil, la perte d’intérêt et la difficulté à garder certains engagements sont des observations à discuter avec sa psychiatre. Une matinée pénible n’impose pas d’en conclure qu’un épisode commence. Si les changements s’accumulent ou gênent de nouveau la vie quotidienne, elle sait qu’elle peut le signaler tôt.
 
-Elles vérifient ensemble qui répond entre deux consultations et quel relais utiliser si la personne prévue n’est pas joignable. Si la sécurité d’Inaya est menacée, elle cherche une aide urgente sans attendre le rendez-vous. Inaya choisit si Myriam garde une copie des coordonnées et quelles tâches pratiques sa sœur pourrait prendre pour un temps limité. La suite du suivi se décide avec l’équipe, selon sa situation et ses préférences.
+Elles vérifient ensemble qui répond entre deux consultations et quel relais utiliser si la personne prévue n’est pas joignable.
+
+## Comment cette difficulté se manifeste
+
+Si la sécurité d’Inaya est menacée, elle cherche une aide urgente sans attendre le rendez-vous. Inaya choisit si Myriam garde une copie des coordonnées et quelles tâches pratiques sa sœur pourrait prendre pour un temps limité. La suite du suivi se décide avec l’équipe, selon sa situation et ses préférences.
 
 ## Faire de la place à ce qui n’a pas besoin de servir au suivi
 
@@ -43,9 +47,3 @@ Le plan sert si une difficulté revient ; il n’a pas à organiser toutes les j
 ## Le cinéma reste une invitation
 
 Au retour de la consultation, Inaya écrit au verso du programme le nom du cinéma pour ne pas se tromper de salle. Dans son sac, elle garde séparément les coordonnées convenues pour son suivi. Elle envoie à Myriam celles qu’elle souhaite partager et lui demande si elle a toujours envie de déjeuner dimanche. Nino voudrait déjà savoir s’ils prendront du chocolat. Elle lui répond qu’ils choisiront devant la caisse, si la séance leur convient. Sur le calendrier, le samedi suivant n’a encore qu’une ligne au crayon.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, épisode dépressif caractérisé chez l’adulte](https://www.has-sante.fr/jcms/c_1739917/fr/episode-depressif-caracterise-de-l-adulte-prise-en-charge-en-premier-recours)
-- [NICE NG222, dépression de l’adulte](https://www.nice.org.uk/guidance/NG222/chapter/recommendations)

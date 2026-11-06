@@ -32,6 +32,8 @@ Jules replie la feuille pour la glisser dans son carnet. Le pouce se retrouve ex
 
 Les difficultés liées au trouble panique peuvent varier d’une situation à l’autre et d’une journée à l’autre. Jules avait approché la librairie avec sa psychiatre. Aujourd’hui, il est venu dessiner au milieu de passages qu’il n’avait pas anticipés. Il a pu tracer les premières lignes et a choisi de quitter la table. Il peut parler de ce qu’il a vécu et de sa déception à la consultation, avec la même liberté que lorsqu’il raconte un moment qui s’est bien passé.
 
+## Comment cette difficulté se manifeste
+
 Un essai convenu dans le suivi et une sortie de loisir ont chacun leur place. Le samedi lui permet de dire ce qu’il cherche dans cette activité et ce qui peut l’empêcher d’y rester. La psychiatre peut revoir avec lui ce qu’il veut poursuivre. Jules peut lui parler d’un changement dans la nature de ses symptômes s’il survient. Les signes aigus inhabituels relèvent d’une évaluation médicale adaptée.
 
 ## Quitter la table en gardant le lien
@@ -43,8 +45,3 @@ S’il veut revenir sur ce samedi en consultation, il peut dire ce qu’il a vu 
 ## Le pouce au milieu du pli
 
 Sur le chemin du retour, Jules montre le pli à Solange en photo. Il lui dit qu’il est déçu d’avoir quitté la table. Elle lui répond que la main ressemble à celle de son voisin quand il ferme sa boîte de dominos. Jules lui demande s’il peut venir la dessiner un autre jour. Avant de décider du trajet, il voit une annonce indiquant que l’arrêt près de chez elle sera déplacé pendant les travaux.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

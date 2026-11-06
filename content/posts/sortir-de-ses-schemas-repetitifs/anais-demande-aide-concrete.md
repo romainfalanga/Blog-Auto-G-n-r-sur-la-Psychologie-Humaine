@@ -100,5 +100,3 @@ Communiquer un besoin d'aide concret permet à Anaïs de sortir du choix entre s
 L'appui peut rester modeste et imparfait. Il devient plus utile lorsqu'il respecte les limites des deux personnes et n'exige ni dette immédiate ni disparition de l'autonomie. Une activité peut ainsi garder sa place sans que chaque difficulté décide seule de tout le programme.
 
 Si les gestes du quotidien posent régulièrement problème, les professionnels de votre suivi peuvent conseiller des adaptations appropriées. Un psychologue peut aussi aider lorsque demander ou recevoir un soutien devient durablement conflictuel. Le soin et la relation peuvent être accompagnés sans confondre leurs rôles.
-
-Sources : [Assurance maladie, appuis au quotidien avec une polyarthrite](https://www.ameli.fr/assure/sante/themes/polyarthrite-rhumatoide/vivre-polyarthrite-rhumatoide) ; [HAS, dialogue et accompagnement dans le parcours de soins](https://www.has-sante.fr/jcms/c_1695997/en/parler-avec-son-medecin).

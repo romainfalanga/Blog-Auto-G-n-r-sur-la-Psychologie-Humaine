@@ -32,7 +32,11 @@ Lise tourne le pupitre vers elle. Elle voudrait savoir si elle doit demander à 
 
 Une personne peut demander un changement pratique et choisir les informations de santé qu’elle partage. Garance explique à Lise les dates, les textes et sa place au pupitre. Éva a reçu avec son accord une partie du plan de suivi. Lise a besoin de savoir qui prépare la notice et comment organiser une répétition si une personne manque. Chacune peut participer à sa manière avec les renseignements dont elle a besoin.
 
-Le NICE recommande de discuter des informations partagées avec les proches et des limites de cet échange. Dans l’ensemble amateur, Garance choisit ce qu’elle veut dire et à qui. Si elle souhaite demander un autre arrangement plus tard, elle pourra le faire à partir d’un besoin précis. Elle garde le droit de parler de son diagnostic avec Lise si elle en a envie. L’accord sur les pupitres et les dates peut se prendre dès aujourd’hui.
+Le NICE recommande de discuter des informations partagées avec les proches et des limites de cet échange.
+
+## Comment cette difficulté se manifeste
+
+Dans l’ensemble amateur, Garance choisit ce qu’elle veut dire et à qui. Si elle souhaite demander un autre arrangement plus tard, elle pourra le faire à partir d’un besoin précis. Elle garde le droit de parler de son diagnostic avec Lise si elle en a envie. L’accord sur les pupitres et les dates peut se prendre dès aujourd’hui.
 
 ## Prévoir comment transmettre une partition
 
@@ -43,8 +47,3 @@ Lise a aussi ses limites. Elle a besoin de connaître assez tôt les personnes q
 ## Lise emporte la notice
 
 Lise glisse la notice dans son dossier et laisse la partition ouverte au pupitre. Garance prend le temps d’accorder son alto. Elle avait préparé plusieurs phrases pour expliquer son retrait. Finalement, elle dit à la personne assise à côté d’elle où elle a marqué la reprise. Lise envoie le calendrier révisé après la séance. Garance le retrouve au même endroit que la partition. Quelques semaines passent. Un jeudi, elle ouvre ce fil pour confirmer qu’elle viendra. Elle laisse son message sans l’envoyer et reste devant le calendrier où la répétition est pourtant toujours à la même heure.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

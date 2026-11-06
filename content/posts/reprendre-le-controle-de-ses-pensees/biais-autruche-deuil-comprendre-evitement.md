@@ -11,6 +11,10 @@ personnage: "Bernard"
 sujet: "évitement d’une information pénible après un deuil"
 contexte: "lors d'un deuil"
 draft: false
+editorial_sources:
+- https://doi.org/10.1086/505250
+- https://doi.org/10.1007/s11166-009-9060-6
+- https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/
 ---
 
 L’enveloppe du notaire a changé de place trois fois dans l’atelier. Bernard l’a d’abord mise sous la radio, puis sous un catalogue. Ce matin, il l’a posée près de ses clés pour la voir en partant. Il reconnaît l’écriture sans avoir à la retourner. Depuis la mort d’Hélène, il choisit volontiers une tâche à finir dès qu’il tombe dessus.
@@ -70,5 +74,3 @@ L’analogie avec l’effet autruche aide Bernard à nommer une démarche qu’i
 En affrontant les informations qui nous font peur, nous ne faisons pas seulement de la place pour la douleur, nous faisons aussi de la place pour la vie. Comme Bernard, vous découvrirez peut-être que l'information redoutée est moins dévastatrice que l'énergie dépensée à l'éviter. C'est dans cette confrontation douce et progressive que se trouve la clé pour retrouver une forme de paix intérieure et restaurer les liens brisés par le silence.
 
 Le chemin du deuil est personnel et complexe. Si vous sentez que l'évitement devient votre seul mode de fonctionnement et qu'il paralyse votre vie quotidienne, solliciter l'aide d'un professionnel de santé ou d'un psychologue peut être bénéfique. Un accompagnement spécialisé offre les outils nécessaires pour lever le voile à votre rythme, sans vous sentir submergé par la réalité.
-
-Sources : [Galai et Sade, 2006](https://doi.org/10.1086/505250) ; [Karlsson, Loewenstein et Seppi, 2009](https://doi.org/10.1007/s11166-009-9060-6) ; [NHS, vivre un deuil et demander de l’aide](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/).

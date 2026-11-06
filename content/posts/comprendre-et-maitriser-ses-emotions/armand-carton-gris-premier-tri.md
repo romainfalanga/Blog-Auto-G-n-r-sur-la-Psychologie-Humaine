@@ -34,6 +34,8 @@ Il écarte les deux billets du plan. Jeanne lui demande si elle peut chercher le
 
 La maladie d’Alzheimer peut rendre plus difficile le fait de retenir une information récente ou de retrouver dans quelles circonstances on l’a apprise. Le changement s’installe en général progressivement et peut peser sur des activités aussi ordinaires qu’organiser un rendez-vous. Armand a reçu son diagnostic lors d’une évaluation antérieure. Les deux billets éclairent une difficulté qui se présente à lui ce matin. Ils ne permettent pas, à eux seuls, de dire ce qui cause les oublis de quelqu’un.
 
+## Comment cette difficulté se manifeste
+
 Armand a encore des raisons très précises de vouloir donner le plan des canaux et garder la carte du pont. Son hésitation sur l’heure de jeudi ne tranche aucune de ces questions. Le guide de la Haute Autorité de santé invite à tenir compte du vécu de la personne, de ce qu’elle peut faire et de l’aide qui lui est utile dans la vie quotidienne. Pour Armand, aujourd’hui, le besoin porte sur l’heure du rendez-vous.
 
 ## Un seul endroit pour retrouver l’heure
@@ -45,9 +47,3 @@ Le tri du don peut avancer séparément. Armand pense à trois destinations : ga
 ## Jeudi, dix heures
 
 Nadia confirme dix heures. Elle lui dit qu’ils commenceront à deux à la table de prêt. Armand barre onze heures, jette le billet barré et glisse l’autre au bord du miroir de l’entrée, là où il le verra en prenant ses clés. Il met le plan des canaux dans le carton gris, sous une feuille « à donner ». La carte du pont bas attend à côté de son fauteuil. Jeanne lui demande si elle peut la regarder. Armand la déplie pour lui montrer un virage qu’il ne lui avait jamais signalé.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, parcours de soins du trouble neurocognitif associé à la maladie d’Alzheimer](https://www.has-sante.fr/jcms/c_2906096/fr/patients-presentant-un-trouble-neurocognitif-associe-a-la-maladie-d-alzheimer-ou-a-une-maladie-apparentee-guide-parcours-de-soins)
-- [NICE NG97, évaluation, soins et soutien des personnes vivant avec une démence et de leurs proches](https://www.nice.org.uk/guidance/ng97/resources/dementia-assessment-managementand-support-for-people-living-with-dementia-and-their-carers-pdf-1837760199109)

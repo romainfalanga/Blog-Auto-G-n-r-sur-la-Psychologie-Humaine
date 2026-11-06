@@ -1,5 +1,5 @@
 ---
-title: "Élise : remercier sans dire que tout va bien"
+title: Remercier sans dire que tout va bien
 description: "Élise reconnaît l’aide reçue pour une rencontre au jardin. Sa gratitude ne supprime ni les obstacles ni le droit de demander davantage."
 slug: elise-gratitude-sans-deni
 date: 2026-10-05T09:00:00+02:00
@@ -13,6 +13,7 @@ contexte: "Cédric obtient des sièges pour la rencontre au jardin, mais une dif
 editorial_pack: psychology-v10
 episode: 5
 ---
+
 Les chaises arrivent dans le véhicule de service au moment où Élise referme son carnet. Cédric a trouvé un prêt compatible avec le petit déplacement prévu vers le jardin partagé. Elle descend l’aider à vérifier la livraison. Depuis la fermeture de la salle commune, cette question l’occupait davantage qu’elle ne le disait. Elle remercie Cédric avec chaleur. Il a effectué deux appels qu’elle n’aurait pas su à qui adresser et organisé le transport pendant son service. Elle ressent un soulagement précis, presque physique, en voyant les sièges empilés. Pour une fois, elle n’a pas envie de passer immédiatement à la prochaine difficulté.
 
 Puis elle repense à l’allée repérée avec Mireille. Le passage reste étroit et certaines personnes auront besoin d’un trajet plus confortable. Elle commence une phrase à ce sujet, s’interrompt et dit que ce sera très bien. Cédric lui demande ce qu’elle voulait ajouter. Élise répond qu’il a déjà beaucoup fait. Elle craint que nommer le problème restant ressemble à une critique de son aide. Dans son esprit, remercier correctement semble exiger de ne plus demander. Elle regarde les chaises comme si elles devaient prouver que toutes les conditions sont désormais réunies.
@@ -76,7 +77,3 @@ La gratitude peut rendre visibles des soutiens que l’attention occupée oublie
 Recevoir une aide ne retire pas le droit de demander, de refuser ou de signaler un problème. La réciprocité se construit dans des cadres et des relations différents. Elle n’exige pas qu’une personne rembourse immédiatement sa place, son soutien ou sa disponibilité.
 
 Élise n’a pas réglé l’accès au jardin en remerciant Cédric. Elle a reconnu une contribution et maintenu une question nécessaire. Cette coexistence lui permet de poursuivre le projet avec des informations plus justes, sans convertir l’aide reçue en obligation de dire que tout va bien.
-
-Sources :
-- [National Institute of Mental Health, Prendre soin de sa santé mentale](https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health)
-- [National Institutes of Health, Ressources pour les relations et le soutien](https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit)

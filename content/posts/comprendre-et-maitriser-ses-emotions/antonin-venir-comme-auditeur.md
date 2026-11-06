@@ -32,7 +32,11 @@ Dans sa poche, il a le papier avec l’heure du premier entretien psychologique.
 
 ## Le suivi peut tenir compte de ce qui change
 
-L’accompagnement de l’anxiété généralisée s’ajuste à ce qui pèse sur la personne, à ses préférences et à la réponse aux aides déjà essayées. Quand un chantier se termine, certaines contraintes de travail disparaissent et d’autres peuvent revenir sous une forme différente. Antonin continue de faire le point avec son médecin. Il peut décrire ses nuits, ses décisions au travail et le temps qu’il arrive à passer avec son frère. Le premier entretien psychologique lui donne un autre endroit où parler de ce qui lui importe et poser des questions sur les options proposées.
+L’accompagnement de l’anxiété généralisée s’ajuste à ce qui pèse sur la personne, à ses préférences et à la réponse aux aides déjà essayées. Quand un chantier se termine, certaines contraintes de travail disparaissent et d’autres peuvent revenir sous une forme différente.
+
+## Comment cette difficulté se manifeste
+
+Antonin continue de faire le point avec son médecin. Il peut décrire ses nuits, ses décisions au travail et le temps qu’il arrive à passer avec son frère. Le premier entretien psychologique lui donne un autre endroit où parler de ce qui lui importe et poser des questions sur les options proposées.
 
 Une activité qui reprend ne résume pas l’évolution d’un trouble. Antonin peut apprécier l’audition et ressentir de nouveau de l’inquiétude sur ce qu’on attend de lui. Il garde le choix d’en parler, de demander un appui plus tôt si la gêne s’accentue et de dire quels objectifs lui semblent adaptés maintenant.
 
@@ -45,8 +49,3 @@ Benoît n’a pas besoin de connaître le planning de l’école pour choisir s�
 ## Le silence avant la première note
 
 Benoît accepte l’audition et propose de jouer une autre fois. Antonin garde deux places au fond après avoir préparé la salle. Avant de s’asseoir, il remarque qu’un pied grince sur le sol et en parle à la personne qui assure l’accueil. Puis il rejoint son frère. Benoît lui demande s’il connaît le morceau. Antonin reconnaît les deux notes qui l’ouvraient dans le couloir. Il baisse la voix pour les fredonner, puis se tait quand les élèves lèvent leurs instruments.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

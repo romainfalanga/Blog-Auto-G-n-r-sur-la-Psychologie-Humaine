@@ -11,6 +11,10 @@ personnage: "Mei"
 sujet: "peur"
 contexte: "face à l'autorité"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/22365542/
+- https://www.nice.org.uk/Guidance/CG159/chapter/recommendations
+- https://www.etudiant.gouv.fr/fr/violences-et-discriminations
 ---
 
 La feuille se coince dans le tiroir où les étudiants déposent leurs travaux. Mei la pousse du plat de la main pour éviter de plier le coin. Sur le formulaire joint, elle n’a rien écrit à la ligne « Remarques pour l’enseignant ». Elle avait préparé une question sur le contour du personnage. Il lui aurait fallu l’écrire au-dessus de son nom, sur la feuille que M. Dubois tiendrait au moment de mettre la note.
@@ -60,5 +64,3 @@ La peur face à l’autorité peut venir de l’échange actuel, d’expérience
 Dans un échange où vous vous sentez en sécurité, préparer une question ou demander des précisions peut vous donner un point d’appui. Vous pouvez aussi différer un échange ou demander à être accompagné.
 
 Si vos difficultés sont importantes ou persistantes, solliciter l'aide d'un professionnel de santé mentale est une démarche utile. Un psychologue ou un thérapeute pourra vous accompagner pour travailler plus en profondeur sur les traces d'enfance, le sentiment d'imposture et les stratégies d'affirmation individuelle.
-
-Sources : [LeDoux, Rethinking the emotional brain](https://pubmed.ncbi.nlm.nih.gov/22365542/) ; [NICE, recommandations sur l’anxiété sociale](https://www.nice.org.uk/Guidance/CG159/chapter/recommendations) ; [Étudiant.gouv, violences et discriminations](https://www.etudiant.gouv.fr/fr/violences-et-discriminations).

@@ -1,5 +1,5 @@
 ---
-title: "Malik : les démarches administratives dans la tête"
+title: Les démarches administratives dans la tête
 date: 2026-09-16T09:00:00+00:00
 description: "Une demande de document revient sans explication claire. Malik cherche un appui pour comprendre la prochaine étape et préserver son attention."
 slug: "malik-demarches-charge-mentale"
@@ -89,6 +89,8 @@ Le rendez-vous règle aussi une difficulté de navigation qui lui faisait cherch
 
 Il vérifie la suite convenue et range sa pochette. Avec Awa, il peut raconter la démarche en quelques phrases au lieu de reprendre toutes les hypothèses depuis le début. Elle lui demande ce qu’il souhaite faire ensuite de leur temps commun. Il choisit de lui montrer les tirages qu’il garde depuis le dimanche précédent.
 
+Il sort l’enveloppe des photos et range le dossier administratif dans le tiroir. Il étale les tirages sur la table et demande à Awa par lequel elle voudrait commencer.
+
 La réponse administrative n’arrive pas pendant leur échange. Le dossier continue d’exister et pourra demander une autre étape. Malik ne se sent pas devenu parfaitement organisé. Il possède simplement un blocage mieux décrit, un appui identifié et une trace de ce qui dépend maintenant d’une réponse extérieure plutôt que d’une nouvelle vérification solitaire.
 
 ---
@@ -98,8 +100,3 @@ La charge mentale des démarches administratives tient aussi à la compréhensio
 Une question précise, un accompagnement au rôle clair et une prochaine étape écrite peuvent alléger une partie du travail. Ces appuis ne garantissent ni attribution d’un droit ni délai de traitement. Ils permettent surtout de mieux répartir les responsabilités entre l’usager, l’accompagnant et l’organisme qui décide.
 
 Si les démarches provoquent une détresse persistante, un psychologue ou un médecin peut proposer un soutien. Un professionnel compétent reste nécessaire pour les questions administratives ou juridiques particulières. Chercher ces aides respecte les dimensions différentes de la situation, sans déduire une difficulté personnelle du parcours migratoire de Malik.
-
-Sources :
-- [Moynihan, Herd et Harvey, cadre du fardeau administratif](https://doi.org/10.1093/jopart/muu009)
-- [France services, périmètre des accompagnements proposés](https://www.france-services.gouv.fr/demarches-et-services)
-- [CNIL, protection des données pendant l’accompagnement des démarches](https://www.cnil.fr/fr/professionnels-du-secteur-social-comment-mieux-proteger-les-donnees-de-vos-usagers-demarches-en-ligne)

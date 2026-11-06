@@ -1,5 +1,5 @@
 ---
-title: "Odile : les objets et le droit de choisir ses souvenirs"
+title: Les objets et le droit de choisir ses souvenirs
 date: 2026-11-03T08:40:00+00:00
 description: "Un carton d’affaires de sa sœur attend dans l’entrée. Odile cherche quoi garder, transmettre ou laisser partir, sans décision obligée."
 categories: ["Sortir de ses schémas répétitifs"]
@@ -74,7 +74,3 @@ Les affaires d’une personne morte peuvent porter des associations fortes sans 
 Si vous souhaitez trier, un périmètre limité, des questions distinctes et une présence respectueuse peuvent rendre l’expérience plus supportable. Vous pouvez demander une aide matérielle sans déléguer toutes les décisions. Vous pouvez aussi différer ce travail lorsqu’il n’est pas urgent, ou chercher un appui concret si les contraintes imposent d’avancer. Les photographies et les récits sont des options, pas une obligation supplémentaire de tout préserver autrement.
 
 Lorsque ces décisions s’accompagnent d’une souffrance importante, d’un conflit familial ou d’un encombrement qui compromet votre quotidien, un professionnel adapté peut vous aider à examiner ce qui se passe. Un psychologue ou un médecin peut soutenir l’aspect émotionnel ; d’autres interlocuteurs sont nécessaires pour les questions de droits et de propriété. Le but reste de retrouver des possibilités réelles, avec respect pour votre histoire et votre espace de vie.
-
-Sources :
-- [NHS, Grief after bereavement or loss](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)
-- [NIH, Social Wellness Toolkit](https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit)

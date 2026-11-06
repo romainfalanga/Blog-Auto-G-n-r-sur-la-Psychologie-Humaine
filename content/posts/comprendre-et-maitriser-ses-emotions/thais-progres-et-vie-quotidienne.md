@@ -34,6 +34,8 @@ Après la présentation, Samir lui demande si elle veut coordonner le relevé d�
 
 Les difficultés d’une phobie spécifique se comprennent aussi à partir des activités qu’elles gênent ou rendent très coûteuses. Les changements utiles ne se limitent pas à l’intensité de la peur au moment du contact avec la situation. Thaïs a pris part aux relevés, demandé un ajustement au travail, consulté les documents qu’elle cherchait et gardé une sortie avec Milo malgré un changement de place. Ces événements ne résument pas toute sa vie. Ils lui donnent des exemples pour parler de ce qu’elle a retrouvé et de ce qui reste difficile.
 
+## Comment cette difficulté se manifeste
+
 Dans cette scène, rester en salle basse lui permet de présenter le travail qu’elle a choisi de faire. Le projet aboutit et elle s’inquiète encore lorsqu’un visiteur lui parle de l’étage. Le fait que les deux soient vrais l’aide à ne plus juger toute sa journée d’après une seule proposition.
 
 ## Faire un point sans se fixer une épreuve
@@ -45,8 +47,3 @@ Au travail, une nouvelle mission peut être acceptée, refusée ou ajustée apr�
 ## Un tracé à discuter
 
 En quittant la mairie, Thaïs met une version de la carte de côté pour l’archiviste qui l’a reçue. Elle retrouve dans son sac le carnet où elle avait inscrit le détour du tram. À la page suivante, elle écrit ce qu’elle veut reprendre avec Mme Verdier. Puis elle choisit avec Inès une heure pour examiner le dossier du prochain canal. Elle lui demande de commencer par les noms que les habitants utilisent.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, Phobias](https://www.nhs.uk/mental-health/conditions/phobias/)

@@ -1,5 +1,5 @@
 ---
-title: "Élise : reconnaître la limite et choisir son geste"
+title: Reconnaître la limite et choisir son geste
 description: "La pluie impose le report de la rencontre. Élise distingue l’acceptation du renoncement et cherche ce qui reste à faire sans nier sa déception."
 slug: elise-accepter-agir
 date: 2026-10-11T09:00:00+02:00
@@ -13,6 +13,7 @@ contexte: "Au point météo prévu, les conditions ne conviennent pas à la renc
 editorial_pack: psychology-v10
 episode: 11
 ---
+
 La pluie frappe la vitre du bureau quand Élise appelle Mireille pour le point convenu. Les conditions annoncées pour le lendemain ne permettront pas le confort prévu au jardin. La décision était écrite : dans ce cas, la rencontre serait reportée. Élise connaît la règle et cherche pourtant encore une échappatoire. Elle imagine une bâche, un déplacement des sièges, un créneau plus court. Chaque idée rencontre les mêmes limites de lieu et de moyens. Elle se surprend à vouloir prouver qu’après la salle fermée et le financement refusé, quelque chose doit enfin se passer comme elle l’a préparé.
 
 Mireille lui rappelle le nombre de personnes à prévenir et la nécessité de décider assez tôt. Élise répond qu’elle sait, sur un ton plus sec qu’elle ne le voudrait. Elle marque un temps, puis dit qu’elle est déçue et qu’elle n’a pas envie de faire un nouvel appel d’annulation. La phrase décrit mieux ce qui se joue que les solutions de fortune qu’elle vient d’énumérer. Elle ne manque pas d’informations sur la météo. Elle manque d’envie de recevoir encore une limite. Elles confirment le report ensemble, puis répartissent les appels suivant les engagements pris.
@@ -76,7 +77,3 @@ Reconnaître une limite peut libérer de l’énergie pour les gestes qui ont en
 Distinguer les faits, les souhaits et les marges d’action aide à éviter deux impasses : continuer une négociation sans issue ou déclarer que rien ne peut plus être fait. Entre les deux, une action précise et une limite de temps peuvent suffire pour aujourd’hui.
 
 Élise reporte la rencontre et conserve les besoins recueillis. Elle ne trouve pas de conclusion heureuse à cette journée. Elle peut néanmoins la terminer, laisser les questions ouvertes à leur place et examiner plus tard une petite possibilité, sans lui confier la réparation de tous les contretemps précédents.
-
-Sources :
-- [Organisation mondiale de la santé, Faire ce qui compte en période de stress](https://www.who.int/publications/i/item/9789240003927)
-- [Centre for Clinical Interventions, Accueillir l’inconfort émotionnel](https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Tolerating-Distress)

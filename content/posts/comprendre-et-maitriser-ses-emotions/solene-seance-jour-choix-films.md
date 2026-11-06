@@ -30,7 +30,11 @@ Mireille, qui coordonne la tournée, voudrait retirer Trois minutes de pluie. Le
 
 ## Les périodes du suivi ont des rythmes différents
 
-Le trouble schizoaffectif peut évoluer par épisodes séparés par des périodes où les symptômes s’atténuent, avec des expériences différentes d’une personne à l’autre. Le manuel de l’OMS distingue plusieurs évolutions et décrit des périodes où des symptômes demeurent et d’autres où ils ne sont plus présents. Solène retrouve certaines activités qu’elle avait mises de côté. C’est ce qu’elle peut dire sur sa situation actuelle ; il reste utile de garder les points de suivi prévus avec elle.
+Le trouble schizoaffectif peut évoluer par épisodes séparés par des périodes où les symptômes s’atténuent, avec des expériences différentes d’une personne à l’autre. Le manuel de l’OMS distingue plusieurs évolutions et décrit des périodes où des symptômes demeurent et d’autres où ils ne sont plus présents.
+
+## Comment cette difficulté se manifeste
+
+Solène retrouve certaines activités qu’elle avait mises de côté. C’est ce qu’elle peut dire sur sa situation actuelle ; il reste utile de garder les points de suivi prévus avec elle.
 
 Elle a envie de défendre Trois minutes de pluie parce que sa place dans le programme lui paraît juste. Elle dispose d’un argument qui se discute : le contraste entre la fin du film de la chaise, très silencieuse, et la façon dont les deux personnes de l’abribus se parlent. Les soins lui laissent l’espace de retrouver des intérêts et de prendre des décisions ordinaires. Un désaccord sur le nombre de films se traite en regardant ce que la séance doit permettre.
 
@@ -43,9 +47,3 @@ Les orientations de l’OMS sur le rétablissement mettent les objectifs et pré
 ## Un essai réservé à quinze heures
 
 Mireille accepte de tester les trois films et de décider ensuite de leur ordre. Solène inscrit l’essai à quinze heures. Elle garde une demi-heure pour la lecture des sous-titres et demande à Célestin s’il peut amener trois personnes qui ne connaissent pas les films. Il peut inviter deux habituées de la salle ; pour la troisième, il faudra demander à l’accueil. Il se charge de mettre Mireille en copie quand il aura les réponses. Solène reprend le plan des Tilleuls. Cette fois, elle l’oriente comme si elle entrait par la porte et dessine la petite table près de la sortie.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, services de santé mentale communautaires : résumé des orientations](https://www.who.int/fr/publications/i/item/9789240025684)
-- [Service Public, médecine du travail pour un salarié du secteur privé](https://www.service-public.gouv.fr/particuliers/vosdroits/F2211)

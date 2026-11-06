@@ -1,5 +1,5 @@
 ---
-title: "Malik : le stress d’adaptation et les appuis concrets"
+title: Le stress d’adaptation et les appuis concrets
 date: 2026-09-14T09:00:00+00:00
 description: "Un changement de dépôt bouscule les repères de Malik. Il distingue apprentissage, fatigue et obstacles qui demandent une réponse extérieure."
 slug: "malik-adaptation-ressources-concretes"
@@ -98,6 +98,3 @@ Le stress d’adaptation peut apparaître lorsqu’un contexte exige de nouveaux
 Une information ciblée, un appui déjà acquis et un engagement temporairement ajusté peuvent rendre une transition plus praticable. Leur effet dépend des conditions extérieures. L’adaptation ne devrait pas devenir l’obligation individuelle de supporter des règles floues, une discrimination ou une charge excessive.
 
 Si la tension persiste, affecte le sommeil ou gêne durablement la vie quotidienne, un médecin ou un psychologue peut aider à examiner les besoins. Les interlocuteurs du travail peuvent aussi être sollicités sur les conditions concernées. L’accompagnement doit partir de la situation de Malik, sans déduire sa psychologie de son pays d’origine.
-
-Sources :
-- [John Berry, cadre sur immigration, acculturation et adaptation](https://doi.org/10.1111/j.1464-0597.1997.tb01087.x)

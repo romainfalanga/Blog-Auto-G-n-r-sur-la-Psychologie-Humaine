@@ -30,7 +30,11 @@ La psychiatre lui demande quelle difficulté il aimerait examiner en premier. Ma
 
 ## Comprendre les options au regard de la vie quotidienne
 
-Le suivi peut associer des aménagements, un accompagnement psychologique ciblé et, selon la situation, un médicament. Les recommandations du NICE, établies au Royaume-Uni, invitent à examiner l’effet des adaptations et les difficultés importantes qui restent chez l’adulte. Les décisions se discutent dans le cadre de soins qui suit la personne. L’objectif de Mathis donne une direction au rendez-vous. Il voudrait éviter de passer d’un engagement à un autre sans disposer du temps ni des repères dont il a besoin.
+Le suivi peut associer des aménagements, un accompagnement psychologique ciblé et, selon la situation, un médicament. Les recommandations du NICE, établies au Royaume-Uni, invitent à examiner l’effet des adaptations et les difficultés importantes qui restent chez l’adulte. Les décisions se discutent dans le cadre de soins qui suit la personne.
+
+## Comment cette difficulté se manifeste
+
+L’objectif de Mathis donne une direction au rendez-vous. Il voudrait éviter de passer d’un engagement à un autre sans disposer du temps ni des repères dont il a besoin.
 
 La psychiatre présente les questions à examiner avant une éventuelle prescription, dont l’état de santé, les traitements en cours et ce qui pourra être suivi. Si Mathis et elle choisissent cette voie, ils devront définir ensemble ce qu’ils espèrent améliorer et discuter des effets indésirables à signaler. Elle présente aussi la possibilité d’un accompagnement structuré centré sur le TDAH. Mathis demande à quoi ressemble une séance et ce qui se passerait s’il changeait d’avis.
 
@@ -43,8 +47,3 @@ Il peut préciser les informations qu’il veut garder dans le cadre clinique. S
 ## Un premier essai avec la psychiatre
 
 Avant de refermer l’enveloppe, Mathis regarde le dos du croquis. La psychiatre lui a laissé écrire à côté des situations le nom de la professionnelle vers laquelle elle l’oriente. Il enregistre le numéro sous ce nom en sortant. À l’atelier, un message de Zélie lui apprend que le jour de l’essai avec les bénévoles risque de changer. Mathis allait relire ses notes de suivi. Il les range avec les papiers du cabinet et lui demande de préciser ce qui pourrait bouger. Il a besoin de savoir à partir de quelle heure prévenir l’équipe.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG87, évaluation et accompagnement du TDAH](https://www.nice.org.uk/guidance/ng87/chapter/recommendations)

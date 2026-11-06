@@ -33,6 +33,8 @@ Blandine sort les deux originaux de la chemise et les pose près de la fiche. El
 
 Remettre un objet, en garder un autre et continuer de penser à la personne morte peuvent faire partie de la même décision. Blandine a choisi deux feuilles parce qu’elle comprend leur utilité pour le chœur et sait où elles seront. Elle garde Les Saules et le reste du dossier parce qu’elle veut pouvoir les lire à sa façon. Dans la vie d’une autre personne, conserver toutes les partitions ou s’en séparer peut avoir un autre sens. Le geste ne permet pas de qualifier son deuil.
 
+## Comment cette difficulté se manifeste
+
 Blandine sait qu’elle aura encore des jours où elle cherchera la voix de Jeanne longtemps après avoir fermé le dossier. Les effets de ces journées restent une question à discuter en consultation. Aujourd’hui, ce qui s’est réglé autour de la table est concret : deux originaux ont rejoint l’archive et les autres ont une place chez elle. Le chœur sait comment les retrouver. Blandine n’a pas à transformer ce choix en programme pour ses prochains jeudis.
 
 ## Laisser de la place aux prochains choix
@@ -44,8 +46,3 @@ Blandine garde son rendez-vous avec sa thérapeute et le moyen de la joindre plu
 ## L’élastique reprend sa place
 
 Au téléphone, Yannis raconte que les galettes sont toutes parties et que son fils a retourné la dernière avec la spatule. Blandine a envoyé les premières légendes à Esther jeudi. Elle accompagnera Yannis à la pépinière si elle finit les suivantes à temps. Chez elle, elle ouvre le dossier noir sur Les Saules. Elle ne parvient toujours pas à lire le dernier mot, caché par le pli. Elle laisse la feuille comme elle est et remet l’élastique. Dans l’entrée, elle sort de son sac la chemise jaune vide et y glisse les plans dont Esther attend les légendes.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS — Grief after bereavement or loss : vécu du deuil et soutien](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)

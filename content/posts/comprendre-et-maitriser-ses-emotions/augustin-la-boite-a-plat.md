@@ -32,7 +32,11 @@ Sur la table du cabinet, Mme Rivière lui montre un bac vide où le disque pourr
 
 ## Regarder ce que la boîte demande
 
-Un changement dans la disposition d’un objet peut modifier les gestes nécessaires pour l’utiliser. L’ergothérapeute examine les activités qui posent problème et les éléments de l’environnement qui les facilitent ou les rendent plus difficiles. C’est un des rôles décrits dans le guide de parcours de la HAS. Augustin a nommé l’action qu’il veut garder : lever le soleil devant le public. L’espace pour le saisir et le fait de devoir tenir la boîte en même temps sont des conditions qu’il peut examiner avec Mme Rivière. Le même adolescent peut être à l’aise dans une étape et avoir besoin d’un changement pour la suivante. Ici, la boîte change la difficulté sans que sa motivation ou ses idées aient changé.
+Un changement dans la disposition d’un objet peut modifier les gestes nécessaires pour l’utiliser. L’ergothérapeute examine les activités qui posent problème et les éléments de l’environnement qui les facilitent ou les rendent plus difficiles. C’est un des rôles décrits dans le guide de parcours de la HAS.
+
+## Comment cette difficulté se manifeste
+
+Augustin a nommé l’action qu’il veut garder : lever le soleil devant le public. L’espace pour le saisir et le fait de devoir tenir la boîte en même temps sont des conditions qu’il peut examiner avec Mme Rivière. Le même adolescent peut être à l’aise dans une étape et avoir besoin d’un changement pour la suivante. Ici, la boîte change la difficulté sans que sa motivation ou ses idées aient changé.
 
 ## Emporter une hypothèse au plateau
 
@@ -41,9 +45,3 @@ Un essai dans un cabinet ne prédit pas exactement ce qui se passera à l’atel
 ## Un rectangle sur le ticket
 
 Augustin dessine le bac sur le dos de son ticket de bus et l’envoie à Samira. « Je veux voir si j’arrive mieux à le prendre posé comme ça. On peut garder une table libre au début ? » Elle lui propose le bac large des grandes feuilles et lui demande de prévenir Maxence pour qu’ils vérifient leurs places. Il range le téléphone. Avec Mme Rivière, il revient à sa carte : sur le fond imprimé, il a pu écouter la réponse sur le quartier. Il a encore oublié un des mots de la légende. Il a rendez-vous avec Mme Besson pour lui dire les deux choses.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé, Guide parcours de santé de l’enfant avec troubles spécifiques du langage et des apprentissages (2017)](https://www.has-sante.fr/upload/docs/application/pdf/2018-01/guide_tsla_vf.pdf)
-- [Blank et al., recommandations cliniques internationales de l’EACD sur le trouble du développement de la coordination (2019)](https://onlinelibrary.wiley.com/doi/full/10.1111/dmcn.14132)

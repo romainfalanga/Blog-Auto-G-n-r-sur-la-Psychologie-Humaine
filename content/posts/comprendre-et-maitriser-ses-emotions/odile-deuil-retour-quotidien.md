@@ -1,5 +1,5 @@
 ---
-title: "Odile : le deuil et les retours au quotidien"
+title: Le deuil et les retours au quotidien
 date: 2026-11-03T08:10:00+00:00
 description: "Une réparation de lunettes, un souvenir, une conversation : Odile découvre des journées de deuil qui ne suivent pas une ligne droite."
 categories: ["Comprendre et maîtriser ses émotions"]
@@ -74,8 +74,3 @@ Une journée de deuil peut comporter des moments très contrastés. Une émotion
 Les possibilités de repos, de compagnie et de marge dépendent de votre situation. Un conseil utile doit en tenir compte. Une sortie peut être choisie, écourtée ou reportée ; elle n’a pas à démontrer un progrès. Lorsque vous le souhaitez, préciser une demande à un proche peut rendre l’échange plus juste que tenter de rester triste, courageux ou joyeux pour correspondre à ce que vous imaginez attendu.
 
 Si la souffrance vous inquiète, si les tâches essentielles deviennent durablement impossibles ou si vous manquez d’appuis pour traverser cette période, un médecin, un psychologue ou un professionnel de l’accompagnement peut vous aider à examiner la situation. Demander du soutien ne vous engage pas à suivre des étapes standardisées. Le cadre peut être adapté à votre perte, à votre santé et aux contraintes concrètes de votre quotidien.
-
-Sources :
-- [NHS, Grief after bereavement or loss](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)
-- [NIH, Social Wellness Toolkit](https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit)
-- [Stroebe et Schut, modèle du double processus du deuil](https://pubmed.ncbi.nlm.nih.gov/10848151/)

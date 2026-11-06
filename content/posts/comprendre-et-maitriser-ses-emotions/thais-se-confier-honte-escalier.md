@@ -32,7 +32,11 @@ Le message qu’elle tient ouvert est une photo de la borne. Elle n’a rien à 
 
 ## La peur principale et ce qu’on redoute ensuite
 
-Une phobie spécifique peut s’accompagner d’une montée de peur si vive qu’elle devient visible. À la crainte de la situation s’ajoutent parfois l’embarras ou la peur d’être commenté. Thaïs redoute la hauteur dans l’escalier. Elle éprouve aussi de la honte à l’idée que Milo pense qu’elle exagère ou se désintéresse de ce qu’il a préparé. Ces deux expériences ont des conséquences différentes. L’une l’arrête à l’entrée et l’autre lui donne envie d’inventer une raison pour partir.
+Une phobie spécifique peut s’accompagner d’une montée de peur si vive qu’elle devient visible. À la crainte de la situation s’ajoutent parfois l’embarras ou la peur d’être commenté.
+
+## Comment cette difficulté se manifeste
+
+Thaïs redoute la hauteur dans l’escalier. Elle éprouve aussi de la honte à l’idée que Milo pense qu’elle exagère ou se désintéresse de ce qu’il a préparé. Ces deux expériences ont des conséquences différentes. L’une l’arrête à l’entrée et l’autre lui donne envie d’inventer une raison pour partir.
 
 Une montée de panique peut survenir au contact de ce qui fait peur ou à son anticipation. Les circonstances, le déclencheur, les difficultés rencontrées ailleurs et leur durée donnent au clinicien des éléments pour comprendre l’ensemble. Chez Thaïs, le lieu redouté reste lié aux hauteurs, même quand le regard des autres complique la situation.
 
@@ -45,8 +49,3 @@ Thaïs peut aussi dire ce qui lui serait utile dans une prochaine sortie. Ici, e
 ## Une carte postale dans l’enveloppe
 
 Milo demande au bénévole s’il existe une reproduction de l’affiche à l’accueil. Thaïs le rejoint quand il lui fait signe. Ils trouvent le nom du canal sur une carte postale et un deuxième document avec une autre orthographe. Ils glissent les deux références dans l’enveloppe. En sortant, Thaïs dit à Milo qu’il peut lui demander directement si elle change d’avis sur une sortie. Elle lui demande de garder pour lui la conversation sur la peur.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, Phobias](https://www.nhs.uk/mental-health/conditions/phobias/)

@@ -44,8 +44,3 @@ Lison et Nora peuvent garder trois lignes explicites : « besoin total », « st
 ## Deux mots à la place du zéro
 
 Sur une feuille propre, Lison écrit « ocre », puis « besoin total : 260 cm ». Elle garde le formulaire barré au dos, parce que les deux mètres dessinés lui serviront encore. La quantité d’ardoise, déjà établie par Nora sur son plan, sera suivie sur une ligne séparée. Quand elles rangent, Nora désigne l’espace du bas : « On pourrait mettre un zéro provisoire pour la réserve. » Lison pense à la fois où elle a repris une fiche sans pouvoir se rappeler quels zéros venaient d’une mesure. Elle écrit « à mesurer » en toutes lettres. Un zéro dirait déjà quelque chose sur la mezzanine.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Mon Parcours Handicap — Compenser votre handicap en formation](https://www.monparcourshandicap.gouv.fr/formation-professionnelle/compenser-votre-handicap-en-formation)

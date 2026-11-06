@@ -503,6 +503,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "damien": {
+    "id": "damien",
+    "name": "Damien",
+    "keywords": [
+      "Trouble explosif intermittent",
+      "Accès d’agression impulsive",
+      "Signaux de montée de tension",
+      "Sécurité et limites des proches",
+      "Responsabilité après une agression"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "diane": {
     "id": "diane",
     "name": "Diane",
@@ -512,6 +524,18 @@
       "Honte après une crise",
       "Peur de la rechute",
       "Reprise du travail"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "élvire": {
+    "id": "elvire",
+    "name": "Élvire",
+    "keywords": [
+      "Insomnie chronique",
+      "Réveils précoces",
+      "Fatigue et difficultés de concentration",
+      "Appréhension de ne pas dormir",
+      "Thérapie cognitivo-comportementale de l’insomnie"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -548,6 +572,18 @@
       "Difficulté à maîtriser le jeu",
       "Honte et dissimulation",
       "Retentissement financier et relationnel"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "gaëlle": {
+    "id": "gaelle",
+    "name": "Gaëlle",
+    "keywords": [
+      "Trouble neurologique fonctionnel",
+      "Faiblesse motrice involontaire",
+      "Difficultés de marche",
+      "Signes cliniques positifs",
+      "Rééducation et aménagements"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -623,6 +659,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "joris": {
+    "id": "joris",
+    "name": "Joris",
+    "keywords": [
+      "Trouble dépersonnalisation-déréalisation",
+      "Détachement de soi",
+      "Étrangeté du monde familier",
+      "Épreuve du réel préservée",
+      "Coût invisible au quotidien"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "jules": {
     "id": "jules",
     "name": "Jules",
@@ -632,6 +680,30 @@
       "Anxiété d’anticipation",
       "Évitement des situations",
       "Reprise progressive d’activités"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "laure": {
+    "id": "laure",
+    "name": "Laure",
+    "keywords": [
+      "Trouble de détresse physique",
+      "Symptômes corporels persistants",
+      "Attention aux sensations",
+      "Retentissement au quotidien",
+      "Suivi coordonné"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "lila": {
+    "id": "lila",
+    "name": "Lila",
+    "keywords": [
+      "Dépression du post-partum",
+      "Perte d’intérêt et de plaisir",
+      "Sommeil et fatigue",
+      "Culpabilité et demande d’aide",
+      "Reprise à horaires choisis"
     ],
     "source": "repères des parcours cliniques de fiction"
   },

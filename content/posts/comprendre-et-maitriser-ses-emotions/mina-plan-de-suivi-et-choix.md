@@ -33,6 +33,8 @@ Elles retrouvent dans le dossier le plan qu’elles ont préparé avec l’équi
 
 Un suivi psychologique structuré peut s’appuyer sur des objectifs que la personne et l’équipe définissent et réexaminent ensemble. Le NICE recommande de préciser les rôles des professionnels, de convenir d’objectifs à court et à plus long terme et de préparer l’accès aux soins en cas de crise. Les priorités peuvent concerner les relations, les activités ou le travail. Mina peut demander à sa thérapeute comment elles examineront ce qui l’aide et à quel moment elles feront le point.
 
+## Comment cette difficulté se manifeste
+
 La demande de Mina porte sur des situations qu’elle connaît. Elle veut pouvoir demander à quelqu’un quand elle aura une réponse et garder ses propres activités si l’autre n’est pas disponible. Elle peut aussi dire que la question d’une livraison relève de l’organisation du festival. Le suivi peut l’aider à démêler ce qu’elle veut travailler et ce que l’équipe du festival doit décider.
 
 ## Un contact qu’elle sait retrouver
@@ -44,8 +46,3 @@ Alice peut participer si Mina le souhaite et si cela lui convient. Elles peuvent
 ## La ligne qu’elle copie à part
 
 Mina recopie la ligne qui indique le service à joindre le soir et la glisse dans l’étui de son téléphone. Elle garde le reste de la feuille dans son dossier. En rentrant, elle demande à Alice si elle veut en parler quelques minutes avant la prochaine répétition. Alice lui propose de l’appeler le lendemain. Mina remet ensuite le ticket du festival sur le réfrigérateur. Elle pourra regarder les deux horaires quand elle le voudra, et le rendez-vous suivant reste inscrit dans l’agenda.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG78, accompagnement des personnes présentant un profil borderline](https://www.nice.org.uk/guidance/cg78/chapter/Recommendations)

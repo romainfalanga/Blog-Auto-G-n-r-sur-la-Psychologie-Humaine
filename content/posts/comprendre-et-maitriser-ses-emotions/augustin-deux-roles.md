@@ -32,7 +32,11 @@ Samira demande qui souhaite rester sur les essais du concierge. En regardant le 
 
 ## Les rôles sur le papier et dans la salle
 
-Deux rôles peuvent demander des gestes et une organisation très différents, même quand leur durée paraît facile à comparer. Chez certaines personnes qui ont un trouble de la coordination, enchaîner des mouvements dans une activité reste moins aisé que réaliser ces gestes séparément. Le concierge doit repérer ses clés, les changer et poursuivre un dialogue. Le voisin a moins de texte, mais son entrée repose sur le moment où le soleil devient visible. Augustin ne sait pas encore combien de temps il lui faudrait dans chaque rôle avec de vrais accessoires. Il sait déjà que les deux lui plaisent pour des raisons différentes : le premier pour le monologue, le second pour la possibilité de faire exister un silence autrement.
+Deux rôles peuvent demander des gestes et une organisation très différents, même quand leur durée paraît facile à comparer. Chez certaines personnes qui ont un trouble de la coordination, enchaîner des mouvements dans une activité reste moins aisé que réaliser ces gestes séparément. Le concierge doit repérer ses clés, les changer et poursuivre un dialogue. Le voisin a moins de texte, mais son entrée repose sur le moment où le soleil devient visible.
+
+## Comment cette difficulté se manifeste
+
+Augustin ne sait pas encore combien de temps il lui faudrait dans chaque rôle avec de vrais accessoires. Il sait déjà que les deux lui plaisent pour des raisons différentes : le premier pour le monologue, le second pour la possibilité de faire exister un silence autrement.
 
 ## Donner une date à l’essai
 
@@ -41,8 +45,3 @@ Pour que le groupe puisse préparer ses pages, Samira peut convenir d’une date
 ## Un rond au crayon
 
 Samira note une lecture en mouvement et un filage court avant la distribution définitive. Elle propose à Maya et Augustin d’apprendre d’abord les deux passages qu’ils ont essayés ; le reste attendra la décision. Augustin entoure la réplique du voisin. Il s’applique moins que pour le bord du soleil et le rond traverse deux lettres. À la sortie, Maxence refait le bruit du concierge en secouant sa trousse. Augustin dit qu’il préfère celui de la troisième boîte. Maxence lui répond qu’il compte bien en essayer une quatrième.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Blank et al., recommandations cliniques internationales de l’EACD sur le trouble du développement de la coordination (2019)](https://onlinelibrary.wiley.com/doi/full/10.1111/dmcn.14132)

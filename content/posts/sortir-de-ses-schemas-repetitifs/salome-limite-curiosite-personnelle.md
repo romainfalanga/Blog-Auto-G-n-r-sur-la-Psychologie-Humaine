@@ -92,5 +92,3 @@ Poser une limite à la curiosité permet de distinguer l’intérêt de l’autr
 Nommer le sujet fermé, répéter sans ajouter de dossier et prévoir une suite praticable peuvent soutenir cette démarche. Vous pouvez être aimable et garder une information privée. Une confidence publique reste délimitée ; elle ne transforme pas votre vie en sujet disponible dans toutes les relations et à tous les moments.
 
 Si les questions deviennent répétées, humiliantes ou difficiles à interrompre, une psychologue ou un autre professionnel peut aider à examiner les effets et les appuis possibles. Un relais dans le lieu concerné peut aussi être nécessaire. Vous n’avez pas à réussir une conversation parfaite pour que votre limite mérite d’être respectée.
-
-Sources : [Petronio, gestion des frontières autour des informations privées, 2002](https://www.jstor.org/stable/jj.18255126).

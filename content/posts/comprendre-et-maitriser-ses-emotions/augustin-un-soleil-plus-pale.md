@@ -32,7 +32,11 @@ Il demande à Nora de se mettre au dernier rang pendant qu’il essaye le disque
 
 ## Un changement matériel suffit à relancer les questions
 
-Remplacer un objet peut modifier à la fois son effet et les gestes nécessaires pour le manier. Une différence de rigidité ou de prise peut compter pour quelqu’un qui a des difficultés de coordination. La recommandation de l’EACD de prendre en compte le contexte vaut aussi quand la tâche semble porter le même nom : lever deux disques de même taille peut demander deux manières de les saisir. Le pli du carton serait un problème pour toute la troupe ; il ne vient pas du trouble d’Augustin. Pour lui, il réveille la crainte d’avoir à passer la soirée sur des gestes longs alors que les répétitions avaient enfin fixé sa place et ses repères.
+Remplacer un objet peut modifier à la fois son effet et les gestes nécessaires pour le manier. Une différence de rigidité ou de prise peut compter pour quelqu’un qui a des difficultés de coordination. La recommandation de l’EACD de prendre en compte le contexte vaut aussi quand la tâche semble porter le même nom : lever deux disques de même taille peut demander deux manières de les saisir.
+
+## Comment cette difficulté se manifeste
+
+Le pli du carton serait un problème pour toute la troupe ; il ne vient pas du trouble d’Augustin. Pour lui, il réveille la crainte d’avoir à passer la soirée sur des gestes longs alors que les répétitions avaient enfin fixé sa place et ses repères.
 
 ## Vérifier l’essentiel avant de modifier le reste
 
@@ -41,8 +45,3 @@ La troupe peut vérifier si la couleur pâle se distingue, puis si Augustin peut
 ## Le soleil pâle reste sur la table
 
 Nora dit qu’au dernier rang, ça ressemble au soleil d’un matin où il fait froid. Augustin imaginait un matin d’août ; il essaye sa réplique dans ce matin froid. Elle marche aussi. Il annonce qu’il jouera avec le disque pâle et montre à Maya comment il le soulèvera. Ils gardent le relais et l’ordre du bruitage. Quand Samira apporte la boîte de rangement, Augustin lui demande de laisser le disque neuf à plat pour demain. Il range le doré ailleurs, avec un papier entre le pli et la trace de pouce.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Blank et al., recommandations cliniques internationales de l’EACD sur le trouble du développement de la coordination (2019)](https://onlinelibrary.wiley.com/doi/full/10.1111/dmcn.14132)

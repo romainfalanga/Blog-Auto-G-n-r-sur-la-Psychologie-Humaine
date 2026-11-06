@@ -33,7 +33,9 @@ Il y a une place sur le calendrier du samedi suivant, à l’ouverture. Nadia so
 
 Une décision est plus facile à examiner quand ses différentes conséquences peuvent être présentées l’une après l’autre. Armand a besoin de distinguer trois originaux qu’il souhaite remettre, la reproduction qu’il autorise à montrer et les deux originaux qui resteront chez lui. Il peut voir chaque catégorie sur la table, entendre ce que Nadia entend faire des cartes et poser des questions. Sa demande de précision sur le pont bas aide la conversation à repartir sur une base commune.
 
-Le NICE encourage à soutenir la parole de la personne et, quand cela lui est utile, à présenter l’information sous une forme adaptée. Ces recommandations concernent les soins et l’accompagnement. Ici, montrer les papiers et lire une liste sont des aménagements concrets dans un échange avec la bibliothèque. Si un doute demeure sur la décision, Nadia peut laisser la remise en attente et proposer d’en reparler dans des conditions qu’Armand juge plus favorables.
+## Une hésitation entre l’original et sa reproduction
+
+Armand sait qu’il est venu laisser trois cartes. Quand Nadia parle du pont bas en cherchant la fiche de la reproduction, il revient à la liste et demande de quel papier elle parle. Dès qu’il voit la copie seule au milieu de la table, il reconnaît le bord recadré. Il peut alors distinguer ce qu’il accepte de montrer et ce qu’il souhaite laisser à la bibliothèque.
 
 ## Donner les cartes et choisir sa place
 
@@ -41,12 +43,8 @@ Les conditions du don se discutent avec la bibliothèque. Nadia peut dire quels 
 
 La présentation publique est une autre décision. Armand choisit la carte qu’il veut ouvrir et la personne à qui passer la parole. Nadia peut préparer la salle pour ce format et annoncer la suite si Armand préfère rester simple visiteur. Jeanne peut, si elle est libre et s’il le souhaite, venir écouter. Le projet peut continuer à avoir une place dans la vie d’Armand même quand les conditions de sa participation changent.
 
+Le NICE encourage à soutenir la parole de la personne et à présenter les informations sous une forme adaptée quand c’est utile. Ces recommandations concernent les soins et l’accompagnement. Au rendez-vous avec la bibliothèque, Nadia peut montrer les cartes une à une et relire la liste avec Armand. Si une décision reste incertaine, ils peuvent laisser la remise en attente.
+
 ## Un exemplaire dans le carton vide
 
 Armand confirme le don des trois originaux. Nadia reprend avec lui la liste, une carte après l’autre, puis lui remet son exemplaire. Ils ajoutent à l’affiche le samedi à dix heures. Nadia gardera près d’elle la légende et une chaise restera libre au bord de la table pour qu’Armand puisse s’y asseoir quand il arrive. Il repart avec le carton gris vide, sauf la feuille. Dans la cour, il se rend compte qu’il le tient encore à deux mains. Il le passe sous son bras et se retourne pour regarder où l’affiche sera posée.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG97, évaluation, soins et soutien des personnes vivant avec une démence et de leurs proches](https://www.nice.org.uk/guidance/ng97/resources/dementia-assessment-managementand-support-for-people-living-with-dementia-and-their-carers-pdf-1837760199109)
-- [HAS, parcours de soins du trouble neurocognitif associé à la maladie d’Alzheimer](https://www.has-sante.fr/jcms/c_2906096/fr/patients-presentant-un-trouble-neurocognitif-associe-a-la-maladie-d-alzheimer-ou-a-une-maladie-apparentee-guide-parcours-de-soins)

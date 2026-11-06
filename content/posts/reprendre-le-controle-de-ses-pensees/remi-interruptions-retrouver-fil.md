@@ -90,5 +90,3 @@ Les interruptions au travail ne disent pas seulement quelque chose de l'attentio
 Vous pouvez partir d'une situation limitée : quelle information manque au moment de reprendre, et quel support accessible peut la conserver ? Un essai utile ne demande ni concentration sans faille ni système compliqué. Il doit pouvoir être ajusté, abandonné ou discuté avec les autres si les conditions de travail le rendent impraticable.
 
 Si les difficultés d'attention persistent, touchent plusieurs domaines de votre vie ou vous mettent en danger, un professionnel de santé peut vous aider à les examiner sans conclusion hâtive. Au travail, les interlocuteurs compétents peuvent aussi discuter des aménagements et de la charge réelle. Demander cet appui ne retire rien aux compétences que vous utilisez déjà.
-
-Sources : [Rubinstein, Meyer et Evans, contrôle des changements de tâche](https://doi.org/10.1037/0096-1523.27.4.763) ; [Mark, Gudith et Klocke, coût du travail interrompu](https://www.ics.uci.edu/~gmark/chi08-mark.pdf).

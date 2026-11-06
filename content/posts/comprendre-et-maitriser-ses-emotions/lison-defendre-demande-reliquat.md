@@ -45,8 +45,3 @@ Lison peut envoyer la référence du devis accepté et une photo centrée sur ce
 ## Une chute pour le premier essayage
 
 Lison photographie les gabarits et la règle, puis joint le numéro du devis. Avant l’essayage, Farah confirme par écrit un échange pour lundi : reprise du coupon intact et livraison de 185 cm d’un seul tenant, dans le lot et la largeur demandés. Nora approuve le retour. Elles pourront vérifier la coupe générale sur les toiles d’essai aujourd’hui ; les vrais revers attendront. Lison inscrit « échange lundi » sur la fiche et range la photo. Puis elle embarque une chute d’ocre à l’essayage. Une comédienne voudrait voir où apparaîtra la couleur quand elle lève le bras. Ça, elles peuvent déjà le regarder.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Staller et al. — Neurodivergent Conditions Critically Limit Societal Participation: The Case of Dyscalculia in Adults (2025)](https://journals.sagepub.com/doi/10.1177/27546330251406911)

@@ -11,6 +11,9 @@ personnage: "Nadia"
 sujet: "journaling de pensées"
 contexte: "dans l'intimité et la sexualité"
 draft: false
+editorial_sources:
+- https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/
+- https://pubmed.ncbi.nlm.nih.gov/3372832/
 ---
 
 Avant d’éteindre la lampe, Antoine lui a demandé si elle voulait se rapprocher. Nadia a déplacé son oreiller, contente de le sentir à côté d’elle. Elle aurait volontiers gardé sa main dans la sienne un moment. En même temps, elle s’est demandé ce qu’Antoine attendait ensuite et s’il allait être déçu de sa réponse. Il lui a fallu assez longtemps pour y penser que la conversation s’est arrêtée. Antoine lui a dit bonne nuit, puis il s’est endormi.
@@ -64,5 +67,3 @@ Elle referme le carnet. Dans le noir elle pense de nouveau à l’offre de la sc
 Le carnet aide Nadia à nommer certaines pressions. Il reste facultatif : elle peut aussi s'accorder du repos, poser une limite ou parler de ce qu'elle souhaite lorsqu'elle se sent en sécurité.
 
 Si vous constatez que ces blocages mentaux dans l'intimité génèrent une souffrance persistante ou impactent profondément votre équilibre personnel et relationnel, vous pouvez solliciter l'accompagnement d'un professionnel de santé spécialisé, tel qu'un psychologue ou un sexothérapeute. Un soutien extérieur aide à naviguer à travers ces schémas complexes et à retrouver un rapport serein à votre sexualité et à votre intériorité.
-
-Sources : [NHS, relevé de pensées](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/) ; [Pennebaker et al., étude d’écriture expressive](https://pubmed.ncbi.nlm.nih.gov/3372832/).

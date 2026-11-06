@@ -11,6 +11,9 @@ personnage: "Bernard"
 sujet: "isolement social/aliénation"
 contexte: "en amitié"
 draft: false
+editorial_sources:
+- https://www.nationalacademies.org/read/25663/chapter/2
+- https://pubmed.ncbi.nlm.nih.gov/25910392/
 ---
 
 À la radio, la chanson est couverte un instant par un appel depuis la route. Bernard lève la tête ; ce sont des gens du hameau qui passent près de l’atelier. Il connaît leurs voix et tarde à aller les rejoindre. Il a déjà préparé la commode d’Éric pour le transport. Personne ne lui a demandé de s’occuper seul du reste de la journée.
@@ -95,5 +98,3 @@ Bernard remarque que certaines habitudes ont changé depuis la perte d’Hélèn
 Si vous vous reconnaissez dans l'histoire de Bernard, gardez à l'esprit que de petites actions ciblées peuvent modifier la dynamique des relations. Les techniques proposées, comme inviter par petits ponts, associer objets et phrases, ou s'entraîner à de petites vulnérabilités, sont des outils pratiques qui respectent la pudeur tout en ouvrant des voies de rencontre.
 
 Si l'isolement perdure, si la douleur devient trop lourde ou interfère avec le quotidien, il est recommandé de consulter un professionnel de la santé mentale. Un psychologue ou un thérapeute peut accompagner la mise en pratique de ces techniques, explorer les causes profondes et offrir un cadre sécurisé pour renouer avec les autres. Il n'y a pas d'urgence à tout transformer immédiatement. L'important est de commencer, à l'image de Bernard qui remet une commode entre les mains de son fils et pose ainsi la première pierre d'une nouvelle conversation.
-
-Sources : [National Academies, isolement social et solitude](https://www.nationalacademies.org/read/25663/chapter/2) ; [Holt-Lunstad et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25910392/).

@@ -56,6 +56,7 @@ Priya peut, si elle le souhaite, demander une précision par un canal officiel. 
 Priya relit la phrase avec la page précédente sous les yeux. Le contrôle décrit est une mesure commune. Un point reste obscur : elle ne sait pas si le logiciel déjà installé suffit. Elle classe le document à traiter et glisse un marque-page au passage concerné.
 
 Avant sa prochaine consultation, elle laisse un message à Marc pour savoir s’il accepterait de revenir discuter de la répartition des décisions. En sortant, elle vérifie la poignée du cabinet une fois, puis revient dessus. La lettre est dans le classeur. Elle se dit qu’elle posera la question lors du prochain créneau administratif.
+
 ---
 
 Une vigilance qui a eu sa raison d’être peut revenir dans d’autres circonstances. Vérifier une demande précise ou solliciter un avis indépendant permet de tenir compte de la situation présente. Un psychologue peut aider si cette vigilance devient durablement éprouvante.

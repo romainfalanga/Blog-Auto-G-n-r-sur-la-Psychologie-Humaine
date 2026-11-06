@@ -33,7 +33,11 @@ Armand pense d’abord qu’il faut deux boîtes. Il essaie une corbeille pour l
 
 Dans la maladie d’Alzheimer, une adaptation peut soutenir une activité précise et devoir être modifiée avec le temps. Le coin du buffet a aidé Armand à reprendre la chemise du pont bas. À mesure que des papiers s’y sont ajoutés, le même repère est devenu moins utile pour son courrier. Ce constat permet de chercher avec lui ce qui se perd dans le rangement : une feuille cachée, une différence peu visible ou l’étape où il faut s’en occuper.
 
-La Haute Autorité de santé recommande d’évaluer régulièrement l’acceptabilité et l’utilité des interventions avec la personne et ceux qui l’accompagnent. Le NICE envisage notamment l’ergothérapie pour soutenir le fonctionnement quotidien chez certaines personnes vivant avec une démence légère à modérée. Dans la scène, Irène regarde l’usage que fait Armand de son buffet. L’objectif de l’essai est d’alléger deux tâches pour lui, et son avis compte quand ils le revoient.
+La Haute Autorité de santé recommande d’évaluer régulièrement l’acceptabilité et l’utilité des interventions avec la personne et ceux qui l’accompagnent. Le NICE envisage notamment l’ergothérapie pour soutenir le fonctionnement quotidien chez certaines personnes vivant avec une démence légère à modérée.
+
+## Un courrier à reprendre se perd parmi les autres papiers
+
+Armand saisit sans hésiter la chemise qui dépasse du buffet. Pour retrouver un courrier reçu récemment, il doit sortir plusieurs feuilles qui se sont empilées dessus. Il se rappelle cette fois où se trouvent les horaires de la bibliothèque et peut les reprendre lui-même. Les deux situations montrent ce qui change selon la manière dont chaque papier reste visible ou se mêle aux autres.
 
 ## Essayer deux destinations bien visibles
 
@@ -44,9 +48,3 @@ Le rangement de ses cartes suit une autre logique. L’original du pont bas deme
 ## Une place pour l’enveloppe
 
 Irène écrit avec Armand le jour de la prochaine visite et lui laisse le contact du service. Armand place la corbeille du courrier où il peut la voir depuis la table. Il reprend ensuite la chemise du foyer et appelle Nadia. Elle lui propose un jeudi dans deux semaines pour regarder les quatre cartes avant la remise. Ils gardent l’annonce sans date publique jusque-là. Il note « dix heures, porte verte » sur le billet. La corbeille vide lui plaît. Il y dépose l’enveloppe à laquelle il doit encore répondre.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, parcours de soins du trouble neurocognitif associé à la maladie d’Alzheimer](https://www.has-sante.fr/jcms/c_2906096/fr/patients-presentant-un-trouble-neurocognitif-associe-a-la-maladie-d-alzheimer-ou-a-une-maladie-apparentee-guide-parcours-de-soins)
-- [NICE NG97, évaluation, soins et soutien des personnes vivant avec une démence et de leurs proches](https://www.nice.org.uk/guidance/ng97/resources/dementia-assessment-managementand-support-for-people-living-with-dementia-and-their-carers-pdf-1837760199109)

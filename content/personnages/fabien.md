@@ -21,7 +21,7 @@ draft: false
     <p class="parcours-resume">Dans le parc, Fabien ralentit assez pour regarder son téléphone. Une notification, mais rien de Véronique. Il a laissé Marine et Lucas chez leur mère et n’attend aucune réponse urgente.</p>
     <div class="parcours-evolution">
       <span class="evolution-label">Évolution</span>
-      <p>Le temps passé ensemble peut compter pour Fabien sans déterminer sa prochaine décision. Il peut revenir à la question plus tard et garder les échanges nécessaires à l’organisation de la famille.</p>
+      <p>Fabien efface son brouillon et garde la conversation ouverte pour organiser les vacances avec Véronique. Il propose aussi à Marine d’aller voir un film.</p>
     </div>
     <a href="/posts/reprendre-le-controle-de-ses-pensees/biais-cout-irrecoverable-rupture/" class="parcours-link">Lire l'article complet &rarr;</a>
   </div>

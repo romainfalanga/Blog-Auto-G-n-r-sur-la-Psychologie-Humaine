@@ -33,6 +33,8 @@ Mylène dit qu’elle peut écrire pour elle. Irène glisse le feutre contre sa 
 
 Des mouvements répétés peuvent coexister avec l’attention portée à une activité et interrompre une partie de ce qu’on essaie de faire. Irène suit l’idée des pages en relief ; pendant quelques instants, il lui est difficile de prendre le feutre et de suivre l’ordre des consignes. Son équipe pédiatrique connaît depuis plusieurs années son trouble des mouvements stéréotypés. Les gestes reviennent sous une forme familière et, dans certaines situations, interrompent assez souvent ce qu’elle fait pour compliquer sa journée.
 
+## Comment cette difficulté se manifeste
+
 Il existe aussi des mouvements répétés qui ne posent pas de problème. Pour comprendre les difficultés d’une personne, les professionnels regardent l’histoire de ces mouvements et leurs effets dans la vie ordinaire. Le mouvement que voit Mylène ne lui apprend pas ce qu’Irène a entendu ni ce qu’elle veut fabriquer.
 
 ## Retrouver l’information qui manque
@@ -44,8 +46,3 @@ Le croquis, lui, dit autre chose : il montre que l’histoire pourrait offrir de
 ## Un mardi écrit de sa main
 
 « Laquelle, pour les pages ? » Irène montre les deux colonnes avec le capuchon. Mylène souligne « mardi » du doigt et précise qu’on peut commencer par un seul essai. Irène demande à Ilyès s’il veut apporter une idée pour la partie basse de la rue. « Un canal avec des fenêtres au ras de l’eau ? » Il sourit avant même d’avoir fini. Elle écrit son prénom, lui passe le feutre et récupère le plan. Elle le replie pour qu’il entre sans se corner dans sa trousse. Mardi, elle veut dessiner la première page avec ses propres feutres.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Great Ormond Street Hospital for Children (NHS) — Stereotypies: repetitive movements or sounds (2026)](https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/stereotypies-repetitive-movements-or-sounds/)

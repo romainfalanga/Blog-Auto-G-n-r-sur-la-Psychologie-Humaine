@@ -31,7 +31,11 @@ Ils voient une bénévole passer avec trois chaises empilées. Elle leur demande
 
 ## Réparer les effets d’une réponse impulsive
 
-Une réparation après un conflit peut commencer par une parole ou un geste précis que la personne souhaite reconnaître. Elle peut aussi laisser un désaccord ouvert. Dans la scène, Mina et Rachid nomment ce qu’ils ont fait dans la cour. Ils gardent chacun leur avis sur la manière dont la livraison aurait dû être préparée. Le trouble de Mina fait partie de ce dont elle peut parler au suivi. Les documents et les décisions de travail gardent leur place dans l’échange.
+Une réparation après un conflit peut commencer par une parole ou un geste précis que la personne souhaite reconnaître. Elle peut aussi laisser un désaccord ouvert. Dans la scène, Mina et Rachid nomment ce qu’ils ont fait dans la cour. Ils gardent chacun leur avis sur la manière dont la livraison aurait dû être préparée.
+
+## Comment cette difficulté se manifeste
+
+Le trouble de Mina fait partie de ce dont elle peut parler au suivi. Les documents et les décisions de travail gardent leur place dans l’échange.
 
 Mina peut dire ce qu’elle voudrait changer la prochaine fois, comme reprendre les fiches à part avant d’en parler devant les bénévoles. Rachid peut préciser qu’il a besoin d’une confirmation en amont. Leurs demandes peuvent être entendues même s’ils gardent encore des questions sur l’autre.
 
@@ -44,8 +48,3 @@ Le suivi de Mina peut l’aider à reprendre ce qu’elle ressent après l’éc
 ## Les deux fiches dans la même pochette
 
 Mina prend une photo de chacune des fiches pour les transmettre. Rachid lui propose d’envoyer le message lui-même parce qu’il doit déjà écrire à la coordination. Elle lui demande de lui montrer la phrase sur le lieu de dépôt avant l’envoi. Ils la reprennent ensemble. La question de la confirmation en amont reste pour le prochain planning. Avant de rentrer, Mina plie les deux feuilles dans la même pochette et la laisse au local. Rachid lui demande ensuite où il pourra retrouver les tables demain.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG78, accompagnement des personnes présentant un profil borderline](https://www.nice.org.uk/guidance/cg78/chapter/Recommendations)

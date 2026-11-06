@@ -100,5 +100,3 @@ Les capacités fluctuantes rendent certains engagements plus complexes, sans eff
 Un rôle plus petit peut avoir une utilité entière. Un relais peut soutenir la continuité sans retirer l'autonomie. La souplesse devient concrète lorsqu'elle porte sur des tâches, des dates et des moyens discutés, au lieu de rester une promesse abstraite de compréhension.
 
 Si une activité devient difficile avec votre maladie, les professionnels qui vous suivent peuvent aider à en examiner l'adaptation. Vous pouvez aussi discuter des conditions avec le groupe concerné. Il n'est pas nécessaire d'attendre de ne plus pouvoir tenir un engagement pour demander cette révision.
-
-Sources : [Assurance maladie, activités et appuis avec une polyarthrite](https://www.ameli.fr/assure/sante/themes/polyarthrite-rhumatoide/vivre-polyarthrite-rhumatoide) ; [HAS, activité physique et polyarthrite, précautions individualisées](https://www.has-sante.fr/jcms/p_3565615/fr/l-activite-physique-pour-votre-sante-polyarthrite-rhumatoide).

@@ -33,6 +33,8 @@ Une psychiatre a diagnostiqué un trouble de la personnalité chez Mina avant ce
 
 Un trouble de la personnalité touche durablement la façon dont une personne se comprend ou fonctionne dans ses relations. Dans la CIM-11, le code 6D10 désigne le trouble de la personnalité. Le profil borderline, codé 6D11.5, est un qualificatif qui peut préciser le tableau clinique. Il concerne notamment une instabilité qui touche les liens, l’image de soi et les émotions, et des conduites impulsives. La forme et les effets de ces difficultés varient selon la personne. Les professionnels examinent l’évolution, les difficultés rencontrées dans différents contextes et leurs effets dans la vie. Ils construisent cette évaluation à partir d’une histoire plus large que l’échange montré ici.
 
+## Comment cette difficulté se manifeste
+
 Mina a parlé avec sa psychiatre de difficultés présentes depuis plusieurs années et dans des situations différentes. Au suivi, elle peut reprendre ce qu’elle a éprouvé devant la papeterie et raconter la suite. La force d’une réaction mérite d’être entendue, et une question adressée à Alice peut lui apporter l’information qui lui manque.
 
 ## Une question qui aide à choisir quoi faire
@@ -44,8 +46,3 @@ Un suivi peut s’intéresser à ce qui rend l’attente pénible et aux appuis 
 ## Un coin de papier dans la poche
 
 Mina demande à Alice si elle pourra passer après la fermeture. Alice répond qu’elle sortira de la répétition à dix-huit heures trente et qu’elle a encore le temps de boire quelque chose. Mina entre regarder les papiers. La vendeuse lui donne un coin de feuille verte et un autre couleur de rouille. Quand Alice arrive au café, Mina les pose entre les deux tasses. Alice prend le vert, le retourne et dit qu’elle aime aussi la couleur qu’on voit au dos. Mina la regarde enfin sans penser à l’heure.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG78, accompagnement des personnes présentant un profil borderline](https://www.nice.org.uk/guidance/cg78/chapter/Recommendations)

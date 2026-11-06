@@ -1,5 +1,5 @@
 ---
-title: "Samira : demander une aide sans devoir se justifier"
+title: Demander une aide sans devoir se justifier
 date: 2026-09-07T08:00:00+00:00
 description: "Samira prépare un rendez-vous pour faire vérifier ses droits. Elle affronte des obstacles réels sans confondre aide sociale et jugement moral."
 slug: "samira-demander-aides-droits"
@@ -100,7 +100,3 @@ Demander une aide à laquelle on peut avoir droit ne consiste pas à solliciter 
 Des questions préparées, un obstacle rendu précis et une prochaine étape écrite peuvent alléger un parcours. Leur portée reste limitée par le fonctionnement des services et les ressources disponibles. Une démarche interrompue mérite d’être comprise avant d’être jugée, puis éventuellement reprise avec un appui adapté.
 
 Un travailleur social peut aider à explorer l’accès aux dispositifs sans garantir leur attribution. Si les démarches suscitent une détresse durable, un médecin ou un psychologue peut soutenir la personne en parallèle. Ces accompagnements n’exigent pas de transformer la précarité en faute personnelle pour être recevables.
-
-Sources :
-- [Défenseur des droits, définition et obstacles du non-recours](https://www.defenseurdesdroits.fr/non-recours-1232)
-- [DREES, étude de mai 2026 sur le non-recours au RSA](https://drees.solidarites-sante.gouv.fr/sites/default/files/2026-05/ER1370_Non-recours_RSA.pdf)

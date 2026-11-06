@@ -31,7 +31,11 @@ Elle fait glisser le croquis entre elles. « On décide d’abord où les mettre
 
 ## Attribuer une tâche à partir de ce qu’elle demande
 
-Un aménagement au travail dure mieux quand son entretien est prévu dès le départ. Les panneaux d’Hélène peuvent aider des clients aussi longtemps qu’ils restent visibles et que la flèche correspond au rayon. Leur efficacité dépend des décisions de l’équipe sur les tables et les présentoirs. Si Maud et Dario déplacent les meubles, ils peuvent vérifier en même temps les indications. Hélène pourra donner un avis sur un dessin ou sur un nouvel emplacement si un temps de travail est prévu.
+Un aménagement au travail dure mieux quand son entretien est prévu dès le départ. Les panneaux d’Hélène peuvent aider des clients aussi longtemps qu’ils restent visibles et que la flèche correspond au rayon. Leur efficacité dépend des décisions de l’équipe sur les tables et les présentoirs. Si Maud et Dario déplacent les meubles, ils peuvent vérifier en même temps les indications.
+
+## Comment cette difficulté se manifeste
+
+Hélène pourra donner un avis sur un dessin ou sur un nouvel emplacement si un temps de travail est prévu.
 
 La HAS propose de réfléchir à l’environnement de travail avec la personne et le collectif. Cela permet d’identifier ce qui relève de l’organisation et les appuis que la personne souhaite. L’OMS rappelle que les habiletés pratiques s’exercent dans des cadres précis. Une demande vague de refaire l’ensemble n’est pas équivalente à une question sur le sens d’une flèche. Hélène peut répondre à l’une sans avoir accepté l’autre.
 
@@ -44,9 +48,3 @@ Si Hélène accepte une photo des panneaux et son prénom pour cette lettre, l�
 ## La pochette sort de la réserve
 
 La vieille pochette n’a qu’une marque dans un coin, loin du texte. Hélène la pose avec le support neuf sur le comptoir pour l’installation de l’après-midi. Maud note sur le croquis que les personnes qui déplacent les meubles vérifieront les flèches. Elle montre aussi la légende à Hélène : « Panneaux conçus par Hélène, du rayon vaisselle, et essayés avec les clients. » Hélène accepte cette phrase et une photo des panneaux installés pour la lettre du mois. Elle demande à voir le cadrage avant l’envoi. Maud laisse la case du portrait barrée.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé, TDI : travail et vie active (volet 2)](https://www.has-sante.fr/upload/docs/application/pdf/2025-11/dir7/tdi_emploi_volet2.pdf)
-- [Haute Autorité de santé, TDI : autodétermination, participation et citoyenneté (volet 1)](https://www.has-sante.fr/upload/docs/application/pdf/2022-09/02_tdi_rbpp_autodetermination.pdf)

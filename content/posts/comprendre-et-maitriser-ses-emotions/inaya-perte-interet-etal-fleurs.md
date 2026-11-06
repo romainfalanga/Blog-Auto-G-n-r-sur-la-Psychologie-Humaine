@@ -32,6 +32,8 @@ Myriam a pris rendez-vous avec la maison de quartier vendredi. Il leur manque en
 
 La perte d’intérêt ou de plaisir fait partie des manifestations possibles d’un épisode dépressif. Elle peut se traduire par moins d’envie avant une activité ou moins de plaisir en la faisant, même quand la personne continue à y tenir. Une matinée sans curiosité ne permet pas de conclure à un nouvel épisode. Ce qui compte pour l’évaluation, c’est entre autres la durée du changement, les autres difficultés qui l’accompagnent et son effet sur la vie quotidienne.
 
+## Comment cette difficulté se manifeste
+
 Inaya sait toujours distinguer les couleurs de ses commandes. Ce savoir reste disponible même si l’étal ne l’attire plus autant. Son petit rire au portail ne contredit pas non plus ce qu’elle vit le matin. Pour préparer sa consultation, elle peut dire simplement que depuis plusieurs jours les achats, les repas et le cinéma ont perdu une partie de leur attrait. Elle peut ajouter ce qui lui a encore fait envie, sans devoir choisir le récit le plus sombre ou le plus rassurant.
 
 ## Prévoir un moment dont la durée lui convient
@@ -43,9 +45,3 @@ Si le manque d’envie s’étend ou que les tâches ordinaires deviennent beauc
 ## Deux tiges pour l’affiche
 
 Ils mangent un carré de chocolat avant le générique. Au bout d’une vingtaine de minutes, Inaya prévient qu’elle va s’arrêter après la scène suivante. Nino dit que c’est précisément là que l’histoire commence. Il l’a déjà regardée deux fois. Elle lui demande de marquer le passage pour qu’elle le retrouve. En allant ranger leurs tasses, elle laisse le ticket sous le pot à crayons. Le lendemain, elle ouvre enfin le papier qui entoure les fleurs orange. Elle en choisit deux pour la photo, assez différentes pour qu’on voie les couleurs même sur le panneau de la rue.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, épisode dépressif caractérisé chez l’adulte](https://www.has-sante.fr/jcms/c_1739917/fr/episode-depressif-caracterise-de-l-adulte-prise-en-charge-en-premier-recours)
-- [NICE NG222, dépression de l’adulte](https://www.nice.org.uk/guidance/NG222/chapter/recommendations)

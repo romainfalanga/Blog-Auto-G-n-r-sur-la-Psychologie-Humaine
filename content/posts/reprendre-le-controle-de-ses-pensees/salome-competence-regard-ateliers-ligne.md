@@ -92,5 +92,3 @@ La compétence professionnelle et le regard des autres se croisent, mais ne se c
 Contextualiser la comparaison, choisir des critères observables et donner une fonction à la consultation offrent des appuis concrets. Vous pouvez admirer un travail et reconnaître des compétences à développer. Une image soignée ne prouve pas tout sur un atelier, et une différence de présentation ne résume pas votre capacité à accomplir une tâche.
 
 Si les comparaisons deviennent envahissantes ou limitent durablement votre activité, une psychologue ou un autre professionnel peut aider à examiner leur place et les conditions qui les entretiennent. Des retours de métier et des ressources matérielles peuvent aussi être nécessaires. Le travail ne consiste pas seulement à penser plus positivement dans un contexte dont les contraintes restent réelles.
-
-Sources : [Midgley et collègues, comparaisons sur les réseaux sociaux et évaluation de soi, 2021](https://pubmed.ncbi.nlm.nih.gov/32790470/).

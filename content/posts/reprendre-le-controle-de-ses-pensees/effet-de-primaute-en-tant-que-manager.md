@@ -11,6 +11,9 @@ personnage: "Nadia"
 sujet: "effet de primauté"
 contexte: "en tant que manager"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/20995551/
+- https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/structured-interviews/
 ---
 
 Marc accroche du pied la chaise de l’entretien. Il la remet d’aplomb et cherche où poser son dossier. Pendant qu’il s’installe, Nadia inscrit « hésitant » en haut de la fiche. C’est le seul mot qu’elle ait écrit avant de lui poser la première question. Julie lui indique qu’il peut garder ses notes devant lui.
@@ -62,5 +65,3 @@ L'expérience d'Asch aide à poser une question dans la scène de Nadia : est-ce
 Nadia peut réviser son avis à partir des éléments qu'elle avait d'abord écartés. Cette possibilité vaut quel que soit le profil du recruteur.
 
 Si vous ressentez que vos jugements sont souvent définitifs ou que vous avez du mal à changer d'avis sur un collaborateur malgré ses efforts, rappelez-vous que ces mécanismes sont profondément ancrés. L'accompagnement par un professionnel de la psychologie du travail ou un coach spécialisé peut vous aider à déconstruire ces biais cognitifs pour retrouver une sérénité et une équité durables dans votre quotidien professionnel.
-
-Sources : [Asch, travaux expérimentaux sur les impressions](https://pubmed.ncbi.nlm.nih.gov/20995551/) ; [OPM, entretiens structurés](https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/structured-interviews/).

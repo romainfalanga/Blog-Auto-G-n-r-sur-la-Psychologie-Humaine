@@ -33,7 +33,11 @@ Quand on lui répond, Jeanne dit qu’il a un diagnostic de maladie d’Alzheime
 
 Une confusion apparue brutalement chez une personne âgée demande une évaluation médicale urgente, y compris lorsque la maladie d’Alzheimer est déjà diagnostiquée. La confusion aiguë, aussi appelée syndrome confusionnel, peut survenir chez une personne qui a déjà des difficultés cognitives. Un changement rapide dans la capacité à rester attentif ou dans la vigilance ne doit pas être mis d’emblée sur le compte d’un déclin attendu. Des causes diverses sont possibles et la recherche de la cause relève des soignants.
 
-La Haute Autorité de santé distingue ce tableau d’une évolution cognitive chronique et souligne l’urgence de l’évaluation. Lorsqu’Armand hésitait sur l’heure d’un rendez-vous, il pouvait demander une confirmation et reprendre son activité. Le changement que Jeanne observe ici concerne la conversation et la vigilance sur un temps beaucoup plus court. Elle n’a pas à décider de ce que signifie le changement pour demander de l’aide.
+La Haute Autorité de santé distingue ce tableau d’une évolution cognitive chronique et souligne l’urgence de l’évaluation.
+
+## Comment cette difficulté se manifeste
+
+Lorsqu’Armand hésitait sur l’heure d’un rendez-vous, il pouvait demander une confirmation et reprendre son activité. Le changement que Jeanne observe ici concerne la conversation et la vigilance sur un temps beaucoup plus court. Elle n’a pas à décider de ce que signifie le changement pour demander de l’aide.
 
 ## Dire ce qui a changé et laisser l’équipe orienter
 
@@ -44,9 +48,3 @@ Si elle peut rester auprès d’Armand en attendant, elle peut lui dire qui vien
 ## La radio éteinte
 
 L’équipe envoyée prend le relais. Jeanne leur indique qu’Armand a demandé qu’on éteigne la radio ; une soignante se présente près de lui et lui explique qu’ils vont l’emmener pour être examiné. Jeanne retrouve ses lunettes près du journal et les lui tend. Il veut les prendre avec lui. Après le départ, elle prévient Nadia que le rendez-vous doit être reporté. Elle laisse le carton gris au pied du buffet. Le plat du déjeuner est encore fermé et, dans le couloir, la porte qu’elle a poussée en entrant est restée entrouverte.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, confusion aiguë chez la personne âgée : repérage et prise en charge initiale](https://www.has-sante.fr/jcms/c_819557/fr/)
-- [Service Public, numéros d’urgence : aide médicale urgente et orientation par le 15](https://www.service-public.gouv.fr/particuliers/vosdroits/F33954)

@@ -45,8 +45,3 @@ L’équipe peut conserver la fiche commune et le moment de vérification, puis 
 ## Le temps d’un retournement
 
 Nora inscrit un rendez-vous à la table de coupe pour le nouveau patron. Lison ferme le dossier du Quai de nuit et le range dans la caisse qui retourne à l’atelier. Avant de quitter la salle, elle prend dans la poche de son tablier la chute mise de côté et l’épingle près du projecteur de travail sur leur planche d’échantillons. Elle veut s’en souvenir pour un autre costume. La régisseuse propose un dernier passage. Lison retourne au dernier rang et fait signe qu’elle est prête. Les quatre comédiens se tournent ; à cette distance, l’ocre dure exactement le temps qu’elle espérait.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Mon Parcours Handicap — Compenser votre handicap en formation](https://www.monparcourshandicap.gouv.fr/formation-professionnelle/compenser-votre-handicap-en-formation)

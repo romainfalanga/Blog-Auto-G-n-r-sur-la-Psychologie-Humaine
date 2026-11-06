@@ -32,7 +32,11 @@ Elle parle des chariots qui passent près de la salle des retours et de la visit
 
 La fatigue mérite d’être examinée dans son contexte, même quand la personne apprécie l’activité qui la précède. Nour peut expliquer ce qu’elle remarque le jour même et après être rentrée. Le bruit, les interruptions, les changements et le temps passé sur une traduction font partie de sa description. La professionnelle peut lui demander aussi si le sommeil, la santé ou d’autres circonstances ont changé. Attribuer toute fatigue à l’autisme ferait perdre des informations utiles.
 
-Le NICE recommande de tenir compte du cadre de l’entretien et du mode de communication de la personne. La professionnelle peut lire la note, reformuler une question et demander à Nour si la salle lui convient assez pour continuer. Le choix de Nour sur la présence de Fatou reste valable pour ce rendez-vous. Si elle souhaite inviter quelqu’un une autre fois, elle pourra préciser le sujet et la durée.
+Le NICE recommande de tenir compte du cadre de l’entretien et du mode de communication de la personne.
+
+## Comment cette difficulté se manifeste
+
+La professionnelle peut lire la note, reformuler une question et demander à Nour si la salle lui convient assez pour continuer. Le choix de Nour sur la présence de Fatou reste valable pour ce rendez-vous. Si elle souhaite inviter quelqu’un une autre fois, elle pourra préciser le sujet et la durée.
 
 ## Identifier les conditions qui aident
 
@@ -43,8 +47,3 @@ La professionnelle lui demande à quel moment la fatigue lui paraît nouvelle ou
 ## Le banc choisi au square
 
 Nour plie sa note et prend le chemin du square. Elle avait prévu de retrouver Fatou près de la grille. Le banc à l’autre bout lui paraît plus agréable aujourd’hui. Elle lui envoie l’endroit et demande si elles peuvent regarder seulement l’heure et les accès avant de rentrer. Fatou accepte. Nour lui dit qu’elle garde pour elle ce qui a été abordé au rendez-vous. Puis elle ouvre la carte sur ses genoux et lui montre la cour. Il reste à vérifier si on peut y entrer le jour du test et s’y arrêter sans gêner le passage.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG142, accompagnement des adultes autistes](https://www.nice.org.uk/guidance/cg142/chapter/Recommendations)

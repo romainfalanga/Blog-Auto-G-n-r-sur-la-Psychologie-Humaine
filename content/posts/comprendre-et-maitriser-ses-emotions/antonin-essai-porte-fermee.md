@@ -31,7 +31,11 @@ Au cabinet, il raconte au médecin l’essai de la porte, le relais qui lui a pe
 
 ## Le progrès se regarde dans plusieurs situations
 
-Le suivi de l’anxiété généralisée tient compte de la gêne et du fonctionnement dans le temps, dans plusieurs domaines. Un changement au travail peut améliorer une partie de la journée sans modifier le sommeil ou les préoccupations familiales. Antonin peut dire à la fois qu’il a gardé une soirée, qu’il a moins de décisions urgentes sur le chantier et qu’il a encore des réveils difficiles. Ces éléments aident son médecin à comprendre ce qui change et ce qui continue à lui coûter.
+Le suivi de l’anxiété généralisée tient compte de la gêne et du fonctionnement dans le temps, dans plusieurs domaines. Un changement au travail peut améliorer une partie de la journée sans modifier le sommeil ou les préoccupations familiales.
+
+## Comment cette difficulté se manifeste
+
+Antonin peut dire à la fois qu’il a gardé une soirée, qu’il a moins de décisions urgentes sur le chantier et qu’il a encore des réveils difficiles. Ces éléments aident son médecin à comprendre ce qui change et ce qui continue à lui coûter.
 
 Des étapes de soin peuvent être revues à partir de ce que la personne souhaite et de la réponse aux appuis déjà essayés. Antonin a demandé un entretien psychologique. Il peut parler du délai et de ce qu’il attend de la rencontre. Avec son médecin, il peut aussi convenir de ce qu’ils réexamineront si les difficultés s’accentuent ou si le délai s’allonge.
 
@@ -44,8 +48,3 @@ Pour son rendez-vous, il lui suffit de dire ce qui lui permet de tenir sa journ�
 ## Le rapport attendu à l’école
 
 Antonin convient d’un nouveau point avec son médecin et lui demande comment reprendre contact si l’attente devient difficile. En rentrant, il reçoit le compte rendu technique avec Eva. La direction peut examiner la remise en service. Il ouvre le dessin des placards et ajoute un espace pour les étuis les plus longs. Le professeur pourra lui dire s’il en faut davantage. Antonin s’aperçoit qu’il a envie d’entendre le morceau entier la première fois qu’il sera joué dans la salle.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

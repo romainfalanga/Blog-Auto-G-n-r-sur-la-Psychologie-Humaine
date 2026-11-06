@@ -32,7 +32,11 @@ Solène repense à la dernière fois où elle a parlé au cabinet. Livia était 
 
 La présence d’une personne peut rassurer lors d’un échange intime. Elle peut aussi modifier ce qu’on se sent capable de dire, même lorsque la relation est bonne. Solène a pu demander quand Livia entrerait au cabinet. Cette marge aide à comprendre pourquoi la caméra change pour elle le sens de la question posée aux spectatrices.
 
-Les orientations de l’OMS sur les services de santé mentale donnent une place aux choix de la personne et au respect de ses droits. Au cabinet, Solène peut demander un temps seule avec sa psychiatre ou choisir d’inviter Livia pour une partie de l’échange. Le suivi d’un trouble schizoaffectif porte aussi sur les périodes intermédiaires, où les besoins peuvent changer. La forme d’aide qui convenait à une consultation n’est pas à reconduire d’office à la suivante.
+Les orientations de l’OMS sur les services de santé mentale donnent une place aux choix de la personne et au respect de ses droits.
+
+## Comment cette difficulté se manifeste
+
+Au cabinet, Solène peut demander un temps seule avec sa psychiatre ou choisir d’inviter Livia pour une partie de l’échange. Le suivi d’un trouble schizoaffectif porte aussi sur les périodes intermédiaires, où les besoins peuvent changer. La forme d’aide qui convenait à une consultation n’est pas à reconduire d’office à la suivante.
 
 À la salle des Tilleuls, la femme au manteau formule une question ordinaire : est-ce qu’elle doit parler devant un objectif pour que son retour intéresse l’équipe ? Solène connaît la différence entre répondre à une personne présente et accepter que ses mots soient gardés pour un autre usage. Cette expérience l’aide à entendre la question. Elle ne lui donne pas accès à ce que la spectatrice aurait préféré dire en privé.
 
@@ -45,9 +49,3 @@ Célestin voulait trouver un support pour présenter la tournée. Cette question
 ## Un mot au verso du programme
 
 Célestin range son téléphone et va essayer le dernier rang. Aux Tilleuls, les trois spectatrices disent avoir pu lire les sous-titres. Solène note le résultat de l’essai au dos d’une carte. L’une des spectatrices écrit quand même qu’elle n’a compris qu’à la fin que les deux personnes de l’abribus ne se connaissaient pas. Solène glisse la carte dans l’enveloppe réservée aux essais : cette remarque pourrait changer la façon dont elle présente le film. Sur le programme roulé, la femme au manteau a écrit « Gardez la chaise au début ». Solène confirme à Mireille qu’elle souhaite le même ordre à la première séance publique et lui demande de rappeler la mairie.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, services de santé mentale communautaires : résumé des orientations](https://www.who.int/fr/publications/i/item/9789240025684)
-- [OMS, Guide d’intervention mhGAP, version 2.0](https://www.who.int/publications/i/item/9789241549790)

@@ -30,7 +30,11 @@ La psychiatre lui propose de partir d’une activité qui lui tient à cœur, de
 
 ## Ce qui se décide avec le professionnel
 
-La thérapie cognitivo-comportementale fait partie des prises en charge recommandées du trouble panique. Les possibilités de soin dépendent notamment de la gêne, des besoins et des préférences de la personne. Une professionnelle formée peut proposer un travail sur les sensations, sur ce que la personne redoute et sur les situations qu’elle évite. Elle en discute avec elle, y compris lorsque le soin comprend des essais dans des situations choisies. Jules peut demander quel est le but d’un essai et comment il sera accompagné.
+La thérapie cognitivo-comportementale fait partie des prises en charge recommandées du trouble panique. Les possibilités de soin dépendent notamment de la gêne, des besoins et des préférences de la personne. Une professionnelle formée peut proposer un travail sur les sensations, sur ce que la personne redoute et sur les situations qu’elle évite. Elle en discute avec elle, y compris lorsque le soin comprend des essais dans des situations choisies.
+
+## Comment cette difficulté se manifeste
+
+Jules peut demander quel est le but d’un essai et comment il sera accompagné.
 
 Dans son cas, ils envisagent d’abord un travail encadré. La psychiatre pourra revoir ce qu’ils ont convenu avec lui, entendre ce qu’il ressent et ajuster le cadre. Les décisions sur la santé et sur les symptômes inhabituels restent du ressort des professionnels. Jules veut savoir à qui s’adresser si quelque chose de nouveau survient. Cette question trouve sa place dans la préparation de son suivi.
 
@@ -43,8 +47,3 @@ Solange peut entendre qu’il souhaite reprendre une activité et lui demander c
 ## La main qui tient les tiges
 
 Jules dit qu’il veut commencer cette thérapie et qu’il préfère préparer le premier essai avec la psychiatre. Il lui montre enfin la position de la main de Sonia sur la feuille. Sur le chemin du retour, il écrit au dos une idée de commande qu’il aimerait préparer au stand. Pour la proposer, il lui faudra discuter avec Sonia du partage des livraisons pendant les jours chargés. Il garde cette conversation pour la prochaine matinée de travail.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

@@ -31,7 +31,11 @@ Devant l’atelier, elle plie le dessin pour le faire entrer dans la boîte où 
 
 ## Ce que l’évitement peut changer dans une journée
 
-Après un traumatisme, une personne peut chercher à éviter certains lieux, situations ou pensées qui lui rappellent l’événement. Les descriptions de la CIM-11 parlent d’évitement lorsque l’effort pour tenir ces rappels à distance prend une place importante dans le trouble. Au quotidien, cela peut changer un trajet, les personnes qu’on voit ou les endroits où l’on accepte de passer. Le choix d’un chemin a aussi des raisons ordinaires. Selma aime longer le canal et doit composer avec une fermeture réelle.
+Après un traumatisme, une personne peut chercher à éviter certains lieux, situations ou pensées qui lui rappellent l’événement. Les descriptions de la CIM-11 parlent d’évitement lorsque l’effort pour tenir ces rappels à distance prend une place importante dans le trouble. Au quotidien, cela peut changer un trajet, les personnes qu’on voit ou les endroits où l’on accepte de passer. Le choix d’un chemin a aussi des raisons ordinaires.
+
+## Comment cette difficulté se manifeste
+
+Selma aime longer le canal et doit composer avec une fermeture réelle.
 
 Ce qui l’intéresse, c’est le moment où le détour est devenu la seule possibilité qu’elle envisage, même quand il lui fait perdre une rencontre. Elle peut en parler à sa thérapeute en décrivant la distance, ce qui rend le parvis pénible et le temps qu’elle aimerait récupérer. Elle peut aussi expliquer ce qu’elle tient à garder dans le détour, comme la promenade à vélo les jours où elle a envie de la faire.
 
@@ -44,8 +48,3 @@ Au vitrier, la demande tient à la livraison. Selma peut lui montrer le plan de 
 ## La caisse attend sous l’auvent
 
 Le vitrier lui prête un échantillon assez petit pour entrer dans sa sacoche. Selma reprend le canal et trouve la caisse sous l’auvent. André a écrit dessus son nom, parce qu’il veut la récupérer après l’essai. Elle envoie un message pour proposer le lendemain matin, puis rapproche l’échantillon d’un sachet de graines. Elle voudrait savoir si on verra les pousses depuis l’allée. Au prochain rendez-vous, elle parlera aussi du pont fermé et de l’itinéraire qu’elle a pris sans avoir réellement regardé les autres.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

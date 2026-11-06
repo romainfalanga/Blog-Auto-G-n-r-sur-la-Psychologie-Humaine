@@ -31,7 +31,11 @@ La trousse verte fait le tour de la table. Quand Ilyès la pousse vers Irène, u
 
 ## Ce qui se perd entre deux pages
 
-La gêne liée à un mouvement répété dépend en partie de la tâche et des conditions dans lesquelles on la fait. Les mains d’Irène reprennent leur mouvement au cours de l’essai ; elle attend un instant pour saisir le papier. Quand elle peut le prendre, les pages ont changé de place et il lui manque une transition. Elle avait envie d’essayer le canal autant que les toits. Perdre deux fois le raccord ne lui donne aucune information fiable sur la valeur de l’idée.
+La gêne liée à un mouvement répété dépend en partie de la tâche et des conditions dans lesquelles on la fait. Les mains d’Irène reprennent leur mouvement au cours de l’essai ; elle attend un instant pour saisir le papier.
+
+## Comment cette difficulté se manifeste
+
+Quand elle peut le prendre, les pages ont changé de place et il lui manque une transition. Elle avait envie d’essayer le canal autant que les toits. Perdre deux fois le raccord ne lui donne aucune information fiable sur la valeur de l’idée.
 
 De tels gestes peuvent apparaître dans des moments où l’on est très pris par ce qu’on fait. Leur présence ne dit pas que la tâche ennuie ou énerve. Ici, la frustration vient de la difficulté à retrouver l’endroit où le récit a changé de main. Elle augmente lorsque Ilyès propose de retirer une partie du livre.
 
@@ -44,8 +48,3 @@ Ensuite, ils relisent un seul raccord. S’ils se perdent encore, ils sauront qu
 ## Le plan à portée des deux
 
 Irène indique du menton la table du fond. Mylène a le temps de les y installer. Ilyès emporte les brouillons ; Irène prend la trousse et le plan. À leur deuxième essai, elle pose un doigt au pied des marches puis attend de pouvoir tourner le feuillet. Le raccord fonctionne. Ilyès veut ajouter un dessin du courant et Irène garde l’idée du banc pour l’arrivée. Ils demandent la table du fond pour le mardi suivant. Avant de partir, Irène glisse le plan dans son cahier : elle voudrait en faire une copie au collège pour que chacun puisse annoter la sienne.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Great Ormond Street Hospital for Children (NHS) — Stereotypies: repetitive movements or sounds (2026)](https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/stereotypies-repetitive-movements-or-sounds/)

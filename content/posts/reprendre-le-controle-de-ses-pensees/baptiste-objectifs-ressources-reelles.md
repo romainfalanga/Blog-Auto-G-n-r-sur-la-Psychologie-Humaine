@@ -1,5 +1,5 @@
 ---
-title: "Baptiste : des objectifs avec des ressources réelles"
+title: Des objectifs avec des ressources réelles
 date: 2026-11-03T11:40:00+00:00
 description: "Trois projets tiennent sur une liste, moins bien dans la semaine de Baptiste. Il examine le temps, les appuis et les contraintes avant de s’engager."
 categories: ["Reprendre le contrôle de ses pensées"]
@@ -74,7 +74,3 @@ Un objectif réaliste demande davantage qu’une formulation précise. Il doit �
 Le repos, les transitions et les relations occupent une place réelle, même lorsqu’ils n’apparaissent pas comme des rendez-vous. Réduire ou reporter une partie du programme peut être une décision responsable. Une difficulté nouvelle ne signifie pas que toute la préparation était mauvaise. Il est utile de regarder ce qui s’est réellement passé, ce qui dépendait de vos moyens et ce qui réclame une réponse collective ou matérielle.
 
 Si vos objectifs vous épuisent régulièrement, si les reports deviennent envahissants ou si vous ne disposez plus de marge pour les besoins essentiels, un médecin, un psychologue ou un professionnel adapté peut vous aider à examiner la situation. L’accompagnement peut inclure les attentes et les pensées, mais aussi la charge et les appuis disponibles. Le but peut être de retrouver des engagements vivables, sans faire de chaque semaine une épreuve de productivité.
-
-Sources :
-- [NIMH, Caring for Your Mental Health](https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health)
-- [NHS, Problem solving](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)

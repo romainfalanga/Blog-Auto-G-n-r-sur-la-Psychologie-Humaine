@@ -32,6 +32,8 @@ Elle lui lit une version de la légende. Joël l’interrompt au mot « ferronne
 
 Les personnes autistes ont des besoins, des capacités et des préférences qui peuvent différer sensiblement. Nour et Joël ont fait connaissance en atelier de gravure et se disent tous les deux autistes. Leurs avis sur la rue du marché divergent. Chacun décrit la façon dont il voudrait la traverser ou s’y arrêter. Le dessin de la carte pourra faire une place aux deux choix.
 
+## Comment cette difficulté se manifeste
+
 L’OMS distingue des profils variés, notamment dans le langage fonctionnel et le développement intellectuel. Ces distinctions aident les professionnels à préciser les appuis selon la personne. Autour de la carte, ce qui aide est de demander à Joël s’il veut lire, écouter ou essayer un trajet. Il peut avoir une réponse différente de Nour et changer de format au cours du repérage.
 
 ## Vérifier ce que chaque version permet
@@ -43,8 +45,3 @@ Le NICE met l’accent sur des informations disponibles dans un format appropri�
 ## Une adresse qu’on peut chercher
 
 Nour se penche sur le téléphone et trouve le kiosque en tapant le même mot que Joël. Elle agrandit la carte jusqu’à voir que le nom de la cour disparaît. Au dos, elle écrit le nom complet et l’adresse des deux entrées. Joël lui laisse une feuille imprimée sur papier mat pour comparer. Nour veut montrer cette version à Fatou avant qu’elles annoncent la visite. Elle lui envoie un message où elle distingue le fichier de trajet, qui peut circuler, et la reproduction, qu’elles montreront sur place selon l’accord du service.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG142, accompagnement des adultes autistes](https://www.nice.org.uk/guidance/cg142/chapter/Recommendations)

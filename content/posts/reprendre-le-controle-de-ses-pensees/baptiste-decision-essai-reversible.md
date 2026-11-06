@@ -1,5 +1,5 @@
 ---
-title: "Baptiste : reconnaître ce qui rend un choix réversible"
+title: Reconnaître ce qui rend un choix réversible
 date: 2026-11-03T10:30:00+00:00
 description: "Avant de généraliser une nouvelle fiche, Baptiste prépare un essai limité. Revenir en arrière demande des conditions, pas seulement une intention."
 categories: ["Reprendre le contrôle de ses pensées"]
@@ -74,6 +74,3 @@ Un choix réversible ne se définit pas seulement par la possibilité de changer
 Les personnes engagées ont aussi besoin de comprendre ce qui est essayé et ce qui ne l’est pas. Un résultat peu favorable doit pouvoir être reconnu sans dévaloriser leur effort. Les coûts déjà investis méritent d’être considérés, mais ils ne rendent pas toute poursuite obligatoire. Une révision peut préserver un élément utile, arrêter une version ou montrer qu’une autre démarche est nécessaire.
 
 Si la peur de vous engager ou celle de revenir sur un choix vous empêche durablement d’agir, un psychologue, un médecin ou un professionnel adapté peut vous aider à examiner ce qui pèse. Des informations pratiques et des interlocuteurs compétents restent parfois la première ressource à chercher. L’objectif peut être d’ajuster le niveau d’engagement aux conséquences réelles, sans demander à toutes les décisions une garantie totale ni appeler réversible ce qui ne l’est pas.
-
-Sources :
-- [NHS, Problem solving](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)

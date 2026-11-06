@@ -67,6 +67,7 @@ En cas de menaces, de pressions ou de risque que des informations circulent vers
 Le 28 mars, Priya appelle après sa garde. Julie lui raconte qu’elle a croisé Damien en sortant du travail et qu’il lui a demandé si Priya vivait toujours dans le quartier. Elle a répondu qu’elle ne savait pas, puis elle est partie. « Je pensais que tu préférerais que je te le dise », ajoute-t-elle. Sa voix se raidit quand Priya lui demande pourquoi elle s’est arrêtée.
 
 Priya s’attendait à devoir défendre la raison de son refus. Elle dit plutôt : « La prochaine fois, s’il pose une question sur moi, j’aimerais que tu ne lui répondes pas. » Julie lui fait remarquer que c’est précisément ce qu’elle a fait. Priya l’entend. Elle a encore besoin de temps avant de l’inviter chez elle, alors elle propose un café en sortant du travail, dans la semaine. Julie dit qu’elle regardera ses horaires.
+
 ---
 
 Le sentiment d’avoir été trahie peut être vif alors que les attentes restent à éclaircir. En cas de menace ou de risque de circulation d’informations sensibles, la sécurité passe avant la reprise du lien. Si une souffrance durable s’installe, un psychologue peut offrir un espace pour en parler.

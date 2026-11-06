@@ -31,7 +31,11 @@ Eva a le stylo en main. Adèle pose deux doigts sur le plan, entre le réfectoir
 
 ## Quand le contexte sensoriel et le regard des autres se cumulent
 
-L’environnement d’un repas peut modifier les difficultés vécues par certaines personnes qui ont un ARFID. La question peut se poser à l’école, lors d’un déplacement ou à l’âge adulte dans un repas avec des collègues. Le bruit, les odeurs ou la sensation d’être observé peuvent faire partie de ce que le jeune et l’équipe examinent. Un espace plus calme peut être utile à Adèle dans certaines circonstances ; elle dit aussi qu’elle veut garder la possibilité de manger près de ses camarades quand le cadre lui convient. Ces souhaits donnent des indications pour l’organisation. Ils ne constituent pas une prescription sur la façon dont d’autres élèves devraient prendre leurs repas.
+L’environnement d’un repas peut modifier les difficultés vécues par certaines personnes qui ont un ARFID. La question peut se poser à l’école, lors d’un déplacement ou à l’âge adulte dans un repas avec des collègues. Le bruit, les odeurs ou la sensation d’être observé peuvent faire partie de ce que le jeune et l’équipe examinent.
+
+## Comment cette difficulté se manifeste
+
+Un espace plus calme peut être utile à Adèle dans certaines circonstances ; elle dit aussi qu’elle veut garder la possibilité de manger près de ses camarades quand le cadre lui convient. Ces souhaits donnent des indications pour l’organisation. Ils ne constituent pas une prescription sur la façon dont d’autres élèves devraient prendre leurs repas.
 
 Dans le bureau vitré, le passage serait constant même avec une chaise à l’écart. En repérant ce détail, Adèle explique ce qu’elle entend par discrétion. Elle n’a pas besoin de raconter toute son histoire à la responsable du lieu pour demander où se trouve l’autre pièce.
 
@@ -44,9 +48,3 @@ Le plan garde la possibilité pour Eva de venir la chercher si l’organisation 
 ## La flèche vers la petite salle
 
 La responsable reprend : elle pourra réserver une petite salle de réunion et remettre la clé aux accompagnateurs aux heures prévues. Mme Roussel note le numéro de la salle sur le plan et dessine une flèche jusqu’à l’embranchement qui rejoint les ateliers. M. Benhamou arrive, vérifie avec Eva quel numéro appeler et écoute Adèle expliquer qu’elle veut pouvoir passer de la table commune à l’autre salle sans annonce. « D’accord. On vérifie ensemble que c’est bien ça avant que tu confirmes », dit-il. Adèle retrouve la croix du tissage sur la fiche. L’autorisation de départ attendra.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Maudsley Centre for Child and Adolescent Eating Disorders (NHS) — ARFID Service Frequently Asked Questions](https://mccaed.slam.nhs.uk/wp-content/uploads/2022/12/ARFID-Service-FAQs-Dec-22.pdf)
-- [Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust — ARFID: Creating supportive mealtimes](https://www.cntw.nhs.uk/resources/avoidant-restrictive-food-intake-disorder-arfid-simple-suggestions-series-creating-supportive-mealtimes)

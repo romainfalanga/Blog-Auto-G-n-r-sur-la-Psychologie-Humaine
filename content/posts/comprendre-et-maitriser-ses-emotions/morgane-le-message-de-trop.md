@@ -33,17 +33,16 @@ Sonia repart vers l’évier. Morgane la rejoint là où les visiteurs ne les en
 
 ## Reprendre un accord qui s’est brouillé
 
-Une personne de confiance peut rendre un soutien plus accessible dans les troubles des conduites alimentaires. La HAS et la FFAB situent la place de l’entourage dans une prise en charge adaptée et discutée. Sonia a entendu une confidence et en a déduit qu’elle devrait vérifier le déjeuner de Morgane. Morgane souhaite pouvoir solliciter de l’écoute sans être attendue au tournant sur un repas. Elle peut expliciter cette limite même si la première réponse a été oui. Sonia peut entendre la conséquence de son message et demander ce qu’elle peut offrir de précis au lieu de décider d’un suivi.
+Une personne de confiance peut rendre un soutien plus accessible dans les troubles des conduites alimentaires. La HAS et la FFAB situent la place de l’entourage dans une prise en charge adaptée et discutée. Sonia a entendu une confidence et en a déduit qu’elle devrait vérifier le déjeuner de Morgane.
+
+## Le repas qui devient une preuve à donner
+
+Morgane accepte d’abord de dire comment le déjeuner s’est passé. Elle vient de recevoir l’aide de Sonia pour la répétition et entend son inquiétude. Le message lui donne pourtant l’impression qu’elle va devoir rendre des comptes pendant un repas où elle voudrait penser à autre chose. Quand elle revient vers Sonia, elle arrive à distinguer le café qu’elles pourraient prendre ensemble de la vérification qu’elle a comprise dans le message.
 
 ## Trouver une proposition que chacune peut tenir
 
-Elles peuvent s’accorder sur un café lorsqu’elles en ont envie et sur une disponibilité précise avant la matinée. Morgane peut garder la question des épisodes pour Anna. Si elle veut associer quelqu’un à une partie du suivi, elle peut en parler avec l’équipe et choisir ce qu’elle souhaite partager. La responsabilité clinique reste à la place où elle peut être assumée. Sonia peut dire ce qu’elle sait faire au travail et exprimer sa propre inquiétude. Morgane est libre d’accepter, de refuser ou de préciser sa demande. L’accord peut évoluer avec la situation.
+Elles peuvent s’accorder sur un café lorsqu’elles en ont envie et sur une disponibilité précise avant la matinée. Morgane peut garder la question des épisodes pour Anna. Si elle veut associer quelqu’un à une partie du suivi, elle peut en parler avec l’équipe et choisir ce qu’elle souhaite partager. La responsabilité clinique reste à la place où elle peut être assumée. Sonia peut dire ce qu’elle sait faire au travail et exprimer sa propre inquiétude. Morgane est libre d’accepter, de refuser ou de préciser sa demande, y compris après un premier oui. L’accord peut évoluer avec la situation.
 
 ## Une demande à leur mesure
 
 Sonia range son téléphone. Elle demande si Morgane veut encore qu’elles se voient avant la matinée pour faire le point sur les visiteurs. Morgane répond que oui. Elles conviennent aussi que Sonia attendra que Morgane ouvre elle-même une conversation sur le suivi. Un peu plus tard, Morgane lui propose un café et lui demande ce qu’elle a remarqué dans la pause de Yassine. L’équipe a répondu à son message. Anna reprendra avec elle jeudi le retour de l’épisode.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et Fédération française anorexie boulimie, recommandations sur la boulimie et l’hyperphagie boulimique](https://www.has-sante.fr/upload/docs/application/pdf/2019-09/boulimie_et_hyperphagie_boulimique_-_recommandations.pdf)

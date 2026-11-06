@@ -98,5 +98,3 @@ Garder un désaccord sans rompre le lien suppose de distinguer les avis, les eng
 Aline ne trouve pas un accord général sur la fête. Elle trouve une manière de parler en son nom et de participer sans devenir le passage obligé de toutes les tensions. Le lien reste imparfait, avec de la déception et des sujets à reprendre. Cette imperfection peut laisser davantage de place à chacun qu’une harmonie portée par une seule personne.
 
 Lorsque les conflits familiaux deviennent envahissants, un psychologue ou un professionnel de la médiation peut aider à clarifier les frontières et les échanges. Le cadre dépend de la situation et du souhait des personnes. Vous pouvez demander un appui pour votre propre place, même si les autres membres de la famille ne souhaitent pas participer à une démarche commune.
-
-Sources : [Assor, Roth et Deci, approbation parentale conditionnelle et autonomie](https://pubmed.ncbi.nlm.nih.gov/14686884/).

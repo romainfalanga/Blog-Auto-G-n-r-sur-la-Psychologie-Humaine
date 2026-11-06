@@ -29,7 +29,11 @@ Derrière la vitre, Jo signale le temps qui reste. Nils pense à ce qu’il n’
 
 ## Reprendre la parole à partir d’un repère
 
-Les difficultés d’attention que certaines personnes rencontrent avec une schizophrénie peuvent se faire sentir au cours d’une activité qu’elles aiment. La situation du direct demande aussi à n’importe quel chroniqueur de passer rapidement d’une écoute à une réponse. Nils hésite entre deux situations de jardinage. La question de Maud lui restitue le contexte qu’il cherche et le mot encadré l’aide à retrouver sa réponse. Il reste libre de demander une sortie ou de choisir sa phrase de fin.
+Les difficultés d’attention que certaines personnes rencontrent avec une schizophrénie peuvent se faire sentir au cours d’une activité qu’elles aiment. La situation du direct demande aussi à n’importe quel chroniqueur de passer rapidement d’une écoute à une réponse.
+
+## Comment cette difficulté se manifeste
+
+Nils hésite entre deux situations de jardinage. La question de Maud lui restitue le contexte qu’il cherche et le mot encadré l’aide à retrouver sa réponse. Il reste libre de demander une sortie ou de choisir sa phrase de fin.
 
 Ce résultat décrit un essai précis. On ne peut pas en déduire ce que sera sa journée suivante, ni tirer d’un silence à l’antenne une conclusion sur sa santé. La préparation a donné à Nils et à Maud un moyen de partager une tâche. Le temps laissé après la question importe autant que la feuille. Sans lui, elle aurait pu reprendre la réponse à sa place alors qu’il voulait encore parler.
 
@@ -42,9 +46,3 @@ Le fichier de secours n’a pas servi. Son existence leur a pourtant laissé un 
 ## Le verre encore plein
 
 Quand le voyant s’éteint, Nils remarque qu’il serre toujours son verre. Il boit enfin. Jo lui dit qu’il a eu envie de regarder sous son propre pot en l’écoutant. Maud lui demande s’il veut réécouter tout de suite. Nils préfère attendre lundi, à tête reposée. Il lui demande de dire à Renée que sa question est passée comme prévu et qu’il serait curieux de voir le pot un autre jour. Dans la rue, Elsa lui a envoyé « bien reçu » suivi d’un autocollant de tomate. Il lui répond que ce n’était pas une chronique sur les tomates. Elle répond avec une deuxième tomate.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE, psychose et schizophrénie chez l’adulte (CG178)](https://www.nice.org.uk/guidance/cg178/chapter/recommendations)
-- [OMS, fiche d’information sur la schizophrénie](https://www.who.int/news-room/fact-sheets/detail/schizophrenia)

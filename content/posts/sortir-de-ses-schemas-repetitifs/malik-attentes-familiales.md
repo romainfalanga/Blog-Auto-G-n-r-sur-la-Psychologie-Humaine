@@ -1,5 +1,5 @@
 ---
-title: "Malik : négocier des attentes familiales différentes"
+title: Négocier des attentes familiales différentes
 date: 2026-09-20T09:00:00+00:00
 description: "Un rendez-vous familial régulier ne convient pas à Malik. Il cherche un accord qui conserve le lien sans promettre une présence impossible."
 slug: "malik-attentes-familiales"
@@ -100,6 +100,3 @@ Des attentes familiales différentes ne signifient pas nécessairement un manque
 Séparer le besoin de la forme, tester un accord et accueillir une déception peuvent préserver davantage de choix. Ces gestes ne garantissent pas que chaque proche sera satisfait. Un lien peut rester important pendant un désaccord, et une limite peut être revue lorsque les conditions réelles changent.
 
 Si les échanges deviennent durablement culpabilisants ou empêchent toute décision personnelle, un psychologue peut aider à explorer les relations et les appuis possibles. L’accompagnement doit respecter les formes d’interdépendance souhaitées, sans imposer une rupture comme modèle d’autonomie. La question reste celle d’un lien que chacun peut habiter avec suffisamment de liberté.
-
-Sources :
-- [Ryan et Deci, autonomie, relation et conditions sociales de la motivation](https://pubmed.ncbi.nlm.nih.gov/11392867/)

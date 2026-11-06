@@ -11,6 +11,8 @@ personnage: "Nadia"
 sujet: "frustration"
 contexte: "avec ses enfants"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/2667009/
 ---
 
 Yasmine a choisi le saladier qui tourne sur le plan de travail quand on remue trop vite. Elle le cale avec un torchon et demande à Nadia d’allumer le four. Nadia revient d’une journée passée à reprendre un dossier interrompu plusieurs fois. Elle est d’accord pour faire le gâteau avant le dîner. Dans sa tête, il est déjà au four pendant qu’elle sort les assiettes.
@@ -62,5 +64,3 @@ La frustration est fréquente et ne définit pas votre valeur comme parent. Elle
 Le chemin vers une parentalité plus sereine n'est pas une ligne droite vers la perfection, mais un apprentissage constant du lâcher-prise. Chaque fois que vous choisissez de respirer avant de réagir, chaque fois que vous privilégiez la relation sur le résultat, vous construisez un environnement plus sécurisant pour vous et pour vos enfants. Soyez indulgent envers vous-même dans ce processus, car le changement demande du temps et de la répétition.
 
 Si vous constatez que la frustration devient un état permanent, qu'elle mène à des débordements fréquents ou qu'elle altère profondément votre bien-être, vous pouvez solliciter l'aide d'un professionnel de santé ou d'un psychologue. Parler de ses difficultés est un acte de courage qui permet de briser les cycles de stress et de retrouver le plaisir d'être ensemble, tout simplement.
-
-Sources : [Berkowitz, reformulation de l’hypothèse frustration-agression](https://pubmed.ncbi.nlm.nih.gov/2667009/).

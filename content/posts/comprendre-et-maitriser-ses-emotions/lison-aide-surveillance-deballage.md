@@ -44,8 +44,3 @@ Au lieu de retirer toutes les aides après un devis réussi, l’équipe peut es
 ## Disponible pour la coupe
 
 Ilyès arrive après la pause. Sans regarder le chiffre inscrit par Lison, il mesure à son tour 185 cm continus. Avec Lison, il relit 140 cm de large et la référence B17 sur le devis et l’étiquette. Nora vérifie leurs relevés, valide la réception de l’ocre et classe le bordereau de retour que Lison lui tend. Lison remet le coupon de réserve à côté du nouveau. Sur le plan de coupe, elle montre où iront les trois bandes sur le coupon neuf et la quatrième sur celui de la réserve. Il restera vingt centimètres au total pour les petits ajustements. Elle écrit « contrôlé, disponible pour la coupe ». Ilyès lui demande s’ils gardent la petite chute de l’essai. « Oui, j’ai encore une idée pour elle. »
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Mon Parcours Handicap — Compenser votre handicap en formation](https://www.monparcourshandicap.gouv.fr/formation-professionnelle/compenser-votre-handicap-en-formation)

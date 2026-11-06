@@ -98,5 +98,3 @@ L’expression « syndrome du sauveur » peut servir à parler d’une façon d�
 Aline ne renonce pas à la solidarité. Elle découvre une aide qui laisse de la place à l’initiative d’autrui, au collectif et à sa propre vie. Un délai, une question et une proposition délimitée ne règlent pas tout. Ils peuvent néanmoins ouvrir une relation où la présence ne dépend plus de la disponibilité permanente.
 
 Si le besoin de tout prendre en charge entraîne une fatigue importante, des conflits répétés ou une détresse persistante, un psychologue ou un autre professionnel peut aider à comprendre ce fonctionnement. Un soutien associatif ou une réorganisation concrète peut également être nécessaire. Vous avez le droit de chercher plusieurs appuis et de conserver ce qui vous relie aux autres.
-
-Sources : [Ryan et Deci, présentation de la théorie de l’autodétermination](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf) ; [Cleveland Clinic, le sens courant de l’expression « savior complex »](https://health.clevelandclinic.org/savior-complex).

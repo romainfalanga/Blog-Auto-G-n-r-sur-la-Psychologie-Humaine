@@ -1,0 +1,561 @@
+{
+  "character_id": "gaelle",
+  "bio": "Gaëlle, 38 ans, est potière bénévole. Elle vit avec un trouble neurologique fonctionnel diagnostiqué et suit une rééducation pour une faiblesse de la jambe gauche qui modifie ses déplacements. À l’atelier, elle prépare une journée où les visiteurs pourront imprimer des motifs dans l’argile. Elle veut tenir l’accueil et pouvoir se reposer quand sa marche devient difficile. Lina connaît déjà ses préférences. Gaëlle aimerait que l’équipe partage assez bien le travail pour qu’elle puisse aussi partir à l’heure du cinéma.",
+  "profile_topics": [
+    "Trouble neurologique fonctionnel",
+    "Faiblesse motrice involontaire",
+    "Difficultés de marche",
+    "Signes cliniques positifs",
+    "Rééducation et aménagements"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "gaelle-chaise-pres-du-bac",
+      "title": "Une chaise à l’endroit où le travail commence",
+      "description": "Gaëlle veut reprendre l’accueil à l’atelier. Au bout de l’allée, sa jambe cède et la seule chaise libre se trouve derrière les manteaux.",
+      "context": "Un jeudi soir, pendant les préparatifs de la journée portes ouvertes",
+      "topics": [
+        "Faiblesse fonctionnelle",
+        "Retentissement dans l’atelier",
+        "Aménagement du poste"
+      ],
+      "clinical_focus": "Une faiblesse motrice involontaire",
+      "clinical_intro": "Gaëlle connaît le travail de l’argile et veut accueillir les visiteurs à la prochaine ouverture de l’atelier. Par moments, sa jambe gauche soutient moins bien son poids. Son trouble neurologique fonctionnel est déjà diagnostiqué. Ce jeudi, elle veut pouvoir s’asseoir là où elle travaille et poursuivre une discussion que tout le monde avait remise à plus tard.",
+      "opening": "Gaëlle a apporté trois petites tasses ratées dans une boîte à œufs dont elle a découpé les séparations. La première a une anse trop courte. La deuxième est légèrement ovale. Dans la dernière, un pouce est resté visible dans la glaçure, à l’endroit où elle l’avait tenue pour plonger le bord. Elle veut installer les trois près de l’entrée pour que les visiteurs de la journée portes ouvertes aient une question à poser dès qu’ils arrivent. Rachid en prend une et la tourne dans la lumière. Il demande si elle accepterait de faire l’accueil. Gaëlle a attendu qu’il le propose. Elle aurait pu le dire plus tôt, seulement les dernières réunions avaient toutes fini par parler de ses déplacements.\n\nEn longeant le grand bac, elle sent que sa jambe gauche porte mal son poids. Elle remet la boîte sur un rayonnage et prend appui sur le bord de la table. Lina a vu le mouvement. Elle reste à un pas et lui propose la chaise du fond. La chaise est derrière quatre manteaux et le sac de quelqu’un qui est parti acheter du pain. Gaëlle imagine les cinq minutes qu’il faudrait pour la sortir et les gens qui répéteraient que ça va aller. Elle demande plutôt qu’on rapproche le siège en bois de la table d’accueil.\n\nRachid lui dit qu’il l’a vue marcher sans s’arrêter en arrivant. Sa remarque ressemble à une demande d’explication. Gaëlle regarde les tasses. Il y a quelques années, ils avaient passé une soirée entière à discuter de la place de la caisse pour faciliter le travail du samedi. Elle aimerait qu’on accorde au siège le même temps qu’à cette caisse.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand la jambe soutient moins bien le poids",
+          "text": "Chez Gaëlle, le trouble neurologique fonctionnel se manifeste notamment par une faiblesse involontaire de la jambe gauche. Elle veut continuer son déplacement et son mouvement répond moins bien. L’équipe de soins a examiné ces difficultés avant de retenir le diagnostic. Elles ont des conséquences concrètes à l’atelier, où il faut parfois rester debout, parcourir une allée et porter des objets fragiles. À la table, Gaëlle se sert du bord pour se stabiliser. Elle garde assez de disponibilité pour suivre la discussion et sait exactement où elle voudrait poser ses tasses."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Deux moments d’un même déplacement",
+          "text": "Rachid a effectivement vu Gaëlle entrer en marchant. Lina l’a vue poser la boîte lorsque sa jambe la soutenait moins. Ces observations décrivent deux moments. L’intensité d’un symptôme fonctionnel peut varier, et cette variation n’exige aucune explication improvisée à l’atelier. Gaëlle ressent surtout de l’agacement quand une observation familière efface la suivante. Elle se retient de reprendre la boîte pour prouver qu’elle en est capable. Ce geste ajouterait du risque pour les tasses et l’éloignerait de sa vraie question, celle de la place qu’elle peut tenir à l’accueil."
+        },
+        {
+          "role": "strategies",
+          "heading": "Décider où s’asseoir avant l’ouverture",
+          "text": "Gaëlle demande une assise stable à proximité et un passage sans caisse entre la porte et la table. Elle veut discuter du placement avec Lina parce qu’une chaise tournée vers les étagères la couperait de ceux qui entrent. Rachid connaît les contraintes de circulation et peut proposer une disposition. Gaëlle garde la main sur la décision de se lever et sur la durée de sa présence. Le choix d’un poste lui permet d’utiliser ce qu’elle sait faire. Elle entend les gens hésiter devant un objet et trouve généralement une manière de les faire parler."
+        }
+      ],
+      "ending_title": "L’anse trop courte",
+      "ending": "Rachid soulève le siège par le dossier et le rapproche du bout de la table. Gaëlle s’assoit et demande encore un quart de tour pour voir la porte. Puis elle sort la tasse à l’anse trop courte. Lina essaie de la prendre et se met à rire. Sur le plan que Rachid a posé à plat, Gaëlle inscrit au crayon « accueil et motifs ». Elle garde un cercle vide à côté pour le siège.",
+      "mirror": [
+        "Lina a trouvé une façon de proposer son aide en se tenant à portée de voix. Rachid peut, lui, partir de la demande qu’il vient d’entendre et vérifier avec Gaëlle où placer le siège. S’il est surpris par la différence entre deux moments, il peut garder cette surprise pour plus tard. L’accueil est un travail qu’ils organisent ensemble. Gaëlle a aussi quelque chose à lui apprendre sur les gens qui franchissent leur porte."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nielsen-tnf-consensus"
+      ],
+      "continuity": {
+        "choice": "Gaëlle demande une assise stable au poste d’accueil et prend en charge les objets qui serviront à ouvrir la discussion.",
+        "next": "Lors du suivi en neurologie, elle veut pouvoir expliquer ce qui a été observé sans raconter toute son histoire."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "gaelle-ce-que-lexamen-montre",
+      "title": "Ce que l’examen permet de comprendre",
+      "description": "Lors d’un suivi en neurologie, Gaëlle revient sur le signe observé à l’examen. Elle veut des mots qui lui permettent de le comprendre et de choisir.",
+      "context": "Au cabinet de neurologie, quelques jours après les premiers plans de l’atelier",
+      "topics": [
+        "Signes cliniques positifs",
+        "Mouvement volontaire et automatique",
+        "Dialogue diagnostique"
+      ],
+      "clinical_focus": "Des signes recherchés en consultation",
+      "clinical_intro": "Gaëlle a retenu que le neurologue avait observé sa jambe dans plusieurs situations, sans bien comprendre ce que cette différence lui apprenait. Lors d’un rendez-vous de suivi, elle lui demande de reprendre son explication. Le diagnostic de trouble neurologique fonctionnel peut s’appuyer sur des signes cliniques précis que le médecin interprète avec l’ensemble de l’évaluation.",
+      "opening": "Dans la salle d’attente, Gaëlle essaie de retenir la phrase qu’elle voulait dire au docteur Benali. À son premier rendez-vous ici, il y a des mois, elle s’était préparée à raconter ses chutes dans l’ordre. Elle avait tenu une liste et placé une croix devant celle qui avait eu lieu chez elle, quand personne ne pouvait préciser ce qu’il avait vu. Le médecin lui avait posé des questions puis avait examiné la façon dont sa jambe bougeait. Il avait expliqué le diagnostic et proposé un suivi. À la sortie, elle avait su redire le nom du trouble. Le reste se dérobait chaque fois qu’elle essayait de l’expliquer à quelqu’un.\n\nCe matin, elle a pris l’enveloppe contenant son ancien compte rendu. Elle s’est promis de demander une pause si la conversation devient trop rapide. Dans le cabinet, elle commence par parler de l’atelier. Elle raconte la boîte d’œufs, le siège et la remarque de Rachid sur son arrivée. Puis elle sort la feuille, froissée au milieu à force de la plier au même endroit.\n\nLe médecin retrouve dans son dossier les observations du premier examen. Gaëlle se rappelle un moment où il lui avait demandé un mouvement et où elle avait senti sa jambe répondre à peine. Pendant une autre partie de l’examen, elle avait senti de la force revenir dans cette même jambe sans avoir décidé de la mobiliser de cette façon. Elle s’était demandé si elle avait simplement mieux compris la consigne. Aujourd’hui, avant que le médecin tourne la page, elle lui demande pourquoi cette différence avait retenu son attention.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La différence observée fait partie du raisonnement",
+          "text": "Le neurologue explique qu’il cherchait des signes susceptibles d’étayer une faiblesse fonctionnelle. Certaines comparaisons faites dans un examen neurologique permettent d’observer ce que produit le mouvement demandé et ce qui apparaît de façon plus automatique. Pour Gaëlle, un écart précis entre ces situations était informatif. Le médecin l’a interprété avec ce qu’elle décrivait, les autres signes de l’examen et les investigations adaptées à son cas. Un compte rendu d’imagerie rassurant répond à certaines questions. Le diagnostic fonctionnel, lui, s’appuie sur des éléments cliniques que le médecin peut décrire."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Sentir une force revenir sans l’avoir commandée",
+          "text": "Gaëlle avait longtemps entendu « si tu peux le faire à un moment, tu peux le refaire ». Son souvenir de l’examen est plus compliqué. Elle a essayé de produire un mouvement, puis sa jambe a répondu autrement quand la situation a changé. Elle n’avait choisi ni la faiblesse ni cette réponse plus facile. Le médecin rappelle que cet exemple concernait un examen précis. Un proche qui la voit marcher mieux au retour d’une course ne dispose pas des conditions nécessaires pour en tirer la même conclusion. Ce que Gaëlle comprend aujourd’hui lui donne surtout des mots pour décrire son expérience."
+        },
+        {
+          "role": "strategies",
+          "heading": "Demander des précisions à la personne qui a examiné",
+          "text": "Elle fait relire au médecin ce qu’elle a noté. Sa première phrase réduit le diagnostic à « ils n’ont rien vu sur les images ». Elle la barre. Elle écrit que l’examen a montré une différence dans la façon dont certains mouvements se produisaient, et que ses difficultés de marche ont été prises en compte. Elle demande aussi comment joindre l’équipe si les symptômes changent. Pour l’atelier, elle préfère donner les informations sur le poste dont elle a besoin. Son compte rendu reste disponible pour son suivi et la rééducation."
+        }
+      ],
+      "ending_title": "La phrase dans l’enveloppe",
+      "ending": "Sur le palier, Gaëlle relit sa nouvelle phrase en silence. Le papier tient cette fois sans qu’elle replie la feuille en quatre. Elle téléphone à Aïcha pour confirmer leur prochain rendez-vous. Elle veut lui parler du parcours qui va de la porte au bac, et de l’endroit où elle souhaiterait pouvoir mettre son tablier sans porter en même temps la boîte des visiteurs.",
+      "mirror": [
+        "Si Gaëlle choisit de parler du rendez-vous, une personne proche peut lui demander ce que l’explication a changé pour elle. La conversation peut rester sur l’aménagement dont elle a parlé en premier. Lina pourrait demander « Tu veux qu’on garde cette place libre le long de l’allée ? » Un récit d’examen appartient à la personne qui l’a vécu et peut rester confidentiel. L’aide à l’atelier dépend de ce qu’elle demande sur place, qu’elle partage ou garde le détail de son dossier."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nielsen-tnf-consensus"
+      ],
+      "continuity": {
+        "choice": "Gaëlle obtient une explication du signe observé et choisit de séparer son dossier médical des informations utiles à l’équipe bénévole.",
+        "next": "Elle propose à Aïcha de travailler sur un objectif lié au parcours jusqu’à sa table."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "gaelle-un-tablier-a-portee",
+      "title": "Un tablier à portée de main",
+      "description": "En séance, Gaëlle veut travailler un déplacement qu’elle fait à l’atelier. Avec Aïcha, elle précise ce qu’elle voudrait pouvoir décider elle-même.",
+      "context": "Dans la salle de kinésithérapie, lors d’une séance déjà programmée",
+      "topics": [
+        "Objectif de rééducation",
+        "Attention et mouvement",
+        "Décisions partagées"
+      ],
+      "clinical_focus": "Rééducation adaptée à un objectif",
+      "clinical_intro": "En rééducation, Gaëlle apporte un problème très concret. Son tablier est suspendu à une extrémité de l’atelier et les visiteurs arrivent de l’autre côté. Aïcha l’aide à préciser ce qu’elle veut retrouver et à choisir une activité adaptée à ce qu’elle peut faire ce jour-là. L’objectif de Gaëlle mêle déplacement, confort et liberté de décider.",
+      "opening": "Pour montrer où pend son tablier, Gaëlle a dessiné le plan de l’atelier au dos d’une enveloppe. La porte est trop grande et le four trop petit. Aïcha le remarque et lui demande si le four pourrait tenir dans une boîte à chaussures. Gaëlle répond qu’elle en commanderait un pour chez elle s’il existait. À la maison, sa seule place pour l’argile est une planche sous l’évier, qu’elle tire quand elle veut réparer l’anse d’un pot ou faire une empreinte.\n\nElle montre les deux portants. Le tablier est au second, près de la porte de la réserve. Avant, elle entrait, l’enfilait et ressortait en tenant dans une main la boîte de ce qu’elle avait apporté. Depuis que sa marche s’est compliquée, elle laisse d’abord la boîte sur la table puis doit refaire un bout du trajet. Quand quelqu’un va chercher le tablier pour elle, il revient parfois avec celui de Lina. Elle raconte cette scène avec une imitation du nœud impossible à ouvrir. Aïcha écoute jusqu’au bout puis lui demande ce qu’elle aimerait changer en premier.\n\nGaëlle commence à dire qu’elle aimerait marcher normalement. Elle s’interrompt. Ce qu’elle veut à l’ouverture, c’est accueillir les personnes qui posent des questions sur l’argile et garder la possibilité d’aller vers la réserve si elle s’en sent capable. Aïcha lui propose de travailler une partie du déplacement dans la salle, avec les appuis qu’elles ont prévus ensemble. Gaëlle regarde son plan. Elle demande s’il serait aussi possible de rapprocher le tablier, histoire de garder son énergie pour une décision qui l’intéresse davantage.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le déplacement que Gaëlle a envie de travailler",
+          "text": "Une prise en charge des symptômes moteurs fonctionnels peut inclure de la kinésithérapie. L’approche se discute selon la présentation, les capacités du moment, les risques et les objectifs de la personne. Aïcha et Gaëlle choisissent un déplacement qui a un sens dans son quotidien. Elles abordent aussi les manières de réduire les allers-retours imposés par l’aménagement. Ce choix permet de travailler sur la marche et sur l’activité que Gaëlle veut reprendre. Les deux objectifs peuvent évoluer à des vitesses différentes."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce que l’attention peut changer dans une tâche",
+          "text": "Quand Gaëlle se concentre sur la sensation de sa jambe, le déplacement lui demande beaucoup d’effort. Dans une tâche préparée par Aïcha, une partie du mouvement est parfois plus aisée lorsque le but de l’action occupe davantage son attention. La kinésithérapeute observe comment cela se passe dans cette séance et choisit la suite avec elle. Un changement pendant l’activité ne garantit pas le même effet ailleurs. Gaëlle lui dit qu’elle commence à avoir besoin de s’asseoir. Aïcha raccourcit la séance et lui demande ce qu’elle retient de ce qu’elles ont observé."
+        },
+        {
+          "role": "strategies",
+          "heading": "Garder deux décisions ouvertes",
+          "text": "Gaëlle retient qu’elle peut travailler sur un trajet et déplacer le tablier. Aïcha lui demande quelle option la rendrait plus libre si sa jambe portait moins bien au moment d’arriver. Elles conviennent de revoir l’objectif après le prochain passage à l’atelier et de parler aussi de la fatigue qui accompagne ses déplacements certains jours. L’essai se déroule dans le cadre de son suivi. La qualité de la séance tient à ce qu’elles apprennent sur ses possibilités et à ce que Gaëlle souhaite encore faire en sortant."
+        }
+      ],
+      "ending_title": "Le crochet bleu",
+      "ending": "Gaëlle envoie à Lina une photo du plan en entourant le premier portant. Elle lui demande si un crochet bleu peut y rester libre. Elle descend ensuite vers la cour, où quelqu’un a laissé des plants de basilic à partager. Elle en choisit un pour sa cuisine. Avant de repartir, elle écrit au dos de l’enveloppe le nom du marchand qui fournit l’argile blanche qu’elle aime.",
+      "mirror": [
+        "Lina peut participer en réservant le crochet et en demandant à Gaëlle si la nouvelle place lui convient. Cette aide a sa propre utilité, même les jours où Gaëlle fait davantage de trajets. Si Gaëlle raconte sa séance, Lina peut l’écouter avec la même curiosité qu’elle met à parler d’une glaçure. À elles deux, elles savent aménager un coin de l’atelier qui permet de faire plus de choses avec les moyens du jour."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nielsen-tnf-consensus",
+        "physio4fmd"
+      ],
+      "continuity": {
+        "choice": "Gaëlle précise son objectif avec Aïcha et demande de rapprocher le tablier du poste d’accueil.",
+        "next": "Sur un trajet avec sa sœur Maud, elle doit décider de ce qu’elle veut faire lorsque sa marche change."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "gaelle-quai-au-milieu-du-trajet",
+      "title": "Un quai au milieu du trajet",
+      "description": "Après avoir traversé le marché avec Maud, Gaëlle marche plus difficilement à la descente du tram. Toutes deux ont des envies pour la suite du trajet.",
+      "context": "Un samedi après-midi, au retour du marché avec Maud",
+      "topics": [
+        "Fluctuation des symptômes moteurs",
+        "Coût d’un déplacement",
+        "Aide sur demande"
+      ],
+      "clinical_focus": "Une marche qui varie en route",
+      "clinical_intro": "Au retour du marché, la fin du trajet demande tout à coup plus d’effort à Gaëlle. Sa jambe soutient moins bien ses pas et elle veut trouver un siège sur le quai. Maud se souvient qu’elles ont traversé les allées plus facilement une heure plus tôt. Une journée de symptômes fonctionnels peut comporter des moments très différents.",
+      "opening": "Maud a acheté du cumin qu’elle ne sait pas encore dans quel plat mettre. Elle tend le sachet à Gaëlle à la sortie du marché pour lui faire sentir la différence avec celui qu’elles ont dans le placard. Au bout de l’allée, elles s’arrêtent pour regarder le programme du cinéma de quartier. Il y a une séance à dix-huit heures du film dont Gaëlle lui a parlé mercredi. Elles décident de se retrouver devant la salle après avoir posé leurs sacs. Gaëlle aimerait avoir le temps de se changer, surtout depuis qu’elle a renversé sur son manteau un peu de terre sèche restée au fond de sa poche.\n\nLe tram est assez vide pour qu’elles se tiennent près de la porte. À leur arrêt, Gaëlle descend, avance de deux pas et a du mal à charger son poids sur la jambe gauche. Elle s’immobilise sur le quai avec le sac de courses contre le ventre. Maud descend derrière elle et propose de finir à pied par la rue du canal. Elle n’a pas vu tout de suite pourquoi Gaëlle s’était arrêtée. Au marché, elles venaient de marcher d’un étal à l’autre en continuant leur conversation.\n\nLe tram s’éloigne. Gaëlle voit un banc contre l’abri et mesure les mètres qui l’en séparent. Elle se met en colère en découvrant qu’elle est déjà en train de calculer comment cacher son effort à sa sœur. Le banc est suffisamment près pour en parler avant de bouger. Elle lui dit qu’elle a besoin de poser le sac et de s’asseoir un moment. Maud replie le programme qu’elle avait pris au marché.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "D’un bout du trajet à l’autre",
+          "text": "Un trouble neurologique fonctionnel moteur peut se manifester différemment d’un moment à l’autre. En descendant du tram, Gaëlle éprouve à nouveau la faiblesse connue de sa jambe. Le trajet du marché reste un souvenir juste, et l’arrêt sur le quai est tout aussi réel. Dans la vie courante, plusieurs éléments peuvent changer en même temps, comme la tâche, l’environnement, les efforts déjà fournis ou ce que la personne ressent. La scène ne permet pas de savoir ce qui explique la variation. Gaëlle peut agir sur les conditions du trajet même sans avoir cette réponse."
+        },
+        {
+          "role": "manifestations",
+          "heading": "La gêne d’être surprise devant sa sœur",
+          "text": "Gaëlle pense d’abord aux passants et à la remarque que Maud pourrait lui faire. Elle aimerait pouvoir rester la sœur qui a trouvé un film et choisi le bon marchand. Demander un banc lui donne la sensation de devoir annoncer un changement plus grand que les quelques mètres à parcourir. Maud, de son côté, a encore son projet de longer le canal. La difficulté de Gaëlle touche sa marche et la façon dont les deux femmes négocient leurs envies sur le moment. Ce sont deux choses dont elles peuvent parler."
+        },
+        {
+          "role": "strategies",
+          "heading": "Refaire le plan du jour à deux",
+          "text": "Maud propose de prendre le sac. Gaëlle lui demande d’en garder seulement la partie la plus lourde, qu’elle pourra venir chercher plus tard. Sur le banc, elles vérifient l’horaire du prochain tram et la possibilité de se retrouver directement au cinéma. Gaëlle choisit de rentrer par le chemin qu’elle connaît avec un arrêt possible. Maud fera son détour seule. Elles se laissent jusqu’à dix-sept heures pour décider de la séance. La sœur peut garder une marge sur sa soirée pendant que Gaëlle choisit la suite de son trajet."
+        }
+      ],
+      "ending_title": "Le sachet dans la poche",
+      "ending": "Maud récupère le bocal et laisse le cumin à Gaëlle pour que les deux sacs restent légers. Elles se séparent au coin du quai. Un peu avant dix-sept heures, Gaëlle propose le film du mardi, dans une salle plus proche de chez elle. Maud lui envoie une photo du dîner qu’elle a commencé à cuisiner. Sur le rebord de la fenêtre, le sachet de cumin attend déjà que Gaëlle lui trouve une recette.",
+      "mirror": [
+        "Maud peut reconnaître le changement du trajet avec une question concrète. « Tu veux que je prenne une partie des courses ou qu’on reste ici un moment ? » Elle peut ensuite parler de son propre détour ou du film qu’elle espère voir. Ces deux sujets peuvent coexister. La qualité de leur échange tient à la place laissée aux deux personnes et à la possibilité d’ajuster une décision prise une heure plus tôt."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nielsen-tnf-consensus"
+      ],
+      "continuity": {
+        "choice": "Gaëlle dit qu’elle veut s’asseoir, répartit les courses avec Maud et décale le cinéma.",
+        "next": "Au prochain rendez-vous des bénévoles, elle précise ce que Lina peut proposer si elle a besoin d’une pause."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "gaelle-ce-qui-va-sur-le-plan",
+      "title": "Ce que chacun a besoin de savoir",
+      "description": "Lina écrit aux bénévoles au sujet de l’accueil. Gaëlle veut que la chaise et les relais figurent dans le plan sans y joindre son dossier médical.",
+      "context": "À la table d’accueil, devant le brouillon d’un message à l’équipe",
+      "topics": [
+        "Confidentialité du diagnostic",
+        "Appuis convenus",
+        "Autonomie à l’atelier"
+      ],
+      "clinical_focus": "L’aide dont les détails se négocient",
+      "clinical_intro": "Les bénévoles doivent savoir comment organiser le poste d’accueil et se relayer pendant l’ouverture. Gaëlle peut leur transmettre ces informations sans raconter sa consultation. Elle relit le message de Lina et découvre que leur accord sur les pauses mérite d’être précisé. Elle veut que chacun sache ce qu’il peut faire si elle demande un coup de main.",
+      "opening": "Lina lit à voix haute le message qu’elle s’apprête à envoyer au groupe. Elle a expliqué que la caisse resterait près du four éteint et que la réserve serait accessible uniquement aux bénévoles. Puis elle a écrit que la chaise de l’accueil devait rester disponible en raison du problème neurologique de Gaëlle. Avant d’appuyer sur la touche, elle se tourne vers elle. Le soleil donne à l’écran un reflet dans lequel Gaëlle voit les deux visages côte à côte.\n\nElles ont déjà parlé du diagnostic en revenant ensemble d’une séance, un jour où Gaëlle avait eu envie de se confier. Elle avait apprécié que Lina lui demande avant de porter sa boîte, et qu’elle se rappelle qu’elle préfère s’appuyer sur une surface stable quand sa jambe devient moins sûre. Dans le groupe des bénévoles, elle ne sait pas encore à qui elle voudra parler de l’examen. Elle voit surtout des gens qui ont besoin de savoir dans quel coin apporter l’eau et à quel moment prendre la relève.\n\nGaëlle lit le message une seconde fois. Lina lui demande si elle s’est trompée de mot. Gaëlle dit que l’information est juste, puis demande de l’effacer. Elle prend le crayon laissé sur le plan et dessine deux places à la table d’accueil. Avec une deuxième personne, elle peut faire une pause en laissant quelqu’un expliquer le motif qu’un visiteur est en train de choisir. Lina pose son téléphone et lui demande de lui montrer comment elle imagine les premières minutes.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que dit le diagnostic et ce qu’organise l’atelier",
+          "text": "Le diagnostic de trouble neurologique fonctionnel aide l’équipe de soins et Gaëlle à comprendre une partie de ses difficultés. Pour les bénévoles qui vont déplacer une chaise, les informations nécessaires sont différentes. Ils ont besoin de savoir où elle doit rester et comment laisser le passage libre. Gaëlle peut avoir envie de raconter davantage à quelqu’un et garder son choix pour une autre occasion. Une confidence faite à Lina a eu lieu dans leur relation. L’étendre à tout le groupe modifierait l’usage de cette information et le nombre de personnes qui la possèdent."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Quand on cherche sa place au milieu d’une tâche",
+          "text": "Au poste d’accueil, Gaëlle veut pouvoir continuer une conversation assise. Si sa jambe devient moins fiable pendant un déplacement, elle veut que la personne à côté lui laisse dire quelle aide lui convient. En cas de pause, elle souhaite que le relais sache quel matériel remettre à un visiteur sans lui demander de se relever. Elle explique à Lina le moment où tout se complique pour elle, quand un plateau encombre le chemin et que quelqu’un veut prendre son bras avant qu’elle ait pu répondre. Lina comprend mieux la différence entre être disponible et agir à sa place."
+        },
+        {
+          "role": "strategies",
+          "heading": "Écrire des consignes que chacun peut utiliser",
+          "text": "Elles rédigent ensemble une phrase sur les deux places et une autre sur le passage entre les tables. Gaëlle préfère convenir oralement, avec les personnes concernées, de l’aide qu’elle souhaite pendant les difficultés habituelles déjà discutées avec son équipe de soins. Lina demande ce qu’elle peut dire si un autre bénévole veut connaître le motif de la chaise. Elles s’entendent sur une réponse simple, l’accueil a besoin de deux postes et l’un des sièges doit rester disponible. Ce plan permet aussi à Lina de quitter la table à l’heure prévue pour préparer ses propres pièces."
+        }
+      ],
+      "ending_title": "Deux prénoms sur le brouillon",
+      "ending": "Lina remplace la phrase sur le diagnostic par les horaires de relais. Gaëlle ajoute qu’elle voudrait que le premier groupe puisse toucher l’échantillon avant d’entendre parler de cuisson. Lina propose une variante avec un bol déjà cuit. Elles en choisissent un ensemble et découvrent qu’il porte une date vieille de sept ans. Le message part avec la photo du bol et un appel à réserver la deuxième place.",
+      "mirror": [
+        "Lina peut demander à Gaëlle quelles informations elle souhaite transmettre et à qui. L’accord peut être différent en tête-à-tête et sur le groupe de l’association. Elle peut aussi dire de combien de temps elle dispose pour prendre le relais. En distinguant ces questions, elles peuvent se faire confiance sans devoir déduire les besoins de l’autre à partir de son silence."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nielsen-tnf-consensus"
+      ],
+      "continuity": {
+        "choice": "Gaëlle retire son diagnostic du message collectif et rend explicites les deux postes et la rotation.",
+        "next": "À la séance de cinéma reprogrammée, une question de Maud lui donne envie de clarifier les mots employés pour son trouble."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "gaelle-mots-du-diagnostic",
+      "title": "Les mots qui dépassent la consultation",
+      "description": "Maud tombe sur le mot « dissociatif » et demande ce qu’il désigne. Gaëlle cherche une réponse qui ne transforme pas sa vie en explication.",
+      "context": "Devant le cinéma de quartier, après la séance reportée du samedi",
+      "topics": [
+        "Deux classifications diagnostiques",
+        "Origines diverses ou incertaines",
+        "Écoute entre proches"
+      ],
+      "clinical_focus": "Un diagnostic dont le nom varie",
+      "clinical_intro": "Maud veut comprendre pourquoi elle a lu le mot « dissociatif » à propos du trouble de Gaëlle. Selon la classification, le nom et le chapitre du diagnostic changent. La question fait aussi surgir l’idée d’un traumatisme. Gaëlle préfère revenir à ce qui a été observé chez elle et à ce que son médecin a pu lui expliquer.",
+      "opening": "Le film s’est terminé sur une scène de cuisine où personne n’a touché au gâteau. Gaëlle et Maud restent quelques minutes devant la salle pour se disputer sur le sort de la boîte en carton posée près de la porte. Maud est sûre qu’elle contenait les lettres du père. Gaëlle dit qu’il y avait simplement les bougies et que sa sœur est capable de repérer un secret dans un tiroir vide. Elles décident d’aller boire quelque chose avant de rentrer. Le café en face affiche encore la carte d’été alors qu’il fait déjà froid.\n\nÀ table, Maud demande si elle peut poser une question qu’elle garde depuis samedi. Gaëlle range son billet dans la poche intérieure de son manteau. Sa sœur a cherché le terme que Gaëlle lui avait donné et a vu passer l’expression « trouble dissociatif à symptômes neurologiques ». Elle voulait savoir si le mot dissociatif impliquait un traumatisme que Gaëlle aurait oublié. Elle précise tout de suite qu’elle a peut-être mélangé plusieurs pages. Gaëlle commence par lui répondre qu’elle l’ignore. Elle sait, en revanche, que le diagnostic a été discuté à partir de ce qui se passait dans sa jambe et que Benali n’a jamais présenté une histoire d’enfance comme l’explication de ce qui lui arrive.\n\nLe serveur pose les deux tasses au bord de la table. Gaëlle en rapproche une de sa sœur. Elle lui demande si la question vient de ce qu’elle a lu ou de quelque chose qu’elle a cru voir chez elle. Maud répond qu’elle avait surtout eu peur d’avoir manqué un épisode important de sa vie.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Deux manuels, deux façons de regrouper les diagnostics",
+          "text": "Dans la CIM-11 de l’Organisation mondiale de la santé, la famille du trouble dissociatif à symptômes neurologiques porte le code 6B60 et figure parmi les troubles dissociatifs. Le DSM-5-TR de l’Association américaine de psychiatrie utilise l’intitulé trouble à symptomatologie neurologique fonctionnelle et place l’ancien terme de trouble de conversion entre parenthèses, dans un chapitre consacré aux troubles à symptomatologie somatique et apparentés. Chaque manuel a son propre regroupement et ses propres critères. Pour comprendre le cas de Gaëlle, les observations de son médecin et le contexte de son évaluation restent nécessaires."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce que Gaëlle sait de sa propre histoire",
+          "text": "Le diagnostic de Gaëlle concerne une difficulté réelle et involontaire de mouvement. Des facteurs de nature différente peuvent être présents selon les personnes et le début des symptômes peut rester sans explication claire. Une histoire traumatique peut compter pour certaines personnes. Elle ne fait pas partie des conditions requises pour poser le diagnostic. Dans cette conversation, Gaëlle éprouve de la tendresse pour l’inquiétude de Maud et un peu de lassitude à l’idée de devoir fournir une cause. Ces émotions décrivent ce qu’elle vit à la table du café."
+        },
+        {
+          "role": "strategies",
+          "heading": "Laisser la conversation revenir à ce qui aide",
+          "text": "Gaëlle propose à Maud de lui montrer plus tard ce qu’elle a noté après le rendez-vous, si toutes les deux en ont encore envie. Elle veut garder pour la consultation les questions sur les observations et les termes du compte rendu. Ce soir, elle peut dire ce qu’elle sait et laisser la question d’une cause ouverte. Maud lui demande si elles peuvent encore se retrouver comme prévu devant les salles quand un film l’intéresse. Gaëlle lui montre le programme du mois prochain et dit que la rangée près de l’allée lui convient en ce moment."
+        }
+      ],
+      "ending_title": "Les bougies dans la boîte",
+      "ending": "Maud ouvre le programme, puis pose un doigt sur une affiche où deux femmes regardent un orage depuis un balcon. Gaëlle dit qu’elles devraient choisir celui-là avant que sa sœur invente une histoire sur leurs voisins. Elles sortent en reparlant des bougies. Dans la rue, Maud propose de marcher avec elle jusqu’au coin éclairé. Gaëlle accepte la compagnie et Maud lui raconte qu’elle a finalement mis le cumin dans une soupe.",
+      "mirror": [
+        "Maud peut reconnaître qu’une lecture a déclenché sa question et qu’elle a associé deux idées. Elle peut laisser Gaëlle choisir les détails de santé dont elles parlent. Si le sujet revient, la même curiosité peut servir à comprendre ce que sa sœur demande pour une sortie. Une question sur la place au cinéma laisse de la place à une réponse que Gaëlle peut donner sans avoir à expliquer toute l’origine de ses symptômes."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nielsen-tnf-consensus",
+        "apa-dsm-tnf",
+        "apa-dsm-organisation"
+      ],
+      "continuity": {
+        "choice": "Gaëlle distingue le nom du trouble de la recherche d’une cause et partage avec Maud les informations qui lui conviennent.",
+        "next": "Après un passage à l’atelier plus exigeant que prévu, elle cherche un moyen d’en parler avec Aïcha."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "gaelle-lendemain-des-plaques",
+      "title": "Le travail qui reste après avoir rangé",
+      "description": "Gaëlle tient à finir les plaques pour l’accueil. Le lendemain, la faiblesse habituelle prend plus de place et Aïcha l’aide à revoir son programme.",
+      "context": "Après une soirée à l’atelier, puis en séance de kinésithérapie",
+      "topics": [
+        "Retentissement différé",
+        "Adaptation des objectifs",
+        "Observations de suivi"
+      ],
+      "clinical_focus": "Des capacités qui varient selon les jours",
+      "clinical_intro": "Gaëlle reste un peu plus longtemps à l’atelier pour finir les essais d’empreinte. Le lendemain, les déplacements lui demandent davantage d’effort. En séance, elle choisit des détails utiles pour raconter ce qui s’est passé. Aïcha l’aide à distinguer ce qu’elles ont pu observer de ce qu’elles supposent, puis à trouver un engagement qu’elle pourra réviser.",
+      "opening": "Le rouleau de bois colle à la troisième plaque. Gaëlle le tourne d’un mouvement sec et la surface se déchire. Lina a dû partir et Rachid range les derniers outils. Il propose de recouvrir la plaque et de reprendre le lendemain. Gaëlle calcule qu’il lui reste le temps de refaire un bord avant la fermeture. Elle a promis d’apporter trois surfaces d’essai à la répétition et a déjà annoncé à qui irait chacune. Elle demande un quart d’heure. Rachid lui laisse la table et se met à fermer la réserve.\n\nQuand la troisième plaque est enfin couverte, Gaëlle veut sortir en emportant aussi le rouleau pour le nettoyer chez elle. En arrivant au crochet bleu, sa jambe porte moins facilement. Elle s’assoit près du tablier, retire son manteau qu’elle venait d’enfiler et demande à Rachid de garder le rouleau. Elle a envie de s’en vouloir d’avoir prolongé la soirée. En même temps, la petite plaque comporte exactement la marque irrégulière qu’elle cherchait depuis le début.\n\nLe lendemain, elle commence sa séance avec Aïcha en racontant que tout lui a coûté plus cher que prévu, jusqu’à la traversée de l’entrée de l’immeuble. Elle avait trouvé que la fatigue et la faiblesse de sa jambe se faisaient davantage sentir. Elle cherche dans son téléphone une note qu’elle avait dictée le matin, puis arrête la lecture au milieu. Dans l’enregistrement, elle dit qu’elle a « forcément fait une erreur ». Aïcha lui demande si elles peuvent reprendre les événements un par un, en commençant par ce que Gaëlle aimerait pouvoir changer.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une journée difficile apporte des renseignements partiels",
+          "text": "Le retentissement des symptômes moteurs fonctionnels peut changer au fil du temps. Gaëlle décrit un soir où son activité a duré plus longtemps, puis un matin où marcher lui a demandé davantage d’effort. La proximité de ces moments leur donne une raison d’en parler. Elle ne permet pas d’attribuer la faiblesse à un événement précis. Aïcha peut tenir compte de plusieurs dimensions, dont les tâches effectuées, la fatigue rapportée, les conditions du trajet et les signes suivis avec le neurologue. L’équipe garde une appréciation clinique de ce qui change et de ce qui demande un nouvel avis."
+        },
+        {
+          "role": "manifestations",
+          "heading": "La part du travail que les autres voient",
+          "text": "Rachid a vu trois ébauches sur la table. Gaëlle se souvient du manteau qu’elle a enlevé pour s’asseoir et du temps consacré le lendemain à traverser l’immeuble. À la fin de la soirée, elle avait surtout envie de tenir parole. La gêne à demander de l’aide et le plaisir de terminer une pièce ont pesé dans sa décision. En reprenant la scène, elle peut parler de ces émotions sans leur demander d’expliquer le trouble. Elle aimerait garder le plaisir des plaques et partager ce qui lui a demandé davantage d’effort."
+        },
+        {
+          "role": "strategies",
+          "heading": "Limiter la promesse et revoir le reste ensemble",
+          "text": "Aïcha lui propose de choisir une information concrète à garder pour la prochaine séance. Gaëlle note qu’elle a pu demander à Rachid de laisser le rouleau à l’atelier et que le siège près du crochet lui a servi. Elle décide de se charger de la version définitive d’une seule plaque et de confier les deux autres aux bénévoles. L’évolution de sa marche reste un sujet du suivi. Les objectifs et les bénéfices possibles de la rééducation varient, et l’organisation de la répétition peut changer dès maintenant."
+        }
+      ],
+      "ending_title": "Une plaque à la fois",
+      "ending": "Avant de sortir, Gaëlle envoie la photo de sa petite plaque au groupe. Elle écrit qu’elle préparera la version rayée et cherche deux personnes pour les surfaces lisse et granuleuse. Rachid répond avec l’image d’un bout de tissu qui fera peut-être l’affaire. Gaëlle reconnaît le torchon qu’il a toujours dans sa poche. Elle lui demande de l’essayer et de garder la surprise jusqu’à la répétition.",
+      "mirror": [
+        "Rachid peut entendre que Gaëlle a été contente du travail et fatiguée par la soirée. Il peut lui demander quelles tâches elle souhaite garder en partageant ce qu’il peut reprendre. La discussion gagne en précision quand tous deux parlent du rouleau, du temps ou du siège. La plaque réussie garde sa valeur et la journée suivante apporte une autre information sur la façon d’organiser le travail."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nielsen-tnf-consensus",
+        "physio4fmd"
+      ],
+      "continuity": {
+        "choice": "Gaëlle retient une observation pour son suivi et confie deux plaques aux autres bénévoles.",
+        "next": "Pendant la préparation de la répétition, Lina doit réagir à une difficulté soudaine que Gaëlle n’avait jamais signalée."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "gaelle-quand-les-mots-se-brouillent",
+      "title": "Quand les mots se brouillent d’un coup",
+      "description": "Alors qu’elle relit un carton avec Lina, Gaëlle a soudain du mal à parler. Lina appelle le 15 et indique à quelle heure le changement a commencé.",
+      "context": "À la table de préparation, quelques jours avant la répétition",
+      "topics": [
+        "Difficulté de parole soudaine",
+        "Évaluation urgente",
+        "Distinction avec les signes habituels"
+      ],
+      "clinical_focus": "Un symptôme neurologique nouveau",
+      "clinical_intro": "Gaëlle est suivie pour une faiblesse fonctionnelle de la jambe et des difficultés de marche. À l’atelier, sa parole change soudain, au milieu d’une conversation. Lina appelle le 15. Un signe neurologique d’apparition brutale peut demander une évaluation urgente, même quand la personne a déjà un diagnostic neurologique et même si le signe s’atténue.",
+      "opening": "Lina a apporté un feutre épais pour que les cartons de la journée soient lisibles de l’autre bout de la salle. Le premier porte « choisissez votre motif ». Gaëlle le lit en levant les yeux de la plaque rayée. Elle propose de montrer deux empreintes sous la phrase. Les visiteurs pourront choisir une surface au toucher avant de regarder celle qui leur plaît. Lina prend un rouleau de ruban et essaie d’en trouver le bout. Dans le calme de l’atelier presque vide, on entend le ventilateur de la réserve se mettre en marche.\n\nGaëlle cherche à dire où poser les empreintes. Elle sait de quel carton elle parle et elle le désigne du doigt. Les mots qu’elle commence à prononcer se brouillent soudain. Lina relève la tête. Elle vient d’entendre Gaëlle lire le premier carton avec sa voix habituelle. Elle lui demande ce qui se passe et l’entend tenter encore de former une phrase. Gaëlle est déjà assise. Lina reste près d’elle, prend son téléphone et compose le 15. Elle dit que son amie a soudain du mal à parler et donne l’adresse de l’atelier.\n\nUne horloge pend au-dessus de la réserve. Lina a envoyé une photo du carton à Rachid juste avant que Gaëlle lui réponde. Elle se sert de l’heure du message pour situer le début du changement et le précise à la personne qui lui parle au téléphone. Gaëlle entend son amie répéter le numéro de la rue. Elle pose sa main à plat sur la table et écoute la suite des consignes.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un signe soudain demande sa propre évaluation",
+          "text": "Lina connaît les difficultés de marche dont Gaëlle lui a parlé. Le trouble de la parole qu’elle vient d’entendre survient brutalement et concerne une autre fonction. La présence d’un trouble neurologique fonctionnel connu ne permet pas d’attribuer ce changement au même trouble. Une difficulté soudaine à parler fait partie des signes qui peuvent faire évoquer un AVC ou un accident ischémique transitoire. L’orientation relève du service d’urgence et l’évaluation de l’équipe médicale. En France, il faut appeler le 15 ou le 112 sans attendre dans cette situation, même si les signes diminuent."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce que Lina peut décrire sans tirer de conclusion",
+          "text": "Lina sait que Gaëlle parlait comme d’habitude pendant la lecture du carton. Elle a entendu le changement quelques instants plus tard et peut dire si Gaëlle reste éveillée et attentive. Quand la parole semble un peu plus claire, elle le signale au téléphone. Le retour partiel de la parole est une information à transmettre à l’équipe et l’évaluation se poursuit. Lina peut aussi préciser que Gaëlle est suivie pour des difficultés motrices, en distinguant cette information de ce qui vient de se produire. Ces observations seront utiles à l’orientation donnée par le médecin régulateur."
+        },
+        {
+          "role": "strategies",
+          "heading": "Suivre les consignes pendant que l’aide s’organise",
+          "text": "Lina donne le code du portail et suit les consignes que lui transmet le 15. Elle laisse le carton à sa place et reste avec Gaëlle. Lorsqu’une autre bénévole arrive, elle lui demande d’ouvrir le passage pour l’équipe envoyée par le service. Gaëlle peut prendre le temps qu’il lui faut pour répondre aux personnes qui viennent l’évaluer. Ses projets pour la répétition attendront. Pour l’instant, les gestes de Lina portent sur l’accès à l’atelier, les informations utiles et la présence qu’elle peut offrir."
+        }
+      ],
+      "ending_title": "Le carton reste sur la table",
+      "ending": "L’équipe prend le relais et organise l’évaluation à l’hôpital. Gaëlle voit Lina faire un signe vers son manteau. Elle indique la poche où se trouve son téléphone et le récupère avant de partir avec les secours. Lina prévient Rachid qu’elle ferme l’atelier et couvre les plaques. Elle s’en tient à ce que Gaëlle lui a demandé de transmettre. Le carton au feutre épais attend près du ruban.",
+      "mirror": [
+        "Au téléphone, Lina peut dire « Elle a soudain du mal à parler. Je vous donne l’adresse et l’heure où je l’ai remarqué. » Elle suit ensuite les indications du service d’urgence. Elle peut ensuite demander à Gaëlle si celle-ci veut qu’elle prévienne quelqu’un ou garde ses affaires. Les bénévoles ont besoin de savoir qui ferme l’atelier. Les soignants ont besoin de détails sur les signes. Lina peut adapter ce qu’elle dit à chacun."
+      ],
+      "sources": [
+        "oms-cddr",
+        "assurance-maladie-avc"
+      ],
+      "continuity": {
+        "choice": "Lina appelle le 15 dès la difficulté soudaine de parole. Gaëlle reçoit une évaluation urgente distincte du suivi de sa faiblesse habituelle.",
+        "next": "Après l’évaluation, Gaëlle choisit ce qu’elle veut partager et comment reprendre le contact avec l’atelier."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "gaelle-apres-le-coup-de-fil",
+      "title": "Le premier passage après l’hôpital",
+      "description": "Après l’évaluation urgente, Gaëlle retourne brièvement à l’atelier. Elle veut récupérer son travail et choisir ce qu’elle raconte aux bénévoles.",
+      "context": "De retour chez elle après l’évaluation, puis à l’atelier avant la répétition",
+      "topics": [
+        "Suite d’une évaluation urgente",
+        "Incidence émotionnelle",
+        "Reprise choisie"
+      ],
+      "clinical_focus": "Garder deux questions de santé distinctes",
+      "clinical_intro": "Après l’évaluation de sa parole aux urgences, Gaëlle suit les indications qui lui ont été données. Sa faiblesse de la jambe relève toujours du suivi prévu. En repassant à l’atelier, elle a envie de parler à Lina et de reprendre les cartons. Elle décide de ce qu’elle veut raconter sur cet épisode médical et du temps qu’elle passe sur place.",
+      "opening": "Gaëlle garde le compte rendu de l’hôpital sur le buffet, entre une enveloppe de photos et la carte du cinéma. Après l’évaluation, la médecin lui a indiqué ce qui restait à revoir et avec qui prendre rendez-vous. Elle lui a aussi donné des consignes pour demander de l’aide en cas de nouveaux signes. Gaëlle a appelé le cabinet comme prévu. En raccrochant, elle a découvert un message de Lina. L’atelier est fermé ce matin. Lina peut passer lui remettre son tablier si elle le souhaite.\n\nGaëlle pense à la poche du tablier. Elle y a laissé la petite empreinte qu’elle comptait montrer la première. Il y a aussi un morceau de ficelle qui lui avait servi à mesurer la largeur du carton. Lina propose qu’elles se voient à l’atelier, un jour où il n’y a rien à déplacer. Gaëlle accepte pour le lendemain. Elle veut prendre un café avec elle avant de retrouver tout le groupe.\n\nQuand Lina ouvre le portail, Gaëlle remarque qu’elle tient déjà le feutre épais. Elle dit que la première fois qu’elle l’a vu, elle l’a trouvé affreusement cher pour un feutre. Lina lui répond qu’il venait de son bureau et qu’elle devra le rapporter. Elles entrent. À la table, Gaëlle voit le ruban resté collé au carton et ressent de nouveau la peur du moment où sa phrase s’est défaite. Elle dit à Lina qu’elle aimerait s’asseoir et qu’elle a envie de finir leur discussion sur le premier motif.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qui relève encore d’un suivi médical",
+          "text": "Les difficultés de parole ont été évaluées en urgence et Gaëlle a des indications propres à cet épisode. Son trouble neurologique fonctionnel fait déjà l’objet d’un suivi pour sa faiblesse de la jambe et ses difficultés de marche. Le fait que ces difficultés soient déjà suivies ne renseigne pas à lui seul sur la cause de ce qui s’est passé à la table. Un trouble fonctionnel peut coexister avec d’autres problèmes de santé. Les observations et le compte rendu de l’hôpital sont utiles aux soignants qui doivent décider de la suite. Gaëlle peut reprendre des questions avec eux après être rentrée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Revoir un lieu où l’on a eu peur",
+          "text": "Le carton rappelle à Gaëlle le moment où Lina a pris le téléphone. La peur revient en regardant le ruban. En même temps, elle se souvient du choix des motifs et veut reprendre le travail entamé. Cette réaction fait partie de son retour dans le lieu. Elle peut en parler à Lina, ou garder une partie de l’expérience pour un autre moment. Sa façon d’évoquer la scène n’indique rien à elle seule sur l’origine de la difficulté de parole. Lina aussi a eu peur et peut prendre un temps pour le dire."
+        },
+        {
+          "role": "strategies",
+          "heading": "Choisir une visite courte et décider à qui parler",
+          "text": "Gaëlle précise qu’elle aimerait rester jusqu’à ce que les deux empreintes soient placées, puis rentrer. Elle demande à Lina de garder le compte rendu médical hors de la conversation avec les bénévoles. Ce que le groupe peut savoir, c’est qu’elle a reçu des soins et qu’elle reviendra pour un essai court si elle le souhaite après son prochain point médical. Lina lui demande si elle peut lui parler de l’appel, car elle l’a encore en tête. Gaëlle accepte d’en parler quelques minutes et lui dit qu’elle a entendu sa voix tout le temps."
+        }
+      ],
+      "ending_title": "Une empreinte au bord du carton",
+      "ending": "Elles essaient les deux empreintes sous le titre. La plus petite a besoin d’être rapprochée du bord pour rester visible. Lina coupe le ruban en deux et Gaëlle note la position au crayon. Elle reprend le tablier et laisse le carton posé à plat. En sortant, Lina lui demande si elle pourrait emprunter un livre dont elles ont parlé en préparant les cartons. Gaëlle l’a déjà mis dans son sac.",
+      "mirror": [
+        "Lina peut demander si Gaëlle souhaite parler du passage à l’hôpital ou reprendre d’abord les motifs. Elle peut aussi dire comment elle a vécu l’appel et choisir une autre personne pour en parler si Gaëlle préfère s’arrêter. Pour l’équipe bénévole, une information sur la présence et les tâches suffit à organiser la répétition. La suite médicale reste entre Gaëlle et les personnes qu’elle choisit d’y associer."
+      ],
+      "sources": [
+        "oms-cddr",
+        "assurance-maladie-avc",
+        "nielsen-tnf-consensus"
+      ],
+      "continuity": {
+        "choice": "Gaëlle suit les indications données à l’hôpital, revient pour une visite courte et choisit les informations communiquées au groupe.",
+        "next": "Après son point de suivi, elle reprend la répétition avec un relais à organiser sans Lina à ses côtés."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "gaelle-chacun-son-etabli",
+      "title": "Quand les relais trouvent leur place",
+      "description": "À la répétition, Lina doit s’occuper du four. Gaëlle essaie le poste d’accueil avec Rachid et lui apprend à présenter les empreintes au toucher.",
+      "context": "À la répétition des bénévoles, après le point de suivi médical de Gaëlle",
+      "topics": [
+        "Adaptation durable du poste",
+        "Participation avec symptômes",
+        "Répartition des rôles"
+      ],
+      "clinical_focus": "Un soutien qui laisse des choix",
+      "clinical_intro": "Lina connaît déjà les préférences de Gaëlle, mais elle a son propre poste le jour de l’ouverture. À la répétition, Gaëlle découvre ce qu’il faut préciser pour qu’une autre personne puisse la relayer. Les adaptations prennent leur sens dans la tâche réelle. Une chaise et un passage libre comptent, tout comme la possibilité de continuer à choisir ce qu’elle fait.",
+      "opening": "Rachid a invité les bénévoles à entrer par la porte comme s’ils découvraient l’atelier. Le premier, qui connaît déjà la place du four, demande où est le four avant de regarder les tasses. Gaëlle en déduit qu’ils auront besoin de quelqu’un qui ne connaît pas toutes les réponses. Ils essaient avec Nadège, une adhérente venue chercher une soucoupe. Elle s’arrête devant les empreintes, met ses lunettes et demande si elle peut les toucher. Gaëlle lui tend celle qui porte la marque d’un tissu à carreaux. Rachid sort de sa poche le torchon dont elle vient.\n\nLina a pris le premier relais prévu sur le papier, mais la personne chargée du four a dû quitter l’atelier. Elle part montrer l’installation à un nouveau bénévole. Pendant qu’elle est de l’autre côté de la salle, Gaëlle demande à Rachid de venir s’asseoir un instant. Il s’assied à côté de Gaëlle et commence à expliquer la cuisson. Nadège, qui attend toujours une réponse sur les empreintes, met les mains derrière le dos. Gaëlle lui demande quel motif elle choisirait si elle devait en faire un dessous de verre.\n\nÀ la fin de l’essai, Gaëlle se lève pour récupérer une plaque restée au bout de la table. Sa jambe soutient moins bien le déplacement. Elle pose la main sur le bord de la table et se rassoit. Rachid se lève à son tour et regarde vers le four pour appeler Lina. Gaëlle lui propose de rester et lui montre du doigt la plaque qu’elle voulait. Il la rapproche. Nadège demande s’ils aimeraient qu’elle refasse son entrée avec la plaque en place.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un aménagement se vérifie dans l’usage",
+          "text": "Une partie du retentissement de la faiblesse motrice de Gaëlle dépend de la tâche et de la manière dont le lieu est organisé. Le siège proche permet de poursuivre une conversation et la plaque peut rester à portée de main. Déplacer un objet ou prévoir un relais change ce que Gaëlle peut faire avec les capacités du moment. Son suivi aborde aussi ce qui se passe lorsqu’elle se déplace. L’atelier est l’endroit où elle a besoin de voir si les décisions prises rendent effectivement possible le travail qu’elle aime."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le moment où quelqu’un essaie de prendre le relais",
+          "text": "Rachid sait expliquer les températures du four. Il découvre que le premier échange à l’accueil passe parfois par une question sur une surface. Gaëlle lui fait remarquer que Nadège a reculé ses mains au début de son explication. Elle éprouve un mélange d’irritation et de fierté en parlant de ce détail. Quand sa jambe porte moins bien, l’intervention de Rachid lui permet de retrouver la plaque. Elle garde le fil avec Nadège et montre à Rachid comment proposer le choix suivant. L’aide matérielle et la responsabilité de l’accueil peuvent être partagées."
+        },
+        {
+          "role": "strategies",
+          "heading": "Préparer un relais qui fonctionne aussi pour Lina",
+          "text": "Gaëlle propose de noter en deux phrases la question qu’elle pose aux visiteurs et le choix qui vient ensuite. Rachid veut bien être la première personne qui la remplace. Il préfère connaître à l’avance le quart d’heure pendant lequel il doit rester près de la table. Lina revient et confirme qu’elle souhaite passer la première partie de l’ouverture du côté du four. Ils attribuent les rôles et laissent une plage de remplacement. Gaëlle garde la possibilité de demander un autre arrangement en fonction de ce qu’elle ressent sur place."
+        }
+      ],
+      "ending_title": "Une nouvelle entrée",
+      "ending": "Nadège ressort et referme la porte avec soin. Cette fois, Rachid lui demande ce que le motif lui rappelle. Elle répond que son père mettait une toile à carreaux sur le bureau quand il réparait un réveil. Gaëlle découvre qu’elle aurait été incapable de prévoir cette réponse. Elle écrit la question sur le carton, assez petit pour que les bénévoles soient les seuls à la voir. Puis elle échange un regard avec Rachid avant que Nadège choisisse son motif.",
+      "mirror": [
+        "Rachid peut apprendre une tâche de Gaëlle tout en l’aidant avec un objet ou un déplacement. Lina a aussi un rôle qui lui tient à cœur le jour de l’ouverture. Une rotation convenue à trois rend plus visible ce que chacun fait et ce qu’il souhaite garder. Si une demande change le jour même, le groupe peut repartir de cet accord et voir qui est disponible."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nielsen-tnf-consensus",
+        "physio4fmd"
+      ],
+      "continuity": {
+        "choice": "Gaëlle prépare la passation de l’accueil avec Rachid et confirme la place de Lina au four.",
+        "next": "Le jour de l’ouverture, elle décide du moment où elle souhaite faire usage de ce relais."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "gaelle-empreinte-a-lepreuve-du-public",
+      "title": "La première empreinte d’un visiteur",
+      "description": "Une personne raconte l’histoire d’un bol en choisissant un motif. Gaëlle veut finir de l’écouter et demande ensuite à Rachid de prendre la table.",
+      "context": "Le jour de l’ouverture, à la table des motifs",
+      "topics": [
+        "Retentissement et participation",
+        "Pause au cours d’une activité",
+        "Objectifs personnels"
+      ],
+      "clinical_focus": "Participer avec une faiblesse fluctuante",
+      "clinical_intro": "Gaëlle accueille les premiers visiteurs et découvre ce qu’ils trouvent dans ses tasses irrégulières. Après un déplacement, sa jambe porte moins bien. Elle utilise le relais convenu avec Rachid et prend une pause. La journée peut compter pour elle même si les symptômes persistent, et son envie de faire de la poterie peut cohabiter avec ses besoins de repos.",
+      "opening": "Le premier visiteur pose une petite boîte en carton devant les trois tasses. Il demande si l’une des anses a été recollée. Gaëlle lui montre la tasse qui porte l’empreinte du pouce. Elle lui raconte qu’elle la tenait par le bord en la plongeant et qu’elle a bougé trop tard pour effacer la trace. Le visiteur ouvre sa boîte. Il en sort un bol fendu qu’il gardait depuis des années dans une armoire. Le bol appartenait à son colocataire, à l’époque où ils faisaient la vaisselle chacun leur semaine. Il aimerait savoir si quelqu’un à l’atelier pourrait lui apprendre à fabriquer un bol d’une forme proche.\n\nGaëlle le laisse décrire ce qui lui plaît dans l’ancien bol. Il cherche ses mots et finit par montrer le creux de l’anse où il place ses doigts. Elle lui présente la plaque rayée et le morceau de tissu que Rachid a essayé. Il choisit le tissu parce qu’il lui rappelle la serviette dans laquelle il venait d’envelopper le bol. Au deuxième bout de la table, une personne attend un tablier. Gaëlle lui montre le crochet bleu et se lève pour reprendre le carton d’accueil que quelqu’un a recouvert de papiers.\n\nQuand elle revient vers son siège, sa jambe gauche porte moins bien. Elle parvient à se rasseoir et comprend qu’elle a besoin que Rachid arrive plus tôt que prévu. Le visiteur au bol lève la tête et commence à fermer sa boîte. Gaëlle lui demande s’il veut qu’elle regarde une dernière fois le bord avant de partir. Il tient la pièce devant elle avec les deux mains. Elle fait signe à Rachid en gardant les yeux sur le bol.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que la participation rend visible",
+          "text": "Gaëlle a une faiblesse fonctionnelle qui continue à gêner certains déplacements. Elle peut aussi accueillir une personne, lui poser des questions et l’aider à choisir une empreinte. Ces capacités ne se déduisent pas les unes des autres. En rééducation, Gaëlle avait choisi un objectif lié à sa présence à l’atelier. Elle peut en reparler avec Aïcha en précisant ce qu’elle a pu faire, le moment où elle a pris une pause et l’effort qui a accompagné les déplacements. L’issue de la journée donne plusieurs renseignements à la fois."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le moment où Gaëlle sait ce qu’elle veut finir",
+          "text": "Quand le visiteur commence à fermer sa boîte, Gaëlle a encore envie de regarder le bord du bol. En même temps, elle sait qu’elle veut s’éloigner du passage dès qu’elle aura terminé. La reprise de faiblesse modifie la durée qu’elle souhaite passer à l’accueil et le moment où elle demande le relais. Elle ressent de la déception de s’arrêter si tôt et du plaisir à entendre l’histoire du bol. Elle s’accorde le temps de regarder le détail et la possibilité de passer la suite du travail à quelqu’un."
+        },
+        {
+          "role": "strategies",
+          "heading": "Transmettre la conversation et pouvoir se retirer",
+          "text": "Gaëlle dit à Rachid ce que le visiteur cherche et rapproche du visiteur le tissu et le morceau de terre où il pourra l’imprimer. Elle demande à rester assise quelques minutes le temps que le passage se libère. Une fois dans le coin plus calme, elle décide qu’elle a assez travaillé pour ce matin. Rachid lui demande s’il peut écrire au visiteur plus tard avec une date d’initiation. Gaëlle lui donne le carnet où ils notent les demandes. Elle peut ensuite choisir de quitter l’atelier en sachant à qui revient la suite de cette conversation."
+        }
+      ],
+      "ending_title": "Un carnet près des tasses",
+      "ending": "Rachid inscrit l’histoire du bol en deux lignes. Le visiteur indique comment le joindre et pose son empreinte de tissu près du premier carton avant de repartir. Gaëlle range son tablier au crochet bleu. Sur le chemin de la sortie, Lina lui montre une soucoupe que quelqu’un a apportée pour en demander l’âge. Gaëlle prend le temps d’en regarder le revers. Elle dit qu’elle pourrait dater le tampon après déjeuner, si Lina a envie de le photographier.",
+      "mirror": [
+        "Rachid peut prendre la suite en demandant quelle information lui manque sur le visiteur. Il peut aussi laisser Gaëlle décider si elle veut finir l’échange ou se retirer tout de suite. Après l’ouverture, lui parler de l’histoire du bol donne une place à son travail. Elle pourra aussi lui dire ce qui lui a demandé trop d’effort et proposer un autre horaire pour le prochain accueil."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nielsen-tnf-consensus",
+        "physio4fmd"
+      ],
+      "continuity": {
+        "choice": "Gaëlle écoute l’histoire du bol, transmet l’accueil à Rachid et décide de partir pour se reposer.",
+        "next": "Au point suivant avec Aïcha, elle revient sur la journée et réfléchit à la place qu’elle veut donner à l’atelier."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "gaelle-dimanche-a-deux",
+      "title": "Ce que Gaëlle garde pour son dimanche",
+      "description": "Après l’ouverture, Gaëlle fait le point avec Aïcha. Elle choisit un engagement à l’atelier qui lui laisse aussi du temps pour un film avec Maud.",
+      "context": "La semaine après l’ouverture, en kinésithérapie puis au cinéma",
+      "topics": [
+        "Objectifs révisables",
+        "Vie au-delà du suivi",
+        "Continuité des soins"
+      ],
+      "clinical_focus": "Ajuster le suivi à ses priorités",
+      "clinical_intro": "La journée portes ouvertes a donné à Gaëlle des raisons de revenir. Elle a aussi découvert ce que les déplacements et la durée du poste lui demandaient. En revoyant ses objectifs avec Aïcha, elle garde une place pour ses projets à l’atelier, son suivi et un dimanche avec Maud. Ses choix peuvent évoluer avec ses symptômes et avec ses envies.",
+      "opening": "Aïcha demande à Gaëlle ce qu’elle a retenu de l’ouverture. Gaëlle commence par décrire l’anse du bol que le visiteur avait apporté. Elle attrape une feuille et trace deux arcs qui se touchent. Elle aimerait essayer cette forme un jour avec l’argile blanche. Aïcha regarde le dessin et lui demande combien de temps elle est restée à l’accueil. Gaëlle n’a pas l’heure exacte. Elle se souvient que Lina venait d’ouvrir le four éteint aux visiteurs et que Rachid avait encore son écharpe quand il a pris sa place. Elle sait aussi qu’elle était contente de rentrer avant la fin.\n\nDans le couloir, après la séance, elle lit un message de Rachid. Il cherche quelqu’un pour tenir deux créneaux le mois prochain. Il y a encore beaucoup de personnes qui ont laissé leur nom dans le carnet. La première date tombe un dimanche où Maud veut voir le film de l’orage. Gaëlle regarde la liste des bénévoles. Elle reconnaît des personnes qui sont restées jusqu’au soir lors de l’ouverture. Elle a envie de répondre tout de suite que les deux créneaux lui conviennent. Ce serait agréable de revoir le visiteur et de lui montrer qu’elle a dessiné son bol.\n\nMaud lui envoie à son tour une photo du programme. Elle a entouré l’horaire du dimanche et demande si Gaëlle a envie de manger après la séance. Sur le chemin de chez elle, Gaëlle ralentit là où le trottoir se rétrécit. Elle pense à ce qu’Aïcha lui a demandé en fin de séance. Si elle garde un seul créneau, qu’est-ce qu’elle voudrait essayer pendant ce temps-là ?",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Mesurer la suite dans les activités qui comptent",
+          "text": "La rééducation se poursuit et les difficultés de marche de Gaëlle continuent à varier. Aïcha peut s’appuyer sur les tâches que Gaëlle décrit pour revoir avec elle les objectifs et les appuis utiles. Le retour d’une activité demande parfois plusieurs ajustements et les bénéfices du suivi varient. Pour Gaëlle, les renseignements viennent aussi de son envie de dessiner un bol, de sa décision de faire une pause et de ce qu’elle peut encore prévoir le même week-end. La disponibilité pour le cinéma ou une sortie fait partie de la façon dont elle évalue ses choix."
+        },
+        {
+          "role": "manifestations",
+          "heading": "La crainte de perdre une place retrouvée",
+          "text": "L’invitation de Rachid fait plaisir à Gaëlle. Pendant des mois, elle a entendu surtout des questions sur ce qu’elle pouvait faire debout. Aujourd’hui, il lui demande de revenir parce qu’elle sait accueillir les personnes qui veulent travailler l’argile. Elle a envie de dire oui et craint qu’un accord partiel change la façon dont l’équipe compte sur elle. Elle peut reconnaître ce qui se joue dans sa réponse et choisir un engagement qui lui convient. Sa façon d’accepter le travail n’a pas à servir de mesure de sa motivation en rééducation."
+        },
+        {
+          "role": "strategies",
+          "heading": "Proposer un engagement que l’équipe peut partager",
+          "text": "Gaëlle offre de prendre le deuxième créneau et de préparer avant la date un essai d’anse à montrer au visiteur. Elle rappelle qu’elle a besoin d’une assise et demande qui aura du temps pour la relayer. Avec Aïcha, elle est convenue de reparler du trajet qu’elle veut continuer à travailler et de ses observations après ce créneau. Elle fixe aussi le prochain rendez-vous de suivi. Maud reçoit une réponse pour le dimanche. Gaëlle aimerait aller au film et décider sur place si elles dînent dans le quartier."
+        }
+      ],
+      "ending_title": "La scène du balcon",
+      "ending": "Au cinéma, la première averse arrive pendant que les deux femmes parlent du bruit du chauffage. Gaëlle entend Maud rire une seconde avant elle. Après la séance, elles reprennent le chemin du café. Gaëlle laisse un message à Rachid pour lui demander de garder un morceau de terre blanche pour son essai. Elle glisse le billet dans sa poche, juste derrière le dessin du bol qui dépasse encore de son carnet.",
+      "mirror": [
+        "Maud peut proposer un film et un repas, et Gaëlle peut choisir ce qui lui convient le jour venu. Rachid peut prendre au sérieux le créneau offert et demander à un autre bénévole de prendre le premier. Aïcha garde avec Gaëlle les décisions qui relèvent de sa rééducation. Leurs places sont différentes. Chacun peut s’intéresser à ce que Gaëlle aime et lui laisser la liberté de modifier un projet."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nielsen-tnf-consensus",
+        "physio4fmd"
+      ],
+      "continuity": {
+        "choice": "Gaëlle propose un seul créneau, prépare un essai d’anse et accepte le cinéma avec Maud.",
+        "next": "Elle poursuit son suivi et peut ajuster son prochain créneau avec l’équipe à partir de ce qu’elle observera."
+      }
+    }
+  ]
+}

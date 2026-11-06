@@ -1,5 +1,5 @@
 ---
-title: "Baptiste : les valeurs dans les arbitrages du quotidien"
+title: Les valeurs dans les arbitrages du quotidien
 date: 2026-11-03T10:00:00+00:00
 description: "Entre une réunion et un engagement familial, Baptiste cherche ce qui compte vraiment, sans attendre une option qui ne coûte rien à personne."
 categories: ["Reprendre le contrôle de ses pensées"]
@@ -74,7 +74,3 @@ Les valeurs peuvent éclairer les arbitrages sans fournir une réponse automatiq
 Les demandes récentes ne sont pas nécessairement plus importantes que les engagements déjà pris. Avant de déplacer une contrainte, il peut être utile de vérifier ce qui est fixe, ce qui peut se discuter et qui supportera la modification. Une limite claire, une contribution préparée ou un relais accepté peuvent aussi exprimer la coopération. Aucun exercice personnel ne supprime toutefois une organisation qui laisse durablement trop peu de marge.
 
 Si les conflits d’engagement vous épuisent, si vous vous sentez obligé de répondre partout ou si les contraintes rendent les choix impossibles à tenir, un professionnel de proximité, un médecin ou un psychologue peut vous aider à examiner la situation. Selon le problème, des interlocuteurs du travail peuvent aussi être nécessaires. L’appui peut porter sur les attentes, les ressources et l’organisation, sans réduire la difficulté à une question de volonté ou de valeurs mal choisies.
-
-Sources :
-- [OMS, Doing What Matters in Times of Stress](https://www.who.int/publications/i/item/9789240003927)
-- [NHS, Problem solving](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)

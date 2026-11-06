@@ -33,7 +33,11 @@ La thérapeute lui demande ce qu’elle aimerait pouvoir choisir ces jours-là. 
 
 Une psychothérapie ciblée sur un deuil persistant et très invalidant peut aider certaines personnes. Dans un essai randomisé, Shear et ses collègues ont observé davantage d’améliorations marquées chez les personnes qui recevaient une psychothérapie ciblée en plus des consultations prévues dans les deux groupes comparés. Les deux groupes recevaient un placebo. L’étude portait sur des adultes répondant à des critères de recherche de « deuil compliqué », établis avant le manuel actuel de la CIM-11. Les résultats ne prédisent pas ce qu’éprouvera une personne en particulier.
 
-Les thérapeutes de l’essai abordaient entre autres le vécu de la perte et les buts personnels. Dans la fiction, Blandine et sa thérapeute cherchent quels changements auraient du sens pour elle : retrouver du temps après le travail et avoir plusieurs possibilités pour ses déplacements, même quand elle pense à Jeanne. Elle parle aussi du chœur, auquel elle reste libre de reprendre part à sa manière. Elles discutent de l’accompagnement qui lui convient et conviennent de refaire le point.
+Les thérapeutes de l’essai abordaient entre autres le vécu de la perte et les buts personnels.
+
+## Comment cette difficulté se manifeste
+
+Dans la fiction, Blandine et sa thérapeute cherchent quels changements auraient du sens pour elle : retrouver du temps après le travail et avoir plusieurs possibilités pour ses déplacements, même quand elle pense à Jeanne. Elle parle aussi du chœur, auquel elle reste libre de reprendre part à sa manière. Elles discutent de l’accompagnement qui lui convient et conviennent de refaire le point.
 
 ## Garder les choix du chœur à leur place
 
@@ -44,9 +48,3 @@ Elle choisit d’écrire elle-même à Léon. Si la lecture de jeudi ne se fait 
 ## L’heure du bus dans la marge
 
 À la sortie, Blandine retourne la feuille et voit que Léon a noté dix-neuf heures pour jeudi prochain. Elle lui écrit que ce créneau lui convient à titre d’essai, avec la possibilité de remettre la lecture à plus tard. Il confirme qu’il attendra devant la salle et pourra dire aux deux chanteurs de se préparer pour la répétition si elle ne vient pas. À Yannis, qui voudrait s’exercer à faire des galettes pour la fête d’école de son fils, elle propose samedi midi. Elle a une grande poêle qui pourrait lui servir.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS — Grief after bereavement or loss : vécu du deuil et soutien](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)
-- [Shear et coll. — Optimizing Treatment of Complicated Grief: A Randomized Clinical Trial (JAMA Psychiatry, 2016)](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2526240)

@@ -34,6 +34,8 @@ Chez elle, deux heures plus tard, elle retrouve le carré dessiné sur le fichie
 
 Dans le stress post-traumatique complexe, le sentiment d’être sans valeur peut persister et s’accompagner d’une honte profonde liée à ce qui a été vécu. Il dépasse alors la contrariété qu’une erreur concrète peut provoquer. Pour Meriem, il y a une différence entre « l’imprimante a réduit le carré », qu’elle sait vérifier, et l’impression qui dure jusqu’au dîner d’être incapable de faire quoi que ce soit de bien. Elle peut encore trouver ce jugement convaincant une fois le tirage rectifié.
 
+## Comment cette difficulté se manifeste
+
 Une personne peut se dévaloriser pour des raisons très différentes. Une phrase dite devant une nappe n’apprend rien de certain sur son histoire, même si elle surprend son entourage. Le suivi donne un lieu où parler de la durée de cette pensée et de ce qu’elle lui a déjà coûté ailleurs. Le NICE invite les professionnels à tenir compte du regard négatif que la personne peut porter sur elle-même quand il gêne l’accès à un travail thérapeutique.
 
 ## Une seule épreuve à la fois
@@ -45,8 +47,3 @@ Si elle souhaite en parler à sa thérapeute, elle pourra dire quand la honte a 
 ## Un trait rouge sur dix feuilles
 
 Meriem répond à Chloé de rapporter la nappe jeudi. Le lendemain, elle demande à Ève de vérifier le premier tirage avec elle. Elles se passent la règle et trouvent cinq centimètres chacune. Sur le lot trop petit, Meriem tire un trait rouge. Elle range ces feuilles pour les essais de feutres dans un bac qu’elle étiquette. À Chloé, elle envoie la photo de la règle sur le bon carré. En dessous, elle ajoute : « Ton soleil aura le bon diamètre. » Elle a encore le réflexe d’effacer le message. Cette fois, Chloé a déjà répondu avec un soleil.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

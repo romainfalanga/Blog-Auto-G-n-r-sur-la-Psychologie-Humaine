@@ -11,6 +11,9 @@ personnage: "Bernard"
 sujet: "douleur physique et soutien pendant un deuil"
 contexte: "face au vieillissement"
 draft: false
+editorial_sources:
+- https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient_presentant-une-lombalgie-commune
+- https://www.ameli.fr/assure/sante/themes/sciatique/que-faire-quand-consulter
 ---
 
 Bernard tire la planche du tas par un bout. Il avait prévu de demander à Éric de prendre l’autre côté, mais il lui restait juste assez de place pour essayer seul. Une douleur lui coupe le geste. Il repose le bois aussi près qu’il le peut, puis reste appuyé contre l’établi. Sultan s’est levé avec le bruit.
@@ -74,5 +77,3 @@ La douleur et le chagrin coexistent dans la vie de Bernard. Demander un avis pou
 Parler, créer ou passer du temps avec un proche peut avoir une valeur pour soi. Cela ne dispense pas d’examiner des symptômes physiques et ne garantit pas qu’ils diminuent.
 
 Si une douleur lombaire est forte, s’aggrave ou gêne les gestes quotidiens, demandez un avis médical. Une faiblesse nouvelle d’une jambe, une perte de sensibilité dans la région du périnée ou une difficulté nouvelle à uriner ou à contrôler les selles nécessitent une évaluation urgente.
-
-Sources : [Haute Autorité de santé, prise en charge de la lombalgie](https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient_presentant-une-lombalgie-commune) ; [Assurance Maladie, douleur irradiant dans la jambe et signes d’urgence](https://www.ameli.fr/assure/sante/themes/sciatique/que-faire-quand-consulter).

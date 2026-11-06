@@ -32,6 +32,8 @@ Jules reparle alors du jour où Sonia a dû appeler les secours. Il ne sait pas 
 
 Une prise en charge du trouble panique peut être ajustée à mesure que la personne décrit ce qui change dans sa vie et ce qui lui demande encore beaucoup d’effort. Jules peut apporter à la consultation plusieurs situations, y compris une sortie qu’il a interrompue et une visite où il a pu dessiner comme il le souhaitait. La psychiatre peut discuter avec lui de ce qu’il veut continuer, de ses préférences et des difficultés qui concernent encore son apprentissage ou ses trajets.
 
+## Comment cette difficulté se manifeste
+
 Le diagnostic connu fournit une information aux soignants. Il ne dispense pas d’évaluer un signe nouveau selon sa nature et le contexte. Jules veut pouvoir expliquer à son médecin ce qui lui paraît inhabituel. S’il présente de nouveau des signes aigus inquiétants, il peut appeler les secours ou demander à la personne avec lui de le faire. Le service d’urgence décide alors de la conduite à tenir.
 
 ## Des contacts différents selon le besoin
@@ -43,8 +45,3 @@ La psychiatre peut proposer de revoir ensemble un essai déjà décidé ou d’e
 ## La page qu’il garde libre
 
 Jules garde les coordonnées utiles dans son téléphone et range les dessins. Il a dit à la psychiatre qu’il aimerait reprendre contact avec Samuel. En sortant, il lui écrit pour savoir si quelqu’un s’installera près de l’extrémité de la table. Il précise qu’il viendra s’il en a envie ce samedi. À Solange, il envoie une photo du croquis de la boîte et lui demande quel nom elle donnerait à la main qui attend.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

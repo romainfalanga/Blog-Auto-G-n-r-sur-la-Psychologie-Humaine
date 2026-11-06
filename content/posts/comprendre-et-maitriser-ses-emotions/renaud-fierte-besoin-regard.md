@@ -34,6 +34,8 @@ Nora remercie d’abord les personnes qui ont fait les essais et celles qui ouvr
 
 Être fier d’un travail précis et souhaiter qu’il soit reconnu sont des expériences courantes. Dans le trouble de la personnalité narcissique, le besoin d’admiration peut prendre une place si importante qu’il devient difficile de profiter d’un résultat lorsque les autres n’y voient pas la même preuve de valeur. Pour une même personne, cette place peut varier avec la situation.
 
+## Comment cette difficulté se manifeste
+
 Renaud éprouve réellement le plaisir de voir quelqu’un s’orienter. Il remarque ensuite qu’il attend le moment où l’équipe sera nommée. Les deux expériences se succèdent dans la même scène. Il peut désirer un remerciement et revenir à ce qu’il a observé. Le passage est lisible et une personne vient de l’utiliser. Ces faits restent présents pendant qu’il cherche sa place dans les mots de Nora.
 
 ## Donner un nom à ce qui satisfait dans le travail
@@ -45,9 +47,3 @@ Le suivi peut l’aider à élargir la manière dont il mesure ce qui lui import
 ## Montrer le passage depuis le premier étage
 
 Renaud accompagne la visiteuse jusqu’au palier. Elle lui raconte qu’elle cherche une salle pour revenir samedi avec sa fille. Il lui montre le repère qui reprend la forme au bout du couloir et elle le suit du regard. Il n’a entendu que la fin du mot d’accueil. Il en demande un résumé à Yara quand elle le rejoint. Nora voudrait les revoir en septembre pour préparer un parcours de visite temporaire. Cette fois, Renaud propose de fixer la répartition des tâches avant d’annoncer une date.
-
-## Sources
-
-- [American Psychiatric Association, présentation du trouble de la personnalité narcissique selon le DSM-5-TR](https://www.psychiatry.org/news-room/apa-blogs/what-is-narcissistic-personality-disorder/)
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Edershile et collègues, variations de grandiosité et de vulnérabilité dans les interactions, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11326982/)

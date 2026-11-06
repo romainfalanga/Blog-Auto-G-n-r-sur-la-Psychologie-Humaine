@@ -11,6 +11,8 @@ personnage: "Fabien"
 sujet: "le scénario de vie (Analyse Transactionnelle - Eric Berne)"
 contexte: "en famille"
 draft: false
+editorial_sources:
+- https://itaaworld.com/about-ta/bernes-publications/
 ---
 
 Le parquet de l'appartement craque sous les pas de Fabien alors qu'il transporte une pile de dossiers vers son bureau. En cette fin d'après-midi du 21 avril 2026, la lumière printanière décline sur Lyon, projetant des ombres étirées sur les murs blancs de son nouveau logement. Il s'arrête devant une photo de Marine et Lucas posée sur une étagère. Lucas, dix-sept ans, lui a envoyé un message laconique plus tôt dans la journée pour annuler leur sortie au cinéma. Fabien ressent une pointe familière, un mélange de résignation et de solitude qu'il a déjà exploré lors de ses récentes réflexions sur son isolement social. Il se demande pourquoi, malgré ses compétences de cadre RH, il se retrouve toujours dans cette même posture de père distant, subissant le silence de ses enfants comme il subissait autrefois celui de son propre père.
@@ -66,5 +68,3 @@ Le chemin pour se libérer d'un scénario de vie est une aventure exigeante mais
 Le scénario de vie n'est pas une fatalité. En identifiant les injonctions qui nous limitent et en osant de nouveaux comportements, nous transformons nos relations familiales. Les interactions cessent d'être des répétitions mécaniques pour devenir des espaces d'échange véritable. Chaque petite victoire sur l'automatisme est une pierre posée pour construire une vie plus alignée avec nos besoins réels et ceux de nos proches.
 
 Si les mêmes échanges continuent à vous faire souffrir, vous pouvez les reprendre avec un psychologue à partir de ce qui s’est dit et de ce que vous aimeriez faire différemment.
-
-Sources : [Association internationale d’analyse transactionnelle, bibliographie de Berne](https://itaaworld.com/about-ta/bernes-publications/).

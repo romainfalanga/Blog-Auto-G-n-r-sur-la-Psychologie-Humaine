@@ -31,7 +31,11 @@ Ils vont jusqu’au renfoncement qui précède la petite salle. Adèle a envie d
 
 ## Une difficulté peut revenir le même jour
 
-Les difficultés alimentaires dans l’ARFID peuvent varier avec les conditions du repas. Un changement de lieu, de disposition ou de bruit ne touche pas tout le monde de la même façon. Adèle avait pu manger avec ses camarades à midi dans des conditions prévues avec l’équipe. Ce soir, le cadre a changé et elle indique qu’elle ne parvient pas à se mettre à table comme prévu. Cela donne aux adultes une raison d’écouter sa demande et de vérifier ce qu’ils ont préparé avec elle. Le repas du midi ne permet pas de prédire la réponse du soir.
+Les difficultés alimentaires dans l’ARFID peuvent varier avec les conditions du repas. Un changement de lieu, de disposition ou de bruit ne touche pas tout le monde de la même façon.
+
+## Comment cette difficulté se manifeste
+
+Adèle avait pu manger avec ses camarades à midi dans des conditions prévues avec l’équipe. Ce soir, le cadre a changé et elle indique qu’elle ne parvient pas à se mettre à table comme prévu. Cela donne aux adultes une raison d’écouter sa demande et de vérifier ce qu’ils ont préparé avec elle. Le repas du midi ne permet pas de prédire la réponse du soir.
 
 Dans un séjour encadré, l’appui de repli sert à poursuivre les modalités déjà convenues quand c’est possible. Si elles deviennent insuffisantes ou qu’une question de santé se pose, les adultes reprennent les consignes du suivi et contactent les personnes prévues. Ils ne demandent pas à la jeune personne d’improviser une solution alimentaire dans le couloir.
 
@@ -44,10 +48,3 @@ Inès n’a pas besoin d’attendre à table ni de chercher la petite salle. M. 
 ## Le cahier attendra en haut
 
 Mme Roussel confirme que la petite salle et le repas convenu sont disponibles. Adèle choisit cette option avec M. Benhamou. Après le dîner dans la petite salle, elle demande à Mme Roussel de joindre Eva avant qu’elles décident pour la nuit. Inès propose de monter leurs deux carnets dans la chambre. « Le mien sur mon lit. Et laisse le tien ouvert, je veux encore voir le dessin. » Inès remonte avec les deux carnets serrés contre sa veste.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Hospices civils de Lyon — ARFID ou trouble évitant ou restrictif de la prise alimentaire](https://www.chu-lyon.fr/arfid)
-- [Maudsley Centre for Child and Adolescent Eating Disorders (NHS) — ARFID Service Frequently Asked Questions](https://mccaed.slam.nhs.uk/wp-content/uploads/2022/12/ARFID-Service-FAQs-Dec-22.pdf)
-- [Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust — ARFID: Creating supportive mealtimes](https://www.cntw.nhs.uk/resources/avoidant-restrictive-food-intake-disorder-arfid-simple-suggestions-series-creating-supportive-mealtimes)

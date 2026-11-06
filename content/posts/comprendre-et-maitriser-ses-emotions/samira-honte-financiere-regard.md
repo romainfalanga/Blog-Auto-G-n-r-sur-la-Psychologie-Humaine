@@ -1,5 +1,5 @@
 ---
-title: "Samira : la honte financière sous le regard des autres"
+title: La honte financière sous le regard des autres
 date: 2026-09-05T08:00:00+00:00
 description: "Une remarque devant l’école atteint Samira. Elle cherche à préserver sa dignité et ses liens sans devoir exposer ses comptes."
 slug: "samira-honte-financiere-regard"
@@ -98,7 +98,3 @@ La honte financière peut faire croire que le manque de ressources retire le dro
 Décrire le fait, préparer une limite et choisir un interlocuteur respectueux peuvent rendre un peu de place. Ces gestes ne suffisent pas à supprimer les obstacles financiers ou les jugements sociaux. Ils servent à préserver une décision personnelle et des liens possibles au milieu de ces obstacles.
 
 Lorsque la honte conduit à un isolement durable ou devient difficile à supporter, un psychologue ou un autre professionnel de santé peut offrir un soutien. Un accompagnement social peut aider séparément sur les possibilités matérielles. Il est possible de chercher de l’aide sans présenter sa dignité comme une question à trancher.
-
-Sources :
-- [CNCDH, avis sur les discriminations fondées sur la précarité sociale](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000028048736)
-- [Défenseur des droits, enquête sur la précarité et l’accès aux droits](https://www.defenseurdesdroits.fr/acces-aux-droits-des-personnes-en-situation-de-precarite-1205)

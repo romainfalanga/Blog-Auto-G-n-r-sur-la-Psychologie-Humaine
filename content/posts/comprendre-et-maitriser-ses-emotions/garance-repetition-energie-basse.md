@@ -33,6 +33,8 @@ Dans la salle, quelqu’un a avancé son pupitre. Elle le remet à sa hauteur et
 
 Un moment de plaisir peut subsister au cours d’une période où les activités ordinaires deviennent difficiles. Garance a aimé une partie de la valse. Depuis plusieurs jours, elle constate aussi une baisse d’élan, des tâches reportées et des difficultés à terminer son travail. Elle peut décrire les deux expériences dans le même entretien. L’évaluation d’un éventuel épisode dépressif tient compte de l’évolution, du retentissement et de l’ensemble des difficultés.
 
+## Comment cette difficulté se manifeste
+
 Garance a traversé une période où elle a été très active. La baisse actuelle ne peut pas être déduite automatiquement de cette période. Un professionnel peut reprendre avec elle ce qu’elle vit et les autres éléments qui peuvent y contribuer. Le NICE recommande de demander une réévaluation si des symptômes dépressifs s’aggravent ou si la personne se sent en difficulté. Garance peut expliquer qu’elle hésite à attendre le prochain rendez-vous. Le cabinet pourra préciser la suite.
 
 ## Dire ce qui est devenu plus difficile
@@ -44,8 +46,3 @@ Lise peut garder l’accord sur le départ anticipé et préciser quand la valse
 ## Le fichier et le message au cabinet
 
 Chez elle, Garance retrouve le dossier ouvert. Elle envoie au client un court message pour confirmer le délai qui lui reste possible, puis revient au contact du cabinet. Elle écrit que les journées se font plus difficiles depuis quelque temps et demande à parler à la psychiatre avant le rendez-vous prévu. Elle garde en mémoire le rire sur la note d’Éva. Elle voudrait le raconter aussi, parce que c’est arrivé au milieu du reste. Avant de fermer le calendrier, elle précise à Lise qu’elle ne promet pas encore de venir jeudi prochain.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

@@ -1,5 +1,5 @@
 ---
-title: "Malik : trouver des soutiens dans plusieurs cercles"
+title: Trouver des soutiens dans plusieurs cercles
 date: 2026-09-22T09:00:00+00:00
 description: "Malik demande beaucoup à ses appels avec Awa. Il cherche des appuis complémentaires, avec des demandes précises et une vie privée respectée."
 slug: "malik-soutiens-plusieurs-cercles"
@@ -100,7 +100,3 @@ Les soutiens dans plusieurs cercles peuvent apporter des ressources complémenta
 Nommer le besoin, clarifier le périmètre et regarder l’effet de l’aide peuvent rendre les demandes plus praticables. Ces gestes ne créent pas un réseau lorsqu’il manque ni ne remplacent les services nécessaires. Ils évitent surtout de transformer chaque proche en responsable implicite de tous les problèmes.
 
 Si les appuis restent insuffisants ou si la détresse persiste, un médecin, un psychologue ou un professionnel social peut aider à rechercher des ressources adaptées. Il importe de respecter la vie privée et les formes de relation souhaitées. Malik peut construire des liens ici et en garder ailleurs, sans devoir choisir un cercle comme unique lieu de soutien.
-
-Sources :
-- [Cohen et Wills, cadre sur les fonctions du soutien social face au stress](https://doi.org/10.1037/0033-2909.98.2.310)
-- [France services, périmètre de l’accompagnement administratif](https://www.france-services.gouv.fr/demarches-et-services)

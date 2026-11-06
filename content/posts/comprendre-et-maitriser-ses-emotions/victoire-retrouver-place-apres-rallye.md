@@ -32,7 +32,11 @@ Victoire revient vers l’entrée. Le groupe l’invite à préparer un autre pa
 
 ## Tenir compte de ce qui compte pour la personne
 
-Les objectifs d’une prise en charge de la boulimie nerveuse peuvent inclure la réduction des crises et des compensations, l’état physique et psychique, et ce qui redevient possible dans les relations ou les activités. Pour Victoire, accueillir des débutants et entendre leur retour ont un sens qui dépasse la journée de soins. Elle peut apprécier ce moment et avoir encore des préoccupations corporelles. Une activité reprise peut donner à la consultation des exemples concrets de ce qui l’aide ou de ce qui lui coûte de l’effort. Les soignants poursuivent l’évaluation du trouble et de son évolution avec elle. Une journée qui se passe bien fait partie de ce récit, au même titre que les difficultés qui restent à aborder.
+Les objectifs d’une prise en charge de la boulimie nerveuse peuvent inclure la réduction des crises et des compensations, l’état physique et psychique, et ce qui redevient possible dans les relations ou les activités.
+
+## La place que la photo reprend après l’accueil
+
+Victoire apprécie d’entendre qu’un participant a trouvé le passage derrière la gare grâce à la vitrine. Quand le groupe propose une photo, elle se surprend à se demander de nouveau comment elle se tient. Elle demande alors à Simon de prendre l’accueil un moment. La satisfaction et l’effort que lui demande la photo se succèdent dans la même matinée. Une activité reprise peut donner à la consultation des exemples concrets de ce qui l’aide ou de ce qui lui coûte de l’effort. Les soignants poursuivent l’évaluation du trouble et de son évolution avec elle. Une journée qui se passe bien fait partie de ce récit, au même titre que les difficultés qui restent à aborder.
 
 ## Garder des choix pour les prochaines semaines
 
@@ -41,9 +45,3 @@ Victoire se donne du temps avant d’accepter une nouvelle responsabilité. Elle
 ## La vitrine reste sur la carte
 
 Victoire range le porte-cartes et glisse son plan dans son sac avec le disque qu’elle voulait faire écouter à Simon. Elle note le repère de la vitrine pour la réunion et envoie à Lila le moment où elle pourra venir présenter leurs observations. Elle repense à la photo et garde cette question pour Nora. Simon lui demande s’ils ont le temps d’écouter le morceau en rentrant. Elle aimerait surtout entendre comment il se termine.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et FFAB, Boulimie et hyperphagie boulimique, recommandations de bonne pratique](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique)
-- [Haute Autorité de santé et FFAB, prise en charge pluriprofessionnelle coordonnée](https://www.has-sante.fr/jcms/p_3099804/fr/prise-en-charge-pluriprofessionnelle-coordonnee-fiche-outil)

@@ -31,7 +31,11 @@ Véra se demande si elle a dit quelque chose de vexant. « J’ai cru qu’on ve
 
 ## Trier les informations quand les demandes s’accumulent
 
-Un essai peut révéler que plusieurs messages se disputent le regard au même endroit. L’offre de verres et la photo de la tasse se ressemblent dans le champ de vision de Véra. Elle cherche donc un prix, ce qui est raisonnable. La flèche ne lui indique pas clairement quand tourner, parce qu’une autre table occupe le premier plan. Hélène gagne une information en se mettant à la place d’où Véra a lu le panneau.
+Un essai peut révéler que plusieurs messages se disputent le regard au même endroit. L’offre de verres et la photo de la tasse se ressemblent dans le champ de vision de Véra. Elle cherche donc un prix, ce qui est raisonnable. La flèche ne lui indique pas clairement quand tourner, parce qu’une autre table occupe le premier plan.
+
+## Comment cette difficulté se manifeste
+
+Hélène gagne une information en se mettant à la place d’où Véra a lu le panneau.
 
 Les recommandations de la HAS invitent à examiner les conditions d’un essai plutôt qu’à attribuer d’emblée une difficulté à la personne. Les questions des clients et les interruptions de la caisse compliquent le recueil des observations. Hélène a déjà remarqué qu’elle a besoin de temps pour rapprocher plusieurs informations, et elle demande parfois à les reprendre une par une. L’OMS décrit des besoins de soutien sensibles au contexte. Une personne peut repérer un problème avec précision et avoir besoin d’une pause pour trier les renseignements recueillis.
 
@@ -44,9 +48,3 @@ Pour la prochaine version, elle envisage de dissocier l’orientation et l’ét
 ## La photo attend dans le tiroir
 
 Après le départ de Véra, Hélène plie la feuille de relevé de Dario en deux. Du côté encore blanc, elle écrit « on demande le prix » et « on tourne avant les plats ». Elle ne sait pas si tous les clients ont vu l’image comme Véra. Elle sait déjà qu’elle ne veut pas remettre le panneau tel quel. Elle glisse la photo au fond du tiroir, mais conserve la tasse au trait sur l’établi. Dario vient lui dire qu’il a entendu deux fois demander les bols depuis la caisse. Hélène ajoute une troisième ligne à la feuille.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé, accompagnement de la personne présentant un TDI : synthèse du volet 1](https://www.has-sante.fr/upload/docs/application/pdf/2022-09/tdi_synthese_rbpp_volet1.pdf)
-- [Haute Autorité de santé, TDI : travail et vie active (volet 2)](https://www.has-sante.fr/upload/docs/application/pdf/2025-11/dir7/tdi_emploi_volet2.pdf)

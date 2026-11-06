@@ -31,7 +31,11 @@ Sur le côté de la motte qui a gardé sa forme, Sacha voit de petites racines. 
 
 ## Ce que Sacha décide au milieu de la peur
 
-Une personne qui vit avec de l’anxiété sociale peut s’engager dans une situation qui compte pour elle alors qu’elle redoute encore le regard des autres. Dans la scène, Sacha a un instant où il se demande comment son silence est perçu. Il entend aussi une question à laquelle il aimerait répondre. Sa prise de parole est courte et sert à montrer les racines. La peur et l’envie d’expliquer ont toutes deux leur place dans ce moment.
+Une personne qui vit avec de l’anxiété sociale peut s’engager dans une situation qui compte pour elle alors qu’elle redoute encore le regard des autres.
+
+## Comment cette difficulté se manifeste
+
+Dans la scène, Sacha a un instant où il se demande comment son silence est perçu. Il entend aussi une question à laquelle il aimerait répondre. Sa prise de parole est courte et sert à montrer les racines. La peur et l’envie d’expliquer ont toutes deux leur place dans ce moment.
 
 Le contexte lui laisse des possibilités : Gaspard n’interprète pas le blanc comme une demande de relais, et les visiteurs savent qu’ils peuvent consulter une fiche. Sacha peut diriger le regard vers la motte et répondre à madame Baudry. Un autre jour, le même choix pourrait lui demander plus d’effort, ou il pourrait choisir de passer la main. La forme que prend sa participation aujourd’hui lui appartient.
 
@@ -44,8 +48,3 @@ Leur rôle peut rester simple : faire circuler le dessin, attendre une réponse 
 ## Le plateau passe à gauche
 
 Sacha cale la motte dans le pot de récupération et ajoute du terreau et lève les yeux vers madame Baudry. Elle a encore une question sur la taille du contenant, qu’elle garde pour plus tard. Il tend alors le plateau vers la gauche. Gaspard pose dessus les pots qu’il a préparés et explique d’où ils viennent. L’homme qui voulait filmer prend une fiche pour sa fille. À la fin, Nora rouvre le cahier pour vérifier les inscriptions et l’heure réelle de fin. Sacha met la terre tombée sur la table dans un pot vide. Madame Baudry attend qu’il relève la tête pour lui montrer sa boîte.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG159, reconnaissance, évaluation et traitement du trouble d’anxiété sociale](https://www.nice.org.uk/guidance/cg159/resources/social-anxiety-disorder-recognition-assessment-and-treatment-pdf-35109639699397)

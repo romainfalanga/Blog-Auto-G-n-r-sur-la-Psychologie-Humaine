@@ -92,5 +92,3 @@ Le consentement et le droit de changer d’avis ne dépendent ni de la personne 
 Une phrase courte, un signal compris et l’observation des réactions peuvent rendre ce droit plus facile à exercer. Vous pouvez retenir une seule de ces pistes et l’adapter à votre situation. La réussite n’est pas de refuser sans ressentir d’inconfort ; elle consiste d’abord à ce que le choix soit possible et respecté.
 
 Si la peur, la douleur ou la pression occupent durablement l’intimité, un professionnel de santé ou une psychologue peut aider à comprendre la situation sans imposer de pratique ni de rythme. Lorsque les limites sont ignorées, un soutien individuel et la sécurité passent avant les exercices de couple. Aucun travail de communication ne vous oblige à continuer ce que vous ne souhaitez plus.
-
-Sources : [Organisation mondiale de la santé, santé sexuelle et respect des choix](https://www.who.int/fr/health-topics/sexual-health) ; [Arrêtons les violences, repères sur le consentement et les violences sexuelles](https://arretonslesviolences.gouv.fr/besoin-d-aide/violences-sexuelles).

@@ -32,6 +32,8 @@ Quand ils posent enfin la première caisse, Mathis regarde de nouveau l’heure.
 
 Mathis a estimé la durée de la partie qu’il connaît. Il roule souvent jusqu’aux Tilleuls. Cette fois, ils ont attendu la clé, descendu un rebord à pied et discuté du camion. Chacune de ces étapes a des raisons concrètes. Le TDAH peut s’accompagner de difficultés à organiser une succession d’actions. Un trajet encombré renseigne aussi sur le trajet lui-même. En repérant l’origine du délai, les deux collègues peuvent changer quelque chose au programme.
 
+## Comment cette difficulté se manifeste
+
 Le NICE cite l’organisation et la gestion du temps parmi les points à prendre en compte dans le soutien aux personnes concernées. Dans la situation de Mathis, l’objectif est de disposer d’un horaire utile à plusieurs personnes. L’essai fait apparaître deux heures différentes, celle de la sortie de l’atelier et celle où le public pourra être accueilli. L’intervalle contient tout ce qu’ils peuvent préparer et les aléas pour lesquels l’équipe doit garder une marge.
 
 ## Donner une heure pour chaque passage de relais
@@ -43,8 +45,3 @@ Ils choisissent une heure de rendez-vous à l’atelier et une heure d’ouvertu
 ## Le départ à ne pas confondre avec l’ouverture
 
 Ils reviennent par la rue des Lilas et retrouvent l’atelier avec assez de place pour tourner devant la grille. Mathis décroche la clé du crochet, puis la raccroche pendant que Zélie modifie l’heure sur la fiche. Il lui demande d’écrire le nom de la personne qui ouvrira avec eux. En rentrant, il lit un message de Simon au sujet d’un rendez-vous de livraison. Il allait répondre qu’il serait là dès la fermeture de l’atelier. Il regarde d’abord ce qu’il faut encore faire après cette fermeture. Simon lui propose d’en parler à table, avec le calendrier sous les yeux.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG87, évaluation et accompagnement du TDAH](https://www.nice.org.uk/guidance/ng87/chapter/recommendations)

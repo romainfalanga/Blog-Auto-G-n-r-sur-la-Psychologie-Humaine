@@ -31,17 +31,18 @@ Lucie pose le casque sur la table et lui dit que sur une partie du trajet elle n
 
 ## Comprendre la différence entre présence et disponibilité permanente
 
-Dans une période difficile, il est possible de vouloir davantage de présence tout en rencontrant les limites de ceux qui la proposent. Le NICE prévoit que les proches puissent aussi avoir accès à un soutien pour eux. Quand Lucie précise les heures où elle sera joignable, elle parle de ce qu’elle peut offrir aujourd’hui. Émilien peut lui dire qu’il trouve son départ difficile et choisir avec elle ce qu’ils peuvent partager avant. Lucie peut écouter cela et maintenir son projet. Le déjeuner à deux est une forme d’appui. Il ne l’engage pas à assurer le suivi du reste de la journée.
+Dans une période difficile, il est possible de vouloir davantage de présence tout en rencontrant les limites de ceux qui la proposent. Le NICE prévoit que les proches puissent aussi avoir accès à un soutien pour eux. Quand Lucie précise les heures où elle sera joignable, elle parle de ce qu’elle peut offrir aujourd’hui.
+
+## La crainte de rester seul prend de la place
+
+Émilien laisse de côté le message de Dorian alors que l’écoute au marché l’intéressait. Il a apprécié de parler avec Lucie. Quand elle boucle son casque, il lui demande de garder le téléphone à portée de main et n’arrive d’abord à penser qu’au moment où elle partira. En précisant ce qui lui pèse, il trouve un exemple concret. Il redoute le repas seul et souhaite un moment de compagnie.
 
 ## Prévoir un autre point d’appui lorsque le proche s’absente
 
 Émilien vérifie l’heure du prochain appel et où trouver le contact à utiliser si la situation se dégrade avant. Il peut aussi écrire à Dorian s’il a envie d’entendre comment s’est passée l’écoute, ou demander un appel sans parler du marché. Dorian reste libre d’accepter et Émilien n’a pas à lui confier son dossier de santé pour lui demander dix minutes. Si une inquiétude clinique augmente, c’est le recours convenu avec l’équipe qui prend le relais. Plusieurs personnes peuvent compter dans la journée sans que leur présence forme un dispositif de surveillance. Le couple peut ensuite parler de la randonnée ou du marché pour le plaisir de se raconter quelque chose.
 
+Émilien peut dire à Lucie qu’il trouve son départ difficile et lui proposer de déjeuner ensemble. Elle peut écouter sa demande, choisir ce qu’elle souhaite partager et maintenir sa randonnée.
+
 ## La sortie de Lucie tient toujours
 
 Ils mangent des tartines avant que l’amie de Lucie arrive. Émilien lui dit qu’il lui demandera peut-être une photo du vieux pont, si elles passent devant. Il garde sur la table le feuillet avec le contact et ne demande pas une heure pour la photo. Quand la porte se ferme, il hésite encore à ouvrir le message de Dorian. Finalement il lui écrit : « Ça me ferait plaisir que tu me racontes comment elle a réagi au chariot. Pas besoin de m’appeler aujourd’hui. »
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

@@ -90,5 +90,3 @@ Demander de l'aide peut être une compétence d'apprentissage et de travail. Él
 Vous pouvez préparer une demande autour d'un fait, de ce que vous savez déjà et de l'appui attendu. Le niveau d'urgence dépend de l'enjeu réel et des règles du contexte. Une question importante mérite d'être rendue visible même si la formuler reste inconfortable. Les temps d'explication doivent aussi être soutenus par l'organisation.
 
 Si la peur de demander vous empêche durablement d'apprendre ou si les réponses vous exposent à une humiliation répétée, un professionnel peut vous aider à examiner cette souffrance. Un référent ou un responsable peut également agir sur les conditions de transmission. Vous avez le droit de débuter sans devoir cacher toutes vos questions.
-
-Sources : [Richard Newman, recherche d'aide et apprentissage autorégulé](https://eric.ed.gov/?id=EJ656640) ; [Amy Edmondson, sécurité psychologique et apprentissage en équipe](https://doi.org/10.2307/2666999).

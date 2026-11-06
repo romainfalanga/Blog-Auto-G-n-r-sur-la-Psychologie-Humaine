@@ -30,7 +30,11 @@ Depuis que l’équipe qui la suit lui a expliqué le trouble évitant ou restri
 
 ## Comment la restriction alimentaire déborde du repas
 
-Dans l’ARFID, les restrictions alimentaires peuvent avoir des effets importants sur la santé physique, sur la vie quotidienne ou sur les deux. Pour certaines personnes, la texture, l’odeur ou d’autres caractéristiques sensorielles rendent la prise alimentaire difficile. Pour d’autres, le manque d’intérêt pour l’alimentation ou la crainte de conséquences pénibles joue davantage. Ce qui met Adèle en difficulté à midi est la consistance de ce qu’on lui propose. Le problème revient au moment de l’inscription : une activité scolaire qui lui plaît reste difficile à envisager tant qu’elle ne sait pas dans quelles conditions se passeront les repas.
+Dans l’ARFID, les restrictions alimentaires peuvent avoir des effets importants sur la santé physique, sur la vie quotidienne ou sur les deux. Pour certaines personnes, la texture, l’odeur ou d’autres caractéristiques sensorielles rendent la prise alimentaire difficile. Pour d’autres, le manque d’intérêt pour l’alimentation ou la crainte de conséquences pénibles joue davantage.
+
+## Comment cette difficulté se manifeste
+
+Ce qui met Adèle en difficulté à midi est la consistance de ce qu’on lui propose. Le problème revient au moment de l’inscription : une activité scolaire qui lui plaît reste difficile à envisager tant qu’elle ne sait pas dans quelles conditions se passeront les repas.
 
 Les professionnels évaluent le retentissement dans le temps et dans les différents lieux de vie. Refuser un aliment par préférence, ou s’être trouvé mal à l’aise à un repas, ne permet pas de conclure. Une scène de cantine ne résume pas le suivi d’Adèle. Elle aide à comprendre pourquoi la question des repas mérite une discussion, même lorsque l’activité prévue lui plaît beaucoup.
 
@@ -43,9 +47,3 @@ Le premier choix d’activité a aussi sa place sur le papier. Le garder visible
 ## La croix reste
 
 « Je peux vous parler quand les autres seront partis ? C’est pour le voyage. » Mme Roussel a encore une pile à trier. Elle indique deux chaises près de son bureau et lui dit qu’elle a quelques minutes. Adèle pose sa feuille à plat entre elles, d’abord du côté de la photo. « Celui-là, c’est mon premier choix. Pour confirmer le voyage, j’ai besoin de savoir avec qui je peux parler des repas. » Mme Roussel prend un crayon à son tour. « Tu peux demander à ta mère de m’écrire, pour qu’on trouve un moment toutes les trois. » Elle laisse la croix où elle est.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Hospices civils de Lyon — ARFID ou trouble évitant ou restrictif de la prise alimentaire](https://www.chu-lyon.fr/arfid)
-- [Maudsley Centre for Child and Adolescent Eating Disorders (NHS) — ARFID Service Frequently Asked Questions](https://mccaed.slam.nhs.uk/wp-content/uploads/2022/12/ARFID-Service-FAQs-Dec-22.pdf)

@@ -31,7 +31,11 @@ Dehors, il regarde l’heure. Il a encore quarante minutes avant sa prise de pos
 
 ## Un essai qui se passe bien laisse d’autres situations ouvertes
 
-L’anxiété sociale peut varier d’une situation à une autre. Un échange familier peut être agréable, tandis que l’arrivée d’une autre personne, un changement de rôle ou le sentiment d’être observé peut rendre la même tâche plus difficile. Chez Sacha, l’entrée au café est différente cette fois : il parle avec Jeanne et échange ses graines. C’est quand Omar attend une réponse que Sacha commence à se demander quelle impression il donne. Le départ arrive au milieu d’un moment dont il profitait jusque-là.
+L’anxiété sociale peut varier d’une situation à une autre. Un échange familier peut être agréable, tandis que l’arrivée d’une autre personne, un changement de rôle ou le sentiment d’être observé peut rendre la même tâche plus difficile.
+
+## Comment cette difficulté se manifeste
+
+Chez Sacha, l’entrée au café est différente cette fois : il parle avec Jeanne et échange ses graines. C’est quand Omar attend une réponse que Sacha commence à se demander quelle impression il donne. Le départ arrive au milieu d’un moment dont il profitait jusque-là.
 
 Les conditions étaient différentes au café et à la graineterie. Avec Nora, il savait qui serait là et ce qu’il voulait montrer. Au café, il a dû changer de conversation d’un coup. Raconter ces différences au cabinet peut aider à comprendre le retour de la peur et à choisir ce qui mérite d’être travaillé, sans prendre cette matinée comme un verdict sur son projet.
 
@@ -44,8 +48,3 @@ Sacha n’a pas à reconstituer le même groupe pour se donner une deuxième cha
 ## Le carnet revient avec Jeanne
 
 Sacha prend le carnet par le coin sec et dit : « J’ai laissé ma question en plan. Pour les courges. » Jeanne lui répond qu’elle doit filer elle aussi et qu’elle passe à la graineterie la semaine suivante pour acheter de la ficelle. Ils reprendront la conversation s’ils se croisent. L’enveloppe reste avec elle. Sur le chemin du magasin, Sacha songe à écrire à Gaspard pour lui dire qu’il ne se sent plus capable de tenir sa partie à l’atelier. Avant sa prise de poste, il note la question d’Omar sur la cour peu ensoleillée, puis le moment où il a perdu le fil. Il voudrait pouvoir en parler au prochain rendez-vous.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG159, reconnaissance, évaluation et traitement du trouble d’anxiété sociale](https://www.nice.org.uk/guidance/cg159/resources/social-anxiety-disorder-recognition-assessment-and-treatment-pdf-35109639699397)

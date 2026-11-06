@@ -1,5 +1,5 @@
 ---
-title: "Samira : la dignité commence avec des besoins reconnus"
+title: La dignité commence avec des besoins reconnus
 date: 2026-09-23T08:00:00+00:00
 description: "À la laverie, Samira mesure l’effort des besoins ordinaires. Elle cherche des appuis concrets sans réduire sa vie à la précarité."
 slug: "samira-dignite-besoins-materiels"
@@ -100,8 +100,3 @@ La dignité et les besoins matériels fondamentaux concernent les conditions con
 Décrire un obstacle, distinguer les formes de soutien et préserver une dimension personnelle peuvent aider à tenir sa place dans les échanges. Ces gestes restent partiels. Leur valeur vient de ce qu’ils permettent aujourd’hui, sans transformer une difficulté sociale en leçon obligatoire ni promettre que tout dépendra désormais de la personne.
 
 Si la fatigue, l’inquiétude ou la détresse persistent, un médecin ou un psychologue peut proposer un soutien adapté. Un professionnel social peut rechercher en parallèle des réponses aux besoins matériels. Samira termine ce parcours avec des questions encore ouvertes et des appuis mieux identifiés ; elle conserve surtout le droit d’être respectée avant que ces questions soient résolues.
-
-Sources :
-- [Organisation mondiale de la santé, déterminants sociaux de la santé](https://www.who.int/health-topics/social-determinants-of-health)
-- [Organisation mondiale de la santé, déterminants sociaux de la santé mentale](https://www.who.int/publications/i/item/9789241506809)
-- [CNCDH, avis sur la précarité sociale et les droits fondamentaux](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000028048736)

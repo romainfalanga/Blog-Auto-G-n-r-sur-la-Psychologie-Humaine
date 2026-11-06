@@ -34,19 +34,16 @@ Elle ouvre son sac et sort la maquette. Elle lui explique qu’elle aimerait avo
 
 Un proche peut vouloir aider et ne pas savoir ce que l’autre attend de lui. Thaïs peut avoir besoin de quelqu’un qui l’écoute, reste un moment avec elle ou partage une tâche. Ces gestes ont des effets différents. Au cinéma, elle a trouvé une autre place après avoir parlé avec Milo. Pour la rencontre, elle souhaite surtout qu’il soit là au début. Son choix de rester en bas sera partagé avec les organisateurs qui peuvent l’aider à répondre aux questions.
 
-Il est possible de demander une présence sans demander à un proche de décider de ce qu’il faut essayer ni de garantir qu’aucune peur ne reviendra. La responsabilité du suivi reste avec Thaïs et Mme Verdier. Milo peut dire à quels moments il peut venir et ce qu’il est prêt à faire. Tous deux peuvent choisir un autre accord si les circonstances changent.
+## Une demande qui commence avant l’ouverture des portes
+
+Dans la phobie spécifique, le besoin de se préparer peut concerner des moments bien avant le passage redouté. Thaïs anticipe déjà une invitation vers la galerie. Elle voudrait que Milo reste toute la matinée, puis se rappelle qu’au cinéma elle avait déjà craint qu’il se lasse. Elle arrive à préciser qu’elle souhaite surtout une présence pendant les premières questions et qu’elle préfère répondre elle-même aux invitations à monter.
 
 ## Conserver une réponse quand le proche n’est plus là
 
-Dans la phobie spécifique, le besoin de se préparer peut concerner des moments bien avant le passage redouté. Thaïs anticipe déjà une invitation vers la galerie. Elle peut s’assurer avec Samir et Inès que la présence de Milo ne sera pas la seule manière de garder son rôle au sol. Leur accord sur la répartition permet de prévoir à qui transmettre une question. Le fonctionnement de la présentation peut être expliqué à tous sans dévoiler son diagnostic.
+Milo peut dire à quel moment il peut aider et ce qu’il est prêt à faire. Thaïs peut convenir avec lui d’une heure d’arrivée et lui dire qu’elle souhaite garder la réponse si on l’invite à monter. Elle peut s’assurer avec Samir et Inès que la présence de Milo ne sera pas la seule manière de garder son rôle au sol. Leur accord sur la répartition permet de prévoir à qui transmettre une question. Le fonctionnement de la présentation peut être expliqué à tous sans dévoiler son diagnostic.
 
 L’organisation de la rencontre répond aux besoins du projet et permet aux visiteurs d’accéder aux informations. Thaïs peut, de son côté, choisir ce qu’elle veut discuter dans son suivi sur cette crainte et sur ses choix. Un soutien familial et une décision professionnelle peuvent coexister sans demander à Milo de prendre la place de ses collègues ou de sa psychologue.
 
 ## La première heure ensemble
 
 Thaïs et Milo choisissent une heure d’arrivée. Il viendra l’aider à poser les affiches et partira après les premières questions. Elle lui demande d’apporter la carte postale du moulin pour expliquer d’où vient une des orthographes. Puis elle écrit à Inès pour vérifier qui prendra les questions sur la galerie. Elle ajoute à Milo que, s’il entend quelqu’un lui proposer la visite, elle préfère pouvoir répondre elle-même.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, Phobias](https://www.nhs.uk/mental-health/conditions/phobias/)

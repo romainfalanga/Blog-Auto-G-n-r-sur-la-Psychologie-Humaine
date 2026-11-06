@@ -92,5 +92,3 @@ Choisir ce que l’on révèle de soi demande de regarder le contenu et les cond
 Préciser le public, préparer plusieurs niveaux d’information et prévoir la suite peuvent rendre la décision plus libre. Vous pouvez demander des conditions de diffusion avant d’accepter un support. Une confidence reste un choix délimité, même lorsqu’elle figure dans un texte public. La curiosité qu’elle suscite ne décide pas du reste de votre récit.
 
 Si ces choix deviennent éprouvants ou se déroulent dans un environnement qui vous expose, une psychologue ou un autre professionnel respectueux peut aider à examiner les possibilités et les appuis. Le travail peut porter sur le contexte, pas seulement sur votre capacité à parler. Votre rythme et votre sécurité n’ont pas à être sacrifiés pour prouver une identité.
-
-Sources : [Étude qualitative longitudinale des intentions et choix de dévoilement au travail](https://pubmed.ncbi.nlm.nih.gov/38308106/).

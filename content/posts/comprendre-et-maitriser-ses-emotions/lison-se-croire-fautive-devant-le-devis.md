@@ -33,19 +33,16 @@ Nora revient avec ses lunettes. « On y va ? » Lison glisse le devis à côté 
 
 Une différence entre deux documents dit où vérifier avant de dire qui s’est trompé. Lison connaît le coût de certaines transcriptions. À la vue de chiffres inversés, elle croit d’abord que l’erreur vient d’elle. Dans la dyscalculie développementale, les exigences de rapidité et les tâches complexes peuvent rendre certaines difficultés plus visibles ; la présence d’un trouble n’explique pas chaque écart rencontré. Des personnes interrogées par Staller et ses collègues ont parlé de honte après des expériences chiffrées difficiles. Ce vécu aide à comprendre le premier mouvement de Lison. Sur le devis, ni les chiffres ni son sentiment ne permettent d’identifier l’auteur de l’écart.
 
-## Lever le doute utile avant midi
+## Deux longueurs à comparer au milieu du doute
 
-Ce que l’atelier doit savoir tient à une différence concrète : 1,58 m ferait 27 cm de moins que les 1,85 m demandés. Confirmer la mauvaise longueur pourrait empêcher le placement prévu. Au lieu d’examiner toute la journée d’hier à la recherche d’une faute, Lison peut montrer la ligne envoyée, le chiffre reçu et la quantité validée dans le dossier d’atelier. Chaque support répond à une question. La demande envoyée établit le nombre transmis par écrit ; le devis doit encore correspondre à la demande. Nora peut retarder la signature le temps de faire corriger ce seul point, même si les autres lignes sont justes.
+Lison voit « 1,58 m » sur le devis et « 185 cm » sur sa fiche. Elle se croit fautive avant même de refaire la conversion. Quand Nora s’approche pour signer, Lison a envie de retourner la feuille et sa voix sort plus fort qu’elle ne le souhaite. Le courriel lui remet sous les yeux la longueur qu’elle avait transmise, 1,85 m. L’écart représente 27 cm, assez pour compromettre le placement prévu si la commande partait avec la longueur du devis.
 
 ## Garder une seule version prête à partir
+
+Lison peut isoler la ligne du devis, la demande écrite et la quantité validée dans le dossier d’atelier. Le courriel établit ce qui a été transmis par écrit. Nora peut suspendre la signature de ce devis le temps de faire corriger l’écart.
 
 Lison peut préparer une demande de correction brève avec les deux longueurs, puis relire la réponse avec Nora avant toute validation. La correction se fait sur le devis du fournisseur, pas en changeant à la main la copie que l’atelier garde. Ensuite, l’ancienne version reste identifiée comme telle ; une seule doit servir au lancement de la commande et à la réception. Ce contrôle porte sur les documents et sur la décision d’achat. Lison garde la main sur les échanges et Nora décide au nom de l’atelier. Une fois la réponse validée, elles peuvent convenir du contrôle suivant et fermer le dossier pour la journée. Lison pourra reprendre à cette étape plutôt que se fier à sa mémoire.
 
 ## La bonne version dans le dossier
 
 Farah répond avant midi avec un nouveau devis. Lison compare la ligne du sergé : 1,85 m d’un seul tenant, B17, 140 cm. Nora vérifie aussi la toile ardoise et autorise la commande. Lison envoie la version validée sur instruction de Nora ; la confirmation du fournisseur arrive avant la pause. Elle classe le premier devis dans « anciennes versions » et note le prochain point : réception, mardi. Dehors, son sandwich a un coin tout aplati. Elle l’avait laissé sous la pochette du devis. Elle le sort sans reprendre son téléphone et va manger sur la marche où il reste un peu de soleil.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Staller et al. — Neurodivergent Conditions Critically Limit Societal Participation: The Case of Dyscalculia in Adults (2025)](https://journals.sagepub.com/doi/10.1177/27546330251406911)

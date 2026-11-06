@@ -100,5 +100,3 @@ Demander un aménagement au travail permet à Anaïs de relier ses difficultés 
 La démarche peut prendre du temps et demander des ajustements. Une prochaine étape claire et un retour sur l'activité réelle lui donnent néanmoins une portée plus concrète qu'une promesse générale de compréhension. Les relais ponctuels ne doivent pas masquer un besoin durable.
 
 Pour une difficulté de santé dans la fonction publique, renseignez-vous auprès du service de médecine de prévention et des interlocuteurs compétents de votre administration. Ils peuvent vous expliquer le cadre applicable à votre situation. Votre suivi médical personnel reste essentiel et ne se remplace pas par cette seule démarche professionnelle.
-
-Sources : [Service Public, santé et sécurité dans la fonction publique](https://www.service-public.gouv.fr/particuliers/vosdroits/F496) ; [Service Public, suivi médical professionnel d'un agent public](https://www.service-public.gouv.fr/particuliers/vosdroits/F31472) ; [Mon Parcours Handicap, maintien dans l'emploi](https://www.monparcourshandicap.gouv.fr/emploi/quest-ce-que-le-maintien-dans-lemploi).

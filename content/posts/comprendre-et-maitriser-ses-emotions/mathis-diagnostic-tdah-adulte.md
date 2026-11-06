@@ -32,6 +32,8 @@ En sortant, Mathis commande un café au comptoir et oublie d’enlever ses gants
 
 La psychiatre a rapproché les difficultés rapportées dans la durée, les indices qui remontent à l’enfance et leurs conséquences dans plusieurs domaines de la vie de Mathis. Elle a également examiné son état actuel, ses périodes de mauvais sommeil et les autres explications possibles. Une partie du travail consiste à distinguer les difficultés persistantes de celles qui apparaissent dans un contexte précis. Un entretien, des observations et les éléments scolaires prennent leur sens ensemble. Le code 6A05 désigne le TDAH dans la CIM-11 de l’OMS.
 
+## Comment cette difficulté se manifeste
+
 Le fait que Mathis sache se concentrer sur certains travaux fait partie de ce tableau. La spécialiste lui explique que les manifestations peuvent varier avec l’activité, la structure des tâches et l’aide disponible. Mathis peut réussir un réglage exigeant dans un atelier calme et perdre le fil quand trois personnes l’interpellent au milieu. Ses compétences et le coût de certaines conditions de travail méritent chacun une description. Le diagnostic renseigne sur ces difficultés sans décider de la place que la réparation a dans sa vie.
 
 ## Poser la première question sur la suite
@@ -43,8 +45,3 @@ Le diagnostic peut susciter des réactions mêlées. Mathis se sent soulagé d�
 ## Ce que Mathis choisit de dire
 
 Chez eux, Simon écoute le début du récit dans la cuisine. Mathis lui dit le nom du trouble et lui demande de garder l’information entre eux. Pour l’instant, il voudrait parler du vélo bleu et du jour où il a recommencé la vérification. Simon attend qu’il finisse. Mathis retourne ensuite chercher le plan de la place des Tilleuls dans son sac. Il a oublié que Zélie l’avait gardé. Il lui écrit qu’il a une idée pour organiser les arrivées pendant les réparations et lui demande quand elle pourra l’écouter.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG87, évaluation et accompagnement du TDAH](https://www.nice.org.uk/guidance/ng87/chapter/recommendations)

@@ -90,5 +90,3 @@ Expliquer un échec demande de chercher des causes assez précises pour guider l
 Vous pouvez choisir un événement limité et demander ce qui est observé, ce qui reste supposé et ce qui peut être vérifié. Une explication utile tient compte des connaissances, de la méthode et des conditions. Elle n'a pas besoin de vous promettre une réussite certaine pour ouvrir une prochaine action raisonnable.
 
 Si les échecs déclenchent une autocritique intense, une honte durable ou un découragement qui vous empêche d'agir, un professionnel peut vous aider à travailler cette souffrance. Un formateur peut aussi préciser les apprentissages nécessaires. Vous avez le droit de recevoir une correction et un soutien respectueux au même moment.
-
-Sources : [Bernard Weiner, attributions, motivation et émotions](https://pubmed.ncbi.nlm.nih.gov/3903815/) ; [Breines et Chen, compassion envers soi et motivation à s'améliorer](https://journals.sagepub.com/doi/10.1177/0146167212445599).

@@ -32,6 +32,8 @@ Elles étalent le calendrier des livraisons sur le comptoir. Le jeudi, il y a un
 
 L’évaluation du retentissement d’une dépression tient compte de la vie au travail, à la maison et dans les relations. Arriver à effectuer une tâche ne renseigne pas sur tout ce qu’elle demande. Inaya a fini le bouquet, répondu à la cliente et fermé la caisse. Elle peut quand même expliquer qu’à cette heure les mêmes gestes lui coûtent plus et qu’elle a du mal à récupérer ensuite.
 
+## Comment cette difficulté se manifeste
+
 Les contraintes ne viennent pas toutes de sa santé. Une commande a déjà été promise et sa collègue a ses propres engagements. Elle peut distinguer les heures où un service est réellement attendu, les heures affichées par habitude et les tâches pour lesquelles une deuxième personne aide. Ce regard lui donne des faits à discuter au suivi, sans réduire sa vie professionnelle à un niveau d’énergie.
 
 ## Essayer un changement limité et en regarder les effets
@@ -43,9 +45,3 @@ La possibilité d’aménager le travail dépend de l’activité, de l’équip
 ## Deux fermetures à essayer
 
 Mina prend un petit panneau et écrit les deux dates avec leurs heures. Elles laissent le jeudi pour la fin : Inaya va proposer à la cliente de venir au début de la journée. À dix-neuf heures passées, la caisse est comptée. Inaya accroche le panneau assez bas pour qu’on puisse lire la deuxième ligne. À la maison, elle ouvre son carnet pour le rendez-vous et note ce qu’elle voudra raconter de cette demi-heure. Puis elle appelle Nino, qui essaie de savoir s’ils ont le droit de mettre deux fromages dans le même sandwich.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, épisode dépressif caractérisé chez l’adulte](https://www.has-sante.fr/jcms/c_1739917/fr/episode-depressif-caracterise-de-l-adulte-prise-en-charge-en-premier-recours)
-- [NICE NG222, dépression de l’adulte](https://www.nice.org.uk/guidance/NG222/chapter/recommendations)

@@ -96,5 +96,3 @@ Reconnaître sa fatigue sans culpabiliser permet de distinguer un besoin de réc
 Vincent ne découvre pas une formule qui rend chaque pause confortable. Il apprend à ne plus attendre l’effondrement pour discuter de ce qu’il peut porter. Une limite précise laisse davantage de place à un engagement choisi et à la parole de Cédric. Elle rend aussi visibles les problèmes d’organisation qui demandent des moyens réels.
 
 Si la fatigue persiste, change de façon inhabituelle ou gêne durablement les activités, un médecin peut aider à en rechercher les causes. Un psychologue peut accompagner une culpabilité tenace, et un professionnel social peut explorer les soutiens disponibles. Vous n’avez pas besoin de prouver que vous allez plus mal que quelqu’un d’autre pour parler de vos difficultés.
-
-Sources : [Kristin Neff, définition de la bienveillance envers soi](https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf) ; [Assurance Maladie, fatigue : quand consulter](https://www.ameli.fr/assure/sante/themes/asthenie-fatigue/bons-reflexes-cas-faut-consulter).

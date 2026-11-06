@@ -30,7 +30,11 @@ Dans son message, Lise explique qu’elle peut garder la place à côté d’une
 
 ## Revenir à une activité par une part choisie
 
-La reprise d’une activité peut se préparer à partir de ce que la personne souhaite y retrouver. Garance a envie de jouer un passage et d’entendre les autres. Elle peut aussi écouter, partir à la pause ou décider le jour même que cela lui coûte trop. L’ensemble peut organiser la répétition avec cette possibilité. L’objectif de Garance est une place qu’elle juge tenable à ce moment de son suivi.
+La reprise d’une activité peut se préparer à partir de ce que la personne souhaite y retrouver. Garance a envie de jouer un passage et d’entendre les autres. Elle peut aussi écouter, partir à la pause ou décider le jour même que cela lui coûte trop. L’ensemble peut organiser la répétition avec cette possibilité.
+
+## Comment cette difficulté se manifeste
+
+L’objectif de Garance est une place qu’elle juge tenable à ce moment de son suivi.
 
 Le NICE invite à discuter des objectifs personnels et des appuis qui aident à les poursuivre. Garance continue de voir sa psychiatre et sa psychologue. Elles peuvent revenir sur la période de risque, les questions de traitement et la façon dont Garance reprend ses activités. La répétition ne donne pas une mesure de sa sécurité pour les jours suivants. Si des inquiétudes reviennent, Garance sait vers quels contacts professionnels se tourner.
 
@@ -43,8 +47,3 @@ Avec Éva, elle souhaite marcher jusqu’à l’entrée. Elle pourra lui dire en
 ## L’archet s’arrête après les huit mesures
 
 Garance retrouve l’autre altiste au pupitre. Elle lui demande de laisser un peu de place pour sa partition, puis indique l’endroit où elle reprendra. Elle entend la première note d’Éva et joue les huit mesures. À la pause, elle ferme son étui. Lise lui demande ce qu’elle veut faire pour le concert. Garance répond qu’elle souhaite jouer la valse et qu’elle veut garder l’accord sur le relais si elle doit modifier sa présence. Elles prennent un moment le lendemain pour confirmer les détails. Garance reste une minute près de la porte, où elle entend les violons reprendre sans elle.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

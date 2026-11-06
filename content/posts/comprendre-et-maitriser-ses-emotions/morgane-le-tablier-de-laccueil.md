@@ -32,17 +32,16 @@ Morgane serre la branche au lieu de la poser. Elle pense à ce que Sonia lui ava
 
 ## Une gêne qui peut faire perdre le fil
 
-Certaines personnes avec une hyperphagie boulimique connaissent des préoccupations corporelles qui pèsent sur leur manière de se juger. La scène montre une réaction à une remarque, dans le contexte propre de Morgane. Pendant un instant, une partie de son attention part dans ce que l’autre personne a voulu dire et dans l’idée de quitter la table. L’impact d’une conversation peut être réel même si son auteure croyait être aimable. Cette situation peut être reprise avec l’équipe comme un élément du vécu social. Elle ne permet pas de prévoir ce que Morgane éprouvera après l’ouverture ou à une autre occasion.
+Certaines personnes avec une hyperphagie boulimique connaissent des préoccupations corporelles qui pèsent sur leur manière de se juger. La scène montre une réaction à une remarque, dans le contexte propre de Morgane. Pendant un instant, une partie de son attention part dans ce que l’autre personne a voulu dire et dans l’idée de quitter la table.
+
+## Le commentaire qui coupe le fil de la démonstration
+
+Morgane a la branche à la main quand la visiteuse parle de son ventre. Elle oublie où elle voulait la poser et envisage de demander à Yassine de reprendre la démonstration. L’impact de la remarque est visible même si la visiteuse croyait être aimable. Quand Morgane pose enfin la branche, elle reste troublée. Ce moment décrit ce qu’elle éprouve à cette table, dans cet échange.
 
 ## Donner une limite puis choisir la suite
 
-Morgane peut choisir une réponse courte à la visiteuse. Elle peut aussi demander une pause ou laisser Sonia reprendre un geste si elle le préfère. Le fait qu’elle ait posé une limite ne l’oblige pas à poursuivre la démonstration. Elle peut essayer de retrouver sa place et remarquer si elle a besoin d’un instant. Sonia peut se rendre disponible sans donner d’explication personnelle aux visiteurs. L’entourage et les collègues peuvent contribuer à un échange plus respectueux en ramenant l’attention sur ce que la personne souhaite partager. Les décisions concernant le suivi se prennent dans l’espace prévu avec les professionnels.
+Morgane peut choisir une réponse courte à la visiteuse. Elle peut aussi demander une pause ou laisser Sonia reprendre un geste si elle le préfère. Le fait qu’elle ait posé une limite ne l’oblige pas à poursuivre la démonstration. Elle peut essayer de retrouver sa place et remarquer si elle a besoin d’un instant. Sonia peut se rendre disponible sans donner d’explication personnelle aux visiteurs. L’entourage et les collègues peuvent contribuer à un échange plus respectueux en ramenant l’attention sur ce que la personne souhaite partager. Morgane peut reprendre cette situation avec les professionnels comme un exemple du coût social de ces remarques.
 
 ## Laisser la branche faire son poids
 
 La visiteuse accepte d’essayer. Elle pousse d’abord sur la tige, puis desserre les doigts quand Morgane lui montre où elle peut l’appuyer. Morgane demande à Sonia de lui garder une minute entre deux visiteurs. De l’autre côté, Yassine lève son support pour montrer qu’il peut tenir sans la main. Un peu plus tard, quelqu’un propose d’envoyer une photo à la lettre du quartier. Morgane répond qu’elle veut revoir avec le groupe le cadrage et le texte avant leur envoi.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et Fédération française anorexie boulimie, recommandations sur la boulimie et l’hyperphagie boulimique](https://www.has-sante.fr/upload/docs/application/pdf/2019-09/boulimie_et_hyperphagie_boulimique_-_recommandations.pdf)

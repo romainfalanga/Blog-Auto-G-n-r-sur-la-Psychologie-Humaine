@@ -32,7 +32,11 @@ Sur la première page, il y a l’heure du prochain rendez-vous. Sur la page des
 
 Quand une personne craint de se faire du mal ou de ne plus rester en sécurité, une aide urgente prend le relais. Garance dit clairement ce qui l’inquiète. Elle peut joindre les services d’urgence et expliquer où elle se trouve. Le prochain rendez-vous et les décisions concernant la répétition attendront. L’évaluation du risque et la réponse immédiate reviennent aux professionnels qui prennent l’appel.
 
-Le NICE recommande d’avoir prévu avec la personne les contacts utiles lorsque le risque augmente. Le plan de Garance lui donne un point de départ. Elle peut aussi demander de l’aide urgente si elle ne retrouve pas le plan. Son amie n’a pas à établir la gravité de l’épisode. Elle peut prendre au sérieux les mots de Garance, aider à établir le contact et solliciter elle-même les secours si l’appel n’aboutit pas ou si Garance ne peut plus le faire.
+Le NICE recommande d’avoir prévu avec la personne les contacts utiles lorsque le risque augmente.
+
+## Comment cette difficulté se manifeste
+
+Le plan de Garance lui donne un point de départ. Elle peut aussi demander de l’aide urgente si elle ne retrouve pas le plan. Son amie n’a pas à établir la gravité de l’épisode. Elle peut prendre au sérieux les mots de Garance, aider à établir le contact et solliciter elle-même les secours si l’appel n’aboutit pas ou si Garance ne peut plus le faire.
 
 ## Laisser l’équipe prendre la suite
 
@@ -43,8 +47,3 @@ Après la réponse urgente, Garance pourra examiner avec son équipe ce qu’ell
 ## Une voix reprend l’adresse avec elle
 
 La personne qui prend l’appel répète l’adresse et explique ce que les services d’urgence vont faire. Garance garde la ligne pendant qu’une intervention est organisée. Elle répond aux questions qu’on lui pose et laisse la partition où elle est. Plus tard, quand les professionnels prennent la suite, Éva lui envoie un mot bref. Garance le lit quand elle en a la possibilité. L’équipe qui la reçoit fixe la prochaine étape des soins. Le lendemain, Garance demande à Éva de prévenir Lise qu’elle sera absente à la prochaine répétition. Elle lui indique la phrase qu’elle souhaite transmettre.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

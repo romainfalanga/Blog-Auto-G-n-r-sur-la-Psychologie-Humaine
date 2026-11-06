@@ -33,6 +33,8 @@ Son assiette est encore froide. Il appelle sa sœur et lui dit qu’il a été e
 
 Des perceptions inhabituelles qui se répètent et gênent nettement la vie méritent un avis professionnel rapide, même si la personne ne sait pas les nommer. Zéphyr peut parler de ce qu’il a cru entendre, du moment où cela a commencé à revenir plus souvent et des effets sur ses repas et ses sorties. Il n’a pas à trouver seul l’origine du son pour que cette description soit utile.
 
+## Comment cette difficulté se manifeste
+
 Dans la CIM-11, le trouble schizotypique se distingue de la schizophrénie et d’autres troubles psychotiques. Certaines expériences d’allure psychotique peuvent être transitoires ; la distinction se fait lors d’une évaluation qui tient compte de l’intensité, de la durée, du retentissement et d’autres explications possibles. L’expérience de Zéphyr ne suffit pas à conclure qu’il traverse un épisode psychotique ou que son diagnostic a changé.
 
 ## Faire appel à deux personnes pour deux besoins
@@ -44,9 +46,3 @@ Pour l’atelier, une seule décision est nécessaire dans l’immédiat : maint
 ## Un rendez-vous et une date à libérer
 
 Le secrétariat transmet son appel. Sonia le rappelle dans la matinée et le centre lui propose un entretien médical le jour même. Zéphyr accepte. Il demande à Maud de libérer le samedi ; elle prévient les inscrits que la séance est reportée et qu’une nouvelle date sera proposée si le musée peut l’assurer. Il arrive au centre avec les heures dont il se souvient et le souvenir des deux dîners qu’il a laissés passer. Le médecin l’écoute, lui pose des questions sur ces journées et convient avec lui d’un prochain point rapproché avec l’équipe et de la façon de la joindre d’ici là. En rentrant, Zéphyr trouve Agnès au pied de l’immeuble. Il lui demande de marcher avec lui jusqu’à l’épicerie.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Mayo Clinic, schizotypie : évaluation, psychothérapies et accompagnement](https://www.mayoclinic.org/diseases-conditions/schizotypal-personality-disorder/diagnosis-treatment/drc-20353924)
-- [NICE, CG178, évaluation spécialisée en cas de manifestations évocatrices de psychose chez l’adulte](https://www.nice.org.uk/guidance/cg178/evidence/full-guideline-pdf-490503565)

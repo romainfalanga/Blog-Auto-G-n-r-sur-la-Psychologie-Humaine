@@ -90,5 +90,3 @@ Démarrer une tâche devient plus accessible quand le résultat attendu, les moy
 Vous pouvez partir d'une question concrète : qu'est-ce qui serait différent après un premier essai raisonnable ? Si la réponse demeure floue, une clarification peut être l'action la plus pertinente. Si un moyen manque, le demander fait partie du travail. L'objectif est une entrée possible dans la tâche, pas une preuve de volonté à fournir chaque fois que vous hésitez.
 
 Si l'impossibilité de commencer devient persistante, touche de nombreuses activités ou provoque une souffrance importante, un professionnel peut vous aider à examiner les facteurs en jeu. Les appuis individuels peuvent se combiner avec une discussion sur la charge et les conditions de travail. Vous n'avez pas à choisir entre vous accuser et prétendre que rien ne peut changer.
-
-Sources : [Peter Gollwitzer, intentions de mise en œuvre et passage à l'action](https://prospectivepsych.org/publications/implementation-intentions-strong-effects-simple-plans) ; [Barry Zimmerman, organisation de l'apprentissage et de l'action](https://doi.org/10.1207/s15430421tip4102_2).

@@ -94,5 +94,3 @@ Organiser un relais concret demande de relier un besoin réel à une mission acc
 Pour Vincent, le changement se voit dans une commande effectivement retirée sans qu’il coordonne chaque geste. Cédric conserve sa parole et Julie sa liberté. Le relais reste limité, mais il devient utilisable. Un soutien modeste, clairement défini et révisable peut avoir plus de valeur qu’une promesse générale qui laisse tout le travail de coordination au même endroit.
 
 Si les besoins dépassent les ressources de l’entourage, un professionnel social ou médico-social peut aider à évaluer les options disponibles et leurs conditions. Un médecin ou un psychologue peut accompagner les difficultés de santé ou la détresse qui persistent. Demander un relais ne vous oblige pas à confier une tâche inadaptée à un proche ni à accepter n’importe quelle forme d’aide.
-
-Sources : [Haute Autorité de santé, recommandations sur le répit des aidants](https://www.has-sante.fr/jcms/p_3351732/fr/repit-des-aidants).

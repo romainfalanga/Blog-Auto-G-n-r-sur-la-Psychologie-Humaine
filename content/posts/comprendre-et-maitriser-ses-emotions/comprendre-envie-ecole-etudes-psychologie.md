@@ -11,6 +11,9 @@ personnage: "Fabien"
 sujet: "envie"
 contexte: "à l'école ou aux études"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/19213918/
+- https://pubmed.ncbi.nlm.nih.gov/19485619/
 ---
 
 Fabien ajuste ses lunettes tout en observant son fils, Lucas, penché sur son manuel de physique dans le salon de leur nouvel appartement. Le silence n'est plus aussi pesant que lors de leurs précédentes rencontres, car Fabien a appris à ne plus craindre les blancs dans la conversation, un héritage de son père qu'il s'efforce de déconstruire. Pourtant, une tension invisible flotte dans l'air cet après-midi de début avril. Lucas jette un regard sombre sur l'écran de son téléphone, où défilent les résultats d'admission d'un de ses camarades de classe, admis dans une grande école de commerce alors que lui attend encore une réponse.
@@ -60,5 +63,3 @@ L'envie dans le cadre des études est une étape humaine, un miroir de nos propr
 Ces sentiments de frustration ou d'infériorité sont fréquents. Ces émotions sont des indicateurs précieux de ce qui compte pour vous, et apprendre à les écouter sans se laisser submerger est une compétence clé de l'intelligence émotionnelle. Chaque progrès vers une meilleure compréhension de soi est une victoire sur l'ombre de la comparaison.
 
 Si vous sentez que l'envie ou la pression liée à la réussite scolaire devient trop lourde à porter, ou si elle affecte durablement votre santé mentale et votre estime de soi, il est utile de consulter un psychologue ou un conseiller d'orientation. Parler à un professionnel permet de mettre en lumière des schémas profonds et de trouver des outils adaptés pour s'épanouir sereinement dans son parcours.
-
-Sources : [Takahashi et al., Science, 2009](https://pubmed.ncbi.nlm.nih.gov/19213918/) ; [Van de Ven et al., 2009](https://pubmed.ncbi.nlm.nih.gov/19485619/).

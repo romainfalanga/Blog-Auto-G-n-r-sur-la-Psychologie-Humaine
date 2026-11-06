@@ -1,5 +1,5 @@
 ---
-title: "Baptiste : quand deux valeurs importantes se heurtent"
+title: Quand deux valeurs importantes se heurtent
 date: 2026-11-03T10:50:00+00:00
 description: "Baptiste veut limiter les trajets en voiture et préserver une visite familiale. Il cherche un arbitrage sans transformer une valeur en faute."
 categories: ["Reprendre le contrôle de ses pensées"]
@@ -74,7 +74,3 @@ Deux valeurs importantes peuvent demander des actions différentes dans une situ
 Lorsque d’autres personnes sont concernées, leurs raisons et leurs contraintes ne doivent pas devenir de simples obstacles à votre valeur personnelle. Un accord peut garder une insatisfaction sans transformer le désaccord en faute morale. Vous pouvez décider pour aujourd’hui et conserver une direction pour la suite, avec des démarches partagées plutôt qu’une promesse générale de tout faire mieux plus tard.
 
 Si les conflits de valeurs alimentent des disputes répétées, une culpabilité envahissante ou une impression de ne jamais pouvoir choisir correctement, un psychologue, un médecin ou un professionnel adapté peut vous aider à les examiner. Selon le contexte, un travail sur les conditions concrètes sera aussi nécessaire. Le soutien peut rendre les arbitrages plus compréhensibles et plus discutables, sans imposer une hiérarchie unique de ce qui devrait compter dans votre vie.
-
-Sources :
-- [OMS, Doing What Matters in Times of Stress](https://www.who.int/publications/i/item/9789240003927)
-- [NHS, Problem solving](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)

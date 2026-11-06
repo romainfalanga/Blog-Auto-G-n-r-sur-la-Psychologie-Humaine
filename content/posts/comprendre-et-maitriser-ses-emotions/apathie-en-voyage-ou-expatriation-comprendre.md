@@ -11,6 +11,9 @@ personnage: "Bernard"
 sujet: "apathie"
 contexte: "en voyage ou en expatriation"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/1821241/
+- https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/article/que-faire-et-a-qui-s-adresser-face-a-une-crise-suicidaire
 ---
 
 Éric avait réservé le séjour pour ses cinquante-huit ans. Bernard a glissé la carte du village toscan dans sa poche et s’est arrêté à la première place. Il a dit au téléphone que l’arrivée s’était bien passée. Maintenant que personne ne lui demande rien, il ne sait pas très bien ce qu’il aurait envie de voir.
@@ -74,5 +77,3 @@ Une impression de vide loin de chez soi ne fait pas de vous une personne froide.
 Bernard s’accorde le droit de ne pas s’enthousiasmer et s’appuie sur un intérêt familier. Cette expérience ne garantit pas que la curiosité reviendra d’elle-même.
 
 Si le désintérêt est marqué, persiste ou rend les gestes ordinaires difficiles, prenez conseil auprès d’un professionnel de santé sans attendre plusieurs mois. Des idées suicidaires demandent de l’aide dès qu’elles apparaissent ; en cas de danger immédiat, contactez les secours.
-
-Sources : [Marin, Apathy: a neuropsychiatric syndrome](https://pubmed.ncbi.nlm.nih.gov/1821241/) ; [Ministère de la Santé, aide en cas de crise suicidaire](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/article/que-faire-et-a-qui-s-adresser-face-a-une-crise-suicidaire).

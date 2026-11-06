@@ -1,5 +1,5 @@
 ---
-title: "Samira : quand la précarité occupe les pensées"
+title: Quand la précarité occupe les pensées
 date: 2026-09-01T08:00:00+00:00
 description: "Entre caisse, école et factures, Samira cherche des appuis pour alléger les soucis sans nier les contraintes de sa précarité."
 slug: "samira-precarite-place-soucis"
@@ -98,8 +98,3 @@ Les soucis de précarité ne témoignent pas d’un manque de volonté. Ils sign
 Une note, une clarification ou quelques instants d’attention partagée peuvent préserver une marge modeste. Leur utilité varie avec la situation. On peut les essayer sans les transformer en nouvelle mesure de sa valeur, et chercher des appuis humains lorsque l’effort solitaire devient trop lourd.
 
 Si l’inquiétude perturbe durablement le sommeil, le travail ou les liens, un médecin ou un psychologue peut aider à comprendre ce qui se passe. Un accompagnement social peut être recherché en parallèle pour les besoins matériels. Ces soutiens répondent à des dimensions différentes d’une même vie, sans demander de choisir entre être écoutée et pouvoir vivre dignement.
-
-Sources :
-- [Mani et ses collègues, étude sur les préoccupations financières et la cognition](https://pubmed.ncbi.nlm.nih.gov/23990553/)
-- [Carvalho et ses collègues, étude sur les ressources financières et la décision autour du jour de paie](https://business.columbia.edu/faculty/research/poverty-and-economic-decision-making-evidence-changes-financial-resources-payday)
-- [Organisation mondiale de la santé, guide Faire ce qui compte en période de stress](https://www.who.int/fr/publications/b/53604)

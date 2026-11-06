@@ -44,8 +44,3 @@ Lison peut séparer « reçu et vérifié », « reçu mais en attente » et « 
 ## La pancarte sur l’ocre
 
 Nora vient pendant qu’elle remet le bordereau à plat. Lison lui montre d’abord la toile prête, puis la ligne de l’ocre. Nora pose sur le coupon la pancarte que l’atelier utilise pour les retours et note l’écart dans le dossier fournisseur. Elles fixent un point le lendemain avant le premier essayage ; Nora demandera à Ilyès s’il peut être disponible pour poser les gabarits. Lison pourra ensuite transmettre la demande de l’atelier. Elle glisse le bordereau avec le devis, dans la même pochette. Quand on revient la chercher pour préparer l’essayage, elle sait où elle s’arrête et ce que Nora reprend.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Mon Parcours Handicap — Compenser votre handicap en formation](https://www.monparcourshandicap.gouv.fr/formation-professionnelle/compenser-votre-handicap-en-formation)

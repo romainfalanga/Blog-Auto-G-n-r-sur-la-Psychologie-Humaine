@@ -30,7 +30,11 @@ La psychiatre reprend l’histoire avec lui, les résultats des examens décidé
 
 ## Ce que la psychiatre met en relation
 
-Le trouble panique, classé 6B01 dans la CIM-11, comporte des attaques de panique inattendues qui se répètent. La peur durable qu’elles reviennent ou les conduites adoptées pour en éviter le retour font aussi partie du tableau. La psychiatre regarde ensemble les épisodes, leurs circonstances, les conséquences et les autres explications possibles. Chez Jules, elle tient compte de l’histoire qu’il décrit et des éléments du bilan. L’évaluation ne repose pas sur la seule visite aux urgences.
+Le trouble panique, classé 6B01 dans la CIM-11, comporte des attaques de panique inattendues qui se répètent. La peur durable qu’elles reviennent ou les conduites adoptées pour en éviter le retour font aussi partie du tableau. La psychiatre regarde ensemble les épisodes, leurs circonstances, les conséquences et les autres explications possibles.
+
+## Comment cette difficulté se manifeste
+
+Chez Jules, elle tient compte de l’histoire qu’il décrit et des éléments du bilan. L’évaluation ne repose pas sur la seule visite aux urgences.
 
 Jules peut demander ce que le diagnostic explique et ce qui mérite encore d’être examiné séparément. Il se souvient que la douleur thoracique du marché lui a paru nouvelle. La réponse des professionnels à cet épisode garde sa place dans son dossier. Un nom donné aujourd’hui ne constitue pas une explication automatique de chaque signe physique qui pourra survenir plus tard.
 
@@ -43,8 +47,3 @@ La consultation permet aussi de préciser qui contacter selon le besoin. Une que
 ## La verrière laissée inachevée
 
 La psychiatre lui propose un autre entretien pour discuter de la prise en charge. Dans le bus du retour, Jules retrouve la forme de l’arche qu’il avait trop élargie. Il range le carnet avant de la corriger. Il préfère dire à Solange comment s’est passé le rendez-vous dans une conversation où ils auront du temps. En sortant, il lui écrit pour lui demander quel soir elle sera à la maison.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

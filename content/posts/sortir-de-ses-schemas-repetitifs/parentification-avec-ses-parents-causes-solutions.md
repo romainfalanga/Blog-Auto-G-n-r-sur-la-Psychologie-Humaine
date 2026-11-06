@@ -11,6 +11,8 @@ personnage: "Isabelle"
 sujet: "la parentification"
 contexte: "avec ses parents"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/37444045/
 ---
 
 Geneviève a posé les factures sur le tapis. Isabelle s’assoit par terre et ouvre la première enveloppe avant même que sa mère ait fini de lui expliquer pourquoi elle l’a appelée. C’est la place qu’elle prend chaque fois dans ce salon. À huit ans déjà, elle allait s’asseoir près de sa mère après les disputes.
@@ -68,5 +70,3 @@ Dehors, elle écrit à Aurélie qu’elle a hâte de rentrer. Elle s’aperçoit
 Le vécu d’Isabelle donne un exemple de responsabilités familiales portées trop tôt. Il invite à examiner les demandes actuelles, l’aide que l’on souhaite offrir et les ressources qui existent autour de soi.
 
 Si les responsabilités familiales vous laissent peu de place pour le reste de votre vie et que la fatigue s’installe, vous pouvez en parler à un psychologue.
-
-Sources : [Dariotis et collègues, revue systématique des travaux sur la parentification, 2023](https://pubmed.ncbi.nlm.nih.gov/37444045/).

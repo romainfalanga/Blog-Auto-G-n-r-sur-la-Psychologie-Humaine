@@ -1,5 +1,5 @@
 ---
-title: "Patrick ouvre un carnet après la mort de Marcel"
+title: L’écriture expressive après la mort d’un proche
 date: 2026-05-16T05:37:51+00:00
 description: "Patrick essaie d’écrire quelques lignes sur son père et décide de ce qu’il souhaite partager avec sa famille."
 categories: ["Comprendre et maîtriser ses émotions"]
@@ -11,6 +11,9 @@ personnage: "Patrick"
 sujet: "écriture expressive (Pennebaker)"
 contexte: "en famille"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/3745650/
+- https://pubmed.ncbi.nlm.nih.gov/11860043/
 ---
 
 Patrick retourne dans le garage de ses parents avec un carnet. Il le pose du côté de l’établi que la massue n’a pas fendu. La poussière est restée dans les rainures du bois. Il la voit aussi sur la boîte que l’éclat a heurtée. Il ne la balaie pas. Il tire le tabouret près du bord intact et prend le temps de s’asseoir.
@@ -22,6 +25,8 @@ Catherine doit revenir avec Stéphanie. Ils n’ont pas repris le tri. Patrick a
 ## Comprendre ce que la recherche appelle écriture expressive
 
 Pennebaker et Beall ont étudié des exercices où des participants écrivaient sur des expériences difficiles selon des consignes précises. Ces travaux comparent des groupes et des résultats mesurés. Ils ne montrent pas que toute personne devrait écrire sur un traumatisme, ni qu’écrire renforce l’immunité, protège de la violence ou fait disparaître une douleur.
+
+## Quand les mots restent difficiles à trouver
 
 Dans un essai mené chez des personnes récemment endeuillées, Stroebe et ses collègues n’ont pas trouvé d’amélioration de l’adaptation au deuil liée à la consigne d’écriture étudiée. Patrick choisit d’écrire parce qu’il en a envie et qu’il veut préparer quelques mots. Il n’en fait pas une étape nécessaire après le décès de Marcel.
 
@@ -44,8 +49,7 @@ Patrick peut noter le rendez-vous qu’il souhaite prendre ou la tâche qu’il 
 Sur la première page, Patrick écrit le nom de Marcel, puis une phrase sur la pince et le ruban. Il laisse deux lignes vides. En dessous, il note qu’il a peur de retourner au tri et de s’emporter encore. Il s’arrête quand il commence à réécrire la même phrase.
 
 La voiture de Catherine se gare. Patrick ferme le carnet et rejoint l’entrée. Il lui dit qu’il a laissé un message pour le rendez-vous. Puis il demande si elle veut reprendre les papiers ensemble un autre jour. « Pas aujourd’hui », répond-elle. Il acquiesce, lui tient la porte et demande à Stéphanie si elle veut un café.
+
 ---
 
 Écrire quelques lignes est un choix. Si cela augmente la détresse, on peut s’arrêter et en parler à une personne de confiance ou à un professionnel. Un carnet peut aider à préparer un échange, en parallèle d’un soutien adapté lorsque le besoin se présente.
-
-Sources : [Pennebaker et Beall, essai sur l’écriture de situations éprouvantes, 1986](https://pubmed.ncbi.nlm.nih.gov/3745650/), [Stroebe et collègues, étude sur l’expression émotionnelle après un décès, 2002](https://pubmed.ncbi.nlm.nih.gov/11860043/).

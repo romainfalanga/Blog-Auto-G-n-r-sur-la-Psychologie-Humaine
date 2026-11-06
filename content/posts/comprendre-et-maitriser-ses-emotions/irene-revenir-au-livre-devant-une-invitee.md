@@ -31,7 +31,11 @@ Quand elle parle, Aya a refermé le pli et attend. Irène dit « J’ai perdu ma
 
 ## Un essai utile peut encore être difficile
 
-Une adaptation peut résoudre un obstacle et laisser subsister une difficulté dans une autre partie de l’activité. Le livre et les feutres d’Irène sont accessibles. Cette fois, la lectrice choisit une route qu’Irène n’attendait pas et fait avancer les pages à son rythme. Au moment de retrouver sa place dans l’échange, Irène a besoin d’un repère qui lui indique où Aya en est. Le résultat du montage de mardi reste valable : ils avaient alors comparé des versions sans avoir à guider une lectrice.
+Une adaptation peut résoudre un obstacle et laisser subsister une difficulté dans une autre partie de l’activité. Le livre et les feutres d’Irène sont accessibles. Cette fois, la lectrice choisit une route qu’Irène n’attendait pas et fait avancer les pages à son rythme.
+
+## Comment cette difficulté se manifeste
+
+Au moment de retrouver sa place dans l’échange, Irène a besoin d’un repère qui lui indique où Aya en est. Le résultat du montage de mardi reste valable : ils avaient alors comparé des versions sans avoir à guider une lectrice.
 
 L’excitation, la fatigue ou le fait d’être très absorbé peuvent accompagner les mouvements stéréotypés. Un seul essai ne dit pas ce qui les fait revenir à tel instant. Irène peut dire ce qu’elle a perdu dans cette lecture et essayer une manière d’y retourner, sans avoir à expliquer pourquoi ses mains ont bougé.
 
@@ -44,8 +48,3 @@ Le ticket d’Aya leur fournit une autre idée. Un petit marque-page à la derni
 ## Le ticket sous les cheminées
 
 Irène montre la cheminée basse. « Tu peux rouvrir celle-là ? Après je demande. » Ilyès revient au pli qu’Aya vient de fermer. Irène lui demande ce qu’elle a vu ; Aya dit qu’elle aurait laissé le ticket près de la porte du boulanger. Elle le glisse là, comme un signet. Irène leur propose de garder l’idée et de fabriquer des marque-pages pour le samedi de lecture. Ilyès vérifie ce qu’elle voudra s’il faut lui passer une page. « Montre-la-moi », dit-elle. Elle veut encore poser la question elle-même. Avant de rentrer, Aya essaie enfin le canal. Elle trouve la fenêtre sans leur demander d’aide.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Great Ormond Street Hospital for Children (NHS) — Stereotypies: repetitive movements or sounds (2026)](https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/stereotypies-repetitive-movements-or-sounds/)

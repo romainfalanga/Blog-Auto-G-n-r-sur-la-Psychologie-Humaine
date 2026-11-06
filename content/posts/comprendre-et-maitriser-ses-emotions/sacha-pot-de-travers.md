@@ -31,7 +31,11 @@ Dans la réserve, il entend madame Baudry rire quand Gaspard cherche la boîte �
 
 ## Quand le regard change la situation
 
-La crainte d’être jugé peut surgir dans un échange, pendant un geste ordinaire sous le regard des autres ou au moment de prendre la parole devant un groupe. Ce qui change pour Sacha est perceptible au milieu d’une tâche qu’il connaît bien. Il tenait son pot tout en parlant à madame Baudry ; à l’arrivée de deux personnes, il se demande surtout ce que son pouce leur laisse voir. Le tremblement n’indique pas à lui seul ce qui se passe. Le sens que Sacha lui prête, et la place que prend cette inquiétude, éclairent sa sortie précipitée.
+La crainte d’être jugé peut surgir dans un échange, pendant un geste ordinaire sous le regard des autres ou au moment de prendre la parole devant un groupe. Ce qui change pour Sacha est perceptible au milieu d’une tâche qu’il connaît bien. Il tenait son pot tout en parlant à madame Baudry ; à l’arrivée de deux personnes, il se demande surtout ce que son pouce leur laisse voir. Le tremblement n’indique pas à lui seul ce qui se passe.
+
+## Comment cette difficulté se manifeste
+
+Le sens que Sacha lui prête, et la place que prend cette inquiétude, éclairent sa sortie précipitée.
 
 Être intimidé dans une situation inhabituelle est courant. Aimer les échanges à deux peut aussi être un choix qui convient parfaitement. Ici, la différence se voit dans le carnet : Sacha souhaite partager un geste qui lui plaît et reporte le projet à cause de la peur qu’il éprouve. La scène laisse ouverte la question de la nature et de l’étendue de ses difficultés.
 
@@ -44,8 +48,3 @@ Pour décrire une difficulté qui revient à un professionnel, un exemple comme 
 ## Un croquis à montrer
 
 À la fermeture, Gaspard trouve sur son casier le plateau nettoyé. Sacha est encore là. Il attend qu’ils soient seuls, puis tend son carnet en gardant un doigt sur le point d’interrogation. « J’avais envie de montrer ça. Aujourd’hui, j’ai décroché quand ils se sont approchés. Si on montait la table une première fois juste tous les deux ? » Gaspard a son train à prendre. Il regarde le croquis, dit qu’il veut bien en reparler mardi et rend le carnet. Sacha l’emporte sans rayer le samedi.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG159, reconnaissance, évaluation et traitement du trouble d’anxiété sociale](https://www.nice.org.uk/guidance/cg159/resources/social-anxiety-disorder-recognition-assessment-and-treatment-pdf-35109639699397)

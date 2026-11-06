@@ -33,18 +33,16 @@ Simon commence par demander ce qu’il doit faire. Victoire lui dit qu’elle so
 
 ## Faire de la place aux questions de chacun
 
-La HAS recommande de tenir compte de l’entourage dans l’accompagnement quand sa participation peut se discuter avec la personne. Un adulte peut choisir la part qu’il souhaite lui faire connaître et revenir sur cet accord. Les proches peuvent avoir envie de faire tout de suite quelque chose, surtout s’ils découvrent une difficulté qui dure. Simon propose de remplacer sa sœur parce qu’il voit une tâche concrète qu’il pourrait prendre. Victoire comprend son intention et garde la possibilité d’accepter une partie de l’offre. Elle pourra aussi parler avec Nora de ce que le partage change pour elle. Le rôle de Simon dans le rallye et le rôle que Victoire voudrait lui donner dans la suite des soins sont des décisions qu’ils peuvent prendre séparément.
+La HAS recommande de tenir compte de l’entourage dans l’accompagnement quand sa participation peut se discuter avec la personne. Un adulte peut choisir la part qu’il souhaite lui faire connaître et revenir sur cet accord. Les proches peuvent avoir envie de faire tout de suite quelque chose, surtout s’ils découvrent une difficulté qui dure. Simon propose de remplacer sa sœur parce qu’il voit une tâche concrète qu’il pourrait prendre.
+
+## Ce que Simon remarque et ce que Victoire lui confie
+
+Simon a entendu au téléphone que Victoire paraissait fatiguée. Il lui propose de tenir l’accueil seul. Victoire pense à la soirée qu’elle avait voulu annuler et lui explique pourquoi certains rendez-vous lui demandent tant d’effort. Elle le prend à part et lui confie le nom du trouble. Elle tient aussi à sa place à l’accueil et souhaite décider elle-même quand elle aura besoin d’une pause.
 
 ## Donner un appui précis plutôt que s’engager à tout prendre en charge
 
-Une proposition peut préciser à quel moment et sur quoi le proche est disponible. Simon peut tenir l’accueil pendant une pause et annoncer à Victoire s’il doit partir. Victoire peut dire quand elle voudrait lui transmettre une question sur sa santé ou lui demander une présence à un rendez-vous, si cette idée lui convient plus tard. Le service reste le bon interlocuteur pour évaluer les symptômes et décider de la suite. Sur le moment, Simon veut savoir ce qu’il peut dire au groupe. Il pourra dire que Victoire tient l’accueil et qu’il la relaye pendant les pauses. L’échange laisse aussi de la place à leur relation de frère et sœur. Ils peuvent décider de reparler du disque qu’ils n’ont pas encore écouté ensemble.
+Une proposition peut préciser à quel moment et sur quoi le proche est disponible. Simon peut tenir l’accueil pendant une pause et annoncer à Victoire s’il doit partir. Victoire peut dire quand elle voudrait lui transmettre une question sur sa santé ou lui demander une présence à un rendez-vous, si cette idée lui convient plus tard. Victoire peut aussi parler avec Nora de ce que le partage change pour elle. Le service reste le bon interlocuteur pour évaluer les symptômes et décider de la suite. Sur le moment, Simon veut savoir ce qu’il peut dire au groupe. Il pourra dire que Victoire tient l’accueil et qu’il la relaye pendant les pauses. L’échange laisse aussi de la place à leur relation de frère et sœur. Ils peuvent décider de reparler du disque qu’ils n’ont pas encore écouté ensemble.
 
 ## La pince reste à droite du porte-cartes
 
 Simon dit qu’il sera disponible au départ et qu’il pourra tenir l’accueil un moment si elle en a envie. Victoire lui montre où ranger la pince dont elle se sert d’une seule main. Elle rejoint Lila pour fixer au mur le plan que Manu présentera. Avant de partir, Simon lui demande si elle a encore sa version du morceau de dimanche. Elle répond qu’elle la lui apportera une autre fois.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et FFAB, Boulimie et hyperphagie boulimique, recommandations de bonne pratique](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique)
-- [Haute Autorité de santé et FFAB, prise en charge pluriprofessionnelle coordonnée](https://www.has-sante.fr/jcms/p_3099804/fr/prise-en-charge-pluriprofessionnelle-coordonnee-fiche-outil)

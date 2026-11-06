@@ -33,6 +33,8 @@ Au lavoir, ils comparent leurs notes. Diego avait écrit « praticable » avant 
 
 Une personne peut éviter un trajet pour des raisons de terrain, d’accessibilité ou de santé. Ces éléments ont leur place dans l’évaluation d’une peur. La boue et la pente du verger sont observables. Samia explique pourquoi elle préfère changer de trajet avec sa canne. Sur la carte, écrire « terre en pente après la grille » donne une information dont chacun peut faire usage. L’indication peut préciser que le terrain a été vu après la pluie, puisque l’état du chemin peut changer.
 
+## Comment cette difficulté se manifeste
+
 Joachim entend cette difficulté et décrit aussi une autre crainte. Il pense à l’aide qui manquerait derrière la grille. Il retrouve cette pensée sur des surfaces qu’il sait praticables, dans le bus ou au cinéma. Dans son suivi, les deux éléments peuvent être décrits ensemble. La peur qu’il éprouve dans plusieurs contextes ne retire rien aux difficultés matérielles du sentier ni à l’expérience de Samia.
 
 ## Apporter des détails qui servent à la décision
@@ -44,8 +46,3 @@ Pour le projet de carte, les trois promeneurs peuvent convenir d’un nouvel ess
 ## Les deux indications au crayon
 
 Joachim barre le mot « praticable » sur son épreuve et écrit le détail de la pente. Il laisse deux traits de crayon en direction de la rue. Diego viendra avec lui vérifier où l’un d’eux aboutit. De son côté, Samia préfère les rejoindre plus tard avec la version des images qu’elle pourra lire de près. En rentrant, Joachim retrouve la note pour Louise qu’il avait laissée près de l’entrée. Il ajoute un mot sur la grille, un autre sur le bus.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, présentation de l’agoraphobie](https://www.nhs.uk/mental-health/conditions/agoraphobia/)

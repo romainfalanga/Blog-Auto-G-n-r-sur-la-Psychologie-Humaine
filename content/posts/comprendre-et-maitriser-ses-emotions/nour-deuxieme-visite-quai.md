@@ -30,7 +30,11 @@ Au premier tournant, elle entend Joël discuter avec une voisine des noms qu’o
 
 ## Participer en gardant la possibilité de changer de rôle
 
-Le rôle de chacun dans un projet collectif peut changer entre la préparation et le jour du rendez-vous. Nour a préparé la carte, suivi les travaux et choisi les mots de la légende. Au porche, elle souhaite surtout marcher avec Rita. Le groupe peut assurer les autres rôles parce qu’il a convenu des horaires, du lieu de retour et de la personne qui garde les documents. Nour peut revenir au porche et choisir de parler de l’hirondelle si elle en a envie.
+Le rôle de chacun dans un projet collectif peut changer entre la préparation et le jour du rendez-vous. Nour a préparé la carte, suivi les travaux et choisi les mots de la légende. Au porche, elle souhaite surtout marcher avec Rita. Le groupe peut assurer les autres rôles parce qu’il a convenu des horaires, du lieu de retour et de la personne qui garde les documents.
+
+## Comment cette difficulté se manifeste
+
+Nour peut revenir au porche et choisir de parler de l’hirondelle si elle en a envie.
 
 Le NICE décrit un accompagnement qui respecte les préférences, les choix et la participation de la personne autiste. Dans ce projet de voisinage, Nour sait à qui demander un relais et peut décider de la part qu’elle veut garder. Ses préférences peuvent évoluer. Joël peut rester au porche cette fois et marcher un autre jour. Rita peut emprunter l’autre chemin si elle en a assez du quai.
 
@@ -43,8 +47,3 @@ Nour peut garder pour son prochain rendez-vous ce qui lui sert dans d’autres s
 ## Les trous de fixation au-dessus de la porte
 
 Rita s’arrête pour laisser passer les deux personnes et leur chien, qu’elles ont vus près du banc. Nour lève les yeux et reconnaît les deux trous au-dessus de la porte. Ils sont plus écartés qu’elle ne l’imaginait en regardant la photographie. Elle note la différence sur sa feuille avant de reprendre le chemin du porche. Une personne arrivée tard écoute encore Joël. Nour reste assez longtemps pour entendre le nom de la boutique dans sa voix. Fatou lui rend la chemise. Nour lui dit qu’elle a envie de revoir la porte avec elle quand la cour sera ouverte. Elles choisiront un jour où elles ont toutes les deux le temps.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG142, accompagnement des adultes autistes](https://www.nice.org.uk/guidance/cg142/chapter/Recommendations)

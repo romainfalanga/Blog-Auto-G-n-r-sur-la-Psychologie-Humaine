@@ -33,6 +33,8 @@ Quand Samia s’éloigne, Joachim demande à Diego de le laisser répondre même
 
 Certaines personnes qui vivent avec une agoraphobie se rendent dans des lieux redoutés plus facilement en présence d’une personne de confiance. Pour Joachim, savoir que Diego est prêt à repartir avec lui laisse de la place à l’envie de faire une photo ou de discuter d’un chemin. L’aide a aussi des contours. Elle peut passer par un trajet partagé, une disponibilité limitée ou une réponse à une demande. La personne qui l’apporte peut avoir son propre emploi du temps.
 
+## Comment cette difficulté se manifeste
+
 Joachim a choisi de parler de son agoraphobie à Diego et il préfère répondre à Samia comme contributeur de la carte. Cette différence lui importe. Être disponible pour le retour donne à Diego un rôle concret. Parler de la difficulté à sa place touche à un autre choix, celui des informations qui circulent. Les deux voisins peuvent corriger leur accord en s’appuyant sur ce qu’ils viennent de voir.
 
 ## Garder deux projets dans la même sortie
@@ -44,8 +46,3 @@ Quand la place de l’accompagnement change d’une sortie à l’autre, ce chan
 ## Revenir à l’heure convenue
 
 Au virage, la lumière frappe le nom de la rue sur le côté. Joachim reprend sa photo de biais, comme il l’avait fait avec la plaque près de chez lui. Ils rentrent à temps pour le rendez-vous de Diego. Sur le pas de sa porte, Joachim lui propose de préparer avec Samia un relevé descriptif de l’itinéraire jusqu’au verger. Il aimerait savoir ce qui change selon qu’on arrive à pied, avec une canne ou en ayant besoin d’une assise.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, manifestations de l’agoraphobie](https://www.nhs.uk/mental-health/conditions/agoraphobia/symptoms/)

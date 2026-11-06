@@ -32,7 +32,11 @@ Elle a une coupure entre deux services, mais pas le temps de faire l’aller-ret
 
 ## Les liens peuvent garder la même place quand les horaires changent
 
-Jouer pour retrouver des amis ne suffit pas à caractériser un trouble du jeu vidéo. Pour Côme, revoir ses horaires est lié à des difficultés de sommeil et à des activités qu’il a manquées. Du côté de Sana, un jeudi qui disparaît est d’abord un moment qu’elle croyait pouvoir passer avec lui et Florian. Elle peut vouloir garder ce contact sans savoir ce qui s’est dit en consultation. Elle et Côme ont déjà passé de bonnes soirées ensemble et il a envie d’en proposer d’autres quand ils auront trouvé un créneau.
+Jouer pour retrouver des amis ne suffit pas à caractériser un trouble du jeu vidéo. Pour Côme, revoir ses horaires est lié à des difficultés de sommeil et à des activités qu’il a manquées. Du côté de Sana, un jeudi qui disparaît est d’abord un moment qu’elle croyait pouvoir passer avec lui et Florian. Elle peut vouloir garder ce contact sans savoir ce qui s’est dit en consultation.
+
+## Comment cette difficulté se manifeste
+
+Elle et Côme ont déjà passé de bonnes soirées ensemble et il a envie d’en proposer d’autres quand ils auront trouvé un créneau.
 
 L’OMS recommande de tenir compte de la place que la pratique prend dans la vie et de ses conséquences. Cela laisse de la place à ce que Côme trouve dans son groupe : de la conversation, une façon de se retrouver et des idées de jeu qu’il ne trouverait pas seul. Il peut chercher à retrouver du sommeil tout en continuant à donner une place à ces liens.
 
@@ -45,8 +49,3 @@ Il reste un point à vérifier à l’atelier. Nadège doit regarder la place qu
 ## Une place près de la rivière
 
 Sana finit ses olives et lui demande de choisir une photo sur laquelle elle verra le départ et la rivière. Côme ouvre l’invitation et écrit son prénom à côté de « premier chemin ». Il lui envoie l’heure proposée pour l’appel, avec « je te confirme samedi ». Sana répond qu’elle pourra les appeler de la salle de pause si le bruit des livraisons ne l’en chasse pas. Avant de rentrer dans la boutique, Côme passe le pouce sur la plaque du numéro. Il pense à la photo qu’il n’a pas encore : celle où le jeu tient sur le bois, autour de la rayure.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Trouble du jeu vidéo : questions et réponses](https://www.who.int/fr/news-room/questions-and-answers/item/gaming-disorder)

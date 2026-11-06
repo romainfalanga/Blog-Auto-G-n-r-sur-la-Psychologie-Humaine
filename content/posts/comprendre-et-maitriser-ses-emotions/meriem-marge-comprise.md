@@ -31,7 +31,11 @@ La chaleur qui lui est montée au visage reste là. Elle voudrait se lever, et a
 
 ## Le temps que met une émotion à retomber
 
-La régulation émotionnelle concerne entre autres la façon dont une émotion monte et le temps qu’elle met à retomber. Dans le stress post-traumatique complexe, ces difficultés peuvent prendre une place durable. Chez Meriem, l’agacement et la honte restent présents quand elle a compris que Joël posait une question de couture. Le fait de comprendre la question et le fait de se sentir prête à y répondre n’arrivent pas forcément au même moment.
+La régulation émotionnelle concerne entre autres la façon dont une émotion monte et le temps qu’elle met à retomber. Dans le stress post-traumatique complexe, ces difficultés peuvent prendre une place durable.
+
+## Comment cette difficulté se manifeste
+
+Chez Meriem, l’agacement et la honte restent présents quand elle a compris que Joël posait une question de couture. Le fait de comprendre la question et le fait de se sentir prête à y répondre n’arrivent pas forcément au même moment.
 
 Une réponse sèche dans un lieu de travail a bien d’autres explications possibles. Elle peut aussi avoir un effet sur la personne qui l’entend. Joël a le droit de demander ce que signifie le trait et Meriem peut reprendre sa réponse. La scène montre un désaccord très différent de la demande de Rémi : Joël parle de la copie qu’il a en main et laisse Meriem s’en occuper. La distinction aide à choisir l’action utile, sans devoir expliquer à Joël son dossier de santé.
 
@@ -44,8 +48,3 @@ Dans le suivi, le NICE invite les professionnels à tenir compte des difficulté
 ## Un trait noir au recto
 
 « Ève, tu peux leur montrer les bacs ? Je termine la copie. » Ève se tourne vers la femme et sa fille. Meriem reprend la feuille et écrit au feutre : « Marge comprise. Couper sur le trait extérieur. » Elle dit à Joël qu’elle lui a répondu trop vite. Il lui montre l’endroit où il avait cherché. Meriem y reporte la même mention sur les autres copies. Joël repart avec une pochette à faire et laisse ses deux tailles à la table. Ève note sur la chemise bleue qu’il accepte les copies à emporter pour coudre chez soi. Pour toute transmission à d’autres personnes, il veut qu’on lui demande. À midi, ils comptent onze copies parties. Chloé propose de faire une deuxième session le mois prochain. Meriem a encore chaud quand elle lui demande quel samedi elle aurait en tête.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

@@ -98,5 +98,3 @@ Tolérer la déception de l’autre revient à reconnaître une émotion sans lu
 Aline ne devient pas indifférente. Elle conserve son attention à Claire et à l’association, tout en laissant la coordination d’un nouveau projet au groupe. L’émotion reste présente quelques jours. Ce délai ne signifie pas qu’elle fait fausse route ; il lui donne l’occasion d’apprendre qu’une relation peut traverser une contrariété sans exiger son effacement.
 
 Si la déception d’autrui entraîne une peur intense, des concessions répétées ou une détresse durable, un psychologue peut aider à explorer ces réactions. Un soutien différent peut être nécessaire lorsque la contrariété s’accompagne de pression ou de menaces. Vous pouvez chercher un cadre où vos limites restent possibles, même lorsqu’elles ne plaisent pas à tout le monde.
-
-Sources : [Gross et John, recherches sur la régulation des émotions](https://pubmed.ncbi.nlm.nih.gov/12916575/).

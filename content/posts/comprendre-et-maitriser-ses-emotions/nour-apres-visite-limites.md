@@ -32,7 +32,11 @@ Fatou lui écrit qu’elle peut rassembler les retours avant qu’elles en parle
 
 Le coût d’une activité peut aussi se voir dans les heures ou les jours qui suivent. Nour aime la recherche autour de l’enseigne. Elle a dû reprendre la carte, gérer un changement puis quitter le kiosque quand l’enceinte s’est mise à jouer. À la maison, elle a reporté certaines tâches. Ce qu’elle retient de la visite inclut l’intérêt des voisins et le temps dont elle a eu besoin avant de s’occuper de la suite.
 
-L’OMS indique que certaines difficultés peuvent demander des efforts qui échappent à l’entourage. Pour Nour, regarder ce qui s’est passé après la sortie donne une information de plus. Sa fatigue ne dit pas à elle seule ce qui l’a causée. Si elle persiste ou change, elle peut revenir sur les éléments qu’elle a apportés en consultation et en discuter avec un professionnel de santé. Avec les voisins, elle peut parler du temps qu’elle peut offrir au prochain projet.
+L’OMS indique que certaines difficultés peuvent demander des efforts qui échappent à l’entourage.
+
+## Comment cette difficulté se manifeste
+
+Pour Nour, regarder ce qui s’est passé après la sortie donne une information de plus. Sa fatigue ne dit pas à elle seule ce qui l’a causée. Si elle persiste ou change, elle peut revenir sur les éléments qu’elle a apportés en consultation et en discuter avec un professionnel de santé. Avec les voisins, elle peut parler du temps qu’elle peut offrir au prochain projet.
 
 ## Choisir une part du travail qui reste possible
 
@@ -43,8 +47,3 @@ Le NICE recommande de partir des souhaits et des besoins de la personne dans l�
 ## Une seule heure sur le calendrier
 
 Nour relit le nom ajouté au crayon sur la carte et répond au voisin qui avait emprunté le quai. Elle lui demande s’il a vu un banc près de l’ancien porche. Elle écrit ensuite au groupe qu’elle peut préparer la légende pour une deuxième visite, à partir d’un seul rendez-vous. Fatou accepte de chercher qui pourra orienter les personnes ce jour-là. Nour demande à Joël s’il veut revenir sur son idée d’enregistrement. Elle précise qu’elle peut le retrouver à l’atelier de gravure, après son travail, et qu’elle aimerait d’abord comparer deux versions écrites.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG142, accompagnement des adultes autistes](https://www.nice.org.uk/guidance/cg142/chapter/Recommendations)

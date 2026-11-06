@@ -31,7 +31,11 @@ Owen a les deux phrases sur un papier : « J’ai retourné la poignée. Le ruba
 
 ## Dire ce qu’on attend du micro
 
-Le bégaiement peut se manifester différemment entre deux prises du même texte. Le fait de pouvoir dire une phrase facilement une première fois ne permet pas d’exiger la même fluence à la suivante. Dans la scène, Nassim doit gérer le temps de la salle. Quand il dit à Owen de respirer, il lui donne pourtant une consigne sur sa façon de parler, alors qu’Owen demande une information sur l’horaire. La Stuttering Foundation recommande d’éviter ces consignes adressées à quelqu’un qui bégaie en conversation. Le groupe peut annoncer le temps disponible avant les prises, dire quand le micro tourne et demander ce que chacun veut refaire. Il laisse ainsi aux interprètes la possibilité de répondre pour leur jeu.
+Le bégaiement peut se manifester différemment entre deux prises du même texte. Le fait de pouvoir dire une phrase facilement une première fois ne permet pas d’exiger la même fluence à la suivante. Dans la scène, Nassim doit gérer le temps de la salle.
+
+## Comment cette difficulté se manifeste
+
+Quand il dit à Owen de respirer, il lui donne pourtant une consigne sur sa façon de parler, alors qu’Owen demande une information sur l’horaire. La Stuttering Foundation recommande d’éviter ces consignes adressées à quelqu’un qui bégaie en conversation. Le groupe peut annoncer le temps disponible avant les prises, dire quand le micro tourne et demander ce que chacun veut refaire. Il laisse ainsi aux interprètes la possibilité de répondre pour leur jeu.
 
 ## Une prise retenue pour un usage précis
 
@@ -40,10 +44,3 @@ La deuxième prise plaît à Owen à cause de l’intention de la dernière phra
 ## Le numéro deux au crayon
 
 Owen inscrit « prise 2 à essayer » et passe la fiche à Lucile pour qu’elle ajoute son numéro. Nassim lui demande si la première doit rester dans le dossier de travail. Owen préfère qu’ils la gardent jusqu’au montage, au cas où le rythme des images lui ferait changer d’avis. Il demande qu’ils effacent l’essai de micro où ils s’étaient mis à parler de la cantine. Nassim le retire en leur présence. Avant de rendre la salle, Lucile leur montre le message d’Alma, qui prépare la soirée du lycée : elle a entendu qu’un film avançait et demande s’ils ont un extrait pour l’annonce. Owen tapote du doigt la mention en haut de la fiche.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal, bégaiement, bredouillement et fluence de la parole](https://www.asha.org/practice-portal/clinical-topics/fluency-disorders/)
-- [Stuttering Foundation, six conseils pour parler avec une personne qui bégaie](https://www.stutteringhelp.org/6-tips-speaking-someone-who-stutters)
-- [Éduscol, modèles d’autorisation d’enregistrement et d’utilisation de l’image et de la voix](https://eduscol.education.gouv.fr/6231/protection-des-donnees-personnelles-et-assistance)

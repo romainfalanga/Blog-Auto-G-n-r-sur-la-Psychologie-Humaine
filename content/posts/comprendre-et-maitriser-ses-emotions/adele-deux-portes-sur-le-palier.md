@@ -31,7 +31,11 @@ Mme Roussel ouvre la salle réservée et en montre la clé à M. Benhamou. Adèl
 
 ## Retrouver une personne avant d’avoir besoin d’elle
 
-Pour un jeune qui a un ARFID, certains lieux de repas peuvent soulever des difficultés qu’on ne retrouve pas de la même façon à la maison ou à l’école. L’environnement fait partie des éléments qu’on peut examiner avec lui. À l’arrivée, Adèle vérifie un point que le plan du collège ne montrait pas : à quel endroit elle pourra parler à l’adulte qui l’accompagne et comment il pourra l’aider à rejoindre la petite salle. La visite lui donne un repère, sans prédire ce qu’elle ressentira au moment du repas.
+Pour un jeune qui a un ARFID, certains lieux de repas peuvent soulever des difficultés qu’on ne retrouve pas de la même façon à la maison ou à l’école. L’environnement fait partie des éléments qu’on peut examiner avec lui.
+
+## Comment cette difficulté se manifeste
+
+À l’arrivée, Adèle vérifie un point que le plan du collège ne montrait pas : à quel endroit elle pourra parler à l’adulte qui l’accompagne et comment il pourra l’aider à rejoindre la petite salle. La visite lui donne un repère, sans prédire ce qu’elle ressentira au moment du repas.
 
 Elle peut choisir d’être accompagnée pour ces vérifications. Mme Roussel s’occupe de la disponibilité du lieu avec le centre et confirme le relais avec M. Benhamou. Adèle garde son rôle : dire si le lieu lui paraît utilisable et choisir la façon de signaler une difficulté quand elle en rencontre une.
 
@@ -44,9 +48,3 @@ Cette visite ne doit pas prendre tout le temps libre dont disposent les élèves
 ## Un repère près de l’escalier
 
 M. Benhamou désigne le palier de l’escalier, où l’un des deux accompagnateurs sera disponible à l’heure des repas. Adèle fait une fois le trajet du palier à la petite salle avec eux. Elle reconnaît le numéro en passant devant et demande qu’on s’en tienne à ce repère. En haut, Inès a pris le lit qui grince. Adèle lance son carnet sur l’autre matelas et montre du doigt, à travers la fenêtre, les deux cheminées qu’elle avait aperçues depuis le car.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Maudsley Centre for Child and Adolescent Eating Disorders (NHS) — ARFID Service Frequently Asked Questions](https://mccaed.slam.nhs.uk/wp-content/uploads/2022/12/ARFID-Service-FAQs-Dec-22.pdf)
-- [Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust — ARFID: Creating supportive mealtimes](https://www.cntw.nhs.uk/resources/avoidant-restrictive-food-intake-disorder-arfid-simple-suggestions-series-creating-supportive-mealtimes)

@@ -1,12 +1,12 @@
 ---
 title: "Camille"
 date: 2026-10-30T08:24:22+00:00
-description: "Camille est cadre de santé. Mariée à David, elle est mère de deux enfants (Léo, 10 ans et Emma, 7 ans)."
+description: "Infirmière à l’hôpital, Camille envisage un poste de cadre de santé. Elle est mariée à David et mère de Léo, 10 ans, et d’Emma, 7 ans."
 slug: "camille"
 prenom: "Camille"
 date_naissance: "1984-03-05"
-profession: "Cadre de santé"
-situation: "Mariée à david, mère de deux enfants (léo, 10 ans et emma, 7 ans)"
+profession: "Infirmière, envisage un poste de cadre de santé"
+situation: "Mariée à David, mère de deux enfants (Léo, 10 ans et Emma, 7 ans)"
 nb_articles: 13
 weight: 1
 draft: false

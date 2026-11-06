@@ -33,6 +33,8 @@ Sur le chemin de la sortie, Éva lui demande si elle est aussi contente qu’ell
 
 Une joie vive ou une soirée productive peut faire partie du cours ordinaire de l’humeur. Garance est heureuse d’avoir retrouvé son entrée après plusieurs essais. Ce plaisir s’inscrit dans la répétition et dans une relation avec les autres musiciennes. Elle peut en profiter. Si un changement lui semble durer et toucher plusieurs domaines de sa vie, elle dispose d’un cadre de suivi pour en parler.
 
+## Comment cette difficulté se manifeste
+
 Garance vit avec un trouble bipolaire de type II déjà diagnostiqué. Dans la CIM-11, il correspond à une histoire où des épisodes hypomaniaques et dépressifs ont été établis, sans antécédent d’épisode maniaque ni mixte. Dans le type I, le parcours comporte au moins un épisode maniaque ou mixte selon cette classification. Le type II peut entraîner des difficultés importantes, notamment pendant les épisodes dépressifs. Le nom du trouble vient d’une évaluation de l’évolution de l’humeur, de l’énergie et du fonctionnement. Il ne donne pas le sens de chaque sourire.
 
 ## Garder la question du programme pour plus tard
@@ -44,8 +46,3 @@ Avant de prendre un texte, Garance veut vérifier l’échéance du catalogue qu
 ## Le chiffre au-dessus de la portée
 
 À la maison, Garance ouvre la partition avant son calendrier. Elle a noté le numéro un peu trop près des notes. Elle le réécrit au-dessus de la portée, où elle le retrouvera au prochain essai. Dans sa boîte professionnelle, le client du catalogue a confirmé la date de livraison. Garance ferme le message après avoir inscrit l’échéance. Elle décide de répondre à Lise le lendemain. Elle envoie à Éva un mot sur le plaisir qu’elle a eu à entendre les quatre mesures tenir ensemble. Éva lui répond qu’elle a cru entendre Garance sourire avant leur dernière entrée.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

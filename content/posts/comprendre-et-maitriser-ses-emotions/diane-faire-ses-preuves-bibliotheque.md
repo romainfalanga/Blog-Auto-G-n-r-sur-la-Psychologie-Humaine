@@ -30,7 +30,11 @@ Mireille est venue reprendre un bac vide. Elle lui demande si elle veut qu’ell
 
 ## Retrouver une compétence à la fois
 
-Reprendre le travail par étapes permet de retrouver des tâches familières et de voir ce qui demande encore un ajustement. Le suivi de Diane prend en compte la place que son travail occupe pour elle, ainsi que les difficultés qu’elle peut encore rencontrer en revenant. Mireille et elle ont fixé une première tâche et un horaire. Dans la réserve, Diane se souvient de la cote et de l’emplacement du rayon. À l’accueil, il lui faudrait aussi suivre une conversation, répondre à une demande inattendue et peut-être enchaîner avec les personnes suivantes. Elle veut garder le créneau prévu avec Malik pour retrouver cela.
+Reprendre le travail par étapes permet de retrouver des tâches familières et de voir ce qui demande encore un ajustement. Le suivi de Diane prend en compte la place que son travail occupe pour elle, ainsi que les difficultés qu’elle peut encore rencontrer en revenant. Mireille et elle ont fixé une première tâche et un horaire.
+
+## Comment cette difficulté se manifeste
+
+Dans la réserve, Diane se souvient de la cote et de l’emplacement du rayon. À l’accueil, il lui faudrait aussi suivre une conversation, répondre à une demande inattendue et peut-être enchaîner avec les personnes suivantes. Elle veut garder le créneau prévu avec Malik pour retrouver cela.
 
 ## Donner un renseignement depuis la réserve
 
@@ -39,8 +43,3 @@ Diane peut aider l’habituée avec la précision dont Malik a besoin. Le livre 
 ## Le bac que Mireille reprendra
 
 Diane entend l’habituée remercier Malik. Elle retrouve le livre au ruban rouge sur sa table et termine sa cote. Il lui reste neuf minutes au planning et quatre livres dans le bac. Elle en étiquette deux, laisse les autres sur le côté et indique à Mireille où elle en est. Pour le prochain créneau, elles conviennent que Malik reprendra la file si Diane lui dit qu’elle a besoin de sortir quelques minutes. Diane se rhabille sans déplacer le second bac. Dans la rue, elle pense à la lectrice et se rend compte qu’elle a hâte de savoir quelle carte elle est venue chercher.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG178, évaluation et accompagnement après un premier épisode psychotique chez l’adulte](https://www.nice.org.uk/guidance/cg178/evidence/full-guideline-pdf-490503565)

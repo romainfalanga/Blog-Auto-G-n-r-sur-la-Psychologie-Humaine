@@ -1,5 +1,5 @@
 ---
-title: "Odile : les dates qui remuent et les émotions variables"
+title: Les dates qui remuent et les émotions variables
 date: 2026-11-03T08:50:00+00:00
 description: "L’anniversaire de sa sœur approche. Odile hésite entre le marquer et poursuivre sa journée, sans chercher une émotion obligatoire."
 categories: ["Comprendre et maîtriser ses émotions"]
@@ -74,8 +74,3 @@ Les dates importantes peuvent rendre une absence plus sensible, mais elles ne fi
 Préparer un appui, alléger une contrainte ou choisir un geste modeste peut vous laisser davantage de possibilités. Ce geste peut être public, privé ou ne pas avoir lieu. Il n’a pas à devenir une tradition permanente. Des proches peuvent souhaiter d’autres formes de souvenir ; il est possible d’expliquer vos préférences tout en leur laissant leurs propres choix, sans chercher une manière unique de témoigner de l’attachement.
 
 Si l’approche de certaines dates vous laisse dans une détresse qui vous inquiète ou si vous ne disposez pas des appuis nécessaires, un médecin, un psychologue ou un professionnel du deuil peut vous aider à préparer ce moment. Vous pouvez demander ce soutien avant une date importante ou à un autre moment. Le but n’est pas de rendre la journée parfaite, mais de chercher des conditions plus adaptées à ce que vous traversez.
-
-Sources :
-- [NHS, Grief after bereavement or loss](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)
-- [NHS, Problem solving](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)
-- [Carr et ses collègues, étude des dates importantes après la perte d’un conjoint](https://doi.org/10.1093/geronb/gbt061)

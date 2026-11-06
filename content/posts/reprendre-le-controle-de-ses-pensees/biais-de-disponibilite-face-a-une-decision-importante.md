@@ -58,6 +58,7 @@ Si des données comparables existent, elles peuvent aider à situer le risque. L
 Priya recommence avec les trois dossiers. Elle garde les questions qu’elle se posait à propos de Marc : la répartition des gardes, la manière de régler un désaccord, la possibilité de se retirer. Elle les reporte sur les autres candidatures.
 
 Elle lit les recommandations. Certaines ne disent que peu de chose sur le travail à plusieurs. Elle demande un entretien à Marc pour le lendemain, sans lui promettre une association. Quand il répond qu’il est disponible, elle vérifie qu’elle a réservé la même durée aux deux autres.
+
 ---
 
 Un souvenir peut suggérer une bonne question. Pour estimer un risque, il faut chercher des informations qui portent sur la décision actuelle et regarder ce qu’elles ne permettent pas de savoir.

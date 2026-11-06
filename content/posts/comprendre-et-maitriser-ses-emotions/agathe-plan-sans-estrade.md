@@ -31,7 +31,11 @@ Mme Roussel leva la main pour faire cesser les questions. « Tu veux commencer, 
 
 ## Changer la façon de participer
 
-Les exigences du langage varient selon la situation, y compris pour un enfant qui connaît le sujet. Une discussion en groupe demande de suivre des interventions nouvelles et d’organiser une réponse devant des personnes qui n’ont pas toutes vu le travail. L’ASHA rappelle que les compétences d’un enfant peuvent se manifester différemment quand les exigences changent. Sur le banc du jardin, Agathe avait le sachet en main et parlait à une camarade. En classe, ses interlocuteurs passent d’un sujet à l’autre avant qu’elle ait commencé. En demandant à faire circuler le plan, elle garde sa responsabilité dans le projet. Ce refus de commencer devant la classe indique quel échange elle choisit ce jour-là ; il ne prédit pas ce qu’elle pourra dire au prochain rendez-vous.
+Les exigences du langage varient selon la situation, y compris pour un enfant qui connaît le sujet. Une discussion en groupe demande de suivre des interventions nouvelles et d’organiser une réponse devant des personnes qui n’ont pas toutes vu le travail. L’ASHA rappelle que les compétences d’un enfant peuvent se manifester différemment quand les exigences changent.
+
+## Comment cette difficulté se manifeste
+
+Sur le banc du jardin, Agathe avait le sachet en main et parlait à une camarade. En classe, ses interlocuteurs passent d’un sujet à l’autre avant qu’elle ait commencé. En demandant à faire circuler le plan, elle garde sa responsabilité dans le projet. Ce refus de commencer devant la classe indique quel échange elle choisit ce jour-là ; il ne prédit pas ce qu’elle pourra dire au prochain rendez-vous.
 
 ## Un support commun pour le groupe
 
@@ -40,9 +44,3 @@ Mme Roussel peut faire circuler le carton et recueillir les questions sur des pa
 ## Sur le pli du carton
 
 Le premier papier demandait si les nouveaux pourraient semer des fleurs. Agathe n’avait pas pensé que ce serait à eux de choisir. Elle plaça le papier au milieu du carton plutôt que dans la marge réservée aux questions à régler. Le second proposait d’écrire quand semer les pois. Inès lui demanda à voix basse si elle avait eu tort de poser la feuille sur le bureau. « La poser, ça va. Tu me demandes avant de dire que je vais parler. » Inès hocha la tête. Agathe décida d’emporter une copie du plan à son rendez-vous d’orthophonie. Elle voulait parler d’un problème plus précis que « je n’aime pas parler devant la classe » : comment demander qu’on reprenne une seule question.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [American Speech-Language-Hearing Association, Spoken Language Disorders](https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/)
-- [Haute Autorité de santé, Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2822893/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages)

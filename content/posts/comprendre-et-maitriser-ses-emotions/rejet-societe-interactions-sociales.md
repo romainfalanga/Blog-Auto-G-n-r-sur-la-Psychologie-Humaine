@@ -19,13 +19,13 @@ Ce malaise, elle le connaissait bien. Depuis le divorce de ses parents quand ell
 
 Léa vient de vivre une expérience que beaucoup de personnes timides connaissent : se sentir rejetée en société et dans les interactions sociales, souvent sans qu’aucun mot ne soit prononcé. Se sentir rejetée est douloureux. Il arrive aussi que le rejet soit explicite : une personne est mise à l’écart ou se heurte à des propos discriminatoires.
 
-### Qu’est-ce que le rejet en société et dans les interactions sociales ?  
+## Qu’est-ce que le rejet en société et dans les interactions sociales ?
 
 Il y a une différence entre un acte d’exclusion, le sentiment de ne pas être à sa place et la peur que cela arrive. Un silence ne suffit pas à dire ce que les autres pensent. Un refus exprimé ou un comportement qui exclut délibérément quelqu’un ne se résume pas à son interprétation.
 
 Dans leurs [travaux sur les relations proches](https://pubmed.ncbi.nlm.nih.gov/8667172/), Geraldine Downey et Scott Feldman ont étudié la tendance à attendre, percevoir et redouter le rejet. Leur étude ne donne pas un taux applicable à tous les adultes et ne dit pas que la timidité conduit à mal lire les situations.
 
-### Comment le rejet se manifeste-t-il dans les interactions sociales ?  
+## Comment le rejet se manifeste-t-il dans les interactions sociales ?
 
 Ces situations ne disent pas toutes la même chose : un refus d’invitation est observable, tandis que la peur ou une pensée ne prouvent pas qu’une exclusion a eu lieu.
 
@@ -35,15 +35,15 @@ Ces situations ne disent pas toutes la même chose : un refus d’invitation est
 - La peur persistante de prendre la parole par crainte d’être jugé  
 - Les pensées répétitives du type « Ils ne veulent pas de moi » ou « Je ne suis pas assez intéressant »  
 
-Par exemple, lors d’une réunion professionnelle, Léa se surprend souvent à vouloir partager une idée, mais la peur que ses collègues l’ignorent ou le critiquent le fait se taire. Dans un cadre amical, elle hésite à proposer une sortie, redoutant le refus ou l’indifférence. Ces petites expériences, cumulées jour après jour, renforcent un cercle vicieux où le rejet anticipé limite l’initiation des échanges.  
+Par exemple, lors d’une réunion professionnelle, Léa se surprend souvent à vouloir partager une idée, mais la peur que ses collègues l’ignorent ou le critiquent le fait se taire. Dans un cadre amical, elle hésite à proposer une sortie, redoutant le refus ou l’indifférence. Ces petites expériences, cumulées jour après jour, renforcent un cercle vicieux où le rejet anticipé limite l’initiation des échanges.
 
-### Quels liens avec l’enfance et l’éducation ?  
+### Quels liens avec l’enfance et l’éducation ?
 
 Léa associe certaines situations à ses souvenirs d’enfance. D’autres expériences actuelles, comme des moqueries répétées ou une discrimination, peuvent aussi expliquer qu’une personne se sente rejetée.
 
-Dans le cas de Léa, ses parents, bien qu’aimants, étaient souvent distants émotionnellement et valorisaient la réussite sociale et scolaire. Toute erreur ou maladresse était rapidement corrigée, parfois avec froideur. Léa a ainsi appris à associer l’amour à la performance, et, inconsciemment, à craindre le rejet s’elle ne “réussissait pas assez”.  
+Dans le cas de Léa, ses parents, bien qu’aimants, étaient souvent distants émotionnellement et valorisaient la réussite sociale et scolaire. Toute erreur ou maladresse était rapidement corrigée, parfois avec froideur. Léa a ainsi appris à associer l’amour à la performance, et, inconsciemment, à craindre le rejet s’elle ne “réussissait pas assez”.
 
-### 3 techniques concrètes pour mieux gérer le rejet en société  
+## 3 techniques concrètes pour mieux gérer le rejet en société
 
 Voici trois exercices que Léa a commencé à pratiquer, et que vous pouvez appliquer vous aussi :  
 
@@ -54,13 +54,7 @@ Voici trois exercices que Léa a commencé à pratiquer, et que vous pouvez appl
    Commencez par des petites interactions sociales faciles : dire bonjour au voisin, poser une question simple à un camarade de promo. Augmentez graduellement la difficulté pour reconstruire une confiance sociale sans être submergée. Léa a trouvé cette méthode efficace pour sortir de sa zone de confort sans pression.  
 
 3. Un carnet d’observations
-   Tenez un journal où vous notez vos émotions liées au rejet. Exprimez vos peurs, vos doutes et aussi vos réussites, même les petites. Cet exercice aide à mieux comprendre vos réactions et à mettre des mots sur ce que vous ressentez, ce qui est un premier pas vers l’acceptation.  
-
-### Quand Zoé arrive
-
-Quand Zoé arrive, Léa lui raconte qu’elle a quitté la fête tôt. Elle hésite à dire que personne ne lui parlait. Elle décrit plutôt la conversation qu’elle a perdue quand la musique est montée. Zoé se souvient du bruit, pas de cette conversation. Léa lui demande si elle peut lui raconter ce qu’elle essayait de dire.
-
-Elle commence par la phrase qu’elle avait laissée tomber. Zoé doit se pencher pour l’entendre au milieu des commandes de café. Léa la répète, cette fois jusqu’au bout.
+   Tenez un journal où vous notez vos émotions liées au rejet. Exprimez vos peurs, vos doutes et aussi vos réussites, même les petites. Cet exercice aide à mieux comprendre vos réactions et à mettre des mots sur ce que vous ressentez, ce qui est un premier pas vers l’acceptation.
 
 ### Faire la différence entre une impression et une mise à l’écart
 
@@ -71,3 +65,9 @@ Si vous vous reconnaissez dans l’histoire de Léa, rappelez-vous que vous n’
 Être mis à l’écart ne définit pas votre valeur. À votre rythme, avec patience et bienveillance, vous pouvez apprendre à vous reconnecter aux autres et à vous-même, pour vivre des interactions sociales plus riches et apaisées.
 
 Vous pouvez commencer dès aujourd’hui, un petit geste à la fois.
+
+## Quand Zoé arrive
+
+Quand Zoé arrive, Léa lui raconte qu’elle a quitté la fête tôt. Elle hésite à dire que personne ne lui parlait. Elle décrit plutôt la conversation qu’elle a perdue quand la musique est montée. Zoé se souvient du bruit, pas de cette conversation. Léa lui demande si elle peut lui raconter ce qu’elle essayait de dire.
+
+Elle commence par la phrase qu’elle avait laissée tomber. Zoé doit se pencher pour l’entendre au milieu des commandes de café. Léa la répète, cette fois jusqu’au bout.

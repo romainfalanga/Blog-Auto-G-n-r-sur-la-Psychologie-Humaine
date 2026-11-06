@@ -29,7 +29,11 @@ Il ouvre la photo du verso. Le service est encore joignable. Il choisit le banc 
 
 ## Un changement par rapport à ses journées habituelles
 
-Quand un événement ordinaire paraît porteur d’un sens personnel qui s’impose, la personne peut en être troublée. L’OMS décrit les convictions de référence parmi les manifestations possibles de la schizophrénie. Nils raconte une impression plus insistante que d’habitude et le contexte dans lequel elle survient. Il n’a pas besoin de décider si le mot clinique s’applique. Il n’a pas à chercher un message dans ce qui a été dit à la caisse. Il peut signaler à l’équipe ce qu’il remarque, avec le sommeil et l’effort supplémentaire que sa matinée lui a demandé.
+Quand un événement ordinaire paraît porteur d’un sens personnel qui s’impose, la personne peut en être troublée. L’OMS décrit les convictions de référence parmi les manifestations possibles de la schizophrénie.
+
+## Comment cette difficulté se manifeste
+
+Nils raconte une impression plus insistante que d’habitude et le contexte dans lequel elle survient. Il n’a pas besoin de décider si le mot clinique s’applique. Il n’a pas à chercher un message dans ce qui a été dit à la caisse. Il peut signaler à l’équipe ce qu’il remarque, avec le sommeil et l’effort supplémentaire que sa matinée lui a demandé.
 
 Le plan lui donne une façon d’appeler avant de savoir s’il s’agit d’une rechute. Deux nuits difficiles, prises seules, ne permettent pas de l’affirmer. La soignante qui le rappelle lui demande ce qui a changé, ce qu’il arrive à faire dans la journée et de quoi il a besoin. C’est à l’équipe d’apprécier la situation avec lui.
 
@@ -42,9 +46,3 @@ Avec Maud, la demande tient en un message de travail. Nils dit qu’il ne pourra
 ## Les croissants pour plus tard
 
 Nils marche jusqu’à la radio, où Maud est déjà venue ouvrir. Il lui tend le sac. Maud prend un croissant et lui dit qu’elle a bien reçu le message. Elle lui propose mercredi prochain, après les annonces, et inscrit l’essai au crayon. Il confirme qu’elle peut utiliser la minute pour la maquette, puis remonte jusqu’au bus avec le second croissant. Il demande à Elsa par texto s’ils peuvent se voir un peu le soir. « J’ai appelé le secteur. J’ai un rendez-vous lundi. J’aimerais manger avec toi si tu as le temps. » Elle lui propose vingt minutes avant sa course du soir. Il prend ces vingt minutes.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE, psychose et schizophrénie chez l’adulte (CG178)](https://www.nice.org.uk/guidance/cg178/chapter/recommendations)
-- [NICE, expérience des soins en santé mentale chez l’adulte (CG136)](https://www.nice.org.uk/guidance/cg136/chapter/recommendations)

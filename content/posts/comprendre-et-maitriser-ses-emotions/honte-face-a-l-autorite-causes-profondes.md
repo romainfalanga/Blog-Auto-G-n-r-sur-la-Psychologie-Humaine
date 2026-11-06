@@ -11,6 +11,9 @@ personnage: "Mei"
 sujet: "honte"
 contexte: "face à l'autorité"
 draft: false
+editorial_sources:
+- https://onlinelibrary.wiley.com/doi/abs/10.1002/1099-0879%28200007%297%3A3%3C174%3A%3Aaid-cpp236%3E3.0.CO%3B2-U
+- https://www.etudiant.gouv.fr/fr/violences-et-discriminations
 ---
 
 M. Dubois distribue les planches à la fin du cours. Mei reconnaît le coin qu’elle avait aplati contre sa manche au dernier rendez-vous. Sur le dessin, un cercle fin entoure l’endroit où le personnage se confond avec le décor. Le professeur a écrit « intention ? » dans la marge. Mei fait pivoter la planche sur la table, à la recherche d’une autre remarque qui préciserait le sens de celle-là.
@@ -64,5 +67,3 @@ Elle passe ensuite voir M. Dubois. « Quand vous écrivez intention, vous voulez
 Une annotation sur le travail peut être entendue comme un jugement sur soi. Préciser l’objet d’un retour peut aider quand la personne est disposée à en parler. Si ses propos sont humiliants, l’élève peut chercher un appui dans l’établissement.
 
 Si vous sentez que cette honte est trop envahissante et qu'elle paralyse votre vie professionnelle ou personnelle de manière persistante, un travail avec un psychologue peut être bénéfique. Un accompagnement thérapeutique permet d'explorer en sécurité les origines de ces mécanismes et de reconstruire une estime de soi solide, indépendante des figures d'autorité qui vous entourent.
-
-Sources : [Gilbert, étude sur le rang social perçu](https://onlinelibrary.wiley.com/doi/abs/10.1002/1099-0879%28200007%297%3A3%3C174%3A%3Aaid-cpp236%3E3.0.CO%3B2-U) ; [Étudiant.gouv, violences et discriminations](https://www.etudiant.gouv.fr/fr/violences-et-discriminations).

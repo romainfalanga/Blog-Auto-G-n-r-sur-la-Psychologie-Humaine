@@ -1,5 +1,5 @@
 ---
-title: "Malik : trouver sa place dans plusieurs appartenances"
+title: Trouver sa place dans plusieurs appartenances
 date: 2026-09-02T09:00:00+00:00
 description: "Au dépôt puis dans un groupe de photographie, Malik explore ses appartenances sans devoir choisir une seule manière de se définir."
 slug: "malik-appartenances-place"
@@ -98,6 +98,3 @@ Les appartenances multiples peuvent se compléter, se distinguer ou entrer ponct
 Décrire des liens concrets, préparer une réponse personnelle et essayer une contribution choisie peuvent ouvrir des possibilités. Ces gestes ne demandent pas de renoncer à une origine ou de rendre sa vie transparente. Ils servent à choisir un peu mieux ce que l’on partage et les espaces où l’on souhaite participer.
 
 Si le sentiment de ne trouver aucune place devient durablement pénible, un psychologue ou un autre professionnel peut aider à explorer les situations concernées. Cet accompagnement doit partir de l’expérience de la personne, sans présumer une souffrance ou un dysfonctionnement à partir de sa migration. Le droit à une identité personnelle précède toute explication que l’on pourrait en donner.
-
-Sources :
-- [Benet-Martínez et Haritatos, étude sur les dimensions de l’identité biculturelle](https://pubmed.ncbi.nlm.nih.gov/15958143/)

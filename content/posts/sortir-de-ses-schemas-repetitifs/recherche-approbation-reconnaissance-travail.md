@@ -17,13 +17,13 @@ L’air est lourd dans la salle de réunion. Stéphane, 45 ans, commercial grand
 
 Dans son bureau, il regarde le téléphone, hésite à envoyer un message à son directeur pour confirmer qu’il a bien terminé le rapport. Il a grandi dans l’ombre de son grand frère Philippe, toujours plus brillant, et n’a jamais senti qu’il était à la hauteur. « Et si ce n’était pas assez pertinent ? » se répète-t-il. Stéphane est pris dans un tourbillon silencieux : celui de la recherche d’approbation au travail. Sans qu’il s’en rende compte, ce besoin profond d’être reconnu guide toutes ses actions, parfois au détriment de son bien-être.
 
-### Qu’est-ce que la recherche d’approbation/reconnaissance au travail ?
+## Qu’est-ce que la recherche d’approbation/reconnaissance au travail ?
 
 Attendre un retour ou une reconnaissance au travail est ordinaire. L'approbation devient un problème pour Stéphane lorsqu'il interprète chaque réaction comme un verdict sur sa valeur. Une [étude de Jennifer Crocker et de ses collègues](https://pubmed.ncbi.nlm.nih.gov/14599252/) a mesuré l'approbation d'autrui parmi plusieurs domaines auxquels des étudiants liaient leur estime d'eux-mêmes ; elle ne fixe pas un seuil clinique au travail.
 
 Stéphane accepte des tâches de plus alors qu'il est déjà très sollicité. Cela peut tenir à sa crainte de décevoir, mais aussi aux priorités floues, à la charge ou au rapport hiérarchique. Le besoin de reconnaissance n'explique pas toutes les difficultés professionnelles.
 
-### Comment se manifeste la recherche d’approbation/reconnaissance au travail ?
+## Comment se manifeste la recherche d’approbation/reconnaissance au travail ?
 
 Dans le quotidien professionnel, ce besoin peut passer par plusieurs comportements invisibles mais épuisants :
 
@@ -34,7 +34,7 @@ Dans le quotidien professionnel, ce besoin peut passer par plusieurs comportemen
 
 Ces exemples invitent à regarder ce que coûte la situation et quelle marge de décision la personne a réellement.
 
-### 3 techniques pour s’en libérer et retrouver confiance
+## 3 techniques pour s’en libérer et retrouver confiance
 
 Prendre conscience de ce schéma est déjà un grand pas. Voici quelques pistes pour commencer à changer :
 
@@ -47,14 +47,14 @@ Prenez un carnet et notez ce qui est vraiment important pour vous dans votre tra
 3. S’entraîner à dire non avec bienveillance  
 Si Stéphane a la marge de le faire, il peut dire : « Je peux m'en charger jeudi. Si c'est pour demain, quel autre dossier dois-je décaler ? » Quand les demandes dépassent durablement les moyens, discuter de la charge de travail peut être plus utile que de chercher la formule parfaite.
 
-### Pour jeudi, s’il faut choisir
-
-À la fin du point d’équipe, le directeur demande si quelqu’un peut prendre le compte rendu client pour le lendemain. Stéphane a déjà ouvert son agenda quand il voit le rendez-vous de Maxime, noté à dix-huit heures. Il peut prendre le compte rendu pour jeudi. Si c’est pour demain, demande-t-il, quel dossier faut-il décaler ? Le directeur garde le document devant lui et dit qu’il reviendra vers l’équipe.
-
-En quittant la salle, Stéphane a envie de retourner proposer de tout faire. Il aperçoit son collègue Marc, qui a suivi la négociation de bout en bout, et lui demande une précision sur le dossier plutôt que son avis sur sa réponse. Il ne sait toujours pas qui prendra le compte rendu.
-
 ### Reconnaissance et limites peuvent coexister
 
 La recherche d’approbation/reconnaissance au travail est un schéma courant, surtout chez ceux qui ont à cœur de plaire. Comme Stéphane, vous n’êtes pas seul(e) à vivre cette tension intérieure entre vouloir être aimé(e) et vouloir s’affirmer. Reconnaître ce mécanisme est la première étape vers plus d’équilibre.
 
 Une personne de confiance peut aider à réfléchir à la suite. Si la situation pèse durablement sur la santé, un médecin, un psychologue ou la médecine du travail peut aider à faire le point.
+
+## Pour jeudi, s’il faut choisir
+
+À la fin du point d’équipe, le directeur demande si quelqu’un peut prendre le compte rendu client pour le lendemain. Stéphane a déjà ouvert son agenda quand il voit le rendez-vous de Maxime, noté à dix-huit heures. Il peut prendre le compte rendu pour jeudi. Si c’est pour demain, demande-t-il, quel dossier faut-il décaler ? Le directeur garde le document devant lui et dit qu’il reviendra vers l’équipe.
+
+En quittant la salle, Stéphane a envie de retourner proposer de tout faire. Il aperçoit son collègue Marc, qui a suivi la négociation de bout en bout, et lui demande une précision sur le dossier plutôt que son avis sur sa réponse. Il ne sait toujours pas qui prendra le compte rendu.

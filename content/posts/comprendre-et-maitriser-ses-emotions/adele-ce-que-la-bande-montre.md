@@ -33,6 +33,8 @@ Au petit déjeuner, elle ne se sent pas prête à reprendre une place au réfect
 
 L’ARFID peut gêner la vie scolaire ou sociale même lorsque la personne participe à certaines activités du groupe. La présence d’Adèle dans la salle des ateliers ne dit pas ce qu’il lui a fallu pour prendre le petit déjeuner. Inversement, avoir besoin du lieu prévu pour le repas n’enlève rien à ce qu’elle vient montrer à ses camarades. Les professionnels peuvent écouter ce qu’elle rapporte des repas successifs et ce qui a permis de les prendre, sans juger l’ensemble du séjour à partir d’un seul de ces moments.
 
+## Comment cette difficulté se manifeste
+
 Adèle a pu faire une demande plus tôt ce matin. Cela peut devenir un point de discussion avec son équipe, qui pourra entendre aussi que les difficultés sont revenues. Mme Roussel et M. Benhamou peuvent aider en rapportant les faits utiles à la famille, pendant qu’Adèle choisit les mots qu’elle souhaite employer.
 
 ## Présenter le dessin sans raconter le séjour entier
@@ -44,9 +46,3 @@ Adèle aimerait que la bande soit vue de suffisamment près. Depuis le fond de l
 ## Le dessin passe avant le son
 
 Adèle tient la bande à hauteur du dossier de la chaise de devant. « La troisième barre, c’était une ombre. Depuis l’autre bout, on ne la voyait pas », dit-elle. Un élève s’avance d’un pas et remarque que la barre s’arrête. Adèle incline la bande pour la mettre dans la lumière. Inès lance le son quand Adèle relève la tête. Le frottement passe presque inaperçu. Après le premier claquement, un garçon demande si elles peuvent remettre le début. Adèle laisse la bande sur la chaise pour la seconde écoute.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Maudsley Centre for Child and Adolescent Eating Disorders (NHS) — ARFID Service Frequently Asked Questions](https://mccaed.slam.nhs.uk/wp-content/uploads/2022/12/ARFID-Service-FAQs-Dec-22.pdf)
-- [Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust — ARFID: Creating supportive mealtimes](https://www.cntw.nhs.uk/resources/avoidant-restrictive-food-intake-disorder-arfid-simple-suggestions-series-creating-supportive-mealtimes)

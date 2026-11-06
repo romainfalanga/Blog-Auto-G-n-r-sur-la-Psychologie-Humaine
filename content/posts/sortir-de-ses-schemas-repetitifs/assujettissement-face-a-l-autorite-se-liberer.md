@@ -11,6 +11,9 @@ personnage: "Mei"
 sujet: "assujettissement"
 contexte: "face à l'autorité"
 draft: false
+editorial_sources:
+- https://www.schematherapysociety.org/Schema-Therapy
+- https://www.etudiant.gouv.fr/fr/violences-et-discriminations
 ---
 
 Mei porte deux versions de la même planche au rendez-vous avec M. Dubois. Dans celle qu’elle préfère, une silhouette bleue se défait au milieu de signes chinois. Le bras tient dans un trait qui disparaît presque à l’endroit où les signes se resserrent. Dans l’autre, elle a dégagé un espace autour du personnage. Elle l’a faite après avoir passé une heure à imaginer les endroits que le professeur lui demanderait d’alléger.
@@ -66,5 +69,3 @@ Mei essaie de dire ce qui compte dans son travail. Si s’exprimer comporte un r
 Chaque petit pas vers l'affirmation de soi est une victoire sur les ombres du passé. En identifiant vos déclencheurs et en pratiquant des techniques de mise à distance émotionnelle, vous reprenez peu à peu les rênes de votre vie. Vous n'êtes plus l'enfant qui doit obéir pour exister, mais une personne libre dont la voix mérite d'être entendue, même si elle exprime un désaccord.
 
 Si vous sentez que ce schéma de soumission est trop ancré et qu'il génère une souffrance importante ou un épuisement professionnel, solliciter l'aide d'un psychologue est une démarche constructive. Un accompagnement thérapeutique, notamment en thérapie cognitive et comportementale ou en thérapie des schémas, peut vous offrir des outils précieux pour reconstruire votre estime de soi et apprendre à poser des limites saines durablement.
-
-Sources : [International Society of Schema Therapy, notions centrales](https://www.schematherapysociety.org/Schema-Therapy) ; [Étudiant.gouv, violences et discriminations](https://www.etudiant.gouv.fr/fr/violences-et-discriminations).

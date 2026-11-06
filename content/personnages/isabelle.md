@@ -6,7 +6,7 @@ slug: "isabelle"
 prenom: "Isabelle"
 date_naissance: "1978-09-03"
 profession: "Psychologue scolaire dans un collège"
-situation: "Divorcée, séparée d'aurélie, un fils adolescent (théo, 16 ans)"
+situation: "Divorcée, séparée d'Aurélie, un fils adolescent (théo, 16 ans)"
 nb_articles: 12
 weight: 7
 draft: false

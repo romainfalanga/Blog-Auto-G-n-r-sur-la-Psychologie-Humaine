@@ -31,7 +31,11 @@ Alice lui dit qu’elle peut rester quelques minutes pendant qu’elle retrouve 
 
 ## Prendre le besoin d’aide au sérieux
 
-En période de crise, un plan préparé avec les soignants peut aider une personne à retrouver le service adapté et à dire ce dont elle a besoin. Le NICE recommande aux professionnels de s’appuyer sur le plan, d’écouter le point de vue de la personne et de convenir d’un suivi adapté à la situation. La détresse de Mina mérite une réponse. Le service peut lui demander ce qui se passe, comment elle se sent et si elle est en sécurité dans l’instant.
+En période de crise, un plan préparé avec les soignants peut aider une personne à retrouver le service adapté et à dire ce dont elle a besoin. Le NICE recommande aux professionnels de s’appuyer sur le plan, d’écouter le point de vue de la personne et de convenir d’un suivi adapté à la situation.
+
+## Comment cette difficulté se manifeste
+
+La détresse de Mina mérite une réponse. Le service peut lui demander ce qui se passe, comment elle se sent et si elle est en sécurité dans l’instant.
 
 Les messages du festival font partie de ce qu’elle peut raconter. L’échange clinique permet de prendre en compte ce qui s’accumule, y compris ce qui est difficile à mettre en mots. Mina peut expliquer que, ce soir, elle n’arrive plus à faire ses choix habituels et cherche un appui immédiat.
 
@@ -44,8 +48,3 @@ Après cet échange, Mina peut revoir le plan au rendez-vous de suivi. Elle pour
 ## Le papier reste sur la table
 
 La personne qui a répondu fait le point avec Mina et convient d’un nouvel échange. Mina recopie l’heure sur le papier posé devant elle. Elle écrit ensuite à Alice qu’elle a parlé au service. Elle garde pour elle l’heure du prochain échange. Dans la conversation du festival, elle envoie seulement qu’elle répondra demain pour la tâche demandée. Elle remet le fil dans la boîte du carnet et laisse sur la table le papier qu’elle veut retrouver le matin.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG78, accompagnement des personnes présentant un profil borderline](https://www.nice.org.uk/guidance/cg78/chapter/Recommendations)

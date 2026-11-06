@@ -34,7 +34,11 @@ Elle se rappelle ce qu’elles ont prévu pour les vérifications. Elle demande 
 
 Une phobie spécifique peut rendre certaines tâches difficiles même quand la personne tient à son métier. Cette difficulté peut être comprise en regardant les situations qui déclenchent la peur et ce que la personne continue de faire ailleurs. Thaïs exerce son jugement de cartographe en identifiant un point, en interrogeant un habitant et en vérifiant des sources. Elle a besoin d’une manière différente de recevoir une information qui dépend d’une vue en hauteur.
 
-Dans ce cas, l’aménagement prévoit la place et les moyens de travailler. Il ne supprime pas toute réaction de peur. Quand Inès appelle, Thaïs retrouve la tension et envisage de se justifier. Elle peut rappeler l’accord sans attendre d’être parfaitement à l’aise. L’imprévu donne aussi au groupe des indications sur la façon de rendre le partage des tâches plus clair.
+Dans ce cas, l’aménagement prévoit la place et les moyens de travailler. Il ne supprime pas toute réaction de peur.
+
+## La tension qui revient au moment de l’appel
+
+Quand Inès appelle, Thaïs voit la plateforme par la vitre. Elle retrouve la tension et envisage de prétexter un rendez-vous. Elle ressent encore cette gêne en demandant les deux vues et en disant qu’elle reste à la station. Le partage prévu des tâches lui permet de reprendre la conversation avec l’habitant et d’utiliser ensuite les photos envoyées.
 
 ## Vérifier que l’accord répond aux besoins de chacun
 
@@ -45,8 +49,3 @@ La question de savoir ce que Thaïs veut travailler dans son suivi a un autre ca
 ## Le trait qui traverse le mur
 
 En fin de matinée, Thaïs inscrit le nom que les habitants emploient encore à côté de celui des archives. Sur la photographie reçue, le mur s’arrête avant la borne. Elle montre pourquoi le vieux tracé traverse l’emplacement de la station. Inès revient avec assez de vues pour une première version. Samir lui demande si elles veulent noter un ajustement pour la prochaine mission. Thaïs propose que les photos soient identifiées dès l’envoi pour éviter de relancer le groupe.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, Phobias](https://www.nhs.uk/mental-health/conditions/phobias/)

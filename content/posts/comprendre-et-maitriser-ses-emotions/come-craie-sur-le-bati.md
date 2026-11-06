@@ -33,6 +33,8 @@ Il sort son mètre de la poche où il l’avait laissé. « Je vais attendre qu�
 
 Dans le trouble du jeu vidéo, il peut devenir difficile de s’arrêter ou de changer le moment où l’on joue, même lorsqu’on voit ce que cela risque de coûter. Côme avait préparé son départ pour l’atelier et savait à quelle heure il devait dormir. Il a repoussé plusieurs fois le moment de quitter la partie. La conséquence prend la forme d’un établi occupé et d’une matinée qu’il ne récupérera pas.
 
+## Comment cette difficulté se manifeste
+
 Le diagnostic de Côme a été posé avant ce samedi, en consultation d’addictologie. Il tient à une histoire plus longue qu’un seul rendez-vous. Le guide clinique de l’OMS indique qu’une pratique peut prendre une place croissante au détriment d’autres activités et se poursuivre malgré un retentissement important. Une longue soirée, une habitude quotidienne ou une arrivée en retard ne permettent pas, à elles seules, de tirer cette conclusion. Côme s’était amusé en jouant avec ses amis. Ce plaisir fait aussi partie de ce qu’il voudra expliquer s’il revient parler de sa semaine.
 
 ## Reprendre la mesure qui reste à sa portée
@@ -44,8 +46,3 @@ S’il évoque la nuit en consultation, il dispose d’un exemple précis : ce q
 ## Deux chiffres derrière le tableau
 
 Nadège décroche le tableau pour récupérer un bout de ficelle coincé derrière. Côme en profite pour lui demander le prochain créneau libre. Il choisit le samedi d’après, plus tard dans la matinée ; le bâti peut rester au rangement jusque-là. Il relève deux mesures, les inscrit sur un carton et ajoute un point d’interrogation près du côté où le bois a noirci. Quand Agathe lui demande si elle peut emprunter une rondelle qui roule vers le bord, il la retient du doigt et la lui tend. L’établi est bien à elle, maintenant.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Trouble du jeu vidéo : questions et réponses](https://www.who.int/fr/news-room/questions-and-answers/item/gaming-disorder)

@@ -32,7 +32,11 @@ Après l’accueil, Nathalie et Basile s’installent devant le registre avec Ga
 
 Prendre part aux décisions aide à retrouver une place dont on peut décrire le contenu. Gasparde veut s’occuper des réservations sur des plages connues, accueillir le samedi matin et garder du temps pour jouer. Elle a encore des moments où une modification ordinaire du planning ravive la peur d’être mise de côté. Elle continue à en parler en suivi quand cela lui coûte. Son expérience du club comprend aussi une organisation qu’elle a contribué à construire.
 
-Le trouble délirant peut avoir des effets qui se concentrent autour de certaines préoccupations. Le suivi regarde comment elles évoluent et ce que Gasparde souhaite faire dans sa vie. Le rendez-vous convenu avec Farah reste utile au-delà de la dernière scène. Le registre répond à des questions de fonctionnement du club. Le tennis et le choix de passer un dimanche au canal ont une valeur pour elle dans la vie qu’elle organise.
+Le trouble délirant peut avoir des effets qui se concentrent autour de certaines préoccupations.
+
+## Comment cette difficulté se manifeste
+
+Le suivi regarde comment elles évoluent et ce que Gasparde souhaite faire dans sa vie. Le rendez-vous convenu avec Farah reste utile au-delà de la dernière scène. Le registre répond à des questions de fonctionnement du club. Le tennis et le choix de passer un dimanche au canal ont une valeur pour elle dans la vie qu’elle organise.
 
 ## Se mettre d’accord sur des rôles qui durent
 
@@ -43,8 +47,3 @@ Gasparde a aussi décidé de réserver son double. La même procédure vaut pour
 ## Une balle au-dessus de Brigitte
 
 À seize heures, Agnès attend en faisant rouler une balle sous sa semelle. Sa sœur demande de quel côté elles commencent. Gasparde pose le registre dans le local, sur la page où sont écrites les plages du téléphone. Puis elle ferme la porte et retrouve Brigitte près du filet. Elles perdent le premier point. Gasparde avait cru que le vent porterait la balle plus loin et l’a laissée passer. Au suivant, elle voit Brigitte faire un pas de côté et lève la raquette. « Je la prends. » La balle passe par-dessus sa partenaire. Quand elle touche la ligne du fond, Brigitte se retourne, les deux mains ouvertes. Gasparde demande si elles rejouent le point pour en être sûres.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Guide d’intervention mhGAP, version 2.0 : principes de soins et suivi des psychoses](https://www.who.int/publications/i/item/9789241549790)

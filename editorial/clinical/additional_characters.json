@@ -18,5 +18,25 @@
       "guardrail": "Distinguer traits, diagnostic établi et comportements précis. La CIM-11 décrit le trouble de la personnalité de façon dimensionnelle. Éviter le diagnostic d’autrui et laisser aux personnes concernées leurs propres limites.",
       "occupation": "directeur artistique"
     }
+  },
+  {
+    "id": "elvire",
+    "name": "Élvire",
+    "code": "7A00",
+    "primary_reference": "oms-insomnie",
+    "diagnosis": {
+      "timing": "early_professional_assessment",
+      "episode": 3
+    },
+    "canon": {
+      "age": 41,
+      "setting": "Planifie les tournées d’une coopérative de collecte de mobilier.",
+      "independent_goal": "Ouvrir un point de dépôt le samedi avec son équipe et répartir les permanences.",
+      "tension": "Les nuits difficiles et l’appréhension du coucher réduisent son attention le lendemain. Elle veut garder un rôle dans le projet sans tout reprendre à sa charge.",
+      "supports": "Un médecin, un professionnel formé à la TCC de l’insomnie et des proches ou collègues qui respectent ses choix.",
+      "trajectory": "L’évaluation et le suivi prennent place pendant que l’équipe prépare l’ouverture. Élvire choisit ses appuis et répartit les tâches à partir de ce qu’elle peut faire en sécurité.",
+      "guardrail": "Distinguer une nuit difficile, une autre cause de somnolence et une insomnie chronique évaluée. Éviter les consignes de restriction du sommeil à appliquer seul.",
+      "occupation": "planificatrice des tournées"
+    }
   }
 ]

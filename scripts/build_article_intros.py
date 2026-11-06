@@ -1,4 +1,4 @@
-"""Build the reviewed explanations shown before the public fictional stories.
+"""Build the reviewed explanations and reading previews for public stories.
 
 Use the clinical manuscript's approved lead for a clinical story and the
 existing definition excerpt for the original stories. Article Markdown is

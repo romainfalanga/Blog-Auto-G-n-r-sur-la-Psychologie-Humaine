@@ -32,7 +32,11 @@ La bibliothécaire entre pour demander ce qu’elle peut annoncer au groupe qui 
 
 Quand Solène demande cinq minutes, elle redoute de paraître incapable de choisir. Une pause peut lui servir à retrouver l’ordre des informations utiles et à formuler ce qu’elle propose. Dans une reprise professionnelle, l’équipe peut laisser ce temps puis évaluer la proposition sur ce qu’elle change dans le travail.
 
-Le trouble schizoaffectif peut avoir des effets sur la vie professionnelle, et ces effets peuvent changer au cours du suivi. Le nom du trouble ne renseigne pas sur la lisibilité de l’image, ni sur la décision à prendre pour cette salle. Célestin et Solène ont constaté un problème de lecture depuis un même rang. Mireille y ajoute une contrainte : le nombre de places que la médiathèque souhaitait proposer. Ces faits suffisent à ouvrir la discussion.
+Le trouble schizoaffectif peut avoir des effets sur la vie professionnelle, et ces effets peuvent changer au cours du suivi. Le nom du trouble ne renseigne pas sur la lisibilité de l’image, ni sur la décision à prendre pour cette salle.
+
+## Comment cette difficulté se manifeste
+
+Célestin et Solène ont constaté un problème de lecture depuis un même rang. Mireille y ajoute une contrainte : le nombre de places que la médiathèque souhaitait proposer. Ces faits suffisent à ouvrir la discussion.
 
 Les orientations de l’OMS sur le rétablissement invitent à respecter les choix et le rôle de la personne. Dans cette scène, une pause permet à Solène de prendre connaissance du problème et de revenir avec une proposition. Si elle remarque par ailleurs un changement qui lui rappelle une période difficile, elle sait à qui en parler. Demander du temps avant de répondre à la bibliothécaire n’oblige pas à transformer la réunion en entretien sur sa santé.
 
@@ -45,8 +49,3 @@ Garder le film impose ici de renoncer à huit places si aucune autre copie ne pe
 ## La seizième chaise entre dans le plan
 
 Elles rapprochent les rangées avec la bibliothécaire et refont l’essai au point le plus éloigné. Célestin lit enfin la phrase entière. La copie avec d’autres sous-titres ne sera pas disponible à temps, apprend Mireille l’après-midi. Elle et la bibliothécaire valident les seize places et un système de réservation pour prévenir les personnes si la séance est pleine. Solène maintient Trois minutes de pluie et corrige le texte d’annonce avec elles. Elle ajoute une note pour se rappeler que quatre personnes viennent peut-être ensemble. Il faudra leur laisser le temps de choisir où s’asseoir.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, services de santé mentale communautaires : résumé des orientations](https://www.who.int/fr/publications/i/item/9789240025684)

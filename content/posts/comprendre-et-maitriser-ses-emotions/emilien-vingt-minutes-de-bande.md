@@ -31,7 +31,11 @@ Il y a quelques semaines, au terme de l’évaluation, l’équipe a conclu qu�
 
 ## Comprendre le retour après un épisode
 
-Après un épisode, la reprise d’une activité peut être un objectif de rétablissement convenu avec la personne. Le NICE recommande de discuter avec elle des suites des soins, de ses propres objectifs et des aides adaptées si elle souhaite reprendre un emploi. Le moment d’une reprise et sa forme dépendent de sa situation et de l’évaluation avec son équipe. Aller mieux ne se mesure pas à la quantité de travail qu’Émilien réussit à reprendre en une seule fois. Il peut participer à une décision qui lui tient à cœur, constater qu’il a besoin d’une pause et conserver sa prochaine consultation. Une séance réussie ne décide pas à elle seule de toute la semaine.
+Après un épisode, la reprise d’une activité peut être un objectif de rétablissement convenu avec la personne. Le NICE recommande de discuter avec elle des suites des soins, de ses propres objectifs et des aides adaptées si elle souhaite reprendre un emploi. Le moment d’une reprise et sa forme dépendent de sa situation et de l’évaluation avec son équipe.
+
+## Comment cette difficulté se manifeste
+
+Aller mieux ne se mesure pas à la quantité de travail qu’Émilien réussit à reprendre en une seule fois. Il peut participer à une décision qui lui tient à cœur, constater qu’il a besoin d’une pause et conserver sa prochaine consultation. Une séance réussie ne décide pas à elle seule de toute la semaine.
 
 ## Remettre le travail en commun sans effacer ce qui s’est passé
 
@@ -42,8 +46,3 @@ Dorian a tenu deux engagements pendant l’absence d’Émilien et a besoin que 
 ## Deux avis sur le même passage
 
 Le minuteur vibre alors qu’ils écoutent la dernière syllabe. Émilien préfère une coupe un peu plus loin, juste avant le claquement de la caisse. Dorian essaie et garde les deux versions. Ils notent chacun ce qu’ils ont fait, puis Émilien range son casque. Sur le chemin de la sortie, il remercie Dorian d’avoir appelé les commerçants. Ils n’ont pas encore réparti la présentation ; il lui propose d’en parler après la prochaine écoute.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

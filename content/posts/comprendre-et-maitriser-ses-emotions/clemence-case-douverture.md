@@ -31,7 +31,11 @@ Dans son carnet, le rendez-vous avec l’équipe spécialisée est déjà inscri
 
 ## Comment la peur de prendre du poids occupe le quotidien
 
-L’anorexie mentale est un trouble des conduites alimentaires dont l’évaluation tient compte du vécu de la personne, de ce qui change dans sa vie et de son état physique. Une restriction alimentaire durable peut s’accompagner d’une peur intense de prendre du poids et d’une place excessive accordée au poids ou à la silhouette dans la manière de se juger. Chez Clémence, la peur revient avant le repas et les pensées continuent parfois longtemps après. Elle voudrait parler du film et s’aperçoit que son attention est encore prise ailleurs. Le trouble peut affecter la santé physique autant que le moral. L’OMS le décrit dans sa Classification internationale des maladies. Une impression à partir de l’apparence ou d’un seul signe ne permet pas de comprendre la situation. Le NICE recommande un suivi coordonné qui inclut la santé physique, la santé psychique et les risques éventuels. Les professionnels peuvent aussi parler avec la personne des répercussions dans les études, la vie sociale et les relations. Dans le cas de Clémence, le rendez-vous laisse de la place aux difficultés qu’elle vit et à ses questions sur le ciné-club.
+L’anorexie mentale est un trouble des conduites alimentaires dont l’évaluation tient compte du vécu de la personne, de ce qui change dans sa vie et de son état physique. Une restriction alimentaire durable peut s’accompagner d’une peur intense de prendre du poids et d’une place excessive accordée au poids ou à la silhouette dans la manière de se juger.
+
+## Comment cette difficulté se manifeste
+
+Chez Clémence, la peur revient avant le repas et les pensées continuent parfois longtemps après. Elle voudrait parler du film et s’aperçoit que son attention est encore prise ailleurs. Le trouble peut affecter la santé physique autant que le moral. L’OMS le décrit dans sa Classification internationale des maladies. Une impression à partir de l’apparence ou d’un seul signe ne permet pas de comprendre la situation. Le NICE recommande un suivi coordonné qui inclut la santé physique, la santé psychique et les risques éventuels. Les professionnels peuvent aussi parler avec la personne des répercussions dans les études, la vie sociale et les relations. Dans le cas de Clémence, le rendez-vous laisse de la place aux difficultés qu’elle vit et à ses questions sur le ciné-club.
 
 ## Proposer une place qui comporte un choix
 
@@ -40,8 +44,3 @@ Clémence peut demander à Baya si l’idée de choisir un film lui plaît. Elle
 ## Le nom au bas de la fiche
 
 Clémence écrit à Baya et lui propose de voir le passage de la porte après le cours. Elle ajoute qu’elle aimerait lui laisser choisir ce qui sera projeté à la fin. Baya lui répond qu’elle a déjà une idée et qu’elle veut voir le film avant de s’engager. Clémence remet la fiche dans sa chemise. En fermant le carnet, elle inscrit près du rendez-vous le nom de la soirée dont elle voudrait reparler au service.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG69, repérage et prise en charge des troubles des conduites alimentaires](https://www.nice.org.uk/guidance/ng69/chapter/recommendations)

@@ -100,5 +100,3 @@ Retrouver un rythme après une période irrégulière demande parfois de renonce
 Une stabilité partielle peut déjà soutenir la récupération, sans prouver que toutes les difficultés sont réglées. Les ajustements restent liés aux horaires, aux ressources et aux besoins des personnes concernées. Une habitude utile doit pouvoir être révisée lorsque ces éléments changent.
 
 Si le sommeil ou la fatigue restent perturbés, un médecin et le service de prévention et de santé au travail peuvent vous accompagner. Ils peuvent aider à adapter les repères à votre situation. Il n'est pas nécessaire d'avoir réussi une routine idéale avant de demander cet avis.
-
-Sources : [Inserm, chronobiologie](https://www.inserm.fr/dossier/chronobiologie/) ; [INRS, prévention des effets des horaires atypiques](https://www.inrs.fr/risques/travail-horaires-atypiques/demarche-de-prevention.html).

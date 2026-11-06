@@ -34,6 +34,8 @@ Mélissa lui touche le coude et lui demande de lui passer la louche. Il lui dit 
 
 Une envie de boire peut apparaître lors d’une inquiétude, d’une habitude du soir ou d’un événement que la personne a envie de fêter. Éric éprouve de la fierté et se souvient des fins de service où il allait retrouver le groupe et boire. L’envie arrive au moment où son rôle change et où il pourrait se laisser conduire par la suite familière. L’équipe de soins peut tenir compte de cette association, comme elle l’a fait pour l’invitation reçue sur la place.
 
+## Comment cette difficulté se manifeste
+
 Le repas donne à Éric une expérience différente de la répétition de la fanfare. Le travail qui vient de réussir et les remerciements lui donnent envie de prolonger la journée. Il peut remarquer ce que chacun de ces moments suscite et en parler au prochain rendez-vous.
 
 ## Passer d’un rôle à l’autre avec un accord concret
@@ -45,9 +47,3 @@ Les aides peuvent être adaptées à une situation précise. Éric pourra racont
 ## La photo entre le dessin et le casque
 
 Gérald trouve sa photo posée entre le dessin de Joëlle et le casque. Éric lui dit de commencer par le passage où la marchande cale les cagettes. Gérald ferme les yeux quelques secondes. Quand il les rouvre, il dit qu’il pourrait reconnaître la place rien qu’au bruit du chariot derrière elle. Deux personnes attendent leur tour. Éric demande à Gérald s’il peut garder la photo sur la table le temps d’expliquer l’enregistrement. Gérald est d’accord et retourne chercher Pascal pour lui faire entendre le chariot. Éric a encore envie de savoir ce qui se dit à l’autre table. Il peut d’ici entendre son prénom autrement.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG115, évaluation et prise en charge de la dépendance à l’alcool](https://www.nice.org.uk/guidance/cg115/chapter/Recommendations)
-- [HAS, agir en premier recours pour diminuer le risque alcool](https://www.has-sante.fr/jcms/p_3326877/fr/agir-en-premier-recours-pour-diminuer-le-risque-alcool-reperer-tous-les-usages-et-accompagner-chaque-personne)

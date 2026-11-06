@@ -33,6 +33,8 @@ Le père de Roxane parle de la rencontre du samedi. Joëlle prend le train ce jo
 
 Un accent régional est une variation de la parole. L’OMS et l’ASHA distinguent les façons de prononcer attendues dans une communauté des difficultés qui persistent et gênent la compréhension au-delà de ces variations. Une personne peut avoir un accent et rencontrer par ailleurs des difficultés avec certains sons. Une intonation, un mot répété ou le fait de demander une précision ne permettent pas de faire la distinction : c’est à un professionnel de situer un ensemble d’observations dans l’histoire de la personne et de ses langues.
 
+## Comment cette difficulté se manifeste
+
 Roxane reconnaît sa tante à l’oreille. Quand Joëlle perd le fil, elle part d’un événement dont elles ont déjà parlé, le square. Roxane préfère changer sa façon d’amener la devinette. Elle pose une question sur le jeu à venir. Joëlle peut y répondre même si elle n’a pas entendu tous les détails de la préparation.
 
 ## Écrire pour quelqu’un qui ne sera pas là
@@ -44,8 +46,3 @@ Son père propose de l’aider à chercher les mots. Roxane lui donne le rond de
 ## Le papier sur le rond de bois
 
 Le premier trait casse ; une miette de mine se coince dans le pli de la feuille. Roxane passe un crayon moins pointu et voit apparaître un bord irrégulier. L’empreinte ferait trop vite penser à un arbre. Elle choisit de la glisser avec la réponse, au fond de l’enveloppe qu’elle finira après la rencontre. En sortant, elle demande à Joëlle de lui dire sa première idée au téléphone, avant d’ouvrir le dernier pli. Sa tante promet de le garder fermé jusque-là.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal — Speech Sound Disorders: Articulation and Phonology](https://www.asha.org/practice-portal/clinical-topics/articulation-and-phonology/)

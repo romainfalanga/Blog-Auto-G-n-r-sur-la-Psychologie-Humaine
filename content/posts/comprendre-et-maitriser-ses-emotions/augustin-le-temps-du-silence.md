@@ -32,7 +32,11 @@ Le bord vient. Le disque penche légèrement quand il se redresse. Augustin trou
 
 ## Tout le monde n’attend pas la même chose
 
-Un silence qui semble long pour la personne en train d’agir peut avoir une autre signification pour ceux qui la regardent. Augustin voit le bord du carton bouger et sait ce qu’il pourrait devoir changer. Le public voit un voisin arriver dans une cour où le jour tarde à paraître. Des difficultés de coordination peuvent allonger une action même quand elle a déjà été répétée ; elles n’indiquent pas ce que chacun comprend dans la salle. Ce soir, Augustin a besoin d’un instant pour retrouver sa prise, et il veut que le disque ait le temps d’apparaître. Il peut ressentir les deux choses à la fois. L’appui de Maya est prêt, ce qui lui laisse une possibilité au moment où il n’est pas encore sûr de pouvoir faire le geste.
+Un silence qui semble long pour la personne en train d’agir peut avoir une autre signification pour ceux qui la regardent. Augustin voit le bord du carton bouger et sait ce qu’il pourrait devoir changer. Le public voit un voisin arriver dans une cour où le jour tarde à paraître. Des difficultés de coordination peuvent allonger une action même quand elle a déjà été répétée ; elles n’indiquent pas ce que chacun comprend dans la salle.
+
+## Comment cette difficulté se manifeste
+
+Ce soir, Augustin a besoin d’un instant pour retrouver sa prise, et il veut que le disque ait le temps d’apparaître. Il peut ressentir les deux choses à la fois. L’appui de Maya est prêt, ce qui lui laisse une possibilité au moment où il n’est pas encore sûr de pouvoir faire le geste.
 
 ## Laisser le signal à celui qui doit le donner
 
@@ -41,8 +45,3 @@ Maya peut se tenir prête et attendre le mot convenu. Maxence peut garder son br
 ## Après « me lève »
 
 Il repose le soleil en regardant le côté pâle s’éteindre sur la table. « Vous auriez pu attendre que je me lève. » Le papier de Maxence répond après la phrase. Il y a un rire près du rideau, un autre plus loin. En coulisse, Augustin s’aperçoit qu’il serre encore les manches. Au salut, il prend le temps d’attendre que Nora les rejoigne. Son cousin l’attend dans l’entrée, son programme roulé dans la main. « J’ai vraiment cru qu’ils allaient attendre dix minutes de plus. » Augustin lui demande à quel moment il s’est mis à le croire. Cette fois, il peut attendre la réponse.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Blank et al., recommandations cliniques internationales de l’EACD sur le trouble du développement de la coordination (2019)](https://onlinelibrary.wiley.com/doi/full/10.1111/dmcn.14132)

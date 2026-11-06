@@ -32,18 +32,20 @@ Anna lui propose de prendre son carnet. Elle écrit que Morgane veut comprendre 
 
 ## Choisir les questions que le soin doit traiter
 
-Les recommandations sur l’hyperphagie boulimique décrivent des accompagnements psychologiques ciblés sur les épisodes et la détresse. Parmi les options chez l’adulte, le NICE mentionne un programme d’aide guidée et la thérapie cognitivo-comportementale adaptée aux troubles des conduites alimentaires. Le choix se discute avec les professionnels, en tenant compte de la situation et de ce que la personne peut suivre. Le poids peut avoir sa place dans une discussion médicale distincte, selon les besoins. La perte de poids ne constitue pas en elle-même l’objectif du traitement psychologique de ce trouble. Morgane peut demander quel professionnel répondra à quelle question et comment ils travailleront ensemble.
+Les recommandations sur l’hyperphagie boulimique décrivent des accompagnements psychologiques ciblés sur les épisodes et la détresse. Parmi les options chez l’adulte, le NICE mentionne un programme d’aide guidée et la thérapie cognitivo-comportementale adaptée aux troubles des conduites alimentaires.
+
+Le choix se discute avec les professionnels, en tenant compte de la situation et de ce que la personne peut suivre. Le poids peut avoir sa place dans une discussion médicale distincte, selon les besoins. La perte de poids ne constitue pas en elle-même l’objectif du traitement psychologique de ce trouble.
+
+## Ce que Morgane voudrait voir compter dans le suivi
+
+Morgane redoute que son effort se résume à ce qu’affiche une balance. Elle trouve plus facile d’imaginer parler d’une taille de vêtements que du découragement qui a suivi l’épisode. Elle avait pourtant failli renoncer à la répétition de Yassine, à laquelle elle tenait. En reprenant le message avec Anna, elle arrive à décrire un effet concret de l’épisode qui lui avait été difficile à raconter.
 
 ## S’accorder sur une manière de reparler de la difficulté
 
 Morgane et Anna ont désormais une scène précise pour discuter du découragement. Elles peuvent s’interroger sur le moment où la gêne prend assez de place pour qu’elle retire une réponse qu’elle avait envie de donner. Les épisodes récurrents et la santé physique continuent à être suivis. Pouvoir parler plus tôt d’une difficulté ou retrouver un contact choisi peut aussi compter pour Morgane. Ces repères viennent de ce qu’elle souhaite et de l’évaluation clinique. Ils peuvent être ajustés si ses besoins changent. Anna peut lui présenter des possibilités en précisant ce qu’elle sait de leur déroulement et les questions qui restent à discuter.
 
+Morgane peut demander quel professionnel répondra à quelle question et comment ils travailleront ensemble.
+
 ## La page qui reste ouverte
 
 Morgane demande à recevoir une présentation des possibilités avant de donner une réponse. Elle reprend le carnet et marque la page avec le ticket de la librairie. En sortant, elle vérifie avec Sonia qu’elles se retrouvent samedi un peu avant l’ouverture pour placer les panneaux. Au travail, le cadre d’accueil est décidé. En consultation, elle sait quelle question poser ensuite au médecin et ce qu’elle veut reprendre avec Anna.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et Fédération française anorexie boulimie, recommandations sur la boulimie et l’hyperphagie boulimique](https://www.has-sante.fr/upload/docs/application/pdf/2019-09/boulimie_et_hyperphagie_boulimique_-_recommandations.pdf)
-- [NICE, recommandations NG69 sur les troubles des conduites alimentaires](https://www.nice.org.uk/guidance/ng69/evidence/full-guideline-pdf-161214767896)

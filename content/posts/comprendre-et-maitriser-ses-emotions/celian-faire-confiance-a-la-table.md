@@ -31,7 +31,11 @@ Jade conduit les premiers arrivants. Léonie pose les gobelets, trouve leur plac
 
 ## Avoir un appui et rester responsable de ses choix
 
-Une personne peut avoir besoin d’aménagements pour certaines lectures et exercer pleinement son rôle dans un projet collectif. Célian a choisi les quantités, le menu, le lieu de la table et la façon de retrouver les informations. Il a aussi accepté que d’autres prennent des tâches, comme Jade à la porte et Yanis avec les caisses. Ils ont trouvé des appuis pour cette activité. Le résultat ne renseigne pas à lui seul sur la facilité qu’aura Célian à lire une autre fiche demain. Les difficultés de lecture peuvent persister et devenir plus ou moins gênantes selon le travail demandé et les appuis disponibles.
+Une personne peut avoir besoin d’aménagements pour certaines lectures et exercer pleinement son rôle dans un projet collectif. Célian a choisi les quantités, le menu, le lieu de la table et la façon de retrouver les informations. Il a aussi accepté que d’autres prennent des tâches, comme Jade à la porte et Yanis avec les caisses. Ils ont trouvé des appuis pour cette activité.
+
+## Comment cette difficulté se manifeste
+
+Le résultat ne renseigne pas à lui seul sur la facilité qu’aura Célian à lire une autre fiche demain. Les difficultés de lecture peuvent persister et devenir plus ou moins gênantes selon le travail demandé et les appuis disponibles.
 
 ## Dire ce que le relais comprend
 
@@ -40,9 +44,3 @@ Pour s’éloigner quelques minutes, Célian et Léonie se mettent d’accord su
 ## Une place du côté des joueurs
 
 Sur la vidéo, on voit surtout Yanis qui se penche au mauvais moment. Il proteste qu’on devine quand même la trajectoire du ballon. Célian prend une chaise et la tourne pour faire de la place au joueur qui filme. Léonie a gardé un coin et l’a laissé au bout de la table. Quand Célian revient, il prend celui d’à côté, qui a un peu plus de croûte. Il demande à Jade combien de temps ils ont encore avant de rendre la salle. Il veut finir sa part avec les autres avant de replier les tables.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé — Guide du parcours de santé des enfants avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)
-- [Entreprendre Service Public — Information sur les allergènes des produits alimentaires](https://entreprendre.service-public.gouv.fr/vosdroits/F32192)

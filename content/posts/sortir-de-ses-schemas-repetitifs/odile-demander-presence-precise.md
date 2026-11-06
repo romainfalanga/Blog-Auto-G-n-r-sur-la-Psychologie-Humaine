@@ -1,5 +1,5 @@
 ---
-title: "Odile : demander une présence précise"
+title: Demander une présence précise
 date: 2026-11-03T09:00:00+00:00
 description: "Odile souhaite être accompagnée à une réunion. Elle cherche comment demander un appui limité sans abandonner ses décisions."
 categories: ["Sortir de ses schémas répétitifs"]
@@ -74,7 +74,3 @@ Demander une présence peut rester un acte précis, limité et compatible avec v
 L’appui disponible dépend aussi des horaires, des distances et des ressources de votre entourage. Une réponse partielle ne signifie pas nécessairement un manque d’affection. Elle peut inviter à répartir les formes de soutien, à modifier la demande ou à chercher un autre interlocuteur. Les responsabilités importantes, les consignes techniques et les droits ne sont pas tranchés par la seule présence d’un proche ; ils peuvent nécessiter une information professionnelle adaptée.
 
 Si demander devient très difficile, si vous vous sentez régulièrement seul avec des situations trop lourdes ou si un deuil vous prive d’appuis essentiels, un psychologue, un médecin ou un professionnel de proximité peut vous aider à examiner vos besoins et vos possibilités. Cet accompagnement peut préserver votre autonomie. Il peut aussi rendre visibles des obstacles qui demandent une réponse concrète plutôt qu’un effort supplémentaire de votre part.
-
-Sources :
-- [NIH, Social Wellness Toolkit](https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit)
-- [NHS, Maintaining healthy relationships and mental wellbeing](https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/)

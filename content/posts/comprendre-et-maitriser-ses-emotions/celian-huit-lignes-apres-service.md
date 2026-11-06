@@ -31,7 +31,11 @@ Farah tend la main vers l’interrupteur de la salle, puis la laisse retomber. �
 
 ## L’effet de la fatigue sur une lecture déjà coûteuse
 
-Une lecture qui demande beaucoup d’effort peut devenir plus difficile à soutenir quand la personne est fatiguée ou doit passer sans cesse du texte à autre chose. Dans les troubles des apprentissages, une performance qui paraît correcte peut demander un temps et une énergie que les autres ne voient pas. Célian ne lit pas huit lignes dans le vide : il revient du service, tient deux documents en parallèle et vérifie les objets du placard. Sa fatigue ce soir ne suffit pas à expliquer, à elle seule, l’ensemble de ses difficultés de lecture. La fatigue après le travail peut toucher n’importe qui. Ici, elle s’ajoute à la charge d’une tâche écrite qui lui demande déjà un effort.
+Une lecture qui demande beaucoup d’effort peut devenir plus difficile à soutenir quand la personne est fatiguée ou doit passer sans cesse du texte à autre chose. Dans les troubles des apprentissages, une performance qui paraît correcte peut demander un temps et une énergie que les autres ne voient pas.
+
+## Comment cette difficulté se manifeste
+
+Célian ne lit pas huit lignes dans le vide : il revient du service, tient deux documents en parallèle et vérifie les objets du placard. Sa fatigue ce soir ne suffit pas à expliquer, à elle seule, l’ensemble de ses difficultés de lecture. La fatigue après le travail peut toucher n’importe qui. Ici, elle s’ajoute à la charge d’une tâche écrite qui lui demande déjà un effort.
 
 ## Dire à quel endroit reprendre
 
@@ -40,8 +44,3 @@ Avec Farah, Célian peut séparer ce qui est nécessaire pour le lendemain de ce
 ## Un trait sous la dernière ligne lue
 
 Farah et Célian vérifient la ligne utile pour l’ouverture et déposent la feuille dans le classeur habituel. Célian trace un trait sous la dernière ligne qu’il a terminée sur sa copie. Il demande à Farah de lui laisser le début du service suivant pour la reprendre ; elle le note sur le planning. Dans la rue, il fait défiler sans lire les trois nouvelles réponses de l’équipe de volley. Aucune ne lui est adressée. Il laisse le téléphone dans sa poche et marche jusqu’à l’arrêt. Demain, il voudrait dire à Aïcha ce qui avait changé pour lui quand il avait pu ouvrir la fiche chez lui.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé — Guide du parcours de santé des enfants avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)

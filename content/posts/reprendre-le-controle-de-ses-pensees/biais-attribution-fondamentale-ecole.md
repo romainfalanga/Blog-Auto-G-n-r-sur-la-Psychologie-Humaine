@@ -11,6 +11,9 @@ personnage: "Isabelle"
 sujet: "biais d'attribution fondamentale"
 contexte: "à l'école ou aux études"
 draft: false
+editorial_sources:
+- https://doi.org/10.1016/0022-1031(67
+- https://pubmed.ncbi.nlm.nih.gov/3903815/
 ---
 
 Mathieu s’arrête sur le seuil du bureau. Il regarde les traces de boue qu’il vient de faire et annonce qu’il a encore manqué trois heures de cours. Isabelle a déjà « manque de motivation » en tête. Elle décale son dossier pour qu’il puisse s’asseoir. Mathieu demande s’il aura besoin de sortir son carnet. Il garde son sac sur les genoux, la fermeture tournée vers lui.
@@ -72,5 +75,3 @@ Isabelle comprend maintenant que le biais d'attribution fondamentale affecte aut
 Changer un réflexe d'interprétation demande du temps et des outils concrets. Le journal de contexte, la vérification en trois étapes et l'entretien exploratoire transforment un jugement en question et ouvrent des possibilités d'action.
 
 Si la difficulté persiste, si l'épuisement émotionnel est important ou si vous sentez que la situation influence sévèrement votre quotidien, consulter un professionnel de la santé mentale ou un collègue référent reste une démarche prudente. Vous disposez de ressources pour apprendre à regarder le monde différemment.
-
-Sources : [Jones et Harris, expérience sur l’attribution d’attitudes, 1967](https://doi.org/10.1016/0022-1031(67)90034-0), [Weiner, modèle des attributions de réussite et d’échec, 1985](https://pubmed.ncbi.nlm.nih.gov/3903815/).

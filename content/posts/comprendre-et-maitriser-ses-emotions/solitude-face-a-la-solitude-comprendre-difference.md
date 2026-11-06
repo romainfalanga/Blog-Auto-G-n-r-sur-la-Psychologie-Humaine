@@ -11,6 +11,8 @@ personnage: "Bernard"
 sujet: "solitude"
 contexte: "face à la solitude"
 draft: false
+editorial_sources:
+- https://www.nationalacademies.org/read/25663/chapter/2
 ---
 
 Bernard laisse finir la chanson avant de couper la radio. Il avait allumé le poste pour se tenir compagnie. Dans l’atelier, il entend maintenant Sultan remuer sur son tapis et, derrière la cloison, la pluie tomber dans un seau. Il peut aimer ce calme. Ce soir, il espérait aussi entendre Éric pousser la porte.
@@ -68,5 +70,3 @@ Avant d’éteindre la lumière, il écrit à Éric qu’il sera à l’atelier 
 La transition entre une solitude choisie et un isolement subi est souvent invisible, s'installant au fil des jours. Comme Bernard, nous pouvons chérir nos moments de retrait, mais il est nécessaire de rester vigilants lorsque ces moments deviennent des murs infranchissables. Reconnaître son besoin des autres n'est pas une faiblesse, c'est au contraire une preuve de courage et d'humanité.
 
 Si le poids de la solitude devient trop lourd à porter ou s'accompagne d'un sentiment de désespoir persistant, solliciter l'aide d'un professionnel de santé ou d'un psychologue est une démarche utile. La parole est un outil puissant qui permet de restaurer les liens que l'on pensait brisés. Il existe toujours un moyen de retrouver le chemin vers les autres, une étape après l'autre.
-
-Sources : [National Academies, isolement social et solitude](https://www.nationalacademies.org/read/25663/chapter/2).

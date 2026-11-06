@@ -33,6 +33,8 @@ Il respire mieux presque tout de suite. Il est surpris de pouvoir regarder une f
 
 Dans l’agoraphobie, une personne peut quitter une situation redoutée ou ne s’y engager qu’à certaines conditions. Quitter la file réduit la tension de Joachim ce matin. Le répit rend sa décision très compréhensible. Il peut aussi rendre une autre sortie plus difficile à envisager, si s’éloigner devient la réponse qu’il attend pour être soulagé. Les approches cognitives et comportementales peuvent travailler sur cette boucle avec une professionnelle. Elles s’intéressent au rôle que le soulagement et les craintes prennent dans chaque situation.
 
+## Comment cette difficulté se manifeste
+
 Joachim aurait aimé rester client de cet étal qu’il connaît bien. Il voudrait aussi avoir une matinée qui puisse contenir plusieurs choses. Le repas et le repérage ne perdent pas leur valeur parce qu’il s’est éloigné de la file. Les conséquences de son choix se voient à distance de l’étal, quand la préparation du déjeuner et la façon de rejoindre Diego doivent être revues.
 
 ## Garder le choix de la suite de sa journée
@@ -44,9 +46,3 @@ Le déjeuner peut changer. Ana lui propose de faire les pommes de terre avec ce 
 ## Au lavoir, la sortie tient encore
 
 Diego a placé le plan sur le muret. Joachim lui dit où il en est sans revenir sur chaque minute du marché. Il tient à photographier l’endroit où le chemin se divise. Depuis le côté où ils se sont arrêtés, le second passage disparaît derrière une haie. Diego l’indique du doigt. Joachim propose de noter cette séparation sur leur carte, puis rentre préparer le déjeuner. En mettant le four en route, il demande à Ana si elle pense encore au film qu’ils ont évoqué la semaine passée.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, manifestations de l’agoraphobie](https://www.nhs.uk/mental-health/conditions/agoraphobia/symptoms/)
-- [NHS, prise en charge de l’agoraphobie](https://www.nhs.uk/mental-health/conditions/agoraphobia/treatment/)

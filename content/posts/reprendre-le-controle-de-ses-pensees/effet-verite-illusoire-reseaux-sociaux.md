@@ -11,6 +11,9 @@ personnage: "Mei"
 sujet: "effet de vérité illusoire"
 contexte: "sur les réseaux sociaux"
 draft: false
+editorial_sources:
+- https://www.sciencedirect.com/science/article/pii/S0022537177800121
+- https://pubmed.ncbi.nlm.nih.gov/30247057/
 ---
 
 À la buanderie de la résidence, Mei attend que le voyant du lave-linge s’éteigne. Sur son téléphone, un troisième compte reprend la règle des six pages. Elle connaît déjà la fin de la phrase avant de dérouler le texte. Les studios, lit-elle, ne gardent que les portfolios de six pages. Elle avait noté le chiffre en marge du sien la veille, à côté de la planche qu’elle pourrait déplacer pour faire de la place.
@@ -89,5 +92,3 @@ Au restaurant, Julien regarde le croquis de Florence qu’elle lui tend. Mei fai
 Une idée familière peut sembler crédible pour cette seule raison. On peut chercher sa source, vérifier que les reprises sont indépendantes ou, s’il s’agit d’un conseil artistique, le mettre à l’épreuve du travail que l’on souhaite faire.
 
 Si la peur du jugement ou l’anxiété liée aux contenus en ligne devient envahissante, un psychologue ou un professionnel de santé mentale peut vous accompagner.
-
-Sources : [Hasher, Goldstein et Toppino, 1977](https://www.sciencedirect.com/science/article/pii/S0022537177800121) ; [Pennycook, Cannon et Rand, 2018](https://pubmed.ncbi.nlm.nih.gov/30247057/).

@@ -32,6 +32,8 @@ La sœur de Gasparde lui écrit qu’elle est arrivée au pont avec deux imperm�
 
 Partager une tâche peut demander de tolérer un temps où l’on ignore comment l’autre s’y prend. Gasparde voit le problème possible et sait qu’elle pourrait y consacrer son matin. Elle se souvient aussi de la répartition écrite au comité. Basile doit organiser les informations et prévenir Nathalie si la pluie rend l’essai impossible. Elle peut transmettre la question arrivée chez elle et s’appuyer sur cet accord, même si elle demeure inquiète.
 
+## Comment cette difficulté se manifeste
+
 La préoccupation de Gasparde peut se prolonger au-delà de l’incident qui l’a relancée. Le suivi tiendra compte du temps et de l’énergie qu’elle y consacre. Ce dimanche, son choix concerne une partie de sa journée. Elle veut rejoindre sa sœur. L’OMS recommande de discuter en suivi des activités et soutiens auxquels la personne tient, parmi les aspects concrets de son fonctionnement quotidien.
 
 ## Définir comment une information circule
@@ -43,9 +45,3 @@ Gasparde peut apporter mardi un exemple de ce qui lui est arrivé et demander qu
 ## L’eau sous le pont
 
 Au pont, sa sœur lui tend l’imperméable le plus long et lui demande si elle veut faire le grand tour. Gasparde accepte le petit. Vers le milieu de la matinée, elle consulte son téléphone. Basile lui a écrit que l’essai est annulé, que Nathalie a prévenu les deux personnes attendues et que le numéro du club donne la même information. Gasparde envoie un merci. Elle n’avait parlé que d’une heure avec sa sœur. Il leur reste un peu de temps avant de rentrer. Elle lui propose de descendre jusqu’à l’écluse, où l’eau de pluie a changé la couleur du canal.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Guide d’intervention mhGAP, version 2.0 : principes de soins et suivi des psychoses](https://www.who.int/publications/i/item/9789241549790)
-- [NSW Health, communiquer avec une personne qui vit une expérience psychotique](https://www.health.nsw.gov.au/mentalhealth/psychosocial/strategies/Pages/communicating-psychosis.aspx)

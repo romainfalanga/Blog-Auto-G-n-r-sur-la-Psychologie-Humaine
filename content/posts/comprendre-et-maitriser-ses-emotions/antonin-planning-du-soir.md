@@ -31,7 +31,11 @@ La directrice demande si Antonin a déjà un nom pour le jeudi. Il pense à Beno
 
 ## Une inquiétude peut aussi tenir à des consignes floues
 
-Un engagement mal défini peut créer des raisons légitimes de s’inquiéter. Le fait de vivre avec une anxiété généralisée n’enlève rien à ce problème. Antonin a besoin de savoir quelles demandes arrivent en soirée et qui répond en cas d’incident. La directrice peut préciser ce que l’école attend des personnes de permanence. Les attentes réelles font partie du contexte que le médecin peut prendre en compte lorsqu’Antonin décrit des difficultés au travail.
+Un engagement mal défini peut créer des raisons légitimes de s’inquiéter. Le fait de vivre avec une anxiété généralisée n’enlève rien à ce problème. Antonin a besoin de savoir quelles demandes arrivent en soirée et qui répond en cas d’incident. La directrice peut préciser ce que l’école attend des personnes de permanence.
+
+## Comment cette difficulté se manifeste
+
+Les attentes réelles font partie du contexte que le médecin peut prendre en compte lorsqu’Antonin décrit des difficultés au travail.
 
 Le reste ne se règle pas tout entier en complétant un planning. Même si un nom apparaît, Antonin peut se demander si cette personne trouvera la clé ou si un professeur lui en voudra d’être parti. Il peut parler au médecin de ce que ces pensées lui demandent. Au travail, il peut poser la question de la transmission avec l’équipe et entendre que chacun a ses propres disponibilités.
 
@@ -44,8 +48,3 @@ Antonin peut indiquer les soirs où il est disponible et proposer une date pour 
 ## Le mercredi laissé libre
 
 Eva inscrit son nom sur deux lundis et garde son mercredi. Antonin choisit les jeudis où il peut tenir la permanence et laisse les autres à décider. La directrice note les points à résoudre avant d’annoncer le planning. En fin de réunion, le service des travaux envoie une date de pose. Un essai sur place et la validation de la remise en service restent nécessaires. Antonin transmet la date à Eva, qui pourra dire aux clarinettes quand elles en sauront davantage.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

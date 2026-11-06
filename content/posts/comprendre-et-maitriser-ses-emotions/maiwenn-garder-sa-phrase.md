@@ -32,7 +32,11 @@ Sa mère cherche le dessous-de-plat dans le tiroir et lui demande si elle mange 
 
 ## Une correction et une réécriture n’ont pas le même effet
 
-Quand produire un texte prend beaucoup d’effort, voir arriver une version déjà lisse peut rendre plus difficile la défense d’une phrase à laquelle on tient. Cela ne rend pas la proposition mauvaise. Lou cherchait une légende courte, Maïwenn voulait faire entendre l’instant où la table cesse de taper. Le choix entre ces deux effets relève du reportage. Clarifier à qui renvoie un pronom relève de la compréhension ; vérifier un accord demande encore une autre attention. On peut travailler sur ces trois questions sans faire de la rapidité de chacune un verdict sur sa façon d’écrire.
+Quand produire un texte prend beaucoup d’effort, voir arriver une version déjà lisse peut rendre plus difficile la défense d’une phrase à laquelle on tient. Cela ne rend pas la proposition mauvaise.
+
+## Comment cette difficulté se manifeste
+
+Lou cherchait une légende courte, Maïwenn voulait faire entendre l’instant où la table cesse de taper. Le choix entre ces deux effets relève du reportage. Clarifier à qui renvoie un pronom relève de la compréhension ; vérifier un accord demande encore une autre attention. On peut travailler sur ces trois questions sans faire de la rapidité de chacune un verdict sur sa façon d’écrire.
 
 ## Choisir le mode de relecture avant de toucher au texte
 
@@ -41,8 +45,3 @@ Sur leur page commune, elles gardent le texte d’origine et ouvrent les comment
 ## Entendre encore le plateau
 
 Maïwenn remplace le pronom par « Rachid », puis relit les deux phrases à voix basse. Lou lui écrit qu’elle comprend maintenant qui a glissé la cale. Le plateau se tait toujours. Elles laissent un commentaire près de la légende pour penser à vérifier sa longueur sur la maquette. Si elle déborde, elles regarderont ensemble quel détail peut quitter la page. Maïwenn referme la copie de Lou et pose enfin son assiette sur la table.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [American Speech-Language-Hearing Association, Written Language Disorders](https://www.asha.org/Practice-Portal/Clinical-Topics/Written-Language-Disorders/)

@@ -1,5 +1,5 @@
 ---
-title: "Samira : décider quand le temps manque"
+title: Décider quand le temps manque
 date: 2026-09-15T08:00:00+00:00
 description: "Une mission proposée au dernier moment oblige Samira à choisir vite. Elle cherche l’information décisive sans exiger une décision parfaite."
 slug: "samira-decider-pression-temps"
@@ -106,6 +106,3 @@ Décider sous la pression du temps conduit parfois à arbitrer entre des besoins
 Deux conditions essentielles, une vérification décisive et une trace du contexte peuvent rendre l’arbitrage plus lisible. Ces gestes ne créent ni garde d’enfant ni revenu. Ils permettent de respecter davantage la personne qui décide au milieu de contraintes réelles, sans lui promettre l’absence de regret.
 
 Si les décisions provoquent une détresse durable ou une paralysie fréquente, un psychologue ou un médecin peut aider à comprendre les difficultés. Un accompagnement social peut aussi rechercher des ressources concrètes autour des horaires et de la garde. Le besoin de soutien ne retire rien à la capacité de choisir avec sérieux.
-
-Sources :
-- [Maule et ses collègues, étude expérimentale sur la pression temporelle et la décision](https://pubmed.ncbi.nlm.nih.gov/10900697/)

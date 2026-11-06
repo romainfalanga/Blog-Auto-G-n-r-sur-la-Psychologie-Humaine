@@ -1,5 +1,5 @@
 ---
-title: "Élise : essayer quelque chose sans refaire sa vie"
+title: Essayer quelque chose sans refaire sa vie
 description: "Mireille propose à Élise un petit atelier autour des graines. Elle explore cette envie en protégeant le temps et la stabilité qui comptent aussi."
 slug: elise-explorer-petite-possibilite
 date: 2026-10-12T09:00:00+02:00
@@ -13,6 +13,7 @@ contexte: "Mireille invite Élise à préparer un petit atelier sur les graines 
 editorial_pack: psychology-v10
 episode: 12
 ---
+
 Mireille dépose quelques sachets de graines sur la table du jardin et demande à Élise si elle aimerait préparer avec elle un petit temps d’échange. L’idée n’est pas de remplacer la rencontre des habitants reportée à cause de la pluie, ni de résoudre la question des bacs non financés. Il s’agirait d’un essai avec quelques membres du jardin qui en ont envie, autour de ce qu’ils savent conserver et semer. Élise aime immédiatement les papiers pliés, les noms écrits à la main et la possibilité de raconter comment une graine passe d’une personne à une autre. Elle dit presque oui avant de penser à son calendrier.
 
 Puis elle imagine les messages à envoyer, le matériel à préparer et les questions qui finiront peut-être toutes chez elle. La scène de la visite lui revient, lorsqu’elle avait pris les tâches avant même leur répartition. Elle tient à ses moments au jardin sans rôle professionnel. Après huit années de séparation et des habitudes progressivement choisies, elle apprécie cette stabilité : le déjeuner avec Françoise, la parcelle, les soirées où rien n’est à coordonner. Une nouveauté l’attire ; elle ne veut pas qu’elle prenne toute cette place. Elle tourne un sachet entre ses doigts au lieu de répondre immédiatement.
@@ -76,7 +77,3 @@ Une possibilité peut être explorée sans devenir immédiatement un engagement 
 L’envie de nouveauté et le besoin de stabilité peuvent coexister. Les écouter ensemble apporte des informations sur ce que l’on veut vivre et protéger. Aucun de ces élans n’a besoin d’être traité comme un défaut pour que l’autre puisse être entendu.
 
 Élise n’a pas refait sa vie et ne sait pas encore si l’atelier lui conviendra. Elle conserve ses amitiés, son travail et son jardin avec leurs difficultés ordinaires. Une petite place reste ouverte pour essayer, puis décider à nouveau à partir de ce qui aura réellement été vécu.
-
-Sources :
-- [NHS, Clarifier les choix et préparer une action](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)
-- [National Institutes of Health, Participer et préserver ses ressources relationnelles](https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit)

@@ -1,0 +1,37 @@
+{
+  "references": {
+    "oms-insomnie": {
+      "title": "OMS, CIM-11, insomnie chronique (7A00)",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#323148092"
+    },
+    "assurance-maladie-insomnie-bilan": {
+      "title": "Assurance Maladie, consultation et bilan médical de l’insomnie de l’adulte",
+      "url": "https://www.ameli.fr/assure/sante/themes/insomnie-adulte/diagnostic-evolution"
+    },
+    "assurance-maladie-insomnie": {
+      "title": "Assurance Maladie, définition et conséquences de l’insomnie chez l’adulte",
+      "url": "https://www.ameli.fr/assure/sante/themes/insomnie-adulte/definition-facteurs-favorisants"
+    },
+    "aasm-tcc-insomnie": {
+      "title": "AASM, recommandation clinique sur les traitements comportementaux et psychologiques de l’insomnie chronique chez l’adulte (2021)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/"
+    },
+    "securite-routiere-vigilance": {
+      "title": "Sécurité routière, préserver sa capacité à conduire en sécurité",
+      "url": "https://www.securite-routiere.gouv.fr/sites/default/files/2026-03/nv_depliant_sante_et_conduite-exe_v251107.pdf"
+    }
+  },
+  "dossier": {
+    "name": "Insomnie chronique",
+    "aliases": ["Trouble d’insomnie chronique", "Insomnie de l’adulte", "Troubles du sommeil", "7A00"],
+    "references": ["oms-insomnie", "assurance-maladie-insomnie-bilan", "assurance-maladie-insomnie", "aasm-tcc-insomnie", "securite-routiere-vigilance"],
+    "points": [
+      "Le diagnostic clinique prend en compte les difficultés répétées d’endormissement ou de maintien du sommeil, y compris les réveils trop précoces, malgré une possibilité et des conditions suffisantes pour dormir. La fréquence, la persistance sur plusieurs mois et le retentissement diurne comptent. Une nuit ou une estimation d’heures isolée ne suffit pas à conclure.",
+      "Le bilan examine les rythmes, les possibilités de dormir, les substances ou médicaments, la santé physique et psychique et d’autres troubles du sommeil. L’agenda décrit des observations et leur contexte. Il contribue à l’évaluation sans remplacer la consultation. Les examens sont proposés selon les signes et les hypothèses médicales.",
+      "La fatigue et la tendance à s’endormir peuvent être décrites séparément. La somnolence gênante ou nouvelle demande une réévaluation et une mise en sécurité pour les activités de vigilance. Le personnage s’abstient de conduire lorsqu’il se sent sur le point de s’endormir et demande un avis professionnel.",
+      "L’AASM recommande fortement la TCC-I multicomposante pour l’adulte. Elle peut aborder les pensées et les comportements qui entretiennent les difficultés, avec un professionnel formé et des ajustements selon la situation. Les conseils généraux d’hygiène du sommeil peuvent accompagner le soin, mais leur seul usage ne constitue pas la prise en charge recommandée. Certaines techniques demandent une vigilance accrue, notamment chez les conducteurs ou en cas de somnolence importante.",
+      "L’évolution s’apprécie sur plusieurs observations et les effets sur la journée. Les adaptations de travail, l’aide des proches et les choix de confidentialité restent distincts de la prise en charge clinique. L’ouverture du point de dépôt et les nuits d’Élvire suivent des rythmes différents."
+    ]
+  },
+  "direction": "Élvire a 41 ans et sait dessiner un circuit qui évite des déplacements inutiles. Elle coordonne les tournées d’une coopérative de collecte de mobilier avec Sonia et Salim. Sa compagne Lou tient à leurs moments partagés et conserve ses propres limites. Élvire veut proposer un samedi de dépôt pour les habitants qui ne peuvent attendre un passage à domicile. La difficulté de sommeil et son retentissement sont perceptibles dès le premier épisode. Une évaluation par la docteure Vidal établit le diagnostic à l’épisode 3. Une somnolence nouvelle devant un trajet conduit à un relais professionnel distinct. La psychologue Claire Imbert l’accompagne ensuite dans une TCC-I adaptée à ses contraintes. Les gestes quotidiens restent situés et aucun protocole de restriction du sommeil ni médicament n’est proposé. L’ouverture du point de dépôt se fait avec une répartition des rôles qui respecte la vigilance et la disponibilité de chacun."
+}

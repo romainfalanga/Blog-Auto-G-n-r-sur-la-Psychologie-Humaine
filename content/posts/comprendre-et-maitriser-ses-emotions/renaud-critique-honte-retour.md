@@ -34,6 +34,8 @@ Dehors, Renaud s’assoit sur un banc très bas. Son premier réflexe est de che
 
 Chez certaines personnes présentant un trouble de la personnalité narcissique, une critique peut être vécue comme une chute brutale de la valeur qu’elles s’accordent. De la honte ou de la colère peut surgir avant qu’elles traitent la remarque elle-même. La réponse se manifeste diversement, par une attaque, un effort pour retrouver le dessus ou un retrait. Les personnes éprouvent ces réactions de façons différentes.
 
+## Comment cette difficulté se manifeste
+
 Renaud sait que la visiteuse est partie du mauvais côté. Lorsqu’il se sent observé par Nora, il pense surtout à l’idée qu’on pourrait le croire incompétent. La façon dont Yara a organisé l’essai devient une cible. Sa remarque fait perdre du temps à Yara et la place en position de justifier sa méthode. La honte ressentie éclaire ce passage de la discussion sans effacer ce qu’il vient de dire.
 
 ## Revenir à une correction qu’on peut observer
@@ -45,9 +47,3 @@ Ce passage fournit aussi un exemple dont Renaud pourra parler en consultation. I
 ## Un nouveau libellé
 
 Il envoie le message à Yara et à Nora. « J’ai attaqué le test alors que deux personnes ont mal compris le même panneau. Je vais préparer le nom complet pour le nouvel essai. » Yara répond plus tard. Elle accepte de refaire un passage, à condition qu’ils décident ensemble comment noter les trajets. Renaud range le téléphone avant de lire les autres échanges du studio. Dans son carnet, il garde la phrase sur la hauteur. Il veut comprendre pourquoi il l’a dite à cet instant.
-
-## Sources
-
-- [American Psychiatric Association, présentation du trouble de la personnalité narcissique selon le DSM-5-TR](https://www.psychiatry.org/news-room/apa-blogs/what-is-narcissistic-personality-disorder/)
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Edershile et collègues, variations de grandiosité et de vulnérabilité dans les interactions, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11326982/)

@@ -92,5 +92,3 @@ La fatigue et la disponibilité affective ne disent pas la même chose que l’a
 Décrire une capacité actuelle, négocier une transition et réparer le ton sans nier le repos donnent des appuis simples. Ces essais ne rendent pas toutes les soirées faciles et ne remplacent pas un partage réel des charges. Ils évitent seulement de demander au couple de fonctionner sur une disponibilité supposée constante.
 
 Une fatigue persistante, inhabituelle ou très handicapante mérite d’être abordée avec un médecin. Si les besoins de soutien et de repos deviennent un conflit durable, une psychologue ou un autre professionnel peut aider à examiner leur organisation et leurs effets. Vous pouvez demander de l’aide sans devoir prouver que votre fatigue est plus légitime que celle d’une autre personne.
-
-Sources : [Études de journal quotidien sur la qualité du sommeil et le soutien dans les couples](https://pmc.ncbi.nlm.nih.gov/articles/PMC10247628/) ; [Assurance Maladie, fatigue : quand consulter](https://www.ameli.fr/assure/sante/themes/asthenie-fatigue/bons-reflexes-cas-faut-consulter).

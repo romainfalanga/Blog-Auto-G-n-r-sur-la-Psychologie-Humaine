@@ -30,7 +30,11 @@ L’habituée recule un peu pour laisser passer l’homme. Diane ferme le sac de
 
 ## Une demande d’aide qui garde une place pour ce qu’on sait faire
 
-Quand deux sollicitations arrivent en même temps, une aide ciblée peut laisser la place de terminer ce qu’on a commencé. Le relais que Diane et Malik ont préparé prévoit qu’elle quitte l’accueil quelques minutes. Ce matin, elle aurait surtout besoin que quelqu’un prenne l’autre demande. Elle sait où chercher l’île et voudrait mener cet échange à son terme. Elle peut essayer une demande plus précise tout en gardant la possibilité de sortir si elle en a besoin. Pour Malik, savoir s’il reprend la file ou seulement l’imprimante change le geste qu’il doit faire.
+Quand deux sollicitations arrivent en même temps, une aide ciblée peut laisser la place de terminer ce qu’on a commencé. Le relais que Diane et Malik ont préparé prévoit qu’elle quitte l’accueil quelques minutes.
+
+## Comment cette difficulté se manifeste
+
+Ce matin, elle aurait surtout besoin que quelqu’un prenne l’autre demande. Elle sait où chercher l’île et voudrait mener cet échange à son terme. Elle peut essayer une demande plus précise tout en gardant la possibilité de sortir si elle en a besoin. Pour Malik, savoir s’il reprend la file ou seulement l’imprimante change le geste qu’il doit faire.
 
 ## Parler au travail et parler en consultation
 
@@ -39,8 +43,3 @@ Après un premier épisode psychotique, le suivi peut tenir compte du travail et
 ## L’île sur le bout de papier
 
 Diane retrouve le nom sous son pouce. Elle le tape en ajoutant le nom d’une île voisine, que l’habituée reconnaît aussitôt. Elles repèrent le livre à réserver, puis Diane lui rend la liste. Quand Malik revient avec la feuille enfin sortie, Diane lui demande si ce partage lui irait la prochaine fois. Il lui montre où il se place les jours de livraison, hors de vue depuis le bureau. Ils conviennent que, ces jours-là, il restera près des retours pendant la partie du créneau qu’ils font ensemble. Diane note le nouveau relais sur leur feuille de service.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG178, évaluation et accompagnement après un premier épisode psychotique chez l’adulte](https://www.nice.org.uk/guidance/cg178/evidence/full-guideline-pdf-490503565)

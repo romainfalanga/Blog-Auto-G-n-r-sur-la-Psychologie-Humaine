@@ -66,12 +66,12 @@ Mettre des mots sur ses émotions aide à les apprivoiser.
 - Chaque jour, notez une situation où vous avez ressenti une émotion forte, ce que vous avez fait, comment vous auriez préféré réagir.
 - Cela développe la conscience de soi et prépare à des relations plus authentiques.
 
+### Si la situation reste difficile
+
+Un modèle d’attachement peut aider à formuler des questions. Chacun reste libre de choisir le degré d’intimité qui lui convient. Si la situation cause une souffrance durable, en parler à un psychologue peut être une possibilité.
+
 ## Il retrouve son pull
 
 Il prend le verre et le laisse sur la table de nuit. Priya lui dit qu’elle a besoin de passer le reste de la soirée seule. « Tu veux que je te laisse ? » Il attend sa réponse avant de ramasser ses affaires. Elle dit oui.
 
 Plus tard, Priya note la question exacte dans son carnet. Elle ne sait pas si elle aura envie d’en parler à leur prochain rendez-vous. En fermant le cahier, elle garde la différence entre la phrase qu’elle a dite pour le faire partir et celle qui disait ce dont elle avait besoin.
-
-## Si la situation reste difficile
-
-Un modèle d’attachement peut aider à formuler des questions. Chacun reste libre de choisir le degré d’intimité qui lui convient. Si la situation cause une souffrance durable, en parler à un psychologue peut être une possibilité.

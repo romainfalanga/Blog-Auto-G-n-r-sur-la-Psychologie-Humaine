@@ -92,5 +92,3 @@ La sécurité affective et une demande claire peuvent se soutenir mutuellement. 
 Décrire l’aide souhaitée, observer ce qui convient et garder plusieurs appuis rendent cette démarche plus concrète. Vous pouvez commencer par un besoin limité plutôt que demander une garantie générale sur le lien. Une réponse ajustée peut être utile même si elle ne correspond pas exactement à l’horaire ou à la forme imaginée au départ.
 
 Si l’insécurité relationnelle ou la difficulté à se stabiliser devient persistante, une psychologue ou un autre professionnel peut vous accompagner. Un soutien adapté peut aussi aider à distinguer les interprétations inquiètes d’un contexte réellement peu fiable ou dangereux. Vous n’avez pas à porter vos émotions entièrement seule, et aucune personne proche ne doit en devenir l’unique responsable.
-
-Sources : [Recherche sur la réceptivité perçue du partenaire et l’expression émotionnelle](https://pubmed.ncbi.nlm.nih.gov/31414835/) ; [Butler et Randall, définition proposée de la corégulation émotionnelle](https://journals.sagepub.com/doi/10.1177/1754073912451630).

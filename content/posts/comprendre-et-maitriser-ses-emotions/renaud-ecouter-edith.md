@@ -34,6 +34,8 @@ En bas, sa sœur lui explique qu’elle doit parler à une amie qui cherche une 
 
 Tenir compte d’autrui suppose de pouvoir écouter ce que l’autre éprouve et de laisser cette information modifier une décision. Les difficultés d’empathie décrites dans le trouble de la personnalité narcissique peuvent concerner cette place accordée aux besoins d’autrui. Elles peuvent devenir particulièrement visibles lorsque la personne se concentre sur sa valeur ou le regard porté sur elle. Leur expression varie selon les personnes et les situations.
 
+## Comment cette difficulté se manifeste
+
 Renaud voit qu’Édith porte un objet encombrant. Il lui laisse la place de le poser. Il lui est plus difficile d’entendre la demande sur l’heure car il veut encore être rassuré à propos de son travail. Ces deux faits peuvent coexister. Édith donne un renseignement dont il a besoin pour s’organiser et qui lui importe aussi pour sa propre vie.
 
 ## Faire compter ce qu’on a entendu
@@ -45,8 +47,3 @@ La discussion reste possible si Édith le souhaite. Renaud a fait un effort à u
 ## Le dernier carton près de la porte
 
 À moins dix, Édith attrape son écharpe dans l’entrée. Renaud a posé le dernier carton près de la porte de leur tante pour le reprendre plus tard. Il descend avec elle pour tenir la porte du hall pendant qu’elle rejoint sa voiture. « Tu peux m’envoyer un message si tu veux un café en ville cette semaine ? » lui demande-t-elle. Il lui propose mercredi midi, puis pense à la réunion prévue et rouvre son agenda devant elle.
-
-## Sources
-
-- [American Psychiatric Association, présentation du trouble de la personnalité narcissique selon le DSM-5-TR](https://www.psychiatry.org/news-room/apa-blogs/what-is-narcissistic-personality-disorder/)
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)

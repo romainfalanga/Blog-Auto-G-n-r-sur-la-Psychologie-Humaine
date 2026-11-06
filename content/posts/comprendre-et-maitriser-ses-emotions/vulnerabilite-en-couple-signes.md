@@ -51,6 +51,7 @@ Il n’y a pas d’étape obligatoire où raconter un souvenir douloureux. Priya
 Deux jours après, ils se retrouvent pour marcher. Priya revient sur la question du dîner : « J’avais une réponse, en fait. Le dimanche, je cuisine. J’ai mis du temps à trouver quoi te dire. » Il demande ce qu’elle prépare. Elle lui parle du dahl d’Anjali, puis ils reviennent à son trajet du matin.
 
 Ils se quittent au bout de la rue. Priya n’a rien dit de Damien, et elle ne comptait pas en parler aujourd’hui. Sur le chemin du retour, elle se rappelle le nom d’un plat qu’elle voulait demander à sa mère. Elle lui écrit dans le bus.
+
 ---
 
 Une confidence se fait à un rythme qui convient aux personnes concernées. Une réserve peut rester présente même quand l’échange est agréable. Si ces situations réveillent une souffrance persistante, il est possible d’en parler à un professionnel.

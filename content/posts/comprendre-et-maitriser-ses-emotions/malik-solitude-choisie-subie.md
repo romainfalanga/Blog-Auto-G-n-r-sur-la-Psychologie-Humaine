@@ -1,5 +1,5 @@
 ---
-title: "Malik : reconnaître la solitude qui aide ou qui pèse"
+title: Reconnaître la solitude qui aide ou qui pèse
 date: 2026-09-10T09:00:00+00:00
 description: "Malik aime photographier seul, mais un dimanche sans échange lui pèse. Il distingue le temps choisi du lien qui lui manque."
 slug: "malik-solitude-choisie-subie"
@@ -100,6 +100,3 @@ La solitude choisie et la solitude subie peuvent se succéder chez une même per
 Identifier un besoin, formuler une invitation précise et garder un passage vers la compagnie offrent des essais simples. Ils ne garantissent pas une présence disponible à chaque instant. Une déception peut rester légitime sans devenir un jugement définitif sur les relations ou sur soi-même.
 
 Si le manque de lien devient durable, entraîne un retrait important ou s’accompagne d’une détresse persistante, un médecin ou un psychologue peut aider. Des ressources associatives ou locales peuvent également être recherchées selon les possibilités. Le soutien doit respecter le goût du calme autant que le besoin de relation, sans pathologiser l’un ou l’autre.
-
-Sources :
-- [Nguyen, Ryan et Deci, expériences sur la solitude et ses conditions de choix](https://journals.sagepub.com/doi/10.1177/0146167217733073)

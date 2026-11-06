@@ -32,6 +32,8 @@ Sonia tient les tiges entre deux doigts pendant qu’elle défait une longueur d
 
 Le retentissement du trouble panique se voit notamment dans les activités que la personne a du mal à poursuivre ou à retrouver. Dans son suivi, Jules peut dire à quoi ressemble une séance de dessin qui lui convient. Il peut aussi expliquer la part d’inquiétude qui reste lorsqu’il y prend place. Une sortie ne résume pas l’évolution du trouble. Le fait de pouvoir y faire un choix lui donne une expérience à raconter, même si d’autres trajets sont encore difficiles.
 
+## Comment cette difficulté se manifeste
+
 Jules a choisi de retrouver Samuel parce qu’il veut dessiner. Sa participation au groupe et les essais de soin ont des buts distincts. La psychiatre peut entendre ce qu’il a fait et ce que cela lui a demandé. Le groupe peut continuer à décider des sujets et des horaires sans devenir responsable de son suivi.
 
 ## Garder des choix dans une activité collective
@@ -43,8 +45,3 @@ Après la séance, il peut parler de son dessin à Solange et de ses difficulté
 ## Le ruban hors du cadre
 
 Jules reste pendant que Samuel passe les dessins de main en main. Il montre le coude et la place vide du ruban. Un autre dessinateur lui demande si Sonia a posé. Jules raconte comment Sonia a gardé les tiges dans une main pour dérouler le ruban de l’autre. Après la séance, Sonia lui montre le nœud qu’il n’a pas vu et Jules le croque sur une feuille séparée. Il choisit ce dernier dessin pour le prochain courrier à Solange.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

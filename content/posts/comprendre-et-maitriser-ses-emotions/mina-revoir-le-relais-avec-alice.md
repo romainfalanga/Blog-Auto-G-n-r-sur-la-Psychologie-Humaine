@@ -33,6 +33,8 @@ Alice demande si Mina pourrait lui envoyer systématiquement un message après c
 
 Après une crise, le plan de soutien peut être réexaminé avec la personne et les professionnels qui la suivent. Le NICE recommande de reprendre ce qui s’est passé et de vérifier quels appuis ont été utiles. Mina peut expliquer comment elle a retrouvé le contact et ce qu’elle aimerait pouvoir faire si le besoin revient. Elle peut choisir avec l’équipe de garder la fiche papier et d’ajouter un autre moyen d’accéder à la même information.
 
+## Comment cette difficulté se manifeste
+
 La participation d’Alice se discute avec l’accord de Mina. Elle peut concerner un geste précis, comme rappeler où se trouve la fiche ou rester quelques minutes au téléphone. Mina peut garder confidentiel le contenu de ses échanges avec les soignants. Alice peut dire quelles informations pratiques lui permettraient d’aider et quand elle sera disponible.
 
 ## Un accord qui peut se revoir
@@ -44,8 +46,3 @@ L’entraide peut aussi avoir des sujets ordinaires. À l’arrêt, Alice peut r
 ## Le fil blanc reste à la manche
 
 Mina lui dit qu’elle préfère garder le choix de donner des nouvelles après un appel. Alice aimerait le savoir quand elle a convenu de rester joignable. Elles décident de le préciser à ce moment-là. Elles arrivent à l’arrêt avant le bus. Alice montre le bout de fil qui tient encore à son manteau. Elle a gardé un morceau du fil de l’ourlet pour en noter la référence dans le carnet, quand il sera prêt. Mina l’aide à mettre la manche à l’endroit et rentre avec le plan toujours plié dans son sac.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG78, accompagnement des personnes présentant un profil borderline](https://www.nice.org.uk/guidance/cg78/chapter/Recommendations)

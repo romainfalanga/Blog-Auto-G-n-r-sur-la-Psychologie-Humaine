@@ -1,5 +1,5 @@
 ---
-title: "Baptiste : le sens des actions qui ne font pas événement"
+title: Le sens des actions qui ne font pas événement
 date: 2026-11-03T11:00:00+00:00
 description: "Une réunion utile ne ressemble pas à un grand accomplissement. Baptiste regarde ce que ses gestes permettent, sans devoir aimer chaque tâche."
 categories: ["Reprendre le contrôle de ses pensées"]
@@ -74,7 +74,3 @@ Une action ordinaire peut compter sans provoquer une émotion forte ou produire 
 Le sens peut se construire dans plusieurs domaines, avec des actions qui ne sont pas toujours spectaculaires. Un lien, une curiosité ou un travail précis peuvent avoir leur place sans devenir la mission unique qui justifie tout le reste. Vous pouvez reconnaître une contribution et souhaiter malgré cela des moyens supplémentaires, un rôle différent ou une activité plus stimulante. La nuance ne retire pas la légitimité du besoin de changement.
 
 Si l’impression de vide, la perte d’intérêt ou l’épuisement s’installent et vous inquiètent, un médecin, un psychologue ou un professionnel adapté peut vous aider à regarder l’ensemble de la situation. Les contraintes matérielles et les conditions du travail méritent autant d’attention que les pensées personnelles. L’accompagnement peut chercher des possibilités concrètes et des ajustements, sans imposer de gratitude pour une situation qui demande à évoluer.
-
-Sources :
-- [OMS, Doing What Matters in Times of Stress](https://www.who.int/publications/i/item/9789240003927)
-- [NHS, Problem solving](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)

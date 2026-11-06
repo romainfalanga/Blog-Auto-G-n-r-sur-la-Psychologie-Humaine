@@ -1,5 +1,5 @@
 ---
-title: "Élise : demander une aide que chacun peut situer"
+title: Demander une aide que chacun peut situer
 description: "Au jardin, Élise cesse de porter seule l’organisation. Une demande précise révèle des ressources collectives et leurs limites réelles."
 slug: elise-entraide-concrete
 date: 2026-10-07T09:00:00+02:00
@@ -13,6 +13,7 @@ contexte: "Lors d’une visite du jardin, Élise, Mireille et Cédric répartiss
 editorial_pack: psychology-v10
 episode: 7
 ---
+
 Mireille déplie le plan du jardin sur la table et pose une pierre sur le coin qui se soulève. Cédric examine le trajet depuis le portail. Élise a préparé une liste de questions, mais elle commence par annoncer qu’elle peut s’occuper des appels, du rangement des chaises et du compte rendu. Elle parle vite, comme si les tâches devaient être prises avant de devenir gênantes. La rencontre des habitants n’a pas encore de date définitive. Les sièges sont trouvés, l’accès reste à préciser et la salle commune demeure fermée. En voulant montrer que le projet reste possible, elle se retrouve déjà au centre de presque toutes les lignes.
 
 Mireille lui demande à quelle heure elle compte revenir pour travailler elle-même au jardin. Élise rit, puis remarque qu’elle n’a prévu aucun moment de jardinage dans cette organisation. Depuis plusieurs jours, le lieu est devenu un dossier supplémentaire. Elle pourrait pourtant y venir simplement pour sa parcelle, comme elle le faisait avant la fuite. Elle regarde sa liste et admet qu’elle ne peut pas tout prendre sur son temps disponible. Personne ne lui reproche cette limite. Cédric précise de son côté ce qui entre dans son service et ce qu’il ne pourra pas assurer. La table devient un lieu de répartition, plutôt qu’un poste où Élise récupère chaque difficulté.
@@ -76,7 +77,3 @@ L’entraide devient plus concrète lorsque les besoins, les moyens et les limit
 Demander ne garantit pas d’obtenir. Un refus ou une ressource insuffisante peut conduire à changer le programme, à chercher un autre interlocuteur ou à signaler un manque institutionnel. Cela ne retire pas leur valeur aux contributions déjà présentes et ne fait pas de la personne qui coordonne la responsable de toutes les limites.
 
 Élise garde une part de l’organisation et retrouve aussi une place au jardin pour elle-même. Le groupe n’a pas encore les moyens des futurs bacs. Il possède une description plus claire du besoin et une répartition temporaire, assez solide pour avancer jusqu’à la prochaine question.
-
-Sources :
-- [National Institutes of Health, Ressources pour les liens et l’entraide](https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit)
-- [NHS, Relations soutenantes et limites](https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/)

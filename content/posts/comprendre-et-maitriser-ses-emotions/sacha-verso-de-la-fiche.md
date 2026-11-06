@@ -33,6 +33,8 @@ Gaspard attrape une pelle tombée sous la table. « Attends, je la vois mieux d�
 
 Dans l’anxiété sociale, une partie de l’attention peut rester fixée sur ce que les autres risquent de remarquer chez soi. Des moyens de se protéger du jugement peuvent prendre beaucoup de place : penser à tenir ses mains hors de vue, vouloir réciter chaque mot ou éviter un échange de regards par crainte d’avoir l’air maladroit. Le bilan professionnel peut explorer ce que ces gestes font pour la personne dans la situation, et le prix qu’elle paie quand ils occupent une part de son attention.
 
+## Comment cette difficulté se manifeste
+
 Une fiche peut aussi être utile pour transmettre une information. La racine qu’il a dessinée doit être visible depuis le bout de la table. Il lui sert d’appui quand le rideau fait du bruit. Le texte du verso a une autre fonction, pour lui : s’il suit tout dans l’ordre, il espère que personne ne verra son hésitation. Quand Gaspard lui parle, cet effort prend le dessus sur ce qu’il voulait lui montrer.
 
 ## Garder le dessin, discuter du reste
@@ -44,8 +46,3 @@ Pour leur travail, Sacha et Gaspard peuvent décider que la fiche restera sur la
 ## Le dessin tourné vers la table
 
 Sacha retourne la fiche et redessine la racine avec un trait plus épais. Il gardera les phrases au verso pour en reparler au cabinet. Pour le prochain essai, Gaspard propose de faire venir Nora afin de vérifier si le dessin est visible de l’autre côté de la table. Sacha demande qu’elle sache à l’avance qu’ils lui montreront le geste en entier. Ils fixent dix minutes le jeudi après la fermeture. Avant de sortir, Sacha remet dans le terreau le plant qu’ils ont laissé sur le plateau.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG159, reconnaissance, évaluation et traitement du trouble d’anxiété sociale](https://www.nice.org.uk/guidance/cg159/resources/social-anxiety-disorder-recognition-assessment-and-treatment-pdf-35109639699397)

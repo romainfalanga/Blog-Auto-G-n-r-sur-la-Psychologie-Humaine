@@ -1,5 +1,5 @@
 ---
-title: "Samira : pouvoir agir dans une marge étroite"
+title: Pouvoir agir dans une marge étroite
 date: 2026-09-13T08:00:00+00:00
 description: "Une fermeture imprévue contrarie Samira. Elle distingue ses leviers réels des obstacles qu’elle ne peut pas résoudre seule."
 slug: "samira-agir-marge-etroite"
@@ -98,7 +98,3 @@ Pouvoir agir dans une marge étroite ne signifie pas maîtriser sa précarité. 
 Décrire un blocage, examiner le coût d’une tentative et garder une trace proportionnée peuvent soutenir des démarches concrètes. Les soutiens matériels et institutionnels restent décisifs. Une personne qui ne dispose pas encore d’une option praticable a besoin que cette absence soit entendue, pas qu’on lui demande d’y voir une occasion de se dépasser.
 
 Si le découragement devient durable ou rend toute initiative très difficile, un psychologue ou un médecin peut proposer un accompagnement. Un professionnel du soutien social peut rechercher avec la personne les leviers accessibles. L’aide peut augmenter une marge réelle, au lieu d’exiger de vivre comme si elle était déjà plus large.
-
-Sources :
-- [Albert Bandura, texte fondateur sur le sentiment d’efficacité personnelle](https://pubmed.ncbi.nlm.nih.gov/847061/)
-- [Défenseur des droits, obstacles d’accès aux droits en situation de précarité](https://www.defenseurdesdroits.fr/acces-aux-droits-des-personnes-en-situation-de-precarite-1205)

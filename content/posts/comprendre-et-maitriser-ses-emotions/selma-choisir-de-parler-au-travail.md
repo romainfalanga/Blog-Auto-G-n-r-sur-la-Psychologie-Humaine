@@ -33,7 +33,9 @@ Selma tient une fiche d’accueil de travers. Elle avait prévu de demander à L
 
 Une personne qui vit avec un trouble de stress post-traumatique peut choisir des interlocuteurs et des moments différents selon ce qu’elle souhaite partager. Parler d’une réaction, dire ce qui aide et raconter l’événement sont des démarches distinctes. Dans un suivi spécialisé, le cadre et l’objectif de la discussion peuvent être expliqués. Au travail, une conversation avec une collègue peut simplement porter sur les besoins de la journée et les relations dans l’équipe.
 
-Selma peut répondre à Livia qu’elle garde l’histoire de l’accident pour elle. Elle peut aussi dire pourquoi une information écrite sur la salle lui serait utile et demander quelle personne pourra la lui donner. Son choix peut évoluer avec la relation ou rester le même. Livia peut entendre ce que Selma dit aujourd’hui et se régler sur cette réponse.
+## Le fil du travail se perd après la question sur l’accident
+
+Selma tenait une fiche et voulait parler du prochain changement de bureau. Quand Livia lui demande si elle souhaite raconter l’accident, elle ne sait plus si le renseignement sur la salle lui a déjà été donné. La question arrive alors qu’elles sont seules, mais Selma ne souhaite toujours pas revenir sur l’événement. Elle retrouve une demande qui lui importe pour la mission et demande combien de temps la salle est réservée.
 
 ## Faire passer une information utile
 
@@ -41,11 +43,8 @@ Selma a reçu le cadre de sa mission. Si Livia connaît un changement, elle peut
 
 Si une situation affecte la sécurité ou l’activité, Selma peut se tourner vers le contact désigné. Cette démarche a son propre cadre. Elle peut choisir en parallèle de reprendre un point personnel avec sa thérapeute.
 
+Selma peut demander à recevoir les changements de salle par écrit et préciser qu’elle garde le récit de l’accident pour elle. Livia peut accueillir sa réponse du jour. Selma pourra revenir sur ce choix si elle le souhaite.
+
 ## L’étiquette au fond du tiroir
 
 Selma dit à Livia qu’elle préfère garder l’accident pour elle et qu’elle aimerait recevoir le lieu de la prochaine séance par écrit. Livia trouve la réservation dans son calendrier et lui transfère le message. Elles prennent ensuite les fiches une à une. Au fond du tiroir, elles retrouvent l’ancienne étiquette collée sur un stylo sans bouchon. Livia lui demande si elle déjeune avec elles vendredi. Selma dit qu’elle regardera l’heure de livraison des panneaux avant de répondre, puis met le stylo dans sa poche.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

@@ -11,6 +11,8 @@ personnage: "Fabien"
 sujet: "compulsion de répétition (Freud)"
 contexte: "seul(e) face à soi-même"
 draft: false
+editorial_sources:
+- https://www.gutenberg.org/ebooks/76031
 ---
 
 Fabien ajuste ses lunettes devant le reflet de la baie vitrée qui surplombe Lyon. En ce vendredi 8 mai, jour férié et calme, le silence de son nouvel appartement est presque palpable. Sur le plancher de chêne clair, quelques cartons non déballés attendent encore, deux mois après son installation. Il observe l'alignement parfait de ses livres d'art et de ses disques de jazz. Tout est sous contrôle, tout est propre, mais tout est vide. Il se souvient de cette réunion avec Julie, il y a quelques jours, où il avait réalisé que son expertise créait un mur entre lui et les autres. Aujourd'hui, seul face à lui-même, ce mur semble s'être refermé sur lui.
@@ -60,5 +62,3 @@ Le récit de Fabien montre une personne qui essaie une réponse différente à u
 Comme Fabien, il est possible d'apprendre à identifier ces moments où l'on recrée malgré soi sa propre prison. Chaque action qui sort du cadre habituel est une brèche dans le mur du passé. Il ne s'agit pas d'effacer son histoire, mais d'apprendre à vivre dans le présent avec une plus grande liberté de mouvement.
 
 Si ces schémas sont trop ancrés et qu'ils entravent sérieusement l'épanouissement, un accompagnement avec un psychologue ou un thérapeute peut être utile. Un soutien professionnel permet souvent de dénouer les fils les plus complexes de l'histoire personnelle et de retrouver le chemin vers soi-même.
-
-Sources : [Freud, Au-delà du principe de plaisir, texte original traduit](https://www.gutenberg.org/ebooks/76031).

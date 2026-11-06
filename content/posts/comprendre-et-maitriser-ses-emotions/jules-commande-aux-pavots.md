@@ -33,6 +33,8 @@ Sonia doit faire l’inventaire à midi et une collègue a prévu de livrer deux
 
 Les difficultés liées au trouble panique peuvent avoir un effet sur la participation au travail. Jules souhaite apprendre à composer et à présenter un bouquet. Une partie de cette commande lui paraît possible et lui donne envie de s’y mettre. Le trajet pendant le service lui pose une autre difficulté. Sonia peut entendre cette demande, préciser ce qui est faisable et lui dire si elle doit organiser autrement la livraison.
 
+## Comment cette difficulté se manifeste
+
 Un aménagement ponctuel ne permet pas de prévoir ce que Jules souhaitera à l’avenir. Il peut expliquer à la psychiatre ce qui l’a aidé à prendre part à la commande et ce qu’il évite encore. Le soin garde son propre cadre. L’accord entre Sonia et Jules répond aujourd’hui à une tâche, à un horaire et aux personnes disponibles. Ils peuvent choisir de revoir la répartition lors d’une autre commande.
 
 ## Choisir ce que l’équipe doit savoir
@@ -44,8 +46,3 @@ Si personne ne peut livrer le bouquet, Sonia et Jules peuvent convenir d’une a
 ## Les pavots au bord du tissu
 
 La cliente s’arrête au stand et choisit l’assemblage où les branches dépassent. La collègue accepte de porter le bouquet avec ses autres livraisons. Jules explique l’orange des pavots et ajoute une note pour disposer les tiges. Sonia annonce seulement qui fait le trajet. Une fois la commande prête, Jules reçoit la date du prochain entretien. Il pourra parler de ce qu’il a réussi à garder dans son apprentissage avant de préparer l’essai convenu.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

@@ -1,5 +1,5 @@
 ---
-title: "Élise : se répondre autrement après un refus"
+title: Se répondre autrement après un refus
 description: "Le budget des bacs est refusé. Élise prend une pause avant de répondre, puis examine sa part sans transformer le revers en jugement global."
 slug: elise-bienveillance-apres-revers
 date: 2026-10-08T09:00:00+02:00
@@ -13,6 +13,7 @@ contexte: "La demande de financement de bacs accessibles n’est pas retenue et 
 editorial_pack: psychology-v10
 episode: 8
 ---
+
 Élise lit deux fois le courriel avant de comprendre qu’aucune somme ne sera accordée cette année pour les bacs du jardin. La demande préparée avec Mireille et Cédric n’est pas retenue dans l’enveloppe disponible. Le message ne critique pas son travail, mais elle entend immédiatement autre chose : elle a encore cru possible un projet qui ne tient pas. Elle pense aux habitants consultés et à la page relue par Françoise. Sur son bureau, les notes de la visite semblent soudain inutiles. Elle ouvre une réponse et commence par s’excuser d’avoir mobilisé tout le monde.
 
 Elle ajoute une phrase annonçant qu’elle abandonne la proposition. Ses doigts s’arrêtent avant l’envoi. Une partie d’elle voudrait répondre sur-le-champ pour sortir du malaise et montrer qu’elle accepte la décision. Une autre se sent en colère contre le manque de moyens. Elle n’a pas encore examiné ce que le refus concerne exactement. Les sièges prêtés et la rencontre au jardin ne dépendent pas tous du financement des bacs. Pourtant, son brouillon mélange le projet futur, la rencontre actuelle et sa propre valeur professionnelle. Elle reconnaît cette manière de resserrer tout le dossier autour d’un seul résultat.
@@ -76,7 +77,3 @@ Après un revers, se traiter avec justesse n’efface pas le résultat. Cela per
 Une pause est utile lorsqu’elle a une place possible et un retour réel. Elle peut empêcher une décision trop rapide sans devenir une disparition. Son intérêt ne dépend pas d’un calme parfait, mais de la possibilité d’examiner les faits et les conséquences du geste suivant.
 
 Élise n’a obtenu ni financement ni certitude sur la suite. Elle a transmis une nouvelle décevante sans s’attribuer tout le refus. Cette différence lui laisse une place parmi les autres pour réfléchir au projet, au lieu de devoir prouver immédiatement qu’elle mérite encore d’y participer.
-
-Sources :
-- [Centre for Clinical Interventions, Développer la compassion envers soi](https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Self-Compassion)
-- [NHS, Relations, désaccords et temps de pause](https://www.nhs.uk/every-mind-matters/lifes-challenges/maintaining-healthy-relationships-and-mental-wellbeing/)

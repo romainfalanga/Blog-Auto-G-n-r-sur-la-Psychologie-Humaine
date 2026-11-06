@@ -1,4 +1,4 @@
-"""Read-only checks for the manually authored V10 editorial pack.
+"""Check the public story structure and the manually authored V10 pack.
 
 No provider, generation, text repair or publication is performed here.
 """
@@ -9,6 +9,7 @@ import json
 import re
 import sys
 import yaml
+from build_article_intros import normalized, plain_text
 
 ROOT=Path(__file__).resolve().parents[1]
 PACK='psychology-v10'
@@ -17,6 +18,36 @@ CATEGORIES={
     'cat2_emotions':('Comprendre et maîtriser ses émotions','comprendre-et-maitriser-ses-emotions'),
     'cat3_schemas':('Sortir de ses schémas répétitifs','sortir-de-ses-schemas-repetitifs'),
 }
+SOURCE_BLOCK = re.compile(
+    r'^[ \t]*(?:#{1,6}[ \t]+|[-*][ \t]+)?(?:\*{1,2}|_+)?'
+    r'(?:sources?|références?|bibliographie)(?:\*{1,2}|_+)?[ \t]*(?::|$)',
+    re.IGNORECASE | re.MULTILINE,
+)
+STAGE_HEADING = re.compile(r'^##[ \t]+(.+)$', re.MULTILINE)
+SETEXT_HEADING = re.compile(r'(?<=\S)\n(?:-+|=+)[ \t]*(?=\n|$)')
+
+
+def title_starts_with_name(title, name):
+    if not isinstance(title, str) or not isinstance(name, str) or not name.strip():
+        return False
+    prefix = re.escape(normalized(name.strip()))
+    return bool(re.match(r'^\W*' + prefix + r'(?!\w)', normalized(plain_text(title))))
+
+
+def structure_issues(meta, body):
+    issues = []
+    if title_starts_with_name(meta.get('title'), meta.get('personnage')):
+        issues.append('le titre commence par le prénom du personnage')
+    if SOURCE_BLOCK.search(body):
+        issues.append('conserver les références dans les données éditoriales')
+    headings = list(STAGE_HEADING.finditer(body))
+    if not headings or body.startswith('#') or not body[:headings[0].start()].strip():
+        issues.append('ouvrir sur une scène sans intertitre')
+    if len(headings) != 4:
+        issues.append('quatre étapes après la scène sont requises')
+    if SETEXT_HEADING.search(body):
+        issues.append('séparer le trait horizontal du paragraphe précédent')
+    return issues
 
 def word_count(body):
     text=re.sub(r'https?://\S+','',body)
@@ -46,8 +77,6 @@ def check_article(path,meta,body):
     if len(valid_categories)!=1 or categories!=valid_categories:errors.append('catégorie et répertoire incohérents')
     count=word_count(body)
     if not 1800<=count<=2500:errors.append(f'{count} mots, intervalle1800–2500 requis')
-    if body.startswith('#'):errors.append('ouvrir sur la scène, sans titre')
-    if len(re.findall(r'^## ',body,re.M))<4:errors.append('quatre H2 minimum')
     if len(re.findall(r'^### ',body,re.M))<3:errors.append('trois H3 minimum')
     if not re.search(r'^##\s+Qu[’\']est-ce',body,re.M|re.I):errors.append('définition dédiée requise')
     if not 2<=len(re.findall(r'^### [123]\. ',body,re.M))<=3:errors.append('deux ou trois techniques numérotées requises')
@@ -56,16 +85,18 @@ def check_article(path,meta,body):
     if re.search('[—–]',body):errors.append('tirets cadratin et demi-cadratin interdits')
     without_links=re.sub(r'\[[^\]]*\]\([^)]*\)|https?://\S+','',body)
     if '/' in without_links:errors.append('slash de rédaction interdit hors liens')
-    if not re.search(r'^Sources?\s*:',body,re.M|re.I):errors.append('source primaire consultable requise')
     if not re.search(r'professionnel|psychologue|médecin|soignant',body,re.I):errors.append('rappel professionnel requis')
     return errors,count
 
 def inspect(paths=None,allow_partial=False):
     rows=[];errors=[];by_character=defaultdict(list);fingerprints=defaultdict(list)
+    public_articles=0
     for path in paths or sorted((ROOT/'content/posts').rglob('*.md')):
         if path.name=='_index.md':continue
         try:meta,body=read_article(path)
         except Exception as exc:errors.append(f'{path.relative_to(ROOT)}: {exc}');continue
+        public_articles+=1
+        errors.extend(f'{path.relative_to(ROOT)}: {issue}' for issue in structure_issues(meta,body))
         if meta.get('editorial_pack')!=PACK:continue
         issues,count=check_article(path,meta,body)
         errors.extend(f'{path.relative_to(ROOT)}: {issue}' for issue in issues)
@@ -73,7 +104,7 @@ def inspect(paths=None,allow_partial=False):
         rows.append(row);by_character[row['character']].append(row)
         # Long shared prose is a review failure, rather than acceptable padding.
         for paragraph in re.split(r'\n\s*\n',body):
-            if word_count(paragraph)<80 or paragraph.startswith('Sources'):continue
+            if word_count(paragraph)<80:continue
             normalized=re.sub(r'\W+',' ',paragraph.casefold()).strip()
             fingerprints[normalized].append(row['path'])
     for paragraph,files in fingerprints.items():
@@ -85,13 +116,14 @@ def inspect(paths=None,allow_partial=False):
             if sorted(row['episode'] for row in items)!=list(range(1,13)):errors.append(f'{name}: douze épisodes uniques requis')
     counts=Counter(row['slug'] for row in rows)
     errors.extend(f'slug dupliqué: {slug}' for slug,n in counts.items() if n>1)
-    return {'pack':PACK,'characters':len(by_character),'articles':len(rows),'words':sum(r['words'] for r in rows),'rows':rows,'errors':errors}
+    return {'public_articles_checked':public_articles,'pack':PACK,'characters':len(by_character),
+            'articles':len(rows),'words':sum(r['words'] for r in rows),'rows':rows,'errors':errors}
 
 def main():
     parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('paths',nargs='*');parser.add_argument('--allow-partial',action='store_true');parser.add_argument('--report');args=parser.parse_args()
     result=inspect([Path(p).resolve() for p in args.paths] or None,args.allow_partial)
     if args.report:Path(args.report).write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
-    print(json.dumps({key:result[key] for key in ('pack','characters','articles','words','errors')},ensure_ascii=False,indent=2))
+    print(json.dumps({key:result[key] for key in ('public_articles_checked','pack','characters','articles','words','errors')},ensure_ascii=False,indent=2))
     return bool(result['errors'])
 
 if __name__=='__main__':sys.exit(main())

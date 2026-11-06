@@ -11,6 +11,8 @@ personnage: "Fabien"
 sujet: "les \"je dois/il faut\" (obligations rigides)"
 contexte: "en situation de conflit"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/13563813/
 ---
 
 Dans la cuisine, Fabien entend le sac de Lucas heurter le plan de travail. Il vient de recevoir le message de Véronique et n’a pas encore regardé les horaires. Il demande à Lucas de déplacer le sac d’un ton plus sec qu’il ne voulait. Lucas le pose à ses pieds sans répondre.
@@ -62,5 +64,3 @@ La transition vers une pensée plus flexible est un chemin de longue haleine, su
 L'évolution de Fabien montre qu'il est possible de transformer sa manière de communiquer, même après cinquante ans et des épreuves marquantes comme un divorce ou un début de burn-out. Fabien a compris que son empathie envers Lucas, développée lorsqu'il l'aidait à gérer son sentiment d'envie pour ses études, est un outil bien plus puissant que n'importe quelle règle de conduite rigide. En remplaçant l'exigence par la préférence, vous vous redonnez le droit à l'erreur et, surtout, le droit à l'authenticité. C'est dans cette acceptation de l'imperfection que se créent les liens les plus sincères.
 
 Si vous sentez que ces mécanismes de pensée vous emprisonnent et impactent votre santé mentale ou vos relations, solliciter l'aide d'un professionnel peut être bénéfique. Un psychologue spécialisé en thérapies cognitives et comportementales pourra vous accompagner pour assouplir ces règles rigides et retrouver une véritable liberté d'action au quotidien.
-
-Sources : [Albert Ellis, Rational Psychotherapy](https://pubmed.ncbi.nlm.nih.gov/13563813/).

@@ -31,7 +31,11 @@ Meriem se voit déjà lui annoncer que leur échange n’aura pas de deuxième s
 
 ## Le retrait quand on s’attend déjà à perdre le lien
 
-Les difficultés à entretenir des relations peuvent être durables dans le stress post-traumatique complexe. Elles peuvent se manifester par une tendance à prendre ses distances, y compris quand le lien compte pour la personne. Dans la scène, Meriem anticipe la rupture avant d’avoir parlé à Joël. Elle a déjà renoncé à des relations qu’elle aurait préféré garder. Le fait qu’elle s’attende à perdre celle-ci ne dit pas comment Joël recevra la nouvelle. Il y a une situation à lui expliquer et des choix qui lui reviennent.
+Les difficultés à entretenir des relations peuvent être durables dans le stress post-traumatique complexe. Elles peuvent se manifester par une tendance à prendre ses distances, y compris quand le lien compte pour la personne.
+
+## Comment cette difficulté se manifeste
+
+Dans la scène, Meriem anticipe la rupture avant d’avoir parlé à Joël. Elle a déjà renoncé à des relations qu’elle aurait préféré garder. Le fait qu’elle s’attende à perdre celle-ci ne dit pas comment Joël recevra la nouvelle. Il y a une situation à lui expliquer et des choix qui lui reviennent.
 
 La confiance peut être en jeu dans un désaccord ordinaire comme dans une situation plus grave. Ici, Lila pensait que la copie pouvait circuler ; elle n’avait pas lu ce qui était écrit sur la chemise. C’est différent de la visite de Rémi, où la limite avait été dite deux fois. Meriem peut reconnaître l’effet de leur organisation sur Joël, et Joël peut maintenir ou revoir les conditions qu’il avait données. Le diagnostic de Meriem ne sert pas à décider lequel des deux a le droit d’être contrarié.
 
@@ -44,8 +48,3 @@ Le NICE mentionne les difficultés relationnelles parmi les points qui peuvent d
 ## Au bas de chaque feuille
 
 Ève reste avec Lila et sa mère, qui retirent l’image du groupe et demandent aux destinataires d’effacer les éventuelles copies. Meriem appelle Joël après l’atelier. Elle lui dit où était écrite la condition. Il veut que le chapeau reste de côté jusqu’à ce qu’il ait vu la nouvelle mention. Elle lui propose de relire une épreuve jeudi prochain. Les autres patrons pourront partir une fois leurs indications vérifiées. Meriem remet les feuilles de Joël dans la chemise bleue. En bas d’une copie de sa propre pochette, elle dessine deux lignes : une pour le nom, si on souhaite le mettre, et une pour l’usage qu’on autorise.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

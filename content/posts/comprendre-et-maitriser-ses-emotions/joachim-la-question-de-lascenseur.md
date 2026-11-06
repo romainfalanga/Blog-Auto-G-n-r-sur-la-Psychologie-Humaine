@@ -33,6 +33,8 @@ Au rendez-vous du soir, Louise lui demande de reprendre un exemple où il s’es
 
 Une phobie spécifique porte sur un objet ou une situation circonscrite, par exemple certains animaux, la hauteur ou un espace clos. Pour comprendre une agoraphobie, l’évaluation cherche un autre lien entre les situations. La personne craint de se sentir mal ou de vivre un événement embarrassant ou difficile à maîtriser dans un endroit où partir ou être aidée lui semblerait compliqué. Un ascenseur peut ainsi apparaître dans des récits très différents. La question utile porte sur ce qui fait peur dans cet ascenseur et sur ce qui revient ailleurs.
 
+## Comment cette difficulté se manifeste
+
 Joachim parle à Louise de sa propre manière d’imaginer un malaise dans la cabine. La même inquiétude se retrouve à l’extérieur, dans la file ou quand il pense au bus du retour. L’escalier lui permet ce jour-là d’accéder aux archives. Le diagnostic a été posé en tenant compte de plusieurs situations et de leurs conséquences dans sa vie. Cette scène aide surtout à préciser le suivi.
 
 ## Décrire les choix qui ont vraiment eu lieu
@@ -44,8 +46,3 @@ Pour une consultation, il peut être utile de raconter ce qu’on a continué à
 ## La rue sur le plan
 
 De retour chez lui, Joachim écrit le nom exact de la rue sur l’épreuve. Il joint la cote de la photo au dossier de la carte. Il envoie à Diego une proposition pour samedi. Il voudrait reprendre le passage du lavoir avec lui et convenir de la façon dont il peut l’accompagner. Il ne décide rien ce soir au sujet de l’ascenseur. En pliant l’épreuve, il laisse le nom du carrefour dépasser du rabat.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, présentation de l’agoraphobie](https://www.nhs.uk/mental-health/conditions/agoraphobia/)

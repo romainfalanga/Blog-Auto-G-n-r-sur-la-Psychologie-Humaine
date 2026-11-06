@@ -33,7 +33,11 @@ Jeanne lui parle du prochain échange de graines. Elle est chargée de préparer
 
 Vivre avec de l’anxiété sociale laisse une place aux préférences et aux décisions qui n’ont pas besoin d’être expliquées par la santé. Sacha a pu parler devant les visiteurs du magasin, avec Gaspard, de quelque chose qu’il souhaitait montrer. Il peut maintenant préférer dessiner une feuille à deux. Son choix a un contenu : relier les dates de semis à l’orientation des rues, pour que les gens du café puissent comparer leurs expériences. Reprendre de la liberté dans sa participation peut compter autant, pour lui, que prendre la parole dans un autre groupe.
 
-Il garde aussi des difficultés qu’il veut continuer à travailler. Quand une cliente entre, Sacha perd une partie de sa question et attend avant de la reprendre. Au cabinet, il peut raconter comment il reprend le fil aujourd’hui et comment les choses se sont passées quand il s’est retrouvé à la table du café.
+Il garde aussi des difficultés qu’il veut continuer à travailler.
+
+## Comment cette difficulté se manifeste
+
+Quand une cliente entre, Sacha perd une partie de sa question et attend avant de la reprendre. Au cabinet, il peut raconter comment il reprend le fil aujourd’hui et comment les choses se sont passées quand il s’est retrouvé à la table du café.
 
 ## Garder une façon de reparler des difficultés
 
@@ -44,8 +48,3 @@ Avec Jeanne, il suffit de préciser une envie et une disponibilité. Elle peut p
 ## Deux places le jeudi
 
 Jeanne déplie sa feuille. Dans la colonne « où ? », quelqu’un a déjà écrit « chez moi ». Sacha rit et trace sur le brouillon la courbe de la rue du terminus. Il lui propose de reprendre la carte ensemble jeudi matin, à l’ouverture du café. « Pour parler à toute la table, je te laisse demander à quelqu’un d’autre cette fois. » Jeanne lui dit qu’elle n’avait pas encore regardé les horaires et vérifie le jeudi avec lui. Sacha glisse le sachet entre deux pages de son carnet. La fiche de rempotage est un peu de travers sur le comptoir. Il la remet droite pour la personne suivante.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG159, reconnaissance, évaluation et traitement du trouble d’anxiété sociale](https://www.nice.org.uk/guidance/cg159/resources/social-anxiety-disorder-recognition-assessment-and-treatment-pdf-35109639699397)

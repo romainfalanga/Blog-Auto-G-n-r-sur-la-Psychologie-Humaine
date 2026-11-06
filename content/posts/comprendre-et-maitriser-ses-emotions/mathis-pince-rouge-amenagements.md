@@ -32,6 +32,8 @@ Un bénévole entre avec un paquet de rustines. Il voit la table en travers et s
 
 Sur la place, la foule et les passages seront plus difficiles à prévoir qu’à l’atelier. Mathis ne peut pas retirer toutes les interruptions. Il peut travailler avec l’équipe sur celles qui peuvent attendre ou être prises en charge ailleurs. La pince indique qu’une réparation est en cours. Une mention écrite indique ce qu’il faut reprendre. Ces deux repères servent à des moments différents et peuvent être lus par un collègue qui n’a pas suivi les échanges précédents.
 
+## Comment cette difficulté se manifeste
+
 Le NICE inclut les adaptations de l’environnement parmi les appuis à examiner avec les personnes concernées. Leur utilité dépend des tâches et des contraintes du lieu. Un échange oral peut convenir à Zélie pour déplacer une caisse. Pour reprendre un travail technique, elle aussi veut voir une trace sur la fiche. Ils peuvent garder l’organisation écrite là où elle rend service. L’atelier reste responsable de ses règles de contrôle et les décisions de sécurité ne changent pas avec la couleur de la pince.
 
 ## Essayer les deux rôles avant de choisir
@@ -43,8 +45,3 @@ Ils décident d’essayer le repère à l’atelier pendant une plage d’ouvert
 ## L’accueil et le pied de réparation
 
 Au bout de la table, la pince glisse dès que Zélie y accroche deux fiches. Mathis la récupère sous le tabouret. Ils gardent une seule fiche sur ce bord et déplacent le reste dans le classeur habituel. Plus tard, l’ardoise attire la question d’un bénévole sur les horaires. Il n’a pas vu le trait au sol. Mathis repère l’endroit où un panneau serait mieux orienté et tourne la table de quelques centimètres. Cette fois, Zélie peut se placer du côté de l’accueil sans bloquer la sortie de l’atelier.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG87, évaluation et accompagnement du TDAH](https://www.nice.org.uk/guidance/ng87/chapter/recommendations)

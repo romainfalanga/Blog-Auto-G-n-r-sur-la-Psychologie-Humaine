@@ -32,7 +32,11 @@ Il pose son téléphone face contre table. Ce qu’il voudrait savoir, c’est �
 
 ## Repérer les circonstances qui reviennent
 
-Les circonstances dans lesquelles l’envie de jouer augmente varient selon les personnes et les périodes. Le NICE recommande d’explorer avec la personne les situations, les émotions et les sollicitations qui contribuent à la poursuite du jeu. Le trajet après la fermeture est un exemple pour Gabin. L’inquiétude pour une dépense l’est aussi. Il peut raconter ce qu’il cherchait alors et ce qui l’a aidé à demander un contact. Il n’a pas besoin de raconter une soirée entière pour apporter des éléments utiles. Il peut aussi signaler quand son expérience change et quand un exemple ne ressemble pas aux précédents.
+Les circonstances dans lesquelles l’envie de jouer augmente varient selon les personnes et les périodes. Le NICE recommande d’explorer avec la personne les situations, les émotions et les sollicitations qui contribuent à la poursuite du jeu.
+
+## Comment cette difficulté se manifeste
+
+Le trajet après la fermeture est un exemple pour Gabin. L’inquiétude pour une dépense l’est aussi. Il peut raconter ce qu’il cherchait alors et ce qui l’a aidé à demander un contact. Il n’a pas besoin de raconter une soirée entière pour apporter des éléments utiles. Il peut aussi signaler quand son expérience change et quand un exemple ne ressemble pas aux précédents.
 
 ## Se donner des options que l’on peut vraiment utiliser
 
@@ -43,8 +47,3 @@ L’intervenante lui demande si la discussion des prochains rendez-vous est plus
 ## La note à retrouver dans le bus
 
 En sortant, Gabin ouvre la note sur l’assiette froide et la remplace par deux phrases. La première lui rappelle le moment où il veut appeler. La seconde lui indique où trouver le contact. Il a prévu une autre rencontre avec le service pour parler des sollicitations qu’il reçoit. Au bout du quai, une personne referme un sac qui ressemble au sien. Gabin vérifie l’arrêt du bus, puis écrit à l’atelier pour dire quel soir il pourra venir, cette semaine.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG248, repérage et accompagnement des dommages liés aux jeux d’argent](https://www.nice.org.uk/guidance/ng248/chapter/recommendations)

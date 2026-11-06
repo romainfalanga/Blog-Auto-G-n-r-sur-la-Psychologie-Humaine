@@ -33,18 +33,18 @@ Quand Yassine revient, il demande si elles veulent encore voir sa proposition. �
 
 ## Une comparaison plutôt qu’une règle
 
-Les recommandations du NICE décrivent des formes d’accompagnement qui aident à examiner des situations où les épisodes surviennent. Les aspects émotionnels et les habitudes alimentaires peuvent faire partie du travail selon les besoins. Pour Morgane, le changement d’organisation mérite d’être raconté parce qu’il lui rappelle quelque chose. Plusieurs éléments avaient coexisté l’autre lundi, et un souvenir incomplet ne permet pas de décider lequel a joué un rôle. Lors de sa prochaine séance, elle peut apporter ce qu’elle a remarqué et dire ce qui lui échappe. Elle et Anna pourront comparer plusieurs situations à partir de questions qui ont du sens pour elle.
+Les recommandations du NICE décrivent des formes d’accompagnement qui aident à examiner des situations où les épisodes surviennent. Les aspects émotionnels et les habitudes alimentaires peuvent faire partie du travail selon les besoins.
+
+## Deux journées qui se ressemblent en partie
+
+Aujourd’hui, la tension monte quand le téléphone sonne et que quelqu’un lui pose une question au même moment. Morgane repense à la livraison décalée de l’autre lundi et à l’épisode qui a suivi. En revenant sur cette journée, elle retrouve aussi le souvenir d’un appel qu’elle redoutait et d’une gêne déjà présente le matin. Ce lundi, elle éloigne le téléphone et réussit à faire de la place à l’essai de Yassine.
 
 ## Garder à la situation de travail ses propres solutions
 
 Sonia, Yassine et Morgane ont à trouver une place et un horaire. Morgane peut poser la question de la répétition sans avoir à raconter un épisode alimentaire. Prévenir d’un changement et répartir les appels sont des tâches que le groupe peut décider. Ce soutien sur le travail a sa valeur même si le suivi doit aussi explorer ce que Morgane traverse en rentrant chez elle. Elle peut être tendue et garder assez de place pour entendre Yassine, comme elle peut être gênée un autre soir dans des circonstances différentes. La comparaison aide à respecter cette variabilité.
 
+Lors de sa prochaine séance, elle peut raconter à Anna les éléments dont elle se souvient et dire ce qui lui échappe. Elles pourront comparer ces journées à partir des questions que Morgane souhaite approfondir.
+
 ## Ce que les deux lundis ont en commun
 
 Après la répétition, Morgane écrit quelques lignes pour Anna. Le premier lundi, elle se souvient d’être rentrée en rejouant l’échange avec le livreur. Ce soir, elle est surtout contente d’avoir vu Yassine résoudre le problème de la table. Elle ne veut pas donner le même sens à toute journée qui la fatigue. Sonia et elle ont obtenu un autre créneau pour la semaine suivante. Morgane demande que le début soit confié à Yassine.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et Fédération française anorexie boulimie, recommandations sur la boulimie et l’hyperphagie boulimique](https://www.has-sante.fr/upload/docs/application/pdf/2019-09/boulimie_et_hyperphagie_boulimique_-_recommandations.pdf)
-- [NICE, recommandations NG69 sur les troubles des conduites alimentaires](https://www.nice.org.uk/guidance/ng69/evidence/full-guideline-pdf-161214767896)

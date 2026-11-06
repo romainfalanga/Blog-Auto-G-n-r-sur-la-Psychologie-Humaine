@@ -32,6 +32,8 @@ Elles reviennent sur leurs pas et trouvent, près de la boulangerie, une banquet
 
 Un lieu de pause sert lorsqu’il est possible de le trouver, d’y entrer et d’y rester. Sur la carte, la cour remplissait cette fonction. La grille et les horaires changent ce que les voisins pourront y faire. Nour peut encore montrer l’image de l’hirondelle depuis un autre endroit. Rita, qui a essayé le passage avec son cabas, peut indiquer la direction dans laquelle le sol et les marches lui ont posé problème.
 
+## Comment cette difficulté se manifeste
+
 La sensibilité au bruit est une donnée de l’expérience de Nour. Les besoins des autres personnes peuvent tenir à la marche, au temps disponible, à la possibilité de lire debout ou à autre chose. Le NICE invite à examiner l’environnement avec la personne concernée. Pour cette sortie, une mise à l’essai donne aux participants l’occasion de décrire ce qu’ils ont trouvé. Nour pourra inscrire une caractéristique concrète sur le plan et chacun décidera si le trajet lui convient.
 
 ## Faire en sorte que le détour reste possible
@@ -43,8 +45,3 @@ Rita explique qu’elle a cherché le nom de la rue plutôt que la couleur du tr
 ## Les marches entrent sur le plan
 
 Nour déplie la carte sur le cabas de Rita et dessine les marches. Rita lui montre l’angle depuis lequel elles ne se voient pas tout de suite. Fatou rapporte le texte affiché sur la grille. Elles peuvent conserver ce renseignement sans faire de la cour une étape nécessaire. En rentrant, Nour écrit au groupe qu’elles ont trouvé une pause possible en dehors de la cour. Fatou lui transfère la réponse du service qui gère la cour. Elle est accompagnée d’un avis de travaux dans le passage. Nour lit le nom de la rue deux fois avant d’ouvrir son fichier.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG142, accompagnement des adultes autistes](https://www.nice.org.uk/guidance/cg142/chapter/Recommendations)

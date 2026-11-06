@@ -34,6 +34,8 @@ Joëlle remet le panier contre le mur. Elle lui dit qu’elle ne veut plus atten
 
 Une priorité peut changer progressivement, avant même qu’une personne décide de boire à une occasion précise. Éric réserve une partie de la soirée aux retrouvailles possibles. Il protège aussi la disponibilité qui lui permettrait de rester boire avec le groupe. La préférence pour un moment agréable peut coexister avec la difficulté à donner du temps aux autres activités qui comptent.
 
+## Comment cette difficulté se manifeste
+
 Les conséquences deviennent parfois visibles à travers des rendez-vous continuellement déplacés. Joëlle se souvient des attentes successives et peut dire ce qu’elles lui ont coûté. L’équipe d’addictologie examine, avec Éric, comment cet épisode s’inscrit dans sa vie. Elle peut aussi lui demander quels engagements il voudrait retrouver. Une relation compte à la fois pour elle-même et comme partie du quotidien à soutenir dans les soins.
 
 ## Faire un choix que chacun peut vérifier
@@ -45,9 +47,3 @@ Si Éric évoque cette hésitation à son prochain rendez-vous, il peut précise
 ## Le guidon sans son panier
 
 Ils font le tour du pâté de maisons. Joëlle descend près du portail et lui tend le vélo. « Écoute en tournant », dit-elle. Sans le panier, Éric entend enfin le frottement qui l’avait contrariée. Ils poussent le vélo jusqu’au garage et conviennent qu’elle s’occupera du dernier réglage avec la voisine si nécessaire. Éric lui demande si elle se souvient de la marchande qui laissait les pommes tachées aux musiciens après le marché. Joëlle reconnaît son prénom. Elle est d’accord pour qu’il lui raconte mercredi comment s’est passé l’entretien. Pour les réparations du vélo, elle garde l’horaire de la voisine.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, agir en premier recours pour diminuer le risque alcool](https://www.has-sante.fr/jcms/p_3326877/fr/agir-en-premier-recours-pour-diminuer-le-risque-alcool-reperer-tous-les-usages-et-accompagner-chaque-personne)
-- [NICE CG115, évaluation et prise en charge de la dépendance à l’alcool](https://www.nice.org.uk/guidance/cg115/chapter/Recommendations)

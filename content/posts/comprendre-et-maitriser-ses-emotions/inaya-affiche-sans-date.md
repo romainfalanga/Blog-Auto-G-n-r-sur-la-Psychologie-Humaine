@@ -32,6 +32,8 @@ Myriam prend un feutre pour ajouter la date. Inaya pose sa fleur sur le comptoir
 
 Dans la CIM-11 de l’Organisation mondiale de la Santé, le trouble dépressif récurrent porte le code 6A71. Il correspond à une histoire d’au moins deux épisodes dépressifs, séparés par plusieurs mois sans perturbation notable de l’humeur. L’évaluation tient compte de l’évolution dans le temps et recherche notamment si des périodes d’humeur et d’activité inhabituelles pourraient relever d’un trouble bipolaire. Le diagnostic suppose une évaluation clinique ; un récit permet de reconnaître des situations et d’en parler, pas de conclure pour soi ou pour quelqu’un d’autre.
 
+## Comment cette difficulté se manifeste
+
 Dans le cas d’Inaya, les épisodes avaient changé sa manière de travailler, de manger avec Nino et de répondre à des invitations qui lui faisaient habituellement plaisir. Elle se rappelle aussi les périodes entre les deux. Cette chronologie aide à comprendre ce que sa psychiatre a retenu. Le fait qu’elle prépare aujourd’hui quelque chose avec sa sœur ne permet pas, à lui seul, de dire où elle en est dans sa santé. Le diagnostic ne fixe pas non plus le nombre de personnes qu’elle pourrait recevoir dans un atelier.
 
 ## Faire une place au projet et au suivi
@@ -43,9 +45,3 @@ Myriam et elle ont d’autres décisions à prendre, qui leur appartiennent : co
 ## Six places sans date fixée
 
 Myriam referme le feutre. Elles laissent une ligne libre sous le titre et emportent la feuille à la maison de quartier pour mesurer la place sur le panneau. Avant de sortir, Inaya glisse dans son agenda le dessin d’une table pour six. Elle inscrit aussi son rendez-vous, qui figurait jusqu’alors seulement sur son téléphone. La renoncule est restée sur le comptoir. Elle la glisse dans un vase, à côté de l’agenda. Elle voudrait la montrer à Myriam en plein jour.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, épisode dépressif caractérisé chez l’adulte](https://www.has-sante.fr/jcms/c_1739917/fr/episode-depressif-caracterise-de-l-adulte-prise-en-charge-en-premier-recours)
-- [NICE NG222, dépression de l’adulte](https://www.nice.org.uk/guidance/NG222/chapter/recommendations)

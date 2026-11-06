@@ -11,6 +11,8 @@ personnage: "Nadia"
 sujet: "exigences élevées/critique excessive"
 contexte: "au travail"
 draft: false
+editorial_sources:
+- https://www.schematherapysociety.org/Schema-Therapy
 ---
 
 Julie a rendu le rapport de marché. Nadia ouvre le document pour vérifier la part des renouvellements, le chiffre que la direction attend. En haut de la page, une virgule sépare le sujet du verbe. Nadia l’entoure, descend d’une ligne et voit que le titre du tableau ne tombe pas à la verticale de la colonne. Elle commence un retour à Julie sur ces deux points. Le chiffre reste hors de l’écran.
@@ -64,5 +66,3 @@ Nadia peut faire évoluer sa façon de donner un retour sans avoir à résoudre 
 Une exigence peut être utile si elle correspond à l'enjeu réel. Elle devient plus difficile à soutenir quand le coût des vérifications dépasse régulièrement leur utilité.
 
 Si vous constatez que ces schémas de critique excessive freinent votre épanouissement ou vous mènent vers un épuisement, l'accompagnement par un professionnel de la psychologie peut être bénéfique. Un travail thérapeutique, notamment avec la thérapie des schémas ou les approches cognitives et comportementales, aide à déconstruire ces exigences pour retrouver une sérénité durable.
-
-Sources : [International Society of Schema Therapy, concepts du modèle](https://www.schematherapysociety.org/Schema-Therapy).

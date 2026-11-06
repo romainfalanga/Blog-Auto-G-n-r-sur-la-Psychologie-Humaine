@@ -93,6 +93,8 @@ Elle ressort avec les consignes qui la concernent et une compréhension plus cla
 
 Chez elle, elle range la feuille avec ses documents. Elle n'ajoute pas une nouvelle rubrique pour surveiller chaque sensation de la soirée. Elle peut revenir au texte de l'exposition, dans les conditions adaptées qu'elle prévoit, ou le laisser attendre. L'observation retrouve sa fonction : soutenir les choix et les soins, plutôt qu'occuper toute sa vie.
 
+Benoît lui demande s’il peut l’aider à reprendre le texte. Anaïs préfère essayer le lendemain et lui montrer seulement le passage qui lui pose difficulté.
+
 ---
 
 Décrire ses sensations sans tout interpréter permet à Anaïs de donner une place aux faits vécus, aux questions et à l'inquiétude. Elle n'a pas besoin d'arriver avec une cause certaine ni de faire de chaque variation un jugement sur sa manière de vivre.
@@ -100,5 +102,3 @@ Décrire ses sensations sans tout interpréter permet à Anaïs de donner une pl
 Une description utile peut rester courte et imparfaite. Elle devient plus précise dans l'échange avec les professionnels. Cette coopération laisse aussi au corps une place dans la journée sans imposer une attention permanente à chaque signal.
 
 Pour une manifestation nouvelle, inhabituelle ou préoccupante, contactez l'équipe médicale selon les consignes reçues. Un professionnel peut vous aider à évaluer ce qui se passe et les suites adaptées. Aucun exercice de description ne remplace cet avis ni n'autorise à modifier seul les soins.
-
-Sources : [Assurance maladie, participer au suivi de la polyarthrite](https://www.ameli.fr/assure/sante/themes/polyarthrite-rhumatoide/vivre-polyarthrite-rhumatoide) ; [HAS, parler avec son médecin](https://www.has-sante.fr/jcms/c_1695997/en/parler-avec-son-medecin).

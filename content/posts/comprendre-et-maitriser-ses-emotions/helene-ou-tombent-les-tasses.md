@@ -32,6 +32,8 @@ Dario lui demande s’il doit ranger la tasse. « Attends, celle-là travaille. 
 
 Quand Maud parle du rendez-vous « habituel », Hélène doit rapprocher une expression orale, une nouvelle adresse et un planning qui porte encore l’ancien lieu. C’est une difficulté concrète d’adaptation dans le contexte de son trouble du développement intellectuel, diagnostiqué avant ce récit. Une consigne écrite qui sépare le jour, l’heure et l’adresse lui permet de décider ce qu’elle doit faire ensuite. À l’autre bout du rayon, elle sait déjà expliquer à une cliente où se trouvent les tasses.
 
+## Comment cette difficulté se manifeste
+
 Hélène sait par ailleurs pourquoi la tasse bleue revient dans le mauvais panier. Elle compare les gestes des clients à la disposition du rayon. Cette compétence et sa difficulté avec une annonce de dernière minute peuvent coexister. Les deux apportent des informations sur des situations distinctes de son travail.
 
 ## Séparer ce qui change de ce qui reste à décider
@@ -43,8 +45,3 @@ Pour le rayon, Hélène a une demande de métier : du temps pour fabriquer, puis
 ## La tasse sert encore
 
 Maud entoure « 9 h » sur une nouvelle feuille et écrit à côté : « mardi, rendez-vous à la boutique ; date de visite du dépôt à fixer jeudi ». Elle raye l’ancienne ligne devant Hélène. Pour les panneaux, elle peut lui dégager un créneau à l’établi, à condition que l’installation puisse être retirée si elle gêne le passage. Hélène demande deux essais, pour avoir le droit de corriger le premier. Maud regarde l’allée et dit oui. Hélène pose alors la tasse rayée devant Dario. « Maintenant elle a fini. Tu peux la remettre avec les siennes. »
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé, TDI : travail et vie active (volet 2)](https://www.has-sante.fr/upload/docs/application/pdf/2025-11/dir7/tdi_emploi_volet2.pdf)

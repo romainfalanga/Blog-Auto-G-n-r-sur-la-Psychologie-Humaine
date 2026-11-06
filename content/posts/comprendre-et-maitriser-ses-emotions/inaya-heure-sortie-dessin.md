@@ -30,7 +30,11 @@ Inaya et Nino passent sous l’horloge du couloir avec l’animatrice. L’adult
 
 ## Comprendre ce que la concentration change dans une journée
 
-Un épisode dépressif peut s’accompagner de difficultés à se concentrer ou à prendre des décisions. Ces difficultés ne sont pas propres à la dépression : le manque de sommeil, les interruptions, une autre difficulté de santé ou un changement d’organisation peuvent aussi peser. Pour décrire le retentissement au rendez-vous, Inaya peut donner des faits : elle a confondu deux heures de sortie et elle doit parfois relire plusieurs fois un bon de commande avant d’y inscrire le bon chiffre.
+Un épisode dépressif peut s’accompagner de difficultés à se concentrer ou à prendre des décisions. Ces difficultés ne sont pas propres à la dépression : le manque de sommeil, les interruptions, une autre difficulté de santé ou un changement d’organisation peuvent aussi peser.
+
+## Comment cette difficulté se manifeste
+
+Pour décrire le retentissement au rendez-vous, Inaya peut donner des faits : elle a confondu deux heures de sortie et elle doit parfois relire plusieurs fois un bon de commande avant d’y inscrire le bon chiffre.
 
 Le fait qu’elle puisse faire un bouquet tout en se perdant dans son agenda n’est pas contradictoire. Les deux activités ne lui demandent pas la même attention. Elle n’a pas à attendre une autre erreur pour signaler que cela lui coûte du temps et l’inquiète. Un professionnel pourra replacer ces observations dans l’ensemble de ce qu’elle traverse et chercher, avec elle, ce qui mérite d’être examiné.
 
@@ -43,9 +47,3 @@ Inaya peut vérifier avec l’animatrice les horaires et les personnes autorisé
 ## Un seul trajet à confirmer
 
 Après le dîner, Inaya appelle Myriam. Sa sœur est disponible le mercredi suivant, pas celui d’après. Elles préviennent l’animatrice et ne mettent dans leur calendrier que ce qu’elles viennent de confirmer. Inaya retourne ensuite voir Nino, qui a collé le nuage bleu sur la fenêtre de sa chambre plutôt que sur son dessin. Elle lui donne le nom de la personne qui viendra mercredi. En allant se coucher, elle écrit aussi la date du retard sur le papier destiné à la consultation. Le papier tient près de la lampe. Elle n’en fait pas une nouvelle liste de choses à rattraper.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, épisode dépressif caractérisé chez l’adulte](https://www.has-sante.fr/jcms/c_1739917/fr/episode-depressif-caracterise-de-l-adulte-prise-en-charge-en-premier-recours)
-- [NICE NG222, dépression de l’adulte](https://www.nice.org.uk/guidance/NG222/chapter/recommendations)

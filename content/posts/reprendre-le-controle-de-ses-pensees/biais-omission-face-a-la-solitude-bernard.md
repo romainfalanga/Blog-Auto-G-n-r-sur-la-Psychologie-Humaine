@@ -11,6 +11,10 @@ personnage: "Bernard"
 sujet: "biais d'omission"
 contexte: "face à la solitude"
 draft: false
+editorial_sources:
+- https://doi.org/10.1002/bdm.3960030404
+- https://www.nationalacademies.org/read/25663/chapter/2
+- https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient_presentant-une-lombalgie-commune
 ---
 
 « Tu passes ce dimanche ? » Bernard relit le brouillon et efface le point d’interrogation par mégarde. Il le remet. Depuis le coup de main pour la planche, il cherche une occasion de revoir Éric qui ne commence pas par un besoin de travail. Tant que le message reste dans le téléphone, il peut encore croire qu’il choisit son moment.
@@ -74,5 +78,3 @@ Bernard choisit de proposer un dîner sans décider de la réponse à la place d
 Chaque petit pas vers l'autre, aussi maladroit soit-il, est une victoire sur la peur. Oser la parole, c'est accepter d'être humain, imparfait et vulnérable, mais c'est aussi s'offrir la possibilité de guérir et de se reconnecter. Le bois se travaille avec des outils, mais les relations se construisent avec des mots, même ceux qui sortent avec difficulté.
 
 Si vous vous reconnaissez dans le silence de Bernard et que la solitude devient un poids trop lourd à porter malgré vos efforts, solliciter l'aide d'un professionnel de la psychologie peut être bénéfique. Un accompagnement thérapeutique aide à identifier ses propres biais et à retrouver le chemin d'une communication sereine avec soi-même et avec ses proches.
-
-Sources : [Ritov et Baron, expérience sur le biais d’omission](https://doi.org/10.1002/bdm.3960030404) ; [National Academies, isolement social et solitude](https://www.nationalacademies.org/read/25663/chapter/2) ; [Haute Autorité de santé, prise en charge de la lombalgie](https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient_presentant-une-lombalgie-commune).

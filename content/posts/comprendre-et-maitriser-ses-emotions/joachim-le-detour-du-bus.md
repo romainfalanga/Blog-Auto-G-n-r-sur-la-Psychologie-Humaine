@@ -33,6 +33,8 @@ Joachim laisse les portes se refermer. Il avait cru qu’après ses deux trajets
 
 Les formes que prend l’agoraphobie peuvent varier. Une personne peut traverser une situation avec beaucoup d’effort un jour et l’éviter dans d’autres circonstances. Joachim connaît le bus lorsqu’il passe près de la plaque de rue et il s’était préparé à ce retour. Il manque aujourd’hui un repère qu’il juge important. L’arrêt de correspondance a changé et il imagine qu’il aura du mal à demander de l’aide au milieu d’un carrefour inconnu. Le retour de sa peur a des éléments précis qu’il peut reprendre en consultation.
 
+## Comment cette difficulté se manifeste
+
 Il se dit d’abord que ses précédents trajets n’ont servi à rien. Il peut pourtant dire qu’il a déjà pu descendre du bus, acheter du pain et rentrer. Ces faits gardent leur place à côté de ce qu’il a vécu aujourd’hui. Louise pourra s’intéresser au changement de parcours, à la colère et à la suite qu’il voudrait choisir.
 
 ## Décider ce qui peut avancer aujourd’hui
@@ -44,9 +46,3 @@ Pour le suivi, Joachim préfère noter ce qu’il avait voulu faire et ce que l�
 ## Le belvédère reste en suspens
 
 Diego envoie un message du chemin du retour. Il a envie de reprendre la variante par le verger avec lui avant d’ajouter un autre point de vue. Joachim lui propose de se voir à l’atelier pour regarder les deux images du banc. Il laisse le belvédère dans ses notes. Dans la marge, il écrit le nom du rond-point, la question qu’il a posée et la réponse qu’il n’a pas comprise. Il veut pouvoir relire cette page sans avoir à se raconter toute la matinée depuis le début.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, manifestations de l’agoraphobie](https://www.nhs.uk/mental-health/conditions/agoraphobia/symptoms/)
-- [NHS, prise en charge de l’agoraphobie](https://www.nhs.uk/mental-health/conditions/agoraphobia/treatment/)

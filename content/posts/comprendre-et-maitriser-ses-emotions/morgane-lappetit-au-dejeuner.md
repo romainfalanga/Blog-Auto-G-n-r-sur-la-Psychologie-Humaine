@@ -33,7 +33,11 @@ Les chaises s’éloignent au fil des départs. Sonia apporte la note laissée p
 
 ## Entendre la différence que Morgane éprouve
 
-Un repas plaisant peut comporter un appétit marqué et une décision de se resservir. La CIM-11 décrit l’épisode d’hyperphagie en tenant compte d’une manière de manger nettement différente de l’habitude dans un temps délimité, avec une perte de contrôle ressentie. Pour Morgane, qui a déjà reçu un diagnostic, la distinction se reconnaît dans ce qu’elle pouvait décider au déjeuner. Son attention a pu rester disponible pour Marie, puis pour le projet. Un regard posé sur la table ou sur son assiette donnerait très peu d’accès à cette différence. Même si quelqu’un éprouve de la gêne après avoir beaucoup mangé, l’évaluation porte sur le vécu, la répétition et le retentissement.
+Un repas plaisant peut comporter un appétit marqué et une décision de se resservir. La CIM-11 décrit l’épisode d’hyperphagie en tenant compte d’une manière de manger nettement différente de l’habitude dans un temps délimité, avec une perte de contrôle ressentie.
+
+## Comment cette difficulté se manifeste
+
+Pour Morgane, qui a déjà reçu un diagnostic, la distinction se reconnaît dans ce qu’elle pouvait décider au déjeuner. Son attention a pu rester disponible pour Marie, puis pour le projet. Un regard posé sur la table ou sur son assiette donnerait très peu d’accès à cette différence. Même si quelqu’un éprouve de la gêne après avoir beaucoup mangé, l’évaluation porte sur le vécu, la répétition et le retentissement.
 
 ## Laisser un repas partagé reprendre sa place
 
@@ -42,8 +46,3 @@ La possibilité de parler d’autre chose peut faire partie de ce qui rend un re
 ## Essayer, puis choisir
 
 Yassine retourne la feuille. Il dessine une flèche entre « montrer » et « laisser essayer », puis demande s’il pourrait faire une proposition de bouquet avec trois directions possibles. Morgane lui répond qu’elle veut bien voir son dessin vendredi. Pour annoncer la matinée, Sonia propose une photo de l’atelier. Morgane glisse la vieille étiquette de Marie dans le tablier qu’elle va laisser à l’accueil.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et Fédération française anorexie boulimie, recommandations sur la boulimie et l’hyperphagie boulimique](https://www.has-sante.fr/upload/docs/application/pdf/2019-09/boulimie_et_hyperphagie_boulimique_-_recommandations.pdf)

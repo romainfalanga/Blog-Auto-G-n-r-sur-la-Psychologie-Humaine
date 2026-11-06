@@ -58,16 +58,14 @@ Face à l’instabilité vécue dans l’enfance, recréer des liens fiables est
 
 - Exercice : Identifiez des personnes de confiance avec qui vous pouvez parler ouvertement de vos émotions. Planifiez des temps réguliers d’échange, comme une promenade, un café ou un appel, pour nourrir ces relations de façon saine.
 
-## Un message sans certitude
-
-Après plusieurs semaines à pratiquer ces exercices, Adrien commence à ressentir un changement subtil mais réel. Lorsqu’il est seul, il ne panique plus immédiatement. Il respire, observe ses émotions avec plus de bienveillance, et se rappelle qu’il peut être là pour lui-même, un peu comme il aurait voulu qu’on le soit dans son enfance.
-
-La lettre à son enfant intérieur a été un moment fort : il a enfin mis des mots sur cette blessure ancienne, et cela l’a apaisé ce jour-là. Il a aussi renoué avec des amis proches, construisant peu à peu un filet de sécurité qui lui donne moins peur de la solitude.
-
-Si vous vous reconnaissez dans l’histoire de Adrien, sachez que vous n’êtes pas seul(e) face à cette difficulté. Vous pouvez vous demander ce qui vous inquiète aujourd’hui sans avoir à retrouver une origine à votre inquiétude.
-
-Julien finit par écrire qu’il était en train de dîner et demande si Adrien veut venir courir cette semaine. Adrien a encore envie de demander pourquoi il n’avait pas prévenu. Il lui répond qu’il est libre jeudi, puis remet le téléphone à côté du verre.
-
-## Quand l’attente devient difficile
+### Quand l’attente devient difficile
 
 Le schéma d’abandon ou d’instabilité permet d’examiner la place de cette peur dans une relation. Les expériences et les circonstances diffèrent d’une personne à l’autre. Si la peur de perdre vos proches vous empêche régulièrement de dormir, de travailler ou de garder des liens qui vous importent, un professionnel de santé mentale peut vous aider à faire le point.
+
+## Un message sans certitude
+
+Adrien laisse le brouillon ouvert et essaie de dire tout bas ce qui le gêne. Il a peur que Julien se soit senti obligé de répondre à son invitation. Il sait seulement que son ami a envoyé une photo et qu’il n’a pas encore répondu. Il garde cette différence en tête le temps d’aller chercher une orange dans la cuisine.
+
+En revenant, il hésite encore à envoyer la question sèche. Il efface le brouillon et se propose d’écrire plus tard une invitation claire pour la semaine. Le soir lui paraît toujours long. Il finit de peler l’orange et relance le morceau qu’il avait arrêté pour regarder l’écran.
+
+Julien finit par écrire qu’il était en train de dîner et demande si Adrien veut venir courir cette semaine. Adrien a encore envie de demander pourquoi il n’avait pas prévenu. Il lui répond qu’il est libre jeudi, puis remet le téléphone à côté du verre.

@@ -30,7 +30,11 @@ Elle écrit à Simon qu’elle a un problème à la boutique. Il demande s’il 
 
 ## La honte peut changer la façon de lire un message
 
-Les crises de boulimie sont souvent vécues avec une détresse qui persiste ensuite. La honte peut colorer l’idée que l’on se fait de soi et de ce que les autres vont remarquer. Victoire imagine un jugement à partir d’une offre de trajet. Elle voudrait pouvoir écouter Simon sans repasser son dimanche dans sa tête. Dans les difficultés alimentaires, le retentissement social peut commencer par ces choix discrets de se cacher, d’annuler ou de se montrer disponible malgré l’effort demandé. Une personne peut aussi préférer du calme après une journée éprouvante. Ce qui intéresse le suivi, c’est la manière dont l’isolement ou les justifications prennent de la place au fil du temps et ce que la personne aimerait retrouver.
+Les crises de boulimie sont souvent vécues avec une détresse qui persiste ensuite. La honte peut colorer l’idée que l’on se fait de soi et de ce que les autres vont remarquer.
+
+## Comment cette difficulté se manifeste
+
+Victoire imagine un jugement à partir d’une offre de trajet. Elle voudrait pouvoir écouter Simon sans repasser son dimanche dans sa tête. Dans les difficultés alimentaires, le retentissement social peut commencer par ces choix discrets de se cacher, d’annuler ou de se montrer disponible malgré l’effort demandé. Une personne peut aussi préférer du calme après une journée éprouvante. Ce qui intéresse le suivi, c’est la manière dont l’isolement ou les justifications prennent de la place au fil du temps et ce que la personne aimerait retrouver.
 
 ## Dire l’effet du jour avant de décider de tout raconter
 
@@ -39,8 +43,3 @@ Victoire a plusieurs questions distinctes. Elle cherche ce qu’elle a envie de 
 ## Écouter le premier morceau
 
 Simon répond qu’elle peut venir pour écouter le premier morceau et repartir quand elle veut. Il a encore envie de retrouver les deux versions. Victoire marche jusqu’à chez lui avec le disque sous le bras. Quand il lui ouvre, elle lui montre la déchirure de sa pochette et lui demande s’il se souvient du jour où ils l’ont achetée. Elle gardera la question du premier message pour Nora.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et FFAB, Boulimie et hyperphagie boulimique, recommandations de bonne pratique](https://www.has-sante.fr/jcms/c_2581436/fr/boulimie-et-hyperphagie-boulimique)

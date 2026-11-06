@@ -32,7 +32,11 @@ Noémie a reçu le diagnostic de trouble obsessionnel compulsif d’une clinicie
 
 Dans la CIM-11, le trouble obsessionnel compulsif, ou TOC, correspond au code 6B20. Des obsessions persistantes, des compulsions persistantes ou les deux peuvent être présentes. Une obsession est une pensée, une image ou une impulsion qui revient et s’impose, souvent avec une forte gêne. Une compulsion est un acte répété ou une opération mentale que la personne se sent poussée à accomplir, parfois selon une règle rigide. Elle peut chercher à prévenir un malheur, à apaiser un doute ou à obtenir la sensation que quelque chose est enfin terminé.
 
-La clinicienne tient compte du temps pris, de la souffrance et des effets sur la vie de la personne. Noémie peut produire un registre exact et consacrer tout de même une part importante de son énergie à vérifier après l’avoir rempli. Les conséquences se voient aussi dans le délai de ses réponses, les conversations qu’elle perd en route et l’effort qu’elle fournit pour finir une journée ordinaire. Le diagnostic s’appuie sur une évaluation clinique. La scène du chariot montre une partie de ce que Noémie a pu décrire lors de la sienne.
+La clinicienne tient compte du temps pris, de la souffrance et des effets sur la vie de la personne.
+
+## Comment cette difficulté se manifeste
+
+Noémie peut produire un registre exact et consacrer tout de même une part importante de son énergie à vérifier après l’avoir rempli. Les conséquences se voient aussi dans le délai de ses réponses, les conversations qu’elle perd en route et l’effort qu’elle fournit pour finir une journée ordinaire. Le diagnostic s’appuie sur une évaluation clinique. La scène du chariot montre une partie de ce que Noémie a pu décrire lors de la sienne.
 
 ## Faire entrer une scène de travail dans le suivi
 
@@ -43,8 +47,3 @@ Pour sa prochaine consultation, elle peut raconter la scène dans cet ordre et m
 ## La carte qui ouvrira la visite
 
 Noémie montre le chemin de halage sur la reproduction et propose d’en faire la première étape de la visite. Aïcha retourne le grand carton pour y inscrire leur choix. La boîte attend le rangement prévu avec les autres pièces. En repartant, Noémie écrit dans son carnet de rendez-vous « la cote et les rectangles ». Elle garde aussi une question pour Aïcha. Sur la carte, à quoi pouvait bien servir cette porte qui ouvrait directement sur la berge ?
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG31, prise en charge du TOC](https://www.nice.org.uk/guidance/cg31/chapter/Recommendations)

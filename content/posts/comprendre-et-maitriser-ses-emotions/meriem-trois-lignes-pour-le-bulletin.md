@@ -31,7 +31,11 @@ Salomé garde son stylo en l’air. Meriem a presque envie de donner une anecdot
 
 ## L’effort de confiance derrière une demande de confidence
 
-Les difficultés de confiance et la honte peuvent rendre le partage d’informations particulièrement coûteux pour une personne qui vit avec un stress post-traumatique complexe. Le fait d’en dire peu sur sa vie peut aussi être une simple préférence ; chacun choisit ce qu’il souhaite rendre public. Meriem commence à préparer des explications alors que la demande de Salomé tient en une phrase. L’anticipation dit quelque chose de son vécu. Son droit de répondre, de limiter une citation ou de passer la question tient à l’échange en cours, comme pour n’importe qui.
+Les difficultés de confiance et la honte peuvent rendre le partage d’informations particulièrement coûteux pour une personne qui vit avec un stress post-traumatique complexe. Le fait d’en dire peu sur sa vie peut aussi être une simple préférence ; chacun choisit ce qu’il souhaite rendre public.
+
+## Comment cette difficulté se manifeste
+
+Meriem commence à préparer des explications alors que la demande de Salomé tient en une phrase. L’anticipation dit quelque chose de son vécu. Son droit de répondre, de limiter une citation ou de passer la question tient à l’échange en cours, comme pour n’importe qui.
 
 Le NICE recommande de prévoir du temps pour construire la confiance dans les soins quand les besoins sont complexes. Dans le bulletin, l’enjeu est différent : Meriem peut choisir les mots utiles pour accueillir du monde. Elle peut aussi indiquer qu’une question sur le projet lui convient mieux. Salomé peut faire son travail avec les horaires, la façon dont on reçoit un patron et une phrase sur le tissu qu’on a déjà chez soi. Les gens sauront à quoi s’attendre en arrivant.
 
@@ -44,8 +48,3 @@ La photo demande une décision à part. Meriem est prête à discuter d’une ph
 ## La phrase sur le rideau
 
 Meriem propose : « La pochette a un fond de pantalon, un devant de rideau et une poche taillée dans la dernière chute. » Salomé demande si elle peut signer la phrase avec son prénom. Meriem dit oui pour cette phrase, une fois le texte relu. Salomé raye la question personnelle. Pour l’image, elle suggère que Rémi passe au prochain atelier en fin de séance ; Meriem précise qu’elle décidera sur place et que la discussion se limitera à une photo d’objet. Salomé écrit les deux conditions sur sa feuille. Meriem encadre l’heure de l’échange et recopie la date sur le tableau.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

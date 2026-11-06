@@ -104,5 +104,3 @@ La récupération se soutient par des appuis différents selon les obstacles. Ma
 Une amélioration partielle mérite d'être reconnue sans devenir la preuve que tout est réglé. Le soutien n'a pas pour fonction de rendre acceptables toutes les contraintes. Il peut aussi aider à les décrire et à demander des changements plus larges.
 
 Un médecin et le service de prévention et de santé au travail peuvent accompagner des difficultés persistantes de sommeil ou de fatigue. Si la demande d'aide elle-même devient trop coûteuse, dites-le à un professionnel ou à une personne de confiance : cet obstacle fait partie de la situation à examiner.
-
-Sources : [INRS, rôle de la prévention dans les horaires atypiques](https://www.inrs.fr/risques/travail-horaires-atypiques/demarche-de-prevention.html) ; [INRS, suivi médical des salariés concernés](https://www.inrs.fr/risques/travail-horaires-atypiques/suivi-medical.html).

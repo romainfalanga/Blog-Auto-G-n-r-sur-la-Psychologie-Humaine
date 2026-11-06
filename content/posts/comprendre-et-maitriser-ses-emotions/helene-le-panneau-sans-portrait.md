@@ -33,6 +33,8 @@ Hélène prend le bordereau. Elle avait envie que les gens sachent qui a dessin�
 
 Donner son accord pour montrer un travail ne vaut pas accord pour raconter sa vie. Hélène veut être reconnue pour ses panneaux. Elle peut préférer qu’une lettre montre le résultat et explique les essais, sans publier sa photo ni évoquer l’accompagnement. Elle peut aussi attendre de voir ce qu’elle installe pour savoir si elle accepte la photo des panneaux. Son refus est une information suffisante pour ne pas préparer le portrait comme prévu.
 
+## Comment cette difficulté se manifeste
+
 La HAS recommande de reconnaître les demandes et les refus de la personne et de lui laisser une prise réelle sur la décision. Lorsque plusieurs propositions arrivent à la fois, on peut les reprendre séparément. L’OMS décrit des profils très variables dans le TDI : demander un délai ou l’appui de quelqu’un à une réunion ne donne pas d’indication générale sur les choix que la personne peut faire.
 
 ## Revenir au sujet pour lequel l’appui est demandé
@@ -44,9 +46,3 @@ Il faut ensuite obtenir les faits utiles : Tannerie est bien desservi, le chemin
 ## La case photo reste vide
 
 Maud écrit « pas de portrait » sur son propre exemplaire et remet l’imprimé dans sa chemise. Hélène propose qu’elles regardent la légende après le deuxième essai prévu vendredi après-midi. Pour le trajet, Ilyes peut venir la chercher le vendredi matin à l’arrêt Tannerie, du côté de la médiathèque. Hélène accepte qu’il marche avec elle de là jusqu’à la porte bleue. Elle veut faire la partie en bus à sa façon. Sur le bordereau, elle retrouve le code des petits bols qu’elle comptait ajouter au rayon. Leur caisse est encore au dépôt. Elle demande à Maud de la faire venir vendredi et réserve aux bols le bout d’étagère qu’elle avait mesuré la veille.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé, TDI : autodétermination, participation et citoyenneté (volet 1)](https://www.has-sante.fr/upload/docs/application/pdf/2022-09/02_tdi_rbpp_autodetermination.pdf)
-- [Haute Autorité de santé, TDI : travail et vie active (volet 2)](https://www.has-sante.fr/upload/docs/application/pdf/2025-11/dir7/tdi_emploi_volet2.pdf)

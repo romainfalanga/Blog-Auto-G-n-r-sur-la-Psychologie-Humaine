@@ -31,7 +31,11 @@ Depuis quelque temps, Clémence se fatigue plus vite dans des trajets qu’elle 
 
 ## Faire évaluer un changement physique
 
-Une modification inhabituelle de l’état physique mérite d’être signalée aux professionnels qui suivent la personne. Le NICE recommande que le suivi spécialisé tienne compte de la santé physique, de la santé psychique et des risques éventuels. Clémence peut décrire depuis quand elle ressent la fatigue et donner l’exemple du trajet vers l’amphithéâtre. Son équipe pourra lui poser des questions et lui indiquer l’évaluation adaptée. Elle ne peut pas déterminer seule la cause de ce changement ou ce qu’il faut faire ensuite. Si une situation devient urgente, elle utilise le recours indiqué pour obtenir une aide sans attendre le prochain rendez-vous.
+Une modification inhabituelle de l’état physique mérite d’être signalée aux professionnels qui suivent la personne. Le NICE recommande que le suivi spécialisé tienne compte de la santé physique, de la santé psychique et des risques éventuels.
+
+## Comment cette difficulté se manifeste
+
+Clémence peut décrire depuis quand elle ressent la fatigue et donner l’exemple du trajet vers l’amphithéâtre. Son équipe pourra lui poser des questions et lui indiquer l’évaluation adaptée. Elle ne peut pas déterminer seule la cause de ce changement ou ce qu’il faut faire ensuite. Si une situation devient urgente, elle utilise le recours indiqué pour obtenir une aide sans attendre le prochain rendez-vous.
 
 ## Rester en lien avec le cours
 
@@ -40,8 +44,3 @@ Le suivi peut tenir compte des études et de la vie sociale. Clémence peut dema
 ## Le catalogue reste à la bibliothèque
 
 Depuis le hall, Clémence appelle le contact convenu. Elle décrit le palier, la fatigue inhabituelle et ce qu’elle a eu du mal à suivre en cours. Une professionnelle lui répond et fixe un point pour faire évaluer la situation. Clémence écrit ensuite à sa camarade pour accepter le créneau du catalogue. Elle ne sait pas encore quelle image elle retrouvera en premier. Elle inscrit le titre du document à côté de la référence de son film.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG69, repérage et prise en charge des troubles des conduites alimentaires](https://www.nice.org.uk/guidance/ng69/chapter/recommendations)

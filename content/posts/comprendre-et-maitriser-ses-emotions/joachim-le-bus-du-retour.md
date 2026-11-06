@@ -31,7 +31,11 @@ Les portes du premier bus s’ouvrent. Joachim remet son appareil dans sa housse
 
 ## Ce que plusieurs lieux peuvent avoir en commun
 
-L’agoraphobie concerne la peur marquée de plusieurs situations où s’éloigner ou obtenir de l’aide semblerait difficile en cas de malaise, de panique ou d’autres difficultés redoutées. Une file, un cinéma et un trajet loin de chez soi peuvent ainsi susciter une peur semblable malgré leurs différences. Le scénario redouté et les conditions du lieu comptent autant que son nom. Dans le cas de Joachim, le bus qu’il s’apprête à prendre est presque vide. Le retour lui paraît déjà difficile parce qu’il imagine qu’au moment où il aurait besoin de sortir, l’allée serait occupée.
+L’agoraphobie concerne la peur marquée de plusieurs situations où s’éloigner ou obtenir de l’aide semblerait difficile en cas de malaise, de panique ou d’autres difficultés redoutées. Une file, un cinéma et un trajet loin de chez soi peuvent ainsi susciter une peur semblable malgré leurs différences. Le scénario redouté et les conditions du lieu comptent autant que son nom.
+
+## Comment cette difficulté se manifeste
+
+Dans le cas de Joachim, le bus qu’il s’apprête à prendre est presque vide. Le retour lui paraît déjà difficile parce qu’il imagine qu’au moment où il aurait besoin de sortir, l’allée serait occupée.
 
 Un professionnel regarde la durée, la répétition et les effets de la difficulté dans la vie de la personne. Rater un bus un matin peut avoir bien des explications. Chez Joachim, la crainte qu’il décrit a aussi affecté ses rendez-vous, ses courses et les moments passés avec sa fille. C’est au cours de son suivi, bien avant ce samedi, que le diagnostic a pris place.
 
@@ -44,9 +48,3 @@ Diego peut décider s’il a encore envie d’aller aux Aulnes aujourd’hui. La
 ## La photo qui attend
 
 Joachim demande à Diego de prendre le bus suivant s’il veut faire la promenade. Il lui propose de laisser le panneau pour un autre jour. En rentrant à pied, il s’arrête devant l’angle de la place où commencera la carte. Une plaque indique le nom de la rue en lettres presque effacées. Il photographie ce que les passants verront en arrivant de l’atelier, puis envoie l’image à Diego avec une phrase sur le point de départ.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, présentation de l’agoraphobie](https://www.nhs.uk/mental-health/conditions/agoraphobia/)
-- [NHS, manifestations de l’agoraphobie](https://www.nhs.uk/mental-health/conditions/agoraphobia/symptoms/)

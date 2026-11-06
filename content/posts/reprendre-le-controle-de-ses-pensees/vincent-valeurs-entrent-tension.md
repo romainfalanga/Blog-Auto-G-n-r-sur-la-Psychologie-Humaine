@@ -94,5 +94,3 @@ Quand des valeurs importantes entrent en tension, la décision demande de reconn
 Vincent ne réconcilie pas parfaitement solidarité et apprentissage. Il choisit, accepte une déception et conserve une participation précise sans prétendre qu’elle remplace tout. Cette façon de décider peut laisser du regret et préserver la discussion. La cohérence se construit aussi dans la manière d’assumer les conséquences et de revoir les prochains engagements.
 
 Si les choix provoquent une culpabilité durable, des conflits répétitifs ou une impression de ne jamais pouvoir compter dans la relation, un psychologue peut aider à clarifier les règles et les attentes. Des appuis pratiques peuvent aussi élargir les possibilités. Vous n’avez pas à résoudre seul une incompatibilité créée en partie par des horaires, des moyens ou des services insuffisants.
-
-Sources : [Shalom Schwartz, présentation de la théorie des valeurs](https://scholarworks.gvsu.edu/orpc/vol2/iss1/11/).

@@ -30,7 +30,11 @@ Anaïs pose trois tasses devant elle et lui demande laquelle devrait aller sur l
 
 ## Quand un résultat décevant semble dire ce qu’on vaut
 
-Quand on reprend une activité qui compte, un résultat imprévu peut soulever une question plus large sur ce qu’on se croit encore capable de faire. Diane voit une forme qu’elle aurait voulu autrement et pense aussitôt à sa place dans l’exposition. Elle a le droit de trouver le bol raté à certains endroits. Elle peut aussi se donner le temps de regarder comment il se présente à côté de la carafe. Dans le suivi, elle parle de ce qu’elle retrouve et de ce qui lui coûte encore. Ici, elle veut examiner la pièce avec les mêmes yeux qu’elle vient de poser sur la tasse d’Anaïs.
+Quand on reprend une activité qui compte, un résultat imprévu peut soulever une question plus large sur ce qu’on se croit encore capable de faire.
+
+## Comment cette difficulté se manifeste
+
+Diane voit une forme qu’elle aurait voulu autrement et pense aussitôt à sa place dans l’exposition. Elle a le droit de trouver le bol raté à certains endroits. Elle peut aussi se donner le temps de regarder comment il se présente à côté de la carafe. Dans le suivi, elle parle de ce qu’elle retrouve et de ce qui lui coûte encore. Ici, elle veut examiner la pièce avec les mêmes yeux qu’elle vient de poser sur la tasse d’Anaïs.
 
 ## Regarder les pièces à la hauteur des visiteurs
 
@@ -39,8 +43,3 @@ Diane demande à Maud de vérifier que le pied du bol repose bien à plat sur le
 ## Le bol reste près de la carafe
 
 Diane rapproche le bol de la carafe sans les laisser se toucher. Avec cet écart, les deux nuances lui plaisent ensemble. « Je garde les deux. Il faudra juste que la tablette soit assez basse. » Maud le note sur la fiche. Diane prend une photo à la hauteur où elle aimerait qu’on puisse les regarder. Dans le bus, elle trouve dans son sac une poire achetée le dimanche avec Rémi. Elle l’avait oubliée à côté de son tablier. Elle lui écrit que les poires sont mûres et que la carafe a une couleur qu’elle n’avait pas prévue. Puis elle mange la poire par petites bouchées pour ne pas se mettre de jus sur la manche.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG178, évaluation et accompagnement après un premier épisode psychotique chez l’adulte](https://www.nice.org.uk/guidance/cg178/evidence/full-guideline-pdf-490503565)

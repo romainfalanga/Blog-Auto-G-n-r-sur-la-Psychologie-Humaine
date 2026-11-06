@@ -32,7 +32,11 @@ Gasparde pose un biscuit sur le bord de sa soucoupe. Elle demande qui a proposé
 
 Il est possible de préciser sa part d’un projet alors qu’on se sent encore menacé dans sa place. Gasparde pourrait accepter une longue permanence pour montrer qu’elle reste utile. Quand elle pose sa question, elle découvre que la proposition a déjà une volontaire pour une partie du travail. Elles peuvent parler du reste. Son envie de garder sa place au club et sa peur d’en être écartée sont deux éléments qu’elle éprouve ensemble.
 
-La CIM-11 décrit un retentissement qui peut se concentrer autour du sujet des convictions. Une réunion sur le partage des réservations concerne directement les inquiétudes de Gasparde. Son équipe est la mieux placée pour reprendre ce qu’elle ressent dans la durée. Au club, Gasparde peut discuter du temps et des moyens requis comme le ferait une autre bénévole.
+La CIM-11 décrit un retentissement qui peut se concentrer autour du sujet des convictions.
+
+## Comment cette difficulté se manifeste
+
+Une réunion sur le partage des réservations concerne directement les inquiétudes de Gasparde. Son équipe est la mieux placée pour reprendre ce qu’elle ressent dans la durée. Au club, Gasparde peut discuter du temps et des moyens requis comme le ferait une autre bénévole.
 
 ## Donner un nom à chaque tâche
 
@@ -43,9 +47,3 @@ Basile peut vérifier avec Gasparde qu’il a compris sa limite, puis la répét
 ## Un prénom par tâche
 
 Sur la feuille du comité, Gasparde écrit « dimanche, dix à onze, essai unique ». Nathalie met son prénom devant l’accueil. Basile propose de prendre le téléphone et de prévenir Nathalie si le terrain doit rester fermé. Gasparde garde l’affiche et propose qu’ils reviennent sur l’essai mardi. Elle reprend sa ligne du samedi. Son prénom y est encore, juste devant dix heures trente. En récupérant le registre, Basile lui demande s’il peut installer le croquis de Levent le lendemain. Elle lui tend la version mise au propre par Dounia et lui demande de la placer assez bas pour qu’on la lise depuis la rue.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NSW Health, communiquer avec une personne qui vit une expérience psychotique](https://www.health.nsw.gov.au/mentalhealth/psychosocial/strategies/Pages/communicating-psychosis.aspx)
-- [OMS, Guide d’intervention mhGAP, version 2.0 : principes de soins et suivi des psychoses](https://www.who.int/publications/i/item/9789241549790)

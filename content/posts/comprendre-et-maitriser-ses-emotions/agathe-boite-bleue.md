@@ -32,7 +32,11 @@ Elle revint vers Camille avec un sachet de pois. « Tu me montres où celui-là 
 
 ## Entendre les mots, retrouver l’ordre
 
-Dans le trouble développemental du langage, comprendre une phrase entière peut demander plus d’effort que reconnaître les mots qu’elle contient. Agathe entend les éléments familiers, mais l’ordre des actions et l’exception qui vient au milieu lui échappent dans cette consigne. Comprendre le message relève ici du langage réceptif. Le mot « panier » est à sa portée ; il ne lui dit pas à quel moment déplacer le panier. Un oubli de ce genre peut arriver à tout le monde. Le diagnostic déjà connu d’Agathe s’appuie sur des difficultés durables et leur retentissement dans plusieurs situations, appréciés par des professionnels. Elle n’a pas à expliquer ce bilan chaque fois qu’elle demande qu’on lui montre quelque chose.
+Dans le trouble développemental du langage, comprendre une phrase entière peut demander plus d’effort que reconnaître les mots qu’elle contient. Agathe entend les éléments familiers, mais l’ordre des actions et l’exception qui vient au milieu lui échappent dans cette consigne. Comprendre le message relève ici du langage réceptif. Le mot « panier » est à sa portée ; il ne lui dit pas à quel moment déplacer le panier. Un oubli de ce genre peut arriver à tout le monde.
+
+## Comment cette difficulté se manifeste
+
+Le diagnostic déjà connu d’Agathe s’appuie sur des difficultés durables et leur retentissement dans plusieurs situations, appréciés par des professionnels. Elle n’a pas à expliquer ce bilan chaque fois qu’elle demande qu’on lui montre quelque chose.
 
 ## Faire apparaître la première étape
 
@@ -41,9 +45,3 @@ Au cabanon, l’objet permet de raccrocher les mots à quelque chose qu’on peu
 ## À côté de la ficelle
 
 Camille dégagea une place près de la ficelle. Agathe y glissa la boîte. Elle dessina les deux étagères sur un carton pris sous le panier et fit une tache bleue à côté du rouleau. Dehors, Inès lui dit qu’on ne saurait pas quel mur regarder avec son carton. Agathe entra de nouveau et regarda depuis la porte. Inès avait raison, il y avait deux étagères aussi en face. Elle ajouta le portillon, puis le banc, qui ne bougeait jamais. En bas, il restait la place pour les sachets. Elle demanda à Inès de revenir le jeudi suivant : elles iraient regarder ce qu’il y avait vraiment à conserver.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [American Speech-Language-Hearing Association, Spoken Language Disorders](https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/)
-- [Haute Autorité de santé, Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2822893/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages)

@@ -31,7 +31,11 @@ Adèle tire le vêtement de l’autre côté de la chaise pour que la manche n�
 
 ## Une difficulté sensorielle qui a des conséquences
 
-Les difficultés sensorielles de l’ARFID concernent les caractéristiques des aliments et la façon dont la personne les éprouve au moment de manger. On peut aimer manipuler certaines matières pour un travail manuel et rencontrer des difficultés avec des textures en bouche. Le plaisir qu’Adèle prend à retourner sa veste ne renseigne donc pas sur ce qu’elle pourrait manger. Sa préférence pour une nuance est un choix de dessin. Ce qui a conduit à son suivi tient au retentissement de sa restriction, évalué par l’équipe qui la connaît.
+Les difficultés sensorielles de l’ARFID concernent les caractéristiques des aliments et la façon dont la personne les éprouve au moment de manger. On peut aimer manipuler certaines matières pour un travail manuel et rencontrer des difficultés avec des textures en bouche.
+
+## Comment cette difficulté se manifeste
+
+Le plaisir qu’Adèle prend à retourner sa veste ne renseigne donc pas sur ce qu’elle pourrait manger. Sa préférence pour une nuance est un choix de dessin. Ce qui a conduit à son suivi tient au retentissement de sa restriction, évalué par l’équipe qui la connaît.
 
 Le poids et la silhouette ne motivent pas la restriction dans l’ARFID. Cette distinction concerne la raison de la restriction ; l’apparence d’une personne ne permet pas de la deviner. Un professionnel examine l’ensemble de la situation et tient aussi compte d’autres explications possibles lorsqu’il évalue un trouble alimentaire. Adèle peut choisir de ne pas détailler ces distinctions dans un premier échange au sujet de la sortie.
 
@@ -44,9 +48,3 @@ Ce choix laisse du temps pour formuler les besoins avec les soignants, sans dema
 ## Le curseur sur la dernière phrase
 
 Adèle remplace le passage sur le centre par une phrase : « J’aimerais qu’on voie ensemble ce qu’il faut prévoir pour les repas avant de confirmer ma place. » Elle demande d’ajouter qu’elle est déjà suivie. Eva relit et envoie le message après qu’Adèle a hoché la tête. Sur l’écran, il reste une copie dans les éléments envoyés. Adèle remet l’ordinateur devant sa mère et glisse un morceau de papier sous la couture bleue pour en tracer le contour. Elle s’occupera des derniers points de couture demain.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Hospices civils de Lyon — ARFID ou trouble évitant ou restrictif de la prise alimentaire](https://www.chu-lyon.fr/arfid)
-- [Maudsley Centre for Child and Adolescent Eating Disorders (NHS) — ARFID Service Frequently Asked Questions](https://mccaed.slam.nhs.uk/wp-content/uploads/2022/12/ARFID-Service-FAQs-Dec-22.pdf)

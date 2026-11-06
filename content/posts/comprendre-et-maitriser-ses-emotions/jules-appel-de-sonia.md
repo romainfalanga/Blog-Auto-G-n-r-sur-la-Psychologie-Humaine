@@ -32,6 +32,8 @@ Plus tard, au service d’urgence, Jules retrouve la carte « à dimanche » dan
 
 Une douleur thoracique brutale accompagnée d’une difficulté à respirer appelle une évaluation urgente. Certaines sensations peuvent se rencontrer pendant une attaque de panique et dans des problèmes physiques. La peur que Jules reconnaît ne suffit pas à déterminer la cause de la douleur. Dans cette scène, Sonia appelle les secours dès qu’il lui décrit les signes. Elle peut indiquer le lieu, le début des symptômes et les changements qu’elle observe. Les professionnels décident de la conduite à tenir et des examens utiles.
 
+## Comment cette difficulté se manifeste
+
 Jules a commencé à parler d’épisodes antérieurs avec son médecin. Ce renseignement peut aider l’équipe d’urgence à comprendre le contexte. Il a aussi le droit d’insister sur ce qu’il ressent différemment aujourd’hui. Un apaisement, l’effet de la présence de Sonia ou la fin de la douleur ne permettent pas à eux seuls de conclure à une attaque de panique.
 
 ## Préparer la suite après l’évaluation urgente
@@ -43,9 +45,3 @@ Au travail, Sonia peut lui dire comment la commande a été reprise et lui laiss
 ## La carte au coin rond
 
 L’équipe lui explique le suivi à prévoir et lui remet les informations destinées à son médecin. Sonia lui envoie un message pour dire que la commande a été terminée et qu’elle rappellera le lendemain pour l’organisation du stand. Jules pose la petite carte près des papiers du rendez-vous. Il écrit à Solange qu’il lui enverra un dessin plus tard dans la semaine. Pour le moment, il veut lui demander si elle a vu la photo du croquis des renoncules au ruban bleu.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)
-- [Assurance Maladie, reconnaître une douleur thoracique qui nécessite des soins urgents](https://www.ameli.fr/assure/sante/themes/douleur-thoracique/reconnaitre-agit-urgence)

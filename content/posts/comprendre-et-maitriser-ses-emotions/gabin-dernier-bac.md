@@ -32,7 +32,11 @@ Nora a prévenu qu’elle travaille et qu’elle gardera son téléphone au vest
 
 ## Le plan après un changement d’horaire
 
-Une situation vulnérable peut se présenter autrement que lors de la préparation du plan. Le NICE recommande de travailler avec la personne sur les situations à risque et sur les soutiens qu’elle pourra mobiliser. Chez Gabin, le retour tardif, l’atelier annulé et le rappel du versement se trouvent réunis. Il peut s’appuyer sur le repère choisi avec l’intervenante quand revient l’idée de régler la difficulté en jouant. Ensuite, il pourra lui expliquer ce qui a rendu le moment plus difficile à traverser et ce qui a été possible malgré le changement d’horaire. Le plan pourra être revu avec l’équipe.
+Une situation vulnérable peut se présenter autrement que lors de la préparation du plan. Le NICE recommande de travailler avec la personne sur les situations à risque et sur les soutiens qu’elle pourra mobiliser.
+
+## Comment cette difficulté se manifeste
+
+Chez Gabin, le retour tardif, l’atelier annulé et le rappel du versement se trouvent réunis. Il peut s’appuyer sur le repère choisi avec l’intervenante quand revient l’idée de régler la difficulté en jouant. Ensuite, il pourra lui expliquer ce qui a rendu le moment plus difficile à traverser et ce qui a été possible malgré le changement d’horaire. Le plan pourra être revu avec l’équipe.
 
 ## Faire une demande qui reste possible quand Nora travaille
 
@@ -41,8 +45,3 @@ Gabin peut utiliser le contact prévu et décrire la situation en peu de mots. S
 ## Un message sur le quai
 
 Gabin laisse son prénom et explique qu’il veut reprendre le soir où il sort plus tard que prévu. Il note aussi le rappel de versement qui l’a arrêté sur le quai. Une fois dans le bus, il demande à la bénévole quel jour l’établi sera libre pour vérifier la chaise. Il n’a plus envie de tout régler ce soir. Il garde la question du montant pour le rendez-vous budgétaire et décide de rentrer directement.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG248, repérage et accompagnement des dommages liés aux jeux d’argent](https://www.nice.org.uk/guidance/ng248/chapter/recommendations)

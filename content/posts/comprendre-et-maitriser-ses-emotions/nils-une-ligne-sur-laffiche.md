@@ -29,7 +29,11 @@ Maud reprend la maquette avec eux. Elle supprime la phrase, puis attend. Nils di
 
 ## Être présenté pour ce qu’on apporte
 
-La stigmatisation liée à la schizophrénie peut limiter la place que des personnes prennent au travail ou dans la vie du quartier. Elle peut aussi peser sur le choix d’en parler. Ici, la première phrase de l’affiche ne nomme aucun diagnostic. Elle donne malgré tout à Nils un rôle qu’il n’a pas choisi et qu’il ne veut pas avoir à expliquer. Il tient à signer la chronique, et la précision du texte lui importe pour une autre raison : il veut qu’on sache quelle question lui poser.
+La stigmatisation liée à la schizophrénie peut limiter la place que des personnes prennent au travail ou dans la vie du quartier. Elle peut aussi peser sur le choix d’en parler. Ici, la première phrase de l’affiche ne nomme aucun diagnostic.
+
+## Comment cette difficulté se manifeste
+
+Elle donne malgré tout à Nils un rôle qu’il n’a pas choisi et qu’il ne veut pas avoir à expliquer. Il tient à signer la chronique, et la précision du texte lui importe pour une autre raison : il veut qu’on sache quelle question lui poser.
 
 Une personne peut souhaiter témoigner de son expérience de santé, aujourd’hui ou plus tard. Elle peut aussi s’en tenir à son activité. Nils choisit ce qui sera dit de sa participation dans cette émission. Il n’a rien à raconter à Jo pour justifier la modification de l’affiche. Maud reconnaît qu’elle a entendu « rester discret » là où Nils demandait à être présenté autrement.
 
@@ -42,9 +46,3 @@ Jo peut lui proposer une place dans la première émission du mois, le troisièm
 ## Les tomates au-dessus du texte
 
 Jo imprime la maquette pour voir si la phrase tient en entier. Une tomate a perdu son ombre ; le pied du « j » de « jardinage » est encore lisible. Nils relit le texte et donne son accord pour cette version. Maud lui propose ensuite de répéter vendredi en fin de matinée. Il dit oui et note l’heure dans son agenda avant de ranger le téléphone. En sortant, il voit Jo coller la feuille au-dessus du bac à câbles. Depuis le couloir, on arrive à lire son prénom sans s’approcher de la porte.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE, psychose et schizophrénie chez l’adulte (CG178)](https://www.nice.org.uk/guidance/cg178/chapter/recommendations)
-- [OMS, fiche d’information sur la schizophrénie](https://www.who.int/news-room/fact-sheets/detail/schizophrenia)

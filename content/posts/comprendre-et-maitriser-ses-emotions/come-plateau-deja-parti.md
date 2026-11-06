@@ -31,7 +31,11 @@ Au comptoir, on lui demande s’il cherche seulement cette couleur. « Non, la t
 
 ## Le jeudi réussi et le mercredi manqué
 
-Dans le trouble du jeu vidéo, les difficultés peuvent revenir par périodes. Jeudi, la petite carte avait une fin commune aux trois joueurs. Côme est parti au moment qu’il avait choisi. Mardi, il joue seul et les tentatives pour retrouver un passage occupent le temps qu’il voulait réserver au sommeil. Le guide de l’OMS décrit notamment la difficulté de changer sa pratique malgré des tentatives répétées. Le moment où Côme a eu besoin de changer n’est pas le même que jeudi.
+Dans le trouble du jeu vidéo, les difficultés peuvent revenir par périodes. Jeudi, la petite carte avait une fin commune aux trois joueurs. Côme est parti au moment qu’il avait choisi. Mardi, il joue seul et les tentatives pour retrouver un passage occupent le temps qu’il voulait réserver au sommeil. Le guide de l’OMS décrit notamment la difficulté de changer sa pratique malgré des tentatives répétées.
+
+## Comment cette difficulté se manifeste
+
+Le moment où Côme a eu besoin de changer n’est pas le même que jeudi.
 
 Le rendez-vous perdu a une conséquence sur le projet : le bois qu’il espérait n’est plus disponible. Le fait que Côme soit déçu ne dit pas, à lui seul, ce qui se passera lors de la prochaine partie. Il peut garder cette déception et parler au service du déroulement de la soirée, sans attendre de savoir s’il se répétera exactement.
 
@@ -44,9 +48,3 @@ Quand il imagine raconter l’épisode à Florian, il voudrait commencer par se 
 ## Depuis le banc, avant le bus
 
 Il téléphone au secrétariat depuis le banc. « J’ai joué alors que je voulais arrêter et j’ai manqué un rendez-vous ce matin. Je voudrais en parler avant la date, si c’est possible. » La personne prend sa demande pour l’équipe. Un peu plus tard, elle lui propose une place qui s’est libérée vendredi midi. Il vérifie son service et accepte. À Nadège, il écrit seulement que le plateau est parti et qu’il faudra attendre un arrivage. Il laisse la photo du plateau sombre dans la note où il a aussi gardé celle du carton et ses dimensions.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Trouble du jeu vidéo : questions et réponses](https://www.who.int/fr/news-room/questions-and-answers/item/gaming-disorder)
-- [CHU de Nantes, Addictologie : consultations spécialisées](https://www.chu-nantes.fr/venir-en-consultation-45)

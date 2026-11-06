@@ -32,7 +32,11 @@ Le jour venu, Nour trouve la porte fermée. Sur l’invitation, le changement a 
 
 Connaître le déroulement d’une réunion à l’avance peut donner le temps de préparer une contribution. Pour Nour, les informations les plus utiles sont le but de l’échange, les documents qui seront examinés et la manière dont les réponses seront recueillies. Un ordre du jour très détaillé peut laisser ces points flous. Elle a pu demander ce que signifiait la rubrique « Divers » et retrouver ensuite sa question dans le bon échange.
 
-L’OMS décrit des difficultés possibles face aux changements imprévus dans l’autisme. Elles varient selon les personnes et les situations. Dans le cas de Nour, l’autre salle demande un déplacement et une installation différente. L’adresse envoyée en amont lui laisse du temps pour s’y rendre. Un changement annoncé peut encore l’affecter. Elle peut relire le point sur lequel le groupe travaille et utiliser l’écrit si cela lui demande moins d’effort à ce moment.
+L’OMS décrit des difficultés possibles face aux changements imprévus dans l’autisme. Elles varient selon les personnes et les situations.
+
+## Comment cette difficulté se manifeste
+
+Dans le cas de Nour, l’autre salle demande un déplacement et une installation différente. L’adresse envoyée en amont lui laisse du temps pour s’y rendre. Un changement annoncé peut encore l’affecter. Elle peut relire le point sur lequel le groupe travaille et utiliser l’écrit si cela lui demande moins d’effort à ce moment.
 
 ## Indiquer ce qui est fixé et ce qui peut bouger
 
@@ -43,8 +47,3 @@ Nour veut reprendre ce principe avec Fatou. Elles peuvent annoncer un rendez-vou
 ## Le crédit sous l’hirondelle
 
 La demande de Nour est acceptée pour une reproduction à montrer pendant la visite. Sa collègue lui note le crédit à faire figurer au bas de la feuille et lui demande de revenir la voir si elle souhaite utiliser l’image ailleurs. Nour ajoute cette précision près de sa traduction. À la pause, elle ouvre la carte avec les deux chemins tracés depuis le kiosque. Un des noms se confond avec un pli. Elle envoie à Joël, un pair autiste rencontré dans un atelier de gravure, une invitation à regarder la carte avec elle. Elle lui demande s’il préfère la recevoir avant ou en parler sur place.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG142, accompagnement des adultes autistes](https://www.nice.org.uk/guidance/cg142/chapter/Recommendations)

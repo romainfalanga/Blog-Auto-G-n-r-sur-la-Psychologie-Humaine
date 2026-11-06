@@ -32,7 +32,11 @@ En retournant Les Fenêtres, il trouve une date qui lui manque pour identifier u
 
 ## Comprendre l’ambivalence des souvenirs
 
-Un souvenir d’une personne morte peut susciter de l’affection, de la peine ou du désaccord pendant la même conversation. Blandine et Léon ont prêté attention à des voix différentes. Blandine suivait sa sœur et savait ce que lui coûtait un silence de Jeanne, à côté d’elle ; Léon essayait d’entendre l’ensemble. Ils peuvent confronter ces souvenirs pour comprendre une note sur le papier. Blandine garde aussi ce qu’elle sait de la dispute dans l’écharpe, que Léon n’a pas vécue.
+Un souvenir d’une personne morte peut susciter de l’affection, de la peine ou du désaccord pendant la même conversation. Blandine et Léon ont prêté attention à des voix différentes. Blandine suivait sa sœur et savait ce que lui coûtait un silence de Jeanne, à côté d’elle ; Léon essayait d’entendre l’ensemble. Ils peuvent confronter ces souvenirs pour comprendre une note sur le papier.
+
+## Comment cette difficulté se manifeste
+
+Blandine garde aussi ce qu’elle sait de la dispute dans l’écharpe, que Léon n’a pas vécue.
 
 Un échange heureux ou une discussion précise sur la musique ne fait pas disparaître les autres moments où le manque prend toute la place. Blandine conserve son intérêt pour le morceau et peut encore trouver très difficile de remettre la feuille qu’elle tient. La perspective d’un don réveille quelque chose de différent de leur discussion sur l’interprétation. Léon entend sa question et peut y répondre sans s’autoriser à en déduire où elle en est de son deuil.
 
@@ -45,8 +49,3 @@ L’échange prend plus de temps que prévu sur Le Pont. Blandine préfère arr�
 ## La chemise jaune repart avec elle
 
 Léon écrit sur un bout de papier l’emplacement du meuble et les deux titres. Blandine ajoute : « Lecture avec deux personnes, avant de décider. » Il évoque aussi un créneau jeudi de la semaine suivante près de la salle du chœur. Elle demande à garder l’option ouverte. En récupérant la chemise jaune, elle lui dit qu’il se trompe peut-être sur la voix qu’il entendait à la mesure neuf. Lui trouve possible que ce soit la sienne. Elle prend le papier avant de remettre son manteau.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS — Grief after bereavement or loss : vécu du deuil et soutien](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)

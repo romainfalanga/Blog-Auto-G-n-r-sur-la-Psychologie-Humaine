@@ -33,6 +33,8 @@ Une chaise racle le sol derrière elle. Une habituée lui demande si elle doit d
 
 Une reviviscence peut donner l’impression que ce qui s’est passé autrefois se produit à nouveau. Elle peut s’accompagner de sensations ou d’émotions très fortes, même en l’absence d’images nettes de ce qui est arrivé. Dans la scène, Meriem a brièvement la certitude qu’elle doit répondre à quelqu’un qui n’est pas dans la pièce. Se rappeler une situation en sachant qu’elle est passée, ou sursauter au bruit d’une chaise, peut être très désagréable sans correspondre à ce vécu.
 
+## Comment cette difficulté se manifeste
+
 Meriem connaît déjà le nom de son trouble de stress post-traumatique complexe. La CIM-11 y décrit le noyau du stress post-traumatique. Il associe reviviscences dans le présent, évitement des rappels et sentiment persistant de menace. S’y ajoutent des difficultés graves et durables à réguler ses émotions, un regard durablement dévalorisé sur soi et des difficultés à se sentir proche des autres. Le mot « complexe » désigne cet ensemble. Une réaction aussi vive que celle de Meriem ne permettrait, à elle seule, de conclure à aucun des deux diagnostics. À l’atelier, personne n’a besoin de trancher ce qui lui est arrivé pour reprendre la conversation.
 
 ## Mettre sur le tableau ce qui concerne l’atelier
@@ -44,8 +46,3 @@ Meriem garde pour son suivi ce qu’elle veut dire du retour de cette impression
 ## Le jeudi reste le jeudi
 
 L’habituée revient chercher son sac. Meriem lui dit qu’elle pourra déposer un patron sans laisser de numéro. Puis elle relit à voix haute ce qu’Ève a écrit : « Dépôt le jeudi, de 17 h 30 à 19 h. Échange un samedi matin, date affichée ici. » Elles impriment deux exemplaires. Meriem en prend un pour préparer sa pochette modèle ; elle a envie de savoir si quelqu’un peut la refaire en suivant seulement ses dessins. Quand Ève lui demande où coller l’autre, Meriem lui montre le coin du tableau qu’on voit depuis le banc, sans avoir à entrer dans la salle.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

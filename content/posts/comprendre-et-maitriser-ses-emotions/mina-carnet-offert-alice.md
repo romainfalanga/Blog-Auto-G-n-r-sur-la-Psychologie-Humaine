@@ -33,6 +33,8 @@ Alice arrive avec un cabas trop plein pour recevoir un autre paquet. Elle s’as
 
 Dans un lien qui compte, une réponse différée peut susciter des inquiétudes et des questions sur ce que l’autre pense. Mina peut ressentir cette inquiétude et laisser à Alice le temps de trouver où poser ses affaires. Elle peut lui demander ce qu’elle préfère faire du cadeau. Elle peut aussi garder pour une autre conversation les sujets qu’elle aimerait reprendre avec sa cousine.
 
+## Comment cette difficulté se manifeste
+
 Un suivi peut s’intéresser aux situations dans lesquelles cette incertitude revient et à ce que Mina veut essayer pour y faire face. Le carnet lui-même garde l’usage qu’Alice souhaite lui donner. Les deux cousines peuvent parler de la façon de se retrouver et continuer d’avoir des envies et des horaires différents.
 
 ## Ce que Mina tient à offrir
@@ -44,8 +46,3 @@ Dans cette scène, Mina peut aussi garder pour elle un projet de fabrication qui
 ## Une manche sur la première page
 
 Alice ouvre le paquet sur le banc. Elle passe la paume sur la couverture, puis demande à Mina si elle peut commencer tout de suite. Du fond du cabas, elle sort un crayon. Elle trace de biais une manche qu’elle devra reprendre le lendemain. Mina voit le trait passer près du bord qu’elle avait failli corriger et demande ce qui manque au costume. En repartant, Alice prend le carnet sous le bras. Mina garde le papier rouille et le mot qu’elle décidera peut-être d’écrire un jour.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG78, accompagnement des personnes présentant un profil borderline](https://www.nice.org.uk/guidance/cg78/chapter/Recommendations)

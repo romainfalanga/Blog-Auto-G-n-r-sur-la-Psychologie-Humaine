@@ -33,6 +33,8 @@ De retour chez lui, il étale les sachets sur la table. Le papier est humide là
 
 L’anxiété liée au regard des autres peut prendre du temps avant même qu’une situation ait lieu. Sacha prépare des façons d’entrer et se représente le ton qu’il aura. L’énergie dépensée sur le trottoir n’apparaîtra pas dans la liste des personnes présentes au café. Les sachets qui reviennent, la question qu’il ne posera pas et le détour qu’il fait pour éviter le comité donnent des indices sur ce que cette peur change pour lui. Un professionnel peut s’appuyer sur ces détails pour comprendre son quotidien et examiner la difficulté dans la durée.
 
+## Comment cette difficulté se manifeste
+
 La même décision extérieure peut avoir des raisons très différentes. Préférer un café tranquille à huit personnes autour d’une table est compréhensible. Sacha s’était déplacé exprès parce qu’il avait envie d’échanger avec quelqu’un. Il explique son départ par ce qu’il s’attendait à susciter chez les autres. C’est cette expérience, dans son contexte, qui peut être discutée au cabinet.
 
 ## Trouver une première porte d’entrée
@@ -44,8 +46,3 @@ Il peut également garder sous la main une situation à raconter si la conversat
 ## Une question au cabinet
 
 Sacha écrit : « J’ai le numéro donné par mon généraliste. Est-ce qu’on peut convenir par écrit de l’heure d’un premier échange ? » Deux jours après, la secrétaire lui propose un court appel avec la docteure Rigal. Sacha choisit l’heure où il sera chez lui. Ils conviennent ensuite d’un rendez-vous au cabinet ; il le note sur son calendrier et pose une enveloppe de pois de senteur sur la case. Le jour venu, il l’emporte et arrive à raconter pourquoi elle est encore dans sa poche.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG159, reconnaissance, évaluation et traitement du trouble d’anxiété sociale](https://www.nice.org.uk/guidance/cg159/resources/social-anxiety-disorder-recognition-assessment-and-treatment-pdf-35109639699397)

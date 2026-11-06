@@ -90,5 +90,3 @@ La progression ne se lit pas toujours dans la fluidité du dernier essai. Éloi 
 Vous pouvez demander ce que l'essai cherche à observer et quelle suite sera donnée au résultat. Une répétition utile doit permettre d'ajuster quelque chose. Elle peut être limitée, accompagnée et reprise plus tard. Le but est de construire une compétence, pas de prouver que vous pouvez continuer malgré toute fatigue ou toute confusion.
 
 Si les difficultés d'apprentissage provoquent une détresse persistante, un professionnel peut vous aider à en examiner les facteurs et les conséquences. Les formateurs peuvent également adapter les supports et les conditions de pratique. Vous avez le droit de demander un cadre où l'essai est possible, avec des limites claires et un traitement respectueux des erreurs.
-
-Sources : [Soderstrom et Bjork, distinction entre apprentissage et performance](https://pubmed.ncbi.nlm.nih.gov/25910388/) ; [Cepeda et ses collègues, pratique distribuée et mémoire verbale](https://pubmed.ncbi.nlm.nih.gov/16719566/).

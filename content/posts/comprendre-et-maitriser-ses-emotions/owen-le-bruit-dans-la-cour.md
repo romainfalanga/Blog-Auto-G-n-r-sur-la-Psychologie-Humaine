@@ -31,7 +31,11 @@ Lina regarde les deux essais sur l’ordinateur. Après le premier, elle sait po
 
 ## Ce que l’auditeur a compris
 
-On peut répondre au contenu d’une parole qui bégaie sans prendre chaque interruption pour une erreur à corriger. Les blocages peuvent se produire malgré une réplique apprise ; ils ne disent pas si le jeu d’acteur ou l’idée du film fonctionne. L’ASHA décrit des approches qui s’intéressent à l’efficacité de la communication et à la participation, au-delà de la seule réduction du bégaiement. Ici, il s’agit d’un essai de cinéma. Les deux écoutes donnent à Lina une place pour dire ce qui l’a intéressée et ce qui lui manque. Sa question sur la peur de se tromper concerne le personnage du film. Owen peut lui répondre comme auteur, et même découvrir qu’elle a entendu quelque chose qu’il n’avait pas prévu.
+On peut répondre au contenu d’une parole qui bégaie sans prendre chaque interruption pour une erreur à corriger. Les blocages peuvent se produire malgré une réplique apprise ; ils ne disent pas si le jeu d’acteur ou l’idée du film fonctionne. L’ASHA décrit des approches qui s’intéressent à l’efficacité de la communication et à la participation, au-delà de la seule réduction du bégaiement.
+
+## Comment cette difficulté se manifeste
+
+Ici, il s’agit d’un essai de cinéma. Les deux écoutes donnent à Lina une place pour dire ce qui l’a intéressée et ce qui lui manque. Sa question sur la peur de se tromper concerne le personnage du film. Owen peut lui répondre comme auteur, et même découvrir qu’elle a entendu quelque chose qu’il n’avait pas prévu.
 
 ## Garder la contrainte qui a permis l’essai
 
@@ -40,10 +44,3 @@ Nassim s’attendait à préférer la voix unique parce qu’elle explique vite 
 ## Le vote au dos des bandes
 
 Owen retourne les trois bandes et écrit « une » et « trois » sur deux coins. Ils choisissent à main levée. Nassim prend un moment, puis lève la main pour trois : à une voix, dit-il, le personnage qui cherche ne lui manquait pas. Il demande en échange qu’ils ne repartent pas filmer trois bancs. Owen entoure « trois » et remet les bandes dans la chemise de Lucile. Il lui demande si le sac peut rester au club jusqu’à la prochaine séance. Sur le chemin de la sortie, ils s’arrêtent tous les deux pour écouter le bac rouler derrière la porte. Le bruit est beaucoup moins fort que le leur.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [ASHA Practice Portal, bégaiement, bredouillement et fluence de la parole](https://www.asha.org/practice-portal/clinical-topics/fluency-disorders/)
-- [NIDCD (NIH), qu’est-ce que le bégaiement ?](https://www.nidcd.nih.gov/health/stuttering)
-- [Éduscol, modèles d’autorisation d’enregistrement et d’utilisation de l’image et de la voix](https://eduscol.education.gouv.fr/6231/protection-des-donnees-personnelles-et-assistance)

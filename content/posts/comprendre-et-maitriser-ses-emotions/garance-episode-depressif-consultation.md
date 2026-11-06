@@ -30,7 +30,11 @@ La psychiatre lui demande ce qui s’est passé entre les répétitions. Garance
 
 ## Une évaluation qui tient ensemble des expériences différentes
 
-Un épisode dépressif s’apprécie dans le temps et au regard de ses conséquences sur la vie de la personne. La psychiatre de Garance a repris ce qui s’est installé, son retentissement et les questions de sécurité. Un instant de plaisir peut avoir sa place dans ce tableau. Garance peut aussi parler de ce qui l’aide encore à garder un contact avec les autres, même si les tâches du jour restent difficiles.
+Un épisode dépressif s’apprécie dans le temps et au regard de ses conséquences sur la vie de la personne. La psychiatre de Garance a repris ce qui s’est installé, son retentissement et les questions de sécurité. Un instant de plaisir peut avoir sa place dans ce tableau.
+
+## Comment cette difficulté se manifeste
+
+Garance peut aussi parler de ce qui l’aide encore à garder un contact avec les autres, même si les tâches du jour restent difficiles.
 
 Dans le trouble bipolaire de type II, les épisodes dépressifs peuvent être sévères. La distinction avec le type I porte sur l’histoire des épisodes, selon la CIM-11. Elle ne mesure pas à elle seule la souffrance ou le risque pendant une période dépressive. Le NICE recommande de revoir les soins si les difficultés s’aggravent et de prévoir un relais adapté au niveau de risque. La psychiatre peut actualiser le plan avec Garance au fil de leur échange.
 
@@ -43,8 +47,3 @@ Pour l’ensemble, Garance souhaite recevoir le calendrier et décider de sa pr�
 ## Le contact près de la date
 
 Avant de sortir, Garance demande à la psychiatre de lui redire qui contacter si la situation devient plus difficile un soir. Elle inscrit ce renseignement près du prochain rendez-vous. À la maison, elle replace la feuille dans la pochette bleue. Elle écrit à Éva qu’elle aimerait entendre un passage de la valse au téléphone un autre jour, si son amie a envie de le jouer. Elle garde pour elle les autres points de l’entretien. Sur le calendrier de l’ensemble, elle laisse jeudi sans marque et décide de revoir la question après le premier point avec le cabinet.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG185, évaluation et prise en charge du trouble bipolaire](https://www.nice.org.uk/guidance/cg185/chapter/recommendations)

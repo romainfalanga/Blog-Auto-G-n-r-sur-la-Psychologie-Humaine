@@ -31,9 +31,11 @@ André lui avait demandé s’il pouvait proposer le partage. Ils n’avaient pa
 
 ## Faire place à une conversation quand l’alerte capte l’attention
 
-Le stress post-traumatique peut changer la manière de participer à des échanges ou à des rencontres. Une personne peut avoir besoin de connaître le lieu, de choisir où s’asseoir ou de décider du temps qu’elle y passera. Les préférences dans une rencontre ont également une vie propre. Selma peut aimer parler de ses graines et vouloir garder une partie de la serre privée, quelles que soient ses réactions aux bruits.
+Le stress post-traumatique peut changer la manière de participer à des échanges ou à des rencontres. Une personne peut avoir besoin de connaître le lieu, de choisir où s’asseoir ou de décider du temps qu’elle y passera. Les préférences dans une rencontre ont également une vie propre.
 
-Le NICE inclut les relations et les activités quotidiennes dans ce que peut prendre en compte une prise en charge. Si Selma en parle au suivi, elle peut dire quels moments elle aimerait conserver et quels obstacles reviennent. Pour cette soirée, elle s’intéresse d’abord à ce qu’elle veut partager, à l’espace qu’elle peut ouvrir et à ce qu’André souhaite prendre en charge avec elle.
+## L’attention partagée entre le repas et le portail
+
+Selma écoute ses voisins parler des limaces et réfléchit à la place qui manque à Maud. Depuis le bout de la table, elle garde aussi l’allée du portail en vue. Quand les regards se tournent vers elle, sa main se resserre sur le torchon. Elle se représente les passages à la serre dont l’heure resterait incertaine. Sa réaction se mêle à son envie réelle de partager les récoltes et de garder une partie du lieu privée.
 
 ## Donner à chacun une façon de participer
 
@@ -41,11 +43,8 @@ Selma peut proposer que les récoltes soient déposées à une heure donnée pr�
 
 Si Selma préfère écouter une partie du repas, les autres peuvent continuer la discussion et lui laisser le temps de revenir à son idée. Elle garde la liberté de faire une autre proposition un autre jour. Si elle prend la parole aujourd’hui, le contenu de ce qu’elle dit peut recevoir la même attention que les autres idées de jardin.
 
+Le NICE inclut les relations et les activités quotidiennes dans ce que peut prendre en compte une prise en charge. Selma peut parler en consultation des moments qu’elle souhaite conserver et des obstacles qu’elle y retrouve.
+
 ## Dimanche près du portail
 
 Selma propose le dimanche en fin de matinée, près du portail. André dit qu’il peut rester jusqu’à midi. Maud ira chercher deux cagettes et récupérera celle qui restera vide. Pendant que les autres reprennent la discussion sur les limaces, Selma replace les feuilles dans le torchon. Elle s’aperçoit qu’elle n’a encore rien dit de son idée à Maud. En rentrant, elles font un bout de chemin ensemble. Selma lui parle du carré de terre au pied du mur qui reçoit du soleil après le déjeuner.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

@@ -31,7 +31,11 @@ La référente veut vérifier si le club peut obtenir la copie. Baya se dit prê
 
 ## Retrouver des intérêts qui ont pris moins de place
 
-Les soins pour un trouble des conduites alimentaires peuvent prendre en compte ce qui importe à la personne dans ses relations et ses activités. Le NICE recommande d’aborder les besoins liés aux études et à la vie sociale au cours du suivi. Au ciné-club, Clémence a remarqué combien les préoccupations autour des repas peuvent réduire la place de ses autres intérêts. Elle retrouve devant la fiche le plaisir d’observer un plan et la curiosité d’entendre ce que Baya voit. Cette activité peut compter parmi ce qu’elle souhaite préserver pendant les soins. Elle aime certaines formes de cinéma et Baya en aime d’autres. Leur désaccord sur l’enchaînement des films a des raisons que chacune peut expliquer. Si la préparation devient éprouvante pour Clémence, elle peut en parler aux soignants en disant ce qu’elle souhaite garder du projet.
+Les soins pour un trouble des conduites alimentaires peuvent prendre en compte ce qui importe à la personne dans ses relations et ses activités. Le NICE recommande d’aborder les besoins liés aux études et à la vie sociale au cours du suivi.
+
+## Comment cette difficulté se manifeste
+
+Au ciné-club, Clémence a remarqué combien les préoccupations autour des repas peuvent réduire la place de ses autres intérêts. Elle retrouve devant la fiche le plaisir d’observer un plan et la curiosité d’entendre ce que Baya voit. Cette activité peut compter parmi ce qu’elle souhaite préserver pendant les soins. Elle aime certaines formes de cinéma et Baya en aime d’autres. Leur désaccord sur l’enchaînement des films a des raisons que chacune peut expliquer. Si la préparation devient éprouvante pour Clémence, elle peut en parler aux soignants en disant ce qu’elle souhaite garder du projet.
 
 ## Définir ce qu’elles décident seules et ensemble
 
@@ -40,8 +44,3 @@ Elles peuvent se mettre d’accord sur l’ordre provisoire et sur la vérificat
 ## Une flèche laissée sur la fiche
 
 Clémence confirme qu’elle veut entendre la proposition de Baya en fin de séance. Elle lui montre la case que la référente doit pouvoir vérifier, puis lui tend la fiche. Baya la reprend avec sa flèche et ajoute une question qu’elle aimerait poser à la salle. Clémence range le paragraphe qu’elle avait écrit pour elle dans son brouillon. Avant de partir, elle lui demande de lui envoyer le plan de l’arrêt quand elle l’aura retrouvé.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG69, repérage et prise en charge des troubles des conduites alimentaires](https://www.nice.org.uk/guidance/ng69/chapter/recommendations)

@@ -31,7 +31,11 @@ Diego demande à Martine si elle doit reprendre toutes les images. Joachim a env
 
 ## Deux questions peuvent se poser dans la même salle
 
-Une personne peut avoir peur de se sentir mal et de devoir traverser une salle occupée. Une autre peut redouter d’être évaluée devant un public, même dans un lieu d’où elle pourrait sortir facilement. Les cliniciens s’intéressent à la crainte qui organise les décisions. Pour Joachim, une question sur le banc ou le cadrage est la bienvenue. La perspective de se retrouver au bout de plusieurs rangées lorsqu’il voudrait demander à sortir suffit toutefois à le faire hésiter.
+Une personne peut avoir peur de se sentir mal et de devoir traverser une salle occupée. Une autre peut redouter d’être évaluée devant un public, même dans un lieu d’où elle pourrait sortir facilement. Les cliniciens s’intéressent à la crainte qui organise les décisions.
+
+## Comment cette difficulté se manifeste
+
+Pour Joachim, une question sur le banc ou le cadrage est la bienvenue. La perspective de se retrouver au bout de plusieurs rangées lorsqu’il voudrait demander à sortir suffit toutefois à le faire hésiter.
 
 Il peut avoir peur de ce que les gens penseront s’il quitte la salle et aussi vouloir protéger des informations personnelles. Les deux réactions peuvent exister à côté de son agoraphobie. Le rendez-vous avec Louise lui permet de revenir sur ce qu’il redoute et de distinguer cette crainte de la façon dont il souhaite être connu des personnes du quartier.
 
@@ -44,8 +48,3 @@ Ce qu’il en dit à Martine et ce qu’il en dit à Louise répondent à des bu
 ## Une photo qu’il choisit lui-même
 
 Joachim choisit la photo du lavoir où l’on voit à la fois la rue et la pierre au bord de l’eau. Il sait par où la personne qui regarde pourra se repérer. Il propose à Martine de la montrer quand ils parleront de la bifurcation, et à Diego de commenter la suite. Il lui montre le signe qu’il fera s’il a besoin de lui passer la parole. Il garde dans sa poche la version avec les deux lignes au crayon. À l’association, il peut expliquer le relevé avec ses mots de photographe.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, manifestations de l’agoraphobie](https://www.nhs.uk/mental-health/conditions/agoraphobia/symptoms/)

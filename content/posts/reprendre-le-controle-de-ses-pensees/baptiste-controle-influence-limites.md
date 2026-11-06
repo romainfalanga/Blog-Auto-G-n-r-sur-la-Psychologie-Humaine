@@ -1,5 +1,5 @@
 ---
-title: "Baptiste : distinguer le contrôle et l’influence"
+title: Distinguer le contrôle et l’influence
 date: 2026-11-03T11:20:00+00:00
 description: "Une réponse manque pour son projet et Baptiste multiplie les relances. Il regarde ce qu’il peut faire, demander ou laisser encore incertain."
 categories: ["Reprendre le contrôle de ses pensées"]
@@ -74,7 +74,3 @@ La possibilité d’agir ne donne pas toujours la possibilité de garantir. Une 
 Un suivi utile peut comporter une limite et un point de retour. Une action répétée sans information nouvelle ne produit pas nécessairement davantage d’influence. Vous pouvez tenir compte d’une réaction sans devenir responsable de l’ensemble des émotions et des décisions d’autrui. Votre propre inconfort peut aussi rester présent pendant que vous faites quelque chose d’utile ou que vous prenez une pause adaptée.
 
 Si le besoin de garantir les résultats vous occupe durablement, si les vérifications interrompent votre quotidien ou si vous portez une responsabilité sans moyens suffisants, un psychologue, un médecin ou un professionnel adapté peut vous aider à examiner la situation. Un appui organisationnel peut être tout aussi nécessaire. L’objectif peut être de retrouver une action proportionnée, avec des limites qui reconnaissent à la fois vos engagements et ce que vous ne pouvez pas déterminer seul.
-
-Sources :
-- [NHS, Problem solving](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)
-- [OMS, Doing What Matters in Times of Stress](https://www.who.int/publications/i/item/9789240003927)

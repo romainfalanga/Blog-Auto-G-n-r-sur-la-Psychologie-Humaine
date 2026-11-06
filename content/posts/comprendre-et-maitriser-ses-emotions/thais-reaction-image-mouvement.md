@@ -34,19 +34,16 @@ Inès arrête la lecture et lui demande si elle veut reprendre après la pause. 
 
 Une peur liée à une situation précise peut s’éveiller à son contact ou dès qu’on se la représente. Les circonstances modifient ce que la personne perçoit. Dans la photo fixe, Thaïs regarde le numéro de la borne. Le mouvement vers l’eau lui donne une impression soudaine de chute. L’exemple décrit sa réaction à cet instant. D’autres personnes peuvent réagir différemment à la même image, ou ressentir une gêne semblable pour d’autres raisons.
 
-Reprendre une photo qui se passe bien ne permet pas de prévoir exactement ce que la personne éprouvera devant chaque représentation ou dans un lieu réel. Thaïs pourra décrire les deux moments à sa psychologue. Dire à quel instant le mouvement a changé l’expérience donne plus d’information que de résumer l’après-midi comme une réussite suivie d’un échec.
+## Le mouvement de la caméra change la réaction
+
+Devant la photo fixe, Thaïs montre la borne et propose même d’agrandir l’eau. Quand la caméra descend vers le bord de la passerelle, elle recule sa chaise, attrape la table et a l’impression que son corps part vers l’avant. Elle reste silencieuse alors qu’Inès lui demande si un nom se lit bien. Les deux réactions surviennent devant des images du même endroit.
 
 ## Garder le pouvoir de demander une pause
 
 Dans un travail en commun, la possibilité de mettre une séquence en pause permet de continuer à discuter de sa fonction. Inès peut préciser à quoi sert la vidéo et demander à Thaïs si elle souhaite revoir une partie. Elle peut aussi préparer un aperçu stable lorsqu’une photo suffit. Thaïs n’est pas tenue de raconter ce que lui a dit sa psychologue pour faire une proposition de montage.
 
-Si elle souhaite réfléchir à ce qui est modifiable dans sa réaction, elle peut revenir sur cet épisode dans son suivi. Avec Mme Verdier, elle a commencé à discuter des options qui lui permettraient de garder des activités importantes. L’ordinateur du bureau reste un outil de présentation. Chacune garde la possibilité de dire qu’elle a besoin de connaître le contenu à venir ou de continuer la séance de travail autrement.
+Thaïs peut décrire à sa psychologue l’instant où le mouvement a changé son expérience et ce qu’elle arrivait à faire devant la photo fixe. Cet exemple donne des détails sur les deux réactions et laisse ouverte la question de ce qu’elle éprouverait dans le lieu réel. Avec Mme Verdier, elle a commencé à discuter des options qui lui permettraient de garder des activités importantes. L’ordinateur du bureau reste un outil de présentation. Chacune garde la possibilité de dire qu’elle a besoin de connaître le contenu à venir ou de continuer la séance de travail autrement.
 
 ## La borne reste à l’écran
 
 Inès remplace le plan par la photo qui montre la borne. Thaïs choisit un fond assez clair pour faire ressortir le numéro et relit le nom du canal à voix haute. Elle demande qu’on annonce les vidéos avant de les lancer lors de la prochaine répétition. Puis elle note ce qui l’a surprise pour en parler à Mme Verdier. Elle garde une autre photo du canal pour expliquer comment ils ont vérifié le tracé.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, Phobias](https://www.nhs.uk/mental-health/conditions/phobias/)

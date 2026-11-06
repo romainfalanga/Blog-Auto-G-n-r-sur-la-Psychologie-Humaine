@@ -38,7 +38,7 @@ draft: false
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-face-au-vieillissement-accepter-limites/">Patrick accepte un coup de main</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/vulnerabilite-face-au-vieillissement-accepter-limites/">Accepter de l’aide quand l’autonomie change</a></h3>
     <div class="parcours-date">2026-03-22</div>
     <p class="parcours-resume">Le couvercle d’un bocal réveille une douleur au pouce. Patrick cherche l’ouvre-bocal et laisse Catherine lui prêter main-forte.</p>
     <div class="parcours-evolution">
@@ -126,7 +126,7 @@ draft: false
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Émotion</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/ecriture-expressive-pennebaker-en-famille-guide/">Patrick ouvre un carnet après la mort de Marcel</a></h3>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/ecriture-expressive-pennebaker-en-famille-guide/">L’écriture expressive après la mort d’un proche</a></h3>
     <div class="parcours-date">2026-05-16</div>
     <p class="parcours-resume">Patrick revient dans le garage avec un carnet. Il vient de laisser un message pour demander de l’aide au sujet des coups.</p>
     <div class="parcours-evolution">

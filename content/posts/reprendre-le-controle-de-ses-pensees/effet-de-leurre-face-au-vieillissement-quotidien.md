@@ -11,6 +11,8 @@ personnage: "Patrick"
 sujet: "effet de leurre"
 contexte: "face au vieillissement"
 draft: false
+editorial_sources:
+- https://doi.org/10.1086/208899
 ---
 
 Patrick cherche de quoi renforcer l’étagère de Léo. Il a les mesures sur un bout de papier et compare deux équerres quand il remarque, au bout du rayon, un panneau pour une salle de sport. Les trois abonnements donnent le même accès aux machines. Le premier coûte quarante euros par mois, sans séance accompagnée. À quatre-vingts euros, quatre séances sont prévues. Le dernier forfait en donne deux pour quatre-vingt-cinq euros. Patrick refait le calcul entre les deux dernières lignes et pense qu’il a de la chance d’être tombé sur celle du milieu.
@@ -22,6 +24,8 @@ En cherchant son mètre, il sort aussi le numéro du cabinet, recopié sur un au
 ## Qu’est-ce qu’un effet de leurre ?
 
 Dans les expériences de Huber, Payne et Puto, l’ajout d’une troisième option, dominée par l’une des deux autres, a pu augmenter la proportion de personnes qui choisissaient cette dernière. Une option est dominée si une autre est au moins aussi avantageuse sur les critères retenus et meilleure sur l’un d’eux. Elle est asymétriquement dominée lorsqu’une seule des deux offres initiales la domine.
+
+## Quand une offre change la comparaison
 
 Dans l’exemple de Patrick, les trois abonnements offrent le même accès aux machines. Le forfait à 80 euros comprend quatre séances mensuelles avec un coach. Celui à 85 euros n’en comprend que deux. Sur ces deux critères, le forfait à 80 euros est moins cher et propose davantage de séances. Le forfait à 40 euros coûte moins cher mais ne comprend pas de séance. L’offre à 85 euros est donc dominée par celle à 80 euros, mais pas par celle à 40 euros. Si cette comparaison déplace les préférences vers le forfait à 80 euros, on observe un effet de leurre.
 
@@ -44,8 +48,7 @@ Patrick peut prendre le temps de lire les conditions, demander conseil ou repart
 Assis près de la sortie, Patrick replie le prospectus pour ne laisser visibles que les deux premières offres. Quarante euros de plus pour quatre séances : c’est cette différence qu’il doit regarder. Il ne sait toujours pas s’il les utiliserait.
 
 Chez lui, Léo veut savoir combien de livres l’étagère pourra porter. Patrick lui demande de vider le rayon du haut pendant qu’il se sert de l’équerre. Le prospectus finit sous le mètre, sur la table. Il le garde, sans remplir le formulaire.
+
 ---
 
 Comparer les options à partir du prix, des services utiles et de ses propres besoins aide à voir ce que la troisième offre a changé. Pour une activité envisagée à cause d’une douleur, un professionnel de santé peut aider à déterminer ce qui est adapté.
-
-Sources : [Huber, Payne et Puto, expériences sur l’ajout d’une option dominée, 1982](https://doi.org/10.1086/208899).

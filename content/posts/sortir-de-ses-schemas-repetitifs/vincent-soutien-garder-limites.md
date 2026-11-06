@@ -94,5 +94,3 @@ Demander du soutien en gardant ses limites permet de nommer un besoin sans aband
 Vincent découvre qu’il peut être entendu sans tout raconter et refuser une proposition sans rejeter la relation. Il garde le droit d’orienter l’échange, de remercier et de s’arrêter. Cette marge rend le soutien plus facile à recevoir, tandis que les difficultés matérielles continuent à demander des réponses concrètes et parfois d’autres ressources.
 
 Si vous ne trouvez pas d’espace de parole respectueux, si l’isolement augmente ou si la détresse persiste, un psychologue ou un professionnel social peut aider à chercher des appuis adaptés. Vous pouvez parler de votre expérience sans exposer toute la vie de votre proche. Vous pouvez aussi dire qu’une aide proposée ne convient pas, puis rechercher avec quelqu’un une autre possibilité.
-
-Sources : [Cohen et Wills, travaux sur le stress et le soutien social](https://lchc.ucsd.edu/MCA/Mail/xmcamail.2012_11.dir/pdfYukILvXsL0.pdf).

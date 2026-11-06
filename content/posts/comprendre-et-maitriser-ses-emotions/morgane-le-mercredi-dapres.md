@@ -33,7 +33,11 @@ Morgane propose un essai où Yassine accueille les visiteurs quand il le veut et
 
 ## Laisser au suivi sa place au fil du temps
 
-Le vécu de l’hyperphagie boulimique peut changer, avec des périodes plus calmes et des difficultés qui reviennent. La HAS et la FFAB décrivent un accompagnement qui s’inscrit dans la durée et s’ajuste à la personne. Morgane a pu faire aboutir un projet et connaître ensuite de nouvelles soirées difficiles. En consultation, la souffrance, le contexte et la santé physique continuent à être examinés. Elle peut apporter le récit de ce qui s’est passé et reparler des moyens de soutien qui lui conviennent. La fierté qu’elle éprouve au travail peut garder sa propre valeur, même lorsque le suivi doit revenir sur une difficulté.
+Le vécu de l’hyperphagie boulimique peut changer, avec des périodes plus calmes et des difficultés qui reviennent. La HAS et la FFAB décrivent un accompagnement qui s’inscrit dans la durée et s’ajuste à la personne.
+
+## Comment cette difficulté se manifeste
+
+Morgane a pu faire aboutir un projet et connaître ensuite de nouvelles soirées difficiles. En consultation, la souffrance, le contexte et la santé physique continuent à être examinés. Elle peut apporter le récit de ce qui s’est passé et reparler des moyens de soutien qui lui conviennent. La fierté qu’elle éprouve au travail peut garder sa propre valeur, même lorsque le suivi doit revenir sur une difficulté.
 
 ## Garder le choix de la prochaine chose à faire
 
@@ -42,9 +46,3 @@ La nouvelle matinée comporte des décisions concrètes. Yassine veut plus de pl
 ## Au bout de la rue
 
 Yassine inscrit son nom près du premier essai et demande à Morgane si elle veut voir la disposition vendredi. Elle lui dit qu’elle viendra. Le soir, Lucie l’attend à l’angle de la rue. La cour du livre a changé de nom et il faut passer devant une porte bleue pour retrouver son ancien mur. Morgane lui montre où elle voit encore la trace de la plaque. En rentrant, elle notera ce dont elle veut reparler jeudi avec Anna. Pour l’instant, elle a envie d’aller voir jusqu’où la rue continue.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et Fédération française anorexie boulimie, recommandations sur la boulimie et l’hyperphagie boulimique](https://www.has-sante.fr/upload/docs/application/pdf/2019-09/boulimie_et_hyperphagie_boulimique_-_recommandations.pdf)
-- [NICE, recommandations NG69 sur les troubles des conduites alimentaires](https://www.nice.org.uk/guidance/ng69/evidence/full-guideline-pdf-161214767896)

@@ -33,6 +33,8 @@ Ils reprennent une sortie plus proche, celle où le bus revient du lavoir jusqu�
 
 Les approches cognitives et comportementales font partie des options de prise en charge de l’agoraphobie. Elles peuvent porter sur les liens entre la peur, ce que la personne s’attend à vivre et les façons qu’elle a trouvées de se protéger ou d’éviter certaines situations. Une exposition progressive aux situations redoutées peut s’inscrire dans ce travail, avec un objectif et des modalités discutés avec une professionnelle. Le suivi tient compte des contraintes du lieu, de l’histoire de la personne et de ce qu’elle souhaite essayer.
 
+## Comment cette difficulté se manifeste
+
 Joachim vient surtout avec une situation dont l’importance dépasse le trajet. Il souhaite retrouver du temps pour prendre ses photos, puis rentrer sans consacrer toute la veille à prévoir le pire. Ce but lui permet d’expliquer pourquoi le bus qui revient du lavoir l’intéresse davantage que l’ascenseur de la bibliothèque. Louise l’aide à examiner ce qu’il voudrait apprendre de cet essai.
 
 ## S’accorder sur la place de Diego
@@ -44,8 +46,3 @@ Joachim choisit de garder le panneau des Aulnes pour plus tard. Il ne veut pas d
 ## Le travail choisi tient sur une ligne
 
 En sortant, Joachim retrouve la photo du banc. Il lui manque encore le coin de la rue qui permettrait de le situer. Il demande à Diego s’ils peuvent s’en occuper lors du prochain rendez-vous. Il lui parle ensuite du retour près du lavoir et de la place qu’il aimerait lui proposer. Diego répond qu’il peut partager le début de la sortie. Joachim marque ce qu’ils viennent de convenir sous la photo. Le belvédère au-delà des Aulnes reste dans le dossier des idées à reprendre.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS, prise en charge de l’agoraphobie](https://www.nhs.uk/mental-health/conditions/agoraphobia/treatment/)

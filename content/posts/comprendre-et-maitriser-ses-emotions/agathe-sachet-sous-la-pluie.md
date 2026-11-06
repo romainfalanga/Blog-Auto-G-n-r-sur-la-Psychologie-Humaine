@@ -32,7 +32,11 @@ Agathe mit la main à plat au milieu du banc. « C’est peut-être ça. Mais pa
 
 ## L’idée peut précéder la phrase
 
-Le langage expressif permet de trouver des mots, de construire une phrase et de faire passer une idée à quelqu’un. Une personne peut savoir quelle décision elle veut défendre et avoir besoin de temps pour l’exprimer. Dans le trouble développemental du langage, comprendre et produire un message peuvent présenter des difficultés différentes. Agathe comprend la proposition d’Inès. Ce qui lui prend du temps, c’est d’indiquer comment traiter un sachet au nom incertain et pourquoi il faut attendre. Le point d’interrogation donne à Inès un indice ; Agathe complète elle-même. On ne peut pas déduire de cet échange le profil complet de son langage ni ses compétences en jardinage.
+Le langage expressif permet de trouver des mots, de construire une phrase et de faire passer une idée à quelqu’un. Une personne peut savoir quelle décision elle veut défendre et avoir besoin de temps pour l’exprimer. Dans le trouble développemental du langage, comprendre et produire un message peuvent présenter des difficultés différentes.
+
+## Comment cette difficulté se manifeste
+
+Agathe comprend la proposition d’Inès. Ce qui lui prend du temps, c’est d’indiquer comment traiter un sachet au nom incertain et pourquoi il faut attendre. Le point d’interrogation donne à Inès un indice ; Agathe complète elle-même. On ne peut pas déduire de cet échange le profil complet de son langage ni ses compétences en jardinage.
 
 ## Laisser la décision en suspens
 
@@ -41,8 +45,3 @@ Sur ce banc, une pause a une conséquence très simple : tant que les deux n’o
 ## Une ligne qui reste libre
 
 Camille retrouva les capucines dans un sachet sec, avec un nom intact, parmi le matériel à utiliser avant les vacances. Elle prit le sachet abîmé pour s’en occuper ; il ne rejoindrait pas la boîte de réserve. Sur leur carton, Inès barra « capucines » d’un trait qui laissait encore deviner les lettres. Agathe déchira un coin d’enveloppe et le colla dessous. Elle y dessina son point d’interrogation en petit. Elles garderaient le signe pour les prochains sachets à vérifier, et pour ce qu’elles auraient envie de demander aux CM1. Avant la récréation, Inès proposa qu’Agathe présente le carton le lendemain devant toute la classe. Agathe dit « je vais voir ». Ce n’était pas un oui.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [American Speech-Language-Hearing Association, Spoken Language Disorders](https://www.asha.org/practice-portal/clinical-topics/spoken-language-disorders/)

@@ -11,6 +11,8 @@ personnage: "Nadia"
 sujet: "illusion de transparence"
 contexte: "en société et dans les interactions sociales"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/9731312/
 ---
 
 À la cinquième diapositive, il manque à Nadia le mot par lequel elle comptait enchaîner. Elle boit un peu d’eau. Son pouce avance d’une page avant qu’elle ait repris. La sixième s’affiche avec le tableau du calendrier, puis disparaît pendant qu’elle revient en arrière. Nadia connaît la présentation par cœur depuis la veille. De toutes les façons de montrer qu’elle a perdu le fil, elle croit avoir trouvé la plus voyante.
@@ -70,5 +72,3 @@ Comprendre l'illusion de transparence est une étape majeure pour naviguer avec 
 Nous ne savons pas exactement ce que l'autre remarque ou en conclut. On peut demander un retour sur un point concret ou expliquer un besoin, si le contexte s'y prête.
 
 Si vous sentez que cette peur d'être observé ou jugé devient envahissante au point de provoquer une détresse importante, solliciter un professionnel de la santé mentale peut être bénéfique. Un psychologue pourra vous aider à déconstruire ces biais cognitifs de manière personnalisée et à retrouver un rapport apaisé avec vous-même et les autres.
-
-Sources : [Gilovich, Savitsky et Medvec, expériences sur l’illusion de transparence](https://pubmed.ncbi.nlm.nih.gov/9731312/).

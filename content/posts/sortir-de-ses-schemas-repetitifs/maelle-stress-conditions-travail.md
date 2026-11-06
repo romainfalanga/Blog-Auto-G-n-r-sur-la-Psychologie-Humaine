@@ -104,5 +104,3 @@ Le stress lié aux conditions de travail ne se comprend pas sans les demandes, l
 Une question précise, une limite annoncée et un appui collectif peuvent ouvrir une discussion, même sans changement immédiat. Les stratégies individuelles servent alors à soutenir la démarche. Elles ne deviennent pas une manière de rendre les contraintes indéfiniment acceptables.
 
 Si le stress affecte durablement votre santé ou votre sécurité, un médecin et le service de prévention et de santé au travail peuvent vous accompagner. Les interlocuteurs de prévention et les représentants du personnel peuvent aussi aider à faire examiner l'organisation. Vous n'avez pas à attendre l'épuisement pour signaler un déséquilibre.
-
-Sources : [INRS, comprendre le stress au travail](https://www.inrs.fr/risques/stress/ce-qu-il-faut-retenir.html) ; [INRS, prévention des risques psychosociaux](https://www.inrs.fr/risques/psychosociaux/prevention.html).

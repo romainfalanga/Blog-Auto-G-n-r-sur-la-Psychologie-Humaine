@@ -44,10 +44,3 @@ Pour la réception, Lison peut essayer une trace de reprise : la dernière étap
 ## Où reprendre ?
 
 Mme Vasseur lui demande par quelle tâche elle commencerait. Lison écrit « réception » en haut de son dessin et, en bas, « où reprendre ? ». Elle décide qu’elle montrera cette dernière case à Nora. En rangeant le papier, elle fait glisser de sa poche une carte qu’elle a prise à l’imprimerie. C’est le tirage réussi de samedi, avec juste assez de blanc entre les lettres de la vitrine. Lison le remet dans son portefeuille à l’endroit, contre sa carte de transport. Ce soir, elle enverra la photo à Alba : il faut qu’elles en tirent plusieurs.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé — Comment améliorer le parcours de santé d’un enfant avec troubles spécifiques du langage et des apprentissages ?](https://www.has-sante.fr/jcms/c_2822893/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages)
-- [Légifrance — Code de la santé publique, article L4341-1 : champ de l’orthophonie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047568519)
-- [Mon Parcours Handicap — Compenser votre handicap en formation](https://www.monparcourshandicap.gouv.fr/formation-professionnelle/compenser-votre-handicap-en-formation)

@@ -31,7 +31,11 @@ Elle appelle Léon. Il décroche au moment où elle s’apprête à raccrocher e
 
 ## Ce qu’un lieu peut raviver
 
-Un lieu lié à quelqu’un qui est mort peut raviver le manque au moment où l’on s’apprête à y entrer. Les CDDR de l’OMS indiquent que, dans le trouble du deuil prolongé, une forte préoccupation pour des souvenirs et l’évitement de certains rappels peuvent coexister. Chez Blandine, les annotations de Jeanne ont un intérêt qui la porte jusqu’à la place. Le bruit de la chaise change la situation. Elle se retrouve à désirer une présence dont elle connaît l’absence.
+Un lieu lié à quelqu’un qui est mort peut raviver le manque au moment où l’on s’apprête à y entrer. Les CDDR de l’OMS indiquent que, dans le trouble du deuil prolongé, une forte préoccupation pour des souvenirs et l’évitement de certains rappels peuvent coexister.
+
+## Comment cette difficulté se manifeste
+
+Chez Blandine, les annotations de Jeanne ont un intérêt qui la porte jusqu’à la place. Le bruit de la chaise change la situation. Elle se retrouve à désirer une présence dont elle connaît l’absence.
 
 Deux lieux peuvent appeler des réactions différentes. À l’annexe, elle s’était assise devant un tableau avec Léon. Ici, la salle a gardé une disposition qu’elle associe au jeudi avec sa sœur. Blandine pourra en parler en consultation si elle veut comprendre ce qui lui coûte le plus. Le retour en bus lui montre aussi que le détour peut déplacer un problème sur une autre course, même si elle l’a choisi pour rentrer ce soir.
 
@@ -44,8 +48,3 @@ Le report a tout de même des conséquences pratiques. Des gens se sont déplac�
 ## Le bus du boulevard
 
 Léon lui écrit que Alice et Malo sont avec les autres, prêts à répéter. Blandine descend vers le boulevard. Dans le bus, elle aperçoit la chemise jaune entre son parapluie et le livre qu’elle n’a pas ouvert. Elle rentre avec les deux partitions. Léon propose lundi : Alice, qui tient les archives du chœur, doit de toute façon rendre des livres à l’annexe ; Malo pourra la rejoindre. Blandine accepte ce créneau. Elle lui demande de prévenir les deux personnes qu’elles parleront des annotations et qu’elle repartira avec les feuilles.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS — Grief after bereavement or loss : vécu du deuil et soutien](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)

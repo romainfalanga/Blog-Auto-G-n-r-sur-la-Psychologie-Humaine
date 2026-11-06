@@ -1,0 +1,469 @@
+{
+  "character_id": "elvire",
+  "bio": "Élvire a 41 ans et planifie les tournées d’une coopérative de collecte de mobilier. Elle aime trouver une place aux chaises que les gens pensent bonnes à jeter. Depuis des mois, les réveils trop précoces et les longues périodes d’éveil lui coûtent de l’attention et de la patience. Une évaluation médicale identifie une insomnie chronique. Élvire veut ouvrir un point de dépôt le samedi avec Sonia et Salim. Elle tient aussi à retrouver des soirées où elle peut écouter sa compagne Lou sans revenir sans cesse au lendemain. Elle apprend à parler de ses nuits et à garder sa place dans les décisions.",
+  "profile_topics": [
+    "Insomnie chronique",
+    "Réveils précoces",
+    "Fatigue et difficultés de concentration",
+    "Appréhension de ne pas dormir",
+    "Thérapie cognitivo-comportementale de l’insomnie"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "elvire-reveil-precoce-et-attention",
+      "title": "Quand le réveil trop tôt brouille les décisions de la journée",
+      "description": "Après une nuit écourtée, Élvire envoie deux adresses différentes. Elle commence à regarder ce que ses réveils lui coûtent pendant la journée.",
+      "context": "Un lundi matin dans le bureau de la coopérative",
+      "topics": ["Réveil précoce", "Attention au travail", "Retentissement diurne"],
+      "clinical_focus": "Réveils précoces et attention",
+      "clinical_intro": "Élvire s’est réveillée bien avant l’heure prévue et n’a pas retrouvé le sommeil. En préparant les tournées, elle relit plusieurs fois le même message et transmet deux numéros différents. Le trouble du sommeil prend aussi une forme pendant la journée. Regarder ce que les nuits difficiles changent dans le travail aide à préciser la plainte.",
+      "opening": "Sur le tableau, Élvire a dessiné le circuit de la camionnette en bleu. Elle garde le vert pour les lieux où les habitants pourront apporter eux-mêmes des objets si la coopérative ouvre un point de dépôt le samedi. Sonia vient de lui laisser une photo de la pièce qu’elles pourraient utiliser. On voit une large porte et un morceau de cour. Élvire écrit dans la marge qu’il faudrait voir qui pourra accueillir les premiers arrivants. Le téléphone vibre et elle envoie l’adresse du premier ramassage à Salim. Il lui répond qu’il a reçu deux numéros de rue depuis qu’il est monté dans la camionnette.\n\nCette nuit, Élvire s’est réveillée quand tout était encore silencieux. Elle a cru qu’elle allait se rendormir après avoir remonté la couverture. Quand le réveil a sonné, elle avait passé assez de temps les yeux fermés pour ne plus savoir quels moments avaient été du sommeil. Cela arrive souvent ces derniers mois. Elle était déjà venue travailler en se disant qu’il suffirait de mieux regarder les écrans. Ce matin elle ouvre les deux messages envoyés et a besoin de les poser côte à côte pour retrouver lequel correspond au dossier.\n\nSonia demande si elles peuvent annoncer le dépôt pour le mois prochain. Élvire se surprend à lui répondre sèchement qu’elle n’a même pas encore regardé la photo. Elle l’a pourtant ouverte en arrivant. Elle pose le téléphone sur la table, reprend l’adresse avec Salim et demande à Sonia de reparler de l’ouverture après le premier départ.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Relier la nuit et le retentissement dans la journée",
+          "text": "Une difficulté de sommeil peut commencer par un endormissement laborieux, un réveil prolongé ou un réveil plus tôt que souhaité. Quand une personne parle de nuits difficiles, le professionnel cherche aussi ce qui se passe pendant ses journées. Une nuit écourtée peut peser sur la disponibilité, l’attention ou l’humeur. Dans le cas d’Élvire, c’est la répétition des réveils et de leurs conséquences qui l’amène à envisager une consultation. La gêne mérite d’être décrite même si elle ne sait pas compter précisément les heures dormies."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Voir l’effort que les tâches familières demandent",
+          "text": "Élvire connaît le logiciel et a déjà organisé cette tournée. Ce lundi, elle perd le fil quand deux messages se succèdent. Sonia, elle, entend un ton plus dur au moment d’aborder le point de dépôt. Ces deux effets peuvent avoir d’autres explications, comme une surcharge ou un désaccord réel. Ils prennent leur sens si Élvire les replace parmi d’autres journées. Chez elle, elle constate aussi qu’elle oublie parfois le début d’une conversation quand elle se concentre sur ce qu’elle doit encore faire. Ces exemples renseignent mieux que le seul mot fatigue."
+        },
+        {
+          "role": "strategies",
+          "heading": "Sécuriser une décision et noter ce qui a compté",
+          "text": "Pour le départ de Salim, Élvire peut relire une seule adresse avec lui puis lui demander de confirmer celle qu’il a reçue. Pour l’ouverture, elle peut réserver un temps distinct où la photo et la liste des rôles seront sous leurs yeux. Elle peut aussi retenir ce matin comme exemple pour une consultation. Le réveil précoce, la difficulté à se concentrer et la conversation écourtée décrivent des moments précis. Cette description aidera à parler de ce qui s’étend dans le temps et de ce qui change d’un jour à l’autre."
+        }
+      ],
+      "ending_title": "Un seul numéro à l’écran",
+      "ending": "Salim lit le numéro qu’Élvire vient de confirmer et part. Sonia attend qu’elle relève la tête pour lui remontrer la photo. Élvire lui dit qu’elle lui a parlé sèchement et qu’elle aimerait voir la cour avant qu’elles annoncent une date. Sonia est d’accord pour demander une visite. Sur une autre feuille, Élvire note que c’est le troisième matin en quelques jours où elle s’est réveillée avant l’heure. Elle ne sait pas encore comment raconter le reste. Elle écrit simplement « les deux adresses » pour se souvenir de ce que la nuit avait changé dans la matinée.",
+      "mirror": [
+        "Sonia peut s’en tenir à ce qu’elle voit et reprendre la décision commune. « Je vais vérifier le dossier avec toi. Pour le dépôt, on a encore besoin de visiter la cour. » Elle peut aussi revenir sur le ton de l’échange si cela l’a gênée. Élvire peut parler de ses nuits dans un cadre choisi. Sa collègue peut coopérer sur la tâche sans avoir à expliquer à sa place pourquoi ce matin est difficile."
+      ],
+      "sources": ["oms-insomnie", "assurance-maladie-insomnie-bilan", "assurance-maladie-insomnie"],
+      "continuity": {
+        "choice": "Élvire confirme la bonne adresse, revient sur sa réponse à Sonia et note un exemple de retentissement.",
+        "next": "Sonia demande une visite de la cour. Élvire dispose d’une première observation de ses nuits et de son travail."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "elvire-possibilite-de-dormir",
+      "title": "Avoir le temps de dormir et rester éveillée",
+      "description": "Élvire et Lou se souviennent de deux nuits très différentes. Élvire cherche comment décrire au médecin ce qui se répète.",
+      "context": "Le jeudi soir, chez Élvire et Lou, à la table de la cuisine",
+      "topics": ["Possibilité de dormir", "Persistance des difficultés", "Préparation de la consultation"],
+      "clinical_focus": "Temps disponible et difficulté de sommeil",
+      "clinical_intro": "Élvire se souvient d’une nuit raccourcie par un trajet et d’un dimanche où elle pouvait rester couchée mais est restée éveillée. Cette différence aide à préciser ce qui se répète. Pour évaluer une insomnie, le médecin examine les difficultés de sommeil dans le temps, y compris les nuits où la possibilité de dormir était suffisante.",
+      "opening": "Lou a rapporté la nappe qu’elles avaient oubliée dans le train. Elle l’étale sur la table et montre le coin où quelqu’un a attaché une étiquette. Élvire repense au retour, à la correspondance tardive et au réveil qu’elle avait mis pour ouvrir le bureau le lendemain. Elle avait dormi peu parce qu’elles étaient rentrées tard. Lou lui dit qu’elle avait entendu le réveil depuis le salon. Élvire essaie de retrouver ce matin-là parmi tous ceux qui lui paraissent semblables. Elle avait été fatiguée et s’était endormie facilement la nuit suivante.\n\nLe dimanche d’après lui revient avec plus de détails. Lou avait fermé la porte sans bruit pour aller acheter du pain. Élvire aurait pu rester couchée une bonne partie de la matinée. Elle s’était réveillée avant Lou et avait attendu que le sommeil revienne, en entendant le bruit des pas dans la cage d’escalier. Cela lui arrivait déjà avant qu’elles discutent du point de dépôt. Elle se souvient de réveils comparables pendant une semaine de congé, lorsque l’ouverture du bureau et les tournées étaient les dernières choses auxquelles elle pensait en se couchant.\n\nÉlvire ressort la feuille où elle a écrit « les deux adresses ». Elle voulait savoir quel jour elle avait le plus mal dormi. Lou lui demande ce qu’elle voudrait raconter au médecin si elle prenait rendez-vous. Élvire écarte la nappe et garde deux souvenirs sur la feuille. Elle ajoute ce que le manque de disponibilité lui a coûté pendant une conversation avec sa mère. Puis elle ouvre son agenda pour chercher un moment où elle pourra expliquer tout cela sans courir vers le bureau.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La possibilité de dormir fait partie du bilan",
+          "text": "Lors d’une évaluation, les soignants examinent à la fois les difficultés ressenties et le temps dont la personne dispose pour dormir. Un retour de voyage tardif ou un horaire serré peut écourter le sommeil. Une autre situation se présente lorsque la personne rencontre régulièrement des difficultés alors qu’elle dispose de conditions et d’une possibilité suffisantes pour dormir. Les deux peuvent coexister dans une même semaine. Pour comprendre ce qui persiste chez Élvire, le médecin peut lui demander de revenir sur les circonstances, les horaires et les répercussions."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Comparer deux matins qui se ressemblent en apparence",
+          "text": "Après le trajet, Élvire sait à quel moment l’occasion de dormir s’est réduite. Le dimanche, elle était libre de rester au lit et a vécu une longue période d’éveil. Elle était aussi moins disponible pour les autres pendant la journée. Ces deux matins lui paraissaient identiques quand elle se souvenait seulement de la fatigue. Au cours de la discussion, elle retrouve aussi des exemples antérieurs au projet du samedi. Ils permettent de prendre en compte l’inquiétude actuelle au travail tout en décrivant une histoire plus longue."
+        },
+        {
+          "role": "strategies",
+          "heading": "Apporter des exemples et laisser une place à l’incertitude",
+          "text": "Élvire peut indiquer depuis quand elle a remarqué le problème, ce dont elle est assez sûre et les détails qu’elle ne sait plus. La feuille peut réunir quelques nuits, leurs circonstances et un effet sur sa journée. Si le médecin lui propose ensuite un agenda du sommeil, ils pourront convenir de ce qui sera utile à noter. Lou peut aider Élvire à dater le retour de voyage ou un dimanche particulier. Elle ne peut pas estimer les moments où Élvire dormait en restant immobile."
+        }
+      ],
+      "ending_title": "Deux exemples pliés dans la poche",
+      "ending": "Élvire trouve un rendez-vous pour la semaine suivante avec la docteure Vidal. Elle recopie l’heure sur la feuille et la plie avec ses deux exemples. Lou lui demande si elle veut garder la nappe sortie ou la ranger. Élvire la garde, elles mangent dessus. Elle voudrait raconter aussi pourquoi la cour du futur dépôt lui plaît, mais elle a encore le regard sur la feuille. Lou lui dit qu’elles peuvent en parler demain. Au moment de débarrasser, Élvire ajoute une question sur ce qu’elle devrait signaler si elle commençait à s’assoupir en journée.",
+      "mirror": [
+        "Lou peut proposer une aide qui tient dans leurs souvenirs. « Je peux te rappeler quand on a pris le train. Pour ce que tu ressentais la nuit, tu sauras le décrire mieux que moi. » Elle peut demander si Élvire souhaite encore en parler ou passer au repas. Une présence proche peut aider à préparer un rendez-vous sans devenir un relevé des heures de sommeil."
+      ],
+      "sources": ["oms-insomnie", "assurance-maladie-insomnie-bilan", "assurance-maladie-insomnie"],
+      "continuity": {
+        "choice": "Élvire distingue deux nuits, rassemble quelques effets diurnes et réserve une consultation avec la docteure Vidal.",
+        "next": "Elle apporte la feuille et sa question sur la somnolence. Lou a aidé à dater le trajet."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "elvire-bilan-insomnie-chronique",
+      "title": "Comprendre ce que le médecin évalue avant de nommer l’insomnie",
+      "description": "La docteure Vidal reprend les nuits, les conditions de sommeil et leurs conséquences, puis pose le diagnostic avec Élvire.",
+      "context": "La semaine suivante, en consultation avec la docteure Vidal",
+      "topics": ["Évaluation médicale", "Insomnie chronique", "Choix du suivi"],
+      "clinical_focus": "Diagnostic clinique de l’insomnie chronique",
+      "clinical_intro": "Élvire arrive avec deux exemples et pense qu’il lui faudra un chiffre exact pour être entendue. La docteure Vidal relie plutôt le type de difficultés, leur répétition depuis plusieurs mois et ce qui se passe pendant les journées. Elle examine aussi les autres explications possibles avant d’établir le diagnostic d’insomnie chronique et de discuter du suivi.",
+      "opening": "La feuille qu’Élvire pose sur le bureau est pliée en quatre. Quand elle l’ouvre, les mots « les deux adresses » sont à l’envers pour la docteure Vidal. Élvire essaie de les retourner en racontant le retour de voyage et le dimanche où Lou avait fermé la porte sans bruit. Elle voudrait donner un nombre d’heures pour chaque nuit. Le médecin lui demande à quelle fréquence elle se réveille plus tôt que prévu et à quel moment elle a commencé à s’en inquiéter. Élvire retrouve des exemples plusieurs jours par semaine et des matins de congé, depuis plusieurs mois. Elle décrit aussi des nuits où elle peine à s’endormir, bien qu’elle ait prévu du temps pour dormir.\n\nLa docteure Vidal demande à quoi ressemble la fatigue l’après-midi. Élvire dit qu’elle se concentre plus difficilement et qu’elle voudrait parfois rentrer tôt. Elle ne se rappelle pas de s’être assoupie au travail. Le médecin parle avec elle de ses horaires, de ses traitements et de ce qui pourrait perturber le sommeil. Elle lui demande si Lou a remarqué des pauses respiratoires et si elle éprouve des sensations dans les jambes au repos. Élvire répond à partir de ce qu’elle sait. Elle a peur de laisser un détail de côté. La docteure lui explique les observations qu’elle pourra signaler si elles apparaissent.\n\nAprès l’entretien et l’examen, la docteure Vidal lui dit qu’elle retient une insomnie chronique. Élvire répète le mot chronique à voix basse. Elle pensait surtout à un trait de caractère qui la rendrait incapable de se détendre. Elle demande ce qu’elles pourront faire et si elles peuvent commencer avec des repères qu’elle comprend.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qui relie les difficultés, leur durée et la journée",
+          "text": "Le diagnostic d’insomnie chronique se fonde sur une évaluation clinique. Le professionnel cherche des difficultés récurrentes et persistantes, malgré une possibilité suffisante de dormir, et leurs répercussions dans la vie éveillée. Il examine aussi des causes ou troubles associés qui peuvent demander un autre bilan. Chez Élvire, la docteure Vidal retrouve une histoire de plusieurs mois et des difficultés régulières dans des situations différentes. L’évaluation tient compte du travail, de l’humeur et des informations de santé disponibles, ainsi que des nuits elles-mêmes."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Préciser le vécu quand les mêmes mots peuvent couvrir plusieurs choses",
+          "text": "Élvire emploie le mot fatigue pour dire qu’elle doit se reprendre plusieurs fois avant d’envoyer un message et qu’elle perd vite patience. Le médecin lui demande si elle a aussi une tendance à s’endormir quand elle voudrait rester éveillée. Cette précision peut changer l’évaluation, notamment si le signe apparaît plus tard ou concerne une activité qui demande de la vigilance. Les difficultés de sommeil peuvent se manifester par des nuits et des journées différentes. En parler à partir de scènes connues aide à décrire ces variations."
+        },
+        {
+          "role": "strategies",
+          "heading": "Choisir ce qui sera utile au prochain rendez-vous",
+          "text": "La docteure Vidal et Élvire conviennent d’observer son sommeil et quelques effets pendant la journée jusqu’au prochain point. Élvire peut utiliser des estimations, en signalant ce qu’elle ne sait pas. Le médecin lui présente aussi la thérapie cognitivo-comportementale de l’insomnie, ou TCC-I, et lui propose de voir une professionnelle formée. Le suivi peut être revu si les symptômes évoluent. Élvire demande comment joindre le cabinet si elle commence à s’assoupir involontairement ou si un autre signe l’inquiète."
+        }
+      ],
+      "ending_title": "Un rendez-vous et une question de plus",
+      "ending": "En partant, Élvire a le nom de Claire Imbert, une psychologue formée à la TCC-I, et un rendez-vous de suivi avec la docteure Vidal. Elle demande si elle pourra revoir la manière de tenir l’agenda si elle passe trop de temps à remplir les cases. La docteure lui dit qu’elles pourront le simplifier ensemble. Dans la rue, Élvire écrit à Lou qu’elle a envie de lui raconter ce que le médecin a dit. Elle garde pour plus tard la réponse à Sonia, qui vient de lui proposer une visite de la cour le mercredi suivant.",
+      "mirror": [
+        "Lou peut demander ce qu’Élvire a envie de raconter de la consultation et l’écouter dans ses mots. « Tu veux que je t’écoute ou que je t’aide à repérer une question pour la prochaine fois ? » Elle peut dire ce qu’elle a remarqué si Élvire lui demande. Les décisions sur le diagnostic, les examens et les soins se discutent avec les professionnels."
+      ],
+      "sources": ["oms-insomnie", "assurance-maladie-insomnie-bilan", "aasm-tcc-insomnie"],
+      "continuity": {
+        "choice": "La docteure Vidal établit le diagnostic à l’issue du bilan. Élvire choisit de prendre contact pour une TCC-I et prépare un suivi.",
+        "next": "Elle dispose d’un contact en cas de changement de vigilance, d’un agenda d’observation et d’une invitation à visiter la cour."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "elvire-somnolence-avant-de-conduire",
+      "title": "Reconnaître la somnolence avant de prendre le volant",
+      "description": "Sur le parking, Élvire sent ses paupières se fermer. Elle renonce à conduire pour la visite du dépôt et demande un avis médical.",
+      "context": "Le mercredi de la visite, dans la camionnette encore stationnée",
+      "topics": ["Somnolence involontaire", "Sécurité des trajets", "Réévaluation médicale"],
+      "clinical_focus": "Somnolence et sécurité au volant",
+      "clinical_intro": "Élvire connaît la fatigue qui lui fait perdre le fil d’un message. Ce mercredi, ses paupières se ferment alors qu’elle attend dans la camionnette. La tendance à s’endormir change la décision à prendre. Elle reste à l’arrêt, organise un relais pour le trajet et demande au cabinet d’évaluer ce signe nouveau.",
+      "opening": "Le propriétaire a dit qu’il ouvrirait la grille de la cour à onze heures. Sonia a pris un mètre et le plan que les deux femmes veulent vérifier sur place. Élvire s’est proposée pour conduire, comme elle le fait parfois quand les autres véhicules sont en tournée. Elle est assise dans la camionnette, encore à l’arrêt, et attend que Sonia range le plan dans une pochette. Elle regarde une flèche peinte sur le sol du parking. Elle commence à chercher par où elles passeront quand ses yeux se ferment. Elle les rouvre et ne retrouve plus la direction de la flèche.\n\nElle pense un instant que Sonia va monter et qu’elle sera suffisamment réveillée une fois en route. Elle pose la main sur le volant sans démarrer. Ce matin, elle s’est déjà interrompue en lisant une ligne à son bureau et elle s’était dit que les lettres étaient trop petites. Dans la camionnette, elle a l’impression qu’elle pourrait s’assoupir même en essayant de rester attentive. Elle se rappelle la question de la docteure Vidal sur la différence entre devoir faire un effort et sentir qu’on va s’endormir.\n\nQuand Sonia ouvre la portière, Élvire lui dit qu’elle ne se sent pas en état de conduire. Sonia regarde l’heure et demande si Salim pourra repasser après sa première collecte. Élvire sort de la camionnette, pose les clés à l’intérieur du bureau et téléphone au propriétaire pour demander s’il pourra les attendre. Puis elle explique à Sonia qu’elle veut joindre le cabinet médical pour parler de la somnolence qui vient d’apparaître.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La somnolence change l’évaluation de la sécurité",
+          "text": "La fatigue peut se traduire par un manque d’énergie ou par l’impression que chaque tâche demande plus d’effort. La somnolence désigne la tendance à s’endormir dans une situation où l’on voudrait rester éveillé. Les deux peuvent se recouvrir dans la manière dont une personne les décrit. Une somnolence qui apparaît ou s’aggrave mérite d’être signalée. Elle peut avoir plusieurs causes, parmi lesquelles une dette de sommeil, certains traitements ou un autre trouble du sommeil. Le diagnostic d’insomnie reste un élément du dossier médical que l’équipe reprend avec les autres observations."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Voir ce qui est nouveau dans une journée déjà difficile",
+          "text": "Élvire avait surtout décrit des oublis et de l’irritabilité en consultation. Au parking, elle lutte pour garder les yeux ouverts avant même de prendre la route. Ce changement importe aussi pour les tâches où elle doit rester vigilante, par exemple près de véhicules en mouvement. Sonia peut savoir que le trajet doit être repris. La docteure Vidal a besoin de connaître la sensation d’assoupissement et les circonstances dans lesquelles elle est apparue. Les deux échanges ont un objet différent et peuvent avancer en parallèle."
+        },
+        {
+          "role": "strategies",
+          "heading": "Modifier le déplacement et transmettre le changement",
+          "text": "Face à la somnolence, Élvire reste à l’arrêt et convient d’un déplacement qu’elle peut faire en passagère ou remettre à plus tard. Sonia peut demander une nouvelle heure et expliquer le changement de conducteur sans annoncer des informations de santé à sa place. Élvire appelle le cabinet et décrit quand elle a senti ses yeux se fermer. Elle peut demander comment sécuriser ses déplacements et quand être revue. Le médecin décide si ce changement appelle un bilan complémentaire et adapte la suite à son activité."
+        }
+      ],
+      "ending_title": "Les clés restent sur le bureau",
+      "ending": "Le propriétaire peut attendre la fin de la tournée de Salim. Sonia lui montre le passage qu’elles veulent vérifier et dit qu’elles viendront ensemble plus tard. Au téléphone, Élvire raconte au cabinet ce qui est arrivé avant le départ. On lui fixe un rendez-vous rapproché et elle confirme qu’elle laissera les trajets à d’autres d’ici l’avis médical. Quand Salim arrive, il lui propose de se mettre côté cour pour descendre plus facilement. Elle lui tend le plan. Sur place, elle pourra regarder la grille depuis la rue. Sonia lui demande de lui indiquer ce qu’elle veut mesurer en premier.",
+      "mirror": [
+        "Sonia peut prendre la demande au sérieux et parler de solutions pour le déplacement. « On décale la visite ou on demande à Salim s’il peut conduire. » Élvire peut préciser ce dont elle a besoin et joindre le cabinet. Si une autre personne connaît le plan de la cour, elle peut aussi faire la visite. Chacun peut tenir sa place sans demander à Élvire de prouver qu’elle serait incapable de conduire."
+      ],
+      "sources": ["oms-insomnie", "assurance-maladie-insomnie-bilan", "securite-routiere-vigilance"],
+      "continuity": {
+        "choice": "Élvire renonce à conduire, confie le trajet à Salim et appelle le cabinet pour une réévaluation.",
+        "next": "La visite peut se faire avec Élvire passagère. Elle a un rendez-vous rapproché et laisse la conduite à d’autres en attendant l’avis médical."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "elvire-apprehension-du-lendemain",
+      "title": "Prévoir un lendemain impossible au moment de se rendormir",
+      "description": "Élvire se réveille et prévoit déjà l’échec de la réunion. Elle apporte cette prédiction à sa première séance de TCC-I.",
+      "context": "La nuit avant la réunion sur le dépôt, puis lors de la première séance avec Claire Imbert",
+      "topics": ["Appréhension de ne pas dormir", "Prédictions sur le lendemain", "Thérapie de l’insomnie"],
+      "clinical_focus": "Anxiété anticipatoire autour du sommeil",
+      "clinical_intro": "Au milieu de la nuit, Élvire imagine déjà la réunion du lendemain et la réponse qu’elle pourrait oublier. Plus elle cherche à s’assurer que tout ira bien, plus elle se sent en alerte. L’appréhension de ne pas dormir peut prendre de la place dans l’insomnie. La TCC-I permet d’en examiner les effets avec une professionnelle.",
+      "opening": "À la visite, Sonia avait ouvert la grille avec le propriétaire pendant qu’Élvire, arrivée en passagère, regardait de quel côté les habitants pourraient entrer à pied. Le plan est maintenant prêt pour la réunion. La docteure Vidal a revu Élvire après l’épisode au parking, lui a posé des questions sur sa vigilance récente et reprend ce point dans son suivi. Élvire a aussi fixé une première séance avec Claire Imbert. Elle s’est couchée en pensant qu’elle avait plusieurs choses à raconter. Elle se réveille dans le noir et cherche immédiatement quelle heure il est.\n\nElle pense à la réunion. Si elle ne se rendort pas, elle s’imagine manquer le moment où le propriétaire demandera qui ouvrira la grille. Elle se représente Sonia obligée de répondre à sa place, le silence des autres, puis une salle où personne ne parlerait plus du samedi. Elle se rappelle qu’elles ont écrit les deux décisions à prendre. Elle essaie de retrouver la liste dans l’ordre, comme si cela lui permettait d’être certaine de dormir ensuite. Le bruit du réfrigérateur devient assez net pour qu’elle attende le moment où il s’arrête. Elle regarde encore l’heure et se sent plus éveillée qu’au premier réveil.\n\nLa réunion a lieu le lendemain. Élvire perd le début d’une réponse et demande à Sonia de répéter. Elles obtiennent quand même un accord pour préparer un essai, à condition de préciser l’accueil à l’entrée. À sa première séance de TCC-I, Élvire raconte la nuit avant de raconter la réunion. Claire lui demande ce qu’elle redoutait au moment où elle a commencé à parcourir l’ordre du jour de mémoire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand l’appréhension prolonge la veille",
+          "text": "Une personne qui a souvent mal dormi peut appréhender les effets de la prochaine nuit. Au réveil, surveiller l’heure ou chercher à prévoir chaque difficulté du lendemain peut accroître la tension et maintenir l’attention sur ce qu’elle craint. Ce mécanisme peut entretenir une partie des difficultés. Les causes et les circonstances d’une insomnie restent multiples. En TCC-I, le professionnel peut examiner la place des pensées et des comportements avec la personne, en tenant compte de son histoire et de la vigilance nécessaire dans la journée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Séparer la scène redoutée de ce qui s’est produit",
+          "text": "Élvire pensait perdre son fil et que toute la discussion s’arrêterait. Le premier événement est arrivé. Elle a demandé qu’on reprenne une phrase et l’équipe a pu avancer. La difficulté était réelle, avec une conséquence différente de celle qu’elle anticipait. Lors d’un réveil, elle peut aussi se surprendre à préparer une conversation familiale ou à calculer combien de temps il reste avant le lever. Les sujets changent et la recherche de certitude peut prendre la même forme. Ce sont des éléments dont elle peut parler en séance."
+        },
+        {
+          "role": "strategies",
+          "heading": "Amener une prédiction précise à la séance",
+          "text": "Avec Claire, Élvire peut comparer la scène qu’elle imaginait et la réponse qu’elle a finalement trouvée. Claire lui demande ce qu’elle savait déjà, ce qui lui manquait et ce qui l’a aidée à reprendre la discussion. Elles conviennent de prendre un exemple à la fois, en restant attentives à la façon dont Élvire réagit lorsqu’elle surveille son sommeil. Les décisions qui relèvent du soin sont ajustées avec Claire et la docteure Vidal. Dans l’équipe, Élvire peut garder l’accord de faire répéter un point dont elle a perdu le début."
+        }
+      ],
+      "ending_title": "L’accueil reste une question de l’équipe",
+      "ending": "Claire pose devant elle une feuille où Élvire peut séparer ce qu’elle pensait à trois heures du matin et ce que Sonia a dit en réunion. Élvire écrit qu’elle a perdu une phrase et qu’elle a réussi à poser sa question. En rentrant, elle ouvre le message de Sonia et lui propose qu’elles visitent ensemble l’endroit où un habitant arriverait avec une chaise. Il leur restera à demander qui veut accueillir au premier essai. Elle se rappelle la réunion de la nuit, celle qu’elle avait imaginée sans aucune réponse. Elle attend d’entendre les personnes qui travailleront avec elle.",
+      "mirror": [
+        "Lou peut écouter la crainte d’Élvire et préciser le moment où elle est disponible pour en parler. « J’entends que tu redoutes la réunion. On peut regarder demain quelle question t’inquiète le plus. » Elle peut rester près d’elle sans promettre qu’elle dormira ou que la journée se passera d’une certaine manière. Élvire peut rapporter cet échange à la professionnelle qui l’accompagne."
+      ],
+      "sources": ["oms-insomnie", "aasm-tcc-insomnie", "assurance-maladie-insomnie-bilan"],
+      "continuity": {
+        "choice": "Élvire apporte à Claire une prédiction nocturne et la compare à la réunion. Elle demande à Sonia d’examiner l’accueil sur place.",
+        "next": "Un premier essai est envisagé sous réserve de préciser l’entrée et les rôles. La TCC-I et le suivi médical se poursuivent."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "elvire-chambre-devenue-bureau",
+      "title": "Quand la chambre devient le lieu où l’on prépare le lendemain",
+      "description": "Au coucher, Élvire reprend le plan du dépôt et perd le fil de sa soirée. Elle examine avec Claire ce qui réveille son attention.",
+      "context": "Une semaine plus tard, entre la maison et une séance de TCC-I",
+      "topics": ["Éveil associé au coucher", "Pensées de travail", "Adaptation concertée"],
+      "clinical_focus": "Association entre coucher et éveil",
+      "clinical_intro": "Élvire garde le plan près du lit pour être sûre de retrouver chaque question. Dès qu’elle se couche, elle commence à organiser l’accueil dans sa tête. Des habitudes peuvent rapprocher le coucher d’une activité qui la tient en éveil. Avec Claire, elle cherche un changement qui corresponde à ses contraintes et à son suivi.",
+      "opening": "En revenant de la cour, Élvire avait laissé le plan sur la table du salon. Lou l’a déplacé pour poser le dîner et Élvire l’a retrouvé dans la chambre. Elle a vu une flèche qui commençait au mauvais endroit et l’a corrigée avant de se coucher. Elle voulait garder le papier à côté d’elle pour ne pas perdre l’idée. Lou lui parle de la manière dont elle a retrouvé une amie en sortant du travail. Élvire l’écoute jusqu’au moment où son doigt touche le bord de la feuille. Elle reprend mentalement le chemin entre la grille et l’abri. Il faudra décider si les objets trop lourds restent dehors.\n\nQuand Lou a éteint sa lampe, Élvire avait encore plusieurs trajets en tête. Le lendemain, elle a posé un livre à la place du plan. Elle a passé une partie de la soirée à chercher où écrire ce qu’elle redoutait d’oublier. Plus tard, elle s’est aperçue qu’elle passait de la lecture à la préparation du samedi sans ouvrir le papier. Au bout du couloir, la table du salon restait débarrassée. Elle aurait pu y revenir pour travailler, mais elle avait promis à Lou de finir leur conversation. En se réveillant pendant la nuit, elle a retrouvé la grille avant de retrouver la fin de l’histoire racontée par Lou.\n\nEn séance, Claire lui demande à quels moments elle reprend les plans. Élvire lui répond qu’elle se prépare parfois dès qu’elle passe devant la porte de la chambre. Elle remarque qu’elle fait aussi de la place à ces décisions à l’heure du dîner. Elle aimerait avoir un moment de la soirée qui ne soit pas organisé autour de ce qu’elle doit encore prévoir.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le cadre du coucher peut devenir familier à l’éveil",
+          "text": "Une partie du travail en TCC-I peut porter sur les associations entre les conditions du coucher et l’état d’éveil. Si une personne passe régulièrement ce moment à résoudre des problèmes, à surveiller son sommeil ou à attendre en tension, certains éléments du cadre peuvent rappeler ces efforts. Le mécanisme se construit dans le temps et peut varier. Élvire associe désormais le bord de sa feuille, le passage de la porte et la nuit à des décisions qu’elle voulait finir. Claire examine ce phénomène avec elle parmi les autres facteurs déjà discutés."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Retrouver le fil d’un échange quand le travail revient",
+          "text": "Élvire reprend le plan quand elle touche la feuille, puis continue de parcourir le trajet alors qu’elle ne la regarde plus. Lou lui parle de quelque chose qu’Élvire voudrait entendre. Elle remarque le changement quand elle se rappelle bien la grille et beaucoup moins l’amie. Le même effort de préparation peut se produire au dîner ou à une heure où Élvire voudrait seulement se rendormir. L’effet sur la relation et sur le sommeil lui donne des exemples distincts à examiner en séance."
+        },
+        {
+          "role": "strategies",
+          "heading": "Mettre une décision à l’endroit où elle peut être traitée",
+          "text": "Élvire peut choisir où conserver le plan et convenir avec Sonia du moment où elles reprendront les dernières questions de l’accueil. Claire l’aide à observer ce qui change et lui demande de lui signaler toute nouvelle somnolence. Les composantes de la TCC-I s’ajustent avec la professionnelle, notamment quand la personne exerce des activités qui demandent de la vigilance. Le choix d’une place pour le plan répond surtout à la façon dont le travail envahit cette soirée. Élvire peut s’en servir pour revenir sur une activité qu’elle aimerait retrouver avec Lou."
+        }
+      ],
+      "ending_title": "Le plan repart dans son enveloppe",
+      "ending": "Ce soir, Élvire range le plan dans l’enveloppe avec le badge du bureau. Elle écrit à Sonia qu’elle veut reprendre demain la question des objets lourds. Puis elle demande à Lou si elle a encore envie de lui raconter la rencontre avec son amie. Lou lui dit qu’elle a envie d’en parler maintenant et qu’elle s’arrêtera au moment de servir le dîner. Élvire se rappelle le prénom de l’amie et trouve la question qu’elle voulait lui poser hier. Plus tard, elle signalera à Claire qu’il lui est encore arrivé de penser à la grille en se couchant. Elle a aussi pu écouter Lou jusqu’au bout.",
+      "mirror": [
+        "Lou peut dire ce qu’elle aimerait retrouver dans la soirée et laisser à Élvire la décision sur son plan. « Ça me ferait plaisir de reprendre cette histoire au dîner si tu es disponible. » Elle peut aussi choisir un autre moment. La place des objets et le travail sur le sommeil se discutent dans les cadres qu’Élvire a choisis avec son équipe et sa thérapeute."
+      ],
+      "sources": ["oms-insomnie", "aasm-tcc-insomnie", "assurance-maladie-insomnie"],
+      "continuity": {
+        "choice": "Élvire garde le plan avec ses affaires de travail et fixe avec Sonia une reprise de la question des objets lourds.",
+        "next": "Lou retrouve un moment de conversation choisi. Élvire souhaite rapporter à Claire ce qui a changé et ce qui reste difficile au coucher."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "elvire-agenda-du-sommeil",
+      "title": "Observer ses nuits quand les chiffres deviennent un verdict",
+      "description": "Élvire veut remplir chaque case de son agenda du sommeil. Avec Claire, elle choisit les observations qui servent réellement au suivi.",
+      "context": "Un vendredi matin à la maison, puis en consultation avec Claire",
+      "topics": ["Agenda du sommeil", "Estimation du sommeil", "Retentissement dans la journée"],
+      "clinical_focus": "Observation du sommeil et surveillance",
+      "clinical_intro": "Élvire essaie de retrouver la durée exacte d’un éveil dont elle se souvient mal. Elle voudrait que son agenda départage une nuit qui compte d’une nuit ratée. Un agenda de sommeil sert à repérer des variations et leurs effets. Quand l’observation devient une source de tension, il est possible d’en parler et d’en ajuster l’usage avec la professionnelle.",
+      "opening": "Le vendredi, Élvire ouvre le cahier avant de préparer le café. Elle avait écrit la veille qu’elle s’était réveillée vers le milieu de la nuit. Elle veut savoir combien de temps elle est restée éveillée. Elle se rappelle une moto dans la rue, un tour vers la salle de bains et l’idée qu’elle devait encore confirmer la date du premier essai. Elle ne sait pas lequel de ces souvenirs est le dernier. Elle recommence à calculer en partant de la moto. Lou a déjà ouvert la fenêtre et attend de savoir si Élvire veut s’asseoir un moment avec elle.\n\nÉlvire regarde les deux pages précédentes. L’une décrit une nuit qu’elle a vécue comme très mauvaise. Elle se rappelle pourtant avoir tenu toute la réunion en reprenant les décisions une par une. L’autre lui semblait meilleure au lever. Plus tard, elle avait quitté la salle de pause parce qu’elle n’arrivait pas à suivre ce que Sonia racontait. Elle voudrait que ces deux journées entrent dans des cases comparables. À force de reprendre le chiffre, elle commence à douter des seules choses dont elle était sûre. Elle ferme le cahier et dit à Lou que, pour cette nuit, elle se souvient surtout d’un éveil et du retour au plan.\n\nEn consultation, Élvire montre les cases où elle a barré plusieurs durées. Claire lui demande à quoi le cahier doit les aider. Élvire voudrait repérer les changements qui la concernent, notamment ce qu’elle arrive à faire au bureau et les circonstances où elle se sent moins vigilante. Elle dit qu’elle n’a pas retrouvé l’assoupissement du parking depuis leur dernier échange avec la docteure Vidal. Elle souhaite garder de quoi le noter s’il se reproduit, sans passer chaque matin à recommencer le calcul.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un agenda décrit une expérience sur plusieurs jours",
+          "text": "Un agenda du sommeil peut aider une personne et le professionnel à regarder les horaires, les difficultés de la nuit et la façon dont elle se sent ensuite. Il repose sur ce dont la personne se souvient et sur ses estimations. Il peut inclure des circonstances comme un bruit ou un horaire inhabituel. Le professionnel choisit avec elle ce qui a du sens pour le bilan ou le suivi. L’utilité vient du lien entre les observations, le contexte et les décisions à prendre, ainsi que de la possibilité d’y revenir ensemble."
+        },
+        {
+          "role": "manifestations",
+          "heading": "S’apercevoir que la mesure occupe plus de place que l’observation",
+          "text": "Élvire voudrait un résultat assez précis pour interpréter sa journée dès le réveil. Quand deux jours se contredisent, elle ajoute des calculs au lieu de regarder ce qui s’est passé dans chaque situation. Le cahier commence alors à retenir une partie du temps qu’elle voulait passer avec Lou. En séance, elle peut distinguer ce qu’elle sait, par exemple qu’elle est restée éveillée un moment, de ce qu’elle estime moins bien. Elle peut aussi décrire les répercussions qui lui semblent importantes, comme avoir du mal à suivre une conversation."
+        },
+        {
+          "role": "strategies",
+          "heading": "Revoir l’usage du cahier avec la professionnelle",
+          "text": "Claire et Élvire s’entendent sur ce qu’elles souhaitent revoir au prochain rendez-vous. Elles peuvent laisser une durée inconnue, préciser les circonstances et noter un exemple de disponibilité ou de difficulté pendant la journée. Le suivi médical de la vigilance reste à part et Élvire sait à qui signaler un assoupissement s’il revient. Au travail, elle peut confirmer la date de l’essai à partir de l’avis de l’équipe et de l’accès au lieu. Le chiffre qu’elle cherchait le matin ne peut pas décider à lui seul si la coopérative est prête."
+        }
+      ],
+      "ending_title": "La case qu’elle laisse ouverte",
+      "ending": "Élvire écrit « réveil avec le bruit de la moto » et garde la durée vide. Elle se souvient qu’elle voulait demander à Lou de prendre son café ensemble. Au bureau, Sonia lui confirme qu’elles peuvent préparer une matinée d’essai si l’accueil et la manutention sont assurés séparément. Élvire inscrit les deux rôles sur le tableau. Elle laisse le cahier dans son sac et appelle Lou sur le chemin du retour pour lui demander si elle a envie d’un café demain. Elle peut convenir d’une heure sans commencer par vérifier la nuit qui précédera.",
+      "mirror": [
+        "Lou peut demander quelle place Élvire voudrait donner au cahier. « Tu peux le finir plus tard si tu veux, je suis encore là pour le café. » Elle peut rappeler un événement de la nuit si Élvire le lui demande. Le suivi de la vigilance et la manière de tenir l’agenda se discutent avec les soignants. Elles peuvent garder un moment commun dont le déroulement ne dépend pas d’un chiffre."
+      ],
+      "sources": ["oms-insomnie", "assurance-maladie-insomnie-bilan", "aasm-tcc-insomnie"],
+      "continuity": {
+        "choice": "Élvire et Claire simplifient l’usage de l’agenda. Sonia et Élvire distinguent accueil et manutention pour l’essai.",
+        "next": "La matinée d’essai reste à préparer. Élvire a proposé un café à Lou et sait quoi signaler au médecin si la somnolence revient."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "elvire-irritabilite-et-reparer",
+      "title": "Reprendre une conversation après avoir répondu trop durement",
+      "description": "Élvire entend une remarque sur ses horaires comme un reproche. Elle revient vers Lou pour parler du ton et de leur désaccord.",
+      "context": "Le samedi matin, dans la cuisine, après le café proposé à Lou",
+      "topics": ["Irritabilité diurne", "Interprétation d’une remarque", "Réparation relationnelle"],
+      "clinical_focus": "Fatigue, irritabilité et échanges proches",
+      "clinical_intro": "Lou demande si le dépôt laissera du temps pour leur samedi. Élvire entend la question comme un reproche après une nuit qui lui a demandé beaucoup d’effort. Une difficulté de sommeil peut réduire la disponibilité émotionnelle. Revenir sur l’échange permet aussi de reconnaître que Lou avait une question concrète sur la place de leur temps commun.",
+      "opening": "Lou a pris deux tasses sans les remplir. Elle attend qu’Élvire choisisse si elle veut du café ou du thé. Elles s’étaient dit qu’elles garderaient cette matinée pour marcher avant de déjeuner chez la mère de Lou. Élvire a peu dormi. En descendant vers la cuisine, elle s’est rappelé qu’elle avait proposé ce café. Lou lui demande à quel moment les permanences du dépôt commenceront. Elle veut savoir si le samedi restera un jour où elles pourront organiser quelque chose ensemble. Élvire répond qu’elle peut tout laisser tomber si Lou préfère. Elle pose la tasse trop fort et une goutte passe sous la soucoupe.\n\nLou lui dit qu’elle voudrait parler de leur emploi du temps et qu’elle ne veut pas continuer avec ce ton. Elle prend sa veste et va faire la première partie du trajet seule. Élvire reste à la table. Elle pense que Lou ne voit pas l’effort qu’elle a fait pour descendre s’asseoir. Puis elle se souvient que Lou lui avait laissé le temps de choisir et qu’elle avait posé une question sur les permanences. Sonia et elle ont parlé d’une matinée d’essai. Elles n’ont encore promis aucun rythme. Élvire avait répondu comme si elle devait défendre tous les samedis de l’année.\n\nQuand Lou revient chercher son sac, Élvire lui demande si elle peut lui dire une chose avant qu’elle parte. Elle lui dit qu’elle a répondu trop durement et qu’elle voudrait reprendre la question quand Lou en aura envie. Elle peut lui dire ce que l’équipe a décidé et ce qui sera encore choisi ensemble. Lou lui répond qu’elle préfère en parler sur le chemin du retour, après le déjeuner.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’humeur et les relations font partie des répercussions",
+          "text": "Les difficultés de sommeil peuvent avoir des effets sur l’énergie, la concentration et l’humeur. Une personne peut se sentir plus vite débordée par une demande ou avoir besoin d’un temps supplémentaire pour répondre. Les effets dépendent aussi de la situation et des relations. Chez Élvire, la nuit difficile se combine à l’importance du projet du samedi et à la peur de devoir tout justifier. Lou, de son côté, a besoin de savoir comment prévoir un moment partagé. Leur question reste utile même un jour où Élvire a mieux dormi."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Distinguer ce qu’on a entendu et ce qui a été demandé",
+          "text": "Élvire a entendu que Lou voulait qu’elle arrête. La demande portait sur le rythme des permanences. L’écart apparaît quand Élvire se rappelle leurs mots et ce qui reste à décider à la coopérative. Elle a déjà vécu un décalage semblable quand Sonia lui a montré la photo de la cour et qu’elle a répondu comme si la date était imposée. Elle peut décrire ces situations en séance et entendre les limites posées par les personnes concernées. Le retentissement de ses nuits peut éclairer la conversation et laisser une place aux questions de chacune."
+        },
+        {
+          "role": "strategies",
+          "heading": "Revenir sur le ton puis répondre à la question",
+          "text": "Élvire peut reconnaître sa réponse, demander à Lou si elle souhaite reprendre l’échange et choisir un moment où elles ont toutes les deux le temps. Pour les samedis, elle peut distinguer une date d’essai et un engagement régulier qui n’existe pas encore. Lou peut préciser ce qu’elle espère préserver. Si Élvire souhaite parler de l’irritabilité à Claire ou à la docteure Vidal, elle dispose d’un exemple où la fatigue et le désaccord se mêlent. La conversation de couple et le suivi peuvent avancer à des moments différents."
+        }
+      ],
+      "ending_title": "Un samedi en question, les autres en réserve",
+      "ending": "Après le déjeuner, Lou lui propose de passer par la place. Élvire lui explique qu’elles préparent un samedi et qu’elle voudrait que l’accueil puisse être repris par quelqu’un d’autre. Elle aimerait parler avec Lou des moments qu’elles ont envie de garder ensemble. Lou dit qu’elle souhaite conserver leurs déjeuners quand sa mère en organise, et qu’elle veut décider de venir au dépôt selon ses disponibilités. Élvire accepte d’en reparler lorsque l’équipe aura une date. Elles s’arrêtent pour choisir un pain pour le soir. Élvire laisse le reste de la discussion au jour où elles sauront ce qui sera effectivement proposé.",
+      "mirror": [
+        "Lou peut nommer la façon dont la réponse l’a touchée et proposer un moment où elle voudra reparler. « Je voulais qu’on voie comment organiser nos samedis. Je veux bien reprendre sur le chemin du retour. » Elle peut reconnaître qu’Élvire est fatiguée et maintenir sa limite sur le ton de l’échange. Elle peut aussi garder le choix de participer ou non au dépôt."
+      ],
+      "sources": ["oms-insomnie", "assurance-maladie-insomnie", "assurance-maladie-insomnie-bilan"],
+      "continuity": {
+        "choice": "Élvire reconnaît sa réponse et répond à la question réelle de Lou quand elles acceptent de reparler.",
+        "next": "Lou garde ses propres disponibilités. Élvire veut proposer des rôles partageables sans promettre tous les samedis."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "elvire-nuit-difficile-apres-progres",
+      "title": "Traverser une mauvaise nuit après des semaines plus faciles",
+      "description": "Le bruit du chantier réveille Élvire. Elle regarde ce qui l’a gênée, garde un rendez-vous et ajuste sa part de l’essai.",
+      "context": "Quelques jours avant l’ouverture au public, le mardi de la répétition",
+      "topics": ["Variation des nuits", "Contexte d’une difficulté", "Ajustement du suivi"],
+      "clinical_focus": "Fluctuations dans l’insomnie chronique",
+      "clinical_intro": "Après plusieurs nuits où elle a réussi à se rendormir plus facilement, Élvire est réveillée par un chantier dans la rue. L’inquiétude revient et elle craint de perdre les progrès qu’elle avait remarqués. L’évolution s’apprécie dans le temps, avec les circonstances de chaque nuit et ses conséquences. Une difficulté nouvelle peut aussi fournir une raison de reprendre contact.",
+      "opening": "Le bruit du chantier est venu du côté de la rue à un moment où Élvire dormait encore. Elle a entendu le camion reculer, puis des chocs plus brefs quand on a posé quelque chose au sol. Elle a compris que les travaux commenceraient plus tôt que prévu. Elle avait retrouvé le sommeil après certains réveils les deux dernières semaines. Ce matin, dès le premier bruit, elle se demande si tout va reprendre comme au début. Elle cherche l’heure et pense à la répétition que l’équipe a organisée avant le premier samedi d’ouverture au public.\n\nLe chantier continue alors qu’elle aurait encore pu dormir. Une partie de la nuit lui échappe à cause du bruit. Quand les chocs s’arrêtent, elle reste attentive à leur retour et commence à refaire de mémoire le trajet entre la grille et le bureau. Elle se lève avec l’impression que toutes ses observations de la semaine ne valent plus grand-chose. Au bureau, elle hésite à dire à Sonia qu’elles devraient reporter. Elles doivent seulement essayer les rôles entre collègues, avec quelques objets déjà rangés dans la cour. Élvire sait ce qu’elle voulait vérifier. Il faut que Salim puisse montrer le passage pendant qu’une autre personne note l’arrivée.\n\nElle dit à Sonia qu’elle a mal dormi et qu’elle veut tenir sa part de l’essai. Elle peut observer le passage depuis la table d’accueil et a besoin que Sonia garde la liste des objets. Salim reste chargé des trajets. Élvire a encore un rendez-vous avec Claire prévu le lendemain. Elle décide d’y parler de ce réveil et de ce qu’elle redoute quand une nuit change brusquement.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Lire une nuit dans son contexte et dans l’évolution",
+          "text": "L’évolution des difficultés de sommeil peut comporter des variations. Une nuit gênée par du bruit et une série de réveils difficiles en conditions habituelles apportent des informations différentes. Il peut aussi y avoir plusieurs choses dans la même nuit. Élvire a d’abord été réveillée par le chantier. Ensuite, elle reste en alerte et recommence à préparer sa journée. En suivi, la professionnelle peut reprendre ces observations avec les autres nuits et examiner si la gêne recommence à s’installer ou si d’autres éléments doivent être évalués."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Repérer ce qui a été difficile aujourd’hui et ce qui reste possible",
+          "text": "Élvire se sent moins disponible et craint de devoir changer tout le programme. L’essai du matin lui permet de vérifier une seule chose depuis l’accueil pendant que Sonia suit les objets. Elle se rend compte que certaines tâches sont possibles avec ce relais. Cela ne suffit pas à mesurer son sommeil, et la prudence qu’elle garde pour les trajets répond à une autre question. Ces distinctions peuvent l’aider à décrire la journée en consultation. Elle peut dire comment elle se sent et quels changements ont réellement été nécessaires."
+        },
+        {
+          "role": "strategies",
+          "heading": "Garder le suivi et choisir la part de la tâche à prendre",
+          "text": "Élvire peut noter le bruit, la veille qui a suivi et l’effet qu’elle ressent pendant l’essai. Claire pourra discuter avec elle de l’appréhension revenue et de ce qui a déjà changé sur plusieurs semaines. La docteure Vidal reste l’interlocutrice si la somnolence réapparaît, si les difficultés persistent ou si un autre signe inquiète Élvire. Pour la coopérative, l’équipe peut répartir des rôles clairs et décider de l’ouverture après l’essai. Cela leur donne une base indépendante de la manière dont Élvire évalue cette seule nuit."
+        }
+      ],
+      "ending_title": "Deux rôles vérifiés au lieu d’un essai annulé",
+      "ending": "Salim se présente à la grille avec une chaise que l’équipe gardait déjà en réserve. Sonia note son arrivée pendant qu’Élvire lui montre le chemin depuis la table. Elles se rendent compte qu’un objet reste trop longtemps devant la porte quand personne ne reprend l’indication après l’accueil. Élvire demande que la question soit inscrite au point d’équipe de jeudi. Le reste de l’essai peut être gardé. Le lendemain, elle apporte à Claire le souvenir du camion, la crainte d’avoir perdu ses progrès et la réponse qu’elle a finalement trouvée avec Sonia. Elle n’a plus besoin de résumer la nuit par un seul résultat.",
+      "mirror": [
+        "Sonia peut demander ce qui est possible aujourd’hui et rappeler l’objet de l’essai. « Tu peux rester à l’accueil. Je prends la liste et on regarde le passage avec Salim. » Lou peut entendre la déception d’une nuit difficile sans promettre que tout ira mieux demain. Élvire choisit ce qu’elle veut reprendre au prochain rendez-vous et garde un moyen de joindre le médecin si un signe nouveau la préoccupe."
+      ],
+      "sources": ["oms-insomnie", "assurance-maladie-insomnie-bilan", "aasm-tcc-insomnie"],
+      "continuity": {
+        "choice": "Élvire poursuit l’essai avec un rôle précis et reprend le réveil lié au chantier avec Claire.",
+        "next": "Le passage des objets devant la porte reste à décider jeudi. La matinée ouverte au public est prévue si l’équipe peut répartir les rôles."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "elvire-parler-des-besoins-au-travail",
+      "title": "Demander un relais quand on craint de paraître moins fiable",
+      "description": "Élvire craint qu’on lui retire la coordination. Elle dit à Sonia ce qu’elle veut partager et propose une répartition vérifiable.",
+      "context": "Le jeudi avant l’ouverture, au point d’équipe de la coopérative",
+      "topics": ["Crainte du jugement au travail", "Confidentialité choisie", "Répartition des tâches"],
+      "clinical_focus": "Fatigue et demande de relais",
+      "clinical_intro": "Élvire veut demander de l’aide pour l’ouverture et craint qu’on entende qu’elle ne peut plus coordonner. Les répercussions de l’insomnie peuvent être difficiles à rendre visibles au travail. En distinguant ce qu’elle souhaite dire de sa santé, ce qu’elle peut assurer et ce qui doit être partagé, elle aide l’équipe à prendre une décision précise.",
+      "opening": "Sonia a remis au milieu de la table le croquis fait pendant la répétition. Elle a marqué l’endroit où la chaise de Salim s’était arrêtée devant la porte. Élvire a apporté un feutre vert. Elle voudrait réserver la place à ceux qui passent à pied et trouver un autre point où les collègues peuvent reprendre les objets. Quand Sonia demande qui prendra le premier relais, Élvire commence à parler avant que Salim ait fini. Elle propose de tenir à la fois le registre, l’entrée et les questions du bureau. Plus elle donne de détails, plus elle espère que les autres verront qu’elle a encore une place dans ce projet.\n\nÀ la réunion précédente, Sonia avait accepté de tenir la liste. Élvire avait pu regarder le passage depuis la table et repérer un problème. Aujourd’hui, elle pense au moment où elle avait posé les clés sur le bureau et à la facilité avec laquelle quelqu’un pourrait confondre cette décision avec une incapacité à organiser les tournées. Elle sait qu’il serait préférable de garder les tâches séparées. Elle cherche comment le dire sans devoir raconter sa santé autour de la table.\n\nAvant de reprendre le plan, elle demande à Sonia de venir quelques instants dans le couloir. Elle lui dit qu’on a évalué une insomnie chronique et qu’elle est accompagnée. Elle lui demande de garder cette information entre elles. Pour samedi, elle a besoin que la manutention et les trajets restent pris en charge par l’équipe et que quelqu’un puisse reprendre le registre pendant une pause. Sonia lui dit qu’elle est d’accord pour parler des rôles ensemble. Elle lui demande quelle partie de la coordination Élvire veut garder.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que le travail peut rendre visible d’une difficulté de sommeil",
+          "text": "Les répercussions de l’insomnie se voient parfois quand les tâches demandent d’interrompre un raisonnement, de faire plusieurs choses à la fois ou de rester attentive. Élvire connaît la coopérative et sait ce qu’elle veut proposer. Elle remarque que certains jours elle a besoin de reprendre une information et de laisser d’autres personnes tenir des rôles distincts. L’évaluation du sommeil et de la vigilance continue avec ses soignants. Dans l’équipe, il est possible de discuter à partir des tâches et de ce qui permet de les assurer de manière fiable."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Entendre ce qu’on se met à promettre par peur du jugement",
+          "text": "Élvire a peur que l’équipe entende une demande de relais comme une manière d’abandonner la coordination. Elle se propose donc pour plusieurs postes, dont certains avaient déjà été essayés avec d’autres personnes. Ce mouvement lui rappelle les nuits où elle prévoit à l’avance toutes les réponses qui pourraient manquer. L’équipe, elle, a posé une question sur la première relève. Élvire peut prendre le temps d’écouter ce que les autres sont prêts à faire et vérifier ce qu’on attend vraiment d’elle avant de s’engager."
+        },
+        {
+          "role": "strategies",
+          "heading": "Préciser les rôles et choisir ce qui sera partagé",
+          "text": "Élvire peut parler en privé à la personne qu’elle choisit et expliquer au reste du groupe ce qu’il a besoin de savoir pour l’ouverture. Elle peut garder l’accueil, demander une relève identifiée et convenir d’un signal quand un objet doit être repris près de la porte. Sonia peut respecter l’information qui lui a été confiée. Si Élvire a des questions sur sa vigilance ou sur une adaptation de son travail, elle peut les reprendre avec ses interlocuteurs professionnels. L’accord pour samedi répond à la situation que l’équipe a déjà observée pendant l’essai."
+        }
+      ],
+      "ending_title": "Le prénom écrit à côté de la relève",
+      "ending": "De retour dans la salle, Élvire montre le croquis et reprend la question de Sonia. Elle garde la première heure d’accueil. Sonia accepte de prendre le registre si Élvire le lui demande. Salim confirme qu’il restera avec l’équipe de manutention et s’occupera des trajets. Une autre collègue propose de placer une indication dans la cour pour que les visiteurs sachent où attendre. Élvire marque les rôles et prépare avec eux le texte qui annonce la matinée. Le rendez-vous est public et concerne un premier samedi. Quand elle le dit à Lou le soir, elle peut aussi lui dire quand elles décideront de la suite.",
+      "mirror": [
+        "Sonia peut demander à Élvire ce qu’elle souhaite partager et reprendre le reste à partir du travail. « Je garde notre échange pour moi. Tu veux que je dise à l’équipe que je peux prendre le registre ? » Elle peut préciser le relais qu’elle accepte et laisser Élvire parler de ses soins aux personnes qu’elle choisit. Une demande d’aide peut se discuter en regard de l’accueil et de la sécurité."
+      ],
+      "sources": ["oms-insomnie", "assurance-maladie-insomnie-bilan", "assurance-maladie-insomnie"],
+      "continuity": {
+        "choice": "Élvire parle à Sonia en privé, puis garde l’accueil avec une relève décidée par l’équipe.",
+        "next": "L’ouverture publique du samedi est annoncée. Sonia peut reprendre le registre, Salim et l’équipe tiennent la manutention et les trajets."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "elvire-ouvrir-apres-une-nuit-fragile",
+      "title": "Garder une activité choisie après une nuit qui a demandé de l’effort",
+      "description": "À l’ouverture du dépôt, Élvire perd le fil quand plusieurs personnes arrivent. Elle utilise la relève convenue avec Sonia.",
+      "context": "Le premier samedi d’ouverture du point de dépôt",
+      "topics": ["Fatigue pendant une activité", "Gestion de l’attention", "Appui d’équipe"],
+      "clinical_focus": "Retentissement diurne et soutien concret",
+      "clinical_intro": "L’ouverture commence et Élvire reçoit deux demandes à la fois. Après un réveil précoce, elle remarque qu’elle perd le début des phrases quand on lui parle pendant qu’elle écrit. Elle souhaite rester à l’accueil et utiliser la relève prévue. L’épisode montre comment un appui concret peut préserver sa participation malgré une journée plus difficile.",
+      "opening": "La première personne franchit la grille sans rien dans les mains. Elle demande si elle peut repartir chercher une lampe avant la fermeture. Élvire lui montre l’indication dessinée par sa collègue et lui explique où revenir. Elle se réjouit que quelqu’un puisse entrer sans avoir attendu une tournée. Elle s’était réveillée trop tôt et avait eu de la peine à se rendormir. En arrivant en passagère avec Sonia, elle a relu le registre et repéré le premier moment où sa collègue pourra prendre sa place. Pour l’instant, elle entend bien la question de la lampe et sait ce qu’elle doit répondre.\n\nPuis un homme vient demander ce qu’il peut faire d’un bureau. Il a besoin qu’on lui indique où laisser la remorque. Au même moment, quelqu’un veut savoir si une chaise avec un pied cassé peut être reprise. Élvire commence à écrire un prénom et perd la suite du premier échange. Elle lève la tête et entend que Salim est en train d’indiquer à son collègue le passage prévu pour les objets volumineux. Elle aurait envie de se lever pour aller montrer elle-même le tracé au sol. Elle se souvient qu’elle ne pourra pas revenir aux deux questions en même temps.\n\nElle demande à Sonia de reprendre le registre. À l’homme qui a apporté le bureau, elle dit qu’il peut attendre près du panneau, où Salim va venir le retrouver. Sonia demande à la personne à la chaise de redire ce qu’elle a apporté. Élvire prend le temps de s’asseoir quelques minutes dans le bureau de la cour. Elle voudrait revenir pour l’arrivée de la lampe. Elle dit à Sonia à quel moment elle compte reprendre sa place si elle se sent suffisamment disponible.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le retentissement dépend aussi des demandes de la situation",
+          "text": "Après une nuit difficile, une personne peut avoir du mal à traiter plusieurs informations en même temps ou à reprendre le fil après une interruption. L’effet varie selon ce qu’elle a à faire et selon les appuis possibles. Élvire répond à la question de la lampe quand elle a le temps d’écouter. Les arrivées simultanées lui demandent un autre effort. Un changement d’organisation peut réduire la charge de cette activité et préserver la qualité de l’accueil. Les nuits difficiles et leur retentissement restent des éléments à reprendre dans le suivi."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Reconnaître le moment où le fil commence à se perdre",
+          "text": "Élvire remarque qu’elle écrit encore le premier prénom alors que le deuxième échange a commencé. Elle pourrait essayer de rattraper la réponse en se déplaçant vers la porte. Cela laisserait deux personnes à l’accueil sans interlocuteur. Son expérience des deux adresses au bureau de la coopérative lui avait déjà montré le coût d’un message envoyé au moment d’une interruption. Le signe du jour concerne sa concentration. La consigne sur les trajets et la vigilance reste distincte. Salim garde la conduite et la manutention, comme ils en ont convenu."
+        },
+        {
+          "role": "strategies",
+          "heading": "Prendre la relève au moment où elle devient utile",
+          "text": "Élvire demande à Sonia de reprendre le registre en lui indiquant où elle s’est arrêtée. Elle confirme ensuite qui va chercher le visiteur au panneau. Ces gestes donnent à chacun une suite précise. Après la pause, elle peut proposer de revenir pour une tâche à la fois, selon la façon dont elle se sent et ce que Sonia peut lui transmettre. Si la vigilance change ou que la somnolence revient, elle peut le signaler et reprendre l’avis médical convenu. Le but de la matinée reste de recevoir les habitants dans des conditions sûres."
+        }
+      ],
+      "ending_title": "La lampe revient par le bon passage",
+      "ending": "Quand Élvire revient, Sonia lui indique que le bureau est dans la zone d’attente et que Salim s’occupe de la remorque. La femme à la lampe arrive. Élvire la reconnaît au moment où elle passe devant le dessin et lui propose de s’approcher de la table. Elle prend le temps de lui demander si le fil est encore fixé. La femme dit qu’elle l’a attaché pour que personne ne trébuche. Élvire inscrit la lampe sur la ligne suivante et laisse Sonia vérifier où elle va. À la fin de la matinée, l’équipe décide d’évaluer l’essai avant de proposer un autre samedi.",
+      "mirror": [
+        "Sonia peut reprendre le rôle convenu et dire à Élvire où en est le registre quand elle revient. « J’ai noté le bureau. Salim reprend la remorque. Tu veux recevoir la personne suivante ? » Elle peut aussi proposer de garder l’accueil si la pause doit durer. Élvire peut apprécier ce relais et continuer à informer ses soignants des changements qui concernent sa vigilance."
+      ],
+      "sources": ["oms-insomnie", "assurance-maladie-insomnie", "assurance-maladie-insomnie-bilan"],
+      "continuity": {
+        "choice": "Élvire utilise la relève, revient pour une tâche claire et le dépôt accueille ses premiers visiteurs.",
+        "next": "L’équipe doit revoir le déroulement de l’essai avant de proposer une autre date. Élvire peut décrire ce qui lui a permis de rester à l’accueil."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "elvire-donner-une-suite-au-suivi",
+      "title": "Reconnaître les progrès sans attendre que toutes les nuits se ressemblent",
+      "description": "Élvire revient sur l’ouverture et ses réveils encore présents. Elle organise la suite du dépôt et du suivi avec des appuis distincts.",
+      "context": "Quelques semaines après l’ouverture, entre la consultation et la coopérative",
+      "topics": ["Évolution sur la durée", "Progrès dans le quotidien", "Suivi de l’insomnie"],
+      "clinical_focus": "Progrès et maintien du suivi",
+      "clinical_intro": "Élvire a animé le premier samedi d’ouverture et dort mieux certaines nuits. Elle se réveille encore trop tôt à d’autres moments et veut savoir comment continuer son suivi. Regarder la nuit et la vie éveillée sur plusieurs semaines permet de reconnaître les changements utiles, les difficultés qui persistent et les signes à réévaluer.",
+      "opening": "Élvire a apporté la feuille où Sonia a dessiné trois flèches après le premier samedi. La coopérative a décidé d’organiser un autre dépôt avec des rôles qui tournent. Élvire doit choisir si elle veut tenir l’accueil ou laisser quelqu’un d’autre commencer. Chez Claire, elle pose le croquis à côté de son cahier. Elle est contente d’avoir entendu la femme à la lampe et d’avoir pu reprendre le registre après sa pause. Elle a encore des matins où elle se réveille trop tôt et revient au plan avant l’heure. Elle redoute que parler de ces nuits donne l’impression que l’accompagnement n’a rien changé.\n\nClaire lui demande ce qu’elle remarque sur plusieurs semaines. Élvire retrouve quelques réveils après lesquels elle s’est rendormie, des conversations où elle a pu rester présente et des matinées qui lui ont coûté autant qu’avant. Quand elle décrit le dépôt, elle mentionne la place de Sonia et ce qu’elle a choisi de faire. Elle ne sait pas ce qu’elle aurait pu tenir seule. Elle sait aussi qu’elle était venue pour accueillir des personnes et qu’elle a pris le temps de répondre à chacune.\n\nElles discutent de ce qui mérite encore un rendez-vous et de ce qu’Élvire voudrait revoir si les réveils deviennent plus difficiles. Le suivi de la vigilance se poursuit avec la docteure Vidal. Élvire note les deux rendez-vous sur des lignes séparées. Elle pense ensuite à Lou. Le nouveau samedi tombe le jour d’un déjeuner chez sa mère. Élvire a envie d’y aller et aimerait savoir si Sonia voudrait commencer à l’accueil cette fois.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Regarder l’évolution du sommeil et du quotidien ensemble",
+          "text": "Le suivi de l’insomnie peut prendre en compte la fréquence et la gêne des difficultés, la perception du sommeil et les effets pendant la journée. Ces dimensions évoluent parfois à des rythmes différents. Élvire décrit des nuits où elle se rendort mieux et d’autres où l’éveil persiste. Elle peut également préciser ce qu’elle arrive à faire avec un appui et les moments où cela lui demande encore beaucoup d’effort. La professionnelle peut reprendre ces informations avec elle pour discuter de la suite de la TCC-I, en lien avec le suivi médical."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Donner une place à plusieurs expériences du même mois",
+          "text": "Élvire revient sur le premier accueil, l’éveil après le chantier et un repas pendant lequel elle a réussi à écouter Lou. Chacun de ces souvenirs dit quelque chose de précis. Le chantier a modifié ses conditions de sommeil. La relève au dépôt lui a permis de répondre aux visiteurs. Les réveils précoces qu’elle éprouve encore lui donnent une raison de continuer à en parler. Elle peut s’intéresser à ce qui facilite certains moments et garder un suivi des signes nouveaux, dont l’assoupissement inhabituel qu’elle sait signaler à son médecin."
+        },
+        {
+          "role": "strategies",
+          "heading": "Prévoir des suites qui répondent à des besoins différents",
+          "text": "Avec Claire, Élvire peut convenir du prochain point et de la façon de reprendre contact si la gêne s’installe de nouveau. Elle peut parler à la docteure Vidal de tout changement de vigilance et continuer à adapter les trajets selon l’avis reçu. Avec Sonia, elle peut reprendre ce que l’équipe a appris de l’essai et lui demander si elle souhaite assurer le début du prochain accueil. Elle peut garder un rôle de préparation et choisir ensuite si elle veut venir. Les rendez-vous de santé, de travail et de couple ont chacun une place dans son agenda."
+        }
+      ],
+      "ending_title": "Le vert indique aussi le nom de Sonia",
+      "ending": "Au bureau, Sonia accepte de commencer le prochain samedi et demande à Élvire de lui montrer où elle range le registre. Salim propose de revoir avec elles le passage de la porte. Sur le tableau, Élvire écrit l’heure, l’adresse et le prénom de Sonia en vert. Elle lui explique pourquoi le dernier objet reste encore un moment en attente de l’autre côté du panneau. Puis elle écrit à Lou qu’elle est libre pour le déjeuner chez sa mère. Elle garde la réponse pour quand Lou aura le temps. À côté du tableau, une chaise du premier samedi attend qu’un habitant lui trouve une place.",
+      "mirror": [
+        "Lou peut entendre qu’Élvire dort mieux certaines nuits et continue de rencontrer des difficultés. « Si tu veux qu’on parle du prochain samedi, je serai là après le dîner. » Sonia peut prendre sa part au dépôt parce qu’elles l’ont décidée ensemble. Leurs liens peuvent garder des moments qui leur appartiennent, pendant qu’Élvire et ses soignants choisissent comment poursuivre le suivi."
+      ],
+      "sources": ["oms-insomnie", "aasm-tcc-insomnie", "assurance-maladie-insomnie-bilan"],
+      "continuity": {
+        "choice": "Élvire garde ses suivis, transmet la première permanence à Sonia et choisit le déjeuner avec Lou.",
+        "next": "Le point de dépôt a ouvert et l’équipe prépare une nouvelle date partagée. Les réveils et la vigilance restent des sujets de suivi."
+      }
+    }
+  ]
+}

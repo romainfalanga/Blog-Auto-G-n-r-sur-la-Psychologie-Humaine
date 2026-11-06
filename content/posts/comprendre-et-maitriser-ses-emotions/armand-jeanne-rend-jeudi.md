@@ -33,7 +33,9 @@ Armand se redresse. « Si tu ne viens plus, qui va savoir ce qu’on a déjà re
 
 Le soutien quotidien se construit à partir des besoins de la personne malade et du temps dont les proches disposent réellement. Jeanne a pris plusieurs tâches au fil des semaines. Pour certaines, personne ne sait encore comment prendre la suite quand elle termine plus tard. Dire ce qu’elle peut faire aide à repérer les démarches pour lesquelles il faut une autre solution. Elle peut aussi demander du soutien pour elle-même.
 
-La Haute Autorité de santé et le NICE recommandent de prendre en compte les besoins des aidants et de leur proposer un soutien adapté. Les professionnels peuvent les orienter vers des ressources d’information, d’accompagnement et de répit. Jeanne peut s’adresser à son propre médecin ou demander à l’équipe quelles ressources existent près de chez elle. Le rôle de la fille et les décisions d’Armand sur ce qu’il souhaite recevoir comme aide peuvent être discutés séparément.
+## Les courriers qui s’ajoutent aux rendez-vous de Jeanne
+
+Armand ne retrouve plus la ligne à laquelle il devait répondre dans un courrier déjà ouvert. Jeanne se met à la chercher comme les autres semaines. Elle a repoussé deux fois un rendez-vous à elle et n’a qu’un quart d’heure ce soir. Elle aimerait retrouver du temps pour un déjeuner avec son père. Armand craint de perdre le fil des courriers déjà lus si leurs jeudis s’arrêtent.
 
 ## Donner un nom à chaque tâche
 
@@ -41,12 +43,8 @@ Armand veut continuer à ouvrir son courrier. Pour les documents à plusieurs pa
 
 La bibliothèque et le courrier ont des interlocuteurs différents. Armand peut convenir directement avec Nadia de l’heure du don. Il peut aussi lui demander de garder la date ouverte le temps qu’il organise ses appuis à la maison. Jeanne peut réserver sa prochaine visite au déjeuner qu’elle souhaite partager. Une limite annoncée et un contact identifié rendent le relais plus concret pour tous les deux.
 
+La Haute Autorité de santé et le NICE recommandent de prendre en compte les besoins des aidants et de leur proposer un soutien adapté. Jeanne peut demander à son médecin ou à l’équipe quelles ressources d’information, d’accompagnement ou de répit existent près de chez elle. Elle choisit l’aide qui lui serait utile, tandis qu’Armand discute de celle qu’il souhaite recevoir.
+
 ## Le paquet est ouvert
 
 Armand appelle le contact de la consultation mémoire, rappelle le besoin qu’il a signalé et explique que les jeudis changent. L’infirmière confirme qu’un premier rendez-vous à domicile peut être organisé avec l’ergothérapeute, en lien avec son médecin traitant. Elle lui donne le créneau du mercredi et un contact pour rappeler entre-temps. Jeanne note pour elle les coordonnées d’une plateforme de répit que l’infirmière lui indique à sa demande. Après avoir retrouvé la date, ils conviennent de reprendre ensemble la réponse avant qu’elle parte. Puis Jeanne ouvre enfin le paquet. Armand choisit le gâteau cassé, parce qu’il a toujours trouvé que la partie du milieu avait meilleur goût.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [HAS, parcours de soins du trouble neurocognitif associé à la maladie d’Alzheimer](https://www.has-sante.fr/jcms/c_2906096/fr/patients-presentant-un-trouble-neurocognitif-associe-a-la-maladie-d-alzheimer-ou-a-une-maladie-apparentee-guide-parcours-de-soins)
-- [NICE NG97, évaluation, soins et soutien des personnes vivant avec une démence et de leurs proches](https://www.nice.org.uk/guidance/ng97/resources/dementia-assessment-managementand-support-for-people-living-with-dementia-and-their-carers-pdf-1837760199109)

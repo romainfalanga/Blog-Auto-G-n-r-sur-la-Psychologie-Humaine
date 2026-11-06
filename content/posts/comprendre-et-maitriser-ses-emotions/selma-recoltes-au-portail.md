@@ -31,7 +31,11 @@ Une bouteille roule dans le panier de l’amie de Maud et vient taper contre le 
 
 ## Revenir à l’échange après un rappel sonore
 
-Une personne qui vit avec un trouble de stress post-traumatique garde ses préférences, ses projets et ses raisons de poser des limites. Certaines situations peuvent réactiver une alerte ou rendre un échange plus difficile. Selma peut remarquer ce qui s’est passé au bruit de la bouteille. Elle peut aussi choisir l’usage de sa serre pour des raisons qui lui appartiennent. Partager des légumes au portail et inviter quelqu’un à entrer sont deux décisions différentes.
+Une personne qui vit avec un trouble de stress post-traumatique garde ses préférences, ses projets et ses raisons de poser des limites. Certaines situations peuvent réactiver une alerte ou rendre un échange plus difficile.
+
+## Comment cette difficulté se manifeste
+
+Selma peut remarquer ce qui s’est passé au bruit de la bouteille. Elle peut aussi choisir l’usage de sa serre pour des raisons qui lui appartiennent. Partager des légumes au portail et inviter quelqu’un à entrer sont deux décisions différentes.
 
 Dans un suivi, elle peut parler d’un moment qui lui a coûté tout en racontant ce qu’elle a apprécié. La prise en charge peut prendre en compte les activités et les relations qu’elle souhaite retrouver ou préserver. Ici, Selma a voulu cultiver, discuter avec des voisins et conserver l’accès à un lieu de famille selon ses propres règles.
 
@@ -44,8 +48,3 @@ Si quelqu’un souhaite revenir pour regarder un détail, Selma peut lui demande
 ## Une botte mise de côté
 
 Maud et son amie regardent le montant depuis l’allée. Selma indique la partie qu’elle a fait conserver. L’amie de Maud note le nom du vitrier et choisit une salade dans la cagette. À midi, André récupère sa boîte de vis et se prépare à partir. Selma lui met de côté une botte de radis de toutes tailles. Il lui dit qu’il avait fait le tri pour elle. Elle rit, garde les plus petits, puis remet le banc près de la porte. La deuxième cagette attend que Maud revienne la chercher.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

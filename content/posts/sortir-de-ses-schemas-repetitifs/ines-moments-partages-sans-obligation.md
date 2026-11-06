@@ -92,5 +92,3 @@ Construire des moments partagés sans obligation permet de donner une valeur pro
 Nommer l’intention, prévoir quelques ajustements et parler du vécu rendent ce cadre praticable. Vous pouvez vouloir une proximité et laisser l’autre choisir ce qu’elle peut partager. Les progrès ne suppriment pas toutes les déceptions. Ils rendent surtout les attentes plus visibles et les réponses plus libres, dans une relation qui reste faite de personnes distinctes.
 
 Si les temps communs sont durablement marqués par la pression, la peur du refus ou des conflits répétés, une psychologue ou un autre professionnel peut accompagner la réflexion. L’aide peut porter sur les attentes et l’organisation autant que sur les émotions. Vous avez le droit de chercher un lien où le plaisir partagé conserve sa liberté et où une journée n’a pas à rembourser la suivante.
-
-Sources : [Kluwer et collègues, autonomie et proximité dans les relations, 2020](https://pubmed.ncbi.nlm.nih.gov/31390934/).

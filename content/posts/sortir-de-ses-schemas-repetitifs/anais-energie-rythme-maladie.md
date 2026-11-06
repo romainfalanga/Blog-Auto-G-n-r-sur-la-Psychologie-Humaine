@@ -100,5 +100,3 @@ Adapter son rythme avec une maladie ne consiste pas à trouver une organisation 
 Une tâche reportée ou un relais reçu peut préserver une partie de la journée sans supprimer les symptômes. Cette portée limitée reste utile. Elle laisse aussi une place aux activités choisies, qui ne doivent pas devenir la première chose sacrifiée chaque fois que l'énergie diminue.
 
 Si vous vivez avec une maladie chronique, votre équipe soignante peut vous aider à adapter les activités et à examiner les changements de fatigue ou de douleur. Les protections et aménagements au travail demandent également des interlocuteurs compétents. Aucun exercice d'organisation ne remplace ce suivi.
-
-Sources : [Inserm, polyarthrite rhumatoïde](https://www.inserm.fr/dossier/polyarthrite-rhumatoide/) ; [Assurance maladie, vivre avec une polyarthrite rhumatoïde](https://www.ameli.fr/assure/sante/themes/polyarthrite-rhumatoide/vivre-polyarthrite-rhumatoide).

@@ -1,5 +1,5 @@
 ---
-title: "Baptiste : regretter avec les informations de l’époque"
+title: Regretter avec les informations de l’époque
 date: 2026-11-03T10:40:00+00:00
 description: "Après un essai de document décevant, Baptiste croit qu’il aurait dû tout prévoir. Il reprend les informations qu’il possédait réellement."
 categories: ["Reprendre le contrôle de ses pensées"]
@@ -74,8 +74,3 @@ Le résultat d’un choix apporte des informations qui n’étaient pas toutes d
 Reconnaître une omission précise ne demande pas de condamner toute une décision ou toute sa compétence. Il est possible de conserver des raisons valables, de corriger une méthode et d’accepter un résultat décevant. L’inverse est également important : un résultat favorable ne dispense pas d’examiner une préparation insuffisante. Les responsabilités, le cadre et les conséquences méritent leur place, au-delà du jugement global porté sur soi.
 
 Si la relecture des décisions devient répétitive, occupe durablement vos moments de repos ou s’accompagne d’une dévalorisation qui vous inquiète, un psychologue, un médecin ou un professionnel adapté peut vous aider. Le soutien peut distinguer ce qui demande une réparation concrète de ce qui relève d’un reproche sans fin. Il n’a pas à effacer toute responsabilité pour permettre de poursuivre, ni à transformer chaque regret en preuve que vous avez mal choisi.
-
-Sources :
-- [Fischhoff, expériences sur le jugement rétrospectif](https://doi.org/10.1037/0096-1523.1.3.288)
-- [NHS, Thought record](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/)
-- [NHS, Problem solving](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/problem-solving/)

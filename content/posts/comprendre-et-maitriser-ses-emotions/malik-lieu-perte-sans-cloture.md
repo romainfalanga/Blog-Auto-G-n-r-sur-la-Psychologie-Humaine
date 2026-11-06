@@ -1,5 +1,5 @@
 ---
-title: "Malik : un lieu familier entre absence et incertitude"
+title: Un lieu familier entre absence et incertitude
 date: 2026-09-18T09:00:00+00:00
 description: "L’atelier de son oncle change sans avenir clair. Malik distingue la nostalgie d’un lieu et la difficulté d’une perte sans clôture certaine."
 slug: "malik-lieu-perte-sans-cloture"
@@ -98,7 +98,3 @@ Le manque d’un lieu familier peut associer nostalgie et incertitude, mais ces 
 Distinguer les faits, conserver un lien choisi et limiter la recherche de certitude peuvent aider à ne pas tout suspendre. Ces gestes ne remplacent pas les informations ou les conditions matérielles nécessaires. Ils laissent une place au souvenir et au présent sans imposer une fin artificielle à l’histoire.
 
 Si cette incertitude devient durablement envahissante, un psychologue ou un autre professionnel peut aider à explorer ce qui manque et les appuis disponibles. Le soutien ne suppose ni trauma ni migration subie. Il peut respecter un départ choisi, une vie actuelle appréciée et un attachement qui continue à évoluer.
-
-Sources :
-- [Pauline Boss, entretien direct sur la perte ambiguë et l’incertitude](https://www.apa.org/news/podcasts/speaking-of-psychology/ambiguous-loss)
-- [Pauline Boss, entretien sur les liens, les lieux et les pertes sans clôture](https://onbeing.org/programs/pauline-boss-navigating-loss-without-closure/)

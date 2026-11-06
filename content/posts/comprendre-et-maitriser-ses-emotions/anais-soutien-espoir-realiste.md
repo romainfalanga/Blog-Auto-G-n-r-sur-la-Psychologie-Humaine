@@ -100,5 +100,3 @@ Un espoir réaliste peut rester présent sans promesse de guérison ni obligatio
 Les progrès situés ne décident pas de tout l'avenir. Ils peuvent néanmoins indiquer ce qui soutient une participation, un choix ou une demande. Le repos, le relais et la révision font partie de cette continuité, au même titre que les moments agréables.
 
 Si vivre avec l'incertitude devient trop lourd, parlez-en à votre équipe soignante ou à un psychologue. Un soutien adapté peut aider à traverser cette expérience sans l'expliquer par une faute personnelle. Les soins et les protections nécessaires restent prioritaires, y compris lorsque vous trouvez de nouveaux appuis dans votre quotidien.
-
-Sources : [Assurance maladie, suivi et accompagnement avec une polyarthrite](https://www.ameli.fr/assure/sante/themes/polyarthrite-rhumatoide/vivre-polyarthrite-rhumatoide) ; [OMS, polyarthrite rhumatoïde et qualité de vie](https://www.who.int/fr/news-room/fact-sheets/detail/rheumatoid-arthritis).

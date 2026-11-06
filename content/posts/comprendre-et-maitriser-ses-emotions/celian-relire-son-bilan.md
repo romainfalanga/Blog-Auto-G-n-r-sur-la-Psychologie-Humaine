@@ -31,7 +31,11 @@ Mme Vidal lui demande de prendre un exemple récent. Il hésite entre le texte d
 
 ## Lire les mots et saisir ce que dit le passage
 
-La compréhension d’un texte dépend entre autres de l’accès aux mots écrits et des connaissances nécessaires pour leur donner un sens. Un déchiffrage lent ou laborieux peut compliquer cet accès. Une consigne entendue peut laisser plus d’attention disponible pour son contenu chez certaines personnes. Cela ne rend pas l’oral suffisant dans toutes les situations. Célian demande aussi une démonstration lorsqu’il découvre une technique dont il ne connaît pas encore les termes. Le trouble avec déficit en lecture peut toucher la précision, la fluidité ou la compréhension écrite, et ces difficultés peuvent persister à l’âge adulte. Un exemple permet de décrire une gêne au professionnel ; le bilan s’interprète avec l’histoire et le contexte, pas à partir d’un seul exercice.
+La compréhension d’un texte dépend entre autres de l’accès aux mots écrits et des connaissances nécessaires pour leur donner un sens. Un déchiffrage lent ou laborieux peut compliquer cet accès. Une consigne entendue peut laisser plus d’attention disponible pour son contenu chez certaines personnes. Cela ne rend pas l’oral suffisant dans toutes les situations.
+
+## Comment cette difficulté se manifeste
+
+Célian demande aussi une démonstration lorsqu’il découvre une technique dont il ne connaît pas encore les termes. Le trouble avec déficit en lecture peut toucher la précision, la fluidité ou la compréhension écrite, et ces difficultés peuvent persister à l’âge adulte. Un exemple permet de décrire une gêne au professionnel ; le bilan s’interprète avec l’histoire et le contexte, pas à partir d’un seul exercice.
 
 ## Mettre un besoin d’aujourd’hui sur le bureau
 
@@ -40,8 +44,3 @@ Le travail orthophonique et l’adaptation des supports ont des buts distincts e
 ## La fiche qu’il laisse sur le bureau
 
 Célian choisit la fiche du centre et garde pour lui la liste des joueurs. Avec son accord, Mme Vidal conserve une copie sans nom d’élève. Ils conviennent d’un prochain rendez-vous pour préciser les tâches qui lui coûtent et voir si un travail ciblé est indiqué. Il lui demande de ne rien envoyer à Aïcha pour le moment ; il discutera lui-même des supports en cours. En sortant, il ouvre la liste de Jade. Deux réponses sont encore attendues. Il les laisse comme elles sont. Demain, c’est avec les confirmations qu’il décidera combien le club peut dépenser par personne.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé — Guide du parcours de santé des enfants avec troubles spécifiques du langage et des apprentissages](https://www.has-sante.fr/jcms/c_2823836/fr/comment-ameliorer-le-parcours-de-sante-d-un-enfant-avec-troubles-specifiques-du-langage-et-des-apprentissages-guide-parcours-de-sante)

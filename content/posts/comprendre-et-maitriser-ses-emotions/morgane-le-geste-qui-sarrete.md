@@ -33,17 +33,16 @@ Sonia prend une branche un peu lourde. Morgane lui montre comment la poser sur l
 
 ## Ce qui se passe quand la décision échappe
 
-La perte de contrôle est un élément central de l’expérience d’un épisode. Morgane peut penser à s’arrêter et sentir malgré cela qu’elle n’arrive plus à diriger la manière dont elle mange. Pour comprendre l’hyperphagie boulimique, les professionnels regardent la répétition de ces moments, la souffrance et les effets dans la vie de la personne. Ils tiennent aussi compte de son état de santé et des autres explications possibles. Le récit de Morgane donne accès à ce sentiment de perte de contrôle, que Sonia ne pourrait pas observer en la voyant arriver au travail.
+La perte de contrôle est un élément central de l’expérience d’un épisode. Morgane peut penser à s’arrêter et sentir malgré cela qu’elle n’arrive plus à diriger la manière dont elle mange. Pour comprendre l’hyperphagie boulimique, les professionnels regardent la répétition de ces moments, la souffrance et les effets dans la vie de la personne. Ils tiennent aussi compte de son état de santé et des autres explications possibles.
+
+## Le message laissé sans réponse après la crise
+
+Morgane se souvient de s’être dit qu’elle voulait s’arrêter, sans retrouver le sentiment de décider comment elle mangeait. La difficulté a continué à peser après la soirée. Elle a laissé sans réponse la photo que Sonia lui a envoyée et douté du projet qu’elle avait proposé. Le lendemain, à l’atelier, elle hésite encore à sortir sa feuille de sa poche.
 
 ## Décrire aussi ce que l’épisode laisse derrière lui
 
-La difficulté ne s’est pas limitée à la soirée. Morgane a cessé de répondre à une collègue et s’est presque retirée d’un projet auquel elle tient. Elle peut raconter ce passage à l’équipe qui la suit. La scène du lendemain donne une information différente de celle de l’épisode lui-même. Elle montre le temps pendant lequel la honte a continué à peser sur ses décisions. À l’atelier, Morgane peut reprendre la conversation en donnant simplement le papier. Le projet appelle un avis de fleuriste. La question de santé a une autre place, au rendez-vous qu’elle a déjà pris.
+Morgane peut raconter à l’équipe qui la suit le moment de la crise et celui où elle a laissé le message de Sonia sans réponse. La scène du lendemain donne une information différente de celle de l’épisode lui-même. Elle montre le temps pendant lequel la honte a continué à peser sur ses décisions. À l’atelier, Morgane peut reprendre la conversation en donnant simplement le papier. Le projet appelle un avis de fleuriste. La question de santé a une autre place, au rendez-vous qu’elle a déjà pris.
 
 ## Le papier à côté des seaux
 
 Morgane déplie sa feuille. Elle propose des essais assez courts pour que quelqu’un qui passe puisse y prendre part. Sonia lui demande à quel moment elles pourront en reparler tranquillement. Elles conviennent d’en parler jeudi, à la fin du déjeuner de départ de Marie. Morgane écrit « essayer un geste » en haut de la feuille et, dans son carnet de suivi, note qu’elle voudrait expliquer pourquoi elle avait laissé le message sans réponse.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé et Fédération française anorexie boulimie, recommandations sur la boulimie et l’hyperphagie boulimique](https://www.has-sante.fr/upload/docs/application/pdf/2019-09/boulimie_et_hyperphagie_boulimique_-_recommandations.pdf)

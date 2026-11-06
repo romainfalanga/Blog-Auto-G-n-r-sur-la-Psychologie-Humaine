@@ -32,7 +32,9 @@ La clinicienne reprend la question avec elle. Les règles des archives continuen
 
 L’exposition avec prévention de la réponse fait partie des thérapies cognitives et comportementales recommandées pour le TOC. La professionnelle et la personne définissent une rencontre avec une situation ou une pensée qui suscite habituellement l’envie de ritualiser. La prévention de la réponse porte sur le fait de ne pas accomplir, dans le cadre convenu, le rituel qui suit habituellement. Il peut s’agir d’une vérification répétée ou d’une neutralisation mentale. La clinicienne tient compte des circonstances et adapte le travail à la personne. Les pensées rapportées par Noémie et ses actes visibles peuvent tous deux être abordés.
 
-Pour Noémie, la question du cadre vient avant la première séance. Elle explique ce qu’elle veut préserver au travail et ce qui lui paraît envisageable au cabinet. L’exercice, s’il a lieu, se fait avec son accord. Elle peut poser des questions, signaler une difficulté, demander une pause ou revenir sur son choix. La clinicienne pourra revoir la proposition avec elle. Elles reviendront sur ce que Noémie a ressenti, quelle que soit l’intensité de sa gêne. La clinicienne reste responsable de la conduite des séances.
+## Ce que Noémie redoute à l’idée d’un essai
+
+Noémie se souvient du premier oui de Maud, puis du besoin d’entendre un détail sur la poignée et du trajet qu’elle a rejoué en pensée dans le tram. Quand la clinicienne lui présente le travail en séance, Noémie pense aussitôt aux documents dont elle a la responsabilité. Elle redoute de devoir les laisser dans un état qui lui paraît incertain. Elle voudrait comprendre ce qu’elle pourra faire si l’inquiétude la dépasse.
 
 ## Choisir ce que le soin doit rendre possible
 
@@ -40,11 +42,8 @@ Quand la clinicienne demande ce qui ferait une différence dans sa vie, Noémie 
 
 Noémie souhaite discuter d’un premier essai encadré au cabinet. Elle choisit d’en reparler après pour dire comment elle a vécu l’exercice et ce qu’elle a fait en pensée. La clinicienne lui propose aussi un bref échange avec Maud, si toutes deux en ont envie, pour définir le soutien qui leur conviendrait. Cette partie portera sur leurs messages et le temps qu’ils prennent. Noémie garde le choix des autres éléments de sa consultation qu’elle souhaite partager.
 
+Tout exercice est discuté avec Noémie et se fait avec son accord. Elle peut demander des précisions, signaler sa gêne, demander une pause ou revenir sur son choix. La clinicienne reste responsable de la conduite des séances et pourra reprendre avec elle la manière dont elle a vécu l’essai.
+
 ## Un essai discuté au cabinet
 
 En quittant le cabinet, Noémie déroule de nouveau les cartes sur ses genoux. Sur la seconde, la rue débouche bien là où elle a trouvé l’escalier en rentrant du tram. Elle écrit ce rapprochement à Aïcha. Puis elle propose à Maud de venir à une partie du prochain rendez-vous. « Je voudrais qu’on parle des messages. Le reste, je préfère le garder pour moi. » Maud lui demande de lui envoyer l’horaire.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG31, prise en charge du TOC](https://www.nice.org.uk/guidance/cg31/chapter/Recommendations)

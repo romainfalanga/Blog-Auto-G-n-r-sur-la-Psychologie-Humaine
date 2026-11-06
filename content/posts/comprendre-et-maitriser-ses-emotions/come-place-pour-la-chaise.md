@@ -33,6 +33,8 @@ Nadège tend le feutre vers lui. Il croit d’abord qu’elle veut réduire le r
 
 Le retentissement d’un trouble du jeu vidéo se comprend aussi à partir des activités auxquelles une personne tient. Côme veut retrouver des matins dont il peut disposer et des rendez-vous qu’il peut honorer. Sur place, il retrouve aussi la possibilité d’être contrarié, d’essayer une autre solution et de prendre plaisir à décider de la suite. À l’atelier, il a également un problème qui arrive à beaucoup de gens qui construisent des meubles : il a dessiné un plateau avant d’essayer de s’asseoir autour. Il peut regarder cette erreur avec Nadège pour ce qu’elle est. Il ne perd pas sa place à l’atelier en ayant surestimé une dimension.
 
+## Comment cette difficulté se manifeste
+
 Le projet lui donne des décisions agréables à prendre. Il hésite entre un bois clair, sur lequel les cartes seront faciles à voir, et un bois sombre où il pourra garder la trace des anciennes fixations. Il sait qu’il ne veut pas une table dont personne n’ose se servir. Pour pouvoir conserver ce choix, il lui faut d’abord une mesure qui laisse entrer les chaises.
 
 ## Une difficulté concrète à résoudre à l’atelier
@@ -44,8 +46,3 @@ Il aimerait organiser le prochain rendez-vous autour du plateau lui-même. Nadè
 ## La mesure sous la photo
 
 Côme photographie le carton avec le mètre posé en travers. Le soir, la ressourcerie lui répond qu’un plateau sombre de la bonne taille vient d’arriver. Il faut aller le voir mercredi à neuf heures ; quelqu’un d’autre est intéressé après lui. Côme travaille l’après-midi et accepte le rendez-vous. Il range l’adresse et la photo dans la même note. Il glisse le gabarit plié en quatre dans son sac. Les tasses n’auront plus toutes leur place, mais il y aura de quoi poser les cartes.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [OMS, Trouble du jeu vidéo : questions et réponses](https://www.who.int/fr/news-room/questions-and-answers/item/gaming-disorder)

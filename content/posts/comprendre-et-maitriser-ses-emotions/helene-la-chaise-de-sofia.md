@@ -33,6 +33,8 @@ Elle demande que la question attende le point d’équipe de jeudi. D’ici là,
 
 Présenter deux options ne suffit pas toujours pour qu’une personne puisse choisir entre elles. Pour Hélène, le camion est une proposition qu’elle peut se représenter. Le bus demeure une suite d’informations à compléter : où descendre, combien de temps marcher, qui sera là. Sans ces renseignements, la case que Maud s’apprête à cocher risque de recueillir l’effet de la précipitation plutôt qu’une préférence.
 
+## Comment cette difficulté se manifeste
+
 Dans le TDI, traiter ou rapprocher plusieurs informations peut demander un soutien adapté. La HAS propose de prendre en compte ce que la personne souhaite, comment elle comprend la situation et comment elle exprime aussi un refus. Hélène a dit qu’elle ne choisissait pas dans le vestiaire. Elle n’a pas refusé le déplacement. Accepter ce délai permet de lui poser de nouveau la question dans de meilleures conditions.
 
 ## Préparer le rôle de la personne invitée
@@ -44,9 +46,3 @@ Le temps de réflexion a lui aussi des conditions concrètes. Maud doit réserve
 ## Le point trajet passe en premier
 
 Jeudi matin, Maud a mis le point « trajet » en premier sur la feuille. Hélène a gardé la chaise à sa droite pour Sofia. Elle la laisse rappeler qu’il faut lire le nom de l’arrêt avant de discuter des places en camion. Elle demande ensuite à Dario s’il peut prendre le 4 avec elle vendredi matin. Dario peut faire l’aller sur son temps de travail ; au retour, il doit être à la caisse. Hélène propose de décider de son retour avec Ilyes une fois arrivée, parmi les solutions que Maud vérifie dès la réunion. Sur le papier, elle écrit « essayer l’aller ». Elle entoure ces deux mots elle-même.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Haute Autorité de santé, TDI : autodétermination, participation et citoyenneté (volet 1)](https://www.has-sante.fr/upload/docs/application/pdf/2022-09/02_tdi_rbpp_autodetermination.pdf)
-- [Haute Autorité de santé, TDI : travail et vie active (volet 2)](https://www.has-sante.fr/upload/docs/application/pdf/2025-11/dir7/tdi_emploi_volet2.pdf)

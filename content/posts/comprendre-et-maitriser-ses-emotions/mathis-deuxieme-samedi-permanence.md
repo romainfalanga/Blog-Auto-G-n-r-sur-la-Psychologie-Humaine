@@ -32,7 +32,11 @@ Plus tard, Mathis cherche sa pince rouge sous le classeur. La bénévole lui mon
 
 Le deuxième samedi change l’emplacement de la table, les rôles et le nombre de personnes présentes au départ. Mathis retrouve une partie des repères parce que d’autres les utilisent aussi. La bénévole sait à quoi sert la fiche et peut vérifier ce qu’il lui manque. Quand le panneau est tourné du mauvais côté, elle peut le lui signaler. Les responsabilités restent visibles, même quand le matériel bouge ou qu’une personne quitte son poste.
 
-Un suivi du TDAH peut aider à ajuster les appuis au fil des changements de vie. Les besoins de Mathis restent situés. La fiche est utile au poste de réparation. Le rendez-vous de livraison a demandé une autre solution. La psychiatre et la professionnelle qui l’accompagne disposent de ces exemples pour discuter de ce qui lui convient et de ce qu’il aimerait encore travailler. Mathis pourra aussi leur dire s’il a envie de déplacer ses objectifs une fois le rythme de la permanence mieux établi.
+Un suivi du TDAH peut aider à ajuster les appuis au fil des changements de vie.
+
+## Comment cette difficulté se manifeste
+
+Les besoins de Mathis restent situés. La fiche est utile au poste de réparation. Le rendez-vous de livraison a demandé une autre solution. La psychiatre et la professionnelle qui l’accompagne disposent de ces exemples pour discuter de ce qui lui convient et de ce qu’il aimerait encore travailler. Mathis pourra aussi leur dire s’il a envie de déplacer ses objectifs une fois le rythme de la permanence mieux établi.
 
 ## Préparer une passation et garder une suite pour soi
 
@@ -43,8 +47,3 @@ Pour le prochain entretien, il garde deux moments. Il a retrouvé le contrôle e
 ## Quelqu’un d’autre prend le relais
 
 Après le dernier retrait, la bénévole range l’ardoise dans le sens indiqué sur la caisse. Mathis met sa fiche dans le classeur et laisse la pince rouge sur le bord de la table pour Zélie. Elle veut la garder à portée de main au début de la prochaine permanence. En rentrant, il trouve Simon en train de poser deux tasses sur la table. Il demande s’ils peuvent regarder le calendrier pendant que l’eau chauffe. Une fois l’heure notée, il a encore le temps de lui raconter pourquoi la file s’est formée du côté du fromager. Dehors, la pluie recommence. Son vélo est à l’abri dans la cour.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG87, évaluation et accompagnement du TDAH](https://www.nice.org.uk/guidance/ng87/chapter/recommendations)

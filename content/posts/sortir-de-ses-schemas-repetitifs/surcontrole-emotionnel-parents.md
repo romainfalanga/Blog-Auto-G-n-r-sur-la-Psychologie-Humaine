@@ -11,6 +11,9 @@ personnage: "Bernard"
 sujet: "surcontrôle émotionnel/inhibition"
 contexte: "avec ses parents"
 draft: false
+editorial_sources:
+- https://pubmed.ncbi.nlm.nih.gov/9103721/
+- https://pubmed.ncbi.nlm.nih.gov/12899316/
 ---
 
 Quand Éric entre dans l’atelier, Bernard travaille au fond du deuxième tiroir. Il pourrait relever la tête sans interrompre le geste. Il attend de l’avoir terminé. Sultan, qui dormait sous l’établi, n’a pas cette réserve : il va tout de suite vers la porte. Éric garde sa veste et dit qu’il n’a pas beaucoup de temps.
@@ -70,5 +73,3 @@ Le lien entre notre éducation et le surcontrôle émotionnel n'est pas une fata
 Ce parcours est fait de petites victoires : un mot partagé, une émotion notée, un symbole transmis. Si vous vous reconnaissez dans la pudeur de Bernard, sachez qu'il existe des moyens concrets pour apprendre à exprimer ce que vous ressentez sans vous laisser submerger. L'accompagnement par un professionnel, comme un psychologue ou un thérapeute, peut être d'une grande aide pour adapter ces outils à votre propre histoire et apaiser une souffrance qui dure.
 
 Le changement est possible à tout âge. Pour Bernard comme pour beaucoup d'autres, l'apprentissage émotionnel se construit petit à petit, une étape après l'autre.
-
-Sources : [Gross et Levenson, Hiding Feelings](https://pubmed.ncbi.nlm.nih.gov/9103721/) ; [Butler et al., effets sociaux de la suppression expressive](https://pubmed.ncbi.nlm.nih.gov/12899316/).

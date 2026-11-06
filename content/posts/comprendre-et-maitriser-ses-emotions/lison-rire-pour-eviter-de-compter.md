@@ -44,8 +44,3 @@ Les deux amies peuvent préparer six emplacements pour le café et six pour la l
 ## Deux rangées sous la presse
 
 Alba trace au crayon deux rangées sur une grande feuille. Au moment de ranger, elles ont bien de quoi remplir les deux rangées. Lison réserve une carte où l’enseigne est impeccable pour le café et en montre une autre, plus claire, qu’Alba préfère pour la librairie. Elles glissent les deux piles dans des chemises pour le transport et laissent l’achat des enveloppes au lendemain. Quand Alba l’accompagne jusqu’à l’arrêt, Lison lui montre l’ancienne vitrine au bout de la rue. À cette heure, la porte est effectivement noire. Alba prend une photo ; Lison lui dit qu’il y a une autre boutique à graver près du pont.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Staller et al. — Neurodivergent Conditions Critically Limit Societal Participation: The Case of Dyscalculia in Adults (2025)](https://journals.sagepub.com/doi/10.1177/27546330251406911)

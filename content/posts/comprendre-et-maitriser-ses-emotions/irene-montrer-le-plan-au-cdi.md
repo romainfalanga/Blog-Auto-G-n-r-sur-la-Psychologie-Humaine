@@ -33,6 +33,8 @@ Mme Hamadi s’approche. Elle demande à Quentin de cesser d’imiter Irène et 
 
 Les mouvements stéréotypés peuvent survenir au milieu d’un échange qui se passe bien. Ils accompagnent ici le moment où Irène montre à Aya ce qu’on peut découvrir sous les maisons. C’est après l’imitation de Quentin qu’elle s’inquiète d’être observée et envisage de partir. Deux difficultés se succèdent : un geste détourne Irène un moment de son feutre, puis la réaction des autres rend la conversation pénible. On peut répondre à la seconde en agissant sur ce qui s’est passé entre les élèves.
 
+## Comment cette difficulté se manifeste
+
 Le trouble d’Irène n’explique pas ce que ses camarades font. Le règlement de la situation ne demande pas non plus qu’elle prenne la parole pour expliquer ses gestes. Mme Hamadi a vu l’imitation et peut y mettre fin. Si cela recommence, elle peut reprendre la situation avec l’équipe du collège, en tenant Irène au courant.
 
 ## Choisir à qui montrer le chemin
@@ -44,8 +46,3 @@ La copie sert à tester le tracé. Si quelqu’un hésite devant les deux dépar
 ## Aya suit la marche bleue
 
 Irène remet la copie sur la table, devant Aya seulement. « Essaie sans que je t’aide », lui dit-elle. Aya suit le trait jusqu’aux marches, puis tourne la feuille à l’envers. Elle croyait que le petit rectangle en bas était une impasse. Irène dessine une seconde marche à cet endroit. Elle garde l’épreuve annotée pour Ilyès et demande à Mme Hamadi de refaire une copie plus sombre. Elle n’a pas envie de rester plus longtemps au CDI. En sortant, elle propose à Aya de venir essayer le vrai livre quand les toits tiendront debout.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Great Ormond Street Hospital for Children (NHS) — Stereotypies: repetitive movements or sounds (2026)](https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/stereotypies-repetitive-movements-or-sounds/)

@@ -92,5 +92,3 @@ Les alliances et le soutien dans la vie quotidienne reposent sur des gestes comp
 Définir une action, répartir les appuis et vérifier leurs effets peuvent rendre l’entraide plus praticable. Vous pouvez refuser une forme d’aide, en demander une autre et garder des informations privées. La réciprocité peut se construire dans la durée, avec des engagements discutés plutôt qu’une dette silencieuse attachée à chaque service reçu.
 
 Si le soutien manque, si les limites sont difficiles à maintenir ou si le contexte reste éprouvant, une psychologue ou un autre professionnel peut aider à identifier des ressources adaptées. Les structures concernées ont aussi leurs responsabilités. Vous n’avez pas à régler seule toutes les interactions, et une aide respectueuse doit agrandir vos possibilités plutôt que choisir votre vie à votre place.
-
-Sources : [Recherche sur le soutien des collègues et l’autonomie dans l’expression des identités non binaires au travail](https://doi.org/10.1080/09585192.2023.2284191).

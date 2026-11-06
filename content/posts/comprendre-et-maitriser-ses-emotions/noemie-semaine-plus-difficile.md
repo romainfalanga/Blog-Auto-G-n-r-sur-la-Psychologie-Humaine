@@ -30,7 +30,11 @@ Elle avait espéré que ses premières séances rendraient cette semaine plus si
 
 ## Comprendre ce qu’une semaine difficile peut apprendre
 
-Le temps consacré aux compulsions et la gêne qu’elles entraînent peuvent changer au fil du suivi. Une situation vécue différemment au cinéma ne permet pas de prévoir ce qui se passera devant un texte à livrer. En consultation, Noémie peut raconter plusieurs moments de la semaine. Le nombre de fois où elle a demandé la feuille ne dit qu’une partie de ce qui lui coûte. Elle a aussi perdu du temps avant de prendre une décision, quitté le travail plus tard et dessiné moins souvent qu’elle n’en avait envie.
+Le temps consacré aux compulsions et la gêne qu’elles entraînent peuvent changer au fil du suivi. Une situation vécue différemment au cinéma ne permet pas de prévoir ce qui se passera devant un texte à livrer.
+
+## Comment cette difficulté se manifeste
+
+En consultation, Noémie peut raconter plusieurs moments de la semaine. Le nombre de fois où elle a demandé la feuille ne dit qu’une partie de ce qui lui coûte. Elle a aussi perdu du temps avant de prendre une décision, quitté le travail plus tard et dessiné moins souvent qu’elle n’en avait envie.
 
 La clinicienne peut reprendre avec elle les situations qui posent problème, le travail convenu en séance et les objectifs qu’elle avait choisis. Elles pourront discuter de ce qui lui paraît encore adapté et de ce qui appelle un changement. La charge de l’exposition fait partie du contexte. Cette observation à elle seule ne permet pas d’établir la raison de chaque fluctuation.
 
@@ -43,8 +47,3 @@ Au travail, elle peut demander à Aïcha de préciser la version qu’elles doiv
 ## Deux panneaux et un rendez-vous
 
 Aïcha et Noémie conviennent que la légende du bateau partira aujourd’hui et qu’elles regarderont demain la dernière proposition. Noémie écrit au cabinet pour signaler ce qui a pris plus de temps et demander si le rendez-vous peut être rapproché. Sur le chemin du retour, elle s’arrête devant la vitrine du cinéma. Le festival annoncé au dos de leur billet approche. Elle prend une photo du programme pour demander à Maud quel film elle aimerait voir.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG31, prise en charge du TOC](https://www.nice.org.uk/guidance/cg31/chapter/Recommendations)

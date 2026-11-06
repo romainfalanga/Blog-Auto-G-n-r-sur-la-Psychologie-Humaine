@@ -32,7 +32,11 @@ La phrase suivante arrive d’un trait. C’est le moment qu’elle avait peur d
 
 ## Dicter une phrase, puis vérifier ce qu’elle dit
 
-La dictée vocale peut servir à produire un premier jet sans saisir chaque mot au clavier. Son intérêt dépend de la tâche et du cadre. Maïwenn apprécie de pouvoir enchaîner ses deux phrases tant qu’elle entend encore dans sa tête le choc du plateau. Le logiciel, lui, ne voit pas la cale sur la photo ; « case » est un mot possible et ne sera pas forcément signalé comme une erreur. Le brouillon lui rend une partie de son élan, mais il lui reste un vrai travail d’autrice : vérifier le sens, décider ce qu’elle garde et corriger la forme.
+La dictée vocale peut servir à produire un premier jet sans saisir chaque mot au clavier. Son intérêt dépend de la tâche et du cadre.
+
+## Comment cette difficulté se manifeste
+
+Maïwenn apprécie de pouvoir enchaîner ses deux phrases tant qu’elle entend encore dans sa tête le choc du plateau. Le logiciel, lui, ne voit pas la cale sur la photo ; « case » est un mot possible et ne sera pas forcément signalé comme une erreur. Le brouillon lui rend une partie de son élan, mais il lui reste un vrai travail d’autrice : vérifier le sens, décider ce qu’elle garde et corriger la forme.
 
 ## Relire avec un seul objectif à la fois
 
@@ -41,8 +45,3 @@ Maïwenn se donne d’abord une question simple : est-ce bien ce qui s’est pas
 ## Deux phrases dans le document
 
 Elle copie les deux phrases dans le document commun. Dans le message à Lou, elle écrit : « Tu me dis si tu vois bien le geste ? » Elle laisse l’ordinateur s’éteindre sans attendre la réponse. Sur le chemin du retour, elle se demande encore si la cale mérite deux phrases. Elle a au moins un passage dont elles peuvent discuter. Hier, au même moment, elle avait seulement une ligne barrée et l’image très nette du plateau qui bouge.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [American Speech-Language-Hearing Association, Written Language Disorders](https://www.asha.org/Practice-Portal/Clinical-Topics/Written-Language-Disorders/)

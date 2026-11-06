@@ -90,5 +90,3 @@ La procrastination peut protéger brièvement d'une émotion désagréable tout 
 Vous pouvez observer ce qui se passe juste avant le détour vers une autre activité. Une crainte, une irritation ou une incertitude peut vous indiquer le soutien nécessaire. L'objectif n'est pas de tout accomplir immédiatement, mais de distinguer un report choisi d'un évitement qui vous prive durablement de la possibilité de décider.
 
 Si la procrastination devient envahissante, s'accompagne d'une souffrance importante ou empêche de répondre à des besoins essentiels, un professionnel peut vous aider à en examiner les facteurs. La fatigue, les contraintes et les moyens disponibles doivent aussi être considérés. Demander un appui peut faire partie de l'action, sans être une preuve d'incapacité.
-
-Sources : [Sirois et Pychyl, procrastination et régulation de l'humeur à court terme](https://doi.org/10.1111/spc3.12011) ; [Gollwitzer, relier une situation à une action prévue](https://prospectivepsych.org/publications/implementation-intentions-strong-effects-simple-plans).

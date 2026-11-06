@@ -90,5 +90,3 @@ Apprendre sans prouver sa valeur consiste à donner à certaines situations un b
 Vous pouvez demander ce que l'exercice doit permettre d'apprendre et comment les difficultés seront traitées. Un objectif limité, une question préparée et un retour sur la méthode peuvent rendre l'essai plus utile. Il n'est pas nécessaire de chercher le défi le plus grand ni de prétendre que toute erreur est agréable pour vous autoriser à apprendre.
 
 Si le besoin de faire vos preuves devient envahissant ou vous empêche durablement de demander des explications, un professionnel peut vous aider à explorer cette souffrance. Les conditions pédagogiques et relationnelles méritent aussi d'être discutées avec les personnes responsables. Le droit à un apprentissage respectueux ne dépend pas de votre capacité à paraître toujours sûr de vous.
-
-Sources : [Dweck et Leggett, buts et réponses aux difficultés](https://doi.org/10.1037/0033-295X.95.2.256) ; [Amy Edmondson, sécurité psychologique et comportements d'apprentissage](https://doi.org/10.2307/2666999).

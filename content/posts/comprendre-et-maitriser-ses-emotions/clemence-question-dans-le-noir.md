@@ -31,7 +31,11 @@ Dans sa chemise, elle a gardé l’invitation du musée avec le contact du servi
 
 ## Parler du plaisir retrouvé et des difficultés qui persistent
 
-Le suivi d’un trouble des conduites alimentaires peut se poursuivre pendant que la personne reprend des activités qui lui importent. Le NICE recommande de coordonner les soins et de tenir compte des besoins de santé, des études et de la vie sociale. Clémence peut apporter au rendez-vous ce qu’elle a trouvé difficile et ce qu’elle a apprécié dans la préparation. Elle pourra dire quelle place elle aimerait garder aux études et à la programmation lors des prochaines semaines. L’équipe reste l’interlocuteur pour apprécier les changements de santé et discuter avec elle de ce qu’il faudra revoir.
+Le suivi d’un trouble des conduites alimentaires peut se poursuivre pendant que la personne reprend des activités qui lui importent. Le NICE recommande de coordonner les soins et de tenir compte des besoins de santé, des études et de la vie sociale.
+
+## Comment cette difficulté se manifeste
+
+Clémence peut apporter au rendez-vous ce qu’elle a trouvé difficile et ce qu’elle a apprécié dans la préparation. Elle pourra dire quelle place elle aimerait garder aux études et à la programmation lors des prochaines semaines. L’équipe reste l’interlocuteur pour apprécier les changements de santé et discuter avec elle de ce qu’il faudra revoir.
 
 ## Préparer une prochaine séance avec les mêmes choix ouverts
 
@@ -42,8 +46,3 @@ Clémence souhaite revenir sur le plan de la main. Elle peut demander la référ
 ## La main dans le dernier plan
 
 La référente relance le passage. Cette fois, Clémence voit la main que la personne a décrite. Elle note le moment au verso de sa fiche et demande à Baya si elle veut ajouter la réponse de la salle à sa propre fiche. Baya lui dit qu’elle gardera surtout le rire. Près de la sortie, la référente leur demande qui veut préparer la prochaine séance. Clémence lui propose d’en reparler après son cours. Pour ce soir, elle reste un moment avec Baya devant l’image arrêtée.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG69, repérage et prise en charge des troubles des conduites alimentaires](https://www.nice.org.uk/guidance/ng69/chapter/recommendations)

@@ -11,6 +11,9 @@ personnage: "Bernard"
 sujet: "distance affective entre un parent et son enfant adulte"
 contexte: "avec ses enfants"
 draft: false
+editorial_sources:
+- https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/
+- https://pubmed.ncbi.nlm.nih.gov/19756175/
 ---
 
 La commode est prête à être vérifiée. Bernard a laissé le dernier tiroir entrouvert parce qu’il accroche encore en fin de course. Il demandera à Éric de le soulever un peu quand il passera. C’est une façon familière de travailler côte à côte. Pour le reste, il aimerait trouver un moment où ils auront tous les deux les mains libres.
@@ -87,5 +90,3 @@ La situation de Bernard montre que le manque affectif avec ses enfants n'est pas
 Il est possible de transformer la manière de donner de l'affection sans renier sa personnalité. Pour certains parents, l'affection peut commencer par des mots courts, des rendez-vous structurés et une lecture honnête de son histoire familiale. Ces mouvements, réguliers et modestes, ouvrent des voies nouvelles vers la relation.
 
 Si vous reconnaissez ces dynamiques et que la souffrance persiste, il est recommandé de consulter un professionnel pour un accompagnement personnalisé. La douleur liée au manque affectif mérite d'être accueillie et travaillée en sécurité.
-
-Sources : [NHS, vivre un deuil et demander de l’aide](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/) ; [Morris et al., rôle du contexte familial](https://pubmed.ncbi.nlm.nih.gov/19756175/).

@@ -30,7 +30,11 @@ Diane retrouve le cliché où l’on voit les deux pièces à la bonne hauteur. 
 
 ## Garder la maîtrise du récit de soi
 
-Quand une création traverse une période difficile, on peut choisir le lien qu’on veut rendre public entre les deux. À l’atelier, Diane a répondu à Anaïs qu’elle préférait parler des pièces. Sur les cartels, elle a quelques lignes pour attirer l’attention sur ce qui lui plaît. Elle se demande d’abord comment éviter qu’une personne invente une explication. En regardant les deux photos avec Rémi, elle trouve une question plus proche de ce qui l’intéresse : quel détail aimerait-elle que les gens prennent le temps de voir ? Maud a posé une question ouverte. Le bord et la couleur suffisent pour lui répondre.
+Quand une création traverse une période difficile, on peut choisir le lien qu’on veut rendre public entre les deux. À l’atelier, Diane a répondu à Anaïs qu’elle préférait parler des pièces. Sur les cartels, elle a quelques lignes pour attirer l’attention sur ce qui lui plaît.
+
+## Comment cette difficulté se manifeste
+
+Elle se demande d’abord comment éviter qu’une personne invente une explication. En regardant les deux photos avec Rémi, elle trouve une question plus proche de ce qui l’intéresse : quel détail aimerait-elle que les gens prennent le temps de voir ? Maud a posé une question ouverte. Le bord et la couleur suffisent pour lui répondre.
 
 ## Donner à chacun les informations dont il a besoin
 
@@ -39,8 +43,3 @@ Diane a communiqué un numéro de suivi à Rémi parce qu’elle voulait pouvoir
 ## Deux titres au crayon
 
 Sur le carton du bol, Diane écrit « Pente bleue », puis une phrase sur le bleu plus foncé au fond. Pour la carafe, elle choisit « Gris de pluie » et indique qu’elle a modelé le col pour qu’on verse lentement. Rémi lui montre qu’il a mesuré les deux cartes trop grandes et qu’il faudra les recouper pour la photo. Diane les envoie telles quelles à Maud, qui prépare de toute façon la mise en page. Elle demande à son cousin s’il sera là au vernissage. Il pense passer en fin de journée. Elle lui promet de lui indiquer la tablette qu’elle a demandée.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG178, évaluation et accompagnement après un premier épisode psychotique chez l’adulte](https://www.nice.org.uk/guidance/cg178/evidence/full-guideline-pdf-490503565)

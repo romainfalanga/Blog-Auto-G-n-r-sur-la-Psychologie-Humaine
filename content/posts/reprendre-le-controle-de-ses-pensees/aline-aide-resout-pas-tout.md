@@ -98,5 +98,3 @@ Quand l’aide ne résout pas tout, la limite de l’action ne prouve pas l’in
 Aline laisse sa mère choisir ce qu’elle raconte et ce qu’elle souhaite faire ensuite. Elle ne renonce pas au lien, mais cesse d’attribuer à une sortie ou à une fête la mission de réparer une relation. La peine reste possible. Elle peut être partagée avec discernement, sans devenir automatiquement un contrat d’intervention.
 
 Si une situation familiale vous place durablement dans une fonction de soutien que vous ne pouvez plus tenir, un psychologue peut vous aider à définir votre place et vos limites. Un professionnel peut également offrir un espace privé à la personne qui souhaite parler. Chercher cet appui reste un choix à discuter, sans promettre qu’une démarche suffira à résoudre toutes les difficultés.
-
-Sources : [Gross et John, expression émotionnelle et régulation](https://pubmed.ncbi.nlm.nih.gov/12916575/).

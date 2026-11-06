@@ -33,6 +33,8 @@ Devant la table, il voit encore en pensée la ligne vide sur le calendrier. Il n
 
 Une inquiétude persistante peut prendre du temps et compliquer la participation à une activité qu’on aime. Elle peut rester présente même pendant un moment agréable. Au billard, Antonin voudrait suivre ce qui se joue sur la table et pense encore au chantier par moments. Il peut raconter cette coexistence au médecin. Une soirée où il a réussi à venir donne une information sur sa vie. Elle dit aussi combien d’effort certains choix lui demandent encore.
 
+## Comment cette difficulté se manifeste
+
 Dans son suivi, le temps retrouvé pour les proches fait partie de ce qu’il veut préserver. Il peut dire ce qui l’a aidé à prendre part à cette soirée et ce qui était difficile avant de partir. Le relais organisé au travail répond à une question pratique. La discussion au cabinet peut porter sur la place que l’inquiétude prend une fois ce relais assuré.
 
 ## Passer le relais avant de quitter le travail
@@ -44,8 +46,3 @@ Benoît peut avoir envie de jouer une partie entière ou préférer rentrer apr�
 ## La bille le long de la bande
 
 Antonin manque le coup qu’il voulait tenter. La bille revient assez près de celle de Benoît pour leur laisser une possibilité au tour suivant. Son frère lui demande s’il reste pour le verre après la partie. Antonin dit oui. Sur le chemin du retour, il se rappelle la ligne vide du calendrier et l’envie de proposer un relais du soir qui ne se négocie pas à chaque réunion. Il en parlera avec Eva pendant les heures de travail.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE CG113, anxiété généralisée et trouble panique chez l’adulte](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)

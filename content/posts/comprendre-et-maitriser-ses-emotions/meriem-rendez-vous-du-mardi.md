@@ -31,7 +31,11 @@ La thérapeute attend qu’elle ait choisi où poser son sac. Meriem explique qu
 
 ## Une place pour discuter de la façon de travailler
 
-Dans un suivi pour un stress post-traumatique complexe, il peut être utile de prendre du temps pour établir la confiance et comprendre ce qui rend une séance difficile à aborder. Le NICE invite à adapter le temps et le cadre aux besoins de la personne. Les obstacles peuvent tenir aux émotions, à la façon dont la personne se voit, à ses relations ou à ses conditions de vie. Pour Meriem, il y a aussi un problème d’horaire : elle passe trop vite du cabinet à la salle où des personnes l’attendent.
+Dans un suivi pour un stress post-traumatique complexe, il peut être utile de prendre du temps pour établir la confiance et comprendre ce qui rend une séance difficile à aborder. Le NICE invite à adapter le temps et le cadre aux besoins de la personne. Les obstacles peuvent tenir aux émotions, à la façon dont la personne se voit, à ses relations ou à ses conditions de vie.
+
+## Comment cette difficulté se manifeste
+
+Pour Meriem, il y a aussi un problème d’horaire : elle passe trop vite du cabinet à la salle où des personnes l’attendent.
 
 Sa thérapeute, formée à la prise en charge du traumatisme, peut l’aider à revenir sur ce qui l’a conduite à manquer le jeudi et lui expliquer les options de soin. Le NICE recommande, selon la situation, des psychothérapies centrées sur le traumatisme, comme certaines thérapies cognitives et comportementales ou l’EMDR. Ces approches sont proposées par des professionnels formés. Le choix et la façon d’avancer se discutent avec la personne. L’échange de patrons, qui compte dans la vie de Meriem, ne tient pas lieu de traitement et ne mesure pas l’effet d’une séance.
 
@@ -44,8 +48,3 @@ Le rendez-vous du vendredi avec Ève a un autre objet. Il suffit d’apporter le
 ## Le chapeau attend sa deuxième taille
 
 Meriem retient le prochain mardi et demande qu’elles commencent par la question qu’elle n’a pas encore posée : comment décider ensemble du moment où elles aborderont ce qui lui est difficile ? En fin de journée, elle trace les mots sur du carton. Ève place l’enveloppe du chapeau dans le bac « À vérifier » et montre deux endroits où la table pourrait tenir. Meriem choisit celui où l’on peut faire le tour avec une poussette. Elles décident qu’Ève recevra les visiteurs et que Meriem expliquera les patrons à celles et ceux qui le souhaitent. À la vingtième minute, Ève remet son manteau. Les deux étiquettes sont à l’endroit.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG116, trouble de stress post-traumatique](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)

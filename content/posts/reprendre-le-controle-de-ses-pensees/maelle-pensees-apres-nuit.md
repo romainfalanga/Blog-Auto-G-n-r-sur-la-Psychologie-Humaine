@@ -100,5 +100,3 @@ Les pensées après un poste de nuit peuvent contenir une information utile ou u
 Le repos n'exige pas un esprit parfaitement vide. Une préoccupation peut revenir sans imposer une nouvelle enquête. Préserver une transition et clarifier les relais professionnels permet parfois de réduire ce prolongement du poste, avec des effets variables selon les journées.
 
 Si les pensées répétées occupent durablement votre sommeil ou votre vie quotidienne, un psychologue ou un médecin peut vous accompagner. Les conditions de travail doivent également être discutées lorsqu'elles rendent la récupération ou la déconnexion difficiles. Demander cet appui complète les gestes individuels.
-
-Sources : [Edward Watkins, pensées répétées constructives et non constructives](https://pmc.ncbi.nlm.nih.gov/articles/PMC2672052/) ; [INRS, effets des horaires atypiques](https://www.inrs.fr/risques/travail-horaires-atypiques/effets-sur-la-sante-et-accidents.html).

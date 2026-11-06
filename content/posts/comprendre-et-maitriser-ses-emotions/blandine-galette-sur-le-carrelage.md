@@ -33,7 +33,11 @@ Yannis a commencé à nettoyer le sol. Blandine s’assied sur le tabouret et lu
 
 Les émotions du deuil peuvent changer dans la même journée, parfois de façon inattendue. Le rire de Blandine appartient à la conversation avec Yannis. L’idée qu’elle aurait dû rester triste lui vient juste après. Elle tient à Jeanne même durant ces quelques secondes où elle regarde une galette voler. Elle peut trouver étrange d’avoir éprouvé du plaisir et avoir envie de rester malgré tout auprès de son ami.
 
-La culpabilité peut surgir dans le deuil, dans des situations très différentes. Pour Blandine, c’est la répétition de journées absorbées par le manque qui est importante dans son suivi. Le rire et la peine de ce samedi ne décident pas à eux seuls du cours de ce suivi. Elle peut raconter ce qui l’a fait rire et dire aussi ce que lui coûte l’idée que le plaisir serait déplacé.
+La culpabilité peut surgir dans le deuil, dans des situations très différentes.
+
+## Comment cette difficulté se manifeste
+
+Pour Blandine, c’est la répétition de journées absorbées par le manque qui est importante dans son suivi. Le rire et la peine de ce samedi ne décident pas à eux seuls du cours de ce suivi. Elle peut raconter ce qui l’a fait rire et dire aussi ce que lui coûte l’idée que le plaisir serait déplacé.
 
 ## Faire une place à la conversation en cours
 
@@ -44,8 +48,3 @@ Blandine peut demander une pause et repartir ensuite sur la cuisine, ou accepter
 ## La recette sans la partie acrobatique
 
 Blandine retourne la suivante avec la spatule. Elle raconte la phrase sur le beurre et Yannis ajoute « sans saut » sur le bout de carton qui lui sert de recette. À quinze heures, il part aider à déplacer les tables de l’école. Blandine ouvre la fenêtre pour que la cuisine refroidisse. Elle met deux galettes au réfrigérateur et jette un regard au dossier noir. Le rendez-vous de jeudi sur la place lui paraît encore incertain. Elle écrit à Léon pour vérifier qu’il a bien son numéro s’il faut le prévenir au dernier moment.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NHS — Grief after bereavement or loss : vécu du deuil et soutien](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/)

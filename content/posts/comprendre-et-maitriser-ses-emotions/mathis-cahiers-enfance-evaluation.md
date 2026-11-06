@@ -32,6 +32,8 @@ Dans le couloir, Simon attend avec son manteau sur les genoux. Ils doivent aller
 
 Un diagnostic peut être posé à l’âge adulte alors que les manifestations remontent à la période du développement. C’est ce que l’évaluation cherche à éclaircir en reprenant le parcours dans le temps. La psychiatre s’intéresse à la manière dont Mathis apprenait, s’organisait et vivait avec les autres. Elle lui demande ce qu’il arrivait à faire seul, ce que les adultes préparaient avec lui et ce qui changeait en dehors de la classe.
 
+## Comment cette difficulté se manifeste
+
 Un dessin de pignon, une bonne moyenne ou un oubli de matériel renseignent peu isolément. En rapprochant des exemples issus de situations différentes, la spécialiste peut demander à quelle fréquence les difficultés revenaient et quelles conséquences elles avaient. Elle examine aussi des explications qui peuvent se recouper ou coexister. Mathis se rappelle une période de sommeil très irrégulier pendant ses études. L’entretien permet de distinguer ce qu’il rapporte de cette période de ce qu’il se rappelle avant et après. Certaines dates resteront approximatives.
 
 ## Choisir qui peut apporter quel souvenir
@@ -43,8 +45,3 @@ Il propose que sa mère lui écrive quelques lignes sur les soirs de devoirs. El
 ## Le cahier près du sac
 
 Au cabinet, la page du cahier se coince dans la couverture quand Mathis essaie de la retourner. La psychiatre attend qu’il la déplie. Il retrouve le dessin du pignon avant l’exercice et le lui montre quand même. Ils discutent du temps qu’il passait à réparer avec le voisin et des consignes que celui-ci lui donnait une par une. En fin de séance, la spécialiste lui indique qu’ils reprendront ensemble ce qu’elle a pu établir lors d’un rendez-vous de restitution. Mathis note la date en rentrant. Au dos du papier, il écrit la question qu’il veut poser en premier.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [NICE NG87, évaluation et accompagnement du TDAH](https://www.nice.org.uk/guidance/ng87/chapter/recommendations)

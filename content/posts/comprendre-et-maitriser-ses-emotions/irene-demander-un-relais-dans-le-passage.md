@@ -31,7 +31,11 @@ Elle appelle quand même Mylène et lui montre où elle s’est cognée. La méd
 
 ## Une douleur mérite d’être entendue
 
-Quand un mouvement répété s’accompagne d’un heurt ou d’une douleur, les adultes doivent prendre au sérieux ce qui vient de se passer. Le geste familier d’Irène ne permet pas de juger de la douleur ni de l’éventuelle blessure. Ici, une situation de travail s’est resserrée sans que les deux collégiens en parlent. Irène a le droit de signaler ce qui lui fait mal et de demander une pause, même si elle aimerait finir sa page.
+Quand un mouvement répété s’accompagne d’un heurt ou d’une douleur, les adultes doivent prendre au sérieux ce qui vient de se passer. Le geste familier d’Irène ne permet pas de juger de la douleur ni de l’éventuelle blessure. Ici, une situation de travail s’est resserrée sans que les deux collégiens en parlent.
+
+## Comment cette difficulté se manifeste
+
+Irène a le droit de signaler ce qui lui fait mal et de demander une pause, même si elle aimerait finir sa page.
 
 La CIM-11 distingue notamment les présentations où les mouvements causent des blessures qui nécessitent une attention clinique propre. Un heurt dans un passage encombré ne permet pas d’attribuer cette catégorie. L’équipe pédiatrique pourra évaluer l’événement et décider de ce qui demande un suivi. Le rôle de Mylène est de s’occuper du lieu, d’écouter Irène et de passer le relais.
 
@@ -44,9 +48,3 @@ Ilyès peut aussi s’occuper d’une chose précise qu’Irène lui confie : la
 ## La fenêtre reste allumée
 
 Irène demande à Ilyès de garder la page ouverte jusqu’à ce que le bleu soit sec. Elle choisit de rentrer avec son père. Dans l’entrée, il appelle l’équipe qui la suit et lui passe le téléphone quand on lui demande ce qu’elle ressent. Elle parle de son avant-bras et de l’endroit où le chariot était arrivé. L’équipe leur indique quoi faire pour le bras et fixe un rendez-vous pour reprendre avec eux la question de la sécurité à l’atelier. Avant de mettre son manteau, Irène dit à Mylène de garder aussi la fausse impasse. Elle a une idée pour la suite.
-
-## Sources
-
-- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
-- [Great Ormond Street Hospital for Children (NHS) — Stereotypies: repetitive movements or sounds (2026)](https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/stereotypies-repetitive-movements-or-sounds/)
-- [MedlinePlus (US National Library of Medicine) — Stereotypic movement disorder (2026)](https://medlineplus.gov/ency/article/001548.htm)
