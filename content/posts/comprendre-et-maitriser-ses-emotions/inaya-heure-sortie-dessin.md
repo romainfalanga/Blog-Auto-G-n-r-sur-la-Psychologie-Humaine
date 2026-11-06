@@ -1,22 +1,24 @@
 ---
-title: Le manque de concentration bouscule les horaires de famille
+title: Concentration et dépression quand les horaires se mélangent
 description: Inaya arrive en retard au cours de dessin de Nino. Elle met des mots
   sur ses difficultés de concentration et organise un relais entre adultes.
 slug: inaya-heure-sortie-dessin
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Inaya
-sujet: Trouble dépressif récurrent
+sujet: Difficultés de concentration
 contexte: Un mercredi entre la boutique et le cours de dessin
 tags:
+- Trouble dépressif récurrent
 - Dépression récurrente
 - Difficultés de concentration
-- Soutien familial
-- Responsabilités des adultes
+- Retentissement familial
+- Relais entre adultes
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A71
+clinical_diagnosis: Trouble dépressif récurrent
 episode: 3
 ---
 

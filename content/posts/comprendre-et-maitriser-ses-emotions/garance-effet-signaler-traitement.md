@@ -1,22 +1,24 @@
 ---
-title: Quand la somnolence gêne le travail de Garance
+title: Somnolence et traitement quand corriger un texte devient plus difficile
 description: Garance remarque une somnolence le matin après une adaptation de son
   traitement. Elle demande au cabinet comment examiner ce changement.
 slug: garance-effet-signaler-traitement
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Garance
-sujet: Trouble bipolaire de type II
+sujet: Somnolence et suivi du traitement
 contexte: À son bureau de correctrice, avant un point de suivi
 tags:
+- Trouble bipolaire de type II
 - Bipolarité type II
-- Somnolence et attention au travail
-- Ajustement des engagements
-- Dialogue avec la psychiatre
+- Somnolence
+- Effets indésirables possibles
+- Retentissement au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A61
+clinical_diagnosis: Trouble bipolaire de type II
 episode: 8
 ---
 

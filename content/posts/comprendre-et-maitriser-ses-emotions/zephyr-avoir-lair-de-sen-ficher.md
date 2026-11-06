@@ -1,23 +1,25 @@
 ---
-title: Avoir l’air de s’en ficher quand le projet compte beaucoup
+title: Expression émotionnelle discrète et impression de désintérêt
 description: Au bureau du musée, une réponse brève de Zéphyr est prise pour du désintérêt.
   Il revient sur sa demande sans parler plus qu’il ne le souhaite.
 slug: zephyr-avoir-lair-de-sen-ficher
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Zéphyr
-sujet: Trouble schizotypique
+sujet: Expression émotionnelle discrète
 contexte: Le bureau du musée doit décider combien de temps et de matériel il accorde
   au projet d’ouverture de l’atelier.
 tags:
+- Trouble schizotypique
 - Schizotypie
-- Réserve et besoin de lien
-- Émotion difficile à lire
-- Dire son désaccord au travail
+- Expression émotionnelle discrète
+- Malentendu relationnel
+- Engagement dans un projet
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A22
+clinical_diagnosis: Trouble schizotypique
 episode: 5
 ---
 
@@ -25,7 +27,7 @@ Le premier bruit de la réunion est celui de la petite roue de Zéphyr sur sa pl
 
 Il est déçu. Avec deux supports, il rêvait de laisser essayer les gens sans les faire attendre. Mais il sait aussi ce qu’a coûté le rideau neuf de la salle de visite. Il rabat la fiche sur ses genoux. « D’accord. » Basile reprend le procès-verbal et propose de passer au point suivant : « Puisque ça ne te tient pas plus que ça, on verra les dates plus tard. » Deux bénévoles ramassent leurs tasses. Maud regarde Zéphyr ; il a la même voix qu’en donnant l’heure de la fermeture.
 
-Sous la table, Zéphyr a pincé le bord de sa fiche au point d’en marquer le carton. Il s’était promis de ne pas plaider pendant dix minutes. Il remet pourtant la platine au milieu et demande à Basile de laisser la date à l’ordre du jour.
+Sous la table, Zéphyr a pincé le bord de sa fiche au point d’en marquer le carton. Il s’était promis de ne pas plaider pendant dix minutes. Il remet pourtant la platine au milieu et demande à Basile de laisser la date à l’ordre du jour. Il a peur que la discussion se termine avant qu’il ait pu défendre cette matinée. Il entend sa propre demande, presque aussi égale que lorsqu’il demande une clé.
 
 ## Une voix égale et beaucoup à dire
 

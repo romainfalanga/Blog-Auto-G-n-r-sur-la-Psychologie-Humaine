@@ -1,27 +1,29 @@
 ---
-title: Se rassurer en repérant où trouver de l’aide sur place
+title: L’appréhension des repas hors du domicile et le besoin d’un appui accessible
 description: À l’arrivée, Adèle demande à voir le lieu prévu pour les repas. Elle
   choisit ce qu’elle veut vérifier avant que le groupe ne se sépare.
 slug: adele-deux-portes-sur-le-palier
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Adèle
-sujet: Trouble évitant ou restrictif de la prise alimentaire
+sujet: Appréhension des repas hors domicile
 contexte: Au centre d’hébergement, le matin de l’arrivée
 tags:
+- Trouble évitant ou restrictif de la prise alimentaire
 - ARFID
 - Trouble de l’alimentation sélective et évitante
-- Besoin de repères
-- Confiance envers l’adulte
-- Participation au groupe
+- Anxiété anticipatoire des repas
+- Appui concret en déplacement
+- Retentissement sur les sorties
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B83
+clinical_diagnosis: Trouble évitant ou restrictif de la prise alimentaire
 episode: 7
 ---
 
-Sur le parking du centre, le car s’agenouille dans un soupir. Adèle a descendu son carnet de la grille au-dessus des sièges bien avant qu’on le demande. Dans la vitre, elle a vu passer un toit très bas, deux cheminées et une façade presque sans fenêtres. Ça doit être l’atelier. Inès veut aller écouter de l’autre côté du mur dès qu’elles auront posé les sacs. Adèle aimerait commencer par là aussi. Elle regarde pourtant la poche de Mme Roussel, où dépasse le plan plié du collège.
+Sur le parking du centre, le car s’agenouille dans un soupir. Adèle a descendu son carnet de la grille au-dessus des sièges bien avant qu’on le demande. Dans la vitre, elle a vu passer un toit très bas, deux cheminées et une façade presque sans fenêtres. Ça doit être l’atelier. Inès veut aller écouter de l’autre côté du mur dès qu’elles auront posé les sacs. Adèle aimerait commencer par là aussi. L’idée du repas revient au moment où les portes s’ouvrent. Si la texture lui soulève le cœur comme à la cantine, elle veut pouvoir parler à un adulte sans chercher son nom devant les autres. Elle regarde la poche de Mme Roussel, où dépasse le plan plié du collège.
 
 Dans le hall, la responsable du centre est occupée à séparer les clés des chambres. Elle donne les consignes du séjour à toute la classe, avec un plan où seules les salles communes sont indiquées. Mme Roussel attend que le hall se vide, puis demande à Adèle si elle veut aller voir la petite salle avant de déposer son sac. Oui, si ça ne prend pas vingt minutes. Adèle demande à Inès de l’attendre près des chambres. Elle découvre que l’embranchement a deux portes semblables. Sur l’une est écrit « Lingerie », sur l’autre, le numéro de salle se détache à peine d’une couche de vernis.
 

@@ -1,23 +1,25 @@
 ---
-title: 'Peur de traverser le marché : Jules demande un relais'
+title: Quand l’anxiété anticipée gêne une tâche au travail
 description: Jules aimerait réaliser le bouquet d’une cliente. Il demande à Sonia
   de discuter de la livraison et précise ce qu’il souhaite garder privé.
 slug: jules-commande-aux-pavots
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Jules
-sujet: Trouble panique
+sujet: Retentissement professionnel de l’évitement
 contexte: Au stand de fleurs, pendant la préparation d’une commande pour une boutique
   du marché
 tags:
+- Trouble panique
 - Attaques de panique
-- Peur d’un trajet au travail
-- Négociation d’un aménagement
-- Confidentialité au travail
+- Anxiété d’anticipation
+- Évitement au travail
+- Soutien ponctuel
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B01
+clinical_diagnosis: Trouble panique
 episode: 6
 ---
 

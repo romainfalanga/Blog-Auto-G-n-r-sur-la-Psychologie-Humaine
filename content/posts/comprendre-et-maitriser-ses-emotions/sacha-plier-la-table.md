@@ -1,23 +1,25 @@
 ---
-title: La fatigue qui suit un atelier réussi
+title: Coût invisible de l’anxiété après un atelier réussi
 description: L’atelier a donné des idées aux visiteurs. Sacha discute de la fatigue
   qui a suivi et de la façon dont l’équipe gardera le dessin disponible.
 slug: sacha-plier-la-table
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Sacha
-sujet: Trouble d’anxiété sociale
+sujet: Retentissement malgré une participation visible
 contexte: La graineterie, le mardi suivant, puis le cabinet
 tags:
+- Trouble d’anxiété sociale
 - Anxiété sociale
 - Phobie sociale
 - Effort invisible
-- Besoin de répit
-- Limites au travail
+- Fatigue après interaction
+- Retentissement relationnel
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B04
+clinical_diagnosis: Trouble d’anxiété sociale
 episode: 11
 ---
 

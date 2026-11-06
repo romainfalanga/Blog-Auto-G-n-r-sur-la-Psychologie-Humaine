@@ -21,8 +21,7 @@
       "hors_parcours": 209
     },
     "characters": 150,
-    "episodes_planned": 1800,
-    "waves": 38,
+    "historical_wave_slots": 38,
     "diagnosis_timing": {
       "early_professional_assessment": 21,
       "established": 129

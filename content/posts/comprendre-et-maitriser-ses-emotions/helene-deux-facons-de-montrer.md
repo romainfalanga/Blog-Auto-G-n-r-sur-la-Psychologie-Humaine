@@ -1,23 +1,25 @@
 ---
-title: Demander un coup de main pour continuer seule
+title: Une aide ciblée pour comprendre une étape technique
 description: À l’établi, Hélène fabrique deux versions de ses panneaux et choisit
   ce qu’elle veut observer chez les clients.
 slug: helene-deux-facons-de-montrer
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Hélène
-sujet: Trouble du développement intellectuel
+sujet: Apprentissage avec aide ciblée
 contexte: À l’établi de la recyclerie, pendant le créneau de fabrication
 tags:
+- Trouble du développement intellectuel
 - TDI
 - Troubles du développement intellectuel
 - Aide ciblée
 - Compréhension d’une consigne
-- Apprentissage par l’essai
+- Autonomie au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A00
+clinical_diagnosis: Trouble du développement intellectuel
 episode: 4
 ---
 

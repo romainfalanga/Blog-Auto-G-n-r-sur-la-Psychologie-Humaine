@@ -1,24 +1,26 @@
 ---
-title: 'Rejouer pour effacer une perte : la tentation revient pendant la pause'
+title: Le rattrapage des pertes ou l’envie de rejouer pour régler le loyer
 description: Pendant sa pause, Gabin reconnaît l’envie de rejouer pour récupérer une
   perte et demande au service d’en parler avec lui.
 slug: gabin-argent-qui-manque
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gabin
-sujet: Trouble lié aux jeux d’argent
+sujet: Rattrapage des pertes
 contexte: repérer l’idée de rattraper une perte et demander de l’aide avant une nouvelle
   mise
 tags:
+- Trouble lié aux jeux d’argent
 - Jeux d’argent
 - Jeu pathologique
 - Rattrapage des pertes
 - Envie de rejouer
-- Peur d’annoncer une perte
+- Honte des pertes
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C50
+clinical_diagnosis: Trouble lié aux jeux d’argent
 episode: 2
 ---
 

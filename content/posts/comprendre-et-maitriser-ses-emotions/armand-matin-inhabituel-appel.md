@@ -1,23 +1,25 @@
 ---
-title: Reconnaître un changement brutal chez un proche
+title: Confusion soudaine chez une personne qui vit avec Alzheimer
 description: En passant chez son père, Jeanne remarque un changement brutal par rapport
   à la veille. Elle demande aussitôt un avis médical urgent.
 slug: armand-matin-inhabituel-appel
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Armand
-sujet: Démence due à la maladie d’Alzheimer
+sujet: Confusion aiguë et vigilance
 contexte: Un dimanche matin, avant la revue prévue des cartes avec Nadia
 tags:
+- Démence due à la maladie d’Alzheimer
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
 - Confusion aiguë
-- Inquiétude des proches
-- Passer le relais
+- Changement de vigilance
+- Évaluation médicale urgente
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D80
+clinical_diagnosis: Démence due à la maladie d’Alzheimer
 episode: 9
 ---
 
@@ -27,7 +29,7 @@ Elle pense au moment où il avait cherché l’heure du rendez-vous avec Nadia. 
 
 Quand on lui répond, Jeanne dit qu’il a un diagnostic de maladie d’Alzheimer et insiste sur la différence avec son état habituel. Elle dit à quelle heure ils ont parlé la veille, ce qu’elle observe depuis son arrivée et qu’elle ne sait pas quand le changement a commencé. La personne au téléphone lui pose quelques questions et organise une évaluation urgente. Jeanne répète à son père ce qu’elle vient de comprendre, d’une voix qu’il peut entendre.
 
-## Un changement brutal demande une autre réponse
+## Confusion aiguë et déclin progressif dans la maladie d’Alzheimer
 
 Une confusion apparue brutalement chez une personne âgée demande une évaluation médicale urgente, y compris lorsque la maladie d’Alzheimer est déjà diagnostiquée. La confusion aiguë, aussi appelée syndrome confusionnel, peut survenir chez une personne qui a déjà des difficultés cognitives. Un changement rapide dans la capacité à rester attentif ou dans la vigilance ne doit pas être mis d’emblée sur le compte d’un déclin attendu. Des causes diverses sont possibles et la recherche de la cause relève des soignants.
 

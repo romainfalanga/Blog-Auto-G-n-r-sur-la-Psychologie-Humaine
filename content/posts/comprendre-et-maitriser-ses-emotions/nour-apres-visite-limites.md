@@ -1,22 +1,24 @@
 ---
-title: 'Fatigue après la visite : quelle place garder pour la suivante ?'
+title: Le coût d’une sortie se voit aussi dans la récupération
 description: Des voisins veulent recommencer la visite. Avant de répondre, Nour examine
   ce que la première lui a demandé et la part qu’elle veut garder.
 slug: nour-apres-visite-limites
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nour
-sujet: Autisme
+sujet: Récupération après une surcharge
 contexte: Chez Nour, dans les jours qui suivent la première visite
 tags:
+- Autisme
 - TSA
-- Fatigue après l’effort
+- Fatigabilité
 - Temps de récupération
 - Limites dans un projet collectif
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A02
+clinical_diagnosis: Autisme
 episode: 10
 ---
 

@@ -1,23 +1,24 @@
 ---
-title: Une bonne soirée n’efface pas la fatigue du deuil
-description: Le jeudi du chœur a été bon pour Blandine. Plusieurs jours après, elle
-  peine à commencer un texte et apporte les deux faits en consultation.
+title: Deuil prolongé et dépression quand Blandine décrit une semaine contrastée
+description: Blandine apporte à sa thérapeute une soirée agréable et des journées
+  difficiles. Le suivi examine ce qui reste centré sur la perte.
 slug: blandine-portee-de-la-semaine
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Blandine
-sujet: Trouble du deuil prolongé
+sujet: Deuil prolongé et dépression
 contexte: Entre la demande d’Esther et une nouvelle consultation de suivi
 tags:
+- Trouble du deuil prolongé
 - Deuil prolongé
 - CIM-11 6B42
-- Variations du chagrin
-- Retrait
-- Limites au travail
+- Épisode dépressif
+- Évaluation différentielle
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B42
+clinical_diagnosis: Trouble du deuil prolongé
 episode: 11
 ---
 
@@ -27,7 +28,7 @@ Le samedi, elle avait acheté un livre pour son cousin. Le dimanche, elle l’a 
 
 Au cabinet le lendemain, Blandine raconte d’abord Le Pont. Elle décrit la fin du vers et ce qu’elle aimerait que Léon écoute. Puis elle raconte le dimanche où elle a laissé le livre dans son sac et les pages qui ont suivi. Sa thérapeute lui demande comment se passent les journées où elle rencontre peu de choses qui lui rappellent sa sœur. Blandine doit y réfléchir. Elle pose sur la table l’accord d’Esther et demande si elles peuvent parler des deux projets, celui qu’elle a accepté et celui qu’elle a refusé.
 
-## Examiner ce qui déborde de la scène
+## Examiner le deuil prolongé et les signes dépressifs
 
 Des difficultés comme le retrait ou la perte d’intérêt peuvent se rencontrer dans le trouble du deuil prolongé et dans un épisode dépressif. L’OMS distingue une souffrance qui reste centrée sur la perte d’un proche et des pensées ou émotions dépressives qui touchent habituellement davantage de domaines de vie. Les deux troubles peuvent aussi coexister. La distinction relève d’une évaluation : un moment de plaisir ou plusieurs journées difficiles ne permettent pas, à eux seuls, d’en juger.
 

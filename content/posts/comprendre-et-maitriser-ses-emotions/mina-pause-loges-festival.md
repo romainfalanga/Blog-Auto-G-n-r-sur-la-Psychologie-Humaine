@@ -1,23 +1,25 @@
 ---
-title: 'Tension après un reproche au travail : Mina prend une pause'
-description: Au festival, un reproche fait monter la tension. Mina demande un court
-  relais pour la livraison et choisit de reprendre l’échange plus tard.
+title: Réactivité émotionnelle quand un reproche public fait partir la réponse
+description: Un reproche devant les bénévoles fait réagir Mina avant qu’elle regarde
+  les deux fiches. Elle demande un relais pour retrouver un temps de réponse.
 slug: mina-pause-loges-festival
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mina
-sujet: Trouble de la personnalité avec profil borderline
+sujet: Réactivité émotionnelle sous tension
 contexte: Dans la cour des livraisons du festival
 tags:
+- Trouble de la personnalité avec profil borderline
 - Profil borderline
 - Trouble borderline
-- Réaction à un reproche public
-- Pause dans un échange tendu
-- Relais au travail
+- Réactivité émotionnelle
+- Réponse impulsive
+- Reprise après une pause
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D10
+clinical_diagnosis: Trouble de la personnalité avec profil borderline
 episode: 4
 ---
 

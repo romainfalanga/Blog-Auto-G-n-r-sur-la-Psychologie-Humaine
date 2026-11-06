@@ -1,13 +1,13 @@
 ---
 title: Roxane
 date: '2026-11-06T00:00:00+00:00'
-description: Roxane a neuf ans. Elle reconnaît la voix de sa tante depuis l’escalier
-  et voudrait savoir quels bruits passent par les tuyaux d’un appartement à l’autre.
-  Elle aime les devinettes qui font changer d’avis. En classe, quand quelqu’un perd
-  le fil de sa phrase, elle cherche une autre façon de dire la suite ou prend son
-  crayon. Elle voit Mme Colin, son orthophoniste, pour un trouble développemental
-  des sons de la parole. Avec son père et ses camarades, elle tient à choisir quand
-  on lui donne un coup de main.
+description: Roxane a neuf ans. Son trouble développemental des sons de la parole
+  rend certains sons difficiles à produire ou à enchaîner. Quand un adulte ne comprend
+  qu’une partie de sa phrase, elle hésite parfois à poursuivre, surtout si quelqu’un
+  répond à sa place. Elle travaille avec son orthophoniste sur des situations qui
+  comptent pour elle, comme demander un renseignement à une personne peu familière.
+  En préparant une devinette sonore avec Zoé, elle cherche comment rester l’autrice
+  de ses idées, y compris quand elle choisit de les montrer autrement.
 slug: roxane
 prenom: Roxane
 date_naissance: '2017-01-01'
@@ -17,86 +17,87 @@ nb_articles: 12
 weight: 55
 draft: false
 clinical_code: 6A01.0
+clinical_diagnosis: Trouble développemental des sons de la parole
 reading_topics:
-- Curiosité
-- Malentendus
-- Prise de parole
-- Choix de l’aide
-- Coopération
+- Trouble développemental des sons de la parole
+- Intelligibilité de la parole
+- Anticipation du malentendu
+- Gêne à devoir répéter
+- Maintien du tour de parole
 ---
 
 <h2 class="parcours-section-title">Parcours de Roxane</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-pince-orange/">Se faire comprendre au moment de former une équipe</a></h3>
-    <p class="parcours-resume">Au tableau, Mme Sorel a dessiné trois cases : « enregistrer », « fabriquer une devinette », « accueillir les visiteurs ». Il y a une pince orange au bord de chaque case. Les pinces servent à tenir les papiers, mais Roxane trouve qu’elles ressemblent à trois becs en attente du déjeuner.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-pince-orange/">Quand un trouble des sons de la parole rend une idée difficile à transmettre</a></h3>
+    <p class="parcours-resume">La classe est déjà sortie quand Roxane explique sa devinette à Mme Sorel. L’enseignante reconnaît qu’il est question d’un bruit et lui demande de quel oiseau elle parle. Dans le trouble développemental des sons de la parole, produire ou enchaîner certains sons peut rendre un message difficile à comprendre même au calme. Roxane hésite à recommencer alors que son idée est déjà précise.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-pince-orange/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-banc-vert/">Clarifier une consigne quand les mots se perdent au square</a></h3>
-    <p class="parcours-resume">Il y a deux bancs verts au square. Sur le premier, le bois porte une tache claire là où une latte a été changée. Sous le second, une flaque a pris la forme d’une semelle.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-banc-vert/">Pourquoi le bruit complique encore une consigne orale</a></h3>
+    <p class="parcours-resume">Zoé part vers le mauvais banc après le passage d’un vélo. Quand Roxane reprend, le silence revenu aide Zoé à comprendre qu’il s’agit d’un banc, mais elle garde le mauvais repère. Avec une difficulté durable de production des sons, retirer un bruit concurrent améliore parfois l’écoute sans lever toute ambiguïté. La carte permet aux deux filles de vérifier le lieu ensemble.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-banc-vert/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-tiroir-des-sons/">Garder son tour de parole quand son père veut aider</a></h3>
-    <p class="parcours-resume">La boîte d’écoute de la médiathèque est rangée dans un tiroir qu’on ouvre avec une poignée ronde. Roxane se hisse sur la pointe des pieds pour en voir le fond.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-tiroir-des-sons/">Pourquoi un proche comprend parfois là où un autre hésite</a></h3>
+    <p class="parcours-resume">Le père de Roxane connaît déjà la devinette et comprend plus vite ce qu’elle demande. Salomé attend une réponse sur l’origine du bruit et croit entendre autre chose. Les sons que l’on distingue, l’habitude d’écouter la personne et le contexte orientent ensemble la compréhension. Pour Roxane, le geste adressé à son père préserve le temps de reformuler une question qui lui importe.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-tiroir-des-sons/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-mot-sous-trombone/">Choisir ce qu’on veut travailler en orthophonie</a></h3>
-    <p class="parcours-resume">Le trombone de Mme Colin tient deux feuilles ensemble, dont une que Roxane a apportée pliée en quatre. Il empêche le coin du papier de se relever. Dans le cabinet, une boîte de petits animaux est encore ouverte sur le tapis.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-mot-sous-trombone/">Définir un objectif d’orthophonie à partir d’une difficulté vécue</a></h3>
+    <p class="parcours-resume">Roxane dit à son orthophoniste que lorsqu’un premier mot est mal compris, elle a parfois envie d’abandonner toute sa question. Le retentissement du trouble des sons de la parole s’apprécie aussi dans les échanges que la personne redoute ou auxquels elle renonce. Une demande de renseignement à un inconnu donne au suivi un objectif qui compte pour elle. Son enseignante peut adapter ses réponses avec l’appui qu’elles ont convenu de partager.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-mot-sous-trombone/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-dessin-attendra/">Distinguer ce que les joueurs entendent et ce qu’ils voient</a></h3>
-    <p class="parcours-resume">Zoé colle une feuille sur la première version du dessin. Dans le coin, le rouge qu’elle a mis au pic se voit à travers le papier. Elle ajoute une deuxième épaisseur.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-dessin-attendra/">Comprendre une phrase orale et résoudre l’énigme qu’elle contient</a></h3>
+    <p class="parcours-resume">Le pic apparaît sous le rabat et une joueuse trouve la réponse avant l’indice. À l’essai suivant, un garçon entend la phrase de Roxane et demande de quel instrument elle parle. Les mots écrits lui donnent le temps de reprendre l’indice, dont il doit encore chercher le sens. Cette scène distingue ce qu’un trouble des sons peut compliquer de ce qui relève de l’interprétation d’une énigme.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-dessin-attendra/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-gomme-clavier/">Se reconnaître dans sa voix enregistrée</a></h3>
-    <p class="parcours-resume">Mme Sorel a branché le casque sur l’ordinateur de la petite salle. Le fil est trop court pour que Zoé s’asseye en face de Roxane ; elles se retrouvent du même côté du bureau, genoux contre la même étagère.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-gomme-clavier/">S’écouter parler sans réduire sa voix à une prise</a></h3>
+    <p class="parcours-resume">Dans le casque, le bruit d’un ruban adhésif explique pourquoi Zoé a perdu la fin d’une phrase. Roxane entend aussi combien le ton varie entre ses trois essais. Pour une personne qui a un trouble des sons de la parole, un enregistrement renseigne sur les mots compris dans cette situation. Roxane peut tenir compte de ce retour et choisir la prise qui ressemble à sa façon de raconter.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-gomme-clavier/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-chaise-qui-grince/">Demander un relais quand le micro ne suffit pas</a></h3>
-    <p class="parcours-resume">Salomé s’assoit sur la dernière chaise, celle qui grince même quand on essaie de ne pas bouger. D’ici, on ne voit plus le dessin au mur où la classe a indiqué la place des groupes.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-chaise-qui-grince/">Quand les mots restent incompris malgré le volume</a></h3>
+    <p class="parcours-resume">Au fond de la salle, Salomé entend Roxane mais perd la fin de l’indice. En parlant plus fort, Roxane entend surtout la résonance de sa propre voix. La difficulté à distinguer les sons se joue aussi dans la distance, l’écho et la possibilité de voir le visage qui parle. Déplacer les chaises et rendre le relais visible change les conditions de l’échange pour chacune.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-chaise-qui-grince/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-enveloppe-sans-son/">En famille, écouter la façon de parler de chacun</a></h3>
-    <p class="parcours-resume">Tante Joëlle a mis le riz au lait à refroidir dans six petits verres. Elle en a prévu un pour Roxane si elle veut ajouter de la cannelle et un autre si elle préfère goûter sans.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-enveloppe-sans-son/">Distinguer un accent d’une difficulté durable de prononciation</a></h3>
+    <p class="parcours-resume">Roxane reconnaît sa tante Joëlle à sa façon marseillaise d’allonger les fins de phrase. Plus tard, sa tante croit que la devinette parle des bruits du square. Un accent est une variation attendue au sein d’une communauté. Pour évaluer des difficultés durables de production des sons, un professionnel considère les façons de parler auxquelles la personne est exposée, son âge et le retentissement dans plusieurs situations.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-enveloppe-sans-son/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-tour-de-bille/">Reprendre son tour quand une règle est mal comprise</a></h3>
-    <p class="parcours-resume">Roxane a une bille transparente avec un fil vert au milieu. Quand elle la pose près du trait de craie, le fil ressemble à une route qui monte. Nassim a tracé le parcours de l’autre côté de la cour, là où la terre se mélange au béton.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-tour-de-bille/">Réparer un malentendu quand on risque de perdre sa place</a></h3>
+    <p class="parcours-resume">Deux élèves qui connaissent peu Roxane viennent jouer. L’une n’entend que la fin d’une règle et croit que Roxane doit passer son tour. Quand elle montre le trait avec sa bille, la proposition devient claire et les autres peuvent en discuter. Un trouble des sons de la parole peut peser sur la participation quand les échanges avancent vite. Ici, réparer le malentendu rend à Roxane le droit de proposer, d’objecter et de jouer.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-tour-de-bille/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-case-laissee-libre/">Revoir l’aide convenue quand le rôle d’une amie change</a></h3>
-    <p class="parcours-resume">Le plan de samedi s’étend du pot à crayons jusqu’à la fenêtre. Mme Sorel a tracé une colonne pour chacun des deux passages du public. Sur le bord, Nassim fait rouler les jetons de carton pour voir lesquels tomberont les premiers.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-case-laissee-libre/">Trouver plusieurs appuis quand on craint de ne plus être comprise</a></h3>
+    <p class="parcours-resume">Roxane découvre que Zoé pourra relayer l’indice pendant une seule des deux présentations. Elle avait pris pour acquis que sa partenaire serait là tout le temps. Une difficulté de parole peut rester présente d’un passage à l’autre alors que les appuis disponibles changent. En gardant une version écrite à portée de main, Roxane retrouve une possibilité de choisir comment communiquer sa phrase sur le moment.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-case-laissee-libre/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-premier-jeton/">Choisir quand parler et quand passer le relais devant le public</a></h3>
-    <p class="parcours-resume">Le premier jeton atterrit sur « moteur ». Nassim a écrit le mot sur un bout de papier en écoutant un garçon. Il inscrit « bille » sur un deuxième.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-premier-jeton/">Prendre la parole en public quand se faire comprendre demande un effort</a></h3>
+    <p class="parcours-resume">La porte s’ouvre au moment où Roxane répond à un visiteur. En reprenant sa phrase après le bruit, elle peut poursuivre l’échange. Elle passe ensuite l’indice à Zoé au signe convenu. Avec un trouble des sons de la parole, rendre les mots accessibles et conserver l’initiative sont deux enjeux. Le micro, le carton et le relais lui laissent plusieurs manières de tenir son rôle.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-premier-jeton/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-papier-a-emporter/">Reformuler sa question au comptoir et continuer à chercher</a></h3>
-    <p class="parcours-resume">« Tu veux le livre sur le pic ? » demande l’homme au comptoir. Roxane l’a déjà vu ranger des albums, mais elle ne lui a jamais demandé de livre. Elle est revenue pour récupérer le rabat que Salomé avait mis de côté.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-papier-a-emporter/">D’une présentation préparée à une conversation spontanée</a></h3>
+    <p class="parcours-resume">Après une présentation préparée, Roxane demande un livre à un bibliothécaire qui connaît peu sa voix. Il lui fait répéter un mot. En prenant le radiateur comme repère, elle reformule et reprend l’échange qu’elle voulait pouvoir mener seule. Dans le suivi d’un trouble des sons de la parole, une situation spontanée éclaire l’effort qui reste à faire là où les interlocuteurs et les appuis changent.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/roxane-papier-a-emporter/" class="parcours-link">Lire</a>
   </div>
 </div>

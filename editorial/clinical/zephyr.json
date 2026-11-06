@@ -1,26 +1,30 @@
 {
   "character_id": "zephyr",
-  "bio": "À quarante ans, Zéphyr entretient les horloges d’un musée associatif. Il aime le calme de son établi et sait retrouver une vis sous trois couches de poussière, mais une phrase laissée en suspens peut lui prendre tout un après-midi. Il voudrait ouvrir l’atelier une matinée par mois pour transmettre ce qu’il a appris. Maud l’aide à imaginer l’accueil ; sa sœur Agnès lui rappelle ce qu’ils ont reçu en famille. Il lui reste à trouver une manière de faire de la place aux autres sans leur céder toutes ses clés.",
+  "bio": "Zéphyr, 40 ans, vit avec un trouble schizotypique. Horloger dans un musée associatif, il voudrait ouvrir son atelier aux visiteurs une matinée par mois. Les échanges lui demandent parfois un effort qui se prolonge bien après la conversation. Une remarque ambiguë peut le rendre méfiant, et les images qui l’aident à expliquer un geste laissent parfois les autres perplexes. Il tient à son temps seul, à l’histoire qu’il partage avec sa sœur Agnès et au plaisir de transmettre. Avec sa psychologue et ses collègues, il cherche à rendre les rencontres possibles à son rythme.",
   "profile_topics": [
-    "Doute sur les intentions des autres",
-    "Parole imagée et malentendus",
-    "Réserve et besoin de lien",
-    "Place de l’imprévu dans les échanges",
-    "Limites du partage et de l’entraide"
+    "Trouble schizotypique",
+    "Méfiance dans les échanges",
+    "Discours circonstancié",
+    "Expression émotionnelle discrète",
+    "Perceptions inhabituelles"
   ],
   "episodes": [
     {
       "number": 1,
       "slug": "zephyr-creneau-barre",
-      "title": "Se croire écarté quand son créneau disparaît du planning",
+      "title": "Méfiance quand un changement de planning ressemble à une mise à l’écart",
       "description": "Un créneau barré au musée fait craindre à Zéphyr qu’on ait retiré son projet. Il cherche ce qu’il peut demander avant de quitter la discussion.",
       "context": "Le musée associatif prépare son programme. Zéphyr veut essayer une matinée de transmission dans son atelier de mécanique.",
-      "topics": ["Doute sur les intentions des autres", "Retrait avant une réponse", "Demande de précision au travail"],
+      "topics": [
+        "Méfiance dans les échanges",
+        "Interprétation d’une intention",
+        "Évitement relationnel"
+      ],
       "opening": "Sur le planning du musée, la ligne « Atelier mécanique » est barrée au feutre vert. Zéphyr a encore dans la poche la vis à tête large qu’il a choisie pour que des mains novices puissent la prendre sans la perdre. Il reste devant le tableau assez longtemps pour que l’automate de la vitrine voisine frappe le quart d’heure.\n\nAu fond du hall, Maud est en train de téléphoner. Elle lui fait signe d’attendre en posant une paume sur le comptoir. Zéphyr repense au déjeuner de vendredi. Basile avait dit que le musée devait « retrouver de la place ». Tout à coup il lui paraît évident qu’il parlait de lui. Il tourne les talons, emporte la platine d’essai dans son atelier et remet les deux tabourets neufs sous la bâche. Il en était déjà là la saison passée : il avait vidé sa case du vestiaire pendant un changement de permanence. Maud l’avait trouvé le lendemain avec son bleu de travail dans un sac.\n\nCette fois elle vient le chercher pour le dépôt à la banque. Il avait promis de prendre le sac de monnaie avant le déjeuner. Il a laissé passer l’heure et Maud devra y aller seule. Elle jette un œil aux tabourets et demande s’il les veut au hall. La phrase qu’il a préparée en silence est « Je vous laisse la place ». Il la garde encore un instant. Puis il sort dans le couloir avec le planning plié.",
       "sections": [
         {
-          "heading": "Une intention qu’on n’a pas entendue",
-          "text": "Une information incomplète peut faire naître une interprétation qui finit par sembler aussi sûre que le fait de départ. Zéphyr a vu une ligne barrée ; il n’a pas entendu quelqu’un décider de l’exclure. La remarque sur la place, faite à un autre moment, prend pourtant pour lui la valeur d’une explication. Avant qu’il ait posé une question, elle a déjà changé deux choses : sa façon d’aborder Maud et ce qu’il fait de son projet.\n\nUne méfiance persistante et le retrait des échanges font partie des difficultés qui peuvent être présentes dans le trouble schizotypique. Le guide de la CIM-11 les situe dans un ensemble durable et tient compte de leur retentissement. Une réaction devant un planning ne permet à elle seule aucune conclusion. Il arrive aussi qu’une équipe se parle mal ou oublie de transmettre une information. Dans le hall, ces deux questions restent ouvertes."
+          "heading": "D’où vient la certitude qu’on veut l’écarter ?",
+          "text": "Dans le trouble schizotypique, des soupçons et des difficultés relationnelles peuvent se prolonger au-delà d’un échange. L’effet se voit ici dans l’après-midi que Zéphyr passe à reprendre la scène et dans son envie de se retirer. Le musée a réellement modifié le planning. L’intention que Zéphyr y lit reste à éclaircir avec Maud.\n\nUne information incomplète peut faire naître une interprétation qui finit par sembler aussi sûre que le fait de départ. Zéphyr a vu une ligne barrée ; il n’a pas entendu quelqu’un décider de l’exclure. La remarque sur la place, faite à un autre moment, prend pourtant pour lui la valeur d’une explication. Avant qu’il ait posé une question, elle a déjà changé deux choses : sa façon d’aborder Maud et ce qu’il fait de son projet.\n\nUne méfiance persistante et le retrait des échanges font partie des difficultés qui peuvent être présentes dans le trouble schizotypique. Le guide de la CIM-11 les situe dans un ensemble durable et tient compte de leur retentissement. Une réaction devant un planning ne permet à elle seule aucune conclusion. Il arrive aussi qu’une équipe se parle mal ou oublie de transmettre une information. Dans le hall, ces deux questions restent ouvertes."
         },
         {
           "heading": "Une question sur le prochain geste",
@@ -32,23 +36,32 @@
       "mirror": [
         "À la place de Maud, on peut reprendre ce que Zéphyr a vu et le renseigner sur la suite : « Oui, j’ai barré vendredi. Je peux t’expliquer le changement et te dire ce qui est encore en discussion. » Reconnaître l’oubli donne une réponse à la question de travail. Si elle doit partir avec le sac de monnaie, Maud peut proposer de reprendre le reste à son retour. Elle n’a pas à lui demander de raconter ce qu’il a imaginé devant le tableau."
       ],
-      "sources": ["oms-cddr", "mayo-schizotypie"],
+      "sources": [
+        "oms-cddr",
+        "mayo-schizotypie"
+      ],
       "continuity": {
         "choice": "Zéphyr demande le statut exact du créneau au lieu de retirer son projet et autorise Maud à inviter Loïc pour un essai à un adulte.",
         "next": "La date de vendredi disparaît, les changements seront signalés à Zéphyr, le bureau n’a encore rien accepté et le premier essai est prévu jeudi."
-      }
+      },
+      "clinical_focus": "Méfiance dans les échanges",
+      "clinical_intro": "En voyant son créneau barré, Zéphyr en vient à penser qu’on cherche à l’écarter. Il se prépare à quitter la discussion avant de savoir ce qui a été décidé. Dans le trouble schizotypique, une méfiance durable peut rendre les intentions des autres difficiles à interpréter. Distinguer le fait, la crainte et ses effets aide à comprendre le poids de ce moment."
     },
     {
       "number": 2,
       "slug": "zephyr-perdre-son-eleve",
-      "title": "Perdre son élève en voulant tout lui expliquer",
+      "title": "Discours circonstancié et malentendu pendant une démonstration",
       "description": "Loïc ne trouve pas par où commencer sur la platine de démonstration. Zéphyr revoit la façon dont il parle des outils.",
       "context": "Jeudi, Loïc essaie la démonstration avant que Zéphyr présente sa proposition au bureau du musée.",
-      "topics": ["Parole imagée et malentendus", "Honte quand l’explication échoue", "Vérifier ce que l’autre a compris"],
+      "topics": [
+        "Discours circonstancié",
+        "Gêne relationnelle",
+        "Clarifier une consigne"
+      ],
       "opening": "Loïc a posé le tournevis sur ses genoux pour avoir les deux mains libres et regarder Zéphyr. Il répare des vélos avec un copain, mais cette petite platine de laiton que le musée utilise pour les démonstrations lui est inconnue. Il voudrait savoir par où commencer. « La première roue a besoin d’une adresse », dit Zéphyr. Sur la tablette, il a dessiné une maison pour le point où la roue vient se placer. Il montre la maison, puis l’autre roue, puis une horloge ouverte sur son établi. Il parle d’un facteur qui finit sa tournée avec le temps qu’il a dans les jambes.\n\nQuand Loïc se lève, Zéphyr voit qu’il a pris la boîte réservée aux pièces de l’horloge du musée. Il la lui fait reposer et range la boîte dans l’armoire. Loïc rougit. « Je voulais faire ce que tu disais. J’ai cherché la roue du facteur. » Zéphyr a déjà entendu, dans d’autres conversations, des gens dire qu’ils le suivaient et remettre ensuite leur manteau. Cette fois il entend surtout le bruit sec de la porte du meuble. Il a envie de dire à Loïc que l’essai est terminé avant d’avoir à l’entendre.\n\nLoïc tourne le manche du tournevis entre ses doigts. Il doit partir dans vingt minutes pour ouvrir le local de son association de vélos. Il lève la main : « On en fait une ensemble, là, si tu veux. Une seule. »",
       "sections": [
         {
-          "heading": "Quand l’image devance le geste",
+          "heading": "Quand le détour imagé fait perdre le premier geste",
           "text": "Une explication peut être très précise dans la tête de celui qui la donne et laisser celui qui écoute sans premier geste à faire. La maison dessinée par Zéphyr désigne un emplacement. Pour Loïc, la tournée du facteur ouvre plusieurs pistes à la fois. Il finit par prendre une boîte au hasard de ce qu’il a compris et se fait reprendre devant l’établi. Zéphyr, qui ne voulait pas l’humilier, perd à son tour le fil de l’échange en entendant cette tentative comme un échec du cours entier.\n\nDans le trouble schizotypique, une parole qui multiplie les détours, devient difficile à suivre ou se charge d’images peut compter parmi des difficultés durables. Ce n’est pas le fait d’employer une métaphore qui a une valeur clinique. Le retentissement sur les échanges et le contexte plus large comptent. L’image de la maison peut même devenir utile si Loïc sait où regarder et ce qu’il cherche à faire."
         },
         {
@@ -61,19 +74,28 @@
       "mirror": [
         "Quand on joue le premier élève de quelqu’un, on peut dire exactement où on a décroché : « J’ai entendu le nom de la roue et je ne sais toujours pas laquelle prendre. Montre-la-moi ? » Ce retour dit ce qu’il manque pour essayer. Loïc peut aussi garder sa limite de temps, même si Zéphyr est déçu. Il est venu apprendre une manipulation sur la platine, pas répéter la séance jusqu’à ce qu’elle se passe comme prévu."
       ],
-      "sources": ["oms-cddr", "mayo-schizotypie"],
+      "sources": [
+        "oms-cddr",
+        "mayo-schizotypie"
+      ],
       "continuity": {
         "choice": "Zéphyr retire la boîte des pièces de collection et modifie sa fiche : le premier geste est indiqué au dos de l’image.",
         "next": "Loïc a réussi à repérer l’emplacement sur la platine, mais pas encore à faire tourner les deux roues. Zéphyr présentera la fiche à deux faces au bureau."
-      }
+      },
+      "clinical_focus": "Discours circonstancié",
+      "clinical_intro": "Pour montrer une seule vis, Zéphyr passe par l’image d’une maison puis par la tournée d’un facteur. Loïc ne sait plus quoi prendre. Dans le trouble schizotypique, une parole très imagée ou chargée de détours peut compliquer l’échange. La difficulté se voit dans ce que chacun comprend, dans la gêne qui suit et dans la possibilité de retrouver un premier geste commun."
     },
     {
       "number": 3,
       "slug": "zephyr-cloche-des-absents",
-      "title": "Craindre le ridicule en racontant un rituel de famille",
-      "description": "Agnès veut raconter pourquoi leur famille sonne encore une cloche. Zéphyr cherche des mots qui laissent de la place à leur souvenir.",
+      "title": "Crainte du jugement quand Zéphyr évoque une tradition familiale",
+      "description": "Zéphyr redoute les moqueries au sujet d’un rituel familial. Le sens du geste dépend de l’histoire qu’il partage avec Agnès.",
       "context": "Chez sa sœur Agnès, Zéphyr prépare un court témoignage pour accompagner la démonstration de mécanique.",
-      "topics": ["Peur du jugement", "Sens d’un rituel partagé", "Droit de choisir ce qu’on raconte"],
+      "topics": [
+        "Contexte culturel",
+        "Crainte du ridicule",
+        "Interprétation des croyances"
+      ],
       "opening": "Agnès a posé la cloche de la cuisine sur la nappe à fleurs, entre le pain et une enveloppe de photos. Elle la sonne une fois, sans se lever. Leur mère faisait ce geste à la date anniversaire de Jeannette, leur grand-mère. Elle disait qu’à cette heure-là les morts de la famille pouvaient entendre l’appel. Agnès le fait encore, parfois seule. Elle ne sait pas ce que son frère en pense ; ils ont surtout parlé de la recette de la soupe les autres années.\n\nZéphyr prend la petite cloche, regarde la marque laissée par la poignée sur le métal. Il a promis à Maud de chercher une phrase sur les objets dont on garde le son. Quand Agnès lui propose de mettre la cloche sur la table de l’atelier avec une légende, il rit trop fort. « Je ne vais pas leur raconter que chez nous on appelle les morts avec le pain. » Agnès lui reprend la cloche. « Tu pourrais aussi raconter ce que maman disait. Sans faire la voix du monsieur qui rigole. »\n\nZéphyr pensait défendre sa sœur contre une moquerie qu’il entendait déjà dans sa tête. À la place il l’a blessée, dans sa propre cuisine. Il tend la main vers une photo et s’arrête : elle a posé son pouce sur le visage de leur mère. Il demande ce qu’elle accepterait de raconter à quelqu’un qu’elle ne connaît pas.",
       "sections": [
         {
@@ -90,19 +112,28 @@
       "mirror": [
         "Agnès peut défendre le souvenir sans avoir à défendre une croyance devant tout le monde : « Tu peux dire ce qu’on fait, si tu me laisses choisir la phrase. La cloche reste ici. » Elle peut aussi nommer le rire qui l’a blessée et demander une pause avant d’en reparler. Soutenir son frère ne l’oblige pas à transformer un désaccord de famille en conversation sur sa santé."
       ],
-      "sources": ["oms-cddr", "mayo-schizotypie"],
+      "sources": [
+        "oms-cddr",
+        "mayo-schizotypie"
+      ],
       "continuity": {
         "choice": "Zéphyr s’excuse et reprend seulement la phrase qu’Agnès lui a donnée. Agnès garde la cloche et les photos.",
         "next": "La légende sera disponible pour la démonstration, avec l’accord d’Agnès ; aucun objet ou enregistrement familial n’a été promis."
-      }
+      },
+      "clinical_focus": "Crainte du jugement et contexte culturel",
+      "clinical_intro": "Zéphyr hésite à parler d’une cloche qui compte pour sa famille. Il s’attend à la moquerie et sous-estime ce que le geste signifie pour Agnès. Dans l’évaluation du trouble schizotypique, une conviction s’apprécie au regard de son contexte culturel, de sa place dans la vie et des autres difficultés éventuelles. Le rituel partagé prend son sens dans leur histoire familiale."
     },
     {
       "number": 4,
       "slug": "zephyr-note-de-consultation",
-      "title": "Hésiter à dire ce qu’on a cru pendant une consultation",
+      "title": "Rumination et évitement quand une intention reste incertaine",
       "description": "Zéphyr vient voir sa psychologue. Il lui parle du temps qu’il passe à chercher un sens caché aux échanges et choisit ce qui l’aiderait au musée.",
       "context": "Le trouble schizotypique de Zéphyr est connu depuis plusieurs années. Il retrouve sa psychologue référente, Sonia Martinez, avant la réunion du musée.",
-      "topics": ["Doute sur les intentions des autres", "Crainte de parler en consultation", "Limites du partage et de l’entraide"],
+      "topics": [
+        "Rumination après un échange",
+        "Évitement social",
+        "Méfiance dans les échanges"
+      ],
       "opening": "Zéphyr a plié le papier de sa convocation de façon à ne plus voir le mot « consultation ». Dans la salle d’attente, il se demande s’il va parler des dimanches passés à reprendre les phrases de Basile ou juste dire qu’il a beaucoup de travail. Il s’est déjà entendu dire cette dernière chose en repartant avec des questions qu’il n’avait pas posées. Depuis jeudi, par exemple, il s’est demandé chaque soir si Loïc allait raconter au café qu’il ne savait pas expliquer un engrenage. Loïc lui a pourtant écrit un merci pour l’essai.\n\nSonia Martinez, sa psychologue, l’attend devant le bureau. Zéphyr ne lui montre pas son téléphone. Il pose sur la table la fiche pliée qu’il a préparée pour Loïc. « J’ai fait simple pour qu’on puisse me suivre. Après, je fais compliqué tout seul. » Sonia lui demande ce qui se passe dans ces moments-là. Il pourrait lire les phrases qu’il a notées sur la convocation. À la place, il raconte le samedi où il est allé au marché au dernier moment pour éviter des gens du musée. Il n’y avait plus le fromage qu’il venait acheter. Il n’est même pas sûr que les gens qu’il évitait auraient été là.\n\nSonia prend son crayon, puis lui demande ce qu’il voudrait faire de ces deux choses : le marché et le projet d’atelier. Zéphyr avait mis les deux dans la même phrase. Il les dessine du doigt à deux endroits différents de la table.",
       "sections": [
         {
@@ -119,20 +150,29 @@
       "mirror": [
         "Si Zéphyr demande l’ordre des échanges, Maud peut répondre sur ce qu’elle connaît : « Il y aura les dates et le nombre de places. Pour le reste, je ne sais pas encore. Je peux demander qu’on commence par ton essai. » Elle peut transmettre cette demande sans lui demander pourquoi il y tient. Si Zéphyr choisit un jour de parler du suivi, il peut aussi préciser s’il veut une écoute ou une aide concrète."
       ],
-      "sources": ["oms-cddr", "mayo-schizotypie"],
+      "sources": [
+        "oms-cddr",
+        "mayo-schizotypie"
+      ],
       "continuity": {
         "choice": "Zéphyr parle du retentissement à Sonia et écrit à Maud une demande de réunion qui ne contient aucune donnée de santé.",
         "next": "Sonia reste sa psychologue référente ; Zéphyr garde le contact du secrétariat pour une difficulté qui change. Maud connaît la demande de commencer par la démonstration."
-      }
+      },
+      "clinical_focus": "Rumination après un échange",
+      "clinical_intro": "Zéphyr retarde son départ au marché à force d’examiner ce que les autres pourraient penser de lui. L’épisode fait apparaître le coût de la rumination dans le trouble schizotypique. À force de revenir sur une intention incertaine, il perd le moment où il peut sortir. Cette conséquence concrète donne à sa psychologue un point de départ pour parler de la difficulté."
     },
     {
       "number": 5,
       "slug": "zephyr-avoir-lair-de-sen-ficher",
-      "title": "Avoir l’air de s’en ficher quand le projet compte beaucoup",
+      "title": "Expression émotionnelle discrète et impression de désintérêt",
       "description": "Au bureau du musée, une réponse brève de Zéphyr est prise pour du désintérêt. Il revient sur sa demande sans parler plus qu’il ne le souhaite.",
       "context": "Le bureau du musée doit décider combien de temps et de matériel il accorde au projet d’ouverture de l’atelier.",
-      "topics": ["Réserve et besoin de lien", "Émotion difficile à lire", "Dire son désaccord au travail"],
-      "opening": "Le premier bruit de la réunion est celui de la petite roue de Zéphyr sur sa platine. Maud a obtenu qu’il fasse le geste avant le tour de table. Basile, qui présente les comptes de l’association, se penche pour regarder le mouvement passer d’une roue à l’autre. Zéphyr retourne sa fiche, laisse voir la petite maison et donne enfin le mot « adresse ». Il a bien préparé ce passage. Ce qu’il n’a pas préparé, c’est la phrase qui vient ensuite : « On peut faire deux essais, pas t’acheter une deuxième platine. »\n\nIl est déçu. Avec deux supports, il rêvait de laisser essayer les gens sans les faire attendre. Mais il sait aussi ce qu’a coûté le rideau neuf de la salle de visite. Il rabat la fiche sur ses genoux. « D’accord. » Basile reprend le procès-verbal et propose de passer au point suivant : « Puisque ça ne te tient pas plus que ça, on verra les dates plus tard. » Deux bénévoles ramassent leurs tasses. Maud regarde Zéphyr ; il a la même voix qu’en donnant l’heure de la fermeture.\n\nSous la table, Zéphyr a pincé le bord de sa fiche au point d’en marquer le carton. Il s’était promis de ne pas plaider pendant dix minutes. Il remet pourtant la platine au milieu et demande à Basile de laisser la date à l’ordre du jour.",
+      "topics": [
+        "Expression émotionnelle discrète",
+        "Malentendu relationnel",
+        "Engagement dans un projet"
+      ],
+      "opening": "Le premier bruit de la réunion est celui de la petite roue de Zéphyr sur sa platine. Maud a obtenu qu’il fasse le geste avant le tour de table. Basile, qui présente les comptes de l’association, se penche pour regarder le mouvement passer d’une roue à l’autre. Zéphyr retourne sa fiche, laisse voir la petite maison et donne enfin le mot « adresse ». Il a bien préparé ce passage. Ce qu’il n’a pas préparé, c’est la phrase qui vient ensuite : « On peut faire deux essais, pas t’acheter une deuxième platine. »\n\nIl est déçu. Avec deux supports, il rêvait de laisser essayer les gens sans les faire attendre. Mais il sait aussi ce qu’a coûté le rideau neuf de la salle de visite. Il rabat la fiche sur ses genoux. « D’accord. » Basile reprend le procès-verbal et propose de passer au point suivant : « Puisque ça ne te tient pas plus que ça, on verra les dates plus tard. » Deux bénévoles ramassent leurs tasses. Maud regarde Zéphyr ; il a la même voix qu’en donnant l’heure de la fermeture.\n\nSous la table, Zéphyr a pincé le bord de sa fiche au point d’en marquer le carton. Il s’était promis de ne pas plaider pendant dix minutes. Il remet pourtant la platine au milieu et demande à Basile de laisser la date à l’ordre du jour. Il a peur que la discussion se termine avant qu’il ait pu défendre cette matinée. Il entend sa propre demande, presque aussi égale que lorsqu’il demande une clé.",
       "sections": [
         {
           "heading": "Une voix égale et beaucoup à dire",
@@ -148,23 +188,32 @@
       "mirror": [
         "En entendant « d’accord », Basile peut vérifier sur quoi porte l’accord : « Pour le budget, je te suis. Est-ce qu’on fixe les dates maintenant ? » Cette question laisse Zéphyr répondre lui-même et permet à Basile de tenir l’ordre du jour. Maud peut demander le tour de parole convenu sans faire un commentaire sur son expression ou défendre le projet à sa place. Elle garde le droit de dire ce qu’elle peut assurer à l’accueil."
       ],
-      "sources": ["oms-cddr", "mayo-schizotypie"],
+      "sources": [
+        "oms-cddr",
+        "mayo-schizotypie"
+      ],
       "continuity": {
         "choice": "Zéphyr précise son accord limité au budget, obtient deux dates d’essai et accepte de travailler avec une seule platine.",
         "next": "Les deux séances du samedi auront trois adultes sur inscription. Maud assure l’accueil pour ces deux dates, sans promettre la suite."
-      }
+      },
+      "clinical_focus": "Expression émotionnelle discrète",
+      "clinical_intro": "Basile croit que Zéphyr se désintéresse de l’atelier parce que sa voix change à peine. Sous la table, Zéphyr serre sa fiche et cherche comment défendre la date. Une expression peu visible peut faire partie du vécu du trouble schizotypique. Ce décalage importe quand les autres déduisent la motivation d’une personne de son visage ou de son ton."
     },
     {
       "number": 6,
       "slug": "zephyr-sortir-quand-le-groupe-arrive",
-      "title": "Perdre ses mots quand des visiteurs s’ajoutent au groupe",
+      "title": "Retrait quand plusieurs personnes parlent en même temps",
       "description": "Un groupe suit une flèche jusqu’à l’atelier de Zéphyr. Les trois inscrits attendent tandis que lui et Maud doivent décider s’ils poursuivent la séance.",
       "context": "Première matinée d’essai. Trois personnes sont inscrites, dont Loïc, qui revient voir la platine tourner.",
-      "topics": ["Place de l’imprévu dans les échanges", "Retrait au milieu d’un groupe", "Relais quand la parole se coupe"],
+      "topics": [
+        "Retrait dans l’échange",
+        "Surcharge sociale",
+        "Peur de reprendre"
+      ],
       "opening": "Loïc tient la fiche du bon côté cette fois. Farah lui demande de la poser à plat pour qu’elle puisse lire par-dessus son épaule. Gil, le troisième inscrit, a apporté les lunettes qu’il utilise pour peindre des figurines. Zéphyr annonce qu’ils vont d’abord repérer où les roues se rencontrent. L’atelier sent le papier neuf : Maud a fait imprimer une flèche pour que les inscrits trouvent l’entrée.\n\nSept personnes de la visite générale suivent cette flèche et s’arrêtent sur le seuil. Une femme demande où poser son manteau. Quelqu’un d’autre veut savoir si les trois places sur les tabourets sont pour les enfants. L’un après l’autre, Zéphyr pourrait répondre à ces deux questions. Dans le brouhaha il n’en choisit aucune. Il n’arrive plus à se rappeler s’il vient d’inviter Loïc à approcher sa main de la platine ou s’il s’apprêtait à le faire. Il replie la fiche, se glisse derrière les derniers arrivés et sort par la porte du hall.\n\nIl y reste assez longtemps pour voir Maud reconduire le groupe vers la visite et décrocher la flèche. Les trois inscrits attendent encore. Zéphyr pensait qu’il lui suffirait de sortir pour reprendre sa voix et revenir vite. La place devant la platine lui paraît toujours impossible à reprendre. Quand Maud le rejoint, il arrive seulement à lui dire : « Ils ont déjà attendu combien de temps ? »",
       "sections": [
         {
-          "heading": "Quand le tour de parole disparaît",
+          "heading": "Le retrait soulage sur le moment et laisse la reprise ouverte",
           "text": "Une situation qui change d’un coup peut rendre un échange beaucoup plus difficile à suivre, même si la tâche était connue quelques secondes plus tôt. Ici, trois inscrits attendent une consigne et d’autres visiteurs posent des questions. Zéphyr perd le moment où il en était et quitte la pièce. Pour lui, c’est une façon de se dégager du brouhaha. Les personnes assises n’ont reçu aucune indication sur ce qui arrive ensuite.\n\nLes difficultés relationnelles et le retrait peuvent faire partie du trouble schizotypique, avec des variations au fil du temps. La scène montre ce qui arrive à Zéphyr dans cette configuration, sans faire du bruit ou de l’imprévu des signes du trouble. La flèche trompeuse est un problème réel d’organisation. Revoir la situation demande de s’occuper à la fois de l’accueil, de l’effet sur les visiteurs et de ce que Zéphyr peut reprendre ce matin-là."
         },
         {
@@ -177,23 +226,32 @@
       "mirror": [
         "Maud peut demander : « Est-ce que tu veux annoncer la fin, ou je le fais ? » Puis elle donne aux visiteurs une information qu’elle pourra tenir : « L’atelier s’arrête ce matin. On vous écrit quand on a une suite à proposer. » Elle peut aussi reconnaître que la flèche a prêté à confusion. Elle garde son rôle d’accueil : elle n’a pas à expliquer au public ce que Zéphyr a vécu ni à lui demander de le raconter pendant que tout le monde attend."
       ],
-      "sources": ["oms-cddr", "mayo-schizotypie"],
+      "sources": [
+        "oms-cddr",
+        "mayo-schizotypie"
+      ],
       "continuity": {
         "choice": "Zéphyr annonce qu’il arrête le premier essai. Maud retire la flèche et prend en charge le retour aux trois inscrits.",
         "next": "Loïc, Farah et Gil n’ont pas terminé la démonstration. La deuxième date n’est pas encore modifiée ; l’accès des seuls inscrits et le passage de relais restent à régler."
-      }
+      },
+      "clinical_focus": "Retrait dans l’échange",
+      "clinical_intro": "Des visiteurs s’ajoutent au groupe et Zéphyr quitte la pièce quand il perd le fil de sa démonstration. Le retrait peut réduire la pression sur le moment et laisser une conversation en suspens. Dans le trouble schizotypique, les difficultés à trouver sa place dans les échanges peuvent peser durablement sur les relations. L’atelier montre ce que laisse en suspens un départ brusque et pourquoi Zéphyr et Maud ont besoin d’en reparler."
     },
     {
       "number": 7,
       "slug": "zephyr-compte-rendu-atelier",
-      "title": "Se sentir exposé en lisant le compte rendu d’un atelier",
+      "title": "Sentiment d’exposition quand un compte rendu parle à sa place",
       "description": "Dans le compte rendu du premier essai, Maud a écrit que Zéphyr supporte mal les groupes. Il revient avec elle sur ce que le musée a besoin de savoir.",
       "context": "Après la séance interrompue, Maud prépare un compte rendu pour le bureau et un message aux inscrits.",
-      "topics": ["Limites du partage et de l’entraide", "Confiance après une maladresse", "Expliquer un besoin sans se dévoiler"],
+      "topics": [
+        "Sentiment d’exposition",
+        "Méfiance dans les échanges",
+        "Confidentialité choisie"
+      ],
       "opening": "Le bureau du musée sent le café froid. Maud a laissé ouvert le compte rendu qu’ils doivent relire ensemble avant de l’envoyer aux membres du bureau, puis elle est retournée dans le hall. Sous « accueil », elle a écrit : « Zéphyr supporte mal les groupes. Prévoir d’en limiter la taille. » Il lit deux fois ces mots alors que, sur le document, il n’y a encore rien sur la flèche décrochée. Il voudrait appuyer sur la touche pour supprimer tout le paragraphe. La petite corbeille dessinée dans un coin de l’écran l’attire davantage que le curseur.\n\nMaud revient du hall avec deux tasses. Elle lui explique que Mounir, un bénévole, lui a demandé pourquoi elle avait déplacé la flèche. Elle lui a dit à peu près la même chose qu’elle a écrite. Le texte, lui, n’est pas encore parti. Zéphyr imagine qu’au prochain changement de programme, on se passera de lui sans même le lui dire. Il n’a rien entendu de tel dans la bouche de Maud ; il sait en revanche ce qu’elle vient de lui dire et ce qu’il lit.\n\n« J’ai cru que ça évitait de te faire raconter la scène », dit-elle. Zéphyr pousse la tasse encore pleine jusqu’au milieu du bureau. « Ça raconte autre chose. Tu peux enlever la phrase et garder ce qu’on doit changer ? » Maud s’assied enfin. Elle a encore le message aux trois inscrits à écrire, et il lui faut quelque chose à leur dire.",
       "sections": [
         {
-          "heading": "Une maladresse réelle et une crainte qui déborde",
+          "heading": "Distinguer la maladresse réelle et la peur de ce qu’elle annonce",
           "text": "On peut avoir une raison précise de se sentir exposé sans savoir ce que les autres feront de l’information. Dans ce bureau, Maud a parlé de Zéphyr au lieu de raconter ce qui est arrivé à l’entrée. Cette maladresse mérite une réponse. La crainte qu’on décide désormais de tout sans lui ne se vérifie pas dans la phrase de Maud. Les deux choses peuvent être abordées séparément.\n\nUne méfiance persistante peut faire partie du trouble schizotypique. L’évaluation clinique s’appuie sur la situation de la personne et sur ce qui se répète dans sa vie. Le diagnostic de Zéphyr ne retire rien à sa possibilité de critiquer un compte rendu. Ce jour-là, il demande un changement précis : décrire l’incident et les besoins d’organisation sans lui coller une définition."
         },
         {
@@ -206,19 +264,28 @@
       "mirror": [
         "Maud peut dire : « J’ai mis une appréciation sur toi là où il fallait raconter l’incident. Mounir l’a déjà entendue ; je peux lui dire ce que j’aurais dû lui dire. Qu’est-ce qu’on garde dans le compte rendu ? » Elle peut proposer cette réparation et transmettre les éléments nécessaires au musée. Elle n’a pas besoin de poser des questions de santé, ni de faire promettre à Zéphyr qu’il lui fait de nouveau confiance."
       ],
-      "sources": ["oms-cddr", "mayo-schizotypie"],
+      "sources": [
+        "oms-cddr",
+        "mayo-schizotypie"
+      ],
       "continuity": {
         "choice": "Zéphyr et Maud révisent les messages avant l’envoi ; Maud reconnaît la remarque déjà faite à Mounir et propose de la corriger.",
         "next": "Le bureau reçoit les faits et la proposition d’accueillir les inscrits dans le hall. Les visiteurs attendent une confirmation pour le deuxième samedi ; Maud garde les échanges de santé hors du projet."
-      }
+      },
+      "clinical_focus": "Sentiment d’exposition",
+      "clinical_intro": "Maud écrit que Zéphyr supporte mal les groupes. Il lit une information personnelle qu’il n’a pas choisi de partager et redoute qu’on lui retire des décisions. Avec un trouble schizotypique, les intentions prêtées aux autres peuvent devenir très préoccupantes. La scène distingue ce que Maud a réellement écrit, la peur que cette phrase réveille et la limite que Zéphyr peut poser."
     },
     {
       "number": 8,
       "slug": "zephyr-prenom-dans-la-piece",
-      "title": "S’inquiéter d’entendre son prénom alors que la pièce est calme",
+      "title": "Perceptions auditives inhabituelles qui se répètent et isolent",
       "description": "Des sons inhabituels se répètent et troublent les journées de Zéphyr. Il contacte son équipe de soins et demande au musée de reporter la séance.",
       "context": "Quelques jours avant le deuxième essai, Zéphyr remarque un changement dans ses perceptions et dans ce qu’il arrive à faire de ses journées.",
-      "topics": ["Doute face à une perception", "Retentissement sur les habitudes", "Demander un avis quand quelque chose change"],
+      "topics": [
+        "Perceptions auditives inhabituelles",
+        "Retentissement quotidien",
+        "Évaluation clinique"
+      ],
       "opening": "Zéphyr apporte son assiette près de la fenêtre et entend quelque chose qui ressemble à son prénom. Il se retourne. Dans la cuisine, rien n’a bougé. Ce n’est pas la première fois qu’il croit reconnaître un mot dans les bruits de l’immeuble. Depuis quelques jours, cette impression revient aussi quand la pièce lui paraît calme. La veille, il a laissé son plat refroidir en attendant de pouvoir dire ce qu’il venait d’entendre. Il ne sait toujours pas.\n\nSur la table, la carte avec le numéro d’Agnès dépasse du courrier. Ils devaient finir de remettre d’aplomb la porte de son placard. Il lui a demandé de repousser le rendez-vous et n’a pas répondu quand elle a proposé une autre heure. Il a aussi renoncé deux fois à sortir acheter de quoi dîner. En se rappelant le deuxième essai du musée, il se surprend à vouloir attendre samedi pour en parler à quelqu’un : s’il met en ordre les trois tabourets et la fiche, il verra bien comment la journée se passe.\n\nSon assiette est encore froide. Il appelle sa sœur et lui dit qu’il a été effrayé par ces sons. Elle lui demande s’il veut qu’elle passe ou qu’elle reste en ligne. Zéphyr choisit qu’elle passe un peu plus tard. Il retrouve, dans son portefeuille, le papier plié sur lequel Sonia lui avait fait noter le numéro du centre. Il appelle le secrétariat avant d’ouvrir les messages du musée.",
       "sections": [
         {
@@ -235,19 +302,29 @@
       "mirror": [
         "Agnès peut dire : « Ça t’a fait peur. Je peux passer à l’heure qu’on vient de dire et on voit ce qui t’aiderait d’ici au rendez-vous. » Si elle est présente quand un son inquiète Zéphyr, elle peut dire ce qu’elle a elle-même entendu sans prétendre savoir ce qui s’est passé. Elle peut accompagner une démarche ou une course s’il le souhaite, tout en laissant l’évaluation au centre et en gardant la possibilité de rentrer chez elle."
       ],
-      "sources": ["oms-cddr", "mayo-schizotypie", "nice-evaluation-psychose"],
+      "sources": [
+        "oms-cddr",
+        "mayo-schizotypie",
+        "nice-evaluation-psychose"
+      ],
       "continuity": {
         "choice": "Zéphyr contacte le centre, se présente à l’entretien médical le jour même et demande à Maud de reporter le deuxième essai.",
         "next": "Le centre prévoit un suivi rapproché sans nouveau diagnostic annoncé. Les inscrits ont été informés du report, aucune autre date n’est fixée, et Agnès offre une présence ponctuelle."
-      }
+      },
+      "clinical_focus": "Perceptions auditives inhabituelles",
+      "clinical_intro": "Zéphyr croit entendre son prénom dans une pièce calme. Quand les impressions se répètent, il passe plus de temps à surveiller les bruits et renonce à certaines sorties. Des perceptions inhabituelles peuvent survenir dans le trouble schizotypique. Leur évolution, la détresse et la gêne qu’elles entraînent sont des raisons de demander un avis à l’équipe de soins, quelle que soit leur origine."
     },
     {
       "number": 9,
       "slug": "zephyr-reparler-a-un-visiteur",
-      "title": "Redouter de revoir un visiteur après l’avoir laissé attendre",
+      "title": "Anticipation du rejet après un échange interrompu",
       "description": "Loïc et Zéphyr se retrouvent dans la cour du musée. Chacun a cru avoir raté un geste différent lors du premier atelier.",
       "context": "Le deuxième essai a été reporté. Le suivi de Zéphyr se poursuit pendant qu’il examine avec l’équipe si une nouvelle date est possible.",
-      "topics": ["Doute sur les intentions des autres", "Réserve et besoin de lien", "Réparer un échange interrompu"],
+      "topics": [
+        "Anticipation du rejet",
+        "Rumination après un échange",
+        "Réparation relationnelle"
+      ],
       "opening": "Dans la cour du musée, Loïc laisse son vélo contre la grille, du côté où le soleil sèche la pierre. Il est venu chercher un dépliant de l’exposition et voit Zéphyr assis sur le banc avec sa boîte-repas. À la première séance, il lui avait lancé qu’il avait gardé sa matinée avant de partir. Depuis, il a reçu deux messages sur le deuxième essai, le premier pour dire que le musée écrirait et le second pour dire que la date sautait. Zéphyr avait pensé que Loïc éviterait le musée après ça.\n\n« J’ai déplacé mon cours de vélo pour venir », dit Loïc. Il ne s’assied pas. Zéphyr s’apprête à lui promettre le samedi de son choix, mais il n’a encore parlé de date ni avec Maud ni avec Mounir. Loïc se tient là, une main sur la selle. « La fois où tu es sorti, j’ai cru que j’avais encore pris la mauvaise pièce. Farah m’a dit qu’on attendrait, alors j’ai attendu. »\n\nZéphyr l’avait vu donner un coup de pouce à la fiche et avait pris son départ pour un verdict sur toute sa démonstration. Il referme sa boîte ; il a une réponse précise à la question du mauvais geste. Il se décale sur le banc, sans savoir si Loïc veut rester le temps de l’entendre.",
       "sections": [
         {
@@ -264,23 +341,32 @@
       "mirror": [
         "Loïc peut dire ce qu’il a payé de son temps : « J’aimerais revenir, mais je ne déplacerai rien avant d’avoir un horaire sûr. » Il peut aussi demander si son geste a posé problème. Cela suffit pour sortir d’un malentendu et donner un retour sur l’atelier. Il reste libre de ne pas revenir et n’a pas besoin d’obtenir une confidence pour que sa question reçoive une réponse."
       ],
-      "sources": ["oms-cddr", "mayo-schizotypie"],
+      "sources": [
+        "oms-cddr",
+        "mayo-schizotypie"
+      ],
       "continuity": {
         "choice": "Zéphyr reconnaît l’attente de Loïc, clarifie que son geste n’a rien provoqué et retient qu’il veut essayer lui-même.",
         "next": "Loïc accepte qu’on le prévienne d’une date ferme sans réserver d’avance. Zéphyr veut donner un tour de manipulation à chaque participant, et aucun nouvel horaire n’est encore promis."
-      }
+      },
+      "clinical_focus": "Anticipation du rejet",
+      "clinical_intro": "Zéphyr redoute de revoir Loïc parce qu’il a pris son départ pour un jugement sur sa capacité à enseigner. Loïc avait surtout cru qu’il s’était encore trompé de boîte. Dans le trouble schizotypique, des doutes relationnels persistants peuvent donner beaucoup de poids à une interprétation. La rencontre permet de parler du temps d’attente réel et d’entendre ce que chacun avait compris."
     },
     {
       "number": 10,
       "slug": "zephyr-craindre-de-passer-la-main",
-      "title": "Craindre de perdre sa place quand on demande un relais",
+      "title": "Méfiance face à l’aide quand les rôles restent implicites",
       "description": "Mounir propose de prendre le début de l’atelier. Zéphyr voudrait pouvoir lui passer la main tout en gardant la partie qu’il aime transmettre.",
       "context": "Avant de fixer une nouvelle date, Zéphyr et Mounir essaient la démonstration dans la salle attenante au hall.",
-      "topics": ["Doute sur les intentions des autres", "Peur d’être remplacé", "Limites du partage et de l’entraide"],
-      "opening": "Mounir a déjà sorti trois chaises quand Zéphyr arrive dans la petite salle derrière l’accueil. Il a mis la platine au milieu, à portée de la chaise la plus basse. « J’ai repensé à ce que Maud m’a dit sur la flèche », dit-il. « Pour le prochain atelier, je peux faire le début pendant que tu ranges le matériel. Je sais montrer les roues. » Il prend la fiche par le pli et la retourne dans le bon sens. Zéphyr entend surtout qu’il a déjà décidé où s’asseoir et quoi dire. Il remet dans sa caisse la pochette avec les vis de démonstration.\n\nMounir lui demande s’il peut prendre la pochette. À cette question, Zéphyr imagine déjà son nom absent du prochain programme. Il a pourtant invité Mounir lui-même. Il voulait savoir si quelqu’un pouvait lui passer la fiche ou montrer le mouvement quand il n’arrivait plus à parler. La réponse est arrivée sous la forme d’un début de séance qu’il n’avait pas prévu de céder. De l’autre côté du mur, Maud dit au téléphone que le musée ferme dans une heure. Zéphyr pourrait prétexter une course et laisser la salle en l’état.\n\nMounir garde sa main ouverte sur la table. Il ajoute qu’il ne pourra jamais donner plus d’une heure le samedi, parce qu’il rejoint son frère au marché. Zéphyr regarde l’horloge au mur, puis la fiche dans la main de Mounir. « Quand tu dis le début, tu pensais faire jusqu’où ? »",
+      "topics": [
+        "Méfiance face à l’aide",
+        "Interprétation d’une intention",
+        "Clarification des rôles"
+      ],
+      "opening": "Mounir a déjà sorti trois chaises quand Zéphyr arrive dans la petite salle derrière l’accueil. Il a mis la platine au milieu, à portée de la chaise la plus basse. « J’ai repensé à ce que Maud m’a dit sur la flèche », dit-il. « Pour le prochain atelier, je peux faire le début pendant que tu ranges le matériel. Je sais montrer les roues. » Il prend la fiche par le pli et la retourne dans le bon sens. Zéphyr entend surtout qu’il a déjà décidé où s’asseoir et quoi dire. Il remet dans sa caisse la pochette avec les vis de démonstration.\n\nMounir lui demande s’il peut prendre la pochette. À cette question, Zéphyr imagine déjà son nom absent du prochain programme. Il a pourtant invité Mounir lui-même. Il voulait savoir si quelqu’un pouvait lui passer la fiche ou montrer le mouvement quand il n’arrivait plus à parler. La réponse est arrivée sous la forme d’un début de séance qu’il n’avait pas prévu de céder. De l’autre côté du mur, Maud dit au téléphone que le musée ferme dans une heure. Zéphyr pourrait prétexter une course et laisser la salle en l’état. Le mot « début » lui laisse assez de place pour imaginer que Mounir a déjà proposé de tout reprendre. Il sent qu’il se raidit devant la fiche. Il essaie de se rappeler ce que Mounir lui a dit, mot pour mot.\n\nMounir garde sa main ouverte sur la table. Il ajoute qu’il ne pourra jamais donner plus d’une heure le samedi, parce qu’il rejoint son frère au marché. Zéphyr regarde l’horloge au mur, puis la fiche dans la main de Mounir. « Quand tu dis le début, tu pensais faire jusqu’où ? »",
       "sections": [
         {
-          "heading": "Deux façons de comprendre le même coup de main",
+          "heading": "La méfiance monte quand l’aide reste implicite",
           "text": "L’aide devient difficile à accepter quand le rôle de chacun reste implicite. Pour Mounir, prendre le début veut dire économiser quelques minutes de rangement et donner à voir deux roues. Zéphyr s’était imaginé montrer lui-même le premier geste, puis demander du renfort s’il en avait besoin. Il tient à ce moment où le visiteur comprend ce qu’il regarde. Sans s’être mis d’accord, chacun a attribué à l’autre un rôle différent.\n\nPour Zéphyr, la pensée qu’on pourrait le remplacer arrive vite et l’incite à ranger ses affaires avant de parler. Une méfiance durable peut peser sur les relations dans le trouble schizotypique. Le désaccord sur la séance reste une question que les deux hommes peuvent régler entre eux. En parlant de la fiche, Mounir peut dire ce qu’il avait compris et Zéphyr peut défendre la partie qu’il veut assurer."
         },
         {
@@ -293,20 +379,29 @@
       "mirror": [
         "Mounir peut préciser son offre en gardant sa propre limite. « Je peux montrer le premier mouvement si tu me passes la fiche. À onze heures, je dois être parti. » Il peut aussi demander à Zéphyr comment il veut reprendre la parole. Maud dispose alors de deux informations utiles pour l’accueil. Leur accord concerne le déroulement de la séance, et chacun peut dire si ce qu’on lui demande dépasse son rôle."
       ],
-      "sources": ["oms-cddr", "mayo-schizotypie"],
+      "sources": [
+        "oms-cddr",
+        "mayo-schizotypie"
+      ],
       "continuity": {
         "choice": "Zéphyr garde le début de la séance et essaie un relais sur la platine avec Mounir en lui passant la fiche.",
         "next": "Maud confirmera les places au hall. Le prochain essai dure quarante minutes et les trois anciens inscrits reçoivent la date en premier. Mounir peut rester jusqu’à onze heures."
-      }
+      },
+      "clinical_focus": "Méfiance face à l’aide",
+      "clinical_intro": "Mounir propose de prendre le début de l’atelier et Zéphyr entend déjà qu’il faudrait lui céder sa place. Quand on vit des difficultés relationnelles durables liées au trouble schizotypique, une aide mal définie peut accroître la méfiance. Zéphyr demande jusqu’où Mounir souhaite intervenir. Il découvre les limites que son collègue pose lui-même et garde la possibilité de choisir sa part."
     },
     {
       "number": 11,
       "slug": "zephyr-reprendre-son-fil-devant-le-groupe",
-      "title": "Reprendre la parole quand une question fait perdre le fil",
+      "title": "Perdre le fil d’un échange et retrouver le sujet ensemble",
       "description": "Une question de Gil désoriente Zéphyr en pleine démonstration. Mounir et lui essaient devant les visiteurs le relais prévu ensemble.",
       "context": "Loïc et Gil reviennent à l’atelier du musée. Farah ne peut pas venir à cette date et sa place a été proposée à Clara.",
-      "topics": ["Place de l’imprévu dans les échanges", "Parole imagée et malentendus", "Reprendre confiance après une interruption"],
-      "opening": "À dix heures, Maud vient dire que les trois noms sont cochés au comptoir. Loïc a trouvé quelqu’un pour ouvrir le local des vélos. Gil a ses lunettes de peintre et Clara, la nouvelle venue, a laissé un sac de courses derrière sa chaise. Par la porte entrouverte, Zéphyr entend Maud orienter un couple vers la visite générale. Personne de plus ne s’arrête sur le seuil. Il retourne la fiche et montre la première roue. Clara y pose un doigt comme il l’a demandé. Quand le mouvement passe à la seconde, elle se penche pour regarder dessous.\n\nGil demande si une pendule peut continuer à avancer quand le mouvement s’arrête à cet endroit. Zéphyr croit d’abord qu’il parle de la platine. Gil sort son téléphone pour lui montrer la pendule qu’il a chez lui. Les deux images se mélangent dans sa réponse. Il part d’une porte dont il faudrait regarder le gond, revient à une roue qui ne tourne plus et découvre que tout le monde attend encore le rapport entre les deux. Loïc tient sa main au bord de la table. Pour la première fois de la matinée, Zéphyr voudrait disparaître derrière l’établi.\n\nIl voit Mounir retirer ses coudes de la table pour lui faire de la place. La fiche est encore dans sa main. Zéphyr finit par la poser là où ils ont répété. Mounir la tourne vers Clara. À côté de lui, Gil dit qu’il peut garder sa question pour plus tard.",
+      "topics": [
+        "Décalage dans l’échange",
+        "Gêne relationnelle",
+        "Relais convenu"
+      ],
+      "opening": "À dix heures, Maud vient dire que les trois noms sont cochés au comptoir. Loïc a trouvé quelqu’un pour ouvrir le local des vélos. Gil a ses lunettes de peintre et Clara, la nouvelle venue, a laissé un sac de courses derrière sa chaise. Par la porte entrouverte, Zéphyr entend Maud orienter un couple vers la visite générale. Personne de plus ne s’arrête sur le seuil. Il retourne la fiche et montre la première roue. Clara y pose un doigt comme il l’a demandé. Quand le mouvement passe à la seconde, elle se penche pour regarder dessous.\n\nGil demande si une pendule peut continuer à avancer quand le mouvement s’arrête à cet endroit. Zéphyr croit d’abord qu’il parle de la platine. Gil sort son téléphone pour lui montrer la pendule qu’il a chez lui. Les deux images se mélangent dans sa réponse. Il part d’une porte dont il faudrait regarder le gond, revient à une roue qui ne tourne plus et découvre que tout le monde attend encore le rapport entre les deux. Loïc tient sa main au bord de la table. Pour la première fois de la matinée, Zéphyr voudrait disparaître derrière l’établi. Il voit enfin que Gil parle de la pendule sur son téléphone. Il sait où ils ont cessé de parler de la même chose. Les mots de sa réponse continuent de lui échapper.\n\nIl voit Mounir retirer ses coudes de la table pour lui faire de la place. La fiche est encore dans sa main. Zéphyr finit par la poser là où ils ont répété. Mounir la tourne vers Clara. À côté de lui, Gil dit qu’il peut garder sa question pour plus tard.",
       "sections": [
         {
           "heading": "Retrouver ce que l’autre regarde",
@@ -322,24 +417,33 @@
       "mirror": [
         "Mounir peut s’en tenir au geste convenu quand la fiche arrive devant lui. « Clara, tu veux refaire le mouvement ? » Il laisse ensuite une place à Zéphyr s’il veut reprendre. À la fin, un retour sur le temps passé à la table peut leur servir davantage qu’un jugement sur la prestation. Gil peut garder sa question, même si elle intéresse le groupe, et décider de la reposer un autre jour."
       ],
-      "sources": ["oms-cddr", "mayo-schizotypie"],
+      "sources": [
+        "oms-cddr",
+        "mayo-schizotypie"
+      ],
       "continuity": {
         "choice": "Zéphyr utilise le relais, reprend avec le tour de Clara et laisse les trois visiteurs manipuler. Il termine à l’heure et renonce à ajouter une explication.",
         "next": "La date reportée a été remplacée par un essai terminé. L’équipe dispose d’un format qui tient en quarante minutes. La cadence, la disponibilité de chacun et les prochaines dates restent à décider."
-      }
+      },
+      "clinical_focus": "Décalage dans l’échange",
+      "clinical_intro": "Une question sur une pendule de maison fait perdre à Zéphyr le fil de ce qu’il montrait sur la platine. La gêne arrive avant qu’il comprenne d’où vient le décalage. Les difficultés de parole et de lien du trouble schizotypique peuvent rendre ce moment coûteux. Le relais préparé lui donne du temps pour retrouver l’objet de la question et reprendre lui-même."
     },
     {
       "number": 12,
       "slug": "zephyr-garder-du-temps-seul",
-      "title": "Garder du temps seul quand on tient à accueillir les autres",
+      "title": "Solitude choisie et retrait quand les échanges demandent un effort",
       "description": "Après l’atelier, le musée propose deux dates rapprochées. Chez sa sœur, Zéphyr fait les comptes du temps qu’il veut consacrer au public.",
       "context": "Le nouvel essai est terminé. Basile voudrait profiter de la prochaine exposition pour ouvrir l’atelier deux samedis de suite.",
-      "topics": ["Réserve et besoin de lien", "Limites du partage et de l’entraide", "Trouver un rythme qui laisse de la place aux autres"],
+      "topics": [
+        "Solitude choisie",
+        "Retrait social",
+        "Ajuster son engagement"
+      ],
       "opening": "Agnès tient la porte du placard par le bas pendant que son frère aligne la poignée. Voilà trois fois qu’ils conviennent de finir cette réparation et que les outils repartent dans leur boîte. Cette fois, la porte ferme. Agnès l’ouvre jusqu’au bout, vérifie que son plat à tarte passe et annonce qu’il peut ranger son tournevis. Zéphyr lui dit que la phrase sur leur cloche a été lue à l’atelier. Une visiteuse a raconté qu’elle reconnaissait autrefois sa mère au bruit du portail. Agnès trouve que la cloche lui a déjà fait faire un beau voyage depuis son buffet.\n\nSur son téléphone, Zéphyr retrouve le message de Basile. Le musée pourrait mettre deux ateliers de suite au programme de l’exposition. Il aurait aimé qu’on lui pose la question avant d’écrire la maquette, même si les cases sont encore vides. Il avait réservé deux samedis pour remettre en marche l’horloge du vestibule. Il pense aussi à une matinée où il voudrait aller au marché avec Agnès. Il avait commencé à taper « On verra » pour avoir la paix. Elle lui demande de poser le téléphone le temps de remettre le plat dans le placard.\n\nMercredi, il reverra Sonia. Depuis le point médical, il a repris quelques sorties. Un soir, une impression de voix l’a encore tenu à la fenêtre plus longtemps qu’il ne voulait. Il note l’heure pour s’en souvenir au rendez-vous. Puis il relit le message de Basile jusqu’à la dernière ligne. Basile lui demande à quelle date il veut ouvrir.",
       "sections": [
         {
-          "heading": "Ce qu’une matinée laisse pour la suite",
-          "text": "Le temps qu’on choisit de passer avec les autres dépend aussi de ce qu’on souhaite pouvoir faire avant et après. Zéphyr veut transmettre un geste qu’il aime. Il tient aussi à ses matinées à l’établi, à ses sorties et au temps qu’il retrouve avec Agnès. Après une séance réussie, il peut dire quels engagements lui permettraient de retrouver ce plaisir le mois suivant. Pour Basile, cela précise aussi ce qui peut être annoncé au public.\n\nLes difficultés liées au trouble schizotypique peuvent varier dans leur intensité. Zéphyr garde avec son équipe la possibilité de parler des perceptions qui l’inquiètent et de leurs effets sur ses journées. Le goût qu’il a pour le calme de l’atelier mérite aussi d’être entendu comme une préférence. Il peut en tenir compte quand il choisit ce qu’il veut proposer."
+          "heading": "Reconnaître la part choisie et la part subie du retrait",
+          "text": "Zéphyr se repose avec plaisir à l’établi. Après les sons qui l’ont effrayé, il a aussi renoncé à des sorties qu’il aurait aimé faire. Le trouble schizotypique peut s’accompagner de retrait. Pour parler de son retentissement, Zéphyr et son équipe ont besoin de savoir à quel moment la solitude correspond à un choix et à quel moment elle lui coûte quelque chose.\n\nLe temps qu’on choisit de passer avec les autres dépend aussi de ce qu’on souhaite pouvoir faire avant et après. Zéphyr veut transmettre un geste qu’il aime. Il tient aussi à ses matinées à l’établi, à ses sorties et au temps qu’il retrouve avec Agnès. Après une séance réussie, il peut dire quels engagements lui permettraient de retrouver ce plaisir le mois suivant. Pour Basile, cela précise aussi ce qui peut être annoncé au public.\n\nLes difficultés liées au trouble schizotypique peuvent varier dans leur intensité. Zéphyr garde avec son équipe la possibilité de parler des perceptions qui l’inquiètent et de leurs effets sur ses journées. Le goût qu’il a pour le calme de l’atelier mérite aussi d’être entendu comme une préférence. Il peut en tenir compte quand il choisit ce qu’il veut proposer."
         },
         {
           "heading": "Prendre deux dates avec les gens qui les assurent",
@@ -351,11 +455,16 @@
       "mirror": [
         "Agnès peut parler de ce qu’ils ont envie de faire ensemble et garder le choix de ce qu’elle prête au musée. Si Zéphyr lui dit qu’il s’inquiète de nouveau, elle peut lui demander quel appui lui serait utile aujourd’hui et l’écouter s’il veut préparer ce qu’il dira au centre. Elle peut aussi être indisponible un jour et le lui dire. Leur prochain tour au marché peut rester le moment qu’ils ont choisi tous les deux."
       ],
-      "sources": ["oms-cddr", "mayo-schizotypie"],
+      "sources": [
+        "oms-cddr",
+        "mayo-schizotypie"
+      ],
       "continuity": {
         "choice": "Zéphyr propose de limiter l’ouverture à une matinée par mois et confirme les rôles avec Maud, Mounir et Basile.",
         "next": "Les deux prochains ateliers sont espacés d’un mois, avec un point d’équipe ensuite. Zéphyr garde le prochain rendez-vous avec Sonia et la possibilité de joindre le centre si ses difficultés changent. Il a prévu une sortie avec Agnès."
-      }
+      },
+      "clinical_focus": "Solitude choisie",
+      "clinical_intro": "Après avoir accueilli les visiteurs, Zéphyr a envie de recommencer et de retrouver le calme de son établi. Le trouble schizotypique peut s’accompagner de retrait social. Le temps qu’il choisit de passer seul a aussi une valeur pour lui. L’épisode montre comment il distingue le plaisir du calme, les sorties qu’une perception inquiétante lui fait éviter et le rythme d’accueil qu’il souhaite essayer."
     }
   ]
 }

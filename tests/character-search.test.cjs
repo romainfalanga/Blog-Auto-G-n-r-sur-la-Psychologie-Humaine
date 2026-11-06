@@ -8,6 +8,13 @@ const entries=engine.prepare([
 ]);
 const ids=q=>engine.search(entries,q).map(r=>r.entry.id);
 test('un prénom exact passe avant les mentions dans les histoires',()=>assert.equal(ids('Sophie')[0],'a'));
+test('le trouble présenté sur la fiche passe avant une mention dans une histoire',()=>{
+ const items=engine.prepare([
+  {id:'scene',name:'Sophie',keywords:['Trouble panique'],stories:'Un personnage parle de trouble panique.'},
+  {id:'diagnosis',name:'Jules',diagnosis:'Trouble panique'}
+ ]);
+ assert.deepEqual(engine.search(items,'trouble panique').map(r=>r.entry.id),['diagnosis','scene']);
+});
 test('accents, apostrophes et casse sont normalisés',()=>assert.deepEqual(ids('LÉA'),['b']));
 test('les mots se combinent même à distance',()=>assert.deepEqual(ids('travail réunion'),['a']));
 test('les variantes et formulations proches retrouvent les repères',()=>{assert.deepEqual(ids('pensées en boucle'),['a']);assert.deepEqual(ids('je rumine au travail'),['a']);assert.deepEqual(ids('burn-out'),['c']);});

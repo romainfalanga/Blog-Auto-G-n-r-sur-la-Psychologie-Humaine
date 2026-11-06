@@ -1,29 +1,31 @@
 ---
-title: Après le malaise, Clémence choisit ce qu’elle veut dire au club
+title: Se sentir exposée après un malaise et choisir ce qu’on raconte
 description: Après le malaise, Clémence reprend le suivi avec l’équipe spécialisée
   et choisit ce qu’elle veut dire au ciné-club.
 slug: clemence-rendez-vous-apres
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Clémence
-sujet: Anorexie mentale
+sujet: Confidentialité des soins et honte
 contexte: coordonner les suites d’une évaluation urgente et clarifier les informations
   utiles pour revenir au club
 tags:
+- Anorexie mentale
 - Anorexie
-- Choix des informations confiées
-- Attentes et limites pour la reprise
-- Coordination des soins après l’urgence
+- Confidentialité des soins
+- Crainte d’être réduite à son trouble
+- Continuité du suivi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B80
+clinical_diagnosis: Anorexie mentale
 episode: 10
 ---
 
 Clémence a mis le document remis après l’évaluation médicale derrière la fiche du film. Elle l’a fait en rentrant, parce que c’était la seule chemise qu’elle avait sous la main. En attendant son rendez-vous avec le service spécialisé, elle déplace la fiche pour que le document soit le premier à sortir. Elle ne sait pas ce que son équipe a déjà reçu. Elle aimerait aussi savoir à quel moment elle peut dire à la référente ce qu’elle pourra faire pour la soirée.
 
-Le dernier message du club demande simplement qui peut reprendre l’essai de projection. Baya lui a écrit séparément pour prendre de ses nouvelles et lui dire où la référente a rangé le boîtier. Clémence avait préparé une longue réponse, avec le déroulement du malaise tel qu’on le lui a raconté. Elle l’a laissée en brouillon. Elle voudrait d’abord comprendre ce que les professionnels lui recommandent pour les prochains jours. Elle décidera ensuite de ce qu’elle veut raconter à Baya et de ce que la référente doit savoir pour préparer la projection.
+Le dernier message du club demande simplement qui peut reprendre l’essai de projection. Baya lui a écrit séparément pour prendre de ses nouvelles et lui dire où la référente a rangé le boîtier. Clémence avait préparé une longue réponse, avec le déroulement du malaise tel qu’on le lui a raconté. Elle l’a laissée en brouillon. La pensée que tout le monde pourrait la voir désormais comme la fille qui a fait un malaise lui serre le ventre. Elle voudrait d’abord comprendre ce que les professionnels lui recommandent pour les prochains jours. Elle décidera ensuite de ce qu’elle veut raconter à Baya et de ce que la référente doit savoir pour préparer la projection.
 
 Pendant l’entretien, elle pose le document sur la table et demande qui va reprendre les informations. Elle dit qu’elle souhaite garder une part dans la soirée si c’est compatible avec les suites du suivi. La professionnelle lui demande quelle tâche compte le plus pour elle. Clémence montre la fiche du film. Elle pourrait la finir même si la présentation devait être partagée. Elle voudrait pouvoir garder cette possibilité pendant qu’elles examinent le reste.
 

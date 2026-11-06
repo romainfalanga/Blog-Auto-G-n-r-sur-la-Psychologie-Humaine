@@ -1,24 +1,26 @@
 ---
-title: Oser demander encore une vérification après une commande réussie
+title: Garder des appuis pour le calcul après une commande réussie
 description: À l’essai sous les projecteurs, Lison voit les revers des quatre vestes
   en mouvement. Pour la commande suivante, elle choisit quels appuis garder.
 slug: lison-garder-la-main-commande
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Lison
-sujet: Trouble développemental des apprentissages avec déficit en mathématiques
+sujet: Autonomie et persistance des difficultés
 contexte: Une dizaine de jours plus tard, au théâtre, pendant l’essai des vestes sous
   les projecteurs.
 tags:
+- Trouble développemental des apprentissages avec déficit en mathématiques
 - Dyscalculie développementale
 - Dyscalculie
-- Reconnaître ses compétences
-- Autonomie et aide choisie
-- Ajuster l’aide
+- Persistance de la dyscalculie
+- Sentiment de compétence
+- Appuis au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.2
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en mathématiques
 episode: 12
 ---
 

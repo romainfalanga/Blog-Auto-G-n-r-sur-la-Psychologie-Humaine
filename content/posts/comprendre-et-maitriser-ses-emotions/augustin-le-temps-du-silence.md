@@ -1,24 +1,26 @@
 ---
-title: S’autoriser une pause sous le regard de la salle
-description: Devant le public, Augustin a besoin d’un instant de plus avant de soulever
-  le soleil. Il décide de garder le geste et le silence qui le précède.
+title: Prendre le temps du geste sous le regard du public
+description: La manche d’Augustin gêne sa prise sur scène. Il prend un instant pour
+  retrouver ses deux appuis avant de soulever le disque.
 slug: augustin-le-temps-du-silence
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Augustin
-sujet: Trouble développemental de la coordination motrice
+sujet: Coordination motrice sous pression
 contexte: pendant la représentation de L’Aube en carton
 tags:
+- Trouble développemental de la coordination motrice
 - Trouble du développement de la coordination
 - TDC
 - Dyspraxie
-- Pression du temps
-- Regard du public
-- Choix de l’aide
+- Précision du geste
+- Appréhension du regard
+- Relais au signal
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A04
+clinical_diagnosis: Trouble développemental de la coordination motrice
 episode: 11
 ---
 

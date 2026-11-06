@@ -1,23 +1,25 @@
 ---
-title: Après le voyage, Adèle choisit ce qu’elle veut montrer d’elle
+title: Pourquoi un voyage réussi ne résume pas l’évolution de l’ARFID
 description: Après le retour, Adèle reprend le séjour avec l’équipe. Pour la présentation
   au collège, elle choisit le tirage qu’elle veut signer.
 slug: adele-un-tirage-pour-la-vitre
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Adèle
-sujet: Trouble évitant ou restrictif de la prise alimentaire
+sujet: Suivi du retentissement dans la durée
 contexte: Au collège, une semaine après le voyage
 tags:
+- Trouble évitant ou restrictif de la prise alimentaire
 - ARFID
 - Trouble de l’alimentation sélective et évitante
-- Regard sur ses propres efforts
-- Reconnaissance de sa contribution
-- Intimité préservée
+- Suivi de l’ARFID
+- Retentissement dans la durée
+- Appuis selon le contexte
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B83
+clinical_diagnosis: Trouble évitant ou restrictif de la prise alimentaire
 episode: 12
 ---
 
@@ -27,9 +29,9 @@ Eva arrive avec le carton qui protégera le tirage qu’Adèle emportera chez el
 
 Inès traverse le hall avec son cahier à spirale. La vitrine doit accueillir les travaux du voyage. Inès a préparé le carton qui accompagnera leur projet. La professeure demande un titre commun et Inès voudrait écrire leurs deux prénoms juste en dessous. Adèle lui demande le crayon. Elle veut signer son dessin et laisser une ligne à Inès pour son enregistrement. Pour le titre, elle a gardé les mots écrits au bout de sa première bande.
 
-## Ce qu’un séjour apprend au suivi
+## Évaluer ce qui a changé et ce qui gêne encore les repas
 
-Le suivi de l’ARFID peut tenir compte de ce qui a facilité ou gêné les repas dans un nouveau cadre, tout en continuant d’évaluer la santé et les besoins nutritionnels. La possibilité d’aller au voyage renseigne sur ce séjour et les appuis effectivement disponibles. Elle ne permet pas de conclure que les difficultés alimentaires sont terminées. La diététicienne peut reprendre avec Adèle les différences entre les repas et la façon dont le retour au collège se passe. Le médecin garde sa part dans le suivi de la santé.
+Le suivi de l’ARFID peut tenir compte de ce qui a facilité ou gêné les repas dans un nouveau cadre, tout en continuant d’évaluer la santé et les besoins nutritionnels. La possibilité d’aller au voyage renseigne sur ce séjour et les appuis effectivement disponibles. Un séjour possible avec des appuis donne un point de départ pour examiner les difficultés qui persistent. L’ARFID peut continuer à l’âge adulte et peut aussi se manifester pour la première fois à cet âge. Le suivi s’adapte à ce que la personne vit et aux effets de la restriction sur sa santé et son quotidien. La diététicienne peut reprendre avec Adèle les différences entre les repas et la façon dont le retour au collège se passe. Le médecin garde sa part dans le suivi de la santé.
 
 Adèle veut garder un point pour une prochaine sortie : elle a pu demander de l’aide plus tôt quand elle savait à qui parler. Pour les repas, il faudra discuter du prochain lieu et des besoins du moment avant de reprendre le même plan. Rien n’oblige à décider de la prochaine nuit hors de chez elle à la fin de ce rendez-vous.
 

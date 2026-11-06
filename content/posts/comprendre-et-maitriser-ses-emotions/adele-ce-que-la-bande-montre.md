@@ -1,23 +1,25 @@
 ---
-title: Retrouver le groupe après avoir demandé de l’aide
+title: Demander un appui pour manger et retrouver le groupe ensuite
 description: Après un matin plus difficile qu’elle ne l’espérait, Adèle choisit comment
   montrer son dessin au groupe et ce qu’elle veut en dire.
 slug: adele-ce-que-la-bande-montre
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Adèle
-sujet: Trouble évitant ou restrictif de la prise alimentaire
+sujet: Participation sociale et coût invisible
 contexte: Au centre, le lendemain, avant le car du retour
 tags:
+- Trouble évitant ou restrictif de la prise alimentaire
 - ARFID
 - Trouble de l’alimentation sélective et évitante
-- Demande d’aide
-- Retour vers le groupe
-- Choix de ce qu’on raconte
+- Participation malgré les difficultés
+- Demande d’aide plus précoce
+- Retentissement peu visible
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B83
+clinical_diagnosis: Trouble évitant ou restrictif de la prise alimentaire
 episode: 11
 ---
 

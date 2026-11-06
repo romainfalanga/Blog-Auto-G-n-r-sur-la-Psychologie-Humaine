@@ -1,36 +1,38 @@
 ---
-title: Faire le point sur le loyer et choisir ce qu’on partage
+title: La honte des dettes quand il faut regarder les échéances
 description: Avec son accord, un rendez-vous de conseil budgétaire aide Gabin à distinguer
   ce qui concerne le foyer et ce qui reste à examiner seul.
 slug: gabin-pli-du-justificatif
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gabin
-sujet: Trouble lié aux jeux d’argent
+sujet: Évitement des conséquences financières
 contexte: préparer avec un service de conseil budgétaire une information fiable sur
   les charges de la colocation
 tags:
+- Trouble lié aux jeux d’argent
 - Jeux d’argent
 - Jeu pathologique
-- Transparence dans la colocation
-- Limites de l’aide d’un proche
-- Conseil budgétaire
+- Honte des dettes
+- Retentissement financier
+- Accompagnement budgétaire
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C50
+clinical_diagnosis: Trouble lié aux jeux d’argent
 episode: 3
 ---
 
 Le papier du loyer tient plié dans la poche de la veste. Gabin le sort à l’accueil et l’aplatit sur le comptoir. En haut figure le montant que Nora attendait. Dans le pli, il avait ajouté le chiffre qu’il pouvait confirmer mercredi. Une autre page reprend des dépenses qui le concernent seul. Il ne les a pas toutes retrouvées. En mélangeant les deux feuilles, il avait réussi plusieurs soirs à ne plus savoir par où commencer.
 
-La personne qui le reçoit lui demande ce qui est le plus pressé. Gabin commence par parler des chaises, parce que les ferrures sont la première ligne qu’il comprend sans regarder ses papiers. Puis il montre la date du loyer. Le service d’addictologie lui a proposé de prendre ce rendez-vous avec un service de conseil budgétaire, et il a accepté de venir seul. Nora avait dit qu’elle voulait d’abord savoir quelle part resterait à régler et à quel moment ils pourraient en reparler. Elle ne lui a pas demandé le détail de ce rendez-vous.
+La personne qui le reçoit lui demande ce qui est le plus pressé. Gabin commence par parler des chaises. Le prix des ferrures est facile à dire. Il a plus de mal à prononcer le montant du loyer qu’il n’a pas pu verser, même devant quelqu’un qu’il est venu voir pour cette raison. Puis il montre la date du loyer. Le service d’addictologie lui a proposé de prendre ce rendez-vous avec un service de conseil budgétaire, et il a accepté de venir seul. Nora avait dit qu’elle voulait d’abord savoir quelle part resterait à régler et à quel moment ils pourraient en reparler. Elle ne lui a pas demandé le détail de ce rendez-vous.
 
 Gabin voudrait repartir avec une phrase qui tienne dans un message. La conseillère lui demande ce qui est déjà versé, ce qu’il peut encore confirmer et ce qui manque. Il lui montre le pli. Il sait répondre aux deux premières questions. Pour la troisième, il faut vérifier que les sommes ne sont pas comptées deux fois. Il regarde de nouveau la liste des ferrures. Sur ce papier, il avait encore gardé l’hypothèse où il achèterait le matériel dès cette semaine.
 
 ## Mettre les échéances en face des sommes disponibles
 
-Un conseil budgétaire peut aider à faire le point sur les sommes disponibles, les échéances et les difficultés qui demandent un avis spécialisé. Le NICE recommande de proposer, selon la situation, une orientation vers un appui pour les finances, les dettes ou le logement. Gabin apporte ses informations et décide avec la conseillère de ce qu’ils peuvent examiner d’abord. Ils donnent la priorité à ce qui touche le foyer et repèrent ce qui exige encore une vérification. Les achats pour le repas peuvent rester en attente. Un montant espéré, une avance de Nora ou une dépense annulée sans confirmation ne donnent pas les mêmes informations qu’un paiement déjà fait.
+Remettre les papiers dans sa poche laisse à Gabin un peu de répit. L’échéance, elle, continue d’approcher. Un conseil budgétaire peut aider à faire le point sur les sommes disponibles, les échéances et les difficultés qui demandent un avis spécialisé. Le NICE recommande de proposer, selon la situation, une orientation vers un appui pour les finances, les dettes ou le logement. Gabin apporte ses informations et décide avec la conseillère de ce qu’ils peuvent examiner d’abord. Ils donnent la priorité à ce qui touche le foyer et repèrent ce qui exige encore une vérification. Les achats pour le repas peuvent rester en attente. Un montant espéré, une avance de Nora ou une dépense annulée sans confirmation ne donnent pas les mêmes informations qu’un paiement déjà fait.
 
 ## Choisir une transparence qui permet d’agir
 

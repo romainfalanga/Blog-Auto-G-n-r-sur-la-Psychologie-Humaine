@@ -1,23 +1,25 @@
 ---
-title: Ce que la peur du jugement change quand on aime parler à deux
+title: Le diagnostic d’anxiété sociale face à la peur de l’évaluation
 description: Après plusieurs échanges, la docteure Rigal revient sur le café, le travail
   et les habitudes de Sacha avant de lui annoncer son diagnostic.
 slug: sacha-sachet-sur-la-table
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Sacha
-sujet: Trouble d’anxiété sociale
+sujet: Évaluation du trouble d’anxiété sociale
 contexte: Le cabinet de la docteure Rigal
 tags:
+- Trouble d’anxiété sociale
 - Anxiété sociale
 - Phobie sociale
-- Préférence pour le tête-à-tête
-- Crainte d’être mal jugé
-- Choix de ses objectifs
+- Peur d’une évaluation négative
+- Retentissement durable
+- Évaluation professionnelle
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B04
+clinical_diagnosis: Trouble d’anxiété sociale
 episode: 3
 ---
 
@@ -32,6 +34,8 @@ La docteure Rigal reprend avec lui l’ancienneté de la peur et l’effort qu�
 Dans le trouble d’anxiété sociale, la crainte d’être mal jugé devient une source durable de souffrance ou gêne la participation à des situations qui comptent. La docteure Rigal explique à Sacha le lien qu’elle fait entre la peur, le départ du café et les changements dans ses journées de travail. Elle a aussi entendu parler des moments où il reste malgré l’anxiété et doit fournir un effort qui passe inaperçu. L’évaluation a pris plusieurs échanges : une scène peut éclairer une difficulté, tandis que la conclusion appartient au professionnel qui examine l’ensemble et les autres explications possibles.
 
 La peur peut se manifester dans certaines interactions et laisser d’autres échanges disponibles et agréables. Aimer converser en tête-à-tête appartient aux préférences de Sacha. Un tempérament réservé ou le trac avant une intervention ne portent pas le même sens qu’une peur persistante dont la personne souffre ou qui lui fait abandonner des activités qu’elle voudrait garder.
+
+La peur est présente depuis plusieurs mois. Sacha décrit son effort pour continuer à parler lorsque d’autres clients s’approchent, et les rencontres auxquelles il renonce alors qu’il aurait envie d’y aller. Ce retentissement renseigne l’évaluation au même titre que ce qu’il fait effectivement devant les autres.
 
 ## Préciser ce qu’on voudrait retrouver
 

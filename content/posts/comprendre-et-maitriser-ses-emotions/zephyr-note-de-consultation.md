@@ -1,23 +1,25 @@
 ---
-title: Hésiter à dire ce qu’on a cru pendant une consultation
+title: Rumination et évitement quand une intention reste incertaine
 description: Zéphyr vient voir sa psychologue. Il lui parle du temps qu’il passe à
   chercher un sens caché aux échanges et choisit ce qui l’aiderait au musée.
 slug: zephyr-note-de-consultation
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Zéphyr
-sujet: Trouble schizotypique
+sujet: Rumination après un échange
 contexte: Le trouble schizotypique de Zéphyr est connu depuis plusieurs années. Il
   retrouve sa psychologue référente, Sonia Martinez, avant la réunion du musée.
 tags:
+- Trouble schizotypique
 - Schizotypie
-- Doute sur les intentions des autres
-- Crainte de parler en consultation
-- Limites du partage et de l’entraide
+- Rumination après un échange
+- Évitement social
+- Méfiance dans les échanges
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A22
+clinical_diagnosis: Trouble schizotypique
 episode: 4
 ---
 

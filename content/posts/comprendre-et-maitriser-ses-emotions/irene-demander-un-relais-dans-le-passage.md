@@ -1,23 +1,25 @@
 ---
-title: Oser signaler une douleur quand l’atelier change de table
-description: La table du fond est prise. Irène et Ilyès commencent leurs découpes
-  ailleurs et interrompent leur essai quand l’espace se resserre.
+title: Quand un heurt change la priorité autour d’un mouvement répété
+description: Irène heurte un chariot et craint que le livre soit abandonné si elle
+  parle de sa douleur. Elle appelle la médiatrice.
 slug: irene-demander-un-relais-dans-le-passage
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Irène
-sujet: Trouble des mouvements stéréotypés
+sujet: Risque de blessure en contexte
 contexte: À la médiathèque, un mardi où l’atelier change d’emplacement
 tags:
+- Trouble des mouvements stéréotypés
 - Trouble des mouvements stéréotypiques
 - CIM-11 6A06
-- Peur de faire arrêter l’activité
-- Attention à la douleur
-- Confiance dans un relais adulte
+- Mouvements stéréotypés
+- Peur de signaler la douleur
+- Mise en sécurité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A06
+clinical_diagnosis: Trouble des mouvements stéréotypés
 episode: 5
 ---
 

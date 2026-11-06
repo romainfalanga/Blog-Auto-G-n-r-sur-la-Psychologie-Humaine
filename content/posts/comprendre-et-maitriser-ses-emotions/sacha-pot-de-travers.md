@@ -1,23 +1,25 @@
 ---
-title: Quand la peur d’être jugé interrompt un rempotage
+title: Peur du jugement et surveillance de soi devant des clients
 description: À la graineterie, Sacha voudrait montrer comment rempoter un plant. Quand
   deux clients s’approchent, il passe la main et repousse son projet.
 slug: sacha-pot-de-travers
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Sacha
-sujet: Trouble d’anxiété sociale
+sujet: Peur d’être jugé négativement
 contexte: La graineterie, un samedi matin
 tags:
+- Trouble d’anxiété sociale
 - Anxiété sociale
 - Phobie sociale
 - Peur du jugement
-- Surveillance de ses gestes
-- Évitement
+- Attention centrée sur soi
+- Évitement de la prise de parole
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B04
+clinical_diagnosis: Trouble d’anxiété sociale
 episode: 1
 ---
 

@@ -1,23 +1,25 @@
 ---
-title: Vouloir prouver qu’on peut tout vérifier seule à la livraison
+title: Vouloir tout vérifier seule quand une mesure bloque la suite
 description: À la réception des tissus, une longueur manque. Lison suspend la vérification
   et note de quoi reprendre le dossier sans se fier à sa mémoire.
 slug: lison-vouloir-verifier-seule-livraison
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Lison
-sujet: Trouble développemental des apprentissages avec déficit en mathématiques
+sujet: Doute et charge de vérification
 contexte: Mardi matin, le jour annoncé pour la livraison des tissus.
 tags:
+- Trouble développemental des apprentissages avec déficit en mathématiques
 - Dyscalculie développementale
 - Dyscalculie
-- Besoin de faire seule
-- Reprendre après une interruption
-- Passage de relais
+- Charge de vérification
+- Doute de soi
+- Soutien choisi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.2
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en mathématiques
 episode: 8
 ---
 

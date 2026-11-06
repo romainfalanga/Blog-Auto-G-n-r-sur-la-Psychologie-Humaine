@@ -1,23 +1,25 @@
 ---
-title: Reformuler sa question au comptoir et continuer à chercher
-description: Après la rencontre, Roxane termine la devinette pour sa tante. Elle trouve
-  déjà un autre bruit sur lequel elle veut enquêter.
+title: D’une présentation préparée à une conversation spontanée
+description: Après la présentation, un bibliothécaire demande à Roxane de redire un
+  mot. Elle essaie une reformulation à partir du radiateur devant elle.
 slug: roxane-papier-a-emporter
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Roxane
-sujet: Trouble développemental des sons de la parole
+sujet: Transfert en conversation spontanée
 contexte: À la médiathèque et à la maison, dans la semaine qui suit la rencontre
 tags:
+- Trouble développemental des sons de la parole
 - Trouble du développement des sons de la parole
 - CIM-11 6A01.0
-- Persévérer dans un échange
-- Curiosité au quotidien
-- Partager à sa façon
+- Généralisation des acquis
+- Interlocuteur peu familier
+- Persévérance dans l’échange
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.0
+clinical_diagnosis: Trouble développemental des sons de la parole
 episode: 12
 ---
 

@@ -1,29 +1,31 @@
 ---
-title: Se sentir mal comprise en lisant le programme de l’atelier
-description: Le programme du samedi attribue le dessin à Irène et la lecture à Ilyès.
-  Tous deux y découvrent un rôle qu’ils n’ont pas choisi.
+title: Quand une aide ponctuelle devient une étiquette pour la personne
+description: Le programme réserve la lecture à Ilyès parce qu’il a proposé un relais.
+  Irène veut retrouver le rôle qu’elle a choisi dans la présentation.
 slug: irene-choisir-la-place-de-chacun-au-programme
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Irène
-sujet: Trouble des mouvements stéréotypés
+sujet: Attribution d’un rôle à partir d’une difficulté
 contexte: À la médiathèque, au comptoir où se prépare le programme du samedi de lecture
 tags:
+- Trouble des mouvements stéréotypés
 - Trouble des mouvements stéréotypiques
 - CIM-11 6A06
-- Effet des étiquettes
-- Reconnaissance du travail commun
-- Liberté de changer de rôle
+- Stigmatisation
+- Sentiment de légitimité
+- Participation choisie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A06
+clinical_diagnosis: Trouble des mouvements stéréotypés
 episode: 9
 ---
 
 Mercredi, les premiers signets sèchent sur le comptoir d’accueil. On dirait des tickets de métro qui n’auraient pas encore choisi leur destination. Irène les compte par tas de quatre pendant qu’Ilyès lit le programme à voix haute. Au milieu des ateliers du samedi, leur livre a un titre pour la première fois sur une feuille qui n’est pas à eux : La rue sous la pluie. Juste en dessous, il lit : « Dessins d’Irène, lecture par Ilyès. » Il s’arrête. « Ça veut dire que je dois lire ? »
 
-Irène prend la feuille. Elle avait dessiné la première rue ; il avait trouvé les marches et la fenêtre, puis fait tenir le grand toit debout. De son côté, vendredi, elle a dû trouver comment reprendre sa question à Aya. On dirait que ce travail a disparu dans la même petite ligne. Elle allait dire que c’est son dessin qui a donné l’idée du livre. Elle tourne la feuille vers Ilyès et lui montre plutôt les mots « lecture par » : elle veut savoir d’où ils viennent.
+Irène prend la feuille. Elle avait dessiné la première rue ; il avait trouvé les marches et la fenêtre, puis fait tenir le grand toit debout. De son côté, vendredi, elle a dû trouver comment reprendre sa question à Aya. On dirait que ce travail a disparu dans la même petite ligne. Elle s’était déjà demandé si le moment où elle avait eu besoin d’Ilyès ferait croire qu’elle préfère se taire. En lisant le programme, elle a l’impression qu’on a décidé de sa place à partir de ce seul moment. Elle allait dire que c’est son dessin qui a donné l’idée du livre. Elle tourne la feuille vers Ilyès et lui montre plutôt les mots « lecture par » : elle veut savoir d’où ils viennent.
 
 Mylène les rejoint. On lui a demandé une phrase courte et elle a résumé ce qu’elle voyait à l’atelier : Irène dessinait souvent, et Ilyès avait proposé de continuer l’histoire vendredi. Il s’agit d’un brouillon. Elle peut encore modifier la ligne, à condition qu’ils lui donnent une phrase avant de partir. Irène laisse le tas de signets sur le comptoir et sort un crayon.
 

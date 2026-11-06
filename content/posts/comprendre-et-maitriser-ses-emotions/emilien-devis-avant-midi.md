@@ -1,23 +1,25 @@
 ---
-title: 'Dormir moins, décider plus vite : Émilien met un devis en attente'
+title: Sommeil réduit et décisions précipitées devant un devis
 description: Une proposition de diffusion arrive après plusieurs nuits courtes. Émilien
   demande un avis clinique et reporte la signature du devis.
 slug: emilien-devis-avant-midi
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Émilien
-sujet: Trouble bipolaire de type I
+sujet: Accélération des prises de décision
 contexte: reconnaître plusieurs changements et utiliser le contact prévu avant de
   prendre une décision coûteuse
 tags:
+- Trouble bipolaire de type I
 - Bipolarité type I
-- Décision précipitée
-- Signaux d’alerte
-- Demande d’avis
+- Besoin de sommeil réduit
+- Décisions précipitées
+- Repérage d’une aggravation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A60
+clinical_diagnosis: Trouble bipolaire de type I
 episode: 4
 ---
 

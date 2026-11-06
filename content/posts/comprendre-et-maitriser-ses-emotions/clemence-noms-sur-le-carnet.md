@@ -1,23 +1,25 @@
 ---
-title: Demander de l’aide en consultation et se confier à son rythme
+title: Mettre des mots sur ce que l’anorexie change dans la journée
 description: Clémence demande qui contacter entre ses rendez-vous et quelles informations
   sont utiles aux professionnels qui la suivent.
 slug: clemence-noms-sur-le-carnet
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Clémence
-sujet: Anorexie mentale
+sujet: Expression des difficultés en consultation
 contexte: clarifier le suivi pluridisciplinaire et choisir ce que Clémence souhaite
   partager avec son amie
 tags:
+- Anorexie mentale
 - Anorexie
-- Confidences choisies
-- Appui ponctuel d’une amie
+- Parler de l’anorexie
+- Retentissement dans les études
 - Coordination des soins
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B80
+clinical_diagnosis: Anorexie mentale
 episode: 3
 ---
 

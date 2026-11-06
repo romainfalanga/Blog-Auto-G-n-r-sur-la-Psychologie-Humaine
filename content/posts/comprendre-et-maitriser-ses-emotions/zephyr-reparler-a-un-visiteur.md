@@ -1,23 +1,25 @@
 ---
-title: Redouter de revoir un visiteur après l’avoir laissé attendre
+title: Anticipation du rejet après un échange interrompu
 description: Loïc et Zéphyr se retrouvent dans la cour du musée. Chacun a cru avoir
   raté un geste différent lors du premier atelier.
 slug: zephyr-reparler-a-un-visiteur
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Zéphyr
-sujet: Trouble schizotypique
+sujet: Anticipation du rejet
 contexte: Le deuxième essai a été reporté. Le suivi de Zéphyr se poursuit pendant
   qu’il examine avec l’équipe si une nouvelle date est possible.
 tags:
+- Trouble schizotypique
 - Schizotypie
-- Doute sur les intentions des autres
-- Réserve et besoin de lien
-- Réparer un échange interrompu
+- Anticipation du rejet
+- Rumination après un échange
+- Réparation relationnelle
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A22
+clinical_diagnosis: Trouble schizotypique
 episode: 9
 ---
 

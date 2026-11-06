@@ -1,23 +1,25 @@
 ---
-title: Ce que Selma retrouve et ce qui lui coûte encore après l’accident
-description: Selma prépare la suite de son suivi et garde ouvertes ses décisions professionnelles.
-  Dans la serre, elle choisit ce qu’elle plantera ensuite.
+title: Faire le bilan du TSPT quand certains progrès côtoient des réactions persistantes
+description: Selma a repris certaines tâches et des rappels lui coûtent encore. Elle
+  apporte des exemples différents au suivi et au médecin du travail.
 slug: selma-suivi-et-choix-apres-recoltes
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Selma
-sujet: Trouble de stress post-traumatique
+sujet: Évolution du retentissement du TSPT
 contexte: De la serre au cabinet de sa thérapeute
 tags:
+- Trouble de stress post-traumatique
 - TSPT
 - PTSD
-- Retour aux activités choisies
-- Réactions qui persistent
-- Choix des appuis
+- Réactions persistantes
+- Reprise graduelle des activités
+- Suivi du TSPT
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B40
+clinical_diagnosis: Trouble de stress post-traumatique
 episode: 12
 ---
 

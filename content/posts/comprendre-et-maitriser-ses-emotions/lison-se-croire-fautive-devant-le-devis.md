@@ -1,23 +1,25 @@
 ---
-title: Se croire fautive devant deux chiffres inversés sur le devis
+title: S’accuser d’une erreur quand deux chiffres sont inversés
 description: Un écart entre la demande et le devis inquiète Lison. Elle reprend le
   fil des échanges et demande une correction avant l’achat.
 slug: lison-se-croire-fautive-devant-le-devis
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Lison
-sujet: Trouble développemental des apprentissages avec déficit en mathématiques
+sujet: Autoaccusation après une erreur redoutée
 contexte: Vendredi matin, devant le devis reçu et le courriel envoyé la veille.
 tags:
+- Trouble développemental des apprentissages avec déficit en mathématiques
 - Dyscalculie développementale
 - Dyscalculie
-- Se croire fautive
-- Retour aux documents
-- Signaler un écart
+- Autoaccusation
+- Appréhension du calcul
+- Vérification du devis
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.2
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en mathématiques
 episode: 6
 ---
 
@@ -27,7 +29,7 @@ Il y a encore du temps avant midi, mais Nora vient de déposer son stylo à côt
 
 Nora revient avec ses lunettes. « On y va ? » Lison glisse le devis à côté de l’écran. Au début, sa voix sort plus fort qu’elle ne veut. « Attends. J’ai un écart ici. Je l’ai retrouvé dans le mail, je te montre les deux. » Puis elle prend le petit carton qui signale les dossiers en attente et le pose sur le stylo.
 
-## L’habitude de douter ne désigne pas l’auteur de l’erreur
+## L’autoaccusation quand les erreurs de chiffres sont redoutées
 
 Une différence entre deux documents dit où vérifier avant de dire qui s’est trompé. Lison connaît le coût de certaines transcriptions. À la vue de chiffres inversés, elle croit d’abord que l’erreur vient d’elle. Dans la dyscalculie développementale, les exigences de rapidité et les tâches complexes peuvent rendre certaines difficultés plus visibles ; la présence d’un trouble n’explique pas chaque écart rencontré. Des personnes interrogées par Staller et ses collègues ont parlé de honte après des expériences chiffrées difficiles. Ce vécu aide à comprendre le premier mouvement de Lison. Sur le devis, ni les chiffres ni son sentiment ne permettent d’identifier l’auteur de l’écart.
 

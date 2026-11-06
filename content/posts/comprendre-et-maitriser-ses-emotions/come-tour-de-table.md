@@ -1,47 +1,49 @@
 ---
-title: Inviter ses amis sans attendre que la table soit parfaite
-description: Le plateau est monté, mais la chaise du bout prend trop de place. Côme
-  déplace la table avant d’envoyer l’invitation.
+title: L’envie de rejouer quand le soutien habituel manque
+description: Côme a envie de reprendre sa partie en ligne. Son ami est indisponible,
+  et il cherche ce qui peut l’aider à passer la soirée comme il le souhaitait.
 slug: come-tour-de-table
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Côme
-sujet: Trouble du jeu vidéo
+sujet: Envie de jouer et soutien disponible
 contexte: Le samedi matin, à l’atelier partagé, avant la confirmation du rendez-vous
 tags:
+- Trouble du jeu vidéo
 - 6C51
 - Gaming disorder
-- Limites relationnelles
-- Accepter un refus
-- Ajuster ses attentes
+- Envie de rejouer
+- Soutien ponctuel
+- Préparation des moments difficiles
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C51
+clinical_diagnosis: Trouble du jeu vidéo
 episode: 11
 ---
 
-Sur le plateau clair, Nadège pose deux boîtes de cartes vides. Elle les a récupérés dans un tiroir pour remplacer les tasses du dessin de Côme. Il a monté le plateau sur le bâti avec son aide. Maintenant que la table est debout, la rayure et la traverse remplacée n’apparaissent jamais en même temps. Selon l’endroit où il se tient, Côme voit soit le bois clair, soit la trace noire qu’il avait remarquée le premier jour. Il prend son téléphone pour faire une photo, mais Nadège lui demande d’abord de s’asseoir.
+Nadège ouvre la porte du casier et touche le dossier de la chaise. Côme aurait préféré garder la fenêtre derrière la table pour la photo. Il se rassoit, va chercher un outil et voit ce que cela donnerait si Lucie était à la place du bout. Avec Nadège, il tourne la table juste assez pour ouvrir le casier. Il repousse à plus tard le rebord dont il avait fait le dessin. Il prend la photo et confirme à chacun qu’ils pourront venir dimanche.
 
-La chaise du bout peut reculer tant que la porte du casier reste fermée. Nadège ouvre la porte et touche le dossier. Au premier essai, ils avaient utilisé une caisse et testé le passage vers les casiers sans ouvrir ceux du fond. Côme pose son téléphone au milieu de la rayure. Il avait prévu une photo avec la fenêtre juste derrière. En tournant la table, il va perdre le fond clair qu’il voulait pour sa photo. Il regarde Nadège tirer la porte jusqu’à ce qu’elle bute. À quoi servira la lumière si quelqu’un doit demander à Lucie de se lever à chaque fois qu’il cherche un outil ?
+Le soir, il s’assoit devant l’ordinateur pour chercher une règle du jeu qu’il veut leur proposer. Il retrouve dans l’onglet du navigateur un ancien message du groupe avec lequel il joue en ligne. Il revoit la carte qu’ils avaient commencée et la route qui restait à ouvrir. Une dizaine de minutes lui suffiraient, pense-t-il, pour regarder où les autres en sont. C’est aussi ce qu’il s’était dit la veille de son rendez-vous à la ressourcerie. Il avait eu du mal à fermer le jeu et le lendemain il était arrivé trop tard pour l’établi.
 
-Avec Nadège, il essaie une autre place. Il se rassoit, se relève, puis va ouvrir le casier lui-même. Le dossier reste à distance de la porte. Quand Nadège lui demande s’il a fini, Côme pense au petit rebord qu’il voudrait ajouter pour empêcher les pions de tomber. Il lui demande plutôt si la table peut rester ici jusqu’à dimanche.
+Côme ouvre la conversation avec Florian. Il lui demande s’il est disponible pour parler dix minutes. Florian lui répond qu’il termine une partie avec Lucie et qu’il ne peut pas. Pendant un instant, Côme a envie d’effacer le message qui confirme leur rendez-vous du dimanche. Il le relit. Florian a bien dit qu’il viendrait. Côme laisse la fenêtre de jeu fermée le temps de chercher où il a rangé la règle.
 
-## Un rendez-vous peut avoir sa propre raison d’être
+## Quand l’envie ramène à une partie inachevée
 
-Un projet personnel peut compter pour lui-même dans la vie d’une personne qui a un trouble du jeu vidéo. Côme a plusieurs raisons d’avoir passé ce temps à l’atelier. Il voulait recevoir ses amis et construire un objet dont les dimensions auraient une utilité. La consultation peut s’intéresser à ce qu’il a retrouvé dans ses journées ; elle ne décide pas si sa table est prête. Nadège peut l’aider à vérifier que l’aménagement convient et s’assurer que les autres usagers pourront accéder à leurs affaires.
+Dans le trouble du jeu vidéo, la difficulté répétée à maîtriser sa pratique peut coexister avec des projets qui tiennent à cœur. Le message du groupe rappelle à Côme un plaisir concret et l’envie de savoir ce qui s’est passé. Il pense au temps qu’il voudrait y passer, puis à la fois où le temps prévu avait débordé. Ce sont les répétitions et leurs conséquences dans la vie quotidienne qui comptent dans l’évaluation.
 
-La table est plus étroite que dans son premier dessin. Côme garde un détail dont il rêvait : les joueurs peuvent laisser leurs cartes sur le bois pendant qu’ils déplacent une pièce. Il peut reporter son idée de rebord et essayer ce qui existe déjà. La première partie leur dira à quel endroit les cartes et les pions se retrouvent vraiment.
+Une envie de jouer peut rester présente pendant qu’une autre décision se précise. Côme connaît le rendez-vous qu’il veut préserver. Se rappeler le coût d’une soirée semblable lui donne un point de comparaison pour décider ce soir. Les soirées où ce choix devient difficile sont aussi des exemples dont il pourra parler lors du suivi.
 
-## Demander, même si la réponse peut être non
+## Composer avec un appui qui varie selon le soir
 
-Côme peut recevoir une réponse différente selon ce qu’il demande et à qui il s’adresse. Nadège peut lui dire oui pour laisser la table près de la fenêtre et non s’il veut y entreposer des matériaux. Florian, qui sera là demain, peut être indisponible pour parler ce soir. Côme sait maintenant sous quelle forme il peut lui poser la question. S’il la pose, il prend en compte que Florian puisse être en train de faire autre chose.
+Côme a posé une question précise à Florian. Le refus porte sur dix minutes ce soir. Il avait été tenté d’y entendre un désintérêt pour leur partie du lendemain. Relire ce qu’ils se sont dit lui permet de revenir à un engagement qui tient encore. Florian peut être présent dimanche tout en gardant son temps avec Lucie ce soir.
 
-Le soutien ponctuel peut compter même s’il n’est pas disponible tous les soirs. Le rendez-vous de suivi reste prévu. Côme n’a pas à attendre qu’un problème se répète à l’identique pour reparler à l’équipe de ce qui devient difficile, comme il l’a fait après la ressourcerie.
+Côme retrouve une activité qu’il peut commencer de lui-même. La règle qui l’attend lui donne une tâche assez précise pour déplacer son attention sans demander à un ami de rester joignable. En parler au prochain rendez-vous peut l’aider à repérer ce qui s’est passé avant l’envie, les ressources dont il dispose et les moments où elles lui manquent.
 
 ## La photo avec le casier ouvert
 
-Côme prend sa photo en laissant la porte du casier ouverte et confirme le rendez-vous à chacun. Le soir, il pense au scénario en ligne qu’il n’a pas encore rattrapé. Avant d’ouvrir le jeu, il demande à Florian s’il est disponible pour parler dix minutes. Florian termine une partie avec Lucie et répond qu’il ne peut pas. Côme reste devant l’écran un moment, puis va vérifier une règle du jeu qu’il apportera demain. La photo qu’attend Sana viendra demain : il lui a promis de lui montrer le jeu avec la rivière en place.
+La règle est pliée dans le carton avec les pions. Côme la déploie sur la table de la cuisine et suit la première traversée du doigt. Il laisse son ordinateur en veille. Il pense encore à la route de la partie en ligne, mais veut vérifier où chacun pose son pion avant de franchir la rivière. La photo qu’attend Sana viendra demain. Il lui a promis de lui montrer le jeu avec la rivière en place.
 
 ## Sources
 

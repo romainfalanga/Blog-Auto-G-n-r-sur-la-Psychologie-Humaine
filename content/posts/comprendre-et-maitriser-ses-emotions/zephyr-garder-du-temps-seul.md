@@ -1,23 +1,25 @@
 ---
-title: Garder du temps seul quand on tient à accueillir les autres
+title: Solitude choisie et retrait quand les échanges demandent un effort
 description: Après l’atelier, le musée propose deux dates rapprochées. Chez sa sœur,
   Zéphyr fait les comptes du temps qu’il veut consacrer au public.
 slug: zephyr-garder-du-temps-seul
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Zéphyr
-sujet: Trouble schizotypique
+sujet: Solitude choisie
 contexte: Le nouvel essai est terminé. Basile voudrait profiter de la prochaine exposition
   pour ouvrir l’atelier deux samedis de suite.
 tags:
+- Trouble schizotypique
 - Schizotypie
-- Réserve et besoin de lien
-- Limites du partage et de l’entraide
-- Trouver un rythme qui laisse de la place aux autres
+- Solitude choisie
+- Retrait social
+- Ajuster son engagement
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A22
+clinical_diagnosis: Trouble schizotypique
 episode: 12
 ---
 
@@ -27,7 +29,9 @@ Sur son téléphone, Zéphyr retrouve le message de Basile. Le musée pourrait m
 
 Mercredi, il reverra Sonia. Depuis le point médical, il a repris quelques sorties. Un soir, une impression de voix l’a encore tenu à la fenêtre plus longtemps qu’il ne voulait. Il note l’heure pour s’en souvenir au rendez-vous. Puis il relit le message de Basile jusqu’à la dernière ligne. Basile lui demande à quelle date il veut ouvrir.
 
-## Ce qu’une matinée laisse pour la suite
+## Reconnaître la part choisie et la part subie du retrait
+
+Zéphyr se repose avec plaisir à l’établi. Après les sons qui l’ont effrayé, il a aussi renoncé à des sorties qu’il aurait aimé faire. Le trouble schizotypique peut s’accompagner de retrait. Pour parler de son retentissement, Zéphyr et son équipe ont besoin de savoir à quel moment la solitude correspond à un choix et à quel moment elle lui coûte quelque chose.
 
 Le temps qu’on choisit de passer avec les autres dépend aussi de ce qu’on souhaite pouvoir faire avant et après. Zéphyr veut transmettre un geste qu’il aime. Il tient aussi à ses matinées à l’établi, à ses sorties et au temps qu’il retrouve avec Agnès. Après une séance réussie, il peut dire quels engagements lui permettraient de retrouver ce plaisir le mois suivant. Pour Basile, cela précise aussi ce qui peut être annoncé au public.
 

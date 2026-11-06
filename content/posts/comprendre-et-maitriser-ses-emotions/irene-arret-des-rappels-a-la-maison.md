@@ -1,23 +1,25 @@
 ---
-title: Se sentir surveillée quand son père commente ses gestes à la maison
-description: Irène veut redessiner l’entrée du canal. Son père croit lui rendre service
-  en intervenant au milieu de son travail.
+title: Distinguer un mouvement visible de la gêne qu’il occasionne
+description: Quand son père lui signale ses gestes, Irène finit par guetter ses remarques.
+  Elle lui explique dans quelles situations elle aimerait de l’aide.
 slug: irene-arret-des-rappels-a-la-maison
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Irène
-sujet: Trouble des mouvements stéréotypés
+sujet: Gêne vécue et mouvement visible
 contexte: À la maison, entre le goûter et les devoirs
 tags:
+- Trouble des mouvements stéréotypés
 - Trouble des mouvements stéréotypiques
 - CIM-11 6A06
+- Mouvements répétitifs
 - Sentiment d’être surveillée
-- Différence entre gêne et inquiétude
-- Définir l’aide ensemble
+- Aide choisie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A06
+clinical_diagnosis: Trouble des mouvements stéréotypés
 episode: 4
 ---
 

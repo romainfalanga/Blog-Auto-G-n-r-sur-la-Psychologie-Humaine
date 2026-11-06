@@ -1,22 +1,23 @@
 ---
-title: Laisser de la place à l’imprévu avant de passer à l’antenne
+title: Peur de perdre le fil et retour à la question essentielle
 description: Renée apporte une question qui bouscule le texte préparé. Nils choisit
   de raccourcir sa réponse et confirme ce qui pourra être diffusé.
 slug: nils-la-question-sur-le-ticket
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nils
-sujet: Schizophrénie
+sujet: Anxiété de performance
 contexte: Le vendredi après-midi, à la radio, la veille de l’émission
 tags:
 - Schizophrénie
-- Choisir ce qu’on partage
-- S’ajuster à l’imprévu
-- Reprendre sa place
+- Anxiété de performance
+- Difficultés attentionnelles
+- Préparation du direct
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A20
+clinical_diagnosis: Schizophrénie
 episode: 10
 ---
 
@@ -24,9 +25,11 @@ Renée a noté sa question au dos d’un ticket où le total prend deux lignes. 
 
 Maud a préparé deux micros. Renée est venue avec sa question écrite et ne voudrait pas qu’on l’enregistre. Elle peut expliquer où le pot se trouve tant qu’ils sont autour de la table. Maud range le deuxième pied. Renée accepte que Maud lise sa question le lendemain, avec son prénom et le nom du jardin. Elle veut entendre comment elle sera lue, parce qu’elle sait qu’elle a écrit deux fois « comme avant ».
 
-À l’essai, Nils explique longuement ce qui peut arriver à un pot à des endroits différents. Maud pointe le chronomètre ; la réponse prend presque tout le créneau. Renée demande à partir de quel moment elle peut reconnaître son problème dans ce qu’il raconte. Nils revient au ticket. Il y a assez de place au-dessous pour une seule ligne : « voir l’endroit avec elle ». Il demande à Renée de redire où tombe l’eau quand il pleut. Cette fois, il écoute la réponse entière avant d’écrire.
+À l’essai, Nils explique longuement ce qui peut arriver à un pot à des endroits différents. Maud pointe le chronomètre ; la réponse prend presque tout le créneau. Renée demande à partir de quel moment elle peut reconnaître son problème dans ce qu’il raconte. Nils revient au ticket. Il y a assez de place au-dessous pour une seule ligne : « voir l’endroit avec elle ». Il demande à Renée de redire où tombe l’eau quand il pleut. Cette fois, il écoute la réponse entière avant d’écrire. Nils avait commencé à empiler les explications quand il avait senti le blanc venir. Il reconnaît ce réflexe. Plus il veut avoir toutes les réponses prêtes, plus il oublie celle qu’on vient de lui demander.
 
-## Une question claire laisse plusieurs façons de participer
+## Alléger la réponse quand le direct inquiète
+
+Dans l’essai, Nils multiplie les explications parce qu’il craint de perdre le fil. Il a pourtant besoin d’entendre le dernier détail de Renée pour choisir sa réponse. Le chronomètre renseigne sur la place qu’il reste dans l’émission. Le ticket lui redonne le point de départ que la pression lui avait fait perdre.
 
 Une activité choisie peut faire partie des objectifs d’une personne suivie pour une schizophrénie. Dans un projet de quartier, chacun peut décider de la manière dont il souhaite contribuer. Renée souhaite apporter ses mots et les entendre relus avant la diffusion. Nils a déjà demandé qu’on lui laisse choisir ce qu’il présente de lui-même et ce qu’on fait de sa voix. Ils peuvent maintenant régler la contribution de Renée avec la même précision. Elle lui montre l’information qui lui manque pour faire une réponse utile. Il lui montre le temps dont ils disposent. Maud sait quelle version de la question elle pourra lire.
 

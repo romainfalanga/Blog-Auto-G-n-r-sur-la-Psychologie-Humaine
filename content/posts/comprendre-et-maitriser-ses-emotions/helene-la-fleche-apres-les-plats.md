@@ -1,23 +1,25 @@
 ---
-title: Remettre les questions dans l’ordre pour garder le fil
+title: Planifier un nouvel essai quand les questions arrivent ensemble
 description: Un client suit les nouvelles étiquettes. Depuis l’entrée latérale, une
   cliente voit seulement le dos du panneau.
 slug: helene-la-fleche-apres-les-plats
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Hélène
-sujet: Trouble du développement intellectuel
+sujet: Planification pratique et séquençage
 contexte: Dans le rayon vaisselle, au deuxième essai du vendredi après-midi
 tags:
+- Trouble du développement intellectuel
 - TDI
 - Troubles du développement intellectuel
+- Planification
 - Surcharge d’informations
-- Besoin de temps
-- Point de vue des autres
+- Compétence au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A00
+clinical_diagnosis: Trouble du développement intellectuel
 episode: 10
 ---
 
@@ -27,7 +29,7 @@ Un homme passe les plats et prend une tasse sans demander. Hélène attend qu’
 
 Maud passe et demande si le dessin a gagné. Les questions repartent aussitôt : est-ce que le mot était trop petit, qui a vu la flèche, est-ce qu’il faut commander le support ? Hélène lève la main. Elle propose d’abord d’aller voir ce que la cliente a vu. Puis elle veut choisir entre une inscription au dos et un panneau sur l’autre montant. Elle demande à Maud de garder la commande en attente.
 
-## Regarder ce qui a changé entre deux essais
+## Planifier un essai quand plusieurs questions arrivent ensemble
 
 Un panneau peut fonctionner depuis une entrée et rester invisible depuis une autre. Hélène a changé à la fois le dessin, les mots et l’emplacement. Le client qui lit « Tasses » donne une indication sur ce qui lui a servi. La cliente qui voit le dos du carton indique une limite de l’installation. Ces retours aident à choisir la prochaine modification. Ils ne permettent pas d’attribuer à l’image, à elle seule, les progrès observés.
 

@@ -1,22 +1,24 @@
 ---
-title: La déception de quitter tôt la table de dessin
+title: Peur et déception quand une sortie doit être raccourcie
 description: Jules rejoint le groupe pour dessiner les mains des commerçants. Il choisit
   de partir tôt et garde une partie du croquis.
 slug: jules-feuille-repliee
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Jules
-sujet: Trouble panique
+sujet: Peur variable selon la situation
 contexte: Un samedi à la table de dessin, après le premier essai accompagné
 tags:
+- Trouble panique
 - Attaques de panique
-- Variabilité des difficultés
-- Déception après une sortie
-- Maintien du lien avec le groupe
+- Variabilité de la peur
+- Déception
+- Retentissement sur les loisirs
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B01
+clinical_diagnosis: Trouble panique
 episode: 8
 ---
 

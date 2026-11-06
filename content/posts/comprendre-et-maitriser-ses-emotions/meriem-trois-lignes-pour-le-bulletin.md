@@ -1,23 +1,25 @@
 ---
-title: Choisir ce qu’on raconte de soi en public
-description: Salomé prépare une annonce pour le samedi d’échange. Meriem choisit les
-  mots qu’elle autorise et précise ce que les images pourront montrer.
+title: La honte anticipée quand une question personnelle s’invite dans le bulletin
+description: Une demande d’anecdote fait anticiper à Meriem le besoin de se justifier.
+  Elle décide quelle phrase peut paraître dans le bulletin.
 slug: meriem-trois-lignes-pour-le-bulletin
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Meriem
-sujet: Trouble de stress post-traumatique complexe
+sujet: Honte anticipée dans un échange
 contexte: Avec Salomé, à la table de l’accueil
 tags:
+- Trouble de stress post-traumatique complexe
 - TSPT complexe
 - CPTSD
-- Poser ses limites
-- Confiance dans les relations
-- Intimité
+- Honte anticipée
+- Confiance
+- Maîtrise de la divulgation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B41
+clinical_diagnosis: Trouble de stress post-traumatique complexe
 episode: 6
 ---
 
@@ -27,7 +29,7 @@ L’inventaire d’Ève indique sept patrons partageables. Il y a une housse de 
 
 Salomé garde son stylo en l’air. Meriem a presque envie de donner une anecdote qui justifierait de refuser la vraie. Elle regarde sa pochette. Le tissu à carreaux venait de chez Ève, qui lui avait dit d’en faire ce qu’elle voulait. C’est une bonne histoire de rideau. Il y a aussi une bonne information dans le cahier : les gens pourront venir essayer un patron même s’ils n’en ont pas à déposer.
 
-## Parler de son travail sans devoir raconter sa vie
+## L’effort de confiance derrière une demande de confidence
 
 Les difficultés de confiance et la honte peuvent rendre le partage d’informations particulièrement coûteux pour une personne qui vit avec un stress post-traumatique complexe. Le fait d’en dire peu sur sa vie peut aussi être une simple préférence ; chacun choisit ce qu’il souhaite rendre public. Meriem commence à préparer des explications alors que la demande de Salomé tient en une phrase. L’anticipation dit quelque chose de son vécu. Son droit de répondre, de limiter une citation ou de passer la question tient à l’échange en cours, comme pour n’importe qui.
 

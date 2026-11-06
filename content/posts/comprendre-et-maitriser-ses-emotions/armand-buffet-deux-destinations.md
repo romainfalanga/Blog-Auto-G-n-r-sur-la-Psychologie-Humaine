@@ -1,23 +1,25 @@
 ---
-title: Retrouver ses repères dans le rangement quotidien
+title: Compensation des oublis dans le rangement quotidien
 description: L’ergothérapeute demande à Armand de lui montrer son rangement. Il essaie
   deux places séparées pour ses papiers et son projet.
 slug: armand-buffet-deux-destinations
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Armand
-sujet: Démence due à la maladie d’Alzheimer
+sujet: Compensation des difficultés de mémoire
 contexte: Le mercredi suivant, lors du premier rendez-vous à domicile
 tags:
+- Démence due à la maladie d’Alzheimer
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Repères dans l’espace
-- Mémoire au quotidien
-- Recevoir de l’aide
+- Compensation cognitive
+- Ergothérapie
+- Routines quotidiennes
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D80
+clinical_diagnosis: Démence due à la maladie d’Alzheimer
 episode: 8
 ---
 

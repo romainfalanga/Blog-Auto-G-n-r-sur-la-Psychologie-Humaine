@@ -1,24 +1,26 @@
 ---
-title: Prendre la parole à son rythme devant le public
-description: Le Sac rouge est projeté au lycée. Owen présente le raccord du ruban,
-  répond à une question et repart avec une idée de son pour mercredi.
+title: Bégayer en public et faire passer le détail qui compte
+description: Le mot « ruban » accroche devant le public. Owen finit sa phrase et choisit
+  ensuite une question sur son film.
 slug: owen-au-milieu-du-generique
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Owen
-sujet: Trouble développemental de la fluence de la parole
+sujet: Participation avec le bégaiement
 contexte: poursuivre un projet et choisir quand prendre la parole après une première
   projection
 tags:
+- Trouble développemental de la fluence de la parole
 - Bégaiement
 - Bégaiement développemental
-- Tour de parole
-- Choix de sa façon de parler
-- Plaisir de participer
+- Parole en public
+- Persévérance dans l’échange
+- Choix de répondre
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.1
+clinical_diagnosis: Trouble développemental de la fluence de la parole
 episode: 12
 ---
 

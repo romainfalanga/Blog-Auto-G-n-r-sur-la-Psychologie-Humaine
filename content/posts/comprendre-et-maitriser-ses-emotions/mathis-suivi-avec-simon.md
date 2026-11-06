@@ -1,22 +1,24 @@
 ---
-title: Au rendez-vous, faire une place au regard d’un proche
+title: Ce que le regard d’un proche apporte au suivi du TDAH
 description: Mathis choisit d’inviter Simon pour une partie du suivi. Leurs deux récits
   aident à préciser les appuis qu’ils veulent garder.
 slug: mathis-suivi-avec-simon
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: TDAH chez l’adulte
+sujet: Retentissement du TDAH à domicile
 contexte: Au cabinet, après la première permanence ouverte au public
 tags:
+- TDAH chez l’adulte
 - TDAH
-- Écoute mutuelle
-- Autonomie
-- Soutien des proches
+- Retentissement à domicile
+- Observation d’un proche
+- Décision partagée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A05
+clinical_diagnosis: TDAH chez l’adulte
 episode: 11
 ---
 

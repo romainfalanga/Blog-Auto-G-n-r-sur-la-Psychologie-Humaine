@@ -1,23 +1,25 @@
 ---
-title: Choisir son objectif en orthophonie
-description: Chez son orthophoniste, Owen raconte une réunion qui l’a contrarié et
-  choisit de demander un rôle dans la bande-son.
+title: En orthophonie, parler aussi de ce qu’on redoute
+description: Owen parle à son orthophoniste d’une réunion qu’il aurait pu laisser
+  à Lucile. Il choisit un rôle qu’il veut essayer au micro.
 slug: owen-ce-quon-peut-deplacer
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Owen
-sujet: Trouble développemental de la fluence de la parole
+sujet: Appréhension de prendre la parole
 contexte: discuter avec l’orthophoniste d’un objectif choisi dans le quotidien
 tags:
+- Trouble développemental de la fluence de la parole
 - Bégaiement
 - Bégaiement développemental
-- Orthophonie
-- Choix de sa façon de parler
-- Anticipation du jugement
+- Objectif orthophonique
+- Crainte du jugement
+- Participation choisie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.1
+clinical_diagnosis: Trouble développemental de la fluence de la parole
 episode: 4
 ---
 

@@ -1,24 +1,26 @@
 ---
-title: Demander un aménagement sans raconter son dossier
+title: Demander un aménagement de lecture et choisir ce qu’on révèle
 description: Aïcha propose d’expliquer le nouveau format au groupe. Célian réfléchit
   à ce qu’il veut qu’elle dise devant les autres.
 slug: celian-choisir-ce-qu-il-partage
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Célian
-sujet: Trouble développemental des apprentissages avec déficit en lecture
+sujet: Aménagement et confidentialité en formation
 contexte: Dans une salle du centre de formation, au moment où le cours du vendredi
   se termine.
 tags:
+- Trouble développemental des apprentissages avec déficit en lecture
 - Dyslexie
 - Trouble développemental de la lecture
-- Autonomie
-- Confiance en soi
+- Accès anticipé au texte
 - Confidentialité
+- Participation en formation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.0
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en lecture
 episode: 5
 ---
 

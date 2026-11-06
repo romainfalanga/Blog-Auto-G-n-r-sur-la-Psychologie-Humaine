@@ -1,23 +1,25 @@
 ---
-title: Répondre aux retours quand la parole accroche
-description: À la projection de travail, le ruban échappe encore au professeur. Owen
-  propose de revoir l’image et choisit une scène à présenter.
+title: Pourquoi le bégaiement varie d’un échange à l’autre
+description: Owen raconte le raccord à Nassim dans le couloir, puis bloque devant
+  le club. Il montre l’image le temps de reprendre sa phrase.
 slug: owen-la-table-de-quatre
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Owen
-sujet: Trouble développemental de la fluence de la parole
+sujet: Bégaiement selon l’interlocuteur
 contexte: recevoir un retour sur le film et choisir une part précise de la présentation
 tags:
+- Trouble développemental de la fluence de la parole
 - Bégaiement
 - Bégaiement développemental
-- Variations du bégaiement
-- Se sentir écouté
-- Choix de sa façon de parler
+- Variabilité en groupe
+- Appui visuel
+- Prise de parole choisie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.1
+clinical_diagnosis: Trouble développemental de la fluence de la parole
 episode: 9
 ---
 

@@ -1,22 +1,24 @@
 ---
-title: Retrouver ses repères après un changement de trajet
+title: Recomposer ses repères après un changement imprévu
 description: Un avis de travaux arrive après le repérage. Nour décide ce qu’elle garde
   de la visite et comment indiquer le changement avant le départ.
 slug: nour-travaux-plan-visite
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nour
-sujet: Autisme
+sujet: Transitions et changement de routine
 contexte: Chez Nour et à l’entrée du passage, avant le premier jour de visite
 tags:
+- Autisme
 - TSA
-- Effort face aux imprévus
-- Besoin de repères
-- Partage des tâches
+- Changement imprévu
+- Besoin de prévisibilité
+- Réorganisation de la tâche
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A02
+clinical_diagnosis: Autisme
 episode: 8
 ---
 

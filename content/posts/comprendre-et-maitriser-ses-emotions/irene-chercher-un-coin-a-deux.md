@@ -1,23 +1,25 @@
 ---
-title: S’agacer quand les pages changent de main à l’atelier
-description: Au premier essai, Irène et Ilyès fabriquent une rue à deux chemins. Sur
-  la petite table, ils se passent les feuillets sans toujours savoir où reprendre.
+title: Pourquoi une interruption devient plus gênante quand les repères bougent
+description: Pendant qu’Irène attend de reprendre le papier, les pages changent de
+  place. Le duo essaie une disposition qui garde le raccord visible.
 slug: irene-chercher-un-coin-a-deux
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Irène
-sujet: Trouble des mouvements stéréotypés
+sujet: Reprise d’une activité interrompue
 contexte: Dans l’atelier du mardi, entre le rayonnage et l’entrée de la salle
 tags:
+- Trouble des mouvements stéréotypés
 - Trouble des mouvements stéréotypiques
 - CIM-11 6A06
-- Attention partagée
-- Frustration devant les interruptions
-- Demande d’espace
+- Mouvements répétitifs
+- Frustration
+- Stabilité des repères
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A06
+clinical_diagnosis: Trouble des mouvements stéréotypés
 episode: 2
 ---
 

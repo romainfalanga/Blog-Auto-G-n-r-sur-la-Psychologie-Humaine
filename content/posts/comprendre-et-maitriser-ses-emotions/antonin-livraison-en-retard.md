@@ -1,24 +1,26 @@
 ---
-title: 'Le chantier prend du retard : décider sans connaître la suite'
+title: Décider malgré l’incertitude quand un chantier prend du retard
 description: La livraison de la porte est retardée. Antonin et Eva doivent organiser
   les répétitions sans promettre une réouverture qu’ils ne maîtrisent pas.
 slug: antonin-livraison-en-retard
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Antonin
-sujet: Trouble anxieux généralisé
+sujet: Incertitude et anticipation des conséquences
 contexte: À l’école, au moment où le fournisseur décale la livraison de la porte du
   local
 tags:
+- Trouble anxieux généralisé
 - TAG
 - Anxiété généralisée
-- Incertitude réelle
-- Crainte d’être mis en cause
-- Décision provisoire
+- Intolérance à l’incertitude
+- Anticipation
+- Résolution de problème
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B00
+clinical_diagnosis: Trouble anxieux généralisé
 episode: 6
 ---
 

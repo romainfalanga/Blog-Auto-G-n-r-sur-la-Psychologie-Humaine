@@ -1,23 +1,25 @@
 ---
-title: Choisir ce qu’on veut travailler en orthophonie
-description: Au rendez-vous d’orthophonie, Roxane décide ce qu’elle veut travailler
-  et ce que son enseignante peut savoir.
+title: Définir un objectif d’orthophonie à partir d’une difficulté vécue
+description: Roxane choisit de travailler la demande de renseignement. Elle décide
+  aussi quelle aide pratique son orthophoniste peut proposer à l’école.
 slug: roxane-mot-sous-trombone
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Roxane
-sujet: Trouble développemental des sons de la parole
+sujet: Objectif fonctionnel en orthophonie
 contexte: Dans le cabinet de Mme Colin, avant le premier essai de l’énigme en classe
 tags:
+- Trouble développemental des sons de la parole
 - Trouble du développement des sons de la parole
 - CIM-11 6A01.0
-- Définir une priorité personnelle
-- Choisir les informations à partager
-- Appui de l’orthophoniste
+- Orthophonie
+- Appréhension de parler à un inconnu
+- Confidentialité du suivi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.0
+clinical_diagnosis: Trouble développemental des sons de la parole
 episode: 4
 ---
 

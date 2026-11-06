@@ -1,22 +1,23 @@
 ---
-title: Quand Nils entend son prénom sans savoir d’où il vient
+title: Une voix sans source repérée au milieu d’un enregistrement
 description: Pendant l’essai, Nils croit entendre son prénom. Il arrête la prise et
   convient avec Maud d’un geste qui lui laisse le choix de reprendre.
 slug: nils-entre-deux-prises
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nils
-sujet: Schizophrénie
+sujet: Perceptions auditives inhabituelles
 contexte: Le mardi suivant, au studio de la radio du quartier
 tags:
 - Schizophrénie
-- Doutes sur ses perceptions
-- Attention et bruit
+- Perceptions auditives inhabituelles
+- Inquiétude après une perception
 - Demander une pause
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A20
+clinical_diagnosis: Schizophrénie
 episode: 2
 ---
 

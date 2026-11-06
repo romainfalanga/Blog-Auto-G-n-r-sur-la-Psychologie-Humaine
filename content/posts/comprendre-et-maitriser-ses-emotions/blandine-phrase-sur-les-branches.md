@@ -1,23 +1,25 @@
 ---
-title: Tenir les délais malgré un chagrin qui épuise
-description: Au moment de livrer un guide relu, Blandine doit dire ce qu’elle pourra
-  finir. Léon lui répond au sujet des partitions.
+title: Le retentissement du deuil quand livrer un texte coûte deux nuits
+description: Blandine s’arrête à la même page et pense à Jeanne. Pour rendre la commande
+  précédente à l’heure, elle avait travaillé deux nuits.
 slug: blandine-phrase-sur-les-branches
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Blandine
-sujet: Trouble du deuil prolongé
+sujet: Retentissement professionnel du deuil
 contexte: À son bureau, le jour de remise d’une traduction relue
 tags:
+- Trouble du deuil prolongé
 - Deuil prolongé
 - CIM-11 6B42
-- Difficulté à se concentrer
-- Effort invisible au travail
-- Limites au travail
+- Retentissement professionnel
+- Concentration perturbée
+- Effort supplémentaire
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B42
+clinical_diagnosis: Trouble du deuil prolongé
 episode: 2
 ---
 

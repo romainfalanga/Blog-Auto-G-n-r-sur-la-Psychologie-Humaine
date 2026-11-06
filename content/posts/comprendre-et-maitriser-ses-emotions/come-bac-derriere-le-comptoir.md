@@ -1,23 +1,25 @@
 ---
-title: Quand le jeu écourte le sommeil avant le travail
+title: Les nuits écourtées par le jeu et leurs conséquences au travail
 description: À la boutique, Inès a ouvert seule et les retours se sont accumulés.
   Côme choisit ce qu’il lui doit et ce qu’il dira en consultation.
 slug: come-bac-derriere-le-comptoir
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Côme
-sujet: Trouble du jeu vidéo
+sujet: Sommeil et retentissement professionnel
 contexte: Le lundi suivant, à la boutique de pièces détachées, au moment de l’ouverture
 tags:
+- Trouble du jeu vidéo
 - 6C51
 - Gaming disorder
-- Sommeil et fatigue
-- Retentissement au travail
-- Confidentialité
+- Sommeil écourté
+- Retentissement professionnel
+- Culpabilité envers une collègue
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C51
+clinical_diagnosis: Trouble du jeu vidéo
 episode: 2
 ---
 

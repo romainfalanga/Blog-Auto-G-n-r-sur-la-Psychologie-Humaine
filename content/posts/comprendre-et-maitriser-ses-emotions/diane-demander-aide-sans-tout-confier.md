@@ -1,22 +1,24 @@
 ---
-title: Demander de l’aide à son cousin sans lui confier tout le suivi
+title: Anxiété de rechute et juste place de l’aide familiale
 description: Après un rendez-vous avancé, Diane cherche une aide précise auprès de
   Rémi. Il lui dit ce qu’il peut faire depuis son travail.
 slug: diane-demander-aide-sans-tout-confier
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Diane
-sujet: Trouble psychotique aigu et transitoire
+sujet: Anxiété de rechute
 contexte: Au centre de suivi l’après-midi, puis au téléphone avec Rémi après son service
 tags:
+- Trouble psychotique aigu et transitoire
 - Psychose aiguë et transitoire
-- Crainte de peser sur un proche
-- Besoin d’aide et de confidentialité
-- Limites de la disponibilité d’un proche
+- Anxiété de rechute
+- Limites du soutien familial
+- Relais de soins
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A23
+clinical_diagnosis: Trouble psychotique aigu et transitoire
 episode: 10
 ---
 

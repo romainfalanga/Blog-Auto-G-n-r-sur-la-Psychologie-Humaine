@@ -1,22 +1,24 @@
 ---
-title: Négocier un délai pour préserver du temps pour soi
+title: Prévenir les rechutes en ajustant ses engagements dans la durée
 description: Après le concert, un client propose un nouveau catalogue. Garance regarde
   ce qu’elle peut accepter et revient sur son plan avec les personnes choisies.
 slug: garance-calendrier-apres-concert
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Garance
-sujet: Trouble bipolaire de type II
+sujet: Prévention des rechutes bipolaires
 contexte: Après le concert, entre le bureau de Garance, le suivi et la prochaine répétition
 tags:
+- Trouble bipolaire de type II
 - Bipolarité type II
-- Repos et rythme personnel
-- Négociation des limites au travail
-- Réajustement du soutien entre amies
+- Prévention des rechutes
+- Rythmes de vie
+- Soutien révisable
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A61
+clinical_diagnosis: Trouble bipolaire de type II
 episode: 12
 ---
 

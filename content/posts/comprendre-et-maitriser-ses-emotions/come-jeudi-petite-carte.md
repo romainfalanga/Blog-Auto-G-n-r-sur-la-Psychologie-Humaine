@@ -1,24 +1,26 @@
 ---
-title: Négocier un autre créneau de jeu avec ses amis
+title: La peur de manquer la partie du groupe quand on veut jouer moins tard
 description: Le dimanche après-midi ne convient ni à Florian ni à Sana. Côme propose
   un format qu’ils peuvent essayer en semaine.
 slug: come-jeudi-petite-carte
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Côme
-sujet: Trouble du jeu vidéo
+sujet: Pression du groupe et horaires de jeu
 contexte: Le dimanche après la consultation, dans le bus, puis jeudi sur le canal
   de l’équipe
 tags:
+- Trouble du jeu vidéo
 - 6C51
 - Gaming disorder
-- Besoin de lien
-- Négociation entre amis
-- Choix des horaires de jeu
+- Peur de manquer une partie
+- Lien social en ligne
+- Difficulté à respecter une limite
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C51
+clinical_diagnosis: Trouble du jeu vidéo
 episode: 4
 ---
 

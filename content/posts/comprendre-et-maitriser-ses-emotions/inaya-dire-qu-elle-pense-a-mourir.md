@@ -1,22 +1,24 @@
 ---
-title: 'Idées suicidaires : Inaya demande de l’aide sans attendre'
+title: Pensées suicidaires pendant une aggravation dépressive
 description: Un soir, Inaya pense à mourir et dit qu’elle ne se sent pas en sécurité
   seule. Myriam reste avec elle et contacte les secours.
 slug: inaya-dire-qu-elle-pense-a-mourir
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Inaya
-sujet: Trouble dépressif récurrent
+sujet: Idées suicidaires et évaluation urgente
 contexte: Dans la cuisine, un soir où Nino est chez un ami
 tags:
+- Trouble dépressif récurrent
 - Dépression récurrente
 - Idées suicidaires
-- Demande d’aide
-- Relais d’urgence
+- Aggravation dépressive
+- Relais professionnel urgent
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A71
+clinical_diagnosis: Trouble dépressif récurrent
 episode: 9
 ---
 

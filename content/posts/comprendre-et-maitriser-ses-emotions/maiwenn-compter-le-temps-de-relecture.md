@@ -1,23 +1,26 @@
 ---
-title: Faire compter le temps de relecture au journal du lycée
-description: Il reste une page et le groupe parle déjà d’imprimer. Maïwenn doit décider
-  à quoi renoncer pour garder le temps de relire avec Lou.
+title: Le temps invisible de la relecture sous une échéance
+description: Sofiane suppose qu’il reste seulement à relire. Maïwenn distingue le
+  temps de vérifier le récit de celui qu’exigent la langue et les accords.
 slug: maiwenn-compter-le-temps-de-relecture
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Maïwenn
-sujet: Trouble développemental des apprentissages avec déficit de l’expression écrite
+sujet: Effort de relecture sous contrainte
 contexte: Un jeudi après les cours, à huit jours du bouclage
 tags:
+- Trouble développemental des apprentissages avec déficit de l’expression écrite
 - Déficit de l’expression écrite
 - Dysorthographie
-- Effort invisible
-- Affirmation de ses besoins
-- Négociation
+- Charge de révision
+- Pression temporelle
+- Priorisation du travail écrit
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.1
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit de l’expression
+  écrite
 episode: 5
 ---
 

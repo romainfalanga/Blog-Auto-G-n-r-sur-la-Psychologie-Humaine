@@ -1,22 +1,24 @@
 ---
-title: Un lieu de pause pour suivre la visite à son rythme
+title: Prévoir une pause pour doser une surcharge sensorielle
 description: Pendant la visite test, Rita essaie la carte et Nour vérifie le lieu
   de pause. Une grille fermée oblige le groupe à revoir le trajet.
 slug: nour-visite-test-banc-cour
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nour
-sujet: Autisme
+sujet: Autorégulation en environnement sensoriel
 contexte: Dans le passage des Verriers, lors de la visite test entre voisins
 tags:
+- Autisme
 - TSA
-- Besoins sensoriels
-- Choix de faire une pause
-- Repères pour s’orienter
+- Autorégulation
+- Surcharge sensorielle
+- Accessibilité du lieu
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A02
+clinical_diagnosis: Autisme
 episode: 7
 ---
 

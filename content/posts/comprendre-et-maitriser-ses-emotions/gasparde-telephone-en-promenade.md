@@ -1,23 +1,24 @@
 ---
-title: Lâcher une responsabilité quand on redoute un nouvel incident
+title: Anxiété de déléguer quand perdre la main semble dangereux
 description: La pluie menace le créneau de Nathalie. Gasparde reçoit une question
   chez elle et choisit d’utiliser le relais prévu pour garder sa promenade.
 slug: gasparde-telephone-en-promenade
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gasparde
-sujet: Trouble délirant
+sujet: Anxiété de déléguer
 contexte: Le dimanche de l’essai, à la fenêtre puis sur le chemin du canal
 tags:
 - Trouble délirant
 - Trouble délirant persistant
-- Choisir ses appuis
-- Partager la charge
-- Faire avec l’incertitude
+- Anxiété de déléguer
+- Besoin de contrôle
+- Soutien organisationnel
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A24
+clinical_diagnosis: Trouble délirant
 episode: 9
 ---
 
@@ -27,7 +28,7 @@ Sur le téléphone, elle pourrait répondre qu’elle va se renseigner. Elle s�
 
 La sœur de Gasparde lui écrit qu’elle est arrivée au pont avec deux imperméables. Gasparde enfile sa deuxième chaussure. Elle pourrait tout demander à Basile et faire l’intermédiaire pendant la promenade. Elle choisit de rappeler à Agnès où obtenir la réponse et écrit à Basile qu’une question lui est arrivée sur son numéro personnel. Puis elle prend le chemin qui descend derrière la maison. Le téléphone vibre avant le premier arbre. Elle arrive au pont sans regarder l’écran.
 
-## Faire une place à l’autre dans le travail
+## Tolérer l’incertitude pendant que quelqu’un d’autre prend le relais
 
 Partager une tâche peut demander de tolérer un temps où l’on ignore comment l’autre s’y prend. Gasparde voit le problème possible et sait qu’elle pourrait y consacrer son matin. Elle se souvient aussi de la répartition écrite au comité. Basile doit organiser les informations et prévenir Nathalie si la pluie rend l’essai impossible. Elle peut transmettre la question arrivée chez elle et s’appuyer sur cet accord, même si elle demeure inquiète.
 

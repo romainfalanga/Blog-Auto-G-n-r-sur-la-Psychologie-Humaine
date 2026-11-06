@@ -1,23 +1,25 @@
 ---
-title: Demander de l’aide à une collègue sans raconter l’accident
-description: Lors d’une mission autorisée hors conduite, une collègue pose une question
-  sur l’accident. Selma répond sur ce qui l’aide au travail.
+title: Demander un aménagement après l’accident et choisir ce qu’on confie
+description: La première mission hors conduite soulève une question intime. Selma
+  choisit de parler du lieu de travail et de garder le récit de l’accident.
 slug: selma-choisir-de-parler-au-travail
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Selma
-sujet: Trouble de stress post-traumatique
+sujet: Confidentialité après un traumatisme
 contexte: Dans une salle de documentation, loin des voies
 tags:
+- Trouble de stress post-traumatique
 - TSPT
 - PTSD
-- Choisir ce qu’on confie
-- Expression de ses besoins
-- Soutien entre collègues
+- Confidentialité de santé
+- Prévisibilité du cadre de travail
+- Soutien professionnel
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B40
+clinical_diagnosis: Trouble de stress post-traumatique
 episode: 8
 ---
 
@@ -25,7 +27,7 @@ Livia laisse à Selma le fauteuil qui roule le mieux. Il tire à gauche quand on
 
 Livia a déjà sorti les fiches qui doivent rester et celles dont personne n’a pu identifier la date. Elle les lui montre, puis demande si Selma a vu les nouveaux casiers. Selma a surtout remarqué qu’il manque la petite étiquette qu’elle avait dessinée pour que ses collègues lui rendent ses stylos. Elle a envie de savoir qui a vidé le tiroir du haut. Avant qu’elle ait le temps de poser la question, Livia lui demande si elle a envie de raconter ce qui s’est passé.
 
-Selma tient une fiche d’accueil de travers. Livia ne lui a pas demandé de répondre devant d’autres personnes. Elle a probablement attendu qu’elles soient seules. Cela ne donne pas à Selma davantage envie de parler de l’accident. En revanche, elle aimerait qu’on lui dise à l’avance si elles doivent travailler ailleurs la prochaine fois. Elle remet la fiche dans la pile et demande à Livia si la salle est réservée pour toute la semaine.
+Selma tient une fiche d’accueil de travers. Elle avait prévu de demander à Livia quel jour elles changeraient de bureau. Depuis la question sur l’accident, elle ne sait plus si Livia lui a déjà donné le renseignement. Livia ne lui a pas demandé de répondre devant d’autres personnes. Elle a probablement attendu qu’elles soient seules. Cela ne donne pas à Selma davantage envie de parler de l’accident. En revanche, elle aimerait qu’on lui dise à l’avance si elles doivent travailler ailleurs la prochaine fois. Elle remet la fiche dans la pile et demande à Livia si la salle est réservée pour toute la semaine.
 
 ## Plusieurs façons de parler après un traumatisme
 

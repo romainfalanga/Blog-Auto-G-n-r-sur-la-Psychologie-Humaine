@@ -1,23 +1,24 @@
 ---
-title: Présenter son film autrement pour garder son tour
-description: Owen présente son histoire avec trois bandes dessinées et propose au
-  club un essai qui permettra de comparer deux versions.
+title: Garder sa place dans une discussion malgré un blocage
+description: Owen montre trois croquis quand sa phrase s’arrête sur « poignée ». Le
+  groupe peut suivre sa proposition et attendre la suite.
 slug: owen-trois-bandes-sur-la-table
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Owen
-sujet: Trouble développemental de la fluence de la parole
+sujet: Participation malgré le blocage
 contexte: changer de support lors de la réunion et conserver la possibilité de parler
 tags:
+- Trouble développemental de la fluence de la parole
 - Bégaiement
 - Bégaiement développemental
 - Support visuel
-- Choix de sa façon de parler
 - Tour de parole
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.1
+clinical_diagnosis: Trouble développemental de la fluence de la parole
 episode: 3
 ---
 

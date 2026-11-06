@@ -1,22 +1,24 @@
 ---
-title: La peur de répondre au premier message de l’atelier
+title: Peur du regard des autres au retour d’un épisode psychotique
 description: De retour chez elle, Diane reçoit des nouvelles de ses pièces. Elle cherche
   comment reprendre contact avec Maud sans promettre de revenir tout de suite.
 slug: diane-premier-message-atelier
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Diane
-sujet: Trouble psychotique aigu et transitoire
+sujet: Appréhension du retour
 contexte: Dans la cuisine de Diane, le soir de sa sortie de l’hôpital
 tags:
+- Trouble psychotique aigu et transitoire
 - Psychose aiguë et transitoire
-- Appréhension du premier contact
-- Choix des détails à partager
-- Envie de reprendre à son rythme
+- Appréhension du retour
+- Impressions de référence
+- Peur du jugement
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A23
+clinical_diagnosis: Trouble psychotique aigu et transitoire
 episode: 1
 ---
 
@@ -26,7 +28,9 @@ Le téléphone vibre près de l’évier. Maud, sa professeure de poterie, lui �
 
 Diane écrit « Désolée pour tout », puis laisse le curseur clignoter. Maud sait qu’elle a annulé un cours. Le reste, Diane ne sait pas ce qu’elle en sait et n’a pas envie de le demander par message. Rémi lui tend une tasse. Elle lui dit de ne pas lire par-dessus son épaule, puis lui demande quand même de rester le temps qu’elle réponde. Il s’assied à la table, de l’autre côté.
 
-## Revenir ne veut pas dire pouvoir tout reprendre
+## Ce qui reste de la peur après l’épisode
+
+Diane a vécu des moments où des paroles ordinaires semblaient la désigner personnellement. Maintenant, elle comprend le message qu’elle reçoit et redoute les questions qui suivraient une réponse. Le vécu de la crise et la peur des réactions d’autrui ont ici des effets distincts. Son suivi lui donne un lieu où en parler, tandis qu’elle décide de ce qu’elle veut confier à Maud.
 
 Après un séjour à l’hôpital, des gestes familiers peuvent coexister avec une forte appréhension du retour. Diane retrouve l’ordre de sa cuisine et sait qu’elle a toujours envie de revoir ses pièces. Elle hésite devant ce qu’une réponse semble engager : expliquer son absence, supporter les questions, annoncer un retour dont elle ignore encore la date. Son rendez-vous de suivi dans deux jours sert à reprendre avec l’équipe ce qui s’est passé et ce qu’elle vit depuis. Maud a, elle, besoin de savoir si Diane souhaite qu’on lui garde ses pièces. Ce sont deux conversations différentes. Diane peut commencer l’une sans devoir mener l’autre le même soir.
 

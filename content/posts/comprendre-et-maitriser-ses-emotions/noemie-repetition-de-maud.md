@@ -1,23 +1,25 @@
 ---
-title: Quand la peur de devoir vérifier fait renoncer à sortir
-description: Noémie veut entendre Maud jouer. En préparant sa soirée, elle voit aussi
-  ce que le TOC lui a fait décliner ces derniers mois.
+title: L’évitement des sorties par crainte de passer la soirée à vérifier
+description: Noémie voudrait entendre Maud jouer, mais redoute le temps que le doute
+  peut prendre une fois sortie. Elle réfléchit aux sorties qu’elle décline.
 slug: noemie-repetition-de-maud
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Noémie
-sujet: Trouble obsessionnel-compulsif
+sujet: Évitement lié au TOC
 contexte: Un soir de répétition, entre la maison et la salle où joue le groupe de
   Maud
 tags:
+- Trouble obsessionnel-compulsif
 - TOC
-- Évitement des sorties
+- Évitement
 - Anxiété d’anticipation
-- Vie sociale
+- Retentissement social
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B20
+clinical_diagnosis: Trouble obsessionnel-compulsif
 episode: 9
 ---
 

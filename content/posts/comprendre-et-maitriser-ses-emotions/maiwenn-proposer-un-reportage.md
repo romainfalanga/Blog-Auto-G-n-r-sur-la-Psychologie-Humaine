@@ -1,23 +1,26 @@
 ---
-title: Oser proposer un reportage au journal du lycée
-description: Maïwenn veut photographier le marché avant l’arrivée des clients. Quand
-  vient son tour de proposer le sujet, sa première phrase est encore raturée.
+title: Quand les corrections font perdre le fil de ce qu’on veut écrire
+description: Maïwenn sait ce qu’elle veut raconter du marché. À force de reprendre
+  la première phrase, elle perd le lien entre les mots.
 slug: maiwenn-proposer-un-reportage
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Maïwenn
-sujet: Trouble développemental des apprentissages avec déficit de l’expression écrite
+sujet: Organisation des idées à l’écrit
 contexte: Un jeudi midi, dans la salle du journal du lycée
 tags:
+- Trouble développemental des apprentissages avec déficit de l’expression écrite
 - Déficit de l’expression écrite
 - Dysorthographie
+- Expression écrite
+- Effort de formulation
 - Crainte du jugement
-- Prise de parole
-- Effort invisible
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.1
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit de l’expression
+  écrite
 episode: 1
 ---
 

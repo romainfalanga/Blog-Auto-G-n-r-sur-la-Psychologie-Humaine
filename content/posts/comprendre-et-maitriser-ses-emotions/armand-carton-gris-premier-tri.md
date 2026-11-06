@@ -1,24 +1,26 @@
 ---
-title: Quand on ne sait plus quelle note croire
+title: Mémoire récente et horaires contradictoires dans la maladie d’Alzheimer
 description: Armand retrouve deux billets pour le même rendez-vous. En attendant de
   vérifier l’heure, il reprend le tri des cartes qu’il veut donner.
 slug: armand-carton-gris-premier-tri
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Armand
-sujet: Démence due à la maladie d’Alzheimer
+sujet: Mémoire des informations récentes
 contexte: Chez Armand, avant sa première rencontre avec la bibliothécaire pour préparer
   le don
 tags:
+- Démence due à la maladie d’Alzheimer
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Mémoire au quotidien
-- Repères dans l’espace
-- Faire confiance à un repère
+- Mémoire épisodique
+- Désorientation temporelle
+- Appui écrit
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D80
+clinical_diagnosis: Démence due à la maladie d’Alzheimer
 episode: 1
 ---
 
@@ -28,7 +30,7 @@ Jeanne pose le pain sur le buffet et lui demande à quelle heure il veut aller v
 
 Il écarte les deux billets du plan. Jeanne lui demande si elle peut chercher le numéro et lui passer le téléphone. Il accepte, puis remet le plan des canaux bien à plat. À sa droite, il pose la carte du pont bas. On y voit encore le petit trait qu’il avait fait pour montrer le chemin de la rive à Jeanne quand elle apprenait à rouler à vélo. Cette carte, il la veut à portée de la main.
 
-## Deux heures sur le papier
+## La mémoire des informations récentes dans la maladie d’Alzheimer
 
 La maladie d’Alzheimer peut rendre plus difficile le fait de retenir une information récente ou de retrouver dans quelles circonstances on l’a apprise. Le changement s’installe en général progressivement et peut peser sur des activités aussi ordinaires qu’organiser un rendez-vous. Armand a reçu son diagnostic lors d’une évaluation antérieure. Les deux billets éclairent une difficulté qui se présente à lui ce matin. Ils ne permettent pas, à eux seuls, de dire ce qui cause les oublis de quelqu’un.
 

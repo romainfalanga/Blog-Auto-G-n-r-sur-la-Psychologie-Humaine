@@ -1,23 +1,25 @@
 ---
-title: Des permanences claires pour pouvoir décrocher le soir
+title: Inquiétude au travail et responsabilité mal définie
 description: Antonin propose une répartition des permanences qui tienne compte du
   travail réel. Eva lui indique aussi les soirs qu’elle souhaite garder.
 slug: antonin-planning-du-soir
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Antonin
-sujet: Trouble anxieux généralisé
+sujet: Inquiétude et ambiguïté des responsabilités
 contexte: Pendant une réunion d’équipe sur les permanences de l’école
 tags:
+- Trouble anxieux généralisé
 - TAG
 - Anxiété généralisée
-- Inquiétude face aux consignes floues
+- Inquiétude professionnelle
+- Incertitude sur les responsabilités
 - Limites au travail
-- Responsabilités partagées
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B00
+clinical_diagnosis: Trouble anxieux généralisé
 episode: 9
 ---
 

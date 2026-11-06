@@ -1,13 +1,13 @@
 ---
 title: Diane
 date: '2026-11-06T00:00:00+00:00'
-description: 'Diane, trente ans, travaille à la bibliothèque et aime les objets dont
-  on découvre les détails en les prenant en main. Après une hospitalisation, elle
-  retrouve l’atelier de poterie de Maud et veut présenter deux pièces à l’exposition
-  : un bol bas et une carafe sans anse. Elle a du mal à reprendre une conversation
-  quand elle ne sait pas ce que l’autre en a retenu. Avec son cousin Rémi, elle essaie
-  de parler des mots qui l’ont blessé. À l’atelier comme au travail, elle veut retrouver
-  son rythme.'
+description: Diane, 30 ans, retrouve sa bibliothèque et l’atelier de poterie après
+  un séjour à l’hôpital. Peu avant son admission, des paroles entendues dans la rue
+  avaient pris pour elle un sens personnel qui s’imposait. Son parcours suit l’évaluation
+  d’un trouble psychotique aigu et transitoire et les questions qui restent après
+  la crise. Elle redoute le regard des gens qui ont remarqué son absence. Avec son
+  cousin Rémi, elle essaie de revenir sur une parole blessante. Elle tient à présenter
+  son bol et sa carafe à l’exposition et à reprendre le travail par étapes.
 slug: diane
 prenom: Diane
 date_naissance: '1996-01-01'
@@ -18,86 +18,87 @@ nb_articles: 12
 weight: 64
 draft: false
 clinical_code: 6A23
+clinical_diagnosis: Trouble psychotique aigu et transitoire
 reading_topics:
-- Honte après des paroles blessantes
-- Confiance dans ses propres choix
-- Choix de ce qu’on raconte de soi
-- Peur que les difficultés reviennent
-- Demande d’aide et limites des proches
+- Trouble psychotique aigu et transitoire
+- Impressions de référence
+- Honte après une crise
+- Peur de la rechute
+- Reprise du travail
 ---
 
 <h2 class="parcours-section-title">Parcours de Diane</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-premier-message-atelier/">La peur de répondre au premier message de l’atelier</a></h3>
-    <p class="parcours-resume">Chez elle, Diane remet la bouilloire à l’endroit exact où elle était avant son départ. Rémi a cru bien faire en la posant plus près de la prise, sur le plan de travail.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-premier-message-atelier/">Peur du regard des autres au retour d’un épisode psychotique</a></h3>
+    <p class="parcours-resume">Avant l’hôpital, Diane était convaincue que des paroles entendues près d’elle la concernaient. Cette impression s’est apaisée. La peur de ce que Maud sait de son absence reste vive et rend une réponse ordinaire difficile. L’épisode montre comment les conséquences émotionnelles d’une crise psychotique peuvent continuer à peser quand les perceptions et les interprétations ont déjà changé.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/diane-premier-message-atelier/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-nom-trouble-premier-rendez-vous/">La peur d’entendre un verdict au premier rendez-vous après l’hôpital</a></h3>
-    <p class="parcours-resume">Diane écrit « pendant combien de temps ? » au dos d’un ticket de boulangerie, dans la salle d’attente. Elle pense aux rendez-vous, aux nuits où elle risque de se réveiller avec la même peur, au temps qu’il lui faudra avant d’oser ouvrir seule la bibliothèque.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-nom-trouble-premier-rendez-vous/">Trouble psychotique aigu et transitoire et sens d’un diagnostic</a></h3>
+    <p class="parcours-resume">Diane redoute qu’un diagnostic dise déjà ce que sera sa vie. La psychiatre lui explique comment l’équipe a évalué l’apparition rapide de la psychose, les variations des manifestations et leur apaisement. Dans la CIM-11, le mot transitoire décrit la durée limitée de l’épisode évalué. Le suivi reste un espace pour examiner la suite et réévaluer le tableau si nécessaire.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/diane-nom-trouble-premier-rendez-vous/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-excuses-banc-canal/">Les excuses qu’elle redoute sur un banc au bord du canal</a></h3>
-    <p class="parcours-resume">Diane a acheté deux chaussons aux pommes en chemin. Elle se demande s’il vaut mieux tendre celui de Rémi avant de parler ou attendre qu’il se soit assis. Il arrive avec le manteau qu’elle lui connaît depuis dix ans, recousu sous le bras avec du fil blanc.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-excuses-banc-canal/">Honte et réparation après des paroles prononcées en pleine crise</a></h3>
+    <p class="parcours-resume">Diane se souvient d’une phrase blessante et Rémi se rappelle surtout la peur qu’ils ont éprouvée. Après un trouble psychotique aigu et transitoire, le regard que chacun porte sur la crise peut différer. Diane peut reconnaître ce qui a fait mal. Rémi peut raconter ce qu’il a observé, dire quand il a eu besoin des secours et choisir où s’arrête leur conversation.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/diane-excuses-banc-canal/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-honte-table-poterie/">La honte de reprendre sa place à la table de poterie</a></h3>
-    <p class="parcours-resume">Diane reste un instant derrière la porte vitrée de l’atelier. Elle reconnaît son tabouret au morceau de feutre vert collé sous le siège et se demande s’il y a encore quelqu’un qui pense à elle en le déplaçant.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-honte-table-poterie/">Honte anticipée et choix de parler de son absence</a></h3>
+    <p class="parcours-resume">À l’atelier, Anaïs demande où Diane était passée. Diane baisse les yeux et s’attend à devoir expliquer le séjour à l’hôpital. Après un épisode psychotique aigu, cette crainte peut rendre le retour à une activité plus coûteux. En disant ce qu’elle souhaite aborder aujourd’hui, Diane retrouve une conversation qu’elle a choisie avec une personne dont elle apprécie la présence.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/diane-honte-table-poterie/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-faire-ses-preuves-bibliotheque/">L’envie de faire ses preuves le jour du retour à la bibliothèque</a></h3>
-    <p class="parcours-resume">Diane reconnaît, de dos, le livre des cartes marines à son ruban rouge. Elle en avait recollé la première page avant de s’absenter. Quelqu’un a trouvé une façon plus solide de fixer le ruban, en le faisant passer derrière la garde.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-faire-ses-preuves-bibliotheque/">Pression de faire ses preuves après un arrêt de travail</a></h3>
+    <p class="parcours-resume">Diane retrouve sans hésiter la cote d’un livre et veut aussitôt retourner à l’accueil pour montrer qu’elle peut tout reprendre. Après un trouble psychotique aigu et transitoire, des compétences familières peuvent revenir dans des conditions différentes. Le récit compare le travail en réserve et l’effort demandé par des sollicitations simultanées, puis montre pourquoi une reprise graduée lui laisse le temps d’observer ces écarts.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/diane-faire-ses-preuves-bibliotheque/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-doute-bol-four/">Le doute quand son bol sort de travers du four</a></h3>
-    <p class="parcours-resume">Diane voit le bol avant que Maud l’appelle. Le bord remonte d’un côté plus haut qu’elle ne l’avait voulu. Sous le néon de l’atelier, la pente est assez nette pour qu’elle reconnaisse la pièce parmi les assiettes et les tasses, alors même qu’elle ne reconnaît pas tout à fait la forme.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-doute-bol-four/">Généraliser un échec quand la confiance est fragile</a></h3>
+    <p class="parcours-resume">Un bord de bol ressort de travers et Diane envisage de retirer sa pièce. Elle y voit le signe qu’elle a perdu la main depuis l’hôpital. Après un épisode psychotique aigu, reprendre confiance peut impliquer de regarder ce qu’un essai a réellement donné. Diane apprend à examiner sa pièce avec l’attention qu’elle accorde spontanément au travail d’Anaïs.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/diane-doute-bol-four/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-appeler-malik-accueil/">Hésiter à demander un relais quand la file s’allonge</a></h3>
-    <p class="parcours-resume">Diane remet à sa place le petit écriteau que les lecteurs tournent toujours vers eux. De son côté, il dit « Accueil » à l’envers. L’habituée des atlas se présente avec un livre dans un sac de plage, un matin où la pluie bat encore les vitres.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-appeler-malik-accueil/">Surcharge attentionnelle et demande d’aide à l’accueil</a></h3>
+    <p class="parcours-resume">Deux demandes se croisent et Diane perd le fil de la première. Elle redoute qu’en demandant un relais, elle doive rendre toute la place à Malik. Dans sa reprise après un trouble psychotique aigu et transitoire, l’attention et la confiance peuvent être sollicitées différemment d’une tâche à l’autre. Une demande précise lui permet de terminer l’échange qu’elle avait commencé.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/diane-appeler-malik-accueil/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-choisir-ce-que-dit-cartel/">Choisir ce qu’on raconte de soi sur un cartel d’exposition</a></h3>
-    <p class="parcours-resume">Rémi a apporté une règle qui ne commence plus à zéro. Il affirme qu’on peut tout de même faire deux rectangles de la même taille, à condition de prendre les mesures du même côté.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-choisir-ce-que-dit-cartel/">Peur d’être réduite à sa crise et choix de raconter son travail</a></h3>
+    <p class="parcours-resume">Devant ses cartels, Diane se demande si les visiteurs chercheront dans les objets la trace de sa période à l’hôpital. L’anticipation du regard des autres peut rendre la parole sur soi difficile après une psychose aiguë. Regarder les pièces avec Rémi lui permet de décider ce qu’elle veut rendre visible et de reprendre la main sur le récit de son travail.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/diane-choisir-ce-que-dit-cartel/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-peur-que-ca-revienne-marche/">Craindre que la crise revienne en rentrant du marché</a></h3>
-    <p class="parcours-resume">Diane pose les poires sur l’égouttoir parce qu’une d’elles a fendu le fond du sac. Elle était allée au marché sans Rémi, qui devait remplacer quelqu’un le matin. Elle a rapporté les mêmes fruits que la semaine précédente et le marchand lui a montré comment sentir qu’une poire allait être bonne le jour même.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-peur-que-ca-revienne-marche/">Impression de référence et peur de revivre l’épisode psychotique</a></h3>
+    <p class="parcours-resume">Au marché, des mots que Diane distingue mal lui semblent rappeler ce qu’elle a dit en quittant l’hôpital. L’impression s’accroche à elle et réveille la peur de revivre une crise. Après plusieurs nuits difficiles, elle utilise le contact prévu avec son équipe. Le suivi permet d’évaluer ensemble ce changement à partir des faits, du sommeil et de son retentissement.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/diane-peur-que-ca-revienne-marche/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-demander-aide-sans-tout-confier/">Demander de l’aide à son cousin sans lui confier tout le suivi</a></h3>
-    <p class="parcours-resume">Le centre a changé la chaise en face de la porte du bureau. Diane s’en aperçoit parce que le métal du pied ne grince plus quand elle s’assied. Elle a appelé le matin et voit la docteure Lenoir avant la fin de la journée.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-demander-aide-sans-tout-confier/">Anxiété de rechute et juste place de l’aide familiale</a></h3>
+    <p class="parcours-resume">Pendant sa consultation avancée, Diane hésite à demander à Rémi de surveiller son téléphone toute la soirée. La peur d’un nouvel épisode psychotique peut rendre difficile de savoir quelle présence demander. Le rendez-vous clarifie les relais médicaux et l’échange avec Rémi distingue le soutien qu’il peut apporter, le temps dont il dispose et la suite à convenir avec l’équipe.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/diane-demander-aide-sans-tout-confier/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-defendre-place-des-pieces/">Défendre sa façon d’exposer quand la table change de place</a></h3>
-    <p class="parcours-resume">Maud a couvert la tablette basse d’une nappe qui touche presque le parquet. Quand Diane soulève un coin, elle voit que les pieds ont été raccourcis. C’est là qu’elle aimerait placer les pièces.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-defendre-place-des-pieces/">Peur de déranger et affirmation de soi après la crise</a></h3>
+    <p class="parcours-resume">Quand la tablette de l’exposition devient indisponible, Diane pense qu’elle devrait s’accommoder de ce qui reste. Depuis son retour, elle a peur de compliquer la vie des autres et hésite à défendre une préférence. Le rétablissement après un épisode psychotique aigu touche aussi la possibilité de reprendre part aux décisions. Ici, expliquer ce qu’elle souhaite permet de tenir compte de son besoin et de celui d’Anaïs.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/diane-defendre-place-des-pieces/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-faire-place-avis-vernissage/">Entendre un avis inattendu sans douter de sa place au vernissage</a></h3>
-    <p class="parcours-resume">En entrant dans la salle, Diane cherche ses deux cartels et voit d’abord une femme penchée sur le bol. Elle a retiré ses lunettes pour lire. Diane s’arrête à une distance d’où elle pourrait encore repartir vers le buffet.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/diane-faire-place-avis-vernissage/">Regard des autres et confiance retrouvée au vernissage</a></h3>
+    <p class="parcours-resume">Diane entend une visiteuse décrire son bol d’une manière inattendue et se prépare à justifier chaque détail. Depuis la crise, elle a souvent cherché dans le regard des autres un verdict sur ce qu’elle pouvait encore faire. Au vernissage, elle peut écouter cet avis et garder le sien. Le récit montre ce gain de confiance dans une activité qui compte pour elle.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/diane-faire-place-avis-vernissage/" class="parcours-link">Lire</a>
   </div>
 </div>

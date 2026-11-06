@@ -1,24 +1,26 @@
 ---
-title: Hésiter entre le premier rôle et le geste qu’on aime
-description: À la lecture, Augustin découvre deux rôles qui lui plaisent. Il demande
-  à les essayer avec les accessoires avant de décider.
+title: Pourquoi un enchaînement de gestes change l’effort demandé
+description: Les deux rôles tentent Augustin, mais chacun combine le texte et les
+  objets autrement. Il demande à les essayer en mouvement.
 slug: augustin-deux-roles
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Augustin
-sujet: Trouble développemental de la coordination motrice
+sujet: Enchaînement des gestes
 contexte: lors de la première lecture des rôles avec la troupe
 tags:
+- Trouble développemental de la coordination motrice
 - Trouble du développement de la coordination
 - TDC
 - Dyspraxie
-- Pression du temps
-- Légitimité dans le groupe
-- Droit d’hésiter
+- Coordination dans l’action
+- Anticipation du coût
+- Choix d’activité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A04
+clinical_diagnosis: Trouble développemental de la coordination motrice
 episode: 2
 ---
 
@@ -26,7 +28,7 @@ Maya lit la première phrase du concierge comme si elle annonçait une catastrop
 
 Sur la chaise à sa droite, Augustin retrouve le soleil et la chute de papier de Nora. La bande large couvre d’un coup deux jointures. Il a juste le temps de la présenter contre le disque avant que Samira demande au concierge de faire semblant de changer de trousseau. Elle appelle ensuite le voisin. Maya lit sa réplique, celle qu’il dit en revenant avec le soleil que tout le monde cherche depuis le début. Augustin l’essaie à son tour : « Vous auriez pu attendre que je me lève. » Maxence rit avec son stylo encore entre les dents. Augustin n’avait pas pensé que quatre lignes pouvaient laisser autant de place à un acteur.
 
-Samira demande qui souhaite rester sur les essais du concierge. Augustin a envie de lever la main. Il imagine aussi le soleil devant la salle, tenu par quelqu’un d’autre, et ça lui fait le même effet que quand Maxence termine une de ses blagues. « On peut essayer les deux avec les objets, avant de décider ? » Maya garde un doigt dans le texte. Elle voudrait savoir assez tôt quelles pages apprendre. Augustin comprend que son hésitation lui prend aussi du temps à elle.
+Samira demande qui souhaite rester sur les essais du concierge. En regardant le texte, Augustin essaie d’imaginer quand il posera les clés pour pouvoir parler. Il aimerait en juger avec les objets en main. Augustin a envie de lever la main. Il imagine aussi le soleil devant la salle, tenu par quelqu’un d’autre, et ça lui fait le même effet que quand Maxence termine une de ses blagues. « On peut essayer les deux avec les objets, avant de décider ? » Maya garde un doigt dans le texte. Elle voudrait savoir assez tôt quelles pages apprendre. Augustin comprend que son hésitation lui prend aussi du temps à elle.
 
 ## Les rôles sur le papier et dans la salle
 

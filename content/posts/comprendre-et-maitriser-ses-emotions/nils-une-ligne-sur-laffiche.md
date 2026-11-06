@@ -1,22 +1,23 @@
 ---
-title: Choisir ce qu’on dit de soi devant les autres
+title: Stigmatisation anticipée et choix de parler de sa schizophrénie
 description: Le brouillon de l’affiche raconte une histoire que Nils n’a pas proposée.
   Il ramène la discussion au jardinage et au texte qu’il approuve.
 slug: nils-une-ligne-sur-laffiche
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nils
-sujet: Schizophrénie
+sujet: Stigmatisation anticipée
 contexte: Le mercredi, autour de l’affiche de la nouvelle émission
 tags:
 - Schizophrénie
-- Choisir ce qu’on partage
-- Stigmatisation
-- Affirmation de soi
+- Stigmatisation anticipée
+- Identité sociale
+- Confidentialité choisie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A20
+clinical_diagnosis: Schizophrénie
 episode: 5
 ---
 

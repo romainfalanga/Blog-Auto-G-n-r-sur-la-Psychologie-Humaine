@@ -1,22 +1,24 @@
 ---
-title: Choisir sa place dans le groupe après avoir organisé la visite
+title: Changer de rôle pour rester dans une activité choisie
 description: Au deuxième départ, les voisins prennent plusieurs chemins. Nour garde
   le sien et laisse une autre personne tenir la carte au point de rendez-vous.
 slug: nour-deuxieme-visite-quai
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nour
-sujet: Autisme
+sujet: Participation sociale et autonomie
 contexte: Au porche du quai, lors de la deuxième visite entre voisins
 tags:
+- Autisme
 - TSA
-- Participation à son rythme
-- Partage des responsabilités
-- Expression de ses préférences
+- Participation sociale
+- Soutien collectif
+- Autonomie de décision
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A02
+clinical_diagnosis: Autisme
 episode: 12
 ---
 

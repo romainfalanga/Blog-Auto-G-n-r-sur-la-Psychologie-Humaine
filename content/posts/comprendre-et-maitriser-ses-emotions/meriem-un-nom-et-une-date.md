@@ -1,23 +1,25 @@
 ---
-title: Partager ce qu’on a créé en gardant son intimité
-description: L’échange revient. Meriem choisit de signer le patron de la pochette
-  et réserve un moment pour coudre avec Chloé après l’accueil.
+title: Poursuivre une activité qui compte malgré le retentissement du trauma
+description: Meriem ouvre l’échange même si un bruit la fait trembler. Elle choisit
+  ses appuis, sa place à l’accueil et ce qu’elle rend public.
 slug: meriem-un-nom-et-une-date
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Meriem
-sujet: Trouble de stress post-traumatique complexe
+sujet: Retentissement persistant du TSPT complexe
 contexte: Le deuxième samedi d’échange
 tags:
+- Trouble de stress post-traumatique complexe
 - TSPT complexe
 - CPTSD
-- Confiance dans les relations
-- Poser ses limites
-- Trouver sa place
+- Retentissement persistant
+- Participation sociale
+- Poursuite du suivi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B41
+clinical_diagnosis: Trouble de stress post-traumatique complexe
 episode: 12
 ---
 
@@ -27,7 +29,7 @@ Joël a relu l’épreuve jeudi. Il a remis les deux tailles dans le bac avec un
 
 Au moment où Dalila ouvre les portes, une chaise racle le sol. Meriem lâche le bord de la table. Sa main tremble encore quand Ève lui tend le feutre. Elle montre la liste des heures et indique qu’elle prendra l’accueil jusqu’à onze heures, comme convenu. Chloé arrive avec la nappe pliée. Il en reste de quoi faire deux poches. Meriem lui demande de lui garder un coin et lui montre la petite table où elles pourront s’asseoir à onze heures.
 
-## Le suivi et le projet peuvent avancer à des rythmes différents
+## Repérer l’effort qui reste derrière une activité retrouvée
 
 Le stress post-traumatique complexe peut garder un retentissement même quand une personne tient une activité qui lui importe. L’effort pour accomplir une tâche ou rester en relation peut passer inaperçu quand on regarde seulement ce que la personne a réussi à faire. Meriem reconnaît le bruit d’une chaise et sa main tremble ; ce détail ne dit ni tout ce qu’elle ressent ni où elle en est dans son suivi. Ce matin, elle a préparé les copies, prévu son rôle et réservé du temps pour faire une pochette. Une journée dont elle est contente peut coexister avec des moments qui lui demandent encore beaucoup.
 

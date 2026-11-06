@@ -1,22 +1,24 @@
 ---
-title: Nour et Joël, deux façons de s’orienter avec la même carte
+title: Deux manières d’être autiste devant la même carte
 description: Joël, rencontré en atelier de gravure, essaie la carte avec Nour. Tous
   deux sont autistes et ne cherchent pas les mêmes repères.
 slug: nour-joel-carte-preferences
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nour
-sujet: Autisme
+sujet: Diversité des profils autistiques
 contexte: Dans la salle de l’atelier de gravure, pendant la préparation de la carte
 tags:
+- Autisme
 - TSA
-- Besoins sensoriels différents
-- Repères visuels et écrits
-- Soutien entre pairs
+- Diversité des profils autistiques
+- Repérage spatial
+- Accessibilité de l’information
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A02
+clinical_diagnosis: Autisme
 episode: 4
 ---
 

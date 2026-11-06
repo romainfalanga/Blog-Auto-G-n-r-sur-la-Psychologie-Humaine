@@ -1,22 +1,23 @@
 ---
-title: Reprendre après un blanc à l’antenne
+title: Blocage en direct et reprise grâce à un indice concret
 description: Le voyant s’allume et Nils perd un mot. Maud répète la question comme
   convenu ; il choisit le dernier détail qu’il veut donner.
 slug: nils-le-voyant-rouge
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nils
-sujet: Schizophrénie
+sujet: Blocage attentionnel
 contexte: Le samedi, pendant la première émission des Mains dans la terre
 tags:
 - Schizophrénie
-- Perdre le fil
-- Soutien discret
-- Reprendre sa place
+- Blocage attentionnel
+- Indice de récupération
+- Peur du blanc
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A20
+clinical_diagnosis: Schizophrénie
 episode: 11
 ---
 

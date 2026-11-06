@@ -1,24 +1,26 @@
 ---
-title: Garder le lien avec une amie qui ne peut pas venir
+title: Préserver son sommeil sans perdre ses amitiés de jeu
 description: Sana ne peut pas se rendre à l’atelier. Elle et Côme cherchent une façon
   de jouer ensemble sans lui demander de passer la journée au téléphone.
 slug: come-une-invitation-pour-sana
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Côme
-sujet: Trouble du jeu vidéo
+sujet: Liens sociaux et retentissement du jeu
 contexte: Quelques jours avant l’essai de la table, pendant la coupure de Sana et
   la pause de Côme
 tags:
+- Trouble du jeu vidéo
 - 6C51
 - Gaming disorder
-- Besoin de lien
-- Confidentialité
-- Participation à distance
+- Sommeil et horaires de jeu
+- Crainte de perdre un lien
+- Diversification des moments partagés
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C51
+clinical_diagnosis: Trouble du jeu vidéo
 episode: 10
 ---
 

@@ -1,23 +1,25 @@
 ---
-title: 'Sursaut dans la serre : quand un bruit rappelle l’accident'
-description: En mesurant un montant de la serre, Selma est surprise par un bruit qui
-  lui rappelle l’accident. Elle choisit ce qu’elle veut reprendre avec André.
+title: Sursaut et alerte quand un bruit de serre rappelle l’accident
+description: Un bruit sec interrompt le travail dans la serre. Selma ressent une forte
+  alerte et décide comment s’éloigner avec l’aide d’André.
 slug: selma-bruit-serre-familiale
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Selma
-sujet: Trouble de stress post-traumatique
+sujet: Sursaut face à un rappel
 contexte: La serre familiale au début du printemps
 tags:
+- Trouble de stress post-traumatique
 - TSPT
 - PTSD
-- Sursaut et besoin de s’éloigner
-- Rappels du traumatisme
-- Soutien d’un proche
+- Sursaut marqué
+- Rappel traumatique
+- Sentiment de menace
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B40
+clinical_diagnosis: Trouble de stress post-traumatique
 episode: 1
 ---
 
@@ -29,7 +31,7 @@ André se rapproche de l’entrée. Elle lève une main pour qu’il reste où i
 
 ## Quand un rappel provoque une réaction forte
 
-Un bruit qui rappelle un événement traumatique peut provoquer un sursaut intense ou un besoin pressant de s’éloigner. Dans les descriptions cliniques de la CIM-11, le sentiment de menace persistante fait partie de ce que les professionnels examinent dans le trouble de stress post-traumatique, identifié par le code 6B40. Ils s’intéressent également à la façon dont certains souvenirs reviennent, aux situations que la personne évite et aux effets dans sa vie. L’évaluation tient compte de l’ensemble de l’expérience et de son évolution.
+Un bruit qui rappelle un événement traumatique peut provoquer un sursaut intense ou un besoin pressant de s’éloigner. Dans les descriptions cliniques de la CIM-11, le sentiment de menace persistante fait partie de ce que les professionnels examinent dans le trouble de stress post-traumatique, identifié par le code 6B40. Ils recherchent aussi des reviviscences, où l’événement semble se reproduire dans le présent, et un évitement des rappels du traumatisme. Ils examinent les effets de ces réactions sur le travail, les relations ou d’autres activités. L’évaluation tient compte de l’ensemble de l’expérience et de son évolution.
 
 Selma a entendu un bruit, puis son attention s’est portée sur la porte. Ce qu’elle pourra dire à sa thérapeute, si elle souhaite revenir sur ce moment, tient déjà en quelques observations. Elle peut parler de ce qu’elle faisait juste avant, de ce qu’elle a ressenti et du temps qu’il lui a fallu pour retrouver ses repères. Ces mots peuvent servir même si elle choisit de garder le récit de l’accident pour un autre moment.
 

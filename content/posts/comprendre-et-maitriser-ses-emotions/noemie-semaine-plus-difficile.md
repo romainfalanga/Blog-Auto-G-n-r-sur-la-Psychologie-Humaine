@@ -1,22 +1,24 @@
 ---
-title: Les vérifications s’intensifient avant le vernissage
-description: À quelques jours du vernissage, les vérifications reprennent de la place.
-  Noémie décrit leurs effets et demande un ajustement à sa clinicienne.
+title: Le retour des vérifications quand la pression monte avant le vernissage
+description: Les vérifications prennent plus de temps cette semaine. Noémie compare
+  ce que son TOC lui coûte au travail et ce qui l’a aidée ailleurs.
 slug: noemie-semaine-plus-difficile
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Noémie
-sujet: Trouble obsessionnel-compulsif
+sujet: Fluctuation des compulsions
 contexte: À la relecture des panneaux, quelques jours avant le vernissage
 tags:
+- Trouble obsessionnel-compulsif
 - TOC
-- Vérifications répétées
-- Décisions retardées
-- Demande d’aide
+- Fluctuation des compulsions
+- Retentissement sur les décisions
+- Ajustement du suivi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B20
+clinical_diagnosis: Trouble obsessionnel-compulsif
 episode: 10
 ---
 

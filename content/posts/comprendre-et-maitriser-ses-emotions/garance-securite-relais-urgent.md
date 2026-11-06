@@ -1,22 +1,24 @@
 ---
-title: 'Idées suicidaires : Garance demande une aide immédiate'
+title: Idées suicidaires pendant la dépression bipolaire
 description: Garance craint pour sa sécurité. Elle le dit à Éva, puis utilise le relais
   d’urgence prévu avec son équipe de soins.
 slug: garance-securite-relais-urgent
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Garance
-sujet: Trouble bipolaire de type II
+sujet: Idées suicidaires et recours urgent
 contexte: Chez Garance, au cours d’une soirée où le risque augmente
 tags:
+- Trouble bipolaire de type II
 - Bipolarité type II
 - Idées suicidaires
-- Limites de l’aide d’une proche
-- Relais d’urgence
+- Sécurité immédiate
+- Soutien professionnel urgent
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A61
+clinical_diagnosis: Trouble bipolaire de type II
 episode: 9
 ---
 

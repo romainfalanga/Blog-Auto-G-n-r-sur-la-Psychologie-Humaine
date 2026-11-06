@@ -1,29 +1,29 @@
 {
   "character_id": "gabin",
-  "bio": "Gabin est cuisinier en collectivité et aime trouver des solutions qui servent à plusieurs. Pour le repas de sa rue, il fabrique des chaises pliantes à l’atelier du quartier. Chez lui, il partage les charges avec Nora, sa colocataire et amie. Il hésite à lui dire combien il a perdu au jeu, et l’idée de rejouer pour récupérer l’argent revient quand le loyer l’inquiète. Il voudrait tenir ses engagements à la maison et contribuer au repas avec les moyens dont il dispose.",
+  "bio": "Gabin, cuisinier en collectivité de 35 ans, vit avec un trouble lié aux jeux d’argent diagnostiqué en addictologie. Quand les pertes touchent le loyer, l’urgence de retrouver l’argent peut lui donner envie de rejouer. Il s’en veut et retarde les conversations avec Nora, sa colocataire, qui a besoin de connaître sa part des dépenses. Gabin aime le travail manuel et veut participer au repas de rue. Il apprend à repérer l’envie, à demander de l’aide assez tôt et à reprendre des engagements qu’il peut tenir.",
   "profile_topics": [
-    "Vouloir récupérer ses pertes",
-    "Honte et crainte d’en parler",
-    "Envie de rejouer",
-    "Limites financières dans les relations",
-    "Demander du soutien"
+    "Trouble lié aux jeux d’argent",
+    "Rattrapage des pertes",
+    "Difficulté à maîtriser le jeu",
+    "Honte et dissimulation",
+    "Retentissement financier et relationnel"
   ],
   "episodes": [
     {
       "number": 1,
       "slug": "gabin-chaise-contre-le-mur",
-      "title": "Gabin hésite à parler des pertes au jeu qui touchent le loyer",
-      "description": "En comptant les chaises du repas de rue, Gabin retrouve une dépense qu’il a cachée et décide de parler à Nora de sa part du loyer.",
+      "title": "Quand les pertes au jeu empiètent sur le loyer",
+      "description": "Gabin a joué une partie de l’argent du loyer. La honte retarde sa réponse à Nora, qui doit prévoir les charges de la colocation.",
       "context": "nommer le retentissement du jeu quand une dépense de la colocation devient incertaine",
       "topics": [
-        "Honte et crainte d’en parler",
         "Difficulté à maîtriser le jeu",
-        "Engagements envers ses proches"
+        "Honte et dissimulation",
+        "Retentissement financier"
       ],
-      "opening": "La chaise se ferme à moitié et s’arrête contre la paume de Gabin. Il la rouvre, retire un copeau du rail et vérifie les deux côtés avant de la replier. Sur le mur de l’atelier, l’association a accroché un plan du repas de rue. Un voisin y a dessiné un banc si long qu’il coupe le passage. Gabin a proposé des chaises pliantes à la place. On lui a prêté l’établi pour deux soirs par semaine, à condition qu’il libère la pièce avant l’atelier de couture.\n\nÀ trente-cinq ans, il connaît le nombre de couverts qui sortent d’une cuisine de collectivité sans qu’il ait besoin de regarder sa fiche. Pour les chaises, il essaie encore de trouver une façon de faire qui tienne dans son budget. Il sort la liste des ferrures. Juste en dessous se trouve un papier de l’appartement, avec la date à laquelle il devait verser sa part du loyer à Nora. Il avait rangé le papier dans le même sac en pensant traiter les deux dépenses après le travail.\n\nGabin a reçu un diagnostic de trouble lié aux jeux d’argent au service d’addictologie. À son dernier rendez-vous, il a parlé d’une perte, sans dire qu’elle avait pris une partie de l’argent réservé au loyer. À Nora, il a seulement dit que le virement serait en retard. Dans la pièce voisine, une bénévole demande si elle doit compter sur six chaises ou sur huit. Il regarde celle qui se ferme enfin. Il ne sait toujours pas combien il pourra en promettre.",
+      "opening": "Nora demande par message si le virement du loyer est parti. Gabin sait qu’une partie de l’argent a été jouée. Il voudrait attendre d’avoir une réponse qui ne la mette pas en difficulté. Sur l’établi, la chaise se ferme à moitié et s’arrête contre sa paume. Il la rouvre, retire un copeau du rail et vérifie les deux côtés avant de la replier. Sur le mur de l’atelier, l’association a accroché un plan du repas de rue. Un voisin y a dessiné un banc si long qu’il coupe le passage. Gabin a proposé des chaises pliantes à la place. On lui a prêté l’établi pour deux soirs par semaine, à condition qu’il libère la pièce avant l’atelier de couture.\n\nÀ trente-cinq ans, il connaît le nombre de couverts qui sortent d’une cuisine de collectivité sans qu’il ait besoin de regarder sa fiche. Pour les chaises, il essaie encore de trouver une façon de faire qui tienne dans son budget. Il sort la liste des ferrures. Juste en dessous se trouve un papier de l’appartement, avec la date à laquelle il devait verser sa part du loyer à Nora. Il avait rangé le papier dans le même sac en pensant traiter les deux dépenses après le travail.\n\nGabin a reçu un diagnostic de trouble lié aux jeux d’argent au service d’addictologie. À son dernier rendez-vous, il a parlé d’une perte, sans dire qu’elle avait pris une partie de l’argent réservé au loyer. À Nora, il a seulement dit que le virement serait en retard. Dans la pièce voisine, une bénévole demande si elle doit compter sur six chaises ou sur huit. Il regarde celle qui se ferme enfin. Il ne sait toujours pas combien il pourra en promettre.",
       "sections": [
         {
-          "heading": "Quand le jeu prend la place d’autres engagements",
+          "heading": "Comment les dommages du jeu s’étendent au foyer",
           "text": "Le trouble lié aux jeux d’argent se manifeste par un comportement de jeu qui se répète, devient difficile à maîtriser et prend une place croissante malgré ses conséquences. La CIM-11 de l’OMS le classe sous le code 6C50. Il concerne les jeux dans lesquels de l’argent est engagé sur un résultat incertain. La CIM-11 décrit séparément le trouble lié à l’usage des jeux vidéo. L’évaluation professionnelle considère ce qui se passe dans la durée et ce que cela change dans la vie de la personne. Pour Gabin, l’exemple du loyer rend visible un effet qui dépasse la somme perdue. Nora comptait sur un versement pour une dépense commune. Il avait aussi promis à l’association de confirmer ce qu’il pourrait fabriquer. Nora et la bénévole ont chacune besoin d’informations pour prendre leurs décisions."
         },
         {
@@ -43,18 +43,20 @@
       "continuity": {
         "choice": "Gabin donne deux informations qu’il peut vérifier et annonce à Nora que sa part du loyer sera incomplète.",
         "next": "Le lendemain, l’idée de revenir jouer pour effacer la perte lui revient pendant le service."
-      }
+      },
+      "clinical_focus": "Jeu malgré les conséquences",
+      "clinical_intro": "Gabin a puisé dans l’argent du loyer et ne dit à Nora qu’une partie de ce qui s’est passé. La honte retarde la conversation alors que Nora doit organiser ses propres dépenses. Dans le trouble lié aux jeux d’argent, les professionnels regardent comment la difficulté à maîtriser le jeu et sa poursuite malgré les dommages affectent la vie de la personne et de son entourage."
     },
     {
       "number": 2,
       "slug": "gabin-argent-qui-manque",
-      "title": "Rejouer pour effacer une perte : la tentation revient pendant la pause",
+      "title": "Le rattrapage des pertes ou l’envie de rejouer pour régler le loyer",
       "description": "Pendant sa pause, Gabin reconnaît l’envie de rejouer pour récupérer une perte et demande au service d’en parler avec lui.",
       "context": "repérer l’idée de rattraper une perte et demander de l’aide avant une nouvelle mise",
       "topics": [
         "Rattrapage des pertes",
         "Envie de rejouer",
-        "Peur d’annoncer une perte"
+        "Honte des pertes"
       ],
       "opening": "Gabin s’aperçoit qu’il a préparé une assiette de trop quand le dernier plateau sort. Le collègue qui ramasse les bacs lui demande s’il veut la garder pour sa pause. Gabin répond oui et descend s’asseoir près de la porte de livraison. Il a encore le goût du persil sur le bout du pouce. Devant lui, les bacs à roulettes remontent à vide vers la cuisine.\n\nSur une feuille prise dans la poche de sa veste, il a écrit ce qu’il peut verser à Nora cette semaine. Il a parlé du jeu à table la veille. Elle lui a demandé de préciser avant mercredi l’argent qui manque, parce qu’elle doit elle aussi faire ses comptes. Elle n’a pas ouvert son téléphone. Gabin s’était attendu à devoir montrer chaque mouvement. Il s’est trouvé démuni devant la seule question à laquelle il ne savait pas encore répondre.\n\nIl inscrit un chiffre dans la marge, puis le barre. C’est la somme qu’il voudrait revoir sur son compte. Pendant un instant, rejouer lui paraît être le moyen de pouvoir rentrer avec une réponse convenable. Il commence déjà à imaginer ce qu’il dirait à Nora si le montant était de nouveau disponible. Il lui faut quelques secondes pour s’apercevoir qu’il pense à cette conversation comme si l’argent était revenu. À son prochain service, il doit aider à changer un menu. Pour le moment, il ne sait même plus ce qu’il avait gardé dans son assiette.",
       "sections": [
@@ -79,24 +81,26 @@
       "continuity": {
         "choice": "Il décrit l’envie de récupérer la perte au service et reprend avec Nora les chiffres disponibles.",
         "next": "Avec son accord, l’équipe lui propose un rendez-vous de conseil budgétaire pour examiner les dépenses du foyer."
-      }
+      },
+      "clinical_focus": "Rattrapage des pertes",
+      "clinical_intro": "Pendant sa pause, Gabin imagine l’argent déjà revenu sur son compte et la conversation difficile avec Nora déjà derrière lui. L’envie de rejouer lui paraît alors une solution à sa honte et à son problème de loyer. Cette recherche de rattrapage est fréquente dans le trouble lié aux jeux d’argent et une nouvelle mise expose à des pertes supplémentaires."
     },
     {
       "number": 3,
       "slug": "gabin-pli-du-justificatif",
-      "title": "Faire le point sur le loyer et choisir ce qu’on partage",
+      "title": "La honte des dettes quand il faut regarder les échéances",
       "description": "Avec son accord, un rendez-vous de conseil budgétaire aide Gabin à distinguer ce qui concerne le foyer et ce qui reste à examiner seul.",
       "context": "préparer avec un service de conseil budgétaire une information fiable sur les charges de la colocation",
       "topics": [
-        "Transparence dans la colocation",
-        "Limites de l’aide d’un proche",
-        "Conseil budgétaire"
+        "Honte des dettes",
+        "Retentissement financier",
+        "Accompagnement budgétaire"
       ],
-      "opening": "Le papier du loyer tient plié dans la poche de la veste. Gabin le sort à l’accueil et l’aplatit sur le comptoir. En haut figure le montant que Nora attendait. Dans le pli, il avait ajouté le chiffre qu’il pouvait confirmer mercredi. Une autre page reprend des dépenses qui le concernent seul. Il ne les a pas toutes retrouvées. En mélangeant les deux feuilles, il avait réussi plusieurs soirs à ne plus savoir par où commencer.\n\nLa personne qui le reçoit lui demande ce qui est le plus pressé. Gabin commence par parler des chaises, parce que les ferrures sont la première ligne qu’il comprend sans regarder ses papiers. Puis il montre la date du loyer. Le service d’addictologie lui a proposé de prendre ce rendez-vous avec un service de conseil budgétaire, et il a accepté de venir seul. Nora avait dit qu’elle voulait d’abord savoir quelle part resterait à régler et à quel moment ils pourraient en reparler. Elle ne lui a pas demandé le détail de ce rendez-vous.\n\nGabin voudrait repartir avec une phrase qui tienne dans un message. La conseillère lui demande ce qui est déjà versé, ce qu’il peut encore confirmer et ce qui manque. Il lui montre le pli. Il sait répondre aux deux premières questions. Pour la troisième, il faut vérifier que les sommes ne sont pas comptées deux fois. Il regarde de nouveau la liste des ferrures. Sur ce papier, il avait encore gardé l’hypothèse où il achèterait le matériel dès cette semaine.",
+      "opening": "Le papier du loyer tient plié dans la poche de la veste. Gabin le sort à l’accueil et l’aplatit sur le comptoir. En haut figure le montant que Nora attendait. Dans le pli, il avait ajouté le chiffre qu’il pouvait confirmer mercredi. Une autre page reprend des dépenses qui le concernent seul. Il ne les a pas toutes retrouvées. En mélangeant les deux feuilles, il avait réussi plusieurs soirs à ne plus savoir par où commencer.\n\nLa personne qui le reçoit lui demande ce qui est le plus pressé. Gabin commence par parler des chaises. Le prix des ferrures est facile à dire. Il a plus de mal à prononcer le montant du loyer qu’il n’a pas pu verser, même devant quelqu’un qu’il est venu voir pour cette raison. Puis il montre la date du loyer. Le service d’addictologie lui a proposé de prendre ce rendez-vous avec un service de conseil budgétaire, et il a accepté de venir seul. Nora avait dit qu’elle voulait d’abord savoir quelle part resterait à régler et à quel moment ils pourraient en reparler. Elle ne lui a pas demandé le détail de ce rendez-vous.\n\nGabin voudrait repartir avec une phrase qui tienne dans un message. La conseillère lui demande ce qui est déjà versé, ce qu’il peut encore confirmer et ce qui manque. Il lui montre le pli. Il sait répondre aux deux premières questions. Pour la troisième, il faut vérifier que les sommes ne sont pas comptées deux fois. Il regarde de nouveau la liste des ferrures. Sur ce papier, il avait encore gardé l’hypothèse où il achèterait le matériel dès cette semaine.",
       "sections": [
         {
           "heading": "Mettre les échéances en face des sommes disponibles",
-          "text": "Un conseil budgétaire peut aider à faire le point sur les sommes disponibles, les échéances et les difficultés qui demandent un avis spécialisé. Le NICE recommande de proposer, selon la situation, une orientation vers un appui pour les finances, les dettes ou le logement. Gabin apporte ses informations et décide avec la conseillère de ce qu’ils peuvent examiner d’abord. Ils donnent la priorité à ce qui touche le foyer et repèrent ce qui exige encore une vérification. Les achats pour le repas peuvent rester en attente. Un montant espéré, une avance de Nora ou une dépense annulée sans confirmation ne donnent pas les mêmes informations qu’un paiement déjà fait."
+          "text": "Remettre les papiers dans sa poche laisse à Gabin un peu de répit. L’échéance, elle, continue d’approcher. Un conseil budgétaire peut aider à faire le point sur les sommes disponibles, les échéances et les difficultés qui demandent un avis spécialisé. Le NICE recommande de proposer, selon la situation, une orientation vers un appui pour les finances, les dettes ou le logement. Gabin apporte ses informations et décide avec la conseillère de ce qu’ils peuvent examiner d’abord. Ils donnent la priorité à ce qui touche le foyer et repèrent ce qui exige encore une vérification. Les achats pour le repas peuvent rester en attente. Un montant espéré, une avance de Nora ou une dépense annulée sans confirmation ne donnent pas les mêmes informations qu’un paiement déjà fait."
         },
         {
           "heading": "Choisir une transparence qui permet d’agir",
@@ -115,18 +119,20 @@
       "continuity": {
         "choice": "Gabin transmet seulement les informations utiles à l’échéance commune et suspend l’achat des ferrures.",
         "next": "Au service d’addictologie, il revient sur l’heure où l’envie de rattraper la perte a pris le dessus."
-      }
+      },
+      "clinical_focus": "Évitement des conséquences financières",
+      "clinical_intro": "Devant la conseillère, Gabin parle d’abord des ferrures de l’atelier. Il sait en expliquer le prix alors que les chiffres du loyer lui font honte et restent incomplets. Les conséquences financières du trouble peuvent justifier un accompagnement spécifique. En séparant ses dépenses personnelles des charges communes, Gabin peut demander de l’aide et partager avec Nora ce dont elle a besoin pour décider."
     },
     {
       "number": 4,
       "slug": "gabin-trajet-du-soir",
-      "title": "Repérer ce qui ravive l’envie de jouer après le service",
+      "title": "L’envie de jouer après le travail et les situations qui la réveillent",
       "description": "Gabin décrit au service les moments où l’envie revient et construit avec l’équipe un plan adapté à ses fins de service.",
       "context": "mettre en mots des circonstances vulnérables et choisir une réponse avec l’équipe de soins",
       "topics": [
-        "Envie de rejouer",
-        "Inquiétude pour les dépenses",
-        "Demande de soutien"
+        "Déclencheurs de l’envie de jouer",
+        "Inquiétude financière",
+        "Prévention de la reprise du jeu"
       ],
       "opening": "Le bus s’arrête devant le service d’addictologie alors que Gabin cherche l’exemple qu’il avait prévu de raconter. Il avait écrit « repas froid » dans son téléphone. Cela lui rappelle l’assiette restée dehors, pendant la pause où il essayait de retrouver dans sa tête l’argent manquant. Il se rappelle moins bien le soir d’avant. Il avait terminé tard, attendu le bus, puis retrouvé son téléphone dans sa poche avec l’impression que la journée n’était toujours pas finie.\n\nLe rendez-vous commence avec une question sur la semaine qui vient. Gabin parle d’abord du tableau pour le loyer et du jour où il doit écrire à Nora. L’intervenante lui demande s’il y a un moment où ce sera plus difficile d’attendre la réponse. Il dit qu’il connaît surtout la fin des services où tout le monde part vite. Il est encore debout, mais il n’a plus de repas à envoyer ni de collègue à appeler. Il se rappelle aussi que l’envie est revenue une fois en pleine journée, après un message de paiement. Il n’a pas envie que toute l’explication se résume au dernier bus.\n\nIl pose son téléphone face contre table. Ce qu’il voudrait savoir, c’est à quel moment il peut demander de l’aide. Il avait laissé un message la dernière fois parce qu’il s’était entendu penser au loyer comme à quelque chose qu’il allait régler en jouant. Il voudrait une réponse possible avant d’en arriver à cette phrase.",
       "sections": [
@@ -151,18 +157,20 @@
       "continuity": {
         "choice": "Gabin fixe avec le service un repère pour demander de l’aide et choisit un créneau de suivi qui tient dans sa semaine.",
         "next": "Une sollicitation pendant le repas lui donne un exemple concret pour discuter des moyens de protection."
-      }
+      },
+      "clinical_focus": "Déclencheurs de l’envie de jouer",
+      "clinical_intro": "Gabin s’attend à éprouver l’envie de jouer à l’arrêt de bus après le travail. Un rappel de paiement l’a aussi déclenchée en pleine journée. L’équipe lui demande de décrire la fatigue, l’inquiétude et le moment où l’idée de récupérer les pertes devient pressante. Ce repérage l’aide à choisir quand demander du soutien et quels recours il pourra utiliser à cette heure."
     },
     {
       "number": 5,
       "slug": "gabin-message-au-dessert",
-      "title": "Un message de jeu détourne l’attention de Gabin pendant le dîner",
+      "title": "Quand une sollicitation de jeu suffit à raviver l’envie",
       "description": "Une sollicitation liée au jeu interrompt le dîner. Gabin discute avec le service de protections qu’il peut choisir et vérifier.",
       "context": "réduire les sollicitations et examiner les moyens de protection avec les interlocuteurs compétents",
       "topics": [
         "Sollicitations liées au jeu",
-        "Attention attirée par les notifications",
-        "Choix de ses protections"
+        "Envie de rejouer",
+        "Réduction de l’exposition"
       ],
       "opening": "La part de tarte a cassé dans le plat. Gabin la retourne avec le dos de la cuillère pour que Nora ait quand même le côté doré. Elle lui raconte qu’une personne de son travail cherche des plats pour le repas de rue et lui demande combien de monde l’association prévoit. Gabin prend son téléphone pour retrouver le dernier message de l’atelier. Un autre message s’affiche en haut de l’écran. Il reconnaît une sollicitation liée au jeu avant d’avoir lu la fin.\n\nIl retourne le téléphone sur la table. Nora lui demande si l’atelier a répondu. Il dit qu’il n’a pas regardé et reprend sa cuillère. Il sait encore où la notification s’afficherait s’il rallumait l’écran. L’idée de retourner voir le message lui prend une partie de ce qu’elle vient de lui dire. Il lui demande de répéter le nom de la personne qui cherchait des plats. Nora le lui redonne. Cette fois, il l’écrit sur le carton du dessert.\n\nAu service, ils ont déjà parlé des soirs où Gabin attend le bus. Il n’avait pas cité les messages qui arrivent au milieu d’une soirée qu’il avait envie de passer autrement. Il ne sait pas lesquels il peut faire cesser ni ce qu’un dispositif de protection lui laisserait faire avec son téléphone. Nora doit repartir dans une heure et il avait envie de rester à table jusque-là. Il pourrait utiliser le contact du service pour poser une question précise. Il cherche d’abord l’information sur le repas avec elle, sur le carton qu’ils ont devant eux.",
       "sections": [
@@ -187,27 +195,29 @@
       "continuity": {
         "choice": "Gabin choisit de réduire des sollicitations après en avoir parlé au service et garde ses accès sous sa responsabilité.",
         "next": "À l’atelier, la question des ferrures l’oblige à revoir le nombre de chaises avec l’association."
-      }
+      },
+      "clinical_focus": "Envie déclenchée par une sollicitation",
+      "clinical_intro": "Au dîner, Gabin retourne son téléphone dès qu’il reconnaît la notification. Son attention revient pourtant à l’écran et il demande à Nora de répéter. Une sollicitation liée au jeu peut réveiller l’envie pendant une activité à laquelle la personne tient. L’équipe aide Gabin à examiner les protections qui réduisent cette exposition et à choisir celles qu’il souhaite utiliser."
     },
     {
       "number": 6,
       "slug": "gabin-liste-a-la-craie",
-      "title": "Revoir ses engagements pour garder sa place à l’atelier",
+      "title": "Revoir un engagement quand le jeu a réduit ses moyens",
       "description": "L’association attend le nombre de chaises. Gabin propose une contribution qui respecte les moyens de l’atelier et son budget.",
       "context": "adapter le projet du repas de rue aux ressources disponibles et conserver une place choisie dans le quartier",
       "topics": [
-        "Engagements à sa mesure",
-        "Place dans le groupe",
-        "Choix de ce qu’on partage"
+        "Retentissement sur les loisirs",
+        "Honte de décevoir",
+        "Participation sociale"
       ],
-      "opening": "Le tableau de l’atelier a gardé la liste du cours de couture. Sous « ourlets », quelqu’un a écrit « chaises » et tracé huit bâtons. Gabin arrive avec la chaise du premier soir et un sac de tasseaux. Il sait ce qu’il pourrait fabriquer avec le bois et les ferrures déjà disponibles. Pour les dernières chaises, il faudrait acheter les pièces. Il n’a encore dit à personne qu’il avait mis cette dépense en attente après le rendez-vous budgétaire.\n\nLa bénévole qui coordonne l’atelier lui annonce qu’un habitant peut prêter du mobilier. Elle a besoin de savoir combien lui demander. Gabin ouvre le sac, en sort deux tasseaux et commence à les aligner sur l’établi. Il lui serait agréable de répondre que le quartier peut compter sur tout ce qu’il avait proposé. Il voit déjà la photo des huit chaises, à côté des plats apportés par les voisins. Il a aussi promis à l’équipe de la cuisine de passer plus tôt jeudi pour revoir le rangement des plaques.\n\nLa bénévole lui laisse le temps de terminer son calcul. Elle dit qu’elle peut faire déplacer les chaises prêtées si on les réserve cette semaine. Gabin compte de nouveau le matériel disponible. Sur le tableau, les huit bâtons viennent probablement d’une estimation qu’il a lancée lui-même. Il pose le morceau de craie devant la bénévole. Il voudrait lui proposer quatre chaises et demander ce que ça changerait pour elle.",
+      "opening": "Le tableau de l’atelier a gardé la liste du cours de couture. Sous « ourlets », quelqu’un a écrit « chaises » et tracé huit bâtons. Gabin arrive avec la chaise du premier soir et un sac de tasseaux. Il sait ce qu’il pourrait fabriquer avec le bois et les ferrures déjà disponibles. Pour les dernières chaises, il faudrait acheter les pièces. Il n’a encore dit à personne qu’il avait mis cette dépense en attente après le rendez-vous budgétaire.\n\nLa bénévole qui coordonne l’atelier lui annonce qu’un habitant peut prêter du mobilier. Elle a besoin de savoir combien lui demander. Gabin ouvre le sac, en sort deux tasseaux et commence à les aligner sur l’établi. Il lui serait agréable de répondre que le quartier peut compter sur tout ce qu’il avait proposé. Il voit déjà la photo des huit chaises, à côté des plats apportés par les voisins. Il a aussi promis à l’équipe de la cuisine de passer plus tôt jeudi pour revoir le rangement des plaques.\n\nLa bénévole lui laisse le temps de terminer son calcul. Elle dit qu’elle peut faire déplacer les chaises prêtées si on les réserve cette semaine. Il sent l’embarras monter à l’idée de corriger le nombre devant la bénévole. Promettre huit chaises serait agréable quelques minutes. Après, il lui faudrait répondre de la dépense. Gabin compte de nouveau le matériel disponible. Sur le tableau, les huit bâtons viennent probablement d’une estimation qu’il a lancée lui-même. Il pose le morceau de craie devant la bénévole. Il voudrait lui proposer quatre chaises et demander ce que ça changerait pour elle.",
       "sections": [
         {
           "heading": "Garder un projet à la mesure du budget",
           "text": "Les conséquences du jeu peuvent toucher les dépenses essentielles et les activités auxquelles une personne tient. Un appui budgétaire peut aider à préciser la marge disponible pour ces activités. Gabin sait quels achats il a suspendus et ce qui lui reste à confirmer pour le loyer. Dans l’atelier, il dispose de bois, d’un nombre limité de ferrures et de deux créneaux. Ces éléments lui permettent de proposer une contribution sans faire dépendre le repas d’argent dont il ignore encore la disponibilité. Le projet garde son intérêt même si une partie des chaises doit être empruntée."
         },
         {
-          "heading": "Reprendre les engagements en commun",
+          "heading": "Participer avec un engagement que l’on peut tenir",
           "text": "Gabin peut dire ce qu’il pourra livrer et quand il aura besoin de confirmer l’état des chaises. L’association peut expliquer les conditions du prêt et refuser une solution si elle laisse encore trop de travail à répartir. Leurs échanges portent sur les moyens, le temps et les responsabilités. Gabin choisit s’il souhaite aussi expliquer pourquoi il revoit la dépense. L’atelier a surtout besoin de savoir ce qu’il peut prévoir.\n\nIls peuvent garder plusieurs manières de participer. Gabin sait repérer l’espace nécessaire entre deux tables de service. S’il manque un créneau pour monter les dernières chaises, cette compétence peut aussi être utile, à condition que ce soit un accord et que cela tienne dans son horaire."
         }
       ],
@@ -223,18 +233,20 @@
       "continuity": {
         "choice": "Gabin confirme quatre chaises, participe à la répartition du travail et garde les ferrures supplémentaires hors de son budget.",
         "next": "À la colocation, Nora lui demande de revoir la façon dont ils organisent les achats en attendant de clarifier le loyer."
-      }
+      },
+      "clinical_focus": "Retentissement sur les activités choisies",
+      "clinical_intro": "Gabin aimerait fabriquer les huit chaises qu’il a laissé espérer. Les pertes et le retard du loyer ont changé ce qu’il peut consacrer à l’atelier, et le dire lui coûte. Les dommages du jeu peuvent se propager jusqu’aux loisirs et au lien social. Un projet adapté à ses ressources permet à Gabin de tenir un engagement réel avec les voisins."
     },
     {
       "number": 7,
       "slug": "gabin-deux-paniers",
-      "title": "Poser des limites sur les dépenses partagées en colocation",
+      "title": "Après les pertes, quand une limite financière est vécue comme un rejet",
       "description": "Nora propose de séparer certaines courses le temps de clarifier le loyer. Gabin et elle précisent les dépenses qu’ils veulent encore partager.",
       "context": "s’accorder sur les achats communs et protéger les moyens de chacun dans la colocation",
       "topics": [
-        "Limites financières",
-        "Accord entre proches",
-        "Autonomie des colocataires"
+        "Peur du rejet",
+        "Retentissement sur la confiance",
+        "Protection financière des proches"
       ],
       "opening": "Dans l’entrée, Nora a mis son panier à côté du cabas qu’ils utilisent d’habitude pour les courses. Elle vient d’acheter de quoi déjeuner au travail pendant trois jours. Gabin ouvre le frigo et cherche si elle a pris les tomates qu’il avait notées la veille. Elle lui dit qu’elle a payé ses courses seule. Pour le reste, elle aimerait revoir leur liste avant qu’ils passent au magasin. La phrase est courte. Gabin entend d’abord qu’elle veut arrêter de faire des repas avec lui.\n\nIls reviennent à la feuille du loyer. Le premier versement est arrivé. Pour l’autre, Gabin a encore une information à vérifier avec la conseillère. Nora dit qu’elle ne peut pas compter sur cet argent pour l’instant. Elle a réservé ce qu’il lui faut pour ses factures et veut garder cette somme disponible. Gabin pense lui proposer de faire toutes les courses cette semaine. Il s’arrête avant de le dire. La dernière fois, il a voulu répondre à une inquiétude avec un engagement dont il ne connaissait pas le coût.\n\nSur la table, il reste les deux assiettes du matin. Il demande à Nora si elle veut toujours qu’ils préparent quelque chose pour le repas de rue. Elle dit qu’elle compte apporter un plat et qu’elle aimerait décider elle-même ce qu’elle achète pour le faire. Gabin reprend la liste des tomates. Il peut garder l’idée de cuisiner avec elle et lui demander quelles dépenses ils sont encore d’accord pour mettre en commun.",
       "sections": [
@@ -259,18 +271,20 @@
       "continuity": {
         "choice": "Ils conviennent d’un achat commun et séparent les autres dépenses de la semaine, avec un nouveau point pour le loyer.",
         "next": "Le soir d’une fermeture imprévue, Gabin essaie d’utiliser le plan sans compter sur la disponibilité de Nora."
-      }
+      },
+      "clinical_focus": "Peur du rejet après les pertes",
+      "clinical_intro": "Nora veut payer ses courses séparément. Gabin entend d’abord que sa colocataire ne souhaite plus cuisiner avec lui et il est tenté de promettre de tout régler. Les pertes peuvent fragiliser la confiance dans un foyer. En distinguant l’accord sur l’argent et le plaisir de partager un repas, ils peuvent parler de la blessure ressentie et décider de ce que chacun est prêt à assumer."
     },
     {
       "number": 8,
       "slug": "gabin-dernier-bac",
-      "title": "Demander de l’aide quand l’envie de jouer revient tard le soir",
+      "title": "Prévenir la reprise du jeu quand plusieurs déclencheurs se cumulent",
       "description": "Après une fermeture tardive, Gabin retrouve l’envie de jouer. Il utilise le repère choisi avec le service et revoit l’horaire qui lui convient.",
       "context": "essayer un plan de soutien après une fermeture tardive et préciser ce qu’il faut revoir avec l’équipe",
       "topics": [
-        "Envie de rejouer",
-        "Demande de soutien",
-        "Limites de la disponibilité d’un proche"
+        "Cumul des déclencheurs",
+        "Envie de rattrapage",
+        "Plan de soutien"
       ],
       "opening": "Le dernier bac est à sa place, mais Gabin retourne une fois dans la réserve parce qu’il croit avoir oublié la porte du fond. En revenant, il trouve le couloir vide. La livraison du matin a été décalée et son équipe a fini bien plus tard que prévu. Il avait écrit à la bénévole qu’il passerait à l’atelier pour vérifier une chaise. Il est déjà trop tard pour prendre le bus qui le dépose devant la salle. Il lui envoie un message depuis le vestiaire. Elle répond qu’elle laissera le matériel dans le coin prévu.\n\nSur le quai, il voit le rappel du prochain versement. Il pensait arriver à l’atelier avant de regarder ses comptes. Il aimerait tout reprendre ce soir, y compris ce qu’il ne peut pas vérifier avant demain. L’envie de jouer revient avec la même idée qu’à la pause de l’autre jour. Il comprend ce qu’il cherche au moment où il commence à se demander comment rentrer avec une meilleure nouvelle.\n\nNora a prévenu qu’elle travaille et qu’elle gardera son téléphone au vestiaire. Gabin ouvre sa note sur le trajet. Le numéro indiqué est encore bon. Il se souvient qu’il était convenu de laisser un message si le service habituel était fermé et qu’un autre recours figure sur la même page selon la situation. Sur le quai, il n’a pas besoin de décider à quelle heure Nora va terminer. Il voudrait surtout se rappeler les mots qu’il avait employés au rendez-vous.",
       "sections": [
@@ -295,18 +309,20 @@
       "continuity": {
         "choice": "Gabin laisse un message au service et reporte la vérification de la chaise à un moment où l’atelier est ouvert.",
         "next": "Une autre semaine, il rejoue et doit décider à qui en parler et quelles conséquences annoncer."
-      }
+      },
+      "clinical_focus": "Cumul de situations vulnérables",
+      "clinical_intro": "La fermeture tardive prive Gabin de son passage à l’atelier. Sur le quai, un rappel de versement ranime l’idée de rejouer pour rapporter une meilleure nouvelle. Son plan de soutien lui donne un contact à mobiliser même quand Nora travaille. Cette soirée lui fournit un exemple concret à revoir avec l’équipe, notamment sur le rôle des imprévus et l’accès à une aide en dehors des horaires habituels."
     },
     {
       "number": 9,
       "slug": "gabin-feuille-a-mettre-a-jour",
-      "title": "Après avoir rejoué, Gabin reprend contact avec le service",
+      "title": "Reprendre contact avec l’équipe après avoir rejoué",
       "description": "Gabin a rejoué. Il reprend contact avec le service et met à jour ce que Nora doit savoir pour les dépenses communes.",
       "context": "demander de nouveau du soutien après avoir rejoué et annoncer les conséquences qui touchent la colocation",
       "topics": [
         "Reprise du jeu",
-        "Demande de soutien",
-        "Parler des conséquences à un proche"
+        "Honte des pertes",
+        "Retour rapide vers le suivi"
       ],
       "opening": "La chaise attend sur le tapis de l’entrée. Gabin l’a rapportée de l’atelier pour reprendre une vis avant de la rendre. Au matin, il la déplace juste assez pour ouvrir la porte. Nora lui avait demandé de lui envoyer le montant du prochain versement avant son départ. Il s’assoit sur le bord de la chaise, se lève parce qu’elle n’est pas prête à servir et va chercher la feuille qu’ils avaient pliée.\n\nLes semaines précédentes, ils avaient réussi à préciser plusieurs dépenses et les chaises prêtées étaient arrivées à l’atelier. Gabin avait parlé au service du retour tardif et repris avec l’intervenante les moments où il voulait demander un appui. La veille, il a joué de nouveau. Au moment où il ouvre ses comptes, il sait qu’une partie de la somme qu’il prévoyait pour le foyer n’est plus disponible. Il se rappelle l’avoir comptée comme si rien ne pouvait changer avant le virement.\n\nIl commence à taper « Il y a un retard ». Il a déjà écrit ces mots au début du mois et sait ce qu’ils laissaient Nora dans l’obligation de deviner. Cette fois, il voudrait lui dire ce qui manque et ce qu’il doit encore vérifier. Il se demande aussi s’il peut reprendre contact avec le service avant le rendez-vous prévu. Sur la chaise, la vis desserrée bouge quand il passe la main. Il met la chaise de côté et rapproche la feuille.",
       "sections": [
@@ -331,18 +347,20 @@
       "continuity": {
         "choice": "Gabin demande de revenir rapidement vers le service et met à jour les seules informations qu’il peut confirmer pour Nora.",
         "next": "Le soir, sa détresse s’accentue et le besoin d’aide devient plus pressant que la discussion financière."
-      }
+      },
+      "clinical_focus": "Reprise du jeu et honte",
+      "clinical_intro": "Après plusieurs semaines où il gérait mieux ses dépenses, Gabin a rejoué. En retrouvant la somme manquante, il est tenté d’écrire le même message vague qu’au début. La honte peut rendre un nouveau contact difficile. Un accès rapide au suivi permet d’examiner ce qui s’est passé, de revoir les protections et de s’occuper des conséquences concrètes pour le foyer."
     },
     {
       "number": 10,
       "slug": "gabin-lumiere-du-couloir",
-      "title": "Gabin dit à Nora qu’il a peur de se faire du mal",
+      "title": "La détresse aiguë après une reprise du jeu",
       "description": "Quand Gabin dit qu’il a peur de se faire du mal, Nora l’aide à demander un appui urgent. La discussion sur le loyer attendra.",
       "context": "mobiliser une aide urgente quand la sécurité devient une préoccupation immédiate",
       "topics": [
         "Détresse aiguë",
-        "Expression d’une peur",
-        "Appui urgent"
+        "Exprimer un risque pour soi",
+        "Relais urgent"
       ],
       "opening": "La lumière du couloir est restée allumée. Nora revient avec le plat qu’elle a rapporté de chez une collègue et doit passer de côté pour éviter la chaise. Gabin est assis par terre de l’autre côté de la porte. Il lui dit qu’il allait ranger la chaise et se déplace pour lui faire de la place. Sur le meuble, le papier des dépenses est encore plié. Nora avait prévu d’en parler après avoir dîné. Elle enlève son manteau et lui demande s’il veut s’asseoir avec elle.\n\nDepuis le matin, Gabin a laissé un message au service et reçu un créneau. Il a aussi confirmé à son collègue l’heure de la première livraison du lendemain. Maintenant, il a du mal à imaginer jusqu’à ce moment. Il entend la minuterie de l’immeuble et attend que la lumière s’éteigne. Elle se rallume quand Nora fait un pas. Il voudrait lui expliquer qu’il a peur de ce qu’il pourrait faire s’il restait seul, mais il commence par parler du retard de loyer.\n\nNora pose le plat sur le meuble et lui demande ce qui l’inquiète pour ce soir. Il dit qu’il a peur de se faire du mal. Cette phrase vient plus vite que celle qu’il essayait de préparer sur l’argent. Il lui demande de rester pendant qu’ils appellent quelqu’un. Nora rapproche son téléphone. Elle demande s’il veut dire lui-même la première phrase ou s’il préfère qu’elle la dise pour lui.",
       "sections": [
@@ -367,18 +385,20 @@
       "continuity": {
         "choice": "Gabin dit qu’il craint de se faire du mal et demande à Nora de l’aider à joindre les secours.",
         "next": "Après le relais urgent, il reprend contact avec le service d’addictologie et choisit comment revenir à l’atelier."
-      }
+      },
+      "clinical_focus": "Détresse aiguë et sécurité",
+      "clinical_intro": "Après avoir rejoué, Gabin a du mal à se projeter jusqu’au lendemain et confie à Nora qu’il craint de se faire du mal. Les dommages liés au jeu et une reprise peuvent s’accompagner d’une détresse intense. La peur qu’il exprime motive un appel urgent. Nora reste avec lui le temps de demander un relais, puis les professionnels évaluent la situation."
     },
     {
       "number": 11,
       "slug": "gabin-vis-dans-enveloppe",
-      "title": "Revenir à l’atelier à son rythme après un moment de détresse",
+      "title": "Reprendre ses activités et son suivi après la crise",
       "description": "Après le relais urgent, Gabin reprend son suivi et revient à l’atelier pour une tâche convenue avec l’association.",
       "context": "reprendre une activité choisie après une période difficile et revoir les appuis avec les professionnels",
       "topics": [
-        "Reprise d’une activité choisie",
-        "Respect de ses limites",
-        "Choix du soutien"
+        "Reprise progressive des activités",
+        "Détresse et suivi",
+        "Crainte de décevoir"
       ],
       "opening": "La vis est encore dans l’enveloppe, au nom de personne. Gabin la retrouve posée sur la chaise en revenant à l’atelier. Il avait déposé la chaise la veille près de la porte de la salle. La bénévole l’a mise à côté de l’établi. Elle a aussi sorti une chaise de prêt pour voir si le passage reste assez large. Il s’attendait à devoir expliquer son absence avant de toucher quoi que ce soit. Elle lui demande d’abord s’il a vu où elle a mis les assises.\n\nGabin vient du service d’addictologie. Quelques jours se sont écoulés depuis l’appel avec Nora. Ils ont parlé des suites de l’aide urgente et du prochain contact. Il a demandé qu’on lui redonne le nom du professionnel à joindre si la détresse revient. Il a prévu un autre rendez-vous avec la conseillère pour reprendre la part du loyer qui reste à régler. La bénévole ne sait rien de ces échanges. Il voudrait lui dire qu’il sera présent pour le repas et qu’elle pourra désormais compter sur lui. La chaise et l’enveloppe sont tout ce qu’il a devant lui aujourd’hui.\n\nIl ouvre le rabat et fait glisser la vis sur le bois. Il demande si l’atelier est libre jusqu’à cinq heures. La bénévole a besoin de l’établi un peu avant pour mettre les étiquettes sur les meubles prêtés. Ils disposent d’une demi-heure. Gabin peut vérifier le montage avec elle puis s’arrêter. Il essaie de ne pas transformer cette demi-heure en réponse à tout ce qu’il n’a pas réglé.",
       "sections": [
@@ -403,27 +423,29 @@
       "continuity": {
         "choice": "Gabin reprend rendez-vous avec les professionnels et choisit une tâche courte à l’atelier avant de confirmer sa disponibilité.",
         "next": "Au repas de rue, il voit ce que les quatre chaises ont rendu possible et décide ce qu’il souhaite garder pour la suite."
-      }
+      },
+      "clinical_focus": "Reprise progressive après une crise",
+      "clinical_intro": "Après l’appel d’urgence, Gabin voudrait rassurer les bénévoles en promettant d’être disponible pour tout le repas. Il choisit finalement une tâche courte dont il peut mesurer la charge. Cette reprise d’une activité qui compte pour lui a sa place à côté du suivi clinique et budgétaire. Gabin vérifie aussi avec le service quel contact utiliser si la détresse revient."
     },
     {
       "number": 12,
       "slug": "gabin-assiette-au-bout",
-      "title": "Au repas de rue, Gabin retrouve ses voisins et décide quels appuis garder",
+      "title": "Garder des appuis dans la durée quand l’envie de jouer peut revenir",
       "description": "Au repas de rue, les chaises fabriquées et prêtées trouvent leur place. Gabin choisit ce qu’il garde de son projet et de son suivi.",
       "context": "terminer une contribution au repas de rue tout en gardant des accords de budget et un suivi qu’on peut revoir",
       "topics": [
-        "Lien avec les voisins",
-        "Anticipation de l’envie de rejouer",
-        "Partage des responsabilités"
+        "Suivi dans la durée",
+        "Vulnérabilité à la reprise du jeu",
+        "Soutien financier et social"
       ],
       "opening": "La première personne qui s’assoit pose son sac par terre, découvre qu’il bloque le passage et l’accroche à son dossier. Gabin avance une chaise de quelques centimètres. De l’autre côté de la table, il reconnaît les quatre chaises empruntées à leur couleur. Il a fabriqué les quatre restantes avec le matériel de l’atelier. Il vérifie qu’on peut encore passer avec un plat, puis la bénévole lui demande de prendre une assiette pendant qu’il reste une place.\n\nNora est venue avec la tarte qu’elle avait prévu de préparer. Gabin a fait mijoter les haricots blancs avec les oignons qu’il avait dans le placard. Il s’attendait à ce qu’elle lui demande où mettre la tarte. Elle s’adresse directement à la personne qui organise le dessert et déplace sa chaise pour voir une collègue qui vient d’arriver. À table, Gabin l’entend rire avant de retrouver le nom de la personne qui cherchait des plats au début du mois.\n\nIl reste une échéance à reprendre avec la conseillère. Nora et lui ont convenu du jour où ils referont le point sur les dépenses communes. Depuis son dernier rendez-vous, Gabin a aussi une question pour le service sur les soirs où le rappel de versement et la fermeture tombent ensemble. Il la retrouve en cherchant une photo des ferrures qu’il voulait montrer à un voisin. Il ferme la note. Le voisin vient de lui demander si les chaises peuvent servir lors de la prochaine fête. Gabin lui demande d’abord qui garde le mobilier d’ici là.",
       "sections": [
         {
-          "heading": "Prévoir la suite avec les appuis qui conviennent",
+          "heading": "Réévaluer les protections à mesure que la vie reprend",
           "text": "Un suivi du trouble lié aux jeux d’argent peut évoluer avec les besoins et les préférences de la personne. Le NICE recommande de maintenir l’accès à un accompagnement selon la situation et de discuter du soutien pour les difficultés qui persistent. Gabin souhaite garder le contact clinique et revenir sur les circonstances où l’envie de rattrapage se présente. Il peut indiquer quelles mesures il utilise, celles qu’il voudrait revoir et les horaires où il lui est difficile de joindre le service. Le conseil budgétaire reste un autre rendez-vous qu’il a choisi. La réussite de ce repas et l’état de ses comptes sont deux éléments différents de sa semaine."
         },
         {
-          "heading": "Laisser à chacun sa part du prochain repas",
+          "heading": "Protéger les liens et répartir les responsabilités",
           "text": "Gabin et Nora ont un accord sur les informations utiles à leurs dépenses communes. Chacun peut demander qu’il soit revu si les conditions changent. Nora peut continuer à séparer certains achats, garder son propre appui et choisir de venir au repas pour les personnes qu’elle souhaite y retrouver.\n\nDans l’association, Gabin peut proposer un entretien des chaises qui tienne dans les ressources du groupe et ses disponibilités. Il peut aussi choisir de venir une autre fois sans prendre le mobilier en charge. Il sait déjà ce qu’il aime dans cette fête. Les plats arrivent au fur et à mesure et chacun peut dire avec qui il a envie de s’asseoir."
         }
       ],
@@ -439,7 +461,9 @@
       "continuity": {
         "choice": "Gabin participe au repas, laisse le prochain engagement de mobilier ouvert et garde ses rendez-vous de suivi.",
         "next": "Il reprendra le loyer au jour convenu avec Nora et apportera au service sa question sur les soirs de fermeture."
-      }
+      },
+      "clinical_focus": "Suivi dans la durée",
+      "clinical_intro": "Au repas de rue, Gabin profite des échanges avec ses voisins. Les soirs de fermeture où il reçoit un rappel de paiement restent une situation qu’il souhaite travailler en consultation. L’amélioration du quotidien et la vulnérabilité à l’envie de jouer peuvent évoluer à des rythmes différents. Gabin garde un suivi pour ajuster ses protections et un rendez-vous distinct pour les conséquences financières."
     }
   ]
 }

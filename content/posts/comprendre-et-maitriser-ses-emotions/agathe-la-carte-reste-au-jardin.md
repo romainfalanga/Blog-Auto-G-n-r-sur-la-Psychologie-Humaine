@@ -1,24 +1,26 @@
 ---
-title: Laisser les nouveaux jardiniers décider
-description: Lila et Nora retrouvent la boîte sans suivre Agathe. Elles inscrivent
-  leur premier choix sur un plan qui va devenir celui de leur classe.
+title: Ce qu’une réussite montre quand le langage demande encore un effort
+description: Les futurs jardiniers suivent le plan seuls. Agathe demande encore de
+  préciser une phrase qui contient deux possibilités pour la feuille.
 slug: agathe-la-carte-reste-au-jardin
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Agathe
-sujet: Trouble développemental du langage
+sujet: Retentissement du langage selon les situations
 contexte: Dernier atelier de l’année, le jeudi suivant. Camille a rouvert l’allée
   après l’avoir vérifiée.
 tags:
+- Trouble développemental du langage
 - TDL
 - DLD (developmental language disorder)
-- Laisser les suivants agir
-- Demander une précision
-- Passer à son propre projet
+- Adaptation des consignes
+- Participation choisie
+- Transfert des appuis
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.2
+clinical_diagnosis: Trouble développemental du langage
 episode: 12
 ---
 

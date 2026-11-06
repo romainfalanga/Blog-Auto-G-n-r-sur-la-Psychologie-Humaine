@@ -1,26 +1,28 @@
 ---
-title: Préparer l’atelier avec sa sœur en gardant la main sur ses confidences
+title: Accepter un soutien en gardant ses confidences
 description: Myriam prépare un message pour la maison de quartier. Inaya choisit ce
   qu’elle souhaite dire sur le format de l’atelier et garder pour elle.
 slug: inaya-choisir-ce-qu-elle-partage
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Inaya
-sujet: Trouble dépressif récurrent
+sujet: Soutien choisi pendant la dépression
 contexte: Sur un banc devant la maison de quartier
 tags:
+- Trouble dépressif récurrent
 - Dépression récurrente
-- Vie privée
-- Soutien choisi
 - Consentement à partager
+- Crainte de perdre son autonomie
+- Soutien familial
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A71
+clinical_diagnosis: Trouble dépressif récurrent
 episode: 7
 ---
 
-Les deux sœurs se sont assises sur le banc qui donne sur le panneau d’affichage. Une affiche pour un tournoi d’échecs dépasse sous la leur, encore sans date. Myriam tient son téléphone des deux mains parce qu’elle tape avec les pouces. Elle lit la première phrase du message qu’elle s’apprête à envoyer à Sofia, qui gère la salle : « Les problèmes de santé d’Inaya nous obligent à revoir notre proposition. » Elle s’arrête pour demander si elles écrivent « petit groupe » ou « six personnes ».
+Inaya serre la poignée de son sac quand Myriam lit à voix haute les mots « problèmes de santé ». Les deux sœurs se sont assises devant le panneau où leur affiche est encore sans date. Myriam prépare un message pour Sofia, qui gère la salle, et elle hésite entre « petit groupe » et « six personnes ». Pour Inaya, la question est ailleurs. Elle a confié à sa sœur ce que lui coûtaient les derniers jours et avait choisi de parler à Sofia seulement du format de l’essai.
 
 Inaya pose son sac entre ses chaussures. Elle avait prévu de demander un essai de trente minutes, et du temps pour nettoyer après. Elle n’avait pas prévu que Sofia saurait qu’elle avait revu sa psychiatre. « Elle n’a pas besoin de ça pour choisir les horaires », dit-elle. Myriam lui montre l’écran. Aucun message n’est parti. Elle explique qu’elle a peur de passer pour celle qui change les règles au dernier moment, alors qu’elles parlent de l’atelier depuis des semaines. Inaya aurait aimé que sa sœur commence par cette phrase.
 

@@ -1,23 +1,24 @@
 ---
-title: Se sentir mise en cause quand deux réservations se contredisent
+title: Sentiment d’être visée au milieu d’un vrai problème de réservation
 description: Deux confirmations portent la même heure. Gasparde et Basile essaient
   un registre commun et proposent une solution aux personnes concernées.
 slug: gasparde-deux-confirmations
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gasparde
-sujet: Trouble délirant
+sujet: Sentiment d’être visée
 contexte: Le samedi, dans le local du club
 tags:
 - Trouble délirant
 - Trouble délirant persistant
-- Retentissement sur le quotidien
-- Peur d’être mise en cause
-- Partage des responsabilités
+- Sentiment d’être visée
+- Conviction persécutive
+- Distinguer les faits
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A24
+clinical_diagnosis: Trouble délirant
 episode: 2
 ---
 

@@ -1,23 +1,24 @@
 ---
-title: Dire oui pour cacher son doute, devant le devis
+title: Dyscalculie et peur de montrer son doute devant un devis
 description: Lison trouve les matières des quatre vestes du Quai de nuit. Quand arrive
   la question des quantités, elle propose une autre façon de préparer le devis.
 slug: lison-dire-oui-devant-le-devis
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Lison
-sujet: Trouble développemental des apprentissages avec déficit en mathématiques
+sujet: Appréhension du calcul et évitement
 contexte: Un lundi matin, à la table d’échantillons de l’atelier de costumes.
 tags:
+- Trouble développemental des apprentissages avec déficit en mathématiques
 - Dyscalculie développementale
 - Dyscalculie
-- Effort invisible avec les nombres
-- Peur du regard des autres
-- Temps de préparation
+- Appréhension du calcul
+- Évitement du jugement
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.2
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en mathématiques
 episode: 1
 ---
 
@@ -27,7 +28,7 @@ Nora, sa tutrice, pousse vers elle une demande de devis encore vierge. « On par
 
 Elle connaît cette hâte de s’en sortir avant que quelqu’un attende. Son trouble des apprentissages en mathématiques est connu depuis ses années d’école. Sur une fiche, elle peut s’en tirer en refaisant chaque étape ; à voix haute, dès qu’il faut garder le total en tête et tenir compte du stock, elle sait à quel point elle peut se précipiter. La semaine dernière, elle a encore passé sa pause à vérifier un chiffre qu’on lui avait demandé entre deux portes. Elle retire le formulaire de dessous le sergé. « Oui pour les matières. Pour la quantité, j’aimerais qu’on prenne un moment. Et c’est moi qui voudrais suivre la commande. »
 
-## Ce qu’un résultat juste peut coûter
+## Le coût invisible d’un calcul dans la dyscalculie
 
 Un résultat exact peut demander un temps et un effort qui échappent aux personnes autour. Dans le trouble développemental des apprentissages avec déficit en mathématiques, aussi appelé dyscalculie développementale, les difficultés peuvent concerner le sens des nombres, la mémorisation de résultats usuels, le calcul ou le raisonnement mathématique. Elles ne touchent pas toutes ces dimensions chez tout le monde. Pour Lison, préparer la quantité d’un tissu et choisir comment deux matières accrochent la lumière sollicitent des compétences différentes. Elle peut être précise dans les deux situations, avec des conditions de travail et un effort différents. Son diagnostic a été posé par des professionnels bien avant cette scène. Une erreur de devis, à elle seule, n’aurait rien permis d’établir.
 

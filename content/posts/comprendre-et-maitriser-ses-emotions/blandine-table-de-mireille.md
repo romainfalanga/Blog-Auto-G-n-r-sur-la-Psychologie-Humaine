@@ -1,23 +1,25 @@
 ---
-title: Se souvenir en famille et choisir ce qu’on partage
-description: Pour l’anniversaire de Jeanne, Mireille propose de photographier une
-  partition. Blandine préfère transmettre un souvenir autrement.
+title: Rituels du souvenir et repères cliniques du deuil prolongé
+description: Le rituel familial ravive une émotion. L’évaluation du deuil prolongé
+  tient compte de la durée, du contexte et des effets au quotidien.
 slug: blandine-table-de-mireille
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Blandine
-sujet: Trouble du deuil prolongé
+sujet: Deuil et contexte culturel
 contexte: Au déjeuner familial organisé le jour de l’anniversaire de Jeanne
 tags:
+- Trouble du deuil prolongé
 - Deuil prolongé
 - CIM-11 6B42
-- Chagrin ravivé
+- Deuil ordinaire
 - Rituels de souvenir
-- Intimité du deuil
+- Évaluation du deuil prolongé
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B42
+clinical_diagnosis: Trouble du deuil prolongé
 episode: 3
 ---
 

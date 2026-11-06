@@ -1,23 +1,25 @@
 ---
-title: Quand passer des centimètres aux mètres fait douter du bon
+title: Dyscalculie et effort pour passer des centimètres aux mètres
 description: Sur un devis d’essai, Lison hésite entre deux longueurs proches à l’écrit.
   Elle sépare le besoin de tissu du stock encore inconnu.
 slug: lison-douter-centimetres-metres
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Lison
-sujet: Trouble développemental des apprentissages avec déficit en mathématiques
+sujet: Sens des nombres et conversions
 contexte: Le mardi, à la petite table du fond, sur un formulaire d’essai.
 tags:
+- Trouble développemental des apprentissages avec déficit en mathématiques
 - Dyscalculie développementale
 - Dyscalculie
-- Effort de conversion
-- Repères concrets
-- Doute et vérification
+- Sens des nombres
+- Conversion des unités
+- Appui visuel
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.2
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en mathématiques
 episode: 2
 ---
 
@@ -27,7 +29,7 @@ Le formulaire demande des mètres. Elle écrit « 2,06 », trouve que ça ressem
 
 « Tu peux tenir ici ? » Sur le papier, elle dessine à l’échelle deux longueurs d’un mètre, puis soixante centimètres. Avec deux mètres et six centimètres, le dernier trait serait beaucoup plus court. Lison barre l’essai d’un trait fin. Il y a une seconde où elle ne sait plus où remettre le zéro, comme si la correction devait se faire en effaçant d’abord toute la ligne. Elle garde l’unité visible et réécrit le nombre entier : « 260 cm = 2,60 m ».
 
-## Le nombre a changé d’écriture
+## Sens des nombres et passage d’une unité à l’autre
 
 Changer d’unité oblige à garder la même quantité tout en modifiant la façon de l’écrire. Pour une personne qui a des difficultés durables avec certaines opérations numériques, cette étape peut demander plusieurs vérifications, même si elle connaît la relation entre mètres et centimètres. Lison sait décrire la longueur qu’elle veut sur le rouleau. À l’écrit, deux nombres proches au premier coup d’œil lui donnent deux longueurs très différentes. L’OMS décrit des difficultés variables dans le calcul et le raisonnement mathématique ; la scène ne fait pas d’une inversion de chiffres un signe propre au trouble. L’intérêt de l’essai est de rendre visible l’étape où Lison a besoin d’un appui.
 

@@ -1,23 +1,25 @@
 ---
-title: Au repas des voisins, Selma choisit quand prendre la parole
-description: Au repas des voisins, Selma propose un partage des récoltes. Elle choisit
-  une façon de participer qui lui convient.
+title: La place que prend l’alerte au milieu d’un repas entre voisins
+description: Selma participe au repas du quartier et remarque l’effort que lui coûte
+  une prise de parole imprévue. Elle décide comment proposer le partage.
 slug: selma-choisir-sa-place-table-jardin
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Selma
-sujet: Trouble de stress post-traumatique
+sujet: Retentissement social du TSPT
 contexte: Autour d’une table sous le tilleul des voisins
 tags:
+- Trouble de stress post-traumatique
 - TSPT
 - PTSD
-- Participation à son rythme
-- Expression de ses préférences
-- Appui d’un voisin
+- Retentissement social
+- Sentiment de menace
+- Marge de choix dans un échange
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B40
+clinical_diagnosis: Trouble de stress post-traumatique
 episode: 10
 ---
 
@@ -27,7 +29,7 @@ Elle a choisi la chaise au bout de la table. Elle peut voir l’allée qui ramè
 
 André lui avait demandé s’il pouvait proposer le partage. Ils n’avaient pas décidé où chacun prendrait les légumes. Maud demande s’ils pourraient passer dimanche. Selma aurait envie de dire oui pour garder la conversation simple. Elle regarde la pluie qui commence derrière le tilleul et pense aux personnes qui passeraient sans savoir à quelle heure la serre est ouverte. Elle ouvre le torchon et dit qu’elle voudrait d’abord proposer une heure et un endroit.
 
-## Quand la vie sociale demande des choix
+## Faire place à une conversation quand l’alerte capte l’attention
 
 Le stress post-traumatique peut changer la manière de participer à des échanges ou à des rencontres. Une personne peut avoir besoin de connaître le lieu, de choisir où s’asseoir ou de décider du temps qu’elle y passera. Les préférences dans une rencontre ont également une vie propre. Selma peut aimer parler de ses graines et vouloir garder une partie de la serre privée, quelles que soient ses réactions aux bruits.
 

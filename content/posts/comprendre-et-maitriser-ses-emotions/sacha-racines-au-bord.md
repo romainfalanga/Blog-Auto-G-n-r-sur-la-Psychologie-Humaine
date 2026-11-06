@@ -1,23 +1,25 @@
 ---
-title: Répondre à une question malgré la peur du regard
+title: Répondre à une question alors que le jugement inquiète encore
 description: Le plant s’effrite au premier geste. Sacha prend un instant pour regarder
   la motte, puis montre aux visiteurs ce qui reste contre la paroi.
 slug: sacha-racines-au-bord
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Sacha
-sujet: Trouble d’anxiété sociale
+sujet: Action choisie malgré l’anxiété
 contexte: La graineterie, le samedi de la démonstration
 tags:
+- Trouble d’anxiété sociale
 - Anxiété sociale
 - Phobie sociale
 - Peur d’être observé
-- Attention à l’interlocuteur
+- Attention à la question
 - Prise de parole choisie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B04
+clinical_diagnosis: Trouble d’anxiété sociale
 episode: 10
 ---
 

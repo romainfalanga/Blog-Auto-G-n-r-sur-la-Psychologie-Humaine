@@ -1,13 +1,13 @@
 ---
 title: Solène
 date: '2026-11-06T00:00:00+00:00'
-description: Solène travaille dans un cinéma itinérant. Elle entend vite quand un
-  silence entre deux films permet à une scène de rester en tête. Elle voudrait que
-  les spectateurs des petites salles puissent donner leur avis à leur manière. Quand
-  sa concentration ou son humeur change, elle hésite à en parler à Livia, sa compagne,
-  de peur que la discussion prenne toute la place. Le suivi de son trouble schizoaffectif
-  et les choix du travail s’entrecroisent. Elle cherche des horaires qu’elle puisse
-  tenir tout en gardant son rôle dans la programmation.
+description: Solène, 36 ans, vit avec un trouble schizoaffectif. Elle travaille dans
+  un cinéma itinérant et prépare un programme de courts métrages. À certaines périodes,
+  elle entend son prénom sans trouver d’où vient la voix et une tristesse inhabituelle
+  lui coupe l’élan. Sa psychiatre revient avec elle sur la chronologie des perceptions,
+  de l’humeur et de leurs effets au quotidien. Solène tient à choisir ce qu’elle confie
+  à Livia, sa compagne. Elle veut retrouver une place dans la programmation avec des
+  horaires qui lui laissent de l’énergie pour le reste de sa vie.
 slug: solene
 prenom: Solène
 date_naissance: '1990-01-01'
@@ -17,86 +17,87 @@ nb_articles: 12
 weight: 47
 draft: false
 clinical_code: 6A21
+clinical_diagnosis: Trouble schizoaffectif
 reading_topics:
-- Humeur et perceptions
-- Reconnaître ses signes
-- Écouter ses limites
-- Choisir ce qu’on partage
-- Garder sa place au travail
+- Trouble schizoaffectif
+- Symptômes psychotiques
+- Épisodes de l’humeur
+- Signes de rechute
+- Rétablissement au travail
 ---
 
 <h2 class="parcours-section-title">Parcours de Solène</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-essai-son-deux-ecoutes/">Entendre son prénom sans pouvoir situer la voix</a></h3>
-    <p class="parcours-resume">Au bout de quatre minutes, les mains disparaissent de l’écran et la chaise reste seule au milieu de l’atelier. Voilà ce qui plaît à Solène dans Les Mains du jour : la réparation est terminée, mais le montage laisse à la personne qui regarde le temps de voir que le siège est encore de travers.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-essai-son-deux-ecoutes/">Entendre son prénom dans le silence et douter de ce qu’on a perçu</a></h3>
+    <p class="parcours-resume">Solène entend son prénom dans un silence du film et passe une partie de l’essai à guetter la voix. Une perception inhabituelle peut retenir l’attention même quand l’autre personne ne l’entend pas. Dans le suivi du trouble schizoaffectif, cet instant renseigne surtout s’il est replacé dans sa durée, son contexte et les éventuels changements de l’humeur.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-essai-son-deux-ecoutes/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-cuisine-appeler-equipe/">Parler à sa compagne quand ses perceptions changent</a></h3>
-    <p class="parcours-resume">Livia ressort son tablier de poterie du sac de courses. Une trace de terre cuite s’est incrustée sous la boucle et se détache en poudre sur le plan de travail.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-cuisine-appeler-equipe/">Perte de plaisir et voix inhabituelles dans la même période</a></h3>
+    <p class="parcours-resume">Une voix semble appeler Solène alors que l’ordinateur est fermé. Elle confie aussi à Livia qu’elle a moins de plaisir à sortir et peine à se concentrer. Dans le trouble schizoaffectif, l’équipe a besoin de repérer le moment où les manifestations psychotiques et celles de l’humeur surviennent. Des exemples vécus éclairent ce qui change depuis quelques jours.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-cuisine-appeler-equipe/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-carnet-chronologie-consultation/">Comprendre ce qui relie l’humeur et les perceptions</a></h3>
-    <p class="parcours-resume">La docteure Da Costa demande à Solène si elle souhaite garder le carnet devant elle. Solène le tourne de manière à pouvoir lire les dates sans se pencher. « Si je vous dis que j’ai d’abord cessé d’écouter la radio, est-ce que vous allez écrire que ça a commencé là ? » La question lui est venue dans le bus.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-carnet-chronologie-consultation/">Trouble schizoaffectif et chronologie des symptômes psychotiques et de l’humeur</a></h3>
+    <p class="parcours-resume">Pourquoi la psychiatre trace-t-elle deux lignes sur la même feuille ? L’une suit les perceptions et l’autre les changements de l’humeur. La CIM-11 décrit le trouble schizoaffectif à partir d’exigences cliniques psychotiques et thymiques réunies au cours du même épisode. Solène apprend à situer les événements dont elle se souvient et à laisser ouvertes les dates qui restent incertaines.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-carnet-chronologie-consultation/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-seance-jour-choix-films/">Reprendre un projet après une période difficile</a></h3>
-    <p class="parcours-resume">Célestin pose le plan de la salle des Tilleuls à l’envers. Solène le tourne en gardant un doigt sur la prise qui est la plus éloignée de l’entrée. La mairie leur propose un essai un samedi après-midi, avant de confirmer la date de la séance publique.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-seance-jour-choix-films/">Retour du plaisir pendant une période d’amélioration</a></h3>
+    <p class="parcours-resume">Solène retrouve le goût d’écouter la radio et peut revoir un film en entier. Le trouble schizoaffectif peut comporter des périodes d’amélioration où certains symptômes diminuent ou disparaissent. L’épisode montre ce que cette évolution change pour elle, des petits plaisirs du matin aux choix d’horaires qui lui permettent d’essayer de reprendre un rôle dans le cinéma.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-seance-jour-choix-films/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-tilleuls-reactions-sans-camera/">Le regard des autres quand une caméra tourne</a></h3>
-    <p class="parcours-resume">Il y a trois spectatrices dans la salle des Tilleuls et onze chaises vides. Célestin a renoncé à les ranger pour qu’on puisse comparer la lecture des sous-titres devant et au fond.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-tilleuls-reactions-sans-camera/">Se sentir exposé quand on perd le choix de ce qu’on partage</a></h3>
+    <p class="parcours-resume">Une spectatrice froisse son programme quand Célestin propose de filmer sa réaction. Solène reconnaît l’hésitation de quelqu’un qui a besoin de choisir à qui parler. Dans son suivi du trouble schizoaffectif, pouvoir décider quand Livia entre et garder la première phrase change ce qu’elle se sent libre de dire. Le même souci guide son choix pendant l’essai.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-tilleuls-reactions-sans-camera/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-salle-annulee-deux-appels/">Distinguer un contretemps des signes qui inquiètent</a></h3>
-    <p class="parcours-resume">Le message de la mairie commence par « Nous sommes au regret ». La salle des Tilleuls va servir de cantine pendant les travaux de l’école. L’essai est passé, les affiches ne sont pas encore sorties et il n’y aura pas de séance publique à la date qu’elles avaient proposée.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-salle-annulee-deux-appels/">Une remarque qui semble viser et une tristesse qui précède le contretemps</a></h3>
+    <p class="parcours-resume">Solène est déçue par l’annulation de la salle. Elle remarque que sa tristesse et l’impression qu’une remarque de travail lui était personnellement adressée avaient commencé avant. Dans le trouble schizoaffectif, dater ces changements aide l’équipe à distinguer ce que le contretemps explique et ce qu’elle doit évaluer. Solène peut parler de ces faits dès qu’ils l’inquiètent.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-salle-annulee-deux-appels/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-livia-appel-15/">Réagir à la désorientation soudaine d’un proche</a></h3>
-    <p class="parcours-resume">Le samedi, Livia revient de la boulangerie et trouve Solène assise sur le sol de la cuisine, le dos contre un placard. Elle l’entend dire « je me suis retenue au mur » avant de lui dire bonjour.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-livia-appel-15/">Désorientation soudaine chez une personne suivie pour un trouble psychique</a></h3>
+    <p class="parcours-resume">Quand Solène est prise de vertiges et reconnaît mal sa cuisine, Livia donne au Samu des faits concrets. Un trouble schizoaffectif connu peut faire penser d’abord à une cause psychiatrique. Une confusion soudaine après un malaise demande une évaluation médicale urgente. Livia appelle le 15 pour décrire les symptômes observés et suit les indications des professionnels.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-livia-appel-15/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-bol-fatigue-apres-soins/">Faire une place à la fatigue après les soins</a></h3>
-    <p class="parcours-resume">Livia pose sur la table le bol qu’elle a enfin ramené de l’atelier. L’anse frôle le bois. En se passant le bol, elles se coincent les pouces l’une contre l’autre et rient des précautions qu’elles ont prises pour rien.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-bol-fatigue-apres-soins/">Fatigue après une hospitalisation et peur qu’on y voie une rechute</a></h3>
+    <p class="parcours-resume">Solène redoute que la fatigue qu’elle décrit soit comprise comme le retour de son trouble. Avec un trouble schizoaffectif, l’humeur, le sommeil, les effets possibles d’un traitement et les autres causes de fatigue se discutent en suivi. Le moment où la somnolence apparaît et ce qu’elle empêche dans la journée donnent à sa psychiatre des éléments plus précis.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-bol-fatigue-apres-soins/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-amenagement-horaires-deux-colonnes/">Poser ses limites pour reprendre le travail</a></h3>
-    <p class="parcours-resume">Mireille a ouvert le calendrier sur le jeudi où la médiathèque de la Rive peut les accueillir. La séance commencerait à dix-huit heures trente. La bénévole de l’accueil part avant la fin et personne n’a confirmé le démontage.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-amenagement-horaires-deux-colonnes/">Reprendre son rôle au travail avec une énergie encore fragile</a></h3>
+    <p class="parcours-resume">Solène peut reprendre certaines tâches en journée. Elle redoute qu’un changement d’horaire entraîne aussi la perte de son rôle dans le choix des films. Le trouble schizoaffectif peut affecter l’endurance de façon variable selon les périodes. La discussion porte sur les conditions de la reprise, sur les tâches qu’elle souhaite exercer et sur les informations qu’elle choisit de partager.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-amenagement-horaires-deux-colonnes/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-dernier-rang-sous-titres/">Défendre son choix quand les avis divergent</a></h3>
-    <p class="parcours-resume">Du dernier rang, Célestin annonce « Je n’ai que la fin ». Il se penche un peu vers la gauche, puis se redresse. Sur le mur de la médiathèque, les sous-titres de l’abribus sont plus petits qu’aux Tilleuls.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-dernier-rang-sous-titres/">Peur de paraître incapable quand on a besoin de temps pour décider</a></h3>
+    <p class="parcours-resume">Solène voit le même problème de sous-titres que Célestin et demande quelques minutes pour examiner les solutions. Depuis sa reprise, elle craint que ce temps soit pris pour une perte de compétence. Le récit montre un effet possible du regard porté sur une personne qui vit avec un trouble schizoaffectif. En partageant le constat, l’équipe peut discuter des options avec elle.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-dernier-rang-sous-titres/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-seance-public-retour-oral/">Prendre sa part du travail sans tout porter</a></h3>
-    <p class="parcours-resume">À treize heures trente, Solène reconnaît le groupe de quatre à sa façon de s’attendre à chaque porte. Deux personnes veulent se mettre devant, une autre demande si elle peut s’asseoir près de la sortie.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-seance-public-retour-oral/">Retrouver du plaisir sans se mettre la pression d’aller bien</a></h3>
+    <p class="parcours-resume">À la première séance, Solène retrouve le plaisir d’écouter les réactions du public. Elle sait déjà qui reprendra les tâches quand elle partira. Lors du rétablissement après une période difficile du trouble schizoaffectif, une activité aimée peut redevenir accessible par étapes. Un cadre révisable lui permet d’éprouver ce plaisir et de prendre au sérieux l’effort que lui demande la séance.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-seance-public-retour-oral/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-cartes-suite-tournee/">Écouter des avis différents et décider de la suite</a></h3>
-    <p class="parcours-resume">Au dépôt, Solène vide l’enveloppe des Tilleuls et celle de la médiathèque sur deux tables. La femme au manteau avait écrit « Gardez la chaise au début ». Quelqu’un d’autre, samedi, a demandé si on pouvait laisser plus de silence après ce film.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/solene-cartes-suite-tournee/">Accepter un désaccord au travail après une période de fragilité</a></h3>
+    <p class="parcours-resume">Solène voudrait modifier la séance sans effacer le choix qui lui tient à cœur. Elle sait que Célestin verrait bien les films dans un autre ordre. Vivre avec un trouble schizoaffectif laisse place aux désaccords ordinaires, aux préférences et à l’envie d’essayer quelque chose. Son suivi lui donne aussi un espace distinct pour reparler de ce qui la fragilise.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/solene-cartes-suite-tournee/" class="parcours-link">Lire</a>
   </div>
 </div>

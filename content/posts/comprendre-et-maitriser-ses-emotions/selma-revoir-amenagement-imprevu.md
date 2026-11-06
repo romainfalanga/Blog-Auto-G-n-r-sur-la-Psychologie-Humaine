@@ -1,23 +1,25 @@
 ---
-title: Un changement de salle bouscule les repères de Selma au travail
-description: Un changement de salle déstabilise Selma. Elle utilise le contact prévu
-  et revoit avec l’équipe la façon d’annoncer les imprévus.
+title: Un imprévu réactive l’alerte pendant la reprise du travail de Selma
+description: Une salle déplacée et un bruit de porte coupent Selma dans son élan.
+  Elle se sert du relais convenu pour revoir la reprise.
 slug: selma-revoir-amenagement-imprevu
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Selma
-sujet: Trouble de stress post-traumatique
+sujet: Réactivation du sentiment de menace
 contexte: À l’accueil, avant une matinée de documentation
 tags:
+- Trouble de stress post-traumatique
 - TSPT
 - PTSD
-- Déstabilisation face à un imprévu
-- Besoin de repères
-- Demande d’appui au travail
+- Réactivation de l’alerte
+- Difficulté de concentration
+- Ajustement des aménagements
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B40
+clinical_diagnosis: Trouble de stress post-traumatique
 episode: 9
 ---
 
@@ -27,7 +29,7 @@ Une porte se referme au bout du couloir. Selma perd une partie de la phrase qui 
 
 Livia lui écrit qu’elle attend devant une salle d’un autre bâtiment. Selma pourrait lui demander de venir la chercher. Elle ouvre plutôt le message où le nom de la responsable de la mission est écrit en toutes lettres. Elles avaient convenu qu’en cas d’imprévu, Selma pouvait attendre dans l’espace d’accueil le temps de la joindre. Elle s’assied sur le siège près de la fenêtre et lui envoie une phrase. Elle dit où elle est et demande si elles peuvent reprendre ce qui a changé avant de décider de la matinée.
 
-## Un accord peut avoir besoin d’être revu
+## L’alerte peut revenir dans un environnement qui change
 
 Le retentissement d’un stress post-traumatique peut varier selon les circonstances. Un cadre prévisible peut aider une personne à participer à une activité, et un changement de lieu ou d’interlocuteur peut lui demander plus d’effort. Le NICE inclut le retour à des activités de la vie quotidienne, notamment professionnelles et sociales, parmi les objectifs possibles d’une prise en charge spécialisée. Les effets de ces changements se discutent à partir de l’expérience de la personne.
 

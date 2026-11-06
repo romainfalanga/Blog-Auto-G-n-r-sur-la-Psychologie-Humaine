@@ -1,33 +1,34 @@
 ---
-title: Redouter les repas d’un voyage qu’on a envie de faire
-description: Sur la fiche du voyage, Adèle choisit l’atelier qui l’intéresse. La ligne
-  sur les repas la pousse à demander un entretien à sa professeure.
+title: Quand les textures alimentaires et la peur des repas font renoncer à une sortie
+description: Certaines textures soulèvent le cœur d’Adèle. Son ARFID lui a déjà fait
+  renoncer à une sortie scolaire et elle hésite à s’inscrire au voyage.
 slug: adele-croix-a-cote-du-metier
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Adèle
-sujet: Trouble évitant ou restrictif de la prise alimentaire
+sujet: Restriction alimentaire et retentissement social
 contexte: En classe, au moment de choisir les ateliers du voyage
 tags:
+- Trouble évitant ou restrictif de la prise alimentaire
 - ARFID
 - Trouble de l’alimentation sélective et évitante
-- Sensibilité aux textures
-- Appréhension des repas
-- Demande d’aide
+- Sensibilité sensorielle aux aliments
+- Retentissement sur les sorties
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B83
+clinical_diagnosis: Trouble évitant ou restrictif de la prise alimentaire
 episode: 1
 ---
 
-Sur la photocopie de Mme Roussel, la photo du métier à tisser est presque noire. Adèle la penche malgré elle pour chercher un reflet. Au fond de l’image, derrière les fils tendus, elle distingue une fenêtre coupée par trois montants. Elle prend son crayon et refait les trois barres dans la marge. Son amie Inès se penche : « T’as mis la croix où ? » Adèle montre la visite de l’atelier. Elle veut voir ce que les fils font à la lumière pour dessiner un motif qui change selon le côté où on le regarde.
+Adèle a envie de partir jusqu’au moment où elle lit que les repas se prendront ensemble. Elle se rappelle le haut-le-cœur à la cantine à midi. Elle cherche aussitôt s’il serait possible de faire seulement la visite. Sur la photocopie de Mme Roussel, la photo du métier à tisser est presque noire. Adèle la penche malgré elle pour chercher un reflet. Au fond de l’image, derrière les fils tendus, elle distingue une fenêtre coupée par trois montants. Elle prend son crayon et refait les trois barres dans la marge. Son amie Inès se penche : « T’as mis la croix où ? » Adèle montre la visite de l’atelier. Elle veut voir ce que les fils font à la lumière pour dessiner un motif qui change selon le côté où on le regarde.
 
-Inès retourne la feuille. En gras : « Une nuit au centre. Les repas se prennent ensemble. » Adèle a encore le brouhaha de la cantine dans les oreilles. À midi, elle avait eu besoin de demander de l’aide à l’adulte qu’elle peut aller voir d’habitude. La consistance de ce qui lui était proposé lui soulevait le cœur avant même qu’elle puisse vraiment s’installer. Un camarade avait fait deux fois le tour de leur table en distribuant des serviettes et lui avait demandé si elle attendait quelqu’un. Elle avait dit oui pour qu’il la laisse, puis regretté de devoir surveiller à la fois ce qui se passait à table et ce qu’elle venait d’inventer.
+Inès retourne la feuille. Adèle retrouve la ligne sur les repas, juste au-dessous de celle qui annonce une nuit au centre. Adèle a encore le brouhaha de la cantine dans les oreilles. À midi, elle avait eu besoin de demander de l’aide à l’adulte qu’elle peut aller voir d’habitude. La consistance de ce qui lui était proposé lui soulevait le cœur avant même qu’elle puisse vraiment s’installer. Un camarade avait fait deux fois le tour de leur table en distribuant des serviettes et lui avait demandé si elle attendait quelqu’un. Elle avait dit oui pour qu’il la laisse, puis regretté de devoir surveiller à la fois ce qui se passait à table et ce qu’elle venait d’inventer.
 
 Depuis que l’équipe qui la suit lui a expliqué le trouble évitant ou restrictif de la prise alimentaire, Adèle utilise parfois les initiales ARFID avec sa mère. Ici, Inès a déjà repris la feuille pour chercher le nom du centre. Adèle la laisse finir. L’an dernier, elle a manqué une sortie d’une journée quand les repas étaient restés un point sans réponse. Cette fois, avant que Mme Roussel empile les fiches, elle se lève avec la sienne.
 
-## Ce qui change la vie autour des repas
+## Comment la restriction alimentaire déborde du repas
 
 Dans l’ARFID, les restrictions alimentaires peuvent avoir des effets importants sur la santé physique, sur la vie quotidienne ou sur les deux. Pour certaines personnes, la texture, l’odeur ou d’autres caractéristiques sensorielles rendent la prise alimentaire difficile. Pour d’autres, le manque d’intérêt pour l’alimentation ou la crainte de conséquences pénibles joue davantage. Ce qui met Adèle en difficulté à midi est la consistance de ce qu’on lui propose. Le problème revient au moment de l’inscription : une activité scolaire qui lui plaît reste difficile à envisager tant qu’elle ne sait pas dans quelles conditions se passeront les repas.
 

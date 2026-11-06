@@ -1,23 +1,25 @@
 ---
-title: Choisir quand parler et quand passer le relais devant le public
-description: Le public arrive. Roxane ajuste le micro avec Mme Sorel, puis choisit
-  quand passer le deuxième indice à Zoé.
+title: Prendre la parole en public quand se faire comprendre demande un effort
+description: Une porte et des chaises couvrent la voix de Roxane. Elle reprend sa
+  phrase, puis décide elle-même quand utiliser l’aide convenue.
 slug: roxane-premier-jeton
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Roxane
-sujet: Trouble développemental des sons de la parole
+sujet: Participation orale en public
 contexte: À la médiathèque, pendant les deux passages du public
 tags:
+- Trouble développemental des sons de la parole
 - Trouble du développement des sons de la parole
 - CIM-11 6A01.0
-- Prendre la parole devant le public
-- Choisir quand passer le relais
-- Réagir aux idées du public
+- Effort de parole
+- Ajustement de l’environnement
+- Passage de relais
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.0
+clinical_diagnosis: Trouble développemental des sons de la parole
 episode: 11
 ---
 

@@ -1,23 +1,25 @@
 ---
-title: Se réorienter quand un lieu familier change
+title: Désorientation quand l’entrée d’un lieu familier change
 description: Un panneau a déplacé l’entrée du foyer. Armand choisit comment retrouver
   Nadia et où s’installer pour lui présenter son projet.
 slug: armand-porte-du-foyer
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Armand
-sujet: Démence due à la maladie d’Alzheimer
+sujet: Désorientation dans un lieu connu
 contexte: Jeudi à dix heures, devant le foyer communal puis à la bibliothèque
 tags:
+- Démence due à la maladie d’Alzheimer
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Repères dans l’espace
-- Recevoir de l’aide
-- Demander une indication
+- Désorientation spatiale
+- Repères visuels
+- Autonomie au quotidien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D80
+clinical_diagnosis: Démence due à la maladie d’Alzheimer
 episode: 2
 ---
 
@@ -27,7 +29,7 @@ Il recule sous l’auvent pour laisser passer un livreur. Son carton gris est re
 
 La table de prêt donne sur l’accueil. Une classe y dépose des livres au moment où Armand sort sa chemise. Il sait quelle partie du canal il veut montrer, mais à chaque « bonjour » du comptoir il repart du début. Nadia lui propose le bout de la grande table, derrière le rayon des romans. Il la suit et s’assoit du côté d’où il voit la porte verte. Il se met à rire en découvrant une tache de café sur le plan. « On pourra la dater, celle-là », dit-il.
 
-## Les repères dépendent aussi du lieu
+## Ce que la désorientation change dans un lieu familier
 
 Une activité familière peut devenir plus difficile quand les repères du lieu changent ou que plusieurs informations arrivent en même temps. Le parcours habituel d’Armand et le nom qu’il a en tête lui servent encore. Devant une entrée déplacée, le panneau lui demande d’associer une flèche, un service et un trajet dont il ne voit pas encore la fin. Au comptoir, les interruptions s’ajoutent à ce qu’il essaie de raconter. Ces difficultés sont concrètes même si, quelques minutes plus tard, la conversation se déroule mieux à une autre table.
 

@@ -1,23 +1,25 @@
 ---
-title: Défendre son idée quand on monte un livre à deux
-description: De retour à la médiathèque, Irène retrouve la fenêtre peinte par Ilyès.
-  Ils discutent des indications à laisser aux lecteurs.
+title: Garder le temps de donner son avis pendant un mouvement
+description: Ilyès attend pendant que les mains d’Irène bougent. Elle retrouve sa
+  place dans le désaccord sur les flèches et propose un essai.
 slug: irene-defendre-une-idee-au-montage
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Irène
-sujet: Trouble des mouvements stéréotypés
+sujet: Prise de parole après une interruption
 contexte: Dans la salle du conte, au premier atelier depuis le rendez-vous de pédiatrie
 tags:
+- Trouble des mouvements stéréotypés
 - Trouble des mouvements stéréotypiques
 - CIM-11 6A06
-- Confiance retrouvée
-- Désaccord entre partenaires
-- Place laissée à la curiosité
+- Mouvements répétitifs
+- Maintien du tour de parole
+- Environnement adapté
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A06
+clinical_diagnosis: Trouble des mouvements stéréotypés
 episode: 7
 ---
 
@@ -25,7 +27,7 @@ Mylène leur a réservé une table dans la salle du conte. Elle a reçu le messa
 
 Ilyès sort ensuite une bande avec une flèche qui part vers le canal. Il voudrait en ajouter une à chaque page. Irène lui demande où ils laisseront la fausse impasse, celle qu’Aya avait cru reconnaître au CDI. « Les gens vont se tromper », dit-il. Irène trouve que ce serait dommage qu’ils ne puissent jamais se tromper. La fenêtre qu’il a dessinée apparaît justement quand on cherche un autre passage.
 
-Ilyès attend sa réponse pendant que ses mains bougent. La trousse est à sa droite et la flèche est encore sur la table quand elle reprend le feutre. Elle entend Mylène ouvrir la porte du local voisin pour chercher du papier. Personne n’a avancé à sa place. Irène trace au brouillon deux dessins presque pareils et les pousse vers Ilyès : il pourra essayer chacun de son côté, à la vitesse qu’il voudra.
+Ilyès attend sa réponse pendant que ses mains bougent. La trousse est à sa droite et la flèche est encore sur la table quand elle reprend le feutre. Elle entend Mylène ouvrir la porte du local voisin pour chercher du papier. Personne n’a avancé à sa place. Elle avait hésité à revenir après l’histoire du chariot. Cette fois, quand elle reprend son feutre, elle retrouve aussi l’objection qu’elle voulait expliquer. Irène trace au brouillon deux dessins presque pareils et les pousse vers Ilyès : il pourra essayer chacun de son côté, à la vitesse qu’il voudra.
 
 ## Le temps de répondre à la question posée
 

@@ -1,22 +1,24 @@
 ---
-title: La peur d’entendre un verdict au premier rendez-vous après l’hôpital
+title: Trouble psychotique aigu et transitoire et sens d’un diagnostic
 description: Diane redoute le mot que va employer sa psychiatre. Elle veut comprendre
   ce que l’équipe a observé et ce qui reste à discuter.
 slug: diane-nom-trouble-premier-rendez-vous
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Diane
-sujet: Trouble psychotique aigu et transitoire
+sujet: Évaluation du premier épisode
 contexte: Au premier rendez-vous de suivi, deux jours après la sortie de Diane
 tags:
+- Trouble psychotique aigu et transitoire
 - Psychose aiguë et transitoire
-- Peur d’être définie par un diagnostic
-- Comprendre ce que l’équipe a observé
-- S’accorder sur les prochaines étapes
+- Évaluation du premier épisode
+- Évolution rapide des symptômes
+- Peur du diagnostic
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A23
+clinical_diagnosis: Trouble psychotique aigu et transitoire
 episode: 2
 ---
 
@@ -26,7 +28,7 @@ La psychiatre l’a vue à l’hôpital, au début et quelques jours avant sa so
 
 Diane dit oui, puis pose le ticket sur la table. La psychiatre lui dit que l’épisode évalué correspond à un trouble psychotique aigu et transitoire. Elle lui laisse le temps de répondre. Diane retient surtout le dernier mot. « Ça veut dire que vous savez déjà combien de temps j’aurai besoin de vous voir ? » Elle l’entend sortir d’une seule traite et se demande pourquoi elle s’est donné tant de mal à le faire tenir sur son ticket.
 
-## Ce que l’équipe a suivi dans le temps
+## Comment l’équipe a évalué le trouble psychotique aigu et transitoire
 
 Un diagnostic s’appuie sur l’ensemble de l’évaluation et peut être réexaminé au fil du suivi. La psychiatre rappelle que le changement s’est installé en quelques jours et que les manifestations ont varié rapidement, puis se sont apaisées pendant le séjour. Elle explique que l’examen médical, les échanges sur les médicaments et les substances et les entretiens avec l’équipe ont aussi servi à chercher d’autres explications. Dans la CIM-11, le terme « transitoire » renvoie à la durée limitée de l’épisode évalué. Il ne fixe ni la durée du suivi, ni la suite pour Diane. La docteure Lenoir distingue ce que l’équipe a observé de ce qu’elle continuera à vérifier.
 

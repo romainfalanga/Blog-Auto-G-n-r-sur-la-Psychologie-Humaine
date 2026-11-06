@@ -1,23 +1,25 @@
 ---
-title: Reprendre une question au cabinet d’orthophonie
-description: En orthophonie, Agathe choisit comment reprendre un échange quand les
-  questions se succèdent trop vite.
+title: Distinguer ce qu’on n’a pas compris du mot qu’on cherche
+description: Agathe reprend deux questions avec son orthophoniste. Pour l’une, le
+  sens lui manque. Pour l’autre, elle voit le lieu et cherche comment le nommer.
 slug: agathe-laquelle-dabord
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Agathe
-sujet: Trouble développemental du langage
+sujet: Langage réceptif et expressif
 contexte: Au rendez-vous d’orthophonie déjà prévu, après la présentation en classe.
 tags:
+- Trouble développemental du langage
 - TDL
 - DLD (developmental language disorder)
-- Distinguer comprendre et dire
-- Reformuler une question
-- Choisir ce qu’on partage
+- Orthophonie
+- Recherche des mots
+- Clarification de la question
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.2
+clinical_diagnosis: Trouble développemental du langage
 episode: 4
 ---
 

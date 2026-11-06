@@ -1,23 +1,25 @@
 ---
-title: Choisir ce qu’on garde de sa voix au micro
-description: Au micro, Owen choisit la prise qui donne le ton juste à son personnage
-  et précise ce que le club peut en faire.
+title: Pourquoi deux prises de la même phrase peuvent sonner différemment
+description: Owen dit une même phrase avec deux rythmes différents. Il choisit la
+  prise qui sert le ton de son personnage.
 slug: owen-le-voyant-rouge
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Owen
-sujet: Trouble développemental de la fluence de la parole
+sujet: Variabilité de la fluence
 contexte: choisir des prises pour leur jeu et fixer les limites de leur utilisation
 tags:
+- Trouble développemental de la fluence de la parole
 - Bégaiement
 - Bégaiement développemental
-- Pression du temps
-- Choix de sa façon de parler
-- Limites de partage
+- Blocage de parole
+- Pression à parler
+- Écoute de sa voix
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.1
+clinical_diagnosis: Trouble développemental de la fluence de la parole
 episode: 6
 ---
 

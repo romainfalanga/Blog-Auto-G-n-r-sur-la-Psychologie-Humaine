@@ -1,23 +1,24 @@
 ---
-title: Quand il faut relire chaque inscription
+title: L’effort caché derrière une lecture juste des inscriptions
 description: Au volley, les réponses se croisent sur le téléphone. Célian propose
   une liste commune avant de compter les parts.
 slug: celian-case-des-absents
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Célian
-sujet: Trouble développemental des apprentissages avec déficit en lecture
+sujet: Lecture exacte mais coûteuse
 contexte: Dans les gradins du gymnase après l’entraînement du mardi.
 tags:
+- Trouble développemental des apprentissages avec déficit en lecture
 - Dyslexie
 - Trouble développemental de la lecture
-- Effort de lecture
-- Autonomie
-- Écrit collectif
+- Coût cognitif de la lecture
+- Repérage de l’information
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.0
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en lecture
 episode: 2
 ---
 

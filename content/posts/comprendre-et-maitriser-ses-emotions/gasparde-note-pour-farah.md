@@ -1,23 +1,24 @@
 ---
-title: Demander du soutien quand l’inquiétude empiète sur le sommeil
+title: Mesurer le retentissement d’une conviction sur les nuits et les liens
 description: Au rendez-vous de suivi, Gasparde parle à Farah des nuits et des parties
   de tennis qu’elle veut retrouver.
 slug: gasparde-note-pour-farah
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gasparde
-sujet: Trouble délirant
+sujet: Retentissement quotidien
 contexte: Le mardi matin, au centre où Gasparde est suivie
 tags:
 - Trouble délirant
 - Trouble délirant persistant
-- Retentissement sur le quotidien
-- Choisir ses appuis
-- Décision partagée en suivi
+- Retentissement quotidien
+- Préoccupation persistante
+- Suivi du trouble délirant
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A24
+clinical_diagnosis: Trouble délirant
 episode: 6
 ---
 

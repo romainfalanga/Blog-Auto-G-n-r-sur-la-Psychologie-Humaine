@@ -1,23 +1,25 @@
 ---
-title: Quand un changement à table ravive l’appréhension
+title: Une modification du repas peut faire revenir les difficultés le même jour
 description: Une salle fermée change l’organisation du dîner. Adèle sollicite l’adulte
   de relais et utilise la possibilité qu’ils avaient préparée.
 slug: adele-les-chaises-ajoutees
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Adèle
-sujet: Trouble évitant ou restrictif de la prise alimentaire
+sujet: Retour des difficultés alimentaires
 contexte: Au centre d’hébergement, au moment du dîner
 tags:
+- Trouble évitant ou restrictif de la prise alimentaire
 - ARFID
 - Trouble de l’alimentation sélective et évitante
-- Inconfort sensoriel
-- Appréhension soudaine
-- Demande de soutien
+- Variabilité selon le contexte
+- Tension avant le repas
+- Appui convenu avec l’équipe
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B83
+clinical_diagnosis: Trouble évitant ou restrictif de la prise alimentaire
 episode: 9
 ---
 

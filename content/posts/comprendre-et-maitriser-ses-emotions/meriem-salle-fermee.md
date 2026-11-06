@@ -1,23 +1,25 @@
 ---
-title: Pourquoi on repousse un appel quand un imprévu inquiète
-description: Une fuite ferme la salle de couture. Meriem et Ève doivent décider quoi
-  maintenir, alors que Meriem repousse le moment de rappeler.
+title: L’évitement des rappels quand Meriem coupe un message et repousse l’appel
+description: Le début d’un message lui fait attendre une voix ancienne. Meriem coupe
+  l’écoute et découvre ce que le délai change pour l’atelier.
 slug: meriem-salle-fermee
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Meriem
-sujet: Trouble de stress post-traumatique complexe
+sujet: Évitement des rappels traumatiques
 contexte: Un jeudi où la salle habituelle est fermée
 tags:
+- Trouble de stress post-traumatique complexe
 - TSPT complexe
 - CPTSD
-- Évitement
-- Régulation émotionnelle
-- Demander un relais
+- Évitement des rappels traumatiques
+- Anticipation d’une menace
+- Retentissement quotidien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B41
+clinical_diagnosis: Trouble de stress post-traumatique complexe
 episode: 4
 ---
 

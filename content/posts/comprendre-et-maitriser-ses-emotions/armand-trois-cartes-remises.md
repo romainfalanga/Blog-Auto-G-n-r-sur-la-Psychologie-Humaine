@@ -1,23 +1,25 @@
 ---
-title: Prendre une décision avec l’appui qu’on a choisi
+title: Garder la maîtrise d’une décision malgré les difficultés de mémoire
 description: Armand vérifie la liste avec Nadia avant de remettre trois originaux.
   Il décide aussi comment il veut prendre part à la rencontre.
 slug: armand-trois-cartes-remises
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Armand
-sujet: Démence due à la maladie d’Alzheimer
+sujet: Décision accompagnée et autonomie
 contexte: Au rendez-vous privé à la bibliothèque, le jeudi suivant à dix heures
 tags:
+- Démence due à la maladie d’Alzheimer
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Choisir pour soi
-- Continuer à transmettre
-- Recevoir de l’aide
+- Autonomie de décision
+- Mémoire de travail
+- Soutien choisi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D80
+clinical_diagnosis: Démence due à la maladie d’Alzheimer
 episode: 11
 ---
 

@@ -1,30 +1,30 @@
 {
   "character_id": "clemence",
-  "bio": "Clémence, 23 ans, étudie l’histoire de l’art et tient les fiches de son ciné-club. Elle aime les films qui laissent le temps de regarder et remarque les gestes au bord de l’image. Elle voudrait programmer une soirée avec son amie Baya, dont les goûts la surprennent et l’amènent à revoir ce qu’elle avait prévu. Certains repas de groupe et les remarques sur l’apparence l’occupent longtemps après coup. Au club, elle cherche à partager les décisions, à dire ce qui lui est difficile et à prendre part à la soirée.",
+  "bio": "Clémence, 23 ans, étudie l’histoire de l’art et tient les fiches d’un ciné-club. Elle est suivie pour une anorexie mentale. La peur de prendre du poids et les pensées autour de l’alimentation occupent parfois son attention bien après un repas. Elle redoute aussi que le groupe commente son corps ou ce qu’elle mange. Avec son équipe, elle parle de ses difficultés et des changements physiques qu’elle remarque. Elle voudrait retrouver de la place pour le cinéma et partager avec son amie Baya le choix des films.",
   "profile_topics": [
-    "Inquiétudes autour des repas",
-    "Inquiétude face aux imprévus",
-    "Partage des décisions",
-    "Soutien entre amies",
-    "Préservation de son intimité"
+    "Anorexie mentale",
+    "Peur de prendre du poids",
+    "Restriction alimentaire",
+    "Préoccupations corporelles et honte",
+    "Retentissement physique et social"
   ],
   "episodes": [
     {
       "number": 1,
       "slug": "clemence-case-douverture",
-      "title": "Partager les décisions au ciné-club : Clémence invite Baya",
-      "description": "Clémence choisit une piste pour la soirée du ciné-club. Elle propose à Baya de choisir le film qui lui répondra.",
+      "title": "Quand la peur de prendre du poids envahit une activité qu’on aime",
+      "description": "Clémence vit avec une anorexie mentale. La peur de prendre du poids l’empêche parfois de suivre des échanges sur les films qu’elle aime.",
       "context": "préparer une programmation au ciné-club tout en poursuivant un suivi spécialisé déjà en place",
       "topics": [
-        "Inquiétudes autour des repas",
-        "Partage des décisions",
-        "Suivi spécialisé"
+        "Peur de prendre du poids",
+        "Restriction alimentaire",
+        "Retentissement social"
       ],
-      "opening": "Clémence pose une fiche sur l’autre et soulève les deux contre la fenêtre. Les lignes du tableau se superposent presque. Sur la première, elle a noté le moment où une femme s’arrête dans l’embrasure d’une porte. Sur la seconde, elle a écrit « on ne voit pas à qui elle parle ». C’est ce passage qu’elle aimerait présenter au ciné-club. Elle tient les fiches depuis le début de ses études en histoire de l’art. Elle y fait figurer les informations dont l’équipe aura besoin pour projeter les films et les questions qu’elle voudrait entendre dans la salle.\n\nLa référente du club a réservé une soirée. Elle voudrait que le programme soit discuté avec quelqu’un d’autre, y compris la place de l’accueil et de la discussion après les films. Clémence regarde la case qu’elle a laissée vide en bas de la page. Elle avait gardé cette place pour une référence qu’elle n’a pas encore retrouvée. Elle pourrait aussi y mettre le nom de la personne qui choisirait la fin de la soirée. Elle pense aussitôt à Baya, qui lui avait parlé d’une comédie où le moment le plus drôle se passe à l’arrière-plan.\n\nDans son carnet, le rendez-vous avec l’équipe spécialisée est déjà inscrit à côté du créneau du club. Clémence est suivie pour une anorexie mentale diagnostiquée avant cette préparation. La semaine dernière, elle a parlé au service d’un moment collectif qui l’avait occupée longtemps après être rentrée. Elle aimerait reprendre la question au rendez-vous. Elle aimerait également pouvoir inviter Baya à parler d’autre chose. Elle remet la fiche devant la fenêtre et essaie de lire à quoi elle tient dans ce premier film.",
+      "opening": "Clémence avait prévu de revoir une scène avant de proposer le programme à Baya. Le créneau du club s’affiche sur son téléphone et la ramène au dernier repas qu’elles ont passé avec le groupe. Elle avait eu peur de prendre du poids. Des heures plus tard, il lui restait surtout des fragments de la conversation sur le film qu’elle aimait. Elle pose une fiche sur l’autre et soulève les deux contre la fenêtre. Les lignes du tableau se superposent presque. Sur la première, elle a noté le moment où une femme s’arrête dans l’embrasure d’une porte. Sur la seconde, elle a écrit « on ne voit pas à qui elle parle ». C’est ce passage qu’elle aimerait présenter au ciné-club. Elle tient les fiches depuis le début de ses études en histoire de l’art. Elle y fait figurer les informations dont l’équipe aura besoin pour projeter les films et les questions qu’elle voudrait entendre dans la salle.\n\nLa référente du club a réservé une soirée. Elle voudrait que le programme soit discuté avec quelqu’un d’autre, y compris la place de l’accueil et de la discussion après les films. Clémence regarde la case qu’elle a laissée vide en bas de la page. Elle avait gardé cette place pour une référence qu’elle n’a pas encore retrouvée. Elle pourrait aussi y mettre le nom de la personne qui choisirait la fin de la soirée. Elle pense aussitôt à Baya, qui lui avait parlé d’une comédie où le moment le plus drôle se passe à l’arrière-plan.\n\nDans son carnet, le rendez-vous avec l’équipe spécialisée est déjà inscrit à côté du créneau du club. Clémence est suivie pour une anorexie mentale diagnostiquée avant cette préparation. La semaine dernière, elle a parlé au service d’un moment collectif qui l’avait occupée longtemps après être rentrée. Elle aimerait reprendre la question au rendez-vous. Elle aimerait également pouvoir inviter Baya à parler d’autre chose. Elle remet la fiche devant la fenêtre et essaie de lire à quoi elle tient dans ce premier film.",
       "sections": [
         {
-          "heading": "Ce que regarde l’équipe spécialisée",
-          "text": "L’anorexie mentale est un trouble des conduites alimentaires dont l’évaluation tient compte du vécu de la personne, de ce qui change dans sa vie et de son état physique. Les préoccupations autour de l’alimentation ou du corps peuvent prendre beaucoup de place dans la journée. Le trouble peut affecter la santé physique autant que le moral. L’OMS le décrit dans sa Classification internationale des maladies. Une impression à partir de l’apparence ou d’un seul signe ne permet pas de comprendre la situation. Le NICE recommande un suivi coordonné qui inclut la santé physique, la santé psychique et les risques éventuels. Les professionnels peuvent aussi parler avec la personne des répercussions dans les études, la vie sociale et les relations. Dans le cas de Clémence, le rendez-vous laisse de la place aux difficultés qu’elle vit et à ses questions sur le ciné-club."
+          "heading": "Comment la peur de prendre du poids occupe le quotidien",
+          "text": "L’anorexie mentale est un trouble des conduites alimentaires dont l’évaluation tient compte du vécu de la personne, de ce qui change dans sa vie et de son état physique. Une restriction alimentaire durable peut s’accompagner d’une peur intense de prendre du poids et d’une place excessive accordée au poids ou à la silhouette dans la manière de se juger. Chez Clémence, la peur revient avant le repas et les pensées continuent parfois longtemps après. Elle voudrait parler du film et s’aperçoit que son attention est encore prise ailleurs. Le trouble peut affecter la santé physique autant que le moral. L’OMS le décrit dans sa Classification internationale des maladies. Une impression à partir de l’apparence ou d’un seul signe ne permet pas de comprendre la situation. Le NICE recommande un suivi coordonné qui inclut la santé physique, la santé psychique et les risques éventuels. Les professionnels peuvent aussi parler avec la personne des répercussions dans les études, la vie sociale et les relations. Dans le cas de Clémence, le rendez-vous laisse de la place aux difficultés qu’elle vit et à ses questions sur le ciné-club."
         },
         {
           "heading": "Proposer une place qui comporte un choix",
@@ -43,24 +43,26 @@
       "continuity": {
         "choice": "Clémence propose à Baya une part de la programmation et garde une question distincte pour son rendez-vous.",
         "next": "Le club avance l’heure de préparation et Clémence cherche ce qu’elle veut vérifier avec la référente."
-      }
+      },
+      "clinical_focus": "Peur de prendre du poids",
+      "clinical_intro": "Clémence veut montrer à Baya une scène de cinéma. En voyant le créneau du club, elle repense surtout au dernier repas et à la peur de prendre du poids qui l’avait empêchée d’écouter. Dans l’anorexie mentale, les préoccupations autour du poids et du corps peuvent occuper une grande place et contribuer à la restriction alimentaire. Les soins tiennent compte de ce vécu et de la santé physique."
     },
     {
       "number": 2,
       "slug": "clemence-horaire-dans-le-fil",
-      "title": "Quand un changement d’horaire ravive la crainte d’un repas de groupe",
+      "title": "L’anxiété d’un repas collectif quand l’horaire change",
       "description": "L’horaire de préparation change. Clémence précise ce dont elle a besoin pour organiser la soirée et ce qu’elle veut aborder en consultation.",
       "context": "nommer ce qu’un changement dans la soirée rend difficile sans confier le soin au ciné-club",
       "topics": [
-        "Inquiétude face à l’imprévu",
-        "Crainte des commentaires pendant un repas",
-        "Demande de repères au groupe"
+        "Anxiété anticipatoire",
+        "Crainte du jugement sur les repas",
+        "Attention accaparée"
       ],
       "opening": "L’heure a changé dans le fil du ciné-club, mais le fichier que Clémence a imprimé affiche encore l’ancienne. Elle compare l’affiche et le message de la référente sur le rebord de la fenêtre de la bibliothèque. Le projectionniste doit partir plus tôt et l’équipe dispose d’un autre créneau pour préparer la salle. Quelqu’un a écrit qu’ils pourraient aussi se retrouver dans le foyer avant d’ouvrir les portes. Clémence se rend compte qu’elle a relu cette phrase sans arriver à dire s’il s’agit d’une proposition ou d’un rendez-vous.\n\nElle était venue travailler sur un détail de la fiche du film. Dans le plan de l’embrasure, on aperçoit le reflet d’un rideau dans le carreau du fond. Elle voudrait savoir si cette image figure déjà dans un catalogue qu’elle a consulté pour un cours. Son carnet est ouvert au bon endroit. Pourtant, depuis qu’elle a vu l’horaire, elle passe de l’affiche à son téléphone. Elle pense au repas après une séance, qu’elle a raconté à son équipe. Elle avait redouté les commentaires sur ce que chacun mangeait. Même quand les autres s’étaient remis à parler du film, elle n’arrivait plus à suivre. En lisant le message sur le foyer, elle se demande si la soirée prévoit un autre repas en groupe.\n\nBaya arrive avec son propre carnet. Elle lui montre le titre d’une comédie et demande si elles ont encore le temps de voir un passage. Clémence répond d’abord qu’il faudrait reprendre l’organisation. Elle s’entend expliquer tout le programme à quelqu’un qui lui pose une question sur un film. Elle pourrait lui dire ce qu’elle attend de la référente. Elle pourrait aussi demander quelle partie du changement Baya a comprise.",
       "sections": [
         {
-          "heading": "Ce qu’un changement peut rendre difficile",
-          "text": "Les moments collectifs peuvent demander un effort important quand un trouble des conduites alimentaires affecte la vie sociale. La difficulté peut changer selon la situation. Le NICE recommande de tenir compte de ce qui se passe dans le milieu d’études et la vie quotidienne pendant le suivi. Clémence peut parler de ce qui l’a arrêtée dans le message, des questions qu’elle s’est posées et de ce qu’elle voudrait préserver dans la soirée. Cet exemple aide les professionnels à connaître ce qu’elle vit. Il ne suffit pas à expliquer toutes ses réactions à un changement d’horaire ni à établir à lui seul un état de santé."
+          "heading": "L’anxiété peut commencer bien avant le repas",
+          "text": "Dans la bibliothèque, Clémence perd le fil de son travail en essayant de prévoir une situation qui n’est pas encore décidée. La peur du repas et du regard des autres agit sur son attention dès ce moment. Les moments collectifs peuvent demander un effort important quand un trouble des conduites alimentaires affecte la vie sociale. La difficulté peut changer selon la situation. Le NICE recommande de tenir compte de ce qui se passe dans le milieu d’études et la vie quotidienne pendant le suivi. Clémence peut parler de ce qui l’a arrêtée dans le message, des questions qu’elle s’est posées et de ce qu’elle voudrait préserver dans la soirée. Cet exemple aide les professionnels à connaître ce qu’elle vit. Il ne suffit pas à expliquer toutes ses réactions à un changement d’horaire ni à établir à lui seul un état de santé."
         },
         {
           "heading": "Vérifier ce qui est décidé et ce qui reste ouvert",
@@ -79,17 +81,19 @@
       "continuity": {
         "choice": "Clémence pose ses questions à la référente et retrouve avec Baya un moment pour parler du film.",
         "next": "En consultation, elle demande comment circuleront les informations entre les professionnels qui la suivent."
-      }
+      },
+      "clinical_focus": "Anxiété anticipatoire autour des repas",
+      "clinical_intro": "En apprenant que l’équipe se réunira plus tôt, Clémence commence à imaginer un repas de groupe et les commentaires qu’elle y redoute. La préoccupation mobilise son attention avant même qu’un repas soit confirmé. Chez elle, la crainte du regard et les inquiétudes autour de l’alimentation se renforcent dans cette situation. La préciser lui donne un exemple à reprendre avec son équipe."
     },
     {
       "number": 3,
       "slug": "clemence-noms-sur-le-carnet",
-      "title": "Demander de l’aide en consultation et se confier à son rythme",
+      "title": "Mettre des mots sur ce que l’anorexie change dans la journée",
       "description": "Clémence demande qui contacter entre ses rendez-vous et quelles informations sont utiles aux professionnels qui la suivent.",
       "context": "clarifier le suivi pluridisciplinaire et choisir ce que Clémence souhaite partager avec son amie",
       "topics": [
-        "Confidences choisies",
-        "Appui ponctuel d’une amie",
+        "Parler de l’anorexie",
+        "Retentissement dans les études",
         "Coordination des soins"
       ],
       "opening": "Dans la salle d’attente, le carnet de Clémence reste ouvert sur la page du ciné-club. Une invitation d’un musée dépasse du milieu. Elle l’a glissée là parce que le dos est blanc et qu’elle peut y écrire. Au dernier rendez-vous, elle a noté le nom de la personne avec qui elle devait reprendre une question sur ses études. Au téléphone, un autre nom lui a été donné pour une question sur sa santé. Elle s’aperçoit que les deux indications se trouvent dans des pages différentes. Quand on vient la chercher, elle prend l’invitation avec le carnet.\n\nLa personne qui la reçoit connaît la date du prochain point médical. Clémence sait qu’elle voudrait lui parler des moments où son attention reste prise après une rencontre. Elle lui raconte la scène de la bibliothèque, le carnet ouvert et le passage qu’elle n’arrivait plus à regarder. Puis elle demande à qui elle peut écrire si une inquiétude concerne plutôt sa santé physique. Elle voudrait pouvoir poser la question sans commencer par décider elle-même quel professionnel doit la traiter.\n\nBaya est restée dehors parce qu’elles doivent se retrouver après. Elle lui avait demandé si elle souhaitait qu’elle l’accompagne jusque dans la salle. Clémence a préféré venir seule. À présent, elle pense à une chose qu’elle pourrait lui demander la prochaine fois. Elles pourraient se retrouver à l’entrée pour marcher ensuite vers la bibliothèque. Dans le carnet, il lui reste surtout à trouver où écrire le nom de la personne qui pourra répondre entre les rendez-vous.",
@@ -115,24 +119,26 @@
       "continuity": {
         "choice": "Clémence demande un contact entre les rendez-vous et choisit de retrouver Baya après l’entretien.",
         "next": "Baya présente son idée de comédie, et Clémence doit décider de la latitude qu’elle lui laisse dans le programme."
-      }
+      },
+      "clinical_focus": "Expression des difficultés en consultation",
+      "clinical_intro": "Clémence arrive en consultation avec son carnet ouvert sur un film. Elle finit par expliquer comment des pensées autour de l’alimentation l’ont empêchée d’étudier et demande qui appeler si sa santé physique l’inquiète. Un suivi de l’anorexie mentale examine ensemble le vécu, le retentissement et l’état physique. L’équipe l’aide à trouver un contact sans lui demander de déterminer elle-même la cause de ses difficultés."
     },
     {
       "number": 4,
       "slug": "clemence-fiche-pour-baya",
-      "title": "Faire de la place à un goût différent au ciné-club",
-      "description": "Baya propose une comédie pour la fin de la soirée. Clémence lui laisse une vraie décision à prendre avec la référente du club.",
+      "title": "Retrouver une part de soi que l’anorexie laisse au second plan",
+      "description": "Après une soirée accaparée par les pensées sur le repas, Clémence retrouve avec Baya un intérêt qui compte pour elle, le cinéma.",
       "context": "partager la programmation en précisant les responsabilités et la liberté de chacune",
       "topics": [
-        "Différences de goûts",
-        "Liberté de décider",
-        "Responsabilités partagées"
+        "Identité au-delà du trouble",
+        "Préoccupations alimentaires",
+        "Reprise d’une activité investie"
       ],
-      "opening": "Baya a laissé la fiche du film presque vide. Elle a écrit le titre, le nom de la réalisatrice et « l’arrêt de bus » sous la rubrique que Clémence a appelée mise en scène. Clémence voit tout de suite qu’il manque la référence de la copie. Elle remarque aussi que Baya a dessiné une flèche entre le banc et un poteau qui apparaît derrière. Elle lui demande ce que la flèche représente. Baya lui dit que c’est là que les deux personnages croient se croiser, avant qu’on comprenne qu’elles attendent des bus différents.\n\nClémence s’attendait à ce que le film réponde au premier par un cadre fixe ou un silence. Baya propose de prendre le contre-pied avec des gens qui parlent à côté les uns des autres. Elle voudrait écrire elle-même les quelques mots d’introduction. Clémence avait commencé à lui préparer un paragraphe. Il se trouve déjà sur son téléphone, sous une version de la fiche qu’elle n’a pas envoyée. Elle ne sait plus très bien si elle demande à Baya de choisir ou seulement de donner un autre nom à ce qu’elle a prévu.\n\nLa référente veut vérifier si le club peut obtenir la copie. Baya se dit prête à lui écrire. Clémence pourrait lui donner la référence qu’il faut retrouver et la laisser décider de la présentation. Elle fait glisser vers Baya la fiche qu’elle vient de relire. Le coin de la feuille tombe sur la flèche. Baya la remet à plat et lui demande si le titre tient toujours à la fin.",
+      "opening": "La veille, Clémence s’était couchée avec le souvenir de ce qu’elle avait mangé qui revenait dès qu’elle essayait de penser à autre chose. Ce matin, en ouvrant le dossier du club, elle espère retrouver la partie du film dont Baya lui a parlé. Baya a laissé la fiche du film presque vide. Elle a écrit le titre, le nom de la réalisatrice et « l’arrêt de bus » sous la rubrique que Clémence a appelée mise en scène. Clémence voit tout de suite qu’il manque la référence de la copie. Elle remarque aussi que Baya a dessiné une flèche entre le banc et un poteau qui apparaît derrière. Elle lui demande ce que la flèche représente. Baya lui dit que c’est là que les deux personnages croient se croiser, avant qu’on comprenne qu’elles attendent des bus différents.\n\nClémence s’attendait à ce que le film réponde au premier par un cadre fixe ou un silence. Baya propose de prendre le contre-pied avec des gens qui parlent à côté les uns des autres. Elle voudrait écrire elle-même les quelques mots d’introduction. Clémence avait commencé à lui préparer un paragraphe. Il se trouve déjà sur son téléphone, sous une version de la fiche qu’elle n’a pas envoyée. Elle ne sait plus très bien si elle demande à Baya de choisir ou seulement de donner un autre nom à ce qu’elle a prévu.\n\nLa référente veut vérifier si le club peut obtenir la copie. Baya se dit prête à lui écrire. Clémence pourrait lui donner la référence qu’il faut retrouver et la laisser décider de la présentation. Elle fait glisser vers Baya la fiche qu’elle vient de relire. Le coin de la feuille tombe sur la flèche. Baya la remet à plat et lui demande si le titre tient toujours à la fin.",
       "sections": [
         {
-          "heading": "Faire une place aux choix ordinaires",
-          "text": "Les soins pour un trouble des conduites alimentaires peuvent prendre en compte ce qui importe à la personne dans ses relations et ses activités. Le NICE recommande d’aborder les besoins liés aux études et à la vie sociale au cours du suivi. Au ciné-club, Clémence réfléchit aussi à une question de programmation qui mérite une discussion pour elle-même. Elle aime certaines formes de cinéma et Baya en aime d’autres. Leur désaccord sur l’enchaînement des films a des raisons que chacune peut expliquer. Si la préparation devient éprouvante pour Clémence, elle peut en parler aux soignants en disant ce qu’elle souhaite garder du projet."
+          "heading": "Retrouver des intérêts qui ont pris moins de place",
+          "text": "Les soins pour un trouble des conduites alimentaires peuvent prendre en compte ce qui importe à la personne dans ses relations et ses activités. Le NICE recommande d’aborder les besoins liés aux études et à la vie sociale au cours du suivi. Au ciné-club, Clémence a remarqué combien les préoccupations autour des repas peuvent réduire la place de ses autres intérêts. Elle retrouve devant la fiche le plaisir d’observer un plan et la curiosité d’entendre ce que Baya voit. Cette activité peut compter parmi ce qu’elle souhaite préserver pendant les soins. Elle aime certaines formes de cinéma et Baya en aime d’autres. Leur désaccord sur l’enchaînement des films a des raisons que chacune peut expliquer. Si la préparation devient éprouvante pour Clémence, elle peut en parler aux soignants en disant ce qu’elle souhaite garder du projet."
         },
         {
           "heading": "Définir ce qu’elles décident seules et ensemble",
@@ -151,23 +157,25 @@
       "continuity": {
         "choice": "Baya prend la responsabilité de sa proposition et de son introduction. Clémence garde le film d’ouverture.",
         "next": "Au foyer, une remarque personnelle incite Clémence à préciser un sujet qu’elle veut garder hors de la discussion."
-      }
+      },
+      "clinical_focus": "Identité et intérêts personnels",
+      "clinical_intro": "Clémence a passé une partie de sa soirée à repenser au repas. Devant le film de Baya, elle se rappelle que sa manière de regarder une image compte aussi pour elle. L’anorexie mentale peut réduire le temps et l’attention disponibles pour des activités importantes. En reparlant de cinéma avec une amie, Clémence retrouve un intérêt qu’elle veut garder dans sa vie et dans les objectifs de son suivi."
     },
     {
       "number": 5,
       "slug": "clemence-affiche-retournee",
-      "title": "Remarque sur l’apparence : Clémence demande l’appui de Baya",
+      "title": "Quand une remarque sur le corps renforce la honte",
       "description": "Une remarque dans le foyer gêne Clémence. Elle dit à Baya de quel appui elle aurait envie si la conversation revient sur son apparence.",
       "context": "choisir une réponse à une remarque personnelle et garder la main sur les informations partagées au ciné-club",
       "topics": [
-        "Gêne face au regard des autres",
-        "Limites dans une conversation",
-        "Aide convenue entre amies"
+        "Honte corporelle",
+        "Peur du jugement",
+        "Limites face aux commentaires"
       ],
-      "opening": "Le reflet de la porte empêche Clémence de lire le bas de l’affiche. Elle l’enlève du cadre pour montrer à la référente l’endroit où la mention de l’accueil a changé. Baya tient encore le coin supérieur quand des personnes entrent dans le foyer après la séance de la semaine. Une membre du groupe salue Clémence, puis fait une remarque sur son apparence devant les autres. La phrase est terminée avant que Clémence sache si elle veut lui répondre. Elle retourne l’affiche sur le comptoir pour ne pas avoir à la tenir en l’air.\n\nQuelqu’un demande à quelle heure le foyer ouvrira pour leur soirée. Clémence a la réponse sous les yeux. Elle demande pourtant à Baya de la répéter. Quand elles sont seules près du cadre, Baya lui demande si elle souhaite reparler de ce qui vient d’arriver. Clémence a surtout envie que la remarque ne circule pas plus loin. Elle s’était préparée à expliquer le choix des films et la différence entre l’heure de la projection et celle de l’accueil. Pour répondre à cette phrase, elle n’avait rien prévu.\n\nBaya cherche de nouveau le haut de l’affiche. Clémence lui dit qu’elle voudrait que le groupe parle du programme quand elles se retrouvent au foyer. Elle ne sait pas encore si elle veut elle-même reprendre la remarque avec la personne. Elle aimerait pouvoir dire à Baya quel geste l’aiderait si une conversation pareille revenait. Pour l’instant, les deux attaches du cadre sont restées ouvertes.",
+      "opening": "Le reflet de la porte empêche Clémence de lire le bas de l’affiche. Elle l’enlève du cadre pour montrer à la référente l’endroit où la mention de l’accueil a changé. Baya tient encore le coin supérieur quand des personnes entrent dans le foyer après la séance de la semaine. Une membre du groupe salue Clémence, puis fait une remarque sur son apparence devant les autres. La phrase est terminée avant que Clémence sache si elle veut lui répondre. Elle retourne l’affiche sur le comptoir pour ne pas avoir à la tenir en l’air.\n\nQuelqu’un demande à quelle heure le foyer ouvrira pour leur soirée. Clémence a la réponse sous les yeux. Elle se demande pourtant si les autres la regardent encore et ce que la remarque a fait remarquer. Elle se répète la phrase malgré elle au moment de lire l’horaire. Elle demande pourtant à Baya de la répéter. Quand elles sont seules près du cadre, Baya lui demande si elle souhaite reparler de ce qui vient d’arriver. Clémence a surtout envie que la remarque ne circule pas plus loin. Elle s’était préparée à expliquer le choix des films et la différence entre l’heure de la projection et celle de l’accueil. Pour répondre à cette phrase, elle n’avait rien prévu.\n\nBaya cherche de nouveau le haut de l’affiche. Clémence lui dit qu’elle voudrait que le groupe parle du programme quand elles se retrouvent au foyer. Elle ne sait pas encore si elle veut elle-même reprendre la remarque avec la personne. Elle aimerait pouvoir dire à Baya quel geste l’aiderait si une conversation pareille revenait. Pour l’instant, les deux attaches du cadre sont restées ouvertes.",
       "sections": [
         {
-          "heading": "Garder la personne au centre de ce qu’elle dit",
+          "heading": "L’effet d’un commentaire sur la honte corporelle",
           "text": "Une remarque sur l’apparence peut être difficile à recevoir et ne renseigne pas sur l’état de santé d’une personne. Dans le suivi d’un trouble des conduites alimentaires, le NICE recommande de tenir compte des difficultés que les personnes peuvent éprouver à en parler et de leur environnement social. Clémence peut vouloir poser une limite à une conversation sans dire au groupe qu’elle est suivie. Elle peut aussi reprendre cette scène avec l’équipe spécialisée si elle continue à l’occuper. L’équipe lui demandera ce qu’elle a vécu et ce dont elle a besoin. Elle peut commencer par dire ce qui lui a été difficile dans la situation."
         },
         {
@@ -187,18 +195,20 @@
       "continuity": {
         "choice": "Clémence choisit avec Baya comment revenir au programme si un commentaire personnel réapparaît.",
         "next": "À l’université, une fatigue devenue inhabituelle lui fait chercher le contact noté au dos de l’invitation."
-      }
+      },
+      "clinical_focus": "Honte corporelle et regard des autres",
+      "clinical_intro": "Une remarque sur son apparence coupe Clémence dans la préparation de l’affiche. Elle entend la conversation continuer mais reste préoccupée par ce que les autres ont pu voir et comprendre. Dans son suivi de l’anorexie mentale, elle peut parler du temps et de l’énergie que prennent ces pensées. Avec Baya, elle choisit comment poser une limite si le sujet revient en groupe."
     },
     {
       "number": 6,
       "slug": "clemence-page-du-cours",
-      "title": "Fatigue en cours : Clémence demande de l’aide",
+      "title": "Une fatigue inhabituelle pendant le suivi de l’anorexie",
       "description": "Clémence remarque une fatigue inhabituelle en cours. Elle la signale à l’équipe spécialisée et cherche comment suivre la prochaine séance.",
       "context": "décrire un changement physique préoccupant et adapter une obligation étudiante avec les personnes concernées",
       "topics": [
-        "Demande d’aide",
-        "Confidentialité à l’université",
-        "Fatigue inhabituelle"
+        "Retentissement physique",
+        "Fatigue et attention",
+        "Demande d’évaluation médicale"
       ],
       "opening": "La dernière image du cours est encore sur le mur quand Clémence s’aperçoit qu’elle a laissé son crayon sur la page précédente. Elle voulait noter la couleur du rideau dont parlait l’enseignante. Elle retrouve le mot sur la feuille de sa voisine, mais ne sait plus à quel tableau il se rapporte. En ouvrant son carnet, elle remarque l’invitation du musée où elle a noté le contact du service. Elle la laisse dépasser de la page.\n\nDepuis quelque temps, Clémence se fatigue plus vite dans des trajets qu’elle connaît. Ce matin, elle a interrompu sa marche jusqu’à l’amphithéâtre et s’est arrêtée sur le palier. Elle avait prévu de parler au prochain rendez-vous de la remarque au foyer. Elle hésite à appeler avant pour dire qu’un trajet habituel lui coûte davantage. Elle voudrait savoir s’ils ont besoin de la voir et ce qu’elle doit leur expliquer. Elle n’a pas de mot plus précis que celui qu’elle vient d’écrire, « fatigue ».\n\nÀ la sortie, une étudiante lui demande si elle veut rester pour regarder les images du catalogue. Clémence avait attendu ce moment toute la semaine. Elle demande si le document sera disponible pour qu’elles le regardent ensemble un autre jour. L’étudiante vérifie et lui dit qu’elles peuvent réserver un créneau. Clémence note le nom du catalogue avant de retrouver le contact sur l’invitation. Elle choisit de régler les deux questions séparément.",
       "sections": [
@@ -223,23 +233,25 @@
       "continuity": {
         "choice": "Clémence signale la fatigue à l’équipe et garde une possibilité de reprendre le travail universitaire.",
         "next": "Au foyer, elle choisit un appui pour le moment collectif après la projection habituelle du club."
-      }
+      },
+      "clinical_focus": "Retentissement physique et vigilance",
+      "clinical_intro": "Clémence doit s’arrêter sur un palier qu’elle traverse d’habitude sans pause. Pendant le cours, elle peine à suivre une explication qui l’intéresse. L’anorexie mentale peut avoir des conséquences physiques, et une fatigue nouvelle peut avoir plusieurs causes. Elle décrit le changement à son équipe, qui décide de l’évaluation adaptée. Le rendez-vous de cours et le point médical peuvent être réorganisés séparément."
     },
     {
       "number": 7,
       "slug": "clemence-fauteuils-du-foyer",
-      "title": "Hésiter à rejoindre le groupe après un film : l’appui de Baya",
+      "title": "Quand la peur des commentaires pousse à éviter un groupe",
       "description": "Après une séance, Clémence demande à Baya un coup de main pour rejoindre une conversation sur le film.",
       "context": "choisir une aide ponctuelle pour participer à un moment collectif au ciné-club",
       "topics": [
-        "Difficulté à rejoindre un groupe",
-        "Appui ponctuel d’une amie",
-        "Liberté de participer à son rythme"
+        "Évitement social",
+        "Peur des commentaires",
+        "Soutien choisi pour participer"
       ],
-      "opening": "Dans le foyer, les fauteuils ont été poussés vers la fenêtre. Clémence s’attendait à les retrouver près des affiches, où l’on entend moins les gens sortir de la salle. La séance de ce soir a attiré des personnes qu’elle connaît surtout de vue. Elles restent après la projection pour discuter. Un groupe a commencé à parler du film près de la table du foyer. Clémence croit reconnaître l’étudiante qui lui avait parlé d’un plan tourné dans une gare, mais elle ne sait pas comment la rejoindre.\n\nElle a parlé de la fatigue au service et garde les rendez-vous convenus avec l’équipe. Elle est aussi revenue sur ce qui la préoccupait lors d’un repas du club. Certains soirs, ces inquiétudes lui laissent moins de place pour répondre à quelqu’un ou suivre une discussion. Elle avait envie de venir aujourd’hui. Elle aimerait écouter ce qui s’est dit du dernier plan, où la gare se vide avant que le générique commence.\n\nBaya finit de rapporter une affiche à la référente. En revenant, elle dit qu’elle doit partir après avoir rendu un livre. Clémence avait imaginé qu’elles resteraient ensemble dans le foyer. Elle regarde le groupe et se demande si elle veut demander à Baya de l’accompagner jusqu’à lui. Elle pourrait simplement lui dire le nom de l’étudiante qu’elle cherche et lui demander de commencer la conversation, puis laisser Baya partir.",
+      "opening": "Dans le foyer, les fauteuils ont été poussés vers la fenêtre. Clémence s’attendait à les retrouver près des affiches, où l’on entend moins les gens sortir de la salle. La séance de ce soir a attiré des personnes qu’elle connaît surtout de vue. Elles restent après la projection pour discuter. Un groupe a commencé à parler du film près de la table du foyer. Elle voit une tasse passer de main en main et redoute que quelqu’un lui demande ce qu’elle a mangé comme l’autre soir. Elle hésite à se rapprocher, même si le groupe parle encore du film. Clémence croit reconnaître l’étudiante qui lui avait parlé d’un plan tourné dans une gare, mais elle ne sait pas comment la rejoindre.\n\nElle a parlé de la fatigue au service et garde les rendez-vous convenus avec l’équipe. Elle est aussi revenue sur ce qui la préoccupait lors d’un repas du club. Certains soirs, ces inquiétudes lui laissent moins de place pour répondre à quelqu’un ou suivre une discussion. Elle avait envie de venir aujourd’hui. Elle aimerait écouter ce qui s’est dit du dernier plan, où la gare se vide avant que le générique commence.\n\nBaya finit de rapporter une affiche à la référente. En revenant, elle dit qu’elle doit partir après avoir rendu un livre. Clémence avait imaginé qu’elles resteraient ensemble dans le foyer. Elle regarde le groupe et se demande si elle veut demander à Baya de l’accompagner jusqu’à lui. Elle pourrait simplement lui dire le nom de l’étudiante qu’elle cherche et lui demander de commencer la conversation, puis laisser Baya partir.",
       "sections": [
         {
-          "heading": "Participer à sa manière à un moment collectif",
+          "heading": "Comprendre l’envie de s’éloigner du groupe",
           "text": "Un trouble des conduites alimentaires peut compliquer certains moments de vie sociale et laisser intact l’intérêt pour ce qui s’y passe. Le NICE recommande de tenir compte de ces besoins dans le suivi. Clémence peut dire à l’équipe qu’elle veut entendre la discussion après le film et préciser ce qui rend l’entrée dans le groupe difficile. Les professionnels peuvent discuter avec elle de ce qui l’aiderait dans ce contexte. Sa manière de participer au foyer ne permet pas de juger à elle seule de son état. Elle choisit quand rejoindre la discussion et quand en sortir, selon ses envies, les circonstances et les avis utiles à sa santé."
         },
         {
@@ -259,24 +271,26 @@
       "continuity": {
         "choice": "Clémence demande une introduction et poursuit la discussion à sa manière après le départ de Baya.",
         "next": "La copie de la comédie de Baya devient indisponible et la programmation doit changer."
-      }
+      },
+      "clinical_focus": "Évitement social autour des repas",
+      "clinical_intro": "Clémence voudrait discuter du dernier plan avec une étudiante. En voyant le groupe près de la table, elle redoute que la conversation revienne à ce que chacun mange. Cette anticipation la fait hésiter alors qu’elle a envie de participer. Elle demande à Baya une présentation précise. La scène montre comment les préoccupations liées aux repas peuvent peser sur les relations dans l’anorexie mentale."
     },
     {
       "number": 8,
       "slug": "clemence-titre-efface",
-      "title": "Face à un imprévu au ciné-club, Clémence veut décider vite",
-      "description": "La copie choisie par Baya devient indisponible. Clémence et elle décident ensemble ce qu’elles gardent de leur accord.",
+      "title": "Supporter l’incertitude quand un changement ravive les craintes autour d’un repas",
+      "description": "Un changement de programme ravive chez Clémence la crainte d’un repas improvisé. Elle cherche ce qui a réellement changé pour la soirée.",
       "context": "revoir une décision commune après un imprévu et séparer la programmation des questions de santé",
       "topics": [
-        "Besoin de certitude face à l’imprévu",
-        "Écoute d’une autre proposition",
-        "Révision d’un accord commun"
+        "Intolérance à l’incertitude",
+        "Anxiété autour des repas",
+        "Distinguer faits et anticipations"
       ],
-      "opening": "Le titre de la comédie a disparu du fichier. À la place, Baya a écrit « copie indisponible » et laissé la ligne ouverte. Clémence a déjà imprimé un programme pour vérifier la taille des lettres. Elle le pose sur le clavier et regarde le nom qu’on vient d’enlever. Elle se rappelle la flèche de Baya vers le poteau et la question qu’elle voulait poser sur la fin. Elle s’était habituée à attendre ce passage. Dans la liste des films que le club peut projeter, Clémence en connaît un qu’elle pourrait inscrire tout de suite.\n\nBaya l’appelle en sortant du travail. Elle demande si elles peuvent regarder un autre court métrage avant de décider. Elle a trouvé une scène qui se passe devant un rideau de magasin. Clémence dit qu’elle avait une proposition de secours. Elle s’entend la présenter comme si elle venait d’être approuvée, puis demande à Baya ce qu’elle voulait lui montrer. Au même moment, la référente écrit qu’il leur reste un autre soir pour confirmer le programme.\n\nLa semaine précédente, Clémence avait réussi à laisser Baya choisir ce qui répondrait au film d’ouverture. Aujourd’hui, elle voudrait remplacer elle-même le titre et fermer le fichier. Elle n’a pas encore envie de voir le plan du rideau. Elle peut toutefois distinguer le délai réel, que la référente vient de lui donner, et le moment où elle voudrait être certaine de ce qu’elles feront. Elle relit l’heure de fermeture de la bibliothèque et propose à Baya de s’y retrouver.",
+      "opening": "Le titre de la comédie a disparu du fichier. À la place, Baya a écrit « copie indisponible » et laissé la ligne ouverte. Clémence a déjà imprimé un programme pour vérifier la taille des lettres. Elle le pose sur le clavier et regarde le nom qu’on vient d’enlever. Elle se rappelle la flèche de Baya vers le poteau et la question qu’elle voulait poser sur la fin. Elle s’était habituée à attendre ce passage. Dans la liste des films que le club peut projeter, Clémence en connaît un qu’elle pourrait inscrire tout de suite.\n\nBaya l’appelle en sortant du travail. Elle demande si elles peuvent regarder un autre court métrage avant de décider. Elle a trouvé une scène qui se passe devant un rideau de magasin. Clémence dit qu’elle avait une proposition de secours. Elle s’entend la présenter comme si elle venait d’être approuvée, puis demande à Baya ce qu’elle voulait lui montrer. Au même moment, la référente écrit qu’il leur reste un autre soir pour confirmer le programme.\n\nLa semaine précédente, Clémence avait réussi à laisser Baya choisir ce qui répondrait au film d’ouverture. Aujourd’hui, elle voudrait remplacer elle-même le titre et fermer le fichier. Elle se demande déjà si cette nouvelle préparation prolongera la soirée jusqu’au moment où les autres décideront de manger ensemble. Aucun message ne l’annonce. Elle a peur d’être de nouveau prise de court et elle voudrait retrouver une soirée qu’elle peut se représenter. Elle n’a pas encore envie de voir le plan du rideau. Elle peut toutefois distinguer le délai réel, que la référente vient de lui donner, et le moment où elle voudrait être certaine de ce qu’elles feront. Elle relit l’heure de fermeture de la bibliothèque et propose à Baya de s’y retrouver.",
       "sections": [
         {
-          "heading": "Laisser de la place aux jours où l’incertitude revient",
-          "text": "Les difficultés que la personne rencontre pendant un suivi peuvent varier d’un jour à l’autre et selon les circonstances. Le NICE recommande de tenir compte du contexte social et des besoins de la personne pendant le traitement. Clémence peut raconter ce qui se passe quand le programme qu’elle avait commencé à se représenter change. Son équipe pourra l’aider à examiner l’impact de ces moments sur sa vie. Dans l’immédiat, elle et Baya ont une copie à choisir et un délai à respecter. Chacune peut dire ce qu’elle aime dans les films proposés et ce qu’il reste à confirmer pour les projeter."
+          "heading": "Quand le besoin de prévoir grandit avec l’anxiété",
+          "text": "Chez Clémence, décider tout de suite du film lui donnerait un peu de répit, mais ne répondrait pas à la question du repas qui occupe déjà son attention. Elle peut regarder ce qui a effectivement changé et reprendre avec l’équipe la peur qui accompagne ces imprévus. Les difficultés que la personne rencontre pendant un suivi peuvent varier d’un jour à l’autre et selon les circonstances. Le NICE recommande de tenir compte du contexte social et des besoins de la personne pendant le traitement. Clémence peut raconter ce qui se passe quand le programme qu’elle avait commencé à se représenter change. Son équipe pourra l’aider à examiner l’impact de ces moments sur sa vie. Dans l’immédiat, elle et Baya ont une copie à choisir et un délai à respecter. Chacune peut dire ce qu’elle aime dans les films proposés et ce qu’il reste à confirmer pour les projeter."
         },
         {
           "heading": "Reprendre l’accord avec le nouveau délai",
@@ -295,18 +309,20 @@
       "continuity": {
         "choice": "Clémence accepte de revoir le programme avec Baya et lui laisse sa part de choix malgré l’imprévu.",
         "next": "Pendant un passage au club, un malaise soudain demande un relais médical immédiat."
-      }
+      },
+      "clinical_focus": "Incertitude et anxiété liée aux repas",
+      "clinical_intro": "Quand le film prévu devient indisponible, Clémence craint aussi que la nouvelle organisation la laisse de nouveau dans le flou sur le moment collectif du foyer. Elle veut décider du programme au plus vite pour retrouver un sentiment de prise sur la soirée. Vérifier l’information qui manque lui permet de séparer une décision de cinéma d’une inquiétude alimentaire à reprendre avec son équipe."
     },
     {
       "number": 9,
       "slug": "clemence-boitier-au-sol",
-      "title": "Malaise au ciné-club : Baya appelle les secours et reste présente",
+      "title": "Un malaise pendant le suivi de l’anorexie demande un relais médical",
       "description": "Clémence fait un malaise au ciné-club. Baya appelle les secours et la référente prend en charge l’organisation de la salle.",
       "context": "demander un relais médical immédiat face à un malaise soudain au ciné-club",
       "topics": [
-        "Présence auprès d’une amie en difficulté",
-        "Respect de la vie privée",
-        "Évaluation urgente d’un malaise"
+        "Malaise soudain",
+        "Évaluation médicale urgente",
+        "Relais des proches"
       ],
       "opening": "Le boîtier tombe devant la porte. Baya croit d’abord que Clémence a voulu poser la copie sur la petite table où elles la laissent d’habitude. La table a été repoussée pour dégager l’entrée. Clémence appuie l’épaule contre le mur et cesse de répondre au milieu de sa phrase. Elle essaie de reprendre appui et s’affaisse. Baya l’appelle par son prénom. Clémence tourne la tête, mais elle répond à peine et n’arrive pas à reprendre le fil.\n\nLa référente arrive depuis la salle où elle préparait les fiches. Baya lui demande l’adresse exacte du local et appelle les secours. Elle dit où elles sont, que son amie vient de s’affaisser et qu’elle a du mal à répondre. La référente répète l’adresse et va à l’entrée pour faciliter l’arrivée de l’équipe. Une personne attend devant la porte pour essayer la projection. La référente lui dit qu’elles s’occuperont de la copie plus tard.\n\nClémence entend son prénom et reconnaît la voix de Baya. Elle essaie de dire qu’elle était venue remettre le boîtier à la référente. Ce qu’elle arrive à dire, c’est où se trouve son sac. Baya lui répond qu’elle est là et suit les indications données au téléphone. Clémence aperçoit encore le coin du boîtier près de la porte. Elle voudrait demander si la copie est intacte. Pour l’instant, elle essaie de répondre à la personne qui lui parle.",
       "sections": [
@@ -331,20 +347,22 @@
       "continuity": {
         "choice": "Baya appelle les secours sur place et Clémence répond à l’équipe qui prend le relais quand elle le peut.",
         "next": "Clémence demande à son service spécialisé comment les professionnels coordonneront la suite du suivi."
-      }
+      },
+      "clinical_focus": "Malaise et évaluation urgente",
+      "clinical_intro": "Clémence s’affaisse au ciné-club et a du mal à répondre. Baya s’inquiète et décrit aux secours ce qu’elle observe. Le suivi de l’anorexie mentale inclut l’évaluation de risques physiques. Dans cette situation, plusieurs causes restent possibles et l’aide médicale ne doit pas attendre le prochain rendez-vous. Les professionnels prennent en charge le malaise à partir des éléments qu’ils recueillent sur place."
     },
     {
       "number": 10,
       "slug": "clemence-rendez-vous-apres",
-      "title": "Après le malaise, Clémence choisit ce qu’elle veut dire au club",
+      "title": "Se sentir exposée après un malaise et choisir ce qu’on raconte",
       "description": "Après le malaise, Clémence reprend le suivi avec l’équipe spécialisée et choisit ce qu’elle veut dire au ciné-club.",
       "context": "coordonner les suites d’une évaluation urgente et clarifier les informations utiles pour revenir au club",
       "topics": [
-        "Choix des informations confiées",
-        "Attentes et limites pour la reprise",
-        "Coordination des soins après l’urgence"
+        "Confidentialité des soins",
+        "Crainte d’être réduite à son trouble",
+        "Continuité du suivi"
       ],
-      "opening": "Clémence a mis le document remis après l’évaluation médicale derrière la fiche du film. Elle l’a fait en rentrant, parce que c’était la seule chemise qu’elle avait sous la main. En attendant son rendez-vous avec le service spécialisé, elle déplace la fiche pour que le document soit le premier à sortir. Elle ne sait pas ce que son équipe a déjà reçu. Elle aimerait aussi savoir à quel moment elle peut dire à la référente ce qu’elle pourra faire pour la soirée.\n\nLe dernier message du club demande simplement qui peut reprendre l’essai de projection. Baya lui a écrit séparément pour prendre de ses nouvelles et lui dire où la référente a rangé le boîtier. Clémence avait préparé une longue réponse, avec le déroulement du malaise tel qu’on le lui a raconté. Elle l’a laissée en brouillon. Elle voudrait d’abord comprendre ce que les professionnels lui recommandent pour les prochains jours. Elle décidera ensuite de ce qu’elle veut raconter à Baya et de ce que la référente doit savoir pour préparer la projection.\n\nPendant l’entretien, elle pose le document sur la table et demande qui va reprendre les informations. Elle dit qu’elle souhaite garder une part dans la soirée si c’est compatible avec les suites du suivi. La professionnelle lui demande quelle tâche compte le plus pour elle. Clémence montre la fiche du film. Elle pourrait la finir même si la présentation devait être partagée. Elle voudrait pouvoir garder cette possibilité pendant qu’elles examinent le reste.",
+      "opening": "Clémence a mis le document remis après l’évaluation médicale derrière la fiche du film. Elle l’a fait en rentrant, parce que c’était la seule chemise qu’elle avait sous la main. En attendant son rendez-vous avec le service spécialisé, elle déplace la fiche pour que le document soit le premier à sortir. Elle ne sait pas ce que son équipe a déjà reçu. Elle aimerait aussi savoir à quel moment elle peut dire à la référente ce qu’elle pourra faire pour la soirée.\n\nLe dernier message du club demande simplement qui peut reprendre l’essai de projection. Baya lui a écrit séparément pour prendre de ses nouvelles et lui dire où la référente a rangé le boîtier. Clémence avait préparé une longue réponse, avec le déroulement du malaise tel qu’on le lui a raconté. Elle l’a laissée en brouillon. La pensée que tout le monde pourrait la voir désormais comme la fille qui a fait un malaise lui serre le ventre. Elle voudrait d’abord comprendre ce que les professionnels lui recommandent pour les prochains jours. Elle décidera ensuite de ce qu’elle veut raconter à Baya et de ce que la référente doit savoir pour préparer la projection.\n\nPendant l’entretien, elle pose le document sur la table et demande qui va reprendre les informations. Elle dit qu’elle souhaite garder une part dans la soirée si c’est compatible avec les suites du suivi. La professionnelle lui demande quelle tâche compte le plus pour elle. Clémence montre la fiche du film. Elle pourrait la finir même si la présentation devait être partagée. Elle voudrait pouvoir garder cette possibilité pendant qu’elles examinent le reste.",
       "sections": [
         {
           "heading": "Assurer la continuité après une évaluation urgente",
@@ -367,20 +385,22 @@
       "continuity": {
         "choice": "Clémence clarifie la suite des soins et transmet au club les informations nécessaires à la programmation.",
         "next": "Quand la référente envoie le dernier programme, Clémence décide quelle place elle pourra prendre dans la soirée."
-      }
+      },
+      "clinical_focus": "Confidentialité des soins et honte",
+      "clinical_intro": "Après le malaise, Clémence a préparé un long message qu’elle n’envoie pas. Elle craint que le groupe réduise désormais sa présence au club à cet épisode. Dans le suivi de l’anorexie mentale, le service doit disposer des informations utiles à la santé. Clémence choisit ensuite ce qu’elle partage avec Baya et les renseignements pratiques dont le club a besoin."
     },
     {
       "number": 11,
       "slug": "clemence-programme-plie",
-      "title": "Avant la projection, partager les rôles quand on veut tout prévoir",
+      "title": "Reprendre une activité après le malaise sans se sentir obligée de tout assurer",
       "description": "La date approche. Clémence précise sa place dans la soirée et laisse à Baya la présentation du film qu’elle a choisi.",
       "context": "convenir des rôles le soir de la projection en tenant compte du suivi et des disponibilités",
       "topics": [
-        "Tendance à tout anticiper",
-        "Délégation de tâches",
-        "Choix de ses limites"
+        "Peur de décevoir",
+        "Reprise progressive des activités",
+        "Soutien coordonné"
       ],
-      "opening": "La référente a confirmé qu’elles pourront projeter le court métrage au rideau. Elle a imprimé un programme plié, avec le film de Clémence à l’intérieur et celui de Baya au dos. Elle veut savoir qui s’occupera de l’accueil et de la présentation. Clémence a déjà préparé quelques phrases pour parler de la porte. Sur une feuille à part, elle a aussi prévu ce qu’elle dirait si Baya oubliait d’expliquer le rideau. Baya voit la feuille, lit le titre et lui demande si elles avaient décidé de présenter les deux films ensemble.\n\nAu dernier rendez-vous, Clémence a discuté avec les professionnels de ce qu’elle peut reprendre et garde un point prévu avec eux. Elle a confirmé à la référente qu’elle souhaite présenter son film. Elle voudrait que quelqu’un d’autre s’occupe de l’accueil. Dans sa tête, elle se retrouve pourtant déjà au foyer, près de la table, à répondre sur l’horaire puis à vérifier que Baya a retrouvé ses mots. Elle replie le programme pour voir quelle partie disparaît quand il est posé sur le comptoir.\n\nBaya dit qu’elle veut présenter le court métrage avec la question qu’elle a écrite. Elle aimerait aussi entendre l’introduction de Clémence avant de passer à la sienne. La référente propose de tenir la table avec une autre bénévole. Clémence pourrait leur remettre les fiches et garder sa feuille sur la porte. Elle ouvre le programme et indique à Baya l’endroit où elle veut s’arrêter quand elle présentera son film.",
+      "opening": "La référente a confirmé qu’elles pourront projeter le court métrage au rideau. Elle a imprimé un programme plié, avec le film de Clémence à l’intérieur et celui de Baya au dos. Elle veut savoir qui s’occupera de l’accueil et de la présentation. Clémence a déjà préparé quelques phrases pour parler de la porte. Elle se sent coupable d’avoir laissé l’essai aux autres le jour du malaise et voudrait leur montrer qu’ils peuvent de nouveau compter sur elle. Sur une feuille à part, elle a aussi prévu ce qu’elle dirait si Baya oubliait d’expliquer le rideau. Baya voit la feuille, lit le titre et lui demande si elles avaient décidé de présenter les deux films ensemble.\n\nAu dernier rendez-vous, Clémence a discuté avec les professionnels de ce qu’elle peut reprendre et garde un point prévu avec eux. Elle a confirmé à la référente qu’elle souhaite présenter son film. Elle voudrait que quelqu’un d’autre s’occupe de l’accueil. Dans sa tête, elle se retrouve pourtant déjà au foyer, près de la table, à répondre sur l’horaire puis à vérifier que Baya a retrouvé ses mots. Elle replie le programme pour voir quelle partie disparaît quand il est posé sur le comptoir.\n\nBaya dit qu’elle veut présenter le court métrage avec la question qu’elle a écrite. Elle aimerait aussi entendre l’introduction de Clémence avant de passer à la sienne. La référente propose de tenir la table avec une autre bénévole. Clémence pourrait leur remettre les fiches et garder sa feuille sur la porte. Elle ouvre le programme et indique à Baya l’endroit où elle veut s’arrêter quand elle présentera son film.",
       "sections": [
         {
           "heading": "Préparer la participation avec les personnes concernées",
@@ -403,23 +423,25 @@
       "continuity": {
         "choice": "Clémence présente le film d’ouverture, confie l’accueil à la référente et laisse Baya présenter son court métrage.",
         "next": "Pendant la projection, une réaction imprévue du public leur donne une nouvelle question à partager."
-      }
+      },
+      "clinical_focus": "Reprise progressive des activités",
+      "clinical_intro": "Clémence veut présenter le film d’ouverture. Après le malaise, elle se surprend pourtant à préparer aussi l’accueil et la présentation de Baya, comme si elle devait prouver qu’elle peut tout reprendre. Les professionnels l’aident à discuter de sa participation en tenant compte de sa santé. Au club, Clémence répartit les tâches pour garder celle qui compte pour elle."
     },
     {
       "number": 12,
       "slug": "clemence-question-dans-le-noir",
-      "title": "Au ciné-club, accueillir une réaction qu’on n’attendait pas",
+      "title": "Retrouver du plaisir dans une activité pendant le suivi de l’anorexie",
       "description": "La soirée a lieu. Clémence et Baya présentent leurs films, et une réaction de la salle change la discussion qu’elles avaient préparée.",
       "context": "mener une soirée partagée au ciné-club et poursuivre les choix de soin et de participation après l’événement",
       "topics": [
-        "Écoute d’un point de vue inattendu",
-        "Participation choisie pour la suite",
-        "Continuité des soins"
+        "Plaisir retrouvé",
+        "Qualité de vie dans le suivi",
+        "Préoccupations alimentaires persistantes"
       ],
-      "opening": "Clémence commence à parler de la porte alors que la lumière du couloir entre encore dans la salle. Elle attend que la référente ait tiré le battant. Une personne s’installe au dernier rang et lui fait signe qu’elle peut continuer. Clémence lit la première phrase de sa fiche, puis regarde l’écran encore vide. Elle dit qu’elle voudrait savoir à quel moment les gens auront l’impression que quelqu’un écoute le personnage dans l’embrasure. Cette question lui est venue en répétant avec Baya. Elle ne sait pas ce qu’elle entendra après.\n\nLe premier film se termine. Baya présente le sien et invite la salle à regarder le bord de l’image. Au moment où le rideau du magasin descend, quelqu’un rit près de la porte. Clémence croyait que la salle resterait silencieuse. Quand la lumière revient, Baya raconte qu’elle s’attendait elle aussi à un silence. Elle demande à la personne qui a ri si elle veut dire à quoi elle pensait. La réponse porte sur une main qui reste à l’image alors que le personnage essaie de fermer la boutique. Clémence n’avait jamais remarqué cette main.\n\nDans sa chemise, elle a gardé l’invitation du musée avec le contact du service. Le prochain rendez-vous est toujours prévu. Elle voudrait raconter à l’équipe le moment où elle a failli reprendre toutes les tâches et la question qu’elle garde sur les soirées collectives. Pour l’instant, elle demande à la référente si elles peuvent faire revoir le passage à la salle. Baya reprend sa place et regarde avec elle le bord de l’image.",
+      "opening": "Clémence commence à parler de la porte alors que la lumière du couloir entre encore dans la salle. Elle attend que la référente ait tiré le battant. Une personne s’installe au dernier rang et lui fait signe qu’elle peut continuer. Clémence lit la première phrase de sa fiche, puis regarde l’écran encore vide. Elle dit qu’elle voudrait savoir à quel moment les gens auront l’impression que quelqu’un écoute le personnage dans l’embrasure. Cette question lui est venue en répétant avec Baya. Elle ne sait pas ce qu’elle entendra après.\n\nLe premier film se termine. Baya présente le sien et invite la salle à regarder le bord de l’image. Au moment où le rideau du magasin descend, quelqu’un rit près de la porte. Clémence croyait que la salle resterait silencieuse. Quand la lumière revient, Baya raconte qu’elle s’attendait elle aussi à un silence. Elle demande à la personne qui a ri si elle veut dire à quoi elle pensait. La réponse porte sur une main qui reste à l’image alors que le personnage essaie de fermer la boutique. Clémence n’avait jamais remarqué cette main.\n\nDans sa chemise, elle a gardé l’invitation du musée avec le contact du service. Le prochain rendez-vous est toujours prévu. Elle voudrait raconter à l’équipe le moment où elle a failli reprendre toutes les tâches et la crainte qu’un repas de groupe lui reprenne toute son attention lors de la prochaine soirée. Pour l’instant, elle demande à la référente si elles peuvent faire revoir le passage à la salle. Baya reprend sa place et regarde avec elle le bord de l’image.",
       "sections": [
         {
-          "heading": "Garder un suivi qui tient compte de la suite",
+          "heading": "Parler du plaisir retrouvé et des difficultés qui persistent",
           "text": "Le suivi d’un trouble des conduites alimentaires peut se poursuivre pendant que la personne reprend des activités qui lui importent. Le NICE recommande de coordonner les soins et de tenir compte des besoins de santé, des études et de la vie sociale. Clémence peut apporter au rendez-vous ce qu’elle a trouvé difficile et ce qu’elle a apprécié dans la préparation. Elle pourra dire quelle place elle aimerait garder aux études et à la programmation lors des prochaines semaines. L’équipe reste l’interlocuteur pour apprécier les changements de santé et discuter avec elle de ce qu’il faudra revoir."
         },
         {
@@ -439,7 +461,9 @@
       "continuity": {
         "choice": "Clémence et Baya présentent leur propre film et laissent ouverte leur participation à la prochaine séance.",
         "next": "Clémence garde son rendez-vous spécialisé et veut reprendre avec le club la préparation d’une autre fiche."
-      }
+      },
+      "clinical_focus": "Qualité de vie et suivi",
+      "clinical_intro": "Clémence écoute quelqu’un expliquer pourquoi il a ri pendant le film et retrouve le plaisir de découvrir un détail qu’elle n’avait pas remarqué. Cette soirée lui apprend ce que la reprise du club lui apporte et ce qui lui demande encore un appui. Les préoccupations alimentaires gardent une place dans son suivi. Elle veut aussi parler à l’équipe des activités qu’elle a envie de retrouver."
     }
   ]
 }

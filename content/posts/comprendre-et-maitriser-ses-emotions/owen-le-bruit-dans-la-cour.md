@@ -1,29 +1,31 @@
 ---
-title: Être écouté pour son idée pendant un essai
-description: Un banc, un sac et le bruit d’une grille suffisent à l’essai. Owen demande
-  au club de comparer les histoires qu’il a entendues.
+title: Écouter le contenu d’une parole qui bégaie
+description: Malgré une réplique préparée, Owen s’arrête sur un mot. À la réécoute,
+  Lina réagit à ce qu’elle a compris de l’histoire.
 slug: owen-le-bruit-dans-la-cour
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Owen
-sujet: Trouble développemental de la fluence de la parole
+sujet: Écoute du contenu
 contexte: faire un retour sur la narration et décider ensemble combien de voix garder
 tags:
+- Trouble développemental de la fluence de la parole
 - Bégaiement
 - Bégaiement développemental
-- Se sentir écouté
-- Retour sur ce qu’on a compris
-- Décision en groupe
+- Blocage sur un texte préparé
+- Réaction de l’interlocuteur
+- Qualité de la communication
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.1
+clinical_diagnosis: Trouble développemental de la fluence de la parole
 episode: 5
 ---
 
 Mercredi, Nassim attache à sa sangle le bouchon qu’Owen lui rend. Il n’a plus une main libre quand Lina lui demande de tenir le pied de la caméra. Ils sont sous le préau, avec un banc de l’ancienne cantine pour jouer le terminus. La latte censée être mouillée est aussi mate que les autres. Lucile y laisse tomber un peu d’eau de sa gourde et découvre que le bois brille comme une vitre. Au même moment, derrière la porte de service, quelqu’un fait rouler un bac en métal. Ça ressemble assez au bus qu’Owen n’avait pas les moyens de filmer.
 
-M. Vasseur a vérifié avec eux les autorisations pour l’atelier, y compris pour enregistrer les voix ; l’essai restera dans le club. Une fois les images du banc tournées, ils font les voix dans une salle plus calme. Le bruit du bac, ils décident de le refaire eux-mêmes avec une grille que le professeur a trouvée, plutôt que de garder ce qui a été capté dans le préau. Nassim raconte d’abord seul l’histoire en entier. Pour l’autre version, Lucile prend la voyageuse, Nassim celui qui a posé le sac et Owen la personne qui nettoie. Owen doit reprendre la première phrase quand quelqu’un laisse tomber la grille derrière lui. La deuxième fois, il s’arrête encore sur « retourné », cette fois dans le calme. Il va au bout du texte.
+M. Vasseur a vérifié avec eux les autorisations pour l’atelier, y compris pour enregistrer les voix ; l’essai restera dans le club. Une fois les images du banc tournées, ils font les voix dans une salle plus calme. Le bruit du bac, ils décident de le refaire eux-mêmes avec une grille que le professeur a trouvée, plutôt que de garder ce qui a été capté dans le préau. Nassim raconte d’abord seul l’histoire en entier. Pour l’autre version, Lucile prend la voyageuse, Nassim celui qui a posé le sac et Owen la personne qui nettoie. Owen doit reprendre la première phrase quand quelqu’un laisse tomber la grille derrière lui. La deuxième fois, il s’arrête encore sur « retourné », cette fois dans le calme. Il va au bout du texte. En posant le papier, il se demande si les autres vont reparler de ce mot ou de la colère qu’il a voulu donner à la fin.
 
 Lina regarde les deux essais sur l’ordinateur. Après le premier, elle sait pourquoi le nœud a disparu. Après le second, elle demande si celui qui a posé le sac avait peur de se tromper. Owen avait cru que tout le monde s’intéresserait au ruban. Il note la question de Lina à l’envers d’une bande.
 

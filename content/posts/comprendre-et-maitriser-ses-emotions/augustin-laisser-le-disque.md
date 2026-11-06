@@ -1,24 +1,26 @@
 ---
-title: Se sentir écarté quand un ami prend l’accessoire
-description: En voulant faire gagner du temps à la troupe, Maxence tend le soleil
-  à Augustin. Les deux amis se mettent d’accord sur l’aide à apporter.
+title: Quand le temps de préparer un geste est pris pour une demande d’aide
+description: Pendant qu’Augustin ajuste sa prise, Maxence croit qu’il attend un relais
+  et saisit le disque. Augustin veut reprendre l’essai lui-même.
 slug: augustin-laisser-le-disque
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Augustin
-sujet: Trouble développemental de la coordination motrice
+sujet: Délai moteur et aide anticipée
 contexte: lors d’un essai du bac et des bruitages dans l’atelier
 tags:
+- Trouble développemental de la coordination motrice
 - Trouble du développement de la coordination
 - TDC
 - Dyspraxie
-- Choix de l’aide
-- Pression du temps
-- Se sentir remplacé
+- Coordination du geste
+- Frustration d’être remplacé
+- Appui à la demande
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A04
+clinical_diagnosis: Trouble développemental de la coordination motrice
 episode: 6
 ---
 

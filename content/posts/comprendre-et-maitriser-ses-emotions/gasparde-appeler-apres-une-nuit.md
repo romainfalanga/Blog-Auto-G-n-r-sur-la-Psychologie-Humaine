@@ -1,23 +1,24 @@
 ---
-title: Appeler son équipe quand l’inquiétude revient après une bonne journée
+title: Retour d’une préoccupation après une période plus apaisée
 description: Gasparde reconnaît une nuit qui ressemble à celles dont elle a parlé
   avec Farah. Elle ressort la feuille des scores et appelle le centre.
 slug: gasparde-appeler-apres-une-nuit
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gasparde
-sujet: Trouble délirant
+sujet: Fluctuation de la préoccupation
 contexte: Le jeudi matin, chez Gasparde
 tags:
 - Trouble délirant
 - Trouble délirant persistant
-- Retentissement sur le sommeil
-- Revenir vers ses appuis
-- Suivre une évolution dans le temps
+- Fluctuation de la préoccupation
+- Ruminations nocturnes
+- Recours à l’équipe de soins
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A24
+clinical_diagnosis: Trouble délirant
 episode: 11
 ---
 

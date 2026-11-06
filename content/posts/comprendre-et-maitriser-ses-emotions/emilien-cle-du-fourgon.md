@@ -1,23 +1,25 @@
 ---
-title: 'Prise de risque : Émilien renonce à conduire et demande de l’aide'
+title: Prise de risque et signes de manie avant de conduire
 description: La situation change avant le rendez-vous prévu. Émilien renonce à prendre
   le volant et demande une évaluation urgente avec l’aide de Lucie.
 slug: emilien-cle-du-fourgon
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Émilien
-sujet: Trouble bipolaire de type I
+sujet: Prise de risque en période maniaque
 contexte: faire appel sans attendre quand l’évolution des signes fait apparaître un
   risque concret
 tags:
+- Trouble bipolaire de type I
 - Bipolarité type I
 - Prise de risque
-- Difficulté à garder le fil
-- Recours urgent
+- Perte du fil
+- Évaluation urgente
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A60
+clinical_diagnosis: Trouble bipolaire de type I
 episode: 5
 ---
 

@@ -1,22 +1,24 @@
 ---
-title: La honte de reprendre sa place à la table de poterie
+title: Honte anticipée et choix de parler de son absence
 description: Maud a gardé le bol et la carafe. À l’atelier, Diane voudrait les revoir
   sans avoir à raconter son absence à chaque personne qui entre.
 slug: diane-honte-table-poterie
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Diane
-sujet: Trouble psychotique aigu et transitoire
+sujet: Honte anticipée
 contexte: À l’atelier de Maud, vingt minutes avant le cours du soir
 tags:
+- Trouble psychotique aigu et transitoire
 - Psychose aiguë et transitoire
-- Honte d’être remarquée à son retour
-- Limite posée à une question personnelle
-- Engagement à sa propre mesure
+- Honte anticipée
+- Peur du jugement
+- Confidentialité choisie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A23
+clinical_diagnosis: Trouble psychotique aigu et transitoire
 episode: 4
 ---
 

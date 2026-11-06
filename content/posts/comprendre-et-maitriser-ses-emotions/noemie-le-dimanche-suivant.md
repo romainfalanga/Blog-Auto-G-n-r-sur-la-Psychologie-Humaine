@@ -1,22 +1,24 @@
 ---
-title: Garder une place pour ses envies au-delà des vérifications
-description: Après l’exposition, Noémie fait le point avec sa clinicienne et avec
-  Maud. Elle emporte son carnet pour dessiner près du canal.
+title: Évaluer ce que le TOC prend encore aux activités de Noémie
+description: Noémie rapporte deux scènes différentes à sa clinicienne. Elle observe
+  la place des rituels dans le tram et ce qu’elle retrouve avec Maud.
 slug: noemie-le-dimanche-suivant
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Noémie
-sujet: Trouble obsessionnel-compulsif
+sujet: Retentissement des rituels mentaux
 contexte: Après l’exposition, au rendez-vous de suivi puis au bord du canal
 tags:
+- Trouble obsessionnel-compulsif
 - TOC
-- Soutien négocié
-- Loisirs choisis
-- Vérifications répétées
+- Rituels mentaux
+- Évolution du retentissement
+- Suivi du TOC
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B20
+clinical_diagnosis: Trouble obsessionnel-compulsif
 episode: 12
 ---
 
@@ -26,7 +28,7 @@ Dans la salle d’attente de la clinicienne, elle a deux choses à raconter. Le 
 
 Dans son sac, le carnet de croquis a remplacé les épreuves de l’exposition. Maud et elle ont prévu de marcher dimanche vers l’escalier. Elles ont parlé de ce qu’elles emmèneraient pour manger et de l’heure à laquelle Maud doit rentrer préparer sa répétition. Noémie espère dessiner la berge assez longtemps pour voir dans quelle direction le mur change de couleur.
 
-## Faire le point sur ce qui aide et ce qui reste difficile
+## Mettre des mots sur le coût des rituels invisibles
 
 En consultation, Noémie peut revenir sur le temps passé aux vérifications, les gestes mentaux qui se remarquent peu et les activités qu’elle a envie de garder. Elle décrit ce qui a changé dans certaines situations et ce qui persiste. La clinicienne peut décider avec elle comment poursuivre le soin, ce qui mérite d’être réexaminé et à quel moment elles feront un nouveau point. Noémie peut demander qui contacter si les symptômes prennent davantage de place ou si l’accord avec Maud devient trop difficile à tenir.
 

@@ -1,30 +1,32 @@
 ---
-title: Faire entendre ses préférences en réunion
-description: Pendant une réunion à l’école, Agathe choisit les aides qu’elle veut
-  transmettre à Camille et garde une place pour les futurs jardiniers.
+title: Comprendre une réunion où l’on décide de vos aménagements
+description: Les adultes discutent des « aménagements ». Agathe demande de préciser
+  ce mot et dit quelle aide elle veut transmettre à l’animatrice.
 slug: agathe-deux-creneaux
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Agathe
-sujet: Trouble développemental du langage
+sujet: Compréhension du vocabulaire institutionnel
 contexte: Un vendredi après la classe, Agathe et sa mère rencontrent Mme Roussel pour
   faire le point avant la fin de l’année.
 tags:
+- Trouble développemental du langage
 - TDL
 - DLD (developmental language disorder)
-- Prendre la parole en réunion
-- Choisir ce qu’on transmet
-- Convenir des appuis à l’école
+- Langage réceptif
+- Expression des besoins
+- Choix des informations partagées
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.2
+clinical_diagnosis: Trouble développemental du langage
 episode: 6
 ---
 
 Les chaises des parents étaient si basses que la mère d’Agathe avait mis son sac sur ses genoux pour ne pas le laisser traîner. Mme Roussel avait ouvert un agenda et le carton du jardin occupait un coin du bureau. Elles parlaient des dernières semaines de CM2 et de ce qui avait aidé Agathe quand il fallait travailler à plusieurs. À côté de la règle de la maîtresse, Agathe apercevait sa carte grise, le petit fermoir bien noir. Elle avait envie de parler du jeudi avec les CM1. Les deux adultes en étaient encore à « la possibilité d’élargir les aménagements ».
 
-« Attends. Quels aménagements ? » Sa mère tourna la tête vers elle. Mme Roussel reprit : elle voulait savoir ce que les adultes de l’école pouvaient faire quand Agathe perdait le fil. Agathe sortit le papier de la poche de devant. Elle le laissa face contre la table et leur dit ce qu’il y avait dessus. Pour le jardin, elle voulait pouvoir reprendre une question à la fois. Et quand on changeait le programme, elle voulait voir ce qui passait en premier. Elle était d’accord pour que la maîtresse en parle à Camille. La feuille de l’orthophoniste dans le sac de sa mère, c’était autre chose ; elle demanda qu’elle reste dans le sac pour cette discussion.
+« Attends. Quels aménagements ? » Sa mère tourna la tête vers elle. Mme Roussel reprit : elle voulait savoir ce que les adultes de l’école pouvaient faire quand Agathe perdait le fil. Agathe sentit la conversation lui redevenir accessible. Elle sortit le papier de la poche de devant. Elle le laissa face contre la table et leur dit ce qu’il y avait dessus. Pour le jardin, elle voulait pouvoir reprendre une question à la fois. Et quand on changeait le programme, elle voulait voir ce qui passait en premier. Elle était d’accord pour que la maîtresse en parle à Camille. La feuille de l’orthophoniste dans le sac de sa mère, c’était autre chose ; elle demanda qu’elle reste dans le sac pour cette discussion.
 
 Mme Roussel montra deux cases dans l’agenda : un petit essai jeudi et une présentation à la classe suivante plus tard. Agathe suivit les deux cases avec l’ongle. « Je voudrais qu’ils essayent avant qu’on mette les feuilles au propre. Deux élèves, ça suffit. »
 

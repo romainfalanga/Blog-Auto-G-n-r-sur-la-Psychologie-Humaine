@@ -1,23 +1,24 @@
 ---
-title: Chercher qui a changé le plan quand quelqu’un attend au mauvais endroit
+title: Certitude d’une intention hostile quand il manque une information
 description: Levent arrive par le parc et manque le début de l’accueil. Gasparde reprend
   le trajet avec lui et corrige le plan du club.
 slug: gasparde-deux-portails
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gasparde
-sujet: Trouble délirant
+sujet: Certitude et interprétation
 contexte: Le samedi matin, entre le terrain et l’entrée du parc
 tags:
 - Trouble délirant
 - Trouble délirant persistant
-- Soupçons et incertitude
-- Attention aux explications possibles
-- Réparer un malentendu
+- Certitude et interprétation
+- Conviction persécutive
+- Vérifier un fait concret
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A24
+clinical_diagnosis: Trouble délirant
 episode: 5
 ---
 

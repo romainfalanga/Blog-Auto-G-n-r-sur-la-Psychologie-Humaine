@@ -1,23 +1,25 @@
 ---
-title: Dire au médecin ce que la fatigue change au quotidien
-description: Meriem vient voir son médecin pour ses nuits hachées. Elle voudrait que
-  la fatigue soit examinée avec le reste de ce qu’elle vit.
+title: Fatigue et concentration dans le suivi du stress post-traumatique complexe
+description: Les réveils compliquent la préparation de l’atelier. Meriem demande à
+  son médecin d’examiner le sommeil et la fatigue.
 slug: meriem-colonne-des-nuits
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Meriem
-sujet: Trouble de stress post-traumatique complexe
+sujet: Fatigue et attention soutenue
 contexte: Au cabinet de son médecin
 tags:
+- Trouble de stress post-traumatique complexe
 - TSPT complexe
 - CPTSD
-- Sommeil et fatigue
-- Reconnaître ses besoins
-- Demander du soutien
+- Sommeil fragmenté
+- Concentration perturbée
+- Évaluation clinique
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B41
+clinical_diagnosis: Trouble de stress post-traumatique complexe
 episode: 5
 ---
 
@@ -27,7 +29,7 @@ Elle a failli prendre le bus dans la mauvaise direction en venant. Elle a aussi 
 
 Son médecin ouvre le dossier. Il sait déjà que sa thérapeute la suit pour un stress post-traumatique complexe. Meriem a préparé une phrase pour lui demander de regarder le sommeil en particulier. Elle hésite : si elle précise qu’elle a dormi cet après-midi sur le canapé, il pourrait croire qu’elle fait une montagne de deux réveils. Elle se décide à lui montrer toute la feuille. Sous les heures, elle a écrit le nombre de fois où elle a relu la même phrase du règlement de l’atelier. C’est la ligne qu’elle tient le plus à lui faire lire.
 
-## Un diagnostic connu laisse des questions ouvertes
+## Examiner la fatigue et son retentissement
 
 La fatigue, les nuits hachées ou le retrait social peuvent avoir plusieurs explications, même chez une personne qui a déjà reçu un diagnostic. Le trouble de stress post-traumatique complexe peut s’accompagner d’autres difficultés, notamment de symptômes dépressifs. Le médecin peut examiner comment le sommeil a changé, dans quelles circonstances les réveils surviennent et quelles conséquences ils ont sur les journées. Il peut aussi rechercher d’autres causes, selon ce que Meriem lui raconte et ce qu’il observe.
 

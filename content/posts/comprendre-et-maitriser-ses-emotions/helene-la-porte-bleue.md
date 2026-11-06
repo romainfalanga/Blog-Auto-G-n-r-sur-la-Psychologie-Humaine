@@ -1,23 +1,25 @@
 ---
-title: Apprendre un trajet en choisissant soi-même ses repères
+title: Apprendre un trajet en construisant ses propres repères
 description: Lors d’un premier trajet vers le dépôt, Hélène compose un plan avec les
   repères qu’elle reconnaît depuis la rue.
 slug: helene-la-porte-bleue
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Hélène
-sujet: Trouble du développement intellectuel
+sujet: Apprentissage pratique en situation
 contexte: Entre l’arrêt Marché et le nouveau dépôt, un vendredi matin
 tags:
+- Trouble du développement intellectuel
 - TDI
 - Troubles du développement intellectuel
-- Apprentissage en situation
+- Habiletés pratiques
 - Repères visuels
-- Aide à la demande
+- Apprentissage en situation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A00
+clinical_diagnosis: Trouble du développement intellectuel
 episode: 3
 ---
 

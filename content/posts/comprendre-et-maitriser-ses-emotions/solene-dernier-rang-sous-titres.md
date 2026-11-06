@@ -1,22 +1,24 @@
 ---
-title: Défendre son choix quand les avis divergent
+title: Peur de paraître incapable quand on a besoin de temps pour décider
 description: À la médiathèque, Célestin perd des mots au fond de la salle. Solène
   doit choisir combien de places proposer pour garder le film de l’abribus.
 slug: solene-dernier-rang-sous-titres
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Solène
-sujet: Trouble schizoaffectif
+sujet: Peur d’être disqualifiée
 contexte: À l’essai dans la médiathèque de la Rive, avant l’impression de l’annonce
 tags:
+- Trouble schizoaffectif
 - Trouble schizo-affectif
-- Garder sa place au travail
-- Désaccord professionnel
-- Décider en équipe
+- Peur d’être disqualifiée
+- Affirmation de soi
+- Temps de décision
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A21
+clinical_diagnosis: Trouble schizoaffectif
 episode: 10
 ---
 
@@ -26,7 +28,9 @@ Mireille propose de supprimer le film avant de tirer les affiches. Elle a promis
 
 La bibliothécaire entre pour demander ce qu’elle peut annoncer au groupe qui se réunit d’habitude le samedi. Elle a quatre personnes qui pensent venir ensemble. Solène sent que répondre tout de suite lui coûte. Depuis son retour au dépôt, elle a demandé deux fois une pause avant un échange et redoute qu’on entende « je ne peux plus choisir ». Elle demande cinq minutes et pose le plan de la salle sur le dernier siège. Elle veut savoir ce qu’elles peuvent encore changer, en plus du nombre de chaises.
 
-## Une hésitation au travail appelle une question de travail
+## Avoir besoin de temps et pouvoir défendre un choix
+
+Quand Solène demande cinq minutes, elle redoute de paraître incapable de choisir. Une pause peut lui servir à retrouver l’ordre des informations utiles et à formuler ce qu’elle propose. Dans une reprise professionnelle, l’équipe peut laisser ce temps puis évaluer la proposition sur ce qu’elle change dans le travail.
 
 Le trouble schizoaffectif peut avoir des effets sur la vie professionnelle, et ces effets peuvent changer au cours du suivi. Le nom du trouble ne renseigne pas sur la lisibilité de l’image, ni sur la décision à prendre pour cette salle. Célestin et Solène ont constaté un problème de lecture depuis un même rang. Mireille y ajoute une contrainte : le nombre de places que la médiathèque souhaitait proposer. Ces faits suffisent à ouvrir la discussion.
 

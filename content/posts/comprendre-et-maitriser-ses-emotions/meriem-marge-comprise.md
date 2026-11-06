@@ -1,23 +1,25 @@
 ---
-title: Revenir à la conversation quand une émotion déborde
-description: Le premier échange ouvre. Une question sur la marge de couture bouscule
-  Meriem ; elle choisit de garder sa place en changeant le mode d’emploi.
+title: Régulation émotionnelle quand une question de couture sonne comme un reproche
+description: Meriem comprend que Joël parle du patron. L’agacement et la honte restent
+  présents et lui demandent du temps avant de répondre.
 slug: meriem-marge-comprise
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Meriem
-sujet: Trouble de stress post-traumatique complexe
+sujet: Régulation émotionnelle après un rappel
 contexte: Le samedi de l’ouverture
 tags:
+- Trouble de stress post-traumatique complexe
 - TSPT complexe
 - CPTSD
-- Régulation émotionnelle
-- Honte et autocritique
-- Demander un relais
+- Réactivité émotionnelle
+- Honte
+- Retour à l’échange
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B41
+clinical_diagnosis: Trouble de stress post-traumatique complexe
 episode: 10
 ---
 

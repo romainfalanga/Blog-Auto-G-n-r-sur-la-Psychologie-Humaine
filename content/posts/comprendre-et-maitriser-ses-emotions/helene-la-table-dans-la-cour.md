@@ -1,23 +1,25 @@
 ---
-title: Poser ses limites quand le travail s’invite à la maison
+title: Garder ses limites quand une consigne arrive à la maison
 description: En préparant un dîner dans sa cour avec sa cousine Léa, Hélène remet
   à plus tard une consigne de tournée arrivée le dimanche.
 slug: helene-la-table-dans-la-cour
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Hélène
-sujet: Trouble du développement intellectuel
+sujet: Adaptation des consignes et limites
 contexte: Dans la cour d’Hélène et à sa table de cuisine, un dimanche
 tags:
+- Trouble du développement intellectuel
 - TDI
 - Troubles du développement intellectuel
-- Limites avec les proches
-- Respect du rythme
-- Surcharge d’informations
+- Compréhension des consignes
+- Limites au travail
+- Soutien à la demande
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A00
+clinical_diagnosis: Trouble du développement intellectuel
 episode: 6
 ---
 
@@ -27,7 +29,7 @@ En rentrant chercher les couverts pour vérifier qu’il y en a assez, Hélène 
 
 « On n’a pas fini avec le dîner », dit Hélène. Elle veut d’abord choisir qui apporte quoi. Pour le travail, elle demandera lundi à Maud l’heure et le lieu qui la concernent. Léa récupère le verre dans la cour et lance le vrai problème du dimanche : elle veut faire un gâteau, mais Hélène avait prévu une tarte.
 
-## Choisir le moment de reprendre une information
+## Le coût de décoder une consigne en dehors du travail
 
 Une consigne peut attendre qu’elle soit présentée dans des conditions où la personne pourra l’utiliser. Le message de la recyclerie mélange le trajet d’Hélène et les horaires du camion, comme si une même image suffisait aux deux destinataires. L’OMS rappelle que le fonctionnement au quotidien dépend aussi de ce que demande l’environnement. Dans le cas d’Hélène, il est plus utile de distinguer qui doit faire quoi que de lui demander de relire la photo jusqu’à en tirer une heure.
 

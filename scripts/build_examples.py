@@ -178,6 +178,7 @@ def build(write=True):
             metadata['pattern_source'] = 'editorial_pack_v10_reviewed_story'
         if meta.get('clinical_code'):
             metadata['clinical_code'] = meta['clinical_code']
+            metadata['clinical_diagnosis'] = meta['clinical_diagnosis']
         summary = metadata['summary']
         # Opening scene + ending retain narrative approach at a bounded context cost.
         excerpt = body.strip()

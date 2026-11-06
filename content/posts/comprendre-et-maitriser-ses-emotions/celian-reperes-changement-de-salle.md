@@ -1,23 +1,25 @@
 ---
-title: Retrouver ses repères quand le lieu change
+title: Changer de format de lecture quand le contexte change
 description: Le foyer réservé pour le goûter devient indisponible. Célian doit retrouver
   le nouveau plan entre deux bruits de ballon.
 slug: celian-reperes-changement-de-salle
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Célian
-sujet: Trouble développemental des apprentissages avec déficit en lecture
+sujet: Accessibilité et exigences de la situation
 contexte: Dans le couloir des vestiaires, le jeudi avant la rencontre.
 tags:
+- Trouble développemental des apprentissages avec déficit en lecture
 - Dyslexie
 - Trouble développemental de la lecture
-- Adaptation à l’imprévu
-- Pression du temps
-- Coopération
+- Accès au texte
+- Attention divisée
+- Ajustement de l’environnement
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.0
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en lecture
 episode: 9
 ---
 

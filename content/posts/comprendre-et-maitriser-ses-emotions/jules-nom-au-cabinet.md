@@ -1,22 +1,24 @@
 ---
-title: 'Trouble panique : quand la peur persiste entre les attaques'
+title: Le trouble panique et la peur qui s’installe entre les attaques
 description: La psychiatre reprend avec Jules l’histoire des épisodes et ce qu’ils
   ont changé. Elle lui explique pourquoi elle retient un trouble panique.
 slug: jules-nom-au-cabinet
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Jules
-sujet: Trouble panique
+sujet: Inquiétude persistante entre les attaques
 contexte: Lors de la consultation spécialisée, après le premier bilan médical
 tags:
+- Trouble panique
 - Attaques de panique
 - Attaques de panique inattendues
-- Inquiétude entre les attaques
-- Changements dans les activités
+- Anxiété d’anticipation
+- Retentissement sur les activités
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B01
+clinical_diagnosis: Trouble panique
 episode: 3
 ---
 
@@ -28,7 +30,7 @@ La psychiatre reprend l’histoire avec lui, les résultats des examens décidé
 
 ## Ce que la psychiatre met en relation
 
-Le trouble panique, classé 6B01 dans la CIM-11, comporte des attaques de panique inattendues qui se répètent. Une inquiétude durable quant à leur retour ou des changements dans les activités peuvent les accompagner. La psychiatre regarde ensemble les épisodes, leurs circonstances, les conséquences et les autres explications possibles. Chez Jules, elle tient compte de l’histoire qu’il décrit et des éléments du bilan. L’évaluation ne repose pas sur la seule visite aux urgences.
+Le trouble panique, classé 6B01 dans la CIM-11, comporte des attaques de panique inattendues qui se répètent. La peur durable qu’elles reviennent ou les conduites adoptées pour en éviter le retour font aussi partie du tableau. La psychiatre regarde ensemble les épisodes, leurs circonstances, les conséquences et les autres explications possibles. Chez Jules, elle tient compte de l’histoire qu’il décrit et des éléments du bilan. L’évaluation ne repose pas sur la seule visite aux urgences.
 
 Jules peut demander ce que le diagnostic explique et ce qui mérite encore d’être examiné séparément. Il se souvient que la douleur thoracique du marché lui a paru nouvelle. La réponse des professionnels à cet épisode garde sa place dans son dossier. Un nom donné aujourd’hui ne constitue pas une explication automatique de chaque signe physique qui pourra survenir plus tard.
 

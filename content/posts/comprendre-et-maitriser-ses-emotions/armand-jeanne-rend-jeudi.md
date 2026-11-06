@@ -1,23 +1,25 @@
 ---
-title: Poser des limites quand on aide un parent
+title: Charge de l’aidant et peur de ne plus pouvoir aider assez
 description: Jeanne veut garder du temps pour voir son père. Elle lui dit pourquoi
   elle ne peut plus assurer seule le courrier et les rendez-vous.
 slug: armand-jeanne-rend-jeudi
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Armand
-sujet: Démence due à la maladie d’Alzheimer
+sujet: Charge de l’aidant familial
 contexte: Chez Armand, devant les papiers en cours, un jeudi en fin d’après-midi
 tags:
+- Démence due à la maladie d’Alzheimer
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Recevoir de l’aide
-- Fatigue des proches
-- Répartir les responsabilités
+- Charge de l’aidant
+- Limites relationnelles
+- Relais de soutien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D80
+clinical_diagnosis: Démence due à la maladie d’Alzheimer
 episode: 7
 ---
 

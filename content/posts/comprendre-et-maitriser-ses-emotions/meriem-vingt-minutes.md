@@ -1,23 +1,25 @@
 ---
-title: Accepter une invitation quand la proximité inquiète
-description: Après un essai de couture, Chloé invite Meriem à boire un café. Meriem
-  cherche une réponse qui lui permette de garder le lien à son rythme.
+title: Désirer un lien et redouter la proximité quand Chloé propose un café
+description: Meriem aimerait garder le lien avec Chloé. Elle remarque l’envie de prendre
+  ses distances et choisit un café avant le bus.
 slug: meriem-vingt-minutes
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Meriem
-sujet: Trouble de stress post-traumatique complexe
+sujet: Difficulté à se sentir proche
 contexte: En quittant l’atelier du jeudi
 tags:
+- Trouble de stress post-traumatique complexe
 - TSPT complexe
 - CPTSD
-- Confiance dans les relations
-- Poser ses limites
-- Apprivoiser la proximité
+- Difficulté à se sentir proche
+- Retrait relationnel
+- Confiance dans les liens
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B41
+clinical_diagnosis: Trouble de stress post-traumatique complexe
 episode: 3
 ---
 

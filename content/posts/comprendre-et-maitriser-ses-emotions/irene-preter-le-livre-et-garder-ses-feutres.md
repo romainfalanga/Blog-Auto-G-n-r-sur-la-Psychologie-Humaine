@@ -1,23 +1,25 @@
 ---
-title: Poser ses limites quand le livre reste à la médiathèque
-description: Le samedi de lecture est terminé. Mylène propose de laisser le livre
-  à la médiathèque et Irène veut décider ce qui restera avec lui.
+title: Évaluer l’aide d’après ce qu’elle a permis de faire
+description: Au rendez-vous, Irène décrit les moments où elle a pu reprendre la lecture.
+  Elle choisit ensuite ce qu’elle veut laisser à la médiathèque.
 slug: irene-preter-le-livre-et-garder-ses-feutres
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Irène
-sujet: Trouble des mouvements stéréotypés
+sujet: Participation et suivi du retentissement
 contexte: À la médiathèque, pendant le rangement qui suit le samedi de lecture
 tags:
+- Trouble des mouvements stéréotypés
 - Trouble des mouvements stéréotypiques
 - CIM-11 6A06
-- Choisir la suite de son engagement
-- Faire confiance sans tout céder
-- Fierté de transmettre
+- Mouvements stéréotypés
+- Autonomie dans le projet
+- Réévaluation des appuis
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A06
+clinical_diagnosis: Trouble des mouvements stéréotypés
 episode: 12
 ---
 

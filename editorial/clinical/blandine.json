@@ -1,24 +1,24 @@
 {
   "character_id": "blandine",
-  "bio": "Blandine relit des traductions et entend les phrases qui boitent, même en silence. Depuis la mort de sa sœur Jeanne, elle fait souvent un détour pour éviter la salle où elles chantaient. Le manque lui fait parfois perdre le fil au travail. Avec son ami Yannis, elle retrouve aussi le plaisir de rire, quitte à se le reprocher ensuite. Elle aimerait que certaines partitions annotées par Jeanne servent encore au chœur de Léon. Elle prend le temps de choisir ce qu’elle veut transmettre et la place qu’elle souhaite retrouver dans la musique.",
+  "bio": "Blandine, 49 ans, relit des traductions et vit avec un trouble du deuil prolongé depuis la mort de sa sœur Jeanne. Le manque revient parfois pendant des heures et rend le travail ou les invitations difficiles. Elle prend des détours pour éviter la salle où elles chantaient ensemble. Elle retrouve aussi, avec son ami Yannis, des moments de plaisir suivis parfois de culpabilité. Dans son suivi, elle cherche à retrouver du temps pour ce qui compte. Elle choisit quelles partitions annotées par Jeanne peuvent servir au chœur et lesquelles elle souhaite garder.",
   "profile_topics": [
-    "Manque d’un proche",
-    "Effort invisible au travail",
-    "Éviter les lieux du souvenir",
-    "Chagrin et plaisir mêlés",
-    "Intimité des souvenirs"
+    "Trouble du deuil prolongé",
+    "Manque persistant",
+    "Préoccupation pour la personne décédée",
+    "Évitement des rappels du deuil",
+    "Retentissement sur la vie quotidienne"
   ],
   "episodes": [
     {
       "number": 1,
       "slug": "blandine-elastique-bleu",
-      "title": "Quand le manque de Jeanne envahit une journée ordinaire",
-      "description": "Yannis vient dîner. Sur la table, Blandine a laissé les partitions de Jeanne et un message à Léon qu’elle n’arrive pas à envoyer.",
+      "title": "Manque persistant quand Blandine voudrait encore poser une question à Jeanne",
+      "description": "Au dîner, le crayon de Jeanne ramène Blandine à la question qu’elle voudrait lui poser et au temps que le manque a pris dans sa journée.",
       "context": "Chez Blandine, le soir où elle veut enfin écrire au chef de chœur",
       "topics": [
-        "Manque d’un proche",
-        "Souvenirs envahissants",
-        "Soutien amical"
+        "Manque persistant",
+        "Douleur émotionnelle",
+        "Retentissement du deuil"
       ],
       "opening": "Blandine a mis les pommes de terre à cuire dans la casserole à queue courte, celle qui rentre dans l’évier sans cogner le robinet. Yannis vient manger et doit repartir avec son plat en verre. Il le retrouve sur le buffet, sous le dossier noir à l’élastique bleu. Quand il soulève le dossier, une feuille glisse. Il la retient du bout du pied avant qu’elle arrive sous le buffet. Blandine reconnaît la marge des Saules et le trait de crayon qui coupe deux mesures. Jeanne traçait ses flèches de droite à gauche. Elle disait que l’on voyait ainsi tout de suite où la musique allait reprendre.\n\nDepuis le milieu de l’après-midi, Blandine a ouvert quatre fois le fil de messages de Léon, le chef de chœur. Elle voudrait lui demander si les partitions annotées de sa sœur pourraient encore servir. Entre deux tentatives, elle a relu le même paragraphe d’un guide de jardins sans arriver à expliquer pourquoi une phrase lui paraissait fausse. Elle a fini par vérifier les feuilles du dossier une à une. En entendant Yannis sonner, elle s’est surprise à attendre que Jeanne lui demande de quelle casserole il s’agissait. Elle sait que sa sœur est morte. Ce soir encore, il lui manque quelqu’un à qui poser une question aussi petite.\n\nYannis tient la feuille par les coins. Blandine lui demande de la mettre sur la table, sans ouvrir les autres. L’eau commence à déborder ; elle baisse le feu. Elle ne veut pas de la grande conversation qu’ils pourraient avoir au-dessus de la casserole. Elle lui demande de saler les pommes de terre pendant qu’elle rouvre le brouillon.",
       "sections": [
@@ -43,18 +43,20 @@
       "continuity": {
         "choice": "Blandine demande l’avis de Léon sur l’utilité musicale des feuilles ; aucune promesse de don ni de retour.",
         "next": "La réponse de Léon arrive pendant la dernière relecture du guide de jardins, où l’effort pour tenir les délais est devenu difficile à cacher."
-      }
+      },
+      "clinical_focus": "Manque persistant du proche décédé",
+      "clinical_intro": "En voyant l’écriture de Jeanne sur une partition, Blandine voudrait encore lui poser une question toute simple. L’épisode montre le manque qui, dans le trouble du deuil prolongé, revient avec une douleur intense et prend durablement de la place. Une réaction à un souvenir peut aussi appartenir au deuil ordinaire. Le suivi regarde ce que le manque change au fil des journées."
     },
     {
       "number": 2,
       "slug": "blandine-phrase-sur-les-branches",
-      "title": "Tenir les délais malgré un chagrin qui épuise",
-      "description": "Au moment de livrer un guide relu, Blandine doit dire ce qu’elle pourra finir. Léon lui répond au sujet des partitions.",
+      "title": "Le retentissement du deuil quand livrer un texte coûte deux nuits",
+      "description": "Blandine s’arrête à la même page et pense à Jeanne. Pour rendre la commande précédente à l’heure, elle avait travaillé deux nuits.",
       "context": "À son bureau, le jour de remise d’une traduction relue",
       "topics": [
-        "Difficulté à se concentrer",
-        "Effort invisible au travail",
-        "Limites au travail"
+        "Retentissement professionnel",
+        "Concentration perturbée",
+        "Effort supplémentaire"
       ],
       "opening": "Esther attend le guide de jardins à midi pour le transmettre à la maquettiste. Blandine a entouré une phrase qui fait porter les branches basses à l’allée. Elle comprend ce qui s’est passé entre les deux langues : c’est l’allée que les branches recouvrent et le lecteur devrait pouvoir imaginer à quelle hauteur se baisser. Elle propose « l’allée passe sous des branches basses », relit les deux phrases suivantes et découvre un banc orienté vers la mauvaise serre. Elle sait faire ce travail et aime toujours trouver une phrase que le lecteur pourra suivre sans revenir en arrière. Il reste douze pages.\n\nLe téléphone vibre contre le sous-main. Léon a répondu qu’il connaît les versions propres du Pont et des Fenêtres. Des notes de Jeanne pourraient aider à retrouver des choix anciens. Il demande s’il peut en parler avec Blandine la semaine suivante et précise qu’une réponse par écrit lui convient aussi. À la lecture du prénom, Blandine repart vers un autre banc : celui où Jeanne la retrouvait après les répétitions. Elle se rappelle le jour où elles y ont attendu un bus sous la pluie. Elle cherche ce que Jeanne avait dit, et la question lui échappe chaque fois qu’elle croit toucher à la phrase. Quand Esther appelle, le curseur est encore au début de la même page.\n\nBlandine regarde l’heure. Sur le dernier projet elle avait gardé le silence et livré à temps, au prix de deux nuits de travail. Esther lui demande si elle peut prévenir la maquettiste. Blandine répond qu’elle doit d’abord compter les pages dont elle est sûre. Elle ferme le fil avec Léon, relève les numéros des chapitres terminés et propose de rappeler dans cinq minutes.",
       "sections": [
@@ -79,18 +81,20 @@
       "continuity": {
         "choice": "Blandine fixe une remise en deux temps avec Esther et accepte vingt minutes avec Léon à l’annexe lundi.",
         "next": "Samedi, le repas pour l’anniversaire de Jeanne soulève la question de ce que Blandine souhaite partager des partitions."
-      }
+      },
+      "clinical_focus": "Retentissement professionnel du deuil",
+      "clinical_intro": "Blandine peut rendre un texte relu à l’heure et avoir passé deux nuits à compenser les moments où son attention revenait à Jeanne. Dans l’évaluation du trouble du deuil prolongé, l’effort nécessaire pour maintenir le travail compte aussi. Quand Esther appelle, Blandine essaie de partir de ce qu’elle peut livrer au lieu de promettre tout le volume."
     },
     {
       "number": 3,
       "slug": "blandine-table-de-mireille",
-      "title": "Se souvenir en famille et choisir ce qu’on partage",
-      "description": "Pour l’anniversaire de Jeanne, Mireille propose de photographier une partition. Blandine préfère transmettre un souvenir autrement.",
+      "title": "Rituels du souvenir et repères cliniques du deuil prolongé",
+      "description": "Le rituel familial ravive une émotion. L’évaluation du deuil prolongé tient compte de la durée, du contexte et des effets au quotidien.",
       "context": "Au déjeuner familial organisé le jour de l’anniversaire de Jeanne",
       "topics": [
-        "Chagrin ravivé",
+        "Deuil ordinaire",
         "Rituels de souvenir",
-        "Intimité du deuil"
+        "Évaluation du deuil prolongé"
       ],
       "opening": "La pâte de la tarte s’est fendue pendant le trajet. Mireille a sorti un grand plat creux pour recueillir les morceaux et le jus. Dans leur famille, on reprend le jour de l’anniversaire d’une personne morte une recette qu’elle faisait souvent, puis on écrit son nom et celui du plat sur une petite carte. On garde les cartes dans une boîte à thé. Celle du grand-père porte un dessin de poisson qu’il aurait trouvé très laid. Pour Jeanne, elles ont choisi la tarte aux prunes, même si Jeanne la mangeait surtout crue, à mesure qu’elle coupait les fruits. Blandine est venue pour entendre les histoires qu’on ne lui raconte nulle part ailleurs.\n\nMireille connaît la réunion prévue lundi. Elle propose de prendre en photo la page des Saules et d’envoyer l’image avec la recette à ceux qui ne sont pas venus. Blandine a le dossier dans son cabas ; elle voulait regarder après le repas si un feuillet appartenait à leur mère. Elle sort la partition et se met à pleurer avant d’avoir pu expliquer ce qu’elle y cherchait. Sur le bord du papier, Jeanne a écrit « reprendre après nous », dans une phrase dont le dernier mot est mangé par le pli. Quand Mireille approche le téléphone, Blandine pose le dessous-de-plat sur la marge.\n\nSon cousin commence une phrase : « Si ça te fait toujours cet effet après tout ce temps… » Puis il l’interrompt pour rattraper la pelle à tarte, qui bascule dans l’assiette. Blandine aurait préféré qu’il lui demande pourquoi elle a apporté le dossier. Elle lui tend la pelle et explique qu’elle veut toujours savoir à qui est le feuillet. Pour l’image, elle répond à Mireille qu’elle n’est pas prête à la faire circuler.",
       "sections": [
@@ -115,23 +119,25 @@
       "continuity": {
         "choice": "La photo se limite à la tarte et à la carte. Blandine isole les deux titres demandés dans une chemise jaune et garde Les Saules à part.",
         "next": "À l’annexe, Léon et Blandine examinent ce que le chœur pourrait tirer des annotations et ce qu’il peut attendre de leur rendez-vous."
-      }
+      },
+      "clinical_focus": "Deuil et contexte culturel",
+      "clinical_intro": "Pour l’anniversaire de Jeanne, les larmes de Blandine surgissent au milieu d’un rituel de souvenir. La CIM-11 situe les réactions de deuil dans leur contexte social, culturel et familial. Le cousin de Blandine s’interroge sur le temps écoulé. L’évaluation d’un trouble du deuil prolongé associe durée, intensité du manque et effets dans les activités de la personne."
     },
     {
       "number": 4,
       "slug": "blandine-mesure-neuf",
-      "title": "Le plaisir de se souvenir et l’hésitation à donner",
-      "description": "À l’annexe, Léon montre à Blandine ce que les annotations de Jeanne pourraient apporter. Leurs souvenirs de la musique diffèrent.",
+      "title": "Ambivalence du souvenir entre le plaisir de reparler de Jeanne et la crainte de donner une partition",
+      "description": "À la mesure neuf, Blandine retrouve le plaisir de discuter musique. Imaginer que la feuille change de place lui fait aussitôt rapprocher la chemise.",
       "context": "À l’annexe de la bibliothèque, pour un premier échange avec Léon",
       "topics": [
-        "Souvenirs partagés",
-        "Attachement aux objets",
-        "Liberté de décider"
+        "Ambivalence émotionnelle",
+        "Souvenir de la personne décédée",
+        "Douleur liée à la perte"
       ],
       "opening": "Léon a réservé la salle qui sert aux cours de conversation à l’annexe de la bibliothèque. Sur le tableau, quelqu’un a laissé la différence entre « emmener » et « emporter ». Blandine sourit. Vendredi, dans la traduction, elle a finalement écrit qu’un jardinier « emporte ses outils » ; les dernières pages du guide sont parties à l’heure convenue avec Esther. Elle a devant elle vingt minutes et a apporté seulement la chemise jaune. Léon sort les versions dont dispose déjà le chœur, des feuilles si neuves qu’elles glissent sur le stratifié.\n\nIls s’arrêtent à la mesure neuf du Pont. Jeanne a écrit « écouter basses », puis souligné le dernier mot. Léon dit qu’il entendait sa voix dépasser toutes les autres à cet endroit. Blandine se souvient au contraire que sa sœur s’était tue une fois pour laisser passer la ligne des basses. Elles s’en étaient disputées en rentrant, car Blandine s’était retrouvée seule à tenir une note. Elle raconte la fin de la dispute, quand Jeanne lui a fait essayer le passage en marmonnant dans son écharpe. Léon pose son doigt sur le trait de crayon et recommence à regarder la mesure.\n\nEn retournant Les Fenêtres, il trouve une date qui lui manque pour identifier une ancienne reprise du morceau. Il aimerait que les deux partitions rejoignent un jour la petite armoire des archives du chœur. Ce mot, « rejoignent », arrête Blandine : elle imagine déjà un autre nom sur le tiroir. Elle rapproche la chemise d’elle. Léon lui demande ce qu’elle est venue chercher aujourd’hui. Elle répond qu’elle aimerait comprendre ce qu’il ferait des feuilles s’il les avait.",
       "sections": [
         {
-          "heading": "Deux personnes se rappellent deux scènes",
+          "heading": "Comprendre l’ambivalence des souvenirs",
           "text": "Un souvenir d’une personne morte peut susciter de l’affection, de la peine ou du désaccord pendant la même conversation. Blandine et Léon ont prêté attention à des voix différentes. Blandine suivait sa sœur et savait ce que lui coûtait un silence de Jeanne, à côté d’elle ; Léon essayait d’entendre l’ensemble. Ils peuvent confronter ces souvenirs pour comprendre une note sur le papier. Blandine garde aussi ce qu’elle sait de la dispute dans l’écharpe, que Léon n’a pas vécue.\n\nUn échange heureux ou une discussion précise sur la musique ne fait pas disparaître les autres moments où le manque prend toute la place. Blandine conserve son intérêt pour le morceau et peut encore trouver très difficile de remettre la feuille qu’elle tient. La perspective d’un don réveille quelque chose de différent de leur discussion sur l’interprétation. Léon entend sa question et peut y répondre sans s’autoriser à en déduire où elle en est de son deuil."
         },
         {
@@ -151,18 +157,20 @@
       "continuity": {
         "choice": "Blandine garde les originaux, définit un essai de lecture avec deux chanteurs et emporte le renseignement sur leur usage futur.",
         "next": "En consultation, elle veut parler de la fatigue du travail et du contraste entre l’annexe et la salle du chœur."
-      }
+      },
+      "clinical_focus": "Ambivalence dans le deuil",
+      "clinical_intro": "Blandine aime chercher avec Léon qui chantait à la mesure neuf et se crispe quand elle imagine la feuille dans un autre tiroir. La même rencontre peut porter de l’affection, du plaisir et une douleur vive. Dans un deuil prolongé, ces instants donnent des repères différents sur le lien au souvenir et ce que la perte prend encore dans la vie."
     },
     {
       "number": 5,
       "slug": "blandine-notes-de-consultation",
-      "title": "Retrouver du temps pour soi quand le deuil épuise",
-      "description": "Au rendez-vous de suivi, Blandine raconte ce qu’une commande a coûté et ce qu’elle veut encore faire de la musique.",
+      "title": "Psychothérapie du deuil prolongé et activités que Blandine voudrait retrouver",
+      "description": "Blandine parle en séance du détour qu’elle fait et de l’énergie que lui prend le travail. Elle nomme les choix qu’elle voudrait retrouver.",
       "context": "Au cabinet de sa thérapeute, le lendemain du rendez-vous à l’annexe",
       "topics": [
-        "Évitement de certains lieux",
-        "Fatigue accumulée",
-        "Besoins personnels"
+        "Psychothérapie ciblée sur le deuil",
+        "Retentissement fonctionnel",
+        "Objectifs de soin choisis"
       ],
       "opening": "Blandine a fait deux colonnes au dos du papier de Léon. À gauche, elle a écrit les dates du guide. À droite, elle a recopié la mesure neuf, puis écrit « écharpe » sans savoir si elle le raconterait. Dans le fauteuil du cabinet, elle commence par le guide. Elle a livré la dernière partie le vendredi matin. Esther l’a remerciée pour les corrections et la maquettiste a fini ses pages. Le soir, Blandine a mangé debout près de l’évier, trop fatiguée pour débarrasser la table. Dans la même semaine, elle a décliné deux invitations et laissé une course à faire jusqu’au jour où elle n’avait plus de pain.\n\nLa thérapeute reprend avec elle l’ordre des journées. Blandine raconte le temps passé à chercher la phrase de Jeanne sur le banc, puis le moment où elle a réentendu sa sœur en pensée à travers l’écharpe. Ce souvenir lui a plu. Elle aurait volontiers continué à discuter avec Léon si elle n’avait pas eu à penser aussi à ce qu’elle ferait des originaux. Depuis le décès, elle n’est pas entrée dans la salle du chœur. Même les semaines où elle a une course de l’autre côté, elle emprunte souvent une rue plus longue pour éviter la place. Elle décrit le détour, sans chercher à le justifier par l’emploi du temps.\n\nLa thérapeute lui demande ce qu’elle aimerait pouvoir choisir ces jours-là. Blandine dit qu’elle aimerait décider du chemin en regardant l’heure du bus. Elle voudrait aussi finir sa semaine avec assez d’énergie pour faire quelque chose de son samedi. Le chœur est encore une question. Elle pousse du doigt le papier pour que la thérapeute puisse lire la colonne des dates.",
       "sections": [
@@ -188,18 +196,20 @@
       "continuity": {
         "choice": "Blandine garde la consultation de suivi, accepte un créneau facultatif jeudi et propose un repas à Yannis sans lien avec le chœur.",
         "next": "En cuisinant avec Yannis, elle s’aperçoit qu’elle peut rire, puis se sentir aussitôt mal d’avoir ri."
-      }
+      },
+      "clinical_focus": "Accompagnement du deuil persistant",
+      "clinical_intro": "En séance, Blandine décrit une commande achevée et les courses et invitations qu’elle a repoussées pour y arriver. La recherche sur le deuil compliqué a étudié des psychothérapies ciblées qui abordent le vécu de la perte et des buts personnels. Ici, le rendez-vous part de ce que Blandine voudrait retrouver, comme pouvoir choisir son trajet ou disposer de son samedi."
     },
     {
       "number": 6,
       "slug": "blandine-galette-sur-le-carrelage",
-      "title": "Se sentir coupable de rire quand Jeanne manque encore",
-      "description": "En aidant Yannis à faire des galettes, Blandine rit franchement. Une fois le rire passé, elle se demande ce qu’elle s’autorise.",
+      "title": "Culpabilité de ressentir du plaisir alors que le manque de Jeanne demeure",
+      "description": "Blandine rit avec Yannis et se reproche aussitôt ce rire. Le plaisir du moment et la douleur de la perte peuvent être présents le même jour.",
       "context": "Dans la cuisine de Blandine, un samedi avec Yannis",
       "topics": [
-        "Culpabilité à éprouver du plaisir",
-        "Émotions mêlées",
-        "Réconfort amical"
+        "Culpabilité face au plaisir",
+        "Variabilité des émotions",
+        "Manque persistant"
       ],
       "opening": "Yannis annonce que la troisième galette est prête à sauter alors que Blandine voit encore de la pâte brillante près du manche. Son fils a parié qu’il n’arriverait jamais à en retourner une sans spatule, et Yannis prend ce défi plus au sérieux qu’il ne veut l’avouer. Il dégage le coin de la table et lève la poêle d’un coup. La galette touche le mur, se plie et retombe sur le carrelage. Pendant une seconde, ils regardent tous les deux l’endroit où elle a laissé une virgule plus claire sur la peinture. Puis Blandine rit assez fort pour devoir poser son verre.\n\nElle rit encore quand Yannis ramasse les morceaux avec la pelle de la balayette. Tout à coup, elle imagine ce que Jeanne aurait dit de cette recette : jamais assez de beurre, toujours trop de vaisselle. Elle se sent mal d’avoir ri comme avant, le visage en l’air, sans penser à sa sœur pendant un moment. Elle a envie de laisser la pâte à Yannis et d’aller chercher le dossier noir. La dernière fois qu’elle l’a ouvert pour retrouver cette sorte de présence, elle y a passé presque toute la fin de journée. Ses courses ont attendu le lendemain et elle n’a pas rappelé son cousin.\n\nYannis a commencé à nettoyer le sol. Blandine s’assied sur le tabouret et lui dit qu’elle voudrait rester dans la cuisine. Il lui demande s’il doit sortir la petite spatule. Elle répond qu’elle ne sait pas où il l’a rangée la dernière fois. Il faut ouvrir trois tiroirs avant de la retrouver dans le bac à couverts, sous les pinces à salade.",
       "sections": [
@@ -224,18 +234,20 @@
       "continuity": {
         "choice": "Blandine reste avec Yannis, parle brièvement de Jeanne et confirme qu’elle veut pouvoir prévenir Léon au dernier moment.",
         "next": "Jeudi, Blandine arrive au bout de la rue de la salle. Le trajet lui coûte davantage que le rendez-vous de l’annexe."
-      }
+      },
+      "clinical_focus": "Culpabilité face au plaisir",
+      "clinical_intro": "Une galette tombe par terre et Blandine rit avec Yannis. Puis elle se demande si ce plaisir était déplacé alors que Jeanne lui manque. Cette culpabilité peut survenir dans le deuil. Pour comprendre le trouble du deuil prolongé, on observe la répétition des journées envahies par le manque tout en laissant une place aux moments de rire et de présence aux autres."
     },
     {
       "number": 7,
       "slug": "blandine-avant-la-place",
-      "title": "Le manque la rattrape devant la salle du chœur",
-      "description": "Blandine est arrivée au bout de la rue. Elle décide quoi dire à Léon et aux deux chanteurs qui l’attendent derrière la place.",
+      "title": "Évitement des rappels du deuil quand Blandine arrive devant la salle du chœur",
+      "description": "La vue de la salle ravive le manque. Blandine annule sa venue et repère ce que ce détour change aux rencontres qu’elle aimerait retrouver.",
       "context": "À l’entrée de la place de la salle du chœur, un soir de répétition",
       "topics": [
-        "Souvenir ravivé par un lieu",
-        "Évitement",
-        "Liberté de reporter"
+        "Évitement des rappels",
+        "Manque ravivé par un lieu",
+        "Retentissement social"
       ],
       "opening": "Le rideau du cordonnier descend par à-coups. Au bout de sa course, Blandine aperçoit la porte de la salle, de l’autre côté de la place. Elle est arrivée un peu en avance. Léon a proposé de réunir deux chanteurs avant la répétition pour lire les annotations ; l’annexe fermait trop tôt le jeudi. Blandine a la chemise jaune dans son sac. Elle avait préparé une question sur la mesure neuf et se réjouissait d’entendre quelqu’un lui répondre. Puis elle a entendu des chaises frotter le sol à travers les fenêtres ouvertes. Elle s’est rappelé comment Jeanne avançait la sienne avec le talon pour lui garder une place.\n\nBlandine pose un pied entre deux pavés plus clairs et s’arrête. Avant la mort de Jeanne, elle venait ici le jeudi, parfois contrariée, parfois en retard, certaine que sa sœur lui ferait signe. Elle sait à quoi ressemble le groupe aujourd’hui d’après ce que Léon lui a écrit. Ce qu’elle voudrait, sur le trottoir, c’est retrouver le mouvement de la chaise. La pharmacie derrière elle ferme dans dix minutes. Elle avait prévu d’y passer en arrivant. À présent elle a du mal à remettre dans l’ordre ce qu’elle est venue faire.\n\nElle appelle Léon. Il décroche au moment où elle s’apprête à raccrocher et lui dit qu’il peut laisser les chanteurs se préparer. Blandine entend sa question sur la porte ouverte. Elle lui explique où elle est et dit qu’elle veut reporter. Pendant qu’il traverse le couloir pour prévenir les autres, elle glisse la chemise plus bas dans son sac. Elle a encore le temps de rentrer par le bus du boulevard.",
       "sections": [
@@ -260,23 +272,25 @@
       "continuity": {
         "choice": "Blandine annule par téléphone, prend le bus du boulevard et confirme une lecture à l’annexe avec Alice et Malo, les originaux restant avec elle.",
         "next": "À l’annexe, elle laisse les autres comprendre deux annotations et découvre ce qu’elle ne veut pas rendre public."
-      }
+      },
+      "clinical_focus": "Évitement des rappels du deuil",
+      "clinical_intro": "Au bout de la rue, Blandine voit la salle et le manque de Jeanne la pousse à reporter la lecture qu’elle avait choisie. Dans un trouble du deuil prolongé, une préoccupation intense pour le proche et l’évitement de certains rappels peuvent coexister. La scène donne un exemple du coût du détour quand il devient habituel et écarte des rencontres qui comptent."
     },
     {
       "number": 8,
       "slug": "blandine-encre-et-crayon",
-      "title": "Un souvenir que Blandine préfère retrouver seule",
-      "description": "À quatre autour d’une table, les anciens du chœur distinguent deux écritures. Blandine précise ce qu’elle pourrait leur confier.",
+      "title": "Conserver les objets d’un proche et comprendre la place qu’ils prennent dans le deuil",
+      "description": "Les Saules reste une partition que Blandine veut lire seule. Le suivi peut examiner la place du dossier dans ses journées.",
       "context": "À l’annexe, pour la lecture des partitions avec Alice, Malo et Léon",
       "topics": [
-        "Attachement aux objets",
-        "Mémoire partagée",
-        "Limites du partage"
+        "Souvenirs matériels",
+        "Préoccupation pour le proche décédé",
+        "Retentissement du deuil"
       ],
       "opening": "Alice a rendu ses livres et pris la table du fond. Elle connaît Léon depuis leur première saison ensemble, mais elle n’a jamais chanté Les Fenêtres. Blandine lui montre deux dates : l’une au dos, l’autre sous le titre. Alice retrouve sur une ancienne liste le mois où trois répétitions avaient été déplacées. Cela explique enfin pourquoi les deux dates notées ne se suivent pas. Elle écrit la nouvelle information sur une fiche d’archives que Blandine pourra relire. Malo, lui, prend la version propre du Pont pour repérer l’entrée des basses avant qu’ils regardent le crayon de Jeanne.\n\nÀ la mesure neuf, il reconnaît sa propre encre au-dessus de la portée et raconte qu’il partageait parfois le pupitre avec Jeanne parce qu’il oubliait sa partition. « Écouter basses », dit-il, c’est bien le crayon de Jeanne. Le trait noir juste au-dessus, il l’avait ajouté un jeudi où Léon était en retard. Blandine se rappelle que sa sœur lui parlait de celui qui oubliait ses feuilles. Elle s’était imaginé quelqu’un de plus jeune. Malo dit qu’il a fini par laisser un jeu de secours dans la salle.\n\nLéon demande s’il peut noter pour le prochain jeudi l’essai qu’ils viennent de lire ensemble. Blandine est d’accord pour la mesure du Pont. Elle s’imagine ensuite devoir apporter Les Saules pour que chacun retrouve ce qu’il y a écrit. Cette page-là, elle aime encore la lire sans avoir à expliquer le pli ni le morceau de phrase. Elle annonce que les deux feuilles sur la table sont les seules qu’elle envisage de donner. Alice pousse la fiche vers elle pour qu’elles précisent ce qui pourrait entrer aux archives.",
       "sections": [
         {
-          "heading": "Garder un objet peut avoir plusieurs sens",
+          "heading": "Observer la place prise par les souvenirs matériels",
           "text": "Une partition peut être à la fois un outil de musique, un objet familier et un souvenir privé. Les descriptions cliniques de l’OMS signalent que certaines personnes préservent tous les objets de la personne morte exactement en place. Un professionnel s’intéresse à ce que ce geste signifie dans l’ensemble de leur vie. Une partition conservée ne suffit pas à conclure à un trouble. Ici, Blandine cherche à décider de l’avenir de feuilles différentes. Elle veut savoir qui lira l’indication sur les basses. Elle aime encore, les jours où elle le choisit, retrouver seule le crayon des Saules.\n\nCe choix lui demande du temps. La partition personnelle peut rester telle quelle et Le Pont servir à la prochaine répétition par l’intermédiaire d’une note de Léon. Ce qui concerne le suivi, si Blandine veut en parler, est la place que prend le dossier dans certaines journées, au point qu’une course ou un rendez-vous n’a plus lieu. Ce qui concerne l’archive est le sens qu’elle veut donner à ce don précis."
         },
         {
@@ -296,20 +310,22 @@
       "continuity": {
         "choice": "Blandine envisage deux originaux seulement ; Léon peut reprendre une indication musicale. Elle attend le brouillon d’Alice et demande si elle pourra entendre l’essai.",
         "next": "Une proposition de remerciement public arrive avant qu’elle ait donné son accord sur la place de son nom."
-      }
+      },
+      "clinical_focus": "Objets du proche décédé",
+      "clinical_intro": "Blandine garde une feuille qui lui permet de retrouver seule la trace du crayon de Jeanne. Conserver un objet peut avoir une valeur intime. Dans l’évaluation d’un deuil prolongé, la question porte aussi sur ce qui se passe quand le dossier occupe des heures et décale une course ou un rendez-vous. Le récit montre ces deux usages du même souvenir."
     },
     {
       "number": 9,
       "slug": "blandine-case-des-remerciements",
-      "title": "Quand une invitation devient une pression à revenir",
-      "description": "Alice envoie une idée pour le programme. Blandine accepte que l’archive garde les noms et refuse qu’on raconte son retour.",
+      "title": "Pression à reprendre une activité quand le deuil complique encore les sorties",
+      "description": "Une annonce présente la venue de Blandine comme un retour. Elle décrit la différence entre son envie d’écouter et la pression d’être attendue.",
       "context": "Chez Blandine, à la relecture du brouillon envoyé par Alice",
       "topics": [
-        "Crainte des attentes du groupe",
-        "Vie privée",
-        "Participation choisie"
+        "Pression à reprendre",
+        "Retrait social lié au deuil",
+        "Contrôle de la participation"
       ],
-      "opening": "Blandine vient de rendre une page relue quand Alice lui envoie un message. Elle a retrouvé les programmes des saisons précédentes. Une petite case au verso permet de signaler les arrivées de documents aux archives. Alice lui soumet une phrase : « À l’occasion du retour de Blandine, les partitions de Jeanne retrouvent leur place au chœur. » Elle explique que rien n’est parti à l’impression. Blandine lit d’abord « retour ». Elle cherche le moment où elle l’aurait promis. Tout ce qu’elle a demandé, lundi, c’est l’heure à laquelle les basses chanteraient.\n\nElle remonte le fil, retrouve la photo du brouillon d’Alice et regarde les deux titres. Elle aimerait que les chanteurs sachent pourquoi les annotations sont conservées. Elle trouve même beau que le nom de Jeanne accompagne cette histoire. Elle ne veut pas avoir à traverser un soir la salle avec des gens qui l’ont lue au verso du programme. Le texte transforme sa décision sur deux feuilles en événement dont elle deviendrait le sujet. Elle s’entend déjà chercher une réponse à la question « Tu reviens pour de bon ? » au moment de ranger un pupitre.\n\nElle commence à corriger la phrase comme s’il s’agissait d’une traduction et finit par supprimer tout le passage. Puis elle téléphone à Alice. Elle lui dit qu’il y a deux endroits différents, le meuble d’archives et le programme du concert. Blandine l’entend remuer des papiers. Elle lui demande de commencer par laisser la case vide.",
+      "opening": "Blandine vient de rendre une page relue quand Alice lui envoie un message. Elle a retrouvé les programmes des saisons précédentes. Une petite case au verso permet de signaler les arrivées de documents aux archives. Alice lui soumet une phrase : « À l’occasion du retour de Blandine, les partitions de Jeanne retrouvent leur place au chœur. » Elle explique que rien n’est parti à l’impression. Blandine lit d’abord « retour ». Elle cherche le moment où elle l’aurait promis. Tout ce qu’elle a demandé, lundi, c’est l’heure à laquelle les basses chanteraient.\n\nElle remonte le fil, retrouve la photo du brouillon d’Alice et regarde les deux titres. Elle aimerait que les chanteurs sachent pourquoi les annotations sont conservées. Elle trouve même beau que le nom de Jeanne accompagne cette histoire. Elle ne veut pas avoir à traverser un soir la salle avec des gens qui l’ont lue au verso du programme. Le texte transforme sa décision sur deux feuilles en événement dont elle deviendrait le sujet. Elle s’entend déjà chercher une réponse à la question « Tu reviens pour de bon ? » au moment de ranger un pupitre.\n\nElle commence à corriger la phrase comme s’il s’agissait d’une traduction et finit par supprimer tout le passage. L’idée du programme la ramène à la porte qu’elle n’a pas pu franchir jeudi. Elle connaît le poids que ce souvenir peut prendre avant même de partir de chez elle. Elle voudrait encore pouvoir y aller pour la musique, avec la possibilité de repartir si le manque devient trop fort. Puis elle téléphone à Alice. Elle lui dit qu’il y a deux endroits différents, le meuble d’archives et le programme du concert. Blandine l’entend remuer des papiers. Elle lui demande de commencer par laisser la case vide.",
       "sections": [
         {
           "heading": "La place qu’une personne souhaite prendre",
@@ -332,18 +348,20 @@
       "continuity": {
         "choice": "Blandine accepte les noms sur une fiche interne sous réserve du don et refuse toute annonce de son retour. Elle garde l’option d’écouter jeudi près de la porte.",
         "next": "Au dernier quart d’heure de répétition, elle découvre que le morceau a changé et choisit jusqu’où elle veut participer."
-      }
+      },
+      "clinical_focus": "Pression sociale autour du deuil",
+      "clinical_intro": "Le programme présente la venue de Blandine comme son retour au chœur et ravive le souvenir du jeudi où le manque l’a arrêtée devant la salle. Les difficultés à reprendre certaines activités peuvent durer dans le trouble du deuil prolongé. Une invitation qui reste ouverte lui laisse une possibilité de retrouver la musique et de choisir elle-même le moment."
     },
     {
       "number": 10,
       "slug": "blandine-chaise-pres-porte",
-      "title": "Reprendre goût au chœur sans être prête à chanter",
-      "description": "Blandine entre écouter Le Pont à la fin de la répétition. Quand Léon lui propose de chanter, elle lui dit ce qu’elle veut faire.",
+      "title": "Retrouver de l’intérêt pour le chœur quand le manque reste douloureux",
+      "description": "Blandine traverse la place et retrouve un intérêt pour le morceau. Elle reste libre d’écouter pendant que les autres chantent.",
       "context": "Dans la salle du chœur, pour la fin d’une répétition du Pont",
       "topics": [
-        "Chagrin et intérêt mêlés",
-        "Participation à son rythme",
-        "Respect d’un refus"
+        "Reprise d’activité",
+        "Variabilité du retentissement",
+        "Manque persistant"
       ],
       "opening": "Blandine passe devant la pharmacie en arrivant au bout de la rue. Elle a fait sa course près du bureau le lendemain du rendez-vous reporté. Elle arrive pour écouter et n’a apporté aucune des partitions. Sous les arcades, elle voit les fenêtres de la salle. Les chaises sont déjà en place. Léon travaille une reprise de voix qu’elle ne reconnaît pas tout de suite. Elle traverse la place quand la reprise recommence. Près de la porte, elle entend Malo prendre sa respiration. On dirait quelqu’un qui va parler dans un couloir et qui se ravise.\n\nDans la salle, elle repère la chaise laissée près de la porte. Elle s’y assied avec son manteau sur les genoux. Du côté de la rangée où Jeanne s’installait, un nouveau chanteur a ramené la sienne d’un geste du talon. Blandine regarde la couverture du cahier qu’il tient, le temps de supporter que le geste ait un autre visage. Puis elle entend le passage du Pont. Les basses sont plus nettes qu’auparavant, mais les voix du haut coupent la fin du vers. Elle suit la mesure sur ses doigts. Ce point-là, elle aurait eu envie d’en parler même avec un groupe qu’elle ne connaît pas.\n\nLéon vient lui dire bonsoir pendant la pause et lui tend un exemplaire. « Tu veux essayer le deuxième couplet avec nous ? » Blandine a envie de connaître la phrase entière. Elle sent aussi qu’elle ne saurait pas où mettre sa voix maintenant. Elle demande à voir la feuille et précise qu’elle préfère écouter. Léon lui indique le numéro de la page, puis retourne devant le groupe.",
       "sections": [
@@ -368,23 +386,25 @@
       "continuity": {
         "choice": "Blandine écoute dans la salle, donne un avis musical, puis repart et ne rejoint pas l’effectif.",
         "next": "Une nouvelle commande arrive et une semaine inégale lui fournit des exemples de ce qu’elle veut discuter en consultation."
-      }
+      },
+      "clinical_focus": "Reprise d’une activité sociale",
+      "clinical_intro": "Blandine traverse cette fois la place et écoute les basses. Elle a envie de discuter d’une phrase musicale et voudrait aussi que Jeanne l’entende. Dans un trouble du deuil prolongé, une activité peut retrouver de l’intérêt tandis que le manque reste vif. Le suivi peut accueillir ce progrès concret et continuer d’examiner les moments où sortir ou travailler lui coûte davantage."
     },
     {
       "number": 11,
       "slug": "blandine-portee-de-la-semaine",
-      "title": "Une bonne soirée n’efface pas la fatigue du deuil",
-      "description": "Le jeudi du chœur a été bon pour Blandine. Plusieurs jours après, elle peine à commencer un texte et apporte les deux faits en consultation.",
+      "title": "Deuil prolongé et dépression quand Blandine décrit une semaine contrastée",
+      "description": "Blandine apporte à sa thérapeute une soirée agréable et des journées difficiles. Le suivi examine ce qui reste centré sur la perte.",
       "context": "Entre la demande d’Esther et une nouvelle consultation de suivi",
       "topics": [
-        "Variations du chagrin",
-        "Retrait",
-        "Limites au travail"
+        "Trouble du deuil prolongé",
+        "Épisode dépressif",
+        "Évaluation différentielle"
       ],
       "opening": "Esther a laissé les deux volumes ouverts dans le dossier partagé, avec un mot : à Blandine de lui dire lundi si elle peut prendre la relecture. L’un contient des légendes de plans, l’autre le récit de dix visites. Les légendes lui rappellent le guide précédent. Sur l’image d’une entrée, elle voit un auvent là où le texte indique un balcon. Elle relève deux écarts en quelques minutes. Elle voudrait dire oui. En ouvrant le récit des visites, elle trouve un passage sur les manteaux prêtés les jours de pluie. Elle repense à l’écharpe de Jeanne et reste longtemps à regarder la manche de son propre gilet.\n\nLe samedi, elle avait acheté un livre pour son cousin. Le dimanche, elle l’a laissé dans le sac sans répondre à son message. Le lundi, elle ouvre le volume à trois reprises sans parvenir à suivre un paragraphe entier. Elle écrit à Esther avant midi. Elle peut prendre les légendes, avec un premier retour jeudi. Pour les visites, elle préfère que quelqu’un d’autre commence. Esther confirme le partage ; il lui faudra une courte liste des termes retenus afin de garder la même traduction dans les deux volumes.\n\nAu cabinet le lendemain, Blandine raconte d’abord Le Pont. Elle décrit la fin du vers et ce qu’elle aimerait que Léon écoute. Puis elle raconte le dimanche où elle a laissé le livre dans son sac et les pages qui ont suivi. Sa thérapeute lui demande comment se passent les journées où elle rencontre peu de choses qui lui rappellent sa sœur. Blandine doit y réfléchir. Elle pose sur la table l’accord d’Esther et demande si elles peuvent parler des deux projets, celui qu’elle a accepté et celui qu’elle a refusé.",
       "sections": [
         {
-          "heading": "Examiner ce qui déborde de la scène",
+          "heading": "Examiner le deuil prolongé et les signes dépressifs",
           "text": "Des difficultés comme le retrait ou la perte d’intérêt peuvent se rencontrer dans le trouble du deuil prolongé et dans un épisode dépressif. L’OMS distingue une souffrance qui reste centrée sur la perte d’un proche et des pensées ou émotions dépressives qui touchent habituellement davantage de domaines de vie. Les deux troubles peuvent aussi coexister. La distinction relève d’une évaluation : un moment de plaisir ou plusieurs journées difficiles ne permettent pas, à eux seuls, d’en juger.\n\nBlandine a déjà été évaluée pour son deuil prolongé. Elle apporte à sa thérapeute une semaine qu’il est difficile de résumer en une phrase. Il y a le jeudi, dont elle est contente, le livre qu’elle voulait offrir et les pages dont elle n’a pas pu s’occuper. La consultation lui permet de parler des effets qui persistent et de questions nouvelles, sans donner au seul jeudi la charge de dire comment elle va."
         },
         {
@@ -405,23 +425,25 @@
       "continuity": {
         "choice": "Blandine accepte une partie mesurable du travail, maintient le suivi et annonce le don des deux feuilles avec leur fiche interne.",
         "next": "Elle retrouve Alice et Léon pour remettre les originaux et décider séparément ce qu’elle gardera à la maison."
-      }
+      },
+      "clinical_focus": "Deuil prolongé et dépression",
+      "clinical_intro": "Blandine a aimé entendre le chœur et passe plus tard un long moment devant un texte qui lui rappelle Jeanne. Retrait et perte d’intérêt peuvent se rencontrer dans un trouble du deuil prolongé et dans une dépression. En consultation, le contenu et l’étendue de la souffrance, son évolution et ses effets aident à préciser ce qui se passe. Les deux troubles peuvent coexister."
     },
     {
       "number": 12,
       "slug": "blandine-deux-feuilles-pour-choeur",
-      "title": "Confier deux partitions au chœur quand le manque est toujours là",
-      "description": "Blandine remet à Alice Le Pont et Les Fenêtres. Elle sait quelles feuilles elle veut garder et quelle place elle souhaite au chœur.",
+      "title": "Faire place au souvenir tout en retrouvant des décisions quotidiennes",
+      "description": "Blandine confie deux partitions au chœur et garde Les Saules. Le don et le suivi donnent des repères différents sur ce qu’elle traverse.",
       "context": "À l’annexe de la bibliothèque, puis au téléphone avec Yannis",
       "topics": [
-        "Attachement aux objets",
-        "Transmission du souvenir",
-        "Choix de ses engagements"
+        "Manque persistant",
+        "Reprise d’activités choisies",
+        "Évolution du retentissement"
       ],
       "opening": "Alice a réservé la salle de conversation pour la fin de la journée. Le tableau est propre. Sur la table, il y a la fiche des archives, la chemise jaune de Blandine et un crayon qu’Alice a sorti de sa poche. Blandine a gardé la chemise sur ses genoux dans le bus. Elle a regardé une fois de plus les mots « écouter basses » et le trait noir qu’elle n’avait pas remarqué avant la lecture à l’annexe. Elle a voulu une seconde que Jeanne soit là pour leur dire ce qu’ils avaient essayé ce soir-là. Elle arrive à la table avec cette question en tête. Le dossier à l’élastique bleu est resté chez elle.\n\nAlice relit les deux titres. Blandine corrige une lettre du nom de famille de Jeanne et demande d’ajouter, pour Le Pont, que deux chanteurs écrivaient sur le même pupitre. Malo s’est reconnu dans le trait noir ; sa part aussi mérite de rester lisible. Léon dit qu’il a fait reprendre le vers au groupe la veille. Ils vont garder un peu plus d’air pour les basses. Blandine lui demande de lui montrer la mesure sur son exemplaire. Ils restent un instant penchés sur la même ligne avant qu’Alice rappelle qu’elle doit bientôt rendre la clé.\n\nBlandine sort les deux originaux de la chemise et les pose près de la fiche. Elle demande encore sur quel document figureront leurs noms. Alice lui montre la pochette qui restera dans le tiroir, puis le programme de concert, qui n’en dit rien. Blandine lui confirme que ces deux feuilles entrent aux archives du chœur. Elle referme elle-même la chemise vide.",
       "sections": [
         {
-          "heading": "Choisir l’avenir de quelques objets",
+          "heading": "Suivre l’évolution du retentissement dans la durée",
           "text": "Remettre un objet, en garder un autre et continuer de penser à la personne morte peuvent faire partie de la même décision. Blandine a choisi deux feuilles parce qu’elle comprend leur utilité pour le chœur et sait où elles seront. Elle garde Les Saules et le reste du dossier parce qu’elle veut pouvoir les lire à sa façon. Dans la vie d’une autre personne, conserver toutes les partitions ou s’en séparer peut avoir un autre sens. Le geste ne permet pas de qualifier son deuil.\n\nBlandine sait qu’elle aura encore des jours où elle cherchera la voix de Jeanne longtemps après avoir fermé le dossier. Les effets de ces journées restent une question à discuter en consultation. Aujourd’hui, ce qui s’est réglé autour de la table est concret : deux originaux ont rejoint l’archive et les autres ont une place chez elle. Le chœur sait comment les retrouver. Blandine n’a pas à transformer ce choix en programme pour ses prochains jeudis."
         },
         {
@@ -441,7 +463,9 @@
       "continuity": {
         "choice": "Blandine donne Le Pont et Les Fenêtres aux archives, garde Les Saules et les autres feuilles, choisit une écoute ponctuelle et poursuit le suivi.",
         "next": "La décision sur les partitions est réglée. Les prochains jeudis et le travail des légendes restent des choix ordinaires à reprendre selon la semaine."
-      }
+      },
+      "clinical_focus": "Évolution du deuil prolongé",
+      "clinical_intro": "Blandine décide de transmettre deux partitions et éprouve encore l’envie que Jeanne soit là pour les commenter. Dans le suivi d’un deuil prolongé, on peut observer les décisions retrouvées, les activités possibles et la souffrance qui continue de prendre de la place. L’épisode suit ce que Blandine peut choisir aujourd’hui, à côté des journées qu’elle veut encore aborder en consultation."
     }
   ]
 }

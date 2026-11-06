@@ -1,23 +1,25 @@
 ---
-title: Ajuster l’aide au retour de l’hôpital
+title: Réévaluer les difficultés cognitives au retour de l’hôpital
 description: De retour chez lui, Armand demande une visite de suivi de plus. Il reprend
   ensuite la liste du don et retire une carte du lot.
 slug: armand-retour-billet-a-remplacer
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Armand
-sujet: Démence due à la maladie d’Alzheimer
+sujet: Évaluation après une confusion aiguë
 contexte: Quelques jours après le retour d’Armand à domicile, à la table de la cuisine
 tags:
+- Démence due à la maladie d’Alzheimer
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Recevoir de l’aide
-- Choisir pour soi
-- Repères dans l’espace
+- Suivi à domicile
+- Évaluation cognitive
+- Coordination des soins
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D80
+clinical_diagnosis: Démence due à la maladie d’Alzheimer
 episode: 10
 ---
 

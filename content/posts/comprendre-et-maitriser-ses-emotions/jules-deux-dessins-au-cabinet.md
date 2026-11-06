@@ -1,22 +1,24 @@
 ---
-title: 'Peur en sortie : Jules repère ce qui l’aide selon le lieu'
+title: Pourquoi une même activité peut coûter plus selon le lieu
 description: Jules apporte un dessin du marché et un autre de chez Solange. Il revoit
   avec la psychiatre ce qu’il souhaite poursuivre et qui joindre.
 slug: jules-deux-dessins-au-cabinet
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Jules
-sujet: Trouble panique
+sujet: Variabilité contextuelle de l’anxiété
 contexte: Lors d’un point de suivi avec la psychiatre, après plusieurs sorties différentes
 tags:
+- Trouble panique
 - Attaques de panique
 - Peur selon le contexte
-- Soutien adapté à ses besoins
-- Révision du suivi
+- Sentiment de pouvoir sortir
+- Réévaluation du suivi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B01
+clinical_diagnosis: Trouble panique
 episode: 10
 ---
 

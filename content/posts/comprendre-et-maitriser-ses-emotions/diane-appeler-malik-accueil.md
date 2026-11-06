@@ -1,22 +1,24 @@
 ---
-title: Hésiter à demander un relais quand la file s’allonge
+title: Surcharge attentionnelle et demande d’aide à l’accueil
 description: Diane retrouve le public à la bibliothèque. Deux demandes se croisent
   et elle hésite à solliciter le collègue qui attend son signal.
 slug: diane-appeler-malik-accueil
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Diane
-sujet: Trouble psychotique aigu et transitoire
+sujet: Surcharge attentionnelle
 contexte: À la bibliothèque, pendant le premier créneau d’accueil avec Malik
 tags:
+- Trouble psychotique aigu et transitoire
 - Psychose aiguë et transitoire
-- Crainte de décevoir un collègue
-- Perdre le fil entre deux demandes
-- Passer le relais au bon moment
+- Surcharge attentionnelle
+- Demande d’aide ciblée
+- Reprise de confiance
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A23
+clinical_diagnosis: Trouble psychotique aigu et transitoire
 episode: 7
 ---
 

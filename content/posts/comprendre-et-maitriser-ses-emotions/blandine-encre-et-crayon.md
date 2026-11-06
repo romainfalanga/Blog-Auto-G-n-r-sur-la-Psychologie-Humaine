@@ -1,23 +1,26 @@
 ---
-title: Un souvenir que Blandine préfère retrouver seule
-description: À quatre autour d’une table, les anciens du chœur distinguent deux écritures.
-  Blandine précise ce qu’elle pourrait leur confier.
+title: Conserver les objets d’un proche et comprendre la place qu’ils prennent dans
+  le deuil
+description: Les Saules reste une partition que Blandine veut lire seule. Le suivi
+  peut examiner la place du dossier dans ses journées.
 slug: blandine-encre-et-crayon
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Blandine
-sujet: Trouble du deuil prolongé
+sujet: Objets du proche décédé
 contexte: À l’annexe, pour la lecture des partitions avec Alice, Malo et Léon
 tags:
+- Trouble du deuil prolongé
 - Deuil prolongé
 - CIM-11 6B42
-- Attachement aux objets
-- Mémoire partagée
-- Limites du partage
+- Souvenirs matériels
+- Préoccupation pour le proche décédé
+- Retentissement du deuil
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B42
+clinical_diagnosis: Trouble du deuil prolongé
 episode: 8
 ---
 
@@ -27,7 +30,7 @@ Alice a rendu ses livres et pris la table du fond. Elle connaît Léon depuis le
 
 Léon demande s’il peut noter pour le prochain jeudi l’essai qu’ils viennent de lire ensemble. Blandine est d’accord pour la mesure du Pont. Elle s’imagine ensuite devoir apporter Les Saules pour que chacun retrouve ce qu’il y a écrit. Cette page-là, elle aime encore la lire sans avoir à expliquer le pli ni le morceau de phrase. Elle annonce que les deux feuilles sur la table sont les seules qu’elle envisage de donner. Alice pousse la fiche vers elle pour qu’elles précisent ce qui pourrait entrer aux archives.
 
-## Garder un objet peut avoir plusieurs sens
+## Observer la place prise par les souvenirs matériels
 
 Une partition peut être à la fois un outil de musique, un objet familier et un souvenir privé. Les descriptions cliniques de l’OMS signalent que certaines personnes préservent tous les objets de la personne morte exactement en place. Un professionnel s’intéresse à ce que ce geste signifie dans l’ensemble de leur vie. Une partition conservée ne suffit pas à conclure à un trouble. Ici, Blandine cherche à décider de l’avenir de feuilles différentes. Elle veut savoir qui lira l’indication sur les basses. Elle aime encore, les jours où elle le choisit, retrouver seule le crayon des Saules.
 

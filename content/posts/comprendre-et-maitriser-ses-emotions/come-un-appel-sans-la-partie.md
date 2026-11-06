@@ -1,23 +1,25 @@
 ---
-title: S’accorder sur l’aide qu’un ami peut donner
+title: Demander un appui à un ami quand arrêter de jouer devient difficile
 description: Florian a compris qu’on lui demandait de faire sortir Côme du jeu. En
   route pour l’atelier, ils précisent ce qu’ils peuvent se proposer.
 slug: come-un-appel-sans-la-partie
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Côme
-sujet: Trouble du jeu vidéo
+sujet: Soutien des pairs et autonomie
 contexte: Le dimanche, sous la halle du marché, sur le chemin de l’atelier
 tags:
+- Trouble du jeu vidéo
 - 6C51
 - Gaming disorder
-- Limites relationnelles
-- Confidentialité
-- Demande de compagnie
+- Soutien des pairs
+- Difficulté à arrêter le jeu
+- Confidentialité du suivi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C51
+clinical_diagnosis: Trouble du jeu vidéo
 episode: 8
 ---
 

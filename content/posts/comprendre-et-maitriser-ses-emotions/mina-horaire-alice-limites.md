@@ -1,23 +1,25 @@
 ---
-title: Peur de perdre un lien quand un rendez-vous reste incertain
-description: Mina et Alice parlent de leurs rendez-vous. Elles précisent quand elles
-  pourront se prévenir et laissent le prochain dimanche ouvert.
+title: Peur de l’abandon quand Alice ne peut pas confirmer le rendez-vous
+description: Mina voudrait connaître la réponse d’Alice tout de suite. Elle apprend
+  à regarder aussi ce qu’elle souhaite faire de son dimanche.
 slug: mina-horaire-alice-limites
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mina
-sujet: Trouble de la personnalité avec profil borderline
+sujet: Peur de perdre un lien
 contexte: Au café où les deux cousines se retrouvent
 tags:
+- Trouble de la personnalité avec profil borderline
 - Profil borderline
 - Trouble borderline
-- Peur de perdre un lien
-- Limites de disponibilité
-- Préserver du temps pour soi
+- Peur de l’abandon
+- Incertitude relationnelle
+- Autonomie dans la relation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D10
+clinical_diagnosis: Trouble de la personnalité avec profil borderline
 episode: 6
 ---
 

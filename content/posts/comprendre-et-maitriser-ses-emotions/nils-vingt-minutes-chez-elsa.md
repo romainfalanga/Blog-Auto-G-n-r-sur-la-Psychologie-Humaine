@@ -1,22 +1,23 @@
 ---
-title: Demander une présence sans rendre l’autre responsable
+title: Peur de la rechute et limites du soutien d’un proche
 description: Elsa voudrait savoir si elle doit rester joignable toute la nuit. Nils
   lui dit ce qu’il est venu chercher pour ce soir.
 slug: nils-vingt-minutes-chez-elsa
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nils
-sujet: Schizophrénie
+sujet: Peur de la rechute
 contexte: Le vendredi soir, dans la cuisine d’Elsa
 tags:
 - Schizophrénie
-- Demander du soutien
-- Limites des proches
-- Écoute sans surveillance
+- Peur de la rechute
+- Soutien choisi
+- Charge des proches
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A20
+clinical_diagnosis: Schizophrénie
 episode: 7
 ---
 
@@ -26,7 +27,7 @@ Elsa se redresse. Elle peut laisser le téléphone allumé cette nuit, dit-elle.
 
 Le minuteur a encore quinze minutes. Elsa lui demande si elle peut préparer du thé. Nils dit qu’il préférerait qu’elle reste assise deux minutes de plus. Elle lui pousse le pot de confiture et lui dit que, dans ce cas, il peut bien racler l’abricot. Il lui demande ensuite ce que son amie compte faire du vieux vélo qu’il avait essayé de lui racheter.
 
-## Un proche peut poser ses propres limites
+## Quand l’inquiétude transforme une information en appel à l’aide
 
 Le soutien d’un proche peut prendre plusieurs formes, selon ce que les personnes ont convenu et ce qu’elles peuvent faire ce jour-là. Elsa a une copie du plan, avec un numéro et les options dont Nils a accepté qu’ils parlent. Elle se demande comment traduire cela en présence. En lui proposant d’être joignable toute la nuit, elle va plus loin que ce qu’il attend. Elle a aussi une matinée prévue le lendemain. Il est possible de revoir un accord quand il prête à confusion.
 

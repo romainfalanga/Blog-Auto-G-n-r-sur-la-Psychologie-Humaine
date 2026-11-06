@@ -1,22 +1,24 @@
 ---
-title: Passer le relais sans porter seul toute l’organisation
+title: Rendre les aides à l’organisation utilisables par toute l’équipe
 description: Mathis et Zélie reprennent la permanence avec des rôles différents. Un
   détail oublié leur montre pourquoi l’équipe doit pouvoir passer le relais.
 slug: mathis-deuxieme-samedi-permanence
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: TDAH chez l’adulte
+sujet: Maintien des appuis au quotidien
 contexte: De nouveau sur la place des Tilleuls, lors de la deuxième permanence
 tags:
+- TDAH chez l’adulte
 - TDAH
-- Responsabilités partagées
-- Autonomie
-- Repères communs
+- Organisation collective
+- Repère visuel
+- Autonomie au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A05
+clinical_diagnosis: TDAH chez l’adulte
 episode: 12
 ---
 

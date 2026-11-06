@@ -1,29 +1,29 @@
 {
   "character_id": "nour",
-  "bio": "Nour traduit les légendes d’une collection municipale. Elle aime les détails qui font voir autrement une rue qu’on croyait connaître et glisse volontiers un trait d’humour dans ses notes. Avec sa voisine Fatou et Joël, rencontré à l’atelier de gravure, elle prépare une visite où chacun peut marcher à son rythme. Les bruits et les changements de dernière minute lui demandent parfois beaucoup d’efforts. Elle tient à partager ses trouvailles tout en choisissant quand parler, faire une pause ou passer le relais.",
+  "bio": "Nour, 31 ans, est autiste et traduit les légendes d’une collection municipale. En réunion, elle peut perdre le fil lorsque les voix se chevauchent, puis formuler une question précise en retrouvant les noms par écrit. Elle éprouve aussi une fatigue marquée après certaines journées de bruit et d’imprévus. Avec sa voisine Fatou et Joël, rencontré à l’atelier de gravure, elle prépare une visite de quartier. Elle veut pouvoir partager ses trouvailles, choisir le moment d’une pause et décider de ce qu’elle raconte de son autisme.",
   "profile_topics": [
-    "Préférences de communication",
-    "Sensibilité au bruit",
-    "Effort face aux imprévus",
-    "Fatigue et récupération",
-    "Participation à son rythme"
+    "Autisme",
+    "Surcharge sensorielle",
+    "Communication sociale",
+    "Imprévus et transitions",
+    "Fatigue après l’effort"
   ],
   "episodes": [
     {
       "number": 1,
       "slug": "nour-legende-choisir-ecrit",
-      "title": "Quand l’écrit aide Nour à suivre une réunion",
+      "title": "Autisme et difficulté à suivre des voix qui se chevauchent",
       "description": "Une réunion change de salle et de rythme. Nour trouve à l’écrit la place d’une question sur une enseigne de la collection municipale.",
       "context": "Au service de la collection municipale, pendant la relecture des légendes",
       "topics": [
-        "Préférences de communication",
-        "Attention dans le bruit",
-        "Participation aux échanges"
+        "Autisme",
+        "Surcharge sensorielle",
+        "Appui de l’écrit"
       ],
-      "opening": "Le dossier de Nour tient à plat tant que la grande photographie repose dessus. On y voit l’enseigne d’une boutique de parapluies, une hirondelle en fer qui pointe du bec vers une cour. Nour traduit la légende pour la collection municipale. Elle a réussi à garder sur deux lignes le nom de l’oiseau et celui du commerce. Il lui reste une question sur la cour. Sur la photographie, une rue apparaît derrière l’enseigne. Sur la fiche d’inventaire, l’adresse donne sur une autre.\n\nLa réunion devait se tenir dans la petite salle près de son bureau. Un collègue vient lui dire qu’ils doivent rejoindre la salle des retours, près du monte-charge. Nour rassemble ses feuilles et perd le début de la conversation en arrivant. Chaque fois que la porte s’ouvre, le chariot bute contre le même seuil. Elle attend un passage plus calme pour reprendre son adresse. Au moment où elle ouvre la bouche, quelqu’un propose déjà de passer à la légende suivante.\n\nElle tape sa question dans le document commun, puis ajoute « L’hirondelle traverse les murs. Le livreur de parapluies, moins sûrement. » Une collègue rit en regardant son écran et demande de quelle rue elles parlent. Nour lui montre les deux adresses. Elle suit mieux la conversation depuis que les noms sont devant elles. Si l’enseigne est entrée par une rue et vue depuis l’autre, elle aimerait comprendre où le photographe s’est placé.",
+      "opening": "Le dossier de Nour tient à plat tant que la grande photographie repose dessus. On y voit l’enseigne d’une boutique de parapluies, une hirondelle en fer qui pointe du bec vers une cour. Nour traduit la légende pour la collection municipale. Elle a réussi à garder sur deux lignes le nom de l’oiseau et celui du commerce. Il lui reste une question sur la cour. Sur la photographie, une rue apparaît derrière l’enseigne. Sur la fiche d’inventaire, l’adresse donne sur une autre.\n\nLa réunion devait se tenir dans la petite salle près de son bureau. Un collègue vient lui dire qu’ils doivent rejoindre la salle des retours, près du monte-charge. Nour rassemble ses feuilles et perd le début de la conversation en arrivant. Chaque fois que la porte s’ouvre, le chariot bute contre le même seuil. Elle attend un passage plus calme pour reprendre son adresse. Elle entend de nouveau le choc du chariot et doit repartir du début pour se rappeler laquelle des deux rues sa collègue vient de nommer. La discussion avance pendant qu’elle essaie encore de s’y raccrocher. Au moment où elle ouvre la bouche, quelqu’un propose déjà de passer à la légende suivante.\n\nElle tape sa question dans le document commun, puis ajoute « L’hirondelle traverse les murs. Le livreur de parapluies, moins sûrement. » Une collègue rit en regardant son écran et demande de quelle rue elles parlent. Nour lui montre les deux adresses. Elle suit mieux la conversation depuis que les noms sont devant elles. Si l’enseigne est entrée par une rue et vue depuis l’autre, elle aimerait comprendre où le photographe s’est placé.",
       "sections": [
         {
-          "heading": "Une contribution qui passe par l’écran",
+          "heading": "Surcharge sensorielle et effort pour suivre la parole",
           "text": "Le mode de communication qui convient à une personne peut varier selon le lieu et le moment. Nour utilise la parole et l’écrit. Dans la salle des retours, elle choisit le document partagé pour faire apparaître une question qui lui échappe entre deux changements de sujet. Le texte garde sa précision et son humour. Ses collègues peuvent relire le nom des rues avant de lui répondre.\n\nNour se dit autiste. Son diagnostic est connu depuis plusieurs années. L’autisme, classé parmi les troubles du neurodéveloppement dans la CIM-11 sous le code 6A02, peut concerner la communication et les interactions, la manière de composer avec les changements et les expériences sensorielles. Les profils et les besoins diffèrent largement. La façon dont Nour contribue à cette réunion raconte ce qu’elle fait de l’écrit dans une situation précise. D’autres personnes préfèrent d’autres formats, parfois au sein d’une même journée."
         },
         {
@@ -43,18 +43,20 @@
       "continuity": {
         "choice": "Nour conserve sa question dans le document commun et propose une visite avec des parcours au choix.",
         "next": "Fatou et Nour vont chercher les deux entrées de la cour avec des voisins."
-      }
+      },
+      "clinical_focus": "Communication sociale en réunion",
+      "clinical_intro": "Dans une salle de réunion plus bruyante que prévu, Nour peine à suivre les noms de rue qui circulent dans la conversation. Les voir écrits l’aide à retrouver son idée sur la photo. Cette scène montre comment le bruit, la vitesse des échanges et le format de réponse peuvent modifier la participation d’une personne autiste."
     },
     {
       "number": 2,
       "slug": "nour-kiosque-premier-reperage",
-      "title": "Sensibilité au bruit : Nour choisit un détour au marché",
+      "title": "Hypersensibilité sonore et besoin de s’éloigner du marché",
       "description": "Le premier repérage longe un marché plus bruyant que prévu. Nour et Fatou cherchent un point où les voisins pourront se retrouver.",
       "context": "Dans le quartier de l’Ancienne Halle, lors du premier repérage",
       "topics": [
-        "Sensibilité au bruit",
-        "Choix de s’éloigner",
-        "Participation au groupe"
+        "Sensibilité auditive",
+        "Surcharge sensorielle",
+        "Ajustement de l’environnement"
       ],
       "opening": "Le samedi, Nour arrive au kiosque du square avec la photographie sous une pochette transparente. Fatou lui fait signe depuis le trottoir. Deux voisins se sont joints à elles. Le groupe doit suivre le passage des Verriers jusqu’à la cour, puis revenir par la rue du marché. Nour voulait commencer par le passage. Fatou a proposé de faire l’inverse en voyant un camion arrêté devant son entrée. Les deux voisins sont déjà de l’autre côté de la rue.\n\nÀ hauteur de l’Ancienne Halle, un marchand traîne une caisse vide sur les pavés. Le bruit se répète chaque fois qu’il revient chercher des légumes. Fatou montre une plaque et commence à raconter ce qui était vendu ici. Nour entend le nom de la rue, puis plus rien de la phrase. Elle pourrait dire qu’elle a besoin d’un arrêt. Elle a surtout envie de voir l’endroit où l’hirondelle se trouvait et pense qu’elle tiendra jusqu’à la cour.\n\nElle s’arrête pourtant près d’une vitrine où le groupe la dépasse. Elle glisse la photographie dans son sac et écrit à Fatou qu’elle va reprendre par le kiosque. Fatou revient jusqu’à elle. Elle commence à proposer d’écourter la marche pour tout le monde. Nour lui montre le passage sur le plan. Elle voudrait essayer l’autre entrée pendant que les voisins finissent la rue du marché. Il leur faut seulement décider où et quand se revoir.",
       "sections": [
@@ -79,23 +81,25 @@
       "continuity": {
         "choice": "Nour garde un lieu de retour commun et se réserve un autre trajet sans interrompre la marche des autres.",
         "next": "Elle souhaite obtenir un déroulé en amont de la prochaine réunion et du prochain repérage."
-      }
+      },
+      "clinical_focus": "Sensibilité sensorielle au bruit",
+      "clinical_intro": "Au marché, le bruit devient assez présent pour que Nour souhaite changer de trajet. Elle veut aussi retrouver les voisins au kiosque et continuer le repérage. Certaines personnes autistes ressentent les sons avec une intensité qui change ce qu’elles peuvent faire dans un lieu. Chercher un passage plus calme permet à Nour de doser cet effort et de garder une place dans la sortie."
     },
     {
       "number": 3,
       "slug": "nour-ordre-du-jour-accessible",
-      "title": "Des repères pour trouver sa place en réunion",
+      "title": "Anticiper une réunion pour alléger l’effort de communication",
       "description": "Avant la prochaine réunion, Nour demande le déroulé et le document de travail. Elle peut ainsi préparer la décision sur la photographie.",
       "context": "Au service municipal, avant une réunion sur les reproductions de la collection",
       "topics": [
-        "Préparation aux changements",
-        "Préférences de communication",
-        "Participation à son rythme"
+        "Anticipation",
+        "Communication sociale",
+        "Accessibilité au travail"
       ],
       "opening": "Dans son message, Nour a écrit qu’elle veut connaître l’heure, la salle et ce qu’il faudra décider. Elle retire une phrase d’excuse avant de l’envoyer. À la première réunion, la discussion s’est poursuivie pendant qu’elle cherchait où ouvrir son dossier. Cette fois, elle veut pouvoir lire à l’avance les demandes de reproduction des photographies. Elle a aussi une demande à présenter pour la visite des voisins, à condition de savoir dans quelle partie de la réunion on peut la soumettre.\n\nSa collègue envoie le déroulé le lendemain. Il tient sur une page. Trois décisions apparaissent au milieu, sous le titre « Divers ». Nour écrit pour demander si ces décisions seront prises ce jour-là ou si chacun doit seulement les préparer. Sa collègue remonte deux points en haut de la page et précise où apporter des exemples. Elle indique aussi que la petite salle risque d’être occupée jusqu’à onze heures.\n\nLe jour venu, Nour trouve la porte fermée. Sur l’invitation, le changement a été annoncé avec le nom de l’autre salle. Elle y arrive avant la fin du premier point et ouvre le commentaire qu’elle avait préparé. Elle laisse les autres terminer. Quand son tour vient, elle montre la photographie et demande si elle peut apporter une reproduction à la visite, avec la légende et le crédit que le service veut voir figurer. Elle remarque que son dossier n’a pas quitté ses genoux depuis qu’elle est entrée.",
       "sections": [
         {
-          "heading": "Préparer sa part de la discussion",
+          "heading": "Ce que la prévisibilité rend disponible pour la discussion",
           "text": "Connaître le déroulement d’une réunion à l’avance peut donner le temps de préparer une contribution. Pour Nour, les informations les plus utiles sont le but de l’échange, les documents qui seront examinés et la manière dont les réponses seront recueillies. Un ordre du jour très détaillé peut laisser ces points flous. Elle a pu demander ce que signifiait la rubrique « Divers » et retrouver ensuite sa question dans le bon échange.\n\nL’OMS décrit des difficultés possibles face aux changements imprévus dans l’autisme. Elles varient selon les personnes et les situations. Dans le cas de Nour, l’autre salle demande un déplacement et une installation différente. L’adresse envoyée en amont lui laisse du temps pour s’y rendre. Un changement annoncé peut encore l’affecter. Elle peut relire le point sur lequel le groupe travaille et utiliser l’écrit si cela lui demande moins d’effort à ce moment."
         },
         {
@@ -115,18 +119,20 @@
       "continuity": {
         "choice": "Nour obtient le déroulé de la réunion, choisit sa manière de contribuer et confirme l’usage prévu de la reproduction.",
         "next": "Elle invite Joël à examiner la carte et à lui dire quels repères lui seraient utiles."
-      }
+      },
+      "clinical_focus": "Anticipation et communication sociale",
+      "clinical_intro": "Nour demande le déroulé de la réunion et les documents avant d’y entrer. Elle peut préparer sa demande sur la photographie au lieu d’essayer de suivre chaque changement pendant la discussion. Pour elle, savoir quelles décisions seront prises libère de l’attention pour y contribuer. Cette aide dépend de ce qui lui coûte dans cet échange précis."
     },
     {
       "number": 4,
       "slug": "nour-joel-carte-preferences",
-      "title": "Nour et Joël, deux façons de s’orienter avec la même carte",
+      "title": "Deux manières d’être autiste devant la même carte",
       "description": "Joël, rencontré en atelier de gravure, essaie la carte avec Nour. Tous deux sont autistes et ne cherchent pas les mêmes repères.",
       "context": "Dans la salle de l’atelier de gravure, pendant la préparation de la carte",
       "topics": [
-        "Besoins sensoriels différents",
-        "Repères visuels et écrits",
-        "Soutien entre pairs"
+        "Diversité des profils autistiques",
+        "Repérage spatial",
+        "Accessibilité de l’information"
       ],
       "opening": "Joël a posé la carte près de la presse pour que les bords restent plats. Nour la lui a envoyée deux jours plus tôt. Il a imprimé la première page, puis a gardé le fichier ouvert sur son téléphone. Il voudrait suivre la rue du marché. Le samedi, il aime écouter les vendeurs qui se répondent sous la halle. Sur le papier, il a mis un point là où il s’arrêterait pour lire la légende. Nour a choisi le passage des Verriers pour éviter les chocs de caisses sur les pavés.\n\nJoël tourne la feuille vers la fenêtre. Le papier brillant de la carte renvoie la lumière. Il essaie de suivre la flèche du passage, puis baisse la feuille. Sur son téléphone, il trouve l’adresse en cherchant « kiosque ». Il demande s’il peut agrandir la carte sans perdre le nom des rues. Nour avait prévu de les placer directement sur le dessin pour laisser plus de place aux textes au verso.\n\nElle lui lit une version de la légende. Joël l’interrompt au mot « ferronnerie ». Il avait compris que c’était l’atelier où l’enseigne avait été faite. Nour parlait du matériau et de la façon dont on l’a travaillé. Elle prend son crayon. « Pour une hirondelle, c’est déjà beaucoup de métiers. » Joël rit et lui demande si elle veut revoir le passage avec lui. Il peut lui dire ce que son téléphone lui permet de retrouver et où la carte seule le laisse hésitant.",
       "sections": [
@@ -151,18 +157,20 @@
       "continuity": {
         "choice": "Nour conserve plusieurs trajets et prépare une version textuelle des adresses après l’essai avec Joël.",
         "next": "L’annonce de la visite pose la question des détails personnels que Nour accepte de voir circuler."
-      }
+      },
+      "clinical_focus": "Diversité des profils autistiques",
+      "clinical_intro": "Nour retrouve une adresse sur la carte imprimée. Joël préfère l’entendre et retrouver le lieu sur son téléphone. Tous deux sont autistes et leurs façons de s’orienter appellent des aides différentes. Les comparer aide à comprendre pourquoi les appuis se discutent avec la personne et selon la situation, jusque dans un même projet de quartier."
     },
     {
       "number": 5,
       "slug": "nour-annonce-confidentialite",
-      "title": "Confidentialité : ce que Nour choisit de dire aux voisins",
+      "title": "Parler de son autisme à une amie et choisir ce qui reste privé",
       "description": "Fatou prépare l’annonce. Nour souhaite expliquer les choix de trajet et de pause et garder son diagnostic hors du message de quartier.",
       "context": "Chez Fatou, pendant la préparation de l’invitation aux voisins",
       "topics": [
         "Confidentialité",
-        "Choix de parler de soi",
-        "Expression de ses besoins"
+        "Expression des besoins",
+        "Consentement à la divulgation"
       ],
       "opening": "Fatou a préparé le message de quartier sur son ordinateur. Le titre tient sur une ligne, avec le jour en capitales. Elle montre ensuite à Nour une phrase qu’elle n’a pas encore mise dans l’annonce. Elle pensait écrire que l’idée vient de sa voisine, qui est autiste et a imaginé une autre façon de visiter la ville. « Je me suis dit que ça expliquerait les deux trajets. Je voulais te demander avant. »\n\nNour pose la feuille qu’elle apporte avec elle. Elle avait parlé de son diagnostic à Fatou un soir où le bruit des travaux remontait jusque dans l’immeuble. Fatou avait gardé cette conversation pour elle. La phrase à l’écran aurait une autre vie. Nour ne sait pas qui relaie les invitations du quartier ni ce qu’on garderait du texte si quelqu’un le coupait. Elle préfère écrire une proposition dans le brouillon. « Vous pouvez partir du kiosque par l’un des deux chemins et vous arrêter quand vous le voulez. »\n\nFatou relit à voix haute. Elle se demande si les gens vont croire qu’il faudra choisir leur chemin dès l’inscription. Nour ajoute que la décision peut se prendre sur place. Puis elle pointe la liste des lieux. Elle aimerait que le message dise à quel endroit le marché est le plus animé. Elle n’a pas encore confirmé que la cour sera ouverte. « Et l’hirondelle ? » demande Fatou. Nour se penche de nouveau vers l’écran. Ça, elle veut bien qu’on en parle.",
       "sections": [
@@ -187,18 +195,20 @@
       "continuity": {
         "choice": "Nour valide un texte public centré sur la visite et choisit les informations qui peuvent circuler.",
         "next": "Elle veut parler à une professionnelle de la fatigue qu’elle ressent après certaines journées de travail et de préparation."
-      }
+      },
+      "clinical_focus": "Confidentialité du diagnostic d’autisme",
+      "clinical_intro": "Nour a parlé de son autisme à Fatou. En relisant l’annonce de la visite, elle souhaite que les voisins connaissent les options de trajet et de pause tout en gardant son diagnostic dans la relation qu’elle a choisie. L’épisode montre comment expliquer des aménagements utiles sans perdre la maîtrise de ses informations de santé."
     },
     {
       "number": 6,
       "slug": "nour-consultation-format-fatigue",
-      "title": "Parler de sa fatigue en consultation, à l’écrit",
+      "title": "Comprendre la fatigue après des échanges et des imprévus",
       "description": "Nour prépare par écrit un rendez-vous sur sa fatigue. Elle choisit les situations à examiner et les aménagements qui l’aideraient à en parler.",
       "context": "Au centre qui accompagne Nour, avant la visite test",
       "topics": [
-        "Fatigue après l’effort",
-        "Communication écrite",
-        "Choix du soutien"
+        "Fatigue après les échanges",
+        "Surcharge sensorielle",
+        "Évaluation en consultation"
       ],
       "opening": "Nour avait demandé par message s’il serait possible de commencer dans la petite salle. La personne de l’accueil lui dit qu’un rendez-vous y est encore en cours et lui montre le banc près de la porte. De là, Nour entend chaque nom appelé dans le couloir. Elle reste debout le temps de lire la note qu’elle a préparée. Elle a écrit « fatiguée après les réunions », puis ajouté la journée de jeudi. Ce jour-là, elle était restée longtemps sur une traduction qui lui plaisait. Chez elle, elle a relu une question de Fatou plusieurs fois sans parvenir à choisir une réponse.\n\nLa professionnelle vient la chercher. Elle lui propose d’attendre encore quelques minutes dans un endroit plus calme ou de commencer tout de suite dans un bureau libre. Nour choisit le bureau. Quand la porte se referme, elle entend le bourdonnement du plafonnier et demande si elles peuvent l’éteindre. La fenêtre donne assez de lumière pour lire. Nour pose la note entre elles. « Je sais mieux par où commencer quand vous avez la feuille. »\n\nElle parle des chariots qui passent près de la salle des retours et de la visite où elle s’est arrêtée au kiosque. Elle voudrait garder les deux projets. Elle demande à la professionnelle ce qu’elles peuvent examiner ensemble. Fatou a proposé de venir, et Nour a préféré prendre le rendez-vous seule. Elle la retrouvera au square pour revoir l’heure du prochain repérage, quand elle aura eu le temps de sortir du cabinet.",
       "sections": [
@@ -223,18 +233,20 @@
       "continuity": {
         "choice": "Nour utilise une note pendant un rendez-vous qu’elle fait seule et réduit la préparation qui suit aux accès et aux horaires.",
         "next": "La visite test permettra de vérifier la cour et la possibilité de faire une pause en route."
-      }
+      },
+      "clinical_focus": "Fatigue et retentissement au quotidien",
+      "clinical_intro": "Nour apporte une note au rendez-vous parce que décrire sa fatigue à l’oral lui demande déjà de l’énergie. Elle compare deux journées, dont une réunion dont elle connaissait le déroulé, pour aider la professionnelle à comprendre ce qui lui coûte. La fatigue mérite d’être examinée dans son contexte et d’autres causes peuvent aussi entrer dans la discussion."
     },
     {
       "number": 7,
       "slug": "nour-visite-test-banc-cour",
-      "title": "Un lieu de pause pour suivre la visite à son rythme",
+      "title": "Prévoir une pause pour doser une surcharge sensorielle",
       "description": "Pendant la visite test, Rita essaie la carte et Nour vérifie le lieu de pause. Une grille fermée oblige le groupe à revoir le trajet.",
       "context": "Dans le passage des Verriers, lors de la visite test entre voisins",
       "topics": [
-        "Besoins sensoriels",
-        "Choix de faire une pause",
-        "Repères pour s’orienter"
+        "Autorégulation",
+        "Surcharge sensorielle",
+        "Accessibilité du lieu"
       ],
       "opening": "Rita, une voisine, a rangé le plan dans la poche de son cabas à roulettes. Elle vient de faire ses courses et a proposé de vérifier le trajet avec elles sur le retour. Nour lui demande de s’orienter sans attendre ses indications. Au premier angle, Rita prend la rue qui porte le nom le plus visible sur la feuille. Elle avance jusqu’à un escalier que Nour n’avait pas dessiné. Elles repartent de l’autre côté. Nour entoure le nom de la rue et note l’endroit où ajouter les marches.\n\nLa cour est visible à travers la grille. Le banc que Fatou leur avait décrit est au soleil. Une feuille scotchée à hauteur de poignée annonce que la grille ferme à midi. Il est midi passé. Rita pourrait rester debout le temps de regarder la photographie. Nour avait surtout compté sur le banc pour s’arrêter avant le retour. Fatou propose de demander au commerce voisin si quelqu’un peut leur ouvrir. Nour lui montre le panneau et préfère repartir vers un siège dont l’accès ne dépend pas d’une clé.\n\nElles reviennent sur leurs pas et trouvent, près de la boulangerie, une banquette d’où l’on voit l’entrée du passage. Rita gare son cabas devant elle et Nour sort la photographie. De là, on ne voit plus les trous de fixation de l’enseigne. On peut encore comparer le sens de la rue avec celui de l’image. Nour se demande laquelle de ces deux choses elle veut raconter aux voisins.",
       "sections": [
@@ -259,18 +271,20 @@
       "continuity": {
         "choice": "Nour déplace la pause hors de la cour et note les marches d’après l’essai de Rita.",
         "next": "Un avis de travaux oblige à préciser quelle partie du passage restera accessible."
-      }
+      },
+      "clinical_focus": "Autorégulation en environnement sensoriel",
+      "clinical_intro": "Quand Rita et Nour trouvent la grille fermée, le lieu de pause prévu devient inutilisable. Pour Nour, disposer d’un endroit calme, accessible et identifiable change la possibilité de poursuivre la visite. L’épisode montre comment une personne autiste peut anticiper un moment de surcharge et choisir un appui lié au lieu plutôt qu’à une règle imposée à tout le groupe."
     },
     {
       "number": 8,
       "slug": "nour-travaux-plan-visite",
-      "title": "Retrouver ses repères après un changement de trajet",
+      "title": "Recomposer ses repères après un changement imprévu",
       "description": "Un avis de travaux arrive après le repérage. Nour décide ce qu’elle garde de la visite et comment indiquer le changement avant le départ.",
       "context": "Chez Nour et à l’entrée du passage, avant le premier jour de visite",
       "topics": [
-        "Effort face aux imprévus",
-        "Besoin de repères",
-        "Partage des tâches"
+        "Changement imprévu",
+        "Besoin de prévisibilité",
+        "Réorganisation de la tâche"
       ],
       "opening": "Le lendemain de l’essai, Nour lit l’avis de travaux en prenant son petit déjeuner. La zone hachurée recouvre une partie du passage des Verriers. Il reste trois jours avant la visite. Une personne du groupe répond qu’on peut passer par une venelle, « comme d’habitude ». Nour déplie la carte. Elle connaît deux endroits que ce message pourrait désigner. L’un débouche sur des marches et l’autre rejoint le quai. Elle ferme la conversation le temps de retrouver sur le site de la ville l’adresse exacte mentionnée dans l’avis.\n\nFatou passe avec des exemplaires du plan qu’elles avaient préparés. Nour ne les prend pas tout de suite. Elle avait prévu de corriger la légende de l’hirondelle ce matin. Elle montre la zone hachurée, puis la flèche qui la traverse encore sur le papier. Fatou propose de tout faire par la rue du marché. Nour lui dit qu’elle veut garder un chemin qui évite les chariots sous la halle. Elle lui demande de faire l’aller jusqu’au quai avec elle.\n\nElles trouvent la barrière avant l’escalier. Le chemin qui longe le quai rejoint le kiosque par l’extérieur de la place. Il est plus long et reste ouvert. Un panneau précise à quel endroit on doit traverser. Nour photographie ce panneau pour vérifier l’itinéraire en revenant. Fatou lui demande si elles peuvent annoncer cette version aujourd’hui. Nour voudrait s’asseoir quelques minutes avant de lui répondre. Elle a déjà la nouvelle flèche en tête et sent qu’elle relit l’ancienne chaque fois qu’elle baisse les yeux.",
       "sections": [
@@ -295,23 +309,25 @@
       "continuity": {
         "choice": "Nour garde plusieurs options, ajoute le chemin du quai et prépare une information datée.",
         "next": "La visite commence au kiosque avec la nouvelle carte et les choix de retour déjà annoncés."
-      }
+      },
+      "clinical_focus": "Transitions et changement de routine",
+      "clinical_intro": "L’avis de travaux oblige Nour à revoir le trajet, la pause et la carte qu’elle pensait terminés. Elle a la nouvelle flèche en tête et revient encore à l’ancienne lorsqu’elle relit le plan. Chez certaines personnes autistes, une transition de ce type demande un effort important. Conserver l’heure et le lieu du rendez-vous lui laisse des repères stables."
     },
     {
       "number": 9,
       "slug": "nour-visite-pause-auvent",
-      "title": "Trop de bruit au kiosque : Nour fait une pause et passe le relais",
+      "title": "Surcharge sensorielle au kiosque et choix de passer le relais",
       "description": "Le jour de la visite, une enceinte s’allume sur le square. Nour choisit une pause et précise ce que Fatou peut annoncer pendant son absence.",
       "context": "Au kiosque et sous l’auvent de la boulangerie, le premier jour de visite",
       "topics": [
-        "Sensibilité au bruit",
-        "Effort pour suivre la conversation",
+        "Surcharge sensorielle",
+        "Retrait temporaire",
         "Relais choisi"
       ],
       "opening": "Nour a apporté la reproduction dans une chemise en carton. Elle la pose au milieu du kiosque, à côté des cartes imprimées. Fatou montre les deux chemins aux premiers arrivants. Rita retrouve sur la carte l’endroit où elles ont dessiné les marches. Nour explique qu’on peut commencer par l’image ou y revenir plus tard. Une personne la prend au mot et s’assoit avec la légende pendant que les autres regardent le plan.\n\nAu bord du square, un stand branche une enceinte. Les premières notes couvrent la fin d’une question qu’on vient de poser à Nour. Elle demande à la personne de répéter. Les mots lui arrivent par morceaux. Elle voit le doigt de Fatou posé sur le chemin du quai. Elle voudrait finir d’expliquer où l’hirondelle était fixée, mais elle n’est plus sûre de ce qu’elle vient de dire. Elle montre à Fatou la chemise et écrit qu’elle va s’asseoir sous l’auvent de la boulangerie, à l’écart du square.\n\nFatou lui demande par message si elle veut qu’on interrompe les départs. Nour écrit qu’elle préfère laisser partir les gens. Elle voudrait garder la photo au kiosque et prendre sa pause sans qu’on en donne la raison. Fatou demande seulement s’il faut venir la retrouver. Nour regarde la rue du quai sur la feuille qu’elle a gardée. Elle répond qu’elle décidera dans quelques minutes si elle les rejoint, et qu’elle écrira si elle rentre.",
       "sections": [
         {
-          "heading": "Pouvoir s’arrêter au milieu d’une activité choisie",
+          "heading": "Reconnaître la surcharge pendant une activité choisie",
           "text": "Une pause choisie peut permettre de décider de la suite quand un environnement devient difficile à supporter. Les sensibilités sensorielles peuvent compter dans le quotidien d’une personne autiste. Nour avait repéré le marché et prévu un autre trajet. L’enceinte introduit un son qu’elle n’avait pas anticipé. Pour elle, les mots deviennent plus difficiles à suivre et parler lui demande plus d’effort. Elle peut utiliser l’écrit et s’éloigner, y compris après avoir préparé la visite avec soin.\n\nLe NICE recommande d’ajuster le cadre des soins et de l’accompagnement aux besoins sensoriels et de communication. Dans la sortie organisée par Nour, cette idée prend la forme d’un lieu de retrait et d’un moyen de rester en contact choisi. D’autres personnes peuvent préférer un soutien différent. Laisser Nour décider du moment où elle souhaite répondre lui donne une place réelle dans l’organisation."
         },
         {
@@ -331,16 +347,18 @@
       "continuity": {
         "choice": "Nour confie les départs à Fatou, fait une pause à l’écart et choisit de rentrer.",
         "next": "Après la visite, elle décide quand répondre aux retours du quartier et quel rôle elle veut garder."
-      }
+      },
+      "clinical_focus": "Surcharge sensorielle en situation sociale",
+      "clinical_intro": "Lorsque l’enceinte s’allume, Nour éprouve plus de difficulté à entendre les participants et à répondre à leurs questions. Elle confie les deux départs à Fatou et choisit de s’écarter. Une pause laisse le temps de décider ce qui reste possible quand des sensations se cumulent. Le relais peut être organisé avec elle en respectant la confidentialité qu’elle souhaite."
     },
     {
       "number": 10,
       "slug": "nour-apres-visite-limites",
-      "title": "Fatigue après la visite : quelle place garder pour la suivante ?",
+      "title": "Le coût d’une sortie se voit aussi dans la récupération",
       "description": "Des voisins veulent recommencer la visite. Avant de répondre, Nour examine ce que la première lui a demandé et la part qu’elle veut garder.",
       "context": "Chez Nour, dans les jours qui suivent la première visite",
       "topics": [
-        "Fatigue après l’effort",
+        "Fatigabilité",
         "Temps de récupération",
         "Limites dans un projet collectif"
       ],
@@ -367,23 +385,25 @@
       "continuity": {
         "choice": "Nour attend avant de répondre, garde la légende et propose un rendez-vous unique avec des responsabilités réparties.",
         "next": "Elle retrouve Joël pour rendre la légende disponible à l’écrit et à l’oral selon les choix de chacun."
-      }
+      },
+      "clinical_focus": "Récupération après une surcharge",
+      "clinical_intro": "Le lendemain, les voisins parlent déjà de recommencer. Nour mesure l’effort d’avoir repris la carte puis géré le bruit au kiosque, et elle repousse certaines tâches à la maison. Une activité appréciée peut avoir un coût qui n’apparaît qu’après. Nour regarde ce coût avant de choisir la légende comme part du prochain rendez-vous."
     },
     {
       "number": 11,
       "slug": "nour-legende-ecrite-enregistree",
-      "title": "Lire ou écouter : chacun sa façon de suivre la visite",
+      "title": "Adapter le format d’un message quand le bruit gêne l’écoute",
       "description": "Nour et Joël essaient une version enregistrée de la légende. Ils décident ce qui doit rester disponible à l’écrit et sur place.",
       "context": "À l’atelier de gravure, avant la deuxième visite",
       "topics": [
-        "Préférences de communication",
-        "Attention dans le bruit",
+        "Accès à l’écrit",
+        "Sensibilité auditive",
         "Consentement à l’enregistrement"
       ],
       "opening": "Joël a posé un téléphone devant la presse et placé deux feuilles derrière, comme un paravent. Il veut faire un essai pour savoir s’il peut lire la légende pendant que les autres gravent. Nour lui indique la version courte, imprimée sur du papier mat. Ils ont gardé le nom de la boutique et les deux adresses. Sur le deuxième texte, une phrase explique ce qu’on voit quand on regarde l’hirondelle depuis le passage.\n\nJoël lui propose d’enregistrer cette dernière phrase avec sa voix. Nour relit la page. Elle connaît le rythme qu’elle voudrait entendre et préfère le marquer au crayon. Elle n’a pas envie que son propre enregistrement circule. « Je peux te dire où je ferais la pause. Je voudrais que tu lises, si ça te plaît. » Joël garde la feuille sous les yeux et reprend son souffle à l’endroit qu’elle indique.\n\nUne personne tire la poignée de la presse. Dans l’enregistrement, on entend un choc juste avant le nom de la rue. Joël trouve que le bruit va bien avec la légende. Nour entend surtout qu’il masque le mot qu’elle veut faire retenir. Ils réécoutent chacun une fois. Puis elle lui demande s’ils peuvent essayer dans le couloir, où personne n’est en train d’imprimer. Joël replie le petit paravent. Il voudrait garder la première version pour lui, avec le bruit de l’atelier.",
       "sections": [
         {
-          "heading": "La même information dans plusieurs formats",
+          "heading": "Diversifier les modes d’accès à une information",
           "text": "Un même renseignement peut se lire, s’écouter ou se retrouver dans une image. Joël veut écouter la légende et retrouver l’adresse sur son téléphone. Nour veut relire les noms sur une feuille qu’elle peut retourner et commenter. Leurs choix peuvent se combiner. Le texte reste disponible quand le bruit gêne l’écoute ou quand une personne n’a pas accès à l’enregistrement.\n\nLe NICE recommande de proposer les informations dans un format adapté aux besoins de la personne dans les services de soins et d’accompagnement. Nour et Joël en reprennent l’idée pour la visite. Ils vérifient que les adresses et le lieu de départ figurent dans les deux versions. La légende enregistrée peut comporter un silence que Nour marque au crayon. La feuille peut montrer où regarder sur la reproduction et donner le temps d’examiner le détail."
         },
         {
@@ -403,18 +423,20 @@
       "continuity": {
         "choice": "Nour garde sa contribution écrite, Joël choisit l’enregistrement qu’il veut partager et le groupe prépare les deux formats.",
         "next": "Le nouveau rendez-vous se tient au porche du quai et Nour choisit de faire un trajet comme participante."
-      }
+      },
+      "clinical_focus": "Accessibilité des modes de communication",
+      "clinical_intro": "Dans le premier enregistrement, les bruits de la presse couvrent un mot que Nour veut garder. Joël souhaite écouter sa légende et Nour a besoin de relire les noms sur une feuille. L’épisode montre comment diversifier les formats peut soutenir des personnes autistes dont les besoins diffèrent. Le choix du format va de pair avec le choix des enregistrements que chacun accepte de diffuser."
     },
     {
       "number": 12,
       "slug": "nour-deuxieme-visite-quai",
-      "title": "Choisir sa place dans le groupe après avoir organisé la visite",
+      "title": "Changer de rôle pour rester dans une activité choisie",
       "description": "Au deuxième départ, les voisins prennent plusieurs chemins. Nour garde le sien et laisse une autre personne tenir la carte au point de rendez-vous.",
       "context": "Au porche du quai, lors de la deuxième visite entre voisins",
       "topics": [
-        "Participation à son rythme",
-        "Partage des responsabilités",
-        "Expression de ses préférences"
+        "Participation sociale",
+        "Soutien collectif",
+        "Autonomie de décision"
       ],
       "opening": "Au porche du quai, Fatou tient une liasse de feuilles entre le pouce et l’index. Une femme en prend une, la retourne et demande si elle doit rendre la carte à la fin. Nour répond qu’elle peut la garder. Elle pose la chemise sur un rebord à hauteur de main. Joël a apporté l’enregistrement. Il trouve un endroit où le faire écouter à la personne qui le souhaite. Deux autres voisins regardent déjà l’image en parlant de la vitrine qui occupe aujourd’hui l’ancienne boutique.\n\nNour a prévu de partir par le quai. Rita lui signale qu’un banc est occupé par deux personnes avec leur chien. Nour peut continuer un peu plus loin ou revenir au porche. Elle décide d’avancer jusqu’au bout de la rue et de s’arrêter là où elle pourra regarder la cour de l’autre côté. Fatou lui demande si elle veut encore donner le départ. Nour lui montre l’heure sur la feuille. Elle est venue pour faire ce trajet et ne souhaite pas attendre au porche la personne qui a annoncé son retard.\n\nAu premier tournant, elle entend Joël discuter avec une voisine des noms qu’on voit sur l’image. Il reste au porche pour le moment. Nour marche avec Rita jusqu’à la vieille porte. La dernière fois, elle avait regardé cette adresse sur la carte. Aujourd’hui, elle peut choisir où s’arrêter pour voir la forme de la ferrure.",
       "sections": [
@@ -439,7 +461,9 @@
       "continuity": {
         "choice": "Nour confie le départ à l’équipe et prend le chemin qu’elle souhaitait essayer.",
         "next": "Le groupe garde les indications et chacun pourra choisir un trajet, une pause ou un rôle lors d’une prochaine visite."
-      }
+      },
+      "clinical_focus": "Participation sociale et autonomie",
+      "clinical_intro": "Au deuxième départ, Nour préfère emprunter un trajet avec Rita plutôt que tenir l’accueil. Le groupe sait où trouver la carte et peut reprendre les explications qu’elle a préparées. Ce partage rend la participation plus souple et lui permet d’ajuster l’effort social et sensoriel qu’elle veut fournir. Son intérêt pour la visite reste visible dans le rôle qu’elle choisit."
     }
   ]
 }

@@ -1,23 +1,25 @@
 ---
-title: Savoir où s’arrêter quand le projet donne de nouvelles idées
+title: Garder un plan de suivi quand l’élan créatif revient
 description: Les commerçants choisissent ce qu’ils veulent partager. Émilien termine
   deux extraits et garde avec l’équipe un plan qu’il peut revoir.
 slug: emilien-apres-la-derniere-ecoute
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Émilien
-sujet: Trouble bipolaire de type I
+sujet: Prévention à long terme
 contexte: terminer une première écoute de quartier tout en poursuivant un suivi ajusté
   à sa vie
 tags:
+- Trouble bipolaire de type I
 - Bipolarité type I
-- Limites choisies
-- Décisions en commun
-- Autonomie dans le suivi
+- Prévention des rechutes
+- Rythme de travail
+- Soutien révisable
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A60
+clinical_diagnosis: Trouble bipolaire de type I
 episode: 12
 ---
 

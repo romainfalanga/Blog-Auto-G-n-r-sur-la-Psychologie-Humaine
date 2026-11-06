@@ -1,23 +1,24 @@
 ---
-title: Dire ce qu’on peut tenir quand le comité en demande davantage
+title: Se rendre indispensable par peur d’être mise à l’écart
 description: Le comité veut ouvrir un deuxième créneau d’accueil. Gasparde demande
   à qui reviennent les tâches et propose une durée qu’elle peut tenir.
 slug: gasparde-deux-durees-reunion
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gasparde
-sujet: Trouble délirant
+sujet: Peur d’être écartée
 contexte: Le jeudi soir, à la réunion du club
 tags:
 - Trouble délirant
 - Trouble délirant persistant
-- Garder la main sur ses choix
-- Peur de décevoir
-- Limites dans l’entraide
+- Peur d’être écartée
+- Surinvestissement au travail
+- Affirmation de soi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A24
+clinical_diagnosis: Trouble délirant
 episode: 7
 ---
 
@@ -27,7 +28,7 @@ La nuit d’avant, elle avait pensé à ce que le comité pouvait décider penda
 
 Gasparde pose un biscuit sur le bord de sa soucoupe. Elle demande qui a proposé l’idée et combien de personnes pourront tenir la porte. La membre du comité dit qu’elle peut être là de dix à onze, si un autre bénévole répond au téléphone. Gasparde prend le crayon. Elle aimerait garder son samedi matin et elle choisit de dire ce qu’elle peut offrir le dimanche. « Je peux préparer l’affiche. Je ne veux pas me retrouver à répondre en même temps. »
 
-## Une limite précise pendant une discussion difficile
+## La peur d’être écartée pousse à en faire davantage
 
 Il est possible de préciser sa part d’un projet alors qu’on se sent encore menacé dans sa place. Gasparde pourrait accepter une longue permanence pour montrer qu’elle reste utile. Quand elle pose sa question, elle découvre que la proposition a déjà une volontaire pour une partie du travail. Elles peuvent parler du reste. Son envie de garder sa place au club et sa peur d’en être écartée sont deux éléments qu’elle éprouve ensemble.
 

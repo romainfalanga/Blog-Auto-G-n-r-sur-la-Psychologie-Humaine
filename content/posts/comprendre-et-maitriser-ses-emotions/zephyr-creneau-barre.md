@@ -1,23 +1,25 @@
 ---
-title: Se croire écarté quand son créneau disparaît du planning
+title: Méfiance quand un changement de planning ressemble à une mise à l’écart
 description: Un créneau barré au musée fait craindre à Zéphyr qu’on ait retiré son
   projet. Il cherche ce qu’il peut demander avant de quitter la discussion.
 slug: zephyr-creneau-barre
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Zéphyr
-sujet: Trouble schizotypique
+sujet: Méfiance dans les échanges
 contexte: Le musée associatif prépare son programme. Zéphyr veut essayer une matinée
   de transmission dans son atelier de mécanique.
 tags:
+- Trouble schizotypique
 - Schizotypie
-- Doute sur les intentions des autres
-- Retrait avant une réponse
-- Demande de précision au travail
+- Méfiance dans les échanges
+- Interprétation d’une intention
+- Évitement relationnel
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A22
+clinical_diagnosis: Trouble schizotypique
 episode: 1
 ---
 
@@ -27,7 +29,9 @@ Au fond du hall, Maud est en train de téléphoner. Elle lui fait signe d’atte
 
 Cette fois elle vient le chercher pour le dépôt à la banque. Il avait promis de prendre le sac de monnaie avant le déjeuner. Il a laissé passer l’heure et Maud devra y aller seule. Elle jette un œil aux tabourets et demande s’il les veut au hall. La phrase qu’il a préparée en silence est « Je vous laisse la place ». Il la garde encore un instant. Puis il sort dans le couloir avec le planning plié.
 
-## Une intention qu’on n’a pas entendue
+## D’où vient la certitude qu’on veut l’écarter ?
+
+Dans le trouble schizotypique, des soupçons et des difficultés relationnelles peuvent se prolonger au-delà d’un échange. L’effet se voit ici dans l’après-midi que Zéphyr passe à reprendre la scène et dans son envie de se retirer. Le musée a réellement modifié le planning. L’intention que Zéphyr y lit reste à éclaircir avec Maud.
 
 Une information incomplète peut faire naître une interprétation qui finit par sembler aussi sûre que le fait de départ. Zéphyr a vu une ligne barrée ; il n’a pas entendu quelqu’un décider de l’exclure. La remarque sur la place, faite à un autre moment, prend pourtant pour lui la valeur d’une explication. Avant qu’il ait posé une question, elle a déjà changé deux choses : sa façon d’aborder Maud et ce qu’il fait de son projet.
 

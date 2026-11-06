@@ -1,24 +1,26 @@
 ---
-title: Demander ce qu’un mot veut dire au marché
-description: Au marché, Agathe veut choisir ses propres fleurs. Un mot nouveau la
-  fait hésiter entre deux sachets.
+title: Relier un mot inconnu à la décision qu’on doit prendre
+description: Au marché, le mot « naines » laisse Agathe hésitante. Elle demande au
+  marchand ce que cela change pour la place sur son balcon.
 slug: agathe-la-place-au-soleil
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Agathe
-sujet: Trouble développemental du langage
+sujet: Compréhension du vocabulaire en contexte
 contexte: Le samedi, au marché, avec sa mère ; les pots du balcon ne font pas partie
   du projet de l’école.
 tags:
+- Trouble développemental du langage
 - TDL
 - DLD (developmental language disorder)
-- Comprendre un mot nouveau
-- Demander une précision
-- Garder la main sur son choix
+- Apprentissage du vocabulaire
+- Hésitation à demander
+- Autonomie dans le choix
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.2
+clinical_diagnosis: Trouble développemental du langage
 episode: 7
 ---
 

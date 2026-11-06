@@ -1,23 +1,26 @@
 ---
-title: Demander de l’aide sans devoir se raconter à la cantine
-description: À la cantine, Lou propose d’expliquer à l’équipe pourquoi il faut du
-  temps. Maïwenn préfère dire elle-même de quoi elles ont besoin pour boucler.
+title: Demander du temps pour écrire tout en gardant son suivi privé
+description: Lou veut expliquer le délai au groupe. Maïwenn préfère dire de quoi elles
+  ont besoin pour relire et garder son diagnostic privé.
 slug: maiwenn-dire-le-besoin-a-la-cantine
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Maïwenn
-sujet: Trouble développemental des apprentissages avec déficit de l’expression écrite
+sujet: Expression des besoins d’écriture
 contexte: Le lundi midi, à la cantine du lycée, après un échange avec Mme Lenoir
 tags:
+- Trouble développemental des apprentissages avec déficit de l’expression écrite
 - Déficit de l’expression écrite
 - Dysorthographie
-- Limites dans la collaboration
-- Confiance pour demander de l’aide
-- Partage de l’intime
+- Confidentialité du diagnostic
+- Effort de relecture
+- Aménagement du travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.1
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit de l’expression
+  écrite
 episode: 8
 ---
 

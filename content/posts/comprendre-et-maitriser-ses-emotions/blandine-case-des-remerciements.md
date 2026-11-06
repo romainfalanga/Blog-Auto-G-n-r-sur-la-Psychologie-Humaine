@@ -1,23 +1,25 @@
 ---
-title: Quand une invitation devient une pression à revenir
-description: Alice envoie une idée pour le programme. Blandine accepte que l’archive
-  garde les noms et refuse qu’on raconte son retour.
+title: Pression à reprendre une activité quand le deuil complique encore les sorties
+description: Une annonce présente la venue de Blandine comme un retour. Elle décrit
+  la différence entre son envie d’écouter et la pression d’être attendue.
 slug: blandine-case-des-remerciements
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Blandine
-sujet: Trouble du deuil prolongé
+sujet: Pression sociale autour du deuil
 contexte: Chez Blandine, à la relecture du brouillon envoyé par Alice
 tags:
+- Trouble du deuil prolongé
 - Deuil prolongé
 - CIM-11 6B42
-- Crainte des attentes du groupe
-- Vie privée
-- Participation choisie
+- Pression à reprendre
+- Retrait social lié au deuil
+- Contrôle de la participation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B42
+clinical_diagnosis: Trouble du deuil prolongé
 episode: 9
 ---
 
@@ -25,7 +27,7 @@ Blandine vient de rendre une page relue quand Alice lui envoie un message. Elle 
 
 Elle remonte le fil, retrouve la photo du brouillon d’Alice et regarde les deux titres. Elle aimerait que les chanteurs sachent pourquoi les annotations sont conservées. Elle trouve même beau que le nom de Jeanne accompagne cette histoire. Elle ne veut pas avoir à traverser un soir la salle avec des gens qui l’ont lue au verso du programme. Le texte transforme sa décision sur deux feuilles en événement dont elle deviendrait le sujet. Elle s’entend déjà chercher une réponse à la question « Tu reviens pour de bon ? » au moment de ranger un pupitre.
 
-Elle commence à corriger la phrase comme s’il s’agissait d’une traduction et finit par supprimer tout le passage. Puis elle téléphone à Alice. Elle lui dit qu’il y a deux endroits différents, le meuble d’archives et le programme du concert. Blandine l’entend remuer des papiers. Elle lui demande de commencer par laisser la case vide.
+Elle commence à corriger la phrase comme s’il s’agissait d’une traduction et finit par supprimer tout le passage. L’idée du programme la ramène à la porte qu’elle n’a pas pu franchir jeudi. Elle connaît le poids que ce souvenir peut prendre avant même de partir de chez elle. Elle voudrait encore pouvoir y aller pour la musique, avec la possibilité de repartir si le manque devient trop fort. Puis elle téléphone à Alice. Elle lui dit qu’il y a deux endroits différents, le meuble d’archives et le programme du concert. Blandine l’entend remuer des papiers. Elle lui demande de commencer par laisser la case vide.
 
 ## La place qu’une personne souhaite prendre
 

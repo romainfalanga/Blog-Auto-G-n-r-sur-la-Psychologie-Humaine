@@ -1,23 +1,25 @@
 ---
-title: 'Nuits courtes et inquiétudes : Antonin en parle à son médecin'
+title: Sommeil perturbé quand les soucis se poursuivent la nuit
 description: Antonin parle à son médecin des nuits courtes et des décisions qui lui
   coûtent. Ils revoient ensemble la suite de sa prise en charge.
 slug: antonin-sommeil-au-rendez-vous
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Antonin
-sujet: Trouble anxieux généralisé
+sujet: Sommeil et inquiétudes persistantes
 contexte: Au rendez-vous de suivi médical, après une semaine de nuits interrompues
 tags:
+- Trouble anxieux généralisé
 - TAG
 - Anxiété généralisée
 - Sommeil perturbé
-- Fatigue dans la journée
-- Choix de soins
+- Inquiétudes nocturnes
+- Fatigue diurne
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B00
+clinical_diagnosis: Trouble anxieux généralisé
 episode: 5
 ---
 

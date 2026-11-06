@@ -1,23 +1,25 @@
 ---
-title: Reprendre goût au chœur sans être prête à chanter
-description: Blandine entre écouter Le Pont à la fin de la répétition. Quand Léon
-  lui propose de chanter, elle lui dit ce qu’elle veut faire.
+title: Retrouver de l’intérêt pour le chœur quand le manque reste douloureux
+description: Blandine traverse la place et retrouve un intérêt pour le morceau. Elle
+  reste libre d’écouter pendant que les autres chantent.
 slug: blandine-chaise-pres-porte
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Blandine
-sujet: Trouble du deuil prolongé
+sujet: Reprise d’une activité sociale
 contexte: Dans la salle du chœur, pour la fin d’une répétition du Pont
 tags:
+- Trouble du deuil prolongé
 - Deuil prolongé
 - CIM-11 6B42
-- Chagrin et intérêt mêlés
-- Participation à son rythme
-- Respect d’un refus
+- Reprise d’activité
+- Variabilité du retentissement
+- Manque persistant
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B42
+clinical_diagnosis: Trouble du deuil prolongé
 episode: 10
 ---
 

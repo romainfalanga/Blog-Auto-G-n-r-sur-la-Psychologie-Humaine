@@ -1,12 +1,13 @@
 ---
 title: Mathis
 date: '2026-11-06T00:00:00+00:00'
-description: Mathis, 29 ans, répare des vélos dans un atelier associatif. Il aime
-  expliquer un réglage et voir quelqu’un repartir en sachant le refaire. Avec sa collègue
-  Zélie, il prépare une permanence sur la place des Tilleuls. À la maison, il vit
-  avec Simon, son colocataire. Quand plusieurs demandes arrivent ensemble, Mathis
-  perd le fil et craint de passer pour quelqu’un sur qui on ne peut pas compter. Il
-  dit parfois oui avant d’avoir regardé ce qu’il peut vraiment tenir.
+description: Mathis a 29 ans et répare des vélos dans un atelier associatif. Une psychiatre
+  évalue ses difficultés d’attention et d’organisation, puis pose un diagnostic de
+  TDAH chez l’adulte. Quand la sonnette interrompt une réparation, Mathis peine à
+  retrouver l’étape qu’il venait de terminer. Il craint que ses oublis abîment la
+  confiance de Zélie, sa collègue, ou de Simon, son colocataire. Pour préparer une
+  permanence de quartier, il cherche des manières de retrouver le fil et de tenir
+  les engagements qu’il choisit.
 slug: mathis
 prenom: Mathis
 date_naissance: '1997-01-01'
@@ -16,86 +17,87 @@ nb_articles: 12
 weight: 34
 draft: false
 clinical_code: 6A05
+clinical_diagnosis: TDAH chez l’adulte
 reading_topics:
-- Attention et interruptions
-- Estimation du temps
-- Engagements réalistes
-- Autonomie
-- Coopération au travail
+- TDAH chez l’adulte
+- Distractibilité
+- Organisation des tâches
+- Oublis d’intention
+- Peur de décevoir
 ---
 
 <h2 class="parcours-section-title">Parcours de Mathis</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-velo-bleu-interruptions/">Perdre le fil après une interruption à l’atelier</a></h3>
-    <p class="parcours-resume">Le vélo bleu est encore sur le pied quand Zélie revient avec le plan de la place des Tilleuls. Mathis lui montre du doigt le coin où installer le barnum.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-velo-bleu-interruptions/">Distractibilité et perte du fil pendant une réparation</a></h3>
+    <p class="parcours-resume">Une sonnette interrompt Mathis pendant qu’il vérifie le vélo bleu. À son retour, il hésite sur le dernier contrôle et songe à le refaire. Son évaluation porte sur la répétition de ce type de difficulté et sur ses conséquences au travail comme à la maison. Le récit montre l’intérêt d’apporter des exemples précis quand on s’interroge sur un TDAH.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-velo-bleu-interruptions/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-cahiers-enfance-evaluation/">Difficultés d’attention : ce que Mathis retrouve dans ses souvenirs d’école</a></h3>
-    <p class="parcours-resume">Sa mère a rangé les cahiers dans un sac de course qui tient debout entre deux cartons. Mathis prend celui dont le coin a été grignoté par le chien. La première page est propre, avec la date et son nom en capitales.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-cahiers-enfance-evaluation/">Évaluation du TDAH à l’âge adulte et souvenirs d’école</a></h3>
+    <p class="parcours-resume">En retournant une page de cahier avec sa mère, Mathis se rappelle une fiche dont il avait oublié de lire la suite. Il préparait pourtant longtemps à l’avance ses réparations de vélo avec un voisin. La psychiatre cherche quand les difficultés d’attention et d’organisation ont commencé, dans quelles situations elles gênaient Mathis et dans quelles conditions il arrivait à se concentrer.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-cahiers-enfance-evaluation/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-diagnostic-tdah-adulte/">Soulagement et appréhension à l’annonce du diagnostic</a></h3>
-    <p class="parcours-resume">Le papier de Mathis dépasse de sa poche quand il s’assoit. Il avait écrit une question au dos de la date du rendez-vous. « Est-ce que ça va m’obliger à changer de métier ? » Ce matin, elle lui paraît presque trop grande pour commencer.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-diagnostic-tdah-adulte/">Le soulagement et les doutes à l’annonce du TDAH</a></h3>
+    <p class="parcours-resume">Mathis avait écrit sa première question avant le rendez-vous. Il se demande si le diagnostic de TDAH va l’obliger à changer de métier. La psychiatre lui explique comment elle a rapproché son histoire d’enfance, les conséquences observées aujourd’hui et les autres explications possibles. Sur le banc après l’entretien, il hésite à écrire les quatre lettres à Simon.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-diagnostic-tdah-adulte/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-pince-rouge-amenagements/">Partager les rôles pour protéger son attention à l’atelier</a></h3>
-    <p class="parcours-resume">Zélie pousse la table pliante jusqu’au trait que Mathis a tracé au sol. À la place des Tilleuls, le trait sera le bord du barnum. À l’atelier, c’est un morceau de ruban adhésif qui traverse l’entrée.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-pince-rouge-amenagements/">Des repères pour reprendre une tâche interrompue avec un TDAH</a></h3>
+    <p class="parcours-resume">Pendant un essai de permanence, Zélie reçoit les questions pendant que Mathis termine un contrôle et note où il s’est arrêté. Une fiche libère une partie de l’effort nécessaire pour garder en tête les étapes d’une réparation. Dans le TDAH, modifier le poste et la circulation des demandes peut aider au quotidien. Mathis et Zélie observent ce que leur essai change.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-pince-rouge-amenagements/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-fiche-partagee-confidentialite/">Demander un appui à l’équipe sans tout dire de sa santé</a></h3>
-    <p class="parcours-resume">La coordinatrice de l’association a posé une fiche sur le classeur. Elle veut savoir combien de bénévoles il faudra le samedi et à quels moments les postes devront être tenus ensemble.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-fiche-partagee-confidentialite/">Parler de ses besoins au travail après un diagnostic de TDAH</a></h3>
+    <p class="parcours-resume">Pour obtenir du renfort le samedi, Mathis peut décrire une interruption précise et le contrôle qu’il aurait dû reprendre. Il souhaite aussi parler de son diagnostic à Zélie, dans un échange privé. L’épisode distingue les besoins de travail qu’il présente à l’équipe des informations de santé qu’il choisit de partager avec une collègue.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-fiche-partagee-confidentialite/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-trajet-materiel-temps/">Pourquoi Mathis sous-estime le temps d’installation</a></h3>
-    <p class="parcours-resume">Mathis met le pied de réparation sur la remorque et ferme la grille. Il ne s’est pas encore écoulé une minute depuis qu’il a regardé l’heure. Il se souvient avoir dit à la réunion que le trajet en prenait dix.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-trajet-materiel-temps/">Estimer la durée d’une tâche quand les étapes s’accumulent</a></h3>
+    <p class="parcours-resume">Mathis a compté le trajet qu’il fait d’habitude. La remorque, la clé à récupérer et le montage du poste s’ajoutent au temps de déplacement. Certaines personnes avec un TDAH peinent à organiser une suite d’actions et à anticiper leurs délais. En suivant le trajet complet, Mathis repère les étapes dont son estimation dépendait.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-trajet-materiel-temps/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-livraison-repartition-maison/">Dire oui trop vite : qui porte la charge de la livraison ?</a></h3>
-    <p class="parcours-resume">Simon a imprimé le message du magasin. Le livreur viendra entre la fin de l’après-midi et le début de la soirée. La plage est assez large pour recouvrir l’heure où Mathis doit ranger l’atelier.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-livraison-repartition-maison/">La peur de décevoir quand on s’engage trop vite</a></h3>
+    <p class="parcours-resume">Mathis veut dire à Simon qu’il sera là pour la livraison avant de vérifier son heure de départ de l’atelier. Puis il se rappelle la photo qu’il avait prise à temps et envoyée en retard. Cet oubli d’une action prévue et la difficulté à anticiper l’horaire rendent son engagement plus fragile. L’accord concerne aussi la charge de Simon, qui reçoit les appels du magasin.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-livraison-repartition-maison/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-options-soins-suivi/">Garder la main sur les choix de suivi quand les difficultés persistent</a></h3>
-    <p class="parcours-resume">Mathis pose sur ses genoux une enveloppe gonflée par les fiches qu’il a décidé d’apporter. À l’intérieur, il y a l’heure de la livraison, deux notes prises après des journées à l’atelier et un croquis de la table mobile.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-options-soins-suivi/">Choisir un accompagnement pour les difficultés qui persistent</a></h3>
+    <p class="parcours-resume">Au cabinet, Mathis montre ce qui l’aide à retrouver l’étape d’une réparation et ce qui lui échappe encore à la maison. Le suivi du TDAH tient compte des difficultés persistantes, des aménagements essayés et de ce que la personne veut travailler. Avec sa psychiatre, il choisit de commencer par un accompagnement structuré qui part de ces deux situations.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-options-soins-suivi/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-changement-plan-reprise/">Imprévu et fatigue : Mathis révise ses repères avec l’équipe</a></h3>
-    <p class="parcours-resume">Quand Mathis arrive à l’atelier, un bénévole a déjà descendu la rampe de la remorque. Il se demande pourquoi les autres ne sont pas là. Le message de Zélie annonçait un changement possible.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-changement-plan-reprise/">Quand l’imprévu et le manque de sommeil compliquent l’organisation</a></h3>
+    <p class="parcours-resume">Mathis a mal dormi et découvre que deux horaires différents circulent pour le même essai. Le changement le pousse d’abord à vouloir faire venir tout le monde. Les difficultés d’attention peuvent varier avec la fatigue et les exigences du moment. Le désaccord entre les messages complique aussi l’organisation de toute l’équipe, qui décide de choisir un horaire commun.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-changement-plan-reprise/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-premiere-permanence-limites/">Poser une limite quand on voudrait encore rendre service</a></h3>
-    <p class="parcours-resume">L’ardoise tient avec un tendeur passé autour du pied de la table. Mathis a dit qu’il la retournerait à midi, une fois les dernières demandes prises. À onze heures cinquante, une femme s’arrête avec un vélo qu’elle tient par la selle.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-premiere-permanence-limites/">Dire non à une nouvelle demande pour tenir ses engagements</a></h3>
+    <p class="parcours-resume">À la fin de la permanence, Mathis voudrait dépanner la femme qui vient d’arriver. Il doit encore rendre les vélos déjà confiés et fermer l’atelier mobile. Hiérarchiser des demandes concurrentes peut devenir difficile quand elles arrivent au même moment. L’ardoise et l’heure de fin l’aident à proposer une réponse réaliste sans perdre de vue ce qu’il s’est engagé à faire.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-premiere-permanence-limites/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-suivi-avec-simon/">Au rendez-vous, faire une place au regard d’un proche</a></h3>
-    <p class="parcours-resume">Mathis a laissé son papier sur la table neuve exprès, à côté des clés, pour le prendre en sortant. Il a écrit d’un côté ce qu’il veut dire seul à la psychiatre.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-suivi-avec-simon/">Ce que le regard d’un proche apporte au suivi du TDAH</a></h3>
+    <p class="parcours-resume">Mathis invite Simon à une partie du rendez-vous pour entendre comment chacun a vécu l’organisation de la livraison. Le récit d’un proche peut préciser des effets quotidiens du TDAH et des attentes différentes au sein d’une relation. Mathis choisit de commencer par la livraison et garde la main sur les sujets qu’il souhaite aborder.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-suivi-avec-simon/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-deuxieme-samedi-permanence/">Passer le relais sans porter seul toute l’organisation</a></h3>
-    <p class="parcours-resume">La pluie de la veille a laissé une flaque à l’endroit où ils avaient aligné les vélos. Mathis et Zélie déplacent la table vers le bord de la place. La bénévole du premier samedi arrive par le côté où se trouvait l’ardoise.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-deuxieme-samedi-permanence/">Rendre les aides à l’organisation utilisables par toute l’équipe</a></h3>
+    <p class="parcours-resume">Lors de la deuxième permanence, Mathis aimerait retourner vers le pied de réparation. Pour changer de rôle, il faut que les autres retrouvent les horaires et les étapes en cours. Des appuis au quotidien deviennent plus faciles à maintenir quand l’équipe sait les utiliser et les revoir. Mathis peut alors choisir comment il participe et garder son suivi.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/mathis-deuxieme-samedi-permanence/" class="parcours-link">Lire</a>
   </div>
 </div>

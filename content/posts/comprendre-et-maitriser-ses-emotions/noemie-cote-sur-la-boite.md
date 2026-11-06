@@ -1,22 +1,24 @@
 ---
-title: 'Doute au travail : pourquoi Noémie vérifie encore après le contrôle'
-description: Aux archives, Noémie a terminé le contrôle d’une carte. Le doute la retient
-  encore au moment où Aïcha attend son choix pour l’exposition.
+title: La vérification compulsive quand le contrôle a déjà été fait
+description: Noémie a déjà contrôlé la cote. Le doute revient et capte son attention
+  pendant qu’Aïcha lui parle de l’exposition.
 slug: noemie-cote-sur-la-boite
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Noémie
-sujet: Trouble obsessionnel-compulsif
+sujet: Vérification compulsive
 contexte: Aux archives municipales, au moment de choisir les cartes de l’exposition
 tags:
+- Trouble obsessionnel-compulsif
 - TOC
-- Doute persistant
-- Vérifications répétées
-- Soulagement passager
+- Vérification compulsive
+- Doute obsessionnel
+- Soulagement de courte durée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B20
+clinical_diagnosis: Trouble obsessionnel-compulsif
 episode: 1
 ---
 

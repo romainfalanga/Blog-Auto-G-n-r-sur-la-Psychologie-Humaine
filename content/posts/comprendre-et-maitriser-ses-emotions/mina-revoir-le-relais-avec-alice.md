@@ -1,23 +1,25 @@
 ---
-title: Après une crise, Mina choisit quand donner des nouvelles à Alice
-description: Après une soirée difficile, Mina ajuste son plan au suivi et précise
-  avec Alice les nouvelles qu’elles souhaitent se donner.
+title: Après une crise, évaluer ce qui a aidé et ajuster le relais
+description: Mina a pu joindre le service, mais a eu du mal à retrouver le numéro.
+  Elle ajuste le plan et discute avec Alice de l’aide qu’elles souhaitent.
 slug: mina-revoir-le-relais-avec-alice
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mina
-sujet: Trouble de la personnalité avec profil borderline
+sujet: Réévaluation du plan de crise
 contexte: À la sortie du théâtre, quelques jours plus tard
 tags:
+- Trouble de la personnalité avec profil borderline
 - Profil borderline
 - Trouble borderline
-- Entente sur l’aide après une crise
-- Choix de donner des nouvelles
-- Révision du plan avec les soignants
+- Réévaluation du plan de crise
+- Soutien des proches
+- Confidentialité des soins
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D10
+clinical_diagnosis: Trouble de la personnalité avec profil borderline
 episode: 9
 ---
 

@@ -1,23 +1,25 @@
 ---
-title: Faire entendre ses inquiétudes quand un geste familier devient difficile
+title: Signaler une gêne nouvelle pendant le traitement
 description: Une gêne se répète devant la console. Émilien en parle à sa psychiatre
   pour comprendre ce qui se passe et discuter de son suivi.
 slug: emilien-bouton-du-niveau
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Émilien
-sujet: Trouble bipolaire de type I
+sujet: Retentissement des effets indésirables possibles
 contexte: décrire une gêne nouvelle et parler du traitement sans en modifier seul
   la prise
 tags:
+- Trouble bipolaire de type I
 - Bipolarité type I
-- Inquiétude
-- Expression des besoins
 - Effets indésirables possibles
+- Retentissement professionnel
+- Décision partagée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A60
+clinical_diagnosis: Trouble bipolaire de type I
 episode: 9
 ---
 

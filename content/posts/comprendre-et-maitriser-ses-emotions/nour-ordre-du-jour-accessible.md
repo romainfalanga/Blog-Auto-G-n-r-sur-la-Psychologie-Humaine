@@ -1,22 +1,24 @@
 ---
-title: Des repères pour trouver sa place en réunion
+title: Anticiper une réunion pour alléger l’effort de communication
 description: Avant la prochaine réunion, Nour demande le déroulé et le document de
   travail. Elle peut ainsi préparer la décision sur la photographie.
 slug: nour-ordre-du-jour-accessible
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nour
-sujet: Autisme
+sujet: Anticipation et communication sociale
 contexte: Au service municipal, avant une réunion sur les reproductions de la collection
 tags:
+- Autisme
 - TSA
-- Préparation aux changements
-- Préférences de communication
-- Participation à son rythme
+- Anticipation
+- Communication sociale
+- Accessibilité au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A02
+clinical_diagnosis: Autisme
 episode: 3
 ---
 
@@ -26,7 +28,7 @@ Sa collègue envoie le déroulé le lendemain. Il tient sur une page. Trois déc
 
 Le jour venu, Nour trouve la porte fermée. Sur l’invitation, le changement a été annoncé avec le nom de l’autre salle. Elle y arrive avant la fin du premier point et ouvre le commentaire qu’elle avait préparé. Elle laisse les autres terminer. Quand son tour vient, elle montre la photographie et demande si elle peut apporter une reproduction à la visite, avec la légende et le crédit que le service veut voir figurer. Elle remarque que son dossier n’a pas quitté ses genoux depuis qu’elle est entrée.
 
-## Préparer sa part de la discussion
+## Ce que la prévisibilité rend disponible pour la discussion
 
 Connaître le déroulement d’une réunion à l’avance peut donner le temps de préparer une contribution. Pour Nour, les informations les plus utiles sont le but de l’échange, les documents qui seront examinés et la manière dont les réponses seront recueillies. Un ordre du jour très détaillé peut laisser ces points flous. Elle a pu demander ce que signifiait la rubrique « Divers » et retrouver ensuite sa question dans le bon échange.
 

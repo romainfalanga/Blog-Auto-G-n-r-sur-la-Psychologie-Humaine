@@ -1,23 +1,25 @@
 ---
-title: Confier une tâche à Eva malgré la crainte d’un oubli
+title: Anticipation anxieuse quand une collègue prend le relais
 description: Eva propose d’organiser la répétition des clarinettes ailleurs. Antonin
   choisit les informations à lui transmettre et celles qui peuvent attendre.
 slug: antonin-creneau-des-clarinettes
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Antonin
-sujet: Trouble anxieux généralisé
+sujet: Crainte anticipée de l’erreur
 contexte: Au bureau de l’école, pendant la répartition des salles provisoires
 tags:
+- Trouble anxieux généralisé
 - TAG
 - Anxiété généralisée
-- Crainte d’une erreur
-- Partage des responsabilités
-- Tolérance à l’incertitude
+- Crainte de l’erreur
+- Intolérance à l’incertitude
+- Délégation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B00
+clinical_diagnosis: Trouble anxieux généralisé
 episode: 3
 ---
 

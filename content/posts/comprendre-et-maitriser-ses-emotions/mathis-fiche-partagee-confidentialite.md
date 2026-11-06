@@ -1,22 +1,24 @@
 ---
-title: Demander un appui à l’équipe sans tout dire de sa santé
+title: Parler de ses besoins au travail après un diagnostic de TDAH
 description: L’association doit valider la permanence. Mathis prépare ce qu’il veut
   demander à l’équipe et ce qu’il souhaite confier à Zélie seule.
 slug: mathis-fiche-partagee-confidentialite
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: TDAH chez l’adulte
+sujet: Expression des besoins et confidentialité
 contexte: À l’atelier, au moment de préparer la réunion de l’association
 tags:
+- TDAH chez l’adulte
 - TDAH
-- Expression des besoins
-- Vie privée
-- Soutien entre collègues
+- Peur d’être jugé
+- Confidentialité du diagnostic
+- Aménagement au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A05
+clinical_diagnosis: TDAH chez l’adulte
 episode: 5
 ---
 

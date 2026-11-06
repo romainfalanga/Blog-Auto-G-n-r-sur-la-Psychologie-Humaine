@@ -1,27 +1,30 @@
 ---
-title: Trouver sa place au moment de signer le reportage
-description: La maquette attribue le texte à Lou et les photos à Maïwenn. Les deux
-  reprennent ce qu’elles ont fait ensemble avant de fixer la signature.
+title: Pourquoi écrire moins vite peut invisibiliser sa contribution
+description: La maquette crédite Maïwenn pour les photos seulement. Elle reprend avec
+  Lou les observations et les phrases qu’elles ont travaillées ensemble.
 slug: maiwenn-choisir-la-signature
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Maïwenn
-sujet: Trouble développemental des apprentissages avec déficit de l’expression écrite
+sujet: Reconnaissance du travail d’écriture
 contexte: Le mardi, devant la première épreuve de la page du marché
 tags:
+- Trouble développemental des apprentissages avec déficit de l’expression écrite
 - Déficit de l’expression écrite
 - Dysorthographie
+- Attribution des contributions
 - Sentiment de légitimité
-- Reconnaissance du travail
-- Négociation entre pairs
+- Expression écrite
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.1
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit de l’expression
+  écrite
 episode: 9
 ---
 
-Dans la maquette du reportage, le prénom de Maïwenn n’apparaît que sous les photos. Lou figure à côté de « Texte ». Maïwenn a déjà signé des images pour le journal ; elle n’a jamais signé un reportage.
+Dans la maquette du reportage, le prénom de Maïwenn n’apparaît que sous les photos. Lou figure à côté de « Texte ». Maïwenn a déjà signé des images pour le journal ; elle n’a jamais signé un reportage. Elle repense à la première phrase qu’elle a barrée trois fois. Si elle demande à être créditée pour le texte, elle craint que quelqu’un ne pense à la quantité de corrections plutôt qu’aux phrases qu’elle a travaillées.
 
 Sofiane a rempli les crédits comme pour les pages précédentes, en demandant qu’elles les vérifient. Maïwenn s’approche du papier. L’ouverture reprend le plateau qui apparaît avant la main. C’est Lou qui a trouvé la phrase qui relie ce détail au mouvement des chariots. Un peu plus bas, il y a le passage où Rachid explique pourquoi la table doit contourner le poteau et la légende qu’elle a reprise trois fois. Elle passe l’ongle le long de la règle imprimée sous le titre. Elle voudrait dire que le texte est aussi le sien, sans donner l’impression qu’elle retire à Lou ce qu’elle a fait.
 

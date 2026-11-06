@@ -1,23 +1,25 @@
 ---
-title: Craindre de perdre sa place quand on demande une relecture
+title: Peur du jugement quand on demande de vérifier un calcul
 description: À la pause, Lison demande à Ilyès de relire la fiche d’ocre. Ils s’accordent
   sur ce qu’il vérifiera et le temps dont il dispose.
 slug: lison-demander-une-relecture
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Lison
-sujet: Trouble développemental des apprentissages avec déficit en mathématiques
+sujet: Peur du jugement et aide ciblée
 contexte: Le mercredi midi, devant le café où Ilyès prend sa pause.
 tags:
+- Trouble développemental des apprentissages avec déficit en mathématiques
 - Dyscalculie développementale
 - Dyscalculie
 - Peur du jugement
-- Choix des confidences
-- Limites de l’aide
+- Appréhension du calcul
+- Aide ciblée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.2
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en mathématiques
 episode: 3
 ---
 

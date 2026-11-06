@@ -1,23 +1,25 @@
 ---
-title: Se sentir exposé en lisant le compte rendu d’un atelier
+title: Sentiment d’exposition quand un compte rendu parle à sa place
 description: Dans le compte rendu du premier essai, Maud a écrit que Zéphyr supporte
   mal les groupes. Il revient avec elle sur ce que le musée a besoin de savoir.
 slug: zephyr-compte-rendu-atelier
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Zéphyr
-sujet: Trouble schizotypique
+sujet: Sentiment d’exposition
 contexte: Après la séance interrompue, Maud prépare un compte rendu pour le bureau
   et un message aux inscrits.
 tags:
+- Trouble schizotypique
 - Schizotypie
-- Limites du partage et de l’entraide
-- Confiance après une maladresse
-- Expliquer un besoin sans se dévoiler
+- Sentiment d’exposition
+- Méfiance dans les échanges
+- Confidentialité choisie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A22
+clinical_diagnosis: Trouble schizotypique
 episode: 7
 ---
 
@@ -27,7 +29,7 @@ Maud revient du hall avec deux tasses. Elle lui explique que Mounir, un bénévo
 
 « J’ai cru que ça évitait de te faire raconter la scène », dit-elle. Zéphyr pousse la tasse encore pleine jusqu’au milieu du bureau. « Ça raconte autre chose. Tu peux enlever la phrase et garder ce qu’on doit changer ? » Maud s’assied enfin. Elle a encore le message aux trois inscrits à écrire, et il lui faut quelque chose à leur dire.
 
-## Une maladresse réelle et une crainte qui déborde
+## Distinguer la maladresse réelle et la peur de ce qu’elle annonce
 
 On peut avoir une raison précise de se sentir exposé sans savoir ce que les autres feront de l’information. Dans ce bureau, Maud a parlé de Zéphyr au lieu de raconter ce qui est arrivé à l’entrée. Cette maladresse mérite une réponse. La crainte qu’on décide désormais de tout sans lui ne se vérifie pas dans la phrase de Maud. Les deux choses peuvent être abordées séparément.
 

@@ -1,23 +1,25 @@
 ---
-title: 'Détresse le soir : Mina appelle le service prévu avec son équipe'
-description: Un soir, Mina se sent dépassée et retrouve le contact prévu avec son
-  équipe. Alice l’aide à passer le relais dans les limites convenues.
+title: Détresse aiguë quand Mina a besoin d’un relais professionnel
+description: Débordée par plusieurs messages, Mina retrouve avec l’aide d’Alice le
+  contact prévu et appelle le service convenu avec son équipe.
 slug: mina-appeler-contact-prevu
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mina
-sujet: Trouble de la personnalité avec profil borderline
+sujet: Détresse aiguë et accès aux soins
 contexte: Chez Mina, après les préparatifs du festival
 tags:
+- Trouble de la personnalité avec profil borderline
 - Profil borderline
 - Trouble borderline
-- Détresse et demande d’aide
-- Limites de l’aide d’une proche
-- Relais professionnel prévu
+- Détresse aiguë
+- Plan de crise
+- Relais professionnel
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D10
+clinical_diagnosis: Trouble de la personnalité avec profil borderline
 episode: 8
 ---
 

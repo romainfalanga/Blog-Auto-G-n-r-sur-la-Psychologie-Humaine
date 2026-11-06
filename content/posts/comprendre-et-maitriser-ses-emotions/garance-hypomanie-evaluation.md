@@ -1,22 +1,24 @@
 ---
-title: 'Hypomanie : Garance revient sur ses décisions avec sa psychiatre'
+title: Comment la psychiatre distingue hypomanie et manie
 description: Au cabinet, Garance reprend les derniers jours avec sa psychiatre. Elles
   examinent l’épisode hypomaniaque et les engagements à revoir.
 slug: garance-hypomanie-evaluation
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Garance
-sujet: Trouble bipolaire de type II
+sujet: Évaluation clinique de l’hypomanie
 contexte: Au rendez-vous rapproché avec la psychiatre, après l’appel au cabinet
 tags:
+- Trouble bipolaire de type II
 - Bipolarité type II
-- Variations durables de l’humeur
-- Difficulté à freiner ses décisions
-- Évaluation de l’hypomanie
+- Hypomanie
+- Manie
+- Retentissement sur le fonctionnement
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A61
+clinical_diagnosis: Trouble bipolaire de type II
 episode: 4
 ---
 

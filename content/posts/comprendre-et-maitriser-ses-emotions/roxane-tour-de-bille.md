@@ -1,23 +1,25 @@
 ---
-title: Reprendre son tour quand une règle est mal comprise
-description: Dans la cour, Roxane veut essayer le parcours de billes avant la sonnerie.
-  Une règle mal comprise lui fait perdre son tour.
+title: Réparer un malentendu quand on risque de perdre sa place
+description: Une règle mal entendue fait perdre son tour à Roxane. Quand elle montre
+  ce qu’elle voulait dire, le groupe peut enfin discuter de la règle.
 slug: roxane-tour-de-bille
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Roxane
-sujet: Trouble développemental des sons de la parole
+sujet: Coût social du malentendu
 contexte: Dans un coin de la cour, après le week-end
 tags:
+- Trouble développemental des sons de la parole
 - Trouble du développement des sons de la parole
 - CIM-11 6A01.0
-- Reprendre sa place dans le jeu
-- Vérifier qu’on s’est compris
-- Négocier une règle commune
+- Parole spontanée
+- Réparation du malentendu
+- Participation au groupe
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.0
+clinical_diagnosis: Trouble développemental des sons de la parole
 episode: 9
 ---
 

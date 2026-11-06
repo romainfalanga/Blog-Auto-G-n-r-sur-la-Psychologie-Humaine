@@ -1,23 +1,25 @@
 ---
-title: En famille, écouter la façon de parler de chacun
-description: Chez sa tante Joëlle, Roxane invente une autre manière de faire jouer
-  quelqu’un qui ne sera pas à la médiathèque.
+title: Distinguer un accent d’une difficulté durable de prononciation
+description: Roxane reconnaît l’accent de sa tante, puis reformule une question mal
+  comprise. Ce sont deux faits que le bilan doit savoir distinguer.
 slug: roxane-enveloppe-sans-son
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Roxane
-sujet: Trouble développemental des sons de la parole
+sujet: Variation d’accent et trouble des sons
 contexte: Un dimanche chez sa tante, autour d’un riz au lait
 tags:
+- Trouble développemental des sons de la parole
 - Trouble du développement des sons de la parole
 - CIM-11 6A01.0
-- Reconnaître un accent
-- Reprendre après un malentendu
-- Partager le jeu autrement
+- Variation linguistique
+- Malentendu en famille
+- Reformulation choisie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.0
+clinical_diagnosis: Trouble développemental des sons de la parole
 episode: 8
 ---
 

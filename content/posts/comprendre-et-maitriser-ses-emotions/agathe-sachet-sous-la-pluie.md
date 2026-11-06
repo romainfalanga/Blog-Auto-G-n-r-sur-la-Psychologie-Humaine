@@ -1,30 +1,32 @@
 ---
-title: Trouver les mots pour garder un sachet à part
-description: Agathe repère un sachet abîmé. Trouver les mots pour expliquer le problème
-  lui prend plus de temps que trouver une solution.
+title: Savoir ce qu’on veut dire et chercher encore les mots
+description: Agathe veut laisser un sachet de côté le temps de vérifier. Le mot lui
+  vient quand sa camarade a déjà écrit une autre réponse.
 slug: agathe-sachet-sous-la-pluie
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Agathe
-sujet: Trouble développemental du langage
+sujet: Recherche des mots en conversation
 contexte: Le jeudi suivant, Agathe et Inès font l’inventaire de la réserve, sous l’auvent
   du cabanon.
 tags:
+- Trouble développemental du langage
 - TDL
 - DLD (developmental language disorder)
-- Recherche des mots
-- Temps laissé pour répondre
-- Décision en cas de doute
+- Langage expressif
+- Temps de formulation
+- Frustration d’être devancée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.2
+clinical_diagnosis: Trouble développemental du langage
 episode: 2
 ---
 
 Inès avait traîné un tabouret sous l’auvent pour qu’elles puissent s’asseoir chacune à un bout du banc. Agathe vidait la boîte bleue entre elles. Un sachet de pois, un de haricots, un troisième qu’elle n’arrivait pas à lire parce que l’encre avait bavé. Deux semaines plus tôt, elles avaient couru du jardin au cabanon pendant une averse et posé leur panier près de la porte. Agathe reconnut un coin que l’eau avait gondolé. Elle ne se souvenait plus de ce qui était écrit dessus avant. Sur le plan, il fallait une place pour ça aussi : ce qu’elles avaient et dont elles ne connaissaient pas le nom.
 
-Inès posa la pointe du feutre sur la première ligne libre. « Capucines ? Je crois que Camille a dit qu’il en restait. » Agathe savait ce qu’elle voulait répondre : garder le sachet à part jusqu’à ce que Camille confirme, et laisser le nom en blanc. « On le met... pas là où... attends. » Le mot « vérifier » lui vint juste au moment où Inès souffla sur l’encre. Elle avait déjà écrit CAPUCINES en capitales.
+Inès posa la pointe du feutre sur la première ligne libre. « Capucines ? Je crois que Camille a dit qu’il en restait. » Agathe savait ce qu’elle voulait répondre : garder le sachet à part jusqu’à ce que Camille confirme, et laisser le nom en blanc. « On le met... pas là où... attends. » Le mot « vérifier » lui vint juste au moment où Inès souffla sur l’encre. Elle avait déjà écrit CAPUCINES en capitales. Agathe se demanda si elle aurait encore le temps d’arrêter le feutre avant qu’elles rangent le sachet au mauvais endroit.
 
 Agathe mit la main à plat au milieu du banc. « C’est peut-être ça. Mais pas encore. » Elle prit un bout de papier qui protégeait la table et dessina un point d’interrogation. Inès regarda le papier, puis son feutre. Agathe poussa le sachet vers le bord de l’auvent où Camille avait posé ses gants. « On lui demande. S’il a pris l’eau, elle saura quoi en faire. »
 

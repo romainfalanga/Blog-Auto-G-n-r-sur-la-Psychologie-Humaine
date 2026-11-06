@@ -1,22 +1,24 @@
 ---
-title: 'Malaise au ciné-club : Baya appelle les secours et reste présente'
+title: Un malaise pendant le suivi de l’anorexie demande un relais médical
 description: Clémence fait un malaise au ciné-club. Baya appelle les secours et la
   référente prend en charge l’organisation de la salle.
 slug: clemence-boitier-au-sol
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Clémence
-sujet: Anorexie mentale
+sujet: Malaise et évaluation urgente
 contexte: demander un relais médical immédiat face à un malaise soudain au ciné-club
 tags:
+- Anorexie mentale
 - Anorexie
-- Présence auprès d’une amie en difficulté
-- Respect de la vie privée
-- Évaluation urgente d’un malaise
+- Malaise soudain
+- Évaluation médicale urgente
+- Relais des proches
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B80
+clinical_diagnosis: Anorexie mentale
 episode: 9
 ---
 

@@ -1,23 +1,25 @@
 ---
-title: Changer d’appui quand l’audio ne suit plus
+title: Quand chercher le bon enregistrement ajoute à l’effort de lire
 description: La veille du match, deux enregistrements se ressemblent. Célian hésite
   entre chercher le bon et reprendre sa fiche autrement.
 slug: celian-quand-laudio-ne-suit-plus
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Célian
-sujet: Trouble développemental des apprentissages avec déficit en lecture
+sujet: Charge cognitive et choix de l’appui
 contexte: Chez Célian, le vendredi de la préparation du goûter.
 tags:
+- Trouble développemental des apprentissages avec déficit en lecture
 - Dyslexie
 - Trouble développemental de la lecture
-- Fatigue mentale
-- Effort de lecture
-- Adaptation à l’imprévu
+- Charge cognitive
+- Compensation en lecture
+- Référence unique
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.0
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en lecture
 episode: 10
 ---
 
@@ -27,7 +29,7 @@ Il remet l’enregistrement au début, deux fois. Après l’atelier du matin et
 
 Célian pose le téléphone à plat et coupe l’enregistrement. Il décide de garder la recette du carnet comme référence pour les deux fournées dans son moule carré. Il veut relire d’abord la partie que Maxime et lui avaient vérifiée. Il retrouve aussi la carte qui porte les titres des étapes. Après chaque passage vérifié, il pourra cocher la carte. À Léonie, il demande de terminer le panneau et de comparer avec lui la liste des ingrédients avant de partir. Les deux gâteaux, dit-il, il les fera cuire de son côté.
 
-## Le moment où retrouver l’aide devient une tâche de plus
+## Quand chercher un appui ajoute à la charge cognitive
 
 Un support qui réduit l’effort de lecture peut devenir plus encombrant si la personne doit chercher la bonne version ou gérer plusieurs informations en même temps. Chez Célian, les messages courts avaient fonctionné lors de l’essai avec Maxime. Avant le goûter, la comparaison entre les enregistrements lui prend du temps au moment où il faut préparer deux fournées et vérifier ce qui sera affiché. La fatigue et les exigences de la tâche peuvent accentuer une gêne déjà présente. Cela n’efface pas l’utilité de l’essai précédent. Célian peut changer d’appui pour cette soirée, sans renoncer à demander des supports audio dans d’autres situations.
 

@@ -73,17 +73,18 @@
   }
   function prepare(entries) {
     return entries.map(function (entry, order) {
-      return Object.assign({}, entry, { order: order, fields: [tokens(entry.name), tokens(entry.profile), tokens((entry.keywords || []).join(' ')), tokens(entry.stories)] });
+      return Object.assign({}, entry, { order: order, fields: [tokens(entry.name), tokens(entry.profile), tokens((entry.keywords || []).join(' ')), tokens(entry.stories), tokens(entry.diagnosis)] });
     });
   }
   function search(entries, query) {
     var terms = concepts(query);
     if (!terms.length) return entries.map(function (entry) { return { entry: entry, score: 0, terms: [] }; });
+    var weights = [18, 8, 10, 2, 24];
     return entries.map(function (entry) {
       var matched = [], score = 0;
       terms.forEach(function (term) {
-        var value = Math.max.apply(null, entry.fields.map(function (field, i) { return match(term, field, false) * [18, 8, 10, 2][i]; }));
-        if (!value) value = Math.max.apply(null, entry.fields.map(function (field, i) { return match(term, field, true) * [18, 8, 10, 2][i]; }));
+        var value = Math.max.apply(null, entry.fields.map(function (field, i) { return match(term, field, false) * weights[i]; }));
+        if (!value) value = Math.max.apply(null, entry.fields.map(function (field, i) { return match(term, field, true) * weights[i]; }));
         if (value) { matched.push(term); score += value; }
       });
       if (normalize(entry.name) === normalize(query)) score += 100;
@@ -97,11 +98,20 @@
   if (!input || !index) return;
   var entries = prepare(JSON.parse(index.textContent)), grid = document.getElementById('character-results');
   var cards = new Map(Array.from(grid.querySelectorAll('[data-character-id]')).map(function (card) { return [card.dataset.characterId, card]; }));
-  var clear = document.getElementById('character-search-clear');
+  var headings = grid.querySelectorAll('[data-character-group-heading]'), discoveryOrder = Array.from(grid.children);
+  var clear = document.getElementById('character-search-clear'), groupLinks = document.getElementById('character-group-links');
+  var ranked = false;
   function update() {
     var query=input.value.trim(), results=search(entries,query), shown=new Set(results.map(function(r){return r.entry.id;}));
     cards.forEach(function(card,id){card.hidden=!shown.has(id);});
-    results.forEach(function(r){var card=cards.get(r.entry.id);if(!card)return;grid.append(card);});
+    headings.forEach(function(heading){heading.hidden=!!query;});
+    if(groupLinks)groupLinks.hidden=!!query;
+    if(query){
+      results.forEach(function(r){var card=cards.get(r.entry.id);if(card)grid.append(card);});
+    }else if(ranked){
+      discoveryOrder.forEach(function(node){grid.append(node);});
+    }
+    ranked=!!query;
     document.getElementById('character-count').textContent=results.length+' personnage'+(results.length>1?'s':'')+(query?' pour cette recherche':' à explorer');
     document.getElementById('character-search-empty').hidden=!!results.length;
     clear.hidden=!query;

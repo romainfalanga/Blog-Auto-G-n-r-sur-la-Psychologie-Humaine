@@ -1,23 +1,25 @@
 ---
-title: Une personne de plus à table et la peur du jugement revient
+title: Surveillance de soi quand une troisième personne rejoint l’échange
 description: De retour au café, Sacha commence à parler graines avec Jeanne. L’arrivée
   d’un troisième interlocuteur lui fait perdre le fil.
 slug: sacha-troisieme-chaise
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Sacha
-sujet: Trouble d’anxiété sociale
+sujet: Anxiété sociale selon la situation
 contexte: Le café du terminus, un samedi avant l’atelier
 tags:
+- Trouble d’anxiété sociale
 - Anxiété sociale
 - Phobie sociale
-- Anxiété selon le contexte
-- Surveillance de sa façon de parler
-- Retrait d’un échange
+- Attention centrée sur soi
+- Peur du jugement
+- Retrait social
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B04
+clinical_diagnosis: Trouble d’anxiété sociale
 episode: 8
 ---
 

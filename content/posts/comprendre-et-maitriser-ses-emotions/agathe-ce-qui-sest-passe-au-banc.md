@@ -1,30 +1,32 @@
 ---
-title: Raconter l’essai du jardin à ceux qui n’étaient pas là
-description: Pour garder une trace de l’essai, Agathe et Inès doivent expliquer ce
-  qui a changé sur la carte et pourquoi.
+title: Raconter à quelqu’un qui n’a pas vu la scène
+description: Agathe se représente le changement sur le plan, mais Inès ne sait plus
+  qui « elle » désigne. Deux dessins les aident à retrouver le lien.
 slug: agathe-ce-qui-sest-passe-au-banc
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Agathe
-sujet: Trouble développemental du langage
+sujet: Organisation du récit
 contexte: En classe, le lendemain de l’essai. Les CM2 complètent le plan et préparent
   un texte pour le classeur du jardin.
 tags:
+- Trouble développemental du langage
 - TDL
 - DLD (developmental language disorder)
-- Organiser un récit
-- Clarifier de qui on parle
-- Écrire avec une camarade
+- Langage narratif
+- Référence des pronoms
+- Relations de cause à effet
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.2
+clinical_diagnosis: Trouble développemental du langage
 episode: 9
 ---
 
 Dans le cahier des sorties, Mme Roussel avait laissé une page en face de la photo du jardin. Elle voulait que les CM2 racontent ce qui s’était passé quand deux CM1 avaient essayé la carte. Inès avait déjà tracé une ligne sous le titre. Agathe regarda les trois modifications qui occupaient maintenant sa feuille : le départ depuis le portillon, le fermoir en marge, les deux étoiles au crayon. Elle savait montrer chacune. Pour raconter comment elles étaient apparues, il fallait faire passer le lecteur par le portillon avec eux.
 
-Elle essaya de dicter une phrase à Inès : « Quand elle a tourné, c’était plus du même côté, alors elle l’a mis devant. » Inès leva son crayon. « La porte ? » Agathe regarda l’endroit où Lila avait fait son carré. Dans sa tête, il y avait la feuille qui tournait entre deux mains et le banc derrière elles. Sur le cahier, il y avait « elle », « ça » et une seule place pour écrire une deuxième phrase sans dépasser du cadre. Agathe se rendit compte qu’elle avait sauté le moment où Lila avait perdu son chemin dans le dessin.
+Elle essaya de dicter une phrase à Inès : « Quand elle a tourné, c’était plus du même côté, alors elle l’a mis devant. » Inès leva son crayon. « La porte ? » Agathe fut tentée de lui dire d’écrire ce qu’elle voulait pour qu’elles puissent finir. Elle tenait pourtant à ce que la classe suivante comprenne pourquoi le signe avait changé de place. Agathe regarda l’endroit où Lila avait fait son carré. Dans sa tête, il y avait la feuille qui tournait entre deux mains et le banc derrière elles. Sur le cahier, il y avait « elle », « ça » et une seule place pour écrire une deuxième phrase sans dépasser du cadre. Agathe se rendit compte qu’elle avait sauté le moment où Lila avait perdu son chemin dans le dessin.
 
 Elle posa le plan sur le cahier et prit deux papiers. Sur le premier, elle dessina Lila tenant le plan de dos. Sur le second, la même feuille avec le signe du fermoir devant. « On pourrait écrire sous les deux, comme des photos. Je veux garder pourquoi elle l’a changé. » Inès déplaça sa règle pour leur faire de la place.
 

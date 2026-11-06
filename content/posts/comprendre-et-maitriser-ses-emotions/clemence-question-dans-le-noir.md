@@ -1,23 +1,25 @@
 ---
-title: Au ciné-club, accueillir une réaction qu’on n’attendait pas
+title: Retrouver du plaisir dans une activité pendant le suivi de l’anorexie
 description: La soirée a lieu. Clémence et Baya présentent leurs films, et une réaction
   de la salle change la discussion qu’elles avaient préparée.
 slug: clemence-question-dans-le-noir
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Clémence
-sujet: Anorexie mentale
+sujet: Qualité de vie et suivi
 contexte: mener une soirée partagée au ciné-club et poursuivre les choix de soin et
   de participation après l’événement
 tags:
+- Anorexie mentale
 - Anorexie
-- Écoute d’un point de vue inattendu
-- Participation choisie pour la suite
-- Continuité des soins
+- Plaisir retrouvé
+- Qualité de vie dans le suivi
+- Préoccupations alimentaires persistantes
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B80
+clinical_diagnosis: Anorexie mentale
 episode: 12
 ---
 
@@ -25,9 +27,9 @@ Clémence commence à parler de la porte alors que la lumière du couloir entre 
 
 Le premier film se termine. Baya présente le sien et invite la salle à regarder le bord de l’image. Au moment où le rideau du magasin descend, quelqu’un rit près de la porte. Clémence croyait que la salle resterait silencieuse. Quand la lumière revient, Baya raconte qu’elle s’attendait elle aussi à un silence. Elle demande à la personne qui a ri si elle veut dire à quoi elle pensait. La réponse porte sur une main qui reste à l’image alors que le personnage essaie de fermer la boutique. Clémence n’avait jamais remarqué cette main.
 
-Dans sa chemise, elle a gardé l’invitation du musée avec le contact du service. Le prochain rendez-vous est toujours prévu. Elle voudrait raconter à l’équipe le moment où elle a failli reprendre toutes les tâches et la question qu’elle garde sur les soirées collectives. Pour l’instant, elle demande à la référente si elles peuvent faire revoir le passage à la salle. Baya reprend sa place et regarde avec elle le bord de l’image.
+Dans sa chemise, elle a gardé l’invitation du musée avec le contact du service. Le prochain rendez-vous est toujours prévu. Elle voudrait raconter à l’équipe le moment où elle a failli reprendre toutes les tâches et la crainte qu’un repas de groupe lui reprenne toute son attention lors de la prochaine soirée. Pour l’instant, elle demande à la référente si elles peuvent faire revoir le passage à la salle. Baya reprend sa place et regarde avec elle le bord de l’image.
 
-## Garder un suivi qui tient compte de la suite
+## Parler du plaisir retrouvé et des difficultés qui persistent
 
 Le suivi d’un trouble des conduites alimentaires peut se poursuivre pendant que la personne reprend des activités qui lui importent. Le NICE recommande de coordonner les soins et de tenir compte des besoins de santé, des études et de la vie sociale. Clémence peut apporter au rendez-vous ce qu’elle a trouvé difficile et ce qu’elle a apprécié dans la préparation. Elle pourra dire quelle place elle aimerait garder aux études et à la programmation lors des prochaines semaines. L’équipe reste l’interlocuteur pour apprécier les changements de santé et discuter avec elle de ce qu’il faudra revoir.
 

@@ -1,23 +1,25 @@
 ---
-title: Craindre le ridicule en racontant un rituel de famille
-description: Agnès veut raconter pourquoi leur famille sonne encore une cloche. Zéphyr
-  cherche des mots qui laissent de la place à leur souvenir.
+title: Crainte du jugement quand Zéphyr évoque une tradition familiale
+description: Zéphyr redoute les moqueries au sujet d’un rituel familial. Le sens du
+  geste dépend de l’histoire qu’il partage avec Agnès.
 slug: zephyr-cloche-des-absents
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Zéphyr
-sujet: Trouble schizotypique
+sujet: Crainte du jugement et contexte culturel
 contexte: Chez sa sœur Agnès, Zéphyr prépare un court témoignage pour accompagner
   la démonstration de mécanique.
 tags:
+- Trouble schizotypique
 - Schizotypie
-- Peur du jugement
-- Sens d’un rituel partagé
-- Droit de choisir ce qu’on raconte
+- Contexte culturel
+- Crainte du ridicule
+- Interprétation des croyances
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A22
+clinical_diagnosis: Trouble schizotypique
 episode: 3
 ---
 

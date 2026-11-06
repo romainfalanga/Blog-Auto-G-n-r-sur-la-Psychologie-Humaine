@@ -1,32 +1,34 @@
 ---
-title: Prendre sa part du travail sans tout porter
+title: Retrouver du plaisir sans se mettre la pression d’aller bien
 description: Les trois films passent à la médiathèque. Après la séance, une spectatrice
   demande à laisser une remarque sans prendre de carte.
 slug: solene-seance-public-retour-oral
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Solène
-sujet: Trouble schizoaffectif
+sujet: Retour du plaisir
 contexte: Le samedi de la première séance publique, à la médiathèque de la Rive
 tags:
+- Trouble schizoaffectif
 - Trouble schizo-affectif
-- Garder sa place au travail
-- Écouter ses limites
-- Faire une place à la parole
+- Retour du plaisir
+- Gestion de l’effort
+- Rétablissement et autonomie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A21
+clinical_diagnosis: Trouble schizoaffectif
 episode: 11
 ---
 
 À treize heures trente, Solène reconnaît le groupe de quatre à sa façon de s’attendre à chaque porte. Deux personnes veulent se mettre devant, une autre demande si elle peut s’asseoir près de la sortie. La bibliothécaire leur montre le plan. Les seize places ont trouvé preneur et plusieurs personnes ont laissé leur contact à l’accueil pour une autre date éventuelle. La bibliothécaire explique que les remarques aideront l’équipe à préparer ses prochaines séances. Sur la table, il y a l’enveloppe des cartes et un verre qui sert à empêcher la pile de glisser quand quelqu’un ouvre la porte.
 
-Solène avait écrit neuf lignes de présentation. Elle en lit trois et laisse la salle découvrir la chaise de l’atelier. Ensuite, dans l’abribus de Trois minutes de pluie, une femme pose son parapluie pour laisser un homme s’asseoir. Il y a un rire bref au deuxième rang. Solène ne sait pas à qui il appartient et en est contente : elle veut voir ce qui restera aux gens au moment où ils auront fini de regarder les films. Elle s’est placée sur le côté pour pouvoir sortir sans interrompre la séance si elle a besoin d’air. Ce samedi, elle choisit de rester jusqu’à la fin du troisième.
+Solène avait écrit neuf lignes de présentation. Elle en lit trois et laisse la salle découvrir la chaise de l’atelier. Ensuite, dans l’abribus de Trois minutes de pluie, une femme pose son parapluie pour laisser un homme s’asseoir. Il y a un rire bref au deuxième rang. Solène ne sait pas à qui il appartient et en est contente : elle veut voir ce qui restera aux gens au moment où ils auront fini de regarder les films. Elle s’est placée sur le côté pour pouvoir sortir sans interrompre la séance si elle a besoin d’air. Ce samedi, elle choisit de rester jusqu’à la fin du troisième. Elle retrouve l’envie de voir ce que le public a compris. Elle est surprise que le plaisir lui revienne au milieu d’un après-midi dont elle craignait de compter toutes les minutes.
 
 Une spectatrice s’arrête près des cartes, lit « À quel moment avez-vous perdu le fil ? » et demande si elle peut répondre sans écrire. « J’ai trouvé le fil quand elle a posé son parapluie. Ça vous intéresse aussi ? » Solène a la main sur le verre qui retient les cartes. Elle propose de l’écouter avant de lui demander si l’équipe peut garder un mot de ce qu’elle a dit.
 
-## Avoir un rôle pendant un temps convenu
+## Retrouver le plaisir d’une activité à un rythme choisi
 
 Les soutiens centrés sur la personne peuvent tenir compte du rôle qu’elle souhaite exercer, de ses préférences et de ce qui l’aide à y participer. Pour Solène, la séance a été préparée avec une heure de fin et des collègues qui savent quand reprendre les tâches. Elle a pu choisir les films, les présenter et écouter les spectateurs. La façon dont elle a vécu cet après-midi lui appartient et pourra être racontée en suivi si elle le souhaite.
 

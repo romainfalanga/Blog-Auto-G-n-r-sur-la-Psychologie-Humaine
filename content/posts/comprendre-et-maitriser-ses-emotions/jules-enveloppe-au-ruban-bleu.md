@@ -1,23 +1,25 @@
 ---
-title: Faire des projets quand certains trajets inquiètent encore
+title: Faire des projets pendant le suivi du trouble panique
 description: Jules prépare un nouveau courrier à Solange et garde un rendez-vous de
   suivi. Il choisit ce qu’il aimerait dessiner lors des prochaines matinées.
 slug: jules-enveloppe-au-ruban-bleu
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Jules
-sujet: Trouble panique
+sujet: Rétablissement et projets personnels
 contexte: À la fin d’une journée au marché, quelques semaines après la reprise du
   dessin
 tags:
+- Trouble panique
 - Attaques de panique
-- Peur qui varie selon les trajets
-- Autonomie dans les projets
-- Liens entretenus par le dessin
+- Retentissement dans la durée
+- Activités choisies
+- Continuité du suivi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B01
+clinical_diagnosis: Trouble panique
 episode: 12
 ---
 

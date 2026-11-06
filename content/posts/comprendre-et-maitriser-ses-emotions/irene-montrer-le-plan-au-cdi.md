@@ -1,23 +1,25 @@
 ---
-title: Craindre les commentaires quand on montre son dessin au CDI
-description: Irène fait une copie du plan pour Ilyès. Au CDI, une camarade veut voir
-  où mène le canal, tandis qu’un élève s’intéresse à autre chose.
+title: Quand la réaction des autres fait craindre d’être observée
+description: Au CDI, Quentin imite les mouvements des mains d’Irène. Elle pense partir
+  alors qu’elle voulait recueillir l’avis d’Aya sur son dessin.
 slug: irene-montrer-le-plan-au-cdi
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Irène
-sujet: Trouble des mouvements stéréotypés
+sujet: Appréhension du regard après une moquerie
 contexte: Au CDI du collège, après le repas
 tags:
+- Trouble des mouvements stéréotypés
 - Trouble des mouvements stéréotypiques
 - CIM-11 6A06
-- Peur d’être observée
-- Limites face aux moqueries
-- Choix de partager
+- Stigmatisation des gestes
+- Retrait de l’échange
+- Soutien de l’entourage
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A06
+clinical_diagnosis: Trouble des mouvements stéréotypés
 episode: 3
 ---
 

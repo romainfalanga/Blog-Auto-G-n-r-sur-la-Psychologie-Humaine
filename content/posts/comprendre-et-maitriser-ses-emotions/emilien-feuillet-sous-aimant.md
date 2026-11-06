@@ -1,23 +1,25 @@
 ---
-title: Parler de ses signes d’alerte avec Lucie et fixer les limites de l’aide
+title: Des signes d’alerte personnels dans le plan de soins
 description: Émilien reprend son plan avec l’équipe de soins et choisit les informations
   à partager avec Lucie et celles qui restent privées.
 slug: emilien-feuillet-sous-aimant
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Émilien
-sujet: Trouble bipolaire de type I
+sujet: Repérage des signes d’alerte
 contexte: mettre à jour les contacts et convenir de ce que chacun peut faire si une
   inquiétude apparaît
 tags:
+- Trouble bipolaire de type I
 - Bipolarité type I
-- Soutien négocié
-- Confidentialité
+- Prévention des rechutes
 - Signaux personnels
+- Accord du proche
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A60
+clinical_diagnosis: Trouble bipolaire de type I
 episode: 3
 ---
 

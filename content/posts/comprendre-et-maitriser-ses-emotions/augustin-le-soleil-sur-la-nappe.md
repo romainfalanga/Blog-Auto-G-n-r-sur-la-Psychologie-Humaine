@@ -1,24 +1,26 @@
 ---
-title: Oser laisser le soleil inachevé quand la fatigue arrive
-description: Chez lui, Augustin décide de s’arrêter après le bord doré et propose
-  à la troupe de simplifier le soleil avant la répétition.
+title: Évaluer la fatigue quand un geste a pourtant réussi
+description: Augustin termine le bord doré et sent sa fatigue avant même de partir
+  voir son cousin. Il choisit où s’arrêter.
 slug: augustin-le-soleil-sur-la-nappe
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Augustin
-sujet: Trouble développemental de la coordination motrice
+sujet: Fatigue liée à l’effort moteur
 contexte: à la table de la cuisine, le lendemain de l’atelier
 tags:
+- Trouble développemental de la coordination motrice
 - Trouble du développement de la coordination
 - TDC
 - Dyspraxie
-- Effort invisible
-- Peur de décevoir
-- Choix de l’aide
+- Effort moteur soutenu
+- Ajustement de la tâche
+- Arbitrage du temps
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A04
+clinical_diagnosis: Trouble développemental de la coordination motrice
 episode: 4
 ---
 

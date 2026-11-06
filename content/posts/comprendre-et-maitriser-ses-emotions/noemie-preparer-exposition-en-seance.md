@@ -1,22 +1,24 @@
 ---
-title: Choisir comment affronter le doute en thérapie
-description: La clinicienne propose une exposition avec prévention de la réponse.
-  Noémie veut savoir ce qu’elle pourra choisir pendant les séances.
+title: Comprendre la prévention de la réponse avant de choisir un essai en séance
+description: Noémie demande à sa clinicienne comment elle pourra discuter du rythme
+  et du type d’essai proposés pour son TOC.
 slug: noemie-preparer-exposition-en-seance
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Noémie
-sujet: Trouble obsessionnel-compulsif
+sujet: Exposition avec prévention de la réponse
 contexte: Dans le cabinet de la clinicienne, après une matinée aux archives
 tags:
+- Trouble obsessionnel-compulsif
 - TOC
+- Prévention de la réponse
 - Exposition en thérapie
-- Peur d’être dépassée
-- Consentement aux soins
+- Choix du rythme
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B20
+clinical_diagnosis: Trouble obsessionnel-compulsif
 episode: 5
 ---
 

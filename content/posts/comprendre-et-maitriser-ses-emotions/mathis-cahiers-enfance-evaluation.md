@@ -1,22 +1,24 @@
 ---
-title: 'Difficultés d’attention : ce que Mathis retrouve dans ses souvenirs d’école'
+title: Évaluation du TDAH à l’âge adulte et souvenirs d’école
 description: Mathis ouvre ses cahiers d’école avec sa mère. Leurs souvenirs éclairent
   le bilan en cours, avec des détails précis et quelques blancs.
 slug: mathis-cahiers-enfance-evaluation
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: TDAH chez l’adulte
+sujet: Histoire développementale du TDAH
 contexte: Chez sa mère et au cabinet, pendant le bilan spécialisé
 tags:
+- TDAH chez l’adulte
 - TDAH
 - Attention dans l’enfance
-- Organisation des tâches
-- Souvenirs familiaux
+- Retentissement scolaire
+- Évaluation clinique
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A05
+clinical_diagnosis: TDAH chez l’adulte
 episode: 2
 ---
 

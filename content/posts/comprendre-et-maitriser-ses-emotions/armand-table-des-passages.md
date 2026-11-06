@@ -1,23 +1,25 @@
 ---
-title: Continuer à transmettre à sa manière
+title: Adapter une activité qui compte quand les capacités évoluent
 description: Au foyer, une lectrice cherche un escalier sur le plan. Armand lui montre
   un passage, puis décide quand laisser Nadia continuer.
 slug: armand-table-des-passages
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Armand
-sujet: Démence due à la maladie d’Alzheimer
+sujet: Participation sociale avec Alzheimer
 contexte: Le samedi de la rencontre, à la grande table du foyer communal
 tags:
+- Démence due à la maladie d’Alzheimer
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Continuer à transmettre
-- Choisir pour soi
-- Trouver sa place
+- Participation sociale
+- Capacités préservées
+- Adaptation de l’activité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D80
+clinical_diagnosis: Démence due à la maladie d’Alzheimer
 episode: 12
 ---
 

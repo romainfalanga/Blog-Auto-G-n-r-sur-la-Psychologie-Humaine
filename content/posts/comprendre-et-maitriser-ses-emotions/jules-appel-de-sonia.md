@@ -1,22 +1,24 @@
 ---
-title: 'Peur et douleur nouvelle au marché : Sonia appelle les secours'
+title: Douleur thoracique et peur intense quand la cause reste à évaluer
 description: Une douleur thoracique nouvelle et une difficulté à respirer surprennent
   Jules. Sonia appelle les secours et décrit les signes apparus.
 slug: jules-appel-de-sonia
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Jules
-sujet: Trouble panique
+sujet: Signes physiques nécessitant une évaluation urgente
 contexte: Au stand de fleurs, pendant l’apparition de signes aigus inhabituels
 tags:
+- Trouble panique
 - Attaques de panique
-- Peur face à des sensations nouvelles
-- Soutien d’une collègue dans l’urgence
-- Évaluation urgente de signes physiques
+- Douleur thoracique nouvelle
+- Peur intense
+- Évaluation médicale urgente
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B01
+clinical_diagnosis: Trouble panique
 episode: 2
 ---
 

@@ -1,12 +1,13 @@
 ---
 title: Célian
 date: '2026-11-06T00:00:00+00:00'
-description: 'Célian a dix-neuf ans. Au centre de formation, il observe la main de
-  sa formatrice avant de chercher le passage qui décrit le geste. Chez lui, il préfère
-  entendre les étapes d’une recette puis revenir sur la fiche. Au volley, il court
-  après les ballons que tout le monde croit perdus. Le bilan a mis un nom sur l’effort
-  que lui demande la lecture : la dyslexie. Il veut organiser le prochain goûter de
-  l’équipe et avoir le temps de jouer aussi.'
+description: Célian a dix-neuf ans et prépare son métier en cuisine. Un bilan a identifié
+  un trouble développemental des apprentissages avec déficit en lecture, aussi appelé
+  dyslexie. Il peut comprendre un geste et savoir le reproduire alors que retrouver
+  l’étape sur une fiche lui demande du temps. Lire devant le groupe le met sous pression
+  et l’effort s’accumule pendant son service. Au volley, il veut organiser le goûter
+  de l’équipe et jouer le match. Il cherche quels appuis lui laissent accès aux informations
+  et le choix de sa place dans chaque projet.
 slug: celian
 prenom: Célian
 date_naissance: '2007-01-01'
@@ -17,86 +18,87 @@ nb_articles: 12
 weight: 58
 draft: false
 clinical_code: 6A03.0
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en lecture
 reading_topics:
-- Effort de lecture
-- Pression du temps
-- Fatigue mentale
-- Confiance en soi
-- Autonomie
+- Trouble développemental des apprentissages avec déficit en lecture
+- Dyslexie
+- Fluence de lecture
+- Fatigabilité à la lecture
+- Appréhension du regard des autres
 ---
 
 <h2 class="parcours-section-title">Parcours de Célian</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-fiche-et-spatule/">La pression de lire devant le groupe</a></h3>
-    <p class="parcours-resume">Célian regarde Aïcha enfoncer la spatule jusqu’au fond du saladier, puis relever juste le poignet. La préparation revient sur elle-même. Elle repasse près du bord, là où lui aurait recommencé au milieu.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-fiche-et-spatule/">Dyslexie et pression de lire à voix haute devant le groupe</a></h3>
+    <p class="parcours-resume">En formation de cuisine, Célian sait reproduire le geste montré par Aïcha. Il perd sa place lorsqu’il doit retrouver la phrase devant les autres. La dyslexie peut toucher l’exactitude ou la fluidité de la lecture, avec des effets différents sur l’accès au sens. Célian propose de montrer l’étape d’abord pour laisser voir ce qu’il a compris.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/celian-fiche-et-spatule/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-case-des-absents/">Quand il faut relire chaque inscription</a></h3>
-    <p class="parcours-resume">Célian voit le filet s’affaisser de travers au moment où Jade l’appelle depuis les gradins. Yanis s’acharne sur une attache pendant que Léonie fait rouler trois ballons du bout du pied vers le chariot.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-case-des-absents/">L’effort caché derrière une lecture juste des inscriptions</a></h3>
+    <p class="parcours-resume">Pour compter les joueurs qui resteront au goûter, Célian retrouve des confirmations dans plusieurs messages. Il peut lire juste en prenant le temps de revoir chaque réponse. Dans un trouble de la lecture, une difficulté de fluidité peut rester invisible derrière un résultat exact. Réunir les réponses sur une liste diminue le nombre d’allers-retours nécessaires pour obtenir le bon compte.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/celian-case-des-absents/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-coin-du-gateau/">Suivre une recette à l’oreille</a></h3>
-    <p class="parcours-resume">Le moule que Maxime a apporté dessine un cercle sous le tissu de son sac. Il sort de son placard le moule carré qu’il a déjà préparé. « On fait un gâteau à coins », lui dit-il.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-coin-du-gateau/">Accéder au sens d’une recette quand la lecture demande plus d’effort</a></h3>
+    <p class="parcours-resume">Célian suit plus facilement des étapes entendues lorsqu’il essaie son gâteau avec Maxime. Il garde la fiche sous les yeux pour vérifier que l’enregistrement correspond bien à la recette. Avec la dyslexie, comprendre un contenu et parvenir à le lire avec fluidité peuvent demander des efforts différents. Célian essaie un autre accès au texte tout en conservant la référence.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/celian-coin-du-gateau/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-huit-lignes-apres-service/">Quand la fatigue ralentit la dernière vérification</a></h3>
-    <p class="parcours-resume">Célian a déjà rangé son tablier quand Farah pose deux feuilles de stock sur le passe. On n’entend plus les commandes, seulement le frigo et les assiettes qui s’empilent dans la salle.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-huit-lignes-apres-service/">Fatigue de lecture à la fin du service</a></h3>
+    <p class="parcours-resume">À la fin de son service, Célian doit encore comparer deux feuilles de stock. Il revient sur les dernières lignes et sent que le même contrôle lui coûte davantage qu’en début de journée. Une lecture déjà exigeante peut devenir plus laborieuse avec la fatigue. Célian vérifie avec Farah ce dont l’équipe a besoin dès l’ouverture et marque l’endroit où reprendre le reste.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/celian-huit-lignes-apres-service/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-choisir-ce-qu-il-partage/">Demander un aménagement sans raconter son dossier</a></h3>
-    <p class="parcours-resume">Célian attend que le dernier binôme sorte pour tendre à Aïcha la fiche qu’il a imprimée chez lui. Les mots qu’il avait soulignés ont déteint sur la page de derrière.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-choisir-ce-qu-il-partage/">Demander un aménagement de lecture et choisir ce qu’on révèle</a></h3>
+    <p class="parcours-resume">Aïcha propose d’expliquer à la classe le nouveau format de travail. Célian veut recevoir la fiche à l’avance et choisir l’étape qu’il présentera, tout en gardant son diagnostic privé. L’épisode distingue le besoin lié à la dyslexie, la façon de l’aménager pendant la formation et les informations de santé que Célian souhaite confier à sa formatrice.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/celian-choisir-ce-qu-il-partage/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-relire-son-bilan/">Comprendre son bilan quand le travail a changé</a></h3>
-    <p class="parcours-resume">Célian a apporté la fiche d’Aïcha dans une enveloppe où son ancien bilan ne tient pas tout à fait. Il sort le compte rendu en biais pour ne pas déchirer les bords.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-relire-son-bilan/">Reprendre le bilan de dyslexie à partir des difficultés actuelles</a></h3>
+    <p class="parcours-resume">Au cabinet de Mme Vidal, Célian compare son ancien compte rendu avec les fiches techniques qu’il utilise en cuisine. Il veut parler du temps qu’il passe à lire aujourd’hui. Dans un trouble développemental de la lecture, les difficultés peuvent persister alors que les tâches changent. Reprendre des situations précises aide Célian à discuter d’un suivi adapté à ses objectifs actuels.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/celian-relire-son-bilan/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-partager-les-taches-du-gouter/">Apprendre à partager les tâches du goûter</a></h3>
-    <p class="parcours-resume">Célian a dessiné deux gâteaux sur le dos d’un reçu alors qu’il ne lui reste qu’une boîte de transport à trouver. Jade pose près de lui la liste commune : avec les deux réponses qu’elle attendait, vingt personnes resteront au goûter.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-partager-les-taches-du-gouter/">Réduire la charge de vérification pour garder la responsabilité du goûter</a></h3>
+    <p class="parcours-resume">Célian doit rapprocher les confirmations, le budget et les tâches de transport. Lire plusieurs documents tout en prenant des décisions mobilise un effort supplémentaire chez lui. Une feuille qui associe une personne à une action réduit les vérifications dispersées. Célian garde les fournées et choisit les responsabilités qu’il partage, ce qui lui permet de continuer à organiser le goûter.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/celian-partager-les-taches-du-gouter/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-le-doute-sur-le-carton/">Oser s’arrêter quand une étiquette laisse un doute</a></h3>
-    <p class="parcours-resume">Le commerçant glisse un carton de biscuits près des pommes avant que Célian ait rangé son ticket. Le carton vient d’un lot dont plusieurs boîtes sont arrivées abîmées. Les petits sachets sont intacts et le commerçant lui propose de les offrir au club.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-le-doute-sur-le-carton/">Distinguer difficulté de lecture et information manquante sur une étiquette</a></h3>
+    <p class="parcours-resume">Un carton de biscuits supplémentaire arrive alors que Célian prépare les informations sur les ingrédients. Certaines compositions restent impossibles à vérifier. Cette incertitude tient aux renseignements disponibles et peut concerner tout lecteur. Pour Célian, qui connaît le coût d’une lecture attentive, distinguer une ligne difficile d’une information absente permet de choisir une réponse précise au lieu de multiplier les relectures.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/celian-le-doute-sur-le-carton/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-reperes-changement-de-salle/">Retrouver ses repères quand le lieu change</a></h3>
-    <p class="parcours-resume">Célian arrive au gymnase avec une caisse vide prêtée par le club au moment où Jade lui montre un ruban devant la porte du foyer. Une fuite a abîmé le sol.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-reperes-changement-de-salle/">Changer de format de lecture quand le contexte change</a></h3>
+    <p class="parcours-resume">Le foyer réservé ferme et Célian essaie de retrouver le nouveau chemin au milieu des bruits de ballon. Il préfère faire le trajet avec Jade puis retenir un repère qu’il reconnaîtra sur place. Ce qui aide à lire ou à retenir une indication dépend aussi de l’environnement. L’équipe peut ensuite reprendre un seul lieu confirmé pour renseigner les participants.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/celian-reperes-changement-de-salle/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-quand-laudio-ne-suit-plus/">Changer d’appui quand l’audio ne suit plus</a></h3>
-    <p class="parcours-resume">La première chose que Léonie dessine pour le panneau est une pomme qui montre toutes ses dents. Célian la trouve mieux réussie que celle qu’elle avait essayée sur son téléphone.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-quand-laudio-ne-suit-plus/">Quand chercher le bon enregistrement ajoute à l’effort de lire</a></h3>
+    <p class="parcours-resume">Deux fichiers audio ressemblants obligent Célian à comparer les enregistrements avant même de retrouver l’étape de la recette. Un appui à la lecture peut devenir coûteux lorsqu’il faut d’abord trier ses différentes versions. Célian reprend la fiche d’origine et choisit d’en faire un repère pour chaque fournée. Avec Léonie, il revient à la même référence pour vérifier les ingrédients.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/celian-quand-laudio-ne-suit-plus/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-faire-confiance-a-la-table/">Faire confiance à son équipe pour tenir la table</a></h3>
-    <p class="parcours-resume">Célian a encore la trace du dernier plongeon sur le genou quand il ouvre les deux boîtes derrière la porte bleue. Ils ont perdu de deux points. Yanis lui rappelle qu’il a sauvé leur avant-dernier point en allant chercher la balle près du banc.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-faire-confiance-a-la-table/">Passer le relais sans perdre le fil des informations importantes</a></h3>
+    <p class="parcours-resume">Au goûter, Célian veut rejoindre les joueurs et laisser la table quelques minutes à Léonie. Il laisse à portée de main les informations qu’ils ont vérifiées et précise où le trouver si une réponse manque. Des supports lisibles et partagés peuvent rendre le relais praticable quand une lecture demande du temps. Célian choisit ce qu’il transmet et le moment où il souhaite revenir.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/celian-faire-confiance-a-la-table/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-garder-les-appuis-qui-servent/">Garder des appuis après un projet réussi</a></h3>
-    <p class="parcours-resume">Quand Célian sort ses tickets de la poche fermée, Nadia soulève une petite pelure de pomme restée collée au dernier. Léonie prétend qu’il l’a gardée pour prouver la qualité du produit.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/celian-garder-les-appuis-qui-servent/">Dyslexie et besoins qui persistent après une réussite</a></h3>
+    <p class="parcours-resume">Le goûter est réussi et Célian sait quels repères l’ont aidé à tenir son rôle. En formation, il veut encore demander une marque de page en plus de la fiche disponible à l’avance. Dans la dyslexie, réussir une tâche grâce à des appuis peut coexister avec un effort durable. L’épisode montre comment réviser ces appuis à partir de ce qui a fonctionné.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/celian-garder-les-appuis-qui-servent/" class="parcours-link">Lire</a>
   </div>
 </div>

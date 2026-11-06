@@ -1,23 +1,25 @@
 ---
-title: Pouvoir demander de l’aide discrètement avant de dire oui au voyage
+title: L’effort invisible derrière un repas qui s’est bien passé
 description: Adèle vérifie un appui à la cantine. Dans l’atelier de dessin, elle abandonne
   un motif trop régulier et confirme son choix pour le voyage.
 slug: adele-trois-barres-decalees
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Adèle
-sujet: Trouble évitant ou restrictif de la prise alimentaire
+sujet: Effort invisible et demande d’aide
 contexte: Entre la cantine et l’atelier de dessin du collège
 tags:
+- Trouble évitant ou restrictif de la prise alimentaire
 - ARFID
 - Trouble de l’alimentation sélective et évitante
-- Effort invisible
-- Oser demander de l’aide
-- Décision partagée
+- Effort invisible pendant le repas
+- Peur d’être mise en avant
+- Demande d’aide discrète
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B83
+clinical_diagnosis: Trouble évitant ou restrictif de la prise alimentaire
 episode: 5
 ---
 

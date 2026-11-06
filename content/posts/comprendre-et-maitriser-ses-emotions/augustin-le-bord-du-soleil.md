@@ -1,30 +1,32 @@
 ---
-title: Quand la lenteur passe pour du désintérêt à l’atelier
-description: Augustin veut donner au soleil de la pièce un bord doré. Il défend son
-  idée quand le groupe prend le peu de pièces prêtes pour un manque d’envie.
+title: Quand la lenteur d’un geste passe pour du désintérêt
+description: Augustin travaille depuis un moment à poser du papier doré. Nora juge
+  son implication au nombre de bandes visibles.
 slug: augustin-le-bord-du-soleil
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Augustin
-sujet: Trouble développemental de la coordination motrice
+sujet: Lenteur et effort de coordination
 contexte: à l’atelier scénographie, pendant la fabrication des premiers accessoires
 tags:
+- Trouble développemental de la coordination motrice
 - Trouble du développement de la coordination
 - TDC
 - Dyspraxie
+- Coordination motrice fine
 - Effort invisible
-- Légitimité dans le groupe
-- Jugement sur la motivation
+- Sentiment de compétence
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A04
+clinical_diagnosis: Trouble développemental de la coordination motrice
 episode: 1
 ---
 
 Le soleil a déjà une trace de pouce et Augustin voudrait la garder. Sur le carton jaune, on dirait la tache sombre qu’on voit quand on ferme les yeux après avoir regardé une lampe. Il ne sait pas si elle se verra depuis le dernier rang du centre social. Maxence, assis en face de lui, laisse tomber ses clés dans trois boîtes différentes pour trouver le bruit du concierge. À la troisième, Augustin reconnaît presque la cour de l’immeuble où se passe L’Aube en carton. Dans la pièce, le jour ne se lève pas et les voisins s’accusent d’avoir perdu le soleil.
 
-Le papier doré colle à l’index d’Augustin dès qu’il lâche le bout qu’il tient avec son autre main. Il rapproche le carton de son ventre, décolle la bande sans la déchirer, retrouve le trait de crayon. En face de lui, Nora a déjà empilé les enseignes de la boulangère. Elle lui demande s’il veut plutôt aller lire le texte avec Maya. « Tu n’as encore rien fait, là. » Augustin a envie de montrer la poubelle pleine de bandes recourbées. Il se surprend à chercher une réponse qui ferait rire Maxence et tairait Nora. Pour une fois, il ne la trouve pas.
+Le papier doré colle à l’index d’Augustin dès qu’il lâche le bout qu’il tient avec son autre main. Il rapproche le carton de son ventre, décolle la bande sans la déchirer, retrouve le trait de crayon. En face de lui, Nora a déjà empilé les enseignes de la boulangère. Elle lui demande s’il veut plutôt aller lire le texte avec Maya. « Tu n’as encore rien fait, là. » Augustin a envie de montrer la poubelle pleine de bandes recourbées. Il se surprend à chercher une réponse qui ferait rire Maxence et tairait Nora. Ce qui le touche, c’est d’entendre « rien » à propos d’un geste qu’il reprend depuis le début de l’atelier. Pour une fois, il ne la trouve pas.
 
 Samira, l’éducatrice, passe chercher les cartons secs. Augustin se tourne vers elle, puis revient à Nora. « J’ai fait le rond et essayé le bord. Ça colle mieux au doigt qu’au soleil. » Il lui montre les deux premières bandes. La jointure accroche la lumière comme il voulait. Il demande à garder le disque sur sa table et à décider du bord avant qu’ils se répartissent la suite.
 

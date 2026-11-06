@@ -1,22 +1,24 @@
 ---
-title: Poser une limite quand on voudrait encore rendre service
+title: Dire non à une nouvelle demande pour tenir ses engagements
 description: La première permanence fonctionne jusqu’à la dernière place disponible.
   Mathis voudrait accueillir encore un vélo, alors qu’il faut préparer la fermeture.
 slug: mathis-premiere-permanence-limites
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: TDAH chez l’adulte
+sujet: Priorisation et limites au travail
 contexte: Sur la place des Tilleuls, le premier samedi ouvert au public
 tags:
+- TDAH chez l’adulte
 - TDAH
-- Difficulté à dire non
 - Priorisation
-- Limites au travail
+- Peur de décevoir
+- Limites professionnelles
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A05
+clinical_diagnosis: TDAH chez l’adulte
 episode: 10
 ---
 

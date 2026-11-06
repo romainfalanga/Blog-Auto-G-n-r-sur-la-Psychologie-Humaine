@@ -1,24 +1,26 @@
 ---
-title: Parler sous la pression de la sonnerie
-description: Le temps file chez le professeur qui encadre le club. Owen demande un
-  autre rendez-vous et précise le format qui lui laissera une place.
+title: Pourquoi la pression du temps peut modifier le bégaiement
+description: Owen bloque sur le titre devant un professeur pressé. Il propose de traiter
+  le créneau et de reprendre sa présentation dans un autre moment.
 slug: owen-les-huit-minutes
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Owen
-sujet: Trouble développemental de la fluence de la parole
+sujet: Pression temporelle et bégaiement
 contexte: séparer une urgence d’organisation du temps nécessaire pour présenter une
   idée
 tags:
+- Trouble développemental de la fluence de la parole
 - Bégaiement
 - Bégaiement développemental
-- Pression du temps
-- Tour de parole
-- Interprétation des silences
+- Variabilité du bégaiement
+- Appréhension de parler
+- Interprétation du silence
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.1
+clinical_diagnosis: Trouble développemental de la fluence de la parole
 episode: 2
 ---
 

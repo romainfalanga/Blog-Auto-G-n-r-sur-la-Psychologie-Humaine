@@ -1,23 +1,24 @@
 ---
-title: Hésiter à contredire l’étiquette du rouleau de réserve
+title: Douter de sa mesure quand elle contredit un nombre imprimé
 description: Sur la mezzanine, la mesure du sergé contredit l’ancienne étiquette.
   Lison doit décider quel chiffre reporter et comment le faire vérifier.
 slug: lison-contredire-etiquette-reserve
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Lison
-sujet: Trouble développemental des apprentissages avec déficit en mathématiques
+sujet: Doute et vérification numérique
 contexte: Jeudi matin, dans la réserve sur la mezzanine, avant la relecture avec Ilyès.
 tags:
+- Trouble développemental des apprentissages avec déficit en mathématiques
 - Dyscalculie développementale
 - Dyscalculie
-- Doute sur sa mesure
-- Repères concrets
-- Trace du contrôle
+- Doute de soi
+- Vérification de mesure
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.2
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en mathématiques
 episode: 4
 ---
 
@@ -27,7 +28,7 @@ Le tissu se déroule avec un bord froissé et une traînée de colle sèche. Lis
 
 Elle descend juste le rouleau et le ruban, en laissant l’étiquette attachée. À onze heures quarante, Ilyès ouvre le patron au bon pli. Lison lui montre la colle avant de lui dire ce qu’elle a lu. « Mets ton zéro là où, pour toi, on pourrait commencer à placer la bande. Dis-moi ce que tu trouves. » Ils discutent d’un bord un peu raide, puis alignent le ruban au même endroit. Lison lui montre enfin l’étiquette. « C’est écrit un mètre. Moi, je mesure soixante-quinze centimètres utilisables. »
 
-## Deux chiffres peuvent désigner des choses différentes
+## Distinguer un écart de mesure et une erreur de calcul
 
 Une mesure peut être exacte alors que le document auquel on la compare parle d’un autre état du matériel. La vieille étiquette dit « 1 m », sans préciser si cette longueur date d’avant une coupe ou inclut la partie abîmée. Lison a mesuré ce que l’atelier peut utiliser sur ce projet. Le trouble développemental des apprentissages peut rendre certaines opérations numériques plus coûteuses ; il ne donne aucune raison d’écarter d’emblée sa mesure. Pour choisir le bon chiffre, les deux apprentis peuvent d’abord s’entendre sur les bords du tissu qu’ils mesurent. La discussion sur le bord raide concerne la matière, pas la justesse de Lison en général.
 

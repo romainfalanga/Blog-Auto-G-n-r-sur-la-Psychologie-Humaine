@@ -1,22 +1,24 @@
 ---
-title: 'Fatigue au travail : Inaya essaie de fermer plus tôt'
+title: Fatigue dépressive et coût invisible du travail
 description: Inaya regarde ce que lui coûtent les fins de journée à la boutique. Elle
   essaie des horaires plus courts et les revoit avec une collègue.
 slug: inaya-horaires-boutique-adapter
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Inaya
-sujet: Trouble dépressif récurrent
+sujet: Fatigue et retentissement professionnel
 contexte: La boutique et le tableau des horaires
 tags:
+- Trouble dépressif récurrent
 - Dépression récurrente
-- Fatigue au travail
-- Limites professionnelles
-- Partage des tâches
+- Fatigue dépressive
+- Coût de l’effort
+- Aménagement au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A71
+clinical_diagnosis: Trouble dépressif récurrent
 episode: 5
 ---
 

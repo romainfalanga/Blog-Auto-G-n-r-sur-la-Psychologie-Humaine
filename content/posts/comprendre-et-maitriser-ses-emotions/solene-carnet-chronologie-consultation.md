@@ -1,22 +1,24 @@
 ---
-title: Comprendre ce qui relie l’humeur et les perceptions
+title: Trouble schizoaffectif et chronologie des symptômes psychotiques et de l’humeur
 description: En consultation, Solène distingue ce qu’elle sait de ses derniers jours
   de ce qu’elle reconstitue avec la psychiatre.
 slug: solene-carnet-chronologie-consultation
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Solène
-sujet: Trouble schizoaffectif
+sujet: Chronologie des symptômes
 contexte: Au cabinet de la psychiatre référente, après l’appel de Solène à l’infirmière
 tags:
+- Trouble schizoaffectif
 - Trouble schizo-affectif
-- Humeur et perceptions
-- Reconnaître ses signes
-- Accepter l’incertitude
+- Chronologie des symptômes
+- Épisodes de l’humeur
+- Évaluation clinique
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A21
+clinical_diagnosis: Trouble schizoaffectif
 episode: 3
 ---
 
@@ -26,7 +28,7 @@ La psychiatre demande si c’était une question d’envie, de fatigue ou si que
 
 Cette façon de faire rappelle à Solène une consultation bien plus ancienne, après la période pour laquelle elle a reçu le diagnostic. Elle avait cru, en lisant le mot sur un courrier, qu’on lui avait donné deux diagnostics à la fois. Elle n’avait pas osé demander. Cette fois, elle pointe les deux lignes du carnet. « Est-ce que c’est parce que ça se passe sur la même page que vous appelez ça schizoaffectif ? »
 
-## Ce que les deux lignes permettent de demander
+## Comment la chronologie éclaire le trouble schizoaffectif
 
 Dans la CIM-11, le trouble schizoaffectif désigne une certaine relation entre des symptômes psychotiques et un épisode de l’humeur. Le cadre de l’OMS porte sur un même épisode où les exigences de la schizophrénie et celles d’un épisode dépressif modéré ou sévère, maniaque ou mixte, sont remplies ensemble. Les deux ensembles de symptômes débutent en même temps ou à quelques jours l’un de l’autre. Le guide fixe une durée minimale d’un mois pour les deux ensembles lors d’un premier épisode ; pour les suivants, cette durée n’est pas nécessairement requise. Ces repères servent aux cliniciens. On peut les solliciter dès qu’un changement inquiète, bien avant de connaître sa durée.
 

@@ -1,23 +1,25 @@
 ---
-title: 'Reviviscence à la quincaillerie : le souvenir envahit le présent'
-description: À la quincaillerie, une annonce surprend Selma. Elle cherche des mots
-  pour décrire la reviviscence et demande que son achat attende.
+title: Reviviscence quand le passé fait irruption à la quincaillerie
+description: Une annonce fait resurgir l’accident comme s’il arrivait de nouveau.
+  Selma perd le fil de son achat et demande une pause.
 slug: selma-reviviscence-quincaillerie
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Selma
-sujet: Trouble de stress post-traumatique
+sujet: Reviviscence dans le présent
 contexte: Au comptoir de la quincaillerie
 tags:
+- Trouble de stress post-traumatique
 - TSPT
 - PTSD
 - Reviviscence
-- Difficulté à suivre l’échange
-- Choix de s’éloigner
+- Rappel sonore
+- Attention au présent
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B40
+clinical_diagnosis: Trouble de stress post-traumatique
 episode: 2
 ---
 

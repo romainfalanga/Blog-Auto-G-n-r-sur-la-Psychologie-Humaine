@@ -1,23 +1,25 @@
 ---
-title: Dire jusqu’où on peut aider une collègue
+title: Quand la culpabilité d’avoir manqué le travail pousse à trop promettre
 description: La livraison tarde à la boutique. Côme dit jusqu’à quelle heure il peut
   rester et prépare la suite avec Inès avant de rejoindre l’atelier.
 slug: come-les-references-sur-le-ticket
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Côme
-sujet: Trouble du jeu vidéo
+sujet: Culpabilité et engagements après un retard
 contexte: Le mardi suivant, à la boutique, une heure avant la fin du service de Côme
 tags:
+- Trouble du jeu vidéo
 - 6C51
 - Gaming disorder
-- Dire ses limites
-- Confiance au travail
-- Engagements tenus
+- Culpabilité après un retard
+- Retentissement au travail
+- Limites professionnelles
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C51
+clinical_diagnosis: Trouble du jeu vidéo
 episode: 9
 ---
 
@@ -27,7 +29,7 @@ Côme a reçu un message de Nadège à midi. Elle a récupéré un plateau de bo
 
 « Je peux jusqu’à dix-sept heures, comme prévu. Je peux préparer le bac pour que tu n’aies qu’à vérifier les deux joints. » Inès soupire ; elle aurait préféré avoir deux mains de plus. Elle lui demande de ne pas ranger les sachets de l’ancien modèle dans le même compartiment que les nouveaux. Côme sort un rouleau d’étiquettes et commence par retrouver le numéro de la cocotte d’une cliente. À la place de « joint, deux pièces », il écrit la référence complète et lui montre où il l’a mise.
 
-## Rendre visibles les effets sur le travail
+## Réparer les conséquences du jeu à sa mesure
 
 Le retentissement du trouble du jeu vidéo peut concerner le travail, entre autres domaines de la vie. Côme a été en retard après une nuit qu’il n’avait pas réussi à écourter. Ce mardi, il est à son poste et la livraison est en retard pour une autre raison. Il peut prendre au sérieux l’ouverture qu’il a manquée et répondre séparément à la demande d’Inès. Son horaire de fin est déjà fixé ; il choisit de dire ce qu’il peut faire d’ici là.
 

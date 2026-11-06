@@ -1,23 +1,25 @@
 ---
-title: Se donner le temps de choisir son trajet
+title: Pression de décider et soutien au choix d’un nouveau trajet
 description: Devant deux propositions pour rejoindre le dépôt, Hélène demande de voir
   les trajets et invite Sofia à la réunion de jeudi.
 slug: helene-la-chaise-de-sofia
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Hélène
-sujet: Trouble du développement intellectuel
+sujet: Autodétermination et aide à la décision
 contexte: Dans le vestiaire puis au point d’équipe, pendant la préparation du déménagement
 tags:
+- Trouble du développement intellectuel
 - TDI
 - Troubles du développement intellectuel
 - Pression de décider
-- Besoin de temps
-- Soutien choisi
+- Autodétermination
+- Soutien au choix
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A00
+clinical_diagnosis: Trouble du développement intellectuel
 episode: 2
 ---
 

@@ -1,22 +1,24 @@
 ---
-title: Jules appréhende l’entrée du marché et choisit où s’arrêter
+title: Anxiété d’anticipation avant un essai accompagné
 description: Jules et la psychiatre font un essai accompagné près du marché. Il garde
   le choix de s’arrêter et peut raconter ce qu’il a remarqué.
 slug: jules-aller-jusqu-au-libraire
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Jules
-sujet: Trouble panique
+sujet: Anxiété avant une situation redoutée
 contexte: Près du marché couvert, lors d’un essai convenu dans le suivi
 tags:
+- Trouble panique
 - Attaques de panique
 - Anxiété d’anticipation
+- Essai thérapeutique accompagné
 - Choix du rythme
-- Essai accompagné
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B01
+clinical_diagnosis: Trouble panique
 episode: 7
 ---
 

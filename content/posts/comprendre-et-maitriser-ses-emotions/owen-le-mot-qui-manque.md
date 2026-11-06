@@ -1,22 +1,24 @@
 ---
-title: Finir son idée quand le groupe a déjà répondu
-description: Pour lancer le club de courts métrages, Owen demande à finir sa phrase
-  et dessine la minute qu’il veut raconter trois fois.
+title: Le blocage de parole au milieu d’une idée déjà claire
+description: Quand Owen bloque avant le mot « moment », Lucile finit sa phrase et
+  change le sens de son idée. Il tient à expliquer lui-même ce qu’il veut filmer.
 slug: owen-le-mot-qui-manque
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Owen
-sujet: Trouble développemental de la fluence de la parole
+sujet: Blocage de parole
 contexte: demander à garder son tour de parole pendant la première réunion du club
 tags:
+- Trouble développemental de la fluence de la parole
 - Bégaiement
 - Bégaiement développemental
-- Tour de parole
-- Se sentir écouté
+- Maintien du tour de parole
+- Frustration d’être interrompu
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.1
+clinical_diagnosis: Trouble développemental de la fluence de la parole
 episode: 1
 ---
 

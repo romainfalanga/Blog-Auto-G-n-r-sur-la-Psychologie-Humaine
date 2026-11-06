@@ -1,23 +1,25 @@
 ---
-title: S’inquiéter d’entendre son prénom alors que la pièce est calme
+title: Perceptions auditives inhabituelles qui se répètent et isolent
 description: Des sons inhabituels se répètent et troublent les journées de Zéphyr.
   Il contacte son équipe de soins et demande au musée de reporter la séance.
 slug: zephyr-prenom-dans-la-piece
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Zéphyr
-sujet: Trouble schizotypique
+sujet: Perceptions auditives inhabituelles
 contexte: Quelques jours avant le deuxième essai, Zéphyr remarque un changement dans
   ses perceptions et dans ce qu’il arrive à faire de ses journées.
 tags:
+- Trouble schizotypique
 - Schizotypie
-- Doute face à une perception
-- Retentissement sur les habitudes
-- Demander un avis quand quelque chose change
+- Perceptions auditives inhabituelles
+- Retentissement quotidien
+- Évaluation clinique
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A22
+clinical_diagnosis: Trouble schizotypique
 episode: 8
 ---
 

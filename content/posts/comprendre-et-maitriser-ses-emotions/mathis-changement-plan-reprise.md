@@ -1,22 +1,24 @@
 ---
-title: 'Imprévu et fatigue : Mathis révise ses repères avec l’équipe'
+title: Quand l’imprévu et le manque de sommeil compliquent l’organisation
 description: Un essai décalé laisse circuler deux rendez-vous. Mathis repère ce qui
   lui a échappé et ce que l’équipe peut corriger avant l’ouverture.
 slug: mathis-changement-plan-reprise
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: TDAH chez l’adulte
+sujet: Attention et variation selon le contexte
 contexte: Au dernier essai avec les bénévoles, avant l’ouverture au public
 tags:
+- TDAH chez l’adulte
 - TDAH
-- Attention et fatigue
-- Souplesse face à l’imprévu
-- Repères communs
+- Fatigue et attention
+- Changement imprévu
+- Information contradictoire
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A05
+clinical_diagnosis: TDAH chez l’adulte
 episode: 9
 ---
 

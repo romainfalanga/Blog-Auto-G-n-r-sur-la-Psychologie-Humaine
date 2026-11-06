@@ -1,23 +1,25 @@
 ---
-title: Décider de ce qu’on rend public sur soi
+title: Soutenir le consentement quand un document porte plusieurs décisions
 description: Armand accepte que son nom accompagne le don. En lisant le projet d’affiche,
   il décide avec Nadia ce qui peut être dit et montré.
 slug: armand-affiche-sous-son-nom
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Armand
-sujet: Démence due à la maladie d’Alzheimer
+sujet: Consentement et compréhension des options
 contexte: Au foyer communal, devant le projet d’affiche de la rencontre
 tags:
+- Démence due à la maladie d’Alzheimer
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Choisir pour soi
-- Continuer à transmettre
-- Vie privée
+- Soutien à la décision
+- Consentement
+- Confidentialité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D80
+clinical_diagnosis: Démence due à la maladie d’Alzheimer
 episode: 6
 ---
 
@@ -27,7 +29,7 @@ Armand suit le texte avec le doigt. Il arrive au bout de la phrase, recommence, 
 
 La bénévole voudrait aussi mettre sa photo sur le panneau de l’entrée. Armand se lève pour regarder où elle la placerait. La reproduction du pont tient dans l’espace prévu, à côté du plan des canaux. Il propose de mettre l’image de la rive à la place du portrait. Nadia lui demande ce qu’il écrirait sous son nom. Il pense aux lettres qui arrivaient avec deux noms de rues pour la même adresse. « Des cartes pour retrouver le passage. »
 
-## Faire préciser à quoi la personne dit oui
+## Comprendre ce que la personne souhaite rendre public
 
 Accepter de participer à une activité publique peut laisser ouvertes plusieurs décisions sur les informations qu’on veut y partager. Armand accepte que son nom apparaisse avec le don. La photographie et le fait d’évoquer sa santé sont deux autres propositions. Il veut comprendre chacune et choisir sa réponse. Une formulation lisible, un exemple concret de l’affiche ou la possibilité de relire plus tard peuvent aider la personne à dire ce qu’elle souhaite.
 

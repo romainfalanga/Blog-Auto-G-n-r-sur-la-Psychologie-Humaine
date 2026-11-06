@@ -1,27 +1,30 @@
 ---
-title: Accepter le refus d’un portrait pour le reportage du marché
-description: Rachid accepte les mots cités dans le reportage, mais préfère que son
-  portrait reste dans le dossier. Maïwenn doit revoir la page avec Lou.
+title: Ce que coûte une modification tardive quand écrire demande déjà du temps
+description: Rachid refuse la publication de son portrait. Maïwenn accepte sa décision
+  et doit revoir l’ordre du texte et des légendes.
 slug: maiwenn-retirer-un-portrait
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Maïwenn
-sujet: Trouble développemental des apprentissages avec déficit de l’expression écrite
+sujet: Coût d’une révision imprévue
 contexte: Le mercredi, devant la halle fermée, pendant la vérification des faits
 tags:
+- Trouble développemental des apprentissages avec déficit de l’expression écrite
 - Déficit de l’expression écrite
 - Dysorthographie
-- Déception
-- Respect du refus
-- Confiance
+- Organisation du texte
+- Effort de réécriture
+- Déception face au changement
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.1
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit de l’expression
+  écrite
 episode: 10
 ---
 
-Sur le rebord de la petite porte, Rachid pousse doucement son portrait vers Maïwenn. Elle avait choisi cette image pour sa place au milieu du reportage ; il lui dit qu’il préfère que son visage n’y figure pas.
+Sur le rebord de la petite porte, Rachid pousse doucement son portrait vers Maïwenn. Elle avait choisi cette image pour sa place au milieu du reportage ; il lui dit qu’il préfère que son visage n’y figure pas. Maïwenn pense tout de suite à la légende voisine, celle qu’elle croyait enfin pouvoir arrêter de relire.
 
 Le mercredi, les grilles de la halle sont baissées et on entend bien le papier glisser sur la pierre. Lou a relu au gardien la phrase sur la place qu’il faut laisser aux chariots. Il a dit qu’elle pouvait rester. Puis elles lui ont demandé si la table qu’elles avaient vue depuis la rue était la première à entrer. Rachid n’en est pas sûr. Il s’est occupé des grilles ; on a pu en monter une autre à l’intérieur pendant ce temps. Maïwenn note « celle qu’on a vue, au deuxième passage ». L’ouverture racontera ce qu’elles ont observé depuis la rue ce dimanche-là. La photo de la cale, elle, date de la première visite.
 

@@ -1,22 +1,24 @@
 ---
-title: Retrouver sa place à la table de dessin quand la peur demeure
+title: Revenir dessiner au marché avec une appréhension persistante
 description: Jules retrouve les dessinateurs du marché. Il choisit une place, demande
   l’accord de Sonia pour un croquis et laisse la suite ouverte.
 slug: jules-table-tournee-vers-les-etalages
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Jules
-sujet: Trouble panique
+sujet: Reprise d’une activité malgré la peur
 contexte: Au marché couvert, à une nouvelle séance de dessin avec Samuel
 tags:
+- Trouble panique
 - Attaques de panique
+- Anxiété d’anticipation
+- Autonomie
 - Reprise d’une activité de groupe
-- Liberté de participer ou de partir
-- Accord de la personne qu’on dessine
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B01
+clinical_diagnosis: Trouble panique
 episode: 11
 ---
 

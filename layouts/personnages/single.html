@@ -51,9 +51,9 @@
     {{- end }}
     {{ with $profileTopics }}
     <div class="perso-profile-themes">
-      <p id="perso-profile-themes-title">Thèmes récurrents</p>
+      <p id="perso-profile-themes-title">{{ if $.Params.clinical_diagnosis }}Trouble et repères psychologiques{{ else }}Thèmes récurrents{{ end }}</p>
       <ul aria-labelledby="perso-profile-themes-title">
-        {{ range . }}<li>{{ . }}</li>{{ end }}
+        {{ range $i, $label := . }}<li{{ if and $.Params.clinical_diagnosis (eq $i 0) }} class="diagnosis-keyword"{{ end }}>{{ $label }}</li>{{ end }}
       </ul>
     </div>
     {{ end }}

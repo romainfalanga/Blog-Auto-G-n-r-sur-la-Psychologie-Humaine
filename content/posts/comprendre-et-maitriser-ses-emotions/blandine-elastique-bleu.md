@@ -1,23 +1,25 @@
 ---
-title: Quand le manque de Jeanne envahit une journée ordinaire
-description: Yannis vient dîner. Sur la table, Blandine a laissé les partitions de
-  Jeanne et un message à Léon qu’elle n’arrive pas à envoyer.
+title: Manque persistant quand Blandine voudrait encore poser une question à Jeanne
+description: Au dîner, le crayon de Jeanne ramène Blandine à la question qu’elle voudrait
+  lui poser et au temps que le manque a pris dans sa journée.
 slug: blandine-elastique-bleu
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Blandine
-sujet: Trouble du deuil prolongé
+sujet: Manque persistant du proche décédé
 contexte: Chez Blandine, le soir où elle veut enfin écrire au chef de chœur
 tags:
+- Trouble du deuil prolongé
 - Deuil prolongé
 - CIM-11 6B42
-- Manque d’un proche
-- Souvenirs envahissants
-- Soutien amical
+- Manque persistant
+- Douleur émotionnelle
+- Retentissement du deuil
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B42
+clinical_diagnosis: Trouble du deuil prolongé
 episode: 1
 ---
 

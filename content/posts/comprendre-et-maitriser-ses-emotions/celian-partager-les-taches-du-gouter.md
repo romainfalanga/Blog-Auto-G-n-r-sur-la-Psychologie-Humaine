@@ -1,23 +1,25 @@
 ---
-title: Apprendre à partager les tâches du goûter
+title: Réduire la charge de vérification pour garder la responsabilité du goûter
 description: Avec vingt personnes et une enveloppe de quarante-cinq euros, Célian
   apporte encore deux idées de gâteau à la réunion du club.
 slug: celian-partager-les-taches-du-gouter
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Célian
-sujet: Trouble développemental des apprentissages avec déficit en lecture
+sujet: Charge de lecture et partage des tâches
 contexte: Dans le local du club, le mardi où les inscriptions se terminent.
 tags:
+- Trouble développemental des apprentissages avec déficit en lecture
 - Dyslexie
 - Trouble développemental de la lecture
-- Autonomie
-- Confiance en soi
-- Coopération
+- Charge de vérification
+- Repères écrits
+- Responsabilités partagées
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.0
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en lecture
 episode: 7
 ---
 
@@ -27,7 +29,7 @@ Nadia a apporté la liste des achats de l’année précédente. Les gobelets et
 
 Il pousse le reçu vers Léonie. Le deuxième gâteau devait être au chocolat ; c’était son idée pour ceux qui demandent toujours du chocolat. Il préfère faire deux fournées du gâteau aux pommes qu’il a essayé. Avec de l’eau et des fruits, ils peuvent tenir le budget annoncé sans courir dans deux magasins. « Je garde les gâteaux. Qui veut choisir comment on installe le reste ? » demande-t-il. Yanis tire la première caisse vers lui avec le pied.
 
-## Prendre une responsabilité qui se partage
+## Répartir la charge de lecture et de vérification
 
 Une difficulté de lecture peut compliquer une partie d’un projet sans empêcher la personne de prendre les décisions qui lui reviennent. Pour établir son budget, Célian doit identifier ce qui a réellement été acheté et ce qui avait été prêté. Lire les mentions sur l’ancienne liste lui demande du temps. Choisir le menu et décider de ce qu’il peut préparer sont d’autres tâches. Rien dans cet incident ne permet de supposer qu’il a un trouble du calcul. Il a aussi des préférences précises : le gâteau aux pommes, les parts carrées et la possibilité de jouer avant le goûter. Elles l’aident à choisir les tâches dont il veut rester responsable.
 

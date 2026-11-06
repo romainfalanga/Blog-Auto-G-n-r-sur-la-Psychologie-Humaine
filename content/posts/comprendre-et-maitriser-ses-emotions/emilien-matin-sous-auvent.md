@@ -1,23 +1,25 @@
 ---
-title: Douter de ses signes d’alerte en pleine reprise du travail
+title: Reconnaître des signes possibles de rechute quand on doute
 description: Un changement de programme lui rappelle une période difficile. Émilien
   demande un avis et redéfinit sa part de l’écoute au marché.
 slug: emilien-matin-sous-auvent
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Émilien
-sujet: Trouble bipolaire de type I
+sujet: Incertitude face aux signes d’alerte
 contexte: reprendre son plan face à des signes ambigus sans supposer que toute variation
   est un nouvel épisode
 tags:
+- Trouble bipolaire de type I
 - Bipolarité type I
-- Incertitude face aux signes
-- Demande d’avis
-- Autonomie au travail
+- Signaux d’alerte
+- Fatigue et besoin de sommeil
+- Demande d’avis précoce
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A60
+clinical_diagnosis: Trouble bipolaire de type I
 episode: 11
 ---
 

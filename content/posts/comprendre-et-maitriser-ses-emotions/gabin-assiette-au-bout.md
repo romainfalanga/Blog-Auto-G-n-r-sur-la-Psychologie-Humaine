@@ -1,24 +1,26 @@
 ---
-title: Au repas de rue, Gabin retrouve ses voisins et décide quels appuis garder
+title: Garder des appuis dans la durée quand l’envie de jouer peut revenir
 description: Au repas de rue, les chaises fabriquées et prêtées trouvent leur place.
   Gabin choisit ce qu’il garde de son projet et de son suivi.
 slug: gabin-assiette-au-bout
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gabin
-sujet: Trouble lié aux jeux d’argent
+sujet: Suivi dans la durée
 contexte: terminer une contribution au repas de rue tout en gardant des accords de
   budget et un suivi qu’on peut revoir
 tags:
+- Trouble lié aux jeux d’argent
 - Jeux d’argent
 - Jeu pathologique
-- Lien avec les voisins
-- Anticipation de l’envie de rejouer
-- Partage des responsabilités
+- Suivi dans la durée
+- Vulnérabilité à la reprise du jeu
+- Soutien financier et social
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C50
+clinical_diagnosis: Trouble lié aux jeux d’argent
 episode: 12
 ---
 
@@ -28,11 +30,11 @@ Nora est venue avec la tarte qu’elle avait prévu de préparer. Gabin a fait m
 
 Il reste une échéance à reprendre avec la conseillère. Nora et lui ont convenu du jour où ils referont le point sur les dépenses communes. Depuis son dernier rendez-vous, Gabin a aussi une question pour le service sur les soirs où le rappel de versement et la fermeture tombent ensemble. Il la retrouve en cherchant une photo des ferrures qu’il voulait montrer à un voisin. Il ferme la note. Le voisin vient de lui demander si les chaises peuvent servir lors de la prochaine fête. Gabin lui demande d’abord qui garde le mobilier d’ici là.
 
-## Prévoir la suite avec les appuis qui conviennent
+## Réévaluer les protections à mesure que la vie reprend
 
 Un suivi du trouble lié aux jeux d’argent peut évoluer avec les besoins et les préférences de la personne. Le NICE recommande de maintenir l’accès à un accompagnement selon la situation et de discuter du soutien pour les difficultés qui persistent. Gabin souhaite garder le contact clinique et revenir sur les circonstances où l’envie de rattrapage se présente. Il peut indiquer quelles mesures il utilise, celles qu’il voudrait revoir et les horaires où il lui est difficile de joindre le service. Le conseil budgétaire reste un autre rendez-vous qu’il a choisi. La réussite de ce repas et l’état de ses comptes sont deux éléments différents de sa semaine.
 
-## Laisser à chacun sa part du prochain repas
+## Protéger les liens et répartir les responsabilités
 
 Gabin et Nora ont un accord sur les informations utiles à leurs dépenses communes. Chacun peut demander qu’il soit revu si les conditions changent. Nora peut continuer à séparer certains achats, garder son propre appui et choisir de venir au repas pour les personnes qu’elle souhaite y retrouver.
 

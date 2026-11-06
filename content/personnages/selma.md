@@ -1,12 +1,13 @@
 ---
 title: Selma
 date: '2026-11-06T00:00:00+00:00'
-description: Selma est conductrice de train et remet en état une serre familiale.
-  Elle tient à garder le montant vert que sa mère peignait et discute volontiers de
-  graines avec son voisin André. Depuis un accident, certains bruits la ramènent à
-  ce qu’elle a vécu, et éviter la gare lui prend de plus en plus de temps. Elle veut
-  partager ses récoltes et réfléchir à la suite de son travail. Elle choisit à qui
-  parler de l’accident et ce qu’elle veut en dire.
+description: Selma, 39 ans, conduit des trains et vit avec un trouble de stress post-traumatique
+  depuis un accident. Certains sons déclenchent une peur si vive que son attention
+  quitte la conversation en cours. Elle contourne la gare pour éviter les rappels
+  de l’accident et des nuits hachées lui coûtent de l’énergie. En arrêt de conduite
+  au début du récit, elle cherche avec ses soignants des conditions de travail adaptées.
+  Dans la serre familiale, elle tient à garder le montant que sa mère peignait et
+  à partager ses récoltes avec son voisin André.
 slug: selma
 prenom: Selma
 date_naissance: '1987-01-01'
@@ -16,86 +17,87 @@ nb_articles: 12
 weight: 40
 draft: false
 clinical_code: 6B40
+clinical_diagnosis: Trouble de stress post-traumatique
 reading_topics:
-- Vigilance après l’accident
-- Souvenirs qui s’imposent
-- Éviter les rappels de l’accident
-- Sommeil et fatigue
-- Choisir ce qu’on confie
+- Trouble de stress post-traumatique
+- Reviviscences
+- Évitement des rappels traumatiques
+- Hypervigilance
+- Cauchemars liés au trauma
 ---
 
 <h2 class="parcours-section-title">Parcours de Selma</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-bruit-serre-familiale/">Sursaut dans la serre : quand un bruit rappelle l’accident</a></h3>
-    <p class="parcours-resume">Le mètre d’André s’arrête toujours à deux centimètres du bout. Selma appuie sur le bouton et le ruban rentre avec un bruit de ressort. « Il l’a toujours fait », dit André.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-bruit-serre-familiale/">Sursaut et alerte quand un bruit de serre rappelle l’accident</a></h3>
+    <p class="parcours-resume">Un bruit sec fait sursauter Selma dans sa serre et lui donne envie de rentrer. Dans le trouble de stress post-traumatique, un rappel peut déclencher une forte alerte corporelle. Le vitrier doit aussi examiner une vitre fendue. Le récit distingue la réponse à ce danger concret de l’alerte qui peut rester présente chez Selma après avoir changé de lieu.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/selma-bruit-serre-familiale/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-reviviscence-quincaillerie/">Reviviscence à la quincaillerie : le souvenir envahit le présent</a></h3>
-    <p class="parcours-resume">La charnière a trois trous de chaque côté. Selma en a dessiné quatre sur son papier, parce que la dernière vis avait laissé une marque dans la peinture. La vendeuse va chercher un autre modèle derrière le comptoir.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-reviviscence-quincaillerie/">Reviviscence quand le passé fait irruption à la quincaillerie</a></h3>
+    <p class="parcours-resume">À la quincaillerie, une annonce s’impose à Selma et le comptoir cesse un instant de retenir son attention. Une reviviscence se reconnaît au sentiment que l’événement revient dans le présent, parfois surtout dans les sensations ou la peur. La scène montre ce que cette expérience du TSPT peut faire à un échange ordinaire et pourquoi Selma demande que l’achat attende.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/selma-reviviscence-quincaillerie/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-detour-canal-evitement/">Ce que l’évitement de la gare change dans la journée de Selma</a></h3>
-    <p class="parcours-resume">En montant sur son vélo, Selma constate qu’elle a oublié d’enlever l’antivol. Elle repose un pied par terre et cherche la clé dans la poche où elle range le plan de la serre.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-detour-canal-evitement/">L’évitement des rappels traumatiques quand Selma contourne la gare</a></h3>
+    <p class="parcours-resume">Selma contourne la gare pour éviter les rappels de l’accident. Dans le TSPT, cet évitement peut répondre à une peur immédiate tout en prenant peu à peu du temps et de la liberté dans les déplacements. Même quand le pont du canal est fermé, Selma cherche un autre passage. Elle trouve la caisse qu’André lui a laissée après avoir manqué le rendez-vous.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/selma-detour-canal-evitement/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-double-cle-hypervigilance/">Hypervigilance : Selma guette encore les bruits autour de la serre</a></h3>
-    <p class="parcours-resume">Selma reconnaît la clé du portail au bout de l’anneau, à l’endroit où une dent accroche sa manche. Elle a fait faire un double. Il est dans une enveloppe au nom d’André depuis trois jours.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-double-cle-hypervigilance/">Hypervigilance quand Selma guette encore les bruits après le passage du vitrier</a></h3>
+    <p class="parcours-resume">André identifie le claquement du plastique chez un voisin. Selma l’a entendu elle aussi, et une partie de son attention reste tournée vers le bruit suivant. Dans le TSPT, l’hypervigilance peut continuer à mobiliser la personne après une vérification raisonnable. L’effort se voit ici quand une question d’André lui échappe alors qu’elle aimerait continuer la conversation.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/selma-double-cle-hypervigilance/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-cauchemars-reveil/">Les cauchemars de Selma pèsent sur le reste de sa journée</a></h3>
-    <p class="parcours-resume">Le grille-pain saute et Selma croit un instant avoir entendu son téléphone. Elle le retrouve à côté du pot de confiture, l’écran éteint. Elle voudrait savoir depuis quelle heure elle est levée.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-cauchemars-reveil/">Des cauchemars liés au trauma à la fatigue qui brouille les gestes du matin</a></h3>
+    <p class="parcours-resume">Un cauchemar réveille Selma et le lendemain elle relit la boîte de vis sans retenir le chiffre. Des rêves qui reprennent des aspects ou des émotions du trauma peuvent faire partie du TSPT. Au rendez-vous, décrire les réveils et la fatigue aide aussi à comprendre pourquoi des tâches familières demandent davantage d’effort.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/selma-cauchemars-reveil/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-choix-en-therapie/">Trouver son rythme en thérapie après un traumatisme</a></h3>
-    <p class="parcours-resume">Il y a une enveloppe déjà ouverte dans le sac de Selma, celle qui portait le prénom d’André. Elle a servi à garder un reçu, puis à rassembler les quelques lignes qu’elle a écrites sur le sommeil.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-choix-en-therapie/">Parler d’une reviviscence en séance quand la peur de perdre le fil revient</a></h3>
+    <p class="parcours-resume">En séance, Selma peut parler de la charnière restée au comptoir avant de pouvoir dire le mot accident. Le TSPT se travaille dans un cadre spécialisé où les objectifs, les méthodes et les moyens de signaler une pause peuvent être discutés. Ce rendez-vous lui permet de partir de l’effet que les bruits ont sur sa vie.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/selma-choix-en-therapie/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-demande-medecin-travail/">Selma parle au médecin du travail de ce qui lui fait perdre le fil</a></h3>
-    <p class="parcours-resume">Dans la salle d’attente, une feuille indique qu’il faut garder son manteau près de soi. Selma s’était déjà levée pour le mettre sur un cintre. Elle replie la manche qui dépasse sur ses genoux.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-demande-medecin-travail/">Le retentissement du TSPT quand Selma envisage de reprendre le travail</a></h3>
+    <p class="parcours-resume">Selma tient à son métier de conductrice et décrit à son médecin du travail ce que le bruit, les annonces et la fatigue changent dans sa capacité à suivre. Le retentissement d’un TSPT s’apprécie à partir des tâches et du cadre où elles se déroulent. Le rendez-vous distingue les besoins de santé, les obligations de sécurité et l’organisation d’une activité hors conduite.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/selma-demande-medecin-travail/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-choisir-de-parler-au-travail/">Demander de l’aide à une collègue sans raconter l’accident</a></h3>
-    <p class="parcours-resume">Livia laisse à Selma le fauteuil qui roule le mieux. Il tire à gauche quand on recule et Selma s’en souvient avant de s’asseoir. Plusieurs rendez-vous et des échanges sur l’organisation ont précédé cette matinée.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-choisir-de-parler-au-travail/">Demander un aménagement après l’accident et choisir ce qu’on confie</a></h3>
+    <p class="parcours-resume">En mission hors conduite, la question de Livia sur l’accident fait hésiter Selma. L’aide qu’elle souhaite ce jour-là porte sur les lieux et les changements d’organisation. Avec un TSPT, parler de ce qui facilite une tâche peut être utile même lorsque la personne préfère garder l’événement pour un autre moment ou un autre interlocuteur.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/selma-choisir-de-parler-au-travail/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-revoir-amenagement-imprevu/">Un changement de salle bouscule les repères de Selma au travail</a></h3>
-    <p class="parcours-resume">À l’accueil, le badge que Selma doit prendre se trouve d’habitude dans la coupelle bleue. La coupelle est vide. La personne derrière le comptoir lui explique qu’une intervention sur le bâtiment a condamné le passage vers la salle.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-revoir-amenagement-imprevu/">Un imprévu réactive l’alerte pendant la reprise du travail de Selma</a></h3>
+    <p class="parcours-resume">Selma apprend que la salle a changé. Une porte se referme, elle perd une partie de la phrase suivante et voudrait sortir de la file. Le TSPT peut rendre une reprise plus coûteuse selon les rappels et les conditions du jour. Le relais convenu lui permet de demander ce qui a changé et d’examiner ce qui l’aidera au prochain déplacement.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/selma-revoir-amenagement-imprevu/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-choisir-sa-place-table-jardin/">Au repas des voisins, Selma choisit quand prendre la parole</a></h3>
-    <p class="parcours-resume">Le premier verre se renverse avant que tout le monde soit assis. En posant la carafe, Maud a heurté le verre avec son coude. André déplie une serviette, Selma déplace le pain et Maud éclate de rire en voyant l’eau suivre une rainure jusqu’au pied d’une chaise.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-choisir-sa-place-table-jardin/">La place que prend l’alerte au milieu d’un repas entre voisins</a></h3>
+    <p class="parcours-resume">Au repas des voisins, Selma suit la conversation tout en gardant le portail dans son champ de vision. Quand les regards se tournent vers elle, sa main se crispe sur le torchon. Cette attention divisée montre comment l’alerte qui accompagne son TSPT peut peser sur un moment agréable. Elle retrouve une marge de choix en proposant l’heure et le lieu du partage.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/selma-choisir-sa-place-table-jardin/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-recoltes-au-portail/">Partager ses récoltes et poser une limite à l’entrée de la serre</a></h3>
-    <p class="parcours-resume">André a rangé les radis par taille. Selma pense qu’il a dû le faire pendant qu’elle lavait les salades. Elle soulève une botte, trouve la petite tige qui ne dépasse de nulle part et la remet au milieu.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-recoltes-au-portail/">Un rappel sonore coupe la conversation pendant le partage des récoltes</a></h3>
+    <p class="parcours-resume">Au portail, le choc d’une bouteille contre le banc suffit à faire perdre le fil à Selma. L’alerte liée au TSPT peut interrompre une conversation pendant un moment auquel la personne tient. Selma demande que la question soit répétée. Une fois revenue à l’échange, elle peut décider comment montrer la serre et quel espace elle souhaite garder pour elle.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/selma-recoltes-au-portail/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-suivi-et-choix-apres-recoltes/">Ce que Selma retrouve et ce qui lui coûte encore après l’accident</a></h3>
-    <p class="parcours-resume">Sur la tablette de la serre, Selma retrouve un sachet de graines avec une date inscrite trop près du pli. Elle l’avait apporté pour demander à André s’il en avait encore envie.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/selma-suivi-et-choix-apres-recoltes/">Faire le bilan du TSPT quand certains progrès côtoient des réactions persistantes</a></h3>
+    <p class="parcours-resume">Selma a retrouvé le plaisir de préparer un dossier utile, et le changement de salle lui a coûté une matinée de travail. Le suivi du TSPT peut tenir compte de ces deux expériences, des nuits difficiles et des échanges qu’elle a repris. Ces repères permettent de discuter des appuis et de l’avenir professionnel avec les personnes concernées.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/selma-suivi-et-choix-apres-recoltes/" class="parcours-link">Lire</a>
   </div>
 </div>

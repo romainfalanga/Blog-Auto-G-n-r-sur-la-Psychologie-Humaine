@@ -1,23 +1,25 @@
 ---
-title: Fixer une limite quand on demande un extrait
-description: Alma cherche un extrait pour annoncer la soirée du lycée. Owen refuse
-  cet usage de sa voix et propose une image du film.
+title: Choisir à qui parler de son bégaiement
+description: Owen refuse un extrait de sa voix sur le compte du lycée. Il peut préciser
+  cet accord sans raconter son suivi.
 slug: owen-le-bout-dessai
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Owen
-sujet: Trouble développemental de la fluence de la parole
+sujet: Divulgation choisie du bégaiement
 contexte: répondre à une demande de diffusion sans devoir expliquer son bégaiement
 tags:
+- Trouble développemental de la fluence de la parole
 - Bégaiement
 - Bégaiement développemental
-- Limites de partage
 - Vie privée
-- Prendre le temps de décider
+- Anticipation du regard
+- Consentement à la diffusion
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.1
+clinical_diagnosis: Trouble développemental de la fluence de la parole
 episode: 7
 ---
 

@@ -1,23 +1,25 @@
 ---
-title: Retrouver du temps pour soi quand le deuil épuise
-description: Au rendez-vous de suivi, Blandine raconte ce qu’une commande a coûté
-  et ce qu’elle veut encore faire de la musique.
+title: Psychothérapie du deuil prolongé et activités que Blandine voudrait retrouver
+description: Blandine parle en séance du détour qu’elle fait et de l’énergie que lui
+  prend le travail. Elle nomme les choix qu’elle voudrait retrouver.
 slug: blandine-notes-de-consultation
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Blandine
-sujet: Trouble du deuil prolongé
+sujet: Accompagnement du deuil persistant
 contexte: Au cabinet de sa thérapeute, le lendemain du rendez-vous à l’annexe
 tags:
+- Trouble du deuil prolongé
 - Deuil prolongé
 - CIM-11 6B42
-- Évitement de certains lieux
-- Fatigue accumulée
-- Besoins personnels
+- Psychothérapie ciblée sur le deuil
+- Retentissement fonctionnel
+- Objectifs de soin choisis
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B42
+clinical_diagnosis: Trouble du deuil prolongé
 episode: 5
 ---
 

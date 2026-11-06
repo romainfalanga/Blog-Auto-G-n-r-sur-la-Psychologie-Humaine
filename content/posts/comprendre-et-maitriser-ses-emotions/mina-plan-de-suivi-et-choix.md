@@ -1,23 +1,25 @@
 ---
-title: En thérapie, Mina cherche comment demander une réponse claire
-description: Mina parle à sa thérapeute de deux échanges récents. Elle ajuste ses
-  objectifs et choisit la partie du plan qu’elle souhaite partager avec Alice.
+title: Un suivi structuré pour comprendre la peur du rejet et préparer les crises
+description: Mina reprend ses échanges avec Alice et Rachid. Elle choisit avec sa
+  thérapeute un objectif relationnel et précise quel service appeler en cas de crise.
 slug: mina-plan-de-suivi-et-choix
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mina
-sujet: Trouble de la personnalité avec profil borderline
+sujet: Objectifs de suivi et plan de crise
 contexte: Au rendez-vous de suivi, la semaine du festival
 tags:
+- Trouble de la personnalité avec profil borderline
 - Profil borderline
 - Trouble borderline
-- Demande claire dans une relation
-- Aide convenue avec une proche
-- Plan de crise avec l’équipe
+- Objectifs de soins
+- Incertitude relationnelle
+- Plan de crise
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D10
+clinical_diagnosis: Trouble de la personnalité avec profil borderline
 episode: 7
 ---
 

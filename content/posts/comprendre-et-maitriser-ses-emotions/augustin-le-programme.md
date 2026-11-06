@@ -1,24 +1,26 @@
 ---
-title: Choisir ce qu’on raconte de soi dans le programme
-description: Nora prépare le programme de la pièce. Augustin choisit ce qu’il veut
-  raconter de son travail et garde le reste pour lui.
+title: Demander un appui sans devoir raconter son trouble en public
+description: Nora veut raconter les ajustements de la scène dans le programme. Augustin
+  choisit de présenter sa contribution sans exposer son suivi.
 slug: augustin-le-programme
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Augustin
-sujet: Trouble développemental de la coordination motrice
+sujet: Confidentialité des difficultés motrices
 contexte: à l’accueil du centre social, devant l’épreuve du programme
 tags:
+- Trouble développemental de la coordination motrice
 - Trouble du développement de la coordination
 - TDC
 - Dyspraxie
-- Limites du partage
+- Peur d’être réduit au trouble
 - Légitimité dans le groupe
-- Peur d’être résumé à une difficulté
+- Partage choisi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A04
+clinical_diagnosis: Trouble développemental de la coordination motrice
 episode: 8
 ---
 

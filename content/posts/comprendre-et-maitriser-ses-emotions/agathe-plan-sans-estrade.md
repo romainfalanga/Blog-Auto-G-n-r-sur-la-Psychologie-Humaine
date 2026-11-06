@@ -1,23 +1,25 @@
 ---
-title: Choisir comment participer devant la classe
-description: Invitée à présenter le jardin à toute la classe, Agathe propose une façon
-  de garder sa place dans le projet.
+title: Quand les questions s’enchaînent et font perdre le fil
+description: Devant la classe, Agathe connaît plusieurs réponses et peine à relier
+  chaque question à son auteur. Elle propose de faire circuler le plan.
 slug: agathe-plan-sans-estrade
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Agathe
-sujet: Trouble développemental du langage
+sujet: Charge langagière en groupe
 contexte: Le lendemain, juste après la récréation, dans la salle de CM2 de Mme Roussel.
 tags:
+- Trouble développemental du langage
 - TDL
 - DLD (developmental language disorder)
-- Suivre plusieurs questions
-- Choisir sa façon de participer
-- Se mettre d’accord sur les rôles
+- Questions simultanées
+- Appréhension devant le groupe
+- Appui par l’écrit
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.2
+clinical_diagnosis: Trouble développemental du langage
 episode: 3
 ---
 

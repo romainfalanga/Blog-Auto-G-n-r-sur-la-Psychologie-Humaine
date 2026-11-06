@@ -1,22 +1,24 @@
 ---
-title: Le regard des autres quand une caméra tourne
+title: Se sentir exposé quand on perd le choix de ce qu’on partage
 description: Après l’essai, Célestin propose de filmer les réactions. Solène se demande
   ce que les gens oseront dire si l’objectif est braqué sur eux.
 slug: solene-tilleuls-reactions-sans-camera
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Solène
-sujet: Trouble schizoaffectif
+sujet: Sentiment d’exposition
 contexte: À l’essai des courts métrages, dans la petite salle des Tilleuls
 tags:
+- Trouble schizoaffectif
 - Trouble schizo-affectif
-- Choisir ce qu’on partage
-- Regard des autres
-- Désaccord au travail
+- Sentiment d’exposition
+- Consentement au partage
+- Confiance dans les soins
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A21
+clinical_diagnosis: Trouble schizoaffectif
 episode: 5
 ---
 
@@ -24,9 +26,11 @@ Il y a trois spectatrices dans la salle des Tilleuls et onze chaises vides. Cél
 
 Pendant la pause, Célestin sort son téléphone. Il propose de filmer les réactions au deuxième film, celui de l’abribus. Il imagine déjà les voix sur la bande-annonce de la tournée. Solène avait seulement demandé aux trois personnes de venir pour un essai. Avant qu’elle réponde, la femme au manteau la regarde. « Il faut parler face à la caméra ? » Elle a roulé le programme entre ses mains sans s’en apercevoir.
 
-Solène repense à la dernière fois où elle a parlé au cabinet. Livia était entrée quand elle le lui avait demandé et la psychiatre lui avait laissé la première phrase. Elle se souvient du temps qu’il lui avait fallu pour prononcer une chose qu’elle avait pourtant choisie. Ici, elle voudrait surtout entendre une remarque qui ne soit pas encore prête à servir d’annonce. Elle demande à Célestin de ranger le téléphone. Puis elle retourne les programmes qui restent sur la table : le verso est assez clair pour écrire.
+Solène repense à la dernière fois où elle a parlé au cabinet. Livia était entrée quand elle le lui avait demandé et la psychiatre lui avait laissé la première phrase. Elle se souvient du temps qu’il lui avait fallu pour prononcer une chose qu’elle avait pourtant choisie. Elle avait gardé dans sa poche la note sur la voix jusqu’à ce qu’elle soit prête à en parler. Elle se rappelle le soulagement d’avoir pu finir sa phrase. Ici, elle voudrait surtout entendre une remarque qui ne soit pas encore prête à servir d’annonce. Elle demande à Célestin de ranger le téléphone. Puis elle retourne les programmes qui restent sur la table : le verso est assez clair pour écrire.
 
-## Pouvoir décider à qui l’on parle
+## Le sentiment d’exposition et la possibilité de choisir
+
+La présence d’une personne peut rassurer lors d’un échange intime. Elle peut aussi modifier ce qu’on se sent capable de dire, même lorsque la relation est bonne. Solène a pu demander quand Livia entrerait au cabinet. Cette marge aide à comprendre pourquoi la caméra change pour elle le sens de la question posée aux spectatrices.
 
 Les orientations de l’OMS sur les services de santé mentale donnent une place aux choix de la personne et au respect de ses droits. Au cabinet, Solène peut demander un temps seule avec sa psychiatre ou choisir d’inviter Livia pour une partie de l’échange. Le suivi d’un trouble schizoaffectif porte aussi sur les périodes intermédiaires, où les besoins peuvent changer. La forme d’aide qui convenait à une consultation n’est pas à reconduire d’office à la suivante.
 

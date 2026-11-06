@@ -1,30 +1,30 @@
 {
   "character_id": "selma",
-  "bio": "Selma est conductrice de train et remet en état une serre familiale. Elle tient à garder le montant vert que sa mère peignait et discute volontiers de graines avec son voisin André. Depuis un accident, certains bruits la ramènent à ce qu’elle a vécu, et éviter la gare lui prend de plus en plus de temps. Elle veut partager ses récoltes et réfléchir à la suite de son travail. Elle choisit à qui parler de l’accident et ce qu’elle veut en dire.",
+  "bio": "Selma, 39 ans, conduit des trains et vit avec un trouble de stress post-traumatique depuis un accident. Certains sons déclenchent une peur si vive que son attention quitte la conversation en cours. Elle contourne la gare pour éviter les rappels de l’accident et des nuits hachées lui coûtent de l’énergie. En arrêt de conduite au début du récit, elle cherche avec ses soignants des conditions de travail adaptées. Dans la serre familiale, elle tient à garder le montant que sa mère peignait et à partager ses récoltes avec son voisin André.",
   "profile_topics": [
-    "Vigilance après l’accident",
-    "Souvenirs qui s’imposent",
-    "Éviter les rappels de l’accident",
-    "Sommeil et fatigue",
-    "Choisir ce qu’on confie"
+    "Trouble de stress post-traumatique",
+    "Reviviscences",
+    "Évitement des rappels traumatiques",
+    "Hypervigilance",
+    "Cauchemars liés au trauma"
   ],
   "episodes": [
     {
       "number": 1,
       "slug": "selma-bruit-serre-familiale",
-      "title": "Sursaut dans la serre : quand un bruit rappelle l’accident",
-      "description": "En mesurant un montant de la serre, Selma est surprise par un bruit qui lui rappelle l’accident. Elle choisit ce qu’elle veut reprendre avec André.",
+      "title": "Sursaut et alerte quand un bruit de serre rappelle l’accident",
+      "description": "Un bruit sec interrompt le travail dans la serre. Selma ressent une forte alerte et décide comment s’éloigner avec l’aide d’André.",
       "context": "La serre familiale au début du printemps",
       "topics": [
-        "Sursaut et besoin de s’éloigner",
-        "Rappels du traumatisme",
-        "Soutien d’un proche"
+        "Sursaut marqué",
+        "Rappel traumatique",
+        "Sentiment de menace"
       ],
       "opening": "Le mètre d’André s’arrête toujours à deux centimètres du bout. Selma appuie sur le bouton et le ruban rentre avec un bruit de ressort. « Il l’a toujours fait », dit André. Selma le lui rend et sort le sien. Elle veut savoir si le montant peint en vert peut rester en place quand le vitrier viendra examiner la serre. Elle a encore sous l’ongle un peu de la peinture que sa mère étalait au pinceau, même sur les endroits qu’on ne voyait que de l’extérieur.\n\nAndré a apporté des sachets de graines. Il voudrait semer deux rangs de radis pour avoir quelque chose à croquer avec son fromage du midi. Selma pensait garder ce côté pour les salades. Elle lui propose le bout qui longe l’ancienne allée. Ils sont en train de décider où mesurer lorsque le couvercle d’un seau en métal tombe sur la dalle, dehors. Selma lâche son mètre et cherche la porte. Elle connaît la serre. Pendant un instant, elle a du mal à regarder autre chose que le chemin qui permet d’en sortir.\n\nAndré se rapproche de l’entrée. Elle lève une main pour qu’il reste où il est. Son médecin a posé le diagnostic de trouble de stress post-traumatique il y a déjà plusieurs semaines, après l’accident. Elle en a aussi parlé avec une thérapeute formée au trauma. André sait qu’elle est en arrêt et qu’elle conduisait des trains avant cet arrêt. Elle ne lui a pas raconté l’accident. Il est sur le point de demander ce qui est tombé lorsque Selma lui dit qu’elle aimerait laisser le mètre au sol et rentrer.",
       "sections": [
         {
           "heading": "Quand un rappel provoque une réaction forte",
-          "text": "Un bruit qui rappelle un événement traumatique peut provoquer un sursaut intense ou un besoin pressant de s’éloigner. Dans les descriptions cliniques de la CIM-11, le sentiment de menace persistante fait partie de ce que les professionnels examinent dans le trouble de stress post-traumatique, identifié par le code 6B40. Ils s’intéressent également à la façon dont certains souvenirs reviennent, aux situations que la personne évite et aux effets dans sa vie. L’évaluation tient compte de l’ensemble de l’expérience et de son évolution.\n\nSelma a entendu un bruit, puis son attention s’est portée sur la porte. Ce qu’elle pourra dire à sa thérapeute, si elle souhaite revenir sur ce moment, tient déjà en quelques observations. Elle peut parler de ce qu’elle faisait juste avant, de ce qu’elle a ressenti et du temps qu’il lui a fallu pour retrouver ses repères. Ces mots peuvent servir même si elle choisit de garder le récit de l’accident pour un autre moment."
+          "text": "Un bruit qui rappelle un événement traumatique peut provoquer un sursaut intense ou un besoin pressant de s’éloigner. Dans les descriptions cliniques de la CIM-11, le sentiment de menace persistante fait partie de ce que les professionnels examinent dans le trouble de stress post-traumatique, identifié par le code 6B40. Ils recherchent aussi des reviviscences, où l’événement semble se reproduire dans le présent, et un évitement des rappels du traumatisme. Ils examinent les effets de ces réactions sur le travail, les relations ou d’autres activités. L’évaluation tient compte de l’ensemble de l’expérience et de son évolution.\n\nSelma a entendu un bruit, puis son attention s’est portée sur la porte. Ce qu’elle pourra dire à sa thérapeute, si elle souhaite revenir sur ce moment, tient déjà en quelques observations. Elle peut parler de ce qu’elle faisait juste avant, de ce qu’elle a ressenti et du temps qu’il lui a fallu pour retrouver ses repères. Ces mots peuvent servir même si elle choisit de garder le récit de l’accident pour un autre moment."
         },
         {
           "heading": "Finir une matinée comme elle le souhaite",
@@ -43,18 +43,20 @@
       "continuity": {
         "choice": "Selma reporte la mesure, garde le montant vert sur son dessin et laisse le vitrier examiner la vitre fendue.",
         "next": "À la quincaillerie, elle distingue une reviviscence d’un simple sursaut et demande à interrompre un achat."
-      }
+      },
+      "clinical_focus": "Sursaut face à un rappel",
+      "clinical_intro": "Un bruit sec fait sursauter Selma dans sa serre et lui donne envie de rentrer. Dans le trouble de stress post-traumatique, un rappel peut déclencher une forte alerte corporelle. Le vitrier doit aussi examiner une vitre fendue. Le récit distingue la réponse à ce danger concret de l’alerte qui peut rester présente chez Selma après avoir changé de lieu."
     },
     {
       "number": 2,
       "slug": "selma-reviviscence-quincaillerie",
-      "title": "Reviviscence à la quincaillerie : le souvenir envahit le présent",
-      "description": "À la quincaillerie, une annonce surprend Selma. Elle cherche des mots pour décrire la reviviscence et demande que son achat attende.",
+      "title": "Reviviscence quand le passé fait irruption à la quincaillerie",
+      "description": "Une annonce fait resurgir l’accident comme s’il arrivait de nouveau. Selma perd le fil de son achat et demande une pause.",
       "context": "Au comptoir de la quincaillerie",
       "topics": [
         "Reviviscence",
-        "Difficulté à suivre l’échange",
-        "Choix de s’éloigner"
+        "Rappel sonore",
+        "Attention au présent"
       ],
       "opening": "La charnière a trois trous de chaque côté. Selma en a dessiné quatre sur son papier, parce que la dernière vis avait laissé une marque dans la peinture. La vendeuse va chercher un autre modèle derrière le comptoir. En l’attendant, Selma suit du doigt l’allée sur le plan de la serre. Elle a trouvé un endroit où mettre la première étagère et peut encore voir le trait de crayon qu’elle aurait préféré gommer.\n\nDeux sons brefs précèdent une annonce au haut-parleur. Selma entend le premier et perd le début de la phrase. Pendant quelques secondes, le magasin a presque disparu pour elle. Un son qu’elle associe à l’accident lui paraît être de nouveau là, près d’elle, alors que la vendeuse lui parle du diamètre d’une vis. Selma voit l’étiquette orange dans la main qu’on lui tend et ne comprend pas ce qu’on attend qu’elle en fasse. Elle s’entend dire « Attendez ». La vendeuse pose la charnière sur le comptoir.\n\nAndré l’attend au café en face, avec le dessin de sa propre étagère dans la poche. Ils devaient comparer la hauteur de leurs semis. Selma regarde la porte vitrée, puis la vendeuse, qui est restée du côté de sa caisse. Elle retrouve peu à peu le mot qu’elle cherchait avant l’annonce. Elle aimerait revoir la charnière. Elle veut surtout pouvoir choisir où elle sera pendant les prochaines minutes.",
       "sections": [
@@ -79,18 +81,20 @@
       "continuity": {
         "choice": "Selma interrompt son achat, puis rejoint André à la terrasse quand elle le souhaite.",
         "next": "En allant organiser la livraison des panneaux, elle remarque ce que lui coûte un détour devenu habituel."
-      }
+      },
+      "clinical_focus": "Reviviscence dans le présent",
+      "clinical_intro": "À la quincaillerie, une annonce s’impose à Selma et le comptoir cesse un instant de retenir son attention. Une reviviscence se reconnaît au sentiment que l’événement revient dans le présent, parfois surtout dans les sensations ou la peur. La scène montre ce que cette expérience du TSPT peut faire à un échange ordinaire et pourquoi Selma demande que l’achat attende."
     },
     {
       "number": 3,
       "slug": "selma-detour-canal-evitement",
-      "title": "Ce que l’évitement de la gare change dans la journée de Selma",
-      "description": "Le détour qu’emprunte Selma pour éviter la gare lui prend de plus en plus de temps. Elle choisit ce qu’elle veut en dire au suivi.",
+      "title": "L’évitement des rappels traumatiques quand Selma contourne la gare",
+      "description": "Selma rallonge le trajet pour éviter la gare. Elle remarque ce qu’elle reporte et en parle avec sa thérapeute.",
       "context": "À vélo vers l’atelier du vitrier",
       "topics": [
-        "Évitement des rappels",
-        "Place des détours au quotidien",
-        "Choix de ce qu’on dit en thérapie"
+        "Évitement des rappels traumatiques",
+        "Soulagement immédiat",
+        "Retentissement quotidien"
       ],
       "opening": "En montant sur son vélo, Selma constate qu’elle a oublié d’enlever l’antivol. Elle repose un pied par terre et cherche la clé dans la poche où elle range le plan de la serre. Elle doit donner au vitrier l’adresse par laquelle il pourra livrer les panneaux. À l’époque où elle travaillait le matin, elle passait près de son atelier en rentrant. De chez elle, le chemin le plus court traverse le parvis de la gare. Cette fois, elle a dessiné une petite flèche vers le canal.\n\nLe détour lui plaît jusqu’au pont. Sur cette partie du chemin, elle peut voir quels arbres commencent à prendre des feuilles. Aujourd’hui le pont est fermé pour entretien. Selma doit revenir sur ses pas ou chercher une passerelle en aval. Elle consulte l’heure. André l’attend pour essayer une caisse sous l’étagère avant qu’il aille déjeuner chez sa sœur. Elle lui envoie un message pour dire qu’elle sera en retard, puis repart vers l’autre passerelle. Elle a pris sa décision avant même d’avoir fini de lire le panneau.\n\nDevant l’atelier, elle plie le dessin pour le faire entrer dans la boîte où le vitrier lui a laissé un nuancier. L’adresse était la seule information à transmettre. Elle aurait pu la donner au téléphone. Elle était venue parce qu’elle voulait voir si les nouveaux panneaux laisseraient passer assez de lumière. Maintenant, elle calcule le trajet de retour. Si elle passe encore par le canal, elle arrivera quand André aura rangé sa caisse. Elle lui écrit de la laisser devant la serre, puis entre demander à voir les échantillons.",
       "sections": [
@@ -115,18 +119,20 @@
       "continuity": {
         "choice": "Selma garde le canal pour le retour, reporte l’essai de la caisse et décide de parler du détour en séance.",
         "next": "Une fois la vitre abîmée retirée, elle distingue la sécurité de la serre et le besoin de continuer à écouter chaque bruit."
-      }
+      },
+      "clinical_focus": "Évitement des rappels traumatiques",
+      "clinical_intro": "Selma contourne la gare pour éviter les rappels de l’accident. Dans le TSPT, cet évitement peut répondre à une peur immédiate tout en prenant peu à peu du temps et de la liberté dans les déplacements. Même quand le pont du canal est fermé, Selma cherche un autre passage. Elle trouve la caisse qu’André lui a laissée après avoir manqué le rendez-vous."
     },
     {
       "number": 4,
       "slug": "selma-double-cle-hypervigilance",
-      "title": "Hypervigilance : Selma guette encore les bruits autour de la serre",
-      "description": "Même après le passage du vitrier, Selma guette le moindre bruit de la serre. Elle choisit une façon précise de partager les clés avec André.",
+      "title": "Hypervigilance quand Selma guette encore les bruits après le passage du vitrier",
+      "description": "Le vitrier a sécurisé la zone. Selma guette encore le prochain bruit et manque la question qu’André est en train de lui poser.",
       "context": "Sous l’auvent, à la fin d’une journée venteuse",
       "topics": [
         "Hypervigilance",
-        "Attention tournée vers le danger",
-        "Confiance entre voisins"
+        "Sentiment persistant de menace",
+        "Attention accaparée"
       ],
       "opening": "Selma reconnaît la clé du portail au bout de l’anneau, à l’endroit où une dent accroche sa manche. Elle a fait faire un double. Il est dans une enveloppe au nom d’André depuis trois jours. André a promis d’arroser ses radis le jeudi, quand elle a son rendez-vous. Chaque fois qu’elle veut lui donner l’enveloppe, elle pense à un détail qu’elle a oublié de lui dire. La dernière fois, c’était le sens dans lequel il faut tirer le portillon. Cette fois, elle veut être sûre qu’il a vu où le vitrier a retiré la plaque abîmée.\n\nLe vitrier a fermé cette partie en attendant de revenir avec les panneaux. Il leur a indiqué à quelle partie de l’allée ils ont accès d’ici là. Selma le montre à André en fin d’après-midi. À ce moment, une rafale fait claquer une feuille de plastique plus loin, chez un autre voisin. Selma interrompt sa phrase. Elle attend le prochain bruit et rate la question d’André, qui veut savoir à quelle hauteur ses radis sortiront de terre.\n\nUne fois le portail fermé, ils restent sous l’auvent. Selma demande si André a entendu quelque chose du côté de la serre. Il dit qu’il a entendu le plastique chez le voisin. Elle l’a entendu aussi. Pourtant, une partie de son attention continue de chercher un autre son, celui qui lui permettrait de savoir avec certitude qu’elle peut tourner le dos au jardin. André regarde son téléphone pour savoir s’il a encore le temps d’aller chercher du pain. Selma regarde l’enveloppe. Elle a assez de temps pour lui dire ce dont ils ont besoin jeudi.",
       "sections": [
@@ -151,18 +157,20 @@
       "continuity": {
         "choice": "Selma confie le double pour un usage convenu et garde les questions de réparation pour le vitrier.",
         "next": "Des nuits difficiles l’amènent à parler de la fatigue qu’elle ressent jusque dans ses activités du matin."
-      }
+      },
+      "clinical_focus": "Hypervigilance après un trauma",
+      "clinical_intro": "André identifie le claquement du plastique chez un voisin. Selma l’a entendu elle aussi, et une partie de son attention reste tournée vers le bruit suivant. Dans le TSPT, l’hypervigilance peut continuer à mobiliser la personne après une vérification raisonnable. L’effort se voit ici quand une question d’André lui échappe alors qu’elle aimerait continuer la conversation."
     },
     {
       "number": 5,
       "slug": "selma-cauchemars-reveil",
-      "title": "Les cauchemars de Selma pèsent sur le reste de sa journée",
-      "description": "Après plusieurs nuits interrompues, Selma repère ce que la fatigue change dans sa journée. Elle en parle au rendez-vous prévu.",
+      "title": "Des cauchemars liés au trauma à la fatigue qui brouille les gestes du matin",
+      "description": "Après une nuit interrompue, Selma perd le fil d’une tâche simple et apporte au suivi ce que ses réveils changent dans la journée.",
       "context": "Dans la cuisine, avant le passage d’André",
       "topics": [
-        "Cauchemars et réveils",
-        "Fatigue dans la journée",
-        "Difficulté à se concentrer"
+        "Cauchemars liés au trauma",
+        "Sommeil fragmenté",
+        "Fatigue et concentration"
       ],
       "opening": "Le grille-pain saute et Selma croit un instant avoir entendu son téléphone. Elle le retrouve à côté du pot de confiture, l’écran éteint. Elle voudrait savoir depuis quelle heure elle est levée. À son premier réveil, elle avait vu le bord du rideau et l’avait pris pour celui d’une vitre. Elle s’est rassise dans son lit avant de reconnaître le bruit du radiateur. Du rêve, elle garde une impression de danger et deux sons qui se mélangent. À présent, elle sait où elle est et pense surtout à la tartine qu’elle vient de faire tomber du mauvais côté.\n\nAndré doit arroser ses radis ce matin. Elle l’aperçoit de la fenêtre, avec deux boîtes de vis sous le bras. Ils avaient prévu de parler de l’étagère s’il lui restait du temps après l’arrosage. Selma sort avec son mug. Elle relit la longueur imprimée sur une des boîtes et ne retient pas le chiffre. Il lui propose de prendre les deux boîtes pour comparer. Elle remet le couvercle sur celle qui est ouverte.\n\n« Je voudrais qu’on remette l’étagère à un autre jour. » André demande si elle manque de matériel. Selma secoue la tête. Elle pourrait parler du cauchemar, mais préfère dire qu’elle s’est réveillée plusieurs fois cette semaine et qu’elle ne veut pas commencer à assembler quoi que ce soit ce matin. Elle a rendez-vous avec sa thérapeute l’après-midi. En rentrant dans la cuisine, elle cherche ce qu’elle a envie de noter sur cette nuit, à part l’heure où elle s’est levée.",
       "sections": [
@@ -188,18 +196,20 @@
       "continuity": {
         "choice": "Selma reporte le montage et apporte au rendez-vous deux observations sur son sommeil et sa fatigue.",
         "next": "Elle demande à la thérapeute comment elles pourront parler de ses réactions en choisissant ensemble le rythme."
-      }
+      },
+      "clinical_focus": "Cauchemars liés au trauma",
+      "clinical_intro": "Un cauchemar réveille Selma et le lendemain elle relit la boîte de vis sans retenir le chiffre. Des rêves qui reprennent des aspects ou des émotions du trauma peuvent faire partie du TSPT. Au rendez-vous, décrire les réveils et la fatigue aide aussi à comprendre pourquoi des tâches familières demandent davantage d’effort."
     },
     {
       "number": 6,
       "slug": "selma-choix-en-therapie",
-      "title": "Trouver son rythme en thérapie après un traumatisme",
-      "description": "Selma apporte des notes à sa thérapeute. Elle lui demande comment le travail pourrait se poursuivre et comment signaler qu’elle souhaite faire une pause.",
+      "title": "Parler d’une reviviscence en séance quand la peur de perdre le fil revient",
+      "description": "Selma raconte la reviviscence à sa thérapeute et lui demande comment avancer à un rythme qui lui permette de signaler une pause.",
       "context": "Au cabinet de sa thérapeute",
       "topics": [
-        "Rythme choisi en thérapie",
-        "Choix de parler du traumatisme",
-        "Confiance dans le suivi"
+        "Reviviscence",
+        "Thérapie centrée sur le trauma",
+        "Choix du rythme en séance"
       ],
       "opening": "Il y a une enveloppe déjà ouverte dans le sac de Selma, celle qui portait le prénom d’André. Elle a servi à garder un reçu, puis à rassembler les quelques lignes qu’elle a écrites sur le sommeil. En la posant sur la table du cabinet, Selma se rend compte qu’elle a aussi emporté le plan de la serre. Elle le déplie à moitié, cherche ses notes et tombe sur le mot « caisse » près de l’auvent. Sa thérapeute lui demande de quoi elle aimerait parler aujourd’hui.\n\nSelma raconte le moment à la quincaillerie, à partir de la charnière restée sur le comptoir. Elle explique ce qu’elle entendait et où elle a regardé en sortant. Elle hésite quand le mot accident lui vient. Sa thérapeute attend, puis lui demande ce qu’elle voudrait comprendre à partir de cet épisode. Selma n’avait préparé aucune réponse à cette question. Elle voudrait savoir si elles pourront s’occuper des moments où le bruit lui fait perdre le fil et si elle pourra s’arrêter au milieu d’une phrase.\n\nSur le plan de la serre, le crayon a laissé une bosse à l’endroit où elle a entouré le montant vert. Elle la suit du doigt. Elle demande aussi comment sa thérapeute lui expliquera la suite, et à quel moment elle pourra dire qu’elle préfère une autre façon de travailler. À la fin de sa question, elle remet le plan à plat. La thérapeute déplace son carnet pour lui laisser la place de reprendre la feuille.",
       "sections": [
@@ -224,18 +234,20 @@
       "continuity": {
         "choice": "Selma demande des explications, convient d’un signal de pause et prend rendez-vous avec le médecin du travail.",
         "next": "Elle prépare une demande d’adaptation en distinguant ses observations de toute décision de sécurité."
-      }
+      },
+      "clinical_focus": "Soins centrés sur le traumatisme",
+      "clinical_intro": "En séance, Selma peut parler de la charnière restée au comptoir avant de pouvoir dire le mot accident. Le TSPT se travaille dans un cadre spécialisé où les objectifs, les méthodes et les moyens de signaler une pause peuvent être discutés. Ce rendez-vous lui permet de partir de l’effet que les bruits ont sur sa vie."
     },
     {
       "number": 7,
       "slug": "selma-demande-medecin-travail",
-      "title": "Selma parle au médecin du travail de ce qui lui fait perdre le fil",
-      "description": "Selma décrit les moments qui lui coûtent le plus. Avec le médecin du travail, elle examine des adaptations et ce qui peut être transmis.",
+      "title": "Le retentissement du TSPT quand Selma envisage de reprendre le travail",
+      "description": "Selma explique comment les annonces et la fatigue touchent son attention. Le médecin du travail examine avec elle une mission hors conduite.",
       "context": "Au service de santé au travail",
       "topics": [
-        "Attention au travail",
-        "Rappels sonores du traumatisme",
-        "Confidentialité médicale"
+        "Concentration perturbée",
+        "Retentissement professionnel",
+        "Aménagement du travail"
       ],
       "opening": "Dans la salle d’attente, une feuille indique qu’il faut garder son manteau près de soi. Selma s’était déjà levée pour le mettre sur un cintre. Elle replie la manche qui dépasse sur ses genoux. Dans sa poche, elle a trois lignes copiées le matin à partir de ses notes. Les annonces imprévues. Les nuits qui se coupent. Les moments où il faut lui répéter le début d’une phrase. En dessous, elle a ajouté qu’elle aimerait reprendre contact avec ses collègues sans être attendue en cabine.\n\nLe médecin du travail lui demande ce qu’elle voudrait examiner avec lui. Selma déplie les trois lignes, puis les range. Elle sait les dire. Elle parle du bruit et de la fatigue, puis explique qu’elle aimerait pouvoir connaître la salle et l’horaire avant de venir. Elle a gardé des liens avec l’équipe et connaît les dossiers de documentation qu’ils devaient mettre à jour. Elle aimerait savoir s’il existe une activité de ce type, dans un bureau à l’écart des espaces de circulation des trains.\n\nLe médecin reprend avec elle les conditions dans lesquelles une activité hors conduite pourrait être examinée. Il lui demande ce qui l’aiderait si l’organisation change en cours de journée. Selma pense d’abord aux annonces qu’elle voudrait entendre plus tôt. Puis elle demande le nom de la personne à qui elle pourrait s’adresser sur place. Elle s’apprête à remettre sa feuille. Elle s’arrête pour savoir quelles informations serviraient au médecin et lesquelles pourraient être transmises au travail.",
       "sections": [
@@ -261,20 +273,22 @@
       "continuity": {
         "choice": "Selma formule des adaptations concrètes, vérifie ce qui peut circuler et choisit d’examiner une mission hors conduite.",
         "next": "Après les démarches nécessaires, elle découvre un espace de travail autorisé et choisit comment répondre à une collègue."
-      }
+      },
+      "clinical_focus": "Retentissement professionnel du TSPT",
+      "clinical_intro": "Selma tient à son métier de conductrice et décrit à son médecin du travail ce que le bruit, les annonces et la fatigue changent dans sa capacité à suivre. Le retentissement d’un TSPT s’apprécie à partir des tâches et du cadre où elles se déroulent. Le rendez-vous distingue les besoins de santé, les obligations de sécurité et l’organisation d’une activité hors conduite."
     },
     {
       "number": 8,
       "slug": "selma-choisir-de-parler-au-travail",
-      "title": "Demander de l’aide à une collègue sans raconter l’accident",
-      "description": "Lors d’une mission autorisée hors conduite, une collègue pose une question sur l’accident. Selma répond sur ce qui l’aide au travail.",
+      "title": "Demander un aménagement après l’accident et choisir ce qu’on confie",
+      "description": "La première mission hors conduite soulève une question intime. Selma choisit de parler du lieu de travail et de garder le récit de l’accident.",
       "context": "Dans une salle de documentation, loin des voies",
       "topics": [
-        "Choisir ce qu’on confie",
-        "Expression de ses besoins",
-        "Soutien entre collègues"
+        "Confidentialité de santé",
+        "Prévisibilité du cadre de travail",
+        "Soutien professionnel"
       ],
-      "opening": "Livia laisse à Selma le fauteuil qui roule le mieux. Il tire à gauche quand on recule et Selma s’en souvient avant de s’asseoir. Plusieurs rendez-vous et des échanges sur l’organisation ont précédé cette matinée. La mission temporaire, autorisée hors conduite et hors fonctions de sécurité, porte sur le classement de supports d’accueil dans une salle éloignée des voies. Selma a reçu les horaires et le nom de la personne qu’elle peut appeler si quelque chose change. Elle a choisi de commencer par une seule matinée.\n\nLivia a déjà sorti les fiches qui doivent rester et celles dont personne n’a pu identifier la date. Elle les lui montre, puis demande si Selma a vu les nouveaux casiers. Selma a surtout remarqué qu’il manque la petite étiquette qu’elle avait dessinée pour que ses collègues lui rendent ses stylos. Elle a envie de savoir qui a vidé le tiroir du haut. Avant qu’elle ait le temps de poser la question, Livia lui demande si elle a envie de raconter ce qui s’est passé.\n\nSelma tient une fiche d’accueil de travers. Livia ne lui a pas demandé de répondre devant d’autres personnes. Elle a probablement attendu qu’elles soient seules. Cela ne donne pas à Selma davantage envie de parler de l’accident. En revanche, elle aimerait qu’on lui dise à l’avance si elles doivent travailler ailleurs la prochaine fois. Elle remet la fiche dans la pile et demande à Livia si la salle est réservée pour toute la semaine.",
+      "opening": "Livia laisse à Selma le fauteuil qui roule le mieux. Il tire à gauche quand on recule et Selma s’en souvient avant de s’asseoir. Plusieurs rendez-vous et des échanges sur l’organisation ont précédé cette matinée. La mission temporaire, autorisée hors conduite et hors fonctions de sécurité, porte sur le classement de supports d’accueil dans une salle éloignée des voies. Selma a reçu les horaires et le nom de la personne qu’elle peut appeler si quelque chose change. Elle a choisi de commencer par une seule matinée.\n\nLivia a déjà sorti les fiches qui doivent rester et celles dont personne n’a pu identifier la date. Elle les lui montre, puis demande si Selma a vu les nouveaux casiers. Selma a surtout remarqué qu’il manque la petite étiquette qu’elle avait dessinée pour que ses collègues lui rendent ses stylos. Elle a envie de savoir qui a vidé le tiroir du haut. Avant qu’elle ait le temps de poser la question, Livia lui demande si elle a envie de raconter ce qui s’est passé.\n\nSelma tient une fiche d’accueil de travers. Elle avait prévu de demander à Livia quel jour elles changeraient de bureau. Depuis la question sur l’accident, elle ne sait plus si Livia lui a déjà donné le renseignement. Livia ne lui a pas demandé de répondre devant d’autres personnes. Elle a probablement attendu qu’elles soient seules. Cela ne donne pas à Selma davantage envie de parler de l’accident. En revanche, elle aimerait qu’on lui dise à l’avance si elles doivent travailler ailleurs la prochaine fois. Elle remet la fiche dans la pile et demande à Livia si la salle est réservée pour toute la semaine.",
       "sections": [
         {
           "heading": "Plusieurs façons de parler après un traumatisme",
@@ -297,23 +311,25 @@
       "continuity": {
         "choice": "Selma garde l’accident pour elle et demande que le lieu de travail soit confirmé par écrit.",
         "next": "Un changement de salle imprévu lui fait revoir les appuis convenus pour la mission."
-      }
+      },
+      "clinical_focus": "Confidentialité après un traumatisme",
+      "clinical_intro": "En mission hors conduite, la question de Livia sur l’accident fait hésiter Selma. L’aide qu’elle souhaite ce jour-là porte sur les lieux et les changements d’organisation. Avec un TSPT, parler de ce qui facilite une tâche peut être utile même lorsque la personne préfère garder l’événement pour un autre moment ou un autre interlocuteur."
     },
     {
       "number": 9,
       "slug": "selma-revoir-amenagement-imprevu",
-      "title": "Un changement de salle bouscule les repères de Selma au travail",
-      "description": "Un changement de salle déstabilise Selma. Elle utilise le contact prévu et revoit avec l’équipe la façon d’annoncer les imprévus.",
+      "title": "Un imprévu réactive l’alerte pendant la reprise du travail de Selma",
+      "description": "Une salle déplacée et un bruit de porte coupent Selma dans son élan. Elle se sert du relais convenu pour revoir la reprise.",
       "context": "À l’accueil, avant une matinée de documentation",
       "topics": [
-        "Déstabilisation face à un imprévu",
-        "Besoin de repères",
-        "Demande d’appui au travail"
+        "Réactivation de l’alerte",
+        "Difficulté de concentration",
+        "Ajustement des aménagements"
       ],
       "opening": "À l’accueil, le badge que Selma doit prendre se trouve d’habitude dans la coupelle bleue. La coupelle est vide. La personne derrière le comptoir lui explique qu’une intervention sur le bâtiment a condamné le passage vers la salle. La mission pourrait se faire ailleurs, si quelqu’un venait la chercher. Selma ouvre sur son téléphone le message qui confirme la réservation. Il est daté de la veille. Elle se demande à quelle heure l’accueil a été prévenu.\n\nUne porte se referme au bout du couloir. Selma perd une partie de la phrase qui suit. Elle entend « on va voir » et se retrouve à attendre quelqu’un dont elle ne connaît pas le nom. La première matinée s’était passée avec le fauteuil qui roulait de travers et une pile de dossiers qu’elle avait eu plaisir à retrouver. Elle s’était dit qu’elle saurait expliquer ce qui lui convenait la prochaine fois. Devant la coupelle vide, elle voudrait surtout pouvoir sortir de la file.\n\nLivia lui écrit qu’elle attend devant une salle d’un autre bâtiment. Selma pourrait lui demander de venir la chercher. Elle ouvre plutôt le message où le nom de la responsable de la mission est écrit en toutes lettres. Elles avaient convenu qu’en cas d’imprévu, Selma pouvait attendre dans l’espace d’accueil le temps de la joindre. Elle s’assied sur le siège près de la fenêtre et lui envoie une phrase. Elle dit où elle est et demande si elles peuvent reprendre ce qui a changé avant de décider de la matinée.",
       "sections": [
         {
-          "heading": "Un accord peut avoir besoin d’être revu",
+          "heading": "L’alerte peut revenir dans un environnement qui change",
           "text": "Le retentissement d’un stress post-traumatique peut varier selon les circonstances. Un cadre prévisible peut aider une personne à participer à une activité, et un changement de lieu ou d’interlocuteur peut lui demander plus d’effort. Le NICE inclut le retour à des activités de la vie quotidienne, notamment professionnelles et sociales, parmi les objectifs possibles d’une prise en charge spécialisée. Les effets de ces changements se discutent à partir de l’expérience de la personne.\n\nSelma peut dire ce qui a fonctionné lors de la première matinée et ce qui a manqué aujourd’hui. Elle savait qui appeler, mais l’information sur le lieu lui est parvenue au moment d’entrer. Elle peut demander comment les changements seront signalés et ce qui est possible quand le message arrive trop tard. La responsable peut préciser les contraintes du bâtiment et les options réellement ouvertes."
         },
         {
@@ -333,23 +349,25 @@
       "continuity": {
         "choice": "Selma utilise le contact convenu, reporte la matinée et demande un message écrit avant le prochain déplacement.",
         "next": "De retour à la serre restaurée, elle participe à une discussion de quartier sur les récoltes qu’elle veut partager."
-      }
+      },
+      "clinical_focus": "Réactivation du sentiment de menace",
+      "clinical_intro": "Selma apprend que la salle a changé. Une porte se referme, elle perd une partie de la phrase suivante et voudrait sortir de la file. Le TSPT peut rendre une reprise plus coûteuse selon les rappels et les conditions du jour. Le relais convenu lui permet de demander ce qui a changé et d’examiner ce qui l’aidera au prochain déplacement."
     },
     {
       "number": 10,
       "slug": "selma-choisir-sa-place-table-jardin",
-      "title": "Au repas des voisins, Selma choisit quand prendre la parole",
-      "description": "Au repas des voisins, Selma propose un partage des récoltes. Elle choisit une façon de participer qui lui convient.",
+      "title": "La place que prend l’alerte au milieu d’un repas entre voisins",
+      "description": "Selma participe au repas du quartier et remarque l’effort que lui coûte une prise de parole imprévue. Elle décide comment proposer le partage.",
       "context": "Autour d’une table sous le tilleul des voisins",
       "topics": [
-        "Participation à son rythme",
-        "Expression de ses préférences",
-        "Appui d’un voisin"
+        "Retentissement social",
+        "Sentiment de menace",
+        "Marge de choix dans un échange"
       ],
       "opening": "Le premier verre se renverse avant que tout le monde soit assis. En posant la carafe, Maud a heurté le verre avec son coude. André déplie une serviette, Selma déplace le pain et Maud éclate de rire en voyant l’eau suivre une rainure jusqu’au pied d’une chaise. Les nouveaux panneaux sont en place depuis samedi. Ce soir, les voisins se retrouvent pour parler de ce qu’ils cultiveront chacun et de ce qu’ils pourront s’échanger. Selma a apporté trois feuilles de salade dans un torchon pour montrer la variété dont elle a gardé les graines.\n\nElle a choisi la chaise au bout de la table. Elle peut voir l’allée qui ramène à son portail et surtout pousser son assiette sur le côté quand elle veut ouvrir le torchon. Au début, elle écoute Maud parler des limaces. Elle a même une idée pour le côté où Maud manque de place. Quand André dit qu’il y aura sûrement de quoi partager dans la serre de Selma, les autres se tournent vers elle. Elle sent sa main se refermer sur le tissu humide.\n\nAndré lui avait demandé s’il pouvait proposer le partage. Ils n’avaient pas décidé où chacun prendrait les légumes. Maud demande s’ils pourraient passer dimanche. Selma aurait envie de dire oui pour garder la conversation simple. Elle regarde la pluie qui commence derrière le tilleul et pense aux personnes qui passeraient sans savoir à quelle heure la serre est ouverte. Elle ouvre le torchon et dit qu’elle voudrait d’abord proposer une heure et un endroit.",
       "sections": [
         {
-          "heading": "Quand la vie sociale demande des choix",
+          "heading": "Faire place à une conversation quand l’alerte capte l’attention",
           "text": "Le stress post-traumatique peut changer la manière de participer à des échanges ou à des rencontres. Une personne peut avoir besoin de connaître le lieu, de choisir où s’asseoir ou de décider du temps qu’elle y passera. Les préférences dans une rencontre ont également une vie propre. Selma peut aimer parler de ses graines et vouloir garder une partie de la serre privée, quelles que soient ses réactions aux bruits.\n\nLe NICE inclut les relations et les activités quotidiennes dans ce que peut prendre en compte une prise en charge. Si Selma en parle au suivi, elle peut dire quels moments elle aimerait conserver et quels obstacles reviennent. Pour cette soirée, elle s’intéresse d’abord à ce qu’elle veut partager, à l’espace qu’elle peut ouvrir et à ce qu’André souhaite prendre en charge avec elle."
         },
         {
@@ -369,23 +387,25 @@
       "continuity": {
         "choice": "Selma parle au groupe pour proposer une heure et un lieu, et André confirme sa disponibilité.",
         "next": "Au moment de partager les récoltes, quelqu’un souhaite entrer dans la serre et Selma reprend leur accord."
-      }
+      },
+      "clinical_focus": "Retentissement social du TSPT",
+      "clinical_intro": "Au repas des voisins, Selma suit la conversation tout en gardant le portail dans son champ de vision. Quand les regards se tournent vers elle, sa main se crispe sur le torchon. Cette attention divisée montre comment l’alerte qui accompagne son TSPT peut peser sur un moment agréable. Elle retrouve une marge de choix en proposant l’heure et le lieu du partage."
     },
     {
       "number": 11,
       "slug": "selma-recoltes-au-portail",
-      "title": "Partager ses récoltes et poser une limite à l’entrée de la serre",
-      "description": "Les récoltes sont prêtes. Selma tient au partage avec André et choisit de garder l’intérieur de la serre pour elle.",
+      "title": "Un rappel sonore coupe la conversation pendant le partage des récoltes",
+      "description": "Au portail, le choc d’une bouteille interrompt la réponse de Selma. Elle demande de reprendre et précise l’accès à la serre.",
       "context": "Devant le portail, le jour du partage",
       "topics": [
-        "Limites personnelles",
-        "Attention perturbée par un bruit",
-        "Lien avec les voisins"
+        "Rappel sonore",
+        "Attention interrompue",
+        "Reprise de la conversation"
       ],
       "opening": "André a rangé les radis par taille. Selma pense qu’il a dû le faire pendant qu’elle lavait les salades. Elle soulève une botte, trouve la petite tige qui ne dépasse de nulle part et la remet au milieu. Les deux cagettes prêtées par Maud tiennent sur le banc à côté du portail. Celle de droite contient encore une couche de papier. Selma voudrait y mettre les feuilles qu’elle a fait goûter sous le tilleul, en laissant à chacun de quoi les emporter.\n\nMaud arrive avec une amie qui s’intéresse à la réparation de la serre. Elle demande si elles peuvent faire un tour à l’intérieur. André pose la botte qu’il tenait et regarde Selma. Derrière eux, le montant vert est visible à travers les panneaux neufs. Selma avait prévu de parler des salades, peut-être de montrer comment sa mère avait peint la structure. Elle ne veut pas que la serre devienne un lieu où chacun entre quand elle sort une cagette. Elle comprend que Maud puisse avoir cru que la porte ouverte était une invitation.\n\nUne bouteille roule dans le panier de l’amie de Maud et vient taper contre le banc. Selma sent qu’elle perd un instant le fil de sa réponse. Elle demande de reprendre la question. Cette fois, l’amie parle surtout des panneaux translucides. Selma connaît le nom du vitrier. Elle peut le lui donner. Elle tire le banc de quelques centimètres vers l’extérieur et propose qu’elles regardent le montant depuis l’allée.",
       "sections": [
         {
-          "heading": "Des limites qui ont leur place dans une vie ordinaire",
+          "heading": "Revenir à l’échange après un rappel sonore",
           "text": "Une personne qui vit avec un trouble de stress post-traumatique garde ses préférences, ses projets et ses raisons de poser des limites. Certaines situations peuvent réactiver une alerte ou rendre un échange plus difficile. Selma peut remarquer ce qui s’est passé au bruit de la bouteille. Elle peut aussi choisir l’usage de sa serre pour des raisons qui lui appartiennent. Partager des légumes au portail et inviter quelqu’un à entrer sont deux décisions différentes.\n\nDans un suivi, elle peut parler d’un moment qui lui a coûté tout en racontant ce qu’elle a apprécié. La prise en charge peut prendre en compte les activités et les relations qu’elle souhaite retrouver ou préserver. Ici, Selma a voulu cultiver, discuter avec des voisins et conserver l’accès à un lieu de famille selon ses propres règles."
         },
         {
@@ -405,18 +425,20 @@
       "continuity": {
         "choice": "Selma partage les récoltes, précise l’accès à la serre et garde une part des radis avec André.",
         "next": "Elle revient au suivi sur ce qui l’aide aujourd’hui et sur les questions de travail encore ouvertes."
-      }
+      },
+      "clinical_focus": "Retentissement attentionnel d’un rappel",
+      "clinical_intro": "Au portail, le choc d’une bouteille contre le banc suffit à faire perdre le fil à Selma. L’alerte liée au TSPT peut interrompre une conversation pendant un moment auquel la personne tient. Selma demande que la question soit répétée. Une fois revenue à l’échange, elle peut décider comment montrer la serre et quel espace elle souhaite garder pour elle."
     },
     {
       "number": 12,
       "slug": "selma-suivi-et-choix-apres-recoltes",
-      "title": "Ce que Selma retrouve et ce qui lui coûte encore après l’accident",
-      "description": "Selma prépare la suite de son suivi et garde ouvertes ses décisions professionnelles. Dans la serre, elle choisit ce qu’elle plantera ensuite.",
+      "title": "Faire le bilan du TSPT quand certains progrès côtoient des réactions persistantes",
+      "description": "Selma a repris certaines tâches et des rappels lui coûtent encore. Elle apporte des exemples différents au suivi et au médecin du travail.",
       "context": "De la serre au cabinet de sa thérapeute",
       "topics": [
-        "Retour aux activités choisies",
-        "Réactions qui persistent",
-        "Choix des appuis"
+        "Réactions persistantes",
+        "Reprise graduelle des activités",
+        "Suivi du TSPT"
       ],
       "opening": "Sur la tablette de la serre, Selma retrouve un sachet de graines avec une date inscrite trop près du pli. Elle l’avait apporté pour demander à André s’il en avait encore envie. À côté, un crayon roule jusqu’au montant vert. Elle le ramasse et note l’heure du prochain arrosage sur le papier accroché près de la porte. Avant de fermer, elle essaie d’imaginer ce qui poussera dans le rang laissé libre. Elle pense à quelque chose de jaune. Le sachet qu’elle a sous la main ne l’est pas.\n\nLe même matin, elle a reçu deux messages. Le médecin du travail lui propose de refaire le point sur les aménagements après la mission de documentation. Sa thérapeute confirme l’heure du rendez-vous de l’après-midi. Selma les copie sur deux lignes. Pendant la mission, elle a retrouvé un geste qu’elle aime, rendre un dossier utilisable pour la personne qui l’ouvrira après elle. Elle se rappelle aussi le siège de l’accueil le jour où la salle avait changé. Au prochain échange, elle veut pouvoir parler des deux.\n\nElle apporte à sa thérapeute une page où elle a écrit le détour du canal, les nuits difficiles et la conversation sous le tilleul. Le papier a pris l’odeur des sachets qui étaient au fond de son sac. Selma avait cru qu’au moment de décider du travail elle saurait tout de suite ce qu’elle voulait. Aujourd’hui, elle souhaite surtout savoir quelles options elle peut examiner. Elle tient encore à son métier et aimerait prendre le temps d’en parler.",
       "sections": [
@@ -441,7 +463,9 @@
       "continuity": {
         "choice": "Selma garde les rendez-vous de suivi, pose une question sur la suite professionnelle et décide plus tard du rang libre.",
         "next": "Les choix de travail, de soins et de jardin restent à discuter avec les interlocuteurs concernés au fil des besoins."
-      }
+      },
+      "clinical_focus": "Évolution du retentissement du TSPT",
+      "clinical_intro": "Selma a retrouvé le plaisir de préparer un dossier utile, et le changement de salle lui a coûté une matinée de travail. Le suivi du TSPT peut tenir compte de ces deux expériences, des nuits difficiles et des échanges qu’elle a repris. Ces repères permettent de discuter des appuis et de l’avenir professionnel avec les personnes concernées."
     }
   ]
 }

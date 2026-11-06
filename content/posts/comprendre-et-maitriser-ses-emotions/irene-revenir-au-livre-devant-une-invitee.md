@@ -1,23 +1,25 @@
 ---
-title: Demander un coup de main quand une invitée attend la suite
-description: Aya vient essayer le livre comme promis. Irène découvre qu’avoir une
-  bonne place ne suffit pas toujours à retrouver la suite devant une lectrice.
+title: Reprendre la conversation quand la page a déjà tourné
+description: Aya tourne la page pendant un mouvement d’Irène. Celle-ci demande à Ilyès
+  de rouvrir le pli pour reprendre sa question elle-même.
 slug: irene-revenir-au-livre-devant-une-invitee
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Irène
-sujet: Trouble des mouvements stéréotypés
+sujet: Perte du fil après un mouvement
 contexte: Dans la salle du conte, au premier essai avec une lectrice invitée
 tags:
+- Trouble des mouvements stéréotypés
 - Trouble des mouvements stéréotypiques
 - CIM-11 6A06
+- Reprise de l’échange
 - Hésitation à demander de l’aide
-- Retour à l’activité
-- Confiance dans le partenaire
+- Relais précis
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A06
+clinical_diagnosis: Trouble des mouvements stéréotypés
 episode: 8
 ---
 

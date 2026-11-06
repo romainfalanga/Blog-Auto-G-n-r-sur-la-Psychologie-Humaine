@@ -1,24 +1,26 @@
 ---
-title: Renoncer au premier rôle pour jouer la scène qu’on veut
-description: Après avoir essayé les deux rôles, Augustin choisit le voisin et précise
-  la place qu’il veut garder au moment où le jour se lève.
+title: Choisir un rôle sans se juger sur sa difficulté
+description: Augustin a trouvé une façon de poser les clés. Après l’essai des deux
+  rôles, il choisit la scène qu’il veut jouer.
 slug: augustin-le-voisin
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Augustin
-sujet: Trouble développemental de la coordination motrice
+sujet: Choix d’activité et sentiment de compétence
 contexte: au filage où la troupe fixe la distribution
 tags:
+- Trouble développemental de la coordination motrice
 - Trouble du développement de la coordination
 - TDC
 - Dyspraxie
-- Légitimité dans le groupe
-- Choix de l’aide
-- Déception et désir
+- Coordination en situation
+- Pression de faire ses preuves
+- Relais facultatif
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A04
+clinical_diagnosis: Trouble développemental de la coordination motrice
 episode: 9
 ---
 

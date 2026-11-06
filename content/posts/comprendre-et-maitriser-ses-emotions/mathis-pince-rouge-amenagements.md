@@ -1,22 +1,24 @@
 ---
-title: Partager les rôles pour protéger son attention à l’atelier
+title: Des repères pour reprendre une tâche interrompue avec un TDAH
 description: Pour préparer la permanence, Mathis et Zélie essaient une autre manière
   de traiter les arrivées pendant une réparation.
 slug: mathis-pince-rouge-amenagements
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: TDAH chez l’adulte
+sujet: Aménagement de l’attention au travail
 contexte: Lors d’un essai du poste mobile à l’atelier
 tags:
+- TDAH chez l’adulte
 - TDAH
-- Attention au travail
-- Reprise de tâche
-- Partage des rôles
+- Interruption de tâche
+- Repère de reprise
+- Aménagement de l’environnement
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A05
+clinical_diagnosis: TDAH chez l’adulte
 episode: 4
 ---
 

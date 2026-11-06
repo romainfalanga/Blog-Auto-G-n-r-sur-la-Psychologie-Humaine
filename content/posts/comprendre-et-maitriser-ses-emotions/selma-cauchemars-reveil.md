@@ -1,23 +1,25 @@
 ---
-title: Les cauchemars de Selma pèsent sur le reste de sa journée
-description: Après plusieurs nuits interrompues, Selma repère ce que la fatigue change
-  dans sa journée. Elle en parle au rendez-vous prévu.
+title: Des cauchemars liés au trauma à la fatigue qui brouille les gestes du matin
+description: Après une nuit interrompue, Selma perd le fil d’une tâche simple et apporte
+  au suivi ce que ses réveils changent dans la journée.
 slug: selma-cauchemars-reveil
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Selma
-sujet: Trouble de stress post-traumatique
+sujet: Cauchemars liés au trauma
 contexte: Dans la cuisine, avant le passage d’André
 tags:
+- Trouble de stress post-traumatique
 - TSPT
 - PTSD
-- Cauchemars et réveils
-- Fatigue dans la journée
-- Difficulté à se concentrer
+- Cauchemars liés au trauma
+- Sommeil fragmenté
+- Fatigue et concentration
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B40
+clinical_diagnosis: Trouble de stress post-traumatique
 episode: 5
 ---
 

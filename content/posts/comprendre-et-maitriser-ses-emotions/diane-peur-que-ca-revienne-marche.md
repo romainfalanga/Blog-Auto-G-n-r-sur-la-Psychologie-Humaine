@@ -1,22 +1,24 @@
 ---
-title: Craindre que la crise revienne en rentrant du marché
+title: Impression de référence et peur de revivre l’épisode psychotique
 description: Une impression familière inquiète Diane après plusieurs nuits difficiles.
   Depuis sa cuisine, elle utilise le numéro convenu avec son équipe.
 slug: diane-peur-que-ca-revienne-marche
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Diane
-sujet: Trouble psychotique aigu et transitoire
+sujet: Impression de référence
 contexte: Chez Diane après le marché, quelques jours avant l’installation des pièces
 tags:
+- Trouble psychotique aigu et transitoire
 - Psychose aiguë et transitoire
-- Peur de revivre une crise
-- Doute face à une impression persistante
-- Demander un avis à temps
+- Impression de référence
+- Peur de la rechute
+- Demander un avis clinique
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A23
+clinical_diagnosis: Trouble psychotique aigu et transitoire
 episode: 9
 ---
 

@@ -1,23 +1,25 @@
 ---
-title: 'Fatigue en cours : Clémence demande de l’aide'
+title: Une fatigue inhabituelle pendant le suivi de l’anorexie
 description: Clémence remarque une fatigue inhabituelle en cours. Elle la signale
   à l’équipe spécialisée et cherche comment suivre la prochaine séance.
 slug: clemence-page-du-cours
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Clémence
-sujet: Anorexie mentale
+sujet: Retentissement physique et vigilance
 contexte: décrire un changement physique préoccupant et adapter une obligation étudiante
   avec les personnes concernées
 tags:
+- Anorexie mentale
 - Anorexie
-- Demande d’aide
-- Confidentialité à l’université
-- Fatigue inhabituelle
+- Retentissement physique
+- Fatigue et attention
+- Demande d’évaluation médicale
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B80
+clinical_diagnosis: Anorexie mentale
 episode: 6
 ---
 

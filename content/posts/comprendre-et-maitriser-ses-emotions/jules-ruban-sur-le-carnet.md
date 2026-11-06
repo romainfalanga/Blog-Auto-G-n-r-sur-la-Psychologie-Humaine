@@ -1,26 +1,28 @@
 ---
-title: Éviter une allée du marché par peur d’une nouvelle crise
+title: Peur d’une nouvelle attaque et évitement au marché
 description: Au marché couvert, Jules évite une allée où il a eu peur. Il prépare
   son prochain rendez-vous médical et hésite à rejoindre la table de dessin.
 slug: jules-ruban-sur-le-carnet
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Jules
-sujet: Trouble panique
+sujet: Peur anticipée d’une attaque de panique
 contexte: Au stand de fleurs, alors qu’une évaluation médicale est déjà engagée
 tags:
+- Trouble panique
 - Attaques de panique
-- Peur soudaine et sensations physiques
-- Évitement d’un trajet
-- Retentissement sur les loisirs
+- Attaque de panique
+- Peur de la répétition
+- Évitement des trajets
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B01
+clinical_diagnosis: Trouble panique
 episode: 1
 ---
 
-Jules cherche un ruban assez fin pour ne pas cacher la tige des renoncules. Sonia, sa maîtresse d’apprentissage, lui a laissé composer le premier bouquet de la matinée. Il pose trois morceaux de ruban sur la table et en garde un bleu presque gris. À vingt-sept ans, il a encore l’habitude de dessiner les fleurs à côté du prix quand il veut retenir leur nom. Il envoie certains croquis à Solange, sa grand-mère. Elle lui répond parfois au dos d’une carte de son ancien quartier.
+Au marché, Jules repère la place où Samuel installe sa table de dessin et sent son ventre se nouer à l’idée de prendre l’allée centrale. Il se tourne vers les renoncules que Sonia lui a confiées pour le premier bouquet de la matinée. Sur le stand, le choix est plus facile. Il garde un ruban bleu gris assez fin pour laisser les tiges visibles. À vingt-sept ans, il dessine encore les fleurs à côté du prix pour retenir leur nom. Il envoie certains croquis à Solange, sa grand-mère, qui lui répond parfois au dos d’une carte.
 
 De l’autre côté du marché couvert, Samuel rouvre sa table de dessin du samedi. Jules y venait avant d’entrer en apprentissage. Il voudrait reprendre la place près du marchand de fromages, d’où l’on voit les enseignes peintes sous la verrière. Pour aller lui dire bonjour, il faudrait traverser l’allée centrale. C’est là qu’un matin, sans s’y attendre, il a eu le cœur qui battait très fort et s’est senti sur le point de tomber. Depuis, il passe par la porte latérale. Une autre fois, chez lui, une peur brutale l’a pris alors qu’il réparait la couverture de son carnet.
 

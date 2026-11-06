@@ -1,23 +1,25 @@
 ---
-title: Mina sent la tension revenir et précise ses limites au festival
-description: Le jour de l’ouverture, des boîtes manquent au local. Mina précise ce
-  qu’elle peut faire et confie une autre part à l’équipe.
+title: Réguler une réaction vive quand un collègue se dit indisponible
+description: Rachid ne peut pas l’aider tout de suite. Mina reconnaît sa première
+  envie de répliquer et décide quelle tâche elle peut prendre.
 slug: mina-ouverture-festival-repartir
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mina
-sujet: Trouble de la personnalité avec profil borderline
+sujet: Régulation émotionnelle au travail
 contexte: Dans le local, le premier matin du festival
 tags:
+- Trouble de la personnalité avec profil borderline
 - Profil borderline
 - Trouble borderline
-- Réaction à l’indisponibilité d’un collègue
-- Expression de ses limites au travail
-- Passage de relais dans l’équipe
+- Réactivité émotionnelle
+- Régulation de la réponse
+- Retentissement professionnel
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D10
+clinical_diagnosis: Trouble de la personnalité avec profil borderline
 episode: 10
 ---
 
@@ -27,7 +29,7 @@ Rachid passe la tête par la porte. Il est attendu pour réceptionner un autre e
 
 Mina peut préparer les enveloppes sans tous les programmes, le temps d’avoir la confirmation. Elle appelle la coordination pour signaler la boîte manquante. Elle avait espéré finir tôt et passer à l’atelier de reliure, où Béatrice laisse des personnes travailler après le cours. Elle reste un instant devant la table avant de dire ce qu’elle peut couvrir. Elle peut distribuer ce qui est prêt jusqu’à la fin de son créneau. Quelqu’un devra vérifier ensuite ce qui a été livré et ce qui manque encore.
 
-## Parler du travail à partir de la tâche en cours
+## Reconnaître une réaction récurrente au travail
 
 Un suivi peut prendre en compte les difficultés que la personne rencontre au travail et les objectifs qu’elle souhaite y garder. Le NICE prévoit de discuter d’objectifs concrets liés à l’emploi et à la vie quotidienne. Dans la scène, Mina veut accueillir les bénévoles et donner une information fiable. Elle remarque aussi l’effet qu’a sur elle la réponse de Rachid. Elle peut apporter ces deux observations au suivi et choisir de traiter la livraison avec la coordination.
 

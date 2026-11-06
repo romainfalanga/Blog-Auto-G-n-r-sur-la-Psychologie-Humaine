@@ -1,22 +1,24 @@
 ---
-title: 'Trop de bruit au kiosque : Nour fait une pause et passe le relais'
+title: Surcharge sensorielle au kiosque et choix de passer le relais
 description: Le jour de la visite, une enceinte s’allume sur le square. Nour choisit
   une pause et précise ce que Fatou peut annoncer pendant son absence.
 slug: nour-visite-pause-auvent
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nour
-sujet: Autisme
+sujet: Surcharge sensorielle en situation sociale
 contexte: Au kiosque et sous l’auvent de la boulangerie, le premier jour de visite
 tags:
+- Autisme
 - TSA
-- Sensibilité au bruit
-- Effort pour suivre la conversation
+- Surcharge sensorielle
+- Retrait temporaire
 - Relais choisi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A02
+clinical_diagnosis: Autisme
 episode: 9
 ---
 
@@ -26,7 +28,7 @@ Au bord du square, un stand branche une enceinte. Les premières notes couvrent 
 
 Fatou lui demande par message si elle veut qu’on interrompe les départs. Nour écrit qu’elle préfère laisser partir les gens. Elle voudrait garder la photo au kiosque et prendre sa pause sans qu’on en donne la raison. Fatou demande seulement s’il faut venir la retrouver. Nour regarde la rue du quai sur la feuille qu’elle a gardée. Elle répond qu’elle décidera dans quelques minutes si elle les rejoint, et qu’elle écrira si elle rentre.
 
-## Pouvoir s’arrêter au milieu d’une activité choisie
+## Reconnaître la surcharge pendant une activité choisie
 
 Une pause choisie peut permettre de décider de la suite quand un environnement devient difficile à supporter. Les sensibilités sensorielles peuvent compter dans le quotidien d’une personne autiste. Nour avait repéré le marché et prévu un autre trajet. L’enceinte introduit un son qu’elle n’avait pas anticipé. Pour elle, les mots deviennent plus difficiles à suivre et parler lui demande plus d’effort. Elle peut utiliser l’écrit et s’éloigner, y compris après avoir préparé la visite avec soin.
 

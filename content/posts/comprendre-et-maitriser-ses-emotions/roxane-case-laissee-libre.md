@@ -1,29 +1,31 @@
 ---
-title: Revoir l’aide convenue quand le rôle d’une amie change
-description: Zoé veut montrer comment elle a dessiné le pic. Roxane et elle organisent
-  les deux passages pour que chacune garde sa place.
+title: Trouver plusieurs appuis quand on craint de ne plus être comprise
+description: Zoé peut dire l’indice à un passage seulement. Roxane prépare une autre
+  façon de transmettre sa phrase au second groupe.
 slug: roxane-case-laissee-libre
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Roxane
-sujet: Trouble développemental des sons de la parole
+sujet: Autonomie dans la communication
 contexte: À l’école, autour du plan des ateliers la veille de la rencontre
 tags:
+- Trouble développemental des sons de la parole
 - Trouble du développement des sons de la parole
 - CIM-11 6A01.0
-- Exprimer ce qu’on veut faire
-- Choisir le moment d’un appui
-- Partager les rôles
+- Appui négocié
+- Anticipation de l’incompréhension
+- Support écrit
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.0
+clinical_diagnosis: Trouble développemental des sons de la parole
 episode: 10
 ---
 
 Le plan de samedi s’étend du pot à crayons jusqu’à la fenêtre. Mme Sorel a tracé une colonne pour chacun des deux passages du public. Sur le bord, Nassim fait rouler les jetons de carton pour voir lesquels tomberont les premiers. Zoé a apporté des plumes en papier pour l’atelier où elle montrera comment dessiner le pic. Elle veut que les enfants puissent commencer par un bec, ou par la queue s’ils préfèrent. Roxane a déjà écrit le prénom de Zoé à côté du deuxième indice, dans les deux colonnes, pour se rappeler leur accord au sujet du galet.
 
-Zoé pose ses plumes sur la deuxième colonne. L’atelier de dessin ouvre à ce moment-là. Elle pourra tenir la carte et faire le relais au premier passage. Au deuxième, elle veut montrer le dessin, à son atelier. Roxane a envie de répondre qu’elles avaient dit qu’elles le feraient ensemble. Elle regarde le plan : c’est elle qui a mis Zoé deux fois, sans lui en parler. Zoé n’a pas dit qu’elle ne viendrait plus jouer. Elle a dit à quel moment elle pourra être là.
+Zoé pose ses plumes sur la deuxième colonne. L’atelier de dessin ouvre à ce moment-là. Elle pourra tenir la carte et faire le relais au premier passage. Au deuxième, elle veut montrer le dessin, à son atelier. Roxane a envie de répondre qu’elles avaient dit qu’elles le feraient ensemble. À l’idée de perdre sa phrase devant le deuxième groupe, elle voudrait avoir de nouveau le galet et quelqu’un qui guette son signe. Elle regarde le plan : c’est elle qui a mis Zoé deux fois, sans lui en parler. Zoé n’a pas dit qu’elle ne viendrait plus jouer. Elle a dit à quel moment elle pourra être là.
 
 Mme Sorel attend de savoir où placer le deuxième carton. Roxane pense à la partie de billes. Une marque est utile quand tout le monde sait à quoi elle sert. Ici, elle a le droit de changer la place d’une marque. Elle pousse le galet au bord de la première colonne et laisse la deuxième vide. « Si je ne te vois pas, je pourrais leur donner la phrase à lire », dit-elle à Zoé.
 

@@ -1,24 +1,26 @@
 ---
-title: Un message de jeu détourne l’attention de Gabin pendant le dîner
+title: Quand une sollicitation de jeu suffit à raviver l’envie
 description: Une sollicitation liée au jeu interrompt le dîner. Gabin discute avec
   le service de protections qu’il peut choisir et vérifier.
 slug: gabin-message-au-dessert
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gabin
-sujet: Trouble lié aux jeux d’argent
+sujet: Envie déclenchée par une sollicitation
 contexte: réduire les sollicitations et examiner les moyens de protection avec les
   interlocuteurs compétents
 tags:
+- Trouble lié aux jeux d’argent
 - Jeux d’argent
 - Jeu pathologique
 - Sollicitations liées au jeu
-- Attention attirée par les notifications
-- Choix de ses protections
+- Envie de rejouer
+- Réduction de l’exposition
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C50
+clinical_diagnosis: Trouble lié aux jeux d’argent
 episode: 5
 ---
 

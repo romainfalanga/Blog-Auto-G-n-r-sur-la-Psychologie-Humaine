@@ -1,22 +1,24 @@
 ---
-title: 'Compulsion ou préférence : pourquoi Noémie déplace encore la carte'
-description: Noémie aime la première disposition de la vitrine. Elle cherche à séparer
-  ce goût des contrôles du métier et d’une obligation qu’elle ressent.
+title: La sensation d’inachevé qui pousse Noémie à repositionner une copie
+description: Noémie connaît les règles de conservation. Après l’essai de disposition,
+  une gêne la pousse à déplacer encore les reproductions.
 slug: noemie-place-dans-la-vitrine
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Noémie
-sujet: Trouble obsessionnel-compulsif
+sujet: Sensation d’inachevé
 contexte: Pendant l’essai de disposition des cartes aux archives
 tags:
+- Trouble obsessionnel-compulsif
 - TOC
 - Sensation d’inachevé
-- Compulsion
-- Préférence personnelle
+- Compulsion de rangement
+- Exigences de conservation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B20
+clinical_diagnosis: Trouble obsessionnel-compulsif
 episode: 3
 ---
 

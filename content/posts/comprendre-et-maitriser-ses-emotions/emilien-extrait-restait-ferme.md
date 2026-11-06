@@ -1,23 +1,25 @@
 ---
-title: 'Perte d’intérêt : Émilien délaisse les sons qu’il aimait'
+title: Quand la perte d’intérêt gagne le travail et le reste de la journée
 description: Depuis deux semaines, même les enregistrements qu’il aimait restent fermés.
   Émilien décrit ce changement à son équipe de soins.
 slug: emilien-extrait-restait-ferme
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Émilien
-sujet: Trouble bipolaire de type I
+sujet: Perte d’intérêt dans la dépression bipolaire
 contexte: reconnaître une perte d’intérêt qui dure et demander un avis sur un possible
   épisode dépressif
 tags:
+- Trouble bipolaire de type I
 - Bipolarité type I
-- Perte d’intérêt
+- Anhédonie
 - Retrait du quotidien
-- Demande de soutien
+- Repérage de la dépression bipolaire
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A60
+clinical_diagnosis: Trouble bipolaire de type I
 episode: 7
 ---
 

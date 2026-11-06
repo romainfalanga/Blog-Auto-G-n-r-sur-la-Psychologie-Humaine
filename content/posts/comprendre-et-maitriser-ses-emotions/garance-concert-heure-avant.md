@@ -1,22 +1,24 @@
 ---
-title: Le trac avant de jouer la valse en public
+title: Trac avant le concert et signes personnels de bipolarité
 description: Avant le concert, le programme change légèrement. Garance vérifie sa
   place et choisit comment attendre le moment de jouer.
 slug: garance-concert-heure-avant
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Garance
-sujet: Trouble bipolaire de type II
+sujet: Trac et contexte émotionnel
 contexte: Dans la salle des Forges, le soir du concert de quartier
 tags:
+- Trouble bipolaire de type II
 - Bipolarité type II
-- Trac et excitation
-- Émotions passagères et changements durables
-- Souplesse dans ses engagements
+- Trac
+- Sensations corporelles
+- Repérage des variations d’humeur
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A61
+clinical_diagnosis: Trouble bipolaire de type II
 episode: 11
 ---
 

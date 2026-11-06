@@ -1,24 +1,26 @@
 ---
-title: Après avoir rejoué, Gabin reprend contact avec le service
+title: Reprendre contact avec l’équipe après avoir rejoué
 description: Gabin a rejoué. Il reprend contact avec le service et met à jour ce que
   Nora doit savoir pour les dépenses communes.
 slug: gabin-feuille-a-mettre-a-jour
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gabin
-sujet: Trouble lié aux jeux d’argent
+sujet: Reprise du jeu et honte
 contexte: demander de nouveau du soutien après avoir rejoué et annoncer les conséquences
   qui touchent la colocation
 tags:
+- Trouble lié aux jeux d’argent
 - Jeux d’argent
 - Jeu pathologique
 - Reprise du jeu
-- Demande de soutien
-- Parler des conséquences à un proche
+- Honte des pertes
+- Retour rapide vers le suivi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C50
+clinical_diagnosis: Trouble lié aux jeux d’argent
 episode: 9
 ---
 

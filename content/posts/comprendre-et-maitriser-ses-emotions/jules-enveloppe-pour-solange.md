@@ -1,28 +1,30 @@
 ---
-title: Se confier à sa grand-mère et choisir l’aide dont on a besoin
+title: Parler de la peur après le diagnostic de trouble panique
 description: Jules parle du diagnostic à Solange. Il choisit ce qu’il veut lui confier
   et l’appui qu’il aimerait garder autour de ses dessins.
 slug: jules-enveloppe-pour-solange
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Jules
-sujet: Trouble panique
+sujet: Divulgation choisie du diagnostic
 contexte: Lors d’un appel à sa grand-mère, quelques jours après le diagnostic
 tags:
+- Trouble panique
 - Attaques de panique
-- Confidences choisies
-- Aide proposée et ajustée
-- Lien familial autour du dessin
+- Crainte d’être surprotégé
+- Confidentialité
+- Soutien choisi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B01
+clinical_diagnosis: Trouble panique
 episode: 4
 ---
 
-Jules a trouvé une enveloppe verte de la bonne taille pour envoyer le dessin. Il pose le téléphone sur le bord de la table et attend que sa grand-mère décroche. Solange lui demande d’abord s’il a enfin choisi la couleur du haut de la verrière. Elle avait reçu une photo du croquis et voulait savoir pourquoi il avait laissé un petit triangle en blanc. Jules lui explique que c’est là que le verre prend la lumière en fin de matinée. Il ne sait pas encore rendre cette couleur sans y mettre trop de jaune.
+Jules a répété les mots « trouble panique » avant d’appeler Solange. Il voudrait lui expliquer pourquoi il passe par l’autre porte du marché et se demande si elle va penser qu’il lui faut désormais quelqu’un pour chaque trajet. Quand elle décroche, elle lui demande s’il a choisi la couleur du haut de la verrière. Elle avait reçu une photo du croquis et se demandait pourquoi il avait laissé un triangle blanc. Jules lui explique que c’est là que le verre prend la lumière. Il écoute sa réponse avant de remettre la feuille dans l’enveloppe.
 
-Elle lui demande ensuite comment s’est passé le rendez-vous dont il lui avait parlé. Jules prononce le nom qu’il a entendu au cabinet. Il ajoute que la psychiatre et son médecin vont continuer à le suivre. Solange propose de venir au marché avec lui dès le lendemain. Elle ne connaît ni son heure d’arrivée ni les contraintes du stand. Jules sait qu’elle aurait du mal à quitter le café des voisins, où elle a promis d’apporter les jeux.
+Elle lui demande ensuite comment s’est passé le rendez-vous dont il lui avait parlé. Jules prononce le nom qu’il a entendu au cabinet. Il lui parle de l’allée et lui dit que la psychiatre et son médecin vont continuer à le suivre. Solange propose de venir au marché avec lui dès le lendemain. Elle ne connaît ni son heure d’arrivée ni les contraintes du stand. Jules sait qu’elle aurait du mal à quitter le café des voisins, où elle a promis d’apporter les jeux.
 
 Il garde un doigt sur le bord de l’enveloppe. Il n’a pas envie que Solange passe sa matinée à l’attendre devant l’allée. En revanche, il aimerait qu’elle lui dise ce qui se voit sur le dessin avant même qu’on cherche les détails. Il lui dit qu’il n’a pas besoin d’être accompagné demain. Est-ce qu’elle aurait le temps de regarder le papier quand elle le recevra ?
 

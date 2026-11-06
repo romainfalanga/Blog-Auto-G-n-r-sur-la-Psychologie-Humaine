@@ -1,23 +1,24 @@
 ---
-title: La pression de lire devant le groupe
+title: Dyslexie et pression de lire à voix haute devant le groupe
 description: Célian retrouve le geste montré par sa formatrice et perd sa place dans
   la fiche. Il lui propose une autre façon de participer.
 slug: celian-fiche-et-spatule
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Célian
-sujet: Trouble développemental des apprentissages avec déficit en lecture
+sujet: Fluence de lecture et pression sociale
 contexte: Au centre de formation d’apprentis, avant un exercice de cuisine.
 tags:
+- Trouble développemental des apprentissages avec déficit en lecture
 - Dyslexie
 - Trouble développemental de la lecture
-- Pression du temps
-- Confiance en soi
-- Lecture à voix haute
+- Fluence de lecture
+- Appréhension du regard des autres
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.0
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en lecture
 episode: 1
 ---
 
@@ -27,7 +28,7 @@ Puis les fiches passent de main en main. Aïcha propose que chaque binôme prés
 
 Maxime approche la main de la fiche et s’arrête quand Célian la rapproche de lui. Aïcha lève les yeux. Elle connaît sa dyslexie depuis le début de l’année ; il lui en a parlé seul à seul. Célian envisage de lui dire que c’est bon et d’avancer jusqu’à la fin du paragraphe. Il aperçoit la spatule sur le plan de travail. « Je peux commencer en montrant ce passage ? Laisse-moi retrouver la phrase après. » Puis il demande à Maxime de lui tenir le bol, le vrai cette fois.
 
-## Le geste est compris avant que la phrase arrive
+## Fluence de lecture et compréhension dans la dyslexie
 
 Un trouble développemental des apprentissages avec déficit en lecture peut rendre la lecture lente, imprécise ou difficile à comprendre, selon la personne et la tâche. La précision correspond aux mots lus correctement. La fluidité tient à l’aisance et au rythme avec lesquels on les lit. La compréhension concerne le sens que l’on tire du texte. Ces dimensions se rencontrent quand on lit et peuvent se révéler inégalement difficiles. S’arrêter longtemps sur une phrase ne suffit pas pour savoir ce que la personne en a compris. La lecture à voix haute d’une fiche découverte au dernier moment ne mesure pas non plus son intelligence ni l’ensemble de ses compétences. Célian sait ici expliquer comment sa formatrice manie la spatule : il l’a observée faire. Il lui faut encore retrouver dans l’écrit ce qui correspond au geste.
 

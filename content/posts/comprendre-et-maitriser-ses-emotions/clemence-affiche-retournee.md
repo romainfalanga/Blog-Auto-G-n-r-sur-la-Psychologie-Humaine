@@ -1,33 +1,35 @@
 ---
-title: 'Remarque sur l’apparence : Clémence demande l’appui de Baya'
+title: Quand une remarque sur le corps renforce la honte
 description: Une remarque dans le foyer gêne Clémence. Elle dit à Baya de quel appui
   elle aurait envie si la conversation revient sur son apparence.
 slug: clemence-affiche-retournee
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Clémence
-sujet: Anorexie mentale
+sujet: Honte corporelle et regard des autres
 contexte: choisir une réponse à une remarque personnelle et garder la main sur les
   informations partagées au ciné-club
 tags:
+- Anorexie mentale
 - Anorexie
-- Gêne face au regard des autres
-- Limites dans une conversation
-- Aide convenue entre amies
+- Honte corporelle
+- Peur du jugement
+- Limites face aux commentaires
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B80
+clinical_diagnosis: Anorexie mentale
 episode: 5
 ---
 
 Le reflet de la porte empêche Clémence de lire le bas de l’affiche. Elle l’enlève du cadre pour montrer à la référente l’endroit où la mention de l’accueil a changé. Baya tient encore le coin supérieur quand des personnes entrent dans le foyer après la séance de la semaine. Une membre du groupe salue Clémence, puis fait une remarque sur son apparence devant les autres. La phrase est terminée avant que Clémence sache si elle veut lui répondre. Elle retourne l’affiche sur le comptoir pour ne pas avoir à la tenir en l’air.
 
-Quelqu’un demande à quelle heure le foyer ouvrira pour leur soirée. Clémence a la réponse sous les yeux. Elle demande pourtant à Baya de la répéter. Quand elles sont seules près du cadre, Baya lui demande si elle souhaite reparler de ce qui vient d’arriver. Clémence a surtout envie que la remarque ne circule pas plus loin. Elle s’était préparée à expliquer le choix des films et la différence entre l’heure de la projection et celle de l’accueil. Pour répondre à cette phrase, elle n’avait rien prévu.
+Quelqu’un demande à quelle heure le foyer ouvrira pour leur soirée. Clémence a la réponse sous les yeux. Elle se demande pourtant si les autres la regardent encore et ce que la remarque a fait remarquer. Elle se répète la phrase malgré elle au moment de lire l’horaire. Elle demande pourtant à Baya de la répéter. Quand elles sont seules près du cadre, Baya lui demande si elle souhaite reparler de ce qui vient d’arriver. Clémence a surtout envie que la remarque ne circule pas plus loin. Elle s’était préparée à expliquer le choix des films et la différence entre l’heure de la projection et celle de l’accueil. Pour répondre à cette phrase, elle n’avait rien prévu.
 
 Baya cherche de nouveau le haut de l’affiche. Clémence lui dit qu’elle voudrait que le groupe parle du programme quand elles se retrouvent au foyer. Elle ne sait pas encore si elle veut elle-même reprendre la remarque avec la personne. Elle aimerait pouvoir dire à Baya quel geste l’aiderait si une conversation pareille revenait. Pour l’instant, les deux attaches du cadre sont restées ouvertes.
 
-## Garder la personne au centre de ce qu’elle dit
+## L’effet d’un commentaire sur la honte corporelle
 
 Une remarque sur l’apparence peut être difficile à recevoir et ne renseigne pas sur l’état de santé d’une personne. Dans le suivi d’un trouble des conduites alimentaires, le NICE recommande de tenir compte des difficultés que les personnes peuvent éprouver à en parler et de leur environnement social. Clémence peut vouloir poser une limite à une conversation sans dire au groupe qu’elle est suivie. Elle peut aussi reprendre cette scène avec l’équipe spécialisée si elle continue à l’occuper. L’équipe lui demandera ce qu’elle a vécu et ce dont elle a besoin. Elle peut commencer par dire ce qui lui a été difficile dans la situation.
 

@@ -1,23 +1,25 @@
 ---
-title: 'Première nuit avec la classe : Adèle hésite à rester'
+title: Décider de rester après un repas difficile sans ignorer le prochain
 description: Adèle parle à Eva avant de décider si elle reste dormir. Dans la chambre,
   elle et Inès trouvent de quoi finir leur dessin et leur prise de son.
 slug: adele-lampe-au-dessus-du-lit
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Adèle
-sujet: Trouble évitant ou restrictif de la prise alimentaire
+sujet: Anxiété liée au prochain repas
 contexte: Au centre, entre la chambre et le palier
 tags:
+- Trouble évitant ou restrictif de la prise alimentaire
 - ARFID
 - Trouble de l’alimentation sélective et évitante
-- Besoin de retrouver ses repères
-- Présence rassurante d’un proche
-- Liberté de changer d’avis
+- Anxiété anticipatoire
+- Retentissement sur le séjour
+- Choix avec un appui
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B83
+clinical_diagnosis: Trouble évitant ou restrictif de la prise alimentaire
 episode: 10
 ---
 
@@ -25,9 +27,9 @@ Inès a disposé les cahiers de part et d’autre d’un pli de la couverture. E
 
 Mme Roussel frappe au chambranle. Elle a parlé à Eva de ce qui s’est passé au réfectoire et de l’option qu’Adèle a utilisée. Eva est disponible si elle doit venir la chercher. Adèle prend le téléphone et marche jusqu’au bout du couloir. La professeure reste près des chambres pour lui laisser un peu de place. Elle entend le volet de la cuisine chez elle. Il claque si on oublie de le tirer jusqu’au crochet. Eva lui dit que la voiture est prête si elles décident qu’elle rentre. Elle lui demande aussi ce qu’elle aimerait faire le lendemain matin si elle reste.
 
-Adèle essaie de retrouver de mémoire le bruit juste avant le démarrage du métier. Elle voudrait entendre où Inès mettra le frottement. Elle voudrait aussi s’endormir dans son lit à elle. La petite salle a servi une fois. Elle demande à Mme Roussel si elle sera encore accessible demain matin. Puis elle demande à sa mère de rester au téléphone le temps d’entendre la réponse. Le volet ne claque plus ; Eva a dû le fermer.
+Adèle essaie de retrouver de mémoire le bruit juste avant le démarrage du métier. Elle voudrait entendre où Inès mettra le frottement. Elle voudrait aussi s’endormir dans son lit à elle. La petite salle a servi une fois. Elle repense au moment où elle n’a plus pu entrer dans le réfectoire. Ce qui lui importe, maintenant, c’est de savoir si elle devra tout recommencer au petit déjeuner. Elle demande à Mme Roussel si elle sera encore accessible demain matin. Puis elle demande à sa mère de rester au téléphone le temps d’entendre la réponse. Le volet ne claque plus ; Eva a dû le fermer.
 
-## Après un repas difficile, revenir à la décision du moment
+## Distinguer les craintes autour du repas et l’envie de rentrer
 
 Un repas difficile dans l’ARFID peut peser sur la décision de rester pour une activité sans résumer ce que la personne veut faire. Adèle a pu utiliser l’alternative préparée avec les adultes. Il reste à savoir comment le séjour peut continuer dans des conditions qui lui conviennent et qui respectent son suivi. Elle est aussi loin de sa chambre pour la première fois avec sa classe. Avoir envie de retrouver son lit ne dit pas, à lui seul, comment sa santé évolue ou ce dont elle aura besoin au prochain repas.
 

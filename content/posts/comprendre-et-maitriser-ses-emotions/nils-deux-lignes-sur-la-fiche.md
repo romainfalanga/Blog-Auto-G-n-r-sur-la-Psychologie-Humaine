@@ -1,22 +1,23 @@
 ---
-title: Perdre le fil quand le bruit monte
+title: Difficultés attentionnelles quand plusieurs voix se croisent
 description: À la pépinière, une question de cliente donne à Nils une idée de chronique.
   Il demande à Maud un essai hors antenne.
 slug: nils-deux-lignes-sur-la-fiche
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nils
-sujet: Schizophrénie
+sujet: Difficultés attentionnelles
 contexte: Un lundi matin, au rayon des aromatiques de la pépinière
 tags:
 - Schizophrénie
-- Attention et bruit
-- Reprendre sa place
-- Préparer un essai
+- Difficultés attentionnelles
+- Surcharge sonore
+- Repères de reprise
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A20
+clinical_diagnosis: Schizophrénie
 episode: 1
 ---
 

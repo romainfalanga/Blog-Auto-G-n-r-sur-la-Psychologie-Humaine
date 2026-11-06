@@ -1,23 +1,25 @@
 ---
-title: Fixer ses priorités en consultation d’addictologie
+title: Rester pour ses amis ou pour réussir un passage quand le jeu déborde
 description: En consultation, Côme choisit de parler des matins qu’il perd et de la
   soirée avec ses amis qu’il aimerait conserver.
 slug: come-feuille-a-deux-colonnes
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Côme
-sujet: Trouble du jeu vidéo
+sujet: Situations de perte de contrôle
 contexte: Le mercredi de la semaine suivante, à la consultation d’addictologie
 tags:
+- Trouble du jeu vidéo
 - 6C51
 - Gaming disorder
-- Priorités personnelles
-- Sommeil et fatigue
-- Demande d’aide
+- Contexte de la perte de contrôle
+- Peur de laisser ses amis
+- Objectifs de suivi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C51
+clinical_diagnosis: Trouble du jeu vidéo
 episode: 3
 ---
 

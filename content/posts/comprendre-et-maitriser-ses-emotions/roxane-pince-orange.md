@@ -1,29 +1,31 @@
 ---
-title: Se faire comprendre au moment de former une équipe
-description: La classe s’inscrit pour la rencontre à la médiathèque. Roxane hésite
-  entre écrire une énigme seule et l’essayer à deux.
+title: Quand un trouble des sons de la parole rend une idée difficile à transmettre
+description: Même au calme, l’enseignante ne saisit qu’une partie de la proposition
+  de Roxane. Que se passe-t-il quand une idée est claire pour celle qui parle ?
 slug: roxane-pince-orange
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Roxane
-sujet: Trouble développemental des sons de la parole
+sujet: Intelligibilité de la parole
 contexte: Dans la classe de Mme Sorel, au moment de former les équipes
 tags:
+- Trouble développemental des sons de la parole
 - Trouble du développement des sons de la parole
 - CIM-11 6A01.0
-- Faire entendre son idée
-- Hésitation à reprendre
-- Choisir une partenaire
+- Production des sons
+- Hésitation à répéter
+- Maintien du tour de parole
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.0
+clinical_diagnosis: Trouble développemental des sons de la parole
 episode: 1
 ---
 
 Au tableau, Mme Sorel a dessiné trois cases : « enregistrer », « fabriquer une devinette », « accueillir les visiteurs ». Il y a une pince orange au bord de chaque case. Les pinces servent à tenir les papiers, mais Roxane trouve qu’elles ressemblent à trois becs en attente du déjeuner. Elle veut la case du milieu. L’an dernier, pour la fête de l’école, toutes les réponses aux devinettes étaient écrites sous les questions. On avait juste à baisser les yeux. Cette fois, à la médiathèque, il y aura des enregistrements à écouter avant de proposer une réponse.
 
-Roxane rejoint Mme Sorel au bureau. Les autres sont déjà sortis chercher leurs manteaux. Dans ce calme, elle explique qu’elle veut commencer par un bruit dont on se ferait une fausse idée. Mme Sorel lui demande de quel oiseau elle parle. Roxane reprend les premiers mots ; l’enseignante saisit qu’il est question d’un bruit, mais pas encore ce qui doit tromper l’oreille. Roxane se demande s’il faut reprendre tout depuis le début. Sur le bureau, un feutre roule contre le pot de colle. Elle l’arrête du doigt.
+Roxane rejoint Mme Sorel au bureau. Les autres sont déjà sortis chercher leurs manteaux. Dans ce calme, elle explique qu’elle veut commencer par un bruit dont on se ferait une fausse idée. Mme Sorel lui demande de quel oiseau elle parle. Roxane reprend les premiers mots ; l’enseignante saisit qu’il est question d’un bruit, mais pas encore ce qui doit tromper l’oreille. Roxane se demande s’il faut reprendre tout depuis le début. Un instant, elle envisage de laisser tomber sa fausse piste et de dire simplement qu’elle veut la pince du milieu. Elle redoute que la nouvelle question de Mme Sorel l’emmène encore plus loin de ce qu’elle essaye de proposer. Sur le bureau, un feutre roule contre le pot de colle. Elle l’arrête du doigt.
 
 Zoé, revenue pour son cahier, voit la feuille où Roxane a tracé deux cases, « Je crois » et « J’écoute encore ». Elle demande si le même bruit peut donner deux réponses. C’est exactement le genre de question que Roxane attendait. Mme Sorel libère une place sous la pince du milieu : il reste à savoir si elles ont envie de préparer quelque chose ensemble.
 

@@ -1,24 +1,26 @@
 ---
-title: Garder une place pour soi le soir de l’audition
+title: Préserver une activité choisie malgré les inquiétudes
 description: L’école prépare une audition. Antonin garde une tâche précise et choisit
   d’écouter le reste depuis la salle, avec Benoît s’il le souhaite.
 slug: antonin-venir-comme-auditeur
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Antonin
-sujet: Trouble anxieux généralisé
+sujet: Participation et suivi de l’anxiété
 contexte: Après la réouverture, lors de la préparation d’une audition à l’école de
   musique
 tags:
+- Trouble anxieux généralisé
 - TAG
 - Anxiété généralisée
-- Plaisir partagé avec un proche
-- Limites au travail
-- Choix du soutien
+- Rétablissement dans le quotidien
+- Limites choisies
+- Suivi de l’anxiété
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B00
+clinical_diagnosis: Trouble anxieux généralisé
 episode: 12
 ---
 

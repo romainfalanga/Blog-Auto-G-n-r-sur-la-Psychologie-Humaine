@@ -1,23 +1,24 @@
 ---
-title: Reconnaître une erreur sans remettre toute sa place en jeu
+title: Peur des conséquences d’une erreur dans un climat de méfiance
 description: En relisant les horaires, Gasparde trouve une heure qu’elle a mal reportée.
   Elle propose une règle de correction que chacun pourra suivre.
 slug: gasparde-heure-a-corriger
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gasparde
-sujet: Trouble délirant
+sujet: Peur des conséquences
 contexte: Le mardi du bilan, dans le local du club
 tags:
 - Trouble délirant
 - Trouble délirant persistant
-- Peur d’être jugée
-- Répondre à une erreur
-- Clarifier les responsabilités
+- Peur des conséquences
+- Conviction persécutive
+- Responsabilité et réparation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A24
+clinical_diagnosis: Trouble délirant
 episode: 10
 ---
 

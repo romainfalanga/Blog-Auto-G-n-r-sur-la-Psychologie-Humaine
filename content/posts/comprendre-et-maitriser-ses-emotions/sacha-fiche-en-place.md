@@ -1,23 +1,25 @@
 ---
-title: Pouvoir hésiter sans qu’on parle à sa place
+title: Rediriger l’attention vers l’échange quand on surveille chaque mot
 description: Au cabinet, Sacha revient sur le café. À la graineterie, il règle avec
   Gaspard le moment où son collègue prend le plateau.
 slug: sacha-fiche-en-place
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Sacha
-sujet: Trouble d’anxiété sociale
+sujet: Déplacement du foyer de l’attention
 contexte: Le cabinet, puis la graineterie la veille de l’atelier
 tags:
+- Trouble d’anxiété sociale
 - Anxiété sociale
 - Phobie sociale
-- Aide choisie
-- Crainte d’être mal interprété
-- Besoin de temps pour répondre
+- Attention centrée sur soi
+- Attention à l’interlocuteur
+- Essai thérapeutique
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B04
+clinical_diagnosis: Trouble d’anxiété sociale
 episode: 9
 ---
 

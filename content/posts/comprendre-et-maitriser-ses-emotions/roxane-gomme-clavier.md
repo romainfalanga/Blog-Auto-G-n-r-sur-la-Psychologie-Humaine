@@ -1,30 +1,32 @@
 ---
-title: Se reconnaître dans sa voix enregistrée
-description: Roxane et Zoé choisissent les sons du montage. Elles ne sont pas d’accord
-  sur ce qui doit remplir les secondes d’attente.
+title: S’écouter parler sans réduire sa voix à une prise
+description: En réécoutant sa voix, Roxane repère un bruit de table et choisit la
+  prise dont elle reconnaît aussi le ton.
 slug: roxane-gomme-clavier
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Roxane
-sujet: Trouble développemental des sons de la parole
+sujet: Variabilité de la parole enregistrée
 contexte: Dans la petite salle attenante à la classe, au moment de monter le premier
   indice
 tags:
+- Trouble développemental des sons de la parole
 - Trouble du développement des sons de la parole
 - CIM-11 6A01.0
-- Image de sa propre voix
-- Négocier un désaccord
-- Choisir l’usage de sa voix
+- Conscience de sa voix
+- Intelligibilité en contexte
+- Choix de la prise
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.0
+clinical_diagnosis: Trouble développemental des sons de la parole
 episode: 6
 ---
 
 Mme Sorel a branché le casque sur l’ordinateur de la petite salle. Le fil est trop court pour que Zoé s’asseye en face de Roxane ; elles se retrouvent du même côté du bureau, genoux contre la même étagère. Devant elles, les fichiers sont nommés « prise 1 », « prise 2 » et « prise 3 ». Mme Sorel a posé une gomme près du clavier pour tenir le carton du premier indice. À l’écran, le tambourinage et la voix sont deux morceaux séparés. Zoé déplace le second vers le premier, puis attend que Roxane écoute.
 
-Dans la première prise, Roxane s’entend démarrer alors que Nassim tire un bout de ruban adhésif. Au casque, elle comprend pourquoi Zoé lui a demandé ce qu’elle avait dit à la fin. Dans la deuxième, elle se rappelle avoir pensé à l’endroit où elle voulait faire une pause et à la voix qu’elle avait préparée. En se réécoutant, elle a l’impression d’entendre une annonce pour les objets trouvés. Dans la troisième, elle reconnaît l’air qu’elle prend quand son père hésite entre deux réponses. Zoé dit qu’elle distingue la phrase entière dans celle-là. Elle propose de mettre une musique sous le blanc.
+Dans la première prise, Roxane s’entend démarrer alors que Nassim tire un bout de ruban adhésif. Au casque, elle comprend pourquoi Zoé lui a demandé ce qu’elle avait dit à la fin. Dans la deuxième, elle se rappelle avoir pensé à l’endroit où elle voulait faire une pause et à la voix qu’elle avait préparée. En se réécoutant, elle a l’impression d’entendre une annonce pour les objets trouvés. Elle s’était appliquée à se faire comprendre et n’avait plus pensé au ton de la devinette. Dans la troisième, elle reconnaît l’air qu’elle prend quand son père hésite entre deux réponses. Zoé dit qu’elle distingue la phrase entière dans celle-là. Elle propose de mettre une musique sous le blanc.
 
 Roxane ramène la gomme sur le carton pour le remettre droit. Elle écoute la troisième prise une nouvelle fois. Le silence l’intéresse autant que la phrase. C’est là qu’elle s’était trompée en pensant au radiateur. Elle essaie d’expliquer à Zoé pourquoi elle voudrait le conserver. Si on joue un autre son tout de suite, les visiteurs risquent de chercher d’où vient la musique au lieu de chercher qui a frappé.
 

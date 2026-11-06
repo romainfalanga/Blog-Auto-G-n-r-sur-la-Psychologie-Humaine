@@ -1,23 +1,25 @@
 ---
-title: 'Besoin de présence : s’entendre quand Lucie a prévu de sortir'
+title: Demander de la présence pendant une période de retrait
 description: Lucie tient à sa sortie à vélo. Elle et Émilien précisent ce qu’ils peuvent
   se demander sans faire reposer le suivi sur leur couple.
 slug: emilien-le-velo-de-lucie
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Émilien
-sujet: Trouble bipolaire de type I
+sujet: Soutien relationnel pendant le retrait
 contexte: parler de la disponibilité d’une partenaire pendant une période difficile
   en gardant le relais de l’équipe de soins
 tags:
+- Trouble bipolaire de type I
 - Bipolarité type I
+- Retrait dépressif
 - Besoin de présence
-- Limites dans le couple
-- Soutien des proches
+- Limites du soutien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A60
+clinical_diagnosis: Trouble bipolaire de type I
 episode: 8
 ---
 

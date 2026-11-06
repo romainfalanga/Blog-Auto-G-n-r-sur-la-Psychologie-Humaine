@@ -1,22 +1,24 @@
 ---
-title: Repérer les signes d’aggravation tout en gardant des projets
+title: Prévention des rechutes avec des repères propres à Inaya
 description: Après l’atelier, Inaya garde son suivi. Elle choisit des repères pour
   demander de l’aide et laisse de la place à d’autres projets.
 slug: inaya-plan-suivi-apres-atelier
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Inaya
-sujet: Trouble dépressif récurrent
+sujet: Prévention des rechutes dépressives
 contexte: À la boutique, puis au rendez-vous de suivi
 tags:
+- Trouble dépressif récurrent
 - Dépression récurrente
-- Repères personnels
-- Demande d’aide précoce
-- Activités choisies
+- Repérage précoce
+- Perte d’intérêt et de plaisir
+- Plan de suivi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A71
+clinical_diagnosis: Trouble dépressif récurrent
 episode: 12
 ---
 

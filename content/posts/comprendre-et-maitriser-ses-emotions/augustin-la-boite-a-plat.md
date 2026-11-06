@@ -1,24 +1,26 @@
 ---
-title: Demander de l’aide pour lever soi-même le soleil sur scène
-description: Augustin montre à son ergothérapeute pourquoi sortir le soleil de sa
-  boîte lui prend tant de temps. Il choisit un autre support à essayer.
+title: Modifier la tâche pour pouvoir faire soi-même le geste
+description: La boîte gêne la prise d’Augustin. En ergothérapie, il teste un autre
+  rangement pour pouvoir soulever lui-même le disque.
 slug: augustin-la-boite-a-plat
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Augustin
-sujet: Trouble développemental de la coordination motrice
+sujet: Contraintes matérielles de la coordination
 contexte: au rendez-vous avec l’ergothérapeute, avant la répétition du lever du soleil
 tags:
+- Trouble développemental de la coordination motrice
 - Trouble du développement de la coordination
 - TDC
 - Dyspraxie
-- Choix de l’aide
-- Effort invisible
-- Limites du partage
+- Ergothérapie
+- Prise à deux mains
+- Participation choisie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A04
+clinical_diagnosis: Trouble développemental de la coordination motrice
 episode: 5
 ---
 

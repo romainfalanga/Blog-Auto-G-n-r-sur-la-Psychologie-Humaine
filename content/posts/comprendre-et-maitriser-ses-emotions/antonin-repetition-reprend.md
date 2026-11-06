@@ -1,23 +1,25 @@
 ---
-title: 'Le local rouvre : Antonin passe le relais malgré ses inquiétudes'
+title: Passer le relais sans attendre que l’inquiétude retombe
 description: Le local a reçu son autorisation de rouvrir. Antonin accueille l’ensemble
   de clarinettes et choisit quand passer la clé à la permanence.
 slug: antonin-repetition-reprend
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Antonin
-sujet: Trouble anxieux généralisé
+sujet: Inquiétude au moment du relais
 contexte: Lors de la première répétition dans le local remis en service
 tags:
+- Trouble anxieux généralisé
 - TAG
 - Anxiété généralisée
-- Inquiétudes persistantes
-- Doute après avoir délégué
-- Limites au travail
+- Anticipation des incidents
+- Partage des responsabilités
+- Incertitude tolérée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B00
+clinical_diagnosis: Trouble anxieux généralisé
 episode: 11
 ---
 

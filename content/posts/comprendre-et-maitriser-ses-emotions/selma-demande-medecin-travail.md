@@ -1,23 +1,25 @@
 ---
-title: Selma parle au médecin du travail de ce qui lui fait perdre le fil
-description: Selma décrit les moments qui lui coûtent le plus. Avec le médecin du
-  travail, elle examine des adaptations et ce qui peut être transmis.
+title: Le retentissement du TSPT quand Selma envisage de reprendre le travail
+description: Selma explique comment les annonces et la fatigue touchent son attention.
+  Le médecin du travail examine avec elle une mission hors conduite.
 slug: selma-demande-medecin-travail
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Selma
-sujet: Trouble de stress post-traumatique
+sujet: Retentissement professionnel du TSPT
 contexte: Au service de santé au travail
 tags:
+- Trouble de stress post-traumatique
 - TSPT
 - PTSD
-- Attention au travail
-- Rappels sonores du traumatisme
-- Confidentialité médicale
+- Concentration perturbée
+- Retentissement professionnel
+- Aménagement du travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B40
+clinical_diagnosis: Trouble de stress post-traumatique
 episode: 7
 ---
 

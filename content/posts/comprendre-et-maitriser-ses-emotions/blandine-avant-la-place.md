@@ -1,23 +1,25 @@
 ---
-title: Le manque la rattrape devant la salle du chœur
-description: Blandine est arrivée au bout de la rue. Elle décide quoi dire à Léon
-  et aux deux chanteurs qui l’attendent derrière la place.
+title: Évitement des rappels du deuil quand Blandine arrive devant la salle du chœur
+description: La vue de la salle ravive le manque. Blandine annule sa venue et repère
+  ce que ce détour change aux rencontres qu’elle aimerait retrouver.
 slug: blandine-avant-la-place
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Blandine
-sujet: Trouble du deuil prolongé
+sujet: Évitement des rappels du deuil
 contexte: À l’entrée de la place de la salle du chœur, un soir de répétition
 tags:
+- Trouble du deuil prolongé
 - Deuil prolongé
 - CIM-11 6B42
-- Souvenir ravivé par un lieu
-- Évitement
-- Liberté de reporter
+- Évitement des rappels
+- Manque ravivé par un lieu
+- Retentissement social
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B42
+clinical_diagnosis: Trouble du deuil prolongé
 episode: 7
 ---
 

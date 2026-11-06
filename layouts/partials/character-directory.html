@@ -7,22 +7,44 @@
   <div class="character-search-box" role="search" aria-label="Trouver un personnage">
     <div class="character-search-field">
       <svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>
-      <input type="search" id="character-search" aria-label="Rechercher un personnage, une émotion ou un thème" placeholder="Peur de décevoir, pensées en boucle…" autocomplete="off" aria-describedby="character-count" aria-controls="character-results">
+      <input type="search" id="character-search" aria-label="Rechercher un personnage, un trouble, une émotion ou un thème" placeholder="Peur de décevoir, pensées en boucle…" autocomplete="off" aria-describedby="character-count" aria-controls="character-results">
       <button type="button" id="character-search-clear" aria-label="Effacer la recherche" hidden>Effacer</button>
     </div>
   </div>
   <p id="character-search-empty" class="character-search-empty" hidden>Aucun personnage ne réunit ces termes. Essayez un thème plus large ou retirez un mot.</p>
   {{ $registry := (readFile "scripts/personnages.json" | transform.Unmarshal).personnages }}
   {{ $searchIndex := slice }}
+  {{ $original := slice }}
+  {{ $clinical := slice }}
+  {{ $development := slice }}
+  {{ range .Site.Data.character_discovery }}
+    {{ with $.Site.GetPage (printf "/personnages/%s" .) }}{{ $original = $original | append . }}{{ end }}
+  {{ end }}
+  {{ range $characters.ByWeight }}
+    {{ if not (in $.Site.Data.character_discovery .File.ContentBaseName) }}
+      {{ if not .Params.clinical_code }}
+        {{ $original = $original | append . }}
+      {{ else if hasPrefix .Params.clinical_code "6A0" }}
+        {{ $development = $development | append . }}
+      {{ else }}
+        {{ $clinical = $clinical | append . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ $groups := slice
+    (dict "id" "mecanismes-et-emotions" "name" "Mécanismes et émotions" "pages" $original)
+    (dict "id" "troubles-psychiques" "name" "Troubles psychiques et neurocognitifs" "pages" $clinical)
+    (dict "id" "neurodeveloppement" "name" "Troubles du neurodéveloppement" "pages" $development)
+  }}
+  <nav class="character-group-links" id="character-group-links" aria-label="Sections du catalogue">
+    {{ range $groups }}{{ if .pages }}<a href="#{{ .id }}">{{ .name }}</a>{{ end }}{{ end }}
+  </nav>
   <div class="perso-grid" id="character-results">
-    {{ $ordered := slice }}
-    {{ range .Site.Data.character_discovery }}
-      {{ with $.Site.GetPage (printf "/personnages/%s" .) }}{{ $ordered = $ordered | append . }}{{ end }}
+    {{ range $groups }}
+    {{ if .pages }}
+      <h2 class="character-group-heading" id="{{ .id }}" data-character-group-heading>{{ .name }}</h2>
     {{ end }}
-    {{ range $characters.ByWeight }}
-      {{ if not (in $.Site.Data.character_discovery .File.ContentBaseName) }}{{ $ordered = $ordered | append . }}{{ end }}
-    {{ end }}
-    {{ range $ordered }}
+    {{ range .pages }}
     {{ $name := (.Params.prenom | default .Title) | lower }}
     {{ $cues := index .Site.Data.character_keywords $name }}
     {{ $presentation := .Description }}
@@ -49,7 +71,8 @@
     {{ end }}
     {{ $keywords = uniq $keywords }}
     {{ $publicParcours := .Content | replaceRE `(?s)<div class="parcours-evolution">.*?</div>` "" | plainify }}
-    {{ $searchIndex = $searchIndex | append (dict "id" .File.ContentBaseName "name" (.Params.prenom | default .Title) "profile" (printf "%s %s %s %s" $presentation .Params.profession .Params.situation $traits) "keywords" $keywords "stories" (printf "%s %s" $stories $publicParcours)) }}
+    {{ $diagnosis := .Params.clinical_diagnosis | default "" }}
+    {{ $searchIndex = $searchIndex | append (dict "id" .File.ContentBaseName "name" (.Params.prenom | default .Title) "diagnosis" $diagnosis "profile" (printf "%s %s %s %s" $presentation .Params.profession .Params.situation $traits) "keywords" $keywords "stories" (printf "%s %s" $stories $publicParcours)) }}
     <article class="perso-card" data-character-id="{{ .File.ContentBaseName }}">
       {{ $prenom := .Params.prenom | default .Title }}
       <div class="perso-card-top">
@@ -59,10 +82,11 @@
         {{ else }}<h3 class="perso-name">{{ .Title }}</h3>{{ end }}
       </div>
       {{ with $cues }}
-      <ul class="character-card-cues" aria-label="Repères dans ses histoires">{{ range .keywords }}<li>{{ . }}</li>{{ end }}</ul>
+      <ul class="character-card-cues" aria-label="Repères dans ses histoires">{{ range $i, $label := .keywords }}<li{{ if and $diagnosis (eq $i 0) }} class="diagnosis-keyword"{{ end }}>{{ $label }}</li>{{ end }}</ul>
       {{ end }}
       <a href="{{ .RelPermalink }}" class="perso-btn" aria-label="Découvrir ses histoires, {{ $prenom }}">Découvrir ses histoires</a>
     </article>
+    {{ end }}
     {{ end }}
   </div>
   <script id="character-search-index" type="application/json">{{ $searchIndex | jsonify | safeJS }}</script>

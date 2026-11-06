@@ -1,22 +1,24 @@
 ---
-title: Demander de l’aide quand le sommeil et le quotidien changent
+title: Réveils précoces et autres signes qui s’accumulent
 description: Plusieurs réveils très matinaux et des tâches devenues plus lourdes incitent
   Inaya à reprendre contact avec son équipe de soins.
 slug: inaya-reveils-signaux-suivi
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Inaya
-sujet: Trouble dépressif récurrent
+sujet: Signaux personnels d’aggravation
 contexte: À la maison avant l’aube, puis au comptoir
 tags:
+- Trouble dépressif récurrent
 - Dépression récurrente
 - Réveils précoces
-- Inquiétude
-- Demande d’aide
+- Signaux d’aggravation
+- Demande d’aide précoce
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A71
+clinical_diagnosis: Trouble dépressif récurrent
 episode: 4
 ---
 

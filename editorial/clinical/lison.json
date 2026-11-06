@@ -1,29 +1,29 @@
 {
   "character_id": "lison",
-  "bio": "Lison a vingt ans et travaille comme apprentie costumière. Elle reconnaît le tissu qui gardera son relief une fois les projecteurs allumés. Le soir, elle grave des vitrines fermées avec son amie Alba à l’imprimerie du quartier. À l’atelier, elle veut suivre la commande des quatre vestes du Quai de nuit. Une conversion peut lui prendre longtemps et elle déteste qu’on attende sa réponse au-dessus de son épaule. Avec Nora et Ilyès, elle cherche des façons de vérifier les quantités tout en gardant la main sur la commande.",
+  "bio": "Lison a vingt ans et travaille comme apprentie costumière. Elle a un trouble développemental des apprentissages avec déficit en mathématiques, appelé dyscalculie. Elle reconnaît un tissu qui gardera son relief sous les projecteurs. Passer d’une unité à l’autre et suivre les quantités d’un devis lui demandent davantage de temps. Quand on attend sa réponse au-dessus de son épaule, elle hésite à montrer son doute. Elle tient à suivre la commande des quatre vestes du Quai de nuit et à choisir les appuis qui lui permettent de vérifier ses calculs.",
   "profile_topics": [
-    "Effort invisible avec les nombres",
-    "Peur du regard des autres",
-    "Repères concrets",
-    "Choix des confidences",
-    "Autonomie et aide choisie"
+    "Trouble développemental des apprentissages avec déficit en mathématiques",
+    "Dyscalculie",
+    "Sens des nombres",
+    "Fluence du calcul",
+    "Appréhension du calcul"
   ],
   "episodes": [
     {
       "number": 1,
       "slug": "lison-dire-oui-devant-le-devis",
-      "title": "Dire oui pour cacher son doute, devant le devis",
+      "title": "Dyscalculie et peur de montrer son doute devant un devis",
       "description": "Lison trouve les matières des quatre vestes du Quai de nuit. Quand arrive la question des quantités, elle propose une autre façon de préparer le devis.",
       "context": "Un lundi matin, à la table d’échantillons de l’atelier de costumes.",
       "topics": [
-        "Effort invisible avec les nombres",
-        "Peur du regard des autres",
-        "Temps de préparation"
+        "Dyscalculie",
+        "Appréhension du calcul",
+        "Évitement du jugement"
       ],
       "opening": "Lison avance deux chutes de tissu dans le carré de soleil qui tombe sur la table. À cette heure, le sergé ocre ressemble à du cuir sec. Si elle incline le morceau, une ligne claire passe sur les côtes et disparaît. Elle le pose sur la toile ardoise. C’est ce qu’elle cherchait pour les revers des quatre vestes du Quai de nuit : un éclat qu’on ne verrait qu’au moment où les comédiens se retournent.\n\nNora, sa tutrice, pousse vers elle une demande de devis encore vierge. « On part sur ces deux-là ? Tu sais déjà quoi mettre en quantité pour l’ocre ? » Il y a le nombre de vestes. Il y a la fiche du patron. Il y a le reste du rouleau sur la mezzanine, dont elle n’a jamais vérifié l’étiquette. Lison répond « oui » avant de savoir à laquelle des deux questions elle répond. Elle entend Ilyès rembobiner une canette derrière elle. Le cliquetis s’arrête ; elle se demande s’il a entendu son oui.\n\nElle connaît cette hâte de s’en sortir avant que quelqu’un attende. Son trouble des apprentissages en mathématiques est connu depuis ses années d’école. Sur une fiche, elle peut s’en tirer en refaisant chaque étape ; à voix haute, dès qu’il faut garder le total en tête et tenir compte du stock, elle sait à quel point elle peut se précipiter. La semaine dernière, elle a encore passé sa pause à vérifier un chiffre qu’on lui avait demandé entre deux portes. Elle retire le formulaire de dessous le sergé. « Oui pour les matières. Pour la quantité, j’aimerais qu’on prenne un moment. Et c’est moi qui voudrais suivre la commande. »",
       "sections": [
         {
-          "heading": "Ce qu’un résultat juste peut coûter",
+          "heading": "Le coût invisible d’un calcul dans la dyscalculie",
           "text": "Un résultat exact peut demander un temps et un effort qui échappent aux personnes autour. Dans le trouble développemental des apprentissages avec déficit en mathématiques, aussi appelé dyscalculie développementale, les difficultés peuvent concerner le sens des nombres, la mémorisation de résultats usuels, le calcul ou le raisonnement mathématique. Elles ne touchent pas toutes ces dimensions chez tout le monde. Pour Lison, préparer la quantité d’un tissu et choisir comment deux matières accrochent la lumière sollicitent des compétences différentes. Elle peut être précise dans les deux situations, avec des conditions de travail et un effort différents. Son diagnostic a été posé par des professionnels bien avant cette scène. Une erreur de devis, à elle seule, n’aurait rien permis d’établir."
         },
         {
@@ -48,23 +48,25 @@
       "continuity": {
         "choice": "Lison confirme les deux matières, revient sur le oui précipité pour la quantité et demande à suivre la commande.",
         "next": "Nora et Lison réservent la table du fond mardi avant la pause pour reprendre les mesures du patron ; Nora conserve la validation de l’achat."
-      }
+      },
+      "clinical_focus": "Appréhension du calcul et évitement",
+      "clinical_intro": "Lison a choisi les matières des vestes et dit oui trop vite quand il faut préciser les quantités. Elle redoute de devoir calculer pendant que Nora attend sa réponse. Avec la dyscalculie, un calcul juste peut demander beaucoup de temps et d’effort. Dans cette scène, la crainte de paraître incompétente complique encore le moment de demander ce dont elle a besoin."
     },
     {
       "number": 2,
       "slug": "lison-douter-centimetres-metres",
-      "title": "Quand passer des centimètres aux mètres fait douter du bon",
+      "title": "Dyscalculie et effort pour passer des centimètres aux mètres",
       "description": "Sur un devis d’essai, Lison hésite entre deux longueurs proches à l’écrit. Elle sépare le besoin de tissu du stock encore inconnu.",
       "context": "Le mardi, à la petite table du fond, sur un formulaire d’essai.",
       "topics": [
-        "Effort de conversion",
-        "Repères concrets",
-        "Doute et vérification"
+        "Sens des nombres",
+        "Conversion des unités",
+        "Appui visuel"
       ],
       "opening": "La petite table boite. Lison cale un pied avec une page de catalogue et pose le patron de revers à côté du ruban gradué. Nora a apporté un formulaire marqué « essai », dont le verso porte déjà un prix barré. On peut écrire partout dessus. Lison commence par la disposition des pièces, qu’elle a déjà travaillée en atelier : quatre bandes de sergé, une par veste, à prendre l’une après l’autre dans la longueur du rouleau. À la largeur retenue, chaque bande de soixante centimètres permet de découper les deux pièces de revers d’une veste. Nora a prévu vingt centimètres de marge au total pour le travail d’ajustement. Lison additionne, compare avec la fiche du patron et obtient deux cent soixante centimètres.\n\nLe formulaire demande des mètres. Elle écrit « 2,06 », trouve que ça ressemble à ce qu’elle vient de dire et s’apprête à passer au tissu ardoise. Le trait de Nora sur le patron lui revient : deux longueurs d’un mètre, puis le reste. Nora n’a rien dit. Lison déroule son ruban sur la table ; il arrive au bord à un mètre et elle replie la partie qui dépasse.\n\n« Tu peux tenir ici ? » Sur le papier, elle dessine à l’échelle deux longueurs d’un mètre, puis soixante centimètres. Avec deux mètres et six centimètres, le dernier trait serait beaucoup plus court. Lison barre l’essai d’un trait fin. Il y a une seconde où elle ne sait plus où remettre le zéro, comme si la correction devait se faire en effaçant d’abord toute la ligne. Elle garde l’unité visible et réécrit le nombre entier : « 260 cm = 2,60 m ».",
       "sections": [
         {
-          "heading": "Le nombre a changé d’écriture",
+          "heading": "Sens des nombres et passage d’une unité à l’autre",
           "text": "Changer d’unité oblige à garder la même quantité tout en modifiant la façon de l’écrire. Pour une personne qui a des difficultés durables avec certaines opérations numériques, cette étape peut demander plusieurs vérifications, même si elle connaît la relation entre mètres et centimètres. Lison sait décrire la longueur qu’elle veut sur le rouleau. À l’écrit, deux nombres proches au premier coup d’œil lui donnent deux longueurs très différentes. L’OMS décrit des difficultés variables dans le calcul et le raisonnement mathématique ; la scène ne fait pas d’une inversion de chiffres un signe propre au trouble. L’intérêt de l’essai est de rendre visible l’étape où Lison a besoin d’un appui."
         },
         {
@@ -88,18 +90,20 @@
       "continuity": {
         "choice": "Lison distingue les 260 cm de besoin total, le stock à mesurer et la quantité à commander ; elle garde le dessin de conversion au dos.",
         "next": "La quantité d’ardoise déjà établie aura sa propre ligne ; Lison doit encore organiser une vérification et mesurer le stock d’ocre."
-      }
+      },
+      "clinical_focus": "Sens des nombres et conversions",
+      "clinical_intro": "Sur le devis d’essai, Lison réécrit 260 centimètres en 2,60 mètres et vérifie ce que les deux écritures représentent. Passer d’une unité à l’autre demande de conserver la même quantité tout en changeant les chiffres et leurs repères. Cette tâche illustre une difficulté possible de la dyscalculie. Garder les unités visibles l’aide aussi à distinguer le besoin de tissu du stock à mesurer."
     },
     {
       "number": 3,
       "slug": "lison-demander-une-relecture",
-      "title": "Craindre de perdre sa place quand on demande une relecture",
+      "title": "Peur du jugement quand on demande de vérifier un calcul",
       "description": "À la pause, Lison demande à Ilyès de relire la fiche d’ocre. Ils s’accordent sur ce qu’il vérifiera et le temps dont il dispose.",
       "context": "Le mercredi midi, devant le café où Ilyès prend sa pause.",
       "topics": [
         "Peur du jugement",
-        "Choix des confidences",
-        "Limites de l’aide"
+        "Appréhension du calcul",
+        "Aide ciblée"
       ],
       "opening": "Il ne reste qu’une table sèche devant le café. Ilyès suit du doigt un rond de condensation qu’un précédent verre a laissé sur le plateau. Lison laisse son téléphone face contre la table. Alba vient de lui demander si elle pourra tirer leurs cartes samedi soir à l’imprimerie. Elle veut répondre oui sans finir encore la journée à vérifier un chiffre dans sa tête.\n\nElle a répété deux fois en venant ce qu’elle voulait demander à Ilyès. Dans sa tête, il disait « donne-moi la feuille, je vais te le faire ». C’est généreux, et c’est la réponse qu’elle redoute. Elle a déjà vu un travail commencer à deux puis changer de mains à cause d’une échéance serrée. Cette fois, elle veut pouvoir expliquer pourquoi il y a du sergé sur les revers et où en est la commande, jusqu’au bout. Quand Ilyès demande si elle prend quelque chose, elle commande le même verre. Une fois les deux menthes sur la table, elle s’oblige à parler de la fiche avant de revenir au tirage des cartes.\n\n« Tu pourrais la relire avec moi demain ? Juste l’ocre. Je mesurerai le stock avant. J’aimerais que tu regardes d’où viennent les chiffres et si je les ai mis dans les bonnes cases. » Ilyès fait tourner le verre d’un quart de tour. Il a une préparation d’essayage en début d’après-midi. Il demande si ça peut tenir en dix minutes. Lison avait prévu une justification entière. Elle peut répondre à cette question-là : « Si on a le patron et la mesure devant nous, oui. Si ça ne suffit pas, on s’arrête et je retourne voir Nora. »",
       "sections": [
@@ -129,23 +133,25 @@
       "continuity": {
         "choice": "Lison demande une relecture de la seule ligne d’ocre et conserve ses informations de santé ; Ilyès accepte un créneau délimité.",
         "next": "Jeudi à onze heures quarante, Ilyès compare le patron et le relevé de stock à la fiche ; Nora reste le relais si un doute subsiste."
-      }
+      },
+      "clinical_focus": "Peur du jugement et aide ciblée",
+      "clinical_intro": "Lison demande à Ilyès de relire la ligne d’ocre et craint qu’il pense qu’elle ne peut pas suivre la commande. Les expériences difficiles avec les nombres peuvent nourrir l’appréhension d’être jugé au travail. Lison réduit cette incertitude en précisant ce qu’elle veut vérifier, à partir du patron et de la mesure, avec un temps convenu pour le faire."
     },
     {
       "number": 4,
       "slug": "lison-contredire-etiquette-reserve",
-      "title": "Hésiter à contredire l’étiquette du rouleau de réserve",
+      "title": "Douter de sa mesure quand elle contredit un nombre imprimé",
       "description": "Sur la mezzanine, la mesure du sergé contredit l’ancienne étiquette. Lison doit décider quel chiffre reporter et comment le faire vérifier.",
       "context": "Jeudi matin, dans la réserve sur la mezzanine, avant la relecture avec Ilyès.",
       "topics": [
-        "Doute sur sa mesure",
-        "Repères concrets",
-        "Trace du contrôle"
+        "Doute de soi",
+        "Vérification de mesure",
+        "Dyscalculie"
       ],
       "opening": "Le rouleau d’ocre est derrière une boîte de galons qui sent le carton humide. Lison descend la boîte de l’étagère, soulève le rouleau et trouve son étiquette rabattue sur elle-même : « 1 m », au feutre noir. Dessous, le numéro du lot, B17, a été griffonné au crayon. Elle connaît ce B aux deux ventres presque identiques, celui de la personne qui s’occupait des stocks avant qu’elle arrive. Si c’est écrit d’une main aussi sûre, pense-t-elle, le mètre devrait être là.\n\nLe tissu se déroule avec un bord froissé et une traînée de colle sèche. Lison met à part cette extrémité et cherche la partie propre sur toute la largeur, celle où elle pourrait poser le patron. Elle prend la longueur de cette partie jusqu’à l’autre bout du coupon : soixante-quinze centimètres. Elle retire le ruban puis le remet. Le même chiffre revient. En bas, quelqu’un déplace une chaise ; elle pense à l’heure et imagine Ilyès déjà devant la fiche, à attendre la mesure. Ce serait plus facile d’arriver avec l’étiquette et sa certitude d’emprunt.\n\nElle descend juste le rouleau et le ruban, en laissant l’étiquette attachée. À onze heures quarante, Ilyès ouvre le patron au bon pli. Lison lui montre la colle avant de lui dire ce qu’elle a lu. « Mets ton zéro là où, pour toi, on pourrait commencer à placer la bande. Dis-moi ce que tu trouves. » Ils discutent d’un bord un peu raide, puis alignent le ruban au même endroit. Lison lui montre enfin l’étiquette. « C’est écrit un mètre. Moi, je mesure soixante-quinze centimètres utilisables. »",
       "sections": [
         {
-          "heading": "Deux chiffres peuvent désigner des choses différentes",
+          "heading": "Distinguer un écart de mesure et une erreur de calcul",
           "text": "Une mesure peut être exacte alors que le document auquel on la compare parle d’un autre état du matériel. La vieille étiquette dit « 1 m », sans préciser si cette longueur date d’avant une coupe ou inclut la partie abîmée. Lison a mesuré ce que l’atelier peut utiliser sur ce projet. Le trouble développemental des apprentissages peut rendre certaines opérations numériques plus coûteuses ; il ne donne aucune raison d’écarter d’emblée sa mesure. Pour choisir le bon chiffre, les deux apprentis peuvent d’abord s’entendre sur les bords du tissu qu’ils mesurent. La discussion sur le bord raide concerne la matière, pas la justesse de Lison en général."
         },
         {
@@ -169,18 +175,20 @@
       "continuity": {
         "choice": "Lison fait contrôler la partie utilisable avant de reporter 75 cm et calcule le complément de 185 cm avec Ilyès.",
         "next": "Le besoin de 260 cm et le stock B17 de 75 cm à largeur 140 cm sont documentés ; la demande fournisseur peut préciser ces contraintes et doit encore être validée par Nora."
-      }
+      },
+      "clinical_focus": "Doute et vérification numérique",
+      "clinical_intro": "Sur la mezzanine, l’étiquette indique un mètre alors que Lison mesure soixante-quinze centimètres utilisables. Elle hésite avant de soutenir le chiffre qu’elle vient de relever. L’habitude de trouver certaines tâches numériques difficiles peut peser sur la confiance accordée à sa propre mesure. La reprise avec Ilyès permet de distinguer la longueur inscrite, la partie utilisable et la quantité à commander."
     },
     {
       "number": 5,
       "slug": "lison-faire-attendre-le-fournisseur",
-      "title": "Au téléphone, craindre de ralentir la commande",
+      "title": "Calcul sous pression et difficulté à garder plusieurs dimensions en tête",
       "description": "Le fournisseur propose un sergé plus étroit. Lison demande une réponse par écrit avant de décider, malgré l’échéance du lendemain.",
       "context": "Jeudi après la pause, dans l’entrée de l’atelier, pendant l’appel au fournisseur.",
       "topics": [
-        "Pression au téléphone",
-        "Largeur et longueur",
-        "Confirmation écrite"
+        "Charge cognitive",
+        "Pression du temps",
+        "Repères chiffrés"
       ],
       "opening": "Près de la porte, la radio n’arrive plus jusqu’au téléphone. Lison cale la fiche contre le tableau des horaires. Elle a demandé au fournisseur s’il reste du sergé ocre du lot B17, en cent quarante centimètres de large. À l’autre bout, Farah cherche dans le stock. Lison entend la frappe, puis un « ah » très net. Il y a bien du sergé ocre en rayon, mais en quatre-vingt-dix de large, sur un autre lot. Farah peut réserver la longueur tout de suite si c’est ce qu’il faut.\n\nLison regarde les 185 cm notés sur sa fiche. Le chiffre lui a demandé du temps et maintenant il est là, prêt. Elle est à deux doigts de le lire à voix haute. Sous la pince de son porte-documents, le dessin du patron dépasse. Le bord du sergé y est marqué par une ligne longue ; les deux pièces de revers ont été placées côte à côte. Quatre-vingt-dix, ce n’est pas l’endroit où le ruban s’arrête dans la longueur. C’est la place qu’il reste en travers. Lison se rend compte qu’elle serre le combiné depuis que Farah a parlé de réserver.\n\nNora a besoin d’un devis validé demain avant midi pour espérer une livraison dans les temps. Lison pense aux autres qui attendent pour commencer, puis à ces revers qui risquent de ne plus tenir sur une bande. « Je ne peux pas vous dire oui sur cette largeur. Vous pouvez regarder si le lot B17 existe encore en cent quarante ? Il nous faut le métrage d’un seul tenant. Et est-ce que vous pourriez m’écrire ce que vous trouvez ? »",
       "sections": [
@@ -210,23 +218,25 @@
       "continuity": {
         "choice": "Lison n’accepte pas le sergé de largeur différente et obtient la réservation du lot prévu jusqu’à vendredi midi, avec devis à suivre.",
         "next": "Elle a confirmé par écrit six mètres d’ardoise et 1,85 m continu d’ocre B17 de 140 cm de large. Nora doit valider le devis."
-      }
+      },
+      "clinical_focus": "Charge cognitive sous pression temporelle",
+      "clinical_intro": "Le fournisseur propose au téléphone un tissu plus étroit. Lison doit suivre à la fois la largeur, le métrage et l’heure de réservation. Certaines tâches numériques deviennent plus coûteuses quand plusieurs valeurs doivent rester présentes pendant qu’une réponse est attendue. Demander une confirmation écrite lui permet de reprendre les dimensions séparément et de décider selon le besoin des vestes."
     },
     {
       "number": 6,
       "slug": "lison-se-croire-fautive-devant-le-devis",
-      "title": "Se croire fautive devant deux chiffres inversés sur le devis",
+      "title": "S’accuser d’une erreur quand deux chiffres sont inversés",
       "description": "Un écart entre la demande et le devis inquiète Lison. Elle reprend le fil des échanges et demande une correction avant l’achat.",
       "context": "Vendredi matin, devant le devis reçu et le courriel envoyé la veille.",
       "topics": [
-        "Se croire fautive",
-        "Retour aux documents",
-        "Signaler un écart"
+        "Autoaccusation",
+        "Appréhension du calcul",
+        "Vérification du devis"
       ],
       "opening": "L’imprimante rend le devis en avalant le bord de la deuxième page. Lison passe la main dessus pour l’aplatir. Elle a laissé libre la table où Nora signe les achats, assez de place pour le devis, le patron et leur fiche. Six mètres de toile ardoise. Ocre B17, cent quarante de large, un seul tenant. Puis son doigt s’arrête sur « 1,58 m ». Elle revient à la fiche : « 185 cm ». La première pensée qui lui vient, avant même de refaire la conversion, c’est qu’elle l’a dit de travers au téléphone.\n\nIl y a encore du temps avant midi, mais Nora vient de déposer son stylo à côté du dossier. Lison a envie de tourner le devis, le temps que l’inversion se répare toute seule ou que quelqu’un la remarque à sa place. Elle ouvre plutôt le courriel qu’elle a envoyé à Farah. La formule de politesse lui paraît interminable. En dessous, la ligne d’ocre est bien à 1,85 m. Elle n’a aucune façon de savoir ce qui s’est passé entre la demande et le devis. Elle a les deux versions sous les yeux.\n\nNora revient avec ses lunettes. « On y va ? » Lison glisse le devis à côté de l’écran. Au début, sa voix sort plus fort qu’elle ne veut. « Attends. J’ai un écart ici. Je l’ai retrouvé dans le mail, je te montre les deux. » Puis elle prend le petit carton qui signale les dossiers en attente et le pose sur le stylo.",
       "sections": [
         {
-          "heading": "L’habitude de douter ne désigne pas l’auteur de l’erreur",
+          "heading": "L’autoaccusation quand les erreurs de chiffres sont redoutées",
           "text": "Une différence entre deux documents dit où vérifier avant de dire qui s’est trompé. Lison connaît le coût de certaines transcriptions. À la vue de chiffres inversés, elle croit d’abord que l’erreur vient d’elle. Dans la dyscalculie développementale, les exigences de rapidité et les tâches complexes peuvent rendre certaines difficultés plus visibles ; la présence d’un trouble n’explique pas chaque écart rencontré. Des personnes interrogées par Staller et ses collègues ont parlé de honte après des expériences chiffrées difficiles. Ce vécu aide à comprendre le premier mouvement de Lison. Sur le devis, ni les chiffres ni son sentiment ne permettent d’identifier l’auteur de l’écart."
         },
         {
@@ -250,18 +260,20 @@
       "continuity": {
         "choice": "Lison interrompt la validation, rapproche le devis de la demande écrite et obtient un devis corrigé ; Nora autorise ensuite l’envoi.",
         "next": "La commande est confirmée pour une réception mardi : 6 m d’ardoise et 1,85 m continu de sergé ocre B17 de 140 cm de large."
-      }
+      },
+      "clinical_focus": "Autoaccusation après une erreur redoutée",
+      "clinical_intro": "Lison voit deux chiffres inversés sur le devis et suppose aussitôt qu’elle s’est trompée. En revenant à sa demande écrite, elle retrouve le métrage convenu et peut demander au fournisseur de corriger le document. Sa peur de mal lire un nombre est compréhensible au vu de ses difficultés passées. La comparaison des traces lui permet d’identifier l’écart et d’agir dessus."
     },
     {
       "number": 7,
       "slug": "lison-effort-invisible-rendez-vous",
-      "title": "Craindre qu’on sous-estime son effort au rendez-vous de suivi",
+      "title": "Retentissement de la dyscalculie derrière un devis juste",
       "description": "Chez son orthophoniste, Lison raconte ce qui lui prend du temps derrière un devis juste. Elle choisit ce qu’elle veut essayer au travail.",
       "context": "Le lundi après la validation du devis, dans le cabinet de son orthophoniste.",
       "topics": [
-        "Effort invisible",
-        "Suivi et vie au travail",
-        "Choix des confidences"
+        "Retentissement au quotidien",
+        "Effort compensatoire",
+        "Suivi orthophonique"
       ],
       "opening": "Sur le sous-main de Mme Vasseur, Lison pose un papier plié en quatre. Sur une face, l’essai d’une vitrine qu’elle a gravée samedi avec Alba : l’encre était trop épaisse et les lettres du magasin se touchent. Au verso, Lison a dessiné une fiche d’atelier sans nom de fournisseur ni numéro de commande. Il y a trois lignes et un endroit où elle s’est remise à compter de mémoire alors que le nombre était déjà écrit.\n\nMme Vasseur, l’orthophoniste qui la suit, lui demande comment ça se passe avec la commande. Lison répond qu’elle a fini le devis vendredi. Elle pourrait s’arrêter là. Samedi, à l’imprimerie, elle a demandé à Alba de lui redire une phrase qu’elle venait d’entendre : elle vérifiait encore, en pensée, si elle avait envoyé un mètre cinquante-huit. Elle avait pourtant le courriel correct sous les yeux avant de partir. Elle se demande si ce temps vaut la peine d’être raconté. Quand le dossier est propre, elle a peur qu’on ne voie plus très bien ce qui lui a demandé du travail.\n\n« J’ai trouvé l’écart et on l’a corrigé. Le soir, j’étais encore dessus. » Elle suit les trois lignes du dessin avec le capuchon du stylo. Mme Vasseur lui demande à quel moment elle saurait que le chiffre est suffisamment vérifié pour quitter le dossier. Lison pointe la case vide qu’elle a dessinée à côté de la dernière ligne. « Là, je voudrais pouvoir écrire ce que je fais ensuite. Sans devoir tout repasser le samedi. »",
       "sections": [
@@ -292,18 +304,20 @@
       "continuity": {
         "choice": "Lison parle du coût hors atelier avec l’orthophoniste et décide d’essayer une case de reprise à la réception ; elle garde l’échange clinique privé.",
         "next": "Mardi, Lison propose à Nora le repère de reprise. Alba a un bon tirage de samedi à reproduire plus tard."
-      }
+      },
+      "clinical_focus": "Retentissement et effort compensatoire",
+      "clinical_intro": "Chez l’orthophoniste, Lison raconte le temps passé à reprendre un devis dont le montant était juste. Dans un trouble des apprentissages, un résultat satisfaisant peut reposer sur un surcroît durable d’effort ou d’appuis. Lison souhaite pouvoir interrompre un contrôle sans devoir refaire toute la suite le samedi. Elle choisit d’essayer un repère pour la réception des tissus."
     },
     {
       "number": 8,
       "slug": "lison-vouloir-verifier-seule-livraison",
-      "title": "Vouloir prouver qu’on peut tout vérifier seule à la livraison",
+      "title": "Vouloir tout vérifier seule quand une mesure bloque la suite",
       "description": "À la réception des tissus, une longueur manque. Lison suspend la vérification et note de quoi reprendre le dossier sans se fier à sa mémoire.",
       "context": "Mardi matin, le jour annoncé pour la livraison des tissus.",
       "topics": [
-        "Besoin de faire seule",
-        "Reprendre après une interruption",
-        "Passage de relais"
+        "Charge de vérification",
+        "Doute de soi",
+        "Soutien choisi"
       ],
       "opening": "Les cartons du fournisseur attendent sur la table de coupe. Lison a montré à Nora sa case « où reprendre ? » au début de la matinée, et Nora lui a proposé de s’en servir pour les points non résolus. Elle voudrait bien que cette case reste blanche aujourd’hui. Elle sort d’abord la toile ardoise. En étalant le bord sur la table, elle reconnaît le grain sec des échantillons. La référence est la bonne ; elle vérifie les six mètres et note la ligne.\n\nLe sergé ocre est emballé à part. Le bordereau donne le bon lot et la largeur prévue, mais il affiche « livré : 1,50 m », suivi de « reliquat annoncé : 0,35 m ». Lison déroule le coupon. Au moment où elle rejoint l’extrémité avec le ruban, quelqu’un l’appelle depuis la porte pour préparer l’essayage du lendemain. Elle répond que la toile est arrivée. Quand elle se retourne, elle regarde le bordereau et ne sait plus si elle était sur le point de noter sa mesure ou si elle venait de la reporter.\n\nIlyès passe chercher un portant. Elle pense lui tendre le papier, mais se ravise. Il travaille déjà pour l’essayage. Et elle voulait être capable de remettre la livraison entière à Nora en arrivant avec la fiche fermée. Elle laisse passer le portant, repère son trait sur le ruban et mesure le coupon de nouveau. Il fait bien un mètre cinquante. Elle approche le stylo de la case « conforme », puis le ramène en bas : « Ocre mesuré : 150 cm. Suite avec Nora. Ne pas couper. »",
       "sections": [
@@ -332,23 +346,25 @@
       "continuity": {
         "choice": "Lison contrôle la toile, constate 150 cm d’ocre et transmet à Nora la question du reliquat ; Nora bloque le coupon pour la coupe.",
         "next": "Le lendemain, elles doivent vérifier si 150 cm reçus et 35 cm annoncés peuvent remplacer les 185 cm commandés d’un seul tenant."
-      }
+      },
+      "clinical_focus": "Doute et charge de vérification",
+      "clinical_intro": "À la livraison, Lison mesure 150 centimètres d’ocre et s’apprête à cocher la case de conformité. Elle s’arrête pour distinguer ce qu’elle a vérifié de la décision qui reste à prendre avec Nora. Un relevé écrit lui évite de garder en tête le nombre, le statut du coupon et la question du reliquat. Elle peut transmettre un problème précis et reprendre ensuite le dossier."
     },
     {
       "number": 9,
       "slug": "lison-defendre-demande-reliquat",
-      "title": "Oser contredire le fournisseur quand le total semble juste",
+      "title": "Raisonner sur les quantités quand un total exact ne suffit pas",
       "description": "Le fournisseur propose d’envoyer le reste du métrage. Lison montre, gabarits à l’appui, pourquoi l’atelier a besoin d’un coupon d’un seul tenant.",
       "context": "Mercredi matin, à la table de coupe, avant le premier essayage en toile d’essai.",
       "topics": [
-        "Repères concrets",
-        "Doute face à la certitude",
-        "Défendre sa demande"
+        "Raisonnement mathématique",
+        "Représentation visuelle",
+        "Vérification concrète"
       ],
       "opening": "Nora a libéré la table de coupe et Ilyès a sorti les gabarits. Sur le coupon livré, Lison pose deux bandes de papier, chacune longue de soixante centimètres. Il reste un bout où passe sa main, mais une troisième bande dépasse nettement. Dans le coupon de réserve, elle en place une seule. Ilyès pose ensuite le gabarit restant devant la règle de la table : le morceau de trente-cinq centimètres que le fournisseur annonce s’arrêterait bien avant la fin.\n\nLison demande à rappeler Farah. Elle s’attend à devoir expliquer pourquoi le morceau livré est en attente depuis hier. Farah écoute, puis dit d’un ton tout à fait tranquille : « Un mètre cinquante et trente-cinq centimètres, ça fait bien un mètre quatre-vingt-cinq. Je vous envoie ce qui manque. » Lison répond d’abord « oui » pour le total. Une seconde passe, assez longue pour qu’elle imagine Nora prendre le téléphone. Elle regarde la bande qui dépasse. Ilyès en tient une extrémité pour qu’elle ne glisse pas ; il ne parle pas à sa place.\n\n« Oui pour la somme. Mais aucun morceau restant n’est assez long pour notre quatrième bande. Le devis dit d’un seul tenant. Est-ce que vous pouvez remplacer le morceau reçu par une coupe continue ? » Farah demande une photo et le numéro du devis. Lison se rend compte que c’est la première fois depuis le début de l’appel qu’elle entend le frottement du papier sous la main d’Ilyès.",
       "sections": [
         {
-          "heading": "Un total peut être juste et la solution ne pas convenir",
+          "heading": "Donner une forme visible à un problème de quantités",
           "text": "Résoudre un problème chiffré demande parfois de vérifier ce que le calcul permet de conclure dans la situation réelle. Les deux longueurs proposées totalisent bien 185 cm. Avec les 75 cm utilisables de la réserve, l’atelier retrouverait 260 cm, mais répartis sur trois coupons. Celui de 150 cm permet de prendre deux bandes de 60 cm ; celui de 75 cm, une ; celui de 35 cm, aucune. Il en faut quatre, une par veste. La marge de 20 cm est une réserve totale pour de petits ajustements. Elle ne transforme pas des chutes séparées en une bande continue. Lison peut montrer ce que la somme ne dit pas en posant les gabarits."
         },
         {
@@ -372,23 +388,25 @@
       "continuity": {
         "choice": "Lison montre que les coupons fractionnés ne permettent que trois bandes et demande un échange que Nora approuve.",
         "next": "L’échange est confirmé pour lundi. L’atelier avance sur l’essayage en toile d’essai ; le coupon livré reste intact et les revers attendent la livraison continue."
-      }
+      },
+      "clinical_focus": "Raisonnement mathématique avec appui concret",
+      "clinical_intro": "Le fournisseur propose d’envoyer le métrage manquant séparément. Lison place les gabarits pour vérifier combien de bandes les coupons permettent de découper. La somme donne une quantité totale alors que le placement dépend aussi de la longueur de chaque morceau. Cette représentation concrète aide Lison à expliquer son raisonnement et à demander une solution qui convient aux quatre vestes."
     },
     {
       "number": 10,
       "slug": "lison-rire-pour-eviter-de-compter",
-      "title": "Hésiter entre une blague et une demande d’aide à l’imprimerie",
+      "title": "Appréhension du calcul et humour entre amis",
       "description": "Alba propose deux dépôts de cartes. Lison hésite à lui laisser le compte, puis trouve une façon de préparer les deux piles avec elle.",
       "context": "Vendredi soir, à l’imprimerie associative, pour le deuxième tirage des vitrines.",
       "topics": [
-        "Humour et évitement",
-        "Repères concrets",
-        "Choix des confidences"
+        "Appréhension du calcul",
+        "Peur du regard",
+        "Comptage en situation"
       ],
       "opening": "L’enseigne est lisible sur toutes les cartes de la première planche. Lison les regarde sécher une à une. Samedi dernier, l’encre avait bouché les lettres de la vitrine jusqu’à faire disparaître le nom du magasin. Ce soir, la porte reste noire et les deux vitrages sont blancs comme en hiver. Alba a trouvé deux endroits où laisser leurs cartes : le café et la librairie. Elle demande si elles pourront en mettre six dans chaque enveloppe pour le lendemain.\n\nLison ouvre la bouche pour dire que, si on en perd une, il suffira de la vendre comme une série limitée. C’est une bonne blague et elle connaît la suite. Alba rirait, finirait le compte toute seule et mettrait peut-être les plus beaux tirages à la librairie, parce que c’est la librairie. Lison préfère que le café en ait aussi. Les gens y regardent les cartes en attendant qu’on leur rende leur monnaie. Elle a choisi cette vitrine à cause d’un soir où elle l’a vue depuis l’arrêt du bus.\n\nSur les séchoirs, il y a des cartes à plusieurs endroits. Alba lui parle en même temps des enveloppes qu’elle n’a pas encore achetées. Lison s’arrête au milieu du compte et laisse sa main à plat près du premier tirage. « Je perds le fil quand on compte et qu’on décide autre chose en même temps. On pourrait garder une place pour chaque carte ? Et les plus nettes, j’aimerais qu’on les répartisse. »",
       "sections": [
         {
-          "heading": "Une plaisanterie peut masquer une hésitation",
+          "heading": "L’appréhension du calcul dans une relation amicale",
           "text": "L’appréhension de se tromper peut conduire à passer la main sur une tâche qui compte pourtant pour soi. Parmi les adultes rencontrés par Staller et ses collègues, certains ont décrit des manières d’éviter des situations où des calculs étaient attendus. Cette étude n’explique pas chaque plaisanterie ni chaque partage des tâches. À l’imprimerie, Lison reconnaît ce qu’elle voulait faire cette fois : détourner la question, puis laisser son amie compter. Elle réalise aussi qu’en lui passant la tâche entière elle risque de renoncer au choix des tirages. Elle peut faire de la place pour les deux sujets : le compte et l’endroit où chacune voudrait que les cartes arrivent."
         },
         {
@@ -412,18 +430,20 @@
       "continuity": {
         "choice": "Lison choisit un support concret et dit à Alba de quoi elle a besoin, sans raconter son diagnostic ; elles répartissent les tirages ensemble.",
         "next": "Deux piles de six sont prêtes pour les dépôts du samedi. L’échange d’ocre reste programmé pour lundi à l’atelier."
-      }
+      },
+      "clinical_focus": "Appréhension du calcul et protection sociale",
+      "clinical_intro": "À l’imprimerie, Lison pense faire une blague et laisser Alba compter les cartes. Elle préfère lui expliquer qu’elle perd le fil lorsqu’elles comptent tout en discutant de la répartition. Cette scène montre comment le doute lié aux nombres peut peser jusque dans un projet amical. Prévoir une place pour chaque carte donne un appui sans lui enlever la décision."
     },
     {
       "number": 11,
       "slug": "lison-aide-surveillance-deballage",
-      "title": "Craindre d’être surveillée au déballage du tissu",
+      "title": "Retrouver de l’assurance avec un contrôle choisi",
       "description": "Lison réceptionne le bon coupon et propose à Nora un partage précis entre les étapes qu’elle peut faire seule et celles qu’ils vérifieront à deux.",
       "context": "Lundi, le jour de l’échange, à la table de réception de l’atelier.",
       "topics": [
-        "Autonomie et aide choisie",
-        "Peur d’être observée",
-        "Vérifier à deux"
+        "Sentiment de compétence",
+        "Mesure indépendante",
+        "Autonomie au travail"
       ],
       "opening": "Le chauffeur dépose un paquet long et repart avec celui qui attend depuis mardi. Lison garde le bordereau de retour. L’étiquette neuve est collée sur la couture du papier ; il faut la lire avant de déchirer l’emballage. B17. Cent quarante de large. Elle pose le paquet du côté où la table est éclairée. Nora arrive avec le dossier sous le bras et annonce qu’elle va rester pour regarder toutes les lignes.\n\nLison coupe le ruban adhésif. Elle voudrait dire qu’il n’y a pas besoin de quelqu’un à sa droite pour lire un numéro de lot. Pourtant, dès qu’elle imagine Nora partir, elle revoit la mention « reliquat » du bordereau de mardi dernier. Le contrôle doit bien avoir lieu. Seulement, si Nora lui demande « tu en es où ? » à chaque fois qu’elle change de document, Lison lui expliquera la fiche pendant qu’elle essaie de la remplir.\n\nLe sergé se déroule. Lison rapproche l’échantillon de la réserve ; la lumière glisse de la même façon sur les côtes. Elle passe un doigt dessous pour sentir qu’il n’y a ni raccord ni pli qui cache une deuxième pièce. « J’ai la référence et la teinte. Laisse-moi noter les éléments du paquet et mesurer d’abord. Quand j’ai fini, Ilyès peut reprendre la longueur de son côté. Ensuite, tu valides la réception avec nous. » Nora serre le dossier contre sa hanche, puis demande où le poser pour que Lison puisse y trouver le devis.",
       "sections": [
@@ -452,18 +472,20 @@
       "continuity": {
         "choice": "Lison prépare seule le relevé courant, Ilyès contrôle la longueur indépendamment et Nora valide la réception et classe le retour.",
         "next": "Le remplacement de 185 cm d’un seul tenant est disponible avec les 75 cm de réserve. Le plan prévoit trois bandes dans le nouveau coupon et une dans l’ancien."
-      }
+      },
+      "clinical_focus": "Sentiment de compétence et vérification",
+      "clinical_intro": "Lison redoute qu’on la regarde mesurer le tissu à la réception. Elle propose de relever la longueur seule, puis de comparer sa mesure à celle qu’Ilyès prendra de son côté. Un contrôle préparé avec elle répond au besoin de fiabilité tout en lui laissant le temps nécessaire. La scène permet de distinguer l’appui utile et la pression qu’elle ressent quand quelqu’un attend son chiffre."
     },
     {
       "number": 12,
       "slug": "lison-garder-la-main-commande",
-      "title": "Oser demander encore une vérification après une commande réussie",
+      "title": "Garder des appuis pour le calcul après une commande réussie",
       "description": "À l’essai sous les projecteurs, Lison voit les revers des quatre vestes en mouvement. Pour la commande suivante, elle choisit quels appuis garder.",
       "context": "Une dizaine de jours plus tard, au théâtre, pendant l’essai des vestes sous les projecteurs.",
       "topics": [
-        "Reconnaître ses compétences",
-        "Autonomie et aide choisie",
-        "Ajuster l’aide"
+        "Persistance de la dyscalculie",
+        "Sentiment de compétence",
+        "Appuis au travail"
       ],
       "opening": "Depuis le dernier rang, Lison distingue à peine les boutons. La régisseuse a baissé la lumière pour l’essai. Sur scène, une comédienne passe derrière les trois autres et revient de profil. Les revers prennent un peu de couleur, juste au tournant. Lison voit l’ocre au moment où la comédienne ramène son coude ; il s’efface quand elle se remet de face. Elle se penche au-dessus du siège vide devant elle pour ne rien rater.\n\nNora s’assoit en laissant entre elles la pochette du Quai de nuit. Il y a dedans le plan de coupe, le bordereau de retour et la réception signée. La facture a été rapprochée de la commande à l’atelier. Lison a porté jusqu’au bout les échanges avec Farah. Nora le lui dit en peu de mots, puis montre une photo sur son téléphone : pour un autre spectacle, il faudrait préparer un métrage sur un tissu à carreaux. « Tu penses que la fiche marcherait aussi ? »\n\nLa lumière revient. Lison voit des carreaux avant de voir les lignes du patron. Elle sait qu’ils pourraient compliquer le placement et qu’elle voudra regarder comment les lignes se rejoignent sur la veste. Elle a envie de répondre qu’elle peut tout reprendre seule. Nora vient de lui dire qu’elle a bien fait ; elle aimerait prolonger ce moment. Elle ouvre plutôt la pochette entre elles. « Je peux préparer les références et la fiche. Sur le placement, il me faut le patron et la largeur. On reverra le métrage à deux avant d’écrire au fournisseur ? »",
       "sections": [
@@ -492,7 +514,9 @@
       "continuity": {
         "choice": "Lison clôt la commande, reconnaît les appuis utilisés et demande un contrôle sur le nouveau métrage avant tout devis.",
         "next": "Les quatre vestes sont essayées sous les projecteurs. La fiche et les relais restent disponibles pour la prochaine commande, dont le patron et la largeur seront repris à la table de coupe."
-      }
+      },
+      "clinical_focus": "Autonomie et persistance des difficultés",
+      "clinical_intro": "Les quatre vestes sont prêtes et Lison voit enfin comment l’ocre apparaît sous les projecteurs. Pour la commande suivante, elle demande encore une vérification du métrage avant le devis. Un trouble durable du calcul peut coexister avec une maîtrise croissante du métier. La réussite lui donne des informations sur les aides qu’elle veut conserver et les décisions qu’elle peut préparer seule."
     }
   ]
 }

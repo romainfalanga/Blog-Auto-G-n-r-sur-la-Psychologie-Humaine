@@ -1,23 +1,25 @@
 ---
-title: Reprendre le montage à son rythme après un épisode maniaque
+title: Reprendre le montage après un épisode maniaque
 description: Après l’épisode maniaque, Émilien reprend une séance courte au studio
   et redéfinit sa part du projet avec Dorian.
 slug: emilien-vingt-minutes-de-bande
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Émilien
-sujet: Trouble bipolaire de type I
+sujet: Rétablissement après un épisode maniaque
 contexte: revenir à une activité qui compte après un épisode et ajuster la charge
   dans la durée
 tags:
+- Trouble bipolaire de type I
 - Bipolarité type I
 - Reprise progressive
-- Limites de travail
-- Décisions en commun
+- Répartition des tâches
+- Rétablissement au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A60
+clinical_diagnosis: Trouble bipolaire de type I
 episode: 6
 ---
 

@@ -1,26 +1,28 @@
 ---
-title: Poser ses limites avant de promettre une date pour l’atelier
+title: Dépression récurrente et peur de promettre trop tôt
 description: Fleuriste, Inaya prépare un atelier avec sa sœur. Son trouble dépressif
   récurrent fait partie de son histoire, et son suivi est déjà en place.
 slug: inaya-affiche-sans-date
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Inaya
-sujet: Trouble dépressif récurrent
+sujet: Récurrence des épisodes dépressifs
 contexte: La boutique, avant l’ouverture
 tags:
+- Trouble dépressif récurrent
 - Dépression récurrente
-- Élan retrouvé
-- Engagements réalistes
-- Expression des limites
+- Épisodes dépressifs récurrents
+- Fluctuation de l’énergie
+- Anticipation d’une rechute
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A71
+clinical_diagnosis: Trouble dépressif récurrent
 episode: 1
 ---
 
-Dans la boutique, les pinces de Myriam tiennent mal le papier contre la vitre. Elle se met sur la pointe des pieds, regarde dehors, puis redescend pour déplacer l’une des pinces. « De la rue, on lit “bouquets de sais”. » Inaya lui tend une feuille plus courte. Elles ont déjà écrit trois titres pour le même atelier. Leur père aurait coupé tout ce qui dépassait et mis le mot fleurs en plus gros. Elles essaient cette version pour voir et éclatent de rire en constatant qu’on pourrait la lire de l’arrêt de bus.
+Inaya et Myriam éclatent de rire devant leur affiche trop grande. Inaya se surprend à vouloir préparer l’atelier tout de suite. Elle se souvient pourtant d’avoir fixé des rendez-vous par enthousiasme, puis d’avoir eu du mal à les tenir pendant ses épisodes dépressifs. Myriam déplace les pinces contre la vitre. Elles essaient une feuille plus courte qui laisse la place aux fleurs et au titre. Inaya s’imagine expliquer les gestes de leur père à un petit groupe. La perspective lui plaît et la question de la date la retient déjà.
 
 Il est encore tôt. Inaya choisit dans un seau une renoncule dont la tige fait un crochet sous la corolle. C’est le genre de fleur qu’elle aime montrer aux gens qui veulent couper tout ce qui part de travers. Elle imagine la table : six personnes, des branches à faire circuler, un bouquet que personne ne devrait avoir à reproduire. Myriam voudrait aussi un coin où poser les manteaux. Elle a vu la petite salle prêtée par la maison de quartier et se souvient surtout du radiateur contre lequel on coince le portemanteau.
 

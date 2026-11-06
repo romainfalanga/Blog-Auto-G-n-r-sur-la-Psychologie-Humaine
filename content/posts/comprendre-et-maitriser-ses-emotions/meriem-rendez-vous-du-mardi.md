@@ -1,23 +1,25 @@
 ---
-title: Reprendre confiance en décidant du rythme du suivi
-description: Meriem explique à sa thérapeute ce qui lui a coûté après la visite. Elle
-  choisit une première question et un créneau qui lui convient.
+title: L’alliance thérapeutique quand Meriem redoute de poser une question difficile
+description: Meriem demande comment garder du temps pour ses questions de suivi et
+  examine ce qui l’a conduite à manquer l’atelier.
 slug: meriem-rendez-vous-du-mardi
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Meriem
-sujet: Trouble de stress post-traumatique complexe
+sujet: Confiance dans le suivi
 contexte: En séance avec sa thérapeute
 tags:
+- Trouble de stress post-traumatique complexe
 - TSPT complexe
 - CPTSD
-- Confiance dans les relations
-- Poser ses limites
-- Parler de ce qu’on ressent
+- Alliance thérapeutique
+- Confiance
+- Continuité des soins
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B41
+clinical_diagnosis: Trouble de stress post-traumatique complexe
 episode: 9
 ---
 

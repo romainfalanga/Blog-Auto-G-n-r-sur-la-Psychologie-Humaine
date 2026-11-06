@@ -1,22 +1,24 @@
 ---
-title: Parler de sa fatigue en consultation, à l’écrit
+title: Comprendre la fatigue après des échanges et des imprévus
 description: Nour prépare par écrit un rendez-vous sur sa fatigue. Elle choisit les
   situations à examiner et les aménagements qui l’aideraient à en parler.
 slug: nour-consultation-format-fatigue
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nour
-sujet: Autisme
+sujet: Fatigue et retentissement au quotidien
 contexte: Au centre qui accompagne Nour, avant la visite test
 tags:
+- Autisme
 - TSA
-- Fatigue après l’effort
-- Communication écrite
-- Choix du soutien
+- Fatigue après les échanges
+- Surcharge sensorielle
+- Évaluation en consultation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A02
+clinical_diagnosis: Autisme
 episode: 6
 ---
 

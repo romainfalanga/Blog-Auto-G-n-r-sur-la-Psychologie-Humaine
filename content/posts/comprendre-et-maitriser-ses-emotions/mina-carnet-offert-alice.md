@@ -1,23 +1,25 @@
 ---
-title: Offrir un cadeau quand on redoute la réaction de l’autre
-description: Mina termine le carnet d’Alice. Elle le lui offre et lui laisse le temps
-  de choisir quand et comment elle l’utilisera.
+title: La réponse différée d’Alice réveille la crainte du rejet au moment du cadeau
+description: Alice dit « Attends » en tenant son cabas. Mina s’interroge aussitôt
+  sur la valeur du cadeau et laisse à Alice le temps de répondre.
 slug: mina-carnet-offert-alice
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mina
-sujet: Trouble de la personnalité avec profil borderline
+sujet: Crainte du rejet dans l’attente
 contexte: Sur le banc devant l’atelier de reliure
 tags:
+- Trouble de la personnalité avec profil borderline
 - Profil borderline
 - Trouble borderline
-- Inquiétude devant une réponse différée
-- Liberté de réagir à un cadeau
-- Plaisir de faire un objet pour quelqu’un
+- Sensibilité au rejet
+- Interprétation d’une réponse brève
+- Attente d’une réponse
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D10
+clinical_diagnosis: Trouble de la personnalité avec profil borderline
 episode: 11
 ---
 
@@ -27,7 +29,7 @@ Alice lui a dit qu’elle pourrait passer devant l’atelier après avoir rendu 
 
 Alice arrive avec un cabas trop plein pour recevoir un autre paquet. Elle s’assied à côté de Mina et en retire le sac d’un costume. Mina lui tend le carnet. Alice dit « Attends » en continuant de chercher de la place. Pendant un instant, Mina a envie de savoir si elle aurait préféré acheter le sien. Alice tient à présent d’une main une boîte de boutons dont le couvercle se soulève. Elle pose le paquet sur le banc et lui demande si elle préfère l’ouvrir ici ou chez elle.
 
-## Faire de la place à la réponse de l’autre
+## Laisser le temps d’une réponse quand le rejet paraît imminent
 
 Dans un lien qui compte, une réponse différée peut susciter des inquiétudes et des questions sur ce que l’autre pense. Mina peut ressentir cette inquiétude et laisser à Alice le temps de trouver où poser ses affaires. Elle peut lui demander ce qu’elle préfère faire du cadeau. Elle peut aussi garder pour une autre conversation les sujets qu’elle aimerait reprendre avec sa cousine.
 

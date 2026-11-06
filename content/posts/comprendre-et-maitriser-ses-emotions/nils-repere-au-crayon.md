@@ -1,22 +1,23 @@
 ---
-title: Reprendre la parole quand les indications s’accumulent
+title: Fluctuation de l’attention lors d’une reprise après une inquiétude clinique
 description: De retour au studio, Nils perd sa phrase lorsque deux indications arrivent
   ensemble. Il modifie la répétition avec Maud.
 slug: nils-repere-au-crayon
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nils
-sujet: Schizophrénie
+sujet: Fluctuation de l’attention
 contexte: Le mercredi suivant, au studio, après les annonces habituelles
 tags:
 - Schizophrénie
-- Reprendre sa place
-- Attention et bruit
-- Surcharge cognitive
+- Fluctuation de l’attention
+- Récupération du fil
+- Évolution du trouble
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A20
+clinical_diagnosis: Schizophrénie
 episode: 8
 ---
 

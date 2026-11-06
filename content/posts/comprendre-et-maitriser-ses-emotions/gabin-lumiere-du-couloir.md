@@ -1,23 +1,25 @@
 ---
-title: Gabin dit à Nora qu’il a peur de se faire du mal
+title: La détresse aiguë après une reprise du jeu
 description: Quand Gabin dit qu’il a peur de se faire du mal, Nora l’aide à demander
   un appui urgent. La discussion sur le loyer attendra.
 slug: gabin-lumiere-du-couloir
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gabin
-sujet: Trouble lié aux jeux d’argent
+sujet: Détresse aiguë et sécurité
 contexte: mobiliser une aide urgente quand la sécurité devient une préoccupation immédiate
 tags:
+- Trouble lié aux jeux d’argent
 - Jeux d’argent
 - Jeu pathologique
 - Détresse aiguë
-- Expression d’une peur
-- Appui urgent
+- Exprimer un risque pour soi
+- Relais urgent
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C50
+clinical_diagnosis: Trouble lié aux jeux d’argent
 episode: 10
 ---
 

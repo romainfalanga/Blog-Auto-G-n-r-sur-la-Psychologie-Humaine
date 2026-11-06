@@ -1,23 +1,26 @@
 ---
-title: Quand une petite erreur déclenche de la honte
-description: Le patron de la pochette est imprimé trop petit. Meriem sait le corriger
-  ; elle peine à croire que le problème se limite à la feuille.
+title: Dévalorisation persistante quand Meriem prend une erreur pour un jugement sur
+  elle
+description: Meriem trouve comment corriger un tirage. La honte reste vive et lui
+  fait encore douter de sa place à l’atelier.
 slug: meriem-carre-de-controle
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Meriem
-sujet: Trouble de stress post-traumatique complexe
+sujet: Honte et dévalorisation persistante
 contexte: Une première copie à l’atelier
 tags:
+- Trouble de stress post-traumatique complexe
 - TSPT complexe
 - CPTSD
-- Honte et autocritique
-- Régulation émotionnelle
-- Réparer une erreur
+- Dévalorisation persistante
+- Honte liée au trauma
+- Retentissement sur l’initiative
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B41
+clinical_diagnosis: Trouble de stress post-traumatique complexe
 episode: 2
 ---
 

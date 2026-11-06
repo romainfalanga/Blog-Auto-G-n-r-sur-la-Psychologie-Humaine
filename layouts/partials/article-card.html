@@ -9,7 +9,9 @@
   {{- else }}
   <h2 class="card-title"><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h2>
   {{- end }}
-  {{- with $page.Description }}<p class="card-description">{{ . | plainify | truncate 190 }}</p>{{ end }}
+  {{- $description := $page.Description }}
+  {{- with index $page.Site.Data.article_intros $id }}{{ if eq .method "reviewed_clinical_intro" }}{{ $description = .text }}{{ end }}{{ end }}
+  {{- with $description }}<p class="card-description">{{ . | plainify | truncate 190 }}</p>{{ end }}
   {{- $keywords := slice -}}
   {{- with $cues.keywords }}{{ $keywords = first 3 . }}{{ end -}}
   {{- if $keywords }}

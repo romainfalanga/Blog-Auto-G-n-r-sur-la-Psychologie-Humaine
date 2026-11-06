@@ -1,22 +1,23 @@
 ---
-title: Repérer un changement et appeler avant d’en être sûr
+title: Impression de référence quand une phrase banale semble adressée à soi
 description: Après deux mauvaises nuits et des impressions plus insistantes, Nils
   appelle l’équipe de secteur. Il choisit de reporter la répétition.
 slug: nils-appel-avant-la-repetition
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nils
-sujet: Schizophrénie
+sujet: Impression de référence
 contexte: Le vendredi, entre la fin du travail et la répétition prévue
 tags:
 - Schizophrénie
-- Doutes sur ses perceptions
-- Signaux d’alerte personnels
-- Demander du soutien
+- Impression de référence
+- Changements du sommeil
+- Repérer une aggravation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A20
+clinical_diagnosis: Schizophrénie
 episode: 6
 ---
 

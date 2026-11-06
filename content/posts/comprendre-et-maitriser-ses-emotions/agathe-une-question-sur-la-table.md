@@ -1,24 +1,26 @@
 ---
-title: Garder le fil des questions devant les CM1
-description: Devant les CM1, Agathe choisit ce qu’elle dit, reprend une question et
-  laisse les nouveaux élèves proposer leurs propres choix.
+title: Demander qu’on reprenne une question pour pouvoir y répondre
+description: Devant les CM1, Agathe perd la première question quand les suivantes
+  arrivent. Elle demande à revenir à une seule question.
 slug: agathe-une-question-sur-la-table
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Agathe
-sujet: Trouble développemental du langage
+sujet: Clarification avant la réponse
 contexte: Jeudi, dans la salle de lecture. Inès distribue les copies ; Camille a apporté
   la boîte bleue.
 tags:
+- Trouble développemental du langage
 - TDL
 - DLD (developmental language disorder)
-- Demander de reprendre une question
-- Partager les tours de parole
-- Laisser une décision ouverte
+- Questions simultanées
+- Langage expressif
+- Maintien de la participation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.2
+clinical_diagnosis: Trouble développemental du langage
 episode: 11
 ---
 

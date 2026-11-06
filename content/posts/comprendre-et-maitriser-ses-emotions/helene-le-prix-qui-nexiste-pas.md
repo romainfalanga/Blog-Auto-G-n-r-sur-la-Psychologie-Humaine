@@ -1,23 +1,25 @@
 ---
-title: Faire une pause quand les informations arrivent de tous côtés
+title: Surcharge d’informations et besoin de reprendre une chose à la fois
 description: Une cliente cherche le prix de la tasse bleue. Hélène comprend ce que
   le panneau et les affiches du samedi lui ont laissé croire.
 slug: helene-le-prix-qui-nexiste-pas
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Hélène
-sujet: Trouble du développement intellectuel
+sujet: Surcharge d’informations au travail
 contexte: Dans l’allée centrale, pendant le premier essai auprès des clients
 tags:
+- Trouble du développement intellectuel
 - TDI
 - Troubles du développement intellectuel
+- Surcharge d’informations
 - Attention divisée
-- Besoin de pause
-- Point de vue des autres
+- Autorégulation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A00
+clinical_diagnosis: Trouble du développement intellectuel
 episode: 5
 ---
 
@@ -27,7 +29,7 @@ Une femme se présente comme Hélène et lui demande si elle veut bien dire ce q
 
 Véra se demande si elle a dit quelque chose de vexant. « J’ai cru qu’on vendait celle de la photo », précise-t-elle. Hélène se place alors à côté d’elle, là où la vue s’ouvre entre les manteaux et la table de plats. Elle dit : « Ah oui. Toutes les offres commencent ici aussi. » Elle demande à Véra si elle veut les bols empilables ou ceux qu’on peut tenir par les bords sans se réchauffer les mains. Véra n’avait pas pensé à cette différence. Elle choisit les empilables.
 
-## Lire l’erreur depuis l’endroit où elle se produit
+## Trier les informations quand les demandes s’accumulent
 
 Un essai peut révéler que plusieurs messages se disputent le regard au même endroit. L’offre de verres et la photo de la tasse se ressemblent dans le champ de vision de Véra. Elle cherche donc un prix, ce qui est raisonnable. La flèche ne lui indique pas clairement quand tourner, parce qu’une autre table occupe le premier plan. Hélène gagne une information en se mettant à la place d’où Véra a lu le panneau.
 

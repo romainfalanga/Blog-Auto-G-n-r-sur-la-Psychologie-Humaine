@@ -1,23 +1,25 @@
 ---
-title: Repérer quand il devient difficile de décrocher en jouant seul
+title: Repérer l’ennui et les moments où décrocher du jeu devient difficile
 description: La psychologue et Côme reprennent la soirée qui lui a coûté le plateau.
   Il cherche comment parler à un ami avant de rester bloqué.
 slug: come-avant-le-deuxieme-essai
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Côme
-sujet: Trouble du jeu vidéo
+sujet: Ennui et envie de continuer
 contexte: Le vendredi midi, lors du rendez-vous avancé à la consultation d’addictologie
 tags:
+- Trouble du jeu vidéo
 - 6C51
 - Gaming disorder
-- Envie de rejouer
-- Difficulté à s’arrêter
-- Demande de compagnie
+- Ennui avant de jouer
+- Difficulté à interrompre le jeu
+- Demander de l’aide plus tôt
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C51
+clinical_diagnosis: Trouble du jeu vidéo
 episode: 7
 ---
 

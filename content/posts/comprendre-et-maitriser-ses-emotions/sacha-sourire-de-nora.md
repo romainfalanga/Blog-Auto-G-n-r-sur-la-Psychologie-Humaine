@@ -1,23 +1,25 @@
 ---
-title: Repasser un échange dans sa tête à cause d’un sourire
+title: Rumination après un échange et interprétation d’un sourire
 description: Sacha refait le rempotage devant Nora. Il repart en repensant à un sourire,
   alors que sa responsable s’interroge sur la place de la table.
 slug: sacha-sourire-de-nora
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Sacha
-sujet: Trouble d’anxiété sociale
+sujet: Rumination après une interaction sociale
 contexte: La graineterie après la fermeture, puis le trajet du retour
 tags:
+- Trouble d’anxiété sociale
 - Anxiété sociale
 - Phobie sociale
-- Rumination après l’échange
-- Interprétation d’un sourire
-- Demande de retour concret
+- Rumination après-coup
+- Interprétation d’un signal ambigu
+- Peur du jugement
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B04
+clinical_diagnosis: Trouble d’anxiété sociale
 episode: 6
 ---
 

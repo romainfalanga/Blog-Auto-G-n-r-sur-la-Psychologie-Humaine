@@ -1,22 +1,24 @@
 ---
-title: 'Réassurance en couple : quand une preuve ne suffit plus'
-description: Maud a confirmé avoir fermé l’appartement. Noémie lui redemande de vérifier
-  et découvre ce que ces demandes ont pris dans leurs soirées.
+title: La recherche de réassurance quand Noémie redemande une preuve à Maud
+description: Maud a confirmé la fermeture de la porte. Noémie veut pourtant un détail
+  de plus. Elles découvrent comment ce réflexe prend de la place à deux.
 slug: noemie-message-de-maud
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Noémie
-sujet: Trouble obsessionnel-compulsif
+sujet: Recherche de réassurance
 contexte: Après le travail, pendant un détour à l’épicerie avec Maud
 tags:
+- Trouble obsessionnel-compulsif
 - TOC
-- Réassurance répétée
-- Doute persistant
-- Limites de l’aide
+- Recherche de réassurance
+- Soulagement de courte durée
+- Implication des proches
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B20
+clinical_diagnosis: Trouble obsessionnel-compulsif
 episode: 4
 ---
 

@@ -1,23 +1,25 @@
 ---
-title: Faire confiance à son équipe pour tenir la table
+title: Passer le relais sans perdre le fil des informations importantes
 description: Le match vient de finir. Au goûter, Célian garde un œil sur les parts
   alors qu’on l’appelle de l’autre côté de la salle.
 slug: celian-faire-confiance-a-la-table
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Célian
-sujet: Trouble développemental des apprentissages avec déficit en lecture
+sujet: Autonomie et relais de vérification
 contexte: Dans la salle du club, le samedi de la rencontre de volley.
 tags:
+- Trouble développemental des apprentissages avec déficit en lecture
 - Dyslexie
 - Trouble développemental de la lecture
 - Autonomie
-- Confiance en soi
-- Partage des responsabilités
+- Vérification écrite
+- Relais de responsabilité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.0
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en lecture
 episode: 11
 ---
 

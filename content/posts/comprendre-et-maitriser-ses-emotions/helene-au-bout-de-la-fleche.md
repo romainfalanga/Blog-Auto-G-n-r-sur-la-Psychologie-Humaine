@@ -1,23 +1,25 @@
 ---
-title: Plus d’autonomie au travail avec des appuis qu’on peut ajuster
+title: Adapter son soutien pour garder la main au travail
 description: Les panneaux sont en place. Hélène décide ce qui mérite encore un essai
   et choisit un appui pour sa prochaine visite au dépôt.
 slug: helene-au-bout-de-la-fleche
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Hélène
-sujet: Trouble du développement intellectuel
+sujet: Autonomie avec des appuis ajustables
 contexte: À la boutique le samedi après-midi, puis dans la cour au dîner
 tags:
+- Trouble du développement intellectuel
 - TDI
 - Troubles du développement intellectuel
-- Autonomie au quotidien
-- Soutien ajusté
-- Confiance dans ses décisions
+- Autonomie au travail
+- Soutien choisi
+- Apprentissage durable
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A00
+clinical_diagnosis: Trouble du développement intellectuel
 episode: 12
 ---
 

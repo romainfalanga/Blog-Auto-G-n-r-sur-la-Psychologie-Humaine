@@ -1,24 +1,26 @@
 ---
-title: Repérer ce qui ravive l’envie de jouer après le service
+title: L’envie de jouer après le travail et les situations qui la réveillent
 description: Gabin décrit au service les moments où l’envie revient et construit avec
   l’équipe un plan adapté à ses fins de service.
 slug: gabin-trajet-du-soir
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gabin
-sujet: Trouble lié aux jeux d’argent
+sujet: Déclencheurs de l’envie de jouer
 contexte: mettre en mots des circonstances vulnérables et choisir une réponse avec
   l’équipe de soins
 tags:
+- Trouble lié aux jeux d’argent
 - Jeux d’argent
 - Jeu pathologique
-- Envie de rejouer
-- Inquiétude pour les dépenses
-- Demande de soutien
+- Déclencheurs de l’envie de jouer
+- Inquiétude financière
+- Prévention de la reprise du jeu
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C50
+clinical_diagnosis: Trouble lié aux jeux d’argent
 episode: 4
 ---
 

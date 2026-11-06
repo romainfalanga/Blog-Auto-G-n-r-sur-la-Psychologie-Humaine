@@ -1,33 +1,34 @@
 ---
-title: Garder sa place dans le club en laissant aussi du temps pour jouer
+title: Retrouver des activités choisies avec un trouble délirant
 description: À la fin de l’essai, le comité retient une façon de réserver et d’accueillir.
   Gasparde ferme le registre avant de rejoindre Brigitte sur le terrain.
 slug: gasparde-service-cote-vent
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gasparde
-sujet: Trouble délirant
+sujet: Autonomie dans le rétablissement
 contexte: Le dernier samedi de l’essai, du portail à la ligne de fond
 tags:
 - Trouble délirant
 - Trouble délirant persistant
-- Garder la main sur ses choix
-- Confiance dans les relations
-- Tenir un rythme qui laisse du temps pour soi
+- Autonomie dans le rétablissement
+- Préoccupation persistante
+- Reprise d’activités plaisantes
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A24
+clinical_diagnosis: Trouble délirant
 episode: 12
 ---
 
 À dix heures trente, une femme dit au portail qu’elle vient avec l’amie de Dounia et demande s’il est possible de regarder. Gasparde lui montre le banc. Elle déplace le panier de balles pour laisser une place au sac de la femme. De l’autre côté du terrain, Levent s’entraîne à faire rebondir une balle devant lui avant de la frapper. Dounia le rejoint. Elle a encore une marque grise sur la main à l’endroit où le plan a pris un peu de pluie et où elle a redessiné la flèche vendredi.
 
-Après l’accueil, Nathalie et Basile s’installent devant le registre avec Gasparde. Le comité leur a demandé de fixer les horaires jusqu’à la fin du mois suivant. Nathalie peut reprendre un dimanche de dix à onze si le temps le permet. Basile a proposé deux plages pour répondre au numéro du club. Sur le calendrier, Gasparde remarque que sa ligne et celle de Nathalie sont imprimées de la même taille. Elle se surprend à chercher qui a demandé ce changement. Puis elle regarde où placer l’heure de son double. Sur le vieux planning, elle ne l’avait jamais notée. Elle jouait quand il restait du temps entre deux réservations.
+Après l’accueil, Nathalie et Basile s’installent devant le registre avec Gasparde. Le comité leur a demandé de fixer les horaires jusqu’à la fin du mois suivant. Nathalie peut reprendre un dimanche de dix à onze si le temps le permet. Basile a proposé deux plages pour répondre au numéro du club. Sur le calendrier, Gasparde remarque que sa ligne et celle de Nathalie sont imprimées de la même taille. Elle se surprend à chercher qui a demandé ce changement. Puis elle regarde où placer l’heure de son double. Sur le vieux planning, elle ne l’avait jamais notée. Elle jouait quand il restait du temps entre deux réservations. La pensée revient quand Basile lui demande le crayon. Elle reconnaît cette sensation d’attendre la prochaine preuve et se rappelle qu’elle veut en parler à Farah. Pour le moment, elle garde un doigt sur l’heure où elle a envie de jouer.
 
 « Il me faut la même ligne que les autres pour seize heures », dit-elle. Basile tourne le calendrier vers elle. Gasparde écrit son nom et celui de Brigitte pour leur double avec Agnès et sa sœur. Avant de poser le crayon, elle entoure aussi dix heures trente. Elle veut garder ce rendez-vous-là.
 
-## Retrouver ce qu’on veut faire de son temps
+## Reprendre des activités qui ont de la valeur pour soi
 
 Prendre part aux décisions aide à retrouver une place dont on peut décrire le contenu. Gasparde veut s’occuper des réservations sur des plages connues, accueillir le samedi matin et garder du temps pour jouer. Elle a encore des moments où une modification ordinaire du planning ravive la peur d’être mise de côté. Elle continue à en parler en suivi quand cela lui coûte. Son expérience du club comprend aussi une organisation qu’elle a contribué à construire.
 

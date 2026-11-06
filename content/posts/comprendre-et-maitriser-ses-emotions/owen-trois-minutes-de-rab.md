@@ -1,24 +1,26 @@
 ---
-title: Partager la parole quand l’horaire se resserre
-description: Le programme de la soirée se resserre. Owen et Lucile s’accordent sur
-  un passage bref et sur un signal qu’Owen choisira d’utiliser.
+title: Reconnaître un blocage silencieux dans le tour de parole
+description: Le temps est compté avant la projection. Owen et Lucile s’accordent sur
+  un signal pour distinguer une pause d’une demande de relais.
 slug: owen-trois-minutes-de-rab
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Owen
-sujet: Trouble développemental de la fluence de la parole
+sujet: Blocage silencieux et relais choisi
 contexte: organiser une présentation sous contrainte sans assimiler une pause à une
   demande de relais
 tags:
+- Trouble développemental de la fluence de la parole
 - Bégaiement
 - Bégaiement développemental
-- Pression du temps
-- Tour de parole
-- Relais à la demande
+- Pression temporelle
+- Respect du tour de parole
+- Relais au signal
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.1
+clinical_diagnosis: Trouble développemental de la fluence de la parole
 episode: 11
 ---
 

@@ -1,22 +1,24 @@
 ---
-title: L’envie de faire ses preuves le jour du retour à la bibliothèque
+title: Pression de faire ses preuves après un arrêt de travail
 description: Dans la réserve, Diane retrouve un travail qu’elle connaît bien. Une
   demande à l’accueil lui donne envie de reprendre plus que prévu.
 slug: diane-faire-ses-preuves-bibliotheque
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Diane
-sujet: Trouble psychotique aigu et transitoire
+sujet: Pression de faire ses preuves
 contexte: À la bibliothèque, le matin du premier créneau de reprise
 tags:
+- Trouble psychotique aigu et transitoire
 - Psychose aiguë et transitoire
-- Besoin de montrer qu’on est capable
-- Retour au travail par étapes
-- Limites convenues avec les collègues
+- Pression de faire ses preuves
+- Retour progressif au travail
+- Effort attentionnel
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A23
+clinical_diagnosis: Trouble psychotique aigu et transitoire
 episode: 5
 ---
 

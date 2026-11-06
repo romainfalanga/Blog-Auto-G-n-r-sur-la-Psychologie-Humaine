@@ -1,23 +1,25 @@
 ---
-title: Hésiter entre une blague et une demande d’aide à l’imprimerie
+title: Appréhension du calcul et humour entre amis
 description: Alba propose deux dépôts de cartes. Lison hésite à lui laisser le compte,
   puis trouve une façon de préparer les deux piles avec elle.
 slug: lison-rire-pour-eviter-de-compter
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Lison
-sujet: Trouble développemental des apprentissages avec déficit en mathématiques
+sujet: Appréhension du calcul et protection sociale
 contexte: Vendredi soir, à l’imprimerie associative, pour le deuxième tirage des vitrines.
 tags:
+- Trouble développemental des apprentissages avec déficit en mathématiques
 - Dyscalculie développementale
 - Dyscalculie
-- Humour et évitement
-- Repères concrets
-- Choix des confidences
+- Appréhension du calcul
+- Peur du regard
+- Comptage en situation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.2
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en mathématiques
 episode: 10
 ---
 
@@ -27,7 +29,7 @@ Lison ouvre la bouche pour dire que, si on en perd une, il suffira de la vendre 
 
 Sur les séchoirs, il y a des cartes à plusieurs endroits. Alba lui parle en même temps des enveloppes qu’elle n’a pas encore achetées. Lison s’arrête au milieu du compte et laisse sa main à plat près du premier tirage. « Je perds le fil quand on compte et qu’on décide autre chose en même temps. On pourrait garder une place pour chaque carte ? Et les plus nettes, j’aimerais qu’on les répartisse. »
 
-## Une plaisanterie peut masquer une hésitation
+## L’appréhension du calcul dans une relation amicale
 
 L’appréhension de se tromper peut conduire à passer la main sur une tâche qui compte pourtant pour soi. Parmi les adultes rencontrés par Staller et ses collègues, certains ont décrit des manières d’éviter des situations où des calculs étaient attendus. Cette étude n’explique pas chaque plaisanterie ni chaque partage des tâches. À l’imprimerie, Lison reconnaît ce qu’elle voulait faire cette fois : détourner la question, puis laisser son amie compter. Elle réalise aussi qu’en lui passant la tâche entière elle risque de renoncer au choix des tirages. Elle peut faire de la place pour les deux sujets : le compte et l’endroit où chacune voudrait que les cartes arrivent.
 

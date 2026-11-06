@@ -1,28 +1,30 @@
 ---
-title: Reprendre la main sur le montage de sa voix
-description: En montant le raccord du ruban, Owen récupère une pause que Nassim avait
-  coupée et trouve ailleurs la coupe qu’il cherchait.
+title: Choisir comment le montage fait entendre un blocage
+description: Owen ne reconnaît plus le ton de sa réplique après la coupe d’un blocage.
+  Il rétablit la prise et gagne du temps ailleurs.
 slug: owen-un-carre-de-silence
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Owen
-sujet: Trouble développemental de la fluence de la parole
+sujet: Représentation de sa propre parole
 contexte: faire la différence entre couper pour le film et couper pour effacer un
   blocage
 tags:
+- Trouble développemental de la fluence de la parole
 - Bégaiement
 - Bégaiement développemental
-- Montage sonore
-- Maîtrise de sa voix enregistrée
-- Limites de partage
+- Rythme du bégaiement
+- Image de soi
+- Contrôle de l’enregistrement
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.1
+clinical_diagnosis: Trouble développemental de la fluence de la parole
 episode: 8
 ---
 
-Sur l’écran de la salle informatique, le ruban apparaît un instant. Dans le casque, la voix d’Owen saute au milieu d’un mot. Nassim revient de cinq secondes pour lui faire entendre le raccord. Il avait préparé la veille une version de travail pour qu’ils puissent enfin voir les trois passages à la suite. Il a raccourci plusieurs silences pour rattraper l’image, dont un au milieu de la phrase d’Owen. À l’écoute, « poignée » arrive si brusquement qu’Owen ne reconnaît pas sa façon de se moquer de toute cette histoire. Nassim montre le petit carré vide qu’il avait trouvé dans la prise. Sur l’écran, il ressemble à une place que personne ne réclame.
+Sur l’écran de la salle informatique, le ruban apparaît un instant. Dans le casque, la voix d’Owen saute au milieu d’un mot. Nassim revient de cinq secondes pour lui faire entendre le raccord. Il avait préparé la veille une version de travail pour qu’ils puissent enfin voir les trois passages à la suite. Il a raccourci plusieurs silences pour rattraper l’image, dont un au milieu de la phrase d’Owen. À l’écoute, « poignée » arrive si brusquement qu’Owen ne reconnaît pas sa façon de se moquer de toute cette histoire. Nassim montre le petit carré vide qu’il avait trouvé dans la prise. Sur l’écran, il ressemble à une place que personne ne réclame. Owen est contrarié d’entendre son mot raccourci. C’est pendant cette pause qu’il se préparait à finir sa phrase.
 
 Owen revient à la prise entière. Dans le son d’origine, le début du mot revient, puis le ruban apparaît un peu avant la fin de la phrase. Il regarde trois fois cette arrivée du jaune. En gardant le temps de la voix, on voit la poignée du bon côté avant de comprendre que quelqu’un l’a retournée. Owen demande à Nassim de remettre le passage. Nassim s’inquiète pour la durée et pointe, deux secondes plus loin, le début du bruit de grille. Ils ont promis une histoire courte, et la fermeture du bus était censée arriver pile à cet endroit.
 

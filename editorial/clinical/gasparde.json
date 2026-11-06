@@ -1,29 +1,29 @@
 {
   "character_id": "gasparde",
-  "bio": "Gasparde, 57 ans, tient les réservations du terrain de tennis communal. Elle sait de quel côté du filet le vent rabat les balles et repère ceux qui n’osent pas pousser le portail. Elle aimerait leur faire une place sans passer ses soirées à refaire les comptes du club. Quand la peur d’être écartée prend le dessus, elle tient à choisir à qui en parler. Avec Basile, le trésorier, elle cherche une façon de partager le travail qui lui laisse aussi le plaisir de jouer en double avec Brigitte.",
+  "bio": "Gasparde, 57 ans, vit avec un trouble délirant. Elle tient les réservations d’un terrain de tennis et veut ouvrir le club aux gens qui n’osent pas pousser le portail. Certains changements lui semblent confirmer qu’on cherche à l’écarter. Cette conviction revient autour du même sujet et peut lui prendre une soirée ou l’empêcher de dormir. Avec Farah, infirmière de l’équipe de secteur, elle suit ce que cette préoccupation change dans son quotidien. Au club, elle continue à résoudre des problèmes concrets et cherche une organisation qui lui laisse du temps pour jouer en double avec Brigitte.",
   "profile_topics": [
-    "Soupçons et incertitude",
-    "Retentissement sur le quotidien",
-    "Confiance dans les relations",
-    "Garder la main sur ses choix",
-    "Choisir ses appuis"
+    "Trouble délirant",
+    "Convictions persécutives",
+    "Degré de conviction",
+    "Préoccupation persistante",
+    "Retentissement sur le sommeil"
   ],
   "episodes": [
     {
       "number": 1,
       "slug": "gasparde-nom-retire-tableau",
-      "title": "Se croire écartée quand son nom disparaît du tableau",
+      "title": "Conviction persécutive quand une affiche semble annoncer une exclusion",
       "description": "Gasparde trouve une nouvelle affiche au club. En attendant d’en parler à Basile, elle choisit ce qu’elle peut encore faire pour les adhérents.",
       "context": "Un jeudi en fin d’après-midi, devant le tableau du terrain communal",
       "topics": [
-        "Soupçons et incertitude",
-        "Sentiment d’exclusion",
-        "Réagir à l’imprévu"
+        "Conviction persécutive",
+        "Interprétation d’un indice",
+        "Retentissement quotidien"
       ],
       "opening": "Le tableau des réservations a gagné un toit transparent pendant la nuit. Gasparde se penche pour lire à travers la buée et cherche la ligne où figurait son nom. Il était sous les horaires, à côté du numéro du club. Sur la nouvelle feuille, le numéro y est toujours. Il reste un espace blanc de la longueur de son prénom. Elle pose le pouce dessus. Le papier est sec, le plastique froid.\n\nDeux habitués passent avec un panier de balles. L’un d’eux soulève le loquet pour l’autre. « On a tout ce qu’il faut pour ce soir ? » Il parle au-dessus de son épaule et ne s’arrête pas. Gasparde a l’impression de comprendre à qui s’adresse cette phrase et pourquoi elle n’a pas été mise dans la boucle. Elle retourne près du portail. De là, elle pourrait les rappeler. Le plus grand s’est déjà baissé pour refaire ses lacets.\n\nUne femme arrive avec une raquette à la main. Elle s’appelle Dounia et a laissé un message pour jouer mardi. Gasparde reconnaît sa voix. Elle voudrait lui dire de revenir quand les gens qui décident auront fini, mais Dounia a traversé la commune pour savoir à quelle heure passer. Gasparde sort de sa poche le carnet où elle reporte les appels. Sous mardi, un point bleu lui rappelle qu’elle a confirmé le créneau de dix-huit heures. Elle le redit à Dounia, puis choisit d’écrire à Basile au sujet de l’affiche. Elle efface les trois premiers mots de son message avant de l’envoyer.",
       "sections": [
         {
-          "heading": "Quand un détail prend toute la place",
+          "heading": "Comment une interprétation peut prendre la force d’une conviction",
           "text": "Une conviction inquiétante peut donner le sentiment que des événements ordinaires s’adressent personnellement à soi. Chez Gasparde, l’espace blanc fait surgir l’idée qu’on s’organise pour l’écarter. Elle l’éprouve avec une force qui dépasse la simple question du tableau. Cette peur s’inscrit dans une histoire plus longue dont elle parle en consultation. Son équipe lui a expliqué le diagnostic de trouble délirant avant le début du récit.\n\nDans ce trouble, les convictions persistantes peuvent concerner des intentions hostiles que la personne attribue à son entourage. Leur contenu et leur retentissement varient. La disparition du nom sur l’affiche est observable. Ce qu’elle signifie pour les autres membres du club reste à préciser. Une évaluation clinique se fait à partir d’une histoire et d’un ensemble d’éléments, y compris les conflits ou les injustices effectivement vécus."
         },
         {
@@ -43,18 +43,20 @@
       "continuity": {
         "choice": "Gasparde confirme le créneau qu’elle a noté pour Dounia, puis demande à Basile un rendez-vous sur le contact affiché.",
         "next": "Samedi matin, Basile apporte les deux versions de l’affiche. La réservation de Dounia figure dans le carnet de Gasparde."
-      }
+      },
+      "clinical_focus": "Conviction persécutive",
+      "clinical_intro": "Quand Gasparde ne voit plus son nom sur le tableau, elle se sent certaine qu’on prépare son départ. Le trouble délirant peut s’organiser autour d’une conviction persistante que des personnes cherchent à nuire ou à écarter. Le récit montre combien cette interprétation pèse sur elle, alors qu’elle sait encore retrouver le créneau de Dounia et demander pourquoi l’affiche a changé."
     },
     {
       "number": 2,
       "slug": "gasparde-deux-confirmations",
-      "title": "Se sentir mise en cause quand deux réservations se contredisent",
+      "title": "Sentiment d’être visée au milieu d’un vrai problème de réservation",
       "description": "Deux confirmations portent la même heure. Gasparde et Basile essaient un registre commun et proposent une solution aux personnes concernées.",
       "context": "Le samedi, dans le local du club",
       "topics": [
-        "Retentissement sur le quotidien",
-        "Peur d’être mise en cause",
-        "Partage des responsabilités"
+        "Sentiment d’être visée",
+        "Conviction persécutive",
+        "Distinguer les faits"
       ],
       "opening": "Basile tire le vieux planning d’une enveloppe réutilisée. Au dos, Gasparde reconnaît une addition de boîtes de balles qui date de janvier. Il lui montre la ligne où il a retiré son prénom. Il préparait la version que n’importe quel bénévole peut tenir à jour, avec le numéro commun. Il pensait que les habitués sauraient encore où s’adresser. Gasparde lui demande quand il comptait la prévenir. Basile garde l’ongle au bord du papier. « J’aurais dû te le dire avant de l’afficher. »\n\nLe vieux carnet est ouvert entre eux. À mardi, Gasparde pose l’index sur le point bleu de Dounia. Dans son propre relevé, Basile a noté le même créneau pour Agnès et sa sœur. Ils ont tous les deux répondu sur le téléphone du club, à quelques heures d’écart. Dounia a reçu le premier message. Les deux demandes sont restées dans deux supports séparés. Basile se lève pour chercher du papier et cogne sa chaise contre le casier. Gasparde entend le bruit et retient la question qu’elle allait poser. Elle est persuadée, l’espace d’un instant, que le tableau a été changé pour rendre ce genre d’erreur plus facile à lui reprocher.\n\nBasile revient avec un registre à grands carreaux. Il l’ouvre au milieu, là où les pages tiennent à plat. Elle lui montre les deux messages et lui demande de faire le deuxième appel. Sur le premier, elle veut pouvoir répondre elle-même à Dounia, qui lui a expliqué comment elle s’organisait avec le bus du retour.",
       "sections": [
@@ -79,18 +81,20 @@
       "continuity": {
         "choice": "Le créneau de Dounia est maintenu, Agnès accepte l’heure suivante et Gasparde lance un essai de trois semaines avec un registre commun.",
         "next": "Dounia vient mardi à dix-huit heures et parlera avec Gasparde d’un accueil pour les nouveaux. Basile répond de sa part de la double réservation."
-      }
+      },
+      "clinical_focus": "Sentiment d’être visée",
+      "clinical_intro": "Deux réservations incompatibles existent vraiment. En entendant Basile cogner sa chaise, Gasparde est saisie un instant par la conviction que le changement visait à lui faire commettre une erreur. Dans le trouble délirant, les problèmes ordinaires peuvent coexister avec une interprétation menaçante qui s’impose. Reprendre les heures des messages donne une solution au problème que le club peut vérifier."
     },
     {
       "number": 3,
       "slug": "gasparde-banc-boulangerie",
-      "title": "Confier une inquiétude sans devoir tout raconter",
+      "title": "Préoccupation persistante et coût des vérifications sur le sommeil",
       "description": "Avec Brigitte, Gasparde cherche des mots pour dire ce que lui coûtent les soirs passés à relire les messages du club.",
       "context": "Le dimanche matin, sur le banc de la boulangerie",
       "topics": [
-        "Confiance dans les relations",
-        "Choisir ce qu’on partage",
-        "Retentissement sur le sommeil"
+        "Préoccupation persistante",
+        "Ruminations nocturnes",
+        "Soutien choisi"
       ],
       "opening": "Brigitte casse le bout de sa baguette avant de traverser. Elle vient s’asseoir à côté de Gasparde, qui a pris la partie du banc où tombe le soleil. Le rendez-vous devait durer le temps d’un café. Brigitte sort deux gobelets d’un sac et commence à raconter qu’elle a retrouvé un tamis de raquette au fond d’un placard. Gasparde regarde la mousse s’affaisser sous le couvercle entrouvert. Elle n’a presque pas dormi. Vers trois heures, elle a rouvert le message de Basile avec l’impression que le mot « ensemble » avait été choisi pour lui faire comprendre qu’elle était désormais sous surveillance.\n\nBrigitte lui demande si le double de samedi tient toujours. Gasparde dit oui trop vite. Elle pense à la manière dont elles changent de côté en ramassant chacune une balle. La semaine précédente, elle avait renoncé à jouer pour répondre au téléphone du club. La fois d’avant, Brigitte était venue jusqu’au terrain et avait attendu devant le portail avec ses chaussures à la main.\n\n« Je crois que tu ne sais pas pourquoi j’ai été si raide jeudi », dit Gasparde. Brigitte pose le pain entre elles. Elle attend. Gasparde se demande si elle pourrait raconter le tableau, puis l’histoire que ce tableau prend dans sa tête. Elle choisit le passage qui lui paraît possible. « Le club me prend la nuit. Je relis des choses. Après, je me lève avec l’impression d’avoir déjà passé la journée là-bas. » Brigitte lui demande si elle veut marcher un peu ou rester assise. Elle reste.",
       "sections": [
@@ -116,24 +120,26 @@
       "continuity": {
         "choice": "Gasparde parle de ses nuits à Brigitte, demande que l’échange reste privé et réserve leur double samedi à seize heures.",
         "next": "Gasparde doit convenir d’une absence de réponse pendant le jeu avec Basile. Farah reste l’interlocutrice du suivi."
-      }
+      },
+      "clinical_focus": "Préoccupation persistante",
+      "clinical_intro": "Gasparde relit les messages du club jusqu’à perdre une partie de sa nuit. Avec un trouble délirant, la préoccupation peut occuper une place importante même quand les activités ordinaires se poursuivent. Elle peut dire à Brigitte combien ces soirées l’épuisent et choisir ce qu’elle souhaite raconter. Brigitte peut prendre cette fatigue au sérieux et lui proposer une présence dont elles conviennent ensemble."
     },
     {
       "number": 4,
       "slug": "gasparde-la-place-dessai",
-      "title": "Laisser une place aux nouveaux sans décider à leur place",
+      "title": "Entendre une critique sans y lire aussitôt une intention hostile",
       "description": "Dounia imagine un premier passage au terrain. Gasparde découvre que plusieurs personnes veulent essayer avant de s’engager dans le club.",
       "context": "Le mardi soir, après le créneau de Dounia",
       "topics": [
-        "Accueil et sentiment d’appartenance",
-        "Garder la main sur ses choix",
-        "Attention aux besoins des autres"
+        "Interprétation d’une intention",
+        "Réaction défensive",
+        "Écoute de l’autre"
       ],
-      "opening": "La balle de Dounia se coince entre le grillage et le manche du balai. Gasparde l’aide à dégager le balai. Elles la regardent dégringoler de l’autre côté du filet, juste derrière la ligne. Dounia a apporté une seule raquette et joué avec une amie qui repart déjà vers le bus. Elle voudrait revenir seule, un samedi, pour savoir si on peut trouver quelqu’un avec qui échanger quelques balles.\n\nGasparde lui montre une page du registre où elle a dessiné deux cases. Elle a prévu de demander aux nouveaux de laisser leur numéro et de jouer ensemble une demi-heure. Dounia remonte la fermeture de sa veste. Elle lui dit que sa voisine a essayé de venir l’hiver dernier et est repartie en voyant la table des inscriptions. Elle aurait voulu regarder avant de dire si le tennis lui plaisait. Gasparde a envie de répondre qu’elle a tenu cette table, qu’elle n’a jamais obligé personne à s’inscrire. Elle referme un instant le registre. Ce que Dounia décrit lui rappelle les gens qu’elle a vus repartir par le côté du terrain où il n’y a plus de banc.\n\nElles sortent par la grande porte. Du trottoir, Dounia montre l’arrêt du bus et demande ce qu’on peut lire sans traverser la rue. Gasparde déchiffre à peine le logo du club. Elle demande à Dounia si elle veut participer à un essai ou l’aider à l’organiser. Dounia lui rend le crayon qu’elle avait pris pour noter l’heure. Elle répond qu’elle aimerait venir avec sa raquette, pour le moment.",
+      "opening": "La balle de Dounia se coince entre le grillage et le manche du balai. Gasparde l’aide à dégager le balai. Elles la regardent dégringoler de l’autre côté du filet, juste derrière la ligne. Dounia a apporté une seule raquette et joué avec une amie qui repart déjà vers le bus. Elle voudrait revenir seule, un samedi, pour savoir si on peut trouver quelqu’un avec qui échanger quelques balles.\n\nGasparde lui montre une page du registre où elle a dessiné deux cases. Elle a prévu de demander aux nouveaux de laisser leur numéro et de jouer ensemble une demi-heure. Dounia remonte la fermeture de sa veste. Elle lui dit que sa voisine a essayé de venir l’hiver dernier et est repartie en voyant la table des inscriptions. Elle aurait voulu regarder avant de dire si le tennis lui plaisait. Gasparde a envie de répondre qu’elle a tenu cette table, qu’elle n’a jamais obligé personne à s’inscrire. Elle referme un instant le registre. Ce que Dounia décrit lui rappelle les gens qu’elle a vus repartir par le côté du terrain où il n’y a plus de banc. Elle se demande qui a dit à Dounia qu’elle avait tenu la table. Pendant un instant, elle s’attend à ce que son prénom vienne dans la phrase suivante. Elle finit par lui demander ce que sa voisine avait voulu faire avant de s’inscrire. Dounia lui explique qu’elle ne connaissait personne ce matin-là et voulait d’abord voir le terrain. Gasparde rouvre le registre à l’endroit où elle a dessiné les deux cases.\n\nElles sortent par la grande porte. Du trottoir, Dounia montre l’arrêt du bus et demande ce qu’on peut lire sans traverser la rue. Gasparde déchiffre à peine le logo du club. Elle demande à Dounia si elle veut participer à un essai ou l’aider à l’organiser. Dounia lui rend le crayon qu’elle avait pris pour noter l’heure. Elle répond qu’elle aimerait venir avec sa raquette, pour le moment.",
       "sections": [
         {
-          "heading": "Se sentir libre de revenir",
-          "text": "Pouvoir regarder avant de s’engager peut rendre une première visite plus abordable. Dounia connaît déjà les conditions d’un créneau de réservation. Elle imagine une première visite différente pour sa voisine ou pour elle-même quand son amie ne peut pas venir. Regarder, jouer un moment et repartir sont trois possibilités qu’elle souhaite pouvoir choisir sur place.\n\nGasparde entend d’abord la remarque comme un jugement sur sa façon d’accueillir. Puis elle écoute la suite et retrouve une question qui lui importe depuis longtemps. Les compétences de Gasparde et les effets du trouble délirant s’inscrivent dans des aspects différents de sa vie. Son attention à une personne derrière un portail n’a pas à passer au second plan dans le récit de ses inquiétudes."
+          "heading": "Une remarque entendue comme une mise en cause",
+          "text": "Gasparde s’attend à être désignée quand elle entend parler des inscriptions. La conviction qui la préoccupe porte sur sa place au club. La phrase de Dounia renseigne d’abord sur une nouvelle venue qui aurait aimé regarder le terrain. Lui demander ce qu’elle cherchait permet de répondre à une question d’accueil tout en laissant la préoccupation être discutée avec l’équipe de soins.\n\nPouvoir regarder avant de s’engager peut rendre une première visite plus abordable. Dounia connaît déjà les conditions d’un créneau de réservation. Elle imagine une première visite différente pour sa voisine ou pour elle-même quand son amie ne peut pas venir. Regarder, jouer un moment et repartir sont trois possibilités qu’elle souhaite pouvoir choisir sur place.\n\nGasparde entend d’abord la remarque comme un jugement sur sa façon d’accueillir. Puis elle écoute la suite et retrouve une question qui lui importe depuis longtemps. Les compétences de Gasparde et les effets du trouble délirant s’inscrivent dans des aspects différents de sa vie. Son attention à une personne derrière un portail n’a pas à passer au second plan dans le récit de ses inquiétudes."
         },
         {
           "heading": "Essayer une invitation à petite échelle",
@@ -152,18 +158,20 @@
       "continuity": {
         "choice": "Gasparde prépare un accueil de deux personnes à dix heures trente samedi, avec la possibilité de regarder ou jouer. Dounia vient essayer et montre l’invitation à Levent.",
         "next": "Le rendez-vous est annoncé au portail côté rue. Basile a accepté de consulter le téléphone du club pendant le double de seize heures."
-      }
+      },
+      "clinical_focus": "Interprétation d’une intention",
+      "clinical_intro": "Dounia raconte qu’une voisine est repartie devant la table des inscriptions. Gasparde entend d’abord une critique de sa façon d’accueillir et se prépare à se défendre. Dans son trouble délirant, l’idée d’être écartée peut donner un autre sens aux remarques qui touchent sa place au club. En demandant ce que la voisine voulait faire, elle trouve un besoin auquel elle peut répondre."
     },
     {
       "number": 5,
       "slug": "gasparde-deux-portails",
-      "title": "Chercher qui a changé le plan quand quelqu’un attend au mauvais endroit",
+      "title": "Certitude d’une intention hostile quand il manque une information",
       "description": "Levent arrive par le parc et manque le début de l’accueil. Gasparde reprend le trajet avec lui et corrige le plan du club.",
       "context": "Le samedi matin, entre le terrain et l’entrée du parc",
       "topics": [
-        "Soupçons et incertitude",
-        "Attention aux explications possibles",
-        "Réparer un malentendu"
+        "Certitude et interprétation",
+        "Conviction persécutive",
+        "Vérifier un fait concret"
       ],
       "opening": "À dix heures trente, Dounia pose son sac sous le banc. Le vent rabat la page du registre sur la main de Gasparde. Elles se parlent de loin, à cause du filet qu’elles sont en train de tendre. Dounia pense que Levent est peut-être resté dans le bus jusqu’à la mairie. Elle lui écrit. Il répond qu’il est devant le portail depuis un quart d’heure et que le club a l’air fermé.\n\nGasparde passe la tête dans la rue. Elle voit le boulanger qui range son panneau et la sortie du parking. Elle dit qu’on a dû déplacer son invitation. La certitude lui vient avec la même rapidité que la semaine précédente, quand elle avait trouvé la feuille sans son nom. Dounia finit de fixer la bande du filet. Elle lui demande à quelle entrée mène le chemin du parc. Il y a effectivement un deuxième portail. Gasparde passe devant quand elle ramasse des balles, mais il est verrouillé depuis que son gond s’est tordu.\n\nElle longe le grillage avec Dounia. De l’autre côté, un homme regarde son téléphone à côté de la plaque municipale « Tennis ». Gasparde a envie de lui expliquer qu’elle avait pourtant indiqué le bon côté. Elle voit le chemin qu’il a dû emprunter. Sur la photo qu’il a reçue, « côté rue » est écrit dans une ligne étroite au-dessous de l’heure. Lui a suivi le seul panneau qu’il a rencontré. Elle lui propose de faire le tour par le parc avec elles. Il garde la main sur la clôture. « J’ai juste vingt minutes, maintenant. »",
       "sections": [
@@ -188,18 +196,20 @@
       "continuity": {
         "choice": "Gasparde propose à Levent de choisir ce qu’il fait du temps restant, demande d’ajouter le croquis des deux portails et joue le double à seize heures.",
         "next": "Levent veut revenir, et Basile reçoit le plan corrigé. Gasparde a réussi à garder son temps de jeu, malgré une inquiétude qui revient."
-      }
+      },
+      "clinical_focus": "Certitude et interprétation",
+      "clinical_intro": "Levent attend au mauvais portail et Gasparde a aussitôt l’impression que quelqu’un a rendu son invitation introuvable. Dans un trouble délirant, la force d’une interprétation peut dépasser les informations dont on dispose. Le trajet de Levent révèle un problème de signalisation. Le corriger lui permet d’agir utilement pendant que la préoccupation qui revient dans d’autres situations reste un sujet de suivi."
     },
     {
       "number": 6,
       "slug": "gasparde-note-pour-farah",
-      "title": "Demander du soutien quand l’inquiétude empiète sur le sommeil",
+      "title": "Mesurer le retentissement d’une conviction sur les nuits et les liens",
       "description": "Au rendez-vous de suivi, Gasparde parle à Farah des nuits et des parties de tennis qu’elle veut retrouver.",
       "context": "Le mardi matin, au centre où Gasparde est suivie",
       "topics": [
-        "Retentissement sur le quotidien",
-        "Choisir ses appuis",
-        "Décision partagée en suivi"
+        "Retentissement quotidien",
+        "Préoccupation persistante",
+        "Suivi du trouble délirant"
       ],
       "opening": "Gasparde a apporté une petite feuille où elle avait l’habitude d’écrire les scores. Il reste une colonne pour la date, entre les chiffres qu’elle a barrés et le pli du milieu. Elle l’a utilisée pour se rappeler de deux nuits précises. Elle y a noté l’heure à laquelle elle a rouvert son téléphone et le moment où elle est retournée dans la cuisine sans savoir quoi faire de son bol. Dans la salle d’attente, elle retourne le papier pour cacher les chiffres. L’heure du double y figure aussi, encadrée.\n\nFarah vient la chercher et lui demande comment s’est passé le jeu. Gasparde lui décrit le deuxième set, perdu après une balle qui est restée un moment sur le filet avant de tomber. Elle remarque que cela la fait sourire. Puis elle parle du tableau. Depuis quelques jours, elle a de nouveau le sentiment que les changements du club sont décidés pour la tenir à l’écart. Elle hésite avant de raconter la phrase des joueurs et sa réaction au portail fermé. Farah lui demande ce qu’elle a pensé sur le moment, puis ce que ça change encore chez elle, loin du terrain.\n\nGasparde a davantage envie de répondre à la seconde question. Dimanche, elle avait oublié d’appeler sa sœur parce qu’elle faisait défiler les messages du club. La nuit dernière, elle avait passé une heure debout devant l’évier. Elle tourne le papier vers Farah. « J’aimerais savoir à quel moment vous appeler. Quand je suis chez moi le soir, j’attends que ça passe, et je ne sais plus à qui demander après. »",
       "sections": [
@@ -225,23 +235,25 @@
       "continuity": {
         "choice": "Gasparde décrit les nuits et la préoccupation croissante, note comment joindre l’équipe et choisit de faire elle-même un éventuel appel.",
         "next": "La feuille des scores reste dans sa poche. Farah et Gasparde ont fixé un suivi la semaine suivante. Basile reste son appui pour l’organisation du terrain."
-      }
+      },
+      "clinical_focus": "Retentissement quotidien",
+      "clinical_intro": "Au rendez-vous, Gasparde parle de ses nuits et d’un appel à sa sœur qu’elle a oublié en relisant les messages. Dans le trouble délirant, l’équipe s’intéresse à la conviction et à ce qu’elle change dans le sommeil, les liens ou les activités. Gasparde décrit aussi le plaisir de jouer et demande comment joindre les soins quand la préoccupation l’envahit chez elle."
     },
     {
       "number": 7,
       "slug": "gasparde-deux-durees-reunion",
-      "title": "Dire ce qu’on peut tenir quand le comité en demande davantage",
+      "title": "Se rendre indispensable par peur d’être mise à l’écart",
       "description": "Le comité veut ouvrir un deuxième créneau d’accueil. Gasparde demande à qui reviennent les tâches et propose une durée qu’elle peut tenir.",
       "context": "Le jeudi soir, à la réunion du club",
       "topics": [
-        "Garder la main sur ses choix",
-        "Peur de décevoir",
-        "Limites dans l’entraide"
+        "Peur d’être écartée",
+        "Surinvestissement au travail",
+        "Affirmation de soi"
       ],
       "opening": "Il reste deux biscuits dans l’assiette et huit points à l’ordre du jour. Gasparde tourne le document pour voir si l’accueil des nouveaux figure au dos. Le point vient finalement avec la question des filets. Une membre du comité trouve l’essai encourageant et propose d’ajouter deux heures le dimanche. En parlant, elle regarde Basile pour savoir si le créneau est libre. Gasparde attend qu’il tourne la tête vers elle. Il regarde le registre, qu’il a ouvert entre les bouteilles d’eau.\n\nLa nuit d’avant, elle avait pensé à ce que le comité pouvait décider pendant qu’elle jouait avec Brigitte. Elle sent revenir l’idée qu’ils cherchent à distribuer son travail en dehors d’elle. Dans le même temps, elle a envie de dire oui aux deux heures. Si elle les prend, on saura au moins qu’elle peut faire l’accueil. Elle fait glisser le registre pour lire la colonne du dimanche. Il y a déjà des doubles à partir de onze heures. Il faudrait aussi quelqu’un pour reprendre les appels en cas de pluie.\n\nGasparde pose un biscuit sur le bord de sa soucoupe. Elle demande qui a proposé l’idée et combien de personnes pourront tenir la porte. La membre du comité dit qu’elle peut être là de dix à onze, si un autre bénévole répond au téléphone. Gasparde prend le crayon. Elle aimerait garder son samedi matin et elle choisit de dire ce qu’elle peut offrir le dimanche. « Je peux préparer l’affiche. Je ne veux pas me retrouver à répondre en même temps. »",
       "sections": [
         {
-          "heading": "Une limite précise pendant une discussion difficile",
+          "heading": "La peur d’être écartée pousse à en faire davantage",
           "text": "Il est possible de préciser sa part d’un projet alors qu’on se sent encore menacé dans sa place. Gasparde pourrait accepter une longue permanence pour montrer qu’elle reste utile. Quand elle pose sa question, elle découvre que la proposition a déjà une volontaire pour une partie du travail. Elles peuvent parler du reste. Son envie de garder sa place au club et sa peur d’en être écartée sont deux éléments qu’elle éprouve ensemble.\n\nLa CIM-11 décrit un retentissement qui peut se concentrer autour du sujet des convictions. Une réunion sur le partage des réservations concerne directement les inquiétudes de Gasparde. Son équipe est la mieux placée pour reprendre ce qu’elle ressent dans la durée. Au club, Gasparde peut discuter du temps et des moyens requis comme le ferait une autre bénévole."
         },
         {
@@ -262,23 +274,25 @@
       "continuity": {
         "choice": "Gasparde garde l’accueil du samedi et prépare l’affiche d’un essai d’une heure le dimanche. Nathalie prend l’accueil et Basile les appels et les fermetures.",
         "next": "Basile doit poser le plan corrigé vendredi et assurer le téléphone dimanche. Le comité revient sur l’essai mardi."
-      }
+      },
+      "clinical_focus": "Peur d’être écartée",
+      "clinical_intro": "Quand le comité propose un deuxième créneau, Gasparde a envie de tout accepter pour prouver qu’on a encore besoin d’elle. La conviction d’être progressivement écartée, au cœur de son trouble délirant, peut lui faire prendre une charge qu’elle ne voulait pas. Demander qui prendrait la porte et le téléphone lui permet de garder le rôle qu’elle souhaite exercer."
     },
     {
       "number": 8,
       "slug": "gasparde-reprendre-apres-pique",
-      "title": "Revenir vers quelqu’un après lui avoir parlé trop vite",
+      "title": "Intention prêtée à autrui et réparation après une réponse brusque",
       "description": "Un échange près du registre tourne court. Gasparde revient vers Dounia avec des excuses précises et lui demande ce qu’elle souhaite pour la suite.",
       "context": "Le samedi suivant, pendant le deuxième accueil du matin",
       "topics": [
-        "Confiance dans les relations",
-        "Réparer après une parole brusque",
-        "Respecter la réponse de l’autre"
+        "Intention prêtée à autrui",
+        "Colère défensive",
+        "Réparation relationnelle"
       ],
-      "opening": "Le nouveau plan pend un peu de travers. Quelqu’un a utilisé deux punaises bleues et une rouge, de sorte que Gasparde voit la rouge avant de voir la flèche. Elle compte déjà deux raquettes près du portail. Levent a retrouvé l’entrée du premier coup. Il explique son trajet à Clara, qui vit près du parc et vient aujourd’hui regarder. Gasparde entend leurs voix en prenant le petit paquet de balles dans le casier.\n\nDounia est arrivée quelques minutes en avance. Debout près du registre fermé, elle demande si Basile viendra. Gasparde entend « s’il viendra » comme une question que Dounia aurait préparée avec lui. Elle voit la chaise vide du trésorier et se rappelle qu’il a emporté le plan vendredi. Pendant une seconde, l’ensemble a la netteté d’une explication. « Si tu préfères qu’il le fasse à ma place, demande-lui directement. »\n\nDounia ramasse sa housse. Elle répond que Basile lui a prêté les clés pour récupérer une raquette oubliée au local. Elle voulait savoir où les rendre. Puis elle rejoint Levent au portail. Gasparde reste avec le paquet de balles, qui lui glisse entre les paumes. Elle a envie d’attendre qu’on lui fasse signe. Elle appelle Clara pour lui montrer le banc, donne deux balles à Levent et lui demande s’il aimerait faire quelques échanges. Pendant qu’il s’échauffe, Gasparde va retrouver Dounia. Elle lui demande si elle a une minute, de côté. Dounia garde les yeux sur les balles qui roulent vers le filet. « Une minute, oui. »",
+      "opening": "Le nouveau plan pend un peu de travers. Quelqu’un a utilisé deux punaises bleues et une rouge, de sorte que Gasparde voit la rouge avant de voir la flèche. Elle compte déjà deux raquettes près du portail. Levent a retrouvé l’entrée du premier coup. Il explique son trajet à Clara, qui vit près du parc et vient aujourd’hui regarder. Gasparde entend leurs voix en prenant le petit paquet de balles dans le casier.\n\nDounia est arrivée quelques minutes en avance. Debout près du registre fermé, elle demande si Basile viendra. Gasparde entend « s’il viendra » comme une question que Dounia aurait préparée avec lui. Elle voit la chaise vide du trésorier et se rappelle qu’il a emporté le plan vendredi. Pendant une seconde, l’ensemble a la netteté d’une explication. « Si tu préfères qu’il le fasse à ma place, demande-lui directement. » La colère lui a serré la gorge avant qu’elle ait eu le temps de demander ce que Dounia voulait. La question lui paraît si familière qu’elle a l’impression de connaître déjà la suite.\n\nDounia ramasse sa housse. Elle répond que Basile lui a prêté les clés pour récupérer une raquette oubliée au local. Elle voulait savoir où les rendre. Puis elle rejoint Levent au portail. Gasparde reste avec le paquet de balles, qui lui glisse entre les paumes. Elle a envie d’attendre qu’on lui fasse signe. Elle appelle Clara pour lui montrer le banc, donne deux balles à Levent et lui demande s’il aimerait faire quelques échanges. Pendant qu’il s’échauffe, Gasparde va retrouver Dounia. Elle lui demande si elle a une minute, de côté. Dounia garde les yeux sur les balles qui roulent vers le filet. « Une minute, oui. »",
       "sections": [
         {
-          "heading": "Regarder ce que sa réponse a produit",
+          "heading": "Comprendre ce que la peur a ajouté à la question",
           "text": "Après une parole brusque, on peut revenir sur ce qu’on a dit avant d’avoir résolu tout ce qui l’a provoquée. Gasparde reste préoccupée par le partage des rôles au club. Elle entend aussi Dounia dire qu’elle cherchait à rendre des clés. Sa remarque a prêté une intention à Dounia et a coupé l’échange. Elle peut en répondre directement, en laissant à Dounia une place pour dire comment elle l’a reçue.\n\nDans le trouble délirant, une conviction peut rester forte malgré un changement dans la situation qui l’a ravivée. Le récit montre une inquiétude propre à Gasparde, avec un moment où elle influence sa réponse. Gasparde pourra en parler dans son suivi. Elle choisit ici un geste relationnel précis. Elle veut que Dounia puisse poser une question au club et obtenir une réponse qui la concerne."
         },
         {
@@ -298,23 +312,25 @@
       "continuity": {
         "choice": "Gasparde reconnaît la remarque brusque, répond à la question des clés et respecte le souhait de Dounia de s’arrêter là pour aujourd’hui.",
         "next": "Dounia continue à venir comme adhérente. Le croquis corrige l’accès pour Levent. L’accueil du dimanche reste confié à Nathalie et Basile."
-      }
+      },
+      "clinical_focus": "Intention prêtée à autrui",
+      "clinical_intro": "Dounia demande si Basile viendra et Gasparde entend une remise en cause de sa place. Elle lui répond sèchement, avant d’apprendre que la question concernait des clés. Dans le trouble délirant, une préoccupation persistante peut s’étendre à des échanges très courts. Gasparde peut reconnaître la portée de sa réponse et écouter Dounia même si la peur d’être écartée reste présente."
     },
     {
       "number": 9,
       "slug": "gasparde-telephone-en-promenade",
-      "title": "Lâcher une responsabilité quand on redoute un nouvel incident",
+      "title": "Anxiété de déléguer quand perdre la main semble dangereux",
       "description": "La pluie menace le créneau de Nathalie. Gasparde reçoit une question chez elle et choisit d’utiliser le relais prévu pour garder sa promenade.",
       "context": "Le dimanche de l’essai, à la fenêtre puis sur le chemin du canal",
       "topics": [
-        "Choisir ses appuis",
-        "Partager la charge",
-        "Faire avec l’incertitude"
+        "Anxiété de déléguer",
+        "Besoin de contrôle",
+        "Soutien organisationnel"
       ],
       "opening": "Les gouttes tombent du rebord assez loin de la vitre pour que Gasparde entende chacune toucher le bac en zinc. Elle avait prévu de rejoindre sa sœur au canal. Elle a déjà son manteau sur le dos quand Agnès lui envoie un message sur son numéro personnel. Agnès pense venir au terrain plus tard avec sa sœur. Elles demandent si l’accueil de dix heures est maintenu. Gasparde sait que Basile doit en parler avec Nathalie. Elle prend ses chaussures à la main et retourne quand même jusqu’à la cuisine.\n\nSur le téléphone, elle pourrait répondre qu’elle va se renseigner. Elle s’imagine descendre jusqu’au portail, lire l’affiche qu’elle a préparée et regarder si l’eau s’accumule près de la ligne. Elle redoute qu’une personne attendue ne trouve personne. À cette peur familière s’ajoute l’impression plus dure que la première fermeture dont elle n’est pas chargée sera une occasion de lui retirer le reste. Elle garde l’écran allumé sur la question d’Agnès.\n\nLa sœur de Gasparde lui écrit qu’elle est arrivée au pont avec deux imperméables. Gasparde enfile sa deuxième chaussure. Elle pourrait tout demander à Basile et faire l’intermédiaire pendant la promenade. Elle choisit de rappeler à Agnès où obtenir la réponse et écrit à Basile qu’une question lui est arrivée sur son numéro personnel. Puis elle prend le chemin qui descend derrière la maison. Le téléphone vibre avant le premier arbre. Elle arrive au pont sans regarder l’écran.",
       "sections": [
         {
-          "heading": "Faire une place à l’autre dans le travail",
+          "heading": "Tolérer l’incertitude pendant que quelqu’un d’autre prend le relais",
           "text": "Partager une tâche peut demander de tolérer un temps où l’on ignore comment l’autre s’y prend. Gasparde voit le problème possible et sait qu’elle pourrait y consacrer son matin. Elle se souvient aussi de la répartition écrite au comité. Basile doit organiser les informations et prévenir Nathalie si la pluie rend l’essai impossible. Elle peut transmettre la question arrivée chez elle et s’appuyer sur cet accord, même si elle demeure inquiète.\n\nLa préoccupation de Gasparde peut se prolonger au-delà de l’incident qui l’a relancée. Le suivi tiendra compte du temps et de l’énergie qu’elle y consacre. Ce dimanche, son choix concerne une partie de sa journée. Elle veut rejoindre sa sœur. L’OMS recommande de discuter en suivi des activités et soutiens auxquels la personne tient, parmi les aspects concrets de son fonctionnement quotidien."
         },
         {
@@ -335,18 +351,20 @@
       "continuity": {
         "choice": "Gasparde transmet la demande d’Agnès, laisse Basile et Nathalie gérer la pluie et rejoint sa sœur au canal.",
         "next": "Le premier dimanche a été annulé et les deux visiteurs prévenus. Gasparde veut reparler du numéro commun au bilan de mardi."
-      }
+      },
+      "clinical_focus": "Anxiété de déléguer",
+      "clinical_intro": "Une question arrive sur son téléphone et Gasparde craint que laisser un collègue y répondre lui fasse perdre sa place. L’inquiétude liée à son trouble délirant menace d’occuper la promenade qu’elle a prévue avec sa sœur. Le relais convenu lui permet de prendre la demande au sérieux, de la transmettre et d’essayer de laisser à Basile sa part de responsabilité."
     },
     {
       "number": 10,
       "slug": "gasparde-heure-a-corriger",
-      "title": "Reconnaître une erreur sans remettre toute sa place en jeu",
+      "title": "Peur des conséquences d’une erreur dans un climat de méfiance",
       "description": "En relisant les horaires, Gasparde trouve une heure qu’elle a mal reportée. Elle propose une règle de correction que chacun pourra suivre.",
       "context": "Le mardi du bilan, dans le local du club",
       "topics": [
-        "Peur d’être jugée",
-        "Répondre à une erreur",
-        "Clarifier les responsabilités"
+        "Peur des conséquences",
+        "Conviction persécutive",
+        "Responsabilité et réparation"
       ],
       "opening": "Le registre a pris l’humidité sur un angle. Les pages se soulèvent ensemble quand Gasparde essaie d’ouvrir celle du samedi. Elle lit dix heures trente à la ligne de l’accueil. Sur le texte qu’elle a préparé pour la nouvelle affiche, elle a écrit dix heures. Elle se revoit recopier l’ancien essai du dimanche. La date, elle, est bonne. Dounia a déjà demandé à une amie si elle pouvait la retrouver à dix heures, d’après une photo du texte que Gasparde lui a envoyée pour avis.\n\nBasile sort le compte rendu de son sac. Il veut savoir si le registre a réduit les appels en double. Gasparde tourne le brouillon vers lui et lui montre l’heure. Elle préférerait que Dounia efface la photo avant que les autres la voient. Une peur plus lourde monte avec cette idée. Si Basile ajoute l’erreur à son compte rendu, elle se figure le document que les autres pourront utiliser pour reprendre le club sans elle. Elle se rappelle le rendez-vous de suivi du matin, où elle a raconté à Farah ce que ça lui avait coûté de partir marcher et le plaisir qu’elle avait finalement pris au canal.\n\nBasile cherche une feuille pour prendre des notes. Gasparde l’arrête. « Il faut d’abord prévenir Dounia. Je me suis trompée en recopiant l’heure. » Elle prend une photo de la bonne ligne, de près, sans les noms des gens qui ont réservé autour. Elle appelle Dounia. Quand la voix décroche, elle entend le bruit d’un ticket de caisse. « Tu as une minute pour corriger l’heure que je t’ai donnée ? »",
       "sections": [
@@ -371,18 +389,20 @@
       "continuity": {
         "choice": "Gasparde reconnaît l’heure mal reportée, en prévient Dounia et propose que toute nouvelle affiche soit vérifiée contre le registre.",
         "next": "L’accueil du samedi reste à dix heures trente. Le comité examinera après l’accueil les plages du téléphone commun et un nouveau dimanche d’essai le mois suivant."
-      }
+      },
+      "clinical_focus": "Peur des conséquences",
+      "clinical_intro": "Gasparde repère une erreur d’heure qu’elle a commise. Elle redoute que le compte rendu serve à convaincre le comité de la remplacer. Le trouble délirant peut donner une portée menaçante à des faits bien réels. En appelant Dounia pour corriger l’heure, elle répond à une conséquence vérifiable et garde la possibilité de discuter du reste avec les interlocuteurs concernés."
     },
     {
       "number": 11,
       "slug": "gasparde-appeler-apres-une-nuit",
-      "title": "Appeler son équipe quand l’inquiétude revient après une bonne journée",
+      "title": "Retour d’une préoccupation après une période plus apaisée",
       "description": "Gasparde reconnaît une nuit qui ressemble à celles dont elle a parlé avec Farah. Elle ressort la feuille des scores et appelle le centre.",
       "context": "Le jeudi matin, chez Gasparde",
       "topics": [
-        "Retentissement sur le sommeil",
-        "Revenir vers ses appuis",
-        "Suivre une évolution dans le temps"
+        "Fluctuation de la préoccupation",
+        "Ruminations nocturnes",
+        "Recours à l’équipe de soins"
       ],
       "opening": "Le lait a débordé juste assez pour laisser un rond blanc sur la plaque. Gasparde pose la casserole dans l’évier et reste devant la fenêtre, en chaussettes. Elle pense à une phrase du comité reçue la veille. « Avec le nouveau système, chacun aura sa place. » Elle l’avait lue après le dîner et, pendant un moment, l’avait trouvée ordinaire. Au milieu de la nuit, elle lui a donné un autre sens. Si la phrase avait été écrite pour parler des nouveaux, elle aurait parlé des nouveaux. Elle a rouvert la conversation trois fois. Au matin, elle se sent fatiguée d’avoir attendu une autre explication.\n\nDans sa poche, elle retrouve le bord de la feuille des scores. Elle la déplie sur la table. Il est encore tôt pour appeler le centre. Elle a envie d’attendre la prochaine visite. Mardi, elle avait raconté le canal et le temps de jeu retrouvé avec un sentiment de soulagement qu’elle aimerait rapporter intact. En bas du papier, sa phrase tient sur deux lignes. Elle se demande si elle doit changer le mot « dors ».\n\nBrigitte lui envoie une photo du grip qu’elle a promis de lui prêter. Gasparde lui demande de l’apporter samedi si elle y pense, puis lui écrit qu’elle va appeler le centre au sujet de la nuit. Brigitte lui propose de passer un quart d’heure. Gasparde regarde les deux chaises de la cuisine. « Ça me ferait plaisir que tu viennes plus tard. L’appel, je le passe seule. »",
       "sections": [
@@ -408,23 +428,25 @@
       "continuity": {
         "choice": "Gasparde appelle elle-même avec la note préparée, accepte un rendez-vous rapproché et voit Brigitte ensuite selon leur accord.",
         "next": "Le suivi continue avec Farah. Gasparde garde la possibilité de jouer samedi et peut discuter de l’organisation du club séparément."
-      }
+      },
+      "clinical_focus": "Fluctuation de la préoccupation",
+      "clinical_intro": "Gasparde avait apprécié son après-midi au canal. Pendant la nuit, un message ordinaire du comité reprend un sens inquiétant et elle le rouvre plusieurs fois. Dans le trouble délirant, une période de soulagement et une remontée de la préoccupation peuvent se succéder. Elle décrit à son équipe l’effet sur sa nuit et demande à Brigitte la présence qui lui ferait du bien."
     },
     {
       "number": 12,
       "slug": "gasparde-service-cote-vent",
-      "title": "Garder sa place dans le club en laissant aussi du temps pour jouer",
+      "title": "Retrouver des activités choisies avec un trouble délirant",
       "description": "À la fin de l’essai, le comité retient une façon de réserver et d’accueillir. Gasparde ferme le registre avant de rejoindre Brigitte sur le terrain.",
       "context": "Le dernier samedi de l’essai, du portail à la ligne de fond",
       "topics": [
-        "Garder la main sur ses choix",
-        "Confiance dans les relations",
-        "Tenir un rythme qui laisse du temps pour soi"
+        "Autonomie dans le rétablissement",
+        "Préoccupation persistante",
+        "Reprise d’activités plaisantes"
       ],
-      "opening": "À dix heures trente, une femme dit au portail qu’elle vient avec l’amie de Dounia et demande s’il est possible de regarder. Gasparde lui montre le banc. Elle déplace le panier de balles pour laisser une place au sac de la femme. De l’autre côté du terrain, Levent s’entraîne à faire rebondir une balle devant lui avant de la frapper. Dounia le rejoint. Elle a encore une marque grise sur la main à l’endroit où le plan a pris un peu de pluie et où elle a redessiné la flèche vendredi.\n\nAprès l’accueil, Nathalie et Basile s’installent devant le registre avec Gasparde. Le comité leur a demandé de fixer les horaires jusqu’à la fin du mois suivant. Nathalie peut reprendre un dimanche de dix à onze si le temps le permet. Basile a proposé deux plages pour répondre au numéro du club. Sur le calendrier, Gasparde remarque que sa ligne et celle de Nathalie sont imprimées de la même taille. Elle se surprend à chercher qui a demandé ce changement. Puis elle regarde où placer l’heure de son double. Sur le vieux planning, elle ne l’avait jamais notée. Elle jouait quand il restait du temps entre deux réservations.\n\n« Il me faut la même ligne que les autres pour seize heures », dit-elle. Basile tourne le calendrier vers elle. Gasparde écrit son nom et celui de Brigitte pour leur double avec Agnès et sa sœur. Avant de poser le crayon, elle entoure aussi dix heures trente. Elle veut garder ce rendez-vous-là.",
+      "opening": "À dix heures trente, une femme dit au portail qu’elle vient avec l’amie de Dounia et demande s’il est possible de regarder. Gasparde lui montre le banc. Elle déplace le panier de balles pour laisser une place au sac de la femme. De l’autre côté du terrain, Levent s’entraîne à faire rebondir une balle devant lui avant de la frapper. Dounia le rejoint. Elle a encore une marque grise sur la main à l’endroit où le plan a pris un peu de pluie et où elle a redessiné la flèche vendredi.\n\nAprès l’accueil, Nathalie et Basile s’installent devant le registre avec Gasparde. Le comité leur a demandé de fixer les horaires jusqu’à la fin du mois suivant. Nathalie peut reprendre un dimanche de dix à onze si le temps le permet. Basile a proposé deux plages pour répondre au numéro du club. Sur le calendrier, Gasparde remarque que sa ligne et celle de Nathalie sont imprimées de la même taille. Elle se surprend à chercher qui a demandé ce changement. Puis elle regarde où placer l’heure de son double. Sur le vieux planning, elle ne l’avait jamais notée. Elle jouait quand il restait du temps entre deux réservations. La pensée revient quand Basile lui demande le crayon. Elle reconnaît cette sensation d’attendre la prochaine preuve et se rappelle qu’elle veut en parler à Farah. Pour le moment, elle garde un doigt sur l’heure où elle a envie de jouer.\n\n« Il me faut la même ligne que les autres pour seize heures », dit-elle. Basile tourne le calendrier vers elle. Gasparde écrit son nom et celui de Brigitte pour leur double avec Agnès et sa sœur. Avant de poser le crayon, elle entoure aussi dix heures trente. Elle veut garder ce rendez-vous-là.",
       "sections": [
         {
-          "heading": "Retrouver ce qu’on veut faire de son temps",
+          "heading": "Reprendre des activités qui ont de la valeur pour soi",
           "text": "Prendre part aux décisions aide à retrouver une place dont on peut décrire le contenu. Gasparde veut s’occuper des réservations sur des plages connues, accueillir le samedi matin et garder du temps pour jouer. Elle a encore des moments où une modification ordinaire du planning ravive la peur d’être mise de côté. Elle continue à en parler en suivi quand cela lui coûte. Son expérience du club comprend aussi une organisation qu’elle a contribué à construire.\n\nLe trouble délirant peut avoir des effets qui se concentrent autour de certaines préoccupations. Le suivi regarde comment elles évoluent et ce que Gasparde souhaite faire dans sa vie. Le rendez-vous convenu avec Farah reste utile au-delà de la dernière scène. Le registre répond à des questions de fonctionnement du club. Le tennis et le choix de passer un dimanche au canal ont une valeur pour elle dans la vie qu’elle organise."
         },
         {
@@ -444,7 +466,9 @@
       "continuity": {
         "choice": "Le club fixe les rôles, la réservation et l’accueil du samedi, prévoit un autre essai le dimanche avec Nathalie et inscrit le double de Gasparde comme tout autre créneau.",
         "next": "Le comité pourra revoir les plages quand la saison change. Gasparde garde son rendez-vous de suivi, du temps d’accueil et un créneau de jeu avec Brigitte."
-      }
+      },
+      "clinical_focus": "Autonomie dans le rétablissement",
+      "clinical_intro": "Gasparde remarque un détail du calendrier et se surprend à se demander de nouveau ce qu’on prépare. Elle tient aussi à inscrire son heure de double au même titre que les autres. Dans le trouble délirant, une préoccupation peut rester présente alors que la personne retrouve des activités qui lui plaisent. Le récit montre quelle place le suivi et les accords du club occupent chacun dans cette évolution."
     }
   ]
 }

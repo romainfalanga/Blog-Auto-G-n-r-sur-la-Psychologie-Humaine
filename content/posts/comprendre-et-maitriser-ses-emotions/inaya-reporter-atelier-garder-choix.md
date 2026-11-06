@@ -1,22 +1,24 @@
 ---
-title: Après une crise, s’autoriser à revoir ses engagements
+title: Après une crise dépressive quand tenir sa promesse devient trop lourd
 description: Après l’aide urgente, Inaya revoit ses engagements. Les deux sœurs reportent
   l’atelier et choisissent ce qu’elles ont l’énergie de garder.
 slug: inaya-reporter-atelier-garder-choix
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Inaya
-sujet: Trouble dépressif récurrent
+sujet: Récupération après une aggravation
 contexte: La table de la cuisine, quelques jours après l’évaluation
 tags:
+- Trouble dépressif récurrent
 - Dépression récurrente
-- Récupération après une crise
-- Limites choisies
-- Relais familiaux
+- Après-crise dépressive
+- Limites personnelles
+- Continuité du soutien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A71
+clinical_diagnosis: Trouble dépressif récurrent
 episode: 10
 ---
 

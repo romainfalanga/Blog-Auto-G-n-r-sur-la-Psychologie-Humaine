@@ -1,29 +1,31 @@
 ---
-title: Retrouver le fil quand les visiteurs inventent un autre chemin
-description: Le premier groupe entre dans la salle du conte. Devant les toits, une
-  lectrice voit une suite à laquelle Irène n’avait pas pensé.
+title: Retrouver sa place quand un rire fait ressurgir le doute
+description: Au premier rire, Irène pense à la moquerie du CDI. Elle remarque ensuite
+  que le garçon pointe la miche au bout du toit.
 slug: irene-retrouver-le-fil-devant-les-visiteurs
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Irène
-sujet: Trouble des mouvements stéréotypés
+sujet: Anticipation du regard et reprise
 contexte: Dans la salle du conte, pendant la première visite publique
 tags:
+- Trouble des mouvements stéréotypés
 - Trouble des mouvements stéréotypiques
 - CIM-11 6A06
-- Appréhension du regard
-- Reprendre après une interruption
-- Partager le pouvoir d’inventer
+- Appréhension de la moquerie
+- Interruption de l’échange
+- Retour à l’activité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A06
+clinical_diagnosis: Trouble des mouvements stéréotypés
 episode: 11
 ---
 
 Le premier groupe entre avec ses signets. Une femme en pull jaune demande si elle a le droit de changer de chemin au milieu du livre. Irène trouve que c’est une bonne question et attend de voir ce qu’Ilyès va répondre. Il demande à la femme de choisir sa première entrée. Elle pose le doigt sur le toit dessiné sur la flèche. Irène tient un côté du livre ; de l’autre, Ilyès ouvre assez grand pour que la rue se dresse. Un garçon qui regardait derrière la femme se baisse d’un cran, jusqu’à ce que son nez soit presque à la hauteur des cheminées.
 
-Les mains d’Irène reprennent leur mouvement quand la femme se penche pour regarder aussi le canal. Le garçon rit. Irène regarde vite de son côté. Il pointe une miche qui pend au bout de la ficelle, au-dessus du toit. Il croit qu’elle sert de sonnette pour le boulanger. Ilyès a entendu aussi, mais le pli que la femme vient d’ouvrir cache la miche. Irène voudrait demander au garçon qui viendrait sonner. Elle a toujours un côté du livre devant elle, mais elle ne retrouve plus l’image dont ils parlent.
+Les mains d’Irène reprennent leur mouvement quand la femme se penche pour regarder aussi le canal. Le garçon rit. Irène regarde vite de son côté. Depuis le CDI, un rire au moment où ses mains bougent la fait chercher ce que les autres sont en train de regarder. Il pointe une miche qui pend au bout de la ficelle, au-dessus du toit. Il croit qu’elle sert de sonnette pour le boulanger. Ilyès a entendu aussi, mais le pli que la femme vient d’ouvrir cache la miche. Irène voudrait demander au garçon qui viendrait sonner. Elle a toujours un côté du livre devant elle, mais elle ne retrouve plus l’image dont ils parlent.
 
 Ilyès avait glissé un signet sous la première page des toits. Il se tourne vers Irène et lui demande si elle veut retrouver la page. De l’autre côté de la table, la femme cherche où la place pourrait apparaître. Irène peut encore poser sa question. Elle voudrait que le garçon lui montre le toit qu’il choisirait pour sa sonnette.
 

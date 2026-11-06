@@ -1,23 +1,25 @@
 ---
-title: Pour envisager le départ, Adèle veut pouvoir changer d’avis
+title: Pourquoi un repas possible à la maison ne prédit pas le repas en déplacement
 description: Au rendez-vous de suivi, Adèle fait préciser le plan des repas et demande
   que la possibilité de rentrer figure dans la discussion.
 slug: adele-ne-pas-remplir-la-case
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Adèle
-sujet: Trouble évitant ou restrictif de la prise alimentaire
+sujet: Variabilité des difficultés alimentaires
 contexte: Au rendez-vous avec la diététicienne du service
 tags:
+- Trouble évitant ou restrictif de la prise alimentaire
 - ARFID
 - Trouble de l’alimentation sélective et évitante
-- Inquiétude face à l’incertitude
-- Choix révisable
-- Soutien des adultes
+- Variabilité de la restriction
+- Appréhension du déplacement
+- Accompagnement pluridisciplinaire
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B83
+clinical_diagnosis: Trouble évitant ou restrictif de la prise alimentaire
 episode: 3
 ---
 

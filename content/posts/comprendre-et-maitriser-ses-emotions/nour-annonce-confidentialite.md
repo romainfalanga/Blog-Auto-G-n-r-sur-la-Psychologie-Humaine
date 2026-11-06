@@ -1,22 +1,24 @@
 ---
-title: 'Confidentialité : ce que Nour choisit de dire aux voisins'
+title: Parler de son autisme à une amie et choisir ce qui reste privé
 description: Fatou prépare l’annonce. Nour souhaite expliquer les choix de trajet
   et de pause et garder son diagnostic hors du message de quartier.
 slug: nour-annonce-confidentialite
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nour
-sujet: Autisme
+sujet: Confidentialité du diagnostic d’autisme
 contexte: Chez Fatou, pendant la préparation de l’invitation aux voisins
 tags:
+- Autisme
 - TSA
 - Confidentialité
-- Choix de parler de soi
-- Expression de ses besoins
+- Expression des besoins
+- Consentement à la divulgation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A02
+clinical_diagnosis: Autisme
 episode: 5
 ---
 

@@ -1,39 +1,41 @@
 ---
-title: Revoir ses attentes après un premier essai à l’atelier
-description: À l’atelier, le premier croquis ne laisse plus de passage. Côme revoit
-  la taille de sa table et cherche un plateau qui convienne.
+title: Retrouver du temps pour une activité que le jeu avait fait passer après
+description: Côme s’agace de s’être trompé dans les mesures. Il essaie de rester à
+  l’atelier et de retrouver la place que le jeu avait prise à ce projet.
 slug: come-place-pour-la-chaise
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Côme
-sujet: Trouble du jeu vidéo
+sujet: Reprise d’activités investies
 contexte: Le samedi suivant, à l’atelier partagé, entre l’établi et la grande fenêtre
 tags:
+- Trouble du jeu vidéo
 - 6C51
 - Gaming disorder
-- Ajuster ses attentes
-- Frustration
-- Activités qui comptent
+- Retentissement sur les loisirs
+- Frustration dans une activité choisie
+- Reprise d’activités investies
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C51
+clinical_diagnosis: Trouble du jeu vidéo
 episode: 5
 ---
 
 Côme a trouvé un grand carton qui protégeait une armoire. Il en a dessiné les angles au feutre, puis il a demandé à Nadège de l’aider à le poser sur le bâti. La traverse abîmée a été remplacée avec son aide. Il reste une tache noire sur le montant d’origine, mais l’endroit qui lui inquiétait le plus est maintenant solide. Dans le rectangle tracé, il a même dessiné une place pour les tasses. Nadège va chercher une chaise. Elle lui demande de s’asseoir du côté de la fenêtre pendant qu’elle passe avec une caisse vide.
 
-Côme essaie de reculer. Le dossier rencontre le mur avant que ses genoux puissent sortir de sous le carton. Nadège ne dit rien. Elle pose la caisse sur la chaise voisine, puis lui montre le passage qui mène aux casiers de l’atelier. Même s’ils tournaient la table d’un quart de tour, la personne assise au bout occuperait ce passage. Côme déteste la petite satisfaction qu’il perçoit dans son silence. Il avait répondu deux fois qu’il avait pris toutes les mesures.
+Côme essaie de reculer. Le dossier rencontre le mur avant que ses genoux puissent sortir de sous le carton. Nadège ne dit rien. Elle pose la caisse sur la chaise voisine, puis lui montre le passage qui mène aux casiers de l’atelier. Même s’ils tournaient la table d’un quart de tour, la personne assise au bout occuperait ce passage. Côme déteste la petite satisfaction qu’il perçoit dans son silence. Il avait répondu deux fois qu’il avait pris toutes les mesures. Il a envie de replier le carton et de rentrer. Il sait comme il est facile, dans ces moments-là, d’allumer le jeu pour passer à autre chose. Il avait déjà perdu une matinée d’atelier à cause d’une soirée de jeu trop longue. Aujourd’hui, il aimerait rester et trouver où installer les chaises.
 
 Nadège tend le feutre vers lui. Il croit d’abord qu’elle veut réduire le rectangle par le grand côté. Il pose alors, ouvert, le jeu de société qu’il avait apporté dans son sac. Il suffit d’un peu moins de largeur pour que les tasses ne tiennent plus toutes en ligne. Les cartes, elles, tiennent encore. Il plie le carton le long du trait qu’il vient de tracer et recule de nouveau avec la chaise. La caisse passe.
 
-## La place que Côme veut donner à la table
+## Ce que retrouver une activité change au quotidien
 
-Le retentissement d’un trouble du jeu vidéo se comprend aussi à partir des activités auxquelles une personne tient. Côme veut retrouver des matins dont il peut disposer et des rendez-vous qu’il peut honorer. À l’atelier, il a également un problème qui arrive à beaucoup de gens qui construisent des meubles : il a dessiné un plateau avant d’essayer de s’asseoir autour. Il peut regarder cette erreur avec Nadège pour ce qu’elle est. Il ne perd pas sa place à l’atelier en ayant surestimé une dimension.
+Le retentissement d’un trouble du jeu vidéo se comprend aussi à partir des activités auxquelles une personne tient. Côme veut retrouver des matins dont il peut disposer et des rendez-vous qu’il peut honorer. Sur place, il retrouve aussi la possibilité d’être contrarié, d’essayer une autre solution et de prendre plaisir à décider de la suite. À l’atelier, il a également un problème qui arrive à beaucoup de gens qui construisent des meubles : il a dessiné un plateau avant d’essayer de s’asseoir autour. Il peut regarder cette erreur avec Nadège pour ce qu’elle est. Il ne perd pas sa place à l’atelier en ayant surestimé une dimension.
 
 Le projet lui donne des décisions agréables à prendre. Il hésite entre un bois clair, sur lequel les cartes seront faciles à voir, et un bois sombre où il pourra garder la trace des anciennes fixations. Il sait qu’il ne veut pas une table dont personne n’ose se servir. Pour pouvoir conserver ce choix, il lui faut d’abord une mesure qui laisse entrer les chaises.
 
-## Un rendez-vous avec un objet à trouver
+## Une difficulté concrète à résoudre à l’atelier
 
 Le jeudi précédent, Côme a pu quitter le jeu après une petite carte avec ses amis. À l’atelier, le problème du carton lui rappelle ce qu’un essai peut apporter : une information sur la situation telle qu’elle est. Il n’a pas besoin d’expliquer le jeu à Nadège pour profiter de son regard sur le passage. Les deux se préoccupent des usages de l’atelier, et un tracé légèrement plus étroit suffit à les mettre d’accord.
 

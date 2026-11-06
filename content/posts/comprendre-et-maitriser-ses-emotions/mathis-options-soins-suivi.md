@@ -1,22 +1,24 @@
 ---
-title: Garder la main sur les choix de suivi quand les difficultés persistent
+title: Choisir un accompagnement pour les difficultés qui persistent
 description: Certaines adaptations aident Mathis, d’autres problèmes persistent. Au
   cabinet, il compare les options de suivi avec ses propres priorités.
 slug: mathis-options-soins-suivi
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: TDAH chez l’adulte
+sujet: Décision partagée dans le suivi
 contexte: Au rendez-vous de suivi avec la psychiatre
 tags:
+- TDAH chez l’adulte
 - TDAH
+- Retentissement du TDAH
 - Décision partagée
-- Priorités personnelles
-- Transitions entre tâches
+- Choix d’accompagnement
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A05
+clinical_diagnosis: TDAH chez l’adulte
 episode: 8
 ---
 

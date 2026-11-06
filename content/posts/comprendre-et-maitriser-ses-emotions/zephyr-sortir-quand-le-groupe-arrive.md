@@ -1,23 +1,25 @@
 ---
-title: Perdre ses mots quand des visiteurs s’ajoutent au groupe
+title: Retrait quand plusieurs personnes parlent en même temps
 description: Un groupe suit une flèche jusqu’à l’atelier de Zéphyr. Les trois inscrits
   attendent tandis que lui et Maud doivent décider s’ils poursuivent la séance.
 slug: zephyr-sortir-quand-le-groupe-arrive
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Zéphyr
-sujet: Trouble schizotypique
+sujet: Retrait dans l’échange
 contexte: Première matinée d’essai. Trois personnes sont inscrites, dont Loïc, qui
   revient voir la platine tourner.
 tags:
+- Trouble schizotypique
 - Schizotypie
-- Place de l’imprévu dans les échanges
-- Retrait au milieu d’un groupe
-- Relais quand la parole se coupe
+- Retrait dans l’échange
+- Surcharge sociale
+- Peur de reprendre
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A22
+clinical_diagnosis: Trouble schizotypique
 episode: 6
 ---
 
@@ -27,7 +29,7 @@ Sept personnes de la visite générale suivent cette flèche et s’arrêtent su
 
 Il y reste assez longtemps pour voir Maud reconduire le groupe vers la visite et décrocher la flèche. Les trois inscrits attendent encore. Zéphyr pensait qu’il lui suffirait de sortir pour reprendre sa voix et revenir vite. La place devant la platine lui paraît toujours impossible à reprendre. Quand Maud le rejoint, il arrive seulement à lui dire : « Ils ont déjà attendu combien de temps ? »
 
-## Quand le tour de parole disparaît
+## Le retrait soulage sur le moment et laisse la reprise ouverte
 
 Une situation qui change d’un coup peut rendre un échange beaucoup plus difficile à suivre, même si la tâche était connue quelques secondes plus tôt. Ici, trois inscrits attendent une consigne et d’autres visiteurs posent des questions. Zéphyr perd le moment où il en était et quitte la pièce. Pour lui, c’est une façon de se dégager du brouhaha. Les personnes assises n’ont reçu aucune indication sur ce qui arrive ensuite.
 

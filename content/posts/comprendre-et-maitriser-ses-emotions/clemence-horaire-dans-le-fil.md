@@ -1,23 +1,25 @@
 ---
-title: Quand un changement d’horaire ravive la crainte d’un repas de groupe
+title: L’anxiété d’un repas collectif quand l’horaire change
 description: L’horaire de préparation change. Clémence précise ce dont elle a besoin
   pour organiser la soirée et ce qu’elle veut aborder en consultation.
 slug: clemence-horaire-dans-le-fil
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Clémence
-sujet: Anorexie mentale
+sujet: Anxiété anticipatoire autour des repas
 contexte: nommer ce qu’un changement dans la soirée rend difficile sans confier le
   soin au ciné-club
 tags:
+- Anorexie mentale
 - Anorexie
-- Inquiétude face à l’imprévu
-- Crainte des commentaires pendant un repas
-- Demande de repères au groupe
+- Anxiété anticipatoire
+- Crainte du jugement sur les repas
+- Attention accaparée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B80
+clinical_diagnosis: Anorexie mentale
 episode: 2
 ---
 
@@ -27,9 +29,9 @@ Elle était venue travailler sur un détail de la fiche du film. Dans le plan de
 
 Baya arrive avec son propre carnet. Elle lui montre le titre d’une comédie et demande si elles ont encore le temps de voir un passage. Clémence répond d’abord qu’il faudrait reprendre l’organisation. Elle s’entend expliquer tout le programme à quelqu’un qui lui pose une question sur un film. Elle pourrait lui dire ce qu’elle attend de la référente. Elle pourrait aussi demander quelle partie du changement Baya a comprise.
 
-## Ce qu’un changement peut rendre difficile
+## L’anxiété peut commencer bien avant le repas
 
-Les moments collectifs peuvent demander un effort important quand un trouble des conduites alimentaires affecte la vie sociale. La difficulté peut changer selon la situation. Le NICE recommande de tenir compte de ce qui se passe dans le milieu d’études et la vie quotidienne pendant le suivi. Clémence peut parler de ce qui l’a arrêtée dans le message, des questions qu’elle s’est posées et de ce qu’elle voudrait préserver dans la soirée. Cet exemple aide les professionnels à connaître ce qu’elle vit. Il ne suffit pas à expliquer toutes ses réactions à un changement d’horaire ni à établir à lui seul un état de santé.
+Dans la bibliothèque, Clémence perd le fil de son travail en essayant de prévoir une situation qui n’est pas encore décidée. La peur du repas et du regard des autres agit sur son attention dès ce moment. Les moments collectifs peuvent demander un effort important quand un trouble des conduites alimentaires affecte la vie sociale. La difficulté peut changer selon la situation. Le NICE recommande de tenir compte de ce qui se passe dans le milieu d’études et la vie quotidienne pendant le suivi. Clémence peut parler de ce qui l’a arrêtée dans le message, des questions qu’elle s’est posées et de ce qu’elle voudrait préserver dans la soirée. Cet exemple aide les professionnels à connaître ce qu’elle vit. Il ne suffit pas à expliquer toutes ses réactions à un changement d’horaire ni à établir à lui seul un état de santé.
 
 ## Vérifier ce qui est décidé et ce qui reste ouvert
 

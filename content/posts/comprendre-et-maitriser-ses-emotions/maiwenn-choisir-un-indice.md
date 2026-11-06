@@ -1,23 +1,26 @@
 ---
-title: Demander un indice avant une correction chez l’orthophoniste
-description: Maïwenn montre deux phrases à son orthophoniste. Elle veut pouvoir choisir
-  entre chercher elle-même et demander une réponse.
+title: Choisir l’aide qui permet de comprendre une correction
+description: Chez l’orthophoniste, Maïwenn hésite sur un accord. Elle choisit d’abord
+  un indice, puis demande de reprendre le lien entre les mots.
 slug: maiwenn-choisir-un-indice
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Maïwenn
-sujet: Trouble développemental des apprentissages avec déficit de l’expression écrite
+sujet: Aide graduée à la correction
 contexte: Un vendredi après les cours, au cabinet de son orthophoniste
 tags:
+- Trouble développemental des apprentissages avec déficit de l’expression écrite
 - Déficit de l’expression écrite
 - Dysorthographie
-- Confiance pour demander de l’aide
-- Peur de perdre la main
-- Autonomie
+- Orthophonie
+- Accords grammaticaux
+- Choix du niveau d’aide
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.1
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit de l’expression
+  écrite
 episode: 6
 ---
 

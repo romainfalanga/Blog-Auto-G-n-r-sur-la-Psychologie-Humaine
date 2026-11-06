@@ -1,24 +1,26 @@
 ---
-title: Poser des limites sur les dépenses partagées en colocation
+title: Après les pertes, quand une limite financière est vécue comme un rejet
 description: Nora propose de séparer certaines courses le temps de clarifier le loyer.
   Gabin et elle précisent les dépenses qu’ils veulent encore partager.
 slug: gabin-deux-paniers
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gabin
-sujet: Trouble lié aux jeux d’argent
+sujet: Peur du rejet après les pertes
 contexte: s’accorder sur les achats communs et protéger les moyens de chacun dans
   la colocation
 tags:
+- Trouble lié aux jeux d’argent
 - Jeux d’argent
 - Jeu pathologique
-- Limites financières
-- Accord entre proches
-- Autonomie des colocataires
+- Peur du rejet
+- Retentissement sur la confiance
+- Protection financière des proches
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C50
+clinical_diagnosis: Trouble lié aux jeux d’argent
 episode: 7
 ---
 

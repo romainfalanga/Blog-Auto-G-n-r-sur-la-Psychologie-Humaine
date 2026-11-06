@@ -1,23 +1,25 @@
 ---
-title: Poser une limite après une moquerie sur son accent
+title: Moquerie sur l’accent et peur du jugement en contexte
 description: Une remarque sur son accent change une proposition d’animation. Sacha
   demande à Nora de reprendre le contact avec l’organisateur.
 slug: sacha-deux-affiches
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Sacha
-sujet: Trouble d’anxiété sociale
+sujet: Peur du jugement et hostilité réelle
 contexte: Le comptoir de la graineterie, près de l’affiche
 tags:
+- Trouble d’anxiété sociale
 - Anxiété sociale
 - Phobie sociale
-- Discrimination liée à l’accent
+- Moquerie liée à l’accent
 - Limites au travail
 - Soutien d’une collègue
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B04
+clinical_diagnosis: Trouble d’anxiété sociale
 episode: 7
 ---
 

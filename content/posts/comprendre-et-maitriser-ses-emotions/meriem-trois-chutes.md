@@ -1,23 +1,25 @@
 ---
-title: Une reviviscence au milieu d’une conversation
-description: Meriem veut lancer un échange de patrons. Quand une question la ramène
-  brutalement ailleurs, elle trouve ce qu’elle veut annoncer au groupe.
+title: Reviviscence traumatique quand une voix d’autrefois couvre la conversation
+description: Une demande à l’atelier donne à Meriem l’impression qu’une scène ancienne
+  recommence. Elle perd le fil de la conversation.
 slug: meriem-trois-chutes
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Meriem
-sujet: Trouble de stress post-traumatique complexe
+sujet: Reviviscence émotionnelle et sensorielle
 contexte: Devant le tableau de la maison de quartier
 tags:
+- Trouble de stress post-traumatique complexe
 - TSPT complexe
 - CPTSD
-- Reviviscences
-- Régulation émotionnelle
-- Repères prévisibles
+- Reviviscence
+- Rappel traumatique
+- Peur dans le présent
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B41
+clinical_diagnosis: Trouble de stress post-traumatique complexe
 episode: 1
 ---
 
@@ -31,7 +33,7 @@ Une chaise racle le sol derrière elle. Une habituée lui demande si elle doit d
 
 Une reviviscence peut donner l’impression que ce qui s’est passé autrefois se produit à nouveau. Elle peut s’accompagner de sensations ou d’émotions très fortes, même en l’absence d’images nettes de ce qui est arrivé. Dans la scène, Meriem a brièvement la certitude qu’elle doit répondre à quelqu’un qui n’est pas dans la pièce. Se rappeler une situation en sachant qu’elle est passée, ou sursauter au bruit d’une chaise, peut être très désagréable sans correspondre à ce vécu.
 
-Meriem connaît déjà le nom de son trouble de stress post-traumatique complexe. La CIM-11 y décrit le noyau du stress post-traumatique, avec des difficultés durables qui touchent aussi la manière de traverser ses émotions, de se voir et d’être proche des autres. Le mot « complexe » désigne cet ensemble. Une réaction aussi vive que celle de Meriem ne permettrait, à elle seule, de conclure à aucun des deux diagnostics. À l’atelier, personne n’a besoin de trancher ce qui lui est arrivé pour reprendre la conversation.
+Meriem connaît déjà le nom de son trouble de stress post-traumatique complexe. La CIM-11 y décrit le noyau du stress post-traumatique. Il associe reviviscences dans le présent, évitement des rappels et sentiment persistant de menace. S’y ajoutent des difficultés graves et durables à réguler ses émotions, un regard durablement dévalorisé sur soi et des difficultés à se sentir proche des autres. Le mot « complexe » désigne cet ensemble. Une réaction aussi vive que celle de Meriem ne permettrait, à elle seule, de conclure à aucun des deux diagnostics. À l’atelier, personne n’a besoin de trancher ce qui lui est arrivé pour reprendre la conversation.
 
 ## Mettre sur le tableau ce qui concerne l’atelier
 

@@ -1,24 +1,26 @@
 ---
-title: Perdre le fil du cours en essayant de finir sa carte
-description: En géographie, Augustin passe tant de temps sur le contour de la carte
-  qu’il manque la discussion. Il propose d’essayer un fond imprimé.
+title: Quand tracer une carte prend toute l’attention
+description: En géographie, Augustin suit le trait de sa règle et manque l’explication.
+  Un fond imprimé lui laisse du temps pour le raisonnement.
 slug: augustin-la-legende-de-la-carte
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Augustin
-sujet: Trouble développemental de la coordination motrice
+sujet: Attention mobilisée par le geste
 contexte: au collège, pendant la copie d’une carte et la discussion qui l’accompagne
 tags:
+- Trouble développemental de la coordination motrice
 - Trouble du développement de la coordination
 - TDC
 - Dyspraxie
-- Effort invisible
-- Pression du temps
-- Limites du partage
+- Coordination fine
+- Effort de copie
+- Accès à l’explication orale
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A04
+clinical_diagnosis: Trouble développemental de la coordination motrice
 episode: 3
 ---
 

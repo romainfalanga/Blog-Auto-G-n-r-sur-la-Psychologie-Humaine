@@ -1,23 +1,25 @@
 ---
-title: Choisir de s’arrêter après une partie entre amis
+title: Retrouver des choix quand le jeu prenait le pas sur le reste
 description: La table accueille enfin les amis de Côme. Sana choisit le chemin à distance
   et Côme laisse la prochaine partie à un autre jour.
 slug: come-premier-pion-sur-le-bois
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Côme
-sujet: Trouble du jeu vidéo
+sujet: Maîtrise et priorités au quotidien
 contexte: Le dimanche après-midi, pour la première partie à la table de l’atelier
 tags:
+- Trouble du jeu vidéo
 - 6C51
 - Gaming disorder
-- Choisir quand s’arrêter
-- Besoin de lien
-- Continuité du suivi
+- Place du jeu dans la vie
+- Reprise de choix au quotidien
+- Suivi dans la durée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C51
+clinical_diagnosis: Trouble du jeu vidéo
 episode: 12
 ---
 

@@ -1,26 +1,26 @@
 {
   "character_id": "jules",
-  "bio": "Jules, 27 ans, apprend le métier de fleuriste dans un marché couvert. Observateur, il dessine les gestes de Sonia, sa maîtresse d’apprentissage, et les enseignes peintes sous la verrière. Il envoie ses croquis à sa grand-mère Solange, qui lui répond parfois par un dessin. Depuis que des accès de peur l’ont surpris dans des moments ordinaires, il évite certains trajets et ne va plus dessiner avec Samuel le samedi. Il aimerait retrouver cette table et décider lui-même de l’aide qui lui serait utile.",
+  "bio": "Le parcours de Jules raconte le diagnostic d’un trouble panique et ce qu’il essaie ensuite de retrouver. À 27 ans, il apprend le métier de fleuriste au marché couvert. Il dessine les mains des commerçants et envoie ses croquis à sa grand-mère Solange. Depuis que des accès de peur l’ont surpris, il modifie ses trajets et évite la table de dessin de Samuel. Les inquiétudes entre les crises lui prennent du temps au travail et le samedi. Il veut retrouver une place à la table et choisir avec sa psychiatre les appuis qui lui seraient utiles.",
   "profile_topics": [
-    "Interprétation des sensations",
-    "Peur que la panique revienne",
-    "Évitement et reprise d’activités",
-    "Demander un appui précis",
-    "Préserver sa vie privée"
+    "Trouble panique",
+    "Attaques de panique inattendues",
+    "Anxiété d’anticipation",
+    "Évitement des situations",
+    "Reprise progressive d’activités"
   ],
   "episodes": [
     {
       "number": 1,
       "slug": "jules-ruban-sur-le-carnet",
-      "title": "Éviter une allée du marché par peur d’une nouvelle crise",
+      "title": "Peur d’une nouvelle attaque et évitement au marché",
       "description": "Au marché couvert, Jules évite une allée où il a eu peur. Il prépare son prochain rendez-vous médical et hésite à rejoindre la table de dessin.",
       "context": "Au stand de fleurs, alors qu’une évaluation médicale est déjà engagée",
       "topics": [
-        "Peur soudaine et sensations physiques",
-        "Évitement d’un trajet",
-        "Retentissement sur les loisirs"
+        "Attaque de panique",
+        "Peur de la répétition",
+        "Évitement des trajets"
       ],
-      "opening": "Jules cherche un ruban assez fin pour ne pas cacher la tige des renoncules. Sonia, sa maîtresse d’apprentissage, lui a laissé composer le premier bouquet de la matinée. Il pose trois morceaux de ruban sur la table et en garde un bleu presque gris. À vingt-sept ans, il a encore l’habitude de dessiner les fleurs à côté du prix quand il veut retenir leur nom. Il envoie certains croquis à Solange, sa grand-mère. Elle lui répond parfois au dos d’une carte de son ancien quartier.\n\nDe l’autre côté du marché couvert, Samuel rouvre sa table de dessin du samedi. Jules y venait avant d’entrer en apprentissage. Il voudrait reprendre la place près du marchand de fromages, d’où l’on voit les enseignes peintes sous la verrière. Pour aller lui dire bonjour, il faudrait traverser l’allée centrale. C’est là qu’un matin, sans s’y attendre, il a eu le cœur qui battait très fort et s’est senti sur le point de tomber. Depuis, il passe par la porte latérale. Une autre fois, chez lui, une peur brutale l’a pris alors qu’il réparait la couverture de son carnet.\n\nUn médecin a commencé à évaluer ces épisodes. Jules a un nouveau rendez-vous et veut y parler des trajets qu’il a changés depuis. Sonia lui demande s’il préfère porter le bouquet à la cliente ou finir la commande suivante au stand. Elle a vu le dessin qu’il a glissé entre les pages, avec un bout du ruban bleu. Jules voudrait encore pouvoir le montrer à Samuel.",
+      "opening": "Au marché, Jules repère la place où Samuel installe sa table de dessin et sent son ventre se nouer à l’idée de prendre l’allée centrale. Il se tourne vers les renoncules que Sonia lui a confiées pour le premier bouquet de la matinée. Sur le stand, le choix est plus facile. Il garde un ruban bleu gris assez fin pour laisser les tiges visibles. À vingt-sept ans, il dessine encore les fleurs à côté du prix pour retenir leur nom. Il envoie certains croquis à Solange, sa grand-mère, qui lui répond parfois au dos d’une carte.\n\nDe l’autre côté du marché couvert, Samuel rouvre sa table de dessin du samedi. Jules y venait avant d’entrer en apprentissage. Il voudrait reprendre la place près du marchand de fromages, d’où l’on voit les enseignes peintes sous la verrière. Pour aller lui dire bonjour, il faudrait traverser l’allée centrale. C’est là qu’un matin, sans s’y attendre, il a eu le cœur qui battait très fort et s’est senti sur le point de tomber. Depuis, il passe par la porte latérale. Une autre fois, chez lui, une peur brutale l’a pris alors qu’il réparait la couverture de son carnet.\n\nUn médecin a commencé à évaluer ces épisodes. Jules a un nouveau rendez-vous et veut y parler des trajets qu’il a changés depuis. Sonia lui demande s’il préfère porter le bouquet à la cliente ou finir la commande suivante au stand. Elle a vu le dessin qu’il a glissé entre les pages, avec un bout du ruban bleu. Jules voudrait encore pouvoir le montrer à Samuel.",
       "sections": [
         {
           "heading": "Ce qu’un épisode isolé permet de dire",
@@ -43,18 +43,20 @@
       "continuity": {
         "choice": "Jules choisit une tâche au stand et souhaite décrire au médecin les épisodes et les trajets qu’il évite.",
         "next": "Lorsqu’une douleur thoracique nouvelle survient au marché, Sonia appelle les secours et l’évaluation médicale continue."
-      }
+      },
+      "clinical_focus": "Peur anticipée d’une attaque de panique",
+      "clinical_intro": "Jules voudrait faire la livraison et redoute de repasser par l’allée où la peur l’a surpris. Une attaque de panique peut être suivie d’une inquiétude quant à sa répétition. Cette peur a déjà un effet sur ses déplacements et sur le dessin qu’il a laissé de côté. Son médecin a besoin de l’histoire des épisodes et des situations où ils surviennent pour poursuivre l’évaluation."
     },
     {
       "number": 2,
       "slug": "jules-appel-de-sonia",
-      "title": "Peur et douleur nouvelle au marché : Sonia appelle les secours",
+      "title": "Douleur thoracique et peur intense quand la cause reste à évaluer",
       "description": "Une douleur thoracique nouvelle et une difficulté à respirer surprennent Jules. Sonia appelle les secours et décrit les signes apparus.",
       "context": "Au stand de fleurs, pendant l’apparition de signes aigus inhabituels",
       "topics": [
-        "Peur face à des sensations nouvelles",
-        "Soutien d’une collègue dans l’urgence",
-        "Évaluation urgente de signes physiques"
+        "Douleur thoracique nouvelle",
+        "Peur intense",
+        "Évaluation médicale urgente"
       ],
       "opening": "Une cliente demande à Jules d’écrire « à dimanche » sur une petite carte. Il en a choisi une dont les coins sont ronds. Le stylo s’arrête après le premier mot. Une douleur brutale lui serre la poitrine et il a du mal à reprendre son souffle. Il reconnaît la peur qui lui vient, mais cette douleur lui est nouvelle. Il appelle Sonia depuis le bout du comptoir. La cliente recule et pose le bouquet qu’elle allait emporter.\n\nSonia prend le téléphone et appelle le 15. Elle dit qu’un homme de vingt-sept ans présente une douleur thoracique apparue brutalement et peine à respirer. Elle donne l’adresse du marché et décrit ce qu’elle voit. Un commerçant du stand voisin va attendre l’équipe à l’entrée indiquée, sur sa demande. Sonia reste près de Jules et suit les consignes données au téléphone. Elle demande à un collègue de reprendre les commandes du stand pour que la discussion avec les secours puisse continuer.\n\nPlus tard, au service d’urgence, Jules retrouve la carte « à dimanche » dans la poche de son tablier, posé avec ses affaires. La cliente avait déjà dicté la suite, qu’il n’a pas eu le temps d’écrire. La médecin lui demande quand la douleur a commencé et si elle lui rappelle les épisodes dont il parle déjà avec son médecin. Il peut dire ce qui lui a paru différent. L’équipe l’examine et choisit les examens qu’elle juge nécessaires. Jules aimerait aussi savoir ce qu’il pourra transmettre à la personne qui le suit.",
       "sections": [
@@ -80,24 +82,26 @@
       "continuity": {
         "choice": "Sonia appelle le 15 pour les signes aigus et Jules garde le compte rendu pour son suivi.",
         "next": "Les informations du bilan et l’histoire des épisodes sont reprises au rendez-vous avec la spécialiste."
-      }
+      },
+      "clinical_focus": "Signes physiques nécessitant une évaluation urgente",
+      "clinical_intro": "Au marché, Jules ressent une douleur thoracique nouvelle et peine à respirer. Il reconnaît la peur, tandis que le caractère nouveau des signes conduit Sonia à appeler les secours. Certaines sensations peuvent se retrouver dans une attaque de panique et dans des problèmes physiques. L’équipe d’urgence peut évaluer leur cause à partir de ce que Jules et Sonia décrivent."
     },
     {
       "number": 3,
       "slug": "jules-nom-au-cabinet",
-      "title": "Trouble panique : quand la peur persiste entre les attaques",
+      "title": "Le trouble panique et la peur qui s’installe entre les attaques",
       "description": "La psychiatre reprend avec Jules l’histoire des épisodes et ce qu’ils ont changé. Elle lui explique pourquoi elle retient un trouble panique.",
       "context": "Lors de la consultation spécialisée, après le premier bilan médical",
       "topics": [
         "Attaques de panique inattendues",
-        "Inquiétude entre les attaques",
-        "Changements dans les activités"
+        "Anxiété d’anticipation",
+        "Retentissement sur les activités"
       ],
       "opening": "Jules a plié l’adresse du cabinet dans le sens de la verrière qu’il essaie de dessiner. Il avait commencé le trait dans le bus. Quand il ouvre le carnet devant la psychiatre, le haut de l’arche est déjà plus large que sur le modèle. Il laisse le dessin en place et retrouve derrière lui le papier que son médecin lui a demandé d’apporter. À la suite des premiers rendez-vous, ils ont convenu de cette consultation. Avec l’accord de Jules, le médecin a transmis son bilan et le compte rendu du service d’urgence.\n\nLa psychiatre lui demande de revenir sur les épisodes qui l’avaient amené à consulter avant cette douleur nouvelle. Jules lui raconte l’allée centrale, où il était en train de comparer deux rubans, et la soirée où il recollait son carnet chez lui. Il ne s’attendait à rien de particulier dans ces deux moments. Depuis, il s’arrange pour que d’autres portent certains bouquets à l’entrée et il a décliné plusieurs invitations au dessin. Il parle aussi de la peur de revivre un épisode dans le bus, même les jours où il s’y sent bien.\n\nLa psychiatre reprend l’histoire avec lui, les résultats des examens décidés par les médecins et ce qu’il lui a expliqué de sa santé. Elle lui dit qu’elle retient un trouble panique. Jules lui demande si ce nom veut dire qu’il doit désormais attribuer toute sensation inhabituelle à la panique. Elle lui explique que des signes nouveaux doivent être évalués selon la situation. Il laisse le carnet ouvert. Il a encore une question sur la suite des rendez-vous.",
       "sections": [
         {
           "heading": "Ce que la psychiatre met en relation",
-          "text": "Le trouble panique, classé 6B01 dans la CIM-11, comporte des attaques de panique inattendues qui se répètent. Une inquiétude durable quant à leur retour ou des changements dans les activités peuvent les accompagner. La psychiatre regarde ensemble les épisodes, leurs circonstances, les conséquences et les autres explications possibles. Chez Jules, elle tient compte de l’histoire qu’il décrit et des éléments du bilan. L’évaluation ne repose pas sur la seule visite aux urgences.\n\nJules peut demander ce que le diagnostic explique et ce qui mérite encore d’être examiné séparément. Il se souvient que la douleur thoracique du marché lui a paru nouvelle. La réponse des professionnels à cet épisode garde sa place dans son dossier. Un nom donné aujourd’hui ne constitue pas une explication automatique de chaque signe physique qui pourra survenir plus tard."
+          "text": "Le trouble panique, classé 6B01 dans la CIM-11, comporte des attaques de panique inattendues qui se répètent. La peur durable qu’elles reviennent ou les conduites adoptées pour en éviter le retour font aussi partie du tableau. La psychiatre regarde ensemble les épisodes, leurs circonstances, les conséquences et les autres explications possibles. Chez Jules, elle tient compte de l’histoire qu’il décrit et des éléments du bilan. L’évaluation ne repose pas sur la seule visite aux urgences.\n\nJules peut demander ce que le diagnostic explique et ce qui mérite encore d’être examiné séparément. Il se souvient que la douleur thoracique du marché lui a paru nouvelle. La réponse des professionnels à cet épisode garde sa place dans son dossier. Un nom donné aujourd’hui ne constitue pas une explication automatique de chaque signe physique qui pourra survenir plus tard."
         },
         {
           "heading": "Les questions qui restent à poser",
@@ -116,20 +120,22 @@
       "continuity": {
         "choice": "Jules entend le diagnostic de trouble panique posé par la psychiatre et accepte un entretien pour discuter de la suite.",
         "next": "Il décide ce qu’il souhaite dire à sa grand-mère et quelle aide il veut lui demander."
-      }
+      },
+      "clinical_focus": "Inquiétude persistante entre les attaques",
+      "clinical_intro": "La psychiatre rapproche les attaques inattendues que Jules décrit, les trajets qu’il change et la crainte qu’il éprouve entre les épisodes. Dans le trouble panique, certaines attaques arrivent sans prévenir. Elles sont suivies d’inquiétudes persistantes ou de conduites destinées à éviter leur retour. L’évaluation inclut aussi les autres causes possibles. C’est à partir de cette histoire que la psychiatre lui explique son diagnostic."
     },
     {
       "number": 4,
       "slug": "jules-enveloppe-pour-solange",
-      "title": "Se confier à sa grand-mère et choisir l’aide dont on a besoin",
+      "title": "Parler de la peur après le diagnostic de trouble panique",
       "description": "Jules parle du diagnostic à Solange. Il choisit ce qu’il veut lui confier et l’appui qu’il aimerait garder autour de ses dessins.",
       "context": "Lors d’un appel à sa grand-mère, quelques jours après le diagnostic",
       "topics": [
-        "Confidences choisies",
-        "Aide proposée et ajustée",
-        "Lien familial autour du dessin"
+        "Crainte d’être surprotégé",
+        "Confidentialité",
+        "Soutien choisi"
       ],
-      "opening": "Jules a trouvé une enveloppe verte de la bonne taille pour envoyer le dessin. Il pose le téléphone sur le bord de la table et attend que sa grand-mère décroche. Solange lui demande d’abord s’il a enfin choisi la couleur du haut de la verrière. Elle avait reçu une photo du croquis et voulait savoir pourquoi il avait laissé un petit triangle en blanc. Jules lui explique que c’est là que le verre prend la lumière en fin de matinée. Il ne sait pas encore rendre cette couleur sans y mettre trop de jaune.\n\nElle lui demande ensuite comment s’est passé le rendez-vous dont il lui avait parlé. Jules prononce le nom qu’il a entendu au cabinet. Il ajoute que la psychiatre et son médecin vont continuer à le suivre. Solange propose de venir au marché avec lui dès le lendemain. Elle ne connaît ni son heure d’arrivée ni les contraintes du stand. Jules sait qu’elle aurait du mal à quitter le café des voisins, où elle a promis d’apporter les jeux.\n\nIl garde un doigt sur le bord de l’enveloppe. Il n’a pas envie que Solange passe sa matinée à l’attendre devant l’allée. En revanche, il aimerait qu’elle lui dise ce qui se voit sur le dessin avant même qu’on cherche les détails. Il lui dit qu’il n’a pas besoin d’être accompagné demain. Est-ce qu’elle aurait le temps de regarder le papier quand elle le recevra ?",
+      "opening": "Jules a répété les mots « trouble panique » avant d’appeler Solange. Il voudrait lui expliquer pourquoi il passe par l’autre porte du marché et se demande si elle va penser qu’il lui faut désormais quelqu’un pour chaque trajet. Quand elle décroche, elle lui demande s’il a choisi la couleur du haut de la verrière. Elle avait reçu une photo du croquis et se demandait pourquoi il avait laissé un triangle blanc. Jules lui explique que c’est là que le verre prend la lumière. Il écoute sa réponse avant de remettre la feuille dans l’enveloppe.\n\nElle lui demande ensuite comment s’est passé le rendez-vous dont il lui avait parlé. Jules prononce le nom qu’il a entendu au cabinet. Il lui parle de l’allée et lui dit que la psychiatre et son médecin vont continuer à le suivre. Solange propose de venir au marché avec lui dès le lendemain. Elle ne connaît ni son heure d’arrivée ni les contraintes du stand. Jules sait qu’elle aurait du mal à quitter le café des voisins, où elle a promis d’apporter les jeux.\n\nIl garde un doigt sur le bord de l’enveloppe. Il n’a pas envie que Solange passe sa matinée à l’attendre devant l’allée. En revanche, il aimerait qu’elle lui dise ce qui se voit sur le dessin avant même qu’on cherche les détails. Il lui dit qu’il n’a pas besoin d’être accompagné demain. Est-ce qu’elle aurait le temps de regarder le papier quand elle le recevra ?",
       "sections": [
         {
           "heading": "Parler d’un diagnostic à la mesure du lien",
@@ -152,18 +158,20 @@
       "continuity": {
         "choice": "Jules partage le diagnostic avec Solange, décline l’accompagnement du lendemain et lui envoie le croquis qu’il a choisi.",
         "next": "Il discute avec la psychiatre d’un soin structuré et du retour au dessin comme objectif personnel."
-      }
+      },
+      "clinical_focus": "Divulgation choisie du diagnostic",
+      "clinical_intro": "Jules parle du trouble panique à Solange et lui dit que certaines allées du marché lui coûtent encore. Elle lui propose de venir avec lui. Il préfère garder pour l’instant leur rendez-vous autour du dessin, dont il attend aussi du réconfort. Le diagnostic donne des mots à leur échange et Jules peut préciser le soutien qu’il aimerait recevoir, dans une relation qui garde ses autres sujets."
     },
     {
       "number": 5,
       "slug": "jules-essai-convenu",
-      "title": "Travailler sur sa peur pour retrouver le dessin au marché",
+      "title": "Travailler sur la peur et retrouver une activité évitée",
       "description": "Avec la psychiatre, Jules discute d’une thérapie et choisit le dessin au marché comme premier sujet de travail.",
       "context": "Au deuxième entretien avec la psychiatre, pour discuter de la prise en charge",
       "topics": [
-        "Évitement d’activités qui comptent",
-        "Objectif de soin choisi",
-        "Thérapie cognitivo-comportementale"
+        "Évitement des activités",
+        "Peur des sensations",
+        "Objectifs de soin choisis"
       ],
       "opening": "Jules a apporté une feuille où il a dessiné trois emplacements de la table de Samuel. Il se rappelle où il s’asseyait et à quel moment les commerçants repliaient les caisses. Le samedi où il a décliné la dernière invitation, Samuel proposait de dessiner les mains qui travaillent. Jules aurait voulu prendre pour modèle la façon dont Sonia bloque les tiges sous son pouce. Il peut encore se rappeler la position de sa main, mais il aimerait travailler devant un modèle qui bouge.\n\nAu cabinet, la psychiatre reprend les possibilités de soin. Elle lui parle d’une thérapie cognitivo-comportementale pour le trouble panique. Jules demande si cela veut dire qu’il devra s’installer au milieu du marché jusqu’à ce qu’il n’ait plus peur. Il pense au samedi où il a réussi à rester devant une porte quelques instants, puis à la fois où une sensation inhabituelle a conduit Sonia à appeler. Il veut savoir comment le travail tiendra compte de ces deux expériences.\n\nLa psychiatre lui propose de partir d’une activité qui lui tient à cœur, de comprendre ce qui lui arrive autour de ses trajets et de choisir avec lui ce qu’ils pourraient essayer dans le suivi. Jules peut poser des questions sur le cadre, dire ce qui lui paraît trop difficile et revenir sur son accord. Il rapproche la feuille qu’il avait laissée sur le côté. Il voudrait commencer par ce que représente la table de dessin, et garder le choix du moment où il reparlera du marché avec Sonia.",
       "sections": [
@@ -188,18 +196,20 @@
       "continuity": {
         "choice": "Jules choisit de commencer un travail encadré et propose de partir de la table de dessin.",
         "next": "Au marché, il formule une demande précise sur ses tâches en discutant d’une commande avec Sonia."
-      }
+      },
+      "clinical_focus": "Thérapie cognitivo-comportementale du trouble panique",
+      "clinical_intro": "Jules aimerait dessiner les mains de Sonia et a déjà refusé une rencontre au marché. La thérapie cognitivo-comportementale du trouble panique peut travailler les sensations, les inquiétudes qu’elles déclenchent et les activités que la personne évite. Avec sa psychiatre, Jules choisit un objectif qui lui importe et discute de la façon dont ils prépareront ensemble un premier essai."
     },
     {
       "number": 6,
       "slug": "jules-commande-aux-pavots",
-      "title": "Peur de traverser le marché : Jules demande un relais",
+      "title": "Quand l’anxiété anticipée gêne une tâche au travail",
       "description": "Jules aimerait réaliser le bouquet d’une cliente. Il demande à Sonia de discuter de la livraison et précise ce qu’il souhaite garder privé.",
       "context": "Au stand de fleurs, pendant la préparation d’une commande pour une boutique du marché",
       "topics": [
-        "Peur d’un trajet au travail",
-        "Négociation d’un aménagement",
-        "Confidentialité au travail"
+        "Anxiété d’anticipation",
+        "Évitement au travail",
+        "Soutien ponctuel"
       ],
       "opening": "La patronne de la boutique de tissus veut un bouquet pour la vitrine. Elle a apporté une chute du rideau qu’elle vient de coudre. Jules la déplie et voit une bordure orange là où il avait d’abord cru qu’elle était rouge. Il pense à des pavots, puis propose des branches qui pourront dépasser de chaque côté du vase. Sonia lui demande de faire un essai sur la table. Si la cliente aime le résultat, quelqu’un devra l’apporter au bout de l’allée centrale pendant le service du midi.\n\nJules serre l’élastique d’un premier assemblage. Il aimerait présenter lui-même les couleurs. Ces dernières semaines, il a trouvé plusieurs raisons de laisser les livraisons à d’autres. Il souhaite que Sonia sache ce qui lui coûte, sans que l’ensemble des commerçants apprenne ce qu’il a dit à la psychiatre. Il lui demande s’ils peuvent discuter quelques minutes derrière la réserve avant que le stand se remplisse.\n\nSonia doit faire l’inventaire à midi et une collègue a prévu de livrer deux autres commandes. Jules demande si quelqu’un peut porter le bouquet de la boutique tandis qu’il explique le choix des fleurs à la cliente au stand. Il peut aussi préparer une note sur l’installation des tiges. Sonia regarde le planning. Elle veut savoir ce qu’il voudrait lui faire savoir pour les prochaines livraisons et ce dont ils doivent seulement convenir pour celle-ci.",
       "sections": [
@@ -224,18 +234,20 @@
       "continuity": {
         "choice": "Jules présente sa composition à la cliente et choisit avec Sonia un relais pour une livraison précise.",
         "next": "Avec la psychiatre, il revient sur cette matinée et décide du premier essai accompagné."
-      }
+      },
+      "clinical_focus": "Retentissement professionnel de l’évitement",
+      "clinical_intro": "Jules imagine le bouquet de la cliente et s’inquiète déjà de devoir le livrer à travers le marché. Le trouble panique peut peser sur une partie d’un travail alors que d’autres gestes restent possibles et plaisants. Il précise à Sonia quel trajet lui pose difficulté. Le relais leur permet de répartir une tâche concrète, et Jules pourra raconter cette situation dans le cadre du suivi."
     },
     {
       "number": 7,
       "slug": "jules-aller-jusqu-au-libraire",
-      "title": "Jules appréhende l’entrée du marché et choisit où s’arrêter",
+      "title": "Anxiété d’anticipation avant un essai accompagné",
       "description": "Jules et la psychiatre font un essai accompagné près du marché. Il garde le choix de s’arrêter et peut raconter ce qu’il a remarqué.",
       "context": "Près du marché couvert, lors d’un essai convenu dans le suivi",
       "topics": [
         "Anxiété d’anticipation",
-        "Choix du rythme",
-        "Essai accompagné"
+        "Essai thérapeutique accompagné",
+        "Choix du rythme"
       ],
       "opening": "Samuel a posé une caisse de livres devant son stand. On peut voir les couvertures sans entrer dans l’allée du marché. Jules s’arrête en apercevant une édition illustrée dont il se souvient. Sa grand-mère lui avait montré une image du même livre pour lui expliquer comment elle dessinait le bord d’un toit. Il a envie d’aller demander le prix. Il regarde aussi l’ouverture dans laquelle les gens disparaissent en entrant sous la verrière.\n\nIl est venu avec la psychiatre pour l’essai qu’ils ont préparé. Ils en ont discuté au cabinet, y compris de ce qu’il pourrait dire si l’expérience devenait trop difficile. L’endroit a été choisi avec lui. Il n’a pas prévenu Samuel de la raison de leur présence et n’a pas à l’expliquer. La psychiatre lui demande s’il souhaite commencer comme ils en ont parlé. Jules répond oui. À mesure qu’ils approchent, il entend le bruit d’un chariot qu’il n’avait pas remarqué depuis la rue. Il craint de ressentir soudain la même peur qu’autrefois.\n\nArrivé à la caisse, Jules lit le nom du livre et perd le fil du prix. Il dit à la psychiatre qu’il voudrait arrêter l’essai là. Elle l’écoute et reprend avec lui ce qu’ils viennent de faire à l’endroit où il préfère en parler. Jules pense encore au livre. Pour l’instant, il veut surtout lui dire à quel moment le trajet qu’il imaginait a cessé de ressembler à celui qu’il faisait.",
       "sections": [
@@ -260,18 +272,20 @@
       "continuity": {
         "choice": "Jules fait un essai avec la psychiatre, demande à s’arrêter et dit ce qu’il souhaite reprendre en consultation.",
         "next": "Invité à la table de dessin, il choisit de partir plus tôt que prévu et doit faire une place à sa déception."
-      }
+      },
+      "clinical_focus": "Anxiété avant une situation redoutée",
+      "clinical_intro": "Jules veut voir les livres de Samuel et observe l’entrée du marché avant d’avancer. La peur commence ici dans ce qu’il s’attend à vivre. Un essai préparé avec sa psychiatre permet de revenir sur ses attentes et sur ce qu’il éprouve sur place. Il peut lui dire quand il veut s’arrêter et reprendre ensuite ce qui l’a surpris, dont le bruit soudain d’un chariot."
     },
     {
       "number": 8,
       "slug": "jules-feuille-repliee",
-      "title": "La déception de quitter tôt la table de dessin",
+      "title": "Peur et déception quand une sortie doit être raccourcie",
       "description": "Jules rejoint le groupe pour dessiner les mains des commerçants. Il choisit de partir tôt et garde une partie du croquis.",
       "context": "Un samedi à la table de dessin, après le premier essai accompagné",
       "topics": [
-        "Variabilité des difficultés",
-        "Déception après une sortie",
-        "Maintien du lien avec le groupe"
+        "Variabilité de la peur",
+        "Déception",
+        "Retentissement sur les loisirs"
       ],
       "opening": "Samuel met un poids sur la pile de feuilles. Le marché est plus bruyant que le jour où Jules est venu avec la psychiatre. Une commerçante essaie de fermer une boîte sans quitter sa cliente des yeux. Jules trace deux lignes pour son poignet, puis cherche le pouce qui disparaît sous le couvercle. Il s’est mis à une place où les gens passent derrière lui. Il n’avait pas prévu que la table serait tournée de ce côté. Samuel lui propose une autre chaise, près de l’extrémité.\n\nJules voudrait suivre la main jusqu’au bout. Il passe pourtant plus de temps à se demander s’il va de nouveau être pris de peur qu’à regarder la boîte. Le passage derrière sa chaise lui fait perdre le geste. Il dit à Samuel qu’il pense partir. Celui-ci demande si Jules veut qu’il marche avec lui jusqu’à la sortie ou s’il préfère y aller seul. Il ne connaît pas l’ensemble du suivi de Jules. Il sait seulement que la table lui avait manqué et qu’il peut garder les dessins pour la prochaine fois.\n\nJules replie la feuille pour la glisser dans son carnet. Le pouce se retrouve exactement dans le pli. Il aurait voulu revenir avec un dessin entier. Il se demande ce qu’il dira à Solange, puis se rappelle qu’elle lui avait demandé de lui envoyer ce qui l’intéressait, même quand il ne savait pas encore le finir. Il demande à Samuel de garder la place près de l’extrémité pour quelqu’un d’autre aujourd’hui.",
       "sections": [
@@ -296,18 +310,20 @@
       "continuity": {
         "choice": "Jules quitte la table de dessin plus tôt, garde la feuille et raconte sa déception à Solange.",
         "next": "Un arrêt déplacé complique la visite qu’il veut rendre à sa grand-mère. Il doit décider du trajet avec les informations disponibles."
-      }
+      },
+      "clinical_focus": "Peur variable selon la situation",
+      "clinical_intro": "Jules dessine quelques traits au marché et découvre que les gens passent juste derrière sa chaise. Il choisit de partir et confie sa déception à Solange. La peur liée au trouble panique peut varier selon le jour et le contexte. Comparer cette matinée à l’essai près de la librairie aide à décrire ce qui lui coûte, tout en gardant la place des gestes qu’il a pu faire."
     },
     {
       "number": 9,
       "slug": "jules-arret-deplace",
-      "title": "L’inquiétude de Jules quand son arrêt de bus change",
+      "title": "Peur dans les transports et contrainte réelle du trajet",
       "description": "L’arrêt de bus a été déplacé. Jules cherche un trajet pour voir sa grand-mère et choisit parmi les possibilités qui restent.",
       "context": "Sur le trajet de Jules vers l’appartement de Solange, pendant des travaux de voirie",
       "topics": [
         "Peur dans les transports",
-        "Distinction entre peur et obstacle réel",
-        "Autonomie avec un appui ponctuel"
+        "Incertitude du trajet",
+        "Autonomie dans la décision"
       ],
       "opening": "Jules trouve une flèche orange sur le poteau de l’arrêt. Il a regardé l’annonce la veille, mais la flèche qu’il imaginait au coin de la rue l’envoie maintenant vers le carrefour. Les barrières ferment le passage sur lequel il comptait. Il s’arrête sur le trottoir accessible et demande à l’agent qui renseigne les voyageurs où se prend le bus. L’agent lui indique deux possibilités et précise par où rejoindre le nouvel arrêt sans entrer dans la zone de travaux.\n\nChez Solange, les voisins ont accepté qu’il vienne dessiner les mains qui trient les dominos. Jules a pris un petit carnet, de façon à pouvoir le poser entre les boîtes. Il voudrait entendre la façon dont les pièces tombent quand on les retourne toutes ensemble. Il pense aussi au bus qu’il avait évité un samedi de marché et à la peur d’être trop loin d’un endroit où descendre. Il commence à calculer s’il arrivera avant la fin de la première partie.\n\nSolange lui téléphone pour lui dire que les voisins viennent d’arriver. Elle est déjà chez elle et ne pourra pas venir jusqu’au carrefour. Elle peut l’attendre ou lui proposer un autre jour. Jules regarde les deux itinéraires sur le plan qu’on vient de lui montrer. L’un arrive près de la maison, l’autre lui laisserait une marche par une rue qu’il aime bien. Il demande à Solange combien de temps elle veut consacrer à leur visite.",
       "sections": [
@@ -332,18 +348,20 @@
       "continuity": {
         "choice": "Jules suit les indications du réseau, choisit son trajet et dessine chez Solange avec l’accord des personnes présentes.",
         "next": "Au cabinet, il compare ces expériences et revoit avec la psychiatre les aides et les contacts qui lui conviennent."
-      }
+      },
+      "clinical_focus": "Peur anticipée et obstacle observable",
+      "clinical_intro": "Le passage est réellement fermé par des barrières, et Jules s’inquiète aussi de ce qui pourrait lui arriver en chemin. Dans le suivi du trouble panique, il peut distinguer ce qu’il redoute et la contrainte qu’un agent du réseau peut vérifier. Les deux pèsent sur son choix. Une information sur le nouvel arrêt lui rend des possibilités sans effacer d’un coup la peur du trajet."
     },
     {
       "number": 10,
       "slug": "jules-deux-dessins-au-cabinet",
-      "title": "Peur en sortie : Jules repère ce qui l’aide selon le lieu",
+      "title": "Pourquoi une même activité peut coûter plus selon le lieu",
       "description": "Jules apporte un dessin du marché et un autre de chez Solange. Il revoit avec la psychiatre ce qu’il souhaite poursuivre et qui joindre.",
       "context": "Lors d’un point de suivi avec la psychiatre, après plusieurs sorties différentes",
       "topics": [
         "Peur selon le contexte",
-        "Soutien adapté à ses besoins",
-        "Révision du suivi"
+        "Sentiment de pouvoir sortir",
+        "Réévaluation du suivi"
       ],
       "opening": "Jules pose le croquis de la boîte de dominos à côté de la feuille pliée du marché. Au crayon, les deux mains qu’il a dessinées ne se ressemblent pas. L’une tenait un couvercle à moitié fermé. L’autre a attendu qu’il dessine la position de son pouce avant de poser une pièce. Il explique à la psychiatre que chez Solange, les gens parlaient presque aussi fort qu’au marché. Ce qu’il a trouvé différent, c’est qu’il savait à peu près quand la partie finirait et qu’il pouvait laisser le dessin sur la table en sortant prendre l’air.\n\nIls reviennent sur l’essai accompagné et sur ce que Jules a envie de faire maintenant. Il voudrait revoir Samuel, mais il ne veut pas lui demander de le retrouver devant chaque porte. Il préfère pouvoir lui écrire s’il a une question sur la table, comme n’importe qui dans le groupe. En revanche, il aimerait savoir avec la psychiatre comment adapter le travail qu’ils ont entrepris si ses inquiétudes prennent de nouveau plus de place. Elle lui demande ce qu’il veut garder de leurs accords et ce qu’il voudrait préciser.\n\nJules reparle alors du jour où Sonia a dû appeler les secours. Il ne sait pas toujours à qui poser une question quand elle concerne une sensation différente. La psychiatre l’aide à distinguer les questions de suivi à lui adresser, l’avis médical à demander pour des signes nouveaux, et le recours aux urgences si des signes aigus inquiétants surviennent. Jules garde une page libre pour ce qu’ils auront décidé.",
       "sections": [
@@ -368,18 +386,20 @@
       "continuity": {
         "choice": "Jules revoit les appuis et les contacts avec la psychiatre puis demande à Samuel comment se tiendra la prochaine table.",
         "next": "De retour au dessin, il veut choisir sa place, son sujet et la façon de participer à la matinée."
-      }
+      },
+      "clinical_focus": "Variabilité contextuelle de l’anxiété",
+      "clinical_intro": "Jules montre deux dessins à sa psychiatre. Chez Solange, les voix étaient fortes aussi, mais il savait quand la partie finirait et pouvait sortir prendre l’air. Dans le trouble panique, le contexte peut modifier l’appréhension et l’effort nécessaires à une activité. Le récit de ces deux situations aide à préciser ce que Jules souhaite travailler et les appuis qui lui ont réellement servi."
     },
     {
       "number": 11,
       "slug": "jules-table-tournee-vers-les-etalages",
-      "title": "Retrouver sa place à la table de dessin quand la peur demeure",
+      "title": "Revenir dessiner au marché avec une appréhension persistante",
       "description": "Jules retrouve les dessinateurs du marché. Il choisit une place, demande l’accord de Sonia pour un croquis et laisse la suite ouverte.",
       "context": "Au marché couvert, à une nouvelle séance de dessin avec Samuel",
       "topics": [
-        "Reprise d’une activité de groupe",
-        "Liberté de participer ou de partir",
-        "Accord de la personne qu’on dessine"
+        "Anxiété d’anticipation",
+        "Autonomie",
+        "Reprise d’une activité de groupe"
       ],
       "opening": "Samuel a retourné la table pour que les dessinateurs puissent regarder l’allée. Il a laissé une chaise à chaque extrémité. Jules vient de terminer sa matinée au stand et demande s’il en reste une. Il a apporté la feuille pliée et voudrait essayer de dessiner un geste qu’il voit tous les jours. Il demande à Sonia s’il peut croquer sa main quand elle noue les tiges. Elle lui dit qu’il peut regarder depuis la table, à condition de lui laisser le temps de servir la cliente qui attend.\n\nAu moment de s’asseoir, Jules entend la caisse du marchand de fromages et pense au samedi où il était parti. Il se demande s’il pourrait se sentir de nouveau obligé de quitter l’allée. Samuel lui demande s’il veut la chaise libre ou la sienne, qui donne sur les comptoirs de biais. Jules choisit la chaise libre et pose son carnet. Il n’a pas prévu de finir le dessin sur place. Il ne sait pas encore s’il aura envie de rester quand les autres montreront leurs feuilles.\n\nSonia tient les tiges entre deux doigts pendant qu’elle défait une longueur de ruban. Jules trace d’abord le mouvement du coude et oublie de dessiner le ruban. Quand il relève la tête, Sonia a changé de geste. Il peut lui demander de le lui décrire plus tard. Pour l’instant, il regarde le creux que sa main laisse au-dessus des feuilles et décide de reprendre cette partie.",
       "sections": [
@@ -404,18 +424,20 @@
       "continuity": {
         "choice": "Jules reprend le dessin au marché, choisit sa place et demande l’accord de Sonia pour croquer son geste.",
         "next": "Il envoie son croquis à Solange et prévoit la suite du suivi autour des activités et des trajets qui comptent pour lui."
-      }
+      },
+      "clinical_focus": "Reprise d’une activité malgré la peur",
+      "clinical_intro": "Jules revient au marché et demande une place au bout de la table. Il veut croquer le geste de Sonia tout en gardant la possibilité de choisir combien de temps il reste. Dans le suivi du trouble panique, la liberté retrouvée dans une activité fait partie de ce qui peut évoluer. Jules peut se réjouir de dessiner et continuer à parler des trajets qui l’inquiètent."
     },
     {
       "number": 12,
       "slug": "jules-enveloppe-au-ruban-bleu",
-      "title": "Faire des projets quand certains trajets inquiètent encore",
+      "title": "Faire des projets pendant le suivi du trouble panique",
       "description": "Jules prépare un nouveau courrier à Solange et garde un rendez-vous de suivi. Il choisit ce qu’il aimerait dessiner lors des prochaines matinées.",
       "context": "À la fin d’une journée au marché, quelques semaines après la reprise du dessin",
       "topics": [
-        "Peur qui varie selon les trajets",
-        "Autonomie dans les projets",
-        "Liens entretenus par le dessin"
+        "Retentissement dans la durée",
+        "Activités choisies",
+        "Continuité du suivi"
       ],
       "opening": "Solange a répondu au dessin du nœud en lui envoyant une feuille pliée dans l’autre sens. Elle a tracé les deux mains d’un voisin en train de mélanger les dominos et a ajouté un toit de travers au-dessus. Jules garde le dessin dans la poche de son tablier. À la fermeture du marché, il le montre à Sonia. Elle trouve que les doigts se confondent avec les tuiles. Jules lui dit que c’est exactement ce que sa grand-mère aimait dans le toit du livre qu’il cherchait chez Samuel.\n\nIl a dessiné deux samedis depuis qu’ils ont retourné la table. Une autre fois, il avait choisi de rentrer après son service. Il a encore des trajets qu’il anticipe longtemps et d’autres où il pense surtout à la couleur des enseignes. Il a un rendez-vous avec la psychiatre la semaine prochaine. Il voudrait lui dire ce qui lui demande encore du temps et vérifier avec elle ce qu’ils poursuivront. Une personne du groupe lui propose de se retrouver dans un autre marché pour dessiner. Il aimerait savoir si le jour lui convient avant de répondre.\n\nSonia lui passe une enveloppe qui lui restait pour les cartes de commande. Jules y glisse le dessin des renoncules. Il garde la feuille du prochain samedi dans le carnet. Avant de partir, il demande à Sonia quelle tâche elle lui confiera le matin suivant. Il aimerait choisir les couleurs d’un bouquet qu’ils préparent pour l’entrée du marché.",
       "sections": [
@@ -440,7 +462,9 @@
       "continuity": {
         "choice": "Jules continue ses dessins, garde le rendez-vous de suivi et décide de répondre à la nouvelle invitation après avoir vu son planning.",
         "next": "Il reparlera avec la psychiatre des trajets qui lui demandent encore de l’effort et choisira avec le groupe la prochaine occasion de dessiner."
-      }
+      },
+      "clinical_focus": "Rétablissement et projets personnels",
+      "clinical_intro": "Jules envoie un dessin à Solange et garde ouverte une invitation pour un samedi. Certains trajets lui demandent encore un effort et il sait qu’il pourra en parler au prochain rendez-vous. Dans le trouble panique, le suivi peut tenir compte des peurs qui persistent et des projets redevenus possibles. Jules garde le choix de ses engagements et de ce qu’il souhaite poursuivre en consultation."
     }
   ]
 }

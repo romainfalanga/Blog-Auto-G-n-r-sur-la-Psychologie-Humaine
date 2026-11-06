@@ -1,23 +1,24 @@
 ---
-title: Quand un changement d’habitude brouille les consignes au travail
+title: Trouble du développement intellectuel et consignes qui s’empilent au travail
 description: À la recyclerie, Hélène repère une erreur qui se répète chez les clients.
   Le même matin, elle reçoit les premières consignes pour le nouveau dépôt.
 slug: helene-ou-tombent-les-tasses
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Hélène
-sujet: Trouble du développement intellectuel
+sujet: Habiletés adaptatives au travail
 contexte: Au rayon vaisselle de la recyclerie, à l’ouverture
 tags:
+- Trouble du développement intellectuel
 - TDI
 - Troubles du développement intellectuel
-- Repères bousculés
-- Surcharge d’informations
-- Besoin de consignes précises
+- Compréhension des consignes
+- Habiletés adaptatives
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A00
+clinical_diagnosis: Trouble du développement intellectuel
 episode: 1
 ---
 
@@ -27,9 +28,9 @@ Maud arrive avec le planning de la semaine prochaine. Le dépôt change d’adre
 
 Dario lui demande s’il doit ranger la tasse. « Attends, celle-là travaille. » Hélène lui montre le rayon depuis l’entrée. Si elle pouvait prendre un bout de son temps de travail pour faire des panneaux, elle voudrait voir si les clients les suivent sans qu’on leur montre le chemin. Puis elle retourne près de Maud : elle veut savoir quelle ligne du planning elle doit garder, avant d’enlever l’ancienne version de son casier.
 
-## Quand « habituel » ne désigne plus le même endroit
+## Comment le trouble du développement intellectuel retentit au travail
 
-Un changement de routine peut augmenter le besoin de repères d’une personne qui vit avec un trouble du développement intellectuel. L’OMS décrit des difficultés significatives du fonctionnement intellectuel et des habiletés utilisées dans la vie quotidienne, avec des profils différents d’une personne à l’autre. Chez Hélène, dont le diagnostic est déjà établi, retenir plusieurs changements annoncés d’un bloc et les rapprocher d’un document ancien prend du temps. Le mot « habituel » complique aussi le travail : aucune lecture attentive du papier ne permet de savoir ce que Maud voulait dire.
+Quand Maud parle du rendez-vous « habituel », Hélène doit rapprocher une expression orale, une nouvelle adresse et un planning qui porte encore l’ancien lieu. C’est une difficulté concrète d’adaptation dans le contexte de son trouble du développement intellectuel, diagnostiqué avant ce récit. Une consigne écrite qui sépare le jour, l’heure et l’adresse lui permet de décider ce qu’elle doit faire ensuite. À l’autre bout du rayon, elle sait déjà expliquer à une cliente où se trouvent les tasses.
 
 Hélène sait par ailleurs pourquoi la tasse bleue revient dans le mauvais panier. Elle compare les gestes des clients à la disposition du rayon. Cette compétence et sa difficulté avec une annonce de dernière minute peuvent coexister. Les deux apportent des informations sur des situations distinctes de son travail.
 

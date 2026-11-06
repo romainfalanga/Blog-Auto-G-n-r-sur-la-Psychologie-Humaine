@@ -1,29 +1,31 @@
 ---
-title: Clarifier une consigne quand les mots se perdent au square
-description: Au square, un groupe prépare des prises de son. Roxane doit faire retrouver
-  à Zoé l’endroit d’où venait un bruit.
+title: Pourquoi le bruit complique encore une consigne orale
+description: Le bruit d’un vélo masque la consigne de Roxane. Le malentendu persiste
+  après son passage, alors qu’un simple geste sur le plan rétablit le repère.
 slug: roxane-banc-vert
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Roxane
-sujet: Trouble développemental des sons de la parole
+sujet: Intelligibilité dans le bruit
 contexte: Au square derrière l’école, pendant la sortie d’écoute de la classe
 tags:
+- Trouble développemental des sons de la parole
 - Trouble du développement des sons de la parole
 - CIM-11 6A01.0
-- Lever un malentendu
-- Coopération dans le groupe
-- Écouter dans le bruit
+- Bruit de fond
+- Effort de reformulation
+- Appui visuel
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.0
+clinical_diagnosis: Trouble développemental des sons de la parole
 episode: 2
 ---
 
 Il y a deux bancs verts au square. Sur le premier, le bois porte une tache claire là où une latte a été changée. Sous le second, une flaque a pris la forme d’une semelle. Roxane les a dessinés sur le plan que Mme Sorel a donné aux groupes. Son crayon glisse sur le papier humide. À côté d’elle, Nassim surveille la boîte de l’enregistreur et Zoé compte les oiseaux qu’ils ont réellement vus, ce qui donne un total de deux pigeons et d’un oiseau qu’ils n’ont pas encore nommé.
 
-Roxane entend deux bruits brefs près de la grille, derrière le banc à la latte claire. Elle indique l’endroit à Zoé. Un vélo roule sur les graviers au même moment. Zoé croit avoir compris qu’il faut passer derrière le banc à la flaque. Elle part de l’autre côté avec le carnet. Roxane reprend sa consigne quand le vélo a disparu ; Zoé comprend cette fois qu’il s’agit d’un banc, mais garde le doigt sur le mauvais. Roxane n’a plus le bruit pour lui montrer la direction. Elle s’approche et pose le crayon sur la latte claire, à l’endroit du plan où elle a mis un petit carré blanc.
+Roxane entend deux bruits brefs près de la grille, derrière le banc à la latte claire. Elle indique l’endroit à Zoé. Un vélo roule sur les graviers au même moment. Zoé croit avoir compris qu’il faut passer derrière le banc à la flaque. Elle part de l’autre côté avec le carnet. Roxane reprend sa consigne quand le vélo a disparu ; Zoé comprend cette fois qu’il s’agit d’un banc, mais garde le doigt sur le mauvais. Roxane n’a plus le bruit pour lui montrer la direction. Elle s’agace de devoir redonner le même repère alors que le bruit pourrait revenir sans elles. Elle s’approche et pose le crayon sur la latte claire, à l’endroit du plan où elle a mis un petit carré blanc.
 
 Ils s’installent sous le regard de Mme Sorel, à distance de l’allée. Le bruit sec ne revient pas. Un chant passe dans le micro, puis les roulettes d’une poussette prennent presque toute la place. Nassim veut savoir si l’extrait doit rejoindre ceux qu’ils feront entendre à la médiathèque. Roxane regarde ses deux cases. Pour l’instant, elle a davantage de bruits que de réponses.
 

@@ -1,23 +1,25 @@
 ---
-title: Hélène se fait comprendre en trouvant un repère commun
+title: Se mettre d’accord sur un repère quand les mots prêtent à confusion
 description: À Tannerie, Ilyes et Hélène se retrouvent à deux endroits différents.
   Elle choisit un point de rencontre qu’on peut nommer sans équivoque.
 slug: helene-le-parvis-de-tannerie
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Hélène
-sujet: Trouble du développement intellectuel
+sujet: Communication et habiletés pratiques
 contexte: Entre l’arrêt Tannerie, la médiathèque et l’accueil du dépôt, vendredi matin
 tags:
+- Trouble du développement intellectuel
 - TDI
 - Troubles du développement intellectuel
-- Repères visuels
-- Prise d’initiative
-- Aide à la demande
+- Communication concrète
+- Orientation spatiale
+- Demande d’aide
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A00
+clinical_diagnosis: Trouble du développement intellectuel
 episode: 9
 ---
 

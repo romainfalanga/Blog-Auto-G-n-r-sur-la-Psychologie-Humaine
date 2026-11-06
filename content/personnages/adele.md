@@ -1,12 +1,13 @@
 ---
 title: Adèle
 date: '2026-11-06T00:00:00+00:00'
-description: 'Adèle a quinze ans et remarque les nuances de bleu qu’un vêtement prend
-  au soleil. Avec son amie Inès, elle prépare un projet sur un ancien atelier de tissage
-  : Inès veut enregistrer le métier et Adèle dessiner ce que la lumière fait aux fils.
-  La texture des aliments et le bruit des repas peuvent compliquer une sortie qui
-  lui tient à cœur. Pour sa première nuit loin de chez elle avec sa classe, elle compte
-  sur sa mère Eva et veut pouvoir dire elle-même quand et comment l’aider.'
+description: Adèle a 15 ans et dessine des motifs pour les étoffes. Elle est suivie
+  pour un trouble évitant ou restrictif de la prise alimentaire, aussi appelé ARFID.
+  Certaines textures lui soulèvent le cœur à table. L’appréhension des repas lui a
+  déjà fait renoncer à une sortie scolaire qui lui plaisait. Pour le voyage de sa
+  classe, elle veut visiter l’atelier de tissage et choisir comment demander de l’aide
+  sans attirer les regards. Elle prépare avec sa mère et les professionnels qui la
+  suivent des appuis qu’elle pourra ajuster sur place.
 slug: adele
 prenom: Adèle
 date_naissance: '2011-01-01'
@@ -17,86 +18,87 @@ nb_articles: 12
 weight: 52
 draft: false
 clinical_code: 6B83
+clinical_diagnosis: Trouble évitant ou restrictif de la prise alimentaire
 reading_topics:
-- Sensibilité sensorielle
-- Appréhension des repas
-- Inquiétude sous le regard des autres
-- Besoin de décider pour soi
-- Oser demander de l’aide
+- Trouble évitant ou restrictif de la prise alimentaire
+- Sensibilité sensorielle aux aliments
+- Restriction alimentaire
+- Anxiété anticipatoire des repas
+- Retentissement sur la vie sociale
 ---
 
 <h2 class="parcours-section-title">Parcours d’Adèle</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-croix-a-cote-du-metier/">Redouter les repas d’un voyage qu’on a envie de faire</a></h3>
-    <p class="parcours-resume">Sur la photocopie de Mme Roussel, la photo du métier à tisser est presque noire. Adèle la penche malgré elle pour chercher un reflet. Au fond de l’image, derrière les fils tendus, elle distingue une fenêtre coupée par trois montants.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-croix-a-cote-du-metier/">Quand les textures alimentaires et la peur des repas font renoncer à une sortie</a></h3>
+    <p class="parcours-resume">Adèle veut voir un métier à tisser mais hésite à s’inscrire dès qu’elle lit que les repas se prendront en groupe. À la cantine, la consistance de certains aliments lui soulève le cœur. L’ARFID se distingue d’une préférence alimentaire par l’importance de ses conséquences sur la santé ou la vie quotidienne. Ici, la difficulté à manger compromet une activité qui lui plaît.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/adele-croix-a-cote-du-metier/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-la-ligne-a-effacer/">Adèle veut décider de ce que l’école saura sur ses repas</a></h3>
-    <p class="parcours-resume">Sur la veste qu’Adèle défait, quelques points retiennent encore l’épaule qu’elle veut récupérer. Elle la retourne sur le dossier d’une chaise. À l’intérieur, le bleu est presque violet.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-la-ligne-a-effacer/">Faire comprendre une restriction alimentaire sans exposer son dossier</a></h3>
+    <p class="parcours-resume">Eva veut expliquer le diagnostic à l’école pour éviter que la difficulté d’Adèle soit prise à la légère. Adèle s’imagine déjà désignée devant le groupe. L’ARFID peut s’accompagner de difficultés liées aux textures en bouche même lorsqu’on aime manipuler des matières dans d’autres activités. Décrire l’appui dont elle a besoin lui permet d’ouvrir la discussion avec l’école et de garder la main sur ce qu’elle raconte.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/adele-la-ligne-a-effacer/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-ne-pas-remplir-la-case/">Pour envisager le départ, Adèle veut pouvoir changer d’avis</a></h3>
-    <p class="parcours-resume">La diététicienne a posé l’emploi du temps du voyage dans une pochette transparente. Adèle voit son reflet dans le rectangle réservé à la soirée. Au-dessus, l’atelier de tissage tient sur une seule ligne.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-ne-pas-remplir-la-case/">Pourquoi un repas possible à la maison ne prédit pas le repas en déplacement</a></h3>
+    <p class="parcours-resume">Eva se demande si un repas pris à la maison signifie que la nuit au centre se passera bien. Adèle redoute de devoir accepter tous les repas du séjour en disant oui à l’atelier. Pour comprendre l’ARFID, l’équipe examine le retentissement, les besoins nutritionnels et les conditions propres à chaque lieu. Elle prépare avec Adèle plusieurs possibilités adaptées à son suivi.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/adele-ne-pas-remplir-la-case/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-porte-vitree/">Manger au calme, à l’abri des regards</a></h3>
-    <p class="parcours-resume">Le téléphone de Mme Roussel est posé sur un atlas pour qu’elles entendent toutes les trois. La voix à l’autre bout grésille quand quelqu’un bouge une chaise. Adèle suit du doigt le plan du centre.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-porte-vitree/">Le bruit et le regard des autres peuvent compliquer un repas déjà difficile</a></h3>
+    <p class="parcours-resume">Adèle apprend que le bureau censé lui offrir du calme donne sur le couloir le plus fréquenté. Elle craint d’y attirer l’attention au moment où elle a déjà du mal à manger. Pour elle, l’effort sensoriel et la peur d’être observée se cumulent. Discuter du lieu avec l’équipe peut aussi être utile quand les repas en déplacement ou au travail posent problème à l’âge adulte.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/adele-porte-vitree/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-trois-barres-decalees/">Pouvoir demander de l’aide discrètement avant de dire oui au voyage</a></h3>
-    <p class="parcours-resume">Il manque un coin à la table de coupe, et toutes les chutes de papier finissent par s’y prendre. Adèle glisse la main sous le plateau et en tire une bande blanche pliée en deux.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-trois-barres-decalees/">L’effort invisible derrière un repas qui s’est bien passé</a></h3>
+    <p class="parcours-resume">Adèle a pu manger à la cantine avec l’appui convenu. En remontant, elle a pourtant dû attendre que le bruit du couloir passe. Elle redoute qu’une question posée en public lui impose d’expliquer cet effort. Dans le suivi de l’ARFID, ce que la personne a vécu compte autant pour comprendre le contexte que le seul fait d’avoir pris le repas.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/adele-trois-barres-decalees/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-bruit-des-pedales/">Poser une limite quand les autres commentent ses repas</a></h3>
-    <p class="parcours-resume">Inès a dessiné un micro sur la première page d’un cahier à spirale. Elle voudrait préparer une minute de reportage pour la restitution du voyage. « Si le métier à tisser fait le même bruit que sur la vidéo, on va l’entendre à travers le mur », dit-elle.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-bruit-des-pedales/">L’ARFID et l’anorexie mentale diffèrent par ce qui motive la restriction</a></h3>
+    <p class="parcours-resume">Un camarade parle de régime après avoir vu Adèle demander de l’aide. Elle se sent exposée et se demande si elle devra expliquer son diagnostic pour que les questions cessent. La CIM-11 distingue l’ARFID de l’anorexie mentale en examinant notamment ce qui motive la restriction. Chez Adèle, la difficulté tient à certaines sensations en mangeant. Une observation à table ne suffit pas pour connaître ces motifs.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/adele-bruit-des-pedales/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-deux-portes-sur-le-palier/">Se rassurer en repérant où trouver de l’aide sur place</a></h3>
-    <p class="parcours-resume">Sur le parking du centre, le car s’agenouille dans un soupir. Adèle a descendu son carnet de la grille au-dessus des sièges bien avant qu’on le demande. Dans la vitre, elle a vu passer un toit très bas, deux cheminées et une façade presque sans fenêtres.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-deux-portes-sur-le-palier/">L’appréhension des repas hors du domicile et le besoin d’un appui accessible</a></h3>
+    <p class="parcours-resume">Adèle aimerait découvrir l’atelier avec Inès. Une fois sur place, elle se demande surtout qui pourra l’aider si le repas devient difficile. Dans l’ARFID, anticiper une difficulté à manger loin de ses repères peut prendre de l’attention avant même le repas. Adèle vérifie à qui elle pourra s’adresser. Cette information lui permet de rejoindre Inès même si l’appréhension est encore là.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/adele-deux-portes-sur-le-palier/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-barre-qui-manque/">À table avec les autres, Adèle perd le fil dans le bruit</a></h3>
-    <p class="parcours-resume">La fenêtre de l’atelier n’a que deux montants. Le troisième, qu’Adèle avait dessiné d’après la photocopie, est l’ombre du bord du métier. L’ombre prolonge un trait de l’encadrement de pierre et paraît remonter jusque dans les fils.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-barre-qui-manque/">Quand l’effort pour manger laisse moins d’attention pour la conversation</a></h3>
+    <p class="parcours-resume">Adèle voulait déjeuner près d’Inès et a pu le faire dans le cadre prévu. Elle s’est concentrée sur le repas et les mouvements autour d’elle au point de perdre le fil d’une blague. Dans l’ARFID, participer à un repas peut demander un effort qui échappe aux autres. Cette expérience précise ce qui l’a aidée et ce qui lui a coûté même avec le soutien prévu.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/adele-barre-qui-manque/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-les-chaises-ajoutees/">Quand un changement à table ravive l’appréhension</a></h3>
-    <p class="parcours-resume">Une table de plus occupe le passage qu’Adèle avait emprunté le midi. Un radiateur a fui dans la salle voisine ; le groupe qui devait y dîner est arrivé avec des chaises prises dans l’entrée.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-les-chaises-ajoutees/">Une modification du repas peut faire revenir les difficultés le même jour</a></h3>
+    <p class="parcours-resume">Adèle pense reprendre sa place du midi. Elle découvre une rangée de chaises de plus et sent la tension monter dès la porte. Dans son ARFID, le cadre où elle a réussi à manger quelques heures avant peut devenir difficile quand les conditions changent. Elle décrit ce qui se passe à l’adulte disponible, qui vérifie l’option déjà convenue avec l’équipe.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/adele-les-chaises-ajoutees/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-lampe-au-dessus-du-lit/">Première nuit avec la classe : Adèle hésite à rester</a></h3>
-    <p class="parcours-resume">Inès a disposé les cahiers de part et d’autre d’un pli de la couverture. Elle a dessiné le métier à tisser de face, avec les pédales assez grandes pour qu’on les voie.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-lampe-au-dessus-du-lit/">Décider de rester après un repas difficile sans ignorer le prochain</a></h3>
+    <p class="parcours-resume">Après un dîner difficile, Adèle hésite à dormir au centre. Elle a envie de retrouver son lit et elle veut aussi savoir si l’appui sera accessible au petit déjeuner. Distinguer ce qui l’inquiète lui permet de reprendre la décision avec sa mère et la professeure. Dans l’ARFID, les difficultés autour d’un repas peuvent peser sur un séjour au-delà du temps passé à table.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/adele-lampe-au-dessus-du-lit/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-ce-que-la-bande-montre/">Retrouver le groupe après avoir demandé de l’aide</a></h3>
-    <p class="parcours-resume">Il y a une trace d’élastique sur la joue d’Inès quand elle se penche pour prendre ses chaussures. Adèle se regarde dans la vitre. Son propre visage a l’air froissé du même côté.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-ce-que-la-bande-montre/">Demander un appui pour manger et retrouver le groupe ensuite</a></h3>
+    <p class="parcours-resume">Adèle demande directement l’aide prévue au petit déjeuner et retrouve Inès pour leur présentation. Ses camarades voient une élève capable d’expliquer son dessin et ignorent l’effort que le repas lui a demandé. Dans l’ARFID, la possibilité de participer à une activité peut coexister avec des difficultés alimentaires importantes. Dire ce qui lui a permis de rejoindre le groupe donne une information utile à son suivi.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/adele-ce-que-la-bande-montre/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-un-tirage-pour-la-vitre/">Après le voyage, Adèle choisit ce qu’elle veut montrer d’elle</a></h3>
-    <p class="parcours-resume">Dans le hall, Mme Roussel a lavé un carré de vitre qui fait ressortir toutes les traces alentour. Elle tient le tirage d’Adèle contre le verre. À cette hauteur, le bleu ressemble encore à celui de la veste démontée.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/adele-un-tirage-pour-la-vitre/">Pourquoi un voyage réussi ne résume pas l’évolution de l’ARFID</a></h3>
+    <p class="parcours-resume">Eva se souvient qu’Adèle a réussi à dormir au centre. Adèle se souvient surtout du temps passé à redouter les repas et de l’appui qui l’a aidée. Les deux expériences éclairent ce qui a changé pendant le voyage. L’ARFID peut persister à l’âge adulte, et le suivi tient compte des difficultés et de leurs conséquences au fil des situations.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/adele-un-tirage-pour-la-vitre/" class="parcours-link">Lire</a>
   </div>
 </div>

@@ -1,22 +1,24 @@
 ---
-title: Dire ce qui compte pour soi en consultation
+title: Décrire le retentissement de la dépression en consultation
 description: Au suivi, Inaya décrit le sommeil, la boutique et le temps avec Nino.
   Elle demande ce qu’elle peut faire si son état change avant le prochain rendez-vous.
 slug: inaya-consultation-decider-ensemble
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Inaya
-sujet: Trouble dépressif récurrent
+sujet: Évaluation du retentissement dépressif
 contexte: Un rendez-vous de suivi en consultation
 tags:
+- Trouble dépressif récurrent
 - Dépression récurrente
-- Priorités personnelles
-- Décision partagée
-- Demande de soutien
+- Retentissement quotidien
+- Décision partagée en soins
+- Suivi de la dépression
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A71
+clinical_diagnosis: Trouble dépressif récurrent
 episode: 6
 ---
 

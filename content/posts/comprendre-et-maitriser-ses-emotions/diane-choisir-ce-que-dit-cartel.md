@@ -1,22 +1,24 @@
 ---
-title: Choisir ce qu’on raconte de soi sur un cartel d’exposition
+title: Peur d’être réduite à sa crise et choix de raconter son travail
 description: Une question au dos d’un brouillon pousse Diane à décider de ce qu’elle
   veut mettre dans les deux textes qui accompagneront ses pièces.
 slug: diane-choisir-ce-que-dit-cartel
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Diane
-sujet: Trouble psychotique aigu et transitoire
+sujet: Crainte d’être étiquetée
 contexte: Chez Diane, à la table de la cuisine, avant l’impression des cartels
 tags:
+- Trouble psychotique aigu et transitoire
 - Psychose aiguë et transitoire
-- Maîtrise de ce qu’on raconte de soi
-- Doute devant le regard du public
-- Confiance dans une préférence personnelle
+- Crainte d’être étiquetée
+- Maîtrise du récit de soi
+- Confidentialité choisie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A23
+clinical_diagnosis: Trouble psychotique aigu et transitoire
 episode: 8
 ---
 
@@ -26,7 +28,7 @@ Elle a commencé par écrire « Deux pièces faites avant et après une interrup
 
 Diane retrouve le cliché où l’on voit les deux pièces à la bonne hauteur. Avec le bleu au fond du bol et le gris plus clair vers le col de la carafe, on dirait que le bol a gardé la pluie et que la carafe l’a laissée partir. Elle essaie de le dire. Rémi lui demande si c’est une description ou un titre. Elle prend le crayon et lui répond que ça lui donne une idée de deux titres.
 
-## Ce qu’on voudrait faire voir
+## Garder la maîtrise du récit de soi
 
 Quand une création traverse une période difficile, on peut choisir le lien qu’on veut rendre public entre les deux. À l’atelier, Diane a répondu à Anaïs qu’elle préférait parler des pièces. Sur les cartels, elle a quelques lignes pour attirer l’attention sur ce qui lui plaît. Elle se demande d’abord comment éviter qu’une personne invente une explication. En regardant les deux photos avec Rémi, elle trouve une question plus proche de ce qui l’intéresse : quel détail aimerait-elle que les gens prennent le temps de voir ? Maud a posé une question ouverte. Le bord et la couleur suffisent pour lui répondre.
 

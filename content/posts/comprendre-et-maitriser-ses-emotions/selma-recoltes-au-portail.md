@@ -1,23 +1,25 @@
 ---
-title: Partager ses récoltes et poser une limite à l’entrée de la serre
-description: Les récoltes sont prêtes. Selma tient au partage avec André et choisit
-  de garder l’intérieur de la serre pour elle.
+title: Un rappel sonore coupe la conversation pendant le partage des récoltes
+description: Au portail, le choc d’une bouteille interrompt la réponse de Selma. Elle
+  demande de reprendre et précise l’accès à la serre.
 slug: selma-recoltes-au-portail
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Selma
-sujet: Trouble de stress post-traumatique
+sujet: Retentissement attentionnel d’un rappel
 contexte: Devant le portail, le jour du partage
 tags:
+- Trouble de stress post-traumatique
 - TSPT
 - PTSD
-- Limites personnelles
-- Attention perturbée par un bruit
-- Lien avec les voisins
+- Rappel sonore
+- Attention interrompue
+- Reprise de la conversation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B40
+clinical_diagnosis: Trouble de stress post-traumatique
 episode: 11
 ---
 
@@ -27,7 +29,7 @@ Maud arrive avec une amie qui s’intéresse à la réparation de la serre. Elle
 
 Une bouteille roule dans le panier de l’amie de Maud et vient taper contre le banc. Selma sent qu’elle perd un instant le fil de sa réponse. Elle demande de reprendre la question. Cette fois, l’amie parle surtout des panneaux translucides. Selma connaît le nom du vitrier. Elle peut le lui donner. Elle tire le banc de quelques centimètres vers l’extérieur et propose qu’elles regardent le montant depuis l’allée.
 
-## Des limites qui ont leur place dans une vie ordinaire
+## Revenir à l’échange après un rappel sonore
 
 Une personne qui vit avec un trouble de stress post-traumatique garde ses préférences, ses projets et ses raisons de poser des limites. Certaines situations peuvent réactiver une alerte ou rendre un échange plus difficile. Selma peut remarquer ce qui s’est passé au bruit de la bouteille. Elle peut aussi choisir l’usage de sa serre pour des raisons qui lui appartiennent. Partager des légumes au portail et inviter quelqu’un à entrer sont deux décisions différentes.
 

@@ -1,23 +1,25 @@
 ---
-title: 'Prendre la parole à son rythme : Sacha propose un petit atelier'
+title: Travailler la peur du regard avec une thérapie ciblée
 description: La docteure Rigal présente les possibilités de soin. À la graineterie,
   Sacha et Gaspard proposent une démonstration qu’ils peuvent tenir ensemble.
 slug: sacha-deux-decisions
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Sacha
-sujet: Trouble d’anxiété sociale
+sujet: Thérapie cognitivo-comportementale de l’anxiété sociale
 contexte: Le cabinet, puis la graineterie après la livraison
 tags:
+- Trouble d’anxiété sociale
 - Anxiété sociale
 - Phobie sociale
-- Crainte de parler en groupe
-- Décision partagée
-- Répartition des rôles
+- Objectifs de soin choisis
+- TCC adaptée
+- Prise de parole
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B04
+clinical_diagnosis: Trouble d’anxiété sociale
 episode: 4
 ---
 

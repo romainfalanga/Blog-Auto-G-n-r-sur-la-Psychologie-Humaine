@@ -1,23 +1,25 @@
 ---
-title: Quand l’autre insiste après un refus
-description: Rémi est venu pour une photo d’objet. Quand il insiste pour obtenir un
-  récit personnel, Meriem retire son accord pour la rencontre.
+title: Alerte corporelle quand Rémi continue à poser une question écartée
+description: Rémi revient sur une demande refusée. Meriem se sent coincée et demande
+  un relais pour mettre fin à la rencontre.
 slug: meriem-appareil-dans-le-sac
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Meriem
-sujet: Trouble de stress post-traumatique complexe
+sujet: Alerte et sentiment d’impasse
 contexte: À la fin d’un jeudi de couture
 tags:
+- Trouble de stress post-traumatique complexe
 - TSPT complexe
 - CPTSD
-- Poser ses limites
-- Reviviscences
-- Passer le relais
+- Alerte corporelle
+- Sentiment d’être coincée
+- Sécurité relationnelle
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B41
+clinical_diagnosis: Trouble de stress post-traumatique complexe
 episode: 7
 ---
 

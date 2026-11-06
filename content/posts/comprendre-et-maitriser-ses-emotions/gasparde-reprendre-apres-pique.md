@@ -1,33 +1,34 @@
 ---
-title: Revenir vers quelqu’un après lui avoir parlé trop vite
+title: Intention prêtée à autrui et réparation après une réponse brusque
 description: Un échange près du registre tourne court. Gasparde revient vers Dounia
   avec des excuses précises et lui demande ce qu’elle souhaite pour la suite.
 slug: gasparde-reprendre-apres-pique
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gasparde
-sujet: Trouble délirant
+sujet: Intention prêtée à autrui
 contexte: Le samedi suivant, pendant le deuxième accueil du matin
 tags:
 - Trouble délirant
 - Trouble délirant persistant
-- Confiance dans les relations
-- Réparer après une parole brusque
-- Respecter la réponse de l’autre
+- Intention prêtée à autrui
+- Colère défensive
+- Réparation relationnelle
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A24
+clinical_diagnosis: Trouble délirant
 episode: 8
 ---
 
 Le nouveau plan pend un peu de travers. Quelqu’un a utilisé deux punaises bleues et une rouge, de sorte que Gasparde voit la rouge avant de voir la flèche. Elle compte déjà deux raquettes près du portail. Levent a retrouvé l’entrée du premier coup. Il explique son trajet à Clara, qui vit près du parc et vient aujourd’hui regarder. Gasparde entend leurs voix en prenant le petit paquet de balles dans le casier.
 
-Dounia est arrivée quelques minutes en avance. Debout près du registre fermé, elle demande si Basile viendra. Gasparde entend « s’il viendra » comme une question que Dounia aurait préparée avec lui. Elle voit la chaise vide du trésorier et se rappelle qu’il a emporté le plan vendredi. Pendant une seconde, l’ensemble a la netteté d’une explication. « Si tu préfères qu’il le fasse à ma place, demande-lui directement. »
+Dounia est arrivée quelques minutes en avance. Debout près du registre fermé, elle demande si Basile viendra. Gasparde entend « s’il viendra » comme une question que Dounia aurait préparée avec lui. Elle voit la chaise vide du trésorier et se rappelle qu’il a emporté le plan vendredi. Pendant une seconde, l’ensemble a la netteté d’une explication. « Si tu préfères qu’il le fasse à ma place, demande-lui directement. » La colère lui a serré la gorge avant qu’elle ait eu le temps de demander ce que Dounia voulait. La question lui paraît si familière qu’elle a l’impression de connaître déjà la suite.
 
 Dounia ramasse sa housse. Elle répond que Basile lui a prêté les clés pour récupérer une raquette oubliée au local. Elle voulait savoir où les rendre. Puis elle rejoint Levent au portail. Gasparde reste avec le paquet de balles, qui lui glisse entre les paumes. Elle a envie d’attendre qu’on lui fasse signe. Elle appelle Clara pour lui montrer le banc, donne deux balles à Levent et lui demande s’il aimerait faire quelques échanges. Pendant qu’il s’échauffe, Gasparde va retrouver Dounia. Elle lui demande si elle a une minute, de côté. Dounia garde les yeux sur les balles qui roulent vers le filet. « Une minute, oui. »
 
-## Regarder ce que sa réponse a produit
+## Comprendre ce que la peur a ajouté à la question
 
 Après une parole brusque, on peut revenir sur ce qu’on a dit avant d’avoir résolu tout ce qui l’a provoquée. Gasparde reste préoccupée par le partage des rôles au club. Elle entend aussi Dounia dire qu’elle cherchait à rendre des clés. Sa remarque a prêté une intention à Dounia et a coupé l’échange. Elle peut en répondre directement, en laissant à Dounia une place pour dire comment elle l’a reçue.
 

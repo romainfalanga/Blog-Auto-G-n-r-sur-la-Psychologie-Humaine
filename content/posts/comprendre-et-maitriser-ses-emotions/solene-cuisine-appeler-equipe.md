@@ -1,22 +1,24 @@
 ---
-title: Parler à sa compagne quand ses perceptions changent
+title: Perte de plaisir et voix inhabituelles dans la même période
 description: Le prénom revient alors que l’ordinateur est fermé. Solène dit à Livia
   ce qu’elle a remarqué ces derniers jours et appelle son équipe.
 slug: solene-cuisine-appeler-equipe
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Solène
-sujet: Trouble schizoaffectif
+sujet: Perte de plaisir
 contexte: Dans l’appartement de Solène et Livia, avant le cours de poterie de Livia
 tags:
+- Trouble schizoaffectif
 - Trouble schizo-affectif
-- Humeur et perceptions
-- Reconnaître ses signes
-- Choisir ce qu’on partage
+- Perte de plaisir
+- Perceptions auditives inhabituelles
+- Demande de soutien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A21
+clinical_diagnosis: Trouble schizoaffectif
 episode: 2
 ---
 

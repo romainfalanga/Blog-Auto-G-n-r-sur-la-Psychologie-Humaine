@@ -1,22 +1,24 @@
 ---
-title: 'Soutien entre amies : Garance et Éva posent leurs limites'
+title: Prévoir l’aide d’une amie quand l’humeur change
 description: Garance mesure le temps que prend son catalogue et revoit avec Éva ce
   qu’elle souhaite lui demander si un changement se prolonge.
 slug: garance-calendrier-plan-soutien
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Garance
-sujet: Trouble bipolaire de type II
+sujet: Plan de soutien personnalisé
 contexte: Chez Garance, entre une échéance professionnelle et la préparation du concert
 tags:
+- Trouble bipolaire de type II
 - Bipolarité type II
-- Aide préparée avec une proche
-- Limites de disponibilité
-- Choix des informations confiées
+- Repérage des changements d’humeur
+- Soutien choisi
+- Régulation des engagements
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A61
+clinical_diagnosis: Trouble bipolaire de type II
 episode: 2
 ---
 

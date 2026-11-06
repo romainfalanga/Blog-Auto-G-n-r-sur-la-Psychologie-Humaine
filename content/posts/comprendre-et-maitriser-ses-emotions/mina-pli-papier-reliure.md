@@ -1,23 +1,25 @@
 ---
-title: Se juger sur une erreur quand on apprend la reliure
-description: À l’atelier, Mina trouve un défaut sur la couverture. Elle reprend une
-  étape de la reliure et choisit elle-même le papier du carnet.
+title: Image de soi instable quand un défaut de reliure devient un verdict
+description: Un pli imparfait fait douter Mina de sa capacité à fabriquer le cadeau.
+  Un retour précis sur le papier l’aide à revenir à un choix concret.
 slug: mina-pli-papier-reliure
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mina
-sujet: Trouble de la personnalité avec profil borderline
+sujet: Instabilité de l’image de soi
 contexte: Un soir dans l’atelier de reliure
 tags:
+- Trouble de la personnalité avec profil borderline
 - Profil borderline
 - Trouble borderline
-- Variation de l’image de soi
-- Comparaison aux autres
-- Retour précis sur une erreur
+- Image de soi instable
+- Dévalorisation après une erreur
+- Retour concret sur une tâche
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D10
+clinical_diagnosis: Trouble de la personnalité avec profil borderline
 episode: 3
 ---
 

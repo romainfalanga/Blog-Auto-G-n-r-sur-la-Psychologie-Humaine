@@ -1,30 +1,32 @@
 ---
-title: Redouter de tout refaire à la veille du spectacle
-description: Le soleil doré s’est plié dans le rangement. Augustin teste le disque
-  pâle et choisit ce qu’il peut encore changer avant la représentation.
+title: Pourquoi un autre objet demande de réapprendre la prise
+description: Le disque pâle fléchit quand Augustin le saisit d’un bord. Avant le spectacle,
+  il essaie une prise à deux mains.
 slug: augustin-un-soleil-plus-pale
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Augustin
-sujet: Trouble développemental de la coordination motrice
+sujet: Ajustement de la prise
 contexte: la veille du spectacle, dans le local des accessoires
 tags:
+- Trouble développemental de la coordination motrice
 - Trouble du développement de la coordination
 - TDC
 - Dyspraxie
-- Pression du temps
-- Peur de décevoir
-- Choix de l’aide
+- Coordination des deux mains
+- Réaction à l’imprévu
+- Pression temporelle
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A04
+clinical_diagnosis: Trouble développemental de la coordination motrice
 episode: 10
 ---
 
 Le grand carton se coince sous l’enseigne de la boulangerie. Augustin soulève l’enseigne pendant que Samira tire le carton. Quand elle l’ouvre, un pli coupe le soleil doré presque en deux. Il traverse la trace de pouce. Augustin passe l’ongle près de la jointure, là où le papier s’est décollé sur une largeur de main. Il s’entend proposer de refaire le tour ce soir. Il calcule le trajet jusqu’à chez lui, puis le nombre de bandes qu’il lui faudrait. Pendant un instant, il oublie que le carton restera plié avec du papier neuf dessus.
 
-Maxence trouve le disque pâle sous les échantillons de Nora. Ils l’avaient apporté pour comparer les couleurs et rangé après avoir vu le reflet du doré. À côté de l’autre, il a l’air d’une assiette dont le jaune est parti au lavage. Maxence dit que personne dans la salle n’a vu le premier soleil. Augustin lui répond trop fort que lui, si. Il prend le disque pâle et le serre par un seul bord. Il fléchit sous son pouce ; il est moins rigide que l’autre. Augustin dégage la table, le pose à plat et essaie de le soulever à deux mains. Cette fois, il ne plie presque pas.
+Maxence trouve le disque pâle sous les échantillons de Nora. Ils l’avaient apporté pour comparer les couleurs et rangé après avoir vu le reflet du doré. À côté de l’autre, il a l’air d’une assiette dont le jaune est parti au lavage. Maxence dit que personne dans la salle n’a vu le premier soleil. Augustin lui répond trop fort que lui, si. Il prend le disque pâle et le serre par un seul bord. Il fléchit sous son pouce. Augustin comprend qu’il ne pourra pas se servir exactement du geste répété avec l’autre carton. Augustin dégage la table, le pose à plat et essaie de le soulever à deux mains. Cette fois, il ne plie presque pas.
 
 Il demande à Nora de se mettre au dernier rang pendant qu’il essaye le disque. Elle lui demande s’il veut un avis sur la couleur ou sur la façon dont il se voit. Augustin les veut tous les deux, mais dans cet ordre : d’abord, savoir si ça ressemble au jour.
 

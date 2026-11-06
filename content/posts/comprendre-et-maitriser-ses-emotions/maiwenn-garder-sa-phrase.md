@@ -1,23 +1,26 @@
 ---
-title: Craindre de perdre sa voix dans un brouillon à deux
-description: Maïwenn lit une autre version de sa légende, proposée par Lou. Elle est
-  plus courte, mais elle a perdu le bruit qui lui avait fait prendre la photo.
+title: Quand une réécriture efface ce qu’on voulait faire entendre
+description: Lou propose une légende plus courte. Maïwenn veut clarifier le pronom
+  qui gêne tout en gardant le détail du plateau qui cesse de taper.
 slug: maiwenn-garder-sa-phrase
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Maïwenn
-sujet: Trouble développemental des apprentissages avec déficit de l’expression écrite
+sujet: Autonomie dans la révision du texte
 contexte: Un mardi soir, à la table de la cuisine
 tags:
+- Trouble développemental des apprentissages avec déficit de l’expression écrite
 - Déficit de l’expression écrite
 - Dysorthographie
-- Limites dans la collaboration
-- Confiance entre coautrices
-- Rapport à la correction
+- Choix de formulation
+- Référence des pronoms
+- Confiance dans ses écrits
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.1
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit de l’expression
+  écrite
 episode: 4
 ---
 

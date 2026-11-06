@@ -1,24 +1,26 @@
 ---
-title: Revenir à l’atelier à son rythme après un moment de détresse
+title: Reprendre ses activités et son suivi après la crise
 description: Après le relais urgent, Gabin reprend son suivi et revient à l’atelier
   pour une tâche convenue avec l’association.
 slug: gabin-vis-dans-enveloppe
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gabin
-sujet: Trouble lié aux jeux d’argent
+sujet: Reprise progressive après une crise
 contexte: reprendre une activité choisie après une période difficile et revoir les
   appuis avec les professionnels
 tags:
+- Trouble lié aux jeux d’argent
 - Jeux d’argent
 - Jeu pathologique
-- Reprise d’une activité choisie
-- Respect de ses limites
-- Choix du soutien
+- Reprise progressive des activités
+- Détresse et suivi
+- Crainte de décevoir
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C50
+clinical_diagnosis: Trouble lié aux jeux d’argent
 episode: 11
 ---
 

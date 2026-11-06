@@ -1,23 +1,26 @@
 ---
-title: Garder son brouillon pour soi dans le bus du retour
-description: Dans le bus, la dictée vocale mélange les mots de Maïwenn au bruit des
-  portes. Elle hésite à répéter plus fort une phrase qu’elle vient de trouver.
+title: Quand l’aide à l’écriture devient difficile à utiliser en public
+description: Dans le bus, Maïwenn hésite à dicter son texte plus fort. Elle préfère
+  garder deux repères écrits pour retrouver son idée.
 slug: maiwenn-garder-le-brouillon-pour-soi
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Maïwenn
-sujet: Trouble développemental des apprentissages avec déficit de l’expression écrite
+sujet: Contraintes d’usage de la dictée
 contexte: Le dimanche suivant, dans le bus qui passe devant la halle
 tags:
+- Trouble développemental des apprentissages avec déficit de l’expression écrite
 - Déficit de l’expression écrite
 - Dysorthographie
-- Crainte du jugement
-- Intimité
-- Souplesse face aux imprévus
+- Dictée vocale
+- Gêne à être entendue
+- Préservation du brouillon
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.1
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit de l’expression
+  écrite
 episode: 7
 ---
 

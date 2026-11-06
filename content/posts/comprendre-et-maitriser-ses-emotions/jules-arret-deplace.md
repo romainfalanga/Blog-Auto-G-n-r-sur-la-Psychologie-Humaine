@@ -1,23 +1,25 @@
 ---
-title: L’inquiétude de Jules quand son arrêt de bus change
+title: Peur dans les transports et contrainte réelle du trajet
 description: L’arrêt de bus a été déplacé. Jules cherche un trajet pour voir sa grand-mère
   et choisit parmi les possibilités qui restent.
 slug: jules-arret-deplace
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Jules
-sujet: Trouble panique
+sujet: Peur anticipée et obstacle observable
 contexte: Sur le trajet de Jules vers l’appartement de Solange, pendant des travaux
   de voirie
 tags:
+- Trouble panique
 - Attaques de panique
 - Peur dans les transports
-- Distinction entre peur et obstacle réel
-- Autonomie avec un appui ponctuel
+- Incertitude du trajet
+- Autonomie dans la décision
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B01
+clinical_diagnosis: Trouble panique
 episode: 9
 ---
 

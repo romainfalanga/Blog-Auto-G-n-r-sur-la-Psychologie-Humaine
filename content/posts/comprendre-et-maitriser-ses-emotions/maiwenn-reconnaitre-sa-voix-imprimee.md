@@ -1,23 +1,26 @@
 ---
-title: Reconnaître sa voix dans le journal imprimé
-description: Maïwenn lit la ligne où leurs deux prénoms figurent. Une élève s’arrête
-  sur une légende et lui pose une question qu’elle n’attendait pas.
+title: Voir le travail d’écriture au-delà du texte qui se lit bien
+description: Maïwenn croit qu’une lectrice va lui montrer une faute. La question porte
+  sur la scène que sa légende a réussi à transmettre.
 slug: maiwenn-reconnaitre-sa-voix-imprimee
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Maïwenn
-sujet: Trouble développemental des apprentissages avec déficit de l’expression écrite
+sujet: Effort invisible derrière un texte publié
 contexte: Le lundi suivant, devant la table où le journal est distribué
 tags:
+- Trouble développemental des apprentissages avec déficit de l’expression écrite
 - Déficit de l’expression écrite
 - Dysorthographie
-- Sentiment de légitimité
-- Plaisir d’être lue
-- Effort invisible
+- Crainte de la faute
+- Contribution d’autrice
+- Transfert des appuis
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.1
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit de l’expression
+  écrite
 episode: 12
 ---
 

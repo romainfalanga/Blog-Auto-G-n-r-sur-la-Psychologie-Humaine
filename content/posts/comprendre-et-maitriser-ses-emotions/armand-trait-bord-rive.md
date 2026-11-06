@@ -1,23 +1,25 @@
 ---
-title: Reprendre sa phrase quand un mot échappe
+title: Recherche de mots et effort pour tenir le fil d’une conversation
 description: En préparant la légende du pont bas, Armand bute sur un mot. Il propose
   à Nadia un signe qui l’aidera à reprendre son histoire.
 slug: armand-trait-bord-rive
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Armand
-sujet: Démence due à la maladie d’Alzheimer
+sujet: Manque du mot dans la maladie d’Alzheimer
 contexte: Une semaine après la consultation mémoire, pour un essai au foyer communal
 tags:
+- Démence due à la maladie d’Alzheimer
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Mémoire au quotidien
-- Continuer à transmettre
-- Recevoir de l’aide
+- Manque du mot
+- Charge cognitive
+- Communication adaptée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D80
+clinical_diagnosis: Démence due à la maladie d’Alzheimer
 episode: 5
 ---
 

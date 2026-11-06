@@ -1,23 +1,25 @@
 ---
-title: Chercher à se rassurer après un message de la direction
+title: Recherche de réassurance après un message ambigu
 description: Antonin revient sur le message envoyé à la direction. Eva peut lui dire
   ce qu’elle a lu et l’aider à préciser ce qui attend une réponse.
 slug: antonin-avis-que-personne-na-donne
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Antonin
-sujet: Trouble anxieux généralisé
+sujet: Recherche de réassurance
 contexte: À l’accueil de l’école, après le signalement du retard de la livraison
 tags:
+- Trouble anxieux généralisé
 - TAG
 - Anxiété généralisée
 - Recherche de réassurance
-- Crainte d’un reproche
-- Interprétation d’un message
+- Crainte d’être jugé
+- Incertitude sur les intentions
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B00
+clinical_diagnosis: Trouble anxieux généralisé
 episode: 7
 ---
 

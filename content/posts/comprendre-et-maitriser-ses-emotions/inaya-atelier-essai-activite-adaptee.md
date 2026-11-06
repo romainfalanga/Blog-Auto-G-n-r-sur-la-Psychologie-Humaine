@@ -1,22 +1,24 @@
 ---
-title: L’intérêt revient à l’atelier, l’énergie ne suit pas toujours
+title: Retrouver un peu de plaisir avec une énergie encore fragile
 description: Inaya teste l’atelier avec Myriam et une invitée. Elle remarque ce qui
   l’intéresse encore et ce qu’elle souhaite raccourcir ou partager.
 slug: inaya-atelier-essai-activite-adaptee
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Inaya
-sujet: Trouble dépressif récurrent
+sujet: Plaisir retrouvé et fatigue persistante
 contexte: Dans la petite salle de la maison de quartier
 tags:
+- Trouble dépressif récurrent
 - Dépression récurrente
-- Intérêt retrouvé
-- Fatigue rapide
-- Passage de relais
+- Retour du plaisir
+- Fatigue dépressive
+- Ajustement des activités
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A71
+clinical_diagnosis: Trouble dépressif récurrent
 episode: 8
 ---
 

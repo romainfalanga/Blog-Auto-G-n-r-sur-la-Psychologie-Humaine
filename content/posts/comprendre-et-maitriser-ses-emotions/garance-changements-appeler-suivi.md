@@ -1,22 +1,24 @@
 ---
-title: 'Énergie inhabituelle : Garance s’engage trop vite au travail'
+title: Dormir peu et s’engager trop vite avant l’évaluation de l’hypomanie
 description: Garance a accepté plusieurs délais après des nuits bien plus courtes
   que d’habitude. Elle relit ses engagements et contacte son cabinet.
 slug: garance-changements-appeler-suivi
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Garance
-sujet: Trouble bipolaire de type II
+sujet: Activité accrue et sommeil réduit
 contexte: À son bureau de correctrice, quelques jours plus tard
 tags:
+- Trouble bipolaire de type II
 - Bipolarité type II
-- Énergie et sommeil
-- Engagements pris trop vite
-- Changements durables des habitudes
+- Besoin de sommeil réduit
+- Activité accrue
+- Engagements précipités
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A61
+clinical_diagnosis: Trouble bipolaire de type II
 episode: 3
 ---
 

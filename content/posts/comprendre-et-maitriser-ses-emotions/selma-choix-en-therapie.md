@@ -1,23 +1,25 @@
 ---
-title: Trouver son rythme en thérapie après un traumatisme
-description: Selma apporte des notes à sa thérapeute. Elle lui demande comment le
-  travail pourrait se poursuivre et comment signaler qu’elle souhaite faire une pause.
+title: Parler d’une reviviscence en séance quand la peur de perdre le fil revient
+description: Selma raconte la reviviscence à sa thérapeute et lui demande comment
+  avancer à un rythme qui lui permette de signaler une pause.
 slug: selma-choix-en-therapie
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Selma
-sujet: Trouble de stress post-traumatique
+sujet: Soins centrés sur le traumatisme
 contexte: Au cabinet de sa thérapeute
 tags:
+- Trouble de stress post-traumatique
 - TSPT
 - PTSD
-- Rythme choisi en thérapie
-- Choix de parler du traumatisme
-- Confiance dans le suivi
+- Reviviscence
+- Thérapie centrée sur le trauma
+- Choix du rythme en séance
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B40
+clinical_diagnosis: Trouble de stress post-traumatique
 episode: 6
 ---
 

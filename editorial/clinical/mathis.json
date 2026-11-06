@@ -1,29 +1,29 @@
 {
   "character_id": "mathis",
-  "bio": "Mathis, 29 ans, répare des vélos dans un atelier associatif. Il aime expliquer un réglage et voir quelqu’un repartir en sachant le refaire. Avec sa collègue Zélie, il prépare une permanence sur la place des Tilleuls. À la maison, il vit avec Simon, son colocataire. Quand plusieurs demandes arrivent ensemble, Mathis perd le fil et craint de passer pour quelqu’un sur qui on ne peut pas compter. Il dit parfois oui avant d’avoir regardé ce qu’il peut vraiment tenir.",
+  "bio": "Mathis a 29 ans et répare des vélos dans un atelier associatif. Une psychiatre évalue ses difficultés d’attention et d’organisation, puis pose un diagnostic de TDAH chez l’adulte. Quand la sonnette interrompt une réparation, Mathis peine à retrouver l’étape qu’il venait de terminer. Il craint que ses oublis abîment la confiance de Zélie, sa collègue, ou de Simon, son colocataire. Pour préparer une permanence de quartier, il cherche des manières de retrouver le fil et de tenir les engagements qu’il choisit.",
   "profile_topics": [
-    "Attention et interruptions",
-    "Estimation du temps",
-    "Engagements réalistes",
-    "Autonomie",
-    "Coopération au travail"
+    "TDAH chez l’adulte",
+    "Distractibilité",
+    "Organisation des tâches",
+    "Oublis d’intention",
+    "Peur de décevoir"
   ],
   "episodes": [
     {
       "number": 1,
       "slug": "mathis-velo-bleu-interruptions",
-      "title": "Perdre le fil après une interruption à l’atelier",
+      "title": "Distractibilité et perte du fil pendant une réparation",
       "description": "Une interruption en chasse une autre à l’atelier. Pour son évaluation, Mathis cherche des exemples qui disent ce que ces journées lui coûtent.",
       "context": "À l’atelier associatif, avant le lancement de la permanence mobile",
       "topics": [
-        "Attention morcelée",
-        "Reprise de tâche",
-        "Repères écrits"
+        "Distractibilité",
+        "Oubli d’intention",
+        "Retentissement au travail"
       ],
-      "opening": "Le vélo bleu est encore sur le pied quand Zélie revient avec le plan de la place des Tilleuls. Mathis lui montre du doigt le coin où installer le barnum. Il a démonté la roue avant et garde dans la main la petite pièce qu’il vient de nettoyer. Zélie veut savoir si une file peut passer entre leur table et l’étal du fromager. Mathis connaît la place le samedi matin. Il se penche sur le plan pour lui montrer d’où les gens arrivent.\n\nLa sonnette de l’atelier retentit. Une habituée demande si son vélo est prêt. Elle en a un bleu, elle aussi. Mathis reconnaît le sien contre le mur, lui montre sa fiche et appelle Zélie pour le retrait. Quand il revient au pied, il cherche la petite pièce sur le chiffon. Il la retrouve dans la poche de son tablier avec le stylo qu’il a pris pour le plan. Il n’est plus certain de la dernière chose qu’il a vérifiée.\n\nÀ la pause, il voit sur son téléphone un message de Simon à propos du relevé du compteur d’eau. Il s’était engagé à l’envoyer vendredi. Il a bien pris la photo vendredi et pourrait presque dire à quelle heure. L’envoi n’a pas suivi. Au premier entretien de son évaluation, la psychiatre lui a demandé de décrire ce qui l’amène à consulter. Il avait parlé de journées qui lui échappent. Il regarde la photo encore ouverte et se dit qu’il aurait pu raconter celle-ci.",
+      "opening": "Le vélo bleu est encore sur le pied quand Zélie revient avec le plan de la place des Tilleuls. Mathis lui montre du doigt le coin où installer le barnum. Il a démonté la roue avant et garde dans la main la petite pièce qu’il vient de nettoyer. Zélie veut savoir si une file peut passer entre leur table et l’étal du fromager. Mathis connaît la place le samedi matin. Il se penche sur le plan pour lui montrer d’où les gens arrivent.\n\nLa sonnette de l’atelier retentit. Une habituée demande si son vélo est prêt. Elle en a un bleu, elle aussi. Mathis reconnaît le sien contre le mur, lui montre sa fiche et appelle Zélie pour le retrait. Quand il revient au pied, il cherche la petite pièce sur le chiffon. Il la retrouve dans la poche de son tablier avec le stylo qu’il a pris pour le plan. Il n’est plus certain de la dernière chose qu’il a vérifiée. Il reprend le contrôle par le début et remarque que Zélie a déjà replié le plan des Tilleuls. Il voudrait lui demander de rester, puis entend le mot « encore » dans la phrase qu’il s’apprête à dire. Son premier réflexe est de taire le retard.\n\nÀ la pause, il voit sur son téléphone un message de Simon à propos du relevé du compteur d’eau. Il s’était engagé à l’envoyer vendredi. Il a bien pris la photo vendredi et pourrait presque dire à quelle heure. L’envoi n’a pas suivi. Au premier entretien de son évaluation, la psychiatre lui a demandé de décrire ce qui l’amène à consulter. Il avait parlé de journées qui lui échappent. Il regarde la photo encore ouverte et se dit qu’il aurait pu raconter celle-ci.",
       "sections": [
         {
-          "heading": "Comprendre ce qui pèse au quotidien",
+          "heading": "Comment la distractibilité peut faire perdre le point de reprise",
           "text": "Une interruption fait perdre le fil à bien des gens. Le vélo bleu intéresse la psychiatre pour la suite de la scène. Mathis doit retrouver ce qu’il a fait avant la sonnette et décider où reprendre. Il dit qu’il lui arrive de refaire une vérification faute de savoir s’il l’a terminée. À la maison, une étape peut rester ouverte alors qu’il a l’impression d’avoir traité la demande. Ce sont des faits concrets sur lesquels ils pourront revenir.\n\nLe trouble du déficit de l’attention avec ou sans hyperactivité, ou TDAH, fait partie des troubles du neurodéveloppement décrits par l’Organisation mondiale de la santé. Les difficultés qu’il recouvre peuvent concerner l’attention ou l’hyperactivité et l’impulsivité, selon la personne. L’évaluation regarde leur durée, les contextes où elles se manifestent, leurs conséquences et l’histoire depuis l’enfance. Chez Mathis, la cause reste à établir. Sa semaine fournit des situations à examiner, comme les jours où il travaille longtemps sur un seul vélo sans avoir à retrouver sa place."
         },
         {
@@ -43,18 +43,20 @@
         "choice": "Mathis note deux situations actuelles et un exemple où le cadre l’aide pour le prochain entretien.",
         "next": "La psychiatre lui a demandé ce qu’il peut retrouver sur ses années d’école."
       },
-      "ending_title": "Deux exemples à emporter"
+      "ending_title": "Deux exemples à emporter",
+      "clinical_focus": "Distractibilité et reprise de tâche",
+      "clinical_intro": "Une sonnette interrompt Mathis pendant qu’il vérifie le vélo bleu. À son retour, il hésite sur le dernier contrôle et songe à le refaire. Son évaluation porte sur la répétition de ce type de difficulté et sur ses conséquences au travail comme à la maison. Le récit montre l’intérêt d’apporter des exemples précis quand on s’interroge sur un TDAH."
     },
     {
       "number": 2,
       "slug": "mathis-cahiers-enfance-evaluation",
-      "title": "Difficultés d’attention : ce que Mathis retrouve dans ses souvenirs d’école",
+      "title": "Évaluation du TDAH à l’âge adulte et souvenirs d’école",
       "description": "Mathis ouvre ses cahiers d’école avec sa mère. Leurs souvenirs éclairent le bilan en cours, avec des détails précis et quelques blancs.",
       "context": "Chez sa mère et au cabinet, pendant le bilan spécialisé",
       "topics": [
         "Attention dans l’enfance",
-        "Organisation des tâches",
-        "Souvenirs familiaux"
+        "Retentissement scolaire",
+        "Évaluation clinique"
       ],
       "opening": "Sa mère a rangé les cahiers dans un sac de course qui tient debout entre deux cartons. Mathis prend celui dont le coin a été grignoté par le chien. La première page est propre, avec la date et son nom en capitales. À partir de la quatrième, des pignons apparaissent dans la marge. Il ouvre au milieu, cherche si le dessin montre le vélo qu’il avait voulu remonter avec son voisin et reconnaît la roue voilée à la façon dont il a tracé les rayons.\n\nSa mère voudrait lui donner tous les bulletins d’un coup. Il lui demande de s’asseoir et de lui raconter un mercredi ordinaire. Elle se rappelle la boîte de matériel de géométrie qu’elle avait rachetée en cours d’année. Lui se souvient surtout d’une fiche d’exercices qu’il croyait terminée jusqu’au moment où le garçon d’à côté l’avait retournée. Sa mère demande s’il était déjà au collège. Ils prennent le temps de relire la date au dos. Le souvenir reste clair pour Mathis et l’année reste incertaine.\n\nDans le couloir, Simon attend avec son manteau sur les genoux. Ils doivent aller déjeuner après. Mathis revient avec deux cahiers, puis en redépose un sur le sac. Il voudrait montrer à la psychiatre une page où la consigne se poursuit au verso. Il tient aussi à raconter qu’il attendait le mercredi suivant pour continuer le vélo avec le voisin. C’était un des rares rendez-vous qu’il préparait longtemps à l’avance.",
       "sections": [
@@ -79,18 +81,20 @@
         "choice": "Mathis apporte des exemples choisis et décide de se rendre seul à cet entretien.",
         "next": "Il revient au cabinet pour entendre la conclusion de l’évaluation et poser sa première question."
       },
-      "ending_title": "Le cahier près du sac"
+      "ending_title": "Le cahier près du sac",
+      "clinical_focus": "Histoire développementale du TDAH",
+      "clinical_intro": "En retournant une page de cahier avec sa mère, Mathis se rappelle une fiche dont il avait oublié de lire la suite. Il préparait pourtant longtemps à l’avance ses réparations de vélo avec un voisin. La psychiatre cherche quand les difficultés d’attention et d’organisation ont commencé, dans quelles situations elles gênaient Mathis et dans quelles conditions il arrivait à se concentrer."
     },
     {
       "number": 3,
       "slug": "mathis-diagnostic-tdah-adulte",
-      "title": "Soulagement et appréhension à l’annonce du diagnostic",
+      "title": "Le soulagement et les doutes à l’annonce du TDAH",
       "description": "La psychiatre pose un diagnostic de TDAH. Mathis veut comprendre ce qu’elle a retenu de son histoire et décider à qui en parler.",
       "context": "Au cabinet de la psychiatre, puis chez Mathis et Simon",
       "topics": [
+        "Diagnostic du TDAH",
         "Soulagement",
-        "Peur du jugement",
-        "Confidences choisies"
+        "Peur du jugement"
       ],
       "opening": "Le papier de Mathis dépasse de sa poche quand il s’assoit. Il avait écrit une question au dos de la date du rendez-vous. « Est-ce que ça va m’obliger à changer de métier ? » Ce matin, elle lui paraît presque trop grande pour commencer. La psychiatre l’invite à reprendre l’entretien où ils l’ont laissé. Elle a relu les exemples qu’il a apportés sur son enfance et les situations qu’ils ont examinées au travail et à la maison.\n\nElle lui dit qu’elle pose un diagnostic de trouble du déficit de l’attention avec ou sans hyperactivité. Mathis entend surtout la fin de la phrase. Il pense au mercredi où il attendait son voisin pour remonter un vélo. Il voudrait comprendre comment cette attente, dont il était capable, va avec l’évaluation. Il sort le papier et pose finalement cette question avant celle sur son métier. La spécialiste lui demande de reprendre les deux activités où il repère le plus de différence. Ils reviennent au pied de réparation et à la conversation qui l’en a éloigné.\n\nEn sortant, Mathis commande un café au comptoir et oublie d’enlever ses gants. Simon lui a demandé de lui écrire quand il aura fini. Mathis commence un message avec les quatre lettres du diagnostic, puis efface. Il écrira peut-être tout à l’heure. Il s’assoit un instant sur le banc où il a préparé le rendez-vous et relit la première question, désormais repliée au milieu de la feuille.",
       "sections": [
@@ -115,18 +119,20 @@
         "choice": "Mathis confie le diagnostic à Simon et choisit de parler d’organisation avec Zélie.",
         "next": "Il propose une répétition de la permanence où les demandes et les réparations sont séparées."
       },
-      "ending_title": "Ce que Mathis choisit de dire"
+      "ending_title": "Ce que Mathis choisit de dire",
+      "clinical_focus": "Comprendre son diagnostic de TDAH",
+      "clinical_intro": "Mathis avait écrit sa première question avant le rendez-vous. Il se demande si le diagnostic de TDAH va l’obliger à changer de métier. La psychiatre lui explique comment elle a rapproché son histoire d’enfance, les conséquences observées aujourd’hui et les autres explications possibles. Sur le banc après l’entretien, il hésite à écrire les quatre lettres à Simon."
     },
     {
       "number": 4,
       "slug": "mathis-pince-rouge-amenagements",
-      "title": "Partager les rôles pour protéger son attention à l’atelier",
+      "title": "Des repères pour reprendre une tâche interrompue avec un TDAH",
       "description": "Pour préparer la permanence, Mathis et Zélie essaient une autre manière de traiter les arrivées pendant une réparation.",
       "context": "Lors d’un essai du poste mobile à l’atelier",
       "topics": [
-        "Attention au travail",
-        "Reprise de tâche",
-        "Partage des rôles"
+        "Interruption de tâche",
+        "Repère de reprise",
+        "Aménagement de l’environnement"
       ],
       "opening": "Zélie pousse la table pliante jusqu’au trait que Mathis a tracé au sol. À la place des Tilleuls, le trait sera le bord du barnum. À l’atelier, c’est un morceau de ruban adhésif qui traverse l’entrée. Ils ont sorti les deux caisses qu’ils voudraient emporter. Mathis arrive à lire les étiquettes depuis le pied. Ce qu’il veut savoir, c’est ce qui se passe quand quelqu’un arrive alors qu’il a déjà les mains prises.\n\nZélie joue la personne venue pour un dérailleur. Elle s’approche de la table puis demande s’il peut faire un réglage tout de suite. Mathis répond avant d’avoir regardé le vélo qu’il est censé finir. Il retourne la fiche posée près du pied et pointe la ligne vide. « Là, si je te suis jusqu’à la caisse, je ne sais plus ce que j’ai laissé en plan. » Ils recommencent. Cette fois, Mathis retient la fiche sous une grosse pince rouge et marque le contrôle qui lui reste à faire.\n\nUn bénévole entre avec un paquet de rustines. Il voit la table en travers et se place à côté de Mathis pour poser une question. Zélie lui montre l’autre bord, là où elle s’est mise pour recevoir les gens. Le bénévole change de côté sans comprendre qu’il vient de faire partie de l’essai. Mathis répond une fois sa fiche complétée. Puis il demande à Zélie ce qui se passe le jour où c’est elle qui veut rester au pied.",
       "sections": [
@@ -151,18 +157,20 @@
         "choice": "Mathis et Zélie essaient une séparation entre l’accueil et le pied de réparation, avec un point de reprise écrit.",
         "next": "L’association doit valider l’organisation du poste mobile et préciser les informations à partager."
       },
-      "ending_title": "L’accueil et le pied de réparation"
+      "ending_title": "L’accueil et le pied de réparation",
+      "clinical_focus": "Aménagement de l’attention au travail",
+      "clinical_intro": "Pendant un essai de permanence, Zélie reçoit les questions pendant que Mathis termine un contrôle et note où il s’est arrêté. Une fiche libère une partie de l’effort nécessaire pour garder en tête les étapes d’une réparation. Dans le TDAH, modifier le poste et la circulation des demandes peut aider au quotidien. Mathis et Zélie observent ce que leur essai change."
     },
     {
       "number": 5,
       "slug": "mathis-fiche-partagee-confidentialite",
-      "title": "Demander un appui à l’équipe sans tout dire de sa santé",
+      "title": "Parler de ses besoins au travail après un diagnostic de TDAH",
       "description": "L’association doit valider la permanence. Mathis prépare ce qu’il veut demander à l’équipe et ce qu’il souhaite confier à Zélie seule.",
       "context": "À l’atelier, au moment de préparer la réunion de l’association",
       "topics": [
-        "Expression des besoins",
-        "Vie privée",
-        "Soutien entre collègues"
+        "Peur d’être jugé",
+        "Confidentialité du diagnostic",
+        "Aménagement au travail"
       ],
       "opening": "La coordinatrice de l’association a posé une fiche sur le classeur. Elle veut savoir combien de bénévoles il faudra le samedi et à quels moments les postes devront être tenus ensemble. Mathis avait prévu de répondre au stylo. Il commence par écrire que le maintien d’une personne à l’accueil facilite les réparations. À la ligne suivante, il écrit « difficulté à reprendre après une interruption ». Il hésite sur le sujet de la phrase. La fiche doit être lue par tout le monde à la réunion.\n\nZélie sort les bols du placard pour le déjeuner. Mathis lui demande s’ils peuvent manger à l’arrière de l’atelier. Là, ils entendent la sonnette sans voir la porte. Il lui dit qu’il a reçu un diagnostic de TDAH et qu’il a envie qu’elle le sache. Zélie repose sa fourchette. Elle attend une suite. Mathis lui explique que, pendant la réunion, il souhaite parler du fonctionnement de la permanence. Il ne veut pas que quelqu’un apprenne son diagnostic à cette occasion.\n\nZélie lui demande quelle partie elle peut reprendre devant les autres. Mathis retourne à la fiche. Il lui montre la phrase qu’il vient d’écrire et se demande si l’équipe comprendra le besoin de renfort. Zélie lui rappelle le moment où, pendant leur essai, elle a dû laisser l’accueil pour venir chercher une caisse. Cette fois-là, elle a attendu qu’il ait posé la pince rouge. Ils ont un exemple qu’ils peuvent raconter tous les deux.",
       "sections": [
@@ -187,23 +195,25 @@
         "choice": "Mathis parle de son diagnostic à Zélie en privé et présente lui-même le besoin opérationnel à l’équipe.",
         "next": "La réunion laisse une question ouverte sur le temps réel du trajet avec le matériel."
       },
-      "ending_title": "Une consigne pour toute l’équipe"
+      "ending_title": "Une consigne pour toute l’équipe",
+      "clinical_focus": "Expression des besoins et confidentialité",
+      "clinical_intro": "Pour obtenir du renfort le samedi, Mathis peut décrire une interruption précise et le contrôle qu’il aurait dû reprendre. Il souhaite aussi parler de son diagnostic à Zélie, dans un échange privé. L’épisode distingue les besoins de travail qu’il présente à l’équipe des informations de santé qu’il choisit de partager avec une collègue."
     },
     {
       "number": 6,
       "slug": "mathis-trajet-materiel-temps",
-      "title": "Pourquoi Mathis sous-estime le temps d’installation",
+      "title": "Estimer la durée d’une tâche quand les étapes s’accumulent",
       "description": "Mathis mesure le trajet avec Zélie. Il découvre tout ce qui manque entre son heure de départ et le moment où le poste sera prêt.",
       "context": "Entre l’atelier associatif et la place du marché, pendant le repérage",
       "topics": [
+        "Planification",
         "Estimation du temps",
-        "Enchaînement des tâches",
-        "Passage de relais"
+        "Enchaînement des actions"
       ],
       "opening": "Mathis met le pied de réparation sur la remorque et ferme la grille. Il ne s’est pas encore écoulé une minute depuis qu’il a regardé l’heure. Il se souvient avoir dit à la réunion que le trajet en prenait dix. Zélie tient le sac du barnum par les deux poignées. Avant qu’il pousse le vélo, elle lui demande où il a mis la clé du local de la place. Il revoit la clé sur le crochet à l’intérieur de la grille. Il appelle la personne qui tient l’atelier ce matin et attend qu’elle vienne leur ouvrir.\n\nAu bas de la rue, la roue de la remorque accroche un rebord. Mathis descend pour la faire passer. Il n’a jamais pris ce chemin avec les deux caisses empilées. Zélie le rejoint de l’autre côté et lui montre le retour par la rue des Lilas, moins direct et plus large. Sur la place, un camion s’arrête à l’endroit où ils avaient tracé la file. Le conducteur leur indique l’heure où les emplacements se libèrent d’habitude. Zélie note qu’il faudra faire confirmer cette information par la personne qui gère la place.\n\nQuand ils posent enfin la première caisse, Mathis regarde de nouveau l’heure. Le trajet proprement dit n’a pas beaucoup dépassé son estimation. Il leur reste à monter le poste. Zélie sort de sa poche le message qu’elle devait envoyer à la bénévole qui tiendra l’accueil. Mathis lui demande d’attendre que l’ardoise soit en place. Il voudrait lui annoncer l’heure où elle pourra commencer pour de vrai.",
       "sections": [
         {
-          "heading": "Comprendre ce qui se passe autour des dix minutes",
+          "heading": "Anticiper les étapes qui manquent à son estimation",
           "text": "Mathis a estimé la durée de la partie qu’il connaît. Il roule souvent jusqu’aux Tilleuls. Cette fois, ils ont attendu la clé, descendu un rebord à pied et discuté du camion. Chacune de ces étapes a des raisons concrètes. Le TDAH peut s’accompagner de difficultés à organiser une succession d’actions. Un trajet encombré renseigne aussi sur le trajet lui-même. En repérant l’origine du délai, les deux collègues peuvent changer quelque chose au programme.\n\nLe NICE cite l’organisation et la gestion du temps parmi les points à prendre en compte dans le soutien aux personnes concernées. Dans la situation de Mathis, l’objectif est de disposer d’un horaire utile à plusieurs personnes. L’essai fait apparaître deux heures différentes, celle de la sortie de l’atelier et celle où le public pourra être accueilli. L’intervalle contient tout ce qu’ils peuvent préparer et les aléas pour lesquels l’équipe doit garder une marge."
         },
         {
@@ -223,23 +233,25 @@
         "choice": "Ils distinguent l’heure de départ de l’heure d’ouverture et fixent qui obtient chaque information.",
         "next": "Chez eux, Mathis et Simon doivent organiser une livraison et revenir sur la manière dont ils se répartissent les démarches."
       },
-      "ending_title": "Le départ à ne pas confondre avec l’ouverture"
+      "ending_title": "Le départ à ne pas confondre avec l’ouverture",
+      "clinical_focus": "Planification et estimation du temps",
+      "clinical_intro": "Mathis a compté le trajet qu’il fait d’habitude. La remorque, la clé à récupérer et le montage du poste s’ajoutent au temps de déplacement. Certaines personnes avec un TDAH peinent à organiser une suite d’actions et à anticiper leurs délais. En suivant le trajet complet, Mathis repère les étapes dont son estimation dépendait."
     },
     {
       "number": 7,
       "slug": "mathis-livraison-repartition-maison",
-      "title": "Dire oui trop vite : qui porte la charge de la livraison ?",
+      "title": "La peur de décevoir quand on s’engage trop vite",
       "description": "Une livraison tombe pendant les heures de l’atelier. Mathis et Simon reprennent l’accord en regardant qui reçoit les messages et qui peut agir.",
       "context": "À la table de la cuisine, après le repérage aux Tilleuls",
       "topics": [
-        "Engagements réalistes",
-        "Charge mentale",
-        "Partage des responsabilités"
+        "Peur de décevoir",
+        "Anticipation d’un engagement",
+        "Charge mentale"
       ],
       "opening": "Simon a imprimé le message du magasin. Le livreur viendra entre la fin de l’après-midi et le début de la soirée. La plage est assez large pour recouvrir l’heure où Mathis doit ranger l’atelier. Ils ont commandé une table qu’ils ont choisie ensemble. Mathis s’était occupé de confirmer le jour et Simon avait reçu l’appel du magasin. Depuis, les messages arrivent sur le téléphone de Simon, même s’ils se sont dit que Mathis serait là.\n\nMathis propose d’activer une alarme. Simon lui montre la dernière ligne du message. Le livreur appelle peu avant son arrivée et ne pourra pas attendre si personne n’est dans l’appartement. Il faudrait donc que Simon surveille son téléphone et transmette l’appel. Il a promis d’aider un ami à déménager à l’autre bout de la ville. « Je veux bien te passer le message maintenant. Demain, je ne peux pas rester à guetter. »\n\nMathis tire le calendrier vers lui. Il avait répondu oui avant d’imaginer les vélos à ranger et les bénévoles qui lui posent souvent une question en partant. Il a envie de dire qu’il trouvera bien un moyen. En voyant le vendredi sur le calendrier, il se rappelle la photo du compteur envoyée en retard. Il sait retrouver une heure sur son téléphone. Ce soir, il cherche surtout une heure qu’il pourra vraiment tenir.",
       "sections": [
         {
-          "heading": "Comprendre ce qui est confié avec une tâche",
+          "heading": "De l’intention à l’engagement qu’il faudra tenir",
           "text": "Une livraison comporte plusieurs actions. Quelqu’un fixe la date, quelqu’un reçoit le message, quelqu’un ouvre la porte et quelqu’un doit pouvoir appeler si le jour change. Mathis s’est engagé sur la présence à la maison, tandis que Simon garde sans l’avoir choisi la responsabilité d’attraper l’appel. Le problème existe avant la sonnerie. Ils peuvent le voir ensemble en suivant le parcours du message.\n\nLes difficultés d’organisation peuvent se manifester aussi hors du travail. Elles affectent parfois la façon dont des tâches sont réparties entre adultes. Dans le suivi, Mathis peut décrire ce qu’il arrive à assurer et les endroits où il se retrouve à dépendre d’un rappel. Il souhaite que Simon puisse lui dire ce qui devient pesant sans endosser le rôle de vérifier tous ses engagements. De son côté, il veut pouvoir demander un appui ponctuel sans perdre la possibilité de prendre une décision."
         },
         {
@@ -259,18 +271,20 @@
         "choice": "Mathis reprend le contact avec le magasin et choisit un créneau qu’il peut assurer.",
         "next": "Il aborde au cabinet les difficultés qui persistent malgré les premiers aménagements."
       },
-      "ending_title": "Un créneau dont il s’occupe"
+      "ending_title": "Un créneau dont il s’occupe",
+      "clinical_focus": "Anticipation et oubli d’intention",
+      "clinical_intro": "Mathis veut dire à Simon qu’il sera là pour la livraison avant de vérifier son heure de départ de l’atelier. Puis il se rappelle la photo qu’il avait prise à temps et envoyée en retard. Cet oubli d’une action prévue et la difficulté à anticiper l’horaire rendent son engagement plus fragile. L’accord concerne aussi la charge de Simon, qui reçoit les appels du magasin."
     },
     {
       "number": 8,
       "slug": "mathis-options-soins-suivi",
-      "title": "Garder la main sur les choix de suivi quand les difficultés persistent",
+      "title": "Choisir un accompagnement pour les difficultés qui persistent",
       "description": "Certaines adaptations aident Mathis, d’autres problèmes persistent. Au cabinet, il compare les options de suivi avec ses propres priorités.",
       "context": "Au rendez-vous de suivi avec la psychiatre",
       "topics": [
+        "Retentissement du TDAH",
         "Décision partagée",
-        "Priorités personnelles",
-        "Transitions entre tâches"
+        "Choix d’accompagnement"
       ],
       "opening": "Mathis pose sur ses genoux une enveloppe gonflée par les fiches qu’il a décidé d’apporter. À l’intérieur, il y a l’heure de la livraison, deux notes prises après des journées à l’atelier et un croquis de la table mobile. Il a glissé le croquis parce qu’il veut montrer à la psychiatre ce qui a changé, puis hésite en le voyant dépasser. Il n’a pas demandé rendez-vous pour parler de l’emplacement des outils.\n\nIl lui raconte la dernière matinée où la pince rouge l’a aidé. Il a quitté le pied pour prendre une caisse et a pu reprendre en lisant sa fiche. Deux jours après, il a remis la même vérification trois fois en tête de la liste parce que le téléphone sonnait. En rentrant ce soir-là, il n’arrivait plus à suivre ce que Simon lui expliquait à propos de la livraison. Il se souvient de la couleur de la feuille, beaucoup moins de l’heure qu’ils avaient convenue.\n\nLa psychiatre lui demande quelle difficulté il aimerait examiner en premier. Mathis pensait surtout qu’on lui parlerait de médicaments et qu’il faudrait décider vite. Il lui demande ce qu’elle voudrait savoir pour choisir avec lui. Elle retourne le croquis pour écrire au dos deux situations dont il vient de parler. Il retrouve devant lui le pied de réparation, puis la cuisine. La différence entre les deux l’intéresse plus qu’au début de l’entretien.",
       "sections": [
@@ -295,18 +309,20 @@
         "choice": "Mathis choisit de commencer un accompagnement structuré et convient de revoir les options avec sa psychiatre.",
         "next": "Un changement de dernière minute met à l’épreuve les arrangements du poste mobile."
       },
-      "ending_title": "Un premier essai avec la psychiatre"
+      "ending_title": "Un premier essai avec la psychiatre",
+      "clinical_focus": "Décision partagée dans le suivi",
+      "clinical_intro": "Au cabinet, Mathis montre ce qui l’aide à retrouver l’étape d’une réparation et ce qui lui échappe encore à la maison. Le suivi du TDAH tient compte des difficultés persistantes, des aménagements essayés et de ce que la personne veut travailler. Avec sa psychiatre, il choisit de commencer par un accompagnement structuré qui part de ces deux situations."
     },
     {
       "number": 9,
       "slug": "mathis-changement-plan-reprise",
-      "title": "Imprévu et fatigue : Mathis révise ses repères avec l’équipe",
+      "title": "Quand l’imprévu et le manque de sommeil compliquent l’organisation",
       "description": "Un essai décalé laisse circuler deux rendez-vous. Mathis repère ce qui lui a échappé et ce que l’équipe peut corriger avant l’ouverture.",
       "context": "Au dernier essai avec les bénévoles, avant l’ouverture au public",
       "topics": [
-        "Attention et fatigue",
-        "Souplesse face à l’imprévu",
-        "Repères communs"
+        "Fatigue et attention",
+        "Changement imprévu",
+        "Information contradictoire"
       ],
       "opening": "Quand Mathis arrive à l’atelier, un bénévole a déjà descendu la rampe de la remorque. Il se demande pourquoi les autres ne sont pas là. Le message de Zélie annonçait un changement possible. Un deuxième est arrivé dans la conversation de l’association pendant le déjeuner. Mathis avait répondu à une question juste au-dessus. Il rouvre le fil et trouve la confirmation, suivie du message d’une bénévole qui a gardé l’heure précédente.\n\nIl a mal dormi et cherchait d’abord où poser son sac. Il se met à écrire aux deux personnes à la fois. Au bout de la table, quelqu’un lui demande de vérifier si la roue du vélo de démonstration est prête. Mathis répond oui. Il regarde la roue et reconnaît qu’il vient de confirmer avoir reçu le message sans avoir écouté la question. « Attends. Montre-moi la fiche. » Le vélo est encore à contrôler. Mathis le dit et ramène la fiche près du pied.\n\nZélie arrive avec l’ardoise sous le bras. Mathis lui montre les deux horaires sur l’écran. Il voudrait leur dire à tous de venir quand même pour récupérer le temps perdu. Zélie lui demande qui peut encore être là pendant un essai complet. Ils vont devoir choisir ce qu’ils essaient avec les personnes présentes. Au mur, l’ancienne heure est écrite sur la fiche que tout le monde peut lire.",
       "sections": [
@@ -331,18 +347,20 @@
         "choice": "L’équipe réduit l’essai, fixe un planning de référence et conserve les contrôles habituels.",
         "next": "À l’ouverture au public, Mathis et Zélie devront tenir une heure de fin même si des demandes arrivent encore."
       },
-      "ending_title": "Le seul horaire qui fait foi"
+      "ending_title": "Le seul horaire qui fait foi",
+      "clinical_focus": "Attention et variation selon le contexte",
+      "clinical_intro": "Mathis a mal dormi et découvre que deux horaires différents circulent pour le même essai. Le changement le pousse d’abord à vouloir faire venir tout le monde. Les difficultés d’attention peuvent varier avec la fatigue et les exigences du moment. Le désaccord entre les messages complique aussi l’organisation de toute l’équipe, qui décide de choisir un horaire commun."
     },
     {
       "number": 10,
       "slug": "mathis-premiere-permanence-limites",
-      "title": "Poser une limite quand on voudrait encore rendre service",
+      "title": "Dire non à une nouvelle demande pour tenir ses engagements",
       "description": "La première permanence fonctionne jusqu’à la dernière place disponible. Mathis voudrait accueillir encore un vélo, alors qu’il faut préparer la fermeture.",
       "context": "Sur la place des Tilleuls, le premier samedi ouvert au public",
       "topics": [
-        "Difficulté à dire non",
         "Priorisation",
-        "Limites au travail"
+        "Peur de décevoir",
+        "Limites professionnelles"
       ],
       "opening": "L’ardoise tient avec un tendeur passé autour du pied de la table. Mathis a dit qu’il la retournerait à midi, une fois les dernières demandes prises. À onze heures cinquante, une femme s’arrête avec un vélo qu’elle tient par la selle. Elle aimerait repartir avec ce matin. De l’autre côté du pied, Zélie finit un contrôle. Mathis regarde l’espace qui reste entre les fiches et cherche s’il pourrait en glisser une de plus.\n\nAu début de la permanence, il a montré à un garçon comment retrouver la taille inscrite sur son pneu. Le garçon l’a retrouvée seul sur la deuxième roue, puis a appelé sa mère pour lui montrer. Mathis voudrait avoir ce temps avec chaque personne. À présent, il entend quelqu’un demander où faire la queue pendant que la femme lui explique ce qu’elle ressent dans la poignée. Il commence à répondre aux deux.\n\nZélie lui demande combien de vélos sont encore en attente. Mathis lit les fiches et annonce le nombre. Il en reste un sur lequel ils doivent travailler et un autre qu’ils doivent rendre après vérification. Le premier créneau de la bénévole se termine. La femme demande si elle doit laisser son vélo ici. Mathis regarde l’ardoise qui n’a pas encore changé de côté. Il prend le temps de lui demander ce dont elle a besoin pour s’organiser aujourd’hui.",
       "sections": [
@@ -367,18 +385,20 @@
         "choice": "Mathis ferme les inscriptions avec l’équipe et garde du temps pour les vélos déjà confiés.",
         "next": "Il apporte au suivi des exemples de ce qui a facilité le samedi et de ce qui reste difficile."
       },
-      "ending_title": "Du temps pour les vélos déjà confiés"
+      "ending_title": "Du temps pour les vélos déjà confiés",
+      "clinical_focus": "Priorisation et limites au travail",
+      "clinical_intro": "À la fin de la permanence, Mathis voudrait dépanner la femme qui vient d’arriver. Il doit encore rendre les vélos déjà confiés et fermer l’atelier mobile. Hiérarchiser des demandes concurrentes peut devenir difficile quand elles arrivent au même moment. L’ardoise et l’heure de fin l’aident à proposer une réponse réaliste sans perdre de vue ce qu’il s’est engagé à faire."
     },
     {
       "number": 11,
       "slug": "mathis-suivi-avec-simon",
-      "title": "Au rendez-vous, faire une place au regard d’un proche",
+      "title": "Ce que le regard d’un proche apporte au suivi du TDAH",
       "description": "Mathis choisit d’inviter Simon pour une partie du suivi. Leurs deux récits aident à préciser les appuis qu’ils veulent garder.",
       "context": "Au cabinet, après la première permanence ouverte au public",
       "topics": [
-        "Écoute mutuelle",
-        "Autonomie",
-        "Soutien des proches"
+        "Retentissement à domicile",
+        "Observation d’un proche",
+        "Décision partagée"
       ],
       "opening": "Mathis a laissé son papier sur la table neuve exprès, à côté des clés, pour le prendre en sortant. Il a écrit d’un côté ce qu’il veut dire seul à la psychiatre. Sur l’autre figurent deux situations dont Simon a été témoin et dont ils peuvent parler ensemble. Le papier est assez petit pour qu’il le retourne dans sa main sans que Simon le voie. À l’entrée du cabinet, Simon lui demande quand il doit le rejoindre. Mathis lui dit qu’il viendra le chercher.\n\nPendant la première partie, Mathis parle des dernières séances d’accompagnement. Il a commencé à remarquer le moment où une demande arrive trop tôt pour qu’il puisse la traiter. Au marché, il avait demandé à la dernière visiteuse ce qu’elle souhaitait faire, puis s’était donné le temps de regarder les fiches avant de lui répondre. Il a moins bien suivi une discussion le soir même. Simon lui a reparlé d’un rendez-vous qu’ils avaient fixé et Mathis n’a retrouvé ni la date ni l’accord.\n\nQuand il va chercher Simon, la place voisine est vide. Simon s’est levé pour lire un prospectus au bout du couloir. Mathis le rejoint et lui dit qu’il aimerait commencer par la livraison. « Après, tu pourras dire ce que tu as remarqué le samedi soir, si tu veux. » Il revient dans le bureau le premier et reprend son papier sur la chaise.",
       "sections": [
@@ -403,18 +423,20 @@
         "choice": "Mathis invite Simon pour une partie ciblée du suivi et convient d’un nouveau point avec sa psychiatre.",
         "next": "Au deuxième samedi, il propose de partager autrement les rôles et de rendre l’organisation transmissible."
       },
-      "ending_title": "L’entretien auquel Simon assiste en partie"
+      "ending_title": "L’entretien auquel Simon assiste en partie",
+      "clinical_focus": "Retentissement du TDAH à domicile",
+      "clinical_intro": "Mathis invite Simon à une partie du rendez-vous pour entendre comment chacun a vécu l’organisation de la livraison. Le récit d’un proche peut préciser des effets quotidiens du TDAH et des attentes différentes au sein d’une relation. Mathis choisit de commencer par la livraison et garde la main sur les sujets qu’il souhaite aborder."
     },
     {
       "number": 12,
       "slug": "mathis-deuxieme-samedi-permanence",
-      "title": "Passer le relais sans porter seul toute l’organisation",
+      "title": "Rendre les aides à l’organisation utilisables par toute l’équipe",
       "description": "Mathis et Zélie reprennent la permanence avec des rôles différents. Un détail oublié leur montre pourquoi l’équipe doit pouvoir passer le relais.",
       "context": "De nouveau sur la place des Tilleuls, lors de la deuxième permanence",
       "topics": [
-        "Responsabilités partagées",
-        "Autonomie",
-        "Repères communs"
+        "Organisation collective",
+        "Repère visuel",
+        "Autonomie au travail"
       ],
       "opening": "La pluie de la veille a laissé une flaque à l’endroit où ils avaient aligné les vélos. Mathis et Zélie déplacent la table vers le bord de la place. La bénévole du premier samedi arrive par le côté où se trouvait l’ardoise. Elle hésite devant la file qui commence près de l’étal du fromager. Mathis se rend compte qu’il a fait changer la table de place et laissé le panneau face au mauvais passage.\n\nIl a proposé de prendre l’accueil au début. Zélie peut alors terminer le travail déjà prévu au pied. Mathis retrouve le feutre et demande à la bénévole si elle peut déplacer l’ardoise pendant qu’il explique le déroulement à une femme qui vient pour la première fois. Quand celle-ci lui demande un renseignement sur son vélo, il commence à contourner la table. Il s’arrête devant les fiches qu’il doit ranger et lui dit qui pourra venir voir le vélo. Elle attend un peu en regardant la place.\n\nPlus tard, Mathis cherche sa pince rouge sous le classeur. La bénévole lui montre la deuxième fiche, celle qui indique le contrôle à faire au retour de Zélie. Elle a pris la pince pour maintenir le papier quand un courant d’air a soulevé le coin. Mathis vérifie que le repère reste lisible. Puis il demande si elle veut prendre l’accueil à son tour. Il aimerait montrer à la femme comment lire l’inscription sur son pneu, comme il l’a fait le premier samedi.",
       "sections": [
@@ -439,7 +461,9 @@
         "choice": "Mathis fait circuler les repères de la permanence et décide avec l’équipe de sa prochaine participation.",
         "next": "La permanence continue avec un calendrier commun. Mathis garde son prochain rendez-vous de suivi et pourra revoir les appuis selon ses besoins."
       },
-      "ending_title": "Quelqu’un d’autre prend le relais"
+      "ending_title": "Quelqu’un d’autre prend le relais",
+      "clinical_focus": "Maintien des appuis au quotidien",
+      "clinical_intro": "Lors de la deuxième permanence, Mathis aimerait retourner vers le pied de réparation. Pour changer de rôle, il faut que les autres retrouvent les horaires et les étapes en cours. Des appuis au quotidien deviennent plus faciles à maintenir quand l’équipe sait les utiliser et les revoir. Mathis peut alors choisir comment il participe et garder son suivi."
     }
   ]
 }

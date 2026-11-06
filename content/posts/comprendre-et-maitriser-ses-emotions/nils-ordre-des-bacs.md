@@ -1,22 +1,23 @@
 ---
-title: Retrouver le fil quand deux consignes se croisent
+title: Attention et mémoire de travail face à deux consignes à la fois
 description: Des étiquettes se décollent et deux consignes se croisent. Nils et Aïcha
   font une liste commune avant d’ouvrir le rayon.
 slug: nils-ordre-des-bacs
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nils
-sujet: Schizophrénie
+sujet: Mémoire de travail
 contexte: Le lundi suivant, à la livraison du matin
 tags:
 - Schizophrénie
-- Attention et bruit
-- Surcharge cognitive
-- Consignes écrites
+- Mémoire de travail
+- Difficultés attentionnelles
+- Supports écrits
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A20
+clinical_diagnosis: Schizophrénie
 episode: 4
 ---
 

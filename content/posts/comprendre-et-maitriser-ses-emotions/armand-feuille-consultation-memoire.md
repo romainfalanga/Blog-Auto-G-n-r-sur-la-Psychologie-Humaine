@@ -1,24 +1,26 @@
 ---
-title: Parler pour soi à une consultation mémoire
+title: Décrire les difficultés cognitives à la consultation mémoire
 description: À la consultation mémoire, Armand veut décrire ce qui se passe quand
   il range ses papiers. Jeanne a une autre inquiétude à ajouter.
 slug: armand-feuille-consultation-memoire
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Armand
-sujet: Démence due à la maladie d’Alzheimer
+sujet: Retentissement cognitif dans la vie quotidienne
 contexte: À un rendez-vous de suivi à la consultation mémoire, après le deuxième passage
   à la bibliothèque
 tags:
+- Démence due à la maladie d’Alzheimer
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Choisir pour soi
-- Mémoire au quotidien
-- Recevoir de l’aide
+- Retentissement quotidien
+- Autonomie en consultation
+- Point de vue du proche
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D80
+clinical_diagnosis: Démence due à la maladie d’Alzheimer
 episode: 4
 ---
 

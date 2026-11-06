@@ -1,23 +1,25 @@
 ---
-title: Réparer un lien quand un accord n’a pas été respecté
-description: Une photo du patron de Joël circule dans une famille. Meriem lui parle
-  de ce qui s’est passé et met en place une règle visible sur les copies.
+title: Anticiper une rupture après un désaccord quand le lien avec Joël compte
+description: Une copie a circulé au-delà de l’accord. Meriem pense que Joël va quitter
+  le projet avant de lui avoir expliqué la situation.
 slug: meriem-chemise-bleue
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Meriem
-sujet: Trouble de stress post-traumatique complexe
+sujet: Anticipation d’une rupture relationnelle
 contexte: Au jeudi qui suit le premier échange
 tags:
+- Trouble de stress post-traumatique complexe
 - TSPT complexe
 - CPTSD
-- Confiance dans les relations
-- Poser ses limites
+- Anticipation de rupture
+- Retrait relationnel
 - Réparation du lien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B41
+clinical_diagnosis: Trouble de stress post-traumatique complexe
 episode: 11
 ---
 
@@ -27,7 +29,7 @@ Lila raconte que sa tante lui a expliqué comment faire le bord dans la conversa
 
 Meriem se voit déjà lui annoncer que leur échange n’aura pas de deuxième samedi. Elle pense aussi à attendre qu’il découvre la photo lui-même. Sa main hésite au-dessus du bac. Puis elle tire les copies du chapeau, demande à Lila de mettre le téléphone de côté un instant et pose les feuilles près d’Ève. Elle a le numéro que Joël lui a donné pour le prévenir au sujet des deux tailles. Elle a besoin de décider avec Ève ce qu’elles vont lui dire.
 
-## Un lien peut tenir à ce qu’on fait après un raté
+## Le retrait quand on s’attend déjà à perdre le lien
 
 Les difficultés à entretenir des relations peuvent être durables dans le stress post-traumatique complexe. Elles peuvent se manifester par une tendance à prendre ses distances, y compris quand le lien compte pour la personne. Dans la scène, Meriem anticipe la rupture avant d’avoir parlé à Joël. Elle a déjà renoncé à des relations qu’elle aurait préféré garder. Le fait qu’elle s’attende à perdre celle-ci ne dit pas comment Joël recevra la nouvelle. Il y a une situation à lui expliquer et des choix qui lui reviennent.
 

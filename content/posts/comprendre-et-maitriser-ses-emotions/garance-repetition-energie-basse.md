@@ -1,23 +1,25 @@
 ---
-title: 'Perte d’élan : aller à la répétition devient difficile'
+title: Perte d’élan dépressive avant une répétition qui compte
 description: Garance met du temps à quitter son bureau et hésite devant son alto.
   À la répétition, un passage lui plaît encore. Elle en parlera au suivi.
 slug: garance-repetition-energie-basse
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Garance
-sujet: Trouble bipolaire de type II
+sujet: Perte d’élan dépressive
 contexte: À la maison et dans la salle des Forges, plusieurs semaines après l’épisode
   hypomaniaque
 tags:
+- Trouble bipolaire de type II
 - Bipolarité type II
-- Perte d’élan durable
-- Plaisir malgré les difficultés
-- Appui pour rejoindre une activité
+- Difficulté à commencer
+- Perte d’élan
+- Plaisir ponctuel
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A61
+clinical_diagnosis: Trouble bipolaire de type II
 episode: 6
 ---
 

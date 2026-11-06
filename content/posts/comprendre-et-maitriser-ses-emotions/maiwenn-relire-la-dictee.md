@@ -1,23 +1,26 @@
 ---
-title: Reprendre la main quand la dictée change une légende
-description: Au CDI, la dictée vocale aide Maïwenn à lancer sa légende. Un seul mot
-  entendu de travers suffit à changer ce qu’elle avait voulu raconter.
+title: Ce que la dictée vocale allège quand écrire demande un effort
+description: La dictée laisse Maïwenn finir son idée, puis transforme « cale » en
+  « case ». Elle choisit de reprendre le sens après le brouillon.
 slug: maiwenn-relire-la-dictee
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Maïwenn
-sujet: Trouble développemental des apprentissages avec déficit de l’expression écrite
+sujet: Dictée vocale et révision du sens
 contexte: Un lundi après les cours, sur un poste du CDI
 tags:
+- Trouble développemental des apprentissages avec déficit de l’expression écrite
 - Déficit de l’expression écrite
 - Dysorthographie
-- Frustration
-- Sentiment de maîtrise
-- Recherche d’appuis
+- Appui à l’expression écrite
+- Relecture du sens
+- Peur de l’erreur
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.1
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit de l’expression
+  écrite
 episode: 3
 ---
 

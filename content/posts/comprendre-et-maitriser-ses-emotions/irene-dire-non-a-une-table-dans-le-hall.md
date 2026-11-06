@@ -1,23 +1,25 @@
 ---
-title: Dire non à la grande table quand l’accueil s’accélère
-description: Les inscriptions ont doublé pour le samedi de lecture. Mylène propose
-  la grande table du hall ; Irène examine les passages autour.
+title: Choisir un espace sûr quand le public change les conditions
+description: La grande table du hall attire les visiteurs et se trouve au milieu du
+  passage. Irène propose un autre accueil pour garder son espace.
 slug: irene-dire-non-a-une-table-dans-le-hall
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Irène
-sujet: Trouble des mouvements stéréotypés
+sujet: Sécurité de l’environnement en situation
 contexte: Dans le hall de la médiathèque, avant l’ouverture du samedi de lecture
 tags:
+- Trouble des mouvements stéréotypés
 - Trouble des mouvements stéréotypiques
 - CIM-11 6A06
-- Pression à faire vite
-- Affirmer une limite
-- Négocier une place dans le groupe
+- Appréhension d’un nouveau heurt
+- Ajustement de l’espace
+- Affirmation d’un besoin
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A06
+clinical_diagnosis: Trouble des mouvements stéréotypés
 episode: 10
 ---
 

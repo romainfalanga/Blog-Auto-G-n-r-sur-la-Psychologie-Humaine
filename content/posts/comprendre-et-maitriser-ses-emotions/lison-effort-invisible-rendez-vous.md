@@ -1,23 +1,25 @@
 ---
-title: Craindre qu’on sous-estime son effort au rendez-vous de suivi
+title: Retentissement de la dyscalculie derrière un devis juste
 description: Chez son orthophoniste, Lison raconte ce qui lui prend du temps derrière
   un devis juste. Elle choisit ce qu’elle veut essayer au travail.
 slug: lison-effort-invisible-rendez-vous
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Lison
-sujet: Trouble développemental des apprentissages avec déficit en mathématiques
+sujet: Retentissement et effort compensatoire
 contexte: Le lundi après la validation du devis, dans le cabinet de son orthophoniste.
 tags:
+- Trouble développemental des apprentissages avec déficit en mathématiques
 - Dyscalculie développementale
 - Dyscalculie
-- Effort invisible
-- Suivi et vie au travail
-- Choix des confidences
+- Retentissement au quotidien
+- Effort compensatoire
+- Suivi orthophonique
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.2
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en mathématiques
 episode: 7
 ---
 

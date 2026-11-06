@@ -1,23 +1,24 @@
 ---
-title: Se croire écartée quand son nom disparaît du tableau
+title: Conviction persécutive quand une affiche semble annoncer une exclusion
 description: Gasparde trouve une nouvelle affiche au club. En attendant d’en parler
   à Basile, elle choisit ce qu’elle peut encore faire pour les adhérents.
 slug: gasparde-nom-retire-tableau
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gasparde
-sujet: Trouble délirant
+sujet: Conviction persécutive
 contexte: Un jeudi en fin d’après-midi, devant le tableau du terrain communal
 tags:
 - Trouble délirant
 - Trouble délirant persistant
-- Soupçons et incertitude
-- Sentiment d’exclusion
-- Réagir à l’imprévu
+- Conviction persécutive
+- Interprétation d’un indice
+- Retentissement quotidien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A24
+clinical_diagnosis: Trouble délirant
 episode: 1
 ---
 
@@ -27,7 +28,7 @@ Deux habitués passent avec un panier de balles. L’un d’eux soulève le loqu
 
 Une femme arrive avec une raquette à la main. Elle s’appelle Dounia et a laissé un message pour jouer mardi. Gasparde reconnaît sa voix. Elle voudrait lui dire de revenir quand les gens qui décident auront fini, mais Dounia a traversé la commune pour savoir à quelle heure passer. Gasparde sort de sa poche le carnet où elle reporte les appels. Sous mardi, un point bleu lui rappelle qu’elle a confirmé le créneau de dix-huit heures. Elle le redit à Dounia, puis choisit d’écrire à Basile au sujet de l’affiche. Elle efface les trois premiers mots de son message avant de l’envoyer.
 
-## Quand un détail prend toute la place
+## Comment une interprétation peut prendre la force d’une conviction
 
 Une conviction inquiétante peut donner le sentiment que des événements ordinaires s’adressent personnellement à soi. Chez Gasparde, l’espace blanc fait surgir l’idée qu’on s’organise pour l’écarter. Elle l’éprouve avec une force qui dépasse la simple question du tableau. Cette peur s’inscrit dans une histoire plus longue dont elle parle en consultation. Son équipe lui a expliqué le diagnostic de trouble délirant avant le début du récit.
 

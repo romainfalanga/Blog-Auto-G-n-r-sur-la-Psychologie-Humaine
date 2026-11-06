@@ -1,22 +1,24 @@
 ---
-title: Soulagement et appréhension à l’annonce du diagnostic
+title: Le soulagement et les doutes à l’annonce du TDAH
 description: La psychiatre pose un diagnostic de TDAH. Mathis veut comprendre ce qu’elle
   a retenu de son histoire et décider à qui en parler.
 slug: mathis-diagnostic-tdah-adulte
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: TDAH chez l’adulte
+sujet: Comprendre son diagnostic de TDAH
 contexte: Au cabinet de la psychiatre, puis chez Mathis et Simon
 tags:
+- TDAH chez l’adulte
 - TDAH
+- Diagnostic du TDAH
 - Soulagement
 - Peur du jugement
-- Confidences choisies
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A05
+clinical_diagnosis: TDAH chez l’adulte
 episode: 3
 ---
 

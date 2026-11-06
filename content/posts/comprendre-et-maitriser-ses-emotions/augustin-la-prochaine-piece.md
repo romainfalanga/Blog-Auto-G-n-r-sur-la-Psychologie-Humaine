@@ -1,24 +1,26 @@
 ---
-title: Avoir envie de rejouer sans promettre le même rôle
-description: Au rangement, Augustin revient sur le silence qui l’a fait rire et sur
-  ce qu’il veut garder pour une prochaine pièce.
+title: Ce qui peut changer d’un projet à l’autre avec un trouble de la coordination
+description: Augustin a aimé jouer cette scène et veut garder son prochain rôle ouvert.
+  Il reviendra sur les gestes et les appuis selon le projet.
 slug: augustin-la-prochaine-piece
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Augustin
-sujet: Trouble développemental de la coordination motrice
+sujet: Participation avec une difficulté motrice durable
 contexte: la semaine suivante, quand la troupe rend les accessoires
 tags:
+- Trouble développemental de la coordination motrice
 - Trouble du développement de la coordination
 - TDC
 - Dyspraxie
-- Légitimité dans le groupe
-- Limites du partage
-- Choix de l’aide
+- Transfert des adaptations
+- Choix d’activité
+- Sentiment de compétence
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A04
+clinical_diagnosis: Trouble développemental de la coordination motrice
 episode: 12
 ---
 

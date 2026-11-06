@@ -1,23 +1,25 @@
 ---
-title: Au téléphone, craindre de ralentir la commande
+title: Calcul sous pression et difficulté à garder plusieurs dimensions en tête
 description: Le fournisseur propose un sergé plus étroit. Lison demande une réponse
   par écrit avant de décider, malgré l’échéance du lendemain.
 slug: lison-faire-attendre-le-fournisseur
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Lison
-sujet: Trouble développemental des apprentissages avec déficit en mathématiques
+sujet: Charge cognitive sous pression temporelle
 contexte: Jeudi après la pause, dans l’entrée de l’atelier, pendant l’appel au fournisseur.
 tags:
+- Trouble développemental des apprentissages avec déficit en mathématiques
 - Dyscalculie développementale
 - Dyscalculie
-- Pression au téléphone
-- Largeur et longueur
-- Confirmation écrite
+- Charge cognitive
+- Pression du temps
+- Repères chiffrés
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.2
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en mathématiques
 episode: 5
 ---
 

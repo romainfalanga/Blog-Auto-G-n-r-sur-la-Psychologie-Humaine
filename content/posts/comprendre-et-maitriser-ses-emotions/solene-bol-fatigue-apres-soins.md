@@ -1,23 +1,25 @@
 ---
-title: Faire une place à la fatigue après les soins
+title: Fatigue après une hospitalisation et peur qu’on y voie une rechute
 description: De retour chez elle, Solène parle de sa fatigue à sa psychiatre. Avec
   Livia, elle choisit une sortie qui peut durer dix minutes.
 slug: solene-bol-fatigue-apres-soins
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Solène
-sujet: Trouble schizoaffectif
+sujet: Fatigue après les soins
 contexte: Quelques semaines après les urgences, entre le retour à domicile et la reprise
   du travail
 tags:
+- Trouble schizoaffectif
 - Trouble schizo-affectif
-- Écouter ses limites
-- Reconnaître ses signes
-- Soutien choisi
+- Fatigue après les soins
+- Peur de la rechute
+- Évaluation des symptômes
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A21
+clinical_diagnosis: Trouble schizoaffectif
 episode: 8
 ---
 

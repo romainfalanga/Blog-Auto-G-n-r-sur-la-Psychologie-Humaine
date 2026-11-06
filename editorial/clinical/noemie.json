@@ -1,24 +1,24 @@
 {
   "character_id": "noemie",
-  "bio": "Noémie, 34 ans, restaure des documents aux archives municipales. Tenace, parfois caustique quand elle se sent observée, elle tient autant à la précision de son travail qu’au plaisir de dessiner les berges du canal. Avec sa collègue Aïcha, elle prépare une exposition de cartes pour raconter les transformations de la ville. Avec Maud, sa compagne, elle aimerait retrouver des soirées où une question sur la porte ne prend pas toute la place. Vérifier la soulage un instant, mais les doutes reviennent et retardent des choix qui lui tiennent à cœur.",
+  "bio": "Noémie, 34 ans, restaure des documents aux archives municipales et vit avec un trouble obsessionnel-compulsif, ou TOC. Aux archives, une cote déjà confirmée peut continuer à lui revenir. Dans le tram, elle se repasse parfois une vérification jusqu’à manquer son arrêt. Avec sa compagne Maud, elle cherche une façon de se soutenir quand le doute exige encore une réponse. Aïcha et elle préparent une exposition de cartes du canal. Noémie tient à choisir ce qu’elle partage sur son suivi et à retrouver du temps pour ses croquis.",
   "profile_topics": [
-    "Doute persistant",
-    "Vérifications répétées",
-    "Recherche de réassurance",
-    "Évitement",
-    "Affirmation de ses besoins"
+    "Trouble obsessionnel-compulsif",
+    "Doutes obsessionnels",
+    "Compulsions de vérification",
+    "Rituels mentaux",
+    "Recherche de réassurance"
   ],
   "episodes": [
     {
       "number": 1,
       "slug": "noemie-cote-sur-la-boite",
-      "title": "Doute au travail : pourquoi Noémie vérifie encore après le contrôle",
-      "description": "Aux archives, Noémie a terminé le contrôle d’une carte. Le doute la retient encore au moment où Aïcha attend son choix pour l’exposition.",
+      "title": "La vérification compulsive quand le contrôle a déjà été fait",
+      "description": "Noémie a déjà contrôlé la cote. Le doute revient et capte son attention pendant qu’Aïcha lui parle de l’exposition.",
       "context": "Aux archives municipales, au moment de choisir les cartes de l’exposition",
       "topics": [
-        "Doute persistant",
-        "Vérifications répétées",
-        "Soulagement passager"
+        "Vérification compulsive",
+        "Doute obsessionnel",
+        "Soulagement de courte durée"
       ],
       "opening": "Aïcha a apporté trois rectangles de carton aux dimensions des vitrines. Elle les a posés debout contre un mur du bureau, du plus petit au plus grand. Noémie s’approche avec la boîte de la carte du canal. Elle aurait aimé commencer par ce qu’on y voit à gauche, un chemin de halage qui s’arrête net au bord d’un bâtiment dessiné en rouge. Un jour de pluie, son père lui avait montré la petite porte de ce bâtiment. Elle se souvient mieux de la couleur de la porte que de ce qu’il lui avait raconté.\n\nSur le chariot, la cote de la boîte concorde avec la fiche de mouvement. Noémie l’a lue, a fait le rapprochement et a renseigné le registre selon la procédure. Elle remonte pourtant le rabat pour chercher de nouveau les derniers chiffres. Une pensée lui revient. Et si la carte avait été mal rangée, et si quelqu’un la déplaçait sur la foi du registre avant qu’elle remarque son erreur ? Elle regarde la même cote sur la boîte et sur la fiche. Aïcha tient toujours les trois rectangles. Elle lui demande si le canal ouvre la visite ou vient après les plans du marché.\n\nNoémie a reçu le diagnostic de trouble obsessionnel compulsif d’une clinicienne avant qu’elles commencent à préparer l’exposition. Elle la voit déjà en consultation. Elle reconnaît le doute dont elles ont parlé. Aujourd’hui, elle a du mal à suivre une question sur la visite alors qu’une autre revient sans cesse sur la boîte. Elle demande à Aïcha de lui redire ce qu’elle propose.",
       "sections": [
@@ -43,17 +43,19 @@
         "choice": "Noémie choisit la carte du canal pour ouvrir la visite et note la scène du contrôle pour sa consultation.",
         "next": "Sur le trajet, elle découvre le temps qu’elle peut passer à refaire en pensée une vérification déjà effectuée."
       },
-      "ending_title": "La carte qui ouvrira la visite"
+      "ending_title": "La carte qui ouvrira la visite",
+      "clinical_focus": "Vérification compulsive",
+      "clinical_intro": "Noémie a vérifié la cote selon la procédure. Quand Aïcha lui parle de l’exposition, son esprit revient pourtant à la boîte et au risque d’avoir mal lu. Dans le TOC, la vérification compulsive peut répondre à un doute qui persiste après le contrôle utile. Le bref soulagement aide à comprendre pourquoi l’envie de vérifier revient."
     },
     {
       "number": 2,
       "slug": "noemie-rituel-sans-geste",
-      "title": "Refaire la vérification en pensée jusqu’à manquer son arrêt",
-      "description": "Dans le tram, Noémie reprend chaque geste de fermeture des archives. À la consultation, elle parle pour la première fois de ce rituel invisible.",
+      "title": "Rituels mentaux dans le tram quand Noémie refait le contrôle de mémoire",
+      "description": "Dans le tram, Noémie rejoue mentalement le contrôle aux archives. En cherchant à lever son doute, elle perd le fil de son trajet.",
       "context": "Dans le tram du retour, puis au rendez-vous de suivi",
       "topics": [
-        "Rituel mental",
-        "Pensée intrusive",
+        "Compulsion mentale",
+        "Doute obsessionnel",
         "Attention accaparée"
       ],
       "opening": "Le tram marque un arrêt sur le pont. Dans la vitre, Noémie voit d’abord son écharpe, puis la berge quand une lampe s’éteint au plafond de la rame. En face d’elle, un enfant suit du doigt un chien qui marche près de l’eau. Elle ouvre son carnet de croquis pour garder la courbe du mur. Elle dessine de mémoire des bouts de ville depuis l’adolescence, surtout les endroits où elle aimerait retourner en journée. Il suffit parfois d’un petit trait, comme celui de la porte sur la carte du canal.\n\nAvant de lever le crayon, elle repense à la fermeture de l’atelier. Elle voit son poignet contre l’interrupteur et un reflet sur le battant. Elle a exécuté la procédure de fermeture avec l’agent prévu et a quitté le bâtiment. Il lui manque pourtant, dans le souvenir qu’elle vient d’examiner, le mouvement exact de sa main. Elle reprend la scène depuis le couloir. Cette fois, elle essaie de retrouver le bruit des clés. Elle recommence quand une annonce coupe son fil. Dans le tram, elle n’a pas bougé.\n\nDeux arrêts plus loin, le chien a disparu et le carnet est toujours ouvert sur le même trait. Maud lui a demandé si elle voulait passer à la boulangerie en rentrant. Noémie lui répond qu’elle est encore dans le tram. Elle voit alors le nom de l’arrêt et comprend qu’elle a dépassé le sien. Elle descendra au suivant, près d’un escalier qui lui plaît et qu’elle n’a encore jamais dessiné.",
@@ -79,18 +81,20 @@
         "choice": "Noémie parle à la clinicienne du souvenir repris dans le tram et garde l’escalier pour la promenade de l’exposition.",
         "next": "Aïcha lui propose d’essayer plusieurs dispositions de la vitrine. Noémie doit distinguer ses goûts et les exigences de conservation de ce qu’elle se sent poussée à recommencer."
       },
-      "ending_title": "Un souvenir à apporter au cabinet"
+      "ending_title": "Un souvenir à apporter au cabinet",
+      "clinical_focus": "Compulsion mentale",
+      "clinical_intro": "Dans le tram, Noémie se repasse un geste de travail jusqu’à manquer son arrêt. Le doute qui surgit et l’effort répété pour le faire taire sont deux moments distincts. Dans le TOC, cet effort peut prendre la forme d’un rituel mental. L’entourage voit parfois la distraction sans mesurer le temps que la vérification prend en silence."
     },
     {
       "number": 3,
       "slug": "noemie-place-dans-la-vitrine",
-      "title": "Compulsion ou préférence : pourquoi Noémie déplace encore la carte",
-      "description": "Noémie aime la première disposition de la vitrine. Elle cherche à séparer ce goût des contrôles du métier et d’une obligation qu’elle ressent.",
+      "title": "La sensation d’inachevé qui pousse Noémie à repositionner une copie",
+      "description": "Noémie connaît les règles de conservation. Après l’essai de disposition, une gêne la pousse à déplacer encore les reproductions.",
       "context": "Pendant l’essai de disposition des cartes aux archives",
       "topics": [
         "Sensation d’inachevé",
-        "Compulsion",
-        "Préférence personnelle"
+        "Compulsion de rangement",
+        "Exigences de conservation"
       ],
       "opening": "Le modèle de vitrine se compose de deux tables et d’une bande de papier gris. Aïcha a découpé des reproductions pour que les originaux restent à l’atelier pendant l’essai. Noémie rapproche le plan du marché de la carte du canal. Leurs bords ont presque la même longueur. Elle aime la façon dont la seconde feuille laisse reprendre au regard le fil du chemin de halage. Aïcha décale le plan pour faire de la place à une légende qu’un enfant pourrait lire de son côté de la table. Noémie trouve l’ensemble moins joli et comprend aussitôt pourquoi elles peuvent le garder.\n\nUne autre question se pose lorsque l’équipe regarde le support de la carte originale. Noémie a signalé une ancienne déchirure. Il faut respecter l’avis du service sur la manière de soutenir cette partie. Aïcha inscrit le point à vérifier avant la mise en vitrine. Les deux femmes regardent ensuite où placer le dessin de l’escalier. À l’extrémité du papier gris, les coins de trois reproductions se touchent presque. Une fois qu’Aïcha a quitté la table, Noémie en déplace une, puis une deuxième. Elle remet la première exactement où elle était.\n\nElle ne regarde plus le trajet de l’enfant ni la légende. Le joint entre les feuilles lui donne une sensation de travail inachevé. Elle pense pouvoir s’en défaire en trouvant l’écart exact. Quand Aïcha revient avec deux verres d’eau, Noémie lui demande si elles peuvent reparler ensemble de ce qui doit être réellement validé. La question du support figure toujours dans la marge du plan.",
       "sections": [
@@ -115,18 +119,20 @@
         "choice": "Noémie préserve les critères de conservation et choisit une disposition à discuter, tout en gardant son goût pour la première.",
         "next": "En retrouvant Maud à l’épicerie, elle remarque à quel point Maud a pris l’habitude de lui fournir des preuves après avoir fermé la porte."
       },
-      "ending_title": "Deux dispositions à comparer"
+      "ending_title": "Deux dispositions à comparer",
+      "clinical_focus": "Sensation d’inachevé",
+      "clinical_intro": "L’écart entre deux reproductions laisse à Noémie une sensation d’inachevé. Dans le TOC, une compulsion peut viser à faire disparaître cette gêne. Noémie connaît pourtant les règles qui protègent la carte et sait dire quel agencement lui plaît. La contrainte ressentie et le temps perdu éclairent le déplacement répété autant que son apparence."
     },
     {
       "number": 4,
       "slug": "noemie-message-de-maud",
-      "title": "Réassurance en couple : quand une preuve ne suffit plus",
-      "description": "Maud a confirmé avoir fermé l’appartement. Noémie lui redemande de vérifier et découvre ce que ces demandes ont pris dans leurs soirées.",
+      "title": "La recherche de réassurance quand Noémie redemande une preuve à Maud",
+      "description": "Maud a confirmé la fermeture de la porte. Noémie veut pourtant un détail de plus. Elles découvrent comment ce réflexe prend de la place à deux.",
       "context": "Après le travail, pendant un détour à l’épicerie avec Maud",
       "topics": [
-        "Réassurance répétée",
-        "Doute persistant",
-        "Limites de l’aide"
+        "Recherche de réassurance",
+        "Soulagement de courte durée",
+        "Implication des proches"
       ],
       "opening": "À l’épicerie, Maud compare deux bocaux d’olives. Elle cherche celles qu’une amie lui a servies à l’apéritif et dont elle a oublié le nom. Noémie lui tend le bocal à l’étiquette verte. La première fois qu’elles sont entrées ici ensemble, elles ont acheté du fromage sans avoir de couteau et l’ont partagé sur un banc avec le bord d’un couvercle. Il fait assez doux ce soir pour retourner manger au même endroit. Maud choisit aussi une bouteille de jus et part faire la queue avec les deux bocaux.\n\nDans la rue, avant de la rejoindre, Noémie lui a envoyé un message pour demander si elle avait fermé l’appartement. Maud a répondu oui, puis a précisé qu’elle avait rangé les clés dans la poche de son manteau. Noémie relit la réponse et voudrait savoir ce que Maud a senti dans la poignée. L’espace de quelques secondes, les clés dans la poche lui ont suffi. À présent, elle se demande si Maud avait les bras chargés au moment de partir. Elle ouvre le fil pour poser la question. La dernière photo de la serrure date d’il y a trois jours.\n\nMaud se retourne à la caisse. Noémie voit qu’elle a sorti sa carte et qu’elle commence pourtant à ouvrir la messagerie d’une main. La question attend déjà une réponse. Elles ont rarement parlé de ce que Maud fait dans ces moments-là. Celle-ci a essayé de l’aider comme elle pouvait, en donnant chaque fois un détail de plus. Noémie prend le sac de courses pendant que Maud paie.",
       "sections": [
@@ -151,18 +157,20 @@
         "choice": "Noémie propose d’apporter la demande répétée et les photos de serrure à la consultation. Maud veut définir ce qu’elle pourrait faire.",
         "next": "La clinicienne présente l’exposition avec prévention de la réponse et laisse Noémie choisir ce qu’elle veut discuter ou essayer."
       },
-      "ending_title": "La question que Maud pose"
+      "ending_title": "La question que Maud pose",
+      "clinical_focus": "Recherche de réassurance",
+      "clinical_intro": "À l’épicerie, une réponse de Maud apaise Noémie pour un moment. Puis une nouvelle question sur la porte s’impose. Dans le TOC, chercher une confirmation répétée peut devenir une manière de neutraliser le doute, et un proche peut y être entraîné en voulant aider. Noémie et Maud cherchent à comprendre ensemble ce que ce rythme leur coûte."
     },
     {
       "number": 5,
       "slug": "noemie-preparer-exposition-en-seance",
-      "title": "Choisir comment affronter le doute en thérapie",
-      "description": "La clinicienne propose une exposition avec prévention de la réponse. Noémie veut savoir ce qu’elle pourra choisir pendant les séances.",
+      "title": "Comprendre la prévention de la réponse avant de choisir un essai en séance",
+      "description": "Noémie demande à sa clinicienne comment elle pourra discuter du rythme et du type d’essai proposés pour son TOC.",
       "context": "Dans le cabinet de la clinicienne, après une matinée aux archives",
       "topics": [
+        "Prévention de la réponse",
         "Exposition en thérapie",
-        "Peur d’être dépassée",
-        "Consentement aux soins"
+        "Choix du rythme"
       ],
       "opening": "Noémie arrive avec deux plans de la même rue roulés ensemble. Aïcha lui a demandé de vérifier comment la rue change de nom d’un plan à l’autre. Sur le premier, elle longe le canal. Sur le second, une flèche désigne un passage qui n’existait pas quand son père l’y emmenait. Noémie profite de l’attente pour glisser un papier entre les deux reproductions. Quand la clinicienne ouvre la porte, elle a le pouce sur la flèche et lui raconte qu’on peut dessiner un chemin avant même qu’il existe.\n\nElles reviennent aux messages échangés à l’épicerie. Noémie décrit le premier oui de Maud et le moment où elle a voulu un détail sur la poignée. Elle parle aussi du trajet refait dans le tram. La clinicienne lui propose de discuter d’une thérapie qui comprend l’exposition avec prévention de la réponse. Noémie a lu le terme une fois dans la salle d’attente. Elle demande si elle devra laisser un document dans un état dont elle est responsable pour montrer qu’elle peut supporter l’inquiétude.\n\nLa clinicienne reprend la question avec elle. Les règles des archives continuent de s’appliquer. Ensemble, elles peuvent chercher une situation pertinente pour les difficultés que Noémie a décrites et examiner si elle lui convient avant tout essai. Noémie voudrait commencer par comprendre ce qu’elle pourrait faire si elle se sentait dépassée. Elle pose les deux plans sur la chaise à côté d’elle. Son prochain entretien avec Aïcha n’est que cet après-midi. Elles ont du temps pour en parler.",
       "sections": [
@@ -187,18 +195,20 @@
         "choice": "Noémie souhaite discuter d’un essai au cabinet et invite Maud à une partie du rendez-vous pour parler de leurs messages.",
         "next": "Après un échange commun, Noémie et Maud essaient le soutien qu’elles ont choisi au moment de partir au cinéma."
       },
-      "ending_title": "Un essai discuté au cabinet"
+      "ending_title": "Un essai discuté au cabinet",
+      "clinical_focus": "Exposition avec prévention de la réponse",
+      "clinical_intro": "Noémie craint de se sentir dépassée quand sa clinicienne lui parle d’un essai en séance. L’exposition avec prévention de la réponse est une approche structurée du TOC. Elle aborde une situation qui déclenche le doute et travaille sur la réponse compulsive qui suit. La professionnelle et Noémie peuvent discuter du cadre, du rythme et de ce qui compte pour elle."
     },
     {
       "number": 6,
       "slug": "noemie-deux-places-au-cinema",
-      "title": "Soutenir Noémie quand l’envie de vérifier revient",
-      "description": "En route pour le cinéma, Maud suit l’accord préparé en consultation. Noémie choisit le type de présence qu’elle veut à ses côtés.",
+      "title": "Accompagner Noémie au cinéma quand elle cherche encore à être rassurée",
+      "description": "Sur le trajet du cinéma, Noémie demande à Maud une confirmation. Maud lui offre sa présence en suivant leur accord préparé avec la clinicienne.",
       "context": "En route pour une séance de cinéma après un échange commun avec la clinicienne",
       "topics": [
-        "Inquiétude",
         "Réassurance répétée",
-        "Soutien choisi"
+        "Anxiété liée au doute",
+        "Soutien convenu"
       ],
       "opening": "Maud a réservé deux places pour une comédie dont elle ne se rappelle que l’actrice principale. Elle tient à arriver avant la bande-annonce du festival que le cinéma projette en début de séance. Noémie s’assoit sur le premier banc après leur immeuble pour refaire un lacet. Sur la rue d’en face, une affiche pour le film a perdu un morceau en haut. On voit encore l’actrice et une chaise de jardin. Elle aimerait savoir si la chaise est là par hasard ou si elle a quelque chose à voir avec l’histoire.\n\nMaud a fermé l’appartement en sortant et l’a dit à Noémie. Sur le chemin, la question revient. Elles ont parlé de ce moment avec la clinicienne. Maud s’était demandé si elle devrait reconnaître toutes les demandes répétées. Elles sont convenues de s’en tenir à la situation précise qu’elles avaient apportée au rendez-vous. Maud peut rester près de Noémie, sans recommencer à raconter la fermeture ou retourner prendre une photo lorsque la même question revient. Elles ont aussi convenu de revenir sur l’accord si l’une d’elles se sent mal à l’aise.\n\n« J’ai encore envie de te demander pour la poignée », dit Noémie. Maud s’arrête au bord du trottoir. Le feu des piétons passe au vert, puis repasse au rouge. Elle dit qu’elle peut attendre là avec Noémie ou continuer avec elle vers le cinéma. Noémie reste un moment à regarder l’affiche. Elle n’a pas encore décidé si elle veut qu’on lui prenne le bras.",
       "sections": [
@@ -223,20 +233,22 @@
         "choice": "Noémie demande à Maud de l’accompagner à pied jusqu’au cinéma et souhaite expliquer ensuite ce qui l’a aidée.",
         "next": "Aux archives, elle choisit quelle part de sa situation personnelle Aïcha a besoin de connaître pour organiser leur travail."
       },
-      "ending_title": "Elles partent à pied"
+      "ending_title": "Elles partent à pied",
+      "clinical_focus": "Soutien face aux compulsions",
+      "clinical_intro": "Sur le chemin du cinéma, Noémie aimerait redemander si la porte est fermée. Maud peut l’accompagner sans renouveler la réassurance déjà donnée, selon l’accord qu’elles ont préparé avec la clinicienne. Une présence proposée avec tact peut soutenir Noémie pendant que le doute persiste. Elle choisit ce qui lui convient à ce moment."
     },
     {
       "number": 7,
       "slug": "noemie-ce-quelle-choisit-de-dire",
-      "title": "Au travail, dire ce qui aiderait et choisir ce qui reste privé",
-      "description": "Noémie veut protéger un temps de travail aux archives. Elle choisit ce qu’elle dit de son suivi et ce qui relève de l’organisation du service.",
+      "title": "Le coût invisible des compulsions quand le travail est interrompu",
+      "description": "Aux archives, des interruptions relancent des contrôles terminés. Noémie cherche du temps de travail protégé et choisit ce qu’elle confie.",
       "context": "Lors de la préparation des textes de l’exposition avec Aïcha",
       "topics": [
-        "Expression des besoins",
-        "Confidentialité",
-        "Soutien entre collègues"
+        "Retentissement professionnel",
+        "Répétition des contrôles",
+        "Divulgation choisie du diagnostic"
       ],
-      "opening": "Un enseignant doit venir mercredi pour regarder le parcours avant d’y emmener sa classe. Aïcha a dressé la liste de ses questions à partir d’un courriel où les élèves parlent du canal. L’un d’eux voudrait savoir si les barques passaient dans le sens du courant ou dans les deux sens. Noémie a envie de prendre ce détail au sérieux. Elle a déjà retrouvé un plan où deux bateaux sont dessinés de biais, mais rien ne garantit qu’ils avançaient. Elle ouvre un dossier de photographies pour essayer de comprendre le passage.\n\nTrois appels arrivent pendant qu’elle cherche. Il y a une question sur l’horaire de livraison des panneaux, une autre sur le texte d’une légende et une demande d’accès au modèle de vitrine. Chaque fois, Noémie reprend le document au début. Une fois, elle revient à une cote déjà confirmée et cesse de regarder les barques. Elle voudrait pouvoir convenir d’un moment où les textes passent par Aïcha et où elle peut terminer la tâche dont elle a la charge. Elle ne sait pas si cette demande lui paraît recevable sans évoquer son suivi.\n\nÀ la pause, Aïcha se penche pour ramasser la feuille avec les questions des élèves. Noémie la retient par un coin et lui demande si elles peuvent prendre un moment seules. Elle voudrait lui parler de son travail et d’une chose personnelle, sans que la seconde parte dans un compte rendu de réunion.",
+      "opening": "Un enseignant doit venir mercredi pour regarder le parcours avant d’y emmener sa classe. Aïcha a dressé la liste de ses questions à partir d’un courriel où les élèves parlent du canal. L’un d’eux voudrait savoir si les barques passaient dans le sens du courant ou dans les deux sens. Noémie a envie de prendre ce détail au sérieux. Elle a déjà retrouvé un plan où deux bateaux sont dessinés de biais, mais rien ne garantit qu’ils avançaient. Elle ouvre un dossier de photographies pour essayer de comprendre le passage.\n\nTrois appels arrivent pendant qu’elle cherche. Il y a une question sur l’horaire de livraison des panneaux, une autre sur le texte d’une légende et une demande d’accès au modèle de vitrine. Chaque fois, Noémie reprend le document au début. Une fois, elle revient à une cote déjà confirmée. Elle sait où reprendre la recherche sur les barques et s’entend pourtant se dire qu’une mauvaise cote pourrait fausser tout le dossier. Quand elle relève les yeux, elle ne sait plus quelle photo l’élève aurait eu envie de regarder. Elle voudrait pouvoir convenir d’un moment où les textes passent par Aïcha et où elle peut terminer la tâche dont elle a la charge. Elle ne sait pas si cette demande lui paraît recevable sans évoquer son suivi.\n\nÀ la pause, Aïcha se penche pour ramasser la feuille avec les questions des élèves. Noémie la retient par un coin et lui demande si elles peuvent prendre un moment seules. Elle voudrait lui parler de son travail et d’une chose personnelle, sans que la seconde parte dans un compte rendu de réunion.",
       "sections": [
         {
           "heading": "Choisir ce qu’on partage sur son suivi",
@@ -259,18 +271,20 @@
         "choice": "Noémie parle de son diagnostic à Aïcha et convient d’un créneau pour travailler sur les textes avec des responsabilités explicites.",
         "next": "Une trace d’eau dans le bâtiment interrompt leurs plans et appelle une réponse professionnelle."
       },
-      "ending_title": "Un créneau défini à deux"
+      "ending_title": "Un créneau défini à deux",
+      "clinical_focus": "Retentissement professionnel du TOC",
+      "clinical_intro": "Après chaque interruption, Noémie revient au début du document. Parfois une cote déjà confirmée prend toute son attention et l’éloigne de la recherche pour la classe. Le TOC peut peser sur le travail même quand le résultat paraît impeccable. La scène montre comment parler de cet effort et demander un aménagement en choisissant ce que l’on souhaite confier."
     },
     {
       "number": 8,
       "slug": "noemie-eau-dans-le-couloir",
-      "title": "Face à une infiltration, agir malgré l’incertitude",
-      "description": "Une trace d’eau change le programme de l’exposition. Noémie et Aïcha s’appuient sur les procédures du service et revoient leur visite.",
+      "title": "Le doute sur sa responsabilité après une infiltration aux archives",
+      "description": "Noémie signale l’infiltration. Elle se surprend ensuite à rejouer la matinée pour savoir si elle aurait dû la repérer plus tôt.",
       "context": "Aux archives, devant une salle où une infiltration vient d’être signalée",
       "topics": [
-        "Tolérance à l’incertitude",
         "Doute sur sa responsabilité",
-        "Procédures de sécurité"
+        "Vérification mentale",
+        "Tolérance à l’incertitude"
       ],
       "opening": "La tache sombre n’était pas là le matin. Aïcha le dit à voix basse, comme si elle parlait pendant une visite. À la jointure de la cloison, une goutte se forme et tombe sur le sol du couloir. Noémie est près du plan de la salle avec la fiche du cliché dans la main. De l’autre côté de la porte, elles devaient disposer des chaises pour le rendez-vous de mercredi. Elle a encore en tête la question des barques et se surprend à chercher un autre endroit où l’enseignant pourrait faire asseoir sa classe.\n\nAïcha reste dans le couloir à distance de la zone touchée. Noémie appelle le service prévu pour ce type d’incident et donne l’emplacement, la tache et l’écoulement qu’elles ont observés. L’accès à la salle est suspendu pendant que les personnes compétentes évaluent la situation. À la demande du service, elles préviennent l’accueil. Noémie confirme avec Aïcha quelles pièces sont encore à l’atelier et transmet les références utiles aux collègues chargés de leur protection. Les reproductions destinées à l’essai pourront attendre.\n\nQuand elles reviennent à leur table, Noémie a froid aux doigts. Une autre question lui vient. Elle se demande si elle aurait dû voir la tache plus tôt et commence à parcourir en pensée le chemin qu’elle a suivi le matin. Aïcha ouvre le calendrier. Elle aimerait savoir si elles proposent à l’enseignant de venir dans une autre salle ou si elles attendent de connaître la durée de la fermeture. Noémie pose la fiche entre elles.",
       "sections": [
@@ -295,18 +309,20 @@
         "choice": "Noémie transmet les observations sur l’infiltration aux responsables et travaille avec Aïcha à une autre proposition pour l’enseignant.",
         "next": "Elle décide si elle veut rejoindre Maud à une répétition et mesure la place prise par les invitations qu’elle a déclinées."
       },
-      "ending_title": "La trace signalée au service"
+      "ending_title": "La trace signalée au service",
+      "clinical_focus": "Doute sur sa responsabilité",
+      "clinical_intro": "Une infiltration impose d’agir aux archives. Après le signalement, Noémie cherche encore à savoir si elle aurait dû voir quelque chose plus tôt. Dans le TOC, un doute sur sa responsabilité peut entraîner une recherche de certitude qui dépasse l’information disponible. Les procédures du service donnent un cadre à l’action tandis que certaines questions restent ouvertes."
     },
     {
       "number": 9,
       "slug": "noemie-repetition-de-maud",
-      "title": "Quand la peur de devoir vérifier fait renoncer à sortir",
-      "description": "Noémie veut entendre Maud jouer. En préparant sa soirée, elle voit aussi ce que le TOC lui a fait décliner ces derniers mois.",
+      "title": "L’évitement des sorties par crainte de passer la soirée à vérifier",
+      "description": "Noémie voudrait entendre Maud jouer, mais redoute le temps que le doute peut prendre une fois sortie. Elle réfléchit aux sorties qu’elle décline.",
       "context": "Un soir de répétition, entre la maison et la salle où joue le groupe de Maud",
       "topics": [
-        "Évitement des sorties",
+        "Évitement",
         "Anxiété d’anticipation",
-        "Vie sociale"
+        "Retentissement social"
       ],
       "opening": "Maud cherche un crayon dans l’étui de sa clarinette. Elle a prévu de souligner une entrée qu’elle manque depuis deux répétitions. Le chef leur a demandé d’inviter quelques personnes pour entendre ce que donne le morceau du fond de la salle. Noémie lui a déjà dit qu’elle aimerait venir. Elle a connu la mélodie à la maison, par phrases, parce que Maud la reprend souvent avant de dîner. Elle voudrait entendre les autres instruments remplir le silence après la phrase qui lui plaît.\n\nSur la table, Noémie a posé le carnet où elle dessine les berges. Elle pensait montrer à Sarah, une amie qui assiste aussi à la répétition, l’escalier qu’elle a découvert en ratant son arrêt. Elle ouvre leur conversation pour savoir à quelle heure Sarah arrive. Deux invitations plus anciennes apparaissent au-dessus du nouveau message. Noémie avait décliné une promenade et laissé passer une proposition de repas. Pour la promenade, elle se souvient avoir calculé l’heure à laquelle elle pourrait revenir contrôler l’appartement si un doute lui prenait. Elle avait fini par décider de rester chez elle.\n\nMaud trouve le crayon sous le carnet. Elle dit qu’elle doit partir la première et demande si Noémie veut qu’elle lui garde une place près de Sarah. Noémie veut entendre le morceau. Elle sait aussi qu’elle peut perdre une partie du trajet à reconstruire les gestes du départ. Elle demande où entrer pour rejoindre la salle et dit qu’elle préfère retrouver Sarah devant la porte.",
       "sections": [
@@ -331,18 +347,20 @@
         "choice": "Noémie rejoint Sarah pour entendre la répétition et garde pour le suivi la question des sorties auxquelles elle renonce.",
         "next": "À l’approche du vernissage, une semaine plus difficile lui fait revoir ses demandes au travail et en consultation."
       },
-      "ending_title": "Elle rejoint Sarah dans la salle"
+      "ending_title": "Elle rejoint Sarah dans la salle",
+      "clinical_focus": "Évitement lié au TOC",
+      "clinical_intro": "Avant la répétition de Maud, Noémie redoute de passer le trajet à refaire mentalement les gestes du départ. Dans le TOC, éviter une sortie peut soulager cette peur sur le moment. Si cela se répète, l’évitement réduit les occasions de faire ce qui lui tient à cœur. Ce coût fait partie de ce qu’elle peut décrire au suivi."
     },
     {
       "number": 10,
       "slug": "noemie-semaine-plus-difficile",
-      "title": "Les vérifications s’intensifient avant le vernissage",
-      "description": "À quelques jours du vernissage, les vérifications reprennent de la place. Noémie décrit leurs effets et demande un ajustement à sa clinicienne.",
+      "title": "Le retour des vérifications quand la pression monte avant le vernissage",
+      "description": "Les vérifications prennent plus de temps cette semaine. Noémie compare ce que son TOC lui coûte au travail et ce qui l’a aidée ailleurs.",
       "context": "À la relecture des panneaux, quelques jours avant le vernissage",
       "topics": [
-        "Vérifications répétées",
-        "Décisions retardées",
-        "Demande d’aide"
+        "Fluctuation des compulsions",
+        "Retentissement sur les décisions",
+        "Ajustement du suivi"
       ],
       "opening": "Le mot « passerelle » tombe au bord d’une ligne sur l’épreuve imprimée. Noémie appuie la feuille contre le mur pour voir ce que le texte donne debout. Aïcha lui a demandé de relire deux légendes avant de signer le bon à tirer. La photo montre le bateau dont elles ont parlé à l’enseignant. La salle de lecture les a accueillies et, depuis, les élèves ont envoyé un dessin où trois embarcations tournent dans le même bassin. Aïcha voudrait l’afficher à côté de la question sur le courant. Noémie trouve la troisième barque très réussie, avec ses rames qui dépassent.\n\nElle corrige la date prévue sur le panneau et rend la première épreuve. Lorsqu’elle prend la seconde, elle ne sait plus si elle a fait la correction sur la bonne feuille. Elle remonte le fil de la matinée et demande à revoir le document. Plus tard, un autre doute s’installe sur la version envoyée. Une collègue lui a confirmé laquelle était partie. Noémie comprend sa réponse et voudrait encore vérifier. Depuis quelques jours, les reprises occupent aussi ses retours à la maison. La veille, elle a trouvé le cahier de croquis sous son sac sans se rappeler quand elle l’avait ouvert pour la dernière fois.\n\nElle avait espéré que ses premières séances rendraient cette semaine plus simple. Sa clinicienne l’a accompagnée dans le travail d’exposition qu’elles ont commencé au cabinet. Noémie lui avait raconté ce que le silence de Maud lui avait permis au cinéma. Aujourd’hui, elle a besoin de lui décrire la différence entre ce moment et ce qu’elle vit depuis plusieurs jours. Elle ouvre le calendrier des rendez-vous avant de ranger les épreuves.",
       "sections": [
@@ -367,23 +385,25 @@
         "choice": "Noémie signale l’effet de cette semaine à sa clinicienne et répartit les tâches des panneaux avec Aïcha.",
         "next": "Le jour de l’ouverture, elle choisit comment participer à la présentation de la carte du canal."
       },
-      "ending_title": "Deux panneaux et un rendez-vous"
+      "ending_title": "Deux panneaux et un rendez-vous",
+      "clinical_focus": "Fluctuation des compulsions",
+      "clinical_intro": "Une collègue confirme quelle version est partie à l’impression et Noémie voudrait encore la vérifier. Les compulsions peuvent reprendre de la place dans un contexte alors qu’elles pèsent moins dans un autre. Noémie observe aussi qu’elle termine plus tard et dessine moins. Ces effets aident à revoir le suivi avec sa clinicienne au-delà du seul nombre de vérifications."
     },
     {
       "number": 11,
       "slug": "noemie-jour-du-vernissage",
-      "title": "Choisir son rôle au vernissage même si le doute persiste",
-      "description": "Le jour du vernissage, Noémie trouve une façon de présenter la carte du canal qui lui laisse de la place pour écouter les visiteurs.",
+      "title": "Prendre part au vernissage avec un doute obsessionnel encore présent",
+      "description": "Les contrôles sont terminés, mais Noémie voudrait revoir le registre. Elle décide comment accueillir les visiteurs malgré le doute.",
       "context": "À l’ouverture de l’exposition de cartes, devant la première vitrine",
       "topics": [
-        "Doute persistant",
-        "Autonomie au travail",
-        "Coopération"
+        "Doute obsessionnel",
+        "Attention accaparée",
+        "Participation au travail"
       ],
       "opening": "Au bas de la première vitrine, Aïcha a placé la question de l’élève qui voulait savoir dans quel sens naviguaient les barques. À côté, trois bateaux au crayon occupent presque tout le dessin envoyé par la classe. Noémie reconnaît leurs rames avant même d’avoir quitté l’atelier. Elle porte un plan reproduit que les visiteurs pourront regarder de près. Elle aimerait leur montrer l’endroit où le chemin s’arrête près du bâtiment rouge. Le croquis de l’escalier qu’elle a trouvé en rentrant du tram figure plus loin, parmi les détails de leur promenade.\n\nL’accueil a signalé la salle fermée et explique le trajet dans le bâtiment. L’équipe a fait les contrôles prévus avant l’ouverture. Noémie voudrait retourner au registre pour relire le numéro de la première pièce. Elle a déjà renseigné la fiche avec la personne chargée de l’installation. Le doute lui revient pendant qu’Aïcha vérifie le son du micro, et la première phrase de l’accueil lui échappe. Elle demande à Aïcha de lui redire dans quel ordre elles parleront.\n\nAïcha lui propose de choisir entre raconter l’histoire du canal à l’accueil ou rester près de la première vitrine et répondre aux questions. Noémie se rappelle qu’elles avaient laissé les deux possibilités ouvertes. Elle regarde un visiteur déplacer son regard du dessin des enfants à la photographie du bateau. Elle aimerait savoir ce qu’il a vu. Elle dit à Aïcha qu’elle préfère rester ici, près de la carte.",
       "sections": [
         {
-          "heading": "Regarder ce qu’une personne retrouve dans son quotidien",
+          "heading": "Mesurer la participation quand le doute persiste",
           "text": "Pour Noémie, la réussite de la soirée peut tenir à la rencontre avec les visiteurs. Elle pourra aussi éprouver du doute et avoir du mal à suivre une conversation. En consultation, la clinicienne peut demander ce qui a changé dans la vie de Noémie et ce qui lui demande encore beaucoup d’effort. Le retentissement sur le travail, le couple, les loisirs et les déplacements compte dans l’appréciation de ses difficultés. Une soirée seule donne un aperçu de ces domaines.\n\nLa présentation en salle et le travail d’exposition en thérapie ont chacun leur cadre. Noémie a choisi de parler des cartes près d’une vitrine parce que ce format lui plaît et qu’il convient à l’organisation. Elle peut discuter en consultation du doute qui lui revient au milieu de cette tâche. Son choix professionnel a aussi un intérêt pour elle en dehors du suivi. Elle a préparé pendant des semaines ce qu’elle voudrait montrer aux visiteurs."
         },
         {
@@ -403,23 +423,25 @@
         "choice": "Noémie présente la carte près de la vitrine et invite Maud à retrouver le canal après le vernissage.",
         "next": "Après l’exposition, elle fait le point sur ce qui l’aide encore et garde de la place pour une promenade choisie."
       },
-      "ending_title": "Une invitation le long du canal"
+      "ending_title": "Une invitation le long du canal",
+      "clinical_focus": "Participation malgré le doute",
+      "clinical_intro": "Au vernissage, un doute obsessionnel sur un numéro détourne Noémie de la première phrase au micro. Elle choisit de parler avec les visiteurs près de la carte alors que l’envie de revoir le registre persiste. Retrouver une activité qui compte peut marquer une amélioration du quotidien avec un TOC. L’effort qu’elle y consacre reste utile à décrire au suivi."
     },
     {
       "number": 12,
       "slug": "noemie-le-dimanche-suivant",
-      "title": "Garder une place pour ses envies au-delà des vérifications",
-      "description": "Après l’exposition, Noémie fait le point avec sa clinicienne et avec Maud. Elle emporte son carnet pour dessiner près du canal.",
+      "title": "Évaluer ce que le TOC prend encore aux activités de Noémie",
+      "description": "Noémie rapporte deux scènes différentes à sa clinicienne. Elle observe la place des rituels dans le tram et ce qu’elle retrouve avec Maud.",
       "context": "Après l’exposition, au rendez-vous de suivi puis au bord du canal",
       "topics": [
-        "Soutien négocié",
-        "Loisirs choisis",
-        "Vérifications répétées"
+        "Rituels mentaux",
+        "Évolution du retentissement",
+        "Suivi du TOC"
       ],
       "opening": "Aïcha envoie à Noémie un détail d’un ancien inventaire. Il est question d’une remise à outils le long du canal. Le numéro de la parcelle semble correspondre au bâtiment rouge de leur carte. Il manque une page pour en être sûres. Noémie agrandit la photographie du document et suit du regard une ligne tracée par-dessus deux autres. Elle écrit à Aïcha qu’elles peuvent garder cette piste pour les prochaines visites. Le garçon qui cherchait la porte lui a laissé une question qu’elle aurait volontiers oubliée quand elle préparait encore les textes.\n\nDans la salle d’attente de la clinicienne, elle a deux choses à raconter. Le soir du vernissage, une question lui est revenue au moment où Aïcha a essayé le micro. Elle a mis du temps à suivre ce qui se passait autour d’elle. Quelques jours plus tard, en descendant du tram, elle a retrouvé le nom de son arrêt avant que la rame reparte. Elle avait encore l’esprit pris par la fermeture de l’atelier. Elle veut expliquer les deux moments sans choisir celui qui résumerait le mieux son suivi.\n\nDans son sac, le carnet de croquis a remplacé les épreuves de l’exposition. Maud et elle ont prévu de marcher dimanche vers l’escalier. Elles ont parlé de ce qu’elles emmèneraient pour manger et de l’heure à laquelle Maud doit rentrer préparer sa répétition. Noémie espère dessiner la berge assez longtemps pour voir dans quelle direction le mur change de couleur.",
       "sections": [
         {
-          "heading": "Faire le point sur ce qui aide et ce qui reste difficile",
+          "heading": "Mettre des mots sur le coût des rituels invisibles",
           "text": "En consultation, Noémie peut revenir sur le temps passé aux vérifications, les gestes mentaux qui se remarquent peu et les activités qu’elle a envie de garder. Elle décrit ce qui a changé dans certaines situations et ce qui persiste. La clinicienne peut décider avec elle comment poursuivre le soin, ce qui mérite d’être réexaminé et à quel moment elles feront un nouveau point. Noémie peut demander qui contacter si les symptômes prennent davantage de place ou si l’accord avec Maud devient trop difficile à tenir.\n\nUn suivi peut prendre en compte les changements de la vie et les préférences de la personne. La fin du projet de cartes modifie les tâches de Noémie. Une autre exposition aura d’autres exigences, et certaines questions resteront les mêmes. Les responsabilités du métier, la confidentialité de ses échanges et son choix de parler de ses difficultés continuent de compter. Le fait de participer à une visite ne suffit pas à apprécier les besoins de soin à venir."
         },
         {
@@ -439,7 +461,9 @@
         "choice": "Noémie poursuit le suivi avec des questions précises et choisit de garder ses promenades et ses croquis au programme.",
         "next": "Le prochain rendez-vous permettra de revoir les appuis choisis à mesure que le travail et les projets de Noémie évoluent."
       },
-      "ending_title": "Une place pour le prochain croquis"
+      "ending_title": "Une place pour le prochain croquis",
+      "clinical_focus": "Retentissement des rituels mentaux",
+      "clinical_intro": "Noémie repère son arrêt à temps dans le tram alors que le doute sur la fermeture de l’atelier l’occupe encore. Elle compare ce trajet à ceux où la vérification mentale lui faisait perdre le fil, ainsi qu’au doute revenu au vernissage. Ces exemples permettent de préciser en consultation ce que les compulsions lui coûtent toujours et ce qu’elle retrouve, notamment du temps pour dessiner."
     }
   ]
 }

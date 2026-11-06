@@ -1,23 +1,25 @@
 ---
-title: L’inquiétude commence avant d’entrer au café
+title: Anxiété sociale anticipée avant de pousser la porte du café
 description: Sacha arrive près d’un café où l’on échange des graines. Il reste dehors
   et cherche comment reprendre contact avec un cabinet.
 slug: sacha-place-au-cafe
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Sacha
-sujet: Trouble d’anxiété sociale
+sujet: Anxiété d’anticipation dans les échanges
 contexte: Le café du terminus, puis chez Sacha
 tags:
+- Trouble d’anxiété sociale
 - Anxiété sociale
 - Phobie sociale
-- Anticipation inquiète
+- Anxiété d’anticipation
 - Évitement des rencontres
-- Demande d’aide
+- Retentissement social
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B04
+clinical_diagnosis: Trouble d’anxiété sociale
 episode: 2
 ---
 

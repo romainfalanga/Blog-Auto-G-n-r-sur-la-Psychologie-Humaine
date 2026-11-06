@@ -1,23 +1,25 @@
 ---
-title: Garder son tour de parole quand son père veut aider
-description: À la médiathèque, Roxane compare deux enregistrements. L’un des deux
-  lui donne l’idée d’un tambour qui ne ressemble à aucun instrument.
+title: Pourquoi un proche comprend parfois là où un autre hésite
+description: À la médiathèque, le père de Roxane comprend sa question avant la bibliothécaire.
+  Elle lui fait signe d’attendre pour la reformuler elle-même.
 slug: roxane-tiroir-des-sons
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Roxane
-sujet: Trouble développemental des sons de la parole
+sujet: Familiarité avec la parole
 contexte: À la médiathèque, après la sortie au square
 tags:
+- Trouble développemental des sons de la parole
 - Trouble du développement des sons de la parole
 - CIM-11 6A01.0
-- Garder son tour de parole
-- Reformuler une question
-- Inventer une fausse piste
+- Contexte de l’échange
+- Anticipation des mots
+- Reformulation choisie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.0
+clinical_diagnosis: Trouble développemental des sons de la parole
 episode: 3
 ---
 

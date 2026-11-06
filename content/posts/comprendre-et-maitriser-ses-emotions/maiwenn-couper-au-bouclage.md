@@ -1,23 +1,26 @@
 ---
-title: Oser couper un encadré avant l’heure du bouclage
-description: Le délai approche et la dernière relecture demande plus de temps que
-  prévu. Maïwenn peut garder l’encadré ou livrer une page qu’elles ont relue.
+title: Choisir ce qu’on peut relire quand le temps manque
+description: Maïwenn relit plusieurs fois la même ligne. Elle demande une aide précise,
+  puis retire l’encadré qu’elles n’auront pas le temps de vérifier.
 slug: maiwenn-couper-au-bouclage
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Maïwenn
-sujet: Trouble développemental des apprentissages avec déficit de l’expression écrite
+sujet: Fatigue de relecture et arbitrage
 contexte: Le vendredi à quinze heures trente, dans la salle du journal
 tags:
+- Trouble développemental des apprentissages avec déficit de l’expression écrite
 - Déficit de l’expression écrite
 - Dysorthographie
-- Pression du délai
-- Effort invisible
-- Confiance pour demander de l’aide
+- Accords à l’écrit
+- Aide ciblée
+- Pression de l’échéance
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.1
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit de l’expression
+  écrite
 episode: 11
 ---
 

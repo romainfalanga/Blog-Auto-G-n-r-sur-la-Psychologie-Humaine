@@ -1,23 +1,25 @@
 ---
-title: Garder la main sur ce qu’on partage après la consultation
-description: Irène apporte le plan du livre à la pédiatre. Elle souhaite que Mylène
-  connaisse les besoins de l’atelier sans recevoir tout le récit du rendez-vous.
+title: Évaluer séparément la sécurité et les interruptions d’activité
+description: En consultation, Irène distingue le heurt et les moments où elle perd
+  une page. Elle choisit ce que la médiatrice doit savoir pour la reprise.
 slug: irene-choisir-les-mots-en-consultation
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Irène
-sujet: Trouble des mouvements stéréotypés
+sujet: Évaluation du retentissement quotidien
 contexte: En consultation pédiatrique, après le heurt à l’atelier
 tags:
+- Trouble des mouvements stéréotypés
 - Trouble des mouvements stéréotypiques
 - CIM-11 6A06
-- Peur qu’on décide à sa place
-- Expression de ses besoins
-- Choix des informations partagées
+- Suivi pédiatrique
+- Risque physique
+- Confidentialité du suivi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A06
+clinical_diagnosis: Trouble des mouvements stéréotypés
 episode: 6
 ---
 

@@ -1,23 +1,25 @@
 ---
-title: L’inquiétude persiste après le signalement d’un défaut à l’école
+title: Inquiétude persistante après avoir réglé le problème immédiat
 description: Un défaut du seuil est visible à l’entrée du local. Antonin le signale,
   puis cherche quelles décisions relèvent encore de lui.
 slug: antonin-seuil-qui-bouge
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Antonin
-sujet: Trouble anxieux généralisé
+sujet: Persistance de l’anticipation anxieuse
 contexte: Au seuil du local en travaux, pendant un repérage depuis le couloir
 tags:
+- Trouble anxieux généralisé
 - TAG
 - Anxiété généralisée
-- Évaluation d’un risque concret
-- Inquiétudes qui se prolongent
-- Attente et incertitude
+- Anticipation anxieuse
+- Danger observable
+- Responsabilités délimitées
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B00
+clinical_diagnosis: Trouble anxieux généralisé
 episode: 2
 ---
 

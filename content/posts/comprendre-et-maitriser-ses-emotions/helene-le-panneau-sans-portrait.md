@@ -1,23 +1,25 @@
 ---
-title: Être reconnue pour son travail sans exposer sa vie privée
+title: Exprimer son refus quand plusieurs accords sont demandés ensemble
 description: Maud propose un portrait pour la lettre de la recyclerie. Hélène distingue
   ce qu’elle veut montrer de ce qu’elle préfère garder pour elle.
 slug: helene-le-panneau-sans-portrait
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Hélène
-sujet: Trouble du développement intellectuel
+sujet: Consentement et autodétermination au travail
 contexte: À la table de pause de la recyclerie, après la tournée du jeudi
 tags:
+- Trouble du développement intellectuel
 - TDI
 - Troubles du développement intellectuel
-- Reconnaissance du travail
-- Intimité
-- Liberté de refuser
+- Consentement
+- Expression de ses limites
+- Confidentialité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A00
+clinical_diagnosis: Trouble du développement intellectuel
 episode: 8
 ---
 
@@ -27,7 +29,7 @@ Hélène prend le bordereau. Elle avait envie que les gens sachent qui a dessin�
 
 « La photo de moi, je ne veux pas. Et mon accompagnement n’est pas dans la légende. Pour les panneaux, je peux vous dire demain. » Elle regarde Sofia : elles étaient venues parler de Tannerie. Sofia demande à Maud de poser le formulaire de côté. Maud le retourne. Au dos, la date d’envoi est imprimée. La lettre ne part que la semaine prochaine. Il reste du temps. Hélène ouvre alors son plan sur la table.
 
-## Distinguer ce qu’une personne accepte de montrer
+## Comprendre et distinguer les options d’un consentement
 
 Donner son accord pour montrer un travail ne vaut pas accord pour raconter sa vie. Hélène veut être reconnue pour ses panneaux. Elle peut préférer qu’une lettre montre le résultat et explique les essais, sans publier sa photo ni évoquer l’accompagnement. Elle peut aussi attendre de voir ce qu’elle installe pour savoir si elle accepte la photo des panneaux. Son refus est une information suffisante pour ne pas préparer le portrait comme prévu.
 

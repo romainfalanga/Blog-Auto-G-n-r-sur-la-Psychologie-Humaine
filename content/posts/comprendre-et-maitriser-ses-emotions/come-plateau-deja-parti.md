@@ -1,23 +1,25 @@
 ---
-title: Demander de l’aide après un rendez-vous manqué
+title: Perdre à nouveau la maîtrise du temps de jeu après une soirée réussie
 description: Le plateau qu’il devait retirer a trouvé preneur. Côme dit ce qu’il a
   manqué et rappelle sa consultation avant le prochain rendez-vous.
 slug: come-plateau-deja-parti
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Côme
-sujet: Trouble du jeu vidéo
+sujet: Variabilité de la perte de contrôle
 contexte: Le mercredi matin, à la ressourcerie, devant le rayon des tables démontées
 tags:
+- Trouble du jeu vidéo
 - 6C51
 - Gaming disorder
-- Difficulté à s’arrêter
-- Déception
-- Demande d’aide
+- Variabilité du contrôle du jeu
+- Déception après un rendez-vous manqué
+- Reprise de contact avec les soins
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C51
+clinical_diagnosis: Trouble du jeu vidéo
 episode: 6
 ---
 

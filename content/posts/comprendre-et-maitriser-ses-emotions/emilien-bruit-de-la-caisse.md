@@ -1,23 +1,25 @@
 ---
-title: Au studio, Émilien distingue l’enthousiasme d’un changement d’humeur durable
+title: Enthousiasme ordinaire et épisode maniaque au studio
 description: Une voix revient dans un enregistrement du marché. Émilien savoure cette
   trouvaille sans confondre son enthousiasme avec un épisode maniaque.
 slug: emilien-bruit-de-la-caisse
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Émilien
-sujet: Trouble bipolaire de type I
+sujet: Variations ordinaires de l’humeur
 contexte: restaurer un premier enregistrement du marché avec Dorian après un diagnostic
   professionnel de trouble bipolaire de type I
 tags:
+- Trouble bipolaire de type I
 - Bipolarité type I
 - Enthousiasme
-- Variations de l’humeur
-- Doute sur ses ressentis
+- Épisode maniaque
+- Changement du fonctionnement habituel
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A60
+clinical_diagnosis: Trouble bipolaire de type I
 episode: 1
 ---
 

@@ -1,22 +1,24 @@
 ---
-title: 'Lire ou écouter : chacun sa façon de suivre la visite'
+title: Adapter le format d’un message quand le bruit gêne l’écoute
 description: Nour et Joël essaient une version enregistrée de la légende. Ils décident
   ce qui doit rester disponible à l’écrit et sur place.
 slug: nour-legende-ecrite-enregistree
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nour
-sujet: Autisme
+sujet: Accessibilité des modes de communication
 contexte: À l’atelier de gravure, avant la deuxième visite
 tags:
+- Autisme
 - TSA
-- Préférences de communication
-- Attention dans le bruit
+- Accès à l’écrit
+- Sensibilité auditive
 - Consentement à l’enregistrement
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A02
+clinical_diagnosis: Autisme
 episode: 11
 ---
 
@@ -26,7 +28,7 @@ Joël lui propose d’enregistrer cette dernière phrase avec sa voix. Nour reli
 
 Une personne tire la poignée de la presse. Dans l’enregistrement, on entend un choc juste avant le nom de la rue. Joël trouve que le bruit va bien avec la légende. Nour entend surtout qu’il masque le mot qu’elle veut faire retenir. Ils réécoutent chacun une fois. Puis elle lui demande s’ils peuvent essayer dans le couloir, où personne n’est en train d’imprimer. Joël replie le petit paravent. Il voudrait garder la première version pour lui, avec le bruit de l’atelier.
 
-## La même information dans plusieurs formats
+## Diversifier les modes d’accès à une information
 
 Un même renseignement peut se lire, s’écouter ou se retrouver dans une image. Joël veut écouter la légende et retrouver l’adresse sur son téléphone. Nour veut relire les noms sur une feuille qu’elle peut retourner et commenter. Leurs choix peuvent se combiner. Le texte reste disponible quand le bruit gêne l’écoute ou quand une personne n’a pas accès à l’enregistrement.
 

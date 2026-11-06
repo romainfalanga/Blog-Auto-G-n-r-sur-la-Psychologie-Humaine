@@ -1,13 +1,13 @@
 ---
 title: Hélène
 date: '2026-11-06T00:00:00+00:00'
-description: À la recyclerie, Hélène observe où les clients s’arrêtent pour chercher
-  les tasses. Elle a le sens du détail et aime essayer avant de décider. Pendant que
-  le dépôt déménage, elle veut fabriquer les panneaux du rayon vaisselle et les tester
-  avec son collègue Dario. Les consignes s’emmêlent quand elles arrivent toutes à
-  la fois. Elle demande alors un renseignement précis ou l’appui de Sofia, son accompagnatrice,
-  pour garder la main sur ses choix. Hors du magasin, elle prépare un dîner dans la
-  cour avec Léa.
+description: Hélène a 27 ans et vit avec un trouble du développement intellectuel.
+  Elle travaille à la recyclerie et repère vite l’endroit où les clients cessent de
+  suivre une indication. Quand le dépôt déménage, plusieurs consignes données ensemble
+  lui demandent du temps à démêler. Elle s’appuie sur des plans qu’elle dessine elle-même
+  et demande à Sofia, son accompagnatrice, une aide précise lorsqu’elle en a besoin.
+  Elle veut concevoir et tester les panneaux du rayon vaisselle avec Dario. Hors du
+  magasin, elle prépare un dîner dans la cour avec sa cousine Léa.
 slug: helene
 prenom: Hélène
 date_naissance: '1999-01-01'
@@ -18,86 +18,87 @@ nb_articles: 12
 weight: 54
 draft: false
 clinical_code: 6A00
+clinical_diagnosis: Trouble du développement intellectuel
 reading_topics:
-- Besoin de consignes claires
-- Repères face aux imprévus
-- Temps pour faire ses choix
-- Aide à la demande
-- Reconnaissance de son travail
+- Trouble du développement intellectuel
+- Habiletés adaptatives
+- Compréhension des consignes
+- Apprentissage en situation
+- Autodétermination
 ---
 
 <h2 class="parcours-section-title">Parcours de Hélène</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-ou-tombent-les-tasses/">Quand un changement d’habitude brouille les consignes au travail</a></h3>
-    <p class="parcours-resume">La quatrième tasse de la matinée attend dans le panier des bols. Elle a une anse assez large pour trois doigts, une rayure bleue et un prix sous le pied.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-ou-tombent-les-tasses/">Trouble du développement intellectuel et consignes qui s’empilent au travail</a></h3>
+    <p class="parcours-resume">Hélène sait montrer le chemin du rayon à une cliente. Lorsque Maud parle du rendez-vous habituel et du nouveau dépôt dans la même consigne, elle a besoin de vérifier quelle ligne du planning suivre. Le trouble du développement intellectuel peut concerner les habiletés nécessaires pour s’adapter aux demandes du quotidien. Le contraste entre ces deux tâches aide à comprendre le profil particulier d’Hélène.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/helene-ou-tombent-les-tasses/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-la-chaise-de-sofia/">Se donner le temps de choisir son trajet</a></h3>
-    <p class="parcours-resume">Le banc du vestiaire est assez long pour quatre personnes à condition que personne n’y pose son sac. Hélène a déjà poussé deux cabas pour faire une place à Maud.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-la-chaise-de-sofia/">Pression de décider et soutien au choix d’un nouveau trajet</a></h3>
+    <p class="parcours-resume">Deux trajets sont proposés à Hélène. Elle veut pouvoir les imaginer avant d’en choisir un et demande à Sofia de venir au début de la réunion. L’autodétermination passe ici par un temps de préparation, une occasion d’essayer et un appui dont Hélène définit le rôle. Elle remet sa décision à plus tard pour se prononcer à partir de quelque chose de concret.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/helene-la-chaise-de-sofia/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-la-porte-bleue/">Apprendre un trajet en choisissant soi-même ses repères</a></h3>
-    <p class="parcours-resume">Le vendredi, Hélène attend le 4 à l’arrêt Marché avec Dario. Sur son téléphone, la carte présente d’abord le trajet en voiture. Pour voir la partie à pied, il faut agrandir l’écran ; dès qu’elle le fait, le nom de la rue sort du cadre.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-la-porte-bleue/">Apprendre un trajet en construisant ses propres repères</a></h3>
+    <p class="parcours-resume">Dario dessine le trajet pendant qu’Hélène cherche les façades qu’elle pourra reconnaître depuis le bus. Elle préfère garder sur son plan les repères qu’elle a elle-même observés. Avec un trouble du développement intellectuel, des appuis choisis dans la situation peuvent faciliter l’apprentissage d’une habileté pratique. Hélène peut ensuite préciser la partie du trajet pour laquelle elle veut être accompagnée.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/helene-la-porte-bleue/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-deux-facons-de-montrer/">Demander un coup de main pour continuer seule</a></h3>
-    <p class="parcours-resume">En tenant la tasse bleue par l’anse, Hélène découvre que sa rayure ressemble à un éclair sur la photo. Elle garde cette image pour le premier panneau. Sur l’autre, elle dessine une tasse au trait, avec une anse bien ouverte et sans la rayure.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-deux-facons-de-montrer/">Une aide ciblée pour comprendre une étape technique</a></h3>
+    <p class="parcours-resume">Hélène sait où placer la flèche et l’image du panneau. L’impression bloque sur le lien entre un nom dans le menu et le papier devant elle. Un appui ciblé rend cette relation compréhensible puis lui permet de reprendre le travail. Le récit montre ce que des besoins variables selon les étapes peuvent vouloir dire avec un trouble du développement intellectuel.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/helene-deux-facons-de-montrer/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-le-prix-qui-nexiste-pas/">Faire une pause quand les informations arrivent de tous côtés</a></h3>
-    <p class="parcours-resume">Véra vient chercher trois bols. Le premier est pour elle, les deux autres pour ses petits-déjeuners du dimanche, quand ses voisins passent et qu’elle a du café pour tout le monde, mais jamais assez de vaisselle.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-le-prix-qui-nexiste-pas/">Surcharge d’informations et besoin de reprendre une chose à la fois</a></h3>
+    <p class="parcours-resume">Hélène comprend pourquoi Véra a cru que la photo indiquait une promotion. À mesure que les questions s’accumulent à la caisse, elle peine à rapprocher les observations et choisit d’arrêter l’essai. Chez Hélène, trier plusieurs informations à la fois demande du temps. La pause lui permet de conserver ce qu’elle a compris et de reprendre la suite dans des conditions plus simples.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/helene-le-prix-qui-nexiste-pas/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-la-table-dans-la-cour/">Poser ses limites quand le travail s’invite à la maison</a></h3>
-    <p class="parcours-resume">Le pied le plus court de la table est celui qui touche la dalle la plus haute. Hélène et Léa la tournent d’un quart de tour et le verre cesse de trembler.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-la-table-dans-la-cour/">Garder ses limites quand une consigne arrive à la maison</a></h3>
+    <p class="parcours-resume">Une image envoyée le dimanche mélange la tournée du camion et le trajet d’Hélène. Sa cousine Léa propose de regarder avec elle pendant qu’elles préparent leur dîner. Hélène préfère demander elle-même l’heure et le lieu à son équipe. Sa difficulté à décoder le planning existe en même temps que son droit à choisir quand et avec qui elle veut reprendre la consigne.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/helene-la-table-dans-la-cour/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-le-jeudi-sans-verrerie/">Perdre ses repères quand le bus change d’itinéraire</a></h3>
-    <p class="parcours-resume">À l’arrêt Marché, une feuille attachée au poteau se soulève chaque fois qu’un bus passe. Hélène lit « Verrerie non desservi » entre deux battements du papier. Il y a une liste des arrêts maintenus, en lettres plus petites.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-le-jeudi-sans-verrerie/">Réorganiser ses repères quand le bus change de trajet</a></h3>
+    <p class="parcours-resume">Le trajet qu’Hélène a appris lui permet de reconnaître l’arrêt du dépôt. Une déviation retire ce repère et demande de résoudre une nouvelle situation. Le trouble du développement intellectuel peut rendre ce changement plus coûteux pour elle, même quand elle connaît bien le parcours habituel. Hélène utilise le contact convenu et demande d’abord si le rendez-vous est maintenu.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/helene-le-jeudi-sans-verrerie/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-le-panneau-sans-portrait/">Être reconnue pour son travail sans exposer sa vie privée</a></h3>
-    <p class="parcours-resume">Maud a reçu le bordereau par courriel. Quand Hélène passe à la table de pause pour le prendre, la feuille est posée sur un autre imprimé. Sur le second, on voit deux cases vides : « votre prénom » et « une photo de vous en situation de travail ».</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-le-panneau-sans-portrait/">Exprimer son refus quand plusieurs accords sont demandés ensemble</a></h3>
+    <p class="parcours-resume">La lettre de la recyclerie pourrait montrer Hélène, ses panneaux et parler de son accompagnement. Elle a un avis différent sur ces trois propositions. Prendre le temps de les séparer permet de comprendre ce à quoi elle souhaite consentir. Son besoin d’un appui dans certaines décisions coexiste avec des préférences claires sur son travail et sa vie privée.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/helene-le-panneau-sans-portrait/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-le-parvis-de-tannerie/">Hélène se fait comprendre en trouvant un repère commun</a></h3>
-    <p class="parcours-resume">Ilyes attend vendredi devant le bâtiment de la médiathèque. Il a dit « du côté de la médiathèque » et, depuis le dépôt, cela lui paraissait suffisant. Sur le parvis, il s’aperçoit que le nom est écrit sur deux façades.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-le-parvis-de-tannerie/">Se mettre d’accord sur un repère quand les mots prêtent à confusion</a></h3>
+    <p class="parcours-resume">À Tannerie, Hélène et Ilyes pensent au même lieu de rendez-vous et se placent pourtant de deux côtés différents. Hélène décrit ce qu’elle voit pour trouver avec lui un repère commun. Un échange ancré dans un élément reconnaissable l’aide à réorganiser le trajet. La précision vient ici du dialogue et du nouveau plan qu’elle choisit de dessiner.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/helene-le-parvis-de-tannerie/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-la-fleche-apres-les-plats/">Remettre les questions dans l’ordre pour garder le fil</a></h3>
-    <p class="parcours-resume">Pour le deuxième essai, Dario voit la flèche depuis sa caisse. Cette fois, elle ne donne pas vers le milieu de la table de plats. Hélène l’a placée après, avec le mot « Vaisselle ».</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-la-fleche-apres-les-plats/">Planifier un nouvel essai quand les questions arrivent ensemble</a></h3>
+    <p class="parcours-resume">Hélène apprend qu’un panneau fonctionne pour un client et reste invisible depuis l’autre entrée. Plusieurs décisions lui sont demandées alors qu’elle veut d’abord comprendre ce que chacun a vu. Avec son trouble du développement intellectuel, elle avance plus facilement quand elle peut remettre les questions dans l’ordre. Le temps gagné pour réfléchir lui permet de formuler une modification précise.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/helene-la-fleche-apres-les-plats/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-qui-deplace-la-fleche/">Savoir à quoi on s’engage avant de dire oui au travail</a></h3>
-    <p class="parcours-resume">Il ne reste qu’un porte-affiche neuf. Maud le sort de sa boîte comme si le fond pouvait en cacher un deuxième. Hélène tient son croquis à côté : un panneau après les plats, l’autre au montant de l’entrée latérale.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-qui-deplace-la-fleche/">Comprendre ce que l’équipe attend avant de dire oui</a></h3>
+    <p class="parcours-resume">Installer les panneaux règle une partie du problème, mais Hélène veut savoir qui les déplacera quand les meubles changeront de place. Examiner l’engagement à partir de cette situation rend les responsabilités compréhensibles pour toute l’équipe. Les choix d’Hélène se voient aussi dans la légende qu’elle accepte et le cadrage qu’elle veut contrôler avant la diffusion.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/helene-qui-deplace-la-fleche/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-au-bout-de-la-fleche/">Plus d’autonomie au travail avec des appuis qu’on peut ajuster</a></h3>
-    <p class="parcours-resume">Depuis la porte latérale, Hélène voit le bord blanc du panneau avant de lire le mot « Vaisselle ». Elle recule jusqu’au seuil et attend qu’une cliente avec un panier passe devant elle.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/helene-au-bout-de-la-fleche/">Adapter son soutien pour garder la main au travail</a></h3>
+    <p class="parcours-resume">Les panneaux sont installés et Hélène demande un appui ponctuel pour la prochaine déviation du bus. Elle sait déjà ce qu’elle voudrait vérifier dans le rayon. Le trouble du développement intellectuel s’inscrit dans la durée et les besoins de soutien peuvent varier selon les tâches. Hélène garde la maîtrise des aides qu’elle choisit et des décisions qu’elle prend seule.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/helene-au-bout-de-la-fleche/" class="parcours-link">Lire</a>
   </div>
 </div>

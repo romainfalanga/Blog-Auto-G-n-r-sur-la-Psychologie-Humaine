@@ -1,23 +1,25 @@
 ---
-title: Perdre son élève en voulant tout lui expliquer
+title: Discours circonstancié et malentendu pendant une démonstration
 description: Loïc ne trouve pas par où commencer sur la platine de démonstration.
   Zéphyr revoit la façon dont il parle des outils.
 slug: zephyr-perdre-son-eleve
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Zéphyr
-sujet: Trouble schizotypique
+sujet: Discours circonstancié
 contexte: Jeudi, Loïc essaie la démonstration avant que Zéphyr présente sa proposition
   au bureau du musée.
 tags:
+- Trouble schizotypique
 - Schizotypie
-- Parole imagée et malentendus
-- Honte quand l’explication échoue
-- Vérifier ce que l’autre a compris
+- Discours circonstancié
+- Gêne relationnelle
+- Clarifier une consigne
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A22
+clinical_diagnosis: Trouble schizotypique
 episode: 2
 ---
 
@@ -27,7 +29,7 @@ Quand Loïc se lève, Zéphyr voit qu’il a pris la boîte réservée aux pièc
 
 Loïc tourne le manche du tournevis entre ses doigts. Il doit partir dans vingt minutes pour ouvrir le local de son association de vélos. Il lève la main : « On en fait une ensemble, là, si tu veux. Une seule. »
 
-## Quand l’image devance le geste
+## Quand le détour imagé fait perdre le premier geste
 
 Une explication peut être très précise dans la tête de celui qui la donne et laisser celui qui écoute sans premier geste à faire. La maison dessinée par Zéphyr désigne un emplacement. Pour Loïc, la tournée du facteur ouvre plusieurs pistes à la fois. Il finit par prendre une boîte au hasard de ce qu’il a compris et se fait reprendre devant l’établi. Zéphyr, qui ne voulait pas l’humilier, perd à son tour le fil de l’échange en entendant cette tentative comme un échec du cours entier.
 

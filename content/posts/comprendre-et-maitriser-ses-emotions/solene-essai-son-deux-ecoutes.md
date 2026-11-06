@@ -1,22 +1,24 @@
 ---
-title: Entendre son prénom sans pouvoir situer la voix
+title: Entendre son prénom dans le silence et douter de ce qu’on a perçu
 description: Pour choisir le premier court métrage de la tournée, Solène et Célestin
   écoutent le même passage. Elle y entend son prénom.
 slug: solene-essai-son-deux-ecoutes
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Solène
-sujet: Trouble schizoaffectif
+sujet: Perceptions auditives inhabituelles
 contexte: Au dépôt du cinéma itinérant, pendant le choix des courts métrages
 tags:
+- Trouble schizoaffectif
 - Trouble schizo-affectif
-- Humeur et perceptions
-- Douter de ce qu’on a entendu
-- Faire une pause
+- Perceptions auditives inhabituelles
+- Incertitude perceptive
+- Retentissement sur l’attention
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A21
+clinical_diagnosis: Trouble schizoaffectif
 episode: 1
 ---
 

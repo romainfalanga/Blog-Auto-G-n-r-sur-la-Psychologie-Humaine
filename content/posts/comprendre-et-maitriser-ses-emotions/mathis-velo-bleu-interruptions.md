@@ -1,32 +1,34 @@
 ---
-title: Perdre le fil après une interruption à l’atelier
+title: Distractibilité et perte du fil pendant une réparation
 description: Une interruption en chasse une autre à l’atelier. Pour son évaluation,
   Mathis cherche des exemples qui disent ce que ces journées lui coûtent.
 slug: mathis-velo-bleu-interruptions
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: TDAH chez l’adulte
+sujet: Distractibilité et reprise de tâche
 contexte: À l’atelier associatif, avant le lancement de la permanence mobile
 tags:
+- TDAH chez l’adulte
 - TDAH
-- Attention morcelée
-- Reprise de tâche
-- Repères écrits
+- Distractibilité
+- Oubli d’intention
+- Retentissement au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A05
+clinical_diagnosis: TDAH chez l’adulte
 episode: 1
 ---
 
 Le vélo bleu est encore sur le pied quand Zélie revient avec le plan de la place des Tilleuls. Mathis lui montre du doigt le coin où installer le barnum. Il a démonté la roue avant et garde dans la main la petite pièce qu’il vient de nettoyer. Zélie veut savoir si une file peut passer entre leur table et l’étal du fromager. Mathis connaît la place le samedi matin. Il se penche sur le plan pour lui montrer d’où les gens arrivent.
 
-La sonnette de l’atelier retentit. Une habituée demande si son vélo est prêt. Elle en a un bleu, elle aussi. Mathis reconnaît le sien contre le mur, lui montre sa fiche et appelle Zélie pour le retrait. Quand il revient au pied, il cherche la petite pièce sur le chiffon. Il la retrouve dans la poche de son tablier avec le stylo qu’il a pris pour le plan. Il n’est plus certain de la dernière chose qu’il a vérifiée.
+La sonnette de l’atelier retentit. Une habituée demande si son vélo est prêt. Elle en a un bleu, elle aussi. Mathis reconnaît le sien contre le mur, lui montre sa fiche et appelle Zélie pour le retrait. Quand il revient au pied, il cherche la petite pièce sur le chiffon. Il la retrouve dans la poche de son tablier avec le stylo qu’il a pris pour le plan. Il n’est plus certain de la dernière chose qu’il a vérifiée. Il reprend le contrôle par le début et remarque que Zélie a déjà replié le plan des Tilleuls. Il voudrait lui demander de rester, puis entend le mot « encore » dans la phrase qu’il s’apprête à dire. Son premier réflexe est de taire le retard.
 
 À la pause, il voit sur son téléphone un message de Simon à propos du relevé du compteur d’eau. Il s’était engagé à l’envoyer vendredi. Il a bien pris la photo vendredi et pourrait presque dire à quelle heure. L’envoi n’a pas suivi. Au premier entretien de son évaluation, la psychiatre lui a demandé de décrire ce qui l’amène à consulter. Il avait parlé de journées qui lui échappent. Il regarde la photo encore ouverte et se dit qu’il aurait pu raconter celle-ci.
 
-## Comprendre ce qui pèse au quotidien
+## Comment la distractibilité peut faire perdre le point de reprise
 
 Une interruption fait perdre le fil à bien des gens. Le vélo bleu intéresse la psychiatre pour la suite de la scène. Mathis doit retrouver ce qu’il a fait avant la sonnette et décider où reprendre. Il dit qu’il lui arrive de refaire une vérification faute de savoir s’il l’a terminée. À la maison, une étape peut rester ouverte alors qu’il a l’impression d’avoir traité la demande. Ce sont des faits concrets sur lesquels ils pourront revenir.
 

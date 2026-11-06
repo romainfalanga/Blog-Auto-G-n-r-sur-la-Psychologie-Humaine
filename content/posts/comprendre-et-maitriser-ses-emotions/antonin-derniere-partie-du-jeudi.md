@@ -1,23 +1,25 @@
 ---
-title: Au billard, les soucis du travail suivent encore Antonin
+title: Au billard quand l’inquiétude détourne l’attention
 description: Une fois le relais du soir organisé, Antonin rejoint Benoît au billard.
   Le chantier lui revient encore au moment de jouer.
 slug: antonin-derniere-partie-du-jeudi
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Antonin
-sujet: Trouble anxieux généralisé
+sujet: Attention accaparée par l’inquiétude
 contexte: Après le point de chantier, le soir d’un tournoi de billard avec Benoît
 tags:
+- Trouble anxieux généralisé
 - TAG
 - Anxiété généralisée
-- Inquiétudes persistantes
-- Plaisir malgré l’inquiétude
-- Relais au travail
+- Inquiétudes envahissantes
+- Attention partagée
+- Retentissement sur les loisirs
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B00
+clinical_diagnosis: Trouble anxieux généralisé
 episode: 8
 ---
 

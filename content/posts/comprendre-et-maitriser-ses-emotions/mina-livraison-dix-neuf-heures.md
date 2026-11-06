@@ -1,23 +1,25 @@
 ---
-title: Se croire écartée après un changement d’horaire au festival
-description: Un message de Rachid déplace la livraison prévue au festival. Mina vérifie
-  l’heure, la tâche et le relais avant de décider de sa soirée.
+title: Se croire mise à l’écart quand un collègue reprend une tâche
+description: Rachid reprend la réception d’une livraison. Mina craint qu’il l’écarte
+  et cherche ce que son message lui demande réellement.
 slug: mina-livraison-dix-neuf-heures
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mina
-sujet: Trouble de la personnalité avec profil borderline
+sujet: Interprétation des intentions sous tension
 contexte: Dans le local des préparatifs du festival
 tags:
+- Trouble de la personnalité avec profil borderline
 - Profil borderline
 - Trouble borderline
-- Incertitude sur sa place dans l’équipe
-- Vérification d’une interprétation
-- Répartition des tâches
+- Interprétation des intentions
+- Sensibilité au rejet
+- Clarification d’un malentendu
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D10
+clinical_diagnosis: Trouble de la personnalité avec profil borderline
 episode: 2
 ---
 
@@ -27,7 +29,7 @@ Rachid écrit « Pour mardi, ça passe à dix-neuf heures. Je m’en occupe. » 
 
 À dix-neuf heures, elle a un cours de reliure. La personne qui anime l’atelier lui a demandé d’apporter les papiers qu’elle hésite à utiliser. Mina pourrait annuler le cours et venir au local, au cas où « je m’en occupe » n’inclurait pas le classement des boîtes. Elle pourrait aussi fermer l’agenda et attendre qu’on lui dise ce qu’elle a fait de travers. Elle regarde la ligne au tableau. Elle veut surtout savoir si Rachid attend sa présence ou l’organisation qu’elle avait déjà préparée.
 
-## Ce que l’on sait d’un message
+## Quand une information incomplète ressemble à un rejet
 
 Dans certaines situations, une incertitude dans un lien peut prendre une place importante avant que la personne ait obtenu les informations dont elle a besoin. Mina entend une mise à l’écart dans un changement d’heure. Le texte annonce un déplacement de livraison et dit que Rachid s’en occupe. Il reste à savoir ce qu’il entend par là. Mina peut éprouver de l’inquiétude et demander une précision sur la tâche au même moment.
 

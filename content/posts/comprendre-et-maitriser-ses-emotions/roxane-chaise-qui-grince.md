@@ -1,29 +1,31 @@
 ---
-title: Demander un relais quand le micro ne suffit pas
-description: Au fond de la salle, Salomé perd la fin du deuxième indice. Roxane veut
-  garder une phrase en direct et changer la place du micro.
+title: Quand les mots restent incompris malgré le volume
+description: Même avec le micro, Salomé perd une partie de la phrase. Roxane ajuste
+  la disposition de la salle et choisit quand Zoé peut relayer.
 slug: roxane-chaise-qui-grince
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Roxane
-sujet: Trouble développemental des sons de la parole
+sujet: Intelligibilité avec un micro
 contexte: À la médiathèque, pendant le premier essai dans la salle de la rencontre
 tags:
+- Trouble développemental des sons de la parole
 - Trouble du développement des sons de la parole
 - CIM-11 6A01.0
-- Demander un changement
-- Relais choisi
-- Se faire comprendre au micro
+- Distance et écho
+- Indices visuels
+- Relais de parole choisi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.0
+clinical_diagnosis: Trouble développemental des sons de la parole
 episode: 7
 ---
 
 Salomé s’assoit sur la dernière chaise, celle qui grince même quand on essaie de ne pas bouger. D’ici, on ne voit plus le dessin au mur où la classe a indiqué la place des groupes. On voit un bout du pied du micro et le haut de la tête de Roxane. Le grand panneau de carton que Zoé a posé devant la table cache presque tout le reste. Mme Sorel lance le montage. Le pic tape, un silence vient, puis la voix de Roxane enregistrée à l’école. Salomé lève un pouce. Roxane attend le moment de dire la seconde phrase.
 
-Elle parle dans le micro. Salomé a entendu les premiers mots mais lui demande de redire la fin. Roxane essaie en montant la voix ; la salle lui renvoie un son beaucoup plus fort. Elle recule d’un pas. Zoé a entendu la demande de Salomé et se prépare à lire le carton. Roxane lui fait signe d’attendre, mais le panneau est entre elles et Zoé voit seulement que quelque chose bouge. Elle commence à lire en même temps que Roxane essaie de reprendre. Au fond, Salomé baisse le pouce.
+Elle parle dans le micro. Salomé a entendu les premiers mots mais lui demande de redire la fin. Roxane essaie en montant la voix ; la salle lui renvoie un son beaucoup plus fort. Elle recule d’un pas. Si quelqu’un lui redemande le dernier mot, elle aimerait encore pouvoir essayer de le dire autrement. Zoé a entendu la demande de Salomé et se prépare à lire le carton. Roxane lui fait signe d’attendre, mais le panneau est entre elles et Zoé voit seulement que quelque chose bouge. Elle commence à lire en même temps que Roxane essaie de reprendre. Au fond, Salomé baisse le pouce.
 
 Roxane descend de sa petite marche et vient s’asseoir près d’elle. La place est encore plus loin qu’elle ne l’imaginait. Elle peut lire le titre du panneau, mais il lui manque la moitié du visage de Zoé. Elle regarde l’autre côté de la salle. Entre la fenêtre et la première rangée, on peut faire un arc avec les chaises. Elle demande à Salomé si le public peut s’installer là, plus près du jeu, pour l’essai suivant.
 

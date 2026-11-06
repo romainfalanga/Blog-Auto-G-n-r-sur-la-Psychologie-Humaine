@@ -1,23 +1,25 @@
 ---
-title: Ce que l’évitement de la gare change dans la journée de Selma
-description: Le détour qu’emprunte Selma pour éviter la gare lui prend de plus en
-  plus de temps. Elle choisit ce qu’elle veut en dire au suivi.
+title: L’évitement des rappels traumatiques quand Selma contourne la gare
+description: Selma rallonge le trajet pour éviter la gare. Elle remarque ce qu’elle
+  reporte et en parle avec sa thérapeute.
 slug: selma-detour-canal-evitement
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Selma
-sujet: Trouble de stress post-traumatique
+sujet: Évitement des rappels traumatiques
 contexte: À vélo vers l’atelier du vitrier
 tags:
+- Trouble de stress post-traumatique
 - TSPT
 - PTSD
-- Évitement des rappels
-- Place des détours au quotidien
-- Choix de ce qu’on dit en thérapie
+- Évitement des rappels traumatiques
+- Soulagement immédiat
+- Retentissement quotidien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B40
+clinical_diagnosis: Trouble de stress post-traumatique
 episode: 3
 ---
 

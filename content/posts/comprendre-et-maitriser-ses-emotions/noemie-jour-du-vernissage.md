@@ -1,22 +1,24 @@
 ---
-title: Choisir son rôle au vernissage même si le doute persiste
-description: Le jour du vernissage, Noémie trouve une façon de présenter la carte
-  du canal qui lui laisse de la place pour écouter les visiteurs.
+title: Prendre part au vernissage avec un doute obsessionnel encore présent
+description: Les contrôles sont terminés, mais Noémie voudrait revoir le registre.
+  Elle décide comment accueillir les visiteurs malgré le doute.
 slug: noemie-jour-du-vernissage
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Noémie
-sujet: Trouble obsessionnel-compulsif
+sujet: Participation malgré le doute
 contexte: À l’ouverture de l’exposition de cartes, devant la première vitrine
 tags:
+- Trouble obsessionnel-compulsif
 - TOC
-- Doute persistant
-- Autonomie au travail
-- Coopération
+- Doute obsessionnel
+- Attention accaparée
+- Participation au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B20
+clinical_diagnosis: Trouble obsessionnel-compulsif
 episode: 11
 ---
 
@@ -26,7 +28,7 @@ L’accueil a signalé la salle fermée et explique le trajet dans le bâtiment.
 
 Aïcha lui propose de choisir entre raconter l’histoire du canal à l’accueil ou rester près de la première vitrine et répondre aux questions. Noémie se rappelle qu’elles avaient laissé les deux possibilités ouvertes. Elle regarde un visiteur déplacer son regard du dessin des enfants à la photographie du bateau. Elle aimerait savoir ce qu’il a vu. Elle dit à Aïcha qu’elle préfère rester ici, près de la carte.
 
-## Regarder ce qu’une personne retrouve dans son quotidien
+## Mesurer la participation quand le doute persiste
 
 Pour Noémie, la réussite de la soirée peut tenir à la rencontre avec les visiteurs. Elle pourra aussi éprouver du doute et avoir du mal à suivre une conversation. En consultation, la clinicienne peut demander ce qui a changé dans la vie de Noémie et ce qui lui demande encore beaucoup d’effort. Le retentissement sur le travail, le couple, les loisirs et les déplacements compte dans l’appréciation de ses difficultés. Une soirée seule donne un aperçu de ces domaines.
 

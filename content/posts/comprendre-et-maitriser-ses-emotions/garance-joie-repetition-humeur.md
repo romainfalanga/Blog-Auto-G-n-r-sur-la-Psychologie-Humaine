@@ -1,23 +1,25 @@
 ---
-title: La joie de jouer ensemble, le temps d’une répétition
+title: Bipolarité de type II et joie de retrouver la bonne mesure
 description: La valse prend enfin le bon rythme. Garance aimerait rejouer le passage
   et décider plus tard si elle peut préparer le programme du concert.
 slug: garance-joie-repetition-humeur
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Garance
-sujet: Trouble bipolaire de type II
+sujet: Joie ordinaire et variations de l’humeur
 contexte: À la première répétition pour le concert de quartier, dans la salle des
   Forges
 tags:
+- Trouble bipolaire de type II
 - Bipolarité type II
-- Joie liée à la situation
-- Variations de l’humeur
-- Temps de réflexion avant de s’engager
+- Joie située
+- Hypomanie
+- Épisodes dépressifs
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A61
+clinical_diagnosis: Trouble bipolaire de type II
 episode: 1
 ---
 

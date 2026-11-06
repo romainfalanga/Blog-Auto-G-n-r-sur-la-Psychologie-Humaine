@@ -2,7 +2,7 @@
 {{- $id := strings.TrimSuffix ".md" .File.Path -}}
 {{- with index .Site.Data.article_intros $id -}}
 <section class="article-overview" aria-label="Ce que cette histoire explore">
-  <h2>Ce que cette histoire explore</h2>
+  <h2>{{ if eq .method "reviewed_clinical_intro" }}{{ .source_heading }}{{ else }}Ce que cette histoire explore{{ end }}</h2>
   <p>{{ .text }}</p>
 </section>
 {{- end -}}

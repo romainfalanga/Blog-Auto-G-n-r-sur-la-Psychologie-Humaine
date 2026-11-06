@@ -1,23 +1,25 @@
 ---
-title: Nuit trop courte ou besoin de sommeil réduit ?
+title: Besoin de sommeil réduit ou fatigue après une nuit courte
 description: Après une nuit hachée, Émilien distingue le manque de sommeil de ses
   signaux habituels et prépare une question pour son rendez-vous.
 slug: emilien-bruit-de-la-gouttiere
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Émilien
-sujet: Trouble bipolaire de type I
+sujet: Besoin de sommeil réduit
 contexte: après une nuit perturbée, distinguer la fatigue ressentie d’une diminution
   du besoin de sommeil
 tags:
+- Trouble bipolaire de type I
 - Bipolarité type I
-- Fatigue après une mauvaise nuit
-- Besoin de sommeil
-- Inquiétude face aux signes
+- Sommeil interrompu
+- Fatigue
+- Diminution du besoin de sommeil
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A60
+clinical_diagnosis: Trouble bipolaire de type I
 episode: 2
 ---
 

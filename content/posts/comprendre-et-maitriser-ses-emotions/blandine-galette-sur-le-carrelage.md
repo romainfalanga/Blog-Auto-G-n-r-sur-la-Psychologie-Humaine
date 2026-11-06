@@ -1,23 +1,25 @@
 ---
-title: Se sentir coupable de rire quand Jeanne manque encore
-description: En aidant Yannis à faire des galettes, Blandine rit franchement. Une
-  fois le rire passé, elle se demande ce qu’elle s’autorise.
+title: Culpabilité de ressentir du plaisir alors que le manque de Jeanne demeure
+description: Blandine rit avec Yannis et se reproche aussitôt ce rire. Le plaisir
+  du moment et la douleur de la perte peuvent être présents le même jour.
 slug: blandine-galette-sur-le-carrelage
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Blandine
-sujet: Trouble du deuil prolongé
+sujet: Culpabilité face au plaisir
 contexte: Dans la cuisine de Blandine, un samedi avec Yannis
 tags:
+- Trouble du deuil prolongé
 - Deuil prolongé
 - CIM-11 6B42
-- Culpabilité à éprouver du plaisir
-- Émotions mêlées
-- Réconfort amical
+- Culpabilité face au plaisir
+- Variabilité des émotions
+- Manque persistant
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B42
+clinical_diagnosis: Trouble du deuil prolongé
 episode: 6
 ---
 

@@ -1,23 +1,26 @@
 ---
-title: Craindre d’être cantonnée aux photos sous la halle
-description: Sous la halle, Lou prend des notes pendant que Maïwenn cadre. Maïwenn
-  interrompt la visite pour poser elle aussi sa question au gardien.
+title: Écouter, observer et prendre des notes quand écrire coûte
+description: Pendant que Maïwenn note les mots du gardien, la visite avance. Elle
+  veut garder le temps d’observer et poser ses propres questions.
 slug: maiwenn-prendre-part-au-reportage
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Maïwenn
-sujet: Trouble développemental des apprentissages avec déficit de l’expression écrite
+sujet: Coût de la prise de notes
 contexte: Un dimanche tôt, dans la halle municipale avant l’ouverture au public
 tags:
+- Trouble développemental des apprentissages avec déficit de l’expression écrite
 - Déficit de l’expression écrite
 - Dysorthographie
-- Sentiment de légitimité
-- Répartition des rôles
-- Pression de l’instant
+- Écriture et écoute simultanées
+- Fatigue de formulation
+- Participation au reportage
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.1
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit de l’expression
+  écrite
 episode: 2
 ---
 

@@ -1,29 +1,31 @@
 ---
-title: Perdre le fil au moment de s’inscrire à l’atelier
-description: Pour l’atelier de lecture en relief, Irène arrive avec un dessin de rue
-  inondée. Reste à savoir comment en faire un livre à deux.
+title: Quand un mouvement répété interrompt une action qui compte
+description: Irène s’enthousiasme pour le livre à fabriquer. Un mouvement familier
+  retarde son inscription et elle perd une partie de la consigne.
 slug: irene-garder-sa-place-a-latelier
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Irène
-sujet: Trouble des mouvements stéréotypés
+sujet: Retentissement des mouvements stéréotypés
 contexte: À la médiathèque, pendant les inscriptions à l’atelier de lecture en relief
 tags:
+- Trouble des mouvements stéréotypés
 - Trouble des mouvements stéréotypiques
 - CIM-11 6A06
-- Perdre le fil
-- Prendre sa place
-- Montrer une idée par le dessin
+- Mouvements stéréotypés
+- Interruption de l’activité
+- Reprise de la consigne
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A06
+clinical_diagnosis: Trouble des mouvements stéréotypés
 episode: 1
 ---
 
 Irène avait dessiné des marches au milieu de la rue, là où d’habitude on met les voitures. Si l’eau montait jusqu’aux volets du rez-de-chaussée, les gens pourraient encore sortir en passant par les toits. Elle n’avait pas résolu le problème des poubelles. Dans la file de la médiathèque, elle tend son dessin à Ilyès. Il lui rend la feuille après l’avoir tournée deux fois. « Ton boulanger livre par la cheminée ? » Elle ajoute une miche au bout d’une ficelle et lui laisse la feuille. Maintenant, oui.
 
-Mylène explique le projet depuis la table d’inscription : par deux, on va fabriquer un livre en relief et le faire lire à des visiteurs. Quand Irène imagine les toits qui se dresseront au moment d’ouvrir une page, ses mains s’ouvrent et reviennent vers elle par petites séries, comme souvent depuis qu’elle est petite. Elle ne prend pas le feutre qu’on lui tend. Quand elle le prend enfin, la file a avancé. Elle a entendu le mot « créneau » et voit des prénoms dans deux colonnes. Elle ne sait plus laquelle correspond à la fabrication.
+Mylène explique le projet depuis la table d’inscription : par deux, on va fabriquer un livre en relief et le faire lire à des visiteurs. Quand Irène imagine les toits qui se dresseront au moment d’ouvrir une page, ses mains s’ouvrent et reviennent vers elle par petites séries, comme souvent depuis qu’elle est petite. Elle ne prend pas le feutre qu’on lui tend. Quand elle le prend enfin, la file a avancé. Elle a entendu le mot « créneau » et voit des prénoms dans deux colonnes. Elle ne sait plus laquelle correspond à la fabrication. Elle voudrait retrouver cette information avant que la personne suivante prenne sa place devant la feuille.
 
 Mylène dit qu’elle peut écrire pour elle. Irène glisse le feutre contre sa trousse verte. Elle sait écrire son nom. Elle veut bien que Mylène reprenne ce qu’elle a dit, mais quelqu’un derrière a déjà demandé où signer et il lui faut choisir vite. Ilyès est resté juste devant la table, dessin en main. Il regarde les deux colonnes et demande si le créneau du mardi est déjà complet.
 

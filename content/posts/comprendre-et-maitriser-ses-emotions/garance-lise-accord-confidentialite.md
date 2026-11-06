@@ -1,26 +1,28 @@
 ---
-title: Poser ses limites au sein d’un groupe de musique
+title: Réduire ses engagements après l’hypomanie et garder sa place
 description: Garance parle à Lise de sa place au concert et des tâches qu’elle peut
   tenir. Elle choisit les informations qui seront partagées avec le groupe.
 slug: garance-lise-accord-confidentialite
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Garance
-sujet: Trouble bipolaire de type II
+sujet: Ajustement des engagements après l’hypomanie
 contexte: Dans la salle des Forges, avant une répétition de l’ensemble de cordes
 tags:
+- Trouble bipolaire de type II
 - Bipolarité type II
-- Expression de ses besoins
-- Confidentialité des informations de santé
-- Aménagement d’une activité collective
+- Engagements excessifs
+- Retour au rythme habituel
+- Confidentialité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A61
+clinical_diagnosis: Trouble bipolaire de type II
 episode: 5
 ---
 
-Lise a déplacé deux pupitres au bord de l’estrade pour dégager le passage. Garance arrive avec la notice qu’elle n’a pas terminée. Elle pensait la rendre discrètement avant que les autres entrent. Quand Lise lui demande si elle veut s’asseoir, Garance garde la feuille dans sa main. Elle voudrait parler de la répétition avant de remettre le texte.
+Garance arrive à la répétition avec une notice inachevée. Elle avait dit oui quand l’hypomanie lui donnait l’impression de pouvoir tout mener de front. À présent, elle a honte de rendre une feuille à moitié écrite et craint que Lise remette aussi en question sa place à l’alto. La cheffe d’ensemble vient de déplacer deux pupitres pour dégager le passage. Elle propose à Garance de s’asseoir. Garance regarde sa partition avant de lui tendre le texte. Elle voudrait pouvoir reparler de ce qu’elle a promis et de ce qu’elle tient encore à faire.
 
 Elle dit qu’elle veut jouer sa partie et pouvoir prévenir si elle doit écourter une séance. Elle ne souhaite plus s’engager sur les textes. Lise lui demande si c’est la livraison du catalogue qui pose problème. Garance dit qu’elle revoit son calendrier et garde le détail pour elle. Elle peut lui dire que les nouvelles dates lui deviennent difficiles quand elles changent tard. Elle demande si la liste des répétitions peut être envoyée dans le même fil que les partitions.
 

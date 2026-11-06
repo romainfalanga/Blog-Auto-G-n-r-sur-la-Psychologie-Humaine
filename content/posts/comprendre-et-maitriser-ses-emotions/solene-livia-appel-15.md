@@ -1,23 +1,25 @@
 ---
-title: Réagir à la désorientation soudaine d’un proche
+title: Désorientation soudaine chez une personne suivie pour un trouble psychique
 description: Après un malaise, Solène ne reconnaît plus bien sa cuisine. Livia appelle
   le 15 et l’équipe envoyée par le Samu prend le relais.
 slug: solene-livia-appel-15
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Solène
-sujet: Trouble schizoaffectif
+sujet: Désorientation soudaine
 contexte: Le samedi suivant, chez Solène et Livia, après des contacts rapprochés avec
   l’équipe de soins
 tags:
+- Trouble schizoaffectif
 - Trouble schizo-affectif
-- Changement brutal
-- Présence en situation de crise
-- Passer le relais
+- Désorientation soudaine
+- Évaluation médicale urgente
+- Attribution hâtive
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A21
+clinical_diagnosis: Trouble schizoaffectif
 episode: 7
 ---
 

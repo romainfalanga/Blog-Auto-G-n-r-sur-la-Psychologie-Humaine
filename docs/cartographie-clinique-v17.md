@@ -1,23 +1,34 @@
-# Cartographie clinique des futurs parcours
+# Cartographie clinique et choix des parcours
 
 Le registre couvre les **858 codes** du chapitre 06 de la CIM‑11 pour les statistiques de mortalité et de morbidité, version française 2026‑01. Le chapitre comporte vingt familles de premier niveau et cinq blocs imbriqués. Le registre conserve les codes et les intitulés du tableau de l’OMS, leurs liens et leur parent. Il y ajoute des décisions éditoriales qui concernent les histoires de Décode ton esprit. [Classification de l’OMS](https://icd.who.int/browse/2026-01/mms/fr#334423054) · [Guide clinique CDDR](https://www.who.int/publications/i/item/9789240077263)
 
 | Traitement éditorial | Codes | Utilisation |
 | --- | ---: | --- |
-| Un parcours propre | 150 | Un canon par diagnostic ou syndrome clinique retenu. |
-| Rattachement documenté | 499 | Présentation, phase, précision, groupe de parcours ou syndrome analogue pour une autre substance. |
+| Cas de travail | 150 | Scénarios possibles dans le registre, dont 32 publiés. |
+| Rattachement documenté | 499 | Présentation, phase, précision, groupe ou syndrome analogue pour une autre substance. |
 | Sujet hors parcours propre | 209 | Deux cents codes résiduels, trois catégories ouvertes et six entrées de facteurs associés. |
 
-Les 150 personnages ont un prénom et un objectif dans leur vie quotidienne, une tension qui évolue, des appuis et une chronologie clinique. Parmi eux, **129** ont un diagnostic établi avant le début du récit. Pour les **21** autres, une évaluation par un professionnel aboutit à une conclusion dans les deux ou trois premiers épisodes. Plusieurs mois peuvent séparer les scènes. Les canons donnent une base de rédaction pour **38 vagues**, soit **1 800 épisodes prévus**. Ils ne signalent pas que ces épisodes sont rédigés.
+Les 150 canons étaient des hypothèses de récit. Le registre sert à retrouver un code et à examiner ce qui mérite une histoire, une comparaison dans un parcours existant ou un dossier séparé. Le périmètre clinique reste traçable dans la classification. La rédaction d’un nouveau parcours dépend de ce qu’il permet réellement de comprendre.
 
 ## Ce qui compte comme un parcours
 
 - Le trouble bipolaire de type I et celui de type II ont chacun un parcours. Les épisodes actuels et les rémissions enrichissent leur chronologie.
-- La trichotillomanie et le trouble d’excoriation ont chacun un parcours au sein des comportements répétitifs centrés sur le corps. Une catégorie de présentation peut servir à montrer des besoins différents sans créer un diagnostic supplémentaire.
+- La trichotillomanie et le trouble d’excoriation sont deux sujets à expliquer au sein des comportements répétitifs centrés sur le corps. Leurs points communs et différences peuvent être traités ensemble ou dans des parcours distincts selon l’apport du récit.
 - La CIM‑11 décrit le trouble de la personnalité et ses précisions de sévérité et de traits. Mina a un trouble de la personnalité documenté avec un profil borderline. Le qualificatif 6D11.5 reste visible dans la carte comme tel.
-- Les usages nocifs et les dépendances sont distingués par classe lorsque le tableau identifie les deux. Des parcours séparés abordent les épisodes nocifs isolés, les intoxications, les sevrages et les syndromes induits. Pour éviter d’écrire le même arc pour chaque combinaison, la carte regroupe les variantes étiologiques autour d’un syndrome représentatif. Les différences de risque, d’évaluation et de soin restent propres à chaque substance.
-- Les syndromes secondaires et les causes de démence décrites par le chapitre sont traités à part des troubles primaires. Les codes d’autres causes ou tableaux non précisés sont recensés dans la carte. Ils ne permettent pas de déduire la cause d’un personnage.
+- Les usages nocifs, dépendances, intoxications, sevrages et syndromes induits ont des significations cliniques distinctes. Des dossiers comparatifs permettent de couvrir les variantes par substance en décrivant les différences de risque, d’évaluation et de soin.
+- Les syndromes secondaires et les causes de démence appellent des dossiers liés à l’évaluation médicale. L’expérience psychologique, les manifestations et la cause peuvent être abordées au sein d’un même ensemble de lectures.
 - Un rattachement est un renvoi pour la rédaction. Il ne signifie pas que le personnage remplit toutes les catégories associées à son arc, ni que deux traitements se valent.
+
+## Priorités de couverture
+
+| Statut | Cas | Traitement éditorial |
+| --- | ---: | --- |
+| Parcours publiés | 32 | Vingt et un parcours de troubles psychiques ou neurocognitifs et onze de troubles du neurodéveloppement. |
+| Sujets à documenter en priorité | 24 | Par exemple boulimie, hyperphagie boulimique, agoraphobie, phobies spécifiques, dépendance à l’alcool, dysthymie, trouble d’adaptation et dissociation. Pour chaque sujet, déterminer le format à partir du vécu et des distinctions à faire comprendre. |
+| Variantes à traiter par famille | 61 | Trente-sept cas liés aux substances en plus des quatre sujets prioritaires, quatorze causes de démence et dix syndromes secondaires. |
+| Autres sujets à cadrer | 33 | Par exemple catatonie, situations périnatales, troubles de l’attachement et troubles factices. Le format dépend du contexte d’apparition, de l’apport psychologique et du relais clinique à décrire. |
+
+Les [codes prioritaires](../editorial/clinical/priorities.json) alimentent le suivi éditorial. Les 24 sujets sont des lacunes de couverture à documenter. Certains pourront être expliqués en complétant un parcours ou en comparant deux manifestations dans un même dossier.
 
 Cette couverture correspond au périmètre de la CIM‑11 MMS, chapitre 06. Le CDDR décrit aussi des diagnostics et situations situés dans d’autres chapitres. Une piste éditoriale distincte retient notamment le syndrome de la Tourette et les tics chroniques, l’insomnie chronique, les cauchemars et le trouble dysphorique prémenstruel. Le deuil ordinaire, l’épuisement professionnel et les risques liés à l’usage d’une substance ou d’un jeu ont leurs repères propres. La diversité de genre, l’orientation et la neurodiversité sont des dimensions de vie à représenter sans attribuer de pathologie. La situation de travail, la précarité, la discrimination, la langue et l’accessibilité peuvent modifier ce qu’une personne vit et les aides dont elle dispose. [Guide clinique CDDR](https://www.who.int/publications/i/item/9789240077263) · [OMS, épuisement professionnel](https://www.who.int/News/Item/28-05-2019-Burn-out-an-occupational-phenomenon-International-Classification-of-Diseases) · [OMS, diversité de genre](https://www.who.int/standards/classifications/frequently-asked-questions/gender-incongruence-and-transgender-health-in-the-icd)
 
@@ -33,7 +44,7 @@ Cette couverture correspond au périmètre de la CIM‑11 MMS, chapitre 06. Le C
 ## Passage d’une vague à la suivante
 
 1. **Documenter le trouble et les soins.** Le code et le CDDR servent de référence pour le périmètre clinique. Ajouter au dossier de l’arc des recommandations vérifiables sur les soins, la vie quotidienne et la place des proches. Les canons des vagues ultérieures restent marqués « prise en charge à documenter ». Une recommandation étrangère éclaire la littérature, sans présumer que les démarches d’accès au soin s’appliquent en France.
-2. **Écrire douze scènes reliées.** Garder une ouverture narrative d’au moins 180 mots. Faire avancer un enjeu choisi par le personnage à chaque épisode, avec des ajustements, des réussites et des difficultés qui peuvent revenir. Replacer les diagnostics avant ou après la scène selon le canon. Distinguer le trouble des émotions ordinaires et d’autres explications possibles.
+2. **Choisir l’objet pédagogique puis écrire la scène.** Nommer le trouble dans la fiche. Chaque épisode d’un parcours relie une réaction à une notion propre et montre un effet sur le quotidien. Distinguer les manifestations du trouble, les émotions ordinaires et d’autres explications possibles. Si la scène tient surtout à l’organisation d’une activité, retravailler ce qu’elle rend perceptible.
 3. **Écrire le point de vue des proches.** Partir de la situation de l’épisode et proposer une action praticable ou une phrase. Demander ce que la personne souhaite, respecter son refus et répartir la responsabilité entre entourage et professionnels. Quand il y a coercition, maltraitance ou risque aigu, donner la priorité à la sécurité et au recours adapté. Les actes illégaux, les conduites dangereuses, les procédures thérapeutiques et les produits ne font pas l’objet de modes d’emploi.
 4. **Relire le lot complet.** Vérifier les affirmations contre leurs sources, les raccords entre épisodes, les réactions plausibles, la diversité des situations et le lien entre l’histoire et l’aide proposée. Dans les situations à risque, vérifier le relais décrit auprès d’une source officielle et demander l’avis d’un professionnel qualifié si la conduite à tenir reste incertaine. Convertir les défauts récurrents en critères vérifiables pour la vague suivante. Les contrôles automatiques portent sur la forme et l’intégrité du lot. Le jugement sur la justesse clinique reste une étape éditoriale.
 

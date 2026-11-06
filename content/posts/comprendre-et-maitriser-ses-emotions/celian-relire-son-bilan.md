@@ -1,23 +1,25 @@
 ---
-title: Comprendre son bilan quand le travail a changé
+title: Reprendre le bilan de dyslexie à partir des difficultés actuelles
 description: Chez Mme Vidal, Célian retrouve un vieux compte rendu et montre les textes
   qu’il doit utiliser aujourd’hui.
 slug: celian-relire-son-bilan
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Célian
-sujet: Trouble développemental des apprentissages avec déficit en lecture
+sujet: Évaluation actuelle de la lecture
 contexte: Au cabinet de l’orthophoniste, le lundi avant la rencontre de volley.
 tags:
+- Trouble développemental des apprentissages avec déficit en lecture
 - Dyslexie
 - Trouble développemental de la lecture
-- Effort de lecture
-- Confiance en soi
-- Compréhension du texte
+- Évaluation orthophonique
+- Lecture technique
+- Retentissement en emploi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.0
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en lecture
 episode: 6
 ---
 

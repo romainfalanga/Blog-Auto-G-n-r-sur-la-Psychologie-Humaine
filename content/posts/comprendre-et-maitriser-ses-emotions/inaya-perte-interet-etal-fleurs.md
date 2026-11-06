@@ -1,22 +1,24 @@
 ---
-title: Au marché aux fleurs, Inaya remarque que le plaisir s’est émoussé
+title: Anhédonie au marché aux fleurs quand les couleurs ne font plus plaisir
 description: À l’étal, Inaya reconnaît les couleurs qu’elle aime. La perte d’intérêt
   change son rapport aux fleurs, sans effacer ce qu’elles comptent pour elle.
 slug: inaya-perte-interet-etal-fleurs
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Inaya
-sujet: Trouble dépressif récurrent
+sujet: Perte d’intérêt et de plaisir
 contexte: Le marché de gros et la sortie de l’école
 tags:
+- Trouble dépressif récurrent
 - Dépression récurrente
-- Perte de plaisir
-- Énergie fluctuante
-- Moments partagés
+- Anhédonie
+- Perte de motivation
+- Variabilité du plaisir
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A71
+clinical_diagnosis: Trouble dépressif récurrent
 episode: 2
 ---
 

@@ -1,24 +1,26 @@
 ---
-title: Demander de l’aide quand l’envie de jouer revient tard le soir
+title: Prévenir la reprise du jeu quand plusieurs déclencheurs se cumulent
 description: Après une fermeture tardive, Gabin retrouve l’envie de jouer. Il utilise
   le repère choisi avec le service et revoit l’horaire qui lui convient.
 slug: gabin-dernier-bac
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gabin
-sujet: Trouble lié aux jeux d’argent
+sujet: Cumul de situations vulnérables
 contexte: essayer un plan de soutien après une fermeture tardive et préciser ce qu’il
   faut revoir avec l’équipe
 tags:
+- Trouble lié aux jeux d’argent
 - Jeux d’argent
 - Jeu pathologique
-- Envie de rejouer
-- Demande de soutien
-- Limites de la disponibilité d’un proche
+- Cumul des déclencheurs
+- Envie de rattrapage
+- Plan de soutien
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6C50
+clinical_diagnosis: Trouble lié aux jeux d’argent
 episode: 8
 ---
 

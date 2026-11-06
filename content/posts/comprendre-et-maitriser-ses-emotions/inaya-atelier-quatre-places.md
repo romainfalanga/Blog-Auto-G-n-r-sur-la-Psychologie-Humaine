@@ -1,22 +1,24 @@
 ---
-title: 'Reprise progressive : l’atelier à un rythme qu’Inaya peut tenir'
+title: Reprendre l’atelier par étapes après un épisode dépressif
 description: Quelques semaines après le report, Inaya et Myriam accueillent quatre
   personnes. Elles se partagent l’atelier et gardent un temps pour le rangement.
 slug: inaya-atelier-quatre-places
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Inaya
-sujet: Trouble dépressif récurrent
+sujet: Reprise progressive d’une activité
 contexte: À la maison de quartier, un samedi matin
 tags:
+- Trouble dépressif récurrent
 - Dépression récurrente
-- Reprise progressive
-- Énergie fluctuante
-- Coopération
+- Reprise d’activité
+- Effort et récupération
+- Coopération choisie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A71
+clinical_diagnosis: Trouble dépressif récurrent
 episode: 11
 ---
 

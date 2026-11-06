@@ -1,23 +1,25 @@
 ---
-title: Quand la fatigue ralentit la dernière vérification
+title: Fatigue de lecture à la fin du service
 description: Le service est terminé, mais Célian doit encore comparer deux feuilles
   de stock. Il cherche comment reprendre la vérification.
 slug: celian-huit-lignes-apres-service
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Célian
-sujet: Trouble développemental des apprentissages avec déficit en lecture
+sujet: Fatigabilité en situation de lecture
 contexte: Au restaurant où Célian est apprenti, après un service du soir.
 tags:
+- Trouble développemental des apprentissages avec déficit en lecture
 - Dyslexie
 - Trouble développemental de la lecture
-- Fatigue mentale
-- Pression du temps
-- Effort de lecture
+- Fatigue et lecture
+- Repère de reprise
+- Exigences du travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.0
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en lecture
 episode: 4
 ---
 
@@ -27,7 +29,7 @@ Sur les deux feuilles, l’ordre est différent. Sur l’une, les rouleaux de pa
 
 Farah tend la main vers l’interrupteur de la salle, puis la laisse retomber. « Je peux attendre encore un peu. Tu bloques sur quoi ? » Célian lui montre les deux lignes qui concernent les rouleaux. Il lui demande de vérifier avec lui celle dont l’équipe aura besoin dès l’ouverture. Pour les lignes qui peuvent attendre, il propose de finir au début de son service du lendemain. Farah passe avec lui devant le placard et confirme ce qui doit être vérifié ce soir.
 
-## La dernière ligne peut coûter plus que la première
+## L’effet de la fatigue sur une lecture déjà coûteuse
 
 Une lecture qui demande beaucoup d’effort peut devenir plus difficile à soutenir quand la personne est fatiguée ou doit passer sans cesse du texte à autre chose. Dans les troubles des apprentissages, une performance qui paraît correcte peut demander un temps et une énergie que les autres ne voient pas. Célian ne lit pas huit lignes dans le vide : il revient du service, tient deux documents en parallèle et vérifie les objets du placard. Sa fatigue ce soir ne suffit pas à expliquer, à elle seule, l’ensemble de ses difficultés de lecture. La fatigue après le travail peut toucher n’importe qui. Ici, elle s’ajoute à la charge d’une tâche écrite qui lui demande déjà un effort.
 

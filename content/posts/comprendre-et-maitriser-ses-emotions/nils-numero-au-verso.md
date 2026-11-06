@@ -1,22 +1,23 @@
 ---
-title: Préparer un appel à l’aide avant que les difficultés reviennent
+title: Signes personnels de rechute et plan de soutien
 description: Avec l’équipe de secteur, Nils précise ce qui l’amènerait à appeler et
   ce qu’Elsa peut savoir. Il garde une copie pour lui.
 slug: nils-numero-au-verso
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nils
-sujet: Schizophrénie
+sujet: Signes personnels de rechute
 contexte: Le jeudi, au rendez-vous de suivi avec l’équipe de secteur
 tags:
 - Schizophrénie
-- Demander du soutien
-- Choisir ce qu’on partage
-- Signaux d’alerte personnels
+- Signes personnels de rechute
+- Plan de soutien
+- Partage des informations
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A20
+clinical_diagnosis: Schizophrénie
 episode: 3
 ---
 

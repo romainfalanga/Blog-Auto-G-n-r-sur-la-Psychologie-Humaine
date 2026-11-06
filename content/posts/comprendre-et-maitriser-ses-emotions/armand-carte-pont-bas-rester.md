@@ -1,23 +1,25 @@
 ---
-title: Choisir ce qu’on transmet et ce qu’on garde
+title: Faire un choix quand garder toutes les options en tête demande un effort
 description: Nadia aimerait montrer les annotations du pont bas. Armand reprend sa
   carte et cherche ce qu’il peut donner à voir autrement.
 slug: armand-carte-pont-bas-rester
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Armand
-sujet: Démence due à la maladie d’Alzheimer
+sujet: Mémoire de travail et décision
 contexte: Le jeudi suivant, à la grande table de la bibliothèque
 tags:
+- Démence due à la maladie d’Alzheimer
 - Maladie d’Alzheimer
 - Trouble neurocognitif majeur dû à la maladie d’Alzheimer
-- Choisir pour soi
-- Continuer à transmettre
-- Attachement aux souvenirs
+- Mémoire de travail
+- Charge cognitive
+- Décision accompagnée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D80
+clinical_diagnosis: Démence due à la maladie d’Alzheimer
 episode: 3
 ---
 
@@ -27,7 +29,7 @@ En passant au plan suivant, il ne sait plus lesquelles il a apportées pour les 
 
 Nadia lui rend la carte. Elle a besoin d’une pièce qui explique comment on passait d’une rive à l’autre, et le plan des canaux n’indique pas les chemins de halage. Armand regarde les deux feuilles côte à côte. Il lui propose une reproduction du recto du pont bas, à vérifier ensemble avant qu’elle soit montrée. Il gardera l’original, et les mots au verso avec. Nadia recule son inventaire pour leur rendre la place nécessaire.
 
-## Ce qu’il veut garder et ce qu’il doit suivre
+## Soutenir la mémoire de travail pendant une décision
 
 Suivre plusieurs options peut demander davantage d’effort à une personne qui vit avec la maladie d’Alzheimer, surtout si les objets et les décisions se mélangent. Sur la table, Armand doit savoir de quelle carte ils parlent, distinguer présentation et don, puis envisager ce qui arrivera au papier. Le diagnostic ne donne pas la réponse à ces questions à sa place. Il peut dire ce qui lui importe quand il a la carte et les possibilités devant lui.
 

@@ -1,23 +1,25 @@
 ---
-title: Perdre ses repères quand le bus change d’itinéraire
+title: Réorganiser ses repères quand le bus change de trajet
 description: Un avis de déviation enlève au plan d’Hélène son point d’arrivée. Elle
   demande une consigne pour la tournée de ce matin.
 slug: helene-le-jeudi-sans-verrerie
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Hélène
-sujet: Trouble du développement intellectuel
+sujet: Adaptation à un trajet imprévu
 contexte: À l’arrêt Marché, avant la tournée du jeudi
 tags:
+- Trouble du développement intellectuel
 - TDI
 - Troubles du développement intellectuel
-- Imprévu et repères
-- Besoin de réponses claires
-- Demande d’aide
+- Habiletés adaptatives
+- Changement de routine
+- Appui en cas d’imprévu
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A00
+clinical_diagnosis: Trouble du développement intellectuel
 episode: 7
 ---
 

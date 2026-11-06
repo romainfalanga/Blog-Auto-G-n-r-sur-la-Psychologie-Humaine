@@ -399,11 +399,11 @@
     "id": "adele",
     "name": "Adèle",
     "keywords": [
-      "Sensibilité sensorielle",
-      "Appréhension des repas",
-      "Inquiétude sous le regard des autres",
-      "Besoin de décider pour soi",
-      "Oser demander de l’aide"
+      "Trouble évitant ou restrictif de la prise alimentaire",
+      "Sensibilité sensorielle aux aliments",
+      "Restriction alimentaire",
+      "Anxiété anticipatoire des repas",
+      "Retentissement sur la vie sociale"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -411,11 +411,11 @@
     "id": "agathe",
     "name": "Agathe",
     "keywords": [
-      "Comprendre une consigne",
-      "Mettre une idée en mots",
-      "Garder sa place dans un groupe",
-      "Demander du temps",
-      "Choisir ce qu’on partage"
+      "Trouble développemental du langage",
+      "Compréhension des consignes orales",
+      "Recherche des mots",
+      "Organisation du récit",
+      "Fatigue dans les échanges"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -423,11 +423,11 @@
     "id": "antonin",
     "name": "Antonin",
     "keywords": [
-      "Inquiétudes qui s’enchaînent",
-      "Attente et incertitude",
-      "Crainte d’être mis en cause",
-      "Sommeil perturbé",
-      "Limites au travail"
+      "Trouble anxieux généralisé",
+      "Inquiétudes difficiles à maîtriser",
+      "Intolérance à l’incertitude",
+      "Recherche de réassurance",
+      "Sommeil perturbé par l’inquiétude"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -435,11 +435,11 @@
     "id": "armand",
     "name": "Armand",
     "keywords": [
-      "Mémoire au quotidien",
-      "Repères dans l’espace",
-      "Choisir pour soi",
-      "Recevoir de l’aide",
-      "Continuer à transmettre"
+      "Démence due à la maladie d’Alzheimer",
+      "Mémoire des faits récents",
+      "Désorientation",
+      "Recherche de mots",
+      "Soutien à la décision"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -447,11 +447,11 @@
     "id": "augustin",
     "name": "Augustin",
     "keywords": [
-      "Effort invisible",
-      "Pression du temps",
-      "Choix de l’aide",
-      "Légitimité dans le groupe",
-      "Limites du partage"
+      "Trouble développemental de la coordination motrice",
+      "Effort de coordination",
+      "Fatigue motrice",
+      "Écriture manuscrite et attention",
+      "Sentiment de compétence"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -459,11 +459,11 @@
     "id": "blandine",
     "name": "Blandine",
     "keywords": [
-      "Manque d’un proche",
-      "Effort invisible au travail",
-      "Éviter les lieux du souvenir",
-      "Chagrin et plaisir mêlés",
-      "Intimité des souvenirs"
+      "Trouble du deuil prolongé",
+      "Manque persistant",
+      "Préoccupation pour la personne décédée",
+      "Évitement des rappels du deuil",
+      "Retentissement sur la vie quotidienne"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -471,11 +471,11 @@
     "id": "celian",
     "name": "Célian",
     "keywords": [
-      "Effort de lecture",
-      "Pression du temps",
-      "Fatigue mentale",
-      "Confiance en soi",
-      "Autonomie"
+      "Trouble développemental des apprentissages avec déficit en lecture",
+      "Dyslexie",
+      "Fluence de lecture",
+      "Fatigabilité à la lecture",
+      "Appréhension du regard des autres"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -483,11 +483,11 @@
     "id": "clemence",
     "name": "Clémence",
     "keywords": [
-      "Inquiétudes autour des repas",
-      "Inquiétude face aux imprévus",
-      "Partage des décisions",
-      "Soutien entre amies",
-      "Préservation de son intimité"
+      "Anorexie mentale",
+      "Peur de prendre du poids",
+      "Restriction alimentaire",
+      "Préoccupations corporelles et honte",
+      "Retentissement physique et social"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -495,11 +495,11 @@
     "id": "come",
     "name": "Côme",
     "keywords": [
-      "Difficulté à s’arrêter",
-      "Sommeil et fatigue",
-      "Besoin de lien",
-      "Limites relationnelles",
-      "Demande d’aide"
+      "Trouble du jeu vidéo",
+      "Perte de maîtrise du temps de jeu",
+      "Priorité croissante donnée au jeu",
+      "Retentissement sur le sommeil et le travail",
+      "Lien social et difficulté à décrocher"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -507,11 +507,11 @@
     "id": "diane",
     "name": "Diane",
     "keywords": [
-      "Honte après des paroles blessantes",
-      "Confiance dans ses propres choix",
-      "Choix de ce qu’on raconte de soi",
-      "Peur que les difficultés reviennent",
-      "Demande d’aide et limites des proches"
+      "Trouble psychotique aigu et transitoire",
+      "Impressions de référence",
+      "Honte après une crise",
+      "Peur de la rechute",
+      "Reprise du travail"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -519,11 +519,11 @@
     "id": "emilien",
     "name": "Émilien",
     "keywords": [
-      "Variations de l’humeur",
-      "Repères du sommeil",
-      "Prise de décision",
-      "Limites au travail",
-      "Soutien négocié"
+      "Trouble bipolaire de type I",
+      "Épisode maniaque",
+      "Besoin de sommeil réduit",
+      "Décisions précipitées",
+      "Perte d’intérêt dépressive"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -531,11 +531,11 @@
     "id": "gabin",
     "name": "Gabin",
     "keywords": [
-      "Vouloir récupérer ses pertes",
-      "Honte et crainte d’en parler",
-      "Envie de rejouer",
-      "Limites financières dans les relations",
-      "Demander du soutien"
+      "Trouble lié aux jeux d’argent",
+      "Rattrapage des pertes",
+      "Difficulté à maîtriser le jeu",
+      "Honte et dissimulation",
+      "Retentissement financier et relationnel"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -543,11 +543,11 @@
     "id": "garance",
     "name": "Garance",
     "keywords": [
-      "Variations de l’humeur",
-      "Perte d’élan",
-      "Limites dans ses engagements",
-      "Appui des proches",
-      "Choix de ce que l’on confie"
+      "Trouble bipolaire de type II",
+      "Épisodes hypomaniaques",
+      "Épisodes dépressifs",
+      "Diminution du besoin de sommeil",
+      "Rétablissement et rythmes de vie"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -555,11 +555,11 @@
     "id": "gasparde",
     "name": "Gasparde",
     "keywords": [
-      "Soupçons et incertitude",
-      "Retentissement sur le quotidien",
-      "Confiance dans les relations",
-      "Garder la main sur ses choix",
-      "Choisir ses appuis"
+      "Trouble délirant",
+      "Convictions persécutives",
+      "Degré de conviction",
+      "Préoccupation persistante",
+      "Retentissement sur le sommeil"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -567,11 +567,11 @@
     "id": "helene",
     "name": "Hélène",
     "keywords": [
-      "Besoin de consignes claires",
-      "Repères face aux imprévus",
-      "Temps pour faire ses choix",
-      "Aide à la demande",
-      "Reconnaissance de son travail"
+      "Trouble du développement intellectuel",
+      "Habiletés adaptatives",
+      "Compréhension des consignes",
+      "Apprentissage en situation",
+      "Autodétermination"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -579,11 +579,11 @@
     "id": "inaya",
     "name": "Inaya",
     "keywords": [
-      "Perte de plaisir",
-      "Énergie fluctuante",
-      "Expression des limites",
-      "Soutien familial",
-      "Demande d’aide"
+      "Trouble dépressif récurrent",
+      "Perte d’intérêt et de plaisir",
+      "Difficultés de concentration",
+      "Fatigue dépressive",
+      "Prévention des rechutes"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -591,11 +591,11 @@
     "id": "irene",
     "name": "Irène",
     "keywords": [
-      "Regard des autres",
-      "Attention et reprise",
-      "Choix de l’aide",
-      "Respect de l’intimité",
-      "Confiance en ses idées"
+      "Trouble des mouvements stéréotypés",
+      "Mouvements répétitifs",
+      "Interruptions d’activité",
+      "Appréhension du regard",
+      "Sécurité et autonomie"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -603,11 +603,11 @@
     "id": "jules",
     "name": "Jules",
     "keywords": [
-      "Interprétation des sensations",
-      "Peur que la panique revienne",
-      "Évitement et reprise d’activités",
-      "Demander un appui précis",
-      "Préserver sa vie privée"
+      "Trouble panique",
+      "Attaques de panique inattendues",
+      "Anxiété d’anticipation",
+      "Évitement des situations",
+      "Reprise progressive d’activités"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -615,11 +615,11 @@
     "id": "lison",
     "name": "Lison",
     "keywords": [
-      "Effort invisible avec les nombres",
-      "Peur du regard des autres",
-      "Repères concrets",
-      "Choix des confidences",
-      "Autonomie et aide choisie"
+      "Trouble développemental des apprentissages avec déficit en mathématiques",
+      "Dyscalculie",
+      "Sens des nombres",
+      "Fluence du calcul",
+      "Appréhension du calcul"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -627,11 +627,11 @@
     "id": "maiwenn",
     "name": "Maïwenn",
     "keywords": [
-      "Effort invisible",
-      "Crainte du jugement",
-      "Confiance pour demander de l’aide",
-      "Limites dans la collaboration",
-      "Sentiment de légitimité"
+      "Trouble développemental des apprentissages avec déficit de l’expression écrite",
+      "Organisation des idées à l’écrit",
+      "Orthographe et accords",
+      "Fatigue de relecture",
+      "Crainte d’être jugée sur ses écrits"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -639,11 +639,11 @@
     "id": "mathis",
     "name": "Mathis",
     "keywords": [
-      "Attention et interruptions",
-      "Estimation du temps",
-      "Engagements réalistes",
-      "Autonomie",
-      "Coopération au travail"
+      "TDAH chez l’adulte",
+      "Distractibilité",
+      "Organisation des tâches",
+      "Oublis d’intention",
+      "Peur de décevoir"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -651,11 +651,11 @@
     "id": "meriem",
     "name": "Meriem",
     "keywords": [
-      "Reviviscences",
-      "Honte et autocritique",
-      "Confiance dans les relations",
-      "Poser ses limites",
-      "Régulation émotionnelle"
+      "Trouble de stress post-traumatique complexe",
+      "Reviviscences traumatiques",
+      "Difficultés de régulation émotionnelle",
+      "Dévalorisation persistante",
+      "Difficulté à se sentir proche"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -663,11 +663,11 @@
     "id": "mina",
     "name": "Mina",
     "keywords": [
-      "Crainte de perdre un lien",
-      "Interprétation des intentions",
-      "Émotions dans les conflits",
-      "Reprendre le dialogue",
-      "Limites de l’entraide"
+      "Trouble de la personnalité avec profil borderline",
+      "Sensibilité au rejet",
+      "Peur de l’abandon",
+      "Réactivité émotionnelle",
+      "Image de soi instable"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -675,11 +675,11 @@
     "id": "nils",
     "name": "Nils",
     "keywords": [
-      "Attention et bruit",
-      "Doutes sur ses perceptions",
-      "Choisir ce qu’on partage",
-      "Demander du soutien",
-      "Reprendre sa place"
+      "Schizophrénie",
+      "Difficultés attentionnelles",
+      "Perceptions auditives inhabituelles",
+      "Impressions de référence",
+      "Signes personnels de rechute"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -687,11 +687,11 @@
     "id": "noemie",
     "name": "Noémie",
     "keywords": [
-      "Doute persistant",
-      "Vérifications répétées",
-      "Recherche de réassurance",
-      "Évitement",
-      "Affirmation de ses besoins"
+      "Trouble obsessionnel-compulsif",
+      "Doutes obsessionnels",
+      "Compulsions de vérification",
+      "Rituels mentaux",
+      "Recherche de réassurance"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -699,11 +699,11 @@
     "id": "nour",
     "name": "Nour",
     "keywords": [
-      "Préférences de communication",
-      "Sensibilité au bruit",
-      "Effort face aux imprévus",
-      "Fatigue et récupération",
-      "Participation à son rythme"
+      "Autisme",
+      "Surcharge sensorielle",
+      "Communication sociale",
+      "Imprévus et transitions",
+      "Fatigue après l’effort"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -711,11 +711,11 @@
     "id": "owen",
     "name": "Owen",
     "keywords": [
-      "Tour de parole",
-      "Pression du temps",
-      "Se sentir écouté",
-      "Choix de sa façon de parler",
-      "Limites de partage"
+      "Trouble développemental de la fluence de la parole",
+      "Blocages de parole",
+      "Anticipation du jugement",
+      "Variabilité du bégaiement",
+      "Participation à la conversation"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -723,11 +723,11 @@
     "id": "roxane",
     "name": "Roxane",
     "keywords": [
-      "Curiosité",
-      "Malentendus",
-      "Prise de parole",
-      "Choix de l’aide",
-      "Coopération"
+      "Trouble développemental des sons de la parole",
+      "Intelligibilité de la parole",
+      "Anticipation du malentendu",
+      "Gêne à devoir répéter",
+      "Maintien du tour de parole"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -735,11 +735,11 @@
     "id": "sacha",
     "name": "Sacha",
     "keywords": [
-      "Peur du regard des autres",
-      "Anticipation inquiète",
-      "Surveillance de soi",
-      "Retrait des échanges",
-      "Choisir sa participation"
+      "Trouble d’anxiété sociale",
+      "Peur de l’évaluation négative",
+      "Attention centrée sur soi",
+      "Évitement social",
+      "Rumination après les échanges"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -747,11 +747,11 @@
     "id": "selma",
     "name": "Selma",
     "keywords": [
-      "Vigilance après l’accident",
-      "Souvenirs qui s’imposent",
-      "Éviter les rappels de l’accident",
-      "Sommeil et fatigue",
-      "Choisir ce qu’on confie"
+      "Trouble de stress post-traumatique",
+      "Reviviscences",
+      "Évitement des rappels traumatiques",
+      "Hypervigilance",
+      "Cauchemars liés au trauma"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -759,11 +759,11 @@
     "id": "solene",
     "name": "Solène",
     "keywords": [
-      "Humeur et perceptions",
-      "Reconnaître ses signes",
-      "Écouter ses limites",
-      "Choisir ce qu’on partage",
-      "Garder sa place au travail"
+      "Trouble schizoaffectif",
+      "Symptômes psychotiques",
+      "Épisodes de l’humeur",
+      "Signes de rechute",
+      "Rétablissement au travail"
     ],
     "source": "repères des parcours cliniques de fiction"
   },
@@ -771,11 +771,11 @@
     "id": "zephyr",
     "name": "Zéphyr",
     "keywords": [
-      "Doute sur les intentions des autres",
-      "Parole imagée et malentendus",
-      "Réserve et besoin de lien",
-      "Place de l’imprévu dans les échanges",
-      "Limites du partage et de l’entraide"
+      "Trouble schizotypique",
+      "Méfiance dans les échanges",
+      "Discours circonstancié",
+      "Expression émotionnelle discrète",
+      "Perceptions inhabituelles"
     ],
     "source": "repères des parcours cliniques de fiction"
   }

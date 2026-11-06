@@ -1,24 +1,26 @@
 ---
-title: Retrouver ses repères quand la visite change de lieu
-description: La pluie ferme le jardin pour la visite. Agathe revoit avec Inès la part
-  de la présentation qu’elle veut garder.
+title: Pourquoi un changement de programme demande plus d’effort
+description: La visite du jardin est reportée et une présentation est déplacée. Agathe
+  entend plusieurs mots sans saisir quelles tâches restent prévues.
 slug: agathe-un-jeudi-sous-toit
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Agathe
-sujet: Trouble développemental du langage
+sujet: Compréhension d’un programme modifié
 contexte: Mercredi, à la fin de la récréation. Après plusieurs averses, Camille suspend
   la visite du jardin prévue le lendemain.
 tags:
+- Trouble développemental du langage
 - TDL
 - DLD (developmental language disorder)
-- S’ajuster à un imprévu
-- Relire pour retrouver le fil
-- Choisir le rôle qu’on garde
+- Langage réceptif
+- Tri des informations
+- Demande de clarification
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.2
+clinical_diagnosis: Trouble développemental du langage
 episode: 10
 ---
 

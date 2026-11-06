@@ -1,23 +1,25 @@
 ---
-title: Sacha suit son texte de peur de laisser voir son hésitation
+title: Réciter chaque phrase pour cacher son anxiété
 description: Sacha a rempli le dos d’une fiche de phrases à apprendre. Avec Gaspard,
   il distingue ce que les visiteurs doivent voir de ce qu’il voudrait cacher.
 slug: sacha-verso-de-la-fiche
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Sacha
-sujet: Trouble d’anxiété sociale
+sujet: Comportements de sécurité et attention à soi
 contexte: La graineterie, pendant l’essai à deux
 tags:
+- Trouble d’anxiété sociale
 - Anxiété sociale
 - Phobie sociale
+- Comportements de sécurité
 - Peur de montrer son hésitation
 - Attention centrée sur soi
-- Préparation pour se rassurer
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B04
+clinical_diagnosis: Trouble d’anxiété sociale
 episode: 5
 ---
 

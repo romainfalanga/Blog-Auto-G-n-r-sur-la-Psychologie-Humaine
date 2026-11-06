@@ -1,23 +1,25 @@
 ---
-title: Manger au calme, à l’abri des regards
+title: Le bruit et le regard des autres peuvent compliquer un repas déjà difficile
 description: Le centre propose un bureau près du réfectoire. Sur le plan, Adèle repère
   ce qui ne lui convient pas et demande une autre solution.
 slug: adele-porte-vitree
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Adèle
-sujet: Trouble évitant ou restrictif de la prise alimentaire
+sujet: Environnement sensoriel et regard social
 contexte: Au collège, pendant la préparation du séjour
 tags:
+- Trouble évitant ou restrictif de la prise alimentaire
 - ARFID
 - Trouble de l’alimentation sélective et évitante
-- Sensibilité à l’ambiance
-- Besoin de discrétion
-- Choix de sa place
+- Contexte sensoriel du repas
+- Crainte du regard des autres
+- Aménagement du repas
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B83
+clinical_diagnosis: Trouble évitant ou restrictif de la prise alimentaire
 episode: 4
 ---
 
@@ -27,9 +29,9 @@ La responsable du centre propose le bureau vitré près du réfectoire. Elle dit
 
 Eva a le stylo en main. Adèle pose deux doigts sur le plan, entre le réfectoire et le bureau, avant qu’Eva n’écrive le numéro de la pièce. « Est-ce que vous avez une pièce où les groupes ne passent pas ? » demande-t-elle assez fort pour le téléphone. Dans le silence qui suit, elle entend une porte se fermer du côté du centre. Elle suit de nouveau le couloir sur le plan, pour vérifier qu’elle n’a pas pris le trajet des chambres pour celui des ateliers.
 
-## Ce que l’endroit change
+## Quand le contexte sensoriel et le regard des autres se cumulent
 
-L’environnement d’un repas peut modifier les difficultés vécues par certaines personnes qui ont un ARFID. Le bruit, les odeurs ou la sensation d’être observé peuvent faire partie de ce que le jeune et l’équipe examinent. Un espace plus calme peut être utile à Adèle dans certaines circonstances ; elle dit aussi qu’elle veut garder la possibilité de manger près de ses camarades quand le cadre lui convient. Ces souhaits donnent des indications pour l’organisation. Ils ne constituent pas une prescription sur la façon dont d’autres élèves devraient prendre leurs repas.
+L’environnement d’un repas peut modifier les difficultés vécues par certaines personnes qui ont un ARFID. La question peut se poser à l’école, lors d’un déplacement ou à l’âge adulte dans un repas avec des collègues. Le bruit, les odeurs ou la sensation d’être observé peuvent faire partie de ce que le jeune et l’équipe examinent. Un espace plus calme peut être utile à Adèle dans certaines circonstances ; elle dit aussi qu’elle veut garder la possibilité de manger près de ses camarades quand le cadre lui convient. Ces souhaits donnent des indications pour l’organisation. Ils ne constituent pas une prescription sur la façon dont d’autres élèves devraient prendre leurs repas.
 
 Dans le bureau vitré, le passage serait constant même avec une chaise à l’écart. En repérant ce détail, Adèle explique ce qu’elle entend par discrétion. Elle n’a pas besoin de raconter toute son histoire à la responsable du lieu pour demander où se trouve l’autre pièce.
 

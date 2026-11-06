@@ -1,13 +1,13 @@
 ---
 title: Jules
 date: '2026-11-06T00:00:00+00:00'
-description: Jules, 27 ans, apprend le métier de fleuriste dans un marché couvert.
-  Observateur, il dessine les gestes de Sonia, sa maîtresse d’apprentissage, et les
-  enseignes peintes sous la verrière. Il envoie ses croquis à sa grand-mère Solange,
-  qui lui répond parfois par un dessin. Depuis que des accès de peur l’ont surpris
-  dans des moments ordinaires, il évite certains trajets et ne va plus dessiner avec
-  Samuel le samedi. Il aimerait retrouver cette table et décider lui-même de l’aide
-  qui lui serait utile.
+description: Le parcours de Jules raconte le diagnostic d’un trouble panique et ce
+  qu’il essaie ensuite de retrouver. À 27 ans, il apprend le métier de fleuriste au
+  marché couvert. Il dessine les mains des commerçants et envoie ses croquis à sa
+  grand-mère Solange. Depuis que des accès de peur l’ont surpris, il modifie ses trajets
+  et évite la table de dessin de Samuel. Les inquiétudes entre les crises lui prennent
+  du temps au travail et le samedi. Il veut retrouver une place à la table et choisir
+  avec sa psychiatre les appuis qui lui seraient utiles.
 slug: jules
 prenom: Jules
 date_naissance: '1999-01-01'
@@ -17,86 +17,87 @@ nb_articles: 12
 weight: 43
 draft: false
 clinical_code: 6B01
+clinical_diagnosis: Trouble panique
 reading_topics:
-- Interprétation des sensations
-- Peur que la panique revienne
-- Évitement et reprise d’activités
-- Demander un appui précis
-- Préserver sa vie privée
+- Trouble panique
+- Attaques de panique inattendues
+- Anxiété d’anticipation
+- Évitement des situations
+- Reprise progressive d’activités
 ---
 
 <h2 class="parcours-section-title">Parcours de Jules</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-ruban-sur-le-carnet/">Éviter une allée du marché par peur d’une nouvelle crise</a></h3>
-    <p class="parcours-resume">Jules cherche un ruban assez fin pour ne pas cacher la tige des renoncules. Sonia, sa maîtresse d’apprentissage, lui a laissé composer le premier bouquet de la matinée. Il pose trois morceaux de ruban sur la table et en garde un bleu presque gris.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-ruban-sur-le-carnet/">Peur d’une nouvelle attaque et évitement au marché</a></h3>
+    <p class="parcours-resume">Jules voudrait faire la livraison et redoute de repasser par l’allée où la peur l’a surpris. Une attaque de panique peut être suivie d’une inquiétude quant à sa répétition. Cette peur a déjà un effet sur ses déplacements et sur le dessin qu’il a laissé de côté. Son médecin a besoin de l’histoire des épisodes et des situations où ils surviennent pour poursuivre l’évaluation.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-ruban-sur-le-carnet/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-appel-de-sonia/">Peur et douleur nouvelle au marché : Sonia appelle les secours</a></h3>
-    <p class="parcours-resume">Une cliente demande à Jules d’écrire « à dimanche » sur une petite carte. Il en a choisi une dont les coins sont ronds. Le stylo s’arrête après le premier mot.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-appel-de-sonia/">Douleur thoracique et peur intense quand la cause reste à évaluer</a></h3>
+    <p class="parcours-resume">Au marché, Jules ressent une douleur thoracique nouvelle et peine à respirer. Il reconnaît la peur, tandis que le caractère nouveau des signes conduit Sonia à appeler les secours. Certaines sensations peuvent se retrouver dans une attaque de panique et dans des problèmes physiques. L’équipe d’urgence peut évaluer leur cause à partir de ce que Jules et Sonia décrivent.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-appel-de-sonia/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-nom-au-cabinet/">Trouble panique : quand la peur persiste entre les attaques</a></h3>
-    <p class="parcours-resume">Jules a plié l’adresse du cabinet dans le sens de la verrière qu’il essaie de dessiner. Il avait commencé le trait dans le bus. Quand il ouvre le carnet devant la psychiatre, le haut de l’arche est déjà plus large que sur le modèle.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-nom-au-cabinet/">Le trouble panique et la peur qui s’installe entre les attaques</a></h3>
+    <p class="parcours-resume">La psychiatre rapproche les attaques inattendues que Jules décrit, les trajets qu’il change et la crainte qu’il éprouve entre les épisodes. Dans le trouble panique, certaines attaques arrivent sans prévenir. Elles sont suivies d’inquiétudes persistantes ou de conduites destinées à éviter leur retour. L’évaluation inclut aussi les autres causes possibles. C’est à partir de cette histoire que la psychiatre lui explique son diagnostic.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-nom-au-cabinet/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-enveloppe-pour-solange/">Se confier à sa grand-mère et choisir l’aide dont on a besoin</a></h3>
-    <p class="parcours-resume">Jules a trouvé une enveloppe verte de la bonne taille pour envoyer le dessin. Il pose le téléphone sur le bord de la table et attend que sa grand-mère décroche.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-enveloppe-pour-solange/">Parler de la peur après le diagnostic de trouble panique</a></h3>
+    <p class="parcours-resume">Jules parle du trouble panique à Solange et lui dit que certaines allées du marché lui coûtent encore. Elle lui propose de venir avec lui. Il préfère garder pour l’instant leur rendez-vous autour du dessin, dont il attend aussi du réconfort. Le diagnostic donne des mots à leur échange et Jules peut préciser le soutien qu’il aimerait recevoir, dans une relation qui garde ses autres sujets.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-enveloppe-pour-solange/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-essai-convenu/">Travailler sur sa peur pour retrouver le dessin au marché</a></h3>
-    <p class="parcours-resume">Jules a apporté une feuille où il a dessiné trois emplacements de la table de Samuel. Il se rappelle où il s’asseyait et à quel moment les commerçants repliaient les caisses.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-essai-convenu/">Travailler sur la peur et retrouver une activité évitée</a></h3>
+    <p class="parcours-resume">Jules aimerait dessiner les mains de Sonia et a déjà refusé une rencontre au marché. La thérapie cognitivo-comportementale du trouble panique peut travailler les sensations, les inquiétudes qu’elles déclenchent et les activités que la personne évite. Avec sa psychiatre, Jules choisit un objectif qui lui importe et discute de la façon dont ils prépareront ensemble un premier essai.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-essai-convenu/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-commande-aux-pavots/">Peur de traverser le marché : Jules demande un relais</a></h3>
-    <p class="parcours-resume">La patronne de la boutique de tissus veut un bouquet pour la vitrine. Elle a apporté une chute du rideau qu’elle vient de coudre. Jules la déplie et voit une bordure orange là où il avait d’abord cru qu’elle était rouge.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-commande-aux-pavots/">Quand l’anxiété anticipée gêne une tâche au travail</a></h3>
+    <p class="parcours-resume">Jules imagine le bouquet de la cliente et s’inquiète déjà de devoir le livrer à travers le marché. Le trouble panique peut peser sur une partie d’un travail alors que d’autres gestes restent possibles et plaisants. Il précise à Sonia quel trajet lui pose difficulté. Le relais leur permet de répartir une tâche concrète, et Jules pourra raconter cette situation dans le cadre du suivi.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-commande-aux-pavots/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-aller-jusqu-au-libraire/">Jules appréhende l’entrée du marché et choisit où s’arrêter</a></h3>
-    <p class="parcours-resume">Samuel a posé une caisse de livres devant son stand. On peut voir les couvertures sans entrer dans l’allée du marché. Jules s’arrête en apercevant une édition illustrée dont il se souvient.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-aller-jusqu-au-libraire/">Anxiété d’anticipation avant un essai accompagné</a></h3>
+    <p class="parcours-resume">Jules veut voir les livres de Samuel et observe l’entrée du marché avant d’avancer. La peur commence ici dans ce qu’il s’attend à vivre. Un essai préparé avec sa psychiatre permet de revenir sur ses attentes et sur ce qu’il éprouve sur place. Il peut lui dire quand il veut s’arrêter et reprendre ensuite ce qui l’a surpris, dont le bruit soudain d’un chariot.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-aller-jusqu-au-libraire/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-feuille-repliee/">La déception de quitter tôt la table de dessin</a></h3>
-    <p class="parcours-resume">Samuel met un poids sur la pile de feuilles. Le marché est plus bruyant que le jour où Jules est venu avec la psychiatre. Une commerçante essaie de fermer une boîte sans quitter sa cliente des yeux.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-feuille-repliee/">Peur et déception quand une sortie doit être raccourcie</a></h3>
+    <p class="parcours-resume">Jules dessine quelques traits au marché et découvre que les gens passent juste derrière sa chaise. Il choisit de partir et confie sa déception à Solange. La peur liée au trouble panique peut varier selon le jour et le contexte. Comparer cette matinée à l’essai près de la librairie aide à décrire ce qui lui coûte, tout en gardant la place des gestes qu’il a pu faire.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-feuille-repliee/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-arret-deplace/">L’inquiétude de Jules quand son arrêt de bus change</a></h3>
-    <p class="parcours-resume">Jules trouve une flèche orange sur le poteau de l’arrêt. Il a regardé l’annonce la veille, mais la flèche qu’il imaginait au coin de la rue l’envoie maintenant vers le carrefour.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-arret-deplace/">Peur dans les transports et contrainte réelle du trajet</a></h3>
+    <p class="parcours-resume">Le passage est réellement fermé par des barrières, et Jules s’inquiète aussi de ce qui pourrait lui arriver en chemin. Dans le suivi du trouble panique, il peut distinguer ce qu’il redoute et la contrainte qu’un agent du réseau peut vérifier. Les deux pèsent sur son choix. Une information sur le nouvel arrêt lui rend des possibilités sans effacer d’un coup la peur du trajet.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-arret-deplace/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-deux-dessins-au-cabinet/">Peur en sortie : Jules repère ce qui l’aide selon le lieu</a></h3>
-    <p class="parcours-resume">Jules pose le croquis de la boîte de dominos à côté de la feuille pliée du marché. Au crayon, les deux mains qu’il a dessinées ne se ressemblent pas. L’une tenait un couvercle à moitié fermé.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-deux-dessins-au-cabinet/">Pourquoi une même activité peut coûter plus selon le lieu</a></h3>
+    <p class="parcours-resume">Jules montre deux dessins à sa psychiatre. Chez Solange, les voix étaient fortes aussi, mais il savait quand la partie finirait et pouvait sortir prendre l’air. Dans le trouble panique, le contexte peut modifier l’appréhension et l’effort nécessaires à une activité. Le récit de ces deux situations aide à préciser ce que Jules souhaite travailler et les appuis qui lui ont réellement servi.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-deux-dessins-au-cabinet/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-table-tournee-vers-les-etalages/">Retrouver sa place à la table de dessin quand la peur demeure</a></h3>
-    <p class="parcours-resume">Samuel a retourné la table pour que les dessinateurs puissent regarder l’allée. Il a laissé une chaise à chaque extrémité. Jules vient de terminer sa matinée au stand et demande s’il en reste une.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-table-tournee-vers-les-etalages/">Revenir dessiner au marché avec une appréhension persistante</a></h3>
+    <p class="parcours-resume">Jules revient au marché et demande une place au bout de la table. Il veut croquer le geste de Sonia tout en gardant la possibilité de choisir combien de temps il reste. Dans le suivi du trouble panique, la liberté retrouvée dans une activité fait partie de ce qui peut évoluer. Jules peut se réjouir de dessiner et continuer à parler des trajets qui l’inquiètent.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-table-tournee-vers-les-etalages/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-enveloppe-au-ruban-bleu/">Faire des projets quand certains trajets inquiètent encore</a></h3>
-    <p class="parcours-resume">Solange a répondu au dessin du nœud en lui envoyant une feuille pliée dans l’autre sens. Elle a tracé les deux mains d’un voisin en train de mélanger les dominos et a ajouté un toit de travers au-dessus.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/jules-enveloppe-au-ruban-bleu/">Faire des projets pendant le suivi du trouble panique</a></h3>
+    <p class="parcours-resume">Jules envoie un dessin à Solange et garde ouverte une invitation pour un samedi. Certains trajets lui demandent encore un effort et il sait qu’il pourra en parler au prochain rendez-vous. Dans le trouble panique, le suivi peut tenir compte des peurs qui persistent et des projets redevenus possibles. Jules garde le choix de ses engagements et de ce qu’il souhaite poursuivre en consultation.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/jules-enveloppe-au-ruban-bleu/" class="parcours-link">Lire</a>
   </div>
 </div>

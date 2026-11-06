@@ -1,29 +1,31 @@
 ---
-title: Reprendre la parole quand une question fait perdre le fil
+title: Perdre le fil d’un échange et retrouver le sujet ensemble
 description: Une question de Gil désoriente Zéphyr en pleine démonstration. Mounir
   et lui essaient devant les visiteurs le relais prévu ensemble.
 slug: zephyr-reprendre-son-fil-devant-le-groupe
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Zéphyr
-sujet: Trouble schizotypique
+sujet: Décalage dans l’échange
 contexte: Loïc et Gil reviennent à l’atelier du musée. Farah ne peut pas venir à cette
   date et sa place a été proposée à Clara.
 tags:
+- Trouble schizotypique
 - Schizotypie
-- Place de l’imprévu dans les échanges
-- Parole imagée et malentendus
-- Reprendre confiance après une interruption
+- Décalage dans l’échange
+- Gêne relationnelle
+- Relais convenu
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A22
+clinical_diagnosis: Trouble schizotypique
 episode: 11
 ---
 
 À dix heures, Maud vient dire que les trois noms sont cochés au comptoir. Loïc a trouvé quelqu’un pour ouvrir le local des vélos. Gil a ses lunettes de peintre et Clara, la nouvelle venue, a laissé un sac de courses derrière sa chaise. Par la porte entrouverte, Zéphyr entend Maud orienter un couple vers la visite générale. Personne de plus ne s’arrête sur le seuil. Il retourne la fiche et montre la première roue. Clara y pose un doigt comme il l’a demandé. Quand le mouvement passe à la seconde, elle se penche pour regarder dessous.
 
-Gil demande si une pendule peut continuer à avancer quand le mouvement s’arrête à cet endroit. Zéphyr croit d’abord qu’il parle de la platine. Gil sort son téléphone pour lui montrer la pendule qu’il a chez lui. Les deux images se mélangent dans sa réponse. Il part d’une porte dont il faudrait regarder le gond, revient à une roue qui ne tourne plus et découvre que tout le monde attend encore le rapport entre les deux. Loïc tient sa main au bord de la table. Pour la première fois de la matinée, Zéphyr voudrait disparaître derrière l’établi.
+Gil demande si une pendule peut continuer à avancer quand le mouvement s’arrête à cet endroit. Zéphyr croit d’abord qu’il parle de la platine. Gil sort son téléphone pour lui montrer la pendule qu’il a chez lui. Les deux images se mélangent dans sa réponse. Il part d’une porte dont il faudrait regarder le gond, revient à une roue qui ne tourne plus et découvre que tout le monde attend encore le rapport entre les deux. Loïc tient sa main au bord de la table. Pour la première fois de la matinée, Zéphyr voudrait disparaître derrière l’établi. Il voit enfin que Gil parle de la pendule sur son téléphone. Il sait où ils ont cessé de parler de la même chose. Les mots de sa réponse continuent de lui échapper.
 
 Il voit Mounir retirer ses coudes de la table pour lui faire de la place. La fiche est encore dans sa main. Zéphyr finit par la poser là où ils ont répété. Mounir la tourne vers Clara. À côté de lui, Gil dit qu’il peut garder sa question pour plus tard.
 

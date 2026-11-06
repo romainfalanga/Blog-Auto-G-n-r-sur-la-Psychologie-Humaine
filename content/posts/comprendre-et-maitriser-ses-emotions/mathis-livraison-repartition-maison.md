@@ -1,22 +1,24 @@
 ---
-title: 'Dire oui trop vite : qui porte la charge de la livraison ?'
+title: La peur de décevoir quand on s’engage trop vite
 description: Une livraison tombe pendant les heures de l’atelier. Mathis et Simon
   reprennent l’accord en regardant qui reçoit les messages et qui peut agir.
 slug: mathis-livraison-repartition-maison
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: TDAH chez l’adulte
+sujet: Anticipation et oubli d’intention
 contexte: À la table de la cuisine, après le repérage aux Tilleuls
 tags:
+- TDAH chez l’adulte
 - TDAH
-- Engagements réalistes
+- Peur de décevoir
+- Anticipation d’un engagement
 - Charge mentale
-- Partage des responsabilités
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A05
+clinical_diagnosis: TDAH chez l’adulte
 episode: 7
 ---
 
@@ -26,7 +28,7 @@ Mathis propose d’activer une alarme. Simon lui montre la dernière ligne du me
 
 Mathis tire le calendrier vers lui. Il avait répondu oui avant d’imaginer les vélos à ranger et les bénévoles qui lui posent souvent une question en partant. Il a envie de dire qu’il trouvera bien un moyen. En voyant le vendredi sur le calendrier, il se rappelle la photo du compteur envoyée en retard. Il sait retrouver une heure sur son téléphone. Ce soir, il cherche surtout une heure qu’il pourra vraiment tenir.
 
-## Comprendre ce qui est confié avec une tâche
+## De l’intention à l’engagement qu’il faudra tenir
 
 Une livraison comporte plusieurs actions. Quelqu’un fixe la date, quelqu’un reçoit le message, quelqu’un ouvre la porte et quelqu’un doit pouvoir appeler si le jour change. Mathis s’est engagé sur la présence à la maison, tandis que Simon garde sans l’avoir choisi la responsabilité d’attraper l’appel. Le problème existe avant la sonnerie. Ils peuvent le voir ensemble en suivant le parcours du message.
 

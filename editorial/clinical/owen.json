@@ -1,24 +1,24 @@
 {
   "character_id": "owen",
-  "bio": "Owen a dix-sept ans. En terminale, il monte un club de courts métrages avec Lucile. Il peut passer une récréation à décaler un objet de cinq centimètres dans le cadre. Il aime les histoires où deux personnes n’ont pas vu la même chose. Quand quelqu’un finit sa phrase, il se crispe : la discussion est déjà partie ailleurs alors qu’il tient encore à son idée. Il bégaie depuis l’enfance et en parle avec Mme Roussel, son orthophoniste. Au club, il veut choisir comment intervenir et à qui montrer son travail.",
+  "bio": "Owen a dix-sept ans et vit avec un trouble développemental de la fluence de la parole, qui se manifeste chez lui par un bégaiement. Il peut connaître le mot qu’il veut dire et rester bloqué au milieu d’une phrase. Il se crispe surtout quand quelqu’un croit l’aider en parlant à sa place. Avec son orthophoniste, il s’intéresse aux situations qui lui donnent envie de parler ou l’amènent à se taire. En montant un club de cinéma avec Lucile, il veut défendre ses idées et décider de la place que sa voix prend dans le film.",
   "profile_topics": [
-    "Tour de parole",
-    "Pression du temps",
-    "Se sentir écouté",
-    "Choix de sa façon de parler",
-    "Limites de partage"
+    "Trouble développemental de la fluence de la parole",
+    "Blocages de parole",
+    "Anticipation du jugement",
+    "Variabilité du bégaiement",
+    "Participation à la conversation"
   ],
   "episodes": [
     {
       "number": 1,
       "slug": "owen-le-mot-qui-manque",
-      "title": "Finir son idée quand le groupe a déjà répondu",
-      "description": "Pour lancer le club de courts métrages, Owen demande à finir sa phrase et dessine la minute qu’il veut raconter trois fois.",
+      "title": "Le blocage de parole au milieu d’une idée déjà claire",
+      "description": "Quand Owen bloque avant le mot « moment », Lucile finit sa phrase et change le sens de son idée. Il tient à expliquer lui-même ce qu’il veut filmer.",
       "context": "demander à garder son tour de parole pendant la première réunion du club",
       "topics": [
         "Bégaiement",
-        "Tour de parole",
-        "Se sentir écouté"
+        "Maintien du tour de parole",
+        "Frustration d’être interrompu"
       ],
       "opening": "Pour obtenir du rouge avec le seul feutre encore humide, Owen doit appuyer jusqu’à faire grincer la pointe. Il dessine un sac sur un banc. En haut du tableau, Lucile a écrit « CLUB DE COURTS MÉTRAGES » plus gros qu’il n’était nécessaire pour les quatre personnes de la salle. Elle a laissé le mot « club » même si, pour l’instant, ils ont surtout la permission de rester jusqu’à la deuxième sonnerie. Lina, qui aimerait s’occuper du cadre, mesure déjà la largeur du dessin avec sa règle. À dix-sept ans, Owen est déjà capable de consacrer toute une pause à déplacer un objet de cinq centimètres dans le cadre. Trouver un premier film à quatre lui paraît autrement compliqué.\n\nIl montre la feuille où il a dessiné le banc trois fois. « Je voudrais qu’on filme le même… » Le mot « moment » est là. Il a même tracé l’aiguille des secondes sur chaque croquis. Il reste pourtant arrêté au milieu de la phrase. Lucile dit « le même sac », puis entoure le dessin rouge. Elle sait qu’Owen bégaie. Ils se connaissent depuis la seconde et elle l’a entendu présenter l’idée sans difficulté hier, en descendant l’escalier avec lui. Cette fois, Owen a le temps de regarder le cercle sécher avant de réussir à dire : « Attends que j’aie fini. »\n\nLucile pose le feutre. Owen reprend : « La même minute. » Il dessine un nœud jaune sur une poignée. Une voyageuse croit que quelqu’un a oublié le sac. Quelqu’un le cherche justement. Une troisième personne l’a vu d’un endroit où les deux autres n’étaient pas. Nassim, venu pour faire du son, regarde le banc de travers. Il demande s’ils ont un budget pour trois bus. Owen ne sait pas encore si c’est une blague.",
       "sections": [
@@ -45,18 +45,20 @@
       "continuity": {
         "choice": "Owen demande à finir lui-même, présente une minute racontée de trois points de vue et accepte de porter la proposition à la rencontre avec M. Vasseur.",
         "next": "Nassim est prêt à écouter un essai si le temps de tournage reste raisonnable. Le groupe doit obtenir un créneau et du matériel avant de pouvoir lui faire entendre les versions."
-      }
+      },
+      "clinical_focus": "Blocage de parole",
+      "clinical_intro": "Owen sait qu’il veut filmer trois versions de la même minute. Quand le mot « moment » reste bloqué, Lucile propose « le même sac » et le groupe part dans une autre direction. Un blocage de bégaiement peut être silencieux alors que le mot est déjà connu. Ce qui frustre Owen, c’est aussi de perdre l’occasion d’expliquer lui-même son idée."
     },
     {
       "number": 2,
       "slug": "owen-les-huit-minutes",
-      "title": "Parler sous la pression de la sonnerie",
-      "description": "Le temps file chez le professeur qui encadre le club. Owen demande un autre rendez-vous et précise le format qui lui laissera une place.",
+      "title": "Pourquoi la pression du temps peut modifier le bégaiement",
+      "description": "Owen bloque sur le titre devant un professeur pressé. Il propose de traiter le créneau et de reprendre sa présentation dans un autre moment.",
       "context": "séparer une urgence d’organisation du temps nécessaire pour présenter une idée",
       "topics": [
-        "Pression du temps",
-        "Tour de parole",
-        "Interprétation des silences"
+        "Variabilité du bégaiement",
+        "Appréhension de parler",
+        "Interprétation du silence"
       ],
       "opening": "M. Vasseur reçoit le club dans la petite salle où les télécommandes ont toutes un numéro au feutre. Il reste huit minutes avant son cours et il veut savoir s’il inscrit le groupe sur le planning du mercredi. Owen a plié sa feuille en quatre pour que les cadrans ne se froissent pas. Quand il la sort, un des plis a effacé presque toute l’aiguille du milieu. Il pense qu’il pourra la redessiner pendant que Lucile annonce le nombre d’élèves. Puis le professeur se tourne vers lui plus tôt que prévu : « Et qu’est-ce que vous allez tourner ? »\n\nOwen commence par le titre qu’il a trouvé la veille : Le Sac rouge. Le mot « sac » accroche, deux fois. Dans le couloir, un élève fait rebondir un ballon et M. Vasseur tire la porte. Owen croit pouvoir reprendre au retour du silence. Lucile a les mains sous la table ; elle n’a pas essayé de dire le mot. En revanche, le professeur regarde le créneau de mercredi et conclut : « Vous n’avez pas encore choisi de projet, alors ? » Nassim répond qu’il y a une proposition mais qu’ils doivent vérifier si elle tient. C’est exact. Owen entend quand même leur projet commencer à lui échapper, résumé en une question de cases disponibles.\n\nSur la feuille, la dernière aiguille est intacte. Il s’en sert pour montrer l’heure qu’il avait dessinée. « On a une histoire », dit-il. La suite prend du temps. Il finit par demander de traiter le créneau maintenant et de réserver un moment où il pourra montrer les trois images avant les questions. M. Vasseur regarde de nouveau sa montre. La sonnerie ne lui laisse pas soudain davantage de minutes.",
       "sections": [
@@ -82,18 +84,20 @@
       "continuity": {
         "choice": "Owen sépare la réservation de l’explication artistique et propose trois croquis séparés à montrer avant les questions.",
         "next": "Le préau est réservé provisoirement jusqu’à la pause du lendemain. Owen apporte ses trois bandes découpées et M. Vasseur a noté l’ordre de parole convenu."
-      }
+      },
+      "clinical_focus": "Pression temporelle et bégaiement",
+      "clinical_intro": "Owen bute sur « sac » pendant qu’il reste huit minutes à la réunion. M. Vasseur regarde sa montre et cherche à savoir si le groupe a pris une décision. La pression pour parler peut modifier le bégaiement et la façon dont le silence est interprété. Séparer la réservation et la présentation redonne à Owen du temps pour une idée qu’il avait préparée."
     },
     {
       "number": 3,
       "slug": "owen-trois-bandes-sur-la-table",
-      "title": "Présenter son film autrement pour garder son tour",
-      "description": "Owen présente son histoire avec trois bandes dessinées et propose au club un essai qui permettra de comparer deux versions.",
+      "title": "Garder sa place dans une discussion malgré un blocage",
+      "description": "Owen montre trois croquis quand sa phrase s’arrête sur « poignée ». Le groupe peut suivre sa proposition et attendre la suite.",
       "context": "changer de support lors de la réunion et conserver la possibilité de parler",
       "topics": [
         "Support visuel",
-        "Choix de sa façon de parler",
-        "Tour de parole"
+        "Tour de parole",
+        "Bégaiement"
       ],
       "opening": "À midi, Owen renonce à tenir les dessins debout : le premier se replie aussitôt vers le radiateur. Il écarte le pot à crayons de M. Vasseur et pose les trois bandes à plat. Les trois bandes reprennent la même minute. Au premier essai, Lucile lui avait fait redessiner le banc pour qu’on reconnaisse la latte mouillée sur les trois. Sur la première bande, une voyageuse met le sac au sec, persuadée que quelqu’un l’a oublié. Sur la deuxième, celui qui l’a posé revient de l’autre côté de l’abri. Il ne voit plus le ruban jaune et passe devant son propre sac. Sur la troisième, quelqu’un qui nettoie l’abri a retourné la poignée, parce que le ruban trempait dans l’eau.\n\nNassim pose un index sur la bande du milieu. « Comment on sait que c’est le même ? » Il retire le doigt avant qu’Owen réponde. M. Vasseur dit qu’ils prennent d’abord le temps de regarder la troisième. Owen fait pivoter le dernier dessin pour le mettre dans le bon sens devant eux. Sa phrase s’arrête sur « poignée » ; cette fois, personne ne prend le mot. Il appuie un doigt sur le nœud et précise que le sac n’a pas changé, seulement ce qu’on en voit.\n\nQuand vient le tour des questions, Nassim soutient qu’un seul récit pourrait expliquer ça en trente secondes. Il n’a pas tort sur le temps : ils n’ont toujours qu’un mercredi pour l’essai. Owen peut dessiner une flèche de plus et ne convaincre personne. Il ramasse les bandes par les extrémités et propose de mettre cette différence dans le film plutôt que de la trancher sur la table.",
       "sections": [
@@ -119,18 +123,20 @@
       "continuity": {
         "choice": "Owen montre sa proposition sur trois bandes, précise lui-même le rôle du ruban et propose de comparer deux bandes-son sur les mêmes images.",
         "next": "Mercredi est confirmé pour un essai au banc, sous réserve des autorisations gérées par M. Vasseur. Owen envisage de prêter sa voix, sans avoir encore choisi de passage."
-      }
+      },
+      "clinical_focus": "Participation malgré le blocage",
+      "clinical_intro": "Quand la phrase d’Owen s’arrête sur « poignée », ses trois dessins restent lisibles et ses camarades attendent. Le bégaiement continue de se faire entendre, mais le groupe peut suivre ce qu’il essaie d’expliquer et lui laisser la suite de la phrase. Une personne qui bégaie peut s’appuyer sur un schéma ou sur l’écrit pour participer à une réunion tout en gardant la possibilité de parler."
     },
     {
       "number": 4,
       "slug": "owen-ce-quon-peut-deplacer",
-      "title": "Choisir son objectif en orthophonie",
-      "description": "Chez son orthophoniste, Owen raconte une réunion qui l’a contrarié et choisit de demander un rôle dans la bande-son.",
+      "title": "En orthophonie, parler aussi de ce qu’on redoute",
+      "description": "Owen parle à son orthophoniste d’une réunion qu’il aurait pu laisser à Lucile. Il choisit un rôle qu’il veut essayer au micro.",
       "context": "discuter avec l’orthophoniste d’un objectif choisi dans le quotidien",
       "topics": [
-        "Orthophonie",
-        "Choix de sa façon de parler",
-        "Anticipation du jugement"
+        "Objectif orthophonique",
+        "Crainte du jugement",
+        "Participation choisie"
       ],
       "opening": "Chez Mme Roussel, l’orthophoniste qu’il voit depuis avant la terminale, Owen retire un bouchon d’objectif de la poche où il cherchait un mouchoir. Il le pose au bord du bureau. Elle lui demande si c’est à lui. « À Nassim. Si je le perds, il va dire que les bouchons devraient avoir un générique. » Il a dit ça d’une traite. Au rendez-vous précédent, le nom du lycée avait pris assez de temps pour qu’il se rappelle jusqu’à la couleur de la brique du bâtiment. Il ne sait pas ce qui sera facile à dire en repartant aujourd’hui.\n\nMme Roussel lui demande ce qu’il a envie d’aborder. Owen lui raconte les deux réunions, les huit minutes puis les trois bandes. Il reconnaît qu’il avait aussi envisagé de laisser Lucile tout présenter. Ça aurait réglé le problème du créneau. Il ne savait pas comment elle aurait parlé de la poignée, et il voulait répondre à la question de Nassim. Sur ce point-là, le deuxième rendez-vous lui a plu, même si le mot a coincé à nouveau.\n\nDemain, ils auront un micro. Owen voudrait lire les deux phrases de la personne qui nettoie le terminus. Il a déjà trouvé la manière dont elle s’agace qu’on fasse toute une histoire d’un ruban mouillé. Il n’a rien dit à Nassim : si le groupe se met à mesurer combien de prises il faut à chacun, il risque de regretter d’avoir proposé sa voix. Mme Roussel lui demande ce qui lui donnerait envie de rester derrière le micro. Owen retourne le bouchon sur le bureau. Côté creux, il tient mieux.",
       "sections": [
@@ -156,20 +162,22 @@
       "continuity": {
         "choice": "Owen utilise le rendez-vous pour distinguer ce qu’il veut faire au micro de ce qu’on pourrait attendre de sa parole. Il demande par message d’essayer la troisième voix.",
         "next": "Nassim n’a pas garanti que cette voix restera. Le club a un essai à préparer et Owen doit lui rendre son bouchon d’objectif."
-      }
+      },
+      "clinical_focus": "Appréhension de prendre la parole",
+      "clinical_intro": "Owen plaisante facilement au cabinet et raconte qu’au lycée il avait envisagé de laisser Lucile tout présenter. Ce qu’il redoute au micro, c’est que les autres se mettent à compter ses prises. En orthophonie, le retentissement du bégaiement peut se discuter à partir de ces choix et de ces appréhensions. Owen s’en sert pour formuler ce qu’il veut essayer dans le club."
     },
     {
       "number": 5,
       "slug": "owen-le-bruit-dans-la-cour",
-      "title": "Être écouté pour son idée pendant un essai",
-      "description": "Un banc, un sac et le bruit d’une grille suffisent à l’essai. Owen demande au club de comparer les histoires qu’il a entendues.",
+      "title": "Écouter le contenu d’une parole qui bégaie",
+      "description": "Malgré une réplique préparée, Owen s’arrête sur un mot. À la réécoute, Lina réagit à ce qu’elle a compris de l’histoire.",
       "context": "faire un retour sur la narration et décider ensemble combien de voix garder",
       "topics": [
-        "Se sentir écouté",
-        "Retour sur ce qu’on a compris",
-        "Décision en groupe"
+        "Blocage sur un texte préparé",
+        "Réaction de l’interlocuteur",
+        "Qualité de la communication"
       ],
-      "opening": "Mercredi, Nassim attache à sa sangle le bouchon qu’Owen lui rend. Il n’a plus une main libre quand Lina lui demande de tenir le pied de la caméra. Ils sont sous le préau, avec un banc de l’ancienne cantine pour jouer le terminus. La latte censée être mouillée est aussi mate que les autres. Lucile y laisse tomber un peu d’eau de sa gourde et découvre que le bois brille comme une vitre. Au même moment, derrière la porte de service, quelqu’un fait rouler un bac en métal. Ça ressemble assez au bus qu’Owen n’avait pas les moyens de filmer.\n\nM. Vasseur a vérifié avec eux les autorisations pour l’atelier, y compris pour enregistrer les voix ; l’essai restera dans le club. Une fois les images du banc tournées, ils font les voix dans une salle plus calme. Le bruit du bac, ils décident de le refaire eux-mêmes avec une grille que le professeur a trouvée, plutôt que de garder ce qui a été capté dans le préau. Nassim raconte d’abord seul l’histoire en entier. Pour l’autre version, Lucile prend la voyageuse, Nassim celui qui a posé le sac et Owen la personne qui nettoie. Owen doit reprendre la première phrase quand quelqu’un laisse tomber la grille derrière lui. La deuxième fois, il s’arrête encore sur « retourné », cette fois dans le calme. Il va au bout du texte.\n\nLina regarde les deux essais sur l’ordinateur. Après le premier, elle sait pourquoi le nœud a disparu. Après le second, elle demande si celui qui a posé le sac avait peur de se tromper. Owen avait cru que tout le monde s’intéresserait au ruban. Il note la question de Lina à l’envers d’une bande.",
+      "opening": "Mercredi, Nassim attache à sa sangle le bouchon qu’Owen lui rend. Il n’a plus une main libre quand Lina lui demande de tenir le pied de la caméra. Ils sont sous le préau, avec un banc de l’ancienne cantine pour jouer le terminus. La latte censée être mouillée est aussi mate que les autres. Lucile y laisse tomber un peu d’eau de sa gourde et découvre que le bois brille comme une vitre. Au même moment, derrière la porte de service, quelqu’un fait rouler un bac en métal. Ça ressemble assez au bus qu’Owen n’avait pas les moyens de filmer.\n\nM. Vasseur a vérifié avec eux les autorisations pour l’atelier, y compris pour enregistrer les voix ; l’essai restera dans le club. Une fois les images du banc tournées, ils font les voix dans une salle plus calme. Le bruit du bac, ils décident de le refaire eux-mêmes avec une grille que le professeur a trouvée, plutôt que de garder ce qui a été capté dans le préau. Nassim raconte d’abord seul l’histoire en entier. Pour l’autre version, Lucile prend la voyageuse, Nassim celui qui a posé le sac et Owen la personne qui nettoie. Owen doit reprendre la première phrase quand quelqu’un laisse tomber la grille derrière lui. La deuxième fois, il s’arrête encore sur « retourné », cette fois dans le calme. Il va au bout du texte. En posant le papier, il se demande si les autres vont reparler de ce mot ou de la colère qu’il a voulu donner à la fin.\n\nLina regarde les deux essais sur l’ordinateur. Après le premier, elle sait pourquoi le nœud a disparu. Après le second, elle demande si celui qui a posé le sac avait peur de se tromper. Owen avait cru que tout le monde s’intéresserait au ruban. Il note la question de Lina à l’envers d’une bande.",
       "sections": [
         {
           "heading": "Ce que l’auditeur a compris",
@@ -194,18 +202,20 @@
       "continuity": {
         "choice": "Owen propose la comparaison sur les mêmes images ; le club adopte les trois voix et garde un seul banc et le plan fixe comme contraintes.",
         "next": "Les essais restent au club. Le groupe prépare les voix pour le film et les bruitages qu’il enregistre lui-même. Owen veut rejouer les deux phrases de la troisième personne."
-      }
+      },
+      "clinical_focus": "Écoute du contenu",
+      "clinical_intro": "Dans une pièce calme, Owen s’arrête sur « retourné », puis va au bout de la réplique. Lina écoute et pose une question sur la peur d’un personnage. La préparation et le calme peuvent faciliter un échange, et un blocage peut encore survenir. Le retour de Lina lui permet de savoir ce qui a été transmis à travers sa façon de jouer."
     },
     {
       "number": 6,
       "slug": "owen-le-voyant-rouge",
-      "title": "Choisir ce qu’on garde de sa voix au micro",
-      "description": "Au micro, Owen choisit la prise qui donne le ton juste à son personnage et précise ce que le club peut en faire.",
+      "title": "Pourquoi deux prises de la même phrase peuvent sonner différemment",
+      "description": "Owen dit une même phrase avec deux rythmes différents. Il choisit la prise qui sert le ton de son personnage.",
       "context": "choisir des prises pour leur jeu et fixer les limites de leur utilisation",
       "topics": [
-        "Pression du temps",
-        "Choix de sa façon de parler",
-        "Limites de partage"
+        "Blocage de parole",
+        "Pression à parler",
+        "Écoute de sa voix"
       ],
       "opening": "Dans la salle de musique, Nassim a posé le micro sur un dictionnaire pour l’orienter vers la chaise. Owen trouve étrange de parler du terminus devant un rideau violet. Lucile vient d’enregistrer la voyageuse, avec une impatience qu’elle n’avait pas le jour de l’essai. Elle demande à garder sa deuxième prise. Sur la fiche des fichiers, ils ont écrit « travail du club » tout en haut. Ils discuteront des projections quand ils auront vu un montage ; pour le moment, personne ne sait ce que donnera le raccord avec le ruban.\n\nOwen a les deux phrases sur un papier : « J’ai retourné la poignée. Le ruban trempait. » La première fois, il les dit facilement mais entend en retour le ton de quelqu’un qui s’excuse. La deuxième, il recommence le début de « poignée » et le mot tarde à sortir. Nassim dit : « Respire, il reste de la place. » Owen baisse le papier. « Dis-moi juste combien de temps on a. » Nassim vérifie l’heure. Il reste huit minutes dans la salle, assez pour écouter au moins les prises. La dernière phrase d’Owen est sortie si sèche qu’elle fait rire Lucile : dans le film, quelqu’un travaille pendant que les deux autres font du sac une affaire énorme.\n\nÀ la réécoute, Owen reconnaît le moment où il cherchait encore à garder la phrase. Il ne voudrait pas qu’on en tire dix secondes pour illustrer son bégaiement. Il ne voudrait pas non plus perdre la façon dont il dit « trempait ». Il rapproche la fiche pour lire le numéro que Nassim a donné à cette prise.",
       "sections": [
@@ -232,18 +242,20 @@
       "continuity": {
         "choice": "Owen retient la prise 2 pour tester le raccord, garde temporairement la 1 au club et demande d’effacer l’essai de micro qui a capté une conversation.",
         "next": "L’équipe travaille sur les fichiers internes. Alma a demandé un extrait pour annoncer la soirée ; personne n’a donné son accord à cet usage."
-      }
+      },
+      "clinical_focus": "Variabilité de la fluence",
+      "clinical_intro": "La première prise sort facilement et Owen s’y entend presque s’excuser. Dans la seconde, il reprend le début de « poignée », puis trouve le ton qui l’intéresse. Le bégaiement peut varier d’un essai à l’autre, y compris sur le même texte. Ce que le groupe peut régler, c’est le temps à prévoir et le type de retour à donner sur la prise."
     },
     {
       "number": 7,
       "slug": "owen-le-bout-dessai",
-      "title": "Fixer une limite quand on demande un extrait",
-      "description": "Alma cherche un extrait pour annoncer la soirée du lycée. Owen refuse cet usage de sa voix et propose une image du film.",
+      "title": "Choisir à qui parler de son bégaiement",
+      "description": "Owen refuse un extrait de sa voix sur le compte du lycée. Il peut préciser cet accord sans raconter son suivi.",
       "context": "répondre à une demande de diffusion sans devoir expliquer son bégaiement",
       "topics": [
-        "Limites de partage",
         "Vie privée",
-        "Prendre le temps de décider"
+        "Anticipation du regard",
+        "Consentement à la diffusion"
       ],
       "opening": "Dans le foyer, Alma coupe les annonces de la soirée au massicot. Chaque affiche doit pouvoir tenir entre le menu de la cantine et le rappel de la collecte de piles. Owen a apporté son ordinateur pour lui montrer l’image qu’il voit en ouvrant le film : le sac contre le dossier du banc, avec assez de place à droite pour écrire le titre. Alma a une autre idée. Sur le compte du lycée, les clubs présentent leur projet avec une courte vidéo. Elle voudrait l’extrait où l’on comprend l’histoire du ruban. Sur sa feuille de découpe, elle a déjà tracé une case pour le lien.\n\nOwen connaît Alma de vue. Elle ne sait rien de ses rendez-vous avec Mme Roussel et elle ne lui a rien demandé sur sa parole. Il prend pourtant une seconde pour vérifier que le son de l’ordinateur est coupé. Dans sa tête, l’extrait existe déjà hors du film, coincé entre deux annonces, sans la voyageuse ni celui qui cherche. Même s’il l’avait dit d’une traite, ce bout de phrase ne lui dirait pas grand-chose de l’histoire qu’ils ont choisie.\n\n« Pour le compte, je ne veux pas qu’on envoie ma voix », dit-il. Le mot « compte » lui prend plus de temps qu’il ne l’avait prévu. Alma retire la feuille du massicot pour la poser devant eux. Elle demande s’il veut dire qu’il ne souhaite pas non plus passer le film pendant la soirée. Owen met un doigt dans la case du lien. Il n’a pas encore répondu à cette deuxième question.",
       "sections": [
@@ -269,20 +281,22 @@
       "continuity": {
         "choice": "Owen refuse sa voix dans une annonce en ligne, propose un visuel sans personne et reporte le choix de la projection au montage complet.",
         "next": "Alma réserve un créneau à titre provisoire et attend le visuel validé. Le groupe doit regarder le film entier avant de donner ses accords pour la salle."
-      }
+      },
+      "clinical_focus": "Divulgation choisie du bégaiement",
+      "clinical_intro": "Face à une demande d’extrait, Owen imagine sa phrase isolée entre deux annonces. Il préfère que le club propose une image. Quand une personne bégaie, elle peut choisir de parler de son bégaiement à certains interlocuteurs et d’en garder les détails privés ailleurs. Owen peut prendre le temps de fixer une limite à l’usage de sa voix, quelle que soit la raison qu’il souhaite donner."
     },
     {
       "number": 8,
       "slug": "owen-un-carre-de-silence",
-      "title": "Reprendre la main sur le montage de sa voix",
-      "description": "En montant le raccord du ruban, Owen récupère une pause que Nassim avait coupée et trouve ailleurs la coupe qu’il cherchait.",
+      "title": "Choisir comment le montage fait entendre un blocage",
+      "description": "Owen ne reconnaît plus le ton de sa réplique après la coupe d’un blocage. Il rétablit la prise et gagne du temps ailleurs.",
       "context": "faire la différence entre couper pour le film et couper pour effacer un blocage",
       "topics": [
-        "Montage sonore",
-        "Maîtrise de sa voix enregistrée",
-        "Limites de partage"
+        "Rythme du bégaiement",
+        "Image de soi",
+        "Contrôle de l’enregistrement"
       ],
-      "opening": "Sur l’écran de la salle informatique, le ruban apparaît un instant. Dans le casque, la voix d’Owen saute au milieu d’un mot. Nassim revient de cinq secondes pour lui faire entendre le raccord. Il avait préparé la veille une version de travail pour qu’ils puissent enfin voir les trois passages à la suite. Il a raccourci plusieurs silences pour rattraper l’image, dont un au milieu de la phrase d’Owen. À l’écoute, « poignée » arrive si brusquement qu’Owen ne reconnaît pas sa façon de se moquer de toute cette histoire. Nassim montre le petit carré vide qu’il avait trouvé dans la prise. Sur l’écran, il ressemble à une place que personne ne réclame.\n\nOwen revient à la prise entière. Dans le son d’origine, le début du mot revient, puis le ruban apparaît un peu avant la fin de la phrase. Il regarde trois fois cette arrivée du jaune. En gardant le temps de la voix, on voit la poignée du bon côté avant de comprendre que quelqu’un l’a retournée. Owen demande à Nassim de remettre le passage. Nassim s’inquiète pour la durée et pointe, deux secondes plus loin, le début du bruit de grille. Ils ont promis une histoire courte, et la fermeture du bus était censée arriver pile à cet endroit.\n\nOwen avait défendu ce bruit dès le premier dessin. Il le déplace avec la souris jusqu’à l’endroit où le sac sort du cadre. Le bus semble maintenant partir sans qu’on l’ait vu arriver. Il doit reconnaître que ça lui plaît davantage.",
+      "opening": "Sur l’écran de la salle informatique, le ruban apparaît un instant. Dans le casque, la voix d’Owen saute au milieu d’un mot. Nassim revient de cinq secondes pour lui faire entendre le raccord. Il avait préparé la veille une version de travail pour qu’ils puissent enfin voir les trois passages à la suite. Il a raccourci plusieurs silences pour rattraper l’image, dont un au milieu de la phrase d’Owen. À l’écoute, « poignée » arrive si brusquement qu’Owen ne reconnaît pas sa façon de se moquer de toute cette histoire. Nassim montre le petit carré vide qu’il avait trouvé dans la prise. Sur l’écran, il ressemble à une place que personne ne réclame. Owen est contrarié d’entendre son mot raccourci. C’est pendant cette pause qu’il se préparait à finir sa phrase.\n\nOwen revient à la prise entière. Dans le son d’origine, le début du mot revient, puis le ruban apparaît un peu avant la fin de la phrase. Il regarde trois fois cette arrivée du jaune. En gardant le temps de la voix, on voit la poignée du bon côté avant de comprendre que quelqu’un l’a retournée. Owen demande à Nassim de remettre le passage. Nassim s’inquiète pour la durée et pointe, deux secondes plus loin, le début du bruit de grille. Ils ont promis une histoire courte, et la fermeture du bus était censée arriver pile à cet endroit.\n\nOwen avait défendu ce bruit dès le premier dessin. Il le déplace avec la souris jusqu’à l’endroit où le sac sort du cadre. Le bus semble maintenant partir sans qu’on l’ait vu arriver. Il doit reconnaître que ça lui plaît davantage.",
       "sections": [
         {
           "heading": "La fluence n’est pas une règle de montage",
@@ -306,18 +320,20 @@
       "continuity": {
         "choice": "Owen restaure la phrase dans la prise 2, coupe l’attente après la dernière réplique et déplace le bruit du bus pour garder le raccord.",
         "next": "Les voix sont vérifiées pour une projection de travail avec le club et M. Vasseur seulement. Il reste à vérifier la compréhension du ruban et à décider des usages publics."
-      }
+      },
+      "clinical_focus": "Représentation de sa propre parole",
+      "clinical_intro": "Une coupe efface le début repris d’un mot et change le ton de la réplique d’Owen. Il écoute la prise entière et trouve que le rythme sert mieux la scène. Les interruptions audibles font partie de la parole qu’il entend au casque. Il peut choisir ce que le montage garde selon son intention artistique et selon ce qu’il accepte de faire entendre."
     },
     {
       "number": 9,
       "slug": "owen-la-table-de-quatre",
-      "title": "Répondre aux retours quand la parole accroche",
-      "description": "À la projection de travail, le ruban échappe encore au professeur. Owen propose de revoir l’image et choisit une scène à présenter.",
+      "title": "Pourquoi le bégaiement varie d’un échange à l’autre",
+      "description": "Owen raconte le raccord à Nassim dans le couloir, puis bloque devant le club. Il montre l’image le temps de reprendre sa phrase.",
       "context": "recevoir un retour sur le film et choisir une part précise de la présentation",
       "topics": [
-        "Variations du bégaiement",
-        "Se sentir écouté",
-        "Choix de sa façon de parler"
+        "Variabilité en groupe",
+        "Appui visuel",
+        "Prise de parole choisie"
       ],
       "opening": "Lina descend quatre chaises posées à l’envers sur une table dans la salle du club et en ajoute une pour M. Vasseur. Elles se retrouvent si près du mur que l’ombre de Nassim passe sur le titre quand il s’assoit. Owen demande de déplacer la table. Depuis la veille, le ruban lui paraît aussi visible qu’un panneau jaune. Sur le mur, au bout de la deuxième version de la minute, il n’est plus qu’un petit trait que la lumière de la fenêtre mange. Owen n’avait vérifié le raccord qu’à vingt centimètres de l’écran, le casque sur les oreilles.\n\nQuand le film se termine, M. Vasseur demande à qui appartient le sac. Il a pris le geste de la voyageuse pour celui de quelqu’un qui retrouvait son propre sac. Owen s’apprête à expliquer l’ordre des gestes. À côté de lui, Lina remonte déjà au premier plan. Il a raconté sans mal tout le raccord à Nassim dans le couloir, cinq minutes plus tôt ; ici, le début de la réponse ne sort pas. Il montre le ruban à l’écran en attendant de reprendre. M. Vasseur rapproche une chaise, demande s’ils peuvent revoir ce plan et reste assis pendant qu’Owen finit de lui dire où regarder.\n\nAu deuxième passage, même Owen trouve le détail difficile à voir. Il pourrait écrire une phrase de plus pour l’expliquer, mais il avait promis à Nassim de garder l’histoire courte. Lucile lui demande ce qu’il changerait s’il ne pouvait rien ajouter à la bande-son. Cette question l’intéresse plus que de savoir pourquoi il a buté tout à l’heure.",
       "sections": [
@@ -343,20 +359,22 @@
       "continuity": {
         "choice": "Owen propose un raccord d’image plutôt qu’une réplique explicative et choisit de présenter la scène de la poignée si la projection est autorisée.",
         "next": "Le club doit vérifier le nouveau montage. Les accords pour la soirée restent à recueillir et la répartition de l’introduction est esquissée, sans prise de parole imposée."
-      }
+      },
+      "clinical_focus": "Bégaiement selon l’interlocuteur",
+      "clinical_intro": "Owen explique le raccord à Nassim, puis bloque au début de la même explication devant plusieurs personnes. Le bégaiement varie avec les situations et le vécu de l’échange. La facilité de la première conversation n’indique pas la quantité d’effort que la suivante demandera. Quand Owen pointe l’image, le professeur garde la question ouverte et peut ensuite entendre sa réponse."
     },
     {
       "number": 10,
       "slug": "owen-deux-cases-sur-une-feuille",
-      "title": "Dire à sa famille ce qu’on accepte de montrer",
-      "description": "Owen montre le film à sa mère. Il choisit une projection au lycée et précise qu’il ne souhaite ni extrait ni enregistrement de sa présentation.",
+      "title": "Faire entendre sa voix et choisir qui peut l’enregistrer",
+      "description": "Owen accepte la projection au lycée et demande à sa mère de ne pas enregistrer son intervention. Les deux décisions se discutent séparément.",
       "context": "distinguer l’accord pour une projection, les usages en ligne et la parole dans la salle",
       "topics": [
-        "Limites de partage",
-        "Exprimer un refus en famille",
-        "Présence d’un proche"
+        "Bégaiement",
+        "Vie privée en famille",
+        "Consentement à l’enregistrement"
       ],
-      "opening": "La mère d’Owen a écarté le dessous de plat pour qu’il puisse mettre l’ordinateur entre eux. Owen lui montre la version que le club a préparée pour les responsables légaux, avant les accords pour la soirée. Il a branché le casque pour qu’elle entende le départ du bus comme il faut. Pendant que le film tourne, il remet une chaise à sa place, puis une autre, sans raison particulière. Quand sa mère retire le casque, elle demande si le sac de la vidéo est celui qu’il y avait chez eux avant leur déménagement. Owen répond que non, et que la scène qu’il veut lui montrer une seconde fois est celle de la poignée.\n\nIl débranche le casque pour qu’ils puissent écouter le deuxième passage ensemble. Le plan allongé est le bon. Le jaune reste à l’écran le temps de voir le nœud passer de l’autre côté. Owen entend son blocage et la dernière phrase, telle qu’il l’a choisie. Il regarde surtout sa mère comprendre le geste. Sur la feuille du lycée, il lui montre la ligne pour la séance et celle pour les usages en ligne. Sa mère prend un stylo, puis attend qu’il lui dise ce qu’il veut. Elle avait l’intention de venir. Elle demande si elle pourra filmer son introduction pour le frère d’Owen, qui travaille ce soir-là.\n\nOwen connaît la différence entre la caméra d’un proche et le compte d’un établissement. Pourtant, il pense aussitôt au petit morceau de phrase séparé du reste. « J’aimerais que tu regardes sur place », répond-il. Il doit chercher un moment comment ajouter qu’il ne veut pas qu’elle filme. Quand il l’a dit, elle remet le capuchon au stylo et lui demande s’il veut quand même qu’elle vienne.",
+      "opening": "La mère d’Owen a écarté le dessous de plat pour qu’il puisse mettre l’ordinateur entre eux. Owen lui montre la version que le club a préparée pour les responsables légaux, avant les accords pour la soirée. Il a branché le casque pour qu’elle entende le départ du bus comme il faut. Pendant que le film tourne, il remet une chaise à sa place, puis une autre, sans raison particulière. Quand sa mère retire le casque, elle demande si le sac de la vidéo est celui qu’il y avait chez eux avant leur déménagement. Owen répond que non, et que la scène qu’il veut lui montrer une seconde fois est celle de la poignée.\n\nIl débranche le casque pour qu’ils puissent écouter le deuxième passage ensemble. Le plan allongé est le bon. Le jaune reste à l’écran le temps de voir le nœud passer de l’autre côté. Owen entend son blocage et la dernière phrase, telle qu’il l’a choisie. Il regarde surtout sa mère comprendre le geste. L’idée qu’un extrait circule seul le rend plus hésitant que cette écoute avec elle. Sur la feuille du lycée, il lui montre la ligne pour la séance et celle pour les usages en ligne. Sa mère prend un stylo, puis attend qu’il lui dise ce qu’il veut. Elle avait l’intention de venir. Elle demande si elle pourra filmer son introduction pour le frère d’Owen, qui travaille ce soir-là.\n\nOwen connaît la différence entre la caméra d’un proche et le compte d’un établissement. Pourtant, il pense aussitôt au petit morceau de phrase séparé du reste. « J’aimerais que tu regardes sur place », répond-il. Il doit chercher un moment comment ajouter qu’il ne veut pas qu’elle filme. Quand il l’a dit, elle remet le capuchon au stylo et lui demande s’il veut quand même qu’elle vienne.",
       "sections": [
         {
           "heading": "Accepter un usage et en refuser un autre",
@@ -380,18 +398,20 @@
       "continuity": {
         "choice": "Owen et sa mère donnent leur accord pour la séance prévue, sans mise en ligne, et Owen lui demande de ne pas filmer son introduction.",
         "next": "M. Vasseur confirme les accords pour la séance et Alma a un visuel sans extrait. Owen et Lucile préparent la répartition de l’introduction et le rappel dans la salle."
-      }
+      },
+      "clinical_focus": "Contrôle de la divulgation",
+      "clinical_intro": "Owen entend son blocage dans le film et voit que sa mère comprend enfin le geste à l’écran. Il souhaite qu’elle assiste à la séance et lui demande de ne pas filmer sa présentation. Pour quelqu’un qui bégaie, prendre la parole devant un public et autoriser un enregistrement touchent à des choix différents. Owen garde la possibilité d’en parler sans expliquer son suivi."
     },
     {
       "number": 11,
       "slug": "owen-trois-minutes-de-rab",
-      "title": "Partager la parole quand l’horaire se resserre",
-      "description": "Le programme de la soirée se resserre. Owen et Lucile s’accordent sur un passage bref et sur un signal qu’Owen choisira d’utiliser.",
+      "title": "Reconnaître un blocage silencieux dans le tour de parole",
+      "description": "Le temps est compté avant la projection. Owen et Lucile s’accordent sur un signal pour distinguer une pause d’une demande de relais.",
       "context": "organiser une présentation sous contrainte sans assimiler une pause à une demande de relais",
       "topics": [
-        "Pression du temps",
-        "Tour de parole",
-        "Relais à la demande"
+        "Pression temporelle",
+        "Respect du tour de parole",
+        "Relais au signal"
       ],
       "opening": "Le jour de la soirée, la salle a un rideau qu’on ne peut tirer jusqu’au bout. Lina a trouvé une pince dans la réserve pour empêcher le tissu de passer devant l’image. Au mur, le ruban jaune se voit mieux que dans la salle du club. Owen s’apprête à demander s’ils peuvent essayer le début du film sans son, quand Alma monte sur l’estrade. Elle tient un programme où deux horaires sont entourés. Une installation a pris du retard ; pour que les familles puissent repartir à l’heure, il reste trois minutes pour présenter le film et prendre les questions après. Lucile avait préparé une introduction qui en prenait déjà presque deux.\n\nAlma propose qu’une seule personne parle et qu’ils gardent une minute pour la salle. Owen croit d’abord qu’elle a entendu sa prise dans le film et qu’elle ne pense pas qu’il puisse tenir le temps. Elle montre son programme : elle a demandé la même chose au club de théâtre. Owen essaie de répondre, mais c’est le moment où Nassim lance le bruit du bus. Il attend la fin du grincement pour reprendre. « Je veux toujours présenter la poignée. On peut enlever le résumé. » Lucile replie sa feuille de texte. Elle avait mis du temps à l’écrire et ne la jette pas.\n\nElle lui demande si elle doit prendre la suite au premier silence pour assurer l’horaire. Owen pose sur la table une carte où il avait noté « le sac / le nœud ». Le dos est blanc. Il la retourne pour lui montrer ce qu’il aimerait qu’elle attende.",
       "sections": [
@@ -417,18 +437,20 @@
       "continuity": {
         "choice": "Owen maintient son choix de présenter la poignée avec un texte court et convient que Lucile ne prendra le relais qu’au signal de la carte retournée.",
         "next": "Alma annoncera la consigne de ne pas filmer. Le plan de la poignée est lisible sur le mur, Nassim est prêt à lancer le film et le public arrive."
-      }
+      },
+      "clinical_focus": "Blocage silencieux et relais choisi",
+      "clinical_intro": "Lucile hésite à poursuivre au premier silence parce que le programme est serré. Owen lui montre le signal qu’il veut utiliser. Dans le bégaiement, un blocage peut laisser un silence au milieu d’un propos, alors que la personne tient encore à sa phrase. Quand un relais a été convenu, un signe explicite permet de le déclencher au moment où Owen le souhaite."
     },
     {
       "number": 12,
       "slug": "owen-au-milieu-du-generique",
-      "title": "Prendre la parole à son rythme devant le public",
-      "description": "Le Sac rouge est projeté au lycée. Owen présente le raccord du ruban, répond à une question et repart avec une idée de son pour mercredi.",
+      "title": "Bégayer en public et faire passer le détail qui compte",
+      "description": "Le mot « ruban » accroche devant le public. Owen finit sa phrase et choisit ensuite une question sur son film.",
       "context": "poursuivre un projet et choisir quand prendre la parole après une première projection",
       "topics": [
-        "Tour de parole",
-        "Choix de sa façon de parler",
-        "Plaisir de participer"
+        "Parole en public",
+        "Persévérance dans l’échange",
+        "Choix de répondre"
       ],
       "opening": "Alma termine son rappel sur les téléphones et quitte l’estrade par le côté où la pince retient le rideau. Owen voit sa mère au troisième rang, les mains sur le programme. Lucile annonce le titre, puis rapproche la lampe. Owen commence à dire que la place du sac change moins qu’on ne croit. Au moment de dire « ruban », le début du mot se répète. La carte est devant lui, le dos blanc contre la table. Il la laisse où elle est. Lucile garde une main sur le bord du rideau. Owen finit par dire : « Regardez de quel côté se trouve le nœud. » Il fait signe à Nassim de lancer.\n\nAu deuxième passage de la minute, quelqu’un rit quand le personnage passe devant son propre sac. Owen n’avait jamais entendu ce rire pendant l’atelier. À la troisième voix, il reconnaît la reprise au début de « poignée » et, sur le mur, le jaune qui tient enfin une seconde de plus. Puis le bruit du bus arrive. Au milieu du générique, deux personnes au premier rang ne s’accordent toujours pas : l’une aurait juré que le sac était abandonné, l’autre dit qu’elle attendait depuis le début que son propriétaire le reprenne.\n\nQuand Alma rallume, un élève demande pourquoi ils montrent le banc trois fois alors que l’histoire est si courte. Lucile se tourne vers Owen sans approcher le micro. Il y a d’autres mains levées. Owen pousse le verre de côté pour avoir la place de poser ses deux bras sur la table. Il veut répondre à celle-là.",
       "sections": [
@@ -454,7 +476,9 @@
       "continuity": {
         "choice": "Owen présente la scène qu’il a choisie, termine sa phrase à son rythme et prend une question sur la forme du film. Le public entend les trois voix.",
         "next": "Le premier film a été montré pour la séance convenue. Le club peut se retrouver mercredi, et Owen a une nouvelle idée de son sans avoir arrêté son rôle ni la forme de sa prise de parole."
-      }
+      },
+      "clinical_focus": "Participation avec le bégaiement",
+      "clinical_intro": "Devant la salle, le début du mot « ruban » se répète. Owen prend le temps de finir la phrase qu’il avait choisie, puis répond à une question sur son film. On peut évaluer ce qu’une personne a pu dire, le rôle qu’elle a tenu et l’effort qu’elle a vécu. Ce regard sur la participation vaut aussi lors d’une réunion de travail ou d’un entretien."
     }
   ]
 }

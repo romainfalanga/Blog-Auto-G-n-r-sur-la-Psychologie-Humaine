@@ -1,23 +1,25 @@
 ---
-title: Le chantier avance et les inquiétudes pèsent encore sur les nuits
+title: Pourquoi les inquiétudes persistent quand le travail s’arrange
 description: Le local passe son essai et le médecin revoit le suivi d’Antonin. Une
   bonne nouvelle au travail ne fait pas disparaître les autres inquiétudes.
 slug: antonin-essai-porte-fermee
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Antonin
-sujet: Trouble anxieux généralisé
+sujet: Persistance des soucis dans plusieurs domaines
 contexte: À l’essai de la salle après les travaux, puis au rendez-vous de suivi
 tags:
+- Trouble anxieux généralisé
 - TAG
 - Anxiété généralisée
+- Inquiétudes persistantes
 - Sommeil perturbé
-- Inquiétudes hors du travail
-- Suivi dans le temps
+- Retentissement dans la durée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B00
+clinical_diagnosis: Trouble anxieux généralisé
 episode: 10
 ---
 

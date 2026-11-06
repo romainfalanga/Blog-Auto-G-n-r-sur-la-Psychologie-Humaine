@@ -1,24 +1,26 @@
 ---
-title: Perdre le fil d’une consigne au cabanon
-description: Une consigne trop longue fait perdre à Agathe l’ordre du tri. Elle dessine
-  ce que la prochaine classe devra pouvoir retrouver.
+title: Comprendre les mots et perdre l’ordre d’une consigne
+description: Agathe entend « panier du haut » mais perd l’ordre des actions et l’exception.
+  Un exemple concret lui permet de retrouver la première étape.
 slug: agathe-boite-bleue
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Agathe
-sujet: Trouble développemental du langage
+sujet: Compréhension des consignes complexes
 contexte: Fin mai, au cabanon du jardin scolaire. Le diagnostic d’Agathe est déjà
   établi ; elle est en CM2.
 tags:
+- Trouble développemental du langage
 - TDL
 - DLD (developmental language disorder)
-- Comprendre une consigne à plusieurs étapes
-- Demander un exemple
-- S’entendre sur un rangement
+- Langage réceptif
+- Charge langagière
+- Effort de clarification
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A01.2
+clinical_diagnosis: Trouble développemental du langage
 episode: 1
 ---
 

@@ -1,22 +1,24 @@
 ---
-title: Refaire la vérification en pensée jusqu’à manquer son arrêt
-description: Dans le tram, Noémie reprend chaque geste de fermeture des archives.
-  À la consultation, elle parle pour la première fois de ce rituel invisible.
+title: Rituels mentaux dans le tram quand Noémie refait le contrôle de mémoire
+description: Dans le tram, Noémie rejoue mentalement le contrôle aux archives. En
+  cherchant à lever son doute, elle perd le fil de son trajet.
 slug: noemie-rituel-sans-geste
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Noémie
-sujet: Trouble obsessionnel-compulsif
+sujet: Compulsion mentale
 contexte: Dans le tram du retour, puis au rendez-vous de suivi
 tags:
+- Trouble obsessionnel-compulsif
 - TOC
-- Rituel mental
-- Pensée intrusive
+- Compulsion mentale
+- Doute obsessionnel
 - Attention accaparée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B20
+clinical_diagnosis: Trouble obsessionnel-compulsif
 episode: 2
 ---
 

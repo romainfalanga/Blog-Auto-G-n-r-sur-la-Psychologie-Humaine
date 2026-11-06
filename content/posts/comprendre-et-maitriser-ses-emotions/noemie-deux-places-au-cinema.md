@@ -1,22 +1,24 @@
 ---
-title: Soutenir Noémie quand l’envie de vérifier revient
-description: En route pour le cinéma, Maud suit l’accord préparé en consultation.
-  Noémie choisit le type de présence qu’elle veut à ses côtés.
+title: Accompagner Noémie au cinéma quand elle cherche encore à être rassurée
+description: Sur le trajet du cinéma, Noémie demande à Maud une confirmation. Maud
+  lui offre sa présence en suivant leur accord préparé avec la clinicienne.
 slug: noemie-deux-places-au-cinema
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Noémie
-sujet: Trouble obsessionnel-compulsif
+sujet: Soutien face aux compulsions
 contexte: En route pour une séance de cinéma après un échange commun avec la clinicienne
 tags:
+- Trouble obsessionnel-compulsif
 - TOC
-- Inquiétude
 - Réassurance répétée
-- Soutien choisi
+- Anxiété liée au doute
+- Soutien convenu
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B20
+clinical_diagnosis: Trouble obsessionnel-compulsif
 episode: 6
 ---
 

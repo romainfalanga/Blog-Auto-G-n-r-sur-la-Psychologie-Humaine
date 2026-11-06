@@ -1,23 +1,24 @@
 ---
-title: Oser s’arrêter quand une étiquette laisse un doute
+title: Distinguer difficulté de lecture et information manquante sur une étiquette
 description: On propose à l’équipe un carton de biscuits en plus. Célian regarde les
   sachets avant de promettre une place sur la table.
 slug: celian-le-doute-sur-le-carton
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Célian
-sujet: Trouble développemental des apprentissages avec déficit en lecture
+sujet: Lecture des étiquettes et incertitude
 contexte: À l’épicerie près du gymnase, le mercredi des achats.
 tags:
+- Trouble développemental des apprentissages avec déficit en lecture
 - Dyslexie
 - Trouble développemental de la lecture
-- Gestion de l’incertitude
-- Confiance en soi
-- Précision de lecture
+- Incertitude face à une information
+- Vérification des sources
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.0
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en lecture
 episode: 8
 ---
 

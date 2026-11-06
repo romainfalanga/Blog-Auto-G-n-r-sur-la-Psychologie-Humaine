@@ -1,33 +1,35 @@
 ---
-title: S’excuser après un conflit au travail sans effacer le désaccord
-description: Mina et Rachid reprennent leur échange. Ils réparent une part du désaccord
-  et demandent à la coordination de clarifier la consigne.
+title: Réparer une parole impulsive quand le désaccord reste ouvert
+description: Mina s’excuse pour sa phrase dans la cour. Avec Rachid, elle distingue
+  l’effet des paroles du problème de livraison à résoudre.
 slug: mina-excuse-et-desaccord
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mina
-sujet: Trouble de la personnalité avec profil borderline
+sujet: Réparation après une réaction vive
 contexte: Sur les marches à côté du local
 tags:
+- Trouble de la personnalité avec profil borderline
 - Profil borderline
 - Trouble borderline
-- Réparation après un conflit
-- Désaccord qui reste ouvert
-- Responsabilités partagées
+- Parole impulsive
+- Réparation relationnelle
+- Tolérance du désaccord
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D10
+clinical_diagnosis: Trouble de la personnalité avec profil borderline
 episode: 5
 ---
 
 Rachid sort du local avec les deux fiches roulées dans la main. Ils ont convenu de se voir sur les marches après la dernière livraison. Il reste une trace de boue à l’endroit où le conducteur avait posé son bon. Mina s’assied plus haut pour qu’ils puissent étaler les documents entre eux. Elle a préparé la phrase qu’elle veut dire. Quand Rachid lui montre le logo différent en haut de sa fiche, elle est tentée de commencer par le document. Elle enfonce le coin du papier sous sa chaussure pour qu’il arrête de se soulever.
 
-« Je t’ai dit que tu ne lisais jamais rien. Ça dépassait ce qui s’est passé. Je te demande pardon. » Rachid l’écoute puis dit qu’il aurait pu lui montrer la feuille avant de dire devant les bénévoles qu’elle s’était trompée. Mina attend la phrase qui vient après. Il pense toujours que la consigne aurait dû être confirmée avant le passage du conducteur. Elle pense que deux documents envoyés par le festival auraient dû donner la même entrée.
+« Je t’ai dit que tu ne lisais jamais rien. Ça dépassait ce qui s’est passé. Je te demande pardon. » Rachid l’écoute puis dit qu’il aurait pu lui montrer la feuille avant de dire devant les bénévoles qu’elle s’était trompée. Mina attend la phrase qui vient après. Elle s’aperçoit qu’elle guette un signe que Rachid veut encore travailler avec elle. Depuis la dispute, cette question revient dès qu’elle pense à la cour. Elle regarde les fiches pour écouter ce qu’il lui dit de la livraison. Il pense toujours que la consigne aurait dû être confirmée avant le passage du conducteur. Elle pense que deux documents envoyés par le festival auraient dû donner la même entrée.
 
 Ils voient une bénévole passer avec trois chaises empilées. Elle leur demande si les tables seront de nouveau déplacées. Rachid lui dit que le dépôt est terminé et qu’ils vérifient la suite. Mina avait imaginé repartir avec un accord sur toute la dispute. Elle se rend compte qu’elle peut lui demander de signaler les deux consignes à la coordination. Pour le reste, il a déjà dit ce qu’il pense, et elle sait qu’elle a encore des choses à lui répondre.
 
-## Reconnaître une phrase et garder le désaccord à discuter
+## Réparer les effets d’une réponse impulsive
 
 Une réparation après un conflit peut commencer par une parole ou un geste précis que la personne souhaite reconnaître. Elle peut aussi laisser un désaccord ouvert. Dans la scène, Mina et Rachid nomment ce qu’ils ont fait dans la cour. Ils gardent chacun leur avis sur la manière dont la livraison aurait dû être préparée. Le trouble de Mina fait partie de ce dont elle peut parler au suivi. Les documents et les décisions de travail gardent leur place dans l’échange.
 

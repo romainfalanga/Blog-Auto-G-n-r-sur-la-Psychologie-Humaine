@@ -1,22 +1,24 @@
 ---
-title: Travailler sur sa peur pour retrouver le dessin au marché
+title: Travailler sur la peur et retrouver une activité évitée
 description: Avec la psychiatre, Jules discute d’une thérapie et choisit le dessin
   au marché comme premier sujet de travail.
 slug: jules-essai-convenu
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Jules
-sujet: Trouble panique
+sujet: Thérapie cognitivo-comportementale du trouble panique
 contexte: Au deuxième entretien avec la psychiatre, pour discuter de la prise en charge
 tags:
+- Trouble panique
 - Attaques de panique
-- Évitement d’activités qui comptent
-- Objectif de soin choisi
-- Thérapie cognitivo-comportementale
+- Évitement des activités
+- Peur des sensations
+- Objectifs de soin choisis
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B01
+clinical_diagnosis: Trouble panique
 episode: 5
 ---
 

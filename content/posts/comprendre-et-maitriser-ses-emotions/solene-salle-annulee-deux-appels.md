@@ -1,22 +1,24 @@
 ---
-title: Distinguer un contretemps des signes qui inquiètent
+title: Une remarque qui semble viser et une tristesse qui précède le contretemps
 description: Les Tilleuls ne sont plus disponibles pour la séance. Solène garde sa
   proposition de films et appelle aussi l’infirmière pour un autre sujet.
 slug: solene-salle-annulee-deux-appels
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Solène
-sujet: Trouble schizoaffectif
+sujet: Impression de référence
 contexte: Au dépôt, deux semaines après l’essai et avant la date publique pressentie
 tags:
+- Trouble schizoaffectif
 - Trouble schizo-affectif
-- Reconnaître ses signes
-- Demander de l’aide
-- Garder sa place au travail
+- Impression de référence
+- Tristesse persistante
+- Chronologie des symptômes
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A21
+clinical_diagnosis: Trouble schizoaffectif
 episode: 6
 ---
 

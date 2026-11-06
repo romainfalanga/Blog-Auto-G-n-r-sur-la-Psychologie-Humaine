@@ -1,23 +1,25 @@
 ---
-title: Garder des appuis après un projet réussi
+title: Dyslexie et besoins qui persistent après une réussite
 description: Le goûter est passé. Au moment de remettre les tickets, Célian revient
   sur les tâches qu’il voudrait garder ou transmettre.
 slug: celian-garder-les-appuis-qui-servent
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Célian
-sujet: Trouble développemental des apprentissages avec déficit en lecture
+sujet: Persistance des difficultés de lecture
 contexte: Après l’entraînement du mardi, dans le local du club.
 tags:
+- Trouble développemental des apprentissages avec déficit en lecture
 - Dyslexie
 - Trouble développemental de la lecture
+- Persistance des difficultés
+- Aménagement en formation
 - Autonomie
-- Confiance en soi
-- Effort de lecture
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.0
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en lecture
 episode: 12
 ---
 
@@ -27,7 +29,7 @@ Célian ouvre la feuille commune sur son téléphone. Il lit d’abord les trois
 
 Célian termine d’abord avec Nadia. Elle lui confirme qu’elle a ce qu’il faut pour rembourser les achats. Il répond à Aïcha : il aimerait garder la fiche à l’avance et trouver un repère quand une étape continue sur la page suivante. Puis il relève les yeux vers Yanis. La prochaine fois, il veut bien faire un gâteau s’il peut choisir une recette qui lui plaît. Pour décider du lieu et faire les inscriptions, il propose que deux autres personnes prennent leur tour. Il peut leur laisser la feuille et raconter pourquoi la dernière colonne s’appelle « reste au goûter ».
 
-## Un projet fini et des besoins qui peuvent rester
+## Ce qu’une réussite révèle sur les appuis qui ont servi
 
 Les difficultés de lecture peuvent persister à l’âge adulte et se manifester différemment selon les documents, le temps disponible et les aides. Célian a organisé le goûter et peut décrire les décisions qui l’ont rendu possible. Quelques jours après, il lui faut toujours de l’effort pour distinguer deux consignes dans un message. Ces faits peuvent coexister. Ils permettent de parler des aides dans des termes précis : ce qu’il a pu faire avec la fiche à l’avance, ce qu’il a dû chercher en cours et le temps qu’il y a passé. Une réussite ne suffit ni à conclure que le trouble a disparu, ni à décider de la suite d’un suivi.
 

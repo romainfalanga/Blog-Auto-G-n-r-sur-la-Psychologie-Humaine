@@ -1,23 +1,25 @@
 ---
-title: Adèle veut décider de ce que l’école saura sur ses repas
+title: Faire comprendre une restriction alimentaire sans exposer son dossier
 description: Eva veut joindre le nom du trouble à un message sur le voyage. Adèle
   décide ce qu’elle souhaite dire à sa professeure et à quel moment.
 slug: adele-la-ligne-a-effacer
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Adèle
-sujet: Trouble évitant ou restrictif de la prise alimentaire
+sujet: Stigmatisation de la restriction alimentaire
 contexte: À la maison, devant le brouillon d’un message
 tags:
+- Trouble évitant ou restrictif de la prise alimentaire
 - ARFID
 - Trouble de l’alimentation sélective et évitante
-- Sensibilité aux textures
-- Peur d’être mise à part
-- Choix de ce qu’on confie
+- Sensibilité aux textures alimentaires
+- Crainte d’être jugée
+- Confidentialité du diagnostic
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B83
+clinical_diagnosis: Trouble évitant ou restrictif de la prise alimentaire
 episode: 2
 ---
 

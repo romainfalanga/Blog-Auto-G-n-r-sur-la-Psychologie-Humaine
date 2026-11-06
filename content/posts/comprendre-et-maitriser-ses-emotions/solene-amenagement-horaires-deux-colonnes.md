@@ -1,33 +1,37 @@
 ---
-title: Poser ses limites pour reprendre le travail
+title: Reprendre son rôle au travail avec une énergie encore fragile
 description: Le seul créneau confirmé à la médiathèque est le soir. Solène propose
   une autre répartition du travail et un samedi en journée.
 slug: solene-amenagement-horaires-deux-colonnes
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Solène
-sujet: Trouble schizoaffectif
+sujet: Reprise après un arrêt
 contexte: À la réunion de reprise avec Mireille, après un échange avec la médecine
   du travail
 tags:
+- Trouble schizoaffectif
 - Trouble schizo-affectif
-- Garder sa place au travail
-- Écouter ses limites
-- Choisir ce qu’on partage
+- Reprise après un arrêt
+- Peur de perdre sa place
+- Aménagement du travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A21
+clinical_diagnosis: Trouble schizoaffectif
 episode: 9
 ---
 
 Mireille a ouvert le calendrier sur le jeudi où la médiathèque de la Rive peut les accueillir. La séance commencerait à dix-huit heures trente. La bénévole de l’accueil part avant la fin et personne n’a confirmé le démontage. Solène regarde le créneau sur l’écran. Avant son arrêt, elle travaillait déjà en journée. Elle a revu le médecin du travail depuis son retour et discuté de créneaux courts, à heures fixes, avec une fin en journée pour sa reprise. Elle est venue pour organiser les tâches dans ce cadre.
 
-Mireille fait défiler la semaine suivante. « Si tu ne peux pas venir le soir, Célestin peut choisir deux films et les montrer un jeudi. » Solène a apporté l’enveloppe des Tilleuls. Elle prend entre deux doigts le bord d’une carte sans la sortir. Elle avait prévu de revoir sa présentation de l’abribus, où les trois spectatrices avaient eu des réactions différentes. Quelqu’un d’autre peut projeter les films. Confier aussi la sélection à Célestin changerait la tâche qu’elle est venue reprendre.
+Mireille fait défiler la semaine suivante. « Si tu ne peux pas venir le soir, Célestin peut choisir deux films et les montrer un jeudi. » Solène a apporté l’enveloppe des Tilleuls. Elle prend entre deux doigts le bord d’une carte sans la sortir. Elle avait prévu de revoir sa présentation de l’abribus, où les trois spectatrices avaient eu des réactions différentes. Quelqu’un d’autre peut projeter les films. Confier aussi la sélection à Célestin changerait la tâche qu’elle est venue reprendre. L’idée de perdre le choix des films la serre au ventre. Elle avait redouté de ne plus se sentir capable de les regarder jusqu’au bout. Elle se demande maintenant ce que sa collègue imagine qu’elle peut encore faire.
 
 « Est-ce qu’ils ont encore ce samedi à quatorze heures ? » demande-t-elle. Mireille avait cité cette possibilité dans un message, sans la réserver. Il faudrait que la bibliothécaire accepte d’ouvrir l’espace une demi-heure plus tôt et qu’une autre personne ferme la salle. Solène propose de réserver deux heures pour l’essai et de venir le samedi pendant le créneau convenu. Puis elle demande à Mireille quelles sont les tâches qui doivent absolument être faites sur place après son départ.
 
-## Un aménagement porte sur des conditions de travail
+## Retrouver une place professionnelle après un arrêt
+
+Solène doit pouvoir expliquer ce qu’elle arrive à faire et discuter de l’effort que lui demande une séance. La possibilité de suivre un créneau court lui rend une part du travail accessible. Pour garder sa place dans la programmation, elle a aussi besoin que le partage des tâches soit discuté avec elle.
 
 En France, une personne salariée du privé peut contacter directement le service de prévention et de santé au travail. Le médecin du travail peut proposer des aménagements du poste ou du temps de travail en fonction de la situation. Il est tenu au secret médical : les informations qu’il recueille sur la santé de la personne pendant la visite ne sont pas communiquées à l’employeur. Mireille a besoin de connaître le cadre des horaires et les tâches à prévoir. Solène peut garder pour sa psychiatre ce qu’elles ont repris à propos des urgences.
 

@@ -1,23 +1,24 @@
 ---
-title: Confier une inquiétude sans devoir tout raconter
+title: Préoccupation persistante et coût des vérifications sur le sommeil
 description: Avec Brigitte, Gasparde cherche des mots pour dire ce que lui coûtent
   les soirs passés à relire les messages du club.
 slug: gasparde-banc-boulangerie
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Gasparde
-sujet: Trouble délirant
+sujet: Préoccupation persistante
 contexte: Le dimanche matin, sur le banc de la boulangerie
 tags:
 - Trouble délirant
 - Trouble délirant persistant
-- Confiance dans les relations
-- Choisir ce qu’on partage
-- Retentissement sur le sommeil
+- Préoccupation persistante
+- Ruminations nocturnes
+- Soutien choisi
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A24
+clinical_diagnosis: Trouble délirant
 episode: 3
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: Noémie
 date: '2026-11-06T00:00:00+00:00'
-description: Noémie, 34 ans, restaure des documents aux archives municipales. Tenace,
-  parfois caustique quand elle se sent observée, elle tient autant à la précision
-  de son travail qu’au plaisir de dessiner les berges du canal. Avec sa collègue Aïcha,
-  elle prépare une exposition de cartes pour raconter les transformations de la ville.
-  Avec Maud, sa compagne, elle aimerait retrouver des soirées où une question sur
-  la porte ne prend pas toute la place. Vérifier la soulage un instant, mais les doutes
-  reviennent et retardent des choix qui lui tiennent à cœur.
+description: Noémie, 34 ans, restaure des documents aux archives municipales et vit
+  avec un trouble obsessionnel-compulsif, ou TOC. Aux archives, une cote déjà confirmée
+  peut continuer à lui revenir. Dans le tram, elle se repasse parfois une vérification
+  jusqu’à manquer son arrêt. Avec sa compagne Maud, elle cherche une façon de se soutenir
+  quand le doute exige encore une réponse. Aïcha et elle préparent une exposition
+  de cartes du canal. Noémie tient à choisir ce qu’elle partage sur son suivi et à
+  retrouver du temps pour ses croquis.
 slug: noemie
 prenom: Noémie
 date_naissance: '1992-01-01'
@@ -18,86 +18,87 @@ nb_articles: 12
 weight: 35
 draft: false
 clinical_code: 6B20
+clinical_diagnosis: Trouble obsessionnel-compulsif
 reading_topics:
-- Doute persistant
-- Vérifications répétées
+- Trouble obsessionnel-compulsif
+- Doutes obsessionnels
+- Compulsions de vérification
+- Rituels mentaux
 - Recherche de réassurance
-- Évitement
-- Affirmation de ses besoins
 ---
 
 <h2 class="parcours-section-title">Parcours de Noémie</h2>
 <div class="perso-parcours-list">
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-cote-sur-la-boite/">Doute au travail : pourquoi Noémie vérifie encore après le contrôle</a></h3>
-    <p class="parcours-resume">Aïcha a apporté trois rectangles de carton aux dimensions des vitrines. Elle les a posés debout contre un mur du bureau, du plus petit au plus grand. Noémie s’approche avec la boîte de la carte du canal.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-cote-sur-la-boite/">La vérification compulsive quand le contrôle a déjà été fait</a></h3>
+    <p class="parcours-resume">Noémie a vérifié la cote selon la procédure. Quand Aïcha lui parle de l’exposition, son esprit revient pourtant à la boîte et au risque d’avoir mal lu. Dans le TOC, la vérification compulsive peut répondre à un doute qui persiste après le contrôle utile. Le bref soulagement aide à comprendre pourquoi l’envie de vérifier revient.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-cote-sur-la-boite/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-rituel-sans-geste/">Refaire la vérification en pensée jusqu’à manquer son arrêt</a></h3>
-    <p class="parcours-resume">Le tram marque un arrêt sur le pont. Dans la vitre, Noémie voit d’abord son écharpe, puis la berge quand une lampe s’éteint au plafond de la rame. En face d’elle, un enfant suit du doigt un chien qui marche près de l’eau.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-rituel-sans-geste/">Rituels mentaux dans le tram quand Noémie refait le contrôle de mémoire</a></h3>
+    <p class="parcours-resume">Dans le tram, Noémie se repasse un geste de travail jusqu’à manquer son arrêt. Le doute qui surgit et l’effort répété pour le faire taire sont deux moments distincts. Dans le TOC, cet effort peut prendre la forme d’un rituel mental. L’entourage voit parfois la distraction sans mesurer le temps que la vérification prend en silence.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-rituel-sans-geste/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-place-dans-la-vitrine/">Compulsion ou préférence : pourquoi Noémie déplace encore la carte</a></h3>
-    <p class="parcours-resume">Le modèle de vitrine se compose de deux tables et d’une bande de papier gris. Aïcha a découpé des reproductions pour que les originaux restent à l’atelier pendant l’essai. Noémie rapproche le plan du marché de la carte du canal.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-place-dans-la-vitrine/">La sensation d’inachevé qui pousse Noémie à repositionner une copie</a></h3>
+    <p class="parcours-resume">L’écart entre deux reproductions laisse à Noémie une sensation d’inachevé. Dans le TOC, une compulsion peut viser à faire disparaître cette gêne. Noémie connaît pourtant les règles qui protègent la carte et sait dire quel agencement lui plaît. La contrainte ressentie et le temps perdu éclairent le déplacement répété autant que son apparence.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-place-dans-la-vitrine/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-message-de-maud/">Réassurance en couple : quand une preuve ne suffit plus</a></h3>
-    <p class="parcours-resume">À l’épicerie, Maud compare deux bocaux d’olives. Elle cherche celles qu’une amie lui a servies à l’apéritif et dont elle a oublié le nom. Noémie lui tend le bocal à l’étiquette verte.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-message-de-maud/">La recherche de réassurance quand Noémie redemande une preuve à Maud</a></h3>
+    <p class="parcours-resume">À l’épicerie, une réponse de Maud apaise Noémie pour un moment. Puis une nouvelle question sur la porte s’impose. Dans le TOC, chercher une confirmation répétée peut devenir une manière de neutraliser le doute, et un proche peut y être entraîné en voulant aider. Noémie et Maud cherchent à comprendre ensemble ce que ce rythme leur coûte.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-message-de-maud/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-preparer-exposition-en-seance/">Choisir comment affronter le doute en thérapie</a></h3>
-    <p class="parcours-resume">Noémie arrive avec deux plans de la même rue roulés ensemble. Aïcha lui a demandé de vérifier comment la rue change de nom d’un plan à l’autre. Sur le premier, elle longe le canal.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-preparer-exposition-en-seance/">Comprendre la prévention de la réponse avant de choisir un essai en séance</a></h3>
+    <p class="parcours-resume">Noémie craint de se sentir dépassée quand sa clinicienne lui parle d’un essai en séance. L’exposition avec prévention de la réponse est une approche structurée du TOC. Elle aborde une situation qui déclenche le doute et travaille sur la réponse compulsive qui suit. La professionnelle et Noémie peuvent discuter du cadre, du rythme et de ce qui compte pour elle.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-preparer-exposition-en-seance/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-deux-places-au-cinema/">Soutenir Noémie quand l’envie de vérifier revient</a></h3>
-    <p class="parcours-resume">Maud a réservé deux places pour une comédie dont elle ne se rappelle que l’actrice principale. Elle tient à arriver avant la bande-annonce du festival que le cinéma projette en début de séance.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-deux-places-au-cinema/">Accompagner Noémie au cinéma quand elle cherche encore à être rassurée</a></h3>
+    <p class="parcours-resume">Sur le chemin du cinéma, Noémie aimerait redemander si la porte est fermée. Maud peut l’accompagner sans renouveler la réassurance déjà donnée, selon l’accord qu’elles ont préparé avec la clinicienne. Une présence proposée avec tact peut soutenir Noémie pendant que le doute persiste. Elle choisit ce qui lui convient à ce moment.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-deux-places-au-cinema/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-ce-quelle-choisit-de-dire/">Au travail, dire ce qui aiderait et choisir ce qui reste privé</a></h3>
-    <p class="parcours-resume">Un enseignant doit venir mercredi pour regarder le parcours avant d’y emmener sa classe. Aïcha a dressé la liste de ses questions à partir d’un courriel où les élèves parlent du canal.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-ce-quelle-choisit-de-dire/">Le coût invisible des compulsions quand le travail est interrompu</a></h3>
+    <p class="parcours-resume">Après chaque interruption, Noémie revient au début du document. Parfois une cote déjà confirmée prend toute son attention et l’éloigne de la recherche pour la classe. Le TOC peut peser sur le travail même quand le résultat paraît impeccable. La scène montre comment parler de cet effort et demander un aménagement en choisissant ce que l’on souhaite confier.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-ce-quelle-choisit-de-dire/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-eau-dans-le-couloir/">Face à une infiltration, agir malgré l’incertitude</a></h3>
-    <p class="parcours-resume">La tache sombre n’était pas là le matin. Aïcha le dit à voix basse, comme si elle parlait pendant une visite. À la jointure de la cloison, une goutte se forme et tombe sur le sol du couloir.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-eau-dans-le-couloir/">Le doute sur sa responsabilité après une infiltration aux archives</a></h3>
+    <p class="parcours-resume">Une infiltration impose d’agir aux archives. Après le signalement, Noémie cherche encore à savoir si elle aurait dû voir quelque chose plus tôt. Dans le TOC, un doute sur sa responsabilité peut entraîner une recherche de certitude qui dépasse l’information disponible. Les procédures du service donnent un cadre à l’action tandis que certaines questions restent ouvertes.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-eau-dans-le-couloir/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-repetition-de-maud/">Quand la peur de devoir vérifier fait renoncer à sortir</a></h3>
-    <p class="parcours-resume">Maud cherche un crayon dans l’étui de sa clarinette. Elle a prévu de souligner une entrée qu’elle manque depuis deux répétitions. Le chef leur a demandé d’inviter quelques personnes pour entendre ce que donne le morceau du fond de la salle.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-repetition-de-maud/">L’évitement des sorties par crainte de passer la soirée à vérifier</a></h3>
+    <p class="parcours-resume">Avant la répétition de Maud, Noémie redoute de passer le trajet à refaire mentalement les gestes du départ. Dans le TOC, éviter une sortie peut soulager cette peur sur le moment. Si cela se répète, l’évitement réduit les occasions de faire ce qui lui tient à cœur. Ce coût fait partie de ce qu’elle peut décrire au suivi.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-repetition-de-maud/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-semaine-plus-difficile/">Les vérifications s’intensifient avant le vernissage</a></h3>
-    <p class="parcours-resume">Le mot « passerelle » tombe au bord d’une ligne sur l’épreuve imprimée. Noémie appuie la feuille contre le mur pour voir ce que le texte donne debout. Aïcha lui a demandé de relire deux légendes avant de signer le bon à tirer.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-semaine-plus-difficile/">Le retour des vérifications quand la pression monte avant le vernissage</a></h3>
+    <p class="parcours-resume">Une collègue confirme quelle version est partie à l’impression et Noémie voudrait encore la vérifier. Les compulsions peuvent reprendre de la place dans un contexte alors qu’elles pèsent moins dans un autre. Noémie observe aussi qu’elle termine plus tard et dessine moins. Ces effets aident à revoir le suivi avec sa clinicienne au-delà du seul nombre de vérifications.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-semaine-plus-difficile/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-jour-du-vernissage/">Choisir son rôle au vernissage même si le doute persiste</a></h3>
-    <p class="parcours-resume">Au bas de la première vitrine, Aïcha a placé la question de l’élève qui voulait savoir dans quel sens naviguaient les barques. À côté, trois bateaux au crayon occupent presque tout le dessin envoyé par la classe.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-jour-du-vernissage/">Prendre part au vernissage avec un doute obsessionnel encore présent</a></h3>
+    <p class="parcours-resume">Au vernissage, un doute obsessionnel sur un numéro détourne Noémie de la première phrase au micro. Elle choisit de parler avec les visiteurs près de la carte alors que l’envie de revoir le registre persiste. Retrouver une activité qui compte peut marquer une amélioration du quotidien avec un TOC. L’effort qu’elle y consacre reste utile à décrire au suivi.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-jour-du-vernissage/" class="parcours-link">Lire</a>
   </div>
   <div class="parcours-entry">
     <div class="parcours-cat">Comprendre et maîtriser ses émotions</div>
-    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-le-dimanche-suivant/">Garder une place pour ses envies au-delà des vérifications</a></h3>
-    <p class="parcours-resume">Aïcha envoie à Noémie un détail d’un ancien inventaire. Il est question d’une remise à outils le long du canal. Le numéro de la parcelle semble correspondre au bâtiment rouge de leur carte.</p>
+    <h3 class="parcours-title"><a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-le-dimanche-suivant/">Évaluer ce que le TOC prend encore aux activités de Noémie</a></h3>
+    <p class="parcours-resume">Noémie repère son arrêt à temps dans le tram alors que le doute sur la fermeture de l’atelier l’occupe encore. Elle compare ce trajet à ceux où la vérification mentale lui faisait perdre le fil, ainsi qu’au doute revenu au vernissage. Ces exemples permettent de préciser en consultation ce que les compulsions lui coûtent toujours et ce qu’elle retrouve, notamment du temps pour dessiner.</p>
     <a href="/posts/comprendre-et-maitriser-ses-emotions/noemie-le-dimanche-suivant/" class="parcours-link">Lire</a>
   </div>
 </div>

@@ -1,24 +1,26 @@
 ---
-title: Oser contredire le fournisseur quand le total semble juste
+title: Raisonner sur les quantités quand un total exact ne suffit pas
 description: Le fournisseur propose d’envoyer le reste du métrage. Lison montre, gabarits
   à l’appui, pourquoi l’atelier a besoin d’un coupon d’un seul tenant.
 slug: lison-defendre-demande-reliquat
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Lison
-sujet: Trouble développemental des apprentissages avec déficit en mathématiques
+sujet: Raisonnement mathématique avec appui concret
 contexte: Mercredi matin, à la table de coupe, avant le premier essayage en toile
   d’essai.
 tags:
+- Trouble développemental des apprentissages avec déficit en mathématiques
 - Dyscalculie développementale
 - Dyscalculie
-- Repères concrets
-- Doute face à la certitude
-- Défendre sa demande
+- Raisonnement mathématique
+- Représentation visuelle
+- Vérification concrète
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.2
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en mathématiques
 episode: 9
 ---
 
@@ -28,7 +30,7 @@ Lison demande à rappeler Farah. Elle s’attend à devoir expliquer pourquoi le
 
 « Oui pour la somme. Mais aucun morceau restant n’est assez long pour notre quatrième bande. Le devis dit d’un seul tenant. Est-ce que vous pouvez remplacer le morceau reçu par une coupe continue ? » Farah demande une photo et le numéro du devis. Lison se rend compte que c’est la première fois depuis le début de l’appel qu’elle entend le frottement du papier sous la main d’Ilyès.
 
-## Un total peut être juste et la solution ne pas convenir
+## Donner une forme visible à un problème de quantités
 
 Résoudre un problème chiffré demande parfois de vérifier ce que le calcul permet de conclure dans la situation réelle. Les deux longueurs proposées totalisent bien 185 cm. Avec les 75 cm utilisables de la réserve, l’atelier retrouverait 260 cm, mais répartis sur trois coupons. Celui de 150 cm permet de prendre deux bandes de 60 cm ; celui de 75 cm, une ; celui de 35 cm, aucune. Il en faut quatre, une par veste. La marge de 20 cm est une réserve totale pour de petits ajustements. Elle ne transforme pas des chutes séparées en une bande continue. Lison peut montrer ce que la somme ne dit pas en posant les gabarits.
 

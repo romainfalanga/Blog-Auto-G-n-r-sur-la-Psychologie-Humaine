@@ -1,22 +1,24 @@
 ---
-title: 'Sensibilité au bruit : Nour choisit un détour au marché'
+title: Hypersensibilité sonore et besoin de s’éloigner du marché
 description: Le premier repérage longe un marché plus bruyant que prévu. Nour et Fatou
   cherchent un point où les voisins pourront se retrouver.
 slug: nour-kiosque-premier-reperage
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Nour
-sujet: Autisme
+sujet: Sensibilité sensorielle au bruit
 contexte: Dans le quartier de l’Ancienne Halle, lors du premier repérage
 tags:
+- Autisme
 - TSA
-- Sensibilité au bruit
-- Choix de s’éloigner
-- Participation au groupe
+- Sensibilité auditive
+- Surcharge sensorielle
+- Ajustement de l’environnement
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A02
+clinical_diagnosis: Autisme
 episode: 2
 ---
 

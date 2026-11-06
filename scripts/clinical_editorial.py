@@ -12,7 +12,7 @@ from urllib.parse import urlsplit
 
 import yaml
 
-from build_article_intros import HEADING, WORD, normalized, plain_text, sentences
+from build_article_intros import HEADING, WORD, normalized, plain_text
 from check_editorial_pack import CATEGORIES, ROOT
 from integrate_editorial_pack import public_page
 
@@ -20,7 +20,8 @@ EDITORIAL = ROOT / 'editorial/clinical'
 CATEGORY_KEY = 'cat2_emotions'
 CATEGORY, FOLDER = CATEGORIES[CATEGORY_KEY]
 PACK = 'clinical-v17'
-ARTICLE_KEYS = ('number', 'slug', 'title', 'description', 'context', 'topics', 'opening', 'sections', 'ending', 'mirror', 'sources', 'continuity')
+ARTICLE_KEYS = ('number', 'slug', 'title', 'description', 'context', 'topics', 'clinical_focus', 'clinical_intro',
+                'opening', 'sections', 'ending', 'mirror', 'sources', 'continuity')
 
 
 def read(path):
@@ -44,17 +45,6 @@ def words(value):
     return len(WORD.findall(plain_text(value)))
 
 
-def story_teaser(opening):
-    """Use the beginning of the scene, like the original character cards."""
-    preview = []
-    for sentence in sentences(plain_text(opening))[:3]:
-        candidate = ' '.join([*preview, sentence])
-        if preview and (words(' '.join(preview)) >= 30 or words(candidate) > 60):
-            break
-        preview.append(sentence)
-    return ' '.join(preview)
-
-
 def validate_episode(episode, character, number, dossier):
     label = f'{character["id"]}, épisode {number}'
     require(isinstance(episode, dict) and all(key in episode for key in ARTICLE_KEYS), f'Champs incomplets : {label}')
@@ -62,6 +52,12 @@ def validate_episode(episode, character, number, dossier):
     require(re.fullmatch(re.escape(character['id']) + r'-[a-z0-9]+(?:-[a-z0-9]+)*', str(episode['slug'])), f'Adresse invalide : {label}')
     for key in ('title', 'description', 'context', 'opening', 'ending'):
         require(prose(episode[key]), f'Texte absent ou balise interdite dans {key} : {label}')
+    focus, intro = episode['clinical_focus'], episode['clinical_intro']
+    require(prose(focus) and '\n' not in focus and len(focus) <= 95 and 2 <= words(focus) <= 9,
+            f'Notion clinique ou psychologique précise requise : {label}')
+    require(prose(intro) and '\n' not in intro and 40 <= words(intro) <= 90
+            and re.search(r'[.!?]["»”’)]*$', intro),
+            f'Introduction pédagogique complète requise : {label}')
     require(prose(episode.get('ending_title')) and '\n' not in episode['ending_title'], f'Intertitre de fin manquant : {label}')
     require(len(episode['description']) <= 155, f'Description trop longue : {label}')
     require(not HEADING.search(episode['opening']) and not episode['opening'].lstrip().startswith('#') and words(episode['opening']) >= 180, f'Scène trop courte ou avec intertitre : {label}')
@@ -124,13 +120,12 @@ def arc_outputs(character, manifest, publication, order, evidence):
     bio = manifest.get('bio')
     require(manifest.get('character_id') == ident and prose(bio) and 60 <= words(bio) <= 105,
             f'Présentation du personnage invalide : {ident}')
+    require(normalized(dossier['name']) in normalized(bio), f'Trouble absent de la présentation : {ident}')
     cues = manifest.get('profile_topics')
-    diagnosis = {normalized(label) for label in [dossier['name'], *dossier.get('aliases', [])]}
-    require(isinstance(cues, list) and len(cues) == 5
-            and all(prose(cue) and cue == cue.strip() and '\n' not in cue and len(cue) <= 55 for cue in cues)
-            and len({normalized(cue) for cue in cues}) == 5
-            and not (diagnosis & {normalized(cue) for cue in cues}),
-            f'Cinq repères psychologiques distincts requis dans le portrait : {ident}')
+    require(isinstance(cues, list) and len(cues) == 5 and cues[0] == dossier['name']
+            and all(prose(cue) and cue == cue.strip() and '\n' not in cue and len(cue) <= 72 for cue in cues[1:])
+            and len({normalized(cue) for cue in cues}) == 5,
+            f'Intitulé du trouble et quatre repères distincts requis dans le portrait : {ident}')
     episodes = manifest.get('episodes')
     require(isinstance(episodes, list) and len(episodes) == 12, f'Douze épisodes requis : {ident}')
     outputs, topics, mirrors, rows = {}, {}, {}, []
@@ -140,7 +135,7 @@ def arc_outputs(character, manifest, publication, order, evidence):
         title = normalized(episode['title'])
         require(title not in titles, f'Titre répété : {ident}, épisode {number}')
         titles.add(title)
-        for passage in (episode['opening'], episode['ending'], ' '.join(episode['mirror'])):
+        for passage in (episode['clinical_intro'], episode['opening'], episode['ending'], ' '.join(episode['mirror'])):
             key = normalized(passage)
             require(key not in passages, f'Passage répété : {ident}, épisode {number}')
             passages.add(key)
@@ -151,10 +146,10 @@ def arc_outputs(character, manifest, publication, order, evidence):
         front = {
             'title':episode['title'], 'description':episode['description'], 'slug':slug,
             'date':publication+'T00:00:00+00:00', 'draft':False,
-            'personnage':character['name'], 'sujet':dossier['name'], 'contexte':episode['context'],
-            'tags':list(dict.fromkeys(dossier.get('aliases', []) + episode['topics'])),
+            'personnage':character['name'], 'sujet':episode['clinical_focus'], 'contexte':episode['context'],
+            'tags':list(dict.fromkeys([dossier['name'], *dossier.get('aliases', []), *episode['topics']])),
             'categories':[CATEGORY], 'editorial_pack':PACK,
-            'clinical_code':code, 'episode':number,
+            'clinical_code':code, 'clinical_diagnosis':dossier['name'], 'episode':number,
         }
         body = [episode['opening'].strip()]
         body.extend('## '+s['heading']+'\n\n'+s['text'].strip() for s in episode['sections'])
@@ -163,7 +158,7 @@ def arc_outputs(character, manifest, publication, order, evidence):
         body.append('## Sources\n\n'+'\n'.join(f'- [{ref["title"]}]({ref["url"]})' for ref in refs))
         outputs[ROOT / 'content' / (identifier+'.md')] = '---\n'+yaml.safe_dump(front,allow_unicode=True,sort_keys=False)+'---\n\n'+'\n\n'.join(body)+'\n'
         rows.append({'episode':number,'category_key':CATEGORY_KEY,'slug':slug,'title':episode['title'],
-                     'resume_narratif':story_teaser(episode['opening'])})
+                     'resume_narratif':episode['clinical_intro']})
     canon = character['canon']
     profile = {
         'prenom':character['name'],'id':ident,'description_dynamique':bio,
@@ -172,7 +167,7 @@ def arc_outputs(character, manifest, publication, order, evidence):
     }
     outputs[ROOT / 'content/personnages' / (ident+'.md')] = public_page(
         profile, rows, 34+order, published_on=publication+'T00:00:00+00:00',
-        profile_fields={'clinical_code':code,'reading_topics':cues},
+        profile_fields={'clinical_code':code,'clinical_diagnosis':dossier['name'],'reading_topics':cues},
     )
     outputs[ROOT / 'data/article_mirrors' / (ident+'.json')] = dump(mirrors)
     return outputs, topics
@@ -272,8 +267,12 @@ def record_review(ident, publication, note):
 def progress():
     characters, shared = sources_and_characters()
     reviewed = read(EDITORIAL / 'releases.json')['arcs']
+    priorities = read(EDITORIAL / 'priorities.json')
+    by_code = {character['code']: ident for ident, character in characters.items()}
+    require(len(priorities) == len(set(priorities)) and set(priorities) <= by_code.keys(),
+            'Les priorités doivent correspondre à des codes distincts du registre.')
     counts = Counter()
-    pending = []
+    drafts = {}
     for ident, character in characters.items():
         path = EDITORIAL / (ident+'.json')
         count = len(read(path)['episodes']) if path.exists() else 0
@@ -282,9 +281,10 @@ def progress():
         counts['dossiers'] += has_dossier
         counts['complete'] += count == 12
         if ident not in reviewed:
-            pending.append({'id':ident, 'code':character['code'], 'wave':character['wave'],
-                            'episodes':count, 'has_dossier':has_dossier})
-    return {'planned_arcs':len(characters), 'planned_episodes':len(characters)*12,
+            drafts[ident] = {'id':ident, 'code':character['code'], 'episodes':count, 'has_dossier':has_dossier}
+    pending = [drafts[by_code[code]] for code in priorities if by_code[code] in drafts]
+    return {'reference_cases':len(characters), 'priority_candidates':len(pending),
+            'other_unpublished_cases':len(drafts)-len(pending),
             'reviewed':len(reviewed), 'reviewed_episodes':len(reviewed)*12,
             **counts, 'pending':pending}
 

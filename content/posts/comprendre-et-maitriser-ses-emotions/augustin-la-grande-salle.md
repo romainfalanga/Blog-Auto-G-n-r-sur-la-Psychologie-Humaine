@@ -1,30 +1,32 @@
 ---
-title: Douter de soi quand la salle de répétition change
-description: Le geste essayé à l’atelier se complique sur le plateau. Augustin propose
-  d’arriver les mains libres et de lever le soleil avant de parler.
+title: Pourquoi un geste appris se complique dans un autre lieu
+description: Sur le plateau, la table est plus basse et Augustin rate le signal d’entrée.
+  Il revoit l’ordre des gestes pour garder son rôle.
 slug: augustin-la-grande-salle
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Augustin
-sujet: Trouble développemental de la coordination motrice
+sujet: Transfert d’un geste entre situations
 contexte: au premier essai des accessoires dans la grande salle du centre social
 tags:
+- Trouble développemental de la coordination motrice
 - Trouble du développement de la coordination
 - TDC
 - Dyspraxie
+- Coordination et environnement
+- Enchaînement des actions
 - Doute après un revers
-- Pression du temps
-- Choix de l’aide
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A04
+clinical_diagnosis: Trouble développemental de la coordination motrice
 episode: 7
 ---
 
 Dans la grande salle, les clés de Maxence font le bruit d’un objet qu’on a laissé tomber pour de vrai. Augustin l’entend de la coulisse, où il cherche le côté ouvert du bac. Le meuble qu’ils ont trouvé ici est plus bas que la table de l’atelier. Il y a assez de lumière pour voir la jointure dorée et pas assez de place pour se mettre du même côté que d’habitude. Augustin approche ses deux mains, tourne le disque et rate l’entrée que lui donne Maya. Quand il rejoint la cour dessinée sur le panneau, il a la réplique sur le bout de la langue et le soleil encore de biais contre lui.
 
-Maxence froisse le papier qui doit faire le bruit du jour. Augustin commence à parler par-dessus. Au premier rang, Samira lève la main : elle a entendu le début de la phrase, puis plus rien. Augustin retourne jusqu’au bac, furieux contre le carton qui s’est mis de travers alors qu’il s’attendait à pouvoir penser au ton de sa réplique. Il fait le geste seul, sans entrée ni texte. Cette fois, le disque vient. Il le tient devant lui quelques secondes. Il se demande lequel des deux essais Samira va retenir.
+Maxence froisse le papier qui doit faire le bruit du jour. Augustin commence à parler par-dessus. Au premier rang, Samira lève la main : elle a entendu le début de la phrase, puis plus rien. Augustin retourne jusqu’au bac, furieux contre le carton qui s’est mis de travers alors qu’il s’attendait à pouvoir penser au ton de sa réplique. Il fait le geste seul, sans entrée ni texte. Cette fois, le disque vient. Il le tient devant lui quelques secondes. Il se demande lequel des deux essais Samira va retenir. Il a peur que le retard visible efface tout ce qu’il avait réussi à faire dans l’autre salle.
 
 Elle demande à Maya de lui dire ce qu’elle a vu. Maya dit qu’au moment où le soleil lui est apparu, il y avait déjà du bruit et des mots. Augustin remet le disque dans le bac. « Et si j’arrivais les mains libres ? Le soleil pourrait m’attendre près de la fenêtre. » Il regarde le panneau et imagine le côté jaune couché sur la table. De la salle, on ne verrait que le dos de carton.
 

@@ -1,23 +1,25 @@
 ---
-title: Suivre une recette à l’oreille
+title: Accéder au sens d’une recette quand la lecture demande plus d’effort
 description: Maxime vient goûter un premier essai. Célian découvre qu’une recette
   enregistrée l’aide si elle reste fidèle à la fiche.
 slug: celian-coin-du-gateau
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Célian
-sujet: Trouble développemental des apprentissages avec déficit en lecture
+sujet: Compréhension orale et écrite
 contexte: Un dimanche, dans la cuisine de Célian, avec son camarade d’apprentissage.
 tags:
+- Trouble développemental des apprentissages avec déficit en lecture
 - Dyslexie
 - Trouble développemental de la lecture
-- Effort de lecture
-- Coopération
-- Mémoire des gestes
+- Accès à l’oral
+- Fluence de lecture
+- Compréhension écrite
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.0
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en lecture
 episode: 3
 ---
 
@@ -27,7 +29,7 @@ La recette de son carnet est assez précise mais il a du mal à y revenir en cou
 
 Le gâteau n’est pas commencé. Célian propose de garder le téléphone à portée de main pour cet essai, de corriger le message et de réécouter cette partie en la vérifiant ensemble sur la fiche. Ensuite, lui veut faire le mélange : il a encore en tête le mouvement d’Aïcha et voudrait voir s’il lui sert avec cette pâte. Maxime consent volontiers à goûter et à dire ce qu’il en pense. Il prévient qu’il travaillera le samedi de la rencontre. Célian lui promet qu’aujourd’hui, il peut avoir un coin.
 
-## Entendre une consigne et lire la même consigne
+## Comparer l’effort de lecture et l’accès par l’oral
 
 Le support oral peut rendre une consigne plus facile à utiliser quand la lecture demande beaucoup d’effort. Les personnes avec un déficit en lecture n’ont pas toutes le même profil. Certaines accèdent plus facilement au sens lorsque le texte est lu par quelqu’un, tandis que d’autres peuvent encore rencontrer des difficultés de compréhension. Célian a déjà essayé d’écouter une consigne et de la reprendre par morceaux. Il sait reproduire certains gestes après les avoir vus. Cela explique l’intérêt qu’il trouve à ces appuis dans cette cuisine ; cela ne dit rien de ce qui aiderait chaque personne qui partage son diagnostic. Le geste de la spatule, lui, est une chose qu’il a regardée et pratiquée.
 

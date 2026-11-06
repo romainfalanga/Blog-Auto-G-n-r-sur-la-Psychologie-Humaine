@@ -1,22 +1,24 @@
 ---
-title: Reprendre un projet après une période difficile
+title: Retour du plaisir pendant une période d’amélioration
 description: Le cinéma peut essayer son programme aux Tilleuls. Solène tient à montrer
   les trois films et propose un horaire de jour.
 slug: solene-seance-jour-choix-films
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Solène
-sujet: Trouble schizoaffectif
+sujet: Amélioration et reprise du plaisir
 contexte: Plusieurs semaines plus tard, à la réunion du cinéma itinérant
 tags:
+- Trouble schizoaffectif
 - Trouble schizo-affectif
-- Garder sa place au travail
-- Écouter ses limites
-- Reprise progressive
+- Période d’amélioration
+- Retour du plaisir
+- Reprise d’activité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A21
+clinical_diagnosis: Trouble schizoaffectif
 episode: 4
 ---
 

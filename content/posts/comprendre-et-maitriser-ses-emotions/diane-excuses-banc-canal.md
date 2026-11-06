@@ -1,23 +1,25 @@
 ---
-title: Les excuses qu’elle redoute sur un banc au bord du canal
+title: Honte et réparation après des paroles prononcées en pleine crise
 description: Diane se souvient d’une phrase blessante. Au bord du canal, elle demande
   à son cousin s’il veut en parler et l’écoute poser une limite.
 slug: diane-excuses-banc-canal
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Diane
-sujet: Trouble psychotique aigu et transitoire
+sujet: Honte après une crise
 contexte: Le dimanche, sur un banc au bord du canal où Rémi lui a envoyé la photo
   d’une péniche
 tags:
+- Trouble psychotique aigu et transitoire
 - Psychose aiguë et transitoire
-- Honte après une parole blessante
-- Écoute de la personne à qui l’on s’excuse
-- Limites d’un proche après l’urgence
+- Honte après une crise
+- Souvenirs de la psychose
+- Réparation relationnelle
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A23
+clinical_diagnosis: Trouble psychotique aigu et transitoire
 episode: 3
 ---
 

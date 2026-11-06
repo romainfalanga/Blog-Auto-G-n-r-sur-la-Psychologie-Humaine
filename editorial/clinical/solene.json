@@ -1,17 +1,17 @@
 {
   "character_id": "solene",
-  "bio": "Solène travaille dans un cinéma itinérant. Elle entend vite quand un silence entre deux films permet à une scène de rester en tête. Elle voudrait que les spectateurs des petites salles puissent donner leur avis à leur manière. Quand sa concentration ou son humeur change, elle hésite à en parler à Livia, sa compagne, de peur que la discussion prenne toute la place. Le suivi de son trouble schizoaffectif et les choix du travail s’entrecroisent. Elle cherche des horaires qu’elle puisse tenir tout en gardant son rôle dans la programmation.",
+  "bio": "Solène, 36 ans, vit avec un trouble schizoaffectif. Elle travaille dans un cinéma itinérant et prépare un programme de courts métrages. À certaines périodes, elle entend son prénom sans trouver d’où vient la voix et une tristesse inhabituelle lui coupe l’élan. Sa psychiatre revient avec elle sur la chronologie des perceptions, de l’humeur et de leurs effets au quotidien. Solène tient à choisir ce qu’elle confie à Livia, sa compagne. Elle veut retrouver une place dans la programmation avec des horaires qui lui laissent de l’énergie pour le reste de sa vie.",
   "episodes": [
     {
       "number": 1,
       "slug": "solene-essai-son-deux-ecoutes",
-      "title": "Entendre son prénom sans pouvoir situer la voix",
+      "title": "Entendre son prénom dans le silence et douter de ce qu’on a perçu",
       "description": "Pour choisir le premier court métrage de la tournée, Solène et Célestin écoutent le même passage. Elle y entend son prénom.",
       "context": "Au dépôt du cinéma itinérant, pendant le choix des courts métrages",
       "topics": [
-        "Humeur et perceptions",
-        "Douter de ce qu’on a entendu",
-        "Faire une pause"
+        "Perceptions auditives inhabituelles",
+        "Incertitude perceptive",
+        "Retentissement sur l’attention"
       ],
       "opening": "Au bout de quatre minutes, les mains disparaissent de l’écran et la chaise reste seule au milieu de l’atelier. Voilà ce qui plaît à Solène dans Les Mains du jour : la réparation est terminée, mais le montage laisse à la personne qui regarde le temps de voir que le siège est encore de travers. Elle avait d’abord prévu de commencer sa séance par Le Mur d’en face, dont le premier plan est plein de couleurs. Elle déplace la fiche de la chaise tout en haut de la pile.\n\nCélestin cherche la prise qui permet de brancher une deuxième enceinte. Solène recule de quelques secondes dans le film pour lui montrer la coupe. Dans le blanc qui suit, elle entend son prénom, prononcé comme si quelqu’un lui parlait depuis le siège à sa droite. Elle tourne la tête. Célestin a les deux bras sous la table et fredonne. Elle connaît cette impression d’être appelée alors que la personne à côté d’elle n’a rien entendu. Cela lui était arrivé pendant une période difficile que sa psychiatre et elle avaient reprise en consultation. Elle ne sait pas encore quoi faire de ce qui vient de se passer.\n\n« Après le plan de la chaise, tu entends quoi ? » demande-t-elle. Célestin remet la séquence, puis répond qu’il entend une porte et le bout d’un frottement. Solène pense lui demander de vérifier une troisième fois. Elle s’aperçoit qu’elle ne regarde déjà plus la chaise : elle attend son prénom. Elle lui propose de marquer l’endroit et de faire une pause.",
       "sections": [
@@ -37,18 +37,20 @@
       "continuity": {
         "choice": "Solène arrête de rejouer le passage, note ce qu’elle a entendu pour le suivi et garde Les Mains du jour en ouverture à l’essai.",
         "next": "À la maison, la voix revient loin du dépôt. Elle dit à Livia ce qui lui arrive depuis plusieurs jours."
-      }
+      },
+      "clinical_focus": "Perceptions auditives inhabituelles",
+      "clinical_intro": "Solène entend son prénom dans un silence du film et passe une partie de l’essai à guetter la voix. Une perception inhabituelle peut retenir l’attention même quand l’autre personne ne l’entend pas. Dans le suivi du trouble schizoaffectif, cet instant renseigne surtout s’il est replacé dans sa durée, son contexte et les éventuels changements de l’humeur."
     },
     {
       "number": 2,
       "slug": "solene-cuisine-appeler-equipe",
-      "title": "Parler à sa compagne quand ses perceptions changent",
+      "title": "Perte de plaisir et voix inhabituelles dans la même période",
       "description": "Le prénom revient alors que l’ordinateur est fermé. Solène dit à Livia ce qu’elle a remarqué ces derniers jours et appelle son équipe.",
       "context": "Dans l’appartement de Solène et Livia, avant le cours de poterie de Livia",
       "topics": [
-        "Humeur et perceptions",
-        "Reconnaître ses signes",
-        "Choisir ce qu’on partage"
+        "Perte de plaisir",
+        "Perceptions auditives inhabituelles",
+        "Demande de soutien"
       ],
       "opening": "Livia ressort son tablier de poterie du sac de courses. Une trace de terre cuite s’est incrustée sous la boucle et se détache en poudre sur le plan de travail. Elle aimerait montrer à Solène une photo du bol qu’elle émaille ce soir. Elle a fait l’anse bien trop basse et prétend maintenant que c’est pour le tenir avec des moufles. D’habitude, Solène trouverait une autre bonne raison de rater une anse. Elle cherche depuis lundi à retrouver cet élan pour des choses qui lui plaisent. Elle sait ce qu’elle aurait pu répondre et n’a pas la force de faire la blague. La veille, elle avait laissé son cabas sur la poignée sans partir pour sa promenade au marché.\n\nPendant que Livia cherche la photo, Solène entend son prénom de nouveau. Cette fois, l’ordinateur est fermé. Elle répond « oui ? » avant de comprendre que Livia vient de tourner son écran vers elle, sans parler. Sur la photo, il y a une étiquette où quelqu’un a écrit « cuisson jeudi ». Solène demande quel jour elles sont, puis dit qu’elle a cru être appelée au dépôt et qu’elle vient de l’entendre encore. Cet après-midi, elle a laissé Célestin finir l’essai des sous-titres : elle lisait deux fois les mêmes phrases sans parvenir à suivre la scène.\n\nLivia dit « C’était peut-être les voisins ». Elle le dit très vite, et Solène a le sentiment de devoir prouver quelque chose pour être prise au sérieux. « Je ne te demande pas de chercher qui c’est », reprend-elle. Elle lui dit qu’elle n’a plus envie de sortir pour des choses auxquelles elle tenait la semaine dernière. Le cabinet ferme dans une demi-heure. Elle décide de demander à parler à l’infirmière qui travaille avec sa psychiatre.",
       "sections": [
@@ -74,23 +76,25 @@
       "continuity": {
         "choice": "Solène appelle elle-même l’infirmière. Elle avance la consultation et demande à Livia une présence limitée à cet appel.",
         "next": "À la consultation, elle apporte son carnet et demande à la psychiatre pourquoi elle revient toujours sur les dates."
-      }
+      },
+      "clinical_focus": "Perte de plaisir",
+      "clinical_intro": "Une voix semble appeler Solène alors que l’ordinateur est fermé. Elle confie aussi à Livia qu’elle a moins de plaisir à sortir et peine à se concentrer. Dans le trouble schizoaffectif, l’équipe a besoin de repérer le moment où les manifestations psychotiques et celles de l’humeur surviennent. Des exemples vécus éclairent ce qui change depuis quelques jours."
     },
     {
       "number": 3,
       "slug": "solene-carnet-chronologie-consultation",
-      "title": "Comprendre ce qui relie l’humeur et les perceptions",
+      "title": "Trouble schizoaffectif et chronologie des symptômes psychotiques et de l’humeur",
       "description": "En consultation, Solène distingue ce qu’elle sait de ses derniers jours de ce qu’elle reconstitue avec la psychiatre.",
       "context": "Au cabinet de la psychiatre référente, après l’appel de Solène à l’infirmière",
       "topics": [
-        "Humeur et perceptions",
-        "Reconnaître ses signes",
-        "Accepter l’incertitude"
+        "Chronologie des symptômes",
+        "Épisodes de l’humeur",
+        "Évaluation clinique"
       ],
       "opening": "La docteure Da Costa demande à Solène si elle souhaite garder le carnet devant elle. Solène le tourne de manière à pouvoir lire les dates sans se pencher. « Si je vous dis que j’ai d’abord cessé d’écouter la radio, est-ce que vous allez écrire que ça a commencé là ? » La question lui est venue dans le bus. Elle sait qu’elle a entendu son prénom mardi au dépôt et le lendemain dans la cuisine. Elle se souvient moins bien du jour où elle n’a plus eu envie de sa promenade habituelle au marché.\n\nLa psychiatre demande si c’était une question d’envie, de fatigue ou si quelque chose lui rendait la sortie difficile. « Je ne sais plus pour dimanche. Hier je n’arrivais même pas à choisir ce que j’allais prendre au petit déjeuner. » Elles mettent un point à côté d’hier et laissent dimanche vide. Avec l’accord de Solène, la docteure trace sous les dates deux lignes au crayon. Sur l’une, elles placent les changements qui concernent l’humeur et le quotidien ; sur l’autre, les expériences comme celles du dépôt et de la cuisine.\n\nCette façon de faire rappelle à Solène une consultation bien plus ancienne, après la période pour laquelle elle a reçu le diagnostic. Elle avait cru, en lisant le mot sur un courrier, qu’on lui avait donné deux diagnostics à la fois. Elle n’avait pas osé demander. Cette fois, elle pointe les deux lignes du carnet. « Est-ce que c’est parce que ça se passe sur la même page que vous appelez ça schizoaffectif ? »",
       "sections": [
         {
-          "heading": "Ce que les deux lignes permettent de demander",
+          "heading": "Comment la chronologie éclaire le trouble schizoaffectif",
           "text": "Dans la CIM-11, le trouble schizoaffectif désigne une certaine relation entre des symptômes psychotiques et un épisode de l’humeur. Le cadre de l’OMS porte sur un même épisode où les exigences de la schizophrénie et celles d’un épisode dépressif modéré ou sévère, maniaque ou mixte, sont remplies ensemble. Les deux ensembles de symptômes débutent en même temps ou à quelques jours l’un de l’autre. Le guide fixe une durée minimale d’un mois pour les deux ensembles lors d’un premier épisode ; pour les suivants, cette durée n’est pas nécessairement requise. Ces repères servent aux cliniciens. On peut les solliciter dès qu’un changement inquiète, bien avant de connaître sa durée.\n\nLe cadre américain du DSM emploie aussi le terme « trouble schizoaffectif ». L’American Psychiatric Association y décrit notamment une période d’au moins deux semaines où des délires ou hallucinations sont présents en dehors d’un épisode majeur de l’humeur. La CIM-11 ne demande pas cette période séparée. Avec les deux lignes, la docteure Da Costa peut expliquer à Solène ce qu’elle examine dans le cadre de la CIM-11 : la relation dans le temps, la nature des manifestations et ce qu’il faut encore éclaircir."
         },
         {
@@ -111,18 +115,20 @@
       "continuity": {
         "choice": "Solène demande à comprendre le cadre diagnostique et convient d’un suivi rapproché sans conclure sur les derniers jours ; Livia entend seulement les contacts prévus.",
         "next": "Après plusieurs semaines de suivi et une période plus calme, Solène reprend la sélection et décide quelles heures elle peut engager pour l’essai."
-      }
+      },
+      "clinical_focus": "Chronologie des symptômes",
+      "clinical_intro": "Pourquoi la psychiatre trace-t-elle deux lignes sur la même feuille ? L’une suit les perceptions et l’autre les changements de l’humeur. La CIM-11 décrit le trouble schizoaffectif à partir d’exigences cliniques psychotiques et thymiques réunies au cours du même épisode. Solène apprend à situer les événements dont elle se souvient et à laisser ouvertes les dates qui restent incertaines."
     },
     {
       "number": 4,
       "slug": "solene-seance-jour-choix-films",
-      "title": "Reprendre un projet après une période difficile",
+      "title": "Retour du plaisir pendant une période d’amélioration",
       "description": "Le cinéma peut essayer son programme aux Tilleuls. Solène tient à montrer les trois films et propose un horaire de jour.",
       "context": "Plusieurs semaines plus tard, à la réunion du cinéma itinérant",
       "topics": [
-        "Garder sa place au travail",
-        "Écouter ses limites",
-        "Reprise progressive"
+        "Période d’amélioration",
+        "Retour du plaisir",
+        "Reprise d’activité"
       ],
       "opening": "Célestin pose le plan de la salle des Tilleuls à l’envers. Solène le tourne en gardant un doigt sur la prise qui est la plus éloignée de l’entrée. La mairie leur propose un essai un samedi après-midi, avant de confirmer la date de la séance publique. La salle est petite, mais on peut laisser les rideaux tirés en journée. Quand quelqu’un arrivera en retard, il pourra prendre une chaise près de la porte sans traverser l’image. Solène voit déjà où poser la table pour que les spectateurs puissent s’y arrêter en repartant.\n\nElle a revu la docteure Da Costa plusieurs fois depuis le rendez-vous où elles avaient laissé dimanche en blanc. Ces dernières semaines, elle a retrouvé le goût d’écouter la radio au petit déjeuner et peut regarder un film entier sans passer la moitié du temps à guetter si on l’appelle. Le suivi continue. Les créneaux de travail en journée dont elle dispose lui ont permis de reprendre les visionnages et d’écrire à chaque équipe de film.\n\nMireille, qui coordonne la tournée, voudrait retirer Trois minutes de pluie. Les dialogues risquent d’être trop rapides pour une salle où les derniers rangs sont loin du mur. Solène voudrait d’abord vérifier sur place. Le film montre deux personnes qui se parlent sous un abribus, et c’est celui que les gens pourraient avoir envie de reprendre en sortant. Célestin demande si elles veulent profiter de l’essai pour faire aussi le démontage du matériel du soir. Solène regarde l’heure de fin indiquée dans sa semaine et lui propose qu’ils décident maintenant de ce qui tiendra dans l’après-midi.",
       "sections": [
@@ -148,24 +154,26 @@
       "continuity": {
         "choice": "L’équipe réserve un essai de jour pour les trois films, avec des spectatrices invitées et une tâche distincte pour le démontage.",
         "next": "Aux Tilleuls, Solène doit choisir comment recueillir une première réaction sans parler à la place du public ni laisser Célestin filmer par défaut."
-      }
+      },
+      "clinical_focus": "Amélioration et reprise du plaisir",
+      "clinical_intro": "Solène retrouve le goût d’écouter la radio et peut revoir un film en entier. Le trouble schizoaffectif peut comporter des périodes d’amélioration où certains symptômes diminuent ou disparaissent. L’épisode montre ce que cette évolution change pour elle, des petits plaisirs du matin aux choix d’horaires qui lui permettent d’essayer de reprendre un rôle dans le cinéma."
     },
     {
       "number": 5,
       "slug": "solene-tilleuls-reactions-sans-camera",
-      "title": "Le regard des autres quand une caméra tourne",
+      "title": "Se sentir exposé quand on perd le choix de ce qu’on partage",
       "description": "Après l’essai, Célestin propose de filmer les réactions. Solène se demande ce que les gens oseront dire si l’objectif est braqué sur eux.",
       "context": "À l’essai des courts métrages, dans la petite salle des Tilleuls",
       "topics": [
-        "Choisir ce qu’on partage",
-        "Regard des autres",
-        "Désaccord au travail"
+        "Sentiment d’exposition",
+        "Consentement au partage",
+        "Confiance dans les soins"
       ],
-      "opening": "Il y a trois spectatrices dans la salle des Tilleuls et onze chaises vides. Célestin a renoncé à les ranger pour qu’on puisse comparer la lecture des sous-titres devant et au fond. Solène s’assied deux rangées derrière la femme qui a choisi de garder son manteau. À la fin des Mains du jour, elle entend cette femme souffler « Ah, elle tient. » La chaise réparée vient de rester seule à l’écran. Le film n’a pas eu besoin d’un mot pour que quelqu’un prenne parti.\n\nPendant la pause, Célestin sort son téléphone. Il propose de filmer les réactions au deuxième film, celui de l’abribus. Il imagine déjà les voix sur la bande-annonce de la tournée. Solène avait seulement demandé aux trois personnes de venir pour un essai. Avant qu’elle réponde, la femme au manteau la regarde. « Il faut parler face à la caméra ? » Elle a roulé le programme entre ses mains sans s’en apercevoir.\n\nSolène repense à la dernière fois où elle a parlé au cabinet. Livia était entrée quand elle le lui avait demandé et la psychiatre lui avait laissé la première phrase. Elle se souvient du temps qu’il lui avait fallu pour prononcer une chose qu’elle avait pourtant choisie. Ici, elle voudrait surtout entendre une remarque qui ne soit pas encore prête à servir d’annonce. Elle demande à Célestin de ranger le téléphone. Puis elle retourne les programmes qui restent sur la table : le verso est assez clair pour écrire.",
+      "opening": "Il y a trois spectatrices dans la salle des Tilleuls et onze chaises vides. Célestin a renoncé à les ranger pour qu’on puisse comparer la lecture des sous-titres devant et au fond. Solène s’assied deux rangées derrière la femme qui a choisi de garder son manteau. À la fin des Mains du jour, elle entend cette femme souffler « Ah, elle tient. » La chaise réparée vient de rester seule à l’écran. Le film n’a pas eu besoin d’un mot pour que quelqu’un prenne parti.\n\nPendant la pause, Célestin sort son téléphone. Il propose de filmer les réactions au deuxième film, celui de l’abribus. Il imagine déjà les voix sur la bande-annonce de la tournée. Solène avait seulement demandé aux trois personnes de venir pour un essai. Avant qu’elle réponde, la femme au manteau la regarde. « Il faut parler face à la caméra ? » Elle a roulé le programme entre ses mains sans s’en apercevoir.\n\nSolène repense à la dernière fois où elle a parlé au cabinet. Livia était entrée quand elle le lui avait demandé et la psychiatre lui avait laissé la première phrase. Elle se souvient du temps qu’il lui avait fallu pour prononcer une chose qu’elle avait pourtant choisie. Elle avait gardé dans sa poche la note sur la voix jusqu’à ce qu’elle soit prête à en parler. Elle se rappelle le soulagement d’avoir pu finir sa phrase. Ici, elle voudrait surtout entendre une remarque qui ne soit pas encore prête à servir d’annonce. Elle demande à Célestin de ranger le téléphone. Puis elle retourne les programmes qui restent sur la table : le verso est assez clair pour écrire.",
       "sections": [
         {
-          "heading": "Pouvoir décider à qui l’on parle",
-          "text": "Les orientations de l’OMS sur les services de santé mentale donnent une place aux choix de la personne et au respect de ses droits. Au cabinet, Solène peut demander un temps seule avec sa psychiatre ou choisir d’inviter Livia pour une partie de l’échange. Le suivi d’un trouble schizoaffectif porte aussi sur les périodes intermédiaires, où les besoins peuvent changer. La forme d’aide qui convenait à une consultation n’est pas à reconduire d’office à la suivante.\n\nÀ la salle des Tilleuls, la femme au manteau formule une question ordinaire : est-ce qu’elle doit parler devant un objectif pour que son retour intéresse l’équipe ? Solène connaît la différence entre répondre à une personne présente et accepter que ses mots soient gardés pour un autre usage. Cette expérience l’aide à entendre la question. Elle ne lui donne pas accès à ce que la spectatrice aurait préféré dire en privé."
+          "heading": "Le sentiment d’exposition et la possibilité de choisir",
+          "text": "La présence d’une personne peut rassurer lors d’un échange intime. Elle peut aussi modifier ce qu’on se sent capable de dire, même lorsque la relation est bonne. Solène a pu demander quand Livia entrerait au cabinet. Cette marge aide à comprendre pourquoi la caméra change pour elle le sens de la question posée aux spectatrices.\n\nLes orientations de l’OMS sur les services de santé mentale donnent une place aux choix de la personne et au respect de ses droits. Au cabinet, Solène peut demander un temps seule avec sa psychiatre ou choisir d’inviter Livia pour une partie de l’échange. Le suivi d’un trouble schizoaffectif porte aussi sur les périodes intermédiaires, où les besoins peuvent changer. La forme d’aide qui convenait à une consultation n’est pas à reconduire d’office à la suivante.\n\nÀ la salle des Tilleuls, la femme au manteau formule une question ordinaire : est-ce qu’elle doit parler devant un objectif pour que son retour intéresse l’équipe ? Solène connaît la différence entre répondre à une personne présente et accepter que ses mots soient gardés pour un autre usage. Cette expérience l’aide à entendre la question. Elle ne lui donne pas accès à ce que la spectatrice aurait préféré dire en privé."
         },
         {
           "heading": "Faire un essai qui accepte les mauvaises nouvelles",
@@ -185,18 +193,20 @@
       "continuity": {
         "choice": "Solène conserve l’ordre des trois films après l’essai et recueille des remarques facultatives, sans caméra ni promesse de publication.",
         "next": "Le lieu de la première séance publique leur échappe ; elle donne son avis sur la suite et recontacte le soin pour des changements qui avaient commencé avant ce contretemps."
-      }
+      },
+      "clinical_focus": "Sentiment d’exposition",
+      "clinical_intro": "Une spectatrice froisse son programme quand Célestin propose de filmer sa réaction. Solène reconnaît l’hésitation de quelqu’un qui a besoin de choisir à qui parler. Dans son suivi du trouble schizoaffectif, pouvoir décider quand Livia entre et garder la première phrase change ce qu’elle se sent libre de dire. Le même souci guide son choix pendant l’essai."
     },
     {
       "number": 6,
       "slug": "solene-salle-annulee-deux-appels",
-      "title": "Distinguer un contretemps des signes qui inquiètent",
+      "title": "Une remarque qui semble viser et une tristesse qui précède le contretemps",
       "description": "Les Tilleuls ne sont plus disponibles pour la séance. Solène garde sa proposition de films et appelle aussi l’infirmière pour un autre sujet.",
       "context": "Au dépôt, deux semaines après l’essai et avant la date publique pressentie",
       "topics": [
-        "Reconnaître ses signes",
-        "Demander de l’aide",
-        "Garder sa place au travail"
+        "Impression de référence",
+        "Tristesse persistante",
+        "Chronologie des symptômes"
       ],
       "opening": "Le message de la mairie commence par « Nous sommes au regret ». La salle des Tilleuls va servir de cantine pendant les travaux de l’école. L’essai est passé, les affiches ne sont pas encore sorties et il n’y aura pas de séance publique à la date qu’elles avaient proposée. Mireille a imprimé le courriel pour y écrire les noms de deux autres lieux. Célestin ne sera pas disponible si tout est décalé d’un mois. Solène s’attarde sur ce détail : elle avait déjà prévu qui poserait les cartes et où.\n\nSur la page de travail ouverte devant elle, quelqu’un a laissé un commentaire sur Trois minutes de pluie : « Couper le début de la présentation. » À la première lecture, Solène a cru qu’il lui était adressé d’une autre façon, comme si les gens de la mairie savaient ce qui lui arrivait et lui disaient de se taire. Cette impression est venue avant le message d’annulation. Depuis quelques jours, elle se sent aussi si triste le matin qu’elle a laissé de côté des appels qu’elle passait facilement la semaine d’avant. Elle avait prévu d’attendre sa prochaine consultation pour en parler.\n\nMireille demande si elle a lu les noms de lieux. Solène dit qu’elle souhaite garder les trois films, mais qu’elle ne peut pas téléphoner aux deux salles aujourd’hui. Mireille propose de vérifier la disponibilité de la médiathèque de la Rive. Solène pose le papier à plat, puis prend son carnet dans le sac. Elle connaît par cœur l’emplacement du contact de l’infirmière. Elle a tout de même besoin de l’avoir sous les yeux.",
       "sections": [
@@ -223,18 +233,20 @@
       "continuity": {
         "choice": "Solène confie la recherche de salle à Mireille, maintient son choix de films et obtient un point de soins le jour même ; elle rappelle à Livia où sont les contacts.",
         "next": "Après les premiers contacts rapprochés, une aggravation à domicile le samedi appelle un relais immédiat."
-      }
+      },
+      "clinical_focus": "Impression de référence",
+      "clinical_intro": "Solène est déçue par l’annulation de la salle. Elle remarque que sa tristesse et l’impression qu’une remarque de travail lui était personnellement adressée avaient commencé avant. Dans le trouble schizoaffectif, dater ces changements aide l’équipe à distinguer ce que le contretemps explique et ce qu’elle doit évaluer. Solène peut parler de ces faits dès qu’ils l’inquiètent."
     },
     {
       "number": 7,
       "slug": "solene-livia-appel-15",
-      "title": "Réagir à la désorientation soudaine d’un proche",
+      "title": "Désorientation soudaine chez une personne suivie pour un trouble psychique",
       "description": "Après un malaise, Solène ne reconnaît plus bien sa cuisine. Livia appelle le 15 et l’équipe envoyée par le Samu prend le relais.",
       "context": "Le samedi suivant, chez Solène et Livia, après des contacts rapprochés avec l’équipe de soins",
       "topics": [
-        "Changement brutal",
-        "Présence en situation de crise",
-        "Passer le relais"
+        "Désorientation soudaine",
+        "Évaluation médicale urgente",
+        "Attribution hâtive"
       ],
       "opening": "Le samedi, Livia revient de la boulangerie et trouve Solène assise sur le sol de la cuisine, le dos contre un placard. Elle l’entend dire « je me suis retenue au mur » avant de lui dire bonjour. Le sachet du pain tombe sur le plan de travail. Ce matin, Solène avait dit au téléphone qu’elle se sentait encore très mal et qu’elle avait l’impression d’entendre quelqu’un dans l’entrée. Elles avaient déjà parlé avec l’équipe depuis le rendez-vous avancé. Maintenant, Solène dit que la pièce tourne et demande si elles sont chez elle. Livia entend la question deux fois.\n\n« Tu peux rester avec moi ? » demande Solène. Elle est incapable de décider si elle peut se relever. Livia s’assied près d’elle, lui dit qu’elle appelle les secours et compose le 15 sans attendre le prochain rendez-vous. Elle indique l’adresse, l’étage, la difficulté de Solène à reconnaître la pièce et le malaise qu’elle vient de lui décrire. Elle ne sait pas à quelle heure cela a commencé et le dit. Le professionnel du Samu lui pose des questions sur l’état de Solène. Quand Livia mentionne que sa compagne est suivie en psychiatrie, elle revient aussi sur ce qu’elle observe maintenant.\n\nSolène reconnaît les quatre chiffres du code d’entrée quand Livia les lit. Elle ajoute « L’interphone est en panne », une phrase que Livia répète au téléphone. Le Samu décide d’envoyer une équipe et leur indique quoi faire d’ici son arrivée. Livia reste près de Solène et suit les consignes. Dans le silence, elle entend le papier du pain qui se déplie tout seul sur le plan de travail.",
       "sections": [
@@ -261,18 +273,20 @@
       "continuity": {
         "choice": "Livia appelle immédiatement le 15 pour le malaise et la désorientation ; l’équipe dépêchée évalue Solène et organise le transfert. Solène demande à prendre son carnet.",
         "next": "Après la prise en charge et le retour chez elle, Solène reprend les effets du quotidien avec sa psychiatre et choisit ce qu’elle veut demander à Livia."
-      }
+      },
+      "clinical_focus": "Désorientation soudaine",
+      "clinical_intro": "Quand Solène est prise de vertiges et reconnaît mal sa cuisine, Livia donne au Samu des faits concrets. Un trouble schizoaffectif connu peut faire penser d’abord à une cause psychiatrique. Une confusion soudaine après un malaise demande une évaluation médicale urgente. Livia appelle le 15 pour décrire les symptômes observés et suit les indications des professionnels."
     },
     {
       "number": 8,
       "slug": "solene-bol-fatigue-apres-soins",
-      "title": "Faire une place à la fatigue après les soins",
+      "title": "Fatigue après une hospitalisation et peur qu’on y voie une rechute",
       "description": "De retour chez elle, Solène parle de sa fatigue à sa psychiatre. Avec Livia, elle choisit une sortie qui peut durer dix minutes.",
       "context": "Quelques semaines après les urgences, entre le retour à domicile et la reprise du travail",
       "topics": [
-        "Écouter ses limites",
-        "Reconnaître ses signes",
-        "Soutien choisi"
+        "Fatigue après les soins",
+        "Peur de la rechute",
+        "Évaluation des symptômes"
       ],
       "opening": "Livia pose sur la table le bol qu’elle a enfin ramené de l’atelier. L’anse frôle le bois. En se passant le bol, elles se coincent les pouces l’une contre l’autre et rient des précautions qu’elles ont prises pour rien. Solène s’attendait à avoir envie d’accompagner Livia à l’atelier pour dire à sa professeure qu’un bol comme celui-là tient aussi bien dans les mains. À dix heures, elle a déjà envie de se recoucher. Elle a oublié le dernier bouton de sa chemise. Livia le lui signale quand elle se lève.\n\nDepuis son retour chez elle après la prise en charge aux urgences puis en service, elle revoit sa psychiatre. Elles ont repris une partie de la période où les bruits, la tristesse et la difficulté à s’occuper du quotidien avaient changé. Dans son carnet, Solène a aussi écrit « matin : lourde, somnole après le petit déjeuner ». Elle redoute que la docteure entende seulement qu’elle ne va pas mieux. Ce qu’elle veut savoir, c’est ce qui peut être examiné quand elle a si peu d’énergie le matin, et ce qu’elle peut faire si ça s’accentue.\n\nLivia demande si Solène veut toujours passer à l’atelier. Elle a une deuxième pièce à récupérer et peut y aller seule. Solène n’a pas envie de passer une matinée entière dehors. Elle se demande si elles pourraient boire un chocolat au comptoir d’en face, dix minutes, après le rendez-vous. Elle aimerait garder une partie de la journée qui ne se passe ni au cabinet ni autour d’un planning.",
       "sections": [
@@ -299,24 +313,26 @@
       "continuity": {
         "choice": "Solène fait évaluer sa fatigue, garde un court moment avec Livia et demande à Mireille la date de la médiathèque sans s’engager sur sa présence.",
         "next": "À la reprise, la médiathèque a une date mais pas l’équipe du soir qu’il faudrait ; elle souhaite garder des décisions de programmation et reprendre le cadre horaire."
-      }
+      },
+      "clinical_focus": "Fatigue après les soins",
+      "clinical_intro": "Solène redoute que la fatigue qu’elle décrit soit comprise comme le retour de son trouble. Avec un trouble schizoaffectif, l’humeur, le sommeil, les effets possibles d’un traitement et les autres causes de fatigue se discutent en suivi. Le moment où la somnolence apparaît et ce qu’elle empêche dans la journée donnent à sa psychiatre des éléments plus précis."
     },
     {
       "number": 9,
       "slug": "solene-amenagement-horaires-deux-colonnes",
-      "title": "Poser ses limites pour reprendre le travail",
+      "title": "Reprendre son rôle au travail avec une énergie encore fragile",
       "description": "Le seul créneau confirmé à la médiathèque est le soir. Solène propose une autre répartition du travail et un samedi en journée.",
       "context": "À la réunion de reprise avec Mireille, après un échange avec la médecine du travail",
       "topics": [
-        "Garder sa place au travail",
-        "Écouter ses limites",
-        "Choisir ce qu’on partage"
+        "Reprise après un arrêt",
+        "Peur de perdre sa place",
+        "Aménagement du travail"
       ],
-      "opening": "Mireille a ouvert le calendrier sur le jeudi où la médiathèque de la Rive peut les accueillir. La séance commencerait à dix-huit heures trente. La bénévole de l’accueil part avant la fin et personne n’a confirmé le démontage. Solène regarde le créneau sur l’écran. Avant son arrêt, elle travaillait déjà en journée. Elle a revu le médecin du travail depuis son retour et discuté de créneaux courts, à heures fixes, avec une fin en journée pour sa reprise. Elle est venue pour organiser les tâches dans ce cadre.\n\nMireille fait défiler la semaine suivante. « Si tu ne peux pas venir le soir, Célestin peut choisir deux films et les montrer un jeudi. » Solène a apporté l’enveloppe des Tilleuls. Elle prend entre deux doigts le bord d’une carte sans la sortir. Elle avait prévu de revoir sa présentation de l’abribus, où les trois spectatrices avaient eu des réactions différentes. Quelqu’un d’autre peut projeter les films. Confier aussi la sélection à Célestin changerait la tâche qu’elle est venue reprendre.\n\n« Est-ce qu’ils ont encore ce samedi à quatorze heures ? » demande-t-elle. Mireille avait cité cette possibilité dans un message, sans la réserver. Il faudrait que la bibliothécaire accepte d’ouvrir l’espace une demi-heure plus tôt et qu’une autre personne ferme la salle. Solène propose de réserver deux heures pour l’essai et de venir le samedi pendant le créneau convenu. Puis elle demande à Mireille quelles sont les tâches qui doivent absolument être faites sur place après son départ.",
+      "opening": "Mireille a ouvert le calendrier sur le jeudi où la médiathèque de la Rive peut les accueillir. La séance commencerait à dix-huit heures trente. La bénévole de l’accueil part avant la fin et personne n’a confirmé le démontage. Solène regarde le créneau sur l’écran. Avant son arrêt, elle travaillait déjà en journée. Elle a revu le médecin du travail depuis son retour et discuté de créneaux courts, à heures fixes, avec une fin en journée pour sa reprise. Elle est venue pour organiser les tâches dans ce cadre.\n\nMireille fait défiler la semaine suivante. « Si tu ne peux pas venir le soir, Célestin peut choisir deux films et les montrer un jeudi. » Solène a apporté l’enveloppe des Tilleuls. Elle prend entre deux doigts le bord d’une carte sans la sortir. Elle avait prévu de revoir sa présentation de l’abribus, où les trois spectatrices avaient eu des réactions différentes. Quelqu’un d’autre peut projeter les films. Confier aussi la sélection à Célestin changerait la tâche qu’elle est venue reprendre. L’idée de perdre le choix des films la serre au ventre. Elle avait redouté de ne plus se sentir capable de les regarder jusqu’au bout. Elle se demande maintenant ce que sa collègue imagine qu’elle peut encore faire.\n\n« Est-ce qu’ils ont encore ce samedi à quatorze heures ? » demande-t-elle. Mireille avait cité cette possibilité dans un message, sans la réserver. Il faudrait que la bibliothécaire accepte d’ouvrir l’espace une demi-heure plus tôt et qu’une autre personne ferme la salle. Solène propose de réserver deux heures pour l’essai et de venir le samedi pendant le créneau convenu. Puis elle demande à Mireille quelles sont les tâches qui doivent absolument être faites sur place après son départ.",
       "sections": [
         {
-          "heading": "Un aménagement porte sur des conditions de travail",
-          "text": "En France, une personne salariée du privé peut contacter directement le service de prévention et de santé au travail. Le médecin du travail peut proposer des aménagements du poste ou du temps de travail en fonction de la situation. Il est tenu au secret médical : les informations qu’il recueille sur la santé de la personne pendant la visite ne sont pas communiquées à l’employeur. Mireille a besoin de connaître le cadre des horaires et les tâches à prévoir. Solène peut garder pour sa psychiatre ce qu’elles ont repris à propos des urgences.\n\nLe suivi d’un trouble schizoaffectif tient compte de l’évolution des symptômes et de leur retentissement. Les périodes plus difficiles et les périodes intermédiaires ne se ressemblent pas forcément. Les orientations de l’OMS sur le rétablissement invitent à tenir compte des objectifs de la personne. Dans ce cadre, Solène peut dire quelles tâches donnent du sens à sa reprise et signaler si le nouvel horaire devient difficile à tenir."
+          "heading": "Retrouver une place professionnelle après un arrêt",
+          "text": "Solène doit pouvoir expliquer ce qu’elle arrive à faire et discuter de l’effort que lui demande une séance. La possibilité de suivre un créneau court lui rend une part du travail accessible. Pour garder sa place dans la programmation, elle a aussi besoin que le partage des tâches soit discuté avec elle.\n\nEn France, une personne salariée du privé peut contacter directement le service de prévention et de santé au travail. Le médecin du travail peut proposer des aménagements du poste ou du temps de travail en fonction de la situation. Il est tenu au secret médical : les informations qu’il recueille sur la santé de la personne pendant la visite ne sont pas communiquées à l’employeur. Mireille a besoin de connaître le cadre des horaires et les tâches à prévoir. Solène peut garder pour sa psychiatre ce qu’elles ont repris à propos des urgences.\n\nLe suivi d’un trouble schizoaffectif tient compte de l’évolution des symptômes et de leur retentissement. Les périodes plus difficiles et les périodes intermédiaires ne se ressemblent pas forcément. Les orientations de l’OMS sur le rétablissement invitent à tenir compte des objectifs de la personne. Dans ce cadre, Solène peut dire quelles tâches donnent du sens à sa reprise et signaler si le nouvel horaire devient difficile à tenir."
         },
         {
           "heading": "Nommer la personne qui ferme la salle",
@@ -337,24 +353,26 @@
       "continuity": {
         "choice": "Le samedi et les créneaux de reprise sont confirmés ; Solène garde la programmation et l’ouverture, Célestin tient la projection, Mireille et la bibliothécaire ferment.",
         "next": "À l’essai à la médiathèque, les sous-titres de l’abribus sont plus difficiles à lire qu’aux Tilleuls. Le programme et le nombre de places deviennent liés."
-      }
+      },
+      "clinical_focus": "Reprise après un arrêt",
+      "clinical_intro": "Solène peut reprendre certaines tâches en journée. Elle redoute qu’un changement d’horaire entraîne aussi la perte de son rôle dans le choix des films. Le trouble schizoaffectif peut affecter l’endurance de façon variable selon les périodes. La discussion porte sur les conditions de la reprise, sur les tâches qu’elle souhaite exercer et sur les informations qu’elle choisit de partager."
     },
     {
       "number": 10,
       "slug": "solene-dernier-rang-sous-titres",
-      "title": "Défendre son choix quand les avis divergent",
+      "title": "Peur de paraître incapable quand on a besoin de temps pour décider",
       "description": "À la médiathèque, Célestin perd des mots au fond de la salle. Solène doit choisir combien de places proposer pour garder le film de l’abribus.",
       "context": "À l’essai dans la médiathèque de la Rive, avant l’impression de l’annonce",
       "topics": [
-        "Garder sa place au travail",
-        "Désaccord professionnel",
-        "Décider en équipe"
+        "Peur d’être disqualifiée",
+        "Affirmation de soi",
+        "Temps de décision"
       ],
       "opening": "Du dernier rang, Célestin annonce « Je n’ai que la fin ». Il se penche un peu vers la gauche, puis se redresse. Sur le mur de la médiathèque, les sous-titres de l’abribus sont plus petits qu’aux Tilleuls. Ici, le meuble où se trouve le projecteur est plus près de l’écran et les rangées vont plus loin. Solène refait le trajet jusqu’au fond. Elle voit la femme du film tourner son parapluie et attrape le mot « maison ». La première moitié de la phrase est déjà partie quand elle trouve la seconde.\n\nMireille propose de supprimer le film avant de tirer les affiches. Elle a promis à la bibliothécaire une séance ouverte à vingt-quatre personnes. Si elles retirent la dernière rangée et rapprochent les autres, il faudra limiter à seize. Solène avait espéré que la question serait réglée après l’essai des Tilleuls. Elle commence à dire que Célestin peut relancer la séquence, puis s’arrête : ils viennent tous les deux de constater la même difficulté.\n\nLa bibliothécaire entre pour demander ce qu’elle peut annoncer au groupe qui se réunit d’habitude le samedi. Elle a quatre personnes qui pensent venir ensemble. Solène sent que répondre tout de suite lui coûte. Depuis son retour au dépôt, elle a demandé deux fois une pause avant un échange et redoute qu’on entende « je ne peux plus choisir ». Elle demande cinq minutes et pose le plan de la salle sur le dernier siège. Elle veut savoir ce qu’elles peuvent encore changer, en plus du nombre de chaises.",
       "sections": [
         {
-          "heading": "Une hésitation au travail appelle une question de travail",
-          "text": "Le trouble schizoaffectif peut avoir des effets sur la vie professionnelle, et ces effets peuvent changer au cours du suivi. Le nom du trouble ne renseigne pas sur la lisibilité de l’image, ni sur la décision à prendre pour cette salle. Célestin et Solène ont constaté un problème de lecture depuis un même rang. Mireille y ajoute une contrainte : le nombre de places que la médiathèque souhaitait proposer. Ces faits suffisent à ouvrir la discussion.\n\nLes orientations de l’OMS sur le rétablissement invitent à respecter les choix et le rôle de la personne. Dans cette scène, une pause permet à Solène de prendre connaissance du problème et de revenir avec une proposition. Si elle remarque par ailleurs un changement qui lui rappelle une période difficile, elle sait à qui en parler. Demander du temps avant de répondre à la bibliothécaire n’oblige pas à transformer la réunion en entretien sur sa santé."
+          "heading": "Avoir besoin de temps et pouvoir défendre un choix",
+          "text": "Quand Solène demande cinq minutes, elle redoute de paraître incapable de choisir. Une pause peut lui servir à retrouver l’ordre des informations utiles et à formuler ce qu’elle propose. Dans une reprise professionnelle, l’équipe peut laisser ce temps puis évaluer la proposition sur ce qu’elle change dans le travail.\n\nLe trouble schizoaffectif peut avoir des effets sur la vie professionnelle, et ces effets peuvent changer au cours du suivi. Le nom du trouble ne renseigne pas sur la lisibilité de l’image, ni sur la décision à prendre pour cette salle. Célestin et Solène ont constaté un problème de lecture depuis un même rang. Mireille y ajoute une contrainte : le nombre de places que la médiathèque souhaitait proposer. Ces faits suffisent à ouvrir la discussion.\n\nLes orientations de l’OMS sur le rétablissement invitent à respecter les choix et le rôle de la personne. Dans cette scène, une pause permet à Solène de prendre connaissance du problème et de revenir avec une proposition. Si elle remarque par ailleurs un changement qui lui rappelle une période difficile, elle sait à qui en parler. Demander du temps avant de répondre à la bibliothécaire n’oblige pas à transformer la réunion en entretien sur sa santé."
         },
         {
           "heading": "Comparer deux salles avant de retirer le film",
@@ -373,23 +391,25 @@
       "continuity": {
         "choice": "Solène garde le film de l’abribus après un nouvel essai ; l’équipe accepte seize places, confirme les réservations et garde une trace des demandes non satisfaites.",
         "next": "Le samedi, Solène présente les trois films dans l’ordre prévu et s’aperçoit qu’une spectatrice veut leur dire autre chose que ce qu’elles avaient prévu de demander."
-      }
+      },
+      "clinical_focus": "Peur d’être disqualifiée",
+      "clinical_intro": "Solène voit le même problème de sous-titres que Célestin et demande quelques minutes pour examiner les solutions. Depuis sa reprise, elle craint que ce temps soit pris pour une perte de compétence. Le récit montre un effet possible du regard porté sur une personne qui vit avec un trouble schizoaffectif. En partageant le constat, l’équipe peut discuter des options avec elle."
     },
     {
       "number": 11,
       "slug": "solene-seance-public-retour-oral",
-      "title": "Prendre sa part du travail sans tout porter",
+      "title": "Retrouver du plaisir sans se mettre la pression d’aller bien",
       "description": "Les trois films passent à la médiathèque. Après la séance, une spectatrice demande à laisser une remarque sans prendre de carte.",
       "context": "Le samedi de la première séance publique, à la médiathèque de la Rive",
       "topics": [
-        "Garder sa place au travail",
-        "Écouter ses limites",
-        "Faire une place à la parole"
+        "Retour du plaisir",
+        "Gestion de l’effort",
+        "Rétablissement et autonomie"
       ],
-      "opening": "À treize heures trente, Solène reconnaît le groupe de quatre à sa façon de s’attendre à chaque porte. Deux personnes veulent se mettre devant, une autre demande si elle peut s’asseoir près de la sortie. La bibliothécaire leur montre le plan. Les seize places ont trouvé preneur et plusieurs personnes ont laissé leur contact à l’accueil pour une autre date éventuelle. La bibliothécaire explique que les remarques aideront l’équipe à préparer ses prochaines séances. Sur la table, il y a l’enveloppe des cartes et un verre qui sert à empêcher la pile de glisser quand quelqu’un ouvre la porte.\n\nSolène avait écrit neuf lignes de présentation. Elle en lit trois et laisse la salle découvrir la chaise de l’atelier. Ensuite, dans l’abribus de Trois minutes de pluie, une femme pose son parapluie pour laisser un homme s’asseoir. Il y a un rire bref au deuxième rang. Solène ne sait pas à qui il appartient et en est contente : elle veut voir ce qui restera aux gens au moment où ils auront fini de regarder les films. Elle s’est placée sur le côté pour pouvoir sortir sans interrompre la séance si elle a besoin d’air. Ce samedi, elle choisit de rester jusqu’à la fin du troisième.\n\nUne spectatrice s’arrête près des cartes, lit « À quel moment avez-vous perdu le fil ? » et demande si elle peut répondre sans écrire. « J’ai trouvé le fil quand elle a posé son parapluie. Ça vous intéresse aussi ? » Solène a la main sur le verre qui retient les cartes. Elle propose de l’écouter avant de lui demander si l’équipe peut garder un mot de ce qu’elle a dit.",
+      "opening": "À treize heures trente, Solène reconnaît le groupe de quatre à sa façon de s’attendre à chaque porte. Deux personnes veulent se mettre devant, une autre demande si elle peut s’asseoir près de la sortie. La bibliothécaire leur montre le plan. Les seize places ont trouvé preneur et plusieurs personnes ont laissé leur contact à l’accueil pour une autre date éventuelle. La bibliothécaire explique que les remarques aideront l’équipe à préparer ses prochaines séances. Sur la table, il y a l’enveloppe des cartes et un verre qui sert à empêcher la pile de glisser quand quelqu’un ouvre la porte.\n\nSolène avait écrit neuf lignes de présentation. Elle en lit trois et laisse la salle découvrir la chaise de l’atelier. Ensuite, dans l’abribus de Trois minutes de pluie, une femme pose son parapluie pour laisser un homme s’asseoir. Il y a un rire bref au deuxième rang. Solène ne sait pas à qui il appartient et en est contente : elle veut voir ce qui restera aux gens au moment où ils auront fini de regarder les films. Elle s’est placée sur le côté pour pouvoir sortir sans interrompre la séance si elle a besoin d’air. Ce samedi, elle choisit de rester jusqu’à la fin du troisième. Elle retrouve l’envie de voir ce que le public a compris. Elle est surprise que le plaisir lui revienne au milieu d’un après-midi dont elle craignait de compter toutes les minutes.\n\nUne spectatrice s’arrête près des cartes, lit « À quel moment avez-vous perdu le fil ? » et demande si elle peut répondre sans écrire. « J’ai trouvé le fil quand elle a posé son parapluie. Ça vous intéresse aussi ? » Solène a la main sur le verre qui retient les cartes. Elle propose de l’écouter avant de lui demander si l’équipe peut garder un mot de ce qu’elle a dit.",
       "sections": [
         {
-          "heading": "Avoir un rôle pendant un temps convenu",
+          "heading": "Retrouver le plaisir d’une activité à un rythme choisi",
           "text": "Les soutiens centrés sur la personne peuvent tenir compte du rôle qu’elle souhaite exercer, de ses préférences et de ce qui l’aide à y participer. Pour Solène, la séance a été préparée avec une heure de fin et des collègues qui savent quand reprendre les tâches. Elle a pu choisir les films, les présenter et écouter les spectateurs. La façon dont elle a vécu cet après-midi lui appartient et pourra être racontée en suivi si elle le souhaite.\n\nLe manuel de l’OMS décrit plusieurs évolutions possibles du trouble schizoaffectif. Une journée où Solène prend plaisir à travailler ne dit pas ce qui lui arrivera ensuite. Les échanges avec sa psychiatre continuent. À la médiathèque, elle peut profiter des rires et des silences, se mettre un moment à l’écart ou rendre sa place à Mireille à l’heure convenue. Ces choix n’ont pas besoin d’être interprétés par l’équipe du cinéma."
         },
         {
@@ -409,23 +429,25 @@
       "continuity": {
         "choice": "La séance a lieu avec les trois films. Solène accueille un retour oral et ne note que ce que la spectatrice souhaite laisser ; elle passe le relais à l’heure convenue.",
         "next": "De retour au dépôt, Solène choisit ce que l’équipe fera des retours et ce qu’elle veut garder dans le programme suivant."
-      }
+      },
+      "clinical_focus": "Retour du plaisir",
+      "clinical_intro": "À la première séance, Solène retrouve le plaisir d’écouter les réactions du public. Elle sait déjà qui reprendra les tâches quand elle partira. Lors du rétablissement après une période difficile du trouble schizoaffectif, une activité aimée peut redevenir accessible par étapes. Un cadre révisable lui permet d’éprouver ce plaisir et de prendre au sérieux l’effort que lui demande la séance."
     },
     {
       "number": 12,
       "slug": "solene-cartes-suite-tournee",
-      "title": "Écouter des avis différents et décider de la suite",
+      "title": "Accepter un désaccord au travail après une période de fragilité",
       "description": "Les cartes de la médiathèque proposent deux changements différents. Solène garde la chaise en ouverture et défend une pause avant le film suivant.",
       "context": "Le mardi après la séance, au dépôt du cinéma itinérant",
       "topics": [
-        "Garder sa place au travail",
-        "Souplesse dans les décisions",
-        "Écouter ses limites"
+        "Confiance retrouvée",
+        "Désaccord professionnel",
+        "Rétablissement et autonomie"
       ],
-      "opening": "Au dépôt, Solène vide l’enveloppe des Tilleuls et celle de la médiathèque sur deux tables. La femme au manteau avait écrit « Gardez la chaise au début ». Quelqu’un d’autre, samedi, a demandé si on pouvait laisser plus de silence après ce film. Célestin pense que les deux personnes se seraient entendues. Lui aurait préféré commencer par le mur peint pour savoir tout de suite à qui il avait affaire. Il l’avait dit pendant l’essai aux Tilleuls et l’écrit à nouveau sur une carte vierge, pour rire. Il signe en grand pour qu’on ne le prenne pas pour un spectateur.\n\nMireille a vérifié le calendrier : la médiathèque ne peut pas les reprendre avant l’hiver. Elle va prévenir les personnes restées sans place qu’aucune date n’est encore fixée. Une petite salle à côté du marché propose en revanche un samedi. Le budget permet un déplacement. Avant de dire oui, Mireille veut savoir ce qu’elles emmènent de la première séance. Solène commence à mettre les cartes sur les films auxquels elles se rapportent. Elle laisse celle du parapluie à côté du carton de l’abribus.\n\nDepuis son passage aux urgences, Solène revoit la docteure Da Costa. Le prochain rendez-vous est déjà dans son téléphone et le cadre des horaires reste en place. Elle ne vient pas faire le bilan du suivi devant Mireille. Elle veut pouvoir dire à quoi lui ont servi les cartes. Elle reprend celle sur le silence et demande à Célestin combien de temps il lui faudrait pour préparer un enchaînement où la salle garde quelques secondes la dernière image en tête avant le film suivant.",
+      "opening": "Au dépôt, Solène vide l’enveloppe des Tilleuls et celle de la médiathèque sur deux tables. La femme au manteau avait écrit « Gardez la chaise au début ». Quelqu’un d’autre, samedi, a demandé si on pouvait laisser plus de silence après ce film. Célestin pense que les deux personnes se seraient entendues. Lui aurait préféré commencer par le mur peint pour savoir tout de suite à qui il avait affaire. Il l’avait dit pendant l’essai aux Tilleuls et l’écrit à nouveau sur une carte vierge, pour rire. Il signe en grand pour qu’on ne le prenne pas pour un spectateur.\n\nMireille a vérifié le calendrier : la médiathèque ne peut pas les reprendre avant l’hiver. Elle va prévenir les personnes restées sans place qu’aucune date n’est encore fixée. Une petite salle à côté du marché propose en revanche un samedi. Le budget permet un déplacement. Avant de dire oui, Mireille veut savoir ce qu’elles emmènent de la première séance. Solène commence à mettre les cartes sur les films auxquels elles se rapportent. Elle laisse celle du parapluie à côté du carton de l’abribus.\n\nDepuis son passage aux urgences, Solène revoit la docteure Da Costa. Le prochain rendez-vous est déjà dans son téléphone et le cadre des horaires reste en place. Elle ne vient pas faire le bilan du suivi devant Mireille. Elle veut pouvoir dire à quoi lui ont servi les cartes. Elle reprend celle sur le silence et demande à Célestin combien de temps il lui faudrait pour préparer un enchaînement où la salle garde quelques secondes la dernière image en tête avant le film suivant. En posant la carte sur la table, elle s’aperçoit qu’elle peut entendre le désaccord de Célestin tout en gardant son avis. Il y a quelques semaines, elle quittait une discussion dès qu’il lui fallait tenir deux idées en même temps. Elle avait besoin d’en parler en consultation pour savoir comment cela s’inscrivait dans le reste de ses journées.",
       "sections": [
         {
-          "heading": "Garder un projet et des rendez-vous qui lui laissent de la place",
+          "heading": "Le rétablissement permet aussi de retrouver des désaccords ordinaires",
           "text": "Le rétablissement en santé mentale peut inclure la poursuite d’un projet, des liens et des décisions de la vie ordinaire. Les orientations de l’OMS proposent un accompagnement qui tient compte de ces objectifs. Pour Solène, la séance a donné des retours qui l’intéressent : quelqu’un a pu s’attacher à la chaise et quelqu’un d’autre a reconnu le geste du parapluie. Elle peut modifier la présentation, raccourcir l’annonce ou laisser un intervalle. Elle peut encore être en désaccord avec Célestin sur le premier film.\n\nLe suivi de son trouble schizoaffectif garde son propre calendrier. Le CDDR décrit plusieurs évolutions, avec des périodes d’amélioration qui varient selon les personnes. Le guide mhGAP inclut des contacts réguliers, à ajuster avec l’équipe selon les besoins. Solène veut parler à sa psychiatre du retour de sa concentration en journée et des matins où elle peine encore à se lever. Au dépôt, elle peut simplement indiquer les créneaux où elle sera présente."
         },
         {
@@ -446,14 +468,16 @@
       "continuity": {
         "choice": "Solène garde la chaise en ouverture, propose un temps de silence et une question plus ouverte pour la suite ; elle maintient les horaires et le suivi convenus.",
         "next": "Le parcours se ferme sur une séance faite et des réactions prises en compte. La visite du lieu suivant dépend encore de l’image, de la jauge et du relais de fermeture."
-      }
+      },
+      "clinical_focus": "Confiance retrouvée",
+      "clinical_intro": "Solène voudrait modifier la séance sans effacer le choix qui lui tient à cœur. Elle sait que Célestin verrait bien les films dans un autre ordre. Vivre avec un trouble schizoaffectif laisse place aux désaccords ordinaires, aux préférences et à l’envie d’essayer quelque chose. Son suivi lui donne aussi un espace distinct pour reparler de ce qui la fragilise."
     }
   ],
   "profile_topics": [
-    "Humeur et perceptions",
-    "Reconnaître ses signes",
-    "Écouter ses limites",
-    "Choisir ce qu’on partage",
-    "Garder sa place au travail"
+    "Trouble schizoaffectif",
+    "Symptômes psychotiques",
+    "Épisodes de l’humeur",
+    "Signes de rechute",
+    "Rétablissement au travail"
   ]
 }

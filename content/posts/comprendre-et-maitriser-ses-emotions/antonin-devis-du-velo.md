@@ -1,23 +1,25 @@
 ---
-title: Faire un choix quand les soucis passent du vélo à la famille
+title: Quand les soucis passent de l’argent à la santé d’un proche
 description: Le réparateur chiffre une réparation. Antonin essaie de choisir pour
   son vélo tandis que d’autres inquiétudes lui reviennent.
 slug: antonin-devis-du-velo
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Antonin
-sujet: Trouble anxieux généralisé
+sujet: Déplacement des inquiétudes entre domaines
 contexte: À l’atelier de réparation du vélo, puis au café avec Benoît
 tags:
+- Trouble anxieux généralisé
 - TAG
 - Anxiété généralisée
-- Inquiétudes qui s’enchaînent
-- Difficulté à décider
-- Temps pour les proches
+- Inquiétudes dans plusieurs domaines
+- Indécision
+- Retentissement relationnel
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B00
+clinical_diagnosis: Trouble anxieux généralisé
 episode: 4
 ---
 

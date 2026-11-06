@@ -1,23 +1,25 @@
 ---
-title: La crainte du rejet quand Alice annonce son retard
-description: Mina attend sa cousine devant la papeterie. Un message sur le retard
-  change l’heure du rendez-vous et Mina demande ce qui reste possible.
+title: Sensibilité au rejet quand Mina lit un refus dans un retard
+description: Alice annonce un retard. Mina entend un refus du cadeau et remarque son
+  envie de mettre fin au rendez-vous avant de poser une question.
 slug: mina-rendez-vous-papier-carnet
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mina
-sujet: Trouble de la personnalité avec profil borderline
+sujet: Sensibilité au rejet
 contexte: Devant une papeterie à la fin de la journée
 tags:
+- Trouble de la personnalité avec profil borderline
 - Profil borderline
 - Trouble borderline
-- Crainte du rejet
-- Interprétation d’un message bref
-- Demande d’une précision
+- Sensibilité au rejet
+- Peur de l’abandon
+- Interprétation des signaux sociaux
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D10
+clinical_diagnosis: Trouble de la personnalité avec profil borderline
 episode: 1
 ---
 
@@ -29,7 +31,7 @@ Une psychiatre a diagnostiqué un trouble de la personnalité chez Mina avant ce
 
 ## Un diagnostic qui prend en compte une histoire
 
-Un trouble de la personnalité touche durablement la façon dont une personne se comprend ou fonctionne dans ses relations. Dans la CIM-11, le code 6D10 désigne le trouble de la personnalité. Le profil borderline, codé 6D11.5, est un qualificatif qui peut préciser le tableau clinique. Les professionnels examinent l’évolution, les difficultés rencontrées dans différents contextes et leurs effets dans la vie. Ils construisent cette évaluation à partir d’une histoire plus large que l’échange montré ici.
+Un trouble de la personnalité touche durablement la façon dont une personne se comprend ou fonctionne dans ses relations. Dans la CIM-11, le code 6D10 désigne le trouble de la personnalité. Le profil borderline, codé 6D11.5, est un qualificatif qui peut préciser le tableau clinique. Il concerne notamment une instabilité qui touche les liens, l’image de soi et les émotions, et des conduites impulsives. La forme et les effets de ces difficultés varient selon la personne. Les professionnels examinent l’évolution, les difficultés rencontrées dans différents contextes et leurs effets dans la vie. Ils construisent cette évaluation à partir d’une histoire plus large que l’échange montré ici.
 
 Mina a parlé avec sa psychiatre de difficultés présentes depuis plusieurs années et dans des situations différentes. Au suivi, elle peut reprendre ce qu’elle a éprouvé devant la papeterie et raconter la suite. La force d’une réaction mérite d’être entendue, et une question adressée à Alice peut lui apporter l’information qui lui manque.
 

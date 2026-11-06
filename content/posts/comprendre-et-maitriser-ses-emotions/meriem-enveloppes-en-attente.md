@@ -1,23 +1,25 @@
 ---
-title: Retrouver sa place après s’être mise en retrait
-description: Une semaine après la visite de Rémi, Meriem manque la préparation. Elle
-  cherche avec Ève une façon de garder sa place dans l’échange.
+title: Quand la honte persiste et pousse Meriem à quitter la préparation
+description: La visite est terminée, mais la honte reste et Meriem manque un jeudi.
+  Elle cherche une part du projet qu’elle souhaite garder.
 slug: meriem-enveloppes-en-attente
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Meriem
-sujet: Trouble de stress post-traumatique complexe
+sujet: Honte persistante et retrait
 contexte: Chez Meriem, puis au téléphone avec Ève
 tags:
+- Trouble de stress post-traumatique complexe
 - TSPT complexe
 - CPTSD
-- Honte et autocritique
-- Confiance dans les relations
-- Retour des difficultés
+- Honte persistante
+- Autocritique
+- Retrait de l’activité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B41
+clinical_diagnosis: Trouble de stress post-traumatique complexe
 episode: 8
 ---
 

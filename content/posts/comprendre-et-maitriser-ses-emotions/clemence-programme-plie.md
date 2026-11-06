@@ -1,27 +1,29 @@
 ---
-title: Avant la projection, partager les rôles quand on veut tout prévoir
+title: Reprendre une activité après le malaise sans se sentir obligée de tout assurer
 description: La date approche. Clémence précise sa place dans la soirée et laisse
   à Baya la présentation du film qu’elle a choisi.
 slug: clemence-programme-plie
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Clémence
-sujet: Anorexie mentale
+sujet: Reprise progressive des activités
 contexte: convenir des rôles le soir de la projection en tenant compte du suivi et
   des disponibilités
 tags:
+- Anorexie mentale
 - Anorexie
-- Tendance à tout anticiper
-- Délégation de tâches
-- Choix de ses limites
+- Peur de décevoir
+- Reprise progressive des activités
+- Soutien coordonné
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B80
+clinical_diagnosis: Anorexie mentale
 episode: 11
 ---
 
-La référente a confirmé qu’elles pourront projeter le court métrage au rideau. Elle a imprimé un programme plié, avec le film de Clémence à l’intérieur et celui de Baya au dos. Elle veut savoir qui s’occupera de l’accueil et de la présentation. Clémence a déjà préparé quelques phrases pour parler de la porte. Sur une feuille à part, elle a aussi prévu ce qu’elle dirait si Baya oubliait d’expliquer le rideau. Baya voit la feuille, lit le titre et lui demande si elles avaient décidé de présenter les deux films ensemble.
+La référente a confirmé qu’elles pourront projeter le court métrage au rideau. Elle a imprimé un programme plié, avec le film de Clémence à l’intérieur et celui de Baya au dos. Elle veut savoir qui s’occupera de l’accueil et de la présentation. Clémence a déjà préparé quelques phrases pour parler de la porte. Elle se sent coupable d’avoir laissé l’essai aux autres le jour du malaise et voudrait leur montrer qu’ils peuvent de nouveau compter sur elle. Sur une feuille à part, elle a aussi prévu ce qu’elle dirait si Baya oubliait d’expliquer le rideau. Baya voit la feuille, lit le titre et lui demande si elles avaient décidé de présenter les deux films ensemble.
 
 Au dernier rendez-vous, Clémence a discuté avec les professionnels de ce qu’elle peut reprendre et garde un point prévu avec eux. Elle a confirmé à la référente qu’elle souhaite présenter son film. Elle voudrait que quelqu’un d’autre s’occupe de l’accueil. Dans sa tête, elle se retrouve pourtant déjà au foyer, près de la table, à répondre sur l’horaire puis à vérifier que Baya a retrouvé ses mots. Elle replie le programme pour voir quelle partie disparaît quand il est posé sur le comptoir.
 

@@ -1,22 +1,24 @@
 ---
-title: Pourquoi Mathis sous-estime le temps d’installation
+title: Estimer la durée d’une tâche quand les étapes s’accumulent
 description: Mathis mesure le trajet avec Zélie. Il découvre tout ce qui manque entre
   son heure de départ et le moment où le poste sera prêt.
 slug: mathis-trajet-materiel-temps
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mathis
-sujet: TDAH chez l’adulte
+sujet: Planification et estimation du temps
 contexte: Entre l’atelier associatif et la place du marché, pendant le repérage
 tags:
+- TDAH chez l’adulte
 - TDAH
+- Planification
 - Estimation du temps
-- Enchaînement des tâches
-- Passage de relais
+- Enchaînement des actions
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A05
+clinical_diagnosis: TDAH chez l’adulte
 episode: 6
 ---
 
@@ -26,7 +28,7 @@ Au bas de la rue, la roue de la remorque accroche un rebord. Mathis descend pour
 
 Quand ils posent enfin la première caisse, Mathis regarde de nouveau l’heure. Le trajet proprement dit n’a pas beaucoup dépassé son estimation. Il leur reste à monter le poste. Zélie sort de sa poche le message qu’elle devait envoyer à la bénévole qui tiendra l’accueil. Mathis lui demande d’attendre que l’ardoise soit en place. Il voudrait lui annoncer l’heure où elle pourra commencer pour de vrai.
 
-## Comprendre ce qui se passe autour des dix minutes
+## Anticiper les étapes qui manquent à son estimation
 
 Mathis a estimé la durée de la partie qu’il connaît. Il roule souvent jusqu’aux Tilleuls. Cette fois, ils ont attendu la clé, descendu un rebord à pied et discuté du camion. Chacune de ces étapes a des raisons concrètes. Le TDAH peut s’accompagner de difficultés à organiser une succession d’actions. Un trajet encombré renseigne aussi sur le trajet lui-même. En repérant l’origine du délai, les deux collègues peuvent changer quelque chose au programme.
 

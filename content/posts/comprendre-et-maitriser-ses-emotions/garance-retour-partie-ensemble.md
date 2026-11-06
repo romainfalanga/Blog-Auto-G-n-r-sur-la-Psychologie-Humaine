@@ -1,22 +1,24 @@
 ---
-title: Reprendre la musique à son rythme après une crise
+title: Reprendre quelques mesures après une crise dépressive
 description: Quelques semaines après le recours aux urgences, Garance propose de reprendre
   une partie de la répétition. Elle choisit ce qu’elle veut dire à l’ensemble.
 slug: garance-retour-partie-ensemble
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Garance
-sujet: Trouble bipolaire de type II
+sujet: Reprise progressive après une crise
 contexte: Avant et pendant une reprise de répétition avec l’ensemble de cordes
 tags:
+- Trouble bipolaire de type II
 - Bipolarité type II
-- Reprise progressive
-- Soutien sans pression
-- Choix de ce que l’on partage
+- Reprise d’activité
+- Fatigue dépressive
+- Appuis du groupe
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A61
+clinical_diagnosis: Trouble bipolaire de type II
 episode: 10
 ---
 

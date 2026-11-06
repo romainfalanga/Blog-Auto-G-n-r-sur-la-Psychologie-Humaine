@@ -26,7 +26,7 @@ La rédaction se fait directement avec un agent dédié par personnage. La comma
 
 Après la relecture du parcours, `record-review` inscrit la date, les observations et les empreintes du manuscrit et de son dossier dans le registre. L’intégration prépare les douze articles, les repères, la fiche du personnage et les conseils pour les proches. Les contrôles vérifient l’ouverture, la continuité documentée, les sources, les liens et la couverture du catalogue. Les affirmations et les raccords sont relus dans leur contexte. La charte conserve les enseignements de chaque vague.
 
-Les 231 articles des vingt premières fiches ont servi de référence éditoriale. Le titre situe le mécanisme ou le vécu, le résumé de la carte reprend les premières phrases de la scène et le portrait expose la manière de réagir du personnage. Cinq repères psychologiques choisis à partir de son parcours sont affichés sur sa fiche et sur l’accueil. Les trois repères de chaque épisode en précisent le sujet. L’article enchaîne la scène, l’explication et les pistes pour agir, puis revient au récit avant la perspective des proches. Les références de chaque parcours clinique restent accessibles.
+Les histoires d’origine servent de référence. Chaque fiche clinique indique le trouble dans sa présentation et en tête de ses cinq mots-clés. Le titre et l’introduction annoncent ce que la scène permet de comprendre. Les cartes des épisodes reprennent cette introduction et trois repères propres à l’épisode. La scène, l’explication, les pistes concrètes, le retour au récit et la perspective des proches développent cet angle. L’[audit des 32 parcours](audit-parcours-cliniques-v19.md) détaille les corrections.
 
 ## Vagues relues
 
@@ -43,4 +43,4 @@ Les 231 articles des vingt premières fiches ont servi de référence éditorial
 
 Mathis, Jules et Sacha reçoivent leur diagnostic à l’épisode 3 à l’issue d’une évaluation professionnelle. À l’épisode 2, Diane revient sur le diagnostic posé pendant son hospitalisation. Ces 384 épisodes portent le nombre de rubriques pour les proches à 771. Le [registre des relectures](../editorial/clinical/releases.json) conserve la vérification de chaque parcours.
 
-La vague 9 commence par Malo, Bérénice, Alix et Louise. La cartographie prévoit 150 parcours cliniques. Après la vague 8, il en reste 118 à rédiger et à relire.
+La suite se décide à partir des [priorités de couverture](cartographie-clinique-v17.md#priorités-de-couverture) et de l’apport de chaque sujet. Les canons du registre restent des pistes de travail.

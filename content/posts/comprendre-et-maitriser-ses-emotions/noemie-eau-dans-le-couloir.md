@@ -1,22 +1,24 @@
 ---
-title: Face à une infiltration, agir malgré l’incertitude
-description: Une trace d’eau change le programme de l’exposition. Noémie et Aïcha
-  s’appuient sur les procédures du service et revoient leur visite.
+title: Le doute sur sa responsabilité après une infiltration aux archives
+description: Noémie signale l’infiltration. Elle se surprend ensuite à rejouer la
+  matinée pour savoir si elle aurait dû la repérer plus tôt.
 slug: noemie-eau-dans-le-couloir
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Noémie
-sujet: Trouble obsessionnel-compulsif
+sujet: Doute sur sa responsabilité
 contexte: Aux archives, devant une salle où une infiltration vient d’être signalée
 tags:
+- Trouble obsessionnel-compulsif
 - TOC
-- Tolérance à l’incertitude
 - Doute sur sa responsabilité
-- Procédures de sécurité
+- Vérification mentale
+- Tolérance à l’incertitude
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B20
+clinical_diagnosis: Trouble obsessionnel-compulsif
 episode: 8
 ---
 

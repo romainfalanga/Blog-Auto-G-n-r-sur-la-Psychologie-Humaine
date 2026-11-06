@@ -1,23 +1,25 @@
 ---
-title: Après le festival, garder du temps pour soi malgré le désaccord
-description: Après le festival, Mina et Rachid rangent le local. Mina garde son suivi
-  et réserve un créneau de reliure pour un projet personnel.
+title: Mesurer les progrès du suivi dans les relations et l’autonomie quotidienne
+description: Après le festival, le désaccord reste ouvert. Mina maintient son suivi
+  et choisit un créneau pour réaliser un carnet qu’elle gardera.
 slug: mina-table-apres-festival
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Mina
-sujet: Trouble de la personnalité avec profil borderline
+sujet: Évolution du fonctionnement personnel et relationnel
 contexte: Le lendemain du festival, dans le local presque vide
 tags:
+- Trouble de la personnalité avec profil borderline
 - Profil borderline
 - Trouble borderline
-- Désaccord durable au travail
-- Disponibilité choisie
-- Place donnée à un projet pour soi
+- Fonctionnement relationnel
+- Autonomie
+- Suivi du trouble de la personnalité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6D10
+clinical_diagnosis: Trouble de la personnalité avec profil borderline
 episode: 12
 ---
 

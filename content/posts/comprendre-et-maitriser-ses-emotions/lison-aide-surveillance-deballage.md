@@ -1,23 +1,25 @@
 ---
-title: Craindre d’être surveillée au déballage du tissu
+title: Retrouver de l’assurance avec un contrôle choisi
 description: Lison réceptionne le bon coupon et propose à Nora un partage précis entre
   les étapes qu’elle peut faire seule et celles qu’ils vérifieront à deux.
 slug: lison-aide-surveillance-deballage
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Lison
-sujet: Trouble développemental des apprentissages avec déficit en mathématiques
+sujet: Sentiment de compétence et vérification
 contexte: Lundi, le jour de l’échange, à la table de réception de l’atelier.
 tags:
+- Trouble développemental des apprentissages avec déficit en mathématiques
 - Dyscalculie développementale
 - Dyscalculie
-- Autonomie et aide choisie
-- Peur d’être observée
-- Vérifier à deux
+- Sentiment de compétence
+- Mesure indépendante
+- Autonomie au travail
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A03.2
+clinical_diagnosis: Trouble développemental des apprentissages avec déficit en mathématiques
 episode: 11
 ---
 

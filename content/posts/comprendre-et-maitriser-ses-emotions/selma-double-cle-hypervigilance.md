@@ -1,23 +1,25 @@
 ---
-title: 'Hypervigilance : Selma guette encore les bruits autour de la serre'
-description: Même après le passage du vitrier, Selma guette le moindre bruit de la
-  serre. Elle choisit une façon précise de partager les clés avec André.
+title: Hypervigilance quand Selma guette encore les bruits après le passage du vitrier
+description: Le vitrier a sécurisé la zone. Selma guette encore le prochain bruit
+  et manque la question qu’André est en train de lui poser.
 slug: selma-double-cle-hypervigilance
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Selma
-sujet: Trouble de stress post-traumatique
+sujet: Hypervigilance après un trauma
 contexte: Sous l’auvent, à la fin d’une journée venteuse
 tags:
+- Trouble de stress post-traumatique
 - TSPT
 - PTSD
 - Hypervigilance
-- Attention tournée vers le danger
-- Confiance entre voisins
+- Sentiment persistant de menace
+- Attention accaparée
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B40
+clinical_diagnosis: Trouble de stress post-traumatique
 episode: 4
 ---
 

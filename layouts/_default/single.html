@@ -7,6 +7,9 @@
     <p class="article-character"><a href="/personnages/{{ (index $.Site.Data.article_keywords $id).character_id }}/">{{ . }}</a></p>
     {{- end }}{{ end }}{{ end }}
     <h1 itemprop="headline">{{ .Title }}</h1>
+    {{- with .Params.clinical_diagnosis }}
+    <p class="article-diagnosis">{{ . }}</p>
+    {{- end }}
   </header>
 
   {{ partial "article-intro.html" . }}

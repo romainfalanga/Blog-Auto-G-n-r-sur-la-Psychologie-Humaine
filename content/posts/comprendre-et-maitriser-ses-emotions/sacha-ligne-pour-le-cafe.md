@@ -1,27 +1,29 @@
 ---
-title: Contribuer à un projet sans se sentir obligé de parler devant tous
+title: Retrouver la liberté de choisir comment participer
 description: Jeanne revient pour la ficelle. Sacha reprend sa question sur les courges
   et choisit la place qu’il veut prendre au prochain échange de graines.
 slug: sacha-ligne-pour-le-cafe
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Sacha
-sujet: Trouble d’anxiété sociale
+sujet: Participation choisie et anxiété sociale
 contexte: La graineterie, un matin près du comptoir
 tags:
+- Trouble d’anxiété sociale
 - Anxiété sociale
 - Phobie sociale
-- Préférences relationnelles
+- Autonomie relationnelle
+- Anxiété sociale persistante
 - Choix de participation
-- Reprise d’une conversation
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B04
+clinical_diagnosis: Trouble d’anxiété sociale
 episode: 12
 ---
 
-Jeanne arrive quand Sacha coupe les longueurs de ficelle pour les commandes. Elle avait promis de passer la semaine dernière et n’a pas trouvé le temps. Elle pose le sachet de pois de senteur au bord du comptoir. Il a pris la forme de la poche où elle le range. Les pois de senteur ont laissé place à des graines de courge. Jeanne a noté la variété au crayon. Sacha lui demande comment elle les fait sécher. Il reconnaît le coin du papier qu’il avait recollé au cabinet.
+Lorsque Jeanne revient à la graineterie, Sacha lui pose enfin la question sur les courges qu’il avait laissée en suspens au café. Il a de nouveau envie d’entendre la réponse. Jeanne s’approche du comptoir où il coupe de la ficelle et sort de sa poche un sachet dont Sacha reconnaît le coin recollé au cabinet. Elle a remplacé les pois de senteur par des graines de courge et noté la variété au crayon. Tant qu’ils parlent à deux, Sacha suit le fil avec plaisir. Il lui demande comment elle les fait sécher.
 
 Ils parlent près de la bobine jusqu’à ce que la sonnette annonce une autre cliente. Sacha perd un mot au milieu d’une question. La cliente prend une fiche dans le chevalet, la retourne et la repose avant de gagner le rayon des étiquettes. Sacha prend la bobine, coupe la longueur que Jeanne lui a demandée et lui demande de finir l’histoire de son rebord de fenêtre. La cliente est toujours dans le rayon. Il entend ses clefs tinter quand elle fouille dans son sac.
 

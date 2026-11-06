@@ -1,23 +1,25 @@
 ---
-title: Confier deux partitions au chœur quand le manque est toujours là
-description: Blandine remet à Alice Le Pont et Les Fenêtres. Elle sait quelles feuilles
-  elle veut garder et quelle place elle souhaite au chœur.
+title: Faire place au souvenir tout en retrouvant des décisions quotidiennes
+description: Blandine confie deux partitions au chœur et garde Les Saules. Le don
+  et le suivi donnent des repères différents sur ce qu’elle traverse.
 slug: blandine-deux-feuilles-pour-choeur
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Blandine
-sujet: Trouble du deuil prolongé
+sujet: Évolution du deuil prolongé
 contexte: À l’annexe de la bibliothèque, puis au téléphone avec Yannis
 tags:
+- Trouble du deuil prolongé
 - Deuil prolongé
 - CIM-11 6B42
-- Attachement aux objets
-- Transmission du souvenir
-- Choix de ses engagements
+- Manque persistant
+- Reprise d’activités choisies
+- Évolution du retentissement
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B42
+clinical_diagnosis: Trouble du deuil prolongé
 episode: 12
 ---
 
@@ -27,7 +29,7 @@ Alice relit les deux titres. Blandine corrige une lettre du nom de famille de Je
 
 Blandine sort les deux originaux de la chemise et les pose près de la fiche. Elle demande encore sur quel document figureront leurs noms. Alice lui montre la pochette qui restera dans le tiroir, puis le programme de concert, qui n’en dit rien. Blandine lui confirme que ces deux feuilles entrent aux archives du chœur. Elle referme elle-même la chemise vide.
 
-## Choisir l’avenir de quelques objets
+## Suivre l’évolution du retentissement dans la durée
 
 Remettre un objet, en garder un autre et continuer de penser à la personne morte peuvent faire partie de la même décision. Blandine a choisi deux feuilles parce qu’elle comprend leur utilité pour le chœur et sait où elles seront. Elle garde Les Saules et le reste du dossier parce qu’elle veut pouvoir les lire à sa façon. Dans la vie d’une autre personne, conserver toutes les partitions ou s’en séparer peut avoir un autre sens. Le geste ne permet pas de qualifier son deuil.
 

@@ -1,22 +1,24 @@
 ---
-title: Écouter des avis différents et décider de la suite
+title: Accepter un désaccord au travail après une période de fragilité
 description: Les cartes de la médiathèque proposent deux changements différents. Solène
   garde la chaise en ouverture et défend une pause avant le film suivant.
 slug: solene-cartes-suite-tournee
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Solène
-sujet: Trouble schizoaffectif
+sujet: Confiance retrouvée
 contexte: Le mardi après la séance, au dépôt du cinéma itinérant
 tags:
+- Trouble schizoaffectif
 - Trouble schizo-affectif
-- Garder sa place au travail
-- Souplesse dans les décisions
-- Écouter ses limites
+- Confiance retrouvée
+- Désaccord professionnel
+- Rétablissement et autonomie
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A21
+clinical_diagnosis: Trouble schizoaffectif
 episode: 12
 ---
 
@@ -24,9 +26,9 @@ Au dépôt, Solène vide l’enveloppe des Tilleuls et celle de la médiathèque
 
 Mireille a vérifié le calendrier : la médiathèque ne peut pas les reprendre avant l’hiver. Elle va prévenir les personnes restées sans place qu’aucune date n’est encore fixée. Une petite salle à côté du marché propose en revanche un samedi. Le budget permet un déplacement. Avant de dire oui, Mireille veut savoir ce qu’elles emmènent de la première séance. Solène commence à mettre les cartes sur les films auxquels elles se rapportent. Elle laisse celle du parapluie à côté du carton de l’abribus.
 
-Depuis son passage aux urgences, Solène revoit la docteure Da Costa. Le prochain rendez-vous est déjà dans son téléphone et le cadre des horaires reste en place. Elle ne vient pas faire le bilan du suivi devant Mireille. Elle veut pouvoir dire à quoi lui ont servi les cartes. Elle reprend celle sur le silence et demande à Célestin combien de temps il lui faudrait pour préparer un enchaînement où la salle garde quelques secondes la dernière image en tête avant le film suivant.
+Depuis son passage aux urgences, Solène revoit la docteure Da Costa. Le prochain rendez-vous est déjà dans son téléphone et le cadre des horaires reste en place. Elle ne vient pas faire le bilan du suivi devant Mireille. Elle veut pouvoir dire à quoi lui ont servi les cartes. Elle reprend celle sur le silence et demande à Célestin combien de temps il lui faudrait pour préparer un enchaînement où la salle garde quelques secondes la dernière image en tête avant le film suivant. En posant la carte sur la table, elle s’aperçoit qu’elle peut entendre le désaccord de Célestin tout en gardant son avis. Il y a quelques semaines, elle quittait une discussion dès qu’il lui fallait tenir deux idées en même temps. Elle avait besoin d’en parler en consultation pour savoir comment cela s’inscrivait dans le reste de ses journées.
 
-## Garder un projet et des rendez-vous qui lui laissent de la place
+## Le rétablissement permet aussi de retrouver des désaccords ordinaires
 
 Le rétablissement en santé mentale peut inclure la poursuite d’un projet, des liens et des décisions de la vie ordinaire. Les orientations de l’OMS proposent un accompagnement qui tient compte de ces objectifs. Pour Solène, la séance a donné des retours qui l’intéressent : quelqu’un a pu s’attacher à la chaise et quelqu’un d’autre a reconnu le geste du parapluie. Elle peut modifier la présentation, raccourcir l’annonce ou laisser un intervalle. Elle peut encore être en désaccord avec Célestin sur le premier film.
 

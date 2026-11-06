@@ -1,23 +1,25 @@
 ---
-title: Savoir à quoi on s’engage avant de dire oui au travail
+title: Comprendre ce que l’équipe attend avant de dire oui
 description: Pour installer ses panneaux aux deux entrées, Hélène négocie les supports
   et demande qui gardera les indications à jour.
 slug: helene-qui-deplace-la-fleche
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Hélène
-sujet: Trouble du développement intellectuel
+sujet: Compréhension concrète d’un engagement
 contexte: Dans la réserve de la boutique, le samedi, avant l’installation
 tags:
+- Trouble du développement intellectuel
 - TDI
 - Troubles du développement intellectuel
-- Limites au travail
-- Partage des responsabilités
-- Reconnaissance de sa contribution
+- Compréhension des responsabilités
+- Décision accompagnée
+- Consentement
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A00
+clinical_diagnosis: Trouble du développement intellectuel
 episode: 11
 ---
 

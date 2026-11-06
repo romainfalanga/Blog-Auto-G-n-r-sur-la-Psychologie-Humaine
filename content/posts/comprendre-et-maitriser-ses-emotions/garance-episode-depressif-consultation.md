@@ -1,22 +1,24 @@
 ---
-title: 'Dépression : au rendez-vous, Garance parle aussi de plaisir'
+title: Évaluer la dépression quand le plaisir revient par moments
 description: La psychiatre évalue la période difficile de Garance. Le plaisir qu’elle
   a pris à jouer quelques mesures fait partie de ce qu’elle raconte.
 slug: garance-episode-depressif-consultation
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Garance
-sujet: Trouble bipolaire de type II
+sujet: Évaluation d’un épisode dépressif
 contexte: Au cabinet, pour l’évaluation de la période dépressive
 tags:
+- Trouble bipolaire de type II
 - Bipolarité type II
-- Plaisir au cours d’une dépression
-- Difficultés dans les tâches ordinaires
-- Choix du traitement avec la psychiatre
+- Épisode dépressif
+- Variabilité du plaisir
+- Évaluation de la sécurité
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6A61
+clinical_diagnosis: Trouble bipolaire de type II
 episode: 7
 ---
 

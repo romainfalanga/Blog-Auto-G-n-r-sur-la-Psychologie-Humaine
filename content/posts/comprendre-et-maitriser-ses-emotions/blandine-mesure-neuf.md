@@ -1,23 +1,26 @@
 ---
-title: Le plaisir de se souvenir et l’hésitation à donner
-description: À l’annexe, Léon montre à Blandine ce que les annotations de Jeanne pourraient
-  apporter. Leurs souvenirs de la musique diffèrent.
+title: Ambivalence du souvenir entre le plaisir de reparler de Jeanne et la crainte
+  de donner une partition
+description: À la mesure neuf, Blandine retrouve le plaisir de discuter musique. Imaginer
+  que la feuille change de place lui fait aussitôt rapprocher la chemise.
 slug: blandine-mesure-neuf
 date: '2026-11-06T00:00:00+00:00'
 draft: false
 personnage: Blandine
-sujet: Trouble du deuil prolongé
+sujet: Ambivalence dans le deuil
 contexte: À l’annexe de la bibliothèque, pour un premier échange avec Léon
 tags:
+- Trouble du deuil prolongé
 - Deuil prolongé
 - CIM-11 6B42
-- Souvenirs partagés
-- Attachement aux objets
-- Liberté de décider
+- Ambivalence émotionnelle
+- Souvenir de la personne décédée
+- Douleur liée à la perte
 categories:
 - Comprendre et maîtriser ses émotions
 editorial_pack: clinical-v17
 clinical_code: 6B42
+clinical_diagnosis: Trouble du deuil prolongé
 episode: 4
 ---
 
@@ -27,7 +30,7 @@ Ils s’arrêtent à la mesure neuf du Pont. Jeanne a écrit « écouter basses 
 
 En retournant Les Fenêtres, il trouve une date qui lui manque pour identifier une ancienne reprise du morceau. Il aimerait que les deux partitions rejoignent un jour la petite armoire des archives du chœur. Ce mot, « rejoignent », arrête Blandine : elle imagine déjà un autre nom sur le tiroir. Elle rapproche la chemise d’elle. Léon lui demande ce qu’elle est venue chercher aujourd’hui. Elle répond qu’elle aimerait comprendre ce qu’il ferait des feuilles s’il les avait.
 
-## Deux personnes se rappellent deux scènes
+## Comprendre l’ambivalence des souvenirs
 
 Un souvenir d’une personne morte peut susciter de l’affection, de la peine ou du désaccord pendant la même conversation. Blandine et Léon ont prêté attention à des voix différentes. Blandine suivait sa sœur et savait ce que lui coûtait un silence de Jeanne, à côté d’elle ; Léon essayait d’entendre l’ensemble. Ils peuvent confronter ces souvenirs pour comprendre une note sur le papier. Blandine garde aussi ce qu’elle sait de la dispute dans l’écharpe, que Léon n’a pas vécue.
 
