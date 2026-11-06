@@ -98,20 +98,11 @@
   if (!input || !index) return;
   var entries = prepare(JSON.parse(index.textContent)), grid = document.getElementById('character-results');
   var cards = new Map(Array.from(grid.querySelectorAll('[data-character-id]')).map(function (card) { return [card.dataset.characterId, card]; }));
-  var headings = grid.querySelectorAll('[data-character-group-heading]'), discoveryOrder = Array.from(grid.children);
-  var clear = document.getElementById('character-search-clear'), groupLinks = document.getElementById('character-group-links');
-  var ranked = false;
+  var clear = document.getElementById('character-search-clear');
   function update() {
     var query=input.value.trim(), results=search(entries,query), shown=new Set(results.map(function(r){return r.entry.id;}));
     cards.forEach(function(card,id){card.hidden=!shown.has(id);});
-    headings.forEach(function(heading){heading.hidden=!!query;});
-    if(groupLinks)groupLinks.hidden=!!query;
-    if(query){
-      results.forEach(function(r){var card=cards.get(r.entry.id);if(card)grid.append(card);});
-    }else if(ranked){
-      discoveryOrder.forEach(function(node){grid.append(node);});
-    }
-    ranked=!!query;
+    results.forEach(function(r){var card=cards.get(r.entry.id);if(card)grid.append(card);});
     document.getElementById('character-count').textContent=results.length+' personnage'+(results.length>1?'s':'')+(query?' pour cette recherche':' à explorer');
     document.getElementById('character-search-empty').hidden=!!results.length;
     clear.hidden=!query;

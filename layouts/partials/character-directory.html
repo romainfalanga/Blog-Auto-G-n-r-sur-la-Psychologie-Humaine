@@ -14,37 +14,17 @@
   <p id="character-search-empty" class="character-search-empty" hidden>Aucun personnage ne réunit ces termes. Essayez un thème plus large ou retirez un mot.</p>
   {{ $registry := (readFile "scripts/personnages.json" | transform.Unmarshal).personnages }}
   {{ $searchIndex := slice }}
-  {{ $original := slice }}
-  {{ $clinical := slice }}
-  {{ $development := slice }}
+  {{ $ordered := slice }}
   {{ range .Site.Data.character_discovery }}
-    {{ with $.Site.GetPage (printf "/personnages/%s" .) }}{{ $original = $original | append . }}{{ end }}
+    {{ with $.Site.GetPage (printf "/personnages/%s" .) }}{{ $ordered = $ordered | append . }}{{ end }}
   {{ end }}
   {{ range $characters.ByWeight }}
     {{ if not (in $.Site.Data.character_discovery .File.ContentBaseName) }}
-      {{ if not .Params.clinical_code }}
-        {{ $original = $original | append . }}
-      {{ else if hasPrefix .Params.clinical_code "6A0" }}
-        {{ $development = $development | append . }}
-      {{ else }}
-        {{ $clinical = $clinical | append . }}
-      {{ end }}
+      {{ $ordered = $ordered | append . }}
     {{ end }}
   {{ end }}
-  {{ $groups := slice
-    (dict "id" "mecanismes-et-emotions" "name" "Mécanismes et émotions" "pages" $original)
-    (dict "id" "troubles-psychiques" "name" "Troubles psychiques et neurocognitifs" "pages" $clinical)
-    (dict "id" "neurodeveloppement" "name" "Troubles du neurodéveloppement" "pages" $development)
-  }}
-  <nav class="character-group-links" id="character-group-links" aria-label="Sections du catalogue">
-    {{ range $groups }}{{ if .pages }}<a href="#{{ .id }}">{{ .name }}</a>{{ end }}{{ end }}
-  </nav>
   <div class="perso-grid" id="character-results">
-    {{ range $groups }}
-    {{ if .pages }}
-      <h2 class="character-group-heading" id="{{ .id }}" data-character-group-heading>{{ .name }}</h2>
-    {{ end }}
-    {{ range .pages }}
+    {{ range $ordered }}
     {{ $name := (.Params.prenom | default .Title) | lower }}
     {{ $cues := index .Site.Data.character_keywords $name }}
     {{ $presentation := .Description }}
@@ -86,7 +66,6 @@
       {{ end }}
       <a href="{{ .RelPermalink }}" class="perso-btn" aria-label="Découvrir ses histoires, {{ $prenom }}">Découvrir ses histoires</a>
     </article>
-    {{ end }}
     {{ end }}
   </div>
   <script id="character-search-index" type="application/json">{{ $searchIndex | jsonify | safeJS }}</script>
