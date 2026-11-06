@@ -66,7 +66,17 @@ function capturePageDrafts(){var chatInput=document.getElementById('chat-content
 function syncPageLocation(){query=new URLSearchParams(location.search);state.tab=pageForPath(location.pathname);state.pendingArticle=query.get('article');state.pendingLike=query.get('like')==='1';state.pendingError=null;syncPageChrome()}
 function syncPageChrome(){document.title='Décode ton esprit';document.querySelectorAll('#site-navigation a').forEach(function(link){if(link.getAttribute('href')===PAGES[state.tab].path)link.setAttribute('aria-current','page');else link.removeAttribute('aria-current')})}
 
-function go(tab,search){if(tab==='likes'){tab='portrait';search=(search||'').split('#')[0]+'#mes-articles'}if(!PAGES[tab])return;capturePageDrafts();var target=PAGES[tab].path+(search||'');if(location.pathname+location.search+location.hash!==target)history.pushState({page:tab},'',target);syncPageLocation();closeSiteMenu(false);if(state.me&&state.me.user&&state.pendingLike){applyPendingLike().then(renderApp)}else renderApp();window.scrollTo({top:0,behavior:'instant'})}
+function go(tab,search){
+ if(tab==='likes'){tab='portrait';search=(search||'').split('#')[0]+'#mes-articles'}
+ if(!PAGES[tab])return;
+ capturePageDrafts();
+ var target=PAGES[tab].path+(search||'');
+ if(location.pathname+location.search+location.hash!==target)history.pushState({page:tab},'',target);
+ syncPageLocation();
+ if(state.me&&state.me.user&&state.pendingLike)applyPendingLike().then(renderApp);
+ else renderApp();
+ window.scrollTo({top:0,behavior:'instant'})
+}
 window.addEventListener('popstate',function(){capturePageDrafts();syncPageLocation();if(state.me&&state.me.user&&state.pendingLike)applyPendingLike().then(renderApp);else renderApp()});
 document.addEventListener('click',function(event){var link=event.target.closest('a[href]');if(!link||event.defaultPrevented||event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey||link.target==='_blank'||link.hasAttribute('download'))return;var url=new URL(link.href,location.href);if(url.origin!==location.origin)return;var page=Object.keys(PAGES).find(function(key){return PAGES[key].path===url.pathname.replace(/\/+$/,'')+'/'});if(!page)return;event.preventDefault();go(page,url.search+url.hash)});
 

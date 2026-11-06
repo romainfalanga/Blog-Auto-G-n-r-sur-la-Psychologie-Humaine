@@ -17,5 +17,7 @@
     toggle.focus();
     event.preventDefault();
   });
-  window.matchMedia('(max-width: 840px)').addEventListener('change', close);
+  var breakpoint = window.matchMedia('(max-width: 840px)');
+  if (breakpoint.addEventListener) breakpoint.addEventListener('change', close);
+  else if (breakpoint.addListener) breakpoint.addListener(close);
 })();

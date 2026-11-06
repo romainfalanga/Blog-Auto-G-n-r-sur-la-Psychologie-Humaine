@@ -65,9 +65,8 @@ function createChatShell(view,current){
  var toolbar=el('div','conversation-toolbar'),title=el('h1');
  title.append(el('span','','Ambre'),el('span','conversation-title-divider',' · '),el('span','conversation-role','psychologue IA'));
  title.id='conversation-title';surface.setAttribute('aria-labelledby',title.id);
- var quota=el('div','message-quota'),quotaCount=el('div','message-quota-count'),count=el('strong','','—');count.id='chat-quota';
- quotaCount.append(count,el('span','',' messages'));
- quota.setAttribute('role','status');quota.append(quotaCount,el('span','','cette semaine'));
+ var quota=el('div','message-quota'),count=el('strong','','—');count.id='chat-quota';
+ quota.setAttribute('role','status');quota.append(count,el('span','',' messages'));
  toolbar.append(title,quota);
  surface.append(toolbar);
  var scroll=el('div','conversation-scroll');scroll.id='conversation-scroll';var thread=el('section','chat-thread');thread.setAttribute('aria-label','Conversation');thread.setAttribute('role','log');thread.setAttribute('aria-live','off');scroll.append(thread);

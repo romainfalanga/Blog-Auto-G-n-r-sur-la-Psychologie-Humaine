@@ -235,8 +235,8 @@ input,textarea,select { border-color: var(--line); }
   font-size: .75rem;
   line-height: 1.25;
   text-align: right;
+  white-space: nowrap;
 }
-.message-quota-count { white-space: nowrap; }
 .message-quota strong { color: var(--ink); font-variant-numeric: tabular-nums; }
 .chat-message.chat-user { background: var(--accent-wash); }
 .chat-composer textarea { border-color: var(--line); }

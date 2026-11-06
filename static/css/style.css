@@ -639,7 +639,6 @@ main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 
 .parcours-topics { grid-column: 1; margin: .4rem 0 0; }
 .parcours-topics li { background: #EDF4F1; color: #2C5A50; }
 .parcours-link { grid-column: 2; grid-row: 1 / span 2; display: inline-flex; align-items: center; gap: .35rem; min-height: 44px; padding: 0 .2rem; font-size: .86rem; font-weight: 650; }
-.parcours-link::after { content: "→" / ""; }
 .personnages-page .journal-invitation { max-width: none; margin: 1.6rem 0 0; }
 .perso-back { margin-top: 1.25rem; text-align: left; }
 .perso-btn-outline { display: inline-flex; align-items: center; min-height: 44px; padding: .55rem .85rem; border: 1px solid var(--color-border); border-radius: 8px; font-size: .9rem; font-weight: 650; }
@@ -647,6 +646,9 @@ main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 
   .parcours-entry { display: block; padding-block: .9rem .4rem; }
   .parcours-title { margin: .3rem 0; }
   .perso-profile { grid-template-columns: 1fr; }
+}
+@media (max-width: 640px) {
+  .perso-profile-themes ul, .parcours-topics { flex-direction: column; }
 }
 
 /* Reading has one calm, high-contrast surface. */
