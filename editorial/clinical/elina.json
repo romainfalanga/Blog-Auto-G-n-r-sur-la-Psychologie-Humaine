@@ -1,0 +1,571 @@
+{
+  "character_id": "elina",
+  "bio": "Élina a 48 ans. Depuis qu’elle a quitté son poste dans un bureau d’édition, elle s’installe dans une ville où elle connaît peu de monde. Le départ lui revient en tête au milieu de ses démarches et lui coûte du sommeil et de l’attention. Sa généraliste pose le diagnostic de trouble de l’adaptation. Élina aime les questions qu’on pose devant un étal et les histoires qui tiennent sur une feuille. Avec l’association du marché, elle aimerait remettre Les Nouvelles de la Halle en circulation comme rédactrice bénévole.",
+  "profile_topics": [
+    "Trouble de l’adaptation",
+    "Préoccupations autour du changement",
+    "Retentissement sur le quotidien",
+    "Perte de routines et d’appuis",
+    "Reprise d’activité choisie"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "elina-changement-choisi-reperes-perdus",
+      "title": "Quand un changement voulu bouscule le quotidien",
+      "description": "Dans une ville qu’elle connaît à peine, Élina veut acheter du pain. Une question ordinaire lui fait perdre le fil de sa matinée.",
+      "context": "Un samedi matin à la halle des Tilleuls",
+      "topics": [
+        "Changement choisi",
+        "Perte de repères",
+        "Retentissement quotidien"
+      ],
+      "clinical_focus": "Perte simultanée de repères",
+      "clinical_intro": "Élina a choisi de quitter son poste et de déménager. À la halle, une question sur son ancien travail suffit pourtant à interrompre ce qu’elle était venue faire. Une transition peut éprouver même quand on l’a voulue. Pour comprendre ce qui la déstabilise, il faut regarder les habitudes et les appuis qui ont changé ensemble, puis ce qui se répète dans ses journées.",
+      "opening": "« Je vous le garde jusqu’à onze heures, le pain aux noix. » La boulangère fait glisser le sachet sous le comptoir. Élina a le temps de trouver le panneau où sont affichées les annonces de la halle. Elle voudrait savoir où déposer un petit meuble dont elle n’a plus besoin. Il bloque l’ouverture d’un placard dans son nouvel appartement. Sur le panneau, entre deux publicités de cours de danse, quelqu’un a épinglé un journal plié en quatre. En soulevant le coin du papier, elle reconnaît le plaisir très précis de voir une page entière avant de lire une ligne.\n\nLucien, le voisin qui l’a aidée à porter le meuble à l’étage, la surprend le doigt sur la date. Il la présente à Mireille, qui tient la permanence de l’association juste à côté : « On est voisins depuis peu. » « Vous faisiez quoi, avant ? » demande Mireille quand Élina lui fait remarquer que la moitié de l’encre est passée. Elle cherche une réponse courte. Dans son bureau d’édition, elle aurait dit « je prépare les textes », et quelqu’un aurait aussitôt ajouté ce qu’il lui devait pour le soir. Ici, le passé du verbe lui prend plus de place que la question.\n\nMireille lui tend un exemplaire de réserve et part indiquer les toilettes à un client. Élina se retrouve dans l’allée des fleurs avec le journal sous le bras, à essayer de retrouver l’instant où elle avait dit à son ancienne équipe qu’elle partirait. Elle refait dans sa tête la dernière phrase de cette conversation. Quand elle aperçoit Lucien qui boucle son cabas, elle se rappelle le pain. Il est passé onze heures. À la maison, il y a aussi le formulaire de changement d’adresse qu’elle avait posé ouvert au milieu de la table pour être sûre de s’en occuper.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qui change à la fois",
+          "text": "Une transition peut faire perdre des repères même quand on l’a choisie. Quitter un poste enlève parfois un horaire, des visages familiers et la possibilité de poser une question sans se présenter. Arriver ailleurs peut mettre ces pertes en relief. Hésiter, regretter un détail ou se sentir fatigué dans cette période peut faire partie d’une réaction attendue. On ne déduit pas un trouble de l’importance apparente de l’événement. Une préoccupation qui s’impose régulièrement et la gêne qu’elle entraîne donnent des raisons de regarder la situation de plus près, notamment avec un professionnel si la vie quotidienne s’en trouve durablement perturbée."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Du panneau au comptoir, le fil perdu",
+          "text": "La question de Mireille porte sur un métier. Pour Élina, elle ouvre une conversation qu’elle croyait terminée et dans laquelle elle revient depuis son départ. Une fois dans l’allée des fleurs, elle ne se souvient plus du meuble, puis le souvenir du pain arrive quand Lucien range ses achats. Il n’a accès qu’à ce dernier moment. À la maison, le formulaire reste sur la table. Élina l’a commencé deux fois cette semaine, puis a rouvert les messages de son ancienne équipe pour vérifier ce qu’elle avait écrit. Même chez elle, une tâche courte reste en plan."
+        },
+        {
+          "role": "strategies",
+          "heading": "Préserver l’invitation, reprendre une tâche",
+          "text": "Élina peut revenir au comptoir et demander si son pain est toujours disponible. Elle peut aussi demander à Mireille où se renseigner pour le meuble et lui dire ce qui l’intéresse dans le journal, sans encore lui promettre du temps. À la maison, elle peut chercher de quoi compléter le formulaire et le laisser en évidence pour une raison précise, avec la pièce qui lui manque, plutôt que comme rappel de tout ce qui reste en attente. Si les difficultés continuent, elle pourra décrire la course interrompue et la démarche qu’elle a reprise deux fois sans avancer."
+        }
+      ],
+      "ending_title": "Le journal à emporter",
+      "ending": "La boulangère avait gardé le pain sous le comptoir. Pendant qu’elle compte la monnaie, Mireille vient lui dire que le journal s’appelait Les Nouvelles de la Halle. L’association aimerait le ressortir. Il faudrait commencer par lire un ancien numéro. Élina demande à emporter celui qu’elle tient et propose de répondre lundi. Lucien lui indique l’atelier de réemploi pour le meuble et l’invite à boire un café le lendemain. Chez elle, elle sort un justificatif pour le formulaire. Elle lit son ancienne adresse deux fois avant de poser le pain à côté de la feuille.",
+      "mirror": [
+        "Lucien remarque le détour d’Élina par les fleurs et la voit retrouver son chemin vers la boulangère. Il peut lui proposer de repasser ensemble. « Le panneau est toujours là. Tu veux repasser avec moi ou tu as assez d’informations pour aujourd’hui ? » Il peut lui indiquer l’atelier et l’inviter au café à l’heure qui lui convient. Il n’a pas à interpréter son silence ni à lui demander le récit de son déménagement."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-stress-reperes",
+        "keeley-etude-terrain-cim"
+      ],
+      "continuity": {
+        "choice": "Élina revient chercher le pain et accepte seulement de lire le journal avant de répondre à Mireille.",
+        "next": "Lucien propose un café le dimanche. Le numéro reste chez Élina avec le formulaire inachevé, et Mireille attend une réponse lundi."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "elina-preoccupation-qui-revient",
+      "title": "Quand la même préoccupation revient au milieu d’une tâche",
+      "description": "En lisant un vieux journal, Élina se retrouve à relire des messages de son ancien bureau. Elle rate le café prévu avec son voisin.",
+      "context": "Le dimanche et le lundi, à la table de l’appartement",
+      "topics": [
+        "Pensées récurrentes",
+        "Démarches repoussées",
+        "Premier rendez-vous"
+      ],
+      "clinical_focus": "Préoccupation et difficulté à décrocher",
+      "clinical_intro": "Une préoccupation prend une place particulière quand elle s’impose pendant des tâches qui n’ont plus de rapport direct avec elle. Élina veut répondre à une invitation de l’association. Elle revient pourtant à la dernière semaine de son ancien poste et perd de vue le café prévu avec son voisin. Observer la place que prennent ces retours aide à raconter la gêne et à demander un avis.",
+      "opening": "Le dimanche, Élina étale Les Nouvelles de la Halle sur la table. Les annonces tiennent dans une colonne et, dans l’autre, quelqu’un a raconté comment on remonte le store du fromager quand le vent s’y prend. Quarante lignes sur un store, avec un dessin du crochet. Elle tourne la feuille pour trouver qui signait. Pendant des années, elle a vérifié le nom des auteurs avant l’impression. Elle se souvient de la dernière liste qu’elle a laissée au bureau, puis d’une réponse reçue le jour où elle a rendu sa clé : « On fera comme on pourra. » Elle ne sait toujours pas comment l’entendre.\n\nElle ouvre sur son téléphone la conversation qu’elle avait mise en sourdine. Aucune demande ne l’y attend. Elle cherche d’abord la date, puis le message qui précédait celui dont elle se souvient. Depuis quelque temps, même quand elle finit par refermer l’écran, elle se demande si les gens l’auraient saluée autrement en apprenant son départ d’une autre façon. Elle reprend sa lecture au crochet et se retrouve presque aussitôt à penser à l’heure exacte où elle a quitté le bureau. Le café avec Lucien était à dix heures. À dix heures vingt, son voisin lui envoie un message pour dire qu’il est parti faire une course.\n\nLe lundi matin, le journal, le justificatif d’adresse et le téléphone sont encore à la même place. Mireille a écrit : « Ça vous dit qu’on regarde une page ensemble samedi ? » Élina commence à répondre qu’elle ne sait pas si elle pourra tenir la cadence. Elle relit la question. Il n’est écrit nulle part qu’il y aura une cadence.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une question utile, des pensées qui tournent",
+          "text": "Une préoccupation peut aider à repérer ce qui demande une décision. Elle devient envahissante quand elle reprend la place malgré les efforts pour revenir à autre chose. Chercher le nom qui signe le texte est utile à Élina. Elle n’obtient aucune information nouvelle à force de réexaminer la dernière réponse du bureau et, pourtant, elle la relit. Une rumination peut se concentrer sur ce qui s’est passé ou sur ce que cela veut dire pour la suite. Se reconnaître dans un moment de ce genre ne suffit pas à dire de quel trouble il s’agit. La fréquence et les conséquences dans la vie d’une personne méritent d’être décrites."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le café qui a refroidi",
+          "text": "Lucien était prêt à sortir quand il a constaté qu’Élina ne venait pas. De sa porte, il ne pouvait pas voir qu’elle avait eu trois fois l’intention de se lever de table. Elle se rappelle aussi avoir regardé l’heure à deux reprises en croyant qu’elle avait encore le temps. La même impression la suit jusque dans son lit. Les nuits où elle tarde à s’endormir, elle a beau éteindre l’écran, elle continue à reprendre la conversation. Le café manqué touche un lien qu’elle tenait à nouer. Le formulaire repassé sous le journal montre que cette gêne touche aussi des tâches dont personne ne lui demande des nouvelles."
+        },
+        {
+          "role": "strategies",
+          "heading": "Écrire deux exemples avant d’appeler",
+          "text": "Élina peut noter d’un côté ce qui demande une action réelle aujourd’hui, de l’autre la question qui revient au sujet du départ. Le but est de retrouver ce qu’elle était en train de faire, même si la question est toujours là. Pour un rendez-vous médical, elle peut partir de ce qu’elle n’arrive plus à faire comme avant et préciser depuis quand elle s’en aperçoit. Elle n’a besoin ni d’une explication achevée ni d’un relevé détaillé de ses nuits. Si elle souhaite un renseignement de Lucien sur les cabinets du quartier, elle peut lui dire uniquement qu’elle cherche un généraliste."
+        }
+      ],
+      "ending_title": "La question qui tient sur une ligne",
+      "ending": "Sur un coin de l’ancien journal, Élina note « café manqué » et « adresse toujours pas changée ». À Lucien, qu’elle croise dans l’escalier, elle dit qu’elle dort mal et qu’elle aimerait parler à un médecin. Il lui donne le nom de la docteure Roussel et précise que le cabinet est derrière la pharmacie. Elle appelle elle-même et obtient une place le mercredi. Puis elle reprend le message de Mireille. Elle propose de venir regarder une page samedi et de confirmer jeudi. Avant de poser son téléphone, elle envoie un mot à Lucien pour lui demander s’ils pourront reprendre ce café un autre jour.",
+      "mirror": [
+        "Lucien peut lui indiquer le cabinet et revenir sur le rendez-vous manqué. « Dimanche, j’ai attendu un peu puis je suis sorti. Pour le médecin, je peux te montrer l’entrée si tu veux. » Il peut choisir de proposer un autre café quand il est libre. Élina peut appeler elle-même et garder pour la consultation ce qu’elle n’a pas envie de raconter dans l’escalier."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-faire-ce-qui-compte",
+        "has-parler-avec-son-medecin",
+        "ameli-sante-mentale-adulte-aide"
+      ],
+      "continuity": {
+        "choice": "Élina prend un rendez-vous médical et répond à la proposition exacte de Mireille, avec une confirmation à donner jeudi.",
+        "next": "Elle emporte deux exemples au rendez-vous mercredi. La rencontre avec l’association reste limitée à une page et dépend de sa confirmation."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "elina-evaluation-apres-transition",
+      "title": "Ce que le médecin regarde après un changement de vie",
+      "description": "Élina apporte deux faits ordinaires à sa médecin. Ils les replacent dans les semaines qui ont suivi le départ du bureau et le déménagement.",
+      "context": "Le mercredi, au cabinet de la docteure Roussel",
+      "topics": [
+        "Évaluation clinique",
+        "Contexte du changement",
+        "Autres explications possibles"
+      ],
+      "clinical_focus": "Évaluation après un changement de vie",
+      "clinical_intro": "En consultation, Élina parle d’un café manqué et d’un formulaire qui n’avance pas. Sa médecin replace ces faits dans l’histoire du départ, du déménagement et des nuits devenues difficiles. Le trouble de l’adaptation se distingue d’une réaction attendue par la place des préoccupations et leurs conséquences. Le médecin considère aussi ce qui pourrait mieux expliquer ces difficultés.",
+      "opening": "Dans la salle d’attente, Élina se demande si « café manqué » fait un motif suffisant pour prendre la chaise d’une personne qui a plus mal. Sur le morceau de papier arraché au journal, le mot « adresse » se trouve juste à côté du prix d’une botte de radis. Elle plie ce bout-là à l’intérieur. Quand la docteure Roussel vient la chercher, Élina commence par dire qu’elle a déménagé depuis peu. À la question « Qu’est-ce qui vous a amenée aujourd’hui ? », elle répond qu’elle voudrait savoir pourquoi le temps qu’elle a enfin devant elle ne lui sert pas à faire les choses.\n\nElles remettent les événements dans l’ordre. Élina a rendu sa clé au bureau, quitté son appartement dix jours plus tard et commencé à passer une partie de ses soirées à rejouer des échanges du travail. Elle raconte le café puis le justificatif qu’elle a sorti samedi. La docteure lui demande ce qui arrive pendant une heure où personne ne lui parle de son départ. Élina lui raconte le plaisir de feuilleter le journal et son envie d’écrire, puis le café qu’elle a raté malgré l’envie d’y aller. Depuis quelques semaines, même les moments tranquilles sont souvent coupés par la même histoire.\n\nLa docteure l’interroge aussi sur son sommeil avant le déménagement, sa santé et d’éventuelles périodes semblables. Elle lui demande si elle se sent triste ou inquiète dans d’autres situations et comment se passent ses appels à ses proches. Élina se rend compte qu’elle n’a jamais présenté les choses dans cet ordre. À l’ancienne équipe, elle aurait raconté son adresse. À Lucien, elle a parlé des nuits. Dans ce cabinet, elle peut dire les deux et attendre la suite.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Regarder ce qui se tient dans l’ensemble",
+          "text": "Après un changement important, une évaluation clinique met en relation le contexte, le vécu et ce qui a changé dans le quotidien. Le médecin s’intéresse au moment où les difficultés sont apparues, aux sujets qui occupent la pensée et à l’effort nécessaire pour poursuivre les activités. Une réaction douloureuse peut être attendue, et un événement stressant peut aussi accompagner une dépression, un trouble anxieux ou une autre difficulté. L’entretien sert à examiner ces possibilités à partir de l’ensemble de la situation. Une envie de lire retrouvée, un jour difficile ou un déménagement récent ne tranche pas une question clinique à lui seul."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Les faits que personne n’avait ensemble",
+          "text": "Chaque personne qui a croisé Élina jusque-là n’a vu qu’une partie de son quotidien. La boulangère sait qu’elle est revenue tard chercher le pain. Lucien sait qu’elle a raté un café et qu’elle dort mal. Au cabinet, Élina peut dire que ces moments se répètent et expliquer ce qui occupe alors son attention. Elle reconnaît qu’il lui arrive encore de faire des choses qui l’intéressent, puis de devoir consacrer beaucoup d’efforts à une démarche banale ou à un message. Ce contraste fait partie de ce que la docteure cherche à comprendre. Il dit ce que le changement lui coûte même quand la matinée a l’air de s’être bien passée."
+        },
+        {
+          "role": "strategies",
+          "heading": "Savoir ce que la consultation ouvre",
+          "text": "La personne peut demander comment le médecin comprend la situation et ce qui pourrait amener à revoir cette compréhension. Elle peut aussi dire ce qu’elle a les moyens d’essayer et ce qu’elle préférerait remettre à une prochaine discussion. Élina et la docteure peuvent convenir de reprendre des exemples de journées, examiner les options d’accompagnement et préciser quand reprendre contact si les difficultés s’accentuent. L’activité à la halle est une décision séparée. Élina peut en parler au cabinet pour décrire ce qu’elle souhaite faire, puis choisir avec l’association une présence qui lui convient."
+        }
+      ],
+      "ending_title": "Deux dates dans le carnet",
+      "ending": "La docteure Roussel lui explique qu’elle retient un trouble de l’adaptation après leur entretien. Dans la situation d’Élina, les pensées qui reviennent restent liées au départ et à ses suites, et la gêne se retrouve dans plusieurs moments de sa semaine. Elle propose de se revoir dans trois semaines pour faire le point et de discuter d’un accompagnement psychologique, plus tôt si Élina en éprouve le besoin. Élina prend la date et demande comment joindre le cabinet si elle dort de moins en moins ou si les journées deviennent plus difficiles. La docteure note le numéro sur un carton. À Lucien, elle envoie un merci pour l’adresse et demande s’il passe par la halle samedi. Le lendemain, elle confirme à Mireille qu’elle viendra lire une page. Elle ne lui parle pas de la consultation.",
+      "mirror": [
+        "Lucien reçoit un merci pour l’adresse et une question sur samedi. Il peut lui dire quand il passera à la halle. « Je passe par la halle à neuf heures. On peut y aller ensemble si ça te dit. » Il peut s’en tenir à la promenade, sans lui demander comment s’est passée la consultation. S’il ne peut pas ce samedi, il peut lui dire quand il aurait plaisir à la revoir."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-parler-avec-son-medecin",
+        "has-decision-medicale-partagee",
+        "ameli-sante-mentale-adulte-aide",
+        "keeley-etude-terrain-cim"
+      ],
+      "continuity": {
+        "choice": "La docteure pose le diagnostic à l’issue de l’évaluation. Élina prend le rendez-vous de suivi et confirme à Mireille la lecture d’une page.",
+        "next": "Samedi, Élina se rend à l’association avec ce seul engagement. Le suivi médical est prévu dans trois semaines, avec possibilité de reprendre contact avant."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "elina-reprise-activite-limitee",
+      "title": "Reprendre une activité à la mesure de la journée",
+      "description": "À l’association, un ancien journal donne à Élina une idée de rubrique. Elle décide quelle part elle veut essayer cette semaine.",
+      "context": "Le samedi suivant, dans le local de l’association de la halle",
+      "topics": [
+        "Reprise choisie",
+        "Engagement limité",
+        "Nouveaux appuis"
+      ],
+      "clinical_focus": "Reprise d’activité à une échelle choisie",
+      "clinical_intro": "Élina a envie d’écrire de nouveau et craint déjà de devoir produire un journal entier. Après une période où même certaines tâches courtes ont pris beaucoup de place, un engagement peut être défini à la mesure de ce qu’elle souhaite essayer. L’association lui offre l’occasion de distinguer le plaisir d’une rencontre, le travail que demande un article et les responsabilités qu’elle ne veut pas encore prendre.",
+      "opening": "Mireille a retrouvé deux autres numéros et les maintient ouverts avec une boîte de punaises. Le local sent le papier qui a pris l’humidité. À côté des anciens feuillets, une feuille blanche porte le titre « À qui de jouer ? ». Trois personnes ont inscrit leur prénom dans une colonne. Élina est venue regarder une page, comme convenu. Elle a pris le chemin de la halle avec Lucien, puis lui a dit au revoir chez le fromager. Depuis qu’elle s’est assise, elle a déjà repéré un horaire sans jour et deux noms de rues mal orthographiés. C’est agréable de les voir. Aussitôt, elle se dit qu’elle pourrait tout vérifier.\n\nMireille lui demande quelle rubrique elle garderait. Dans un des numéros, on voit des photos de stands prises de loin. Élina préfère le dessin du crochet dans l’exemplaire qu’elle a rapporté. Une personne y a pris le temps de regarder à quoi servait un petit objet. Par la fenêtre, elle aperçoit Farida, qui a posé des bouquets de menthe dans un pot bleu, lourd au point de tenir la toile d’un panier quand elle replie son étal. Élina a envie de lui demander d’où vient ce pot. Elle inscrit « Un objet, une histoire » sur le revers d’une annonce périmée.\n\nMireille rapproche la feuille des prénoms. « Je te mets où ? » Sur le tableau figurent aussi les horaires du marché, le prix du papier et les gens à rappeler. Pendant une seconde, Élina regrette d’avoir écrit son idée. Elle pose la feuille entre elles, près de la boîte de punaises.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qu’un premier essai permet de savoir",
+          "text": "Reprendre une activité qui compte peut donner une occasion de retrouver un repère après un changement. On peut essayer une tâche particulière et observer la place qu’elle prend. Avoir envie de la faire donne une information. Le temps, la concentration et les relations qu’elle demande en donnent d’autres. Le trouble de l’adaptation peut encore gêner une personne qui manifeste de l’intérêt pour un projet. Ici, le rôle de rédactrice bénévole offre à Élina une façon de rencontrer les commerçants. L’association doit aussi répartir le travail pour que le plaisir de poser une question ne se transforme pas, par défaut, en responsabilité du numéro entier."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Une bonne idée qui arrive avec le reste",
+          "text": "Devant les feuilles, Élina éprouve d’abord le plaisir de repérer un détail. Puis l’association lui rappelle son ancien poste, où elle se sentait chargée de corriger chaque erreur qu’elle voyait. Elle imagine les corrections, la fabrication et les appels alors qu’aucune de ces tâches ne lui a été confiée. Son hésitation arrive au moment où Mireille approche la liste. Mireille entend une idée de rubrique. Élina entend tout ce qui pourrait suivre si elle se met à la bonne place sur le tableau. En regardant le pot bleu, elle remarque qu’elle a envie de sortir parler à quelqu’un."
+        },
+        {
+          "role": "strategies",
+          "heading": "Décrire l’essai avec un verbe",
+          "text": "L’association peut demander à Élina si elle souhaite écouter, rédiger ou relire. Un début et une fin visibles rendent l’accord plus facile à revoir. Pour elle, cela peut être de demander à Farida si elle aimerait raconter l’histoire du pot, puis d’en tirer un texte court si toutes deux en ont envie. Mireille peut conserver les horaires et les appels. Élina pourra voir ce qu’une rencontre lui coûte, y compris après son retour à la maison. Le projet peut s’arrêter à un texte d’essai si le journal ne trouve pas d’autres volontaires pour la suite."
+        }
+      ],
+      "ending_title": "Un pot et une colonne",
+      "ending": "Élina écrit son prénom à côté de « un texte d’essai ». Mireille laisse son propre nom devant les horaires et lui propose de mettre la page en commun le samedi suivant. Farida, interrogée pendant un creux, se met à rire. « Vous voulez parler du pot ? Alors venez mardi. Les livraisons seront passées. » Élina lui promet un texte court à lui faire lire avant toute diffusion. En rentrant, elle coince la note du rendez-vous sous la pince où le formulaire de changement d’adresse est resté toute la semaine. L’enveloppe est partie le matin même. Elle pousse le meuble contre l’autre mur. La porte du placard s’ouvre enfin.",
+      "mirror": [
+        "Quand Mireille rapproche la liste, elle peut laisser Élina préciser le périmètre, puis reformuler l’accord. « Je note un texte d’essai. Pour les horaires, je garde mon nom. On en reparle samedi. » L’accord aide aussi Mireille à voir ce qu’elle doit encore répartir. Elle peut annoncer si personne n’est disponible pour une tâche et remettre cette partie du journal à plus tard, sans demander à Élina d’expliquer sa santé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-stress-reperes",
+        "oms-faire-ce-qui-compte"
+      ],
+      "continuity": {
+        "choice": "Élina choisit un seul texte d’essai sur le pot bleu. Farida lui donne rendez-vous mardi et relira le texte avant diffusion.",
+        "next": "Mireille attend une mise en commun le samedi suivant et garde la charge des horaires. Élina aborde l’entretien avec un périmètre annoncé."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "elina-effort-invisible-tache-familiere",
+      "title": "Ce que coûte une tâche qui paraît facile",
+      "description": "Élina a aimé écouter Farida raconter son pot bleu. À sa table, elle passe la soirée à reprendre trois lignes qu’elle sait pourtant écrire.",
+      "context": "Du mardi matin au mercredi soir, entre l’étal de Farida et l’appartement",
+      "topics": [
+        "Effort supplémentaire",
+        "Attention mobilisée",
+        "Répartition du travail"
+      ],
+      "clinical_focus": "Effort invisible dans une tâche familière",
+      "clinical_intro": "Farida a parlé de son pot bleu et Élina a pris des notes avec plaisir. Le soir, rédiger quelques lignes lui demande pourtant un effort qui déborde sur le dîner. Une tâche accomplie peut masquer ce que sa réalisation coûte. Dans le trouble de l’adaptation, ce décalage aide à comprendre pourquoi les résultats visibles disent peu sur la façon dont la journée tient.",
+      "opening": "Farida enfonce son pouce dans une encoche au bord du pot. « Ça, c’était déjà là chez ma mère. On savait de quel côté le prendre. » Elle tient à cette précision parce que les gens croient souvent que le bleu et l’ébréchure viennent du marché. Élina note la phrase comme elle l’a entendue. Elle voudrait commencer son article par le pouce, puis expliquer pourquoi le pot reste dehors alors que la vaisselle de Farida rentre sous l’étal. Elles conviennent qu’Élina apportera le texte à lire. Avant de partir, Élina achète un bouquet de persil dont elle a oublié le prix au moment de compter sa monnaie. Farida lui remet le bon compte en souriant.\n\nLe mercredi soir, elle a posé le persil près d’une assiette. La première version tient dans un rectangle de l’écran à peine plus grand que sa main. Elle efface « depuis toujours », qu’elle a ajouté sans y penser. Puis elle veut vérifier si elle avait déjà laissé passer la même formule dans une publication de son ancien bureau. Elle ouvre les archives du bureau en ligne, lit trois pages et se retrouve à chercher qui a signé l’édition qui vient de paraître. De retour au pot, elle déplace une phrase du milieu vers le haut et fait l’inverse presque aussitôt.\n\nMireille lui a écrit pour savoir si elles pourront lire l’essai à deux samedi. Elle demande aussi si un deuxième texte pourrait tenir sous le premier. Il est tard. Le persil est toujours à côté de l’assiette vide. Comme elle ne trouve plus d’erreur à la relecture, Élina pourrait envoyer une version propre. Elle a plus de mal à écrire à Mireille le temps que ce travail vient de lui prendre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le résultat et l’effort disent des choses différentes",
+          "text": "Une difficulté d’adaptation peut rester peu visible quand la personne parvient à réaliser les tâches au prix d’un effort inhabituel. Une page bien écrite ne dit pas si elle a pris le temps prévu, si la personne a pu manger ensuite ou si les mêmes préoccupations ont interrompu son travail. L’exigence de précision d’Élina fait partie de son métier. Ce qui a changé se voit en comparant sa manière habituelle de relire un texte avec ce qui se passe ces jours-ci. Les nuits difficiles et l’attention souvent reprise par le départ comptent pour comprendre sa soirée. Un contretemps, à lui seul, ne l’explique pas."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Trois lignes qui occupent la soirée",
+          "text": "Le plaisir de l’entretien a été réel. Farida a laissé Élina regarder comment elle prenait le pot, et une phrase suffit à évoquer le geste. À la rédaction, une formule la détourne de cette phrase et la ramène à l’ancien bureau. Ce détour s’ajoute au travail qui demande vraiment de l’attention. Quand Mireille demande si un autre texte tiendra sous le premier, elle parle de place sur la page. Pour Élina, la même question touche les heures qui viennent de passer et le dîner qui attend. Elle n’avait pas prévu de devoir choisir entre la version propre et le reste de sa soirée."
+        },
+        {
+          "role": "strategies",
+          "heading": "Faire compter le temps réel",
+          "text": "On peut discuter du travail avant de s’accorder sur ce que la feuille contiendra. Élina peut envoyer ce qu’elle a rédigé en indiquant qu’elle s’en tient pour l’instant à un texte et qu’elle veut une seule relecture à deux. Elle peut prévoir de soumettre la phrase et l’origine du pot à Farida, qui sait précisément ce qu’elle a voulu dire. Le café manqué disait ce qu’Élina avait laissé de côté. La soirée montre ce que lui a coûté l’engagement qu’elle a pu tenir en partie. Elle pourra en parler lors du suivi. Si plusieurs tâches empiètent ainsi sur ses repas ou ses nuits, elle peut en parler à sa médecin."
+        }
+      ],
+      "ending_title": "Une seule colonne jointe",
+      "ending": "Elle renomme le fichier « pot-bleu-essai » et l’envoie. « Celui-ci m’a pris la soirée. Je veux bien qu’on le lise à voix haute samedi. Je ne prends pas un deuxième texte. » Mireille répond que la place laissée libre peut servir aux horaires. Élina reporte dans le carnet la relecture par Farida, qu’elle ne veut pas oublier dans la discussion sur la mise en page. En rinçant le persil, elle pense au nouveau nom dans la publication du bureau et ne sait toujours pas pourquoi elle l’a cherché. Elle en met une partie dans son assiette et range le reste dans un verre d’eau.",
+      "mirror": [
+        "Après le message, Mireille peut s’accorder avec Élina sur ce qu’elles reliront samedi. « Je garde ton texte seul et je prépare les horaires. Samedi, on lit ce que tu as envoyé. » Elle peut elle aussi annoncer le temps qu’elle a pour relire. Le goût d’Élina pour l’écriture n’est pas une disponibilité permanente. Si les créneaux ne coïncident pas, elles peuvent déplacer la lecture sans se demander qui doit fournir plus d’efforts."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-stress-reperes",
+        "keeley-etude-terrain-cim"
+      ],
+      "continuity": {
+        "choice": "Élina transmet un seul article d’essai et fixe une seule lecture à deux. Mireille garde la place restante pour les horaires.",
+        "next": "Samedi, la lecture est prévue avant de faire valider le texte par Farida. Le travail de l’ancien bureau revient encore à l’esprit d’Élina."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "elina-rappel-ancien-travail",
+      "title": "Quand un détail ramène au travail qu’on a quitté",
+      "description": "Avant la lecture de son article, un message de son ancienne collègue ramène Élina au bureau qu’elle a quitté.",
+      "context": "Le samedi, devant la halle, avant la relecture",
+      "topics": [
+        "Rappels du départ",
+        "Préoccupation ravivée",
+        "Lien choisi"
+      ],
+      "clinical_focus": "Rappels du changement et retrait",
+      "clinical_intro": "Un message tout simple réveille chez Élina les pensées liées à son ancien poste. Un rappel du changement peut raviver des préoccupations et donner envie de quitter une situation, y compris quand elle a une autre raison d’y rester. Élina veut entendre son texte à voix haute. Elle doit aussi décider du lien qu’elle souhaite conserver avec une ancienne collègue.",
+      "opening": "Devant la porte de la halle, Élina a le temps de lire le message de Yasmine. « Tu te rappelles le nom du papier crème qu’on prenait pour les couvertures ? » La dernière fois qu’elles se sont parlé, elles se sont promis de s’écrire en dehors du travail. Élina se rappelle que Yasmine repliait un coin des épreuves pour les distinguer des exemplaires définitifs. Elle sait dans quel cahier chercher. Elle commence à taper « Attends, je vérifie » et efface. À côté du nom de Yasmine, la photo ronde la montre encore dans le bureau, devant la grande armoire.\n\nÉlina était venue écouter le texte du pot avec Mireille. Dans son sac, les deux copies du texte sont glissées dans le vieux numéro. Le temps de faire quelques pas, elle repense à une livraison de couvertures qui avait pris du retard et à la façon dont elle en avait parlé avant de partir. Elle se demande à qui on a confié les appels depuis. Elle pourrait traverser pour acheter des œufs et reprendre le chemin inverse. Le marchand ouvre ses boîtes et déplace les plus petites vers le bord. Élina s’arrête assez longtemps pour qu’il lui dise bonjour. Elle ne voulait pas d’œufs.\n\nMireille l’aperçoit de la porte. « La salle est libre. Tu veux qu’on y aille ? » Élina sort les deux feuilles. Elle cherche au recto la phrase de Farida et la trouve au verso, là où elle a imprimé le texte par économie de papier. Elle le lit une fois des yeux, trop vite pour entendre la voix qu’elle avait gardée en tête.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un rappel peut réactiver la préoccupation",
+          "text": "Les rappels d’un changement éprouvant peuvent raviver les pensées qui tournent autour de lui. Leur effet dépend de ce qu’ils évoquent pour la personne. La demande sur le papier crème pourrait être traitée en quelques mots. Elle remet aussi Élina en présence d’un lieu qu’elle a quitté, de tâches qu’elle ne supervise plus et d’une personne dont le lien avec elle est encore à redéfinir. Éviter un rappel peut se comprendre quand la gêne revient vite. La question, pour Élina, est de savoir ce dont elle souhaite s’éloigner maintenant et ce qu’elle tient à garder parmi ses activités et ses relations."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le trajet vers la sortie",
+          "text": "Élina n’a pas refusé la relecture. Elle a ralenti, trouvé une raison de traverser et commencé à regarder des boîtes d’œufs. Quand Mireille lui parle, son texte est là, mais elle le tient d’abord à l’envers. Elle reconnaît ce temps passé à se demander ce qui se fait désormais sans elle. Le pot correspond à la raison de sa venue. La pensée du bureau lui revient sans qu’elle ait voulu l’examiner. Mireille ne connaît ni le message de Yasmine ni ce que la photo a fait remonter."
+        },
+        {
+          "role": "strategies",
+          "heading": "Choisir une réponse et un interlocuteur",
+          "text": "Élina peut laisser la question de papier en attente et chercher ce qu’elle souhaite dire à Yasmine en tant qu’ancienne collègue. Si elle veut reprendre contact, elle peut proposer un moment sans demande de travail. Sur place, un geste d’attention, suivre du doigt le début d’une phrase ou écouter Mireille lire, peut l’aider à revenir à la décision qu’elles étaient venues prendre. Elle peut aussi demander un moment avant de commencer. Ce sont des options distinctes. Poursuivre la relecture aujourd’hui ne l’oblige ni à résoudre la question du bureau ni à s’exposer à tous les rappels de son départ."
+        }
+      ],
+      "ending_title": "La voix de Farida dans la pièce",
+      "ending": "Mireille lit et s’interrompt sur « l’encoche ». En écoutant Mireille, Élina comprend que le lecteur saura d’où vient le pot sans savoir que Farida le saisit toujours du même côté. Elles ajoutent ce geste. Farida passe au local après avoir rangé son étal. Elle lit le texte à son tour et donne son accord pour le publier, y compris la citation. Élina répond ensuite à Yasmine qu’elle ne va pas chercher la référence et demande si elle voudrait parler dimanche. Mireille lui propose une réunion courte mardi pour décider qui pourrait faire un tirage d’essai.",
+      "mirror": [
+        "Mireille voit qu’Élina se tient devant la porte avec ses feuilles déjà sorties. « Je peux commencer à lire, ou on s’assoit d’abord si tu préfères. » Elle peut préciser l’heure à laquelle elle doit rendre le local. Si la lecture est reportée, elles peuvent en convenir ensemble. Mireille n’a pas besoin de connaître le contenu du message reçu par Élina ni d’insister pour qu’elle reste."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-faire-ce-qui-compte",
+        "oms-stress-reperes"
+      ],
+      "continuity": {
+        "choice": "Élina fait relire puis valider le texte, et propose à Yasmine un échange sans reprendre la recherche de papier.",
+        "next": "La réunion de mardi portera sur les rôles du tirage et de la distribution. Le texte de Farida est prêt."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "elina-demander-relais-et-confidentialite",
+      "title": "Demander un relais sans raconter sa consultation",
+      "description": "Un tirage d’essai se prépare. Élina veut continuer à écrire et doit dire quelle part de la distribution elle peut prendre.",
+      "context": "Le mardi, pendant une réunion de l’association",
+      "topics": [
+        "Soutien concret",
+        "Vie privée",
+        "Rôles partagés"
+      ],
+      "clinical_focus": "Soutien pratique et choix de confidentialité",
+      "clinical_intro": "L’association veut savoir qui peut distribuer le journal. Élina aimerait faire comprendre que son temps et son attention sont comptés. Elle peut décrire sa disponibilité sans donner accès à sa consultation. Dans une période de difficulté d’adaptation, un appui est parfois aussi concret que de savoir qui répond aux demandes, qui tient la table et à qui passer une tâche.",
+      "opening": "« Quarante, ça me semble un bon début. » Jo pose sur la table un paquet de papier presque vide pour donner une idée de l’épaisseur. Mireille a recopié les horaires sur une bande. Élina rapproche la bande du texte du pot et imagine la feuille pliée, avec le nom de la halle au bord. Le dimanche, elle a parlé avec Yasmine. Elles ont comparé les arbres devant leurs fenêtres, et au moment de raccrocher Élina lui a demandé si elle avait trouvé le papier crème. Quelqu’un du bureau s’en était occupé. Elle n’a pas demandé qui.\n\nJo peut faire le tirage. Mireille a réservé le local et sa grande table pour le samedi dans onze jours. Elle propose qu’Élina y soit de neuf à onze heures, parce qu’elle pourra répondre aux gens qui voudront savoir d’où vient l’histoire du pot. Élina a envie de voir les premiers lecteurs. Elle se souvient aussi de sa dernière matinée prévue dehors. Ce samedi-là, elle était rentrée sans avoir fini ses courses et n’avait plus répondu à personne jusqu’au soir. Elle tient à ne pas remplir tout le créneau comme si la question était déjà décidée.\n\n« Tu as une autre obligation ce matin-là ? » demande Mireille en consultant sa feuille. Élina pense à la consultation et à la date de suivi dans son carnet. Le rendez-vous ne tombe pas le samedi. Elle hésite à en parler pour que son refus paraisse assez sérieux. Sur la feuille de Mireille, il manque simplement un nom à côté d’une plage horaire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qu’une équipe a besoin de savoir",
+          "text": "Un appui peut être convenu à partir d’un besoin pratique sans que la personne partage des informations sur sa santé. Les effets d’une période difficile ne se voient pas toujours. On peut donc dire qu’une plage est trop longue ou qu’une responsabilité doit être répartie, même si le projet plaît. L’association a besoin de connaître les tâches et les disponibilités. Au cabinet, la discussion porte sur ce que la personne vit et sur les soins éventuels, avec ses préférences. Pour Élina, la question est de choisir ce qui sert chacune de ces conversations et ce qu’elle souhaite confier à quelqu’un."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Deux heures qui ont l’air libres",
+          "text": "L’agenda d’Élina ne montre rien de neuf à onze heures. Cela ne dit pas combien d’attention lui demande une matinée avec des questions imprévues, ni comment elle se sent ensuite. Mireille pense que l’autrice saura raconter ce qu’elle a vu. Élina trouve ce rôle attirant. C’est la durée et l’idée de rester la seule personne disponible qui la font hésiter. Sur le tableau des rôles, la ligne « distribution » n’a qu’une case. Mireille ne sait pas qu’Élina se demande depuis une minute si elle doit donner une raison médicale pour la laisser vide."
+        },
+        {
+          "role": "strategies",
+          "heading": "Répartir la présence et les demandes",
+          "text": "Élina peut dire quelles tâches elle veut conserver et de quelle présence elle est sûre. Pour un essai, elle pourrait relire le feuillet et passer un moment à la table, avec une autre personne qui se charge du créneau. Jo peut préciser ce que son engagement au tirage couvre. Mireille peut prendre le contact des lecteurs et le rôle qui lui convient ou chercher un autre relais. Un accord peut indiquer où laisser les feuillets et comment recueillir les retours lorsque personne ne parle au nom du journal. Ainsi, une question d’organisation ne dépend pas de la décision d’Élina de parler ou non de sa santé."
+        }
+      ],
+      "ending_title": "Une ligne pour chaque rôle",
+      "ending": "« Je n’ai rien d’autre, mais je ne prends pas deux heures de permanence », dit Élina. Mireille regarde la case et propose d’y écrire son nom pour recueillir elle-même les remarques. Jo note qu’il peut imprimer quarante exemplaires si la page est prête jeudi, deux jours avant la distribution. Élina relira l’épreuve et passera à la table pour un moment dont elle précisera l’heure. Ils décident de laisser le reste du tirage au local après la permanence. Élina glisse le carnet dans son sac. Elle a dit ce qui changeait l’organisation sans avoir à l’ouvrir.",
+      "mirror": [
+        "Mireille peut regarder avec Élina qui prendra le créneau. « Je prends la permanence. Dis-moi quand tu souhaites passer, et je vais prévoir les questions pour le reste. » Elle peut aussi expliquer les limites de sa propre présence et chercher un autre volontaire si besoin. La tenue du tableau ne lui donne pas à décider si la raison d’Élina est suffisante ni à la transmettre à Jo."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-stress-reperes",
+        "has-decision-medicale-partagee"
+      ],
+      "continuity": {
+        "choice": "L’association répartit le tirage et la permanence. Élina s’engage sur la relecture de l’épreuve et garde le choix de son heure de passage.",
+        "next": "La distribution de quarante exemplaires est prévue au local, onze jours après la réunion. L’épreuve doit être prête jeudi."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "elina-imprevu-et-retour-des-difficultes",
+      "title": "Quand une contrariété réveille les difficultés",
+      "description": "Le local devient indisponible pour la distribution. Élina perd une partie de sa nuit à imaginer que tout le projet va s’arrêter.",
+      "context": "Le lundi avant le tirage, depuis l’appartement",
+      "topics": [
+        "Imprévu réel",
+        "Retour des préoccupations",
+        "Reprise de contact"
+      ],
+      "clinical_focus": "Variation des difficultés après un imprévu",
+      "clinical_intro": "Le local de l’association ne pourra plus accueillir la distribution comme prévu. Pour Élina, le contretemps réveille aussi des scènes du bureau et la crainte que plus personne ne veuille faire le journal. Une difficulté qui revient après quelques journées plus faciles invite à regarder ce qui a changé et la gêne qu’elle entraîne.",
+      "opening": "Le message de Mireille arrive le dimanche soir. La mairie a déplacé une réunion dans le local à l’heure où elles comptaient installer la table de distribution. Le message se termine par une question : « Je peux demander pour ailleurs, on se parle demain ? » Élina ouvre le document où elles ont écrit les rôles. C’est la première fois depuis son déménagement qu’une feuille porte son prénom dans un projet de la ville. Elle voit que Mireille a mis « local » en gras, et l’idée lui vient que toute la réunion de mardi n’a servi à rien.\n\nElle ne répond pas tout de suite. Elle regarde le message dans son lit, puis va le lire debout dans la cuisine. Elle pense au bureau d’édition et à une réunion de lancement retirée autrefois du planning. Pendant une nuit de cette dernière semaine au bureau, elle avait guetté un nouveau message en espérant qu’on lui redonne une date. Ici aussi elle se surprend à attendre que quelqu’un corrige la ligne. Elle s’endort tard, se lève au son du camion de livraison et oublie qu’elle avait demandé à sa banque de la rappeler à neuf heures. En voyant l’appel manqué, elle laisse le téléphone sur le rebord de la fenêtre.\n\nÀ dix heures, Mireille appelle. Le texte et le tirage sont encore possibles. Pour distribuer les exemplaires, il faudrait l’accord de la responsable de la halle pour s’installer près de l’entrée. Jo attend toujours la page jeudi. « Est-ce que tu veux que j’annule ou que je demande ? » Élina voit à côté du téléphone le carton sur lequel la docteure Roussel avait noté le numéro du cabinet.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un imprévu a ses conséquences, et parfois des échos",
+          "text": "L’intensité des difficultés d’adaptation peut varier avec les rappels du changement et les événements qui s’ajoutent. Un contretemps réel demande parfois une décision, même quand l’esprit revient à ce qui s’est passé ailleurs. Le déplacement de la réunion oblige l’association à trouver un nouveau lieu. Pour Élina, il évoque aussi l’attente d’une date dans son ancien bureau. Quelques journées où elle a réussi à écrire et à rencontrer Farida restent des expériences qui ont eu lieu. La nuit et l’appel manqué renseignent sur son état actuel. Aucun de ces moments ne suffit à déterminer seul comment les prochaines semaines se passeront."
+        },
+        {
+          "role": "manifestations",
+          "heading": "La ligne changée et le reste de la matinée",
+          "text": "Élina apprend simplement que le local n’est plus libre. Ce qu’elle imagine ensuite va plus loin. Dans sa tête, Jo reprend son papier, Mireille retire les prénoms et la rubrique du pot n’aura servi qu’à occuper une semaine. Aucun de ces gestes n’a eu lieu. Pendant qu’elle attend, elle revient à un autre planning et dort peu. L’appel manqué de la banque l’ennuie aussi. Il lui faudra convenir d’une autre heure. La contrariété du marché et la difficulté à tenir sa matinée ne se confondent pas."
+        },
+        {
+          "role": "strategies",
+          "heading": "Traiter le changement de lieu et reprendre contact",
+          "text": "Mireille peut se renseigner sur l’entrée de la halle, avec une heure à laquelle informer Jo. Élina peut garder le texte en l’état pendant cette vérification. En parallèle, elle peut expliquer à sa médecin que les nuits et les démarches sont de nouveau plus difficiles, même si elle avait fait des choses agréables les jours précédents. La façon dont le problème déborde sur la journée fournit un point de départ pour le suivi. Appeler le cabinet ne l’oblige pas à attendre la réponse pour convenir d’un prochain rappel de la banque. Elle peut choisir l’ordre qui lui permettra de ne pas porter les trois questions en même temps."
+        }
+      ],
+      "ending_title": "Deux appels, deux demandes",
+      "ending": "Élina demande à Mireille de vérifier si la table peut aller près de l’entrée. Elles conviennent de ne pas lancer l’impression avant l’accord et de prévenir Jo, même si elles n’ont qu’une réponse provisoire. Élina appelle le cabinet et dit qu’elle voudrait parler plus tôt de ses nuits et de la difficulté à tenir ses matinées. On lui propose un créneau le mardi en fin de journée, à la place du mercredi. Après avoir raccroché, elle choisit une autre heure de rappel auprès de sa banque et la note au dos du carton du cabinet.",
+      "mirror": [
+        "Mireille peut annoncer ce qu’elle fait pour trouver un lieu. « Je vérifie pour l’entrée et j’écris à Jo avant midi. Si on ne peut pas déplacer la table, on décalera le tirage. » Elle peut demander si Élina veut en reparler, sans lui demander la cause de son silence. La recherche d’un lieu fait partie de son rôle. Les échanges d’Élina avec le cabinet lui appartiennent."
+      ],
+      "sources": [
+        "oms-cddr",
+        "lorenz-adaptation-perte-emploi",
+        "oms-faire-ce-qui-compte",
+        "has-parler-avec-son-medecin"
+      ],
+      "continuity": {
+        "choice": "Élina demande à Mireille de vérifier un autre lieu, suspend l’impression et avance son rendez-vous médical au mardi.",
+        "next": "La prochaine consultation peut reprendre la nuit difficile et l’appel manqué. Mireille attend un accord pour la table et garde Jo informé."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "elina-suivi-quand-difficultes-reviennent",
+      "title": "Faire le point quand les difficultés reviennent",
+      "description": "Au rendez-vous avancé, Élina raconte la nuit qui a suivi le changement de lieu et ce qui allait mieux les jours précédents.",
+      "context": "Le mardi en fin de journée, au cabinet de la docteure Roussel",
+      "topics": [
+        "Suivi clinique",
+        "Évolution dans la vie ordinaire",
+        "Accompagnement choisi"
+      ],
+      "clinical_focus": "Suivi clinique quand les difficultés varient",
+      "clinical_intro": "Élina a avancé son rendez-vous après une nuit passée à repenser au bureau et une démarche manquée le lendemain. Un suivi permet de remettre ce retour des difficultés à côté des moments où l’écriture et les rencontres ont été possibles. L’évolution du trouble de l’adaptation se discute dans le contexte de la personne. Élina et sa médecin examinent aussi quelle forme d’accompagnement lui conviendrait.",
+      "opening": "Élina avait préparé la première consultation au dos d’un prix de radis. Cette fois, elle tient le carton du cabinet. Au verso, elle a inscrit l’heure de l’appel de la banque, qu’elle a eu ce matin. La médecin lui demande pourquoi elle a avancé la consultation. Élina répond d’abord que l’histoire du journal s’est compliquée. Puis elle parle du message attendu une grande partie de la nuit et du sentiment d’être ramenée au bureau, même après son appel à Mireille. Elle ne sait plus exactement de quelle réunion elle attendait la date à l’époque. Elle sait combien de fois elle a rouvert le document du marché dimanche.\n\nLa docteure Roussel lui demande comment se passaient les jours précédents. Élina raconte l’entretien avec Farida, puis le dîner mangé tard à cause de l’article. Elle parle de la promenade avec Lucien, du dimanche où elle a pu appeler Yasmine et du changement d’adresse qui a fini par partir. Elle ajoute qu’elle ne voudrait pas que la nuit de dimanche compte comme la preuve que le reste n’a servi à rien. Elle n’avait pas prévu de dire cette phrase. À l’entendre, elle s’aperçoit qu’elle demande aussi si les difficultés qui reviennent peuvent faire partie de la même histoire.\n\nLa médecin l’interroge sur le sommeil des autres nuits, sur ce qui l’intéresse encore et sur les préoccupations qui ne concernent pas le départ. Élina n’a pas les mêmes réponses pour tous les jours. Sur le carton qu’elle tient encore, l’encre du numéro a un peu bavé.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Comparer des journées plutôt que juger une performance",
+          "text": "Un suivi clinique regarde ce qui a changé dans la gêne et ce qui continue à peser dans le contexte. Un jour où une tâche est accomplie n’indique pas à lui seul que les difficultés se sont résolues. Une mauvaise nuit ne suffit pas non plus à établir une aggravation durable. Le médecin peut reprendre le lien avec les événements et rouvrir d’autres pistes si les difficultés changent de forme, s’étendent ou persistent. Pour Élina, raconter une rencontre qui lui a plu et la soirée qui l’a suivie permet de parler de deux aspects de sa situation. Le suivi peut ajuster l’appui à partir de ces nuances."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le carton avec deux informations",
+          "text": "Le numéro imprimé sur le carton renvoie au cabinet. L’heure au dos renvoie à une démarche quotidienne. La veille, Élina a repris les deux questions au lieu de les laisser en attente sur la table. Elle décrit aussi la nuit qui lui a coûté une partie du lundi. Le même récit contient donc un progrès concret, une période de gêne et une préoccupation qui reste centrée sur le départ. En consultation, la docteure entend des faits répartis dans le temps et des détails qu’un collègue de l’association ne pourrait pas connaître en regardant le feuillet terminé."
+        },
+        {
+          "role": "strategies",
+          "heading": "Choisir le prochain appui avec la médecin",
+          "text": "Élina peut demander ce qu’un premier entretien avec une psychologue lui permettrait d’aborder, en quoi il serait distinct du suivi de sa généraliste et comment décider ensuite de la suite. Elle peut dire qu’elle voudrait parler de la place de l’ancien travail dans ses nuits, ainsi que de l’effort qu’exigent certaines tâches. Elles peuvent convenir d’un rendez-vous médical de suivi et rediscuter de ce qu’il faudra faire si les nuits ou les journées deviennent plus difficiles. Du côté de l’association, le choix de relire la page dépendra de l’heure de tirage et de ce qu’elle se sent en mesure de prendre."
+        }
+      ],
+      "ending_title": "Un rendez-vous et un nouvel emplacement",
+      "ending": "La docteure Roussel lui propose les coordonnées d’une psychologue et explique qu’un premier entretien servira à faire connaissance et à préciser sa demande. Élina choisit de prendre contact. Elle garde un rendez-vous de suivi avec sa généraliste. En sortant du cabinet, elle apprend par un message de Mireille que la responsable de la halle leur permet d’installer la table près du banc à l’entrée et leur prête un panneau. Jo attendra son accord jeudi avant de tirer. Élina répond à Mireille qu’elle relira l’épreuve le lendemain. Puis elle appelle le cabinet de la psychologue, qui lui propose un rendez-vous le mercredi de la semaine suivante.",
+      "mirror": [
+        "Élina vient de confirmer la relecture du mercredi. Mireille peut lui confirmer la répartition. « Je demande à Jo de te laisser l’épreuve demain matin. Je vérifie les horaires de mon côté. » Si le tirage demande une autre rencontre, elle peut proposer un créneau et entendre qu’il est déjà pris. Pour organiser le journal, elle n’a pas besoin de demander à Élina le détail de sa semaine."
+      ],
+      "sources": [
+        "oms-cddr",
+        "has-parler-avec-son-medecin",
+        "has-decision-medicale-partagee",
+        "ameli-sante-mentale-adulte-aide",
+        "lorenz-adaptation-perte-emploi"
+      ],
+      "continuity": {
+        "choice": "Élina choisit un premier entretien psychologique et garde le suivi médical. Elle confirme la relecture après l’accord sur l’entrée de la halle.",
+        "next": "L’épreuve doit mentionner le banc et le panneau près de l’entrée. Le premier entretien psychologique aura lieu le mercredi qui suit la distribution."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "elina-activite-qui-a-du-sens",
+      "title": "Choisir ce qui compte quand l’élan manque",
+      "description": "Sur l’épreuve du journal, tout semble manquer de place. Élina choisit ce qu’elle veut que les lecteurs puissent trouver et lire.",
+      "context": "Le mercredi matin, devant l’épreuve de Jo",
+      "topics": [
+        "Activité qui a du sens",
+        "Attention au présent",
+        "Choix d’une contribution"
+      ],
+      "clinical_focus": "Action choisie malgré la préoccupation",
+      "clinical_intro": "Élina ouvre une épreuve qu’elle avait hâte de voir et ne retrouve pas cet élan. Elle est encore occupée par des pensées sur le bureau. Une activité choisie peut garder un sens même quand l’envie d’y entrer fluctue. Face à la feuille, elle retrouve une raison précise de relire. Elle veut que les lecteurs puissent reconnaître le geste que Farida lui a montré et savoir où trouver le journal.",
+      "opening": "Jo a glissé l’épreuve dans la boîte aux lettres d’Élina. Il a plié la feuille pour qu’on voie le titre avant de l’ouvrir. Pendant des jours, elle a essayé d’imaginer ce que lui ferait le nom Les Nouvelles de la Halle imprimé de nouveau. À présent elle le lit et ne ressent pas grand-chose. La dernière publication de son ancien bureau est encore ouverte sur l’ordinateur. Elle avait voulu vérifier une date avant de dormir. Elle n’a pas rallumé l’écran ce matin, mais elle revoit l’endroit où la date figure, en haut de la page.\n\nAu crayon, elle entoure le mot « local ». Jo a utilisé la dernière version reçue avant le changement. Il faut écrire que les exemplaires seront disponibles près de l’entrée, au niveau du banc, puis laisser un peu de place pour que ce soit lisible. Le pli coupe la citation de Farida au milieu. On lit d’abord que le pot est bleu. Le geste du pouce apparaît en dépliant la feuille. Élina se surprend à suivre sur le papier le geste du pouce qui la cherche.\n\nLe bas de la feuille est occupé par une annonce appelant des volontaires. Mireille l’avait ajoutée en attendant de savoir si quelqu’un accepterait d’imprimer. Jo a écrit « appelle-moi avant midi » dans la marge. Élina pense à la page du bureau qu’elle voudrait refermer et à tous les détails qu’elle pourrait encore déplacer. Elle commence par aller chercher la feuille dont Farida avait approuvé le texte.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Donner une raison précise au geste",
+          "text": "Une activité qui a du sens peut rester accessible par un geste précis, même si la concentration ou l’envie est inégale. Élina tient à rendre visibles des choses que les habitués font sans les commenter. Cela lui donne une raison de vérifier une phrase particulière. Elle peut sentir le poids du départ en même temps qu’elle reconnaît ce qui l’intéresse dans le pot. Cette coexistence aide à comprendre pourquoi une activité peut compter avant que le reste s’allège. Le rôle du journal est de faire circuler des informations et des histoires. La consultation et l’accompagnement ont une autre place dans sa vie."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce qui arrête le regard sur la feuille",
+          "text": "Le nom du journal ne produit pas l’effet qu’Élina attendait. En revanche, elle suit le mouvement que la phrase de Farida lui rappelle. Le mot « local » souligné lui pose un problème qu’elle peut résoudre aujourd’hui. Le bureau la ramène à une question ancienne, sans résultat nouveau. Les deux se disputent son attention au cours de la même lecture. Jo verra peut-être seulement trois corrections sur la marge. Pour Élina, la différence se situe entre parcourir encore une fois la page entière et s’attarder enfin sur ce qu’un lecteur cherchera en l’ouvrant."
+        },
+        {
+          "role": "strategies",
+          "heading": "Mettre la place disponible au service du lecteur",
+          "text": "Avant de répondre à Jo, Élina peut comparer l’épreuve et le texte validé, pour signaler ce qui doit changer dans l’emplacement indiqué et la présentation de la citation. L’annonce peut être réduite ou retirée si Mireille confirme qu’elle n’est plus utile. Une autre personne peut vérifier que les horaires restent lisibles après la modification. Lorsqu’une pensée du bureau revient, Élina peut la reconnaître puis se demander si une personne qui entre dans la halle saura où prendre un exemplaire. Elle n’a pas besoin de prolonger la séance jusqu’à retrouver l’entrain qu’elle attendait."
+        }
+      ],
+      "ending_title": "Le banc près de l’entrée",
+      "ending": "Mireille confirme qu’elle peut annoncer les besoins de l’association au tableau habituel. Jo enlève le petit appel, grossit les horaires et place l’indication du banc sous le titre. Élina lui demande de laisser la phrase de Farida d’un seul tenant. Le lendemain à midi, au local de l’association, Jo leur montre le nouveau pli. Élina relit la citation. Mireille confirme les horaires et l’emplacement. Jo lance les quarante exemplaires. Élina prend un feuillet d’épreuve pour le montrer à Farida samedi. Une fois rentrée, elle ferme l’onglet de la publication du bureau et ouvre le courrier qu’elle avait laissé dans l’entrée.",
+      "mirror": [
+        "Jo voit qu’Élina a entouré l’indication du local et qu’elle tient à la phrase de Farida. Il peut prendre la correction à sa charge et préciser ce dont il a besoin. « Si Mireille valide l’emplacement près du banc, je refais le pli. Je t’envoie la citation avec le nouvel espace. » Il peut fixer son heure de tirage et demander des consignes claires. Son rôle porte sur le feuillet. Il n’a pas à obtenir d’Élina qu’elle se sente heureuse de le voir sortir."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-faire-ce-qui-compte"
+      ],
+      "continuity": {
+        "choice": "Élina choisit les corrections utiles au lecteur, puis donne son accord sur le texte. Mireille valide les informations et Jo lance le tirage.",
+        "next": "Samedi, quarante exemplaires iront à la table près du banc, sous le panneau. Élina a gardé l’épreuve pour Farida."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "elina-lien-social-presence-limitee",
+      "title": "Revenir vers les autres sans tenir toute la matinée",
+      "description": "Le journal paraît. Élina choisit quand venir à la table et comment partir en laissant la permanence à Mireille.",
+      "context": "Le samedi du tirage, près de l’entrée de la halle",
+      "topics": [
+        "Participation sociale",
+        "Présence choisie",
+        "Relais explicite"
+      ],
+      "clinical_focus": "Reprise du lien sans présence imposée",
+      "clinical_intro": "Quarante exemplaires attendent des lecteurs à l’entrée de la halle. Élina a envie de les voir ouvrir le journal, mais elle sait ce que lui coûtent parfois les matinées remplies. Retrouver un lien avec des personnes du quartier peut passer par une présence choisie. Grâce au relais convenu avec Mireille, la durée de sa visite reste une décision qu’Élina peut prendre.",
+      "opening": "À neuf heures quarante-cinq, Mireille a déjà sorti la moitié du paquet. Le panneau penche un peu et un coin du journal se relève avec le courant d’air. Élina lui avait annoncé la veille qu’elle passerait de dix heures à dix heures et demie. Elle est venue plus tôt pour remettre l’épreuve à Farida. À l’étal, Farida ouvre la feuille et approche un instant le papier du pot. « En photo, on aurait dit qu’il est vert. Ça me plaît que tu l’aies décrit. » Élina sourit. Il lui a fallu longtemps pour trouver un mot pour ce bleu.\n\nDe retour près du banc, elle voit Lucien prendre un exemplaire dans la pile. Il demande si le crochet du fromager aura droit à un nouveau dessin. Une dame qu’Élina n’a jamais vue lui montre le bloc des horaires et demande si le marché ferme à la même heure quand il pleut. Mireille connaît la réponse. Pendant qu’elle la donne, Élina regarde la dame relire le titre. Elle avait oublié que la plupart des gens posent d’abord une question sur ce qu’ils vont pouvoir faire après avoir lu.\n\nÀ dix heures vingt, la dame revient avec quelqu’un et leur dit : « Les voilà, les gens du journal. » Élina se redresse. Elle a envie de rester assez longtemps pour entendre la suite. Elle remarque qu’elle a déjà deux questions en tête auxquelles elle voudrait répondre toute seule. La dame voudrait connaître les horaires d’une autre manifestation. La personne qui l’accompagne demande si le journal paraîtra chaque semaine. Mireille déplace le paquet vers le bord de la table. Dix minutes, c’est le temps de finir une conversation ou d’en commencer une autre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Choisir une présence qui garde sa forme",
+          "text": "Un lien peut reprendre avec un moment de présence qui a un début et une fin. Dans une période où les activités coûtent davantage, savoir qui prend la suite peut faciliter le choix de venir. Le contact avec les lecteurs permet à Élina d’entendre ce que les gens ont retenu de la page qu’elle a écrite. Elle peut aussi avoir besoin de quitter la table alors que la conversation lui plaît. Les difficultés peuvent varier selon les moments et les situations. Une présence plus courte peut garder sa valeur, même quand d’autres personnes préféreraient prolonger l’échange."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le plaisir, les questions et l’heure",
+          "text": "Élina a attendu longtemps ce moment. Elle voit maintenant la dame montrer les horaires à quelqu’un qui vient de la rejoindre. Elle entend aussi une question qui lui rappelle l’habitude de son ancien bureau, quand elle annonçait déjà le prochain numéro pour montrer qu’elle était prête. Le journal est en circulation. Le prochain ne fait pas encore l’objet d’un accord. Lucien peut voir qu’elle suit la discussion et regarde l’heure. Il ne sait pas qu’elle repense en même temps aux samedis où elle est rentrée sans avoir pu garder un peu de temps pour elle."
+        },
+        {
+          "role": "strategies",
+          "heading": "Passer une question à la bonne personne",
+          "text": "Élina peut remercier la dame et confier la question du prochain numéro à Mireille, qui recueille les retours et connaît l’accord de l’équipe. Elles peuvent convenir d’un signe avant qu’Élina parte, ou elle peut simplement dire l’heure qu’il est. Si elle veut rester un peu, elle peut se demander à quoi elle souhaite consacrer ces minutes et si elle peut encore y prendre part de la façon qui lui convient. Lucien peut lui proposer un café un autre jour sans joindre cette invitation à la fin de la permanence. Laisser des exemplaires chez un commerçant peut être proposé et accepté séparément."
+        }
+      ],
+      "ending_title": "La table reste occupée",
+      "ending": "« Pour le prochain, demandez à Mireille, on commence avec celui-ci. » Élina dit au revoir à dix heures et demie. Mireille lui fait un signe et continue d’écouter la dame. Farida lui propose de garder les exemplaires qui resteront après la permanence, jusqu’au samedi suivant, avec quelques mots de lecteurs glissés sous le pot. Lucien invite Élina à reprendre leur café le lendemain. Elle lui propose onze heures et achète une part de tarte avant de rentrer. En passant devant le panneau, elle voit le coin qui bouge toujours. La pile, elle, est plus basse.",
+      "mirror": [
+        "Lucien peut accepter l’heure qu’Élina propose. « Onze heures demain, ça me va. Si tu changes d’avis, envoie-moi un mot. » Il peut lui parler d’une phrase du journal quand ils se reverront. Il n’a pas à mesurer ses progrès en comptant les minutes passées à la table. Mireille peut continuer la permanence comme prévu, avec la durée qu’elle avait elle-même acceptée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-stress-reperes",
+        "oms-faire-ce-qui-compte"
+      ],
+      "continuity": {
+        "choice": "Élina va à la table et part à l’heure choisie. Mireille prend les questions. Farida propose de conserver les exemplaires restants et les retours.",
+        "next": "Élina et Lucien ont convenu d’un café dimanche. L’équipe retrouvera les retours de Farida le samedi suivant, après le premier entretien psychologique d’Élina."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "elina-faire-le-point-sans-date-de-guerison",
+      "title": "Faire le point sans se donner une date pour aller mieux",
+      "description": "Le journal a retrouvé des lecteurs. Élina décide avec l’association de ce qu’elle voudrait faire pour un second numéro.",
+      "context": "Une semaine après le tirage, autour du banc de la halle",
+      "topics": [
+        "Évolution variable",
+        "Répartition durable",
+        "Suivi poursuivi"
+      ],
+      "clinical_focus": "Bilan sans calendrier de guérison",
+      "clinical_intro": "Les exemplaires du journal ont circulé. Élina continue pourtant à perdre du temps dans les pensées liées au bureau, et elle a commencé un accompagnement. Une réussite et une difficulté persistante peuvent figurer dans le même bilan. L’association discute de la prochaine édition. Élina évalue avec les professionnels ce qui l’aide dans sa vie, sans caler cette évolution sur une date de parution.",
+      "opening": "Farida a laissé un exemplaire sous le pot bleu pour que le papier ne s’envole pas. Les autres sont partis. Mireille soulève le bord de la feuille et retire trois bouts de papier. Une personne voudrait les jours d’ouverture de l’atelier de réemploi. Une autre propose un dessin du banc. Sur le troisième, quelqu’un a écrit « l’encoche, je l’ai cherchée » avec un trait dessous. Farida touche le bord du pot pour montrer l’endroit à Jo. Élina l’écoute expliquer de quel côté sa mère le prenait. Il y a des détails qu’elle n’aurait pas su raconter si elle était restée à sa table.\n\nDimanche, Lucien et Élina ont bu leur café avant qu’il refroidisse. Mardi, il l’a aidée à porter le petit meuble jusqu’à l’atelier. Mercredi, Élina a vu la psychologue. Elles ont parlé de la place du bureau dans ses soirées et convenu de se revoir. La veille de ce samedi, un ancien collègue a envoyé une photo de l’armoire qu’ils déménageaient à l’autre bout de la pièce. Élina a laissé son dîner en attente un moment pour l’agrandir et relire les messages qui suivaient. Après coup, elle a regretté le temps passé et voulu regarder encore un peu. Elle y pense quand Jo demande à quelle date ils pourraient imprimer la prochaine fois.\n\nSur le banc, Mireille pose la liste des rôles. Quelqu’un a écrit au crayon « chaque samedi ? » au-dessus de son nom. Élina aimerait faire un dessin de l’atelier de réemploi. Elle connaît maintenant la largeur de sa porte.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Regarder ce qui tient et ce qui coûte encore",
+          "text": "L’évolution du trouble de l’adaptation peut varier selon la personne, les appuis dont elle dispose et ce qui se passe dans sa vie. Retrouver une activité ou un lien apporte une information. La gêne qui persiste en apporte une autre. Élina a terminé un feuillet et retrouvé du plaisir à demander à quelqu’un de raconter un objet. Elle est encore reprise par des pensées sur l’ancien bureau et certaines soirées s’en trouvent perturbées. Elle peut discuter de ces deux faits avec sa généraliste et sa psychologue. La date d’un tirage renseigne sur un projet collectif. Elle ne permet pas de dater la fin des difficultés."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Les traces de deux semaines différentes",
+          "text": "Sur le banc, il y a trois réponses de lecteurs et presque plus de papier à distribuer. Chez elle, Élina voit aussi qu’un formulaire a été envoyé, qu’un café a eu lieu et que le meuble est enfin sorti. La photo de l’armoire a pourtant occupé une partie d’une soirée où elle avait prévu autre chose. La nouvelle ville compte désormais des personnes qu’elle aime retrouver. L’ancienne équipe revient encore au détour d’une notification. Les deux situations coexistent au moment où Jo cherche un calendrier. Il demande quand il pourra imprimer. Élina se surprend à entendre une date à laquelle elle devrait se sentir prête à tout reprendre."
+        },
+        {
+          "role": "strategies",
+          "heading": "Prendre une décision sur la prochaine page",
+          "text": "L’équipe peut décider si elle souhaite faire un autre essai, avec un format, des rôles et une fréquence qu’elle peut tenir. Pour Élina, l’envie de dessiner la porte de l’atelier indique ce qu’elle aimerait reprendre. Jo peut annoncer les dates où il a du papier et du temps. Mireille peut voir si quelqu’un d’autre a envie de tenir la permanence. Du côté des soins, Élina peut raconter l’effet de la photo et ce qui s’est passé après, en gardant le suivi déjà prévu. Elle peut aussi dire en quoi l’entretien lui a convenu ou ce qu’elle aimerait qu’on aborde autrement."
+        }
+      ],
+      "ending_title": "Une feuille à la fois",
+      "ending": "Élina propose un deuxième essai le mois suivant, au même format, si les rôles sont couverts. Mireille s’engage sur les horaires. Jo réserve un créneau, et Farida accepte de garder quelques feuillets au comptoir si la permanence se fait à nouveau à l’entrée. Ils annonceront une date quand la page sera prête. Élina choisit le dessin et quelques lignes sur l’atelier. Sur le chemin du retour, elle fait un détour par l’atelier pour voir de quel côté la porte s’ouvre. Son prochain rendez-vous avec la docteure est déjà noté, sur une autre page du carnet.",
+      "mirror": [
+        "Mireille peut partir de ce qu’elles ont réalisé pour discuter d’un autre numéro. « Le premier a trouvé des lecteurs. Je peux garder les horaires si tu veux faire l’atelier. Pour le reste, on voit avec les autres. » Elle peut dire ce qu’elle acceptera de prendre ou refuser un rythme plus serré. Le bilan de l’association porte sur leur journal. La façon dont Élina va et ce qu’elle confie en consultation lui appartiennent."
+      ],
+      "sources": [
+        "oms-cddr",
+        "lorenz-adaptation-perte-emploi",
+        "oms-faire-ce-qui-compte",
+        "has-decision-medicale-partagee"
+      ],
+      "continuity": {
+        "choice": "Le premier numéro a circulé. L’équipe convient d’un second essai sous réserve de tenir la répartition des rôles. Élina choisit le sujet de l’atelier.",
+        "next": "Le journal a repris. Élina prévoit de retourner à l’atelier pour le dessin et poursuit l’accompagnement qu’elle a choisi."
+      }
+    }
+  ]
+}

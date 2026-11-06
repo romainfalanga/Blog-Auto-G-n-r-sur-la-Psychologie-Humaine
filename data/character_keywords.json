@@ -527,6 +527,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "élina": {
+    "id": "elina",
+    "name": "Élina",
+    "keywords": [
+      "Trouble de l’adaptation",
+      "Préoccupations autour du changement",
+      "Retentissement sur le quotidien",
+      "Perte de routines et d’appuis",
+      "Reprise d’activité choisie"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "élvire": {
     "id": "elvire",
     "name": "Élvire",
@@ -779,6 +791,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "nathalie": {
+    "id": "nathalie",
+    "name": "Nathalie",
+    "keywords": [
+      "Trouble d’accumulation compulsive",
+      "Difficulté à se séparer",
+      "Arrivée de nouveaux objets",
+      "Usage et sécurité du logement",
+      "Aide consentie"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "nils": {
     "id": "nils",
     "name": "Nils",
@@ -863,6 +887,18 @@
     ],
     "source": "repères des parcours cliniques de fiction"
   },
+  "sébastien": {
+    "id": "sebastien",
+    "name": "Sébastien",
+    "keywords": [
+      "Dysmorphophobie",
+      "Préoccupation envahissante sur l’apparence",
+      "Vérifications et réassurance",
+      "Évitement et retentissement quotidien",
+      "Choix de soin et de participation"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
   "selma": {
     "id": "selma",
     "name": "Selma",
@@ -896,6 +932,18 @@
       "Anxiété anticipatoire",
       "Évitement",
       "Confidentialité au travail"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "timothée": {
+    "id": "timothee",
+    "name": "Timothée",
+    "keywords": [
+      "Dysthymie",
+      "Humeur basse et variations",
+      "Effort dans le quotidien",
+      "Intérêt et plaisir",
+      "Ajustement du suivi"
     ],
     "source": "repères des parcours cliniques de fiction"
   },

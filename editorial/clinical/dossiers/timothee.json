@@ -1,0 +1,61 @@
+{
+  "references": {
+    "oms-cim-6a72": {
+      "title": "OMS, CIM-11 en français, dysthymie (6A72)",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#810797047"
+    },
+    "oms-depression-reperes": {
+      "title": "OMS, fiche sur les manifestations, le retentissement et les soins de la dépression",
+      "url": "https://www.who.int/fr/news-room/fact-sheets/detail/depression"
+    },
+    "ameli-depression-soins": {
+      "title": "Assurance Maladie, prise en charge et traitement de la dépression",
+      "url": "https://www.ameli.fr/assure/sante/themes/depression-troubles-depressifs/traitement"
+    },
+    "has-depression-evaluation": {
+      "title": "HAS, repérage, évaluation et prise en charge initiale de la dépression de l’adulte",
+      "url": "https://www.has-sante.fr/jcms/pprd_2974237/fr/depression-de-l-adulte-reperage-et-prise-en-charge-initiale"
+    },
+    "apa-dsm5tr-pdd": {
+      "title": "American Psychiatric Association, note DSM-5-TR sur le trouble dépressif persistant",
+      "url": "https://www.psychiatry.org/getcontentasset/fd3dfaad-d409-4e94-8605-0350adec5b91/dfc3d011-8f63-43f6-9ed8-4b444333a1d0/apa-dsm5tr-persistentdepressive?language=en"
+    },
+    "sherdell-plaisir-depression": {
+      "title": "Sherdell, Waugh et Gotlib, étude du plaisir anticipé et éprouvé dans la dépression majeure (2012)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3335300/"
+    },
+    "fr-secours-depression": {
+      "title": "Service Public, numéros d’urgence médicale en France",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954"
+    }
+  },
+  "dossier": {
+    "name": "Dysthymie",
+    "aliases": [
+      "Trouble dysthymique",
+      "6A72"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-cim-6a72",
+      "nice-depression",
+      "oms-depression-reperes",
+      "ameli-depression-soins",
+      "has-depression-evaluation",
+      "apa-dsm5tr-pdd",
+      "sherdell-plaisir-depression",
+      "fr-secours-depression"
+    ],
+    "points": [
+      "Le CDDR de l’OMS (2024, 6A72, pages 255 à 258) décrit une dysthymie qui implique une humeur dépressive persistante accompagnée d’autres manifestations et une souffrance, une gêne fonctionnelle ou un effort supplémentaire important pour maintenir le fonctionnement. Le tableau peut toucher le plaisir ou l’intérêt, l’énergie, l’attention ou la décision, l’estime de soi, l’espoir, le sommeil et l’appétit. Une humeur basse en réaction à une épreuve, une façon de parler, un tempérament réservé ou un geste isolé ne suffisent pas à l’identifier. Timothée a été évalué et diagnostiqué avant le récit. La fiction montre une présentation possible.",
+      "D’après le CDDR (pages 255 à 258) et NICE NG222 (§1.2.6–1.2.7), l’évaluation replace le vécu dans le temps et tient compte de l’état habituel, du coût des tâches, des antécédents, du contexte, du sommeil, des soins reçus et d’autres explications possibles. Les antécédents d’élévation pathologique de l’humeur, la santé physique et les effets de médicaments ou de substances font partie des points à examiner selon le contexte. Les moments plus légers sont compatibles avec la persistance d’un fond dépressif. Un moment agréable ou une journée sombre ne suffit à établir ni rémission, ni épisode. Les repères de durée du manuel restent dans le raisonnement professionnel. Aucun seuil ou inventaire servant à s’autodiagnostiquer n’entre dans le récit.",
+      "Dans la CIM-11 (CDDR, pages 252 et 257), le tableau initial de dysthymie n’atteint pas les exigences d’un épisode dépressif. Un épisode peut se surajouter plus tard. Les deux diagnostics peuvent alors être retenus selon l’évaluation et l’histoire. Une période durable de symptômes résiduels après un épisode a une autre place dans la classification. Dans les épisodes 7 et 8, une dégradation avec effet sur plusieurs activités conduit à un contact le jour du constat et à un examen le lendemain. L’équipe évalue l’évolution et la sécurité, rapproche le suivi et ne conclut pas à ce stade à un épisode distinct. La HAS est utilisée ici pour l’évaluation d’un éventuel épisode dépressif et le suivi clinique, sans transférer ses repères d’épisode à la dysthymie.",
+      "D’après le CDDR (6A72), une baisse de l’intérêt ou du plaisir peut faire partie du tableau. L’étude de Sherdell, Waugh et Gotlib (2012) distingue le plaisir attendu du plaisir pendant une expérience chez des adultes atteints de dépression majeure. Elle éclaire cette distinction, sans établir un profil du plaisir spécifique à la dysthymie. Dans l’épisode 4, la différence entre anticipation et expérience reste une observation de Timothée, pas une règle sur ce trouble.",
+      "NICE NG222, section 1.10 et « Terms used in this guideline », emploie une catégorie plus large de symptômes dépressifs chroniques pour ses recommandations. Elle inclut plusieurs parcours que la CIM-11 distingue. La note officielle de l’APA sur le DSM-5-TR explique aussi le retrait du mot « dysthymie » à côté de l’intitulé « trouble dépressif persistant ». Le DSM-5-TR inclut des présentations que la dysthymie du DSM-IV excluait, notamment quand les critères d’un épisode dépressif majeur étaient remplis dans la période initiale. Ne pas déclarer ces termes équivalents ni reprendre leurs seuils diagnostiques dans les articles.",
+      "Les soins se discutent à partir de la gêne, des préférences, de l’évolution et de ce qui a déjà été essayé (NICE NG222 §1.10.1–1.10.6 et §1.4, fiche OMS sur la dépression et Assurance Maladie). Une psychothérapie et, selon le tableau et le jugement clinique, un antidépresseur peuvent faire partie des options à discuter. NG222 §1.10.3 précise que l’approche cognitivo-comportementale adaptée peut aborder les pensées qui tournent en boucle, l’évitement et les difficultés dans les relations. Les exemples du récit illustrent des échanges de soins ou des choix pratiques personnels. Aucune séance de violon, fiche maison ou décision du lecteur ne tient lieu de traitement ou de réévaluation.",
+      "Une aggravation qui inquiète peut justifier de joindre le professionnel avant le prochain rendez-vous (NICE NG222 §1.2.8–1.2.12 et §1.4, HAS et Assurance Maladie). Le niveau de recours dépend de la situation et l’équipe évalue aussi la sécurité, en questionnant directement la présence éventuelle d’idées suicidaires et le besoin d’aide immédiate. Le suivi revoit la gêne, les effets des soins et les obstacles concrets à leur accès. Dans le récit, le cabinet communique à Timothée un relais convenu si son état change de nouveau. En cas de danger immédiat, les secours prennent le relais. La fiche officielle de Service Public documente ce recours en France.",
+      "L’appui des proches peut prendre la forme d’une écoute, d’une activité choisie ou d’une aide concrète (NICE NG222 §1.1 et §1.2.7, Assurance Maladie et fiche OMS). L’accord de Timothée guide le partage d’informations et l’aide se limite à ce que chacun peut faire. Ni ses collègues ni l’élève ne sont chargés de surveiller son humeur ou de transmettre des données médicales. La capacité de transmettre un geste, les variations du plaisir et l’évolution du soin sont suivies séparément."
+    ]
+  },
+  "direction": "À 44 ans, Timothée tient les parties communes d’une résidence étudiante et remet des instruments en état dans son garage. Sa voix est précise quand il parle d’un objet et plus brève quand on lui demande comment il va. Nora, voisine et professeure de musique, le met en contact avec Sacha, un adulte qui veut apprendre les premiers gestes d’observation et de réglage sur un violon d’étude. Timothée tient à apprendre à Sacha à écouter et à regarder avant de conclure. Il choisit une première rencontre courte, sans promesse de cours réguliers. Rémi, son collègue, et Yacine, son ami disquaire, connaissent chacun une part de son quotidien. La docteure Rivière a posé le diagnostic de dysthymie avant le récit. Maud, psychologue, fait partie du suivi. L’arc fait entendre la durée, les variations, l’effort au travail et le doute sur le plaisir futur avant de montrer une aggravation évaluée, un report annoncé, puis un nouvel accord avec Sacha. Nora aide à sa demande et garde ses cours. La rencontre aboutit à une question propre à Sacha et à un second rendez-vous possible. Le suivi continue au-delà de cette décision et s’ajuste sur ses propres repères."
+}

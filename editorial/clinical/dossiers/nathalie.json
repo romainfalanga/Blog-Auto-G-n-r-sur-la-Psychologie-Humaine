@@ -1,0 +1,66 @@
+{
+  "references": {
+    "oms-cim-6b24": {
+      "title": "OMS, CIM-11 en français, trouble d’accumulation compulsive (6B24)",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#1991016628"
+    },
+    "oxford-nhs-accumulation": {
+      "title": "Oxford Health NHS Foundation Trust, évaluation et soins spécialisés du trouble d’accumulation compulsive",
+      "url": "https://oxfordhealth.nhs.uk/ohspic/problems/hoarding-disorder/"
+    },
+    "nordsletten-collection": {
+      "title": "Nordsletten et coll., étude comparative du trouble d’accumulation et de la collection ordinaire (2013)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22995450/"
+    },
+    "steketee-tcc-accumulation": {
+      "title": "Steketee et coll., essai contrôlé de TCC adaptée au trouble d’accumulation avec groupe en liste d’attente (2010)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20336804/"
+    },
+    "tolin-tcc-accumulation": {
+      "title": "Tolin et coll., essai randomisé de TCC de groupe adaptée au trouble d’accumulation (2019)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31008633/"
+    },
+    "cambridge-coordination-accumulation": {
+      "title": "Cambridgeshire and Peterborough Safeguarding Partnership Board, protocole de coordination et de réduction des risques liés à l’accumulation",
+      "url": "https://www.safeguardingcambspeterborough.org.uk/adults-board/cpsabprocedures/hoarding/"
+    },
+    "usfa-acces-incendie": {
+      "title": "U.S. Fire Administration, encombrement des accès, évacuation et intervention des secours",
+      "url": "https://www.usfa.fema.gov/prevention/home-fires/at-risk-audiences/hoarding/"
+    },
+    "securite-civile-incendie-domestique": {
+      "title": "Sécurité civile française, conduite à tenir face à un incendie domestique",
+      "url": "https://www.securite-civile.interieur.gouv.fr/reagir/risques-de-vie-courante/incendie-domestique"
+    }
+  },
+  "dossier": {
+    "name": "Trouble d’accumulation compulsive",
+    "aliases": [
+      "Accumulation compulsive",
+      "Syllogomanie",
+      "6B24"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-cim-6b24",
+      "oxford-nhs-accumulation",
+      "nordsletten-collection",
+      "steketee-tcc-accumulation",
+      "tolin-tcc-accumulation",
+      "cambridge-coordination-accumulation",
+      "usfa-acces-incendie",
+      "securite-civile-incendie-domestique"
+    ],
+    "points": [
+      "Dans le CDDR 2024 de l’OMS, la section 6B24 (p. 322 à 326) décrit une accumulation liée à des conduites ou des envies répétées d’amasser et à une difficulté à se séparer de possessions. L’amassement peut se faire passivement au fil des arrivées ou activement par des achats ou de la récupération. Le besoin ressenti de les garder et la détresse à l’idée de s’en séparer peuvent concerner des objets de toute valeur. L’évaluation porte sur l’usage ou la sécurité des espaces et sur la souffrance ou le retentissement significatifs. Un espace rendu utilisable par l’intervention d’un tiers ne renseigne pas à lui seul sur la difficulté persistante. Le public ne reçoit ni seuil ni grille.",
+      "Le CDDR distingue le trouble d’une collection ordinaire, dont les acquisitions sont souvent plus ciblées et les objets plus organisés. L’étude comparative de Nordsletten et coll. (29 personnes avec trouble et 20 collectionneurs déclarés) montre que l’attachement et une certaine réticence à se séparer d’objets peuvent se retrouver dans les deux groupes, avec des répercussions très différentes dans cet échantillon. Une quantité, une esthétique, une habitude d’épargne, un souvenir ou l’ordre d’une étagère ne suffisent ni à identifier ni à écarter le trouble. Une personne peut posséder une collection choisie tout en ayant des difficultés distinctes avec d’autres objets.",
+      "Le CDDR et la présentation du centre spécialisé d’Oxford décrivent l’évaluation de l’histoire, du retentissement, des significations et de la santé plus largement. Une visite ou des observations d’un proche peuvent compléter le récit, avec un cadre convenu pour l’accès et les informations. Le professionnel distingue des causes possibles, par exemple certains symptômes d’un TOC, d’un trouble de l’humeur ou d’un trouble neurocognitif. Le CDDR décrit différents degrés de reconnaissance des difficultés, qui peuvent varier selon la situation. Une divergence sur un objet ne suffit ni à qualifier ce degré ni à déterminer qui décide. Le diagnostic de Nathalie est établi avant la série, sans spécificateur ajouté dans la fiction.",
+      "Une association à une personne, une utilité espérée ou une qualité esthétique peuvent compter dans le besoin de garder (CDDR, Oxford). La fiction présente le souvenir de Lucette, l’envie de recueillir des livres gratuits et le courrier ordinaire comme des expériences distinctes. Elle n’attribue pas le trouble à un deuil, à l’ancienne librairie, à un caractère ou à un événement unique. Un récit, une photo ou un don restent des choix personnels, jamais des exercices obligatoires ni des preuves de guérison.",
+      "Les essais randomisés de Steketee et coll. (46 adultes affectés à une TCC ou à l’attente) et de Tolin et coll. (87 adultes affectés à une TCC de groupe ou à l’attente) apportent des données en faveur de TCC adaptées sur les symptômes, avec une réponse variable. Les essais comportent notamment un travail sur les décisions, les croyances, les émotions, la séparation et l’acquisition. Les comparaisons avec l’attente ne suffisent pas à départager les soins actifs ni à garantir l’ampleur ou la durée d’un effet individuel. Le centre d’Oxford décrit des objectifs partagés et un plan d’entretien des acquis. La scène représente une décision avec une psychologue, sans protocole à reproduire.",
+      "Le centre d’Oxford et le protocole partenarial de Cambridgeshire et Peterborough décrivent les difficultés d’engagement après des interventions imposées et l’intérêt d’objectifs réalistes et concertés. Un débarras unique ne constitue pas un soin durable. Les proches s’abstiennent de fouiller, photographier, transmettre ou enlever les affaires sans accord. Le périmètre de l’aide, la possibilité d’arrêter et la suite sont discutés. Le protocole britannique documente des principes de coordination et non le droit français. En cas de risque sérieux pour les occupants ou les voisins, une évaluation et une intervention proportionnée relèvent des services compétents, jamais d’un débarras improvisé par un proche.",
+      "Selon l’U.S. Fire Administration, l’encombrement des passages et des portes peut gêner l’évacuation et l’accès des secours. Distinguer le trajet vers la sortie, l’usage d’une table et la prise en charge du trouble. L’équipe réévalue les accès avec Nathalie et choisit avec elle l’aide matérielle adaptée. Un passage rétréci appelle un avis sans attendre le prochain tri. Dans l’épisode 6, la fumée se trouve dans l’escalier, à l’extérieur du logement. Nathalie appelle aussitôt le 18 et suit les consignes des pompiers, sans s’engager dans l’escalier enfumé. En France, le 18 ou le 112 est le relais pour un incendie ou un danger immédiat de cette nature. La cause n’est ni présumée ni attribuée à Nathalie. La sécurité immédiate et la reprise du suivi sont deux décisions distinctes.",
+      "Nathalie mesure l’évolution à l’usage durable de l’entrée et de la table, à la possibilité de demander un appui sans lui déléguer ses choix et à la charge de certaines décisions. Elle peut garder des objets, réussir un accueil et avoir encore besoin de soins. Le suivi garde ses propres objectifs et son propre calendrier. Les proches peuvent s’accorder sur des tâches et conserver leur propre disponibilité."
+    ]
+  },
+  "direction": "Nathalie a 59 ans et a tenu une librairie. Elle écoute les sons d’une rue comme elle écoutait les demandes de lecture et parle volontiers des détails que les autres sautent. Elle souhaite ouvrir un coin où sa nièce adulte Agnès peut travailler sur des légendes pour une carte sonore du quartier, et elle prépare pour la médiathèque une lecture sur une ancienne imprimerie. Les objets ont des histoires, notamment un taquet de vitrine associé à Lucette, mais chaque objet gardé ne mérite ni procès ni récit obligatoire. Un trouble d’accumulation compulsive est diagnostiqué avant le premier épisode. Nora, ergothérapeute d’une équipe spécialisée, travaille sur l’usage et les accès. Maud, psychologue formée au trouble, accompagne les décisions. Les accords avec Agnès se précisent. Elles se retrouvent ailleurs quand la table ne peut servir. Nathalie choisit ce qu’elle souhaite partager et décide si elle autorise une photo ou une collecte. Quand la table est utilisable, Agnès y travaille une heure et le suivi du logement reste à l’équipe. Un incident de fumée dans l’immeuble est relayé aux pompiers sans imputer sa cause au trouble. À la fin la table sert au projet, un objet choisi a été transmis, d’autres gardés, et Nathalie garde un suivi et un projet de lecture à elle."
+}

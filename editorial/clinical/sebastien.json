@@ -1,0 +1,565 @@
+{
+  "character_id": "sebastien",
+  "bio": "Sébastien a 24 ans et crée des décors de théâtre dans un collectif de quartier. Il sait dessiner des visages qui semblent sur le point de parler. Il vit avec une dysmorphophobie. Des préoccupations sur son apparence et des vérifications peuvent prendre des heures, gêner son travail et l’éloigner des autres. Il veut finir le décor de La Poste de nuit et choisir la place qu’il souhaite prendre dans les images du projet. Sa collègue Inès et une équipe spécialisée lui apportent des appuis différents. Il garde aussi des histoires de quartier à dessiner pour lui.",
+  "profile_topics": [
+    "Dysmorphophobie",
+    "Préoccupation envahissante sur l’apparence",
+    "Vérifications et réassurance",
+    "Évitement et retentissement quotidien",
+    "Choix de soin et de participation"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "sebastien-temps-perdu-a-verifier-son-apparence",
+      "title": "Temps perdu à vérifier son apparence",
+      "description": "Sébastien doit remettre un dessin à Inès pour qu’elle termine les volets. Une vérification commencée plus tôt a pris une partie de son après-midi.",
+      "context": "Un mardi, dans l’atelier du collectif, avant le passage d’Inès",
+      "topics": [
+        "Préoccupation envahissante",
+        "Temps pris par les vérifications",
+        "Retentissement au travail"
+      ],
+      "clinical_focus": "Préoccupation et retentissement au travail",
+      "clinical_intro": "Sébastien devait choisir un calque avant l’arrivée de sa collègue. Une préoccupation sur son apparence et les vérifications qui l’accompagnent ont pris une partie du temps prévu pour le décor. Dans la dysmorphophobie, un travail que l’on connaît bien peut ainsi rester faisable et demander beaucoup plus d’effort que les autres ne l’imaginent.",
+      "opening": "Pour que l’immeuble ait l’air habité, Sébastien dessine les gens juste avant qu’ils parlent. Dans la fenêtre du rez-de-chaussée, un vieil homme tient une enveloppe qu’il semble encore pouvoir rendre au facteur. Au-dessus, une femme a entendu quelque chose dans la rue. Sébastien a laissé trois millimètres entre le trait et le bord du calque pour qu’Inès puisse faire jouer les volets sans emporter un bout du dessin. Il reste à signer le bon calque. L’autre, marqué d’un coin plié, était son premier essai.\n\nQuelqu’un pousse la porte de l’atelier avec l’épaule. C’est Inès, qui revient avec deux cafés et demande lequel elle peut prendre. Sébastien regarde les gobelets. Elle parle des calques. Au-dessus de leur table, une pendule qui avance d’une minute donne dix-sept heures trente et une. Il a l’impression que l’heure de leur rendez-vous s’est déplacée sans lui. En début d’après-midi, il a rouvert une photo ordinaire qu’on lui avait envoyée. Il voulait vérifier quelque chose sur son apparence. Il y est retourné, puis il a attendu de pouvoir penser à autre chose. Par moments, il tenait son fusain devant la vitre de papier sans tracer.\n\nInès pose les deux gobelets à distance des feuilles. Elle peut travailler ici jusqu’à six heures, puis elle doit aller chercher un colis. Il reste assez de temps pour reporter un dessin, dit-elle, si elle sait lequel. Sébastien voudrait répondre qu’il a presque fini. Il sait qu’en disant ça, il pourrait la faire attendre encore. Il déplie le coin du mauvais calque et lui montre les deux versions.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le temps d’une préoccupation envahissante",
+          "text": "Dans la dysmorphophobie, une préoccupation liée à l’apparence peut revenir si souvent qu’elle prend du temps à d’autres activités. Elle porte sur des défauts perçus et peut rester présente entre deux vérifications. L’importance de ce qui est perçu pour la personne peut être très différente de ce que les autres remarquent. Un professionnel s’intéresse à la souffrance, à l’entrave au quotidien et à l’effort pour poursuivre les activités. Sébastien connaît déjà son diagnostic. Il a appris à distinguer le travail qu’il sait faire du temps qu’il a parfois beaucoup de mal à lui consacrer."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Deux calques à l’heure de la remise",
+          "text": "Inès trouve deux versions à trier au moment où elle pensait commencer le report. Elle ignore qu’il a plusieurs fois repris son téléphone, parfois sans se souvenir ensuite de l’heure. Lui aurait du mal à dire combien de temps chaque regard a duré. Il peut en revanche retrouver le moment où il avait arrêté de tracer, celui où la pendule lui a rappelé l’accord et l’effort pour reprendre un fil. Une pièce de décor finie ne montrerait pas à elle seule ce que cet après-midi lui a demandé."
+        },
+        {
+          "role": "strategies",
+          "heading": "Traiter l’urgence de l’atelier et parler du reste dans un cadre choisi",
+          "text": "Inès a besoin de savoir quel calque elle peut utiliser maintenant. Une réponse claire peut lui permettre de commencer à l’heure dont elle dispose. Si Sébastien choisit de reparler de la difficulté avec son équipe de soins, il peut décrire l’après-midi à partir de la tâche interrompue et du temps qu’elle a perdu pour lui. Un exemple donne de la matière à l’échange sans exiger de montrer la photo ou de reconstituer chaque vérification. Il peut aussi tenir à ce que cette conversation reste à part du rendez-vous de travail."
+        }
+      ],
+      "ending_title": "Le bon calque à côté des cafés",
+      "ending": "Sébastien écrit « à reporter » au crayon dans la marge du second dessin. Il soulève le gobelet d’Inès, glisse un dessous en carton et pose le calque à côté. Il pourra finir seul le repère du volet supérieur demain. Inès veut d’abord voir les panneaux sur le plateau. Elle y sera à midi et lui garde le plan de montage. Sébastien accepte. Pendant qu’elle pose le calque sur le bois, il écrit à l’équipe de soins pour confirmer le prochain rendez-vous. Son café a tiédi. Il le boit debout pendant que le premier trait du calque passe sur le bois.",
+      "mirror": [
+        "Inès peut repartir de ce qu’elle est venue faire. « J’ai jusqu’à six heures. Si tu me montres le dessin que tu veux garder, je peux reporter celui-là et te laisser le reste pour demain. » Si Sébastien lui parle de l’après-midi, elle peut prendre le temps de l’écouter qu’elle a réellement. Le choix du calque relève de leur travail commun. Elle n’a pas à demander quelle photo a été rouverte ou à expliquer ce retard au reste du collectif."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim-6b21",
+        "nice-cg31-dysmorphophobie"
+      ],
+      "continuity": {
+        "choice": "Sébastien remet le bon calque, confirme le rendez-vous de soins et convient de retrouver Inès sur le plateau à midi le lendemain.",
+        "next": "Inès apporte le premier volet reporté. La visite du plateau met en jeu la possibilité d’être vu et les règles encore floues autour des images."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "sebastien-eviter-un-lieu-ou-lon-redoute-detre-vu",
+      "title": "Éviter un lieu où l’on redoute d’être vu",
+      "description": "Sébastien reste dans le couloir quand le collectif teste le volet. Il cherche comment reprendre une décision de métier.",
+      "context": "Le mercredi à midi, entre le couloir et le plateau",
+      "topics": [
+        "Évitement",
+        "Crainte du regard",
+        "Participation au travail"
+      ],
+      "clinical_focus": "Évitement et choix de participation",
+      "clinical_intro": "Sébastien a envie de vérifier le décor sur scène. Dans le couloir, la crainte d’être vu lui fait laisser passer le moment où son avis aurait compté. L’évitement peut procurer un répit et priver d’une activité qui importe. Une décision sur les images du jour laisse la question de l’album ouverte.",
+      "opening": "Le premier volet ressemble à une planche de placard tant qu’Inès le tient debout dans le couloir. Sur le plateau, il est censé faire apparaître un habitant de l’immeuble. Sébastien est venu pour voir si le visage se lit du fond de la salle. Il a apporté de la craie pour marquer l’emplacement d’où il veut regarder. Inès cale le volet contre le mur pour lui tendre le plan de montage qu’elle lui avait gardé. De l’autre côté du rideau, Malik fait venir deux comédiens pour qu’ils donnent leur avis avant de repartir déjeuner.\n\nSébastien entend une voix qu’il ne connaît pas demander à quelle heure on peut prendre des images. Il reste dans le couloir le temps de comprendre si la personne parle d’aujourd’hui. En attendant, il passe la craie d’une main à l’autre et suit avec le pouce le relief du papier autour du bâton. Malik l’appelle. Il dit « une seconde » un peu trop bas, puis trouve qu’il est déjà resté longtemps et que les autres vont se demander pourquoi il arrive maintenant. Il croit qu’en entrant il va devoir supporter qu’on le regarde. Personne dans la salle ne lui a adressé de remarque.\n\nQuand Inès revient, les comédiens ont donné leur avis sur l’emplacement du volet. Elle montre l’endroit qu’ils ont retenu. Sébastien est soulagé qu’elle soit revenue dans le couloir et s’en veut aussitôt de n’avoir pas vu ce qu’elle lui décrit. Il a toujours la craie dans la main. Il demande d’abord qui était là avec un appareil, puis ajoute qu’il aimerait regarder le volet lui-même.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le soulagement et la place qu’on perd",
+          "text": "Un évitement peut calmer la détresse sur le moment et rendre plus difficile l’accès à une activité qu’on avait envie de faire. Dans la dysmorphophobie, il peut être lié à une inquiétude persistante sur l’apparence et au sentiment d’être observé. Sébastien avait une raison de venir et une raison qu’il éprouvait comme très forte de ne pas franchir le rideau. Refuser une image, à lui seul, ne dit rien du trouble. Ici, ce qui l’arrête va jusqu’à manquer une décision de décor, alors même qu’il ignore encore si quelqu’un comptait le photographier."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le plan annoté pendant qu’il attendait",
+          "text": "Inès voit que Sébastien est resté dans le couloir et que le plan porte maintenant un trait qu’il n’a pas choisi. Elle peut lui dire ce qui s’est passé. C’était Nora, qui organise les images. Elle voulait savoir quand le panneau serait assez sec pour être photographié. Cette information répond à une question réelle. Sébastien, lui, entend aussi dans son attente la crainte que les autres se retournent quand il entrera. Il a connu cette sensation dans des salles où il n’y avait aucun appareil."
+        },
+        {
+          "role": "strategies",
+          "heading": "Retrouver une décision de métier",
+          "text": "Sébastien peut demander le plan de travail de Nora et préciser sa préférence pour aujourd’hui. Il peut aussi proposer un moment où Inès et lui pourront reprendre la décision de décor, si son avis leur est encore utile. Vérifier le volet pendant que la salle est libre lui permet de reprendre sa tâche. D’autres arrivées pourront rester difficiles. Le temps passé dans le couloir et le soulagement qu’il y a éprouvé pourront être discutés en consultation, sans transformer la prochaine entrée sur scène en exercice imposé par l’équipe du théâtre."
+        }
+      ],
+      "ending_title": "La croix au fond de la salle",
+      "ending": "Inès a dix minutes avant de retrouver les comédiens. Elle tient le volet pendant que Sébastien va au fond de la salle. De là, il lui demande de le déplacer d’une largeur de main. Le visage apparaît entier. Il reporte leur décision sur le plan et trace une croix au sol, là où il se tient. Il convient avec Malik que les images du jour montreront le décor seul. Malik lui dit que la question de l’album reviendra mercredi prochain. En revenant, Sébastien range sa craie avec le plan. Il demande à Inès si elle déjeunera à l’atelier demain. Il a quelque chose à lui dire au sujet des vérifications qui lui ont pris du temps la veille.",
+      "mirror": [
+        "Quand Inès rapporte la décision prise en son absence, elle peut lui proposer ce qu’elle a le temps de faire. « Les comédiens sont partis. Je peux tenir le volet dix minutes si tu veux le regarder depuis le fond. » Elle peut donner l’information qu’elle a sur le décor et renvoyer à Nora pour les images. Elle n’a pas à garantir que personne ne le regardera, ni à lui demander de franchir le rideau pour prouver qu’il peut le faire."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-cg31-dysmorphophobie",
+        "oms-cim-6b21"
+      ],
+      "continuity": {
+        "choice": "Sébastien reprend l’emplacement du volet avec Inès, choisit des images du décor seul pour ce midi et fixe un déjeuner avec elle.",
+        "next": "Le rendez-vous autour du repas lui donne une occasion de parler des questions qu’il est tenté de reposer à propos de son apparence."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "sebastien-chercher-une-reponse-qui-rassure-quelques-instants",
+      "title": "Chercher une réponse qui rassure quelques instants",
+      "description": "Au déjeuner, Sébastien repose une question à Inès. Il lui dit ce qu’il voulait lui confier et cherche une forme d’appui possible.",
+      "context": "Le jeudi, autour d’un repas à la table de coupe",
+      "topics": [
+        "Réassurance",
+        "Doute persistant",
+        "Soutien du collègue"
+      ],
+      "clinical_focus": "Réassurance répétée et soutien sensible",
+      "clinical_intro": "Sébastien demande plusieurs fois à Inès de trancher un doute sur son apparence. L’avis qu’elle donne l’apaise, puis la question revient. On peut reconnaître sa détresse, répondre à une question concrète sur une image et chercher une autre forme d’appui lorsque les avis répétés finissent par occuper l’échange.",
+      "opening": "Inès a apporté un couteau pour partager son sandwich. Sébastien lui prête le seul objet propre qui peut faire office d’assiette, une chute de carton gris. Elle trace d’abord une ligne avec la pointe, comme si elle préparait une découpe pour le décor. Ils rient. Sébastien avait proposé de manger à l’atelier pour pouvoir lui parler. Maintenant qu’elle est assise, il fait défiler les nouvelles du collectif sur son téléphone. Nora a envoyé une image du premier volet, prise après leur départ. Elle montre le bois et le calque fixé sur le côté. Ça, il peut le regarder longtemps pour le plaisir.\n\nIl avait autre chose en tête. Dans la photo reçue avant le rendez-vous des calques, il lui semble avoir remarqué quelque chose à propos de son apparence. Sans ressortir l’image, il demande à Inès si, les jours où elle le voit, quelque chose lui saute aux yeux. Elle lui répond doucement pour le rassurer. Il est soulagé le temps de prendre sa première bouchée. Puis il se demande ce qu’elle aurait dit si elle n’avait pas eu peur de lui faire de la peine. Il reprend la question avec un autre mot. Inès tient encore le couteau. Son sandwich est coupé d’un côté seulement.\n\n« Attends, dit-il. Ce n’est pas pour te demander ça que je voulais qu’on mange ici. » Il met un peu de temps à trouver le reste. Son équipe de soins lui a déjà parlé des avis qui le soulagent puis lui manquent à nouveau. Inès tourne le carton pour pouvoir finir de couper. Elle lui dit qu’elle peut écouter ce qu’il essaie de lui dire. Elle aimerait ensuite manger pendant que le café est chaud.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un apaisement qui peut laisser le doute revenir",
+          "text": "Dans la dysmorphophobie, la recherche d’avis sur l’apparence peut se répéter quand la réponse ne suffit plus à calmer l’inquiétude. Le soulagement lui permet de reprendre son repas un bref moment. L’insistance vient ensuite avec une nouvelle raison de douter. Cette répétition compte pour le suivi et peut peser sur la relation. Une question sur ce qu’une photo montre ou sur les personnes qui peuvent y accéder relève d’un autre échange. La personne responsable de l’image peut donner cette information."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le sandwich coupé à moitié",
+          "text": "Au début du repas, Inès entend une demande à laquelle elle croit pouvoir répondre gentiment. Quand la question revient, elle a commencé à choisir ses mots de plus en plus soigneusement. Sébastien remarque qu’il l’écoute pour en tirer une certitude qui tienne. Il aimerait aussi parler des heures où ce souci le fatigue, et du déjeuner qu’il a pris l’habitude de décaler quand il pense qu’il doit d’abord obtenir un avis. Pour l’instant, Inès voit le repas qui s’arrête. Sébastien est le seul à pouvoir lui dire ce que ce silence contient pour lui."
+        },
+        {
+          "role": "strategies",
+          "heading": "Chercher une forme d’appui qui puisse durer",
+          "text": "Sébastien et Inès peuvent se dire ce qui leur permet de rester en relation sans reprendre un avis sur l’apparence. Ils peuvent garder un moment pour écouter la difficulté ou reprendre ensemble ce qu’ils avaient prévu de faire. Si les demandes reviennent et que leurs réponses les épuisent, Sébastien peut en parler avec les professionnels qui le suivent. Leur rôle comprend l’aide à trouver une manière sensible d’impliquer un proche, quand la personne le souhaite et que ce proche l’accepte. Inès peut rester collègue et ne prendre aucun engagement de soin."
+        }
+      ],
+      "ending_title": "De la place pour deux cafés",
+      "ending": "Sébastien lui dit le nom de son trouble et lui demande de garder cette information pour elle. Ce qu’il aimerait entendre si la même question revient, ils en parlent un instant. Inès propose qu’elle puisse lui dire qu’elle voit combien ça l’occupe, puis lui demander s’il veut continuer à parler de la difficulté ou finir de manger. Elle précise qu’elle ne saura pas toujours quoi dire. Il répond qu’il ne le sait pas non plus. Inès remet le couteau dans son sac. Sébastien rapproche les deux gobelets et envoie à sa sœur Camille la confirmation d’un déjeuner samedi, chez elle.",
+      "mirror": [
+        "Inès peut revenir au repas interrompu avec des mots qui reconnaissent l’effort de Sébastien. « Je vois que ça te prend beaucoup de place. Je peux écouter ce que ça te fait. J’aimerais aussi qu’on puisse déjeuner ensemble. » Elle peut dire si elle a besoin de reprendre l’échange plus tard, sans reprocher à Sébastien son inquiétude. Leur accord peut changer. Si la situation devient difficile pour elle, elle peut limiter sa disponibilité et laisser la question du soin à l’équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-cg31-dysmorphophobie"
+      ],
+      "continuity": {
+        "choice": "Sébastien confie le diagnostic à Inès en privé. Ils conviennent d’une réponse possible à la détresse sans nouvel avis sur son apparence. Il confirme le repas chez Camille.",
+        "next": "Camille a vu qu’il se faisait rare aux repas. Sébastien doit choisir ce qu’il souhaite lui dire et s’il veut lui demander un appui pour son rendez-vous."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "sebastien-honte-et-difficulte-cachee",
+      "title": "La honte quand on veut parler d’une difficulté cachée",
+      "description": "Chez Camille, Sébastien revient sur plusieurs repas qu’il a manqués. Il choisit ce qu’il souhaite dire et lui demande un appui précis pour mardi.",
+      "context": "Un samedi, dans la cuisine de Camille",
+      "topics": [
+        "Honte",
+        "Souffrance peu visible",
+        "Confidence choisie"
+      ],
+      "clinical_focus": "Honte, dissimulation et confiance",
+      "clinical_intro": "La honte peut retenir des mots qui aideraient un proche ou un professionnel à comprendre ce qui se passe. Chez sa sœur, Sébastien essaie de revenir sur les repas qu’il a manqués sans raconter tout ce qui l’occupe. Il distingue une confidence, une demande d’aide pour se rendre à son rendez-vous et ce qu’il souhaite garder pour lui.",
+      "opening": "Chez Camille, il y a une chaise qu’il faut tirer par le côté pour ouvrir la porte du four. Sébastien l’oublie chaque fois. Ce samedi, sa sœur tape sur le dossier avec sa cuillère en bois. Il se lève, prend la chaise et la tourne vers le mur pendant qu’elle sort le plat. Sur le frigo, elle a gardé un dessin qu’il a fait en attendant le train. Deux voyageurs de profil ont chacun l’air de se demander si c’est leur train qui part. Elle lui demande si les gens de son décor auront aussi l’air d’être en retard. Il dit qu’eux, au moins, sont déjà chez eux.\n\nCamille porte le plat jusqu’à la table. Avant de le servir, elle demande si elle peut dire à leur tante qu’il déjeunera avec eux dimanche en quinze. Les deux dernières fois, il avait confirmé, puis écrit au dernier moment qu’il devait travailler. Une fois, c’était vrai. L’autre fois, il n’avait pas réussi à quitter son appartement. Il avait tourné autour de son inquiétude sur son apparence si longtemps que la tante avait déjà servi le dessert quand il s’était décidé à écrire.\n\nCamille lui dit qu’il peut répondre plus tard, mais qu’elle ne veut plus dire oui à sa place. Sébastien acquiesce. Il s’imagine lui parler comme à Inès et sent le visage lui chauffer avant d’avoir ouvert la bouche. Sa sœur pose le plat. Il lui demande de garder sa question sur dimanche pour après le repas, puis il commence par lui dire que mardi, il a rendez-vous au centre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand la honte réduit ce qu’on ose raconter",
+          "text": "La honte peut rendre difficile de parler d’une dysmorphophobie, y compris à des personnes auprès desquelles on se sent généralement en confiance. Le temps pris par les préoccupations peut rester caché alors que l’entourage voit des changements de programme. Sébastien sait expliquer ce qu’il fait à l’atelier et trouve ses mots moins facilement pour ce qui l’a retenu chez lui. Il craint le jugement de sa sœur et se demande aussi quelle place cela prendrait dans leurs futurs échanges. Avoir reçu un diagnostic ne rend pas chacune de ces conversations facile."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le retard que Camille avait mis sur le compte du théâtre",
+          "text": "Camille sait quels messages elle a reçus. Elle en avait déduit que l’atelier imposait souvent des heures supplémentaires. Elle se rappelle surtout le dimanche où il n’est pas venu. Elle a passé l’heure du déjeuner à regarder si son téléphone s’allumait. Sébastien ignorait qu’elle l’avait attendu si longtemps. Lui se rappelle avoir écrit trois versions du même message pour cacher sa gêne. Aucun des deux n’a le récit entier. Ils commencent par s’entendre sur les réponses qu’ils pourront donner à leur tante, même si Sébastien hésite encore sur le reste."
+        },
+        {
+          "role": "strategies",
+          "heading": "Partager assez pour une demande précise",
+          "text": "Dire qu’une difficulté de santé a joué un rôle peut suffire pour commencer une conversation. Sébastien peut demander que cette information reste entre eux et préciser ce qui l’aiderait mardi, sans raconter ce qui a été dit dans ses consultations. Camille a la possibilité de refuser un accompagnement ou de proposer une disponibilité différente. Si Sébastien peine à dire au centre l’étendue du retentissement, il peut commencer par décrire le repas manqué et ce qui l’a empêché de partir. Les professionnels peuvent explorer cette difficulté avec lui et lui demander quelle place, s’il en souhaite une, donner à sa sœur."
+        }
+      ],
+      "ending_title": "Jusqu’à la porte du centre",
+      "ending": "Sébastien dit qu’il se fait suivre pour une dysmorphophobie. Il raconte le dimanche où il n’a pas réussi à venir et demande si Camille peut faire avec lui le dernier bout du trajet, depuis le tram. Elle peut marcher jusque-là, puis elle a une course. Il lui dit que c’est exactement ce qu’il demande. Pour leur tante, il préfère répondre lui-même d’ici mercredi. Camille remet le plat au four pour tenir une deuxième part au chaud. Il tire la chaise par le côté sans attendre qu’elle le lui rappelle.",
+      "mirror": [
+        "À table, Camille peut accueillir ce qu’il choisit de dire et répondre à sa demande telle qu’elle arrive. « Je peux te retrouver au tram et marcher avec toi jusqu’au centre. Tu préfères que je te laisse à l’entrée ? » Elle peut aussi convenir avec lui de ce qu’elle dira à leur tante si celle-ci demande une réponse. Accompagner le trajet ne donne pas accès à la consultation. Camille peut repartir à l’heure qu’elle avait annoncée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-cg31-dysmorphophobie",
+        "nice-cg136-soins-adultes"
+      ],
+      "continuity": {
+        "choice": "Sébastien nomme le trouble à Camille, lui demande un appui limité au trajet et prend en charge sa réponse à leur tante.",
+        "next": "Camille l’accompagne depuis le tram mardi. Sébastien garde la consultation pour lui et apporte un exemple de retentissement au travail et dans sa vie sociale."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "sebastien-choisir-un-soin-pour-une-preoccupation-envahissante",
+      "title": "Choisir un soin pour une préoccupation qui envahit le quotidien",
+      "description": "Sébastien veut comprendre ce que l’équipe lui propose. Il apporte des exemples de son quotidien et discute de ce qu’il aimerait pouvoir reprendre.",
+      "context": "Le mardi suivant, dans le bureau de la psychologue du centre",
+      "topics": [
+        "Soin consenti",
+        "Thérapie adaptée à la dysmorphophobie",
+        "Objectifs du suivi"
+      ],
+      "clinical_focus": "Choix de soin et objectifs partagés",
+      "clinical_intro": "Lors d’un rendez-vous spécialisé, Sébastien raconte une remise de calque presque manquée et un déjeuner auquel il n’est pas arrivé. Ces situations aident à préciser ce qu’il attend du soin. Il peut poser des questions sur l’approche proposée et participer à la décision, tandis que les choix de l’atelier et des images restent les siens.",
+      "opening": "Au pied du centre, Camille sait quel côté de la porte pousser avant lui. Elle est déjà venue y déposer un dossier pour son travail, il y a longtemps. Il lui dit qu’il avait oublié qu’elle connaissait l’endroit. Puis il lui tend la moitié d’une mandarine qu’il a pelée dans le tram. Camille la prend dans un coin de mouchoir et lui souhaite un bon rendez-vous. Ils se séparent devant les horaires, comme convenu. Le bureau est à l’étage. Avant de monter, Sébastien jette l’écorce dans une corbeille dont le couvercle se referme très lentement.\n\nAnaïs Vidal, la psychologue de l’équipe qui le suit, lui demande ce qu’il a envie de reprendre depuis le dernier point. Sébastien a écrit « calque » et « repas » au verso d’un billet de tram en attendant dans le couloir. Il pose le billet entre eux. Il peut dire quand Inès est entrée, ce qu’elle attendait de lui et ce qu’il n’avait pas fait depuis le début de l’après-midi. Pour le repas, il dit d’abord « j’ai fait faux bond ». Anaïs lui demande ce qui s’est passé avant le message.\n\nPlus tard, elle revient sur la thérapie dont ils avaient parlé lors d’un précédent entretien. Elle lui explique qu’ils travailleraient sur ces difficultés précises. Sébastien hoche la tête et reste sur le bord de la chaise. Il s’est demandé depuis s’il allait devoir montrer ses photos et laisser quelqu’un décider ce qui devrait ou non le gêner. Le billet de tram a bougé sous sa main. Il le remet droit et pose la question.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Discuter le soin à partir du quotidien",
+          "text": "Une thérapie cognitivo-comportementale adaptée à la dysmorphophobie fait partie des possibilités de soin chez l’adulte. Le choix se discute avec des professionnels formés, en tenant compte du retentissement, des préférences et de la situation de la personne. L’équipe peut expliquer ce qu’elle propose, les autres options pertinentes et les conditions du suivi. Sébastien souhaite récupérer du temps et se sentir moins pris dans les vérifications. Savoir ce qu’il veut retrouver aide à parler d’un objectif qui a du sens pour lui. Aucune photo du collectif n’a à servir de verdict sur son état."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce que dit le billet et ce qu’il garde encore",
+          "text": "Anaïs voit deux mots sur un papier. Dans le récit qu’il en fait, elle entend un retard qui a gêné le travail d’Inès, puis une absence qui l’a séparé d’un repas familial. Il lui dit aussi qu’à certains moments la question semble si urgente qu’il est difficile d’entendre celle de quelqu’un d’autre. Il a pu choisir le calque à temps pour qu’Inès fasse le report. Le travail a avancé et le coût reste pertinent pour le suivi. Son hésitation à poser une question sur les photos fait partie de ce qu’il veut éclaircir avant de s’engager."
+        },
+        {
+          "role": "strategies",
+          "heading": "Demander comment une proposition se décide",
+          "text": "Un entretien peut servir à comprendre ce que l’équipe propose et comment ils en reparleront si une étape soulève une difficulté. Sébastien peut demander sur quoi ils travailleraient, quelles adaptations seraient possibles et à qui s’adresser s’il veut en reparler. Il peut décider de commencer, demander du temps ou revenir sur une question. Une aide de Camille pour se rendre au centre reste une chose distincte. Si Sébastien souhaite qu’elle participe un jour à un échange, il peut préciser pour quoi et quelles informations il accepte de partager."
+        }
+      ],
+      "ending_title": "Un rendez-vous qui lui appartient",
+      "ending": "Anaïs lui explique qu’ils peuvent commencer par comprendre ensemble ce qui occupe ses journées. Il peut lui raconter ce qu’il vit sans lui montrer la photo aujourd’hui. Si une autre étape est proposée, ils en parleront d’abord. Sébastien lui dit qu’il veut essayer cette thérapie et qu’il souhaite revenir sur son inquiétude autour des images lors de leur prochain rendez-vous, lundi. Il glisse le billet dans sa poche avec la date de la séance. Sur le parvis, il écrit à Camille pour lui dire merci. Au groupe de théâtre, il répond qu’il sera au rendez-vous de Nora mercredi pour le dossier d’impression. Il se note d’emporter l’épreuve avec les crédits du spectacle.",
+      "mirror": [
+        "Camille peut reprendre contact après le trajet en laissant Sébastien ouvrir la conversation s’il en a envie. « J’ai fait ma course. Tu veux qu’on se retrouve au tram ou tu préfères rentrer de ton côté ? » Elle n’a pas à lui demander quelle décision il a prise pour que le rendez-vous compte. S’il souhaite raconter quelque chose, elle peut écouter et l’encourager à poser à son équipe les questions qui lui restent. Elle garde sa propre disponibilité."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-cg31-dysmorphophobie",
+        "nice-cg136-soins-adultes",
+        "wilhelm-2019-tcc-dysmorphophobie"
+      ],
+      "continuity": {
+        "choice": "Sébastien accepte de commencer une TCC adaptée après discussion. Il garde un rendez-vous lundi et confirme celui avec Nora pour les épreuves.",
+        "next": "Les décisions de soin et d’image restent distinctes. Au rendez-vous de mercredi, il faut arrêter ce qui partira à l’impression et préciser le futur album."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "sebastien-peur-du-regard-et-photo-publique",
+      "title": "Distinguer la peur du regard et le choix d’une photo publique",
+      "description": "Une affiche doit partir à l’impression. Sébastien précise ce qu’il veut voir circuler et discute de la place de son travail sur le papier.",
+      "context": "Le mercredi, au local d’impression du quartier",
+      "topics": [
+        "Crainte du regard",
+        "Accord sur les images",
+        "Reconnaissance du travail"
+      ],
+      "clinical_focus": "Crainte du jugement et accord sur l’image",
+      "clinical_intro": "Sébastien éprouve de l’inquiétude en imaginant l’affiche aux vitrines du quartier. Il a aussi une préférence précise sur la diffusion de son image. La dysmorphophobie peut peser sur la façon dont il anticipe le regard des autres. Son accord sur l’usage d’une photographie reste une décision distincte, quelle que soit l’intensité de cette inquiétude.",
+      "opening": "L’imprimeuse a posé un galet sur l’épreuve pour que le papier reste à plat. Sous le galet, Sébastien retrouve La Poste de nuit, le nom de la pièce. Plus bas, à côté de la date, un rectangle porte la mention « photo du collectif, à fournir ». Il déplace la pierre et voit la ligne des crédits au bas de l’affiche. Les noms sont petits. Le sien figure à côté de celui d’Inès, après le mot décor. Il avait emporté l’épreuve de la veille pour s’assurer que cette ligne serait là. En venant, il a répondu à sa tante qu’il passerait pour le café le dimanche dont Camille lui a parlé. Elle pourra déjeuner à l’heure qu’elle veut.\n\nMalik cherche un visuel qu’on puisse reconnaître depuis la rue. Nora demande si l’idée du rectangle leur convient avant qu’elle prépare quoi que ce soit. Sébastien sait que l’affiche sera collée chez le libraire, à l’entrée du gymnase et sur le panneau près du tram. Il imagine des inconnus devant le panneau et pense aussitôt à ce qu’ils pourraient remarquer de lui. En même temps, il a envie qu’on sache ce qu’il a fait sur cette pièce. Il tient son pouce sur la ligne des crédits et écoute Nora énumérer les fichiers qui doivent partir avant dix-sept heures.\n\nIl lui demande qui verrait une image mise dans l’album dont ils parlaient la semaine dernière. Malik avait prévu que les membres du collectif pourraient le consulter après la représentation. Nora ajoute qu’un choix pour l’album ne vaut pas pour l’affiche. Elle montre le rectangle vide et demande ce qu’ils ont sous la main si la photographie d’équipe n’y entre pas. Sébastien ouvre le rouleau où il avait mis un essai de la fenêtre du rez-de-chaussée.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le consentement a sa question propre",
+          "text": "Une dysmorphophobie peut accroître la crainte d’être remarqué ou jugé à cause de son apparence. On peut éprouver cette crainte et avoir aussi des raisons ordinaires de choisir où son image circule. Pour comprendre un évitement, le professionnel regarde ce qui rend les situations difficiles et l’entrave qu’elles créent. À l’imprimerie, Sébastien peut dire directement s’il souhaite figurer sur une affiche publique. L’accord sur cet usage se discute avec lui. Sa réponse ne sert pas à juger la gravité du trouble ou la qualité de son engagement."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce qu’il veut rendre visible",
+          "text": "Nora voit qu’il lui demande des précisions sur deux destinations de l’image. Malik voit aussi qu’il revient à la ligne des crédits. Sébastien a envie qu’une personne venue voir la pièce puisse reconnaître sa contribution. Il souhaite que ses voisins trouvent la date en passant. Il n’a pas envie de figurer sur leur panneau d’affichage, même s’il imagine qu’un souvenir d’équipe pourrait lui plaire. Dans sa tête, l’idée du panneau déclenche une peur qu’il connaît. Sur la table, ils ont un dessin qu’ils peuvent retenir pour l’affiche. Il pourra décider plus tard s’il veut figurer dans l’album."
+        },
+        {
+          "role": "strategies",
+          "heading": "Nommer la destination d’une image avant de la choisir",
+          "text": "Le groupe peut préciser qui verra l’affiche, qui aura accès à son album et quand chacun pourra répondre. Sébastien peut donner deux réponses différentes ou garder la seconde pour plus tard. Il peut aussi défendre une proposition artistique, comme ses collègues, et demander qu’on lise mieux les crédits. Si la crainte du regard se prolonge dans d’autres lieux ou l’empêche de faire des choses qui lui importent, elle a sa place dans les échanges avec l’équipe de soins. Le départ des fichiers à l’imprimerie peut suivre son propre calendrier."
+        }
+      ],
+      "ending_title": "La fenêtre prend la place du rectangle",
+      "ending": "Nora photographie le dessin posé à plat, pendant que Malik appelle l’imprimeuse pour vérifier le délai. Sébastien propose d’agrandir la ligne des crédits. Malik recule de deux pas, lit leurs noms à voix haute, puis valide l’épreuve avec eux. L’affiche part avec le dessin et les noms. Sébastien dit à Nora qu’il reparlera de l’album après le montage. Il finit de rouler l’essai et ramasse le galet qu’il a fait glisser en dégageant le papier. En sortant, il confirme à Inès qu’il sera au filage des ouvertures jeudi et remet la craie dans la poche de sa veste.",
+      "mirror": [
+        "Nora peut répondre aux questions de Sébastien comme elle le ferait pour toute personne dont elle veut prendre l’image. « L’affiche sera dans les commerces et l’album restera accessible au collectif. On peut décider de l’affiche aujourd’hui et reparler de l’album après le montage. » Elle peut demander une décision de production avant l’heure limite et garder l’option du dessin. Elle n’a pas à interpréter le choix de Sébastien ou à lui promettre l’avis qu’auront les gens."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim-6b21",
+        "nice-cg136-soins-adultes"
+      ],
+      "continuity": {
+        "choice": "Le groupe envoie à l’impression une affiche illustrée par le dessin, avec des crédits plus lisibles. Sébastien garde sa décision sur l’album pour après le montage.",
+        "next": "Il confirme le filage du jeudi. Le décor s’éprouve devant les autres, même si les prises de vues ne sont pas prévues ce jour-là."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "sebastien-croire-que-les-autres-parlent-de-son-apparence",
+      "title": "Croire que les autres parlent de son apparence",
+      "description": "Deux voix se rejoignent derrière le décor. Sébastien croit savoir de quoi on parle et manque le signal qu’il attend pour ouvrir le volet.",
+      "context": "Le jeudi, pendant le filage des ouvertures",
+      "topics": [
+        "Regard d’autrui",
+        "Attention accaparée",
+        "Conviction qui varie"
+      ],
+      "clinical_focus": "Crainte du jugement et degré de conviction",
+      "clinical_intro": "Pendant une répétition, Sébastien entend quelques mots et a l’impression qu’ils le concernent. Cette impression prend assez de place pour lui faire manquer un signal de scène. Dans la dysmorphophobie, la certitude d’être remarqué ou jugé peut varier selon les moments. L’échange de travail porte, lui, sur ce qu’il faut reprendre au filage.",
+      "opening": "Le premier coup doit partir de la coulisse, puis quelqu’un ouvre le volet du haut. Sébastien l’essaie lui-même au filage pour voir si le visage peint paraît répondre à la réplique qui précède. Inès a mis une feuille de papier sur le bois, là où ils devront gommer un ancien repère. Depuis son poste, Sébastien ne voit pas la salle. Il distingue le bruit sec de la feuille quand un comédien passe près du panneau. Ils répètent cette transition depuis assez longtemps pour qu’il puisse en dire les trois premières phrases avec les acteurs.\n\nDerrière lui, deux personnes parlent bas. Il attrape « on a vu » et le début d’un rire, puis le silence. Il a la conviction que quelqu’un vient de faire une remarque sur son apparence. Il voudrait comprendre qui, et le filage continue pendant qu’il reprend les mots entendus. Quand Inès lui tape sur l’épaule pour lui signaler qu’ils ont fini, Sébastien a encore la poignée dans la main. Au lieu d’ouvrir, il est resté à écouter ce qui pouvait venir ensuite.\n\nMalik remonte depuis la salle. Il demande si le signal était assez fort. Sébastien est sur le point de lui poser une question sur le rire. Il lui reste aussi un souvenir très net de la première réplique et aucun du coup qui devait suivre. « Je l’ai raté », dit-il. Inès se penche pour ramasser la feuille tombée du panneau. Elle demande qu’ils reprennent à partir de la lettre, pour voir si le personnage a le temps de répondre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand quelques mots prennent un sens très sûr",
+          "text": "Dans la dysmorphophobie, la personne peut être très convaincue que des regards ou des conversations portent sur son apparence. La force de cette impression peut varier avec les situations et la détresse. Ce que Sébastien a entendu tient en quelques mots et un rire. Ce qu’il en a compris a pris assez de place pour interrompre une tâche dont il connaissait le déroulement. Plus tard, il pourra décrire à son équipe le moment où il a perdu le fil et dire à quel point son interprétation lui paraissait certaine. Le rôle de ses collègues reste la répétition."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le signal manqué au milieu du filage",
+          "text": "Depuis la salle, Malik a vu que le volet est resté fermé. Inès, qui attendait son ouverture, a constaté la même chose. Ils n’ont pas accès au sens que Sébastien a donné au rire. Lui se rappelle l’urgence de comprendre ce que les autres venaient de dire. Il ne sait pas si l’un d’eux parlait de lui. Il entend ensuite Inès proposer une reprise et ajoute qu’il veut regarder le volet depuis la salle au second passage. Là, il a un avis de décorateur à former sur la durée d’un silence."
+        },
+        {
+          "role": "strategies",
+          "heading": "Reprendre le travail et garder un exemple pour le suivi",
+          "text": "L’équipe peut remettre en route la transition à partir d’un signal connu et distribuer les places utiles à la répétition. Sébastien peut dire qu’il a perdu le fil sans raconter ce qu’il a cru entendre. Il peut aussi revenir sur cette expérience avec la psychologue lors du rendez-vous prévu. Les mots entendus, le temps qu’ils ont pris dans sa tête et ce que cela a interrompu suffisent pour ouvrir l’échange. Il n’a pas à demander à tout le groupe de confirmer une interprétation pour que l’effet sur son attention soit pris au sérieux."
+        }
+      ],
+      "ending_title": "Deux secondes après la lettre",
+      "ending": "Inès prend la poignée. Au fond de la salle, Sébastien lève la main deux secondes après la réplique et lui demande de garder ce délai. Dans le silence, le visage peint semble choisir s’il va répondre. Malik note le changement sur sa feuille de conduite. En rangeant, Sébastien pense encore au rire, mais il n’est plus aussi sûr d’en comprendre la raison. Il remet le morceau de papier sur l’ancien repère et dit à Inès qu’il viendra samedi pour le montage.",
+      "mirror": [
+        "Malik peut répondre au problème qu’il voit pendant le filage. « Le volet est resté fermé. On reprend à la lettre. Tu veux tenir le volet ou regarder le passage depuis la salle ? » Il peut répartir les places avec Inès et écouter une remarque de métier. S’il apprend ce qui a accaparé l’attention de Sébastien, il peut reconnaître l’effet sur la répétition sans convoquer les collègues pour vérifier de qui ils parlaient."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim-6b21",
+        "nice-cg31-dysmorphophobie"
+      ],
+      "continuity": {
+        "choice": "Sébastien dit qu’il a manqué le signal, reprend le filage depuis la salle et règle le délai du volet avec Inès. Il confirme sa présence au montage.",
+        "next": "Le signal est prêt pour samedi. Au montage, le partage d’une image hors de l’accord demandera une réponse distincte de la recherche de certitude sur son apparence."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "sebastien-image-partagee-hors-accord",
+      "title": "Réagir à une image partagée hors de l’accord",
+      "description": "Une photo de montage montre aussi Sébastien. Il demande qu’elle soit retirée du groupe et garde le choix de ce qu’il veut reprendre au plateau.",
+      "context": "Le samedi du montage, devant le décor mis en place",
+      "topics": [
+        "Accord sur les images",
+        "Vérification",
+        "Réparation concrète"
+      ],
+      "clinical_focus": "Limite d’image et vérification répétée",
+      "clinical_intro": "Une photo destinée à montrer le décor inclut Sébastien sans qu’il ait donné son accord. Il peut demander une action sur le partage. Après cette demande, l’envie de retourner voir l’image a encore un autre sens pour lui. L’atelier peut prendre en charge le problème concret et laisser à l’équipe de soins le travail sur la détresse persistante.",
+      "opening": "Le panneau du fond fait enfin un angle droit avec la porte peinte. En reculant, Sébastien découvre que les fenêtres du haut ont la même couleur que le mur de la salle. Il appelle Inès pour lui montrer le raccord. À deux, ils retrouvent le pot de bleu dans une caisse marquée « quincaillerie », ce qui les fait rire. Nora demande si elle peut prendre une image des fenêtres pour les membres qui ont prêté les panneaux. Elle le fera depuis le fond et, comme convenu pour le montage, sans les gens. Sébastien répond qu’il termine d’écrire le numéro du pot et qu’il quitte le champ.\n\nDans l’escalier qui mène au lavabo, son téléphone vibre. Nora a mis l’image dans le groupe du collectif. Il reconnaît le volet et constate qu’il apparaît aussi sur le côté. Il était revenu récupérer la caisse quand elle a déclenché. Il reste debout sur une marche sans savoir s’il préfère lui écrire ou faire demi-tour. Il aurait envie de revenir sur l’image pour regarder ce qu’on peut voir de lui. Il voit déjà un message de Malik qui dit que le décor commence à avoir l’air d’une rue.\n\nNora arrive avec son manteau roulé autour du bras. Sébastien lui montre le message qu’il vient d’écrire et qu’il n’a pas envoyé : « Tu peux retirer la photo ? On avait dit le décor seul. » Elle s’arrête sur la marche du dessous. Elle rouvre son envoi sur son propre téléphone et lui dit qu’elle s’en occupe. Sébastien se décale pour laisser passer quelqu’un qui descend avec deux tasses.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une action sur le partage et une envie de vérifier",
+          "text": "Une préoccupation envahissante peut susciter l’envie de revenir plusieurs fois à une image pour examiner son apparence. Cette envie peut coexister avec un désaccord réel sur la prise ou l’usage d’une photo. Ici, l’accord était de montrer les fenêtres seules et Sébastien figure dans l’image envoyée. Sa demande de retrait appelle une réponse de la part de Nora. L’envie de revoir comment il y apparaît peut persister quand la réponse pratique a déjà été donnée. Le caractère réel du premier problème ne dépend ni du diagnostic ni de l’intensité du second."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce que chacun peut savoir sur la photo",
+          "text": "Nora peut constater que l’image inclut Sébastien et qu’elle l’a mise dans le groupe. L’image est encore visible dans la conversation. Elle ignore qui l’a ouverte. Sébastien sait ce qu’il voit dans la notification et ce qu’il avait accepté. Il raconte ensuite à Inès que même une fois la question du retrait réglée, il s’attend à penser encore à l’image au moment de rentrer. Inès n’était pas dans l’escalier et ne sait pas ce que la photo lui a fait. Elle voit qu’il garde la caisse vide près de lui alors qu’elle a prévu de la remonter."
+        },
+        {
+          "role": "strategies",
+          "heading": "Réparer le partage sans demander un verdict",
+          "text": "Nora peut dire exactement ce qu’elle fait, puis demander au groupe de ne pas conserver ou transmettre l’image envoyée par erreur. Elle peut proposer une autre photo du décor après avoir éclairci qui se trouve dans la salle. Sébastien peut décider de la tâche qu’il souhaite poursuivre et rapporter l’effet de la situation au centre. Si l’envie de vérifier revient, ses collègues peuvent entendre cette détresse. Ils n’ont pas besoin de revoir la photo avec lui ou de décrire son apparence pour que l’accord soit respecté."
+        }
+      ],
+      "ending_title": "La caisse revient au plateau",
+      "ending": "Nora retire son envoi et demande au groupe de ne pas conserver ou transmettre la première image. Elle lui dit ce qu’elle a fait et attend que la salle se vide avant de photographier le décor seul. Sébastien accepte qu’Inès prenne la caisse pour la remonter. Il retourne au plateau plus tard et rejoint Malik pour inscrire le délai du volet sur le plan qu’ils laisseront près du rideau. Ils terminent le montage sans revenir à la première image. En rentrant, il pense encore à ce qu’il y avait vu et au rendez-vous de lundi, qu’il décide de garder.",
+      "mirror": [
+        "Nora peut reconnaître l’écart et annoncer une réparation à sa mesure. « On avait convenu du décor seul. J’ai retiré mon envoi et demandé de ne pas garder l’image. Je referai la photo quand la salle sera vide. » Elle peut dire ce qu’elle sait et ce qu’elle ignore sur les ouvertures du message. Elle garde la responsabilité de son envoi et n’a pas à commenter ce que Sébastien croit que les autres ont remarqué."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-cg31-dysmorphophobie",
+        "nice-cg136-soins-adultes"
+      ],
+      "continuity": {
+        "choice": "Nora reconnaît et traite le partage hors accord. Sébastien revient pour terminer le montage et décide de parler au centre de l’effet qui persiste.",
+        "next": "Au rendez-vous de lundi, il distingue l’incident réglé de la gêne qui s’étend de nouveau à des situations sans rapport avec le décor."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "sebastien-difficultes-qui-reprennent-de-la-place",
+      "title": "Reparler des difficultés quand elles reprennent de la place",
+      "description": "Après le montage, une difficulté revient dans des moments ordinaires. Sébastien l’apporte au centre et revoit une partie de sa semaine avec l’équipe.",
+      "context": "Le lundi qui suit le montage, au centre",
+      "topics": [
+        "Fluctuations",
+        "Retentissement quotidien",
+        "Suivi spécialisé"
+      ],
+      "clinical_focus": "Fluctuations et ajustement du suivi",
+      "clinical_intro": "Sébastien avait retrouvé un peu de disponibilité à l’atelier. Après le montage, il remarque que la préoccupation reprend aussi de la place ailleurs. Une journée où les difficultés reviennent ne suffit pas à décrire l’évolution du trouble. Le rendez-vous lui permet de revenir sur ce changement et de préciser avec l’équipe ce qu’il souhaite suivre.",
+      "opening": "Sur le cahier du centre, Sébastien a inscrit son heure d’arrivée avec le stylo attaché à la couverture. La ficelle est si courte qu’il a fallu rapprocher le cahier. Ça lui rappelle la cordelette que Malik a nouée au crayon du plan de conduite, samedi, pour qu’on cesse de le chercher pendant le montage. Depuis, Malik a demandé qui pouvait aussi tenir l’entrée mercredi pendant la répétition. Sébastien a laissé le message en suspens. Il est attendu pour une retouche du volet du haut et n’a pas répondu pour le reste.\n\nDimanche, il comptait passer à la boulangerie avant la fermeture. Il a tourné deux fois devant la vitrine et a continué jusqu’au coin sans entrer. Personne ne prenait de photo. Il n’arrivait pas à se défaire de l’idée qu’en attendant son tour, on l’observerait. Il est rentré manger ce qui restait chez lui. Ce lundi, dans la salle d’attente, il a du mal à faire tenir ensemble la satisfaction du montage et ce retour de l’inquiétude dans un lieu où il va d’habitude.\n\nQuand Anaïs vient le chercher, Sébastien lui dit que la photo du groupe a été retirée comme il l’avait demandé. Elle attend la suite. Il raconte la boulangerie, puis la façon dont il avait préparé sa demande à Nora et ce qu’il pense encore de l’image le soir. Il hésite avant d’ajouter qu’il s’était attendu à aller mieux plus vite, même s’ils ont à peine commencé à parler du soin.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qui varie d’une situation à l’autre",
+          "text": "Dans la dysmorphophobie, la force des préoccupations et de la conviction peut varier, et la gêne peut redevenir importante après des moments plus faciles. Un incident d’image et ses conséquences peuvent être décrits sans en faire l’unique cause de ce qui survient ensuite. Anaïs entend que le problème de partage a reçu une réponse et que l’inquiétude s’est aussi imposée à la boulangerie. Le suivi permet de situer ce qui a changé, ce qui se répète et la manière dont cela retentit sur les activités. Une seule semaine ne dit pas comment évoluera le soin."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Un montage réussi et une course abandonnée",
+          "text": "En voyant les panneaux assemblés, Malik peut savoir que Sébastien a fait une partie du travail prévu. Camille, au téléphone le dimanche soir, a entendu que son frère avait déjà mangé. Ni l’un ni l’autre ne sait ce qui s’est passé devant la boulangerie. Sébastien se souvient du bruit de la porte à chaque arrivée et du soulagement de s’en être éloigné. Il remarque aussi que ce soulagement n’a pas duré jusqu’au dîner. Ce contraste l’aide à parler de ce qu’il souhaite retrouver en dehors du théâtre."
+        },
+        {
+          "role": "strategies",
+          "heading": "Donner une suite au rendez-vous",
+          "text": "L’équipe peut reprendre avec Sébastien les situations où l’inquiétude a augmenté et discuter avec lui du suivi qui convient. Il peut demander ce qu’il fera s’il a besoin d’en parler avant la prochaine séance et retenir un objectif de quotidien qui compte pour lui. Au collectif, il lui reste à choisir s’il prend une tâche supplémentaire ou s’il garde la retouche déjà prévue. Il peut choisir en fonction du temps dont il dispose et de sa disponibilité, sans promettre qu’il se sentira mieux d’ici mercredi. Le choix de l’album peut encore attendre."
+        }
+      ],
+      "ending_title": "Garder la retouche du mercredi",
+      "ending": "Anaïs et Sébastien reprennent leur objectif. Il veut retrouver du temps dans les journées où l’inquiétude prend toute la place. Ils conviennent d’un entretien le jeudi de la semaine suivante et elle lui rappelle comment joindre le centre si la gêne augmente avant. Dans l’escalier, il répond à Malik qu’il gardera la retouche de mercredi à dix-sept heures et laissera l’accueil à quelqu’un d’autre. Il note la date du suivi dans son agenda. En repartant, il achète un chausson aux pommes au kiosque du tram, surtout parce qu’il n’en avait pas mangé depuis longtemps.",
+      "mirror": [
+        "Malik peut traiter la réponse sur l’accueil comme une indication de travail. « Entendu pour la retouche à cinq heures. Je demande à quelqu’un d’autre pour l’entrée. » S’il remarque que la semaine est lourde et a le temps de proposer son aide, il peut demander quelle tâche est la plus pressée. Il n’a pas besoin d’obtenir une explication médicale ou d’estimer où Sébastien en est de sa thérapie pour organiser la répétition."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-cg31-dysmorphophobie",
+        "nice-cg136-soins-adultes"
+      ],
+      "continuity": {
+        "choice": "Sébastien rapporte la nouvelle gêne à l’équipe, garde un suivi et confirme seulement la retouche mercredi.",
+        "next": "Le collectif répartit l’accueil autrement. Mercredi, un problème de montage demande une répartition plus précise avant la première."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "sebastien-demander-un-appui-que-chacun-peut-tenir",
+      "title": "Demander un appui que chacun peut tenir",
+      "description": "Inès doit partir alors que le volet demande un dernier essai. Sébastien hésite à lui dire qu’il compte aussi sur sa présence pour vendredi.",
+      "context": "Le mercredi de la retouche, en fin de journée",
+      "topics": [
+        "Appui concret",
+        "Limites des proches",
+        "Partage des tâches"
+      ],
+      "clinical_focus": "Appui concret et limites des proches",
+      "clinical_intro": "Sébastien confie à Inès qu’il préférerait l’avoir près de lui au moment de la photo. Il souhaite une présence et garde la décision de participer. Dire ce qu’il attend et entendre les limites d’Inès leur permet de finir leur travail sur le volet avant son départ. Sébastien pourra ensuite reprendre la question de l’album avec Nora.",
+      "opening": "En séchant, la peinture a fait une petite surépaisseur sur le bord du volet. Sébastien l’a reprise et attend qu’Inès vienne essayer la poignée. À cinq heures et quart, quelqu’un d’autre accueille les comédiens, comme convenu avec Malik. Des voix dans le couloir réclament une rallonge, un tabouret, deux exemplaires du texte. Sur l’escabeau replié, Sébastien a posé sa craie. Il veut reporter la croix tracée au sol sur le plan que Malik gardera dans la salle.\n\nInès essaie le volet, dit qu’il joue bien, puis cherche son écharpe. Elle doit partir plus tôt qu’il ne l’avait compris. Vendredi aussi, elle devra partir dès la fin de la représentation pour aller chercher quelqu’un à la gare. Sébastien croyait qu’elle serait là quand Nora demanderait qui veut faire la photo de l’album. Depuis leur déjeuner, il lui était devenu plus facile de dire à Inès que la question de son apparence l’occupait. L’idée de retrouver quelqu’un de familier dans le groupe lui avait donné envie de laisser sa réponse ouverte.\n\nIl tient la craie du bout des doigts et lui demande si elle peut rester un peu après la représentation. Inès réfléchit à son trajet, puis répond qu’elle ne peut pas. Pendant un instant, il voudrait qu’elle lui dise à l’avance que tout se passera bien. Puis il lui dit qu’il avait surtout imaginé leur conversation juste avant de répondre à Nora. Elle regarde la croix tracée au sol et dit qu’elle a cinq minutes maintenant, s’il veut lui expliquer ce qu’il avait en tête.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Définir ce qu’on attend d’une présence",
+          "text": "Un proche peut apporter un appui à une personne qui vit avec une dysmorphophobie, dans la mesure de ses possibilités et selon ce qu’elle lui demande. Sébastien pensait qu’il lui serait plus facile de répondre à Nora si Inès était là. Il ne lui demande pas de décider qui figure sur l’image ou de l’aider à juger son apparence. Une présence choisie, un renseignement sur la photo et un rendez-vous de soins sont des formes d’appui différentes. Inès peut comprendre l’importance du premier appui et être indisponible ce soir-là."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le départ qu’il n’avait pas prévu",
+          "text": "Inès était venue essayer le volet. Elle découvre au moment de partir que Sébastien comptait sur elle vendredi. Lui se sent déçu alors même qu’elle ne s’était engagée à rien. Il éprouve aussi une vieille envie de lui demander si la photo peut bien se passer. Il peut nommer plus facilement la présence qu’il voulait. Il aurait aimé parler à quelqu’un qu’il connaît au moment de la proposition. Pour le décor, le dernier essai a déjà eu lieu. Il reste à transmettre à Malik où placer la croix et ce qu’il faut garder dans la conduite."
+        },
+        {
+          "role": "strategies",
+          "heading": "Répartir le travail et laisser le choix ouvert",
+          "text": "Sébastien peut demander à Nora de préciser comment elle proposera la photo, et jusqu’à quand une personne pourra donner sa réponse. Cela peut suffire pour préparer le moment sans solliciter un autre avis sur son apparence. Inès et lui peuvent finir la transmission du volet dans le temps dont elle dispose. Si Sébastien souhaite travailler en soin les demandes d’appui qui se répètent ou deviennent coûteuses, son équipe pourra réfléchir avec lui à la place qu’il veut donner à d’autres personnes. Une absence le vendredi peut rester une limite ordinaire à respecter."
+        }
+      ],
+      "ending_title": "La croix sur le plan de conduite",
+      "ending": "Inès dessine la croix sur le plan avec lui et laisse la craie à Malik. Elle lui souhaite de trouver un arrangement qui lui convienne pour la photo, puis prend son écharpe. Sébastien écrit directement à Nora. Elle lui répond que la photo d’album aura lieu après le départ du public et que chacun pourra dire oui ou non sur place. Il la remercie et s’engage à montrer le repère du volet à l’équipe avant la première. Malik classe le plan en tête du dossier. Le soir, il n’y a plus de retouche inscrite sous le nom de Sébastien.",
+      "mirror": [
+        "Inès peut tenir ensemble le départ annoncé et l’écoute qu’elle peut offrir. « Vendredi, je dois filer pour la gare. Il me reste cinq minutes maintenant. Tu veux me dire ce que tu avais imaginé ? » Si le choix d’image reste ouvert, elle peut laisser Sébastien en parler avec Nora. Elle peut transmettre le repère du volet à Malik et préserver l’accord sur ce que Sébastien lui a confié, sans se rendre responsable de sa décision."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-cg31-dysmorphophobie",
+        "nice-cg136-soins-adultes"
+      ],
+      "continuity": {
+        "choice": "Inès indique quand elle peut aider. Sébastien termine la retouche avec elle et demande lui-même à Nora de préciser la proposition.",
+        "next": "Le décor est prêt, le plan est transmis et les modalités de la photo sont claires. Sébastien décidera après la première."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "sebastien-choisir-sa-place-dans-une-photo-de-groupe",
+      "title": "Choisir sa place dans une photo de groupe",
+      "description": "Le décor a joué. Nora propose une photo pour l’album interne et attend les réponses. Sébastien décide de la place qu’il souhaite y prendre.",
+      "context": "Le vendredi de la première, après le départ du public",
+      "topics": [
+        "Participation choisie",
+        "Accord sur l’usage",
+        "Détresse et autonomie"
+      ],
+      "clinical_focus": "Participation choisie malgré l’inquiétude",
+      "clinical_intro": "Après la représentation, Sébastien ressent encore la crainte du regard et souhaite aussi garder une trace de l’équipe. Son choix concerne une seule image et un usage précis. Une personne peut avancer vers une activité qui compte alors que l’inquiétude reste présente. La photo ne permet pas à elle seule d’apprécier l’évolution du trouble.",
+      "opening": "Le volet s’est ouvert deux secondes après la lettre. Sébastien les a comptées depuis le côté de la salle, alors qu’il n’a plus à intervenir au signal. Quand le visage est apparu, une personne dans le public a ri. Le rire est arrivé à l’endroit qu’il espérait. L’homme peint semblait sur le point de répondre, juste avant que l’acteur reprenne l’enveloppe. Au salut, Sébastien regarde Inès près de la porte. Elle lui montre la poignée en levant le pouce, puis part à la gare comme prévu.\n\nLe dernier spectateur demande où il peut prendre le programme. Malik l’accompagne jusqu’à la table, pendant que Nora rassemble les gobelets. Il reste une représentation samedi. Le décor retournera à l’atelier mardi. Sébastien voudrait qu’il reste quelque chose de la première, une trace des gens qui ont peint, monté et appris à ouvrir les volets au bon moment. Quand Nora reprend son appareil, son envie n’a pas changé. Il sent pourtant revenir la question de savoir ce qu’on remarquera de lui. Il songe une seconde à se glisser dans l’atelier pour commencer à ranger.\n\nNora annonce qu’elle propose la photo dont ils ont parlé, pour le seul album du collectif. Elle demande qui veut être dessus et laisse le temps de répondre. Deux comédiens terminent une conversation à côté de la porte. Malik s’assied sur une caisse et dit qu’il peut attendre. Sébastien demande si la fenêtre du rez-de-chaussée entrera dans l’image. Nora regarde depuis le fond et lui dit que oui, s’ils laissent libre la partie gauche du décor.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une décision qui ne mesure pas la santé",
+          "text": "Une activité choisie peut garder son intérêt pour une personne qui éprouve une inquiétude liée à la dysmorphophobie. Sébastien pense encore à ce que d’autres pourraient remarquer de lui et il a envie de participer à cette image d’équipe. Les deux éléments peuvent exister au même moment. Il n’a pas à attendre une certitude sur son apparence pour exprimer sa préférence, et son choix peut aussi être de partir. Dans le suivi, l’équipe s’intéresse à ce que deviennent sa détresse, son quotidien et les activités qui comptent pour lui, bien au-delà de cette photographie."
+        },
+        {
+          "role": "manifestations",
+          "heading": "L’hésitation et le souvenir qu’il voudrait garder",
+          "text": "Nora voit que Sébastien n’a pas répondu tout de suite et qu’il lui pose une question sur la place de la fenêtre. Elle peut lui répondre à propos du cadre. Elle ignore le temps qu’il a passé à imaginer le moment et les jours où il ne serait pas resté. Lui reconnaît l’envie de quitter la salle qu’il connaît déjà. Il se rappelle aussi le rire au passage de la lettre et les morceaux de carton qu’Inès ramenait pour protéger le sol. Ce qu’il voudrait retrouver de la soirée est lié au travail fait avec ces gens."
+        },
+        {
+          "role": "strategies",
+          "heading": "Préparer la réponse et pouvoir changer d’avis",
+          "text": "Nora peut préciser l’usage convenu et attendre les réponses avant de faire la photo. Sébastien peut demander un temps, accepter pour l’album ou décliner. Les personnes qui partent continuent à figurer dans les crédits du spectacle et peuvent souhaiter d’autres souvenirs. Si l’expérience soulève une difficulté, il peut en reparler dans le cadre du suivi, en décrivant autant ce qu’il voulait que ce qui l’a préoccupé. L’accord trouvé à l’atelier règle la question de l’image. La thérapie se poursuit avec l’équipe spécialisée."
+        }
+      ],
+      "ending_title": "Un groupe devant les volets ouverts",
+      "ending": "« Pour l’album, d’accord », dit Sébastien. Nora attend aussi les réponses des autres. Il propose de laisser la fenêtre dégagée et rejoint Malik près de la caisse. Le groupe se décale pour laisser visible l’homme à l’enveloppe. Quand Nora déclenche, l’inquiétude est toujours là. À la table des programmes, il écrit à Inès que le rire est parti au bon moment. Malik lui rappelle qu’ils viendront récupérer le panneau mardi. Sébastien laisse son exemplaire du plan à la salle et emporte un programme.",
+      "mirror": [
+        "Nora peut annoncer le choix et laisser un temps qui vaille pour tout le monde. « C’est pour l’album interne. Je prends la photo quand les personnes qui souhaitent y être m’ont répondu. On laisse la fenêtre libre. » Elle peut répondre à propos du cadre ou de l’usage, et accueillir un refus comme une réponse complète. Elle garde le même respect pour la contribution de chacun, sans transformer cette photo en épreuve à réussir ou demander d’explication à Sébastien."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-cg31-dysmorphophobie",
+        "nice-cg136-soins-adultes"
+      ],
+      "continuity": {
+        "choice": "La première utilise le décor achevé. Sébastien décide d’être dans la photo de groupe pour le seul album interne.",
+        "next": "Il garde son programme et retrouve Malik mardi pour reprendre le panneau. Les choix d’image et les soins peuvent être repris dans d’autres conditions."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "sebastien-faire-le-point-sur-le-quotidien",
+      "title": "Faire le point sur ce qu’on a retrouvé au quotidien",
+      "description": "En reprenant les panneaux, Sébastien revient sur ce qu’il a fait, ce qui lui coûte encore et les activités auxquelles il veut faire de la place.",
+      "context": "Le mardi après la représentation, à la reprise du décor",
+      "topics": [
+        "Retentissement quotidien",
+        "Suivi dans le temps",
+        "Projets choisis"
+      ],
+      "clinical_focus": "Suivi du retentissement et choix futurs",
+      "clinical_intro": "Sébastien a terminé le décor et choisi une image d’équipe. Il retrouve aussi des moments ordinaires dont il s’était éloigné, alors que la préoccupation reste parfois très présente. Faire le point avec son équipe permet de considérer la vie qu’il souhaite retrouver et ce qui la rend encore difficile, sur une durée plus longue que la soirée de la première.",
+      "opening": "En reprenant le décor, Sébastien retrouve sa petite croix au fond de la salle. Le premier soir, il avait cru qu’un passage d’aspirateur l’effacerait. On a balayé tout autour pour la deuxième représentation. Il tient maintenant un chiffon humide et la fait disparaître avant de ramener le volet avec Malik. Au passage de la porte, ils doivent tourner le panneau pour qu’il ne cogne pas la plaque des horaires. Malik annonce chaque pas, comme s’ils reprenaient une répétition avec une seule réplique.\n\nIl reste une enveloppe sous une chaise. C’est celle que le facteur tenait au dernier acte. Sébastien la remet dans la caisse et constate qu’elle porte une adresse de la rue d’à côté. Dimanche, sa tante lui a justement demandé de retrouver un numéro dans cette rue. Il était arrivé après le déjeuner comme il l’avait annoncé. Ils ont bu le café et cherché ensemble le plan d’un ancien arrêt de bus. Il avait eu du mal à quitter l’appartement et s’était senti bien à un moment où sa tante lui décrivait l’arrêt. Les deux souvenirs lui reviennent maintenant.\n\nNora a envoyé le lien vers l’album des membres. Malik demande à Sébastien s’il accepterait de dessiner un visuel pour annoncer la lecture du mois suivant. Il a le droit de dire qu’il veut souffler, ajoute-t-il en portant le panneau jusqu’au mur. Sébastien tient encore la caisse. Il pense au rendez-vous de jeudi et à ce qu’il voudrait dire de la semaine. Il se demande aussi depuis combien de temps il n’a pas dessiné une rue pour le plaisir.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Suivre ce que la difficulté change dans la vie",
+          "text": "L’évolution d’une dysmorphophobie se discute dans le temps, à partir de la souffrance, de l’effort et des possibilités d’agir au quotidien. Avoir terminé un travail ou accepté une photo peut compter pour la personne. Ces événements éclairent ses choix sans résumer l’évolution du trouble. Sébastien a encore des moments où une préoccupation prend le dessus. Il retrouve aussi l’envie de dessiner hors des heures d’atelier et peut raconter ce qu’il a apprécié au café. Les professionnels qui le suivent peuvent s’appuyer sur ces expériences pour reprendre les objectifs avec lui."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Une enveloppe, un café et du temps qui manque encore",
+          "text": "Malik a vu le décor jouer et constate que le panneau revient en bon état. Camille sait que son frère a vu leur tante. Sébastien est celui qui peut décrire ce que ces journées lui ont demandé. Il a trouvé de l’intérêt à la conversation sur le quartier. Le matin même, une préoccupation sur son apparence l’avait retenu longtemps avant qu’il prenne son manteau. L’album de Nora réunit des traces du travail. Il ne contient pas ces heures-là, et Sébastien veut en parler quand il verra Anaïs jeudi."
+        },
+        {
+          "role": "strategies",
+          "heading": "Reprendre les objectifs et laisser le prochain projet ouvert",
+          "text": "Le rendez-vous déjà prévu lui donne un endroit pour parler du café, de l’album et du temps qui lui a encore manqué. Il peut dire à l’équipe ce qu’il voudrait approfondir, ce qu’il pense du soin commencé et quelles difficultés restent les plus gênantes. Avec Malik, la lecture du mois suivant demande une autre réponse, qu’il peut donner sans attendre que toutes les journées deviennent faciles. Il peut demander le délai pour décider et choisir une activité pour le plaisir. Les futurs usages d’images pourront être discutés chaque fois qu’une proposition lui sera faite."
+        }
+      ],
+      "ending_title": "Une rue à dessiner sans échéance",
+      "ending": "Sébastien demande à Malik de lui envoyer le texte de la lecture et dit qu’il répondra après l’avoir lu. En sortant, il ouvre l’album. Son doigt s’arrête sur la fenêtre peinte et sur le groupe réuni devant elle. Il éprouve encore une gêne dont il parlera jeudi avec Anaïs. Il remet le téléphone dans sa poche, cherche sur le plan du quartier l’adresse de l’enveloppe et appelle Camille. Elle a vingt minutes après le travail demain. Ils décident de retrouver l’ancien arrêt de bus et de prendre un café s’il reste des tables dehors. Dans le carnet qu’il gardait pour un prochain chantier, Sébastien écrit le nom de la rue en haut de la première page.",
+      "mirror": [
+        "Camille peut entendre l’invitation comme celle d’un frère qui a envie de marcher avec elle. « Vingt minutes, je les ai. On peut chercher l’arrêt et voir après pour le café. » S’il lui raconte ce qui a été difficile avant le déjeuner chez leur tante, elle peut l’écouter et le laisser choisir ce qu’il veut reprendre avec Anaïs. Elle n’a pas besoin de lire dans l’album une preuve d’amélioration ou de lui demander d’y figurer à nouveau."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-cg31-dysmorphophobie",
+        "nice-cg136-soins-adultes"
+      ],
+      "continuity": {
+        "choice": "Sébastien reprend le décor, garde ouverte la proposition de Malik, organise un café avec Camille et maintient son suivi.",
+        "next": "La commande de La Poste de nuit est close et l’album reste interne. La marche dans le quartier, le dessin et la suite du soin ont leurs propres échéances."
+      }
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "character_id": "timothee",
+  "bio": "Timothée a 44 ans. Agent d’entretien dans une résidence étudiante, il connaît les raccourcis entre les bâtiments et répare des instruments dans son garage. La dysthymie rend ses journées plus coûteuses et lui laisse souvent du mal à imaginer qu’une activité lui plaira. Il est suivi par la docteure Rivière et par Maud, sa psychologue. Nora, sa voisine professeure de musique, le met en contact avec un premier élève. Timothée aimerait lui apprendre à régler un violon en commençant par bien écouter ce qu’il entend.",
+  "profile_topics": [
+    "Dysthymie",
+    "Humeur basse et variations",
+    "Effort dans le quotidien",
+    "Intérêt et plaisir",
+    "Ajustement du suivi"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "timothee-quand-humeur-basse-devient-familiere",
+      "title": "Quand une humeur basse devient si familière qu’on ne sait plus la décrire",
+      "description": "Une question sur un cours de violon ramène Timothée à une réponse qu’il donne depuis longtemps : « Ça va comme d’habitude. »",
+      "context": "Un samedi matin, devant le garage de Timothée",
+      "topics": [
+        "Humeur basse durable",
+        "Habitude et souffrance",
+        "Premier engagement"
+      ],
+      "clinical_focus": "Humeur dépressive et durée",
+      "clinical_intro": "Nora propose à Timothée de rencontrer quelqu’un qui veut apprendre à régler un violon. Il sait déjà quel détail lui montrer, mais peine à imaginer qu’il puisse s’en réjouir. Avec une dysthymie, une humeur basse qui dure peut finir par passer pour l’état ordinaire. Ce que cela coûte au quotidien mérite d’être entendu, même quand les autres ont l’impression que rien n’a changé.",
+      "opening": "La craie que Nora a ramassée devant son portail laisse un trait blanc sur sa manche. Elle s’essuie contre son manteau, puis demande à Timothée s’il peut sortir un instant. Il finit de recoller le coin d’un étui. Il sait que s’il le pose sur le sol il oubliera de revenir voir si la colle a pris. Il dégage donc une place sur le petit banc derrière lui, où il faudra forcément qu’il s’assoie pour enlever ses chaussures.\n\nSacha, qui prend des cours pour adultes avec elle, aimerait comprendre comment on règle un violon, dit Nora. Il lui a demandé à qui il pourrait poser ses questions. Timothée tire d’un tiroir une enveloppe où il range des photographies prises avant ses réparations. Sur l’une d’elles, un liseré de lumière montre un jour minuscule sous le pied d’un chevalet. Il tend la photo à Nora. « De profil, dit-il. C’est par là que je commencerais avec lui. Avant de toucher à quoi que ce soit. » Nora plisse les yeux. « Ah oui. Je n’avais jamais regardé à cette hauteur. »\n\nElle lui demande si ça lui ferait plaisir de recevoir Sacha. Là, il ne trouve plus le mot. Depuis longtemps, les samedis se ressemblent. La chemise sèche sur le dossier et le café traîne jusqu’à refroidir. Dès qu’il imagine le samedi suivant, il lui paraît déjà lourd. La docteure Rivière avait nommé la dysthymie lors d’un bilan, bien avant cette question de Nora. Timothée avait été surpris qu’elle lui demande, après l’avoir entendu dire « comme d’habitude », à quand remontait cette habitude. Il reprend la craie que Nora a posée sur le muret. « J’aimerais voir s’il a la même question que toi, dit-il. Pour le plaisir, je ne sais pas encore. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand le changement est ancien",
+          "text": "Dans la dysthymie, une humeur dépressive s’inscrit dans la durée et peut s’accompagner de difficultés qui prennent de la place dans la vie. Quand cet état s’est installé peu à peu, il peut être difficile de retrouver un point de comparaison. Quelqu’un peut continuer à faire ce qu’il connaît et trouver que tout lui demande plus d’effort, sans pouvoir dater le moment où cela a commencé. Une évaluation prend en compte ce temps long, la souffrance et le retentissement dans plusieurs domaines. La réserve, la patience ou la façon de s’exprimer de quelqu’un ne disent pas ce qu’il éprouve au fil des jours."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Un geste précis au milieu d’une matinée lourde",
+          "text": "Nora voit Timothée choisir une photo et lui montrer un détail qu’elle n’avait jamais remarqué. Elle ne voit pas la tasse qu’il laisse souvent refroidir ni le temps qu’il passe sur le banc quand il n’a plus rien à réparer. Une tasse froide peut arriver à tout le monde. Pour Timothée, l’exemple a du sens parce qu’il ressemble à beaucoup d’autres matins, y compris quand il n’a pas de contrariété particulière à raconter. Il garde l’attention d’un amateur à certains détails. La difficulté qu’il décrit porte sur ce qu’il ressent et sur ce qu’il arrive à attendre des jours à venir."
+        },
+        {
+          "role": "strategies",
+          "heading": "Distinguer l’envie de savoir et la réponse à donner",
+          "text": "Timothée a le droit de demander ce que Sacha souhaite apprendre avant de lui promettre un cours. Il peut donner son accord pour un premier contact et décider ensuite s’il veut ouvrir son garage. Ce sont deux décisions concrètes, dont aucune ne lui demande de prévoir son humeur. Dans son suivi, il peut remplacer « comme d’habitude » par une comparaison qu’il comprend lui-même. Il peut parler du temps que lui prennent ses matins, de ce qu’il attend d’une visite ou de ce qu’il fait encore parce que le geste compte. Il n’a pas à retrouver une date exacte pour parler de cette durée."
+        }
+      ],
+      "ending_title": "Le numéro au dos de l’enveloppe",
+      "ending": "Il demande à Nora de donner son numéro à Sacha. « Dis-lui qu’il peut m’écrire pour expliquer ce qu’il cherche. Je lui répondrai lundi. » Nora lit les chiffres qu’il a écrits au dos d’une enveloppe vide et il en corrige un. Puis elle prend la photo qu’il lui offre pour la montrer en cours. Quand le portail se referme, Timothée ramène la tasse dans la cuisine. Il ne sait toujours pas s’il attend la rencontre avec plaisir. Il sait désormais quelle réponse il est prêt à donner lundi.",
+      "mirror": [
+        "Quand Timothée répond qu’il ne sait pas si ça lui fera plaisir, Nora peut garder sa proposition à la mesure de cette réponse. « Je lui donne ton numéro pour qu’il t’explique sa question, si tu veux. Pour le reste, tu verras avec lui. » Elle peut transmettre les coordonnées après accord et garder ses propres engagements de professeure. Timothée peut en dire autant qu’il souhaite sur sa matinée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim-6a72",
+        "nice-depression"
+      ],
+      "continuity": {
+        "choice": "Timothée autorise Nora à transmettre son numéro à Sacha et s’engage seulement à répondre lundi.",
+        "next": "Sacha écrit pendant la tournée de Timothée. La réponse attend la fin du service, où Timothée peut proposer un premier rendez-vous."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "timothee-effort-cache-derriere-travail-fait",
+      "title": "L’effort qui reste invisible quand le travail est fait",
+      "description": "Timothée connaît la résidence jusque dans ses recoins. Un collègue l’aide à revoir une transmission qui lui coûte plus qu’il ne le dit.",
+      "context": "Le lundi suivant, dans le local d’entretien de la résidence étudiante",
+      "topics": [
+        "Effort au travail",
+        "Attention",
+        "Appui d’un collègue"
+      ],
+      "clinical_focus": "Retentissement derrière un travail accompli",
+      "clinical_intro": "Les parties communes sont prêtes à l’heure et personne n’a demandé à Timothée de recommencer son travail. Il a pourtant dû relire chaque changement de consigne pour tenir le fil. La dysthymie peut augmenter l’effort nécessaire pour accomplir des tâches connues. Ce coût se comprend mieux quand on regarde le travail fait et l’énergie qui reste après.",
+      "opening": "Dans le local, Rémi a épinglé le plan de la résidence avec une punaise trop grosse qui cache la moitié du bâtiment C. Timothée la déplace. Il connaît assez bien le plan pour savoir où les étudiants laissent leurs vélos quand l’abri est plein. Ce matin, il a quand même vérifié trois fois dans quel bâtiment la salle commune devait être prête avant dix heures. Une réservation a changé, les tables ont été remises autrement, et les informations sont arrivées dans deux messages séparés pendant qu’il essuyait les poignées du rez-de-chaussée. Quand il a fini, le responsable de la salle lui a tenu la porte en disant : « Nickel, comme toujours. »\n\nRémi trouve Timothée assis devant le plan à l’heure de la pause. Ils avaient prévu de manger leurs sandwichs dehors, sur le muret où le soleil atteint enfin leurs genoux. Timothée sort son sandwich, le regarde et le remet dans son papier. Depuis quelque temps, il voudrait qu’entre deux tâches personne ne lui demande rien, même une chose agréable. Rémi lui demande seulement si le muret est toujours d’actualité. Timothée dit qu’il préfère rester là et lui tend le rouleau de ruban pour que le plan ne gondole plus.\n\nSon téléphone affiche un message de Sacha. Le jeune homme dit qu’il emprunte parfois un violon d’étude à Nora. Il entend quelque chose qui change quand une corde sonne et voudrait savoir par où commencer à regarder. Timothée a une idée de la réponse, mais la phrase se mélange à la consigne de cet après-midi, qu’il n’a plus en tête. Il retourne le téléphone sur la table. « Rémi, pour les salles, on pourrait se mettre d’accord sur où écrire le dernier changement ? »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le résultat et l’effort renseignent sur des choses différentes",
+          "text": "Une personne peut maintenir son travail avec un effort accru quand elle vit avec des symptômes dépressifs durables. Une fatigue, une difficulté à garder le fil ou à choisir entre plusieurs informations peuvent peser davantage que ce que montrent les tâches terminées. Lors d’un point clinique, le fait d’être au travail renseigne sur une partie de la situation. Le temps nécessaire pour y parvenir et la place qui reste pour manger, se reposer ou répondre à quelqu’un en disent une autre. Les conditions de travail comptent aussi. Des messages dispersés compliquent la tâche quel que soit l’état de santé."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le prix payé avant et après une transmission",
+          "text": "Rémi voit un local prêt et un collègue qui reste assis avec son sandwich fermé. Timothée sait combien de fois il a repris les consignes avant de déplacer les tables. Une fois le service fini, il lui reste une question qui l’intéresse. Il a du mal à se rassembler pour y répondre. Les mêmes messages auraient pu être fatigants une autre semaine pour une autre raison. La comparaison qui lui parle est celle avec ses propres habitudes, quand il mangeait dehors sans avoir besoin de reprendre d’abord sa respiration et le fil de sa journée."
+        },
+        {
+          "role": "strategies",
+          "heading": "Mettre la dernière information au même endroit",
+          "text": "Rémi et Timothée peuvent convenir d’un endroit unique pour reporter les changements dont ils ont tous deux besoin. L’accord concerne la transmission, que Timothée choisisse ou non de parler de santé à son collègue. Il peut attendre la fin du service pour répondre à Sacha, en repartant de la question que celui-ci a écrite. Au prochain rendez-vous de soin, Timothée peut dire ce qu’il a pu faire dans cette journée et combien de temps ou d’énergie cela lui a demandé. L’ajustement du travail et le suivi peuvent avancer séparément."
+        }
+      ],
+      "ending_title": "Deux cases sur la feuille",
+      "ending": "Rémi prend une feuille. Dans une première case, il écrit « Salle ». Dans l’autre, « Changement confirmé ». Ils la fixent sous le plan pour leur tournée commune, à l’endroit où ils la retrouveront. Timothée finit la journée en vérifiant la dernière consigne sur la feuille. Il mange la moitié du sandwich sur le muret, seul cette fois. En rentrant, il répond à Sacha qu’il serait disponible un samedi dans un peu moins de deux semaines pour un premier essai d’une demi-heure. Sacha confirme l’heure et demande s’il peut venir avec le violon d’étude. Timothée lui envoie l’adresse et dit oui.",
+      "mirror": [
+        "Rémi peut répondre à la demande de Timothée à l’endroit où elle se pose. « On note ici ce qui a changé et on garde cette feuille pour nous deux. Tu me dis si une information manque ? » Il peut essayer cette transmission sans demander pourquoi Timothée en a besoin. Si elle lui prend trop de temps ou ne convient plus à l’équipe, ils peuvent en reparler sur le terrain du travail."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-depression",
+        "oms-depression-reperes"
+      ],
+      "continuity": {
+        "choice": "Timothée et Rémi fixent un lieu de transmission commun. Timothée et Sacha conviennent d’un samedi et d’un essai d’une demi-heure avec le violon d’étude.",
+        "next": "Avant de préparer cet essai, Timothée remarque une variation de son humeur chez Yacine, qui tient un magasin de disques."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "timothee-bon-moment-humeur-depressive-durable",
+      "title": "Un bon moment dans une humeur qui reste basse",
+      "description": "Une trouvaille chez un ami fait rire Timothée. Sur le chemin du retour, il se demande quelle place donner à ce qui vient de lui faire du bien.",
+      "context": "Le jeudi soir, dans le magasin de disques de Yacine",
+      "topics": [
+        "Variations de l’humeur",
+        "Plaisir ponctuel",
+        "Contexte"
+      ],
+      "clinical_focus": "Variations dans une humeur persistante",
+      "clinical_intro": "Chez Yacine, une voix enregistrée fait rire Timothée avant qu’il retrouve sa lourdeur habituelle en rentrant. La dysthymie laisse place à des moments plus légers. On peut les reconnaître et regarder ce qui leur a donné du goût, tout en prenant au sérieux la souffrance qui revient ou continue à peser.",
+      "opening": "Yacine garde les disques parlés derrière le comptoir, là où les gens ne les confondent pas avec les méthodes de langue. Il en sort un avec une étiquette jaune. Quelqu’un a écrit « courrier » au stylo sur la pochette. Dans le casque, Timothée entend une voix annoncer une longue série de villes, puis une seconde voix demander si on est en train de les ranger par ordre alphabétique. Un grincement couvre la réponse. Timothée éclate de rire. Il enlève le casque pour expliquer, essaie d’imiter le grincement et fait rire Yacine à son tour. Ils écoutent le passage une seconde fois, juste pour entendre le moment où la première personne hésite à répondre.\n\nIls se connaissent depuis qu’ils habitaient sur le même palier. Yacine remet rarement une invitation sur la table après un refus. Ce soir, comme il va bientôt fermer, il demande simplement à Timothée s’il veut aller manger quelque part. Timothée voudrait conserver le plaisir qu’il vient de trouver dans cette voix. Il commence à demander ce qui est encore ouvert à cette heure. Pendant que Yacine réfléchit, il s’aperçoit qu’il n’a plus envie de chercher une table ni de choisir un plat. Il pourrait dire oui pour que la soirée prouve que tout va mieux. Il pourrait aussi laisser croire que le rire n’a rien représenté.\n\nDehors, il prend un instant devant la vitrine avant de remettre son écharpe. Ce n’est pas la première fois qu’une demi-heure lui paraît claire depuis le diagnostic. D’habitude, quand la lourdeur reprend, il se rappelle surtout combien il s’est trompé en espérant qu’elle passerait. Il voit le reflet de Yacine qui tire vers lui la porte du magasin. Avant qu’elle ferme, il lui demande comment s’appelle le disque.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une variation peut être réelle et de courte durée",
+          "text": "Une humeur dépressive persistante peut varier et laisser de la place à des moments plus légers. En consultation, le professionnel s’intéresse à ce qui entoure ces moments et à la façon dont la personne se sent sur une durée plus large. Le rire de Timothée fait partie de son vécu aussi bien que la lourdeur retrouvée au retour. Inversement, un retour de la lourdeur au cours d’une soirée ne suffit pas à conclure qu’un nouvel épisode dépressif a commencé. Le vécu de Timothée peut comporter les deux moments sans qu’ils s’annulent."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le magasin et le chemin du retour",
+          "text": "Yacine a entendu le rire et vu Timothée demander une seconde écoute. Timothée se rappelle aussi qu’il avait déjà moins d’élan pour la suite quand ils se sont mis à parler d’un repas. Il ne sait pas si c’est le rire avec un ami, la surprise dans le casque ou la possibilité de s’arrêter quand il veut qui a compté. Il n’avait pas besoin de trancher cette question dans le magasin. Pour raconter son jeudi, il lui suffit de faire une place au moment dans le casque et à ce qu’il a éprouvé ensuite."
+        },
+        {
+          "role": "strategies",
+          "heading": "Laisser une place aux deux observations",
+          "text": "Timothée peut dire à Yacine ce qu’il a aimé et décider séparément de rentrer. Pour le rendez-vous de suivi, s’il veut retenir cet exemple, il peut noter le lieu et quelques mots sur l’avant et l’après. Cela donne une indication plus précise qu’une conclusion sur toute la semaine. Il n’a pas à noter chaque changement, à provoquer des moments agréables pour les tester ou à prolonger une visite qui lui convient en l’état. Le choix du temps passé chez son ami lui appartient à chaque visite."
+        }
+      ],
+      "ending_title": "Le nom au verso du ticket",
+      "ending": "Yacine lui écrit le titre au verso d’un ticket de caisse. Timothée le plie autour de sa carte de bus. « Ça m’a fait du bien de l’écouter ici. Je vais quand même rentrer. » Yacine lui dit qu’il met le disque de côté jusqu’au prochain inventaire, puis baisse le rideau. Dans le bus, Timothée s’aperçoit qu’il tient encore le ticket. Il y ajoute au crayon « deux écoutes » et « lourd au retour ». Il compte garder le papier pour parler de sa semaine à la docteure Rivière.",
+      "mirror": [
+        "En entendant Timothée rire, Yacine peut répondre au plaisir qu’ils viennent de partager. « Le passage où il hésite est drôle. Tu veux le titre avant de rentrer ? » Il peut laisser la décision du repas ouverte et fermer son magasin à l’heure prévue. S’il souhaite reparler de ce que Timothée traverse, il peut lui demander quand cela lui conviendrait, sans prendre la mesure de sa santé à chaque visite."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-depression",
+        "oms-depression-reperes"
+      ],
+      "continuity": {
+        "choice": "Timothée dit à Yacine qu’il a aimé l’écoute et rentre quand il le souhaite. Il conserve le ticket pour le prochain rendez-vous.",
+        "next": "Avant le rendez-vous, Timothée prépare la rencontre avec Sacha. Il distingue ce qu’il aimerait transmettre de ce qu’il imagine éprouver."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "timothee-preparer-sans-attendre-enthousiasme",
+      "title": "Préparer une activité quand on a du mal à s’en réjouir d’avance",
+      "description": "Timothée essaie d’expliquer un détail du violon à Nora. Il cherche un format qui lui permette de commencer sans promettre la suite.",
+      "context": "Le samedi suivant, dans le garage, une semaine avant l’essai prévu",
+      "topics": [
+        "Plaisir attendu",
+        "Activité choisie",
+        "Engagement limité"
+      ],
+      "clinical_focus": "Difficulté à anticiper le plaisir",
+      "clinical_intro": "Timothée trouve de bonnes questions pour Sacha mais imagine le samedi de leur rencontre sans aucun élan. Avec la dysthymie, il peut être difficile d’attendre du plaisir d’une activité qui compte encore. Prévoir un essai limité lui permet de tenir compte de cet écart et de décider de la suite une fois qu’il aura quelque chose de concret à raconter.",
+      "opening": "Nora se penche vers la lampe et son écharpe frôle une pile de boîtes. Timothée la déplace en disant qu’il ne sait plus ce qu’il y a dedans. Il a passé la première partie de la matinée à écrire un déroulé pour l’essai de samedi prochain. Sur la feuille, il a mis assez de choses pour une heure. Sacha vient pour une demi-heure. Quand Nora lui demande à quel moment Sacha pourra poser une question, Timothée lui montre les trois lignes du bas, puis s’aperçoit qu’il n’a ménagé aucun silence avant.\n\nNora a rapporté la photo qu’elle avait montrée à Sacha. Il la glisse dans une fente de l’établi où il saura la retrouver. Il a sorti un de ses vieux violons pour faire les essais. Le fil de la lampe passe entre ses pieds et, quand il s’écarte pour laisser voir l’instrument, Nora reçoit toute la lumière dans les yeux. Timothée tourne la lampe vers le mur. Sous ce jour moins vif, il distingue une petite ombre qu’il ne voyait pas depuis sa propre chaise. Il demande à Nora de s’asseoir pour voir si elle la retrouve. Pendant quelques minutes, ils discutent de l’endroit d’où les deux pieds du chevalet se voient le mieux. Il aime ce moment où chacun indique à l’autre quelque chose qui n’était visible que de sa place.\n\nNora propose de lui prêter une chaise pliante pour l’essai. Elle regarde son agenda et demande s’il faut aussi la réserver pour les samedis suivants, au cas où Sacha voudrait continuer. Timothée perd le fil. Ce matin il a eu envie de lui montrer l’ombre, mais s’il imagine une série de rendez-vous, il ne trouve rien qui l’attire. Il a même du mal à prévoir ce qu’il ressentira la semaine prochaine. Il retourne la feuille du déroulé et trace au dos un espace assez grand pour une seule question.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’intérêt d’une activité se découvre parfois en la faisant",
+          "text": "Des symptômes dépressifs durables peuvent réduire l’intérêt ou le plaisir. Ce qu’une personne imagine ressentir avant une activité et ce qu’elle éprouve en la faisant sont deux expériences distinctes. On peut décrire les deux en consultation, en se rappelant ce qui s’est passé avant et ce qui a retenu l’attention, même brièvement, une fois sur place. Pour Timothée, l’incertitude concerne surtout la perspective de se remettre à préparer des séances chaque semaine. Le détail aperçu sous la lampe est, lui, une chose à laquelle il a eu envie de s’arrêter aujourd’hui."
+        },
+        {
+          "role": "manifestations",
+          "heading": "L’engagement se brouille quand il devient une série",
+          "text": "Dans le garage, Timothée corrige vite l’angle de la lampe et pose à Nora une question précise. Le planning de plusieurs semaines lui donne une impression tout autre. Il se met à imaginer la répétition, le rangement et les réponses qu’il devra trouver avant même d’avoir rencontré Sacha. Nora peut voir le temps qu’il a consacré à son déroulé. Elle ne sait pas que la perspective d’en préparer d’autres lui paraît déjà vide. Ce malaise ne dit rien, pour l’instant, sur le plaisir de Sacha ou sur la qualité de l’essai qu’ils ont fixé."
+        },
+        {
+          "role": "strategies",
+          "heading": "Formuler un premier but accessible et révisable",
+          "text": "Timothée voudrait transmettre une seule chose pour commencer. En changeant de place autour du violon, chacun pourra comparer ce qu’il remarque et le dire à l’autre. Il peut demander à Sacha si cela rejoint sa question. La durée déjà convenue lui donne le droit de laisser un autre sujet pour plus tard ou de s’en tenir là. S’il apporte cette scène en consultation, il peut parler de la préparation, du petit intérêt éprouvé et de ce qui se ferme quand il essaie d’imaginer la suite. Le rendez-vous avec Sacha reste un moment d’apprentissage. Timothée discute de la gêne qui dure avec ses soignantes."
+        }
+      ],
+      "ending_title": "La question écrite au dos du déroulé",
+      "ending": "Timothée écrit à Sacha : « On regardera d’abord d’où vient la différence que tu entends. Si on ne sait pas l’expliquer, on pourra au moins préciser la question. » Sacha répond que c’est bien ce qu’il cherche. Nora remet son écharpe et indique qu’elle a cours juste après leur créneau. Timothée dit que c’est entendu. « On garde un samedi. Je te dirai si on en cherche un autre. » Il laisse le déroulé sur l’établi, face retournée, et rentre déjeuner.",
+      "mirror": [
+        "Quand Timothée retourne la feuille, Nora peut lui demander ce que devient la demi-heure dont ils ont parlé. « Tu veux que je regarde la seule question que tu as gardée, ou tu préfères en parler directement à Sacha ? » Elle peut essayer une place sous la lampe et lui dire ce qu’elle voit. Elle n’a pas à libérer les autres samedis avant qu’il en discute avec Sacha, ni à juger si l’atelier lui fait du bien."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-depression-reperes",
+        "nice-depression",
+        "sherdell-plaisir-depression"
+      ],
+      "continuity": {
+        "choice": "Timothée conserve un seul rendez-vous et propose à Sacha un but sur lequel ils s’accordent.",
+        "next": "Il emporte l’exemple de la préparation au point de suivi déjà prévu avec la docteure Rivière, avec le ticket du magasin."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "timothee-parler-depuis-quand-et-retentissement",
+      "title": "Dire depuis quand et à quel prix quand on répond « pareil »",
+      "description": "Un ticket de caisse aide Timothée à préciser ce qu’il n’arrive pas à dire à la docteure Rivière en un seul mot.",
+      "context": "Le lundi, au cabinet de la docteure Rivière",
+      "topics": [
+        "Histoire du trouble",
+        "Comparaison dans le temps",
+        "Suivi"
+      ],
+      "clinical_focus": "Évolution et retentissement en consultation",
+      "clinical_intro": "Timothée s’apprête à dire que son état est « pareil ». Le ticket de Yacine lui remet en mémoire une soirée avec deux moments différents. En consultation, la durée de la dysthymie se comprend mieux à partir de ce qui persiste, de ce qui varie et des conséquences que la personne remarque dans plusieurs endroits de sa vie.",
+      "opening": "La docteure Rivière fait tourner l’écran vers elle pour retrouver son dernier rendez-vous. Timothée tient son manteau sur les genoux alors qu’une patère est libre près de la porte. C’est le manteau qu’il avait aussi la première fois, pense-t-il en passant le pouce sur une poche déchirée. À l’époque, il avait parlé de sa fatigue en remontant jusqu’à une année où la résidence avait fermé deux étages pour des travaux. Le changement de tournée lui avait fait croire qu’il se sentirait mieux à la réouverture. Une fois les étages rouverts, la lassitude l’avait suivi jusque chez lui. Il avait fallu plusieurs échanges pour trouver comment raconter cette période.\n\n« Et ces derniers temps ? » demande la docteure. Timothée dit « pareil » avant d’avoir fini de sortir sa carte. Le ticket de Yacine tombe avec elle. Il le ramasse et trouve au dos les mots écrits dans le bus. Il s’aperçoit que si elle lui demandait ce que veut dire « pareil », il parlerait d’abord de ce retour lourd. Il aurait oublié les deux écoutes et l’envie qu’il a eue de demander le titre du disque.\n\nIl déplie le ticket sur le coin du bureau. Il raconte le rire, le repas qu’il a décliné et la part du sandwich mangée au travail après une journée qui lui a demandé beaucoup d’effort. Il a aussi préparé une rencontre avec Sacha. Il ne sait pas faire tenir ces trois événements dans le même adjectif. La docteure lui demande ce qui, dans tout cela, lui ressemble depuis longtemps et ce qui lui coûte davantage ces jours-ci. Il prend le temps d’accrocher son manteau avant de répondre.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’évolution se lit par rapport au vécu habituel",
+          "text": "Dans une évaluation de symptômes dépressifs durables, l’histoire et les conséquences concrètes comptent autant que la description du jour. Le professionnel cherche depuis quand les difficultés sont présentes, comment elles se sont installées et dans quels contextes elles varient. Il s’intéresse aussi à la santé physique, aux autres difficultés, aux appuis et à ce que les soins ont changé ou laissé en suspens. Le diagnostic déjà posé donne à la docteure Rivière un point de départ. Le bilan du lundi porte sur ce que Timothée vit maintenant et sur les comparaisons qu’il peut faire."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Des souvenirs que l’on n’assemble pas d’un seul coup",
+          "text": "Les travaux à la résidence aident Timothée à retrouver une époque, même s’il ne se souvient pas du mois où sa fatigue a commencé. Le ticket, lui, apporte une comparaison à l’échelle d’une soirée. La préparation de l’atelier lui rappelle un intérêt encore présent et une difficulté à envisager la suite. Au travail, c’est le temps passé à se remettre entre deux tâches qui le frappe. Ces exemples ne se contredisent pas. La docteure et Timothée peuvent s’en servir pour parler de ce qui se prolonge à des rythmes différents. Lui-même n’avait jamais rapproché le magasin et sa pause au local d’entretien."
+        },
+        {
+          "role": "strategies",
+          "heading": "Choisir ce qui mérite d’être repris la prochaine fois",
+          "text": "Un récit approximatif peut se préciser au fil des consultations. Timothée peut dire de quel repère il est sûr et où il hésite. S’il ne veut pas tenir un journal, il peut garder un souvenir de deux contextes où le coût lui a paru différent. La docteure peut demander ce qu’il voudrait voir devenir moins lourd et ce qu’il lui est possible de changer dans le suivi. Le prochain point peut reprendre le travail et les repas, ou toute autre difficulté qui prend davantage de place entre-temps. Le ticket reste une aide pour la conversation de Timothée."
+        }
+      ],
+      "ending_title": "Le ticket rendu à Timothée",
+      "ending": "La docteure lui rend le ticket. Ils conviennent de garder le prochain point médical et de reprendre plus tôt contact si Timothée constate un changement qui l’inquiète. Il voit déjà Maud, la psychologue, le lendemain. Il décide d’y raconter ce qui se passe quand il essaie d’imaginer une prochaine séance avec Sacha et qu’il finit par se juger lui-même. En quittant le cabinet, il écrit « repas après le service » sous ses deux notes du jeudi. Il envoie une photo du ticket à Yacine pour lui demander vers quelle heure il était passé. Yacine lui répond qu’il peut lui dire ça après la fermeture. Timothée remet le papier dans la poche qui n’est pas trouée.",
+      "mirror": [
+        "Quand Timothée lui envoie le ticket, Yacine peut s’en tenir au repère demandé. « Je me souviens de ce disque. Je regarde l’heure à la fermeture et je te l’envoie. » Il n’a pas à reconstituer ce que Timothée ressentait ou à appeler le cabinet pour en faire le récit. Ils peuvent aussi reprendre leur conversation sur le disque si Timothée préfère en rester là."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-depression",
+        "ameli-depression-soins"
+      ],
+      "continuity": {
+        "choice": "Timothée décrit des observations qui donnent du contenu à « pareil ». Il garde le suivi prévu, sait qu’il peut contacter le cabinet plus tôt et décide d’apporter à Maud la question de ses jugements sur lui-même.",
+        "next": "Un message de Sacha offre un exemple récent de ce jugement avant la rencontre chez la psychologue."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "timothee-quand-doute-devient-verdict",
+      "title": "Quand un doute sur un geste devient un verdict sur soi",
+      "description": "Une question pratique de Sacha prend une tournure très différente dans la tête de Timothée. Il l’apporte à sa séance avec Maud.",
+      "context": "Le mardi, sur un banc à la sortie de la résidence, puis chez la psychologue",
+      "topics": [
+        "Estime de soi",
+        "Pensées qui tournent en boucle",
+        "Psychothérapie"
+      ],
+      "clinical_focus": "Dévalorisation et pensée répétitive",
+      "clinical_intro": "Sacha demande s’il doit apporter autre chose que le violon. Timothée relit la question jusqu’à y entendre un reproche qu’elle ne contient pas. Quand on vit avec des symptômes dépressifs durables, un doute peut prendre la forme d’un jugement beaucoup plus large sur sa propre valeur. Timothée et sa psychologue regardent ce que ce jugement change dans sa façon de répondre.",
+      "opening": "Sacha a envoyé trois lignes : « J’ai récupéré le violon. Je dois apporter autre chose ? Je ne sais pas trop ce qu’on fait au début. » Timothée les lit assis sur le banc à l’entrée de la résidence. À l’heure où les étudiants rentrent, il entend la même porte s’ouvrir avec trois vitesses différentes. Il a envie de rentrer avant que la pluie commence. Il n’arrive pas à décider s’il doit répondre que tout est prêt. La phrase « Je ne sais pas trop » lui paraît prouver qu’il a mal expliqué le rendez-vous. Il remonte jusqu’à son premier message, trouve une phrase qu’il aurait pu formuler autrement et ferme la conversation.\n\nQuand il arrive chez Maud, il a préparé un récit sur le samedi au garage. Au moment de parler, c’est la question de Sacha qu’il se met à raconter. « Si je n’ai pas su écrire trois lignes claires, comment veux-tu que je lui montre quelque chose ? » Il pose le téléphone sur la chaise à côté de lui, écran tourné vers le bas. Maud lui demande ce que Sacha pourrait vouloir savoir avant de venir. Timothée répond aussitôt que pour une première visite il prendrait l’instrument dans l’étui. Il écrirait peut-être aussi ses questions sur un coin de papier.\n\nUn silence passe. Il voit qu’il sait quoi répondre à la demande pratique. Il entend encore la phrase qui lui assure que n’importe qui expliquerait le violon mieux que lui. Maud lui demande ce qu’il fait quand cette phrase reste en tête. Timothée montre son téléphone sur la chaise. « J’arrête de répondre. Après, le délai me donne une deuxième raison de penser que j’ai tout raté. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un jugement sur soi peut se prolonger au-delà de la situation",
+          "text": "La dévalorisation peut accompagner une humeur dépressive durable. Une incertitude limitée devient parfois une conclusion sur l’ensemble de ce qu’on sait faire. Quand la même conclusion revient en boucle, elle peut prendre du temps et rendre plus difficile une décision qui avait un objet simple. Dans une approche cognitivo-comportementale, un professionnel peut explorer ces liens entre pensées, émotions et gestes. Le travail part de situations que la personne reconnaît. Maud ne demande pas à Timothée de se déclarer bon pédagogue. Elle s’intéresse à ce qui se passe entre le message reçu et l’arrêt de la conversation."
+        },
+        {
+          "role": "manifestations",
+          "heading": "La question écrite et la question que Timothée entend",
+          "text": "Sur l’écran, Sacha parle du matériel et dit qu’il ne connaît pas le déroulé. Timothée entend surtout : « Tu n’as pas été clair. » Il relit sa réponse ancienne à la recherche de l’endroit où il aurait échoué. Il voit alors un délai s’ajouter à la difficulté initiale. Ce jour-là, il ne parle pas du même ton de ses compétences quand il aide Maud à imaginer les besoins de Sacha et quand il évalue son message. Son doute sur l’accueil d’un premier élève est compréhensible. Le jugement plus général revient aussi dans des situations où personne n’a demandé d’explication."
+        },
+        {
+          "role": "strategies",
+          "heading": "Revenir à ce qui reste à dire",
+          "text": "Dans la séance, Timothée peut examiner avec Maud le moment où sa pensée change de portée et ce que cela lui fait faire. Ils peuvent reprendre la question réelle de Sacha et chercher une réponse suffisamment claire. Ce n’est pas un exercice à réussir sur commande. Si les mêmes jugements reviennent plus tard, leur fréquence, les circonstances et les décisions qu’ils bloquent peuvent devenir des sujets du suivi. À l’échelle du rendez-vous, Timothée sait déjà ce qu’il souhaite demander à Sacha et ce qu’il prendra en charge lui-même."
+        }
+      ],
+      "ending_title": "Une réponse avant de repartir",
+      "ending": "Sur le perron du cabinet, Timothée écrit : « Apporte le violon dans son étui et la question que tu veux regarder en premier. J’ai le reste. On garde samedi à l’heure dite. » Il relit une fois pour vérifier que l’accord sur le samedi est clair. En se mettant en marche, il pense encore qu’il aurait pu tourner la réponse autrement. Sacha renvoie un pouce levé, puis le nom de la corde sur laquelle il a entendu la différence. Timothée retrouve le croquis de sa table de travail et écrit ce nom près de la place que Sacha occupera.",
+      "mirror": [
+        "Si Sacha perçoit une hésitation dans la réponse, il peut préciser sa demande sans commenter la façon dont Timothée a réagi. « Je voulais juste savoir si je devais prendre quelque chose. Je viens avec l’étui et ma question sur la corde. » Une réponse claire est utile en elle-même. Sacha n’a pas à chercher ce que cache le délai, à évaluer la confiance de Timothée ou à prendre un rôle qui appartient à ses soignantes."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-depression"
+      ],
+      "continuity": {
+        "choice": "Timothée distingue avec Maud la demande de Sacha du jugement qui le fait tarder. Il répond sur le matériel et reçoit la question précise.",
+        "next": "À l’approche du rendez-vous, il constate un changement qui déborde la préparation. Il reprend la possibilité de joindre le cabinet avant la date prévue."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "timothee-retrait-gagne-sur-habitudes",
+      "title": "Quand le retrait gagne sur les habitudes du quotidien",
+      "description": "Timothée a laissé passer plusieurs choses qui comptent pour lui. Une visite de Nora l’aide à dire ce qui a changé avant le prochain rendez-vous.",
+      "context": "Le jeudi avant l’essai, à l’heure du dîner, sur le seuil de la maison",
+      "topics": [
+        "Retrait inhabituel",
+        "Changement dans le quotidien",
+        "Contact avec les soins"
+      ],
+      "clinical_focus": "Retrait et aggravation du retentissement",
+      "clinical_intro": "Nora vient chercher un plat et trouve Timothée dans le couloir encore dans le noir. Il lui parle des repas qu’il saute et des visites auxquelles il ne répond plus. Avec une dysthymie, un retrait qui gagne plusieurs parties du quotidien peut signaler un changement par rapport à l’état habituel. On peut en parler à l’équipe de soins sans avoir à déterminer soi-même ce qu’il signifie.",
+      "opening": "Nora a prêté à Timothée un plat en verre qui rentre juste dans le petit four. Elle sonne jeudi pour le reprendre. Il lui ouvre sans avoir allumé la lumière du couloir et lui dit que le plat est encore dans le four. Il s’attend à trouver des restes. Il découvre un plat propre, avec le torchon posé à côté. Il se rappelle avoir lavé le plat avant-hier. Il allait le reprendre pour réchauffer le dîner, puis il s’était recouché. Il porte le plat à Nora avec les deux mains, à cause du couvercle qui bouge.\n\nEn revenant dans la cuisine, il voit qu’il n’a pas écouté le dernier message de Yacine, reçu mardi. Après avoir eu sa réponse sur l’heure de son passage, il lui avait écrit une seconde fois pour savoir si le disque était toujours de côté. Il n’a pas trouvé l’énergie de lancer la note vocale de son ami. Au travail, la feuille a bien servi à la transmission avec Rémi ce matin. Il a passé toute sa pause à attendre de pouvoir se remettre debout. Il connaît les journées qui lui coûtent davantage que prévu. Ce soir, l’idée de se verser un verre d’eau et celle de répondre à un ami lui paraissent à peu près aussi éloignées.\n\nNora demande si elle peut entrer déposer le plat sur la table le temps de remettre correctement le couvercle. Timothée la laisse passer. Il ne pense plus à l’atelier avant de voir qu’il a mis son plan de table sous le téléphone. « Ce n’est pas seulement pour samedi, dit-il. Depuis quelques jours, même le dîner se défait. » Il retrouve dans le téléphone le numéro du cabinet de la docteure Rivière.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le changement par rapport à soi-même compte",
+          "text": "Un retrait plus marqué peut mériter un contact de soin quand il touche plusieurs habitudes ou rend difficiles des activités que la personne arrivait encore à faire. Dans un vécu dépressif durable, comparer avec une période antérieure peut aider à décrire l’aggravation sans attendre d’être certain de sa cause. La difficulté à manger, à répondre à quelqu’un ou à se remettre en mouvement n’a pas un sens unique. C’est à l’équipe de soins d’examiner le changement, son évolution et le besoin d’aide. Le rendez-vous prévu plus tard n’empêche pas de signaler ce qui inquiète aujourd’hui."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce que la visite permet de voir et d’entendre",
+          "text": "Nora voit que Timothée lui rend le plat propre et qu’il parle avec de longues pauses. Elle l’a déjà vu fatigué après une tournée. Elle apprend de lui que les repas sont devenus plus difficiles et que ses échanges avec Yacine se sont interrompus. Timothée sait aussi qu’il a tenu sa tournée du matin en s’appuyant sur la feuille partagée avec Rémi. Cet appui a continué à fonctionner dans son domaine. Il n’a pas empêché les difficultés de s’étendre à la maison. Le rendez-vous de samedi fait partie de la situation sans expliquer à lui seul le retrait."
+        },
+        {
+          "role": "strategies",
+          "heading": "Prendre appui pour joindre le bon interlocuteur",
+          "text": "Si Timothée veut une présence le temps d’appeler, il peut le demander à Nora et préciser où il préfère qu’elle attende. Il peut commencer par les repas sautés, l’effort devenu inhabituel au travail et les invitations auxquelles il ne répond plus. Il peut dire aussi ce qui s’est aggravé depuis le rendez-vous de lundi. Le cabinet pourra préciser la suite à partir de ce qu’il décrit. Nora et Timothée peuvent ensuite décider ensemble d’un geste utile pour ce soir, qui reste séparé de la réponse de soin."
+        }
+      ],
+      "ending_title": "Le cabinet avant le prochain rendez-vous",
+      "ending": "Timothée appelle alors que Nora attend dans l’entrée. L’assistante du cabinet lui demande ce qui a changé, fait le point avec la docteure et le rappelle. La docteure lui parle brièvement, vérifie comment il va passer la soirée et lui propose de venir dès le lendemain matin. Timothée note l’heure et la marche à suivre convenue si son état s’aggrave d’ici là. Nora propose de mettre une part de soupe dans le plat et de la lui rapporter. Il accepte et promet de lui rendre le plat en passant devant l’école de musique. Lorsqu’elle revient, Timothée a dégagé une place à table.",
+      "mirror": [
+        "En entendant que le dîner devient difficile, Nora peut lui proposer un appui limité. « Tu veux que je reste dans l’entrée pendant que tu appelles, ou tu préfères que je revienne déposer la soupe après ? » Elle peut écouter ce qu’il choisit de lui redire. Le cabinet organise l’évaluation et la suite du contact. Nora peut reprendre sa soirée une fois qu’ils ont convenu de ce qui lui est utile ce soir."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-depression",
+        "oms-depression-reperes"
+      ],
+      "continuity": {
+        "choice": "Timothée contacte son cabinet le jour où il reconnaît l’aggravation. Il accepte un rendez-vous le vendredi matin et un repas apporté par Nora.",
+        "next": "Le lendemain, la docteure reprend le changement et sa portée. Le samedi de l’atelier appelle une décision séparée."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "timothee-aggravation-et-evaluation-episode-depressif",
+      "title": "Quand une aggravation fait poser la question d’un épisode dépressif",
+      "description": "La docteure Rivière reprend ce qui s’est aggravé depuis lundi. Timothée lui demande s’il doit donner un autre nom à ce qu’il traverse.",
+      "context": "Le vendredi matin, lors de la consultation avancée",
+      "topics": [
+        "Aggravation",
+        "Épisode dépressif",
+        "Évaluation clinique"
+      ],
+      "clinical_focus": "Dysthymie et épisode dépressif surajouté",
+      "clinical_intro": "Timothée se demande si sa dysthymie suffit à expliquer le changement qu’il vient de signaler. Une humeur dépressive durable peut traverser des périodes plus difficiles. Un épisode dépressif peut aussi survenir par la suite et demander une évaluation spécifique. La docteure Rivière examine l’ensemble de la situation avant de décider de la suite du suivi avec lui.",
+      "opening": "Dans la salle d’attente, Timothée sort le ticket qu’il garde sous sa carte de bus. C’est celui du magasin de Yacine, qui lui a confirmé l’heure de son passage. Le ticket ne lui apprend rien sur le soir où il a cessé de passer à la boulangerie. Il essaie de retrouver ce soir en pensant aux courses qu’il avait faites avant. Quand la docteure Rivière l’appelle, il dit qu’il croyait pouvoir lui donner une date et qu’il n’en est plus sûr. Elle lui demande ce qu’il ferait d’ordinaire après son service. Il décrit la boulangerie, le banc où il attend parfois le bus, les messages auxquels il arrivait en général à répondre, quitte à les remettre au lendemain.\n\nIls reparlent de ce qui se passe après le service. Timothée raconte qu’il se replie chez lui, peine à dîner et dort par à-coups. Tout lui semble sans issue quand il rentre. La docteure lui demande si, dans ces moments, il a pensé à se faire du mal ou à mourir. Timothée lui répond que non. Quand il dit que tout semble sans issue, il essaie de dire qu’il ne voit pas comment recommencer ainsi ses journées. La docteure lui demande aussi de quelle aide il pourrait avoir besoin tout de suite. Elle vérifie si d’autres changements de santé ou de traitement ont précédé le moment où il a appelé. Timothée peut répondre à certaines questions et dit franchement où il hésite. Le ticket du magasin est encore dans sa poche. Il le laisse là cette fois.\n\n« Est-ce que c’est encore la même chose ? » demande-t-il. Il veut comprendre ce que la docteure cherche et si elle pense qu’il suffit d’attendre. Sur l’écran de son téléphone, le rappel du samedi avec Sacha est encore affiché. Il l’éteint pour continuer la conversation. Il y a deux réponses qu’il aimerait avoir en sortant du cabinet. La première concerne le suivi. La deuxième, il s’en rend compte, c’est lui qui peut la donner à Sacha.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’aggravation et l’épisode sont deux niveaux de description",
+          "text": "Un épisode dépressif peut survenir après l’installation d’une dysthymie. La CIM-11 distingue le fond dépressif durable du tableau clinique qui constitue un épisode. Le professionnel examine la nature des changements, leur intensité, leur durée et leurs conséquences, en les replaçant dans l’histoire de la personne et en recherchant d’autres explications. Un épisode établi peut modifier ce que l’équipe propose. Un changement préoccupant mérite aussi d’être entendu et suivi avant qu’une conclusion soit possible. Dans le cas de Timothée, le bilan du vendredi permet de fixer un nouveau point rapproché, même si la question de l’épisode reste ouverte."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce qui est établi et ce qui reste à examiner",
+          "text": "Timothée sait qu’il a changé sa façon de manger et qu’il a de plus en plus de mal à reprendre ses habitudes après le travail. Il situe ce changement autour de la semaine qui vient de passer sans pouvoir préciser le premier jour. La docteure dispose aussi des échanges précédents pour comparer ce qu’il décrit avec son état habituel. Le fait qu’il aille travailler ne suffit pas à apprécier la gravité de ce qu’il traverse. Elle n’identifie pas d’urgence immédiate dans l’évaluation de ce jour et ne conclut pas à un épisode distinct à ce stade. Elle prend le changement au sérieux."
+        },
+        {
+          "role": "strategies",
+          "heading": "Convenir d’une suite même quand le bilan reste ouvert",
+          "text": "Timothée peut demander ce que l’équipe a compris, ce qu’elle compte réexaminer et à qui s’adresser en cas de nouvelle aggravation. Une date pour le prochain point lui donne un repère utilisable. En cas de danger immédiat, on fait appel aux secours sans attendre la réponse du cabinet. Timothée peut décider séparément de ce qu’il fait pour samedi. Il peut dire à Sacha qu’il doit reporter l’essai et convenir d’un moment pour se redonner des nouvelles. Il choisit lui-même les informations qu’il partage. Un report décidé pour la journée qui vient n’oblige pas à renoncer au projet."
+        }
+      ],
+      "ending_title": "Deux dates qui n’ont pas la même fonction",
+      "ending": "La docteure fixe un point la semaine suivante, vérifie que Timothée a gardé les contacts convenus et lui propose de revoir alors ce qui l’aide ou lui pose problème dans son suivi. Dans la cour, il écrit à Sacha qu’il doit déplacer l’essai de demain. Il propose de reprendre contact en début de semaine, sans promettre une nouvelle date tout de suite. Sacha répond qu’il gardera ses questions et qu’il a besoin d’être prévenu un peu à l’avance pour les samedis où il travaille. Timothée enregistre cette information avec celle qui concerne le prêt du violon.",
+      "mirror": [
+        "Sacha peut répondre au report en indiquant ce qui lui convient, comme il le ferait pour un autre rendez-vous. « D’accord, écris-moi mardi. J’ai besoin d’un peu d’avance pour m’organiser. » Il peut garder ses questions sur le violon ou demander à Nora jusqu’à quand dure le prêt. Il n’a pas besoin de connaître les raisons médicales du report, ni de garder un samedi entier libre tant qu’ils n’ont rien fixé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-cim-6a72",
+        "nice-depression",
+        "has-depression-evaluation",
+        "fr-secours-depression"
+      ],
+      "continuity": {
+        "choice": "L’évaluation ne conclut pas à un épisode distinct à ce stade. Le suivi se rapproche et Timothée reporte l’essai avec une reprise de contact convenue.",
+        "next": "Le mardi, il règle les questions du prêt et d’un nouvel horaire. Nora propose une aide dont il va préciser les limites."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "timothee-aide-choisie-garder-place",
+      "title": "Demander un coup de main et garder sa place dans le projet",
+      "description": "Nora propose de présenter le violon à sa place. Timothée lui demande une aide qu’elle peut lui donner sans prendre la conduite de l’essai.",
+      "context": "Le mardi après le report, dans l’entrée de l’école de musique",
+      "topics": [
+        "Aide choisie",
+        "Confidentialité",
+        "Autonomie"
+      ],
+      "clinical_focus": "Appui choisi et pouvoir de décider",
+      "clinical_intro": "Nora aimerait faciliter la rencontre avec Sacha après le report. Timothée sait que le travail et la dysthymie lui laissent moins d’énergie certains jours, mais il tient à accueillir lui-même son premier élève. Une aide utile peut porter sur la préparation et rester distincte de ce que la personne choisit de faire ou de dire sur sa santé.",
+      "opening": "Au pied de l’escalier de l’école de musique, une rangée de chaussures mouillées barre l’accès au radiateur. Timothée attend que Nora termine son cours pour lui rendre son plat et lui demander combien de temps Sacha peut garder le violon d’étude. Il n’est pas venu dans ce bâtiment depuis une fête de quartier. Ce jour-là, il était resté près de la porte pour regarder les enfants trouver leurs parents. Aujourd’hui, une personne lui demande où est la salle quatre et il peut lui montrer le panneau caché par une affiche.\n\nNora descend avec un dossier d’exercices sous le bras. Elle lui dit que Sacha peut garder le violon encore un mois, jusqu’au cours de groupe où elle en aura besoin. Puis elle propose de commencer la rencontre à sa place la prochaine fois. Elle connaît Sacha et sait comment lui expliquer deux ou trois choses pour qu’il soit à l’aise. Timothée voit tout de suite l’intérêt de cette entrée en matière. Il pense aussi à sa lampe, au temps qu’il veut laisser à Sacha pour répondre et à la question qu’il lui posera avant de regarder l’instrument.\n\nIl a dit à Nora qu’il avait vu la docteure. Elle ne lui a pas demandé ce qu’ils se sont dit et il n’a pas envie de le lui raconter entre deux cours. Il lui parle plutôt de la chaise pliante qu’elle garde à l’école et qu’elle avait proposé de lui apporter pour le premier essai. « Ça me rendrait service que tu m’aides à l’installer. Si tu présentes les choses à ma place, je ne saurai pas bien à quel moment me mettre à parler. »",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Accepter un appui peut laisser les décisions à la personne",
+          "text": "Dans la dépression, une aide choisie peut rendre une activité ou un contact plus accessible. La forme de l’aide dépend du besoin que la personne reconnaît, de son accord et de ce que l’autre peut offrir. On peut demander un geste pratique sans donner d’informations sur son diagnostic. Timothée peut aussi dire ce qu’il souhaite garder sous sa responsabilité. Sacha a sa part dans l’accord. Il décide de sa disponibilité et de ce qu’il voudrait apprendre. Les échanges qui concernent la santé de Timothée gardent leur place dans le suivi et dans les conversations qu’il choisit."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce que Nora voit et ce qu’elle suppose",
+          "text": "Nora a vu Timothée se préparer et a appris qu’il avait déplacé le rendez-vous. Elle propose spontanément de rendre la rencontre plus facile. Timothée s’imagine mal lui dire de partir au milieu d’une explication. Il sait en revanche où il voudrait mettre la chaise de Sacha et pourquoi il a retenu sa première question. Une difficulté à préparer seul chaque détail ne change pas automatiquement ce qu’il veut transmettre. La proposition de Nora révèle un malentendu sur le moment où elle intervient. Elle imagine être là pour accueillir Sacha. Timothée a besoin d’aide seulement avant qu’il arrive."
+        },
+        {
+          "role": "strategies",
+          "heading": "Préciser le geste, l’heure et la personne qui décide",
+          "text": "Ils peuvent convenir du moment où déposer la chaise et vérifier que cela convient à Nora. Timothée peut ensuite fixer lui-même l’horaire avec Sacha en tenant compte de son travail et de la date de retour du violon. Il peut garder une rencontre courte et une façon simple de prévenir si les conditions changent. C’est un accord sur l’atelier, sans demande à Nora de suivre son état. S’il a besoin de reparler de l’aggravation ou de ce qui reste difficile, il dispose de la date convenue avec la docteure et du relais déjà indiqué."
+        }
+      ],
+      "ending_title": "La chaise à déposer avant le cours",
+      "ending": "Nora propose de déposer la chaise avant son premier cours, le samedi qu’ils retiendront. Timothée la remercie et appelle Sacha en sortant de l’école. Ils trouvent un samedi dans un peu moins de trois semaines, avant la fin du prêt, à un horaire où Sacha n’est pas attendu au travail. Il pourra se rendre disponible en sachant que l’essai dure toujours une demi-heure. Timothée envoie l’heure à Nora et ajoute un seul mot, « chaise ». Elle répond avec l’heure à laquelle elle pourra la laisser dans le garage.",
+      "mirror": [
+        "Nora peut préciser son offre quand Timothée demande à garder l’accueil. « Je t’apporte la chaise avant mon cours. Je te laisse voir avec Sacha s’il faut prévoir autre chose. » Elle peut dire si l’heure est trop serrée pour elle. Si quelqu’un lui demande pourquoi le rendez-vous a été déplacé, elle peut renvoyer à leur nouvel accord sur l’horaire. Les détails de la consultation appartiennent à Timothée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-depression",
+        "ameli-depression-soins"
+      ],
+      "continuity": {
+        "choice": "Timothée demande à Nora d’apporter la chaise et garde l’accueil de Sacha. Le nouvel essai est fixé en tenant compte du travail de Sacha et du prêt de l’instrument.",
+        "next": "Il revient au point clinique convenu et précise ce qu’il veut pouvoir discuter dans ses soins, indépendamment de l’atelier."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "timothee-ajuster-suivi-a-sa-vie",
+      "title": "Ajuster le suivi quand les soins aussi demandent de l’énergie",
+      "description": "La docteure Rivière demande à Timothée ce qui l’aide dans le suivi. Il lui montre une contrainte qui l’empêche parfois d’en profiter.",
+      "context": "Le vendredi suivant, lors du point rapproché avec la docteure Rivière",
+      "topics": [
+        "Choix des soins",
+        "Accès au suivi",
+        "Gêne persistante"
+      ],
+      "clinical_focus": "Ajustement partagé du suivi",
+      "clinical_intro": "Timothée vient au rendez-vous même quand ses journées le laissent à court de mots. Dans un suivi de la dysthymie, les effets des soins, la gêne qui reste et les contraintes pour venir comptent dans les décisions. Il demande à reparler du rythme des consultations et de ce que l’équipe pourrait lui proposer si les difficultés continuent à peser.",
+      "opening": "À la fin du service, Timothée trouve deux boutons dans le tambour d’une machine de la résidence. Il les pose sur le rebord où les étudiants viennent chercher leurs affaires perdues. Il manque celui du haut à sa propre blouse depuis des mois. Aucun des deux boutons trouvés n’est de la bonne taille. Dans le bus qui le mène au cabinet, il se demande s’il aura encore la force de dire autre chose que « je viens comme prévu ».\n\nQuand la docteure Rivière lui demande ce qui a bougé cette semaine, il lui dit qu’il mange de nouveau le soir, certains jours. Il ne sait pas si le sommeil a beaucoup changé. Il a pourtant répondu à Yacine et fixé une nouvelle date à Sacha. Il lui reste des retours du travail où il ne trouve plus quoi raconter, même quand il est assis devant quelqu’un qu’il connaît. C’est arrivé chez Maud après une tournée de fin de journée. Elle lui avait demandé un exemple de ce qui lui prenait du temps. Il avait cherché ses mots jusqu’à ce que la conversation passe ailleurs.\n\nLa docteure lui demande s’il veut continuer de voir Maud. « Oui, dit-il. Mais je voudrais pouvoir parler quand j’y suis. » Il sort du sac les horaires de la résidence. Les jours où il prend tôt le premier bus, les entretiens de fin d’après-midi arrivent au bout d’une journée qui lui paraît double. Il montre du doigt un jour où il commence plus tard et où il aurait le temps d’aller au cabinet avant son service. Cette fois, il sait exactement ce qu’il veut lui demander.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le suivi porte aussi sur les conditions dans lesquelles les soins se passent",
+          "text": "Quand des symptômes dépressifs durent, les options de prise en charge se discutent avec la personne en tenant compte de sa gêne, de ses préférences et de ce qui a déjà été essayé. Une psychothérapie peut faire partie de ces options. Un médecin peut aussi discuter d’un traitement antidépresseur, seul ou associé à une psychothérapie, selon la situation. La décision prend en compte les effets attendus, les contraintes et les effets indésirables possibles. Le suivi permet de la revoir. Pour Timothée, la question immédiate est de pouvoir se servir du temps passé avec Maud."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Une présence qui ne dit pas tout de la séance",
+          "text": "Timothée a été à ses rendez-vous. Il remarque qu’il répond d’une manière différente quand il vient après une longue tournée ou quand il a eu du temps pour arriver. Il sait que parler avec Maud l’a déjà aidé à distinguer une question de Sacha et le jugement qui lui venait ensuite. Un autre soir, la fatigue a pris tellement de place qu’il est rentré sans avoir dit ce pour quoi il était venu. Dehors, il a trouvé les mots au moment d’acheter son pain. Pour lui, le coût du trajet et du moment de la journée fait partie de l’expérience du suivi."
+        },
+        {
+          "role": "strategies",
+          "heading": "Dire ce qu’on souhaite poursuivre et ce qu’on veut rediscuter",
+          "text": "Timothée peut parler à la docteure de ce qui reste difficile et demander quelles possibilités elle envisage. Il peut aussi expliquer pourquoi l’horaire actuel est un obstacle et demander à venir à un autre moment à la consultation psychologique. S’il souhaite parler de médicaments, il peut poser ses questions au médecin sur leur place possible, leurs effets et les décisions qui seraient revues au fil du suivi. L’équipe et Timothée peuvent convenir d’un prochain point où l’on reparlera des repas, du sommeil et de ce que lui apportent les séances. Cela laisse de la place aux problèmes qui changent entre deux visites."
+        }
+      ],
+      "ending_title": "Un rendez-vous avant le service",
+      "ending": "Timothée et la docteure conviennent de poursuivre le travail avec Maud et de refaire le point sur les options au rendez-vous suivant. Il lui demande dans quelles circonstances un médicament pourrait être utile. Elle prend le temps de lui expliquer ce qu’ils auraient à peser ensemble. Il veut garder ce sujet ouvert. Une fois dehors, il demande à Maud s’il existe un créneau avant sa tournée du mardi. Elle en propose un. Timothée le confirme et l’inscrit dans son agenda sans déplacer la date avec Sacha. Il écrit à Rémi qu’il sera là à l’heure de sa tournée mardi, et lui demande de noter la consigne sur la feuille s’ils ne se croisent pas avant.",
+      "mirror": [
+        "Quand Timothée lui écrit pour mardi, Rémi peut s’en tenir à ce qui touche la tournée. « Je te laisse la consigne sous le plan. Elle y sera quand tu prendras le relais. » Il peut se mettre d’accord sur la transmission dans la mesure où cela lui convient. Les raisons du rendez-vous et les décisions de soins n’entrent dans la conversation que si Timothée choisit d’en parler."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-depression",
+        "ameli-depression-soins"
+      ],
+      "continuity": {
+        "choice": "Timothée convient avec ses soignantes de poursuivre le travail psychologique à un horaire plus accessible et de revoir les options au prochain point médical.",
+        "next": "Près de trois semaines après avoir refixé l’atelier, il reçoit Sacha. L’accord sur l’horaire, la durée et la chaise est déjà en place."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "timothee-transmettre-meme-si-elan-varie",
+      "title": "Transmettre un savoir quand l’élan et la fatigue varient",
+      "description": "Le jour du premier essai, Timothée prête attention à ce que Sacha entend. Il découvre qu’il peut lui apprendre quelque chose et s’arrêter à l’heure dite.",
+      "context": "Le samedi convenu, pour la première rencontre au garage",
+      "topics": [
+        "Participation",
+        "Plaisir variable",
+        "Limites dans une activité"
+      ],
+      "clinical_focus": "Engagement malgré un élan variable",
+      "clinical_intro": "Timothée entend la question de Sacha et s’y intéresse, puis sent son attention baisser vers la fin de la séance. Dans la dysthymie, les ressources et les difficultés peuvent apparaître au cours de la même activité. La première leçon trouve son sens dans ce que les deux hommes apprennent et dans la durée qu’ils ont choisie ensemble.",
+      "opening": "La chaise pliante est arrivée avant la première sonnerie, avec un morceau de feutre coincé sous un pied. Nora a laissé un mot : « Celui-ci claque sur le carrelage. » Timothée déplie la chaise, la pose à l’endroit essayé avec elle et dégage le passage jusqu’à la porte. Il s’assoit à son tour pour voir ce que la lampe éclaire. Il n’est pas heureux de se lever ce matin. Au moment d’ouvrir le garage, il se sent capable d’accueillir quelqu’un et peu capable de parler longtemps. Ils ont convenu d’une demi-heure. L’horloge de cuisine est assez près pour qu’il voie l’heure depuis son tabouret.\n\nSacha arrive avec l’étui serré sous un bras et un bout de papier dans la main. Il a écrit que la corde de ré lui paraît quelquefois accompagnée d’un bruit plus bas. Timothée avait préparé une façon de présenter le chevalet. Il commence par lui demander quand il entend le bruit. Sacha hésite, puis dit qu’il aimerait d’abord le faire entendre. Il joue quelques notes. Ils échangent leurs places. Timothée prend à son tour le violon et joue quelques notes à la demande de Sacha. De la chaise, Sacha écoute et montre du doigt l’endroit d’où il croit que ça vient. Timothée a envie de savoir ce qu’il va désigner ensuite.\n\nSacha regarde l’ombre sous le chevalet et demande s’ils vont régler ça maintenant. Timothée ne saurait pas dire si l’ombre a le moindre rapport avec le bruit. Il sort de la fente de l’établi la photo qu’il avait donnée à Nora. Avant d’envisager un réglage sur le violon d’étude, il propose à Sacha de vérifier si le bruit se répète quand il joue deux fois la même note. Quand Sacha lui pose une autre question, Timothée a besoin de l’entendre deux fois. Il voit les aiguilles et se rappelle qu’ils ont encore cinq minutes.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Une activité peut mobiliser des ressources et rester coûteuse",
+          "text": "Un trouble dépressif durable peut peser sur l’énergie et le plaisir sans rendre toutes les activités également difficiles. Une personne peut s’intéresser à un échange et avoir besoin de s’arrêter peu après. Cela ne renseigne pas, à lui seul, sur la progression du trouble. Dans la vie quotidienne, une limite convenue à l’avance peut donner à la personne une façon de participer en tenant compte de ses ressources du moment. Pendant cette rencontre, Sacha apprend à regarder et à écouter autrement son instrument. L’évolution de la santé de Timothée se discute ailleurs, sur d’autres observations."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Sacha écoute et Timothée sent la fin approcher",
+          "text": "Sacha voit Timothée comparer deux points de vue et lui faire de la place pour essayer. Timothée éprouve un intérêt précis quand son élève indique lui-même l’endroit où il cherche le bruit. Vers la fin, ses réponses ralentissent et il perd le début d’une question. Il ne sait pas quelle part tient à la fatigue, au silence qu’il voulait laisser ou à la concentration que lui a demandée la séance. Il sait qu’il ne souhaite pas entamer un autre sujet. Ce qui l’a intéressé et ce qui a fini par lui coûter font partie de ce même rendez-vous."
+        },
+        {
+          "role": "strategies",
+          "heading": "Donner à la rencontre sa propre mesure",
+          "text": "Les deux hommes peuvent terminer sur une comparaison dont Sacha pourra se souvenir. Timothée peut demander à l’élève ce qu’il a repéré, puis tenir la durée qu’ils s’étaient donnée. Une question encore ouverte peut être mise de côté ou confiée à un luthier s’il faut examiner l’instrument. Timothée n’a pas à évaluer tout son projet sur les cinq dernières minutes de l’essai. Il peut prendre le temps de reparler de l’atelier avec Sacha et, s’il choisit d’en parler à ses soignantes, raconter aussi ce que la rencontre lui a demandé."
+        }
+      ],
+      "ending_title": "Un point d’interrogation à côté de la corde",
+      "ending": "À l’heure dite, Timothée demande à Sacha ce qu’il a remarqué. Sacha répond que le bruit ne lui paraît plus venir du même endroit quand il écoute à côté de l’instrument. Il dessine deux chaises et un point d’interrogation sur son papier. « Je vais refaire écouter ça à Nora en cours avant de demander au luthier. On pourrait se revoir après ? » Timothée dit qu’il lui répondra le lendemain. Quand Sacha referme l’étui, Timothée attend un instant avant de replier la chaise. Il a aimé regarder le crayon de Sacha s’arrêter entre les deux chaises. Le garage lui paraît soudain très silencieux.",
+      "mirror": [
+        "Sacha peut dire précisément ce qu’il a emporté de l’essai. « J’ai compris que j’entendais autre chose depuis ta chaise. Si tu es d’accord pour une autre fois, je te dirai ce que Nora a entendu. » Il peut poser sa question et partir à l’heure prévue. Son retour porte sur l’apprentissage. Il n’a ni à rassurer Timothée sur son humeur ni à demander d’emblée des rencontres régulières."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oms-depression-reperes",
+        "nice-depression"
+      ],
+      "continuity": {
+        "choice": "Timothée accueille et guide son premier élève, puis termine à l’heure convenue. Sacha repart avec une observation, un relais de métier si le bruit doit être examiné et une demande pour un second rendez-vous.",
+        "next": "Le lendemain, Timothée donne une suite à la demande. Il réunit aussi des éléments à rapporter au prochain point clinique."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "timothee-faire-le-point-au-dela-bonne-seance",
+      "title": "Faire le point au-delà d’une bonne séance",
+      "description": "Au lendemain de l’atelier, Timothée se sent encore lourd. Il prépare son prochain point de suivi et sa réponse à Sacha.",
+      "context": "Le dimanche matin, à la table de la cuisine, puis devant le garage",
+      "topics": [
+        "Évolution du quotidien",
+        "Suivi dans la durée",
+        "Projet révisable"
+      ],
+      "clinical_focus": "Repères personnels pour le suivi",
+      "clinical_intro": "Le lendemain du premier essai, Timothée ne ressent pas le soulagement qu’il aurait aimé retrouver au réveil. La dysthymie s’apprécie sur la durée et sur plusieurs aspects de la vie. Il peut prendre au sérieux ce qui reste lourd, reconnaître les décisions devenues plus faciles et choisir s’il veut revoir Sacha pour une raison qui tient à l’atelier lui-même.",
+      "opening": "Sur la table de la cuisine, le manche de la petite cuillère colle au bord d’un rond de café. Timothée tire la soucoupe vers lui et le bruit lui rappelle celui du pied de chaise sur le carrelage. Il revoit Sacha faire son dessin, avec un trait de travers pour la première chaise et un grand carré pour la seconde. Il se souvient aussi de s’être assis un moment après son départ. Ce matin, il reste devant sa tasse avec la même impression que la semaine précédente. Il voit ce qu’il y aurait à faire dans la pièce et attend de savoir par quoi commencer.\n\nIl a promis de répondre à Sacha aujourd’hui. Il a aussi un point prévu avec la docteure Rivière. L’espace entre les deux rendez-vous lui paraît d’abord assez vide pour écrire « pareil » sur un papier et en rester là. Il va chercher dans son manteau le ticket de Yacine. À force de le plier, il a presque effacé « deux écoutes ». Il se rappelle pourtant que le jeudi du magasin, c’était surtout le contraste entre deux moments qui comptait. Il trouve un stylo et ouvre une enveloppe par le côté pour écrire au dos.\n\nIl aimerait pouvoir dire que le violon lui a donné de l’énergie pour toute la journée. Ça n’a pas été le cas. Au premier rendez-vous avec Maud avant sa tournée, il a pu revenir sur un échange qu’il n’arrivait pas à lui raconter après le travail. Il sait maintenant comment reprendre contact avec le cabinet avant le point prévu s’il s’inquiète de nouveau. Quant à Sacha, il a encore envie de savoir ce qu’il écoutera la prochaine fois. Timothée met ces trois choses sur des lignes séparées.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Le suivi se construit sur plusieurs repères",
+          "text": "Avec des symptômes dépressifs durables, les changements de fonctionnement et les changements d’humeur ne vont pas toujours au même rythme. Le suivi peut porter sur l’énergie, la gêne dans la vie courante, la possibilité de demander de l’aide et ce que la personne souhaite faire. Un atelier réussi apporte une information sur ce qu’elle a pu faire dans ces conditions. Un lendemain difficile en apporte une autre. Il est utile de parler des deux avec l’équipe, ainsi que de ce que la personne attend encore de ses soins. Timothée n’a pas besoin de réduire son expérience au mot « mieux »."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce qui a changé et ce qui demande encore de l’aide",
+          "text": "Timothée peut décrire la gêne du dimanche sans avoir à effacer le plaisir bref de la veille. Dans le cabinet de Maud, il a réussi à poser une question qu’il ramenait souvent chez lui sans la dire. À la résidence, il a toujours besoin de reprendre son souffle avant certains passages de consignes. Il remarque aussi que les repas ne lui demandent pas chaque jour le même effort. Le nouvel horaire lui permet de parler plus facilement en séance. Au prochain point, il veut encore discuter du coût des journées de travail. Il a aussi une question d’atelier à poser à Sacha."
+        },
+        {
+          "role": "strategies",
+          "heading": "Fixer la suite en tenant compte de chaque accord",
+          "text": "Timothée peut apporter les quelques lignes à son prochain rendez-vous et demander avec ses soignantes si le suivi répond à ce qui lui importe. Le contact convenu reste disponible si le retrait ou le coût des gestes courants l’inquiètent de nouveau. Pour Sacha, la réponse peut porter sur le sujet qu’ils veulent reprendre et sur la date qui leur convient à tous deux. Ils peuvent s’accorder sur un deuxième essai sans s’engager pour d’autres. Timothée peut garder des moments de garage où il ne montre rien à personne."
+        }
+      ],
+      "ending_title": "Un samedi de plus sur le calendrier",
+      "ending": "Timothée écrit à Sacha qu’il veut bien le revoir une fois. Le violon d’étude sera retourné à Nora d’ici là. Ils pourront comparer l’ancien de Timothée avec les notes que Sacha aura prises en cours. Sacha répond qu’il viendra avec son dessin et qu’il est libre le samedi proposé, deux semaines plus tard. Timothée inscrit l’heure et garde son rendez-vous au cabinet sur une autre ligne. Nora passe devant le garage au moment où il remet le feutre sous le pied de la chaise. Il lui raconte le dessin de Sacha et lui dit que ce matin lui paraît lourd. Elle lui laisse la chaise jusqu’à la prochaine rencontre. Au fond du garage, il a laissé un vieil étui qu’il aimerait finir de recoller pour lui. Il l’ouvre pour voir où il en était et le laisse ouvert. Pour ce matin, il ira d’abord refaire du café.",
+      "mirror": [
+        "Quand Timothée parle du lendemain lourd à Nora, elle peut lui laisser de la place pour raconter aussi l’atelier. « Tu m’as dit que ça t’a plu de l’entendre comparer les deux places et que ce matin est difficile. Tu veux me raconter l’un ou l’autre ? » Elle peut écouter si elle en a le temps, ou proposer un autre moment. Son rôle dans le prêt du violon reste distinct de la conversation et du suivi de Timothée."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-depression",
+        "ameli-depression-soins"
+      ],
+      "continuity": {
+        "choice": "Timothée convient avec Sacha d’une deuxième rencontre, garde le prochain point clinique et prépare des observations distinctes sur l’effort, le plaisir et l’accès aux soins.",
+        "next": "L’enjeu du premier élève est résolu. L’atelier reste une activité que Timothée peut choisir et les soins se poursuivent à leur rythme."
+      }
+    }
+  ]
+}

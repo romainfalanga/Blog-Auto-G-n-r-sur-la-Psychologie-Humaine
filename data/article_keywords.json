@@ -6253,6 +6253,462 @@
     "tone": "récit fictif et explications pédagogiques",
     "resources": []
   },
+  "posts/comprendre-et-maitriser-ses-emotions/elina-activite-qui-a-du-sens": {
+    "character": "Élina",
+    "character_id": "elina",
+    "keywords": [
+      "Activité qui a du sens",
+      "Attention au présent",
+      "Choix d’une contribution"
+    ],
+    "character_keywords": [
+      "Trouble de l’adaptation",
+      "Préoccupations autour du changement",
+      "Retentissement sur le quotidien",
+      "Perte de routines et d’appuis",
+      "Reprise d’activité choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "abd1cb48bf06fd52e84d6e324954b1c5ee54c0b0ecc49b539c53a9024c4620fa",
+    "summary": "Jo a glissé l’épreuve dans la boîte aux lettres d’Élina. Il a plié la feuille pour qu’on voie le titre avant de l’ouvrir. Pendant des jours, elle a essayé d’imaginer ce que lui ferait le nom Les Nouvelles de la Halle imprimé de nouveau. À présent elle le lit et ne ressent pas grand-chose. La dernière publication de son ancien bureau est encore ouverte sur l’ordinateur. Elle avait voulu vérifier une date avant de dormir. Elle n’a pas rallumé l’écran ce matin, mais elle revoit l’endroit où la date figure, en haut de la page.\n\n[…]\n\nMireille confirme qu’elle peut annoncer les besoins de l’association au tableau habituel. Jo enlève le petit appel, grossit les horaires et place l’indication du banc sous le titre. Élina lui demande de laisser la phrase de Farida d’un seul tenant. Le lendemain à midi, au local de l’association, Jo leur montre le nouveau pli. Élina relit la citation. Mireille confirme les horaires et l’emplacement. Jo lance les quarante exemplaires. Élina prend un feuillet d’épreuve pour le montrer à Farida samedi. Une fois rentrée, elle ferme l’onglet de la publication du bureau et ouvre le courrier qu’elle avait laissé dans l’entrée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Jo a glissé l’épreuve dans la boîte aux lettres d’Élina. Il a plié la feuille pour qu’on voie le titre avant de l’ouvrir. Pendant des jours, elle a essayé d’imaginer ce que lui ferait le nom Les Nouvelles de la Halle imprimé de nouveau. À présent elle le lit et ne ressent pas grand-chose. La dernière publication de son ancien bureau est encore ouverte sur l’ordinateur. Elle avait voulu vérifier une date avant de dormir. Elle n’a pas rallumé l’écran ce matin, mais elle revoit l’endroit où la date figure, en haut de la page.",
+        "start": 2,
+        "end": 530
+      },
+      {
+        "quote": "Mireille confirme qu’elle peut annoncer les besoins de l’association au tableau habituel. Jo enlève le petit appel, grossit les horaires et place l’indication du banc sous le titre. Élina lui demande de laisser la phrase de Farida d’un seul tenant. Le lendemain à midi, au local de l’association, Jo leur montre le nouveau pli. Élina relit la citation. Mireille confirme les horaires et l’emplacement. Jo lance les quarante exemplaires. Élina prend un feuillet d’épreuve pour le montrer à Farida samedi. Une fois rentrée, elle ferme l’onglet de la publication du bureau et ouvre le courrier qu’elle avait laissé dans l’entrée.",
+        "start": 3322,
+        "end": 3948
+      }
+    ],
+    "canonical_concept": "Action choisie malgré la préoccupation",
+    "context": "Le mercredi matin, devant l’épreuve de Jo",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B43",
+    "clinical_diagnosis": "Trouble de l’adaptation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/elina-changement-choisi-reperes-perdus": {
+    "character": "Élina",
+    "character_id": "elina",
+    "keywords": [
+      "Changement choisi",
+      "Perte de repères",
+      "Retentissement quotidien"
+    ],
+    "character_keywords": [
+      "Trouble de l’adaptation",
+      "Préoccupations autour du changement",
+      "Retentissement sur le quotidien",
+      "Perte de routines et d’appuis",
+      "Reprise d’activité choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "2027c87f6daafb556c9f906bd0272147024aed72b60e28a753ae323ac4531125",
+    "summary": "« Je vous le garde jusqu’à onze heures, le pain aux noix. » La boulangère fait glisser le sachet sous le comptoir. Élina a le temps de trouver le panneau où sont affichées les annonces de la halle. Elle voudrait savoir où déposer un petit meuble dont elle n’a plus besoin. Il bloque l’ouverture d’un placard dans son nouvel appartement. Sur le panneau, entre deux publicités de cours de danse, quelqu’un a épinglé un journal plié en quatre. En soulevant le coin du papier, elle reconnaît le plaisir très précis de voir une page entière avant de lire une ligne.\n\n[…]\n\nLa boulangère avait gardé le pain sous le comptoir. Pendant qu’elle compte la monnaie, Mireille vient lui dire que le journal s’appelait Les Nouvelles de la Halle. L’association aimerait le ressortir. Il faudrait commencer par lire un ancien numéro. Élina demande à emporter celui qu’elle tient et propose de répondre lundi. Lucien lui indique l’atelier de réemploi pour le meuble et l’invite à boire un café le lendemain. Chez elle, elle sort un justificatif pour le formulaire. Elle lit son ancienne adresse deux fois avant de poser le pain à côté de la feuille.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "« Je vous le garde jusqu’à onze heures, le pain aux noix. » La boulangère fait glisser le sachet sous le comptoir. Élina a le temps de trouver le panneau où sont affichées les annonces de la halle. Elle voudrait savoir où déposer un petit meuble dont elle n’a plus besoin. Il bloque l’ouverture d’un placard dans son nouvel appartement. Sur le panneau, entre deux publicités de cours de danse, quelqu’un a épinglé un journal plié en quatre. En soulevant le coin du papier, elle reconnaît le plaisir très précis de voir une page entière avant de lire une ligne.",
+        "start": 2,
+        "end": 562
+      },
+      {
+        "quote": "La boulangère avait gardé le pain sous le comptoir. Pendant qu’elle compte la monnaie, Mireille vient lui dire que le journal s’appelait Les Nouvelles de la Halle. L’association aimerait le ressortir. Il faudrait commencer par lire un ancien numéro. Élina demande à emporter celui qu’elle tient et propose de répondre lundi. Lucien lui indique l’atelier de réemploi pour le meuble et l’invite à boire un café le lendemain. Chez elle, elle sort un justificatif pour le formulaire. Elle lit son ancienne adresse deux fois avant de poser le pain à côté de la feuille.",
+        "start": 3610,
+        "end": 4174
+      }
+    ],
+    "canonical_concept": "Perte simultanée de repères",
+    "context": "Un samedi matin à la halle des Tilleuls",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B43",
+    "clinical_diagnosis": "Trouble de l’adaptation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/elina-demander-relais-et-confidentialite": {
+    "character": "Élina",
+    "character_id": "elina",
+    "keywords": [
+      "Soutien concret",
+      "Vie privée",
+      "Rôles partagés"
+    ],
+    "character_keywords": [
+      "Trouble de l’adaptation",
+      "Préoccupations autour du changement",
+      "Retentissement sur le quotidien",
+      "Perte de routines et d’appuis",
+      "Reprise d’activité choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "cfdc72568e5c04a1fad55e43037f96ea9173f184c850b30dae69751fc705246c",
+    "summary": "« Quarante, ça me semble un bon début. » Jo pose sur la table un paquet de papier presque vide pour donner une idée de l’épaisseur. Mireille a recopié les horaires sur une bande. Élina rapproche la bande du texte du pot et imagine la feuille pliée, avec le nom de la halle au bord. Le dimanche, elle a parlé avec Yasmine. Elles ont comparé les arbres devant leurs fenêtres, et au moment de raccrocher Élina lui a demandé si elle avait trouvé le papier crème. Quelqu’un du bureau s’en était occupé. Elle n’a pas demandé qui.\n\n[…]\n\n« Je n’ai rien d’autre, mais je ne prends pas deux heures de permanence », dit Élina. Mireille regarde la case et propose d’y écrire son nom pour recueillir elle-même les remarques. Jo note qu’il peut imprimer quarante exemplaires si la page est prête jeudi, deux jours avant la distribution. Élina relira l’épreuve et passera à la table pour un moment dont elle précisera l’heure. Ils décident de laisser le reste du tirage au local après la permanence. Élina glisse le carnet dans son sac. Elle a dit ce qui changeait l’organisation sans avoir à l’ouvrir.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "« Quarante, ça me semble un bon début. » Jo pose sur la table un paquet de papier presque vide pour donner une idée de l’épaisseur. Mireille a recopié les horaires sur une bande. Élina rapproche la bande du texte du pot et imagine la feuille pliée, avec le nom de la halle au bord. Le dimanche, elle a parlé avec Yasmine. Elles ont comparé les arbres devant leurs fenêtres, et au moment de raccrocher Élina lui a demandé si elle avait trouvé le papier crème. Quelqu’un du bureau s’en était occupé. Elle n’a pas demandé qui.",
+        "start": 2,
+        "end": 525
+      },
+      {
+        "quote": "« Je n’ai rien d’autre, mais je ne prends pas deux heures de permanence », dit Élina. Mireille regarde la case et propose d’y écrire son nom pour recueillir elle-même les remarques. Jo note qu’il peut imprimer quarante exemplaires si la page est prête jeudi, deux jours avant la distribution. Élina relira l’épreuve et passera à la table pour un moment dont elle précisera l’heure. Ils décident de laisser le reste du tirage au local après la permanence. Élina glisse le carnet dans son sac. Elle a dit ce qui changeait l’organisation sans avoir à l’ouvrir.",
+        "start": 3327,
+        "end": 3884
+      }
+    ],
+    "canonical_concept": "Soutien pratique et choix de confidentialité",
+    "context": "Le mardi, pendant une réunion de l’association",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B43",
+    "clinical_diagnosis": "Trouble de l’adaptation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/elina-effort-invisible-tache-familiere": {
+    "character": "Élina",
+    "character_id": "elina",
+    "keywords": [
+      "Effort supplémentaire",
+      "Attention mobilisée",
+      "Répartition du travail"
+    ],
+    "character_keywords": [
+      "Trouble de l’adaptation",
+      "Préoccupations autour du changement",
+      "Retentissement sur le quotidien",
+      "Perte de routines et d’appuis",
+      "Reprise d’activité choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "025243156d6addfdec19e9652646177e199f92c740951d3921096187d93756f7",
+    "summary": "Farida enfonce son pouce dans une encoche au bord du pot. « Ça, c’était déjà là chez ma mère. On savait de quel côté le prendre. » Elle tient à cette précision parce que les gens croient souvent que le bleu et l’ébréchure viennent du marché. Élina note la phrase comme elle l’a entendue. Elle voudrait commencer son article par le pouce, puis expliquer pourquoi le pot reste dehors alors que la vaisselle de Farida rentre sous l’étal. Elles conviennent qu’Élina apportera le texte à lire. Avant de partir, Élina achète un bouquet de persil dont elle a oublié le prix au moment de compter sa monnaie. Farida lui remet le bon compte en souriant.\n\n[…]\n\nElle renomme le fichier « pot-bleu-essai » et l’envoie. « Celui-ci m’a pris la soirée. Je veux bien qu’on le lise à voix haute samedi. Je ne prends pas un deuxième texte. » Mireille répond que la place laissée libre peut servir aux horaires. Élina reporte dans le carnet la relecture par Farida, qu’elle ne veut pas oublier dans la discussion sur la mise en page. En rinçant le persil, elle pense au nouveau nom dans la publication du bureau et ne sait toujours pas pourquoi elle l’a cherché. Elle en met une partie dans son assiette et range le reste dans un verre d’eau.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Farida enfonce son pouce dans une encoche au bord du pot. « Ça, c’était déjà là chez ma mère. On savait de quel côté le prendre. » Elle tient à cette précision parce que les gens croient souvent que le bleu et l’ébréchure viennent du marché. Élina note la phrase comme elle l’a entendue. Elle voudrait commencer son article par le pouce, puis expliquer pourquoi le pot reste dehors alors que la vaisselle de Farida rentre sous l’étal. Elles conviennent qu’Élina apportera le texte à lire. Avant de partir, Élina achète un bouquet de persil dont elle a oublié le prix au moment de compter sa monnaie. Farida lui remet le bon compte en souriant.",
+        "start": 2,
+        "end": 645
+      },
+      {
+        "quote": "Elle renomme le fichier « pot-bleu-essai » et l’envoie. « Celui-ci m’a pris la soirée. Je veux bien qu’on le lise à voix haute samedi. Je ne prends pas un deuxième texte. » Mireille répond que la place laissée libre peut servir aux horaires. Élina reporte dans le carnet la relecture par Farida, qu’elle ne veut pas oublier dans la discussion sur la mise en page. En rinçant le persil, elle pense au nouveau nom dans la publication du bureau et ne sait toujours pas pourquoi elle l’a cherché. Elle en met une partie dans son assiette et range le reste dans un verre d’eau.",
+        "start": 3564,
+        "end": 4136
+      }
+    ],
+    "canonical_concept": "Effort invisible dans une tâche familière",
+    "context": "Du mardi matin au mercredi soir, entre l’étal de Farida et l’appartement",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B43",
+    "clinical_diagnosis": "Trouble de l’adaptation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/elina-evaluation-apres-transition": {
+    "character": "Élina",
+    "character_id": "elina",
+    "keywords": [
+      "Évaluation clinique",
+      "Contexte du changement",
+      "Autres explications possibles"
+    ],
+    "character_keywords": [
+      "Trouble de l’adaptation",
+      "Préoccupations autour du changement",
+      "Retentissement sur le quotidien",
+      "Perte de routines et d’appuis",
+      "Reprise d’activité choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f490f8dca507327256051b8319ac302eafa9633f3d98204b210983fffec9f2cf",
+    "summary": "Dans la salle d’attente, Élina se demande si « café manqué » fait un motif suffisant pour prendre la chaise d’une personne qui a plus mal. Sur le morceau de papier arraché au journal, le mot « adresse » se trouve juste à côté du prix d’une botte de radis. Elle plie ce bout-là à l’intérieur. Quand la docteure Roussel vient la chercher, Élina commence par dire qu’elle a déménagé depuis peu. À la question « Qu’est-ce qui vous a amenée aujourd’hui ? », elle répond qu’elle voudrait savoir pourquoi le temps qu’elle a enfin devant elle ne lui sert pas à faire les choses.\n\n[…]\n\nLa docteure Roussel lui explique qu’elle retient un trouble de l’adaptation après leur entretien. Dans la situation d’Élina, les pensées qui reviennent restent liées au départ et à ses suites, et la gêne se retrouve dans plusieurs moments de sa semaine. Elle propose de se revoir dans trois semaines pour faire le point et de discuter d’un accompagnement psychologique, plus tôt si Élina en éprouve le besoin. Élina prend la date et demande comment joindre le cabinet si elle dort de moins en moins ou si les journées deviennent plus difficiles. La docteure note le numéro sur un carton. À Lucien, elle envoie un merci pour l’adresse et demande s’il passe par la halle samedi. Le lendemain, elle confirme à Mireille qu’elle viendra lire une page. Elle ne lui parle pas de la consultation.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Dans la salle d’attente, Élina se demande si « café manqué » fait un motif suffisant pour prendre la chaise d’une personne qui a plus mal. Sur le morceau de papier arraché au journal, le mot « adresse » se trouve juste à côté du prix d’une botte de radis. Elle plie ce bout-là à l’intérieur. Quand la docteure Roussel vient la chercher, Élina commence par dire qu’elle a déménagé depuis peu. À la question « Qu’est-ce qui vous a amenée aujourd’hui ? », elle répond qu’elle voudrait savoir pourquoi le temps qu’elle a enfin devant elle ne lui sert pas à faire les choses.",
+        "start": 2,
+        "end": 572
+      },
+      {
+        "quote": "La docteure Roussel lui explique qu’elle retient un trouble de l’adaptation après leur entretien. Dans la situation d’Élina, les pensées qui reviennent restent liées au départ et à ses suites, et la gêne se retrouve dans plusieurs moments de sa semaine. Elle propose de se revoir dans trois semaines pour faire le point et de discuter d’un accompagnement psychologique, plus tôt si Élina en éprouve le besoin. Élina prend la date et demande comment joindre le cabinet si elle dort de moins en moins ou si les journées deviennent plus difficiles. La docteure note le numéro sur un carton. À Lucien, elle envoie un merci pour l’adresse et demande s’il passe par la halle samedi. Le lendemain, elle confirme à Mireille qu’elle viendra lire une page. Elle ne lui parle pas de la consultation.",
+        "start": 3681,
+        "end": 4469
+      }
+    ],
+    "canonical_concept": "Évaluation après un changement de vie",
+    "context": "Le mercredi, au cabinet de la docteure Roussel",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B43",
+    "clinical_diagnosis": "Trouble de l’adaptation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/elina-faire-le-point-sans-date-de-guerison": {
+    "character": "Élina",
+    "character_id": "elina",
+    "keywords": [
+      "Évolution variable",
+      "Répartition durable",
+      "Suivi poursuivi"
+    ],
+    "character_keywords": [
+      "Trouble de l’adaptation",
+      "Préoccupations autour du changement",
+      "Retentissement sur le quotidien",
+      "Perte de routines et d’appuis",
+      "Reprise d’activité choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "5fd9d7c013e47ef01e3e14164e633fc00d80252003cf9dcdd1389feef5f56b81",
+    "summary": "Farida a laissé un exemplaire sous le pot bleu pour que le papier ne s’envole pas. Les autres sont partis. Mireille soulève le bord de la feuille et retire trois bouts de papier. Une personne voudrait les jours d’ouverture de l’atelier de réemploi. Une autre propose un dessin du banc. Sur le troisième, quelqu’un a écrit « l’encoche, je l’ai cherchée » avec un trait dessous. Farida touche le bord du pot pour montrer l’endroit à Jo. Élina l’écoute expliquer de quel côté sa mère le prenait. Il y a des détails qu’elle n’aurait pas su raconter si elle était restée à sa table.\n\n[…]\n\nÉlina propose un deuxième essai le mois suivant, au même format, si les rôles sont couverts. Mireille s’engage sur les horaires. Jo réserve un créneau, et Farida accepte de garder quelques feuillets au comptoir si la permanence se fait à nouveau à l’entrée. Ils annonceront une date quand la page sera prête. Élina choisit le dessin et quelques lignes sur l’atelier. Sur le chemin du retour, elle fait un détour par l’atelier pour voir de quel côté la porte s’ouvre. Son prochain rendez-vous avec la docteure est déjà noté, sur une autre page du carnet.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Farida a laissé un exemplaire sous le pot bleu pour que le papier ne s’envole pas. Les autres sont partis. Mireille soulève le bord de la feuille et retire trois bouts de papier. Une personne voudrait les jours d’ouverture de l’atelier de réemploi. Une autre propose un dessin du banc. Sur le troisième, quelqu’un a écrit « l’encoche, je l’ai cherchée » avec un trait dessous. Farida touche le bord du pot pour montrer l’endroit à Jo. Élina l’écoute expliquer de quel côté sa mère le prenait. Il y a des détails qu’elle n’aurait pas su raconter si elle était restée à sa table.",
+        "start": 2,
+        "end": 579
+      },
+      {
+        "quote": "Élina propose un deuxième essai le mois suivant, au même format, si les rôles sont couverts. Mireille s’engage sur les horaires. Jo réserve un créneau, et Farida accepte de garder quelques feuillets au comptoir si la permanence se fait à nouveau à l’entrée. Ils annonceront une date quand la page sera prête. Élina choisit le dessin et quelques lignes sur l’atelier. Sur le chemin du retour, elle fait un détour par l’atelier pour voir de quel côté la porte s’ouvre. Son prochain rendez-vous avec la docteure est déjà noté, sur une autre page du carnet.",
+        "start": 3435,
+        "end": 3988
+      }
+    ],
+    "canonical_concept": "Bilan sans calendrier de guérison",
+    "context": "Une semaine après le tirage, autour du banc de la halle",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B43",
+    "clinical_diagnosis": "Trouble de l’adaptation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/elina-imprevu-et-retour-des-difficultes": {
+    "character": "Élina",
+    "character_id": "elina",
+    "keywords": [
+      "Imprévu réel",
+      "Retour des préoccupations",
+      "Reprise de contact"
+    ],
+    "character_keywords": [
+      "Trouble de l’adaptation",
+      "Préoccupations autour du changement",
+      "Retentissement sur le quotidien",
+      "Perte de routines et d’appuis",
+      "Reprise d’activité choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "5fd8885f1f9f8c753bfbf3b40903a7a76e24b3dd3f642721b1169fb75e975212",
+    "summary": "Le message de Mireille arrive le dimanche soir. La mairie a déplacé une réunion dans le local à l’heure où elles comptaient installer la table de distribution. Le message se termine par une question : « Je peux demander pour ailleurs, on se parle demain ? » Élina ouvre le document où elles ont écrit les rôles. C’est la première fois depuis son déménagement qu’une feuille porte son prénom dans un projet de la ville. Elle voit que Mireille a mis « local » en gras, et l’idée lui vient que toute la réunion de mardi n’a servi à rien.\n\n[…]\n\nÉlina demande à Mireille de vérifier si la table peut aller près de l’entrée. Elles conviennent de ne pas lancer l’impression avant l’accord et de prévenir Jo, même si elles n’ont qu’une réponse provisoire. Élina appelle le cabinet et dit qu’elle voudrait parler plus tôt de ses nuits et de la difficulté à tenir ses matinées. On lui propose un créneau le mardi en fin de journée, à la place du mercredi. Après avoir raccroché, elle choisit une autre heure de rappel auprès de sa banque et la note au dos du carton du cabinet.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le message de Mireille arrive le dimanche soir. La mairie a déplacé une réunion dans le local à l’heure où elles comptaient installer la table de distribution. Le message se termine par une question : « Je peux demander pour ailleurs, on se parle demain ? » Élina ouvre le document où elles ont écrit les rôles. C’est la première fois depuis son déménagement qu’une feuille porte son prénom dans un projet de la ville. Elle voit que Mireille a mis « local » en gras, et l’idée lui vient que toute la réunion de mardi n’a servi à rien.",
+        "start": 2,
+        "end": 536
+      },
+      {
+        "quote": "Élina demande à Mireille de vérifier si la table peut aller près de l’entrée. Elles conviennent de ne pas lancer l’impression avant l’accord et de prévenir Jo, même si elles n’ont qu’une réponse provisoire. Élina appelle le cabinet et dit qu’elle voudrait parler plus tôt de ses nuits et de la difficulté à tenir ses matinées. On lui propose un créneau le mardi en fin de journée, à la place du mercredi. Après avoir raccroché, elle choisit une autre heure de rappel auprès de sa banque et la note au dos du carton du cabinet.",
+        "start": 3503,
+        "end": 4029
+      }
+    ],
+    "canonical_concept": "Variation des difficultés après un imprévu",
+    "context": "Le lundi avant le tirage, depuis l’appartement",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B43",
+    "clinical_diagnosis": "Trouble de l’adaptation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/elina-lien-social-presence-limitee": {
+    "character": "Élina",
+    "character_id": "elina",
+    "keywords": [
+      "Participation sociale",
+      "Présence choisie",
+      "Relais explicite"
+    ],
+    "character_keywords": [
+      "Trouble de l’adaptation",
+      "Préoccupations autour du changement",
+      "Retentissement sur le quotidien",
+      "Perte de routines et d’appuis",
+      "Reprise d’activité choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "1b2ad00517b29c479f014cf02120df93a7e5511a20a3f3b11d9ecd9f6102fc22",
+    "summary": "À neuf heures quarante-cinq, Mireille a déjà sorti la moitié du paquet. Le panneau penche un peu et un coin du journal se relève avec le courant d’air. Élina lui avait annoncé la veille qu’elle passerait de dix heures à dix heures et demie. Elle est venue plus tôt pour remettre l’épreuve à Farida. À l’étal, Farida ouvre la feuille et approche un instant le papier du pot. « En photo, on aurait dit qu’il est vert. Ça me plaît que tu l’aies décrit. » Élina sourit. Il lui a fallu longtemps pour trouver un mot pour ce bleu.\n\n[…]\n\n« Pour le prochain, demandez à Mireille, on commence avec celui-ci. » Élina dit au revoir à dix heures et demie. Mireille lui fait un signe et continue d’écouter la dame. Farida lui propose de garder les exemplaires qui resteront après la permanence, jusqu’au samedi suivant, avec quelques mots de lecteurs glissés sous le pot. Lucien invite Élina à reprendre leur café le lendemain. Elle lui propose onze heures et achète une part de tarte avant de rentrer. En passant devant le panneau, elle voit le coin qui bouge toujours. La pile, elle, est plus basse.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "À neuf heures quarante-cinq, Mireille a déjà sorti la moitié du paquet. Le panneau penche un peu et un coin du journal se relève avec le courant d’air. Élina lui avait annoncé la veille qu’elle passerait de dix heures à dix heures et demie. Elle est venue plus tôt pour remettre l’épreuve à Farida. À l’étal, Farida ouvre la feuille et approche un instant le papier du pot. « En photo, on aurait dit qu’il est vert. Ça me plaît que tu l’aies décrit. » Élina sourit. Il lui a fallu longtemps pour trouver un mot pour ce bleu.",
+        "start": 2,
+        "end": 526
+      },
+      {
+        "quote": "« Pour le prochain, demandez à Mireille, on commence avec celui-ci. » Élina dit au revoir à dix heures et demie. Mireille lui fait un signe et continue d’écouter la dame. Farida lui propose de garder les exemplaires qui resteront après la permanence, jusqu’au samedi suivant, avec quelques mots de lecteurs glissés sous le pot. Lucien invite Élina à reprendre leur café le lendemain. Elle lui propose onze heures et achète une part de tarte avant de rentrer. En passant devant le panneau, elle voit le coin qui bouge toujours. La pile, elle, est plus basse.",
+        "start": 3457,
+        "end": 4014
+      }
+    ],
+    "canonical_concept": "Reprise du lien sans présence imposée",
+    "context": "Le samedi du tirage, près de l’entrée de la halle",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B43",
+    "clinical_diagnosis": "Trouble de l’adaptation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/elina-preoccupation-qui-revient": {
+    "character": "Élina",
+    "character_id": "elina",
+    "keywords": [
+      "Pensées récurrentes",
+      "Démarches repoussées",
+      "Premier rendez-vous"
+    ],
+    "character_keywords": [
+      "Trouble de l’adaptation",
+      "Préoccupations autour du changement",
+      "Retentissement sur le quotidien",
+      "Perte de routines et d’appuis",
+      "Reprise d’activité choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f7426f5fc8823ba0c02512927d1749fcd4fd28e180ade5b1b121ac3186987007",
+    "summary": "Le dimanche, Élina étale Les Nouvelles de la Halle sur la table. Les annonces tiennent dans une colonne et, dans l’autre, quelqu’un a raconté comment on remonte le store du fromager quand le vent s’y prend. Quarante lignes sur un store, avec un dessin du crochet. Elle tourne la feuille pour trouver qui signait. Pendant des années, elle a vérifié le nom des auteurs avant l’impression. Elle se souvient de la dernière liste qu’elle a laissée au bureau, puis d’une réponse reçue le jour où elle a rendu sa clé : « On fera comme on pourra. » Elle ne sait toujours pas comment l’entendre.\n\n[…]\n\nSur un coin de l’ancien journal, Élina note « café manqué » et « adresse toujours pas changée ». À Lucien, qu’elle croise dans l’escalier, elle dit qu’elle dort mal et qu’elle aimerait parler à un médecin. Il lui donne le nom de la docteure Roussel et précise que le cabinet est derrière la pharmacie. Elle appelle elle-même et obtient une place le mercredi. Puis elle reprend le message de Mireille. Elle propose de venir regarder une page samedi et de confirmer jeudi. Avant de poser son téléphone, elle envoie un mot à Lucien pour lui demander s’ils pourront reprendre ce café un autre jour.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le dimanche, Élina étale Les Nouvelles de la Halle sur la table. Les annonces tiennent dans une colonne et, dans l’autre, quelqu’un a raconté comment on remonte le store du fromager quand le vent s’y prend. Quarante lignes sur un store, avec un dessin du crochet. Elle tourne la feuille pour trouver qui signait. Pendant des années, elle a vérifié le nom des auteurs avant l’impression. Elle se souvient de la dernière liste qu’elle a laissée au bureau, puis d’une réponse reçue le jour où elle a rendu sa clé : « On fera comme on pourra. » Elle ne sait toujours pas comment l’entendre.",
+        "start": 2,
+        "end": 588
+      },
+      {
+        "quote": "Sur un coin de l’ancien journal, Élina note « café manqué » et « adresse toujours pas changée ». À Lucien, qu’elle croise dans l’escalier, elle dit qu’elle dort mal et qu’elle aimerait parler à un médecin. Il lui donne le nom de la docteure Roussel et précise que le cabinet est derrière la pharmacie. Elle appelle elle-même et obtient une place le mercredi. Puis elle reprend le message de Mireille. Elle propose de venir regarder une page samedi et de confirmer jeudi. Avant de poser son téléphone, elle envoie un mot à Lucien pour lui demander s’ils pourront reprendre ce café un autre jour.",
+        "start": 3521,
+        "end": 4115
+      }
+    ],
+    "canonical_concept": "Préoccupation et difficulté à décrocher",
+    "context": "Le dimanche et le lundi, à la table de l’appartement",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B43",
+    "clinical_diagnosis": "Trouble de l’adaptation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/elina-rappel-ancien-travail": {
+    "character": "Élina",
+    "character_id": "elina",
+    "keywords": [
+      "Rappels du départ",
+      "Préoccupation ravivée",
+      "Lien choisi"
+    ],
+    "character_keywords": [
+      "Trouble de l’adaptation",
+      "Préoccupations autour du changement",
+      "Retentissement sur le quotidien",
+      "Perte de routines et d’appuis",
+      "Reprise d’activité choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d23e78cf85183f8d514685d972f4bf0d1ca4776e972c8fbc7a00ca554fce4330",
+    "summary": "Devant la porte de la halle, Élina a le temps de lire le message de Yasmine. « Tu te rappelles le nom du papier crème qu’on prenait pour les couvertures ? » La dernière fois qu’elles se sont parlé, elles se sont promis de s’écrire en dehors du travail. Élina se rappelle que Yasmine repliait un coin des épreuves pour les distinguer des exemplaires définitifs. Elle sait dans quel cahier chercher. Elle commence à taper « Attends, je vérifie » et efface. À côté du nom de Yasmine, la photo ronde la montre encore dans le bureau, devant la grande armoire.\n\n[…]\n\nMireille lit et s’interrompt sur « l’encoche ». En écoutant Mireille, Élina comprend que le lecteur saura d’où vient le pot sans savoir que Farida le saisit toujours du même côté. Elles ajoutent ce geste. Farida passe au local après avoir rangé son étal. Elle lit le texte à son tour et donne son accord pour le publier, y compris la citation. Élina répond ensuite à Yasmine qu’elle ne va pas chercher la référence et demande si elle voudrait parler dimanche. Mireille lui propose une réunion courte mardi pour décider qui pourrait faire un tirage d’essai.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Devant la porte de la halle, Élina a le temps de lire le message de Yasmine. « Tu te rappelles le nom du papier crème qu’on prenait pour les couvertures ? » La dernière fois qu’elles se sont parlé, elles se sont promis de s’écrire en dehors du travail. Élina se rappelle que Yasmine repliait un coin des épreuves pour les distinguer des exemplaires définitifs. Elle sait dans quel cahier chercher. Elle commence à taper « Attends, je vérifie » et efface. À côté du nom de Yasmine, la photo ronde la montre encore dans le bureau, devant la grande armoire.",
+        "start": 2,
+        "end": 556
+      },
+      {
+        "quote": "Mireille lit et s’interrompt sur « l’encoche ». En écoutant Mireille, Élina comprend que le lecteur saura d’où vient le pot sans savoir que Farida le saisit toujours du même côté. Elles ajoutent ce geste. Farida passe au local après avoir rangé son étal. Elle lit le texte à son tour et donne son accord pour le publier, y compris la citation. Élina répond ensuite à Yasmine qu’elle ne va pas chercher la référence et demande si elle voudrait parler dimanche. Mireille lui propose une réunion courte mardi pour décider qui pourrait faire un tirage d’essai.",
+        "start": 3301,
+        "end": 3857
+      }
+    ],
+    "canonical_concept": "Rappels du changement et retrait",
+    "context": "Le samedi, devant la halle, avant la relecture",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B43",
+    "clinical_diagnosis": "Trouble de l’adaptation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/elina-reprise-activite-limitee": {
+    "character": "Élina",
+    "character_id": "elina",
+    "keywords": [
+      "Reprise choisie",
+      "Engagement limité",
+      "Nouveaux appuis"
+    ],
+    "character_keywords": [
+      "Trouble de l’adaptation",
+      "Préoccupations autour du changement",
+      "Retentissement sur le quotidien",
+      "Perte de routines et d’appuis",
+      "Reprise d’activité choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d5ee3dc3e5ab1e699d480571ccbc7f4eb810169f50f64d8b89dab3de91c642d3",
+    "summary": "Mireille a retrouvé deux autres numéros et les maintient ouverts avec une boîte de punaises. Le local sent le papier qui a pris l’humidité. À côté des anciens feuillets, une feuille blanche porte le titre « À qui de jouer ? ». Trois personnes ont inscrit leur prénom dans une colonne. Élina est venue regarder une page, comme convenu. Elle a pris le chemin de la halle avec Lucien, puis lui a dit au revoir chez le fromager. Depuis qu’elle s’est assise, elle a déjà repéré un horaire sans jour et deux noms de rues mal orthographiés. C’est agréable de les voir. Aussitôt, elle se dit qu’elle pourrait tout vérifier.\n\n[…]\n\nÉlina écrit son prénom à côté de « un texte d’essai ». Mireille laisse son propre nom devant les horaires et lui propose de mettre la page en commun le samedi suivant. Farida, interrogée pendant un creux, se met à rire. « Vous voulez parler du pot ? Alors venez mardi. Les livraisons seront passées. » Élina lui promet un texte court à lui faire lire avant toute diffusion. En rentrant, elle coince la note du rendez-vous sous la pince où le formulaire de changement d’adresse est resté toute la semaine. L’enveloppe est partie le matin même. Elle pousse le meuble contre l’autre mur. La porte du placard s’ouvre enfin.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Mireille a retrouvé deux autres numéros et les maintient ouverts avec une boîte de punaises. Le local sent le papier qui a pris l’humidité. À côté des anciens feuillets, une feuille blanche porte le titre « À qui de jouer ? ». Trois personnes ont inscrit leur prénom dans une colonne. Élina est venue regarder une page, comme convenu. Elle a pris le chemin de la halle avec Lucien, puis lui a dit au revoir chez le fromager. Depuis qu’elle s’est assise, elle a déjà repéré un horaire sans jour et deux noms de rues mal orthographiés. C’est agréable de les voir. Aussitôt, elle se dit qu’elle pourrait tout vérifier.",
+        "start": 2,
+        "end": 617
+      },
+      {
+        "quote": "Élina écrit son prénom à côté de « un texte d’essai ». Mireille laisse son propre nom devant les horaires et lui propose de mettre la page en commun le samedi suivant. Farida, interrogée pendant un creux, se met à rire. « Vous voulez parler du pot ? Alors venez mardi. Les livraisons seront passées. » Élina lui promet un texte court à lui faire lire avant toute diffusion. En rentrant, elle coince la note du rendez-vous sous la pince où le formulaire de changement d’adresse est resté toute la semaine. L’enveloppe est partie le matin même. Elle pousse le meuble contre l’autre mur. La porte du placard s’ouvre enfin.",
+        "start": 3397,
+        "end": 4016
+      }
+    ],
+    "canonical_concept": "Reprise d’activité à une échelle choisie",
+    "context": "Le samedi suivant, dans le local de l’association de la halle",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B43",
+    "clinical_diagnosis": "Trouble de l’adaptation"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/elina-suivi-quand-difficultes-reviennent": {
+    "character": "Élina",
+    "character_id": "elina",
+    "keywords": [
+      "Suivi clinique",
+      "Évolution dans la vie ordinaire",
+      "Accompagnement choisi"
+    ],
+    "character_keywords": [
+      "Trouble de l’adaptation",
+      "Préoccupations autour du changement",
+      "Retentissement sur le quotidien",
+      "Perte de routines et d’appuis",
+      "Reprise d’activité choisie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "5a3fbb1ffda88726c62cc7d81d21e8520064c6d4e0a3f8b9001047b001b77be9",
+    "summary": "Élina avait préparé la première consultation au dos d’un prix de radis. Cette fois, elle tient le carton du cabinet. Au verso, elle a inscrit l’heure de l’appel de la banque, qu’elle a eu ce matin. La médecin lui demande pourquoi elle a avancé la consultation. Élina répond d’abord que l’histoire du journal s’est compliquée. Puis elle parle du message attendu une grande partie de la nuit et du sentiment d’être ramenée au bureau, même après son appel à Mireille. Elle ne sait plus exactement de quelle réunion elle attendait la date à l’époque. Elle sait combien de fois elle a rouvert le document du marché dimanche.\n\n[…]\n\nLa docteure Roussel lui propose les coordonnées d’une psychologue et explique qu’un premier entretien servira à faire connaissance et à préciser sa demande. Élina choisit de prendre contact. Elle garde un rendez-vous de suivi avec sa généraliste. En sortant du cabinet, elle apprend par un message de Mireille que la responsable de la halle leur permet d’installer la table près du banc à l’entrée et leur prête un panneau. Jo attendra son accord jeudi avant de tirer. Élina répond à Mireille qu’elle relira l’épreuve le lendemain. Puis elle appelle le cabinet de la psychologue, qui lui propose un rendez-vous le mercredi de la semaine suivante.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Élina avait préparé la première consultation au dos d’un prix de radis. Cette fois, elle tient le carton du cabinet. Au verso, elle a inscrit l’heure de l’appel de la banque, qu’elle a eu ce matin. La médecin lui demande pourquoi elle a avancé la consultation. Élina répond d’abord que l’histoire du journal s’est compliquée. Puis elle parle du message attendu une grande partie de la nuit et du sentiment d’être ramenée au bureau, même après son appel à Mireille. Elle ne sait plus exactement de quelle réunion elle attendait la date à l’époque. Elle sait combien de fois elle a rouvert le document du marché dimanche.",
+        "start": 2,
+        "end": 621
+      },
+      {
+        "quote": "La docteure Roussel lui propose les coordonnées d’une psychologue et explique qu’un premier entretien servira à faire connaissance et à préciser sa demande. Élina choisit de prendre contact. Elle garde un rendez-vous de suivi avec sa généraliste. En sortant du cabinet, elle apprend par un message de Mireille que la responsable de la halle leur permet d’installer la table près du banc à l’entrée et leur prête un panneau. Jo attendra son accord jeudi avant de tirer. Élina répond à Mireille qu’elle relira l’épreuve le lendemain. Puis elle appelle le cabinet de la psychologue, qui lui propose un rendez-vous le mercredi de la semaine suivante.",
+        "start": 3429,
+        "end": 4075
+      }
+    ],
+    "canonical_concept": "Suivi clinique quand les difficultés varient",
+    "context": "Le mardi en fin de journée, au cabinet de la docteure Roussel",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B43",
+    "clinical_diagnosis": "Trouble de l’adaptation"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/elise-accepter-agir": {
     "character": "Élise",
     "character_id": "elise",
@@ -17661,6 +18117,462 @@
     "clinical_code": "6B82",
     "clinical_diagnosis": "Hyperphagie boulimique"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/nathalie-acquisition-objets-gratuits": {
+    "character": "Nathalie",
+    "character_id": "nathalie",
+    "keywords": [
+      "Acquisition active",
+      "Utilité imaginée",
+      "Place disponible"
+    ],
+    "character_keywords": [
+      "Trouble d’accumulation compulsive",
+      "Difficulté à se séparer",
+      "Arrivée de nouveaux objets",
+      "Usage et sécurité du logement",
+      "Aide consentie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "292ca0880e2441d4968b5759b3eeabde5c659fcc83c5a4f702c067affb9f64d5",
+    "summary": "« Prenez ce que vous lirez », dit une pancarte sur la table pliante. Nathalie trouve le premier titre en moins d’une minute. C’est un petit lexique des enseignes qu’elle pourrait utiliser pour le texte de la médiathèque. Elle ouvre à la page des cordonniers. Les trois noms donnés à l’outil qui tient la chaussure sont peut-être faux, mais l’illustration a été faite par quelqu’un qui l’a vu de près. Elle met le lexique de côté. Au bout de la table, elle repère cinq autres livres du même éditeur.\n\n[…]\n\nNathalie prend le lexique qu’elle va utiliser et remet les cinq autres livres à leur place. En sortant, elle éprouve encore le désir d’y retourner. Elle arrive avec dix minutes de retard. Agnès lance le chronomètre et Nathalie dit « chausse-pied » à la place de « tablier » et ne s’en aperçoit qu’en voyant Agnès relever la tête. Elles rient, recommencent et barrent une phrase qui faisait double emploi. En rentrant, Nathalie range le lexique à l’endroit qu’elle avait en tête sur le buffet. Dans son carnet de rendez-vous, elle écrit « D’abord un, puis six. » Elle veut pouvoir raconter à Maud le moment entre les deux.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "« Prenez ce que vous lirez », dit une pancarte sur la table pliante. Nathalie trouve le premier titre en moins d’une minute. C’est un petit lexique des enseignes qu’elle pourrait utiliser pour le texte de la médiathèque. Elle ouvre à la page des cordonniers. Les trois noms donnés à l’outil qui tient la chaussure sont peut-être faux, mais l’illustration a été faite par quelqu’un qui l’a vu de près. Elle met le lexique de côté. Au bout de la table, elle repère cinq autres livres du même éditeur.",
+        "start": 2,
+        "end": 500
+      },
+      {
+        "quote": "Nathalie prend le lexique qu’elle va utiliser et remet les cinq autres livres à leur place. En sortant, elle éprouve encore le désir d’y retourner. Elle arrive avec dix minutes de retard. Agnès lance le chronomètre et Nathalie dit « chausse-pied » à la place de « tablier » et ne s’en aperçoit qu’en voyant Agnès relever la tête. Elles rient, recommencent et barrent une phrase qui faisait double emploi. En rentrant, Nathalie range le lexique à l’endroit qu’elle avait en tête sur le buffet. Dans son carnet de rendez-vous, elle écrit « D’abord un, puis six. » Elle veut pouvoir raconter à Maud le moment entre les deux.",
+        "start": 3463,
+        "end": 4084
+      }
+    ],
+    "canonical_concept": "Envie d’acquérir des objets gratuits",
+    "context": "Le jeudi, devant une table de livres à donner, en allant à la répétition",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B24",
+    "clinical_diagnosis": "Trouble d’accumulation compulsive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nathalie-aide-accord-pas-de-debarras-surprise": {
+    "character": "Nathalie",
+    "character_id": "nathalie",
+    "keywords": [
+      "Aide consentie",
+      "Désaccord en famille",
+      "Limites du soutien"
+    ],
+    "character_keywords": [
+      "Trouble d’accumulation compulsive",
+      "Difficulté à se séparer",
+      "Arrivée de nouveaux objets",
+      "Usage et sécurité du logement",
+      "Aide consentie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "8ccb015b2fab6f94bbf3816b3e53b89c342a9a60486f0ad5a1bfd813a179b12d",
+    "summary": "Agnès dessine deux fenêtres sur une serviette en papier. Elle dessine une chaise devant la première et un carré pour la table devant la seconde. Elle veut savoir de quel côté Nathalie préfère lire. Nathalie lui explique que l’ombre de l’immeuble d’en face gagne le séjour après trois heures et qu’elle aimerait garder la lampe près du fauteuil. Elles en sont à tourner la serviette pour se représenter la pièce quand Agnès dit qu’elle pourrait emprunter la camionnette d’Étienne. Le samedi suivant, il n’en a pas besoin.\n\n[…]\n\nNathalie dit qu’Agnès peut garder la clé pour les services qu’elles auront convenus. Pour le moment, elle ne veut ni transport ni passage d’Étienne. Agnès replie le dessin et propose de l’écouter lire jeudi à la médiathèque. Avant de quitter le café, Nathalie écrit à Nora pour confirmer l’aide de lundi. Elle demande que sa collègue et elle restent du côté de la table et lui demandent avant tout déplacement. Elle montre le message à Agnès, puis lui demande si elle se souvient de la phrase sur l’anguille.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Agnès dessine deux fenêtres sur une serviette en papier. Elle dessine une chaise devant la première et un carré pour la table devant la seconde. Elle veut savoir de quel côté Nathalie préfère lire. Nathalie lui explique que l’ombre de l’immeuble d’en face gagne le séjour après trois heures et qu’elle aimerait garder la lampe près du fauteuil. Elles en sont à tourner la serviette pour se représenter la pièce quand Agnès dit qu’elle pourrait emprunter la camionnette d’Étienne. Le samedi suivant, il n’en a pas besoin.",
+        "start": 2,
+        "end": 522
+      },
+      {
+        "quote": "Nathalie dit qu’Agnès peut garder la clé pour les services qu’elles auront convenus. Pour le moment, elle ne veut ni transport ni passage d’Étienne. Agnès replie le dessin et propose de l’écouter lire jeudi à la médiathèque. Avant de quitter le café, Nathalie écrit à Nora pour confirmer l’aide de lundi. Elle demande que sa collègue et elle restent du côté de la table et lui demandent avant tout déplacement. Elle montre le message à Agnès, puis lui demande si elle se souvient de la phrase sur l’anguille.",
+        "start": 3439,
+        "end": 3947
+      }
+    ],
+    "canonical_concept": "Périmètre de l’aide et consentement",
+    "context": "Le samedi matin au café, après la visite de Nora",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B24",
+    "clinical_diagnosis": "Trouble d’accumulation compulsive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nathalie-bilan-usage-et-suivi": {
+    "character": "Nathalie",
+    "character_id": "nathalie",
+    "keywords": [
+      "Bilan fonctionnel",
+      "Suivi à poursuivre",
+      "Projet personnel"
+    ],
+    "character_keywords": [
+      "Trouble d’accumulation compulsive",
+      "Difficulté à se séparer",
+      "Arrivée de nouveaux objets",
+      "Usage et sécurité du logement",
+      "Aide consentie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "ce336a917cdfabecd077fa7edd66208a6e44987a067d8495834d99b31f1bd4d3",
+    "summary": "Les trois coups de grille arrivent dans l’ordre, juste avant le bus. Agnès met sur pause et ouvre la légende sous l’enregistrement. Elle a gardé le nom du cordonnier et ajouté l’année où sa fille a repris l’atelier, après vérification auprès d’elle. Nathalie lui demande de jouer la rue jusqu’au bout. Elle ne s’attendait pas à retrouver le bruit du chevalet de la librairie de la place, quand on le pose sur les pavés. Elle voudrait savoir si la jeune femme qui la tient lit toujours des romans à voix haute après la fermeture.\n\n[…]\n\nAgnès remet le son une fois, puis propose de revenir lire mardi dans quinze jours. Nathalie prend le rendez-vous et garde celui de Maud, fixé entre les deux. Elle ne sort pas la pochette violette pour montrer les affaires qui restent. Après le départ d’Agnès, elle répond à Samira qu’elle aimerait lire un texte sur le marchand de journaux à la prochaine séance. Elle ouvre le carnet sur une page neuve. Dans la rue, un vélo ralentit devant l’immeuble. Nathalie écoute le bruit qu’il fait au démarrage. Elle écrit « On reconnaissait son arrivée avant de savoir de quel côté il venait. »",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Les trois coups de grille arrivent dans l’ordre, juste avant le bus. Agnès met sur pause et ouvre la légende sous l’enregistrement. Elle a gardé le nom du cordonnier et ajouté l’année où sa fille a repris l’atelier, après vérification auprès d’elle. Nathalie lui demande de jouer la rue jusqu’au bout. Elle ne s’attendait pas à retrouver le bruit du chevalet de la librairie de la place, quand on le pose sur les pavés. Elle voudrait savoir si la jeune femme qui la tient lit toujours des romans à voix haute après la fermeture.",
+        "start": 2,
+        "end": 530
+      },
+      {
+        "quote": "Agnès remet le son une fois, puis propose de revenir lire mardi dans quinze jours. Nathalie prend le rendez-vous et garde celui de Maud, fixé entre les deux. Elle ne sort pas la pochette violette pour montrer les affaires qui restent. Après le départ d’Agnès, elle répond à Samira qu’elle aimerait lire un texte sur le marchand de journaux à la prochaine séance. Elle ouvre le carnet sur une page neuve. Dans la rue, un vélo ralentit devant l’immeuble. Nathalie écoute le bruit qu’il fait au démarrage. Elle écrit « On reconnaissait son arrivée avant de savoir de quel côté il venait. »",
+        "start": 3492,
+        "end": 4078
+      }
+    ],
+    "canonical_concept": "Progrès d’usage et difficultés encore présentes",
+    "context": "La semaine suivante, chez Nathalie, après un point avec l’équipe",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B24",
+    "clinical_diagnosis": "Trouble d’accumulation compulsive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nathalie-collection-attachement-encombrement": {
+    "character": "Nathalie",
+    "character_id": "nathalie",
+    "keywords": [
+      "Collection ordinaire",
+      "Choix des acquisitions",
+      "Place occupée dans le logement"
+    ],
+    "character_keywords": [
+      "Trouble d’accumulation compulsive",
+      "Difficulté à se séparer",
+      "Arrivée de nouveaux objets",
+      "Usage et sécurité du logement",
+      "Aide consentie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "7e7bcab2eeb921c43f9745328ba38ef4c317527d13fc9616ac12aa740dbc2b6f",
+    "summary": "Le dessin ressemble à une corde, jusqu’à ce que Samira le retourne et montre la tête de l’anguille. Elle a retrouvé l’épreuve de ce marque-page dans un carton de son ancienne imprimerie et l’a amenée au marché pour Nathalie. Le tirage fini était rouge sur papier gris. La première version penchait vers l’orange, à cause d’une erreur qu’elles n’avaient remarquée qu’en sortant voir les couleurs au jour. Nathalie s’en souvient parce que Samira avait trouvé l’erreur plus belle que la commande.\n\n[…]\n\nNathalie accepte la lecture. Elle dit qu’elle peut apporter l’album et que le marque-page rentrera avec elle ce jour-là. Samira écrit l’adresse de la médiathèque au dos d’un programme que Nathalie replie dans son carnet. L’ancienne imprimeuse reprend l’épreuve orange et la glisse sous son plateau. En quittant le marché, Nathalie essaie sa première phrase à voix basse. « On n’a pas vu que l’anguille changeait de couleur avant de l’emmener dehors. » Pour vendredi, elle a aussi deux exemples à raconter à Nora. Elle a perdu l’usage de sa table et ne peut plus toujours retrouver son courrier.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le dessin ressemble à une corde, jusqu’à ce que Samira le retourne et montre la tête de l’anguille. Elle a retrouvé l’épreuve de ce marque-page dans un carton de son ancienne imprimerie et l’a amenée au marché pour Nathalie. Le tirage fini était rouge sur papier gris. La première version penchait vers l’orange, à cause d’une erreur qu’elles n’avaient remarquée qu’en sortant voir les couleurs au jour. Nathalie s’en souvient parce que Samira avait trouvé l’erreur plus belle que la commande.",
+        "start": 2,
+        "end": 495
+      },
+      {
+        "quote": "Nathalie accepte la lecture. Elle dit qu’elle peut apporter l’album et que le marque-page rentrera avec elle ce jour-là. Samira écrit l’adresse de la médiathèque au dos d’un programme que Nathalie replie dans son carnet. L’ancienne imprimeuse reprend l’épreuve orange et la glisse sous son plateau. En quittant le marché, Nathalie essaie sa première phrase à voix basse. « On n’a pas vu que l’anguille changeait de couleur avant de l’emmener dehors. » Pour vendredi, elle a aussi deux exemples à raconter à Nora. Elle a perdu l’usage de sa table et ne peut plus toujours retrouver son courrier.",
+        "start": 3582,
+        "end": 4176
+      }
+    ],
+    "canonical_concept": "Attachement ordinaire et collection choisie",
+    "context": "Le jeudi au marché, sur le stand de Samira, ancienne imprimeuse du quartier",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B24",
+    "clinical_diagnosis": "Trouble d’accumulation compulsive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nathalie-courrier-retour-encombrement": {
+    "character": "Nathalie",
+    "character_id": "nathalie",
+    "keywords": [
+      "Accumulation au fil des arrivées",
+      "Retour d’une difficulté",
+      "Ajustement du suivi"
+    ],
+    "character_keywords": [
+      "Trouble d’accumulation compulsive",
+      "Difficulté à se séparer",
+      "Arrivée de nouveaux objets",
+      "Usage et sécurité du logement",
+      "Aide consentie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f238744b2311a16d23539b25ce16842ff5e9ffcf98f49e2a83924ce6bab8eec1",
+    "summary": "Sur l’enveloppe du dessous, une goutte de café a séché en forme de virgule. Nathalie se souvient de l’avoir posée là à son retour du marché. Elle avait déposé les autres courriers avec elle pour y revenir après le café. Depuis, il y a eu deux passages du facteur et une invitation à la lecture d’un éditeur qu’elle connaissait bien. Un prospectus s’est glissé parmi les papiers. Maintenant, elle doit soulever le tout pour retrouver le passage du roman qu’elle voulait lire avant de déjeuner.\n\n[…]\n\nNathalie sort la lettre qu’elle doit traiter et écrit la date à laquelle elle souhaite répondre. Elle laisse les autres papiers là le temps de la consultation. Avec Maud, elle décide de réserver sur le buffet la chemise du courrier en cours et de reprendre avec Nora ce qui a rendu la table disponible la première fois. La veille de la visite d’Agnès, Nora et Nathalie réexaminent la circulation et les deux places assises. Nathalie consent à remettre les programmes et les dossiers qu’elle souhaite revoir dans leur rangement. Elle écrit à Agnès que la table peut servir et qu’elles gardent l’autre possibilité si quelque chose change.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Sur l’enveloppe du dessous, une goutte de café a séché en forme de virgule. Nathalie se souvient de l’avoir posée là à son retour du marché. Elle avait déposé les autres courriers avec elle pour y revenir après le café. Depuis, il y a eu deux passages du facteur et une invitation à la lecture d’un éditeur qu’elle connaissait bien. Un prospectus s’est glissé parmi les papiers. Maintenant, elle doit soulever le tout pour retrouver le passage du roman qu’elle voulait lire avant de déjeuner.",
+        "start": 2,
+        "end": 494
+      },
+      {
+        "quote": "Nathalie sort la lettre qu’elle doit traiter et écrit la date à laquelle elle souhaite répondre. Elle laisse les autres papiers là le temps de la consultation. Avec Maud, elle décide de réserver sur le buffet la chemise du courrier en cours et de reprendre avec Nora ce qui a rendu la table disponible la première fois. La veille de la visite d’Agnès, Nora et Nathalie réexaminent la circulation et les deux places assises. Nathalie consent à remettre les programmes et les dossiers qu’elle souhaite revoir dans leur rangement. Elle écrit à Agnès que la table peut servir et qu’elles gardent l’autre possibilité si quelque chose change.",
+        "start": 3403,
+        "end": 4039
+      }
+    ],
+    "canonical_concept": "Amasser au fil du courrier ordinaire",
+    "context": "Quelques semaines plus tard, chez Nathalie, avant le premier rendez-vous de travail à la table",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B24",
+    "clinical_diagnosis": "Trouble d’accumulation compulsive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nathalie-encombrement-usage-table": {
+    "character": "Nathalie",
+    "character_id": "nathalie",
+    "keywords": [
+      "Encombrement des espaces",
+      "Usage du logement",
+      "Retentissement sur les visites"
+    ],
+    "character_keywords": [
+      "Trouble d’accumulation compulsive",
+      "Difficulté à se séparer",
+      "Arrivée de nouveaux objets",
+      "Usage et sécurité du logement",
+      "Aide consentie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "72733413ff8a6b53af45303656da6bc246889685e70db1b247db9c11b6943052",
+    "summary": "« Là, juste avant le bus, c’est quoi ? » Agnès met l’enregistrement en pause sur son téléphone. Nathalie lui demande de revenir un peu en arrière. Elle reconnaît la grille du cordonnier au dernier choc, quand le rideau métallique finit de monter. Elle entendait ce bruit tous les matins à la librairie, quelques minutes avant d’ouvrir. Agnès relève le nom pour la carte sonore des rues qu’elle prépare avec son atelier. Elle a apporté son ordinateur pour écrire les légendes au calme. Nathalie a promis de lui faire du café et de lire à côté d’elle.\n\n[…]\n\nÀ la médiathèque, Agnès trouve une table près des revues. Nathalie la rejoint avec le livre qu’elle n’a pas terminé. Avant de s’asseoir, elle laisse un message à son équipe. Elle décrit le carton et la difficulté à rejoindre le séjour. Agnès lui montre ensuite les mots « trois coups de grille » dans sa première légende. Nathalie remet le son et les compte avec elle. L’après-midi, l’ergothérapeute Nora la rappelle. Elle vérifie que la porte d’entrée s’ouvre complètement et lui propose une visite vendredi pour examiner les passages et l’usage de la table. Nathalie accepte.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "« Là, juste avant le bus, c’est quoi ? » Agnès met l’enregistrement en pause sur son téléphone. Nathalie lui demande de revenir un peu en arrière. Elle reconnaît la grille du cordonnier au dernier choc, quand le rideau métallique finit de monter. Elle entendait ce bruit tous les matins à la librairie, quelques minutes avant d’ouvrir. Agnès relève le nom pour la carte sonore des rues qu’elle prépare avec son atelier. Elle a apporté son ordinateur pour écrire les légendes au calme. Nathalie a promis de lui faire du café et de lire à côté d’elle.",
+        "start": 2,
+        "end": 551
+      },
+      {
+        "quote": "À la médiathèque, Agnès trouve une table près des revues. Nathalie la rejoint avec le livre qu’elle n’a pas terminé. Avant de s’asseoir, elle laisse un message à son équipe. Elle décrit le carton et la difficulté à rejoindre le séjour. Agnès lui montre ensuite les mots « trois coups de grille » dans sa première légende. Nathalie remet le son et les compte avec elle. L’après-midi, l’ergothérapeute Nora la rappelle. Elle vérifie que la porte d’entrée s’ouvre complètement et lui propose une visite vendredi pour examiner les passages et l’usage de la table. Nathalie accepte.",
+        "start": 3405,
+        "end": 3982
+      }
+    ],
+    "canonical_concept": "Perte d’usage d’un espace familier",
+    "context": "Un mardi matin chez Nathalie, avant une séance de travail avec sa nièce",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B24",
+    "clinical_diagnosis": "Trouble d’accumulation compulsive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nathalie-evaluation-usage-logement": {
+    "character": "Nathalie",
+    "character_id": "nathalie",
+    "keywords": [
+      "Évaluation du retentissement",
+      "Visite à domicile",
+      "Accès et usage des pièces"
+    ],
+    "character_keywords": [
+      "Trouble d’accumulation compulsive",
+      "Difficulté à se séparer",
+      "Arrivée de nouveaux objets",
+      "Usage et sécurité du logement",
+      "Aide consentie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "a1382cdcb36413ea633635edd474386d5a9561c250f3c070fdcc5a40ea01302d",
+    "summary": "Nathalie ouvre à Nora avec son carnet dans une main. Il contient le début de l’histoire de l’anguille et, sur une page séparée, les deux mots « table » et « porte » pour le rendez-vous. Elle avait commencé une troisième ligne pour dire combien de cartons elle avait. Elle l’a barrée. Depuis que l’équipe a posé le diagnostic de trouble d’accumulation compulsive, elle a souvent trouvé plus facile de parler des objets un par un que de montrer le trajet qu’elle fait tous les jours entre l’entrée et le séjour.\n\n[…]\n\nAvec l’accord de Nathalie, Nora l’aide à déplacer le carton léger vers un emplacement stable et vérifie avec elle que le trajet vers la porte reste dégagé. Les brochures y restent. Elles conviennent de laisser le passage libre. Nathalie appellera l’équipe s’il se rétrécit de nouveau. Nora reviendra avec une collègue pour une aide matérielle annoncée à l’avance, à laquelle Nathalie pourra donner des limites. Nathalie garde la pochette violette sur la table. Dans le carnet, sous « porte », elle note le numéro de l’équipe. Sous « table », elle écrit qu’elle voudrait une chaise où on peut reculer.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Nathalie ouvre à Nora avec son carnet dans une main. Il contient le début de l’histoire de l’anguille et, sur une page séparée, les deux mots « table » et « porte » pour le rendez-vous. Elle avait commencé une troisième ligne pour dire combien de cartons elle avait. Elle l’a barrée. Depuis que l’équipe a posé le diagnostic de trouble d’accumulation compulsive, elle a souvent trouvé plus facile de parler des objets un par un que de montrer le trajet qu’elle fait tous les jours entre l’entrée et le séjour.",
+        "start": 2,
+        "end": 511
+      },
+      {
+        "quote": "Avec l’accord de Nathalie, Nora l’aide à déplacer le carton léger vers un emplacement stable et vérifie avec elle que le trajet vers la porte reste dégagé. Les brochures y restent. Elles conviennent de laisser le passage libre. Nathalie appellera l’équipe s’il se rétrécit de nouveau. Nora reviendra avec une collègue pour une aide matérielle annoncée à l’avance, à laquelle Nathalie pourra donner des limites. Nathalie garde la pochette violette sur la table. Dans le carnet, sous « porte », elle note le numéro de l’équipe. Sous « table », elle écrit qu’elle voudrait une chaise où on peut reculer.",
+        "start": 3378,
+        "end": 3978
+      }
+    ],
+    "canonical_concept": "Évaluation clinique dans le quotidien",
+    "context": "Le vendredi, lors d’une visite de Nora, ergothérapeute de l’équipe spécialisée",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B24",
+    "clinical_diagnosis": "Trouble d’accumulation compulsive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nathalie-honte-participation-choix-confidence": {
+    "character": "Nathalie",
+    "character_id": "nathalie",
+    "keywords": [
+      "Honte et anticipation du jugement",
+      "Participation sociale",
+      "Choix de ce qu’on partage"
+    ],
+    "character_keywords": [
+      "Trouble d’accumulation compulsive",
+      "Difficulté à se séparer",
+      "Arrivée de nouveaux objets",
+      "Usage et sécurité du logement",
+      "Aide consentie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "87c73c7fc3888dfcb5172302cf367a1a37471a083481f149f0b52ccfdffdf4ac",
+    "summary": "Le micro de la médiathèque est plus petit que celui qu’Agnès utilise pour enregistrer les rues. Tarek, qui s’occupe de la cabine, leur fait entendre le grésillement qu’il y a quand on frotte le bord de la feuille contre la grille. Nathalie recule son carnet. Elle a apporté l’album, fermé par un élastique, pour revoir le dessin de l’anguille avant de commencer. Dans le couloir, quelqu’un s’étonne qu’on puisse parler deux minutes d’une erreur de couleur. Nathalie se dit qu’il suffirait de raconter la façon dont Samira est sortie vérifier le tirage, avec son tablier encore taché.\n\n[…]\n\nNathalie dit à Agnès que l’image la fait hésiter et qu’elle veut publier seulement le son avec son prénom. Elle donne elle-même la réponse à Tarek. À la deuxième prise, elle garde la pause avant le mot « dehors » et le texte dure juste le temps prévu. Samira vient les rejoindre après l’enregistrement. Elle cherche pour son atelier de démonstration un ancien tampon de librairie et se souvient du « À réserver » de Nathalie. Elle demande si elle pourrait le lui prêter un jour. Nathalie lui dit qu’elle va regarder. Elle pose une main sur l’album, qu’elle a choisi de ramener chez elle.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le micro de la médiathèque est plus petit que celui qu’Agnès utilise pour enregistrer les rues. Tarek, qui s’occupe de la cabine, leur fait entendre le grésillement qu’il y a quand on frotte le bord de la feuille contre la grille. Nathalie recule son carnet. Elle a apporté l’album, fermé par un élastique, pour revoir le dessin de l’anguille avant de commencer. Dans le couloir, quelqu’un s’étonne qu’on puisse parler deux minutes d’une erreur de couleur. Nathalie se dit qu’il suffirait de raconter la façon dont Samira est sortie vérifier le tirage, avec son tablier encore taché.",
+        "start": 2,
+        "end": 585
+      },
+      {
+        "quote": "Nathalie dit à Agnès que l’image la fait hésiter et qu’elle veut publier seulement le son avec son prénom. Elle donne elle-même la réponse à Tarek. À la deuxième prise, elle garde la pause avant le mot « dehors » et le texte dure juste le temps prévu. Samira vient les rejoindre après l’enregistrement. Elle cherche pour son atelier de démonstration un ancien tampon de librairie et se souvient du « À réserver » de Nathalie. Elle demande si elle pourrait le lui prêter un jour. Nathalie lui dit qu’elle va regarder. Elle pose une main sur l’album, qu’elle a choisi de ramener chez elle.",
+        "start": 3286,
+        "end": 3873
+      }
+    ],
+    "canonical_concept": "Retrait social et choix de la confidence",
+    "context": "Un samedi, lors de l’enregistrement des lectures à la médiathèque",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B24",
+    "clinical_diagnosis": "Trouble d’accumulation compulsive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nathalie-passage-securite-incendie-relais": {
+    "character": "Nathalie",
+    "character_id": "nathalie",
+    "keywords": [
+      "Sécurité des accès",
+      "Incendie domestique",
+      "Relais des secours"
+    ],
+    "character_keywords": [
+      "Trouble d’accumulation compulsive",
+      "Difficulté à se séparer",
+      "Arrivée de nouveaux objets",
+      "Usage et sécurité du logement",
+      "Aide consentie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "832e2f26d00fa79eb66d06186916345b12fcaca860e20e17d8c06b7a11444d32",
+    "summary": "Le lexique est ouvert à la page du cordonnier quand le téléphone sonne. Cécile, la voisine qui sort d’habitude son chien avant neuf heures, parle depuis la rue. Elle vient de voir de la fumée dans la cage d’escalier. Nathalie a la main sur la couverture du livre. Pendant une seconde, elle pense qu’elle devrait aller voir par elle-même. Elle s’arrête avant de toucher à la porte et appelle le 18. Elle donne l’adresse, l’étage, dit qu’elle est chez elle et que la fumée est signalée dans l’escalier. La personne au téléphone lui dit de rester dans son appartement, porte fermée, et la guide.\n\n[…]\n\nNathalie retrouve Agnès dehors quand les pompiers ont dit qu’elle pouvait sortir. Elles reportent la lecture du texte à l’enregistrement prévu à la médiathèque. Nathalie appelle ensuite Nora. Elle lui dit que l’entrée est toujours dégagée et lui raconte la question posée par les secours. Elles conviennent de revoir ensemble les accès lors de la prochaine visite, qui était déjà prévue cette semaine. Elle souhaite toujours parler à Maud des livres du jeudi et de ce qu’elle ressent à l’idée de se séparer d’un objet. Elle garde leur rendez-vous. En rentrant, elle retrouve le lexique ouvert à la page du cordonnier.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le lexique est ouvert à la page du cordonnier quand le téléphone sonne. Cécile, la voisine qui sort d’habitude son chien avant neuf heures, parle depuis la rue. Elle vient de voir de la fumée dans la cage d’escalier. Nathalie a la main sur la couverture du livre. Pendant une seconde, elle pense qu’elle devrait aller voir par elle-même. Elle s’arrête avant de toucher à la porte et appelle le 18. Elle donne l’adresse, l’étage, dit qu’elle est chez elle et que la fumée est signalée dans l’escalier. La personne au téléphone lui dit de rester dans son appartement, porte fermée, et la guide.",
+        "start": 2,
+        "end": 594
+      },
+      {
+        "quote": "Nathalie retrouve Agnès dehors quand les pompiers ont dit qu’elle pouvait sortir. Elles reportent la lecture du texte à l’enregistrement prévu à la médiathèque. Nathalie appelle ensuite Nora. Elle lui dit que l’entrée est toujours dégagée et lui raconte la question posée par les secours. Elles conviennent de revoir ensemble les accès lors de la prochaine visite, qui était déjà prévue cette semaine. Elle souhaite toujours parler à Maud des livres du jeudi et de ce qu’elle ressent à l’idée de se séparer d’un objet. Elle garde leur rendez-vous. En rentrant, elle retrouve le lexique ouvert à la page du cordonnier.",
+        "start": 3415,
+        "end": 4032
+      }
+    ],
+    "canonical_concept": "Encombrement des accès et sécurité",
+    "context": "Un lundi matin chez Nathalie, lors d’un incident dans l’immeuble",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B24",
+    "clinical_diagnosis": "Trouble d’accumulation compulsive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nathalie-souvenirs-attachement-objets": {
+    "character": "Nathalie",
+    "character_id": "nathalie",
+    "keywords": [
+      "Attachement affectif",
+      "Souvenirs associés aux objets",
+      "Transmission choisie"
+    ],
+    "character_keywords": [
+      "Trouble d’accumulation compulsive",
+      "Difficulté à se séparer",
+      "Arrivée de nouveaux objets",
+      "Usage et sécurité du logement",
+      "Aide consentie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "15bce6a0679c51632324f22d3f3757d0604f6730a2a118ebc18943895f03db17",
+    "summary": "Le petit taquet de hêtre est au fond du tiroir, derrière le tampon « À réserver ». Nathalie reconnaît les deux encoches avant de le prendre. Lucette les avait faites un samedi parce que le livre qu’elles exposaient glissait dans la vitrine. Elle était revenue de la réserve avec ce morceau de bois et avait calé le livre au premier essai. Le soir, il n’en restait aucun exemplaire à vendre. Lucette avait dit qu’il n’y avait aucune preuve que le taquet y soit pour quelque chose, mais qu’elles pouvaient toujours le remercier.\n\n[…]\n\nNathalie remet le taquet dans le tiroir et appelle Samira. Elle lui demande si le tampon lui serait utile au-delà de l’atelier de la semaine. Samira pourrait l’utiliser pour les démonstrations avec des enfants et serait heureuse de le recevoir. Dans l’après-midi, Nathalie lui remet le tampon à la médiathèque et précise qu’il s’agit d’un don. En rentrant, elle ouvre quand même le tiroir du buffet et sent le manque. Elle y voit le taquet. Elle appelle Lucette pour lui demander si, dans son souvenir, elles avaient vendu le dernier exemplaire avant ou après cinq heures.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le petit taquet de hêtre est au fond du tiroir, derrière le tampon « À réserver ». Nathalie reconnaît les deux encoches avant de le prendre. Lucette les avait faites un samedi parce que le livre qu’elles exposaient glissait dans la vitrine. Elle était revenue de la réserve avec ce morceau de bois et avait calé le livre au premier essai. Le soir, il n’en restait aucun exemplaire à vendre. Lucette avait dit qu’il n’y avait aucune preuve que le taquet y soit pour quelque chose, mais qu’elles pouvaient toujours le remercier.",
+        "start": 2,
+        "end": 528
+      },
+      {
+        "quote": "Nathalie remet le taquet dans le tiroir et appelle Samira. Elle lui demande si le tampon lui serait utile au-delà de l’atelier de la semaine. Samira pourrait l’utiliser pour les démonstrations avec des enfants et serait heureuse de le recevoir. Dans l’après-midi, Nathalie lui remet le tampon à la médiathèque et précise qu’il s’agit d’un don. En rentrant, elle ouvre quand même le tiroir du buffet et sent le manque. Elle y voit le taquet. Elle appelle Lucette pour lui demander si, dans son souvenir, elles avaient vendu le dernier exemplaire avant ou après cinq heures.",
+        "start": 3339,
+        "end": 3911
+      }
+    ],
+    "canonical_concept": "Valeur affective et besoin de garder",
+    "context": "Chez Nathalie, au buffet, avant le passage de Samira à la médiathèque",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B24",
+    "clinical_diagnosis": "Trouble d’accumulation compulsive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nathalie-tcc-decision-separation-accompagnee": {
+    "character": "Nathalie",
+    "character_id": "nathalie",
+    "keywords": [
+      "Thérapie cognitive et comportementale",
+      "Décision de séparation",
+      "Détresse anticipée"
+    ],
+    "character_keywords": [
+      "Trouble d’accumulation compulsive",
+      "Difficulté à se séparer",
+      "Arrivée de nouveaux objets",
+      "Usage et sécurité du logement",
+      "Aide consentie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "93b7e087d774f62d4b8d85fac4929266e3c5b214a925e3bfea7d32c74306c69c",
+    "summary": "Les deux intercalaires bleus se superposent exactement. Nathalie les a choisis chez elle parce qu’aucune écriture ne permet de les distinguer. Ils viennent d’un paquet qu’elle utilisait pour les commandes de la librairie. Elle les a gardés depuis sa fermeture, avec l’idée qu’elle les mettrait un jour dans ses dossiers personnels. Mardi, Nora est repassée. Avec Nathalie, elle a vérifié que le trajet entre l’entrée et le séjour était resté libre et que la porte s’ouvrait toujours complètement. Nathalie a maintenu l’accord. Elle laisse le passage libre et appelle l’équipe s’il se rétrécit. Ce matin, au centre, Nathalie a laissé le carnet ouvert à la page « D’abord un, puis six ». Elle raconte les livres du jeudi à Maud avant de sortir les deux cartons bleus de son sac.\n\n[…]\n\nMaud lui confirme que l’accueil utilise ce format et serait d’accord pour en prendre un. Nathalie décide de lui confier le premier et remet l’autre dans son sac. Après quelques minutes, elle pense encore au dossier qu’elle n’a pas pu nommer. Elle dit que ses doigts se détendent et qu’elle craint toujours de manquer d’intercalaires. Maud convient de reprendre les deux observations au prochain rendez-vous. Nathalie glisse son carnet dans le sac, sans y ajouter une liste d’affaires à donner. La prochaine fois qu’elle l’ouvrira, ce sera pour lire son texte à la médiathèque.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Les deux intercalaires bleus se superposent exactement. Nathalie les a choisis chez elle parce qu’aucune écriture ne permet de les distinguer. Ils viennent d’un paquet qu’elle utilisait pour les commandes de la librairie. Elle les a gardés depuis sa fermeture, avec l’idée qu’elle les mettrait un jour dans ses dossiers personnels. Mardi, Nora est repassée. Avec Nathalie, elle a vérifié que le trajet entre l’entrée et le séjour était resté libre et que la porte s’ouvrait toujours complètement. Nathalie a maintenu l’accord. Elle laisse le passage libre et appelle l’équipe s’il se rétrécit. Ce matin, au centre, Nathalie a laissé le carnet ouvert à la page « D’abord un, puis six ». Elle raconte les livres du jeudi à Maud avant de sortir les deux cartons bleus de son sac.",
+        "start": 2,
+        "end": 778
+      },
+      {
+        "quote": "Maud lui confirme que l’accueil utilise ce format et serait d’accord pour en prendre un. Nathalie décide de lui confier le premier et remet l’autre dans son sac. Après quelques minutes, elle pense encore au dossier qu’elle n’a pas pu nommer. Elle dit que ses doigts se détendent et qu’elle craint toujours de manquer d’intercalaires. Maud convient de reprendre les deux observations au prochain rendez-vous. Nathalie glisse son carnet dans le sac, sans y ajouter une liste d’affaires à donner. La prochaine fois qu’elle l’ouvrira, ce sera pour lire son texte à la médiathèque.",
+        "start": 3631,
+        "end": 4207
+      }
+    ],
+    "canonical_concept": "Apprentissage accompagné des décisions de séparation",
+    "context": "Au centre, en rendez-vous avec Maud, psychologue de l’équipe spécialisée",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B24",
+    "clinical_diagnosis": "Trouble d’accumulation compulsive"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/nathalie-visite-place-proche-accueil": {
+    "character": "Nathalie",
+    "character_id": "nathalie",
+    "keywords": [
+      "Rôle du proche",
+      "Usage retrouvé de la table",
+      "Limites de disponibilité"
+    ],
+    "character_keywords": [
+      "Trouble d’accumulation compulsive",
+      "Difficulté à se séparer",
+      "Arrivée de nouveaux objets",
+      "Usage et sécurité du logement",
+      "Aide consentie"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "2cddfd803eddf161e19a0ba27b7e28cf009d1df63f87db3c3248d5abc3b1582a",
+    "summary": "Agnès pose son ordinateur à l’endroit où Nathalie avait retrouvé les enveloppes. Elle regarde autour d’elle pour savoir où mettre son sac. Nathalie lui montre la place au pied du fauteuil, à l’écart du trajet vers l’entrée. Agnès s’assoit, recule la chaise et met ses écouteurs. Elle est venue avec deux sons à légender, les coups de la grille du cordonnier et un signal qui pourrait être une sonnette de vélo. Elle a une heure avant son atelier. Nathalie pose son roman sur le côté où tombe la lumière, puis apporte le café.\n\n[…]\n\nNathalie lit quatre pages avant qu’Agnès ne lui tende un écouteur. Elles se mettent d’accord sur « sonnette de vélo », puis sur l’endroit de la rue d’où le son pourrait venir. Agnès enregistre les deux légendes. Elles écoutent ensuite la fin de la lecture, jusqu’à la pause avant « dehors ». Agnès referme l’ordinateur à l’heure convenue. Le programme dépasse toujours du dossier. Nathalie lui demande si elle voudrait revenir écouter la carte terminée, la semaine suivante. Agnès propose de lui confirmer quand l’atelier aura mis le son en ligne. Nathalie la raccompagne jusqu’à la porte et revient poser son roman sur la table, ouvert à la page où elle s’est arrêtée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Agnès pose son ordinateur à l’endroit où Nathalie avait retrouvé les enveloppes. Elle regarde autour d’elle pour savoir où mettre son sac. Nathalie lui montre la place au pied du fauteuil, à l’écart du trajet vers l’entrée. Agnès s’assoit, recule la chaise et met ses écouteurs. Elle est venue avec deux sons à légender, les coups de la grille du cordonnier et un signal qui pourrait être une sonnette de vélo. Elle a une heure avant son atelier. Nathalie pose son roman sur le côté où tombe la lumière, puis apporte le café.",
+        "start": 2,
+        "end": 527
+      },
+      {
+        "quote": "Nathalie lit quatre pages avant qu’Agnès ne lui tende un écouteur. Elles se mettent d’accord sur « sonnette de vélo », puis sur l’endroit de la rue d’où le son pourrait venir. Agnès enregistre les deux légendes. Elles écoutent ensuite la fin de la lecture, jusqu’à la pause avant « dehors ». Agnès referme l’ordinateur à l’heure convenue. Le programme dépasse toujours du dossier. Nathalie lui demande si elle voudrait revenir écouter la carte terminée, la semaine suivante. Agnès propose de lui confirmer quand l’atelier aura mis le son en ligne. Nathalie la raccompagne jusqu’à la porte et revient poser son roman sur la table, ouvert à la page où elle s’est arrêtée.",
+        "start": 3343,
+        "end": 4012
+      }
+    ],
+    "canonical_concept": "Place du proche dans un usage retrouvé",
+    "context": "Le mardi suivant, à la table du séjour, pour le premier temps de travail d’Agnès",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B24",
+    "clinical_diagnosis": "Trouble d’accumulation compulsive"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/nils-appel-avant-la-repetition": {
     "character": "Nils",
     "character_id": "nils",
@@ -21801,6 +22713,462 @@
     ],
     "pattern_source": "editorial_pack_v10_reviewed_story"
   },
+  "posts/comprendre-et-maitriser-ses-emotions/sebastien-chercher-une-reponse-qui-rassure-quelques-instants": {
+    "character": "Sébastien",
+    "character_id": "sebastien",
+    "keywords": [
+      "Réassurance",
+      "Doute persistant",
+      "Soutien du collègue"
+    ],
+    "character_keywords": [
+      "Dysmorphophobie",
+      "Préoccupation envahissante sur l’apparence",
+      "Vérifications et réassurance",
+      "Évitement et retentissement quotidien",
+      "Choix de soin et de participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d6765df5ad95aa1f45868ea6e344d356507eecb13d2783c16dd4f275ac19a7d5",
+    "summary": "Inès a apporté un couteau pour partager son sandwich. Sébastien lui prête le seul objet propre qui peut faire office d’assiette, une chute de carton gris. Elle trace d’abord une ligne avec la pointe, comme si elle préparait une découpe pour le décor. Ils rient. Sébastien avait proposé de manger à l’atelier pour pouvoir lui parler. Maintenant qu’elle est assise, il fait défiler les nouvelles du collectif sur son téléphone. Nora a envoyé une image du premier volet, prise après leur départ. Elle montre le bois et le calque fixé sur le côté. Ça, il peut le regarder longtemps pour le plaisir.\n\n[…]\n\nSébastien lui dit le nom de son trouble et lui demande de garder cette information pour elle. Ce qu’il aimerait entendre si la même question revient, ils en parlent un instant. Inès propose qu’elle puisse lui dire qu’elle voit combien ça l’occupe, puis lui demander s’il veut continuer à parler de la difficulté ou finir de manger. Elle précise qu’elle ne saura pas toujours quoi dire. Il répond qu’il ne le sait pas non plus. Inès remet le couteau dans son sac. Sébastien rapproche les deux gobelets et envoie à sa sœur Camille la confirmation d’un déjeuner samedi, chez elle.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Inès a apporté un couteau pour partager son sandwich. Sébastien lui prête le seul objet propre qui peut faire office d’assiette, une chute de carton gris. Elle trace d’abord une ligne avec la pointe, comme si elle préparait une découpe pour le décor. Ils rient. Sébastien avait proposé de manger à l’atelier pour pouvoir lui parler. Maintenant qu’elle est assise, il fait défiler les nouvelles du collectif sur son téléphone. Nora a envoyé une image du premier volet, prise après leur départ. Elle montre le bois et le calque fixé sur le côté. Ça, il peut le regarder longtemps pour le plaisir.",
+        "start": 2,
+        "end": 596
+      },
+      {
+        "quote": "Sébastien lui dit le nom de son trouble et lui demande de garder cette information pour elle. Ce qu’il aimerait entendre si la même question revient, ils en parlent un instant. Inès propose qu’elle puisse lui dire qu’elle voit combien ça l’occupe, puis lui demander s’il veut continuer à parler de la difficulté ou finir de manger. Elle précise qu’elle ne saura pas toujours quoi dire. Il répond qu’il ne le sait pas non plus. Inès remet le couteau dans son sac. Sébastien rapproche les deux gobelets et envoie à sa sœur Camille la confirmation d’un déjeuner samedi, chez elle.",
+        "start": 3346,
+        "end": 3923
+      }
+    ],
+    "canonical_concept": "Réassurance répétée et soutien sensible",
+    "context": "Le jeudi, autour d’un repas à la table de coupe",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B21",
+    "clinical_diagnosis": "Dysmorphophobie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sebastien-choisir-sa-place-dans-une-photo-de-groupe": {
+    "character": "Sébastien",
+    "character_id": "sebastien",
+    "keywords": [
+      "Participation choisie",
+      "Accord sur l’usage",
+      "Détresse et autonomie"
+    ],
+    "character_keywords": [
+      "Dysmorphophobie",
+      "Préoccupation envahissante sur l’apparence",
+      "Vérifications et réassurance",
+      "Évitement et retentissement quotidien",
+      "Choix de soin et de participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "6ff4d15a83b16f3122b513033318f575b61e3208964eb07f89c27e5d8aa766ea",
+    "summary": "Le volet s’est ouvert deux secondes après la lettre. Sébastien les a comptées depuis le côté de la salle, alors qu’il n’a plus à intervenir au signal. Quand le visage est apparu, une personne dans le public a ri. Le rire est arrivé à l’endroit qu’il espérait. L’homme peint semblait sur le point de répondre, juste avant que l’acteur reprenne l’enveloppe. Au salut, Sébastien regarde Inès près de la porte. Elle lui montre la poignée en levant le pouce, puis part à la gare comme prévu.\n\n[…]\n\n« Pour l’album, d’accord », dit Sébastien. Nora attend aussi les réponses des autres. Il propose de laisser la fenêtre dégagée et rejoint Malik près de la caisse. Le groupe se décale pour laisser visible l’homme à l’enveloppe. Quand Nora déclenche, l’inquiétude est toujours là. À la table des programmes, il écrit à Inès que le rire est parti au bon moment. Malik lui rappelle qu’ils viendront récupérer le panneau mardi. Sébastien laisse son exemplaire du plan à la salle et emporte un programme.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le volet s’est ouvert deux secondes après la lettre. Sébastien les a comptées depuis le côté de la salle, alors qu’il n’a plus à intervenir au signal. Quand le visage est apparu, une personne dans le public a ri. Le rire est arrivé à l’endroit qu’il espérait. L’homme peint semblait sur le point de répondre, juste avant que l’acteur reprenne l’enveloppe. Au salut, Sébastien regarde Inès près de la porte. Elle lui montre la poignée en levant le pouce, puis part à la gare comme prévu.",
+        "start": 2,
+        "end": 488
+      },
+      {
+        "quote": "« Pour l’album, d’accord », dit Sébastien. Nora attend aussi les réponses des autres. Il propose de laisser la fenêtre dégagée et rejoint Malik près de la caisse. Le groupe se décale pour laisser visible l’homme à l’enveloppe. Quand Nora déclenche, l’inquiétude est toujours là. À la table des programmes, il écrit à Inès que le rire est parti au bon moment. Malik lui rappelle qu’ils viendront récupérer le panneau mardi. Sébastien laisse son exemplaire du plan à la salle et emporte un programme.",
+        "start": 3308,
+        "end": 3806
+      }
+    ],
+    "canonical_concept": "Participation choisie malgré l’inquiétude",
+    "context": "Le vendredi de la première, après le départ du public",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B21",
+    "clinical_diagnosis": "Dysmorphophobie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sebastien-choisir-un-soin-pour-une-preoccupation-envahissante": {
+    "character": "Sébastien",
+    "character_id": "sebastien",
+    "keywords": [
+      "Soin consenti",
+      "Thérapie adaptée à la dysmorphophobie",
+      "Objectifs du suivi"
+    ],
+    "character_keywords": [
+      "Dysmorphophobie",
+      "Préoccupation envahissante sur l’apparence",
+      "Vérifications et réassurance",
+      "Évitement et retentissement quotidien",
+      "Choix de soin et de participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "cc9bd881dad9f006288c0959742056ae8ac9a7b7517c8f43f887c20f67362566",
+    "summary": "Au pied du centre, Camille sait quel côté de la porte pousser avant lui. Elle est déjà venue y déposer un dossier pour son travail, il y a longtemps. Il lui dit qu’il avait oublié qu’elle connaissait l’endroit. Puis il lui tend la moitié d’une mandarine qu’il a pelée dans le tram. Camille la prend dans un coin de mouchoir et lui souhaite un bon rendez-vous. Ils se séparent devant les horaires, comme convenu. Le bureau est à l’étage. Avant de monter, Sébastien jette l’écorce dans une corbeille dont le couvercle se referme très lentement.\n\n[…]\n\nAnaïs lui explique qu’ils peuvent commencer par comprendre ensemble ce qui occupe ses journées. Il peut lui raconter ce qu’il vit sans lui montrer la photo aujourd’hui. Si une autre étape est proposée, ils en parleront d’abord. Sébastien lui dit qu’il veut essayer cette thérapie et qu’il souhaite revenir sur son inquiétude autour des images lors de leur prochain rendez-vous, lundi. Il glisse le billet dans sa poche avec la date de la séance. Sur le parvis, il écrit à Camille pour lui dire merci. Au groupe de théâtre, il répond qu’il sera au rendez-vous de Nora mercredi pour le dossier d’impression. Il se note d’emporter l’épreuve avec les crédits du spectacle.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Au pied du centre, Camille sait quel côté de la porte pousser avant lui. Elle est déjà venue y déposer un dossier pour son travail, il y a longtemps. Il lui dit qu’il avait oublié qu’elle connaissait l’endroit. Puis il lui tend la moitié d’une mandarine qu’il a pelée dans le tram. Camille la prend dans un coin de mouchoir et lui souhaite un bon rendez-vous. Ils se séparent devant les horaires, comme convenu. Le bureau est à l’étage. Avant de monter, Sébastien jette l’écorce dans une corbeille dont le couvercle se referme très lentement.",
+        "start": 2,
+        "end": 544
+      },
+      {
+        "quote": "Anaïs lui explique qu’ils peuvent commencer par comprendre ensemble ce qui occupe ses journées. Il peut lui raconter ce qu’il vit sans lui montrer la photo aujourd’hui. Si une autre étape est proposée, ils en parleront d’abord. Sébastien lui dit qu’il veut essayer cette thérapie et qu’il souhaite revenir sur son inquiétude autour des images lors de leur prochain rendez-vous, lundi. Il glisse le billet dans sa poche avec la date de la séance. Sur le parvis, il écrit à Camille pour lui dire merci. Au groupe de théâtre, il répond qu’il sera au rendez-vous de Nora mercredi pour le dossier d’impression. Il se note d’emporter l’épreuve avec les crédits du spectacle.",
+        "start": 3321,
+        "end": 3989
+      }
+    ],
+    "canonical_concept": "Choix de soin et objectifs partagés",
+    "context": "Le mardi suivant, dans le bureau de la psychologue du centre",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B21",
+    "clinical_diagnosis": "Dysmorphophobie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sebastien-croire-que-les-autres-parlent-de-son-apparence": {
+    "character": "Sébastien",
+    "character_id": "sebastien",
+    "keywords": [
+      "Regard d’autrui",
+      "Attention accaparée",
+      "Conviction qui varie"
+    ],
+    "character_keywords": [
+      "Dysmorphophobie",
+      "Préoccupation envahissante sur l’apparence",
+      "Vérifications et réassurance",
+      "Évitement et retentissement quotidien",
+      "Choix de soin et de participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "6587eb9ac150da2397b4ead8745e0ad5dbb5b83496f329f54e741462afc65999",
+    "summary": "Le premier coup doit partir de la coulisse, puis quelqu’un ouvre le volet du haut. Sébastien l’essaie lui-même au filage pour voir si le visage peint paraît répondre à la réplique qui précède. Inès a mis une feuille de papier sur le bois, là où ils devront gommer un ancien repère. Depuis son poste, Sébastien ne voit pas la salle. Il distingue le bruit sec de la feuille quand un comédien passe près du panneau. Ils répètent cette transition depuis assez longtemps pour qu’il puisse en dire les trois premières phrases avec les acteurs.\n\n[…]\n\nInès prend la poignée. Au fond de la salle, Sébastien lève la main deux secondes après la réplique et lui demande de garder ce délai. Dans le silence, le visage peint semble choisir s’il va répondre. Malik note le changement sur sa feuille de conduite. En rangeant, Sébastien pense encore au rire, mais il n’est plus aussi sûr d’en comprendre la raison. Il remet le morceau de papier sur l’ancien repère et dit à Inès qu’il viendra samedi pour le montage.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le premier coup doit partir de la coulisse, puis quelqu’un ouvre le volet du haut. Sébastien l’essaie lui-même au filage pour voir si le visage peint paraît répondre à la réplique qui précède. Inès a mis une feuille de papier sur le bois, là où ils devront gommer un ancien repère. Depuis son poste, Sébastien ne voit pas la salle. Il distingue le bruit sec de la feuille quand un comédien passe près du panneau. Ils répètent cette transition depuis assez longtemps pour qu’il puisse en dire les trois premières phrases avec les acteurs.",
+        "start": 2,
+        "end": 539
+      },
+      {
+        "quote": "Inès prend la poignée. Au fond de la salle, Sébastien lève la main deux secondes après la réplique et lui demande de garder ce délai. Dans le silence, le visage peint semble choisir s’il va répondre. Malik note le changement sur sa feuille de conduite. En rangeant, Sébastien pense encore au rire, mais il n’est plus aussi sûr d’en comprendre la raison. Il remet le morceau de papier sur l’ancien repère et dit à Inès qu’il viendra samedi pour le montage.",
+        "start": 3198,
+        "end": 3653
+      }
+    ],
+    "canonical_concept": "Crainte du jugement et degré de conviction",
+    "context": "Le jeudi, pendant le filage des ouvertures",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B21",
+    "clinical_diagnosis": "Dysmorphophobie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sebastien-demander-un-appui-que-chacun-peut-tenir": {
+    "character": "Sébastien",
+    "character_id": "sebastien",
+    "keywords": [
+      "Appui concret",
+      "Limites des proches",
+      "Partage des tâches"
+    ],
+    "character_keywords": [
+      "Dysmorphophobie",
+      "Préoccupation envahissante sur l’apparence",
+      "Vérifications et réassurance",
+      "Évitement et retentissement quotidien",
+      "Choix de soin et de participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "757b6eb9aa7e83259dec8e4ffaf904a35ec1bdb554fa1bc90e6285995c3abbce",
+    "summary": "En séchant, la peinture a fait une petite surépaisseur sur le bord du volet. Sébastien l’a reprise et attend qu’Inès vienne essayer la poignée. À cinq heures et quart, quelqu’un d’autre accueille les comédiens, comme convenu avec Malik. Des voix dans le couloir réclament une rallonge, un tabouret, deux exemplaires du texte. Sur l’escabeau replié, Sébastien a posé sa craie. Il veut reporter la croix tracée au sol sur le plan que Malik gardera dans la salle.\n\n[…]\n\nInès dessine la croix sur le plan avec lui et laisse la craie à Malik. Elle lui souhaite de trouver un arrangement qui lui convienne pour la photo, puis prend son écharpe. Sébastien écrit directement à Nora. Elle lui répond que la photo d’album aura lieu après le départ du public et que chacun pourra dire oui ou non sur place. Il la remercie et s’engage à montrer le repère du volet à l’équipe avant la première. Malik classe le plan en tête du dossier. Le soir, il n’y a plus de retouche inscrite sous le nom de Sébastien.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "En séchant, la peinture a fait une petite surépaisseur sur le bord du volet. Sébastien l’a reprise et attend qu’Inès vienne essayer la poignée. À cinq heures et quart, quelqu’un d’autre accueille les comédiens, comme convenu avec Malik. Des voix dans le couloir réclament une rallonge, un tabouret, deux exemplaires du texte. Sur l’escabeau replié, Sébastien a posé sa craie. Il veut reporter la croix tracée au sol sur le plan que Malik gardera dans la salle.",
+        "start": 2,
+        "end": 462
+      },
+      {
+        "quote": "Inès dessine la croix sur le plan avec lui et laisse la craie à Malik. Elle lui souhaite de trouver un arrangement qui lui convienne pour la photo, puis prend son écharpe. Sébastien écrit directement à Nora. Elle lui répond que la photo d’album aura lieu après le départ du public et que chacun pourra dire oui ou non sur place. Il la remercie et s’engage à montrer le repère du volet à l’équipe avant la première. Malik classe le plan en tête du dossier. Le soir, il n’y a plus de retouche inscrite sous le nom de Sébastien.",
+        "start": 3285,
+        "end": 3810
+      }
+    ],
+    "canonical_concept": "Appui concret et limites des proches",
+    "context": "Le mercredi de la retouche, en fin de journée",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B21",
+    "clinical_diagnosis": "Dysmorphophobie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sebastien-difficultes-qui-reprennent-de-la-place": {
+    "character": "Sébastien",
+    "character_id": "sebastien",
+    "keywords": [
+      "Fluctuations",
+      "Retentissement quotidien",
+      "Suivi spécialisé"
+    ],
+    "character_keywords": [
+      "Dysmorphophobie",
+      "Préoccupation envahissante sur l’apparence",
+      "Vérifications et réassurance",
+      "Évitement et retentissement quotidien",
+      "Choix de soin et de participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "a4f21bec4a19fa10c41d9e2ca657fcd0ac5478b133bdfdbebcc02ea9c8f1334d",
+    "summary": "Sur le cahier du centre, Sébastien a inscrit son heure d’arrivée avec le stylo attaché à la couverture. La ficelle est si courte qu’il a fallu rapprocher le cahier. Ça lui rappelle la cordelette que Malik a nouée au crayon du plan de conduite, samedi, pour qu’on cesse de le chercher pendant le montage. Depuis, Malik a demandé qui pouvait aussi tenir l’entrée mercredi pendant la répétition. Sébastien a laissé le message en suspens. Il est attendu pour une retouche du volet du haut et n’a pas répondu pour le reste.\n\n[…]\n\nAnaïs et Sébastien reprennent leur objectif. Il veut retrouver du temps dans les journées où l’inquiétude prend toute la place. Ils conviennent d’un entretien le jeudi de la semaine suivante et elle lui rappelle comment joindre le centre si la gêne augmente avant. Dans l’escalier, il répond à Malik qu’il gardera la retouche de mercredi à dix-sept heures et laissera l’accueil à quelqu’un d’autre. Il note la date du suivi dans son agenda. En repartant, il achète un chausson aux pommes au kiosque du tram, surtout parce qu’il n’en avait pas mangé depuis longtemps.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Sur le cahier du centre, Sébastien a inscrit son heure d’arrivée avec le stylo attaché à la couverture. La ficelle est si courte qu’il a fallu rapprocher le cahier. Ça lui rappelle la cordelette que Malik a nouée au crayon du plan de conduite, samedi, pour qu’on cesse de le chercher pendant le montage. Depuis, Malik a demandé qui pouvait aussi tenir l’entrée mercredi pendant la répétition. Sébastien a laissé le message en suspens. Il est attendu pour une retouche du volet du haut et n’a pas répondu pour le reste.",
+        "start": 2,
+        "end": 520
+      },
+      {
+        "quote": "Anaïs et Sébastien reprennent leur objectif. Il veut retrouver du temps dans les journées où l’inquiétude prend toute la place. Ils conviennent d’un entretien le jeudi de la semaine suivante et elle lui rappelle comment joindre le centre si la gêne augmente avant. Dans l’escalier, il répond à Malik qu’il gardera la retouche de mercredi à dix-sept heures et laissera l’accueil à quelqu’un d’autre. Il note la date du suivi dans son agenda. En repartant, il achète un chausson aux pommes au kiosque du tram, surtout parce qu’il n’en avait pas mangé depuis longtemps.",
+        "start": 3147,
+        "end": 3713
+      }
+    ],
+    "canonical_concept": "Fluctuations et ajustement du suivi",
+    "context": "Le lundi qui suit le montage, au centre",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B21",
+    "clinical_diagnosis": "Dysmorphophobie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sebastien-eviter-un-lieu-ou-lon-redoute-detre-vu": {
+    "character": "Sébastien",
+    "character_id": "sebastien",
+    "keywords": [
+      "Évitement",
+      "Crainte du regard",
+      "Participation au travail"
+    ],
+    "character_keywords": [
+      "Dysmorphophobie",
+      "Préoccupation envahissante sur l’apparence",
+      "Vérifications et réassurance",
+      "Évitement et retentissement quotidien",
+      "Choix de soin et de participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "18603ab93e39c6bf9d2273d6efcd0a84df32fd9415add4deb93d3e53d3a57620",
+    "summary": "Le premier volet ressemble à une planche de placard tant qu’Inès le tient debout dans le couloir. Sur le plateau, il est censé faire apparaître un habitant de l’immeuble. Sébastien est venu pour voir si le visage se lit du fond de la salle. Il a apporté de la craie pour marquer l’emplacement d’où il veut regarder. Inès cale le volet contre le mur pour lui tendre le plan de montage qu’elle lui avait gardé. De l’autre côté du rideau, Malik fait venir deux comédiens pour qu’ils donnent leur avis avant de repartir déjeuner.\n\n[…]\n\nInès a dix minutes avant de retrouver les comédiens. Elle tient le volet pendant que Sébastien va au fond de la salle. De là, il lui demande de le déplacer d’une largeur de main. Le visage apparaît entier. Il reporte leur décision sur le plan et trace une croix au sol, là où il se tient. Il convient avec Malik que les images du jour montreront le décor seul. Malik lui dit que la question de l’album reviendra mercredi prochain. En revenant, Sébastien range sa craie avec le plan. Il demande à Inès si elle déjeunera à l’atelier demain. Il a quelque chose à lui dire au sujet des vérifications qui lui ont pris du temps la veille.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le premier volet ressemble à une planche de placard tant qu’Inès le tient debout dans le couloir. Sur le plateau, il est censé faire apparaître un habitant de l’immeuble. Sébastien est venu pour voir si le visage se lit du fond de la salle. Il a apporté de la craie pour marquer l’emplacement d’où il veut regarder. Inès cale le volet contre le mur pour lui tendre le plan de montage qu’elle lui avait gardé. De l’autre côté du rideau, Malik fait venir deux comédiens pour qu’ils donnent leur avis avant de repartir déjeuner.",
+        "start": 2,
+        "end": 527
+      },
+      {
+        "quote": "Inès a dix minutes avant de retrouver les comédiens. Elle tient le volet pendant que Sébastien va au fond de la salle. De là, il lui demande de le déplacer d’une largeur de main. Le visage apparaît entier. Il reporte leur décision sur le plan et trace une croix au sol, là où il se tient. Il convient avec Malik que les images du jour montreront le décor seul. Malik lui dit que la question de l’album reviendra mercredi prochain. En revenant, Sébastien range sa craie avec le plan. Il demande à Inès si elle déjeunera à l’atelier demain. Il a quelque chose à lui dire au sujet des vérifications qui lui ont pris du temps la veille.",
+        "start": 3244,
+        "end": 3876
+      }
+    ],
+    "canonical_concept": "Évitement et choix de participation",
+    "context": "Le mercredi à midi, entre le couloir et le plateau",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B21",
+    "clinical_diagnosis": "Dysmorphophobie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sebastien-faire-le-point-sur-le-quotidien": {
+    "character": "Sébastien",
+    "character_id": "sebastien",
+    "keywords": [
+      "Retentissement quotidien",
+      "Suivi dans le temps",
+      "Projets choisis"
+    ],
+    "character_keywords": [
+      "Dysmorphophobie",
+      "Préoccupation envahissante sur l’apparence",
+      "Vérifications et réassurance",
+      "Évitement et retentissement quotidien",
+      "Choix de soin et de participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "d3de54d3b4eca6d77922ed7dd9915d7c3fe86f6198266619f5f7a010b4e56d5d",
+    "summary": "En reprenant le décor, Sébastien retrouve sa petite croix au fond de la salle. Le premier soir, il avait cru qu’un passage d’aspirateur l’effacerait. On a balayé tout autour pour la deuxième représentation. Il tient maintenant un chiffon humide et la fait disparaître avant de ramener le volet avec Malik. Au passage de la porte, ils doivent tourner le panneau pour qu’il ne cogne pas la plaque des horaires. Malik annonce chaque pas, comme s’ils reprenaient une répétition avec une seule réplique.\n\n[…]\n\nSébastien demande à Malik de lui envoyer le texte de la lecture et dit qu’il répondra après l’avoir lu. En sortant, il ouvre l’album. Son doigt s’arrête sur la fenêtre peinte et sur le groupe réuni devant elle. Il éprouve encore une gêne dont il parlera jeudi avec Anaïs. Il remet le téléphone dans sa poche, cherche sur le plan du quartier l’adresse de l’enveloppe et appelle Camille. Elle a vingt minutes après le travail demain. Ils décident de retrouver l’ancien arrêt de bus et de prendre un café s’il reste des tables dehors. Dans le carnet qu’il gardait pour un prochain chantier, Sébastien écrit le nom de la rue en haut de la première page.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "En reprenant le décor, Sébastien retrouve sa petite croix au fond de la salle. Le premier soir, il avait cru qu’un passage d’aspirateur l’effacerait. On a balayé tout autour pour la deuxième représentation. Il tient maintenant un chiffon humide et la fait disparaître avant de ramener le volet avec Malik. Au passage de la porte, ils doivent tourner le panneau pour qu’il ne cogne pas la plaque des horaires. Malik annonce chaque pas, comme s’ils reprenaient une répétition avec une seule réplique.",
+        "start": 2,
+        "end": 500
+      },
+      {
+        "quote": "Sébastien demande à Malik de lui envoyer le texte de la lecture et dit qu’il répondra après l’avoir lu. En sortant, il ouvre l’album. Son doigt s’arrête sur la fenêtre peinte et sur le groupe réuni devant elle. Il éprouve encore une gêne dont il parlera jeudi avec Anaïs. Il remet le téléphone dans sa poche, cherche sur le plan du quartier l’adresse de l’enveloppe et appelle Camille. Elle a vingt minutes après le travail demain. Ils décident de retrouver l’ancien arrêt de bus et de prendre un café s’il reste des tables dehors. Dans le carnet qu’il gardait pour un prochain chantier, Sébastien écrit le nom de la rue en haut de la première page.",
+        "start": 3364,
+        "end": 4013
+      }
+    ],
+    "canonical_concept": "Suivi du retentissement et choix futurs",
+    "context": "Le mardi après la représentation, à la reprise du décor",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B21",
+    "clinical_diagnosis": "Dysmorphophobie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sebastien-honte-et-difficulte-cachee": {
+    "character": "Sébastien",
+    "character_id": "sebastien",
+    "keywords": [
+      "Honte",
+      "Souffrance peu visible",
+      "Confidence choisie"
+    ],
+    "character_keywords": [
+      "Dysmorphophobie",
+      "Préoccupation envahissante sur l’apparence",
+      "Vérifications et réassurance",
+      "Évitement et retentissement quotidien",
+      "Choix de soin et de participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "a939c1fcb7f1af1311d541335e3dea9491b0f1acabe367cdcfb83b7dc0711966",
+    "summary": "Chez Camille, il y a une chaise qu’il faut tirer par le côté pour ouvrir la porte du four. Sébastien l’oublie chaque fois. Ce samedi, sa sœur tape sur le dossier avec sa cuillère en bois. Il se lève, prend la chaise et la tourne vers le mur pendant qu’elle sort le plat. Sur le frigo, elle a gardé un dessin qu’il a fait en attendant le train. Deux voyageurs de profil ont chacun l’air de se demander si c’est leur train qui part. Elle lui demande si les gens de son décor auront aussi l’air d’être en retard. Il dit qu’eux, au moins, sont déjà chez eux.\n\n[…]\n\nSébastien dit qu’il se fait suivre pour une dysmorphophobie. Il raconte le dimanche où il n’a pas réussi à venir et demande si Camille peut faire avec lui le dernier bout du trajet, depuis le tram. Elle peut marcher jusque-là, puis elle a une course. Il lui dit que c’est exactement ce qu’il demande. Pour leur tante, il préfère répondre lui-même d’ici mercredi. Camille remet le plat au four pour tenir une deuxième part au chaud. Il tire la chaise par le côté sans attendre qu’elle le lui rappelle.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Chez Camille, il y a une chaise qu’il faut tirer par le côté pour ouvrir la porte du four. Sébastien l’oublie chaque fois. Ce samedi, sa sœur tape sur le dossier avec sa cuillère en bois. Il se lève, prend la chaise et la tourne vers le mur pendant qu’elle sort le plat. Sur le frigo, elle a gardé un dessin qu’il a fait en attendant le train. Deux voyageurs de profil ont chacun l’air de se demander si c’est leur train qui part. Elle lui demande si les gens de son décor auront aussi l’air d’être en retard. Il dit qu’eux, au moins, sont déjà chez eux.",
+        "start": 2,
+        "end": 556
+      },
+      {
+        "quote": "Sébastien dit qu’il se fait suivre pour une dysmorphophobie. Il raconte le dimanche où il n’a pas réussi à venir et demande si Camille peut faire avec lui le dernier bout du trajet, depuis le tram. Elle peut marcher jusque-là, puis elle a une course. Il lui dit que c’est exactement ce qu’il demande. Pour leur tante, il préfère répondre lui-même d’ici mercredi. Camille remet le plat au four pour tenir une deuxième part au chaud. Il tire la chaise par le côté sans attendre qu’elle le lui rappelle.",
+        "start": 3345,
+        "end": 3845
+      }
+    ],
+    "canonical_concept": "Honte, dissimulation et confiance",
+    "context": "Un samedi, dans la cuisine de Camille",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B21",
+    "clinical_diagnosis": "Dysmorphophobie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sebastien-image-partagee-hors-accord": {
+    "character": "Sébastien",
+    "character_id": "sebastien",
+    "keywords": [
+      "Accord sur les images",
+      "Vérification",
+      "Réparation concrète"
+    ],
+    "character_keywords": [
+      "Dysmorphophobie",
+      "Préoccupation envahissante sur l’apparence",
+      "Vérifications et réassurance",
+      "Évitement et retentissement quotidien",
+      "Choix de soin et de participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "296a19ea0c4c6e2740d842766f5173c545120c0571e8ab304563d6b699a2badf",
+    "summary": "Le panneau du fond fait enfin un angle droit avec la porte peinte. En reculant, Sébastien découvre que les fenêtres du haut ont la même couleur que le mur de la salle. Il appelle Inès pour lui montrer le raccord. À deux, ils retrouvent le pot de bleu dans une caisse marquée « quincaillerie », ce qui les fait rire. Nora demande si elle peut prendre une image des fenêtres pour les membres qui ont prêté les panneaux. Elle le fera depuis le fond et, comme convenu pour le montage, sans les gens. Sébastien répond qu’il termine d’écrire le numéro du pot et qu’il quitte le champ.\n\n[…]\n\nNora retire son envoi et demande au groupe de ne pas conserver ou transmettre la première image. Elle lui dit ce qu’elle a fait et attend que la salle se vide avant de photographier le décor seul. Sébastien accepte qu’Inès prenne la caisse pour la remonter. Il retourne au plateau plus tard et rejoint Malik pour inscrire le délai du volet sur le plan qu’ils laisseront près du rideau. Ils terminent le montage sans revenir à la première image. En rentrant, il pense encore à ce qu’il y avait vu et au rendez-vous de lundi, qu’il décide de garder.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Le panneau du fond fait enfin un angle droit avec la porte peinte. En reculant, Sébastien découvre que les fenêtres du haut ont la même couleur que le mur de la salle. Il appelle Inès pour lui montrer le raccord. À deux, ils retrouvent le pot de bleu dans une caisse marquée « quincaillerie », ce qui les fait rire. Nora demande si elle peut prendre une image des fenêtres pour les membres qui ont prêté les panneaux. Elle le fera depuis le fond et, comme convenu pour le montage, sans les gens. Sébastien répond qu’il termine d’écrire le numéro du pot et qu’il quitte le champ.",
+        "start": 2,
+        "end": 580
+      },
+      {
+        "quote": "Nora retire son envoi et demande au groupe de ne pas conserver ou transmettre la première image. Elle lui dit ce qu’elle a fait et attend que la salle se vide avant de photographier le décor seul. Sébastien accepte qu’Inès prenne la caisse pour la remonter. Il retourne au plateau plus tard et rejoint Malik pour inscrire le délai du volet sur le plan qu’ils laisseront près du rideau. Ils terminent le montage sans revenir à la première image. En rentrant, il pense encore à ce qu’il y avait vu et au rendez-vous de lundi, qu’il décide de garder.",
+        "start": 3258,
+        "end": 3805
+      }
+    ],
+    "canonical_concept": "Limite d’image et vérification répétée",
+    "context": "Le samedi du montage, devant le décor mis en place",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B21",
+    "clinical_diagnosis": "Dysmorphophobie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sebastien-peur-du-regard-et-photo-publique": {
+    "character": "Sébastien",
+    "character_id": "sebastien",
+    "keywords": [
+      "Crainte du regard",
+      "Accord sur les images",
+      "Reconnaissance du travail"
+    ],
+    "character_keywords": [
+      "Dysmorphophobie",
+      "Préoccupation envahissante sur l’apparence",
+      "Vérifications et réassurance",
+      "Évitement et retentissement quotidien",
+      "Choix de soin et de participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f89676769b55e22556272115c6063909039608e9656bf2e91a81ae1dd46395ac",
+    "summary": "L’imprimeuse a posé un galet sur l’épreuve pour que le papier reste à plat. Sous le galet, Sébastien retrouve La Poste de nuit, le nom de la pièce. Plus bas, à côté de la date, un rectangle porte la mention « photo du collectif, à fournir ». Il déplace la pierre et voit la ligne des crédits au bas de l’affiche. Les noms sont petits. Le sien figure à côté de celui d’Inès, après le mot décor. Il avait emporté l’épreuve de la veille pour s’assurer que cette ligne serait là. En venant, il a répondu à sa tante qu’il passerait pour le café le dimanche dont Camille lui a parlé. Elle pourra déjeuner à l’heure qu’elle veut.\n\n[…]\n\nNora photographie le dessin posé à plat, pendant que Malik appelle l’imprimeuse pour vérifier le délai. Sébastien propose d’agrandir la ligne des crédits. Malik recule de deux pas, lit leurs noms à voix haute, puis valide l’épreuve avec eux. L’affiche part avec le dessin et les noms. Sébastien dit à Nora qu’il reparlera de l’album après le montage. Il finit de rouler l’essai et ramasse le galet qu’il a fait glisser en dégageant le papier. En sortant, il confirme à Inès qu’il sera au filage des ouvertures jeudi et remet la craie dans la poche de sa veste.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "L’imprimeuse a posé un galet sur l’épreuve pour que le papier reste à plat. Sous le galet, Sébastien retrouve La Poste de nuit, le nom de la pièce. Plus bas, à côté de la date, un rectangle porte la mention « photo du collectif, à fournir ». Il déplace la pierre et voit la ligne des crédits au bas de l’affiche. Les noms sont petits. Le sien figure à côté de celui d’Inès, après le mot décor. Il avait emporté l’épreuve de la veille pour s’assurer que cette ligne serait là. En venant, il a répondu à sa tante qu’il passerait pour le café le dimanche dont Camille lui a parlé. Elle pourra déjeuner à l’heure qu’elle veut.",
+        "start": 2,
+        "end": 624
+      },
+      {
+        "quote": "Nora photographie le dessin posé à plat, pendant que Malik appelle l’imprimeuse pour vérifier le délai. Sébastien propose d’agrandir la ligne des crédits. Malik recule de deux pas, lit leurs noms à voix haute, puis valide l’épreuve avec eux. L’affiche part avec le dessin et les noms. Sébastien dit à Nora qu’il reparlera de l’album après le montage. Il finit de rouler l’essai et ramasse le galet qu’il a fait glisser en dégageant le papier. En sortant, il confirme à Inès qu’il sera au filage des ouvertures jeudi et remet la craie dans la poche de sa veste.",
+        "start": 3508,
+        "end": 4068
+      }
+    ],
+    "canonical_concept": "Crainte du jugement et accord sur l’image",
+    "context": "Le mercredi, au local d’impression du quartier",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B21",
+    "clinical_diagnosis": "Dysmorphophobie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/sebastien-temps-perdu-a-verifier-son-apparence": {
+    "character": "Sébastien",
+    "character_id": "sebastien",
+    "keywords": [
+      "Préoccupation envahissante",
+      "Temps pris par les vérifications",
+      "Retentissement au travail"
+    ],
+    "character_keywords": [
+      "Dysmorphophobie",
+      "Préoccupation envahissante sur l’apparence",
+      "Vérifications et réassurance",
+      "Évitement et retentissement quotidien",
+      "Choix de soin et de participation"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "8717da56c6fb814579a2e23531fbb6e7f865809c197e9905c9ae79f4c8ee8b84",
+    "summary": "Pour que l’immeuble ait l’air habité, Sébastien dessine les gens juste avant qu’ils parlent. Dans la fenêtre du rez-de-chaussée, un vieil homme tient une enveloppe qu’il semble encore pouvoir rendre au facteur. Au-dessus, une femme a entendu quelque chose dans la rue. Sébastien a laissé trois millimètres entre le trait et le bord du calque pour qu’Inès puisse faire jouer les volets sans emporter un bout du dessin. Il reste à signer le bon calque. L’autre, marqué d’un coin plié, était son premier essai.\n\n[…]\n\nSébastien écrit « à reporter » au crayon dans la marge du second dessin. Il soulève le gobelet d’Inès, glisse un dessous en carton et pose le calque à côté. Il pourra finir seul le repère du volet supérieur demain. Inès veut d’abord voir les panneaux sur le plateau. Elle y sera à midi et lui garde le plan de montage. Sébastien accepte. Pendant qu’elle pose le calque sur le bois, il écrit à l’équipe de soins pour confirmer le prochain rendez-vous. Son café a tiédi. Il le boit debout pendant que le premier trait du calque passe sur le bois.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Pour que l’immeuble ait l’air habité, Sébastien dessine les gens juste avant qu’ils parlent. Dans la fenêtre du rez-de-chaussée, un vieil homme tient une enveloppe qu’il semble encore pouvoir rendre au facteur. Au-dessus, une femme a entendu quelque chose dans la rue. Sébastien a laissé trois millimètres entre le trait et le bord du calque pour qu’Inès puisse faire jouer les volets sans emporter un bout du dessin. Il reste à signer le bon calque. L’autre, marqué d’un coin plié, était son premier essai.",
+        "start": 2,
+        "end": 509
+      },
+      {
+        "quote": "Sébastien écrit « à reporter » au crayon dans la marge du second dessin. Il soulève le gobelet d’Inès, glisse un dessous en carton et pose le calque à côté. Il pourra finir seul le repère du volet supérieur demain. Inès veut d’abord voir les panneaux sur le plateau. Elle y sera à midi et lui garde le plan de montage. Sébastien accepte. Pendant qu’elle pose le calque sur le bois, il écrit à l’équipe de soins pour confirmer le prochain rendez-vous. Son café a tiédi. Il le boit debout pendant que le premier trait du calque passe sur le bois.",
+        "start": 3353,
+        "end": 3897
+      }
+    ],
+    "canonical_concept": "Préoccupation et retentissement au travail",
+    "context": "Un mardi, dans l’atelier du collectif, avant le passage d’Inès",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6B21",
+    "clinical_diagnosis": "Dysmorphophobie"
+  },
   "posts/comprendre-et-maitriser-ses-emotions/selma-bruit-serre-familiale": {
     "character": "Selma",
     "character_id": "selma",
@@ -23481,6 +24849,462 @@
     "resources": [],
     "clinical_code": "6B03",
     "clinical_diagnosis": "Phobie spécifique"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/timothee-aggravation-et-evaluation-episode-depressif": {
+    "character": "Timothée",
+    "character_id": "timothee",
+    "keywords": [
+      "Aggravation",
+      "Épisode dépressif",
+      "Évaluation clinique"
+    ],
+    "character_keywords": [
+      "Dysthymie",
+      "Humeur basse et variations",
+      "Effort dans le quotidien",
+      "Intérêt et plaisir",
+      "Ajustement du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "02621b5babc107ed9f9076c8f512618f1372dc116e794e89cbbd30213359ad3c",
+    "summary": "Dans la salle d’attente, Timothée sort le ticket qu’il garde sous sa carte de bus. C’est celui du magasin de Yacine, qui lui a confirmé l’heure de son passage. Le ticket ne lui apprend rien sur le soir où il a cessé de passer à la boulangerie. Il essaie de retrouver ce soir en pensant aux courses qu’il avait faites avant. Quand la docteure Rivière l’appelle, il dit qu’il croyait pouvoir lui donner une date et qu’il n’en est plus sûr. Elle lui demande ce qu’il ferait d’ordinaire après son service. Il décrit la boulangerie, le banc où il attend parfois le bus, les messages auxquels il arrivait en général à répondre, quitte à les remettre au lendemain.\n\n[…]\n\nLa docteure fixe un point la semaine suivante, vérifie que Timothée a gardé les contacts convenus et lui propose de revoir alors ce qui l’aide ou lui pose problème dans son suivi. Dans la cour, il écrit à Sacha qu’il doit déplacer l’essai de demain. Il propose de reprendre contact en début de semaine, sans promettre une nouvelle date tout de suite. Sacha répond qu’il gardera ses questions et qu’il a besoin d’être prévenu un peu à l’avance pour les samedis où il travaille. Timothée enregistre cette information avec celle qui concerne le prêt du violon.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Dans la salle d’attente, Timothée sort le ticket qu’il garde sous sa carte de bus. C’est celui du magasin de Yacine, qui lui a confirmé l’heure de son passage. Le ticket ne lui apprend rien sur le soir où il a cessé de passer à la boulangerie. Il essaie de retrouver ce soir en pensant aux courses qu’il avait faites avant. Quand la docteure Rivière l’appelle, il dit qu’il croyait pouvoir lui donner une date et qu’il n’en est plus sûr. Elle lui demande ce qu’il ferait d’ordinaire après son service. Il décrit la boulangerie, le banc où il attend parfois le bus, les messages auxquels il arrivait en général à répondre, quitte à les remettre au lendemain.",
+        "start": 2,
+        "end": 659
+      },
+      {
+        "quote": "La docteure fixe un point la semaine suivante, vérifie que Timothée a gardé les contacts convenus et lui propose de revoir alors ce qui l’aide ou lui pose problème dans son suivi. Dans la cour, il écrit à Sacha qu’il doit déplacer l’essai de demain. Il propose de reprendre contact en début de semaine, sans promettre une nouvelle date tout de suite. Sacha répond qu’il gardera ses questions et qu’il a besoin d’être prévenu un peu à l’avance pour les samedis où il travaille. Timothée enregistre cette information avec celle qui concerne le prêt du violon.",
+        "start": 3886,
+        "end": 4443
+      }
+    ],
+    "canonical_concept": "Dysthymie et épisode dépressif surajouté",
+    "context": "Le vendredi matin, lors de la consultation avancée",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6A72",
+    "clinical_diagnosis": "Dysthymie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/timothee-aide-choisie-garder-place": {
+    "character": "Timothée",
+    "character_id": "timothee",
+    "keywords": [
+      "Aide choisie",
+      "Confidentialité",
+      "Autonomie"
+    ],
+    "character_keywords": [
+      "Dysthymie",
+      "Humeur basse et variations",
+      "Effort dans le quotidien",
+      "Intérêt et plaisir",
+      "Ajustement du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "f1cddc90abf6905a131ed0e39a30a43c40453838dee532d5ee3ee9a380ef7b9c",
+    "summary": "Au pied de l’escalier de l’école de musique, une rangée de chaussures mouillées barre l’accès au radiateur. Timothée attend que Nora termine son cours pour lui rendre son plat et lui demander combien de temps Sacha peut garder le violon d’étude. Il n’est pas venu dans ce bâtiment depuis une fête de quartier. Ce jour-là, il était resté près de la porte pour regarder les enfants trouver leurs parents. Aujourd’hui, une personne lui demande où est la salle quatre et il peut lui montrer le panneau caché par une affiche.\n\n[…]\n\nNora propose de déposer la chaise avant son premier cours, le samedi qu’ils retiendront. Timothée la remercie et appelle Sacha en sortant de l’école. Ils trouvent un samedi dans un peu moins de trois semaines, avant la fin du prêt, à un horaire où Sacha n’est pas attendu au travail. Il pourra se rendre disponible en sachant que l’essai dure toujours une demi-heure. Timothée envoie l’heure à Nora et ajoute un seul mot, « chaise ». Elle répond avec l’heure à laquelle elle pourra la laisser dans le garage.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Au pied de l’escalier de l’école de musique, une rangée de chaussures mouillées barre l’accès au radiateur. Timothée attend que Nora termine son cours pour lui rendre son plat et lui demander combien de temps Sacha peut garder le violon d’étude. Il n’est pas venu dans ce bâtiment depuis une fête de quartier. Ce jour-là, il était resté près de la porte pour regarder les enfants trouver leurs parents. Aujourd’hui, une personne lui demande où est la salle quatre et il peut lui montrer le panneau caché par une affiche.",
+        "start": 2,
+        "end": 522
+      },
+      {
+        "quote": "Nora propose de déposer la chaise avant son premier cours, le samedi qu’ils retiendront. Timothée la remercie et appelle Sacha en sortant de l’école. Ils trouvent un samedi dans un peu moins de trois semaines, avant la fin du prêt, à un horaire où Sacha n’est pas attendu au travail. Il pourra se rendre disponible en sachant que l’essai dure toujours une demi-heure. Timothée envoie l’heure à Nora et ajoute un seul mot, « chaise ». Elle répond avec l’heure à laquelle elle pourra la laisser dans le garage.",
+        "start": 3412,
+        "end": 3920
+      }
+    ],
+    "canonical_concept": "Appui choisi et pouvoir de décider",
+    "context": "Le mardi après le report, dans l’entrée de l’école de musique",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6A72",
+    "clinical_diagnosis": "Dysthymie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/timothee-ajuster-suivi-a-sa-vie": {
+    "character": "Timothée",
+    "character_id": "timothee",
+    "keywords": [
+      "Choix des soins",
+      "Accès au suivi",
+      "Gêne persistante"
+    ],
+    "character_keywords": [
+      "Dysthymie",
+      "Humeur basse et variations",
+      "Effort dans le quotidien",
+      "Intérêt et plaisir",
+      "Ajustement du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "e4a69f4d06cfaaccd7127a0f99b2d191907d92203fb65f974d558e17718a3f46",
+    "summary": "À la fin du service, Timothée trouve deux boutons dans le tambour d’une machine de la résidence. Il les pose sur le rebord où les étudiants viennent chercher leurs affaires perdues. Il manque celui du haut à sa propre blouse depuis des mois. Aucun des deux boutons trouvés n’est de la bonne taille. Dans le bus qui le mène au cabinet, il se demande s’il aura encore la force de dire autre chose que « je viens comme prévu ».\n\n[…]\n\nTimothée et la docteure conviennent de poursuivre le travail avec Maud et de refaire le point sur les options au rendez-vous suivant. Il lui demande dans quelles circonstances un médicament pourrait être utile. Elle prend le temps de lui expliquer ce qu’ils auraient à peser ensemble. Il veut garder ce sujet ouvert. Une fois dehors, il demande à Maud s’il existe un créneau avant sa tournée du mardi. Elle en propose un. Timothée le confirme et l’inscrit dans son agenda sans déplacer la date avec Sacha. Il écrit à Rémi qu’il sera là à l’heure de sa tournée mardi, et lui demande de noter la consigne sur la feuille s’ils ne se croisent pas avant.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "À la fin du service, Timothée trouve deux boutons dans le tambour d’une machine de la résidence. Il les pose sur le rebord où les étudiants viennent chercher leurs affaires perdues. Il manque celui du haut à sa propre blouse depuis des mois. Aucun des deux boutons trouvés n’est de la bonne taille. Dans le bus qui le mène au cabinet, il se demande s’il aura encore la force de dire autre chose que « je viens comme prévu ».",
+        "start": 2,
+        "end": 426
+      },
+      {
+        "quote": "Timothée et la docteure conviennent de poursuivre le travail avec Maud et de refaire le point sur les options au rendez-vous suivant. Il lui demande dans quelles circonstances un médicament pourrait être utile. Elle prend le temps de lui expliquer ce qu’ils auraient à peser ensemble. Il veut garder ce sujet ouvert. Une fois dehors, il demande à Maud s’il existe un créneau avant sa tournée du mardi. Elle en propose un. Timothée le confirme et l’inscrit dans son agenda sans déplacer la date avec Sacha. Il écrit à Rémi qu’il sera là à l’heure de sa tournée mardi, et lui demande de noter la consigne sur la feuille s’ils ne se croisent pas avant.",
+        "start": 3450,
+        "end": 4099
+      }
+    ],
+    "canonical_concept": "Ajustement partagé du suivi",
+    "context": "Le vendredi suivant, lors du point rapproché avec la docteure Rivière",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6A72",
+    "clinical_diagnosis": "Dysthymie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/timothee-bon-moment-humeur-depressive-durable": {
+    "character": "Timothée",
+    "character_id": "timothee",
+    "keywords": [
+      "Variations de l’humeur",
+      "Plaisir ponctuel",
+      "Contexte"
+    ],
+    "character_keywords": [
+      "Dysthymie",
+      "Humeur basse et variations",
+      "Effort dans le quotidien",
+      "Intérêt et plaisir",
+      "Ajustement du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "64e1e1df30dc336a336d8f64a0ba076ccf5bb824f537db99202d1d344810a8c6",
+    "summary": "Yacine garde les disques parlés derrière le comptoir, là où les gens ne les confondent pas avec les méthodes de langue. Il en sort un avec une étiquette jaune. Quelqu’un a écrit « courrier » au stylo sur la pochette. Dans le casque, Timothée entend une voix annoncer une longue série de villes, puis une seconde voix demander si on est en train de les ranger par ordre alphabétique. Un grincement couvre la réponse. Timothée éclate de rire. Il enlève le casque pour expliquer, essaie d’imiter le grincement et fait rire Yacine à son tour. Ils écoutent le passage une seconde fois, juste pour entendre le moment où la première personne hésite à répondre.\n\n[…]\n\nYacine lui écrit le titre au verso d’un ticket de caisse. Timothée le plie autour de sa carte de bus. « Ça m’a fait du bien de l’écouter ici. Je vais quand même rentrer. » Yacine lui dit qu’il met le disque de côté jusqu’au prochain inventaire, puis baisse le rideau. Dans le bus, Timothée s’aperçoit qu’il tient encore le ticket. Il y ajoute au crayon « deux écoutes » et « lourd au retour ». Il compte garder le papier pour parler de sa semaine à la docteure Rivière.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Yacine garde les disques parlés derrière le comptoir, là où les gens ne les confondent pas avec les méthodes de langue. Il en sort un avec une étiquette jaune. Quelqu’un a écrit « courrier » au stylo sur la pochette. Dans le casque, Timothée entend une voix annoncer une longue série de villes, puis une seconde voix demander si on est en train de les ranger par ordre alphabétique. Un grincement couvre la réponse. Timothée éclate de rire. Il enlève le casque pour expliquer, essaie d’imiter le grincement et fait rire Yacine à son tour. Ils écoutent le passage une seconde fois, juste pour entendre le moment où la première personne hésite à répondre.",
+        "start": 2,
+        "end": 655
+      },
+      {
+        "quote": "Yacine lui écrit le titre au verso d’un ticket de caisse. Timothée le plie autour de sa carte de bus. « Ça m’a fait du bien de l’écouter ici. Je vais quand même rentrer. » Yacine lui dit qu’il met le disque de côté jusqu’au prochain inventaire, puis baisse le rideau. Dans le bus, Timothée s’aperçoit qu’il tient encore le ticket. Il y ajoute au crayon « deux écoutes » et « lourd au retour ». Il compte garder le papier pour parler de sa semaine à la docteure Rivière.",
+        "start": 3383,
+        "end": 3852
+      }
+    ],
+    "canonical_concept": "Variations dans une humeur persistante",
+    "context": "Le jeudi soir, dans le magasin de disques de Yacine",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6A72",
+    "clinical_diagnosis": "Dysthymie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/timothee-effort-cache-derriere-travail-fait": {
+    "character": "Timothée",
+    "character_id": "timothee",
+    "keywords": [
+      "Effort au travail",
+      "Attention",
+      "Appui d’un collègue"
+    ],
+    "character_keywords": [
+      "Dysthymie",
+      "Humeur basse et variations",
+      "Effort dans le quotidien",
+      "Intérêt et plaisir",
+      "Ajustement du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "a7c70128fa27faf28fc37e8d668f9832cfdc184c7d0e34477af6e97e6f8b3af5",
+    "summary": "Dans le local, Rémi a épinglé le plan de la résidence avec une punaise trop grosse qui cache la moitié du bâtiment C. Timothée la déplace. Il connaît assez bien le plan pour savoir où les étudiants laissent leurs vélos quand l’abri est plein. Ce matin, il a quand même vérifié trois fois dans quel bâtiment la salle commune devait être prête avant dix heures. Une réservation a changé, les tables ont été remises autrement, et les informations sont arrivées dans deux messages séparés pendant qu’il essuyait les poignées du rez-de-chaussée. Quand il a fini, le responsable de la salle lui a tenu la porte en disant : « Nickel, comme toujours. »\n\n[…]\n\nRémi prend une feuille. Dans une première case, il écrit « Salle ». Dans l’autre, « Changement confirmé ». Ils la fixent sous le plan pour leur tournée commune, à l’endroit où ils la retrouveront. Timothée finit la journée en vérifiant la dernière consigne sur la feuille. Il mange la moitié du sandwich sur le muret, seul cette fois. En rentrant, il répond à Sacha qu’il serait disponible un samedi dans un peu moins de deux semaines pour un premier essai d’une demi-heure. Sacha confirme l’heure et demande s’il peut venir avec le violon d’étude. Timothée lui envoie l’adresse et dit oui.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Dans le local, Rémi a épinglé le plan de la résidence avec une punaise trop grosse qui cache la moitié du bâtiment C. Timothée la déplace. Il connaît assez bien le plan pour savoir où les étudiants laissent leurs vélos quand l’abri est plein. Ce matin, il a quand même vérifié trois fois dans quel bâtiment la salle commune devait être prête avant dix heures. Une réservation a changé, les tables ont été remises autrement, et les informations sont arrivées dans deux messages séparés pendant qu’il essuyait les poignées du rez-de-chaussée. Quand il a fini, le responsable de la salle lui a tenu la porte en disant : « Nickel, comme toujours. »",
+        "start": 2,
+        "end": 646
+      },
+      {
+        "quote": "Rémi prend une feuille. Dans une première case, il écrit « Salle ». Dans l’autre, « Changement confirmé ». Ils la fixent sous le plan pour leur tournée commune, à l’endroit où ils la retrouveront. Timothée finit la journée en vérifiant la dernière consigne sur la feuille. Il mange la moitié du sandwich sur le muret, seul cette fois. En rentrant, il répond à Sacha qu’il serait disponible un samedi dans un peu moins de deux semaines pour un premier essai d’une demi-heure. Sacha confirme l’heure et demande s’il peut venir avec le violon d’étude. Timothée lui envoie l’adresse et dit oui.",
+        "start": 3512,
+        "end": 4102
+      }
+    ],
+    "canonical_concept": "Retentissement derrière un travail accompli",
+    "context": "Le lundi suivant, dans le local d’entretien de la résidence étudiante",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6A72",
+    "clinical_diagnosis": "Dysthymie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/timothee-faire-le-point-au-dela-bonne-seance": {
+    "character": "Timothée",
+    "character_id": "timothee",
+    "keywords": [
+      "Évolution du quotidien",
+      "Suivi dans la durée",
+      "Projet révisable"
+    ],
+    "character_keywords": [
+      "Dysthymie",
+      "Humeur basse et variations",
+      "Effort dans le quotidien",
+      "Intérêt et plaisir",
+      "Ajustement du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "0e7ee7bb71dba09246b1524ce1f45488243f939faba95f5388a49cd1a4de69ab",
+    "summary": "Sur la table de la cuisine, le manche de la petite cuillère colle au bord d’un rond de café. Timothée tire la soucoupe vers lui et le bruit lui rappelle celui du pied de chaise sur le carrelage. Il revoit Sacha faire son dessin, avec un trait de travers pour la première chaise et un grand carré pour la seconde. Il se souvient aussi de s’être assis un moment après son départ. Ce matin, il reste devant sa tasse avec la même impression que la semaine précédente. Il voit ce qu’il y aurait à faire dans la pièce et attend de savoir par quoi commencer.\n\n[…]\n\nTimothée écrit à Sacha qu’il veut bien le revoir une fois. Le violon d’étude sera retourné à Nora d’ici là. Ils pourront comparer l’ancien de Timothée avec les notes que Sacha aura prises en cours. Sacha répond qu’il viendra avec son dessin et qu’il est libre le samedi proposé, deux semaines plus tard. Timothée inscrit l’heure et garde son rendez-vous au cabinet sur une autre ligne. Nora passe devant le garage au moment où il remet le feutre sous le pied de la chaise. Il lui raconte le dessin de Sacha et lui dit que ce matin lui paraît lourd. Elle lui laisse la chaise jusqu’à la prochaine rencontre. Au fond du garage, il a laissé un vieil étui qu’il aimerait finir de recoller pour lui. Il l’ouvre pour voir où il en était et le laisse ouvert. Pour ce matin, il ira d’abord refaire du café.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Sur la table de la cuisine, le manche de la petite cuillère colle au bord d’un rond de café. Timothée tire la soucoupe vers lui et le bruit lui rappelle celui du pied de chaise sur le carrelage. Il revoit Sacha faire son dessin, avec un trait de travers pour la première chaise et un grand carré pour la seconde. Il se souvient aussi de s’être assis un moment après son départ. Ce matin, il reste devant sa tasse avec la même impression que la semaine précédente. Il voit ce qu’il y aurait à faire dans la pièce et attend de savoir par quoi commencer.",
+        "start": 2,
+        "end": 553
+      },
+      {
+        "quote": "Timothée écrit à Sacha qu’il veut bien le revoir une fois. Le violon d’étude sera retourné à Nora d’ici là. Ils pourront comparer l’ancien de Timothée avec les notes que Sacha aura prises en cours. Sacha répond qu’il viendra avec son dessin et qu’il est libre le samedi proposé, deux semaines plus tard. Timothée inscrit l’heure et garde son rendez-vous au cabinet sur une autre ligne. Nora passe devant le garage au moment où il remet le feutre sous le pied de la chaise. Il lui raconte le dessin de Sacha et lui dit que ce matin lui paraît lourd. Elle lui laisse la chaise jusqu’à la prochaine rencontre. Au fond du garage, il a laissé un vieil étui qu’il aimerait finir de recoller pour lui. Il l’ouvre pour voir où il en était et le laisse ouvert. Pour ce matin, il ira d’abord refaire du café.",
+        "start": 3440,
+        "end": 4238
+      }
+    ],
+    "canonical_concept": "Repères personnels pour le suivi",
+    "context": "Le dimanche matin, à la table de la cuisine, puis devant le garage",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6A72",
+    "clinical_diagnosis": "Dysthymie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/timothee-parler-depuis-quand-et-retentissement": {
+    "character": "Timothée",
+    "character_id": "timothee",
+    "keywords": [
+      "Histoire du trouble",
+      "Comparaison dans le temps",
+      "Suivi"
+    ],
+    "character_keywords": [
+      "Dysthymie",
+      "Humeur basse et variations",
+      "Effort dans le quotidien",
+      "Intérêt et plaisir",
+      "Ajustement du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "21e38963bbd57fd862b65d72f59ca85e31ff84cff2daf99820dfd133115a664d",
+    "summary": "La docteure Rivière fait tourner l’écran vers elle pour retrouver son dernier rendez-vous. Timothée tient son manteau sur les genoux alors qu’une patère est libre près de la porte. C’est le manteau qu’il avait aussi la première fois, pense-t-il en passant le pouce sur une poche déchirée. À l’époque, il avait parlé de sa fatigue en remontant jusqu’à une année où la résidence avait fermé deux étages pour des travaux. Le changement de tournée lui avait fait croire qu’il se sentirait mieux à la réouverture. Une fois les étages rouverts, la lassitude l’avait suivi jusque chez lui. Il avait fallu plusieurs échanges pour trouver comment raconter cette période.\n\n[…]\n\nLa docteure lui rend le ticket. Ils conviennent de garder le prochain point médical et de reprendre plus tôt contact si Timothée constate un changement qui l’inquiète. Il voit déjà Maud, la psychologue, le lendemain. Il décide d’y raconter ce qui se passe quand il essaie d’imaginer une prochaine séance avec Sacha et qu’il finit par se juger lui-même. En quittant le cabinet, il écrit « repas après le service » sous ses deux notes du jeudi. Il envoie une photo du ticket à Yacine pour lui demander vers quelle heure il était passé. Yacine lui répond qu’il peut lui dire ça après la fermeture. Timothée remet le papier dans la poche qui n’est pas trouée.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La docteure Rivière fait tourner l’écran vers elle pour retrouver son dernier rendez-vous. Timothée tient son manteau sur les genoux alors qu’une patère est libre près de la porte. C’est le manteau qu’il avait aussi la première fois, pense-t-il en passant le pouce sur une poche déchirée. À l’époque, il avait parlé de sa fatigue en remontant jusqu’à une année où la résidence avait fermé deux étages pour des travaux. Le changement de tournée lui avait fait croire qu’il se sentirait mieux à la réouverture. Une fois les étages rouverts, la lassitude l’avait suivi jusque chez lui. Il avait fallu plusieurs échanges pour trouver comment raconter cette période.",
+        "start": 2,
+        "end": 663
+      },
+      {
+        "quote": "La docteure lui rend le ticket. Ils conviennent de garder le prochain point médical et de reprendre plus tôt contact si Timothée constate un changement qui l’inquiète. Il voit déjà Maud, la psychologue, le lendemain. Il décide d’y raconter ce qui se passe quand il essaie d’imaginer une prochaine séance avec Sacha et qu’il finit par se juger lui-même. En quittant le cabinet, il écrit « repas après le service » sous ses deux notes du jeudi. Il envoie une photo du ticket à Yacine pour lui demander vers quelle heure il était passé. Yacine lui répond qu’il peut lui dire ça après la fermeture. Timothée remet le papier dans la poche qui n’est pas trouée.",
+        "start": 3498,
+        "end": 4153
+      }
+    ],
+    "canonical_concept": "Évolution et retentissement en consultation",
+    "context": "Le lundi, au cabinet de la docteure Rivière",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6A72",
+    "clinical_diagnosis": "Dysthymie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/timothee-preparer-sans-attendre-enthousiasme": {
+    "character": "Timothée",
+    "character_id": "timothee",
+    "keywords": [
+      "Plaisir attendu",
+      "Activité choisie",
+      "Engagement limité"
+    ],
+    "character_keywords": [
+      "Dysthymie",
+      "Humeur basse et variations",
+      "Effort dans le quotidien",
+      "Intérêt et plaisir",
+      "Ajustement du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "1a9e48a7ae989b1a6c8bb4f09d55c1ea99de57c9fe95b667d277cf8dbdb2841f",
+    "summary": "Nora se penche vers la lampe et son écharpe frôle une pile de boîtes. Timothée la déplace en disant qu’il ne sait plus ce qu’il y a dedans. Il a passé la première partie de la matinée à écrire un déroulé pour l’essai de samedi prochain. Sur la feuille, il a mis assez de choses pour une heure. Sacha vient pour une demi-heure. Quand Nora lui demande à quel moment Sacha pourra poser une question, Timothée lui montre les trois lignes du bas, puis s’aperçoit qu’il n’a ménagé aucun silence avant.\n\n[…]\n\nTimothée écrit à Sacha : « On regardera d’abord d’où vient la différence que tu entends. Si on ne sait pas l’expliquer, on pourra au moins préciser la question. » Sacha répond que c’est bien ce qu’il cherche. Nora remet son écharpe et indique qu’elle a cours juste après leur créneau. Timothée dit que c’est entendu. « On garde un samedi. Je te dirai si on en cherche un autre. » Il laisse le déroulé sur l’établi, face retournée, et rentre déjeuner.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Nora se penche vers la lampe et son écharpe frôle une pile de boîtes. Timothée la déplace en disant qu’il ne sait plus ce qu’il y a dedans. Il a passé la première partie de la matinée à écrire un déroulé pour l’essai de samedi prochain. Sur la feuille, il a mis assez de choses pour une heure. Sacha vient pour une demi-heure. Quand Nora lui demande à quel moment Sacha pourra poser une question, Timothée lui montre les trois lignes du bas, puis s’aperçoit qu’il n’a ménagé aucun silence avant.",
+        "start": 2,
+        "end": 497
+      },
+      {
+        "quote": "Timothée écrit à Sacha : « On regardera d’abord d’où vient la différence que tu entends. Si on ne sait pas l’expliquer, on pourra au moins préciser la question. » Sacha répond que c’est bien ce qu’il cherche. Nora remet son écharpe et indique qu’elle a cours juste après leur créneau. Timothée dit que c’est entendu. « On garde un samedi. Je te dirai si on en cherche un autre. » Il laisse le déroulé sur l’établi, face retournée, et rentre déjeuner.",
+        "start": 3637,
+        "end": 4087
+      }
+    ],
+    "canonical_concept": "Difficulté à anticiper le plaisir",
+    "context": "Le samedi suivant, dans le garage, une semaine avant l’essai prévu",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6A72",
+    "clinical_diagnosis": "Dysthymie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/timothee-quand-doute-devient-verdict": {
+    "character": "Timothée",
+    "character_id": "timothee",
+    "keywords": [
+      "Estime de soi",
+      "Pensées qui tournent en boucle",
+      "Psychothérapie"
+    ],
+    "character_keywords": [
+      "Dysthymie",
+      "Humeur basse et variations",
+      "Effort dans le quotidien",
+      "Intérêt et plaisir",
+      "Ajustement du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "11dd89718b0a958b655cfe69750574fbab93ae248be896a292673f657e84ce2f",
+    "summary": "Sacha a envoyé trois lignes : « J’ai récupéré le violon. Je dois apporter autre chose ? Je ne sais pas trop ce qu’on fait au début. » Timothée les lit assis sur le banc à l’entrée de la résidence. À l’heure où les étudiants rentrent, il entend la même porte s’ouvrir avec trois vitesses différentes. Il a envie de rentrer avant que la pluie commence. Il n’arrive pas à décider s’il doit répondre que tout est prêt. La phrase « Je ne sais pas trop » lui paraît prouver qu’il a mal expliqué le rendez-vous. Il remonte jusqu’à son premier message, trouve une phrase qu’il aurait pu formuler autrement et ferme la conversation.\n\n[…]\n\nSur le perron du cabinet, Timothée écrit : « Apporte le violon dans son étui et la question que tu veux regarder en premier. J’ai le reste. On garde samedi à l’heure dite. » Il relit une fois pour vérifier que l’accord sur le samedi est clair. En se mettant en marche, il pense encore qu’il aurait pu tourner la réponse autrement. Sacha renvoie un pouce levé, puis le nom de la corde sur laquelle il a entendu la différence. Timothée retrouve le croquis de sa table de travail et écrit ce nom près de la place que Sacha occupera.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Sacha a envoyé trois lignes : « J’ai récupéré le violon. Je dois apporter autre chose ? Je ne sais pas trop ce qu’on fait au début. » Timothée les lit assis sur le banc à l’entrée de la résidence. À l’heure où les étudiants rentrent, il entend la même porte s’ouvrir avec trois vitesses différentes. Il a envie de rentrer avant que la pluie commence. Il n’arrive pas à décider s’il doit répondre que tout est prêt. La phrase « Je ne sais pas trop » lui paraît prouver qu’il a mal expliqué le rendez-vous. Il remonte jusqu’à son premier message, trouve une phrase qu’il aurait pu formuler autrement et ferme la conversation.",
+        "start": 2,
+        "end": 625
+      },
+      {
+        "quote": "Sur le perron du cabinet, Timothée écrit : « Apporte le violon dans son étui et la question que tu veux regarder en premier. J’ai le reste. On garde samedi à l’heure dite. » Il relit une fois pour vérifier que l’accord sur le samedi est clair. En se mettant en marche, il pense encore qu’il aurait pu tourner la réponse autrement. Sacha renvoie un pouce levé, puis le nom de la corde sur laquelle il a entendu la différence. Timothée retrouve le croquis de sa table de travail et écrit ce nom près de la place que Sacha occupera.",
+        "start": 3487,
+        "end": 4016
+      }
+    ],
+    "canonical_concept": "Dévalorisation et pensée répétitive",
+    "context": "Le mardi, sur un banc à la sortie de la résidence, puis chez la psychologue",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6A72",
+    "clinical_diagnosis": "Dysthymie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/timothee-quand-humeur-basse-devient-familiere": {
+    "character": "Timothée",
+    "character_id": "timothee",
+    "keywords": [
+      "Humeur basse durable",
+      "Habitude et souffrance",
+      "Premier engagement"
+    ],
+    "character_keywords": [
+      "Dysthymie",
+      "Humeur basse et variations",
+      "Effort dans le quotidien",
+      "Intérêt et plaisir",
+      "Ajustement du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "63a980cf624d00e5a85341fbefdaf876559eca1e2be9df30833b2008456e34e4",
+    "summary": "La craie que Nora a ramassée devant son portail laisse un trait blanc sur sa manche. Elle s’essuie contre son manteau, puis demande à Timothée s’il peut sortir un instant. Il finit de recoller le coin d’un étui. Il sait que s’il le pose sur le sol il oubliera de revenir voir si la colle a pris. Il dégage donc une place sur le petit banc derrière lui, où il faudra forcément qu’il s’assoie pour enlever ses chaussures.\n\n[…]\n\nIl demande à Nora de donner son numéro à Sacha. « Dis-lui qu’il peut m’écrire pour expliquer ce qu’il cherche. Je lui répondrai lundi. » Nora lit les chiffres qu’il a écrits au dos d’une enveloppe vide et il en corrige un. Puis elle prend la photo qu’il lui offre pour la montrer en cours. Quand le portail se referme, Timothée ramène la tasse dans la cuisine. Il ne sait toujours pas s’il attend la rencontre avec plaisir. Il sait désormais quelle réponse il est prêt à donner lundi.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La craie que Nora a ramassée devant son portail laisse un trait blanc sur sa manche. Elle s’essuie contre son manteau, puis demande à Timothée s’il peut sortir un instant. Il finit de recoller le coin d’un étui. Il sait que s’il le pose sur le sol il oubliera de revenir voir si la colle a pris. Il dégage donc une place sur le petit banc derrière lui, où il faudra forcément qu’il s’assoie pour enlever ses chaussures.",
+        "start": 2,
+        "end": 421
+      },
+      {
+        "quote": "Il demande à Nora de donner son numéro à Sacha. « Dis-lui qu’il peut m’écrire pour expliquer ce qu’il cherche. Je lui répondrai lundi. » Nora lit les chiffres qu’il a écrits au dos d’une enveloppe vide et il en corrige un. Puis elle prend la photo qu’il lui offre pour la montrer en cours. Quand le portail se referme, Timothée ramène la tasse dans la cuisine. Il ne sait toujours pas s’il attend la rencontre avec plaisir. Il sait désormais quelle réponse il est prêt à donner lundi.",
+        "start": 3591,
+        "end": 4075
+      }
+    ],
+    "canonical_concept": "Humeur dépressive et durée",
+    "context": "Un samedi matin, devant le garage de Timothée",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6A72",
+    "clinical_diagnosis": "Dysthymie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/timothee-retrait-gagne-sur-habitudes": {
+    "character": "Timothée",
+    "character_id": "timothee",
+    "keywords": [
+      "Retrait inhabituel",
+      "Changement dans le quotidien",
+      "Contact avec les soins"
+    ],
+    "character_keywords": [
+      "Dysthymie",
+      "Humeur basse et variations",
+      "Effort dans le quotidien",
+      "Intérêt et plaisir",
+      "Ajustement du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "cf32f230be67e4fe8d91c034e3bfaaf0c18341d0c99aafd3f885ee43225372e3",
+    "summary": "Nora a prêté à Timothée un plat en verre qui rentre juste dans le petit four. Elle sonne jeudi pour le reprendre. Il lui ouvre sans avoir allumé la lumière du couloir et lui dit que le plat est encore dans le four. Il s’attend à trouver des restes. Il découvre un plat propre, avec le torchon posé à côté. Il se rappelle avoir lavé le plat avant-hier. Il allait le reprendre pour réchauffer le dîner, puis il s’était recouché. Il porte le plat à Nora avec les deux mains, à cause du couvercle qui bouge.\n\n[…]\n\nTimothée appelle alors que Nora attend dans l’entrée. L’assistante du cabinet lui demande ce qui a changé, fait le point avec la docteure et le rappelle. La docteure lui parle brièvement, vérifie comment il va passer la soirée et lui propose de venir dès le lendemain matin. Timothée note l’heure et la marche à suivre convenue si son état s’aggrave d’ici là. Nora propose de mettre une part de soupe dans le plat et de la lui rapporter. Il accepte et promet de lui rendre le plat en passant devant l’école de musique. Lorsqu’elle revient, Timothée a dégagé une place à table.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "Nora a prêté à Timothée un plat en verre qui rentre juste dans le petit four. Elle sonne jeudi pour le reprendre. Il lui ouvre sans avoir allumé la lumière du couloir et lui dit que le plat est encore dans le four. Il s’attend à trouver des restes. Il découvre un plat propre, avec le torchon posé à côté. Il se rappelle avoir lavé le plat avant-hier. Il allait le reprendre pour réchauffer le dîner, puis il s’était recouché. Il porte le plat à Nora avec les deux mains, à cause du couvercle qui bouge.",
+        "start": 2,
+        "end": 505
+      },
+      {
+        "quote": "Timothée appelle alors que Nora attend dans l’entrée. L’assistante du cabinet lui demande ce qui a changé, fait le point avec la docteure et le rappelle. La docteure lui parle brièvement, vérifie comment il va passer la soirée et lui propose de venir dès le lendemain matin. Timothée note l’heure et la marche à suivre convenue si son état s’aggrave d’ici là. Nora propose de mettre une part de soupe dans le plat et de la lui rapporter. Il accepte et promet de lui rendre le plat en passant devant l’école de musique. Lorsqu’elle revient, Timothée a dégagé une place à table.",
+        "start": 3374,
+        "end": 3950
+      }
+    ],
+    "canonical_concept": "Retrait et aggravation du retentissement",
+    "context": "Le jeudi avant l’essai, à l’heure du dîner, sur le seuil de la maison",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6A72",
+    "clinical_diagnosis": "Dysthymie"
+  },
+  "posts/comprendre-et-maitriser-ses-emotions/timothee-transmettre-meme-si-elan-varie": {
+    "character": "Timothée",
+    "character_id": "timothee",
+    "keywords": [
+      "Participation",
+      "Plaisir variable",
+      "Limites dans une activité"
+    ],
+    "character_keywords": [
+      "Dysthymie",
+      "Humeur basse et variations",
+      "Effort dans le quotidien",
+      "Intérêt et plaisir",
+      "Ajustement du suivi"
+    ],
+    "catalogue_version": 2,
+    "content_hash": "583ba4bda80f835a18710507d06d1c0cb970186f1eb77e3e817e70847e8bb8f6",
+    "summary": "La chaise pliante est arrivée avant la première sonnerie, avec un morceau de feutre coincé sous un pied. Nora a laissé un mot : « Celui-ci claque sur le carrelage. » Timothée déplie la chaise, la pose à l’endroit essayé avec elle et dégage le passage jusqu’à la porte. Il s’assoit à son tour pour voir ce que la lampe éclaire. Il n’est pas heureux de se lever ce matin. Au moment d’ouvrir le garage, il se sent capable d’accueillir quelqu’un et peu capable de parler longtemps. Ils ont convenu d’une demi-heure. L’horloge de cuisine est assez près pour qu’il voie l’heure depuis son tabouret.\n\n[…]\n\nÀ l’heure dite, Timothée demande à Sacha ce qu’il a remarqué. Sacha répond que le bruit ne lui paraît plus venir du même endroit quand il écoute à côté de l’instrument. Il dessine deux chaises et un point d’interrogation sur son papier. « Je vais refaire écouter ça à Nora en cours avant de demander au luthier. On pourrait se revoir après ? » Timothée dit qu’il lui répondra le lendemain. Quand Sacha referme l’étui, Timothée attend un instant avant de replier la chaise. Il a aimé regarder le crayon de Sacha s’arrêter entre les deux chaises. Le garage lui paraît soudain très silencieux.",
+    "summary_method": "extractive_opening_and_final_scene",
+    "summary_evidence": [
+      {
+        "quote": "La chaise pliante est arrivée avant la première sonnerie, avec un morceau de feutre coincé sous un pied. Nora a laissé un mot : « Celui-ci claque sur le carrelage. » Timothée déplie la chaise, la pose à l’endroit essayé avec elle et dégage le passage jusqu’à la porte. Il s’assoit à son tour pour voir ce que la lampe éclaire. Il n’est pas heureux de se lever ce matin. Au moment d’ouvrir le garage, il se sent capable d’accueillir quelqu’un et peu capable de parler longtemps. Ils ont convenu d’une demi-heure. L’horloge de cuisine est assez près pour qu’il voie l’heure depuis son tabouret.",
+        "start": 2,
+        "end": 594
+      },
+      {
+        "quote": "À l’heure dite, Timothée demande à Sacha ce qu’il a remarqué. Sacha répond que le bruit ne lui paraît plus venir du même endroit quand il écoute à côté de l’instrument. Il dessine deux chaises et un point d’interrogation sur son papier. « Je vais refaire écouter ça à Nora en cours avant de demander au luthier. On pourrait se revoir après ? » Timothée dit qu’il lui répondra le lendemain. Quand Sacha referme l’étui, Timothée attend un instant avant de replier la chaise. Il a aimé regarder le crayon de Sacha s’arrêter entre les deux chaises. Le garage lui paraît soudain très silencieux.",
+        "start": 3621,
+        "end": 4211
+      }
+    ],
+    "canonical_concept": "Engagement malgré un élan variable",
+    "context": "Le samedi convenu, pour la première rencontre au garage",
+    "tone": "récit fictif et explications pédagogiques",
+    "resources": [],
+    "clinical_code": "6A72",
+    "clinical_diagnosis": "Dysthymie"
   },
   "posts/comprendre-et-maitriser-ses-emotions/trahison-en-amitie-impacts-quotidiens": {
     "character": "Priya",

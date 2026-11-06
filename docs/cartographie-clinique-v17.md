@@ -4,7 +4,7 @@ Le registre couvre les **858 codes** du chapitre 06 de la CIM‑11 pour les stat
 
 | Traitement éditorial | Codes | Utilisation |
 | --- | ---: | --- |
-| Cas de travail | 150 | Scénarios possibles dans le registre, dont 42 publiés. |
+| Cas de travail | 150 | Scénarios possibles dans le registre, dont 46 publiés. |
 | Rattachement documenté | 499 | Présentation, phase, précision, groupe ou syndrome analogue pour une autre substance. |
 | Sujet hors parcours propre | 209 | Deux cents codes résiduels, trois catégories ouvertes et six entrées de facteurs associés. |
 
@@ -23,14 +23,14 @@ Les 150 canons étaient des hypothèses de récit. Le registre sert à retrouver
 
 | Statut | Cas | Traitement éditorial |
 | --- | ---: | --- |
-| Parcours publiés | 42 | Onze parcours du neurodéveloppement et trente et un dans les autres familles. Le dernier lot ouvre la dissociation, la détresse physique, le contrôle des impulsions et la périnatalité. |
-| Sujets à documenter en priorité | 15 | Par exemple trouble de l’adaptation, dysthymie, dysmorphophobie et accumulation compulsive. Pour chaque sujet, déterminer le format à partir du vécu et des distinctions à faire comprendre. |
+| Parcours publiés | 46 | Onze parcours du neurodéveloppement et trente-cinq dans les autres familles. Le dernier lot couvre le trouble de l’adaptation, la dysthymie, la dysmorphophobie et l’accumulation compulsive. |
+| Sujets à documenter en priorité | 11 | Les prochains sujets sont l’hypocondrie, la cyclothymie, l’anxiété de séparation et la trichotillomanie. Pour chaque sujet, déterminer le format à partir du vécu et des distinctions à faire comprendre. |
 | Variantes à traiter par famille | 61 | Trente-sept autres cas liés aux substances, quatorze causes de démence et dix syndromes secondaires. |
 | Autres sujets à cadrer | 32 | Par exemple catatonie, tableaux périnataux avec symptômes psychotiques, troubles de l’attachement et troubles factices. Le format dépend du contexte d’apparition, de l’apport psychologique et du relais clinique à décrire. |
 
 Les [codes prioritaires](../editorial/clinical/priorities.json) alimentent le suivi éditorial. Certains sujets pourront être expliqués en complétant un parcours ou en comparant deux manifestations dans un même dossier.
 
-Deux autres parcours complètent les 42 du chapitre 06. Le trouble de la personnalité narcissique de Renaud est décrit selon le DSM-5-TR. La CIM-11 décrit la sévérité et les traits du trouble de la personnalité. L’insomnie chronique d’Élvire est décrite selon le code 7A00 du chapitre veille-sommeil de la CIM-11. Le dossier de Lila associe le premier épisode dépressif et le contexte périnatal sans symptômes psychotiques. [American Psychiatric Association](https://www.psychiatry.org/news-room/apa-blogs/what-is-narcissistic-personality-disorder/) · [Manuel clinique OMS](https://www.who.int/publications/i/item/9789240077263) · [Insomnie chronique dans la CIM-11](https://icd.who.int/browse/2026-01/mms/fr#323148092)
+Deux autres parcours complètent les 46 du chapitre 06. Le trouble de la personnalité narcissique de Renaud est décrit selon le DSM-5-TR. La CIM-11 décrit la sévérité et les traits du trouble de la personnalité. L’insomnie chronique d’Élvire est décrite selon le code 7A00 du chapitre veille-sommeil de la CIM-11. Le dossier de Lila associe le premier épisode dépressif et le contexte périnatal sans symptômes psychotiques. [American Psychiatric Association](https://www.psychiatry.org/news-room/apa-blogs/what-is-narcissistic-personality-disorder/) · [Manuel clinique OMS](https://www.who.int/publications/i/item/9789240077263) · [Insomnie chronique dans la CIM-11](https://icd.who.int/browse/2026-01/mms/fr#323148092)
 
 Cette couverture correspond au périmètre de la CIM‑11 MMS, chapitre 06. Le CDDR décrit aussi des diagnostics et situations situés dans d’autres chapitres. Une piste éditoriale distincte retient notamment le syndrome de la Tourette et les tics chroniques, l’insomnie chronique, les cauchemars et le trouble dysphorique prémenstruel. Le deuil ordinaire, l’épuisement professionnel et les risques liés à l’usage d’une substance ou d’un jeu ont leurs repères propres. La diversité de genre, l’orientation et la neurodiversité sont des dimensions de vie à représenter sans attribuer de pathologie. La situation de travail, la précarité, la discrimination, la langue et l’accessibilité peuvent modifier ce qu’une personne vit et les aides dont elle dispose. [Guide clinique CDDR](https://www.who.int/publications/i/item/9789240077263) · [OMS, épuisement professionnel](https://www.who.int/News/Item/28-05-2019-Burn-out-an-occupational-phenomenon-International-Classification-of-Diseases) · [OMS, diversité de genre](https://www.who.int/standards/classifications/frequently-asked-questions/gender-incongruence-and-transgender-health-in-the-icd)
 

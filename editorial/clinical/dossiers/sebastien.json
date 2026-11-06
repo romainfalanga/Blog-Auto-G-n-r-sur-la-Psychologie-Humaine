@@ -1,0 +1,44 @@
+{
+  "references": {
+    "oms-cim-6b21": {
+      "title": "OMS, CIM-11 pour les statistiques de mortalité et de morbidité, version française 2026-01, Trouble de la perception du corps (6B21)",
+      "url": "https://icd.who.int/browse/2026-01/mms/fr#731724655"
+    },
+    "nice-cg31-dysmorphophobie": {
+      "title": "NICE, Obsessive-compulsive disorder and body dysmorphic disorder: treatment, CG31, recommandations sur le BDD chez l’adulte et l’implication des proches",
+      "url": "https://www.nice.org.uk/guidance/cg31/chapter/Recommendations"
+    },
+    "nice-cg136-soins-adultes": {
+      "title": "NICE, Service user experience in adult mental health, CG136, participation aux décisions et place des proches",
+      "url": "https://www.nice.org.uk/guidance/cg136/chapter/Recommendations"
+    },
+    "wilhelm-2019-tcc-dysmorphophobie": {
+      "title": "Wilhelm et al., essai randomisé de TCC spécifique et de psychothérapie de soutien chez des adultes présentant un BDD, JAMA Psychiatry (2019)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30785624/"
+    }
+  },
+  "dossier": {
+    "name": "Dysmorphophobie",
+    "aliases": [
+      "Trouble de la perception du corps",
+      "Body dysmorphic disorder",
+      "6B21"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-cim-6b21",
+      "nice-cg31-dysmorphophobie",
+      "nice-cg136-soins-adultes",
+      "wilhelm-2019-tcc-dysmorphophobie"
+    ],
+    "points": [
+      "Le tableau officiel français de la CIM-11 MMS 2026-01 donne « Trouble de la perception du corps » pour 6B21. Le CDDR (2024, p. 308–313) décrit une préoccupation persistante pour des défauts d’apparence perçus, peu ou pas perceptibles pour autrui. L’attention portée au regard d’autrui peut devenir envahissante. Des vérifications répétitives, d’autres tentatives pour répondre à la préoccupation ou un évitement marqué peuvent l’accompagner. Le diagnostic tient compte de la détresse, du retentissement et de l’effort supplémentaire nécessaire pour tenir certaines activités. Ce n’est pas un jugement esthétique ni une liste destinée à conclure sur soi ou sur un proche.",
+      "Le CDDR distingue le trouble d’une insatisfaction ordinaire par le degré de préoccupation, la répétition des conduites, la souffrance et l’entrave au quotidien. La conviction attachée à certaines pensées peut varier, entre personnes ou chez la même personne, selon le moment et la détresse. Aucun spécificateur n’est attribué à Sébastien. Ne pas détailler les jugements corporels, montrer de comparaisons, ni attribuer chaque choix d’image, désaccord ou retard au diagnostic. Une présence réussie à l’atelier peut coexister avec un coût important qui échappe aux collègues.",
+      "NICE CG31, 1.1.1.1–1.1.1.2, invite à tenir compte de la honte et à explorer avec tact une souffrance ou un retentissement qui ne se voient pas. La CG31 (1.5.2.9) recommande, quand des proches participent déjà aux conduites compulsives, à l’évitement ou à la recherche de réassurance, de les aider dans le cadre du soin à réduire cette implication avec sensibilité et soutien. Une réponse à la détresse et une aide matérielle restent possibles. Les proches ne commentent pas le corps, ne comptent pas les vérifications et n’appliquent pas de technique de soin improvisée. Une question factuelle sur l’existence, l’usage ou le retrait d’une image reçoit une réponse factuelle.",
+      "NICE CG31, 1.5.1.5–1.5.1.7 et 1.5.2, recommande chez l’adulte des soins adaptés au retentissement et discutés avec la personne. Une TCC ciblant les difficultés du BDD fait partie des options, seule ou avec un traitement médicamenteux selon l’évaluation. L’essai randomisé de Wilhelm et al. étudie une TCC délivrée par des thérapeutes chez l’adulte. Les deux groupes se sont améliorés. L’avantage comparatif de la TCC pour les symptômes différait entre les deux sites. Le récit illustre la décision de commencer et les réévaluations d’un soin, sans décrire d’exercice, proposer de médicament, assigner une sévérité ni attribuer un bénéfice au traitement à partir d’une scène. CG31 est une recommandation britannique publiée en 2005. Le NICE a signalé en 2024 une modification de présentation et annonce une mise à jour. Ce guide n’établit pas une conduite individuelle en France.",
+      "NICE CG136 appuie la participation de la personne aux décisions de santé, l’attention à ses préférences et le choix de l’implication des proches ainsi que des informations à leur communiquer. La décision d’accepter une photographie, de la garder dans un album privé du collectif ou d’autoriser un usage public se traite séparément et selon l’accord de la personne. Les pratiques du collectif sont des décisions narratives ordinaires, sans prétention juridique ou thérapeutique. Le refus d’une photo ne suffit jamais à identifier un évitement clinique. Une image prise hors de l’accord appelle un traitement de ce fait, même si le personnage a un diagnostic connu.",
+      "Le CDDR décrit une évolution souvent durable, et la CG31 aborde le suivi, l’évaluation de la réponse et la réapparition possible des symptômes. Le vécu peut changer selon la situation. Reprendre contact en cas d’entrave croissante ou rapporter un exemple de retentissement relève du suivi professionnel. Les progrès utiles au personnage se décrivent aussi par du temps retrouvé et des choix de travail ou de relation. Une photo, une tâche terminée ou une semaine difficile ne tranche pas l’évolution clinique. Les difficultés de Sébastien restent perceptibles après la représentation. Le récit ne présente pas de situation d’urgence."
+    ]
+  },
+  "direction": "Sébastien a 24 ans. Décorateur de théâtre dans un collectif de quartier, il sait dessiner les visages comme s’ils allaient prendre la parole. Pour La Poste de nuit, il peint les habitants d’un immeuble sur un fond à volets. Il veut livrer ce décor et garder une place choisie dans les images du projet. Inès, sa collègue d’atelier, construit les volets et tient à ce que le travail se partage. Malik met en scène. Nora s’occupe des images du collectif. Camille, la sœur de Sébastien, peut l’accompagner dans la limite de ce qu’il lui demande. La psychologue Anaïs Vidal fait partie de son équipe spécialisée. Le diagnostic est déjà posé au début. Sébastien a l’oreille pour les bruits d’atelier et un humour bref. Il sait défendre une décision de métier et cherche des mots pour le temps qu’une préoccupation lui prend. D’abord éprouvée au travail et dans les liens, la dysmorphophobie entre dans les échanges sur les photos sans expliquer toutes les décisions. La fabrication, les choix d’image et les soins suivent des calendriers distincts. À la première, le décor joue et il choisit une image de groupe pour l’album interne. Le travail et l’aide consentie continuent au-delà de cette soirée."
+}

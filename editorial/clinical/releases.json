@@ -296,6 +296,34 @@
       "sha256": "1de902a1a12e00e6764ed9f9ea199b699123531860261b91f3ebde6cca88c094",
       "dossier_sha256": "df0f2e8d601efae4790b372b676a29b156987eae01e7d42afbbc3ac7cf1ba024",
       "review": "Dépression du post-partum évaluée et contexte périnatal 6E20 distingués. Chronologie, baby blues, relais de soins et conditions de reprise contrôlés avec les sources."
+    },
+    "elina": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "6e02ed471f897f84fbfce6986a921de17aae7c14553310ad75ca7b17d1888920",
+      "dossier_sha256": "52a757fe6e9653089ae5b089803b7b0ca118ccd544f07757842cca1e1542181d",
+      "review": "Les douze ouvertures, dénouements et raccords ont été relus. L’évaluation médicale au troisième épisode tient compte du changement et du retentissement. La diffusion du journal et le suivi d’Élina suivent des échéances distinctes. Les limites des appuis et les références du 6B43 ont été vérifiées."
+    },
+    "timothee": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "5255ef100fa4138165a5475b911ff4a9ca586b288a0225a1790cfe881364f165",
+      "dossier_sha256": "1971f55761809cdeedaa2f01735483568ad97784efc1cd918e11125739178f35",
+      "review": "Le diagnostic précède le récit. L’aggravation conduit à une évaluation directe de la sécurité et à un suivi rapproché. La relecture indépendante a vérifié ces passages et les raccords de la photo, du plat et de la première leçon."
+    },
+    "sebastien": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "c54c6cbd8839e2573de72bd34888b16dc2cb6beed3cc4b611a9d805851c80fd0",
+      "dossier_sha256": "0e9e1e27baf4a0da0e885cf9fac0c474f85bc333df9f8a40dd4ac3ae56651541",
+      "review": "Le calendrier du décor, les accords de diffusion et les rendez-vous de soin ont été relus dans l’ordre. Les manifestations de la dysmorphophobie, les choix d’image et les appuis sont situés dans des scènes distinctes. Les références cliniques du 6B21 ont été recoupées."
+    },
+    "nathalie": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "6566efcb052bd61911bb87a685a8036dcb6bfa84d24d4273a364af68f315c068",
+      "dossier_sha256": "221a14e8fbef2b4effa24da656df11d8a43be3ccce06d84a3b619b19787a327b",
+      "review": "Relecture indépendante des scènes d’accumulation, des accords avec Agnès et des relais professionnels. L’alerte liée à la fumée est suivie d’une vérification du passage dans le logement. Les raccords du projet sonore et les sources du 6B24 ont été vérifiés."
     }
   }
 }

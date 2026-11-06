@@ -1,0 +1,568 @@
+{
+  "character_id": "nathalie",
+  "bio": "Nathalie a 59 ans et a longtemps tenu une librairie. Elle sait encore reconnaître une rue au bruit des rideaux de fer. Son trouble d’accumulation compulsive rend certaines séparations éprouvantes et les objets encombrent des endroits dont elle a besoin. Avec une équipe spécialisée, elle travaille sur ses décisions et sur l’accès aux pièces. Elle aimerait retrouver une table où lire et où sa nièce Agnès pourrait travailler. Elle prépare aussi une lecture pour la médiathèque. Elle en a déjà le début et cherche encore la dernière phrase.",
+  "profile_topics": [
+    "Trouble d’accumulation compulsive",
+    "Difficulté à se séparer",
+    "Arrivée de nouveaux objets",
+    "Usage et sécurité du logement",
+    "Aide consentie"
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "nathalie-encombrement-usage-table",
+      "title": "Quand les objets empêchent de s’installer à table",
+      "description": "Agnès vient travailler chez sa tante. Avant de sortir son ordinateur, il faudrait trouver de la place pour reculer sa chaise.",
+      "context": "Un mardi matin chez Nathalie, avant une séance de travail avec sa nièce",
+      "topics": [
+        "Encombrement des espaces",
+        "Usage du logement",
+        "Retentissement sur les visites"
+      ],
+      "clinical_focus": "Perte d’usage d’un espace familier",
+      "clinical_intro": "Agnès vient travailler chez Nathalie et ne peut pas reculer la chaise jusqu’à la table. Dans le trouble d’accumulation compulsive, l’encombrement peut retirer à un endroit son usage ordinaire. Ce matin-là, la visite donne à Nathalie un exemple précis à raconter à son équipe. Elle voulait s’asseoir à côté de sa nièce et la place lui a manqué.",
+      "opening": "« Là, juste avant le bus, c’est quoi ? » Agnès met l’enregistrement en pause sur son téléphone. Nathalie lui demande de revenir un peu en arrière. Elle reconnaît la grille du cordonnier au dernier choc, quand le rideau métallique finit de monter. Elle entendait ce bruit tous les matins à la librairie, quelques minutes avant d’ouvrir. Agnès relève le nom pour la carte sonore des rues qu’elle prépare avec son atelier. Elle a apporté son ordinateur pour écrire les légendes au calme. Nathalie a promis de lui faire du café et de lire à côté d’elle.\n\nLa table est à deux pas du fauteuil. Une lampe et deux tasses en occupent un angle. Le reste disparaît sous des dossiers, des livres et des pochettes. Pour rejoindre la chaise libre, il faut contourner un carton posé à l’entrée du séjour. Agnès laisse son sac près d’elle et demande si elle peut tirer la chaise. Nathalie s’avance pour dégager le dossier. Une pochette glisse à plat sur le siège. Elle y reconnaît les commandes manuscrites d’une cliente qui écrivait toujours sur du papier violet.\n\nElle aurait voulu poser la pochette ailleurs pendant une heure. De proche en proche, chaque endroit qu’elle envisage réclame une nouvelle décision. Elle a déjà fait le même tour vendredi pour s’installer seule avec un roman et a fini par lire trois pages debout. Agnès retourne son téléphone sur la table. Nathalie lui demande combien de légendes elle a à faire. Ce sera bientôt midi et elle ne lui a même pas proposé de s’asseoir.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que la pièce permet encore de faire",
+          "text": "Le trouble d’accumulation compulsive peut rendre les espaces de vie difficiles à utiliser quand les possessions s’y entassent. La difficulté à se séparer des objets y contribue, de même que les objets qui continuent d’arriver, qu’ils aient été cherchés ou soient entrés au fil du quotidien. Garder des papiers qui comptent ou recevoir des livres n’a rien d’inhabituel en soi. Le retentissement prend une forme concrète quand des usages réguliers se perdent, par exemple lire à sa table ou y recevoir quelqu’un. La sécurité du passage pose une question distincte, même si l’on renonce pour l’instant à s’installer."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Une place assise qui cesse d’être disponible",
+          "text": "Agnès voit la chaise, le carton et la pochette qui glisse. Elle ne peut pas savoir que sa tante a déjà cherché seule une place la semaine précédente, ni que reconnaître l’écriture sur un papier rend la décision plus longue. Pour Nathalie, poser la pochette provisoirement ressemble vite à une demande de trancher son sort. Le trouble lui a été expliqué lors d’une évaluation antérieure. Elle peut reconnaître ce qui se passe et rester indécise devant cette feuille violette. Elle ressent cette gêne même seule. La visite la rend plus difficile à passer sous silence."
+        },
+        {
+          "role": "strategies",
+          "heading": "Trouver où s’asseoir aujourd’hui",
+          "text": "Agnès et Nathalie peuvent chercher un lieu où faire les légendes maintenant, puis laisser à Nathalie le choix du prochain rendez-vous chez elle. Nathalie peut expliquer à l’équipe spécialisée qu’elle n’utilise plus sa table et que l’accès au séjour s’est rétréci. Ce changement de circulation mérite d’être signalé dès maintenant. Une description précise est utile même quand Nathalie ne sait pas encore ce qu’elle voudrait déplacer. Si le passage devient dangereux, l’équipe peut orienter vers une évaluation adaptée. En cas de danger immédiat, il faut solliciter les secours."
+        }
+      ],
+      "ending_title": "La table près des revues",
+      "ending": "À la médiathèque, Agnès trouve une table près des revues. Nathalie la rejoint avec le livre qu’elle n’a pas terminé. Avant de s’asseoir, elle laisse un message à son équipe. Elle décrit le carton et la difficulté à rejoindre le séjour. Agnès lui montre ensuite les mots « trois coups de grille » dans sa première légende. Nathalie remet le son et les compte avec elle. L’après-midi, l’ergothérapeute Nora la rappelle. Elle vérifie que la porte d’entrée s’ouvre complètement et lui propose une visite vendredi pour examiner les passages et l’usage de la table. Nathalie accepte.",
+      "mirror": [
+        "Quand la pochette tombe sur la chaise, Agnès peut laisser sa tante la reprendre. « J’ai besoin de m’asseoir pour écrire. La médiathèque est ouverte. Ça te dit qu’on y aille ensemble ? » Elle peut aussi dire ce qu’elle a vu du passage et demander si Nathalie veut en parler à l’équipe. Agnès peut choisir de travailler ailleurs chaque fois qu’elle en a besoin. Elle n’a pas à libérer le fauteuil ou à évaluer la sécurité elle-même."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oxford-nhs-accumulation",
+        "usfa-acces-incendie"
+      ],
+      "continuity": {
+        "choice": "Nathalie et Agnès s’installent à la médiathèque. Nathalie signale le rétrécissement du passage et accepte une visite de Nora vendredi.",
+        "next": "Jeudi, Nathalie retrouve Samira au marché. Vendredi, la visite partira des difficultés d’accès et d’usage observées mardi."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "nathalie-collection-attachement-encombrement",
+      "title": "Collectionner des objets et avoir du mal à s’en séparer",
+      "description": "Au marché, Samira demande un marque-page pour une lecture. Nathalie sait exactement lequel elle souhaite lui montrer.",
+      "context": "Le jeudi au marché, sur le stand de Samira, ancienne imprimeuse du quartier",
+      "topics": [
+        "Collection ordinaire",
+        "Choix des acquisitions",
+        "Place occupée dans le logement"
+      ],
+      "clinical_focus": "Attachement ordinaire et collection choisie",
+      "clinical_intro": "Nathalie sait où se trouve le marque-page qu’elle veut montrer à Samira. À la maison, d’autres objets restent difficiles à déplacer et la table ne peut plus servir. Une collection choisie et un trouble d’accumulation compulsive peuvent coexister. L’attachement à un objet a des sens différents selon la manière dont il s’inscrit dans le quotidien.",
+      "opening": "Le dessin ressemble à une corde, jusqu’à ce que Samira le retourne et montre la tête de l’anguille. Elle a retrouvé l’épreuve de ce marque-page dans un carton de son ancienne imprimerie et l’a amenée au marché pour Nathalie. Le tirage fini était rouge sur papier gris. La première version penchait vers l’orange, à cause d’une erreur qu’elles n’avaient remarquée qu’en sortant voir les couleurs au jour. Nathalie s’en souvient parce que Samira avait trouvé l’erreur plus belle que la commande.\n\nÀ la maison, Nathalie garde un album de marque-pages d’imprimeries du quartier. Elle y range les exemplaires par atelier. Le sien à l’anguille se trouve à droite, près d’un morceau de papier qui porte le nom du graphiste. Samira prépare avec la médiathèque de courtes lectures enregistrées sur les anciens commerces. Elle demande si Nathalie voudrait apporter son marque-page et raconter l’erreur de couleur. Il y aurait deux minutes de lecture et un micro, rien à apprendre par cœur.\n\nUne cliente s’arrête et demande à Samira si elle pourrait vendre d’autres épreuves. Pendant qu’elles discutent, Nathalie pense au carton qui gêne le passage chez elle. Elle ignore ce qu’il y a sous la première couche de brochures. Il y a quelques années, elle aurait répondu à n’importe quelle question sur le contenu de sa librairie, même les yeux fermés. Elle sait encore retrouver un livre grâce à la couleur de son dos. Chez elle, il lui arrive d’interrompre la recherche d’un courrier parce qu’il faudrait soulever trop de choses avant d’atteindre la chemise qu’elle cherche.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce qui distingue des gestes parfois semblables",
+          "text": "Une collection ordinaire peut tenir une grande place dans une vie et susciter une vraie réticence à céder une pièce. Les acquisitions y sont souvent ciblées, et les objets restent généralement repérables. Dans le trouble d’accumulation compulsive, le retentissement de la difficulté à se séparer et de l’encombrement se voit dans les usages de tous les jours. Il peut devenir plus difficile de circuler, d’utiliser une table ou de retrouver ce qui est nécessaire. L’ordre d’une étagère ne suffit à établir aucune différence clinique. Nathalie a une collection qu’elle connaît bien et, ailleurs chez elle, des possessions dont la présence et le sort lui coûtent davantage."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Savoir de quel papier on parle",
+          "text": "Devant l’épreuve de Samira, Nathalie sait ce qui lui plaît, où se trouve l’exemplaire qu’elle possède et ce qu’elle veut en faire. Elle a déjà refusé d’autres marque-pages de la même période faute de lien avec les ateliers qu’elle suit. À propos des brochures du carton, elle craint de regretter la perte de renseignements dont elle pourrait un jour avoir besoin. Cette perspective la retient chaque fois qu’elle veut ouvrir le carton. Pour son équipe, l’incidence de ces décisions sur le passage renseigne autrement que le nombre d’objets dans son album."
+        },
+        {
+          "role": "strategies",
+          "heading": "Donner un nom au projet que l’on choisit",
+          "text": "Nathalie peut s’engager pour une lecture et décider plus tard si elle prête un objet à la médiathèque. Elle peut aussi indiquer à Nora, pendant la visite, qu’elle souhaite laisser son album en dehors de la discussion du moment. Faire la différence entre ce projet et l’usage des pièces aide à préciser l’appui recherché. Elle peut vouloir retrouver un courrier ou rendre une chaise disponible tout en gardant l’album. Si l’on s’interroge sur une accumulation et ses effets, une discussion avec un professionnel permet de décrire les situations qui posent problème, sans demander à un proche d’interpréter la collection."
+        }
+      ],
+      "ending_title": "Deux minutes pour une anguille",
+      "ending": "Nathalie accepte la lecture. Elle dit qu’elle peut apporter l’album et que le marque-page rentrera avec elle ce jour-là. Samira écrit l’adresse de la médiathèque au dos d’un programme que Nathalie replie dans son carnet. L’ancienne imprimeuse reprend l’épreuve orange et la glisse sous son plateau. En quittant le marché, Nathalie essaie sa première phrase à voix basse. « On n’a pas vu que l’anguille changeait de couleur avant de l’emmener dehors. » Pour vendredi, elle a aussi deux exemples à raconter à Nora. Elle a perdu l’usage de sa table et ne peut plus toujours retrouver son courrier.",
+      "mirror": [
+        "« Est-ce que tu aimerais lire cette histoire ? Tu peux garder l’album avec toi, j’ai surtout besoin de ta voix. » Samira peut préciser ainsi ce qu’elle propose au marché. L’intérêt qu’elle porte à l’anguille n’a pas à s’étendre aux autres objets. Nathalie peut proposer de parler de l’imprimerie sans montrer sa collection. Samira peut accueillir ce choix et laisser à l’équipe la discussion sur ce qui gêne à la maison."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nordsletten-collection",
+        "oxford-nhs-accumulation"
+      ],
+      "continuity": {
+        "choice": "Nathalie accepte une lecture de deux minutes et décide que son marque-page rentrera avec elle. Elle distingue l’album des difficultés qu’elle veut aborder vendredi.",
+        "next": "Nora viendra pour la circulation et l’usage des pièces. Nathalie commence à écrire son texte sur l’imprimerie."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "nathalie-evaluation-usage-logement",
+      "title": "Évaluer ce que l’encombrement change à la maison",
+      "description": "Nora vient à domicile. Nathalie choisit de lui montrer le trajet vers le séjour et la table où elle voudrait lire.",
+      "context": "Le vendredi, lors d’une visite de Nora, ergothérapeute de l’équipe spécialisée",
+      "topics": [
+        "Évaluation du retentissement",
+        "Visite à domicile",
+        "Accès et usage des pièces"
+      ],
+      "clinical_focus": "Évaluation clinique dans le quotidien",
+      "clinical_intro": "Lors d’une visite convenue, Nathalie montre à Nora comment elle rejoint le séjour et où elle se met pour lire. L’évaluation du trouble d’accumulation compulsive tient compte de ce que la personne vit, de l’évolution dans le temps et des usages réels du logement. Une visite peut éclairer des difficultés qu’une description ou une image ne montre pas.",
+      "opening": "Nathalie ouvre à Nora avec son carnet dans une main. Il contient le début de l’histoire de l’anguille et, sur une page séparée, les deux mots « table » et « porte » pour le rendez-vous. Elle avait commencé une troisième ligne pour dire combien de cartons elle avait. Elle l’a barrée. Depuis que l’équipe a posé le diagnostic de trouble d’accumulation compulsive, elle a souvent trouvé plus facile de parler des objets un par un que de montrer le trajet qu’elle fait tous les jours entre l’entrée et le séjour.\n\nNora lui demande par où commencer. Nathalie désigne la porte d’entrée. Elle peut l’ouvrir et la refermer complètement. C’est plus loin, avant le séjour, qu’elle doit faire un écart autour du carton. Nora regarde la circulation avec elle sans toucher aux objets. Quand elles arrivent devant la table, Nathalie explique qu’elle finit parfois par manger dans le fauteuil. Au rendez-vous précédent, la table était déjà encombrée. Elle se rappelle qu’elle s’y installait encore le soir.\n\nL’ergothérapeute demande ce qu’Agnès a vu mardi. Nathalie connaît les faits qu’elle veut raconter elle-même. Elle tient à ce que sa nièce n’ait rien à ajouter par téléphone pour le moment. En montrant la chaise, elle se rappelle l’écriture violette et cherche des yeux la pochette. Nora attend qu’elle retrouve le fil. Nathalie se demande si elles peuvent parler du trajet sans décider ce matin du sort des papiers.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Regarder les usages, puis replacer les faits dans le temps",
+          "text": "L’évaluation d’une accumulation concerne la façon dont les objets arrivent, l’expérience des décisions de séparation et leurs effets au fil du temps. Une visite convenue ou les observations d’un proche peuvent apporter des éléments différents de ceux recueillis en entretien. Le professionnel tient compte de la santé et des circonstances. Un problème de mobilité ou des symptômes d’un autre trouble peuvent aussi peser sur l’usage du logement. Dans le suivi de Nathalie, la visite sert à réexaminer les usages et le risque à partir de son diagnostic déjà établi. Elle garde la main sur ce qu’elle souhaite raconter à Nora."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Ce que montrent le trajet et la chaise",
+          "text": "La porte d’entrée s’ouvre, mais la circulation se complique à l’approche du séjour. Ces observations portent sur deux endroits précis. Nathalie parle aussi des repas dans le fauteuil et de la place qu’elle n’a plus pour recevoir Agnès. Le trajet et la table n’ont pas changé au même moment. Une pochette contenant des papiers de librairie attire son regard. Certaines décisions sont suspendues depuis des années. Quand Nora lui demande ce qui aurait rendu le trajet plus simple mardi, elle peut répondre sans savoir combien d’objets elle serait prête à transmettre."
+        },
+        {
+          "role": "strategies",
+          "heading": "Décider d’abord ce qui doit rester accessible",
+          "text": "Lorsqu’un passage se resserre, il est utile de le dire à l’équipe sans attendre d’avoir réglé toutes les décisions. Nora examine avec Nathalie le trajet vers la porte et ce qu’un tiers peut faire avec son accord. Selon le danger constaté, une intervention adaptée peut nécessiter l’appui de services compétents. Ni la nièce ni une amie n’ont à improviser une manutention. Dans le cas de Nathalie, Nora propose une action limitée aujourd’hui, un rendez-vous pour vérifier l’évolution et un contact si l’accès se réduit de nouveau. Pour la table, elles peuvent convenir d’un autre objectif."
+        }
+      ],
+      "ending_title": "L’accès, puis la table",
+      "ending": "Avec l’accord de Nathalie, Nora l’aide à déplacer le carton léger vers un emplacement stable et vérifie avec elle que le trajet vers la porte reste dégagé. Les brochures y restent. Elles conviennent de laisser le passage libre. Nathalie appellera l’équipe s’il se rétrécit de nouveau. Nora reviendra avec une collègue pour une aide matérielle annoncée à l’avance, à laquelle Nathalie pourra donner des limites. Nathalie garde la pochette violette sur la table. Dans le carnet, sous « porte », elle note le numéro de l’équipe. Sous « table », elle écrit qu’elle voudrait une chaise où on peut reculer.",
+      "mirror": [
+        "Agnès connaît la difficulté de mardi. Si Nathalie lui parle de la visite, Agnès peut lui laisser le choix. « Si tu veux me dire ce que vous avez décidé pour l’entrée, je t’écoute. Tu peux aussi en parler seule avec Nora. » Son expérience de la pièce peut être utile si sa tante souhaite la partager. L’évaluation du passage et les décisions qui en découlent restent du ressort de l’équipe et, si nécessaire, des services compétents."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oxford-nhs-accumulation",
+        "cambridge-coordination-accumulation",
+        "usfa-acces-incendie"
+      ],
+      "continuity": {
+        "choice": "Nathalie montre les deux zones à Nora et autorise un déplacement limité pour l’accès. Elles s’accordent sur le passage libre, un contact et une nouvelle visite annoncée.",
+        "next": "Nathalie a choisi ce que l’équipe peut faire. Elle veut préciser avec Agnès ce qu’une aide familiale peut recouvrir."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "nathalie-aide-accord-pas-de-debarras-surprise",
+      "title": "Accepter de l’aide sans confier le sort de ses objets",
+      "description": "Agnès pense à une camionnette pour aider sa tante. Nathalie cherche comment lui dire ce qu’elle voudrait vraiment lui demander.",
+      "context": "Le samedi matin au café, après la visite de Nora",
+      "topics": [
+        "Aide consentie",
+        "Désaccord en famille",
+        "Limites du soutien"
+      ],
+      "clinical_focus": "Périmètre de l’aide et consentement",
+      "clinical_intro": "Agnès imagine une matinée de transport et Nathalie entend déjà qu’il faudra se séparer de ses affaires. Dans le trouble d’accumulation compulsive, une aide envisagée par un proche peut toucher des décisions vécues comme très difficiles. Dire qui intervient, sur quoi et avec quel accord permet de proposer un appui que chacun comprend.",
+      "opening": "Agnès dessine deux fenêtres sur une serviette en papier. Elle dessine une chaise devant la première et un carré pour la table devant la seconde. Elle veut savoir de quel côté Nathalie préfère lire. Nathalie lui explique que l’ombre de l’immeuble d’en face gagne le séjour après trois heures et qu’elle aimerait garder la lampe près du fauteuil. Elles en sont à tourner la serviette pour se représenter la pièce quand Agnès dit qu’elle pourrait emprunter la camionnette d’Étienne. Le samedi suivant, il n’en a pas besoin.\n\nNathalie prend le crayon à son tour et le repose aussitôt. Pour qu’une camionnette soit utile, il faudrait qu’elle sache déjà ce qui doit quitter l’appartement. Elle imagine son frère dans le couloir, demandant à chaque passage où mettre ce qu’il a dans les bras. Mardi, elle avait réussi à sortir pour aller travailler avec Agnès. Vendredi, elle a autorisé Nora à déplacer un carton et a vu où il allait. Elle ne peut pas passer de cette décision-là à une matinée de transport en hochant simplement la tête.\n\nAgnès précise qu’elle n’a encore rien proposé à Étienne. Elle voulait éviter de prendre un rendez-vous sans en parler. Dans son sac, elle a toujours le double des clés que Nathalie lui avait confié quand elle attendait une livraison. Elle demande si sa tante préfère le reprendre. Nathalie a envie de lui dire qu’elle peut le garder. Elle veut aussi trouver les mots pour que les clés et la camionnette ne deviennent pas une seule offre à accepter ou à refuser.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que chacun comprend par aider",
+          "text": "Une proposition d’aide peut recouvrir des tâches très différentes, du transport d’un objet déjà choisi à un débarras subi. La détresse liée à la séparation peut rendre une intervention imprévue particulièrement éprouvante. Vider une pièce ne travaille pas à lui seul les décisions, les arrivées d’objets ni l’usage qui pourra se maintenir. Dans un accompagnement concerté, la personne sait qui vient, ce qui est prévu et ce qu’elle peut refuser ou arrêter. Les risques sérieux de sécurité se discutent avec les services compétents. Ils ne donnent pas à l’entourage une mission générale de tri."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Un déplacement accepté, une autre idée encore ouverte",
+          "text": "Agnès n’a organisé aucun enlèvement. Elle pense à du temps gagné sur un samedi et propose un moyen de transport. Nathalie se représente plusieurs personnes en mouvement pendant qu’elle essaie de suivre des choix qu’elle n’a pas préparés. Elle avait supporté la décision de vendredi parce qu’elle connaissait l’objet, la destination et la personne qui l’aidait. Elle tient à garder Agnès près d’elle et a peur qu’un refus soit compris comme le contraire. Ce matin, même le double des clés, donné pour une autre raison, prend dans la conversation un sens que les deux femmes n’avaient jamais discuté."
+        },
+        {
+          "role": "strategies",
+          "heading": "Dire le geste qu’on accepte et qui pourra le faire",
+          "text": "Nathalie peut laisser sa nièce garder une clé pour l’usage convenu et refuser la camionnette. Elle peut aussi lui demander un appui qu’elle désire, comme écouter son texte. Agnès peut accepter cette tâche et dire si elle manque de temps. Pour la visite professionnelle annoncée, Nathalie peut demander qui sera présent et convenir d’un périmètre avec Nora. Il peut aussi être utile de dire explicitement que les proches ne photographient ni ne déplacent les affaires de leur propre initiative. Un accord sur un rendez-vous ne vaut que pour l’aide qui a été discutée."
+        }
+      ],
+      "ending_title": "La clé reste dans le sac",
+      "ending": "Nathalie dit qu’Agnès peut garder la clé pour les services qu’elles auront convenus. Pour le moment, elle ne veut ni transport ni passage d’Étienne. Agnès replie le dessin et propose de l’écouter lire jeudi à la médiathèque. Avant de quitter le café, Nathalie écrit à Nora pour confirmer l’aide de lundi. Elle demande que sa collègue et elle restent du côté de la table et lui demandent avant tout déplacement. Elle montre le message à Agnès, puis lui demande si elle se souvient de la phrase sur l’anguille.",
+      "mirror": [
+        "« Je pensais t’épargner un trajet. Je ne vais demander à personne de venir. Si tu veux un coup de main précis, on en parle d’abord. » Agnès peut revenir ainsi sur l’idée de la camionnette. Elle peut aussi proposer une heure pour la lecture et laisser les décisions matérielles à sa tante et à l’équipe. Agnès garde la clé pour les services convenus. Elle peut la rendre si l’arrangement ne lui convient plus."
+      ],
+      "sources": [
+        "oms-cddr",
+        "cambridge-coordination-accumulation",
+        "oxford-nhs-accumulation"
+      ],
+      "continuity": {
+        "choice": "Nathalie refuse la camionnette, précise le rôle de la clé et confirme une aide professionnelle limitée le lundi. Agnès propose une répétition à la médiathèque.",
+        "next": "Lundi, l’équipe intervient sur un côté de la table avec l’accord de Nathalie. Jeudi, elle retrouve Agnès à la médiathèque pour essayer la lecture."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "nathalie-acquisition-objets-gratuits",
+      "title": "Rapporter des objets quand ils sont donnés",
+      "description": "Sur le chemin de la médiathèque, une table de livres gratuits arrête Nathalie. Elle en voit tout de suite six qu’elle pourrait rapporter.",
+      "context": "Le jeudi, devant une table de livres à donner, en allant à la répétition",
+      "topics": [
+        "Acquisition active",
+        "Utilité imaginée",
+        "Place disponible"
+      ],
+      "clinical_focus": "Envie d’acquérir des objets gratuits",
+      "clinical_intro": "Nathalie s’arrête devant des livres gratuits et leur trouve aussitôt des usages. Une accumulation peut être alimentée par des objets qu’on rapporte activement, y compris sans achat, ou par ceux qui entrent au fil du quotidien. Pour Nathalie, l’attrait immédiat de ces livres et la place qu’ils occuperaient une fois chez elle se présentent à deux moments différents.",
+      "opening": "« Prenez ce que vous lirez », dit une pancarte sur la table pliante. Nathalie trouve le premier titre en moins d’une minute. C’est un petit lexique des enseignes qu’elle pourrait utiliser pour le texte de la médiathèque. Elle ouvre à la page des cordonniers. Les trois noms donnés à l’outil qui tient la chaussure sont peut-être faux, mais l’illustration a été faite par quelqu’un qui l’a vu de près. Elle met le lexique de côté. Au bout de la table, elle repère cinq autres livres du même éditeur.\n\nLundi, avec Nora et sa collègue, elle a retrouvé le bord de sa table côté fenêtre. Deux dossiers ont rejoint le buffet avec son accord. Les autres sont encore sur la table. Après leur départ, elle avait posé les coudes sur le bois et relu sa première phrase deux fois, juste pour le plaisir de ne pas tenir le carnet en l’air. À présent, elle voit un volume de photographies de ferronneries. Un client aurait pu le commander pour offrir. Elle n’a plus ce client, mais le livre lui paraît toujours destiné à quelqu’un qu’elle pourrait retrouver.\n\nLe bénévole rassemble des sacs en papier. Nathalie a déjà tendu la main vers l’un d’eux quand elle reçoit un message d’Agnès depuis la médiathèque. « J’ai trouvé le chronomètre. Il ne fait pas un bruit. » Nathalie avait prévu d’arriver un peu tôt pour lui demander son avis sur la dernière phrase. Elle compte les livres qu’elle a rapprochés sur la table. Elle n’aurait pas cru en avoir déplacé autant depuis qu’elle s’est arrêtée.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Les objets qui arrivent par plusieurs voies",
+          "text": "Le trouble d’accumulation compulsive peut s’accompagner d’envies répétées de rapporter des objets, achetés ou reçus gratuitement. L’amassement peut aussi se faire plus passivement, par exemple quand le courrier ou les brochures s’accumulent. Le désir d’acquérir quelque chose peut procurer du plaisir ou sembler répondre à un usage pressant. La question clinique porte sur un fonctionnement qui se répète et sur ses conséquences, en lien avec la difficulté à se séparer des objets. S’arrêter devant des livres donnés est courant. Pour Nathalie, cette envie prend son sens parmi d’autres arrivées et en regard de la place devenue difficile à utiliser."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le lecteur qu’elle imagine, l’étagère qu’elle oublie",
+          "text": "Nathalie sait ce qu’elle ferait aujourd’hui avec le lexique. Les autres titres lui font penser à un lecteur qu’elle pourrait recontacter ou à un cadeau qu’elle ferait un jour. À la librairie, penser à quelqu’un devant un titre faisait partie de son métier. Chez elle, certains livres récupérés ainsi sont restés fermés, parce qu’une nouvelle lecture ou un autre projet a pris leur place. Le bénévole voit les volumes rapprochés. Il ne sait rien du bord de la table retrouvé lundi. Nathalie sent les deux réalités se rejoindre seulement quand elle lève la tête et regarde l’heure."
+        },
+        {
+          "role": "strategies",
+          "heading": "Prendre le temps de retrouver l’usage envisagé",
+          "text": "Nathalie peut reprendre la raison qui l’a fait s’arrêter et décider de ce qui a réellement une place chez elle aujourd’hui. Elle peut aussi en parler avec Maud, la psychologue de l’équipe, en racontant le moment où les cinq autres livres ont rejoint le premier. Ce genre d’observation peut aider à ajuster le soin, que le choix ait été facile ou qu’elle soit repartie avec tout. Il n’y a pas lieu de demander à Agnès de contrôler ses achats. Sa nièce peut lui rappeler la répétition ou lui dire à quelle heure elle devra partir, puis la laisser décider."
+        }
+      ],
+      "ending_title": "Le lexique ouvert à la bonne page",
+      "ending": "Nathalie prend le lexique qu’elle va utiliser et remet les cinq autres livres à leur place. En sortant, elle éprouve encore le désir d’y retourner. Elle arrive avec dix minutes de retard. Agnès lance le chronomètre et Nathalie dit « chausse-pied » à la place de « tablier » et ne s’en aperçoit qu’en voyant Agnès relever la tête. Elles rient, recommencent et barrent une phrase qui faisait double emploi. En rentrant, Nathalie range le lexique à l’endroit qu’elle avait en tête sur le buffet. Dans son carnet de rendez-vous, elle écrit « D’abord un, puis six. » Elle veut pouvoir raconter à Maud le moment entre les deux.",
+      "mirror": [
+        "« Je suis à la médiathèque jusqu’à onze heures. On peut faire une lecture même s’il ne nous reste que dix minutes. » Agnès peut rappeler le temps prévu pour leur rendez-vous. Si Nathalie raconte les livres, Agnès peut lui demander ce qui l’a attirée dans le lexique. Son rôle n’est ni de vérifier le sac ni d’applaudir un nombre d’objets. Elle peut s’en tenir à la lecture et à l’heure dont elle dispose."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oxford-nhs-accumulation",
+        "tolin-tcc-accumulation"
+      ],
+      "continuity": {
+        "choice": "Nathalie repart avec le seul livre dont elle a un usage immédiat, répète son texte avec Agnès et note le moment où l’envie s’est étendue aux autres titres.",
+        "next": "Nathalie souhaite apporter cet exemple à Maud. Le lexique et le texte sont prêts pour l’enregistrement à la médiathèque."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "nathalie-passage-securite-incendie-relais",
+      "title": "Quand un danger dans l’immeuble demande un relais immédiat",
+      "description": "Une voisine signale de la fumée dans l’escalier. Nathalie appelle les pompiers et leur décrit l’accès à son logement.",
+      "context": "Un lundi matin chez Nathalie, lors d’un incident dans l’immeuble",
+      "topics": [
+        "Sécurité des accès",
+        "Incendie domestique",
+        "Relais des secours"
+      ],
+      "clinical_focus": "Encombrement des accès et sécurité",
+      "clinical_intro": "De la fumée est signalée dans l’escalier de l’immeuble de Nathalie. Un passage encombré peut compliquer les déplacements et l’intervention des secours, quelle que soit la cause du danger. L’épisode sépare l’appel immédiat aux pompiers, leurs consignes et le travail de prévention que Nathalie reprend avec son équipe une fois l’alerte terminée.",
+      "opening": "Le lexique est ouvert à la page du cordonnier quand le téléphone sonne. Cécile, la voisine qui sort d’habitude son chien avant neuf heures, parle depuis la rue. Elle vient de voir de la fumée dans la cage d’escalier. Nathalie a la main sur la couverture du livre. Pendant une seconde, elle pense qu’elle devrait aller voir par elle-même. Elle s’arrête avant de toucher à la porte et appelle le 18. Elle donne l’adresse, l’étage, dit qu’elle est chez elle et que la fumée est signalée dans l’escalier. La personne au téléphone lui dit de rester dans son appartement, porte fermée, et la guide.\n\nOn lui demande comment les pompiers pourront reconnaître son entrée. Nathalie décrit le nom sur la porte et répond aux questions sans essayer de deviner l’origine de la fumée. Depuis la visite de Nora, le carton a quitté le passage et la porte s’ouvre complètement. Elle peut le dire simplement. Elle entend un choc dans la rue, puis une voix dans l’immeuble. Au téléphone on lui dit d’attendre les consignes des secours. Son regard revient au lexique. Elle le laisse où il est.\n\nQuand les pompiers l’informent que la situation est maîtrisée, ils lui disent que la fumée venait d’une partie commune, plus bas. Nathalie envoie un message à Agnès, qui passe la retrouver. Elle la voit depuis la fenêtre, de l’autre côté d’un véhicule, et lui fait signe. Elle avait prévu de relire le texte avec elle au téléphone en fin de matinée. Elle se rend compte qu’elle a besoin de lui parler d’autre chose avant de chercher sa dernière phrase.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La circulation compte, quelle que soit la source du danger",
+          "text": "Quand des affaires rétrécissent les passages ou bloquent une porte, elles peuvent gêner la sortie et l’arrivée des secours. Cela ne dit rien de la cause d’un incident donné. Dans la scène, la fumée vient d’une partie commune et Nathalie a besoin de consignes immédiates. En France, pour un incendie ou un danger immédiat de cette nature, on appelle le 18 ou le 112 et on suit les indications des secours. Un escalier enfumé ne doit pas être emprunté. L’alerte passe avant le tri ou la tentative de récupérer des objets."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Deux faits distincts à raconter",
+          "text": "Nathalie sait où la fumée a été signalée et peut expliquer l’accès à sa porte. Elle ne sait pas ce qui s’est passé en bas tant que les pompiers ne le lui ont pas précisé. En attendant, elle voit le passage dégagé que Nora a examiné avec elle. Il lui reste des affaires à décider dans le séjour, et la table n’a retrouvé qu’une partie de son usage. Ce matin, la situation exige des secours et l’entrée est un fait utile à leur communiquer. Plus tard, l’inquiétude que l’incident laisse à Nathalie pourra être discutée avec son équipe sans tirer de conclusion sur la cause du danger."
+        },
+        {
+          "role": "strategies",
+          "heading": "Prévenir tout de suite, reprendre le plan après l’alerte",
+          "text": "Un danger immédiat demande un appel aux secours, même si la personne est déjà suivie pour une difficulté liée à son logement. Une fois la situation sécurisée, Nathalie peut reprendre avec Nora le plan prévu pour l’accès et demander une réévaluation si quelque chose a changé. Agnès peut rester disponible après l’alerte ou reporter leur rendez-vous. Elle n’a pas à pénétrer dans l’immeuble pour vérifier un passage ou prendre des affaires. En dehors d’une urgence, si une porte ou un trajet devient difficile à utiliser, la personne peut le signaler rapidement à l’équipe ou aux services compétents."
+        }
+      ],
+      "ending_title": "L’appel d’après",
+      "ending": "Nathalie retrouve Agnès dehors quand les pompiers ont dit qu’elle pouvait sortir. Elles reportent la lecture du texte à l’enregistrement prévu à la médiathèque. Nathalie appelle ensuite Nora. Elle lui dit que l’entrée est toujours dégagée et lui raconte la question posée par les secours. Elles conviennent de revoir ensemble les accès lors de la prochaine visite, qui était déjà prévue cette semaine. Elle souhaite toujours parler à Maud des livres du jeudi et de ce qu’elle ressent à l’idée de se séparer d’un objet. Elle garde leur rendez-vous. En rentrant, elle retrouve le lexique ouvert à la page du cordonnier.",
+      "mirror": [
+        "« Je peux rester un moment avec toi. La lecture attendra. » Agnès peut le proposer à sa tante quand les pompiers ont terminé. Si un danger est encore en cours, son rôle est de suivre les consignes des secours et de leur transmettre les faits utiles qu’elle connaît, sans entrer pour dégager elle-même. Une fois l’alerte levée, elle peut accompagner un appel convenu à l’équipe et garder à Nathalie la décision sur ce qu’elle raconte."
+      ],
+      "sources": [
+        "oms-cddr",
+        "securite-civile-incendie-domestique",
+        "usfa-acces-incendie",
+        "cambridge-coordination-accumulation"
+      ],
+      "continuity": {
+        "choice": "Nathalie appelle les pompiers dès le signalement de fumée et suit leurs consignes. Une fois l’alerte levée, elle garde les rendez-vous avec Nora et Maud.",
+        "next": "Nora revoit les accès lors de la visite prévue. Nathalie retrouve Maud au centre pour parler de l’acquisition et du coût d’une séparation."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "nathalie-tcc-decision-separation-accompagnee",
+      "title": "Travailler la difficulté à se séparer d’un objet en thérapie",
+      "description": "Nathalie montre à Maud deux intercalaires identiques. Ensemble, elles regardent ce qui rend le choix difficile.",
+      "context": "Au centre, en rendez-vous avec Maud, psychologue de l’équipe spécialisée",
+      "topics": [
+        "Thérapie cognitive et comportementale",
+        "Décision de séparation",
+        "Détresse anticipée"
+      ],
+      "clinical_focus": "Apprentissage accompagné des décisions de séparation",
+      "clinical_intro": "Nathalie veut comprendre pourquoi deux intercalaires identiques lui paraissent indispensables. Une thérapie cognitive et comportementale adaptée au trouble d’accumulation compulsive peut aborder les pensées, l’inconfort et les décisions autour des possessions. Nathalie choisit avec la psychologue ce qu’elle accepte d’essayer, puis décrit ce que l’expérience lui a coûté.",
+      "opening": "Les deux intercalaires bleus se superposent exactement. Nathalie les a choisis chez elle parce qu’aucune écriture ne permet de les distinguer. Ils viennent d’un paquet qu’elle utilisait pour les commandes de la librairie. Elle les a gardés depuis sa fermeture, avec l’idée qu’elle les mettrait un jour dans ses dossiers personnels. Mardi, Nora est repassée. Avec Nathalie, elle a vérifié que le trajet entre l’entrée et le séjour était resté libre et que la porte s’ouvrait toujours complètement. Nathalie a maintenu l’accord. Elle laisse le passage libre et appelle l’équipe s’il se rétrécit. Ce matin, au centre, Nathalie a laissé le carnet ouvert à la page « D’abord un, puis six ». Elle raconte les livres du jeudi à Maud avant de sortir les deux cartons bleus de son sac.\n\nÀ la librairie, l’un d’eux aurait suffi à séparer les commandes de la semaine. Chez elle, Nathalie pense qu’il faudrait en avoir un en réserve. Elle a déjà les deux mains posées sur les intercalaires quand elle explique qu’elle en a d’autres, exactement pareils, dans le tiroir du buffet. La psychologue lui demande ce qu’elle prévoit de faire avec ceux du tiroir. Nathalie a une réponse pour trois dossiers. Quand elles arrivent au quatrième, elle se met à chercher un dossier dont elle n’aurait pas encore eu l’idée.\n\nMaud lui demande si elle veut seulement décrire cette pensée ou si elle aimerait regarder ce qui se passerait en prenant une décision sur l’un des deux. Nathalie se redresse. Elle croyait qu’il faudrait commencer par une affaire à laquelle elle tient davantage pour que le rendez-vous compte. Elle a laissé la pochette violette chez elle. Elle regarde la main droite, celle qui serre le plus fort le carton bleu, et s’entend demander où il irait.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Ce que la thérapie peut travailler",
+          "text": "Une thérapie cognitive et comportementale, ou TCC, adaptée à l’accumulation peut aider à examiner la façon dont on décide de rapporter, de garder ou de laisser partir des objets. Le soin peut inclure des exercices choisis avec le thérapeute, un travail sur les attentes liées aux possessions et des façons de faire face à la détresse. Des essais ont observé une amélioration des symptômes chez des adultes par rapport à des personnes en attente de soin. Les bénéfices varient et ces comparaisons ne prédisent pas le résultat de Nathalie. S’accorder sur un objectif et pouvoir dire ce qui demeure difficile font partie du travail."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Un besoin de réserve qui dépasse les dossiers nommés",
+          "text": "Maud voit deux intercalaires et Nathalie lui parle de ceux du buffet. L’objet a une utilité réelle. La difficulté apparaît quand Nathalie imagine un nombre de dossiers qui augmente au fur et à mesure de la conversation. Elle dit qu’elle redoute d’avoir à recommencer toutes ses recherches le jour où il lui en manquera un. Pour elle, ne plus posséder l’intercalaire est déjà une perspective pénible. Elle avait préparé le rendez-vous avec un objet peu chargé d’histoire. Le choix lui demande de l’effort même dans cette situation."
+        },
+        {
+          "role": "strategies",
+          "heading": "Choisir une question à examiner avec la psychologue",
+          "text": "Nathalie et Maud peuvent rester sur l’exemple, sans passer à des papiers plus importants. Si Nathalie souhaite prendre une décision, elles peuvent préciser à quoi elle s’attend, ce qu’elle accepte et ce qui sera revu ensuite. La psychologue peut tenir compte de son inconfort et de sa situation pour ajuster les prochaines séances. Les proches n’ont pas à recréer l’exercice chez elle ou à choisir pour elle une affaire à donner. Si la détresse reste forte ou rend un essai trop coûteux, cela donne une information à rapporter au suivi."
+        }
+      ],
+      "ending_title": "Un intercalaire au centre",
+      "ending": "Maud lui confirme que l’accueil utilise ce format et serait d’accord pour en prendre un. Nathalie décide de lui confier le premier et remet l’autre dans son sac. Après quelques minutes, elle pense encore au dossier qu’elle n’a pas pu nommer. Elle dit que ses doigts se détendent et qu’elle craint toujours de manquer d’intercalaires. Maud convient de reprendre les deux observations au prochain rendez-vous. Nathalie glisse son carnet dans le sac, sans y ajouter une liste d’affaires à donner. La prochaine fois qu’elle l’ouvrira, ce sera pour lire son texte à la médiathèque.",
+      "mirror": [
+        "Si Nathalie lui raconte les intercalaires, Agnès peut s’intéresser à ce qu’elle a vécu. « Tu veux me raconter ce qui t’a demandé le plus d’effort ? » Sa tante peut lui donner une réponse ou changer de sujet. Le choix fait au centre n’autorise pas Agnès à essayer la même chose avec d’autres affaires. Elle peut écouter, reprendre le texte à lire ou garder sa disponibilité pour une autre fois."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oxford-nhs-accumulation",
+        "steketee-tcc-accumulation",
+        "tolin-tcc-accumulation"
+      ],
+      "continuity": {
+        "choice": "Nathalie choisit de confier un intercalaire à l’accueil et de garder l’autre. Elle convient avec Maud de revenir sur l’inconfort et le besoin de réserve.",
+        "next": "Nathalie va à l’enregistrement de la médiathèque avec Agnès. Le suivi des décisions se poursuit avec Maud."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "nathalie-honte-participation-choix-confidence",
+      "title": "Participer à un projet quand on redoute le regard des autres",
+      "description": "À la médiathèque, on propose une image pour accompagner la voix de Nathalie. Elle craint de devoir montrer plus qu’elle ne le souhaite.",
+      "context": "Un samedi, lors de l’enregistrement des lectures à la médiathèque",
+      "topics": [
+        "Honte et anticipation du jugement",
+        "Participation sociale",
+        "Choix de ce qu’on partage"
+      ],
+      "clinical_focus": "Retrait social et choix de la confidence",
+      "clinical_intro": "Nathalie veut lire son texte, mais elle craint qu’une photo ou une question ne ramène la conversation à son appartement. Le trouble d’accumulation compulsive peut s’accompagner de honte ou d’un retrait des visites et des activités. Nathalie cherche une façon de participer en choisissant ce qu’elle souhaite rendre public.",
+      "opening": "Le micro de la médiathèque est plus petit que celui qu’Agnès utilise pour enregistrer les rues. Tarek, qui s’occupe de la cabine, leur fait entendre le grésillement qu’il y a quand on frotte le bord de la feuille contre la grille. Nathalie recule son carnet. Elle a apporté l’album, fermé par un élastique, pour revoir le dessin de l’anguille avant de commencer. Dans le couloir, quelqu’un s’étonne qu’on puisse parler deux minutes d’une erreur de couleur. Nathalie se dit qu’il suffirait de raconter la façon dont Samira est sortie vérifier le tirage, avec son tablier encore taché.\n\nTarek demande si elle voudrait fournir une image pour accompagner le son sur le site de la médiathèque. Plusieurs lecteurs ont proposé une photo d’objet chez eux. Elle peut aussi choisir une image ici, ou aucune. Nathalie s’entend répondre qu’elle a la mauvaise lumière chez elle. Elle pense à ce qu’on verrait derrière l’album, à la table et aux dossiers. Elle imagine des gens de l’ancienne rue reconnaissant le buffet et lui demandant depuis quand elle vit comme ça. Personne n’a demandé de voir la pièce. Elle a tout de même envie de ranger son carnet dans son sac.\n\nAgnès est assise près de la vitre. Avant d’entrer, Nathalie lui avait proposé d’écouter pour lui dire si l’on comprend à quel moment la couleur change. Elle lui fait signe de venir. Elle voudrait lui dire une seule phrase au sujet de la photo, avant que sa gêne ne se transforme en excuse pour ne pas lire.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Quand la crainte du regard réduit les occasions de venir",
+          "text": "L’accumulation peut avoir des effets sur la vie sociale, entre autres lorsque des visites deviennent difficiles ou que la personne redoute le jugement sur son logement. La honte et le retrait ne sont pas les seuls vécus possibles. Dans cette scène, Nathalie se représente une conversation qu’elle ne souhaite pas, alors que l’on vient seulement de lui proposer une image. Elle peut prendre cette crainte au sérieux tout en distinguant le projet public et ce qu’elle garde privé. Le suivi peut aussi prendre en compte le coût de ces situations, au-delà de l’encombrement à domicile."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Une invitation qui paraît demander davantage",
+          "text": "Tarek donne trois options, dont celle de publier le son seul. Agnès voit Nathalie retirer sa feuille. Elle ne peut pas en déduire ce que sa tante ressent. Nathalie, elle, connaît déjà la gêne de refuser des visites ou d’inventer une autre raison de se retrouver à l’extérieur. Elle est tentée de partir au moment où elle allait lire une histoire qu’elle aime. Elle a envie d’enregistrer le récit et veut garder son appartement en dehors du projet. Avant de revenir près du micro, elle souhaite entendre que les deux peuvent aller ensemble."
+        },
+        {
+          "role": "strategies",
+          "heading": "Choisir ce qui accompagne la lecture",
+          "text": "Nathalie peut demander à Tarek ce qui sera affiché avec le son, puis donner son accord pour les seuls éléments qui lui conviennent. Elle peut parler à Agnès de la gêne de la photo sans lui déléguer le soin d’expliquer sa situation. S’il est devenu fréquent d’abandonner des activités de peur du regard, ce vécu peut être abordé avec la psychologue. Il est possible de réfléchir à ce qu’on souhaite reprendre, à ses conditions et à l’aide demandée, sans faire d’une confidence publique un passage obligé."
+        }
+      ],
+      "ending_title": "Le bruit de l’atelier dans le texte",
+      "ending": "Nathalie dit à Agnès que l’image la fait hésiter et qu’elle veut publier seulement le son avec son prénom. Elle donne elle-même la réponse à Tarek. À la deuxième prise, elle garde la pause avant le mot « dehors » et le texte dure juste le temps prévu. Samira vient les rejoindre après l’enregistrement. Elle cherche pour son atelier de démonstration un ancien tampon de librairie et se souvient du « À réserver » de Nathalie. Elle demande si elle pourrait le lui prêter un jour. Nathalie lui dit qu’elle va regarder. Elle pose une main sur l’album, qu’elle a choisi de ramener chez elle.",
+      "mirror": [
+        "« Je peux écouter ta lecture. Pour l’image, donne la réponse qui te convient. » Agnès peut s’en tenir à cette proposition avant de repasser derrière la vitre. Si Tarek pose une question à Agnès, elle peut la renvoyer vers Nathalie. Elle n’a pas besoin de raconter les difficultés à la maison pour expliquer l’absence de photo ni de rester au-delà de sa disponibilité."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oxford-nhs-accumulation"
+      ],
+      "continuity": {
+        "choice": "Nathalie enregistre sa lecture et autorise la diffusion du son avec son prénom. Elle n’envoie pas d’image de chez elle et ramène l’album.",
+        "next": "Samira cherche un tampon pour son atelier. Nathalie décide de revoir les anciens objets de la librairie qui se trouvent au buffet."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "nathalie-souvenirs-attachement-objets",
+      "title": "Se séparer d’un objet quand il rappelle quelqu’un",
+      "description": "Samira cherche un ancien tampon. En le retrouvant, Nathalie tombe sur un morceau de bois qu’elle associe à Lucette.",
+      "context": "Chez Nathalie, au buffet, avant le passage de Samira à la médiathèque",
+      "topics": [
+        "Attachement affectif",
+        "Souvenirs associés aux objets",
+        "Transmission choisie"
+      ],
+      "clinical_focus": "Valeur affective et besoin de garder",
+      "clinical_intro": "Un taquet de vitrine et un tampon rappellent à Nathalie deux moments de la librairie. Dans le trouble d’accumulation compulsive, l’importance donnée à ce qu’un objet évoque peut rendre la séparation très pénible. Nathalie cherche ce qu’elle veut garder et ce qu’elle serait prête à transmettre, sans avoir à donner le même sort aux deux objets.",
+      "opening": "Le petit taquet de hêtre est au fond du tiroir, derrière le tampon « À réserver ». Nathalie reconnaît les deux encoches avant de le prendre. Lucette les avait faites un samedi parce que le livre qu’elles exposaient glissait dans la vitrine. Elle était revenue de la réserve avec ce morceau de bois et avait calé le livre au premier essai. Le soir, il n’en restait aucun exemplaire à vendre. Lucette avait dit qu’il n’y avait aucune preuve que le taquet y soit pour quelque chose, mais qu’elles pouvaient toujours le remercier.\n\nAgnès passe prendre son chargeur avant de rejoindre son atelier. Nathalie lui montre les encoches. Sa nièce croit d’abord que sa tante lui demande de remettre le taquet dans la vitrine de quelqu’un. Nathalie explique ce qu’il faisait là et dit qu’elle veut le garder. Elle pose les deux objets sur le coin libre de la table. Le tampon lui rappelle les atlas que monsieur Septier demandait de mettre de côté jusqu’à son jour de marché. Le souvenir lui revient avec une précision qu’elle n’attendait pas, jusqu’au papier dans lequel elle enveloppait chaque atlas.\n\nSamira a demandé un prêt. Nathalie envisage de lui proposer un don pour que le tampon reste à son atelier. Puis elle imagine le tiroir et se voit l’ouvrant pour retrouver un objet qui ne s’y trouve plus. Agnès a déjà enroulé son câble. Nathalie ne lui demande pas d’attendre une réponse. Ce dont elle a envie, tout de suite, c’est de raconter la plaisanterie de Lucette en entier, sans passer au reste du tiroir.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Un souvenir peut donner du poids à la décision",
+          "text": "Des objets ordinaires peuvent avoir une valeur affective forte parce qu’ils évoquent une personne, une époque ou un lieu. Dans le trouble d’accumulation compulsive, le besoin de garder peut rendre la séparation éprouvante, même lorsque l’objet ne sert plus. L’attachement à un objet précis ne suffit pas à expliquer un trouble. Pour Nathalie, les deux objets réveillent des souvenirs. L’idée que le tampon puisse quitter le tiroir ajoute la crainte de chercher quelque chose qui ne sera plus à sa place. Cette réaction s’inscrit dans des difficultés plus larges déjà connues de son équipe."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Deux histoires, deux choix possibles",
+          "text": "Nathalie dit d’emblée qu’elle souhaite garder le taquet. Agnès peut entendre cette décision et l’histoire des encoches. Elle entend Nathalie hésiter sur le tampon. Sa tante aime qu’il puisse servir à l’atelier de Samira et se représente déjà le regret qui pourrait suivre. L’ancienne libraire a déjà donné des objets dont elle ne se rappelle plus la forme. Elle ne sait pas ce qu’il en sera de celui-ci. Son incertitude reste là après le récit, même si le fait de le raconter lui a fait plaisir."
+        },
+        {
+          "role": "strategies",
+          "heading": "Décider de garder, de transmettre ou d’en reparler",
+          "text": "Nathalie peut garder le taquet sans avoir à défendre l’ensemble du tiroir. Pour le tampon, elle peut demander à Samira si elle en ferait un usage durable et distinguer un prêt d’un don. Si elle préfère attendre, elles peuvent décider quand en reparler. Raconter un objet peut être agréable ou utile à la personne. Elle peut choisir quand elle a envie de le faire. La séparation peut rester éprouvante. Nathalie peut en parler avec Maud si la peur du regret la bloque souvent. Agnès peut écouter le récit sans le traiter comme une invitation à vider le tiroir."
+        }
+      ],
+      "ending_title": "Le taquet rentre dans le tiroir",
+      "ending": "Nathalie remet le taquet dans le tiroir et appelle Samira. Elle lui demande si le tampon lui serait utile au-delà de l’atelier de la semaine. Samira pourrait l’utiliser pour les démonstrations avec des enfants et serait heureuse de le recevoir. Dans l’après-midi, Nathalie lui remet le tampon à la médiathèque et précise qu’il s’agit d’un don. En rentrant, elle ouvre quand même le tiroir du buffet et sent le manque. Elle y voit le taquet. Elle appelle Lucette pour lui demander si, dans son souvenir, elles avaient vendu le dernier exemplaire avant ou après cinq heures.",
+      "mirror": [
+        "Lorsque Nathalie montre les encoches, Agnès peut s’intéresser à ce geste. « Raconte-moi comment Lucette l’a fabriqué. Je t’écoute, et c’est toi qui me diras si tu veux autre chose. » Elle peut entendre un choix de garder sans reprendre la question du tampon. Si sa tante demande un transport, elles peuvent préciser l’objet, la destination et le moment. Agnès peut aussi décliner et laisser Nathalie convenir d’une remise avec Samira."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oxford-nhs-accumulation",
+        "steketee-tcc-accumulation"
+      ],
+      "continuity": {
+        "choice": "Nathalie garde le taquet de Lucette et donne le tampon à Samira pour un usage convenu. Le regret persiste et elle reprend contact avec Lucette.",
+        "next": "Les décisions sur le buffet sont terminées pour le moment. Nathalie veut proposer à Agnès une heure de travail à la table quand son usage aura été vérifié."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "nathalie-courrier-retour-encombrement",
+      "title": "Quand le courrier reprend la place libérée",
+      "description": "Une invitation et plusieurs enveloppes ont gagné le coin où Nathalie s’était remise à lire. Elle veut comprendre comment elles sont arrivées là.",
+      "context": "Quelques semaines plus tard, chez Nathalie, avant le premier rendez-vous de travail à la table",
+      "topics": [
+        "Accumulation au fil des arrivées",
+        "Retour d’une difficulté",
+        "Ajustement du suivi"
+      ],
+      "clinical_focus": "Amasser au fil du courrier ordinaire",
+      "clinical_intro": "Nathalie avait retrouvé assez de place pour lire à table. En quelques jours, des papiers se sont accumulés là où elle posait son livre. L’amassement peut avancer au fil d’objets reçus sans qu’on les ait cherchés. Revenir sur ce qui se répète aide l’équipe et Nathalie à ajuster leur accord sans effacer les changements déjà obtenus.",
+      "opening": "Sur l’enveloppe du dessous, une goutte de café a séché en forme de virgule. Nathalie se souvient de l’avoir posée là à son retour du marché. Elle avait déposé les autres courriers avec elle pour y revenir après le café. Depuis, il y a eu deux passages du facteur et une invitation à la lecture d’un éditeur qu’elle connaissait bien. Un prospectus s’est glissé parmi les papiers. Maintenant, elle doit soulever le tout pour retrouver le passage du roman qu’elle voulait lire avant de déjeuner.\n\nDepuis le don du tampon, Nora et sa collègue sont revenues. Avec Nathalie, elles ont rendu disponibles les deux places côté fenêtre. Le premier soir, elle s’est assise et a lu longtemps à la lumière de la lampe. Elle avait envoyé à Agnès un message pour lui proposer de venir mardi, avec la médiathèque comme autre possibilité. En voyant les nouvelles enveloppes, elle se demande si elle a parlé trop tôt. Le trajet jusqu’à la porte reste libre. C’est la table qui lui échappe de nouveau, à partir d’affaires entrées une par une.\n\nNathalie retourne la pile. Elle reconnaît une lettre à laquelle elle doit répondre et une invitation qu’elle aurait voulu relire pour le nom de l’auteur. Elle se souvient aussi qu’elle a gardé toute une série de programmes avec l’intention de reprendre les noms plus tard. Le moment est rarement venu. Le téléphone affiche un rappel de Maud. Pour la première fois depuis que les papiers ont gagné la table, Nathalie sait quelle scène elle veut raconter au rendez-vous.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "L’arrivée d’objets qu’on n’est pas allé chercher",
+          "text": "L’amassement peut se faire au fil d’objets reçus, même quand on n’a rien acheté ni cherché à rapporter. Dans le trouble d’accumulation compulsive, le besoin de garder et la difficulté à se séparer peuvent prolonger le séjour de papiers entrés pour des raisons ordinaires. Retrouver un usage, puis le perdre de nouveau, peut aider à comprendre dans quelles conditions il reste possible. Ces observations peuvent guider le suivi. Une table redevenue encombrée n’indique pas à elle seule ce qui se passe ailleurs dans le logement ou comment la personne réagit à l’ensemble du soin."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Des décisions remises à un moment plus calme",
+          "text": "Nathalie n’a pas ramené de sac de livres cette semaine. Elle a posé plusieurs fois le courrier à l’endroit qui venait d’être dégagé. En retrouvant la lettre à laquelle elle doit répondre, elle voit que les papiers n’ont pas tous le même rôle. Pour le prospectus comme pour le programme, elle a peur de perdre un renseignement qu’elle pourrait chercher un jour. Agnès n’a encore vu que le message pour mardi. Nathalie ressent la tentation de faire disparaître la pile avant son arrivée, alors que le passage est resté libre et que le travail sur la table peut être revu."
+        },
+        {
+          "role": "strategies",
+          "heading": "Adapter l’accord au moment où la difficulté revient",
+          "text": "Nathalie peut apporter à Maud le récit de plusieurs arrivées et de la place qu’elles ont prise. Avec l’équipe, elle peut examiner où traiter le courrier dont elle a besoin et ce qui rend les autres décisions difficiles. L’objectif peut rester une table utilisable plutôt qu’une série d’objets à retirer pour mardi. Elle peut proposer à Agnès de confirmer le lieu le matin du rendez-vous. Si l’accès à la porte se réduit, ce changement demande un avis à part, rapidement. Déplacer les papiers vers le passage compromettrait l’accord qui tient encore."
+        }
+      ],
+      "ending_title": "L’enveloppe à laquelle elle doit répondre",
+      "ending": "Nathalie sort la lettre qu’elle doit traiter et écrit la date à laquelle elle souhaite répondre. Elle laisse les autres papiers là le temps de la consultation. Avec Maud, elle décide de réserver sur le buffet la chemise du courrier en cours et de reprendre avec Nora ce qui a rendu la table disponible la première fois. La veille de la visite d’Agnès, Nora et Nathalie réexaminent la circulation et les deux places assises. Nathalie consent à remettre les programmes et les dossiers qu’elle souhaite revoir dans leur rangement. Elle écrit à Agnès que la table peut servir et qu’elles gardent l’autre possibilité si quelque chose change.",
+      "mirror": [
+        "« Dis-moi mardi si tu veux qu’on se retrouve chez toi ou à la médiathèque. Je viens avec deux légendes à finir. » Agnès peut s’en tenir à cette décision sur leur lieu de travail. Elle n’a pas besoin de demander une photo ou de venir vérifier la table. Si elle ne peut pas changer de lieu au dernier moment, elle peut le dire et choisir avec Nathalie un autre créneau."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oxford-nhs-accumulation",
+        "cambridge-coordination-accumulation"
+      ],
+      "continuity": {
+        "choice": "Nathalie rapporte le retour des papiers à Maud, convient d’un endroit pour le courrier en cours et réexamine les deux places avec Nora.",
+        "next": "La table est disponible pour mardi. Agnès et Nathalie gardent la médiathèque comme possibilité et la visite reste consacrée au travail d’Agnès."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "nathalie-visite-place-proche-accueil",
+      "title": "Recevoir un proche en gardant un accord qui lui convient aussi",
+      "description": "Agnès s’installe près de la fenêtre pour travailler. Nathalie veut retrouver une visite où chacune peut faire ce qu’elle était venue faire.",
+      "context": "Le mardi suivant, à la table du séjour, pour le premier temps de travail d’Agnès",
+      "topics": [
+        "Rôle du proche",
+        "Usage retrouvé de la table",
+        "Limites de disponibilité"
+      ],
+      "clinical_focus": "Place du proche dans un usage retrouvé",
+      "clinical_intro": "Agnès vient écrire deux légendes et Nathalie a prévu de lire près d’elle. Le trouble d’accumulation compulsive peut rendre les visites difficiles ou leur donner peu à peu la forme d’une séance de tri. Un accord précis permet ici de retrouver un moment partagé et de laisser les questions de soin à l’équipe qui suit Nathalie.",
+      "opening": "Agnès pose son ordinateur à l’endroit où Nathalie avait retrouvé les enveloppes. Elle regarde autour d’elle pour savoir où mettre son sac. Nathalie lui montre la place au pied du fauteuil, à l’écart du trajet vers l’entrée. Agnès s’assoit, recule la chaise et met ses écouteurs. Elle est venue avec deux sons à légender, les coups de la grille du cordonnier et un signal qui pourrait être une sonnette de vélo. Elle a une heure avant son atelier. Nathalie pose son roman sur le côté où tombe la lumière, puis apporte le café.\n\nAvant de s’asseoir, Nathalie remarque un programme qui dépasse d’un dossier du buffet. Elle pense qu’Agnès pourrait lui dire tout de suite si elle se souvient du nom qui manque. Elles trouveraient peut-être d’autres décisions à régler avec les papiers voisins. Elle a déjà pris le programme du bout des doigts quand sa nièce enlève un écouteur et lui demande en quelle année la fille du cordonnier a repris l’atelier. Nathalie le sait à un été près. Elle laisse le papier où il est et va écouter le son avec elle.\n\nAgnès dit qu’elle aimerait ensuite terminer la seconde légende seule. Nathalie avait préparé plusieurs choses à lui faire entendre depuis le mardi où elles étaient parties vers la médiathèque. Elle choisit la lecture de l’anguille et lui demande si elles peuvent s’en repasser un bout à la fin. Agnès regarde l’heure. Elles ont le temps. Elle veut d’abord trancher sur la sonnette.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "La visite comme activité choisie à deux",
+          "text": "L’accumulation peut modifier ce qu’un proche et la personne font lorsqu’ils se retrouvent. Certaines visites deviennent difficiles à organiser, d’autres se concentrent sur les affaires ou les inquiétudes du logement. Retrouver un usage précis, comme s’asseoir à deux à une table, peut rendre de nouveau possible un moment désiré. La personne et le proche peuvent convenir du but de cette visite, de ce qu’ils veulent faire ensemble et de leur disponibilité. Le soutien lié au logement et le travail clinique peuvent suivre leur propre calendrier. Cela laisse une place à la relation que Nathalie et Agnès souhaitent entretenir."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Une chaise qui recule et un dossier qui reste au buffet",
+          "text": "Agnès peut poser son ordinateur et déplacer sa chaise. Le chemin vers la porte reste libre. Ce sont des faits que les deux femmes peuvent constater sans examiner le reste du séjour. Nathalie voit encore le programme au bord du dossier et pense à demander de l’aide pour le contenu. Elle a déjà ce sujet à reprendre avec l’équipe. De son côté, Agnès enlève un écouteur pour une question précise, puis demande du temps pour travailler. Chacune dispose de la table et elles peuvent s’accorder sur un moment pour se parler. La visite prend la forme qu’elles avaient imaginée."
+        },
+        {
+          "role": "strategies",
+          "heading": "Protéger la durée et la raison du rendez-vous",
+          "text": "Nathalie et Agnès peuvent distinguer une heure de lecture et de travail d’une éventuelle demande matérielle. Si un appui de sa nièce est souhaité plus tard, elles pourront le discuter à part et voir si Agnès en a la possibilité. Le retour d’une difficulté d’accès relève du plan convenu avec Nora, et elles peuvent reprendre un rendez-vous ailleurs si l’usage du séjour change. Une question qui ne peut être réglée ce jour-là peut rester pour le suivi. Agnès conserve le droit de partir à l’heure dont elle a besoin."
+        }
+      ],
+      "ending_title": "La sonnette qu’on entend après le bus",
+      "ending": "Nathalie lit quatre pages avant qu’Agnès ne lui tende un écouteur. Elles se mettent d’accord sur « sonnette de vélo », puis sur l’endroit de la rue d’où le son pourrait venir. Agnès enregistre les deux légendes. Elles écoutent ensuite la fin de la lecture, jusqu’à la pause avant « dehors ». Agnès referme l’ordinateur à l’heure convenue. Le programme dépasse toujours du dossier. Nathalie lui demande si elle voudrait revenir écouter la carte terminée, la semaine suivante. Agnès propose de lui confirmer quand l’atelier aura mis le son en ligne. Nathalie la raccompagne jusqu’à la porte et revient poser son roman sur la table, ouvert à la page où elle s’est arrêtée.",
+      "mirror": [
+        "« Je te fais écouter la sonnette dans dix minutes. Jusque-là, j’aimerais avancer avec mes écouteurs. » Agnès peut le dire quand elle a besoin de finir sa légende seule. Elle peut tenir l’heure annoncée et proposer une autre visite si elle le souhaite. Le fait que la table serve de nouveau ne fait pas d’elle la personne chargée de vérifier son usage ou le reste de l’appartement."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oxford-nhs-accumulation",
+        "cambridge-coordination-accumulation"
+      ],
+      "continuity": {
+        "choice": "Agnès termine ses légendes, Nathalie lit et toutes deux respectent l’heure prévue. Le dossier attend un rendez-vous distinct.",
+        "next": "Agnès viendra écouter un extrait de la carte terminée. Nathalie fera le point avec Maud et Nora sur les usages retrouvés et les décisions qui restent coûteuses."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "nathalie-bilan-usage-et-suivi",
+      "title": "Faire le point quand une pièce redevient utilisable",
+      "description": "La table sert enfin à écouter la carte d’Agnès. Nathalie peut dire ce qu’elle veut maintenir et sur quoi elle souhaite encore être accompagnée.",
+      "context": "La semaine suivante, chez Nathalie, après un point avec l’équipe",
+      "topics": [
+        "Bilan fonctionnel",
+        "Suivi à poursuivre",
+        "Projet personnel"
+      ],
+      "clinical_focus": "Progrès d’usage et difficultés encore présentes",
+      "clinical_intro": "Agnès et Nathalie écoutent la carte terminée à la table où elles n’avaient d’abord pas pu s’asseoir. Dans le trouble d’accumulation compulsive, retrouver un usage du logement constitue un changement concret. Nathalie s’appuie sur cette expérience pour dire à l’équipe ce qu’elle veut maintenir et ce qui lui coûte toujours, notamment certaines décisions de séparation.",
+      "opening": "Les trois coups de grille arrivent dans l’ordre, juste avant le bus. Agnès met sur pause et ouvre la légende sous l’enregistrement. Elle a gardé le nom du cordonnier et ajouté l’année où sa fille a repris l’atelier, après vérification auprès d’elle. Nathalie lui demande de jouer la rue jusqu’au bout. Elle ne s’attendait pas à retrouver le bruit du chevalet de la librairie de la place, quand on le pose sur les pavés. Elle voudrait savoir si la jeune femme qui la tient lit toujours des romans à voix haute après la fermeture.\n\nLa veille, au rendez-vous avec Maud et Nora, Nathalie avait raconté la première heure de travail d’Agnès. Nora lui a demandé à quoi elle verrait que la table continue de lui servir quand personne ne vient. Nathalie a pensé au roman qu’elle lit ici depuis plusieurs soirs. Elle a aussi expliqué que la pochette violette lui demande toujours autant de temps et qu’elle ouvre le tiroir en cherchant le tampon certains matins. Elle a proposé de reprendre une de ces décisions avec Maud, au lieu de passer tout de suite à une autre pièce.\n\nAgnès ferme la carte sonore et prend le temps de regarder la lumière sur la table. Sur le téléphone de Nathalie, un message de Samira annonce une deuxième série de lectures. Elle demande si Nathalie pense à une autre histoire du quartier. Nathalie sait déjà laquelle elle voudrait essayer. Elle demande à Agnès si la sonnette lui rappelle, à elle aussi, les départs de la camionnette du marchand de journaux.",
+      "sections": [
+        {
+          "role": "explanation",
+          "heading": "Regarder ce qui dure et ce qui demande encore de l’aide",
+          "text": "Dans le suivi du trouble d’accumulation compulsive, les changements peuvent s’observer dans les usages du logement, les décisions de séparation et les arrivées d’objets. Ils peuvent avancer à des rythmes différents. Une table utilisable ou une visite réalisée donne un exemple concret de ce qui a changé. La persistance d’une grande difficulté devant certains objets reste utile à décrire. Les études sur les soins psychologiques montrent des réponses variables. Un bilan aide à ajuster les objectifs et à réfléchir à ce qui permettra de conserver les usages retrouvés. Il n’exige pas que toutes les pièces soient transformées pour reconnaître une évolution."
+        },
+        {
+          "role": "manifestations",
+          "heading": "Le retour d’une habitude, avec des questions ouvertes",
+          "text": "Nathalie s’installe pour écouter la carte et retrouve sa place le soir pour lire. Sa nièce peut venir pour son propre projet. Le passage vers la porte n’a pas retrouvé les obstacles qui le rétrécissaient au départ de l’histoire. Certaines affaires restent dans le buffet ou dans des dossiers. Nathalie se souvient de la cliente à l’écriture violette et ne sait toujours pas ce qu’elle souhaite faire de ses papiers. Le choix de donner le tampon n’a pas rendu celui-là plus facile. Elle a de quoi décrire des progrès et un effort persistant, chacun avec son exemple."
+        },
+        {
+          "role": "strategies",
+          "heading": "Choisir ce qu’on veut maintenir et ce qu’on reprend ensuite",
+          "text": "Nathalie peut convenir avec l’équipe de garder l’accès libre, de réserver l’usage de la table et de préciser quand reprendre la question des papiers. Si la circulation change, elle garde un contact professionnel plutôt que d’en faire la responsabilité d’Agnès. Le suivi peut s’adapter si un accord ne tient plus ou si une décision lui coûte trop. Pour leur prochain rendez-vous, les deux femmes peuvent garder une heure à la maison et la possibilité de se retrouver ailleurs. Nathalie peut répondre à Samira à partir de son envie de lire et de ses disponibilités."
+        }
+      ],
+      "ending_title": "La première phrase du prochain texte",
+      "ending": "Agnès remet le son une fois, puis propose de revenir lire mardi dans quinze jours. Nathalie prend le rendez-vous et garde celui de Maud, fixé entre les deux. Elle ne sort pas la pochette violette pour montrer les affaires qui restent. Après le départ d’Agnès, elle répond à Samira qu’elle aimerait lire un texte sur le marchand de journaux à la prochaine séance. Elle ouvre le carnet sur une page neuve. Dans la rue, un vélo ralentit devant l’immeuble. Nathalie écoute le bruit qu’il fait au démarrage. Elle écrit « On reconnaissait son arrivée avant de savoir de quel côté il venait. »",
+      "mirror": [
+        "« J’ai aimé écrire les légendes ici. Je peux revenir mardi dans quinze jours pour lire à côté de toi. » Après l’écoute, Agnès peut proposer ce rendez-vous en fonction de ses disponibilités. Elle peut accueillir ce que Nathalie souhaite dire de son suivi, sans demander combien d’objets ont quitté la maison. Si l’usage de la table change, elles pourront choisir un autre lieu. Les décisions cliniques et les vérifications de sécurité gardent les relais convenus."
+      ],
+      "sources": [
+        "oms-cddr",
+        "oxford-nhs-accumulation",
+        "steketee-tcc-accumulation",
+        "cambridge-coordination-accumulation"
+      ],
+      "continuity": {
+        "choice": "Nathalie et Agnès utilisent le coin de lecture, fixent un prochain moment ensemble et gardent le soin à part. Nathalie propose une nouvelle lecture à Samira.",
+        "next": "Le projet de coin de lecture est réalisé. Nathalie poursuit son suivi, le maintien de l’accès et les décisions qu’elle souhaite reprendre, tout en préparant un nouveau texte."
+      }
+    }
+  ]
+}

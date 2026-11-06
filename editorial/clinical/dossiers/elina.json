@@ -1,0 +1,58 @@
+{
+  "references": {
+    "oms-stress-reperes": {
+      "title": "Organisation mondiale de la Santé, Stress : questions et réponses",
+      "url": "https://www.who.int/fr/news-room/questions-and-answers/item/stress"
+    },
+    "oms-faire-ce-qui-compte": {
+      "title": "Organisation mondiale de la Santé, Faire ce qui compte en période de stress : un guide illustré (2020)",
+      "url": "https://www.who.int/docs/default-source/mental-health/sh-2020-fre-5-web.pdf"
+    },
+    "has-parler-avec-son-medecin": {
+      "title": "Haute Autorité de santé, Parler avec son médecin",
+      "url": "https://www.has-sante.fr/jcms/c_1695997/fr/parler-avec-son-medecin"
+    },
+    "has-decision-medicale-partagee": {
+      "title": "Haute Autorité de santé, Patient et professionnels de santé : décider ensemble",
+      "url": "https://www.has-sante.fr/jcms/c_1671523/fr/patient-et-professionnels-de-sante-decider-ensemble"
+    },
+    "ameli-sante-mentale-adulte-aide": {
+      "title": "Assurance Maladie, Santé mentale de l’adulte : comment être aidé et à qui s’adresser ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/sante-mentale-de-l-adulte/sante-mentale-de-l-adulte-comment-etre-aide"
+    },
+    "keeley-etude-terrain-cim": {
+      "title": "Keeley et al., Disorders specifically associated with stress: A case-controlled field study for ICD-11 mental and behavioural disorders (2016)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6225017/"
+    },
+    "lorenz-adaptation-perte-emploi": {
+      "title": "Lorenz, Maercker et Bachem, The 12-Month Course of ICD-11 Adjustment Disorder in the Context of Involuntary Job Loss (2020)",
+      "url": "https://cpe.psychopen.eu/index.php/cpe/article/download/3027/3027.html?inline=1"
+    }
+  },
+  "dossier": {
+    "name": "Trouble de l’adaptation",
+    "aliases": [
+      "Trouble de l’adaptation au stress",
+      "6B43"
+    ],
+    "references": [
+      "oms-cddr",
+      "oms-stress-reperes",
+      "oms-faire-ce-qui-compte",
+      "has-parler-avec-son-medecin",
+      "has-decision-medicale-partagee",
+      "ameli-sante-mentale-adulte-aide",
+      "keeley-etude-terrain-cim",
+      "lorenz-adaptation-perte-emploi"
+    ],
+    "points": [
+      "Le CDDR de l’OMS, section 6B43, pages imprimées 352 à 354, distingue un trouble de l’adaptation d’une réaction éprouvante attendue à un changement. Le contexte peut réunir plusieurs facteurs psychosociaux identifiables. Le caractère voulu ou apparemment banal d’un changement ne renseigne pas à lui seul sur la réaction ni sur son retentissement. La fiche OMS sur le stress décrit la diversité des réactions et l’utilité d’un avis professionnel quand les difficultés persistent ou gênent le quotidien. L’étude de terrain de Keeley et al. utilise des vignettes pour examiner le rôle du contexte et du retentissement avec une version préparatoire des exigences. Le CDDR final fait référence pour le diagnostic.",
+      "Dans le 6B43, la préoccupation envahissante a pour objet le changement ou ses conséquences. Elle peut prendre la forme de pensées pénibles qui reviennent, de soucis ou de ruminations. Un rappel peut les raviver et donner envie de l’éviter. Des difficultés à trouver de nouveaux appuis et à tenir les activités habituelles ont un retentissement concret. Certaines tâches restent possibles au prix d’un effort supplémentaire important. Ni une difficulté de sommeil, ni un report de tâche, ni un motif de contrariété pris isolément ne justifie le diagnostic.",
+      "L’entretien situe les difficultés par rapport aux événements, à l’histoire de la personne, à son contexte actuel et à ses habitudes précédentes. Le médecin évalue si un autre trouble rend mieux compte du tableau, notamment un trouble de l’humeur ou un trouble anxieux, et examine d’autres pistes selon la situation. Un événement stressant peut aussi déclencher ou aggraver un autre trouble. Un diagnostic peut être réexaminé si l’évolution l’indique. La HAS encourage à parler de faits inhabituels, à expliquer ses besoins et à poser des questions. L’Assurance Maladie situe le généraliste et les professionnels de santé mentale comme interlocuteurs possibles.",
+      "L’intensité et le cours varient. Il faut distinguer le changement initial des difficultés concrètes qui se prolongent et des nouveaux événements. L’étude observationnelle de Lorenz, Maercker et Bachem décrit des trajectoires diverses et une association entre nouveaux événements et symptômes ultérieurs. Elle porte sur un petit échantillon sélectionné après perte involontaire d’emploi, avant le CDDR final. Elle ne fournit ni causalité, ni estimation applicable au départ choisi d’Élina, ni calendrier individuel de guérison. L’article ne transpose aucun délai diagnostique en seuil d’autoévaluation ou en prédiction.",
+      "Le guide OMS général sur le stress décrit le repérage des pensées qui captent l’attention, le retour à ce que l’on fait et de petites actions liées à ce qui compte pour la personne. La fiche sur le stress décrit les routines et les liens de confiance comme des appuis possibles. Les accords de rédaction et les temps de présence d’Élina soutiennent des activités choisies. Les décisions de soin relèvent de la consultation. Les deux sources HAS fondent la préparation et la discussion des soins avec la personne. Le médecin et Élina font le point sur les options d’accompagnement. Le récit n’attribue pas de supériorité à un protocole ni ne prescrit une prise en charge universelle.",
+      "La HAS distingue l’échange d’informations, l’expression des préférences et la délibération sur les soins. Dans le récit, le cabinet ne communique pas avec l’association. Lucien, Mireille et Farida n’ont pas besoin de connaître le diagnostic pour offrir des appuis consentis ou définir leurs propres disponibilités. Les informations communiquées pour organiser le journal se limitent à la situation, à la charge de travail ou à la présence qu’Élina choisit d’annoncer."
+    ]
+  },
+  "direction": "À 48 ans, Élina a quitté de son choix un poste dans un bureau d’édition et déménagé peu après dans une ville où elle connaît à peine Lucien, son voisin. Elle remarque les mots d’usage et les objets qu’on garde longtemps. Elle a envie de redevenir quelqu’un à qui l’on raconte des histoires, et de remettre en circulation Les Nouvelles de la Halle comme rédactrice bénévole. Mireille, de l’association, organise les horaires et la diffusion. Farida, qui vend des herbes, lui confie l’histoire de son pot bleu. Jo prend en charge le tirage. Lucien peut marcher avec elle, sans veiller sur ses allées et venues. Sa généraliste, la docteure Roussel, évalue la situation à l’épisode 3. La voix d’Élina est attentive aux mots précis. Elle repère plus vite le travail d’une page que le sien. Le récit distingue le manque de personnes familières, les préoccupations qui reviennent autour du départ et ses conséquences sur les journées, puis les décisions qu’Élina prend dans sa vie et en consultation. Les repères cliniques ne transforment ni un déménagement en traumatisme par défaut, ni le bénévolat en soin. Un changement réel de lieu oblige l’équipe à reprendre sa décision, pendant qu’Élina fait le point avec sa médecin. La remise en circulation se fait avec un feuillet de quarante exemplaires et une équipe aux rôles distincts. Elle peut être fière de ce premier numéro et poursuivre son accompagnement."
+}
