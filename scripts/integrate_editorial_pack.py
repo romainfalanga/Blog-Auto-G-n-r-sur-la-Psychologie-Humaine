@@ -34,13 +34,14 @@ def history_row(row):
         **({'editorial_pack':'psychology-v10','episode':row['episode']} if 'episode' in row else {}),
     }.items()}
 
-def public_page(character,rows,weight):
+def public_page(character,rows,weight,*,published_on='2026-11-04T08:00:00+00:00',profile_fields=None):
     import yaml
-    meta={'title':character['prenom'],'date':'2026-11-04T08:00:00+00:00',
+    meta={'title':character['prenom'],'date':published_on,
           'description':character['description_dynamique'],'slug':character['id'],
           'prenom':character['prenom'],'date_naissance':character['date_naissance'],
           'profession':character['profession'],'situation':character['situation_familiale'],
           'nb_articles':len(rows),'weight':weight,'draft':False}
+    meta.update(profile_fields or {})
     esc=lambda value:html.escape(str(value),quote=True)
     prefix='Parcours d’' if character['prenom'][0].lower() in 'aeiouyàâéèêëîïôùûü' else 'Parcours de '
     parts=['---',yaml.safe_dump(meta,allow_unicode=True,sort_keys=False).rstrip(),'---','',
@@ -123,7 +124,7 @@ def expected_outputs(manifest):
     outputs[ROOT/'data/character_presentations.json']=dump(presentations)
     index_path=ROOT/'content/personnages/_index.md'
     index_meta,index_body=read_article(index_path)
-    index_meta['description']='Explorez les histoires des 33 personnages de Décode ton esprit.'
+    index_meta['description']='Explorez les histoires et les parcours de Décode ton esprit.'
     import yaml
     outputs[index_path]='---\n'+yaml.safe_dump(index_meta,allow_unicode=True,sort_keys=False)+'---\n'+('\n'+index_body+'\n' if index_body else '')
     return outputs

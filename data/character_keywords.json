@@ -394,5 +394,111 @@
       "Optimisme réaliste"
     ],
     "source": "traits_personnalite et tendances_psychologiques du registre des personnages fictifs"
+  },
+  "antonin": {
+    "id": "antonin",
+    "name": "Antonin",
+    "keywords": [
+      "Trouble anxieux généralisé",
+      "Retentissement",
+      "Incertitude"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "clémence": {
+    "id": "clemence",
+    "name": "Clémence",
+    "keywords": [
+      "Anorexie mentale",
+      "Confidentialité",
+      "Programmation partagée"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "émilien": {
+    "id": "emilien",
+    "name": "Émilien",
+    "keywords": [
+      "Trouble bipolaire de type I",
+      "Confidentialité"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "gabin": {
+    "id": "gabin",
+    "name": "Gabin",
+    "keywords": [
+      "Trouble lié aux jeux d’argent",
+      "Plan de soutien"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "garance": {
+    "id": "garance",
+    "name": "Garance",
+    "keywords": [
+      "Trouble bipolaire de type II"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "inaya": {
+    "id": "inaya",
+    "name": "Inaya",
+    "keywords": [
+      "Trouble dépressif récurrent",
+      "Suivi professionnel",
+      "Soutien familial",
+      "Soutien des proches"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "jules": {
+    "id": "jules",
+    "name": "Jules",
+    "keywords": [
+      "Trouble panique",
+      "Autonomie"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "mathis": {
+    "id": "mathis",
+    "name": "Mathis",
+    "keywords": [
+      "TDAH chez l’adulte"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "mina": {
+    "id": "mina",
+    "name": "Mina",
+    "keywords": [
+      "Trouble de la personnalité avec profil borderline"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "noémie": {
+    "id": "noemie",
+    "name": "Noémie",
+    "keywords": [
+      "Trouble obsessionnel-compulsif"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "nour": {
+    "id": "nour",
+    "name": "Nour",
+    "keywords": [
+      "Autisme"
+    ],
+    "source": "repères des parcours cliniques de fiction"
+  },
+  "selma": {
+    "id": "selma",
+    "name": "Selma",
+    "keywords": [
+      "Trouble de stress post-traumatique"
+    ],
+    "source": "repères des parcours cliniques de fiction"
   }
 }

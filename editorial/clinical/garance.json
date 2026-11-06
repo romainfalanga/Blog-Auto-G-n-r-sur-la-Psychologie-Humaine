@@ -1,0 +1,438 @@
+{
+  "character_id": "garance",
+  "bio": "Garance, 32 ans, est correctrice indépendante et joue de l’alto dans un ensemble de cordes amateur. Elle vit avec un trouble bipolaire de type II déjà diagnostiqué. Elle prépare un concert de quartier avec Éva, son amie violoniste, et cherche un calendrier compatible avec son travail, ses répétitions et son suivi.",
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "garance-joie-repetition-humeur",
+      "title": "Garance demande à rejouer les quatre mesures",
+      "description": "La valse prend enfin le bon rythme. Garance aimerait rejouer le passage et décider plus tard si elle peut préparer le programme du concert.",
+      "context": "À la première répétition pour le concert de quartier, dans la salle des Forges",
+      "topics": [
+        "Enthousiasme ordinaire",
+        "Trouble bipolaire de type II",
+        "Engagement dans un projet"
+      ],
+      "opening": "Garance lève l’archet une demi-seconde trop tôt. À la reprise, elle entend Éva jouer les deux notes qui lui servent de repère et retrouve son entrée. Les altos rejoignent les violons sans que Lise, qui dirige l’ensemble, ait besoin de les arrêter. Garance sent le sourire lui tirer la joue contre la mentonnière. Depuis le début de la soirée, elle attendait d’entendre les quatre mesures tenir ensemble.\n\nLise annonce qu’elles vont devoir fixer le programme du concert de quartier. Il manque une courte présentation pour chaque morceau. Garance sait reprendre un texte déjà écrit. Elle corrige des livres et des catalogues à son compte. Elle a même une idée de ce qu’on pourrait expliquer sur la valse. Éva lui tend un crayon pour noter la mesure qui vient de passer. Garance écrit le chiffre sur la portée avant de répondre à Lise.\n\nSur le chemin de la sortie, Éva lui demande si elle est aussi contente qu’elle en a l’air. Garance dit que oui. Elle s’est couchée à son heure habituelle la veille et se rappelle le mal qu’elle a eu à sortir du lit ce matin. À présent, elle voudrait recommencer les quatre mesures parce qu’elle a aimé les jouer. Elle demande à Lise jusqu’à quand elles peuvent répondre pour les textes. Elle relira d’abord son calendrier de travail à la maison.",
+      "sections": [
+        {
+          "heading": "La joie d’une répétition a son contexte",
+          "text": "Une joie vive ou une soirée productive peut faire partie du cours ordinaire de l’humeur. Garance est heureuse d’avoir retrouvé son entrée après plusieurs essais. Ce plaisir s’inscrit dans la répétition et dans une relation avec les autres musiciennes. Elle peut en profiter. Si un changement lui semble durer et toucher plusieurs domaines de sa vie, elle dispose d’un cadre de suivi pour en parler.\n\nGarance vit avec un trouble bipolaire de type II déjà diagnostiqué. Dans la CIM-11, il correspond à une histoire où des épisodes hypomaniaques et dépressifs ont été établis, sans antécédent d’épisode maniaque ni mixte. Dans le type I, le parcours comporte au moins un épisode maniaque ou mixte selon cette classification. Le type II peut entraîner des difficultés importantes, notamment pendant les épisodes dépressifs. Le nom du trouble vient d’une évaluation de l’évolution de l’humeur, de l’énergie et du fonctionnement. Il ne donne pas le sens de chaque sourire."
+        },
+        {
+          "heading": "Garder la question du programme pour plus tard",
+          "text": "Avant de prendre un texte, Garance veut vérifier l’échéance du catalogue qu’elle corrige déjà. Elle peut choisir de relire une présentation écrite par quelqu’un d’autre, de s’occuper d’un morceau ou de garder seulement sa partie d’alto. Le délai donné par Lise permet de répondre sur les engagements réels. Garance pourra aussi lui dire de prévoir une autre personne si elle ne peut pas s’en charger.\n\nÉva connaît les repères que Garance a décidé de lui communiquer avec l’accord discuté en suivi. Ils servent si des changements préoccupants apparaissent. Entre deux répétitions, Éva reste une amie avec laquelle Garance peut parler du tempo, d’une bonne soirée ou d’un travail à rendre. Le NICE recommande une participation de l’entourage discutée avec la personne. Le rôle qu’elles ont prévu pour les périodes difficiles n’a pas à prendre toute la place dans leur relation."
+        }
+      ],
+      "ending_title": "Le chiffre au-dessus de la portée",
+      "ending": "À la maison, Garance ouvre la partition avant son calendrier. Elle a noté le numéro un peu trop près des notes. Elle le réécrit au-dessus de la portée, où elle le retrouvera au prochain essai. Dans sa boîte professionnelle, le client du catalogue a confirmé la date de livraison. Garance ferme le message après avoir inscrit l’échéance. Elle décide de répondre à Lise le lendemain. Elle envoie à Éva un mot sur le plaisir qu’elle a eu à entendre les quatre mesures tenir ensemble. Éva lui répond qu’elle a cru entendre Garance sourire avant leur dernière entrée.",
+      "mirror": [
+        "Après la valse, Éva peut demander « Tu veux qu’on rejoue ce passage avant de ranger ? » Elle peut laisser Garance lui raconter ce qui lui plaît et attendre que Lise donne le délai du programme. Si Garance souhaite examiner son calendrier, Éva peut lui rappeler l’heure à laquelle le groupe a besoin d’une réponse. Elle peut partager cette bonne soirée avec son amie sans interpréter son sourire ou lui demander de justifier son énergie."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-bipolaire"
+      ],
+      "continuity": {
+        "choice": "Garance garde la satisfaction de la répétition et reporte sa réponse sur le programme jusqu’à la lecture de son calendrier.",
+        "next": "Elle revient sur la charge réelle entre le catalogue, les répétitions et les repères du suivi."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "garance-calendrier-plan-soutien",
+      "title": "La pochette bleue ne part pas avec les partitions",
+      "description": "Garance mesure le temps que prend son catalogue et revoit avec Éva ce qu’elle souhaite lui demander si un changement se prolonge.",
+      "context": "Chez Garance, entre une échéance professionnelle et la préparation du concert",
+      "topics": [
+        "Plan de soutien partagé",
+        "Calendrier de travail",
+        "Limites de l’amie"
+      ],
+      "opening": "Le lendemain de la répétition, Garance pose son calendrier à côté du catalogue. La livraison et la répétition tombent sur deux soirs qui se suivent. Une nouvelle version du texte doit arriver entre les deux. Elle avait mis un trait sous la date de rendu, en oubliant que quelqu’un doit encore relire les corrections avant qu’elle ferme le dossier. Elle rapproche les deux feuilles et mesure l’espace qu’il lui reste pour un texte de concert.\n\nÉva passe reprendre une partition qu’elle a laissée dans le sac de Garance. Elle a aussi un service à lui demander. La semaine prochaine, elle termine tard deux jours et ne pourra pas toujours répondre le soir. Garance sort du tiroir une pochette bleue qui contient la version actuelle de son plan de suivi. Éva connaît déjà les grandes lignes. Garance veut surtout s’assurer qu’elles ont les mêmes coordonnées si elle souhaite joindre le cabinet plus tôt.\n\nGarance lui montre la page des contacts et garde les autres feuilles dans la pochette. Elle préfère qu’Éva lui demande ce qu’elle a remarqué si plusieurs jours lui paraissent inhabituels. Un appel en pleine répétition, en revanche, ne lui serait pas utile. Éva dit qu’elle peut lui parler à la sortie, mais qu’elle n’aura pas toujours le temps de rester longtemps. Garance retourne le calendrier et inscrit le jour où elle doit revoir sa psychologue.",
+      "sections": [
+        {
+          "heading": "Des repères convenus à un moment calme",
+          "text": "Un plan partagé peut préciser ce que la personne veut faire et qui contacter si une inquiétude apparaît. Le NICE recommande de construire ces repères avec la personne suivie et, lorsque c’est approprié, avec les proches qu’elle choisit. Les changements qui retiennent l’attention, les modalités de contact et la réponse en cas de risque sont discutés dans le cadre des soins. Pour Garance, la pochette contient des informations de travail. Elle peut les reprendre au rendez-vous si ses besoins ou les disponibilités d’Éva changent.\n\nGarance partage la manière dont elle souhaite qu’Éva lui parle. Elle peut préciser quels faits lui semblent utiles, comme une succession de nuits très différentes ou des engagements inhabituels. Éva peut lui dire ce qu’elle observe, demander comment Garance se sent et lui rappeler le contact prévu. La lecture clinique revient aux soignants. Si la situation paraît urgente ou présente un danger immédiat, le plan indique de joindre un service d’urgence. Éva peut demander de l’aide sans attendre d’avoir compris quel épisode se dessine."
+        },
+        {
+          "heading": "Séparer les engagements et le soutien",
+          "text": "Le texte du programme dépend du temps qu’il reste autour des corrections et des répétitions. Garance prévoit de dire à Lise qu’elle peut relire une seule notice si elle la reçoit à la date convenue. Une autre personne peut préparer le premier jet. Lise saura à qui transmettre la suite si les épreuves du catalogue arrivent plus tard. Le plan de soin peut rester dans le tiroir pendant cet échange.\n\nGarance souhaite aussi pouvoir écrire à sa psychiatre avant le prochain rendez-vous s’il y a un changement qui l’inquiète. Éva a deux soirées où elle sera difficile à joindre et peut les annoncer. Garance repère le numéro du cabinet et le contact qui figure sur le plan en dehors des horaires habituels. Elle peut examiner ces informations avec sa psychologue et les garder à portée de main. Le soutien d’Éva s’ajoute à ce cadre, avec les limites dont elles ont parlé."
+        }
+      ],
+      "ending_title": "Une seule notice dans le message",
+      "ending": "Garance sort la partition du sac et la donne à Éva. Sur l’écran, elle écrit à Lise qu’elle pourra relire une notice, si le texte est prêt à temps, et qu’elle préfère laisser les autres à l’ensemble. Elle garde le calendrier ouvert jusqu’à ce que l’heure de retour du catalogue soit notée. Éva photographie la page de contacts avec son accord. Garance range le reste dans la pochette bleue. Quand Éva s’en va, elle joue le début de la valse à mi-voix en cherchant un trombone. Elle se rappelle enfin l’endroit où sa partie reprend.",
+      "mirror": [
+        "Éva peut dire « Je peux te parler après la répétition jeudi. Les soirs où je termine tard, appelle le cabinet si c’est ce que prévoit ton plan. » Elle peut garder les coordonnées que Garance lui confie et lui demander quels éléments partager avec les soignants si elle le souhaite. Pour une inquiétude urgente, Éva peut solliciter le relais professionnel prévu. Elle n’a pas à rester disponible toutes les nuits pour tenir sa place d’amie."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-bipolaire"
+      ],
+      "continuity": {
+        "choice": "Garance accepte une seule notice et partage avec Éva uniquement les repères et contacts qu’elle choisit.",
+        "next": "Une succession de journées inhabituelles va lui faire utiliser le contact du cabinet avant le rendez-vous."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "garance-changements-appeler-suivi",
+      "title": "Trois échéances ajoutées depuis lundi",
+      "description": "Garance a accepté plusieurs délais après des nuits bien plus courtes que d’habitude. Elle relit ses engagements et contacte son cabinet.",
+      "context": "À son bureau de correctrice, quelques jours plus tard",
+      "topics": [
+        "Changements par rapport aux habitudes",
+        "Sommeil et activité",
+        "Contact professionnel anticipé"
+      ],
+      "opening": "Garance a ajouté trois échéances depuis lundi. En plus du catalogue déjà prévu, il y a une série de notices, les textes d’un client qui n’avait demandé qu’un devis et un sommaire à vérifier pour une autre personne. Chaque demande lui paraissait facile quand elle y répondait. Ce matin, une des fenêtres ouvertes sur l’écran contient encore une page blanche. Elle a passé le début de la nuit à déplacer les titres et à écrire à Lise sur des morceaux qu’elles n’avaient pas prévu de jouer.\n\nLe matin lui paraît tout de même trop court. Depuis plusieurs nuits, elle dort sensiblement moins et se lève sans éprouver la fatigue qu’elle ressent d’habitude quand elle a manqué de sommeil. À la répétition de la veille, elle a parlé longtemps du concert au moment où les autres repliaient les pupitres. Éva lui a demandé si elles pouvaient se parler quelques minutes après avoir rangé. Garance a répondu qu’elle avait déjà prévu de rentrer finir la première notice.\n\nMaintenant, Éva lui écrit qu’elle a reçu plusieurs messages avant l’aube et lui demande si elle veut en parler. Garance se souvient du plaisir qu’elle avait pris à jouer la valse au début. Ce matin, son envie de corriger déborde sur le travail, les partitions et ce qu’elle propose aux autres. Elle retire du brouillon le nouveau délai qu’elle allait annoncer. Puis elle rouvre la pochette bleue et cherche le contact de la psychiatre.",
+      "sections": [
+        {
+          "heading": "Revenir au changement qui dure",
+          "text": "Un changement qui persiste et se manifeste dans plusieurs activités mérite d’être décrit à un professionnel. Garance a repéré des nuits plus courtes, une activité inhabituelle et des engagements qui s’accumulent. Elle se rappelle aussi des soirées où elle parlait beaucoup après une bonne répétition et retrouvait ensuite son rythme. La comparaison l’aide à dire ce qui lui paraît nouveau dans ces derniers jours.\n\nUne nuit brève ou un devis trop vite accepté ne suffit pas à établir un épisode. Le manque de sommeil peut avoir plusieurs causes. Une évaluation examine notamment l’évolution de l’humeur, de l’énergie, du besoin de sommeil et des comportements par rapport aux habitudes de la personne. Garance peut transmettre des faits même si elle ignore leur sens. Elle dispose d’un plan convenu pour joindre son équipe lorsque plusieurs changements préoccupants se prolongent."
+        },
+        {
+          "heading": "Écrire au cabinet et suspendre un engagement",
+          "text": "Garance peut dire à la personne qui reçoit son appel ce qu’elle a constaté, depuis quand cela dure et pourquoi elle voudrait un rendez-vous plus tôt. Elle lui transmet aussi les questions sur les textes et les décisions qu’elle commence à prendre. Si le cabinet n’est pas joignable, elle utilise le contact convenu pour la suite. En cas de danger immédiat, le recours est celui des services d’urgence.\n\nDans l’intervalle, elle peut prévenir un client qu’elle confirmera la date après avoir revu le travail à faire. Elle peut demander à Lise de garder le programme actuel et revenir sur les morceaux déjà prévus. Éva peut l’écouter et l’aider à retrouver l’heure d’un message, si Garance le souhaite. La prise en charge et toute décision concernant le traitement reviennent à l’équipe de soins. Garance peut expliquer au cabinet ce qui l’aide à attendre le rendez-vous prévu."
+        }
+      ],
+      "ending_title": "Le brouillon reste ouvert",
+      "ending": "Garance téléphone au cabinet. Elle donne des exemples avant de dire le mot qu’elle a hésité à employer. La personne qui répond lui propose un créneau rapproché avec la psychiatre et lui rappelle comment joindre le service si la situation se dégrade avant ce rendez-vous. Garance note ces deux informations près du téléphone. Elle écrit à Lise qu’elle doit revoir ce qu’elle pourra faire sur les notices. Puis elle ouvre le catalogue à la page où elle s’était arrêtée. Dans la marge, elle retrouve un commentaire qu’elle a déjà traité et choisit de le laisser pour l’instant.",
+      "mirror": [
+        "Éva peut s’en tenir à ce qu’elle a vu ou reçu. « Tu m’as écrit avant l’aube plusieurs fois et tu proposais de reprendre tous les textes. Comment ça se passe pour toi depuis lundi ? » Si Garance veut joindre le cabinet, Éva peut proposer de rester quelques minutes au téléphone pendant qu’elle retrouve le contact. Elle peut annoncer quand elle doit raccrocher. Si elle craint un danger immédiat, elle peut solliciter les secours."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-bipolaire"
+      ],
+      "continuity": {
+        "choice": "Garance signale les changements au cabinet, obtient un rendez-vous rapproché et suspend les nouveaux délais.",
+        "next": "La psychiatre reprend avec elle la durée, les conséquences et ce que ces changements permettent d’établir."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "garance-hypomanie-evaluation",
+      "title": "La psychiatre revient sur les jours qui ont changé",
+      "description": "Au cabinet, Garance reprend les derniers jours avec sa psychiatre. Elles examinent l’épisode hypomaniaque et les engagements à revoir.",
+      "context": "Au rendez-vous rapproché avec la psychiatre, après l’appel au cabinet",
+      "topics": [
+        "Épisode hypomaniaque",
+        "Évaluation spécialisée",
+        "Engagements professionnels"
+      ],
+      "opening": "Garance a ouvert son calendrier à la page du mois entier. Elle s’attend à devoir dire combien d’heures elle a dormi, mais sa psychiatre lui demande d’abord ce qui a changé dans une journée ordinaire. Elle raconte la page blanche du catalogue, puis les trois textes qu’elle avait proposé de rendre dans la même semaine. Elle montre sur l’écran où elle a commencé à répondre au milieu de la nuit. Elle s’était sentie très en forme en se levant. Sa psychiatre lui demande comment elle s’est sentie les jours suivants et ce qui lui a semblé facile ou difficile à interrompre.\n\nGarance parle aussi du trajet jusqu’à l’atelier d’une cliente. Elle y est passée sans en avoir convenu pour lui proposer une présentation dont elles n’avaient pas parlé. La cliente a demandé de garder le programme de travail prévu. Garance a pu entendre le refus. Elle s’est néanmoins remise à proposer des titres en rentrant chez elle. Elle s’aperçoit qu’elle raconte l’épisode très vite et attend que sa psychiatre ait fini de noter.\n\nLa spécialiste revient sur l’évolution qu’elle connaît et lui pose d’autres questions sur son état, les conséquences et les autres causes possibles. Elle lui dit que ce qu’elle a examiné correspond à un épisode hypomaniaque. Garance pense aux quatre mesures de la valse. Elle demande si elle pourra continuer à jouer le jeudi. Elle voudrait choisir ce qu’elle peut garder pendant que son emploi du temps est repris.",
+      "sections": [
+        {
+          "heading": "Un épisode s’évalue sur son évolution",
+          "text": "Une évaluation de l’humeur relie les changements dans le temps à ce que la personne vit et fait. Dans le cas de Garance, la psychiatre a repris plusieurs jours de sommeil inhabituel, d’activité accrue et de projets qui se multiplient. Elle a aussi demandé ce que Garance pouvait encore assurer et comment elle réagissait quand quelqu’un lui signalait une difficulté. L’épisode est établi à partir de ce tableau et de l’évaluation, après l’appel qui a permis d’avancer le rendez-vous.\n\nL’OMS distingue l’hypomanie de la manie par plusieurs éléments cliniques, dont le degré de perturbation du fonctionnement. La psychiatre reste attentive à cette différence dans l’histoire de Garance. Elle reprend aussi les risques présents et les circonstances qui pourraient demander une aide plus rapide. Garance peut entendre qu’elle a vécu un épisode hypomaniaque et garder le plaisir très ordinaire qu’elle a éprouvé lors de la première valse."
+        },
+        {
+          "heading": "Revoir les engagements et convenir d’un prochain point",
+          "text": "La psychiatre et Garance parlent de la conduite à tenir et fixent un nouveau point rapproché. Elles reprennent les contacts à utiliser si Garance se sent moins capable de freiner ses décisions ou si la situation s’aggrave. Les questions sur les soins et le traitement restent dans ce cadre. Garance demande ce qu’elle doit signaler d’ici le prochain échange et comment prendre contact en dehors des heures habituelles.\n\nPour le travail, elle choisit de finir le catalogue selon le délai qu’elle peut encore tenir et d’annuler la relecture des notices supplémentaires. Elle prévient les personnes concernées sans leur expliquer sa situation médicale. Pour la répétition, elle veut conserver sa place d’altiste et renoncer aux textes du programme pendant quelque temps. Sa psychologue pourra l’aider à préparer cette demande. La décision de jouer à la prochaine séance dépend aussi de la façon dont elle se sentira et de ce qui est convenu dans son suivi."
+        }
+      ],
+      "ending_title": "Le catalogue reste dans la colonne du milieu",
+      "ending": "Garance s’assoit au café près du cabinet. Elle retire deux lignes de son calendrier et barre un rendez-vous qu’elle avait pris sans vérifier l’heure de répétition. Le catalogue reste dans la colonne du milieu. Elle écrit à sa cliente pour revenir à l’accord initial. Puis elle ouvre la conversation de l’ensemble. Elle préfère expliquer à Lise séparément ce dont elle a besoin. Elle demande si elles peuvent se voir avant la répétition pour parler des notices et du temps qu’elle pourra prendre au pupitre. Elle range le contact du cabinet à part du message.",
+      "mirror": [
+        "Éva peut attendre que Garance lui dise si elle veut parler du rendez-vous. Si elle lui demande de relire le calendrier, Éva peut regarder avec elle deux dates précises et lui laisser les décisions et les messages aux clients. Elle peut dire « Je suis disponible après la répétition si tu veux qu’on voie le programme. » Les questions sur l’épisode et le traitement reviennent à l’équipe de soins. Éva garde les coordonnées convenues si un relais urgent devient nécessaire."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-bipolaire"
+      ],
+      "continuity": {
+        "choice": "Garance convient d’un suivi rapproché et retire des engagements professionnels supplémentaires.",
+        "next": "Elle choisit ce qu’elle veut dire à Lise pour rester dans l’ensemble sans porter les textes du programme."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "garance-lise-accord-confidentialite",
+      "title": "La partition peut rester au pupitre",
+      "description": "Garance parle à Lise de sa place au concert et des tâches qu’elle peut tenir. Elle choisit les informations qui seront partagées avec le groupe.",
+      "context": "Dans la salle des Forges, avant une répétition de l’ensemble de cordes",
+      "topics": [
+        "Confidentialité du diagnostic",
+        "Place dans l’ensemble",
+        "Aménagement du programme"
+      ],
+      "opening": "Lise a déplacé deux pupitres au bord de l’estrade pour dégager le passage. Garance arrive avec la notice qu’elle n’a pas terminée. Elle pensait la rendre discrètement avant que les autres entrent. Quand Lise lui demande si elle veut s’asseoir, Garance garde la feuille dans sa main. Elle voudrait parler de la répétition avant de remettre le texte.\n\nElle dit qu’elle veut jouer sa partie et pouvoir prévenir si elle doit écourter une séance. Elle ne souhaite plus s’engager sur les textes. Lise lui demande si c’est la livraison du catalogue qui pose problème. Garance dit qu’elle revoit son calendrier et garde le détail pour elle. Elle peut lui dire que les nouvelles dates lui deviennent difficiles quand elles changent tard. Elle demande si la liste des répétitions peut être envoyée dans le même fil que les partitions.\n\nLise tourne le pupitre vers elle. Elle voudrait savoir si elle doit demander à une autre altiste de prendre l’entrée au début de la valse. Garance lit les quatre mesures qu’elle a notées. Elle souhaite les jouer. Elles peuvent prévoir que la personne assise à côté ait la partition si Garance doit manquer une séance. Dans le couloir, Éva s’approche avec son violon et attend que leur conversation se termine. Garance décide qu’elle lui parlera plus tard du retour au cabinet. Pour le moment, elle veut savoir où poser la notice.",
+      "sections": [
+        {
+          "heading": "Parler d’une tâche avec les personnes concernées",
+          "text": "Une personne peut demander un changement pratique et choisir les informations de santé qu’elle partage. Garance explique à Lise les dates, les textes et sa place au pupitre. Éva a reçu avec son accord une partie du plan de suivi. Lise a besoin de savoir qui prépare la notice et comment organiser une répétition si une personne manque. Chacune peut participer à sa manière avec les renseignements dont elle a besoin.\n\nLe NICE recommande de discuter des informations partagées avec les proches et des limites de cet échange. Dans l’ensemble amateur, Garance choisit ce qu’elle veut dire et à qui. Si elle souhaite demander un autre arrangement plus tard, elle pourra le faire à partir d’un besoin précis. Elle garde le droit de parler de son diagnostic avec Lise si elle en a envie. L’accord sur les pupitres et les dates peut se prendre dès aujourd’hui."
+        },
+        {
+          "heading": "Prévoir comment transmettre une partition",
+          "text": "Lise et Garance peuvent choisir un moyen simple de signaler une absence. Lise garde le calendrier et les partitions à jour. Garance lui écrit si elle compte quitter une répétition plus tôt. La personne qui tient l’autre alto pourra lire les indications utiles au pupitre. Ces gestes facilitent le travail de l’ensemble. La suite du suivi de Garance continue auprès de sa psychiatre et de sa psychologue.\n\nLise a aussi ses limites. Elle a besoin de connaître assez tôt les personnes qui seront présentes et peut expliquer quelle partie doit être répétée avec chacune. Elles conviennent de reprendre l’accord si les besoins du concert changent. Garance peut proposer de venir pour la valse et décider plus tard du reste. Une autre personne prendra la notice. Si Éva souhaite lui donner un appui dans une situation difficile, elles peuvent revenir séparément sur ce qu’elles avaient convenu."
+        }
+      ],
+      "ending_title": "Lise emporte la notice",
+      "ending": "Lise glisse la notice dans son dossier et laisse la partition ouverte au pupitre. Garance prend le temps d’accorder son alto. Elle avait préparé plusieurs phrases pour expliquer son retrait. Finalement, elle dit à la personne assise à côté d’elle où elle a marqué la reprise. Lise envoie le calendrier révisé après la séance. Garance le retrouve au même endroit que la partition. Quelques semaines passent. Un jeudi, elle ouvre ce fil pour confirmer qu’elle viendra. Elle laisse son message sans l’envoyer et reste devant le calendrier où la répétition est pourtant toujours à la même heure.",
+      "mirror": [
+        "Lise peut demander « Quelle partie veux-tu garder et à quel moment as-tu besoin de me prévenir si tu dois partir ? » Elle peut organiser le relais de la partition avec l’accord de Garance. Dans le groupe, elle reprend les horaires et le nom de la personne qui s’occupe des textes. Éva peut attendre un autre moment pour savoir si Garance veut parler de son suivi. Chacune peut aider sans demander des détails qui ne servent pas à son rôle."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-bipolaire"
+      ],
+      "continuity": {
+        "choice": "Garance garde la partie d’alto et transmet la notice, avec un accord pratique et confidentiel.",
+        "next": "Après quelques semaines, l’accès à une répétition qu’elle aime devient difficile pour d’autres raisons."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "garance-repetition-energie-basse",
+      "title": "Les chaussures attendent sous la chaise",
+      "description": "Garance met du temps à quitter son bureau et hésite devant son alto. À la répétition, un passage lui plaît encore. Elle en parlera au suivi.",
+      "context": "À la maison et dans la salle des Forges, plusieurs semaines après l’épisode hypomaniaque",
+      "topics": [
+        "Baisse persistante de l’élan",
+        "Plaisir ponctuel",
+        "Revenir vers le suivi"
+      ],
+      "opening": "Garance a terminé la correction d’une page et reste devant le même paragraphe. Elle voudrait envoyer le dossier avant de partir à la répétition. Il lui reste à joindre le fichier. Elle l’a retrouvé deux fois et n’a toujours pas ouvert le message. À la fin de la table, la boîte de son alto repose sur la chaise où elle avait prévu de mettre ses chaussures.\n\nAu cours des dernières semaines, elle a retrouvé par moments son rythme de travail. Puis plusieurs choses sont devenues difficiles à lancer, même les jours où le courrier est calme. Elle a différé les courses et commencé à répondre plus tard aux personnes qui l’attendent. Aujourd’hui, elle ne se rappelle plus l’envie de jouer qu’elle avait la veille. Elle ouvre le calendrier et écrit à Lise qu’elle pourrait venir pour la première partie. Avant d’envoyer, elle décide de demander à Éva de l’attendre cinq minutes à l’entrée.\n\nDans la salle, quelqu’un a avancé son pupitre. Elle le remet à sa hauteur et arrive à jouer les deux premières pages. Vers la fin de la valse, Éva joue une note à contretemps et lui sourit. Garance rit en retrouvant leur entrée. Elle voudrait entendre la suite et sait qu’elle n’a presque plus d’attention à y mettre. Elle referme la partition quand Lise annonce la pause. Elle garde en tête les quatre mesures qui lui ont plu. En rentrant, il lui restera le même fichier à joindre.",
+      "sections": [
+        {
+          "heading": "Un moment agréable au milieu de jours difficiles",
+          "text": "Un moment de plaisir peut subsister au cours d’une période où les activités ordinaires deviennent difficiles. Garance a aimé une partie de la valse. Depuis plusieurs jours, elle constate aussi une baisse d’élan, des tâches reportées et des difficultés à terminer son travail. Elle peut décrire les deux expériences dans le même entretien. L’évaluation d’un éventuel épisode dépressif tient compte de l’évolution, du retentissement et de l’ensemble des difficultés.\n\nGarance a traversé une période où elle a été très active. La baisse actuelle ne peut pas être déduite automatiquement de cette période. Un professionnel peut reprendre avec elle ce qu’elle vit et les autres éléments qui peuvent y contribuer. Le NICE recommande de demander une réévaluation si des symptômes dépressifs s’aggravent ou si la personne se sent en difficulté. Garance peut expliquer qu’elle hésite à attendre le prochain rendez-vous. Le cabinet pourra préciser la suite."
+        },
+        {
+          "heading": "Dire ce qui est devenu plus difficile",
+          "text": "Garance peut noter une situation au travail, une tâche à la maison et ce qui s’est passé pendant la répétition. Une phrase peut suffire pour chacun de ces exemples. Elle choisit de signaler au cabinet que son quotidien devient plus difficile. Si elle souhaite aussi en parler à sa psychologue, elle peut revenir sur le moment où elle a pu demander à Éva de l’attendre. Le plaisir du passage musical a sa place dans ce récit.\n\nLise peut garder l’accord sur le départ anticipé et préciser quand la valse sera rejouée. Éva peut proposer à Garance de l’attendre à l’entrée si l’horaire lui convient. Garance peut venir, choisir une partie ou rentrer. Si sa situation s’aggrave avant le rendez-vous, elle peut utiliser les contacts convenus. En cas de danger immédiat, l’aide urgente prend la priorité sur le travail et la répétition."
+        }
+      ],
+      "ending_title": "Le fichier et le message au cabinet",
+      "ending": "Chez elle, Garance retrouve le dossier ouvert. Elle envoie au client un court message pour confirmer le délai qui lui reste possible, puis revient au contact du cabinet. Elle écrit que les journées se font plus difficiles depuis quelque temps et demande à parler à la psychiatre avant le rendez-vous prévu. Elle garde en mémoire le rire sur la note d’Éva. Elle voudrait le raconter aussi, parce que c’est arrivé au milieu du reste. Avant de fermer le calendrier, elle précise à Lise qu’elle ne promet pas encore de venir jeudi prochain.",
+      "mirror": [
+        "Éva peut dire « Je peux t’attendre près de l’entrée. Si tu choisis de rentrer à la pause, tu peux me le dire ou écrire à Lise comme prévu. » Après la valse, elle peut écouter Garance raconter à la fois son plaisir et ce que la soirée lui a coûté. Si Garance veut en parler à son équipe, Éva peut lui laisser du temps pour faire l’appel et proposer un appui précis, selon ses disponibilités."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-bipolaire"
+      ],
+      "continuity": {
+        "choice": "Garance limite sa présence à une partie de la répétition et demande un échange plus tôt avec sa psychiatre.",
+        "next": "Elle apporte le moment de la valse et le retentissement de ces jours difficiles à l’évaluation."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "garance-episode-depressif-consultation",
+      "title": "La valse figure aussi dans les notes du rendez-vous",
+      "description": "La psychiatre évalue la période difficile de Garance. Le plaisir qu’elle a pris à jouer quelques mesures fait partie de ce qu’elle raconte.",
+      "context": "Au cabinet, pour l’évaluation de la période dépressive",
+      "topics": [
+        "Épisode dépressif",
+        "Retentissement sur le quotidien",
+        "Prise en charge discutée"
+      ],
+      "opening": "Garance a noté sur la même page le message au client et le rire qui lui a échappé après la note d’Éva. Elle aurait pu recopier seulement ce qui a été difficile. En arrivant au cabinet, elle hésite encore à montrer la deuxième ligne. Elle craint de donner l’impression qu’elle est venue pour quelque chose qui passera avec une bonne soirée. Quand la psychiatre lui demande ce qui l’a amenée à appeler, elle raconte qu’elle aime toujours retrouver l’ensemble et que sortir de chez elle lui demande souvent une préparation qu’elle ne parvient plus à faire.\n\nLa psychiatre lui demande ce qui s’est passé entre les répétitions. Garance dit que les réponses aux clients s’accumulent et qu’elle ne cuisine presque plus les jours où elle travaille. La spécialiste revient sur le temps depuis lequel les choses se sont dégradées, sur sa santé et sur la manière dont Garance arrive à prendre soin d’elle. Elle lui pose des questions directes sur sa sécurité. Garance répond et note ce qu’elle veut pouvoir signaler si cela change.\n\nÀ la fin de l’évaluation, la psychiatre lui dit qu’elle retient un épisode dépressif. Garance pose le doigt sur la ligne d’Éva. La spécialiste l’invite à dire ce que ces quelques mesures lui ont apporté. Garance raconte qu’elle a ri et que, dès la pause, elle a compris qu’elle rentrerait. Elle aimerait garder une façon d’être avec les autres pendant qu’elles organisent les soins.",
+      "sections": [
+        {
+          "heading": "Une évaluation qui tient ensemble des expériences différentes",
+          "text": "Un épisode dépressif s’apprécie dans le temps et au regard de ses conséquences sur la vie de la personne. La psychiatre de Garance a repris ce qui s’est installé, son retentissement et les questions de sécurité. Un instant de plaisir peut avoir sa place dans ce tableau. Garance peut aussi parler de ce qui l’aide encore à garder un contact avec les autres, même si les tâches du jour restent difficiles.\n\nDans le trouble bipolaire de type II, les épisodes dépressifs peuvent être sévères. La distinction avec le type I porte sur l’histoire des épisodes, selon la CIM-11. Elle ne mesure pas à elle seule la souffrance ou le risque pendant une période dépressive. Le NICE recommande de revoir les soins si les difficultés s’aggravent et de prévoir un relais adapté au niveau de risque. La psychiatre peut actualiser le plan avec Garance au fil de leur échange."
+        },
+        {
+          "heading": "Choisir le prochain contact et la part du projet qui reste ouverte",
+          "text": "Garance parle avec la psychiatre des options de prise en charge et de ce qu’elle attend d’elles. Après cette discussion, la psychiatre adapte le traitement prescrit, précise les effets à signaler et fixe un point rapproché. Garance pourra aussi parler avec sa psychologue de la difficulté à répondre aux demandes et de ce qu’elle souhaite garder de ses relations. L’équipe indique quels contacts utiliser si elle se sent moins en sécurité avant le rendez-vous.\n\nPour l’ensemble, Garance souhaite recevoir le calendrier et décider de sa présence à mesure que les dates approchent. Elle peut dire à Lise qu’elle ne donnera pas de réponse pour toutes les répétitions ce jour-là. Si elle veut demander à Éva de l’accompagner à l’entrée, elles préciseront ce que l’une peut proposer et ce que l’autre souhaite accepter. Garance garde la possibilité d’écouter une répétition sans jouer. Le choix se fera selon ses envies et ce qu’elle traverse."
+        }
+      ],
+      "ending_title": "Le contact près de la date",
+      "ending": "Avant de sortir, Garance demande à la psychiatre de lui redire qui contacter si la situation devient plus difficile un soir. Elle inscrit ce renseignement près du prochain rendez-vous. À la maison, elle replace la feuille dans la pochette bleue. Elle écrit à Éva qu’elle aimerait entendre un passage de la valse au téléphone un autre jour, si son amie a envie de le jouer. Elle garde pour elle les autres points de l’entretien. Sur le calendrier de l’ensemble, elle laisse jeudi sans marque et décide de revoir la question après le premier point avec le cabinet.",
+      "mirror": [
+        "Éva peut répondre à la demande de musique en proposant un moment qui lui convient. « Je peux te jouer le passage demain, si tu en as envie. » Elle peut aussi écouter Garance lui dire qu’elle n’a pas décidé pour jeudi. Si Garance parle d’une aggravation ou d’un risque, Éva peut l’aider à joindre le relais qu’elles ont convenu, puis laisser l’équipe prendre la suite. La présence de son amie au pupitre reste une décision distincte."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-bipolaire"
+      ],
+      "continuity": {
+        "choice": "Garance discute du traitement avec la psychiatre, reprend les contacts et garde ouverte sa présence aux répétitions.",
+        "next": "Un changement ressenti après l’adaptation du traitement lui donne une question à poser au cabinet."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "garance-effet-signaler-traitement",
+      "title": "Le matin que Garance veut décrire à sa psychiatre",
+      "description": "Garance remarque une somnolence le matin après une adaptation de son traitement. Elle demande au cabinet comment examiner ce changement.",
+      "context": "À son bureau de correctrice, avant un point de suivi",
+      "topics": [
+        "Effets ressentis",
+        "Réévaluation du traitement",
+        "Choix avec les soignants"
+      ],
+      "opening": "Garance relit une épreuve à onze heures et remarque qu’elle a rayé le même mot sur deux versions. Elle repose le crayon. Ces derniers jours, elle doit attendre plus longtemps avant de se sentir assez éveillée pour corriger. Ce matin, elle s’est assise avec son café et a laissé la lampe allumée sans ouvrir le dossier. Elle ne sait pas ce qui tient aux nuits qu’elle passe, à l’épisode dépressif ou à l’adaptation récente du traitement.\n\nDans sa boîte de réception, le cabinet lui a rappelé le prochain point. Elle voudrait écrire tout de suite au sujet des matins difficiles. Elle commence par demander si l’effet est normal, puis retire cette phrase. Elle peut décrire l’heure où elle se lève et les tâches qu’elle n’arrive plus à faire au début de la journée. Elle note aussi les jours où elle se sent encore somnolente après le déjeuner. Elle veut poser la question avant de décider de la suite avec la psychiatre.\n\nÉva lui envoie la mesure de la valse où l’archet accroche, parce qu’elle n’arrive pas à lire l’indication de Lise. Garance agrandit la photographie et distingue le signe. Elle avait imaginé passer lui montrer à la répétition. Elle prépare une réponse avec ce qu’elle voit et garde la question de sa présence ouverte. Elle préfère terminer le message au cabinet avant de choisir si elle sort ce soir.",
+      "sections": [
+        {
+          "heading": "Décrire ce qui a changé sans en décider la cause",
+          "text": "Un effet ressenti pendant un traitement mérite une discussion avec le professionnel qui le prescrit. Garance remarque une somnolence au moment de se mettre au travail. Elle peut préciser quand elle l’a repérée, ce que cela change et les autres éléments qui lui semblent pertinents. Le lien avec l’adaptation du traitement doit être examiné. L’épisode dépressif, le sommeil et d’autres causes possibles ont aussi leur place dans la discussion.\n\nLe NICE recommande d’examiner avec la personne les effets et les difficultés d’un traitement lors du suivi. Garance peut demander ce qu’elle doit signaler, à quel moment et à qui. Elle poursuit les soins selon les modalités convenues. Toute adaptation de la prise du traitement se décide avec sa psychiatre. Si les symptômes s’aggravent rapidement ou si elle se trouve en danger, le plan de soins indique quel relais urgent solliciter."
+        },
+        {
+          "heading": "Alléger une journée en attendant la réponse",
+          "text": "Garance peut prévenir le client qu’elle décalera la relecture de ce matin. Elle peut aussi distinguer la question envoyée par Éva de sa présence à la répétition. Lire le signe sur une photo lui demande quelques minutes. Se rendre dans la salle et y rester lui demande davantage. Elle peut donner à son amie l’information qu’elle a trouvée et dire qu’elle décidera plus tard pour jeudi.\n\nÉva n’a pas besoin de savoir ce qui a changé dans le traitement. Si Garance en parle, elle peut lui demander si elle veut une présence pendant l’appel ou préfère envoyer seule son message. Garance garde sa conversation médicale avec le cabinet. Elle choisit ce qu’elle peut faire ensuite, en tenant compte de la réponse reçue et de l’état qu’elle constate."
+        }
+      ],
+      "ending_title": "Une réponse pour la partition, une autre au cabinet",
+      "ending": "Garance envoie son message. Le cabinet lui propose un échange plus tôt avec la psychiatre. Elle retrouve le numéro dans la pochette bleue et note la nouvelle heure. Elle répond ensuite à Éva sur le signe photographié. Les deux messages restent ouverts quelques secondes sur son écran. Garance ferme d’abord la conversation de l’ensemble, puis l’épreuve qu’elle corrigera plus tard. Quand Lise demande qui veut relire la dernière page du programme, Garance laisse passer le message. Elle a pris le temps de répondre à la question sur la valse. Pour le reste, elle laisse quelqu’un d’autre se proposer.",
+      "mirror": [
+        "Éva peut accepter une réponse à la question de partition sans en faire une confirmation de présence. Si Garance lui parle de la somnolence, elle peut dire « Tu veux que je reste disponible le temps que tu retrouves le contact du cabinet ? » Elle peut aussi expliquer à quelle heure elle devra partir à la répétition. Les questions sur la cause et les changements de traitement restent avec les soignants."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-bipolaire"
+      ],
+      "continuity": {
+        "choice": "Garance demande une réévaluation professionnelle de la somnolence et sépare l’aide ponctuelle de sa présence à la répétition.",
+        "next": "Un soir où sa sécurité l’inquiète, elle utilise le relais prévu sans attendre le prochain point."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "garance-securite-relais-urgent",
+      "title": "Le message que Garance envoie avant la nuit",
+      "description": "Garance craint pour sa sécurité. Elle le dit à Éva, puis utilise le relais d’urgence prévu avec son équipe de soins.",
+      "context": "Chez Garance, au cours d’une soirée où le risque augmente",
+      "topics": [
+        "Idées suicidaires",
+        "Recours aux urgences",
+        "Limites du soutien d’un proche"
+      ],
+      "opening": "La partition est restée ouverte sur la table de Garance. Lise a demandé qui pourra venir à la prochaine répétition et les réponses arrivent les unes après les autres. Garance a essayé de relire la date. Depuis le début de l’après-midi, elle pense à mourir et ces pensées prennent de plus en plus de place. Elle a du mal à imaginer rester seule ce soir. Elle ferme la conversation de l’ensemble et sort la pochette bleue du tiroir.\n\nSur la première page, il y a l’heure du prochain rendez-vous. Sur la page des contacts, la psychiatre a noté la marche à suivre si Garance ne se sent plus en sécurité. Garance lit la phrase, puis envoie à Éva un message court. « J’ai des idées de suicide. Je crains de ne pas rester en sécurité ce soir. » Éva l’appelle. Garance lui dit où elle est et lui parle de la page qu’elle a sous les yeux.\n\nÉva lui propose d’appeler les services d’urgence tout de suite. Garance dit qu’elle veut leur parler et qu’elle peut les joindre elle-même. Elle s’assure d’avoir l’adresse sous les yeux avant de raccrocher. Elle laisse le programme du concert sur la table et appelle aussitôt. Elle lit son adresse sur l’enveloppe qui dépasse de la pochette, puis explique ce qui se passe.",
+      "sections": [
+        {
+          "heading": "Une inquiétude de sécurité appelle une réponse immédiate",
+          "text": "Quand une personne craint de se faire du mal ou de ne plus rester en sécurité, une aide urgente prend le relais. Garance dit clairement ce qui l’inquiète. Elle peut joindre les services d’urgence et expliquer où elle se trouve. Le prochain rendez-vous et les décisions concernant la répétition attendront. L’évaluation du risque et la réponse immédiate reviennent aux professionnels qui prennent l’appel.\n\nLe NICE recommande d’avoir prévu avec la personne les contacts utiles lorsque le risque augmente. Le plan de Garance lui donne un point de départ. Elle peut aussi demander de l’aide urgente si elle ne retrouve pas le plan. Son amie n’a pas à établir la gravité de l’épisode. Elle peut prendre au sérieux les mots de Garance, aider à établir le contact et solliciter elle-même les secours si l’appel n’aboutit pas ou si Garance ne peut plus le faire."
+        },
+        {
+          "heading": "Laisser l’équipe prendre la suite",
+          "text": "Éva peut parler à Garance pendant le temps nécessaire pour enclencher le relais, dans la mesure de ce qu’elle peut faire. Si les professionnels lui posent des questions utiles, elle peut transmettre ce qu’elle connaît de la situation et les coordonnées nécessaires. Elle a aussi le droit de dire où s’arrête son aide et de demander ce qu’elle peut faire ensuite. Les informations données pour obtenir de l’aide n’ont aucune raison de circuler dans le groupe de musique.\n\nAprès la réponse urgente, Garance pourra examiner avec son équipe ce qu’elle souhaite garder ou ajouter au plan. Elle pourra aussi choisir qui elle veut informer et à quel moment. Lise a seulement besoin de savoir si Garance peut prendre sa place à la prochaine répétition. Une autre personne pourra lui répondre avec son accord. Le concert reste un projet auquel Garance pourra revenir selon son état et ses choix."
+        }
+      ],
+      "ending_title": "Une voix reprend l’adresse avec elle",
+      "ending": "La personne qui prend l’appel répète l’adresse et explique ce que les services d’urgence vont faire. Garance garde la ligne pendant qu’une intervention est organisée. Elle répond aux questions qu’on lui pose et laisse la partition où elle est. Plus tard, quand les professionnels prennent la suite, Éva lui envoie un mot bref. Garance le lit quand elle en a la possibilité. L’équipe qui la reçoit fixe la prochaine étape des soins. Le lendemain, Garance demande à Éva de prévenir Lise qu’elle sera absente à la prochaine répétition. Elle lui indique la phrase qu’elle souhaite transmettre.",
+      "mirror": [
+        "Éva peut dire « Je te prends au sérieux. Tu peux appeler les secours maintenant ? Si tu ne peux pas, je les appelle. » Elle peut vérifier l’adresse, transmettre les éléments utiles à l’intervention et passer le relais aux professionnels. Elle n’a pas à gérer seule cette soirée. Si Garance lui demande ensuite de prévenir Lise, elle peut annoncer uniquement l’absence convenue et laisser Garance décider des autres informations qu’elle souhaite partager."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-bipolaire"
+      ],
+      "continuity": {
+        "choice": "Garance contacte les services d’urgence et les professionnels prennent le relais. Éva transmet l’absence avec son accord.",
+        "next": "Après la réponse urgente et la poursuite du suivi, Garance réexamine sa place dans le concert à son rythme."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "garance-retour-partie-ensemble",
+      "title": "Huit mesures à la répétition",
+      "description": "Quelques semaines après le recours aux urgences, Garance propose de reprendre une partie de la répétition. Elle choisit ce qu’elle veut dire à l’ensemble.",
+      "context": "Avant et pendant une reprise de répétition avec l’ensemble de cordes",
+      "topics": [
+        "Retour progressif à une activité",
+        "Coordination du suivi",
+        "Soutien sans pression"
+      ],
+      "opening": "Quelques semaines ont passé. Garance a revu sa psychiatre depuis l’intervention des services d’urgence. Elle a repris avec elle la question des matins difficiles et le contact à utiliser s’il y a une nouvelle inquiétude. Ce jeudi, elle regarde la partition que Lise lui a envoyée. Deux pages ont changé. Son entrée est encore au même endroit. Elle ouvre le boîtier pour vérifier l’archet, puis laisse l’alto sur le coussin pendant qu’elle choisit la réponse à donner.\n\nDans son message, Lise explique qu’elle peut garder la place à côté d’une autre altiste si Garance veut essayer. Garance a envie d’entendre la valse dans la salle. Elle aimerait reprendre les huit mesures qui la relient aux violons, avec la possibilité de s’arrêter ensuite. Elle écrit qu’elle viendra un peu avant la pause et demande si le groupe peut lui indiquer quand il jouera ce passage.\n\nÉva propose de la retrouver dehors. Garance accepte de faire le trajet avec elle, mais préfère entrer seule pour installer son pupitre. Elle avait préparé une explication sur son absence. En nouant ses chaussures, elle se rend compte qu’elle ne sait plus à qui elle voudrait la donner. Elle décide de dire bonsoir, puis de demander où commence la valse. Les personnes qui souhaitent lui parler pourront l’aborder après la répétition si elle a envie de rester.",
+      "sections": [
+        {
+          "heading": "Revenir à une activité par une part choisie",
+          "text": "La reprise d’une activité peut se préparer à partir de ce que la personne souhaite y retrouver. Garance a envie de jouer un passage et d’entendre les autres. Elle peut aussi écouter, partir à la pause ou décider le jour même que cela lui coûte trop. L’ensemble peut organiser la répétition avec cette possibilité. L’objectif de Garance est une place qu’elle juge tenable à ce moment de son suivi.\n\nLe NICE invite à discuter des objectifs personnels et des appuis qui aident à les poursuivre. Garance continue de voir sa psychiatre et sa psychologue. Elles peuvent revenir sur la période de risque, les questions de traitement et la façon dont Garance reprend ses activités. La répétition ne donne pas une mesure de sa sécurité pour les jours suivants. Si des inquiétudes reviennent, Garance sait vers quels contacts professionnels se tourner."
+        },
+        {
+          "heading": "Garder une place au pupitre et une solution pour le groupe",
+          "text": "Garance dit à Lise qu’elle veut essayer une partie précise et qu’elle préfère garder les détails de son absence pour elle. Lise peut tenir compte du moment où Garance arrive et confier à l’autre altiste les indications qui permettront de continuer si elle part. Elles conviennent de reprendre cette question pour le concert après l’essai. Garance peut écouter le reste du programme depuis la salle si elle en a envie.\n\nAvec Éva, elle souhaite marcher jusqu’à l’entrée. Elle pourra lui dire ensuite si elle veut parler de la soirée ou rentrer. Éva a aussi sa propre répétition. Elle peut préciser quand elle doit rejoindre les violons et lui proposer un autre moment si elles veulent se parler. Les contacts de soins restent disponibles selon le plan convenu. Leur accord sur le trajet ne charge pas Éva de vérifier le reste de la soirée."
+        }
+      ],
+      "ending_title": "L’archet s’arrête après les huit mesures",
+      "ending": "Garance retrouve l’autre altiste au pupitre. Elle lui demande de laisser un peu de place pour sa partition, puis indique l’endroit où elle reprendra. Elle entend la première note d’Éva et joue les huit mesures. À la pause, elle ferme son étui. Lise lui demande ce qu’elle veut faire pour le concert. Garance répond qu’elle souhaite jouer la valse et qu’elle veut garder l’accord sur le relais si elle doit modifier sa présence. Elles prennent un moment le lendemain pour confirmer les détails. Garance reste une minute près de la porte, où elle entend les violons reprendre sans elle.",
+      "mirror": [
+        "Éva peut dire « Je marche avec toi jusqu’à l’entrée. À l’intérieur, je rejoindrai les violons comme d’habitude. » Elle peut suivre le choix de Garance sur le reste de la soirée. Lise peut préciser l’heure du passage demandé et organiser la suite avec les autres altistes. Si Garance préfère partir à la pause, chacune peut garder sa part du programme. Les échanges sur le suivi restent séparés et se font avec l’accord de Garance."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-bipolaire"
+      ],
+      "continuity": {
+        "choice": "Garance reprend huit mesures et convient avec Lise d’une participation à la valse avec un relais prévu.",
+        "next": "Le concert arrive et Garance doit décider comment employer l’heure qui précède sa partie."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "garance-concert-heure-avant",
+      "title": "La valse attend derrière le rideau",
+      "description": "Avant le concert, le programme change légèrement. Garance vérifie sa place et choisit comment attendre le moment de jouer.",
+      "context": "Dans la salle des Forges, le soir du concert de quartier",
+      "topics": [
+        "Trac et humeur ordinaire",
+        "Engagement ajustable",
+        "Concert de quartier"
+      ],
+      "opening": "Le concert commence dans moins d’une heure. Garance a laissé l’étui sous le pupitre où elle jouera la valse. Depuis le rideau, elle entend quelqu’un déplacer des chaises dans la salle. Sur le programme posé près de la porte, la valse était placée avant l’entracte. Lise lui dit qu’un autre groupe a besoin de plus de temps pour s’installer et qu’elles passeront juste après. Garance demande à quelle heure il faut revenir derrière le rideau.\n\nÉva trouve deux chaises dans le couloir. Garance s’assoit une minute, puis se relève pour aller chercher le crayon resté sur son pupitre. Ses mains sont froides. Elle a répété le passage depuis leur dernier essai et sait où elle doit entrer. Elle a tout de même envie de parcourir encore la page. Éva lui demande si elle veut le faire ensemble ou si elle préfère rester quelques instants de son côté.\n\nGarance choisit de vérifier une fois la mesure avec elle. Ensuite, elle aimerait écouter le morceau qui ouvre le concert depuis le fond de la salle. Elle n’a pas promis de jouer le reste du programme. Lise lui écrit l’heure de retour sur le programme imprimé. Garance relit le chiffre, ferme la partition et descend vers le fond. Elle se rappelle la première répétition. Ce soir, il y a du monde de l’autre côté du rideau.",
+      "sections": [
+        {
+          "heading": "Reconnaître le moment et ce qu’il demande",
+          "text": "L’attente d’un concert peut s’accompagner de trac, d’excitation ou d’un mélange des deux. Garance remarque ses mains froides et l’envie de revoir sa mesure. Ces sensations ont un contexte immédiat. Son histoire clinique garde une place si elle remarque une évolution plus durable qui lui pose question. Elle peut alors décrire les changements au cabinet, en s’appuyant sur le plan établi avec l’équipe.\n\nLe trouble bipolaire de type II se comprend à partir de l’histoire des épisodes évalués. La soirée du concert donne surtout à Garance des décisions concrètes. Elle veut savoir quand jouer, où retrouver l’ensemble et ce qu’elle peut faire en attendant. L’heure écrite par Lise répond à ces questions. Elle peut garder le choix d’écouter un morceau ou de rester dans un endroit plus calme avant de rejoindre les autres."
+        },
+        {
+          "heading": "Tenir la partie convenue et pouvoir la modifier",
+          "text": "Garance sait que Lise a prévu une solution si elle doit renoncer à jouer. Elle souhaite garder sa place ce soir et peut le confirmer sans promettre de rester jusqu’au dernier morceau. Si elle veut changer quelque chose, elle sait à qui le dire. Éva peut faire la vérification de la mesure avec elle, puis aller s’accorder de son côté. Chacune garde une part claire dans ce qu’elles préparent.\n\nAprès le concert, Garance peut choisir de saluer ses voisins ou de rentrer. Elle a laissé de la place dans son calendrier du lendemain, car elle souhaite voir comment elle se sent après la soirée. Si elle veut en parler avec sa psychologue, elle pourra raconter le moment où elle a choisi de garder un seul passage. Le suivi a aussi de la place pour ces décisions de vie quotidienne."
+        }
+      ],
+      "ending_title": "L’entrée qu’elle attendait",
+      "ending": "Au fond de la salle, Garance écoute le dernier accord du premier ensemble. Elle revient derrière le rideau à l’heure écrite. L’autre altiste la rejoint et tourne la partition vers elles deux. Garance entend Éva jouer les notes qu’elle attendait. Son archet descend au moment où elle lève les yeux. Plus tard, elle remercie Lise et redescend retrouver les voisins après leur passage. Elle reste le temps que quelqu’un lui demande le nom du morceau. Puis elle va chercher son étui. À la sortie, Éva lui demande si elle veut marcher un bout de rue ensemble. Garance dit oui pour la rue, puis elle rentrera.",
+      "mirror": [
+        "Éva peut demander « Tu veux refaire l’entrée une fois avec moi ou écouter le début depuis la salle ? » Elle peut accepter la réponse sans évaluer l’humeur de Garance à partir du trac. Lise peut inscrire l’heure du nouveau passage et tenir le relais convenu. Après la valse, Éva peut proposer de marcher un peu et préciser quand elle rejoint les autres. Garance reste libre de prendre son étui et de rentrer."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-bipolaire"
+      ],
+      "continuity": {
+        "choice": "Garance joue la valse, choisit son temps de présence et rentre à l’heure qui lui convient.",
+        "next": "Elle utilise le calendrier du concert et ses observations pour discuter de ses prochains engagements."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "garance-calendrier-apres-concert",
+      "title": "Le lundi où Garance laisse un matin libre",
+      "description": "Après le concert, un client propose un nouveau catalogue. Garance regarde ce qu’elle peut accepter et revient sur son plan avec les personnes choisies.",
+      "context": "Après le concert, entre le bureau de Garance, le suivi et la prochaine répétition",
+      "topics": [
+        "Continuité du suivi",
+        "Calendrier viable",
+        "Amitié et partage choisi"
+      ],
+      "opening": "Le lundi, un client demande à Garance si elle peut relire un catalogue qui partira vite à l’impression. Elle ouvre les pièces jointes et trouve le nombre de pages. Dans l’ancien calendrier, elle aurait entouré la date de rendu. Cette fois, elle cherche la date à laquelle les textes arriveront vraiment et le moment où le client pourra répondre à ses questions. Elle a laissé le programme du concert à côté de son clavier. En le dépliant pour prendre une note, elle retrouve l’heure que Lise avait écrite derrière le rideau.\n\nÉva lui demande si elles peuvent se voir avant la prochaine répétition. Elle voudrait lui dire qu’elle n’a pas toujours su quand rappeler pendant la période difficile. Garance lui répond qu’elles peuvent en parler, si elles gardent du temps pour décider quel morceau elles veulent jouer maintenant. Elle ouvre la pochette bleue. Le contact des soignants figure toujours au même endroit. Elle a un rendez-vous prévu pour revoir ce qui s’est passé et les appuis qui lui ont servi.\n\nElle revient au devis. Le client propose une date qu’elle pourrait tenir en prenant le lendemain de la répétition pour terminer. Garance voudrait garder un matin sans rendez-vous, comme elle l’a fait après le concert. Elle demande au client s’il est possible de déplacer la remise. Puis elle note un autre créneau sur le calendrier, avant de fermer les deux fichiers.",
+      "sections": [
+        {
+          "heading": "Un plan que l’on peut reprendre quand le quotidien change",
+          "text": "Un plan de suivi peut évoluer avec les besoins, les expériences et les ressources de la personne. Garance souhaite garder les contacts qui lui ont permis d’obtenir un rendez-vous plus tôt et un relais urgent. Elle peut reprendre avec son équipe ce qui a été difficile à utiliser et revoir les modalités prévues. Les décisions de traitement se discutent avec sa psychiatre. Sa psychologue peut l’aider à préparer ce qu’elle veut dire sur le travail ou les répétitions.\n\nLe NICE recommande de revoir la prise en charge avec la personne, y compris ses priorités et ses besoins dans la vie courante. Garance peut demander à Éva quelle part de soutien lui convient et partager la version du plan qu’elle veut lui transmettre. Elle conserve aussi des échanges privés avec les soignants. Si la sécurité est en jeu, le recours aux professionnels reste la priorité, même si Éva est disponible."
+        },
+        {
+          "heading": "Choisir un engagement qui tient sur le calendrier",
+          "text": "Pour répondre au client, Garance peut vérifier ce qu’elle devra livrer, les temps de réponse des autres et la possibilité de garder le matin dont elle a besoin. Si le délai ne peut pas bouger, elle décidera si elle souhaite prendre un périmètre plus petit ou refuser. Elle peut avoir envie du catalogue et garder une place pour le reste. La décision professionnelle lui appartient.\n\nDans l’ensemble, Garance préfère choisir un morceau pour la prochaine séance. Lise peut annoncer ce qui est fixé et laisser les personnes revenir sur une tâche supplémentaire. Éva veut garder un moment pour les partitions et parler de ce qui l’a inquiétée un autre jour si nécessaire. Garance pourra lui dire quels contacts ont fonctionné pour elle et à quoi leur accord pourrait ressembler maintenant. Elles n’ont pas besoin de régler tout leur rôle dans une seule conversation."
+        }
+      ],
+      "ending_title": "Le matin reste sans trait",
+      "ending": "Le client accepte un délai plus long. Garance inscrit la date de remise et vérifie une dernière fois le jour où les textes arriveront. Elle laisse le matin suivant la répétition sans trait. À la salle des Forges, Éva apporte une partition qu’elles ont peu jouée. Garance lui montre d’abord la page de contacts qu’elle peut garder. Éva lui dit quels soirs elle termine tard. Elles rangent la page et posent leurs deux partitions sur le même pupitre. Garance demande à Éva de jouer les premières notes pour qu’elle retrouve l’entrée. Cette fois, elles prennent le morceau depuis le début.",
+      "mirror": [
+        "Éva peut dire « Je veux bien garder les coordonnées. Il y a des soirs où je ne pourrai pas répondre. » Garance peut revoir avec elle ce qu’elle souhaite lui confier et s’appuyer sur l’équipe pour les questions de soin ou de sécurité. Au pupitre, Éva peut lui demander quel morceau elle a envie d’essayer. Leur amitié garde de la place pour ce qu’elles font ensemble et pour les limites que chacune pose."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-bipolaire"
+      ],
+      "continuity": {
+        "choice": "Garance négocie un délai, garde un matin libre et met à jour avec Éva la partie du plan qu’elle veut lui confier.",
+        "next": "Le suivi, le calendrier et l’ensemble continuent avec des engagements que Garance pourra revoir."
+      }
+    }
+  ]
+}

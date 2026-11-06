@@ -16,7 +16,7 @@ const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').r
 const {default:worker,passwordHash,constantEqual,verifyStripeSignature,validateClaims,activeSubscription,claimJobs,completeJob,proxyJobLLM,failJob,runGenerationBatch,refreshUserPortrait}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));
 function database({legacy=false,v2=false,beforeRetirement=false}={}) {
  const db=new DatabaseSync(':memory:');
- for(const migration of ['0001.sql','0002_inspirations.sql',...(!legacy?['0003_likes_portraits.sql','0004_recommendations_free_portraits.sql','0005_personal_context_characters.sql','0006_recommendation_exposures.sql',...(!v2?['0007_self_profile_single_character.sql']:[]),'0008_billing_trial.sql','0009_private_companion.sql','0010_requested_focus.sql','0011_native_portrait_candidate.sql','0012_ambre_portrait_corrections.sql','0013_billing_cancellation_attempts.sql',...(!v2&&!beforeRetirement?['0014_retire_personal_stories.sql']:[])]:[])]) db.exec(readFileSync(new URL('../migrations/'+migration,import.meta.url),'utf8'));
+ for(const migration of ['0001.sql','0002_inspirations.sql',...(!legacy?['0003_likes_portraits.sql','0004_recommendations_free_portraits.sql','0005_personal_context_characters.sql','0006_recommendation_exposures.sql',...(!v2?['0007_self_profile_single_character.sql']:[]),'0008_billing_trial.sql','0009_private_companion.sql','0010_requested_focus.sql','0011_native_portrait_candidate.sql','0012_ambre_portrait_corrections.sql','0013_billing_cancellation_attempts.sql',...(!v2&&!beforeRetirement?['0014_retire_personal_stories.sql','0015_people_observations.sql']:[])]:[])]) db.exec(readFileSync(new URL('../migrations/'+migration,import.meta.url),'utf8'));
  for(const example of examples) db.prepare('INSERT INTO public_examples(id,body) VALUES(?,?)').run(example.id,'Canonical body: '+example.title);
  function prepare(sql){let params=[];return {bind(...v){params=v;return this;},async first(){return db.prepare(sql).get(...params)||null;},async all(){return {results:db.prepare(sql).all(...params)};},async run(){const r=db.prepare(sql).run(...params);return {meta:{changes:r.changes}};}};}
  let queue=Promise.resolve();return {raw:db,prepare,batch(statements){const task=queue.then(async()=>{db.exec('BEGIN');try{const r=[];for(const s of statements)r.push(await s.run());db.exec('COMMIT');return r;}catch(e){db.exec('ROLLBACK');throw e;}});queue=task.catch(()=>{});return task;}};
@@ -621,4 +621,17 @@ test('timeline pagination is chronological across pages and preserves UUID curso
  assert.equal(page.events[0].date_start,'1954');assert.equal(page.events.at(-1).id,'undated');assert.equal(page.events.length,6);assert.equal(page.next_cursor,null);
  env.DB.raw.prepare('DELETE FROM life_events WHERE id=?').run(cursor);
  response=await request(env,'/api/life-events?cursor='+cursor,{cookie:a.cookie});assert.equal(response.status,409);assert.equal((await response.json()).code,'pagination_changed');
+});
+
+test('people observation controls require an authenticated same-origin request',async()=>{
+ const env={DB:database()},account=await register(env);
+ const path='/api/people-observations/preferences';
+ assert.equal((await request(env,path)).status,401);
+ assert.equal((await request(env,path,{method:'PUT',cookie:account.cookie,originHeader:'https://another.example',data:{enabled:true}})).status,403);
+ const initial=await request(env,path,{cookie:account.cookie});
+ assert.equal(initial.headers.get('Cache-Control'),'private, no-store');
+ assert.deepEqual(await initial.json(),{enabled:false});
+ const enabled=await request(env,path,{method:'PUT',cookie:account.cookie,data:{enabled:true}});
+ assert.equal(enabled.status,200);
+ assert.deepEqual(await enabled.json(),{enabled:true});
 });

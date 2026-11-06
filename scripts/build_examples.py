@@ -103,6 +103,18 @@ def character_catalog():
             'id': character['id'], 'name': character['prenom'], 'keywords': themes,
             'source': 'traits_personnalite et tendances_psychologiques du registre des personnages fictifs',
         }
+    for path in sorted((ROOT / 'content/personnages').glob('*.md')):
+        _, front, _ = path.read_text().split('---', 2)
+        meta = yaml.safe_load(front)
+        if not meta.get('clinical_code') or meta.get('draft'):
+            continue
+        name = meta['prenom']
+        if name.lower() in data:
+            raise ValueError(f'Character already exists: {name}')
+        data[name.lower()] = {
+            'id': path.stem, 'name': name, 'keywords': meta['reading_topics'],
+            'source': 'repères des parcours cliniques de fiction',
+        }
     return data
 
 
@@ -134,10 +146,11 @@ def extractive_metadata(body, meta):
             'resources':[h for h in headings if re.search(r'exercice|technique|pratique|outil',h,re.I)]}
 
 
-def build():
+def build(write=True):
     # Keep the extractive article overviews current alongside the public catalogue.
-    from build_article_intros import build as build_article_intros
-    build_article_intros()
+    from build_article_intros import build as build_article_intros, load_article_mirrors
+    build_article_intros(write=write)
+    mirrors = load_article_mirrors()
     examples = []
     characters = character_catalog()
     articles_data = {}
@@ -163,6 +176,8 @@ def build():
                 raise ValueError('Missing or invalid editorial concept links: ' + str(path))
             metadata['pattern_ids'] = list(dict.fromkeys(reviewed['pattern_ids']))
             metadata['pattern_source'] = 'editorial_pack_v10_reviewed_story'
+        if meta.get('clinical_code'):
+            metadata['clinical_code'] = meta['clinical_code']
         summary = metadata['summary']
         # Opening scene + ending retain narrative approach at a bounded context cost.
         excerpt = body.strip()
@@ -179,6 +194,9 @@ def build():
             'keywords': topics, 'character_keywords': character.get('keywords', []),
             **metadata,
         }
+        # Keep the section intact so a condition or safety boundary at the end
+        # cannot be separated from the suggestion. Ambre can omit it as a whole.
+        support_excerpt = ' '.join(mirrors[relative.as_posix()])
         examples.append({
             'id': relative.as_posix(), 'title': meta['title'],
             'url': '/' + relative.parent.as_posix() + '/' + slug + '/',
@@ -187,22 +205,29 @@ def build():
             'keywords': keywords, 'reading_topics': topics, 'character_keywords': character.get('keywords', []),
             'sujet': meta.get('sujet', ''), 'category': (meta.get('categories') or [''])[0],
             **metadata,
+            'support_excerpt': support_excerpt,
             'body': excerpt,
         })
     if not examples or len({e['id'] for e in examples}) != len(examples):
         raise ValueError('Empty or duplicate catalogue')
-    (ROOT / 'data/character_keywords.json').write_text(json.dumps(characters, ensure_ascii=False, indent=2) + '\n')
-    (ROOT / 'data/article_keywords.json').write_text(json.dumps(articles_data, ensure_ascii=False, indent=2) + '\n')
-    target = ROOT / 'journal/src/examples.mjs'
-    target.write_text('// Generated from preserved public articles. Run python scripts/build_examples.py.\n'
-                      + 'export const EXAMPLES = ' + json.dumps([{k:v for k,v in e.items() if k != 'body'} for e in examples], ensure_ascii=False, separators=(',', ':')) + ';\n')
+    outputs = {
+        ROOT / 'data/character_keywords.json': json.dumps(characters, ensure_ascii=False, indent=2) + '\n',
+        ROOT / 'data/article_keywords.json': json.dumps(articles_data, ensure_ascii=False, indent=2) + '\n',
+        ROOT / 'journal/src/examples.mjs': '// Generated from the public catalogue. Run python scripts/build_examples.py.\n'
+        + 'export const EXAMPLES = ' + json.dumps([{k:v for k,v in e.items() if k != 'body'} for e in examples], ensure_ascii=False, separators=(',', ':')) + ';\n',
+    }
+    for path, value in outputs.items():
+        if write:
+            path.write_text(value)
+        elif not path.exists() or path.read_text() != value:
+            raise ValueError(f'Stale catalogue projection: {path.relative_to(ROOT)}')
     return examples
 
 
 if __name__ == '__main__':
-    examples = build()
-    print(f'{len(examples)} public articles; {len({e["character"] for e in examples})} characters.')
     import sys
+    examples = build(write='--check' not in sys.argv)
+    print(f'{len(examples)} public articles; {len({e["character"] for e in examples})} characters.')
     if '--seed' in sys.argv:
         dest = pathlib.Path(sys.argv[sys.argv.index('--seed') + 1])
         dest.write_text(json.dumps(examples, ensure_ascii=False))

@@ -32,7 +32,7 @@ test('a current explicit refusal of rumination does not retrieve it through adde
 });
 
 test('legacy saviour requests still find related readings before dedicated V10 stories are added',()=>{
- const original=EXAMPLES.filter(e=>e.pattern_source!=='editorial_pack_v10_reviewed_story');
+ const original=EXAMPLES.filter(e=>!e.clinical_code&&e.pattern_source!=='editorial_pack_v10_reviewed_story');
  assert.equal(original.length,231);
  const query='As-tu un personnage sur le syndrome du sauveur ?',lookup=lookupReadingCatalogue(original,query),engine=createRecommender(original);
  assert.equal(lookup.scope,'complete_public_catalogue');assert.equal(lookup.catalogue_size,original.length);assert.equal(lookup.searched_all,true);assert.ok(lookup.total_matches>=4);assert.ok(lookup.matches.some(x=>x.character==='Thomas'&&/Karpman/.test(x.title)));assert.ok(lookup.matches.some(x=>/Abnégation/.test(x.title)));assert.ok(lookup.matches.every(x=>['related','metadata_match'].includes(x.match_kind)&&original.some(e=>e.id===x.id&&e.url===x.url)));assert.equal(lookup.absence_proven,false);
@@ -41,17 +41,17 @@ test('legacy saviour requests still find related readings before dedicated V10 s
 });
 
 test('catalogue existence stays global while suggestions preserve explicit reading avoidances',()=>{
- const original=EXAMPLES.filter(e=>e.pattern_source!=='editorial_pack_v10_reviewed_story');
+ const original=EXAMPLES.filter(e=>!e.clinical_code&&e.pattern_source!=='editorial_pack_v10_reviewed_story');
  const query='Je souhaite éviter les articles sur le syndrome du sauveur.';assert.equal(expandReadingQuery(query),query);const engine=createRecommender(original),lookup=lookupReadingCatalogue(original,query);assert.ok(lookup.total_matches>0);
  const context={sources:[],avoid_topics:[{id:'no-self-sacrifice',label:'abnégation sacrifice de soi triangle de Karpman',confirmed:true,updated_at:'2026-10-01T00:00:00Z'}]};
  const result=engine.recommend(context,{query:expandReadingQuery('syndrome du sauveur'),limit:6,includeLiked:true});assert.equal(result.some(x=>lookup.matches.some(m=>m.id===x.id)),false);
 });
 
 test('the complete V10 catalogue retrieves the actual dedicated Aline story for equivalent saviour requests',()=>{
- assert.equal(EXAMPLES.length,387);
+ assert.equal(EXAMPLES.filter(e=>!e.clinical_code).length,387);
  for(const query of ['Un article sur le syndrome du sauveur ?', 'Un récit sur le complexe du sauveur ?', 'Une lecture sur le syndrome de la sauveuse ?']){
   const result=lookupReadingCatalogue(EXAMPLES,query);
-  assert.equal(result.catalogue_size,387);assert.equal(result.searched_all,true);assert.equal(result.absence_proven,false);
+  assert.equal(result.catalogue_size,EXAMPLES.length);assert.equal(result.searched_all,true);assert.equal(result.absence_proven,false);
   assert.ok(result.matches.some(m=>m.character==='Aline'&&/Syndrome du sauveur/.test(m.title)&&m.match_kind==='metadata_match'));
   const suggestions=createRecommender(EXAMPLES).recommend({sources:[]},{query:expandReadingQuery(query),limit:6,includeLiked:true});
   assert.ok(suggestions.some(m=>m.character==='Aline'&&/Syndrome du sauveur/.test(m.title)));

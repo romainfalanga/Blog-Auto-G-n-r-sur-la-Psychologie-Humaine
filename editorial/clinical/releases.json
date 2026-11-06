@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "arcs": {
+    "mathis": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "90907ad363fa41282077ca0c12d9249868a4968dc86e479df6f6fb342cd8f6b3",
+      "review": "Vague pilote. Raccords du parcours, chronologie du diagnostic, repères cliniques et place des proches relus. Contrôles de structure et de sources."
+    },
+    "noemie": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "388e0f7336165351e875e15388db136082f60c50ecc777ca2544ce30755d3be6",
+      "review": "Vague pilote. Raccords du parcours, chronologie du diagnostic, repères cliniques et place des proches relus. Contrôles de structure et de sources."
+    },
+    "inaya": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "0127f2d237f6414ce7caa79b52c869a19f4866dd1050e2868373b04511517ae0",
+      "review": "Vague pilote. Raccords du parcours, chronologie du diagnostic, repères cliniques et place des proches relus. Contrôles de structure et de sources."
+    },
+    "emilien": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "cbb3e2bdc6d885e042e77c4e59f44bcfb7897897950a0dcad3254acef2ca3690",
+      "review": "Vague pilote. Raccords du parcours, chronologie du diagnostic, repères cliniques et place des proches relus. Contrôles de structure et de sources."
+    },
+    "nour": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "0fb2f598886f3ce88f5886982c2b137d2d54a1b173aeb2623c38a51e052b40bf",
+      "review": "Deuxième vague. Relecture indépendante des raccords, de l’autonomie et des situations à risque. Les relais professionnels et la sécurité au travail ont été vérifiés."
+    },
+    "antonin": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "1ede45592acb61a9416a034b1e656e83fd4fb803dfbc8397bdc4a47ad41c8a0b",
+      "review": "Deuxième vague. Relecture indépendante des raccords, de l’autonomie et des situations à risque. Les relais professionnels et la sécurité au travail ont été vérifiés."
+    },
+    "selma": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "b4398178c9bb87a57a9fe437b70239c58ef4b7444bbce87e54e3857610713097",
+      "review": "Deuxième vague. Relecture indépendante des raccords, de l’autonomie et des situations à risque. Les relais professionnels et la sécurité au travail ont été vérifiés."
+    },
+    "gabin": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "caa9ad199e7a280d08159f3dc23d1645e82d1534010a76075de98b73b2dcb839",
+      "review": "Deuxième vague. Relecture indépendante des raccords, de l’autonomie et des situations à risque. Les relais professionnels et la sécurité au travail ont été vérifiés."
+    },
+    "garance": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "5d8630b324b98f4fa44fb24303772110dbbe2a98f21f21b267594f5e0aecdc63",
+      "review": "Troisième vague. Type II distingué du type I, suivi et relais urgent vérifiés, retour au projet musical et répartition des rôles relus."
+    },
+    "jules": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "71b5ea7b15ac7390fea1101308378d5f8cfda97fe16a84f01a9023ad16317831",
+      "review": "Troisième vague. Répétition des attaques inattendues et suites précisées, urgence thoracique traitée séparément, évaluation professionnelle à l’épisode 3."
+    },
+    "clemence": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "5286353e5ee42acde5799706cb3b73bc78e65b6dbbb58681dbd8b7004f8f8470",
+      "review": "Troisième vague. Vécu du trouble précisé aux épisodes 1 et 2. Raccord de la copie et relais médical en cas de malaise vérifiés."
+    },
+    "mina": {
+      "date": "2026-11-06",
+      "status": "editorially_reviewed",
+      "sha256": "732c65aab09b83d25c9e31d0898933102e9c3ae7a1a978c7c44eee1ae2f554a6",
+      "review": "Troisième vague. Qualificatif borderline vérifié, limites du proche et recours à l’équipe distingués, reprises de l’atelier et des désaccords relues."
+    }
+  }
+}

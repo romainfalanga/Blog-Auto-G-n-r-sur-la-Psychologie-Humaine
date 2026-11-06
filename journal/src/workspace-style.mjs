@@ -172,6 +172,31 @@ input,textarea,select { border-color: var(--line); }
 .source-actions button.text { padding: 0; text-decoration: none; font-size: .83rem; font-weight: 650; }
 .source-actions button.text:hover { text-decoration: underline; }
 .source-item .source-actions button.danger:not(:hover):not(:focus-visible) { color: var(--muted); }
+.people-observation-preference {
+  grid-column: 1 / -1;
+  padding: 12px 15px;
+  margin: 0 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  background: var(--wash);
+}
+.people-observation-preference .check { margin: 0 0 4px; font-size: .9rem; }
+.people-observation-preference .helper { margin: 0; }
+.people-observation-preference .status { margin: 6px 0 0; }
+.person-observations { border-top: 1px solid var(--line); margin-top: 12px; }
+.person-observations summary { list-style: none; min-height: 44px; padding: 10px 0; color: var(--accent); font-size: .9rem; font-weight: 650; }
+.person-observations summary::-webkit-details-marker { display: none; }
+.person-observations summary::before { content: '+' / ''; display: inline-block; width: 1rem; }
+.person-observations[open] summary::before { content: '−' / ''; }
+.person-observation-content :is(h4, h5) { margin: 10px 0 5px; font-size: .9rem; }
+.person-observation-content h5 { color: var(--muted); }
+.person-observation-map, .person-observation-notes { list-style: none; margin: 0; padding: 0; }
+.person-observation-map { display: flex; flex-wrap: wrap; gap: 6px; }
+.person-observation-map li { padding: 3px 8px; background: var(--accent-wash); border-radius: 5px; font-size: .77rem; }
+.person-observation-map strong { margin-left: .45rem; }
+.person-observation-notes li + li { border-top: 1px solid var(--line); }
+.person-observation-notes blockquote { margin: 0; padding-left: .65rem; border-left: 2px solid var(--line); font-size: .875rem; overflow-wrap: anywhere; }
+.person-observation-notes button { font-size: .76rem; }
 .event-timeline {
   position: relative;
   display: grid;

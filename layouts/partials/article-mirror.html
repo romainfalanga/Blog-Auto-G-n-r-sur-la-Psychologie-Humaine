@@ -1,0 +1,12 @@
+{{- if and .File (eq .Section "posts") -}}
+  {{- $id := strings.TrimSuffix ".md" .File.Path -}}
+  {{- $cues := index .Site.Data.article_keywords $id -}}
+  {{- with index .Site.Data.article_mirrors $cues.character_id -}}
+    {{- with index . $id -}}
+    <section class="article-mirror" aria-labelledby="du-cote-des-proches">
+      <h2 id="du-cote-des-proches">Du côté des proches</h2>
+      {{ range . }}<p>{{ . }}</p>{{ end }}
+    </section>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

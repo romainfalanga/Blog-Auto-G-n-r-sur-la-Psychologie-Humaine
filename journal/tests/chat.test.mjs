@@ -4,16 +4,17 @@ import {DatabaseSync} from 'node:sqlite';
 import {readFileSync,readdirSync} from 'node:fs';
 import {createPersonalBackend,parisWeek} from '../src/personal-backend.mjs';
 import {createChatBackend} from '../src/chat-backend.mjs';
-function setup(catalogue){const raw=new DatabaseSync(':memory:');for(const name of readdirSync(new URL('../migrations/',import.meta.url)).filter(n=>n.endsWith('.sql')).sort())raw.exec(readFileSync(new URL('../migrations/'+name,import.meta.url),'utf8'));function prepare(sql){let args=[];return {bind(...a){args=a;return this;},async first(){return raw.prepare(sql).get(...args)||null;},async all(){return {results:raw.prepare(sql).all(...args)};},async run(){return {meta:{changes:raw.prepare(sql).run(...args).changes}};}};}let queue=Promise.resolve();const DB={raw,prepare,batch(statements){const next=queue.then(async()=>{raw.exec('BEGIN');try{const result=[];for(const s of statements)result.push(await s.run());raw.exec('COMMIT');return result;}catch(e){raw.exec('ROLLBACK');throw e;}});queue=next.catch(()=>{});return next;}};let clock=Math.floor(Date.now()/1000),serial=0;const utils={error(status,message,code){throw Object.assign(new Error(message),{status,code});},json:(v,status=200)=>new Response(JSON.stringify(v),{status}),text:(v,max=1000)=>typeof v==='string'?v.slice(0,max).trim():'',body:async req=>req.json(),now:()=>clock,random:()=>`id_${String(++serial).padStart(8,'0')}`,decorateLikes:x=>x,recommender:{provisionalPortrait:()=>null}};const personal=createPersonalBackend(utils),chat=createChatBackend({...utils,personal,catalogue}),env={DB,OPENROUTER_API_KEY:'mock-only'};for(const id of ['a','b']){raw.prepare("INSERT INTO users(id,email,password_hash,password_salt) VALUES(?,?,'hash','salt')").run(id,id+'@example.com');raw.prepare('INSERT INTO profiles(user_id) VALUES(?)').run(id);raw.prepare('INSERT INTO memories(user_id) VALUES(?)').run(id);raw.prepare("INSERT INTO subscriptions(user_id,status,paid_until) VALUES(?,'active',?)").run(id,clock+86400);}async function call(path,method='GET',data,user='a',ctx){const req=new Request('https://example.com'+path,{method,...(data!==undefined?{body:JSON.stringify(data),headers:{'Content-Type':'application/json'}}:{})});try{const res=await chat.routes(req,env,{id:user},path,new URL(req.url),ctx);return {status:res.status,...await res.json()};}catch(e){return {status:e.status||500,code:e.code,message:e.message};}}return {raw,env,chat,personal,call,setClock:v=>{clock=v;},getClock:()=>clock};}
+function setup(catalogue){const raw=new DatabaseSync(':memory:');for(const name of readdirSync(new URL('../migrations/',import.meta.url)).filter(n=>n.endsWith('.sql')).sort())raw.exec(readFileSync(new URL('../migrations/'+name,import.meta.url),'utf8'));function prepare(sql){let args=[];return {bind(...a){args=a;return this;},async first(){return raw.prepare(sql).get(...args)||null;},async all(){return {results:raw.prepare(sql).all(...args)};},async run(){return {meta:{changes:raw.prepare(sql).run(...args).changes}};}};}let queue=Promise.resolve();const DB={raw,prepare,batch(statements){const next=queue.then(async()=>{raw.exec('BEGIN');try{const result=[];for(const s of statements)result.push(await s.run());raw.exec('COMMIT');return result;}catch(e){raw.exec('ROLLBACK');throw e;}});queue=next.catch(()=>{});return next;}};let clock=Math.floor(Date.now()/1000),serial=0;const utils={error(status,message,code){throw Object.assign(new Error(message),{status,code});},json:(v,status=200)=>new Response(JSON.stringify(v),{status}),text:(v,max=1000)=>typeof v==='string'?v.slice(0,max).trim():'',body:async req=>req.json(),now:()=>clock,random:()=>`id_${String(++serial).padStart(8,'0')}`,decorateLikes:x=>x,recommender:{provisionalPortrait:()=>null}};const personal=createPersonalBackend(utils),chat=createChatBackend({...utils,personal,catalogue}),env={DB,OPENROUTER_API_KEY:'mock-only'};for(const id of ['a','b']){raw.prepare("INSERT INTO users(id,email,password_hash,password_salt) VALUES(?,?,'hash','salt')").run(id,id+'@example.com');raw.prepare('INSERT INTO profiles(user_id) VALUES(?)').run(id);raw.prepare('INSERT INTO memories(user_id) VALUES(?)').run(id);raw.prepare("INSERT INTO subscriptions(user_id,status,paid_until) VALUES(?,'active',?)").run(id,clock+86400);}async function call(path,method='GET',data,user='a',ctx){const req=new Request('https://example.com'+path,{method,...(data!==undefined?{body:JSON.stringify(data),headers:{'Content-Type':'application/json'}}:{})});try{const url=new URL(req.url),res=await chat.routes(req,env,{id:user},path,url,ctx)||await personal.routes(req,env,{id:user},path,url,ctx);return {status:res.status,...await res.json()};}catch(e){return {status:e.status||500,code:e.code,message:e.message};}}return {raw,env,chat,personal,call,setClock:v=>{clock=v;},getClock:()=>clock};}
 const output=(proposals=[],content='Ce contraste mérite d’être exploré. Dans quel contexte ressentez-vous cela ?')=>new Response(JSON.stringify({choices:[{message:{content:JSON.stringify({content,proposals:proposals.map(p=>({...p,evidence_quote:'Je rumine quand je me sens critiqué.'}))})},finish_reason:'stop'}],usage:{prompt_tokens:100,completion_tokens:100,cost:0.001}}));
 async function ready(s){assert.equal((await s.call('/api/chat/consent','PUT',{accepted:true})).status,200);}
 async function message(s,key='request_001',content='Je rumine quand je me sens critiqué.',ctx){return s.call('/api/chat/messages','POST',{content,idempotency_key:key},'a',ctx);}
 function withFetch(t,fn){const previous=globalThis.fetch;globalThis.fetch=fn;t.after(()=>{globalThis.fetch=previous;});}
 test('an empty chat welcomes without consent, provider call, turn, quota or private inventory',async t=>{
  const s=setup();let calls=0;withFetch(t,async()=>{calls++;throw Error('No provider during welcome');});
- let state=await s.call('/api/chat');assert.equal(state.consent,false);assert.equal(state.messages.length,0);assert.equal(state.welcome.id,'ambre-welcome-v4');assert.equal(state.welcome.role,'assistant');assert.equal(state.quota.used,0);assert.equal(s.raw.prepare('SELECT count(*) n FROM chat_turns').get().n,0);assert.equal(s.raw.prepare('SELECT count(*) n FROM provider_budgets').get().n,0);
+ let state=await s.call('/api/chat');assert.equal(state.consent,false);assert.equal(state.messages.length,0);assert.equal(state.welcome.id,'ambre-welcome-v5');assert.equal(state.welcome.role,'assistant');assert.equal(state.quota.used,0);assert.equal(s.raw.prepare('SELECT count(*) n FROM chat_turns').get().n,0);assert.equal(s.raw.prepare('SELECT count(*) n FROM provider_budgets').get().n,0);
  for(const page of ['Mon portrait','Mes proches','Ma ligne de vie'])assert.ok(state.welcome.content.includes(page));
- assert.match(state.welcome.content,/les enregistre avec votre accord/);
+ assert.match(state.welcome.content,/Si vous activez la mémoire des proches/);
+ assert.match(state.welcome.content,/je retiens automatiquement certains exemples concrets/);
  assert.match(state.welcome.content,/Quel phénomène psychologique .* \?/);
  assert.equal((state.welcome.content.match(/\?/g)||[]).length,1);
  s.raw.prepare("UPDATE profiles SET self_data=? WHERE user_id='a'").run(JSON.stringify({first_name:'Alix',self_description:'PRIVATE PROFILE VALUE'}));s.raw.prepare("INSERT INTO personal_people(id,user_id,creation_id,payload_hash,display_name,role,relationship_text) VALUES('p','a','person','hash','PRIVATE NAME','friend','PRIVATE ACCOUNT')").run();
@@ -97,7 +98,7 @@ test('a future condition does not protect a separate immediate creation promise'
 });
 
 test('user messages and pending requests expose only their own client key for lost-response reconciliation',async t=>{
- const s=setup();await ready(s);let resolve,started;const start=new Promise(r=>{started=r;});withFetch(t,async()=>{started();return new Promise(r=>{resolve=()=>r(output());});});const tasks=[];const result=await message(s,'lost_post_key','Un message.',{waitUntil:p=>tasks.push(p)});await start;assert.equal(result.pending_request.client_key,'lost_post_key');assert.equal(result.messages[0].client_key,'lost_post_key');assert.equal((await s.call('/api/chat','GET',undefined,'b')).messages.length,0);resolve();await Promise.all(tasks);const final=await s.call('/api/chat');assert.equal(final.messages.find(m=>m.role==='user').client_key,'lost_post_key');assert.equal(final.messages.find(m=>m.role==='assistant').client_key,undefined);assert.equal(final.welcome.id,'ambre-welcome-v4');assert.equal((await message(s,'lost_post_key','Un message.')).quota.used,1);
+ const s=setup();await ready(s);let resolve,started;const start=new Promise(r=>{started=r;});withFetch(t,async()=>{started();return new Promise(r=>{resolve=()=>r(output());});});const tasks=[];const result=await message(s,'lost_post_key','Un message.',{waitUntil:p=>tasks.push(p)});await start;assert.equal(result.pending_request.client_key,'lost_post_key');assert.equal(result.messages[0].client_key,'lost_post_key');assert.equal((await s.call('/api/chat','GET',undefined,'b')).messages.length,0);resolve();await Promise.all(tasks);const final=await s.call('/api/chat');assert.equal(final.messages.find(m=>m.role==='user').client_key,'lost_post_key');assert.equal(final.messages.find(m=>m.role==='assistant').client_key,undefined);assert.equal(final.welcome.id,'ambre-welcome-v5');assert.equal((await message(s,'lost_post_key','Un message.')).quota.used,1);
 });
 
 test('verified global catalogue matches correct a false model claim of no public character without inventing a link',async t=>{
@@ -196,10 +197,11 @@ test('a retry must fit both the time and per-user token reservation; ambiguous t
 test('catalogue readings use closed IDs, canonical URLs and survive state, history and export',async t=>{
  const canonical={id:'article-verified',title:'Prendre du recul face à la critique',url:'/articles/critique.html',character:'Camille',reason:'Une piste de lecture liée à la critique.'};
  const concepts=['Filtre mental','Attention sélective'],quote='Camille relit les remarques sur le projet. Son doigt reste sur la seule ligne écrite en rouge.';
- const s=setup(new Map([[canonical.id,{reading_topics:concepts,summary_evidence:[{quote}]}]]));
+ const support='Demandez à Camille quel retour elle veut discuter. Laissez-lui le temps de choisir.';
+ const s=setup(new Map([[canonical.id,{reading_topics:concepts,summary_evidence:[{quote}],support_excerpt:support}]]));
  await ready(s);let helperCalls=0,providerCalls=0;
  s.personal.readingSuggestionsFromContext=undefined;s.personal.readingSuggestions=async(_env,userId,options)=>{helperCalls++;assert.equal(userId,'a');assert.equal(options.limit,6);assert.ok(options.query);return [canonical,{...canonical},{...canonical,id:'external',url:'https://evil.example/collect'}, {...canonical,id:'script',url:'javascript:alert(1)'}];};
- withFetch(t,async(_url,opts)=>{providerCalls++;const request=JSON.parse(opts.body),schema=request.response_format.json_schema.schema,context=JSON.parse(request.messages[1].content.slice(request.messages[1].content.indexOf('{')));assert.deepEqual(schema.properties.reading_suggestions.items.properties.id.enum,['article-verified']);assert.deepEqual(context.reading_candidates.map(v=>v.id),['article-verified']);assert.deepEqual(context.reading_candidates[0].concepts,concepts);assert.equal(context.reading_candidates[0].story_excerpt,quote);assert.equal(JSON.stringify(context).includes('/articles/critique.html'),false);assert.match(request.messages[0].content,/Les lectures suggérées proviennent toujours du catalogue public existant/);
+ withFetch(t,async(_url,opts)=>{providerCalls++;const request=JSON.parse(opts.body),schema=request.response_format.json_schema.schema,context=JSON.parse(request.messages[1].content.slice(request.messages[1].content.indexOf('{')));assert.deepEqual(schema.properties.reading_suggestions.items.properties.id.enum,['article-verified']);assert.deepEqual(context.reading_candidates.map(v=>v.id),['article-verified']);assert.deepEqual(context.reading_candidates[0].concepts,concepts);assert.equal(context.reading_candidates[0].story_excerpt,quote);assert.equal(context.reading_candidates[0].relative_support,support);assert.equal(JSON.stringify(context).includes('/articles/critique.html'),false);assert.match(request.messages[0].content,/Les lectures suggérées proviennent toujours du catalogue public existant/);
   if(providerCalls===2){const history=request.messages.filter(v=>v.role==='assistant');assert.match(history[0].content,/article-verified/);assert.equal(history[0].content.includes('companion_reply'),false);}
   return new Response(JSON.stringify({choices:[{message:{content:JSON.stringify({content:'Voici une lecture à explorer, si elle vous parle.',proposals:[],reading_suggestions:[{id:'unknown',url:'https://evil.example',reason:'inventée'},{id:canonical.id,url:'https://evil.example',reason:'Pour explorer cette situation sans conclusion hâtive.'},{id:canonical.id,reason:'doublon'}]})},finish_reason:'stop'}]}));
  });
@@ -536,4 +538,232 @@ test('an accepted partial date correction removes obsolete dates and age fields'
  assert.equal((await s.call('/api/chat/proposals/'+proposal.id+'/accept','POST',{revision:1})).status,200);
  const saved=s.raw.prepare("SELECT date_precision,date_start,date_end,age_text FROM life_events WHERE id='move'").get();
  assert.deepEqual({...saved},{date_precision:'unknown',date_start:'',date_end:'',age_text:''});
+});
+
+const observationPreferences='/api/people-observations/preferences';
+const milaObservations='/api/people/mila/observations';
+const milaQuote='Mila me laisse terminer quand nous parlons de nos désaccords.';
+function addMila(s){
+ s.raw.prepare("INSERT INTO personal_people(id,user_id,creation_id,payload_hash,display_name,role,relationship_text) VALUES('mila','a','mila','hash','Mila','friend','Nous nous voyons chaque samedi.')").run();
+}
+function observationReply(quote=milaQuote,person_id='mila',axis='communication'){
+ return Response.json({choices:[{message:{content:JSON.stringify({
+  content:'Vous avez remarqué une façon d’écouter qui compte dans cet échange.',
+  proposals:[],people_observations:[{person_id,axis,quote}]
+ })},finish_reason:'stop'}]});
+}
+
+test('relation observations are opt-in, recallable, deduplicated, isolated and removable',async t=>{
+ const s=setup();addMila(s);await ready(s);
+ const promptContexts=[];let quote=milaQuote;
+ withFetch(t,async (_url,{body})=>{
+  const input=JSON.parse(body),prompt=JSON.parse(input.messages[1].content.replace(/^[^{]*/, ''));
+  promptContexts.push(prompt);
+  assert.equal(Boolean(input.response_format.json_schema.schema.properties.people_observations),Boolean(prompt.observation_candidates));
+  return observationReply(quote);
+ });
+ assert.equal((await s.call(observationPreferences)).enabled,false);
+ assert.equal((await s.call(observationPreferences,'PUT',{enabled:'true'})).status,400);
+ assert.equal((await message(s,'notes_off',milaQuote)).last_request.status,'completed');
+ assert.equal(promptContexts.at(-1).observation_candidates,undefined);
+ assert.deepEqual((await s.call(milaObservations)).observations,[]);
+ assert.equal((await s.call(observationPreferences,'PUT',{enabled:true})).enabled,true);
+ assert.equal((await s.call('/api/chat')).people_observations_enabled,true);
+ const savedTurn=await message(s,'notes_on_1',milaQuote);
+ assert.equal(savedTurn.last_request.status,'completed');
+ assert.equal(savedTurn.proposals.length,0);
+ assert.deepEqual(promptContexts.at(-1).observation_candidates,{person_id:'mila',quotes:[milaQuote]});
+ const [note]= (await s.call(milaObservations)).observations;
+ assert.deepEqual(note,{id:note.id,axis:'communication',quote:milaQuote,created_at:s.getClock()});
+ assert.equal(s.raw.prepare("SELECT relationship_text FROM personal_people WHERE id='mila'").get().relationship_text,'Nous nous voyons chaque samedi.');
+ assert.equal(s.raw.prepare("SELECT version FROM profiles WHERE user_id='a'").get().version,1);
+ assert.equal((await s.call(milaObservations,'GET',undefined,'b')).status,404);
+ assert.equal((await s.call(milaObservations+'/'+note.id,'DELETE',undefined,'b')).status,404);
+ const exported=(await s.personal.exportData(s.env,'a')).people_observations.map(row=>({...row}));
+ assert.deepEqual(exported,[{...note,person_id:'mila',turn_id:savedTurn.request_id}]);
+ assert.deepEqual((await s.personal.exportData(s.env,'b')).people_observations,[]);
+ quote=milaQuote.slice(0,-1)+' !';
+ assert.equal((await message(s,'notes_dup',quote)).last_request.status,'completed');
+ assert.equal(promptContexts.at(-1).reported_relationship_observations.observations[0].quote,milaQuote);
+ assert.deepEqual((await s.call(milaObservations)).observations,[note]);
+ assert.equal((await s.call(milaObservations+'/'+note.id,'DELETE')).deleted,true);
+ assert.equal((await message(s,'notes_on_1',milaQuote)).last_request.status,'completed');
+ assert.deepEqual((await s.call(milaObservations)).observations,[]);
+ assert.equal((await message(s,'new_example',quote)).last_request.status,'completed');
+ assert.equal((await s.call(milaObservations)).observations.length,1);
+ assert.equal((await s.call('/api/people/mila','DELETE',{revision:1})).status,200);
+ assert.deepEqual((await s.personal.exportData(s.env,'a')).people_observations,[]);
+});
+
+test('ambiguous, sensitive, opted-out or fabricated relation evidence never becomes an automatic note',async t=>{
+ const s=setup();addMila(s);await ready(s);
+ await s.call(observationPreferences,'PUT',{enabled:true});
+ let quote,personId='mila',candidates;
+ withFetch(t,async (_url,{body})=>{
+  const input=JSON.parse(body);
+  candidates=JSON.parse(input.messages[1].content.replace(/^[^{]*/, '')).observation_candidates;
+  return observationReply(quote,personId);
+ });
+ for(const [key,source] of [
+  ['opt_out','Ne garde pas ce détail. '+milaQuote],
+  ['refuse_consign','Je ne veux pas que vous consigniez. '+milaQuote],
+  ['refuse_archive',milaQuote+' Merci de ne pas archiver ce que je viens de dire.'],
+  ['private_health','Mila me dit qu’elle doit adapter son traitement médical.'],
+  ['medication','Mila me dit qu’elle prend du lithium depuis lundi.'],
+  ['condition','Mila me dit qu’elle souffre d’une endométriose.'],
+  ['vote','Mila me dit qu’elle vient de voter pour le RN.'],
+  ['ethnicity','Mila me dit qu’elle est Rom.'],
+  ['unlisted_medication','Mila me dit qu’elle prend de la lamotrigine depuis lundi.'],
+  ['unlisted_prefix','Après sa mastectomie, '+milaQuote],
+  ['unlisted_suffix','Mila me répond par écrit quand sa dialyse se termine.'],
+  ['copy','Voici un texto : « Devine quoi. '+milaQuote+' On en parle demain. »'],
+  ['mixed_sensitive','Mila me dit qu’elle prend du lithium depuis lundi. '+milaQuote],
+  ['private_identity','Mila me demande de garder son orientation sexuelle pour moi.'],
+  ['person_risk','Mila me demande de parler moins fort. Elle parle de suicide.'],
+  ['user_risk',milaQuote+' Je pense à mourir.'],
+  ['conjecture','Mila me coupe la parole pour que je me taise.'],
+  ['pronoun_only','Elle me laisse terminer quand nous parlons de nos désaccords.'],
+  ['fabricated_story','Dans mon histoire fictive, '+milaQuote]
+ ]){
+  quote=source.split(/(?<=\.) /).at(-1);
+  const result=await message(s,'note_'+key,source);
+  assert.equal(result.last_request.status,'completed',key);
+  assert.equal(candidates,undefined,key);
+ }
+ quote='Mila me demande de réfléchir ensemble à une pause.';
+ assert.equal((await message(s,'bad_quote_1',milaQuote)).last_request.status,'completed');
+ assert.deepEqual(candidates.quotes,[milaQuote]);
+ quote=milaQuote;personId='person_outside_account';
+ assert.equal((await message(s,'bad_person',milaQuote)).last_request.status,'completed');
+ s.raw.prepare("INSERT INTO personal_people(id,user_id,creation_id,payload_hash,display_name,role) VALUES('mila_other','a','mila2','hash','Mila','sibling')").run();
+ personId='mila';
+ assert.equal((await message(s,'homonyms',milaQuote)).last_request.status,'completed');
+ assert.equal(candidates,undefined);
+ assert.deepEqual((await s.call(milaObservations)).observations,[]);
+});
+
+test('ordinary first-hand relationship reports pass verbatim, including reported preferences and negation',async t=>{
+ const s=setup();addMila(s);await ready(s);
+ s.raw.prepare("INSERT INTO personal_people(id,user_id,creation_id,payload_hash,display_name,role) VALUES('camille','a','camille','hash','Camille','friend')").run();
+ await s.call(observationPreferences,'PUT',{enabled:true});
+ const prompts=[];let person,quote,axis;
+ withFetch(t,async(_url,{body})=>{
+  prompts.push(JSON.parse(JSON.parse(body).messages[1].content.replace(/^[^{]*/,'')));
+  return observationReply(quote,person,axis);
+ });
+ for(const [i,report] of [
+  ['mila','Mila me répond par écrit quand le ton monte.','communication'],
+  ['camille','Camille m’a dit qu’elle préfère recevoir les questions par écrit.','besoins'],
+  ['camille','Hier, Camille me demande de parler moins fort.','limites'],
+  ['camille','Camille ne me laisse pas terminer.','tensions']
+ ].entries()){
+  [person,quote,axis]=report;
+  const result=await message(s,'ordinary_report_'+i,quote);
+  assert.equal(result.last_request.status,'completed');
+  assert.deepEqual(prompts.at(-1).observation_candidates,{person_id:person,quotes:[quote]});
+  assert.ok((await s.call('/api/people/'+person+'/observations')).observations.some(note=>note.axis===axis&&note.quote===quote));
+ }
+});
+
+test('turns in flight respect later opt-out and chat deletion removes saved observations',async t=>{
+ const s=setup();addMila(s);await ready(s);
+ await s.call(observationPreferences,'PUT',{enabled:true});
+ let providerReady,finishProvider;
+ const started=new Promise(resolve=>{providerReady=resolve;});
+ const providerPending=new Promise(resolve=>{finishProvider=resolve;});
+ let calls=0;
+ withFetch(t,async()=>{
+  if(calls++===0){providerReady();return providerPending;}
+  return observationReply();
+ });
+ const tasks=[];
+ const pending=await message(s,'notes_pending',milaQuote,{waitUntil:task=>tasks.push(task)});
+ assert.equal(pending.status,202);
+ await started;
+ await s.call(observationPreferences,'PUT',{enabled:false});
+ await s.call(observationPreferences,'PUT',{enabled:true});
+ finishProvider(observationReply());
+ await Promise.all(tasks);
+ assert.deepEqual((await s.call(milaObservations)).observations,[]);
+ assert.equal((await s.call('/api/chat')).last_request.status,'completed');
+ assert.equal((await message(s,'notes_saved',milaQuote)).last_request.status,'completed');
+ assert.equal((await s.call(milaObservations)).observations.length,1);
+ assert.equal((await s.call('/api/chat/consent','PUT',{accepted:false})).people_observations_enabled,false);
+ assert.equal((await s.call(milaObservations)).observations.length,1);
+ const cleared=await s.call('/api/chat','DELETE',{});
+ assert.equal(cleared.status,200);
+ assert.equal(cleared.people_observations_enabled,false);
+ assert.deepEqual((await s.call(milaObservations)).observations,[]);
+});
+
+test('a changed observation revision blocks provider reservation after a note was recalled',async t=>{
+ const s=setup();addMila(s);await ready(s);
+ await s.call(observationPreferences,'PUT',{enabled:true});
+ let calls=0;
+ withFetch(t,async()=>{calls++;return observationReply();});
+ await message(s,'seed_recalled_note',milaQuote);
+ const originalPrepare=s.env.DB.prepare;
+ s.env.DB.prepare=sql=>{
+  const statement=originalPrepare(sql);
+  if(sql.startsWith('SELECT axis,quote,created_at FROM people_observations')){
+   const originalAll=statement.all.bind(statement);
+   statement.all=async()=>{
+    const rows=await originalAll();
+    assert.equal(rows.results[0].quote,milaQuote);
+    await s.call(observationPreferences,'PUT',{enabled:false});
+    return rows;
+   };
+  }
+  return statement;
+ };
+ const result=await message(s,'recall_before_reserve','Comment en parler avec Mila ?');
+ assert.equal(result.last_error.code,'context_changed');
+ assert.equal(result.quota.used,1);
+ assert.equal(result.quota.reserved,0);
+ assert.equal(calls,1);
+ assert.equal(s.raw.prepare('SELECT provider_calls FROM provider_budgets').get().provider_calls,1);
+});
+
+test('revoking or deleting a recalled note in flight prevents publication but leaves unrelated turns intact',async t=>{
+ for(const [mode,query] of [
+  ['delete','Comment en parler avec Mila ?'],
+  ['disable','Comment en parler avec Mila ?'],
+  ['unrelated','Je souhaite changer de sujet.']
+ ])await t.test(mode,async sub=>{
+  const s=setup();addMila(s);await ready(s);
+  await s.call(observationPreferences,'PUT',{enabled:true});
+  let readPrompt,finishProvider;
+  const promptReceived=new Promise(resolve=>{readPrompt=resolve;});
+  const providerPending=new Promise(resolve=>{finishProvider=resolve;});
+  let calls=0;
+  withFetch(sub,async(_url,{body})=>{
+   if(calls++===0)return observationReply();
+   readPrompt(JSON.parse(JSON.parse(body).messages[1].content.replace(/^[^{]*/,'')));
+   return providerPending;
+  });
+  await message(s,'seed_recalled_note',milaQuote);
+  const [note]=(await s.call(milaObservations)).observations,tasks=[];
+  const pending=await message(s,'recall_while_waiting',query,{waitUntil:task=>tasks.push(task)});
+  assert.equal(pending.status,202);
+  const prompt=await promptReceived;
+  if(mode==='unrelated')assert.equal(prompt.reported_relationship_observations,undefined);
+  else assert.equal(prompt.reported_relationship_observations.observations[0].quote,milaQuote);
+  if(mode==='delete')assert.equal((await s.call(milaObservations+'/'+note.id,'DELETE')).deleted,true);
+  else {
+   await s.call(observationPreferences,'PUT',{enabled:false});
+   await s.call(observationPreferences,'PUT',{enabled:true});
+  }
+  finishProvider(output([],mode==='unrelated'?'Parlons du sujet qui vous intéresse.':milaQuote));
+  await Promise.all(tasks);
+  const result=await s.call('/api/chat');
+  assert.equal(result.quota.reserved,0);
+  if(mode==='unrelated'){
+   assert.equal(result.last_request.status,'completed');
+   assert.equal(result.quota.used,2);
+  }else {
+   assert.equal(result.last_error.code,'context_changed');
+   assert.equal(result.quota.used,1);
+   assert.equal(result.messages.filter(m=>m.role==='assistant').length,1);
+  }
+ });
 });

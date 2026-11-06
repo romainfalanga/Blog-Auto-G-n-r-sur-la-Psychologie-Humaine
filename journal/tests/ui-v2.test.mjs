@@ -164,6 +164,23 @@ test('V4 global navigation has exactly the shared public links in source order',
   assert.match(readFileSync(new URL('../../layouts/partials/header.html',import.meta.url),'utf8'),/\.Site\.Data\.navigation/);
 });
 
+test('private navigation renders the destination after updating history',()=>{
+  const location={pathname:'/mon-portrait/',search:'',hash:''};
+  const rendered=[];
+  const {ctx}=environment({
+    location,
+    history:{pushState(_state,_unused,path){location.pathname=path}},
+    window:{scrollTo(){}},
+    capturePageDrafts(){},
+    syncPageLocation(){ctx.state.tab='people'},
+    renderApp(){rendered.push(ctx.state.tab)},
+  });
+  vm.runInContext(script.match(/var PAGES=.*\n/)[0]+functionCode('go'),ctx);
+  ctx.go('people');
+  assert.equal(location.pathname,'/mes-proches/');
+  assert.deepEqual(rendered,['people']);
+});
+
 test('portrait rendering no longer exposes the obsolete fictional character card',()=>{
   assert.doesNotMatch(functionCode('appendPortrait'),/fictional_character/);
   assert.doesNotMatch(functionCode('renderAccount'),/10 €|likes_count>=10|Aimez au moins 10/);

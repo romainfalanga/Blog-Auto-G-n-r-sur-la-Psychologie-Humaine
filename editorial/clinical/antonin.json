@@ -1,0 +1,438 @@
+{
+  "character_id": "antonin",
+  "bio": "Antonin a 46 ans et s’occupe de l’intendance dans une école de musique. Il connaît chaque clé et chaque placard. Avec Eva, il prépare la réouverture d’un local de répétition et aimerait retrouver des soirées avec son frère Benoît. Son médecin a déjà diagnostiqué un trouble anxieux généralisé et revoit avec lui sa prise en charge.",
+  "episodes": [
+    {
+      "number": 1,
+      "slug": "antonin-cle-sans-date",
+      "title": "La clé qui attend sa date",
+      "description": "Antonin prépare la réouverture d’un local de musique. Quand Eva lui demande quel groupe y rejouera d’abord, il a du mal à quitter sa liste.",
+      "context": "À l’école de musique, lors du premier point sur la remise en service du local",
+      "topics": [
+        "Anxiété généralisée",
+        "Inquiétudes persistantes",
+        "Retentissement"
+      ],
+      "opening": "Antonin remet un pied en caoutchouc sous une chaise, la pose sur le carrelage et s’assoit pour écouter. Le grincement a disparu. Dans l’école de musique, il connaît l’endroit où l’on garde les patins, les pupitres, les câbles oubliés et les doubles des clés. Celle du local de répétition est sur le bureau. Le local doit rester fermé pendant les travaux. Eva, sa collègue, a apporté le cahier des groupes. Elle veut savoir lequel pourrait y retrouver son créneau en premier, une fois la salle remise en service.\n\nAntonin ouvre une feuille où il a noté la livraison, la disponibilité de l’accordeur et les cours qui débordent dans le couloir. Il ajoute la question du chauffage, puis le cas d’une absence chez les professeurs. Il regarde les colonnes et ne sait plus s’il essaie de répondre à Eva ou de prévoir toute l’année. Le téléphone vibre. Son frère Benoît demande s’il viendra jouer au billard jeudi. Antonin pense au bruit que fait la roue de son vélo, au coût de la réparation, puis à l’heure qu’il a promise au professeur de trombone.\n\nSon médecin a posé un diagnostic de trouble anxieux généralisé avant ce chantier. Antonin le voit déjà pour revoir sa prise en charge. À leur dernier rendez-vous, il lui a parlé des nuits où une inquiétude de travail en appelle une autre sur l’argent ou sur sa famille. Ce matin, Eva attend seulement le nom d’un groupe. Antonin entend les pieds de la chaise quand elle la rapproche du bureau.",
+      "sections": [
+        {
+          "heading": "Quand l’inquiétude touche plusieurs domaines",
+          "text": "Le trouble anxieux généralisé se manifeste par une appréhension persistante ou des inquiétudes marquées qui touchent plusieurs aspects de la vie. La CIM-11 lui attribue le code 6B00. Dans le quotidien, ces préoccupations peuvent porter sur le travail, la santé, les finances ou les proches. Certaines personnes éprouvent aussi de la tension, des difficultés à se concentrer ou un sommeil perturbé. La situation d’Antonin donne un aperçu de ce retentissement. Le sujet qui l’occupe change en quelques instants alors que la demande d’Eva, elle, reste la même.\n\nLe médecin tient compte de la souffrance, du temps et de l’effort que la personne consacre à tenir ses activités. Une chaise bien réparée et un cahier à jour disent ce qu’Antonin a accompli. Ils renseignent moins sur le sommeil qu’il a perdu ou sur ce qu’il n’a pas pu faire après le travail. Ces éléments s’examinent en consultation, dans le contexte de la vie et de la santé de la personne."
+        },
+        {
+          "heading": "Une décision que l’école peut prendre aujourd’hui",
+          "text": "Eva attend un ordre de passage à discuter avec les professeurs. Le chantier exige encore des validations et une date de reprise. Antonin peut proposer un premier groupe tout en gardant la date provisoire. Les questions qui dépendent d’autres services peuvent conserver leur place dans le cahier avec le nom de la personne qui doit répondre. Elles n’ont pas toutes à être résolues pour parler de l’ordre des répétitions.\n\nPour son suivi, Antonin peut raconter le moment où la liste des travaux a rejoint la dépense du vélo et le rendez-vous avec Benoît. Il peut préciser ce que ces pensées l’ont empêché de décider. La discussion au cabinet aura ainsi une scène précise sur laquelle s’appuyer. Eva, pour sa part, a surtout besoin de connaître le créneau envisagé et la réserve à communiquer au groupe."
+        }
+      ],
+      "ending_title": "Le nom du premier groupe",
+      "ending": "Antonin propose l’ensemble de clarinettes, qui s’entasse depuis des mois dans une salle où le dernier rang touche le mur. Eva note le nom au crayon. Elle garde une place pour la date quand les travaux auront avancé. La chaise, elle, est prête à reprendre sa place dans le couloir. Avant de quitter le bureau, Antonin écrit à Benoît qu’il aimerait jouer jeudi et qu’il regardera comment venir. Il n’a pas encore répondu au bruit de la roue.",
+      "mirror": [
+        "Eva peut tirer le cahier vers elle et montrer la case qu’elle doit remplir. « J’ai besoin d’un premier groupe à proposer. La date attendra l’accord pour la salle. Lequel a le moins de place en ce moment ? » Si Antonin lui dit que ses inquiétudes se bousculent, elle peut lui demander s’il préfère en parler ou reprendre ce point après la pause. Elle peut gérer le premier contact avec le groupe si c’est dans ses disponibilités."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete"
+      ],
+      "continuity": {
+        "choice": "Antonin propose les clarinettes en premier et répond à son frère sans attendre d’avoir réglé le trajet.",
+        "next": "Une dégradation du seuil donne à Antonin un problème concret à signaler avant toute reprise du local."
+      }
+    },
+    {
+      "number": 2,
+      "slug": "antonin-seuil-qui-bouge",
+      "title": "La barre qui se soulève",
+      "description": "Un défaut du seuil est visible à l’entrée du local. Antonin le signale, puis cherche quelles décisions relèvent encore de lui.",
+      "context": "Au seuil du local en travaux, pendant un repérage depuis le couloir",
+      "topics": [
+        "Précaution justifiée",
+        "Responsabilités",
+        "Incertitude"
+      ],
+      "opening": "La baguette métallique devant la porte se soulève à une extrémité. Antonin la voit de biais parce qu’il cherchait, sur le mur du couloir, l’ancienne affiche des auditions. Ce morceau de seuil n’était pas sorti de son logement lors du dernier repérage. Il arrête le déplacement de matériel qu’il devait coordonner et indique à Eva de rester à l’écart. Le local est déjà fermé au public. Il prévient le service qui suit les travaux, transmet l’emplacement précis et demande que l’accès reste réservé aux personnes habilitées jusqu’au contrôle.\n\nAu bureau, Eva décroche une annonce devenue illisible sous trois couches de ruban. Il y a dessus le nom d’un ancien professeur qui gardait les partitions dans des boîtes à chaussures. Ils se demandent si les familles se souviennent encore des petites auditions du samedi. Antonin aimerait proposer à l’ensemble de clarinettes de rejouer le morceau qu’on entendait jusque dans l’escalier. Il cherche son titre sur l’annonce, entre les traces de colle.\n\nLe téléphone indique que son signalement a été reçu. Le service reviendra vers lui après le contrôle prévu. Antonin songe à appeler une deuxième fois, à demander si les ouvriers auront assez de temps et à imaginer d’autres défauts qu’il n’a pas vus depuis le couloir. Eva lui montre le planning du déplacement qui vient d’être suspendu. Elle veut savoir si elle doit prévenir les professeurs maintenant ou attendre l’heure du contrôle. Antonin regarde le nom des deux personnes qui auraient dû venir ce matin.",
+      "sections": [
+        {
+          "heading": "Un risque observé mérite une réponse",
+          "text": "Une précaution est justifiée lorsqu’elle répond à une information crédible et à une responsabilité précise. Un seuil qui se soulève dans un passage appelle un signalement et le respect des consignes de l’établissement. Le diagnostic d’Antonin ne change rien à cette responsabilité. Il a observé un défaut, suspendu ce qu’il devait organiser et transmis le point au service qui en a la charge. La décision sur l’accès et les travaux revient aux personnes compétentes.\n\nL’inquiétude peut se prolonger après les mesures nécessaires. Antonin pense à ce qu’il a vu, puis à ce qui pourrait se révéler ailleurs. Il voudrait connaître la suite alors que l’examen est encore à venir. Il peut rapporter cette succession à son médecin, qui l’aide à comprendre ce qui se passe pour lui au-delà de la précaution. Si un nouveau défaut est observé, il reste une information à transmettre selon les mêmes consignes."
+        },
+        {
+          "heading": "Donner une suite au report",
+          "text": "Les deux professeurs doivent pouvoir organiser leur matinée. Eva peut les prévenir du déplacement suspendu et leur dire de qui viendront les informations sur la suite. Antonin peut mettre à disposition le matériel dont ils ont besoin dans une autre salle autorisée, si elle est disponible. Il garde le suivi du signalement dans le circuit prévu et pourra tenir compte de tout élément nouveau.\n\nLe point auquel ils attendent une réponse ne donne aucune date certaine de réouverture. Il leur permet de travailler avec les informations disponibles. Pour Antonin, il reste une différence entre ce qu’il peut faire pour les professeurs ce matin et le souhait que l’examen du seuil soit déjà terminé. Eva peut l’aider sur le premier point. Le second pourra être évoqué plus tard avec son médecin si l’attente lui prend beaucoup de place."
+        }
+      ],
+      "ending_title": "Une annonce décollée du mur",
+      "ending": "Eva écrit aux professeurs avant qu’ils se déplacent. Antonin porte deux pupitres dans une salle déjà ouverte et vérifie que le responsable du chantier a reçu le changement de planning. Sur l’annonce, le titre qu’il cherchait est caché sous une bande de papier. Il la donne à Eva, qui connaît encore quelqu’un ayant joué à cette audition. Le seuil sera examiné sans eux. La semaine prochaine, ils devront aussi trouver où les clarinettes peuvent répéter en attendant.",
+      "mirror": [
+        "Eva peut reconnaître le problème qu’Antonin a vu et prendre la part qui lui revient. « Tu as prévenu le service pour le seuil. Je peux appeler les deux professeurs pour leur éviter le déplacement. On se passe les nouvelles si le service revient vers l’un de nous. » Elle peut demander s’il reste une tâche précise pour elle ce matin. Si elle doit assurer l’accueil, elle peut convenir d’un relais avec Antonin. Les consignes d’accès restent les mêmes pour tous."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete"
+      ],
+      "continuity": {
+        "choice": "Antonin fait traiter le défaut par le service compétent et accepte qu’Eva prévienne les professeurs.",
+        "next": "Eva propose de prendre en charge l’emploi du temps provisoire des clarinettes pendant les travaux."
+      }
+    },
+    {
+      "number": 3,
+      "slug": "antonin-creneau-des-clarinettes",
+      "title": "Le mardi que prend Eva",
+      "description": "Eva propose d’organiser la répétition des clarinettes ailleurs. Antonin choisit les informations à lui transmettre et celles qui peuvent attendre.",
+      "context": "Au bureau de l’école, pendant la répartition des salles provisoires",
+      "topics": [
+        "Partage des tâches",
+        "Incertitude",
+        "Organisation du travail"
+      ],
+      "opening": "La salle du haut est libre un mardi sur deux. Eva lit le nom de l’ensemble de clarinettes et déplace une étiquette sur son tableau. L’essai serait possible si le professeur peut changer l’heure et si la salle répond aux besoins des musiciens. Antonin connaît déjà le nombre de pupitres disponibles. Il ouvre la bouche pour expliquer à Eva comment faire l’appel, à qui demander le double de la clé et quelle entrée l’un des élèves préfère emprunter.\n\nEva pose deux crayons sur le cahier. Elle lui demande la capacité de la salle et le nom du professeur, puis lui propose de prendre en charge les échanges jusqu’à la réponse du groupe. Antonin pense à un élève qu’ils avaient oublié de prévenir au début de l’année. Il s’apprête à demander une copie de chaque message. Il aperçoit aussi, au bas de son agenda, l’heure à laquelle il doit apporter son vélo à l’atelier. Il a décalé ce rendez-vous une première fois parce qu’un échange sur les répétitions avait débordé.\n\nDans la cour, le professeur de trombone fait écouter à un élève le passage qu’il jouait trop vite. Antonin reste un instant près de la fenêtre. Au bureau, Eva attend les informations qu’il doit lui passer. Il se demande quel risque demande vraiment sa présence après cet échange. La règle d’accès à la salle ne changera pas. En revanche, il ne sait toujours pas ce que le groupe décidera.",
+      "sections": [
+        {
+          "heading": "Quand l’attente se transforme en une autre tâche",
+          "text": "L’inquiétude persistante peut compliquer le partage du travail en donnant beaucoup de place à des difficultés qui pourraient se produire. Antonin a des informations utiles à transmettre. Il connaît la salle et sait quel professeur contacter. Il craint aussi de se retrouver responsable d’une erreur qu’il ne peut pas encore décrire. En essayant d’anticiper tous les échanges, il ajoute à sa journée une tâche qu’Eva vient justement de lui proposer de prendre.\n\nDans ce récit, l’histoire de l’élève oublié aide à prévoir une vérification ciblée de la liste. Elle n’exige pas qu’Antonin lise chaque message. Son médecin peut l’aider à parler de l’effort qu’il fournit pour supporter le doute une fois le travail partagé. Au bureau, Eva peut lui donner un point de retour précis et faire les choix ordinaires qui relèvent de la tâche qu’elle accepte."
+        },
+        {
+          "heading": "Un relais avec une vraie marge de décision",
+          "text": "Antonin peut transmettre la capacité de la salle et les conditions connues, puis dire ce qui justifierait qu’Eva le sollicite de nouveau. S’il manque un équipement dont il a la charge, il pourra répondre. Si le professeur préfère maintenir le créneau initial, Eva peut en parler avec lui. Le groupe pourra aussi décliner l’essai. Le prochain point de travail servira à rendre ce résultat visible, quelle que soit la réponse.\n\nEva a également besoin de dire quand elle peut passer les appels. Antonin peut choisir de lui confier la tâche en entier ou chercher une autre répartition avec elle. Ils gagnent à savoir où chacun intervient. Si le délai devient impossible, ils peuvent convenir d’un report plutôt que passer leur soirée à reprendre les mêmes échanges."
+        }
+      ],
+      "ending_title": "Une étiquette laissée au crayon",
+      "ending": "Antonin donne à Eva les coordonnées du professeur et reste sur sa propre tâche de la journée. Elle lui écrira après le retour du groupe. Il a encore envie de lui envoyer la liste des appels qu’il aurait passés. Il remet son agenda dans sa poche et part à l’heure de son rendez-vous. Dans la cour, il reconnaît enfin le début du morceau de l’ancienne affiche. Il compte demander le titre au professeur le lendemain.",
+      "mirror": [
+        "Eva peut prendre le cahier et dire ce qu’elle propose de porter. « Donne-moi les conditions de la salle et le nom du professeur. Je m’occupe des échanges et je te dis ce qu’ils choisissent à notre prochain point. » Elle peut réserver à Antonin les questions de matériel qui sont de son ressort. Si elle n’a finalement pas le temps d’appeler tout le monde, elle peut le dire avant de transmettre la tâche, pour qu’ils décident ensemble de la suite."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete"
+      ],
+      "continuity": {
+        "choice": "Antonin confie l’organisation des échanges à Eva et part au rendez-vous du vélo sans demander copie des messages.",
+        "next": "À l’atelier de réparation, une dépense à décider lui fait voir combien l’inquiétude déborde le chantier."
+      }
+    },
+    {
+      "number": 4,
+      "slug": "antonin-devis-du-velo",
+      "title": "Le prix écrit sur un coin de papier",
+      "description": "Le réparateur chiffre une réparation. Antonin essaie de choisir pour son vélo tandis que d’autres inquiétudes lui reviennent.",
+      "context": "À l’atelier de réparation du vélo, puis au café avec Benoît",
+      "topics": [
+        "Finances du quotidien",
+        "Inquiétudes changeantes",
+        "Décision concrète"
+      ],
+      "opening": "Le réparateur fait tourner la roue avant et demande à Antonin depuis quand elle frotte. Antonin ne s’en souvient pas. Il pense au pavé sur lequel il était monté en rentrant du billard, puis à une bosse qu’il avait évitée près de l’école. Le réparateur examine le vélo et écrit un montant sur un coin de papier. Il précise ce que la réparation comprend et l’heure à laquelle il peut rappeler avec une date. Antonin lui demande de garder le vélo sur place pendant qu’il réfléchit.\n\nDehors, Benoît l’attend devant le café. Il a apporté une vieille craie de billard qu’il a trouvée dans le tiroir de leur père. Ils la faisaient passer de main en main, adolescents, sans savoir à quoi elle servait vraiment. Antonin la fait rouler entre ses doigts. Il voudrait demander à son frère s’il a envie de jouer jeudi, comme prévu, mais il revient au montant écrit. Il imagine qu’une deuxième pièce pourrait lâcher. Puis il pense à une dépense du mois suivant, au rendez-vous de Benoît chez le dentiste et à la clé du local qui attend dans le bureau.\n\nLe devis lui demande une réponse sur une réparation déterminée. Benoît lui demande seulement s’il préfère prendre le bus avec lui jeudi ou attendre que le vélo soit prêt. Antonin pose la craie près de sa tasse pour chercher l’itinéraire qu’il utilisait avant d’avoir le vélo. Le temps de vérifier l’arrêt, il se demande de nouveau ce que le réparateur pourrait avoir oublié.",
+      "sections": [
+        {
+          "heading": "Des sujets qui se remplacent au fil de la journée",
+          "text": "Dans l’anxiété généralisée, les inquiétudes peuvent s’étendre à plusieurs domaines du quotidien et se poursuivre quand la situation qui les a suscitées a changé. Antonin pense à une dépense concrète, puis à la santé de son frère et à la réouverture du local. Il a des raisons distinctes de s’intéresser à chacun de ces sujets. Ce qui lui pèse ici, c’est la place qu’ils prennent tous au même moment, jusque dans la réponse à une invitation simple.\n\nUne dépense de vélo mérite d’être examinée selon ses moyens et le service proposé. Antonin peut demander au réparateur de préciser ce qui entre dans le devis. Sa conversation avec Benoît concerne aussi un autre choix, leur prochaine soirée. Ces éléments peuvent être traités avec des personnes différentes. Le médecin peut, lui, entendre comment le passage d’un sujet à l’autre joue sur sa concentration ou le temps qu’il passe à décider."
+        },
+        {
+          "heading": "Répondre à l’invitation avec l’information disponible",
+          "text": "Benoît peut proposer le trajet qu’il compte faire et dire à quelle heure il part. Antonin n’a pas à décider du devis pour choisir s’il a envie de jouer. Il peut réserver sa réponse au réparateur après avoir regardé ce que cette dépense représente pour lui. La date de restitution reste entre les mains de l’atelier. Elle pourra modifier un trajet futur sans décider à elle seule de leur jeudi.\n\nSi Antonin veut reparler de ses inquiétudes en consultation, il peut décrire un moment où une question légitime a été suivie de plusieurs autres qui ne demandaient pas de décision immédiate. Il pourra aussi dire ce qui continue à lui donner envie de sortir. Le médecin dispose alors d’une image de la gêne et des activités qu’Antonin souhaite garder."
+        }
+      ],
+      "ending_title": "Deux places sur la ligne de bus",
+      "ending": "Benoît ramasse la craie. Antonin lui dit qu’il peut le retrouver à l’arrêt. Au réparateur, il demande un délai jusqu’au lendemain pour donner sa réponse. Il garde le prix écrit dans sa poche au lieu de chercher ce qu’un autre atelier aurait facturé pour une panne différente. Au café, il se rappelle enfin pourquoi la craie lui paraît si petite. Son père la cassait en deux pour que chacun en garde une moitié. Benoît dit qu’il s’en souvient aussi.",
+      "mirror": [
+        "Benoît peut donner une réponse simple sur le trajet et laisser Antonin décider de la réparation. « Je prends le bus jeudi à l’arrêt de la place. Tu peux me retrouver là si tu veux jouer. » S’il entend Antonin revenir sur le prix, il peut demander s’il souhaite de l’aide pour relire ce que l’atelier a écrit. Il peut aussi dire qu’il ne connaît pas l’état du vélo et garder leur rendez-vous ouvert, même si l’atelier n’a pas encore donné de date."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete"
+      ],
+      "continuity": {
+        "choice": "Antonin se donne un délai pour le devis et garde le billard avec Benoît en prévoyant le bus.",
+        "next": "Une nouvelle soirée où les questions se prolongent lui donne des exemples précis à apporter au rendez-vous médical."
+      }
+    },
+    {
+      "number": 5,
+      "slug": "antonin-sommeil-au-rendez-vous",
+      "title": "Les heures qu’il voudrait raconter",
+      "description": "Antonin parle à son médecin des nuits courtes et des décisions qui lui coûtent. Ils revoient ensemble la suite de sa prise en charge.",
+      "context": "Au rendez-vous de suivi médical, après une semaine de nuits interrompues",
+      "topics": [
+        "Sommeil",
+        "Consultation de suivi",
+        "Choix de soins"
+      ],
+      "opening": "Dans la salle d’attente, Antonin tient un ticket de bus où l’encre a presque disparu. Il l’avait glissé dans son portefeuille après le billard. Benoît lui a laissé le dernier coup et Antonin a raté la bille blanche. Ils ont tellement ri que le joueur de la table voisine a levé les yeux. Le souvenir lui revient avant celui de la nuit suivante. À trois heures, il était allé chercher le papier du réparateur. Il a accepté le devis le lendemain et le vélo attend la pièce nécessaire.\n\nIl a apporté aussi l’horaire d’une répétition déplacée. La feuille lui rappelle le mercredi où il s’est levé pour vérifier un renseignement déjà donné par Eva. Une fois debout, il a pensé à la dépense du vélo puis à l’appel que son frère devait recevoir du dentiste. Au matin, il a trouvé le volet de la cuisine entrouvert. Il ne sait plus s’il l’a ouvert pour voir l’heure à laquelle le jour se levait ou parce qu’il comptait rester debout.\n\nSon médecin l’appelle. Antonin glisse le ticket et la feuille dans la même poche. Ils ont déjà parlé de son anxiété généralisée et des appuis qu’il essaie au travail. Aujourd’hui, il voudrait expliquer comment il tient ses journées et ce qu’il lui reste pour la soirée. Son médecin lui demande ce qu’il souhaiterait voir changer. Antonin pense d’abord aux nuits. Il ajoute qu’il voudrait recommencer à jouer sans commencer son jeudi en calculant s’il aura l’énergie d’y aller.",
+      "sections": [
+        {
+          "heading": "Ce que le sommeil change dans l’évaluation",
+          "text": "Un sommeil perturbé peut accompagner l’anxiété généralisée et peser sur les journées suivantes. Le médecin regarde avec la personne à quel moment les difficultés surviennent, ce qui les accompagne et leur effet sur les activités. D’autres problèmes de santé ou circonstances peuvent aussi compter. Antonin peut décrire ses réveils, les pensées dont il se souvient et les conséquences qu’il remarque au travail ou au billard. Ces éléments renseignent le suivi sans exiger un relevé complet de toutes les nuits.\n\nDans cette consultation, le médecin s’intéresse aussi aux appuis déjà essayés. Antonin raconte le mardi où Eva a pris les appels et le temps qu’il a eu pour déposer son vélo. Ce résultat lui importe même si ses nuits restent difficiles. Il pourra dire ce qu’il a trouvé possible et ce qu’il aimerait travailler avec une aide plus structurée."
+        },
+        {
+          "heading": "Décider d’une étape de soin avec le médecin",
+          "text": "Le NICE présente une prise en charge par étapes, ajustée à la gêne, aux préférences et à la réponse aux appuis déjà essayés. L’information sur le trouble et un suivi actif peuvent faire partie des premiers appuis. Selon la situation, des approches psychologiques structurées, dont une thérapie cognitivo-comportementale, ou un traitement médicamenteux peuvent être discutés avec un professionnel. Ces décisions concernent l’état de santé de la personne et les options adaptées à sa situation.\n\nAntonin demande comment accéder à un accompagnement psychologique et ce qu’ils peuvent revoir au prochain rendez-vous. Il peut aussi poser des questions sur les autres options, leurs effets attendus et leurs contraintes. Le médecin pourra l’orienter et préciser avec lui quand reprendre contact si son sommeil ou son fonctionnement se dégradent. Antonin garde la possibilité de poser d’autres questions avant de choisir."
+        }
+      ],
+      "ending_title": "Le rendez-vous suivant dans l’agenda",
+      "ending": "Ils conviennent d’un nouveau point et le médecin explique les possibilités d’accompagnement à examiner. Antonin inscrit la date dans son agenda. En sortant, il retrouve le ticket et écrit au dos le prénom du joueur qui leur avait prêté sa craie quand la leur s’était émiettée. Au même moment, Eva laisse un message. Le fournisseur de la porte du local doit revoir sa date de livraison. Antonin note l’heure à laquelle il lui répondra après être arrivé à l’école.",
+      "mirror": [
+        "Si Antonin a envie de parler avant le rendez-vous, Benoît peut lui dire ce qu’il a observé en restant sur son expérience. « Tu m’as dit que tu dormais peu. Je peux t’écouter raconter ce qui t’occupe la nuit, ou te laisser préparer l’entretien seul. » Plus tard, il peut proposer une autre partie à une heure qui convient à tous deux. Les décisions de soin restent entre Antonin et les professionnels qu’il consulte. Benoît peut l’accompagner s’il le lui demande."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete"
+      ],
+      "continuity": {
+        "choice": "Antonin décrit le retentissement sur ses nuits et convient d’une nouvelle consultation pour discuter des appuis.",
+        "next": "Le retard de la porte du local oblige l’école à revoir la durée du créneau provisoire des clarinettes."
+      }
+    },
+    {
+      "number": 6,
+      "slug": "antonin-livraison-en-retard",
+      "title": "La date que le fournisseur retire",
+      "description": "La livraison de la porte est retardée. Antonin et Eva doivent organiser les répétitions sans promettre une réouverture qu’ils ne maîtrisent pas.",
+      "context": "À l’école, au moment où le fournisseur décale la livraison de la porte du local",
+      "topics": [
+        "Retard du chantier",
+        "Incertitude réelle",
+        "Priorités"
+      ],
+      "opening": "Eva a entouré le mardi sur son calendrier quand le fournisseur appelle. La porte acoustique ne sera pas livrée cette semaine. L’entreprise annonce qu’elle donnera une nouvelle estimation après un point avec l’atelier. Le seuil a été repris par le service chargé des travaux. L’accès du public attend toujours la fin du chantier et sa validation. Antonin ouvre son cahier à la page de l’ensemble de clarinettes. Le professeur a accepté d’essayer la salle du haut et attend de savoir combien de temps durera l’arrangement.\n\nDans le couloir, un élève joue par morceaux la fin d’une mélodie pendant qu’un autre lui souffle les notes. Antonin finit par reconnaître le morceau de l’ancienne audition. Il voudrait leur demander d’où ils le tiennent. Il garde pourtant son téléphone à la main. Il a commencé un message au fournisseur où il demande la date, l’heure, la durée de la pose et le nom du premier ouvrier qui entrera sur place. Il sait déjà que certaines réponses ne seront disponibles qu’après le point annoncé.\n\nEva veut prévenir le professeur avant le cours du soir. Elle lui demande combien de dates ils peuvent proposer dans les salles en service. Antonin pense à la salle du haut, puis à la direction qui pourrait demander ce qu’il a fait pour accélérer la livraison. Il regarde le calendrier. Le mardi qu’Eva vient d’entourer tient encore. Le suivant lui échappe. Il n’a pas le nom de la personne qui peut autoriser un échange de salle pour ce soir-là.",
+      "sections": [
+        {
+          "heading": "Une incertitude a parfois des conséquences concrètes",
+          "text": "Un retard peut créer de vraies difficultés d’organisation et laisser en suspens plusieurs décisions. L’inquiétude d’Antonin s’appuie ici sur une livraison qui a changé et sur un groupe à prévenir. Le seuil repris et la porte attendue relèvent du chantier. L’ouverture reste soumise aux validations prévues. Antonin peut faire remonter le retard et demander quand viendra la prochaine information, tandis qu’Eva et lui examinent les salles qui peuvent effectivement être utilisées.\n\nL’inquiétude occupe une autre part de son temps quand il imagine devoir expliquer un manquement dont personne ne lui a parlé. Il voudrait répondre à cette éventualité avant de prévenir les musiciens. Son médecin peut l’aider à décrire cet enchaînement et son coût. Pour le professeur, l’information utile tient pour l’instant au créneau confirmé, à sa durée provisoire et à la personne qui le rappellera."
+        },
+        {
+          "heading": "Prévoir une réponse provisoire et son prochain point",
+          "text": "L’équipe peut vérifier une disponibilité avec la personne qui gère les salles et transmettre une proposition pour le premier mardi. Les autres dates restent ouvertes. Un message peut indiquer quand l’école réexaminera la question. Si le retard se prolonge, la direction pourra discuter d’autres priorités avec l’équipe. Aucun changement de salle ne devrait conduire à dépasser la capacité prévue ou à utiliser un local encore fermé.\n\nAntonin peut dire à Eva quelles décisions il a la possibilité de prendre et lui laisser les échanges qu’elle a déjà acceptés. Il peut aussi garder le contact prévu avec le fournisseur, une tâche distincte. Les réponses seront révisées si un élément nouveau arrive. Cette organisation sert à informer les personnes concernées sans faire porter à Antonin la date que l’entreprise ignore encore."
+        }
+      ],
+      "ending_title": "Un mardi reste possible",
+      "ending": "Eva contacte le professeur pour le premier mardi. Antonin note le prochain point annoncé par le fournisseur et transmet le retard à la direction. Il supprime de son brouillon les demandes qui n’ont pas encore de réponse. Dans le couloir, les deux élèves ont cessé de jouer. Il retrouve le titre du morceau sur la partition qu’ils ont laissée ouverte avec leur professeur. Il demandera à Eva si elle a retrouvé la personne qui avait joué à cette audition. La date de réouverture reste vide.",
+      "mirror": [
+        "Eva peut montrer à Antonin la date qu’elle sait tenir. « Je peux confirmer ce mardi au professeur. Pour le suivant, j’ai besoin que la direction nous dise si l’échange de salle est possible. » Elle peut faire remonter la question et préciser ce qu’elle peut annoncer. Si Antonin lui demande de promettre une date, elle peut lui dire ce que le fournisseur a réellement confirmé. Elle peut garder le contact avec lui sans prendre l’engagement d’être joignable chaque soir."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete"
+      ],
+      "continuity": {
+        "choice": "Antonin transmet le retard et convient avec Eva d’un créneau provisoire, en gardant la validation de l’ouverture en suspens.",
+        "next": "Après avoir informé la direction, il revient plusieurs fois vers Eva pour savoir comment elle croit que le message a été reçu."
+      }
+    },
+    {
+      "number": 7,
+      "slug": "antonin-avis-que-personne-na-donne",
+      "title": "L’avis que personne n’a encore donné",
+      "description": "Antonin revient sur le message envoyé à la direction. Eva peut lui dire ce qu’elle a lu et l’aider à préciser ce qui attend une réponse.",
+      "context": "À l’accueil de l’école, après le signalement du retard de la livraison",
+      "topics": [
+        "Réassurance",
+        "Incertitude relationnelle",
+        "Limites de l’aide"
+      ],
+      "opening": "La direction a répondu au message d’Antonin par « Bien reçu, à reprendre au point de jeudi ». Eva le relit en attendant que la machine termine son café. Elle comprend que l’équipe parlera du retard jeudi. Antonin, lui, voudrait savoir si la formule annonce un reproche. Il avait écrit qu’aucune date de réouverture n’était confirmée. Il a pensé ajouter qu’il avait rappelé le fournisseur deux jours plus tôt, puis a laissé cette précision de côté.\n\nÀ la sortie du premier cours, un élève lui demande où remettre le tabouret que le professeur lui a prêté. Antonin l’aide à lire le numéro au-dessous de l’assise et reconnaît le tabouret qu’il avait repeint l’été précédent. Il s’attarde à lui montrer le placard des sièges, où le troisième rang est enfin assez haut. Quand l’élève repart, il retrouve Eva au comptoir et lui demande de nouveau si le message paraît trop sec. Elle lui a déjà dit comment elle avait compris la réponse.\n\nEva replie le programme de l’atelier de percussions. Il lui reste deux inscriptions à traiter avant le cours. Antonin pose son téléphone de façon à lui montrer le texte entier. Il pourrait demander à une autre collègue ce qu’elle en pense. Il a aussi une question concrète, à propos de la personne qui doit être présente jeudi. Il s’aperçoit qu’il n’a pas encore formulé celle-là.",
+      "sections": [
+        {
+          "heading": "Un échange peut apaiser sans donner de certitude",
+          "text": "Les inquiétudes persistantes peuvent conduire à redemander comment interpréter une réponse qui laisse des choses ouvertes. Il arrive qu’une personne cherche à savoir si un autre la juge ou si une difficulté est aussi grave qu’elle le craint. Antonin connaît les mots écrits par la direction. Il voudrait aussi être certain du jugement qu’ils laissent présager. Eva peut dire ce qu’elle a compris, avec les limites de ce qu’elle sait. Son avis peut lui faire du bien un moment alors que le point de jeudi reste à venir.\n\nDans cette scène, Antonin revient au message comme il a pu revenir à une dépense ou à une inquiétude pour son frère. Le médecin examine l’ensemble de ces préoccupations. Le médecin peut lui demander ce qu’il attendait de la deuxième lecture et ce qui s’est passé ensuite. Eva peut garder sa place de collègue et répondre lorsqu’une information nouvelle est nécessaire à l’organisation."
+        },
+        {
+          "heading": "Proposer de l’écoute ou chercher une information",
+          "text": "Le rendez-vous de jeudi demande de savoir qui prépare le point de chantier. Antonin peut poser cette question à la personne qui fixe l’ordre du jour. Elle pourra lui répondre sur la présence attendue et les documents utiles. Eva peut l’aider à repérer cette demande. Si c’est surtout le sentiment d’être mis en cause qui lui pèse, il peut aussi lui dire qu’il voudrait en parler un instant, si elle est disponible.\n\nUne collègue peut entendre une inquiétude et poursuivre son travail après un échange bref. Eva a ses inscriptions à traiter. Elle peut donner une heure pour reprendre une question précise si le besoin demeure. Antonin peut conserver la formulation qu’il a envoyée et s’appuyer jeudi sur les faits du chantier."
+        }
+      ],
+      "ending_title": "Le nom à ajouter à l’invitation",
+      "ending": "Antonin demande à la direction qui doit assister au point. La responsable lui répond qu’elle attend aussi la personne qui suit la pose. Antonin lui transfère l’invitation, puis reprend le programme des percussions qu’Eva avait posé devant lui. L’atelier termine plus tôt jeudi. Il peut préparer la dernière salle sans y passer la soirée. Sur son téléphone, Benoît lui a envoyé l’heure du tournoi de billard par équipes. Il attend encore de savoir s’ils s’inscrivent.",
+      "mirror": [
+        "Eva peut dire ce qu’elle sait sans se prononcer sur le jugement de la direction. « J’ai compris qu’on en parlerait jeudi. Pour savoir qui doit venir, demande-leur. Je peux regarder cette question avec toi, puis je reprends les inscriptions. » Si Antonin veut surtout lui raconter ce qui lui fait craindre un reproche, elle peut l’écouter un moment et dire jusqu’à quelle heure elle est libre. Elle pourra lui transmettre un nouvel élément si elle en reçoit un."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete"
+      ],
+      "continuity": {
+        "choice": "Antonin demande qui doit venir jeudi et laisse pour la réunion ce que la réponse ne permet pas de connaître.",
+        "next": "Il choisit s’il garde la soirée de billard alors que la réunion sur les travaux vient de se terminer."
+      }
+    },
+    {
+      "number": 8,
+      "slug": "antonin-derniere-partie-du-jeudi",
+      "title": "Le coup que Benoît lui laisse",
+      "description": "Une fois le relais du soir organisé, Antonin rejoint Benoît au billard. Le chantier lui revient encore au moment de jouer.",
+      "context": "Après le point de chantier, le soir d’un tournoi de billard avec Benoît",
+      "topics": [
+        "Temps personnel",
+        "Activités choisies",
+        "Appui de l’entourage"
+      ],
+      "opening": "Benoît arrive devant la salle de billard avec deux queues empruntées au club. Il en tend une à Antonin et le prévient que celle-ci est plus lourde que celle dont il a l’habitude. Ils jouent en équipe pour la première fois depuis longtemps. Antonin n’a aucune idée du niveau des deux personnes qui les attendent. Il choisit la queue lourde parce que son frère préfère l’autre et parce qu’il a envie d’essayer un coup qu’il rate depuis l’hiver.\n\nÀ l’école, le point de chantier s’est achevé tard. La direction a fixé la prochaine décision à la réception de la nouvelle date. La personne qui assure la permanence de ce soir a repris la clé et les informations nécessaires. Elle a le numéro du service à prévenir si un incident survient. Avant de partir, Antonin a failli dire à Eva qu’il resterait joignable pour toute question. Elle lui a demandé si quelque chose était encore à transmettre. Il a ajouté le nom du professeur qui passe récupérer un pupitre, puis ils sont partis chacun de leur côté.\n\nDevant la table, il voit encore en pensée la ligne vide sur le calendrier. Il n’a rien promis sur la reprise. Le téléphone reste dans sa poche. Benoît lui demande de regarder les deux billes près de la bande. Antonin repère un angle qu’il aimerait lui montrer. Il met la queue sur le bord de la table et se décale pour laisser son frère voir le trajet.",
+      "sections": [
+        {
+          "heading": "L’intérêt pour une activité peut coexister avec l’inquiétude",
+          "text": "Une inquiétude persistante peut prendre du temps et compliquer la participation à une activité qu’on aime. Elle peut rester présente même pendant un moment agréable. Au billard, Antonin voudrait suivre ce qui se joue sur la table et pense encore au chantier par moments. Il peut raconter cette coexistence au médecin. Une soirée où il a réussi à venir donne une information sur sa vie. Elle dit aussi combien d’effort certains choix lui demandent encore.\n\nDans son suivi, le temps retrouvé pour les proches fait partie de ce qu’il veut préserver. Il peut dire ce qui l’a aidé à prendre part à cette soirée et ce qui était difficile avant de partir. Le relais organisé au travail répond à une question pratique. La discussion au cabinet peut porter sur la place que l’inquiétude prend une fois ce relais assuré."
+        },
+        {
+          "heading": "Passer le relais avant de quitter le travail",
+          "text": "La permanence a un rôle défini. Antonin peut transmettre l’accès et les renseignements utiles à la personne qui la tient. Si l’organisation change, l’école peut revoir qui sera disponible. Le fonctionnement des services reste assuré même lorsque le départ d’Antonin coïncide avec une période d’attente. Il peut demander ce qui justifierait qu’on le rappelle et à qui les autres questions seront adressées.\n\nBenoît peut avoir envie de jouer une partie entière ou préférer rentrer après le premier tour. Antonin peut lui dire ce qui lui convient aussi. Leur accord sur la soirée appartient aux deux frères. Ils n’ont pas besoin de savoir comment Antonin se sentira au dernier coup pour convenir de jouer le premier."
+        }
+      ],
+      "ending_title": "La bille le long de la bande",
+      "ending": "Antonin manque le coup qu’il voulait tenter. La bille revient assez près de celle de Benoît pour leur laisser une possibilité au tour suivant. Son frère lui demande s’il reste pour le verre après la partie. Antonin dit oui. Sur le chemin du retour, il se rappelle la ligne vide du calendrier et l’envie de proposer un relais du soir qui ne se négocie pas à chaque réunion. Il en parlera avec Eva pendant les heures de travail.",
+      "mirror": [
+        "Benoît peut poser les deux queues sur la table et demander laquelle Antonin préfère. « Je reste pour le premier tour. Après, on verra si on a envie de prendre un verre. » Si Antonin dit qu’il pense encore au travail, il peut l’écouter ou lui demander s’il veut regarder le prochain coup ensemble. Il garde le droit de parler de sa propre soirée. Il n’a pas besoin de vérifier que le relais fonctionne à l’école pour partager le billard."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete"
+      ],
+      "continuity": {
+        "choice": "Antonin laisse la permanence suivre les demandes du soir et reste au billard avec Benoît.",
+        "next": "Il souhaite que les responsabilités du soir soient discutées en équipe avant d’être décidées dans l’urgence."
+      }
+    },
+    {
+      "number": 9,
+      "slug": "antonin-planning-du-soir",
+      "title": "Les noms à inscrire sur le planning",
+      "description": "Antonin propose une répartition des permanences qui tienne compte du travail réel. Eva lui indique aussi les soirs qu’elle souhaite garder.",
+      "context": "Pendant une réunion d’équipe sur les permanences de l’école",
+      "topics": [
+        "Charge de travail",
+        "Permanences",
+        "Responsabilités partagées"
+      ],
+      "opening": "La directrice étale le planning des permanences sur la grande table où les élèves laissent leurs bouteilles d’eau. Elle a ajouté une colonne pour la période qui suivra la réouverture du local. Antonin lit quatre noms puis s’arrête devant la mention « si besoin ». Ces deux mots lui rappellent les soirs où il a gardé la clé dans sa poche au cas où un professeur appellerait. Il a presque toujours trouvé une façon d’aider. Il ne sait plus combien de fois il avait prévu autre chose.\n\nEva, à côté de lui, demande à quelle heure elle pourra prévenir les familles les jours où elle termine tôt. Le mercredi, elle a un cours de poterie qu’elle a déjà manqué deux fois. Antonin avait pensé lui proposer les messages de fin de journée, parce qu’elle a trouvé le créneau des clarinettes. Il voit que cette idée revient à lui donner une disponibilité qu’elle n’a pas proposée. Il veut mettre sur la table ce que la permanence doit couvrir et la façon dont l’école peut transmettre une question quand personne ne peut y répondre sur-le-champ.\n\nLa directrice demande si Antonin a déjà un nom pour le jeudi. Il pense à Benoît, qui a posé la craie de billard près de sa tasse en lui demandant de revenir la semaine suivante. Antonin aimerait savoir à l’avance quand il sera de permanence. Il ouvre son cahier à la page de la dernière réunion et demande si l’équipe peut d’abord définir les tâches de ce créneau.",
+      "sections": [
+        {
+          "heading": "Une inquiétude peut aussi tenir à des consignes floues",
+          "text": "Un engagement mal défini peut créer des raisons légitimes de s’inquiéter. Le fait de vivre avec une anxiété généralisée n’enlève rien à ce problème. Antonin a besoin de savoir quelles demandes arrivent en soirée et qui répond en cas d’incident. La directrice peut préciser ce que l’école attend des personnes de permanence. Les attentes réelles font partie du contexte que le médecin peut prendre en compte lorsqu’Antonin décrit des difficultés au travail.\n\nLe reste ne se règle pas tout entier en complétant un planning. Même si un nom apparaît, Antonin peut se demander si cette personne trouvera la clé ou si un professeur lui en voudra d’être parti. Il peut parler au médecin de ce que ces pensées lui demandent. Au travail, il peut poser la question de la transmission avec l’équipe et entendre que chacun a ses propres disponibilités."
+        },
+        {
+          "heading": "Donner un contenu à la permanence",
+          "text": "L’équipe peut fixer l’heure jusqu’à laquelle un membre du personnel est joignable, le circuit en cas de problème et le lieu où retrouver les informations. La direction garde la responsabilité d’organiser une couverture compatible avec les activités de l’école. Si aucun nom ne convient pour une date, la question revient à la direction plutôt qu’à la personne qui répond le plus souvent.\n\nAntonin peut indiquer les soirs où il est disponible et proposer une date pour faire le point après la réouverture. Eva peut demander à conserver son mercredi. La raison qu’elle donne suffit pour organiser son temps, même si les autres ne connaissent pas les détails de son cours. Antonin peut lui aussi parler de ses disponibilités sans expliquer sa situation de santé devant toute l’équipe."
+        }
+      ],
+      "ending_title": "Le mercredi laissé libre",
+      "ending": "Eva inscrit son nom sur deux lundis et garde son mercredi. Antonin choisit les jeudis où il peut tenir la permanence et laisse les autres à décider. La directrice note les points à résoudre avant d’annoncer le planning. En fin de réunion, le service des travaux envoie une date de pose. Un essai sur place et la validation de la remise en service restent nécessaires. Antonin transmet la date à Eva, qui pourra dire aux clarinettes quand elles en sauront davantage.",
+      "mirror": [
+        "Eva peut montrer le mercredi dans son agenda et dire clairement qu’elle ne peut pas l’assurer. « Je peux prendre le lundi. Pour les autres soirs, voyons d’abord ce que la permanence demande et qui peut couvrir les horaires. » Si Antonin commence à reprendre toutes les cases libres, elle peut lui demander lesquelles il a vraiment proposées. Elle peut faire remonter avec lui une case sans solution à la directrice et laisser l’organisation se décider en équipe."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete"
+      ],
+      "continuity": {
+        "choice": "Antonin demande de préciser la permanence, annonce ses disponibilités et laisse les autres créneaux à l’équipe.",
+        "next": "La porte est posée. Le local attend un essai et une décision de remise en service pendant qu’Antonin revoit son médecin."
+      }
+    },
+    {
+      "number": 10,
+      "slug": "antonin-essai-porte-fermee",
+      "title": "Ce qu’on entend porte fermée",
+      "description": "Le local passe son essai et le médecin revoit le suivi d’Antonin. Une bonne nouvelle au travail ne fait pas disparaître les autres inquiétudes.",
+      "context": "À l’essai de la salle après les travaux, puis au rendez-vous de suivi",
+      "topics": [
+        "Suivi dans le temps",
+        "Retentissement",
+        "Appui professionnel"
+      ],
+      "opening": "Le technicien pose son matériel près du local et demande à Antonin de rester dans le couloir. Eva a fait venir le professeur qui connaît la sonorité de la pièce. Il joue un passage, ferme la porte au moment convenu, puis reprend. À travers le mur, Antonin perçoit un bruit sourd, bien différent de ce qu’il entendait avant les travaux. Il s’imagine raconter à Benoît qu’il reconnaît désormais un morceau à ce qui en reste derrière une porte. Le réparateur doit encore le prévenir que son vélo est prêt. Ce matin, il prendra le bus jusqu’au cabinet, comme il l’avait fait pour le billard.\n\nLe technicien indique quand le rapport sera transmis et à qui. Antonin voudrait lui demander s’il peut déjà garantir que le local sera prêt pour la reprise. Il voit Eva noter l’heure du retour dans le cahier. Le professeur a encore une question sur le rangement des étuis. Antonin lui montre le dessin des placards qu’il a fait pour le premier groupe. Il connaît ce qu’il lui reste à préparer, même si la décision de réouverture attend.\n\nAu cabinet, il raconte au médecin l’essai de la porte, le relais qui lui a permis de jouer et les nuits où il s’est encore demandé qui pourrait être mécontent de lui. Depuis leur dernière rencontre, il a pris contact pour un accompagnement psychologique et attend le premier entretien. Il veut savoir ce qu’ils peuvent suivre d’ici là. Il n’a pas envie de présenter le chantier qui avance comme la réponse à toutes les questions du rendez-vous.",
+      "sections": [
+        {
+          "heading": "Le progrès se regarde dans plusieurs situations",
+          "text": "Le suivi de l’anxiété généralisée tient compte de la gêne et du fonctionnement dans le temps, dans plusieurs domaines. Un changement au travail peut améliorer une partie de la journée sans modifier le sommeil ou les préoccupations familiales. Antonin peut dire à la fois qu’il a gardé une soirée, qu’il a moins de décisions urgentes sur le chantier et qu’il a encore des réveils difficiles. Ces éléments aident son médecin à comprendre ce qui change et ce qui continue à lui coûter.\n\nDes étapes de soin peuvent être revues à partir de ce que la personne souhaite et de la réponse aux appuis déjà essayés. Antonin a demandé un entretien psychologique. Il peut parler du délai et de ce qu’il attend de la rencontre. Avec son médecin, il peut aussi convenir de ce qu’ils réexamineront si les difficultés s’accentuent ou si le délai s’allonge."
+        },
+        {
+          "heading": "Laisser chaque décision à la bonne personne",
+          "text": "Le rapport du technicien renseignera l’école sur les essais et la direction prendra la décision d’ouvrir selon les validations nécessaires. Antonin peut continuer à préparer les informations dont le premier groupe aura besoin, avec Eva. Il peut aussi se renseigner sur le délai prévu pour son accompagnement auprès de la personne qui le recevra. Ces deux attentes demandent des réponses différentes.\n\nPour son rendez-vous, il lui suffit de dire ce qui lui permet de tenir sa journée et ce qui lui pèse encore. Le médecin peut lui poser des questions ou proposer de revenir sur certains points plus tard. L’examen du local et le bilan du suivi ont chacun leur objet. Antonin garde une place dans les décisions de soin, y compris pour expliquer qu’une option lui paraît peu praticable."
+        }
+      ],
+      "ending_title": "Le rapport attendu à l’école",
+      "ending": "Antonin convient d’un nouveau point avec son médecin et lui demande comment reprendre contact si l’attente devient difficile. En rentrant, il reçoit le compte rendu technique avec Eva. La direction peut examiner la remise en service. Il ouvre le dessin des placards et ajoute un espace pour les étuis les plus longs. Le professeur pourra lui dire s’il en faut davantage. Antonin s’aperçoit qu’il a envie d’entendre le morceau entier la première fois qu’il sera joué dans la salle.",
+      "mirror": [
+        "Eva peut lui donner la date du prochain retour technique et le nom de la personne qui décidera. « J’attends le rapport pour l’envoyer à la direction. Toi, tu voulais regarder le rangement avec le professeur. » S’il lui dit qu’il pense encore au local le soir, elle peut lui demander s’il veut en parler ou seulement vérifier la répartition. Elle peut aussi lui rappeler l’heure à laquelle elle quitte l’école. La validation de la salle suivra le circuit annoncé."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete"
+      ],
+      "continuity": {
+        "choice": "Antonin convient avec le médecin d’un point pendant l’attente et prépare l’accueil sans annoncer l’ouverture avant validation.",
+        "next": "Une fois l’ouverture autorisée, les clarinettes reprennent leur place et Antonin transmet la permanence à l’équipe du soir."
+      }
+    },
+    {
+      "number": 11,
+      "slug": "antonin-repetition-reprend",
+      "title": "Les clarinettes retrouvent la salle",
+      "description": "Le local a reçu son autorisation de rouvrir. Antonin accueille l’ensemble de clarinettes et choisit quand passer la clé à la permanence.",
+      "context": "Lors de la première répétition dans le local remis en service",
+      "topics": [
+        "Reprise d’activité",
+        "Relais au travail",
+        "Inquiétude persistante"
+      ],
+      "opening": "Le professeur de clarinette tient l’autorisation de reprise que la direction a envoyée. Antonin a attendu cette confirmation pour déplacer l’étiquette sur le tableau. La première musicienne arrive avec un étui carré dont personne n’avait prévu la largeur. Elle essaie de le glisser avec les autres, puis le reprend pour laisser le passage libre. Antonin lui montre un rangement utilisable et note qu’il devra revoir la place des grands étuis. Une autre élève reconnaît la chaise du couloir à son pied en caoutchouc neuf. Elle demande si c’est lui qui l’a réparée.\n\nQuand le groupe commence, Antonin reste près de l’entrée. Il reconnaît le morceau de l’ancienne audition. Cette fois, il entend ce que les élèves laissaient de côté en le jouant dans le couloir. Eva se tient près du cahier avec la collègue qui prend la permanence. Antonin leur indique l’endroit où il a déplacé le rangement provisoire et le contact prévu si le matériel pose un problème. La collègue lui demande de lui montrer le placard des pupitres avant qu’il parte.\n\nIl peut le faire. Il voudrait aussi attendre le dernier musicien et s’assurer qu’aucun étui ne traîne. À ce moment-là, Eva s’en va chercher ses affaires. Elle lui rappelle l’heure qu’il avait annoncée sur le planning. Son vélo est revenu de l’atelier. Il a prévu de rentrer par les rues où il y a le moins de pente, en passant par la place du billard.",
+      "sections": [
+        {
+          "heading": "Une bonne nouvelle peut laisser des inquiétudes ouvertes",
+          "text": "Les inquiétudes liées à l’anxiété généralisée peuvent persister quand une difficulté réelle vient de se résoudre. Le local est ouvert et le groupe joue. Antonin se demande encore ce qui pourrait se produire après son départ. Il peut observer l’effort que lui demande cette fin de journée et en parler au médecin, même s’il apprécie la répétition. L’intérêt pour son métier, le plaisir du moment et le souhait de rentrer à son heure peuvent tous faire partie de ce qu’il décrit.\n\nL’ouverture répond à des validations que l’école a reçues. Antonin a encore des tâches qui découlent de la reprise, comme vérifier avec le professeur le rangement adapté aux étuis. La question de sa présence jusqu’à la fin dépend de ce qu’il est convenu qu’il fasse. Les deux sujets peuvent être examinés séparément avec l’équipe."
+        },
+        {
+          "heading": "Un problème d’étui et une heure de départ",
+          "text": "La musicienne a signalé une difficulté précise. Antonin peut indiquer quel espace utiliser pour l’instant et noter le point à revoir avec le professeur. La collègue de permanence doit savoir où trouver le matériel et comment transmettre un incident. Elle peut dire s’il lui manque une information. Les vérifications de fermeture restent confiées à la personne désignée et suivent les consignes de l’école.\n\nUne fois le relais effectué, Antonin peut décider s’il veut écouter encore un passage ou rentrer. Sa présence peut être agréable pour lui sans devenir une responsabilité du soir. Il peut aussi convenir d’un autre moment pour entendre le groupe. Eva a déjà prévu son départ et peut lui dire ce qu’elle a pris en charge. Elle lui laisse le choix de sa soirée."
+        }
+      ],
+      "ending_title": "La clé change de main",
+      "ending": "Antonin montre le placard, remet la clé à la collègue de permanence et écoute une dernière mesure près de la porte. Il ne sait pas ce que donneront les semaines suivantes. En descendant l’escalier, il entend le professeur reprendre deux notes avec tout le groupe. Il sort son vélo et part vers la place. La roue tourne sans frotter. Il s’arrête devant le billard pour écrire à Benoît que la salle de musique et le vélo ont repris le même jour.",
+      "mirror": [
+        "Eva peut dire où le relais en est. « La permanence a le contact. Il lui manque seulement le placard des pupitres. Après, tu as dit que tu partais. Tu veux lui montrer et me retrouver à l’entrée ? » Elle peut entendre qu’Antonin préfère rester écouter un morceau. La collègue de permanence garde la clé et la responsabilité de la fin du service. Eva peut partir à son heure et reparler du rangement avec lui lors du prochain point."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete"
+      ],
+      "continuity": {
+        "choice": "Antonin accueille le groupe, transmet le matériel et la clé à la permanence, puis rentre à vélo.",
+        "next": "Quand l’école prépare une audition, Antonin choisit ce qu’il veut encore prendre en charge et garde un temps pour la suite de son suivi."
+      }
+    },
+    {
+      "number": 12,
+      "slug": "antonin-venir-comme-auditeur",
+      "title": "Une place au fond de la salle",
+      "description": "L’école prépare une audition. Antonin garde une tâche précise et choisit d’écouter le reste depuis la salle, avec Benoît s’il le souhaite.",
+      "context": "Après la réouverture, lors de la préparation d’une audition à l’école de musique",
+      "topics": [
+        "Continuité des soins",
+        "Choix de vie",
+        "Limites au travail"
+      ],
+      "opening": "Eva affiche le programme de l’audition à côté de la porte. Le nom du morceau joué par les clarinettes y figure enfin en entier. Elle a laissé un espace pour écrire le nom des élèves qui souhaitent se présenter eux-mêmes. Antonin se penche pour remettre un coin de ruban. Quelques semaines plus tôt, il aurait préparé la salle, accueilli les familles, récupéré les étuis et repris chaque question restée ouverte. Il a envie, cette fois, d’être assis quand les élèves commenceront. Il aime le bruit qui précède la première note, quand chacun cherche encore sa place.\n\nL’équipe lui demande de préparer les sièges avant l’accueil. Eva s’occupe du programme et la permanence a été attribuée. Antonin demande à quel moment les portes ouvriront et qui lui donnera le nombre de personnes attendues. Il a envie de demander aussi si la personne chargée de l’accueil saura où mettre les familles qui arrivent après le premier morceau. Eva lui indique le plan affiché près de l’entrée. Il remarque que sa question suivante concerne déjà ce que quelqu’un pourrait penser de lui s’il reste assis.\n\nDans sa poche, il a le papier avec l’heure du premier entretien psychologique. Il en a parlé au médecin, qui continue à le suivre. Les réveils n’ont pas disparu. Certaines soirées, il a encore l’impression que tout pourrait attendre de lui une réponse. Il choisit d’écrire à Benoît pour lui proposer une place près de la sienne et lui dit qu’il peut aussi préférer leur partie du jeudi.",
+      "sections": [
+        {
+          "heading": "Le suivi peut tenir compte de ce qui change",
+          "text": "L’accompagnement de l’anxiété généralisée s’ajuste à ce qui pèse sur la personne, à ses préférences et à la réponse aux aides déjà essayées. Quand un chantier se termine, certaines contraintes de travail disparaissent et d’autres peuvent revenir sous une forme différente. Antonin continue de faire le point avec son médecin. Il peut décrire ses nuits, ses décisions au travail et le temps qu’il arrive à passer avec son frère. Le premier entretien psychologique lui donne un autre endroit où parler de ce qui lui importe et poser des questions sur les options proposées.\n\nUne activité qui reprend ne résume pas l’évolution d’un trouble. Antonin peut apprécier l’audition et ressentir de nouveau de l’inquiétude sur ce qu’on attend de lui. Il garde le choix d’en parler, de demander un appui plus tôt si la gêne s’accentue et de dire quels objectifs lui semblent adaptés maintenant."
+        },
+        {
+          "heading": "Conserver une place pour écouter",
+          "text": "Le déroulement de l’audition dépend de plusieurs personnes. Antonin peut préparer les sièges selon le plan et laisser les décisions d’accueil à la permanence. Une information nouvelle peut bien sûr lui être transmise si elle concerne sa part. Il peut aussi dire à Eva qu’il aimerait rester dans le public après avoir terminé. Elle pourra lui indiquer s’il reste un besoin précis et voir avec lui comment y répondre.\n\nBenoît n’a pas besoin de connaître le planning de l’école pour choisir s’il vient. Il peut proposer l’audition ou le billard en fonction de ses envies. Antonin peut lui raconter sa semaine, lui montrer le morceau sur le programme ou simplement partager une heure de musique. Le rendez-vous médical et le temps qu’il choisit pour lui gardent chacun leur place."
+        }
+      ],
+      "ending_title": "Le silence avant la première note",
+      "ending": "Benoît accepte l’audition et propose de jouer une autre fois. Antonin garde deux places au fond après avoir préparé la salle. Avant de s’asseoir, il remarque qu’un pied grince sur le sol et en parle à la personne qui assure l’accueil. Puis il rejoint son frère. Benoît lui demande s’il connaît le morceau. Antonin reconnaît les deux notes qui l’ouvraient dans le couloir. Il baisse la voix pour les fredonner, puis se tait quand les élèves lèvent leurs instruments.",
+      "mirror": [
+        "Benoît peut répondre en disant ce qui lui fait envie. « Je viens écouter avec toi. Je te retrouve à l’entrée, et on peut garder le billard pour une autre semaine. » S’il entend Antonin reparler de ce qu’il reste à faire, il peut lui demander s’il a besoin de transmettre une information ou s’il veut entrer avec lui. Une fois assis, il peut lui demander quel morceau il attend. Leur place dans le public ne dépend pas de ce qu’Antonin a raconté en consultation."
+      ],
+      "sources": [
+        "oms-cddr",
+        "nice-anxiete"
+      ],
+      "continuity": {
+        "choice": "Antonin définit sa part dans l’audition, garde sa place parmi le public et prévoit de poursuivre le suivi.",
+        "next": "Il retrouvera son médecin après le premier entretien psychologique et l’équipe reprendra l’organisation des permanences au prochain bilan."
+      }
+    }
+  ]
+}

@@ -110,9 +110,24 @@ def excerpt(paragraph: str) -> str:
     return ' '.join(chosen)
 
 
+def load_article_mirrors() -> dict[str, list[str]]:
+    mirrors = {}
+    for path in sorted((ROOT / 'data/article_mirrors').glob('*.json')):
+        for identifier, paragraphs in json.loads(path.read_text()).items():
+            if identifier in mirrors:
+                raise ValueError(f'Duplicate perspective for relatives: {identifier}')
+            if not isinstance(paragraphs, list) or not 1 <= len(paragraphs) <= 2 or any(
+                not isinstance(p, str) or not p.strip() or '\n' in p or re.search(r'<[^>]+>', p) for p in paragraphs
+            ) or not 40 <= len(WORD.findall(' '.join(paragraphs))) <= 160 or sum(map(len, paragraphs)) > 1200:
+                raise ValueError(f'Expected one or two paragraphs of concrete support for relatives: {identifier}')
+            mirrors[identifier] = paragraphs
+    return mirrors
+
+
 def build(write: bool = True) -> tuple[dict, dict]:
     output, report = {}, {'articles': 0, 'h3_definitions': [], 'short_complete_definitions': [], 'long_complete_definitions': []}
     article_topics = json.loads((ROOT / 'data/parcours_topics.json').read_text())
+    mirrors = load_article_mirrors()
     for path in sorted((ROOT / 'content/posts').rglob('*.md')):
         if path.name == '_index.md':
             continue
@@ -125,6 +140,8 @@ def build(write: bool = True) -> tuple[dict, dict]:
             continue
         body = split[2]
         identifier = path.relative_to(ROOT / 'content').with_suffix('').as_posix()
+        if identifier not in mirrors:
+            raise ValueError(f'Missing perspective for relatives: {identifier}')
         first_heading = HEADING.search(body)
         if not first_heading:
             raise ValueError(f'No section after the opening scene: {identifier}')
@@ -137,7 +154,9 @@ def build(write: bool = True) -> tuple[dict, dict]:
         ) or len({normalized(topic) for topic in topics}) != len(topics):
             raise ValueError(f'Expected two or three distinct reading concepts: {identifier}')
         candidates = sections(body)
-        definition = next((s for s in candidates if any(marker in normalized(s['heading']) for marker in DEFINITION_MARKERS)), None)
+        clinical = re.search(r'^editorial_pack:\s*clinical-v17\s*$', split[1], re.MULTILINE)
+        definition = candidates[0] if clinical and candidates else next(
+            (s for s in candidates if any(marker in normalized(s['heading']) for marker in DEFINITION_MARKERS)), None)
         if not definition or not definition['paragraphs']:
             raise ValueError(f'No explanatory definition section; review manually: {identifier}')
         paragraph = definition['paragraphs'][0]
@@ -162,6 +181,8 @@ def build(write: bool = True) -> tuple[dict, dict]:
         output[identifier] = entry
     if stale_topics := article_topics.keys() - output.keys():
         raise ValueError('Reading concepts without a published article: ' + ', '.join(sorted(stale_topics)))
+    if stale_mirrors := mirrors.keys() - output.keys():
+        raise ValueError('Perspectives without a published article: ' + ', '.join(sorted(stale_mirrors)))
     report['articles'] = len(output)
     if write:
         TARGET.write_text(json.dumps(output, ensure_ascii=False, indent=2) + '\n')

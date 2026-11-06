@@ -1,0 +1,250 @@
+{
+  "references": {
+    "oms-cddr": {
+      "title": "OMS, descriptions cliniques de la CIM-11",
+      "url": "https://www.who.int/publications/i/item/9789240077263"
+    },
+    "nice-tdah": {
+      "title": "NICE NG87, évaluation et accompagnement du TDAH",
+      "url": "https://www.nice.org.uk/guidance/ng87/chapter/recommendations"
+    },
+    "nice-toc": {
+      "title": "NICE CG31, prise en charge du TOC",
+      "url": "https://www.nice.org.uk/guidance/cg31/chapter/Recommendations"
+    },
+    "has-depression": {
+      "title": "HAS, épisode dépressif caractérisé chez l’adulte",
+      "url": "https://www.has-sante.fr/jcms/c_1739917/fr/episode-depressif-caracterise-de-l-adulte-prise-en-charge-en-premier-recours"
+    },
+    "nice-depression": {
+      "title": "NICE NG222, dépression de l’adulte",
+      "url": "https://www.nice.org.uk/guidance/NG222/chapter/recommendations"
+    },
+    "nice-bipolaire": {
+      "title": "NICE CG185, évaluation et prise en charge du trouble bipolaire",
+      "url": "https://www.nice.org.uk/guidance/cg185/chapter/recommendations"
+    },
+    "nice-autisme": {
+      "title": "NICE CG142, accompagnement des adultes autistes",
+      "url": "https://www.nice.org.uk/guidance/cg142/chapter/Recommendations"
+    },
+    "nice-anxiete": {
+      "title": "NICE CG113, anxiété généralisée et trouble panique chez l’adulte",
+      "url": "https://www.nice.org.uk/guidance/cg113/chapter/Recommendations"
+    },
+    "nice-ptsd": {
+      "title": "NICE NG116, trouble de stress post-traumatique",
+      "url": "https://www.nice.org.uk/guidance/ng116/chapter/Recommendations"
+    },
+    "nice-jeu": {
+      "title": "NICE NG248, repérage et accompagnement des dommages liés aux jeux d’argent",
+      "url": "https://www.nice.org.uk/guidance/ng248/chapter/recommendations"
+    },
+    "nice-tca": {
+      "title": "NICE NG69, repérage et prise en charge des troubles des conduites alimentaires",
+      "url": "https://www.nice.org.uk/guidance/ng69/chapter/recommendations"
+    },
+    "nice-personnalite": {
+      "title": "NICE CG78, accompagnement des personnes présentant un profil borderline",
+      "url": "https://www.nice.org.uk/guidance/cg78/chapter/Recommendations"
+    },
+    "certification-ferroviaire": {
+      "title": "Directive 2007/59/CE, article 18.2, signalement en cas d’aptitude mise en cause",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A02007L0059-20190708"
+    },
+    "ameli-urgence-thoracique": {
+      "title": "Assurance Maladie, reconnaître une douleur thoracique qui nécessite des soins urgents",
+      "url": "https://www.ameli.fr/assure/sante/themes/douleur-thoracique/reconnaitre-agit-urgence"
+    }
+  },
+  "dossiers": {
+    "6A05": {
+      "name": "TDAH chez l’adulte",
+      "references": [
+        "oms-cddr",
+        "nice-tdah"
+      ],
+      "points": [
+        "Le diagnostic professionnel repose sur l’histoire du développement, le retentissement et plusieurs contextes. Une distraction ou un questionnaire isolé ne suffit pas. OMS 6A05, NICE NG87 §1.3.",
+        "Les aménagements de l’environnement et le plan de soins discuté avec la personne tiennent compte de son quotidien, de ses objectifs et de ses ressources. NICE NG87 §1.4.3 et §1.5.",
+        "L’implication d’un proche et les informations partagées se discutent avec la personne. NICE NG87 §1.5.3."
+      ],
+      "aliases": [
+        "TDAH"
+      ]
+    },
+    "6B20": {
+      "name": "Trouble obsessionnel-compulsif",
+      "references": [
+        "oms-cddr",
+        "nice-toc"
+      ],
+      "points": [
+        "Les obsessions et compulsions peuvent être visibles ou mentales. Un goût pour l’ordre ou une vérification utile ne permet pas de conclure à un TOC. OMS 6B20, NICE CG31 §1.5.2.",
+        "L’exposition avec prévention de la réponse est une démarche thérapeutique structurée qui se discute avec un professionnel. Aucune mise à l’épreuve improvisée par un proche. NICE CG31 §1.5.",
+        "Quand l’entourage participe aux rituels ou à la réassurance, un plan de soins peut l’aider à réduire cette participation avec tact. Les préférences et l’accord de la personne guident l’implication. NICE CG31 §1.5.2."
+      ],
+      "aliases": [
+        "TOC"
+      ]
+    },
+    "6A71": {
+      "name": "Trouble dépressif récurrent",
+      "references": [
+        "oms-cddr",
+        "has-depression",
+        "nice-depression"
+      ],
+      "points": [
+        "La récurrence renvoie à plusieurs épisodes cliniques séparés, et une journée difficile ne permet pas de conclure à une rechute. OMS 6A71.",
+        "Le suivi porte sur les symptômes, le retentissement, les priorités de la personne et les risques. Les décisions de soins sont partagées et réévaluées. HAS, NICE NG222.",
+        "Un proche peut proposer une aide concrète ou accompagner un rendez-vous si la personne le souhaite. La gestion du soin ou d’une crise relève de professionnels. HAS et NICE NG222."
+      ],
+      "aliases": [
+        "Dépression récurrente"
+      ]
+    },
+    "6A60": {
+      "name": "Trouble bipolaire de type I",
+      "references": [
+        "oms-cddr",
+        "nice-bipolaire"
+      ],
+      "points": [
+        "Le trouble bipolaire de type I implique au moins un épisode maniaque ou mixte établi cliniquement, actuel ou passé, dans la CIM-11. L’enthousiasme ordinaire ou une nuit hachée ne constitue pas un épisode. OMS 6A60.",
+        "Un plan élaboré avec la personne et les soignants peut identifier des signes individuels, le rôle d’un proche et les contacts à mobiliser en cas de difficulté. NICE CG185 §1.4 et §1.7.",
+        "La personne peut discuter de ce qu’elle souhaite partager avec ses proches et de l’appui qu’elle veut recevoir. Les ajustements de traitement relèvent de l’équipe de soins. NICE CG185."
+      ],
+      "aliases": [
+        "Bipolarité type I"
+      ]
+    },
+    "6A02": {
+      "name": "Autisme",
+      "references": [
+        "oms-cddr",
+        "nice-autisme"
+      ],
+      "points": [
+        "L’autisme est une condition du neurodéveloppement, avec des présentations et besoins divers. Le vécu du personnage illustre une situation possible. OMS 6A02.",
+        "L’accompagnement part des préférences de la personne, des modes de communication accessibles et des caractéristiques de l’environnement. NICE CG142 §1.1.",
+        "L’entourage participe selon le choix de la personne. Des aménagements choisis peuvent rendre le travail et la vie collective plus accessibles. NICE CG142 §1.1 et §1.4."
+      ],
+      "aliases": [
+        "TSA"
+      ]
+    },
+    "6B00": {
+      "name": "Trouble anxieux généralisé",
+      "references": [
+        "oms-cddr",
+        "nice-anxiete"
+      ],
+      "points": [
+        "L’inquiétude persistante et le retentissement concernent plusieurs aspects du quotidien. Une précaution adaptée à un risque réel ne permet pas de conclure à un trouble. OMS 6B00, NICE CG113 §1.2.",
+        "Le niveau d’accompagnement dépend de la gêne, des préférences et des réponses aux appuis déjà essayés. Des approches psychologiques structurées peuvent être discutées avec un professionnel. NICE CG113 §1.2.",
+        "Distinguer l’aide pratique choisie de la recherche répétée d’une certitude. Les procédures de sécurité habituelles gardent leur place dans la fiction."
+      ],
+      "aliases": [
+        "TAG",
+        "Anxiété généralisée"
+      ]
+    },
+    "6B40": {
+      "name": "Trouble de stress post-traumatique",
+      "references": [
+        "oms-cddr",
+        "nice-ptsd",
+        "certification-ferroviaire"
+      ],
+      "points": [
+        "Un rappel peut s’accompagner de réactions vives. Le trouble correspond à un ensemble évalué cliniquement, pas à une seule réaction ou au fait d’avoir vécu un événement difficile. OMS 6B40.",
+        "Les approches centrées sur le trauma se discutent avec des professionnels formés. Ne pas forcer le récit ni organiser une confrontation à un rappel. NICE NG116 §1.6.",
+        "Les proches peuvent s’accorder sur les gestes qui aident, sur la façon de respecter le choix de parler et sur les relais si nécessaire. NICE NG116 §1.4 et §1.6.",
+        "Pour la conduite ferroviaire, un conducteur qui estime que son état de santé remet en cause son aptitude avertit immédiatement son entreprise ou son gestionnaire. La confidentialité du récit de santé et le signalement utile à la sécurité sont distincts. Directive 2007/59/CE art. 18.2."
+      ],
+      "aliases": [
+        "TSPT",
+        "PTSD"
+      ]
+    },
+    "6C50": {
+      "name": "Trouble lié aux jeux d’argent",
+      "references": [
+        "oms-cddr",
+        "nice-jeu"
+      ],
+      "points": [
+        "L’évaluation considère le contrôle du jeu et les dommages dans la vie, pas uniquement le montant d’une perte. Distinguer jeux d’argent et jeux vidéo. OMS 6C50 et NICE NG248.",
+        "On peut discuter d’aides spécialisées, d’outils volontaires de limitation d’accès et d’un accompagnement budgétaire. Aucun conseil pour jouer ou récupérer des pertes. NICE NG248.",
+        "Les proches peuvent demander un soutien pour eux-mêmes et fixer des limites à l’aide financière. En situation urgente, passer le relais aux services compétents. NICE NG248."
+      ],
+      "aliases": [
+        "Jeux d’argent",
+        "Jeu pathologique"
+      ]
+    },
+    "6A61": {
+      "name": "Trouble bipolaire de type II",
+      "references": [
+        "oms-cddr",
+        "nice-bipolaire"
+      ],
+      "points": [
+        "La CIM-11 distingue le type II par des épisodes hypomaniaques et dépressifs, sans épisode maniaque ni mixte. Cette distinction se fait à partir de l’évolution clinique, pas d’une journée productive. OMS 6A61.",
+        "Le suivi réévalue le fonctionnement, les signes personnels et les options de prise en charge avec la personne. Les changements de traitement relèvent de l’équipe de soins. NICE CG185.",
+        "Avec accord, un proche peut connaître les signes discutés et le relais choisi, sans surveiller chaque variation de l’humeur. NICE CG185 §1.1 et §1.4."
+      ],
+      "aliases": [
+        "Bipolarité type II"
+      ]
+    },
+    "6B01": {
+      "name": "Trouble panique",
+      "references": [
+        "oms-cddr",
+        "nice-anxiete",
+        "ameli-urgence-thoracique"
+      ],
+      "points": [
+        "Une attaque de panique n’établit pas à elle seule un trouble panique. L’évaluation examine les épisodes, leurs suites, le retentissement et les autres explications. OMS 6B01.",
+        "Une douleur thoracique nouvelle ou un autre signe aigu ne doit pas être attribué à la panique sans évaluation appropriée. NICE CG113 §1.3.",
+        "Des soins structurés, dont une approche cognitivo-comportementale, peuvent être discutés selon la situation et les préférences. Les proches aident selon les choix de la personne. NICE CG113 §1.3."
+      ],
+      "aliases": [
+        "Attaques de panique"
+      ]
+    },
+    "6B80": {
+      "name": "Anorexie mentale",
+      "references": [
+        "oms-cddr",
+        "nice-tca"
+      ],
+      "points": [
+        "L’évaluation spécialisée tient compte des comportements, du vécu, du retentissement et de l’état physique. L’apparence ne permet pas de conclure. OMS 6B80, NICE NG69 §1.2.",
+        "Les risques médicaux sont évalués par l’équipe soignante et la prise en charge peut être coordonnée entre plusieurs professionnels. Aucun nombre, régime, objectif de poids ni conseil d’autogestion du risque. NICE NG69 §1.3 et §1.11.",
+        "Les proches peuvent s’informer et proposer un appui choisi, sans commenter l’apparence ni prendre la place des professionnels. NICE NG69 §1.1 et §1.3."
+      ],
+      "aliases": [
+        "Anorexie"
+      ]
+    },
+    "6D10": {
+      "name": "Trouble de la personnalité avec profil borderline",
+      "references": [
+        "oms-cddr",
+        "nice-personnalite"
+      ],
+      "points": [
+        "Le trouble de la personnalité se décrit dans la CIM-11 par le retentissement durable sur le fonctionnement personnel et relationnel. Le profil borderline est un qualificatif, pas une conclusion à tirer d’un conflit. OMS 6D10 et 6D11.5.",
+        "Le plan de soins et le plan de crise se construisent avec la personne, des soins psychologiques structurés et un suivi adapté. NICE CG78 §1.3.",
+        "La participation des proches dépend de l’accord de la personne et de la confidentialité. Les choix restent révisables. Éviter les stéréotypes et les étiquettes d’intention. NICE CG78 §1.1 et §1.3."
+      ],
+      "aliases": [
+        "Profil borderline",
+        "Trouble borderline"
+      ]
+    }
+  }
+}

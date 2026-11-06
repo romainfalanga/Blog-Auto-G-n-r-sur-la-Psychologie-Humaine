@@ -662,6 +662,9 @@ main { min-height: 60vh; padding: clamp(1.5rem, 3.5vw, 3.5rem) clamp(1rem, 4vw, 
 .article-overview { margin-bottom: 1.65rem; padding: 1.1rem 1.2rem; border: 1px solid #CFDFDA; border-left: 3px solid var(--color-accent); border-radius: 8px; background: #F0F6F4; }
 .article-overview h2 { color: var(--color-accent); }
 .article-overview p { color: var(--color-text); }
+.article-mirror { margin: 2rem 0 0; padding: clamp(1rem, 3.5vw, 1.6rem); border-left: 3px solid var(--color-accent); border-radius: 0 8px 8px 0; background: #F0F6F4; }
+.article-content .article-mirror h2 { margin: 0 0 .75rem; color: var(--color-accent); }
+.article-content .article-mirror p:last-child { margin-bottom: 0; }
 .article-end-topics { margin-top: 1.4rem; }
 .article-card .card-title a { color: var(--color-text); }
 .card-description { color: var(--color-text-light); }

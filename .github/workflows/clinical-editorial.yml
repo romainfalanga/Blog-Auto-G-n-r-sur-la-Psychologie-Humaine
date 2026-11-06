@@ -1,0 +1,58 @@
+name: Atelier éditorial des parcours cliniques
+
+on:
+  workflow_dispatch:
+    inputs:
+      character:
+        description: Identifiant du personnage dans data/clinical_catalog.json
+        required: true
+        type: string
+      mode:
+        description: Préparer le dossier ou rédiger un brouillon
+        type: choice
+        options:
+          - brief
+          - draft
+        default: brief
+      episodes:
+        description: Nombre d’épisodes pour le brouillon (1 à 12)
+        type: number
+        default: 12
+
+permissions:
+  contents: read
+
+concurrency:
+  group: clinical-editorial-${{ inputs.character }}
+  cancel-in-progress: false
+
+jobs:
+  editorial:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r scripts/requirements.txt
+      - name: Préparer le dossier du personnage
+        env:
+          CHARACTER: ${{ inputs.character }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/clinical-editorial"
+          python scripts/clinical_editorial.py brief "$CHARACTER" > "$RUNNER_TEMP/clinical-editorial/dossier.json"
+      - name: Rédiger les épisodes à relire
+        if: inputs.mode == 'draft'
+        env:
+          CHARACTER: ${{ inputs.character }}
+          EPISODES: ${{ inputs.episodes }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          CLINICAL_EDITOR_MODEL: ${{ vars.CLINICAL_EDITOR_MODEL }}
+        run: python scripts/clinical_editorial.py draft "$CHARACTER" --episodes "$EPISODES" --output "$RUNNER_TEMP/clinical-editorial/brouillon.json"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: dossier-editorial
+          path: ${{ runner.temp }}/clinical-editorial/
+          retention-days: 14

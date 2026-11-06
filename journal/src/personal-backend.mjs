@@ -1,6 +1,7 @@
 import { accessSql } from './entitlements.mjs';
 import {PSYCHOLOGY_CATALOG,buildPsychologyMap} from './psychology-map.mjs';
 import {expandReadingQuery,lookupReadingCatalogue} from './reading-intent.mjs';
+import {createPeopleObservationApi} from './people-observations.mjs';
 import {PORTRAIT_ANALYSIS_VERSION} from './portrait-language.mjs';
 import {loadContext,hasPersonalizationSources,validatePortraitV2,contextHash} from './private-context.mjs';
 export {hasPersonalizationSources,validatePortraitV2};
@@ -10,6 +11,7 @@ const dateString=date=>{const p=dateInParis(date);return `${p.year}-${p.month}-$
 function parisMidnight(day){let epoch=Date.parse(day+'T00:00:00Z');for(let i=0;i<3;i++){const parts=Object.fromEntries(new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Paris',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',second:'2-digit',hourCycle:'h23'}).formatToParts(new Date(epoch)).filter(p=>p.type!=='literal').map(p=>[p.type,p.value]));const displayed=Date.parse(`${parts.year}-${parts.month}-${parts.day}T${parts.hour}:${parts.minute}:${parts.second}Z`);epoch+=Date.parse(day+'T00:00:00Z')-displayed;}return new Date(epoch).toISOString();}
 export function parisWeek(at=new Date()) {const local=dateString(at instanceof Date?at:new Date(at*1000)),d=new Date(local+'T12:00:00Z');d.setUTCDate(d.getUTCDate()-(d.getUTCDay()+6)%7);const week_start=d.toISOString().slice(0,10);d.setUTCDate(d.getUTCDate()+7);return {week_start,renews_at:parisMidnight(d.toISOString().slice(0,10)),time_zone:'Europe/Paris'};}
 export function createPersonalBackend({error,json,text,body,now,random,decorateLikes,recommender,examples=[]}) {
+ const peopleObservations=createPeopleObservationApi({error,json,body});
  const first=(env,sql,...args)=>env.DB.prepare(sql).bind(...args).first();
  const all=async(env,sql,...args)=>(await env.DB.prepare(sql).bind(...args).all()).results;
  const run=(env,sql,...args)=>env.DB.prepare(sql).bind(...args).run();
@@ -148,6 +150,8 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
   return crud(request,env,user,path,url);
  }
  async function routes(request,env,user,path,url,ctx){
+  const observationsResponse=await peopleObservations.routes(request,env,user,path);
+  if(observationsResponse)return observationsResponse;
   const response=await routePersonal(request,env,user,path,url);
   if(response&&['PUT','POST','PATCH','DELETE'].includes(request.method)&&(/^\/api\/(self-profile|people|life-events)(?:\/|$)/.test(path)||path==='/api/portrait/feedback'))await sourcesChanged(env,user.id,ctx);
   return response;
@@ -277,7 +281,7 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
   return result;
  }
  async function exportData(env,userId){
-  const [self_profile,recommendation_exposures,people,events,characters,story_requests,stories,feedback]=await Promise.all([
+  const [self_profile,recommendation_exposures,people,events,characters,story_requests,stories,feedback,observations]=await Promise.all([
    first(env,'SELECT self_data,self_revision FROM profiles WHERE user_id=?',userId),
    all(env,'SELECT article_id,shown_at FROM recommendation_exposures WHERE user_id=? ORDER BY shown_at DESC LIMIT 100',userId),
    all(env,'SELECT * FROM personal_people WHERE user_id=? ORDER BY id',userId),
@@ -285,13 +289,14 @@ export function createPersonalBackend({error,json,text,body,now,random,decorateL
    all(env,'SELECT * FROM personal_characters WHERE user_id=? ORDER BY slot',userId),
    all(env,'SELECT * FROM story_requests WHERE user_id=? ORDER BY created_at,id',userId),
    all(env,'SELECT * FROM stories WHERE user_id=? ORDER BY character_id,episode_number',userId),
-   all(env,'SELECT * FROM feedback WHERE user_id=?',userId)
+   all(env,'SELECT * FROM feedback WHERE user_id=?',userId),
+   peopleObservations.exportData(env,userId)
   ]);
   return {self_profile,recommendation_exposures,people:people.map(personRow),
    events:await Promise.all(events.map(async row=>({...await eventRow(env,row),fiction_use:row.fiction_use}))),
    // Retired private material remains available only as an account data export.
    characters:characters.map(({user_id,...row})=>({...row,identity:parse(row.identity),facet:parse(row.facet),narrative_state:parse(row.narrative_state)})),
-   story_requests,stories,feedback};
+   story_requests,stories,feedback,...observations};
  }
  function readingSuggestionsFromContext(c,{query='',limit=6}={}){
   // This helper accepts only the authenticated, request-local server snapshot.

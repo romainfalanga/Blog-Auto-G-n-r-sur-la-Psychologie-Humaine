@@ -20,6 +20,8 @@ jobs:
       - run: node scripts/build_navigation.mjs --check
       - run: node scripts/build_psychology_catalog.mjs --check
       - run: python scripts/build_article_intros.py --check
+      - run: python scripts/build_examples.py --check
+      - run: python scripts/clinical_editorial.py check
       - run: python scripts/check_editorial_pack.py
       - run: python scripts/integrate_editorial_pack.py --check
       - run: node --test tests/*.test.cjs

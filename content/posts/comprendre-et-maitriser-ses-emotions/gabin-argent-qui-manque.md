@@ -1,0 +1,46 @@
+---
+title: L’argent qui manque
+description: Pendant sa pause, Gabin reconnaît l’envie de rejouer pour récupérer une
+  perte et demande au service d’en parler avec lui.
+slug: gabin-argent-qui-manque
+date: '2026-11-06T00:00:00+00:00'
+draft: false
+personnage: Gabin
+sujet: Trouble lié aux jeux d’argent
+contexte: repérer l’idée de rattraper une perte et demander de l’aide avant une nouvelle
+  mise
+tags:
+- Jeux d’argent
+- Jeu pathologique
+- Rattrapage des pertes
+- Envie de rejouer
+- Service d’addictologie
+categories:
+- Comprendre et maîtriser ses émotions
+editorial_pack: clinical-v17
+clinical_code: 6C50
+episode: 2
+---
+
+Gabin s’aperçoit qu’il a préparé une assiette de trop quand le dernier plateau sort. Le collègue qui ramasse les bacs lui demande s’il veut la garder pour sa pause. Gabin répond oui et descend s’asseoir près de la porte de livraison. Il a encore le goût du persil sur le bout du pouce. Devant lui, les bacs à roulettes remontent à vide vers la cuisine.
+
+Sur une feuille prise dans la poche de sa veste, il a écrit ce qu’il peut verser à Nora cette semaine. Il a parlé du jeu à table la veille. Elle lui a demandé de préciser avant mercredi l’argent qui manque, parce qu’elle doit elle aussi faire ses comptes. Elle n’a pas ouvert son téléphone. Gabin s’était attendu à devoir montrer chaque mouvement. Il s’est trouvé démuni devant la seule question à laquelle il ne savait pas encore répondre.
+
+Il inscrit un chiffre dans la marge, puis le barre. C’est la somme qu’il voudrait revoir sur son compte. Pendant un instant, rejouer lui paraît être le moyen de pouvoir rentrer avec une réponse convenable. Il commence déjà à imaginer ce qu’il dirait à Nora si le montant était de nouveau disponible. Il lui faut quelques secondes pour s’apercevoir qu’il pense à cette conversation comme si l’argent était revenu. À son prochain service, il doit aider à changer un menu. Pour le moment, il ne sait même plus ce qu’il avait gardé dans son assiette.
+
+## Reconnaître une tentative de rattrapage
+
+Chercher à regagner au jeu une somme déjà perdue peut prolonger les dépenses et aggraver leurs conséquences. Chez Gabin, l’envie se présente comme un moyen de répondre à une question sur le loyer. Il peut reconnaître la situation en reprenant les faits. La somme manque aujourd’hui et une mise supplémentaire peut créer une nouvelle perte. La difficulté à s’arrêter malgré les conséquences fait partie de ce que les professionnels examinent dans le trouble lié aux jeux d’argent. Un exemple comme cette pause aide le service à comprendre à quel moment l’idée prend de la place.
+
+## Sortir la question du loyer du résultat du jeu
+
+Le NICE recommande d’examiner avec la personne ce qui précède les envies de jouer, le rôle qu’elle donne au jeu et ses difficultés financières. Gabin peut apporter deux questions distinctes. Il veut parler au service de ce qui lui arrive quand il a peur d’annoncer une perte. Il souhaite aussi connaître les appuis qui existent pour examiner son budget. Il peut demander un rendez-vous plus proche si l’envie persiste et parler à Nora du montant disponible. La situation du loyer doit être regardée avec les sommes qu’il connaît et, si besoin, l’aide d’un service compétent. Elle ne peut pas être résolue par un gain qu’il imagine.
+
+## Avant de remonter en cuisine
+
+Il range la feuille et laisse au service un message. Il décrit l’envie de rejouer quand il essaye de calculer ce qui manque. Ensuite seulement, il rouvre la conversation avec Nora pour lui proposer le moment qu’ils avaient évoqué. Sur son plateau, le persil a collé au bord de l’assiette. Il retourne au vestiaire et garde le papier avec lui. Le chiffre barré lui servira pour parler de ce qui lui a traversé l’esprit.
+
+## Sources
+
+- [OMS, descriptions cliniques de la CIM-11](https://www.who.int/publications/i/item/9789240077263)
+- [NICE NG248, repérage et accompagnement des dommages liés aux jeux d’argent](https://www.nice.org.uk/guidance/ng248/chapter/recommendations)
